@@ -1,0 +1,1 @@
+63.pants. Apdrošināšanas vai pārapdrošināšanas sabiedrība, norādot iemeslus, informē Komisiju, ja kāda no šā likuma 58.panta pirmajā daļā un 61.panta pirmajā daļā minētajām personām tiek atcelta no amata, jo tā vairs neatbilst šā likuma 58.panta pirmajā daļā un 61.panta pirmajā daļā noteiktajām prasībām.

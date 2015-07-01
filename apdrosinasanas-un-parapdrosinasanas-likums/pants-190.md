@@ -1,0 +1,1 @@
+190.pants. Apdrošinātājs, kurš vēlas veikt palīdzības apdrošināšanu, ir tiesīgs izmantot pakalpojumus, ko sniedz cita persona, kurai ir personāls un aprīkojums, ieskaitot sertificētu medicīnisko personālu, kā arī citi līdzekļi, kas nepieciešami, lai nodrošinātu apdrošināšanas līgumos paredzēto saistību izpildi šajā apdrošināšanas veidā.

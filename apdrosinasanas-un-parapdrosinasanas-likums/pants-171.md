@@ -1,0 +1,6 @@
+171.pants. (1) Nedalībvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pašu kapitāls maksātspējas kapitāla prasības apmērā. Izmantojamā pašu kapitāla aprēķināšanas kārtību nosaka Komisija.
+(2) Nedalībvalsts apdrošinātāja filiāle aprēķina maksātspējas kapitāla prasību un minimālo kapitāla prasību saskaņā ar šā likuma XV nodaļā noteikto. Aprēķinot maksātspējas kapitāla prasību un minimālo kapitāla prasību, ņem vērā tikai nedalībvalsts apdrošinātāja filiāles veiktos darījumus.
+(3) Nedalībvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pamata pašu kapitāls minimālās kapitāla prasības apmērā. Izmantojamā pamata pašu kapitāla aprēķināšanas kārtību nosaka Komisija.
+(4) Nedalībvalsts apdrošinātāja filiāles minimālās kapitāla prasības absolūti minimālā vērtība ir 50 procentu apmērā no šā likuma 130.panta trešajā daļā minētās minimālās prasības absolūti minimālās vērtības.
+(5) Drošības naudas apmēru, ko nedalībvalsts apdrošinātāja filiāle nogulda saskaņā ar šā likuma 164.panta otrās daļas 1.punkta "e" apakšpunktu, ņem vērā, aprēķinot nedalībvalsts apdrošinātāja filiāles izmantojamo pašu kapitālu, lai segtu minimālo kapitāla prasību.
+(6) Nedalībvalsts apdrošinātāja filiāle aktīvus maksātspējas kapitāla prasības apmērā iegulda dalībvalstīs, tai skaitā aktīvus minimālās kapitāla prasības apmērā - Latvijas Republikā.

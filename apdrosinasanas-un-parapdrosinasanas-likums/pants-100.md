@@ -1,0 +1,3 @@
+100.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrība aprēķina tehnisko rezervi katram apdrošināšanas un pārapdrošināšanas līgumam atsevišķi, nodrošinot šīs tehniskās rezerves izveidošanu vismaz tādā apmērā, kāds būtu nepieciešams, lai tehniskās rezerves aprēķināšanas dienā apdrošināšanas un pārapdrošināšanas saistības nodotu citam apdrošinātājam vai pārapdrošinātājam.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrība tehnisko rezervju aprēķināšanai izmanto finanšu tirgos iegūtos datus un vispārīgi pieejamos datus par apdrošināšanas un pārapdrošināšanas risku parakstīšanu un aprēķinus veic saskaņā ar šiem datiem.
+(3) Apdrošināšanas vai pārapdrošināšanas sabiedrība tehniskās rezerves aprēķina piesardzīgi, ticami un objektīvi.

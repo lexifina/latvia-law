@@ -1,0 +1,1 @@
+135.pants. Apdrošināšanas vai pārapdrošināšanas sabiedrība nedrīkst tieši vai netieši izsniegt aizdevumu pašu izlaisto akciju vai daļu vai ar attiecīgo sabiedrību saistīto personu izlaisto akciju vai daļu iegādei, kā arī pieņemt par saistību nodrošinājumu pašu akcijas vai daļas.

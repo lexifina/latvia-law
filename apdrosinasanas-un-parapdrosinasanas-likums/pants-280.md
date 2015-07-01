@@ -1,0 +1,3 @@
+280.pants. (1) Citā dalībvalstī ieceltam likvidatoram vai administratoram, īstenojot savas pilnvaras, ir pienākums likvidāciju reģistrēt Latvijas Republikas publiskajos reģistros.
+(2) Latvijas Republikā ieceltam likvidatoram vai administratoram, īstenojot savas pilnvaras, ir pienākums reorganizācijas pasākumus vai likvidāciju reģistrēt iesaistītās valsts publiskajos reģistros, ja šādas reģistrācijas nepieciešamību nosaka attiecīgās dalībvalsts tiesību akti.
+(3) Izdevumus, kas saistīti ar reorganizācijas pasākumu vai likvidācijas reģistrāciju dalībvalstu publiskajos reģistros, iekļauj šo procesu izmaksās.

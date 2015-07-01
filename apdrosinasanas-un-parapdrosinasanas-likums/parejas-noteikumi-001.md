@@ -1,0 +1,3 @@
+1. Ar 2016.gada 1.janvāri spēku zaudē:
+1) Apdrošināšanas sabiedrību un to uzraudzības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 15.nr.; 1999, 10.nr.; 2000, 13.nr.; 2002, 12.nr.; 2003, 9.nr.; 2004, 2., 14.nr.; 2005, 2., 14.nr.; 2006, 1.nr.; 2007, 15.nr.; 2008, 14., 15., 23.nr.; Latvijas Vēstnesis, 2009, 35., 39., 205.nr.; 2010, 160.nr.; 2012, 92., 154.nr.; 2013, 106., 192.nr.; 2014, 119.nr.);
+2) Pārapdrošināšanas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 15.nr.; Latvijas Vēstnesis, 2009, 39., 205.nr.; 2013, 106., 193.nr.; 2014, 119.nr.)

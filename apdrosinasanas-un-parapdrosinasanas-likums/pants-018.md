@@ -1,0 +1,7 @@
+18.pants. (1) Šā likuma 16.panta otrajā daļā minēto apdrošināšanas sabiedrību rīcībā ir izmantojamais pamata pašu kapitāls:
+1) nosacītās dzīvības apdrošināšanas minimālās kapitāla prasības apmērā attiecībā uz dzīvības apdrošināšanas darbību;
+2) nosacītās nedzīvības apdrošināšanas minimālās kapitāla prasības apmērā attiecībā uz nedzīvības apdrošināšanas darbību.
+(2) Normatīvo aktu kvantitatīvās un kvalitatīvās prasības attiecībā uz izmantojamā pamata pašu kapitāla aprēķināšanas kārtību, lai izpildītu nosacīto dzīvības apdrošināšanas minimālo kapitāla prasību un nosacīto nedzīvības apdrošināšanas minimālo kapitāla prasību, attiecina uz dzīvības un nedzīvības apdrošināšanas darbību atsevišķi.
+(3) Normatīvo aktu kvantitatīvās un kvalitatīvās prasības attiecībā uz izmantojamā pašu kapitāla aprēķināšanas kārtību, lai izpildītu maksātspējas kapitāla prasību, attiecina uz dzīvības un nedzīvības apdrošināšanas darbību kopumā.
+(4) Ja izmantojamā pamata pašu kapitāla posteņu summa attiecībā uz vienu no šā panta pirmajā daļā minētajām apdrošināšanas darbībām ir nepietiekama, lai segtu nosacīto minimālo kapitāla prasību, šā likuma XVII nodaļas prasības, kas attiecas uz minimālās maksātspējas kapitāla prasības neievērošanas gadījumiem, attiecināmas uz apdrošināšanas darbību, kurai nosacītā minimālā kapitāla prasība nav izpildīta, neatkarīgi no otras apdrošināšanas darbības rezultātiem.
+(5) Apdrošināšanas sabiedrība var pārnest noteiktus izmantojamā pamata pašu kapitāla posteņus no vienas apdrošināšanas darbības uz otru, ja saņemta Komisijas atļauja.

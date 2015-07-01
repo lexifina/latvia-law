@@ -1,0 +1,1 @@
+37.pants. Ja apdrošināšanas sabiedrība ir saņēmusi apdrošināšanas licenci šā likuma 19.panta pirmās daļas 18.punktā norādītajam apdrošināšanas veidam, Komisija uzraudzību attiecina arī uz tehniskajiem līdzekļiem, kuri ir apdrošināšanas sabiedrības rīcībā palīdzības sniegšanai, ko tā uzņēmusies veikt, ja mītnes dalībvalsts tiesību akti paredz šādu līdzekļu uzraudzību.

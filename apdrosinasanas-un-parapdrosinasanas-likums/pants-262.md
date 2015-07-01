@@ -1,0 +1,2 @@
+262.pants. (1) Administratoram ir pienākums triju mēnešu laikā pēc tam, kad pieņemts nolēmums par maksātnespējas procesa pasludināšanu, novērtējot apdrošināto intereses, nodot vai izbeigt apdrošināšanas līgumus šā likuma 254.pantā noteiktajā kārtībā.
+(2) Apdrošināšanas līgumi, kuru termiņš beidzas triju mēnešu laikā pēc tiesas nolēmuma par maksātnespējas procesa pasludināšanu pieņemšanas, nav izbeidzami, izņemot gadījumus, kad apdrošināšanas līgums tiek izbeigts pēc apdrošinājuma ņēmēja iniciatīvas.

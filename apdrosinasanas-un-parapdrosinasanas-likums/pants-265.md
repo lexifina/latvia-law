@@ -1,0 +1,7 @@
+265.pants. Pēc maksātnespējas procesa izdevumu segšanas atlikušie naudas līdzekļi tiek sadalīti apdrošināto un citu kreditoru prasījumu apmierināšanai šādās grupās:
+1) apdrošinājuma ņēmēju (apdrošināto) prasījumi par apdrošināšanas atlīdzības izmaksām un citi prasījumi (apdrošināšanas prēmijas) par noslēgtajiem apdrošināšanas līgumiem, Komisijas prasījums, ja apdrošinājuma ņēmējs - fiziskā persona - ir saņēmis apdrošināšanas atlīdzību no Apdrošināto aizsardzības fonda;
+2) kreditoru prasījumi saskaņā ar Maksātnespējas likuma 118.panta otro, trešo un ceturto daļu;
+3) prasījumi par procentu maksājumiem kreditoriem;
+4) to kreditoru prasījumi, kuri savus prasījumus pieteikuši pēc noteiktā termiņa;
+5) prasījumi par pakārtoto saistību atmaksāšanu;
+6) apdrošināšanas sabiedrības akcionāru vai biedru prasījumi proporcionāli akcionāru vai biedru ieguldījumam apdrošināšanas sabiedrības pamatkapitālā tiek apmierināti pēc visu šajā pantā iepriekš minēto prasījumu apmierināšanas.

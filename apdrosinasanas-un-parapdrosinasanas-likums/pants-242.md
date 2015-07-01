@@ -1,0 +1,1 @@
+242.pants. Ja atbilstoši šā likuma 241.pantā noteiktajam tiek atzīts, ka nedalībvalsts uzraudzības režīms ir līdzvērtīgs šajā likumā noteiktajam, Komisija, sadarbojoties ar nedalībvalsts uzraudzības iestādi, piemēro šā likuma XXXII nodaļas prasības.

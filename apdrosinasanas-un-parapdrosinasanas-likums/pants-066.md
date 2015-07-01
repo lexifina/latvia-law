@@ -1,0 +1,7 @@
+66.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrība nodrošina efektīvas iekšējās kontroles sistēmas izveidi un darbību, kas aptver vismaz administratīvos un grāmatvedības procesus un iekšējās kontroles procedūras, nodrošinot atbilstošu iekšējās informācijas apmaiņu visos šīs sabiedrības līmeņos.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrība nodrošina, ka iekšējās kontroles sistēma ietver darbības atbilstības funkciju. Par darbības atbilstības funkciju atbildīgā persona veic šādus pienākumus:
+1) novērtē apdrošināšanas vai pārapdrošināšanas sabiedrības darbības atbilstību šajā likumā un citos normatīvajos aktos noteiktajām prasībām, kas ir šai sabiedrībai saistošas, un sagatavo valdei ziņojumu par konstatētajām neatbilstībām;
+2) novērtē tiesiskajā vidē sagaidāmo izmaiņu iespējamo ietekmi uz apdrošināšanas vai pārapdrošināšanas sabiedrības darbību, kā arī identificē un novērtē atbilstības risku;
+3) par katru šā panta otrās daļas 1. un 2.punktā veikto novērtējumu sagatavo rakstveida ziņojumu attiecīgās sabiedrības valdei.
+(3) Apdrošināšanas vai pārapdrošināšanas sabiedrības valde izskata par darbības atbilstības funkciju atbildīgās personas sagatavoto ziņojumu, attiecībā uz katru konstatēto trūkumu un sniegto ieteikumu pieņem lēmumu par veicamajiem pasākumiem un nodrošina pieņemto lēmumu izpildi.
+(4) Prasības šajā pantā minēto sistēmu elementiem un darbības atbilstības funkcijai nosaka ES Regula Nr. 2015/35.

@@ -1,0 +1,1 @@
+188.pants. Palīdzības apdrošināšana ir tāda apdrošināšana, kas paredz saskaņā ar noslēgto apdrošināšanas līgumu nodrošināt apdrošinātajam tūlītēju palīdzības sniegšanu gadījumos, kad tas ir nokļuvis grūtībās ceļojuma laikā, esot prom no savām mājām vai arī esot prom no savas pastāvīgās dzīvesvietas. Šāda palīdzība ir naudas maksājums vai pakalpojuma sniegšana apdrošinātajam.

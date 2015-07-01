@@ -1,0 +1,14 @@
+153.pants. (1) Komisija triju mēnešu laikā pēc šā likuma 152.panta otrajā daļā minētā iesnieguma un tam pievienotās informācijas saņemšanas par to informē filiāles dalībvalsts uzraudzības iestādi un apdrošināšanas sabiedrību, paziņojumā ietverot apliecinājumu, ka attiecīgā sabiedrība izpilda maksātspējas kapitāla prasību un minimālo kapitāla prasību, izņemot šā panta otrajā daļā noteiktos gadījumus.
+(2) Komisija pieņem lēmumu par atteikumu atļaut apdrošināšanas sabiedrībai atvērt filiāli dalībvalstī un šā panta pirmajā daļā minēto paziņojumu nenosūta dalībvalsts uzraudzības iestādei šādos gadījumos:
+1) apdrošināšanas sabiedrības iesniegtie dokumenti satur nepatiesas vai nepilnīgas ziņas;
+2) apdrošināšanas sabiedrības pārvaldības sistēma neļauj nodrošināt Latvijas Republikas normatīvajiem aktiem atbilstošu filiāles uzraudzību;
+3) apdrošināšanas sabiedrības filiāles vadītājs (persona, kura, pieņemot būtiskus lēmumus filiāles vārdā, rada apdrošināšanas sabiedrībai civiltiesiskas saistības) neatbilst šā likuma 58.panta prasībām;
+4) apdrošināšanas sabiedrības izmantojamais pašu kapitāls neatbilst maksātspējas kapitāla prasībai vai izmantojamais pamata pašu kapitāls neatbilst minimālajai kapitāla prasībai;
+5) nav novērsti Komisijas konstatētie pārkāpumi.
+(3) Komisija šā panta otrajā daļā minēto lēmumu pieņem triju mēnešu laikā pēc visas šā likuma 152.panta otrajā daļā minētās informācijas saņemšanas un nosūta to apdrošināšanas sabiedrībai.
+(4) Ja apdrošināšanas sabiedrība sākusi apdrošināšanas pakalpojumu sniegšanu dalībvalstī ar filiāles starpniecību, Komisija ir tiesīga pieņemt lēmumu, kurā pieprasa, lai attiecīgā sabiedrība izbeidz apdrošināšanas pakalpojumu sniegšanu dalībvalstī, šādos gadījumos:
+1) apdrošināšanas sabiedrības iesniegtie dokumenti satur nepatiesas vai nepilnīgas ziņas par apdrošināšanas pakalpojumu sniegšanu dalībvalstī ar filiāles starpniecību;
+2) apdrošināšanas sabiedrības un tās filiāles darbība dalībvalstī neļauj nodrošināt Latvijas Republikas apdrošinātāju darbību regulējošiem normatīvajiem aktiem atbilstošu apdrošināšanas sabiedrības un tās filiāles darbības uzraudzību dalībvalstī;
+3) apdrošināšanas pakalpojumu sniegšana dalībvalstī ar filiāles starpniecību apdraud vai var apdraudēt apdrošināšanas sabiedrības finansiālo stabilitāti un apdrošināšanas līgumos paredzēto saistību izpildi.
+(5) Komisija pēc filiāles dalībvalsts uzraudzības iestādes sniegtās informācijas saņemšanas nekavējoties rakstveidā informē apdrošināšanas sabiedrību par sabiedrības intereses aizsargājošajos likumos ietvertajām prasībām, kuras nepieciešams ievērot, sniedzot apdrošināšanas pakalpojumus filiāles dalībvalstī.
+(6) Pēc šā panta piektajā daļā minētās informācijas saņemšanas vai pēc diviem mēnešiem no dienas, kad Komisija nosūtījusi paziņojumu filiāles dalībvalsts uzraudzības iestādei, apdrošināšanas sabiedrība var atvērt filiāli dalībvalstī un sākt apdrošināšanas pakalpojumu sniegšanu.

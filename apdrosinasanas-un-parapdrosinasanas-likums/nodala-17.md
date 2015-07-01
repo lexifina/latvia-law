@@ -1,0 +1,2 @@
+XVII nodaļa
+Apdrošināšanas vai pārapdrošināšanas sabiedrības finansiālā stāvokļa pasliktināšanās

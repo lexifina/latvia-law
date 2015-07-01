@@ -1,0 +1,2 @@
+84.pants. (1) Apdrošinātāja pienākums, ja likumā nav noteikts citādi, ir neizpaust informāciju par apdrošinājuma ņēmēju un apdrošināto.
+(2) Lai samazinātu apdrošinātāja darbības risku un novērstu krāpšanu, apdrošinātājam ir tiesības tieši vai ar īpaši izveidotas institūcijas starpniecību savstarpēji apmainīties ar ziņām par apdrošinājuma ņēmējiem, apdrošinātajiem un spēkā esošajiem apdrošināšanas līgumiem.

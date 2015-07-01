@@ -1,0 +1,2 @@
+54.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrība, izmantojot tās darbībai atbilstošas sistēmas, resursus un procedūras, savlaicīgi veic nepieciešamos pasākumus, lai nodrošinātu savas darbības nepārtrauktību un veikto darījumu regularitāti.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrība izstrādā un apstiprina plānu neparedzētu situāciju novēršanai. Apdrošināšanas vai pārapdrošināšanas sabiedrības valde ir atbildīga par minētā plāna regulāru pārskatīšanu un tā precizēšanu atbilstoši izrmaiņām attiecīgās sabiedrības darbībā un ārējā vidē.

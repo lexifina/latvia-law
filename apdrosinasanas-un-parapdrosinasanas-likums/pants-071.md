@@ -1,0 +1,4 @@
+71.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrība izstrādā un apstiprina sūdzību pārvaldības kārtību, nodrošinot sūdzībā norādīto faktu pārbaudi, iespējamo interešu konfliktu konstatēšanu un novēršanu, un ir atbildīga par šīs kārtības ievērošanu. Rakstveida informācija par sūdzību izskatīšanas procesu ir brīvi pieejama apdrošināšanas pakalpojumu sniegšanas vietās un apdrošināšanas vai pārapdrošināšanas sabiedrības mājaslapā internetā, ja tāda ir izveidota.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrība regulāri izskata saņemtās sūdzības, analizē tās, izvērtē to iemeslus un cēloņus, kā arī veic pasākumus konstatēto cēloņu novēršanai.
+(3) Apdrošināšanas vai pārapdrošināšanas sabiedrība nodrošina saņemto sūdzību un sniegto atbilžu elektronisku reģistrāciju.
+(4) Komisija nosaka saņemto sūdzību izskatīšanas un reģistrācijas kārtību, kā arī kārtību, kādā sagatavojami pārskati par sūdzībām.

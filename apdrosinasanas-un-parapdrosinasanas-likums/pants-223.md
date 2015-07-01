@@ -1,0 +1,1 @@
+223.pants. Ja šā likuma 222.pantā noteiktajā gadījumā iesaistītās uzraudzības iestādes šā likuma 222.panta trešajā daļā noteiktajā termiņā nepieņem saskaņotu lēmumu par tās dalībvalsts uzraudzības iestādes izvēli, kurai tiks deleģēta grupas uzraudzība, grupas uzraudzību veic Komisija.

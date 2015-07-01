@@ -1,0 +1,1 @@
+186.pants. Izbeidzot apdrošināšanas komersanta darbību, saistības, kas izriet no līdzdalības Eiropas Savienības kopapdrošināšanas līgumos, īsteno tāpat kā saistības, kas izriet no citiem minētā apdrošināšanas komersanta apdrošināšanas līgumiem, neatkarīgi no apdrošināšanas atlīdzības saņēmēju valstiskās piederības.

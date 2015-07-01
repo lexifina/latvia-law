@@ -1,0 +1,1 @@
+192.pants. Apdrošinātājs, kurš veic juridisko izdevumu apdrošināšanu, ir tiesīgs uzticēt kompetentai personai ar juridisko izdevumu apdrošināšanu saistīto prasību noregulēšanu. Ja ar juridisko izdevumu apdrošināšanu saistīto prasību noregulēšanu veic apdrošinātāja darbinieks, tad viņš darbojas tikai šajā apdrošināšanas veidā.

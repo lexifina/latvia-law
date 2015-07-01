@@ -1,0 +1,1 @@
+128.pants. Komisija nosaka prasības attiecībā uz iekšējo modeļu izmantošanas testu, statistiskās kvalitātes standartiem, kalibrēšanas standartiem, peļņas un zaudējumu attiecinājumu uz nozīmīgām komercdarbības struktūrvienībām, apstiprināšanas (validācijas) standartiem un dokumentēšanas standartiem.

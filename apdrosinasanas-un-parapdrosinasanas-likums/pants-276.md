@@ -1,0 +1,1 @@
+276.pants. Reorganizācijas pasākumos un likvidācijā nav tiesību pārsūdzēt darījumu, ja persona, kas guvusi labumu no kāda kreditora interesēm neizdevīga darījuma, pierāda, ka attiecīgais darījums veikts saskaņā ar citas dalībvalsts tiesību aktiem un ka konkrētajā lietā šie tiesību akti neļauj pārsūdzēt minēto darījumu.

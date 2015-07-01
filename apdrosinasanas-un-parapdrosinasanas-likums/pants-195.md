@@ -1,0 +1,1 @@
+195.pants. Ja apdrošinājuma ņēmējs ietilpst komercsabiedrību grupā, kurai tiek veidots konsolidētais gada pārskats, šā likuma 194.panta 3.punktā noteiktos kritērijus piemēro, pamatojoties uz konsolidēto gada pārskatu.

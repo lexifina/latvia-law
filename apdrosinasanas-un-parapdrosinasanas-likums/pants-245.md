@@ -1,0 +1,2 @@
+245.pants. (1) Ja vienas vai vairāku apdrošināšanas vai pārapdrošināšanas sabiedrību mātes sabiedrība ir daudznozaru apdrošināšanas pārvaldītājsabiedrība, Komisija īsteno to grupas iekšējo darījumu uzraudzību, kurus veic minētās apdrošināšanas vai pārapdrošināšanas sabiedrības un daudznozaru apdrošināšanas pārvaldītājsabiedrība, kā arī tās saistītās sabiedrības.
+(2) Grupas iekšējo darījumu uzraudzība tiek veikta saskaņā ar šā likuma 219., 231., 232., 233., 234., 235., 236., 237. un 239.pantā noteikto.

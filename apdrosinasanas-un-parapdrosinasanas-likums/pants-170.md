@@ -1,0 +1,2 @@
+170.pants. (1) Nedalībvalsts apdrošinātāja filiāle nodrošina pietiekamas tehniskās rezerves to apdrošināšanas un pārapdrošināšanas saistību segšanai, kuras tā ir uzņēmusies Latvijas Republikas teritorijā un kuras aprēķinātas saskaņā ar šā likuma XIII nodaļā noteikto.
+(2) Nedalībvalsts apdrošinātāja filiāle novērtē aktīvus un saistības saskaņā ar šā likuma 98.panta prasībām un nosaka pašu kapitālu saskaņā ar normatīvajiem aktiem apdrošināšanas vai pārapdrošināšanas sabiedrību pašu kapitāla noteikšanas jomā.

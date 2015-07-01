@@ -1,0 +1,3 @@
+2.pants. (1) Šā likuma mērķis ir nodrošināt apdrošinātāju un pārapdrošinātāju darbības uzraudzību, lai padarītu apdrošināšanas sistēmu uzticamu, efektīvu, drošu un stabilu, tādējādi aizsargājot apdrošinājuma ņēmēju un apdrošināto personu intereses.
+(2) Šis likums nosaka apdrošināšanas un pārapdrošināšanas darbības uzsākšanu un veikšanu, apdrošināšanas un pārapdrošināšanas darbības uzraudzību, apdrošināšanas un pārapdrošināšanas grupu uzraudzību un apdrošināšanas sabiedrību un nedalībvalstu apdrošinātāju filiāļu reorganizācijas pasākumus un likvidāciju.
+(3) Šis likums attiecas uz personām, kuras sniedz vai vēlas sniegt nedzīvības apdrošināšanas, dzīvības apdrošināšanas vai pārapdrošināšanas pakalpojumus Latvijas Republikā.

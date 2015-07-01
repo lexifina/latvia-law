@@ -1,0 +1,1 @@
+23. Šā likuma 112.pantā noteikto atbilstības korekciju nepiemēro apdrošināšanas vai pārapdrošināšanas saistībām, ja atbilstošai bezriska procentu likmju termiņstruktūrai tehniskās rezerves vislabākās aplēses aprēķināšanai šīm saistībām piemēro šo pārejas noteikumu 10.punktā minēto minēto pārejas korekciju.

@@ -1,0 +1,2 @@
+290.pants. (1) Apdrošināšanas atlīdzību var izmaksāt no Apdrošināto aizsardzības fonda tikai tad, ja apdrošinātājs vai dalībvalsts apdrošinātājs atzīts par maksātnespējīgu un apdrošinātājam vai dalībvalsts apdrošinātājam nepietiek naudas līdzekļu, lai pilnībā segtu šā likuma 265.panta 1.punktā noteiktos apdrošinājuma ņēmēju (apdrošināto) prasījumus par apdrošināšanas atlīdzību izmaksu.
+(2) Apdrošināšanas atlīdzība no Apdrošināto aizsardzības fonda tiek izmaksāta, pamatojoties uz administratora sagatavoto sarakstu.

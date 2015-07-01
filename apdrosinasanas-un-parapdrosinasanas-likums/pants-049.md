@@ -1,0 +1,2 @@
+49.pants. (1) Pārapdrošināšanas līgumus citam apdrošināšanas vai pārapdrošināšanas komersantam nodod kopā ar tiem atbilstošajiem tehnisko rezervju segumam izmantotajiem aktīviem.
+(2) Ja pārapdrošināšanas līgumi tiek nodoti bez tiem atbilstošajiem tehnisko rezervju segumam izmantotajiem aktīviem, apdrošināšanas sabiedrība, nedalībvalsts apdrošinātāja filiāle vai pārapdrošināšanas sabiedrība, kas pārņem šos līgumus, iesniedz Komisijai tehnisko rezervju seguma atjaunošanas plānu.

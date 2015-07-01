@@ -1,0 +1,7 @@
+238.pants. (1) Apdrošināšanas vai pārapdrošināšanas dalības sabiedrība, apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība katru gadu publisko ziņojumu par grupas maksātspēju un finansiālo stāvokli. Ziņojumā uzrāda gan kvalitatīvos un kvantitatīvos, gan iepriekšējos, pašreizējos un plānotos datus vai jebkuras to kombinācijas, kā arī informāciju no iekšējiem un ārējiem informācijas avotiem.
+(2) Ja tiek saņemta grupas uzraudzības iestādes atļauja, tad apdrošināšanas vai pārapdrošināšanas dalības sabiedrība, apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība var sagatavot vienotu ziņojumu par maksātspēju un finansiālo stāvokli, kurā iekļauj:
+1) informāciju grupas līmenī;
+2) atsevišķi identificējamu informāciju par ikvienu grupas meitas sabiedrību.
+(3) Pirms šā panta otrajā daļā minētās atļaujas izsniegšanas Komisija, ja tā ir grupas uzraudzības iestāde, apspriežas ar uzraugu kolēģijas locekļiem un izvērtē citu uzraugu kolēģijā ietilpstošo uzraudzības iestāžu viedokļus, to skaitā iebildumus.
+(4) Ja šā panta otrajā daļā minētajā ziņojumā nav iekļauta informācija par meitas sabiedrību, kuru pieprasa sniegt Komisija, kas ir licencējusi meitas sabiedrību, un ja neiekļautā informācija ir būtiska, Komisija pieprasa attiecīgajai meitas sabiedrībai atklāt nepieciešamo papildu informāciju.
+(5) Komisija nosaka prasības attiecībā uz šā panta pirmajā daļā minētās informācijas publiskošanu.

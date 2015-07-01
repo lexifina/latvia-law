@@ -1,0 +1,4 @@
+95.pants. (1) Informāciju par personām piemērotajām sankcijām Komisija ievieto savā mājaslapā internetā, norādot ziņas par personu un tās izdarīto pārkāpumu, kā arī par Komisijas pieņemtā lēmuma apstrīdēšanu vai pārsūdzēšanu un pieņemto nolēmumu.
+(2) Šā panta pirmajā daļā minēto informāciju Komisija var publiskot, neidentificējot personu, ja pēc iepriekšēja izvērtējuma veikšanas konstatē, ka tās fiziskās personas datu atklāšana, kurai piemērota sankcija, nav samērīga vai arī fiziskās vai juridiskās personas datu atklāšana var apdraudēt finanšu tirgus stabilitāti vai sākta kriminālprocesa norisi vai radīt nesamērīgu kaitējumu iesaistītajām personām.
+(3) Ja paredzams, ka šā panta otrajā daļā minētie apstākļi saprātīgā laikposmā var izbeigties, šā panta pirmajā daļā noteiktās informācijas publiskošanu var atlikt uz šo laikposmu.
+(4) Šajā pantā noteiktajā kārtībā Komisijas mājaslapā internetā ievietotā informācija ir pieejama piecus gadus no tās ievietošanas dienas.

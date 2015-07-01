@@ -1,0 +1,1 @@
+116.pants. Lai nodrošinātu apdrošināšanas vai pārapdrošināšanas sabiedrības finansiālās darbības stabilitāti, šādas sabiedrības rīcībā pastāvīgi ir izmantojamais pašu kapitāls maksātspējas kapitāla prasības apmērā.

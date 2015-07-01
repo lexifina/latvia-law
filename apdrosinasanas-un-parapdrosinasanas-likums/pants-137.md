@@ -1,0 +1,1 @@
+137.pants. Pārapdrošinātājs, kas ir apdrošināšanas vai pārapdrošināšanas sabiedrība vai dalībvalsts apdrošinātājs un pārapdrošinātājs, nenopelnīto prēmiju un atlikto apdrošināšanas atlīdzības prasību tehnisko rezervju segumu ar aktīviem nodrošina neto tehnisko rezervju apmērā.

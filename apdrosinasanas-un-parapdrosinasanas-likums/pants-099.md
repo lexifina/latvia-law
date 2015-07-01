@@ -1,0 +1,1 @@
+99.pants. Apdrošināšanas vai pārapdrošināšanas sabiedrība tehniskās rezerves izveido tādā apmērā, lai varētu pilnībā izpildīt savas saistības atbilstoši noslēgtajiem apdrošināšanas un pārapdrošināšanas līgumiem.

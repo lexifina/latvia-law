@@ -1,0 +1,2 @@
+124.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrības valde apstiprina pieteikumu Komisijai iekšējā modeļa apstiprināšanai saskaņā ar šā likuma 121.pantā norādīto, kā arī pieteikumu jebkādu turpmāko šajā modelī veicamo būtisko izmaiņu apstiprināšanai.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrības valde ir atbildīga par tādu sistēmu ieviešanu šajā sabiedrībā, ar kurām tiek nodrošināta iekšējā modeļa pienācīga darbība.

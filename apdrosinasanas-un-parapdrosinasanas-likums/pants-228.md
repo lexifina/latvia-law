@@ -1,0 +1,1 @@
+228.pants. Komisija ir tiesīga vērsties ar jautājumu EAAPI, ja uzraugu kolēģijā iesaistītajām uzraudzības iestādēm ir atšķirīgi viedokļi attiecībā uz vienošanos par sadarbību. Komisijai ir saistošs EAAPI pieņemtais lēmums par dalībvalsts uzraudzības iestādi, kura veiks grupas uzraudzību.

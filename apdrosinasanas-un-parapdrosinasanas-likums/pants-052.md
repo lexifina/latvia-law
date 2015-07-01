@@ -1,0 +1,1 @@
+52.pants. Lai novērstu apdrošināšanas sabiedrības maksātnespēju un aizsargātu apdrošinājuma ņēmēju intereses, Komisija var likt apdrošināšanas sabiedrībai visus noslēgtos apdrošināšanas līgumus vai daļu no tiem nodot citam apdrošināšanas komersantam, kurš ir piekritis pieņemt šos līgumus.

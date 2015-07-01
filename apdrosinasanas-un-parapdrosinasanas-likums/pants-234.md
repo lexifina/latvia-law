@@ -1,0 +1,3 @@
+234.pants. (1) Komisija, ja tā ir grupas uzraudzības iestāde, lai iegūtu informāciju grupas uzraudzības veikšanai, sadarbojas ar tās dalībvalsts uzraudzības iestādi, kuras teritorijā atrodas mātes sabiedrības galvenais birojs, bet kura neveic grupas uzraudzību.
+(2) Komisija ir tiesīga pieprasīt, lai tās dalībvalsts uzraudzības iestāde, kuras teritorijā atrodas mātes sabiedrības galvenais birojs, bet kura nav grupas uzraudzības iestāde, iegūst no mātes sabiedrības informāciju, kas Komisijai nepieciešama grupas uzraudzības veikšanai.
+(3) Lai grupas uzraudzības veikšanai iegūtu informāciju, kas jau ir iesniegta citai uzraudzības iestādei, Komisija sadarbojas ar attiecīgo uzraudzības iestādi.

@@ -1,0 +1,1 @@
+35.pants. Komisijas veiktā apdrošināšanas un pārapdrošināšanas darbības uzraudzība aptver arī dalībvalstīs izveidoto apdrošināšanas sabiedrību filiāļu un pārapdrošināšanas sabiedrību filiāļu darbību, kā arī apdrošināšanas vai pārapdrošināšanas sabiedrību sniegtos apdrošināšanas vai pārapdrošināšanas pakalpojumus dalībvalstīs, ievērojot pakalpojumu sniegšanas brīvības principu.

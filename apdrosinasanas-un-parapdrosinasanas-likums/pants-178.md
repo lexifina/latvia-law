@@ -1,0 +1,1 @@
+178.pants. Komisija informē Eiropas Komisiju un EAAPI par būtiskām problēmām, ar kurām saskaras apdrošināšanas vai pārapdrošināšanas sabiedrības, uzsākot vai veicot apdrošināšanu vai pārapdrošināšanu nedalībvalstīs.

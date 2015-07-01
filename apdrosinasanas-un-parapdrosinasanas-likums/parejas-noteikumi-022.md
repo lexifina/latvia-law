@@ -1,0 +1,1 @@
+22. Ja apdrošināšanas vai pārapdrošināšanas sabiedrība veic šo pārejas noteikumu 10. vai 14.punktā minēto pārejas korekciju vai pārejas perioda atskaitījumu, tā novērtē šā likuma 65.panta otrās daļas 2.punktā noteiktās kapitāla prasības izpildes atbilstību divos veidos - veicot un neveicot minēto pārejas korekciju vai pārejas perioda atskaitījumu.

@@ -1,0 +1,3 @@
+255.pants. (1) Uzsākot likvidāciju, apdrošināšanas sabiedrība sagatavo pārskatu, kas atspoguļo tās finansiālo stāvokli līdz likvidācijas uzsākšanas dienai. Pārskatam pievieno valdes un padomes ziņojumus par apdrošināšanas sabiedrības mantas un saistību stāvokli un prognozētajiem likvidācijas rezultātiem.
+(2) Ja likvidācijas laikā beidzas kalendāra gads, tiek sagatavots gada starppārskats, kuram ir tādas pašas sastāvdaļas kā gada pārskatam. Šim gada starppārskatam pievieno ziņojumu, kurā uzrāda likvidācijas gaitā paveikto un turpmāk paredzamo likvidācijas gaitu un rezultātus. Likvidācijas gada starppārskatu pārbauda zvērināts revidents.
+(3) Likvidāciju beidzot, tiek sagatavots likvidācijas slēguma pārskats, kurā atspoguļo finansiālo stāvokli pārskata perioda beigās.

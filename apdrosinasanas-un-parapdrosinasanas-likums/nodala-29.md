@@ -1,0 +1,2 @@
+XXIX nodaļa
+Grupas maksātspēja

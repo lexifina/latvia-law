@@ -1,0 +1,1 @@
+151.pants. Ja apdrošināšanas sabiedrība tiek izslēgta vai izstājas no Latvijas Transportlīdzekļu apdrošinātāju biroja vai tam analogas organizācijas dalībvalstī, apdrošināšanas sabiedrībai ir aizliegts veikt sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu attiecīgajā teritorijā.

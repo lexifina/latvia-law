@@ -1,0 +1,1 @@
+274.pants. Reorganizācijas pasākumu vai likvidācijas veikšana neierobežo kreditoru vai trešo personu lietu tiesības attiecībā uz lietām, kas pieder apdrošinātājam un reorganizācijas pasākumu vai likvidācijas veikšanas laikā atrodas citas dalībvalsts teritorijā.

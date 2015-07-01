@@ -1,0 +1,2 @@
+XXIV nodaļa
+Palīdzības apdrošināšana

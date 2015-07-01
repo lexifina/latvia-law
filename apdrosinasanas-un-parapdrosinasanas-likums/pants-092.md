@@ -1,0 +1,1 @@
+92.pants. Apdrošināšanas vai pārapdrošināšanas sabiedrības valde ir pilnībā atbildīga par to, lai attiecīgā sabiedrība savā darbībā ievērotu šā likuma, Eiropas Savienības tieši piemērojamo tiesību aktu un citu apdrošinātāju vai pārapdrošinātāju darbību regulējošo normatīvo aktu prasības.

@@ -1,0 +1,1 @@
+15. Ja 2016.gada 1.janvārī apdrošināšanas vai pārapdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle piemēro šā likuma 114.pantā minēto svārstīguma korekciju, šo pārejas noteikumu 14.punkta 1.apakšpunktā minēto summu aprēķina, ņemot vērā tādu svārstīguma korekciju, kāda tā ir minētajā dienā.

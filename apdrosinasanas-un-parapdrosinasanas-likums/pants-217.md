@@ -1,0 +1,1 @@
+217.pants. Šā likuma 211., 212., 213., 214., 215. un 216.panta prasības piemēro apdrošināšanas vai pārapdrošināšanas sabiedrībām, kas ir apdrošināšanas pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības meitas sabiedrības.
