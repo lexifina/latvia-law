@@ -1,0 +1,4 @@
+19.pants. Uzraudzības iestādes lēmuma pārsūdzēšana
+(1) Uzraudzības iestādes lēmumu tā adresāts var pārsūdzēt Administratīvajā rajona tiesā normatīvajos aktos noteiktajā kārtībā. Uzraudzības iestādes lēmuma pārsūdzēšana neaptur tā darbību, izņemot šā likuma 15.panta astotās daļas 5.punktā minētā lēmuma darbību.
+(2) Uzraudzības iestādes lēmumu par šā likuma 16.pantā minēto elektroniskā līdzekļa vai tā daļas darbības ierobežošanu vai apturēšanu, 17.pantā minēto lēmumu par komercprakses īstenotāja vai tā uzņēmuma (struktūrvienības) darbības apturēšanu vai atjaunošanu, kā arī 18.pantā minēto lēmumu par pagaidu noregulējumu attiecīgā lēmuma adresāts var pārsūdzēt 10 dienu laikā no tā paziņošanas dienas. Lēmuma pārsūdzēšana neaptur tā darbību.
+(3) Pieteikumu par Uzraudzības iestādes lēmumu par pagaidu noregulējumu tiesa izskata rakstveida procesā 14 dienu laikā. Tiesas lēmums nav pārsūdzams un stājas spēkā tā pieņemšanas dienā.

@@ -1,2 +1,3 @@
-16.pants. Uzraudzības iestādes lēmuma pārsūdzēšana
-Uzraudzības iestādes lēmumu var pārsūdzēt tiesā normatīvajos aktos noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
+16.pants. Uzraudzības iestādes lēmums par elektroniskā līdzekļa vai tā daļas darbības ierobežošanu vai apturēšanu
+(1) Ja komercprakses īstenotājs ilgstoši nepilda šā likuma 15.panta astotās daļas 1., 2. vai 3.punktā minēto lēmumu vai šā lēmuma nepildīšana ir radījusi vai var radīt būtisku kaitējumu patērētāju kolektīvajām interesēm, Uzraudzības iestāde ir tiesīga veikt nepieciešamos tehniski iespējamos pasākumus, lai uz laiku līdz pārkāpuma novēršanai ierobežotu vai apturētu negodīgas komercprakses īstenošanā izmantotā elektroniskā līdzekļa vai tā daļas darbību. Par elektronisko līdzekli šā likuma izpratnē uzskatāma tīmekļa vietne, tiešsaistes lietojumprogramma, domēna vārds un citi elektroniskie līdzekļi.
+(2) Uzraudzības iestādes lēmums par elektroniskā līdzekļa vai tā daļas darbības ierobežošanu vai apturēšanu stājas spēkā tā pieņemšanas dienā.
