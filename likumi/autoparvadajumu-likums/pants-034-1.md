@@ -1,0 +1,2 @@
+34.¹ pants. Iekšzemes pasažieru neregulārie pārvadājumi un iekšzemes pasažieru speciālie regulārie pārvadājumi
+Kārtību, kādā veicami iekšzemes pasažieru neregulārie pārvadājumi un iekšzemes pasažieru speciālie regulārie pārvadājumi, un kārtību, kādā veicama samaksa par iekšzemes pasažieru neregulārajiem pārvadājumu pakalpojumiem un iekšzemes pasažieru speciālajiem regulārajiem pārvadājumu pakalpojumiem Latvijas teritorijā, nosaka Ministru kabinets.
