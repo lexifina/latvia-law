@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Apdrošināšanas un pārapdrošināšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-30",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2025-10-10",
+  "commission_reference": "MNE(2025)05616",
+  "nim_celex": "72022L2556LVA_202505616",
+  "nim_id": "202505616",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16406add-71ae-48b6-ae6b-f5dcb2d92d8a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
