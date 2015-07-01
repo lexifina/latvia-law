@@ -19,7 +19,7 @@
 2) pieprasa izslēgt no reklāmas atsevišķus elementus (informāciju, vizuālos attēlus, skaņu vai citus speciālos efektus);
 3) aizliedz izplatīt reklāmu;
 4) pieprasa atsaukt reklāmu;
-5) piemēro administratīvo sodu likumā noteiktajā kārtībā;
+5) uzliek soda naudu šā likuma 20.pantā noteiktajā kārtībā;
 6) uzdod reklāmas devējam vai reklāmas izplatītājam izbeigt pārkāpumu un nosaka termiņu pārkāpuma izbeigšanai.
 (4¹) Uzraudzības iestāde ir tiesīga noteikt šā panta ceturtās daļas 1., 2., 3., 4. un 6.punktā minēto lēmumu izpildes termiņu. Lēmuma adresāts nekavējoties, bet ne vēlāk kā triju darbdienu laikā pēc attiecīgās darbības izpildes vai pārkāpuma novēršanas termiņa beigām informē Uzraudzības iestādi par lēmuma izpildi, pievienojot izpildi apliecinošus pierādījumus.
 (5) Šā panta ceturtajā daļā minētos lēmumus Uzraudzības iestāde ir tiesīga pieņemt arī tad, ja tai nav pierādījumu par nodarītajiem zaudējumiem.
@@ -28,3 +28,4 @@
 (8) Šā panta ceturtās daļas 3.punktā minēto lēmumu Uzraudzības iestāde var pieņemt arī tad, ja normatīvo aktu prasībām neatbilstoša reklāma vēl nav izplatīta, bet tās izplatīšana ir paredzama.
 (9) Lai novērstu normatīvo aktu prasībām neatbilstošas reklāmas izplatīšanu vai mazinātu tās sekas, Uzraudzības iestāde ir tiesīga šā panta trešās daļas 2.punktā minēto apņemšanos ievietot savā mājaslapā vai pieņemto lēmumu daļēji vai pilnībā ievietot savā mājaslapā un publicēt oficiālajā izdevumā "Latvijas Vēstnesis" (ar publicēšanu oficiālajā izdevumā "Latvijas Vēstnesis" saistītos izdevumus sedz attiecīgais reklāmas devējs vai reklāmas izplatītājs).
 (10) Uzraudzības iestāde šā panta ceturtajā daļā minēto lēmumu pieņem sešu mēnešu laikā no lietas ierosināšanas dienas. Ja objektīvu iemeslu dēļ šo termiņu nav iespējams ievērot, Uzraudzības iestāde to var pagarināt uz laiku, ne ilgāku par diviem gadiem, skaitot no lietas ierosināšanas dienas.
+(11) Uzraudzības iestāde lietas par pārkāpumiem reklāmas jomā izskata Administratīvā procesa likuma noteiktajā kārtībā, ciktāl šajā likumā nav noteikts citādi.
