@@ -1,0 +1,2 @@
+1.pants. (1) Atsavināt sabiedrības vajadzībām - pretplūdu aizsargdambja būvniecībai - nekustamā īpašuma Valteru ielā 18, Siguļos, Carnikavas novadā (kadastra Nr.8052 003 0535, reģistrēts Rīgas rajona tiesas zemesgrāmatu nodaļas Carnikavas novada zemesgrāmatas nodalījumā Nr.100000126580), sastāvā ietilpstošā zemesgabala (kadastra apzīmējums 8052 003 0535) daļu 171 m² platībā.
+(2) Šā panta pirmajā daļā minētā zemesgabala atsavināmās daļas robežas attēlotas šā likuma 1.pielikumā, un atsavināmās daļas robežu apraksts dots šā likuma 2.pielikumā.
