@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noguldījumu garantiju likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118 (5436)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-18",
+  "entry_into_force": "2015-07-01",
+  "notification_date": "2015-07-03",
+  "commission_reference": "MNE(2015)54931",
+  "nim_celex": "72014L0049LVA_227993",
+  "nim_id": "227993",
+  "transposes_celex": [
+    "32014L0049"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4df894c9-4320-49ee-9e36-97074e0c21df",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
