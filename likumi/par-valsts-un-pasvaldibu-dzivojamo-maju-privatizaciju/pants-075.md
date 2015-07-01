@@ -7,3 +7,4 @@
 (6) Privatizēto dzīvokļu īpašnieku kopīpašuma domājamo daļu un tā zemes gabala lielumu un vērtību, uz kura uzcelta dzīvojamā māja, nosaka, zemes gabalu pirkt, iegūt īpašumā bez atlīdzības vai nomāt uz 99 gadiem piedāvā, kā arī zemes gabala pirkuma līgumu vai vienošanos par zemes gabala nodošanu īpašumā bez atlīdzības slēdz, ievērojot šā likuma noteikumus.
 (7) Šā panta pirmajā un otrajā daļā minēto dzīvokļu īpašniekiem jādibina mājas kopīgas pārvaldīšanas un apsaimniekošanas sabiedrība vai jānoslēdz līgums par daudzdzīvokļu mājas kopīgu pārvaldīšanu un apsaimniekošanu.
 (8) Šā panta pirmajā daļā minēto dzīvokļu īpašnieki par dzīvojamās mājas ekspluatācijai nepieciešamā zemes gabala noteikšanu, zemes gabala iemērīšanu un dzīvojamās mājas reģistrāciju zemesgrāmatā norēķinās euro.
+(9) Šā panta pirmajā un otrajā daļā minētajos gadījumos, nosakot dzīvojamai mājai funkcionāli nepieciešamo zemes gabalu, piemēro šā likuma 28.panta noteikumus.
