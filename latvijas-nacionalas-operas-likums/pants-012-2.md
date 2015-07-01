@@ -1,0 +1,1 @@
+12. Līdz 2015.gada 31.augustam Nacionālās operas valde iesniedz komercreģistra iestādei Nacionālās operas statūtus, kas izstrādāti, ievērojot šā likuma grozījumus (stājušies spēkā 2015.gada 1.jūlijā), un apstiprināti normatīvajos aktos noteiktajā kārtībā.
