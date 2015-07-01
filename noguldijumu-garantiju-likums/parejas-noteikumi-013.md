@@ -1,0 +1,1 @@
+13. Ja pēc šā likuma spēkā stāšanās dienas noguldījumu piesaistītājam noguldījumu nepieejamība ir iestājusies no 2019.gada 1.janvāra līdz 2020.gada 31.decembrim, garantētās atlīdzības izmaksa uzsākama 15 darbdienu laikā.

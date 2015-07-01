@@ -1,0 +1,1 @@
+9. Komisija līdz 2015.gada 3.jūlijam informē Eiropas Banku iestādi par Komisijas apstiprinātajām uz risku balstītajām metodēm, lai noteiktu un aprēķinātu noguldījumu garantiju fonda dalībnieku uz risku balstītos maksājumus.

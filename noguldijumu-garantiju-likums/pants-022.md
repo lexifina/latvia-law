@@ -1,0 +1,3 @@
+22.pants. Komisijas prasījuma tiesības pret noguldījumu piesaistītāju
+(1) Pēc tam, kad noguldītājiem izmaksāta garantētā atlīdzība, Komisija izmaksātās garantētās atlīdzības apmērā iegūst prasījuma tiesības pret noguldījumu piesaistītāju. Noguldījumu piesaistītājs sedz prasījumu saskaņā ar Komisijas iesniegto aprēķinu. Regresa kārtībā iegūtie līdzekļi ieskaitāmi noguldījumu garantiju fondā.
+(2) Noguldījumu piesaistītāja maksātnespējas gadījumā Komisijas iesniegtais aprēķins kā kreditora prasība par noguldījumu garantiju fonda līdzekļu atmaksu izmaksātās garantētās atlīdzības apmērā apmierināms prioritārā kārtībā pirms citu noguldījumu piesaistītāja kreditoru prasībām.

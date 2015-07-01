@@ -1,0 +1,2 @@
+29.pants. Noguldītāja papildu informēšanas pienākums
+Noguldījumu piesaistītāja reorganizācijas vai likvidācijas gadījumā vai izslēdzot to no dalības noguldījumu garantiju fondā, papildus šā likuma 28.pantā noteiktajam noguldītāja informēšanas pienākumam noguldījumu piesaistītājs informāciju par noguldījumu piesaistītāja reorganizāciju, likvidāciju vai izslēgšanu no dalības noguldījumu garantiju fondā noguldītājam dara pieejamu, izmantojot noguldījumu piesaistītāja un noguldītāja noslēgto līgumu par attālināto finanšu pakalpojuma sniegšanu.

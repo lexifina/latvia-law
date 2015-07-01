@@ -1,0 +1,3 @@
+20.pants. Garantētās atlīdzības pārmaksa
+(1) Ja Komisija, noguldījumu piesaistītājs, tā pilnvarnieks, administrators vai likvidators konstatē, ka garantētā atlīdzība izmaksāta personai, kurai saskaņā ar šā likuma noteikumiem nebija tiesību uz garantēto atlīdzību, vai arī tā izmaksāta lielākā apmērā, personai ir pienākums atmaksāt nepamatoti izmaksāto garantēto atlīdzību atbilstoši Komisijas, noguldījumu piesaistītāja, tā pilnvarnieka, administratora vai likvidatora pieprasījumam.
+(2) Ja persona šā panta pirmajā daļā minēto atlīdzību neatmaksā brīvprātīgi, Komisijai, noguldījumu piesaistītājam, tā pilnvarniekam, administratoram vai likvidatoram ir pienākums celt prasību par minēto līdzekļu atmaksu noguldījumu garantiju fondam.

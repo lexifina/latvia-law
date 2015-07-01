@@ -1,0 +1,1 @@
+2. Tiesiskajām attiecībām, kas radušās saistībā ar garantētās atlīdzības izmaksu līdz šā likuma spēkā stāšanās dienai, piemēro tās noguldījumu garantiju regulējošās tiesību normas, atbilstoši kurām noguldījumu piesaistītājam tika konstatēta noguldījumu nepieejamība.

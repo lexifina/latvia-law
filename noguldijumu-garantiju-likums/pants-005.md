@@ -1,0 +1,4 @@
+5.pants. Garantētā atlīdzība par kopīgo noguldījumu vai vairākiem noguldījumiem
+(1) Garantētā atlīdzība par kopīgo noguldījumu tiek izmaksāta katrai kopīgo noguldījumu izdarījušajai personai atbilstoši tās noguldījuma daļai, kas noteikta ar noguldījumu piesaistītāju noslēgtajā līgumā. Ja katras personas daļa kopīgajā noguldījumā nav noteikta, kopīgais noguldījums sadalāms vienlīdzīgās daļās.
+(2) Ja noguldītājs pārvalda citai personai pienākošos līdzekļus noguldījumu piesaistītājā, garantēto atlīdzību ir tiesības saņemt šai personai, kura var pierādīt savas prasījuma tiesības uz noguldītāja pārvaldītajiem līdzekļiem ar nosacījumu, ka noguldījumu piesaistītājs šo personu ir identificējis pirms noguldījumu nepieejamības iestāšanās dienas.
+(3) Vairāki noguldījumi vai vairākas kopīgā noguldījuma daļas neatkarīgi no noguldījuma valūtas tiek summētas kā atbilstīgais noguldījums, lai aprēķinātu vienu segto noguldījumu.

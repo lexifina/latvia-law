@@ -1,0 +1,4 @@
+15.pants. Soda nauda
+(1) Noguldījumu piesaistītājam ir pienākums aprēķināt un samaksāt soda naudu par summām, ko veido maksājumi, kas noteiktajā termiņā nav veikti noguldījumu garantiju fondā. Šī soda nauda iemaksājama kontā Latvijas Bankā.
+(2) Soda nauda par summām, kas noteiktajā termiņā nav iemaksātas noguldījumu garantiju fondā, ir 0,05 procenti no termiņā nesamaksātās summas par katru nokavēto dienu. Soda nauda aprēķināma par laiku, par kuru noguldījumu piesaistītājs nav veicis aprēķināto katra ceturkšņa maksājumu.
+(3) Ja dalībvalstī reģistrētas kredītiestādes filiāle Latvijā vai ārvalstī reģistrētas kredītiestādes filiāle Latvijā nokavējusi noteikto maksājuma termiņu vairāk par 30 dienām, Komisija nekavējoties par to informē attiecīgā noguldījumu piesaistītāja uzraudzības institūciju.

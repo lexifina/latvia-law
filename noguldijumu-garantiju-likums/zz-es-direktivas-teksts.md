@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa direktīvas 2014/49/ES par noguldījumu garantiju sistēmām (pārstrādāta versija) (Dokuments attiecas uz EEZ).

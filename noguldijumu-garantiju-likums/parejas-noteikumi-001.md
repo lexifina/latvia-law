@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Noguldījumu garantiju likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 13.nr.; 2000, 13.nr.; 2001, 22.nr.; 2007, 9.nr.; 2008, 22.nr.; 2009, 6., 14.nr.; Latvijas Vēstnesis, 2010, 205.nr.; 2013, 192.nr.; 2014, 105.nr.).
