@@ -15,13 +15,22 @@
 8) pēc pieprasījuma saņemt pilnus tiesas nolēmumus par probācijas klientu neatkarīgi no tā, vai krimināllieta skatīta atklātā vai slēgtā tiesas sēdē;
 9) saņemt informāciju par cietušā vārdu, uzvārdu, dzimšanas datiem un dzīvesvietu, kā arī sazināties ar cietušo, lai iegūtu informāciju izvērtēšanas ziņojuma sastādīšanai, izlīguma organizēšanai, tiesas vai prokurora uzlikto pienākumu izpildes kontrolei uzraudzības ietvaros, kā arī probācijas klienta parādsaistību jautājuma risināšanai uzraudzības ietvaros;
 10) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst.7.00 līdz 23.00.
-(2) Valsts probācijas dienesta ierēdņiem, veicot nosacīti notiesātu, nosacīti pirms termiņa no soda izciešanas atbrīvotu vai nosacīti no kriminālatbildības atbrīvotu personu uzraudzību, papildus šā panta pirmajā daļā noteiktajam ir šādas tiesības:
+(2) Valsts probācijas dienesta ierēdņiem, uzraugot šā likuma 11.panta pirmajā daļā noteiktās personas, papildus šā panta pirmajā un 1.¹ daļā noteiktajam ir šādas tiesības:
 1) kontrolēt, kā probācijas klients saskaņā ar uzraudzības plānu pilda viņam izvirzītās prasības;
 2) apmeklēt probācijas klientu viņa dzīvesvietā bez iepriekšēja brīdinājuma;
-3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja pienākumu minētajā laikā atrasties dzīvesvietā probācijas klientam uzlikusi tiesa;
+3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja atbilstoši kriminālsodu izpildi reglamentējošiem normatīvajiem aktiem probācijas klientam noteikts pienākums - aizliegums atstāt dzīvesvietu noteiktā diennakts laikā;
 4) saņemt informāciju par probācijas klienta iztikas avotiem;
-5) noteikt tiesas uzliktā pienākuma izpildes kārtību, ja tiesa uzlikusi tādu pienākumu, kura izpildes kārtība nav noteikta kriminālsodu izpildi reglamentējošos normatīvajos aktos.
-(2¹) Valsts probācijas dienesta ierēdņiem, nodrošinot papildsoda - probācijas uzraudzība - izpildi, papildus šā panta pirmajā un 1.¹ daļā noteiktajām tiesībām ir šā panta otrās daļas 1., 2. un 4.punktā minētās tiesības, kā arī tiesības probācijas klientam noteikt kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi.
+5) noteikt vai pilnīgi vai daļēji atcelt nosacīti notiesātajiem un nosacīti pirms termiņa no soda izciešanas atbrīvotajiem, kā arī personām, kurām ir piemērots papildsods - probācijas uzraudzība -, kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi.
+(2¹) Valsts probācijas dienesta ierēdņiem, īstenojot nosacīti pirms termiņa no soda izciešanas atbrīvotu personu elektronisko uzraudzību, papildus šā panta pirmajā, 1.¹ un otrajā daļā noteiktajam ir šādas tiesības:
+1) uzstādīt elektroniskās ierīces probācijas klienta dzīvesvietā;
+2) piestiprināt vai noņemt probācijas klientam elektronisko ierīci;
+3) pārbaudīt elektroniskās ierīces jebkurā diennakts laikā;
+4) kontrolēt elektroniskās uzraudzības grafika izpildi;
+5) apstrādāt elektronisko ierīču fiksēto informāciju par probācijas klienta atrašanos noteiktā vietā un laikā;
+6) izņemt elektroniskās ierīces no probācijas klienta dzīvesvietas.
 (3) Ja probācijas klients ir nepilngadīgs, viņa piekrišana šā panta 1.¹ daļas 6. un 7.punktā minētajos gadījumos nav nepieciešama.
-(4) Sagatavojot izvērtēšanas ziņojumu, Valsts probācijas dienesta ierēdņiem papildus šā panta pirmajā un 1.¹ daļā minētajām tiesībām ir arī šā panta otrās daļas 4.punktā minētās tiesības.
+(4) Sagatavojot izvērtēšanas ziņojumu, Valsts probācijas dienesta ierēdņiem papildus šā panta pirmajā un 1.¹ daļā minētajām tiesībām ir arī šā panta otrās daļas 4.punktā minētās tiesības. Vērtējot elektroniskās uzraudzības piemērošanu probācijas klientam, Valsts probācijas dienesta ierēdņiem papildus ir šādas tiesības:
+1) bez probācijas klienta piekrišanas tikties ar probācijas klienta iespējamā dzīvesvietā dzīvojošajām personām, lai noskaidrotu šo personu attieksmi pret elektroniskās uzraudzības noteikšanu un elektronisko ierīču uzstādīšanu;
+2) saņemt probācijas klienta iespējamā dzīvesvietā dzīvojošo personu atļauju elektronisko ierīču izvietošanai šajā dzīvesvietā probācijas klienta elektroniskās uzraudzības īstenošanai;
+3) veikt probācijas klienta iespējamās dzīvesvietas atbilstības izvērtēšanu elektroniskās uzraudzības noteikšanai.
 (5) Valsts probācijas dienesta ierēdņiem un darbiniekiem ir tiesības Ministru kabineta noteiktajā kārtībā pārbaudīt probācijas klientu, lai konstatētu, vai viņš ir lietojis alkoholu, narkotiskās vai psihotropās vielas.
