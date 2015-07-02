@@ -1,6 +1,6 @@
 611.pants. Izsoles sekas
 (1) Nekustamais īpašums paliek tam, kas solījis augstāku cenu nekā citi.
-(2) Nosolītājam viena mēneša laikā pēc izsoles jāsamaksā:
+(2) Nosolītājam viena mēneša laikā pēc izsoles noslēguma dienas jāsamaksā:
 1) visa summa, ko viņš nosolījis;
 2) pievienotās vērtības nodoklis, ja izsoles cena apliekama ar pievienotās vērtības nodokli;
 3) šā likuma 34.panta pirmās daļas 15.punktā noteiktā valsts nodeva par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda;
@@ -9,4 +9,4 @@
 (3) Pēc tam, kad nekustamā īpašuma nosolītājs samaksājis visu no viņa pienākošos summu, tiesu izpildītājs pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda elektroniski iesniedz rajona (pilsētas) tiesas zemesgrāmatu nodaļā, kuras darbības teritorijā atrodas nekustamais īpašums, un lūdz nostiprināt īpašuma tiesības zemesgrāmatā uz ieguvēja vārda.
 (3¹) Pēc tam, kad tiesu izpildītājs iesniedz bankai tiesas lēmuma norakstu par izsoles akta apstiprināšanu, banka triju dienu laikā ieskaita tiesu izpildītāja depozītu kontā bankas pieprasījuma garantijas vēstulē norādīto summu.
 (3²) Pēc tam, kad ir notecējis tiesu izpildītāja sastādītā aprēķina pārsūdzēšanas termiņš un šis aprēķins nav pārsūdzēts, vai, ja šis aprēķins ir pārsūdzēts, - pēc tam, kad spēkā stājies tiesas nolēmums par sastādīto aprēķinu, tiesu izpildītājs nosolītāja samaksāto pievienotās vērtības nodokli iemaksā valsts budžetā un paziņo par to parādniekam un Valsts ieņēmumu dienestam.
-(4) Ja nosolītājs noteiktā termiņā nesamaksā visu no viņa pienākošos summu, iemaksātais nodrošinājums pievienojams pie kopējās par īpašumu saņemtās summas un sadalāms tādā pašā kārtībā kā šī summa. Iemaksātais nodrošinājums pievienojams pie kopējās summas arī tad, ja tiek konstatēts, ka nosolītājam nebija tiesību piedalīties izsolē (608.panta 1.¹ daļa).
+(4) Ja nosolītājs noteiktā termiņā nesamaksā visu no viņa pienākošos summu, iemaksātais nodrošinājums pievienojams pie kopējās par īpašumu saņemtās summas un sadalāms tādā pašā kārtībā kā šī summa. Iemaksātais nodrošinājums pievienojams pie kopējās summas arī tad, ja tiek konstatēts, ka nosolītājam nebija tiesību piedalīties izsolē (607.panta trešā daļa).

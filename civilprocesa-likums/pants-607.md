@@ -1,4 +1,5 @@
-607.pants. Nekustamā īpašuma pirkuma nodrošinājums
-(1) Personas, kuras vēlas piedalīties nekustamā īpašuma izsolē, iemaksā tiesu izpildītāja depozīta kontā nodrošinājumu 10 procentu apmērā no nekustamā īpašuma novērtējuma.
-(2) Pirms izsoles tiesu izpildītājs pārliecinās, vai nodrošinājuma summa ir ieskaitīta tiesu izpildītāja depozīta kontā.
-(3) Nodrošinājumu, ko iemaksājusi persona, kura izsolē nopirkusi nekustamo īpašumu, ieskaita pirkuma maksā. Pārējiem izsoles dalībniekiem iemaksāto nodrošinājumu pēc izsoles nekavējoties izsniedz atpakaļ.
+607.pants. Nekustamā īpašuma pirkuma nodrošinājums un izsoles dalībnieku autorizācija
+(1) Persona, kura vēlas piedalīties nekustamā īpašuma izsolē, 20 dienu laikā no nekustamā īpašuma izsoles sludinājumā norādītā izsoles sākuma datuma iemaksā izsoles sludinājumā norādītā tiesu izpildītāja depozīta kontā nodrošinājumu 10 procentu apmērā no nekustamā īpašuma novērtējuma un, izmantojot elektronisko izsoļu vietni, nosūta tiesu izpildītājam lūgumu autorizēt to dalībai izsolē.
+(2) Tiesu izpildītājs piecu darbdienu laikā no šā panta pirmajā daļā minētā lūguma saņemšanas autorizē personu dalībai izsolē, pirms tam pārliecinoties, vai personas iemaksātā nodrošinājuma summa ir ieskaitīta tiesu izpildītāja depozīta kontā un vai personai ir tiesības piedalīties izsolē, ņemot vērā šā panta trešajā daļā minēto nosacījumu.
+(3) Izsolē nav tiesību piedalīties parādniekam, viņa aizbildnim vai aizgādnim, personai, kas veikusi šā likuma 604.pantā minēto novērtēšanu, kā arī tiesu izpildītājam, kas rīko izsoli. Par citos normatīvajos aktos noteikto ierobežojumu ievērošanu attiecībā uz nekustamo īpašumu iegādi ir atbildīgi paši izsoles dalībnieki.
+(4) Nodrošinājumu, ko iemaksājusi persona, kura izsolē nopirkusi nekustamo īpašumu, ieskaita pirkuma maksā. Pārējiem izsoles dalībniekiem viņu iemaksāto nodrošinājumu pēc izsoles noslēguma nekavējoties izsniedz atpakaļ.

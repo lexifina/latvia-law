@@ -1,0 +1,1 @@
+110. Augstākās tiesas Civillietu tiesu palāta, atceļot apgabaltiesas kā pirmās instances spriedumu šā likuma 427.pantā noteiktajos gadījumos, nosūta lietu jaunai izskatīšanai pirmās instances tiesai saskaņā ar civiltiesisko strīdu piekritības noteikumiem.

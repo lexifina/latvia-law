@@ -6,4 +6,4 @@
 2) cik liela ir parāda summa un vai parāds nodrošināts ar hipotēku uz attiecīgo nekustamo īpašumu.
 (4) Šā panta trešajā daļā minētajā paziņojumā tiesu izpildītājs pieprasa, lai hipotekārie kreditori tiesu izpildītāja noteiktajā termiņā, kas nav mazāks par 10 dienām, iesniedz ziņas par atlikušā hipotekārā parāda apmēru.
 (5) Tiesu izpildītājs pieprasa no pašvaldības ziņas par nekustamā īpašuma nodokļu parādu un uzaicina pašvaldību iesniegt lēmumu par nodokļu parāda piedziņu, ja tāds ir.
-(6) Ja parādnieks līdz nekustamā īpašuma izsolei pilnībā samaksājis parādu un sprieduma izpildes izdevumus tiesu izpildītājam, nekustamā īpašuma pārdošana tiek atcelta.
+(6) Ja parādnieks ne vēlāk kā septiņas dienas pirms izsoles sludinājumā norādītā izsoles noslēguma datuma pilnībā samaksājis parādu un sprieduma izpildes izdevumus tiesu izpildītājam, nekustamā īpašuma pārdošana tiek atcelta, bet jau uzsāktā izsole - pārtraukta.

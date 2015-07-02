@@ -1,0 +1,1 @@
+108. Grozījumi šā likuma 250.² panta trešajā daļā, 401.panta 3.punktā un 644.panta otrajā daļā attiecībā uz Eiropas mantošanas apliecību un Eiropas Parlamenta un Padomes regulu Nr. 650/2012 stājas spēkā 2015.gada 17.augustā.
