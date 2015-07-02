@@ -6,4 +6,5 @@ Valsts probācijas dienesta Konsultatīvās padomes sastāvā ir:
 4) Latvijas Pašvaldību savienības pārstāvis;
 5) Valsts probācijas dienesta pārvaldes pārstāvis;
 6) Ieslodzījuma vietu pārvaldes pārstāvis;
-7) Valsts policijas pārstāvis.
+7) Valsts policijas pārstāvis;
+8) vismaz viena tā sociālo pakalpojumu sniedzēja pārstāvis, kas nodrošina sociālās rehabilitācijas pakalpojumus probācijas klientiem.

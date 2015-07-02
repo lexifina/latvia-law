@@ -5,4 +5,5 @@ Valsts probācijas dienesta teritoriālās struktūrvienības konsultatīvās pa
 3) Valsts policijas teritoriālās struktūrvienības pārstāvis;
 4) pašvaldības pārstāvis;
 5) Valsts probācijas dienesta teritoriālās struktūrvienības pārstāvis;
-6) ieslodzījuma vietas administrācijas pārstāvis tajās teritoriālajās struktūrvienībās, kuru darbības teritorijā atrodas brīvības atņemšanas iestāde.
+6) ieslodzījuma vietas administrācijas pārstāvis tajās teritoriālajās struktūrvienībās, kuru darbības teritorijā atrodas brīvības atņemšanas iestāde;
+7) vismaz viena tā sociālo pakalpojumu sniedzēja pārstāvis, kas nodrošina sociālās rehabilitācijas pakalpojumus probācijas klientiem.
