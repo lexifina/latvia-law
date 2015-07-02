@@ -1,0 +1,1 @@
+Pašvaldību finanšu izlīdzināšanas aprēķina formula

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par pašvaldību finanšu izlīdzināšanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 8.nr.; 1999, 22.nr.; Latvijas Vēstnesis 2009, 178.nr.).

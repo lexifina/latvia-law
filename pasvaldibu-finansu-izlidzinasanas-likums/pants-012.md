@@ -1,0 +1,3 @@
+12.pants. Pašvaldību savstarpējie norēķini
+(1) Ministru kabinets nosaka kārtību, kādā pašvaldības, kuru administratīvajā teritorijā deklarētie iedzīvotāji izmanto citas pašvaldības izglītības iestāžu sniegtos pakalpojumus, noslēdz līgumus ar attiecīgajām pašvaldībām par šiem iedzīvotājiem sniegto pakalpojumu apmaksu.
+(2) Ja pašvaldība nav ievērojusi šā panta pirmajā daļā paredzētajā kārtībā noteiktās prasības, Valsts kase, pamatojoties uz attiecīgu Pašvaldību finanšu izlīdzināšanas fonda padomes lēmumu, noraksta no attiecīgās pašvaldības iedzīvotāju ienākuma nodokļa ieņēmumiem vai no dotācijām, kas tai izmaksājamas no izlīdzināšanas fonda, summu, kāda nepieciešama citu pašvaldību sniegto pakalpojumu apmaksai.
