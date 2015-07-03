@@ -1,1 +1,1 @@
-9. Koordinācijas institūcija līdz 2015.gada 1.septembrim sagatavo un iesniedz Ministru kabinetam un Saeimai pirmo centralizēto publisko pārskatu par valstij piederošajām kapitālsabiedrībām un kapitāla daļām par 2014.gadu.
+9. Koordinācijas institūcija līdz 2015.gada 1.decembrim sagatavo un iesniedz Ministru kabinetam un Saeimai centralizēto publisko pārskatu par valsts kapitālsabiedrībām un valsts kapitāla daļām par 2014.gadu.

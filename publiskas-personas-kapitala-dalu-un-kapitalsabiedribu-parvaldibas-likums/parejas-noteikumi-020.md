@@ -1,0 +1,1 @@
+20. Līdz vidēja termiņa darbības stratēģijas apstiprināšanai kapitālsabiedrību darbību izvērtē saskaņā ar iepriekš definētajiem mērķiem, plānotajiem darbības rezultātiem un finanšu rādītājiem (šā likuma 27. un 34.pants).

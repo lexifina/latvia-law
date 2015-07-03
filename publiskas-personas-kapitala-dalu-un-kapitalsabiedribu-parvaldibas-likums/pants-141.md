@@ -1,9 +1,9 @@
 141.pants. Kapitāla daļu pārdošanas kārtība publiskas personas kapitālsabiedrībā, publiski privātajā kapitālsabiedrībā vai privātajā kapitālsabiedrībā
 (1) Kapitāla daļu pārdevējs izstrādā un apstiprina pārdošanas noteikumus, kuros ietverama vismaz šāda informācija:
 1) kapitālsabiedrības, kuras kapitāla daļas tiek pārdotas, firma, juridiskā adrese un atrašanās vietu adreses;
-2) kapitāla daļu pārdošanas cena, kas noteikta saskaņā ar šā likuma 140.panta pirmo daļu, kā arī cenas korekcijas kārtība, ja kapitāla daļas neizdodas pārdot atbilstoši sākotnējam novērtējumam;
+2) kapitāla daļu pārdošanas cena, kas noteikta saskaņā ar šā likuma 140.panta pirmo daļu, kā arī cenas korekcijas kārtība, ja kapitāla daļas neizdodas pārdot atbilstoši sākotnējai vērtībai;
 3) kapitāla daļu pārdošanas nosacījumi, ja tādi paredzēti šā likuma 142.pantā noteiktajā kārtībā;
-4) dalībnieku (akcionāru) saraksts un informācija par pirmpirkuma tiesībām uz pārdodamām kapitāla daļām un to izmantošanas kārtību;
+4) ziņas par dalībniekiem (akcionāriem), par pirmpirkuma tiesībām uz pārdodamajām kapitāla daļām un to izmantošanas kārtību;
 5) drošības naudas un izsoles dalības maksas lielums un samaksas kārtība, pirkuma maksas samaksas kārtība un termiņi;
 6) izsoles noteikumi;
 7) kapitāla daļu pretendentu (pircēju) atlases kārtība un kritēriji, ja tādi tiek paredzēti;

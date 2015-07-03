@@ -6,7 +6,7 @@
 a) nominācijas process ir atklāts,
 b) valdes un padomes locekļu kandidātus izvēlas, balstoties uz profesionalitātes un kompetences kritērijiem;
 4) atkarīgā kapitālsabiedrība var izveidot padomi tikai šā likuma 106.panta pirmajā daļā minētajā gadījumā;
-5) atkarīgās kapitālsabiedrības valdes un padomes locekļu mēneša atlīdzību, prēmiju un atsaukšanas pabalstu nosaka, ievērojot valdes un padomes locekļiem šajā likumā noteiktos ierobežojumus;
+5) atkarīgās kapitālsabiedrības valdes un padomes locekļu skaitu, mēneša atlīdzību, prēmiju un atsaukšanas pabalstu nosaka, ievērojot valdes un padomes locekļiem šajā likumā noteiktos ierobežojumus;
 (2) Kapitāla daļu turētājs nodrošina, ka publiskas personas kontrolētā kapitālsabiedrībā:
 1) vidēja termiņa darbības stratēģiju izstrādā atbilstoši šā likuma 57.pantam;
 2) informāciju par kapitālsabiedrību publisko atbilstoši šā likuma 58.panta pirmajai un otrajai daļai;

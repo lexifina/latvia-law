@@ -1,7 +1,7 @@
 27.pants. Kapitālsabiedrības darbības rezultātu izvērtēšana
 (1) Koordinācijas institūcija izstrādā kapitālsabiedrībai, kurā valstij ir izšķirošā ietekme, tās darbības rezultātu izvērtēšanas metodes (vadlīnijas), paredzot, ka pārskati par finanšu mērķu sasniegšanu sniedzami pēc vienotas formas.
 (2) Valsts kapitāla daļu turētāja pārstāvis katru gadu, ievērojot nozares ministrijas un koordinācijas institūcijas atzinumu, izvērtē kapitālsabiedrībai izvirzīto mērķu sasniegšanu.
-(3) Šā panta otrajā daļā minētajā atzinumā koordinācijas institūcija (ja tā nav kapitāla daļu turētājs) sniedz vērtējumu par vidēja termiņa darbības stratēģijā noteikto finanšu mērķu sasniegšanu iepriekšējā gadā, kā arī priekšlikumus turpmākajai rīcībai.
+(3) Šā panta otrajā daļā minētajā atzinumā koordinācijas institūcija (ja tā nav kapitāla daļu turētājs) sniedz vērtējumu par vidēja termiņa darbības stratēģijā noteikto finanšu mērķu sasniegšanu iepriekšējā gadā.
 (4) Šā panta otrajā daļā minētajā atzinumā nozares ministrija sniedz vērtējumu par kapitālsabiedrības vidēja termiņa darbības stratēģijā noteikto nefinanšu mērķu sasniegšanu iepriekšējā gadā, kā arī priekšlikumus turpmākajai rīcībai.
 (5) Izvērtējot mērķu sasniegšanu, valsts kapitāla daļu turētāja pārstāvis pieņem lēmumu par turpmāko rīcību, lai nodrošinātu aktīvu atdeves un vērtības pieaugumu, kā arī vidēja termiņa darbības stratēģijā noteikto mērķu sasniegšanu.
 (6) Koordinācijas institūcija var ierosināt, lai valsts kapitāla daļu turētājs veic auditu kapitālsabiedrībā, ja ir pamats aizdomām par nelietderīgu, neefektīvu rīcību vai pārkāpumiem un ja konstatēti būtiski riski attiecībā uz noteikto mērķu sasniegšanas iespējamību.

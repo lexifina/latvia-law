@@ -1,0 +1,1 @@
+19. Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība saskaņā ar šā likuma 57.pantu izstrādā vidēja termiņa darbības stratēģiju līdz 2016.gada 30.martam. Koordinācijas institūcija uzsāk atzinumu sniegšanu par valsts izšķirošajā ietekmē esošo kapitālsabiedrību vidēja termiņa darbības stratēģijām, kas izstrādātas, sākot ar 2016.gada 1.janvāri.

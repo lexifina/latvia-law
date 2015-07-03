@@ -1,6 +1,8 @@
-24.pants. Koordinācijas institūcijas konsultatīvā padome
-(1) Lai nodrošinātu ekspertu un nozares profesionāļu līdzdalību publiskas personas kapitāla daļu pārvaldības procesā, koordinācijas institūcija izveido konsultatīvo padomi (turpmāk - konsultatīvā padome). Konsultatīvā padome ir koleģiāla padomdevēja institūcija, kura:
-1) izskata izstrādātos un Ministru kabinetam iesniedzamos ar publiskas personas kapitāla daļu pārvaldi un koordinācijas institūcijas darbību saistīto tiesību aktu un politikas plānošanas dokumentu projektus un sniedz viedokli par tiem;
-2) izskata koordinācijas institūcijas izstrādātos normatīvo aktu projektus un uz šā likuma pamata izstrādātos vadlīniju projektus un sniedz viedokli par tiem.
-(2) Konsultatīvās padomes lēmumiem ir ieteikuma raksturs.
-(3) Konsultatīvās padomes personālsastāvu un nolikumu apstiprina koordinācijas institūcija.
+24.pants. Koordinācijas institūcijas padome
+(1) Lai nodrošinātu efektīvu publisko personu kapitālsabiedrību un kapitāla daļu pārvaldību, Ministru kabinets izveido koordinācijas institūcijas padomi.
+(2) Koordinācijas institūcijas padome ir koleģiāla institūcija, kura:
+1) izskata un pirms apstiprināšanas saskaņo koordinācijas institūcijas izstrādātos vadlīniju projektus publiskas personas kapitāla daļu pārvaldības jomā;
+2) izvērtē koordinācijas institūcijas atzinumu par šā likuma 26.pantā minēto kapitālsabiedrības vidēja termiņa darbības stratēģijas projektu, ja valsts kapitāla daļu turētājs vai valsts kapitālsabiedrības padome (ja tāda ir izveidota) nepiekrīt koordinācijas institūcijas sagatavotajam atzinumam un valsts kapitāla daļu turētājs vai kapitālsabiedrības padome ir lūgusi šo jautājumu izskatīt koordinācijas institūcijas padomē;
+3) izskata koordinācijas institūcijas atzinumu par šā likuma 26.panta sestajā daļā minēto kapitālsabiedrības darījumu, ja valsts kapitāla daļu turētājs vai valsts kapitālsabiedrības padome (ja tāda ir izveidota) nepiekrīt koordinācijas institūcijas sagatavotajam atzinumam un valsts kapitāla daļu turētājs vai valsts kapitālsabiedrības padome ir lūgusi šo jautājumu izskatīt koordinācijas institūcijas padomē, un sniedz valsts kapitāla daļu turētājam vai valsts kapitālsabiedrības padomei vērtējumu par minēto atzinumu;
+4) sniedz priekšlikumus koordinācijas institūcijai par citiem ar publiskas personas kapitāla daļu pārvaldību saistītiem jautājumiem.
+(3) Koordinācijas institūcijas padomes nolikumu un personālsastāvu apstiprina Ministru kabinets. Koordinācijas institūcijas padomes locekļi par darbu padomē atlīdzību nesaņem.
