@@ -1,0 +1,1 @@
+17. Grozījums šā likuma 13.panta otrajā daļā un 15.pantā attiecībā uz iespēju sešu mēnešu laikā pieprasīt un saņemt apbedīšanas pabalstu un neizmaksāto bezdarbnieka pabalstu bezdarbnieka nāves gadījumā stājas spēkā 2017.gada 1.janvārī.
