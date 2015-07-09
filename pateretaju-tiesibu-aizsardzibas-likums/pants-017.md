@@ -12,6 +12,6 @@
 (2) Patērētājam ir tiesības pieprasīt, lai papildu informācija tiek sniegta arī mutvārdos.
 (3) Kārtību, kādā norādāma pārdošanas cena un mērvienības cena precēm, kas tiek piedāvātas patērētājam, kā arī kārtību, kādā norādāmas cenas pakalpojumiem, reglamentē Ministru kabineta noteikumi.
 (4) Šā panta pirmā daļa neattiecas uz:
-1) līgumiem, kas tiek izpildīti nekavējoties;
+1) līgumiem, kas saistīti ar ikdienas darījumiem un tiek izpildīti nekavējoties to noslēgšanas brīdī;
 2) līgumiem, kas noslēgti ārpus pastāvīgās saimnieciskās vai profesionālās darbības vietas;
 3) distances līgumiem.

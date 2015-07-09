@@ -1,0 +1,1 @@
+25.¹ Šā likuma 8.panta 1.² daļas jaunā redakcija (par valsts nodevu, kas maksājama, lai saņemtu speciālo atļauju (licenci) patērētāja kreditēšanas pakalpojumu sniegšanai, kā arī par kreditēšanas pakalpojumu sniedzēja darbības uzraudzību) stājas spēkā 2016.gada 1.janvārī.
