@@ -1,0 +1,9 @@
+7.pants. Neatkarība un objektivitāte strīda izskatīšanā
+(1) Fiziskajai personai, kas iesaistīta strīda izskatīšanā, ir pienākums nekavējoties informēt ārpustiesas strīdu risinātāju par apstākļiem, kuri ietekmē vai var ietekmēt tās neatkarību vai objektivitāti, vai par apstākļiem, kuros ārpustiesas strīdu risināšana ietekmē vai var ietekmēt tās pirmās vai otrās pakāpes radinieku, laulātā vai darījumu partneru personiskās vai mantiskās intereses. Pienākums informēt strīda puses saglabājas visā ārpustiesas strīda risināšanas laikā.
+(2) Par darījumu partneri saskaņā ar šā panta pirmo daļu uzskatāma persona, kas savas saimnieciskās vai profesionālās darbības ietvaros atrodas vai ir atradusies līgumiskās attiecībās ar patērētāju ārpustiesas strīdu risināšanā iesaistīto fizisko personu triju gadu laikā pirms šīs personas norīkošanas konkrētā strīda izskatīšanai.
+(3) Ārpustiesas strīdu risinātājs nodrošina, ka strīdu risināšanas procesa noteikumos ir paredzēta kārtība, kādā šā panta pirmajā daļā minētajā gadījumā:
+1) attiecīgā persona, kas izskata strīdu, tiek aizstāta ar citu personu;
+2) persona, kas izskata strīdu, atturas no strīda risināšanas un, ja iespējams, ārpustiesas strīdu risinātājs ierosina strīda pusēm iesniegumu par strīdu iesniegt citam ārpustiesas strīdu risinātājam;
+3) ārpustiesas strīdu risinātājs par to informē strīda puses un persona, kas izskata strīdu, ir tiesīga turpināt strīda risināšanu, ja strīda puses pret to neiebilst pēc tam, kad tās ir informētas par šā panta pirmajā daļā minētajiem apstākļiem un tiesībām izteikt iebildumus.
+(4) Šā panta trešajā daļā noteiktais informēšanas pienākums neietekmē šā likuma 12.panta ceturtās daļas 1.punktā noteiktās strīda pušu tiesības.
+(5) Ja ārpustiesas strīdu risinātājs ir fiziskā persona, šā panta pirmajā daļā noteikto informēšanas pienākumu nepiemēro. Šādā gadījumā ārpustiesas strīdu risinātājs rīkojas atbilstoši šā panta trešās daļas 2. un 3.punkta prasībām.

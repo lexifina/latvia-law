@@ -1,0 +1,1 @@
+Likumā pārņemtas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2013.gada 21.maija direktīvas 2013/11/ES par alternatīvu strīdu izšķiršanu un grozījumiem regulā (EK) Nr. 2006/2004 un direktīvā 2009/22/EK.
