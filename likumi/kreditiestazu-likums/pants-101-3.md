@@ -23,7 +23,7 @@
 (4³) Veicot šā panta pirmajā daļā minēto novērtējumu, Finanšu un kapitāla tirgus komisija var piemērot vienādu vai līdzīgu pieeju kredītiestādēm ar līdzīgu riska profilu (līdzīgu biznesa modeli vai riska darījumu ģeogrāfisko izvietojumu vai citu līdzīgu pieeju), kuras ir vai var būt pakļautas līdzīgiem riskiem vai kuras rada vai var radīt līdzīgus riskus finanšu sistēmai.
 (4⁴) Piemērojot šā panta pirmās un trešās daļas noteikumus un ES regulas Nr. 575/2013 attiecīgās prasības, Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt, lai kredītiestāde:
 1) uztur augstāku pašu kapitāla līmeni, nekā noteikts ES regulā Nr. 575/2013, kas palielināts par kopējo kapitāla rezervju prasību, kura aprēķināta saskaņā ar šā likuma 35.²², 35.²³, 35.²⁴ un 35.²⁵ pantu, lai segtu tos kredītiestādes darbībai piemītošos un varbūtējos riskus un to elementus, kas nav paredzēti ES regulā Nr. 575/2013;
-2) pilnveido savu stratēģiju, procedūras un pasākumus, kas veicami šā likuma 34.¹, 34.², 34.⁴ vai 36.² panta prasību izpildei;
+2) pilnveido savu stratēģiju, procedūras un pasākumus, kas veicami šā likuma 34.¹, 34.² vai 36.² panta prasību izpildei;
 3) izstrādā plānu šā likuma, citu normatīvo aktu, tieši piemērojamo Eiropas Savienības normatīvo aktu un Finanšu un kapitāla tirgus komisijas izdoto normatīvo noteikumu prasību ievērošanas atjaunošanai, nosakot plānā iekļauto pasākumu izpildes termiņus;
 4) pašu kapitāla aprēķina vajadzībām piemēro speciālu uzkrājumu vai aktīvu atzīšanas un vērtēšanas politiku;
 5) sašaurina vai ierobežo komercdarbību, darbības vai iestāžu tīklu, atsakās no darbības jomām, kas pārmērīgi apdraud tās stabilitāti;
@@ -41,7 +41,7 @@
 6) kredītiestāde ir saņēmusi atļauju izmantot iekšējo modeli korelācijas tirdzniecības portfeļa kapitāla prasību aprēķinam, bet tās iesniegtie pārskati parāda, ka stresa testu rezultāti būtiski pārsniedz saskaņā ar iekšējo modeli aprēķinātās kapitāla prasības.
 (4⁶) Pamatojoties uz novērtējumu, kas veikts saskaņā ar šā panta prasībām, Finanšu un kapitāla tirgus komisija izvērtē, vai nav nepieciešams noteikt pašu kapitāla prasības papildus tām, kas nepieciešamas kredītiestādes darbībai piemītošo un varbūtējo risku segšanai, ņemot vērā:
 1) saskaņā ar šā likuma 36.² panta prasībām kredītiestādes veiktā novērtējuma kvalitatīvos un kvantitatīvos rezultātus;
-2) saskaņā ar šā likuma 34.¹ un 34.⁴ panta prasībām izveidotās kredītiestādes iekšējās kontroles sistēmas darbību, kā arī atveseļošanas un noregulējuma plānus;
+2) saskaņā ar šā likuma 34.¹ panta prasībām izveidotās kredītiestādes iekšējās kontroles sistēmas darbību, kā arī atveseļošanas un noregulējuma plānus;
 3) saskaņā ar šā panta pirmās daļas prasībām Finanšu un kapitāla tirgus komisijas veiktā novērtējuma rezultātus;
 4) sistēmiskā riska izvērtējumu.
 (4⁷) Pamatojoties uz atbilstoši šā panta prasībām veikto kredītiestādes darbībai piemītošo un varbūtējo risku novērtējumu un ņemot vērā kredītiestādes komercdarbības modeli, šā likuma 34.¹ un 34.² pantā noteikto risku pārvaldīšanas organizāciju un iespējamo sistēmisko likviditātes risku, kas var apdraudēt Latvijas Republikas finanšu tirgus integritāti, Finanšu un kapitāla tirgus komisija izvērtē nepieciešamību noteikt kredītiestādēm šādas īpašas likviditātes prasības:

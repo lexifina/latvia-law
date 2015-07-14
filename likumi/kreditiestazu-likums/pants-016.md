@@ -1,8 +1,6 @@
 16.pants. (1) Kredītiestādi ir tiesīga dibināt:
 1) pilngadīga un rīcībspējīga fiziskā persona;
-2) juridiskā (reģistrētā) persona, kuras:
-a) darbības laiks nav mazāks par trim finanšu gadiem (šis noteikums nav attiecināms uz finanšu un kapitāla tirgus dalībnieku, kurš licencēts ārvalstī, kas ir Pasaules tirdzniecības organizācijas dalībniece, kā arī juridiskajām personām, kuru vienīgais dalībnieks vai vienīgais akcionārs ir dalībvalsts, Eiropas Ekonomiskās sadarbības un attīstības organizācijas valsts),
-b) finanšu pārskati tiek gatavoti saskaņā ar starptautiskajiem grāmatvedības (finanšu pārskatu) standartiem un revidēti saskaņā ar starptautiskajiem revīzijas standartiem, kā arī tiem ir pievienots zvērināta revidenta ziņojums [dalībvalstī reģistrētas juridiskās (reģistrētās) personas finanšu pārskati var būt sagatavoti saskaņā ar attiecīgajā dalībvalstī spēkā esošajiem grāmatvedības standartiem];
+2) juridiskā persona;
 3) valsts vai pašvaldība.
 (2) Ir nepieciešams, lai šā panta pirmajā daļā minētās personas būtu iespējams identificēt, lai tām būtu nevainojama reputācija, finansiālā stabilitāte, kā arī lai to finanšu līdzekļu tiesiskumu ir iespējams dokumentāri pierādīt.
 (3) Izvērtējot personas reputāciju un finansiālo stabilitāti, Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt šā likuma 19.pantā minēto personu identitāti, sodāmību un dokumentus, kuri ļauj pārliecināties par brīvā kapitāla pietiekamību kredītiestādes kapitālā un rezervēs izdarīto ieguldījumu apmērā, kā arī par to, vai ieguldītie līdzekļi nav iegūti neparastos vai aizdomīgos darījumos. Izvērtējot personas finansiālo stabilitāti, prasības par brīvā kapitāla pietiekamību nav attiecināmas uz kredītiestādēm un apdrošināšanas sabiedrībām.

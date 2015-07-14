@@ -2,8 +2,8 @@
 1) (izslēgts ar 24.04.2014. likumu);
 2) (izslēgts ar 24.04.2014. likumu);
 3) dot kredītiestādes pārvaldes institūcijām, to vadītājiem un locekļiem saistošus rakstveida norādījumus, kas nepieciešami šādas situācijas novēršanai;
-4) noteikt kredītiestādes tiesību un darbības ierobežojumus, tajā skaitā pilnīgi vai daļēji apturēt finanšu pakalpojumu sniegšanu, kā arī noteikt saistību izpildes ierobežojumus, izņemot šīs daļas 5.punktā minētos noguldījumu saistību izpildes ierobežojumus;
-5) noteikt kredītiestādei noguldījumu saistību izpildes ierobežojumus (turpmāk - lēmums par noguldījumu ierobežojumu noteikšanu);
+4) noteikt kredītiestādes tiesību un darbības ierobežojumus, tajā skaitā pilnīgi vai daļēji apturēt finanšu pakalpojumu sniegšanu, kā arī noteikt saistību izpildes ierobežojumus;
+5) (izslēgts ar 11.06.2015. likumu);
 6) iecelt kredītiestādē vienu vai vairākus Finanšu un kapitāla tirgus komisijas pilnvarniekus (turpmāk - lēmums par pilnvarnieka iecelšanu);
 7) (izslēgts ar 24.04.2014. likumu);
 8) (izslēgts ar 24.04.2014. likumu);
