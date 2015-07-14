@@ -70,4 +70,4 @@ b) nedod tiesības parakstīties uz cita veida vērtspapīriem vai iegūt tos un
 (8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz ieguldījumu fondu un atvērto alternatīvo ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.
 (9) Šā likuma 54.panta trešās, septītās, astotās un devītās daļas prasības neattiecas uz pārvedamiem vērtspapīriem, kuri ir iekļauti regulētajā tirgū un kurus emitējusi dalībvalsts vai dalībvalsts pašvaldība, tās iestāde vai aģentūra.
 (10) Šā likuma 54.panta pirmās, otrās un devītās daļas prasības neattiecas uz dalībvalstu centrālo banku emitētajām akcijām, kuras ir iekļautas regulētajā tirgū, ja lēmums par akciju iekļaušanu regulētajā tirgū pieņemts līdz 2005.gada 20.janvārim un šādu izņēmumu paredz attiecīgās dalībvalsts normatīvie akti, kas regulē centrālo banku akciju emitēšanas kārtību.
-(11) Šā likuma noteikumi bankas pārņemšanai piemērojami tiktāl, ciktāl Banku pārņemšanas likumā nav noteikts citādi.
+(11) (Izslēgta ar 11.06.2015. likumu)

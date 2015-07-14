@@ -1,2 +1,2 @@
 I sadaļa
-Rīcība ar klientiem piederošo mantu ieguldījumu brokeru sabiedrības likvidācijas un maksātnespējas gadījumā
+Ieguldījumu brokeru sabiedrības darbības atjaunošanas un noregulējuma, maksātnespējas un likvidācijas speciālie noteikumi

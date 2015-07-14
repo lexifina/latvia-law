@@ -7,6 +7,10 @@
 4) izraudzīto depozitāriju vai tam pielīdzināmu institūciju, ar kuras starpniecību personas, kurām pieder akcijas, var īstenot savas tiesības;
 5) jebkurām pārmaiņām tiesībās, kas nostiprinātas šīs sabiedrības dažādas kategorijas akcijās, tajā skaitā atvasinātajos finanšu instrumentos, kuri nodrošina pieeju emitenta akcijām. Šajā punktā minēto informāciju sniedz nekavējoties.
 (2¹) Paziņojumu par akcionāru sapulces sasaukšanu izplata ne vēlāk kā trīsdesmitajā dienā pirms sapulces dienas.
+(2²) Lai pieņemtu lēmumu par pamatkapitāla palielināšanu, kredītiestādes vai ieguldījumu brokeru sabiedrības akcionāru sapulce ar divu trešdaļu klātesošo akcionāru balsu vairākumu var nolemt, ka paziņojumu par akcionāru sapulces sasaukšanu izplata vēlāk nekā norādīts šā panta 2.¹ daļas termiņā, vai var lemt par statūtu grozījumiem, kas paredz, ka paziņojumu par akcionāru sapulces sasaukšanu izplata vēlāk, nekā norādīts šā panta 2.¹ daļas termiņā, vienlaikus pastāvot šādiem nosacījumiem:
+1) attiecīgā akcionāru sapulce notiek ne agrāk kā desmitajā kalendāra dienā pēc tās sasaukšanas;
+2) tiek veikti Kredītiestāžu un ieguldījumu brokeru sabiedrību darbības atjaunošanas un noregulējuma likumā norādītie agrīnas intervences pasākumi vai kredītiestādei vai ieguldījumu brokeru sabiedrībai ir iecelts pilnvarnieks;
+3) pamatkapitāla palielināšana ir nepieciešama, lai neiestātos noregulējuma nosacījumi.
 (3) Lai personas, kurām pieder parāda vērtspapīri, varētu izmantot savas tiesības, kapitālsabiedrības valde nodrošina, ka šīs sabiedrības izcelsmes dalībvalstī ir pieejama visa informācija un sniegtie dati ir patiesi. Kapitālsabiedrības valde nodrošina vismaz ar informāciju par:
 1) to personu sapulces vietu, laiku un darba kārtību, kurām pieder parāda vērtspapīri, un šo personu tiesībām piedalīties sapulcē. Kapitālsabiedrības valde katrai personai, kurai pieder parāda vērtspapīri un kura ir tiesīga balsot šādu personu sapulcē, kopā ar paziņojumu par sapulci nodrošina pilnvarojuma veidlapu (papīra vai, ja iespējams, elektroniskā formā), kā arī nodrošina to, ka pilnvarojuma veidlapa ir pieejama arī pēc tam, kad sniegts paziņojums par sapulci;
 2) procentu izmaksām;
