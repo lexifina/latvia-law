@@ -1,0 +1,1 @@
+6. Pirotehniskos izstrādājumus, kuri laisti tirgū līdz 2015.gada 1.jūlijam, drīkst piedāvāt tirgū arī tad, ja atbilstības novērtēšana un marķēšana tiem veikta saskaņā ar tirgū laišanas brīdī spēkā esošajām atbilstības novērtēšanas un marķēšanas prasībām.

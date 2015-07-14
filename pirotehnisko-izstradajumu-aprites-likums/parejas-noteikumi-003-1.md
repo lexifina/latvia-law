@@ -1,0 +1,1 @@
+3.¹ Skatuves pirotehniskos izstrādājumus, kas ievesti Latvijas Republikā pirms 2013.gada 4.jūlija, un uguņošanas ierīces, kas ievestas Latvijas Republikā pirms 2013.gada 4.jūlija un ievešanas brīdī klasificētas kā 4.klases uguņošanas ierīces, atļauts piedāvāt tirgū līdz 2017.gada 4.jūlijam.

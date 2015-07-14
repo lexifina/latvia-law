@@ -1,2 +1,3 @@
-5.pants. Pirotehnisko izstrādājumu drošuma pamatprasības, piemērojamie standarti, atbilstības novērtēšanas un marķēšanas kārtība un akreditējamai institūcijai izvirzāmās prasības
-Pirotehnisko izstrādājumu drošuma pamatprasības, piemērojamos standartus, atbilstības novērtēšanas un marķēšanas kārtību, kā arī akreditējamai institūcijai izvirzāmās prasības nosaka Ministru kabinets.
+5.pants. Pirotehnisko izstrādājumu atbilstības novērtēšana, marķēšana un reģistrēšana, kā arī prasības paziņotajai institūcijai
+(1) Pirotehnisko izstrādājumu atbilstības novērtēšanas principus un prasības institūcijām, kas veic atbilstības novērtēšanas procedūru, nosaka normatīvie akti par atbilstības novērtēšanu.
+(2) Pirotehnisko izstrādājumu identifikāciju, atbilstības novērtēšanas procedūras, pirotehnisko izstrādājumu marķēšanas un reģistrēšanas prasības, kā arī prasības paziņotajai institūcijai nosaka Ministru kabinets.

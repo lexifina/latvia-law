@@ -1,0 +1,9 @@
+24.pants. Eiropas Komisijas un dalībvalstu informēšana par Latvijas Republikā veiktā novērtējuma rezultātiem un pasākumiem, ja pirotehniskais izstrādājums rada nopietnu risku sabiedrības interesēm
+(1) Ja kontrolējošajai institūcijai ir pamats uzskatīt, ka pirotehniskais izstrādājums, kuram veikts šā likuma 22.panta ceturtajā daļā minētais novērtējums un par kuru konstatēts, ka šis pirotehniskais izstrādājums rada nopietnu risku cilvēku veselībai, drošībai vai citām ar likumu aizsargātām sabiedrības interesēm, tiek piedāvāts tirgū arī citā dalībvalstī, tā informē Eiropas Komisiju un dalībvalstis par Latvijas Republikā veiktā novērtējuma rezultātiem un pasākumiem, kuru veikšana pieprasīta attiecīgajam komersantam.
+(2) Ja komersants pieprasītos pasākumus nav veicis vai tie nav bijuši pietiekami un kontrolējošā institūcija rīkojusies atbilstoši šā likuma 22.panta astotajā daļā noteiktajam, tā nekavējoties informē Eiropas Komisiju un dalībvalstis par tās īstenotajiem pasākumiem attiecībā uz risku radošo pirotehnisko izstrādājumu, norādot visas šai institūcijai pieejamās ziņas, to skaitā:
+1) neatbilstošā pirotehniskā izstrādājuma identificēšanai nepieciešamos datus;
+2) ziņas par pirotehniskā izstrādājuma izcelsmi;
+3) neatbilstības būtību un tās radīto risku;
+4) informāciju par Latvijas Republikā veiktajiem pasākumiem, kā arī attiecīgā ražotāja, importētāja vai izplatītāja sniegtos paskaidrojumus un argumentus;
+5) norādi par pirotehniskā izstrādājuma neatbilstību cilvēku veselības, drošības vai citu sabiedrības interešu aizsardzības prasībām vai par konstatētajām neatbilstībām piemērojamos standartos, uz kuriem atsauces ir publicētas Eiropas Savienības Oficiālajā Vēstnesī.
+(3) Ja triju mēnešu laikā pēc šā panta otrajā daļā minētās informācijas saņemšanas neviena dalībvalsts vai Eiropas Komisija nav izteikusi iebildumus pret kontrolējošās institūcijas veikto pasākumu, to uzskata par pamatotu.

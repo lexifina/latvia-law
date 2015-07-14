@@ -6,7 +6,7 @@ a) sodīts par smagu vai sevišķi smagu noziegumu vai par alkoholisko dzērienu
 b) notiesāts par šīs daļas 1.punkta "a" apakšpunktā paredzētā noziedzīgā nodarījuma izdarīšanu, atbrīvojot no soda, - ja nav pagājis gads no dienas, kad stājies spēkā nolēmums par atbrīvošanu no soda,
 c) atbrīvots no kriminālatbildības par šīs daļas 1.punkta "a" apakšpunktā paredzētā noziedzīgā nodarījuma izdarīšanu, - ja nav pagājis gads no dienas, kad stājies spēkā attiecīgais lēmums,
 d) nosacīti atbrīvots no kriminālatbildības par šīs daļas 1.punkta "a" apakšpunktā paredzētā noziedzīgā nodarījuma izdarīšanu, - ja nav pagājis pārbaudes laiks,
-e) ir persona, kurai kriminālprocesā piemērots apsūdzētā statuss,
+e) ir persona, kurai kriminālprocesā piemērots apsūdzētā statuss par šīs daļas 1.punkta "a" apakšpunktā paredzētā noziedzīgā nodarījuma izdarīšanu,
 f) administratīvi sodīts par pirotehnisko izstrādājumu aprites noteikumu pārkāpumiem, alkoholisko dzērienu, narkotisko vai citu apreibinošo vielu iespaidā izdarītiem pārkāpumiem, par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai vai no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes, par sīko huligānismu vai par ļaunprātīgu nepakļaušanos policijas iestādes darbinieka, robežsarga vai zemessarga likumīgam rīkojumam vai prasībai, - ja nav pagājis gads pēc administratīvā soda izpildes;
 2) ja individuālajam komersantam vai personai, kura ieņem amatu komersanta pārvaldes institūcijā, vai komersanta darbiniekam, kas ir tieši saistīts ar pirotehnisko izstrādājumu ražošanu, glabāšanu, realizēšanu vai pirotehnisko pakalpojumu sniegšanu:
 a) diagnosticēti psihiski traucējumi,
