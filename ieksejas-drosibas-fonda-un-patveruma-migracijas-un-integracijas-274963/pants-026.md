@@ -1,0 +1,3 @@
+26.pants. Tiesības iepazīties ar projekta lietu
+(1) Projekta iesniedzējs ir tiesīgs iepazīties ar tā iesniegtā projekta iesnieguma izvērtēšanas materiāliem tikai pēc tam, kad pieņemts lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.
+(2) Atbildīgā iestāde vai deleģētā iestāde šā panta pirmajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc pieprasījuma saņemšanas dienas vai piecu darbdienu laikā pēc pieprasījuma saņemšanas uzaicina projekta iesniedzēju iestādei un iesniedzējam abpusēji pieņemamā laikā iestādē iepazīties ar pieprasīto informāciju.

@@ -1,0 +1,2 @@
+23.pants. Strīdu risināšanas kārtība, ja finansējuma saņēmējs ir privāto tiesību juridiskā persona
+Ja finansējuma saņēmējs ir privāto tiesību juridiskā persona, strīdus, kas attiecas uz granta līguma izpildi, tajā skaitā piešķirto finanšu līdzekļu izmaksāšanu, izmaksāšanas turpināšanu vai atgūšanu, risina civiltiesiskā kārtībā. Dokumenti, kas sagatavoti un pieņemti šā panta pirmajā teikumā minēto darbību veikšanai (piemēram, lēmumi, atzinumi, brīdinājumi, līgums), apstrīdami civilprocesuālā kārtībā.

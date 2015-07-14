@@ -1,0 +1,4 @@
+21.pants. Atbildīgās iestādes vai deleģētās iestādes lēmuma apstrīdēšana un pārsūdzēšana
+(1) Projekta iesniedzējs var apstrīdēt šā likuma 18. un 19.pantā minētos lēmumus, iesniedzot iesniegumu atbildīgajai iestādei. Atbildīgās iestādes izdoto administratīvo aktu par deleģētās iestādes lēmumu var pārsūdzēt, iesniedzot pieteikumu Administratīvās rajona tiesas attiecīgajam tiesu namam. Atbildīgās iestādes pieņemtais pārvaldes lēmums nav pārsūdzams.
+(2) Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+(3) Atzinumu par lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā pašā kārtībā un termiņos kā lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums. Atzinumu par lēmumā ietvertā nosacījuma izpildi var apstrīdēt un pārsūdzēt arī atsevišķi no lēmuma, kurā ietverts nosacījums.
