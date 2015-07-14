@@ -1,0 +1,1 @@
+33. Notiesātajiem, kuri izcieš sodu atklātajā cietumā un kuri ar cietuma priekšnieka atļauju dzīvo personiskās mājās vai privātos (īrētos) dzīvokļos kopā ar ģimeni novada vai republikas pilsētas teritorijā, kurā izvietota brīvības atņemšanas iestāde, izsniegtās atļaujas paliek spēkā arī pēc tam, kad stājušies spēkā grozījumi šā kodeksa 50.⁶ panta trešajā daļā.

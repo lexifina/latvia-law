@@ -1,0 +1,5 @@
+13.² pants. Notiesāto izvietošana brīvības atņemšanas iestādē
+Ar brīvības atņemšanas iestādes priekšnieka rīkojumu izveidotā notiesāto izvietošanas komisija nosaka, kurā brīvības atņemšanas iestādes nodaļā, vienībā un kamerā notiesātais izvietojams, ņemot vērā brīvās vietas kamerās, notiesāto psiholoģisko saderību, veselības stāvokli, attieksmi pret smēķēšanu, iepriekšējo kriminālo pieredzi.
+Notiesāto, kurš ir palīdzējis atklāt citas personas izdarītu noziegumu un kuram tiesa Krimināllikumā noteiktajā kārtībā ir samazinājusi spriedumā noteikto sodu, izvieto atsevišķi no pārējiem notiesātajiem, ja viņš to ir lūdzis.
+Ja notiesātais ir tiesnesis, tiesu sistēmai piederīga persona, izmeklēšanas iestādes, kriminālsodu izpildes iestādes, operatīvo darbību veicošas valsts institūcijas, pašvaldības policijas vai citas ar valsts un sabiedrības drošības nodrošināšanu saistītas valsts institūcijas nodarbinātais, bijušais nodarbinātais, viņa laulātais vai pirmās pakāpes radinieks, viņu izvieto atsevišķi no pārējiem notiesātajiem.
+Notiesāto izvietošanas komisijas lēmums par notiesāto izvietošanu nav apstrīdams un pārsūdzams.

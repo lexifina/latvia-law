@@ -5,7 +5,7 @@ Par labu uzvedību un godīgu attieksmi pret darbu vai mācībām brīvības at�
 3) papildus piešķirt īslaicīgu vai ilgstošu satikšanos, bet ne vairāk kā sešas papildu satikšanās gadā;
 4) audzināšanas iestādēs nepilngadīgajiem - atļaut atstāt iestādi vecāku vai iestādes darbinieku pavadībā uz laiku līdz astoņām stundām;
 5) atzīt notiesāto par atbilstošu šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem pirms tajā noteiktā termiņa beigām;
-6) atklātajos cietumos - papildus vienu reizi mēnesī atļaut izbraukt ārpus cietuma teritorijas uz laiku līdz divām diennaktīm;
+6) atklātajos cietumos - ar brīvības atņemšanas iestādes priekšnieka atļauju vienu reizi mēnesī izbraukt ārpus cietuma teritorijas uz laiku līdz divām diennaktīm, bet svētku dienās - līdz piecām diennaktīm;
 7) ar brīvības atņemšanas iestādes priekšnieka atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju līdz trim diennaktīm gadā;
 8) ar audzināšanas iestādes nepilngadīgajiem priekšnieka atļauju īslaicīgi atstāt audzināšanas iestādes nepilngadīgajiem teritoriju līdz piecām diennaktīm gadā.
 (Otrā daļa izslēgta ar 14.07.2011. likumu)

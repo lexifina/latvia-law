@@ -11,5 +11,5 @@ Nepilngadīgajam notiesātajam atļauts:
 4) izmantot astoņas telefonsarunas mēnesī;
 5) (izslēgts ar 13.12.2012. likumu).
 Mācību process audzināšanas iestādēs nepilngadīgajiem tuvināts vispārējās izglītības iestādes prasībām, un to regulē tieslietu ministra apstiprināta instrukcija, kas saskaņota ar izglītības un zinātnes ministru.
-Audzināšanas iestādes nepilngadīgajiem priekšnieks var atļaut nepilngadīgam notiesātajam atstāt iestādes teritoriju uz laiku, kas nepieciešams eksāmenu kārtošanai vispārējās vai profesionālās izglītības iestādē. Šajā laikā audzināšanas iestāde nodrošina nepilngadīgā notiesātā uzraudzību.
+Audzināšanas iestādes nepilngadīgajiem priekšnieks nodrošina nepilngadīgam notiesātajam iespēju atstāt iestādes teritoriju uz laiku, kas nepieciešams eksāmenu kārtošanai vispārējās vai profesionālās izglītības iestādē. Šajā laikā audzināšanas iestāde nodrošina nepilngadīgā notiesātā uzraudzību.
 Nepilngadīgajam notiesātajam, kurš cietis no prettiesiskām darbībām, tiek nodrošināta iespēja saņemt palīdzību atbilstoši normatīvajiem aktiem par palīdzību bērniem, kuri cietuši no prettiesiskām darbībām.

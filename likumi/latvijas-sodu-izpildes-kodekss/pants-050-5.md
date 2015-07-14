@@ -19,17 +19,17 @@ Sievietes, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža iesl
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma augstākajā pakāpē, ir tiesības:
 1) izmantot gadā astoņas ilglaicīgas satikšanās - no divdesmit četrām līdz četrdesmit astoņām stundām un astoņas īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
 2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
-3) izmantot sešas telefonsarunas mēnesī;
+3) izmantot telefonsarunas bez skaita ierobežojuma;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā;
 5) (izslēgts ar 13.12.2012. likumu).
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma zemākajā pakāpē, ir tiesības:
 1) izmantot gadā piecas ilglaicīgas satikšanās - no divpadsmit līdz divdesmit četrām stundām un četras īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
 2) dienas kārtībā paredzētajā laikā iepirkties cietuma veikalā par naudas summu, kas nepārsniedz trīs ceturtdaļas no Ministru kabineta noteiktās minimālās mēnešalgas;
-3) izmantot divas telefonsarunas mēnesī;
-4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8., 9. un 10.punktā.
+3) izmantot telefonsarunas bez skaita ierobežojuma;
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8. un 9.punktā.
 (Devītā daļa izslēgta ar 29.11.2012. likumu)
 Ar īslaicīgu brīvības atņemšanu notiesātajiem ir tiesības:
 1) izmantot vismaz stundu ilgu īslaicīgo satikšanos ne retāk kā reizi mēnesī, bet ne mazāk kā vienu īslaicīgo satikšanos soda izpildes laikā, ja tas ir īsāks par mēnesi;
 2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
-3) izmantot sešas telefonsarunas mēnesī;
+3) izmantot telefonsarunas bez skaita ierobežojuma;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā.

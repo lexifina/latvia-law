@@ -1,4 +1,4 @@
 138.⁷ pants. Probācijas uzraudzības atcelšana, termiņa samazināšana vai aizstāšana
 Ja ar probācijas uzraudzību notiesātais ir veiksmīgi izcietis pusi no noteiktā soda termiņa, Valsts probācijas dienests var vērsties tiesā ar lūgumu atcelt probācijas uzraudzību vai samazināt probācijas uzraudzības termiņu.
-Ja Valsts probācijas dienesta amatpersona konstatē, ka ar probācijas uzraudzību notiesātais bez attaisnojoša iemesla pārkāpj šajā kodeksā paredzētos pienākumus vai izdara jaunu noziedzīgu nodarījumu, tā sagatavo un nosūta tiesai iesniegumu par probācijas uzraudzības aizstāšanu ar brīvības atņemšanu.
+Ja Valsts probācijas dienesta amatpersona konstatē, ka ar probācijas uzraudzību notiesātais bez attaisnojoša iemesla pārkāpj šajā kodeksā paredzētos vai Valsts probācijas dienesta amatpersonas noteiktos pienākumus vai izdara jaunu noziedzīgu nodarījumu, tā sagatavo un nosūta tiesai iesniegumu par probācijas uzraudzības aizstāšanu ar brīvības atņemšanu.
 Probācijas uzraudzības izpildes termiņš tiek apturēts ar dienu, kad tiesai nosūtīts iesniegums par probācijas uzraudzības aizstāšanu ar brīvības atņemšanu.

@@ -1,2 +1,3 @@
-47.¹ pants. Notiesāto tiesības izmantot televizorus un radiouztvērējus (bez balss ieraksta iespējām)
-Notiesātajiem atļauts izmantot brīvības atņemšanas iestādes un personīgos televizorus un radiouztvērējus (bez balss ieraksta iespējām) brīvības atņemšanas iestādes iekšējās kārtības noteikumos noteiktajā laikā un kārtībā.
+47.¹ pants. Notiesāto tiesības izmantot sadzīves tehniku
+Notiesātajiem atļauts izmantot brīvības atņemšanas iestādes un personiskos televizorus un radiouztvērējus (bez balss ieraksta iespējām), kā arī citu personisko sadzīves tehniku brīvības atņemšanas iestādes iekšējās kārtības noteikumos noteiktajā apjomā, laikā un kārtībā.
+Par brīvības atņemšanas iestādes priekšnieka lēmumu notiesātajam neatļaut lietot personisko televizoru un radiouztvērēju (bez balss ieraksta iespējām), kā arī citu personisko sadzīves tehniku var iesniegt sūdzību Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieka lēmums nav pārsūdzams.

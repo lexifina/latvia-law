@@ -7,3 +7,4 @@ Notiesātajiem nav atļauts glabāt pie sevis naudu, vērtslietas, kā arī prie
 Šī kodeksa noteiktajā kārtībā notiesātajiem atļauts ar pārskaitījumu iegādāties pārtikas produktus un pirmās nepieciešamības priekšmetus, satikties ar apmeklētājiem, saņemt sūtījumus, pienesumus, bandroles un naudas pārvedumus, sarakstīties, nosūtīt naudas pārvedumus radiniekiem.
 Notiesātajiem adresēto pasta sūtījumu un pienesumu saturs tiek pārbaudīts. Notiesāto sarakste tiek pārbaudīta, to izlasot, izņemot saraksti ar valsts un pašvaldību institūcijām.
 Brīvības atņemšanas iestādes priekšniekam vai viņa pilnvarotai iestādes amatpersonai ir tiesības prasīt, lai iestādes apmeklētāji uzrāda personu apliecinošu dokumentu, kā arī veikt šo personu un viņu mantu apskati un pārmeklēšanu.
+Notiesātajiem ir pienākums samaksāt par Ieslodzījuma vietu pārvaldes sniegtajiem maksas pakalpojumiem.

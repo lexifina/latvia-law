@@ -1,10 +1,12 @@
 70.pants. Sodi personām, kam atņemta brīvība
 Par soda izciešanas režīma prasību pārkāpšanu notiesātajiem var uzlikt šādus sodus:
 1) izteikt brīdinājumu;
-1¹) aizliegt izmantot personīgo televizoru vai radiouztvērēju (bez balss ieraksta iespējām) uz laiku līdz vienam mēnesim un likt to nodot glabāšanā brīvības atņemšanas iestādes noliktavā vai atdot personām, kas to nodevušas lietošanā notiesātajam;
+1¹) aizliegt izmantot personisko televizoru vai radiouztvērēju (bez balss ieraksta iespējām) uz laiku līdz vienam mēnesim un likt to nodot glabāšanā brīvības atņemšanas iestādes noliktavā vai atdot personām, kas to nodevušas lietošanā notiesātajam;
 2) izteikt rājienu;
 3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus un tabakas izstrādājumus brīvības atņemšanas iestādes veikalā;
-4) aizliegt kārtējo telefonsarunu;
+4) notiesātajiem, kas izcieš sodu slēgtajā cietumā, aizliegt kārtējo telefonsarunu;
+4¹) notiesātajiem, kas izcieš sodu daļēji slēgtajā cietumā, aizliegt telefonsarunas uz laiku līdz 10 dienām;
+4²) notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību, aizliegt kārtējo videozvanu;
 5) aizliegt kārtējo satikšanos;
 6) notiesātos, kas sodu izcieš cietumos, ievietot soda izolatorā līdz piecpadsmit diennaktīm;
 7) notiesātos, kas sodu izcieš audzināšanas iestādēs nepilngadīgajiem, ievietot disciplinārajā izolatorā līdz desmit diennaktīm.
@@ -29,5 +31,5 @@ Par soda izciešanas režīma pārkāpumiem atklātajos cietumos notiesātajiem 
 2) aizliegt atstāt cietuma administrācijas norādīto teritoriju uz laiku līdz trim mēnešiem;
 3) ievietot soda izolatorā uz laiku līdz 15 diennaktīm;
 4) (izslēgts ar 11.11.2004. likumu).
-Šā panta pirmās daļas 1.¹ punktā paredzēto sodu piemēro tikai par brīvības atņemšanas iestādes iekšējās kārtības noteikumos minētās personīgā televizora vai radiouztvērēja (bez balss ieraksta iespējām) lietošanas kārtības pārkāpšanu.
+Šā panta pirmās daļas 1.¹ punktā paredzēto sodu piemēro tikai par brīvības atņemšanas iestādes iekšējās kārtības noteikumos minētās personiskā televizora vai radiouztvērēja (bez balss ieraksta iespējām) lietošanas kārtības pārkāpšanu.
 Ja pastaigas laikā tiek pārkāpti brīvības atņemšanas iestādes iekšējās kārtības noteikumos minētie pastaigu kārtības nosacījumi, pastaiga tiek pārtraukta un notiesātajam piemēro sodu par soda izciešanas režīma pārkāpšanu.
