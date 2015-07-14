@@ -13,3 +13,4 @@
 11) glabāt pie sevis individuālai lietošanai atļautās mantas, izmeklēšanas cietuma veikalā iegādātos pārtikas produktus, saņemt ar sūtījumiem un pienesumiem nepārtikas preces izmeklēšanas cietumu iekšējās kārtības noteikumos paredzētajā kārtībā un daudzumā.
 (2) (Izslēgta ar 14.07.2011. likumu)
 (3) Lemjot par šā panta pirmās daļas 6.punktā noteiktās tikšanās ilgumu un biežumu, izmeklēšanas cietuma administrācija izvērtē nepieciešamību nodrošināt vienādas tikšanās iespējas visiem apcietinātajiem.
+(4) Latvijas Cietumu slimnīcā ievietotajam apcietinātajam atbilstoši ārsta norādījumiem tikšanās vietā nodrošina iespēju sazināties ar radiniekiem vai citām personām ar videozvanu. Šādu videozvanu skaitu un ilgumu nosaka atbilstoši šajā likumā noteiktajam tikšanos skaitam un ilgumam.
