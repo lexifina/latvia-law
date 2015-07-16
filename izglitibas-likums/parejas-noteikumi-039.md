@@ -1,1 +1,1 @@
-39. Personai, kura iesniegusi ekspertīzei Akadēmiskās informācijas centram ārvalstī izsniegtu izglītības dokumentu vai ārvalstī iegūtu akadēmisko grādu apliecinošu dokumentu līdz 2014.gada 31.decembrim, ekspertīzes ietvaros sniegtie pakalpojumi ir bez maksas.
+39. Personai, kura iesniegusi ekspertīzei Akadēmiskās informācijas centram ārvalstī izsniegtu izglītības dokumentu vai ārvalstī iegūtu akadēmisko grādu apliecinošu dokumentu līdz 2015.gada 30.jūnijam, ekspertīzes ietvaros sniegtie pakalpojumi ir bez maksas.

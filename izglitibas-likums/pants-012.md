@@ -1,6 +1,6 @@
 12.pants. Maksa par izglītības ieguvi
-(1) Maksu par pirmsskolas izglītības, pamatizglītības un vidējās izglītības ieguvi valsts vai pašvaldību dibinātā izglītības iestādē sedz no valsts budžeta vai pašvaldību budžetiem Ministru kabineta noteiktajā kārtībā. Privātā izglītības iestāde var noteikt maksu par izglītības ieguvi.
-(2) Augstākās izglītības programmās valsts sedz maksu par izglītības ieguvi noteiktam studiju vietu skaitam atbilstoši attiecīgajā gadā noteiktajam valsts pasūtījumam; pārējām studiju vietām katra augstākās izglītības iestāde var noteikt maksu par izglītības ieguvi.
+(1) Maksu par pirmsskolas izglītības, pamatizglītības un vidējās izglītības ieguvi valsts vai pašvaldību izglītības iestādē, kā arī valsts augstskolu vidējās izglītības iestādē sedz no valsts budžeta, pašvaldību budžetiem vai valsts augstskolu budžetiem Ministru kabineta noteiktajā kārtībā. Privātā izglītības iestāde var noteikt maksu par izglītības ieguvi.
+(2) Augstākās izglītības programmās valsts sedz maksu par izglītības ieguvi noteiktam studiju vietu skaitam atbilstoši attiecīgajā gadā noteiktajam valsts pasūtījumam; pārējām studiju vietām katra augstskola vai koledža var noteikt maksu par izglītības ieguvi.
 (2¹) Pašvaldība saistošajos noteikumos var paredzēt daļēju maksu kā līdzfinansējumu par izglītības ieguvi pašvaldības dibinātajās profesionālās ievirzes izglītības iestādēs.
 (3) Studijām augstākās izglītības programmās studējošais var saņemt valsts kredītu. Saņemtais kredīts atmaksājams vai dzēšams Ministru kabineta noteiktajā kārtībā.
 (4) Ārvalstnieks vai bezvalstnieks maksā par augstākās izglītības programmas apguvi saskaņā ar noslēgto līgumu ar attiecīgo izglītības iestādi.

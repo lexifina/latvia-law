@@ -1,5 +1,5 @@
 9.pants. Izglītības ieguves valoda
-(1) Valsts un pašvaldību izglītības iestādēs izglītību iegūst valsts valodā.
+(1) Valsts, pašvaldību un valsts augstskolu izglītības iestādēs izglītību iegūst valsts valodā.
 (2) Citā valodā izglītību var iegūt:
 1) privātās izglītības iestādēs;
 2) valsts un pašvaldību izglītības iestādēs, kurās tiek īstenotas mazākumtautību izglītības programmas, ievērojot šā likuma 41.panta noteikumus;

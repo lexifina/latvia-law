@@ -29,7 +29,7 @@
 23) finansē no sava budžeta valsts pirmsskolas izglītības vadlīnijām, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartiem atbilstošu mācību līdzekļu - papildu literatūras, uzskates līdzekļu, didaktisko spēļu, digitālo mācību līdzekļu un resursu, izdales materiālu, mācību tehnisko līdzekļu, mācību materiālu, iekārtu un aprīkojuma - iegādi tās padotībā esošām izglītības iestādēm;
 23¹) veicina iespēju izglītības iestādēm izmantot vienoto bibliotēku informācijas sistēmu;
 24) organizē pedagogu profesionālās meistarības pilnveidi, koordinē un nodrošina metodisko darbu;
-25) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstākās izglītības iestādēs;
+25) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstskolās un koledžās;
 26) nodrošina valsts pārbaudes darbu, tai skaitā centralizēto eksāmenu, organizēšanu Ministru kabineta noteiktajā kārtībā;
 27) atbalsta izglītojamo piedalīšanos mācību priekšmetu olimpiādēs, konkursos, skatēs, projektos un sporta sacensībās;
 28) ievēro citos normatīvajos aktos noteiktās pašvaldību funkcijas izglītības jomā.

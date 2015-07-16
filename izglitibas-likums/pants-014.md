@@ -1,6 +1,7 @@
 14.pants. Ministru kabineta kompetence izglītībā
 Ministru kabinets:
 1) nosaka valsts atzītu izglītības dokumentu formas, izglītības dokumentu izsniegšanas kritērijus un kārtību;
+1¹) nosaka Latvijas kvalifikāciju ietvarstruktūras līmeņiem atbilstošus zināšanu, prasmju un kompetenču aprakstus;
 2) (izslēgts ar 05.07.2001. likumu);
 3) nosaka kārtību, kādā valsts finansē pamatizglītības un vidējās izglītības programmas, kuras īsteno privātās izglītības iestādes;
 4) nosaka kredīta saņemšanas, atmaksāšanas un dzēšanas kārtību un kredīta apmēru studijām izglītības iestāžu īstenotajās augstākās izglītības programmās;
@@ -16,11 +17,11 @@ Ministru kabinets:
 12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
 13) atbilstoši pedagogu profesijām apstiprina prasības pedagogiem nepieciešamajai izglītībai un profesionālajai kvalifikācijai;
 14) (izslēgts ar 05.07.2001. likumu);
-15) nosaka kārtību, kādā valsts un pašvaldības organizē un finansē mācību līdzekļu izdošanu un iegādi izglītības iestādēm;
+15) nosaka kārtību, kādā valsts un pašvaldības finansē mācību līdzekļu iegādi izglītības iestādēm;
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu;
 17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un internātskolās;
-18) nosaka vienotu valsts politiku un stratēģiju izglītībā un iesniedz Saeimā apstiprināšanai izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem;
+18) nosaka izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem kā vienotu valsts politiku un stratēģiju izglītībā;
 18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
 19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
@@ -31,7 +32,7 @@ Ministru kabinets:
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
-27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus;
+27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
 28) nosaka institūciju, kas licencē izglītības programmas;
 29) nosaka institūciju, kas akreditē izglītības programmas un izglītības iestādes;
 30) nosaka Valsts izglītības informācijas sistēmas saturu un uzturēšanas un aktualizācijas kārtību;
@@ -41,4 +42,6 @@ Ministru kabinets:
 34) nosaka atbalsta pasākumus darba devējiem darbinieku papildu izglītošanā, tai skaitā kritērijus šāda atbalsta saņemšanai un atbalsta pasākumu īstenošanas kārtību;
 35) nosaka kārtību, kādā izglītības iestāde informē izglītojamo vecākus (personas, kas realizē aizgādību), pašvaldības vai valsts iestādes, ja izglītojamais bez attaisnojoša iemesla neapmeklē izglītības iestādi;
 36) nosaka kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) izmaksas privātam pakalpojuma sniedzējam šā likuma 17.panta 2.¹ daļā minētajā gadījumā;
-37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas kārtību un kritērijus, dokumentus, ko pedagogs iesniedz viņa profesionālās darbības kvalitātes novērtēšanai, pedagoģiskā darba stāžu, kas nepieciešams attiecīgās pedagoga profesionālās darbības kvalitātes pakāpes piešķiršanai, kā arī pedagoga profesionālās darbības kvalitātes pakāpi apliecinoša dokumenta paraugu.
+37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas kārtību un kritērijus, dokumentus, ko pedagogs iesniedz viņa profesionālās darbības kvalitātes novērtēšanai, pedagoģiskā darba stāžu, kas nepieciešams attiecīgās pedagoga profesionālās darbības kvalitātes pakāpes piešķiršanai, kā arī pedagoga profesionālās darbības kvalitātes pakāpi apliecinoša dokumenta paraugu;
+38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
+39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus.

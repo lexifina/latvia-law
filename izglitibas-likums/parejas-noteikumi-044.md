@@ -1,0 +1,1 @@
+44. Grozījums šā likuma 59.panta otrajā daļā attiecībā uz privāto izglītības iestāžu arodizglītības un profesionālās vidējās izglītības programmās nodarbināto pedagogu darba samaksas finansēšanu stājas spēkā 2017.gada 1.janvārī.
