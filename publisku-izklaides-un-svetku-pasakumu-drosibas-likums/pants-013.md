@@ -11,3 +11,4 @@
 6) kontrolēt sabiedriskās kārtības, drošības un ugunsdrošības prasību ievērošanu;
 7) neielaist sporta pasākuma norises vietā personas, kurām atbilstoši normatīvajiem aktiem noteikts sporta pasākumu apmeklēšanas liegums.
 (3) Kārtības uzturētāji par šajā pantā minēto pienākumu nepildīšanu saucami pie atbildības normatīvajos aktos noteiktajā kārtībā.
+(4) Valsts policija un pašvaldības policija, pildot kārtības uzturētāja funkciju valsts vai pašvaldību institūciju organizētajos publiskajos pasākumos, var piesaistīt Zemessardzi atbalsta sniegšanai sabiedriskās kārtības un drošības garantēšanā.
