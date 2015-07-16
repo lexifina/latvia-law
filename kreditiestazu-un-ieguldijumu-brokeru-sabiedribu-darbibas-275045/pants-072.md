@@ -1,0 +1,1 @@
+72.pants. Ja Finanšu un kapitāla tirgus komisija piemēro iekšējās rekapitalizācijas instrumentu, attiecīgā iestāde vai Finanšu un kapitāla tirgus komisijas ieceltais pilnvarotais pārstāvis izstrādā un īsteno reorganizācijas plānu.

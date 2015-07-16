@@ -1,0 +1,2 @@
+23.pants. (1) Šajā nodaļā minētie saskaņotie lēmumi tiek uzskatīti par galīgiem un ir saistoši Finanšu un kapitāla tirgus komisijai.
+(2) Eiropas Savienības mātes sabiedrības grupas noregulējuma plāna izstrāde tiek apturēta līdz brīdim, kad iesaistītās noregulējuma iestādes ir apstiprinājušas Eiropas Savienības mātes sabiedrības ierosinātos pasākumus vai pašas noteikušas pasākumus būtisko noregulējuma šķēršļu novēršanai.

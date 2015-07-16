@@ -1,0 +1,1 @@
+128.pants. Finanšu un kapitāla tirgus komisijai vai tās pilnvarotajam pārstāvim ir tiesības pieprasīt iestādei un finanšu sabiedrībai un saņemt no tās informāciju, veikt pārbaudes klātienē, iepazīties ar dokumentāciju un pieprasīt skaidrojumus, kas nepieciešami, lai uzraudzītu šā likuma prasību ievērošanu.

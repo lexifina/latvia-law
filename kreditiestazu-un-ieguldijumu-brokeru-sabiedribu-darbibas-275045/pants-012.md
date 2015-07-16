@@ -1,0 +1,1 @@
+12.pants. Iestādei ir pienākums pēc Finanšu un kapitāla tirgus komisijas pieprasījuma sadarboties noregulējuma plāna izstrādes gaitā un sniegt visu noregulējuma plāna izstrādei un īstenošanai nepieciešamo informāciju.

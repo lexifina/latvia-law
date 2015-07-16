@@ -1,0 +1,5 @@
+96.pants. (1) Lai novērtētu, vai akcionāriem, tām personām, kurām pieder citi īpašumtiesību instrumenti, un kreditoriem būtu piemēroti labvēlīgāki nosacījumi, ja noregulējuma darbības veikšanas vietā būtu uzsākta maksātnespēja, vērtētājs nekavējoties pēc noregulējuma darbības veikšanas izdara vērtēšanu, kurā nosaka:
+1) kādi nosacījumi būtu piemēroti akcionāriem, tām personām, kurām pieder citi īpašumtiesību instrumenti, un kreditoriem, ja noregulējamā iestāde, attiecībā uz kuru veikta noregulējuma darbība, būtu sākusi maksātnespējas procedūru laikā, kad saskaņā ar šo likumu tika pieņemts lēmums par noregulējuma darbības piemērošanu;
+2) kādi nosacījumi faktiski ir īstenoti attiecībā uz akcionāriem, tām personām, kurām pieder citi īpašumtiesību instrumenti, un kreditoriem noregulējamās iestādes noregulēšanā;
+3) vai šā panta 1. un 2.punktā minēto nosacījumu piemērošanas sekas ir atšķirīgas.
+(2) Vērtētājs vērtēšanas procesā ņem vērā pieņēmumu par to, ka noregulējamā iestāde būtu uzsākusi maksātnespējas procesu laikā, kad saskaņā ar šo likumu tika pieņemts lēmums par noregulējuma darbības piemērošanu, un ka noregulējuma darbība netika veikta.

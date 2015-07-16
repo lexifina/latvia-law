@@ -1,0 +1,1 @@
+29.pants. Lēmumu par grupas iekšējā finansiālā atbalsta sniegšanu vai pieņemšanu saskaņā ar nolīgumu pieņem tā grupas sabiedrība, kas sniegs finansiālo atbalstu. Šo lēmumu pamato un tajā norāda ierosinātā finansiālā atbalsta mērķi un to, ka tas atbilst finansiālā atbalsta sniegšanas nosacījumiem.

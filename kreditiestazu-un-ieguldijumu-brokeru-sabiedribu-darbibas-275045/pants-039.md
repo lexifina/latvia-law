@@ -1,0 +1,15 @@
+39.pants. (1) Finanšu un kapitāla tirgus komisija veic noregulējuma darbību tikai tad, ja ir izpildīti visi noregulējuma nosacījumi:
+1) Finanšu un kapitāla tirgus komisija konstatē, ka iestādei ir finanšu grūtības vai, iespējams, tā nonāks finanšu grūtībās;
+2) nepastāv pamatota iespēja, ka pasākumi, ko attiecībā uz iestādi var veikt akcionāri vai trešās personas, uzraudzības pasākumi, ko var veikt Finanšu un kapitāla tirgus komisija, un attiecīgo kapitāla instrumentu norakstīšana vai konvertēšana saprātīgā termiņā novērsīs iestādes finanšu grūtības;
+3) noregulējuma darbība ir nepieciešama sabiedrības interesēs, lai sasniegtu vienu vai vairākus noregulējuma mērķus, tā ir samērīga ar šiem mērķiem, un, ja iestādei piemērotu maksātnespējas procedūru, šie noregulējuma mērķi netiktu sasniegti tādā pašā apjomā.
+(2) Iepriekšēja agrīnās intervences pasākuma piemērošana nav uzskatāma par pamatu noregulējuma darbības veikšanai.
+(3) Iestāde vai finanšu sabiedrība ir vai, iespējams, būs uzskatāma par nonākušu finanšu grūtībās, ja tā atbilst vienam vai vairākiem šādiem nosacījumiem:
+1) iestāde vai finanšu sabiedrība pārkāpj vai paredzams, ka iestāde vai finanšu sabiedrība tuvākajā laikā varētu pārkāpt tās darbību regulējošo normatīvo aktu prasības, un būtu pamats pieņemt lēmumu par licences (atļaujas) anulēšanu iestādes vai finanšu sabiedrības darbībai, tai skaitā, ja iestādei vai finanšu sabiedrībai ir vai var būt zaudējumi, kuru kompensācija būtiski samazinās iestādes vai finanšu sabiedrības pašu kapitālu;
+2) iestādes vai finanšu sabiedrības aktīvi ir mazāki par tās saistībām vai pastāv objektīvi fakti, uz kuru pamata var konstatēt, ka iestādes vai finanšu sabiedrības aktīvi tuvākajā laikā var būt mazāki par tās saistībām;
+3) iestāde vai finanšu sabiedrība nespēj segt savas saistības noteiktā termiņā vai pastāv objektīvi fakti, uz kuru pamata var konstatēt, ka iestāde vai finanšu sabiedrība tuvākajā laikā nespēs segt savas saistības noteiktā termiņā;
+4) iestādei vai finanšu sabiedrībai ir nepieciešams valsts atbalsts, izņemot gadījumu, kad tas tiek sniegts kā:
+a) valsts garantija likviditātes mehānismiem, ko nodrošina Latvijas Banka saskaņā ar saviem nosacījumiem,
+b) valsts garantija no jauna izveidotajām atbilstīgajām saistībām,
+c) pašu kapitāla palielināšana un kapitāla instrumentu pirkšana par cenām, kas iestādei vai finanšu sabiedrībai nepiešķir priekšrocības, ar nosacījumu, ka valsts atbalsta piešķiršanas brīdī iestāde vai finanšu sabiedrība nav vai, iespējams, nebūs uzskatāma par nonākušu finanšu grūtībās un nav iestājušies šā panta trešās daļas 1., 2. un 3.punktā un šā likuma 77.panta trešajā daļā minētie nosacījumi.
+(4) Šā panta trešās daļas 4.punktā minēto valsts atbalstu piešķir tikai iestādēm, kuras nav nonākušas finanšu grūtībās, un tikai pēc tam, kad saņemts Eiropas Komisijas lēmums par valsts atbalsta saderīgumu ar Eiropas Savienības iekšējo tirgu.
+(5) Konstatējusi, ka iestāde vai finanšu sabiedrība atbilst šā panta nosacījumiem, Finanšu un kapitāla tirgus komisija pieņem lēmumu par turpmāko rīcību, arī par piemērojamām noregulējuma darbībām vai maksātnespējas procesa sākšanu.

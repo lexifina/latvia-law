@@ -1,0 +1,1 @@
+115.pants. Lai nodrošinātu noregulējuma darbību izpildi, noregulējuma iestādes sadarbojas, pamatojoties uz Starptautisko nolīgumu par noregulējuma iestāžu sadarbību. Ja Starptautiskais nolīgums par noregulējuma iestāžu sadarbību nav stājies spēkā, Latvijas Republika var slēgt ar ārvalstīm divpusējus nolīgumus par sadarbību, ievērojot šīs nodaļas noteikumus.

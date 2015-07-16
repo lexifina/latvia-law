@@ -1,0 +1,1 @@
+10.pants. Šā likuma 8. un 9.pantā minētie saskaņotie lēmumi un lēmumi, kurus uzraudzības institūcijas pieņem, tiek uzskatīti par saistošiem noregulējuma iestādēm attiecīgajā dalībvalstī, un tos piemēro iesaistītās uzraudzības institūcijas attiecīgajās dalībvalstīs.

@@ -1,0 +1,6 @@
+58.pants. (1) Īstenojot šā likuma 54.panta ceturtajā daļā un 55.panta pirmajā daļā noteiktās tiesības, Finanšu un kapitāla tirgus komisija ievēro:
+1) principu, ka zaudējumus vispirms sedz akcionāri vai personas, kurām pieder citi īpašumtiesību instrumenti, un pēc tam noregulējamās iestādes kreditori prioritārā secībā;
+2) zaudējumu segšanas spēju, kāda noregulējamā iestādē turpmāk būtu, ja saistības vai saistību kategorija tiktu izslēgta;
+3) nepieciešamību saglabāt pietiekamus resursus noregulējuma finansēšanai.
+(2) Saistību izslēgšanu saskaņā ar šā likuma 54.panta ceturtās daļas un 55.panta pirmās daļas prasībām piemēro, lai pilnībā izslēgtu saistību norakstīšanu vai lai ierobežotu minēto saistību norakstīšanas apmēru.
+(3) Pēc tam, kad ir pieņemts lēmums īstenot šā likuma 54.panta ceturtajā daļā un 55.panta pirmajā daļā noteiktās tiesības, Finanšu un kapitāla tirgus komisija informē par to Eiropas Komisiju. Ja šā likuma 54.panta ceturtajā daļā un 55.panta pirmajā daļā noteikto tiesību īstenošanai ir nepieciešams izmantot noregulējuma fonda vai citu alternatīvo finansēšanas avotu līdzekļus, Finanšu un kapitāla tirgus komisijai ir nepieciešams saņemt Eiropas Komisijas saskaņojumu pirms šāda lēmuma pieņemšanas.

@@ -1,0 +1,2 @@
+84.pants. (1) Piemērojot pagaidu publiskā īpašuma instrumentu, iestādi vai finanšu sabiedrību uz laiku var pārņemt valsts īpašumā, nododot to pārvaldīšanā Ministru kabineta izraudzītai kapitālsabiedrībai, kurā valstij ir izšķirošā ietekme.
+(2) Iestāde vai finanšu sabiedrība, kurai ir piemērots pagaidu publiskā īpašuma instruments, tiek atsavināta, nepārsniedzot Eiropas Komisijas lēmumā par valsts atbalsta saderību ar Eiropas Savienības iekšējo tirgu noteikto termiņu.

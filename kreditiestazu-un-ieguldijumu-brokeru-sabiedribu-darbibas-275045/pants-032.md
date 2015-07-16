@@ -1,0 +1,1 @@
+32.pants. Latvijas Republikā reģistrēta grupas sabiedrība savā mājaslapā internetā publicē informāciju par to, vai tā ir vai nav iesaistījusies nolīgumā par grupas iekšējo finansiālo atbalstu, sniedzot nolīguma vispārējo nosacījumu aprakstu un nolīgumā iesaistījušos grupas sabiedrību nosaukumus, kā arī reizi gadā aktualizē publicēto informāciju.

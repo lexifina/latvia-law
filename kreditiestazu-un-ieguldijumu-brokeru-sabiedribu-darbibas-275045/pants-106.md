@@ -1,0 +1,12 @@
+106.pants. Saskaņā ar šo likumu pieņemot lēmumus vai veicot tādas darbības un pasākumus, kas var ietekmēt vēl vienu vai vairākas citas dalībvalstis, Finanšu un kapitāla tirgus komisija ievēro šādas vispārējās prasības un principus:
+1) lēmumu pieņemšanas efektivitāte un noregulējuma izmaksu samazināšana;
+2) savlaicīga rīcība un, ja nepieciešams, rīcība steidzamības kārtībā;
+3) savstarpēja sadarbība, lai nodrošinātu, ka lēmumi tiek pieņemti un pasākumi tiek veikti koordinēti un efektīvi;
+4) katras dalībvalsts noregulējuma iestāžu lomas un pienākumu skaidra definēšana;
+5) to dalībvalstu interešu pienācīga apsvēršana, kurās dalībvalsts mātes sabiedrības un dalībvalsts meitas sabiedrības veic komercdarbību, un it īpaši jebkura lēmuma, darbības vai bezdarbības ietekme uz minēto dalībvalstu finanšu stabilitāti, fiskālajiem resursiem, noregulējuma fondu, noguldījumu garantiju sistēmu vai ieguldītāju aizsardzības sistēmu;
+6) to dalībvalstu interešu pienācīga apsvēršana, kurās nozīmīgas filiāles veic komercdarbību, it īpaši jebkura lēmuma, darbības vai bezdarbības ietekme uz minēto dalībvalstu finanšu stabilitāti;
+7) pienācīga mērķu apsvēršana, līdzsvarojot dažādu iesaistīto dalībvalstu intereses un izvairoties no dalībvalstu interešu neievērošanas vai aizstāvības, it īpaši mēģinot izvairīties no negodīga administratīvo izmaksu sadalījuma dalībvalstīs;
+8) pienākums saskaņā ar šo likumu pirms lēmuma pieņemšanas vai pasākuma īstenošanas apspriesties ar noregulējuma vai uzraudzības institūciju ietver vismaz pienākumu apspriesties par tādiem ierosinātā lēmuma vai pasākuma elementiem, kuri, iespējams, ietekmē vai ietekmētu dalībvalsts mātes sabiedrību, meitas sabiedrību vai filiāli, un par tiem ierosinātā lēmuma vai pasākuma elementiem, kuriem ir vai varētu būt ietekme uz tās dalībvalsts finanšu stabilitāti, kurā dalībvalsts mātes sabiedrība, meitas sabiedrība vai filiāle veic komercdarbību vai ir reģistrēta;
+9) veicot noregulējuma darbības, ņem vērā un izpilda noregulējuma plānus, ja vien, ievērojot lietas apstākļus, neuzskata, ka noregulējuma mērķi tiks sasniegti efektīvāk, veicot darbības, kuras nav paredzētas noregulējuma plānos;
+10) izvērtē ierosinātā lēmuma vai pasākuma iespējamo ietekmi uz attiecīgās dalībvalsts finanšu stabilitāti, fiskālajiem resursiem, noregulējuma fondu, noguldījumu garantiju sistēmu vai ieguldītāju aizsardzības sistēmu;
+11) izpratne par to, ka sasniegt vislabāko kopējo noregulējuma izmaksu samazinājumu ir iespējams, noregulējuma un uzraudzības institūcijām savstarpēji sadarbojoties un koordinējot darbību.

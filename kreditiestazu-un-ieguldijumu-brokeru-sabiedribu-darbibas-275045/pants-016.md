@@ -1,0 +1,1 @@
+16.pants. Šā likuma 14. un 15.pantā minētais saskaņotais lēmums un lēmumi, kurus noregulējuma iestādes pieņem, ja nav pieņemts saskaņots lēmums, tiek uzskatīti par galīgiem, un tos piemēro iesaistītās noregulējuma iestādes attiecīgajās dalībvalstīs.

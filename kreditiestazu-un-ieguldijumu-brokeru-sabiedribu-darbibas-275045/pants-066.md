@@ -1,0 +1,1 @@
+66.pants. Finanšu un kapitāla tirgus komisija informē Eiropas Banku iestādi par tās uzraudzībā esošai iestādei noteikto minimālo pašu kapitāla un atbilstīgo saistību prasību, kā arī par saskaņā ar šā likuma 65.panta trešo daļu pieņemtajiem lēmumiem.

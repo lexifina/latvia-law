@@ -1,0 +1,4 @@
+114.pants. (1) Finanšu un kapitāla tirgus komisija var vērsties Eiropas Banku iestādē ar lūgumu sniegt atbalstu šajā likumā minētā saskaņotā lēmuma par grupas noregulējuma plānu pieņemšanā saskaņā ar Regulas Nr. 1093/2010 31.panta "c" punktu.
+(2) Ja minētais grupas noregulējuma plāns netiek īstenots, Finanšu un kapitāla tirgus komisija sadarbojas ar noregulējuma kolēģiju, lai panāktu saskaņotu noregulējuma stratēģiju attiecībā uz visām grupas sabiedrībām, kuras kļūst maksātnespējīgas vai, iespējams, kļūs maksātnespējīgas.
+(3) Finanšu un kapitāla tirgus komisija informē par tās veikto noregulējuma darbību vai pasākumiem un to norisi pārējos noregulējuma kolēģijas locekļus.
+(4) Šajā likumā minētais saskaņotais lēmums un lēmumi, kurus noregulējuma iestādes pieņem gadījumos, kad nepiekrīt grupas noregulējuma plānam, tiek uzskatīti par galīgiem, un iesaistītās noregulējuma iestādes tos piemēro attiecīgajās dalībvalstīs.
