@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Kredītiestāžu un ieguldījumu brokeru sabiedrību darbības atjaunošanas un noregulējuma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "127",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-02",
+  "entry_into_force": "2015-07-16",
+  "notification_date": "2024-05-29",
+  "commission_reference": "MNE(2024)02358",
+  "nim_celex": "72022R2036LVA_202402358",
+  "nim_id": "202402358",
+  "transposes_celex": [
+    "32022R2036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1f5c18b-1a38-455f-ab85-85f0ed35f7ab",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
