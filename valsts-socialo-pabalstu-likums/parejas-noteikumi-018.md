@@ -1,0 +1,1 @@
+18. Grozījums šā likuma 13.panta pirmās daļas 1.punktā par vārdu "par pieciem gadiem ir pārsniegusi" aizstāšanu ar vārdiem "ir sasniegusi" un grozījums šā likuma 18.panta pirmajā daļā par skaitļa "12" aizstāšanu ar vārdu "seši" (attiecīgā locījumā) stājas spēkā 2017.gada 1.janvārī.
