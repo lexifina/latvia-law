@@ -1,0 +1,1 @@
+24. Grozījumi šā likuma 62.panta trešās daļas 1.punktā (par valsts augstskolu vispārējās vidējās izglītības iestāžu pedagogu un citu tiem pielīdzināto speciālistu darba samaksu) stājas spēkā 2016.gada 1.janvārī.

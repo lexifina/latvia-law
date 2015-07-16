@@ -14,4 +14,5 @@
 11) pamatizglītības vai vispārējās vidējās izglītības sertifikāts - dokuments, kas apliecina izglītojamā mācību sasniegumus mācību priekšmetā, kurā ir organizēts centralizēts eksāmens;
 12) centralizēts eksāmens - pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts valsts pārbaudes darbs izglītojamo mācību sasniegumu novērtēšanai noteiktā mācību priekšmetā pamatizglītības un vispārējās vidējās izglītības programmā;
 13) vērtējums - izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums;
-14) speciālās vajadzības - nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni.
+14) speciālās vajadzības - nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni;
+15) starptautiska testēšanas institūcija - institūcija, kas nodrošina pārbaudījumu svešvalodā un izsniedz dokumentu par pārbaudījuma rezultātiem, kuri pielīdzināti Eiropas kopīgajās pamatnostādnēs valodu apguvei noteiktajiem valodas prasmes līmeņiem.

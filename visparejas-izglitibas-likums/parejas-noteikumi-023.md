@@ -1,0 +1,1 @@
+23. Ministru kabinets ne vēlāk kā līdz 2015.gada 30.septembrim izdara grozījumus Ministru kabineta 2006.gada 6.novembra noteikumos Nr.913 "Kārtība, kādā izsniedzami valsts atzīti vispārējās izglītības dokumenti", nosakot kārtību, kādā izsniedzami dokumenti par vispārējās vidējās izglītības programmas apguvi.
