@@ -13,18 +13,22 @@
 a) attiecīgais nodokļu maksātājs neiesniedz nodokļu administrācijai konkrēto nodokļu likumos paredzētās deklarācijas vai nodokļu aprēķinus,
 b) attiecīgā nodokļu maksātāja nodokļu audita laikā ir konstatēti grāmatvedības uzskaites vai nodokļu normatīvo aktu pārkāpumi,
 c) attiecīgais nodokļu maksātājs neveic nodokļu maksājumus atbilstoši nodokļu likumu prasībām;
-11¹) Valsts ieņēmumu dienestam - pamatojoties uz pieprasījumu, ko akceptējis Valsts ieņēmumu dienesta ģenerāldirektors, viņa vietnieks vai nodokļu administrēšanas struktūrvienības vadītājs vai viņa vietnieks, saskaņā ar Eiropas Savienības normatīvajiem aktiem vai Latvijas Republikas Saeimas apstiprinātiem starptautiskajiem līgumiem, ja tajos ir noteikta paredzami svarīgas vai svarīgas informācijas sniegšana, citas Eiropas Savienības dalībvalsts vai ārvalsts (starptautiskā līguma puses) konkrēta nodokļu maksātāja nodokļu administrēšanas vajadzībām paredzami svarīgu vai svarīgu informāciju (tai skaitā par darījumiem ar trešajām personām). Šā punkta piemērošanai paredzami svarīga vai svarīga informācija ir:
-a) bankas konta esamība,
-b) bankas konta turētājs,
-c) persona, kura pilnvarota rīkoties ar bankas kontu,
-d) persona, kura atvēra bankas kontu,
-e) bankas konta pārskata perioda sākuma atlikums un beigu atlikums,
-f) procentu summa, kas nomaksāta par attiecīgās bankas kontā esošajiem naudas līdzekļiem par konkrētu laika periodu,
-g) nomaksātā nodokļu summa par procentiem konkrētā laika periodā,
-h) bankas konta izraksts par konkrētu laika periodu,
-i) ziņas vai dokumenti saistībā ar konkrētu darījumu kontā,
-j) ziņas par citiem konta turētāja kontiem bankā konkrētā laika periodā, kā arī ziņas par attiecīgajiem kontiem piesaistīto maksājumu karti (tās veids, numurs un lietotājs),
-k) ziņas par attiecīgās maksājumu kartes piesaisti bankas kontam;
+11¹) Valsts ieņēmumu dienestam - pamatojoties uz pieprasījumu, ko akceptējis Valsts ieņēmumu dienesta ģenerāldirektors, viņa vietnieks vai nodokļu administrēšanas struktūrvienības vadītājs vai viņa vietnieks, saskaņā ar Eiropas Savienības normatīvajiem aktiem vai Latvijas Republikas Saeimas apstiprinātiem starptautiskajiem līgumiem, ja tajos ir noteikta paredzami svarīgas vai svarīgas informācijas sniegšana, citas Eiropas Savienības dalībvalsts vai ārvalsts (starptautiskā līguma puses) konkrēta nodokļu maksātāja vai nodokļu maksātāju grupas nodokļu administrēšanas vajadzībām paredzami svarīgu vai svarīgu informāciju (tai skaitā par darījumiem ar trešajām personām). Šā punkta piemērošanai paredzami svarīga vai svarīga informācija ir:
+a) attiecīgās personas bankas kontu, tai skaitā slēgto bankas kontu, numuri,
+b) to bankas kontu numuri, ar kuriem konkrēts nodokļu maksātājs ir pilnvarojis rīkoties pilnvaroto personu vai ar kuriem saistībā ar konkrētu nodokļu maksātāju vai nodokļu maksātāju grupu, to darījumiem, darījumu partneriem vai saistītām personām ir pilnvarota rīkoties pilnvarotā persona,
+c) attiecīgā bankas konta turētājs,
+d) personas, kuras pilnvarotas rīkoties ar bankas kontu, tai skaitā izmantojot kontu attālinātās vadīšanas līdzekļus,
+e) persona, kura atvēra bankas kontu,
+f) bankas konta pārskata perioda sākuma atlikums un beigu atlikums,
+g) procentu summa, kas nomaksāta par attiecīgajā bankas kontā esošajiem naudas līdzekļiem par konkrētu laika periodu,
+h) nomaksātā nodokļu summa par procentiem konkrētā laika periodā,
+i) bankas konta izraksts par konkrētu laika periodu,
+j) ziņas vai dokumenti saistībā ar konkrētu darījumu kontā, tai skaitā maksājumu uzdevumu, skaidras naudas iemaksas kvīšu, čeku, tostarp atsaukto čeku, aizdevumu līgumu un citu darījumu apliecinošo dokumentu kopijas,
+k) kontu atvēršanu apliecinoši dokumenti, tai skaitā līgumu par bankas konta atvēršanu, parakstu paraugu karšu un citu tādu dokumentu kopijas, kurus kredītiestāde ieguvusi klienta identifikācijas nolūkos,
+l) ziņas par citiem konta turētāja kontiem bankā konkrētā laika periodā, kā arī ziņas par attiecīgajiem kontiem piesaistītajām maksājumu kartēm (to veids, numurs, lietotājs),
+m) ziņas par attiecīgās maksājumu kartes piesaisti bankas kontam,
+n) ziņas par attiecīgās maksājumu kartes lietotāju,
+o) šā punkta "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m" un "n" apakšpunktā norādītās ziņas un dokumenti par trešo personu atvērtajiem vai turētajiem kontiem, ja šī informācija ir paredzami svarīga vai svarīga konkrēta nodokļu maksātāja vai nodokļu maksātāju grupas nodokļu administrēšanas vajadzībām;
 11²) Valsts ieņēmumu dienestam - informācijas sniegšanai Amerikas Savienotajām Valstīm, pamatojoties uz Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgumu par starptautisko nodokļu pienākumu izpildes uzlabošanu un likuma par ārvalstu kontu nodokļu pienākumu izpildi (FATCA) ieviešanu, līgumā noteiktajā apjomā. Ministru kabinets nosaka termiņus un kārtību, kādā ziņas sniedzamas;
 12) Valsts ieņēmumu dienestam, ja kredītiestāde ir uzkrājumu ienākumu izmaksātājs saskaņā ar likuma "Par nodokļiem un nodevām" 45.panta pirmo daļu vai tā izmaksā vai nodrošina uzkrājumu ienākuma izmaksu saskaņā ar minētā likuma 45.panta trešo daļu;
 13) notāram, kas ved mantojuma lietu, ziņas, kas nepieciešamas fiziskās personas - mantojuma atstājēja mantojuma masas apzināšanai;
