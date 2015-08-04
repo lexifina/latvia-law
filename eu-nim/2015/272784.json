@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 28.jūlija noteikumi Nr.442 \"Kārtība, kādā tiek nodrošināta informācijas un komunikācijas tehnoloģiju sistēmu atbilstība minimālajām drošības prasībām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "149 (5467)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-03",
+  "entry_into_force": "2015-08-04",
+  "notification_date": "2019-05-10",
+  "commission_reference": "MNE(2019)52964",
+  "nim_celex": "72016L1148LVA_272784",
+  "nim_id": "272784",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/276e6b7a-2a5e-49ac-b118-8b081d5f29bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
