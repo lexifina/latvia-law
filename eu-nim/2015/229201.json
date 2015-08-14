@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 28.jūlija noteikumi Nr.434 \"Pirotehnisko izstrādājumu drošuma pamatprasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157 (5475)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-13",
+  "entry_into_force": "2015-08-14",
+  "notification_date": "2015-08-20",
+  "commission_reference": "MNE(2015)55981",
+  "nim_celex": "72013L0029LVA_229201",
+  "nim_id": "229201",
+  "transposes_celex": [
+    "32013L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/669ff8f9-ea82-4c8e-8d38-84169b9a13a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
