@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2015. gada 12. augusta normatīvie noteikumi Nr. 131 „Apdrošināšanas vai pārapdrošināšanas sabiedrības grupas maksātspējas aprēķina normatīvie noteikumi”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "158 (5476)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-08-14",
+  "entry_into_force": "2015-08-15",
+  "notification_date": "2015-08-20",
+  "commission_reference": "MNE(2015)55987",
+  "nim_celex": "72009L0138LVA_229207",
+  "nim_id": "229207",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4929a24b-0742-426c-8ce8-dca40fd8430f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
