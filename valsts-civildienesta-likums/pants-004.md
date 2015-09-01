@@ -6,5 +6,6 @@
 (2) Valsts kanceleja:
 1) izstrādā un koordinē valsts civildienesta attīstības politiku;
 2) koordinē ierēdņu karjeras attīstību;
-3) saskaņo ierēdņu amatus.
+3) saskaņo ierēdņu amatus;
+4) nodrošina iestādes vadītāju atlasi, izņemot šā likuma 37.pantā minēto gadījumu.
 (3) (Izslēgta ar 01.12.2009. likumu)
