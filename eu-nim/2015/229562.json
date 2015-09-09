@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 1. septembra noteikumi Nr. 507 „Grozījumi Ministru kabineta 2011. gada 21. jūnija noteikumos Nr. 485 „Atsevišķu veidu bīstamo atkritumu apsaimniekošanas kārtība””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176 (5494)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-09",
+  "entry_into_force": "2015-09-09",
+  "notification_date": "2015-09-09",
+  "commission_reference": "MNE(2015)56335",
+  "nim_celex": "72013L0056LVA_229562",
+  "nim_id": "229562",
+  "transposes_celex": [
+    "32013L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27acc5d6-64c1-4c5c-be90-01cda6550e82",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
