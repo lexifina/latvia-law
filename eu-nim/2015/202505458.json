@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 15. septembra noteikumi Nr. 529 \"Dehidrēto piena produktu kvalitātes, klasifikācijas un papildu marķējuma prasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-29",
+  "entry_into_force": "2015-09-30",
+  "notification_date": "2025-10-06",
+  "commission_reference": "MNE(2025)05458",
+  "nim_celex": "72024L1438LVA_202505458",
+  "nim_id": "202505458",
+  "transposes_celex": [
+    "32024L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b9634a05-0c5f-4752-9f39-1283fb3c7e44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
