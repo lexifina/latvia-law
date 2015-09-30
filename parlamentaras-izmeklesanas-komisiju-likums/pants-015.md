@@ -1,1 +1,1 @@
-15.pants. Ar parlamentārās izmeklēšanas komisijas galaziņojuma izskatīšanu Saeimas sēdē komisijas pilnvaras izbeidzas, ja Saeima nav lēmusi citādi.
+15.pants. Parlamentārās izmeklēšanas komisijas darbība izbeidzas astotajā dienā pēc galaziņojuma izskatīšanas Saeimas sēdē, ja Saeima nav lēmusi citādi.

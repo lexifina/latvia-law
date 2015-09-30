@@ -1,2 +1,3 @@
-14.pants. (1) Parlamentārās izmeklēšanas komisijas galaziņojumu izskata Saeimas sēdē.
-(2) Pēc izskatīšanas Saeimas sēdē parlamentārās izmeklēšanas komisijas galaziņojums ne vēlāk kā septiņu dienu laikā publicējams laikrakstā "Latvijas Vēstnesis".
+14.pants. (1) Parlamentārās izmeklēšanas komisija galaziņojumu iesniedz Saeimas Prezidijam. Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Saeimas Prezidijs galaziņojumu iekļauj Saeimas nākamās kārtējās sēdes darba kārtībā.
+(2) Pēc izskatīšanas Saeimas sēdē parlamentārās izmeklēšanas komisijas galaziņojums ne vēlāk kā septiņu dienu laikā publicējams oficiālajā izdevumā "Latvijas Vēstnesis".
+(3) Pēc galaziņojuma publicēšanas oficiālajā izdevumā "Latvijas Vēstnesis" tajā atspoguļotos priekšlikumus konstatēto trūkumu novēršanai parlamentārās izmeklēšanas komisija nosūta izvērtēšanai Saeimas komisijām, Ministru kabinetam, ministrijām vai citai publiskas personas institūcijai, kuras kompetencē ietilpst attiecīgo priekšlikumu ieviešana.
