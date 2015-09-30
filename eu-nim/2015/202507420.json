@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 15. septembra noteikumi Nr. 524 \"Kārtība, kādā nosaka, aprēķina un uzskaita katra dzīvojamās mājas īpašnieka maksājamo daļu par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-29",
+  "entry_into_force": "2015-09-30",
+  "notification_date": "2025-12-30",
+  "commission_reference": "MNE(2025)07420",
+  "nim_celex": "72023L1791LVA_202507420",
+  "nim_id": "202507420",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9572e1a0-fe94-414f-8763-1457a1d6310e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
