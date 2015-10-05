@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Informācijas atklātības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2015/185.1 (5503)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-09-22",
+  "entry_into_force": "2015-10-05",
+  "notification_date": "2015-10-05",
+  "commission_reference": "MNE(2015)57089",
+  "nim_celex": "72013L0037LVA_230445",
+  "nim_id": "230445",
+  "transposes_celex": [
+    "32013L0037"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e10e1473-7e94-4aa0-9c9b-7ff93352776a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
