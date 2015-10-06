@@ -1,0 +1,1 @@
+9. Ja šā likuma 18.panta ceturtajā daļā noteiktā ekskluzīvā vienošanās noslēgta līdz 2015.gada 1.jūlijam un tās termiņš pārsniedz 10 gadus, tad to izbeidz vai pagarina vienpadsmitajā gadā pēc attiecīgās vienošanās noslēgšanas un pēc tam, ja nepieciešams, reizi septiņos gados.
