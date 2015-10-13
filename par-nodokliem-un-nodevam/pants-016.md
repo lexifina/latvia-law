@@ -9,4 +9,6 @@ Nodokļu maksātājiem ir tiesības:
 7) saņemt pārmaksāto nodokļu summas saskaņā ar konkrēto nodokļu likumiem;
 8) saņemt nodokļu administrācijas nepareizi piedzīto maksājumu summas šā likuma 28.pantā noteiktajā kārtībā;
 9) saņemt no savu ienākumu gūšanas vietas rakstveida izziņu par to, kādus nodokļus darba devējs ir nomaksājis;
-10) pieprasīt pārmaksātās nodokļa summas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa.
+10) pieprasīt pārmaksātās nodokļa summas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa;
+11) pieprasīt pārmaksātās valsts nodevas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā no dienas, kad ir izsniegts tās personas rakstveida atzinums, kura sniegusi pakalpojumu vai devusi nodrošinājumu, vai stājies spēkā tiesas vai tiesneša nolēmums par valsts nodevas atmaksāšanu;
+12) pieprasīt nepareizi iemaksātās (maksājums veikts, bet attiecīgā darbība iestādē nav veikta vai pakalpojums nav sniegts) valsts nodevas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā no dienas, kad valsts nodeva ir iemaksāta.

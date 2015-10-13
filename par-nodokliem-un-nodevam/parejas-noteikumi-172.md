@@ -1,0 +1,1 @@
+172. Grozījumi šā likuma 2.pantā attiecībā uz Valsts ieņēmumu dienesta un kredītinformācijas biroja papildu pienākumiem fizisko personu datu apstrādē, 18.panta pirmās daļas 24.punkts un tā septītā un astotā daļa, 22.panta otrās daļas 7.punkts un 22.¹ pants stājas spēkā 2016.gada 1.martā.
