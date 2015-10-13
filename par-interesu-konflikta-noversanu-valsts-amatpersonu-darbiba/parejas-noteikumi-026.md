@@ -1,0 +1,1 @@
+26. Šā likuma grozījumi par 4.panta pirmās daļas papildināšanu ar 27.punktu un 7.panta trešās daļas papildināšanu pēc vārdiem "Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšniekam un viņa vietniekam" ar vārdiem "Rūpnieciskā īpašuma apelācijas padomes priekšsēdētājam un locekļiem" stājas spēkā 2016.gada 1.janvārī.
