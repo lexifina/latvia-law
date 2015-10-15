@@ -1,0 +1,5 @@
+3. pants
+Kopīgā izpilde
+1. Puses vienojas savas otrā saistību perioda kvantitatīvās emisiju ierobežošanas un samazināšanas saistības, kas ierakstītas Kioto protokola B pielikuma trešajā slejā, izpildīt kopīgi, ievērojot kopīgās izpildes nosacījumus.
+2. Šajā nolūkā Islande veic visus vajadzīgos pasākumus, lai nodrošinātu, ka tās kopējais to siltumnīcefekta gāzu antropogēno emisiju daudzums otrajā saistību periodā, kas uzskaitītas Kioto protokola A pielikumā, no avotiem un piesaistītājsistēmām, uz kurām attiecas Kioto protokols un kuras neietilpst ETS direktīvas darbības jomā, izteikts kā oglekļa dioksīda ekvivalents, nepārsniedz tai noteikto daudzumu, kas norādīts kopīgās izpildes nosacījumos.
+3. Neskarot šā nolīguma 8. pantu, Islande otrā saistību perioda beigās saskaņā ar Lēmumu 1/CMP.8 un citiem attiecīgiem UNFCCC vai Kioto protokola struktūru lēmumiem, kā arī kopīgās izpildes nosacījumiem, no valsts reģistra noraksta AAU, CER, ERU, RMU, pagaidu CER un ilgtermiņa CER tādā apmērā, kas ir līdzvērtīgs tām siltumnīcefekta gāzu emisijām no avotiem un piesaistei piesaistītājsistēmās, kuras aptver tai noteiktais daudzums.
