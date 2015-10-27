@@ -1,1 +1,1 @@
-23.¹ Saeimas Kancelejas un citu Saeimas struktūrvienību administratīvos aktus un faktisko rīcību var apstrīdēt Saeimas Prezidijā. Saeimas Prezidija lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+23.¹ Saeimas Administrācijas un citu Saeimas struktūrvienību administratīvos aktus un faktisko rīcību var apstrīdēt Saeimas Prezidijā. Saeimas Prezidija lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.

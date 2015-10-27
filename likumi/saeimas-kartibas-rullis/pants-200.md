@@ -1,1 +1,1 @@
-200. Saeimas Kanceleja deputāta palīgam izsniedz vienota parauga apliecību.
+200. Saeimas Administrācija deputāta palīgam izsniedz vienota parauga apliecību.

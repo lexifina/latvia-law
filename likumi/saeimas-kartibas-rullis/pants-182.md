@@ -1,1 +1,1 @@
-182. Komisiju darbinieki tiek algoti no valsts budžeta, viņus pieņem darbā un atlaiž no tā pēc komisijas priekšsēdētāja priekšlikuma saskaņā ar Latvijas Darba likumu noteikumiem.
+182. Darba tiesiskās attiecības ar komisiju darbiniekiem nodibina un izbeidz Saeimas Administrācijas ģenerālsekretārs pēc attiecīgās komisijas priekšsēdētāja priekšlikuma saskaņā ar Darba likuma noteikumiem.

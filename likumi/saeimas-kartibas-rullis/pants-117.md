@@ -1,7 +1,7 @@
 117. (1) Patstāvīgais priekšlikums iesniedzams Saeimas lēmuma projekta veidā. To var iesniegt:
 1) ne mazāk kā desmit deputāti;
 2) Saeimas komisija.
-(2) Patstāvīgais priekšlikums iesniedzams rakstveidā Saeimas Kancelejai, kas tā kopijas nekavējoties izsniedz deputātiem.
+(2) Patstāvīgais priekšlikums iesniedzams rakstveidā Saeimas Administrācijai, kas tā kopijas nekavējoties izsniedz deputātiem.
 (3) Izņemot likumā paredzētos gadījumus, nav pieļaujams iekļaut patstāvīgajā priekšlikumā normatīva rakstura punktus.
 (4) Ja iesniegtie patstāvīgie priekšlikumi bijuši pieejami deputātiem vismaz 72 stundas pirms attiecīgās sēdes, Prezidijs ziņo par tiem Saeimai uzreiz pēc ziņojumiem par saņemtajiem likumprojektiem. Pēc ne mazāk kā piecu deputātu priekšlikuma Saeima var nolemt (54.p.), ka Prezidijs ziņo arī par tiem iesniegtajiem patstāvīgajiem priekšlikumiem, kas nav bijuši pieejami deputātiem vismaz 72 stundas pirms attiecīgās sēdes.
 (5) Ziņojot par patstāvīgo priekšlikumu, norāda, kas to iesniedzis un kāds ir attiecīgā Saeimas lēmuma projekta nosaukums. Pēc tam, izņemot šā panta divpadsmitajā daļā paredzētos gadījumus, sēdes vadītājs noskaidro, vai ir iebildumi pret šā patstāvīgā priekšlikuma iekļaušanu šīs sēdes darba kārtībā.

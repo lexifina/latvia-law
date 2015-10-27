@@ -1,1 +1,1 @@
-22. Sekretārs un viņa biedrs nodrošina Saeimas sēžu protokolēšanu, ja nepieciešams, Saeimas sēdē nolasa dokumentus, pārbauda stenogrammas un pārzina Saeimas Kancelejas darbus, savstarpēji vienojoties par šo darbu sadali.
+22. Sekretārs un viņa biedrs nodrošina Saeimas sēžu protokolēšanu, ja nepieciešams, Saeimas sēdē nolasa dokumentus, pārbauda stenogrammas un pārzina Saeimas Administrācijas darbus, savstarpēji vienojoties par šo darbu sadali.
