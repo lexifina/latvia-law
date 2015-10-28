@@ -1,3 +1,3 @@
 23.pants. Beigti dzīvnieki
-(1) Jebkurš beigts īpaši aizsargājamas sugas zīdītājs vai putns ir valsts īpašums, un tas nododams valsts aģentūrai "Latvijas Dabas muzejs". No minētajiem zīdītājiem vai putniem izgatavotie izbāžņi nav pārdodami vai citādi komerciāli izmantojami.
-(2) Izbāžņus personiskai glabāšanai var izgatavot tikai no likumīgā ceļā iegūtiem medījamiem vai nemedījamiem dzīvniekiem vai likumīgā ceļā iegūtām zivīm.
+(1) Izbāžņus no īpaši aizsargājamas sugas dzīvniekiem drīkst izgatavot tikai no likumīgā ceļā iegūtiem medījamiem vai nemedījamiem dzīvniekiem vai likumīgā ceļā iegūtām zivīm.
+(2) No īpaši aizsargājamas sugas dzīvniekiem izgatavotos izbāžņus aizliegts pārdot vai citādi komerciāli izmantot.

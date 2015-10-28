@@ -1,4 +1,4 @@
-10.pants. Zemes īpašnieku un pastāvīgo lietotāju tiesības uz kompensāciju
-(1) Zemes īpašniekiem un pastāvīgajiem lietotājiem ir tiesības saņemt no Latvijas vides aizsardzības fonda līdzekļiem kompensāciju par īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem.
+10.pants. Zemes īpašnieku vai lietotāju tiesības uz kompensāciju
+(1) Zemes īpašniekiem vai lietotājiem ir tiesības saņemt no Latvijas vides aizsardzības fonda līdzekļiem kompensāciju par īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem.
 (2) Zemes īpašniekiem ir tiesības uz normatīvajos aktos noteikto kompensāciju par saimnieciskās darbības ierobežojumiem mikroliegumos.
 (3) Zemes īpašnieks var saņemt kompensāciju tikai tādā apmērā, kādā to nesedz viņam jau piešķirtie citi valsts, pašvaldības vai Eiropas Savienības maksājumi, kas tieši vai netieši paredzēti par tiem pašiem saimnieciskās darbības ierobežojumiem vai īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem, par kuriem normatīvajos aktos paredzēta kompensācija.

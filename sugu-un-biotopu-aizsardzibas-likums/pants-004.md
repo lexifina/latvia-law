@@ -5,7 +5,7 @@ Ministru kabinets nosaka:
 3) zaudējumu atlīdzību par īpaši aizsargājamo sugu indivīdu un biotopu iznīcināšanu vai bojāšanu;
 4) mikroliegumu izveidošanas kārtību un to aizsardzības un apsaimniekošanas noteikumus;
 5) šajā likumā noteikto atļauju izsniegšanas kārtību;
-6) kārtību, kādā zemes lietotājiem nosakāmi to zaudējumu apmēri, kas saistīti ar īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem;
+6) kārtību, kādā zemes lietotājiem nosakāmi to zaudējumu apmēri, kas saistīti ar īpaši aizsargājamo nemedījamo sugu un migrējošo sugu dzīvnieku nodarītajiem būtiskiem postījumiem, un minimālās nepieciešamo aizsardzības pasākumu prasības postījumu novēršanai;
 7) Latvijā sastopamo Eiropas Savienības prioritāro sugu un biotopu sarakstu;
 8) valsts nodevas apmēru par 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām noteiktās atļaujas (turpmāk - CITES atļauja) un sertifikāta (turpmāk - CITES sertifikāts) izsniegšanu, kā arī nodevas maksāšanas kārtību un atvieglojumus;
 9) to putnu sugu sarakstu, kurām piemēro īpašus dzīvotņu aizsardzības pasākumus, lai nodrošinātu sugu izdzīvošanu un vairošanos izplatības areālā;

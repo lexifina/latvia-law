@@ -10,7 +10,7 @@ Vides aizsardzības un reģionālās attīstības ministrija un tās padotībā 
 8) nodrošina īpaši aizsargājamo sugu un biotopu monitoringu un veic īpaši aizsargājamo sugu indivīdu nejaušas sagūstīšanas vai nogalināšanas gadījumu uzskaiti;
 9) nosaka mikroliegumus (izņemot meža zemes un īpaši aizsargājamo zivju sugu nārsta vietas);
 10) nosaka mikroliegumus likumos noteiktajos dabas rezervātos un nacionālajos parkos;
-10¹) nodrošina ziņojumu sagatavošanu atbilstoši Eiropas Padomes 1992.gada 21.maija direktīvas 92/43/EEK par dabisko dzīvotņu, savvaļas faunas un floras aizsardzību un Eiropas Padomes 1979.gada 2.aprīļa direktīvas 79/409/EEK par savvaļas putnu aizsardzību prasībām un noteiktajos termiņos;
+10¹) nodrošina ziņojumu sagatavošanu atbilstoši Eiropas Padomes 1992.gada 21.maija direktīvas 92/43/EEK par dabisko dzīvotņu, savvaļas faunas un floras aizsardzību un Eiropas Parlamenta un Padomes 2009.gada 30.novembra direktīvas 2009/147/EK par savvaļas putnu aizsardzību prasībām un minētajās direktīvās noteiktajiem termiņiem, kā arī sagatavo pārskatus par ziņojumiem un pirms ziņojumu iesniegšanas Eiropas Komisijai iesniedz tos Ministru kabinetam;
 11) nodrošina ziņojumu iesniegšanu Eiropas Komisijai;
 12) izsniedz CITES atļaujas un CITES sertifikātus. Par CITES atļauju un CITES sertifikātu maksājama valsts nodeva;
 13) nodrošina īpaši aizsargājamo dabas teritoriju ierīkošanu sugu un biotopu saglabāšanai, uzturēšanai un atjaunošanai saskaņā ar likumu "Par īpaši aizsargājamām dabas teritorijām";
