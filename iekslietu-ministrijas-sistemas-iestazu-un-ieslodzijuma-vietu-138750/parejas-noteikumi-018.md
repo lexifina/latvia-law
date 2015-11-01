@@ -1,0 +1,5 @@
+18. Līdz 2019.gada 31.decembrim dienestā Iekšējās drošības birojā, ja nepieciešams, var pieņemt arī personu, kura ir vecāka par 40 gadiem un kurai ir vismaz divu gadu stāžs amatā, kura pienākumos ietilpst operatīvās darbības pasākumu veikšana, noziedzīgu nodarījumu izmeklēšana vai šo darbību vadība un uzraudzība (turpmāk - pieredze noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā). Nepārsniedzot attiecīgajam amatam atbilstošo augstāko speciālo dienesta pakāpi, dienestā pieņemtajai amatpersonai piešķir speciālo dienesta pakāpi:
+1) virsleitnants - ja personai ir vismaz divu gadu pieredze noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā;
+2) kapteinis - ja personai ir vismaz piecu gadu pieredze noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā;
+3) majors - ja personai ir vismaz deviņu gadu pieredze noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā;
+4) pulkvežleitnants - ja personai ir vismaz 14 gadu pieredze noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā.

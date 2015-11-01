@@ -1,0 +1,1 @@
+20. Personām, kuras dienestā Iekšējās drošības birojā pieņemtas saskaņā ar šo pārejas noteikumu 18.punktu, izdienā ieskaita iepriekšējo pieredzi noziedzīgu nodarījumu izmeklēšanā vai operatīvās darbības pasākumu veikšanā.

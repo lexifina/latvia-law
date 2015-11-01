@@ -1,0 +1,1 @@
+19. Dienestā Iekšējās drošības birojā pieņemtai bijušajai Iestādes amatpersonai saskaņā ar šā likuma 23.panta otro daļu atjauno iepriekšējo speciālo dienesta pakāpi, ja tā ir augstāka par šo pārejas noteikumu 18.punktā noteikto speciālo dienesta pakāpi.
