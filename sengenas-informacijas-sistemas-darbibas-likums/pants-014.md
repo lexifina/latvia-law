@@ -10,7 +10,8 @@
 8) Ieslodzījuma vietu pārvaldei;
 9) prokuratūras iestādēm;
 10) tiesām;
-11) Satversmes aizsardzības birojam.
+11) Satversmes aizsardzības birojam;
+12) Iekšējās drošības birojam.
 (2) Ceļu satiksmes drošības direkcijai ir tiesības piekļūt Sistēmā iekļautajiem ziņojumiem saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulas Nr. 1986/2006 par dalībvalstu dienestu, kas ir atbildīgi par transportlīdzekļu reģistrācijas apliecību izsniegšanu, piekļuvi otrās paaudzes Šengenas Informācijas sistēmai (SIS II), 1.panta 1.punktu.
 (3) Pilsonības un migrācijas lietu pārvaldei, Ārlietu ministrijas Konsulārajam departamentam un Latvijas Republikas diplomātiskajām un konsulārajām pārstāvniecībām ir tiesības piekļūt Sistēmā iekļautajiem ziņojumiem saskaņā ar Regulas Nr. 1987/2006 27.panta 3.punktu.
 (4) Centrs piešķir piekļuvi Sistēmā iekļautajiem ziņojumiem šā panta pirmajā, otrajā un trešajā daļā minēto institūciju un iestāžu amatpersonām, pamatojoties uz institūcijas vai iestādes vadītāja rakstveida pieprasījumu.
