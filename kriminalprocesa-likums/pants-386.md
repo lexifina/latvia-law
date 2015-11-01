@@ -9,4 +9,5 @@ Izmeklēšanu savas kompetences ietvaros veic:
 7) muitas iestādes;
 8) Valsts robežsardze;
 9) tālbraucienos esošu jūras kuģu kapteiņi;
-10) ārvalsts teritorijā esošas Latvijas Nacionālo bruņoto spēku vienības komandieris.
+10) ārvalsts teritorijā esošas Latvijas Nacionālo bruņoto spēku vienības komandieris;
+11) Iekšējās drošības birojs.

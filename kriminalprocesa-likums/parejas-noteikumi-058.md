@@ -1,0 +1,1 @@
+58. Tās institūcijas, kuras līdz 2015.gada 1.novembrim veica Iekšējās drošības biroja kompetencē esošo noziedzīgo nodarījumu izmeklēšanu, turpina izmeklēšanu uzsāktajos kriminālprocesos līdz to nodošanai Iekšējās drošības birojam. Minētās institūcijas attiecīgos kriminālprocesus nodod Iekšējās drošības birojam līdz 2015.gada 30.novembrim.
