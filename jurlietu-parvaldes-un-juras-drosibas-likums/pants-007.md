@@ -6,6 +6,7 @@
 4) nodrošina Globālās jūras negadījumu un drošības sistēmas (turpmāk - GMDSS) darbību, Automātiskās identifikācijas sistēmas krasta sakaru tīkla darbību un Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas darbību, kā arī šīs sistēmas savietojamību ar Eiropas Savienības sistēmu apmaiņai ar kuģošanas informāciju;
 5) sadarbībā ar Latvijas Jūras administrāciju kontrolē kuģošanas režīma ievērošanu;
 6) pilda Nacionālās kompetentās iestādes un Nacionālā 24/7 kontaktpunkta funkcijas Tālās darbības identifikācijas un sekošanas sistēmas ietvaros;
-7) kontrolē Latvijas valsts karoga lietošanu uz kuģiem.
+7) kontrolē Latvijas valsts karoga lietošanu uz kuģiem;
+8) normatīvajos aktos noteiktajā kārtībā pārbauda, vai jūrnieks, atrodoties uz kuģa Latvijas ūdeņos (jūras), ir lietojis alkoholu, narkotiskās, psihotropās vai toksiskās vielas.
 (2) Ministru kabinets nosaka Latvijas ūdeņu izmantošanas kārtību un kuģošanas režīmu tajos.
 (3) Ministru kabinets nosaka kuģa aizsardzības trauksmes signālu sakaru tīkla darbības nodrošināšanas kārtību.
