@@ -6,5 +6,6 @@
 4) tieslietu ministram un Tieslietu ministrijas valsts sekretāram;
 5) ģenerālprokuroram un viņam pakļautajiem prokuroriem, kuri veic uzraudzību brīvības atņemšanas iestādēs, kā arī tiesu apgabalu virsprokuroriem, kuru teritorijā atrodas attiecīgās ieslodzījuma vietas;
 6) (izslēgts ar 11.11.2004. likumu);
-7) tiesībsargam.
+7) tiesībsargam;
+8) Iekšējās drošības biroja amatpersonām.
 (2) Pārējās personas ir tiesīgas apmeklēt ieslodzījuma vietas normatīvajos aktos noteiktajā kārtībā.
