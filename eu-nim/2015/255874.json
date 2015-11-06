@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Alternatīvo ieguldījumu un to pārvaldnieku likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "208",
+  "official_journal_page": null,
+  "official_journal_date": "2015-10-23",
+  "entry_into_force": "2015-11-06",
+  "notification_date": "2018-02-19",
+  "commission_reference": "MNE(2018)51028",
+  "nim_celex": "72014L0065LVA_255874",
+  "nim_id": "255874",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/11799579-959b-4b9d-9e97-96ecca7899a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
