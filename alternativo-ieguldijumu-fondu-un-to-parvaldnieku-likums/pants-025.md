@@ -5,10 +5,10 @@
 (4) Pārvaldnieks ievēro pienācīgu rūpību, veicot ieguldījumus fonda vārdā atbilstoši fonda darbības noteikumos aprakstītajai ieguldījumu stratēģijai un mērķiem, kā arī fonda riska profilam, un nodrošina, ka pienācīgas rūpības ievērošanas process atbilst fonda darbības specifikai, ir dokumentēts un tiek regulāri pārskatīts.
 (5) Pārvaldnieks nodrošina visu ar fonda ieguldījumiem saistīto risku un to kopējās ietekmes uz fonda ieguldījumu portfeli nepārtrauktu identificēšanu, mērīšanu, pārvaldīšanu un pārraudzību, kas ietver arī fonda darbības specifikai atbilstošu stresa testēšanu.
 (6) Pārvaldnieks nodrošina, ka katra tā pārvaldē esošā fonda riska profils atbilst fonda apmēram, ieguldījumu portfeļa struktūrai, fonda darbības noteikumos aprakstītajai ieguldījumu stratēģijai un mērķiem.
-(7) Pārvaldnieks katram tā pārvaldē esošajam fondam nosaka maksimālo sviras finansējuma apmēru, kuru pārvaldnieks ir tiesīgs uzņemties fonda vārdā, kā arī maksimālo apmēru, kādā fondam ir atļauts atkārtoti izmantot saistībā ar sviras finansējuma darījumiem saņemto garantiju vai nodrošinājumu, ņemot vērā vismaz šādus kritērijus un apsvērumus:
+(7) Pārvaldnieks katram tā pārvaldē esošajam fondam nosaka maksimālo sviras finansējuma apmēru, kuru pārvaldnieks ir tiesīgs uzņemties fonda vārdā, kā arī maksimālo apmēru, kādā darījumu partnerim ir atļauts atkārtoti izmantot saistībā ar sviras finansējuma darījumiem saņemto garantiju vai nodrošinājumu, ņemot vērā vismaz šādus kritērijus un apsvērumus:
 1) fonda veidu;
 2) fonda ieguldījumu stratēģiju;
-3) pārvaldē esošā fonda sviras finansējuma avotus;
+3) fonda sviras finansējuma avotus;
 4) savstarpējo saikni vai darījumu attiecības ar citiem finanšu pakalpojumu sniedzējiem vai darījumu partneriem, kas var izraisīt sistēmisko risku;
 5) nepieciešamību ierobežot riska darījumu apmēru ar katru darījumu partneri;
 6) sviras finansējuma nodrošinājuma apmēru;

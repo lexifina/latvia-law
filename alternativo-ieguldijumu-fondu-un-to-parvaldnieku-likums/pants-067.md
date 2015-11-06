@@ -3,7 +3,7 @@
 (2) Ja šā panta pirmajā daļā minētais fonds ir pakārtotais fonds, tad tā ieguldījumu daļas ir atļauts izplatīt ar nosacījumu, ka arī galvenais fonds ir dalībvalsts pārvaldnieka pārvaldē esošs dalībvalsts fonds.
 (3) Lai uzsāktu fonda ieguldījumu daļu izplatīšanu, pārvaldnieks Komisijai iesniedz paziņojumu, kam pievieno informāciju par dalībvalstīm, kurās plānota ieguldījumu daļu izplatīšana, kā arī šā likuma 66.panta trešajā daļā minētos dokumentus.
 (4) Komisija 20 darbdienu laikā pēc tam, kad tā saņēmusi visus dokumentus, kuri sagatavoti atbilstoši normatīvo aktu prasībām un iesniegti, izmantojot elektronisko datu nesējus, nosūta paziņojumu un dokumentus tās dalībvalsts pārvaldnieka un fonda uzraudzības institūcijai, kurā plānota fonda ieguldījumu daļu izplatīšana. Komisija elektroniski pārsūta paziņojumu, ja pārvaldnieka veiktā fonda pārvalde un pats pārvaldnieks atbilst šā likuma prasībām. Paziņojumam Komisija pievieno apliecinājumu par to, ka pārvaldniekam ir atļauts pārvaldīt fondu atbilstoši tā darbības aprakstā norādītajai ieguldījumu stratēģijai.
-(5) Komisija nekavējoties informē pārvaldnieku par paziņojuma nosūtīšanu dalībvalstu uzraudzības institūcijām.
+(5) Komisija nekavējoties informē pārvaldnieku par paziņojuma nosūtīšanu dalībvalstu pārvaldnieka un fonda uzraudzības institūcijām.
 (6) Pārvaldnieks drīkst sākt fonda ieguldījumu daļu izplatīšanu citā dalībvalstī no Komisijas paziņojuma saņemšanas dienas.
 (7) Pārvaldnieks nodrošina ieguldījumu daļu izplatīšanu tikai profesionālajiem ieguldītājiem pārvaldnieka uzņēmējas dalībvalsts normatīvajos aktos noteiktajā kārtībā un uzraudzībā.
 (8) Šā panta trešajā daļā minēto paziņojumu un ceturtajā daļā minēto apliecinājumu sagatavo valodā, ko lieto starptautisko finanšu jomā.

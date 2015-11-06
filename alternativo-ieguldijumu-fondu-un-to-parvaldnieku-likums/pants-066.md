@@ -11,7 +11,7 @@
 7) pēdējo sagatavoto gada pārskatu un konsolidēto gada pārskatu, ja tāds tiek sagatavots, informāciju par pēdējo aprēķināto fonda neto aktīvu vērtību vai pēdējo aprēķināto ieguldījumu daļas vērtību vai tirgus cenu;
 8) kārtību, kādā ieguldījumu daļu izplatīšana tiek nodrošināta tikai profesionālajiem ieguldītājiem.
 (4) Komisija 20 darbdienu laikā pēc tam, kad tā saņēmusi visus dokumentus, kuri sagatavoti atbilstoši normatīvo aktu prasībām, pieņem lēmumu par atļauju pārvaldniekam izplatīt ieguldījumu daļas.
-(5) Pārvaldniekam ir tiesības sākt ieguldījumu daļu izplatīšanu nākamajā dienā pēc Komisijas lēmuma saņemšanas.
+(5) Pārvaldniekam ir tiesības sākt ieguldījumu daļu izplatīšanu nākamajā dienā pēc Komisijas lēmuma saņemšanas. Minēto lēmumu Komisija dara zināmu arī dalībvalsts pārvaldnieka un fonda uzraudzības institūcijai.
 (6) Komisija pieņem lēmumu nedot atļauju fonda ieguldījumu daļu izplatīšanai, ja pārvaldnieka veiktā fonda pārvalde vai pats pārvaldnieks neatbilst šā likuma prasībām.
 (7) Ja šā panta trešajā daļā minētajos dokumentos paredzami grozījumi, pārvaldnieks informē Komisiju par tiem vismaz mēnesi pirms šo grozījumu stāšanās spēkā. Par neplānotiem grozījumiem pārvaldnieks informē Komisiju nekavējoties pēc to stāšanās spēkā.
 (8) Ja šā panta septītajā daļā minētie plānotie grozījumi dokumentos neatbilst pārvaldnieka veiktajai fonda pārvaldei vai pats pārvaldnieks neatbilst šā likuma prasībām, Komisija pieņem lēmumu nedot atļauju grozījumu veikšanai.

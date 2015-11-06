@@ -4,10 +4,10 @@
 1) fonda ieguldījumu mērķa, ieguldījumu politikas un stratēģijas aprakstu;
 2) ziņas par galvenā fonda dibināšanas vietu, veidu un stratēģiju, ja fonds ir pakārtotais fonds, un to fondu dibināšanas vietu, veidu un stratēģiju, kuros fonds paredz veikt savus ieguldījumus, ja ieguldījumus veicošais fonds ir fondu fonds;
 3) aprakstu par to aktīvu veidiem, kuros fonds paredz veikt ieguldījumus, par darījumu veidiem, ko fonds drīkst veikt, un visiem ar šiem darījumiem saistītajiem riskiem, kā arī par visiem noteiktajiem ieguldījumu ierobežojumiem;
-4) aprakstu par apstākļiem, kādos fonds drīkst izmantot sviras finansējumu, atļautajiem sviras finansējuma veidiem un avotiem un ar tiem saistītajiem riskiem, sviras finansējuma izmantošanas un saņemtā nodrošinājuma un aktīvu atkārtotas izmantošanas ierobežojumiem, kā arī maksimālo sviras finansējuma apmēru, kuru pārvaldnieks ir tiesīgs izmantot fonda vārdā;
+4) aprakstu par apstākļiem, kādos fonds drīkst izmantot sviras finansējumu, atļautajiem sviras finansējuma darījumu veidiem un avotiem, ar sviras finansējumu saistītajiem riskiem, jebkādiem sviras finansējuma izmantošanas ierobežojumiem un nosacījumiem par nodrošinājumu un fonda aktīvu atkārtotu izmantošanu, kā arī maksimālo sviras finansējuma apmēru, kuru pārvaldnieks ir tiesīgs izmantot fonda vārdā;
 5) fonda ieguldījumu stratēģijas vai ieguldījumu politikas maiņas procedūras aprakstu;
 6) to juridisko seku aprakstu, kuras izriet no līgumiem, kas saistīti ar fonda ieguldījumiem, iekļaujot arī ziņas par strīdu izskatīšanas vietu un piemērojamiem normatīvajiem aktiem, tiesas nolēmuma atzīšanu un izpildi valstī, kurā fonds darbojas;
-7) ziņas par pārvaldnieka, fonda turētājbankas, zvērināta revidenta un citu pakalpojumu sniedzēju identitāti, viņu pienākumu un ieguldītāju tiesību aprakstu;
+7) ziņas par pārvaldnieka, fonda turētājbankas, zvērināta revidenta, ārējā vērtētāja, ja tāds ir piesaistīts, un citu pakalpojumu sniedzēju identitāti, viņu pienākumu un ieguldītāju tiesību aprakstu;
 8) aprakstu par to, kā pārvaldnieks nodrošina šā likuma 16.panta desmitās daļas prasību ievērošanu;
 9) pārvaldnieka deleģētā fonda pārvaldes pakalpojuma un fonda turētājbankas deleģētā līdzekļu turēšanas pakalpojuma aprakstu, kā arī ziņas par deleģētā pakalpojuma sniedzēja identitāti un iespējamiem interešu konfliktiem;
 10) fonda aktīvu novērtēšanas procedūras un aktīvu vērtības noteikšanas metodoloģijas aprakstu, kas ietver arī metodes, kuras izmanto nelikvīdu aktīvu novērtēšanai vai tādu aktīvu novērtēšanai, kuru vērtības noteikšana ir ierobežota;

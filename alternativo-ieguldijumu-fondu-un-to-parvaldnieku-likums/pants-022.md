@@ -10,3 +10,11 @@
 3) darījumu attaisnojuma dokumentus glabā 10 gadus un nodrošina normatīvajos aktos noteikto prasību izpildi attiecībā uz attaisnojuma dokumentu aizpildīšanu;
 4) ievēro pārvaldnieka darbības nodrošināšanai izstrādātās procedūras, tai skaitā kārtību, kādā veicami personīgie darījumi Regulas Nr. 231/2013 izpratnē vai darījumi uz pārvaldnieka paša rēķina un darījumi ar fonda ieguldījumu daļām.
 (3) Pārvaldnieka darbības un organizatorisko prasību vispārīgos principus nosaka Regula Nr. 231/2013.
+(4) Ja licencētam ārējam pārvaldniekam ir atļauts sniegt šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus, tas papildus šā panta pirmajā, otrajā un trešajā daļā noteiktajām prasībām ievēro un izpilda šādas prasības:
+1) uzsākot pakalpojuma sniegšanu, noslēdz ar klientu rakstveida līgumu par pakalpojuma sniegšanu;
+2) pirms līguma par pakalpojuma sniegšanu noslēgšanas, kā arī visā līguma darbības laikā nodrošina, lai klientam būtu pietiekama informācija, kas ļauj izvērtēt sniegtā pakalpojuma būtību un ar to saistītos finanšu riskus;
+3) pirms līguma noslēgšanas informē klientu par tiem līgumā paredzētajiem strīdus gadījumiem, kuri tiks izskatīti ārpustiesas ceļā, un šādu strīdu izskatīšanas kārtību;
+4) piedalās ieguldītāju aizsardzības sistēmā atbilstoši to regulējošiem normatīvajiem aktiem;
+5) ievēro un izpilda citas prasības, kas saskaņā ar Finanšu instrumentu tirgus likumu ir noteiktas ieguldījumu brokeru sabiedrībai, kura veic ieguldītāju finanšu instrumentu portfeļu individuālu pārvaldīšanu saskaņā ar ieguldītāju pilnvarojumu, sniedz konsultācijas par ieguldījumiem finanšu instrumentos, pieņem ieguldītāju rīkojumus par darījumiem ar finanšu instrumentiem un nodod tos izpildei vai veic finanšu instrumentu turēšanu un administrēšanu;
+6) ievēro un izpilda Finanšu instrumentu tirgus likumā ieguldījumu brokeru sabiedrībai noteiktās prasības attiecībā uz ārpakalpojumu deleģēšanu;
+7) neiegulda daļu vai visu klienta finanšu instrumentu portfeli sava pārvaldītā fonda ieguldījumu daļās bez klienta iepriekšējas piekrišanas.

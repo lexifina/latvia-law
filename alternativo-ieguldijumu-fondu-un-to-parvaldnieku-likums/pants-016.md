@@ -8,7 +8,7 @@
 (7) Pārvaldnieka pašu kapitāls nedrīkst būt mazāks par lielāko no šādiem lielumiem:
 1) par minimālā sākotnējā kapitāla un atbilstoši šā panta ceturtās daļas prasībām aprēķinātā papildu pašu kapitāla kopsummu;
 2) par 25 procentiem no iepriekšējā pilna pārskata gada pastāvīgo izmaksu kopsummas.
-(8) Pastāvīgo izmaksu (izmaksas, kas saglabājas nosacīti nemainīgas neatkarīgi no pārvaldnieka komercdarbības apmēra) kopsummu nosaka, pamatojoties uz pārvaldnieka pēdējo revidēto gada pārskatu. Ja kopš iepriekšējā pārskata gada pārvaldnieka komercdarbībā notikušas būtiskas pārmaiņas, pārvaldnieks atbilstoši tām pārrēķina pastāvīgo izmaksu kopsummu. Pārvaldnieks, kurš komercdarbību nav veicis pilnu pārskata gadu, pastāvīgo izmaksu kopsummu nosaka, pamatojoties uz komercdarbības plānu.
+(8) Pastāvīgo izmaksu kopsummas aprēķināšanas kārtību nosaka Regula Nr. 575/2013.
 (9) Pārvaldnieks, kas saņēmis Komisijas atļauju, drīkst nodrošināt līdz 50 procentiem no šā panta ceturtajā daļā minētā papildu pašu kapitāla ar tāda paša apmēra garantiju, kuru izsniegusi:
 1) kredītiestāde, kas saņēmusi licenci kredītiestādes darbībai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī, kura ietilpst Desmit valstu grupā;
 2) dalībvalstī reģistrēta apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle, kas saņēmusi licenci apdrošināšanas veikšanai.
@@ -19,5 +19,6 @@
 (12) Riskus, kurus sedz ar papildu pašu kapitālu vai profesionālās darbības civiltiesiskās atbildības apdrošināšanu, papildu pašu kapitāla apmēru, kā arī prasības profesionālās darbības civiltiesiskās atbildības apdrošināšanai nosaka Regula Nr. 231/2013.
 (13) Šā panta desmitās, vienpadsmitās un divpadsmitās daļas prasības attiecina uz pārvaldnieku, kurš ir ieguldījumu pārvaldes sabiedrība.
 (14) Reģistrēta pārvaldnieka kapitāls, kuru veido sākotnējā kapitāla elementi, nedrīkst būt mazāks par:
-1) 15 000 euro ar nosacījumu, ka neviena tā pārvaldē esoša fonda darbības noteikumi neparedz izmantot sviras finansējumu un ieguldījumu daļu atpakaļpirkšanu piecu gadu laikā no dienas, kad veikts pirmais ieguldījums fondā;
-2) lielāko no šādiem lielumiem - par minimālo Komerclikumā noteikto pamatkapitālu vai par 25 procentiem no iepriekšējā pilna pārskata gada pastāvīgo izmaksu kopsummas, ja tā pārvaldē esoša fonda darbības noteikumi paredz izmantot sviras finansējumu un tiesības ieguldītājiem pārdot atpakaļ ieguldījumu daļas piecu gadu laikā no dienas, kad veikts pirmais ieguldījums fondā.
+1) 15 000 euro ar nosacījumu, ka neviena tā pārvaldē esoša fonda darbības noteikumi neparedz izmantot sviras finansējumu vai ieguldījumu daļu atpakaļpirkšanu agrāk nekā piecu gadu laikā no dienas, kad veikts pirmais ieguldījums fondā;
+2) lielāko no šādiem lielumiem - par minimālo Komerclikumā noteikto pamatkapitālu vai par 25 procentiem no iepriekšējā pilna pārskata gada pastāvīgo izmaksu kopsummas, ja tā pārvaldē esoša fonda darbības noteikumi paredz izmantot sviras finansējumu vai tiesības ieguldītājiem pārdot atpakaļ ieguldījumu daļas agrāk nekā piecu gadu laikā no dienas, kad veikts pirmais ieguldījums fondā.
+(15) Pārvaldnieks, kurš ir tiesīgs sniegt šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus, savā darbībā ievēro un izpilda ieguldījumu brokeru sabiedrībām noteiktās kapitāla prasības un konsolidētās uzraudzības prasības.

@@ -1,5 +1,5 @@
 54.pants. Aktīvu turēšana pie trešās personas
-(1) Turētājbanka drīkst turēt pie trešās personas finanšu instrumentus vai citus fonda aktīvus, ja tam ir pamatots iemesls.
+(1) Turētājbanka drīkst turēt pie trešās personas finanšu instrumentus vai citus fonda aktīvus, ja tam ir pamatots iemesls un tā neizvairās no šā likuma prasību ievērošanas.
 (2) Turētājbanka ir tiesīga turēt fonda naudas līdzekļus vai finanšu instrumentus pie šādām trešajām personām:
 1) dalībvalsts centrālajā bankā, ja tā sniedz šādu pakalpojumu;
 2) Latvijā reģistrētā kredītiestādē vai dalībvalstī reģistrētā kredītiestādē;

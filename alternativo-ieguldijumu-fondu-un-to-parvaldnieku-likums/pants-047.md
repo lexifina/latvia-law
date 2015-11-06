@@ -1,5 +1,5 @@
 47.pants. Turētājbankai izvirzāmās prasības
-(1) Par turētājbanku var būt dalībvalstī reģistrēta kredītiestāde, dalībvalstī reģistrētas kredītiestādes filiāle Latvijā vai dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, kura ir uzsākusi ieguldījumu pakalpojumu un blakuspakalpojumu sniegšanu, tai skaitā finanšu instrumentu turēšanu.
+(1) Par turētājbanku Latvijā dibinātam fondam var būt Latvijā reģistrēta kredītiestāde, dalībvalstī vai ārvalstī reģistrētas kredītiestādes filiāle Latvijā, Latvijā reģistrēta ieguldījumu brokeru sabiedrība vai dalībvalstī vai ārvalstī reģistrētas ieguldījumu brokeru sabiedrības filiāle Latvijā, kura ir tiesīga sniegt ieguldījumu pakalpojumus un blakus pakalpojumus, tai skaitā finanšu instrumentu turēšanu.
 (2) Pārvaldnieks nodrošina, ka katram fondam ir tikai viena turētājbanka.
 (3) Latvijā licencētas turētājbankas uzraudzību nodrošina Komisija. Šā panta sestajā daļā minētās ārvalsts fonda turētājbankas uzraudzību veic tās ārvalsts uzraudzības institūcija, kurā turētājbankai ir juridiskā adrese.
 (4) Turētājbanka, veicot šajā likumā un Regulā Nr. 231/2013 noteiktos pienākumus, rīkojas kā godīgs, gādīgs un rūpīgs saimnieks neatkarīgi no pārvaldnieka un nodrošina, lai pakalpojumi tiktu sniegti ar pienācīgu profesionalitāti un rūpību fonda un tā ieguldītāju interesēs.
@@ -13,3 +13,4 @@
 5) turētājbankas līgumā ir paredzēts, ka turētājbanka atbild fondam vai tā ieguldītājiem par šā likuma 54. un 55.panta prasību izpildi.
 (8) Turētājbanka izņēmuma kārtā drīkst veikt fonda vai tā pārvaldnieka uzdevumā tādus pienākumus, kas var radīt interešu konfliktu starp fondu, tā ieguldītājiem, pārvaldnieku un turētājbanku, ievērojot nosacījumu, ka turētājbanka ir funkcionāli un hierarhiski nošķīrusi citus savus pienākumus no turētājbankas pienākumiem, iespējamie interešu konflikti tiek kontrolēti atbilstoši iekšējām procedūrām un par tiem ir informēti fonda ieguldītāji.
 (9) Turētājbanka drīkst izmantot tai turējumā nodotos aktīvus, ja ir saņemta rakstveida piekrišana no fonda vai pārvaldnieka, kas rīkojas fonda vārdā.
+(10) Ja turētājbankas pienākumus veic ieguldījumu brokeru sabiedrība, tās pašu kapitāls nedrīkst būt mazāks par 750 000 euro.
