@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 3. novembra noteikumi Nr. 624 \"Kvalitātes, klasifikācijas un papildu marķējuma prasības augļu džemam, ievārījumam, želejai, marmelādei un saldinātam kastaņu biezenim\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "218",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-06",
+  "entry_into_force": "2015-11-07",
+  "notification_date": "2025-10-06",
+  "commission_reference": "MNE(2025)05461",
+  "nim_celex": "72024L1438LVA_202505461",
+  "nim_id": "202505461",
+  "transposes_celex": [
+    "32024L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7149c65d-b165-4e74-ba1e-95ad938b7cde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
