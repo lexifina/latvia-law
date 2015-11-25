@@ -1,0 +1,1 @@
+1.pants. Pasaules Veselības organizācijas Vispārējās konvencijas par tabakas uzraudzību 2012.gada 12.novembra Protokols par tabakas izstrādājumu nelikumīgas tirdzniecības ierobežošanu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
