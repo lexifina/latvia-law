@@ -1,0 +1,1 @@
+1.pants. 2015.gada 22.maijā parakstītais Protokols par 2010.gada 23.augusta Latvijas Republikas valdības un Baltkrievijas Republikas valdības vienošanās par Latvijas Republikas un Baltkrievijas Republikas pierobežas teritoriju iedzīvotāju savstarpējo braucienu vienkāršošanu grozījumiem (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
