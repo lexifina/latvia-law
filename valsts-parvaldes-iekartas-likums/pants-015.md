@@ -1,5 +1,6 @@
 15.pants. Tiešās pārvaldes iestādes izveidošana, reorganizācija un likvidācija
 (1) Ministru kabinets izveido, reorganizē un likvidē tiešās pārvaldes iestādi, pamatojoties uz likumu vai pēc savas iniciatīvas, ievērojot valsts pārvaldes principus, veicot funkciju izvērtējumu, funkciju un pakalpojumu izmaksu salīdzinājumu un izvērtējot ietekmi uz iestādes saistībām.
+(1¹) Tiešās pārvaldes iestādi var izveidot, pārveidojot valsts kapitālsabiedrību Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumā noteiktajā kārtībā.
 (2) Ministru kabinets, izveidojot tiešās pārvaldes iestādi, nosaka Ministru kabineta locekli, kura padotībā attiecīgā tiešās pārvaldes iestāde atrodas.
 (3) Tiešās pārvaldes iestādi reorganizē:
 1) nododot to atvasinātām publiskām personām, - rezultātā iestāde turpina pastāvēt kā pastarpinātās pārvaldes iestāde;
