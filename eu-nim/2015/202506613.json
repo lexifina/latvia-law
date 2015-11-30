@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 28. jūlija noteikumi Nr. 423 \"Prasības ar jonizējošo starojumu apstrādātai pārtikai un tās papildu marķējumam\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2015-07-30",
+  "entry_into_force": "2015-11-30",
+  "notification_date": "2025-12-03",
+  "commission_reference": "MNE(2025)06613",
+  "nim_celex": "72024L2839LVA_202506613",
+  "nim_id": "202506613",
+  "transposes_celex": [
+    "32024L2839"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee9885fa-0c16-49bb-bba1-0fcd19105737",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
