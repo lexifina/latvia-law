@@ -6,6 +6,7 @@
 4) izsniegt personai, kurai ir tiesības uz aizstāvību, tiesai nododamās krimināllietas materiālu kopijas vai norakstus (turpmāk - kopijas) vai likumā noteiktajā kārtībā šo personu iepazīstināt ar tiesai nododamās krimināllietas materiāliem;
 5) izsniegt cietušajam likumā paredzēto materiālu kopijas;
 6) lemt par iesniegtajiem pieteikumiem;
+6¹) pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu par personu, kura apsūdzēta noziedzīga nodarījuma izdarīšanā pret tikumību un dzimumneaizskaramību;
 7) iesniegt tiesai vienošanos, kas slēgta ar apsūdzēto par vainas atzīšanu un sodu;
 8) pieņemt lēmumu par krimināllietas nodošanu tiesai un iesniegt krimināllietu tiesai;
 9) izbeigt kriminālprocesu, ja konstatēts likumā noteiktais pamats;
