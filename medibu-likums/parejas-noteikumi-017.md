@@ -1,0 +1,1 @@
+17. Ja netiek pildīts šo pārejas noteikumu 13.punktā paredzētais pienākums, Valsts meža dienests ir tiesīgs noteikt citu atbildīgo medību tiesību lietotāju, ievērojot šo pārejas noteikumu 16.punktā minētos kritērijus.

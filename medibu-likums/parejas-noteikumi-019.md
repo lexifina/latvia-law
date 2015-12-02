@@ -1,0 +1,1 @@
+19. Gadījumos, kad medību platībām vai medību iecirknim noteikts atbildīgais medību tiesību lietotājs, ievērojot šo pārejas noteikumu 18.punktu, medību tiesību īpašniekam vai medību tiesību lietotājam nav tiesību aizliegt mežacūku medības vai radīt tām šķēršļus attiecīgajās teritorijās.

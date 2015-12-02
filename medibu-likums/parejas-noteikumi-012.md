@@ -1,0 +1,1 @@
+12. Āfrikas cūku mēra un klasiskā cūku mēra draudu ierobežošanas pasākumus īsteno līdz brīdim, kad mežacūku populācijas blīvums ir samazināts līdz vienai mežacūkai uz 200 hektāriem, bet ne ilgāk kā līdz 2020.gada 31.martam.

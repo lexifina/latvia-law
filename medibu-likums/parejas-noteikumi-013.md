@@ -1,0 +1,1 @@
+13. Medību tiesību lietotājam šo pārejas noteikumu 12.punktā minētajā periodā ir pienākums medījot samazināt mežacūku populācijas blīvumu piekritīgajā medību platībā atbilstoši Valsts meža dienesta noteiktajam minimālajam mežacūku nomedīšanas apjomam.
