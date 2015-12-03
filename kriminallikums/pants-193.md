@@ -1,5 +1,5 @@
 193.pants. Nelikumīgas darbības ar finanšu instrumentiem un maksāšanas līdzekļiem
-(1) Par finanšu instrumentu iegūšanu vai atsavināšanu savā vai citas personas vārdā, pamatojoties uz finanšu instrumentu tirgus iekšējo informāciju, kā arī par tirgus manipulācijām ar finanšu instrumentiem, ja ar to radīts būtisks kaitējums, -
+(1) Par finanšu instrumentu iegūšanu vai atsavināšanu savā vai citas personas vārdā, pamatojoties uz finanšu instrumentu tirgus iekšējo informāciju, kā arī par tirgus manipulācijām ar finanšu instrumentiem, ja tās izdarītas ievērojamā apmērā, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (2) Par sveša finanšu instrumenta vai maksāšanas līdzekļa nolaupīšanu, iznīcināšanu, bojāšanu vai nelikumīgu izmantošanu -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.

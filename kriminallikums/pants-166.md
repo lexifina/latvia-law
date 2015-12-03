@@ -1,5 +1,5 @@
 166.pants. Pornogrāfiska priekšnesuma demonstrēšanas, intīma rakstura izklaides ierobežošanas un pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšana
-(1) Par pornogrāfiska priekšnesuma demonstrēšanas vai citu intīma rakstura izklaides ierobežošanas noteikumu pārkāpšanu vai par pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšanu, ja ar to radīts būtisks kaitējums, -
+(1) Par pornogrāfiska priekšnesuma demonstrēšanas vai citu intīma rakstura izklaides ierobežošanas noteikumu pārkāpšanu vai par pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšanu, ja tā izdarīta ievērojamā apmērā vai ja ar to radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par tāda pornogrāfiska priekšnesuma apmeklēšanu vai demonstrēšanu vai par tādu pornogrāfiska rakstura materiāla apriti, kurš satur bērnu pornogrāfiju, cilvēka seksuālas darbības ar dzīvnieku, nekrofiliju vai dzimumtieksmes apmierināšanu vardarbīgā veidā, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem.
