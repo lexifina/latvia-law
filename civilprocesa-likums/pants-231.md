@@ -1,4 +1,4 @@
-231.pants. Lēmuma noraksta nosūtīšana
-(1) Tiesas lēmuma noraksts triju dienu laikā nosūtāms lietas dalībniekam, kas nav bijis klāt tā pasludināšanā.
-(2) Tiesneša lēmuma noraksts triju dienu laikā nosūtāms personai, uz kuru tas attiecas.
+231.pants. Lēmuma pasludināšana un noraksta nosūtīšana
+(1) Tiesa lēmumu pasludina tiesas sēdē. Lēmums, kas pieņemts rakstveida procesā, uzskatāms par sastādītu datumā, kad tas ir pieejams tiesas kancelejā.
+(2) Tiesas lēmuma noraksts triju dienu laikā nosūtāms lietas dalībniekam, kas nav bijis klāt lēmuma pasludināšanā, un personai, uz kuru tas attiecas. Ja ir pasludināts saīsināts lēmums, pilna lēmuma noraksts nosūtāms triju dienu laikā pēc pilna lēmuma sastādīšanas. Rakstveida procesā pieņemtā lēmuma noraksts nosūtāms triju dienu laikā no lēmuma sastādīšanas. Ja lietas dalībnieks vai persona, uz kuru lēmums attiecas, ir piedalījusies tiesas sēdē un tiesa ir pasludinājusi saīsinātu lēmumu, pēc rakstveida lūguma tiesa nosūta viņam pilna lēmuma norakstu triju dienu laikā pēc lēmuma sastādīšanas.
 (3) Ja tiesas lēmuma noraksts šā panta pirmajā un otrajā daļā minētajos gadījumos ir nosūtīts personai saskaņā ar šā likuma 56.² pantu un šajā likumā paredzētajos gadījumos tiesas lēmuma norakstam pievienojams tulkojums, tiesa nosūta lēmuma norakstu kopā ar tulkojumu nekavējoties pēc tulkojuma sagatavošanas.

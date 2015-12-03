@@ -1,4 +1,4 @@
 438.pants. Apelācijas instances tiesas sprieduma izpildes atlikšana, sadalīšana termiņos, tā izpildes veida un kārtības grozīšana
 (1) Apelācijas instances tiesa ir tiesīga pēc lietas dalībnieka pieteikuma, ievērojot pušu mantisko stāvokli vai citus svarīgus apstākļus, atlikt sprieduma izpildi vai sadalīt to termiņos, kā arī grozīt tā izpildes veidu un kārtību. Lēmums par sprieduma izpildes atlikšanu, sadalīšanu termiņos vai izpildes veida un kārtības grozīšanu izpildāms nekavējoties.
-(2) Pieteikumu izskata tiesas sēdē, iepriekš par to paziņojot lietas dalībniekiem. Šo personu neierašanās nav šķērslis pieteikuma izskatīšanai.
+(2) Pieteikumu izskata rakstveida procesā, iepriekš par to paziņojot lietas dalībniekiem. Vienlaikus ar paziņojumu tiesa, nosakot termiņu paskaidrojuma iesniegšanai, nosūta lietas dalībniekiem pieteikumu par sprieduma izpildes atlikšanu, sadalīšanu termiņos, tā izpildes veida vai kārtības grozīšanu.
 (3) Par tiesas lēmumu atlikt sprieduma izpildi vai to sadalīt termiņos, kā arī par tā izpildes veida un kārtības grozīšanu var iesniegt blakus sūdzību. Blakus sūdzības iesniegšana neaptur lēmuma izpildi.

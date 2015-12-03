@@ -4,8 +4,8 @@
 2) ja tiesa atsakās pieņemt pieteikumu;
 3) ja izbeidz lietā tiesvedību uz tā pamata, ka lietas izskatīšana nav pakļauta tiesai;
 4) ja prasību atstāj bez izskatīšanas uz tā pamata, ka ieinteresētā persona, kas griezusies tiesā, nav ievērojusi attiecīgajai lietu kategorijai noteikto lietas ārpustiesas izskatīšanas kārtību, vai pieteikumu iesniegusi civilprocesuāli rīcībnespējīga persona;
-5) ja tiesa apstiprinājusi izlīgumu - 50 procentu apmērā no iemaksātās valsts nodevas;
+5) ja tiesa apstiprinājusi izlīgumu, - 50 procentu apmērā no iemaksātās valsts nodevas tiesvedībai attiecīgās instances tiesā;
 6) ja tiesa saskaņā ar šā likuma 440.⁸ panta septīto daļu atsakās ierosināt apelācijas tiesvedību, - 50 procentu apmērā no iemaksātās valsts nodevas;
 7) ja tiesvedības izbeigšanas pamats ir prasītāja atteikšanās no prasības, jo ir panākta mediācijas vienošanās, kuru apliecina mediatora izsniegts rakstveida apliecinājums par mediācijas rezultātu, - 50 procentu apmērā no iemaksātās valsts nodevas.
-(2) Valsts nodevu atmaksā ar noteikumu, ka pieteikums par tās atmaksāšanu iesniegts tiesā gada laikā no summas iemaksas valsts budžetā.
+(2) Valsts nodevu atmaksā ar noteikumu, ka pieteikums par tās atmaksāšanu iesniegts tiesā triju gadu laikā no summas iemaksas valsts budžetā.
 (3) Valsts nodevu atmaksā no valsts budžeta līdzekļiem uz tiesas vai tiesneša lēmuma pamata.

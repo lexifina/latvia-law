@@ -11,7 +11,7 @@ f) vairāk par 711 435 euro, - 8715,04 euro plus 0,6 procenti no prasības summa
 3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 42,69 euro, par kreditora iesniegto juridiskās personas maksātnespējas procesa pieteikumu - 355,72 euro, par parādnieka iesniegto juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu - 71,14 euro, par tiesiskās aizsardzības procesa pieteikumu - 142,29 euro, par kredītiestāžu maksātnespējas vai likvidācijas pieteikumu - 355,72 euro;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 71,14 euro;
 4¹) par prasības pieteikumu par šķīrējtiesas līguma atzīšanu par spēkā neesošu - 500 euro;
-5) par pieteikumu par autortiesību un blakustiesību, datubāzu aizsardzības (sui generis), preču zīmju un ģeogrāfiskās izcelsmes norāžu, patentu, dizainparaugu, augu šķirņu, pusvadītāju izstrādājumu topogrāfiju (turpmāk - intelektuālā īpašuma tiesības) pārkāpumiem un aizsardzību - 213,43 euro;
+5) par pieteikumu par intelektuālā īpašuma tiesību pārkāpumiem un aizsardzību - 213,43 euro;
 6) par prasības pieteikumu lietā par kapitālsabiedrību dalībnieku (akcionāru) sapulces lēmumu atzīšanu par spēkā neesošiem (30.⁴ nodaļa) - 142,29 euro;
 7) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības līdzekļa pieteikumu - 0,5 procenti no prasības summas, bet ne mazāk par 71,14 euro;
 8) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 28,46 euro;

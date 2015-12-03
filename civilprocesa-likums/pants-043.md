@@ -6,7 +6,7 @@
 3) prasītāji - prasībās par uzturlīdzekļu piedziņu bērnam vai vecākam, kā arī prasībās par paternitātes noteikšanu, ja prasība celta vienlaikus ar prasību par uzturlīdzekļu piedziņu bērnam;
 3¹) pieteikuma iesniedzēji - par ārvalsts nolēmuma par uzturlīdzekļu piedziņu bērnam vai vecākam atzīšanu vai atzīšanu un izpildīšanu;
 4) prasītāji - prasībās par noziedzīga nodarījuma rezultātā radušos materiālo zaudējumu un morālā kaitējuma atlīdzināšanu;
-5) prokurori, tās valsts vai pašvaldību iestādes un personas, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses;
+5) prokurori, tās valsts vai pašvaldību iestādes, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses;
 6) pieteikuma iesniedzēji - par personas rīcībspējas ierobežošanu garīga rakstura vai citu veselības traucējumu dēļ, rīcībspējas ierobežošanas pārskatīšanu vai rīcībspējas atjaunošanu;
 6¹) pieteikuma iesniedzēji - par pagaidu aizgādnības nodibināšanu un izbeigšanu;
 7) pieteikumu iesniedzēji - par personas rīcībspējas ierobežošanu un aizgādnības nodibināšanu izlaidīgas vai izšķērdīgas dzīves dēļ, kā arī alkohola vai citu apreibinošo vielu pārmērīgas lietošanas dēļ;
