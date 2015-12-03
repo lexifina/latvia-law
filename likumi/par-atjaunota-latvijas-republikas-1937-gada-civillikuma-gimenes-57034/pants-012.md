@@ -1,1 +1,2 @@
 12. pants. Adopcijas lietas, kas atrodas aizbildnības un aizgādnības iestāžu lietvedībā un nav izlemtas līdz 1993. gada 31. augustam, ar 1993. gada 1. septembri apspriežamas pēc Civillikuma 162.- 171. panta noteikumiem.
+Pēc adoptētā lūguma dzimtsarakstu nodaļa var grozīt viņa dzimšanas vietu un dzimšanas datumu atbilstoši sākotnējam ierakstam dzimšanas reģistrā par adoptētā dzimšanas vietu un dzimšanas datumu, ja adopcija, ar kuru adoptētajam mainīta dzimšanas vieta un dzimšanas datums, ir apstiprināta līdz 1993.gada 31.augustam.
