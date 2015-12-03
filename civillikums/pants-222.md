@@ -1,1 +1,1 @@
-222. Bez vecāku aizgādības palikušam bērnam ieceļams aizbildnis.
+222. Bez vecāku aizgādības palikušam bērnam ieceļams aizbildnis. Tiklīdz kādai personai ir informācija par gadījumu, kad nepilngadīgajam ieceļams aizbildnis, tā paziņo par to attiecīgajai bāriņtiesai. Ja kāda no šā likuma 235. un 236.pantā minētajām personām nevar uzņemties aizbildnību, bāriņtiesa lemj par citu ārpusģimenes aprūpes veidu.

@@ -1,1 +1,1 @@
-245. Aizbildņa amats ir sabiedrisks pienākums, no kura neviens nevar atteikties bez likumiska iemesla.
+245. Aizbildņa pienākums ir sabiedrisks pienākums.

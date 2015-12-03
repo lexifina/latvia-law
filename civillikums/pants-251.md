@@ -1,1 +1,1 @@
-251. Kamēr apspriež par aizbildni ieceltā uzdoto atteikšanās iemeslu likumību, bāriņtiesai pēc iespējas jāapsargā nepilngadīgā intereses un, ja vajadzīgs, jāieceļ viņam pagaidu aizbildnis.
+251. Kamēr apspriež par aizbildni ieceltā uzdoto atteikšanās iemeslu pamatotību, bāriņtiesai pēc iespējas jāapsargā nepilngadīgā intereses un, ja vajadzīgs, jārīkojas atbilstoši šā likuma 222.panta noteikumiem.
