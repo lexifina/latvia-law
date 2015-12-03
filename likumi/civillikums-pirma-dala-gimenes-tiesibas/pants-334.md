@@ -1,1 +1,1 @@
-334. Sevišķos gadījumos bāriņtiesa pēc aizbildņu lūguma dod viņiem vajadzīgos norādījumus.
+334. Bāriņtiesa, ja nepieciešams, dod aizbildnim norādījumus par bērna mantas pārvaldību un bērna interešu aizsardzību.

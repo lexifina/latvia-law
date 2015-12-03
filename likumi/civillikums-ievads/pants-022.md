@@ -1,1 +1,1 @@
-22. Kad Latvijas likums atļauj piemērot ārvalsts likumu, tad tā saturu noskaidro Civilprocesa likumos noteiktā kārtībā. Ja tas nav iespējams, tad pieņemams, ka attiecīgās ārvalsts tiesiskā iekārta apspriežamā tiesību nozarē atbilst Latvijas tiesiskai iekārtai tajā pašā nozarē.
+22. Kad Latvijas likums atļauj piemērot ārvalsts likumu, tad tā saturu noskaidro likumos noteiktā kārtībā. Ja tas nav iespējams, tad pieņemams, ka attiecīgās ārvalsts tiesiskā iekārta apspriežamā tiesību nozarē atbilst Latvijas tiesiskai iekārtai tajā pašā nozarē.

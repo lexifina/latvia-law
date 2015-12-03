@@ -1,2 +1,0 @@
-277. Ja uz mantojumu gulošie parādi pārsniedz tā vērtību un izlīgums ar kreditoriem nenotiek, aizbildnim jāizlūdz bāriņtiesas piekrišana ierosināt vai nu administrācijas nodibināšanu, vai konkursa atklāšanu par mantojuma masu.
-Ja bāriņtiesa dod savu piekrišanu konkursa atklāšanai par mantojuma masu, aizbildnim jāgriežas pie konkursa valdes un kreditoriem, lai nepilngadīgajam pa konkursa laiku dod uzturam nepieciešamos līdzekļus.

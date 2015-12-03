@@ -1,4 +1,4 @@
 181. Bērnam ir tiesības uzturēt personiskas attiecības un tiešus kontaktus ar jebkuru no vecākiem (saskarsmes tiesība).
 Katram vecākam ir pienākums un tiesības uzturēt personiskas attiecības un tiešus kontaktus ar bērnu. Šis noteikums piemērojams arī tad, ja bērns ir šķirts no ģimenes vai nedzīvo kopā ar vienu no vecākiem vai abiem vecākiem. Tam vecākam, kurš nedzīvo kopā ar bērnu, ir tiesības saņemt ziņas par viņu, it īpaši ziņas par viņa attīstību, veselību, sekmēm mācībās, interesēm un sadzīves apstākļiem.
-Bērnam ir tiesības uzturēt personiskas attiecības un tiešus kontaktus ar brāļiem, māsām un vecvecākiem, kā arī citām personām, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā, ja tas atbilst bērna interesēm.
+Bērnam ir tiesības uzturēt personiskas attiecības un tiešus kontaktus ar brāļiem, māsām un vecvecākiem, kā arī citām personām, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā, ja tas atbilst bērna interesēm (saskarsmes tiesība).
 Jebkurai personai ir pienākums atturēties no tādām darbībām, kas varētu negatīvi iespaidot bērna attiecības ar kādu no vecākiem.

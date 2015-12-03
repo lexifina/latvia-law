@@ -1,1 +1,1 @@
-316. Katras aizbildnības pārvaldībai ieceļams viens aizbildnis. Sevišķi grūtām un sarežģītām aizbildnībām var iecelt arī vairākus aizbildņus, tomēr ne vairāk par trijiem.
+316. Katras aizbildnības pārvaldībai ieceļams viens aizbildnis. Sevišķi grūtām un sarežģītām aizbildnībām var iecelt arī vairākus aizbildņus, tomēr ne vairāk par trijiem. Ja nepilngadīgajam ir iecelts aizbildnis ar ierobežotu rīcībspēju, bāriņtiesa ieceļ aizbilstamajam līdzaizbildni, kurš pārstāv aizbilstamo mantiskajās attiecībās tādā apjomā, kādā tiesa ir ierobežojusi aizbildņa rīcībspēju.

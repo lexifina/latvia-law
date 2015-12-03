@@ -1,2 +1,2 @@
-1922. Ja dāvinājums izdarīts tādā apmērā, ka dāvinātāja neatraidāmiem mantiniekiem neatliek pat viņu neatņemamās daļas (422. un turpm.p.), tad viņi var prasīt no apdāvinātā, lai izdod viņiem šīs daļas.
-Aprēķinot neatņemamo daļu, jāņem par pamatu dāvinātāja mantas stāvoklis dāvināšanas laikā. Bet ja šī manta vēlāk pavairojusies, tad jāievēro tiklab šis pavairojums, kā arī tas, kas neatraidāmam mantiniekam novēlēts rīkojumā nāves gadījumam.
+1922. Ja dāvinājums izdarīts tādā apmērā, ka dāvinātāja neatņemamās daļas tiesīgajiem neatliek pat viņu neatņemamās daļas (422. un turpm.p.), tad viņi var prasīt no apdāvinātā, lai izdod viņiem šīs daļas.
+Aprēķinot neatņemamo daļu, jāņem par pamatu dāvinātāja mantas stāvoklis dāvināšanas laikā. Bet ja šī manta vēlāk pavairojusies, tad jāievēro tiklab šis pavairojums, kā arī tas, kas neatņemamās daļas tiesīgajam novēlēts rīkojumā nāves gadījumam.

@@ -1,1 +1,1 @@
-240. Visos tajos gadījumos, kad aizbildņa apstiprināšana vai iecelšana ir atkarīga no bāriņtiesas, tai jāraugās, lai apstiprināmajai vai ieceļamajai personai būtu šā pienākuma izpildīšanai vajadzīgās spējas un īpašības.
+240. Visos gadījumos bāriņtiesai ir pienākums izvērtēt par aizbildni ieceļamās personas atbilstību aizbildņa pienākumu pildīšanai.

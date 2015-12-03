@@ -1,1 +1,1 @@
-230. Aizbildņi, kas iecelti vecāku testamentā, pielaižami izpildīt savus aizbildņu pienākumus bez bāriņtiesas apstiprinājuma.
+230. Aizbildņi, kas iecelti vecāku testamentā, nekavējoties jāapstiprina bāriņtiesai.

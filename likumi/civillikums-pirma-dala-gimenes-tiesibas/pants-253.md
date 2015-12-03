@@ -1,1 +1,1 @@
-253. Ja aizbilstamais neklausa un nepakļaujas aizbildņa audzināšanai, aizbildnis var griezties pēc palīdzības bāriņtiesā.
+253. Ja aizbildnim un aizbilstamajam rodas domstarpības, aizbildnis un aizbilstamais to atrisināšanai var vērsties bāriņtiesā.
