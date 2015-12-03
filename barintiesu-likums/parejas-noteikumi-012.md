@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 10.panta pirmās daļas 3.punktā un otrās daļas 3.punktā, kas nosaka paaugstinātas kvalifikācijas prasības un darba stāžu attiecīgajā specialitātē bāriņtiesu priekšsēdētāju, bāriņtiesu priekšsēdētāju vietnieku un bāriņtiesu locekļu ievēlēšanai, stājas spēkā 2021.gada 1.janvārī.

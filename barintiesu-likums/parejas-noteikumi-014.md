@@ -1,0 +1,1 @@
+14. Šā likuma 10.panta piektā daļa nav attiecināma uz tiem bāriņtiesu priekšsēdētājiem, bāriņtiesu priekšsēdētāju vietniekiem un bāriņtiesu locekļiem, kuri ir uzsākuši šā likuma 10.panta ceturtajā daļā minēto mācību programmas apguvi līdz attiecīgo grozījumu spēkā stāšanās dienai.

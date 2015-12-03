@@ -1,0 +1,1 @@
+11. Šā likuma 10.panta pirmās daļas 2.punkta un otrās daļas 2.punkta grozījumus nepiemēro tiem bāriņtiesu priekšsēdētājiem, bāriņtiesu priekšsēdētāju vietniekiem un bāriņtiesu locekļiem, kuri ir ievēlēti bāriņtiesu sastāvā līdz šo grozījumu spēkā stāšanās dienai.

@@ -5,6 +5,7 @@
 3) vecāks ļaunprātīgi izmanto savas tiesības vai nenodrošina bērna aprūpi un uzraudzību;
 4) vecāks ir devis piekrišanu bērna adopcijai, izņemot gadījumu, kad viņš kā laulātais ir devis piekrišanu tam, ka bērnu adoptē otrs laulātais;
 5) konstatēta vecāka vardarbība pret bērnu vai ir pamatotas aizdomas par vecāka vardarbību pret bērnu.
+(1¹) Bāriņtiesa, ierosinot lietu par bērna aizgādības tiesību pārtraukšanu vecākam, veic riska novērtēšanu (vecāka līdzatkarība, problēmas neatzīšana u.tml.), informē vecāku par sekām un uzdod viņam sadarbībā ar sociālo dienestu noteiktā termiņā novērst bērna attīstībai nelabvēlīgos apstākļus. Ja vecāks šajā termiņā kavējas novērst bērna attīstībai nelabvēlīgos apstākļus un bērna palikšana ģimenē var radīt draudus bērna dzīvībai un veselībai, bāriņtiesa lemj par aizgādības tiesību pārtraukšanu vecākam un bērna šķiršanu no ģimenes.
 (2) Bāriņtiesa, pieņemot lēmumu par bērna aizgādības tiesību pārtraukšanu vecākam, rakstveidā informē viņu:
 1) par pienākumu sadarboties ar savas dzīvesvietas pašvaldības sociālo dienestu un citām institūcijām un personām, lai sekmētu bērna atgriešanos ģimenē;
 2) par pienākumu maksāt par bērnam sniegto ārpusģimenes aprūpes pakalpojumu;

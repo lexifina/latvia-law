@@ -1,0 +1,2 @@
+59.⁴ pants. Saskarsmes tiesību īstenošana bāriņtiesas pārstāvja klātbūtnē
+Ja saskaņā ar tiesas nolēmumu lietā, kas izriet no saskarsmes tiesībām, minētās tiesības īstenojamas bāriņtiesas pārstāvja vai bāriņtiesas pilnvarotas personas klātbūtnē, saskarsmes tiesības īstenojamas tās bāriņtiesas pārstāvja klātbūtnē vai tās bāriņtiesas pilnvarotas personas klātbūtnē, kuras darbības teritorijā īstenojamas saskarsmes tiesības.

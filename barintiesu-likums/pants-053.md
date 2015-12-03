@@ -1,5 +1,6 @@
 53.pants. Bāriņtiesu sadarbība
 (1) Bāriņtiesas sadarbojas, lai veiktu savus uzdevumus.
+(1¹) Ja bāriņtiesai nav iespējams nodrošināt pietiekamu personu skaitu, kas var nodrošināt lemtspējīgu bāriņtiesas sastāvu, tad bāriņtiesa šajā likumā noteikto uzdevumu izpildē sadarbojas ar citu bāriņtiesu.
 (2) Bāriņtiesa var lūgt citai bāriņtiesai sniegt atzinumu jautājumā, kas ir atzinuma sniedzējas bāriņtiesas kompetencē.
 (3) Ja persona, kurai pārtrauktas vai atjaunotas bērna aizgādības tiesības, gada laikā pēc lēmuma pieņemšanas maina dzīvesvietu, bāriņtiesa, kura pieņēma lēmumu par bērna aizgādības tiesību pārtraukšanu vai atjaunošanu, nekavējoties nosūta bāriņtiesai, uz kuras darbības teritoriju pārcēlusies dzīvot attiecīgā persona, lietas materiālu kopijas par aizgādības tiesību pārtraukšanu vai atjaunošanu.
 (4) Ja bērna vecāku dzīvesvieta ir deklarēta dažādu pašvaldību administratīvajās teritorijās, bāriņtiesa pēc lēmuma pieņemšanas par prasības sniegšanu tiesā aizgādības tiesību atņemšanai informē otra vecāka dzīvesvietas bāriņtiesu par prasības celšanu tiesā.

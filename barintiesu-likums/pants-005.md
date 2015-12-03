@@ -2,5 +2,5 @@
 (1) Valsts bērnu tiesību aizsardzības inspekcija uzrauga bāriņtiesu darbību bērna un aizgādnībā esošās personas tiesību un interešu aizsardzībā un sniedz tām metodisko palīdzību.
 (2) Tieslietu ministrija sniedz bāriņtiesām metodisko palīdzību šā likuma VII un VIII nodaļā noteikto uzdevumu izpildē.
 (3) (Izslēgta ar 10.12.2009. likumu)
-(4) Bāriņtiesa ne retāk kā reizi gadā sniedz attiecīgās pašvaldības domei pārskatu par savu darbību.
+(4) Bāriņtiesa ne retāk kā reizi gadā sniedz attiecīgās pašvaldības domei pārskata ziņojumu par savu darbību. Pārskata ziņojums ir publicējams pašvaldības mājaslapā.
 (5) Pašvaldības domei ir tiesības jebkurā laikā pieprasīt no bāriņtiesas pārskatu par tās darbību.

@@ -11,4 +11,5 @@ Bāriņtiesa:
 7¹) uzklausa aizgādnībā esošo personu ikvienā jautājumā, kas skar šīs personas intereses;
 8) Kriminālprocesa likumā noteiktajos gadījumos pārstāv bērnu vai aizgādnībā esošo personu kriminālprocesā;
 9) informē vecāku, aizbildni, audžuģimeni vai viesģimeni par iespējamo apdraudējumu bērnam un par personas sodāmības faktu šā likuma 44.¹ pantā noteiktajos gadījumos, kā arī informē pašvaldības sociālo dienestu par vecākiem, aizbildņiem, audžuģimenēm vai viesģimenēm, kuras ir informētas šā likuma 44.¹ pantā noteiktajā kārtībā;
-10) pārstāv audžuģimenē ievietota bērna personiskās un mantiskās intereses un tiesības.
+10) pārstāv audžuģimenē ievietota bērna personiskās un mantiskās intereses un tiesības;
+11) izvērtē, vai vecāks ļaunprātīgi izmanto savas tiesības, kā arī informē tiesu izpildītāju par izvērtējuma rezultātiem vai pieņemtajiem lēmumiem, ja saņemts no tiesu izpildītāja akts par to, ka lietā, kas izriet no aizgādības tiesībām, tiesu izpildītāja noteiktajā laikā un vietā bērns nav sastapts, vai arī saņemts akts par nolēmuma nepildīšanu lietā, kas izriet no saskarsmes tiesībām.

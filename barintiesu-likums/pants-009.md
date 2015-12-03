@@ -1,3 +1,6 @@
 9.pants. Ievēlēšanas termiņš un pretendentu konkurss
 (1) Bāriņtiesas priekšsēdētāju, bāriņtiesas priekšsēdētāja vietnieku un ne mazāk kā trīs bāriņtiesas locekļus ievēlē attiecīgā pašvaldības dome uz pieciem gadiem.
 (2) Uz bāriņtiesas priekšsēdētāja, bāriņtiesas priekšsēdētāja vietnieka un bāriņtiesas locekļa amatu attiecīgā pašvaldība var izsludināt atklātu pretendentu konkursu.
+(3) Pašvaldības dome ne vēlāk kā sešus mēnešus pirms bāriņtiesas priekšsēdētāja, bāriņtiesas priekšsēdētāja vietnieka vai bāriņtiesas locekļa pilnvaru termiņa beigām ievēlē bāriņtiesas sastāvā personu, kura līdz šajā likumā noteikto pienākumu pildīšanas uzsākšanai apgūst šā likuma 10.panta ceturtajā daļā minēto mācību programmu.
+(4) Organizējot bāriņtiesas priekšsēdētāja amata vēlēšanas, attiecīgās pašvaldības dome izprasa no Valsts bērnu tiesību aizsardzības inspekcijas atzinumu par bāriņtiesas darbību pēdējo triju gadu periodā.
+(5) Ievēlot bāriņtiesas priekšsēdētāju, bāriņtiesas priekšsēdētāja vietnieku vai bāriņtiesas locekli, pašvaldības domes pienākums ir pieprasīt ziņas no Sodu reģistra, lai pārliecinātos par personas atbilstību šā likuma 11.panta 2., 3., 4., 5. un 6.punktā minētajām prasībām. Pašvaldības domes pienākums ir minētās ziņas par bāriņtiesas priekšsēdētāju atkārtoti pārbaudīt ne retāk kā reizi gadā.

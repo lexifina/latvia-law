@@ -1,0 +1,1 @@
+13. Bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam vai bāriņtiesas loceklim, kurš neatbilst šā likuma grozījumu 10.panta pirmās daļas 4.punktā un otrās daļas 4.punktā minētajai prasībai, ir tiesības turpināt amata pienākumu pildīšanu gadu pēc šo grozījumu spēkā stāšanās dienas.
