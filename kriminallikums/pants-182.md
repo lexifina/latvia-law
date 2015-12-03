@@ -1,5 +1,5 @@
 182.pants. Elektroenerģijas, siltumenerģijas un gāzes patvaļīga patērēšana, elektronisko sakaru pakalpojumu patvaļīga izmantošana
-(1) Par elektroenerģijas, siltumenerģijas vai gāzes patvaļīgu patērēšanu vai par elektronisko sakaru pakalpojumu patvaļīgu izmantošanu, ja ar to radīts ievērojams mantisks zaudējums, -
+(1) Par elektroenerģijas, siltumenerģijas vai gāzes patvaļīgu patērēšanu vai par elektronisko sakaru pakalpojumu patvaļīgu izmantošanu, ja tas izdarīts ievērojamā apmērā, -
 soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.
-(2) Par elektroenerģijas, siltumenerģijas vai gāzes patvaļīgu patērēšanu vai par elektronisko sakaru pakalpojumu patvaļīgu izmantošanu, ja tas izdarīts lielā apmērā vai ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
+(2) Par elektroenerģijas, siltumenerģijas vai gāzes patvaļīgu patērēšanu vai par elektronisko sakaru pakalpojumu patvaļīgu izmantošanu, ja tas izdarīts lielā apmērā, -
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
