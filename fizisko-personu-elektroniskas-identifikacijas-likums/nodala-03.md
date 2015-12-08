@@ -1,0 +1,2 @@
+III nodaļa
+Kvalificēts vai kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs

@@ -1,0 +1,7 @@
+3.pants. Elektroniskā identifikācija
+(1) Fiziskās personas identitāte elektroniskajā vidē ir pārbaudīta, ja fizisko personu identificē, izmantojot elektroniskās identifikācijas līdzekli, un elektroniskā identifikācija notikusi saskaņā ar normatīvo aktu prasībām attiecībā uz elektroniskās identifikācijas pakalpojuma sniegšanu un izmantošanu.
+(2) Elektroniskās identifikācijas pakalpojums ietver elektroniskās identifikācijas līdzekļa izsniegšanu un tā darbības izbeigšanu, autentifikācijas apliecinājuma izsniegšanu, personas elektronisko identifikācijas datu radīšanu un uzturēšanu, kā arī elektroniskās identifikācijas nodrošinājuma uzturēšanu.
+(3) Elektroniskā identifikācija uzskatāma par notikušu un ir pielīdzināma fiziskās personas identitātes pārbaudei klātienē, uzrādot personu apliecinošu dokumentu, vienā no šādiem gadījumiem:
+1) ja tā veikta ar kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas līdzekli un atbilst šā likuma prasībām;
+2) ja tā veikta gadījumā, kad elektroniskās identifikācijas pakalpojuma sniedzējs un elektroniskā pakalpojuma sniedzējs rakstveidā vienojušies par elektronisko identifikāciju un elektroniskās identifikācijas veidu, neizmantojot kvalificētu vai kvalificētu paaugstinātas drošības elektronisko identifikāciju;
+3) ja tā veikta gadījumā, kad elektroniskā pakalpojuma sniedzējs un fiziskā persona rakstveidā vienojušies par fiziskās personas identitātes pārbaudi elektroniskajā vidē, neizmantojot kvalificētu vai kvalificētu paaugstinātas drošības elektronisko identifikāciju.

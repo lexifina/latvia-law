@@ -1,0 +1,1 @@
+4. Šā likuma 8.panta otrajā daļā noteikto kvalificēta un kvalificēta paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzēja atbilstību likuma prasībām uzraudzības institūcija pārbauda triju mēnešu laikā, ja rakstveida pieteikums iesniegts līdz 2018.gada 31.decembrim.

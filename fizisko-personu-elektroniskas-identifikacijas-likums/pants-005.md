@@ -1,0 +1,6 @@
+5.pants. Kvalificēta vai kvalificēta paaugstinātas drošības elektroniskās identifikācijas līdzekļa izsniegšana
+(1) Lai saņemtu kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas līdzekli, fiziskā persona iesniedz iesniegumu elektroniskās identifikācijas pakalpojuma sniedzējam.
+(2) Pirms kvalificēta vai kvalificēta paaugstinātas drošības elektroniskās identifikācijas līdzekļa izsniegšanas elektroniskās identifikācijas pakalpojuma sniedzējs fiziskās personas klātbūtnē pārliecinās par šīs personas identitāti, pamatojoties uz fiziskās personas uzrādītu personu apliecinošu dokumentu.
+(3) Kvalificētu elektroniskās identifikācijas līdzekli fiziskajai personai izsniedz kvalificēts elektroniskās identifikācijas pakalpojuma sniedzējs.
+(4) Kvalificētu paaugstinātas drošības elektroniskās identifikācijas līdzekli fiziskajai personai izsniedz kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs.
+(5) Kvalificēts vai kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs, saglabājot šajā likumā noteikto atbildību, uz līguma pamata var uzticēt citai juridiskajai vai fiziskajai personai šā panta otrajā, trešajā un ceturtajā daļā noteikto darbību veikšanu, par to rakstveidā informējot uzraudzības institūciju.

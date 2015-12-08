@@ -1,0 +1,2 @@
+II nodaļa
+Elektroniskās identifikācijas nodrošināšana

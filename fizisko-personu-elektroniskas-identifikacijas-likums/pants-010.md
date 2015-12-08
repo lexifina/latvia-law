@@ -1,0 +1,3 @@
+10.pants. Kvalificēta vai kvalificēta paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniegšanas informācijas sistēmu, iekārtu un procedūru drošības apraksts
+(1) Kvalificēta vai kvalificēta paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniegšanas informācijas sistēmu, iekārtu un procedūru drošības aprakstā norādāmo informāciju nosaka Ministru kabinets.
+(2) Ja elektroniskās identifikācijas pakalpojuma sniegšanas informācijas sistēmu, iekārtu un procedūru drošības apraksts mainās, kvalificēts vai kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs nekavējoties iesniedz uzraudzības institūcijai grozījumus informācijas sistēmu, iekārtu un procedūru drošības aprakstā.

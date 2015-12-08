@@ -1,0 +1,10 @@
+19.pants. Elektroniskā pakalpojuma sniedzēja pienākumi
+(1) Elektroniskā pakalpojuma sniedzējs attiecībā uz kvalificētu vai kvalificētu paaugstinātas drošības elektronisko identifikāciju:
+1) autentifikācijas apliecinājumus un pārbaudes pierakstus, kuros fiksē notikumus, kas saistīti ar autentifikācijas apliecinājuma saņemšanu, kā arī informāciju par neveiksmīgiem mēģinājumiem saņemt elektronisko pakalpojumu, kam nepieciešama elektroniskā identifikācija, glabā saskaņā ar normatīvajiem aktiem, kas attiecas uz identifikācijas pakalpojuma sniegšanu, izmantošanu, personas datu aizsardzību un valsts informācijas sistēmu un citu informācijas sistēmu drošību;
+2) veic aizsardzības pasākumus, lai novērstu iespējamas prettiesiskas darbības pret autentifikācijas apliecinājumu, kas atrodas pie elektroniskā pakalpojuma sniedzēja;
+3) normatīvajos aktos noteiktajā kārtībā sniedz tiesas, prokuratūras un izmeklēšanas iestādēm informāciju par saņemtajiem autentifikācijas apliecinājumiem;
+4) ievēro normatīvos aktus, kas regulē personas datu aizsardzību un informācijas sistēmu drošību;
+5) regulāri pārbauda, vai kvalificēti vai kvalificēti paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzēji ir iekļauti reģistrā un nav izslēgti no tā;
+6) pēc uzraudzības institūcijas pieprasījuma sniedz informāciju par tehniskajām un organizatoriskajām prasībām, kas attiecas uz elektronisko identifikāciju elektroniskā pakalpojuma saņemšanai.
+(2) Elektroniskā pakalpojuma sniedzējs gada laikā pēc elektroniskās identifikācijas pakalpojuma sniedzēja reģistrācijas reģistrā par saviem līdzekļiem nodrošina elektroniskā pakalpojuma saņemšanu, izmantojot kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas pakalpojumu saskaņā ar šā likuma 13.pantā noteiktajām tehniskajām un organizatoriskajām prasībām.
+(3) Ministru kabinets nosaka tehniskās un organizatoriskās prasības, kas elektroniskā pakalpojuma sniedzējam jāievēro, saņemot kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas pakalpojumu.
