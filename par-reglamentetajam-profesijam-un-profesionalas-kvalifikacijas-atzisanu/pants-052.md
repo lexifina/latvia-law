@@ -1,9 +1,9 @@
 52.pants. Profesionālās kvalifikācijas atzīšana pārējās transporta jomas profesijās
 (1) Latvijas Republikā atzīst Eiropas Savienības dalībvalstīs un Eiropas Brīvās tirdzniecības asociācijas dalībvalstīs izsniegtos diplomus, sertifikātus un citus profesionālo kvalifikāciju apliecinošus dokumentus, kas atbilst šā likuma prasībām un ir atzīti Eiropas Savienībā, šādās transporta jomas profesijās:
-1) starptautisko pasažieru autopārvadājumu vadītājs (administrators);
-2) starptautisko kravu autopārvadājumu vadītājs (administrators);
-3) iekšzemes pasažieru autopārvadājumu vadītājs (administrators);
-4) iekšzemes kravu autopārvadājumu vadītājs (administrators);
+1) (izslēgts ar 12.11.2015. likumu);
+2) (izslēgts ar 12.11.2015. likumu);
+3) (izslēgts ar 12.11.2015. likumu);
+4) (izslēgts ar 12.11.2015. likumu);
 5) bīstamu kravu pārvadāšanas transportlīdzekļa vadītājs;
 6) bīstamu kravu pārvadājumu drošības konsultants (padomnieks);
 7) (izslēgts ar 23.10.2003. likumu);

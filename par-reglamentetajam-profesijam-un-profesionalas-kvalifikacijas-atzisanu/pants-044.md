@@ -7,8 +7,8 @@
 a) pretendenta izglītību un profesionālo kvalifikāciju apliecinoši dokumenti nav iegūti mītnes valstī, kas ir Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts,
 b) pretendenta izglītību un profesionālo kvalifikāciju apliecinoši dokumenti neatbilst mītnes valstī noteiktajām prasībām, jo tā ir paaugstinājusi prasības profesionālās kvalifikācijas iegūšanai attiecīgajā profesijā.
 (2) Vispārējās profesionālās kvalifikācijas atzīšanas sistēmas piemērošanai izglītību un profesionālo kvalifikāciju apliecinošus dokumentus iedala šādos līmeņos:
-1) 1.līmenis - dokumenti, kas apliecina vismaz četrus gadus ilgas izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
-2) 2.līmenis - dokumenti, kas apliecina vismaz trīs līdz četrus gadus ilgas izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
+1) 1.līmenis - dokumenti, kas apliecina vismaz četrus gadus ilgas pilna laika izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
+2) 2.līmenis - dokumenti, kas apliecina vismaz trīs līdz četrus gadus ilgas pilna laika izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
 3) 3.līmenis - dokumenti, kas apliecina, ka apgūta vismaz viena no šādām programmām:
 a) profesionālās izglītības programma, kuras ilgums ir vismaz viens gads pēc tādas vidējās izglītības programmas apguves, kas nepieciešama, lai uzsāktu studijas augstākās izglītības pakāpē,
 b) noteiktas struktūras izglītības programma vidējās izglītības pakāpē,

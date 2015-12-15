@@ -17,7 +17,8 @@ g) veterinārārsts;
 a) mehānisko transportlīdzekļu vadītājs,
 b) bīstamu kravu pārvadājumu drošības konsultants (padomnieks),
 c) bīstamu kravu pārvadāšanas transportlīdzekļu vadītājs;
-5) Eiropas Savienības dalībvalstu un Eiropas Brīvās tirdzniecības asociācijas dalībvalstu kompetento institūciju izsniegtiem dokumentiem, kas apliecina pretendenta kompetenci starptautisko kravu autopārvadājumu operāciju vadīšanā, starptautisko pasažieru autopārvadājumu operāciju vadīšanā, iekšzemes kravu autopārvadājumu operāciju vadīšanā un iekšzemes pasažieru autopārvadājumu operāciju vadīšanā.
+5) (izslēgts ar 12.11.2015. likumu);
+6) reglamentētajām profesijām, kurās izdod Eiropas profesionālo karti.
 (2) Ja pretendenta mītnes valsts nav pievienojusies šā panta pirmajā daļā minētajiem starptautiskajiem līgumiem, pretendenta profesionālo kvalifikāciju atzīst tikai tad, ja viņa izglītība un profesionālā pieredze līmeņa, satura un ilguma ziņā būtiski neatšķiras no Latvijas Republikā attiecīgajai profesijai noteiktajām prasībām.
-(3) (Izslēgta ar 17.07.2008. likumu.)
-(4) (Izslēgta ar 17.07.2008. likumu.)
+(3) (Izslēgta ar 17.07.2008. likumu)
+(4) (Izslēgta ar 17.07.2008. likumu)

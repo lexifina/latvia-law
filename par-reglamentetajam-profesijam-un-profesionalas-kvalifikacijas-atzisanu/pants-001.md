@@ -2,6 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) adaptācijas periods - periods, kurā profesionālo kvalifikāciju ārvalstīs ieguvusi persona (turpmāk - pretendents) reglamentētajā profesijā Latvijas Republikā darbojas kvalificēta attiecīgās profesijas pārstāvja uzraudzībā. Šāds periods ilgst ne vairāk par trim gadiem un beidzas ar pretendenta darba vērtējumu;
 1¹) iekšējā tirgus informācijas sistēma - Eiropas Komisijas pārvaldīta informācijas apmaiņas sistēma, ar kuras starpniecību tiek īstenota Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu atbildīgo institūciju savstarpējā administratīvā sadarbība Eiropas Savienības iekšējo tirgu reglamentējošo Eiropas Savienības tiesību aktu īstenošanā vai piemērošanā;
+1²) Eiropas profesionālā karte - elektronisks sertifikāts, kas apliecina personas izglītību un profesionālo kvalifikāciju apliecinošo dokumentu atbilstību nosacījumiem, ar kādiem atzīstama pastāvīgai profesionālai darbībai vai īslaicīgu profesionālo pakalpojumu sniegšanai Eiropas Savienības dalībvalstīs un Eiropas Ekonomikas zonas valstīs nepieciešamā profesionālā kvalifikācija;
 2) (izslēgts ar 17.07.2008. likumu);
 3) (izslēgts ar 17.07.2008. likumu);
 4) kompetences apliecība - likumā noteiktajā kārtībā kompetentas institūcijas izsniegts kvalifikāciju apliecinošs dokuments, kurā norādīta:

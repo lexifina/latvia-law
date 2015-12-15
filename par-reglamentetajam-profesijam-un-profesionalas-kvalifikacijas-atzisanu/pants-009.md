@@ -29,5 +29,7 @@
 21) militārais paramediķis;
 22) podologs;
 23) radiogrāfers;
-24) skaistumkopšanas speciālists kosmetoloģijā.
+24) skaistumkopšanas speciālists kosmetoloģijā;
+25) masieris;
+26) mākslas terapeits.
 (3) Medicīniskās izglītības klīnisko un praktisko daļu (arī rezidentūrā iegūstamo) šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras normatīvajos aktos noteiktajā kārtībā ir ieguvušas tiesības izglītot ārstniecības personas.
