@@ -10,4 +10,5 @@
 1) sadarbības grupas dibināšanas dokumentus;
 2) ja statūtos paredzēta sadarbības grupas pamatkapitāla esība, - bankas izziņu par pamatkapitāla apmaksu;
 3) katra sadarbības grupas dalībnieka pārstāvja rakstveida piekrišanu būt par grupas locekli. Šāda piekrišana nav jāiesniedz, ja attiecīgais sadarbības grupas dalībnieka pārstāvis parakstījis pieteikumu sadarbības grupas ierakstīšanai reģistrā.
-(4) Ministrija triju mēnešu laikā pēc šā panta otrajā un trešajā daļā minēto dokumentu saņemšanas reģistrē sadarbības grupu reģistrā un izsniedz reģistrācijas apliecību vai atsaka reģistrāciju reģistrā.
+(4) Ministrija sešu mēnešu laikā pēc šā panta otrajā un trešajā daļā minēto dokumentu saņemšanas reģistrē sadarbības grupu reģistrā un izsniedz reģistrācijas apliecību vai atsaka reģistrāciju reģistrā.
+(5) Sadarbības grupas juridiskā adrese var tikt reģistrēta Latvijā, ja vismaz viens no sadarbības grupas locekļiem ir reģistrēts Latvijā.
