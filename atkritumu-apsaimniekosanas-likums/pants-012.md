@@ -7,7 +7,7 @@
 4) (izslēgts ar 30.04.2015. likumu);
 5) (izslēgts ar 30.04.2015. likumu);
 6) kārtību, kādā izsniedzama un anulējama atļauja slēgtas vai rekultivētas atkritumu izgāztuves atrakšanai un atkritumu pāršķirošanai, atļaujā izvirzāmās prasības, prasības izgāztuves atkārtotai rekultivācijai pēc tās atrakšanas un atkritumu pāršķirošanas (tai skaitā prasības atkārtoti rekultivētās izgāztuves monitoringam un uzturēšanai pēc rekultivācijas).
-(3) Par atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas vai uzglabāšanas atļaujas izsniegšanu šā panta pirmajā daļā minētais atkritumu apsaimniekotājs maksā valsts nodevu. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
+(3) Par atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas vai uzglabāšanas atļaujas un slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un atkritumu pāršķirošanas atļaujas izsniegšanu šā panta pirmajā daļā minētais atkritumu apsaimniekotājs maksā valsts nodevu. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
 (4) Juridiskās personas, kuras bīstamos atkritumus vai ražošanas atkritumus uzglabā ilgāk par trim mēnešiem, saņem šā panta pirmajā daļā noteikto atļauju atkritumu uzglabāšanai uz laiku, kas nav ilgāks kā viens gads pirms atkritumu apglabāšanas atkritumu poligonā, vai uz laiku, kas nav ilgāks par trim gadiem pirms atkritumu reģenerācijas.
 (5) Bīstamo atkritumu vai ražošanas atkritumu apsaimniekotājs:
 1) saņem šā panta pirmajā daļā minēto atļauju bīstamo atkritumu vai ražošanas atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai;
