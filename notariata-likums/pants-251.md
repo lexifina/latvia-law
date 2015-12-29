@@ -8,4 +8,5 @@
 7) par izsludināšanu;
 8) par mantinieku uzaicināšanu;
 9) par mantojuma apsardzību;
-10) par aizgādnības nodibināšanu mantojumam.
+10) par aizgādnības nodibināšanu mantojumam;
+11) par Eiropas mantošanas apliecības izsniegšanu.

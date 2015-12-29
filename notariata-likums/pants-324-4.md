@@ -1,0 +1,1 @@
+324.⁴ Piemērojamos tiesību aktus pārrobežu mantojuma lietās nosaka saskaņā ar Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regulu (ES) Nr. 650/2012 par jurisdikciju, piemērojamiem tiesību aktiem, nolēmumu atzīšanu un izpildi un publisku aktu akceptēšanu un izpildi mantošanas lietās un par Eiropas mantošanas apliecības izveidi (turpmāk - regula Nr. 650/2012).

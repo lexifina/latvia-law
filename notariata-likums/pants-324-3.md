@@ -1,0 +1,1 @@
+324.³ Mantošanas iesniegumu iesniedz šā likuma 252.pantā minētajam zvērinātam notāram, bet, ja mantojuma atstājēja pēdējā deklarētā dzīvesvieta vai mantojamās mantas vai tās galvenās daļas atrašanās vieta nav zināma, mantošanas iesniegumu iesniedz jebkuram zvērinātam notāram.

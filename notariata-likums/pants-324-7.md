@@ -1,0 +1,2 @@
+324.⁷ Zvērināts notārs, kurš ved vai ir vedis attiecīgo pārrobežu mantojuma lietu, var veikt regulas Nr. 650/2012 31.pantā minēto lietu tiesību (in rem) pielāgošanu, taisot mantojuma apliecību vai Eiropas mantošanas apliecību vai taisot papildinājumus mantojuma apliecībā vai Eiropas mantošanas apliecībā.
+Minētos papildinājumus zvērināts notārs taisa notariālā akta formā un nekavējoties par to informē visas personas, kurām izsniegts izraksts no mantojuma apliecības vai no Eiropas mantošanas apliecības vai Eiropas mantošanas apliecības noraksts.
