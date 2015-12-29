@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 15.decembra noteikumi Nr.710 „Jūrnieku profesionālās sagatavošanas programmu sertificēšanas, īstenošanas un uzraudzības noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "252 (5570)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-28",
+  "entry_into_force": "2015-12-29",
+  "notification_date": "2018-05-14",
+  "commission_reference": "MNE(2018)52355",
+  "nim_celex": "72008L0106LVA_258595",
+  "nim_id": "258595",
+  "transposes_celex": [
+    "32008L0106"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b6281753-c020-4b86-ade0-6ac3d2a97a1c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
