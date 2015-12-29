@@ -1,0 +1,1 @@
+30. Ja pašvaldības saistošajos noteikumos ir citāda daudzbērnu ģimenes definīcija nekā šā likuma 1.panta 16.punktā, tad piemērojama pašvaldības saistošajos noteikumos dotā definīcija, bet ne ilgāk kā līdz 2016.gada 31.decembrim.
