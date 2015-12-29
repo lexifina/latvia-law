@@ -1,0 +1,5 @@
+77.⁹ pants. (1) Ja mantojuma apsardzības darbību veikšanas brīdī mantojuma aizgādnis nebija iecelts, pēc mantojuma aizgādņa iecelšanas aizzīmogoto vai apķīlāto mantu vai apķīlātos naudas līdzekļus nodod mantojuma aizgādnim.
+(2) Zīmogus zvērināts tiesu izpildītājs noņem mantojuma aizgādņa klātbūtnē. Par visām ar zīmogu noņemšanu saistītajām darbībām zvērināts tiesu izpildītājs sastāda aktu. Aktu paraksta zvērināta tiesu izpildītāja uzaicinātās klātesošās personas. Ja kāda no šīm personām atsakās aktu parakstīt, zvērināts tiesu izpildītājs to norāda aktā. Aktu zvērināts tiesu izpildītājs iesniedz zvērinātam notāram, kas izsniedzis aicinājumu veikt mantojuma apsardzību.
+(3) Ja manta nodota glabāšanā, zvērināts tiesu izpildītājs dod rīkojumu glabātājam nodot mantu vai īpašumus mantojuma aizgādnim.
+(4) Apķīlātos mantojamos naudas līdzekļus, kā arī naudas līdzekļus, kas saņemti par tādu lietu pārdošanu, kuras ātri bojājas, zvērināts tiesu izpildītājs pārskaita aizgādņa norādītajā bankas kontā.
+(5) Zvērināts tiesu izpildītājs atceļ mantojuma apsardzības līdzekļus pēc tam, kad ir segti ar mantojuma apsardzību saistītie izdevumi.

@@ -1,0 +1,1 @@
+77.⁸ pants. Pēc zvērināta notāra aicinājuma izpildes zvērināts tiesu izpildītājs sagatavo aktu, kurā norāda visas lietā veiktās darbības un to rezultātu. Aktu zvērināts tiesu izpildītājs nosūta zvērinātam notāram, kas izsniedzis aicinājumu veikt mantojuma apsardzību.

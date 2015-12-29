@@ -8,6 +8,6 @@ b) ieguvušas maģistra grādu tiesību zinātnē;
 5) ieguvušas darba pieredzi, strādājot kādā no šādiem amatiem:
 a) tiesneša amatā, zvērināta advokāta amatā, zvērināta notāra amatā, prokurora amatā, zvērināta tiesu izpildītāja amatā,
 b) vismaz divus gadus - zvērināta tiesu izpildītāja palīga amatā,
-c) vismaz piecus gadus - citā juridiskās specialitātes amatā;
+c) vismaz piecus gadus pēc jurista kvalifikācijas iegūšanas - citā juridiskās specialitātes amatā;
 6) nokārtojušas zvērināta tiesu izpildītāja eksāmenu.
 (2) (Izslēgta ar 22.12.2005. likumu.)

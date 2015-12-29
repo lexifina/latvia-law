@@ -1,0 +1,1 @@
+77.⁷ pants. Mantojamo naudas līdzekļu apķīlāšanu kredītiestādē zvērināts tiesu izpildītājs veic, dodot rīkojumu ieskaitīt attiecīgos naudas līdzekļus (to skaitā noguldījumus) zvērināta tiesu izpildītāja depozīta kontā.
