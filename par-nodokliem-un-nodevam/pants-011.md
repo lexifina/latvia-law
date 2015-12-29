@@ -58,7 +58,7 @@
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
 43) par sertifikāta izsniegšanu un darbības laika pagarināšanu detektīvdarbības veikšanai;
-44) par mēslošanas līdzekļa reģistrāciju;
+44) par mēslošanas līdzekļa vai augu augšanas substrāta reģistrāciju;
 45) par izziņas no Sodu reģistra sagatavošanu;
 46) (izslēgts ar 16.12.2004. likumu);
 47) (izslēgts ar 16.12.2004. likumu);
@@ -85,7 +85,7 @@
 66¹) par personas reģistrāciju un izmaiņu veikšanu Kultūraugu uzraudzības valsts informācijas sistēmas Dārzeņu šķirņu kolekcionāru reģistrā;
 67) par šķirnes iekļaušanu, šķirnes uzturēšanu un uzturēšanas termiņa pagarināšanu Latvijas augu šķirņu katalogā;
 68) par atļaujas izsniegšanu tāda veģetatīvā pavairošanas materiāla un sēklu izmantošanai bioloģiskajā lauksaimniecībā, kas nav iegūti ar bioloģiskās lauksaimniecības ražošanas metodi;
-69) par atļaujas saņemšanu mēslošanas līdzekļa ievešanai vai tirdzniecībai;
+69) par atļaujas saņemšanu mēslošanas līdzekļa vai augu augšanas substrāta ievešanai vai tirdzniecībai;
 70) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 71) (izslēgts ar 17.12.2009. likumu);
 72) par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
@@ -115,7 +115,7 @@
 96) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 97) par apstiprinājuma vai piekrišanas izsniegšanu atkritumu pārrobežu pārvadājumiem;
 98) par apraides atļaujas izsniegšanu, retranslācijas atļaujas izsniegšanu un tāda pakalpojuma sniedzēja reģistrāciju, kurš sniedz elektronisko plašsaziņas līdzekļu pakalpojumus pēc pieprasījuma;
-99) par ģeogrāfiskās izcelsmes norādes reģistrāciju, par iebilduma paziņojuma lēmuma izsniegšanu un par ģeogrāfiskās izcelsmes norādes grozījuma reģistrāciju;
+99) par aizsargātas ģeogrāfiskās izcelsmes norādes, aizsargāta cilmes vietas nosaukuma un garantētas tradicionālās īpatnības pieteikuma reģistrāciju, iebilduma paziņojuma lēmuma izsniegšanu un specifikācijas grozījuma reģistrāciju;
 100) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
 101) (izslēgts ar 20.05.2010. likumu);
 102) (izslēgts ar 20.05.2010. likumu);
@@ -146,4 +146,6 @@
 127) par Ieroču un speciālo līdzekļu aprites likumā paredzētā kontrolšāviena ar vītņstobra šaujamieroci izdarīšanu;
 128) par kvalifikācijas pārbaudījuma un atkārtota kvalifikācijas pārbaudījuma kārtošanu attiecībā uz ieroču un munīcijas aprites kārtību un prasmi rīkoties ar ieroci, kā arī par kvalifikācijas pārbaudījuma apliecības dublikāta izsniegšanu;
 129) par speciālās atļaujas (licences) izsniegšanu un pārreģistrāciju kredītinformācijas biroja darbībai;
-130) par kredītinformācijas biroja darbības uzraudzību (ikgadējā nodeva).
+130) par kredītinformācijas biroja darbības uzraudzību (ikgadējā nodeva);
+131) (punkts stājas spēkā 01.03.2016. un iekļauts likuma redakcijā uz 01.03.2016. Sk. 05.11.2015. likumu);
+132) par slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un pāršķirošanas atļaujas izsniegšanu.
