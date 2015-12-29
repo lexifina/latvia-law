@@ -1,5 +1,5 @@
 16.pants. Pierobežas joslas režīms
-(1) Persona, uzturoties pierobežas joslā, papildus tām prasībām, kuras izriet no pierobežas režīma, glabā pie sevis un pēc Valsts robežsardzes amatpersonas pieprasījuma uzrāda speciālo caurlaidi, kas ļauj uzturēties pierobežas joslā, izņemot gadījumu, kad šāda caurlaide nav nepieciešama.
+(1) (Izslēgta ar 03.12.2015. likumu)
 (2) Pierobežas joslā ir aizliegts izvietot brīvības atņemšanas iestādes un psihiatriskā profila ārstniecības iestādes.
 (3) Publiskus pasākumus pierobežas joslā organizē saskaņā ar publisku izklaides un svētku pasākumu organizēšanas kārtību reglamentējošiem normatīvajiem aktiem.
 (4) Medības pierobežas joslā organizē saskaņā ar medību organizēšanas kārtību reglamentējošiem normatīvajiem aktiem.
