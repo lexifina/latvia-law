@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi 2015.gada 22.decembra Nr. 745  Atzīto aizsardzības organizāciju atzīšanas, sertificēšanas un darbības uzraudzības kārtība",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "254 (5572)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-30",
+  "entry_into_force": "2015-12-31",
+  "notification_date": "2019-02-01",
+  "commission_reference": "MNE(2019)51030",
+  "nim_celex": "72005L0065LVA_268859",
+  "nim_id": "268859",
+  "transposes_celex": [
+    "32005L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4a8cf3e-c1cf-42d5-9c2a-489de5eb7f3d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
