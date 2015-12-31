@@ -1,0 +1,4 @@
+65.pants. Turētājiestāde
+Šīs nodaļas izpratnē turētājiestāde ir jebkurš juridisks veidojums, kas tur finanšu aktīvus klientu uzdevumā, ja šāda darbība veido tā saimnieciskās darbības būtisku daļu. Uzskata, ka finanšu aktīvu turēšana klientu uzdevumā ir juridiska veidojuma saimnieciskās darbības būtiska daļa, ja juridiska veidojuma ieņēmumi saistībā ar finanšu aktīvu turēšanu un saistītiem finanšu pakalpojumiem ir vismaz 20 procenti no juridiska veidojuma ieņēmumiem īsākajā no šādiem laikposmiem:
+1) triju gadu laikposmā, kas beidzas 31.decembrī (vai arī tāda pārskata perioda pēdējā dienā, kas nav kalendāra gads) pirms gada, kurā tiek noteikts, vai juridisks veidojums ir uzskatāms par turētājiestādi;
+2) juridiska veidojuma pastāvēšanas laikposmā vai laikposmā, kurā juridiskam veidojumam ir licence ieguldījumu pakalpojumu sniegšanai.

@@ -1,0 +1,40 @@
+96.pants. Izslēgtais konts
+(1) Šīs nodaļas izpratnē izslēgtais konts ir jebkurš no šādiem kontiem:
+1) pensiju konts, kas atbilst visām šādām prasībām:
+a) konts ir pakļauts regulējumam kā pensiju plāna dalībnieka personīgais konts vai ir daļa no reģistrētā vai regulētā pensiju plāna izmaksu nodrošināšanai (ieskaitot pensijas invaliditātes vai nāves gadījumā),
+b) kontam ir piemērojami nodokļu atvieglojumi (proti, iemaksas kontā, kas citādi būtu pakļautas nodokļu uzlikšanai, ir atskaitāmas vai izslēgtas no konta turētāja ieņēmumiem vai tām uzliek nodokli ar samazinātu likmi, vai arī no konta gūtajiem ieguldījumu ienākumiem piemēro atliktos nodokļu maksājumus vai samazinātu nodokļu likmi),
+c) par kontu katru gadu sniedz informāciju nodokļu administrēšanas iestādēm tiesību aktos paredzētajā kārtībā,
+d) līdzekļu izņemšanai ir paredzēti īpaši nosacījumi - pensijas vecuma sasniegšana, invaliditāte vai nāve - vai arī tiek piemērotas sankcijas par līdzekļu izņemšanu pirms attiecīgo nosacījumu iestāšanās,
+e) ikgadējo iemaksu maksimālais apjoms, piemērojot Ministru kabineta noteiktās pienācīgas pārbaudes procedūras, nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, vai maksimālā iemaksa kontā, piemērojot Ministru kabineta noteiktās pienācīgas pārbaudes procedūras, visa mūža garumā nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 1 000 000;
+2) finanšu konts, kas atbilst šīs daļas 1.punkta "e" apakšpunkta prasībām, būs atbilstošs tām arī tad, ja uz šādu finanšu kontu varētu pārnest aktīvus vai naudas summas no viena vai vairākiem finanšu kontiem, kuri atbilst šīs daļas 1. vai 3.punkta prasībām, vai no viena vai vairākiem pensiju fondiem, kuri atbilst šā likuma 76., 77. un 78.panta prasībām;
+3) konts, kas atbilst visām šādām prasībām:
+a) konts finanšu jomu reglamentējošos normatīvajos aktos tiek regulēts kā ieguldījumu instruments, kura mērķis nav pensiju uzkrājumi, un to regulāri tirgo regulētajā finanšu instrumentu tirgū vai konts tiek regulēts kā uzkrājumu mehānisms, kura mērķis nav pensiju uzkrājumi,
+b) kontam ir piemērojami nodokļu atvieglojumi (proti, iemaksas kontā, kas citādi būtu pakļautas nodokļu uzlikšanai, ir atskaitāmas vai izslēgtas no konta turētāja ieņēmumiem vai tām uzliek nodokli ar samazinātu likmi, vai arī no konta gūtajiem ieguldījumu ienākumiem piemēro atliktos nodokļu maksājumus vai samazinātu nodokļu likmi),
+c) līdzekļu izņemšanai ir paredzēti īpaši nosacījumi, kas saistīti ar ieguldījumu konta vai krājkonta mērķi (piemēram, izglītības vai medicīnas pabalstu sniegšanai), vai arī tiek piemērotas sankcijas par līdzekļu izņemšanu pirms šādu kritēriju izpildes,
+d) ikgadējo iemaksu maksimālais apjoms nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, piemērojot Ministru kabineta noteiktās pienācīgas pārbaudes procedūras;
+4) finanšu konts, kas atbilst šīs daļas 3.punkta "d" apakšpunkta prasībām, būs atbilstošs tām arī tad, ja uz šādu finanšu kontu var pārnest aktīvus vai naudas summas no viena vai vairākiem finanšu kontiem, kuri atbilst šīs daļas 1. vai 3.punkta prasībām, vai no viena vai vairākiem pensiju fondiem, kuri atbilst šā likuma 76., 77. un 78.panta prasībām;
+5) dzīvības apdrošināšanas līgums, kas aptver laikposmu, kurš beidzas, pirms apdrošinātā persona sasniedz 90 gadu vecumu, ievērojot noteikumu, ka līgums atbilst visām šādām prasībām:
+a) periodiskās prēmijas, kas laika gaitā nesamazinās, ir maksājamas vismaz katru gadu, kamēr līgums ir spēkā, vai līdz apdrošinātā persona sasniedz 90 gadu vecumu - atkarībā no tā, kurš laikposms ir īsāks,
+b) līgumam nav tādas vērtības, kuru jebkura persona var saņemt, neizbeidzot līgumu (uzkrāto līdzekļu izņemšana, aizdevums vai kā citādi),
+c) summa (izņemot izmaksas nāves gadījumā), kas maksājama, anulējot vai izbeidzot līgumu, nedrīkst pārsniegt kopējās atbilstoši līgumam iemaksātās prēmijas, atskaitot piemērojamos riska un komisiju maksājumus līguma darbības laikā, un jebkādas citas summas, kas izmaksātas pirms līguma anulēšanas vai izbeigšanas,
+d) apdrošināšanas atlīdzības saņemšanas tiesības netiek nodotas citai personai peļņas gūšanas nolūkos;
+6) konts, kurā tur vienīgi mirušās personas mantojumu, ja šā konta dokumentācijā ir atrodama mirušās personas testamenta kopija vai miršanas apliecība;
+7) konts, kas tiek uzturēts saistībā ar tiesas lēmumu vai spriedumu;
+8) konts, kas tiek uzturēts nekustamā vai kustamā īpašuma pārdošanas, maiņas, izīrēšanas vai iznomāšanas darījuma izpildei, ievērojot nosacījumu, ka konts atbilst visām šādām prasībām:
+a) kontā tiek ieskaitīts vienīgi avansa maksājums, rokasnauda vai depozīts tādā apmērā, lai garantētu tādas saistības izpildi, kura ir tieši saistīta ar darījumu, vai līdzīgs maksājums, vai kontā tiek ieskaitīti tādi finanšu līdzekļi, kas saistīti ar īpašuma pārdošanu, maiņu, izīrēšanu vai iznomāšanu,
+b) konts tiek uzturēts un izmantots vienīgi tādēļ, lai garantētu pircēja saistības samaksāt pirkuma cenu par īpašumu, pārdevēja iespējamās saistības vai īrnieka vai nomnieka saistības atlīdzināt īrētajam vai nomātajam īpašumam nodarītos zaudējumus saskaņā ar darījuma noteikumiem,
+c) kontā esošie finanšu līdzekļi, ieskaitot no tiem gūtos ienākumus, ir izmaksājami vai citādi sadalāmi pircēja, pārdevēja, iznomātāja vai nomnieka interesēs (tostarp, lai izpildītu šādu personu saistības), īpašumu pārdodot, apmainot vai nododot, arī tad, ja darījums ir izbeigts,
+d) konts nav finanšu nodrošinājuma konts vai līdzīgs konts, kas tiek uzturēts saistībā ar finanšu aktīva pārdošanu vai apmaiņu,
+e) konts nav saistīts ar šā panta 11.punktā minēto kontu;
+9) konts, kas tiek uzturēts saistībā ar finanšu iestādes, kura apkalpo ar nekustamo īpašumu nodrošinātu aizdevumu, pienākumu rezervēt maksājuma daļu vienīgi tādēļ, lai nodrošinātu ar nekustamo īpašumu saistīto nodokļu vai apdrošināšanas samaksu vēlāk;
+10) konts, kas ir nodibināts saistībā ar finanšu iestādes pienākumu vienīgi nodrošināt nodokļu samaksu vēlāk;
+11) noguldījumu konts, kas atbilst visām šādām prasībām:
+a) kontā tiek ieskaitītas tikai tādas summas, kas paredzētas kredītkartes vai citas atjaunojamas kredītlīnijas debeta atlikuma (klientu parādsaistību) dzēšanai, un pārmaksa klientam netiek atmaksāta nekavējoties,
+b) finanšu iestāde īsteno pasākumus un procedūras, lai novērstu to, ka kontā tiek ieskaitīta pārmaksa, kas pārsniedz summu, kura pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, vai lai nodrošinātu, ka pārmaksa, kas pārsniedz iepriekš minēto summu, klientam tiek atmaksātas 60 dienu laikā, minēto summu aprēķinam piemērojot Ministru kabineta noteiktās kontu pienācīgas pārbaudes procedūras. Šim nolūkam pārmaksas summā netiek ieskaitītas apstrīdēto maksājumu summas, bet tiek ieskaitītas kompensācijas par preču atpakaļatdošanu;
+12) pensiju plāna dalībnieka individuālais konts, kas tiek regulēts atbilstoši likumam "Par privātajiem pensiju fondiem";
+13) valsts fondēto pensiju shēmas dalībnieka konts, kas tiek regulēts saskaņā ar Valsts fondēto pensiju likumu.
+(2) Finanšu iestāde ir tiesīga par izslēgtu kontu atzīt iepriekšpastāvējušu fiziskās personas finanšu kontu (izņemot annuitātes līgumu), kas atbilst visām šādām pazīmēm:
+1) tā ikgadējais konta beigu atlikums nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 1000;
+2) konta turētājs saistībā ar šo kontu vai konta turētāja citu kontu attiecīgajā finanšu iestādē pēdējo triju gadu laikā nav veicis nevienu darījumu;
+3) finanšu iestāde pēdējo sešu gadu laikā nav saņēmusi no konta turētāja jaunu, papildu vai precizētu informāciju saistībā ar šā konta vai konta turētāja cita konta uzturēšanu;
+4) attiecīgā finanšu iestāde pēdējo sešu gadu laikā nav sazinājusies ar konta turētāju saistībā ar jebkuru kontu, ko tas tur šajā finanšu iestādē, ja par izslēgtu tiek atzīts konts, kas ir apdrošināšanas līgums ar līdzekļu uzkrājumu.

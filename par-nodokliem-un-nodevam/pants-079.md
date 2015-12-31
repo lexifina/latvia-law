@@ -1,0 +1,5 @@
+79.pants. Kvalificēts kredītkaršu izdevējs
+(1) Šīs nodaļas izpratnē kvalificēts kredītkaršu izdevējs ir finanšu iestāde, kas atbilst visām šādām prasībām:
+1) finanšu iestāde atbilst finanšu iestādes statusam vienīgi tādēļ, ka šī iestāde tikai saistībā ar tās izsniegtajām kredītkartēm pieņem no klienta noguldījumus apmērā, kas pārsniedz kredītkartes debeta atlikumu (parādsaistību) summu un pārmaksa uzreiz netiek atmaksāta klientam;
+2) finanšu iestāde īsteno pasākumus un procedūras, lai novērstu to, ka klients veic pārmaksu, kas pārsniedz summu, kura pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, vai lai nodrošinātu, ka jebkura klienta pārmaksa, kas pārsniedz minēto summu, klientam tiek atmaksāta 60 dienu laikā.
+(2) Abos šā panta pirmajā daļā minētajos gadījumos piemēro Ministru kabineta noteiktās kontu pienācīgas pārbaudes procedūras, kas attiecas uz kontu beigu atlikuma vai vērtības noteikšanu. Šim nolūkam klienta pārmaksa neattiecas uz konta beigu atlikumiem apstrīdēto maksājumu apmērā, bet tā ietver konta beigu atlikumus, kas radušies preču atpakaļatdošanas dēļ.

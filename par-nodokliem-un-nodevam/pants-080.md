@@ -1,0 +1,7 @@
+80.pants. Atbrīvots kolektīvo ieguldījumu instruments
+(1) Šīs nodaļas izpratnē atbrīvots kolektīvo ieguldījumu instruments ir ieguldījumu veidojums, kas tiek regulēts kā kolektīvo ieguldījumu instruments, ievērojot noteikumu, ka visas kolektīvo ieguldījumu instrumenta daļas tur tādas fiziskās personas vai organizācijas vai tās tiek turētas ar tādu fizisko personu vai organizāciju starpniecību, kas nav personas, par kurām jāsniedz ziņojums, izņemot pasīvu nefinanšu organizāciju, kuras viens vai vairāki patiesie labuma guvēji ir atzīti par personām, par kurām jāsniedz ziņojums.
+(2) Ieguldījumu iestāde, kas tiek regulēta kā kolektīvo ieguldījumu instruments, par atbrīvotu kolektīvo ieguldījumu instrumentu saskaņā ar šo pantu tiek uzskatīta arī tad, ja tā izsniedz materializētas formas uzrādītāja akcijas, ievērojot nosacījumu, ka:
+1) kolektīvo ieguldījumu instruments pēc 2015.gada 31.decembra nav izsniedzis vai neizsniedz materializētas formas uzrādītāja akcijas;
+2) atpirkuma gadījumā kolektīvo ieguldījumu instruments visas šīs akcijas noraksta;
+3) kolektīvo ieguldījumu instruments veic pienācīgas pārbaudes procedūras un sniedz jebkādu informāciju, kas tiek pieprasīta saistībā ar šādām akcijām, ja šādas akcijas tiek sniegtas dzēšanai vai cita veida atpirkšanai;
+4) kolektīvo ieguldījumu instruments īsteno atbilstošu politiku un procedūras, lai nodrošinātu, ka šādas akcijas pēc iespējas drīz un - jebkurā gadījumā - pirms 2018.gada 1.janvāra tiek dzēstas vai izņemtas no apgrozības.

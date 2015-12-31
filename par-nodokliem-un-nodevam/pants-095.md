@@ -1,0 +1,5 @@
+95.pants. Konta turētājs
+(1) Šīs nodaļas izpratnē konta turētājs ir:
+1) attiecībā uz apdrošināšanas līgumu ar līdzekļu uzkrāšanu vai annuitātes līgumu - persona, kurai ir tiesības saņemt uzkrātos līdzekļus vai mainīt līguma labuma guvēju. Ja neviens nevar saņemt uzkrātos līdzekļus vai mainīt līguma labuma guvēju, konta turētājs ir jebkura persona, kas līgumā norādīta kā īpašnieks, un jebkura persona, kura ir tiesīga saņemt maksājumu saskaņā ar līguma noteikumiem. Apdrošināšanas līguma ar līdzekļu uzkrāšanu vai annuitātes līguma termiņa beigās par konta turētāju tiek uzskatīta persona, kura ir tiesīga saņemt maksājumu saskaņā ar līguma noteikumiem;
+2) attiecībā uz pārējiem kontiem - persona, ko finanšu iestāde, kurā atvērts konts, norādījusi vai identificējusi kā finanšu konta turētāju.
+(2) Persona, kas nav finanšu iestāde, turot finanšu kontu citas personas labā (vārdā, uzdevumā) kā aģents, turētājs, nominālā konta turētājs, parakstītājs, ieguldījumu konsultants vai starpnieks, netiek uzskatīta par konta turētāju; par konta turētāju tiek uzskatīta persona, kuras labā (vārdā, uzdevumā) tiek turēts konts.

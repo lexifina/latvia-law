@@ -1,0 +1,9 @@
+76.pants. Plašas līdzdalības pensiju fonds
+Šīs nodaļas izpratnē plašas līdzdalības pensiju fonds ir fonds, kas nodibināts, lai nodrošinātu pensiju kapitāla izmaksas pensijas vecuma sasniegšanas, invaliditātes vai nāves gadījumā vai jebkādu to kombināciju labuma guvējiem, kuri ir vai bija darba ņēmēji (vai ir šādu darba ņēmēju norādītās personas), kā atlīdzinājumu par sniegtajiem pakalpojumiem vai veikto darbu, ievērojot noteikumu, ka:
+1) fondam nav neviena tāda izmaksu saņēmēja, kuram ir tiesības uz vairāk nekā 5 procentiem no fonda aktīviem;
+2) fonds ir pakļauts valsts normatīvo aktu regulējumam un sniedz informāciju nodokļu administrēšanas iestādēm;
+3) fonds atbilst vismaz vienai no šādām prasībām:
+a) fondam sava pensiju plāna statusa dēļ parasti nepiemēro nodokli no ieguldījumu ienākuma vai arī tam piemēro nodokļa atlikto maksājumu vai samazinātu nodokļu likmi,
+b) vismaz 50 procentus no tā kopējām iemaksām (izņemot aktīvu pārvedumus no citiem šajā pantā vai šā likuma 77. vai 78.pantā minētajiem plāniem vai no šā likuma 96.panta pirmās daļas 1.punktā minētajiem pensiju kontiem) fonds saņem no iemaksas veicošajiem darba devējiem,
+c) līdzekļu izmaksa vai izņemšana no fonda ir pieļaujama tikai gadījumos, kas radušies saistībā ar došanos pensijā, invaliditāti vai nāvi (izņemot pārceltās izmaksas uz citiem šajā pantā vai šā likuma 77. vai 78.pantā minētajiem pensiju kontiem vai no šā likuma 96.panta pirmās daļas 1.punktā minētajiem pensiju kontiem), vai arī tad, ja tiek piemērotas sankcijas par līdzekļu izmaksu vai izņemšanu, kas veikta pirms attiecīgo gadījumu iestāšanās,
+d) darba ņēmēju iemaksas (izņemot konkrētas atļautas papildu iemaksas) fondā ir ierobežotas ar darba ņēmēja darba ienākumiem vai Ministru kabineta noteikto kontu pienācīgu pārbaudes procedūru piemērošanas rezultātā to kopsummas aprēķins gadā nedrīkst pārsniegt summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000.

@@ -1,0 +1,3 @@
+91.pants. Līdzdalības daļa kapitālā
+(1) Šā likuma 90.panta pirmās daļas 3. un 4.punkta izpratnē par līdzdalības daļu kapitālā atzīst arī līdzdalības daļu peļņā.
+(2) Attiecībā uz tādu trastu, kas ir finanšu iestāde, uzskata, ka līdzdalības daļu kapitālā tur jebkura persona, kuru uzskata par dibinātāju vai labuma guvēju saistībā ar visu trastu vai tā daļu, vai cita fiziskā persona, kura īsteno galīgo faktisko trasta kontroli. Personu, par kuru jāsniedz ziņojums, uzskata par labuma guvēju saistībā ar trastu, ja šādai personai ir tiesības tieši vai netieši (piemēram, ar nominālo finanšu aktīvu turētāja starpniecību) saņemt obligāto peļņas daļu vai šī persona tieši vai netieši var saņemt diskrecionāru (pēc ieskatiem vai norādījumiem) peļņas daļu no trasta.

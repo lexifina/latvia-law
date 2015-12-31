@@ -12,4 +12,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 11) Padomes 2008.gada 12.februāra direktīvas 2008/7/EK par netiešajiem nodokļiem, ko uzliek kapitāla piesaistīšanai;
 12) (izslēgts ar 15.03.2012. likumu);
 13) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem;
-14) Padomes 2011.gada 15.februāra direktīvas 2011/16/ES par administratīvu sadarbību nodokļu jomā un ar ko atceļ direktīvu 77/799/EEK.
+14) Padomes 2011.gada 15.februāra direktīvas 2011/16/ES par administratīvu sadarbību nodokļu jomā un ar ko atceļ direktīvu 77/799/EEK;
+15) Padomes 2014.gada 9.decembra direktīvas 2014/107/ES, ar ko groza direktīvu 2011/16/ES attiecībā uz obligāto automātisko informācijas apmaiņu nodokļu jomā.
