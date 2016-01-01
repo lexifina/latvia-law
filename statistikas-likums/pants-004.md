@@ -1,0 +1,5 @@
+4.pants. Oficiālās statistikas nodrošināšanas sistēmas iestādes
+(1) Oficiālās statistikas nodrošināšanas sistēmu veido statistikas iestādes un Statistikas padome.
+(2) Oficiālās statistikas sistēmas vadošā iestāde ir Centrālā statistikas pārvalde (turpmāk - Pārvalde). Pārvalde ir tiešās pārvaldes iestāde, kura darbojas Ekonomikas ministrijas pārraudzībā.
+(3) Pārvalde īsteno funkcionālo padotību attiecībā uz citām statistikas iestādēm oficiālās statistikas nodrošināšanas jomā, sniedzot metodiskos norādījumus, pārraugot oficiālās statistikas nodrošināšanas atbilstību tiesību aktiem, kā arī izdodot rīkojumus, kas nepieciešami oficiālās statistikas nodrošināšanai.
+(4) Statistikas iestādes izdotu administratīvo aktu oficiālās statistikas nodrošināšanas jomā var apstrīdēt Pārvaldei. Pārvaldes lēmums pārsūdzams tiesā. Ja sākotnējo administratīvo aktu oficiālās statistikas nodrošināšanas jomā izdevusi Pārvalde, to var apstrīdēt Pārvaldes vadītājam. Pārvaldes vadītāja lēmumu var pārsūdzēt tiesā.

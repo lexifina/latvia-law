@@ -1,0 +1,2 @@
+III nodaļa
+Oficiālās statistikas nodrošināšanas organizēšana

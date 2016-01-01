@@ -1,0 +1,1 @@
+4. Ministru kabineta noteikumi par Valsts statistiskās informācijas programmu 2016.gadam, kas izdoti, pamatojoties uz Valsts statistikas likumu, ir piemērojami līdz 2016.gada 31.decembrim, ciktāl tie nav pretrunā ar šo likumu.
