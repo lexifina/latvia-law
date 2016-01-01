@@ -1,4 +1,7 @@
-48.¹ pants. Zaudējumu atlīdzības un morālā kaitējuma apmēra noteikšanas kārtība
-(1) Ja personas vainas dēļ notikusi dizainparauga nelikumīga izmantošana, šā likuma 48.panta ceturtajā daļā minētie tiesību subjekti ir tiesīgi prasīt radītā zaudējuma un morālā kaitējuma atlīdzību.
-(2) Zaudējumu atlīdzības un morālā kaitējuma apmērs nosakāms saskaņā ar Civillikumu. Nosakot zaudējumu apmēru, var ņemt vērā arī tās personas negodīgi gūto peļņu, kura prettiesiski izmantojusi dizainparaugu.
-(3) Ja faktisko zaudējumu atlīdzības apmēru nevar noteikt saskaņā ar šā panta otro daļu, zaudējumu atlīdzības apmērs ir atbilstošs tai summai, kuru varētu saņemt dizainparauga īpašnieks par dizainparauga izmantošanas tiesību nodošanu licenciātam.
+48.¹ pants. Mantiskā kaitējuma atlīdzības un nemantiskā kaitējuma atlīdzības noteikšanas kārtība
+(1) Ja personas vainas dēļ notikusi dizainparauga nelikumīga izmantošana, dizainparauga īpašnieks vai tā tiesību pārņēmējs, vai licenciāts ir tiesīgs prasīt pārkāpuma rezultātā nodarītā mantiskā kaitējuma un nemantiskā kaitējuma atlīdzību.
+(2) Prasot atlīdzināt mantisko kaitējumu, dizainparauga īpašnieks vai tā tiesību pārņēmējs, vai licenciāts par katru pārkāpumu var lūgt vienu no šādiem mantiskās atlīdzības veidiem:
+1) zaudējumu atlīdzību;
+2) licences maksu - summu, kuru varētu saņemt dizainparauga īpašnieks par dizainparauga izmantošanas tiesību piešķiršanu licenciātam;
+3) peļņu, ko pārkāpuma rezultātā negodīgi guvusi persona, kura prettiesiski izmantojusi dizainparaugu.
+(3) Nemantiskā kaitējuma atlīdzības apmēru tiesa nosaka pēc sava ieskata.

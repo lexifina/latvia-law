@@ -1,2 +1,2 @@
 24.pants. Lēmums par dizainparauga reģistrāciju
-Pēc pieteikuma izskatīšanas Patentu valde pieņem lēmumu par dizainparauga reģistrāciju. Izskatījusi kompleksu pieteikumu, Patentu valde var pieņemt lēmumu par atsevišķa kompleksā pieteikumā iekļauta dizainparauga reģistrāciju. Lēmumu rakstveidā paziņo pieteicējam, uzaicinot viņu triju mēnešu laikā samaksāt valsts nodevu par dizainparauga reģistrāciju un publikāciju.
+Pēc pieteikuma izskatīšanas Patentu valde pieņem lēmumu par dizainparauga reģistrāciju. Izskatījusi kompleksu pieteikumu, Patentu valde var pieņemt lēmumu par atsevišķa kompleksā pieteikumā iekļauta dizainparauga reģistrāciju. Lēmumu rakstveidā paziņo pieteicējam, uzaicinot viņu triju mēnešu laikā samaksāt maksu par dizainparauga reģistrāciju un publikāciju.
