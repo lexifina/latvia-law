@@ -1,1 +1,1 @@
-23.pants. Zemes lietošanas veidus nosaka un aktualizē, veicot zemes kadastrālo uzmērīšanu. Zemes lietošanas veidu ierakstīšanu un uzskaiti Nekustamā īpašuma valsts kadastra informācijas sistēmā veic Valsts zemes dienests atbilstoši administratīvi teritoriālajam iedalījumam.
+23.pants. Zemes lietošanas veidu ierakstīšanu un uzskaiti Nekustamā īpašuma valsts kadastra informācijas sistēmā veic Valsts zemes dienests atbilstoši administratīvi teritoriālajam iedalījumam.

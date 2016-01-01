@@ -1,0 +1,1 @@
+8.¹ pants. Zemes ierīcības projekta grozījumus izstrādā pēc projekta ierosinātāja priekšlikuma, ja izmaiņas zemes ierīcības projektā attiecināmas uz projektētās teritorijas daļu, kurai pēc zemes ierīcības projekta apstiprināšanas zemes kadastrālās uzmērīšanas dati vēl nav reģistrēti Nekustamā īpašuma valsts kadastra informācijas sistēmā.

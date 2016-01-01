@@ -1,3 +1,1 @@
-19.pants. (1) Pirms zemes ierīcības projekta apstiprināšanas vietējā pašvaldībā projekta izstrādātājs iesniedz projekta grafisko daļu digitālā veidā vektordatu formā Latvijas ģeodēziskajā koordinātu sistēmā LKS-92 Valsts zemes dienesta reģionālajai nodaļai, kura 10 darba dienu laikā sniedz atzinumu par nekustamā īpašuma objekta apgrūtinājumu atbilstību normatīvajos aktos noteiktajām datu sagatavošanas tehniskajām prasībām un zemes vienību robežu atbilstību Nekustamā īpašuma valsts kadastra informācijas sistēmas datiem.
-(2) Zemes ierīcības projektu apstiprina vietējā pašvaldība, izdodot administratīvo aktu.
-(3) Kārtību, kādā zemes ierīcības projekta ierosinātājs maksā Valsts zemes dienestam par zemes ierīcības projekta saskaņošanu, nosaka Ministru kabinets.
+19.pants. Zemes ierīcības projektu un tā grozījumus apstiprina vietējā pašvaldība, izdodot administratīvo aktu.
