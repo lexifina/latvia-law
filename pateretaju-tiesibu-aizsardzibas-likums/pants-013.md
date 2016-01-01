@@ -1,4 +1,4 @@
-13.pants. Ražotāja, pārdevēja un pakalpojuma sniedzēja pienākums nodrošināt preces vai pakalpojuma atbilstību līguma noteikumiem
-(1) Ražotāja, pārdevēja un pakalpojuma sniedzēja pienākums ir nodrošināt preces vai pakalpojuma atbilstību līguma noteikumiem. Precei un pakalpojumam jāatbilst ražotāja, pārdevēja vai pakalpojuma sniedzēja sniegtajiem paziņojumiem (īpaši reklāmā un marķējumā ietvertajai informācijai) par šo preci vai pakalpojumu.
-(2) Ražotājs, pārdevējs un pakalpojuma sniedzējs ir atbildīgs par jebkuru neatbilstību līguma noteikumiem, kas eksistē preces iegādes vai pakalpojuma sniegšanas dienā.
-(3) Ja preces vai pakalpojuma neatbilstība līguma noteikumiem atklājas sešu mēnešu laikā pēc preces iegādes vai pakalpojuma sniegšanas, uzskatāms, ka tā eksistēja preces iegādes vai pakalpojuma sniegšanas dienā, izņemot gadījumu, kad ražotājs, pārdevējs vai pakalpojuma sniedzējs normatīvajos aktos noteiktajā kārtībā organizētā ekspertīzē pierāda pretējo.
+13.pants. Pārdevēja vai pakalpojuma sniedzēja pienākums nodrošināt preces atbilstību līguma noteikumiem
+(1) Pārdevēja un pakalpojuma sniedzēja pienākums ir nodrošināt preces atbilstību līguma noteikumiem.
+(2) Pārdevējs un pakalpojuma sniedzējs ir atbildīgs par jebkuru preces iegādes dienā eksistējošu neatbilstību līguma noteikumiem.
+(3) Ja preces neatbilstība līguma noteikumiem atklājas sešu mēnešu laikā pēc preces iegādes, uzskatāms, ka tā eksistēja preces iegādes dienā, izņemot gadījumu, kad šāds pieņēmums ir pretrunā ar preces raksturu vai neatbilstības veidu.
