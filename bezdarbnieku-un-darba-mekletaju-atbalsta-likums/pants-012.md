@@ -2,7 +2,7 @@
 (1) Bezdarbnieka statusa zaudēšanas pamats ir:
 1) darba ņēmēja vai pašnodarbinātā statusa iegūšana uz nenoteiktu laiku vai uz laiku, kas ilgāks par diviem mēnešiem, saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot iesaistīšanos aktīvajos nodarbinātības pasākumos;
 2) vecuma, kas dod tiesības saņemt valsts vecuma pensiju, sasniegšana vai valsts vecuma pensijas piešķiršana (tai skaitā priekšlaicīgi);
-3) nonākšana ieslodzījuma vietā vai ilgstošas sociālās aprūpes vai sociālās rehabilitācijas institūcijā, kurā pakalpojumus pilnībā finansē no valsts vai pašvaldības budžeta;
+3) nonākšana ieslodzījuma vietā (izņemot atklāto cietumu) vai ilgstošas sociālās aprūpes vai sociālās rehabilitācijas institūcijā, kurā pakalpojumus pilnībā finansē no valsts vai pašvaldības budžeta;
 4) uzņemšana pamatizglītības vai vidējās izglītības programmā klātienē;
 5) atteikšanās no piemērota darba piedāvājuma divas reizes;
 6) bezdarbnieka pienākumu nepildīšana bez attaisnojoša iemesla;

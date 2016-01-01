@@ -6,6 +6,7 @@
 4) ir sasniegusi 15 gadu vecumu;
 5) neveic komercdarbību vai kuras komercdarbība ir apturēta saskaņā ar normatīvajiem aktiem;
 6) nav uzņemta pamatizglītības programmā klātienē.
+(1¹) Iesniegumu darba meklētāja statusa piešķiršanai persona iesniedz Nodarbinātības valsts aģentūrai. Ja iesniegumu iesniedz, izmantojot vienotajā valsts un pašvaldību pakalpojumu portālā www.latvija.lv šim nolūkam izveidotu tiešsaistes formu, iesniedzēja personu identificē, lietojot portālā pieejamos autentifikācijas līdzekļus.
 (2) Lēmumu par darba meklētāja statusa piešķiršanu, ja persona atbilst visiem šā panta pirmajā daļā noteiktajiem kritērijiem un ir uzrādījusi normatīvajos aktos noteiktos dokumentus, Nodarbinātības valsts aģentūra pieņem vienas darba dienas laikā.
 (3) Darba meklētāja statusa zaudēšanas pamats ir:
 1) bezdarbnieka statusa iegūšana;
