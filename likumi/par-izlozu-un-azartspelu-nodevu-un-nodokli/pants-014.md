@@ -1,2 +1,2 @@
-14. pants. Ja kapitālsabiedrība ir nokavējusi nodokļa samaksas termiņu, tad par katru nokavēto dienu tiek aprēķināta nokavējuma nauda piecu procentu apmērā no laikā nenomaksātās summas. Ja termiņš ir nokavēts ilgāk par 30 dienām, Valsts ieņēmumu dienesta iestādes aptur kapitālsabiedrības darbību izložu un azartspēļu organizēšanā un ierosina anulēt speciālo atļauju (licenci).
-Ja speciālā atļauja (licence) tiek anulēta, par tās izsniegšanu samaksātā valsts nodeva netiek atmaksāta.
+14. pants. Ja kapitālsabiedrība ir nokavējusi nodokļa samaksas termiņu, tad par katru nokavēto dienu tiek aprēķināta nokavējuma nauda piecu procentu apmērā no laikā nenomaksātās summas. Ja termiņš ir nokavēts ilgāk par 30 dienām, Valsts ieņēmumu dienesta iestādes aptur kapitālsabiedrības darbību izložu un azartspēļu organizēšanā un ierosina anulēt attiecīgo licenci.
+Ja attiecīgā licence tiek anulēta, par tās izsniegšanu samaksātā valsts nodeva netiek atmaksāta.

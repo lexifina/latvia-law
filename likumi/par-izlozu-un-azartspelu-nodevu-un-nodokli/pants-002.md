@@ -1,18 +1,11 @@
-2. pants. Par speciālo atļauju (licenci) azartspēļu organizēšanai un uzturēšanai iekasējama valsts nodeva šādā apmērā:
-1) spēļu automātu, bingo, ruletes, kāršu un kauliņu spēles organizēšanai un uzturēšanai:
-a) par speciālās atļaujas (licences) izsniegšanu - 427 000 euro,
-b) par speciālās atļaujas (licences) pagarināšanu - 35 580 euro,
-c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - 35 580 euro par katru kārtējo gadu,
-d) par kazino atvēršanas atļauju (licenci) - 28 460 euro par katru kārtējo gadu,
-e) par spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) - 4270 euro par katru kārtējo gadu;
-2) totalizatora vai derību organizēšanai un uzturēšanai:
-a) par speciālās atļaujas (licences) izsniegšanu - 42 690 euro,
-b) par speciālās atļaujas (licences) pagarināšanu - 42 690 euro,
-c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - 42 690 euro par katru kārtējo gadu;
-3) veiksmes spēles pa tālruni organizēšanai un uzturēšanai:
-a) par speciālās atļaujas (licences) izsniegšanu - 14 230 euro,
-b) par speciālās atļaujas (licences) pagarināšanu - 14 230 euro,
-c) par speciālās atļaujas (licences) ikgadējo pārreģistrāciju - 14 230 euro par katru kārtējo gadu.
-Speciālās atļaujas (licences) ikgadējā pārreģistrācija veicama, sākot ar nākamo gadu pēc atļaujas izsniegšanas vai pagarināšanas.
-Saņemot, pagarinot vai pārreģistrējot speciālo atļauju (licenci), uzrādāma kvīts, kas apliecina valsts nodevas samaksu.
-Valsts nodevu par kazino, spēļu zāles vai bingo zāles atvēršanas atļauju (licenci) samaksā pirms atļaujas (licences) saņemšanas vai pirms datuma, kurā minētā atļauja (licence) izsniegta.
+2.pants. Azartspēļu nodevu maksā par azartspēļu - spēļu automātu spēles, bingo, ruletes (cilindriskās spēles), kāršu spēles, kauliņu spēles, totalizatora, derību un veiksmes spēles pa tālruni - organizēšanas licences izsniegšanu vai pārreģistrāciju, kā arī par azartspēļu organizēšanas vietas licences izsniegšanu vai pārreģistrāciju.
+Azartspēļu nodeva par azartspēļu organizēšanas licences izsniegšanu (tai skaitā par azartspēļu organizēšanas licences izsniegšanu, ja azartspēļu organizēšana notiek arī ar elektronisko sakaru pakalpojumu starpniecību) ir 427 000 euro.
+Azartspēļu nodeva par azartspēļu organizēšanas licences izsniegšanu, ja azartspēļu organizēšana notiek tikai ar elektronisko sakaru pakalpojumu starpniecību (interaktīvās azartspēles), ir 200 000 euro.
+Azartspēļu nodeva par šā panta otrajā vai trešajā daļā minētās azartspēļu - spēļu automātu spēles, bingo, ruletes (cilindriskās spēles), kāršu spēles, kauliņu spēles, totalizatora, derību un veiksmes spēles pa tālruni - organizēšanas licences pārreģistrāciju ir 37 000 euro.
+Azartspēļu nodeva par azartspēļu organizēšanas vietas licences izsniegšanu vai pārreģistrāciju, kas dod tiesības organizēt azartspēles konkrētā azartspēļu organizēšanas vietā (kazino, spēļu zāle, bingo zāle, totalizatora vai derību dalības likmju pieņemšanas vieta), ir:
+1) kazino - 30 000 euro;
+2) spēļu zālei vai bingo zālei - 4500 euro;
+3) totalizatora vai derību dalības likmju pieņemšanas vietai - 2000 euro.
+Šā panta piekto daļu nepiemēro, ja azartspēļu organizēšana notiek tikai ar elektronisko sakaru pakalpojumu starpniecību.
+Azartspēļu organizēšanas licences un azartspēļu organizēšanas vietas licences ikgadējā pārreģistrācija veicama, sākot ar nākamo gadu pēc attiecīgās licences izsniegšanas. Azartspēļu nodevu par azartspēļu organizēšanas licences pārreģistrāciju un azartspēļu organizēšanas vietas licences pārreģistrāciju maksā par katru kārtējo gadu.
+Azartspēļu nodevu par azartspēļu organizēšanas licences izsniegšanu un azartspēļu organizēšanas vietas licences izsniegšanu maksā pirms licences izsniegšanas. Azartspēļu nodevu par azartspēļu organizēšanas licences izsniegšanu, pārreģistrāciju un azartspēļu organizēšanas vietas licences izsniegšanu, pārreģistrāciju maksā 10 darba dienu laikā pēc tam, kad paziņots lēmums par azartspēļu organizēšanas licences izsniegšanu, pārreģistrāciju, vai pēc tam, kad paziņots lēmums par azartspēļu organizēšanas vietas licences izsniegšanu, pārreģistrāciju.
