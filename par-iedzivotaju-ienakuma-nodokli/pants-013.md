@@ -3,16 +3,17 @@
 1) par katras šajā punktā minētās personas uzturēšanu, ja šai personai nav piešķirta pensija un tā nesaņem pensiju saskaņā ar likumu "Par valsts pensijām" vai citas valsts pensiju, izņemot apgādnieka zaudējuma pensiju - Ministru kabineta noteiktajā apmērā vienam no apgādniekiem:
 a) par nepilngadīgu bērnu,
 b) par bērnu, kamēr viņš turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai,
-c) par nestrādājošu laulāto,
-d) par nestrādājošiem vecākiem un vecvecākiem,
+c) (izslēgts ar 30.11.2015. likumu),
+d) (izslēgts ar 30.11.2015. likumu),
 e) par mazbērnu vai audzināšanā paņemtu bērnu, ja no viņa vecākiem nav iespējams piedzīt uzturnaudu (alimentus), arī tikmēr, kamēr viņš turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai,
 f) par nepilngadīgu brāli un māsu, kā arī par brāli un māsu, kamēr brālis un māsa turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai, ja viņiem nav darbaspējīgu vecāku,
-g) par apgādībā esošu personu apgādājamiem,
-h) par personu, kuras labā pēc tiesas sprieduma no maksātāja tiek piedzīta uzturnauda (alimenti),
-i) par maksātāju aizbildnībā vai aizgādnībā esošu personu;
+g) par šā punkta "a", "b", "e", "f" un "i" apakšpunktā minēto personu, kā arī nestrādājošu laulāto apgādībā esošu nepilngadīgu bērnu;
+h) (izslēgts ar 30.11.2015. likumu),
+i) par maksātāju aizbildnībā vai aizgādnībā esošu personu,
+j) par laulāto, vecākiem, vecvecākiem un bērniem, kas sasnieguši 18 gadu vecumu, ja minētās personas nav strādājošas un saskaņā ar normatīvajiem aktiem ir atzītas par personām ar invaliditāti;
 2) (izslēgts ar 14.11.2008. likumu);
 3) (izslēgts ar 14.11.2008. likumu);
-4) personām, kuras saskaņā ar likumiem ir atzītas par invalīdiem vai politiski represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību nosaka Ministru kabinets.
+4) personām, kuras saskaņā ar normatīvajiem aktiem ir atzītas par personām ar invaliditāti vai politiski represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību nosaka Ministru kabinets.
 1.¹ (Izslēgta ar 14.11.2008. likumu.)
 1.² Šā panta pirmās daļas 1.punktā minēto nodokļa atvieglojumu gadam veido visu gada mēnešu nodokļa atvieglojumu summa.
 2. Ja šā panta pirmajā daļā minētās personas gūst ienākumus, maksātājs tos uzrāda savā deklarācijā, izņemot šā panta trešajā, piektajā un sestajā daļā paredzētos gadījumus.

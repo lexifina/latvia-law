@@ -1,0 +1,1 @@
+122. Vispārējās, profesionālās, augstākās vai speciālās izglītības iestādes šā likuma 19.panta 10.² daļā minēto informāciju par 2015. taksācijas gadu iesniedz Valsts ieņēmumu dienestam līdz 2016.gada 1.februārim.

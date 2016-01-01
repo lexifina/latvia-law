@@ -1,0 +1,1 @@
+121. Šā likuma 19.panta 10.¹ daļu piemēro, sākot ar 2017.gada 1.janvāri. Izglītības un zinātnes ministrija šā likuma 19.panta 10.¹ daļā minēto informāciju par 2016. taksācijas gadu iesniedz Valsts ieņēmumu dienestam līdz 2017.gada 1.februārim.
