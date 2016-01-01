@@ -1,0 +1,1 @@
+56. Šā likuma 5.panta 3.² daļa, grozījums 5.pantā par sestās daļas izslēgšanu, 6.panta deviņpadsmitā daļa, 20.¹ panta 1.¹ un 2.¹ daļa, 20.³ pants, 23.panta 1.³ daļa, pārejas noteikumu 53., 54. un 55.punkts stājas spēkā 2017.gada 1.janvārī.
