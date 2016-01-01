@@ -1,0 +1,1 @@
+12.¹ Pārejas noteikumu 12.punktā noteikto zaudējumu kompensēšanas kārtību 2016.gadā piemēro, ievērojot nosacījumu, ka 2016.gadā nekompensē zaudējumus, kas radušies, sniedzot abonēto preses izdevumu piegādes pakalpojumus 2016.gada pirmajā pusgadā. Minētos zaudējumus kompensē 2017.gadā pēc auditētā ziņojuma iesniegšanas Satiksmes ministrijai.
