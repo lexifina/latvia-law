@@ -16,5 +16,5 @@ Likumā ir lietoti šādi termini:
 13) vecāku nolaidība - bērna aprūpes un uzraudzības pienākumu nepildīšana;
 14) ielas bērni - bērni, kuriem ir nepietiekama saikne ar ģimeni un kuri lielāko daļu laika pavada uz ielas vai citos bērna attīstībai nepiemērotos apstākļos;
 15) viesģimene - laulātie vai persona, kas uz laiku uzņem savā dzīvesvietā bērnu aprūpes iestādē ievietotu bērnu vai bērnu aprūpes iestādē kontaktējas ar tur ievietotu bērnu;
-16) daudzbērnu ģimene - ģimene, kura aprūpē trīs vai vairāk bērnus, tai skaitā audžuģimenē ievietotus un aizbildnībā esošus bērnus;
+16) daudzbērnu ģimene - ģimene, kuras aprūpē ir vismaz trīs bērni, to skaitā audžuģimenē ievietoti un aizbildnībā esoši bērni. Par daudzbērnu ģimenes bērnu uzskatāma arī pilngadīga persona, kas nav sasniegusi 24 gadu vecumu, ja tā iegūst vispārējo, profesionālo vai augstāko izglītību;
 17) bērnu uzraudzības pakalpojums - kvalificēts uzraudzības un aprūpes pakalpojums, kura mērķis ir nodrošināt bērna atrašanos pieaugušā klātbūtnē un drošu, saturīgu un lietderīgu dienas organizēšanu bērnam, sekmējot bērna vispusīgu attīstību.
