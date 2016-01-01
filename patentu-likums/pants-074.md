@@ -1,3 +1,3 @@
 74.pants. Eiropas patenta pieteikuma konversija (pārveide) nacionālajā patenta pieteikumā
 (1) Eiropas patenta pieteikumu, kurā ir prasīta aizsardzība Latvijā, var konvertēt (pārveidot) nacionālajā pieteikumā, ja Eiropas patenta pieteikums tiek uzskatīts par atsauktu saskaņā ar Eiropas patentu konvencijas 77.panta trešo daļu vai ja pieteikuma tulkojums, ievērojot Eiropas patentu konvencijas 14.panta otro daļu, nav iesniegts noteiktajā laikā saskaņā ar Eiropas patentu konvencijas 90.panta trešo daļu.
-(2) Pieteicējs triju mēnešu laikā samaksā valsts nodevu par patenta pieteikuma konversiju (pārveidi) un iesniedz Patentu valdei pieteikuma tulkojumu latviešu valodā.
+(2) Pieteicējs triju mēnešu laikā samaksā maksu par patenta pieteikuma konversiju (pārveidi) un iesniedz Patentu valdei pieteikuma tulkojumu latviešu valodā.

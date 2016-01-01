@@ -1,5 +1,5 @@
 76.pants. Papildu aizsardzības sertifikāta piešķiršanas noteikumi
-(1) Ja patents aizsargā zāles, papildu aizsardzības sertifikātu piešķir saskaņā ar Padomes 1992.gada 18.jūnija regulu (EEK) Nr. 1768/92 par papildu aizsardzības sertifikāta izstrādi zālēm.
+(1) Ja patents aizsargā zāles, papildu aizsardzības sertifikātu piešķir saskaņā ar Eiropas Parlamenta un Padomes 2009.gada 6.maija regulu (EK) Nr. 469/2009 par papildu aizsardzības sertifikātu zālēm.
 (2) Ja patents aizsargā augu aizsardzības līdzekli, papildu aizsardzības sertifikātu piešķir saskaņā ar Eiropas Parlamenta un Padomes 1996.gada 23.jūlija regulu (EK) Nr. 1610/96 par papildu aizsardzības sertifikāta ieviešanu attiecībā uz augu aizsardzības līdzekļiem.
-(3) Persona, kas vēlas iegūt papildu aizsardzības sertifikātu, iesniedz attiecīgu pieteikumu Patentu valdei. Pieteicējs maksā valsts nodevu par pieteikumu. Pieteikumam piemēro šā likuma 13.panta ceturtās un piektās daļas un 32.panta nosacījumus.
-(4) Par papildu aizsardzības sertifikāta uzturēšanu spēkā maksājama ikgadēja valsts nodeva. Šajā gadījumā piemēro šā likuma 43.panta nosacījumus. Ja papildu aizsardzības sertifikāta darbības pēdējais gads nav pilns, nodeva par to maksājama kā par pilnu gadu.
+(3) Persona, kas vēlas iegūt papildu aizsardzības sertifikātu, iesniedz attiecīgu pieteikumu Patentu valdei. Pieteicējs maksā maksu par pieteikumu. Pieteikumam piemēro šā likuma 13.panta ceturtās un piektās daļas nosacījumus.
+(4) Par papildu aizsardzības sertifikāta uzturēšanu spēkā maksājama ikgadēja maksa. Šajā gadījumā piemēro šā likuma 43.panta nosacījumus. Ja papildu aizsardzības sertifikāta darbības pēdējais gads nav pilns, maksa par to maksājama kā par pilnu gadu.

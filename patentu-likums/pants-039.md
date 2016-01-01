@@ -1,2 +1,2 @@
-39.pants. Apelācijas iesniegšana
-Ja pieteicējs vai cits Patentu valdes lēmuma adresāts (patenta īpašnieks, bijušais īpašnieks, īpašumtiesību pārņēmējs, licenciāts) pilnībā vai daļēji nepiekrīt patenta pieteikuma izskatīšanas rezultātiem vai Patentu valdes lēmumam, kas pieņemts citā ar patenta piešķiršanu saistītā procedūras posmā, viņš ir tiesīgs triju mēnešu laikā pēc lēmuma saņemšanas dienas, samaksājot attiecīgu valsts nodevu, iesniegt Patentu valdei motivētu rakstveida apelāciju. Apelācijas iesniegšana aptur Patentu valdes lēmuma izpildi.
+39.pants. Apelācijas iesniegums par Patentu valdes lēmumu
+Ja pieteicējs vai cits Patentu valdes lēmuma adresāts (patenta īpašnieks, bijušais īpašnieks, īpašumtiesību pārņēmējs, licenciāts) pilnībā vai daļēji nepiekrīt pieņemtajam Patentu valdes lēmumam, viņš ir tiesīgs iesniegt apelācijas iesniegumu saskaņā ar Rūpnieciskā īpašuma institūciju un procedūru likumu.

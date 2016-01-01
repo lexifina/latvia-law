@@ -11,6 +11,6 @@ Likumā ir lietoti šādi termini:
 9) Eiropas patenta pieteikums - patenta pieteikums, kas iesniegts saskaņā ar Eiropas patentu konvenciju;
 10) Eiropas patents - saskaņā ar Eiropas patentu konvenciju uz Eiropas patenta pieteikuma pamata Eiropas patentu iestādes piešķirts patents;
 11) bioloģisks materiāls - materiāls, kas satur ģenētisku informāciju un ir spējīgs pats vairoties vai ko var pavairot bioloģiskā sistēmā;
-12) biotehnoloģiskie izgudrojumi - izgudrojumi, kas attiecas uz produktiem, kuri sastāv no bioloģiska materiāla vai satur bioloģisku materiālu, vai uz paņēmieniem, ar kuriem bioloģisks materiāls tiek iegūts, apstrādāts vai lietots;
+12) biotehnoloģisks izgudrojums - izgudrojums, kas attiecas uz produktiem, kuri sastāv no bioloģiska materiāla vai satur bioloģisku materiālu, vai uz paņēmieniem, ar kuriem bioloģisks materiāls tiek iegūts, apstrādāts vai lietots;
 13) mikrobioloģisks paņēmiens - paņēmiens, kurā iesaistīts vai kura rezultātā rodas mikrobioloģisks materiāls, vai kurš veikts ar mikrobioloģisku materiālu;
-14) bioloģisks paņēmiens - augu vai dzīvnieku iegūšanas paņēmiens, kas pilnībā sastāv no dabīgām norisēm, tādām kā krustošana vai selekcija.
+14) bioloģisks paņēmiens - augu vai dzīvnieku iegūšanas paņēmiens, kas pilnībā sastāv no dabīgām norisēm, tādām kā krustošana vai atlase.

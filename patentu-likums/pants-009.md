@@ -6,4 +6,5 @@
 3) plānus, intelektuālās darbības, komercdarbības vai spēļu noteikumus un paņēmienus, kā arī datorprogrammas;
 4) informācijas sniegšanas paņēmienus.
 (3) Šā panta otrajā daļā minēto objektu patentēšana nav iespējama, ja tiek prasīta vienīgi pašu šo objektu patentaizsardzība.
-(4) Patentu nepiešķir izgudrojumiem, kuru publiskošana vai izmantošana ir pretrunā ar sabiedrisko kārtību vai sabiedrībā pieņemtajiem morāles principiem, tomēr lēmumu nepiešķirt patentu nedrīkst pieņemt, pamatojoties tikai uz faktu, ka šāda izmantošana aizliegta ar normatīvu vai administratīvu aktu.
+(4) Patentu nepiešķir izgudrojumiem, kuru izmantošana ir pretrunā ar sabiedrisko kārtību vai sabiedrībā pieņemtajiem morāles principiem, tomēr lēmumu nepiešķirt patentu nedrīkst pieņemt, pamatojoties tikai uz faktu, ka šāda izmantošana aizliegta ar normatīvu vai administratīvu aktu.
+(5) Patentu nepiešķir terapeitiskiem vai ķirurģiskiem ārstēšanas paņēmieniem, kurus lieto attiecībā uz cilvēka vai dzīvnieka ķermeni. Šis noteikums neattiecas uz ierīcēm un vielām vai to kompozīcijām, kuras izmanto, lietojot šos paņēmienus.
