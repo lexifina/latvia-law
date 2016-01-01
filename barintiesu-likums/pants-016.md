@@ -7,4 +7,5 @@ Bāriņtiesai ir šādas tiesības:
 5) iesniegt tiesā prasības pieteikumus un pieteikumus bērna vai aizgādnībā esošās personas interesēs, izņemot pieteikumus par rīcībspējas ierobežošanu un pārskatīšanu un pagaidu aizgādnības nodibināšanu, kā arī prasības pieteikumus par paternitātes pieņēmuma apstrīdēšanu;
 6) veikt pārrunas ar bērnu un aizgādnībā esošo personu bez citu personu klātbūtnes;
 7) lūgt psihologu veikt personas vai ģimenes psiholoģisko izpēti un saņemt psihologa atzinumu par izpētes rezultātiem;
-8) pārbaudīt bērna vai aizgādnībā esošās personas dzīves apstākļus.
+8) pārbaudīt bērna vai aizgādnībā esošās personas dzīves apstākļus;
+9) fotografēt, filmēt un iegūt skaņu ierakstus, ja bērna dzīves apstākļu pārbaudē atklājas, ka bērns atrodas dzīvībai un veselībai bīstamos apstākļos.
