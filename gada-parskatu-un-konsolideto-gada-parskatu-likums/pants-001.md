@@ -1,0 +1,41 @@
+1.pants. Likumā lietotie termini
+(1) Likumā ir lietoti šādi termini:
+1) asociētā sabiedrība - sabiedrība, kurā citai sabiedrībai ir kapitāla līdzdalība un kuras darbības un finanšu politika atrodas šīs citas sabiedrības būtiskā ietekmē, kas tiek nodrošināta ar ne mazāk par 20 un ne vairāk par 50 procentiem no akcionāru vai dalībnieku balsstiesībām;
+2) attīstības izmaksas - izmaksas, kuras tieši attiecināmas uz attīstības pasākumiem vai kuras var pamatoti saistīt ar šiem pasākumiem;
+3) bilances datums - pārskata gada pēdējā diena;
+4) bilances vērtība - summa, kādā aktīvs vai saistības norādītas bilancē;
+5) būtiska informācija - tāda informācija, par kuru ir pamats uzskatīt, ka tās neatklāšana vai nepareizs izklāsts finanšu pārskatos varētu mainīt vai ietekmēt lēmumu, kuru persona pieņem, pamatojoties uz šiem finanšu pārskatiem. Atsevišķā finanšu pārskatu postenī atklājamās informācijas būtiskumu izvērtē saistībā ar citiem līdzīgiem šo finanšu pārskatu posteņiem;
+6) finanšu aktīvi:
+a) nauda,
+b) citas sabiedrības kapitāla vērtspapīrs,
+c) līgumā noteiktās tiesības saņemt naudu vai citu finanšu aktīvu no citas personas vai savstarpēji apmainīt finanšu aktīvus vai finanšu saistības ar citu personu apstākļos, kas sabiedrībai ir potenciāli labvēlīgi,
+d) finanšu instruments, par kuru sabiedrība norēķināsies (vai var norēķināties) ar saviem kapitāla vērtspapīriem, ja tas ir neatvasināts un par to sabiedrībai ir (vai var būt) pienākums saņemt mainīgu skaitu savu kapitāla vērtspapīru vai ja tas ir atvasināts un par to sabiedrība norēķināsies (vai var norēķināties) citādi, nekā apmainot fiksētu naudas vai cita finanšu aktīva summu pret fiksētu skaitu savu kapitāla vērtspapīru. Piemērojot šo terminu, sabiedrība savos kapitāla vērtspapīros neietver finanšu instrumentus, kas ir vienošanās par sabiedrības savu kapitāla vērtspapīru saņemšanu vai to piegādi nākotnē;
+7) finanšu saistības:
+a) līgumā noteikts pienākums nodot naudu vai citu finanšu aktīvu citai personai vai savstarpēji apmainīt finanšu aktīvus vai finanšu saistības ar citu personu apstākļos, kas sabiedrībai ir potenciāli nelabvēlīgi,
+b) finanšu instruments, par kuru sabiedrība norēķināsies vai var norēķināties ar saviem kapitāla vērtspapīriem, ja tas ir neatvasināts un par to sabiedrībai ir (vai var būt) pienākums piegādāt mainīgu skaitu savu kapitāla vērtspapīru vai ja tas ir atvasināts un par to sabiedrība norēķināsies (vai var norēķināties) citādi, nekā apmainot fiksētu naudas vai cita finanšu aktīva summu pret fiksētu skaitu savu kapitāla vērtspapīru. Piemērojot šo terminu, sabiedrība savos kapitāla vērtspapīros neietver finanšu instrumentus, kas ir vienošanās par sabiedrības savu kapitāla vērtspapīru saņemšanu vai to piegādi nākotnē;
+8) grāmatvedības politika - attiecīgo saimniecisko darījumu, faktu un notikumu uzskaites un finanšu pārskata posteņu novērtēšanas un norādīšanas (finanšu pārskatā) principi, metodes un noteikumi (piemēram, pamatlīdzekļu novērtēšanas vai nolietojuma aprēķināšanas metodes, debitoru parādu vai krājumu atlikumu novērtēšanas metodes, aizņēmuma procentu un soda naudas uzskaites un norādīšanas principi, uzkrājumu veidošanas nosacījumi un metodes, kas tiek izmantotas peļņas vai zaudējumu, vai naudas plūsmas norādīšanai finanšu pārskatā);
+9) koncerna mātes sabiedrība - Latvijas Republikā reģistrēta komercsabiedrība vai kooperatīvā sabiedrība, Latvijas Republikā reģistrēta Eiropas ekonomisko interešu grupa, Eiropas kooperatīvā sabiedrība vai Eiropas komercsabiedrība, kura kontrolē vienu vai vairākas tās meitas sabiedrības šajā likumā noteiktajā kārtībā;
+10) koncerna meitas sabiedrība - Latvijas Republikā reģistrēta komercsabiedrība vai kooperatīvā sabiedrība, Latvijas Republikā reģistrēta Eiropas ekonomisko interešu grupa, Eiropas kooperatīvā sabiedrība vai Eiropas komercsabiedrība, kuru kontrolē tās mātes sabiedrība šajā likumā noteiktajā kārtībā. Par koncerna mātes sabiedrības meitas sabiedrību uzskata arī ikvienu šā koncerna meitas sabiedrības meitas sabiedrību;
+11) koncerns - sabiedrību kopums, kuru veido koncerna mātes sabiedrība un visas tās meitas sabiedrības;
+12) konsolidācija - koncerna sastāvā esošo sabiedrību gada pārskatu apvienošana šajā likumā noteiktajā kārtībā;
+13) konsolidētais gada pārskats - koncerna gada pārskats, kas šajā likumā noteiktajā kārtībā sagatavots kā vienas atsevišķas sabiedrības gada pārskats un sniedz informāciju par visu koncernu kopumā kā par vienu sabiedrību;
+14) mazākumakcionāri - koncerna meitas sabiedrības akcionāri vai dalībnieki, kas nav ne koncerna mātes sabiedrības akcionāri, dalībnieki vai biedri (turpmāk - akcionāri vai dalībnieki), ne arī citas konsolidācijā iesaistītās meitas sabiedrības;
+15) nemateriālie ieguldījumi - bezķermeniskas lietas, kas nav finanšu aktīvi un atbilst abiem šādiem klasifikācijas kritērijiem:
+a) tās iespējams nošķirt vai atdalīt no sabiedrības un pārdot, nodot, licencēt, iznomāt vai apmainīt (individuāli vai kopā ar citu saistību vai aktīvu) vai tās ir radušās no līguma vai citām tiesībām neatkarīgi no tā, vai šīs tiesības ir nododamas vai nošķiramas no sabiedrības vai no citām tiesībām un pienākumiem,
+b) tās sabiedrība paredz izmantot ilgāk par vienu gadu un sagaida, ka no šo lietu turēšanas tiks saņemti saimnieciskie labumi;
+16) notikums pēc bilances datuma - labvēlīgs notikums (piemēram, radusies vai paredzama peļņa, aktīvu vērtības pieaugums vai saistību summas samazinājums) vai nelabvēlīgs notikums (piemēram, radušās vai paredzamas izmaksas vai zaudējumi, aktīvu vērtības samazinājums vai saistību summas palielināšanās) laikposmā starp bilances datumu un gada pārskata parakstīšanas dienu;
+17) pamatlīdzekļi - kustamas vai nekustamas ķermeniskas lietas, kuras atbilst visiem šādiem klasifikācijas kritērijiem:
+a) tās sabiedrība tur kā īpašnieks vai kā nomnieks saskaņā ar finanšu nomu, lai izmantotu preču ražošanai, pakalpojumu sniegšanai, iznomāšanai vai administratīvā nolūkā (sabiedrības pārvaldes vajadzībām vai citām vajadzībām, piemēram, citu pamatlīdzekļu darbības uzturēšanai, sabiedrības pamatdarbībai būtisku darba drošības vai vides aizsardzības prasību izpildes nodrošināšanai),
+b) tās sabiedrība paredz izmantot ilgāk par vienu gadu un sagaida, ka no šo lietu turēšanas tiks saņemti saimnieciskie labumi,
+c) tās nav iegādātas un netiek turētas pārdošanai,
+d) to lietderīgās lietošanas laiks ir ilgāks nekā viens parastās darbības cikls;
+18) patiesā vērtība - summa, kādu saņemtu, pārdodot aktīvu, vai maksātu, izpildot saistības parastā darījumā starp tirgus dalībniekiem minētā aktīva vai saistību novērtēšanas datumā;
+19) pētniecības izmaksas - izmaksas, kuras ir tieši attiecināmas uz pētniecības pasākumiem, kā arī tādas izmaksas, kuras radušās konkrēta nemateriālo ieguldījumu objekta veidošanas projekta attīstības posmā, ja sabiedrība nevar nošķirt šā projekta pētniecības posmu no tā attīstības posma;
+20) pirkšanas cena - naudā vai tās ekvivalentos maksājamā summa vai preces vai pakalpojuma iegādei nodotās atlīdzības patiesā vērtība laikā, kad aktīvs tika iegādāts;
+21) vadība:
+a) kapitālsabiedrībā, kā arī kooperatīvajā sabiedrībā - valde un padome (ja ir izveidota padome),
+b) personālsabiedrībā - visi šīs sabiedrības biedri vai tie sabiedrības biedri, kuri ir pilnvaroti pārstāvēt šo sabiedrību,
+c) individuālajā uzņēmumā, zemnieka un zvejnieka saimniecībā - attiecīgi uzņēmuma vai saimniecības īpašnieks;
+22) vērtības samazinājuma korekcijas - korekcijas, kuras veic, lai norādītu aktīvu vērtības samazinājumu bilances datumā, neatkarīgi no tā, vai šis vērtības samazinājums ir vai nav galīgs. Ar vērtības samazinājuma korekcijām saprot arī pamatlīdzekļa ikgadējā nolietojuma aprēķināšanu un nemateriālo ieguldījumu ikgadējo vērtības norakstīšanu.
+(2) Likumā lietotie termini "finanšu instrumenti", "kapitāla vērtspapīri" un "pārvedami vērtspapīri" atbilst Finanšu instrumentu tirgus likumā lietotajiem terminiem.
+(3) Likumā lietotais termins "saistītās puses" atbilst Komisijas 2008.gada 3.novembra regulas (EK) Nr. 1126/2008, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002, pielikumā minētajam 24. SGS "Informācijas atklāšana par saistītajām pusēm" lietotajam terminam.

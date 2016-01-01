@@ -1,0 +1,5 @@
+25.pants. Krājumu novērtēšana
+(1) Krājumu iegādes izmaksas vai ražošanas pašizmaksu atļauts noteikt kā vidējo svērto cenu vai pēc metodes "Pirmais iekšā - pirmais ārā" (FIFO).
+(2) Metode "Pirmais iekšā - pirmais ārā" (FIFO) ir krājumu izlietojuma un atlikumu vērtības noteikšanas metode, kas pamatojas uz pieņēmumu, ka krājumu vienības, kuras iegādātas vai saražotas pirmās, tiek pārdotas vai izlietotas pirmās. Tādēļ tās krājumu vienības, kuras paliek atlikumā pārskata perioda beigās, ir tās, kuras iegādātas vai saražotas visvēlāk.
+(3) Vidējo svērto cenu metode ir krājumu izlietojuma un atlikumu vērtības noteikšanas metode, kuru piemērojot katras krājumu vienības izmaksas nosaka, pamatojoties uz līdzīgu krājumu vienību vidējām svērtajām izmaksām pārskata perioda sākumā un pārskata perioda laikā iegādāto vai saražoto līdzīgu krājumu vienību izmaksām.
+(4) Sabiedrība lieto vienu un to pašu krājumu izlietojuma un atlikumu vērtības noteikšanas metodi visiem līdzīga veida un lietojuma krājumiem.

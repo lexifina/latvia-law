@@ -1,0 +1,5 @@
+37.pants. Finanšu instrumentu vērtības noteikšanas metodes
+(1) Finanšu instrumentu novērtējumam patiesajā vērtībā šā likuma 35.pantā minētajos gadījumos jābūt ticamam. Novērtējums ir ticams, ja finanšu instrumenta patiesā vērtība noteikta, izmantojot vienu no šādām metodēm:
+1) finanšu instrumentiem, kuriem ir publicēti cenas kotējumi aktīvā publiskā vērtspapīru tirgū, - pamatojoties uz tirgus cenu. Ja finanšu instrumentam nav minētās tirgus cenas, bet šāda cena ir atsevišķām tā komponentēm vai līdzīgiem finanšu instrumentiem, šā instrumenta tirgus cenu var veidot, ņemot vērā tā komponenšu vai līdzīgo finanšu instrumentu tirgus cenu;
+2) finanšu instrumentiem, kuriem nav iespējams noteikt tirgus cenu, - pamatojoties uz vērtību, kas aprēķināta, izmantojot vispāratzītus un piemērotus novērtēšanas modeļus un metodes, ja aprēķinātā vērtība pieņemami parāda šo instrumentu iespējamo tirgus cenu.
+(2) Finanšu instrumentus, kuru patieso vērtību nevar ticami noteikt ar šā panta pirmajā daļā minētajām metodēm, novērtē šā likuma 14.panta pirmās daļas 10.punktā noteiktajā kārtībā, ciktāl šāds novērtējums ir iespējams.

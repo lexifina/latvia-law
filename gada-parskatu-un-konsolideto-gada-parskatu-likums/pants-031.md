@@ -1,0 +1,3 @@
+31.pants. Nemateriālo ieguldījumu posteņu vērtības norakstīšana
+(1) Nemateriālo ieguldījumu objekta sākotnējo vērtību noraksta, veicot šā likuma 23.panta pirmajā daļā minētās vērtības samazinājuma korekcijas - nemateriālo ieguldījumu ikgadējo vērtības norakstīšanu šā objekta lietderīgās lietošanas laikā.
+(2) Izņēmuma gadījumā, ja nemateriālās vērtības vai attīstības izmaksu objekta lietderīgās lietošanas laiku nav iespējams ticami aplēst, to sākotnējo vērtību noraksta pakāpeniski, sadalot pa gadiem laikposmā, kas nav ilgāks par 10 gadiem. Katru šādu izņēmuma gadījumu paskaidro finanšu pārskata pielikumā, norādot laikposma ilgumu, kurā paredzēts norakstīt attiecīgā posteņa sākotnējo vērtību.

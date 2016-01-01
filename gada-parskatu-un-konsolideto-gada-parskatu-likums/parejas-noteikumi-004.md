@@ -1,0 +1,1 @@
+4. Sabiedrībām, kuras saistībā ar darbības izbeigšanu 2016.gadā sagatavo gada pārskatu par laikposmu, kas ir īsāks par 12 mēnešiem, atļauts līdz 2016.gada 31.decembrim piemērot Gada pārskatu likuma normas.

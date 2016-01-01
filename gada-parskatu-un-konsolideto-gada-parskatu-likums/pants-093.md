@@ -1,0 +1,3 @@
+93.pants. Informācijas sniegšana zvērinātam revidentam
+(1) Šā likuma 91. un 92.pantā minētās sabiedrības vadība iesniedz zvērinātam revidentam saskaņā ar šā likuma 95.panta prasībām parakstītu gada pārskatu un konsolidēto gada pārskatu (ja tāds jāsagatavo).
+(2) Ja gada pārskatā vai konsolidētajā gada pārskatā pēc tā iesniegšanas zvērinātam revidentam, bet pirms datuma, kad zvērināts revidents parakstījis revidenta ziņojumu vai revidenta pārbaudes ziņojumu, šā likuma 91. un 92.pantā minētā sabiedrība izdara labojumu, šīs sabiedrības vadība par šo faktu nekavējoties informē zvērinātu revidentu un iesniedz viņam precizētu un atbilstoši parakstītu gada pārskatu vai konsolidēto gada pārskatu.

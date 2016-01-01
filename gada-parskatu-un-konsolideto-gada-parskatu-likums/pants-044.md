@@ -1,0 +1,4 @@
+44.pants. Ārkārtas dividendes
+(1) Ja sabiedrība pārskata gadā ir aprēķinājusi ārkārtas dividendes Komerclikuma izpratnē, tad aprēķināto ārkārtas dividenžu summu pārskata gada beigās norāda peļņas vai zaudējumu aprēķina posteņos saskaņā ar šā panta otro vai trešo daļu.
+(2) Ja postenī "Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas" norādītā peļņas summa ir vienāda ar pārskata gadā aprēķināto ārkārtas dividenžu summu vai lielāka par to, tad minēto dividenžu summu norāda postenī "Ārkārtas dividendes".
+(3) Ja postenī "Peļņa vai zaudējumi pēc uzņēmumu ienākuma nodokļa aprēķināšanas" norādītā peļņas summa ir mazāka par pārskata gadā aprēķināto ārkārtas dividenžu summu, kā arī tad, ja šajā postenī norādīti zaudējumi, ārkārtas dividenžu summas pārsnieguma daļu pār minēto peļņas summu, bet zaudējumu gadījumā - visu aprēķināto ārkārtas dividenžu summu norāda postenī "Pārējās saimnieciskās darbības izmaksas".

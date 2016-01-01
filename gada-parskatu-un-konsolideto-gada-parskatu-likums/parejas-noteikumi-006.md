@@ -1,0 +1,1 @@
+6. Noteikumus, kas nepieciešami, lai atbilstoši šā likuma 97.panta trešajai daļai apstiprinātu formu, kādā sabiedrība sagatavo finanšu pārskata vai konsolidētā finanšu pārskata elektronisku norakstu iesniegšanai Valsts ieņēmumu dienestam Elektroniskajā deklarēšanas sistēmā, Ministru kabinets izdod ne vēlāk kā līdz 2016.gada 1.jūlijam.

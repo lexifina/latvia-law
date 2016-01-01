@@ -1,0 +1,3 @@
+82.pants. Konsolidētā gada pārskata bilances datums
+(1) Konsolidētā gada pārskata, koncerna mātes sabiedrības gada pārskata un konsolidācijā iesaistīto meitas sabiedrību gada pārskatu bilances datumam jābūt vienādam, un tā ir diena, kad sagatavots mātes sabiedrības gada pārskats.
+(2) Ja konsolidācijā iesaistītās koncerna meitas sabiedrības gada pārskata bilances datums atšķiras no mātes sabiedrības gada pārskata bilances datuma par trim mēnešiem un vairāk, šādu meitas sabiedrību iesaista konsolidācijā, pamatojoties uz konsolidācijai sagatavotajiem (nerevidētajiem) finanšu pārskatiem, kuru bilances datums atbilst konsolidētā gada pārskata bilances datumam.

@@ -1,0 +1,6 @@
+7.pants. Īpaši noteikumi par kritērijiem
+(1) Kritērijs "Bilances kopsumma" ir šā likuma 1.pielikumā norādītās bilances shēmas visu aktīva posteņu kopsumma.
+(2) Kritērijs "Neto apgrozījums" ir šā likuma 2. vai 3.pielikumā norādītās peļņas vai zaudējumu aprēķina shēmas postenī "Neto apgrozījums" norādītā ieņēmumu summa.
+(3) Izņēmuma gadījumā, ja sabiedrībai peļņas vai zaudējumu aprēķina postenī "Neto apgrozījums" nav summas vai ja tā ir nenozīmīga, bet citos peļņas vai zaudējumu aprēķina posteņos iekļautās ieņēmumu summas ir nozīmīgas, kritērija "Neto apgrozījums" vietā izmanto kritēriju "Ieņēmumu kopsumma", kuru aprēķina, ņemot vērā arī tās ieņēmumu summas, kuras norādītas visos pārējos peļņas vai zaudējumu aprēķina posteņos.
+(4) Vidējo darbinieku skaitu aprēķina, saskaitot sabiedrībā (koncernam - konsolidācijā iesaistāmajās sabiedrībās) strādājošos darbiniekus pārskata gada katra mēneša pēdējā datumā un summu dalot ar mēnešu skaitu pārskata gadā.
+(5) Lai noteiktu koncerna kategoriju gadījumā, kad netiek veikta šā likuma 73.panta pirmās daļas 3. un 4.punktā minētā izslēgšana, šā likuma 6.panta otrajā un trešajā daļā minēto kritēriju "Bilances kopsumma" un "Neto apgrozījuma kopsumma" robežvērtības palielina par 20 procentiem.

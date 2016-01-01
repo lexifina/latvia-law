@@ -1,0 +1,4 @@
+3. Gada pārskatiem un konsolidētajiem gada pārskatiem, kuri sagatavoti par 2015. pārskata gadu, tiek piemērotas attiecīgi Gada pārskatu likuma un Konsolidēto gada pārskatu likuma normas un uz šo likumu pamata izdotie Ministru kabineta noteikumi:
+1) Ministru kabineta 2011.gada 21.jūnija noteikumi Nr.488 "Gada pārskatu likuma piemērošanas noteikumi";
+2) Ministru kabineta 2011.gada 21.jūnija noteikumi Nr.481 "Noteikumi par naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata saturu un sagatavošanas kārtību";
+3) Ministru kabineta 2004.gada 15.jūnija noteikumi Nr.537 "Kārtība, kādā finanšu pārskatos atspoguļojams valsts, pašvaldību, ārvalstu, Eiropas Kopienas, citu starptautisko organizāciju un institūciju finansiālais atbalsts (finanšu palīdzība), ziedojumi un dāvinājumi naudā vai natūrā".

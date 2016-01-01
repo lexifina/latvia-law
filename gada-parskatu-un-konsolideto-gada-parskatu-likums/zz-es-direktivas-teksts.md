@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2013.gada 26.jūnija direktīvas 2013/34/ES par noteiktu veidu uzņēmumu gada finanšu pārskatiem, konsolidētajiem finanšu pārskatiem un saistītiem ziņojumiem, ar ko groza Eiropas Parlamenta un Padomes direktīvu 2006/43/EK un atceļ Padomes direktīvas 78/660/EEK un 83/349/EEK (Dokuments attiecas uz EEZ).

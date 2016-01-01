@@ -1,0 +1,3 @@
+39.pants. Finanšu instrumentu patiesās vērtības rezerves samazināšanas nosacījumi
+(1) Finanšu instrumentu patiesās vērtības rezervi, kas norādīta bilances postenī "Finanšu instrumentu patiesās vērtības rezerve", samazina, iekļaujot peļņas vai zaudējumu aprēķinā tajā pašā pārskata gadā, kurā attiecīgais finanšu instruments tiek pārdots, dzēsts vai citā veidā atsavināts vai arī kurā samazinājusies finanšu aktīva vērtība.
+(2) Finanšu instrumentu patiesās vērtības rezervi samazina tikai šā panta pirmajā daļā noteiktajos gadījumos. Finanšu instrumentu patiesās vērtības rezervi nedrīkst izmaksāt, sadalīt dividendēs vai izlietot zaudējumu segšanai, pamatkapitāla palielināšanai, citu rezervju veidošanai vai citiem mērķiem.

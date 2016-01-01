@@ -1,0 +1,8 @@
+76.pants. Pašu kapitāla konsolidācija
+(1) Šā likuma 73.panta pirmās daļas 3.punktā minēto pašu kapitāla konsolidāciju veic, pamatojoties uz konsolidācijā iesaistīto meitas sabiedrību akciju vai daļu bilances vērtību datumā, kas atbilst vienam no šādiem nosacījumiem:
+1) tas ir datums, kad meitas sabiedrība pirmo reizi tika iesaistīta konsolidācijā;
+2) tas ir meitas sabiedrības akciju vai daļu iegādes (pirkšanas) datums;
+3) tas ir datums, ar kuru sabiedrība ir kļuvusi par koncerna meitas sabiedrību, ja šīs sabiedrības akcijas vai daļas ir iegādātas (pirktas) dažādos datumos. Konsolidētā finanšu pārskata pielikumā norāda vērtības noteikšanas datumu.
+(2) Pašu kapitāla konsolidācijas rezultātā radušos starpību attiecina uz konsolidētās bilances posteņu vērtību, to attiecīgi palielinot vai samazinot, ja šo posteņu vērtība ir augstāka vai zemāka par konsolidācijā iesaistītās meitas sabiedrības bilancē sākotnēji norādīto uzskaites vērtību. Ja nav iespējams minēto starpību pilnībā attiecināt uz konsolidētās bilances posteņiem, jebkuru atlikušo pozitīvo summu norāda postenī "Nemateriālā vērtība" šīs bilances aktīvā. Atlikušo negatīvo starpību nekavējoties iekļauj konsolidētajā peļņas vai zaudējumu aprēķinā.
+(3) Konsolidētā finanšu pārskata pielikumā sniedz informāciju par izmantotajām metodēm, postenī "Nemateriālā vērtība" ietverto summu un tās izmaiņām salīdzinājumā ar iepriekšējo pārskata gadu.
+(4) Šajā pantā noteikto kārtību nepiemēro koncerna mātes sabiedrības akcijām vai daļām, kas ir šīs mātes sabiedrības vai kādas konsolidācijā iesaistītās meitas sabiedrības īpašumā. Konsolidētajā bilancē šādas akcijas un daļas norāda postenī "Pašu akcijas un daļas".

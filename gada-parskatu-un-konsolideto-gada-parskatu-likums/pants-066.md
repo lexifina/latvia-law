@@ -1,0 +1,2 @@
+66.pants. Atbrīvojums no pienākuma sagatavot konsolidēto gada pārskatu koncerna mātes sabiedrībai, kurai ir tikai tādas meitas sabiedrības, par kurām informācija nav būtiska
+Šā likuma 61.pantā minētā koncerna mātes sabiedrība ir atbrīvota no pienākuma sagatavot konsolidēto gada pārskatu, ja tai ir tikai tādas meitas sabiedrības, par kurām informācija (vērtējot gan katru meitas sabiedrību atsevišķi, gan visas meitas sabiedrības kā kopumu) nav būtiska.

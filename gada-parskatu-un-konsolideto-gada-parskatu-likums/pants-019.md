@@ -1,0 +1,3 @@
+19.pants. Nekustamā īpašuma objekti un akciju (daļu) emisijas uzcenojums
+(1) Sabiedrība iegūtos nekustamā īpašuma objektus (zemesgabali, ēkas, inženierbūves, telpu grupas un minēto objektu domājamās daļas) norāda bilances postenī "Zemesgabali, ēkas un inženierbūves".
+(2) Ja jaunās emisijas akcijas vai daļas pārdotas par summu, kas ir lielāka par to nominālvērtību, starpību norāda bilances pasīva iedaļas "Pašu kapitāls" postenī "Akciju (daļu) emisijas uzcenojums". Ja jaunās emisijas akcijas vai daļas pārdotas par summu, kas ir mazāka par to nominālvērtību, starpību norāda šajā pašā postenī kā negatīvu skaitli.

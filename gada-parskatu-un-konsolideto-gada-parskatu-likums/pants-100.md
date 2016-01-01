@@ -1,0 +1,3 @@
+100.pants. Par gada pārskata un konsolidētā gada pārskata sagatavošanu, revīziju (pārbaudi) un iesniegšanu atbildīgā persona
+(1) Par gada pārskata un attiecīgā gadījumā - konsolidētā gada pārskata sagatavošanu un atbilstību šā likuma noteikumiem vai šajā likumā noteiktajos gadījumos - atbilstību starptautiskajiem grāmatvedības standartiem, pakļaušanu revīzijai (pārbaudei) vai ierobežotai pārbaudei, kā arī par tā iesniegšanu šā likuma 97.pantā noteiktajā kārtībā ir atbildīga sabiedrības vadība.
+(2) Ja sabiedrības vadība nav iesniegusi dokumentus saskaņā ar šā likuma 97.panta prasībām, Valsts ieņēmumu dienesta amatpersona piemēro administratīvo sodu par gada pārskatu vai konsolidēto gada pārskatu iesniegšanas noteikumu neievērošanu.

@@ -1,0 +1,3 @@
+34.pants. Ilgtermiņa ieguldījumu pārvērtēšanas rezerves samazināšanas nosacījumi
+(1) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina, ja pārvērtētais pamatlīdzekļu objekts ir atsavināts, likvidēts vai tā vērtības palielināšanai vairs nav pamata vai ja veic pārvērtētā pamatlīdzekļu objekta ikgadējo nolietojuma aprēķināšanu. Pārvērtēšanas rezerves samazinājumu ietver peļņas vai zaudējumu aprēķinā kā ieņēmumus tajā pārskata gadā, kurā šāds samazinājums veikts.
+(2) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina tikai šā panta pirmajā daļā noteiktajos gadījumos. Ilgtermiņa ieguldījumu pārvērtēšanas rezervi nedrīkst izmaksāt, sadalīt dividendēs vai izlietot zaudējumu segšanai, pamatkapitāla palielināšanai, citu rezervju veidošanai vai citiem mērķiem.

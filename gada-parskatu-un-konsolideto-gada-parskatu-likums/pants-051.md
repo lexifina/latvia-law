@@ -1,0 +1,2 @@
+51.pants. Finanšu pārskata pielikuma sagatavošanas vispārīgie nosacījumi
+Finanšu pārskata pielikumā sniedz šajā nodaļā attiecīgajai sabiedrību kategorijai noteikto informāciju. Ja uz konkrētu sabiedrību attiecas šā likuma 10., 11., 12., 13., 14., 23., 27. vai 28.pantā minētais gadījums, finanšu pārskata pielikumā sniedz attiecīgo papildu informāciju (skaidrojumu, detalizāciju vai pamatojumu). Informāciju sniedz tādā secībā, kādā posteņi norādīti attiecīgajās finanšu pārskata sastāvdaļās.

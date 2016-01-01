@@ -1,0 +1,2 @@
+30.pants. Attīstības izmaksu kapitalizēšana un peļņas sadales ierobežojums
+Attīstības izmaksas var iekļaut bilancē (kapitalizēt) ar nosacījumu, ka tikmēr, kamēr attīstības izmaksu objekta sākotnējā vērtība nav pilnībā norakstīta, peļņas sadale nenotiek, ja vien sadalei pieejamo rezervju un iepriekšējo gadu nesadalītās peļņas summa nav vismaz vienāda ar attīstības izmaksu sākotnējās vērtības nenorakstīto summu.

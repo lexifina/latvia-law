@@ -1,0 +1,2 @@
+21.pants. Ārvalstu valūtās izteiktie posteņi
+Ārvalstu valūtas naudas atlikumus (piemēram, skaidru naudu sabiedrības kasē, bezskaidru naudu maksājuma kontos vai pieprasījuma noguldījuma kontos), ārvalstu valūtas termiņnoguldījumu atlikumus un ārvalstu valūtās izteikto avansu, aizdevumu vai aizņēmumu atlikumus, kā arī citus debitoru vai kreditoru parādu atlikumus, kas saņemami vai maksājami ārvalstu valūtās, bilancē norāda, tos pārrēķinot euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā bilances datumā (dienas beigās).
