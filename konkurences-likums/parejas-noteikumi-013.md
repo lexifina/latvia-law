@@ -1,0 +1,1 @@
+13. Līdz 2015.gada 31.decembrim izdarītie pārkāpumi, ļaunprātīgi izmantojot dominējošo stāvokli mazumtirdzniecībā, izskatāmi šajā likumā noteiktajā kārtībā saskaņā ar tiem normatīvo aktu noteikumiem par naudas soda piemērošanu, kuri bija spēkā līdz 2015.gada 31.decembrim.
