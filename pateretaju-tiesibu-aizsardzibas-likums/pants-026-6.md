@@ -1,0 +1,5 @@
+26.⁶ pants. Izdevumi, kas saistīti ar strīdu izskatīšanu un Komisijas darbību
+(1) Strīda risināšana Komisijā strīda pusēm ir bez maksas.
+(2) Komisijas priekšsēdētājs saņem atlīdzību par dalību Komisijā. Atlīdzības par Komisijas priekšsēdētāja dalību Komisijas sēdē apmēru un šīs atlīdzības izmaksas kārtību nosaka Ministru kabinets.
+(3) Par līdzdalību patērētāju strīdu risināšanā un patērētāju ārpustiesas strīdu risināšanas mehānismu izmantošanas veicināšanu šā likuma 22.pantā minētās patērētāju tiesību aizsardzības biedrības var tikt finansētas no Patērētāju tiesību aizsardzības centram kārtējā gadā šim mērķim piešķirtajiem valsts budžeta līdzekļiem. Nosacījumus finansējuma piešķiršanai par līdzdalību patērētāju strīdu risināšanā un patērētāju ārpustiesas strīdu risināšanas mehānismu izmantošanas veicināšanu, kā arī šā finansējuma izlietošanas uzraudzības kārtību nosaka Ministru kabinets.
+(4) Izdevumi, kas saistīti ar Komisijas darbību, tiek segti no Patērētāju tiesību aizsardzības centra budžetā šim mērķim paredzētajiem līdzekļiem.
