@@ -7,4 +7,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 6) Eiropas Parlamenta un Padomes 2006.gada 17.maija direktīvas 2006/43/EK, ar ko paredz gada pārskatu un konsolidēto pārskatu obligātās revīzijas, groza Padomes direktīvu 78/660/EEK un Padomes direktīvu 83/349/EEK un atceļ Padomes direktīvu 84/253/EEK;
 7) Eiropas Parlamenta un Padomes 2007.gada 13.novembra direktīva 2007/64/EK par maksājumu pakalpojumiem iekšējā tirgū, ar ko groza direktīvas 97/7/EK, 2002/65/EK, 2005/60/EK un 2006/48/EK un atceļ direktīvu 97/5/EK;
 8) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/110/EK par elektroniskās naudas iestāžu darbības sākšanu, veikšanu un konsultatīvu uzraudzību, par grozījumiem direktīvā 2005/60/EK un direktīvā 2006/48/EK un par direktīvas 2000/46/EK atcelšanu (dokuments attiecas uz EEZ);
-9) Eiropas Parlamenta un Padomes 2006.gada 12.decembra direktīvas 2006/123/EK par pakalpojumiem iekšējā tirgū.
+9) Eiropas Parlamenta un Padomes 2006.gada 12.decembra direktīvas 2006/123/EK par pakalpojumiem iekšējā tirgū;
+10) Eiropas Parlamenta un Padomes 2013.gada 26.jūnija direktīvas 2013/34/ES par noteiktu veidu uzņēmumu gada finanšu pārskatiem, konsolidētajiem finanšu pārskatiem un saistītiem ziņojumiem, ar ko groza Eiropas Parlamenta un Padomes direktīvu 2006/43/EK un atceļ Padomes direktīvas 78/660/EEK un 83/349/EEK (Dokuments attiecas uz EEK).

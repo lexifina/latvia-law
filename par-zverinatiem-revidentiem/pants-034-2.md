@@ -1,0 +1,2 @@
+34.² pants. Precizēto gada pārskatu un konsolidēto gada pārskatu revīzija (pārbaude)
+Ja klients pirms datuma, kad atbildīgais zvērināts revidents paraksta revidenta ziņojumu vai pārbaudes ziņojumu, iesniedz precizētu gada pārskatu vai konsolidēto gada pārskatu, zvērināts revidents to revidē (pārbauda) atkārtoti tieši attiecībā uz izdarītajiem grozījumiem. Zvērināts revidents gada pārskata vai konsolidētā gada pārskata atkārtotas revīzijas (pārbaudes) faktu norāda revidenta ziņojumā.

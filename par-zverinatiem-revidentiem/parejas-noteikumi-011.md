@@ -1,0 +1,1 @@
+11. Šā likuma 28.¹ pantā paredzēto gada pārskata ierobežoto pārbaudi zvērināts revidents un zvērinātu revidentu komercsabiedrība veic gada pārskatiem, sākot ar 2016. pārskata gadu (pārskata gadu, kurš sākas 2016.gada 1.janvārī vai 2016. kalendāra gada laikā).

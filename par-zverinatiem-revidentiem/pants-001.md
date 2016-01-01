@@ -7,22 +7,26 @@
 5) lietpratēja uzdevums - grāmatvedības reģistru kārtošana, finanšu pārskatu analīze un maksātspējas noteikšana, konsultācijas grāmatvedības, nodokļu, iekšējās kontroles un citos jautājumos, kā arī citu ar grāmatvedību un revīziju saistītu pakalpojumu sniegšana;
 6) pašnodarbināta persona - fiziskā persona, kas darba ienākumus gūst patstāvīgi, neiesaistoties darba līguma attiecībās ar darba devēju kā algots darbinieks, un neieņem amatu, kas dod tiesības uz atlīdzību. Fiziskā persona, kas ir personālsabiedrības biedrs (dalībnieks) un darba ienākumus gūst saskaņā ar šīs personālsabiedrības un revīzijas, lietpratēja vai uzticības uzdevuma devēja noslēgto līgumu, arī uzskatāma par pašnodarbinātu personu;
 7) revidenta ziņojums - zvērināta revidenta sagatavots dokuments, kurā ietverts:
-a) ievads, kurā identificēti revidētie finanšu pārskati un iekļautas ziņas par klienta un zvērināta revidenta atbildību,
+a) ievads, kurā identificēti revidētie finanšu pārskati un to sagatavošanā izmantotie normatīvie akti, kā arī iekļautas ziņas par klienta un zvērināta revidenta atbildību,
 b) veiktā revīzijas darba apjoma apraksts un atsauce uz revīzijā ievērotajiem revīzijas standartiem,
 c) zvērināta revidenta atzinums vai atteikums sniegt atzinumu,
 d) norādījums uz visiem apstākļiem, kuriem zvērināts revidents vēlas pievērst uzmanību,
-e) zvērināta revidenta viedoklis par to, vai vadības ziņojums atbilst finanšu pārskatiem, bet attiecīgos gadījumos - vai konsolidētais ziņojums atbilst konsolidētajiem finanšu pārskatiem;
+e) zvērināta revidenta viedoklis par to, vai vadības ziņojums atbilst finanšu pārskatam, bet attiecīgos gadījumos - vai konsolidētais ziņojums atbilst konsolidētajam finanšu pārskatam un vai minētais ziņojums ir sagatavots saskaņā ar tā sagatavošanu reglamentējošā normatīvā akta prasībām,
+f) zvērināta revidenta viedoklis par to, vai, ņemot vērā revīzijas laikā gūtās ziņas un izpratni par klientu un tā darbības vidi, viņš vadības ziņojumā ir identificējis būtiskas neatbilstības, un norāde par jebkuru šādu būtisku neatbilstību raksturu,
+g) zvērināta revidenta viedoklis par to, vai kapitālsabiedrības (ja tās pārvedami vērtspapīri ir iekļauti dalībvalstu regulētajā tirgū) paziņojumā par korporatīvo pārvaldību ir sniegta informācija saskaņā ar Finanšu instrumentu tirgus likuma 56.¹ panta pirmās daļas 3., 4., 6., 8. un 9.punktā, kā arī 56.² panta otrās daļas 5. un 6.punktā un trešajā daļā noteiktajām prasībām;
 8) revīzijas pakalpojums ir:
-a) normatīvajos aktos noteiktā klienta gada pārskata, arī konsolidētā gada pārskata, pārbaude un revidenta ziņojuma sniegšana par tajā ietvertajiem finanšu pārskatiem,
+a) normatīvajos aktos noteiktā klienta gada pārskata, arī konsolidētā gada pārskata, pārbaude (revīzija) un revidenta ziņojuma sniegšana,
 b) revīzijas uzdevuma veikšana pēc likumos noteiktā Komercreģistra iestādes, izmeklēšanas iestādes, prokurora, tiesneša vai tiesas uzaicinājuma likumos noteiktajos gadījumos,
 c) valsts un pašvaldību institūciju finanšu revīzija un revīzijas pārskata sagatavošana, kā arī atzinuma sniegšana par saimnieciskā gada pārskatu,
-d) citos normatīvajos aktos vai revīzijas pakalpojuma līgumā paredzēta revīzijas uzdevuma veikšana;
+d) citos normatīvajos aktos vai revīzijas pakalpojuma līgumā paredzēta revīzijas uzdevuma veikšana,
+e) normatīvajos aktos noteiktā klienta gada pārskata ierobežotā pārbaude un pārbaudes ziņojuma sniegšana;
 9) revīzijas pārskats - zvērināta revidenta sagatavots dokuments par valsts vai pašvaldības institūcijas finanšu revīzijas rezultātiem;
 10) revīzijas uzdevums - klienta gada pārskata, arī konsolidētā gada pārskata, pārbaude, kā arī klienta saimnieciskās darbības revīzija saskaņā ar likumu vai noslēgto līgumu;
 11) uzticības uzdevums - ar klienta reorganizāciju, maksātnespēju un likvidāciju saistīts neatkarīga eksperta uzdevums, kā arī īpašuma pārvaldīšana;
-12) Latvijā atzītie starptautiskie revīzijas standarti - Latvijas Zvērinātu revidentu asociācijas apstiprināti Starptautiskās grāmatvežu federācijas izdotie starptautiskie revīzijas standarti un ar tiem saistītie paziņojumi un standarti, ciktāl tie attiecas uz revīziju;
+12) Latvijā atzītie starptautiskie revīzijas standarti - Latvijas Zvērinātu revidentu asociācijas apstiprināti Starptautiskās grāmatvežu federācijas izdotie starptautiskie revīzijas standarti, starptautiskie pārbaudes uzdevumu standarti, starptautiskie apliecinājumu uzdevumu standarti, starptautiskie saistīto pakalpojumu standarti, starptautiskie kvalitātes kontroles standarti un ar tiem saistītie paziņojumi un standarti, ciktāl tie attiecas uz revīziju;
 13) revidentu komercsabiedrību tīkls - zvērinātu revidentu, zvērinātu revidentu komercsabiedrību, dalībvalstu vai trešo valstu revidentu vai revidentu komercsabiedrību sadarbība, kuras mērķis ir ienākumu vai izmaksu dalīšana, kopīga pārvalde vai kopīgs īpašums, kopīga kvalitātes nodrošināšanas politika un procedūras vai kopīga saimnieciskās darbības stratēģija un kura paredz, ka šīs sadarbības partneri izmanto vienu un to pašu komercsabiedrības firmu vai nozīmīgu šīs sadarbības partneru profesionālo resursu daļu;
 14) trešā valsts - valsts, kas nav Eiropas Savienības dalībvalsts un Eiropas Ekonomikas zonas valsts;
 15) trešās valsts revidents - fiziskā persona, kas saskaņā ar trešās valsts likumiem ir tiesīga veikt šajā valstī reģistrētas komercsabiedrības gada pārskata un konsolidētā gada pārskata revīziju (pārbaudi);
-16) trešās valsts revidentu komercsabiedrība - trešajā valstī reģistrēta jebkura veida komercsabiedrība, kas saskaņā ar trešās valsts likumiem ir tiesīga veikt šajā valstī reģistrētas komercsabiedrības gada pārskata un konsolidētā gada pārskata revīziju (pārbaudi).
+16) trešās valsts revidentu komercsabiedrība - trešajā valstī reģistrēta jebkura veida komercsabiedrība, kas saskaņā ar trešās valsts likumiem ir tiesīga veikt šajā valstī reģistrētas komercsabiedrības gada pārskata un konsolidētā gada pārskata revīziju (pārbaudi);
+17) sabiedriskas nozīmes struktūras - finanšu institūcijas un komercsabiedrības, kuru pārvedami vērtspapīri ir iekļauti dalībvalstu regulētajā tirgū.
 (2) Likumā lietotais termins "starptautiskie grāmatvedības standarti" atbilst Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulā Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu ietvertajai definīcijai.
