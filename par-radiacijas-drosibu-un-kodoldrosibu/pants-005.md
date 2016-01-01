@@ -3,7 +3,7 @@ Centra galvenās funkcijas ir šādas:
 1) sagatavot priekšlikumus par radiācijas drošības un kodoldrošības uzraudzības un kontroles politiku valstī;
 2) veikt radiācijas drošības un kodoldrošības uzraudzību un kontroli;
 3) veikt jonizējošā starojuma mērīšanas līdzekļu un individuālo dozimetru pārbaudes un lietošanas uzraudzību, kā arī nodrošināt kontroli;
-4) izsniegt speciālās atļaujas (licences) un atļaujas darbībām ar jonizējošā starojuma avotiem;
+4) izsniegt licences darbībām ar jonizējošā starojuma avotiem un reģistrēt darbības ar šiem avotiem;
 5) apkopot, analizēt un sniegt Radiācijas drošības padomei informāciju par situāciju valstī radiācijas drošības jomā, galvenajiem jonizējošā starojuma avotu lietotājiem un kontroles rezultātiem;
 6) informēt personas, kas vada darbus ar jonizējošā starojuma avotiem, par radiācijas drošību reglamentējošiem normatīvajiem aktiem un rekomendācijām radiācijas drošības līmeņa paaugstināšanai;
 7) nodrošināt valsts teritorijā atklāto nezināmo jonizējošā starojuma avotu vai uz valsts robežas atklāto nedeklarēto jonizējošā starojuma avotu identifikāciju, izpēti, novērtējumu un organizēt to apglabāšanu, ja starojuma avota lietotāju vai īpašnieku nav iespējams noteikt;

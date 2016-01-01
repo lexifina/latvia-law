@@ -1,2 +1,2 @@
 III nodaļa
-Licencēšana un atļauju izsniegšana
+Licencēšana un reģistrēšana
