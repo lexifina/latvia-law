@@ -1,1 +1,1 @@
-76.pants. Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt no kredītiestādes un ar to saistītajām komercsabiedrībām konsolidētus pārskatus, kuru sagatavošanas un iesniegšanas kārtību un termiņus nosaka Finanšu un kapitāla tirgus komisija.
+76.pants. Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt no kredītiestādes un ar to saistītajām komercsabiedrībām konsolidētus pārskatus, kuru sagatavošanas un iesniegšanas kārtību nosaka Finanšu un kapitāla tirgus komisija.
