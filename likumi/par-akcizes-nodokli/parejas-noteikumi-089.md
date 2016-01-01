@@ -1,0 +1,1 @@
+89. Personai, kas, sākot ar 2016.gada 1.jūliju, veic darbības ar šā likuma 4.¹ pantā minēto elektroniskajās cigaretēs izmantojamo šķidrumu, piemērojot atlikto nodokļa maksāšanas režīmu, līdz 2016.gada 30.jūnijam jāsaņem šā likuma 2.panta sestās daļas 1.punktā minētā speciālā atļauja (licence) apstiprināta noliktavas turētāja darbībai.

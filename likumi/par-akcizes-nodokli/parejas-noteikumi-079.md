@@ -1,0 +1,4 @@
+79. Līdz dienai, kad atbilstoši šo pārejas noteikumu 78.punktam sāk piemērot šā likuma 12.panta pirmās daļas 1.punktā noteikto nodokļa likmi alum (par 100 litriem) un šā likuma 12.panta otrās daļas 1. un 2.punktā noteikto nosacījumu, alu apliek ar nodokli:
+1) līdz 2016.gada 29.februārim - 3,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 7,4 euro par 100 litriem alus;
+2) no 2016.gada 1.marta līdz 2017.gada 28.februārim - 4,2 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 7,8 euro par 100 litriem alus;
+3) no 2017.gada 1.marta līdz 2018.gada 28.februārim - 4,5 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 8,2 euro par 100 litriem alus.

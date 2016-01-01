@@ -1,1 +1,1 @@
-59. Šā likuma 13.panta pirmās daļas 3.punkta "a" apakšpunktā noteikto nodokli smalki sagrieztai tabakai cigarešu uztīšanai (60 euro par 1000 g tabakas) un "b" apakšpunktā noteikto nodokli citai smēķējamai tabakai (60 euro par 1000 g tabakas) piemēro ar 2018.gada 1.janvāri.
+59. Šā likuma 13.panta pirmās daļas 3.punkta "a" apakšpunktā noteikto nodokli smalki sagrieztai tabakai cigarešu uztīšanai (62 euro par 1000 gramiem tabakas) un "b" apakšpunktā noteikto nodokli citai smēķējamai tabakai (62 euro par 1000 gramiem tabakas) piemēro ar 2018.gada 1.janvāri.

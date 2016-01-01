@@ -1,0 +1,1 @@
+92. Personai, kas, sākot ar 2016.gada 1.martu, veic darbības ar šā likuma 4.panta pirmās daļas 5.punktā minētajiem tabakas izstrādājumiem (karsējamo tabaku), līdz 2016.gada 29.februārim jāsaņem atbilstoša šā likuma 2.panta sestajā daļā minētā speciālā atļauja (licence).
