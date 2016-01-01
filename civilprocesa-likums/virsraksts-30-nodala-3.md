@@ -1,2 +1,2 @@
 30.³ nodaļa
-Lietas par maza apmēra prasībām
+Atsevišķu kategoriju lietu izskatīšana rakstveida procesā

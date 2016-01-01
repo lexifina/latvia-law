@@ -19,7 +19,8 @@
 12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās;
 13) Pilsonības un migrācijas lietu pārvalde - lietās par Latvijas pilsonības atņemšanu;
 14) Valsts sociālās apdrošināšanas aģentūra - lietās par finanšu līdzekļu atgūšanu valsts budžetā daļā par sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu pārmaksu un sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu izmaksu sakarā ar ceļu satiksmes negadījumiem;
-15) pieteikuma iesniedzēji - par pagaidu aizsardzību pret vardarbību.
+15) pieteikuma iesniedzēji - par pagaidu aizsardzību pret vardarbību;
+16) puse, kas lietā saņem valsts nodrošināto juridisko palīdzību.
 (2) Ja prokurors, tās valsts vai pašvaldību iestādes un personas, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses, atsakās no pieteikuma, kas iesniegts citas personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, tiesas izdevumi jāmaksā saskaņā ar vispārīgiem noteikumiem.
 (3) Puses atbrīvojamas no tiesas izdevumu samaksas valsts ienākumos arī citos likumā paredzētajos gadījumos.
 (4) Tiesa vai tiesnesis, ievērojot fiziskās personas mantisko stāvokli, pilnīgi vai daļēji atbrīvo to no tiesas izdevumu samaksas valsts ienākumos, kā arī atliek valsts ienākumos piespriesto tiesas izdevumu samaksu vai sadala to termiņos.

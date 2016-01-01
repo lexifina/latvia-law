@@ -7,4 +7,5 @@
 (3) Ar lietas vešanu saistītie izdevumi ir:
 1) izdevumi par advokāta palīdzību;
 2) izdevumi sakarā ar ierašanos uz tiesas sēdēm;
-3) ar pierādījumu savākšanu saistītie izdevumi.
+3) ar pierādījumu savākšanu saistītie izdevumi;
+4) izdevumi par valsts nodrošināto juridisko palīdzību.
