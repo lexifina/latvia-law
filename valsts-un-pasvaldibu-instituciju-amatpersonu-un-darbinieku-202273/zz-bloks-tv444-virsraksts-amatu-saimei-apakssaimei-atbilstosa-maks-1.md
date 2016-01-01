@@ -252,3 +252,6 @@ Maksimālā mēnešalgu grupa
 84.
 56
 15
+85.
+57
+11

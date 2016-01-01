@@ -15,22 +15,32 @@ Mēnešalgas maksimālais apmērs (euro)
 6.
 11ne vairāk kā 1382
 7.
-10ne vairāk kā 1174
+10
+ne vairāk kā 1287
 8.
-9ne vairāk kā 994
+9
+ne vairāk kā 1190
 9.
-8ne vairāk kā 874
+8
+ne vairāk kā 1093
 10.
-7ne vairāk kā 788
+7
+ne vairāk kā 996
 11.
-6ne vairāk kā 700
+6
+ne vairāk kā 899
 12.
-5ne vairāk kā 620
+5
+ne vairāk kā 802
 13.
-4ne vairāk kā 558
+4
+ne vairāk kā 705
 14.
-3ne vairāk kā 501
+3
+ne vairāk kā 608
 15.
-2ne vairāk kā 450
+2
+ne vairāk kā 511
 16.
-1ne vairāk kā 403
+1
+ne vairāk kā 413
