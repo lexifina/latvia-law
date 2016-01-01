@@ -1,3 +1,2 @@
-28. pants. Ziņojums par valsts budžeta izpildes gaitu
-(1) Ministru kabinets līdz kārtējā gada 1. jūnijam iesniedz Saeimai ziņojumu par valsts finansiālo stāvokli un vienlaikus izvērtē makroekonomiskās attīstības prognozi un pieņēmumus, kas tika izmantoti, apstiprinot saimnieciskā gada valsts budžetu, kā arī ņem vērā ekonomisko situāciju attiecīgajā laikposmā.
-(2) Ziņojumā par valsts budžeta stāvokli ieņēmumu, izdevumu, finansiālās bilances un aizdevumu kopsavilkumi tiek salīdzināti ar valsts budžeta likumā apstiprinātajiem attiecīgajiem līmeņiem, kā arī tiek sniegti paskaidrojumi par galvenajiem grozījumiem.
+28.pants. Latvijas Stabilitātes programma
+Ministru kabinets saskaņā ar Padomes 1997.gada 7.jūlija regulu (EK) Nr. 1466/97 par budžeta stāvokļa uzraudzības un ekonomikas politikas uzraudzības un koordinācijas stiprināšanu līdz kārtējā gada 15.aprīlim iesniedz Saeimai Latvijas Stabilitātes programmu.

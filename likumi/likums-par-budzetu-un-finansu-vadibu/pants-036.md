@@ -21,10 +21,4 @@
 1) šā likuma 8.¹ panta pirmajā daļā noteikto mērķu realizācijai vai likumā noteiktās garantētās atlīdzības izmaksas nodrošināšanai no Noguldījumu garantiju fonda paredzamo valsts aizdevumu kopējais apjoms saimnieciskā gada laikā nepārsniedz 10 procentus no gadskārtējā valsts budžeta likumā noteiktā iekšzemes kopprodukta apjoma saimnieciskajā gadā;
 2) Saeima ar atsevišķu lēmumu ir piekritusi valsts aizdevumu sniegšanai.
 (7) Ja šā likuma 8.¹ panta pirmajā daļā noteikto mērķu realizācijai vai likumā noteiktās garantētās atlīdzības izmaksas nodrošināšanai no Noguldījumu garantiju fonda paredzamo valsts aizdevumu kopējais apjoms saimnieciskā gada laikā pārsniedz 10 procentus no gadskārtējā valsts budžeta likumā noteiktā iekšzemes kopprodukta apjoma saimnieciskajā gadā, Ministru kabinets iesniedz grozījumus gadskārtējā valsts budžeta likumā.
-(8) Finanšu ministrs ir tiesīgs izsniegt valsts aizdevumu valsts akciju sabiedrībai "Latvijas Pasts" 10 500 000,00 latu apmērā, lai nodrošinātu skaidras naudas - euro - saņemšanu no valsts akciju sabiedrību "Latvijas Pasts" apkalpojošās kredītiestādes - akciju sabiedrības "Citadele banka" no 2013.gada 10.decembra līdz 31.decembrim - latu skaidras naudas nomaiņai pret euro Euro ieviešanas kārtības likuma 8.panta otrajā daļā noteiktajā nomaiņas periodā. Attiecībā uz šo aizdevumu netiek piemēroti šā likuma 36.panta ceturtās daļas nosacījumi un aizdevuma līgumā iekļaujami šādi nosacījumi:
-1) valsts aizdevuma izsniegšanas termiņš - līdz 2013.gada 10.decembrim;
-2) valsts aizdevuma atmaksas termiņš - līdz Euro ieviešanas kārtības likuma 8.panta otrajā daļā minētā nomaiņas perioda beigām;
-3) valsts aizdevuma procentu likme tiek noteikta aizdevuma līguma noslēgšanas dienā atbilstoši valdības finanšu resursu piesaistīšanas izmaksām, un tiek piemērota maksa par valsts aizdevuma izsniegšanu un apkalpošanu;
-4) valsts aizdevumam netiek piemērota riska procentu likme;
-5) valsts aizdevums tiek izsniegts bez nodrošinājuma;
-6) valsts aizdevuma izlietošanu un atmaksu uzrauga Satiksmes ministrija.
+(8) (Izslēgta ar 30.11.2015. likumu)
