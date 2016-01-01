@@ -2,7 +2,7 @@
 (1) Valsts budžeta finansējumu, kas paredzēts, lai veicinātu jauniešu iniciatīvas un līdzdalību lēmumu pieņemšanā un sabiedriskajā dzīvē, kā arī darbam ar jaunatni, piešķir atklātā konkursā.
 (2) Tiesības saņemt valsts budžeta finansējumu, kas paredzēts projektiem, kuru mērķis ir veicināt jauniešu iniciatīvas un līdzdalību lēmumu pieņemšanā un sabiedriskajā dzīvē, kā arī projektiem darbam ar jaunatni, ir jaunatnes organizācijām.
 (3) Valsts budžeta finansējuma saņēmējs var būt arī pašvaldība un biedrība vai nodibinājums, kura projekts ir orientēts uz darbu ar jaunatni.
-(4) Jaunatnes organizācijām ir tiesības saņemt valsts budžeta finansējumu arī šo organizāciju darbības atbalsta projektiem, ja tās atbilst visiem šādiem kritērijiem:
+(4) Ikgadējās jaunatnes politikas valsts programmas ietvaros jaunatnes organizācijām ir tiesības saņemt valsts budžeta finansējumu arī šo organizāciju darbības atbalsta projektiem, ja tās atbilst visiem šādiem kritērijiem:
 1) (izslēgts ar 30.09.2010. likumu);
 2) jaunatnes organizācija veic darbu ar jaunatni atbilstoši ikgadējām jaunatnes politikas prioritātēm;
 3) jaunatnes organizācijas darbības ilgums, veicot darbu ar jaunatni, nav mazāks par trim gadiem;
