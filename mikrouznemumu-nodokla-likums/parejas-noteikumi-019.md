@@ -1,0 +1,1 @@
+19. Šā likuma 7.panta piekto un sesto daļu redakcijā, kas bija spēkā līdz 2016.gada 31.decembrim, piemēro attiecībā uz mikrouzņēmumu nodokļa deklarācijām, kas iesniegtas par taksācijas periodiem līdz 2016.gadam.

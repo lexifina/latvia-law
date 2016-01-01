@@ -1,3 +1,0 @@
-14. Ja 2016.gada 1.janvārī nav stājušies spēkā grozījumi likumā "Par valsts sociālo apdrošināšanu", kuri paredz, ka mikrouzņēmuma darbinieki papildus Mikrouzņēmumu nodokļa likumā noteiktajam ir sociāli apdrošināmi ar mērķi triju gadu laikā sasniegt sociālās apdrošināšanas obligāto iemaksu apmēru, kas atbilst darba devēja un darba ņēmēja iemaksu summai, kura aprēķināta no Ministru kabineta noteiktās minimālās mēneša darba algas, tad:
-1) 2016.gada 1.janvārī spēku zaudē šā likuma 6.panta 1.¹, 1.³ un devītā daļa un 9.panta 4.¹ daļa, kā arī pārejas noteikumu 13.punkts;
-2) ar 2016.gada 1.janvāri sāk piemērot šā likuma 6.panta 1.² daļu.
