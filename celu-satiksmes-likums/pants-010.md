@@ -2,6 +2,7 @@
 (1) Ceļu satiksmē iesaistītos transportlīdzekļus reģistrē:
 1) vietējās pašvaldības to noteiktajā kārtībā - tramvajus, trolejbusus un specializētos tūristu transportlīdzekļus;
 2) Valsts tehniskās uzraudzības aģentūra - traktortehniku un tās piekabes;
+2¹) Nacionālie bruņotie spēki - speciālo militāro tehniku;
 3) Ceļu satiksmes drošības direkcija - pārējos mehāniskos transportlīdzekļus un to piekabes.
 (1¹) Šā panta pirmās daļas 2. un 3.punktā minēto ceļu satiksmē iesaistīto transportlīdzekļu reģistrācija veicama piecu dienu laikā pēc transportlīdzekļu iegādes vai ārvalstīs iegādātu transportlīdzekļu ievešanas dienas.
 (1²) Latvijā reģistrējami tie ārvalstīs reģistrētie šā panta pirmās daļas 2. un 3.punktā minētie transportlīdzekļi, kuri Latvijā atrodas ilgāk par trim mēnešiem un piedalās ceļu satiksmē un kuru īpašnieki ir ārzemnieki vai ārvalstīs reģistrētas juridiskās personas (tiesībspējīgas personu apvienības).

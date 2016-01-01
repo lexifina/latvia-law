@@ -19,10 +19,13 @@
 17) TROL - trolejbusi.
 (2) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt vienas kategorijas transportlīdzekli, atļauts vadīt arī šādus citas kategorijas transportlīdzekļus:
 1) ar A kategorijas transportlīdzekļa vadīšanas tiesībām - A1, A2 kategorijas transportlīdzekļus;
-2) ar B kategorijas transportlīdzekļa vadīšanas tiesībām - B1 kategorijas transportlīdzekli, bet transportlīdzekļa vadītājam, kurš sasniedzis 21 gada vecumu, - arī A kategorijas triciklu;
+2) ar B kategorijas transportlīdzekļa vadīšanas tiesībām:
+a) B1 kategorijas transportlīdzekli,
+b) transportlīdzekļa vadītājam, kurš sasniedzis 21 gada vecumu, - A kategorijas triciklu,
+c) Latvijā - A1 kategorijas transportlīdzekli;
 3) ar C kategorijas transportlīdzekļa vadīšanas tiesībām - C1 kategorijas transportlīdzekli;
 4) ar D kategorijas transportlīdzekļa vadīšanas tiesībām - D1 kategorijas transportlīdzekli;
-5) ar A2 vai B kategorijas transportlīdzekļa vadīšanas tiesībām - A1 kategorijas transportlīdzekli;
+5) ar A2 kategorijas transportlīdzekļa vadīšanas tiesībām - A1 kategorijas transportlīdzekli;
 6) ar CE kategorijas transportlīdzekļa vadīšanas tiesībām - C1E kategorijas transportlīdzekli;
 7) ar DE kategorijas transportlīdzekļa vadīšanas tiesībām - D1E kategorijas transportlīdzekli;
 8) ar jebkura mehāniskā transportlīdzekļa vai tramvaja vadīšanas tiesībām - AM kategorijas transportlīdzekli un sniega motociklu.
@@ -40,3 +43,4 @@
 7) G - ceļu būves mašīnas;
 8) H - cita speciālā pašgājējtehnika.
 (8) Ja transportlīdzekļa vadītājs citas kategorijas transportlīdzekli, tai skaitā traktortehniku, vada tikai ar AM, A1 vai TRAM kategorijas transportlīdzekļu vadīšanas tiesībām, uzskatāms, ka šim transportlīdzekļa vadītājam, vadot attiecīgo transportlīdzekli, vispār nav transportlīdzekļu vadīšanas tiesību. Šis nosacījums attiecībā uz A1 un TRAM kategorijas transportlīdzekļu vadīšanas tiesībām neattiecas uz šā panta otrās daļas 8.punktā minēto nosacījumu.
+(9) Speciālo militāro tehniku ir tiesīgs vadīt profesionālā dienesta karavīrs vai zemessargs, kuram piešķirta A vai B kategorijas traktortehnikas vadītāja apliecība.

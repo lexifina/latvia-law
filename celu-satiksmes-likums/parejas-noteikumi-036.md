@@ -1,0 +1,1 @@
+36. Šā likuma 29.panta 4.¹ daļa stājas spēkā 2016.gada 1.aprīlī. Šā likuma 29.panta 4.¹ daļa nav attiecināma uz gadījumiem, kad personai transportlīdzekļu vadīšanas tiesības ir atņemtas uz laiku līdz gadam pirms šīs daļas spēkā stāšanās dienas.
