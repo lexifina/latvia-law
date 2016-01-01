@@ -1,0 +1,1 @@
+177. Šā likuma 22.² pants, kas nosaka kredītiestādes un maksājumu pakalpojumu sniedzēja pienākumu sniegt informāciju Valsts ieņēmumu dienestam par aizdomīgiem darījumiem, stājas spēkā 2016.gada 1.aprīlī.

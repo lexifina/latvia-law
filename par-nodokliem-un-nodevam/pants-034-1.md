@@ -2,18 +2,22 @@
 (1) Valsts ieņēmumu dienestam ir tiesības apturēt nodokļu maksātāja (vai tā struktūrvienības, kurā noticis pārkāpums) saimniecisko darbību, ja ir konstatēts vismaz viens no šādiem pārkāpumiem:
 1) nodokļu maksātājs nodarbina personas, ar kurām nav noslēgts rakstveida darba līgums, un šo personu skaits ir 50 procenti vai vairāk, bet ne mazāk kā trīs personas no pārbaudāmajā objektā (nodokļu maksātājam piederošās vai tā lietošanā esošās teritorijas un telpas, kurās tiek veikta saimnieciskā darbība vai kuras ir saistītas ar ieņēmumu gūšanu citai fiziskajai vai juridiskajai personai piederošā vai lietošanā esošā teritorijā vai telpā) nodarbinātajām personām;
 2) nodokļu maksātājs ir izvairījies no nodokļu vai nodevu maksāšanas;
-3) nodokļu maksātājs lieto kases aparātu, kases sistēmu, specializēto ierīču un iekārtu datorprogrammu vai grāmatvedības informācijas datorsistēmu, kurai ir mainīta programmatūra vai veiktas citas darbības, ar kurām radīta iespēja slēpt vai samazināt ar nodokļiem un nodevām apliekamo objektu;
+3) nodokļu maksātājs lieto kases aparātu, hibrīda kases aparātu, kases sistēmu, specializēto ierīču un iekārtu datorprogrammu vai grāmatvedības informācijas datorsistēmu, kurai ir mainīta programmatūra vai veiktas citas darbības, ar kurām radīta iespēja slēpt vai samazināt ar nodokļiem un nodevām apliekamo objektu;
 4) nodokļu maksātājs nodarbinātajai personai izmaksā ienākumus, kuri nav uzrādīti grāmatvedības uzskaitē un Valsts ieņēmumu dienestam iesniegtajā ziņojumā par valsts sociālās apdrošināšanas obligātajām iemaksām no darba ņēmēju ienākumiem, par iedzīvotāju ienākuma nodokli un uzņēmējdarbības riska valsts nodevu pārskata mēnesī, vai nodarbina vairāk nekā vienu personu, ar kuru nav noslēdzis rakstveida darba līgumu;
 5) nodokļu maksātājs nav novērsis pārkāpumus, kas bija par pamatu tā izslēgšanai no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra;
 6) nodokļu maksātājs normatīvajos aktos noteiktajā termiņā nav iesniedzis šā likuma 26.² panta pirmajā daļā minēto nodrošinājumu.
 (2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par saimnieciskās darbības apturēšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 1.punktā minētais pārkāpums.
+(2¹) Brīdinot nodokļu maksātāju par saimnieciskās darbības apturēšanu, Valsts ieņēmumu dienestam vienlaikus ir tiesības:
+1) aizliegt nodokļu maksātājam veikt noteiktas darbības, kas vērstas uz izvairīšanos no nodokļu maksāšanas;
+2) piemērot liegumu nodokļu maksātāja reorganizācijai un likvidācijai.
 (3) Piecu darbdienu laikā pēc šā panta pirmās daļas 1.punktā minētā pārkāpuma konstatācijas Valsts ieņēmumu dienests pieņem lēmumu par nodokļu maksātāja (vai tā struktūrvienības, kurā noticis pārkāpums) saimnieciskās darbības apturēšanu.
 (4) Valsts ieņēmumu dienests aptur nodokļu maksātāja saimniecisko darbību, pieņemot lēmumu piecu darbdienu laikā, bez brīdināšanas, ja konstatē kādu no šā panta pirmajā daļā minētajiem pārkāpumiem un kādu no šādiem apstākļiem:
 1) nodokļu maksātāja adrese atbilst riska adresei;
 2) Valsts ieņēmumu dienesta rīcībā ir informācija, ka komercreģistrā kā nodokļu maksātāja vienīgais dalībnieks vai vienīgā amatpersona šā fakta konstatācijas brīdī ir norādīta tāda persona, kuras nolūks nav bijis veikt komercdarbību un kuras dati bez šīs personas piekrišanas tika izmantoti ierakstu izdarīšanai komercreģistrā vai kura par dalībnieku vai vienīgo amatpersonu kļuva pēc trešo personu lūguma;
 3) Valsts ieņēmumu dienesta rīcībā ir informācija, ka nodokļu maksātāja atsevišķu dalībnieku vai atsevišķu amatpersonu nolūks nav bijis veikt komercdarbību;
 4) nodokļu maksātāja norādītā juridiskā adrese vai deklarētās dzīvesvietas adrese nav reģistrēta Valsts adrešu reģistrā;
-5) nodokļu maksātājs pēc nodokļu administrācijas paziņojuma par pārbaudes veikšanu atkārtoti gada laikā nav sasniedzams norādītajā juridiskajā adresē vai deklarētajā dzīvesvietā.
+5) nodokļu maksātājs pēc nodokļu administrācijas paziņojuma par pārbaudes veikšanu atkārtoti gada laikā nav sasniedzams norādītajā juridiskajā adresē vai deklarētajā dzīvesvietā;
+6) nodokļu maksātājs atkārtoti gada laikā ir izdarījis šā panta pirmās daļas 2., 3., 4.punktā minēto pārkāpumu.
 (5) Valsts ieņēmumu dienests pieņem lēmumu par nodokļu maksātāja (vai tā struktūrvienības, kurā noticis pārkāpums) saimnieciskās darbības apturēšanu 15 dienu laikā pēc šā panta otrajā daļā minētā rakstveida brīdinājuma paziņošanas, ja nodokļu maksātājs nav novērsis tajā norādītos pārkāpumus.
 (6) Valsts ieņēmumu dienests triju darbdienu laikā pēc lēmuma par nodokļu maksātāja saimnieciskās darbības apturēšanu pieņemšanas veic šādas darbības:
 1) nosūta ziņas par nodokļu maksātāja saimnieciskās darbības apturēšanu Uzņēmumu reģistram, ja aptur Uzņēmumu reģistra žurnālā vai komercreģistrā ierakstītā nodokļu maksātāja saimniecisko darbību;

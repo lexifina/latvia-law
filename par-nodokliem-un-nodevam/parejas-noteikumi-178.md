@@ -1,0 +1,1 @@
+178. Ministru kabinets līdz 2016.gada 1.septembrim sagatavo un iesniedz Saeimai grozījumus šajā likumā, paredzot attiecināt pienākumu sniegt informāciju par aizdomīgiem darījumiem Valsts ieņēmumu dienestam arī uz pārējiem Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma subjektiem.

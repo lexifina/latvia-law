@@ -29,7 +29,7 @@
 14) par Latvijas Republikas pasu un citu personu apliecinošu un tiesību apliecinošu dokumentu izsniegšanu;
 15) (izslēgts ar 09.10.2003. likumu);
 16) par selekcionāra tiesību piešķiršanu un pagarināšanu, par selekcionāra tiesību aizsardzību un par licences līguma reģistrāciju Valsts augu aizsardzības dienestā;
-17) par rūpnieciskā īpašuma (izgudrojumu, preču zīmju, dizainparaugu un cita rūpnieciskā īpašuma) aizsardzību;
+17) (izslēgts ar 08.10.2015. likumu);
 18) par naturalizācijas iesniegumu iesniegšanu;
 19) par muitas iestāžu pakalpojumiem;
 20) (izslēgts ar 16.12.2004. likumu);
@@ -53,7 +53,7 @@
 36¹) (izslēgts ar 17.12.2014. likumu);
 37) (izslēgts ar 09.10.2002. likumu);
 38) par dokumentu īstuma apliecināšanu (legalizāciju);
-39) par speciālās atļaujas (licences) vai atļaujas izsniegšanu darbībām ar jonizējošā starojuma avotiem;
+39) par licenču izsniegšanu darbībām ar jonizējošā starojuma avotiem un darbību ar jonizējošā starojuma avotiem reģistrēšanu;
 40) par valsts valodas prasmes atestāciju profesionālo un amata pienākumu veikšanai un par valsts valodas prasmes pārbaudi pastāvīgās uzturēšanās atļaujas un Eiropas Kopienas pastāvīgā iedzīvotāja statusa Latvijas Republikā pieprasīšanai;
 41) par atteikšanās no Latvijas pilsonības dokumentēšanu;
 42) par Latvijas pilsonības atjaunošanas dokumentēšanu;
@@ -106,7 +106,7 @@
 87) par atļaujas izsniegšanu un tās termiņa pagarināšanu tādu šķirņu sēklu izvietošanai tirgū, par kurām ir iesniegts iesniegums, bet kuras vēl nav iekļautas Latvijas augu šķirņu katalogā vai kādā no Eiropas Savienības dalībvalstu nacionālajiem katalogiem;
 88) par atļaujas izsniegšanu uz laiku tirgot sēklas, kas neatbilst minimālās dīgtspējas prasībām;
 89) par dzīvnieku barības apritē iesaistītā uzņēmuma reģistrāciju;
-90) par ģenētiski modificēto organismu riska novērtējuma atzinuma sagatavošanu;
+90) (izslēgts no 01.01.2016. ar 26.11.2015. likumu. Sk. Pārejas noteikumu 174. punktu);
 91) par speciālās atļaujas (licences) izsniegšanu kremācijas veikšanai;
 92) par atļaujas izsniegšanu tādu pārtikas sastāvdaļu izmantošanai bioloģisko pārtikas produktu pārstrādē, kas nav iegūtas ar bioloģiskās lauksaimniecības ražošanas metodi;
 93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu;
@@ -127,7 +127,7 @@
 108) par atzinuma par ūdens apgādes sistēmā konstatēto apdraudējumu cilvēku veselībai un veiktajiem korektīvajiem pasākumiem sagatavošanu;
 109) par Enerģētikas likumā noteikto drošības rezervju uzturēšanu;
 110) par pirotehniķa sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu;
-111) par speciālās atļaujas (licences) izsniegšanu patērētāju kreditēšanas pakalpojumu sniegšanai un tās pārreģistrāciju;
+111) par speciālās atļaujas (licences) izsniegšanu patērētāju kreditēšanas pakalpojumu sniegšanai;
 112) par Latvijas Republikas Nacionālajā stratēģiskas nozīmes preču un pakalpojumu sarakstā minētu, sevišķā veidā veicamiem operatīvās darbības pasākumiem speciāli radītu vai pielāgotu iekārtu, ierīču vai instrumentu un to komponentu sertificēšanu;
 113) par lielgabarīta un smagsvara pārvadājumiem;
 114) par licences izsniegšanu melno un krāsaino metālu atgriezumu un lūžņu iepirkšanai Latvijā un par licences izsniegšanu melno metālu atgriezumu un lūžņu iepirkšanai Latvijā;
@@ -148,4 +148,6 @@
 129) par speciālās atļaujas (licences) izsniegšanu un pārreģistrāciju kredītinformācijas biroja darbībai;
 130) par kredītinformācijas biroja darbības uzraudzību (ikgadējā nodeva);
 131) (punkts stājas spēkā 01.03.2016. un iekļauts likuma redakcijā uz 01.03.2016. Sk. 05.11.2015. likumu);
-132) par slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un pāršķirošanas atļaujas izsniegšanu.
+132) par slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un pāršķirošanas atļaujas izsniegšanu;
+133) par vides aizsardzības tehnisko noteikumu izsniegšanu;
+134) par tādu licencēto kapitālsabiedrību darbības uzraudzību, kuras sniedz patērētāju kreditēšanas pakalpojumus (ikgadējā nodeva).

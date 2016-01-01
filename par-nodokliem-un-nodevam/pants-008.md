@@ -14,4 +14,5 @@ Latvijas Republikā ir šādi valsts nodokļi un tiem atbilstošie likumi par no
 12) mikrouzņēmumu nodoklis - Mikrouzņēmumu nodokļa likums;
 13) transportlīdzekļa ekspluatācijas nodoklis - Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likums;
 14) uzņēmumu vieglo transportlīdzekļu nodoklis - Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likums;
-15) subsidētās elektroenerģijas nodoklis - Subsidētās elektroenerģijas nodokļa likums.
+15) subsidētās elektroenerģijas nodoklis - Subsidētās elektroenerģijas nodokļa likums;
+16) solidaritātes nodoklis - Solidaritātes nodokļa likums.
