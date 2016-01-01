@@ -1,0 +1,5 @@
+83.pants. Atteikšanās no prasījuma un prasījuma atzīšana
+(1) Apelācijas padomes sēdē mutvārdos izteiktu atteikšanos no prasījuma (pilnīgu vai daļēju) ieraksta sēdes protokolā un paraksta apelācijas vai iebilduma iesnieguma iesniedzējs. Ja atteikšanās no prasījuma Apelācijas padomei iesniegta rakstveidā, to pievieno lietai.
+(2) Prasījuma atzīšanu (pilnībā vai kādā tā daļā) Apelācijas padomes sēdē ieraksta sēdes protokolā un paraksta Patentu valdes amatpersona, kas atzīst apelācijas iesniegumā ietverto prasījumu, vai apstrīdētās reģistrācijas īpašnieks, kas atzīst iebilduma iesniegumā ietverto prasījumu. Ja prasījuma atzīšana Apelācijas padomei iesniegta rakstveidā, to pievieno lietai.
+(3) Atteikties no prasījuma un atzīt prasījumu var, iekams nav pabeigta lietas izskatīšana pēc būtības.
+(4) Par apelācijas iesnieguma iesniedzēja vai iebilduma iesnieguma iesniedzēja pilnīgu atteikšanos no prasījuma Apelācijas padome pieņem lēmumu, ar kuru vienlaikus izbeidz lietvedību lietā.

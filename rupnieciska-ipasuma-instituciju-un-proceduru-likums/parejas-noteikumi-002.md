@@ -1,0 +1,1 @@
+2. Patentu valdes Apelācijas padomes sastāvs, kas apstiprināts atbilstoši noteikumiem, kuri bija spēkā pirms šā likuma spēkā stāšanās, turpina pildīt savus pienākumus līdz dienai, kad saskaņā ar Ministru kabineta rīkojumu darbu uzsāk Rūpnieciskā īpašuma apelācijas padome.

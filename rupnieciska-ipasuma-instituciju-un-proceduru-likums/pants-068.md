@@ -1,0 +1,7 @@
+68.pants. Iebilduma iesnieguma nosūtīšana apstrīdētās reģistrācijas īpašniekam un īpašnieka atbilde
+(1) Ja iebilduma iesniegums ir pieņemts un ierosināta iebilduma lieta, Apelācijas padome nekavējoties nosūta iebilduma iesnieguma un tam pievienoto dokumentu norakstus apstrīdētās reģistrācijas īpašniekam un uzaicina viņu divu mēnešu laikā no attiecīgo dokumentu nosūtīšanas dienas iesniegt rakstveida atbildi uz iebildumu.
+(2) Apstrīdētās reģistrācijas īpašnieks atbildē uz iebildumu norāda savus pretargumentus iebilduma iesnieguma prasījumam un pievieno pierādījumus, kas tos apstiprina. Apstrīdētās reģistrācijas īpašnieks iebilduma iesnieguma prasījumu var atzīt arī pilnīgi vai kādā tā daļā.
+(3) Ja iebildums pilnībā vai daļēji pamatots ar agrāku preču zīmi, pēc kuras reģistrācijas ir pagājuši ne mazāk kā pieci gadi, apstrīdētās reģistrācijas īpašnieks ir tiesīgs šā panta pirmajā daļā noteiktajā termiņā rakstveidā pieprasīt, lai iebilduma iesnieguma iesniedzējs iesniedz pierādījumus par minētās agrākās preču zīmes faktisku izmantošanu.
+(4) Atbildi uz iebilduma iesniegumu un tai pievienotos dokumentus iesniedz ar tik norakstiem, cik ir lietas dalībnieku, neskaitot atbildes iesniedzēju.
+(5) Pēc atbildes saņemšanas Apelācijas padome nekavējoties nosūta tās norakstus iebilduma iesnieguma iesniedzējam un trešajai personai.
+(6) Atbildes neiesniegšana nav šķērslis iebilduma lietas izskatīšanai.

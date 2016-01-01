@@ -1,0 +1,4 @@
+114.pants. Apelācijas un iebilduma lietu izskatīšana saistībā ar starptautiskās reģistrācijas apstrīdējumu
+(1) Apelācijas iesniegumu vai apelācijas iesniegumu - atbildi uz iebilduma iesniegumu un iebilduma iesniegumu vai iebilduma iesniegumus, kas iesniegti sakarā ar vienu un to pašu starptautisko reģistrāciju, Apelācijas padome izskata apvienotā lietvedībā, ja nav pamatotu iemeslu rīkoties citādi.
+(2) Apelācijas padome lietas izskatīšanā piemēro procedūru, kas noteikta iebilduma lietām, ciktāl izskatāmā lieta skar iebilduma iesniegumu un atbildi uz iebilduma iesniegumu.
+(3) Apelācijas padome lietas izskatīšanā piemēro procedūru, kas noteikta apelācijas lietām, ciktāl izskatāmā lieta skar apelācijas iesniegumu par lēmumu, kas pamatots ar Patentu valdes izvirzītajiem atteikuma pamatojumiem.

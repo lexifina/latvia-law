@@ -1,0 +1,2 @@
+36.pants. Reģistrācijas un pēcreģistrācijas procedūrām paredzēto noteikumu piemērošana Apelācijas padomē
+Apelācijas padomē piemēro šajā likumā reģistrācijas un pēcreģistrācijas procedūrām paredzētos noteikumus par dokumentu iesniegšanu, personu un adrešu norādīšanu, pieteikumu un reģistrāciju identificēšanu, personas parakstu un dokumentu autentiskumu, ciktāl rūpnieciskā īpašuma normatīvajos aktos nav noteikts citādi.

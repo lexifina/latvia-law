@@ -1,0 +1,5 @@
+3.pants. Regulējums rūpnieciskā īpašuma jomā
+(1) Tiesības uz rūpniecisko īpašumu Latvijā iegūst ar rūpnieciskā īpašuma objektu reģistrāciju, kas atbilstoši rūpnieciskā īpašuma normatīvajiem aktiem veikta Patentu valdē, vai, ja normatīvais akts tā paredz, atzīstot izņēmuma tiesības, kas radušās uz cita pamata.
+(2) Tiesības uz rūpniecisko īpašumu Latvijā iegūst arī ar tādu rūpnieciskā īpašuma objektu reģistrāciju, kas attiecībā uz Latviju veikta atbilstoši Latvijai saistošiem starptautiskajiem līgumiem rūpnieciskā īpašuma jomā, tajā skaitā attiecībā uz Eiropas Savienību - atbilstoši Eiropas Savienības tieši piemērojamiem normatīvajiem aktiem.
+(3) Attiecībā uz rūpnieciskā īpašuma objektu reģistrāciju un rūpnieciskā īpašuma aizsardzību ārvalstu personām Latvijā ir tādas pašas tiesības kā Latvijas personām, ciktāl šis likums vai citi normatīvie akti neparedz citādi.
+(4) Šā panta otrajā daļā paredzētajā kārtībā iegūtajām tiesībām uz rūpniecisko īpašumu Latvijā ir tādas pašas tiesiskās sekas kā šā panta pirmajā daļā minētajām tiesībām, ja attiecīgajā starptautiskajā līgumā vai rūpnieciskā īpašuma normatīvajos aktos nav noteikts citādi.

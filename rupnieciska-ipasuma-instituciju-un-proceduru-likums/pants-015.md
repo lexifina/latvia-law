@@ -1,0 +1,2 @@
+15.pants. Pieteikumu un reģistrāciju identificēšana
+Katrā dokumentā, kuru iesniedz reģistrācijas un pēcreģistrācijas procedūrās, identificē konkrētu pieteikumu vai reģistrāciju, norādot rūpnieciskā īpašuma objektu un pieteikuma vai reģistrācijas (patenta) numuru. Pieteikumu vai reģistrāciju var papildus identificēt ar norādi uz pieteicēju (īpašnieku) un rūpnieciskā īpašuma objekta raksturojumu (piemēram, izgudrojuma nosaukums, izgudrotājs, preču zīmes vārdiskā daļa vai attēls, tā izstrādājuma nosaukums, uz kuru attiecas dizainparaugs, dizainers).

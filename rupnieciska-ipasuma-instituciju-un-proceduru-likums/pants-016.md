@@ -1,0 +1,2 @@
+16.pants. Svešvalodā iesniegto dokumentu izskatīšana
+Reģistrācijas un pēcreģistrācijas procedūrās, kuras atbilstoši rūpnieciskā īpašuma normatīvajiem aktiem notiek valsts valodā, Patentu valde pieļauj atsevišķu rakstveida dokumentu iesniegšanu svešvalodā bez normatīvajos aktos noteiktajā kārtībā apliecināta tulkojuma, ja tas neierobežo trešo personu tiesības vai tiesiskās intereses un veicina procedūras norisi.

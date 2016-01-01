@@ -1,0 +1,10 @@
+99.pants. Apelācijas padomes lēmuma, ar kuru izšķirts strīds apelācijas vai iebilduma lietā, spēkā stāšanās
+(1) Apelācijas padomes lēmums, ar kuru izšķirts strīds apelācijas vai iebilduma lietā, stājas likumīgā spēkā:
+1) dienā, kad beidzas šā likuma 98.panta pirmajā daļā minētais termiņš, ja:
+a) neviena no strīdā iesaistītajām pusēm par strīda priekšmetu šajā termiņā nav iesniegusi tiesā prasības pieteikumu,
+b) par strīda priekšmetu šajā termiņā tiesā ir iesniegts attiecīgs prasības pieteikums, bet tiesnesis pieņēmis lēmumu par atteikšanos to pieņemt,
+c) par strīda priekšmetu šajā termiņā tiesā ir iesniegts attiecīgs prasības pieteikums, bet tiesnesis pieņēmis lēmumu prasības pieteikumu uzskatīt par neiesniegtu un atdot prasītājam;
+2) dienā, kad spēkā stājas tiesas lēmums, ar kuru prasība atstāta bez izskatīšanas, izņemot gadījumu, kad prasība atstāta bez izskatīšanas tā iemesla dēļ, ka strīds prasības lietā, kurā iesaistītas vienas un tās pašas puses par vienu un to pašu priekšmetu un uz viena un tā paša pamata, atrodas tās pašas vai citas tiesas izskatīšanā;
+3) dienā, kad spēkā stājas tiesas lēmums, ar kuru tiesvedība izbeigta, izņemot gadījumu, kad tiesvedība izbeigta, jo likumīgā spēkā stājies tiesas spriedums, kas taisīts strīdā, kurā iesaistītas vienas un tās pašas puses par vienu un to pašu priekšmetu un uz viena un tā paša pamata, vai puses noslēgušas izlīgumu un tiesa to apstiprinājusi.
+(2) Ja prasības pieteikums tiesā šā likuma 98.panta pirmajā daļā noteiktajā kārtībā iesniegts par strīda priekšmetu, kas skar daļu Apelācijas padomes lēmuma, šis lēmums pārējā tā daļā stājas spēkā, kad beidzas termiņš prasības pieteikuma iesniegšanai tiesā.
+(3) Ja Apelācijas padome nav saņēmusi šā likuma 98.panta trešajā daļā minēto informāciju un tās lēmums attiecas uz darbībām Patentu valdē, Apelācijas padome lēmumu nodod Patentu valdei izpildei. Ja prasības pieteikums tiesā iesniegts par strīda priekšmetu, kas skar daļu Apelācijas padomes lēmuma (šā panta otrā daļa), Apelācijas padome nodod Patentu valdei izpildei lēmumu pārējā tā daļā.

@@ -1,0 +1,4 @@
+72.pants. Apelācijas lietas izskatīšana rakstveida procesā
+(1) Apelācijas lietas izskatīšanu pēc būtības pabeidz ne vēlāk kā trīs mēnešus pēc lietas ierosināšanas dienas. Lietas izskatīšanas sastāva priekšsēdētājs šo datumu paziņo lietas dalībniekiem vismaz mēnesi iepriekš. Pēc šā datuma lietas dalībnieki jebkādus jaunus iesniegumus, lūgumus un pierādījumus ir tiesīgi iesniegt tikai tādā gadījumā, ja tos pieprasa Apelācijas padome.
+(2) Ja šajā likumā noteiktajā kārtībā un termiņā no lietas dalībnieka ir saņemtas atbildes uz Apelācijas padomes jautājumiem vai citi iesniegumi vai lūgumi, lietas izskatīšanas sastāva priekšsēdētājs ar tiem nekavējoties iepazīstina pārējos lietas dalībniekus un nosaka termiņu viņu viedokļa iesniegšanai.
+(3) Ja ir pamatots iemesls, Apelācijas padome ir tiesīga noteikt citu datumu, kad tiks pabeigta lietas izskatīšana pēc būtības. Lietas izskatīšanas sastāva priekšsēdētājs lietas dalībniekiem šo datumu paziņo vismaz mēnesi iepriekš.

@@ -1,0 +1,7 @@
+66.pants. Apelācijas lietas virzība pēc lietas ierosināšanas
+(1) Ja apelācijas iesniegums ir pieņemts un ierosināta apelācijas lieta, Apelācijas padome nekavējoties nodod apelācijas iesniegumu Patentu valdei - amatpersonai vai struktūrvienībai, kas pieņēmusi lēmumu, par kuru iesniegts apelācijas iesniegums.
+(2) Patentu valde atceļ vai groza attiecīgo lēmumu tiktāl, ciktāl tā apelācijas iesnieguma prasījumu atzīst par pamatotu.
+(3) Ja Patentu valdes lēmuma atcelšana vai grozīšana var skart trešās personas tiesības vai tiesiskās intereses vai ja mēneša laikā pēc apelācijas iesnieguma nodošanas Patentu valdei lēmums nav atcelts vai grozīts šā panta otrajā daļā paredzētajā kārtībā, Patentu valde apelācijas iesniegumu nekavējoties nodod atpakaļ Apelācijas padomei lietas izskatīšanai.
+(4) Ja Patentu valde ir atcēlusi vai grozījusi savu iepriekš pieņemto lēmumu un tas apelācijas iesnieguma iesniedzēju apmierina, viņš divu mēnešu laikā no šā lēmuma paziņošanas dienas ar attiecīgu iesniegumu atsauc savu apelācijas iesniegumu.
+(5) Ja Patentu valde ir grozījusi savu iepriekš pieņemto lēmumu, bet tas apelācijas iesnieguma iesniedzēju neapmierina, viņš šā panta ceturtajā daļā noteiktajā termiņā par to rakstveidā paziņo Patentu valdei. Patentu valde apelācijas iesniegumu nekavējoties nodod atpakaļ Apelācijas padomei lietas izskatīšanai.
+(6) Kamēr apelācijas lietas izskatīšana pēc būtības nav pabeigta, apelācijas iesnieguma iesniedzējs ir tiesīgs iesniegto apelācijas iesniegumu precizēt un papildināt.

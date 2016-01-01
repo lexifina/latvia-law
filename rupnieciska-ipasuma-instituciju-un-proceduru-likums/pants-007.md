@@ -1,0 +1,4 @@
+7.pants. Reģistru, pieteikumu un reģistrācijas lietu publiskums
+(1) Reģistru ierakstiem ir publiska ticamība. Reģistru ieraksti tiek publicēti Patentu valdes oficiālajā izdevumā un publiskoti Patentu valdes tīmekļa vietnē atbilstoši rūpnieciskā īpašuma normatīvajiem aktiem.
+(2) Ievērojot normatīvajos aktos noteiktos ierobežojumus, jebkura persona var iepazīties ar pieteikumu un reģistrācijas lietām un saņemt izrakstus no reģistriem, pieteikumu un reģistrācijas lietās esošu dokumentu atvasinājumus un izziņas.
+(3) Patentu valde, ja tas neprasa papildu resursus datu apstrādei un analīzei, ievērojot normatīvajos aktos noteiktos ierobežojumus, bez maksas sniedz nepieciešamo informāciju no reģistriem, pieteikumu un reģistrācijas lietām Saeimai, Ministru kabinetam, tiesībaizsardzības un citām valsts pārvaldes iestādēm, kā arī tām fiziskajām un juridiskajām personām, kurām šādas tiesības ir noteiktas normatīvajos aktos.

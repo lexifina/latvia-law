@@ -1,0 +1,1 @@
+5. Apelācijas vai iebilduma lietas dalībnieks vēršas tiesā par Patentu valdes Apelācijas padomes lēmumu, kas pieņemts pēc 2016.gada 1.janvāra, atbilstoši šajā likumā un Civilprocesa likumā noteiktajai kārtībai.

@@ -1,0 +1,13 @@
+128.pants. Profesionālā patentpilnvarnieka neatkarība, profesionālais noslēpums un darbības garantijas
+(1) Savā profesionālajā darbībā profesionālais patentpilnvarnieks ir neatkarīgs un pakļauts tikai normatīvajiem aktiem.
+(2) Profesionālais patentpilnvarnieks nedrīkst izpaust klienta noslēpumus, arī komercnoslēpumus. Šī prasība jāievēro ne tikai lietas vešanas laikā, bet arī pēc tās pabeigšanas un pilnvarojuma izbeigšanās, kā arī pēc profesionālā patentpilnvarnieka profesionālās darbības izbeigšanas. Profesionālais patentpilnvarnieks nodrošina, ka šīs prasības ievēro arī viņa vadībā strādājošie darbinieki, kuriem, veicot savus darba uzdevumus, kļuvuši zināmi profesionālā patentpilnvarnieka klienta noslēpumi.
+(3) Vienīgi klients vai klienta tiesību pārņēmējs rakstveidā var atbrīvot profesionālo patentpilnvarnieku no šā panta otrajā daļā minētajiem pienākumiem.
+(4) Patentu valde, Apelācijas padome, citas valsts un pašvaldību institūcijas, tiesas, prokurori un pirmstiesas izmeklēšanas iestādes garantē profesionālo patentpilnvarnieku profesionālās darbības neatkarību, ievērojot aizliegumu:
+1) iejaukties profesionālā patentpilnvarnieka profesionālajā darbībā, ietekmēt vai iespaidot viņu, pieprasīt no viņa ziņas un paskaidrojumus, kā arī nopratināt viņu kā liecinieku par apstākļiem, kas viņam kļuvuši zināmi, sniedzot klientiem profesionālā patentpilnvarnieka pakalpojumus;
+2) kontrolēt profesionālā patentpilnvarnieka korespondenci un dokumentus, kurus viņš saņēmis vai sastādījis, sniedzot profesionālā patentpilnvarnieka pakalpojumus, izdarīt to apskati un izņemšanu, kā arī veikt kratīšanu, lai atrastu un izņemtu šādu korespondenci un dokumentus;
+3) kontrolēt, arī izmantojot šīs daļas 2.punktā minētos procesuālos līdzekļus, profesionālā patentpilnvarnieka pakalpojumu sniegšanai izmantojamās informācijas sistēmas un sakaru līdzekļus, arī elektroniskos, iegūt informāciju no tiem un iejaukties to darbībā;
+4) pieprasīt no klientiem ziņas par profesionālā patentpilnvarnieka sniegto pakalpojumu saturu;
+5) pakļaut profesionālo patentpilnvarnieku jebkādām sankcijām vai draudiem sakarā ar profesionālā patentpilnvarnieka pakalpojumu sniegšanu klientiem saskaņā ar normatīvajiem aktiem.
+(5) Šā panta ceturtajā daļā minētie ierobežojumi aizsargā arī profesionālā patentpilnvarnieka vadībā strādājošos darbiniekus, ciktāl viņu pienākumi un darbība ir tieši saistīta ar profesionālā patentpilnvarnieka sniegtajiem pakalpojumiem.
+(6) Par profesionālā patentpilnvarnieka pakalpojumiem nav atzīstama nelikumīga darbība klienta interesēs, kā arī darbība klienta nelikumīga nodarījuma veicināšanai.
+(7) Pienākums saglabāt profesionālo noslēpumu neattiecas uz atlīdzību, ko profesionālais patentpilnvarnieks saņem par saviem pakalpojumiem.

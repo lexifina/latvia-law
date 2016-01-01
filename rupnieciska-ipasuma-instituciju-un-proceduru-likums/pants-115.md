@@ -1,0 +1,3 @@
+115.pants. Apelācijas padomes lēmuma paziņošanas un spēkā stāšanās īpatnības starptautiskās reģistrācijas apstrīdējuma gadījumā
+(1) Lēmumu, ar kuru izšķirts strīds lietā, kas saistīta ar starptautiskās reģistrācijas apstrīdējumu, Apelācijas padome paziņo apstrīdētās reģistrācijas īpašniekam arī gadījumā, ja tas nav iestājies lietā un lieta izskatīta tā prombūtnē.
+(2) Apelācijas padomes lēmums, ar kuru izšķirts strīds lietā, kas saistīta ar starptautiskās reģistrācijas apstrīdējumu, stājas spēkā atbilstoši šā likuma 99.panta noteikumiem. Par Apelācijas padomes lēmuma vai tiesas nolēmuma spēkā stāšanos Patentu valde noteiktā kārtībā paziņo Pasaules intelektuālā īpašuma organizācijas Starptautiskajam birojam.

@@ -1,0 +1,5 @@
+26.pants. Apelācijas padomes sastāva iecelšanas un atcelšanas kārtība
+(1) Apelācijas padomes priekšsēdētāju un Apelācijas padomes locekļus pēc tieslietu ministra priekšlikuma uz septiņiem gadiem ieceļ Ministru kabinets.
+(2) Ministru kabinets pēc tieslietu ministra priekšlikuma var atkārtoti iecelt Apelācijas padomes priekšsēdētāju vai Apelācijas padomes locekli uz jaunu pilnvaru laiku. Tādā pašā kārtībā Apelācijas padomes locekli var apstiprināt par Apelācijas padomes priekšsēdētāju vai Apelācijas padomes priekšsēdētāju apstiprināt par Apelācijas padomes locekli.
+(3) Ja Apelācijas padomes priekšsēdētājs vai Apelācijas padomes loceklis to lūdz, tieslietu ministrs viņu atbrīvo no pienākumu izpildes pirms pilnvaru laika beigām vai atbrīvo Apelācijas padomes priekšsēdētāju no priekšsēdētāja pienākumiem, saglabājot viņam Apelācijas padomes locekļa statusu.
+(4) Šajā likumā paredzētajos gadījumos Ministru kabinets pēc tieslietu ministra priekšlikuma atceļ Apelācijas padomes priekšsēdētāju vai Apelācijas padomes locekli pirms viņa pilnvaru laika beigām.
