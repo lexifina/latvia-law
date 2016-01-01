@@ -1,0 +1,4 @@
+8.pants. Atbrīvojums no pienākuma sagatavot konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm
+Šā likuma 4.pantā minētā komercsabiedrība, kura ir koncerna (grupas) mātessabiedrība, ir atbrīvota no pienākuma sagatavot konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm, ja:
+1) tā ir maza vai vidēja koncerna mātessabiedrība Gada pārskatu un konsolidēto gada pārskatu likuma 6.panta izpratnē;
+2) tā pati ir koncerna (grupas) meitassabiedrība un tās mātessabiedrība ir Latvijas Republikā vai citā Eiropas Savienības dalībvalstī reģistrēta komercsabiedrība un ja šīs meitassabiedrības veiktie maksājumi pārvaldes iestādēm ir iekļauti konsolidētajā paziņojumā par maksājumiem pārvaldes iestādēm, kas sagatavots atbilstoši tās dalībvalsts prasībām, kurā šīs meitassabiedrības mātessabiedrība reģistrēta.

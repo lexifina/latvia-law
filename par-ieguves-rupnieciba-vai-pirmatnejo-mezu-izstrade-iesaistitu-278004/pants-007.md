@@ -1,0 +1,5 @@
+7.pants. Pienākums sagatavot konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm
+(1) Šā likuma 4.pantā minētajai komercsabiedrībai, ja tā ir koncerna (grupas) mātessabiedrība un sagatavo konsolidēto gada pārskatu Gada pārskatu un konsolidēto gada pārskatu likumā, Kredītiestāžu likumā, Finanšu instrumentu tirgus likumā vai Apdrošināšanas un pārapdrošināšanas likumā noteiktajā kārtībā, ir pienākums sagatavot konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm.
+(2) Uzskata, ka koncerna (grupas) mātessabiedrība darbojas ieguves rūpniecībā vai pirmatnējo mežu izstrādē, ja kāda no tās meitassabiedrībām darbojas ieguves rūpniecībā vai pirmatnējo mežu izstrādē.
+(3) Konsolidētajā paziņojumā par maksājumiem pārvaldes iestādēm ietver tikai tos maksājumus, kas izriet no koncerna (grupas) mātessabiedrības vai tās meitassabiedrību saimnieciskās darbības ieguves rūpniecībā vai pirmatnējo mežu izstrādē.
+(4) Sagatavojot konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm, ievēro šā likuma 6.panta noteikumus.

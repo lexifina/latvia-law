@@ -1,0 +1,3 @@
+13.pants. Vadības pienākumi un atbildība
+(1) Šā likuma 4. vai 7.pantā minētās komercsabiedrības vadībai ir pienākums nodrošināt, lai paziņojums par maksājumiem pārvaldes iestādēm vai konsolidētais paziņojums par maksājumiem pārvaldes iestādēm būtu sagatavots un iesniegts saskaņā ar šā likuma prasībām un lai sagatavošanā būtu ņemta vērā visa komercsabiedrības vadības rīcībā esošā informācija par komercsabiedrības maksājumiem pārvaldes iestādēm.
+(2) Ja komercsabiedrības vadība nav sagatavojusi un iesniegusi paziņojumu par maksājumiem pārvaldes iestādēm vai konsolidēto paziņojumu par maksājumiem pārvaldes iestādēm saskaņā ar šā likuma prasībām, Valsts ieņēmumu dienesta amatpersona piemēro administratīvo sodu likumā noteiktajā kārtībā.

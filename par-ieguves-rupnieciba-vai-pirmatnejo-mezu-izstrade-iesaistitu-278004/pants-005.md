@@ -1,0 +1,4 @@
+5.pants. Atbrīvojums no pienākuma sagatavot paziņojumu par maksājumiem pārvaldes iestādēm
+Šā likuma 4.pantā minētā komercsabiedrība ir atbrīvota no pienākuma sagatavot paziņojumu par maksājumiem pārvaldes iestādēm, ja ir izpildīts viens no šādiem nosacījumiem:
+1) tā ir koncerna (grupas) meitassabiedrība, kuras mātessabiedrība ir Latvijas Republikā vai citā Eiropas Savienības dalībvalstī reģistrēta komercsabiedrība, un šīs meitassabiedrības veiktie maksājumi pārvaldes iestādēm ir iekļauti konsolidētajā paziņojumā par maksājumiem pārvaldes iestādēm, kuru sagatavojusi šīs meitassabiedrības mātessabiedrība atbilstoši tās dalībvalsts prasībām, kurā mātessabiedrība ir reģistrēta;
+2) tā ir koncerna (grupas) mātessabiedrība, kura savus veiktos maksājumus pārvaldes iestādēm ir iekļāvusi atbilstoši šā likuma prasībām sagatavotajā konsolidētajā paziņojumā par maksājumiem pārvaldes iestādēm.
