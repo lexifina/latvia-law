@@ -1,1 +1,1 @@
-5. Valsts probācijas dienests līdz 2015.gada 31.decembrim neīsteno probācijas programmas notiesātajiem, kuri izcieš sodu brīvības atņemšanas iestādēs, izņemot gadījumu, kad persona notiesāta par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību.
+5. Valsts probācijas dienests līdz 2018.gada 31.decembrim neīsteno probācijas programmas notiesātajiem, kuri izcieš sodu brīvības atņemšanas iestādēs, izņemot probācijas programmas notiesātajiem jauniešiem un personām, kuras notiesātas par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību.
