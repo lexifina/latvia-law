@@ -1,5 +1,5 @@
 8.pants. Topogrāfijas reģistrācija
-(1) Patentu valde topogrāfiju reģistrē Pusvadītāju izstrādājumu topogrāfiju valsts reģistrā un ziņas par topogrāfiju publicē savā oficiālajā izdevumā, kā arī izsniedz pieteicējam pēc valsts nodevas samaksāšanas noteikta parauga topogrāfijas reģistrācijas apliecību iespējami īsā laikā pēc pozitīva lēmuma pieņemšanas.
+(1) Patentu valde topogrāfiju reģistrē Pusvadītāju izstrādājumu topogrāfiju reģistrā un ziņas par topogrāfiju publicē savā oficiālajā izdevumā, kā arī izsniedz pieteicējam pēc maksas samaksāšanas noteikta parauga topogrāfijas reģistrācijas apliecību iespējami īsā laikā pēc pozitīva lēmuma pieņemšanas.
 (2) Ja pieteikumu iesniedz pirms topogrāfijas pirmās komerciālās izmantošanas, pieteicējam ir tiesības pieprasīt, lai ziņu publicēšana par topogrāfijas reģistrāciju tiktu atlikta līdz topogrāfijas pirmajai komerciālajai izmantošanai, bet ne ilgāk kā uz vienu gadu no topogrāfijas reģistrācijas dienas.
 (3) Pēc tam, kad ir publicētas ziņas par topogrāfijas reģistrāciju, ikvienai personai ir tiesības Patentu valdē iepazīties ar pieteikuma dokumentiem un materiāliem.
 (4) Šā panta trešās daļas noteikumi nav piemērojami pieteikuma sastāvdaļām, kuras pieteicējs uzskata par komercnoslēpumu un par kuru neizpaušanu viņš saskaņā ar šā likuma 5.panta piekto daļu jau agrāk ir iesniedzis Patentu valdei rakstveida lūgumu.

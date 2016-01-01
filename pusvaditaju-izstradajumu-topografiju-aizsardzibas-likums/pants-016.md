@@ -1,5 +1,5 @@
 16.pants. Tiesību atjaunošana
 (1) Jebkura persona, kura atbilst šā likuma 4.panta pirmās daļas noteikumiem un kurai ir pierādījumi, ka tai pieder tiesības uz topogrāfiju, var griezties tiesā ar prasību nodot tai tiesības uz pieteikumu vai topogrāfijas reģistrāciju, ja attiecīgo pieteikumu iesniegusi cita persona, kurai nebija tādu tiesību, vai ja reģistrācija jau izdarīta šīs personas labā.
 (2) Šā panta pirmajā daļā minētās tiesības ir izmantojamas ne vēlāk kā divu gadu laikā no topogrāfijas reģistrācijas dienas.
-(3) Patentu valde, pamatojoties uz tiesas spriedumu, izdara Pusvadītāju izstrādājumu topogrāfiju valsts reģistrā un citos ar topogrāfijas reģistrāciju saistītajos dokumentos nepieciešamos grozījumus. Iesniegumam par grozījumu izdarīšanu pievienojams dokuments par valsts nodevas samaksu.
+(3) Patentu valde, pamatojoties uz tiesas spriedumu, izdara Pusvadītāju izstrādājumu topogrāfiju valsts reģistrā un citos ar topogrāfijas reģistrāciju saistītajos dokumentos nepieciešamos grozījumus.
 (4) Topogrāfijas izveidotājam, ja viņš nav topogrāfijas īpašnieks, ir tiesības aizstāvēt savas tiesības tiesā tādā pašā kārtībā, kādu nosaka Patentu likuma noteikumi par izgudrotāja tiesību aizsardzību.

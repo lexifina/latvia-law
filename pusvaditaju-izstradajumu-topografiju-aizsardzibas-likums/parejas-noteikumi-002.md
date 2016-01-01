@@ -1,1 +1,0 @@
-2. Ministru kabinets nosaka valsts nodevu apmēru par topogrāfiju tiesisko aizsardzību. Līdz laikam, kad stājas spēkā attiecīgie Ministru kabineta noteikumi, šīs nodevas maksājamas tādā apmērā, kāds noteikts par dizainparaugu aizsardzību.
