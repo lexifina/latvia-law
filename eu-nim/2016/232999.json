@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2015.gada 3.decembra  lēmums Nr.1/21 “Elektronisko sakaru pakalpojumu kvalitātes prasību, kvalitātes pārskatu iesniegšanas un publiskošanas noteikumi”",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "241 (5559)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-09",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-21",
+  "commission_reference": "MNE(2015)59540",
+  "nim_celex": "72009L0136LVA_232999",
+  "nim_id": "232999",
+  "transposes_celex": [
+    "32009L0136"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f578c0f-1f19-4ed0-ade1-73f4985bfa15",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
