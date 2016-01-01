@@ -24,7 +24,7 @@
 15) palīgpakalpojumi - pakalpojumi, kas nepieciešami elektroenerģijas pārvades sistēmas balansētas darbības nodrošināšanai;
 16) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
 17) (izslēgts no 01.04.2014. ar 06.11.2013. likumu);
-17¹) aizsargātais lietotājs - trūcīga vai maznodrošināta ģimene (persona) vai daudzbērnu ģimene, kura izlieto elektroenerģiju savā mājsaimniecībā pašas vajadzībām (galapatēriņam);
+17¹) aizsargātais lietotājs - trūcīga vai maznodrošināta ģimene (persona), daudzbērnu ģimene vai ģimene (persona), kuras aprūpē ir bērns ar invaliditāti, persona ar I invaliditātes grupu, kura izlieto elektroenerģiju savā mājsaimniecībā pašas vajadzībām (galapatēriņam);
 17²) aizsargātā lietotāja tirdzniecības pakalpojums - elektroenerģijas tirdzniecība aizsargātajam lietotājam;
 18) sistēmas pakalpojums - elektroenerģijas pārvade vai sadale, kas nodrošina elektroenerģijas plūsmas no ražotājiem līdz lietotājiem;
 19) starpvalstu savienojums - elektrolīnija, kas sasaista atsevišķās valstīs izvietotas pārvades sistēmas;
