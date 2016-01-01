@@ -1,3 +1,3 @@
 46.pants. Tiesības organizēt interaktīvās azartspēles
-(1) Licenci interaktīvo azartspēļu organizēšanai un likmju pieņemšanai izsniedz kapitālsabiedrībām, kuras šajā likumā noteiktajā kārtībā saņēmušas Izložu un azartspēļu uzraudzības inspekcijas izsniegtu azartspēļu organizēšanas licenci.
+(1) (Izslēgta ar 30.11.2015. likumu)
 (2) Interaktīvo azartspēļu organizēšana un likmju pieņemšana ir atļauta pēc tam, kad saņemta attiecīgā Izložu un azartspēļu uzraudzības inspekcijas izsniegtā licence.

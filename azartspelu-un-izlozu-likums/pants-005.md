@@ -7,4 +7,4 @@ Latvijas Republikā ir atļauts organizēt šādas azartspēles:
 5) derības;
 6) totalizatoru;
 7) bingo;
-8) interaktīvās azartspēles.
+8) veiksmes spēles pa tālruni.

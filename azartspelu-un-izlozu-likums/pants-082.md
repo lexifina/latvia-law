@@ -5,4 +5,5 @@
 2) veikt azartspēļu un izložu organizētāju licencēšanu, uzraudzību un kontroli;
 3) izstrādāt ar azartspēļu un izložu organizēšanu saistītu normatīvo aktu projektus;
 4) nodrošināt azartspēļu un izložu tirgus sistemātisku uzskaiti un statistisku analīzi;
-5) reģistrēt azartspēļu automātus un iekārtas un sniegt valsts un pašvaldību institūcijām azartspēļu un izložu nodokļa administrēšanai nepieciešamās ziņas.
+5) reģistrēt azartspēļu automātus un iekārtas un sniegt valsts un pašvaldību institūcijām azartspēļu un izložu nodokļa administrēšanai nepieciešamās ziņas;
+6) nodrošināt vienotās azartspēļu automātu kontroles un uzraudzības sistēmas darbību, izmantojot tiešsaistes datu apmaiņu ar azartspēļu organizētājiem.

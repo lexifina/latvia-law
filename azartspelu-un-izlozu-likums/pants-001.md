@@ -2,12 +2,12 @@
 Likumā ir lietoti šādi termini:
 1) azartspēle - spēle, kurā fiziskā persona, iemaksājot dalības likmi, var iegūt laimestu, kas pilnīgi vai daļēji ir atkarīgs no veiksmes gadījuma vai apstākļiem, kuri iepriekš nav zināmi. Par azartspēli nav uzskatāma tāda spēle spēļu automātā, kurā vienīgais laimests ir bezmaksas spēle šajā spēļu automātā, kā arī spēle spēļu automātā ar mantiska rakstura laimestu (izņemot laimestu naudā), kura vērtība nav lielāka par 15 euro;
 2) azartspēļu automāts - azartspēļu organizēšanai paredzēta elektroniska, mehāniska vai elektromehāniska ierīce ar īpašu programmu vai mehānismu laimesta lieluma noteikšanai;
-3) azartspēļu organizētājs - Latvijas Republikā reģistrēta kapitālsabiedrība, kura šajā likumā noteiktajā kārtībā ir saņēmusi nepieciešamās licences azartspēļu organizēšanai;
+3) azartspēļu organizētājs - persona, kas Latvijas Republikā organizē azartspēles vai gūst ieņēmumus no šādas darbības;
 4) bingo - azartspēle, kurā spēlētājam, uzminot nejaušu skaitļu kombināciju no iepriekš noteiktām skaitļu kombinācijām, ir iespēja iegūt laimestu un kurā laimesta lielums ir atkarīgs no izlozētās vai uzminētās skaitļu kombinācijas un iemaksāto likmju kopsummas;
 5) derības - azartspēle, kurā tās dalībnieks piedalās, iemaksājot dalības maksu (likmi) un prognozējot kāda notikuma iespējamību vai neiespējamību, un kurā laimesta lielums ir atkarīgs no spēlētāja prognozes pareizības, iemaksātās likmes un spēles noteikumos paredzētā laimesta aprēķināšanas koeficienta;
 6) interaktīvā azartspēle vai izloze - azartspēle vai izloze, kurā spēlētājs var piedalīties, izmantojot elektronisko sakaru pakalpojumus: internetu, tālruni, televīziju, radio vai jebkādus cita veida elektroniskos sakarus;
 7) izloze vai loterija (turpmāk - izloze) - spēle, kurai ir laimes līguma raksturs un kurā tās dalībnieka iegūtajam laimestam pilnīgi vai daļēji ir gadījuma raksturs;
-8) izložu organizētājs - Latvijas Republikā reģistrēta kapitālsabiedrība un atsevišķos gadījumos arī biedrība vai reliģiskā organizācija, kura šajā likumā noteiktajā kārtībā ir saņēmusi nepieciešamās licences izložu organizēšanai;
+8) izložu organizētājs - persona, kas Latvijas Republikā organizē izlozes un gūst ieņēmumus no šādas darbības;
 9) kauliņu spēle - azartspēle, kurā laimests ir atkarīgs no kauliņu skaitļa uzmešanas un spēles noteikumos noteiktā laimesta koeficienta un kura nav aprīkota ar īpašu elektronisku programmu spēles vadīšanai un laimesta lieluma noteikšanai;
 10) kāršu spēle - azartspēle, kurā laimests ir atkarīgs no izliktajām kārtīm (to kombinācijas) un spēles noteikumos noteiktā laimesta koeficienta un kura nav aprīkota ar īpašu elektronisku programmu spēles vadīšanai un laimesta lieluma noteikšanai;
 11) kāršu un kauliņu spēles galds - rūpnieciski ražots galds ar aprīkotu spēles vadītāja vietu, spēlētāju likmju izdarīšanas vietām un klājumu;
