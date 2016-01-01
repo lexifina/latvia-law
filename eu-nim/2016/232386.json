@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums par ieguves rūpniecībā vai pirmatnējo mežu izstrādē iesaistītu komercsabiedrību paziņojumiem par maksājumiem pārvaldes iestādēm",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "230 (5548)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-11-24",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2015-12-03",
+  "commission_reference": "MNE(2015)58947",
+  "nim_celex": "72013L0034LVA_232386",
+  "nim_id": "232386",
+  "transposes_celex": [
+    "32013L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7c60eef-8b41-4d8f-b8fc-45718ae2ad36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
