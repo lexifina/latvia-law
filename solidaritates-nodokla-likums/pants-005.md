@@ -1,0 +1,2 @@
+5.pants. Nodokļa maksātāji
+Nodokļa maksātāji ir darba devēji, darba ņēmēji, iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka, ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka - un pašnodarbinātie, kuri pakļauti valsts sociālajai apdrošināšanai un kuru ienākumi taksācijas periodā pārsniedz saskaņā ar likumu "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru.

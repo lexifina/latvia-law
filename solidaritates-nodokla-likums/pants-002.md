@@ -1,0 +1,3 @@
+2.pants. Likuma mērķis un darbības joma
+(1) Likuma mērķis ir mazināt nodokļu regresivitāti darba ņēmējiem, iekšzemes darba ņēmējiem pie darba devēja - ārvalstnieka, ārvalstu darba ņēmējiem pie darba devēja - ārvalstnieka - un pašnodarbinātajiem ar augstāku ienākuma līmeni, vienlaikus nodrošinot valsts pamatbudžeta ieņēmumus valsts iedzīvotāju pieaugošo sociālās aizsardzības un nevienlīdzības mazināšanas vajadzību finansēšanai.
+(2) Šis likums nosaka solidaritātes nodokļa (turpmāk - nodoklis) maksātājus, taksācijas periodu un noteikumus par nodokļa objekta un likmes noteikšanu, kā arī nodokļa maksāšanas kārtību un regulē citus ar šā nodokļa aprēķināšanu, maksāšanu un administrēšanu saistītus jautājumus.
