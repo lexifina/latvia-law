@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015.gada 2.jūnija noteikumi Nr.279 „Ceļu satiksmes noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "122 (5440)",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-27",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2017-09-01",
+  "commission_reference": "MNE(2017)54878",
+  "nim_celex": "72015L0719LVA_250565",
+  "nim_id": "250565",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/98834521-8140-4bc2-b97b-5e80d8ce9b93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
