@@ -3,7 +3,7 @@
 (1¹) No valsts budžeta maksājamās nodokļa summas kā priekšnodoklis pilnībā nav atskaitāma nodokļa summa par:
 1) tādas vieglās pasažieru automašīnas iegādi, nomu un importu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas vietas un kuras vērtība pārsniedz uzņēmumu ienākuma nodokli regulējošajos normatīvajos aktos noteikto reprezentatīvā vieglā automobiļa vērtību;
 2) izmaksām, kas saistītas ar šīs daļas 1.punktā minētās automašīnas uzturēšanu (tajā skaitā izmaksām par šādas automašīnas remontu un degvielas iegādi).
-(2) No valsts budžetā maksājamās nodokļa summas kā priekšnodoklis nav atskaitāmi 20 procenti no nodokļa par iegādātu, nomātu vai importētu vieglo pasažieru automašīnu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas sēdvietas un kura nav šā panta 1.¹ daļas 1.punktā minētā automašīna, kā arī ar šādas automašīnas uzturēšanu saistītās izmaksas, tai skaitā izmaksas par automašīnas remontu un degvielas iegādi.
+(2) No valsts budžetā maksājamās nodokļa summas kā priekšnodoklis nav atskaitāmi 50 procenti no nodokļa par iegādātu, nomātu vai importētu vieglo pasažieru automašīnu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas sēdvietas un kura nav šā panta 1.¹ daļas 1.punktā minētā automašīna, kā arī ar šādas automašīnas uzturēšanu saistītās izmaksas, tai skaitā izmaksas par automašīnas remontu un degvielas iegādi.
 (3) Šā panta 1.¹ un otrā daļa nav attiecināma uz gadījumiem, kad:
 1) reģistrēts nodokļa maksātājs iegādājas, nomā vai importē vieglo pasažieru automašīnu šādu ar nodokli apliekamo darījumu veikšanai:
 a) pasažieru pārvadājumiem par atlīdzību, tai skaitā taksometru pakalpojumu sniegšanai,

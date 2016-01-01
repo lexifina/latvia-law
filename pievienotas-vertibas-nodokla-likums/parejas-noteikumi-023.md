@@ -1,0 +1,1 @@
+23. Grozījumi attiecībā uz šā likuma 52.panta pirmās daļas 8.punkta "b" apakšpunkta un 25.punkta "b" apakšpunkta izslēgšanu, grozījumi šā likuma 52.panta ceturtās daļas 8.punktā, grozījumi attiecībā uz šā likuma 137.panta papildināšanu ar 2.¹ daļu un grozījumi šā panta trešajā, ceturtajā, piektajā un sestajā daļā stājas spēkā 2016.gada 1.jūlijā.
