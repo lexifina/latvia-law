@@ -1,0 +1,4 @@
+5.pants. Tiesisko attiecību nodibināšana un izbeigšana
+(1) Brīvprātīgā darba organizētāja un brīvprātīgā darba veicēja tiesiskās attiecības tiek nodibinātas, kad brīvprātīgā darba organizētājs un brīvprātīgā darba veicējs ir vienojušies par veicamā darba apjomu, izpildes kārtību un termiņu, kā arī brīvprātīgā darba veicējs ir iepazīstināts ar saviem pienākumiem un tiesībām.
+(2) Tiesiskās attiecības izbeidz vienpusēji, ne vēlāk kā trīs dienas iepriekš paziņojot par to līguma otrai pusei. Ja ir noslēgts rakstveida līgums par brīvprātīgo darbu, paziņojumu par tiesisko attiecību izbeigšanu otrai pusei iesniedz rakstveidā.
+(3) Brīvprātīgā darba veicējs tiesiskās attiecības var izbeigt nekavējoties, ja to darīt viņam ir svarīgs iemesls. Par šādu iemeslu atzīstams katrs tāds apstāklis, kas, pamatojoties uz tikumības un taisnprātības apsvērumiem, neļauj turpināt brīvprātīgo darbu.
