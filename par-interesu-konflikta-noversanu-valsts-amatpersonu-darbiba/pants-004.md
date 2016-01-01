@@ -25,7 +25,9 @@
 22) Nacionālo bruņoto spēku profesionālā dienesta karavīrs;
 23) (izslēgts ar 12.11.2009. likumu);
 24) publiskā iepirkuma komisijas loceklis;
-25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi.
+25) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi;
+26) maksātnespējas administrators;
+27) Rūpnieciskā īpašuma apelācijas padomes priekšsēdētājs un loceklis.
 (2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus publiskas personas institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības:
 1) izdot administratīvos aktus;
 2) veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā;
