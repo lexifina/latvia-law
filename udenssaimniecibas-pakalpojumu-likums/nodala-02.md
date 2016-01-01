@@ -1,0 +1,2 @@
+II nodaļa
+Publisko institūciju kompetence ūdenssaimniecības pakalpojumu pieejamības nodrošināšanā

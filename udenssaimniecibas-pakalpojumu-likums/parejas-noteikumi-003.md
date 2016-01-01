@@ -1,0 +1,1 @@
+3. Līdz šā likuma spēkā stāšanās dienai noslēgtie pakalpojuma līgumi par sabiedrisko ūdenssaimniecības pakalpojumu sniegšanu ir spēkā līdz līgumos noteiktajiem beigu termiņiem un uz tiem attiecināmi šā likuma 6.panta ceturtās daļas 3.punktā minētie sabiedriskā ūdenssaimniecības pakalpojuma līguma noteikumi.

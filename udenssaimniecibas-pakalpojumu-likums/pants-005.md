@@ -1,0 +1,7 @@
+5.pants. Sabiedrisko pakalpojumu regulēšanas komisijas kompetence
+(1) Sabiedrisko pakalpojumu regulēšanas komisija (turpmāk - regulators) regulē komersanta sniegtos sabiedriskos ūdenssaimniecības pakalpojumus saskaņā ar šo likumu un likumu "Par sabiedrisko pakalpojumu regulatoriem" visos sabiedrisko ūdenssaimniecības pakalpojumu veidos, ja komersanta sniegto sabiedrisko ūdenssaimniecības pakalpojumu apjoms vismaz vienā veidā pārsniedz 100 000 kubikmetrus gadā (turpmāk - regulējams komersants).
+(2) Regulators reģistrē regulējamus komersantus sabiedrisko ūdenssaimniecības pakalpojumu sniedzēju reģistrā. Regulējams komersants var sniegt sabiedriskos ūdenssaimniecības pakalpojumus, ja tam ir ar pašvaldību noslēgts līgums par sabiedrisko ūdenssaimniecības pakalpojumu sniegšanu un tas ir reģistrēts sabiedrisko ūdenssaimniecības pakalpojumu sniedzēju reģistrā. Regulējams komersants var izbeigt sabiedrisko ūdenssaimniecības pakalpojumu sniegšanu, ja tas regulatora noteiktajā kārtībā nosūtījis regulatoram paziņojumu par darbības izbeigšanu un ir izslēgts no sabiedrisko ūdenssaimniecības pakalpojumu sniedzēju reģistra.
+(3) Regulators saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem":
+1) nosaka sabiedrisko ūdenssaimniecības pakalpojumu sniegšanas vispārējās atļaujas noteikumus, kas ir saistoši regulējamam komersantam;
+2) veido un uztur sabiedrisko ūdenssaimniecības pakalpojumu sniedzēju reģistru un nodrošina tā publisku pieejamību;
+3) nosaka tarifus regulējama komersanta sniegtajiem sabiedriskajiem ūdenssaimniecības pakalpojumiem.
