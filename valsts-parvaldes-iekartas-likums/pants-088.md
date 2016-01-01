@@ -1,9 +1,11 @@
-88.pants. Publiskas personas komercdarbība
-(1) Publiska persona komercdarbību var veikt:
-1) ja tirgus nav spējīgs nodrošināt sabiedrības interešu īstenošanu attiecīgajā jomā;
-2) nozarē, kurā pastāv dabiskais monopols, tādējādi nodrošinot sabiedrībai attiecīgā pakalpojuma pieejamību;
-3) stratēģiski svarīgā nozarē;
-4) jaunā nozarē;
-5) nozarē, kuras infrastruktūras attīstībai nepieciešami lieli kapitālieguldījumi;
-6) nozarē, kurā atbilstoši sabiedrības interesēm nepieciešams nodrošināt augstāku kvalitātes standartu.
-(2) Komercdarbības veikšanai publiska persona (publiskas personas) saskaņā ar likumu dibina kapitālsabiedrību.
+88.pants. Publiskas personas līdzdalība kapitālsabiedrībā
+(1) Ciktāl likumā nav noteikts citādi, publiska persona savu funkciju efektīvai izpildei var dibināt kapitālsabiedrību vai iegūt līdzdalību esošā kapitālsabiedrībā, ja īstenojas viens no šādiem nosacījumiem:
+1) tiek novērsta tirgus nepilnība - situācija, kad tirgus nav spējīgs nodrošināt sabiedrības interešu īstenošanu attiecīgajā jomā;
+2) publiskas personas kapitālsabiedrības vai publisku personu kontrolētas kapitālsabiedrības darbības rezultātā tiek radītas preces vai pakalpojumi, kas ir stratēģiski svarīgi valsts vai pašvaldības administratīvās teritorijas attīstībai vai valsts drošībai;
+3) tiek pārvaldīti tādi īpašumi, kas ir stratēģiski svarīgi valsts vai pašvaldības administratīvās teritorijas attīstībai vai valsts drošībai.
+(2) Publiska persona pirms kapitālsabiedrības dibināšanas vai līdzdalības iegūšanas esošā kapitālsabiedrībā veic paredzētās rīcības izvērtējumu, ietverot arī ekonomisko izvērtējumu, lai pamatotu, ka citādā veidā nav iespējams efektīvi sasniegt šā panta pirmajā daļā noteiktos mērķus. Veicot izvērtējumu, publiska persona konsultējas ar kompetentajām institūcijām konkurences aizsardzības jomā un komersantus pārstāvošām biedrībām vai nodibinājumiem, kā arī ievēro komercdarbības atbalsta kontroles jomu regulējošu normatīvo aktu prasības.
+(3) Ministru kabinets pēc šā panta otrajā daļā minētā izvērtējuma veikšanas izdod noteikumus, kuros nosaka valsts attīstībai vai drošībai stratēģiski svarīgus īpašumus vai tirgus nepilnību, vai tādas preces un pakalpojumus, kas kapitālsabiedrības darbības rezultātā tiek radīti un ir stratēģiski svarīgi valsts attīstībai vai drošībai.
+(4) Pašvaldības dome pēc šā panta otrajā daļā minētā izvērtējuma veikšanas izdod saistošos noteikumus, kuros nosaka tirgus nepilnību vai tādus pašvaldības īpašumus, vai preces un pakalpojumus, kas ir stratēģiski svarīgi pašvaldības administratīvās teritorijas attīstībai. Šie saistošie noteikumi tiek izstrādāti, pieņemti un stājas spēkā tādā pašā kārtībā, kādā tiek izstrādāti, pieņemti un stājas spēkā saistošie noteikumi par pašvaldības budžeta apstiprināšanu vai grozīšanu.
+(5) Atvasināta publiska persona, kas nav pašvaldība, var dibināt kapitālsabiedrību vai iegūt līdzdalību esošā kapitālsabiedrībā saskaņā ar šā panta noteikumiem un ņemot vērā šā panta trešajā vai ceturtajā daļā minētajā ārējā normatīvajā aktā noteikto.
+(6) Šā panta trešajā un ceturtajā daļā minētajos normatīvajos aktos norāda publiskas personas funkcijas un konkrētus komercdarbības veidus, kādos šīs funkcijas tiks pildītas, lai sasniegtu šā panta pirmajā daļā noteiktos mērķus.
+(7) Publiska persona, kas dibinājusi kapitālsabiedrību vai ieguvusi līdzdalību esošā kapitālsabiedrībā, pārvērtē līdzdalību tajā saskaņā ar šo pantu un Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumu.
