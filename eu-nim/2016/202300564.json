@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Statistikas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2015-06-18",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2023-01-24",
+  "commission_reference": "MNE(2023)00564",
+  "nim_celex": "72019L1024LVA_202300564",
+  "nim_id": "202300564",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c96dd438-9e25-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
