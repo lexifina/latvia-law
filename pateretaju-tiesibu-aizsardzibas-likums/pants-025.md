@@ -6,8 +6,9 @@
 1) tirgus uzraudzība un kontrole nepārtikas preču tirdzniecībā un pakalpojumu sniegšanas jomā, izņemot jomas, kurās saskaņā ar normatīvajiem aktiem tirgus uzraudzība un kontrole ir citu iestāžu kompetencē;
 2) pārtikas un nepārtikas preču svara un mēra pareizas noteikšanas, kā arī pirkuma samaksas pareizas aprēķināšanas uzraudzība;
 3) patērētāju tiesību aizsardzības valsts politikas īstenošanā iesaistīto uzraudzības un kontroles iestāžu un patērētāju tiesību aizsardzības nevalstisko organizāciju sadarbības organizēšana un koordinēšana;
-4) palīdzības sniegšana patērētājiem strīdu risināšanā ar ražotājiem, pārdevējiem vai pakalpojumu sniedzējiem, patērētāju likumīgo prasību izpildes pieprasīšana;
+4) palīdzības sniegšana patērētājiem strīdu risināšanā ar pārdevējiem vai pakalpojumu sniedzējiem;
 4¹) par patērētāju tiesību aizsardzības normatīvo aktu pārkāpumiem saņemto iesniegumu un sūdzību izvērtēšana, ņemot vērā iespējamā pārkāpuma būtiskumu un potenciālo kaitējumu patērētāju kolektīvajām interesēm;
+4²) Patērētāju strīdu risināšanas komisijas darbības organizēšana (komisijas sekretariāta funkciju izpilde);
 5) juridiskas palīdzības sniegšana patērētājiem viņu tiesību jautājumos;
 6) patērētāju tiesību ievērošanas uzraudzība līgumu projektos un līgumos, ko patērētāji slēdz ar ražotājiem, pārdevējiem vai pakalpojumu sniedzējiem, arī normatīvajos aktos paredzēto darbību veikšana, lai ražotājs, pārdevējs vai pakalpojuma sniedzējs grozītu līguma projektu vai pārtrauktu pildīt līguma noteikumus, ja līguma projektā vai noslēgtajā līgumā konstatēti netaisnīgi vai neskaidri noteikumi;
 6¹) negodīgas komercprakses un reklāmas uzraudzība, izņemot zāļu un veterināro zāļu jomu, lai nodrošinātu patērētāju tiesību un ekonomisko interešu ievērošanu;
