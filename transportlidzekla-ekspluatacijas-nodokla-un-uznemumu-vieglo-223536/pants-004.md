@@ -49,12 +49,12 @@ h) virs 300 kW - 277,46 euro.
 6) no 3501 kg līdz 12 000 kg - 110,98 euro;
 7) vairāk par 12 000 kg - 145,13 euro.
 (6) Transportlīdzekļa ekspluatācijas nodokli par kravas automobiļiem ar pilnu masu līdz 12 000 kg maksā atbilstoši šo transportlīdzekļu pilnai masai šādā apmērā:
-1) līdz 1500 kg - 17,07 euro;
-2) no 1501 kg līdz 1800 kg - 34,15 euro;
-3) no 1801 kg līdz 2100 kg - 64,03 euro;
-4) no 2101 kg līdz 2600 kg - 76,84 euro;
-5) no 2601 kg līdz 3500 kg - 102,45 euro;
-6) no 3501 kg līdz 12 000 kg - 145,13 euro.
+1) līdz 1500 kg - 36 euro;
+2) no 1501 kg līdz 1800 kg - 72 euro;
+3) no 1801 kg līdz 2100 kg - 138 euro;
+4) no 2101 kg līdz 2600 kg - 165 euro;
+5) no 2601 kg līdz 3500 kg - 219 euro;
+6) no 3501 kg līdz 12 000 kg - 156 euro.
 (7) Transportlīdzekļa ekspluatācijas nodokli par kravas automobiļiem ar pilnu masu virs 12 000 kg (izņemot seglu vilcējus) maksā atkarībā no šo kravas automobiļu asu skaita un dzenošā tilta atsperojuma veida (pneimatiskais vai mehāniskais atsperojums) saskaņā ar šā likuma 1.pielikumu.
 (8) Transportlīdzekļa ekspluatācijas nodokli par seglu vilcējiem maksā atkarībā no šo transportlīdzekļu dzenošā tilta atsperojuma veida šādā apmērā:
 1) ar pneimatisko atsperojumu - 170,74 euro;
