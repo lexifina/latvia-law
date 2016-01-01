@@ -1,4 +1,3 @@
 16.pants. Uzņēmumu vieglo transportlīdzekļu nodokļa administrācija
-(1) Uzņēmumu vieglo transportlīdzekļu nodokli administrē Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija.
-(2) Ceļu satiksmes drošības direkcija nodrošina uzņēmumu vieglo transportlīdzekļu nodokļa iekasēšanu, Valsts ieņēmumu dienests veic uzņēmumu vieglo transportlīdzekļu nodokļa kontroli un atmaksu no valsts budžeta.
-(3) Ministru kabinets nosaka kārtību, kādā iekasē, maksā un atmaksā uzņēmumu vieglo transportlīdzekļu nodokli, kā arī kārtību, kādā piemērojami uzņēmumu vieglo transportlīdzekļu nodokļa atvieglojumi.
+(1) Ceļu satiksmes drošības direkcija, pirms tā sniedz šajā likumā paredzēto pakalpojumu, pārliecinās, vai saskaņā ar šo likumu par attiecīgo transportlīdzekli ir samaksāts uzņēmumu vieglo transportlīdzekļu nodoklis par iepriekšējo taksācijas periodu un par periodu līdz attiecīgā pakalpojuma sniegšanai taksācijas periodā, ieskaitot mēnesi, kurā pakalpojums tiek sniegts.
+(2) Valsts ieņēmumu dienests attiecībā uz uzņēmumu vieglo transportlīdzekļu nodokli veic likuma "Par nodokļiem un nodevām" 18.panta pirmajā daļā minētos pienākumus, izņemot šā panta pirmajā daļā minēto pienākumu.

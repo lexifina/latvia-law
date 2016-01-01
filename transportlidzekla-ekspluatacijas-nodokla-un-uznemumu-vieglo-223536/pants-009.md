@@ -1,3 +1,3 @@
 9.pants. Transportlīdzekļa ekspluatācijas nodokļa administrācija
-(1) Transportlīdzekļa ekspluatācijas nodokli administrē Valsts ieņēmumu dienests un Ceļu satiksmes drošības direkcija.
-(2) Ceļu satiksmes drošības direkcija nodrošina transportlīdzekļa ekspluatācijas nodokļa iekasēšanu, Valsts ieņēmumu dienests veic pārmaksātā vai nepareizi iemaksātā transportlīdzekļa ekspluatācijas nodokļa atmaksu no valsts budžeta.
+(1) Ceļu satiksmes drošības direkcija, pirms tā sniedz šajā likumā paredzēto pakalpojumu, pārliecinās, vai transportlīdzekļa ekspluatācijas nodoklis ir samaksāts šajā likumā noteiktajā apmērā par kārtējo kalendāra gadu un par iepriekšējiem kalendāra gadiem, ja iepriekšējos kalendāra gados transportlīdzeklis ir bijis reģistrēts Latvijā.
+(2) Valsts ieņēmumu dienests attiecībā uz transportlīdzekļa ekspluatācijas nodokli veic likuma "Par nodokļiem un nodevām" 18.panta pirmajā daļā minētos pienākumus, izņemot šā panta pirmajā daļā noteikto pienākumu.
