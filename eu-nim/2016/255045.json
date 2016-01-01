@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 752 2015. gada 22. decembrī \nKārtība, kādā licencē un reģistrē darbības ar jonizējošā starojuma avotiem",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2015/254.8",
+  "official_journal_page": null,
+  "official_journal_date": "2015-12-30",
+  "entry_into_force": "2016-01-01",
+  "notification_date": "2018-01-23",
+  "commission_reference": "MNE(2018)50536",
+  "nim_celex": "72013L0059LVA_255045",
+  "nim_id": "255045",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1dec9d6d-0af3-4f10-8f9c-6e7965dbcbf7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
