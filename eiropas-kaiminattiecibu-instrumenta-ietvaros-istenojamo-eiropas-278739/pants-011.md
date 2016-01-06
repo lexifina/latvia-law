@@ -1,0 +1,5 @@
+11.pants. Apvienotā uzraudzības komiteja, tās pienākumi un tiesības
+(1) Apvienotā uzraudzības komiteja tiek izveidota atbilstoši Regulas Nr. 897/2014 22.pantam, darbojas saskaņā ar tās apstiprināto nolikumu un pilda minētās Regulas 24.pantā noteiktās funkcijas.
+(2) Apvienotā uzraudzības komiteja apstiprina vadlīnijas par projektu sagatavošanu, iesniegšanu, atlasi (arī projektu iesniegumu atlases kritērijiem) un īstenošanu, programmas izmaksu attiecināmību, kas ir saistošas programmas vadībā iesaistītajām institūcijām, projektu iesniegumu iesniedzējiem un programmas finansējuma saņēmējiem.
+(3) Apvienotā uzraudzības komiteja var lemt par iepriekš noteikto un lielo infrastruktūras projektu īstenošanu un tiem piešķiramo programmas finansējumu saskaņā ar Regulu Nr. 897/2014.
+(4) Apvienotās uzraudzības komitejas pieņemtie lēmumi ir saistoši programmas vadībā Latvijā iesaistītajām institūcijām, finanšu kontroles institūcijai, projektu iesniegumu iesniedzējiem un programmas finansējuma saņēmējiem.

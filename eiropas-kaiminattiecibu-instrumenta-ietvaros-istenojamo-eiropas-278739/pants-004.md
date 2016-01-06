@@ -1,0 +1,3 @@
+4.pants. Valsts budžeta līdzfinansējuma likme
+(1) Valsts budžeta līdzfinansējuma likme programmu ietvaros apstiprināto projektu īstenošanai nav augstāka par programmas dokumentā noteikto Latvijai minimālo iespējamo likmi, ar kuru var nodrošināt Eiropas Komisijas lēmumā par programmas apstiprināšanu attiecīgajam programmas prioritārajam virzienam noteikto programmas finansējuma likmi, izņemot šā panta otrajā daļā minētos gadījumus.
+(2) Ministru kabinets ir tiesīgs lemt par valsts budžeta līdzfinansējuma likmes palielināšanu virs šā panta pirmajā daļā noteiktā limita iepriekš noteiktajiem projektiem un lielajiem infrastruktūras projektiem, ja programmas īstenošanas laikā programmas pieejamais finansējums nav pietiekams projekta mērķa sasniegšanai.
