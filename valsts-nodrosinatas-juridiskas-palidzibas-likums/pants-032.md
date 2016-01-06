@@ -6,3 +6,4 @@
 (5) Juridiskās palīdzības sniedzējs nedrīkst atteikties sniegt juridisko palīdzību, izņemot gadījumu, kad pieprasītā juridiskā palīdzība neatbilst juridiskās palīdzības līguma nosacījumiem vai šādu palīdzību nepieļauj ētiski apsvērumi vai normatīvajos aktos paredzētie ierobežojumi. Juridiskās palīdzības sniedzējs nekavējoties par to informē Juridiskās palīdzības administrāciju.
 (6) Juridiskās palīdzības sniedzējam ir pienākums informēt Juridiskās palīdzības administrāciju, ja konstatēta juridiskās palīdzības saņēmēja neatbilstība šā likuma 3.pantā minētajiem nosacījumiem.
 (7) Juridiskās palīdzības sniedzējs ievēro konfidencialitāti un, ievērojot šajā likumā un juridiskās palīdzības līgumā noteiktos nosacījumus, neizpauž trešajām personām informāciju, kas viņam kļuvusi zināma.
+(8) Juridiskās palīdzības sniedzējam ir pienākums savlaicīgi informēt tiesu par juridiskās palīdzības sniegšanu lietā, kā arī par juridiskās palīdzības sniegšanas pārtraukšanu.
