@@ -4,7 +4,9 @@
 2) nodokļa maksātājs pēc Valsts ieņēmumu dienesta pieprasījuma nesniedz informāciju vai sniedz nepamatotu vai nepatiesu informāciju par tā materiāltehniskajām un finansiālajām iespējām veikt deklarēto saimniecisko darbību;
 3) nodokļa maksātājam saskaņā ar likumu "Par nodokļiem un nodevām" ir apturēta saimnieciskā darbība;
 4) nodokļa maksātāja adrese atbilst riska adreses nosacījumiem atbilstoši likumam "Par nodokļiem un nodevām";
-5) nodokļa maksātājam vai tā amatpersonai, prokūristam vai pilnvarotai personai, ja minētās personas ir Latvijas Republikas rezidenti, Latvijā nav deklarētās dzīvesvietas adreses.
+5) nodokļa maksātājam vai tā amatpersonai, prokūristam vai pilnvarotai personai, ja minētās personas ir Latvijas Republikas rezidenti, Latvijā nav deklarētās dzīvesvietas adreses;
+6) nodokļa maksātāja - juridiskās personas amatpersona vai nodokļa maksātājs - fiziskā persona ir iekļauta riska personu sarakstā atbilstoši likumam "Par nodokļiem un nodevām";
+7) nodokļa maksātājam-komersantam, pamatojoties uz tā lēmumu, saskaņā ar Komerclikumu ir apturēta komersanta darbība.
 (2) Valsts ieņēmumu dienests pieņem lēmumu par atteikumu reģistrēt citas dalībvalsts nodokļa maksātāju vai trešās valsts vai trešās teritorijas nodokļa maksātāju Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ja tas reģistrācijas iesniegumā nav norādījis visu pieprasīto informāciju vai nav iesniedzis visus iesniegumam pievienojamos dokumentus.
 (3) Valsts ieņēmumu dienests pieņem lēmumu par atteikumu reģistrēt citas dalībvalsts nodokļa maksātāju vai trešās valsts vai trešās teritorijas nodokļa maksātāju Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ja citas dalībvalsts nodokļa maksātāja vai trešās valsts vai trešās teritorijas nodokļa maksātāja pilnvarotā persona reģistrācijas iesniegumā nav norādījusi visu informāciju par personu, kuru tā pārstāv, vai nav iesniegusi visus iesniegumam pievienojamos dokumentus.
 (4) Valsts ieņēmumu dienests pieņem lēmumu par atteikumu reģistrēt PVN grupu Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ja PVN grupa neatbilst šā likuma 64.panta nosacījumiem.

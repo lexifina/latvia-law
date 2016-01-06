@@ -4,7 +4,11 @@
 2) reģistrēts nodokļa maksātājs ir likvidēts vai beidz pastāvēt reorganizācijas rezultātā;
 3) fiziskā persona, kura ir reģistrēts nodokļa maksātājs, ir mirusi;
 4) saskaņā ar likumu "Par nodokļiem un nodevām" ir apturēta reģistrēta nodokļa maksātāja saimnieciskā darbība;
-5) reģistrēts nodokļa maksātājs 30 dienu laikā pēc šajā likumā noteiktā nodokļa deklarācijas iesniegšanas termiņa neiesniedz nodokļa deklarāciju vai nodokļa deklarācijā sniedz nepatiesu informāciju, vai pēc Valsts ieņēmumu dienesta rakstveida pieprasījuma neiesniedz nodokļa aprēķinu pārbaudei nepieciešamos dokumentus;
+5) reģistrēta nodokļa maksātāja darbības laikā iestājas vismaz viens no šādiem apstākļiem:
+a) 30 dienu laikā pēc šajā likumā noteiktā nodokļa deklarācijas iesniegšanas termiņa nav iesniegta nodokļa deklarācija,
+b) nodokļa deklarācijā ir sniegta nepatiesa informācija,
+c) Valsts ieņēmumu dienesta rakstveida pieprasījumā noteiktajā termiņā nav iesniegta pieprasītā informācija (saimnieciskās darbības ieņēmumus un izdevumus apliecinoši dokumenti, grāmatvedības uzskaites dokumenti, kā arī cita informācija, kas raksturo darbības, kuras ietekmēja vai ietekmē nodokļa aprēķinu un nomaksu),
+d) reģistrēts nodokļa maksātājs ir sniedzis nepamatotu vai nepatiesu informāciju par materiāltehniskajām un finansiālajām iespējām veikt saimniecisko darbību;
 6) reģistrēts nodokļa maksātājs (izņemot citas dalībvalsts nodokļa maksātāju un trešās valsts vai trešās teritorijas nodokļa maksātāju) nav sasniedzams juridiskajā adresē vai deklarētās dzīvesvietas adresē vai arī šī adrese faktiski nepastāv;
 7) reģistrēts nodokļa maksātājs, kas ir valsts vai pašvaldības iestāde vai pašvaldība, iesniedz Valsts ieņēmumu dienestam pamatotu iesniegumu par tās izslēgšanu no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, kurā paziņo, ka neplāno turpmāk saņemt būvniecības pakalpojumus un veikt ar nodokli apliekamus darījumus, kuru dēļ saskaņā ar šo likumu vajadzētu būt reģistrētam Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 8) PVN grupa iesniedz Valsts ieņēmumu dienestam iesniegumu par tās izslēgšanu no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra un no PVN grupas reģistrācijas dienas ir pagājuši 12 kalendāra mēneši;
@@ -12,5 +16,8 @@
 10) fiskālā pārstāvja darbības laikā iestājas vismaz viens no šādiem apstākļiem:
 a) fiskālais pārstāvis neievēro šā panta pirmās daļas 5. vai 6.punkta nosacījumus,
 b) kārtējā mēneša piektajā datumā fiskālajam pārstāvim ir par šā likuma 65.panta pirmās daļas 6.punktā minēto uzkrājuma vai galvojuma apmēru lielāks nodokļa parāds valsts budžetam, un nodokļa samaksas termiņš nav pagarināts (atlikts, sadalīts) normatīvajos aktos par nodokļiem un nodevām noteiktajā kārtībā,
-c) fiziskajai personai vai juridisko personu pārstāvēt tiesīgai personai ir sodāmība par krāpšanu, dokumentu viltošanu, izvairīšanos no nodokļu un tiem pielīdzināto maksājumu nomaksas vai citiem noziedzīgiem nodarījumiem, kuri var ietekmēt nodokļu apmēra noteikšanu.
+c) fiziskajai personai vai juridisko personu pārstāvēt tiesīgai personai ir sodāmība par krāpšanu, dokumentu viltošanu, izvairīšanos no nodokļu un tiem pielīdzināto maksājumu nomaksas vai citiem noziedzīgiem nodarījumiem, kuri var ietekmēt nodokļu apmēra noteikšanu;
+11) reģistrēta nodokļa maksātāja materiāltehniskās un finansiālās iespējas neatbilst nevienam no tā saimnieciskās darbības veidiem;
+12) reģistrētam nodokļa maksātājam-komersantam, pamatojoties uz tā lēmumu, saskaņā ar Komerclikumu ir apturēta komersanta darbība.
 (2) Reģistrēts nodokļa maksātājs, kas ir valsts vai pašvaldības iestāde vai pašvaldība un kas turpmāk plāno saņemt vienīgi šā likuma 142.panta ceturtajā daļā minētos būvniecības pakalpojumus un neveikt ar nodokli apliekamus darījumus, kuru dēļ saskaņā ar šo likumu vajadzētu būt reģistrētam Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, ir tiesīgs paziņot Valsts ieņēmumu dienestam, ka ar nākamo taksācijas periodu reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā izmantos vienīgi, lai saņemtu šā likuma 142.panta ceturtajā daļā minētos būvniecības pakalpojumus.
+(3) Valsts ieņēmumu dienestam ir tiesības izslēgt reģistrētu nodokļa maksātāju no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, ja reģistrēta nodokļa maksātāja - juridiskās personas amatpersona vai reģistrēts nodokļa maksātājs - fiziskā persona ir iekļauta riska personu sarakstā atbilstoši likumam "Par nodokļiem un nodevām.
