@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2015. gada 22. decembra noteikumi Nr. 805 “Noteikumi par ogļūdeņražu meklēšanu, izpēti un ieguvi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "6 (5578)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-11",
+  "entry_into_force": "2016-01-12",
+  "notification_date": "2016-01-19",
+  "commission_reference": "MNE(2016)50525",
+  "nim_celex": "72013L0030LVA_233870",
+  "nim_id": "233870",
+  "transposes_celex": [
+    "32013L0030"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/deb549ca-dbfe-4433-998f-b8f19f840694",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
