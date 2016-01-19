@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas Nr.2014/60/ES par no dalībvalsts teritorijas nelikumīgi izvestu kultūras priekšmetu atgriešanu un ar ko groza Regulu (ES) Nr. 1024/2012 (pārstrādāta redakcija).
