@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Patvēruma likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-05",
+  "entry_into_force": "2016-01-19",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06487",
+  "nim_celex": "72024L1346LVA_202606487",
+  "nim_id": "202606487",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/95842ab5-0737-417a-99a8-91384424dd9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
