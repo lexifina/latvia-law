@@ -1,1 +1,1 @@
-III nodaļa. Apraides atļauja, retranslācijas atļauja un elektronisko plašsaziņas līdzekļu reģistrācija
+III nodaļa. Apraides atļauja, retranslācijas atļauja un to anulēšana, elektronisko plašsaziņas līdzekļu reģistrācija un darbības izbeigšana

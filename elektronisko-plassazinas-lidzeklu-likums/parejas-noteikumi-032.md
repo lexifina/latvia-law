@@ -1,0 +1,1 @@
+32. Šā likuma 19.panta divpadsmitās un trīspadsmitās daļas noteikumus piemēro no 2017.gada 1.jūlija. Līdz attiecīgajai dienai elektroniskie plašsaziņas līdzekļi, kas veic televīzijas programmu retranslāciju, Nacionālajā elektronisko plašsaziņas līdzekļu padomē saņem nepieciešamās retranslācijas atļaujas.
