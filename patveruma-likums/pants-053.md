@@ -1,0 +1,5 @@
+53.pants. Bēgļa vai alternatīvo statusu ieguvušas personas pabalsts
+(1) Bēglis pirmos 12 mēnešus pēc bēgļa statusa iegūšanas un persona, kurai piešķirts alternatīvais statuss, pirmos deviņus mēnešus pēc alternatīvā statusa iegūšanas saņem pabalstu, kas sedz uzturēšanās izmaksas, kā arī valsts valodas apguvei nepieciešamās izmaksas, ja personai nav cita iztikas avota.
+(2) Persona, kurai piešķirta starptautiskā aizsardzība, ir tiesīga šā panta pirmajā daļā minēto pabalstu pieprasīt 12 mēnešu laikā no dienas, kad stājies spēkā lēmums par bēgļa vai alternatīvā statusa piešķiršanu. Ja iesniegums par pabalsta piešķiršanu iesniegts pēc 12 mēnešiem no dienas, kad stājies spēkā lēmums par bēgļa vai alternatīvā statusa piešķiršanu, minēto pabalstu neizmaksā.
+(3) Ja alternatīvo statusu ieguvušai personai, kura ir saņēmusi šā panta pirmajā daļā minēto pabalstu, piešķir bēgļa statusu, tai ir tiesības saņemt pabalstus kā bēglim par laikposmu, kas kopā ar iepriekš izmaksātā pabalsta laikposmu nepārsniedz 12 mēnešus.
+(4) Bēgļa un alternatīvo statusu ieguvušo personu pabalstu apmēru un piešķiršanas kārtību nosaka Ministru kabinets.

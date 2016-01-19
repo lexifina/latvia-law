@@ -1,0 +1,11 @@
+30.pants. Lēmums par iesnieguma atstāšanu bez izskatīšanas
+(1) Lēmumu par iesnieguma atstāšanu bez izskatīšanas pieņem, ja pastāv vismaz viens no šādiem nosacījumiem:
+1) cita dalībvalsts patvēruma meklētājam ir piešķīrusi starptautisko aizsardzību;
+2) valsts, kas nav dalībvalsts, tiek uzskatīta par patvēruma meklētāja pirmo patvēruma valsti;
+3) valsts, kas nav dalībvalsts, tiek uzskatīta par patvēruma meklētājam drošu trešo valsti;
+4) patvēruma meklētājs Latvijas Republikā ir iesniedzis atkārtotu iesniegumu pēc tam, kad pieņemts galīgais lēmums par atteikumu piešķirt bēgļa vai alternatīvo statusu, un tajā nav minēti apstākļi, kas būtu ievērojami mainījušies par labu patvēruma meklētājam un varētu būt par pamatu bēgļa vai alternatīvā statusa piešķiršanai.
+(2) Ja iesniegums iesniegts robežšķērsošanas vietā vai robežšķērsošanas tranzīta zonā un tiek lemts jautājums par iesnieguma pieņemšanu izskatīšanai vai atstāšanu bez izskatīšanas, Valsts robežsardze patvēruma meklētājam, kuram ir īpašas procesuālās vai uzņemšanas vajadzības, nodrošina atbilstošu un pienācīgu atbalstu, lai viņš patvēruma procedūras laikā varētu izmantot šajā likumā noteiktās tiesības un pildīt šajā likumā noteiktos pienākumus.
+(3) Lēmumu par nepilngadīgas personas bez pavadības iesnieguma atstāšanu bez izskatīšanas saskaņā ar šā panta pirmās daļas 3.punktu var pieņemt tad, ja tas atbilst šīs nepilngadīgās personas labākajām interesēm.
+(4) Ja beidzies administratīvais process par šā panta pirmās daļas 3.punktā minēto lēmumu, Pārvalde patvēruma meklētājam izsniedz dokumentu, kurā drošas trešās valsts iestādes minētās valsts valodā tiek informētas, ka iesnieguma atbilstība šā likuma 37.panta pirmās daļas un 40.panta pirmās daļas nosacījumiem nav vērtēta.
+(5) Pārvaldes priekšnieka pilnvarota amatpersona vērtē iesnieguma atbilstību šā likuma 33.panta pirmās daļas vai 37.panta pirmās daļas un 40.panta pirmās daļas nosacījumiem, ja droša trešā valsts neļauj patvēruma meklētājam ieceļot tās teritorijā.
+(6) Apstāklis, ka nepilngadīgas personas bez pavadības pārstāvis ir atteicies no šā likuma 27.panta otrajā daļā minētās medicīniskās ekspertīzes, nevar būt vienīgais pamats tam, lai pieņemtu lēmumu par nepilngadīgas personas bez pavadības iesnieguma atstāšanu bez izskatīšanas vai lēmumu par atteikumu piešķirt bēgļa vai alternatīvo statusu.

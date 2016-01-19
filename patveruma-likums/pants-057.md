@@ -1,0 +1,4 @@
+57.pants. Alternatīvā statusa zaudēšanas nosacījumi
+(1) Persona zaudē alternatīvo statusu, ja apstākļi, kuru dēļ tai tika piešķirts alternatīvais statuss, vairs nepastāv vai ir mainījušies tiktāl, ka Latvijas Republikas aizsardzība šai personai vairs nav nepieciešama.
+(2) Piemērojot šā panta pirmo daļu, ņem vērā, vai apstākļu maiņa izcelsmes valstī ir tik nozīmīga, ka personai vairs nav pamata baidīties no iespējama smaga kaitējuma, un vai minētajai apstākļu maiņai ir pastāvīgs raksturs.
+(3) Šā panta pirmo daļu nepiemēro alternatīvā statusa ieguvējam, kurš var atsaukties uz nepārvaramiem iemesliem (kas izriet no iepriekš nodarīta būtiska kaitējuma), lai atteiktos pieņemt valstspiederības valsts aizsardzību vai, ja viņš ir bezvalstnieks, - savas agrākās pastāvīgās dzīvesvietas valsts aizsardzību.

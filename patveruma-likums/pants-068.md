@@ -1,0 +1,5 @@
+68.pants. Pagaidu aizsardzību ieguvušas personas pienākums atstāt Latvijas Republiku
+(1) Personai, kurai beigusies pagaidu aizsardzība, ir pienākums divu mēnešu laikā no pagaidu aizsardzības izbeigšanās dienas atstāt Latvijas Republiku, ja tai nav cita likumīga pamata uzturēties Latvijas Republikā. Personas apliecību un uzturēšanās atļauju anulē, personai atstājot valsti.
+(2) Ja persona, kurai beigusies pagaidu aizsardzība, nav atstājusi Latvijas Republiku šā panta pirmajā daļā noteiktajā termiņā, Pārvaldes priekšnieks 10 dienu laikā no dienas, kad kļuvis zināms minētais fakts, pieņem lēmumu par personas piespiedu izraidīšanu. Lemjot par personas piespiedu izraidīšanu, ņem vērā humānus iemeslus, kuru dēļ personas izraidīšana nav iespējama. Šādos gadījumos personu neizraida tik ilgi, kamēr pastāv minētie iemesli.
+(3) Lēmumu par piespiedu izraidīšanu persona 10 darbdienu laikā no tā spēkā stāšanās brīža var pārsūdzēt tiesā. Pieteikuma iesniegšana tiesā neaptur lēmuma par piespiedu izraidīšanu darbību.
+(4) Lēmumu par personas piespiedu izraidīšanu izpilda Imigrācijas likumā noteiktajā kārtībā.

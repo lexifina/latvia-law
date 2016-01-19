@@ -1,0 +1,2 @@
+69.pants. Saeimas un Ministru kabineta kompetence patvēruma jautājumos
+Jautājumos, kas attiecas uz patvēruma meklētāju uzņemšanu Latvijas Republikā no citām dalībvalstīm vai trešajām valstīm, reaģējot uz ārkārtēju patvēruma meklētāju pieplūdumu uz Eiropas Savienības ārējām robežām, izveidoto patvēruma meklētāju pārcelšanas vai pārmitināšanas mehānismu ietvaros, kā arī šādu mehānismu izstrādes ietvaros, Ministru kabinets pieņem lēmumus un pauž Latvijas valsts nostāju (arī Eiropas Savienības institūcijās), pamatojoties uz Saeimas lēmumu.

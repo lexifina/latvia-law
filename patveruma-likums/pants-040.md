@@ -1,0 +1,4 @@
+40.pants. Alternatīvā statusa piešķiršanas nosacījumi
+(1) Uz alternatīvo statusu var pretendēt trešās valsts valstspiederīgais vai bezvalstnieks, kuram nevar piešķirt bēgļa statusu saskaņā ar šā likuma 37.panta pirmo daļu un uz kuru neattiecas šā likuma 46.panta nosacījumi, ja ir pamats uzskatīt, ka viņš pēc atgriešanās savā izcelsmes valstī varētu tikt pakļauts smagam kaitējumam un šā iemesla dēļ nespēj vai nevēlas pieņemt minētās valsts aizsardzību.
+(2) Persona nevar pretendēt uz alternatīvo statusu, ja tā ir vairāk nekā vienas valsts pilsonis un bez pamatota iemesla neizmanto tiesisko aizsardzību kādā no savas pilsonības valstīm.
+(3) Lēmums par alternatīvā statusa piešķiršanu attiecināms arī uz nepilngadīgu bērnu, kas dzimis pēc tam, kad viņa tēvam vai mātei ir piešķirts alternatīvais statuss atbilstoši šim likumam, ja viņa vecāki nav zaudējuši piešķirto statusu vai viņa vecākiem tas nav atņemts saskaņā ar šā likuma 57. un 58.panta nosacījumiem.

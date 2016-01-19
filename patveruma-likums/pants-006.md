@@ -1,0 +1,10 @@
+6.pants. Vēlme iegūt bēgļa vai alternatīvo statusu un iesnieguma iesniegšana
+(1) Vēlmi saņemt bēgļa vai alternatīvo statusu persona ir tiesīga izteikt mutvārdos vai rakstveidā.
+(2) Persona iesniegumu par bēgļa vai alternatīvā statusa piešķiršanu iesniedz personīgi Valsts robežsardzei:
+1) robežšķērsošanas vietā vai robežšķērsošanas tranzīta zonā pirms ieceļošanas Latvijas Republikā;
+2) Valsts robežsardzes struktūrvienībā, ja persona atrodas Latvijas Republikā.
+(3) Mutvārdos izteiktu vēlmi iegūt bēgļa vai alternatīvo statusu Valsts robežsardze patvēruma meklētāja klātbūtnē noformē rakstveidā.
+(4) Ja persona vēlmi iegūt bēgļa vai alternatīvo statusu ir izteikusi Pārvaldei, Valsts policijai vai Ieslodzījuma vietu pārvaldei, tās nekavējoties, ne vēlāk kā triju darbdienu laikā, sazinās ar Valsts robežsardzi, lai patvēruma meklētājs varētu iesniegt iesniegumu.
+(5) Ja ir norādes par to, ka trešās valsts valstspiederīgais vai bezvalstnieks, kas atrodas robežšķērsošanas vietā vai robežšķērsošanas tranzīta zonā pie Latvijas Republikas ārējās robežas vai atrodas aizturēšanas vietā, varētu izteikt vēlmi iegūt bēgļa vai alternatīvo statusu (baidās atgriezties izcelsmes valstī vai pastāv citi uz starptautiskās aizsardzības nepieciešamību norādoši apstākļi), Valsts robežsardze, Valsts policija vai Ieslodzījuma vietu pārvalde sniedz viņam informāciju par iespēju to darīt.
+(6) Nepilngadīga persona bez pavadības vēlmi iegūt bēgļa vai alternatīvo statusu izsaka šajā pantā noteiktajā kārtībā. Nepilngadīgu personu bez pavadības personiskajās un mantiskajās attiecībās patvēruma procedūras laikā pārstāv bāriņtiesa vai tās iecelts aizbildnis, vai bērnu aprūpes iestādes vadītājs (turpmāk arī - nepilngadīgas personas pārstāvis).
+(7) Ja bērnu aprūpes iestādes vadītājs, pamatojoties uz nepilngadīgās personas bez pavadības doto personīgās situācijas izvērtējumu, uzskata, ka nepilngadīgajai personai nepieciešama starptautiskā aizsardzība, viņam ir tiesības iesniegt iesniegumu nepilngadīgās personas vārdā šā panta otrajā daļā noteiktajā kārtībā.

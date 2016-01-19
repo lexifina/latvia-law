@@ -1,0 +1,1 @@
+3. Ja iesniegums par bēgļa vai alternatīvā statusa piešķiršanu iesniegts līdz šā likuma spēkā stāšanās dienai, pārrunas, sākotnējo un personisko interviju ar patvēruma meklētāju veic Valsts robežsardzes amatpersona.

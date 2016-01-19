@@ -1,0 +1,2 @@
+47.pants. Aizsardzības iespēja izcelsmes valstī
+Patvēruma meklētājam nepiešķir bēgļa vai alternatīvo statusu, ja kādā viņa izcelsmes valsts daļā bailes no vajāšanas nav pamatotas vai nepastāv smaga kaitējuma risks, vai ir pieejama šā likuma 43.pantā minētā aizsardzība pret vajāšanu vai smagu kaitējumu un patvēruma meklētājs var droši un likumīgi ceļot uz šo valsts daļu, tikt tajā uzņemts un, kā var pamatoti pieņemt, tajā arī uzturēties.

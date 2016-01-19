@@ -1,0 +1,6 @@
+54.pants. Bēgļa vai alternatīvo statusu ieguvušas personas tiesības uz ģimenes atkalapvienošanos
+(1) Bēglim vai alternatīvo statusu ieguvušai personai ir tiesības apvienoties ar ģimenes locekļiem, kuri atrodas ārvalstīs. Alternatīvo statusu ieguvušai personai šādas tiesības ir tad, ja tā pēc šā statusa iegūšanas Latvijas Republikā uzturējusies vismaz divus gadus.
+(2) Nepilngadīgai personai bez pavadības, kurai piešķirta starptautiskā aizsardzība un kura nav precējusies, ir tiesības uzņemt pie sevis no ārvalsts ieradušos māti un tēvu.
+(3) Bēgļa ģimenes loceklim izsniedz pastāvīgās uzturēšanās atļauju. Alternatīvo statusu ieguvušas personas ģimenes loceklim izsniedz termiņuzturēšanās atļauju uz tādu pašu laiku, uz kādu izsniegta termiņuzturēšanās atļauja alternatīvo statusu ieguvušai personai.
+(4) Kārtību, kādā notiek šā panta pirmajā un otrajā daļā minētā ģimenes atkalapvienošanās, nosaka Ministru kabinets.
+(5) Ja bēglis vai alternatīvo statusu ieguvusi persona zaudē vai tai atņem piešķirto statusu, bēgļa vai alternatīvo statusu ieguvušas personas ģimenes loceklim anulē uzturēšanās atļauju Imigrācijas likumā noteiktajā kārtībā, izņemot gadījumu, kad bēglis vai alternatīvo statusu ieguvusi persona ir ieguvusi Latvijas pilsonību.

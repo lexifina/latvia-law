@@ -1,0 +1,2 @@
+VII nodaļa
+Starptautiskās aizsardzības piešķiršanas nosacījumi

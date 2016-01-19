@@ -1,0 +1,2 @@
+10.pants. Personas izraidīšana no Latvijas Republikas
+Personai, kuras iesniegums izskatīts šajā likumā noteiktajā kārtībā un attiecībā uz kuru pieņemts lēmums par atteikumu piešķirt bēgļa vai alternatīvo statusu, lēmums par iesnieguma izskatīšanas pārtraukšanu vai lēmums par atteikumu atsākt iesnieguma izskatīšanu, izsniedz izbraukšanas rīkojumu vai attiecībā uz šo personu pieņem lēmumu par piespiedu izraidīšanu Imigrācijas likumā noteiktajā kārtībā, izņemot gadījumu, kad tai ir cits likumīgs pamats uzturēties Latvijas Republikā.

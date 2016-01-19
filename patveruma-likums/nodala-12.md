@@ -1,0 +1,2 @@
+XII nodaļa
+Citi noteikumi

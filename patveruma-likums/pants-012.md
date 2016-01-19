@@ -1,0 +1,8 @@
+12.pants. Patvēruma meklētāja pienākumi
+(1) Patvēruma meklētājam ir pienākums:
+1) sadarboties ar Valsts robežsardzi, lai tā varētu noņemt viņa pirkstu nospiedumus, viņu nofotografēt un identificēt, kā arī ar Pārvaldi un citām patvēruma procedūrā iesaistītajām institūcijām;
+2) piedalīties sākotnējā intervijā un personiskajā intervijā, personīgi atbildēt uz uzdotajiem jautājumiem un pēc iespējas drīzāk sniegt visu informāciju, kas nepieciešama, lai izskatītu iesniegumu un pieņemtu attiecīgu lēmumu, pat ja sākotnējā intervijā un personiskajā intervijā piedalās patvēruma meklētāja pārstāvis vai nepilngadīgas personas bez pavadības pārstāvis. Pienākums pēc iespējas drīzāk sniegt visu informāciju attiecas arī uz patvēruma meklētāja pārstāvi;
+3) sabiedrības veselības interesēs veikt veselības pārbaudi;
+4) uzturoties patvēruma meklētāju izmitināšanas centrā vai Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās, ievērot iekšējās kārtības noteikumus;
+5) informēt Pārvaldi un Valsts robežsardzi par dzīvesvietas adresi un tās maiņu, ja patvēruma meklētājs nav izmitināts patvēruma meklētāju izmitināšanas centrā vai nav aizturēts. Patvēruma meklētāja pēdējā norādītā dzīvesvietas adrese ir uzskatāma par adresi, kas izmantojama saziņai ar viņu.
+(2) Šā panta pirmās daļas 2.punktā minētā informācija ir arī patvēruma meklētāja paskaidrojumi un viņa rīcībā esošie dokumenti par viņa vecumu un iepriekšējo darbību, ieskaitot datus par viņa ģimenes locekļiem, tēvu un māti, brāļiem un māsām, identitāti, pilsonību, iepriekšējo dzīvesvietu un dzīvesvietas valsti, iepriekšējiem iesniegumiem, ceļojumu maršrutiem, personu apliecinošiem un ceļošanas dokumentiem, kā arī iemesliem, kuru dēļ ir iesniegts iesniegums.

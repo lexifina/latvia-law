@@ -1,0 +1,6 @@
+18.pants. Patvēruma meklētāja aizturēšana, pamatojoties uz tiesas lēmumu
+(1) Aizturēt patvēruma meklētāju ilgāk par sešām diennaktīm drīkst, tikai pamatojoties uz rajona (pilsētas) tiesas lēmumu.
+(2) Ja pastāv kāds no šā likuma 16.pantā minētajiem aizturēšanas nosacījumiem, Valsts robežsardze, ievērojot šā likuma 13.panta prasības un, ja nepieciešams, pieprasot papildu informāciju no Pārvaldes, ne vēlāk kā 48 stundas pirms aizturēšanas termiņa beigām iesniedz rajona (pilsētas) tiesā (atbilstoši aizturētā patvēruma meklētāja faktiskajai atrašanās vietai) pamatotu ierosinājumu aizturēt patvēruma meklētāju ilgāk par sešām diennaktīm.
+(3) Valsts robežsardzes amatpersona nogādā patvēruma meklētāju rajona (pilsētas) tiesā un, ja nepieciešams, pieaicina tulku.
+(4) Ja tiesa pieņēmusi lēmumu atteikt patvēruma meklētāja aizturēšanu, Valsts robežsardze nekavējoties pēc tā noraksta saņemšanas un patvēruma meklētāja iepazīstināšanas ar to atbrīvo patvēruma meklētāju. Atkārtoti aizturēt patvēruma meklētāju drīkst tikai tādā gadījumā, ja ir iegūta informācija vai konstatēti jauni apstākļi, kas pamato aizturēšanu.
+(5) Valsts robežsardze ierosinājumu aizturēt patvēruma meklētāju drīkst iesniegt rajona (pilsētas) tiesā neierobežotu reižu skaitu. Atkārtotu ierosinājumu izskata šajā pantā paredzētajā kārtībā.
