@@ -22,3 +22,4 @@
 2) Saeima ar atsevišķu lēmumu ir piekritusi valsts aizdevumu sniegšanai.
 (7) Ja šā likuma 8.¹ panta pirmajā daļā noteikto mērķu realizācijai vai likumā noteiktās garantētās atlīdzības izmaksas nodrošināšanai no Noguldījumu garantiju fonda paredzamo valsts aizdevumu kopējais apjoms saimnieciskā gada laikā pārsniedz 10 procentus no gadskārtējā valsts budžeta likumā noteiktā iekšzemes kopprodukta apjoma saimnieciskajā gadā, Ministru kabinets iesniedz grozījumus gadskārtējā valsts budžeta likumā.
 (8) (Izslēgta ar 30.11.2015. likumu)
+(9) Finanšu ministrs ir tiesīgs Latvijas Republikas vārdā slēgt aizdevuma finansējuma līgumu starp Latvijas Republiku kā aizdevēju un Vienotā noregulējuma valdi kā aizņēmēju un izsniegt valsts aizdevumu, nepārsniedzot likumā noteikto aizdevuma apmēru, lai nepieciešamības gadījumā nodrošinātu priekšfinansējumu kredītiestāžu noregulējumam.
