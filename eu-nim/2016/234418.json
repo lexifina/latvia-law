@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 12. janvāra noteikumi Nr. 30 \"Kuģu radio un navigācijas aprīkojuma izmantošanas un apkalpošanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "20 (5592)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-01-29",
+  "entry_into_force": "2016-01-30",
+  "notification_date": "2016-02-07",
+  "commission_reference": "MNE(2016)51052",
+  "nim_celex": "71999L0019LVA_234418",
+  "nim_id": "234418",
+  "transposes_celex": [
+    "31999L0019"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/525a0398-4f42-4aa7-909a-5e8ba8b0eb1e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
