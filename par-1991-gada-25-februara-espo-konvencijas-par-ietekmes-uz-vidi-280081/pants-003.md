@@ -1,0 +1,1 @@
+3.pants. Konvencijas grozījumi stājas spēkā 1991.gada 25.februāra Espo Konvencijas par ietekmes uz vidi novērtējumu pārrobežu kontekstā 14.pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".

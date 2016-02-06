@@ -1,0 +1,1 @@
+1.pants. 1991.gada 25.februāra Espo Konvencijas par ietekmes uz vidi novērtējumu pārrobežu kontekstā dalībvalstu sanāksmes 2001.gada 27.februāra lēmums II/14 (pirmais grozījums) un 2004.gada 4.jūnija lēmums III/7 (otrais grozījums) (turpmāk - Konvencijas grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
