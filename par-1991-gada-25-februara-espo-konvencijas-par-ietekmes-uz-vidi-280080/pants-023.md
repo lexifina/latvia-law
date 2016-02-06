@@ -1,0 +1,7 @@
+23.pants
+Ratifikācija, atzīšana, apstiprināšana un pievienošanās
+1. Šo protokolu ratificē, pieņem vai apstiprina 21. pantā minētās valstis un reģionālās ekonomiskās integrācijas organizācijas, kas to paraksta.
+2. No 2004. gada 1. janvāra šim protokolam var pievienoties 21. pantā minētās valstis un reģionālās ekonomiskās integrācijas organizācijas.
+3. Jebkura cita valsts, kas nav minēta šā panta 2. punktā un kas ir Apvienoto Nāciju Organizācijas dalībvalsts, var pievienoties protokolam ar Konvencijas Pušu sanāksmes piekrišanu, kas kalpo kā šā protokola Pušu sanāksme.
+4. Jebkura 21. pantā minētā reģionālās ekonomiskās integrācijas organizācija, kas kļūst par šā protokola Pusi, uzņemas visas saistības, kas izriet no šā protokola, arī tad, ja neviena no šīs organizācijas dalībvalstīm nav šā protokola Puse. Gadījumā, ja viena vai vairākas no organizācijas dalībvalstīm ir šā protokola Puses, tad organizācija un tās dalībvalstis lemj par to, kāds ir atbildības sadalījums, pildot šajā protokolā paredzētos pienākumus. Šādos gadījumos organizācija un tās dalībvalstis nevar vienlaikus īstenot tiesības, kas izriet no šā protokola.
+5. Šā protokola 21. pantā minētās reģionālās ekonomiskās integrācijas organizācijas attiecīgajos ratifikācijas, pieņemšanas, apstiprināšanas vai pievienošanās dokumentos norāda, kādas ir to pilnvaras jautājumos, uz kuriem attiecas šis protokols. Šīs organizācijas informē depozitāriju arī par jebkuru nozīmīgu izmaiņu to pilnvarās.

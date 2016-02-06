@@ -1,0 +1,6 @@
+24.pants
+Stāšanās spēkā
+1. Šis protokols stājas spēkā deviņdesmitajā dienā pēc sešpadsmitā ratifikācijas, pieņemšanas, apstiprināšanas vai pievienošanās dokumenta nodošanas glabāšanā.
+2. Piemērojot šā panta 1. punktu, jebkuru reģionālās ekonomiskās integrācijas organizācijas, kas minēta 21. pantā, glabāšanā nodotu dokumentu nepieskaita dokumentiem, ko nodevušas glabāšanā šīs organizācijas dalībvalstis.
+3. Attiecībā uz katru valsti vai organizāciju, kas minēta 21. pantā un kas šo protokolu ratificē, pieņem, apstiprina vai pievienojas tam, pēc sešpadsmitā ratifikācijas, pieņemšanas, apstiprināšanas vai pievienošanās dokumenta nodošanas glabāšanā šis protokols stājas spēkā deviņdesmitajā dienā pēc tam, kad šī valsts vai organizācija ir nodevusi glabāšanā ratifikācijas, pieņemšanas, apstiprināšanas vai pievienošanās dokumentu.
+4. Šo protokolu piemēro plāniem, programmām, politikai un normatīvajiem aktiem, par kuru sagatavošanu pirmais oficiālais lēmums ir pieņemts pēc datuma, kad šis protokols stājas spēkā. Ja uz Pusi, kuras jurisdikcijā ir paredzēta plāna, programmas, politikas vai normatīvā akta sagatavošana, attiecas šā panta 3. punkta nosacījumi, šo protokolu piemēro šīs Puses plāniem, programmām, politikai un normatīvajiem aktiem, par kuru sagatavošanu pirmais oficiālais lēmums ir pieņemts pēc datuma, kad šis protokols stājas spēkā.

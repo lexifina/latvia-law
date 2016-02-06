@@ -1,0 +1,3 @@
+21.pants
+Parakstīšana
+Kijevā (Ukrainā) no 2003. gada 21. līdz 23. maijam un pēc tam Apvienoto Nāciju Organizācijas mītnē Ņujorkā līdz 2003. gada 31. decembrim šo protokolu var parakstīt Eiropas Ekonomikas komisijas dalībvalstis un valstis, kurām saskaņā ar Ekonomikas un sociālās padomes 1947. gada 28. marta 36.(IV) rezolūcijas 8. un 11. daļu ir padomdevēju statuss Eiropas Ekonomikas komisijā, kā arī reģionālās ekonomikas integrācijas organizācijas, ko izveidojušas suverēnās Eiropas Ekonomikas komisijas dalībvalstis un kam šīs dalībvalstis nodevušas pilnvaras rīkoties jautājumos, uz ko attiecas šis protokols, tostarp pilnvaras slēgt līgumus, kas attiecas uz šiem jautājumiem.

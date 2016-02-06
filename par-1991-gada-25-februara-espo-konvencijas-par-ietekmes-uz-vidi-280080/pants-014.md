@@ -1,0 +1,15 @@
+14.pants
+Konvencijas Līgumslēdzēju pušu sanāksme, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme
+1. Konvencijas Līgumslēdzēju pušu sanāksme kalpo kā šā protokola Līgumslēdzēju pušu sanāksme. Pirmā Konvencijas Līgumslēdzēju pušu sanāksme, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, notiek ne vēlāk kā vienu gadu no šā protokola spēkā stāšanās brīža un kopā ar Konvencijas Līgumslēdzēju pušu sanāksmi, ja vien tā ir paredzēta šajā periodā. Turpmākās Konvencijas Līgumslēdzēju pušu sanāksmes, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksmes, notiek kopā ar Konvencijas Līgumslēdzēju pušu sanāksmēm, ja vien Konvencijas Līgumslēdzēju pušu sanāksme, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, nav lēmusi citādi.
+2. Konvencijas Līgumslēdzējas puses, kuras nav šā protokola Līgumslēdzējas puses, var piedalīties kā novērotāji jebkurā Konvencijas Līgumslēdzēju pušu sanāksmes, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, sesijas sēdē. Ja Konvencijas Līgumslēdzēju pušu sanāksme kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, šā protokola lēmumus pieņem vienīgi šā protokola Līgumslēdzējas puses.
+3. Ja Konvencijas Līgumslēdzēju pušu sanāksme kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, jebkuru Līgumslēdzēju pušu sanāksmes biroja locekli, kas pārstāv Konvencijas Līgumslēdzējas pusi, bet kura tai pašā laikā nav šā protokola Līgumslēdzējas puse, aizstās ar citu locekli, kas izvēlēts no šā protokola Līgumslēdzējas pusēm.
+4. Konvencijas Līgumslēdzēju pušu sanāksme, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, regulāri pārbaudīs šā protokola īstenošanu, un, lai to veiktu, tā:
+a) pārskata politiku un stratēģiskā vides novērtējuma metodikas, lai turpmāk pilnveidotu procedūras, ko nosaka šis protokols;
+b) dalās informācijā par pieredzi, kas gūta stratēģiskajā vides novērtējumā un īstenojot šo protokolu;
+c) ja nepieciešams, lūdz palīdzību un sadarbojas ar kompetentām institūcijām, kurām ir pieredze, lai risinātu jautājumus šā protokola mērķu sasniegšanā;
+d) izveido tādas palīgstruktūras, kuras uzskata par nepieciešamām šā protokola īstenošanai;
+e) ja nepieciešams, izskata un pieņem priekšlikumus par šā protokola grozījumiem; un
+f) nosaka un veic jebkuru papildu pasākumu, kas var būt nepieciešams šā protokola mērķu sasniegšanā, ietverot arī pasākumu, ko kopēji veiks šā protokola un Konvencijas ietvaros.
+5. Konvencijas Līgumslēdzēju pušu sanāksmes procedūras noteikumus piemēro mutatis mutandis šim protokolam, izņemot, ja Līgumslēdzēju pušu sanāksme kā šā protokola Līgumslēdzēju pušu sanāksme, vienprātīgi nolemj citādi.
+6. Konvencijas Līgumslēdzēju pušu sanāksmes kā šā protokola Līgumslēdzēju pušu sanāksmes pirmajā sanāksmē ņem vērā un akceptē procedūras piemērošanas modalitātes, lai pārskatītu šā protokola atbilstību Konvencijai.
+7. Katra Puse zināmos laika posmos, kurus nosaka Konvencijas Līgumslēdzēju pušu sanāksme, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme, ziņo par protokola īstenošanas risinājumiem Konvencijas Līgumslēdzēju pušu sanāksmē, kas kalpo kā šā protokola Līgumslēdzēju pušu sanāksme.

@@ -1,0 +1,1 @@
+1.pants. Apvienoto Nāciju Organizācijas 2003.gada 21.maija Konvencijas par ietekmes uz vidi novērtējumu pārrobežu kontekstā Protokols par stratēģisko vides novērtējumu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
