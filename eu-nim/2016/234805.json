@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 9.februāra rīkojums Nr.129 \"Par Enerģētikas attīstības pamatnostādnēm 2016.-2020.gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "32 (5604)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-02-16",
+  "entry_into_force": "2016-02-09",
+  "notification_date": "2016-02-22",
+  "commission_reference": "MNE(2016)51398",
+  "nim_celex": "72010L0031LVA_234805",
+  "nim_id": "234805",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d504737d-d507-4d21-9bf0-2f26d742255f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
