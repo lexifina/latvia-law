@@ -1,0 +1,1 @@
+22.² Šā likuma 4.panta pirmās daļas 26.punktā minētajām valsts amatpersonām, kuras vienlaikus ir arī advokāti, valsts amatpersonas deklarācijas, kuru iesniedz, stājoties amatā, iesniegšanas termiņš (25.panta pirmā daļa) skaitāms no 2016.gada 1.septembra.
