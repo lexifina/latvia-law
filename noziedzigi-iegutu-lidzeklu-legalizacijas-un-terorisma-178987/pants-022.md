@@ -4,7 +4,7 @@
 2) nodrošinātu klienta veikto darījumu pastiprinātu uzraudzību.
 (2) Likuma subjekts veic klienta padziļinātu izpēti šādos gadījumos:
 1) uzsākot darījuma attiecības ar klientu, kas nav personīgi piedalījies identifikācijas procedūrā;
-2) uzsākot darījuma attiecības ar politiski nozīmīgu personu;
+2) uzsākot un uzturot darījuma attiecības ar klientu - politiski nozīmīgu personu, politiski nozīmīgas personas ģimenes locekli vai ar politiski nozīmīgu personu cieši saistītu personu;
 3) uzsākot kredītiestāžu pārrobežu attiecības ar respondentiem no trešajām valstīm.
 (3) (Izslēgta ar 13.08.2014. likumu)
 (4) Kredītiestādēs un finanšu iestādēs, kuru darbību saskaņā ar šo likumu uzrauga Finanšu un kapitāla tirgus komisija, padziļināta izpēte veicama arī Finanšu un kapitāla tirgus komisijas noteiktajām klientu kategorijām.
