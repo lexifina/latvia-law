@@ -1,0 +1,1 @@
+9.¹ Šā likuma 4.² panta jaunā redakcija (par starptautisko un Latvijas Republikas nacionālo sankciju piemērošanu) stājas spēkā vienlaikus ar Starptautisko un Latvijas Republikas nacionālo sankciju likumu.
