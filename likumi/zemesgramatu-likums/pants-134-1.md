@@ -1,0 +1,1 @@
+134.¹ Zemesgrāmatu nodaļa var pārsūtīt valsts vienotās datorizētās zemesgrāmatas turētājam pieprasījumu par tādas informācijas izsniegšanu, kuru šajā likumā noteiktajā kārtībā var sniegt valsts vienotās datorizētās zemesgrāmatas turētājs, ja pieprasījuma izpilde nav samērojama ar zemesgrāmatu nodaļas rīcībā esošajiem resursiem, it īpaši ņemot vērā pieprasījuma apjomīguma pakāpi.

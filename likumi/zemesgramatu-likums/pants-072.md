@@ -1,3 +1,3 @@
 72. Nostiprinājuma lūgumus zemesgrāmatu nodaļas tiesnesis skata cauri tādā secībā, kādā tie ierakstīti nostiprinājuma žurnālā, ievērojot iesniegumu pirmtiesības uz izpildījumu (73.-75.p.). Ar īpašuma tiesību iegūšanu saistītos nostiprinājuma lūgumus, kurus iesniegusi persona, attiecībā uz kuru šā likuma 118.¹ pantā noteiktajā kārtībā saņemts paziņojums, izskata pirms nostiprinājuma lūguma par atzīmes ierakstīšanu zemesgrāmatā.
-Nostiprinājuma lūgumi izskatāmi ne vēlāk kā 10 dienu laikā. Sarežģītās lietās zemesgrāmatu nodaļas priekšnieks šo termiņu var pagarināt līdz mēnesim.
+Nostiprinājuma lūgumi izskatāmi ne vēlāk kā 10 dienu laikā. Sarežģītās lietās zemesgrāmatu nodaļas tiesnesis šo termiņu var pagarināt līdz mēnesim.
 Šā likuma 71.panta otrajā daļā minēto pieteikumu izskata, ievērojot normatīvajos aktos par piedziņas vēršanu uz nekustamo īpašumu noteikto kārtību un termiņus.

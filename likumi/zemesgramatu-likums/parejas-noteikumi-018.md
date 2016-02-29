@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 71.¹ panta pirmajā daļā, 107.panta ceturtajā daļā un 118.¹ panta pirmās daļas pirmajā teikumā attiecībā uz informāciju, kas saņemta no Ārlietu ministrijas, stājas spēkā vienlaikus ar Starptautisko un Latvijas Republikas nacionālo sankciju likumu.
