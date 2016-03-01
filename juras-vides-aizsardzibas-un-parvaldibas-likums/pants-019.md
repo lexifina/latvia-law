@@ -9,11 +9,11 @@
 6) ostu darbībai nepieciešamo hidrotehnisko būvju būvniecība atbilstoši normatīvajiem aktiem par būvniecību;
 7) elektronisko sakaru tīklu jūras kabeļlīniju, elektrisko tīklu kabeļlīniju, zemūdens elektropārvades kabeļlīniju un zemūdens cauruļvadu, tai skaitā gāzesvadu, naftas un naftas produktu cauruļvadu, ierīkošana.
 (3) Pirms Ministru kabinets izsniedz atļauju vai licenci jūras izmantošanai, tas ar ikreizēju rīkojumu nosaka konkrētu jūras teritoriju (turpmāk - atļaujas vai licences laukums jūrā) šā panta otrās daļas 4.punktā noteikto darbību veikšanai, ņemot vērā arī šā likuma 14.panta nosacījumus. Tiesības izmantot atļaujas vai licences laukumu jūrā iegūst persona, kura uzvarējusi konkursā par tiesībām izmantot atļaujas vai licences laukumu jūrā.
-(3¹) Pirms Ministru kabinets izsniedz atļauju vai licenci jūras izmantošanai, tas ar ikreizēju rīkojumu nosaka atļaujas vai licences laukumu jūrā šā panta otrās daļas 7.punktā noteikto darbību veikšanai, ņemot vērā arī šā likuma 14.panta nosacījumus. Minēto rīkojumu, saskaņojot no kuģošanas drošības viedokļa ar valsts akciju sabiedrību "Latvijas Jūras administrācija", sagatavo atbildīgā ministrija, pamatojoties uz personas iesniegumu.
+(3¹) Pirms Ministru kabinets izsniedz atļauju vai licenci jūras izmantošanai, tas ar ikreizēju rīkojumu nosaka atļaujas vai licences laukumu jūrā šā panta otrās daļas 7.punktā noteikto darbību veikšanai, ņemot vērā arī šā likuma 14.panta nosacījumus. Minēto rīkojumu, pamatojoties uz personas iesniegumu, sagatavo atbildīgā ministrija, iepriekš pieprasot atzinumu no valsts akciju sabiedrības "Latvijas Jūras administrācija" par rīkojuma projektu no kuģošanas drošības viedokļa.
 (4) Ministru kabinets reglamentē:
-1) kārtību, kādā nosakāms šā panta trešajā daļā minētais atļaujas vai licences laukums jūrā;
+1) kārtību, kādā nosakāms šā panta trešajā un 3.¹ daļā minētais atļaujas vai licences laukums jūrā;
 2) kārtību, kādā rīkojams konkurss par tiesībām izmantot atļaujas vai licences laukumu jūrā;
-3) kārtību, kādā izsniedzama, apturama vai anulējama atļauja vai licence atļaujas vai licences laukuma jūrā izmantošanai šā panta otrās daļas 4.punktā minētajām darbībām;
+3) kārtību, kādā izsniedzama, apturama vai anulējama atļauja vai licence atļaujas vai licences laukuma jūrā izmantošanai šā panta otrās daļas 4. un 7.punktā minētajām darbībām;
 4) prasības attiecībā uz būvju ierīkošanu, būvniecību jūrā un to ekspluatāciju, kā arī prasības attiecībā uz to nojaukšanu vai demontāžu pēc darbības pilnīgas izbeigšanas.
 (5) Par atļaujas vai licences laukuma jūrā izmantošanu šā panta otrās daļas 4.punktā minēto darbību veikšanai jūras izmantotājs maksā valsts pamatbudžetā ikgadēju valsts nodevu. Ministru kabinets nosaka nodevas maksāšanas kārtību un apmēru, kā arī atbrīvojumus no nodevas maksāšanas.
 (6) Atļauju vai licenci noteiktā atļaujas vai licences laukuma jūrā izmantošanai izsniedz uz laiku, ne ilgāku par 30 gadiem.
