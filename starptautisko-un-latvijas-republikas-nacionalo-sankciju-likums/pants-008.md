@@ -1,0 +1,2 @@
+8.pants. Stratēģiskas nozīmes preču un citu preču aprites ierobežojumi
+Ja attiecībā uz sankciju subjektu noteikts ieroču embargo vai citu preču importa, eksporta, tranzīta vai starpniecības pakalpojumu aizliegums, privāto vai publisko tiesību subjektam ir aizliegts sankciju subjektam pārdot, piegādāt, nodot, eksportēt vai kā citādi atsavināt noteikta veida stratēģiskas nozīmes preces vai citas likumā noteiktās preces vai ļaut piekļūt tām.
