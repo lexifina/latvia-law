@@ -10,7 +10,7 @@ b) alus, vīns un raudzētie dzērieni - 30 litrus;
 2) tabakas izstrādājumi:
 a) cigaretes - 300 cigaretes,
 b) cigāri vai cigarillas - 900 cigārus vai cigarillas,
-c) smēķējamā tabaka vai tabakas lapas - 500 gramus;
+c) smēķējamā tabaka vai tabakas lapas, vai karsējamā tabaka - 500 gramus;
 3) naftas produkti - 40 litrus;
 4) bezalkoholiskie dzērieni - 500 litrus;
 5) kafija - 20 kilogramus.

@@ -8,13 +8,13 @@
 a) 200 cigaretes,
 b) 100 cigarillas,
 c) 50 cigāri,
-d) 250 g smēķējamās tabakas vai tabakas lapu,
+d) 250 g smēķējamās tabakas vai tabakas lapu, vai karsējamās tabakas,
 e) šā panta ceturtās daļas 1.punkta "a", "b", "c" un "d" apakšpunktā minētie tabakas izstrādājumi jebkurā kombinācijā, ja procentu daļa, ko izmanto no individuāli noteiktajiem daudzumiem, kopā nepārsniedz 100 procentus. Katrs šā panta ceturtās daļas 1.punkta "a", "b", "c" un "d" apakšpunktā norādītais daudzums atsevišķi veido 100 procentus no attiecīgajā apakšpunktā norādītā tabakas izstrādājuma daudzuma;
 1¹) tabakas izstrādājumus, ja fiziskā persona neceļo ar gaisakuģi:
 a) 40 cigaretes,
 b) 20 cigarillas,
 c) 10 cigāri,
-d) 50 g smēķējamās tabakas vai tabakas lapu,
+d) 50 g smēķējamās tabakas vai tabakas lapu, vai karsējamās tabakas,
 e) šā panta ceturtās daļas 1.¹ punkta "a", "b", "c" un "d" apakšpunktā minētie tabakas izstrādājumi jebkurā kombinācijā, ja procentu daļa, ko izmanto no individuāli noteiktajiem daudzumiem, kopā nepārsniedz 100 procentus. Katrs šā panta ceturtās daļas 1.¹ punkta "a", "b", "c" un "d" apakšpunktā norādītais daudzums atsevišķi veido 100 procentus no attiecīgajā apakšpunktā norādītā tabakas izstrādājuma daudzuma;
 2) alkoholiskos dzērienus:
 a) viens litrs alkoholiskā dzēriena ar spirta saturu virs 22 tilpumprocentiem vai nedenaturēta etilspirta ar spirta saturu 80 procenti vai vairāk,
