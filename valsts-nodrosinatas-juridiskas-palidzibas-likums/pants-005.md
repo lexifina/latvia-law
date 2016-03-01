@@ -5,6 +5,6 @@
 (3) Valsts nodrošina juridisko palīdzību personai, izvērtējot tās atbilstību juridiskās palīdzības piešķiršanai, kā arī personas iesniegumā par juridisko palīdzību un tam pievienotajos dokumentos norādīto informāciju, izņemot likumā noteiktos gadījumus.
 (4) Izdevumi, kas saistīti ar šajā likumā noteiktajā kārtībā sniegtās juridiskās palīdzības nodrošināšanu, tiek segti no valsts budžetā šim mērķim paredzētajiem līdzekļiem.
 (5) Juridiskās palīdzības apjomu nosaka stundās un noteiktu darbību veidā. Ministru kabinets nosaka juridiskās palīdzības veidus, apjomu, samaksas apmēru un ar juridiskās palīdzības sniegšanu saistītos atlīdzināmos izdevumus, to apmēru un izmaksas kārtību.
-(6) Šajā likumā noteiktajos gadījumos persona pilnībā atmaksā ar juridisko palīdzību saistītos izdevumus.
-(7) Valsts nesedz tiesāšanās izdevumus (tai skaitā valsts nodevu, kancelejas nodevu, ar lietas izskatīšanu saistītos un citus izdevumus), kas maksājami saskaņā ar normatīvajiem aktiem vai tiesas nolēmumu.
+(6) Šajā likumā noteiktajos gadījumos persona pilnībā atmaksā ar juridisko palīdzību saistītos izdevumus. Izdevumi par juridisko palīdzību no personas tiek piedzīti šajā likumā, Kriminālprocesa likumā un Civilprocesa likumā noteiktajos gadījumos un kārtībā.
+(7) Valsts nesedz ar lietas vešanu saistītos izdevumus, izņemot izdevumus par juridisko palīdzību un ar to saistītos izdevumus.
 (8) Izņēmuma gadījumos juridisko palīdzību sniedz papildus piešķirtajam šajā likumā noteiktajam juridiskās palīdzības veidam un apjomam, neņemot vērā šā likuma 6.panta 5. un 6.punktā minētos nosacījumus, ja juridiskās palīdzības nesniegšana būtiski ierobežotu Latvijas Republikas Satversmē garantētās personas pamattiesības.
