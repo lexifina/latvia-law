@@ -1,0 +1,3 @@
+192.¹ pants. Naudas viltošanai pielāgotu iekārtu, programmatūras, datu un citu līdzekļu izgatavošana, iegādāšanās, glabāšana un izplatīšana
+Par tādu iekārtu, programmatūras, datu, aizsardzības (pretviltošanas) elementu vai jebkādu citu līdzekļu izgatavošanu, iegādāšanos, glabāšanu vai izplatīšanu, kas pielāgoti Latvijas Republikā apgrozībā esošu vai apgrozībai paredzētu naudas zīmju, monētu, valsts finanšu instrumentu vai ārvalstu valūtas viltošanai, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
