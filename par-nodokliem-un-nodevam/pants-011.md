@@ -112,7 +112,7 @@
 93) par bioloģiskās lauksaimniecības kontroles institūcijas atbilstības apliecinājuma izsniegšanu;
 94) par ziņu par deklarēto dzīvesvietu reģistrāciju;
 95) par atzinuma par aizsargjoslas saskaņošanu ap ūdens ņemšanas vietām sagatavošanu;
-96) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165.punktu);
+96) (izslēgts no 01.01.2015. ar 25.09.2014. likumu, kas stājas spēkā 29.10.2014. Sk. Pārejas noteikumu 165. punktu);
 97) par apstiprinājuma vai piekrišanas izsniegšanu atkritumu pārrobežu pārvadājumiem;
 98) par apraides atļaujas izsniegšanu, retranslācijas atļaujas izsniegšanu un tāda pakalpojuma sniedzēja reģistrāciju, kurš sniedz elektronisko plašsaziņas līdzekļu pakalpojumus pēc pieprasījuma;
 99) par aizsargātas ģeogrāfiskās izcelsmes norādes, aizsargāta cilmes vietas nosaukuma un garantētas tradicionālās īpatnības pieteikuma reģistrāciju, iebilduma paziņojuma lēmuma izsniegšanu un specifikācijas grozījuma reģistrāciju;
@@ -147,7 +147,8 @@
 128) par kvalifikācijas pārbaudījuma un atkārtota kvalifikācijas pārbaudījuma kārtošanu attiecībā uz ieroču un munīcijas aprites kārtību un prasmi rīkoties ar ieroci, kā arī par kvalifikācijas pārbaudījuma apliecības dublikāta izsniegšanu;
 129) par speciālās atļaujas (licences) izsniegšanu un pārreģistrāciju kredītinformācijas biroja darbībai;
 130) par kredītinformācijas biroja darbības uzraudzību (ikgadējā nodeva);
-131) (punkts stājas spēkā 01.03.2016. un iekļauts likuma redakcijā uz 01.03.2016. Sk. 05.11.2015. likumu);
+131) par atļaujas izsniegšanu niršanai jūrā tajās vietās, kur atrodas kuģu vraki vai nogrimuši priekšmeti, kas rada vai var radīt apdraudējumu jūras videi vai kultūrvēsturiskām vērtībām;
 132) par slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un pāršķirošanas atļaujas izsniegšanu;
 133) par vides aizsardzības tehnisko noteikumu izsniegšanu;
-134) par tādu licencēto kapitālsabiedrību darbības uzraudzību, kuras sniedz patērētāju kreditēšanas pakalpojumus (ikgadējā nodeva).
+134) par tādu licencēto kapitālsabiedrību darbības uzraudzību, kuras sniedz patērētāju kreditēšanas pakalpojumus (ikgadējā nodeva);
+135) par Konkurences likumā noteikto apvienošanās izvērtēšanu.
