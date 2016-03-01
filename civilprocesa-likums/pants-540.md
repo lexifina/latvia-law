@@ -10,7 +10,7 @@ Izpildu dokumenti ir:
 7) ārvalsts tiesas vai kompetentās iestādes izsniegts Eiropas izpildes rīkojums saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 805/2004;
 7¹) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41.panta 1.punktu;
 8) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 42.panta 1.punktu;
-9) atbildīgās iestādes lēmumi par starptautisko organizāciju noteikto sankciju piespiedu izpildi;
+9) (izslēgts no 01.03.2016. ar 04.02.2016. likumu. Sk. Pārejas noteikumu 113. punktu);
 10) tiesas, arī ārvalsts tiesas, izsniegta apliecība saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 861/2007 20.panta 2.punktu;
 11) tiesas, arī ārvalsts tiesas, izsniegts Eiropas maksājuma rīkojums saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 1896/2006 18.pantu;
 12) tiesas lēmums par atļauju nodrošinātajam kreditoram pārdot ieķīlāto parādnieka mantu tiesiskās aizsardzības procesā (Maksātnespējas likuma 37.panta otrā daļa);
