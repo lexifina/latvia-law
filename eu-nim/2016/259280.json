@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2016. gada 1. marta Ministru kabineta noteikumi Nr. 131 \nRūpniecisko avāriju riska novērtēšanas kārtība un riska samazināšanas pasākumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/45.2",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-04",
+  "entry_into_force": "2016-03-05",
+  "notification_date": "2018-06-01",
+  "commission_reference": "MNE(2018)52847",
+  "nim_celex": "72014L0052LVA_259280",
+  "nim_id": "259280",
+  "transposes_celex": [
+    "32014L0052"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0966516-1fc6-4a84-9322-6009a3dc886c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
