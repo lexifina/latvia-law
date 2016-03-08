@@ -1,1 +1,1 @@
-31. Šā likuma 45.panta otrā, trešā, ceturtā, piektā un sestā daļa un 45.¹ pants stājas spēkā 2017.gada 3.aprīlī. Pirmo ziņojumu, kas minēts šā likuma 45.panta trešajā daļā, dabasgāzes sadales sistēmas operators iesniedz regulatoram ne vēlāk kā līdz 2017.gada 2.aprīlim.
+31. Šā likuma 45.panta 1.¹, otrā, trešā, ceturtā, piektā un sestā daļa stājas spēkā 2018.gada 1.janvārī. Pirmo ziņojumu, kas minēts šā likuma 45.panta trešajā daļā, dabasgāzes sadales sistēmas operators iesniedz regulatoram līdz 2018.gada 1.janvārim.

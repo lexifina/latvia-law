@@ -1,0 +1,1 @@
+54. Regulators līdz 2017.gada 3.aprīlim no jauna izdod šā likuma 15.panta 1.¹ daļā noteiktās dabasgāzes apgādes pakalpojumu tarifu aprēķināšanas metodikas un izdod 107.panta trešajā daļā noteikto dabasgāzes cenas aprēķināšanas metodiku, kas paredz attiecīgo tarifu un cenas noteikšanu enerģijas vienībās izteiktam dabasgāzes apjomam.

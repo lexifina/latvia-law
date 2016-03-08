@@ -1,0 +1,1 @@
+45. Līdz brīdim, kad regulators pieņem lēmumu par vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora sertificēšanu, dabasgāzes pārvades sistēmas operatora pienākumus pilda dabasgāzes apgādes komersants, kuram izsniegta licence dabasgāzes pārvadei.

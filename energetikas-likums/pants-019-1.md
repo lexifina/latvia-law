@@ -1,3 +1,3 @@
 19.¹pants
-(1) Energoapgādes komersantu objektu (izņemot ēkas) ierīkošanai, rekonstrukcijai, renovācijai un ekspluatācijai nosakāmi nekustamo īpašumu lietošanas tiesību aprobežojumi.
+(1) Energoapgādes komersantu objektu (izņemot ēkas) ierīkošanai, pārbūvei, atjaunošanai un ekspluatācijai nosakāmi nekustamo īpašumu lietošanas tiesību aprobežojumi.
 (2) Nekustamo īpašumu īpašnieku lietošanas tiesību aprobežojumu apjoms un izmantošanas kārtība noteikta šajā likumā un Aizsargjoslu likumā. Šie aprobežojumi jauniem energoapgādes komersantu objektiem ir spēkā no dienas, kad tie ierīkoti, ievērojot šā likuma 19.pantā noteikto kārtību. Ja zemes īpašnieks nesaskaņo jauna energoapgādes komersanta objekta ierīkošanu, aprobežojumus nosaka ar tiesas spriedumu normatīvajos aktos noteiktajā kārtībā.

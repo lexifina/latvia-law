@@ -1,0 +1,1 @@
+46. Līdz brīdim, kad regulators pieņem lēmumu par tarifu apstiprināšanu dabasgāzes pārvadei, uzglabāšanai un sadalei un lēmumu par dabasgāzes cenas apstiprināšanu saistītajiem lietotājiem, attiecīgie sistēmas operatori un publiskais tirgotājs dabasgāzes apgādes pakalpojumus sniedz par tarifiem, kas noteikti akciju sabiedrībai "Latvijas Gāze".

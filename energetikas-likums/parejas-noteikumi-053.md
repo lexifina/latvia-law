@@ -1,0 +1,1 @@
+53. Grozījumi šā likuma 7.pantā par otrās daļas vārdu "dabasgāzes tirdzniecībai - uz pieciem gadiem" izslēgšanu un panta papildināšanu ar piekto daļu, kā arī grozījumi šā likuma 103.pantā par 1.punkta izteikšanu jaunā redakcijā stājas spēkā 2017.gada 10.februārī.

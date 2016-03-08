@@ -1,0 +1,1 @@
+49. Līdz vienotajā dabasgāzes pārvades un uzglabāšanas sistēmas operatorā ietilpstošā dabasgāzes pārvades sistēmas operatora apstiprināšanai un norīkošanai dabasgāzes pārvades sistēmas operators darbojas atbilstoši šā likuma 112.pantam.

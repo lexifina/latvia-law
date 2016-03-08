@@ -1,1 +1,1 @@
-36. Ministru kabinets līdz 2014.gada 31.decembrim izdod šā likuma 42.¹ panta piektajā daļā paredzētos noteikumus.
+36. Šā likuma 110.panta sestajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2016.gada 1.decembrim. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2015.gada 13.oktobra noteikumi Nr.580 "Prasības biogāzes un no biomasas ražotās gāzes, kā arī gāzveida stāvoklī pārvērstas sašķidrinātās dabasgāzes ievadīšanai un transportēšanai dabasgāzes pārvades sistēmā.

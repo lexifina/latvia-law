@@ -5,4 +5,5 @@ Regulators ir tiesīgs dabasgāzes pārvades sistēmas operatoram uzlikt soda na
 3) nenodrošina tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem;
 4) neievēro Eiropas Parlamenta un Padomes regulas Nr. 1227/2011 par enerģijas vairumtirgus integritāti un pārredzamību prasības;
 5) nesniedz regulatoram informāciju tā noteiktajā laikā un kārtībā vai sniedz nepatiesu informāciju;
-6) nenodala savu iekšējo grāmatvedību, neiesniedz regulatoram bilanci, peļņas vai zaudējumu aprēķinu un naudas plūsmas pārskatu vai pārkāpj šķērssubsīdiju aizliegumu.
+6) nenodala savu iekšējo grāmatvedību, neiesniedz regulatoram bilanci, peļņas vai zaudējumu aprēķinu un naudas plūsmas pārskatu vai pārkāpj šķērssubsīdiju aizliegumu;
+7) nenodrošina atbilstību šajā likumā noteiktajām pārvades sistēmas operatora sertificēšanas prasībām, tostarp neievēro šajā likumā noteiktos sertificēšanas prasību ieviešanas termiņus.

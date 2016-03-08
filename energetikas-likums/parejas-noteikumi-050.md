@@ -1,0 +1,1 @@
+50. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidoto subjektu pārreģistrēšana tiešās pārvaldes iestāžu, pašvaldību un autonomu publisko tiesību subjektu administrēto pakalpojumu datubāzēs ir veicama bez maksas. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidotajiem subjektiem šajā likumā noteiktās licences izsniedz bez maksas.
