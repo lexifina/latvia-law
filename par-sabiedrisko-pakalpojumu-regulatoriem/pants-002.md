@@ -4,7 +4,7 @@
 1) enerģētika;
 2) elektroniskie sakari;
 3) pasts;
-4) dzelzceļa transports;
+4) (izslēgts ar 25.02.2016. likumu);
 5) sadzīves atkritumu apsaimniekošana;
 6) ūdenssaimniecība.
 (3) (Izslēgta ar 11.06.2009. likumu.)
