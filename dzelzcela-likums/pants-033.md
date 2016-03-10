@@ -13,12 +13,14 @@
 9) apmainīties ar informāciju par savu darbu un lēmumu pieņemšanas principiem un praksi ar citu Eiropas Savienības dalībvalstu attiecīgajām institūcijām;
 10) izsniegt vilces līdzekļa vadītāja (mašīnista) apliecības;
 11) kārtot vilces līdzekļa vadītāja (mašīnista) apliecību reģistru;
-12) lemt par ritošā sastāva pieņemšanu ekspluatācijā.
+12) lemt par ritošā sastāva pieņemšanu ekspluatācijā;
+13) sniegt informāciju par dzelzceļa nozares iesaistīto pušu pienākumiem saistībā ar Komisijas 2014.gada 11.decembra regulu (ES) Nr. 1305/2014 par savstarpējas izmantojamības tehnisko specifikāciju Eiropas Savienības dzelzceļu sistēmas kravas pārvadājumu telemātikas lietojumprogrammu apakšsistēmai un regulas (EK) Nr. 62/2006 atcelšanu un Komisijas 2011.gada 5.maija regulu (ES) Nr. 454/2011 par savstarpējas izmantojamības tehnisko specifikāciju attiecībā uz Eiropas dzelzceļu sistēmas pasažieru pārvadājumu telemātikas lietojumprogrammu apakšsistēmu;
+14) atzīt novērtēšanas iestādes Komisijas 2013.gada 30.aprīļa īstenošanas regulas (ES) Nr. 402/2013 par kopīgo drošības metodi riska noteikšanai un novērtēšanai un par regulas (EK) Nr. 352/2009 atcelšanu izpratnē.
 (4) Valsts dzelzceļa tehniskā inspekcija savas kompetences ietvaros ir tiesīga:
 1) pārbaudīt Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu neatkarīgi no tā, kam pieder pārbaudāmais objekts;
 2) uz laiku pārtraukt vilcienu satiksmi, samazināt kustības ātrumu un aizliegt tehnisko līdzekļu ekspluatāciju, ja ir apdraudēta cilvēku dzīvība vai veselība, satiksmes drošība vai vide;
 3) līdz pilnīgai trūkumu novēršanai aizliegt lietot ritošo sastāvu un sliežu ceļu, ja to lietošana var apdraudēt vai apdraud cilvēku dzīvību vai veselību, satiksmes drošību vai vidi;
 4) dot saistošus norādījumus par Dzelzceļa tehniskās ekspluatācijas noteikumu ievērošanu visām juridiskajām un fiziskajām personām, kas darbojas dzelzceļa sistēmā;
 5) pārbaudīt komersanta komisijas locekļu un tādu atbildīgo personu, kas veic komersanta dzelzceļa speciālistu zināšanu pārbaudi, atbilstību kvalifikācijas prasībām.
-(5) Valsts dzelzceļa tehniskajai inspekcijai ik gadu no šā likuma 10.panta otrās daļas 1. un 2.punktā noteiktajiem finansēšanas avotiem piešķir finansējumu 0,39 procentu apmērā no kopējā šā likuma 10.panta otrās daļas 1. un 2.punktā minētā dzelzceļa infrastruktūras finansējuma apjoma par iepriekšējo gadu.
+(5) Valsts dzelzceļa tehniskajai inspekcijai ik gadu no šā likuma 10.panta otrās daļas 1. un 2.punktā noteiktajiem finansēšanas avotiem piešķir finansējumu 0,43 procentu apmērā no kopējā šā likuma 10.panta otrās daļas 1. un 2.punktā minētā dzelzceļa infrastruktūras finansējuma apjoma par iepriekšējo gadu.
 (6) Šā panta piektajā daļā paredzēto finansējumu publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs piešķir pa daļām - reizi ceturksnī līdz attiecīgā ceturkšņa pirmā mēneša desmitajam datumam pārskaitot daļu no šā panta piektajā daļā paredzētā finansējuma uz Valsts dzelzceļa tehniskās inspekcijas kontu. Katrā no pirmajiem trim ceturkšņiem pārskaita ceturto daļu no plānotā šā panta piektajā daļā paredzētā finansējuma. Kopējais šā finansējuma apmērs tiek precizēts, veicot pēdējo maksājumu attiecīgajā gadā.

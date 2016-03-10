@@ -1,0 +1,7 @@
+11.² pants. Maksas par apkalpes vietā sniegtajiem pakalpojumiem noteikšanas principi
+(1) Maksu par apkalpes vietas operatora sniegtajiem pakalpojumiem nosaka apkalpes vietas operators.
+(2) Maksa par piekļuvi sliežu ceļiem šā likuma 12.¹ panta otrajā daļā minētajās apkalpes vietās un šādās vietās sniegtajiem pakalpojumiem nepārsniedz to sniegšanas izmaksas, kam pieskaitīta samērīga peļņa.
+(3) Ja pakalpojumus, kas minēti šā likuma 12.¹ panta trešajā un ceturtajā daļā, kā papildpakalpojumus sniedz tikai viens apkalpes vietas operators, maksa par šādu pakalpojumu nepārsniedz tā sniegšanas izmaksas, kam pieskaitīta samērīga peļņa.
+(4) Apkalpes vietas operators, kas sniedz šā likuma 12.¹ panta otrajā, trešajā un ceturtajā daļā minētos pakalpojumus, saskaņā ar šā likuma 28.pantu informē infrastruktūras pārvaldītāju par maksām, kas jāiekļauj tīkla pārskatā, vai norāda mājaslapu internetā, kurā šāda informācija ir pieejama elektroniskā formātā bez maksas.
+(5) Maksu par apkalpes vietas lietošanu maksā apkalpes vietas operatoram un izlieto tā saimnieciskās darbības finansēšanai.
+(6) Apkalpes vietas operators Valsts dzelzceļa administrācijai sniedz visu vajadzīgo informāciju par piemēroto maksu un spēj pamatot pārvadātājam, ka maksa par sniegtajiem pakalpojumiem, kas pārvadātājam faktiski aprēķināta, ievērojot šā panta noteikumus, ir aprēķināta atbilstīgi tīkla pārskatā norādītajai informācijai.

@@ -1,0 +1,3 @@
+33.³ pants. Pasažieru tiesību aizsardzība
+(1) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulas (EK) Nr. 1371/2007 par dzelzceļa pasažieru tiesībām un pienākumiem (turpmāk - regula (EK) Nr. 1371/2007) 30.pantā minētā iestāde, kas atbild par šīs regulas (izņemot tās 21. un 26.pantu) izpildi, iekšzemes dzelzceļa pasažieru pārvadājumos ir Autotransporta direkcija un starptautiskajos dzelzceļa pasažieru pārvadājumos - Valsts dzelzceļa administrācija.
+(2) Regulas (EK) Nr. 1371/2007 30.pantā minētā iestāde, kas atbild par šīs regulas 21. un 26.panta izpildi, ir Valsts dzelzceļa tehniskā inspekcija.

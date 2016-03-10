@@ -1,5 +1,2 @@
-29.pants. Satiksmes ministrijas un Sabiedrisko pakalpojumu regulēšanas komisijas kompetence dzelzceļa transporta nozarē
-(1) Valsts politiku dzelzceļa transporta nozarē realizē Satiksmes ministrija atbilstoši transporta politikas plānošanas dokumentiem.
-(2) Dzelzceļa transporta pakalpojumus, kuru regulēšanu noteicis Ministru kabinets saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem", regulē Sabiedrisko pakalpojumu regulēšanas komisija šajā likumā un likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktās kompetences ietvaros.
-(3) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulas (EK) Nr. 1371/2007 par dzelzceļa pasažieru tiesībām un pienākumiem 30.pantā minētā iestāde, kas atbild par šīs regulas izpildi, ir Sabiedrisko pakalpojumu regulēšanas komisija.
-(4) Sabiedrisko pakalpojumu regulēšanas komisija, sadarbojoties ar citām valsts iestādēm, citu valstu regulatoriem un Eiropas Savienības institūcijām, uzrauga dzelzceļa pasažieru pārvadājumu tirgu, sekmē konkurenci dzelzceļa pasažieru pārvadājumu jomā un veicina publiskās lietošanas dzelzceļa infrastruktūras attīstību.
+29.pants. Satiksmes ministrijas kompetence dzelzceļa transporta nozarē
+Valsts politiku dzelzceļa transporta nozarē īsteno Satiksmes ministrija atbilstoši transporta politikas plānošanas dokumentiem.

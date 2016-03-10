@@ -1,0 +1,4 @@
+27.³ pants. Specializētā infrastruktūra
+(1) Infrastruktūras jaudu uzskata par pieejamu izmantošanai visu to veidu pakalpojumu sniegšanai, kas atbilst vilcienu ceļa darbībai nepieciešamajiem parametriem.
+(2) Ja ir pieejami alternatīvi maršruti, publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicējs pēc apspriešanās ar ieinteresētajām personām var paredzēt, ka konkrētu infrastruktūru izmanto konkrētiem pārvadājuma veidiem. Ja notikusi šāda izvēle, publiskās lietošanas infrastruktūras pārvaldītāja būtisko funkciju veicējs, iedalot infrastruktūras jaudu, var dot priekšroku konkrētam pārvadājuma veidam. Šāda izraudzīšanās nekavē izmantot šo infrastruktūru cita veida pārvadājumiem, ja infrastruktūras jauda ir pieejama.
+(3) Ja infrastruktūrai ir noteikts specializētas infrastruktūras statuss, to norāda tīkla pārskatā.

@@ -1,0 +1,1 @@
+41. Līdz šā likuma 10.panta otrās daļas 1.punktā minētās maksas noteikšanai attiecīgo finansējumu veido publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja noteiktā maksa par publiskās lietošanas dzelzceļa infrastruktūras izmantošanu.

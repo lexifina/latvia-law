@@ -1,0 +1,2 @@
+22.¹ pants. Paredzētās darbības akceptēšana attiecībā uz dzelzceļa būvēm un objektiem
+Ja atbilstoši likumam "Par ietekmes uz vidi novērtējumu" ir sagatavots ietekmes uz vidi novērtējuma ziņojums un saņemts kompetentās institūcijas atzinums sakarā ar valsts publiskās lietošanas dzelzceļa infrastruktūras objekta izveidošanu vai būtisku pārmaiņu veikšanu tajā un šis objekts ir iekļauts Eiropas transporta tīklā (TEN-T) un tā prioritāro projektu sarakstā, lēmumu par paredzētās darbības akceptēšanu, izvērtējot attiecīgo pašvaldību viedokli, pieņem Ministru kabinets.

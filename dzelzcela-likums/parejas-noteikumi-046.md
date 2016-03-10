@@ -1,0 +1,1 @@
+46. Grozījums šā likuma 15.pantā par tā izteikšanu jaunā redakcijā stājas spēkā 2016.gada 1.oktobrī. Līdz attiecīgā grozījuma spēkā stāšanās dienai Ministru kabinets izdod šā likuma 15.panta otrajā daļā minētos noteikumus.

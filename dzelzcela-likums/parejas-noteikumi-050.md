@@ -1,0 +1,1 @@
+50. Līdz 2018.gada 1.aprīlim Ministru kabinets izstrādā un iesniedz Saeimai nepieciešamos likumprojektus, kas paredz vēsturiskā mantojuma dzelzceļa mērķiem un Valsts dzelzceļa administrācijas, Valsts dzelzceļa tehniskās inspekcijas un Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja funkciju izpildei atbilstošu finansējuma apmēru.
