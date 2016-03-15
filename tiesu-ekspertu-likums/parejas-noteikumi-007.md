@@ -1,0 +1,1 @@
+7. Tieslietu ministrs līdz 2016.gada 31.augustam apstiprina jaunu tiesu ekspertu eksaminācijas komisijas personālsastāvu. Līdz jaunā tiesu ekspertu eksaminācijas komisijas personālsastāva apstiprināšanai darbu turpina līdzšinējā Tiesu ekspertu sertifikācijas komisija.

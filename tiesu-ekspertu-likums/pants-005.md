@@ -1,0 +1,8 @@
+5.pants. Tiesu ekspertīzes metodes un to reģistrs
+(1) Tiesu ekspertīzes metode ir sistematizēts paņēmienu un procesu kopums, saskaņā ar kuru tiesu eksperts veic ekspertīzei iesniegtā objekta izpēti un sniedz atbildes uz uzdotajiem jautājumiem.
+(2) Tiesu ekspertīzes metodes apraksts ietver metodes nosaukumu, numuru, izstrādāšanas datumu, versijas numuru, darbības jomu, definīcijas, riska faktorus, darba gaitas aprakstu, rezultātu novērtējumu, interpretāciju, darba drošības prasības, kvalitātes nodrošināšanas pasākumus, izmantotos literatūras avotus, informāciju par reaģentiem, aparatūru un piederumiem, ja tādi ir.
+(3) Tiesu ekspertīzes veikšanai sagatavoto metodi pirms tās izmantošanas iestāde, kurā strādā valsts tiesu eksperts, iesniedz reģistrācijai Tiesu ekspertu padomē, bet privātais tiesu eksperts - apstiprināšanai un reģistrācijai Tiesu ekspertu padomē.
+(4) Tiesu medicīnas ekspertīzē, tiesu psihiatrijas ekspertīzē un narkoloģijas ekspertīzē izmantojamās tiesu ekspertīzes metodes reģistrē, pamatojoties uz normatīvajos aktos noteiktās kompetentās iestādes lēmumu par attiecīgās medicīniskās tehnoloģijas apstiprināšanu.
+(5) Tiesu ekspertīžu metožu reģistru veido Tiesu ekspertu padome.
+(6) Tiesu ekspertīzes metodes apraksts ir ierobežotas pieejamības informācija. Tiesu ekspertu padome pēc personas rakstveida pieprasījuma saņemšanas un pēc saskaņošanas ar iestādi, kurā strādā valsts tiesu eksperts, vai ar privāto tiesu ekspertu nodrošina attiecīgajai personai iespēju iepazīties ar reģistrēto tiesu ekspertīzes metodi.
+(7) Tiesu ekspertīzes metodē noteikto iekārtu un instrumentu regulāru kalibrēšanu un verifikāciju nodrošina iestāde, kurā strādā valsts tiesu eksperts, vai privātais tiesu eksperts.

@@ -1,0 +1,1 @@
+6. Tieslietu ministrs līdz 2016.gada 31.augustam apstiprina jaunu Tiesu ekspertu padomes personālsastāvu. Līdz jaunā Tiesu ekspertu padomes personālsastāva apstiprināšanai darbu turpina līdzšinējā Tiesu ekspertu padome.

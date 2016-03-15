@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē 2006.gada 14.septembrī pieņemtais Tiesu ekspertu likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 20.nr.; 2009, 2.nr.; Latvijas Vēstnesis, 2009, 193.nr.).

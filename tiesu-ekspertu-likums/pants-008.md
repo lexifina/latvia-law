@@ -1,0 +1,7 @@
+8.pants. Sertifikācija un resertifikācija
+(1) Eksāmenu ir tiesīgs kārtot kandidāts, kurš atbilst šā likuma 6.pantā minētajām prasībām un ir samaksājis par sertifikāciju.
+(2) Eksāmenu organizē un nodrošina Tiesu ekspertu padome ne retāk kā reizi gadā.
+(3) Kandidāta pieteikšanās kārtību, eksāmena saturu, sertifikācijas kārtību, minimālo zināšanu apjomu, sertifikācijas maksu, sertifikācijas maksas atvieglojumus un apmēru, kā arī tās maksāšanas kārtību nosaka Ministru kabinets.
+(4) Tiesu eksperta resertifikāciju (turpmāk - resertifikācija) veic Tiesu ekspertu padome pirms tiesu eksperta sertifikāta termiņa beigām. Resertifikācijas kārtību, resertifikācijas prasības, maksu par resertifikāciju un tās maksāšanas kārtību nosaka Ministru kabinets.
+(5) Pēc resertifikācijas tiesu ekspertam izsniedz jaunu tiesu eksperta sertifikātu.
+(6) Eksāmenu nekārto kandidāti tiesu medicīnas eksperta specialitātē vai tiesu psihiatrijas eksperta specialitātē. Lēmumu par tiesu eksperta sertifikāta izsniegšanu kandidātam tiesu medicīnas eksperta specialitātē vai tiesu psihiatrijas eksperta specialitātē Tiesu ekspertu padome pieņem, pamatojoties uz normatīvajos aktos noteiktās kompetentās iestādes rakstveidā sniegto informāciju no ārstniecības personu un ārstniecības atbalsta personu reģistra par attiecīgās ārstniecības personas sertifikāta numuru un derīguma termiņu un izvērtējot kandidāta atbilstību šā likuma 6.pantā minētajām prasībām.

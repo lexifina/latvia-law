@@ -1,0 +1,1 @@
+3. Divu mēnešu laikā no šā likuma spēkā stāšanās dienas kapitālsabiedrības, kurās amata pienākumus pilda tiesu psihiatrijas eksperti, iesniedz reģistrācijai Tiesu ekspertu padomē līdz šā likuma spēkā stāšanās dienai tiesu psihiatrijas ekspertīzē izmantojamās tiesu ekspertīzes metodes.
