@@ -1,6 +1,6 @@
 10.pants. Vispārīgās prasības ārsta izglītībai
 (1) Personas tiesības atbilstoši normatīvajos aktos noteiktajai kompetencei veikt patstāvīgu profesionālo darbību ārsta profesijā apliecina ārsta pamatizglītību apliecinošs augstākās izglītības diploms un personas iekļaušana ārstniecības personu reģistrā. Personas prakses tiesības kādā no ārsta profesijas pamatspecialitātēm, apakšspecialitātēm vai papildspecialitātēm apliecina augstākās izglītības diploms par akreditētas pilna laika medicīniskās studiju programmas apguvi, profesionālās kvalifikācijas sertifikāts, kas iegūts Ārstniecības likumā noteiktajā kārtībā, un personas iekļaušana ārstniecības personu reģistrā.
-(2) Medicīnas studiju programmā uzņem personas ar vidējo izglītību, kas dod tiesības studēt universitātē.
+(2) Medicīnas studiju programmā uzņem personas ar vidējo izglītību, kas dod tiesības studēt augstskolā.
 (3) Minimālais studiju programmas ilgums ārsta pamatizglītību apliecinoša augstākās izglītības diploma iegūšanai ir seši gadi jeb 5500 kontaktstundu. Latvijas Republikā atzīst citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī izdotu ārsta pamatizglītību apliecinošu augstākās izglītības diplomu par vismaz piecus gadus ilgas studiju programmas apguvi ne mazāk kā 5500 kontaktstundu apjomā.
 (4) Augstākā medicīniskā izglītība nodrošina ārsta profesijai atbilstošas zināšanas medicīnas pamatnozarēs, klīniskajās disciplīnās un praksē, kā arī atbilstošu klīnisko pieredzi.
 (5) (Izslēgta ar 04.11.2004. likumu)
