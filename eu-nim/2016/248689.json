@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2016.gada 9.marta normatīvie noteikumi Nr.58 \"Apdrošinātāju un pārapdrošinātāju pārskatu sagatavošanas normatīvie noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/54.37",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-17",
+  "entry_into_force": "2016-03-18",
+  "notification_date": "2017-06-28",
+  "commission_reference": "MNE(2017)53503",
+  "nim_celex": "72009L0138LVA_248689",
+  "nim_id": "248689",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70788789-e9d3-4f0f-8098-e051abec4f7f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
