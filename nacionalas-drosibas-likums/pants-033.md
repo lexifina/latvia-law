@@ -3,4 +3,4 @@
 (2) Valsts aizsardzības operatīvo plānu:
 1) izstrādā Nacionālo bruņoto spēku komandieris;
 2) apstiprina aizsardzības ministrs.
-(3) Valsts aizsardzības operatīvā plāna izpildi nodrošina Nacionālo bruņoto spēku komandieris vai - kara laikā - Nacionālo bruņoto spēku virspavēlnieks.
+(3) Valsts aizsardzības operatīvā plāna izpildi nodrošina Nacionālo bruņoto spēku komandieris.
