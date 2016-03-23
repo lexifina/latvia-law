@@ -28,5 +28,5 @@ d) gādā par drošību militāro pasākumu norises vietās;
 2) civilās aizsardzības sistēmai - preventīvajos un reaģēšanas pasākumos, neatliekamos ārkārtējo situāciju izraisījušo notikumu seku likvidēšanas pasākumos, kā arī glābšanas un meklēšanas darbos;
 3) Valsts policijai - sabiedriskās kārtības un drošības nodrošināšanā;
 4) Valsts robežsardzei - valsts robežas neaizskaramības nodrošināšanā;
-5) Rekrutēšanas un jaunsardzes centram - jaunsargu interešu izglītības programmas īstenošanā.
+5) Jaunsardzes un informācijas centram - jaunsargu interešu izglītības programmas īstenošanā.
 (4) Militārās policijas amatpersonām, pildot dienesta pienākumus, atbilstoši kompetencei ir tiesības Aizsardzības ministrijas valdījumā esošajos objektos, apsargājamos objektos un militāro pasākumu norises vietās, ja ir pamatotas aizdomas, ka persona izdarījusi likumpārkāpumu, normatīvajos aktos noteiktajā kārtībā pārbaudīt šo personu, lai konstatētu, vai tā ir lietojusi alkoholu, narkotiskās, psihotropās vai toksiskās vielas.

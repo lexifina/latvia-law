@@ -6,3 +6,4 @@
 3) atbild par Valsts aizsardzības operatīvā plāna un Nacionālo bruņoto spēku gatavību valsts aizsardzībai reglamentējošo dokumentu izstrādi un to izpildes nodrošināšanu;
 4) atbild par Nacionālo bruņoto spēku uzdevumu izpildei nepieciešamā personālsastāva, materiāltehnisko un finansu resursu pieprasījuma savlaicīgu iesniegšanu aizsardzības ministram un šo resursu lietderīgu izmantošanu;
 5) nosaka Nacionālo bruņoto spēku vienību uzdevumus.
+(3) Kara vai izņēmuma stāvokļa laikā Nacionālo bruņoto spēku komandieris vai viņa pilnvarota persona piedalās Ministru kabineta sēdēs ar padomdevēja tiesībām.
