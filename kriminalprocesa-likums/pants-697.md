@@ -13,5 +13,6 @@
 4) saskaņā ar Latvijas likumu par to pašu noziedzīgu nodarījumu personu nevar saukt pie kriminālatbildības, notiesāt vai izpildīt tai sodu sakarā ar noilgumu, amnestiju vai citu likumīgu pamatu;
 5) persona likumā noteiktajā kārtībā apžēlota par to pašu noziedzīgu nodarījumu;
 6) ārvalsts nedod pietiekamas garantijas, ka personai nepiespriedīs nāves sodu un to neizpildīs;
-7) personai ārvalstī var draudēt spīdzināšana.
+7) personai ārvalstī var draudēt spīdzināšana;
+8) personas izdošanas lūguma izpilde var kaitēt Latvijas valsts suverenitātei, drošībai, sabiedriskajai kārtībai vai citām būtiskām interesēm.
 (3) Starptautiskais līgums var paredzēt citus izdošanas atteikuma iemeslus.

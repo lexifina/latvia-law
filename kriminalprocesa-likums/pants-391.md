@@ -21,4 +21,4 @@
 4) noziedzīga nodarījuma kvalifikāciju, ja tā ir zināma;
 5) drošības līdzekli, tā piemērošanas datumu un termiņu.
 (6) Lēmumam par kriminālprocesa sadalīšanu pievieno izdalīto lietas materiālu oriģinālus vai kopijas un to sarakstu.
-(7) Lēmums par kriminālprocesa sadalīšanu nav pārsūdzams. Par pieņemto lēmumu procesa virzītājs paziņo personai, kurai ir tiesības uz aizstāvību.
+(7) Lēmums par kriminālprocesa sadalīšanu nav pārsūdzams. Par pieņemto lēmumu procesa virzītājs paziņo personai, kurai ir tiesības uz aizstāvību izdalītajā procesā.

@@ -1,5 +1,5 @@
 702.pants. Izdošanas apcietinājums
-(1) Izdošanas apcietinājumu piemēro pēc tam, kad saņemts lūgums par personas izdošanu līdz ar:
+(1) Izdošanas apcietinājumu var piemērot pēc tam, kad saņemts lūgums par personas izdošanu līdz ar:
 1) ārvalsts lēmumu par šīs personas apcietinājumu vai spēkā stājušos spriedumu attiecībā uz konkrēto personu;
 2) noziedzīga nodarījuma aprakstu vai lēmumu par personas saukšanu pie kriminālatbildības;
 3) tā likuma panta tekstu, pēc kura persona saukta pie kriminālatbildības vai notiesāta, kā arī tā likuma panta tekstu, kurš regulē noilgumu;

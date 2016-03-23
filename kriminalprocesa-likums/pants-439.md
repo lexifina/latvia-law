@@ -6,6 +6,7 @@
 2) konstatēti apstākļi, kas liedz noskaidrot vai saukt pie kriminālatbildības konkrētu fizisko personu, vai objektīvu iemeslu dēļ krimināllietas nodošana tiesai tuvākajā laikā (saprātīgā laika periodā) nav iespējama;
 3) lai savlaicīgi atrisinātu krimināltiesiskās attiecības ar fizisko personu, kurai ir tiesības uz aizstāvību;
 4) to lūdz juridiskās personas pārstāvis.
+(3¹) Procesu piespiedu ietekmēšanas līdzekļa piemērošanai juridiskajai personai var uzsākt procesuāli pilnvarota amatpersona arī gadījumos, kad kriminālprocesu atteikts uzsākt vai tas pabeigts, pamatojoties uz nereabilitējošiem apstākļiem, un ir noskaidrots šā panta pirmajā daļā noteiktais pamats procesa uzsākšanai pret juridisko personu.
 (4) Lēmumam, ar kuru process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai izdalīts atsevišķā lietvedībā, pievieno izdalīto krimināllietas materiālu kopijas un to sarakstu.
 (5) Lēmums, ar kuru process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai izdalīts atsevišķā lietvedībā, nav pārsūdzams.
-(6) Atsevišķā lietvedībā izdalīts process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai notiek, ievērojot šajā likumā noteikto vispārējo kārtību, ja vien šajā likumā nav noteikts citādi.
+(6) Atsevišķā lietvedībā izdalīts process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai vai process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai šā panta 3.¹ daļā noteiktajos gadījumos notiek, ievērojot šajā likumā noteikto vispārējo kārtību, ja vien šajā likumā nav noteikts citādi.

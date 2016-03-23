@@ -5,3 +5,4 @@
 (4) Aizliegts izpaust ziņas par tās personas privāto dzīvi, kura piedalās izmeklēšanas darbībā, kā arī ziņas, kas satur profesionālu noslēpumu vai komercnoslēpumu, izņemot gadījumus, kad tas nepieciešams pierādīšanā.
 (5) Izmeklēšanas darbību var veikt, izmantojot tehniskos līdzekļus šā likuma 140.pantā noteiktajā kārtībā, kā arī, ja tas nepieciešams, pieaicinot ekspertu, revidentu vai speciālistu.
 (6) Izmeklēšanas darbību veikšanas īpatnības iztiesāšanā nosaka šā likuma astotā līdz vienpadsmitā sadaļa.
+(7) Procesuālo darbību veikšanā pēc iespējas izvairās no cietušā un viņa tuvinieku saskarsmes ar personu, kurai ir tiesības uz aizstāvību, ja vien šāda saskarsme nav nepieciešama kriminālprocesa mērķu sasniegšanai.

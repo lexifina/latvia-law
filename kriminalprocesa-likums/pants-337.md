@@ -4,7 +4,7 @@
 1) par izmeklēšanas grupas dalībnieka, procesuālā uzdevuma izpildītāja, eksperta vai revidenta rīcību - procesa virzītājam;
 2) par izmeklētāja vai izmeklētāja tiešā priekšnieka rīcību vai lēmumiem - uzraugošajam prokuroram;
 3) par prokurora rīcību vai lēmumiem - amatā augstākam prokuroram;
-4) par izmeklēšanas tiesneša rīcību vai lēmumiem - tiesas priekšsēdētājam;
+4) par izmeklēšanas tiesneša lēmumu - augstāka līmeņa tiesai;
 5) par tiesneša rīcību - tiesas priekšsēdētājam;
 6) par tiesas vai tiesneša nolēmumu - augstāka līmeņa tiesai.
 (3) Ja persona ir pārsūdzējusi šā panta otrās daļas 1.-3.punktā minēto personu rīcību vai lēmumus un nepiekrīt sūdzības izskatītāja - amatā augstāka prokurora pieņemtajam lēmumam, tā var pārsūdzēt šo lēmumu nākamam amatā augstākajam prokuroram, kura lēmums pirmstiesas kriminālprocesā nav pārsūdzams.

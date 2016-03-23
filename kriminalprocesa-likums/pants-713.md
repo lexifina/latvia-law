@@ -12,4 +12,4 @@
 2) par atteikšanos personu izdot;
 3) par vienkāršotas izdošanas nepiemērošanu.
 (5) Ģenerālprokurora pieņemtais lēmums nav pārsūdzams.
-(6) Par personas izdošanu vai atteikšanos to izdot informē ārvalsti un izdodamo personu un nodod attiecīgo lēmumu Iekšlietu ministrijai izpildei.
+(6) Par personas izdošanu vai atteikšanos to izdot informē ārvalsti un izdodamo personu un nodod attiecīgo lēmumu Valsts policijai izpildei.

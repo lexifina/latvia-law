@@ -1,0 +1,6 @@
+702.¹ pants. Izdošanas apcietinājuma piemērošanas kontrole
+(1) Izdodamā persona, tās pārstāvis vai aizstāvis jebkurā laikā var iesniegt izmeklēšanas tiesnesim pieteikumu par izdošanas apcietinājuma turpmākas piemērošanas nepieciešamības izvērtēšanu.
+(2) Pieteikumu par izdošanas apcietinājuma turpmākas piemērošanas nepieciešamības izvērtēšanu var noraidīt bez tā izskatīšanas mutvārdu procesā, ja kopš pēdējās izdošanas apcietinājuma piemērošanas nepieciešamības pārbaudes ir pagājuši mazāk nekā divi mēneši un pieteikums nav pamatots ar ziņām par faktiem, kas izmeklēšanas tiesnesim nebija zināmi, lemjot par izdošanas apcietinājuma piemērošanu vai iepriekšējā pieteikuma izskatīšanas laikā. Izmeklēšanas tiesnesis šādu pieteikumu izskata rakstveida procesā bez procesā iesaistīto personu piedalīšanās.
+(3) Ja pieteikumu par izdošanas apcietinājuma turpmākas piemērošanas nepieciešamības izvērtēšanu izskata mutvārdu procesā, tiesas sēdē piedalās prokurors, izdodamā persona, tās pārstāvis un advokāts.
+(4) Ja izdodamā persona, tās pārstāvis vai advokāts divu mēnešu laikā nav iesniedzis pieteikumu par izdošanas apcietinājuma turpmākas piemērošanas nepieciešamības izvērtēšanu, šādu izvērtēšanu veic izmeklēšanas tiesnesis.
+(5) Šajā pantā paredzētie lēmumi nav pārsūdzami.

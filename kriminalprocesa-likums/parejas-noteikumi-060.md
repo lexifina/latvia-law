@@ -1,0 +1,1 @@
+60. Grozījumi šā likuma 420.panta pirmajā daļā un 441.¹ panta pirmajā daļā attiecībā uz prokurora tiesībām sastādīt priekšrakstu par sodu, ja izdarīts smags noziegums, par kuru paredzēts brīvības atņemšanas sods līdz pieciem gadiem, stājas spēkā vienlaikus ar attiecīgiem grozījumiem Krimināllikumā.

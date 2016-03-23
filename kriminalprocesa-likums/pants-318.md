@@ -1,8 +1,8 @@
 318.pants. Lēmumi pirmstiesas procesā
 (1) Pirmstiesas procesā procesa virzītājs pieņem un rakstveidā noformē motivētus lēmumus par:
-1) kriminālprocesa uzsākšanu un turpmāko virzību;
+1) kriminālprocesa turpmāko virzību;
 2) personas atzīšanu par aizdomās turēto;
-3) personas atzīšanu par cietušo;
+3) (izslēgts ar 18.02.2016. likumu);
 4) personas saukšanu pie kriminālatbildības;
 5) piespiedu līdzekļa piemērošanu;
 6) pirmstiesas procesa pabeigšanu.

@@ -7,3 +7,4 @@
 1) persona ir Latvijas pilsonis un dzīvo Latvijā;
 2) spriedumā vai administratīvajā lēmumā ir ietverts rīkojums par personas izraidīšanu vai deportāciju uz Latviju;
 3) persona ir aizbēgusi uz Latviju vai atgriezusies Latvijā sakarā ar to, ka Eiropas Savienības dalībvalstī pret šo personu uzsākts kriminālprocess vai pieņemts notiesājošs spriedums.
+(4) Ja personas izdošana ir atteikta, pamatojoties uz šā likuma 714.panta piektās daļas 4.punktu, sodu izpilda saskaņā ar šajā nodaļā noteikto.

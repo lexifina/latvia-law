@@ -3,4 +3,4 @@
 (2) Apelācijas instances tiesas lēmums stājas spēkā, kad izbeidzies termiņš tā pārsūdzēšanai kasācijas kārtībā un lēmums nav pārsūdzēts.
 (3) Tiesas lēmums par lietas izbeigšanu nekavējoties izpildāms tajā daļā, kura attiecas uz apsūdzētā atbrīvošanu no drošības līdzekļa, kas saistīts ar brīvības atņemšanu.
 (4) Kasācijas instances tiesas lēmums stājas spēkā tā pasludināšanas dienā un nav pārsūdzams.
-(5) Lēmums, ar kuru notiesātais tiek nosacīti pirms termiņa atbrīvots no soda izciešanas, nav pārsūdzams un stājas spēkā nekavējoties.
+(5) Lēmums, ar kuru notiesātais tiek nosacīti pirms termiņa atbrīvots no soda izciešanas, nav pārsūdzams un stājas spēkā nekavējoties. Lēmumu tiesa ne vēlāk kā nākamajā dienā nosūta Valsts probācijas dienestam.

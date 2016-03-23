@@ -1,4 +1,6 @@
 151.pants. Liecinieka, cietušā, pārstāvja un kriminālprocesā aizskartā mantas īpašnieka pratināšana
 (1) Pirms pratināšanas lieciniekam, cietušajam, šajā likumā paredzētajam pārstāvim un kriminālprocesā aizskartajam mantas īpašniekam vai likumīgajam valdītājam izskaidro viņa tiesības un pienākumus un brīdina par atbildību par atteikšanos liecināt vai apzināti nepatiesas liecības došanu.
-(2) Liecinieku un cietušo var pratināt par visiem apstākļiem un par jebkuru kriminālprocesā iesaistītu personu, ja sniegtajām ziņām ir vai var būt nozīme lietā.
+(2) Liecinieku un cietušo var pratināt par visiem apstākļiem un par jebkuru kriminālprocesā iesaistītu personu, ja sniegtajām ziņām ir vai var būt nozīme lietā. Ja liecinieka pratināšanas laikā konstatē, ka ir pamats mainīt liecinieka procesuālo statusu, nosakot, ka tas ir persona, kurai ir tiesības uz aizstāvību, šādas personas pratināšanu liecinieka statusā pārtrauc.
+(2¹) Personas mutvārdos izteikto iesniegumu par noziedzīgu nodarījumu var fiksēt nopratināšanas protokolā.
 (3) Pārstāvi un kriminālprocesā aizskarto mantas īpašnieku pratina, ievērojot liecinieka pratināšanas noteikumus, taču šīs personas nezaudē pārstāvja vai kriminālprocesā aizskartā mantas īpašnieka statusu.
+(4) Cietušā pratināšana tiek veikta, cik drīz vien iespējams. Pratināšanu skaits ir pēc iespējas mazāks. Cietušā pratināšanu pēc iespējas veic viena un tā pati persona.

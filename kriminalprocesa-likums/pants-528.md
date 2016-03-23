@@ -14,5 +14,5 @@
 12) advokāta darba samaksas piedziņu no apsūdzētā vai par viņa atbrīvošanu no tās;
 13) (izslēgts ar 12.03.2009. likumu);
 14) apsūdzētā atbrīvošanu no apcietinājuma, mājas aresta vai sociālās korekcijas izglītības iestādes tiesas sēžu zālē, ja viņam noteikts ar brīvības atņemšanu nesaistīts sods.
-(2) Piemērojot nosacītu notiesāšanu, tiesa lemj par pārbaudes laiku, par to, kādi pienākumi nosacīti notiesātajam uzliekami un kam uzdodama nosacīti notiesātā pārraudzība.
+(2) Piemērojot nosacītu notiesāšanu, tiesa lemj par pārbaudes laiku un kam uzdodama nosacīti notiesātā pārraudzība.
 (3) Nosacīti notiesājot personu, kura noziedzīgu nodarījumu izdarījusi, būdama alkohola, narkotisko, psihotropo vai toksisko vielu iespaidā, tiesa ar apsūdzētā piekrišanu var uzlikt viņam par pienākumu ārstēties no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības, uzdodot attiecīgajai Valsts probācijas dienesta iestādei un ārstniecības iestādei kontrolēt šā pienākuma izpildi.

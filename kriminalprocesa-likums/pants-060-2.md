@@ -10,9 +10,9 @@
 8) sniegt liecību vai atteikties liecināt;
 9) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus.
 (2) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas procesa un tiesas.
-(3) Papildus tiesībām, kas noteiktas šā panta pirmajā daļā, aizturētajam, kā arī aizdomās turētajam vai apsūdzētajam, kuram piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, ir šādas tiesības:
+(3) Papildus tiesībām, kas noteiktas šā panta pirmajā daļā, aizturētajam, kā arī aizdomās turētajam vai apsūdzētajam, kuram piemēro ar brīvības atņemšanu saistītu drošības līdzekli, ir šādas tiesības:
 1) iepazīties ar tiem lietas materiāliem, ar kuriem pamatots ierosinājums piemērot ar brīvības atņemšanu saistītu drošības līdzekli, ciktāl šāda piekļuve neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanu;
-2) pieprasīt, lai par aizturēšanu vai apcietināšanu paziņo viņa tuviniekam, mācību iestādei, darba devējam. Ārvalstniekam ir tiesības pieprasīt, lai par aizturēšanu tiek informēta viņa valsts diplomātiskā vai konsulārā pārstāvniecība;
+2) pieprasīt, lai par aizturēšanu vai apcietināšanu paziņo viņa tuviniekam, mācību iestādei, darba devējam, kā arī sazināties ar vienu no tiem, ciktāl šāda sazināšanās neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanai. Ārvalstniekam ir tiesības pieprasīt, lai par aizturēšanu vai apcietināšanu tiktu informēta viņa valsts diplomātiskā vai konsulārā pārstāvniecība, kā arī ar to sazināties;
 3) saņemt informāciju par tiesībām uz neatliekamo medicīnisko palīdzību;
 4) saņemt informāciju par maksimālo stundu vai mēnešu skaitu, uz kādu personai var tikt ierobežota brīvība pirmstiesas procesā.
 (4) Personai, tiklīdz tā ieguvusi tiesības uz aizstāvību, nekavējoties rakstveidā izsniedz un, ja nepieciešams, izskaidro informāciju par šā panta pirmajā un trešajā daļā noteiktajām tiesībām. To, ka informācija ir izsniegta un, ja nepieciešams, tiesības izskaidrotas, persona apliecina ar savu parakstu.

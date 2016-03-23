@@ -4,5 +4,5 @@
 2) atteikšanos personu izdot;
 3) personas izdošanas pieļaujamību.
 (2) Ja lēmums par personas izdošanu ir pieņemts, vēlāk saņemtais lūgums netiek apmierināts. Par to paziņo lūguma iesniedzējai valstij.
-(3) Ja citas ārvalsts lūguma saņemšanas brīdī stājies spēkā lēmums par izdošanas pieļaujamību, šis lēmums netiek iesniegts Ministru kabinetam līdz vēlāk saņemtā lūguma pārbaudes pabeigšanai.
-(4) Ja izdošanu lūgušas vairākas ārvalstis, Ministru kabinets pēc tieslietu ministra ierosinājuma, ņemot vērā nodarījuma raksturu, tā izdarīšanas vietu un lūgumu saņemšanas secību, nosaka, kurai valstij persona izdodama.
+(3) Ja citas ārvalsts lūguma saņemšanas brīdī stājies spēkā lēmums par izdošanas pieļaujamību, šis lēmums netiek virzīts lēmuma par personas izdošanu ārvalstij pieņemšanai līdz vēlāk saņemtā lūguma pārbaudes pabeigšanai.
+(4) Ja izdošanu lūgušas vairākas ārvalstis, ģenerālprokurors, ņemot vērā nodarījuma raksturu, tā izdarīšanas vietu un lūgumu saņemšanas secību, nosaka, kurai valstij persona izdodama.
