@@ -1,0 +1,1 @@
+Kodeksā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/29/ES, ar ko nosaka noziegumos cietušo tiesību, atbalsta un aizsardzības minimālos standartus un aizstāj Padomes Pamatlēmumu 2001/220/TI.
