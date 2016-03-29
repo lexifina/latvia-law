@@ -1,2 +1,2 @@
 IX nodaļa
-Siltumapgādes sistēma
+Siltumapgādes un aukstumapgādes sistēma

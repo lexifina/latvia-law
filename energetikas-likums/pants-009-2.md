@@ -1,0 +1,6 @@
+9.² pants
+(1) Lietderīgā siltumenerģija ir tāda siltumenerģija, kas koģenerācijas iekārtā saražota, lai apmierinātu ekonomiski pamatotu siltumapgādes pieprasījumu, arī siltumenerģija, ko komersants pārdod siltumenerģijas lietotājam par cenu, kas atbilst vienam no šādiem nosacījumiem:
+1) ja siltumapgādes sistēmas operatora licences zonā ir tikai viens siltumenerģijas ražotājs, siltumenerģijas pārdošanas cenu ir noteicis vai apstiprinājis regulators;
+2) ja siltumapgādes sistēmas operatora licences zonā ir vairāk nekā viens siltumenerģijas ražotājs, siltumenerģijas pārdošanas cena nav zemāka par kurināmā izmaksām vienas siltumenerģijas vienības saražošanai katlumājā, izmantojot to pašu kurināmā veidu, kuru izmanto koģenerācijas iekārtā, un katlumājas neto lietderības koeficients nav mazāks par 92 procentiem, izmantojot gāzi vai šķidro kurināmo, un nav mazāks par 80 procentiem, izmantojot cieto kurināmo.
+(2) Ja komersants ir vertikāli integrēts un vienlaikus nodarbojas ar siltumenerģijas ražošanu, pārvadi un sadali, par lietderīgo siltumenerģiju atzīstama visa koģenerācijas iekārtā saražotā siltumenerģija.
+(3) Lietderīgās siltumenerģijas apjomā neieskaita siltumenerģiju, kas saražota atsevišķos ūdenssildāmajos katlos vai tvaika katlos.

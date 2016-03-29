@@ -1,2 +1,0 @@
-58.pants
-Enerģijas un kurināmā efektīvas izlietošanas, vietējo energoresursu apgūšanas un izmantošanas veicināšanai un energoefektivitātes paaugstināšanai Ministru kabinets var izveidot speciālu energoefektivitātes fondu, kurā ieskaita finansu līdzekļus no mērķa ziedojumiem un ieguldījumiem enerģijas efektīvas lietošanas un energoefektivitātes paaugstināšanas pasākumos, kā arī no citiem ieņēmumiem.

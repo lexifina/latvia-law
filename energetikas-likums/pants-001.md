@@ -4,6 +4,8 @@ Likumā ir lietoti šādi termini:
 2) autonomais ražotājs - komersants, energoapgādes komersants vai fiziskā persona, kas ražo elektroenerģiju, siltumenerģiju vai dzesēšanai nepieciešamo enerģiju nolūkā patērēt to paša vajadzībām vai lokālās siltumapgādes vai aukstumapgādes vajadzībām;
 3) balansēšana - sistēmas operatora organizēts process, kas nodrošina ikbrīža līdzsvaru starp sistēmā ievadīto enerģiju un no sistēmas izvadīto enerģiju;
 4) bioloģiskais šķidrais kurināmais - no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos;
+4¹) centralizētā aukstumapgādes sistēma - aukstuma avotu, pārvades un sadales aukstumapgādes tīklu un dzesēšanai nepieciešamās enerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē dzesēšanai nepieciešamo enerģiju;
+4²) centralizētā siltumapgādes sistēma - siltumavotu, pārvades un sadales siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju;
 5) dabasgāzes krātuve - virszemes vai pazemes objekts, kuru izmanto dabasgāzes (tostarp sašķidrinātās dabasgāzes) uzglabāšanai, izņemot ražošanā izmantotās daļas un iekārtas, ko izmanto tikai pārvades sistēmu operatori;
 6) drošības rezerves - naftas produktu rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 72.panta prasībām, un dabasgāzes rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 64.panta pirmās daļas 3.punktā noteikto kārtību;
 7) energoapgāde - enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes (tostarp sašķidrinātās dabasgāzes un biometāna) iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
@@ -22,6 +24,11 @@ Likumā ir lietoti šādi termini:
 20) gazificēts objekts - dabasgāzes apgādes sistēmai pieslēgta būve vai tās daļa, kā arī iekārta;
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, tirdzniecības vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 22) Inčukalna pazemes gāzes krātuve - pazemes un virszemes objekts, kuru izmanto dabasgāzes uzglabāšanai un kurš atrodas Krimuldas, Inčukalna un Sējas novadā;
+22¹) individuālā aukstumapgādes sistēma - atsevišķas ēkas aukstumapgādes sistēma, kas sastāv no dzesēšanas iekārtas, kura dzesē visu ēku, vai dzesēšanas iekārtām, kuras izmanto atsevišķu telpu dzesēšanai ēkā;
+22²) individuālā siltumapgādes sistēma - atsevišķas ēkas siltumapgādes sistēma, kas sastāv no apkures iekārtas, kura apsilda visu ēku, vai apkures iekārtām, kuras izmanto atsevišķu telpu apsildīšanai ēkā;
+22³) koģenerācija - tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
+22⁴) koģenerācijas iekārta - iekārta vai iekārtu kopums, kas paredzēts vienlaicīgai elektroenerģijas un siltumenerģijas ražošanai vienotā tehnoloģiskajā procesā. Koģenerācijas iekārtā neietilpst iekārtas, ko izmanto tikai siltumenerģijas ražošanai vai tikai elektroenerģijas ražošanai;
+22⁵) koģenerācijas režīmā saražotā elektroenerģija - elektroenerģija, kas saražota procesā, kurš ir saistīts ar lietderīgās siltumenerģijas ražošanu, veicot aprēķinus saskaņā ar apstiprinātu metodiku;
 23) kurināmais - nafta un naftas produkti, arī sašķidrinātā naftas gāze, dabasgāze, arī sašķidrinātā dabasgāze un biometāns, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, tostarp bioloģiskais šķidrais kurināmais, kuru sadedzina enerģijas iegūšanai;
 24) kurināmā drošības rezerve - energoapgādes komersanta īpašumā esošs noteikts kurināmā krājums, kas ir nepieciešams, lai nodrošinātu enerģijas lietotāju nepārtrauktu apgādi ar attiecīgā veida enerģiju;
 25) licence - saskaņā ar likumu izsniegta speciāla atļauja, kas nosaka energoapgādes komersanta tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā;

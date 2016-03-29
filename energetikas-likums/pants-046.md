@@ -1,4 +1,6 @@
 46.pants
 (1) Siltumapgādi veic energoapgādes komersanti enerģijas lietotāju nodrošināšanai ar siltumenerģiju ēku un būvju apsildei, ventilācijai (vēdināšanai) un karstā ūdens sagatavošanai enerģijas lietotājiem optimālā veidā, ievērojot ekonomiskos, sociālos, vides aizsardzības un kultūras pieminekļu aizsardzības noteikumus. Kārtību, kādā energoapgādes komersanti piegādā un enerģijas lietotāji lieto siltumenerģiju, un gadījumus, kādos energoapgādes komersants var pārtraukt energoapgādes pakalpojumu sniegšanu atsevišķiem enerģijas lietotājiem, nosaka Ministru kabinets.
-(2) Siltumapgādi var nodrošināt, izmantojot centralizēto siltumapgādes sistēmu vai lokālo siltumapgādi, ko veic autonomais ražotājs.
-(3) Centralizētās siltumapgādes sistēma ir siltumavotu, siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju.
+(2) Siltumapgādi vai aukstumapgādi var nodrošināt, izmantojot centralizēto siltumapgādes vai aukstumapgādes sistēmu, individuālo siltumapgādes vai aukstumapgādes sistēmu vai lokālo siltumapgādi vai aukstumapgādi.
+(3) (Izslēgta ar 03.03.2016. likumu)
+(4) Autonomais siltumenerģijas ražotājs nav licencējams siltumapgādes pārvades un sadales komersants.
+(5) Koģenerācijas staciju saražotās primārās enerģijas ietaupījuma aprēķināšanas kārtību un noteikumus, kas paredz energoefektivitātes prasības licencēta vai reģistrēta energoapgādes komersanta valdījumā esošām centralizētām siltumapgādes sistēmām un to atbilstības pārbaudes kārtību, nosaka Ministru kabinets.
