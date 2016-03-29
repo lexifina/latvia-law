@@ -1,0 +1,2 @@
+27.² pants. Apcietināto psiholoģiskā aprūpe
+Ja apcietinātajam nepieciešama psiholoģiskā aprūpe, to nodrošina, veicot psiholoģisko izpēti, konsultējot vai sniedzot cita veida psiholoģisko palīdzību. Ja ir bijis apcietinātā pašnāvības mēģinājums, psiholoģisko palīdzību nodrošina nekavējoties, bet ne vēlāk kā nākamajā darbdienā pēc informācijas vai izmeklēšanas cietuma priekšnieka uzdevuma saņemšanas. Šādā gadījumā psihologs veic psiholoģisko izpēti.

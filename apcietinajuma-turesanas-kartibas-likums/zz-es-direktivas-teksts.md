@@ -1,0 +1,3 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/93/ES par seksuālas vardarbības pret bērniem, bērnu seksuālas izmantošanas un bērnu pornogrāfijas apkarošanu, un ar kuru aizstāj Padomes Pamatlēmumu 2004/68/TT;
+2) Eiropas Parlamenta un Padomes 2013.gada 22.oktobra direktīvas 2013/48/ES par tiesībām uz advokāta palīdzību kriminālprocesā un Eiropas apcietināšanas ordera procesā, par tiesībām uz to, ka pēc brīvības atņemšanas informē trešo personu, un par tiesībām, kamēr atņemta brīvība, sazināties ar trešām personām un konsulārajām iestādēm.

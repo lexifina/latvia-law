@@ -6,7 +6,7 @@
 4) veikt ne mazāk kā stundu ilgu (ja ir attiecīgs ārsta norādījums, - ne mazāk kā pusotru stundu ilgu) ikdienas pastaigu;
 5) sazināties ar personām ārpus izmeklēšanas cietuma sarakstoties, kā arī ne retāk kā reizi nedēļā izmantojot izmeklēšanas cietuma tālruni (taksofonu). Atļautais sarunas ilgums ir ne mazāks kā piecas minūtes. Izdevumus par saraksti sedz apcietinātais, bet par telefonsarunām - apcietinātais vai persona, ar kuru viņš sarunājas;
 6) uz vismaz stundu ilgu tikšanos ar radiniekiem vai citām personām ne retāk kā reizi mēnesī;
-7) tikties ar aizstāvi vienatnē bez ierobežojuma, ievērojot izmeklēšanas cietuma dienas kārtību;
+7) tikties ar aizstāvi, bet ārvalstniekiem - arī ar savas valsts diplomātiskās vai konsulārās pārstāvniecības pārstāvi vienatnē bez ierobežojuma, ievērojot izmeklēšanas cietuma dienas kārtību;
 8) abonēt preses izdevumus, kā arī izmantot izmeklēšanas cietuma bibliotēkas fondu;
 9) valkāt personisko veļu, apģērbu un apavus;
 10) izmantot personisko mazgabarīta sadzīves tehniku - televizoru (ekrāna izmērs līdz 50 cm pa diagonāli) un tam pievienojamās videospēles, kā arī ledusskapi, ūdens sildāmās ierīces, radiouztvērēju (bez balss ieraksta iespējām). Kopējais individuālajā lietošanā izmantojamās sadzīves tehnikas svars nedrīkst pārsniegt 30 kilogramus;
