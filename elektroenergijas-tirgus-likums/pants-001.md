@@ -17,7 +17,7 @@
 9) elektroenerģijas tirgotājs - komersants (ārvalstu komersanta filiāle), kura komercdarbība ir elektroenerģijas tirdzniecība;
 10) elektroenerģijas tirgus dalībnieki - elektroenerģijas ražotāji, tirgotāji un galalietotāji, kas darbojas elektroenerģijas tirgū saskaņā ar brīvprātīgas līdzdalības principu;
 11) galalietotājs - elektroenerģijas lietotājs, kurš pērk elektroenerģiju izlietošanai paša vajadzībām (galapatēriņam);
-12) koģenerācija - tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
+12) (izslēgts no 29.03.2016. ar 17.12.2014. likumu);
 13) mājsaimniecības lietotājs - galalietotājs, kurš pērk un izlieto elektroenerģiju savā mājsaimniecībā paša vajadzībām (galapatēriņam), izņemot komercdarbības vai cita veida profesionālās darbības vajadzības;
 13¹) netiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā pārvadīt elektroenerģiju no viena tirdzniecības apgabala uz citu apgabalu;
 14) obligātais iepirkums - šajā likumā un citos normatīvajos aktos noteikts pienākums iepirkt elektroenerģiju;
