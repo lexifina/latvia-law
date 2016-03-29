@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Energoefektivitātes likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52 (5624)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-15",
+  "entry_into_force": "2016-03-29",
+  "notification_date": "2016-03-15",
+  "commission_reference": "MNE(2016)51832",
+  "nim_celex": "72012L0027LVA_235693",
+  "nim_id": "235693",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eacd906a-252c-4d71-ac6e-4388c194a3b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
