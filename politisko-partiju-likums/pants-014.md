@@ -9,7 +9,7 @@
 6) biedru naudas un iestāšanās naudas maksāšanas kārtību;
 7) biedru tiesības un pienākumus;
 8) kārtību, kādā var veidot partijas teritoriālās un citas struktūrvienības, kā arī to tiesības un pienākumus;
-9) biedru sapulces sasaukšanas, lēmumu pieņemšanas un pārstāvības kārtību;
+9) biedru sapulces sasaukšanas, lēmumu pieņemšanas un pārstāvības kārtību, kā arī kārtību, kādā biedrs var pieprasīt jautājuma iekļaušanu partijas biedru sapulces darba kārtībā;
 10) valdes darbības termiņu un valdes skaitlisko sastāvu, nosakot valdes locekļu tiesības pārstāvēt partiju atsevišķi vai kopīgi, valdes priekšsēdētāja tiesības un pienākumus;
 11) saimnieciskās un finansiālās darbības revīzijas institūcijas uzbūvi, ievēlēšanas kārtību, kompetenci, lēmumu pieņemšanas kārtību un pilnvaru termiņu, kā arī zvērināta revidenta iecelšanas kārtību un pilnvaru termiņu;
 12) kārtību, kādā tiek izdarīti grozījumi partijas statūtos un programmā;
