@@ -1,0 +1,1 @@
+9. Šā likuma 10.panta astotajā daļā minētos energoefektivitātes uzlabošanas pasākumus ievieš līdz 2020.gada 1.aprīlim, bet 12.panta septītajā daļā minētos energoefektivitātes uzlabošanas pasākumus - līdz 2022.gada 1.aprīlim.

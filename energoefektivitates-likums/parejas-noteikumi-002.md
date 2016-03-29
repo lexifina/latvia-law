@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2016.gada 1.oktobrim izdod šā likuma 5.panta ceturtajā un piektajā daļā, 6.panta otrajā, piektajā, sestajā, septītajā un astotajā daļā, 7.panta sestajā daļā, 8.panta trešajā daļā, 9.panta piektajā daļā, 10.panta sestajā un septītajā daļā, 12.panta ceturtajā, sestajā un devītajā daļā, 13.panta trešajā daļā un 15.panta pirmajā daļā minētos noteikumus.

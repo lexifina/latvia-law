@@ -1,0 +1,1 @@
+12. Uzņēmumu energoauditors Ministru kabineta noteiktajā kārtībā līdz 2017.gada 31.janvārim iesniedz Ekonomikas ministrijai informāciju par to uzņēmumu energoauditu un lielo uzņēmumu energoauditu skaitu, kuri veikti līdz 2016.gada 31.decembrim.

@@ -1,0 +1,1 @@
+5. Iestādes un novadu pašvaldības, kuras šā likuma spēkā stāšanās dienā atbilst šā likuma 5.panta trešajā daļā minētajiem kritērijiem, nodrošina energopārvaldības sistēmas ieviešanu līdz 2017.gada 1.novembrim.

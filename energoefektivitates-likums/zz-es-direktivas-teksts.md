@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/27/ES par energoefektivitāti, ar ko groza direktīvas 2009/125/EK un 2010/30/ES un atceļ direktīvas 2004/8/EK un 2006/32/EK.

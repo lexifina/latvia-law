@@ -1,0 +1,1 @@
+10. Lielais elektroenerģijas patērētājs šā likuma 12.panta otrajā daļā minēto sistēmu ievieš, trešajā daļā minēto sistēmu papildina vai piektajā daļā minēto pirmo energoauditu veic līdz 2018.gada 1.aprīlim.
