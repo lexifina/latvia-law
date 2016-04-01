@@ -4,3 +4,4 @@
 (3) (Izslēgta ar 10.12.2009. likumu)
 (4) Bāriņtiesa ne retāk kā reizi gadā sniedz attiecīgās pašvaldības domei pārskata ziņojumu par savu darbību. Pārskata ziņojums ir publicējams pašvaldības mājaslapā.
 (5) Pašvaldības domei ir tiesības jebkurā laikā pieprasīt no bāriņtiesas pārskatu par tās darbību.
+(6) Pašvaldībai ir pienākums nodrošināt mērķtiecīgi organizētu konsultatīvu, izglītojošu un psiholoģisku atbalstu bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam un bāriņtiesas locekļiem, lai pilnveidotu viņu profesionālo kompetenci un profesionālās darbības kvalitāti.
