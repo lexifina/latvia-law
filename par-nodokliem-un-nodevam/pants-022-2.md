@@ -1,0 +1,33 @@
+22.² pants. Kredītiestādes un maksājumu pakalpojumu sniedzēja rīcībā esošās informācijas par aizdomīgiem darījumiem sniegšana Valsts ieņēmumu dienestam
+(1) Kredītiestāde un maksājumu pakalpojumu sniedzējs, kas noteikts Maksājumu pakalpojumu un elektroniskās naudas likuma 2.panta otrās daļas 2., 3., 4., 7. un 8.punktā (turpmāk šajā pantā - maksājumu pakalpojumu sniedzējs), konstatējot aizdomīgu darījumu Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē, ziņo arī Valsts ieņēmumu dienestam par tādiem personu, kuru rezidences (reģistrācijas) valsts ir Latvijas Republika, aizdomīgiem darījumiem, kas atbilst šā panta trešajā daļā noteiktajām aizdomīguma pazīmēm nodokļu jomā. Ministru kabinets nosaka aizdomīguma pazīmju nodokļu jomā kodus.
+(2) Ziņojumu sniedz Valsts ieņēmumu dienestam, lai atklātu un novērstu likumpārkāpumus, kuru rezultātā samazināts budžetā iemaksājamā nodokļa apmērs vai palielināts no budžeta atmaksājamā nodokļa apmērs un par kuriem atbildība paredzēta šajā likumā vai konkrēto nodokļu likumos, kā arī noziedzīgus nodarījumus par izvairīšanos no nodokļu un tiem pielīdzināto maksājumu nomaksas un par krāpšanu.
+(3) Darījuma aizdomīguma pazīmes nodokļu jomā ir šādas:
+1) privātpersona deklarē ienākumus, ieņēmumus, uzkrājumus, īpašumus vai to vērtības maiņas ar aizdomīgu izcelsmi;
+2) šim klientam neraksturīgi liels darījuma apjoms;
+3) ienākošie darījumi veido daudzas mazas summas, bet izejošie ir par lielām summām;
+4) nekustamā īpašuma iegāde par acīmredzamu neatbilstošu cenu;
+5) darījumam nav acīmredzama likumīga nolūka (vai saistības ar personisko vai biznesa darbību);
+6) darījumā izmantots viltots dokuments;
+7) aizdomīgs darījums ar elektronisko naudu;
+8) nauda tiek debetēta no konta tūlīt pēc tā kreditēšanas;
+9) privātpersona vienā vai vairākos darījumos skaidrā naudā iegulda komercsabiedrībā, izmaksā, aizdod vai aizņemas no citas privātpersonas 60 000 euro vai vairāk;
+10) izvairīšanās no nodokļu nomaksas;
+11) uzkrītošas izmaiņas konta bilancē (palielināta apgrozība u.c.);
+12) klientam ir pārmērīgi liels kontu skaits;
+13) konta apgrozījums pārsvarā sastāv no skaidras naudas operācijām;
+14) konts ir tālu no klienta rezidences;
+15) klients darbojas kā aizsegs citas personas darījumam;
+16) darījums ir klientam netipisks;
+17) klients veic sarežģītus vai neparastus darījumus (kuriem pašiem vai atsevišķiem to noteikumiem nav skaidri saprotama ekonomiskā vai juridiskā mērķa);
+18) neskaidra darījumā izmantoto līdzekļu izcelsme.
+(4) Aizdomīgus darījumus konstatē saskaņā ar Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktajā kārtībā izveidoto iekšējās kontroles sistēmu.
+(5) Ziņojumā, ievērojot Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteikto, ietver šādu informāciju:
+1) personas identifikācijas datus (fiziskajai personai - vārds, uzvārds, personas kods, juridiskajai personai - nosaukums un reģistrācijas numurs, kā arī citi Ministru kabineta noteikumos paredzētie identifikācijas dati);
+2) aizdomīga darījuma (plānotā, pieteiktā, konsultētā, uzsāktā, atliktā vai veiktā) aprakstu, kā arī darījumā iesaistītās personas identifikācijas datus un darījuma summu, darījuma veikšanas vai pieteikšanas laiku, vietu un darījumu apliecinošu dokumentu kopijas, ja šādi dokumenti ir kredītiestādes vai maksājumu pakalpojuma sniedzēja rīcībā;
+3) pamatojumu, kāpēc kredītiestāde vai maksājumu pakalpojumu sniedzējs uzskata darījumu par aizdomīgu.
+(6) Ministru kabinets nosaka kārtību, kādā Valsts ieņēmumu dienestam sniedzami šā panta pirmajā daļā noteiktie ziņojumi par aizdomīgiem darījumiem, un apstiprina ziņojuma veidlapu.
+(7) Informāciju par aizdomīgiem darījumiem Valsts ieņēmumu dienests glabā piecus gadus.
+(8) Kredītiestādei un maksājumu pakalpojumu sniedzējam nav atļauts informēt personu (klientu), patieso labuma guvēju, kā arī citas personas, izņemot uzraudzības un kontroles institūcijas, par to, ka ir sniegtas ziņas par personu (klientu) vai tās darījumu (darījumiem) šajā pantā noteiktajā kārtībā.
+(9) Valsts ieņēmumu dienests veic nepieciešamos administratīvos, tehniskos un organizatoriskos pasākumus un nodrošina šajā pantā noteiktajā kārtībā saņemtās informācijas aizsardzību, lai novērstu neatļautu piekļūšanu šai informācijai, kā arī novērstu neatļautu tās grozīšanu, izplatīšanu vai iznīcināšanu.
+(10) Valsts ieņēmumu dienestam, tā amatpersonām un darbiniekiem nav tiesību informēt personas, par kurām ir sniegts ziņojums, un citas personas par to, ka Valsts ieņēmumu dienestam ir sniegts šā panta pirmajā daļā noteiktais ziņojums.
+(11) Kredītiestādei un maksājumu pakalpojumu sniedzējam, pildot šā panta prasības, piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma subjektiem paredzētos tiesiskās aizsardzības mehānismus, to skaitā atbrīvošanu no atbildības.
