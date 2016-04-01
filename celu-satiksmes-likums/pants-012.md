@@ -5,8 +5,8 @@
 2) mantojuma apliecība, tiesas spriedums par mantošanu, mantojuma, laulāto kopmantas vai kopīpašuma sadali, īpašuma tiesību atzīšanu, iegūšanu ar ieilgumu vai uz citiem Civillikumā paredzētiem īpašuma tiesību iegūšanas pamatiem;
 3) (izslēgts ar 10.12.2015. likumu);
 4) dokuments par iepriekš nereģistrēta vai ārvalstīs reģistrēta transportlīdzekļa iegādi ārvalstīs;
-5) akts par atsavinātājam - juridiskajai personai Latvijā reģistrēta transportlīdzekļa nodošanu īpašumā ieguvējam;
-6) akts par apdrošinājuma ņēmējam - juridiskajai vai fiziskajai personai - piederoša transportlīdzekļa nodošanu īpašumā Apdrošināšanas sabiedrību un to uzraudzības likumā noteiktajam apdrošinātājam sakarā ar apdrošināšanas gadījuma iestāšanos;
+5) (izslēgts no 01.04.2016. ar 10.12.2015. likumu);
+6) (izslēgts no 01.04.2016. ar 10.12.2015. likumu);
 7) dokuments par loterijā vai citā ceļā legāli laimētu transportlīdzekli;
 8) dokuments par Latvijā izgatavota vai pārbūvēta transportlīdzekļa leģitimāciju;
 9) arhīva izziņa un citi īpašuma tiesības apliecinoši dokumenti.
