@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 174 \n\nRīgā 2016. gada 22. martā\n\nNoteikumi par sabiedrisko ūdenssaimniecības pakalpojumu sniegšanu un lietošanu",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/62.1",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-31",
+  "entry_into_force": "2016-04-01",
+  "notification_date": "2017-06-08",
+  "commission_reference": "MNE(2017)53010",
+  "nim_celex": "71991L0271LVA_248120",
+  "nim_id": "248120",
+  "transposes_celex": [
+    "31991L0271"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01c8ffb6-6371-4784-92fb-9ace49f310b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
