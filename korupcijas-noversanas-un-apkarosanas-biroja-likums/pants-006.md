@@ -1,29 +1,24 @@
-6.pants. Biroja darbinieki, viņu pieņemšana darbā un atlaišana no darba
-(1) Biroja darbinieku darba tiesiskajās attiecībās piemērojamas darba tiesiskās attiecības regulējošo normatīvo aktu normas, ciktāl šis likums nenosaka citādi.
-(2) Par Biroja darbinieku var būt persona, kura atbilst šādām obligātajām prasībām:
-1) ir Latvijas pilsonis;
-2) pārvalda latviešu valodu;
-3) ieguvusi vismaz vidējo izglītību un uzkrājusi amatam atbilstošu darba pieredzi;
-4) nav sasniegusi likumā noteikto pensijas vecumu;
-5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
-6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
-7) nav saukta pie kriminālatbildības, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet kriminālprocess pret to izbeigts uz reabilitējoša pamata;
-8) nav un nav bijusi PSRS Aizsardzības ministrijas, PSRS vai Latvijas PSR Valsts drošības komitejas vai to valstu, kuras nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalstis, valsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
-9) nav un nav bijusi ar likumu vai tiesas nolēmumu aizliegtas organizācijas dalībnieks;
-10) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
-(3) Biroja centrālā aparāta darbiniekus pieņem darbā un atlaiž no darba Biroja priekšnieks.
-(4) Biroja teritoriālo nodaļu darbiniekus pēc attiecīgās teritoriālās nodaļas vadītāja ieteikuma pieņem darbā un atlaiž no darba Biroja priekšnieks.
-(5) Biroja darbinieku no amata atbrīvo šādos gadījumos:
+6.pants. Biroja amatpersonas iecelšana amatā un atbrīvošana no amata
+(1) Biroja amatpersonu ieceļ amatā un atbrīvo no amata Biroja priekšnieks.
+(2) Biroja amatpersonu ieceļ amatā uz nenoteiktu laiku. Biroja amatpersonu var iecelt amatā arī uz noteiktu laiku, norādot dienesta apstākļus, kas to nosaka.
+(3) Ieceļot personu Biroja amatpersonas amatā, Biroja priekšnieks var noteikt pārbaudes laiku, kas nepārsniedz sešus mēnešus.
+(4) Biroja amatpersonas (izņemot Biroja priekšnieku) dienesta attiecības Birojā izbeidzas:
+1) ja amatpersona ar Biroja priekšnieka lēmumu tiek atbrīvota no amata;
+2) ja iestājusies amatpersonas nāve;
+3) pamatojoties uz Biroja priekšnieka un amatpersonas rakstveida vienošanos.
+(5) Biroja amatpersonu ar Biroja priekšnieka lēmumu atbrīvo no amata:
 1) pēc paša vēlēšanās;
-2) sakarā ar pārbaudes neizturēšanu;
-3) sakarā ar darba līguma termiņa izbeigšanos;
-4) persona ir ievēlēta vai iecelta citā amatā;
-5) persona ir iesaistījusies politiskā organizācijā (partijā) vai politisko organizāciju (partiju) apvienībā;
-6) sasniedzot likumā noteikto pensijas vecumu, izņemot gadījumus, kad par attiecīgā Biroja darbinieka atstāšanu amatā ir Biroja priekšnieka pamatots rīkojums;
-7) sakarā ar Biroja vai amata likvidāciju vai Biroja darbinieku skaita samazināšanu;
-8) sakarā ar to, ka persona pārejošas darbnespējas dēļ nav pildījusi amata pienākumus ilgāk par četriem mēnešiem pēc kārtas;
-9) sakarā ar notiesājoša sprieduma stāšanos spēkā;
-10) piemērojot atbrīvošanu kā disciplinārsodu;
-11) sakarā ar iesaukšanu obligātajā militārajā dienestā;
-12) par neatbilstību ieņemamam amatam;
-13) sakarā ar personas nāvi.
+2) sakarā ar termiņa izbeigšanos;
+3) sakarā ar pārbaudes neizturēšanu;
+4) sakarā ar neatbilstību ieņemamam amatam;
+5) sakarā ar to, ka darba izpildes vērtējuma rezultāti ir neapmierinoši;
+6) sakarā ar neatbilstību šajā likumā noteiktajām obligātajām prasībām (šā likuma 5.panta piektā un astotā daļa);
+7) sasniedzot likumā "Par valsts pensijām" vecuma pensijas piešķiršanai noteikto vecumu, izņemot gadījumus, kad par attiecīgās amatpersonas atstāšanu amatā uz noteiktu laiku ir pieņemts pamatots lēmums;
+8) sakarā ar amata likvidēšanu vai amatpersonu skaita samazināšanu;
+9) sakarā ar to, ka amatpersona pārejošas darbnespējas dēļ nav pildījusi amata pienākumus ilgāk par četriem mēnešiem pēc kārtas vai sešus mēnešus viena gada laikā;
+10) atbrīvošanu no amatpersonas amata piemērojot kā disciplinārsodu;
+11) sakarā ar ievēlēšanu vai iecelšanu citā amatā, ja normatīvie akti aizliedz amatpersonas amata savienošanu ar attiecīgo amatu;
+12) sakarā ar nereabilitējošu notiesājošu tiesas spriedumu vai prokurora priekšrakstu par sodu krimināllietā;
+13) sakarā ar to, ka amatpersona nespēj veikt amata pienākumus veselības stāvokļa dēļ, un to apliecina ārsta atzinums.
+(6) Biroja priekšnieka lēmumu par Biroja amatpersonas atbrīvošanu no amata attiecīgā amatpersona var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(7) Biroja amatpersonas dienesta attiecību izbeigšanai, arī tās atbrīvošanai no dienesta nav nepieciešama arodbiedrības piekrišana.
