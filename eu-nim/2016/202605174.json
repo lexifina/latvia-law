@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2016. gada 10. marta likums \"Grozījumi Ēku energoefektivitātes likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "57",
+  "official_journal_page": null,
+  "official_journal_date": "2016-03-22",
+  "entry_into_force": "2016-04-05",
+  "notification_date": "2026-07-07",
+  "commission_reference": "MNE(2026)05174",
+  "nim_celex": "72023L1791LVA_202605174",
+  "nim_id": "202605174",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56be4937-4d6b-4dad-a05e-e35087a14ccd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
