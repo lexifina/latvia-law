@@ -6,7 +6,7 @@
 3) pieņem glabāšanā un saglabā Latvijas Nacionālajā arhīvā uzkrātos dokumentus ar arhīvisko vērtību, veido nodrošinājuma kopiju un izmantošanas kopiju fondu;
 4) nodrošina arhīva dokumentu pieejamību un izmantošanu, popularizēšanu un sabiedrības informēšanu, izsniedz arhīva izziņas, apliecinātas dokumentu kopijas, izrakstus un norakstus;
 5) izvērtē dokumentus šajā likumā noteiktajā kārtībā;
-6) uzrauga dokumentu pārvaldības kārtības ievērošanu institūcijās un - šajā likumā noteiktajos gadījumos - akreditētos privātos arhīvos, sniedzot metodisko palīdzību dokumentu un arhīvu pārvaldības jomā;
+6) uzrauga dokumentu un arhīvu pārvaldības kārtības ievērošanu institūcijās un - šajā likumā noteiktajos gadījumos - akreditētos privātos arhīvos, sniedzot metodisko palīdzību dokumentu un arhīvu pārvaldības jomā;
 7) veic pārbaudes institūcijās dokumentu un arhīvu pārvaldības jomā un - šajā likumā noteiktajos gadījumos - akreditētos privātos arhīvos dokumentu pārvaldības un nacionālā dokumentārā mantojuma saglabāšanas, pieejamības un izmantošanas jautājumos, izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus;
 8) akreditē privātus arhīvus;
 9) veic pētījumus un metodisko darbu dokumentu un arhīvu pārvaldības jomā;
