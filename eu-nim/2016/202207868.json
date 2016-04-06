@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 15. marta noteikumi Nr. 160 \"Darbības programmas \"Izaugsme un nodarbinātība\" 4.2.1. specifiskā atbalsta mērķa \"Veicināt energoefektivitātes paaugstināšanu valsts un dzīvojamās ēkās\" 4.2.1.1. specifiskā atbalsta mērķa pasākuma \"Veicināt energoefektivitātes paaugstināšanu dzīvojamās ēkās\" un 13.1.1. specifiskā atbalsta mērķa \"Atveseļošanas pasākumi ekonomikas nozarē\" 13.1.1.2. specifiskā atbalsta mērķa pasākuma \"Atbalsts daudzdzīvokļu māju siltināšanai\" īstenošanas noteikumi\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/65.1",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-05",
+  "entry_into_force": "2016-04-06",
+  "notification_date": "2022-12-19",
+  "commission_reference": "MNE(2022)07868",
+  "nim_celex": "72018L0844LVA_202207868",
+  "nim_id": "202207868",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1b4330b2-948e-4c6e-b246-6f9f887d40db",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
