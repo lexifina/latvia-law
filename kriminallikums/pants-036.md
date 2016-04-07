@@ -15,5 +15,5 @@
 5) (izslēgts ar 08.07.2011. likumu);
 5¹) probācijas uzraudzība;
 6) (izslēgts ar 13.12.2012. likumu).
-(3) Personai, kura izdarījusi kriminālpārkāpumu vai mazāk smagu noziegumu, prokurors, sastādot priekšrakstu par sodu, var noteikt naudas sodu vai piespiedu darbu, kā arī papildsodus - tiesību ierobežošanu vai probācijas uzraudzību.
+(3) Personai, kura izdarījusi kriminālpārkāpumu, mazāk smagu noziegumu vai smagu noziegumu, par kuru paredzēts brīvības atņemšanas sods līdz pieciem gadiem, prokurors, sastādot priekšrakstu par sodu, var noteikt naudas sodu vai piespiedu darbu, kā arī papildsodus - tiesību ierobežošanu vai probācijas uzraudzību.
 (4) Sodu izciešanas kārtību nosaka saskaņā ar likumu.

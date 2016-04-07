@@ -1,0 +1,1 @@
+14.¹ Nosakot sodu par vairākiem noziedzīgiem nodarījumiem saskaņā ar Krimināllikuma 50.pantu vai pēc vairākiem spriedumiem saskaņā ar Krimināllikuma 51.pantu un konstatējot, ka personai ir noteikta gan policijas kontrole, gan probācijas uzraudzība, policijas kontroli ietver probācijas uzraudzībā neatkarīgi no policijas kontrolei noteiktā termiņa.
