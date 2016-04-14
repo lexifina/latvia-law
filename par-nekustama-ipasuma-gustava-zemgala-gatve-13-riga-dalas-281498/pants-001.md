@@ -1,0 +1,2 @@
+1.pants. (1) Atsavināt sabiedrības vajadzībām - Austrumu maģistrāles posma no Ieriķu ielas līdz Vietalvas ielai izbūves nodrošināšanai - nekustamā īpašuma Gustava Zemgala gatvē 13, Rīgā (kadastra Nr.0100 070 2018, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.4763), sastāvā ietilpstošā zemes gabala (kadastra apzīmējums 0100 070 2018) daļu 307 m² platībā.
+(2) Šā panta pirmajā daļā minētā zemes gabala atsavināmās daļas robežas attēlotas šā likuma 1.pielikumā, un atsavināmās daļas robežu apraksts dots šā likuma 2.pielikumā.
