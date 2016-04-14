@@ -1,0 +1,1 @@
+3.pants. Rīgas pilsētas pašvaldība šā likuma 1.panta pirmajā daļā minēto nekustamā īpašuma sastāvā esošo zemes gabala daļu normatīvajos aktos noteiktajā kārtībā ieraksta zemesgrāmatā uz Rīgas pilsētas pašvaldības vārda.

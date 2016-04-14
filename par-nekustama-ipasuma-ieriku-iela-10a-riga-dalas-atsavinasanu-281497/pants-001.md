@@ -1,0 +1,2 @@
+1.pants. (1) Atsavināt sabiedrības vajadzībām - Austrumu maģistrāles posma no Ieriķu ielas līdz Vietalvas ielai izbūves nodrošināšanai - nekustamā īpašuma Ieriķu ielā 10A, Rīgā (kadastra Nr.0100 070 2019, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.4762), sastāvā ietilpstošā zemes gabala (kadastra apzīmējums 0100 070 2019) daļu 96 m² platībā.
+(2) Šā panta pirmajā daļā minētā zemes gabala atsavināmās daļas robežas attēlotas šā likuma 1.pielikumā, un atsavināmās daļas robežu apraksts dots šā likuma 2.pielikumā.
