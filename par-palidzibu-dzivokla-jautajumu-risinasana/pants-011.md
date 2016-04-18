@@ -1,3 +1,4 @@
 11.pants. Dzīvojamo telpu izīrēšanas kārtība
 (1) Pašvaldība ir tiesīga izīrēt tai piederošu vai tās nomātu dzīvojamo telpu vienīgi šajā likumā noteiktajām personām un ievērojot šā likuma, likuma "Par sociālajiem dzīvokļiem un sociālajām mājām", likuma "Par dzīvojamo telpu īri" noteikumus.
 (2) Likumā "Par valsts un pašvaldību dzīvojamo māju privatizāciju" noteiktajā kārtībā no valsts pārņemto neizīrēto dzīvokli pašvaldība vispirms piedāvā īrēt personām, kuras atbrīvo dzīvojamo telpu, kas atrodas denacionalizētā vai likumīgajam īpašniekam atdotā mājā, un ir lietojušas dzīvojamo telpu līdz īpašuma tiesību atjaunošanai.
+(3) Pašvaldības dome ar atsevišķu lēmumu ir tiesīga pašvaldībai piederošai vai tās nomātai neizīrētai dzīvojamai telpai noteikt speciālistam izīrējamas dzīvojamās telpas statusu. Dzīvojamā telpa, kurai noteikts speciālistam izīrējamas dzīvojamās telpas statuss, tiek izīrēta, ievērojot šā likuma III¹ nodaļas noteikumus.

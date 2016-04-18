@@ -5,7 +5,7 @@ a) maznodrošinātas personas, kuras sasniegušas pensijas vecumu vai ir persona
 b) maznodrošinātas personas, ar kurām kopā dzīvo un kuru apgādībā ir vismaz viens nepilngadīgs bērns, aizgādnībā esoša persona, maznodrošināta pensijas vecumu sasniegusi persona vai maznodrošināta persona, kura ir persona ar invaliditāti,
 c) pašvaldības teritorijā dzīvojošas citas personas, kuras pieder pie tās pašvaldības domes noteiktās personu kategorijas, kurām pašvaldība sniedz palīdzību, ja tās tiek izliktas no īrētās dzīvojamās telpas;
 1¹) politiski represētās personas, kuras tiek izliktas no dzīvojamās telpas likuma "Par dzīvojamo telpu īri" 28.² panta pirmajā daļā, 28.³ panta pirmajā daļā vai 28.⁴ panta otrajā daļā paredzētajā gadījumā, ja to lietošanā nav citas dzīvošanai derīgas dzīvojamās telpas;
-2) personas, kuras tiek izliktas no tām piederoša dzīvokļa, ja uz dzīvokļa īpašumu ir vērsta piedziņa sakarā ar maksājumiem par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu, mājas uzturēšanu, ekspluatāciju un remonta izdevumiem un ja tās ir:
+2) personas, kuras tiek izliktas no tām piederoša dzīvokļa, ja uz dzīvokļa īpašumu ir vērsta piedziņa sakarā ar maksājumiem par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu, mājas uzturēšanu, ekspluatāciju un remonta izdevumiem, un ja tās ir:
 a) maznodrošinātas personas, kuras sasniegušas pensijas vecumu vai ir personas ar invaliditāti,
 b) maznodrošinātas personas, ar kurām kopā dzīvo un kuru apgādībā ir vismaz viens nepilngadīgs bērns, aizgādnībā esoša persona, maznodrošināta pensijas vecumu sasniegusi persona vai maznodrošināta persona, kura ir persona ar invaliditāti,
 c) politiski represētās personas, ja to lietošanā nav citas dzīvošanai derīgas dzīvojamās telpas;
