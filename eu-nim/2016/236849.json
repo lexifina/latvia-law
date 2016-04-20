@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 5. aprīļa noteikumi Nr.206 \"Liftu un to drošības sastāvdaļu projektēšanas, ražošanas un liftu uzstādīšanas un atbilstības novērtēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "72 (5644)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-14",
+  "entry_into_force": "2016-04-20",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52626",
+  "nim_celex": "72014L0033LVA_236849",
+  "nim_id": "236849",
+  "transposes_celex": [
+    "32014L0033"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76777ce6-f30d-472a-a461-5c4379d06005",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
