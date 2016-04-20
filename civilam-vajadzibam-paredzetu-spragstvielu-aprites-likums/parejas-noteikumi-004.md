@@ -1,0 +1,1 @@
+4. Sprāgstvielas un spridzināšanas ietaises, kuras laistas tirgū līdz 2016.gada 19.aprīlim, drīkst piedāvāt tirgū, ja tās atbilst sprāgstvielas un spridzināšanas ietaises tirgū laišanas brīdī spēkā esošo normatīvo aktu prasībām, kas regulē sprāgstvielu un spridzināšanas ietaišu apriti.

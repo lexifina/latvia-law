@@ -1,2 +1,0 @@
-7.pants. Sprāgstvielu un spridzināšanas ietaišu marķēšana
-Visas sprāgstvielas un spridzināšanas ietaises, kas tiek izgatavotas vai ievestas Latvijā un izvestas no Latvijas, tiek marķētas ar Eiropas atbilstības zīmi CE, kā arī papildus marķētas ar īpašu marķējumu, izņemot sprāgstvielas, ko pārvadā un piegādā neiesaiņotā veidā transportlīdzeklī, no kura tās izsūknē un iepilda tieši spridzināšanas atverē.

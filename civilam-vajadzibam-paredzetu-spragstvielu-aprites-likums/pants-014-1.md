@@ -1,0 +1,3 @@
+14.¹ pants. Sprāgstvielu un spridzināšanas ietaišu piedāvāšana tirgū
+(1) Sprāgstvielas un spridzināšanas ietaises laiž tirgū tikai tad, ja tās atbilst drošuma pamatprasībām, ir glabātas un marķētas atbilstoši sprāgstvielām un spridzināšanas ietaisēm normatīvajos aktos noteiktajām prasībām, tām ir pievienotas lietošanas instrukcijas un drošuma informācija valsts valodā, ir pieejama atbilstoša tehniskā dokumentācija un sagatavota Eiropas Savienības atbilstības deklarācija, kā arī veikta atbilstības novērtēšana un tas ir apliecināts ar Eiropas atbilstības zīmes CE marķējumu un ja, izmantojot paredzētajam mērķim, tās neapdraud cilvēku veselību un drošību.
+(2) Sprāgstvielas un spridzināšanas ietaises piedāvā tirgū tikai tad, ja tiek ievērotas šā likuma prasības.
