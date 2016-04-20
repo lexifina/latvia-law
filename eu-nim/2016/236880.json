@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 19.aprīļa noteikumi Nr.231\"Sprādzienbīstamā vidē lietojamo iekārtu un aizsargsistēmu noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/76.2",
+  "official_journal_page": null,
+  "official_journal_date": "2016-04-20",
+  "entry_into_force": "2016-04-20",
+  "notification_date": "2016-04-21",
+  "commission_reference": "MNE(2016)52656",
+  "nim_celex": "72014L0034LVA_236880",
+  "nim_id": "236880",
+  "transposes_celex": [
+    "32014L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/035020a9-b5ae-484d-ab63-deb37a28bb54",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
