@@ -12,7 +12,7 @@
 2) kodolmateriāliem, kodoltehnoloģijām un jonizējošā starojuma avotiem - Valsts vides dienesta Radiācijas drošības centra norīkoti eksperti;
 3) ķīmiskajām vielām - Valsts vides dienesta norīkoti eksperti;
 4) bioloģiskiem aģentiem un iekārtām - Labklājības ministrijas norīkoti eksperti;
-5) sevišķā veidā veicamiem operatīvās darbības pasākumiem, speciāli radītām vai pielāgotām iekārtām, ierīcēm un instrumentiem - Drošības policijas norīkoti eksperti.
+5) sevišķā veidā veicamiem operatīvās darbības pasākumiem speciāli radītām vai pielāgotām iekārtām, ierīcēm vai instrumentiem un to komponentiem un programmatūrai - Drošības policijas norīkoti eksperti.
 (5) Ja nepieciešams, komiteja ir tiesīga preču identifikācijai pieaicināt par ekspertiem citus Latvijas un ārvalstu konkrētās nozares speciālistus.
 (6) Komiteja pieņem lēmumus, pamatojoties uz komitejas pieaicināto ekspertu atzinumiem.
 (7) Stratēģiskas nozīmes preču ekspertīzes izmaksas sedz stratēģiskas nozīmes preču subjekts.
