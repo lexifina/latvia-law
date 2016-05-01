@@ -54,6 +54,10 @@ safrols
 (izslēgts ar 19.11.2009. likumu)
 15)
 (izslēgts ar 19.11.2009. likumu)
+16)
+alfa-fenilacetoacetonitrils
+10 g
+100 g
 15. Otrās kategorijas prekursori:
 1)
 antranilskābe

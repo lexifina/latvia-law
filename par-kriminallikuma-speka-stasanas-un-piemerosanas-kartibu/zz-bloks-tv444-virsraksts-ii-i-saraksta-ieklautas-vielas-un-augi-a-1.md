@@ -127,7 +127,7 @@ Metil 1-feniletil-4-(N-fenilpropānamīd) piperidīn-4-karboksilāts
 1 g
 12)Acetilfentanils3258-84-2N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds0,001 g1 g
 13)B-F1443-52-3N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
-14)5F-BF, 5-fluoro-butiril-fentanils N-(5-fluorfenil)-N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
+14)5F-BF, 5-fluoro-butiril-fentanilsN-(5-fluorfenil)-N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
 7. Augu valsts produkti ar narkotisku iedarbību, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Produkta nosaukums
@@ -417,12 +417,11 @@ e) papildus neaizvietojot vai aizvietojot vienu vai vairākus etilēngrupas ūde
 0,003 g1 g
 6)Katinoni
 a)2-amino-1-fenilpropan-1-ons un jebkurš savienojums, kas atvasināts no 2-amino-1-fenilpropan-1-ona:
-a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
-b) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus propanona stāvoklī 3 ar neaizvietotu vai aizvietotu alkilgrupu;
+a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai alkoksigrupu vai iekļaujot slāpekļa atomu ciklā;
+b) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus propanona stāvoklī 3 ar neaizvietotu vai aizvietotu alkilgrupu vai alkoksigrupu, vai aminogrupu;
 c) nomainot "a" vai "b" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola atšķirīgu struktūru, kas var būt aizvietota;
 d) aizvietojot ūdeņraža atomus benzola gredzenā jebkurā "a" vai "b" apakšpunktā minētajā savienojumā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklu;
-e) jebkura iepriekš minētā savienojuma karbonilgrupas vai aminogrupas, vai abu atvasinājumi
-0,02 g3 g
+e) jebkura iepriekš minētā savienojuma karbonilgrupas vai aminogrupas, vai abu atvasinājumi0,02 g3 g
 b)pašizgatavots preparāts no efedrīna, kas satur efedronu1 ml50 ml
 7)Piperazīni
 Jebkurš savienojums, kas atvasināts no piperazīna:
@@ -464,14 +463,13 @@ a) neaizvietojot vai aizvietojot ūdeņraža atomu pie pirola slāpekļa atoma;
 b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus pirola ciklā;
 c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus naftoilgrupā
 0,003 g1 g
-15)Indola un indazola-3-karbonilatvasinājumi
-Indola-3-karbonilatvasinājumi un indazola 3-karbonilatvasinājumi, kas aizvietoti pie indola vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+15)Indola, azaindolu un indazola-3-karbonilatvasinājumi
+Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-karbonilatvasinājumi, kas aizvietoti pie indola, azaindolu vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
 • neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
 • neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
 • neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
-• aizvietotu aminogrupu,
-un indola cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklisku struktūru
-0,003 g1 g
+• aizvietotu aminogrupu
+un indola vai azaindolu cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola, azaindolu vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu0,003 g1 g
 16)Benzimidazoli
 Jebkurš savienojums, kas atvasināts no benzimidazola:
 a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
@@ -493,6 +491,26 @@ un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
 • aizvietotu aminogrupu,
 un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karbazola ciklā
 0,003 g1 g
+19)
+Pirazola-3-karbonilatvasinājumi
+Pirazola-3-karbonilatvasinājumi, kas stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
+• aizvietotu aminogrupu
+un pirazola cikla stāvokļos 1 un 4 (vienā vai abos) neaizvietoti vai aizvietoti ar neaizvietotām vai aizvietotām alkilgrupām vai arilgrupām un stāvoklī 5 aizvietoti ar neaizvietotu vai aizvietotu arilgrupu
+0,003 g
+1 g
+20)
+Pirazola-5-karbonilatvasinājumi
+Pirazola-5-karbonilatvasinājumi, kas stāvoklī 5 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
+• aizvietotu aminogrupu
+un pirazola cikla stāvokļos 1 un 4 (vienā vai abos) neaizvietoti vai aizvietoti ar neaizvietotām vai aizvietotām alkilgrupām vai arilgrupām un stāvoklī 3 aizvietoti ar neaizvietotu vai aizvietotu arilgrupu
+0,003 g
+1 g
 8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8.3.punkta 6.apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
 Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)izžāvēts (augu maisījums)1 g100 g

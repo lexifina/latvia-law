@@ -481,3 +481,32 @@ heksobarbitāls
 10 g
 12.¹ Narkotiskā viela, kuras nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
 tapentadols0,1 g10 g
+12.² Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma III nodaļā minētās vielas jebkurā daudzumā
+Nr.
+Maisījuma veids
+Apmērs, līdz kuram daudzumi atzīstami par nelieliem
+Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
+1)
+izžāvēts (augu maisījums)
+1 g
+100 g
+2)
+nežāvēts (augu maisījums)
+5 g
+1 kg
+3)
+sapresēta masa
+0,1 g
+50 g
+4)
+šķidrums
+1 ml
+50 ml
+5)
+vielu maisījums, kas satur II sarakstā minēto vielu jebkurā daudzumā, kas nav nodalāms no vielu maisījuma kopējā daudzuma
+30 g
+100 g
+6)
+piesūcināts papīrs (marka)
+3 gab.
+10 gab.
