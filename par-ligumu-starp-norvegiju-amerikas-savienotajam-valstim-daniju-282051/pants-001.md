@@ -1,0 +1,1 @@
+1.pants. 1920.gada 9.februāra Līgums starp Norvēģiju, Amerikas Savienotajām Valstīm, Dāniju, Franciju, Itāliju, Japānu, Nīderlandi, Lielbritāniju un Īriju, un Lielbritānijas aizjūras domīnijām, un Zviedriju saistībā ar Špicbergenu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
