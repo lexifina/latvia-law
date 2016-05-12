@@ -1,5 +1,6 @@
 5.pants. Publiska pasākuma pieteikšana
 (1) Lai pieteiktu publisku pasākumu un saņemtu atļauju tā rīkošanai, pasākuma organizators pašvaldībai, kuras administratīvajā teritorijā paredzēts šo pasākumu rīkot, ne vēlāk kā 15 dienas pirms plānotā publiskā pasākuma norises sākuma iesniedz iesniegumu atbilstoši šā likuma 6.panta prasībām. Ja publiska pasākuma norises vieta atrodas vairāku pašvaldību administratīvajā teritorijā, iesniegumu iesniedz visām attiecīgajām pašvaldībām. Pasākuma organizators nosūta iesnieguma kopiju attiecīgajai Valsts policijas iestādei, bet, ja publisku pasākumu paredzēts rīkot pierobežas joslā, - arī attiecīgajai Valsts robežsardzes pārvaldei.
 (2) Atļauja publisku pasākumu rīkošanai nav nepieciešama, ja tos rīko valsts vai pašvaldības iestāde, kā arī publisku pasākumu rīkošanai telpās un publisku sporta pasākumu rīkošanai sporta bāzēs.
-(3) Ja publisku pasākumu rīko valsts iestāde, tā informē pašvaldību, kuras administratīvajā teritorijā paredzēts šo pasākumu rīkot, par tā norises vietu un laiku.
+(3) Ja publisku pasākumu rīko valsts iestāde vai pašvaldības iestāde citas pašvaldības administratīvajā teritorijā, tā informē pašvaldību, kuras administratīvajā teritorijā paredzēts šo pasākumu rīkot, par tā norises vietu un laiku.
+(3¹) Ja publiska sporta pasākuma rīkošanai saskaņā ar šā panta noteikumiem nav nepieciešama atļauja publiska pasākuma rīkošanai, pasākuma organizators informē pašvaldību, kuras administratīvajā teritorijā paredzēts šo pasākumu rīkot, par tā norises vietu un laiku.
 (4) (Izslēgta ar 26.03.2009. likumu.)
