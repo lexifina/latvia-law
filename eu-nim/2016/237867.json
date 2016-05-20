@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 17. maija noteikumi Nr. 306 „Noteikumi par prasībām uz iepakojumiem izvietojamiem brīdinājumiem par ietekmi uz veselību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-20",
+  "entry_into_force": "2016-05-20",
+  "notification_date": "2016-05-23",
+  "commission_reference": "MNE(2016)53512",
+  "nim_celex": "72012L0009LVA_237867",
+  "nim_id": "237867",
+  "transposes_celex": [
+    "32012L0009"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a70f7f02-1ebc-4994-a37e-cf2ff5503d74",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
