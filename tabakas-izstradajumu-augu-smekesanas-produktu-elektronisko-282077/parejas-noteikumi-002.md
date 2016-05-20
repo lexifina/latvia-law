@@ -1,0 +1,1 @@
+2. Tabakas izstrādājumus un augu smēķēšanas produktus, kas ražoti vai laisti brīvā apgrozībā un marķēti saskaņā ar likumu "Par tabakas izstrādājumu realizācijas, reklāmas un lietošanas ierobežošanu" līdz 2016.gada 19.maijam, atļauts laist tirgū līdz 2017.gada 20.maijam.

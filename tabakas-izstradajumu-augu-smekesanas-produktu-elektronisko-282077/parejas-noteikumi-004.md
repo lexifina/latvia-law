@@ -1,0 +1,1 @@
+4. Šā likuma 3.panta otrās un ceturtās daļas noteikumi attiecībā uz tabakas izstrādājumiem, kuriem piemīt raksturīgs aromāts un kuru pārdošanas apjoms Eiropas Savienībā un Eiropas Ekonomikas zonā attiecīgā produktu kategorijā ir trīs procenti vai vairāk, piemērojami no 2020.gada 20.maija.

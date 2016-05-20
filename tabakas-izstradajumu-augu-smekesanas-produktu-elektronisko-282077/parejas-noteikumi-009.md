@@ -1,0 +1,3 @@
+9. Ministru kabinets līdz 2017.gada 1.martam izdod šā likuma 10. un 11.pantā paredzētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 28.februārim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2005.gada 20.decembra noteikumi Nr.976 "Noteikumi par kārtību, kādā izvietojami informatīvie uzraksti vai simboli par smēķēšanas aizliegumu un atļauju smēķēt, kā arī par uzrakstu un simbolu paraugiem";
+2) Ministru kabineta 2013.gada 27.augusta noteikumi Nr.637 "Smēķēšanas ierobežošanas valsts komisijas nolikums".

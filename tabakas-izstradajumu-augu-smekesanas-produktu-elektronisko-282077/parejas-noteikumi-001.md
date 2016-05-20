@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par tabakas izstrādājumu realizācijas, reklāmas un lietošanas ierobežošanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 3.nr.; 1999, 22.nr.; 2003, 2., 23.nr.; 2004, 4., 18.nr.; 2005, 7., 14.nr.; 2007, 21.nr.; 2008, 10.nr.; 2009, 1., 14.nr.; Latvijas Vēstnesis, 2010, 34., 47., 205.nr.; 2014, 228.nr.).

@@ -1,0 +1,10 @@
+7.pants. Uz tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko cigarešu un uzpildes flakonu iepakojuma izvietojamie brīdinājumi par ietekmi uz veselību
+(1) Uz katras tabakas izstrādājuma, augu smēķēšanas produkta, elektroniskās cigaretes un uzpildes flakona iepakojuma vienības un jebkāda ārējā iepakojuma, ko laiž tirgū, ir izvietoti brīdinājumi valsts valodā par ietekmi uz veselību.
+(2) Uz katras smēķēšanai paredzētā tabakas izstrādājuma iepakojuma vienības un jebkāda ārējā iepakojuma ir drukāti šādi brīdinājumi par ietekmi uz veselību:
+1) vispārīgais brīdinājums: "Smēķēšana nogalina - atmetiet tagad!";
+2) informatīvs uzraksts: "Tabakas dūmos ir vairāk nekā 70 vielu, kas izraisa vēzi";
+3) kombinēts brīdinājums par ietekmi uz veselību, kas papildināts ar šādu informāciju par smēķēšanas atmešanu: "Lūdz palīdzību! 67037333; www.spkc.gov.lv".
+(3) Uz katras bezdūmu tabakas izstrādājuma iepakojuma vienības un jebkāda ārējā iepakojuma ir drukāts šāds brīdinājums par ietekmi uz veselību: "Šis tabakas izstrādājums kaitē Jūsu veselībai un rada atkarību".
+(4) Uz katras augu smēķēšanas produkta iepakojuma vienības, kā arī uz jebkāda ārējā iepakojuma ir drukāts šāds brīdinājums par ietekmi uz veselību: "Šī izstrādājuma smēķēšana kaitē Jūsu veselībai".
+(5) Uz katras elektroniskās cigaretes un uzpildes flakona iepakojuma vienības un ārējā iepakojuma ir drukāts šāds brīdinājums par ietekmi uz veselību: "Šis izstrādājums satur nikotīnu, kas ir stipru pieradumu izraisoša viela".
+(6) Ministru kabinets nosaka noformēšanas un novietošanas prasības uz tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko cigarešu un uzpildes flakonu iepakojuma izvietojamiem brīdinājumiem par ietekmi uz veselību, rakstveida brīdinājumus, uz smēķēšanai paredzēto tabakas izstrādājumu iepakojuma vienībām un ārējā iepakojuma izvietojamos kombinētos brīdinājumus par ietekmi uz veselību, kā arī kārtību, kādā ražotājs vai importētājs ziņo par šo kombinēto brīdinājumu izvietošanu.

@@ -1,0 +1,1 @@
+3. Līdz 2017.gada 20.maijam atļauts laist tirgū arī tādas elektroniskās cigaretes un uzpildes flakonus, kas neatbilst šā likuma prasībām, ja attiecīgās elektroniskās cigaretes un uzpildes flakoni ir ražoti vai laisti brīvā apgrozībā līdz 2016.gada 20.novembrim.

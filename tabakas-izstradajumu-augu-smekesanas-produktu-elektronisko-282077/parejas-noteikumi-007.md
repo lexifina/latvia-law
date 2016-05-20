@@ -1,0 +1,1 @@
+7. Komersanti, kas elektronisko cigarešu un uzpildes flakonu tirdzniecību uzsākuši līdz 2016.gada 19.maijam, paziņo par to Veselības inspekcijai līdz 2016.gada 20.novembrim šā likuma 8.panta devītajā daļā noteiktajā kārtībā.
