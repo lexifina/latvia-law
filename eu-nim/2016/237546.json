@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-12",
+  "entry_into_force": "2016-05-20",
+  "notification_date": "2016-05-17",
+  "commission_reference": "MNE(2016)53214",
+  "nim_celex": "72014L0040LVA_237546",
+  "nim_id": "237546",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b584f880-6472-4db8-8431-a26b51b578b8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
