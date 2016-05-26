@@ -25,3 +25,4 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 Ceļu satiksmes negadījumu veidus, personu loku, kuras uzskatāmas par cietušām un bojā gājušām ceļu satiksmes negadījumos, kā arī ceļu satiksmes negadījumu reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un apjomu nosaka Ministru kabinets.
 Ūdens satiksmes negadījumu reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un apjomu nosaka Ministru kabinets.
 Ministru kabinets nosaka šā panta pirmās daļas 2.punktā minēto iesniegumu un informācijas reģistrēšanas kārtību, apjomu un glabāšanas termiņus, kā arī reaģēšanas laiku, ja saņemta informācija par noziedzīgiem nodarījumiem, citiem likumpārkāpumiem un notikumiem, kuri apdraud personu vai sabiedrības drošību.
+Aizturēto, apcietināto un notiesāto personu konvojēšanas kārtību nosaka Ministru kabinets.

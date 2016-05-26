@@ -1,0 +1,1 @@
+11. Līdz šā likuma 12.panta ceturtajā daļā minēto Ministru kabineta noteikumu izdošanai, bet ne ilgāk kā līdz 2016.gada 1.oktobrim piemērojami Ministru kabineta 2009.gada 7.aprīļa noteikumi Nr.305 "Kārtība, kādā veicama publiskas vietas novērošana, izmantojot tehniskos līdzekļus, kā arī novērošanā iegūto datu glabāšana un publiskošana".
