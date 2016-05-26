@@ -1,0 +1,2 @@
+15.² pants. Notiesāto ievietošana īslaicīgās aizturēšanas vietā
+Ar brīvības atņemšanu notiesāto, kas ir meklēšanā, pēc aizturēšanas var ievietot īslaicīgās aizturēšanas vietā līdz pārvietošanai uz brīvības atņemšanas iestādi. Īslaicīgās aizturēšanas vietā uz notiesāto attiecas īslaicīgās aizturēšanas vietas iekšējās kārtības noteikumi un viņam nodrošināmi īslaicīgās aizturēšanas vietas sadzīves apstākļi.
