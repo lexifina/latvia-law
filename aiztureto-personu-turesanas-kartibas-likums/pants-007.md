@@ -16,4 +16,4 @@
 3) pie sienas piestiprinātu plauktiņu;
 4) ja tā atrodas ārpus policijas amatpersonas redzesloka, - signālpogu policijas amatpersonas izsaukšanai.
 (6) Kamerā nodrošina dabisko apgaismojumu, bet tumšajā diennakts laikā - mākslīgo apgaismojumu, gaisa temperatūru, kas nav zemāka par 18°C, un ventilāciju.
-(7) Ja aizturētais īslaicīgās aizturēšanas vietā atrodas ilgāk par 24 stundām, viņam ir tiesības uz vismaz 30 minūtes ilgu pastaigu svaigā gaisā.
+(7) Ja aizturētais īslaicīgās aizturēšanas vietā atrodas ilgāk par 24 stundām, viņam ir tiesības uz vismaz vienu stundu ilgu pastaigu svaigā gaisā.
