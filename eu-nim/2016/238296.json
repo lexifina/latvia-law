@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 24.maija ieteikumi Nr.1 \"Ieteikumi vienotas rīcības nodrošināšanai attiecībā uz darbinieku nosūtīšanu\"",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "101",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-26",
+  "entry_into_force": "2016-05-27",
+  "notification_date": "2016-06-08",
+  "commission_reference": "MNE(2016)53889",
+  "nim_celex": "72014L0067LVA_238296",
+  "nim_id": "238296",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de654070-a62e-49e2-9dbb-6a158741c06d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
