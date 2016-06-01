@@ -1,0 +1,2 @@
+1.pants. Enerģijas dzērieni
+Enerģijas dzērieni ir bezalkoholiski dzērieni, kuri paredzēti lietošanai bez pārveides, kuros kopējais kofeīna daudzums pārsniedz 150mg/l un kuri satur vismaz vienu vai vairākas stimulējošas vai tonizējošas vielas (piemēram, taurīnu, inozitolu, guarāna alkoloīdus, ginka ekstraktu). Enerģijas dzērieni papildus var saturēt citas pārtikas sastāvdaļas atbilstoši normatīvajos aktos par pārtikas apriti noteiktajām prasībām.
