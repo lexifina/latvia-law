@@ -1,1 +1,0 @@
-31.pants. Ja nekustamā īpašuma īpašnieks nav apstrīdējis institūcijas noteiktās atlīdzības apmēru šā likuma 27.panta pirmajā daļā noteiktajā termiņā, institūcija 10 dienu laikā no dienas, kad beidzies šā likuma 27.panta pirmajā daļā minētais atlīdzības apstrīdēšanas termiņš, izmaksā nekustamā īpašuma bijušajam īpašniekam atlikušo atlīdzības daļu 10 procentu apmērā.

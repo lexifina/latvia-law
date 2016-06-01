@@ -1,0 +1,1 @@
+12.¹ pants. Nostiprinot zemesgrāmatā īpašuma tiesības uz nekustamo īpašumu, kas atsavināts, pamatojoties uz līgumu, ķīlas tiesību un ar to saistīto aizlieguma atzīmi dzēš bez tās personas piekrišanas, kurai par labu attiecībā uz nekustamo īpašumu ir nostiprināta ķīlas tiesība.

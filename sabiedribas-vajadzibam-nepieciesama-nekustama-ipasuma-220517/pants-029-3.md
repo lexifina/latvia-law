@@ -1,0 +1,1 @@
+29.³ pants. Sākot ar šā likuma 29.² panta otrajā daļā minētā termiņa pēdējo gadu, uz personu, kurai par labu attiecībā uz nekustamo īpašumu bija nostiprināta ķīlas tiesība, nav attiecināmi šā likuma 7.¹ pantā minētie ierobežojumi.
