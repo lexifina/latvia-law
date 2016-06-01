@@ -16,6 +16,7 @@ Ministru kabinets:
 12¹) nosaka kārtību un kritērijus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai;
 12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
 13) atbilstoši pedagogu profesijām apstiprina prasības pedagogiem nepieciešamajai izglītībai un profesionālajai kvalifikācijai;
+13¹) nosaka kārtību, kādā izsniedz sertifikātu pedagoga privātprakses uzsākšanai, pagarina tā termiņu vai anulē to;
 14) (izslēgts ar 05.07.2001. likumu);
 15) nosaka kārtību, kādā valsts un pašvaldības finansē mācību līdzekļu iegādi izglītības iestādēm;
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;

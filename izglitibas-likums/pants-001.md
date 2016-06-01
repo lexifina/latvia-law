@@ -45,7 +45,7 @@ k) individuālie mācību piederumi [izglītojamo personiskās lietošanas priek
 24) speciālā izglītība - personām ar speciālām vajadzībām un veselības traucējumiem vai arī speciālām vajadzībām vai veselības traucējumiem adaptēta vispārējā un profesionālā izglītība;
 25) tālākizglītība - iepriekš iegūtās izglītības turpināšana un profesionālās meistarības pilnveidošana atbilstoši konkrētās profesijas prasībām;
 26) tālmācība - izglītības ieguves neklātienes formas paveids, kuru raksturo īpaši strukturēti mācību materiāli, individuāls mācīšanās temps, īpaši organizēts izglītības sasniegumu novērtējums, kā arī dažādu tehnisko un elektronisko saziņas līdzekļu izmantošana;
-26¹) Valsts izglītības informācijas sistēma - datubāze, kurā apkopota informācija par izglītības iestādēm, licencētām un akreditētām izglītības programmām, izglītojamiem, pedagogiem, augstskolu un koledžu akadēmisko personālu, izglītības dokumentiem un valsts statistiku;
+26¹) (izslēgts ar 05.05.2016. likumu);
 27) valsts izglītības standarts - dokuments, kas atbilstoši izglītības pakāpei un veidam nosaka izglītības programmu galvenos mērķus un uzdevumus, izglītības obligāto pamatsaturu, iegūtās izglītības vērtēšanas pamatkritērijus un vispārējo kārtību;
 28) vidējā izglītība - izglītības pakāpe, kurā notiek daudzpusīga personības pilnveide, mērķtiecīga un padziļināta izaugsme apzināti izraudzītā vispārējās vai profesionālās izglītības vai arī vispārējās un profesionālās izglītības virzienā, sagatavošanās studijām augstākajā izglītības pakāpē vai profesionālajai darbībai, iesaiste sabiedrības dzīvē;
 29) vispārējā izglītība - cilvēka, dabas un sabiedrības daudzveidības un vienotības izziņas, humānas, brīvas un atbildīgas personības veidošanās process un tā rezultāts.

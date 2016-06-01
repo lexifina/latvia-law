@@ -1,0 +1,1 @@
+49. 24.panta otrās un trešās daļas noteikumi, kas stājas spēkā 2016.gada 1.jūnijā, attiecas uz Izglītības iestāžu reģistrā jau iekļautajām izglītības iestādēm tad, ja tās, sākot ar 2016.gada 1.jūniju, izdara izmaiņas kādā no Izglītības iestāžu reģistrā jau iekļautajām ziņām.
