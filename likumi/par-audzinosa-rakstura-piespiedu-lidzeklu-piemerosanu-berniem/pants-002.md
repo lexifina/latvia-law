@@ -1,1 +1,1 @@
-2.pants. Audzinoša rakstura piespiedu līdzekļus bērnam var piemērot, ja viņš izdarījis tādu nodarījumu vai pārkāpumu, par kuru likumā paredzēta kriminālatbildība vai administratīvā atbildība (turpmāk - nodarījums vai pārkāpums).
+2.pants. Audzinoša rakstura piespiedu līdzekļus bērnam var piemērot, ja viņš izdarījis tādu nodarījumu vai pārkāpumu, par kuru normatīvajos aktos paredzēta kriminālatbildība vai administratīvā atbildība (turpmāk - nodarījums vai pārkāpums).

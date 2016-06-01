@@ -1,0 +1,1 @@
+5. Pašvaldības administratīvā komisija var lemt par audzinoša rakstura piespiedu līdzekļu piemērošanu arī tajās lietās, kas uzsāktas līdz 2016.gada 31.maijam un nosūtītas administratīvajai komisijai administratīvā soda piemērošanai.

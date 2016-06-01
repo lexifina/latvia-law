@@ -1,1 +1,2 @@
-15.pants. Faktus par bērna izdarīto nodarījumu likumā noteiktajā kārtībā pārbauda procesuāli pilnvarota amatpersona, bet faktus par pārkāpumu - institūcijas (amatpersonas), kas pilnvarotas uzsākt lietvedību administratīvā pārkāpuma lietā vai izskatīt administratīvo pārkāpumu lietas.
+15.pants. (1) Faktus par bērna izdarīto nodarījumu likumā noteiktajā kārtībā pārbauda procesuāli pilnvarota amatpersona, bet faktus par pārkāpumu - institūcijas (amatpersonas), kas pilnvarotas uzsākt lietvedību administratīvā pārkāpuma lietā vai izskatīt administratīvo pārkāpumu lietas.
+(2) Ja pārkāpumu ir izdarījis bērns vecumā no 11 līdz 14 gadiem, institūcija (amatpersona) pārbauda faktus par pārkāpumu Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā.
