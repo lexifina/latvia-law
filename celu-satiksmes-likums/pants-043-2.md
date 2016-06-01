@@ -1,28 +1,27 @@
 43.² pants. Īpatnības administratīvo pārkāpumu lietās sakarā ar apstāšanās vai stāvēšanas noteikumu pārkāpšanu
-(1) Ja pārkāpti apstāšanās vai stāvēšanas noteikumi, bet transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, personas, kuras ir tiesīgas sastādīt administratīvā pārkāpuma protokolu un uzlikt sodu, sastāda protokolu - paziņojumu, kurā norādāma šāda informācija:
-1) protokola - paziņojuma sastādīšanas datums;
-2) institūcija, kuras amatpersona uzlikusi sodu, un protokola - paziņojuma sastādītāja amats, vārds un uzvārds;
+(1) Administratīvo sodu par apstāšanās vai stāvēšanas noteikumu pārkāpumu, ja tas konstatēts bez transportlīdzekļa vadītāja klātbūtnes, piemēro transportlīdzekļu un to vadītāju valsts reģistrā norādītajam turētājam vai, ja turētājs nav norādīts vai transportlīdzeklis noņemts no uzskaites, - transportlīdzekļa īpašniekam (valdītājam). Ja pārkāpums izdarīts ar transportlīdzekli, kas pastāvīgi reģistrēts ārvalstī, bet tā izmantošanai Latvijā šā likuma 9.panta piektajā daļā noteiktajos gadījumos ir saņemta atļauja piedalīties ceļu satiksmē, administratīvo sodu piemēro personai, kura minēto atļauju saņēmusi. Ja pārkāpums izdarīts ar transportlīdzekli, kas nodots tirdzniecībai (tam uzstādītas tirdzniecības valsts reģistrācijas numura zīmes vai tas reģistrēts tirdzniecības reģistrā), administratīvo sodu piemēro komersantam, kurš veic attiecīgā transportlīdzekļa tirdzniecību.
+(2) Persona, kurai ir piemērots administratīvais sods par apstāšanās vai stāvēšanas noteikumu pārkāpumu bez transportlīdzekļa vadītāja klātbūtnes, netiek uzskatīta par administratīvi sodītu.
+(3) Administratīvo sodu par apstāšanās vai stāvēšanas noteikumu pārkāpumu šā panta pirmajā daļā minētajai personai nepiemēro, ja:
+1) tiek konstatēts, ka pārkāpuma izdarīšanas brīdī transportlīdzeklis nav atradies šā panta pirmajā daļā minētās personas valdījumā citas personas prettiesisku darbību dēļ;
+2) šā panta pirmajā daļā minētā persona norāda personu, kura pārkāpuma izdarīšanas brīdī bija transportlīdzekļa vadītājs (norādot attiecīgo personu identificējošos datus), kā arī iesniedz šo faktu apliecinošus pierādījumus.
+(4) Ja pārkāpti apstāšanās vai stāvēšanas noteikumi, bet transportlīdzekļa vadītājs neatrodas pārkāpuma izdarīšanas vietā, personas, kuras ir tiesīgas sastādīt administratīvā pārkāpuma protokolu un uzlikt sodu, sastāda protokolu-lēmumu, kurā norādāma šāda informācija:
+1) protokola-lēmuma sastādīšanas datums;
+2) institūcija, kuras amatpersona uzlikusi sodu, un protokola-lēmuma sastādītāja amats, vārds un uzvārds;
 3) pārkāpuma konstatēšanas datums un laiks;
 4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums, adrese);
 5) transportlīdzekļa marka un valsts reģistrācijas numurs;
-6) pārkāptais Ceļu satiksmes noteikumu punkts;
+6) norāde uz pārkāptajām tiesību normām (normatīvā akta pants, tā daļa, punkts vai apakšpunkts);
 7) lēmums par naudas soda uzlikšanu un naudas soda apmērs;
-8) naudas soda samaksas termiņš;
-9) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas sodu;
-10) pieņemtā lēmuma apstrīdēšanas (pārsūdzēšanas) kārtība;
-11) informācija par sekām, kādas iestājas, ja naudas sods netiek samaksāts.
-(2) Ja laikā, kad tiek konstatēts transportlīdzekļa apstāšanās vai stāvēšanas noteikumu pārkāpums, transportlīdzekļa vadītājs ierodas pārkāpuma izdarīšanas vietā, soda uzlikšanas kārtība nemainās un tiek sastādīts protokols - paziņojums.
-(3) Uzliktais naudas sods samaksājams Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā.
-(4) Ja uzliktais naudas sods netiek samaksāts Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā, transportlīdzekļa reģistrācijas apliecībā norādītajam turētājam vai, ja turētājs nav norādīts, - transportlīdzekļa īpašniekam (valdītājam) Transportlīdzekļu un to vadītāju valsts reģistrs nosūta paziņojumu par nesamaksāto naudas sodu. Ja pārkāpums izdarīts ar transportlīdzekli, kas pastāvīgi reģistrēts ārvalstī, bet tā izmantošanai Latvijā šā likuma 9.panta piektajā daļā noteiktajos gadījumos ir saņemta atļauja, paziņojumu nosūta personai, kura saņēmusi atļauju. Ja pārkāpums izdarīts ar transportlīdzekli, kas nodots tirdzniecībai (tam uzstādītas tirdzniecības valsts reģistrācijas numura zīmes vai transportlīdzeklis reģistrēts tirdzniecības reģistrā), paziņojumu nosūta komersantam, kurš veic attiecīgā transportlīdzekļa tirdzniecību. Paziņojumā norādāma šāda informācija:
-1) institūcija, kuras amatpersona uzlikusi naudas sodu;
-2) transportlīdzekļa marka un valsts reģistrācijas numurs;
-3) transportlīdzekļa īpašnieka (valdītāja, turētāja) dati;
-4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums, adrese), datums un laiks;
-5) protokola - paziņojuma numurs;
-6) nesamaksātā naudas soda apmērs;
-7) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas sodu;
-8) informācija par sekām, kādas iestājušās, jo naudas sods nav samaksāts Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā.
-(5) Ja uzliktais naudas sods nav samaksāts Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā, transportlīdzekļu un to vadītāju valsts reģistrā izdara atzīmi par aizliegumu līdz naudas soda samaksai veikt valsts tehnisko apskati transportlīdzeklim, ar kuru izdarīts pārkāpums, un reģistrēt to transportlīdzekļu un to vadītāju valsts reģistrā.
-(6) Ja par apstāšanās vai stāvēšanas noteikumu pārkāpšanu uzliktais naudas sods nav samaksāts Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā, tas piedzenams no transportlīdzekļa reģistrācijas apliecībā norādītā turētāja vai, ja turētājs nav norādīts, - no transportlīdzekļa īpašnieka (valdītāja), izņemot gadījumu, kad pārkāpuma izdarīšanas brīdī transportlīdzeklis nav atradies īpašnieka (turētāja, valdītāja) valdījumā citas personas prettiesisku darbību dēļ.
-(7) Lēmums par naudas soda piemērošanu stājas spēkā šā lēmuma sastādīšanas brīdī. Lēmumu par uzlikto naudas sodu 10 darbdienu laikā var apstrīdēt, iesniedzot attiecīgu iesniegumu augstākai iestādei (amatpersonai). Augstākas iestādes (amatpersonas) lēmumu var pārsūdzēt tiesā.
-(8) Kārtību, kādā noformējams protokols - paziņojums par uzlikto naudas sodu un nosūtāma informācija transportlīdzekļa īpašniekam (valdītājam, turētājam), kā arī naudas soda iekasēšanas un kontroles kārtību nosaka Ministru kabinets.
+8) persona, kurai piemērots administratīvais sods;
+9) naudas soda samaksas termiņš;
+10) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas sodu;
+11) pieņemtā lēmuma pārsūdzēšanas kārtība;
+12) informācija par sekām, kādas iestājas, ja naudas sods netiek samaksāts.
+(5) Ja laikā, kad tiek konstatēts transportlīdzekļa apstāšanās vai stāvēšanas noteikumu pārkāpums, transportlīdzekļa vadītājs ierodas pārkāpuma izdarīšanas vietā, soda uzlikšanas kārtība nemainās un tiek sastādīts protokols-lēmums.
+(6) Protokolu-lēmumu sastāda trijos eksemplāros. Vienu protokola-lēmuma eksemplāru piestiprina pie transportlīdzekļa priekšējā vējstikla vadītāja pusē vai uz motocikla, tricikla vai kvadricikla degvielas tvertnes tā, lai tas nepazustu vai netiktu sabojāts meteoroloģisko apstākļu dēļ un transportlīdzekļa vadītājam būtu viegli pamanāms. Otru protokola-lēmuma eksemplāru Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā nosūta šā panta pirmajā daļā minētajai personai. Trešo protokola-lēmuma eksemplāru glabā institūcijā, kuras amatpersona pieņēmusi lēmumu par naudas soda uzlikšanu. Ja šā panta pirmajā daļā minētā persona Ceļu satiksmes drošības direkcijas tīmekļa vietnē ir reģistrējusies elektroniskajā e-pakalpojumu sistēmā un piekritusi paziņojumu saņemšanai elektroniski, protokolu-lēmumu minētajai personai nosūta elektroniski.
+(7) Kārtību, kādā noformējams protokols-lēmums par uzlikto naudas sodu, kā arī naudas soda iekasēšanas un kontroles kārtību nosaka Ministru kabinets.
+(8) Lēmumu par administratīvā soda piemērošanu šā panta pirmajā daļā minētā persona Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā un kārtībā var pārsūdzēt augstākā iestādē, ievērojot šā panta devītās daļas noteikumus. Augstāka iestāde sūdzību par administratīvā pārkāpuma lietā pieņemto lēmumu izskata Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā un kārtībā.
+(9) Ja šā panta pirmajā daļā minētā persona pārkāpuma izdarīšanas brīdī nav bijusi transportlīdzekļa vadītājs, tā, pārsūdzot augstākā iestādē lēmumu par administratīvā soda piemērošanu, sūdzībā norāda personu, kura pārkāpuma izdarīšanas brīdī bija transportlīdzekļa vadītājs. Šādā gadījumā sūdzībā norāda attiecīgo personu identificējošos datus (vārdu, uzvārdu, personas kodu, bet attiecībā uz ārzemnieku papildus norāda arī dzīvesvietas adresi, vadītāja apliecības numuru, izdošanas datumu un vietu, vadītāja apliecības izdevējvalsti) un sūdzībai pievieno pierādījumus, kas apliecina, ka šī persona pārkāpuma izdarīšanas brīdī bija transportlīdzekļa vadītājs.
+(10) Ja iesniegtie pierādījumi apliecina, ka pārkāpuma izdarīšanas brīdī transportlīdzekļa vadītājs bija šā panta pirmajā daļā minētās personas norādītais transportlīdzekļa vadītājs, augstāka iestāde atceļ lēmumu par administratīvā soda piemērošanu šā panta pirmajā daļā minētajai personai un pieņem lēmumu par tā piemērošanu transportlīdzekļa vadītājam.
+(11) Izskatot transportlīdzekļa vadītāja sūdzību par viņam piemēroto administratīvo sodu, tiesa pieaicina šā panta pirmajā daļā minēto personu.
+(12) Ja, pārbaudot lietā esošos pierādījumus, netiek konstatēts, ka transportlīdzekļa vadītājs bija persona, kuru norādījusi šā panta pirmajā daļā minētā persona, tiesa var pieņemt lēmumu par administratīvā soda piemērošanu šā panta pirmajā daļā minētajai personai.
