@@ -1,0 +1,2 @@
+1.pants. (1) Atsavināt sabiedrības vajadzībām - Austrumu maģistrāles posma no Ieriķu ielas līdz Vietalvas ielai izbūves nodrošināšanai - nekustamā īpašuma Augusta Deglava ielā 39A, Rīgā (kadastra Nr.0100 071 2593, reģistrēts Rīgas pilsētas zemesgrāmatas nodalījumā Nr.100000059740), sastāvā ietilpstošā zemes gabala (kadastra apzīmējums 0100 071 2593) daļu 48 m² platībā.
+(2) Šā panta pirmajā daļā minētā zemes gabala atsavināmās daļas robežas attēlotas šā likuma 1.pielikumā, un atsavināmās daļas robežu apraksts dots šā likuma 2.pielikumā.
