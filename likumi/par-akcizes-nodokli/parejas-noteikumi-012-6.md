@@ -1,0 +1,1 @@
+12.⁶ Ja šā likuma pārejas noteikumu 12.¹ punktā minētās personas iesniedz Valsts ieņēmumu dienestam normatīvajos aktos par akcīzes preču apriti noteiktos pārskatus un akcīzes nodokļa likmju maiņas dienā tām nav atlikumā akcīzes preču, kurām mainās akcīzes nodokļa likmes, tām nav jāveic šo pārejas noteikumu 12.³ punktā minētās darbības.
