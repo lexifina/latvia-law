@@ -1,0 +1,1 @@
+26. Šā likuma 100.panta trešās daļas otrajā teikumā iekļautās prasības izpildi tiešās pārvaldes iestāde nodrošina ne vēlāk kā līdz 2018.gada 1.februārim, bet atvasinātas publiskās personas - ne vēlāk kā līdz 2018.gada 1.jūlijam.
