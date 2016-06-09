@@ -2,7 +2,7 @@
 1) maksājumu un finanšu instrumentu norēķinu sistēma (turpmāk - sistēma) - maksājumu un finanšu instrumentu pārvedumu rīkojumu izpildes mehānisms, kas darbojas saskaņā ar vienošanos un atbilst visiem šādiem nosacījumiem:
 a) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot sistēmas uzturētāju, norēķinu aģentu, centrālo darījumu starpnieku, klīringa centru vai netiešo dalībnieku, par pārveduma rīkojumu izpildi starp dalībniekiem vai ieskaitu ar centrālā darījumu starpnieka starpniecību vai bez tās saskaņā ar vienotiem noteikumiem un standartizētām procedūrām,
 b) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts) likums,
-c) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Komisiju;
+c) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Vērtspapīru un tirgu iestādi;
 2) iestāde - institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:
 a) tā ir Latvijas Republikā vai citā dalībvalstī reģistrēta banka, filiāle, ārvalsts bankas filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
 b) tā ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, filiāle vai ārvalsts ieguldījumu brokeru sabiedrības filiāle,
