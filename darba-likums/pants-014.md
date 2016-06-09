@@ -2,23 +2,6 @@
 (1) Darbinieka nosūtīšana šā likuma izpratnē ir tie gadījumi, kad saistībā ar starptautisko pakalpojumu sniegšanu:
 1) darba devējs, pamatojoties uz līgumu, ko viņš noslēdzis ar personu, kuras labā tiks veikts darbs, nosūta darbinieku uz citu valsti;
 2) darba devējs nosūta darbinieku uz citā valstī esošu filiāli vai koncernā ietilpstošu uzņēmumu;
-3) darbaspēka nodrošināšanas pakalpojuma sniedzējs kā darba devējs nosūta darbinieku darbaspēka nodrošināšanas pakalpojuma saņēmējam, kura labā un vadībā tiks veikts darbs, ja tā uzņēmums atrodas citā valstī vai arī tas veic savu darbību citā valstī;
-(2) Nosūtītais darbinieks šā panta izpratnē ir darbinieks, kas noteiktu laiku veic darbu citā valstī, nevis valstī, kurā viņš parasti veic darbu.
-(3) Ja darbinieks nosūtīts veikt darbu Latvijā, tad neatkarīgi no darba līgumam un darba tiesiskajām attiecībām piemērojamā likuma šim nosūtītajam darbiniekam nodrošināmi darba apstākļi un nodarbinātības noteikumi, kas paredzēti Latvijas normatīvajos aktos, kā arī darba koplīgumos, kuri atzīti par vispārsaistošiem un regulē:
-1) maksimālo darba laiku un minimālo atpūtas laiku;
-2) minimālo ikgadējo apmaksāto atvaļinājumu;
-3) minimālo darba algas likmi, kā arī piemaksas par virsstundu darbu;
-4) noteikumus par darbaspēka nodrošināšanu, īpaši ar darbaspēka nodrošināšanas pakalpojuma sniedzēja starpniecību;
-5) drošību, veselības aizsardzību un higiēnu darbā;
-6) aizsardzības pasākumus personām, kuras ir jaunākas par 18 gadiem, grūtniecēm, sievietēm pēcdzemdību periodā, kā arī šo personu darba un nodarbinātības noteikumus;
-7) vienlīdzīgu attieksmi pret vīriešiem un sievietēm, kā arī cita veida diskriminācijas aizliegumu.
-(4) Darba devējam, kas nosūta darbinieku veikt darbu Latvijā, ir pienākums pirms darbinieka nosūtīšanas rakstveidā informēt Valsts darba inspekciju par šo nosūtīto darbinieku, norādot:
-1) darbinieka vārdu un uzvārdu;
-2) darba uzsākšanas laiku;
-3) paredzamo nodarbināšanas ilgumu;
-4) darba veikšanas vietu (ja darba pienākumu veikšana nav paredzēta kādā noteiktā darba vietā, norāda, ka darbinieku var nodarbināt dažādās vietās);
-5) darba devēja pārstāvi Latvijā, kurš ir pilnvarots pārstāvēt darba devēju Latvijas valsts iestādēs un tiesā;
-6) personu, kuras labā tiks veikts darbs (pakalpojuma saņēmēju);
-7) apliecinājumu par to, ka nosūtītais darbinieks, kas ir trešo valstu pilsonis, likumīgi strādā pie darba devēja Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā.
-(5) Darba devējam, kas nosūta darbinieku veikt darbu citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā, neatkarīgi no darba līgumam un darba tiesiskajām attiecībām piemērojamā likuma ir pienākums šim nosūtītajam darbiniekam nodrošināt nodarbinātības noteikumu izpildi un darba apstākļus saskaņā ar šā panta trešo daļu atbilstoši attiecīgās valsts normatīvajiem aktiem, kuri regulē darbinieku nosūtīšanu.
-(6) Šā panta noteikumi neattiecas uz tirdzniecības flotes uzņēmumu kuģu apkalpēm.
+3) darbaspēka nodrošināšanas pakalpojuma sniedzējs kā darba devējs nosūta darbinieku darbaspēka nodrošināšanas pakalpojuma saņēmējam, kura labā un vadībā tiks veikts darbs, ja tā uzņēmums atrodas citā valstī vai arī tas veic savu darbību citā valstī.
+(2) Nosūtītais darbinieks šā likuma izpratnē ir darbinieks, kas noteiktu laiku veic darbu citā valstī, nevis valstī, kurā viņš parasti veic darbu.
+(3) Šā likuma noteikumi par darbinieka nosūtīšanu neattiecas uz tirdzniecības flotes uzņēmumu kuģu apkalpēm.

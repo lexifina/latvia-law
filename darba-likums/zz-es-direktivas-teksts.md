@@ -22,4 +22,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 21) Eiropas Parlamenta un Padomes 2006.gada 5.jūlija direktīvas 2006/54/EK par tāda principa īstenošanu, kas paredz vienlīdzīgas iespējas un attieksmi pret vīriešiem un sievietēm nodarbinātības un profesijas jautājumos (pārstrādātā versija);
 22) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi;
 23) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/104/EK par pagaidu darba aģentūrām;
-24) Padomes 2010.gada 8.marta direktīvas 2010/18/ES, ar ko īsteno pārskatīto BUSINESSEUROPE, UEAPME, CEEP un ETUC pamatnolīgumu par vecāku atvaļinājumu un atceļ direktīvu 96/34/EK.
+24) Padomes 2010.gada 8.marta direktīvas 2010/18/ES, ar ko īsteno pārskatīto BUSINESSEUROPE, UEAPME, CEEP un ETUC pamatnolīgumu par vecāku atvaļinājumu un atceļ direktīvu 96/34/EK;
+25) Eiropas Parlamenta un Padomes 2014.gada 26.februāra direktīvas 2014/36/ES par trešo valstu valstspiederīgo ieceļošanas un uzturēšanās nosacījumiem nodarbinātības kā sezonas darbiniekiem nolūkā;
+26) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/66/ES par ieceļošanas un uzturēšanās nosacījumiem trešo valstu valstspiederīgajiem saistībā ar pārcelšanu uzņēmuma ietvaros;
+27) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/67/ES par to, kā izpildīt direktīvu 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1024/2012 par administratīvo sadarbību, izmantojot Iekšējā tirgus informācijas sistēmu ("IMI regula").
