@@ -1,5 +1,5 @@
 9.² pants. Procesuālās darbības protokols
-(1) Šā likuma 9.panta piektajā daļā minētās tirgus uzraudzības un likuma pārkāpumu izmeklēšanas darbības Izpilddirekcijas amatpersonas fiksē procesuālās darbības protokolā.
+(1) Šā likuma 9.panta piektajā daļā minētās tirgus uzraudzības un likuma pārkāpumu procesuālās darbības Konkurences padomes amatpersonas fiksē procesuālās darbības protokolā.
 (2) Procesuālās darbības protokolā norāda:
 1) darbības norises vietu un datumu;
 2) darbības veikšanas tiesisko pamatu;

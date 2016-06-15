@@ -1,5 +1,5 @@
-27.² pants. Lietas izpētes izbeigšana un atjaunošana
-(1) Konkurences padome lēmumu par lietas izpētes izbeigšanu pieņem šā panta otrajā daļā un Administratīvā procesa likumā noteiktajos gadījumos.
-(2) Lēmumu par lietas izpētes izbeigšanu var pieņemt, ja tirgus dalībnieks rakstveidā apņemas pildīt noteiktus tiesiskos pienākumus, kas novērš konkurences kavēšanu, ierobežošanu vai deformēšanu, un Konkurences padome, izvērtējusi lietas faktiskos un tiesiskos apstākļus, uzskata to par lietderīgu.
-(3) Konkurences padome jebkurā laikā var atkārtoti ierosināt saskaņā ar šā panta pirmo vai otro daļu izbeigto lietu un atjaunot lietas izpēti.
+27.² pants. Lietas izpētes izbeigšana ar rakstveida apņemšanos
+(1) Ja tirgus dalībnieks rakstveidā apņemas pildīt noteiktus tiesiskos pienākumus, kas novērš konkurences kavēšanu, ierobežošanu vai deformēšanu, Konkurences padome, izvērtējot lietas faktiskos un tiesiskos apstākļus, kā arī lietderības apsvērumus, var pieņemt lēmumu par lietas izpētes izbeigšanu un tiesisko pienākumu uzlikšanu.
+(2) Ja tiesiskie pienākumi, kurus tirgus dalībnieks rakstveidā apņēmies pildīt, netiek pildīti, to piespiedu izpilde tiek veikta šā likuma 8.¹ pantā noteiktajā kārtībā.
+(3) Konkurences padome var atjaunot saskaņā ar šā panta pirmo daļu izbeigtu lietu.
 (4) Atjaunojot lietas izpēti, lēmuma pieņemšanas termiņš sākas no jauna ar lietas izpētes atjaunošanas dienu.
