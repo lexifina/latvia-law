@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Grozījumi Konkurences likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/104.1",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-31",
+  "entry_into_force": "2016-06-15",
+  "notification_date": "2017-07-28",
+  "commission_reference": "MNE(2017)54210",
+  "nim_celex": "72014L0104LVA_249586",
+  "nim_id": "249586",
+  "transposes_celex": [
+    "32014L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8240429-bf9f-4330-b2fb-b7ed06f60d3a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
