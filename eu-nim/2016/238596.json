@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 7. jūnija noteikumi Nr. 360 “Radioiekārtu atbilstības novērtēšanas, piedāvāšanas tirgū, uzstādīšanas un lietošanas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "115",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-15",
+  "entry_into_force": "2016-06-16",
+  "notification_date": "2016-06-16",
+  "commission_reference": "MNE(2016)54155",
+  "nim_celex": "72014L0053LVA_238596",
+  "nim_id": "238596",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3d85f66-6bf6-4f2c-801e-3eb0fcb0cb63",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
