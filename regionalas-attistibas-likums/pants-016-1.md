@@ -10,7 +10,8 @@
 7) sadarbībā ar vietējām pašvaldībām un valsts iestādēm izstrādā plānošanas reģiona attīstības plānošanas dokumentus, nodrošina to savstarpējo saskaņotību un atbilstību Latvijas ilgtspējīgas attīstības stratēģijai un Nacionālajam attīstības plānam, kā arī šo plānošanas dokumentu ieviešanu;
 8) koordinē un veicina plānošanas reģiona reģionālās attīstības atbalsta pasākumu izstrādi, īstenošanu, uzraudzību un novērtēšanu;
 9) sagatavo atzinumus par nacionālā līmeņa attīstības plānošanas dokumentu atbilstību plānošanas reģiona attīstības plānošanas dokumentiem;
-10) izstrādā un īsteno projektus reģionālās attīstības atbalsta pasākumu ietvaros.
+10) izstrādā un īsteno projektus reģionālās attīstības atbalsta pasākumu ietvaros;
+11) veicina saimniecisko darbību plānošanas reģiona teritorijā.
 (2) Lai īstenotu plānošanas reģiona kompetenci, Plānošanas reģiona attīstības padome:
 1) apstiprina plānošanas reģiona nolikumu un budžetu;
 2) var izveidot, reorganizēt un likvidēt plānošanas reģiona iestādes un kapitālsabiedrības;
