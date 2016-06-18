@@ -1,0 +1,1 @@
+1.pants. 2015.gada 12.decembrī Ašgabatā parakstītais Latvijas Republikas valdības un Turkmenistānas valdības nolīgums par starptautisko automobiļu satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
