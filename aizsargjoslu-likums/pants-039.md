@@ -15,5 +15,5 @@ h) lietot mēslošanas līdzekļus un ķīmiskos augu aizsardzības līdzekļus;
 a) veikt meža un lauksaimniecībā izmantojamās zemes lietošanas kategorijas maiņu, izņemot zemes lietošanas kategorijas maiņu esošo ciemu teritorijās un ēku un būvju būvniecībai viensētās ārpus ciema teritorijas robežām, kā arī gadījumos, kad tas nepieciešams ūdensapgādes būvju būvniecībai,
 b) veidot jaunus ciemus un paplašināt esošos,
 c) ārpus esošajiem ciemiem sadalīt zemi zemes vienībās, kas mazākas par 2400 kvadrātmetriem,
-d) no jauna projektējamos un rekonstruējamos būvobjektos novadīt notekūdeņus (arī pēc attīrīšanas lokālajās attīrīšanas iekārtās) gruntī un virszemes ūdensobjektos,
+d) no jauna projektējamos un pārbūvējamos būvobjektos novadīt notekūdeņus (arī pēc attīrīšanas lokālajās attīrīšanas iekārtās) gruntī un virszemes ūdensobjektos,
 e) ierīkot atkritumu apglabāšanas poligonus.

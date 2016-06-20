@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2013.gada 12.jūnija direktīvas 2013/30/ES par to darbību drošumu, kas saistītas ar naftas un gāzes nozares darbībām jūrā, un ar kuru groza direktīvu 2004/35/EK.

@@ -12,11 +12,11 @@ Ekspluatācijas aizsargjoslās ap gāzesvadiem, gāzapgādes iekārtām un būv�
 10) aizliegts izvietot lopbarības, minerālmēslu, bīstamu ķīmisko vielu un produktu, kokmateriālu, uzliesmojošu, viegli un īpaši viegli uzliesmojošu vielu, produktu un materiālu glabātavas;
 11) aizliegts izvietot degvielas uzpildes stacijas;
 12) aizliegts ierīkot kuģu, liellaivu un peldošu celtņu piestātnes, kā arī veikt gultnes padziļināšanas un zemes smelšanas darbus;
-12¹) aizliegts ar jebkādām darbībām traucēt gāzapgādes uzņēmuma darbiniekus, kuri aizsargjoslā veic ekspluatācijas, remonta, rekonstrukcijas, avāriju novēršanas vai to seku likvidēšanas darbus;
+12¹) aizliegts ar jebkādām darbībām traucēt gāzapgādes uzņēmuma darbiniekus, kuri aizsargjoslā veic ekspluatācijas, remonta, pārbūves, avāriju novēršanas vai to seku likvidēšanas darbus;
 13) ja nav noslēgta rakstveida vienošanās ar gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju īpašnieku, aizliegts:
 a) veikt darbus ar uguni un liesmu, dzīt pāļus, lietot triecienmehānismus ar jaudu, kas lielāka par 100 kilovatiem,
 b) veikt zemes darbus dziļāk par 0,3 metriem, bet aramzemēs - dziļāk par 0,45 metriem, kā arī meliorācijas un grunts planēšanas darbus,
 c) veikt ģeoloģiskos, ģeodēziskos un citus pētniecības darbus, kas saistīti ar urbumu veidošanu un grunts paraugu ņemšanu (izņemot augsnes paraugus),
-d) būvēt, renovēt vai rekonstruēt inženierbūves,
+d) būvēt, atjaunot vai pārbūvēt inženierbūves,
 e) ierīkot brauktuves un brauktuvju šķērsojumus,
 f) veikt citus darbus, kas traucē gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju apkalpošanu vai var bojāt šos objektus.

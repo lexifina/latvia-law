@@ -6,7 +6,7 @@
 4) aizliegts veikt darbus, kas saistīti ar zemes applūdināšanu;
 5) aizliegts audzēt kokus un krūmus platībās, kuras norādītas aizsargjoslu noteikšanas metodikā;
 6) ja nav noslēgta rakstveida vienošanās ar ogļūdeņražu ieguves vietu, naftas, naftas produktu un bīstamu ķīmisko vielu un produktu cauruļvadu, tilpņu, krātuvju, pārstrādes un pārkraušanas uzņēmumu, degvielas uzpildes staciju īpašnieku, aizliegts:
-a) būvēt, renovēt, rekonstruēt vai nojaukt jebkuras ēkas un inženierbūves,
+a) būvēt, atjaunot, pārbūvēt vai nojaukt jebkuras ēkas un inženierbūves,
 b) izvietot lopbarības, minerālmēslu, bīstamu ķīmisko vielu un produktu, kokmateriālu, uzliesmojošu, viegli un īpaši viegli uzliesmojošu vielu, produktu un materiālu glabātavas,
 c) izvietot degvielas uzpildes stacijas,
 d) ierīkot kuģu, liellaivu un peldošu celtņu piestātnes,
@@ -20,10 +20,18 @@ i) veikt citus darbus, kas traucē ogļūdeņražu ieguves vietu, naftas, naftas
 2) aizliegts aizkraut pievedceļus un pieejas ogļūdeņražu ieguves vietām, naftas, naftas produktu un bīstamu ķīmisko vielu un produktu cauruļvadiem, tilpnēm, krātuvēm, pārstrādes un pārkraušanas uzņēmumiem un to objektiem;
 3) aizliegts aizsargjoslās gar zemūdens cauruļvadiem braukt ar izmestu enkuru vai tīkliem, ierādīt zvejas vietas un zvejot, ķert ūdens dzīvniekus un iegūt ūdensaugus ar dziļūdens rīkiem.
 (3) Drošības aizsargjoslās ap ogļūdeņražu ieguves vietām un tādu bīstamu ķīmisko vielu un produktu cauruļvadiem, tilpnēm, krātuvēm, pārstrādes un pārkraušanas uzņēmumiem, kuras saskaņā ar Ķīmisko vielu likumu ir sprādzienbīstamas, īpaši viegli vai viegli uzliesmojošas, ļoti toksiskas vai toksiskas ķīmiskās vielas vai ķīmiskie produkti, papildus šā panta pirmajā un otrajā daļā minētajiem aprobežojumiem tiek noteikti šādi aprobežojumi:
-1) aizliegts būvēt jaunas dzīvojamās mājas vai esošās ēkas rekonstruēt par dzīvojamām mājām;
-2) aizliegts būvēt jaunas nedzīvojamās ēkas vai esošās ēkas rekonstruēt par nedzīvojamām ēkām, izņemot satiksmes un sakaru iestāžu ēkas un rūpnieciskās ražošanas ēkas un noliktavas, kuru būve rakstveidā saskaņota ar ogļūdeņražu ieguves vietu, naftas, naftas produktu un bīstamu ķīmisko vielu un produktu, cauruļvadu, tilpņu, krātuvju, pārstrādes un pārkraušanas uzņēmumu īpašnieku;
-3) aizliegts būvēt jaunas sporta un atpūtas būves vai esošās ēkas rekonstruēt par sporta un atpūtas būvēm;
+1) aizliegts būvēt jaunas dzīvojamās mājas vai esošās ēkas pārbūvēt par dzīvojamām mājām;
+2) aizliegts būvēt jaunas nedzīvojamās ēkas vai esošās ēkas pārbūvēt par nedzīvojamām ēkām, izņemot satiksmes un sakaru iestāžu ēkas un rūpnieciskās ražošanas ēkas un noliktavas, kuru būve rakstveidā saskaņota ar ogļūdeņražu ieguves vietu, naftas, naftas produktu un bīstamu ķīmisko vielu un produktu, cauruļvadu, tilpņu, krātuvju, pārstrādes un pārkraušanas uzņēmumu īpašnieku;
+3) aizliegts būvēt jaunas sporta un atpūtas būves vai esošās ēkas pārbūvēt par sporta un atpūtas būvēm;
 4) aizliegts atvērt izglītības iestādes, ierīkot spēļu laukumus un atpūtas zonas;
 5) aizliegts rīkot publiskus pasākumus;
 6) pilsētās un ciemos aizliegts drošības aizsargjoslās iekārtot sabiedrisko transportlīdzekļu pieturvietas;
 7) ja nav noslēgta rakstveida vienošanās ar ogļūdeņražu ieguves vietu, naftas, naftas produktu un bīstamu ķīmisko vielu un produktu, cauruļvadu, tilpņu, krātuvju, pārstrādes vai pārkraušanas uzņēmumu īpašnieku, aizliegts izvietot degvielas uzpildes stacijas, bīstamu ķīmisko vielu un produktu, kokmateriālu, uzliesmojošu, viegli un īpaši viegli uzliesmojošu vielu, produktu un materiālu glabātavas.
+(4) Drošības aizsargjoslās ap ogļūdeņražu izpētes un ieguves vietām jūrā (Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā) aizliegts kuģot, izņemot gadījumus:
+1) kad kuģošana saistīta ar zemūdens kabeļa vai cauruļvada ierīkošanu, kontroli, testēšanu, remontu, apkopi, maiņu, atjaunošanu vai demontāžu šajā aizsargjoslā vai tās tuvumā;
+2) kad kuģošana saistīta ar pakalpojumu sniegšanu jebkurai šajā aizsargjoslā esošai iekārtai, ar personas vai preces transportēšanu uz šo iekārtu vai no tās;
+3) kad jebkuras iekārtas vai savienotas infrastruktūras tiek kontrolētas saskaņā ar nozari reglamentējošiem normatīvajiem aktiem;
+4) kas saistīti ar dzīvības vai īpašuma glābšanu vai glābšanas mēģinājumu;
+5) kad ir nelabvēlīgi laikapstākļi;
+6) kad ir briesmu situācija;
+7) kad ir saņemta normatīvajos aktos noteiktās atbildīgās institūcijas piekrišana.

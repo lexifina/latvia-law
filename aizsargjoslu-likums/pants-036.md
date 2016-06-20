@@ -7,10 +7,10 @@
 5) apdzīvotās vietās, lai saglabātu piekrastei raksturīgu kultūrvēsturisko ainavu, vietējā pašvaldība teritorijas plānojumā var iekļaut papildu arhitektūras prasības jaunajai būvniecībai.
 (2) Krasta kāpu aizsargjoslā un pludmalē papildus šā panta pirmajā daļā minētajiem aprobežojumiem aizliegts celt jaunas ēkas un būves un paplašināt esošās, izņemot gadījumus, kad:
 1) saskaņojot ar attiecīgo Valsts vides dienesta reģionālo vides pārvaldi un atbilstoši vietējās pašvaldības teritorijas plānojumam tiek:
-a) renovētas vai restaurētas esošās ēkas un būves;
+a) atjaunotas vai restaurētas esošās ēkas un būves;
 b) būvētas palīgēkas pie esošajām dzīvojamām ēkām vai būvēm;
-c) rekonstruētas esošās ēkas vai būves, nepārsniedzot esošo būvapjomu, bet, rekonstruējot esošās dzīvojamās ēkas, kuru platība ir mazāka par 150 kvadrāmetriem, to kopējā platība pēc rekonstrukcijas nedrīkst pārsniegt 150 kvadrātmetrus;
-2) tiek attīstīta osta vai attīstīti un rekonstruēti esošie zvejniecības un zivju pārstrādes uzņēmumi;
+c) pārbūvētas esošās ēkas vai būves, nepārsniedzot esošo būvapjomu, bet, pārbūvējot esošās dzīvojamās ēkas, kuru platība ir mazāka par 150 kvadrāmetriem, to kopējā platība pēc pārbūves nedrīkst pārsniegt 150 kvadrātmetrus;
+2) tiek attīstīta osta vai attīstīti un pārbūvēti esošie zvejniecības un zivju pārstrādes uzņēmumi;
 3) ēku un būvju celtniecība vai paplašināšana ir paredzēta vietējās pašvaldības teritorijas plānojumā un notiek pilsētas teritorijā un šīs darbības ir saskaņotas ar attiecīgo Valsts vides dienesta reģionālo vides pārvaldi;
 4) ēku un būvju celtniecība vai paplašināšana notiek šā likuma 67.pantā noteiktajā kārtībā apstiprinātajās un vietējās pašvaldības teritorijas plānojumā noteiktajās ciema robežās vietās, kur bijusi iepriekšējā apbūve, minētās darbības ir paredzētas vietējās pašvaldības teritorijas plānojumā un saskaņotas ar attiecīgo Valsts vides dienesta reģionālo vides pārvaldi;
 5) tiek veikta krastu nostiprināšana esošo būvju un infrastruktūras aizsardzībai;

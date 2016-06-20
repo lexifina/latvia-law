@@ -1,10 +1,10 @@
 58.² pants. Aprobežojumi aizsargjoslās ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem, ap gāzes regulēšanas stacijām, gāzes regulēšanas punktiem, gāzes mērīšanas stacijām, dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām
 (1) Drošības aizsargjoslās ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem, ap gāzes regulēšanas stacijām, gāzes regulēšanas punktiem, gāzes mērīšanas stacijām, dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām tiek noteikti šādi aprobežojumi:
-1) aizliegts būvēt jaunas ēkas vai rekonstruēt nedzīvojamās ēkas par dzīvojamām ēkām, kā arī - ja nav noslēgta rakstveida vienošanās ar gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju īpašnieku - rekonstruēt esošās ēkas;
-2) aizliegts būvēt vai atvērt jaunas sporta, izglītības un atpūtas būves vai iestādes vai esošās ēkas rekonstruēt par sporta, izglītības un atpūtas būvēm vai iestādēm;
+1) aizliegts būvēt jaunas ēkas vai pārbūvēt nedzīvojamās ēkas par dzīvojamām ēkām, kā arī - ja nav noslēgta rakstveida vienošanās ar gāzesvadu, gāzapgādes iekārtu un būvju, gāzes noliktavu un krātuvju īpašnieku - pārbūvēt esošās ēkas;
+2) aizliegts būvēt vai atvērt jaunas sporta, izglītības un atpūtas būves vai iestādes vai esošās ēkas pārbūvēt par sporta, izglītības un atpūtas būvēm vai iestādēm;
 3) aizliegts ierīkot spēļu laukumus un atpūtas zonas;
 4) aizliegts rīkot publiskus pasākumus;
 5) (izslēgts ar 14.05.2009. likumu);
-6) aizliegts izvietot degvielas uzpildes stacijas;
+6) (izslēgts ar 19.05.2016. likumu);
 7) aizliegts veikt citus darbus (vai darbības), kas traucē nodrošināt vides un cilvēku drošību gāzesvadu, gāzes regulēšanas staciju, gāzes regulēšanas punktu, dabasgāzes kompresoru staciju, gāzes krātuvju, sašķidrinātās ogļūdeņražu gāzes noliktavu, krātuvju un uzpildes staciju, sašķidrinātās ogļūdeņražu gāzes balonu noliktavu un tirdzniecības punktu vai automobiļu gāzes uzpildes staciju ekspluatācijas laikā un iespējamo avāriju gadījumā.
 (2) Gāzesvada īpašnieks kopā ar autoceļa pārvaldītāju nodrošina transportlīdzekļu apstāšanās aizliegumu drošības aizsargjoslās gar gāzesvadu ar spiedienu virs 1,6 megapaskāliem.

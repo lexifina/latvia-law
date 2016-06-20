@@ -12,13 +12,14 @@ b) virs 0,6 megapaskāliem - 15 metru attālumā;
 2) ap dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas virsmas ārpus šo objektu būvju ārsienām, iežogojuma vai norobežojošām konstrukcijām:
 a) ap dabasgāzes kompresoru stacijām - 450 metru attālumā no būves ārsienas vai kompresoru stacijas iekārtām,
 b) ap dabasgāzes savākšanas punktiem - 300 metru attālumā,
-c) ap sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām - 100 metru attālumā,
+c) ap sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un ar tām saistītajām uzpildes stacijām, kuras paredzētas sašķidrinātās ogļūdeņražu gāzes iekraušanai gāzes pārvadāšanas transportlīdzekļos (autocisternās, dzelzceļa cisternās vai kuģos) un izkraušanai no šiem transportlīdzekļiem, - 100 metru attālumā,
 d) ap sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem - 10 metru attālumā, ja viena gāzes balona tilpums nav lielāks par 50 litriem, lielākiem gāzes baloniem - 25 metru attālumā,
 e) ap automobiļu dabasgāzes uzpildes kompresoru stacijām (AGUKS) ar gāzes uzkrāšanas spiedtvertņu kopējo saspiestās gāzes apjomu virs 500 m³ - 50 metru attālumā no iežogojuma;
 f) ap dabasgāzes krātuvju urbumiem ārpus gāzes uzglabāšanas zonas un urbumiem, kuri nav savienoti ar dabasgāzes uzglabāšanas kolektorslāni, - 100 metru attālumā no urbuma,
 g) ap dabasgāzes krātuvju urbumiem, kuri atrodas dabasgāzes uzglabāšanas zonā un ir savienoti ar kolektorslāni, - 300 metru attālumā no urbuma,
-h) ap dabasgāzes uzpildes stacijām ar gāzes uzkrāšanas spiedtvertņu kopējo saspiestās gāzes apjomu līdz 500 m³, ja viena gāzes balona tilpums nav lielāks par 180 litriem, - 25 metru attālumā.
-(2¹) Aizsargjosla ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem un gāzes regulēšanas un mērīšanas stacijām, ja šie gāzesvadi un šīs stacijas izbūvētas vai rekonstruētas pēc 2002.gada 1.septembra, tiek noteikta ar būvprojekta aprēķinu, bet ne mazāk kā:
+h) ap dabasgāzes uzpildes stacijām ar gāzes uzkrāšanas spiedtvertņu kopējo saspiestās gāzes apjomu līdz 500 m³, ja viena gāzes balona tilpums nav lielāks par 180 litriem, - 25 metru attālumā,
+i) ap automobiļu gāzes uzpildes stacijām - 25 metru attālumā no tvertnēm un uzpildes iekārtām.
+(2¹) Aizsargjosla ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem un gāzes regulēšanas un mērīšanas stacijām, ja šie gāzesvadi un šīs stacijas izbūvētas vai pārbūvētas pēc 2002.gada 1.septembra, tiek noteikta ar būvprojekta aprēķinu, bet ne mazāk kā:
 1) 25 metri no gāzesvada ass - ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem;
 2) 100 metri - ap gāzes regulēšanas un mērīšanas stacijām.
 (3) Metodikas projektu, pēc kuras nosaka drošības aizsargjoslas ap gāzesvadiem ar spiedienu virs 1,6 megapaskāliem, ap gāzes regulēšanas stacijām, gāzes regulēšanas punktiem, gāzes mērīšanas stacijām, dabasgāzes kompresoru stacijām, dabasgāzes savākšanas punktiem, gāzes krātuvju urbumiem, sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām, izstrādā Ekonomikas ministrija pēc saskaņošanas ar Valsts ugunsdzēsības un glābšanas dienestu un Vides aizsardzības un reģionālās attīstības ministriju.

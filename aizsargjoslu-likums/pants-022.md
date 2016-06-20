@@ -19,9 +19,9 @@ h) ap automobiļu dabasgāzes uzpildes kompresoru stacijām (AGUKS) - 10 metru a
 i) ap pretkorozijas elektroķīmiskās aizsardzības iekārtu anodu zemējumiem - 4 metru attālumā no zemējuma kontūras;
 4) ap gāzes noliktavām un krātuvēm - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas virsmas ārpus šo objektu būvju ārsienām, iežogojuma vai norobežojošām konstrukcijām:
 a) ap gāzes krātuvju urbumiem- 50 metru attālumā no urbuma,
-b) ap sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām - 100 metru attālumā,
+b) ap sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un ar tām saistītajām uzpildes stacijām, kuras paredzētas sašķidrinātās ogļūdeņražu gāzes iekraušanai gāzes pārvadāšanas transportlīdzekļos (autocisternās vai dzelzceļa cisternās) un izkraušanai no šiem transportlīdzekļiem, - 100 metru attālumā,
 c) ap gāzes balonu grupu iekārtām - 10 metru attālumā,
-d) ap automobiļu gāzes uzpildes stacijām (AGUS) - 10 metru attālumā,
-e) ap sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem - 10 metru attālumā,
-f) ap sašķidrinātās ogļūdeņražu gāzes pazemes cisternu (rezervuāru) grupu iekārtām - 10 metru attālumā.
+d) (izslēgts ar 19.05.2016. likumu),
+e) (izslēgts ar 19.05.2016. likumu),
+f) ap sašķidrinātās ogļūdeņražu gāzes pazemes cisternu (rezervuāru) grupu iekārtām, izņemot automobiļu gāzes uzpildes staciju tvertnes, - 10 metru attālumā.
 (3) Metodikas projektu, pēc kuras nosaka ekspluatācijas aizsargjoslas ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm, izstrādā Ekonomikas ministrija pēc saskaņošanas ar Valsts ugunsdzēsības un glābšanas dienestu.
