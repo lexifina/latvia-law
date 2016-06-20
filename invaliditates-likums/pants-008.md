@@ -1,5 +1,5 @@
 8.pants. Prognozējamas invaliditātes un invaliditātes ekspertīze
-(1) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic Valsts komisijas ārsti eksperti, kuri ieguvuši ārsta eksperta sertifikātu. Ārsti eksperti ekspertīzes veikšanā ir neatkarīgi.
+(1) Personas funkcionēšanas ierobežojumu izvērtē sertificēti Valsts komisijas ārsti. Valsts komisijas ārsti funkcionēšanas ierobežojuma izvērtēšanā ir neatkarīgi.
 (2) Pamatojoties uz personas funkcionēšanas ierobežojuma izvērtējumu, Valsts komisijas amatpersona izdod administratīvo aktu, ar kuru nosaka:
 1) invaliditāti, ja personas funkcionēšanas ierobežojuma pakāpe atbilst invaliditātes noteikšanas kritērijiem, - uz noteiktu termiņu (no sešiem mēnešiem līdz pieciem gadiem, bet personai, kura līdz invaliditātes ekspertīzes veikšanas dienai nav sasniegusi 18 gadu vecumu, arī līdz dienai, kad tā sasniedz 18 gadu vecumu) vai bez atkārtota ekspertīzes termiņa (uz mūžu);
 2) prognozējamu invaliditāti, ja personas funkcionēšanas ierobežojuma pakāpe atbilst prognozējamas invaliditātes noteikšanas kritērijiem un paredzams, ka bez ārstniecības, rehabilitācijas un sociālo pakalpojumu saņemšanas tā palielināsies un atbildīs invaliditātes noteikšanas kritērijiem, - uz noteiktu termiņu (no sešiem mēnešiem līdz vienam gadam);
