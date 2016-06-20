@@ -1,0 +1,1 @@
+16. Maksājumu pakalpojumu un elektroniskās naudas iestādes par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas prasību izpildi atbildīgo personu atbilstību šā likuma 20. un 21.panta prasībām nodrošina līdz 2017.gada 1.janvārim.
