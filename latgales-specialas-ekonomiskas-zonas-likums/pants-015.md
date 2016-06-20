@@ -1,0 +1,2 @@
+15.pants. Latgales speciālās ekonomiskās zonas teritoriju statusa izmaiņu ietekme uz Latgales speciālās ekonomiskās zonas kapitālsabiedrībām
+Latgales speciālās ekonomiskās zonas teritoriju statusa izmaiņas neietekmē tiesības par veiktajiem ieguldījumiem saņemt tiešo nodokļu atvieglojumus normatīvajos aktos par nodokļu piemērošanu brīvostās un speciālajās ekonomiskajās zonās noteiktajā kārtībā tai Latgales speciālās ekonomiskās zonas kapitālsabiedrībai, kurai ar Latgales speciālās ekonomiskās zonas pārvaldi ir noslēgts līgums par ieguldījumu veikšanu.

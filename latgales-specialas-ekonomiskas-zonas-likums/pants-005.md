@@ -1,0 +1,4 @@
+5.pants. Ieguldījumi un komercdarbība Latgales speciālajā ekonomiskajā zonā
+(1) Latgales speciālās ekonomiskās zonas kapitālsabiedrības ir kapitālsabiedrības, kas veic komercdarbību Latgales speciālās ekonomiskās zonas teritorijā un ir noslēgušas līgumu ar Latgales speciālās ekonomiskās zonas pārvaldi par ieguldījumu veikšanu attiecīgajā teritorijā. Latgales speciālās ekonomiskās zonas kapitālsabiedrības ir tiesīgas pretendēt uz tiešo nodokļu atvieglojumiem un netiešo nodokļu piemērošanu normatīvajos aktos par nodokļu piemērošanu brīvostās un speciālajās ekonomiskajās zonās noteiktajā kārtībā.
+(2) Komercdarbību Latgales speciālajā ekonomiskajā zonā veic Latgales speciālās ekonomiskās zonas kapitālsabiedrības un citi komersanti.
+(3) Latgales speciālās ekonomiskās zonas kapitālsabiedrības nodrošina Latgales speciālās ekonomiskās zonas teritorijā ievesto, ražoto un no šīs teritorijas izvedamo preču kontroli.
