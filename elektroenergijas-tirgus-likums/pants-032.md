@@ -2,7 +2,7 @@
 (1) Ar elektroenerģijas tirdzniecību var nodarboties:
 1) elektroenerģijas ražotājs, kas šajā likumā noteiktajā kārtībā reģistrēts elektroenerģijas ražotāju reģistrā;
 2) sadales sistēmas operators, kura sadales tīkliem pieslēgti mazāk par simt tūkstošiem lietotāju, ja ir ievērotas šā likuma 19.panta prasības;
-3) elektroenerģijas tirgotājs, kas šajā likumā noteiktajā kārtībā reģistrēts elektroenerģijas tirgotāju reģistrā;
+3) elektroenerģijas tirgotājs, kas šajā likumā noteiktajā kārtībā reģistrēts elektroenerģijas tirgotāju reģistrā un agregators, kas šajā likumā noteiktajā kārtībā reģistrēts agregatoru reģistrā;
 4) publiskais tirgotājs.
 (2) (Izslēgta ar 17.12.2014. likumu)
 (3) Elektroenerģijas tirgotāji un šā panta pirmās daļas 2.punktā minētie sadales sistēmas operatori savos mājsaimniecību lietotājiem izteiktajos tirdzniecības pakalpojuma piedāvājumos iekļauj universālā pakalpojuma piedāvājumu. Tā nosacījumus un izteikšanas veidu nosaka Ministru kabinets.

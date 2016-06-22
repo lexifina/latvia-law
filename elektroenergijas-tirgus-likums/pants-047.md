@@ -1,5 +1,5 @@
 47.pants. Administratīvās lietas process
-(1) Ja regulators konstatē, ka sistēmas operators, elektroenerģijas sistēmas īpašnieks, elektroenerģijas ražotājs, elektroenerģijas tirgotājs vai tirgus dalībnieks neievēro šā likuma prasības, regulators var pieņemt vienu vai vairākus no šādiem lēmumiem:
+(1) Ja regulators konstatē, ka sistēmas operators, elektroenerģijas sistēmas īpašnieks, elektroenerģijas ražotājs, elektroenerģijas tirgotājs, agregators vai tirgus dalībnieks neievēro šā likuma prasības, regulators var pieņemt vienu vai vairākus no šādiem lēmumiem:
 1) uzlikt pienākumu noteiktā termiņā nodrošināt attiecīgo šā likuma prasību ievērošanu;
 2) izteikt brīdinājumu;
 3) uzlikt šā likuma 41., 42., 43., 44., 45. vai 46.pantā minēto soda naudu.

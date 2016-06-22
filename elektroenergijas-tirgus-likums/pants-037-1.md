@@ -1,4 +1,4 @@
 37.¹ pants. Elektroenerģijas tirgus operators
-(1) Elektroenerģijas tirgus operators ir juridiskā persona, kas organizē elektroenerģijas biržu, kurā tās dalībnieki pērk un pārdod elektroenerģiju, un nodrošina tās pašas dienas un nākamās dienas elektroenerģijas tirgu savienošanu ar citas Eiropas Savienības dalībvalsts elektroenerģijas tirgu, ar kuras elektroenerģijas sistēmu ir starpvalstu savienojums.
+(1) (Izslēgta ar 19.05.2016. likumu)
 (2) Elektroenerģijas tirgus operatoru apstiprina, atsauc un tā darbību uzrauga Regulators, ievērojot Eiropas Komisijas īstenošanas aktus, kas pieņemti, papildinot Eiropas Parlamenta un Padomes regulu (EK) Nr. 714/2009 par nosacījumiem attiecībā uz piekļuvi tīklam elektroenerģijas pārrobežu tirdzniecībā un par Regulas (EK) Nr. 1228/2003 atcelšanu.
 (3) Regulators savu funkciju veikšanai ir tiesīgs pieprasīt tam nepieciešamo informāciju no elektroenerģijas tirgus operatora.

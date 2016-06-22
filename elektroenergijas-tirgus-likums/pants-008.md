@@ -8,6 +8,6 @@
 4) šā likuma 9.panta otrajā daļā noteikto sistēmas dalībnieku pieslēguma noteikumu izpildi;
 5) (izslēgts ar 10.10.2013. likumu).
 (4) Regulators pārrauga pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka līgumiskās attiecības, ko pārvades sistēmas operators un elektroenerģijas sistēmas īpašnieks nodibina šajā likumā noteikto pienākumu izpildei. Regulators kā ārpustiesas instance likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā izšķir pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka strīdus.
-(5) Regulators ir tiesīgs veikt pārbaudes (arī bez iepriekšēja paziņojuma) pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka telpās.
+(5) Regulators ir tiesīgs veikt pārbaudes (arī bez iepriekšēja paziņojuma) pārvades sistēmas operatora un elektroenerģijas sistēmas īpašnieka telpās, lai uzraudzītu, kā tiek pildītas likumā "Par sabiedrisko pakalpojumu regulatoriem", šajā likumā un enerģētikas nozares speciālajos normatīvajos aktos noteiktās prasības.
 (6) Pārvades sistēmas operators un elektroenerģijas sistēmas īpašnieks sniedz regulatoram tā pieprasīto informāciju par šajā likumā noteikto pienākumu izpildi regulatora noteiktajā laikā un kārtībā.
 (7) (Izslēgta ar 10.10.2013. likumu)

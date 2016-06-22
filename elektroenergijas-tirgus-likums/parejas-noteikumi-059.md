@@ -1,0 +1,1 @@
+59. Ministru kabinets līdz 2017.gada 1.septembrim izdod grozījumus Ministru kabineta 2009.gada 27.oktobra noteikumos Nr.1227 "Noteikumi par regulējamiem sabiedrisko pakalpojumu veidiem" par pieprasījuma reakcijas pakalpojumu iekļaušanu regulējamo sabiedrisko pakalpojumu veidos.
