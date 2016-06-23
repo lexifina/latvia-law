@@ -4,7 +4,7 @@
 2) dziļuma mērīšana un vispārīgie hidrogrāfiskie pētījumi Latvijas ūdeņos kartogrāfijas un citām tautsaimniecības vajadzībām;
 3) dziļuma mērīšana padziļināšanas darbu plānošanai, veikšanai un kontrolei;
 4) nogrimušu objektu meklēšana;
-5) straumju, ūdenslīmeņa svārstību, grunts nogulumu un zemes magnētisma datu ievākšana un sistematizēšana;
+5) (izslēgts ar 23.06.2016. likumu);
 6) krasta, hidrotehnisko un hidrogrāfisko būvju ģeodēziskie pētījumi;
 7) hidrogrāfiskie darbi, kas saistīti ar jūras izmantošanu valsts institūciju vajadzībām;
 8) hidrogrāfisko mērījumu un pētījumu datu bāzes veidošana un uzturēšana.

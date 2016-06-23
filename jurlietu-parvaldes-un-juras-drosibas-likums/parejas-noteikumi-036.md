@@ -1,0 +1,1 @@
+36. Grozījums šā likuma 6.pantā par tā pirmās daļas papildināšanu ar 7.¹ punktu un grozījums 11.pantā par tā papildināšanu ar vienpadsmito daļu stājas spēkā 2017.gada 1.janvārī. Līdz šo grozījumu spēkā stāšanās dienai Ministru kabinets izdod tiem atbilstošus noteikumus.

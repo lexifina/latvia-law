@@ -26,10 +26,11 @@ e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu
 17) publicē un izplata navigācijas brīdinājumus un paziņojumus, kā arī veic kuģošanas drošības informācijas analīzes un izziņošanas nacionālā koordinatora pienākumus;
 18) no kuģošanas drošības viedokļa saskaņo kravu operācijas no kuģa uz kuģi Latvijas ūdeņos;
 19) no kuģošanas drošības viedokļa saskaņo Latvijas ūdeņos nogrimušas mantas izcelšanu;
-20) no kuģošanas drošības viedokļa saskaņo ostu hidrotehnisko būvju un kuģu ceļu projektus un piedalās projektu pieņemšanas komisijas darbā;
+20) no kuģošanas drošības viedokļa saskaņo ostu hidrotehnisko, siltumenerģijas, gāzes un citu, atsevišķi neklasificētu inženierbūvju būvprojekta dokumentāciju (tai skaitā paskaidrojuma rakstu un būvprojektu minimālā sastāvā), ja būvniecība paredzēta ostas teritorijā, un sniedz atzinumu par inženierbūves gatavību ekspluatācijai, ja tā atrodas ostas teritorijā;
 20¹) no kuģošanas drošības viedokļa atbilstoši Jūras vides aizsardzības un pārvaldības likumam izvērtē atbildīgās ministrijas sagatavoto Ministru kabineta rīkojuma projektu par konkrētas jūras teritorijas (atļaujas vai licences laukuma jūrā) noteikšanu, lai Latvijas jūras ūdeņos ierīkotu elektronisko sakaru tīklu jūras kabeļlīniju, elektronisko tīklu kabeļlīniju, zemūdens elektropārvades kabeļlīniju un zemūdens cauruļvadu, tai skaitā gāzesvadu, naftas un naftas produktu cauruļvadu;
 20²) no kuģošanas drošības viedokļa saskaņo būvju (mākslīgo salu, būvju un iekārtu, tai skaitā platformu un enerģijas ražošanai nepieciešamo iekārtu) būvniecību Latvijas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, kā tas noteikts atbilstoši Jūras vides aizsardzības un pārvaldības likumam un Būvniecības likumam;
 21) no kuģošanas drošības un kuģu, ostu un ostas iekārtu aizsardzības viedokļa saskaņo ostu noteikumus un kontrolē to ievērošanu;
+21¹) no kuģošanas drošības viedokļa ostās kontrolē, kā tiek ievēroti normatīvajos aktos noteiktie pienākumi par konteineru drošu ekspluatāciju un apriti ostās un normatīvajos aktos noteiktās prasības par konteineru verificēto bruto masu;
 22) koordinē un sadarbībā ar citām kompetentajām iestādēm veic kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasību ieviešanu un uzraudzību;
 23) sertificē atzītās aizsardzības organizācijas un uzrauga to darbību;
 24) apstiprina kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības personāla apmācības programmu atbilstību kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasībām;
@@ -45,6 +46,7 @@ e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu
 34) atzīst ārstus, kuri ir tiesīgi sniegt atzinumu par jūrnieku veselības stāvokļa atbilstību darbam uz kuģa atbilstoši STCW konvencijā noteiktajām prasībām (turpmāk - jūrnieku ārsts);
 35) piedalās Starptautiskās Jūrniecības organizācijas, Helsinku komisijas, Starptautiskās Hidrogrāfijas organizācijas, Starptautiskās Darba organizācijas un citu starptautisko organizāciju darbā;
 36) sagatavo priekšlikumus normatīvo aktu projektu izstrādei.
+(1¹) Personai ir pienākums sniegt informāciju, tai skaitā atbildi uz Latvijas Jūras administrācijas pieprasījumu Latvijas Jūras administrācijas norādītajā termiņā jautājumos, kas saistīti ar šā panta pirmajā daļā noteiktās Latvijas Jūras administrācijas kompetences nodrošināšanu.
 (2) Ministru kabinets izdod noteikumus, kuros nosaka Latvijas Jūras administrācijas valsts pārvaldes uzdevumu ietvaros sniegto maksas pakalpojumu cenrādi un tā piemērošanas kārtību, kā arī to personu loku, kuras atbrīvojamas no samaksas par Latvijas Jūras administrācijas valsts pārvaldes uzdevumu ietvaros sniegtajiem maksas pakalpojumiem.
 (3) Lai veiktu šā panta pirmajā daļā minētās funkcijas, Latvijas Jūras administrācija nodrošina Jūrnieku reģistra, Kuģu reģistra, Kuģošanas drošības inspekcijas un Kuģu un ostu aizsardzības inspekcijas, kā arī Hidrogrāfijas dienesta darbību.
 (3¹) Šā panta pirmajā daļā minēto funkciju īstenošanai pieņemtos Latvijas Jūras administrācijas lēmumus var apstrīdēt un pārsūdzēt šādā kārtībā:

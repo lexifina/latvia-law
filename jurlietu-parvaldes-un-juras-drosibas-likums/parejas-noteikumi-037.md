@@ -1,0 +1,1 @@
+37. Grozījums šā likuma 19.pantā par tā ceturtās daļas papildināšanu ar teikumu stājas spēkā 2017.gada 1.janvārī. Līdz šā grozījuma spēkā stāšanās dienai Ministru kabinets izdod tam atbilstošus noteikumus.
