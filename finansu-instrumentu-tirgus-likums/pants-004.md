@@ -10,7 +10,7 @@
 4¹) izslēgt pārvedamus vērtspapīrus no regulētā tirgus;
 5) pieprasīt, lai nekavējoties tiek pārtraukta būtisku līdzdalību ieguvušo personu ietekme regulētā tirgus organizētājā, Latvijas Centrālajā depozitārijā vai ieguldījumu brokeru sabiedrībā;
 6) pieprasīt regulētā tirgus organizētāja, Latvijas Centrālā depozitārija vai ieguldījumu brokeru sabiedrības valdes vai padomes, vai kāda valdes vai padomes locekļa atsaukšanu;
-7) aizliegt izmantot balsstiesības;
+7) aizliegt izmantot balsstiesības personai, kas ieguvusi būtisku līdzdalību regulētā tirgus organizētājā, Latvijas Centrālajā depozitārijā vai ieguldījumu brokeru sabiedrībā, pārkāpjot šā likuma normas;
 8) noteikt ieguldījumu brokeru sabiedrībai pienākumu uzturēt tādas pašu kapitāla prasības, kas pārsniedz Regulas Nr. 575/2013 92.pantā paredzētās minimālās pašu kapitāla prasības;
 9) uzlikt par pienākumu ieguldījumu brokeru sabiedrībai pārskatīt procedūras, lai pastiprinātu pasākumus, kurus tā ieviesusi šā likuma 123.¹ panta un 124.panta pirmās daļas 11.punkta prasību īstenošanai;
 10) pieprasīt ieguldījumu brokeru sabiedrībai, lai tā piemēro speciālu uzkrājumu politiku vai aktīvu atzīšanas politiku saistībā ar pašu kapitālu;

@@ -1,0 +1,1 @@
+55. Šā likuma grozījumi attiecībā uz 59., 85., 86., 86.¹, 87., 88., 88.¹, 89. un 91.panta izslēgšanu, 84. un 90.pants, kas izteikts jaunā redakcijā, kā arī grozījumi 148.pantā attiecībā uz trešās un septītās daļas izslēgšanu, ceturtā daļa, kas izteikta jaunā redakcijā, un 148.panta sešpadsmitā un septiņpadsmitā daļa stājas spēkā 2016.gada 3.jūlijā.

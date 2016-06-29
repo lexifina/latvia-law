@@ -3,3 +3,4 @@
 (2) Informācijai, kas jebkādā veidā sniegta par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, jāatbilst tai informācijai, kas ietverta prospektā.
 (3) Reklāmā norāda to, ka prospekts ir vai tiks publicēts, kur un kad var iegūt prospektu. Reklāmai ir jābūt skaidri un nepārprotami atpazīstamai kā reklāmai.
 (4) Visai informācijai, kas attiecas uz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū un kas, pat ja ne reklāmas nolūkā, izziņota mutvārdos vai rakstveidā, jāatbilst tai informācijai, kas ietverta prospektā.
+(5) Regulētajā tirgū iekļaujamo pārvedamu vērtspapīru reklāmai un šā panta ceturtajā daļā minētajai informācijai piemēro šā likuma 24.panta piektajā daļā minēto tieši piemērojamo Eiropas Savienības tiesību aktu prasības attiecībā uz emisijas prospektiem.

@@ -2,7 +2,7 @@
 (1) Ieguldījumu brokeru sabiedrība ir tiesīga turēt klienta naudas līdzekļus, kas izmantojami tikai ar finanšu instrumentiem veicamo klienta darījumu nodrošināšanai, saskaņā ar klienta un ieguldījumu brokeru sabiedrības rakstveida līgumu.
 (2) Klientu naudas līdzekļus ieguldījumu brokeru sabiedrība tur šķirti no saviem naudas līdzekļiem:
 1) dalībvalsts centrālajā bankā, ja tā sniedz ieguldījumu brokeru sabiedrībām vai kredītiestādēm šādu pakalpojumu;
-2) Latvijas Republikā reģistrētā bankā vai dalībvalstī reģistrētā kredītiestādē, vai ārvalstī reģistrētā bankā;
+2) Latvijas Republikā reģistrētā kredītiestādē vai dalībvalstī reģistrētā kredītiestādē, vai ārvalstī reģistrētā kredītiestādē;
 3) naudas tirgus fondā, kas atbilst šā panta piektajā daļā minētajām prasībām.
 (3) Ieguldījumu brokeru sabiedrība ir tiesīga turēt klienta naudas līdzekļus naudas tirgus fondā tikai ar klienta iepriekšēju piekrišanu.
 (4) Ieguldījumu brokeru sabiedrība, pieņemot lēmumu par kredītiestādi vai fondu, kurā turēt klientam piederošos naudas līdzekļus, ar pienācīgu prasmi un rūpību izvērtē šīs kredītiestādes vai fonda kompetenci un reputāciju finanšu tirgū, kā arī attiecīgajā valstī spēkā esošās prasības vai tiesu praksi attiecībā uz klientu naudas līdzekļu turēšanu, kas varētu nelabvēlīgi ietekmēt klienta intereses. Ieguldījumu brokeru sabiedrība un kredītiestāde reizi gadā atkārtoti izvērtē izraudzītās kredītiestādes kompetenci un klienta naudas līdzekļu turēšanas nosacījumus.

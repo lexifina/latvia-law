@@ -1,0 +1,12 @@
+61.² pants. Paziņošanas kārtība un paziņojuma saturs
+(1) Persona paziņo akciju sabiedrībai un vienlaikus arī Komisijai, iesniedzot attiecīgu paziņojumu (turpmāk šajā nodaļā - paziņojums), kad tās balsstiesību īpatsvars akciju iegūšanas, atsavināšanas, pamatkapitāla palielināšanas vai samazināšanas vai kādu citu notikumu rezultātā sasniedz, pārsniedz vai kļūst mazāks par šā likuma 61.panta pirmajā vai otrajā daļā noteikto balsstiesību īpatsvaru.
+(2) Ja paziņojums tiek sniegts saskaņā ar šā likuma 60.panta pirmās daļas 4.punkta prasībām un finanšu instrumenta bāzes aktīvs ietver vairāku akciju sabiedrību emitētās akcijas (akciju grozs vai indekss), paziņojumu sniedz katrai attiecīgajai akciju sabiedrībai un vienlaikus arī Komisijai.
+(3) Paziņojumā ietver informāciju par:
+1) balsstiesību sadalījumu paziņojuma iesniegšanas dienā skaitliski, procentuāli no pamatkapitāla un no balsstiesīgo akciju skaita pēc to iegūšanas vai atsavināšanas;
+2) komercsabiedrībām, kurās personai ir kontrole un ar kuru starpniecību akcionāram ir balsstiesības;
+3) dienu, kurā šā likuma 61.panta pirmajā vai otrajā daļā noteiktais balsstiesību īpatsvars tika sasniegts vai pārsniegts, vai samazinājās;
+4) akcionāra identitāti, pat ja akcionārs nav tiesīgs izmantot balsstiesības saskaņā ar šā likuma 8.panta noteikumiem, un tās fiziskās vai juridiskās personas identitāti, kura ir tiesīga izmantot balsstiesības akcionāra vārdā.
+(4) Paziņojumā persona atsevišķi norāda balsstiesību īpatsvaru, kas tai izriet no akcijām, par tām emitētiem depozitārajiem sertifikātiem, šā likuma 60.panta pirmās daļas 4.punktā minētajiem finanšu instrumentiem un ko tā iegūs, ja tiks realizētas tiesības, kuras izriet no šā likuma 60.panta pirmās daļas 3.punktā minētajiem finanšu instrumentiem.
+(5) Paziņojumā persona atsevišķi norāda šā likuma 60.panta pirmās daļas 3.punktā minētos finanšu instrumentus, nodalot tos finanšu instrumentus, kuri piešķir tiesības veikt norēķinus naudā, no tiem finanšu instrumentiem, kuri piešķir tiesības iegūt vai atsavināt finanšu instrumentus, veicot norēķinus ar finanšu instrumentiem.
+(6) Ja paziņojums jau tika sniegts šā likuma 60.panta pirmās daļas 3.punktā minēto finanšu instrumentu iegūšanas gadījumā, persona atkārtoti sniedz paziņojumu, ja tā ir iegādājusies pamatakcijas tādā daudzumā, ka iegādes rezultātā šīs personas balsstiesību īpatsvars viena emitenta pamatkapitālā sasniedz vai pārsniedz šā likuma 61.panta pirmajā vai otrajā daļā noteikto balsstiesību īpatsvaru.
+(7) Paziņojumam izmanto veidlapu, kuru apstiprina Komisijas normatīvie noteikumi.

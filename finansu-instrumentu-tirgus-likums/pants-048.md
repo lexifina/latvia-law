@@ -3,7 +3,7 @@
 1) divus prospekta oriģināleksemplārus un prospekta tekstu elektroniskā veidā;
 2) emitenta pilnvarotas pārvaldes institūcijas lēmumu par attiecīgo pārvedamu vērtspapīru iekļaušanu regulētajā tirgū;
 3) (izslēgts ar 22.03.2012. likumu).
-(1¹) Emitents, kura izcelsmes dalībvalsts ir Latvijas Republika, papildus šā panta pirmajā daļā minētajiem dokumentiem iesniedz noteikumus par iekšējās informācijas turētāju saraksta izveidošanu un uzturēšanu, kā arī kārtību, kādā iekšējās informācijas turētāju sarakstā iekļautās personas drīkst veikt darījumus ar šā emitenta finanšu instrumentiem vai atvasinātajiem preču instrumentiem.
+(1¹) (Izslēgta ar 26.05.2016. likumu)
 (2) Iesniegumā norāda:
 1) emitenta reģistrācijas numuru, vietu un iestādi, firmu, juridisko adresi, tālruņa numuru, kā arī faksa numuru un e-pasta adresi (ja tāda ir);
 2) regulētā tirgū iekļaujamo pārvedamu vērtspapīru veidu, kategoriju, kopējo skaitu un viena pārvedama vērtspapīra nominālvērtību;

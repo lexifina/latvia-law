@@ -1,6 +1,6 @@
 41.pants. Vispārīgās prasības finanšu instrumentu iekļaušanai regulētajos tirgos
 (1) Regulētajos tirgos var iekļaut finanšu instrumentus, kuru atsavināšana nav ierobežota.
-(2) Iekļaujot pārvedamus vērtspapīrus tirdzniecībai regulētajā tirgū, nepieciešams publicēt prospektu, kas sagatavots atbilstoši šīs nodaļas prasībām, un izstrādāt iekšējos noteikumus par emitenta iekšējās informācijas turētāju saraksta izveidošanu un uzturēšanu, kā arī kārtību, kādā emitenta iekšējās informācijas turētāju sarakstā iekļautās personas drīkst veikt darījumus ar šā emitenta finanšu instrumentiem vai atvasinātajiem preču instrumentiem.
+(2) (Izslēgta ar 26.05.2016. likumu)
 (3) Lai pārvedamus vērtspapīrus iekļautu regulētajā tirgū, emitents vai persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, iesniegumam pievieno prospektu, kas sagatavots atbilstoši šā likuma un Eiropas Komisijas regulas Nr. 809/2004 prasībām, kā arī reģistrēts Komisijā.
 (4) Ja regulētajā tirgū paredzēts iekļaut šā likuma 3.panta septītās daļas 2., 4., 9. un 10.punktā minētos pārvedamos vērtspapīrus, emitents vai persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, ir tiesīga brīvprātīgi sagatavot prospektu.
 (5) Prasības citu finanšu instrumentu iekļaušanai regulētajā tirgū nosaka attiecīgais tirgus organizētājs. Prasībām attiecībā uz atvasināto finanšu instrumentu un atvasināto preču instrumentu iekļaušanu regulētajā tirgū jābūt tādām, kas nodrošina, ka atvasinātā instrumenta līguma noteikumi pieļauj precīzu cenas noteikšanu un efektīvu norēķinu nosacījumus.

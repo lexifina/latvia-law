@@ -14,4 +14,4 @@
 3) ieguldījumu fondu pārvaldošās sabiedrības vai alternatīvo ieguldījumu fonda pārvaldnieka firmu un juridisko adresi;
 4) ieguldījumu fonda vai alternatīvo ieguldījumu fonda emitēto ieguldījumu apliecību skaitu, ieguldījumu fonda daļas vērtību (atvērtajam fondam) vai nominālvērtību (slēgtajam fondam) lēmuma pieņemšanas dienā.
 (7) Lēmumā par citā dalībvalstī reģistrēta emitenta pārvedamu vērtspapīru iekļaušanu regulētajā tirgū papildus norāda tās atbildīgās institūcijas vai tirgus organizētāja firmu, juridisko adresi, tālruņa numuru un mājas lapas adresi internetā, kurš pieņēmis lēmumu par prospekta reģistrāciju.
-(8) Lēmumu par finanšu instrumentu iekļaušanu regulētajā tirgū tirgus organizētājs nekavējoties nosūta emitentam vai personai, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, Komisijai un Latvijas Centrālajam depozitārijam.
+(8) Lēmumu par finanšu instrumentu iekļaušanu regulētajā tirgū tirgus organizētājs nekavējoties nosūta emitentam vai personai, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, un Latvijas Centrālajam depozitārijam.

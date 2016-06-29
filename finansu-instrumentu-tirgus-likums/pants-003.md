@@ -7,7 +7,9 @@
 4) Eiropas Parlamenta un Padomes 2009.gada 16.septembra regula (EK) Nr. 1060/2009 par kredītreitingu aģentūrām (turpmāk - Regula Nr. 1060/2009);
 5) Eiropas Parlamenta un Padomes 2012.gada 14.marta regula (EK) Nr. 236/2012 par īso pārdošanu un dažiem kredītriska mijmaiņas darījumu aspektiem (turpmāk - Regula Nr. 236/2012);
 6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012);
-7) Regula Nr. 575/2013.
+7) Regula Nr. 575/2013;
+8) Regula Nr. 596/2014;
+9) Eiropas Parlamenta un Padomes 2014.gada 23.jūlija regula (EK) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/EK un Regulā Nr. 236/2012 (Dokuments attiecas uz EEZ).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem:
 1) pārvedamiem vērtspapīriem;
 2) ieguldījumu fondu un alternatīvo ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
@@ -52,22 +54,22 @@ i) valūtas tirdzniecības darījumiem, kuriem piemīt šā punkta "a" vai "f" a
 3) akcijām dalībvalstu centrālo banku kapitālā;
 4) pārvedamiem vērtspapīriem, ko bez nosacījumiem un neatsaucami garantējusi dalībvalsts vai kāda dalībvalsts pašvaldība vai tās iestāde vai aģentūra;
 5) pārvedamiem vērtspapīriem, ko emitējušas dalībvalsts atzītas asociācijas ar juridisko statusu vai bezpeļņas organizācijas, lai iegūtu nepieciešamos līdzekļus savu bezpeļņas mērķu sasniegšanai;
-6) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ar nosacījumu, ka:
+6) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas kredītiestādes, ar nosacījumu, ka:
 a) šie pārvedamie vērtspapīri nav pakārtoti (subordinēti), konvertējami vai aizvietojami,
 b) šie pārvedamie vērtspapīri nedod tiesības parakstīties uz cita veida pārvedamiem vērtspapīriem vai iegūt tos, un tie nav saistīti ar atvasinātiem finanšu instrumentiem,
 c) šie pārvedamie vērtspapīri realizē atmaksājamu noguldījumu saņemšanu,
 d) uz šiem pārvedamiem vērtspapīriem attiecas dalībvalstu normatīvie akti par noguldījumu garantiju shēmām;
 7) neatvietojamām kapitāla daļām, kuru galvenais mērķis ir nodrošināt to turētājam tajās ietvertās tiesības izmantot dzīvokli vai cita veida nekustamo īpašumu vai tā daļu, turklāt šīs kapitāla daļas nevar pārdot, paturot šajās daļās ietvertās tiesības;
 8) vērtspapīriem, kas iekļauti publiskajā piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu Eiropas Savienībā ir mazāka nekā 5 000 000 euro;
-9) Zviedrijas banku atkārtoti emitētām ķīlu zīmēm bostadsobligationer, kuru galvenais mērķis ir garantēt hipotekāros aizdevumus, ja:
+9) Zviedrijas kredītiestāžu atkārtoti emitētām ķīlu zīmēm bostadsobligationer, kuru galvenais mērķis ir garantēt hipotekāros aizdevumus, ja:
 a) emitētās bostadsobligationer ir no vienas sērijas,
 b) bostadsobligationer ir nepārtraukti emitētas noteiktā emisijas laika posmā,
 c) noteikumi, kas attiecas uz bostadsobligationer, emisijas laika posmā nav mainīti,
 d) summas, kas iegūtas no minēto bostadsobligationer emisijas, saskaņā ar statūtiem tiek iegrāmatotas aktīvos, kas nodrošina pietiekamu segumu no vērtspapīriem izrietošām saistībām;
-10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas bankas, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par publisko piedāvājumu Eiropas Savienībā ir mazāka nekā 75 000 000 euro, ar nosacījumu, ka šie pārvedamie vērtspapīri:
+10) pārvedamiem vērtspapīriem, kas nav kapitāla vērtspapīri un ko nepārtraukti vai atkārtoti emitējušas kredītiestādes, ja par 12 mēnešiem aprēķinātā kopējā iegūstamā summa par publisko piedāvājumu Eiropas Savienībā ir mazāka nekā 75 000 000 euro, ar nosacījumu, ka šie pārvedamie vērtspapīri:
 a) nav pakārtoti (subordinēti), konvertējami vai aizvietojami,
 b) nedod tiesības parakstīties uz cita veida vērtspapīriem vai iegūt tos un tie nav saistīti ar atvasinātiem finanšu instrumentiem.
 (8) Šā likuma 54.panta un D sadaļas III un IV nodaļas prasības neattiecas uz ieguldījumu fondu un atvērto alternatīvo ieguldījumu fondu ieguldījumu apliecībām vai tām pielīdzināmiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos.
-(9) Šā likuma 54.panta trešās, septītās, astotās un devītās daļas prasības neattiecas uz pārvedamiem vērtspapīriem, kuri ir iekļauti regulētajā tirgū un kurus emitējusi dalībvalsts vai dalībvalsts pašvaldība, tās iestāde vai aģentūra.
+(9) Šā likuma 54.panta trešās, astotās un devītās daļas prasības neattiecas uz pārvedamiem vērtspapīriem, kuri ir iekļauti regulētajā tirgū un kurus emitējusi dalībvalsts vai dalībvalsts pašvaldība, tās iestāde vai aģentūra.
 (10) Šā likuma 54.panta pirmās, otrās un devītās daļas prasības neattiecas uz dalībvalstu centrālo banku emitētajām akcijām, kuras ir iekļautas regulētajā tirgū, ja lēmums par akciju iekļaušanu regulētajā tirgū pieņemts līdz 2005.gada 20.janvārim un šādu izņēmumu paredz attiecīgās dalībvalsts normatīvie akti, kas regulē centrālo banku akciju emitēšanas kārtību.
 (11) (Izslēgta ar 11.06.2015. likumu)

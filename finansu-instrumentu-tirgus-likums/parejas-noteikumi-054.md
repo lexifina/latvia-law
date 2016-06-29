@@ -1,0 +1,1 @@
+54. Šā likuma 57.pantu, kas izteikts jaunā redakcijā, un 57.² pantu sāk piemērot emitentu starpperiodu pārskatiem un finanšu informācijai, kas tiek sagatavota par pārskata gadu, kurš sākas 2016.gada 1.jūlijā vai vēlāk.

@@ -10,3 +10,4 @@
 (6) Gadījumā, kad emisijas prospektu veido vairāki dokumenti vai tajā ir iekļauta informācija atsauces veidā, dokumentus un informāciju, kas veido emisijas prospektu, var publicēt atsevišķi, ja minētie dokumenti ir bez maksas darīti pieejami sabiedrībai šā panta ceturtajā daļā noteiktajā kārtībā. Katrā dokumentā norāda, kur var iegūt citus pilnu emisijas prospektu veidojošos dokumentus.
 (7) Emisijas prospekta un emisijas prospekta papildinājumu tekstam, kas publicēts vai darīts pieejams sabiedrībai, un formātam jābūt identiskiem to sākotnējai redakcijai, kas reģistrēta Komisijā.
 (8) Ja emisijas prospektu publicē elektroniskā veidā, emitentam, publiskā piedāvājuma izteicējam vai finanšu starpniekam, kas izvieto vai pārdod pārvedamus vērtspapīrus, prospekts papīra formā bez maksas jāizsniedz ieguldītājam pēc tā pieprasījuma.
+(9) Prasības attiecībā uz emisijas prospekta publicēšanu nosaka tieši piemērojamie Eiropas Savienības tiesību akti par emisijas prospektiem.

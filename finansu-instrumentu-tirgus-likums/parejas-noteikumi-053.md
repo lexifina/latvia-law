@@ -1,0 +1,1 @@
+53. Šā likuma 56.panta trešās daļas prasības, kas attiecināmas uz kapitālsabiedrību, kuras parāda vērtspapīri iekļauti regulētajā tirgū, piemēro kapitālsabiedrības gada pārskatiem, kurus sagatavo par pārskata periodu, kas sākas 2016.gada 1.jūlijā vai vēlāk, ja vien kapitālsabiedrība savus finanšu pārskatus jau nesagatavo saskaņā ar Regulu Nr. 1606/2002.

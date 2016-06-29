@@ -1,0 +1,2 @@
+4.² pants. Tiesības izdot finanšu instrumentu tirgu regulējošos normatīvos noteikumus
+Ņemot vērā Eiropas finanšu uzraudzības sistēmas pārrobežu darbības raksturu, lai nodrošinātu dalībvalstīs vienotu, efektīvu un konstruktīvu uzraudzības praksi un vienveidīgu un konsekventu tieši piemērojamo Eiropas Savienības tiesību aktu piemērošanu, Komisijai ir tiesības noteikt finanšu instrumentu tirgu regulējošās prasības jomās, kas izriet no Eiropas Vērtspapīru un tirgu iestādes pieņemtajām pamatnostādnēm un ieteikumiem.
