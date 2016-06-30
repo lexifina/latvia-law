@@ -22,7 +22,8 @@ b) krāsaino metālu, arī otrreizējai pārstrādei izmantojamo metālu, kausē
 2) iekārtas azbesta ražošanai un azbesta izstrādājumu izgatavošanai;
 3) iekārtas stikla, arī stikla šķiedras, ražošanai, kuru kausēšanas jauda pārsniedz 20 tonnas dienā;
 4) iekārtas nemetālisko minerālu kausēšanai, arī nemetālisko minerālu šķiedras ražošanai, kuru kausēšanas jauda pārsniedz 20 tonnas dienā;
-5) iekārtas apdedzināto māla izstrādājumu, arī jumta kārniņu, ķieģeļu, ugunsizturīgo ķieģeļu, flīžu, krāsns podiņu vai porcelāna, ražošanai, kuru ražošanas jauda pārsniedz 75 tonnas gatavās produkcijas dienā un (vai) kuru apdedzināšanas krāsns tilpums ir lielāks par 4 kubikmetriem un apdedzināšanas krāsnī var ievietot vairāk nekā 300 kilogramus produkcijas uz vienu krāsns kubikmetru.
+5) iekārtas apdedzināto māla izstrādājumu, arī jumta kārniņu, ķieģeļu, ugunsizturīgo ķieģeļu, flīžu, krāsns podiņu vai porcelāna, ražošanai, kuru ražošanas jauda pārsniedz 75 tonnas gatavās produkcijas dienā un (vai) kuru apdedzināšanas krāsns tilpums ir lielāks par 4 kubikmetriem un apdedzināšanas krāsnī var ievietot vairāk nekā 300 kilogramus produkcijas uz vienu krāsns kubikmetru;
+6) iekārtas magnija oksīda ražošanai krāsnīs, kuru ražošanas jauda pārsniedz 50 tonnas dienā.
 (4) Ķīmiskajā rūpniecībā, ievērojot šā pielikuma septītajā daļā minēto nosacījumu:
 1) iekārtas organisko ķīmisko vielu ražošanai, piemēram:
 a) ogļūdeņražu (neciklisko un ciklisko, piesātināto un nepiesātināto, alifātisko vai aromātisko ogļūdeņražu) ražošanai,

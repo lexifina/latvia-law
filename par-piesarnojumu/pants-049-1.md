@@ -1,0 +1,4 @@
+49.¹ pants. Par kompetenču sadalījumu
+(1) Valsts vides dienests pilda Eiropas Parlamenta un Padomes 2013.gada 20.novembra regulā Nr. 1257/2013 par kuģu pārstrādi un ar ko groza regulu Nr. 1013/2006 un direktīvu 2009/16/EK (turpmāk - Regula Nr. 1257/2013) minētos kompetentās iestādes un kontaktpersonas pienākumus.
+(2) Kuģu pārstrādes padome ir konsultatīva institūcija, kura izvērtē Regulā Nr. 1257/2013 minēto kuģu pārstrādes plānu un kuģu pārstrādes rūpnīcu plānu atbilstību šīs regulas prasībām un kuras lēmumiem minētajai regulai atbilstošu kuģu pārstrādes jomā ir ieteikuma raksturs. Ministru kabinets nosaka Kuģu pārstrādes padomē pārstāvētās institūcijas un apstiprina šīs padomes nolikumu.
+(3) Vides aizsardzības un reģionālās attīstības ministrs apstiprina Kuģu pārstrādes padomes personālsastāvu.

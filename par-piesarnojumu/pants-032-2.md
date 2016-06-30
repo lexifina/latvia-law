@@ -1,12 +1,12 @@
 32.² pants. Emisijas kvotu sadale
-(1) Vides aizsardzības un reģionālās attīstības ministrija, izvērtējot arī sabiedrības viedokli un ņemot vērā Eiropas Komisijas apstiprināto iekārtu sarakstu un tā grozījumus, pieņem lēmumu par emisijas kvotu piešķiršanu operatoram, kurš ir saņēmis siltumnīcefekta gāzu emisijas atļauju, ne vēlāk kā divu mēnešu laikā pēc tam, kad saņemts Eiropas Komisijas apstiprinājums par iekārtu sarakstu vai tā grozījumiem. Vides aizsardzības un reģionālās attīstības ministrija pieņem lēmumu par emisijas kvotu piešķiršanu gaisa kuģa operatoram.
+(1) Vides aizsardzības un reģionālās attīstības ministrija, izvērtējot arī sabiedrības viedokli un ņemot vērā Eiropas Komisijas apstiprināto iekārtu sarakstu un tā grozījumus, pieņem lēmumu par emisijas kvotu piešķiršanu operatoram, kurš ir saņēmis siltumnīcefekta gāzu emisijas atļauju, ne vēlāk kā divu mēnešu laikā pēc tam, kad saņemts Eiropas Komisijas apstiprinājums par iekārtu sarakstu vai tā grozījumiem. Vides aizsardzības un reģionālās attīstības ministrija pieņem lēmumu par emisijas kvotu piešķiršanu gaisa kuģa operatoram. Vides aizsardzības un reģionālās attīstības ministrijas lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā izpildi.
 (1¹) Operatoram, kurš ir saņēmis siltumnīcefekta gāzu emisijas atļauju šā likuma 2.pielikumā minētajām piesārņojošām darbībām, un gaisa kuģa operatoram emisijas kvotas piešķir uz šādiem periodiem:
 1) pirmais periods - no 2005.gada 1.janvāra līdz 2007.gada 31.decembrim;
 2) otrais periods - no 2008.gada 1.janvāra līdz 2012.gada 31.decembrim;
 3) trešais periods - no 2013.gada 1.janvāra līdz 2020.gada 31.decembrim;
 4) turpmākie periodi - katri nākamie astoņi kalendārie gadi, sākot ar 2021.gada 1.janvāri.
 (2) Emisijas kvota derīga tā perioda laikā, uz kuru tā izsniegta.
-(3) Līdz 2012.gada 1.janvārim operators saņem emisijas kvotas bez maksas. Sākot ar 2012.gada 1.janvāri, gaisa kuģu operatoriem un, sākot ar 2013.gada 1.janvāri, operatoriem emisijas kvotas, izņemot bez maksas piešķirtās emisijas kvotas, izsola.
+(3) Līdz 2012.gada 1.janvārim operators saņem emisijas kvotas bez maksas. Sākot ar 2012.gada 1.janvāri, gaisa kuģu operatoriem un, sākot ar 2013.gada 1.janvāri, operatoriem emisijas kvotas, izņemot bez maksas piešķirtās emisijas kvotas, izsola. Gaisa kuģu operatoriem tiek izsolīti 15 procenti emisijas kvotu no tā apjoma, kas piešķirams Eiropas Savienības gaisa kuģu operatoriem, ņemot vērā nosacījumus, kuri regulē Eiropas Savienības emisijas kvotu tirdzniecības sistēmas emisijas kvotu izsolīšanas jomu.
 (3¹) Finanšu līdzekļus, kas iegūti, izsolot šā panta trešajā daļā minētās emisijas kvotas (turpmāk - izsoļu ieņēmumi), ieskaita Valsts kasē atvērtajā valsts pamatbudžeta ieņēmumu kontā atbilstoši valsts budžeta ieņēmumu klasifikācijai.
 (3²) Valsts pamatbudžetā kārtējam gadam un ilgtermiņa saistībās turpmākajiem gadiem finansējumu šā panta 4.⁴ daļā minētajiem mērķiem paredz kā dotāciju no vispārējiem ieņēmumiem atsevišķā Vides aizsardzības un reģionālās attīstības ministrijas budžeta programmā (apakšprogrammā) atbilstoši iepriekšējos gados iegūto un neizlietoto izsoļu ieņēmumu apmēram.
 (3³) Šā panta 3.² daļā minētās programmas (apakšprogrammas) izpildītāja ir Vides aizsardzības un reģionālās attīstības ministrija.
@@ -15,7 +15,7 @@
 (4²) (Izslēgta ar 31.01.2013. likumu)
 (4³) (Izslēgta ar 31.01.2013. likumu)
 (4⁴) Izsoļu ieņēmumus izmanto, lai mazinātu klimata pārmaiņas un nodrošinātu pielāgošanos klimata pārmaiņām, tai skaitā:
-1) siltumnīcefekta gāzu emisijas samazināšanai vai ierobežošanai enerģētikas, rūpniecības, transporta, lauksaimniecības un atkritumu apsaimniekošanas nozarēs, arī tādu projektu un finanšu instrumentu finansēšanai, kuru mērķis ir:
+1) siltumnīcefekta gāzu emisijas samazināšanai vai ierobežošanai enerģētikas, rūpniecības, transporta, lauksaimniecības, mežsaimniecības un atkritumu apsaimniekošanas nozarēs, arī tādu projektu un finanšu instrumentu finansēšanai, kuru mērķis ir:
 a) paaugstināt ēku vai tehnoloģisko iekārtu un transportlīdzekļu energoefektivitāti,
 b) paplašināt atjaunojamo energoresursu izmantošanu,
 c) veicināt pielāgošanos klimata pārmaiņām nacionālā un reģionālā mērogā, tai skaitā tādu projektu finansēšanai, kuros paredzēta pilotpasākumu īstenošana ekstremālo laikapstākļu negatīvās ietekmes mazināšanai un novēršanai;

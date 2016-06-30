@@ -1,0 +1,1 @@
+Eiropas Savienības emisijas kvotu tirdzniecības sistēmā iekļautās piesārņojošās darbības

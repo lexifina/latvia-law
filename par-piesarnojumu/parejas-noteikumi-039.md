@@ -1,0 +1,1 @@
+39. Regulas Nr. 421/2014 1.panta 1.punktā minētajā periodā - no 2013.gada 1.janvāra līdz 2016.gada 31.decembrim - šā likuma 45.panta pirmajā daļā noteikto pienākumu regulāri kontrolēt emisiju apjomu, veikt monitoringu un sniegt informāciju (iesniegt monitoringa plānus) nepilda tāds gaisa kuģa operators, kurš veic tikai šo pārejas noteikumu 38.punktā minētos lidojumus.

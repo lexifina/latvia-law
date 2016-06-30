@@ -16,3 +16,4 @@
 (1³) Valsts vides dienests četru mēnešu laikā pēc pārbaudes veikšanas ievieto savā tīmekļa vietnē ziņojumu par iekārtu pārbaudes rezultātiem.
 (2) Trokšņa robežlielumu ievērošanu kontrolē Veselības inspekcija, kā arī attiecīgās pašvaldības institūcijas, kurām pašvaldība ir deleģējusi minēto funkciju.
 (3) Šajā likumā un uz šā likuma pamata izdotajos Ministru kabineta noteikumos gaisa kuģu operatoriem noteikto prasību izpildi kontrolē Civilās aviācijas aģentūra.
+(4) Ja gaisa kuģa operators nepilda šajā likumā un citos normatīvajos aktos noteiktos pienākumus, Civilās aviācijas aģentūra var iesniegt Eiropas Komisijai lūgumu pieņemt lēmumu par attiecīgā gaisa kuģa operatora darbības aizliegumu. Ja Eiropas Komisija ir pieņēmusi lēmumus pēc Latvijas vai kādas citas Eiropas Savienības dalībvalsts lūguma, Civilās aviācijas aģentūra informē Eiropas Komisiju par visiem pasākumiem, kas veikti, lai izpildītu šādus lēmumus.

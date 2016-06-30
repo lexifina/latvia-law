@@ -13,3 +13,6 @@
 10) prasības, kas noteiktas ķīmiskās vielas saturošām iekārtām un produktiem.
 (2) Šis likums attiecas arī uz Ministru kabineta noteiktajiem mobilajiem piesārņojuma avotiem.
 (3) Darbības ar radioaktīvajām vielām, radioaktīvajiem atkritumiem, jonizējošā starojuma avotiem un ģenētiski modificētiem organismiem regulē citi normatīvie akti.
+(4) Šis likums paredz nosacījumus:
+1) siltumnīcefekta gāzu emisiju samazināšanai no citiem siltumnīcefekta gāzu emisiju avotiem un šajā likumā minēto siltumnīcefekta gāzu emisiju samazināšanas saistību izpildei;
+2) oglekļa dioksīda piesaistei no šā likuma 4.pielikuma II daļā minētajām zemes izmantošanas, zemes izmantošanas maiņas un mežsaimniecības darbībām un šajā likumā minēto saistību izpildei attiecībā uz oglekļa dioksīda piesaisti.
