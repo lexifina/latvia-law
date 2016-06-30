@@ -1,0 +1,1 @@
+3.pants. Konvencija stājas spēkā tās 16.pantā noteiktajā laikā un kārtībā, Līgums stājas spēkā vienlaikus ar Konvencijas spēkā stāšanos, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".

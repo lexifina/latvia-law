@@ -1,0 +1,1 @@
+1.pants. 1960.gada 14.decembra Konvencija par Ekonomiskās sadarbības un attīstības organizāciju (turpmāk - Konvencija) un 2016.gada 2.jūnijā Parīzē parakstītais Līgums par Latvijas Republikas pievienošanās Konvencijai par Ekonomiskās sadarbības un attīstības organizāciju nosacījumiem (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
