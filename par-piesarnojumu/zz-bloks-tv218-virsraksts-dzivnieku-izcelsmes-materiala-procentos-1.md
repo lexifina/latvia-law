@@ -1,2 +1,2 @@
 Likuma "Par piesārņojumu"
-3.pielikums
+4.pielikums
