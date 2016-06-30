@@ -1,0 +1,1 @@
+1.pants. 2015.gada 21.decembrī parakstītais Padziļināts partnerības un sadarbības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kazahstānas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
