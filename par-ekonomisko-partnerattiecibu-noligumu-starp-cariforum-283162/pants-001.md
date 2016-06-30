@@ -1,0 +1,1 @@
+1.pants. 2008.gada 15.oktobrī Bridžtaunā, Barbadosā, parakstītais Ekonomisko partnerattiecību nolīgums starp CARIFORUM valstīm, no vienas puses, un Eiropas Kopienu un tās dalībvalstīm, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
