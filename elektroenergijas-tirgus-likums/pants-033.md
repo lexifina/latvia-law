@@ -6,3 +6,5 @@
 3) maksāt garantēto maksu par uzstādīto elektrisko jaudu šā likuma 28.¹ un 29.¹ pantā noteiktajā kārtībā;
 4) veikt atbalsta maksājumus šā likuma 30.² pantā noteiktajā kārtībā.
 (3) Publiskais tirgotājs, vienojoties ar ražotāju par elektroenerģijas cenu, var iepirkt elektroenerģiju no ražotāja, kas to pārdod šā likuma 28., 29. un 30.pantā noteiktajā kārtībā, ja elektroenerģija ražotāja elektrostacijā vai koģenerācijas stacijā saražota virs ražotājam obligātā iepirkuma ietvaros piešķirtā elektroenerģijas iepirkuma apjoma kalendāra gadā.
+(4) Publiskais tirgotājs maksā valsts nodevu par sabiedrisko pakalpojumu regulēšanu likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā.
+(5) Publiskais tirgotājs maksā valsts nodevu par sabiedrisko pakalpojumu regulēšanu no iepriekšējā kalendāra gada galalietotāju maksājumiem, kuri kompensē publiskajam tirgotājam šā likuma 28.panta piektajā daļā, 28.¹ panta ceturtajā daļā, 29.¹ panta ceturtajā daļā, 30.panta trešajā daļā un pārejas noteikumu 53.punktā noteiktās izmaksas.
