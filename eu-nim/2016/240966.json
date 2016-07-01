@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Grozījumi Pievienotās vērtības nodokļa likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-22",
+  "entry_into_force": "2016-07-01",
+  "notification_date": "2016-09-28",
+  "commission_reference": "MNE(2016)55982",
+  "nim_celex": "72006L0112LVA_240966",
+  "nim_id": "240966",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/791e5a51-34b2-4915-a083-7eddac925ba2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
