@@ -1,0 +1,1 @@
+65. Kredītiestādes par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas prasību izpildi atbildīgo personu atbilstību šā likuma 24. un 25.panta prasībām nodrošina līdz 2017.gada 1.janvārim.
