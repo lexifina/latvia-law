@@ -13,7 +13,8 @@ b) cigāri vai cigarillas - 900 cigārus vai cigarillas,
 c) smēķējamā tabaka vai tabakas lapas, vai karsējamā tabaka - 500 gramus;
 3) naftas produkti - 40 litrus;
 4) bezalkoholiskie dzērieni - 500 litrus;
-5) kafija - 20 kilogramus.
+5) kafija - 20 kilogramus;
+6) elektroniskajās cigaretēs izmantojamais šķidrums - 200 mililitrus.
 (6) (Izslēgta ar 08.11.2007. likumu)
 (7) Ja persona veic jebkuras darbības ar akcīzes precēm neatkarīgi no to izcelsmes, neievērojot šā likuma noteikumus (tajā skaitā veic akcīzes preču nedeklarētu vai citādu ievešanu valstī, neievērojot normatīvajos aktos noteikto ievešanas kārtību vai neizpildot attiecīgās muitas procedūras, veic akcīzes preču nereģistrētu vai citādu ražošanu, neievērojot normatīvajos aktos noteikto kārtību, kādā atļauts ražot akcīzes preces, veic jebkuras citas darbības ar akcīzes precēm, par kurām nav samaksāts nodoklis vai nav iesniegts šajā likumā noteiktais nodrošinājums vai kuras nav marķētas ar akcīzes nodokļa markām saskaņā ar šo likumu), Valsts ieņēmumu dienests bezstrīda kārtībā piedzen valsts budžetā atbilstoši šajā likumā noteiktajām nodokļa likmēm nesamaksātās nodokļa summas, kā arī nokavējuma naudu un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām".
 (8) Ja Valsts ieņēmumu dienests, pārbaudot attiecīgās personas darbības ar akcīzes precēm, konstatē akcīzes preču pārpalikumu, kas nav norādīts šīs personas grāmatvedības reģistros, un tā nevar pierādīt, kā pārpalikums radies, vai nevar pierādīt, ka nodoklis par konstatēto pārpalikumu ir samaksāts, uzskata, ka attiecīgā persona ir saražojusi, iegādājusies vai veikusi citas darbības ar akcīzes precēm, par kurām nav samaksāts nodoklis, un no šīs personas piedzen nesamaksātā nodokļa summu, kā arī nokavējuma naudu un soda naudu saskaņā ar likumu "Par nodokļiem un nodevām".
