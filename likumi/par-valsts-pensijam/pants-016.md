@@ -12,7 +12,7 @@ ASi
 x Vi x 0,1
 ASie
 P - pensija,
-Vi - apdrošinātās personas vidējā apdrošināšanas iemaksu alga par jebkuriem 36 mēnešiem pēc kārtas (neatkarīgi no tā, cik ilgs bijis pārtraukums darbā) pēdējo piecu gadu laikā pirms invaliditātes pensijas piešķiršanas. Mēneši, kuros invaliditātes pensijas pieprasītājs nostrādājis nepilnu darba dienu skaitu, invaliditātes pensijas aprēķināšanai ņemami vērā kā pilni darba mēneši. Ja piecu gadu laikā pirms invaliditātes pensijas piešķiršanas ir nostrādāts mazāk par 36 mēnešiem, vidējā apdrošināšanas iemaksu alga aprēķināma par faktiski nostrādātajiem darba mēnešiem,
+Vi - apdrošinātās personas vidējā apdrošināšanas iemaksu alga par jebkuriem 36 mēnešiem pēc kārtas (neatkarīgi no tā, cik ilgs bijis pārtraukums darbā) pēdējo piecu gadu laikā pirms invaliditātes pensijas piešķiršanas. Mēneši, kuros invaliditātes pensijas pieprasītājs nostrādājis nepilnu darba dienu skaitu, invaliditātes pensijas aprēķināšanai ņemami vērā kā pilni darba mēneši. Ja piecu gadu laikā pirms invaliditātes pensijas piešķiršanas ir nostrādāts mazāk par 36 mēnešiem, vidējā apdrošināšanas iemaksu alga aprēķināma par mēnešiem, kuros veiktas vai bija jāveic apdrošināšanas iemaksas invaliditātes apdrošināšanai,
 ASi - apdrošinātās personas individuālais apdrošināšanas stāžs,
 ASie - maksimāli iespējamais apdrošināšanas stāžs no likumā "Par valsts sociālo apdrošināšanu" noteiktā vecuma sasniegšanas līdz šā likuma 11. panta pirmajā daļā noteiktā vecuma sasniegšanai;
 2) III grupas invaliditātes gadījumā - valsts sociālā nodrošinājuma pabalsta līmenī.
