@@ -18,7 +18,7 @@ e) klīniski diagnostiskos laboratorijas pakalpojumus, ko nodrošina citās ārs
 7) zobu tehniķu un zobu higiēnistu sniegtos pakalpojumus pacientam;
 8) kooperatīvo sabiedrību sniegtos pakalpojumus šo kooperatīvo sabiedrību biedriem, ja šāds atbrīvojums nerada konkurences izkropļojumu:
 a) lauksaimniecības pakalpojumu kooperatīvo sabiedrību biedriem - ražojumu pārstrādei un realizācijai, kā arī lauksaimniecības un zivsaimniecības tehnikas, mašīnu, iekārtu un citu darbarīku kopīgai lietošanai un apkopei,
-b) dzīvokļu īpašnieku kooperatīvo sabiedrību biedriem - dzīvojamo māju uzturēšanai un pārvaldīšanai,
+b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu),
 c) automašīnu garāžu īpašnieku kooperatīvo sabiedrību biedriem,
 d) laivu garāžu īpašnieku kooperatīvo sabiedrību biedriem,
 e) dārzkopības kooperatīvo sabiedrību biedriem;
@@ -50,7 +50,7 @@ e) pakalpojumus (ieskaitot starpniecību), kas attiecas uz ieguldījumiem kapit�
 24) nekustamā īpašuma pārdošanu, izņemot nelietota nekustamā īpašuma pārdošanu un apbūves zemes pārdošanu;
 25) šādus iedzīvotājiem sniegtos pakalpojumus:
 a) dzīvojamo telpu īri (izņemot viesu izmitināšanas pakalpojumus viesu izmitināšanas mītnēs - viesnīcās, moteļos, viesu mājās, lauku tūrismam izmantojamās mājās, kempingos, tūristu mītnēs),
-b) dzīvojamās mājas pārvaldīšanas pakalpojumu saskaņā ar pārvaldīšanas līgumā iekļautajiem maksājumiem.
+b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu).
 (2) Atbrīvojumu no nodokļa šā panta pirmās daļas 17.punktā minētajiem pakalpojumiem piemēro arī personas, kas nav publiskas personas, ja, sniedzot šos pakalpojumus, sistemātiski netiek gūta peļņa. Ja peļņa tiek gūta, atbrīvojumu piemēro gadījumos, kad gūto peļņu novirza vai iegulda šo pakalpojumu sniegšanas pilnveidošanai.
 (3) Ar nodokli neapliek preču piegādi, ja reģistrēts nodokļa maksātājs par attiecīgajām precēm nav atskaitījis priekšnodokli un preces tika iegādātas vai izmantotas šā panta pirmajā daļā minēto darījumu nodrošināšanai vai valsts pārvaldes uzdevumu veikšanai.
 (3¹) Ar nodokli neapliek preču piegādes, par kuru iegādi vai izmantošanu reģistrēts nodokļa maksātājs nav atskaitījis priekšnodokli, jo tās tika paredzētas citiem mērķiem, nevis ar nodokli apliekamo darījumu nodrošināšanai (tai skaitā par luksusa precēm, precēm reģistrēta nodokļa maksātāja, tā personāla vai citu personu privātajām vajadzībām un izklaidei).
@@ -74,4 +74,4 @@ b) dzīvojamās mājas pārvaldīšanas pakalpojumu saskaņā ar pārvaldīšana
 5) finanšu darījumiem;
 6) azartspēlēm, izlozēm un loterijām;
 7) nekustamā īpašuma piegādei;
-8) iedzīvotājiem sniegto dzīvojamo telpu īres un dzīvojamās mājas pārvaldīšanas pakalpojumiem.
+8) iedzīvotājiem sniegto dzīvojamo telpu īres pakalpojumiem.
