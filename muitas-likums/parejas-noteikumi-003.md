@@ -1,0 +1,1 @@
+3. Nomas līgumi, kas noslēgti saskaņā ar Ministru kabineta 2010.gada 21.decembra noteikumiem Nr.1154 "Noteikumi par kārtību, kādā tiek iznomāta vieta komercdarbībai valsts nekustamajā īpašumā muitas kontroles punkta teritorijā, un nomas līguma tipveida nosacījumiem", ir spēkā līdz minētajos līgumos norādītā termiņa beigām.

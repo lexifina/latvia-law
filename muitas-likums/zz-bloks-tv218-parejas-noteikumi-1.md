@@ -1,0 +1,2 @@
+Muitas likuma
+pielikums

@@ -1,0 +1,5 @@
+7. Līdz šā likuma 28.panta ceturtās daļas spēkā stāšanās dienai, piemērojot šā panta pirmās daļas ievaddaļā minētos normatīvos aktus muitas jomā, par maznozīmīgu muitas vai nodokļu noteikumu pārkāpumu tiek uzskatīti šādi pārkāpumi:
+1) pārkāpums, kas nepārsniedz attiecīgi šā panta pirmās daļas 1. vai 3.punktā minētās robežvērtības un pieļauts divas reizes novērtēšanas perioda laikā (attiecīgi - 12 mēneši par šā panta pirmās daļas 1.punktā minētajiem pārkāpumiem un trīs gadi par šā panta pirmās daļas 3.punktā minētajiem pārkāpumiem);
+2) pārkāpums, kuru persona pati pirms Valsts ieņēmumu dienesta veiktās pārbaudes ir atklājusi un nekavējoties par to informējusi Valsts ieņēmumu dienestu, veicot nepieciešamos pasākumus šā pārkāpuma seku novēršanai;
+3) jebkādas gadījuma rakstura kļūdas, kuras persona, aizpildot muitas deklarāciju, pieļāvusi vienu reizi, ar nosacījumu, ka minēto kļūdu dēļ nav ietekmēta samaksātā vai maksājamā muitas maksājuma parāda aprēķina pareizība;
+4) muitas procedūras piemērošanas pārkāpums, ja šāda pārkāpuma dēļ netiek būtiski ietekmēta muitas procedūras izpilde.

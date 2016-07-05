@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Muitas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 9.nr.; 2005, 13.nr.; 2006, 24.nr.; 2008, 14.nr.; Latvijas Vēstnesis, 2010, 99.nr.; 2011, 88.nr.; 2013, 187.nr.; 2014, 123.nr.).

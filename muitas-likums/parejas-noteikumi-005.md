@@ -1,0 +1,1 @@
+5. Ja muitas nodokļa parāds radies līdz 2016.gada 30.aprīlim (ieskaitot), muitas nodokļa nokavējuma naudu aprēķina saskaņā ar noteikumiem un nosacījumiem, kuri ietverti regulas Nr. 952/2013 114.pantā.
