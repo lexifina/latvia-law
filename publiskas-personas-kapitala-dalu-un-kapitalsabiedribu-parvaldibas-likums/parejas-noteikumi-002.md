@@ -6,6 +6,6 @@ b) nosaka kārtību, kādā tiek izpildīti šā likuma 27.panta nosacījumi (š
 c) nosaka kārtību, kādā tiek izpildīti šā likuma 28.panta nosacījumi (šā likuma 28.panta sestā daļa),
 d) apstiprina publiskas personas kapitālsabiedrības tipveida statūtus (šā likuma 46.panta otrā daļa),
 e) nosaka kapitālsabiedrības valdes un padomes locekļu skaita noteikšanai nepieciešamos sabiedrības lielumu raksturojošos rādītājus (šā likuma 79.panta pirmā daļa, 106.panta trešā daļa, 114.panta pirmā daļa),
-f) nosaka kārtību, kādā tiek pārdotas kapitalizācijas rezultātā izveidojušās kapitāla daļas (šā likuma 145.panta trešā un piektā daļa);
+f) (izslēgts ar 16.06.2016. likumu);
 g) nosaka atskaitījumu apmēru, ko saņem valsts kapitālsabiedrība kā atsavināšanu veicošā institūcija no valsts kapitāla daļu pārdošanā gūtajiem ieņēmumiem (šā likuma 143.panta trešā daļa);
 3) līdz 2015.gada 1.septembrim apstiprina šā likuma 24.panta trešajā daļā minēto koordinācijas institūcijas padomes nolikumu un personālsastāvu.
