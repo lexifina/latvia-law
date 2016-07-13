@@ -3,7 +3,7 @@
 1) Valsts prezidents;
 2) Saeimas deputāts;
 3) Ministru prezidents, Ministru prezidenta biedrs, ministrs, īpašu uzdevumu ministrs, parlamentārais sekretārs;
-4) Valsts prezidenta kancelejas vadītājs un viņa vietnieks, Saeimas Kancelejas direktors un viņa vietnieks;
+4) Valsts prezidenta kancelejas vadītājs un viņa vietnieks, Saeimas Administrācijas ģenerālsekretārs;
 5) Valsts prezidenta padomnieks, Ministru prezidenta, Ministru prezidenta biedra, ministra, īpašu uzdevumu ministra biroja vadītājs, padomnieks, konsultants un palīgs;
 6) Latvijas Bankas prezidents, viņa vietnieks un Latvijas Bankas padomes loceklis;
 7) valsts kontrolieris, Valsts kontroles padomes loceklis, Valsts kontroles revīzijas departamenta sektora vadītājs;
@@ -41,6 +41,7 @@
 1) pilda uzraudzības, kontroles vai sodīšanas funkcijas attiecībā uz personām, kuras nav to tiešā vai netiešā pakļautībā;
 2) pieņem lēmumu par iesniegto projektu vai projekta iesniegumu;
 3) pieņem tādu lēmumu, kas skar piešķirtā finanšu atbalsta izlietojumu.
-(2³) Par valsts amatpersonām uzskatāmas arī personas, kuras ieņem ostu valdes priekšsēdētāja, ostas pārvaldnieka vai ostas valdes locekļa amatu. Privātajās ostās nodarbinātās personas uzskatāmas par valsts amatpersonām tikai tad, ja to paredz šā panta trešā daļa.
+(2³) Par valsts amatpersonām uzskatāmas arī personas, kuras ieņem ostas valdes priekšsēdētāja, ostas pārvaldnieka, ostas valdes locekļa amatu, Liepājas speciālās ekonomiskās zonas valdes priekšsēdētāja, valdes locekļa vai pārvaldnieka amatu. Privātajās ostās nodarbinātās personas uzskatāmas par valsts amatpersonām tikai tad, ja to paredz šā panta trešā daļa.
 (3) Par valsts amatpersonām uzskatāmas arī personas, kuras pilda amata pienākumus ārpus publiskas personas institūcijām, ja tām saskaņā ar normatīvajiem aktiem pastāvīgi vai uz laiku valsts vai pašvaldība ir deleģējusi kādu no šā panta otrajā daļā minētajām funkcijām.
 (4) Tādas kapitālsabiedrības valdes loceklis, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam, un tāds šādas kapitālsabiedrības padomes loceklis, kurš pārstāv publiskas personas kapitālsabiedrības intereses, nav uzskatāms par valsts amatpersonu, ja attiecīgā kapitālsabiedrība reģistrēta ārvalstī. Interešu konflikta novēršanu šo kapitālsabiedrību valdes vai padomes locekļu darbībā normatīvajos aktos un statūtos noteiktajā kārtībā un apjomā nodrošina publiskas personas kapitālsabiedrība, kurai ārvalstī reģistrētajā kapitālsabiedrībā pieder kapitāla daļas.
+(5) Par valsts amatpersonu uzskatāma arī persona, kura uz laiku pilda citas valsts amatpersonas amata pienākumus. Attiecībā uz šādu valsts amatpersonu piemērojami tie likumā paredzētie noteikumi, kuri attiecas uz valsts amatpersonu, kuras amata pienākumus tā pilda.

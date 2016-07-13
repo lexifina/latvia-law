@@ -1,0 +1,1 @@
+27. Tiem Liepājas speciālās ekonomiskās zonas valdes locekļiem, kurus pēc Liepājas pilsētas domes deleģējuma vai ieteikuma saskaņā ar Liepājas speciālās ekonomiskās zonas likumu līdz 2016.gada 30.aprīlim amatā apstiprinājis Ministru kabinets, amatu savienošanas atļaujas izsniedz Liepājas pilsētas dome.
