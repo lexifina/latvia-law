@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 5. jūlija noteikumi Nr. 440 \"Kārtība, kādā sniedz un apstrādā informāciju par tabakas izstrādājumiem, augu smēķēšanas produktiem, elektroniskajām cigaretēm un to uzpildes flakoniem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-12",
+  "entry_into_force": "2016-07-13",
+  "notification_date": "2016-07-19",
+  "commission_reference": "MNE(2016)54943",
+  "nim_celex": "72014L0040LVA_239509",
+  "nim_id": "239509",
+  "transposes_celex": [
+    "32014L0040"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d9353729-ff48-4e2f-806b-fb00e7e4cbff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
