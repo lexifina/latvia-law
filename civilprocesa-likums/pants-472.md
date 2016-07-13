@@ -4,4 +4,4 @@
 (3) Izskatot lietu paplašinātā sastāvā, spriedumu taisa ar balsu vairākumu un to paraksta visi tiesneši.
 (4) Pēc tiesnešu apspriedes tiesa atgriežas sēžu zālē un sēdes priekšsēdētājs pasludina spriedumu, nolasot tā rezolutīvo daļu, un paziņo, kad lietas dalībnieki var iepazīties ar pilnu sprieduma tekstu.
 (5) Tiesnesis, kuram, lietu izskatot Augstākās tiesas paplašinātajā sastāvā, bijis atšķirīgs viedoklis par likuma tulkojumu vai likuma piemērošanu, 15 dienu laikā pēc sprieduma pilna teksta sastādīšanas ir tiesīgs rakstveidā izteikt savas atsevišķās domas, kas pievienojamas lietai.
-(6) Ja tiesneši atzīst, ka šajā tiesas sēdē nav iespējams taisīt spriedumu, Augstākā tiesa nosaka nākamo tiesas sēdi, kura notiks tuvāko 14 dienu laikā un kurā tas paziņos spriedumu.
+(6) Ja tiesneši atzīst, ka šajā tiesas sēdē nav iespējams taisīt spriedumu, Augstākā tiesa nosaka nākamo tiesas sēdi, kura notiks tuvāko 14 dienu laikā un kurā tā paziņos spriedumu.

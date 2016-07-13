@@ -3,6 +3,7 @@
 (2) Ja kaut viens no tiesnešiem uzskata, ka lieta izskatāma kasācijas instancē, tiesnešu kolēģija pieņem lēmumu par kasācijas tiesvedības ierosināšanu. Lēmumā nosaka lietas izskatīšanu rakstveida procesā vai izskatīšanu tiesas sēdē.
 (3) Ja tiesnešu kolēģija vienbalsīgi atzīst, ka kasācijas tiesvedības ierosināšana ir atsakāma, tā ar savu rīcības sēdes lēmumu atsakās ierosināt kasācijas tiesvedību.
 (4) Ar tiesnešu kolēģijas vienbalsīgu lēmumu lietu var nodot izskatīšanai kasācijas kārtībā Augstākās tiesas paplašinātā sastāvā.
-(4¹) Šā panta otrajā, trešajā un ceturtajā daļā minēto lēmumu var sastādīt rezolūcijas veidā, ievērojot šā likuma 229.panta otrajā daļā noteikto.
+(4¹) Šā panta otrajā, trešajā, ceturtajā un septītajā daļā minēto lēmumu var sastādīt rezolūcijas veidā, ievērojot šā likuma 229.panta otrajā daļā noteikto.
 (5) Ja kasācijas tiesvedība tiek ierosināta, pēc puses lūguma tiesnešu kolēģija var pieņemt lēmumu par sprieduma izpildes apturēšanu līdz lietas izskatīšanai kasācijas kārtībā.
 (6) Augstākās tiesas rīcības sēdē tiesnešu kolēģija var izlemt arī jautājumu par atteikumu pieņemt iesniegto blakus sūdzību un citus procesuālos jautājumus, kuru izlemšanai nav nepieciešama tiesas sēde, kā arī pieņemt lēmumu uzdot Eiropas Savienības Tiesai jautājumu prejudiciāla nolēmuma pieņemšanai vai iesniegt Satversmes tiesai pieteikumu par tiesību normu atbilstību Satversmei vai starptautisko tiesību normai (aktam).
+(7) Ja tiesnešu kolēģijai nav acīmredzama pamata uzskatīt, ka, izskatot blakus sūdzību, pārsūdzētais lēmums tiks pilnīgi vai kādā tā daļā atcelts vai grozīts, tā Augstākās tiesas rīcības sēdē ar vienbalsīgu lēmumu var atteikties pieņemt blakus sūdzību. Šādā gadījumā samaksāto valsts nodevu par blakus sūdzību neatmaksā.

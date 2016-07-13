@@ -1,4 +1,4 @@
-460.pants. Apelācijas instances tiesas rīcība pēc kasācijas sūdzības saņemšanas
-(1) Apelācijas instances tiesas tiesnesis nosūta pārējiem lietas dalībniekiem kasācijas sūdzības norakstus un paziņo, ka viņiem 30 dienu laikā no norakstu nosūtīšanas dienas ir tiesības iesniegt Augstākajai tiesai paskaidrojumus sakarā ar kasācijas sūdzību.
+460.pants. Tiesas rīcība pēc kasācijas sūdzības saņemšanas
+(1) Apelācijas instances tiesas tiesnesis vai šā likuma 450.panta pirmajā daļā minētajā gadījumā - pirmās instances tiesas tiesnesis, nosūta pārējiem lietas dalībniekiem kasācijas sūdzības norakstus un paziņo, ka viņiem 30 dienu laikā no norakstu nosūtīšanas dienas ir tiesības iesniegt Augstākajai tiesai paskaidrojumus sakarā ar kasācijas sūdzību.
 (1¹) Ja kasācijas sūdzības noraksts nosūtīts lietas dalībniekam saskaņā ar šā likuma 56.² pantu, termiņu paskaidrojuma iesniegšanai skaita no dienas, kad kasācijas sūdzības noraksts izsniegts lietas dalībniekam.
-(2) Izbeidzoties sprieduma pārsūdzēšanas termiņam, apelācijas instances tiesa civillietu kopā ar kasācijas sūdzību nekavējoties nosūta Augstākajai tiesai.
+(2) Izbeidzoties sprieduma pārsūdzēšanas termiņam, tiesa civillietu kopā ar kasācijas sūdzību nekavējoties nosūta Augstākajai tiesai.

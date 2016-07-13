@@ -1,0 +1,1 @@
+116. Tiesa, kas līdz 2016.gada 1.augustam uzsākusi izskatīt pieteikumus par lietas jaunu izskatīšanu sakarā ar jaunatklātiem apstākļiem, pabeidz to izskatīšanu. Par to pieteikumu izskatīšanu, kuri nodoti izskatīšanai Augstākās tiesas Civillietu tiesu palātā, izlemj saskaņā ar šo pārejas noteikumu 109.punktu.
