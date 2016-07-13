@@ -33,3 +33,10 @@ Par soda izciešanas režīma pārkāpumiem atklātajos cietumos notiesātajiem 
 4) (izslēgts ar 11.11.2004. likumu).
 Šā panta pirmās daļas 1.¹ punktā paredzēto sodu piemēro tikai par brīvības atņemšanas iestādes iekšējās kārtības noteikumos minētās personiskā televizora vai radiouztvērēja (bez balss ieraksta iespējām) lietošanas kārtības pārkāpšanu.
 Ja pastaigas laikā tiek pārkāpti brīvības atņemšanas iestādes iekšējās kārtības noteikumos minētie pastaigu kārtības nosacījumi, pastaiga tiek pārtraukta un notiesātajam piemēro sodu par soda izciešanas režīma pārkāpšanu.
+Par soda izciešanas režīma prasību pārkāpšanu notiesātajiem, kas iesaistīti atkarību mazināšanas programmā, var uzlikt šādus sodus:
+1) izteikt brīdinājumu;
+2) izteikt rājienu;
+3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus un tabakas izstrādājumus brīvības atņemšanas iestādes veikalā;
+4) aizliegt kārtējo radinieku un citu personu apmeklējumu;
+5) ievietot soda izolatorā līdz 15 diennaktīm vai disciplinārajā izolatorā līdz 10 diennaktīm;
+6) atcelt iepriekš piešķirto pamudinājumu.

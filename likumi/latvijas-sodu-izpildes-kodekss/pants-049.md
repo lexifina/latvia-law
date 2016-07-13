@@ -9,3 +9,4 @@ Notiesātajiem adresētās un viņu adresātiem nosūtāmās vēstules un telegr
 Aizturētās vēstules un telegrammas reģistrē un uzglabā iestādes darbinieks, kuram uzdots cenzēt saraksti.
 Notiesātajiem ir atļautas telefonsarunas par saviem vai adresāta līdzekļiem tādā skaitā, kāds noteikts attiecīgā veida brīvības atņemšanas iestādē un atbilst soda izciešanas režīma pakāpei.
 Telefonsarunas, izņemot telefonsarunas ar advokātu, tiek kontrolētas.
+Šā panta piektajā daļā noteiktās tiesības neattiecas uz notiesātajiem, kas iesaistīti atkarību mazināšanas programmā. Notiesātie, kas iesaistīti atkarību mazināšanas programmā, var veikt telefonsarunas par saviem vai adresāta līdzekļiem katru dienu brīvības atņemšanas iestādes priekšnieka noteiktajā dienas kārtībā paredzētajā laikā. Vienas telefonsarunas ilgums nedrīkst pārsniegt 20 minūtes, un tā notiek vizuālas kontroles apstākļos.

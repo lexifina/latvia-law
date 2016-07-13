@@ -4,3 +4,4 @@ Slēgtajos cietumos, daļēji slēgtajos cietumos un audzināšanas iestādēs n
 Notiesātajiem ir atļauts saņemt 12 sūtījumus vai pienesumus gadā. Ar īslaicīgu brīvības atņemšanu notiesātajiem ir atļauts saņemt vienu sūtījumu vai pienesumu mēnesī vai vienu sūtījumu vai pienesumu soda izpildes laikā, ja tas ir īsāks par mēnesi.
 Preses izdevumi un normatīvie akti nav uzskatāmi par sūtījumu vai pienesumu.
 Brīvības atņemšanas iestādes priekšnieka lēmums par atteikšanos pieņemt priekšmetus, kurus brīvības atņemšanas iestādē nav atļauts saņemt ar sūtījumiem un pienesumiem, nav apstrīdams un pārsūdzams.
+Uz notiesātajiem, kas iesaistīti atkarību mazināšanas programmā, neattiecas šajā pantā noteiktās tiesības saņemt sūtījumus un pienesumus, izņemot mācību materiālus, ja notiesātais apgūst izglītību.
