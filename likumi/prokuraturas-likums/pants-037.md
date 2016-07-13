@@ -1,6 +1,6 @@
 37. pants. Personas, kuras nevar būt par prokuroru un prokurora amata kandidātu
 (1) Par prokuroru un prokurora amata kandidātu nevar būt persona, kura:
-1) neatbilst šā likuma 33.panta prasībām;
+1) neatbilst šā likuma 33.panta prasībām, izņemot 33.panta pirmās daļas 3.punktu, ja persona ir prokurora amata kandidāts;
 2) ir ar rīcībspējas ierobežojumu;
 3) pamatojoties uz lēmumu disciplinārlietā, atlaista no prokurora amata, atcelta no tiesneša amata, no zvērināta tiesu izpildītāja, zvērināta tiesu izpildītāja palīga, zvērināta notāra, zvērināta notāra palīga amata vai izslēgta no zvērinātu advokātu vai zvērinātu advokātu palīgu skaita un no disciplinārlietā pieņemtā lēmuma spēkā stāšanās brīža nav pagājuši vismaz pieci gadi;
 4) ir sodīta par noziedzīga nodarījuma izdarīšanu (neatkarīgi no sodāmības dzēšanas vai noņemšanas);
