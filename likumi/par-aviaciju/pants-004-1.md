@@ -1,4 +1,4 @@
 4.¹ pants. Valsts atbalsts jaunu gaisa pārvadājumu uzsākšanai un nodrošināšanai
 Valsts vai pašvaldība ir tiesīga sniegt valsts atbalstu jaunu gaisa pārvadājumu uzsākšanai un nodrošināšanai starp lidostām Latvijā, kā arī starp Latvijas un citām Eiropas Savienības lidostām.
 Valsts atbalstu jaunu gaisa pārvadājumu uzsākšanai un nodrošināšanai piešķir no Satiksmes ministrijai gadskārtējā valsts budžeta likumā šim mērķim piešķirtās dotācijas no vispārējiem ieņēmumiem vai pašvaldības gadskārtējā budžetā šim mērķim paredzētajiem līdzekļiem.
-Ministru kabinets izdod noteikumus, kuros reglamentē valsts atbalsta piešķiršanas kārtību, valsts atbalsta apmēru, ierobežojumus valsts atbalsta piešķiršanai, kā arī prasības personai, lai tā varētu saņemt valsts atbalstu jaunu gaisa pārvadājumu uzsākšanai vai nodrošināšanai.
+Ministru kabinets izdod noteikumus, kuros reglamentē valsts atbalsta piešķiršanas kārtību, valsts atbalsta apmēru, ierobežojumus valsts atbalsta piešķiršanai, prasības personai, lai tā varētu saņemt valsts atbalstu jaunu gaisa pārvadājumu uzsākšanai vai nodrošināšanai, kā arī prasības atbalsta piešķiršanas pārredzamības nodrošināšanai.
