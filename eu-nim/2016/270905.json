@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 28.jūnija noteikumi Nr.419 \"Noteikumi par informācijas apmaiņas un uzraudzības kārtību Iekšējā tirgus informācijas sistēmas ietvaros, informācijas apmaiņā iesaistīto iestāžu atbildību un Eiropas profesionālās kartes izdošanas kārtību\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "134 (5706)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-14",
+  "entry_into_force": "2016-07-15",
+  "notification_date": "2019-03-19",
+  "commission_reference": "MNE(2019)51718",
+  "nim_celex": "72005L0036LVA_270905",
+  "nim_id": "270905",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f2472479-5cd2-47a8-ab6c-5c53f5873905",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
