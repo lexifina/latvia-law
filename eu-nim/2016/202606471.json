@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 12.jūlija noteikumi Nr.449 \"Noteikumi par patvēruma meklētāja uzturam un dienasnaudas izmaksai paredzēto izdevumu apmēru un segšanas kārtību\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "134",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-14",
+  "entry_into_force": "2016-07-15",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06471",
+  "nim_celex": "72024L1346LVA_202606471",
+  "nim_id": "202606471",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e869ff9-cadd-4989-a19f-e1eac49b8b87",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
