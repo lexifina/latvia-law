@@ -1,0 +1,1 @@
+4. Ministru kabinets līdz 2016.gada 31.decembrim izdod šā likuma 12.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2014.gada 4.jūlija noteikumi Nr.355 "Noteikumi par pārstāvību starptautiskajās cilvēktiesību institūcijās".
