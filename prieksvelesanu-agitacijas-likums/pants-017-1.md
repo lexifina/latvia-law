@@ -1,0 +1,3 @@
+17.¹ pants. Citu iespiedtehnikā izgatavotu priekšvēlēšanu aģitācijas izdevumu izplatīšana
+(1) Izplatot biļetenus, grāmatas, skrejlapas un citus iespiedtehnikā izgatavotus priekšvēlēšanu aģitācijas izdevumus, kas nav preses izdevumi, izdevumā skaidri un nepārprotami norādāms, ka tā ir politiskā reklāma un kurš aģitācijas veicējs šo priekšvēlēšanu aģitāciju apmaksājis, kā arī jānorāda šā izdevuma tirāža.
+(2) Ja šā panta pirmajā daļā minētie izdevumi tiek izplatīti, izmantojot tikai pasta pakalpojumus, aģitācijas veicējs vai tā pilnvarota persona līgumu par priekšvēlēšanu aģitācijas materiālu izplatīšanu, izmantojot pasta pakalpojumus, slēdz tieši un nepastarpināti tikai ar pasta pakalpojumu sniedzēju.
