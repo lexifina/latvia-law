@@ -11,7 +11,9 @@ d) citas darbības, kurām nav preču-naudas (arī ieskaita) darījuma izpildes 
 1) izbeidzies speciālās ekonomiskās zonas darbības termiņš vai likvidēta brīvosta;
 2) izbeidzies šīs atļaujas derīguma termiņš;
 3) zonas vai brīvostas pārvalde un zonas vai licencēta kapitālsabiedrība vienojas, ka tiek atcelts līgums par komercdarbības veikšanu zonas vai brīvostas teritorijā;
-4) tiesa atceļ zonas vai brīvostas pārvaldes un zonas vai licencētas kapitālsabiedrības līgumu par komercdarbības veikšanu zonas vai brīvostas teritorijā un anulē šai kapitālsabiedrībai izsniegto atļauju saņemt tiešo nodokļu atvieglojumus;
+3¹) Latgales speciālās ekonomiskās zonas pārvalde un Latgales speciālās ekonomiskās zonas kapitālsabiedrība vienojas, ka tiek atcelts līgums par ieguldījumu veikšanu;
+4) tiesa pieņem nolēmumu par zonas vai brīvostas pārvaldes un zonas vai licencētas kapitālsabiedrības līguma par komercdarbības veikšanas atcelšanu zonas vai brīvostas teritorijā un kapitālsabiedrībai izsniegtās atļaujas piemērot tiešo nodokļu atvieglojumus anulēšanu;
+4¹) tiesa pieņem nolēmumu par Latgales speciālās ekonomiskās zonas pārvaldes un Latgales speciālās ekonomiskās zonas kapitālsabiedrības līguma par ieguldījumu veikšanu atcelšanu un kapitālsabiedrībai izsniegtās atļaujas piemērot tiešo nodokļu atvieglojumus anulēšanu;
 5) tiek likvidēta vai reorganizēta zonas kapitālsabiedrība vai licencēta kapitālsabiedrība, kā arī izbeigta komercdarbība citos likumos noteiktajos gadījumos;
 6) sasniegts noslēgtajos līgumos par ieguldījumu veikšanu noteiktais piemērojamais maksimālais tiešo nodokļu atlaižu apmērs attiecībā pret uzkrāto ieguldījumu summu.
 (4) Atļauju piemērot tiešo nodokļu atvieglojumus zonas pārvalde vai brīvostas pārvalde nepiešķir šādām kapitālsabiedrībām:
