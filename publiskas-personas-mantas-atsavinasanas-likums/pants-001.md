@@ -4,7 +4,7 @@
 3) (izslēgts ar 08.06.2006. likumu);
 4) izsole ar augšupejošu soli - priekšlikums personai, kura par atklāti pārdodamo mantu sola visaugstāko cenu, kas ir augstāka par izsoles sākumcenu, noslēgt minētās mantas pirkuma līgumu;
 5) izsole ar lejupejošu soli - priekšlikums personai, kura par atklāti pārdodamo mantu sola visaugstāko cenu, kas var būt zemāka par nosacīto cenu, bet ne zemāka par slepeno cenu, noslēgt minētās mantas pirkuma līgumu;
-6) nosacītā cena - nekustamā īpašuma vērtība, kas noteikta atbilstoši Standartizācijas likumā paredzētajā kārtībā apstiprinātajiem Latvijas īpašuma vērtēšanas standartiem, vai kustamās mantas vērtība, kas noteikta, ņemot vērā tās atlikušo bilances vērtību pēc grāmatvedības uzskaites datiem;
+6) nosacītā cena - nekustamā īpašuma vērtība, kas noteikta atbilstoši Standartizācijas likumā paredzētajā kārtībā apstiprinātajiem īpašuma vērtēšanas standartiem, vai kustamās mantas vērtība, kas noteikta atbilstoši Standartizācijas likumā paredzētajā kārtībā apstiprinātajiem īpašuma vērtēšanas standartiem, kā arī ņemot vērā tās atlikušo bilances vērtību pēc grāmatvedības uzskaites datiem;
 7) pārdošana par brīvu cenu - mantas pārdošana par atsavinātāja noteiktu cenu, kas nav zemāka par nosacīto cenu;
 8) slepenā cena - cena, par kuru lētāk izsolē ar lejupejošu soli mantu nedrīkst pārdot;
 9) publiskas personas iestāde (turpmāk - iestāde) - šā likuma izpratnē arī tiesu un prokuratūras iestādes;
