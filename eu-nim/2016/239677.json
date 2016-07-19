@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "14.07.2016. lēmums Nr.1/14 “Galalietotāju informēšanas par paaugstinātu tarifu izsaukumiem noteikumi”.",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "136 (5708)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-18",
+  "entry_into_force": "2016-07-19",
+  "notification_date": "2016-07-27",
+  "commission_reference": "MNE(2016)55085",
+  "nim_celex": "72002L0022LVA_239677",
+  "nim_id": "239677",
+  "transposes_celex": [
+    "32002L0022"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/762093d1-70bd-4dd6-94d1-fb8ca2059341",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
