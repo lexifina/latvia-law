@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 7.jūnija noteikumi Nr.348 “Spiedieniekārtu un to kompleksu noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "111(5683)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-06-09",
+  "entry_into_force": "2016-07-19",
+  "notification_date": "2016-06-17",
+  "commission_reference": "MNE(2016)54209",
+  "nim_celex": "72014L0068LVA_238663",
+  "nim_id": "238663",
+  "transposes_celex": [
+    "32014L0068"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db75fb6a-3035-467f-8682-e989e9905a0d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
