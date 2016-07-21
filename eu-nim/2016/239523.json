@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2016. gada 15.jūlija Ministru kabineta noteikumi Nr. 471 \"Noteikumi par dzelzceļa tīklā piemērojamiem darbības uzlabošanas shēmas pamatprincipiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-20",
+  "entry_into_force": "2016-07-21",
+  "notification_date": "2016-07-20",
+  "commission_reference": "MNE(2016)54957",
+  "nim_celex": "72012L0034LVA_239523",
+  "nim_id": "239523",
+  "transposes_celex": [
+    "32012L0034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1061a5c5-8833-4cb8-a2b6-201be0b00a18",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
