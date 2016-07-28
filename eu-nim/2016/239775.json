@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 26. jūlija noteikumi Nr. 487 “Uzņēmumu energoaudita noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143 (5715)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-27",
+  "entry_into_force": "2016-07-28",
+  "notification_date": "2016-08-03",
+  "commission_reference": "MNE(2016)55165",
+  "nim_celex": "72012L0027LVA_239775",
+  "nim_id": "239775",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d3e537a-c44c-432d-b191-d9a8202a7885",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
