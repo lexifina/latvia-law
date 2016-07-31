@@ -8,8 +8,10 @@ d) atlīdzināmie izdevumi advokāta palīdzības samaksai prasībās, kurām na
 e) atlīdzināmie izdevumi advokāta palīdzības samaksai prasībās, kurām nav mantiska rakstura, un lietās, kuras tiesa atzinusi par sarežģītām, - to faktiskajā apmērā, tomēr ne vairāk par 4275 euro;
 2) ceļa un uzturēšanās izdevumi sakarā ar ierašanos tiesas sēdē, kā arī sakarā ar pušu vai to pārstāvju klātbūtni vai piedalīšanos pierādījumu iegūšanā, pēc Latvijas lūguma pierādījumus iegūstot ārvalstī, - pēc Ministru kabineta noteiktajām likmēm komandējuma izdevumu atlīdzībai;
 3) izdevumi sakarā ar rakstveida pierādījumu iegūšanu - izdevumu faktiskajā apmērā;
-4) tulka izdevumi sakarā ar pušu vai to pārstāvju klātbūtni vai piedalīšanos pierādījumu iegūšanā, pēc Latvijas lūguma pierādījumus iegūstot ārvalstī, - izdevumu faktiskajā apmērā.
+4) tulka izdevumi sakarā ar pušu vai to pārstāvju klātbūtni vai piedalīšanos pierādījumu iegūšanā, pēc Latvijas lūguma pierādījumus iegūstot ārvalstī, - izdevumu faktiskajā apmērā, tomēr ne vairāk par Ministru kabineta noteiktajām likmēm;
+5) tulka izdevumi sakarā ar pušu piedalīšanos tiesas sēdē - izdevumu faktiskajā apmērā, tomēr ne vairāk par Ministru kabineta noteiktajām likmēm.
 (2) Ar lietas vešanu saistītos izdevumus piespriež no atbildētāja par labu prasītājam, ja viņa prasījums ir apmierināts pilnīgi vai daļēji, kā arī tad, ja prasītājs neuztur savus prasījumus sakarā ar to, ka atbildētājs tos pēc prasības iesniegšanas labprātīgi apmierinājis.
 (3) Ja prasība noraidīta, ar lietas vešanu saistītos izdevumus piespriež no prasītāja par labu atbildētājam.
 (4) Ja prasība ir izskatīta tikai pirmās instances tiesā, atlīdzināmie izdevumi advokāta palīdzības samaksai nedrīkst pārsniegt 50 procentus no šā panta pirmajā daļā noteiktā maksimālā atlīdzības apmēra.
 (5) Tiesa var noteikt mazāku apmēru atlīdzināmo izdevumu advokāta palīdzības samaksai, ievērojot taisnīguma un samērīguma principu, kā arī izvērtējot objektīvos ar lietu saistītos apstākļus, it īpaši - lietas sarežģītības un apjomīguma pakāpi, tiesas sēžu skaitu lietas izskatīšanas laikā un tiesu instanci, kurā prasība tiek izskatīta.
+(6) Tiesa var atteikt atlīdzināt tulka izdevumus, ja puse, kurai par labu piespriežami šie izdevumi, pārvalda tiesvedības valodu.

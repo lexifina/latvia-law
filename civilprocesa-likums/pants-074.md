@@ -22,4 +22,5 @@
 (7) Pusēm ir pienākums:
 1) ierasties pēc tiesas aicinājuma tiesā;
 2) savlaicīgi rakstveidā paziņot par iemesliem, kuru dēļ nevar ierasties uz tiesas sēdi, iesniedzot par to pierādījumus;
+2¹) nodrošināt tulka palīdzību, ja tās nepārvalda tiesvedības valodu, izņemot šajā likumā noteiktos gadījumus, tajā skaitā nodrošināt tulka palīdzību arī ekspertiem vai lieciniekiem, kas izsaukti pēc pušu lūguma, ja eksperts vai liecinieks nepārvalda tiesvedības valodu;
 3) izpildīt citus procesuālos pienākumus, kuri tām uzlikti saskaņā ar šo likumu.

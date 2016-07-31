@@ -8,4 +8,5 @@
 1) izdevumi par advokāta palīdzību;
 2) izdevumi sakarā ar ierašanos uz tiesas sēdēm;
 3) ar pierādījumu savākšanu saistītie izdevumi;
-4) izdevumi par valsts nodrošināto juridisko palīdzību.
+4) izdevumi par valsts nodrošināto juridisko palīdzību;
+5) izdevumi par tulka palīdzību tiesas sēdē.
