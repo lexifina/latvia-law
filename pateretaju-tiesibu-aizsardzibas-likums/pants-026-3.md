@@ -6,7 +6,7 @@
 (5) Komisija neizskata strīdu, ja:
 1) patērētājs nav vērsies pie pārdevēja vai pakalpojuma sniedzēja, lai strīdu atrisinātu pārrunu ceļā;
 2) strīds ir nenozīmīgs vai sīkumains;
-3) strīdu izskata vai ir izskatījis cits ārpustiesas strīdu risinātājs vai tiesa, kā arī tad, ja strīda risināšana ir cita ārpustiesas strīdu risinātāja kompetencē;
+3) strīdu izskata vai ir izskatījis ārpustiesas strīdu risinātājs, kā arī tad, ja strīda risināšana ir ārpustiesas strīdu risinātāja kompetencē;
 4) strīds ir par preci vai pakalpojumu, kura cena nepārsniedz 20 euro, vai par preci vai pakalpojumu, kura cena pārsniedz 14 000 euro;
 5) strīda risināšana radītu nopietnus traucējumus Komisijas efektīvai darbībai;
 6) strīds ir par veselības aprūpes pakalpojumiem;

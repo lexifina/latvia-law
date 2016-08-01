@@ -8,5 +8,5 @@
 (3) (Izslēgta no 13.06.2014. ar 24.04.2014. likumu. Sk. Pārejas noteikumu 22.punktu)
 (4) Pārdevējs, kas realizē preces, izmantojot tirdzniecības automātus, uz tirdzniecības automāta norāda pārdevēja nosaukumu (firmu), reģistrācijas numuru Uzņēmumu reģistrā vai Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā un juridisko adresi.
 (5) Pastāvīga saimnieciskās vai profesionālās darbības vieta ir:
-1) nepārvietojamas mazumtirdzniecības telpas, kurās pārdevējs vai pakalpojuma sniedzējs veic savu darbību;
+1) nepārvietojamas mazumtirdzniecības telpas, kurās pārdevējs vai pakalpojuma sniedzējs pastāvīgi veic savu darbību;
 2) pārvietojamas mazumtirdzniecības telpas, kurās pārdevējs vai pakalpojuma sniedzējs parasti veic savu darbību.

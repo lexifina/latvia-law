@@ -11,7 +11,8 @@
 7) finanšu pakalpojumiem (izņemot šā likuma 10.pantu un 12.panta pirmo daļu);
 8) līgumiem par nekustamā īpašuma iegādi vai ar to saistīto tiesību nodošanu;
 9) līgumiem par jaunu ēku būvniecību vai esošu ēku būtisku pārbūvi un dzīvojamo telpu īres līgumiem;
-10) līgumiem, kas noslēgti ar notāriem, tiesu izpildītājiem vai citām valsts amatpersonām pielīdzināmām personām.
+10) līgumiem, ko sagatavojis notārs, tiesu izpildītājs vai cita valsts amatpersonai pielīdzināma persona;
+11) azartspēlēm.
 (4) Šā likuma 14.¹ pantu piemēro pakalpojumiem, kuru rezultātā tiek uzlabota vai pārveidota kustama ķermeniska lieta vai tās īpašības.
 (5) Šā likuma 13., 14., 16., 17., 19., 20., 21., 27., 28., 30. un 33.panta ietvaros par preci uzskatāma kustama ķermeniska lieta, kā arī pakalpojuma sniegšanas rezultātā izgatavota kustama ķermeniska lieta.
 (6) Līgumiem par ūdens, gāzes vai elektrības piegādi, izņemot gadījumus, kad ūdeni, gāzi vai elektrību piedāvā vai pārdod ierobežotā tilpumā vai noteiktā daudzumā, kā arī līgumiem par centralizētu siltumapgādi piemēro šā likuma noteikumus par pakalpojumiem, ciktāl sabiedrisko pakalpojumu vai patērētāju tiesību aizsardzību regulējošos normatīvajos aktos nav noteikts citādi.

@@ -1,0 +1,1 @@
+31. Ministru kabinets līdz 2016.gada 31.oktobrim izdod šā likuma 8.panta ceturtajā daļā minētos noteikumus. Līdz šo noteikumu izdošanai piemērojami Ministru kabineta 2010.gada 28.decembra noteikumi Nr.1219 "Noteikumi par patērētāja kreditēšanu".
