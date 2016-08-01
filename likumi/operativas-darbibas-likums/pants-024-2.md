@@ -1,0 +1,4 @@
+24.² pants. Iegūtās informācijas un operatīvās uzskaites lietu iznīcināšana
+(1) Šajā likumā paredzētajos gadījumos, iznīcinot operatīvās darbības pasākumu gaitā iegūto informāciju, raksta informācijas iznīcināšanas aktu un pievieno to attiecīgās operatīvās darbības procesa lietas materiāliem.
+(2) Kad beidzies šā likuma 23.panta piektajā daļā paredzētais operatīvās uzskaites lietas glabāšanas termiņš, operatīvās uzskaites lietu iznīcina un par to raksta aktu, kurā norāda lietas numuru, nosaukumu, lietas uzsākšanas, izbeigšanas un iznīcināšanas datumu, kā arī dokumentus (materiālus), kas saglabāti operatīvās darbības un kriminālprocesa uzdevumu veikšanai. Mēnesi pirms operatīvās uzskaites lietas iznīcināšanas par to informē ģenerālprokuroru vai viņa īpaši pilnvarotu prokuroru.
+(3) Iznīcinot ierobežotas pieejamības informāciju vai valsts noslēpuma objektu, ievēro attiecīgajai informācijai paredzēto iznīcināšanas kārtību.

@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2019.gada 1.janvārim izstrādā un iesniedz Saeimai likumprojektu par nepieciešamajiem grozījumiem likumā "Par tiesu varu", paredzot kārtību, kādā rajona (pilsētas) tiesas tiesnesis pilnvarojams lemt par akceptu operatīvajai datu iegūšanai no elektronisko sakaru komersantiem.

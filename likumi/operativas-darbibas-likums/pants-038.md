@@ -1,0 +1,3 @@
+38.pants. Paziņojums par operatīvās darbības subjekta amatpersonas rīcības pārbaudi
+(1) Kad sagatavots atzinums saistībā ar sūdzību par operatīvās darbības subjekta amatpersonas rīcības atbilstību likumam, prokurors informē sūdzības iesniedzēju par pārbaudes pabeigšanu un norāda (nesniedzot papildu skaidrojumu), vai pārbaudē konstatēts personas likumīgo tiesību un brīvību pretlikumīgs aizskārums, kā arī izskaidro viņa tiesības vērsties tiesā.
+(2) Paziņojumā par operatīvās darbības subjekta amatpersonas rīcības pārbaudi papildu skaidrojums sniedzams tikai tad, ja pieļaujama attiecīgās personas informēšana saskaņā ar šā likuma 24.¹ panta nosacījumiem, ka pret to tika veikta operatīvā darbība.

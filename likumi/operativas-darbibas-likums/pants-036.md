@@ -1,0 +1,8 @@
+36.pants. Operatīvās darbības subjekta amatpersonas rīcības pārbaude
+(1) Ja persona iesniegusi sūdzību par iespējamu operatīvās darbības subjekta amatpersonas rīcību, kas pārkāpj tās likumīgās tiesības un brīvības, īpaši pilnvarots prokurors noskaidro, vai pret attiecīgo personu sūdzībā norādītajā laikā tika veikta operatīvā darbība.
+(2) Ja pret attiecīgo personu sūdzībā norādītajā laikā tika veikta operatīvā darbība, īpaši pilnvarots prokurors, pārbaudot operatīvās darbības subjekta amatpersonas rīcības atbilstību likumam, iepazīstas ar attiecīgajā operatīvās darbības procesā iegūtajiem dokumentiem, materiāliem un informāciju, ievērojot šā likuma 35.panta pirmās daļas nosacījumus, un noskaidro:
+1) vai ievēroti operatīvās darbības procesa, kā arī operatīvās darbības pasākumu veikšanas nosacījumi;
+2) vai operatīvās darbības subjekta amatpersona operatīvās darbības pasākumus veikusi atbilstoši izsniegtajam akceptam (piekrišanai);
+3) citus apstākļus, kuru pārbaude nepieciešama, lai izskatītu sūdzību.
+(3) Ja īpaši pilnvarots prokurors, kas pārbauda operatīvās darbības subjekta amatpersonas rīcības atbilstību likumam, attiecīgajā operatīvās darbības procesā akceptējis (sniedzis piekrišanu) operatīvās darbības pasākuma veikšanu, viņš par to informē ģenerālprokuroru, kurš norīko citu īpaši pilnvarotu prokuroru pārbaudes veikšanai.
+(4) Pārbaude saistībā ar sūdzību par operatīvās darbības subjekta amatpersonas rīcības atbilstību likumam veicama divu mēnešu laikā. Ja objektīvu iemeslu dēļ nav iespējams pārbaudi pabeigt divu mēnešu laikā, to ar ģenerālprokurora akceptu var pagarināt vēl uz diviem mēnešiem, par to rakstveidā informējot sūdzības iesniedzēju.

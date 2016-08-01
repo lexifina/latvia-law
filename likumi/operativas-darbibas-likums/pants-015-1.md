@@ -7,4 +7,4 @@
 3) (izslēgts ar 26.03.2009. likumu);
 4) ekoloģisku katastrofu vai neatgriezenisku mantisku zaudējumu.
 (4) Kontrolētā piegāde veicama, pamatojoties uz operatīvās darbības subjekta amatpersonas lēmumu, ko akceptējis prokurors.
-(5) Ja kontrolētās piegādes laikā īstenojami arī citi sevišķā veidā veicamie operatīvās darbības pasākumi, atļauja to īstenošanai jāsaņem šajā likumā noteiktajā kārtībā.
+(5) Ja kontrolētās piegādes laikā īstenojami arī sevišķajā veidā veicamie operatīvās darbības pasākumi, atļauja to īstenošanai jāsaņem šajā likumā noteiktajā kārtībā.

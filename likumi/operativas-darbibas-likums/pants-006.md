@@ -1,5 +1,5 @@
 6. pants. Operatīvās darbības saturs
-(1) Operatīvās darbības saturs ir operatīvie pasākumi un to īstenošanas metodes. Operatīvie pasākumi ir:
+(1) Operatīvās darbības saturs ir operatīvās darbības pasākumi un to īstenošanas metodes. Operatīvās darbības pasākumi ir:
 1) operatīvā izzināšana;
 2) operatīvā novērošana (izsekošana);
 3) operatīvā apskate;
@@ -9,6 +9,7 @@
 7) operatīvais eksperiments;
 7¹) kontrolētā piegāde;
 8) operatīvā detektīvdarbība;
+8¹) operatīvā darījumu pārraudzība kredītiestādes vai finanšu iestādes klienta kontā;
 9) operatīvā korespondences kontrole;
 10) operatīvā personas paustās vai uzglabātās informācijas satura iegūšana no tehniskajiem līdzekļiem;
 11) operatīvā sarunu noklausīšanās;
