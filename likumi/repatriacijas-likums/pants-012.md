@@ -1,10 +1,7 @@
 12.pants. Repatrianta statusa zaudēšana
-(1) Persona zaudē repatrianta statusu vai arī repatrianta ģimenes loceklim tiek anulēta uzturēšanās atļauja, ja Pārvaldei kļuvis zināms, ka:
-1) persona sniegusi nepatiesas ziņas;
-2) persona ar tiesas spriedumu atzīta par vainīgu smaga vai sevišķi smaga nozieguma izdarīšanā;
-3) persona, kura nav Latvijas pilsonis, bez pārtraukuma uzturas ārpus Latvijas Republikas vairāk nekā sešus mēnešus kalendārā gada laikā, izņemot gadījumu, kad prombūtne pieteikta Pārvaldei vai persona var dokumentāri pierādīt, ka prombūtne bijusi nepieciešama attaisnojošu iemeslu dēļ;
-4) persona izceļojusi uz pastāvīgu dzīvi ārvalstīs;
-5) persona iekļauta to ārzemnieku sarakstā, kuriem ieceļošana Latvijas Republikā aizliegta.
-(2) Ja repatriants nav Latvijas pilsonis, tad, pieņemot lēmumu par repatrianta statusa zaudēšanu, viņam vienlaikus anulē arī uzturēšanās atļauju. Uzturēšanās atļaujas anulē arī repatrianta ģimenes locekļiem.
-(3) Pārvalde par pieņemto lēmumu nekavējoties paziņo attiecīgajai personai.
-(4) Persona Pārvaldes pieņemto lēmumu par repatrianta statusa zaudēšanu un uzturēšanās atļaujas anulēšanu var apstrīdēt, ievērojot šā likuma 11.pantā noteikto kārtību.
+(1) Repatrianta statusu atņem, ja:
+1) persona sniegusi nepatiesas ziņas repatrianta statusa pieprasīšanai;
+2) repatriants izceļojis uz dzīvi citā valstī;
+3) repatriants ar tiesas spriedumu atzīts par vainīgu smaga vai sevišķi smaga nozieguma izdarīšanā;
+4) pastāv kāds no Imigrācijas likuma 36.panta pirmās daļas nosacījumiem, saskaņā ar kuru ārzemniekam anulē pastāvīgās uzturēšanās atļauju, vai Imigrācijas likuma 2.¹ panta otrās daļas noteikumiem, uz kuru pamata anulē pastāvīgās uzturēšanās apliecību.
+(2) Ja repatrianta statusu ieguvušajai personai atņem piešķirto statusu, tās ģimenes locekļi zaudē repatrianta ģimenes locekļa statusu. Pieņemot lēmumu par repatrianta statusa atņemšanu vai ģimenes locekļa statusa zaudēšanu, vienlaikus anulē šīm personām izsniegtās uzturēšanās apliecības vai uzturēšanās atļaujas, ievērojot Imigrācijas likumā noteikto kārtību.

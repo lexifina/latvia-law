@@ -1,7 +1,6 @@
 9.¹ pants. Lēmuma pieņemšana
-(1) Pārvalde 90 dienu laikā pēc visu šā likuma 9.panta pirmajā, otrajā vai trešajā daļā minēto dokumentu saņemšanas:
-1) pieņem lēmumu par repatrianta statusa piešķiršanu vai lēmumu par atteikumu piešķirt personai repatrianta statusu;
-2) pieņem lēmumu par pastāvīgās uzturēšanās atļaujas izsniegšanu repatriantam, kurš dokumentu iesniegšanas brīdī nav Latvijas pilsonis;
-3) pieņem lēmumu par pastāvīgās uzturēšanās atļaujas izsniegšanu repatrianta ģimenes loceklim, kurš, ievērojot šā likuma 9.² panta pirmajā daļā noteikto, vēlas ieceļot Latvijas Republikā vienlaikus ar repatriantu un ir iesniedzis pieteikumu.
-(2) Lēmums par repatrianta statusa piešķiršanu un lēmums par pastāvīgās uzturēšanās atļaujas izsniegšanu ir spēkā sešus mēnešus pēc tā pieņemšanas. Pārvalde var pagarināt lēmuma spēkā esamību uz laiku līdz deviņiem mēnešiem, ja repatriants var pierādīt, ka ieceļošana sešu mēnešu laikā nav īstenojama attaisnojošu iemeslu dēļ.
-(3) Personai, kurai piešķirts repatrianta statuss, izsniedz repatrianta statusu apliecinošu dokumentu.
+(1) Lēmumu par repatrianta statusa vai viņa ģimenes locekļa statusa piešķiršanu pieņem:
+1) Latvijas pilsonim - mēneša laikā no iesnieguma saņemšanas;
+2) ārzemniekam - vienlaikus ar lēmuma pieņemšanu par pastāvīgās uzturēšanās apliecības vai pastāvīgās uzturēšanās atļaujas piešķiršanu saskaņā ar normatīvajiem aktiem, kuros noteikta pastāvīgās uzturēšanās apliecības vai pastāvīgās uzturēšanās atļaujas pieprasīšanas kārtība.
+(2) Lēmums par repatrianta statusa piešķiršanu un lēmums par pastāvīgās uzturēšanās atļaujas vai pastāvīgās uzturēšanās apliecības izsniegšanu ir spēkā sešus mēnešus pēc tā pieņemšanas. Pārvalde var pagarināt lēmuma spēkā esamību uz laiku līdz deviņiem mēnešiem, ja repatriants var pierādīt, ka ieceļošana sešu mēnešu laikā nav īstenojama attaisnojošu iemeslu dēļ.
+(3) (Izslēgta ar 16.06.2016. likumu)

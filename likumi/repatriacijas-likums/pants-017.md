@@ -1,2 +1,0 @@
-17.pants. Muitas nodokļa un muitas nodevu nepiemērošana repatriantam
-Repatriantam, kurš izceļojis no Latvijas laikā līdz 1990.gada 4.maijam vai dzimis ārvalstīs, vai izceļojis no Latvijas pēc 1990.gada 4.maija un izceļošanas brīdī bijis nepilngadīgs, un viņa ģimenes locekļiem piederošā manta, kuras ievešana Latvijas Republikā nav aizliegta vai ierobežota, pāri Latvijas Republikas valsts robežai ievedama bez aplikšanas ar muitas nodokli un muitas nodevām.

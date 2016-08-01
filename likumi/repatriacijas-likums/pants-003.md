@@ -1,7 +1,6 @@
 3.pants. Repatrianta ģimenes locekļi
-(1) Tiesības ieceļot Latvijā kopā ar repatriantu ir šādiem viņa ģimenes locekļiem:
-1) repatrianta laulātajam;
-2) repatrianta un viņa laulātā nepilngadīgajiem un apgādībā esošajiem bērniem (arī adoptētajiem);
-3) repatrianta vecākiem, kuri ir viņa apgādībā.
-(2) Nepilngadīgo personu vecumā no 14 līdz 18 gadiem atļauts repatriēt, ja saņemta šīs personas rakstveida piekrišana.
-(3) Nepilngadīgajām personām vecumā no 16 līdz 18 gadiem ir tiesības patstāvīgi repatriēties, ja saņemta ar viņu kopā dzīvojošo vecāku (aizbildņu) rakstveida piekrišana un ja attiecīgās Latvijas republikas pilsētas vai novada pašvaldības aizbildnības vai aizgādnības iestādes devušas savu piekrišanu.
+Tiesības ieceļot Latvijas Republikā ir šādiem repatrianta ģimenes locekļiem:
+1) repatrianta laulātajam, ja laulība noslēgta pirms repatrianta statusa pieprasīšanas;
+2) repatrianta vai viņa laulātā bērnam vai laulāto kopīgajam bērnam;
+3) personai, kura ir repatrianta vai viņa laulātā aizbildnībā vai aizgādnībā;
+4) repatrianta vai viņa laulātā vecākam, kurš sasniedzis Latvijas normatīvajos aktos noteikto vecuma pensijas vecumu vai ir repatrianta apgādībā un kuram iepriekšējā mītnes valstī ir bijusi kopīga mājsaimniecība ar repatriantu vismaz gadu pirms repatrianta statusa pieprasīšanas.

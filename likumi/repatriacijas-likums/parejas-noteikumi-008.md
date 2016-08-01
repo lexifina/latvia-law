@@ -1,0 +1,1 @@
+8. Pārvaldē vai Latvijas Republikas diplomātiskajā vai konsulārajā pārstāvniecībā līdz 2016.gada 29.jūlijam iesniegtos repatrianta vai repatrianta ģimenes locekļa dokumentus un iesniegumu izskata saskaņā ar likumu, kas bija spēkā iesnieguma iesniegšanas dienā.
