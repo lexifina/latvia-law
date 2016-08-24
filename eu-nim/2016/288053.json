@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2016.gada 17.augusta noteikumi Nr.139 “Normatīvie noteikumi par kārtību, kādā persona iesniedz un Finanšu un kapitāla tirgus komisija izskata ziņojumu par finanšu un kapitāla tirgu regulējošo normatīvo aktu iespējamiem vai faktiskiem pārkāpumiem”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "162",
+  "official_journal_page": null,
+  "official_journal_date": "2016-08-23",
+  "entry_into_force": "2016-08-24",
+  "notification_date": "2020-08-31",
+  "commission_reference": "MNE(2020)56489",
+  "nim_celex": "72016L0097LVA_288053",
+  "nim_id": "288053",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1ee2135e-ee78-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
