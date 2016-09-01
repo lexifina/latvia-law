@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 5. jūlija noteikumi Nr. 445 \"Pedagogu darba samaksas noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "140",
+  "official_journal_page": null,
+  "official_journal_date": "2016-07-22",
+  "entry_into_force": "2016-09-01",
+  "notification_date": "2026-10-05",
+  "commission_reference": "MNE(2026)07664",
+  "nim_celex": "72023L0970LVA_202607664",
+  "nim_id": "202607664",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01e6361c-460a-42aa-9c7f-4d3b4d1580b6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
