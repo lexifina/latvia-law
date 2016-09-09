@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta2016. gada 6. septembra noteikumi Nr. 590 \"Darbības programmas \"Izaugsme un nodarbinātība\" 4.1.1. specifiskā atbalsta mērķa \"Veicināt efektīvu energoresursu izmantošanu, enerģijas patēriņa samazināšanu un pāreju uz AER apstrādes rūpniecības nozarē\" īstenošanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "174 (5746)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-08",
+  "entry_into_force": "2016-09-09",
+  "notification_date": "2016-10-05",
+  "commission_reference": "MNE(2016)56141",
+  "nim_celex": "72012L0027LVA_241154",
+  "nim_id": "241154",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2c57a6f-d046-42ae-9856-b5b2ac701c85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
