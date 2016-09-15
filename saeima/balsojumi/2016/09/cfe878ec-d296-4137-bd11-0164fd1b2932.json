@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 2,
+ "datums": "2016-09-15",
+ "ieraksts": {
+  "dkp_id": "72d96762-7446-4f63-8fc4-9977c22651e5",
+  "lastmodtime": "\"AAAAAAFUF1s=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Jānis#Einārs#Mihails#Artis#Askolds#Guntis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Jānis#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Ringolds#Inguna#Rihards#Ilmārs#Augusts#Jūlija#Anrijs#Ilze#Valters#Zenta#Valērijs#Aldis#Juris#Andrejs#Inguna#Imants#Jānis#Mārtiņš#Inesis#Andrejs#Juris#Jānis#Ivans#Ināra#Inga#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Sergejs#Rihards#Jānis#Sergejs#Ivars#Solvita#Aivars#Aleksandrs#Mārtiņš#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Klaužs#Cilinskis#Zemļinskis#Rasmanis#Kļaviņš#Kalniņš#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Ādamsons#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Brigmanis#Stepaņenko#Matīss#Viņķele#Dambe#Tretjaka#Agešins#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Dombrava#Bondars#Boķis#Judins#Šulcs#Urbanovičs#Klementjevs#Mūrniece#Bite#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Tutins#Potapkins#Zariņš#Āboltiņa#Meija#Kiršteins#Šics#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "###########################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#SASKAŅA #ZZS#ZZS#ZZS# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#LRA#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#SASKAŅA #SASKAŅA #SASKAŅA #VIENOTĪBA#NSL#VL-TB/LNNK#LRA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Atturas#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.09.2016 11:33:06",
+  "VOTEMOTIVE": "Grozījumi Alkoholisko dzērienu aprites likumā (606/Lp12), 1.lasījums",
+  "VOTING_ID": "cfe878ec-d296-4137-bd11-0164fd1b2932",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "67",
+  "VOTERESULT_REGISTERED": "76",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e2e3f317-88e7-4fa4-873c-b0bade3f5def/download/12.saeimas-2016.gada-rudens-sesija-2-vote.xml",
+  "sha256": "667239f81d539e9ac128969dd0a8fcabadf757e58ad18067c3460a43b16b3e60",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
