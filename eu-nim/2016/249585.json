@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 13.septembra noteikumi Nr.605 \"Grozījumi Ministru kabineta 2016.gada 29.marta noteikumos Nr.179 \"Kārtība, kādā nosakāms naudas sods par Konkurences likuma 11. panta pirmajā daļā un 13. pantā un Negodīgas mazumtirdzniecības prakses aizlieguma likuma 5., 6., 7. un 8. pantā paredzētajiem pārkāpumiem\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2016/179.3",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-15",
+  "entry_into_force": "2016-09-16",
+  "notification_date": "2017-07-28",
+  "commission_reference": "MNE(2017)54209",
+  "nim_celex": "72014L0104LVA_249585",
+  "nim_id": "249585",
+  "transposes_celex": [
+    "32014L0104"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf9ab07f-f929-4378-8183-a08eb9b6939a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
