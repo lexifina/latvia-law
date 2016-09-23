@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 20. septembra noteikumi Nr. 612 \"Tiešās pārvaldes iestāžu rīkotajos iepirkumos izvirzāmās preču un pakalpojumu energoefektivitātes prasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "184 (5756)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-09-22",
+  "entry_into_force": "2016-09-23",
+  "notification_date": "2016-10-05",
+  "commission_reference": "MNE(2016)56142",
+  "nim_celex": "72012L0027LVA_241155",
+  "nim_id": "241155",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ea5f1ae4-7210-40b5-8074-b6b59332954b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
