@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 6,
+ "datums": "2016-09-29",
+ "ieraksts": {
+  "dkp_id": "05bf3dfd-d5c5-48a5-a1b4-b82f26367577",
+  "lastmodtime": "\"AAAAAAFVDUg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Jānis#Einārs#Jānis#Mihails#Vladimirs#Andris#Askolds#Ainars#Guntis#Jānis#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Ringolds#Inguna#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Valērijs#Laimdota#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Mārtiņš#Inesis#Viktors#Andrejs#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Aleksandrs#Vitālijs#Kārlis#Edgars#Rihards#Kārlis#Gundars#Jānis#Rihards#Sergejs#Ivars#Solvita#Aivars#Aleksandrs#Aija#Mārtiņš#Igors#Artūrs#Janīna#Edvards#Ņikita",
+  "SURNAME": "Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Kļaviņš#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Agešins#Straujuma#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Bondars#Boķis#Valainis#Judins#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Jakimovs#Orlovs#Krēsliņš#Putra#Melgailis#Seržants#Daudze#Tutins#Eigims#Potapkins#Zariņš#Āboltiņa#Meija#Kiršteins#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#ZZS#LRA#ZZS#ZZS#SASKAŅA #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "29.09.2016 09:34:09",
+  "VOTEMOTIVE": "Grozījumi Civilprocesa likumā (661/Lp12), 1.lasījums",
+  "VOTING_ID": "29641d79-2001-4082-a83c-5775f8f347f0",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "83",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "8",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/25a0b8fd-1e63-43a7-be56-d06f7226e324/download/12.saeimas-2016.gada-rudens-sesija-6-vote.xml",
+  "sha256": "8f2fa7e81f71929a1b2824cf9bafb41a60874e40e5bba627e6047488b712f5c3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
