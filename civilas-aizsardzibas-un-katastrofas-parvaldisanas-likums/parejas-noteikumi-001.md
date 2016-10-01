@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Civilās aizsardzības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 22.nr.; 2008, 16.nr.; 2009, 7., 17.nr.; Latvijas Vēstnesis, 2009, 182.nr.; 2013, 61.nr.).

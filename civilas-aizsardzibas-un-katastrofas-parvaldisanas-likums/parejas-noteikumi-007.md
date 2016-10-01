@@ -1,0 +1,1 @@
+7. Objektu un paaugstinātas bīstamības objektu īpašnieki vai tiesiskie valdītāji līdz 2017.gada 31.decembrim apstiprina šā likuma 9.panta astotajā daļā, 13.panta sestajā daļā un 14.panta ceturtajā daļā paredzēto objekta vai paaugstinātas bīstamības objekta civilās aizsardzības plānu.

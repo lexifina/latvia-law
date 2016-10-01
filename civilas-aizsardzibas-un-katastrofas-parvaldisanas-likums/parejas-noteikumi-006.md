@@ -1,0 +1,1 @@
+6. Sadarbības teritoriju civilās aizsardzības plāni, kas apstiprināti līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 30.decembrim. Pašvaldību domes līdz 2017.gada 31.decembrim apstiprina šā likuma 11.panta pirmās daļas 3.punktā paredzēto sadarbības teritorijas civilās aizsardzības plānu.

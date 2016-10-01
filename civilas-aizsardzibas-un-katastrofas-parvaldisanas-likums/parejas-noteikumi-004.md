@@ -1,0 +1,1 @@
+4. Valsts civilās aizsardzības plāns, kas apstiprināts līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 1.augustam. Ministru kabinets līdz 2017.gada 2.augustam apstiprina valsts civilās aizsardzības plānu.

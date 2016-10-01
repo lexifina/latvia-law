@@ -1,0 +1,5 @@
+15.pants. Civilās aizsardzības plānošanas kārtība
+(1) Valsts civilās aizsardzības plāns, sadarbības teritorijas civilās aizsardzības plāns, paaugstinātas bīstamības objekta civilās aizsardzības plāns un objekta civilās aizsardzības plāns ir dokumenti, kuri sagatavoti, ņemot vērā risku novērtējumu, un kuros noteikti katastrofas pārvaldīšanas pasākumi un to īstenotāji.
+(2) Ministru kabinets nosaka valsts civilās aizsardzības plāna, sadarbības teritorijas civilās aizsardzības plāna, paaugstinātas bīstamības objekta civilās aizsardzības plāna un objekta civilās aizsardzības plāna struktūru un tajā iekļaujamo informāciju.
+(3) Iekšlietu ministrija nodrošina valsts civilās aizsardzības plāna un sadarbības teritoriju civilās aizsardzības plānu aktuālās redakcijas ievietošanu Iekšlietu ministrijas un Valsts ugunsdzēsības un glābšanas dienesta mājaslapās internetā.
+(4) Pašvaldības nodrošina, ka attiecīgās sadarbības teritorijas civilās aizsardzības plāna un attiecīgās pašvaldības administratīvajā teritorijā esošu paaugstinātas bīstamības objektu civilās aizsardzības plānu aktuālā redakcija ir pieejama pašvaldības mājaslapā internetā.

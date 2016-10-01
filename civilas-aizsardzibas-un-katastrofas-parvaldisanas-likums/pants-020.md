@@ -1,0 +1,18 @@
+20.pants. Civilās aizsardzības prasību ievērošanas pārbaudes
+(1) Civilās aizsardzības prasību ievērošanas pārbaudes objektos un paaugstinātas bīstamības objektos veic Valsts ugunsdzēsības un glābšanas dienesta amatpersona ar speciālo dienesta pakāpi (turpmāk - amatpersona ar speciālo dienesta pakāpi).
+(2) Civilās aizsardzības prasību ievērošanas pārbaudes Aizsardzības ministrijas, Nacionālo bruņoto spēku un valsts drošības iestāžu objektos un paaugstinātas bīstamības objektos veic par civilo aizsardzību atbildīgā persona vai amatpersona ar speciālo dienesta pakāpi saskaņā ar starpresoru vienošanos, kas noslēgta starp Aizsardzības ministriju, Nacionālajiem bruņotajiem spēkiem vai valsts drošības iestādēm un Valsts ugunsdzēsības un glābšanas dienestu. Ārvalstu diplomātisko un konsulāro pārstāvniecību objektos un paaugstinātas bīstamības objektos civilās aizsardzības prasību ievērošanas pārbaudes amatpersona ar speciālo dienesta pakāpi veic uz attiecīgās ārvalsts diplomātiskās vai konsulārās pārstāvniecības rakstveida iesnieguma pamata.
+(3) Amatpersona ar speciālo dienesta pakāpi veic plānotas un neplānotas civilās aizsardzības prasību ievērošanas pārbaudes. Plānotā civilās aizsardzības prasību ievērošanas pārbaude (turpmāk - plānotā pārbaude) tiek veikta saskaņā ar Valsts ugunsdzēsības un glābšanas dienesta apstiprinātu civilās aizsardzības prasību ievērošanas pārbaudes plānu. Neplānotā civilās aizsardzības prasību ievērošanas pārbaude (turpmāk - neplānotā pārbaude) tiek veikta, pamatojoties uz Valsts ugunsdzēsības un glābšanas dienesta rakstveida lēmumu.
+(4) Amatpersonai ar speciālo dienesta pakāpi, kura veic civilās aizsardzības prasību ievērošanas pārbaudes, ir šādi pienākumi:
+1) iepriekš informēt objekta vai paaugstinātas bīstamības objekta īpašnieku vai tiesisko valdītāju par plānoto pārbaudi;
+2) pirms civilās aizsardzības prasību ievērošanas pārbaudes uzsākšanas nosaukt objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim savu uzvārdu, amatu un uzrādīt dienesta apliecību;
+3) pirms neplānotās pārbaudes uzsākšanas izsniegt objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim Valsts ugunsdzēsības un glābšanas dienesta rakstveida lēmumu;
+4) informēt objekta vai paaugstinātas bīstamības objekta īpašnieku vai tiesisko valdītāju vai viņu pilnvaroto pārstāvi par civilās aizsardzības prasību ievērošanas pārbaudes rezultātiem;
+5) uzdot objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim novērst normatīvajos aktos noteikto civilās aizsardzības prasību pārkāpumus.
+(5) Veicot civilās aizsardzības prasību ievērošanas pārbaudi, amatpersonai ar speciālo dienesta pakāpi ir tiesības:
+1) pārbaudīt normatīvajos aktos noteikto civilās aizsardzības prasību ievērošanu objektā un paaugstinātas bīstamības objektā;
+2) fotografējot un izdarot videoierakstus, fiksēt normatīvajos aktos noteikto civilās aizsardzības prasību pārkāpumus;
+3) lūgt uzrādīt personu apliecinošu dokumentu vai citu personu identificējošu dokumentu;
+4) apturēt vai ierobežot objekta vai paaugstinātas bīstamības objekta ekspluatāciju;
+5) izsniegt atzinumu par objekta vai paaugstinātas bīstamības objekta atbilstību normatīvajos aktos noteiktajām civilās aizsardzības prasībām;
+6) sastādīt administratīvo pārkāpumu protokolus, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus par pārkāpumiem, kuru izskatīšana ir piekritīga Valsts ugunsdzēsības un glābšanas dienestam;
+7) pieprasīt un bez maksas saņemt ar civilās aizsardzības jautājumiem saistīto informāciju.
