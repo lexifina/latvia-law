@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Civilās aizsardzības un katastrofas pārvaldīšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100 (5672)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-05-25",
+  "entry_into_force": "2016-10-01",
+  "notification_date": "2018-08-20",
+  "commission_reference": "MNE(2018)54400",
+  "nim_celex": "72017L0541LVA_261988",
+  "nim_id": "261988",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fc0892b1-6c95-4360-941c-2cc8bbc323f9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
