@@ -8,4 +8,4 @@
 6) nodrošina citu atsevišķu valsts noteikto uzdevumu izpildi Muzeja kompetences jomā;
 7) izmanto Muzeja telpas un krājumu citiem šajā likumā neminētiem valstij nozīmīgiem mērķiem, par ko valsts un Muzejs vienojas atsevišķi.
 (2) Veicot šā panta pirmajā daļā noteiktos uzdevumus, Muzejs atrodas Kultūras ministrijas funkcionālā pārraudzībā.
-(3) Muzejs ik gadu sniedz Muzeju valsts pārvaldei pārskatu par tam deleģēto uzdevumu izpildi.
+(3) Muzejs ik gadu sniedz Kultūras ministrijai pārskatu par tam deleģēto uzdevumu izpildi.
