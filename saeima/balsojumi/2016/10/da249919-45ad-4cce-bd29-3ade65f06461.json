@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 8,
+ "datums": "2016-10-06",
+ "ieraksts": {
+  "dkp_id": "6e584047-5894-47b8-babf-122137c3ad0c",
+  "lastmodtime": "\"AAAAAAFVKHs=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Einārs#Jānis#Mihails#Vladimirs#Andris#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Ingmārs#Veiko#Hosams#Jānis#Igors#Jānis#Ints#Valdis#Silvija#Andris#Juris#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Anrijs#Ilze#Valters#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Mārtiņš#Viktors#Andrejs#Juris#Jānis#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Rihards#Solvita#Aivars#Aija#Mārtiņš#Igors#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Vectirāns#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Matīss#Viņķele#Dambe#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Bondars#Valainis#Judins#Šulcs#Urbanovičs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Eigims#Āboltiņa#Meija#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#ZZS#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #ZZS#VIENOTĪBA#NSL#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.10.2016 09:04:51",
+  "VOTEMOTIVE": "Par Ievas Višķeres apstiprināšanu par apgabaltiesas tiesnesi (409/Lm12)",
+  "VOTING_ID": "da249919-45ad-4cce-bd29-3ade65f06461",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "76",
+  "VOTERESULT_REGISTERED": "81",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5ce0185c-2421-436d-b666-b404a5807aab/download/12.saeimas-2016.gada-rudens-sesija-8-vote.xml",
+  "sha256": "3d0d36faf7403e7d0d5a6ac235cb65df36dc538d791241604d44a27befa8d2ae",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
