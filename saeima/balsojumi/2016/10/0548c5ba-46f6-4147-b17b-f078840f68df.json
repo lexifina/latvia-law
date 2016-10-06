@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 8,
+ "datums": "2016-10-06",
+ "ieraksts": {
+  "dkp_id": "5e5038b0-02bf-4968-9541-7bf3a6178732",
+  "lastmodtime": "\"AAAAAAFVZP4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Einārs#Mihails#Vladimirs#Andris#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Armands#Lolita#Valdis#Ingmārs#Veiko#Hosams#Jānis#Igors#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Inguna#Ilmārs#Jūlija#Anrijs#Ilze#Valters#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Viktors#Juris#Aleksejs#Jānis#Inga#Aleksandrs#Gunārs#Ritvars#Kārlis#Sergejs#Rihards#Kārlis#Gundars#Jānis#Rihards#Ivars#Solvita#Aivars#Mārtiņš#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Cilinskis#Zemļinskis#Nikonovs#Bērziņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Krauze#Čigāne#Skujiņš#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Rībena#Latkovskis#Stepaņenko#Matīss#Viņķele#Dambe#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Valainis#Šulcs#Loskutovs#Vucāns#Bite#Jakimovs#Kūtris#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Eigims#Zariņš#Āboltiņa#Meija#Šics#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": "VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#ZZS#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #ZZS#SASKAŅA #VIENOTĪBA#NSL#LRA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.10.2016 11:04:33",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Par Latvijas Republikas valdības un Ķīnas Tautas Republikas Honkongas īpašā administratīvā reģiona valdības līgumu par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu ... (607/Lp12), 1.lasījums",
+  "VOTING_ID": "0548c5ba-46f6-4147-b17b-f078840f68df",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "57",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "17",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5ce0185c-2421-436d-b666-b404a5807aab/download/12.saeimas-2016.gada-rudens-sesija-8-vote.xml",
+  "sha256": "3d0d36faf7403e7d0d5a6ac235cb65df36dc538d791241604d44a27befa8d2ae",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
