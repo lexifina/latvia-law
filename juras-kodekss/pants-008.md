@@ -9,7 +9,7 @@ d) zvejas kuģus un zvejas laivas, kuras tiek izmantotas rūpnieciskajā zvejā 
 2) Ceļu satiksmes drošības direkcijas reģistrā:
 a) kuģošanas līdzekļus, kuru maksimālais garums ir mazāks par 12metriem, izņemot kuģus, kurus izmanto komercdarbībai jūrā un ostās,
 b) šādus atpūtas kuģus: ūdenssportam un atpūtai paredzētus kuģošanas līdzekļus (arī ūdens motociklus), kuru maksimālais garums ir mazāks par 12 metriem, izņemot jahtas.
-(3) Šā panta otrās daļas 2.punktā minēto kuģošanas līdzekļu reģistrācijas kārtību, kā arī noteikumus par visu kuģošanas līdzekļu satiksmi iekšējos ūdeņos nosaka Ministru kabinets.
+(3) Šā panta otrās daļas 2.punktā minēto kuģošanas līdzekļu reģistrācijas kārtību nosaka Ministru kabinets.
 (4) Latvijas kuģu tehniskās uzraudzības un klasifikācijas prasības nosaka Jūrlietu pārvaldes un jūras drošības likums.
 (5) (Izslēgta ar 22.12.2005. likumu)
 (6) Šā panta otrās daļas 1.punkta "a" apakšpunktā minētos kuģus reģistrē, ja reģistrācijas brīdī tie nav vecāki par 23 gadiem. Šis ierobežojums neattiecas uz kuģiem, kuri tiek izmantoti tikai kabotāžā Latvijā, pasažieru kuģiem, kuri tiek izmantoti reisos starp Baltijas jūras ostām, un kuģiem, kuri paredzēti valsts dienestu funkciju veikšanai.

@@ -15,5 +15,5 @@
 12) citus būtiskus apstākļus.
 (3) Ja vraks, kas atrodas Latvijas ūdeņos, ir bīstams (apdraud kuģošanas drošību vai rada vides piesārņojuma draudus), Latvijas Jūras administrācija uzliek par pienākumu norobežot vraku. Informāciju par vraku un tā norobežojuma aprakstu Latvijas Jūras administrācija publicē informatīvajā biļetenā "Paziņojumi jūrniekiem".
 (4) Pēc vraka bīstamības novērtēšanas Latvijas Jūras administrācija nekavējoties nosūta vraka īpašniekam uzaicinājumu informēt to par saviem nodomiem attiecībā uz vraku.
-(5) Ja vraka īpašnieks nav zināms, vraks uzskatāms par atrastu mantu un Latvijas Jūras administrācija nedēļas laikā publicē laikrakstā "Latvijas Vēstnesis" paziņojumu par vraku un uzaicinājumu vraka īpašniekam pieteikties sešu mēnešu laikā.
+(5) Ja vraka īpašnieks nav zināms, vraks uzskatāms par atrastu mantu un Latvijas Jūras administrācija nedēļas laikā publicē oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu par vraku un uzaicinājumu vraka īpašniekam pieteikties sešu mēnešu laikā.
 (6) Ja vraks netiek pieprasīts sešu mēnešu laikā no paziņojuma publicēšanas dienas, tas pāriet valsts īpašumā.
