@@ -1,3 +1,4 @@
 3.pants. Tautības ieraksta maiņas iemesli
 (1) Persona, kura ir Latvijas pilsonis, nepilsonis vai kurai Latvijas Republikā piešķirts bezvalstnieka statuss, ir tiesīga vienu reizi mainīt tautības ierakstu pret savu tiešo augšupējo radinieku tautību divu paaudžu robežās, ja tā sasniegusi 15 gadu vecumu un var pierādīt savu radniecību ar minētajām personām.
 (2) Persona, kuras tautības ieraksts mainīts pirms pilngadības sasniegšanas, ir tiesīga mainīt tautības ierakstu arī pēc pilngadības sasniegšanas, ievērojot šā panta pirmās daļas nosacījumus.
+(3) Persona, kura Latvijā uzturas ar derīgu uzturēšanās atļauju, reģistrācijas apliecību vai pastāvīgās uzturēšanās apliecību, ir tiesīga mainīt tautības ierakstu pret tautības ierakstu "latvietis" vai "lībietis (līvs)", ievērojot šā panta pirmās un otrās daļas nosacījumus.
