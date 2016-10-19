@@ -1,0 +1,1 @@
+1.pants. 2016.gada 24.maijā Briselē parakstītā Latvijas Republikas valdības un Kipras Republikas valdības konvencija par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
