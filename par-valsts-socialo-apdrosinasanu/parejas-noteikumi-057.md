@@ -1,0 +1,1 @@
+57. Šā likuma 6.panta 2.³ daļa, grozījums šā likuma 14.panta otrajā daļā par otrā teikuma izslēgšanu, grozījums par šā likuma 18.panta otrās daļas izteikšanu jaunā redakcijā un 20.¹ panta sestā daļa stājas spēkā 2017.gada 1.janvārī.

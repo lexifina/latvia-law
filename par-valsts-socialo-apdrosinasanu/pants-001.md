@@ -9,13 +9,14 @@ d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņ
 e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli,
-h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā;
-i) mikrouzņēmuma darbinieks;
+h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā,
+i) mikrouzņēmuma darbinieks,
 j) persona, kuru Latvijas Republikā nodarbina ārvalsts nodokļu maksātājs, kuram Latvijas Republikā ir pastāvīgā pārstāvniecība, kā arī persona, kuru iekšzemes nodokļu maksātājam iznomā ārvalsts nodokļu maksātājs - personāla iznomātājs,
-k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm;
-l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks;
-m) kapitālsabiedrības valdes loceklis, ja kapitālsabiedrībai taksācijas gada kārtējā mēnesī apgrozījums ir lielāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, kas reizināts ar koeficientu 5, un kapitālsabiedrībā šajā mēnesī nav neviena darba ņēmēja vai visiem darba ņēmējiem obligāto iemaksu objekts ir mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru;
-n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli;
+k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm,
+l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks,
+m) kapitālsabiedrības valdes loceklis, ja kapitālsabiedrībai taksācijas gada kārtējā mēnesī apgrozījums ir lielāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, kas reizināts ar koeficientu 5, un kapitālsabiedrībā šajā mēnesī nav neviena darba ņēmēja vai visiem darba ņēmējiem obligāto iemaksu objekts ir mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru,
+n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli,
+o) persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums);
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),

@@ -1,0 +1,1 @@
+60. Sākot no 2018.gada 1.janvāra, Aģentūra triju gadu laikā informē Valsts ieņēmumu dienestu par darba devēja un sociāli apdrošinātās personas pārmaksātajām iemaksām, kuras uzkrātas par periodu līdz 2016.gada 31.decembrim un kuru apmērs sasniedz vai pārsniedz 35 procentus no valsts sociālā nodrošinājuma pabalsta, un pārmaksas atmaksā Ministru kabineta noteiktajā kārtībā.

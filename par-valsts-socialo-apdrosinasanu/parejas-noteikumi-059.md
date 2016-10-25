@@ -1,0 +1,1 @@
+59. Atbilstoši šā likuma 21.¹ panta piektajai daļai Aģentūra noraksta arī pēc noapaļošanas radušos obligāto iemaksu starpību par iepriekšējo periodu no iemaksu starpības rašanās dienas līdz 2015.gada 31.decembrim, bet ne vairāk kā vienu euro par vienu kalendāra gadu vienai sociāli apdrošinātajai personai.
