@@ -1,0 +1,1 @@
+5. Līdz 2018.gada 31.decembrim Valsts komisijai ir tiesības pagarināt šā likuma 8.panta otrās daļas kārtībā iepriekš izdotā administratīvā akta darbības termiņu uz laiku līdz sešiem mēnešiem, bet ne ilgāk kā līdz jauna administratīva akta izdošanai konkrētās personas lietā.
