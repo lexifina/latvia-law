@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2016.gada 11.oktobra Ministru kabineta noteikumi Nr. 668 \"Energoefektivitātes monitoringa un piemērojamā energopārvaldības sistēmas standarta noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "211",
+  "official_journal_page": null,
+  "official_journal_date": "2016-10-31",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2020-09-07",
+  "commission_reference": "MNE(2020)56607",
+  "nim_celex": "72018L0844LVA_288228",
+  "nim_id": "288228",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8221c579-f400-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
