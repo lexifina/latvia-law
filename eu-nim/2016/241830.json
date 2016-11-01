@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 25.oktobra noteikumi Nr.691 \"Noteikumi par patērētāja kreditēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "213 (5785)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-11-01",
+  "entry_into_force": "2016-11-01",
+  "notification_date": "2016-11-07",
+  "commission_reference": "MNE(2016)56645",
+  "nim_celex": "72014L0017LVA_241830",
+  "nim_id": "241830",
+  "transposes_celex": [
+    "32014L0017"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3eef9410-1fb8-4749-96b4-0c2c95fdc111",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
