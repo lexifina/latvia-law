@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 18,
+ "datums": "2016-11-03",
+ "ieraksts": {
+  "dkp_id": "e911dee3-711d-45dc-ab4a-f665436fe5ea",
+  "lastmodtime": "\"AAAAAAFZ/nQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Dzintars#Ivans#Jānis#Einārs#Jānis#Mihails#Vladimirs#Artis#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Boriss#Andris#Andrejs#Juris#Ringolds#Inguna#Rihards#Ilmārs#Sergejs#Jūlija#Anrijs#Ilze#Ojārs Ēriks#Valters#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Mārtiņš#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Inga#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Sergejs#Rihards#Kārlis#Gundars#Rihards#Sergejs#Ivars#Solvita#Aivars#Aleksandrs#Aija#Mārtiņš#Igors#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Zaķis#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Cilevičs#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Mirskis#Stepaņenko#Matīss#Viņķele#Kalniņš#Dambe#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Bondars#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Bite#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Seržants#Daudze#Eigims#Potapkins#Zariņš#Āboltiņa#Meija#Kiršteins#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#SASKAŅA #VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#LRA#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#ZZS#ZZS#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Par#Pret#Pret#Par#Atturas#Nebalsoja#Atturas#Par#Par#Nebalsoja#Pret#Pret#Atturas#Par#Par#Par#Pret#Pret#Pret#Atturas#Par#Pret#Pret#Pret#Par#Nebalsoja#Atturas#Pret#Nebalsoja#Par#Par#Nebalsoja#Par#Atturas#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Par#Par#Atturas#Par#Par#Par#Atturas#Atturas#Atturas#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Nebalsoja#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "03.11.2016 11:29:58",
+  "VOTEMOTIVE": "Par Parlamentārās izmeklēšanas komisijas par korupcijas, lobēšanas, organizētās noziedzības un kontrabandas ietekmi uz nodokļu iekasēšanu un ekonomisko un finanšu noziegumu izmeklēšanu, kā arī Iekšlietu, Tieslietu, Finanšu ministrijas ... (427/Lm12)",
+  "VOTING_ID": "5699952d-14fa-4118-ba4a-211ec8846801",
+  "VOTERESULT_ABSTAIN": "10",
+  "VOTERESULT_AGAINST": "27",
+  "VOTERESULT_FOR": "41",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "14",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-18-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/0869af46-393f-4ef2-a549-cf1adbf6b596/download/12.saeimas-2016.gada-rudens-sesija-18-vote.xml",
+  "sha256": "401b1ee81fabeba55d7af290a601548e145818df824f8045a6f410610f4c2d4f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
