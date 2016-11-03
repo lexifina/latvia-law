@@ -1,0 +1,1 @@
+11. Šķīrējtiesu reģistrā reģistrētās pastāvīgās šķīrējtiesas dibinātājs līdz 2017.gada 1.jūnijam iesniedz Uzņēmumu reģistram pieteikumu par grozījumu izdarīšanu šķīrējtiesu reģistrā, nodrošinot šķīrējtiesas atbilstību šā likuma 8.panta otrajai daļai, kas stāsies spēkā 2017.gada 1.martā.

@@ -1,0 +1,1 @@
+12. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 11.punktā noteiktajā termiņā nav iesniedzis paredzētos dokumentus, Uzņēmumu reģistrs līdz 2017.gada 1.septembrim lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.
