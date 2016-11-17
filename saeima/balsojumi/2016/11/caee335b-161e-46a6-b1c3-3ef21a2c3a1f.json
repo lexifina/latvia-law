@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 22,
+ "datums": "2016-11-17",
+ "ieraksts": {
+  "dkp_id": "380656d0-2f4c-4a6c-8fa4-87456b8611de",
+  "lastmodtime": "\"AAAAAAFafC8=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Romāns#Ivans#Einārs#Jānis#Mihails#Vladimirs#Andris#Artis#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Ingmārs#Hosams#Jānis#Jānis#Ints#Boriss#Andris#Andrejs#Juris#Ringolds#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Anrijs#Ilze#Ojārs Ēriks#Valters#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Mārtiņš#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Rihards#Kārlis#Jānis#Rihards#Sergejs#Ivars#Solvita#Aivars#Aleksandrs#Aija#Mārtiņš#Igors#Artūrs#Janīna#Vilnis#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Naudiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Abu Meri#Ādamsons#Upenieks#Dālderis#Cilevičs#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Matīss#Viņķele#Kalniņš#Dambe#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Bondars#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Melgailis#Seržants#Tutins#Eigims#Potapkins#Zariņš#Āboltiņa#Meija#Kiršteins#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Ķirsis#Ņikiforovs",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#LRA#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Par#Par#Atturas#Par#Par#Atturas#Atturas#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Atturas#Par#Par#Atturas#Par#Atturas#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Par#Par#Par#Par#Atturas#Par#Atturas#Atturas#Par#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.11.2016 09:03:18",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Elektronisko plašsaziņas līdzekļu likumā (758/Lp12), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "caee335b-161e-46a6-b1c3-3ef21a2c3a1f",
+  "VOTERESULT_ABSTAIN": "21",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "63",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-22-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/6f71ced1-25a8-45f1-aed0-168e0f5ed6ab/download/12.saeimas-2016.gada-rudens-sesija-22-vote.xml",
+  "sha256": "006c0e77a97091700595371fa0f3a5fbec97ad9d5ed06cca5a204ec9d114cbe7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
