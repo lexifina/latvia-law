@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 25,
+ "datums": "2016-11-23",
+ "ieraksts": {
+  "dkp_id": "e5eec46f-124a-4fe3-98c8-805602e2fca1",
+  "lastmodtime": "\"AAAAAAFc2bg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Aivars#Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Jānis#Einārs#Jānis#Mihails#Vladimirs#Andris#Artis#Askolds#Ainars#Guntis#Jānis#Raimonds#Andris#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Jānis#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ilze#Ojārs Ēriks#Valters#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Mārtiņš#Inesis#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Solvita#Aleksandrs#Aija#Mārtiņš#Igors#Artūrs#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Meija#Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Viņķele#Kalniņš#Dambe#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Bondars#Boķis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Āboltiņa#Kiršteins#Barča#Šics#Zujevs#Rubiks#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": "NSL#LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#ZZS#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Nebalsoja#Par#Atturas#Pret#Pret#Atturas#Nebalsoja#Par#Atturas#Pret#Pret#Par#Par#Pret#Pret#Pret#Atturas#Pret#Par#Par#Pret#Pret#Atturas#Pret#Nebalsoja#Pret#Nebalsoja#Atturas#Nebalsoja#Par#Pret#Atturas#Atturas#Pret#Nebalsoja#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret#Par#Nebalsoja#Atturas#Atturas#Atturas#Pret#Par#Par#Atturas#Atturas#Par#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Par#Atturas#Pret#Atturas#Par#Par#Atturas#Pret#Pret#Par#Pret#Par#Par#Nebalsoja#Pret#Atturas#Pret#Par#Par#Pret#Pret#Par#Par#Par#Pret#Atturas#Pret#Nebalsoja#Par#Par#Atturas#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.11.2016 17:48:08",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.8. Grozījumi Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likumā (716/Lp12), 2.lasījums, steidzams",
+  "VOTING_ID": "60e47aeb-fee9-4aec-9c73-e45f49cdeffb",
+  "VOTERESULT_ABSTAIN": "20",
+  "VOTERESULT_AGAINST": "33",
+  "VOTERESULT_FOR": "26",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "123",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-25-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/28178651-8c94-45b1-8356-491b15398cc3/download/12.saeimas-2016.gada-rudens-sesija-25-vote.xml",
+  "sha256": "ddbc321e062fe428f3cce33606724701af47626647e0c04614a5f304fa53cc4c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
