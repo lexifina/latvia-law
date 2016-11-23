@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2016.gada rudens sesija",
+ "sede": 25,
+ "datums": "2016-11-23",
+ "ieraksts": {
+  "dkp_id": "0daf3485-f1c6-49c5-a1fd-05ea65a8e44a",
+  "lastmodtime": "\"AAAAAAFcP3M=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Jānis#Einārs#Jānis#Mihails#Vladimirs#Artis#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Jānis#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Mārtiņš#Inesis#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Gundars#Jānis#Rihards#Sergejs#Ivars#Solvita#Aivars#Aija#Mārtiņš#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Bondars#Boķis#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Daudze#Tutins#Eigims#Potapkins#Zariņš#Āboltiņa#Meija#Barča#Šics#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "#######################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#NSL#ZZS#LRA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Pret#Par#Par#Nebalsoja#Par#Par#Par#Par#Pret#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.11.2016 15:34:38",
+  "VOTEMOTIVE": "Grozījumi Pievienotās vērtības nodokļa likumā (701/Lp12), 2.lasījums, steidzams",
+  "VOTING_ID": "2cc50eb3-4ff6-4a5d-b243-efe7dfe012c0",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "68",
+  "VOTERESULT_REGISTERED": "88",
+  "VOTE_NUMBER": "86",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2016.gada rudens sesija-25-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/28178651-8c94-45b1-8356-491b15398cc3/download/12.saeimas-2016.gada-rudens-sesija-25-vote.xml",
+  "sha256": "ddbc321e062fe428f3cce33606724701af47626647e0c04614a5f304fa53cc4c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
