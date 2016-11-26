@@ -1,0 +1,1 @@
+1. pants. 2016. gada 14. jūnijā un 2016. gada 28. jūnijā parakstītais Protokols, ar kuru groza Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības protokolu par Baltijas Aizsardzības koledžas un tās personāla statusu (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
