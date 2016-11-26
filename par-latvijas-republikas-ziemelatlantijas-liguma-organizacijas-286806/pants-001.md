@@ -1,0 +1,1 @@
+1.pants. 2016.gada 5.janvārī parakstītais Latvijas Republikas, Ziemeļatlantijas līguma organizācijas Sabiedroto spēku Augstākās virspavēlniecības Eiropā un Sabiedroto spēku Augstākās virspavēlniecības Transformācijas komandiera štāba nolīgums, ar kuru papildina Parīzes protokolu (turpmāk - Papildu nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
