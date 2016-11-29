@@ -1,0 +1,1 @@
+5.pants. Latvijas Ārstu biedrība šā likuma 1.pantā minēto nekustamo īpašumu normatīvajos aktos noteiktajā kārtībā ieraksta zemesgrāmatā uz Latvijas Ārstu biedrības vārda, vienlaikus dzēšot zemesgrāmatā ierakstu par nodibināto lietojuma tiesību.
