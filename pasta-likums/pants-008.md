@@ -1,2 +1,2 @@
 8.pants. Tiesības sniegt pasta pakalpojumus
-Komersantam ir tiesības uzsākt pasta pakalpojumu sniegšanu, ja tas ir nosūtījis vai personiski iesniedzis Regulatoram reģistrācijas paziņojumu.
+Komersantam ir tiesības uzsākt pasta pakalpojumu sniegšanu, ja tas šā likuma 9.pantā noteiktajā kārtībā ir reģistrēts pasta komersantu reģistrā. Ja Regulators mēneša laikā no reģistrācijas paziņojuma saņemšanas dienas nav rakstveidā informējis reģistrācijas paziņojuma iesniedzēju par atteikumu to reģistrēt, uzskatāms, ka komersants ir reģistrēts pasta komersantu reģistrā.

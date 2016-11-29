@@ -4,4 +4,4 @@
 (3) Universālā pasta pakalpojuma sniedzējs nodrošina, ka tīro izmaksu aprēķinu pārbauda zvērināts revidents atbilstoši likumam "Par zvērinātiem revidentiem". Tīro izmaksu aprēķina pārbaude ietver arī aprēķinu veikšanai izmantoto datu patiesuma un pamatotības pārbaudi.
 (4) Universālā pasta pakalpojuma sniedzējs nodrošina tīro izmaksu aprēķina un zvērināta revidenta ziņojuma publisku pieejamību.
 (5) Līdz kārtējā gada 1.septembrim universālā pasta pakalpojuma sniedzējs tīro izmaksu aprēķinu iesniedz apstiprināšanai Regulatoram.
-(6) Regulators katru gadu oficiālajā izdevumā "Latvijas Vēstnesis" publicē ziņojumu, kurā informē par tīrajām izmaksām.
+(6) Regulators katru gadu savā mājaslapā internetā publicē ziņojumu, kurā informē par tīrajām izmaksām.
