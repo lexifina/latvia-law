@@ -1,0 +1,4 @@
+6.pants. Dziesmu un deju svētku tradīcija Latvijā un tās simbolisms, Suitu kultūrtelpa
+(1) Dziesmu un deju svētku tradīcija un simbolisms Latvijā, Igaunijā un Lietuvā ir iekļauts UNESCO Cilvēces nemateriālā kultūras mantojuma reprezentatīvajā sarakstā ar nosaukumu "Baltijas Dziesmu un deju svētki". Ar Dziesmu un deju svētku tradīcijas saglabāšanu un attīstību Latvijā saistītos jautājumus regulē šis likums, Dziesmu un deju svētku likums un UNESCO Konvencija par nemateriālā kultūras mantojuma saglabāšanu.
+(2) Suitu kultūrtelpa ir iekļauta UNESCO Nemateriālā kultūras mantojuma, kam jānodrošina neatliekama saglabāšana, sarakstā. Ar Suitu kultūrtelpas saglabāšanu un attīstību saistītos jautājumus regulē šis likums un UNESCO Konvencija par nemateriālā kultūras mantojuma saglabāšanu.
+(3) Uz šā likuma pamata Dziesmu un deju svētku tradīcija un simbolisms Latvijā, kā arī Suitu kultūrtelpa tiek iekļauta Nemateriālā kultūras mantojuma sarakstā.

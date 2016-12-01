@@ -1,0 +1,1 @@
+2. Latvijas Nacionālais kultūras centrs ne vēlāk kā līdz 2017.gada 10.janvārim izsludina pieteikumu iesniegšanu nemateriālā kultūras mantojuma elementu iekļaušanai Nemateriālā kultūras mantojuma sarakstā, nodrošinot pieteikumu izvērtēšanu un nemateriālā kultūras mantojuma elementu iekļaušanu Nemateriālā kultūras mantojuma sarakstā ne vēlāk kā līdz 2018.gada 30.jūnijam.
