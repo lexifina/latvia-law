@@ -8,4 +8,4 @@
 (3) Saeima atbrīvo Nacionālās elektronisko plašsaziņas līdzekļu padomes locekli no amata, ja:
 1) Padomes loceklis atstāj amatu pēc paša vēlēšanās. Padomes loceklis par amata atstāšanu rakstveidā paziņo Padomei, kas par to informē Saeimu ne vēlāk kā 14 dienu laikā no iesnieguma saņemšanas dienas;
 2) Padomes loceklis mēneša laikā neattaisnoti nav piedalījies Padomes darbā, tai skaitā nav apmeklējis vairāk kā pusi no Padomes sēdēm vai ilgāk par sešiem mēnešiem pēc kārtas slimības vai citu iemeslu dēļ nespēj pildīt amata pienākumus;
-3) ir konstatēti tādi normatīvajos aktos noteikti apstākļi, kas liedz attiecīgajai personai būt par Padomes locekli.
+3) ir konstatēts tāds likumā noteikts apstāklis, kas liedz attiecīgajai personai būt par Padomes locekli (tai skaitā neatbilstība šā likuma 56.panta trešajā daļā minētajām prasībām).
