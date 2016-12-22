@@ -34,12 +34,5 @@
 3) biedrībā vai nodibinājumā darbojas zinātniskā padome;
 4) biedrības vai nodibinājuma akadēmiskajos amatos ir ievēlētas vismaz piecas personas ar doktora zinātnisko grādu.
 (5¹) Ja zinātniskais institūts ir augstskolas struktūrvienība, zinātnisko institūciju reģistrā reģistrē vai nu augstskolu, vai tās struktūrvienību - zinātnisko institūtu. Lēmumu par zinātnisko institūciju reģistrā reģistrējamo zinātnisko institūciju pieņem augstskola.
-(6) Gadu pēc reģistrācijas zinātniskā institūcija iesniedz reģistra amatpersonai šādas ziņas:
-1) personas ar doktora zinātnisko grādu, kurām ar zinātnisko institūciju noslēgts darba līgums;
-2) īstenojamo zinātnisko projektu sarakstu, to finansējuma apmēru un avotu;
-3) iepriekšējā gada finanšu pārskatu (komercsabiedrībām).
-(7) No reģistrācijas brīža zinātniskā institūcija ik pēc sešiem gadiem reģistram iesniedz šādas ziņas:
-1) ievēlētās personas ar doktora zinātnisko grādu, kurām ar zinātnisko institūciju noslēgts darba līgums;
-2) pēdējo sešu gadu laikā īstenoto projektu sarakstu, patentu, starptautisko sadarbības projektu un publicēto zinātnisko rakstu sarakstu;
-3) ziņas par zinātniskās institūcijas telpu nodrošinājumu un svarīgākajām zinātniskajām iekārtām;
-4) darbības starptautisko vērtējumu.
+(6) (Izslēgta ar 08.12.2016. likumu)
+(7) (Izslēgta ar 08.12.2016. likumu)

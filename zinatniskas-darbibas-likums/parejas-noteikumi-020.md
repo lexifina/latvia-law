@@ -1,0 +1,1 @@
+20. Šā likuma 18.panta sestā daļa, 26.¹ pants, grozījumi 29.pantā par 28.panta pirmajā daļā paredzēto ziņu ierakstīšanu zinātnisko institūciju reģistrā un 30.panta trešās daļas jaunā redakcija par reģistra amatpersonas rīcību zinātnisko institūciju reģistrā ierakstāmo ziņu izmaiņu gadījumā stājas spēkā 2017.gada 1.martā.
