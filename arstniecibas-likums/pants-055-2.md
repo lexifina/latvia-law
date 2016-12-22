@@ -1,0 +1,2 @@
+55.² pants. (1) Ārstniecības iestādes var brīvprātīgi pievienoties Eiropas Savienības dalībvalstu veselības aprūpes sniedzēju un ekspertīzes centru kopīgi veidotiem Eiropas references tīkliem, kuru mērķis ir nodrošināt īpašu specializētu augstas kvalitātes veselības aprūpi pacientam, kuram ir reta vai maz izplatīta, sarežģīta slimība.
+(2) Prasības ārstniecības iestādēm, kuras vēlas brīvprātīgi pievienoties Eiropas references tīkliem, un kārtību, kādā ārstniecības iestādes pievienojas šiem tīkliem, nosaka Ministru kabinets.

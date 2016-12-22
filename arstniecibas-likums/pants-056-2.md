@@ -1,0 +1,1 @@
+56.² pants. Ārstniecības iestādes vadītājs veselības aprūpes nodrošināšanā, ja nepieciešams, iesaista ārstniecības atbalsta personu, kurai ir atbilstošas profesionālās zināšanas, ko apliecina izglītības dokuments par iegūto izglītību attiecīgajā profesijā.
