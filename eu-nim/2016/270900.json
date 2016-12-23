@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 20.decembra noteikumi Nr.827 \"Kārtība, kādā atzīst profesionālo kvalifikāciju pastāvīgai profesionālajai darbībai Latvijas Republikā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "250 (5822)",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-22",
+  "entry_into_force": "2016-12-23",
+  "notification_date": "2019-03-19",
+  "commission_reference": "MNE(2019)51713",
+  "nim_celex": "72005L0036LVA_270900",
+  "nim_id": "270900",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb0b1aa9-b6c4-4033-8501-2d0ed99c4783",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
