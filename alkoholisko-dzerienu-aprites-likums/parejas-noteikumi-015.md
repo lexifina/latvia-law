@@ -1,0 +1,1 @@
+15. Grozījumi par šā likuma 1.panta otrās daļas izteikšanu jaunā redakcijā un 3.panta 1.³ un 1.⁴ daļā attiecībā uz mazās alkoholisko dzērienu darītavas definīcijas papildināšanu ar alkoholiskā dzēriena veidu "starpprodukti" stājas spēkā 2017.gada 1.martā.
