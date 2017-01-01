@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016.gada 20.decembra noteikumi Nr.864 \"Grozījumi Ministru kabineta 2013. gada 5. novembra noteikumos Nr. 1245 \"Kārtība, kādā tiek veikta informācijas apmaiņa nodokļu jomā starp Latvijas un citu Eiropas Savienības dalībvalstu kompetentajām iestādēm un ārvalstu kompetentajām iestādēm, ar kurām ir noslēgti Latvijas Republikas Saeimas apstiprināti starptautiskie līgumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "251",
+  "official_journal_page": ".",
+  "official_journal_date": "2016-12-23",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2016-12-27",
+  "commission_reference": "MNE(2016)57850",
+  "nim_celex": "72015L2376LVA_243744",
+  "nim_id": "243744",
+  "transposes_celex": [
+    "32015L2376"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba5ae100-ce67-11e6-ad7c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
