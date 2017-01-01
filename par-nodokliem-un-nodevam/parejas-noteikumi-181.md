@@ -1,0 +1,1 @@
+181. Šā likuma 30.panta astotajā daļā minētajiem skaidrās naudas darījumiem, kuri noslēgti pirms 2017.gada 1.janvāra un kuru pilnīga vai daļēja izpilde paredzēta pēc 2017.gada 1.janvāra, norēķinu kārtība maināma uz bezskaidras naudas maksājumu līdz 2018.gada 1.janvārim.

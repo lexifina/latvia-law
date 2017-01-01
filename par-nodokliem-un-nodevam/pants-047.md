@@ -1,2 +1,0 @@
-47.pants. Pārvedamu vērtspapīru kolektīvo ieguldījumu fonds
-Šīs nodaļas izpratnē pārvedamu vērtspapīru kolektīvo ieguldījumu fonds ir saskaņā ar Ieguldījumu pārvaldes sabiedrību likumu izveidots atvērtais ieguldījumu fonds vai līdzīgs ieguldījumu fonds, vai kopējo ieguldījumu uzņēmums, kas izveidots citā Eiropas Savienības dalībvalstī un atbilst prasībām, kādas noteiktas Padomes 1985.gada 20.decembra direktīvā 85/611/EEK par normatīvo un administratīvo aktu koordināciju attiecībā uz pārvedamu vērtspapīru kolektīvo ieguldījumu uzņēmumiem.

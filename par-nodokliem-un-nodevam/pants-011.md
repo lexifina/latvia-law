@@ -73,7 +73,7 @@
 56) (izslēgts no 07.02.2014. ar 19.12.2013. likumu, kas stājas spēkā 23.01.2014. Sk. Pārejas noteikumu 157.punktu);
 57) par Elektronisko sakaru likumā noteiktajām numerācijas resursu lietošanas tiesībām (ikgadējā nodeva);
 58) par Ģerboņu likumā noteikto ģerboņu reģistrāciju;
-59) par ģeodēzisko, zemes ierīcības vai zemes kadastrālās uzmērīšanas darbu sertifikāta izsniegšanu vai sertifikāta darbības termiņa pagarināšanu;
+59) (izslēgts ar 23.11.2016. likumu);
 60) par zemes dzīļu izmantošanas licences izsniegšanu;
 61) par bieži sastopamo derīgo izrakteņu ieguves atļaujas izsniegšanu;
 62) par derīgo izrakteņu atradnes pases izsniegšanu;
@@ -151,4 +151,5 @@
 132) par slēgtas vai rekultivētas atkritumu izgāztuves atrakšanas un pāršķirošanas atļaujas izsniegšanu;
 133) par vides aizsardzības tehnisko noteikumu izsniegšanu;
 134) par tādu licencēto kapitālsabiedrību darbības uzraudzību, kuras sniedz patērētāju kreditēšanas pakalpojumus (ikgadējā nodeva);
-135) par Konkurences likumā noteikto apvienošanās izvērtēšanu.
+135) par Konkurences likumā noteikto apvienošanās izvērtēšanu;
+136) par atļaujas izsniegšanu kultūras pieminekļu, tajā skaitā valstij piederošo senlietu, pagaidu izvešanai, kā arī mākslas un antikvāro priekšmetu izvešanai vai pagaidu izvešanai no Latvijas Republikas.

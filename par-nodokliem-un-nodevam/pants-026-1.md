@@ -12,4 +12,5 @@
 2) komercreģistrā kā nodokļu maksātāja vienīgais dalībnieks vai vienīgā amatpersona ir norādīta riska persona;
 3) nodokļu revīziju (auditu) uzsāk, lai izvērtētu nodokļa pārmaksas atmaksas pamatotību;
 4) nodokļu administrācija, sagatavojot personas datu izvērtējumu nodokļu ieņēmumu risku jomā, ir konstatējusi faktus, kas liecina par apliekamā objekta slēpšanu vai izvairīšanos no nodokļu maksāšanas.
+(3²) Valsts ieņēmumu dienests ir tiesīgs piemērot transportlīdzekļa atsavināšanas aizliegumu, uzsākot nodokļu administrēšanas pasākumus Ceļu satiksmes likuma 10.panta vienpadsmitajā daļā minētajā gadījumā.
 (4) Lēmumu izpildes nodrošinājuma līdzekļus piemēro tā, lai nodokļu maksātājam nodarītu iespējami mazākus zaudējumus un iespējami mazāk traucētu tā darbību. Nodokļu administrācija Civillikumā noteiktajā kārtībā atlīdzina nodokļu maksātājam zaudējumus, kas radušies, nepamatoti piemērojot nodrošinājuma līdzekļus.
