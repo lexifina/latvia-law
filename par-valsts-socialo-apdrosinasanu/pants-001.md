@@ -16,7 +16,9 @@ k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņ
 l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks,
 m) kapitālsabiedrības valdes loceklis, ja kapitālsabiedrībai taksācijas gada kārtējā mēnesī apgrozījums ir lielāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, kas reizināts ar koeficientu 5, un kapitālsabiedrībā šajā mēnesī nav neviena darba ņēmēja vai visiem darba ņēmējiem obligāto iemaksu objekts ir mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru,
 n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli,
-o) persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums);
+o) persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums),
+p) persona, kura vada transportlīdzekli pasažieru komercpārvadājumos ar vieglo taksometru,
+r) persona, kurai saskaņā ar Jaunuzņēmumu darbības atbalsta likumu tiek piemērots valsts atbalsts nodokļu nomaksai;
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
