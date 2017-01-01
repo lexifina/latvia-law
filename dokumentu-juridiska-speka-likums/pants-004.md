@@ -1,7 +1,7 @@
 4.pants. (1) Lai dokumentam būtu juridisks spēks, tajā iekļauj šādus rekvizītus:
 1) dokumenta autoru nosaukums;
 2) dokumenta datums;
-3) paraksts.
+3) paraksts (izņemot likumā paredzētus gadījumus).
 (2) Tiesību aktos noteiktajos gadījumos organizācijas dokumentā, lai tam būtu juridisks spēks, papildus šā panta pirmajā daļā minētajiem rekvizītiem iekļauj šādus rekvizītus:
 1) dokumenta izdošanas vietas nosaukums;
 2) zīmoga nospiedums;
