@@ -1,1 +1,0 @@
-1. Ministru kabinets izvērtē šā likuma praktiskās īstenošanas gaitu un rezultātus, it īpaši attiecībā uz valsts sociālās apdrošināšanas iemaksām un sociālās apdrošināšanas pakalpojumu pieejamību mikrouzņēmumu darbiniekiem, un katru gadu līdz 1.oktobrim laikposmā līdz 2020.gadam iesniedz Saeimai ziņojumu par to.

@@ -1,1 +1,0 @@
-9. Šā likuma 2.panta 1.¹ daļa, 4.panta pirmās daļas 4.punkts, grozījums 4.panta astotajā daļā (ievērojot pārejas noteikumu 11.punktā noteikto), kā arī 7.panta 2.¹ daļa stājas spēkā 2017.gada 1.janvārī.
