@@ -1,0 +1,1 @@
+10. Pensijas un kaitējuma atlīdzības atbilstoši šā likuma 9.pantā un šo pārejas noteikumu 5., 6., 7., 8. un 9.punktā noteiktajai kārtībai pārrēķina no 2017.gada 1.janvāra un pārrēķināto apmēru par periodu no 1.janvāra izmaksā ne vēlāk kā 2017.gada septembrī.

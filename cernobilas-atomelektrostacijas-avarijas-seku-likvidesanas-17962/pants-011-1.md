@@ -1,0 +1,1 @@
+11.¹ pants. Izmaksai aprēķinātās kaitējuma atlīdzības summas, kas nav izmaksātas līdz personas nāvei, ir tiesības saņemt personas laulātajam, pirmās un otrās pakāpes radiniekiem, bet citai personai - uz mantojuma apliecības vai tiesas nolēmuma pamata.
