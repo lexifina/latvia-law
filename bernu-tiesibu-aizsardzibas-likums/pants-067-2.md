@@ -25,6 +25,7 @@
 13) Valsts robežsardzei;
 14) Pilsonības un migrācijas lietu pārvaldei;
 15) Valsts sociālās apdrošināšanas aģentūrai;
+15¹) bērnu aprūpes iestādei;
 16) citām valsts un pašvaldību iestādēm, kuru darbību reglamentējošos normatīvajos aktos ir noteikts, ka šo iestāžu funkcijas ir saistītas ar bērnu tiesību aizsardzību vai kriminālsoda vai administratīvā soda izpildi nepilngadīgajām personām.
 (4) Nepilngadīgo personu atbalsta informācijas sistēmā var iekļaut bērnu raksturojošu informāciju par viņa interesēm un ieradumiem, dzīvesveidu un dzīves vidi. Par bērnu raksturojošu informāciju uzskatāma informācija, kas nav iegūta administratīvās lietvedības vai kriminālprocesa ietvaros un nav saņemta ar informācijas sistēmu sasaistes līdzekļu palīdzību.
 (5) Nepilngadīgo personu atbalsta informācijas sistēmā iekļauto bērnu raksturojošo informāciju izsniedz tikai tām valsts un pašvaldību iestādēm, kuru darbību reglamentējošos normatīvajos aktos ir noteikts, ka šo iestāžu funkcijas ir saistītas ar bērnu tiesību aizsardzību vai kriminālsoda vai administratīvā soda izpildi nepilngadīgajām personām.
