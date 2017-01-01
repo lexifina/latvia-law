@@ -1,0 +1,1 @@
+124. Lai uzsāktu šā likuma 10.panta 1.⁶ un 1.⁷ daļas un 28.panta 17.punkta piemērošanu ar 2017. taksācijas gadu, privātie pensiju fondi šā likuma 19.panta desmitās daļas 1.punktā minēto informāciju par individuālo iemaksu veicēju uzkrāto papildpensijas kapitālu 2016.gada 31.decembrī elektroniski nosūta Valsts ieņēmumu dienestam līdz 2017.gada 1.septembrim.

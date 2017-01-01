@@ -8,6 +8,7 @@
 2.¹ (Izslēgta ar 01.12.2009. likumu)
 2.² (Izslēgta ar 01.12.2009. likumu)
 2.³ (Izslēgta ar 01.12.2009. likumu)
+2.⁴ Jaunuzņēmuma darba ņēmējam par jaunuzņēmumā gūto ar algas nodokli apliekamo ienākumu piemērojami Jaunuzņēmumu darbības atbalsta likumā noteiktie nosacījumi.
 3. Ārvalsts nodokļa maksātāja (nerezidenta) ar nodokli apliekamais ienākums ir:
 1) ienākums no algota darba, ieskaitot darbu, kas veikts Latvijas Republikā tāda darba devēja labā, kurš nav Latvijas Republikas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijas Republikā, vai darbu, kas veikts ārpus Latvijas Republikas Latvijas Republikas darba devēja labā;
 2) ienākums no profesionālās darbības, kas veikta Latvijas Republikas rezidentu vai nerezidentu pastāvīgo pārstāvniecību labā Latvijas Republikā vai ārpus tās;
