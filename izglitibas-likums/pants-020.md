@@ -6,7 +6,7 @@
 2) analizē izglītības iestāžu darbību, izstrādā priekšlikumus normatīvo aktu grozījumiem un izglītības iestāžu darba uzlabošanai;
 3) ierosina darba devējam disciplināri sodīt izglītības iestādes vadītāju vai pedagogu vai lauzt ar viņu noslēgto darba līgumu gadījumos, kad konstatēts likumu vai citu normatīvo aktu pārkāpums;
 4) likumā noteiktajā kārtībā un gadījumos administratīvi sodīt personas;
-5) uz laiku, kamēr izglītības iestādes dibinātājs nav izskatījis attiecīgo jautājumu un pieņēmis lēmumu, apturēt amatpersonu rīkojumus un atstādināt amatpersonas no pienākumu pildīšanas gadījumos, kad ir apdraudēta izglītojamo veselība vai dzīvība, kā arī citos likuma pārkāpumu gadījumos;
+5) uz laiku, kamēr izglītības iestādes dibinātājs nav izskatījis attiecīgo jautājumu un pieņēmis lēmumu, apturēt amatpersonu rīkojumus un atstādināt amatpersonas no pienākumu pildīšanas gadījumos, kad ir apdraudēta izglītojamo veselība vai dzīvība, kā arī citos likuma pārkāpumu gadījumos. Izglītības kvalitātes valsts dienesta lēmuma par amatpersonas vai pedagoga atstādināšanu no pienākumu pildīšanas pārsūdzēšana neaptur tā izpildi;
 6) izsniedz sertifikātus pedagoga privātprakses uzsākšanai, kā arī pagarina tā termiņu vai anulē to Ministru kabineta noteiktajā kārtībā.
 (4) Izglītības kvalitātes valsts dienesta vadītājam un viņa pilnvarotām dienesta amatpersonām ir tiesības:
 1) uzrādot dienesta apliecību, bez iepriekšējas paziņošanas apmeklēt jebkuras izglītības iestādes telpas un citas telpas, kas saistītas ar izglītības procesa norisi;

@@ -1,1 +1,1 @@
-30. Šā likuma 59.panta sestā daļa attiecībā uz pašvaldību finansiālo atbalstu pieaugušo izglītībai stājas spēkā 2013.gada 1.janvārī, bet attiecībā uz valsts finansiālo atbalstu pieaugušo izglītībai - ne vēlāk kā 2017.gada 31.decembrī.
+30. Šā likuma 59.panta sestā daļa attiecībā uz pašvaldību finansiālo atbalstu pieaugušo izglītībai stājas spēkā 2013.gada 1.janvārī, bet attiecībā uz valsts finansiālo atbalstu pieaugušo izglītībai - ne vēlāk kā 2022.gada 31.decembrī.

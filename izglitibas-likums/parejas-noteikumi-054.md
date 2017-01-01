@@ -1,0 +1,1 @@
+54. Ministru kabinets līdz 2017.gada 30.jūnijam izdara grozījumus Ministru kabineta 2016.gada 5.jūlija noteikumos Nr.445 "Pedagogu darba samaksas noteikumi" atbilstoši grozījumiem šā likuma 53.panta pirmajā daļā (par pedagoga darba samaksas noteikšanu, ja tiek ņemts vērā pedagoga darba stāžs).

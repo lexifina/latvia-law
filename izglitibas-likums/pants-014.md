@@ -8,12 +8,12 @@ Ministru kabinets:
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
-8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas kārtību;
+8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
-11) nosaka izglītības programmu licencēšanas un akreditācijas kārtību;
+11) nosaka izglītības programmu licencēšanas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 12) apstiprina pedagogu profesiju un amatu sarakstu;
-12¹) nosaka kārtību un kritērijus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai;
+12¹) nosaka kārtību un kritērijus izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai, tajā skaitā ārkārtas novērtēšanai un novērtēšanas anulēšanai;
 12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
 13) atbilstoši pedagogu profesijām apstiprina prasības pedagogiem nepieciešamajai izglītībai un profesionālajai kvalifikācijai;
 13¹) nosaka kārtību, kādā izsniedz sertifikātu pedagoga privātprakses uzsākšanai, pagarina tā termiņu vai anulē to;
@@ -21,7 +21,7 @@ Ministru kabinets:
 15) nosaka kārtību, kādā valsts un pašvaldības finansē mācību līdzekļu iegādi izglītības iestādēm;
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu;
-17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un internātskolās;
+17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un grupās, un internātskolās;
 18) nosaka izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem kā vienotu valsts politiku un stratēģiju izglītībā;
 18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
 19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;

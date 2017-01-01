@@ -1,0 +1,1 @@
+51. Uzturēšanas izdevumus pašvaldību speciālajās pirmsskolas izglītības iestādēs no 2017.gada 1.janvāra līdz 2017.gada 31.decembrim sedz no valsts budžeta finanšu līdzekļiem 30 procentu apmērā no pašvaldību speciālajām pirmsskolas izglītības iestādēm piešķirtā valsts finansējuma 2016.gadā.

@@ -1,0 +1,1 @@
+50. Uzturēšanas izdevumus pašvaldību internātskolās no 2017.gada 1.janvāra līdz 2017.gada 31.decembrim sedz no valsts budžeta mērķdotācijas par internātskolas izglītojamiem, kuri ir bāreņi vai bez vecāku gādības palikuši bērni, kā arī par izglītojamiem no trūcīgām un maznodrošinātām ģimenēm, ievērojot Ministru kabineta noteikumus, kas regulē internātskolu finansēšanas kārtību.
