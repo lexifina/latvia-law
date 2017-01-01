@@ -3,4 +3,6 @@
 (2) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram sedz uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos izdevumus citu dzīvojamās mājas pārvaldīšanas darbību veikšanai, kas nodrošina dzīvojamās mājas uzlabošanu un attīstīšanu, veicina optimālu tās pārvaldīšanas izdevumu veidošanu un attiecas uz:
 1) kopīpašumā esošo dzīvojamās mājas elementu, iekārtu vai komunikāciju nomaiņu, kuras rezultātā samazinās mājas uzturēšanas izmaksas;
 2) pasākumiem, kuru rezultātā samazinās izdevumi par pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu.
+(2¹) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram veic uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos naudas maksājumus uzkrājumu fondā šā panta pirmajā un otrajā daļā paredzēto dzīvojamās mājas pārvaldīšanas darbību veikšanai. Pieņemot minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību veikšanu vai to izmaksu efektivitāti.
+(2²) Šā panta 2.¹ daļā minēto naudas maksājumu veikšanas un izmantošanas kārtību nosaka dzīvokļu īpašnieku kopība.
 (3) Pieņemot šā panta otrajā daļā minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību izmaksu efektivitāti atbilstoši šā panta otrās daļas 1. un 2.punktā noteiktajam.

@@ -7,3 +7,4 @@
 (3) Visiem dzīvokļu īpašnieku kopības lēmumiem ir vienāds juridisks spēks neatkarīgi no tā, kurā no šā panta otrajā daļā minētajiem veidiem tie pieņemti.
 (4) Dzīvokļu īpašnieku kopība var noteikt, kuri jautājumi izlemjami tikai dzīvokļu īpašnieku kopsapulcē.
 (5) Visi dzīvokļu īpašnieku kopības pieņemtie lēmumi noformējami rakstveidā.
+(6) Dzīvokļu īpašnieku kopības lēmumu saprātīgā termiņā, bet ne vēlāk kā viena mēneša laikā no tā pieņemšanas dienas nosūta pārvaldniekam.
