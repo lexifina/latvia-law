@@ -25,5 +25,8 @@ b) nav iespējams noskaidrot transportlīdzekli pēc Eiropas Ekonomikas zonas va
 18) nodrošina Transportlīdzekļu apdrošinātāju biroja biedrus ar apdrošināšanas polišu un saskaņotā paziņojuma veidlapām;
 19) sniedz bez maksas tā rīcībā esošo informāciju izmeklēšanas iestādēm, prokuratūrai un tiesai to lietvedībā esošo materiālu pārbaudei, izmeklēšanai un iztiesāšanai.
 (3) Transportlīdzekļu apdrošinātāju birojs ir tiesīgs:
-1) normatīvajos aktos noteiktajā kārtībā pieprasīt un bez maksas saņemt no Valsts policijas izziņas par ceļu satiksmes negadījumiem, kā arī no citām valsts pārvaldes institūcijām, pašvaldībām un apdrošināšanas sabiedrībām - darbam nepieciešamo informāciju;
+1) normatīvajos aktos noteiktajā kārtībā pieprasīt un bez maksas saņemt datus, kas nepieciešami apdrošināšanas gadījuma administrēšanai cietušo trešo personu interešu aizsardzības un valsts budžeta un pašvaldību budžetu izdevumu atlīdzināšanas nolūkā:
+a) tiešsaistes režīmā no sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas informācijas sistēmas saskaņā ar šā likuma 58. un 59.pantu,
+b) iesniedzot pieprasījumus Valsts policijā, kā arī citās valsts pārvaldes institūcijās, pašvaldībās, prokuratūrā, tiesā un apdrošināšanas sabiedrībās, neizmantojot šā punkta "a" apakšpunktā minēto informācijas sistēmu, ja tajā nav pieejami apdrošināšanas gadījuma administrēšanai nepieciešamie dati;
 2) pārstāvēt ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa tiesīgo lietotāju vai īpašnieku, ja Transportlīdzekļu apdrošinātāju birojam iesniegts iesniegums par apdrošināšanas atlīdzību un apdrošināšanas atlīdzība izmaksājama no Garantijas fonda.
+(4) Transportlīdzekļu apdrošinātāju birojs nedrīkst sniegt apdrošināšanas pakalpojumus un nodarboties ar apdrošināšanas starpniecību.
