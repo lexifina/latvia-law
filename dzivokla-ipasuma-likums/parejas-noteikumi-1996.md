@@ -1,1 +1,0 @@
-Ar šā likuma spēkā stāšanos spēku zaudē likums "Par dzīvokļa īpašumu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 4.nr.; 1998, 23.nr.; 2001, 24.nr.; 2004, 9.nr.; 2009, 24.nr.).
