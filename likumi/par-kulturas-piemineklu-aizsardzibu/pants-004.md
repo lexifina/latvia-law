@@ -1,2 +1,3 @@
 4. pants. Aizliegums izvest kultūras pieminekļus
 Kultūras pieminekļus, tai skaitā senlietas, kuras saskaņā ar šā likuma 7.panta ceturtās daļas noteikumiem pieder Latvijas valstij, ir aizliegts izvest ārpus Latvijas Republikas. Kultūras pieminekļu, tai skaitā senlietu, kuras saskaņā ar šā likuma 7.panta ceturtās daļas noteikumiem pieder Latvijas valstij, pagaidu izvešana iespējama tikai ar Valsts kultūras pieminekļu aizsardzības inspekcijas atļauju Ministru kabineta noteiktajā kārtībā.
+Par atļaujas izsniegšanu kultūras pieminekļu, tajā skaitā valstij piederošo senlietu, pagaidu izvešanai no Latvijas Republikas maksājama valsts nodeva. Valsts nodevas apmēru, samaksas kārtību, kā arī valsts nodevas atvieglojumus un atbrīvojumus no tās nosaka Ministru kabinets.

@@ -1,2 +1,5 @@
 18.¹ pants. Mākslas un antikvāro priekšmetu izvešana no Latvijas Republikas un ievešana Latvijas Republikā
 Kārtību, kādā no Latvijas Republikas tiek izvesti un Latvijas Republikā ievesti mākslas un antikvārie priekšmeti, reglamentē Ministru kabineta noteikumi.
+To mākslas un antikvāro priekšmetu kategorijas, kuru izvešanai vai pagaidu izvešanai no Latvijas Republikas nepieciešama Valsts kultūras pieminekļu aizsardzības inspekcijas atļauja, nosaka Ministru kabinets.
+Par to, ka mākslas vai antikvārais priekšmets neietilpst tajā mākslas un antikvāro priekšmetu kategorijā, kuru izvešanai vai pagaidu izvešanai no Latvijas Republikas nepieciešama Valsts kultūras pieminekļu aizsardzības inspekcijas atļauja, persona ir tiesīga saņemt Valsts kultūras pieminekļu aizsardzības inspekcijas izsniegtu izziņu.
+Par atļaujas izsniegšanu mākslas un antikvāro priekšmetu izvešanai vai pagaidu izvešanai no Latvijas Republikas maksājama valsts nodeva. Valsts nodevas apmēru, samaksas kārtību, kā arī valsts nodevas atvieglojumus un atbrīvojumus no tās nosaka Ministru kabinets.

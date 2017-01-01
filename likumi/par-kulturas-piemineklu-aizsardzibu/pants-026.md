@@ -10,5 +10,7 @@ Latvijas Republikas Kultūras ministrijas Valsts kultūras pieminekļu aizsardz�
 6) sastādīt administratīvā pārkāpuma protokolu par kultūras pieminekļu aizsardzības noteikumu pārkāpumiem, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus;
 7) pārbaudīt antikvariātus un komisijas veikalus, mākslas salonus un kultūras vērtību izsoles, lai novērstu nelikumīgus darījumus ar kultūras pieminekļiem vai, ja tas nepieciešams, ņemtu tos valsts aizsardzībā kā kultūras vērtības;
 8) aprīkot inspekcijas transportlīdzekļus ar speciālām gaismas ierīcēm un signālierīcēm, izmantot krāsu un uzrakstu grafisko noformējumu;
-9) veikt kultūras pieminekļu ekspertīzi un izsniegt atļaujas to izvešanai no Latvijas Republikas;
-10) piedalīties muitas dienesta darbā, kontrolējot kultūras pieminekļu izvešanas likumību.
+9) veikt kultūras pieminekļu, tajā skaitā to senlietu, kuras saskaņā ar šā likuma 7.panta ceturtās daļas noteikumiem pieder valstij, kā arī mākslas un antikvāro priekšmetu ekspertīzi;
+10) piedalīties muitas dienesta darbā, kontrolējot kultūras pieminekļu izvešanas likumību;
+11) izsniegt atļaujas kultūras pieminekļu, tajā skaitā to senlietu, kuras saskaņā ar šā likuma 7.panta ceturtās daļas noteikumiem pieder valstij, kā arī mākslas un antikvāro priekšmetu izvešanai vai pagaidu izvešanai no Latvijas Republikas;
+12) pēc personas lūguma izsniegt izziņu, kas apliecina, ka attiecīgo mākslas vai antikvāro priekšmetu izvešanai vai pagaidu izvešanai no Latvijas Republikas nav nepieciešama Valsts kultūras pieminekļu aizsardzības inspekcijas atļauja.
