@@ -1,0 +1,1 @@
+19. Personai, kurai ģimenes valsts pabalsts piešķirts līdz 2016.gada 31.decembrim un tā izmaksa nepārtraukti turpinās pēc 2017.gada 1.janvāra, Valsts sociālās apdrošināšanas aģentūra pārskata pabalsta apmēru no 2017.gada 1.janvāra un starpību izmaksā ne vēlāk kā līdz 2017.gada 1.maijam.

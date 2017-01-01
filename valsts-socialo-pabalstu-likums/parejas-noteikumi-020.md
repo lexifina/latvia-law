@@ -1,0 +1,1 @@
+20. Grozījumi šā likuma 13.panta pirmās daļas 3.punktā attiecībā uz deleģējumu Ministru kabinetam noteikt valsts sociālā nodrošinājuma pabalsta minimālo apmēru apgādnieku zaudējušam bērnam stājas spēkā 2017.gada 1.aprīlī. Valsts sociālās apdrošināšanas aģentūra pārskata pabalsta apmēru no 2017.gada 1.aprīļa un starpību izmaksā ne vēlāk kā līdz 2017.gada 30.septembrim.
