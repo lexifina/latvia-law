@@ -1,0 +1,1 @@
+32. Līdz šā likuma 41.panta 1.⁴ daļā minētā tarifa apstiprināšanas brīdim atkritumu poligona apsaimniekotājs dabas resursu nodoklim par sadzīves atkritumu apglabāšanu piemēro koeficientu, kas atbilst attiecībai starp poligonā apglabāto atkritumu un poligonā pieņemto atkritumu daudzumu, un vienlaikus paziņo par to pašvaldībai saskaņā ar šā likuma 41.panta 1.⁵ daļu.

@@ -1,0 +1,3 @@
+34. Ja atkritumu apsaimniekošanas līgumos, kas noslēgti publisko iepirkumu vai publisko un privāto partnerību regulējošos normatīvajos aktos noteiktajā kārtībā līdz 2016.gada 31.decembrim vai izsludināti līdz 2016.gada 31.decembrim, paredzēts nosacījums par sadzīves atkritumu apsaimniekošanas maksas pārskatīšanu, pašvaldība pārrēķinu par 2017.gadu veic:
+1) divu mēnešu laikā pēc tam, kad tā saņēmusi šo pārejas noteikumu 30.punktā noteikto informāciju no atkritumu apsaimniekotāja;
+2) divu mēnešu laikā pēc tam, kad tā saņēmusi šo pārejas noteikumu 32.punktā noteikto informāciju no atkritumu poligona apsaimniekotāja.

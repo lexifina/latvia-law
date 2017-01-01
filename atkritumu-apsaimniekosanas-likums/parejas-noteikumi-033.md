@@ -1,0 +1,1 @@
+33. Informāciju saskaņā ar Ministru kabineta noteikto kārtību par veiktajiem atkritumu masas un tilpuma mērījumiem un piemērojamo koeficientu pārejai no tilpuma uz masas vienībām atkritumu apsaimniekotājs pirmo reizi iesniedz pašvaldībai līdz 2018.gada 30.aprīlim.

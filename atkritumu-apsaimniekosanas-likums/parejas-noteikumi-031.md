@@ -1,0 +1,1 @@
+31. Sadzīves atkritumu poligonu apsaimniekotāji sagatavo un ne vēlāk kā līdz 2017.gada 31.decembrim iesniedz izskatīšanai Sabiedrisko pakalpojumu regulēšanas komisijā atbilstoši šā likuma 41.panta 1.⁴ daļā minētajai tarifa aprēķināšanas kārtībai sagatavotu tarifa projektu.
