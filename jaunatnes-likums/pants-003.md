@@ -7,4 +7,4 @@
 5) rūpējas par to, lai jauniešiem un darbā ar jaunatni iesaistītajām personām būtu pieejama informācija par jauniešu tiesībām, pienākumiem, iespējām un atbildību.
 (2) Valsts pārvaldes iestādes, atbilstoši savai kompetencei īstenojot jaunatnes politiku, izvērtē attiecīgās nozares politikas ietekmi uz jaunatni.
 (3) Valsts pārvaldes iestādes savā darbībā nodrošina jaunatnes organizācijām iespēju iesaistīties jaunatnes politiku ietekmējošu lēmumu apspriešanā pirms to pieņemšanas.
-(4) Izglītības un zinātnes ministrs apstiprina ikgadējo jaunatnes politikas valsts programmu.
+(4) Izglītības un zinātnes ministrs apstiprina ikgadējo jaunatnes politikas valsts programmu, kurā noteiktas ikgadējās jaunatnes politikas prioritātes atbilstoši jaunatnes politikas plānošanas dokumentiem.
