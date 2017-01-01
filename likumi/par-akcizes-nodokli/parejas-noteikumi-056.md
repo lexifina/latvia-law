@@ -2,4 +2,6 @@
 1) līdz 2011.gada 30.jūnijam - 24 lati par 1000 cigāriem vai cigarillām;
 2) no 2011.gada 1.jūlija līdz 2013.gada 31.decembrim - 26 lati par 1000 cigāriem vai cigarillām;
 3) no 2014.gada 1.janvāra līdz 2015.gada 31.decembrim - 39,84 euro par 1000 cigāriem vai cigarillām;
-4) no 2016.gada 1.janvāra līdz 2017.gada 31.decembrim - 42,69 euro par 1000 cigāriem vai cigarillām.
+4) no 2016.gada 1.janvāra līdz 2016.gada 31.decembrim - 42,69 euro par 1000 cigāriem vai cigarillām;
+5) no 2017.gada 1.janvāra līdz 2017.gada 31.decembrim - 58 euro par 1000 cigāriem vai cigarillām;
+6) no 2018.gada 1.janvāra līdz 2018.gada 31.decembrim - 73 euro par 1000 cigāriem vai cigarillām.
