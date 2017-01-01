@@ -1,0 +1,2 @@
+10.¹ pants. (1) Ja komersants, kurš vēlas organizēt preču vai pakalpojumu loteriju, iesniedz dokumentus loterijas atļaujas saņemšanai pēc šā likuma 10.panta pirmajā daļā noteiktā termiņa, bet ne vēlāk kā 15 dienas pirms loterijas norises sākuma, tas iesniegumā norāda, ka vēlas saņemt Inspekcijas lēmumu par loterijas atļaujas piešķiršanu paātrinātā kārtībā.
+(2) Lēmumu par loterijas atļaujas piešķiršanu vai atteikumu piešķirt loterijas atļauju Inspekcija pieņem 10 dienu laikā pēc tam, kad saņemti visi nepieciešamie dokumenti un ziņas.

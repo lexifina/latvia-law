@@ -1,0 +1,1 @@
+5. Preču vai pakalpojumu loterijām, par kurām komersants Inspekcijai iesniedzis dokumentus loterijas atļaujas saņemšanai vai paziņojis par loterijas organizēšanu līdz 2016.gada 31.decembrim, piemēro Preču un pakalpojumu loteriju likuma redakciju, kas bija spēkā līdz 2016.gada 31.decembrim.

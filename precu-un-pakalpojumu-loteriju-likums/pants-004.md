@@ -1,2 +1,0 @@
-4.pants. (1) Ja preču vai pakalpojumu loterijas laimestu fonds nav lielāks par 720 euro, loteriju var organizēt pēc tam, kad par loterijas organizēšanu Ministru kabineta noteiktajā kārtībā ir paziņots Inspekcijai.
-(2) Komersants, kas vēlas organizēt preču vai pakalpojumu loteriju, kuras laimestu fonds nav lielāks par 720 euro, paziņo Inspekcijai par tās organizēšanu ne vēlāk kā 15 dienas pirms paredzētās loterijas norises sākuma.
