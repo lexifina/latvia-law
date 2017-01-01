@@ -8,4 +8,4 @@
 5) valsts budžeta līdzekļu sadalījumu un izlietojumu;
 6) saimniecisko darbību, pašu ieņēmumiem un to izlietojumu;
 7) starptautiskajiem sakariem;
-8) kā arī ziņas par absolventu tālākajām darba gaitām nākamajos trijos gados pēc attiecīgās augstskolas vai koledžas studiju programmas pabeigšanas.
+8) (izslēgts ar 23.11.2016. likumu).
