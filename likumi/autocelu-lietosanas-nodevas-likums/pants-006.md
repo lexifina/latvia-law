@@ -5,7 +5,7 @@ Nodevu nemaksā:
 3) par pašvaldību policijas iestāžu transportlīdzekļiem;
 4) (izslēgts ar 20.12.2010. likumu);
 5) (izslēgts ar 20.12.2010. likumu);
-6) par transportlīdzekļiem, kas saskaņā ar normatīvajiem aktiem ir atbrīvoti no prasības uzstādīt darba un atpūtas laika reģistrācijas kontrolierīces;
-7) par transportlīdzekļiem, ar kuriem fiziskā vai juridiskā persona, kas ir iekļauta Lauku atbalsta dienesta maksājumu saņēmēju datubāzē vai reģistrēta valsts aģentūrā "Lauksaimniecības datu centrs" kā dzīvnieku īpašnieks vai turētājs, veic pašpārvadājumus.
-8) (izslēgts ar 06.11.2013. likumu)
-9) (izslēgts ar 06.11.2013. likumu)
+6) (izslēgts ar 23.11.2016. likumu);
+7) (izslēgts ar 23.11.2016. likumu);
+8) (izslēgts ar 06.11.2013. likumu);
+9) (izslēgts ar 06.11.2013. likumu).
