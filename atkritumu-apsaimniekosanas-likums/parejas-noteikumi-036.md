@@ -1,0 +1,1 @@
+36. Dabas resursu nodokļa maksājumu pieaugumu atbilstoši nodokļa likmei, kas stājas spēkā 2017.gada 1.janvārī, par periodu no 2017.gada 1.janvāra līdz pašvaldības pieņemtā lēmuma par sadzīves atkritumu apsaimniekošanas maksas noteikšanu spēkā stāšanās brīdim proporcionāli iekļauj turpmākajos maksājumos periodā līdz 2017.gada 31.decembrim.
