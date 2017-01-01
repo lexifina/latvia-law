@@ -13,3 +13,4 @@
 (5) Izglītojamajam, kurš apguvis profesionālās pilnveides izglītības programmu, tiek izsniegta apliecība par profesionālās pilnveides izglītības ieguvi.
 (6) Izglītojamajam, kurš apguvis profesionālās ievirzes izglītības programmu, tiek izsniegta apliecība par profesionālās ievirzes izglītības ieguvi.
 (7) Personai, kura apguvusi profesionālo kompetenci ārpus formālās izglītības sistēmas un kuras profesionālā kompetence novērtēta šajā likumā noteiktajā kārtībā un atzīta par atbilstošu pirmā, otrā vai trešā profesionālās kvalifikācijas līmeņa profesionālajai kompetencei, tiek izsniegta profesionālās kvalifikācijas apliecība.
+(8) Valsts atzītos profesionālo izglītību apliecinošos dokumentos un profesionālo kvalifikāciju apliecinošos dokumentos norāda arī Latvijas kvalifikāciju ietvarstruktūras līmeni.
