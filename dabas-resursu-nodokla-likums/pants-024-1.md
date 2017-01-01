@@ -1,2 +1,2 @@
 24.¹ pants. Nodokļa aprēķināšana par uguņošanas ierīcēm
-Nodokļa maksātājs aprēķina un maksā nodokli par Latvijas Republikā ievestām uguņošanas ierīcēm, piemērojot nodokļa likmi 5 procenti no paredzētā šo ierīču ievešanas apjoma kopsummas, kas uzrādīta Latvijas Republikas Stratēģiskas nozīmes preču kontroles komitejas izsniegtajā ievešanas licencē.
+Nodokļa maksātājs aprēķina un maksā nodokli par Latvijas Republikā realizētām vai savas saimnieciskās darbības nodrošināšanai izmantotām uguņošanas ierīcēm, piemērojot nodokļa likmi trīs procentu apmērā no šo ierīču iegādes vērtības. Nodokļa maksātājs nodrošina realizēto un savas saimnieciskās darbības nodrošināšanai izmantoto uguņošanas ierīču uzskaiti, lai pamatotu nodokļa aprēķinu.

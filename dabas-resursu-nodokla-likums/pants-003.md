@@ -3,11 +3,11 @@
 1) ir saņēmusi vai tai saskaņā ar vides aizsardzības vai zemes dzīļu izmantošanas normatīvajiem aktiem bija pienākums saņemt vides aizsardzības normatīvajos aktos noteikto atļauju, licenci vai C kategorijas piesārņojošas darbības apliecinājumu un kura Latvijas Republikas teritorijā, kontinentālajā šelfā vai ekskluzīvajā ekonomiskajā zonā:
 a) iegūst ar nodokli apliekamus dabas resursus,
 b) realizē ar nodokli apliekamus dabas resursus, kas iegūti tādā saimnieciskajā darbībā, kura neattiecas uz derīgo izrakteņu ieguvi no zemes dzīlēm,
-c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās struktūrās dabasgāzi vai siltumnīcefekta gāzes,
+c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās struktūrās dabasgāzi,
 d) emitē vidē ar nodokli apliekamas piesārņojošas vielas vai apglabā atkritumus,
-e) emitē vidē siltumnīcefekta gāzes no stacionāras tehnoloģiskas iekārtas, kurā tiek veikta viena vai vairākas likuma "Par piesārņojumu" 2.pielikumā minētās piesārņojošās darbības (arī tādas piesārņojošas darbības, kuru ražošanas jauda vai saražotais produkcijas apjoms nepārsniedz likuma "Par piesārņojumu" 2.pielikumā minētos rādītājus);
-f) lieto ūdens resursus elektroenerģijas ražošanai hidroelektrostacijā, kuras hidromezgla kopējā uzstādītā jauda ir mazāka par diviem megavatiem;
-1¹) emitē atmosfērā siltumnīcefekta gāzes, veicot likuma "Par piesārņojumu" 1.¹ pielikumā noteiktās aviācijas darbības;
+e) (izslēgts ar 15.12.2016. likumu);
+f) lieto ūdens resursus elektroenerģijas ražošanai hidroelektrostacijā;
+1¹) (izslēgts ar 15.12.2016. likumu);
 2) pirmā Latvijas Republikas teritorijā:
 a) realizē videi kaitīgas preces vai preces iepakojumā (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu) vai ogles, koksu un lignītu (brūnogles), uguņošanas ierīces, kā arī pircēja ērtības vai reklāmas noformējuma dēļ iepakotu vai neiepakotu preču vai produktu kopumam (pirkumam) pievieno iepakojumu,
 b) savas saimnieciskās darbības nodrošināšanai izmanto videi kaitīgas preces, izņemot preces, kuras apliekamas ar nodokli, tās realizējot, vai iepakojumā iegādātas preces (arī kopā ar preci ievesto precei pievienoto primāro, sekundāro un terciāro iepakojumu), izņemot preces iepakojumā, kuras apliekamas ar nodokli, tās realizējot,
