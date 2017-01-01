@@ -1,0 +1,1 @@
+118. No 2019.gada 1.jūlija šā likuma 599.¹ pantā minētos rīkojumus dod, izpilda un informē par to izpildi, izmantojot Valsts reģionālās attīstības aģentūras pārziņā esošo Valsts informācijas sistēmu savietotāju.

@@ -2,9 +2,9 @@
 (1) Pieteikums noformējams atbilstoši Ministru kabineta apstiprinātajam paraugam.
 (2) Pieteikumā norādāms:
 1) tās tiesas nosaukums, kurai iesniegts pieteikums;
-2) pieteicēja vārds, uzvārds, personas kods, deklarētā dzīvesvieta, bet, ja tādas nav, - dzīvesvieta; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese. Pieteicējs norāda adresi saziņai ar tiesu, kā arī elektroniskā pasta adresi tiesas paziņojumu saņemšanai, ja viņš piekrīt saziņai ar tiesu izmantot elektronisko pastu;
+2) pieteicēja vārds, uzvārds, personas kods, deklarētā dzīvesvieta, bet, ja tādas nav, - dzīvesvieta; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese. Ja pieteicējs piekrīt elektroniskajai saziņai ar tiesu vai tas ir šā likuma 56.panta 2.³ daļā minētais subjekts, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos;
 3) parādnieka vārds, uzvārds, personas kods, deklarētā dzīvesvieta un deklarācijā norādītā papildu adrese, bet, ja tādas nav, - dzīvesvieta; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese;
-4) pieteicēja pārstāvja, ja pieteikumu iesniedz pārstāvis, vārds, uzvārds, personas kods un adrese saziņai ar tiesu, bet juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese;
+4) pieteicēja pārstāvja (ja pieteikumu iesniedz pārstāvis) vārds, uzvārds, personas kods un adrese saziņai ar tiesu; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese. Ja pieteicēja pārstāvis piekrīt elektroniskajai saziņai ar tiesu, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos. Ja pieteicēja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
 5) maksājuma saistība, sakarā ar kuru tiek iesniegts pieteikums, norādot saistību pamatojošo dokumentu identificējošu informāciju un saistības izpildes termiņu, kā arī kredītiestādes nosaukumu un konta numuru, kurā veicama samaksa, ja tāds ir;
 6) pieprasītā summa un tās aprēķins, norādot galveno parādu, līgumsodu, nolīgtos vai likumā noteiktos procentus un tiesas izdevumus;
 7) pieteicēja apliecinājums, ka prasījums nav atkarīgs no pretizpildījuma vai ka pretizpildījums ir izdarīts;

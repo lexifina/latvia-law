@@ -1,0 +1,1 @@
+120. Grozījumi šā likuma 142.panta piektajā daļā, 555.panta septītajā daļā, 557.pantā, 572.panta pirmajā un otrajā daļā, 599.panta trešās daļas izslēgšana, kā arī likuma papildināšana ar 599.¹ pantu stājas spēkā 2017.gada 1.jūlijā.

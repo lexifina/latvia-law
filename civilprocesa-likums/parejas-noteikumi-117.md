@@ -1,0 +1,1 @@
+117. Līdz 2017.gada 30.jūnijam dotos tiesu izpildītāja rīkojumus par kredītiestādē vai pie cita maksājumu pakalpojumu sniedzēja noguldīto līdzekļu apķīlāšanu un pārskaitīšanu tiesu izpildītāja depozīta kontā izpilda, piemērojot šā likuma normas, kas bija spēkā līdz 2017.gada 30.jūnijam.

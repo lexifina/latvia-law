@@ -4,7 +4,7 @@
 (2¹) (Izslēgta ar 30.10.2014. likumu)
 (3) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
-2) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu un adresi Latvijā saziņai ar tiesu, lai saņemtu tiesas dokumentus;
+2) pieteicēja vārdu, uzvārdu, personas kodu (ja tāda nav, - citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, - dzīvesvietu, kā arī adresi Latvijā saziņai ar tiesu, lai saņemtu tiesas dokumentus. Ja pieteicējs piekrīt elektroniskajai saziņai ar tiesu, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos;
 3) prettiesiski pārvietotā vai aizturētā bērna vārdu, uzvārdu, personas kodu (ja tāda nav, dzimšanas datus) un citas ziņas par bērnu, kā arī ziņas par bērna iespējamo atrašanās vietu un tās personas identitāti, ar kuru kopā bērns varētu atrasties;
 4) atbildētāja vārdu, uzvārdu, personas kodu (ja tāda nav, citus identifikācijas datus), deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, kā arī dzīvesvietu, ja tā atšķiras no deklarētās dzīvesvietas un deklarācijā norādītās papildu adreses vai ziņas par tā atrašanās vietu;
 5) apstākļus, kas apstiprina pieteicēja aizgādības vai aizbildnības tiesības;
@@ -13,6 +13,6 @@
 8) pievienoto dokumentu sarakstu;
 9) pieteikuma sastādīšanas laiku.
 (4) Pieteikumam pievieno dokumentus, uz kuriem tas pamatots.
-(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā.
+(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā. Ja pieteicēja pārstāvis ir zvērināts advokāts, pieteikumā papildus norāda zvērināta advokāta elektroniskā pasta adresi.
 (6) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
 (7) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.

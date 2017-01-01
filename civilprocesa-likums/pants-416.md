@@ -1,7 +1,8 @@
 416.pants. Apelācijas sūdzības saturs
 (1) Apelācijas sūdzībā norāda:
 1) tās tiesas nosaukumu, kurai adresēta sūdzība;
-2) sūdzības iesniedzēja vārdu, uzvārdu, personas kodu un deklarēto dzīvesvietu, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi. Sūdzības iesniedzējs papildus var norādīt arī citu adresi saziņai ar tiesu;
+2) sūdzības iesniedzēja vārdu, uzvārdu, personas kodu, deklarēto dzīvesvietu, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi. Ja sūdzības iesniedzējs piekrīt elektroniskajai saziņai ar tiesu vai tas ir šā likuma 56.panta 2.³ daļā minētais subjekts, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos. Sūdzības iesniedzējs papildus var norādīt arī citu adresi saziņai ar tiesu;
+2¹) pārstāvja elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, arī norādi par reģistrēšanos, ja sūdzību iesniedz pārstāvis un viņš piekrīt elektroniskajai saziņai ar tiesu. Ja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
 3) spriedumu, par kuru iesniedz sūdzību, un tiesu, kas taisījusi spriedumu;
 4) kādā apjomā spriedumu pārsūdz;
 5) kā izpaužas sprieduma nepareizība, motivējot, kāpēc sūdzības iesniedzējs uzskata, ka lietā nepareizi konstatēti fakti vai nepareizi novērtēti pierādījumi, sniegts nepareizs lietas apstākļu juridiskais novērtējums vai nepareizi piemērota materiālā tiesību norma, pārkāpta procesuālā tiesību norma;
