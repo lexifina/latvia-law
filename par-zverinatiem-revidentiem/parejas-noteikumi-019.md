@@ -1,0 +1,1 @@
+19. Šā likuma 37.⁹ panta otrajā daļā minētās sabiedriskas nozīmes struktūras izveido revīzijas komitejai līdzvērtīgu struktūru vai ievēlē revīzijas komiteju nākamajā akcionāru sapulcē, bet ne vēlāk kā 12 mēnešu laikā no šīs normas spēkā stāšanās dienas.

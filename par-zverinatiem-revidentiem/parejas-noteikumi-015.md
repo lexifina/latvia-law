@@ -1,0 +1,1 @@
+15. Zvērinātu revidentu komercsabiedrība, kura neatbilst šā likuma 21.panta ceturtās daļas prasībām (ne mazāk par 75 procentiem valdes locekļu ir zvērināti revidenti vai dalībvalstu revidenti), ir tiesīga turpināt revīzijas pakalpojumu sniegšanu, tomēr ne ilgāk kā līdz 2018.gada 1.janvārim.

@@ -1,8 +1,8 @@
 21.pants. Licences izsniegšanas kritēriji
-(1) Zvērinātu revidentu komercsabiedrība veidojama un reģistrējama atbilstoši Latvijas Republikas normatīvajiem aktiem.
-(2) Zvērinātu revidentu personālsabiedrībā (pilnsabiedrībā un komandītsabiedrībā) visiem tās biedriem jābūt zvērinātiem revidentiem.
-(3) Zvērinātu revidentu komercsabiedrībā vairāk par 50 procentiem balsstiesīgo kapitāla daļu jāpieder zvērinātiem revidentiem vai zvērinātu revidentu komercsabiedrībām, vai Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu revidentiem vai revidentu komercsabiedrībām, kas saskaņā ar Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts likumiem ir tiesīgas veikt profesionālo darbību, kuru atbilstoši Latvijas likumiem veic zvērināts revidents vai zvērinātu revidentu komercsabiedrība.
-(4) Zvērinātu revidentu komercsabiedrības valdes un padomes (ja padome ir izveidota) locekļu vairākumam jābūt zvērinātiem revidentiem.
+(1) Zvērinātu revidentu komercsabiedrības licence izsniedzama komercsabiedrībai, kas ir ierakstīta Latvijas Republikas Uzņēmumu reģistra vestajā komercreģistrā.
+(2) Par zvērinātu revidentu pilnsabiedrības biedru un komandītsabiedrības komplimentāru var būt tikai zvērināti revidenti vai zvērinātu revidentu komercsabiedrības, vai dalībvalstu revidenti, vai dalībvalstu revidentu komercsabiedrības.
+(3) Zvērinātu revidentu kapitālsabiedrībā vairāk par 50 procentiem balsstiesīgo kapitāla daļu vai balsstiesīgo akciju pieder zvērinātiem revidentiem vai zvērinātu revidentu komercsabiedrībām, vai dalībvalstu revidentiem, vai dalībvalstu revidentu komercsabiedrībām.
+(4) Zvērinātu revidentu kapitālsabiedrībā ne mazāk par 75 procentiem valdes locekļu ir zvērināti revidenti vai dalībvalstu revidenti.
 (5) Ja zvērinātu revidentu komercsabiedrība ir akciju sabiedrība, tā drīkst izlaist tikai vārda akcijas.
-(6) Zvērinātu revidentu komercsabiedrība nedrīkst veikt darbību, kas nav savienojama ar zvērinātu revidentu darbību.
+(6) Zvērinātu revidentu komercsabiedrības darba organizācija un resursu plānošanas, dokumentu pārvaldības, reģistru un lietu veidošanas kārtība atbilst prasībām, kuras minētas Ministru kabineta noteikumos, kas izdoti uz šā likuma 31.¹ panta pamata.
 (7) Personām, kuras zvērinātu revidentu komercsabiedrības vārdā sniedz revidenta ziņojumu par klienta gada pārskatu pārbaudi, ko nosaka likumi, kā arī sniedz revīzijas pārskatu par valsts vai pašvaldību institūciju finanšu revīziju, ir jābūt zvērinātiem revidentiem.

@@ -1,3 +1,2 @@
 VI nodaļa
-Zvērināta revidenta neatkarība un
-profesionālās ētikas prasības
+Zvērināta revidenta neatkarība, objektivitāte un profesionālās ētikas prasības

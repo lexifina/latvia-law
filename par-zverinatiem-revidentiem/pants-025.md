@@ -1,5 +1,5 @@
-25.pants. Zvērināta revidenta neatkarība
-(1) Zvērināts revidents savā profesionālajā darbībā ir neatkarīgs.
+25.pants. Zvērināta revidenta neatkarība un objektivitāte
+(1) Zvērināts revidents (arī zvērinātu revidentu komercsabiedrības iecelts atbildīgais zvērināts revidents) savā profesionālajā darbībā ir neatkarīgs un objektīvs.
 (2) Valsts un pašvaldību institūcijas, tiesas, prokurori un pirmstiesas izmeklēšanas iestādes garantē zvērinātu revidentu profesionālās darbības neatkarību. Lai garantētu zvērinātu revidentu profesionālās darbības neatkarību, ir aizliegts:
 1) iejaukties zvērinātu revidentu profesionālajā darbībā, ietekmēt vai iespaidot viņus;
 2) pieprasīt no zvērinātiem revidentiem ziņas un paskaidrojumus, izņemot šā likuma 33.pantā minētos gadījumus, kā arī nopratināt viņus kā lieciniekus par faktiem, kas viņiem kļuvuši zināmi, sniedzot profesionālos pakalpojumus;
@@ -8,4 +8,5 @@
 5) pieprasīt no klientiem ziņas par zvērinātu revidentu sniegto profesionālo pakalpojumu saturu;
 6) pakļaut zvērinātus revidentus jebkādām sankcijām vai draudiem sakarā ar profesionālajiem pakalpojumiem, kurus viņi atbilstoši likumiem sniedz klientiem;
 7) saukt zvērinātus revidentus pie jebkāda veida atbildības par rakstveidā vai mutvārdos izteiktiem paziņojumiem, kurus viņi snieguši, likumīgi un labā ticībā pildot savus profesionālos pienākumus.
-(3) Zvērinātu revidentu komercsabiedrības biedriem (dalībniekiem), vadītājam, izpildinstitūcijas locekļiem un citām personām ir aizliegts iejaukties zvērināta revidenta profesionālajā darbībā vai iespaidot viņu, lai ietekmētu šā revidenta kā neatkarīga eksperta viedokli vai sniegto atzinumu.
+(3) Zvērinātu revidentu komercsabiedrības biedriem, akcionāriem vai dalībniekiem, vadītājam, valdes un padomes (ja padome ir izveidota) locekļiem un citām personām ir aizliegts iejaukties zvērināta revidenta (arī zvērinātu revidentu komercsabiedrības iecelta atbildīgā zvērināta revidenta) profesionālajā darbībā vai iespaidot viņu, lai ietekmētu šā revidenta neatkarību un objektivitāti, viņa kā neatkarīga eksperta viedokli vai atzinumu.
+(4) Par profesionālo darbību, kura izpaužas kā revīzijas pakalpojums, nav uzskatāma zvērināta revidenta nelikumīga darbība klienta interesēs, kā arī viņa darbība klienta nelikumīga nodarījuma veicināšanai.

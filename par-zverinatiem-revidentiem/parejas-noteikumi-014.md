@@ -1,0 +1,1 @@
+14. Līdz attiecīgu grozījumu izdarīšanai citos likumos tajos lietoto atsauci uz likumu "Par zvērinātiem revidentiem" (attiecīgā locījumā) saprot kā atsauci uz Revīzijas pakalpojumu likumu (attiecīgā locījumā).
