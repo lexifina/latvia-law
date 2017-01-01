@@ -9,4 +9,5 @@
 7) spēles organizēšanai izmantojamo interneta adresi, ja azartspēli organizē ar interneta starpniecību;
 8) informāciju par azartspēles atbildīgo personu, norādot tās vārdu, uzvārdu un personas kodu (ja koda nav, - personu apliecinoša dokumenta nosaukumu, numuru, izdošanas datumu un izdevējiestādes nosaukumu).
 (2) Informāciju par interaktīvo azartspēļu organizēšanā un ar elektronisko sakaru pakalpojumu starpniecību veiktajā likmju pieņemšanā izmantojamām programmām, par paredzētajiem drošības un fizisko personu datu aizsardzības pasākumiem iesniedz Ministru kabineta noteiktajā kārtībā.
-(3) Ministru kabinets apstiprina to neatkarīgo un starptautiski atzīto laboratoriju sarakstu, kuras var sniegt atzinumu par interaktīvo azartspēļu organizēšanā izmantojamām programmām.
+(3) (Izslēgta ar 23.11.2016. likumu)
+(4) Ministru kabinets nosaka informāciju, kas iekļaujama tās interaktīvo azartspēļu programmas atbilstības pārskatā, kura izmantota interaktīvās azartspēles organizēšanai.

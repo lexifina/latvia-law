@@ -1,5 +1,5 @@
 39.pants. Kazino apmeklētāju reģistrācija
-(1) Kazino apmeklētāju reģistrācijas mērķis ir noteikt visu kazino apmeklētāju identitāti, lai nepieļautu nepilngadīgu personu apmeklējumus un novērstu noziedzīgi iegūtu līdzekļu legalizāciju.
+(1) Kazino apmeklētāju reģistrācijas mērķis ir noteikt visu kazino apmeklētāju identitāti, lai nepieļautu nepilngadīgu personu apmeklējumus un novērstu noziedzīgi iegūtu līdzekļu legalizāciju un terorisma finansēšanu.
 (2) Kazino apmeklētāju reģistrē katrā kazino apmeklējuma reizē, pieprasot no viņa personu apliecinošu dokumentu un ievadot kazino apmeklētāju reģistrā šādu informāciju:
 1) apmeklētāja vārds un uzvārds;
 2) personas kods (ja koda nav, - personu apliecinoša dokumenta nosaukums, numurs, izdošanas datums un izdevējiestādes nosaukums);

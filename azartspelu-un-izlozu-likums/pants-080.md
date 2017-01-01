@@ -1,16 +1,17 @@
-80.pants. Izlozes ar elektronisko sakaru pakalpojumu starpniecību organizētāja pienākumi
-(1) Izlozes ar elektronisko sakaru pakalpojumu starpniecību organizētājs nodrošina:
-1) izlozes dalībnieku uzskaiti;
-2) laimējušo dalībnieku reģistrāciju un identifikāciju šā likuma 54.pantā noteiktajā kārtībā;
-3) Izložu un azartspēļu uzraudzības inspekcijas darbinieku netraucētu piekļuvi izlozes organizēšanai izmantotajai programmai un grāmatvedības dokumentiem, kas saistīti ar izlozes organizēšanu ar elektronisko sakaru pakalpojumu starpniecību.
-(2) Interneta mājaslapā, kuru izlozes organizētājs izmanto izlozes organizēšanai, norāda:
-1) izlozes organizētāja nosaukumu, juridisko adresi, tālruņa numuru un izlozes organizēšanas licences numuru;
-2) izlozi, kuras biļetes var iegādāties ar elektronisko sakaru pakalpojumu starpniecību;
-3) izlozes noteikumus vai interneta adresi, kur ar tiem var iepazīties;
-4) aizliegumu piedalīties izlozē personām, kuras atrodas valstī vai teritorijā, kur dalība šādās izlozēs ir aizliegta;
-5) aizliegumu piedalīties izlozē personām, kuras nav sasniegušas 18 gadu vecumu.
-(3) Izlozes organizētājam savstarpējos norēķinos ar klientiem atļauts izmantot Latvijas Republikā reģistrētā kredītiestādē atvērtu kontu.
-(4) Ja izloze tiek organizēta pa tālruni, tās dalībnieks var piedalīties izlozē, izmantojot tikai Latvijas Republikā reģistrētu tālruņa numuru.
-(5) Izlozes organizēšanā izmantojamai programmai un aparatūrai, kas nodrošina tās darbību, jāatrodas Latvijas Republikā. Nepārvaramas varas gadījumos drīkst izmantot ārpus Latvijas Republikas esošas rezerves programmas un aparatūru, kas nodrošina to darbību, par to iepriekš paziņojot Izložu un azartspēļu uzraudzības inspekcijai.
-(6) Informācija par programmām, kuras izmantotas izlozes organizēšanai ar elektronisko sakaru pakalpojumu starpniecību, par attiecīgajiem drošības un fizisko personu datu aizsardzības pasākumiem iesniedzama šā likuma 47.panta otrajā daļā noteiktajā kārtībā.
-(7) Izlozes organizētājs, kas pārdod biļetes ar elektronisko sakaru pakalpojumu starpniecību, ne vēlāk kā 15 dienas pēc pārskata ceturkšņa beigām šā likuma 53.panta sestajā daļā noteiktajā kārtībā iesniedz Valsts ieņēmumu dienestam un Izložu un azartspēļu uzraudzības inspekcijai paziņojumu par pārskata ceturksnī iemaksāto likmju kopsummu un izmaksāto laimestu kopsummu, kā arī kredītiestādes izziņu par pārskata ceturksnī savstarpējos norēķinos ar dalībniekiem izmantotajā kontā veiktajiem darījumiem.
+80.pants. Interaktīvo izložu organizētāja pienākumi
+(1) Interaktīvo izložu organizētājs nodrošina:
+1) spēlētāju reģistrāciju un identitātes pārbaudi Ministru kabineta noteiktajā kārtībā, pieprasot no viņiem identificējošos datus un veicot spēlētāju identitātes pārbaudi, pirms viņiem tiek piešķirtas tiesības piedalīties interaktīvajā izlozē. Ministru kabinets nosaka spēlētāju reģistrācijas un identitātes pārbaudes kārtību;
+2) katram interaktīvās izlozes dalībniekam īpaša spēles konta izveidi uz interaktīvo izložu organizētāja spēles servera;
+3) Izložu un azartspēļu uzraudzības inspekcijas darbinieku netraucētu piekļuvi interaktīvo izložu organizēšanai izmantojamām programmām un grāmatvedības dokumentiem, kas saistīti ar interaktīvo izložu organizēšanu.
+(2) Interneta mājaslapā, kuru interaktīvo izložu organizētājs izmanto interaktīvās izlozes organizēšanai, norāda:
+1) interaktīvo izložu organizētāja nosaukumu, vienoto reģistrācijas numuru, juridisko adresi, tālruņa numuru un interaktīvās izlozes organizēšanas licences numuru;
+2) katras interaktīvās izlozes nosaukumu;
+3) katras interaktīvās izlozes noteikumus;
+4) aizliegumu piedalīties interaktīvajā izlozē personām, kuras atrodas valstī vai teritorijā, kur dalība šādās izlozēs ir aizliegta;
+5) aizliegumu piedalīties interaktīvajā izlozē personām, kuras nav sasniegušas 18 gadu vecumu.
+(3) Interaktīvo izložu organizētājam un dalībniekiem savstarpējos norēķinos ir atļauts izmantot tikai Latvijas Republikā reģistrētās kredītiestādēs atvērtus kontus.
+(4) Interaktīvo izložu organizētājam aizliegts pārskaitīt laimestu uz kontu, no kura netika veikta iemaksa dalībai interaktīvajā izlozē.
+(5) Interaktīvo izložu organizētājs nodrošina, ka interaktīvo izložu organizēšanā izmantojamā aparatūra, kur glabājas dati par spēlētāju identitāti, iemaksātajām dalības maksām un saņemtajiem laimestiem, atrodas Latvijas Republikā.
+(6) Ministru kabinets nosaka informāciju, kas iekļaujama tās interaktīvo izložu programmas atbilstības pārskatā, kura izmantota interaktīvās izlozes organizēšanai.
+(7) Informāciju par interaktīvo izložu organizēšanā izmantojamām programmām, par attiecīgajiem drošības un fizisko personu datu aizsardzības pasākumiem sniedz Ministru kabineta noteiktajā kārtībā. Ministru kabinets nosaka kārtību, kādā iesniedzama informācija par interaktīvo izložu organizēšanā izmantojamām programmām un par attiecīgajiem drošības un fizisko personu datu aizsardzības pasākumiem.
+(8) Interaktīvās izlozes organizētājs ne vēlāk kā 15 dienas pēc pārskata ceturkšņa beigām Ministru kabineta noteiktajā kārtībā iesniedz Valsts ieņēmumu dienestam elektroniski Elektroniskās deklarēšanas sistēmā un Izložu un azartspēļu uzraudzības inspekcijai paziņojumu par pārskata ceturksnī pārdotajām biļetēm un izmaksāto laimestu kopsummu. Ministru kabinets nosaka kārtību, kādā interaktīvo izložu organizētājs iesniedz paziņojumu par pārskata ceturksni.
