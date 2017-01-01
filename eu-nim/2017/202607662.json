@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2016. gada 13. decembra noteikumi Nr. 806 \"Noteikumi par Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonu ar speciālajām dienesta pakāpēm mēnešalgu un speciālo piemaksu noteikšanas kārtību un to apmēru\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "246",
+  "official_journal_page": null,
+  "official_journal_date": "2016-12-16",
+  "entry_into_force": "2017-01-01",
+  "notification_date": "2026-10-05",
+  "commission_reference": "MNE(2026)07662",
+  "nim_celex": "72023L0970LVA_202607662",
+  "nim_id": "202607662",
+  "transposes_celex": [
+    "32023L0970"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fe43dd47-3cc9-4735-8ef6-ac9ab1bbf6e7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
