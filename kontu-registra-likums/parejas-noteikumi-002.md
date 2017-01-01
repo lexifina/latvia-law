@@ -1,0 +1,1 @@
+2. Sākot ar 2017. gada 1. augustu, kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs šā likuma 5. panta otrajā daļā noteiktās ziņas Valsts ieņēmumu dienestam sniedz, ievērojot šā likuma 5. panta ceturtajā daļā noteikto termiņu.

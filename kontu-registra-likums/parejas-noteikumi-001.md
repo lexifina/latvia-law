@@ -1,0 +1,1 @@
+1. Kredītiestādei, krājaizdevu sabiedrībai un maksājumu pakalpojumu sniedzējam ir pienākums šā likuma 5. panta otrajā daļā noteiktās reģistrā iekļaujamās ziņas par pieprasījuma noguldījumu un maksājumu kontiem, kas atvērti un nav slēgti pirms 2017. gada 30. jūlija, iesniegt Valsts ieņēmumu dienestam līdz 2017. gada 31. jūlijam.

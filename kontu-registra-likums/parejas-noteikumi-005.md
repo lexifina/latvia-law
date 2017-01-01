@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2017. gada 1. jūlijam izstrādā un iesniedz izskatīšanai Saeimā likumprojektu, kas paredz kārtību, kādā kredītiestāde, krājaizdevu sabiedrība vai maksājumu pakalpojumu sniedzējs kontu reģistram sniedz ziņas par pilnvaroto personu Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.
