@@ -1,6 +1,7 @@
 16.pants. Amatpersonas atbilstības novērtēšana
-(1) Amatpersonas darbību un tās rezultātus novērtē Iestādes vadītāja vai viņa pilnvarotas amatpersonas izveidota vērtēšanas komisija Ministru kabineta noteiktajā kārtībā.
-(2) Iestādes vadītāja un viņa vietnieka darbību un tās rezultātus novērtē attiecīgā ministra izveidota vērtēšanas komisija. Koledžas vadītāja un viņa vietnieka darbību un tās rezultātus novērtē tās iestādes vadītāja izveidota vērtēšanas komisija, kuras padotībā atrodas koledža.
+(1) Amatpersonas darbību un tās rezultātus novērtē amatpersonas tiešais vadītājs. Ja amatpersona nepiekrīt tiešā vadītāja dotajam novērtējumam, amatpersonas darbību un tās rezultātus novērtē Iestādes vadītāja vai viņa pilnvarotas amatpersonas izveidota novērtēšanas komisija.
+(2) Iestādes vadītāja un viņa vietnieka darbību un tās rezultātus novērtē attiecīgā ministra izveidota novērtēšanas komisija. Koledžas vadītāja un viņa vietnieka darbību un tās rezultātus novērtē tās iestādes vadītāja izveidota novērtēšanas komisija, kuras padotībā atrodas koledža.
+(2¹) Kārtību, kādā novērtē amatpersonas darbību un tās rezultātus, nosaka Ministru kabinets.
 (3) Amatpersonas darbības un tās rezultātu novērtējums var būt šāds:
 1) atbilst noteiktajām prasībām, var virzīt iecelšanai augstākā amatā;
 2) atbilst noteiktajām prasībām;
@@ -13,4 +14,5 @@
 2) amatpersonas atvaļināšanu no dienesta sakarā ar noteiktajām prasībām neatbilstošu veselības stāvokli;
 3) amatpersonas pārcelšanu citā amatā;
 4) amatpersonas nosūtīšanu kvalifikācijas paaugstināšanai;
-5) dienesta laika pagarināšanu.
+5) dienesta laika pagarināšanu;
+6) amatpersonai piešķiramās naudas balvas un cita veida papildu atlīdzības apmēra noteikšanu.
