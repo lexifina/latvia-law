@@ -1,5 +1,5 @@
 2.pants. Likuma mērķis un darbības joma
-(1) Likums reglamentē Latvijas jurisdikcijā esošo elektronisko plašsaziņas līdzekļu darbības kārtību un noteikumus.
+(1) Likums reglamentē Latvijas jurisdikcijā esošo elektronisko plašsaziņas līdzekļu darbības kārtību un noteikumus, kā arī citu tiesību subjektu darbību šajā likumā paredzētajos gadījumos.
 (2) Šā likuma mērķi ir šādi:
 1) nodrošināt vārda un uzskatu paušanas brīvību, sociāli nozīmīgas informācijas vispārēju pieejamību un netraucētu brīvas, demokrātiskas diskusijas uzturēšanu un attīstību, paverot katram Latvijas iedzīvotājam iespēju patstāvīgi veidot viedokli par valstī notiekošajiem procesiem un tādējādi sekmējot viņa kā demokrātiskas sabiedrības locekļa līdzdalību ar šiem procesiem saistītu lēmumu izstrādāšanā;
 2) noteikt Latvijas jurisdikcijā esošo elektronisko plašsaziņas līdzekļu veidošanas, reģistrācijas, darbības un uzraudzības kārtību neatkarīgi no veida, kādā publiskai uztveršanai paredzētā informācija tiek izplatīta elektroniskajos sakaru tīklos;

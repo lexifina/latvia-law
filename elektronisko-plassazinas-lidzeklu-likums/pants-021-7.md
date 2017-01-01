@@ -1,0 +1,2 @@
+21.⁷ pants. Lēmums par audiovizuālo programmu retranslācijas pārtraukšanu, ja nav saņemta retranslācijas atļauja
+Ja Nacionālā elektronisko plašsaziņas līdzekļu padome konstatē, ka Latvijā tiek veikta audiovizuālo programmu retranslācija bez retranslācijas atļaujas, Padome pieņem lēmumu, ar kuru uzliek tiesisko pienākumu 15 dienu laikā pārtraukt audiovizuālo programmu retranslāciju vai saņemt attiecīgu retranslācijas atļauju.

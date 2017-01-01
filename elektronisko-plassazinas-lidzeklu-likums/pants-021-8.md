@@ -1,0 +1,2 @@
+21.⁸ pants. Rīcība pēc tam, kad pieņemts lēmums par audiovizuālo programmu retranslācijas pārtraukšanu
+Ja Padomes noteiktajā termiņā retranslācija netiek pārtraukta, netiek saņemta retranslācijas atļauja vai ar Padomi netiek panākta vienošanās par tiesiskā pienākuma izpildes termiņa pagarināšanu, Padome īsteno uzraudzības iestādes funkcijas Informācijas sabiedrības pakalpojumu likuma izpratnē un veic citas normatīvajos aktos paredzētās darbības.
