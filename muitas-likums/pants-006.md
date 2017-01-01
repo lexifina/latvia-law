@@ -9,7 +9,7 @@ Ministru kabinets nosaka:
 7) Eiropas Savienības tarifu kvotu pieteikšanas kārtību un kārtību, kādā tās administrē Valsts ieņēmumu dienests;
 8) kārtību, kādā piesaka muitas nodokļa atcelšanu un kvotu piemērošanu, kā arī kārtību, kādā noraida citu Eiropas Savienības dalībvalstu iesniegtos iesniegumus par muitas nodokļa atcelšanu un kvotu piemērošanu;
 9) akcīzes preču Eiropas Savienības kopējā muitas tarifa (TARIC) nacionālos papildkodus un to piemērošanas kārtību;
-10) kārtību, kādā muitas iestāde nodrošina Padomes 2002.gada 20.decembra regulas (EK) Nr. 2368/2002 par Kimberli procesa sertifikācijas sistēmas īstenošanu starptautiskajā tirdzniecībā ar neapstrādātiem dimantiem prasību izpildi;
+10) (izslēgts ar 23.11.2016. likumu);
 11) muitas procedūras - eksports - piemērošanas kārtību lauksaimniecības produktiem, kuri pretendē uz eksporta kompensācijām;
 12) kārtību, kādā persona, kuras darbībā ietilpst brīvajā zonā esošu preču uzglabāšana, apstrāde, pārstrāde, pārdošana vai pirkšana, veic preču krājumu uzskaiti;
 13) kārtību, kādā ārpussavienības preces, kuras netiek apliktas ar akcīzes nodokli, pārvieto ar autotransportu starp Rīgas brīvostas, Liepājas speciālās ekonomiskās zonas vai Ventspils brīvostas daļām viena muitas kontroles punkta ietvaros;
