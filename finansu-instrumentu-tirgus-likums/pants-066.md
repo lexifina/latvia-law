@@ -6,7 +6,7 @@
 4) komercsabiedrības, kuras kontrolē viena un tā pati persona;
 5) mērķa sabiedrības valdes un padomes locekļi;
 6) komercsabiedrība un tās valdes locekļi.
-(2) Par šā panta pirmās daļas 4.punktā minēto valdes un padomes locekļu saskaņotu rīcību liecina padomes locekļu ievēlēšanas un valdes locekļu iecelšanas saistība ar konkrēto akcionāru.
+(2) Par šā panta pirmās daļas 5.punktā minēto valdes un padomes locekļu saskaņotu rīcību liecina padomes locekļu ievēlēšanas un valdes locekļu iecelšanas saistība ar konkrēto akcionāru.
 (3) Šā panta pirmajā daļā minētās personas uzskatāmas par personām, kuras rīkojas saskaņoti, tikai gadījumā, ja tās Komisijai ticami neizskaidro un ar faktiem nepierāda saskaņotas rīcības neesamību.
 (4) Citiem akcionāriem adresētu piedāvājumu atpirkt tiem piederošās akcijas obligāti izsaka persona vai personas, kas rīkojas saskaņoti, ja tās:
 1) tieši vai netieši iegūst no akcijām izrietošās balsstiesības tādā daudzumā, ka šo personu balsstiesības sasniedz vai pārsniedz 30 procentus no akciju sabiedrības balsstiesīgo akciju kopskaita;

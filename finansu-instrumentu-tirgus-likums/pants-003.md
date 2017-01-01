@@ -9,7 +9,8 @@
 6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012);
 7) Regula Nr. 575/2013;
 8) Regula Nr. 596/2014;
-9) Eiropas Parlamenta un Padomes 2014.gada 23.jūlija regula (EK) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/EK un Regulā Nr. 236/2012 (Dokuments attiecas uz EEZ).
+9) Eiropas Parlamenta un Padomes 2014.gada 23.jūlija regula (EK) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/EK un Regulā Nr. 236/2012 (Dokuments attiecas uz EEZ);
+10) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa regula (ES) Nr. 537/2014 par īpašām prasībām attiecībā uz obligātajām revīzijām sabiedriskas nozīmes struktūrās un ar ko atceļ Komisijas Lēmumu 2005/909/EK (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 537/2014) gadījumos, kas noteikti Revīzijas pakalpojumu likuma 37.⁵ pantā.
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem:
 1) pārvedamiem vērtspapīriem;
 2) ieguldījumu fondu un alternatīvo ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
