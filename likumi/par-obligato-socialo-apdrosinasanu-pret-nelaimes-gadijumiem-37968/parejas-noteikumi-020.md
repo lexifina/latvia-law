@@ -1,0 +1,1 @@
+20. Šā likuma 20.panta divpadsmitā daļa saistībā ar atlīdzības par darbspēju zaudējumu izmaksas pārtraukšanu, sasniedzot vecuma pensijas piešķiršanai nepieciešamo vecumu, piemērojama tām personām, kuras likumā "Par valsts pensijām" noteikto vecumu sasniegušas pēc 2017.gada 1.janvāra.
