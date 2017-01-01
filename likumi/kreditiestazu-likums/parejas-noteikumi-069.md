@@ -1,0 +1,1 @@
+69. Šā likuma 66.² panta otrās daļas 2. un 3.punkts un astotās daļas otrais teikums (attiecībā uz deleģējumu Ministru kabinetam noteikt kārtību, kādā kredītiestāde, izpildot šā likuma 66.¹ panta pirmajā daļā noteikto rīkojumu, uzsāk un veic datu apmaiņu, izmantojot šā panta otrās daļas 2.punktā noteikto datu apmaiņas veidu) zaudē spēku ar 2019.gada 1.jūliju.
