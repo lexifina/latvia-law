@@ -1,0 +1,1 @@
+21. Kompetentā institūcija atbilstoši sākotnējam izvērtējumam izdod lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu, ja Valsts vides dienesta sākotnējā izvērtējuma rezultāts kopā ar izvērtējumā apkopoto informāciju un paredzētās darbības iesniegumu kompetentajā institūcijā iesniegts līdz 2016.gada 31.decembrim.
