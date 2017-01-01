@@ -46,7 +46,8 @@ c) nosacījumus vienreizēja un pagaidu klasifikācijas dokumenta saņemšanai,
 d) nosacījumus lēmuma par klasifikācijas dokumenta piešķiršanu grozīšanai vai atcelšanai,
 e) klasifikācijas iestādes pilnvaras,
 f) informācijas par būvkomersantu klasifikāciju izvietošanas, uzturēšanas, aktualizācijas un pārbaudes kārtību;
-13) nosaka būvniecības ieceres publiskās apspriešanas kārtību.
+13) nosaka būvniecības ieceres publiskās apspriešanas kārtību;
+14) nosaka publisko būvdarbu līgumā un publisko pakalpojumu līgumā par projektēšanu, projekta ekspertīzi un būvuzraudzības veikšanu obligāti ietveramos nosacījumus un to saturu.
 (2) Šā panta pirmās daļas 2.punktā minētos noteikumus izdod attiecībā uz:
 1) ēkām;
 2) autoceļiem un ielām;

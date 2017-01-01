@@ -3,7 +3,7 @@
 1) izstrādā politikas plānošanas dokumentus būvniecības jomā;
 2) izstrādā priekšlikumus būvniecību regulējošu normatīvo aktu sistēmas pilnveidošanai;
 3) izstrādā šā likuma 5.pantā minētos noteikumus;
-4) nodrošina būvniecības pārraudzībai un kontrolei nepieciešamās būvniecības informācijas sistēmas darbību.
+4) (izslēgts ar 23.11.2016. likumu).
 (2) Par būvniecības nozari atbildīgās ministrijas kompetencē var būt arī citi normatīvajos aktos paredzēti pienākumi būvniecības jomā.
 (3) Nozaru ministrijas atbilstoši to nolikumos noteiktajai kompetencei attiecībā uz šā likuma 5.panta otrās daļas 2., 3., 4., 5., 6., 7., 8. un 9.punktā minēto būvju būvniecību iesniedz par būvniecības nozari atbildīgajai ministrijai šādu speciālajos būvnoteikumos iekļaujamo informāciju:
 1) būvniecības procesa kārtība un būvniecības procesā iesaistītās institūcijas;
