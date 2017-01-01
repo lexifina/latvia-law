@@ -10,3 +10,4 @@ Plāni arī pievienojami:
 3) par savienojamiem lauku nekustamiem īpašumiem, ja katra savienojamā īpašuma plāns jau ir zemesgrāmatu nodaļā; ja nodaļai ir dažu savienojamo īpašumu plāni, tad jāiesniedz tikai iztrūkstošie īpašumu plāni;
 4) citos likumos paredzētos gadījumos.
 Ēkas (būves) kadastrālās uzmērīšanas dokumenti uzrādāmi un ēkas (būves) kadastrālās uzmērīšanas dokumentu kopijas vai izraksti no tām iesniedzami, ja nostiprina lietu tiesību uz ēkas (būves) neatdalītu reālu daļu.
+Ierakstot zemesgrāmatā apbūves tiesību uz zemes gabala reālu neatdalītu daļu, ja tās robežu plāns nav reģistrēts Kadastra informācijas sistēmā, informāciju par minētās zemes gabala daļas reģistrāciju Kadastra informācijas sistēmā zemesgrāmatu nodaļa iegūst no Kadastra informācijas sistēmas.
