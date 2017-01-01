@@ -3,7 +3,7 @@
 1) PVN grupas dalībnieki var būt tikai reģistrēti nodokļa maksātāji;
 2) maksimālais dalībnieku skaits PVN grupā nav ierobežots;
 3) reģistrēts nodokļa maksātājs vienlaikus nevar būt citas PVN grupas dalībnieks;
-4) PVN grupu var veidot, ja vismaz viena PVN grupas dalībnieka ar nodokli apliekamo preču piegāžu un sniegto pakalpojumu kopējā vērtība iepriekšējos 12 kalendāra mēnešos līdz mēnesim, kad iesniegts iesniegums PVN grupas reģistrācijai, ir vismaz 355 700 euro;
+4) PVN grupu var veidot, ja vismaz viena PVN grupas dalībnieka ar nodokli apliekamo preču piegāžu un sniegto pakalpojumu kopējā vērtība iepriekšējos 12 kalendāra mēnešos līdz mēnesim, kad iesniegts iesniegums PVN grupas reģistrācijai, ir vismaz 350 000 euro;
 5) PVN grupas dalībnieki var būt:
 a) kapitālsabiedrības, kuras ietilpst vienā koncernā (atbilstoši Koncernu likumam),
 b) ārvalsts komersanta (juridiskās personas) filiāle Latvijas Republikā, ja šis ārvalsts komersants atbilstoši Koncernu likumam ir tā paša koncerna sastāvā, kurā ietilpst pārējie PVN grupas dalībnieki;

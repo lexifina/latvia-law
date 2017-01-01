@@ -2,7 +2,7 @@
 (1) Nodokļa 0 procentu likmi Ministru kabineta noteiktajā kārtībā piemēro preču piegādēm, ja trešās valsts vai trešās teritorijas fiziskā persona, kas nav nodokļa maksātājs Eiropas Savienības teritorijā, izved iekšzemē iegādātās preces no Eiropas Savienības teritorijas.
 (2) Nodokļa 0 procentu likmi piemēro netieši, atmaksājot samaksāto nodokli.
 (3) Reģistrēts nodokļa maksātājs, kas atbilst Ministru kabineta noteiktajiem kritērijiem, atmaksā trešās valsts vai trešās teritorijas fiziskajai personai, kas nav nodokļa maksātājs Eiropas Savienības teritorijā, samaksāto nodokli par iekšzemē iegādātajām precēm, ja:
-1) preču piegādātāja vienas dienas laikā piegādāto preču vērtība (bez nodokļa) nav mazāka par 35,57 euro;
+1) preču piegādātāja vienas dienas laikā piegādāto preču vērtība (bez nodokļa) nav mazāka par 35,00 euro;
 2) fiziskā persona izved preces no Eiropas Savienības teritorijas.
 (4) Ministru kabinets nosaka:
 1) kārtību, kādā nodokļa 0 procentu likme piemērojama preču piegādēm, ja trešās valsts vai trešās teritorijas fiziskā persona, kas nav nodokļa maksātājs Eiropas Savienības teritorijā, izved iekšzemē iegādātās preces no Eiropas Savienības teritorijas;

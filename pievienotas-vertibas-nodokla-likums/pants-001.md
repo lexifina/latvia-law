@@ -25,7 +25,7 @@ e) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces faktis
 a) sauszemes motorizētais transportlīdzeklis, kura motora tilpums ir lielāks par 48 kubikcentimetriem vai jauda ir lielāka par 7,2 kilovatiem un kurš paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par sešiem mēnešiem vai nobraucis mazāk par 6000 kilometriem,
 b) kuģis vai cits kuģošanas līdzeklis, kas ir garāks par 7,5 metriem un paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par trim mēnešiem vai nobraucis mazāk par 100 stundām, izņemot šā likuma 47.panta pirmajā daļā minētos kuģus,
 c) gaisakuģis, kura pacelšanās masa ir lielāka par 1550 kilogramiem un kurš paredzēts pasažieru vai preču pārvadāšanai, ja tas ir lietots mazāk par trim mēnešiem vai nolidojis mazāk par 40 stundām, izņemot šā likuma 48.panta pirmajā daļā minētos gaisakuģus;
-10) mazas vērtības dāvana - prece vai pakalpojums, kuru nodod bez atlīdzības un kura vērtība bez nodokļa vienam cilvēkam kalendāra gada laikā nepārsniedz 14,23 euro, izņemot preci vai pakalpojumu, kas ir attiecināms uz reklāmas vai reprezentācijas izdevumiem;
+10) mazas vērtības dāvana - prece vai pakalpojums, kuru nodod bez atlīdzības un kura vērtība bez nodokļa vienam cilvēkam kalendāra gada laikā nepārsniedz 15,00 euro, izņemot preci vai pakalpojumu, kas ir attiecināms uz reklāmas vai reprezentācijas izdevumiem;
 11) mītnes vieta - personas, kura nav nodokļa maksātājs, juridiskā adrese vai juridiskai adresei līdzvērtīga adrese atbilstoši citas valsts normatīvajiem aktiem;
 12) nelietots nekustamais īpašums:
 a) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), vai tās daļa, ja to pēc pieņemšanas ekspluatācijā neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
