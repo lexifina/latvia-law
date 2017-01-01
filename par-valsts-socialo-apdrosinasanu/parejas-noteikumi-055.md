@@ -1,1 +1,0 @@
-55. Ministru kabinets izvērtē šā likuma 20.³ panta piemērošanas rezultātus attiecībā uz to darba ņēmēju sociālās apdrošināšanas pakalpojumu apmēru, par kuriem tiek veiktas obligātās iemaksas no minimālā obligāto iemaksu objekta, un līdz 2019.gada 1.oktobrim iesniedz ziņojumu Saeimai.

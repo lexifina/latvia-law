@@ -1,1 +1,0 @@
-54. 2017.gadā minimālo obligāto iemaksu objekts par personām, kas noteiktas šā likuma 20.³ panta pirmajā, otrajā un septītajā daļā, ir 3/4 no Ministru kabineta noteiktās minimālās mēneša darba algas apmēra, savukārt par personām, kas noteiktas šā likuma 20.³ panta astotajā daļā, - 3/8 no Ministru kabineta noteiktās minimālās mēneša darba algas apmēra.

@@ -3,6 +3,7 @@
 (2) Darba ņēmēji, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kuriem ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai. Darba ņēmēji, kuriem ir piešķirta izdienas pensija vai kuri ir personas ar invaliditāti - valsts speciālo pensiju saņēmējas -, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai.
 (2¹) Darba ņēmēji, kuri tiek nodarbināti brīvības atņemšanas soda izciešanas laikā, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai un apdrošināšanai pret bezdarbu, bet personas, kuras sasniegušas vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kurām ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), un tiek nodarbinātas brīvības atņemšanas soda izciešanas laikā, ir pakļautas pensiju apdrošināšanai.
 (2²) Darba ņēmējs, kurš maksā sezonas laukstrādnieku ienākuma nodokli un kura ienākums pie viena vai vairākiem sezonas laukstrādnieku ienākuma izmaksātājiem (darba devējiem) kopā mēnesī pārsniedz 70,00 euro, ir pakļauts pensiju apdrošināšanai.
+(2³) Kapitālsabiedrības valdes loceklis, kurš atbilst darba ņēmēja statusam saskaņā ar šā likuma 1.panta 2.punkta "m" apakšpunkta nosacījumiem, ir pakļauts pensiju apdrošināšanai un invaliditātes apdrošināšanai, bet kapitālsabiedrības valdes loceklis, kurš atbilst darba ņēmēja statusam saskaņā ar šā likuma 1.panta 2.punkta "m" apakšpunkta nosacījumiem un ir sasniedzis vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kuram ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), ir pakļauts pensiju apdrošināšanai.
 (3) Pašnodarbinātie, kuru ienākumi sasniedz Ministru kabineta noteikto obligāto iemaksu objekta minimālo apmēru, ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, bet pašnodarbinātie, kuri sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kuriem ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), ir pakļauti pensiju apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
 (3¹) (Izslēgta ar 22.09.2016. likumu)
 (3²) Fiziskās personas, kuras veic saimniecisko darbību un par to maksā patentmaksu, ir pakļautas pensiju apdrošināšanai un invaliditātes apdrošināšanai, bet personas, kuras sasniegušas vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kurām ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), ir pakļautas pensiju apdrošināšanai.
@@ -16,7 +17,7 @@
 7) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 8) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
 9) personas, kuras saņem bērna invalīda kopšanas pabalstu;
-10) personas, kuras kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu;
+10) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 11) personas, kuras veic algotos pagaidu sabiedriskos darbus.
 (5) Papildus šā panta pirmajā daļā minētajām personām apdrošināšanai pret bezdarbu ir pakļautas:
 1) (izslēgts ar 26.04.2007. likumu);
@@ -24,12 +25,13 @@
 3) personas, kuras saņem maternitātes, paternitātes vai slimības pabalstu;
 4) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 5) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
-6) personas, kuras kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu;
+6) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 7) personas, kuru laulātais (kam piešķirts diplomātiskais rangs saskaņā ar Diplomātiskā un konsulārā dienesta likumu) pilda diplomātisko un konsulāro dienestu ārvalstīs un kuras uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais.
 (5¹) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām invaliditātes apdrošināšanai ir pakļautas personas, kuras:
 1) saņem maternitātes vai paternitātes pabalstu;
-2) kopj bērnu, kas nav sasniedzis gada vecumu, un saņem vecāku pabalstu;
-3) kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu.
+2) kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
+3) kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu;
+4) saņem atlīdzību par adoptējamā bērna aprūpi.
 (6) Ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
 (7) Zemnieku (zvejnieku) saimniecību īpašnieki, kuri, nebūdami darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs zemnieku (zvejnieku) saimniecības vadības funkciju, ja šajā zemnieku (zvejnieku) saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), un kuri ir sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kuriem ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), vai kuri ir personas ar I vai II grupas invaliditāti, nav obligāti sociāli apdrošināmās personas.
 (8) Iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, apdrošināšanai pret bezdarbu, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai.
@@ -43,6 +45,6 @@
 (16) Ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka, kas, gūstot vienu un to pašu ienākumu, vienlaikus atbilst vairākiem sociāli apdrošināmās personas statusiem, sociālajai apdrošināšanai ir pakļauts kā ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka.
 (17) Citas dalībvalsts darba devējs ar personu, kurai saskaņā ar regulas 11., 12., 13., 14., 15. un 16.pantu piemēro Latvijas Republikas normatīvos aktus, var vienoties par to, kādā statusā šī persona veiks obligātās iemaksas: darba ņēmēja statusā vai iekšzemes darba ņēmēja pie darba devēja - ārvalstnieka statusā. Par šādu vienošanos citas dalībvalsts darba devējs informē Valsts ieņēmumu dienestu.
 (18) Persona, kas ir reģistrēta kā mikrouzņēmuma darbinieks un kas, gūstot vienu un to pašu ienākumu, vienlaikus atbilst citiem sociāli apdrošināmās personas statusiem, sociālajai apdrošināšanai ir pakļauta kā mikrouzņēmuma darbinieks.
-(19) (Daļa stājas spēkā 01.01.2017. un iekļauta likuma redakcijā uz 01.01.2017. Sk. Pārejas noteikumu 56. punktu)
+(19) (Izslēgta ar 20.12.2016. likumu)
 (20) Persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums), ir sociāli apdrošināma visā vienošanās darbības periodā atbilstoši šā panta pirmajai vai otrajai daļai.
 (21) Ārvalstnieks, uz kuru neattiecas regula vai starpvalstu līgums sociālās drošības jomā un kurš tiek nodarbināts Eiropas Komisijas finansēta projekta ietvaros, nav pakļauts obligātajai sociālajai apdrošināšanai minētā projekta ietvaros.

@@ -1,0 +1,1 @@
+63. Ministru kabinets līdz 2017.gada 1.maijam izstrādā un iesniedz Saeimai likumprojektus par grozījumiem attiecībā uz sociālās apdrošināšanas pakalpojuma apmēru sociāli apdrošinātām personām ar zemu obligāto iemaksu objektu.
