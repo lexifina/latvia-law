@@ -1,99 +1,41 @@
-Nr.p.k.
-Preces veids
-Mērvienība
-Likme
+1. Nodokļa likmes par videi kaitīgām precēm, izņemot elektriskās un elektroniskās iekārtas, kas noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā
+Nr.p. k.Preces veidsMērvienībaLikme laikposmā no 2014.gada 1.janvāra līdz 2016.gada 31.decembrim
+(euro)Likme no 2017.gada 1.janvāra
 (euro)
-1.
-Smēreļļas
-kg
-0,17
-2.
-Elektriskie akumulatori un galvaniskie strāvas avoti (arī tādi, kas iestrādāti ierīcēs un transportlīdzekļos):
-2.1.
-elektriskie akumulatori, svina
-kg
-0,74
-2.2.
-elektriskie akumulatori Ni-Cd un Fe-Ni
-kg
-4,00
-2.3.
-galvaniskie elementi un galvaniskās baterijas
-kg
-11
-2.4.
-citi elektriskie akumulatori
-kg
-17,03
-3.
-Ozona slāni noārdošās vielas (freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)
-kg onp
-2,22
-4.
-Visu veidu riepas
-kg
-0,33
-5.
-Eļļas filtri
-gab.
-0,33
-6.
-Elektriskās un elektroniskās iekārtas atbilstoši Atkritumu apsaimniekošanas likuma 24.panta pirmajai daļai:
-6.1.
-liela izmēra mājsaimniecības iekārtas (izņemot liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapjus)
-kg
-1,44
-6.2.
-liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapji
-kg
-2,33
-6.3.
-maza izmēra mājsaimniecības iekārtas
-kg
-3,00
-6.4.
-informācijas tehnoloģijas un elektronisko sakaru iekārtas (izņemot monitorus, mobilos telefonus)
-kg
-3,00
-6.5.
-monitori
-kg
-2,33
-6.6.
-mobilie telefoni
-kg
-3,33
-6.7.
-plašam patēriņam paredzētās iekārtas (izņemot televizorus)
-kg
-1,44
-6.8.
-televizori
-kg
-2,33
-6.9.
-elektriskie un elektroniskie instrumenti (izņemot liela izmēra stacionārus ražošanas mehānismus, kas nav pārnēsājami vai ir pastāvīgi piestiprināti)
-kg
-3,01
-6.10.
-gāzizlādes spuldzes
-kg
-8,58
-6.11.
-apgaismes ķermeņi (izņemot gāzizlādes spuldzes)
-kg
-2,22
-6.12.
-monitoringa un kontroles instrumenti
-kg
-2,00
-6.13.
-rotaļlietas, sporta un atpūtas piederumi
-kg
-3,00
-6.14.medicīniskās ierīces (izņemot implantētās un inficētās medicīniskās ierīces)
-kg
-2,00
-6.15.tirdzniecības automāti
-kg
-3,00
+1.Smēreļļaskg0,170,17
+2.Elektriskie akumulatori un galvaniskie strāvas avoti (arī tādi, kas iestrādāti ierīcēs un transportlīdzekļos):
+2.1.elektriskie akumulatori, svinakg0,740,74
+2.2.elektriskie akumulatori
+Ni-Cd un Fe-Nikg4,004,00
+2.3.galvaniskie elementi un galvaniskās baterijaskg1111
+2.4.citi elektriskie akumulatorikg17,0317,03
+3.Ozona slāni noārdošās vielas (freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)kg onp2,222,22
+4.Visu veidu riepaskg0,330,66
+5.Eļļas filtrigab.0,330,33
+2. Nodokļa likmes par elektriskajām un elektroniskajām iekārtām, kas noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā, līdz 2018.gada 30.jūnijam
+Nr.p. k.Preces veidsLikme
+(euro) par 1 kg
+1.Liela izmēra mājsaimniecības iekārtas (izņemot liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapjus)1,44
+2.Liela izmēra dzesēšanas iekārtas, saldētavas, ledusskapji2,33
+3.Maza izmēra mājsaimniecības iekārtas3,00
+4.Informācijas tehnoloģijas un elektronisko sakaru iekārtas (izņemot monitorus, mobilos telefonus)3,00
+5.Monitori2,33
+6.Mobilie telefoni3,33
+7.Plašam patēriņam paredzētās iekārtas (izņemot televizorus)1,44
+8.Televizori2,33
+9.Elektriskie un elektroniskie instrumenti (izņemot liela izmēra stacionārus ražošanas mehānismus, kas nav pārnēsājami vai ir pastāvīgi piestiprināti)3,01
+10.Gāzizlādes spuldzes8,58
+11.Apgaismes ķermeņi (izņemot gāzizlādes spuldzes)2,22
+12.Monitoringa un kontroles instrumenti2,00
+13.Rotaļlietas, sporta un atpūtas piederumi3,00
+14.Medicīniskās ierīces (izņemot implantētās un inficētās medicīniskās ierīces)2,00
+15.Tirdzniecības automāti3,00
+3. Nodokļa likmes par elektriskajām un elektroniskajām iekārtām, kuras noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā, no 2018.gada 1.jūlija
+Nr. p. k.Preces veidsLikme
+(euro) par 1 kg
+1.1. kategorija. Temperatūras maiņas iekārtas2,50
+2.2. kategorija. Ekrāni, monitori un iekārtas ar ekrānu, kura virsmas laukums ir lielāks par 100 cm²3,50
+3.3. kategorija. Spuldzes8,58
+4.4. kategorija. Liela izmēra iekārtas (visi ārējie izmēri pārsniedz 50 cm), tai skaitā mājsaimniecības preces, IT un telesakaru iekārtas, patērētāju iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, tirdzniecības automāti, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2. un 3.kategorijā ietilpstošās iekārtas)3,00
+5.5. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm), tai skaitā mājsaimniecības preces, plaša patēriņa audiovizuālas iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2., 3. un 6.kategorijā ietilpstošās iekārtas)3,00
+6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)3,50
