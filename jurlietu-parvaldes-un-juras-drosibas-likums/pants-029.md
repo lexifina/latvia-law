@@ -1,6 +1,7 @@
 29.pants. Jūrnieku veselības atbilstība darbam uz kuģa
 (1) Jūrniekam, kurš gatavojas iegūt profesionālo kvalifikāciju apliecinošu dokumentu vai kurš ir nodarbināts vai vēlas sākt darbu uz kuģa, ir jābūt derīgam ārsta izsniegtam atzinumam par veselības atbilstību darbam uz kuģa.
-(2) Ministru kabinets nosaka kārtību, kādā veicamas veselības pārbaudes jūrniekiem, kā arī kārtību, kādā izsniedzams ārsta atzinums par jūrnieka veselības atbilstību darbam uz kuģa.
-(3) Kritērijus, pēc kādiem jūrnieku veselības pārbaudē konstatējama jūrnieku veselības atbilstība darbam uz kuģa, nosaka Ministru kabinets.
+(1¹) Personai pirms ieskaitīšanas vai imatrikulācijas profesionālās izglītības programmā, pēc kuras apgūšanas var saņemt jūrnieka kvalifikāciju apliecinošu dokumentu (turpmāk - jūrnieka kvalifikācijas pretendents), jābūt derīgam jūrnieku ārsta izsniegtam atzinumam par personas veselības stāvokļa atbilstību darbam uz kuģa izraudzītajā specialitātē.
+(2) Ministru kabinets nosaka kārtību, kādā veicamas veselības pārbaudes jūrniekiem un jūrnieka kvalifikācijas pretendentiem, kā arī kārtību, kādā izsniedzams ārsta atzinums par jūrnieka veselības atbilstību darbam uz kuģa.
+(3) Kritērijus, pēc kādiem jūrnieku veselības pārbaudē konstatējama jūrnieku un jūrnieka kvalifikācijas pretendentu veselības atbilstība darbam uz kuģa, nosaka Ministru kabinets.
 (3¹) Izdevumus par atzīta jūrnieku ārsta veiktu veselības pārbaudi jūrniekam, kurš ir nodarbināts uz Latvijas kuģa, sedz attiecīgā kuģa īpašnieks.
-(4) Ministru kabinets nosaka jūrnieku ārstu atzīšanas kritērijus un kārtību, kā arī jūrnieku ārstu pienākumus.
+(4) Ministru kabinets nosaka jūrnieku ārstu atzīšanas kritērijus un kārtību, jūrnieku ārstu atzīšanas anulēšanas kārtību, kā arī jūrnieku ārstu pienākumus. Lēmumā par jūrnieku ārsta atzīšanas anulēšanu Latvijas Jūras administrācijas Jūrnieku reģistram ir tiesības noteikt liegumu uz laiku līdz trim gadiem ārstam atkārtoti pretendēt uz jūrnieku ārsta atzīšanu.

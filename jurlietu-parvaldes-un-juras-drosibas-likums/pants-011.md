@@ -48,3 +48,4 @@
 (8) Ministru kabinets nosaka kārtību, kādā mēra kuģa tilpību un izsniedz tilpību apliecinošus dokumentus.
 (9) Ministru kabinets izdod noteikumus, kuros nosaka īpašas stabilitātes prasības ro-ro pasažieru kuģiem.
 (10) Ministru kabinets izdod noteikumus, kuros nosaka prasības kuģu radio un navigācijas aprīkojuma izmantošanai un apkalpošanai.
+(11) Ministru kabinets nosaka kārtību, kādā tiek piešķirts un anulēts vienotais ražotāja kods fiziskajai vai juridiskajai personai, kas Latvijā būvē atpūtas kuģus vai ūdens motociklus.

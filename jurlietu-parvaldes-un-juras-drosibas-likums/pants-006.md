@@ -12,6 +12,7 @@ e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu
 5) uzrauga klasifikācijas sabiedrību (atzīto organizāciju) darbību;
 6) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģa drošības aprīkojuma pārbaudes;
 7) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģu būvi, projektēšanu, modernizāciju vai remontu;
+7¹) piešķir vienoto ražotāja kodu fiziskajai vai juridiskajai personai, kas Latvijā būvē atpūtas kuģus vai ūdens motociklus;
 8) veic ostas valsts kontroli;
 9) uzrauga beramkravu kuģu drošas kraušanas prasību ievērošanu uz kuģiem un termināļos, kā arī veic beramkravu termināļu atbilstības pārbaudes;
 10) kontrolē bīstamo un piesārņojošo kravu apriti ostās kuģa un krasta mijiedarbības ietvaros;
