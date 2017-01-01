@@ -43,4 +43,4 @@ ne vairāk kā 608
 ne vairāk kā 511
 16.
 1
-ne vairāk kā 413
+ne vairāk kā 430

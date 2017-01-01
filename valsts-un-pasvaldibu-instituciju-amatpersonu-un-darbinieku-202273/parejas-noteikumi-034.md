@@ -1,0 +1,1 @@
+34. Līdz šo pārejas noteikumu 33.punktā minēto noteikumu izdošanai piemēro Ministru kabineta 2010.gada 21.jūnija noteikumus Nr. 541 "Noteikumi par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības uzskaites sistēmu".
