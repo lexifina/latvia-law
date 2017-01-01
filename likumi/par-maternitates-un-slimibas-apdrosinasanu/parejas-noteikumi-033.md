@@ -1,0 +1,1 @@
+33. Grozījums šā likuma 10.⁶ panta trešajā daļā attiecībā uz vecāku pabalsta izmaksu obligāti sociāli apdrošinātām personām, grozījums 11.pantā attiecībā uz apdrošināšanas stāža noteikšanu slimības pabalsta piešķiršanai, šā likuma 13.panta ceturtā un piektā daļa stājas spēkā 2018.gada 1.janvārī.

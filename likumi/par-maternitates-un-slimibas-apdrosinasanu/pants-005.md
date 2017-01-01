@@ -5,3 +5,4 @@
 (4) Grūtniecības, dzemdību vai pēcdzemdību perioda sarežģījumu dēļ, kā arī tad, ja piedzimuši divi vai vairāki bērni, sievietei piešķir pabalstu par 14 dienu ilgu papildu atvaļinājumu, kas tiek pievienots dzemdību atvaļinājumam, tādējādi kopā tiek piešķirts pabalsts par 70 kalendārajām dienām.
 (5) Sievietēm, kurām dzemdības notikušas pirms grūtniecības atvaļinājuma noteikšanas termiņa, grūtniecības un dzemdību atvaļinājumu apmaksā šā panta pirmajā - ceturtajā daļā noteiktajā kārtībā.
 (6) Sievietei, kura pēc dzemdībām normatīvajos aktos noteiktajā kārtībā atteikusies no bērna kopšanas un audzināšanas, maternitātes pabalstu par dzemdību atvaļinājuma laiku nepiešķir.
+(7) Ja persona grūtniecības vai dzemdību atvaļinājuma laikā zaudē darba ņēmēja vai pašnodarbinātā statusu, maternitātes pabalstu izmaksā par visu grūtniecības atvaļinājuma un dzemdību atvaļinājuma laiku, par kuru izsniegta darbnespējas lapa.

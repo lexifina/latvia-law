@@ -1,6 +1,6 @@
 10.⁴ pants. Vecāku pabalsta piešķiršanas gadījumi un vecāku pabalsta izmaksas periods
 (1) Vecāku pabalstu piešķir un izmaksā sociāli apdrošinātai personai, kura kopj bērnu vai vairākus vienās dzemdībās dzimušus bērnus (vienam no bērna vecākiem, vienam no adoptētājiem, kura aprūpē un uzraudzībā pirms adopcijas apstiprināšanas tiesā ar bāriņtiesas lēmumu nodots adoptējamais bērns, audžuģimenes loceklim, kurš noslēdzis līgumu ar pašvaldību, aizbildnim vai citai personai, kura saskaņā ar bāriņtiesas lēmumu bērnu faktiski kopj un audzina), ja šī persona:
-1) ir nodarbināta pabalsta piešķiršanas dienā (ir uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu") un:
+1) ir nodarbināta pabalsta piešķiršanas dienā (ir uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu") vai sakarā ar šā bērna dzimšanu ir bijusi grūtniecības vai dzemdību atvaļinājumā un:
 a) kā viens no bērna vecākiem, kurš pieprasījis vecāku pabalstu, atrodas bērna kopšanas atvaļinājumā,
 b) kā viens no adoptētājiem, kura aprūpē un uzraudzībā pirms adopcijas apstiprināšanas tiesā ar bāriņtiesas lēmumu nodots adoptējamais bērns, kā audžuģimenes loceklis, kurš noslēdzis līgumu ar pašvaldību, kā aizbildnis vai cita persona, kura saskaņā ar bāriņtiesas lēmumu bērnu faktiski kopj un audzina, atrodas atvaļinājumā bez darba samaksas saglabāšanas, kas piešķirts sakarā ar nepieciešamību kopt bērnu,
 c) kā pašnodarbinātais bērna kopšanas dēļ negūst ienākumus;
