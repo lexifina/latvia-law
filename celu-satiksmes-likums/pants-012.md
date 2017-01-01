@@ -11,4 +11,4 @@
 8) dokuments par Latvijā izgatavota vai pārbūvēta transportlīdzekļa leģitimāciju;
 9) arhīva izziņa un citi īpašuma tiesības apliecinoši dokumenti.
 (3) Visos šajos dokumentos jābūt norādītam: īpašnieka vārdam un uzvārdam (juridiskās personas nosaukumam), adresei un transportlīdzekļa tehniskajiem uzskaites datiem (reģistrācijas numurs, marka, modelis, agregātu numuri, reģistrācijas apliecības numurs) apjomā, kas dod iespēju identificēt konkrēto transportlīdzekli.
-(4) Ja transportlīdzeklis ievests Latvijā no valsts, kas nav Eiropas Savienības dalībvalsts, papildus īpašuma tiesības apliecinošam dokumentam attiecīgi Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības aģentūrā jāiesniedz dokuments par to, ka transportlīdzekļa ievešana ir noformēta muitas noteiktajā kārtībā.
+(4) (Izslēgta ar 23.11.2016. likumu)
