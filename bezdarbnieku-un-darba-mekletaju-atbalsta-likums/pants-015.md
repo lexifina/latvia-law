@@ -10,7 +10,7 @@
 (2) Lēmumu par darba meklētāja statusa piešķiršanu, ja persona atbilst visiem šā panta pirmajā daļā noteiktajiem kritērijiem un ir uzrādījusi normatīvajos aktos noteiktos dokumentus, Nodarbinātības valsts aģentūra pieņem vienas darba dienas laikā.
 (3) Darba meklētāja statusa zaudēšanas pamats ir:
 1) bezdarbnieka statusa iegūšana;
-2) darba ņēmēja vai pašnodarbinātā statusa iegūšana uz nenoteiktu laiku vai par diviem mēnešiem ilgāku laiku saskaņā ar likumu "Par valsts sociālo apdrošināšanu";
+2) darba ņēmēja vai pašnodarbinātā statusa iegūšana saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot šā statusa iegūšanu uz laiku līdz diviem mēnešiem, ja par to paziņots Nodarbinātības valsts aģentūrai;
 3) darba meklētāja pienākumu nepildīšana bez attaisnojoša iemesla;
 4) nepatiesu ziņu sniegšana nolūkā iegūt un saglabāt darba meklētāja statusu;
 5) pārcelšanās uz pastāvīgu dzīvi ārpus Eiropas Savienības, ja Latvijai saistošos starptautiskajos līgumos nav noteikts citādi;
@@ -23,6 +23,7 @@
 (3¹) Persona, kura ir ES zilās kartes turētāja, darba meklētāja statusu zaudē arī gadījumā, ja:
 1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
 2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.
+(3²) Šā panta trešās daļas 2.punktā noteiktais izņēmums par darba ņēmēja statusa iegūšanu uz laiku līdz diviem mēnešiem neattiecas uz gadījumiem, kad konstatēts, ka persona kā darba ņēmējs neatkarīgi no darba tiesisko attiecību ilguma tiek nodarbināta bez reģistrēšanas atbilstoši normatīvajiem aktiem nodokļu jomā.
 (4) Lēmumu par darba meklētāja statusa zaudēšanu pieņem Nodarbinātības valsts aģentūra vienas darba dienas laikā pēc šā panta trešajā daļā minēto darba meklētāja statusa zaudēšanas nosacījumu konstatēšanas. Šādā gadījumā persona zaudē darba meklētāja statusu ar dienu, kad iestājies attiecīgais darba meklētāja statusa zaudēšanas nosacījums.
 (5) Personai, kura darba meklētāja statusu zaudējusi šā panta trešās daļas 3., 4. un 8.punktā minēto iemeslu dēļ, ir tiesības darba meklētāja statusu iegūt no jauna ne agrāk kā pēc trim mēnešiem no dienas, kad tika pieņemts lēmums par darba meklētāja statusa zaudēšanu.
 (6) (Izslēgta ar 24.11.2011. likumu)

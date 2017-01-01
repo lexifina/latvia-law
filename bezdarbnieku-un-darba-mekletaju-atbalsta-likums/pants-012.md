@@ -1,6 +1,6 @@
 12.pants. Bezdarbnieka statusa zaudēšana un tā iegūšana no jauna
 (1) Bezdarbnieka statusa zaudēšanas pamats ir:
-1) darba ņēmēja vai pašnodarbinātā statusa iegūšana uz nenoteiktu laiku vai uz laiku, kas ilgāks par diviem mēnešiem, saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot iesaistīšanos aktīvajos nodarbinātības pasākumos;
+1) darba ņēmēja vai pašnodarbinātā statusa iegūšana saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot šā statusa iegūšanu uz laiku līdz diviem mēnešiem, ja par to paziņots Nodarbinātības valsts aģentūrai, kā arī izņemot iesaistīšanos aktīvajos nodarbinātības pasākumos;
 2) vecuma, kas dod tiesības saņemt valsts vecuma pensiju, sasniegšana vai valsts vecuma pensijas piešķiršana (tai skaitā priekšlaicīgi);
 3) nonākšana ieslodzījuma vietā (izņemot atklāto cietumu) vai ilgstošas sociālās aprūpes vai sociālās rehabilitācijas institūcijā, kurā pakalpojumus pilnībā finansē no valsts vai pašvaldības budžeta;
 4) uzņemšana pamatizglītības vai vidējās izglītības programmā klātienē;
@@ -17,6 +17,7 @@
 (1¹) Persona, kura ir ES zilās kartes turētāja, bezdarbnieka statusu zaudē arī gadījumā, ja:
 1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
 2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.
+(1²) Šā panta pirmās daļas 1.punktā noteiktais izņēmums par darba ņēmēja statusa iegūšanu uz laiku līdz diviem mēnešiem neattiecas uz gadījumiem, kad konstatēts, ka persona kā darba ņēmējs neatkarīgi no darba tiesisko attiecību ilguma tiek nodarbināta bez reģistrēšanas atbilstoši normatīvajiem aktiem nodokļu jomā.
 (2) (Izslēgta ar 13.06.2013. likumu)
 (3) Lēmumu par bezdarbnieka statusa zaudēšanu pieņem Nodarbinātības valsts aģentūra vienas darba dienas laikā pēc šā panta pirmajā daļā minēto bezdarbnieka statusa zaudēšanas nosacījumu konstatēšanas. Šādā gadījumā persona zaudē bezdarbnieka statusu ar dienu, kad iestājies attiecīgais bezdarbnieka statusa zaudēšanas nosacījums.
 (3¹) Ja bezdarbnieka statusa zaudēšanas pamats ir valsts vecuma pensijas piešķiršana (tai skaitā priekšlaicīgi) par pagājušu periodu, persona bezdarbnieka statusu zaudē ar dienu, kad izdots lēmums par valsts vecuma pensijas piešķiršanu.
