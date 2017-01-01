@@ -5,7 +5,7 @@
 4) kadastra dokuments - no Nekustamā īpašuma valsts kadastra informācijas sistēmas sagatavots un noformēts dokuments, kas satur kadastra datus;
 5) kadastra informācija - kadastra dati un Valsts zemes dienesta arhīva dokumentu ziņas, ko izmanto Nekustamā īpašuma valsts kadastrs;
 6) kadastra objekts - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts nekustamais īpašums kā īpašuma objektu kopums, kā arī zemes vienība, būve, telpu grupa un zemes vienības daļa;
-7) kadastra subjekts - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kadastra objekta īpašnieks vai, ja tāda nav, - tiesiskais valdītājs;
+7) kadastra subjekts - Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kadastra objekta īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, kā arī apbūves tiesīgais;
 8) kadastrālā uzmērīšana - zemes vienības un zemes vienības daļas robežu, būves un telpu grupas kontūras noteikšana, raksturojošo datu iegūšana apvidū un kadastrālās uzmērīšanas dokumentu sagatavošana;
 9) kadastrālā vērtība - pēc vienotiem kadastrālās vērtēšanas principiem noteiktā datumā atbilstoši kadastra datiem noteikta kadastra objekta vērtība naudas izteiksmē. Kadastrālā vērtība neietver mežaudzes vērtību;
 10) telpu grupa - konstruktīvi norobežots un no vienas vai vairākām telpām sastāvošs telpu kopums, kuram ir viena vai vairākas izejas uz koplietošanas telpu vai āru un kuram būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā piešķirta viena noteikta funkcija (lietošanas veids);

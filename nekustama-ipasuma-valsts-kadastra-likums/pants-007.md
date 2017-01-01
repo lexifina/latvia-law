@@ -8,7 +8,8 @@ d) nekustamo īpašumu, kas saskaņā ar Civillikuma 1477.panta otro daļu uzska
 (2) Šā likuma izpratnē par nekustamā īpašuma tiesisko valdītāju atzīstama:
 1) persona, kura atbilst Civillikumā noteiktajam tiesiskā valdītāja jēdzienam, izņemot šā panta pirmajā daļā minētos gadījumus;
 2) persona, kura zemes reformas ietvaros ir ieguvusi nekustamo īpašumu, kas nav ierakstīts zemesgrāmatā, ja ar likumā noteiktās institūcijas lēmumu zeme piešķirta īpašumā par samaksu vai atjaunotas īpašuma tiesības uz to, izņemot šā panta pirmajā daļā minētos gadījumus;
-3) būves valdītājs, pamatojoties uz līgumu, kas noslēgts ar zemes īpašnieku par tiesībām veikt tās apbūvi.
+3) attiecībā uz būvi - persona, kurai ar līgumu, izņemot līgumu par apbūves tiesības piešķiršanu, noteiktas tiesības būvēt.
+(2¹) Šajā likumā noteiktās nekustamā īpašuma īpašnieka vai, ja tāda nav, - tiesiskā valdītāja tiesības un pienākumi ir piemērojami arī personai, kura zemesgrāmatā ierakstīta kā apbūves tiesīgā, attiecībā uz būvi, kas celta uz apbūves tiesības pamata.
 (3) Šā likuma izpratnē par lietotāju atzīstama persona:
 1) kurai īpašnieks, tiesiskais valdītājs vai normatīvajos aktos noteiktajos gadījumos vietējā pašvaldība vai valsts institūcija nodevusi lietojumā nekustamo īpašumu, nekustamā īpašuma objektu vai zemes vienības daļu, izņemot gadījumu, kad tas izdarīts uz nomas līguma pamata;
 2) kura ir tiesīga ierosināt būves noteikšanu, bet nav iesniegusi dokumentus par būves iegūšanu, izņemot pašvaldību, kura ierosina būves noteikšanu nekustamā īpašuma nodokļa vajadzībām.

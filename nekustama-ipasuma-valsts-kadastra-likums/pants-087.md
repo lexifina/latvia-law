@@ -1,2 +1,3 @@
-87.pants. (1) Jebkurai personai ir tiesības pieprasīt kadastra informāciju, iesniedzot Valsts zemes dienestam rakstveida iesniegumu.
+87.pants. (1) Jebkurai personai ir tiesības pieprasīt kadastra informāciju. Vispārpieejamu kadastra informāciju pieprasa, izmantojot noteiktu šim mērķim izveidotu elektronisko pakalpojumu, vai iesniedz rakstveida iesniegumu. Ierobežotas pieejamības kadastra informāciju pieprasa ar rakstveida iesniegumu.
+(1¹) Ja vispārpieejamu kadastra informāciju pieprasa, izmantojot noteiktu šim mērķim izveidotu elektronisko pakalpojumu, informācijas pieprasītāju identificē, lietojot šajā elektroniskajā pakalpojumā pieejamos elektroniskās identifikācijas līdzekļus. Šādi iesniegtu informācijas pieprasījumu var neparakstīt ar drošu elektronisko parakstu.
 (2) Valsts zemes dienests var atteikt kadastra informācijas pieprasījuma izpildi, ja nav ievērotas normatīvajos aktos noteiktās prasības par kadastra informācijas pieprasīšanu.
