@@ -1,0 +1,1 @@
+73. Kapitālsabiedrības, kurās ieguldīta valsts vai pašvaldības kapitāla daļa un kuras atvērušas norēķinu kontus Valsts kasē saskaņā ar šā likuma 27.panta ceturto daļu, līdz 2017.gada 1.aprīlim noslēdz ar Valsts kasi vienošanos par nosacījumiem naudas līdzekļu atlikuma ieguldīšanai kontā saskaņā ar šā likuma 34.panta ceturto daļu.
