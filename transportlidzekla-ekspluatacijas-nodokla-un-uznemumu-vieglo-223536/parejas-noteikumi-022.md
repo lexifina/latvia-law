@@ -1,0 +1,1 @@
+22. Līdz dienai, kad stājas spēkā šā likuma 4.panta 2.¹ un 2.³ daļā noteiktās transportlīdzekļa ekspluatācijas nodokļa likmes, transportlīdzekļiem, kuri pirmo reizi reģistrēti laikposmā pēc 2008.gada 31.decembra līdz 2016.gada 31.decembrim, transportlīdzekļa ekspluatācijas nodokļa likmes piemēro saskaņā ar šā likuma 4.panta trešo daļu.

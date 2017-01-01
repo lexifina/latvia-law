@@ -5,41 +5,55 @@
 3) no 1001 līdz 1500 cm³ - 51,22 euro;
 4) virs 1500 cm³ - 68,30 euro.
 (2) Transportlīdzekļa ekspluatācijas nodoklis par motocikliem, tricikliem un kvadricikliem, kuri nav minēti šā panta pirmajā daļā, ir 35,57 euro.
-(3) Transportlīdzekļa ekspluatācijas nodokli par tādu vieglo automobili, kurš ir aprīkots ar iekšdedzes dzinēju vai pēc savas konstrukcijas ir aprīkots ar iekšdedzes dzinēju un kā mehānisku dzinējspēku izmanto enerģiju no transportlīdzeklī glabātas elektroenerģijas vai dzinējspēka glabāšanas iekārtas (piemēram, akumulators, kondensators, spararats vai ģenerators u.c.) un pirmo reizi reģistrēts pēc 2005.gada 1.janvāra, un par kuru transportlīdzekļa reģistrācijas apliecībā ir informācija par pilno masu, motora tilpumu un motora maksimālo jaudu, maksā, summējot nodokļa likmes atbilstoši vieglā automobiļa pilnai masai, motora tilpumam un motora maksimālajai jaudai šādā apmērā:
+(2¹) Transportlīdzekļa ekspluatācijas nodokli par tādu vieglo automobili, kurš ir aprīkots ar iekšdedzes dzinēju vai pēc savas konstrukcijas ir aprīkots ar iekšdedzes dzinēju un kā mehānisku dzinējspēku izmanto enerģiju no transportlīdzeklī glabātas elektroenerģijas vai dzinējspēka glabāšanas iekārtas (piemēram, akumulators, kondensators, spararats vai ģenerators u.c.) un kurš pirmo reizi reģistrēts pēc 2008.gada 31.decembra, maksā, piemērojot likmi atkarībā no automobiļa radītā oglekļa dioksīda (CO2) izmešu daudzuma gramos (g) uz vienu kilometru (km):
+1) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu līdz 50 g uz vienu km - 0 euro;
+2) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 51 g līdz 95 g uz vienu km - 12 euro;
+3) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 96 g līdz 115 g uz vienu km - 48 euro;
+4) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 116 g līdz 130 g uz vienu km - 84 euro;
+5) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 131 g līdz 155 g uz vienu km - 120 euro;
+6) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 156 g līdz 175 g uz vienu km - 144 euro;
+7) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 176 g līdz 200 g uz vienu km - 168 euro;
+8) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 201 g līdz 250 g uz vienu km - 264 euro;
+9) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 251 g līdz 300 g uz vienu km - 408 euro;
+10) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 301 g līdz 350 g uz vienu km - 552 euro;
+11) automobiļiem ar oglekļa dioksīda (CO2) izmešu daudzumu no 351 g uz vienu km - 756 euro.
+(2²) Ja šā panta 2.¹ daļā minētajam transportlīdzeklim transportlīdzekļu un to vadītāju valsts reģistrā nav pieejama informācija par tā radīto CO2 izmešu daudzumu, transportlīdzekļa ekspluatācijas nodokli maksā atbilstoši šā panta trešajā daļā noteiktajām likmēm.
+(2³) Papildus transportlīdzekļa ekspluatācijas nodokļa likmei, kas tiek aprēķināta saskaņā ar šā likuma 2.¹ daļu, tiek noteikta likme 300 euro apmērā tiem vieglajiem automobiļiem, kuriem motora tilpums ir lielāks par 3500 cm³.
+(3) Transportlīdzekļa ekspluatācijas nodokli par tādu vieglo automobili, kurš ir aprīkots ar iekšdedzes dzinēju vai pēc savas konstrukcijas ir aprīkots ar iekšdedzes dzinēju un kā mehānisku dzinējspēku izmanto enerģiju no transportlīdzeklī glabātas elektroenerģijas vai dzinējspēka glabāšanas iekārtas (piemēram, akumulators, kondensators, spararats vai ģenerators) un kurš pirmo reizi reģistrēts pēc 2005.gada 1.janvāra, un par kuru transportlīdzekļa reģistrācijas apliecībā ir informācija par pilno masu, motora tilpumu un motora maksimālo jaudu, maksā, summējot nodokļa likmes atbilstoši vieglā automobiļa pilnai masai, motora tilpumam un motora maksimālajai jaudai, šādā apmērā:
 1) par pilno masu kilogramos (kg):
-a) līdz 1500 kg - 14,23 euro,
-b) no 1501 kg līdz 1800 kg - 29,88 euro,
-c) no 1801 kg līdz 2100 kg - 51,22 euro,
-d) no 2101 kg līdz 2600 kg - 65,45 euro,
-e) no 2601 kg līdz 3000 kg - 78,26 euro,
-f) no 3001 kg līdz 3500 kg - 91,06 euro,
-g) vairāk par 3500 kg - 102,45 euro;
+a) līdz 1500 kg - 15 euro,
+b) no 1501 kg līdz 1800 kg - 32 euro,
+c) no 1801 kg līdz 2100 kg - 55 euro,
+d) no 2101 kg līdz 2600 kg - 70 euro,
+e) no 2601 kg līdz 3000 kg - 84 euro,
+f) no 3001 kg līdz 3500 kg - 97 euro,
+g) vairāk par 3500 kg - 110 euro;
 2) par motora tilpumu kubikcentimetros (cm³):
-a) līdz 1500 cm³ - 8,54 euro,
-b) no 1501 cm³ līdz 2000 cm³ - 21,34 euro,
-c) no 2001 cm³ līdz 2500 cm³ - 34,15 euro,
-d) no 2501 cm³ līdz 3000 cm³ - 51,22 euro,
-e) no 3001 cm³ līdz 3500 cm³ - 85,37 euro,
-f) no 3501 cm³ līdz 4000 cm³ - 149,40 euro,
-g) no 4001 cm³ līdz 5000 cm³ - 213,43 euro,
-h) virs 5000 cm³ - 277,46 euro;
+a) līdz 1500 cm³ - 9 euro,
+b) no 1501 cm³ līdz 2000 cm³ - 23 euro,
+c) no 2001 cm³ līdz 2500 cm³ - 37 euro,
+d) no 2501 cm³ līdz 3000 cm³ - 55 euro,
+e) no 3001 cm³ līdz 3500 cm³ - 91 euro,
+f) no 3501 cm³ līdz 4000 cm³ - 160 euro,
+g) no 4001 cm³ līdz 5000 cm³ - 228 euro,
+h) virs 5000 cm³ - 297 euro;
 3) par motora maksimālo jaudu kilovatos (kW):
-a) līdz 55 kW - 8,54 euro,
-b) no 56 kW līdz 92 kW - 21,34 euro,
-c) no 93 kW līdz 129 kW - 34,15 euro,
-d) no 130 kW līdz 166 kW - 51,22 euro,
-e) no 167 kW līdz 203 kW - 85,37 euro,
-f) no 204 kW līdz 240 kW - 149,40 euro,
-g) no 241 kW līdz 300 kW - 213,43 euro,
-h) virs 300 kW - 277,46 euro.
-(4) Transportlīdzekļa ekspluatācijas nodokli par vieglo automobili, kurš nav minēts šā panta trešajā daļā, maksā atbilstoši tā pilnai masai šādā apmērā:
-1) līdz 1500 kg - 35,57 euro;
-2) no 1501 kg līdz 1800 kg - 75,41 euro;
-3) no 1801 kg līdz 2100 kg - 128,06 euro;
-4) no 2101 kg līdz 2600 kg - 162,21 euro;
-5) no 2601 kg līdz 3000 kg - 196,36 euro;
-6) no 3001 kg līdz 3500 kg - 226,24 euro;
-7) vairāk par 3500 kg - 256,12 euro.
+a) līdz 55 kW - 9 euro,
+b) no 56 kW līdz 92 kW - 23 euro,
+c) no 93 kW līdz 129 kW - 37 euro,
+d) no 130 kW līdz 166 kW - 55 euro,
+e) no 167 kW līdz 203 kW - 91 euro,
+f) no 204 kW līdz 240 kW - 160 euro,
+g) no 241 kW līdz 300 kW - 228 euro,
+h) virs 300 kW - 297 euro.
+(4) Transportlīdzekļa ekspluatācijas nodokli par vieglo automobili, kurš nav minēts šā panta 2.¹ un trešajā daļā, maksā atbilstoši tā pilnai masai šādā apmērā:
+1) līdz 1500 kg - 38 euro;
+2) no 1501 kg līdz 1800 kg - 81 euro;
+3) no 1801 kg līdz 2100 kg - 137 euro;
+4) no 2101 kg līdz 2600 kg - 174 euro;
+5) no 2601 kg līdz 3000 kg - 210 euro;
+6) no 3001 kg līdz 3500 kg - 242 euro;
+7) vairāk par 3500 kg - 274 euro.
 (5) Transportlīdzekļa ekspluatācijas nodokli par autobusu maksā atbilstoši tā pilnai masai šādā apmērā:
 1) līdz 1500 kg - 17,07 euro;
 2) no 1501 kg līdz 1800 kg - 34,15 euro;

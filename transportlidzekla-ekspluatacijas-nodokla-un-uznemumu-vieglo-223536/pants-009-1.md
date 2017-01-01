@@ -1,0 +1,12 @@
+9.¹ pants. Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokļa maksāšana
+(1) Transportlīdzekļa ekspluatācijas nodokli par ārvalstī reģistrēta M1 un N1 kategorijas automobiļa izmantošanu ceļu satiksmē maksā atbilstoši automobiļa izmantošanas laikposmam:
+1) par dienu - 10 euro;
+2) par mēnesi - 250 euro;
+3) par sešiem mēnešiem - 600 euro;
+4) par gadu - 1000 euro.
+(2) Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokli maksā transportlīdzekļa vadītājs.
+(3) Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokli administrē Valsts ieņēmumu dienests un valsts akciju sabiedrība "Ceļu satiksmes drošības direkcija".
+(4) Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokli iekasē, izmantojot valsts akciju sabiedrības "Ceļu satiksmes drošības direkcija" uzturēto elektronisko pakalpojumu sistēmu transportlīdzekļa un tā vadītāja identificēšanai.
+(5) Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokļa iekasēšanas un administrēšanas kārtību nosaka Ministru kabinets.
+(6) Ārvalstī reģistrētam transportlīdzeklim transportlīdzekļa ekspluatācijas nodokļa atvieglojumus vai atbrīvojumus no transportlīdzekļa ekspluatācijas nodokļa samaksas nepiemēro, izņemot šā panta septītajā daļā minētos gadījumus.
+(7) Ārvalstī reģistrēta transportlīdzekļa ekspluatācijas nodokli nemaksā par transportlīdzekli, kurš ir vai tiek reģistrēts diplomātiskās, konsulārās vai starptautiskās organizācijas pārstāvniecības vai tādas personas īpašumā, turējumā vai valdījumā, kurai ir diplomātiskās vai konsulārās privilēģijas, un Aizsardzības ministrijas un Nacionālo bruņoto spēku amatpersonas (darbinieka) vai karavīra īpašumā, valdījumā vai turējumā esošo ārvalstī reģistrētu automobili, ja tas reģistrēts valstī, kurā šī persona pilda dienesta vai darba pienākumus.
