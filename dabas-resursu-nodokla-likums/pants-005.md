@@ -1,7 +1,7 @@
 5.pants. Atbrīvojums no nodokļa samaksas par dabas resursu lietošanu
 Nodokli nemaksā par:
 1) fona piesārņojumu, ja nodokļa maksātājs attiecīgo piesārņojuma līmeni ir pierādījis ar monitoringa datiem, kurš veikts atbilstoši normatīvajos aktos noteiktajām prasībām;
-2) ūdeņu lietošanu (caurplūdi) hidrotehniskajos un zivsaimniecības objektos, arī hidroelektrostacijās, kuru hidromezgla kopējā uzstādītā jauda ir lielāka par diviem megavatiem, ūdenskrātuvēs, zivju audzētavās un dīķsaimniecībās;
+2) ūdeņu lietošanu (caurplūdi) zivsaimniecības objektos, zivju audzētavās un dīķsaimniecībās;
 3) termālo un tehnisko ūdeņu izmantošanu, kas pēc izmantošanas iesūknēti atpakaļ ūdeņu ieguves horizontā, nemainot ūdeņu ķīmisko sastāvu (izņemot atsāļošanu);
 4) balasta smilšu novietošanu vietējās pašvaldības noteiktajās vietās;
 5) piesārņojuma ievadīšanu augsnes vai grunts filtrācijas slānī (absorbentā), ja attīrīšanas iekārtas projektā tā paredzēta kā piesārņojuma attīrīšanas metode;
