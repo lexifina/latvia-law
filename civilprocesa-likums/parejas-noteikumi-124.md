@@ -1,0 +1,1 @@
+124. Prasības par uzturlīdzekļu piedziņu bērna uzturam Ministru kabineta noteiktajā minimālajā apmērā, kuras celtas tiesā līdz 2017.gada 1.aprīlim, izskata Civilprocesa likumā noteiktajā kārtībā, kāda bija spēkā līdz 2017.gada 1.aprīlim.

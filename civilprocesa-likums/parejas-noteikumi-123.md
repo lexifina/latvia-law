@@ -1,0 +1,1 @@
+123. Grozījumi šā likuma 572.¹ panta pirmajā un trešajā daļā par piedziņu Uzturlīdzekļu garantiju fonda administrācijas labā stājas spēkā 2017.gada 1.februārī un attiecas uz izpildu lietām, kas ievestas ar 2017.gada 1.februāri.

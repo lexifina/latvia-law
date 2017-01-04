@@ -19,4 +19,5 @@ Izpildu dokumenti ir:
 15) vienotais instruments, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī un kas noteikts 2011.gada 18.novembra Komisijas Īstenošanas regulas (ES) Nr. 1189/2011 II pielikumā;
 16) Notariāta likuma D¹ sadaļā noteiktajā kārtībā izsniegti notariālie izpildu akti;
 17) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Eiropas Parlamenta un Padomes 2012.gada 12.decembra regulas (ES) Nr. 1215/2012 par jurisdikciju un spriedumu atzīšanu un izpildi civillietās un komerclietās (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1215/2012) 53. vai 60.pantu;
-18) Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts kompetentās iestādes lēmuma izraksts par administratīvā naudas soda uzlikšanu, kas saistīts ar pārkāpumiem darbinieku nosūtīšanas jomā un saņemts Iekšējā tirgus informācijas sistēmā (IMI).
+18) Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts kompetentās iestādes lēmuma izraksts par administratīvā naudas soda uzlikšanu, kas saistīts ar pārkāpumiem darbinieku nosūtīšanas jomā un saņemts Iekšējā tirgus informācijas sistēmā (IMI);
+19) tiesas, arī ārvalsts tiesas, izdota Eiropas kontu apķīlāšanas rīkojuma A daļa saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 655/2014 19.panta 1.punkta "a" apakšpunktu.

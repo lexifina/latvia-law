@@ -2,7 +2,7 @@
 (1) Lietā par laulības šķiršanu vai neesamību prasījumi, kas izriet no ģimenes tiesiskajām attiecībām, izspriežami vienlaikus. Šādi prasījumi ir strīdi par:
 1) aizgādības noteikšanu;
 2) saskarsmes tiesības izmantošanu;
-3) uzturlīdzekļiem bērnam;
+3) uzturlīdzekļiem bērnam, tajā skaitā arī par uzturlīdzekļiem Ministru kabineta noteiktajā minimālajā apmērā;
 4) līdzekļiem laulātā iepriekšējā labklājības līmeņa nodrošināšanai;
 5) kopīgo ģimenes mājokli un mājsaimniecības vai personiskās lietošanas priekšmetiem;
 6) laulāto mantas dalīšanu (arī tad, ja tas skar trešās personas).

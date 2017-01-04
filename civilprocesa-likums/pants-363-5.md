@@ -1,7 +1,7 @@
 363.⁵ pants. Padomes regulā Nr. 1346/2000 minētās personas maksātnespējas procesa pieteikuma saturs
 (1) Padomes regulas Nr. 1346/2000 29.panta "a" punktā minētā persona iesniedz tiesai maksātnespējas procesa pieteikumu, lai pret parādnieku ierosinātu šīs regulas 3.panta 2.punktā noteikto maksātnespējas procedūru.
 (2) Padomes regulas Nr. 1346/2000 29.panta "a" punktā minētā persona maksātnespējas procesa pieteikumā norāda:
-1) parādnieka firmu (nosaukumu), reģistrācijas numuru un juridisko adresi;
+1) parādnieka firmu (nosaukumu), reģistrācijas numuru un juridisko adresi, kas parādniekam bija reģistrēta trīs mēnešus pirms pieteikuma iesniegšanas tiesā, un juridisko adresi pieteikuma iesniegšanas dienā;
 2) tās tiesas nosaukumu, kura pret parādnieku uzsākusi Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteikto maksātnespējas procedūru, tiesas nolēmuma pieņemšanas un spēkā stāšanās datumu;
 3) pamatojumu uzsākt Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteikto maksātnespējas procedūru pret parādnieku;
 4) informāciju par to, vai citā Eiropas Savienības dalībvalstī (turpmāk - dalībvalsts) pret parādnieku ir uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra.

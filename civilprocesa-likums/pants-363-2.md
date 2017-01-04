@@ -2,7 +2,8 @@
 (1) Kreditors juridiskās personas maksātnespējas procesa pieteikumā (turpmāk šajā nodaļā - maksātnespējas procesa pieteikums) norāda:
 1) kreditora firmu (nosaukumu), reģistrācijas numuru un juridisko adresi;
 2) parādnieka firmu (nosaukumu), reģistrācijas numuru un juridisko adresi;
-3) maksātnespējas procesa pazīmi.
+3) maksātnespējas procesa pazīmi;
+4) parādnieka juridisko adresi, kas parādniekam bija reģistrēta trīs mēnešus pirms pieteikuma iesniegšanas tiesā.
 (2) Iesniedzot maksātnespējas procesa pieteikumu, kreditors pievieno dokumentus, kas apliecina valsts nodevas un citu tiesas izdevumu, kā arī maksātnespējas procesa depozīta samaksu.
 (3) Iesniedzot maksātnespējas procesa pieteikumu atbilstoši Maksātnespējas likuma 57.panta 1.punktā minētajai maksātnespējas procesa pazīmei, pieteikumam pievieno pierādījumus par prasījuma pamatojumu un apmēru, kā arī tiesu izpildītāja izsniegtu aktu par neiespējamību piedzīt parādu no parādnieka.
 (4) Iesniedzot maksātnespējas procesa pieteikumu atbilstoši Maksātnespējas likuma 57.panta 2. un 3.punktā minētajai maksātnespējas procesa pazīmei, pieteikumam pievieno pierādījumus par prasījuma pamatojumu un apmēru, brīdinājuma par nodomu iesniegt maksātnespējas procesa pieteikumu kopiju, dokumentus par brīdinājuma izsniegšanu vai nosūtīšanu (kvīti par dokumenta nosūtīšanu ar sūtījuma satura apliecinājumu), kā arī pieteikumā apliecina, ka parādnieks nav pret to cēlis pamatotus iebildumus.
