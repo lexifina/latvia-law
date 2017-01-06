@@ -1,0 +1,1 @@
+46. Kvalifikācijas pilnveides pasākumi, kurus administrators apmeklējis līdz dienai, kad stājās spēkā šā likuma noteikumi par kvalifikācijas eksāmena kārtošanu, ir ņemami vērā, izlemjot jautājumu par kvalifikācijas eksāmena priekšnosacījumu izpildi.

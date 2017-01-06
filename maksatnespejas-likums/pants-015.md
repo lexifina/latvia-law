@@ -1,4 +1,3 @@
 15.pants. Administratoru pretendentu apmācība
-(1) Administratoru pretendentu apmācības kursa noklausīšanās ir administratoru eksāmena kārtošanas priekšnosacījums.
-(2) Administratoru pretendentu apmācību un apliecinājumu izsniegšanu veic Administratoru asociācija.
-(3) Ministru kabinets nosaka administratoru pretendentu apmācības programmu un kārtību, kādā izsniedz apliecinājumu par apmācības kursa noklausīšanos, kā arī šā apliecinājuma derīguma termiņu.
+(1) Administratora eksāmena kārtošanas priekšnosacījums ir apmācības kursa noklausīšanās un attiecīgs apmācības kursa organizatoru izsniegts apliecinājums. Apliecinājums par apmācības kursa noklausīšanos ir derīgs divus gadus pēc tā izsniegšanas.
+(2) Ministru kabinets nosaka apmācības kursa minimālo saturu un apjomu, kā arī apliecinājumā par apmācības kursa noklausīšanos iekļaujamās ziņas.

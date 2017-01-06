@@ -1,0 +1,1 @@
+42. Maksātnespējas administrācija pieņem lēmumus par apstrīdētajiem Administratoru asociācijas administratīvajiem aktiem un faktisko rīcību jautājumos par administratora sertificēšanu, tajā skaitā sertifikāta izsniegšanu, sertifikāta darbības izbeigšanu vai sertifikāta anulēšanu, kā arī administratora atkārtotu sertificēšanu.

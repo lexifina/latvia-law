@@ -1,0 +1,1 @@
+54. Ministru kabinets līdz 2017.gada 1.jūnijam izdod šā likuma 12.⁶ panta otrajā daļā, 12.⁷ panta ceturtajā daļā, 17.¹ panta otrajā daļā, 17.² panta otrajā daļā, 17.³ panta otrajā daļā, 17.⁴ panta otrajā daļā, 26.panta septītajā daļā un 26.¹ panta ceturtajā daļā paredzētos Ministru kabineta noteikumus.

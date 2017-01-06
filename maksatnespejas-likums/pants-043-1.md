@@ -1,0 +1,7 @@
+43.¹ pants. Zvērināta revidenta atzinums par kreditoru iebildumiem
+(1) Ja parādnieks nav ņēmis vērā kreditoru izteiktos iebildumus pret tiesiskās aizsardzības procesa pasākumu plānu, šos iebildumus izvērtē un par tiem savu atzinumu sniedz neatkarīgs zvērināts revidents, kurš nav tiesiskās aizsardzības procesa uzraugošā persona.
+(2) Ja kreditoru iebildumi attiecas uz kreditora prasījuma pamatotību, zvērināts revidents atzinumā sniedz argumentētu viedokli par to, vai tiesiskās aizsardzības procesa pasākumu plānā un tam pievienotajos dokumentos norādītais kreditora prasījums ir pirmšķietami (prima facie) pamatots.
+(3) Ja zvērināts revidents kādu no prasījumiem atzīst par pirmšķietami (prima facie) nepamatotu, viņš atzinumu nodod parādniekam, kurš savukārt nekavējoties informē attiecīgo kreditoru.
+(4) Parādniekam vai kreditoram, kura prasījumu zvērināts revidents atzinis par pirmšķietami (prima facie) nepamatotu, ir tiesības ne vēlāk kā trīs dienas pirms tiesiskās aizsardzības procesa pieteikuma izskatīšanas dienas iesniegt tiesā pierādījumus par kreditora prasījuma pamatotību.
+(5) Ja zvērināts revidents konstatē, ka tiesiskās aizsardzības procesa pasākumu plānā ietvertas saistības, par kurām ir pamatotas šaubas, vai uzskata, ka plānam pievienotie dokumenti ir, iespējams, viltoti, viņš sniedz attiecīgās ziņas atbildīgajām valsts institūcijām.
+(6) Izmaksas, kas saistītas ar zvērināta revidenta atzinuma sniegšanu, finansē tie kreditori, kuru iebildumi ir bijuši par pamatu šajā pantā noteikto darbību uzsākšanai.

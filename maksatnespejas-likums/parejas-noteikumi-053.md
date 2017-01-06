@@ -1,0 +1,1 @@
+53. Ministru kabinets līdz 2017.gada 1.maijam izdod šā likuma 13.¹ panta trešajā daļā, 15.panta otrajā daļā, 16.¹ panta piektajā daļā, 16.² panta sestajā daļā un 174.² panta trešajā daļā paredzētos Ministru kabineta noteikumus.

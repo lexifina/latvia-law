@@ -1,3 +1,3 @@
-54.pants. Administrators ārpustiesas tiesiskās aizsardzības procesā
-(1) Administratoru ārpustiesas tiesiskās aizsardzības procesā ieceļ tiesa pēc parādnieka ieteikuma.
-(2) Parādnieka un viņa kreditoru vienošanās par administratora izvēli (53.panta pirmās daļas 3.punkts) uzskatāma par panāktu, ja ārpustiesas tiesiskās aizsardzības procesa pasākumu plānu ir saskaņojis šā likuma 42.panta trešajā daļā minētais kreditoru vairākums.
+54.pants. Tiesiskās aizsardzības procesa uzraugošā persona ārpustiesas tiesiskās aizsardzības procesā
+(1) Tiesiskās aizsardzības procesa uzraugošo personu ārpustiesas tiesiskās aizsardzības procesā ieceļ tiesa saskaņā ar šā likuma 42.panta trešajā daļā noteiktā kreditoru vairākuma, tiesiskās aizsardzības procesa uzraugošās personas un parādnieka vienošanos.
+(2) Šā likuma 42.panta trešajā daļā noteiktā kreditoru vairākuma vienošanās ar tiesiskās aizsardzības procesa uzraugošo personu un parādnieku par tiesiskās aizsardzības procesa uzraugošās personas izvēli (53.panta pirmās daļas 3.punkts) uzskatāma par panāktu, ja ārpustiesas tiesiskās aizsardzības procesa pasākumu plānu ir saskaņojis šā likuma 42.panta trešajā daļā noteiktais kreditoru vairākums.

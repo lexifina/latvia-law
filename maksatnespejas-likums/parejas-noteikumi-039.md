@@ -1,0 +1,1 @@
+39. Administratori, kuru sertifikāta darbība šo pārejas noteikumu 35.punktā noteiktajā kvalifikācijas eksāmena rīkošanas laikā ir apturēta, kvalifikācijas eksāmenu, kas kārtojams pirms iecelšanas amatā, kārto tuvākajā kvalifikācijas eksāmena rīkošanas reizē pēc sertifikāta darbības apturēšanas termiņa beigām.

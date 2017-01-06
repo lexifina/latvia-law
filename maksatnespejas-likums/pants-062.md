@@ -7,7 +7,7 @@
 1) juridiskās personas maksātnespējas procesa pieteikums ir bijis nepamatots vai apzināti nepatiess;
 2) kreditors, saņemot sava prasījuma apmierinājumu, neatsauc juridiskās personas maksātnespējas procesa pieteikumu un tiesa notur juridiskās personas maksātnespējas procesa lietas izskatīšanas sēdi.
 (6) Šā panta piektajā daļā noteiktajos gadījumos iemaksātais depozīts ieskaitāms Valsts kasē.
-(7) No depozīta iemaksas ir atbrīvots administrators, kurš iesniedz juridiskās personas maksātnespējas procesa pieteikumu saskaņā ar šā likuma 57.panta pirmās daļas 8.punktu.
+(7) (Izslēgta ar 22.12.2016. likumu)
 (7¹) Tiesa var pilnīgi vai daļēji atbrīvot darbinieku no maksātnespējas procesa depozīta samaksas, ja viņš maksātnespējas procesa pieteikumu iesniedz pēc tam, kad, piemērojot piespiedu izpildes līdzekļus, nav bijis iespējams izpildīt tiesas nolēmumu par parāda piedziņu no parādnieka un darbinieks, ievērojot viņa mantisko stāvokli, nevar iemaksāt maksātnespējas procesa depozītu.
 (7²) Ja šā panta 7.¹ daļā noteiktajā gadījumā no parādnieka līdzekļiem nav iespējams segt juridiskās personas maksātnespējas procesa izmaksas un kreditori nav nolēmuši izmantot citu finansēšanas avotu, juridiskās personas maksātnespējas procesa izmaksas tiek segtas valsts budžeta un uzņēmējdarbības riska valsts nodevas līdzekļu ietvaros, kuri Maksātnespējas administrācijai piešķirti juridiskās personas maksātnespējas procesa izmaksu segšanai attiecīgos gadījumos.
 (7³) Ministru kabinets uzņēmējdarbības riska valsts nodevas līdzekļu ietvaros nosaka, kāda šo līdzekļu daļa novirzāma juridiskās personas maksātnespējas procesa izmaksu segšanai šā panta 7.² daļā noteiktajā gadījumā.

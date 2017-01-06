@@ -1,0 +1,1 @@
+56. Līdz šo pārejas noteikumu 54.punktā paredzēto Ministru kabineta noteikumu izdošanas dienai, bet ne ilgāk kā līdz 2017.gada 1.jūnijam piemēro Ministru kabineta 2010.gada 9.novembra noteikumus Nr.1038 "Maksātnespējas procesa administratoru pretendentu apmācības un maksātnespējas procesa administratoru sertificēšanas kārtība", ciktāl tie nav pretrunā ar šā likuma mērķi.

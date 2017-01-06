@@ -1,0 +1,3 @@
+17.⁴ pants. Administratora amata darbības apturēšana
+(1) Maksātnespējas administrācijas direktors, pamatojoties uz administratora iesniegumu, pieņem lēmumu par administratora amata darbības apturēšanu uz laiku, kamēr administrators ir tiešās vai pastarpinātās valsts pārvaldes iestādes, atvasinātas publiskas personas, citas valsts iestādes vai valsts (pašvaldības) kapitālsabiedrības dienestā, uz administratora ilgstošas slimības, grūtniecības, dzemdību vai bērna kopšanas atvaļinājuma laiku, kā arī pēc administratora pamatota lūguma citos gadījumos.
+(2) Kārtību, kādā tiek apturēta administratora amata darbība, nosaka Ministru kabinets.

@@ -5,8 +5,8 @@
 3) parādnieka juridiskā adrese;
 4) datums, kad lieta ierosināta, un tiesas nosaukums;
 5) datums, kad pieņemts tiesas nolēmums par tiesiskās aizsardzības procesa īstenošanu un apstiprināts tiesiskās aizsardzības procesa pasākumu plāns, un tiesas nosaukums;
-6) lietā ieceltā administratora vārds, uzvārds un sertifikāta numurs;
-7) pilnvarotā administratora vārds, uzvārds, sertifikāta numurs un pilnvaras darbības termiņš;
+6) lietā ieceltās tiesiskās aizsardzības procesa uzraugošās personas vārds, uzvārds, prakses vietas adrese Latvijā, tālruņa numurs un elektroniskā pasta adrese, kā arī tās atbildīgās iestādes, kura kārto maksātnespējas reģistru, piešķirtais identifikācijas numurs;
+7) (izslēgts ar 22.12.2016. likumu);
 8) tiesiskās aizsardzības procesa pasākumu plānā noteiktās metodes;
 9) tiesiskās aizsardzības procesa īstenošanas termiņš;
 10) datums, kad tiesa apstiprinājusi tiesiskās aizsardzības procesa pasākumu plāna grozījumus, un tiesas nosaukums;

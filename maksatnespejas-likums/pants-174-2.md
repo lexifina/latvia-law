@@ -1,0 +1,18 @@
+174.² pants. Maksātnespējas administrācijas tiesības
+(1) Maksātnespējas administrācijai ir šādas tiesības:
+1) pieprasīt no valsts un pašvaldību institūcijām un bez maksas saņemt no tām jebkuru Maksātnespējas administrācijas funkciju izpildei nepieciešamo ar tiesiskās aizsardzības procesu vai maksātnespējas procesu saistīto informāciju;
+2) pieprasīt no tiesiskās aizsardzības procesā vai maksātnespējas procesā iesaistītajām institūcijām un personām un saņemt no tām nepieciešamās ziņas un dokumentus par tiesiskās aizsardzības procesa vai maksātnespējas procesa norisi;
+3) pieprasīt un saņemt no tiesiskās aizsardzības procesa uzraugošās personas vai administratora nepieciešamās ziņas un attiecīgos dokumentus par tiesiskās aizsardzības procesa vai maksātnespējas procesa norisi;
+4) pieprasīt, lai tiesiskās aizsardzības procesa uzraugošā persona vai administrators uzrāda dokumentu oriģinālus, un saņemt dokumentu atvasinājumus tiesiskās aizsardzības procesa uzraugošās personas vai administratora rīcības likumības pārbaudei;
+5) pieprasīt un saņemt no tiesiskās aizsardzības procesa uzraugošās personas vai administratora paskaidrojumus par viņa rīcību tiesiskās aizsardzības procesā vai maksātnespējas procesā;
+6) uzaicināt tiesiskās aizsardzības procesa uzraugošo personu vai administratoru ierasties Maksātnespējas administrācijā, lai sniegtu paskaidrojumus par attiecīgā tiesiskās aizsardzības procesa vai maksātnespējas procesa norisi;
+7) uzlikt administratoram tiesisku pienākumu;
+8) iesniegt tiesai pieteikumu par tiesiskās aizsardzības procesa uzraugošās personas atcelšanu no attiecīgā tiesiskās aizsardzības procesa vai administratora atcelšanu no attiecīgā maksātnespējas procesa administratora pienākumu pildīšanas;
+9) ierasties pie tiesiskās aizsardzības procesa uzraugošās personas un administratora maksātnespējas reģistrā ierakstītajā prakses vietā vai parādnieka - juridiskās personas - atrašanās vietā. Pārbaudes laikā Maksātnespējas administrācijas amatpersonām, uzrādot iestādes rakstveida pilnvarojumu, kurā norādīts pārbaudes priekšmets un mērķis, ir tiesības:
+a) pieprasīt un saņemt ar jebkuru tiesiskās aizsardzības procesa uzraugošās personas vai administratora lietvedībā esošo tiesiskās aizsardzības procesu, juridiskās personas maksātnespējas procesu vai fiziskās personas maksātnespējas procesu saistīto informāciju un dokumentus (arī elektroniskā veidā sagatavotus komercnoslēpumu saturošus dokumentus), iepazīties ar tiem uz vietas, kā arī saņemt normatīvajos aktos noteiktajā kārtībā apliecinātus šo dokumentu atvasinājumus,
+b) pieprasīt un saņemt informāciju un dokumentus par administratora ieņēmumu un izdevumu uzskaiti, pildot administratora amata pienākumus, iepazīties ar tiem uz vietas, kā arī saņemt normatīvajos aktos noteiktajā kārtībā apliecinātus šo dokumentu atvasinājumus,
+c) pieprasīt un saņemt no tiesiskās aizsardzības procesa uzraugošās personas vai administratora rakstveida vai mutvārdu paskaidrojumus;
+10) pieprasīt un bez maksas saņemt no Sodu reģistra informāciju, kas Maksātnespējas administrācijai ir nepieciešama šajā likumā noteikto uzdevumu izpildei.
+(2) Maksātnespējas administrācijas amatpersonas pilnvaras apliecina dienesta apliecība.
+(3) Ministru kabinets nosaka Maksātnespējas administrācijas amatpersonu un darbinieku dienesta apliecības saturu un formu.
+(4) Uzsākot šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības, Maksātnespējas administrācijas amatpersona informē tiesiskās aizsardzības procesa uzraugošo personu vai administratoru par viņa tiesībām.

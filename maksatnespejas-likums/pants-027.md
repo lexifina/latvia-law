@@ -1,6 +1,11 @@
 27.pants. Administratora vispārīgās tiesības
-Administratoram ir šādas tiesības:
-1) pieprasīt un saņemt no parādnieka un tā pārstāvjiem tiesiskās aizsardzības procesā, juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju;
-2) pieprasīt un saņemt no valsts un pašvaldību iestādēm bez maksas to rīcībā esošo tiesiskās aizsardzības procesā, juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju par parādnieku un parādnieka pārstāvjiem;
-3) pieprasīt un saņemt no citām kompetentām personām un institūcijām to rīcībā esošo informāciju, kas saistīta ar tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi;
+(1) Administratoram ir šādas tiesības:
+1) pieprasīt un saņemt no parādnieka un tā pārstāvjiem juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju;
+2) pieprasīt un saņemt no valsts un pašvaldību institūcijām bez maksas to rīcībā esošo juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju par parādnieku un parādnieka pārstāvjiem;
+3) pieprasīt un saņemt no citām kompetentām personām un institūcijām to rīcībā esošo informāciju, kas saistīta ar juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi;
 4) iepazīties ar parādnieka finansiālo stāvokli un visiem dokumentiem, kā arī pieprasīt un saņemt visus dokumentus.
+(2) Administratoram, attiecībā uz kuru tiek veiktas šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības, ir šādas tiesības:
+1) būt klāt procesuālo darbību izpildes laikā, izteikt piezīmes un lūgumus;
+2) ierosināt, lai sniedzamajām ziņām vai kādai to daļai nosaka ierobežotas pieejamības informācijas statusu;
+3) iepazīties ar procesuālās darbības protokolu un tam pievienotajiem dokumentiem, ieteikt labojumus un papildinājumus;
+4) mēneša laikā pēc šā likuma 174.³ pantā noteiktā procesuālās darbības protokola parakstīšanas iesniegt sūdzību Maksātnespējas administrācijas direktoram par Maksātnespējas administrācijas amatpersonas rīcību.
