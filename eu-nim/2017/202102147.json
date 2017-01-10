@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2017. gada 5. janvāra lēmums Nr. 1/1 \"Noteikumi par atļaujas izsniegšanu elektroenerģijas tiešās līnijas pieslēguma ierīkošanai\". Latvijas Vēstnesis, 9, 10.01.2017.",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-09",
+  "entry_into_force": "2017-01-10",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02147",
+  "nim_celex": "72019L0944LVA_202102147",
+  "nim_id": "202102147",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f3ab21e9-9059-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
