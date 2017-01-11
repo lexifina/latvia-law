@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 11.janvāra rīkojums Nr.17 \"Par profesionālās kvalifikācijas atzīšanas koordinatoru\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "11 (5838)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-12",
+  "entry_into_force": "2017-01-11",
+  "notification_date": "2019-03-19",
+  "commission_reference": "MNE(2019)51720",
+  "nim_celex": "72005L0036LVA_270907",
+  "nim_id": "270907",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d80faa16-f220-4d33-841a-6de06355420d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
