@@ -1,0 +1,2 @@
+3. pants. (1) Bulduru Dārzkopības vidusskolas darbības mērķis ir, uzturot un pilnveidojot savu mācību, metodisko, materiālo un organizatorisko bāzi, sagatavot kvalificētus speciālistus dārzkopībā un ar to saistītajās jomās.
+(2) Bulduru Dārzkopības vidusskolas pamatuzdevums ir nodrošināt iespēju personām pēc pamatizglītības vai vidējās izglītības ieguves apgūt profesionālās vidējās izglītības programmas dārzkopībā un ar to saistītajās jomās, radot iespēju turpināt izglītības ieguvi atbilstošās studiju programmās Latvijas Lauksaimniecības universitātē.

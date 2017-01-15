@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts sabiedrību ar ierobežotu atbildību "Bulduru dārzkopības vidusskola", tās kapitāla daļām un nekustamajiem īpašumiem" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 22. nr.).

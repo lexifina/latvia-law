@@ -1,0 +1,1 @@
+2. Līdz 2017. gada 28. februārim sabiedrības ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" reģistrācijas dokumentos veicami un komercreģistram iesniedzami šā likuma 2. panta noteikumiem atbilstoši grozījumi.

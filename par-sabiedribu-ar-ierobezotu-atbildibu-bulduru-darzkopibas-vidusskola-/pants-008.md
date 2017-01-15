@@ -1,0 +1,1 @@
+8. pants. Šā likuma 5., 6. un 7. panta noteikumi attiecas uz nekustamajiem īpašumiem, kas šā likuma spēkā stāšanās dienā pieder valsts sabiedrībai ar ierobežotu atbildību "Bulduru Dārzkopības vidusskola" un iekļauti tās pamatkapitālā.
