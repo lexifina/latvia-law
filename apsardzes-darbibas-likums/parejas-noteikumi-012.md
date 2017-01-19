@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2017.gada 1.jūlijam izdod šā likuma 14.panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 1.jūlijam ir piemērojami Ministru kabineta 2014.gada 2.decembra noteikumi Nr.742 "Apsardzes sertifikātu izsniegšanas noteikumi", ciktāl tie nav pretrunā ar šo likumu.
