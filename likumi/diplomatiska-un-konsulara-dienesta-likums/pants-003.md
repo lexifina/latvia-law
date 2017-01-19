@@ -1,7 +1,7 @@
 3.pants. Personas, kuras pilda diplomātisko un konsulāro dienestu un ieņem diplomātiskā un konsulārā dienesta amatus
 (1) Diplomātisko un konsulāro dienestu pilda personas, kuras ieņem ierēdņu amatus Ārlietu ministrijas centrālajā aparātā vai diplomātiskajās un konsulārajās pārstāvniecībās ārvalstīs (turpmāk - diplomātiskā un konsulārā dienesta amati) un kurām tiek piešķirts diplomātiskais rangs saskaņā ar šā likuma 9., 10., 11. un 12.pantu.
 (1¹) Diplomātisko un konsulāro dienestu pilda arī personas, kurām iepriekš piešķirts diplomātiskais rangs saskaņā ar šā likuma 9. un 12.pantu un kuras uz noteiktu laiku pārceltas (ieceltas) uz šā panta pirmajā daļā neminētu iestādi, lai pildītu kādu no šādām funkcijām:
-1) valsts augstāko amatpersonu (Valsts prezidenta, Saeimas priekšsēdētāja, Ministru prezidenta) vai Rīgas domes priekšsēdētāja ārlietu padomnieku un viņu palīgu funkcijas;
+1) valsts augstāko amatpersonu (Valsts prezidenta, Saeimas priekšsēdētāja, Ministru prezidenta), Saeimas Prezidija un Rīgas domes priekšsēdētāja ārlietu padomnieku un viņu palīgu funkcijas;
 2) valsts augstāko amatpersonu (Valsts prezidenta, Saeimas priekšsēdētāja, Ministru prezidenta) vai Rīgas domes priekšsēdētāja diplomātiskā protokola nodrošināšanas funkcijas;
 3) Latvijas prezidentūras Eiropas Savienības Padomē sekretariāta ierēdņu un darbinieku funkcijas.
 (2) Ministru kabinets var noteikt diplomātiskā un konsulārā dienesta amatus, kādus var ieņemt personas, kuras nav ierēdņi. Šādā gadījumā ar minētajām personām noslēdzams attiecīgs darba līgums.
