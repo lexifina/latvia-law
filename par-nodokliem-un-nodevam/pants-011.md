@@ -153,4 +153,6 @@
 134) par tādu licencēto kapitālsabiedrību darbības uzraudzību, kuras sniedz patērētāju kreditēšanas pakalpojumus (ikgadējā nodeva);
 135) par Konkurences likumā noteikto apvienošanās izvērtēšanu;
 136) par atļaujas izsniegšanu kultūras pieminekļu, tajā skaitā valstij piederošo senlietu, pagaidu izvešanai, kā arī mākslas un antikvāro priekšmetu izvešanai vai pagaidu izvešanai no Latvijas Republikas;
-137) par energoefektivitātes veicināšanu un energopārvaldības sistēmas ieviešanas kontroles nodrošināšanu (energoefektivitātes nodeva).
+137) par energoefektivitātes veicināšanu un energopārvaldības sistēmas ieviešanas kontroles nodrošināšanu (energoefektivitātes nodeva);
+138) par kredīta starpnieku un kredīta starpnieku pārstāvju reģistrāciju;
+139) par kredīta starpnieku un kredīta starpnieku pārstāvju uzraudzību (ikgadējā nodeva).
