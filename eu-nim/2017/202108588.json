@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 17. janvāra noteikumi Nr. 34 \"Kuģu aprīkojuma noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "23",
+  "official_journal_page": null,
+  "official_journal_date": "2017-01-30",
+  "entry_into_force": "2017-01-31",
+  "notification_date": "2021-12-16",
+  "commission_reference": "MNE(2021)08588",
+  "nim_celex": "72021L1206LVA_202108588",
+  "nim_id": "202108588",
+  "transposes_celex": [
+    "32021L1206"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/495dde7c-6171-11ec-9c6c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
