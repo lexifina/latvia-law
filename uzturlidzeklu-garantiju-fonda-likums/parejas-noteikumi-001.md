@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Uzturlīdzekļu garantiju fonda likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 14. nr.; 2009, 14. nr.; Latvijas Vēstnesis, 2009, 200. nr.; 2011, 95. nr.; 2012, 6., 190. nr.; 2013, 188., 232. nr.; 2014, 228. nr.).

@@ -1,0 +1,1 @@
+7. Fonda administrācijas direktors līdz 2017. gada 31. decembrim pieņem lēmumu par transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegumu tām personām, kuras parādnieka statusu ieguvušas līdz 2017. gada 31. martam, un vispirms attiecībā uz tām personām, kuru uzkrātā uzturlīdzekļu parāda apmērs ir lielāks nekā citiem parādniekiem.

@@ -1,0 +1,10 @@
+15. pants. Nepamatoti izmaksāto uzturlīdzekļu atmaksa
+(1) Ja konstatēts, ka uzturlīdzekļi iesniedzējam izmaksāti nepamatoti, Fonda administrācija pieņem lēmumu par izmaksāto uzturlīdzekļu un likumisko procentu par nepamatoti izmaksātajām uzturlīdzekļu summām piedziņu un paziņo to iesniedzējam.
+(2) Iesniedzējam ir pienākums šā panta pirmajā daļā minēto lēmumu izpildīt 30 dienu laikā no tā saņemšanas dienas.
+(3) Ja ir pamatots iemesls, iesniedzējs var 10 dienu laikā no šā panta pirmajā daļā minētā lēmuma saņemšanas dienas lūgt Fonda administrāciju nepamatoti izmaksāto uzturlīdzekļu un par tiem aprēķināto likumisko procentu summas samaksu sadalīt termiņos, iesniedzot attiecīgu iesniegumu.
+(4) Fonda administrācija septiņu dienu laikā no šā panta trešajā daļā minētā iesnieguma saņemšanas dienas izskata to un pieņem lēmumu par samaksas sadalīšanu termiņos vai lēmumu par atteikumu samaksu sadalīt termiņos. Ja Fonda administrācija pieņem lēmumu par atteikumu samaksu sadalīt termiņos, iesniedzējam 10 dienu laikā no šā lēmuma saņemšanas dienas jāizpilda šā panta pirmajā daļā minētais lēmums. Ja šajā daļā noteiktais lēmuma izpildes termiņš iestājas agrāk nekā saskaņā ar šā panta otro daļu noteiktais termiņš, ievēro garāko termiņu.
+(5) Fonda administrācija sagatavo brīdinājumu par šā panta pirmajā daļā minētā lēmuma piespiedu izpildi un paziņo to iesniedzējam, ja iesniedzējs:
+1) neizpilda šā panta pirmajā daļā minēto lēmumu 30 dienu laikā no tā saņemšanas dienas;
+2) ir saņēmis lēmumu par atteikumu samaksu sadalīt termiņos un šā panta ceturtajā daļā norādītajā termiņā neizpilda šā panta pirmajā daļā minēto lēmumu;
+3) nokavējis šā panta ceturtajā daļā minētajā lēmumā par samaksas sadalīšanu termiņos norādīto termiņu.
+(6) Ja iesniedzējs šā panta pirmajā daļā minēto lēmumu neizpilda labprātīgi 10 dienu laikā pēc tam, kad saņēmis brīdinājumu par lēmuma piespiedu izpildi, Fonda administrācija sagatavo un iesniedz izpildei zvērinātam tiesu izpildītājam Administratīvā procesa likumā noteiktajā kārtībā izdotu izpildrīkojumu.

@@ -1,0 +1,1 @@
+3. Šā likuma 3. panta pirmās daļas 1. punkts, 5. panta otrās daļas 1. punkts, 6. panta pirmās daļas 1. punkts, 10. panta otrā un trešā daļa, 11. pants, 14. panta pirmās daļas 14. punkts un sestā daļa, 17. panta pirmās daļas 5. un 7. punkts, 18. panta otrā daļa, kas paredz uzturlīdzekļu saņemšanu administratīvā procesa ietvaros, stājas spēkā 2017.gada 1.aprīlī.
