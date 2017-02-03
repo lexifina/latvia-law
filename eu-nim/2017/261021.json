@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 31.janvāra noteikumi Nr.57 \"Aizturēto, apcietināto un notiesāto personu konvojēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-02",
+  "entry_into_force": "2017-02-03",
+  "notification_date": "2018-07-19",
+  "commission_reference": "MNE(2018)53859",
+  "nim_celex": "72016L0343LVA_261021",
+  "nim_id": "261021",
+  "transposes_celex": [
+    "32016L0343"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7eb7e9d2-63c6-41c8-abc0-ec967f01ade2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
