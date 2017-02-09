@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 31.janvāra noteikumi Nr.71 \"Noteikumi par papildu prasībām ārvalstīs iegūtas profesionālās kvalifikācijas atzīšanai, tai skaitā profesionālās kvalifikācijas atzīšanai attiecībā uz reglamentētās profesijas profesionālo darbību daļu, Latvijas Republikā reglamentētās profesijās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "30 (5857)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-08",
+  "entry_into_force": "2017-02-09",
+  "notification_date": "2019-04-12",
+  "commission_reference": "MNE(2019)52098",
+  "nim_celex": "72013L0055LVA_271615",
+  "nim_id": "271615",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3fdf9ea2-bb36-430f-8381-d6339e68b2b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
