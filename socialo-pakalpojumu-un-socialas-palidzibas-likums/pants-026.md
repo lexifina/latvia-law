@@ -1,3 +1,3 @@
-26.pants. Profesionālā rehabilitācija
-(1) Tiesības saņemt profesionālās rehabilitācijas pakalpojumus ir personām darbspējas vecumā, ja tām ir noteikta invaliditāte un Veselības un darbspēju ekspertīzes ārstu valsts komisijas ieteikums apgūt profesiju. Lai saņemtu valsts finansētos profesionālās rehabilitācijas pakalpojumus, persona vēršas pie attiecīgā pakalpojumu sniedzēja. Attiecīgais profesionālās rehabilitācijas pakalpojumu sniedzējs pieņem lēmumu par pakalpojumu piešķiršanu vai atteikumu piešķirt pakalpojumus.
-(2) Kārtību, kādā persona saņem profesionālās rehabilitācijas pakalpojumus, nosaka Ministru kabinets.
+26.pants. Profesionālā rehabilitācija un profesionālās piemērotības noteikšana
+(1) Tiesības saņemt valsts finansētus profesionālās rehabilitācijas pakalpojumus un profesionālās piemērotības noteikšanas pakalpojumus ir personām darbspējas vecumā, ja tām ir noteikta invaliditāte vai prognozējama invaliditāte. Lai saņemtu valsts finansētus profesionālās rehabilitācijas pakalpojumus vai profesionālās piemērotības noteikšanas pakalpojumu, persona vēršas pie attiecīgā pakalpojumu sniedzēja, kurš pieņem lēmumu par pakalpojumu piešķiršanu vai par atteikumu piešķirt pakalpojumus.
+(2) Kārtību, kādā persona saņem valsts finansētus profesionālās rehabilitācijas pakalpojumus un profesionālās piemērotības noteikšanas pakalpojumu, nosaka Ministru kabinets.

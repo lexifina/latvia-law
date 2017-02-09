@@ -1,0 +1,6 @@
+21.¹ pants. Personas tiesības uz psihosociālo rehabilitāciju
+(1) Psihosociālās rehabilitācijas pakalpojumu ir tiesības saņemt šādām personām, kurām nepieciešams atbalsts psihosociālo problēmu risināšanā, ja šīs problēmas apgrūtina to iekļaušanos sabiedrībā:
+1) personām ar prognozējamu vai pirmreizēju invaliditāti, kuras cēlonis ir onkoloģiska slimība, atbilstoši individuālajam rehabilitācijas plānam un ģimenes ārsta atzinumam;
+2) vienam šīs daļas 1.punktā minētās personas izraudzītam tuviniekam, ja persona un tuvinieks norāda uz nepieciešamību pakalpojumu saņemt kopā un šo nepieciešamību pamato attiecīgā onkoloģiskā slimība;
+3) bērnam, kuram saskaņā ar ārstu konsīlija lēmumu nepieciešama paliatīvā aprūpe, un ar viņu vienā mājsaimniecībā dzīvojošiem ģimenes locekļiem vai audžuģimenei.
+(2) Pašvaldības atbilstoši nepieciešamībai un finansiālajām iespējām var organizēt psihosociālās rehabilitācijas pakalpojumus arī citām personu grupām.

@@ -1,0 +1,1 @@
+32. Pašvaldības līdz saistošo noteikumu par pabalsta krīzes situācijā apmēru un piešķiršanas kārtību spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 31.decembrim piemēro pašvaldības saistošos noteikumus, kuros noteikts vienreizēja pabalsta ārkārtas situācijā apmērs un tā piešķiršanas kārtība.

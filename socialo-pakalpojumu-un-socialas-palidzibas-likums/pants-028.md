@@ -1,12 +1,16 @@
 28.pants. Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju pakalpojumi
-(1) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas nodrošina mājokli, sociālo aprūpi un sociālo rehabilitāciju:
+(1) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas nodrošina klientam mājokli, nepieciešamā līmeņa sociālo aprūpi un sociālo rehabilitāciju. Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija var klientam nodrošināt arī ārstniecības personas noteikta ārstēšanas plāna izpildi. Šīs institūcijas pakalpojumus, ja nav medicīnisku kontrindikāciju to saņemšanai, ir tiesības saņemt:
 1) bāreņiem un bez vecāku gādības palikušiem bērniem, ja nav iespējams nodrošināt viņu aprūpi un audzināšanu audžuģimenē vai pie aizbildņa;
-2) pensijas vecuma personām un invalīdiem ar redzes vai fiziska rakstura traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
-3) bērniem ar smagiem garīgās attīstības traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
-4) pilngadīgām personām ar smagiem garīga rakstura traucējumiem, kurām nav nepieciešama atrašanās specializētā ārstniecības iestādē un kuru stāvoklis neapdraud apkārtējos, ja nepieciešamā pakalpojuma apjoms pārsniedz aprūpei mājās, dienas aprūpes centrā vai grupu mājā (dzīvoklī) noteikto sociālās aprūpes un sociālās rehabilitācijas pakalpojuma apjomu.
+2) pensijas vecuma personām un personām ar funkcionāliem traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
+3) bērniem ar smagiem funkcionāliem traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
+4) pilngadīgām personām ar smagiem un ļoti smagiem garīga rakstura traucējumiem, kurām nav nepieciešama atrašanās specializētā ārstniecības iestādē un kuru stāvoklis neapdraud apkārtējos, ja nepieciešamā pakalpojuma apjoms pārsniedz aprūpei mājās, dienas aprūpes centrā vai grupu mājā (dzīvoklī) noteikto sociālās aprūpes un sociālās rehabilitācijas pakalpojuma apjomu.
+(1¹) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija var veidot struktūrvienību veselības aprūpes pakalpojumu nodrošināšanai.
 (2) Pakalpojuma sniegšanu ilgstošas aprūpes un sociālās rehabilitācijas institūcijā pilngadīgai personai var pārtraukt, ja:
 1) persona apdraud citu personu veselību, dzīvību vai sistemātiski pārkāpj noslēgtā līguma noteikumus;
 2) personai rehabilitācijas rezultātā vairs nav nepieciešami ilgstošas aprūpes un sociālās rehabilitācijas institūcijas pakalpojumi un tos var nomainīt ar pakalpojumiem dzīvesvietā;
-3) persona lūdz pārtraukt pakalpojumu sniegšanu.
+3) persona lūdz pārtraukt pakalpojumu sniegšanu;
+4) persona izcieš sodu ieslodzījuma vietā;
+5) persona atrodas prombūtnē ilgāk par 12 mēnešiem.
 (3) Šā panta otrajā daļā minētajos gadījumos lēmumu par pakalpojuma sniegšanas pārtraukšanu pieņem attiecīgās institūcijas vadītājs, informējot par to pašvaldību, kuras administratīvajā teritorijā persona dzīvojusi pirms iestāšanās institūcijā. Ja nav noskaidrojama administratīvā teritorija, kurā persona dzīvojusi pirms iestāšanās institūcijā, tiek informēta pašvaldība, kuras administratīvajā teritorijā ir personas pēdējā konstatējamā atrašanās vieta. Pašvaldībai ir pienākums nodrošināt attiecīgajai personai izmitināšanu, ja šai personai nav iespējams likumā noteiktajā kārtībā iemitināties agrāk aizņemtajā dzīvojamā telpā.
+(3¹) Lēmumu par pakalpojuma sniegšanas pārtraukšanu institūcijas vadītājs var pieņemt arī tādā gadījumā, ja nevis kāda no šā panta trešajā daļā minētajām pašvaldībām, bet cita pašvaldība ne vēlāk kā mēnesi pirms pakalpojuma sniegšanas pārtraukšanas rakstveidā apliecinājusi institūcijas vadītājam, ka tās administratīvajā teritorijā pēc rakstveida vienošanās ar attiecīgo personu tai tiks nodrošināta izmitināšana un nepieciešamie sociālie pakalpojumi.
 (4) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas pakalpojumu sniegšanu aptur, ja persona atrodas bezvēsts prombūtnē ilgāk nekā divus mēnešus no dienas, kad par pazušanas faktu ziņots policijai.

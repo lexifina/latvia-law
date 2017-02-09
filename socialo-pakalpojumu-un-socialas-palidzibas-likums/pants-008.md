@@ -1,6 +1,9 @@
 8.pants. Sociālās aprūpes un sociālās rehabilitācijas pakalpojumu samaksas vispārīgie principi
 (1) Klienta vai viņa apgādnieka pienākums ir samaksāt par saņemtajiem sociālās aprūpes un sociālās rehabilitācijas pakalpojumiem, ja šajā likumā nav noteikts citādi.
-(2) (Izslēgta ar 03.05.2007. likumu.)
-(3) (Izslēgta ar 03.05.2007. likumu.)
+(2) (Izslēgta ar 03.05.2007. likumu)
+(3) (Izslēgta ar 03.05.2007. likumu)
 (4) Ja klients vai viņa apgādnieks nespēj samaksāt par sociālās aprūpes vai sociālās rehabilitācijas pakalpojumu, pakalpojuma izmaksas tiek segtas no pašvaldības budžeta Ministru kabineta noteiktajā kārtībā.
 (5) Ministru kabinets nosaka sociālās aprūpes un sociālās rehabilitācijas pakalpojumu samaksas kārtību.
+(6) Ja persona pieprasa pašvaldības pilnībā vai daļēji apmaksātus ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas pakalpojumus, pašvaldības sociālais dienests, ievērojot šā likuma 5.panta trešajā daļā noteikto, novērtē personas maksātspēju, pamatojoties uz personas sniegto informāciju par ienākumiem un noslēgtajiem uzturlīgumiem. Ja pienākums maksāt par pakalpojumu ir arī personas apgādniekiem, viņi iesniedz informāciju par ienākumiem pašvaldības sociālajam dienestam, kas lemj par pakalpojuma piešķiršanu.
+(7) Personai, kura saņem pašvaldības pilnībā vai daļēji apmaksātus ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas pakalpojumus un kurai ir ienākumi, to izmaiņu gadījumā ir pienākums ne retāk kā reizi gadā institūcijai, kura pieņem lēmumu par pakalpojuma piešķiršanu, iesniegt informāciju par saviem ienākumiem atbilstoši šā likuma 5.panta trešajā daļā noteiktajam.
+(8) Personas apgādnieki, kuriem ir pienākums maksāt par pakalpojumu, ne retāk kā reizi gadā institūcijai, kura pieņem lēmumu par personas apgādniekiem veicamajiem maksājumiem, iesniedz informāciju par saviem ienākumiem atbilstoši šā likuma 5.panta trešajā daļā noteiktajam.
