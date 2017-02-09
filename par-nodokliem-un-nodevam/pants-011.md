@@ -96,7 +96,7 @@
 77) par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
 78) (izslēgts ar 30.04.2009. likumu);
 79) par Meža likumā noteiktajām mežsaimnieciskajām darbībām;
-80) par sociālo pakalpojumu sniedzēja reģistrācijas apliecības un tās dublikāta izsniegšanu;
+80) (izslēgts no 09.02.2017. ar 22.12.2016. likumu. Sk. Pārejas noteikumu 189. punktu);
 81) (izslēgts ar 11.06.2009. likumu);
 82) (izslēgts ar 11.06.2009. likumu);
 83) (izslēgts ar 12.06.2009. likumu);
