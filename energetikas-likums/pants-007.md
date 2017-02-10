@@ -1,5 +1,6 @@
 7.pants
 1) Licencēšanu veic regulators saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
-(2) Licenci elektroenerģijas, siltumenerģijas un dabasgāzes pārvadei, sadalei un dabasgāzes uzglabāšanai, sašķidrinātās dabasgāzes pakalpojuma sniegšanai izsniedz uz 20 gadiem, dabasgāzes tirdzniecībai - uz pieciem gadiem.
+(2) Licenci elektroenerģijas, siltumenerģijas un dabasgāzes pārvadei, sadalei un dabasgāzes uzglabāšanai, sašķidrinātās dabasgāzes pakalpojuma sniegšanai izsniedz uz 20 gadiem.
 (3) Elektroenerģijas ražotājam vai tirgotājam, kura darbību nepieciešams regulēt saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem", ir tiesības uzsākt elektroenerģijas ražošanu vai tirdzniecību, ja tas Elektroenerģijas tirgus likumā noteiktajā kārtībā ir reģistrēts elektroenerģijas ražotāju vai elektroenerģijas tirgotāju reģistrā.
 (4) Siltumenerģijas ražotājam vai tirgotājam, kura darbību nepieciešams regulēt saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem", ir tiesības uzsākt siltumenerģijas ražošanu vai tirdzniecību, ja tas šajā likumā noteiktajā kārtībā ir reģistrēts siltumenerģijas ražotāju vai siltumenerģijas tirgotāju reģistrā.
+(5) Dabasgāzes tirgotājam, kura darbību nepieciešams regulēt saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem", un publiskajam tirgotājam ir tiesības uzsākt dabasgāzes tirdzniecību, ja tas šajā likumā noteiktajā kārtībā ir reģistrēts dabasgāzes tirgotāju reģistrā.
