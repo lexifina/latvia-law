@@ -1,1 +1,1 @@
-(108. pants stājas spēkā 10.02.2017. un iekļauts likuma redakcijā uz 10.02.2017. Sk. Pārejas noteikumu 43. punktu)
+(109. pants stājas spēkā 03.04.2017. un iekļauts likuma redakcijā uz 03.04.2017. Sk. Pārejas noteikumu 42. punktu)
