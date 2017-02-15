@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 76 \"Augļu koku un ogulāju pavairošanas materiāla atbilstības\nkritēriju un aprites noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34 (5861)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-14",
+  "entry_into_force": "2017-02-15",
+  "notification_date": "2017-02-14",
+  "commission_reference": "MNE(2017)51016",
+  "nim_celex": "72014L0098LVA_245170",
+  "nim_id": "245170",
+  "transposes_celex": [
+    "32014L0098"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6ae45616-ddb4-4d14-9a1c-b3ddcc619452",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
