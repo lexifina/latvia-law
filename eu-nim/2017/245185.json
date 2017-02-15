@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 7.februāra noteikumi Nr.75  “Zvērinātu revidentu un zvērinātu revidentu komercsabiedrību darba organizācijas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-14",
+  "entry_into_force": "2017-02-15",
+  "notification_date": "2017-02-14",
+  "commission_reference": "MNE(2017)51031",
+  "nim_celex": "72014L0056LVA_245185",
+  "nim_id": "245185",
+  "transposes_celex": [
+    "32014L0056"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ea9b3fc-2d94-45b7-9565-8654e3abf3d7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
