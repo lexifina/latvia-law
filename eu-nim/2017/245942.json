@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 14.februāra noteikumi Nr.86 \"Elektroenerģijas izcelsmes apliecinājumu saņemšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/38.1 (38 (5865))",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-20",
+  "entry_into_force": "2017-02-21",
+  "notification_date": "2017-03-10",
+  "commission_reference": "MNE(2017)51485",
+  "nim_celex": "72012L0027LVA_245942",
+  "nim_id": "245942",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d664a8a-9c00-4e10-9d0b-f0164669aa6f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
