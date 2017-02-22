@@ -6,7 +6,7 @@
 (5) Par Biroja priekšnieka amata pretendentu var izvirzīt personu, kura atbilst šādām obligātajām prasībām:
 1) ir Latvijas pilsonis ar nevainojamu reputāciju;
 2) pārvalda latviešu valodu un vismaz divas svešvalodas;
-3) ieguvusi augstāko profesionālo vai akadēmisko izglītību (izņemot pirmā līmeņa profesionālo izglītību) un jurista kvalifikāciju, uzkrājusi amatam atbilstošu darba pieredzi un vismaz triju gadu pieredzi vadošā amatā publiskajā pārvaldē vai tiesību aizsardzības jomā;
+3) ieguvusi augstāko profesionālo vai akadēmisko izglītību (izņemot pirmā līmeņa profesionālo izglītību) un jurista kvalifikāciju, uzkrājusi amatam atbilstošu darba pieredzi un pieredzi vadošā amatā publiskajā pārvaldē vai tiesību aizsardzības jomā;
 4) nav sasniegusi likumā "Par valsts pensijām" vecuma pensijas piešķiršanai noteikto vecumu;
 5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
 6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
