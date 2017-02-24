@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 21.februāra noteikumi Nr.90 \"Jūrnieku repatriācija un tās finansēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-23",
+  "entry_into_force": "2017-02-24",
+  "notification_date": "2019-11-12",
+  "commission_reference": "MNE(2019)56135",
+  "nim_celex": "72017L0159LVA_278242",
+  "nim_id": "278242",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9876b2ee-543b-462f-9d7b-f5e12ee8a5d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
