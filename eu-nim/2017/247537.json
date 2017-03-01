@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 28.februāra noteikumi Nr.109 \"Noteikumi par profesionālās darbības pārkāpumiem”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "45",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-01",
+  "entry_into_force": "2017-03-01",
+  "notification_date": "2017-05-13",
+  "commission_reference": "MNE(2017)52526",
+  "nim_celex": "72014L0023LVA_247537",
+  "nim_id": "247537",
+  "transposes_celex": [
+    "32014L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ede4906f-c86d-485c-914e-1b09b63ff9f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
