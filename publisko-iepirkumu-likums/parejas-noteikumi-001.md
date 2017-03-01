@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Publisko iepirkumu likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 10. nr.; 2007, 6. nr.; 2009, 17. nr.; Latvijas Vēstnesis, 2010, 91. nr.; 2012, 24., 109. nr.; 2013, 129., 183., 194. nr.; 2014, 175., 204. nr.; 2015, 107., 242. nr.; 2016, 52., 95. nr.).

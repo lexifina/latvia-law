@@ -1,0 +1,2 @@
+XIII nodaļa
+Citi noteikumi

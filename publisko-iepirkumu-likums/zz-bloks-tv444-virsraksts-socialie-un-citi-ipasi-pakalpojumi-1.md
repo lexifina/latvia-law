@@ -1,0 +1,23 @@
+Nr.
+p. k.AprakstsCPV kods
+1.Veselības, sociālie un saistītie pakalpojumi75200000-8, 75231200-6, 75231240-8, 79611000-0, 79622000-0 (mājsaimniecību personāla nodrošināšanas pakalpojumi),
+79624000-4 (aprūpes personāla nodrošināšanas pakalpojumi), 79625000-1 (medicīniskā personāla nodrošināšanas pakalpojumi), no 85000000-9 līdz 85323000-9, 98133100-5, 98133000-4, 98200000-5, 98500000-8 (privātas mājsaimniecības ar nodarbinātām personām), no 98513000-2 līdz 98514000-9 (darbaspēka pakalpojumi mājsaimniecībām, aģentūru personāla pakalpojumi mājsaimniecībām, kalpotāju pakalpojumi mājsaimniecībām, pagaidu personāls mājsaimniecībām, mājas palīdzības pakalpojumi un mājas apkopes pakalpojumi)
+2.Administratīvie, sociālie, izglītības, veselības aprūpes un kultūras pakalpojumi85321000-5, 85322000-2, 75000000-6 (pārvaldes, aizsardzības un sociālā nodrošinājuma pakalpojumi),
+75121000-0, 75122000-7, 75124000-1, no 79995000-5 līdz 79995200-7, no 80000000-4 (izglītības un mācību pakalpojumi) līdz 80660000-8, no 92000000-1 līdz 92700000-8,
+79950000-8 (izstāžu, gadatirgu un kongresu organizēšanas pakalpojumi), 79951000-5 (semināru organizēšanas pakalpojumi), 79952000-2 (pasākumu organizēšanas pakalpojumi), 79952100-3 (kultūras pasākumu organizēšanas pakalpojumi), 79953000-9 (festivālu organizēšanas pakalpojumi), 79954000-6 (sarīkojumu organizēšanas pakalpojumi), 79955000-3 (modes skašu organizēšanas pakalpojumi), 79956000-0 (gadatirgu un izstāžu organizēšanas pakalpojumi)
+3.Obligātās sociālās nodrošināšanas pakalpojumi75300000-9
+4.Pabalstu pakalpojumi75310000-2, 75311000-9, 75312000-6, 75313000-3, 75313100-4, 75314000-0, 75320000-5, 75330000-8, 75340000-1
+5.Citi kopienas, sociālie un personālie pakalpojumi, tostarp arodbiedrību, politisko organizāciju, jauniešu biedrību sniegtie pakalpojumi, un citi biedru organizāciju pakalpojumi98000000-3, 98120000-0, 98132000-7, 98133110-8, 98130000-3
+6.Reliģiskie pakalpojumi98131000-0
+7.Viesnīcu un restorānu pakalpojumiNo 55100000-1 līdz 55410000-7, no 55521000-8 līdz 55521200-0,
+55521000-8 (ēdināšanas pakalpojumi privātajām mājsaimniecībām),
+55521100-9 (ēdienu piegādes pakalpojumi veciem un slimiem cilvēkiem), 55521200-0 (ēdienu piegādes pakalpojumi), 55520000-1 (ēdināšanas pakalpojumi), 55522000-5 (ēdināšanas pakalpojumi transporta uzņēmumiem), 55523000-2 (ēdināšanas pakalpojumi citiem uzņēmumiem vai citām iestādēm), 55524000-9 (skolas ēdināšanas pakalpojumi); 55510000-8 (ēdnīcu pakalpojumi), 55511000-5 (ēdnīcu un citu slēgta veida kafetēriju pakalpojumi), 55512000-2 (ēdnīcu vadības pakalpojumi), 55523100-3 (skolas ēdināšanas nodrošināšanas pakalpojumi)
+8.Juridiskie pakalpojumiNo 79100000-5 līdz 79140000-7, 75231100-5
+9.Citi administratīvie pakalpojumi un valdības pakalpojumiNo 75100000-7 līdz 75120000-3, 75123000-4, no 75125000-8 līdz 75131000-3
+10.Pakalpojumu sniegšana sabiedrībaiNo 75200000-8 līdz 75231000-4
+11.Ar cietumiem saistīti pakalpojumi, sabiedriskās drošības un glābšanas pakalpojumi, ja tie nav izslēgti saskaņā ar šā likuma 3. panta pirmās daļas 10. punktuNo 75231210-9 līdz 75231230-5, no 75240000-0 līdz 75252000-7, 794300000-7, 98113100-9
+12.Izmeklēšanas un apsardzes pakalpojumiNo 79700000-1 līdz 79721000-4 (izmeklēšanas un apsardzes pakalpojumi, apsardzes pakalpojumi, signalizācijas uzraudzības pakalpojumi, apsargu pakalpojumi, novērošanas pakalpojumi, izsekošanas sistēmas pakalpojumi, bēgļu izsekošanas pakalpojumi, patrulēšanas pakalpojumi, identifikācijas kartes piegādes pakalpojumi, izmeklēšanas pakalpojumi un detektīvu aģentūras pakalpojumi), 79722000-1 (grafoloģijas pakalpojumi), 79723000-8 (atkritumu analīzes pakalpojumi)
+13.Starptautiskie pakalpojumi98900000-2 (ārpusteritoriālo organizāciju un institūciju sniegtie pakalpojumi), 98910000-5 (starptautiskām organizācijām un struktūrām raksturīgi pakalpojumi)
+14.Pasta pakalpojumi64000000-6 (pasta un telekomunikāciju pakalpojumi), 64100000-7 (pasta un kurjeru pakalpojumi), 64110000-0 (pasta pakalpojumi), 64111000-7 (pasta pakalpojumi, kas saistīti ar avīzēm un periodiskajiem izdevumiem), 64112000-4 (pasta pakalpojumi, kas saistīti ar vēstulēm), 64113000-1 (pasta pakalpojumi, kas saistīti ar pakām), 64114000-8 (pasta iestādes pakalpojumi), 64115000-5 (pastkastīšu noma), 64116000-2 (pasta pakalpojumi sūtījumiem pēc pieprasījuma),
+64122000-7 (biroja iekšējā pasta un kurjera pakalpojumi)
+15.Dažādi pakalpojumi50116510-9 (riepu vulkanizēšanas pakalpojumi), 71550000-8 (kalēja pakalpojumi)

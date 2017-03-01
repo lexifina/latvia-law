@@ -1,0 +1,22 @@
+61. pants. Iepirkuma līguma vai vispārīgās vienošanās grozīšana
+(1) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja tie nemaina iepirkuma līguma vai vispārīgās vienošanās vispārējo raksturu (veidu un iepirkuma procedūras dokumentos noteikto mērķi) un atbilst vienam no šādiem gadījumiem:
+1) grozījumi ir nebūtiski;
+2) grozījumi ir būtiski un tiek izdarīti tikai šā panta trešajā daļā minētajos gadījumos;
+3) grozījumi tiek izdarīti šā panta piektajā daļā minētajā gadījumā neatkarīgi no tā, vai tie ir būtiski vai nebūtiski.
+(2) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir būtiski jebkurā no šādiem gadījumiem:
+1) grozītie iepirkuma līguma vai vispārīgās vienošanās noteikumi, ja tie būtu bijuši paredzēti iepirkuma procedūras dokumentos, pieļautu atšķirīgu piedāvājumu iesniegšanu vai citu kandidātu un pretendentu dalību vai izvēli iepirkuma procedūrā;
+2) ekonomiskais līdzsvars (piemēram, risku sadalījums un tos kompensējošie līdzekļi), ko paredz iepirkuma līgums vai vispārīgā vienošanās, tiek mainīts iepirkuma procedūrā izraudzītā pretendenta interesēs;
+3) iepirkuma līguma priekšmetā ietver piegādes, pakalpojumus vai būvdarbus, ko neparedz sākotnēji noslēgtais iepirkuma līgums vai vispārīgā vienošanās;
+4) iepirkuma procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu piegādātāju.
+(3) Būtiski iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami šādos gadījumos:
+1) iepirkuma procedūras dokumenti un iepirkuma līgums vai vispārīgā vienošanās skaidri un nepārprotami paredz grozījumu iespēju, nosacījumus, ar kādiem grozījumi ir pieļaujami, grozījumu apjomu un būtību. Šādi noteikumi par grozījumiem var attiekties uz līgumcenas pārskatīšanu, izvēles iespēju izmantošanu, kā arī uz citiem iepirkuma līguma vai vispārīgās vienošanās izpildes aspektiem;
+2) pasūtītājam ir nepieciešami papildu būvdarbi, pakalpojumi vai piegādes, kas nebija iekļauti sākotnējā iepirkumā, un piegādātāja maiņa radītu būtisku izmaksu pieaugumu, un to nevar veikt tādu ekonomisku vai tehnisku iemeslu dēļ kā aizvietojamība vai savietojamība ar jau sākotnējā iepirkumā iegādāto aprīkojumu, pakalpojumiem vai iekārtām, vai piegādātāja maiņa radītu ievērojamas grūtības;
+3) iepirkuma līguma grozījumi ir nepieciešami tādu iemeslu dēļ, kurus pasūtītājs iepriekš nevarēja paredzēt;
+4) iepirkuma procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu piegādātāju atbilstoši komerctiesību jomas normatīvo aktu noteikumiem par komersantu reorganizāciju un uzņēmuma pāreju, un šis piegādātājs atbilst paziņojumā par līgumu vai iepirkuma procedūras dokumentos noteiktajām kvalifikācijas prasībām, un uz to neattiecas šā likuma 42. panta pirmajā daļā paredzētie izslēgšanas noteikumi, kā arī tie šā likuma 42. panta otrajā daļā paredzētie izslēgšanas noteikumi, kurus pasūtītājs sākotnēji ietvēris paziņojumā par līgumu vai iepirkuma procedūras dokumentos.
+(4) Līgumcenas pieaugums šā panta trešās daļas 2. un 3. punktā minēto grozījumu gadījumā nevar pārsniegt 50 procentus no sākotnējās iepirkuma līguma līgumcenas.
+(5) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja iepirkuma līguma vai vispārīgās vienošanās grozījumu vērtība, ko noteic kā visu secīgi veikto grozījumu naudas vērtību summu (neņemot vērā to grozījumu vērtību, kuri izdarīti saskaņā ar šā panta trešās daļas 1., 2. un 3. punktu), vienlaikus nesasniedz:
+1) Ministru kabineta noteiktās līgumcenu robežvērtības, sākot ar kurām paziņojums par līgumu publicējams Eiropas Savienības Oficiālajā Vēstnesī;
+2) 10 procentus no sākotnējās iepirkuma līguma vai vispārīgās vienošanās līgumcenas publiska piegādes un publiska pakalpojuma līguma gadījumā un 15 procentus no sākotnējās iepirkuma līguma vai vispārīgās vienošanās līgumcenas publiska būvdarbu līguma gadījumā.
+(6) Ja iepirkuma līgumā ir paredzēta līgumcenas indeksācija, šā panta ceturtajā un piektajā daļā minētā sākotnējā iepirkuma līguma līgumcena ir līgumcena, kas indeksēta.
+(7) Pasūtītājs publicē paziņojumu par izmaiņām līguma darbības laikā saskaņā ar šā likuma 33. pantu.
+(8) Iepirkuma līguma un vispārīgās vienošanās grozījumiem, kas nav atbilstoši šā panta pirmajā daļā minētajiem gadījumiem, piemērojamas šajā likumā noteiktās iepirkuma procedūras.

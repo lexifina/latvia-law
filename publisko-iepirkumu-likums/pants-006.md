@@ -1,0 +1,5 @@
+6. pants. Līgumi, kuru izpildi vairāk par 50 procentiem finansē pasūtītājs
+(1) Šo likumu piemēro līgumu noslēgšanai, ja:
+1) būvdarbu līguma izpildi vairāk par 50 procentiem no līgumcenas tieši finansē pasūtītājs un šā līguma paredzamā līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka, un šis līgums attiecas uz specializētajiem būvdarbiem atbilstoši šā likuma 1. pielikumam, kā arī uz sportam, ārstniecībai un atpūtai paredzētu būvju, slimnīcu, skolu un administratīvo ēku būvniecību;
+2) pakalpojuma līguma izpildi vairāk par 50 procentiem no līgumcenas tieši finansē pasūtītājs un šā līguma paredzamā līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka, un šis līgums ir saistīts ar būvdarbu līgumu atbilstoši šā panta 1. punktam.
+(2) Ja pasūtītājs, kas finansē šā panta pirmās daļas 1. un 2. punktā minēto līgumu izpildi, pats nenodrošina līgumu slēgšanas tiesību piešķiršanu vai līgumu slēgšanas tiesības piešķir citu personu labā vai vārdā, tas nodrošina līgumu slēgšanas tiesību piešķiršanas atbilstību šim likumam.

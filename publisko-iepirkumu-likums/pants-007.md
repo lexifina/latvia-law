@@ -1,0 +1,3 @@
+7. pants. Citi pasūtītāja finansētie projekti
+(1) Ja pasūtītājs no saviem līdzekļiem vai no Eiropas Savienības politiku instrumentu vai citas ārvalstu finanšu palīdzības un nacionālā līdzfinansējuma līdzekļiem finansē tāda līguma izpildi, kas nav minēts šā likuma 6. pantā, iepirkuma procedūras un to piemērošanas kārtību, kā arī personas, kuras piemēro šīs procedūras, nosaka Ministru kabinets.
+(2) Šā panta pirmā daļa neattiecas uz finansējumu, kas tiek piešķirts kā kompensācija. Šīs daļas izpratnē kompensācija ir naudas summa, kas aprēķināta pēc noteiktas likmes un tiek izsniegta kā atlīdzība par konkrēta mērķa īstenošanu.

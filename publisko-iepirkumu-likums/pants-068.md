@@ -1,0 +1,26 @@
+68. pants. Tiesības iesniegt iesniegumu par iepirkuma procedūras pārkāpumiem
+(1) Persona, kura ir vai ir bijusi ieinteresēta iegūt tiesības noslēgt iepirkuma līgumu vai vispārīgo vienošanos vai pretendē uz iepirkuma līguma slēgšanas tiesību piešķiršanu un kura saistībā ar konkrēto iepirkuma procedūru, uz kuru attiecas šis likums, uzskata, ka ir aizskartas tās tiesības vai ir iespējams šo tiesību aizskārums, ko rada varbūtējs Eiropas Savienības normatīvo aktu vai citu normatīvo aktu pārkāpums, ir tiesīga iesniegt iesniegumu par kandidātu vai pretendentu atlases noteikumiem, tehniskajām specifikācijām un citām prasībām, kas attiecas uz konkrēto iepirkuma procedūru, vai par pasūtītāja vai iepirkuma komisijas darbību iepirkuma procedūras laikā. Šīs nodaļas izpratnē par iepirkuma procedūru uzskatāma arī šā likuma 10. pantā minētā iepirkuma veikšanas kārtība un metu konkurss.
+(2) Iesniegumu par šā panta pirmajā daļā minētajiem pārkāpumiem (izņemot šā panta trešajā daļā minētos gadījumus) Iepirkumu uzraudzības birojam var iesniegt līdz iepirkuma līguma vai vispārīgās vienošanās noslēgšanai šādos termiņos:
+1) 10 dienu laikā pēc dienas, kad šā likuma 37. pantā minētā informācija nosūtīta attiecīgajai personai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, vai pa faksu vai nodota personiski;
+2) 15 dienu laikā pēc dienas, kad šā likuma 37. pantā minētā informācija nosūtīta attiecīgajai personai pa pastu;
+3) 10 dienu laikā pēc dienas, kad šā likuma 30. panta pirmajā daļā minētais paziņojums publicēts Eiropas Savienības Oficiālajā Vēstnesī.
+(3) Iesniegumu attiecībā uz iepirkuma procedūras dokumentos iekļautajām prasībām var iesniegt šādos termiņos:
+1) ne vēlāk kā septiņas dienas pirms tam, kad beidzas piedāvājumu iesniegšanas termiņš, - attiecībā uz atklāta konkursa nolikumā un paziņojumā par līgumu iekļautajām prasībām;
+2) ne vēlāk kā četras darbdienas pirms tam, kad beidzas pieteikumu iesniegšanas termiņš, - attiecībā uz slēgta konkursa kandidātu atlases nolikumā un paziņojumā par līgumu, konkursa dialoga dokumentos un paziņojumā par līgumu vai konkursa procedūras ar sarunām dokumentos un paziņojumā par līgumu, vai inovācijas partnerības procedūras dokumentos un paziņojumā par līgumu iekļautajām prasībām;
+3) ne vēlāk kā četras darbdienas pirms tam, kad beidzas piedāvājumu iesniegšanas termiņš, - attiecībā uz slēgta konkursa, konkursa dialoga, konkursa procedūras ar sarunām vai inovācijas partnerības procedūras uzaicinājumā iekļautajām prasībām;
+4) ne vēlāk kā septiņas dienas pirms tam, kad beidzas metu iesniegšanas termiņš, - attiecībā uz metu konkursa nolikumā un paziņojumā par metu konkursu iekļautajām prasībām;
+5) ne vēlāk kā divas darbdienas pirms tam, kad beidzas piedāvājumu iesniegšanas termiņš, - attiecībā uz iepirkuma dokumentos iekļautajām prasībām šā likuma 10. pantā minētā iepirkuma gadījumā.
+(4) Iesniegumu Iepirkumu uzraudzības birojam var iesniegt, nododot to personiski vai nosūtot pa pastu, faksu vai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu. Iesniegums uzskatāms par iesniegtu Iepirkumu uzraudzības birojam šā panta otrajā un trešajā daļā noteiktajā termiņā, ja tas Iepirkumu uzraudzības birojā saņemts:
+1) ne vēlāk kā termiņa pēdējā dienā, ja nosūtīts pa faksu vai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu;
+2) ne vēlāk kā termiņa pēdējā dienā Iepirkumu uzraudzības biroja darba laikā, ja nosūtīts pa pastu vai nodots personiski.
+(5) Iesniegums iesniedzams rakstveidā, un tajā ietveramas šādas ziņas:
+1) iesnieguma iesniedzēja nosaukums un adrese;
+2) tā pasūtītāja nosaukums un adrese, par kuru iesniegts iesniegums;
+3) iepirkuma procedūras nosaukums un iepirkuma identifikācijas numurs;
+4) fakti, par kuriem iesniegts iesniegums, norādot pārkāpumu;
+5) iesnieguma juridiskais pamatojums;
+6) iesnieguma iesniedzēja prasība.
+(6) Iepirkumu uzraudzības birojs vienas darbdienas laikā pēc tam, kad saņemts iesniegums par iepirkuma procedūras pārkāpumiem, ievieto ziņas par to savā tīmekļvietnē, norādot iesnieguma iesniedzēju, pasūtītāju un iepirkuma procedūru, kuras likumību apstrīd iesnieguma iesniedzējs, kā arī informē pasūtītāju par administratīvās lietas ierosināšanu, nosūtot paziņojumu par saņemto iesniegumu un iesnieguma kopiju uz pasūtītāja norādīto faksa numuru vai elektroniskā pasta adresi, un pasūtītājs neslēdz iepirkuma līgumu vai vispārīgo vienošanos, kamēr nav saņemts komisijas lēmums par iesnieguma izskatīšanas rezultātiem vai administratīvās lietas izbeigšanu.
+(7) Ja ir iesniegts iesniegums attiecībā uz prasībām, kas noteiktas atklāta konkursa nolikumā vai paziņojumā par līgumu, vai slēgta konkursa uzaicinājumā iesniegt piedāvājumu, tad pasūtītājs rīkojas Ministru kabineta noteiktajā kārtībā.
+(8) Ja tiek iesniegts iesniegums par pasūtītāja darbību attiecībā uz iepirkuma procedūras likumību un iesniegumu par to pašu iepirkuma procedūru jau ir iesniedzis cits iesniedzējs, bet tas vēl nav izskatīts, šos iesniegumus var apvienot un izskatīt kopā.
+(9) Iesnieguma iesniedzējs ir tiesīgs rakstveidā atsaukt iesniegto iesniegumu jebkurā brīdī, kamēr komisija nav pieņēmusi lēmumu par attiecīgo iesniegumu.

@@ -1,0 +1,2 @@
+XI nodaļa
+Zaudējumu atlīdzināšana
