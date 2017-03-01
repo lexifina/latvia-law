@@ -7,7 +7,8 @@
 1) alkoholiskos dzērienus:
 a) alkoholiskos dzērienus, kuri iepildīti pudelēs ar tilpumu līdz 100 mililitriem,
 b) alu,
-c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos;
+c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos,
+d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot);
 1¹) tabakas izstrādājumus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos;
 1²) tabakas lapas;
 1³) karsējamo tabaku;
