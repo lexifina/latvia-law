@@ -10,4 +10,4 @@
 (8) Juridiskās palīdzības administrācija iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību atstāj bez izskatīšanas, ja:
 1) persona rakstveidā atsauc iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību;
 2) persona, kas iesniegusi iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību, ir mirusi.
-(9) Šajā likumā noteiktā iesnieguma iesniegšanas un izskatīšanas kārtība neattiecas uz juridiskās palīdzības nodrošināšanu pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros.
+(9) Šajā likumā noteiktā iesnieguma iesniegšanas un izskatīšanas kārtība neattiecas uz juridiskās palīdzības nodrošināšanu pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros un uz administratīvajām lietām, kurās juridiskā palīdzība piešķirama Administratīvā procesa likumā noteiktajā gadījumā un kārtībā.

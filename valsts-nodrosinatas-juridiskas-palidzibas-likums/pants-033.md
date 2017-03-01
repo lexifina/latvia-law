@@ -16,6 +16,7 @@
 6) juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu vai kārtību, kādā juridiskās palīdzības pieprasītājs var sazināties ar juridiskās palīdzības sniedzēju.
 (5) Norīkojums nav administratīvs akts.
 (6) Juridiskās palīdzības administrācija norīko juridiskās palīdzības sniedzēju patvēruma meklētājam, ja no institūcijas, kas ir atbildīga par patvēruma iesniegumu izskatīšanu un juridiskās palīdzības nepieciešamības izvērtēšanu, saņemts attiecīgs pieprasījums.
+(6¹) Juridiskās palīdzības administrācija norīko personai juridiskās palīdzības sniedzēju, ja no tiesneša vai tiesas Administratīvā procesa likumā noteiktajā gadījumā un kārtībā saņemts attiecīgs lēmums. Par juridiskās palīdzības sniedzēja norīkošanu Juridiskās palīdzības administrācija paziņo tiesnesim vai tiesai.
 (7) Juridiskās palīdzības administrācija nenodrošina pieņemtā lēmuma par juridiskās palīdzības piešķiršanu izpildi un pārtrauc juridiskās palīdzības sniegšanas nodrošināšanu, ja:
 1) persona rakstveidā iesniedz attiecīgu lūgumu;
 2) persona, kurai piešķirta juridiskā palīdzība, ir mirusi;
