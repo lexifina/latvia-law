@@ -1,8 +1,10 @@
-338.pants. Rīcības sēde
-(1) Lai izlemtu jautājumu par kasācijas tiesvedības ierosināšanu, kasācijas sūdzību rīcības sēdē izskata Senāta Administratīvo lietu departamenta priekšsēdētāja noteiktajā kārtībā norīkota senatoru kolēģija, kuras sastāvā ir trīs senatori.
-(2) Ja senatoru kolēģija vienbalsīgi atzīst, ka kasācijas tiesvedības ierosināšana ir atsakāma, tā ar savu rīcības sēdes lēmumu atsakās ierosināt kasācijas tiesvedību.
-(3) Ja senatoru viedoklis par kasācijas tiesvedības ierosināšanu atšķiras vai arī visi senatori uzskata, ka lieta izskatāma kasācijas instances tiesā, senatoru kolēģija ar lēmumu ierosina kasācijas tiesvedību un nodod lietu izskatīšanai kasācijas kārtībā.
-(4) Ar senatoru kolēģijas lēmumu lietu var nodot izskatīšanai kasācijas kārtībā Senāta Administratīvo lietu departamenta kopsēdē.
-(5) Ja ierosina kasācijas tiesvedību, pēc administratīvā procesa dalībnieka lūguma ar rīcības sēdes lēmumu var apturēt sprieduma izpildi.
-(6) Senāta rīcības sēdē senatoru kolēģija var pieņemt lēmumu apturēt tiesvedību, ja tā konstatē kādu no šā likuma 273.pantā minētajiem gadījumiem.
-(7) Senāta rīcības sēdē senatoru kolēģija var izlemt arī jautājumu par atteikumu pieņemt iesniegto blakus sūdzību un citus procesuālos jautājumus, kā arī pieņemt lēmumu uzdot Eiropas Savienības Tiesai jautājumu prejudiciāla nolēmuma pieņemšanai vai iesniegt Satversmes tiesai pieteikumu par tiesību normu atbilstību Satversmei vai starptautisko tiesību normai (aktam).
+338. pants. Rīcības sēde
+(1) Par kasācijas tiesvedības ierosināšanu rīcības sēdē lemj tiesnešu kolēģija triju tiesnešu sastāvā. Kolēģijas sastāvs tiek noteikts atbilstoši lietu sadales plānam.
+(2) Ja tiesnešu kolēģija vienbalsīgi atzīst, ka kasācijas tiesvedības ierosināšana ir atsakāma, tā atsakās ierosināt kasācijas tiesvedību. Par atteikšanos ierosināt kasācijas tiesvedību tiek pieņemts rīcības sēdes lēmums.
+(3) Ja tiesnešu viedoklis par kasācijas tiesvedības ierosināšanu atšķiras vai arī visi tiesneši uzskata, ka lieta izskatāma kasācijas kārtībā, tiesnešu kolēģija ar lēmumu ierosina kasācijas tiesvedību.
+(4) Tiesnešu kolēģija lietu var nodot izskatīšanai kasācijas kārtībā Augstākās tiesas Administratīvo lietu departamenta kopsēdē.
+(5) Šā panta otrajā daļā minēto lēmumu, kas pieņemts, pamatojoties uz šā likuma 338.¹ panta pirmo daļu, kā arī šā panta trešajā un ceturtajā daļā minēto lēmumu, var sastādīt rezolūcijas veidā.
+(6) Kasācijas tiesvedības ierosināšanas gadījumā pēc administratīvā procesa dalībnieka lūguma ar rīcības sēdes lēmumu var apturēt sprieduma izpildi.
+(7) Ja tiesnešu kolēģija konstatē kādu no šā likuma 273. pantā minētajiem gadījumiem, tā var apturēt tiesvedību.
+(8) Tiesnešu kolēģija var izlemt arī jautājumu par atteikumu pieņemt iesniegto blakus sūdzību un citus procesuālos jautājumus, kā arī pieņemt lēmumu uzdot Eiropas Savienības Tiesai jautājumu prejudiciāla nolēmuma pieņemšanai vai iesniegt Satversmes tiesai pieteikumu par tiesību normu atbilstību Satversmei vai starptautisko tiesību normai (aktam).
+(9) Tiesnešu kolēģija var pieņemt lēmumu nosūtīt lietu papildsprieduma taisīšanai tiesai, kuras spriedums pārsūdzēts, ja attiecīgā tiesa nav izspriedusi kādu prasījumu. Lietas izskatīšana kasācijas kārtībā tiek turpināta pēc tam, kad attiecīgā tiesa lietā ir taisījusi papildspriedumu un ir beidzies likumā noteiktais termiņš kasācijas sūdzības (procesa dalībniekam, kurš lietā jau iesniedzis kasācijas sūdzību, - tās papildinājumu) iesniegšanai par papildspriedumu.

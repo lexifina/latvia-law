@@ -1,0 +1,5 @@
+360.¹ pants. Administratīvā akta izpildes noilgums
+(1) Administratīvais akts, izņemot šā panta otrajā daļā noteiktos gadījumus, nav izpildāms, ja no tā labprātīgas izpildes termiņa beigām pagājuši vairāk nekā pieci gadi. Noilguma termiņā neieskaita laiku, kad administratīvā akta adresātam nav deklarētās dzīvesvietas vai dzīvesvieta ir reģistrēta ārpus Latvijas, taču šādā gadījumā administratīvais akts nav izpildāms, ja no tā labprātīgas izpildes termiņa beigām pagājuši vairāk nekā seši gadi.
+(2) Administratīvajam aktam, kas uzliek adresātam pienākumu samaksāt noteiktu naudas summu, izpildes noilgums iestājas:
+1) likumā noteiktajā termiņā, ja piespiedu izpildi veic iestāde, kas administratīvo aktu izdevusi;
+2) atbilstoši Civilprocesa likumā noteiktajam, ja izpildrīkojums ar pienākumu adresātam samaksāt noteiktu naudas summu piespiedu izpildei tiek nodots zvērinātam tiesu izpildītājam viena gada laikā no administratīvā akta labprātīgas izpildes termiņa beigām vai no brīža, kad administratīvā akta izpilde saskaņā ar likumu, uz kura pamata administratīvais akts izdots, piekrīt tiesu izpildītājam.

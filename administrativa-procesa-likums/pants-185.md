@@ -6,7 +6,7 @@
 1) administratīvais akts uzliek pienākumu samaksāt nodokli, nodevu vai veikt citu maksājumu valsts vai pašvaldības budžetā, izņemot sodoša rakstura maksājumus (naudas sodus un soda naudas);
 2) tas paredzēts citos likumos;
 3) iestāde, pamatodama administratīvā akta izpildes steidzamību konkrētajā lietā, īpaši noteikusi, ka ar pieteikuma iesniegšanu tiesā administratīvā akta darbība netiek apturēta;
-4) policijas, robežsardzes, zemessardzes, Valsts ugunsdzēsības un glābšanas dienesta un citu likumā pilnvarotu amatpersonu administratīvie akti izdoti, lai nekavējoties novērstu tiešas briesmas valsts drošībai, sabiedriskajai kārtībai, videi, personu dzīvībai, veselībai un mantai;
+4) policijas, robežsardzes, Valsts ugunsdzēsības un glābšanas dienesta un citu likumā pilnvarotu amatpersonu administratīvie akti izdoti, lai nekavējoties novērstu tiešas briesmas valsts drošībai, sabiedriskajai kārtībai, videi, personu dzīvībai, veselībai un mantai;
 5) pieteikumu iesniedzis labvēlīga administratīvā akta adresāts, lai panāktu vēl labvēlīgāka administratīvā akta izdošanu;
 6) administratīvais akts nodibina, maina vai izbeidz iestādes amatpersonas tiesisko statusu;
 7) tiek pārsūdzēta faktiskā rīcība;

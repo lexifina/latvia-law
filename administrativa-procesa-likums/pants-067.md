@@ -16,3 +16,4 @@
 (6) Iestāde nedrīkst pamatot administratīvo aktu ar iekšējo normatīvo aktu. Ja iestāde ir piemērojusi iekšējo normatīvo aktu, to administratīvā akta pamatojumā min, norādot iekšējā normatīvā akta izdevēju, izdošanas datumu, nosaukumu un piemēroto tiesību normu. Šai norādei ir informatīvs raksturs.
 (7) Ja iestāde pilnībā apmierina iesniedzēja prasījumu un citi administratīvā procesa dalībnieki nav izteikuši atšķirīgu viedokli, šā panta otrās daļas 4., 6. un 9.punktā minētās ziņas nav nepieciešamas.
 (8) Ja iestādei lietas apstākļu objektīvai noskaidrošanai ir nepieciešams pārbaudīt valsts noslēpumu saturošu informāciju, administratīvajā aktā šādu informāciju neatspoguļo.
+(9) Administratīvajā aktā var iekļaut brīdinājumu par piespiedu izpildi, kas noformēts atbilstoši šā likuma 361. pantā minētajām prasībām.

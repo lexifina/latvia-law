@@ -1,4 +1,4 @@
 128.pants. Izņēmumi no vispārīgiem noteikumiem par valsts nodevu
-(1) Papildus citiem likumā noteiktajiem gadījumiem no valsts nodevas samaksas ir atbrīvota persona, kura iesniedz pieteikumu par juridiskās palīdzības administrācijas lēmumu, kā arī šā likuma 29.pantā minētais tiesību subjekts.
+(1) Papildus citiem likumā noteiktajiem gadījumiem no valsts nodevas samaksas ir atbrīvota fiziskā persona, kura iesniedz pieteikumu par juridiskās palīdzības administrācijas lēmumu, kā arī publisko tiesību subjekts, kas iesniedz tiesā pieteikumu kā šā likuma 29. pantā minētais tiesību subjekts.
 (2) Ja šā likuma 29.pantā minētais tiesību subjekts atsakās no pieteikuma, kas iesniegts personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, valsts nodevu maksā pēc vispārīgiem noteikumiem.
-(3) Tiesa vai tiesnesis, ievērojot fiziskās personas mantisko stāvokli, pēc personas lūguma var pilnīgi vai daļēji atbrīvot personu no valsts nodevas samaksas.
+(3) Tiesa (tiesnesis) pēc fiziskās personas lūguma, ievērojot tās mantisko stāvokli, var pilnīgi vai daļēji atbrīvot personu no valsts nodevas samaksas. Tiesa (tiesnesis), pieņemot lēmumu, ņem vērā to, vai šīs personas iesniegtos citus pieteikumus, sūdzības un lūgumus administratīvajai tiesai pēdējo triju gadu laikā vairākkārt atteikts pieņemt, atteikts izskatīt, tie atstāti bez izskatīšanas vai noraidīti.

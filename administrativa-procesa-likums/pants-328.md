@@ -2,11 +2,13 @@
 (1) Kasācijas sūdzībā norāda:
 1) tās tiesas nosaukumu, kurai adresēta sūdzība;
 2) sūdzības iesniedzēja, kā arī viņa pilnvarota pārstāvja, ja kasācijas sūdzību iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietu vai citu adresi, kurā persona ir sasniedzama (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi);
-3) spriedumu, par kuru iesniedz sūdzību;
-4) kādā apjomā spriedumu pārsūdz;
-5) kādu materiālo vai procesuālo tiesību normu tiesa pārkāpusi un kā izpaužas šis pārkāpums;
-6) Senātam izteikto lūgumu;
-7) (izslēgts ar 01.11.2012. likumu);
-8) sūdzības sastādīšanas laiku.
+3) sūdzības iesniedzēja (viņa pārstāvja) tālruņa numuru vai elektroniskā pasta adresi, ja viņš piekrīt saziņai ar tiesu izmantot attiecīgo saziņas līdzekli;
+4) spriedumu, par kuru iesniedz sūdzību;
+5) kādā apjomā spriedumu pārsūdz;
+6) kādu materiālo vai procesuālo tiesību normu tiesa pārkāpusi un pamatojumu, kā izpaužas šis pārkāpums;
+7) pamatojumu, ja sūdzības iesniedzējs uzskata, ka kasācijas sūdzības izskatīšanai kasācijas tiesvedības kārtībā ir būtiska nozīme judikatūras veidošanā;
+8) tiesai izteikto lūgumu;
+9) sūdzības sastādīšanas laiku un vietu.
+(1¹) Ja spriedumā ietverts lēmums, par kuru var iesniegt blakus sūdzību kasācijas instances tiesai, iebildumus pret šo lēmumu ietver kasācijas sūdzībā, izņemot gadījumu, kad procesa dalībnieks pārsūdz tikai spriedumā ietverto lēmumu.
 (2) Kasācijas sūdzību paraksta tās iesniedzējs vai viņa pilnvarots pārstāvis. Ja kasācijas sūdzību iesniedzēja vārdā iesniedz pārstāvis, viņš sūdzībai pievieno attiecīgu pilnvaru vai citu dokumentu, no kura izriet pārstāvja tiesības iesniegt sūdzību.
-(3) Kasācijas sūdzību, ko iesniegusi persona, kura nav tam pilnvarota, atsakās pieņemt un atdod iesniedzējam, atmaksājot drošības naudu.
+(3) (Izslēgta ar 02.02.2017. likumu)

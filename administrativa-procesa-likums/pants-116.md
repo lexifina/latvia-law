@@ -1,4 +1,4 @@
 116.pants. Aizliegums tiesnesim piedalīties lietas atkārtotā izskatīšanā
 (1) Tiesnesis, kas piedalījies lietas izskatīšanā pirmās instances tiesā, nedrīkst piedalīties šīs lietas izskatīšanā apelācijas vai kasācijas instances tiesā, kā arī piedalīties jaunā lietas izskatīšanā pirmās instances tiesā, ja nolēmums, kas sastādīts, viņam piedaloties, ir atcelts.
 (2) Tiesnesis, kas piedalījies lietas izskatīšanā apelācijas vai kasācijas instances tiesā, nedrīkst piedalīties jaunā šīs lietas izskatīšanā pirmās instances tiesā vai apelācijas instances tiesā.
-(3) Tiesnesis, kas piedalījies lietas izskatīšanā apelācijas instances tiesā, nedrīkst piedalīties šīs lietas izskatīšanā kasācijas instances tiesā, izņemot gadījumu, kad lietu izskata Senāta Administratīvo lietu departamenta kopsēdē.
+(3) Tiesnesis, kas piedalījies lietas izskatīšanā apelācijas instances tiesā, nedrīkst piedalīties šīs lietas izskatīšanā kasācijas instances tiesā, izņemot gadījumu, kad lietu izskata Augstākās tiesas Administratīvo lietu departamenta kopsēdē.

@@ -13,3 +13,4 @@
 (4) Iesniegumu par administratīvā procesa uzsākšanu no jauna tajā pašā lietā iesniedz iestādei, kurai lieta ir piekritīga no jauna ierosinātajā administratīvajā procesā.
 (5) Iestādes atteikumu uzsākt administratīvo procesu no jauna var apstrīdēt un pārsūdzēt mēneša laikā no lēmuma spēkā stāšanās dienas. Tiesa sūdzību izskata rakstveida procesā.
 (6) Ja iesniegums par administratīvā procesa uzsākšanu no jauna iesniegts, kamēr administratīvais akts nav kļuvis neapstrīdams, šāds iesniegums uzskatāms par administratīvā akta apstrīdēšanas iesniegumu.
+(7) Šā panta noteikumi ir attiecināmi arī uz administratīvā līguma grozīšanu vai atcelšanu, izņemot izlīgumu.

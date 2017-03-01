@@ -1,0 +1,1 @@
+21. Grozījumi šā likuma 124. pantā par panta izteikšanu jaunā redakcijā un šā likuma 128. panta pirmajā daļā par pirmās daļas izteikšanu jaunā redakcijā nav attiecināmi uz pieteikumiem un sūdzībām, kuras iesniegtas pirms 2017. gada 1. marta.

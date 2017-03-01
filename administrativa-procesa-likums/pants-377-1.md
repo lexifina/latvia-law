@@ -1,6 +1,6 @@
 377.¹ pants. Izpildu raksts
-(1) Ja tiesas nolēmuma piespiedu izpilde ir piekritīga tiesu izpildītājam, pēc tiesas nolēmuma labprātīgas izpildes termiņa izbeigšanās tiesa, pamatojoties uz personas rakstveida lūgumu, izsniedz tai izpildu rakstu.
-(2) Ja saskaņā ar tiesas spriedumu naudas summas piedzenamas valsts budžetā, tiesa pēc tiesas sprieduma labprātīgas izpildes termiņa izbeigšanās nosūta izpildu rakstu tiesu izpildītājam.
+(1) (Izslēgta ar 02.02.2017. likumu)
+(2) Ja tiesas nolēmums paredz naudas summu piedziņu valsts budžetā, tiesa pēc tiesas nolēmuma labprātīgas izpildes termiņa izbeigšanās sagatavo un nosūta izpildu rakstu tiesu izpildītājam.
 (3) Izpildu rakstā norāda:
 1) tās tiesas nosaukumu, kura izsniegusi izpildu rakstu;
 2) lietu, kurā izsniegts izpildu raksts;

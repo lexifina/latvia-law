@@ -22,5 +22,5 @@
 (3) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.
 (4) (Izslēgta ar 15.01.2004. likumu)
 (5) Ja tiesas sēdē tiek pārbaudīta valsts noslēpumu saturoša informācija, tiesas sēdes protokolā izdara atzīmi par laiku, kad tiesa uzsāka un pabeidza pārbaudīt valsts noslēpumu saturošo informāciju. Ja likumā nav noteikts citādi, protokolā nefiksē attiecīgās informācijas pārbaudi.
-(6) Uz Augstākās tiesas Senāta Administratīvo lietu departamenta kā kasācijas instances tiesas sēdes protokolu neattiecas šā panta pirmās daļas 8., 11., 12. un 15.punkta nosacījumi.
+(6) Uz Augstākās tiesas Administratīvo lietu departamenta kā kasācijas instances tiesas sēdes protokolu neattiecas šā panta pirmās daļas 8., 11., 12. un 15.punkta nosacījumi.
 (7) Ja tiesas sēdes gaita tiek fiksēta, izmantojot tehniskos līdzekļus, tiesas sēdes protokolā var nenorādīt šā panta pirmās daļas 8., 9., 11. un 12.punktā noteiktās ziņas.

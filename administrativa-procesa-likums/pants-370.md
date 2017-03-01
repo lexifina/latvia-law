@@ -1,7 +1,7 @@
 370.pants. Adresātam uzliktā piespiedu nauda
 (1) Ja administratīvais akts uzliek adresātam pienākumu izpildīt noteiktu darbību vai atturēties no noteiktas darbības un viņš šo pienākumu nepilda, adresātam var uzlikt piespiedu naudu.
 (2) Piespiedu naudu var uzlikt atkārtoti, līdz adresāts izpilda vai pārtrauc attiecīgo darbību. Atkārtoti piespiedu naudu var uzlikt ne agrāk kā septiņas dienas pēc iepriekšējās reizes, ja adresāts šo septiņu dienu laikā joprojām nav izpildījis vai nav pārtraucis attiecīgo darbību.
-(3) Minimālā piespiedu nauda ir 10 euro, bet maksimālā - 1425 euro. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13.pants), it sevišķi ņemot vērā adresāta mantisko stāvokli.
+(3) Minimālā piespiedu nauda ir 50 euro, maksimālā piespiedu nauda fiziskajai personai ir 5000 euro, bet juridiskajai personai - 10 000 euro. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13. pants), kā arī adresāta mantisko stāvokli.
 (4) Piespiedu naudu uzliek ar izpildiestādes izpildrīkojumu. Izpildrīkojumā ietver:
 1) tās izpildiestādes nosaukumu, kas izdevusi izpildrīkojumu par piespiedu naudu;
 2) norādi, kurš administratīvais akts izpildāms;
@@ -14,5 +14,5 @@
 9) norādi, kur piespiedu nauda iemaksājama;
 10) izpildrīkojuma par piespiedu naudas izdošanas vietu, datumu un amatpersonas parakstu.
 (5) Uz izpildrīkojumu par piespiedu naudu attiecas šā likuma 70.pantā minētie administratīvā akta spēkā stāšanās noteikumi.
-(6) Izpildrīkojumu par piespiedu naudu var apstrīdēt un pārsūdzēt, ja tajā nav ietvertas šā panta ceturtajā daļā minētās sastāvdaļas, administratīvais akts jau izpildīts labprātīgi vai piespiedu naudas summa nav samērīga. Izpildrīkojumu septiņu dienu laikā var apstrīdēt augstākā iestādē, bet, ja augstākas iestādes nav vai tā ir Ministru kabinets, - pārsūdzēt tiesā. Augstākas iestādes lēmumu septiņu dienu laikā var pārsūdzēt tiesā. Tiesa sūdzību izskata rakstveida procesā. Ja tiesa uzskata, ka piespiedu naudas summa nav samērīga, tā nosaka piespiedu naudas apmēru.
+(6) Sūdzību par izpildrīkojumu par piespiedu naudu šā likuma 363. pantā noteiktajā kārtībā var iesniegt, lai lūgtu samazināt piespiedu naudas apmēru vai tad, ja administratīvais akts jau ir izpildīts labprātīgi. Ja augstāka iestāde vai tiesa uzskata, ka piespiedu naudas summa nav samērīga, tā nosaka piespiedu naudas apmēru.
 (7) Izpildrīkojumu par piespiedu naudu izpilda piespiedu kārtā atbilstoši tiem pašiem noteikumiem, kādi ir uz naudas maksājumu vērsta administratīvā akta piespiedu izpildei (366. un 367.pants).

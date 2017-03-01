@@ -1,2 +1,4 @@
-114.¹ pants. Tiesas sazināšanās ar iestādi
-Tiesa, sazinoties ar iestādi, nosūtot tai dokumentus vai aicinot iestādes pārstāvi ierasties tiesā, var sūtīt attiecīgo informāciju uz iestādes oficiālo elektroniskā pasta adresi, neizmantojot drošu elektronisko parakstu un nenoslēdzot vienošanos ar iestādi.
+114.¹ pants. Tiesas un procesa dalībnieku saziņa
+(1) Tiesa, sazinoties ar iestādi, nosūtot tai dokumentus vai aicinot iestādes pārstāvi ierasties tiesā, var sūtīt attiecīgo informāciju uz iestādes oficiālo elektroniskā pasta adresi, neizmantojot drošu elektronisko parakstu un nenoslēdzot vienošanos ar iestādi.
+(2) Procesa dalībniekiem ir tiesības iesniegt tiesai dokumentus elektroniski, ja tie sagatavoti un nosūtīti saskaņā ar normatīvajiem aktiem par elektronisko dokumentu apriti. Ja dokumenti nav iesniegti atbilstoši šajā likumā noteiktajam, tiesa lemj par dokumentu pievienošanu lietai. Dokumentus, kas tiesā iesniegti elektroniski, iesniedzējam neatdod.
+(3) Ja zvērināts advokāts ir personas pārstāvis tiesā vai sniedz lietas dalībniekam juridisko palīdzību, tiesas saziņa ar zvērinātu advokātu notiek tiesu informatīvās sistēmas datu izplatīšanas sistēmā.

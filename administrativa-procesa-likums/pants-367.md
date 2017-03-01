@@ -4,7 +4,7 @@
 1) tās iestādes nosaukumu, kas izdevusi izpildrīkojumu;
 2) adresāta vārdu, uzvārdu, personas kodu un dzīvesvietu (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi);
 3) norādi, kurš administratīvais akts izpildāms;
-4) piedzenamo summu un citus ar to saistītos izpildes nosacījumus;
+4) piedzenamo summu, tās labprātīgas samaksas termiņu un citus ar to saistītos izpildes nosacījumus;
 5) norādi par brīdinājuma izteikšanu;
 6) datumu, kad izpildāmais administratīvais akts stājies spēkā;
 7) datumu, kad brīdinājums stājies spēkā;

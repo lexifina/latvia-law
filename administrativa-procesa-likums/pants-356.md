@@ -1,7 +1,5 @@
-356.pants. Pieteikuma izskatīšana
-(1) Par pieteikuma sakarā ar jaunatklātiem apstākļiem pieņemšanu lemj attiecīgi Administratīvās apgabaltiesas tiesnesis vai senatoru kolēģija.
-(2) Pieteikuma pieņemšana izskatīšanai atsakāma, ja tiek konstatēti procesuāli šķēršļi pieteikuma pieļaujamībai. Par šādu Administratīvās apgabaltiesas tiesneša lēmumu var iesniegt blakus sūdzību.
-(3) Pieteikuma pieņemšanu izskatīšanai var atteikt, ja pieteikums iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai būtiski faktiskie vai tiesiskie apstākļi mainījušies. Par šādu Administratīvās apgabaltiesas tiesneša lēmumu var iesniegt blakus sūdzību.
-(4) Ja Administratīvās apgabaltiesas tiesnesis vai senatoru kolēģija pieņem pieteikumu sakarā ar jaunatklātiem apstākļiem izskatīšanai, attiecīgi Administratīvā apgabaltiesa vai Senāts to izskata rakstveida procesā.
-(5) Ja tiesa procesuālus šķēršļus pieteikuma pieļaujamībai konstatē pieteikuma izskatīšanas gaitā, tā tiesvedību izbeidz. Par šādu Administratīvās apgabaltiesas lēmumu var iesniegt blakus sūdzību.
-(6) Ja par pieteikumu nav samaksāta valsts nodeva, kā arī tad, ja lūgums nav motivēts, parakstīts, tam nav pievienoti pilnvarojumu apliecinoši dokumenti vai tas neatbilst Valsts valodas likuma prasībām, tiesa (tiesnesis) atstāj lūgumu bez virzības saskaņā ar kārtību, kāda noteikta pieteikuma atstāšanai bez virzības (192.pants).
+356. pants. Pieteikuma izskatīšana
+(1) Pieteikuma pieņemšana izskatīšanai atsakāma, ja tiek konstatēti procesuāli šķēršļi pieteikuma pieļaujamībai. Par šādu pirmās instances tiesas vai apelācijas instances tiesas tiesneša lēmumu var iesniegt blakus sūdzību.
+(2) Tiesa pieteikumu sakarā ar jaunatklātiem apstākļiem izskata rakstveida procesā.
+(3) Ja tiesa procesuālus šķēršļus pieteikuma pieļaujamībai konstatē pieteikuma izskatīšanas gaitā, tā tiesvedību izbeidz. Par šādu pirmās instances tiesas vai apelācijas instances tiesas lēmumu var iesniegt blakus sūdzību.
+(4) Ja par pieteikumu nav samaksāta drošības nauda, kā arī tad, ja lūgums nav motivēts, nav parakstīts, tam nav pievienoti pilnvarojumu apliecinoši dokumenti vai tas neatbilst Valsts valodas likuma prasībām, tiesa (tiesnesis) atstāj lūgumu bez virzības saskaņā ar kārtību, kāda noteikta pieteikuma atstāšanai bez virzības (192. pants).

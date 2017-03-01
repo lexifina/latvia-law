@@ -1,14 +1,12 @@
 129.¹ pants. Drošības naudas atmaksāšana
-(1) Drošības naudu atmaksā pilnīgi, ja:
-1) Administratīvā apgabaltiesa vai Senāts pārsūdzēto tiesas lēmumu pilnībā vai daļā atceļ vai groza;
-2) Senāts pārsūdzēto tiesas spriedumu pilnībā vai daļā atceļ.
-(2) Pusi no samaksātās drošības naudas atmaksā, ja:
-1) tiesnesis atsakās pieņemt blakus sūdzību vai atzīst to par neiesniegtu;
-2) tiesnesis atsakās pieņemt kasācijas sūdzību vai atzīst to par neiesniegtu;
-3) Senatoru kolēģija atsaka ierosināt tiesvedību sakarā ar blakus sūdzību;
-4) Senatoru kolēģija atsaka ierosināt kasācijas tiesvedību.
-(3) Trīs ceturtdaļas no samaksātās drošības naudas atmaksā, ja:
-1) blakus sūdzību atsauc, iekams nav pabeigta tās izskatīšana pēc būtības (rakstveida procesā - līdz dienai, kad administratīvā procesa dalībnieki ir tiesīgi īstenot šā likuma 204.panta otrajā daļā paredzētās tiesības);
-2) kasācijas sūdzību atsauc, iekams nav pabeigta lietas izskatīšana pēc būtības (rakstveida procesā - līdz dienai, kad administratīvā procesa dalībnieki ir tiesīgi īstenot šā likuma 204.panta otrajā daļā paredzētās tiesības).
-(4) Ja blakus sūdzību vai kasācijas sūdzību noraida, drošības naudu neatmaksā.
-(5) Ja iemaksāta lielāka drošības nauda, nekā to nosaka likums, drošības naudu pārmaksātajā daļā atmaksā.
+(1) Drošības naudu atmaksā pilnīgi:
+1) ja blakus sūdzību, kasācijas sūdzību vai lūgumu par pagaidu aizsardzību apmierina pilnībā vai daļā;
+2) ja tiesa konstatē jaunatklātus apstākļus un nodod lietu vai tās daļu jaunai izskatīšanai;
+3) atbildētājam vai trešajai personai, ja pieteicējs atsakās no pieteikuma;
+4) ja blakus sūdzību, kasācijas sūdzību, lūgumu par pagaidu aizsardzību vai pieteikumu sakarā ar jaunatklātiem apstākļiem atsaka pieņemt vai atstāj bez izskatīšanas, pamatojoties uz to, ka sūdzību, lūgumu vai pieteikumu iesniegusi persona, kurai tiesa noteikusi tādu rīcībspējas ierobežojumu, kas neļauj tai patstāvīgi īstenot administratīvi procesuālās tiesības un pienākumus;
+5) ja blakus sūdzību uzskata par neiesniegtu, atsakās ierosināt kasācijas tiesvedību vai izbeidz blakus sūdzības vai kasācijas tiesvedību, pamatojoties uz to, ka procesa dalībnieks ir iesniedzis blakus sūdzību vai kasācijas sūdzību par nolēmumu, kas saskaņā ar likumu nav pārsūdzams, jo ņēmis vērā tiesas (tiesneša) kļūdainu norādi par nolēmuma pārsūdzības kārtību;
+6) ja tiesvedība lietā izbeigta, pamatojoties uz šā likuma 282. panta 7. punktu.
+(2) Pusi no drošības naudas atmaksā, ja blakus sūdzību, kasācijas sūdzību, lūgumu par pagaidu aizsardzību vai pieteikumu sakarā ar jaunatklātiem apstākļiem atsauc, iekams nav pabeigta to izskatīšana pēc būtības.
+(3) Visu drošības naudu vai pārmaksāto daļu atmaksā uz personas iesnieguma pamata bez tiesas (tiesneša) nolēmuma normatīvajos aktos par drošības naudas iemaksāšanu un atmaksāšanu noteiktajā kārtībā, ja:
+1) samaksāta drošības nauda par tādām darbībām, par kurām tā nav jāmaksā;
+2) samaksāta lielāka drošības nauda, nekā nosaka likums.
