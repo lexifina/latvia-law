@@ -8,3 +8,9 @@
 (3) Par ekspertu komisijas locekļiem ievēlē kvalificētus attiecīgās nozares zinātniekus, kuri savā darbībā ievēro zinātniskās pētniecības ētikas kritērijus un diskusiju principus. Zinātnieks vienlaikus var būt tikai vienas ekspertu komisijas loceklis.
 (4) Ievēlētie ekspertu komisiju locekļi paraksta Latvijas Zinātņu akadēmijas izstrādāto Saistību un atbildības deklarāciju.
 (5) Ekspertu kvalifikācijas kritērijus nosaka un pārējos ar ekspertu komisiju izveidošanu un darbību saistītos jautājumus regulē Ministru kabinets. Latvijas Zinātnes padome ir atbildīga par noteiktās ekspertīzes kārtības ievērošanu.
+(6) Latvijas Zinātnes padomes apstiprinātos ekspertus reģistrē Latvijas Zinātnes padomes ekspertu datubāzē, kurā par ekspertu ietver šādas ziņas:
+1) vārdu, uzvārdu;
+2) personas kodu;
+3) zinātnisko grādu;
+4) zinātnes nozari;
+5) ekspertīzes jomu.
