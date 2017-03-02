@@ -1,0 +1,8 @@
+8.¹ pants. To komercsabiedrību īpašie darbības izbeigšanas nosacījumi, kuras saņem komercdarbības atbalstu
+(1) Ja komercsabiedrība, kura nonākusi finansiālās grūtībās un saskaņā ar komercdarbības atbalstu regulējošiem normatīvajiem aktiem saņem atbalstu, ne vēlāk kā sešus mēnešus pirms Eiropas Komisijas lēmumā vai nacionālajā normatīvajā aktā par atbalsta piešķiršanu noteiktā komercsabiedrības likvidācijas termiņa konstatē, ka komercdarbības atbalsts nav pilnībā atmaksāts un līdz atbalsta sniegšanas termiņa beigām netiks atmaksāts, komercsabiedrība izbeidz darbību un uzsāk komercsabiedrības likvidācijas procesu, ņemot vērā šā panta otrajā un trešajā daļā paredzētos nosacījumus.
+(2) Saskaņā ar šā panta pirmo daļu uzsāktā likvidācijas procesa ietvaros pakārtotās saistības tiek pildītas tikai tad, kad ir pilnībā atmaksāts saņemtais komercdarbības atbalsts. Līdz komercdarbības atbalsta atmaksāšanai:
+1) nespēja atmaksāt komercdarbības atbalstu un pakārtoto saistību neizpilde nav pamats maksātnespējas procesa ierosināšanai;
+2) pakārtoto saistību kreditora prasījums nevar tikt nodrošināts, kā arī pakārtoto saistību kreditors nav tiesīgs prasīt viņam pienākošos summu deponēšanu vai jebkādu citu saistību izpildi;
+3) ir aizliegts komercsabiedrības dalībniekiem (akcionāriem, biedriem, īpašniekiem) izmaksāt likvidācijas kvotas.
+(3) Uzņēmumu reģistrs izslēdz komercsabiedrību no publiskā reģistra arī tad, ja atbilstoši šajā pantā paredzētajiem nosacījumiem veiktas likvidācijas ietvaros nav atmaksāts komercdarbības atbalsts vai nav izpildītas pakārtotās saistības.
+(4) Ja daļa no komercdarbības atbalsta netiek atgūta, pēc komercsabiedrības likvidācijas šo daļu dzēš likumā par valsts budžetu kārtējam gadam noteiktajā apmērā.
