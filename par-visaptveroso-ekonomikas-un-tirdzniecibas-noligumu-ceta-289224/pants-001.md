@@ -1,0 +1,1 @@
+1. pants. 2016. gada 30. oktobrī parakstītais Visaptverošais ekonomikas un tirdzniecības nolīgums (CETA) starp Kanādu, no vienas puses, un Eiropas Savienību un tās dalībvalstīm, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
