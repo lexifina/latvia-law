@@ -1,0 +1,58 @@
+Valsts prezidenta vietā
+Saeimas priekšsēdētāja I.Mūrniece
+Rīgā 2017. gada 7. martā
+Stratēģiskās partnerības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kanādu, no otras puses
+PREAMBULA
+EIROPAS SAVIENĪBA, turpmāk "Savienība",
+un
+BEĻĢIJAS KARALISTE,
+BULGĀRIJAS REPUBLIKA,
+ČEHIJAS REPUBLIKA,
+DĀNIJAS KARALISTE,
+VĀCIJAS FEDERATĪVĀ REPUBLIKA,
+IGAUNIJAS REPUBLIKA,
+ĪRIJA,
+GRIEĶIJAS REPUBLIKA,
+SPĀNIJAS KARALISTE,
+FRANCIJAS REPUBLIKA,
+HORVĀTIJAS REPUBLIKA,
+ITĀLIJAS REPUBLIKA,
+KIPRAS REPUBLIKA,
+LATVIJAS REPUBLIKA,
+LIETUVAS REPUBLIKA,
+LUKSEMBURGAS LIELHERCOGISTE,
+UNGĀRIJA,
+MALTAS REPUBLIKA,
+NĪDERLANDES KARALISTE,
+AUSTRIJAS REPUBLIKA,
+POLIJAS REPUBLIKA,
+PORTUGĀLES REPUBLIKA,
+RUMĀNIJA,
+SLOVĒNIJAS REPUBLIKA,
+SLOVĀKIJAS REPUBLIKA,
+SOMIJAS REPUBLIKA,
+ZVIEDRIJAS KARALISTE,
+LIELBRITĀNIJAS UN ZIEMEĻĪRIJAS APVIENOTĀ KARALISTE,
+Līguma par Eiropas Savienību un Līguma par Eiropas Savienības darbību Līgumslēdzējas puses, turpmāk "dalībvalstis",
+no vienas puses, un
+KANĀDA,
+no otras puses,
+turpmāk kopā "Puses",
+iedvesmojoties no ilgās draudzības starp Eiropas un Kanādas iedzīvotājiem un to stiprajām vēsturiskajām, kultūras, politiskajām un ekonomikas saitēm,
+ņemot vērā panākumus, kas sasniegti kopš 1976. gada Pamatnolīguma par tirdzniecisko un ekonomisko sadarbību starp Eiropas Kopienām un Kanādu, 1990. gada Transatlantisko attiecību deklarācijas starp Eiropas Kopienu un tās dalībvalstīm un Kanādu, 1996. gada Kopīgās politiskās deklarācijas par ES un Kanādas attiecībām un kopīgā ES un Kanādas rīcības plāna, 2004. gada ES un Kanādas partnerattiecību darba plāna, un 2005. gada nolīguma starp Eiropas Savienību un Kanādu, lai izveidotu sistēmu Kanādas līdzdalībai Eiropas Savienības krīzes pārvarēšanas operācijās,
+atkārtoti apliecinot savu stingro apņemšanos ievērot demokrātijas principus un cilvēktiesības, kā noteikts Vispārējā cilvēktiesību deklarācijā,
+piekrītot, ka masu iznīcināšanas ieroču izplatīšana rada nopietnus draudus starptautiskajai drošībai,
+pamatojoties uz ilggadējām sadarbības tradīcijām starptautiskā miera un drošības principu un tiesiskuma veicināšanā,
+atkārtoti apliecinot savu apņemšanos apkarot terorismu un organizēto noziedzību ar divpusēju un daudzpusēju kanālu starpniecību,
+kopīgi apņemoties samazināt nabadzību, veicināt iekļaujošu ekonomikas izaugsmi un atbalstīt jaunattīstības valstis to centienos virzībā uz politiskajām un ekonomiskajām reformām,
+atzīstot vēlēšanos sekmēt ilgtspējīgu attīstību ekonomikas, sociālajā un vides jomā,
+paužot lepnumu par savu iedzīvotāju daudzpusīgajiem savstarpējiem kontaktiem un apņemšanos aizsargāt un veicināt kultūras izpausmju daudzveidību,
+atzīstot, cik liela nozīme var būt efektīvām daudzpusējām organizācijām, lai veicinātu sadarbību un panāktu pozitīvus rezultātus attiecībā uz globāliem jautājumiem un problēmām,
+ņemot vērā to dinamiskās attiecības tirdzniecības un ieguldījumu jomā, ko vēl vairāk nostiprinās visaptverošā ekonomikas un tirdzniecības nolīguma efektīva īstenošana,
+atgādinot, ka šā nolīguma noteikumi, kas ietilpst Līguma par Eiropas Savienības darbību Trešās daļas V sadaļas darbības jomā, ir saistoši Apvienotajai Karalistei un Īrijai kā atsevišķām Līgumslēdzējām pusēm, nevis kā Eiropas Savienības daļām, ja vien Eiropas Savienība kopā ar Apvienoto Karalisti un/vai Īriju nav kopīgi paziņojušas Kanādai, ka Apvienotajai Karalistei vai Īrijai noteikumi ir saistoši kā Eiropas Savienības daļai saskaņā ar Līgumam par Eiropas Savienību un Līgumam par Eiropas Savienības darbību pievienoto Protokolu Nr. 21 par Apvienotās Karalistes un Īrijas nostāju saistībā ar brīvības, drošības un tiesiskuma telpu. Ja Apvienotajai Karalistei un/vai Īrijai noteikumi vairs nav saistoši kā Eiropas Savienības daļām saskaņā ar protokola Nr.21 4.a pantu, Eiropas Savienība kopā ar Apvienoto Karalisti un/vai Īriju nekavējoties informē Kanādu par jebkādām izmaiņām to nostājā, un šādā gadījumā tām nolīguma noteikumi joprojām ir saistoši katrai atsevišķi. Tas pats attiecas uz Dāniju saskaņā ar minētajiem Līgumiem pievienoto Protokolu par Dānijas nostāju,
+atzīstot institucionālās pārmaiņas Eiropas Savienībā, kopš stājies spēkā Lisabonas līgums,
+apstiprinot savu statusu kā stratēģiskajām partnerēm un apņemšanos turpināt stiprināt un jaunā līmenī pacelt savas attiecības un starptautisko sadarbību, pamatojoties uz savstarpēju cieņu un dialogu, lai veicinātu kopīgās intereses un vērtības,
+pārliecinātas, ka šāda sadarbība būtu jāizstrādā pakāpeniski un pragmatiski, atbilstīgi to politikas attīstībai,
+IR VIENOJUŠĀS PAR TURPMĀKO.
+I SADAĻA
+SADARBĪBAS PAMATS

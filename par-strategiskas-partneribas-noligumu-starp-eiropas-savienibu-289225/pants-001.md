@@ -1,0 +1,1 @@
+1. pants. 2016. gada 30. oktobrī Briselē parakstītais Stratēģiskās partnerības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kanādu, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.

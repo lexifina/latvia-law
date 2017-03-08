@@ -1,0 +1,3 @@
+13. pants
+Dialogs par citām savstarpējo interešu jomām
+Atzīstot to kopīgo apņemšanos padziļināt un paplašināt ilgtermiņa iesaisti, kā arī atzinīgi vērtējot esošo sadarbību, Puses cenšas attiecīgos divpusējos un daudzpusējos forumos veicināt dialogu ar ekspertiem, kā arī paraugprakses apmaiņu tādās politikas jomās, kas interesē abas Puses. Attiecīgās jomas ir šādas (bet ne tikai): lauksaimniecība, zivsaimniecība, starptautiskā okeāna un jūrlietu politika, lauku attīstība, starptautiskie pārvadājumu, nodarbinātības, kā arī polārā loka jautājumi, tostarp zinātnes un tehnoloģiju jautājumi. Attiecīgā gadījumā šīs jomas var ietvert arī informācijas apmaiņu par likumdošanas, normatīvo un administratīvo praksi, kā arī par lēmumu pieņemšanas procesu.

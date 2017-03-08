@@ -1,0 +1,4 @@
+21. pants
+Nelikumīgi iegūtu līdzekļu legalizēšana un terorisma finansēšana
+1. Puses atzīst vajadzību sadarboties, lai novērstu, ka to finanšu sistēmas tiek izmantotas tādu līdzekļu legalizēšanai, kas iegūti jebkādās noziedzīgās darbībās, tostarp narkotiku kontrabandā un korupcijā, kā arī lai cīnītos pret terorisma finansēšanu. Šī sadarbība ietver no noziedzīgas darbības iegūtu aktīvu vai līdzekļu konfiscēšanu saskaņā ar Pušu attiecīgo tiesisko regulējumu un tiesību aktiem.
+2. Puses apmainās ar attiecīgo informāciju saskaņā ar to attiecīgo tiesisko regulējumu un tiesību aktiem un īsteno atbilstīgus pasākumus, lai cīnītos pret nelikumīgi iegūtu līdzekļu legalizēšanu un terorisma finansēšanu, pamatojoties uz Finanšu darījumu darba grupas sniegtajiem ieteikumiem un standartiem, ko pieņēmušas citas attiecīgas starptautiskas organizācijas, kuras darbojas šajā jomā.

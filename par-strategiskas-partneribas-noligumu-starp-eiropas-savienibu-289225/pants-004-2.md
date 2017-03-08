@@ -1,0 +1,5 @@
+4. pants
+Kājnieku ieroči un vieglie ieroči
+1. Puses atzīst, ka kājnieku ieroču un vieglo ieroču (VIKI), kā arī to munīcijas nelikumīga ražošana, pārvadāšana un aprite, kā arī šo ieroču un munīcijas pārmērīga uzkrāšana, slikta pārvaldība, neatbilstīgi nodrošinātas noliktavas un nekontrolēta izplatīšana joprojām nopietni apdraud mieru un starptautisko drošību.
+2. Puses vienojas īstenot to attiecīgās saistības, lai cīnītos pret VIKI un to munīcijas nelikumīgu tirdzniecību piemērojamajos starptautiskajos instrumentos paredzētā kārtībā, ietverot ANO Rīcības programmu, lai novērstu, apkarotu un izskaustu nelegālu tirdzniecību ar VIKI visos tās aspektos, kā arī saistības, kas izriet no ANO Drošības padomes rezolūcijām.
+3. Puses cenšas veikt pasākumus, lai apkarotu VIKI nelikumīgu tirdzniecību, kā arī nodrošinātu savu kopīgo centienu koordināciju, papildināmību un sinerģiju, lai attiecīgā gadījumā palīdzētu citām valstīm pasaules, reģiona un valsts mērogā apkarot VIKI un munīcijas nelikumīgu tirdzniecību.

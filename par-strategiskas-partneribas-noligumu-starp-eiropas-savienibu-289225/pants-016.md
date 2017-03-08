@@ -1,0 +1,6 @@
+16. pants
+Kultūras izpausmju daudzveidības, izglītības, kā arī jauniešu un cilvēku savstarpējo kontaktu veicināšana
+1. Puses lepojas ar senajām kultūras, valodas un tradīciju saiknēm, kuras starp tām veido saprašanās tiltus. Transatlantiskās saites pastāv visos valdības un sabiedrības līmeņos, un šīm attiecībām ir būtiska ietekme Kanādas un Eiropas sabiedrībā. Puses cenšas veicināt šīs saites un meklēt jaunus veidus, kā stiprināt attiecības, veicinot cilvēku savstarpējos kontaktus. Puses cenšas izmantot nevalstisko organizāciju un ideju laboratoriju piedāvātās apmaiņas, kas apvieno jauniešus un citus ekonomikas un sociālos partnerus, lai paplašinātu un padziļinātu šīs attiecības, kā arī sniegtu jaunas idejas attiecībā uz kopēju problēmu risināšanu.
+2. Atzīstot daudzveidīgās akadēmiskās, izglītības, sporta, kultūras, tūrisma un jauniešu mobilitātes attiecības, kas izveidojušās starp tām gadu gaitā, Puses atbalsta un veicina nepārtrauktu sadarbību, lai pēc vajadzības paplašinātu šīs saiknes.
+3. Puses cenšas veicināt kultūras izpausmju daudzveidību, tostarp attiecīgā gadījumā popularizējot principus un mērķus, kas noteikti UNESCO 2005. gada Konvencijā par kultūras izpausmju daudzveidības aizsardzību un veicināšanu.
+4. Puses cenšas attiecīgi veicināt un atvieglot to kultūras iestāžu un šīs jomas profesionāļu apmaiņu, sadarbību un dialogu.
