@@ -3,4 +3,4 @@
 1) persona maina vārdu, uzvārdu, personas kodu, valstisko piederību, tautības ierakstu vai dzimumu;
 2) kāds no personas vecākiem maina vārdu, uzvārdu, personas kodu, valstisko piederību, tautības ierakstu vai dzimumu;
 3) apstiprināta adopcija, atcelta adopcija, anulēts ieraksts par personas tēvu vai māti, atradenim kļuvuši zināmi vecāki, vecākiem atņemtas aizgādības tiesības vai svītrots ieraksts par tēvu, ja tas izdarīts LPSR Laulības un ģimenes kodeksa 58.pantā paredzētajā kārtībā.
-(2) Dzimšanas reģistru papildina, pamatojoties uz tiesas spriedumu, bāriņtiesas lēmumu, administratīvo aktu, medicīnas apliecību vai citu dokumentu, kas apliecina dzimuma maiņu, vai personas iesniegumu.
+(2) Dzimšanas reģistru papildina, pamatojoties uz tiesas spriedumu, administratīvo aktu, medicīnas apliecību vai citu dokumentu, kas apliecina dzimuma maiņu, vai personas iesniegumu.

@@ -2,4 +2,4 @@
 (1) Pienākums paziņot par miršanas faktu ir laulātajam, citam ģimenes loceklim vai citai personai, kurai kļuvis zināms par personas miršanas faktu.
 (2) Ja persona mirusi ārstniecības iestādē, sociālās aprūpes vai rehabilitācijas iestādē, pansionātā vai ieslodzījuma vietā un par miršanas faktu nav paziņojušas šā panta pirmajā daļā minētās personas, attiecīgās ārstniecības iestādes, sociālās aprūpes vai rehabilitācijas iestādes, pansionāta vai ieslodzījuma vietas vadītājam vai viņa pilnvarotai personai ir pienākums rakstveidā paziņot par miršanas faktu.
 (3) Ja par miršanas faktu nav paziņojušas šā panta pirmajā un otrajā daļā minētās personas un par personas nāvi kļuvis zināms pašvaldībai, tai ir pienākums rakstveidā paziņot par miršanas faktu.
-(4) Ja sakarā ar personas nāvi notiek izmeklēšana, izmeklēšanas vai izziņas iestādes pienākums ir rakstveidā paziņot par miršanas faktu.
+(4) Ja sakarā ar personas nāvi notiek izmeklēšana, izmeklēšanas iestādes pienākums ir rakstveidā paziņot par miršanas faktu.
