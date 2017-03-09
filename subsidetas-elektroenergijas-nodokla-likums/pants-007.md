@@ -1,7 +1,7 @@
 7.pants. Nodokļa aprēķināšanas kārtība
 (1) Nodokļa taksācijas periods ir viens kalendāra mēnesis.
 (2) Nodokļa maksātājs aprēķina nodokli, reizinot taksācijas periodā izmaksājamā apliekamā ienākuma summu ar attiecīgajam apliekamajam ienākumam piemērojamo nodokļa likmi.
-(3) Nodokļa maksātājs publiskajam tirgotājam izrakstītajā rēķinā par apliekamajiem ienākumiem norāda:
+(3) Par taksācijas periodā elektroenerģijas sistēmā nodoto un publiskajam tirgotājam pārdoto elektroenerģiju un garantēto maksu par koģenerācijas stacijā vai elektrostacijā uzstādīto elektrisko jaudu nodokļa maksātājs izraksta un iesniedz rēķinu publiskajam tirgotājam ne vēlāk kā līdz nākamā taksācijas perioda piecpadsmitajam datumam. Ja rēķina izrakstīšanas un iesniegšanas termiņa pēdējā diena ir brīvdiena vai svētku diena, rēķinu var iesniegt nākamajā darbdienā. Nodokļa maksātājs publiskajam tirgotājam izrakstītajā rēķinā par apliekamajiem ienākumiem norāda:
 1) elektrostacijai reģistrā piešķirto numuru;
 2) apliekamā ienākuma summu;
 3) attiecīgajam apliekamajam ienākumam piemērojamo nodokļa likmi;
