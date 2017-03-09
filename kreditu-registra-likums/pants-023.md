@@ -1,4 +1,4 @@
-23.pants. Reģistra dalībniekam, ierobežotam reģistra dalībniekam un bijušajam reģistra dalībniekam ir pienākums viena mēneša laikā izskatīt klienta vai klienta galvinieka iesniegumu un sniegt atbildi uz to saistībā ar šā reģistra dalībnieka vai ierobežota reģistra dalībnieka:
+23.pants. Reģistra dalībniekam, ierobežotam reģistra dalībniekam un bijušajam reģistra dalībniekam ir pienākums viena mēneša laikā izskatīt klienta, klienta galvinieka, iespējamā klienta, iespējamā klienta galvinieka, iespējamā akreditīva (kredītvēstules) pakalpojuma saņēmēja vai iespējamā galvojuma (garantijas) pakalpojuma saņēmēja iesniegumu un sniegt atbildi uz to saistībā ar šā reģistra dalībnieka vai ierobežota reģistra dalībnieka:
 1) reģistrā iekļauto ziņu atbilstību attiecīgā klienta līgumam vai attiecīgā klienta galvinieka līgumam;
 2) izdarīto ziņu iekļaušanu reģistrā tā darbību regulējošos normatīvajos aktos noteiktajā kārtībā;
-3) reģistrā iekļauto ziņu pieprasījumu, kas attiecas uz attiecīgo klientu vai klienta galvinieku.
+3) reģistrā iekļauto ziņu pieprasījumu, kas attiecas uz attiecīgo klientu, klienta galvinieku, iespējamo klientu, iespējamo klienta galvinieku, iespējamo akreditīva (kredītvēstules) pakalpojuma saņēmēju vai iespējamo galvojuma (garantijas) pakalpojuma saņēmēju.
