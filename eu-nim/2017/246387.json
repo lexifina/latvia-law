@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 144\n\n2017. gada 14. martā \n\nGrozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/56.10",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-16",
+  "entry_into_force": "2017-03-17",
+  "notification_date": "2017-03-24",
+  "commission_reference": "MNE(2017)51806",
+  "nim_celex": "72016L1029LVA_246387",
+  "nim_id": "246387",
+  "transposes_celex": [
+    "32016L1029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d1aa51d-0401-4a10-8754-0f4f6d28d1b9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
