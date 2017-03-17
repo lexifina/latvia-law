@@ -2,7 +2,7 @@
 (2) Ja Finanšu un kapitāla tirgus komisija ir atzinusi ārvalsts noregulējuma procedūras, šā panta piemērošanas nolūkā tās uzskatāmas par krīzes vadības pasākumu.
 (3) Krīzes novēršanas pasākums un krīzes vadības pasākums, kā arī jebkurš notikums, kas ir tieši saistīts ar šāda pasākuma piemērošanu, nav pamats, lai:
 1) īstenotu jebkādas līguma izbeigšanas, apturēšanas, grozīšanas, savstarpēja ieskaita vai savstarpējas dzēšanas tiesības, tai skaitā attiecībā uz līgumiem, kurus noslēgusi meitas iestāde vai finanšu sabiedrība un kuru izpildi garantē vai kuru izpildē finansiāli piedalās grupas sabiedrība;
-2) iegūtu īpašumā, pārņemtu kontrolē iesaistītās iestādes vai finanšu sabiedrības īpašumu vai prasītu tam nodrošinājumu;
+2) iegūtu īpašumā, pārņemtu kontrolē iesaistītās iestādes vai finanšu sabiedrības, vai tās grupas sabiedrības īpašumu vai prasītu tam nodrošinājumu;
 3) ietekmētu no iestādes vai finanšu sabiedrības noslēgtajiem līgumiem izrietošās tiesības, ja joprojām tiek pildītas no līgumiem izrietošās būtiskās saistības, tai skaitā maksājumu veikšanas un maksājumu izpildes saistības, kā arī tiek sniegts nodrošinājums.
-(4) Šā panta trešās daļas 2.punktā minētās darbības var veikt, ja to veikšanas pamatojums rodas sakarā ar notikumu, kurš nav krīzes novēršanas pasākums, krīzes vadības pasākums vai jebkurš notikums, kas ir tieši saistīts ar šādu pasākumu piemērošanu.
+(4) Šā panta trešajā daļā minētās darbības var veikt, ja to veikšanas pamatojums rodas sakarā ar notikumu, kurš nav krīzes novēršanas pasākums, krīzes vadības pasākums vai jebkurš notikums, kas ir tieši saistīts ar šādu pasākumu piemērošanu.
 (5) Saistību izpildes apturēšana vai ierobežošana nav uzskatāma par līgumsaistību neizpildi šā panta piemērošanas nolūkā.

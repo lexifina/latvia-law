@@ -1,11 +1,11 @@
-68.pants. (1) Piemērojot šā likuma 53.panta pirmajā daļā minēto iekšējās rekapitalizācijas instrumentu vai šā likuma 76.pantā minēto kapitāla instrumentu norakstīšanu vai konvertēšanu, Finanšu un kapitāla tirgus komisija attiecībā uz akcionāriem un tām personām, kurām pieder citi īpašumtiesību instrumenti, veic vismaz vienu no šādām darbībām:
+68.pants. (1) Piemērojot šā likuma 53.panta pirmajā daļā minēto iekšējās rekapitalizācijas instrumentu vai šā likuma 77. pantā minēto kapitāla instrumentu norakstīšanu vai konvertēšanu, Finanšu un kapitāla tirgus komisija attiecībā uz akcionāriem un tām personām, kurām pieder citi īpašumtiesību instrumenti, veic vismaz vienu no šādām darbībām:
 1) anulē šīm personām piederošās akcijas vai citus īpašumtiesību instrumentus vai arī nodod tos kreditoriem, kuriem piemēros iekšējās rekapitalizācijas instrumentu;
 2) ja atbilstoši vērtējumam, kas veikts saskaņā ar šā likuma 45., 46. un 47.pantu, noregulējamai iestādei ir pozitīva neto aktīvu vērtība, maina esošo akcionāru un to personu, kurām pieder citi īpašumtiesību instrumenti, sastāvu, konvertējot akcijās vai citos īpašumtiesību instrumentos:
-a) attiecīgos kapitāla instrumentus, kurus iestāde ir emitējusi vai piesaistījusi saskaņā ar šā likuma 77.panta otrajā daļā minētajām tiesībām,
-b) atbilstīgās saistības, kuras noregulējamā iestāde piesaistījusi saskaņā ar šā likuma 85.panta pirmās daļas 6.punktā minētajām tiesībām.
+a) saskaņā ar šā likuma 77. panta otrajā daļā minētajām tiesībām attiecīgos kapitāla instrumentus, kurus iestāde ir emitējusi vai piesaistījusi,
+b) saskaņā ar šā likuma 85. panta pirmās daļas 6. punktā minētajām tiesībām atbilstīgās saistības, kuras noregulējamā iestāde ir emitējusi vai piesaistījusi.
 (2) Šā panta pirmās daļas 2.punktā minēto konvertēšanu veic, izmantojot konvertācijas koeficientu, kuru piemērojot būtiski mainās esošā akciju kapitāla un citu īpašumtiesību instrumentu turētāju īpašumtiesību domājamā daļa.
 (3) Šā panta pirmajā un otrajā daļā minētās darbības veic arī attiecībā uz akcionāriem un tām personām, kurām pieder citi īpašumtiesību instrumenti un kuru akcijas vai citi īpašumtiesību instrumenti ir emitēti vai iegūti šādos apstākļos:
-1) pēc parāda instrumentu konvertēšanas akcijās vai citos īpašumtiesību instrumentos saskaņā ar sākotnējo parāda instrumentu līguma noteikumiem, konvertācijai iestājoties vienlaikus ar Finanšu un kapitāla tirgus komisijas novērtējumu vai pirms šāda novērtējuma par to, ka finanšu sabiedrība atbilst noregulējuma nosacījumiem;
+1) pēc parāda instrumentu konvertēšanas akcijās vai citos īpašumtiesību instrumentos saskaņā ar sākotnējo parāda instrumentu līguma noteikumiem, konvertācijai iestājoties vienlaikus ar Finanšu un kapitāla tirgus komisijas novērtējumu vai pirms šāda novērtējuma par to, ka iestāde vai finanšu sabiedrība atbilst noregulējuma nosacījumiem;
 2) pēc attiecīgo kapitāla instrumentu konvertēšanas pirmā līmeņa pamata kapitāla instrumentos saskaņā ar šā likuma 78.pantu.
 (4) Apsverot, kuru no šā panta pirmajā daļā minētajām darbībām veikt, Finanšu un kapitāla tirgus komisija ņem vērā:
 1) vērtējumu, kas veikts saskaņā ar šā likuma 45., 46. un 47.pantu;

@@ -3,7 +3,7 @@
 (3) Iestādes pārskata savu darbības atjaunošanas plānu vismaz reizi gadā vai pēc tādām izmaiņām attiecīgās iestādes juridiskajā formā vai organizatoriskajā struktūrā, komercdarbības vai finanšu stāvoklī, kuras varētu būtiski ietekmēt darbības atjaunošanas plānu vai rada nepieciešamību izdarīt grozījumus darbības atjaunošanas plānā.
 (4) Darbības atjaunošanas plānu izstrādā, tajā neparedzot valsts atbalsta saņemšanu.
 (5) Darbības atjaunošanas plānā pēc Finanšu un kapitāla tirgus komisijas pieprasījuma iekļauj analīzi par to, kā un kad iestāde plānā aprakstītajos apstākļos var pieteikties centrālās bankas palīdzības izmantošanai, un identificē tos aktīvus, kuri tiks kvalificēti kā nodrošinājums.
-(6) Finanšu un kapitāla tirgus komisija nosaka darbības atjaunošanas plānā iekļaujamās informācijas saturu un šā plāna iesniegšanas kārtību.
+(6) Papildus Eiropas Savienības tieši piemērojamos tiesību aktos noteiktajām prasībām Finanšu un kapitāla tirgus komisija nosaka darbības atjaunošanas plānā iekļaujamās informācijas saturu un šā plāna iesniegšanas kārtību.
 (7) Iestāde darbības atjaunošanas plānā iekļauj informāciju par iestādes finanšu stāvokļa rādītājiem, kuriem iestājoties veic plānā minētās atbilstošās atjaunošanas darbības. Iestāde nodrošina minēto rādītāju regulāru uzraudzību un kontroli.
-(8) Iestādei ir pienākums rīkoties atbilstoši tās darbības atjaunošanas plānam, ja attiecīgie finanšu stāvokļa rādītāji vēl nav izpildīti.
+(8) (Izslēgta ar 16.02.2017. likumu)
 (9) Lēmumu veikt darbības atjaunošanas plānā minēto pasākumu iestāde nekavējoties paziņo Finanšu un kapitāla tirgus komisijai.

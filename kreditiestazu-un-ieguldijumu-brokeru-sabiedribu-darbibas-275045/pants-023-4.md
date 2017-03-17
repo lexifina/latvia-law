@@ -1,0 +1,1 @@
+23.⁴ pants. Finanšu un kapitāla tirgus komisija Regulas Nr. 806/2014 13. panta 1. un 4. punktā noteiktajā kārtībā nekavējoties informē vienoto noregulējuma valdi par katru Finanšu un kapitāla tirgus komisijas pieņemto lēmumu attiecībā uz agrīnās intervences pasākumu īstenošanu, kā arī par situāciju, kad iestādei konstatētas finanšu grūtības vai ir paredzams, ka tās iestāsies.

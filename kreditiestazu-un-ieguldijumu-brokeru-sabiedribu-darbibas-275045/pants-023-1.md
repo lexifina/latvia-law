@@ -1,0 +1,1 @@
+23.¹ pants. Vienotā noregulējuma valde izstrādā noregulējuma plānu un pieņem lēmumu par noregulējuma darbību piemērošanu vienotā noregulējuma ietvaros attiecībā uz Regulas Nr. 806/2014 7. panta 2. un 5. punktā minētajiem subjektiem, ja Ministru kabinets ir nodevis noregulējuma plāna izstrādi un lēmuma par noregulējuma darbību piemērošanu pieņemšanu vienotajai noregulējuma valdei.

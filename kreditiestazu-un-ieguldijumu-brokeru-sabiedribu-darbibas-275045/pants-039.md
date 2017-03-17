@@ -9,7 +9,7 @@
 3) iestāde vai finanšu sabiedrība nespēj segt savas saistības noteiktā termiņā vai pastāv objektīvi fakti, uz kuru pamata var konstatēt, ka iestāde vai finanšu sabiedrība tuvākajā laikā nespēs segt savas saistības noteiktā termiņā;
 4) iestādei vai finanšu sabiedrībai ir nepieciešams valsts atbalsts, izņemot gadījumu, kad tas tiek sniegts kā:
 a) valsts garantija likviditātes mehānismiem, ko nodrošina Latvijas Banka saskaņā ar saviem nosacījumiem,
-b) valsts garantija no jauna izveidotajām atbilstīgajām saistībām,
+b) valsts garantija no jauna izveidotajām saistībām,
 c) pašu kapitāla palielināšana un kapitāla instrumentu pirkšana par cenām, kas iestādei vai finanšu sabiedrībai nepiešķir priekšrocības, ar nosacījumu, ka valsts atbalsta piešķiršanas brīdī iestāde vai finanšu sabiedrība nav vai, iespējams, nebūs uzskatāma par nonākušu finanšu grūtībās un nav iestājušies šā panta trešās daļas 1., 2. un 3.punktā un šā likuma 77.panta trešajā daļā minētie nosacījumi.
-(4) Šā panta trešās daļas 4.punktā minēto valsts atbalstu piešķir tikai iestādēm, kuras nav nonākušas finanšu grūtībās, un tikai pēc tam, kad saņemts Eiropas Komisijas lēmums par valsts atbalsta saderīgumu ar Eiropas Savienības iekšējo tirgu.
-(5) Konstatējusi, ka iestāde vai finanšu sabiedrība atbilst šā panta nosacījumiem, Finanšu un kapitāla tirgus komisija pieņem lēmumu par turpmāko rīcību, arī par piemērojamām noregulējuma darbībām vai maksātnespējas procesa sākšanu.
+(4) Šā panta trešās daļas 4.punktā minēto valsts atbalstu piešķir tikai iestādēm, attiecībā uz kurām nav ierosināta maksātnespējas procesa lieta, un tikai pēc tam, kad saņemts Eiropas Komisijas lēmums par valsts atbalsta saderīgumu ar Eiropas Savienības iekšējo tirgu.
+(5) Konstatējusi, ka iestāde vai finanšu sabiedrība atbilst šā panta trešās daļas nosacījumiem, Finanšu un kapitāla tirgus komisija izvērtē iestādes vai finanšu sabiedrības atbilstību šā panta pirmās daļas nosacījumiem un pieņem lēmumu par piemērojamo noregulējuma darbību vai lēmumu uzsākt iestādes vai finanšu sabiedrības maksātnespējas procesu, šo lēmumu attiecīgi pamatojot.

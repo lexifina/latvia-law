@@ -4,6 +4,6 @@
 3) šajā likumā paredzētās noregulējamības izvērtēšanas detalizācijas pakāpei.
 (2) Īstenojot šā panta pirmajā daļā minētās tiesības, Finanšu un kapitāla tirgus komisija, ja nepieciešams, konsultējas ar Latvijas Banku.
 (3) Iestādes, kuras ir pakļautas tiešai Eiropas Centrālās bankas uzraudzībai saskaņā ar Padomes 2013.gada 15.oktobra regulas (ES) Nr. 1024/2013, ar ko Eiropas Centrālajai bankai uztic īpašus uzdevumus saistībā ar politikas nostādnēm, kas attiecas uz kredītiestāžu prudenciālo uzraudzību 6.panta 4.punktu vai kuras veido būtisku finanšu sistēmas daļu, izstrādā savus darbības atjaunošanas plānus, un tām piemēro individuālus noregulējuma plānus.
-(4) Iestādi uzskata par nozīmīgu finanšu sistēmā, ja tiek izpildīts kāds no šādiem nosacījumiem:
+(4) Iestāde veido būtisku finanšu sistēmas daļu, ja tiek izpildīts kāds no šādiem nosacījumiem:
 1) iestādes aktīvu kopējā vērtība pārsniedz 30 000 000 000 euro;
 2) iestādes aktīvu kopējās vērtības attiecība pret valsts iekšējo kopproduktu pārsniedz 20 procentus, ja vien tās aktīvu kopējā vērtība nav mazāka par 5 000 000 000 euro.

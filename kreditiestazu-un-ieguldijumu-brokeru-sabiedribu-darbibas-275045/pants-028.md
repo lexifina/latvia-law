@@ -1,7 +1,7 @@
 28.pants. Finansiālo atbalstu saskaņā ar nolīgumu par grupas iekšējo finansiālo atbalstu grupas sabiedrība ir tiesīga sniegt tikai tad, ja ir izpildīti visi turpmāk minētie nosacījumi:
 1) sniegtais atbalsts būtiski novērsīs finansiālās grūtības grupas sabiedrībai, kas saņems šo atbalstu;
 2) finansiālā atbalsta sniegšanas mērķis ir saglabāt vai atjaunot visas grupas vai jebkuras grupas sabiedrības finanšu stabilitāti, un atbalsta sniegšana ir atbalstu sniedzošās grupas sabiedrības interesēs;
-3) finansiālais atbalsts piešķirts par atlīdzību;
+3) finansiālais atbalsts piešķirts saskaņā ar nolīgumu, kurā ņem vērā šā likuma 24. panta septītajā daļā noteiktos atlīdzības aprēķina principus;
 4) pamatojoties uz finansiālo atbalstu sniedzošās grupas sabiedrības valdei vai padomei pieejamo informāciju brīdī, kad tiek pieņemts lēmums par finansiālā atbalsta sniegšanu, grupas sabiedrība, kas saņem atbalstu, samaksās atlīdzību par atbalstu un, ja atbalsts tiek sniegts aizdevuma veidā, atmaksās aizdevumu. Ja atbalsts tiek sniegts garantijas vai jebkāda nodrošinājuma veidā, šo pašu nosacījumu piemēro saistībām, kuras uzņemas saņēmējs, ja garantija vai nodrošinājums tiek izmantots;
 5) finansiālā atbalsta sniegšana neapdraud šo atbalstu sniedzošās grupas sabiedrību, tās likviditāti vai maksātspēju;
 6) finansiālā atbalsta sniegšana neapdraud finanšu stabilitāti Latvijas Republikā vai citā dalībvalstī;

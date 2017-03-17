@@ -4,7 +4,7 @@
 3) savstarpējā ieskaita līgumiem, saskaņā ar kuriem divus vai vairākus prasījumus vai saistības starp noregulējamo iestādi un līgumslēdzēju pusi (darījuma partneri) var savstarpēji dzēst;
 4) savstarpējā ieskaita līgumiem, saskaņā ar kuriem vairākus prasījumus var pārveidot par vienu neto prasījumu, ja, iestājoties līguma izpildes notikumam, tiek pieprasīta saistību tūlītēja izpilde un katrā no gadījumiem prasījumi tiek konvertēti vienā neto prasījumā vai aizstāti ar to;
 5) segtajām obligācijām;
-6) finanšu instrumentu līgumiem, kurus izmanto riska ierobežošanas nolūkā, kuri veido nodrošinājuma portfeļa neatņemamu daļu un kuri saskaņā ar normatīvajiem aktiem attiecībā uz finanšu instrumentiem tiek nodrošināti līdzīgā veidā kā segtās obligācijas. Šie līgumi ietver to, ka nodrošinājumu piešķir un uztur līgumslēdzēja puse (darījuma partneris) vai pilnvarotais pārstāvis.
+6) strukturēto finansējumu līgumiem, kurus izmanto riska ierobežošanas nolūkā, kuri veido nodrošinājuma portfeļa neatņemamu daļu un kuri saskaņā ar normatīvajiem aktiem attiecībā uz finanšu instrumentiem tiek nodrošināti līdzīgā veidā kā segtās obligācijas. Šie līgumi ietver to, ka nodrošinājumu piešķir un uztur līgumslēdzēja puse (darījuma partneris) vai pilnvarotais pārstāvis.
 (2) Šā panta pirmajā daļā noteikto aizsardzību piemēro neatkarīgi no iesaistīto līgumslēdzēju pušu skaita un no tā, vai:
-1) vienošanās noslēgta līguma, trasta vai citā tiesiskajā formā un normatīvie akti paredz šādu vienošanās iespēju;
+1) vienošanās noslēgta līguma, trasta vai citā tiesiskajā formā, ja normatīvie akti paredz šādu vienošanās iespēju;
 2) vienošanos pilnībā vai daļēji regulē citu dalībvalstu tiesību akti un citu dalībvalstu tiesību akti ļauj noslēgt šādu vienošanos.

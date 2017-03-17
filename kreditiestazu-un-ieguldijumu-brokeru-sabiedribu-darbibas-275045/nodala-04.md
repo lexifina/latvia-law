@@ -1,2 +1,2 @@
 IV nodaļa
-Noregulējuma iestāžu savstarpējā sadarbība
+Iestādes noregulējamības novērtējums

@@ -1,8 +1,8 @@
-105.pants. (1) Par ierobežotas pieejamības informāciju uzskatāma tāda ar darbības atjaunošanas plāniem, noregulējuma plāniem, novērtēšanas rezultātiem, noregulējumu, noregulējuma darbībām, tai skaitā noregulējuma procedūru un noregulējuma instrumentu piemērošanu saistīta informācija, kuru sniegusi:
+105.pants. (1) Par ierobežotas pieejamības informāciju uzskatāma tāda ar darbības atjaunošanas plāniem, noregulējuma plāniem, novērtēšanas rezultātiem, noregulējumu, noregulējuma darbībām, tai skaitā noregulējuma procedūru un noregulējuma instrumentu piemērošanu saistīta informācija, kuru sniedz vai saņem:
 1) Finanšu un kapitāla tirgus komisija;
 2) Finanšu ministrija;
 3) pilnvarotie pārstāvji vai pilnvarnieki, kas iecelti saskaņā ar likumu;
-4) noregulējamās iestādes aktīvu, saistību, tiesību, akciju vai citu īpašumtiesību instrumentu saņēmēji;
+4) noregulējamās iestādes aktīvu, saistību, tiesību, akciju vai citu īpašumtiesību instrumentu saņēmēji vai potenciālie saņēmēji;
 5) zvērināti revidenti, padomnieki, vērtētāji un citas personas, kuras tieši vai pastarpināti sadarbojušās ar Finanšu un kapitāla tirgus komisiju;
 6) Latvijas Banka;
 7) citas tiešās vai pastarpinātās pārvaldes iestādes, kas iesaistītas noregulējuma procesā;

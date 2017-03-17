@@ -1,0 +1,1 @@
+2. Noregulējuma darbības attiecībā uz Regulas Nr. 806/2014 7. panta 5. punktā minētajiem subjektiem, kuras noregulējuma iestāde ir uzsākusi līdz šā likuma IV¹ nodaļas spēkā stāšanās dienai, īsteno atbilstoši tām tiesību normām, kas bija spēkā lēmuma par noregulējuma darbību pieņemšanas dienā.
