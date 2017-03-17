@@ -24,6 +24,7 @@ PEPAP
 0,1 g
 1 g
 4)AH-792155154-30-83,4-dihlor-N-[[1-(dimetilamino)cikloheksil]metil]benzamīds0,1 g1 g
+5)U-4770082657-23-63,4-dihlor-N-[(1R,2R)-2-(dimetilamino)cikloheksil]-N-metilbenzamīds0,1 g1 g
 5. Morfināna atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
@@ -243,17 +244,7 @@ CAS Nr.
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-LSD
-a)
-(+)- lizergīds LSD, LSD-25
-50-37-3
-(6aR,9R)-N,N-dietil-7-metil-4,6,6a,7,8,9-heksahidroindolo-[4,3-fg]hinolīn-9-karboksamīds
-0,001 g
-0,002 g
-b)
-ar LSD piesūcināts papīrs (marka)
-3 gab.
-10 gab.
+(Izslēgts ar 09.02.2017. likumu, kas stājas spēkā 17.03.2017.)
 2)
 7-hidroksimitraginīns
 174418-82-7
@@ -428,8 +419,8 @@ Jebkurš savienojums, kas atvasināts no piperazīna:
 a) aizvietojot ūdeņraža atomu pie viena slāpekļa atoma ar neaizvietotu vai aizvietotu fenilgrupu, neaizvietotu vai aizvietotu benzilgrupu vai cikloheksilgrupu;
 b) neaizvietojot vai aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar neaizvietotu vai aizvietotu metilgrupu
 0,02 g1 g
-8)Triptamīni
-Jebkurš beta-(indol-3-il)etānamīna atvasinājums, kas satur vismaz vienu aizvietotāju no rindas a), b) un c):
+8)Triptamīni un beta-(benzofuran-3-il)etānamīni
+Jebkurš beta-(indol-3-il)etānamīna vai beta-(benzofuran-3-il)etānamīna atvasinājums (izņemot serotonīnu, sumatriptānu un zolmitriptānu), kas satur vismaz vienu aizvietotāju no rindas a), b) un c):
 a) kur ūdeņraža atoms(-i) benzola gredzenā aizvietots(-i) ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
 b) kur ūdeņraža atomi etilēngrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu;
 c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā
@@ -469,7 +460,8 @@ Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-
 • neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
 • neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
 • aizvietotu aminogrupu
-un indola vai azaindolu cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola, azaindolu vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu0,003 g1 g
+un indola vai azaindolu cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola, azaindolu vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu
+0,003 g1 g
 16)Benzimidazoli
 Jebkurš savienojums, kas atvasināts no benzimidazola:
 a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
@@ -511,6 +503,24 @@ Pirazola-5-karbonilatvasinājumi, kas stāvoklī 5 pie karbonilgrupas aizvietoti
 un pirazola cikla stāvokļos 1 un 4 (vienā vai abos) neaizvietoti vai aizvietoti ar neaizvietotām vai aizvietotām alkilgrupām vai arilgrupām un stāvoklī 3 aizvietoti ar neaizvietotu vai aizvietotu arilgrupu
 0,003 g
 1 g
+21)
+2-fenilmorfolīni
+2-fenilmorfolīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
+a) nomainot benzola gredzenu ar tiofēna vai piridīna gredzenu;
+b) nomainot morfolīna ciklu ar tiomorfolīna ciklu;
+c) aizvietojot vienu vai vairākus ūdeņraža atomus benzola, tiofēna vai piridīna gredzenā ar neaizvietotu vai aizvietotu alkilgrupu, alkoksigrupu, amīdgrupu, aminogrupu, sulfonilgrupu vai aizvietotājiem, kas veido benzola, tiofēna vai piridīna gredzenu papildinošu ciklu;
+d) aizvietojot vienu vai vairākus ūdeņraža atomus benzola, tiofēna vai piridīna gredzenā ar hidroksilgrupu vai halogēna atomu;
+e) aizvietojot vienu vai vairākus ūdeņraža atomus morfolīna vai tiomorfolīna ciklā ar hidroksilgrupu, nitrozogrupu, karbonilgrupu vai neaizvietotu vai aizvietotu alkilgrupu
+0,1 g
+5 g
+22)
+Lizergamīdi (jeb lizergīnskābes amīdi)
+4,6,6a,7,8,9-heksahidroindol[4,3-fg]hinolīn-9-karboksamīds (izņemot ergometrīnu, ergotamīnu, metilergometrīnu, metisergīdu), tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
+a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma amīdgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām) vai aizvietotājiem, kas iekļauj slāpekļa atomu ciklā;
+b) neaizvietojot vai aizvietojot ūdeņraža atomu pie slāpekļa atoma hidrogenētā hinolīna ciklā ar neaizvietotu vai aizvietotu alkilgrupu;
+c) neaizvietojot vai aizvietojot ūdeņraža atomu pie slāpekļa atoma indola ciklā ar neaizvietotu vai aizvietotu alkilgrupu vai acilgrupu
+0,001 g
+0,002 g
 8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8.3.punkta 6.apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
 Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)izžāvēts (augu maisījums)1 g100 g

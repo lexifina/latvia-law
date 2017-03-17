@@ -1,3 +1,4 @@
+10. Vielas, kas klasificētas atbilstoši 1961.gada 30.marta Vienotās konvencijas par narkotiskajām vielām I un II sarakstam un grozījumiem, kuri izdarīti saskaņā ar 1972.gada Protokolu par grozījumiem 1961.gada 30.marta Vienotajā konvencijā par narkotiskajām vielām:
 Nr.
 Vielas nosaukums
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
@@ -438,6 +439,7 @@ dronabinols (delta-9-tetrahidrokanabinols un tā stereoķīmiskie varianti)
 gammahidroksibutirskābe (GHB), nātrija oksibutirāts, litija oksibutirāts
 0,6 g
 10 g
+10)metilmorfenāts0,2 g10 g
 12. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām III sarakstam:
 1)
 amobarbitāls

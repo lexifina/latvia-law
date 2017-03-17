@@ -1,3 +1,4 @@
+14. Pirmās kategorijas prekursori:
 Nr.
 Vielas nosaukums
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
@@ -58,6 +59,22 @@ safrols
 alfa-fenilacetoacetonitrils
 10 g
 100 g
+17)
+(1R,2S)-(-)-hlorefedrīns
+0,6 g
+10 g
+18)
+(1S,2R)-(+)-hlorefedrīns
+0,6 g
+10 g
+19)
+(1S,2S)-(+)-hlorpseidoefedrīns
+0,6 g
+10 g
+20)
+(1R,2R)-(-)-hlorpseidoefedrīns
+0,6 g
+10 g
 15. Otrās kategorijas prekursori:
 1)
 antranilskābe

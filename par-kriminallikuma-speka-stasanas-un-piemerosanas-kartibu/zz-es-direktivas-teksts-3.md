@@ -4,7 +4,7 @@
 3) III saraksts (bīstamās psihotropās vielas, kuras var tikt izmantotas ļaunprātīgos nolūkos);
 4) IV saraksts [vielas, kuras var tikt izmantotas narkotisko un psihotropo vielu neatļautai izgatavošanai (prekursori)].
 2. Noteiktie vielu daudzumi attiecināmi arī uz:
-1) I, II un III sarakstā iekļauto vielu izomēriem, struktūranalogiem, esteriem, ēteriem un sāļiem, ieskaitot izomēru, struktūranalogu, esteru un ēteru sāļus;
+1) I, II un III sarakstā iekļauto vielu izomēriem, struktūranalogiem, aktīvajiem metabolītiem, esteriem, ēteriem un sāļiem, ieskaitot izomēru, struktūranalogu, aktīvo metabolītu, esteru un ēteru sāļus;
 2) zālēm, kas satur II un III sarakstā iekļautās vielas;
 3) vielu atvasinājumiem ar līdzīgu farmakoloģisku iedarbību;
 4) IV saraksta 14.punktā iekļauto vielu stereoizomēriem un sāļiem, izņemot katīnu un katīna sāļus, kā arī 15. un 16.punktā iekļauto vielu sāļiem, izņemot sālsskābes un sērskābes sāļus.

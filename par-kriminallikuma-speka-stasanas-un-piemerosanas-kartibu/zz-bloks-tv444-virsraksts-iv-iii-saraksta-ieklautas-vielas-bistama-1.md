@@ -1,3 +1,4 @@
+13. Vielas, kas klasificētas atbilstoši 1971.gada 21.februāra Konvencijas par psihotropajām vielām IV sarakstam:
 Nr.
 Vielas nosaukums
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
@@ -280,6 +281,26 @@ zopiklons
 tramadols
 0,5 g
 6 g
+73)
+alprazolāma triazolbenzofenona atvasinājums
+0,001 g
+1 g
+74)
+dezhloretizolāms
+0,01 g
+5 g
+75)
+metizolāms
+0,01 g
+5 g
+76)
+nitrazolāms
+0,001 g
+1 g
+77)
+pirazolāms
+0,001 g
+1 g
 13.¹ Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma IV nodaļā minētās vielas jebkurā daudzumā
 Nr.
 Maisījuma veids
