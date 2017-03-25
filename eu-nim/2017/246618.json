@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 21.marta noteikumi Nr. 161 \"Grozījumi Ministru kabineta 2016.gada 5.janvāra noteikumos Nr.12 “Kartupeļu sēklaudzēšanas un sēklas kartupeļu tirdzniecības noteikumi”\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62 (5889)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-24",
+  "entry_into_force": "2017-03-25",
+  "notification_date": "2017-03-31",
+  "commission_reference": "MNE(2017)51964",
+  "nim_celex": "72016L0317LVA_246618",
+  "nim_id": "246618",
+  "transposes_celex": [
+    "32016L0317"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bbd23ad8-caf0-42a7-80ba-19d179f96c57",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
