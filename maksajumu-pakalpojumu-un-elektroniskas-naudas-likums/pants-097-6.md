@@ -1,0 +1,1 @@
+97.⁶ pants. Kredītiestāde bez papildu maksas nodrošina patērētājam informāciju par pamatkontu un tā izmantošanas nosacījumiem, šo informāciju sniedzot saprotamā veidā un izvietojot redzamā vietā savās filiālēs un savā mājaslapā internetā. Minētajā informācijā kredītiestāde iekļauj skaidru norādi, ka papildu pakalpojumu iegāde nav obligāta, lai piekļūtu pamatkontam.

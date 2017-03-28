@@ -1,1 +1,2 @@
-45.pants. Komisijai ir tiesības papildus noteikt vēl citas iestāžu darbību regulējošas prasības, lai mazinātu iestāžu darbības risku un aizsargātu elektroniskās naudas turētājus un maksājumu pakalpojumu izmantotājus.
+45.pants. (1) Komisijai ir tiesības papildus noteikt vēl citas iestāžu darbību regulējošas prasības, lai mazinātu iestāžu darbības risku un aizsargātu elektroniskās naudas turētājus un maksājumu pakalpojumu izmantotājus.
+(2) Komisija savā mājaslapā internetā publicē informāciju par Patērētāju tiesību aizsardzības centra izveidotu tīmekļvietni, kurā patērētājiem iespējams salīdzināt maksājumu pakalpojumu sniedzēju noteikto maksu par pakalpojumiem, kas saistīti ar maksājumu kontu.

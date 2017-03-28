@@ -1,1 +1,0 @@
-57.pants. Ja maksājuma pakalpojuma izmantotājs nav patērētājs Patērētāju tiesību aizsardzības likuma izpratnē, maksājuma pakalpojuma sniedzējs un maksājuma pakalpojuma izmantotājs var vienoties par atsevišķu šā likuma VII, VIII un IX nodaļas noteikumu nepiemērošanu.

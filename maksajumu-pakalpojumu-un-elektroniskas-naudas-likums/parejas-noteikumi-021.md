@@ -1,0 +1,1 @@
+21. Komisija līdz 2017. gada 1. jūlijam izdod šā likuma 60.¹ un 60.² pantā minētos normatīvos noteikumus, un maksājumu pakalpojumu sniedzēji minētajos pantos noteiktās prasības sāk pildīt no 2017. gada 1. oktobra.

@@ -1,0 +1,1 @@
+97.¹ pants. Šī nodaļa attiecas uz kredītiestādēm, kas Latvijā sniedz ar maksājumu kontu saistītus pakalpojumus Eiropas Savienības rezidentiem - patērētājiem -, un nosaka kārtību, kādā kredītiestādes Eiropas Savienības rezidentam piedāvā atvērt un izmantot pamatkontu.

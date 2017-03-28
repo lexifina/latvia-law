@@ -1,0 +1,1 @@
+75.¹ pants. Šī nodaļa attiecas uz maksājumu kontiem, kas atvērti maksājuma pakalpojuma izmantotājam - patērētājam - pie maksājumu pakalpojumu sniedzējiem, kuru komercdarbības veikšanas vieta ir Latvija.

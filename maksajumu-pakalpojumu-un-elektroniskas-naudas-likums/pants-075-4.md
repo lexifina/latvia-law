@@ -1,0 +1,1 @@
+75.⁴ pants. Kontu maiņas pakalpojuma sniegšanā iesaistītais maksājumu pakalpojumu sniedzējs maksājuma pakalpojuma izmantotājam nekavējoties atlīdzina jebkurus finansiālos zaudējumus, kas radušies tieši tāpēc, ka minētais maksājumu pakalpojumu sniedzējs nav izpildījis ar kontu maiņas pakalpojumu saistītos pienākumus vai kavējis šo pienākumu izpildi.
