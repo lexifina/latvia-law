@@ -1,0 +1,1 @@
+19. pants. Tiklīdz saskaņā ar šā likuma 18. panta nosacījumiem no DNS nacionālās datu bāzes dzēš personas DNS profilu un ziņas, Kriminālistikas pārvalde iznīcina arī tās rīcībā nodoto attiecīgās personas bioloģiskā materiāla paraugu.
