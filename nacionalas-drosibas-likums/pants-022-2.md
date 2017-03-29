@@ -8,3 +8,4 @@
 (4) Kritiskās infrastruktūras, tajā skaitā Eiropas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs nodrošina drošības pasākumu plānošanu un īstenošanu.
 (5) Kritiskās infrastruktūras, tajā skaitā Eiropas kritiskās infrastruktūras, īpašnieks vai tiesiskais valdītājs iekšējiem drošības pasākumus reglamentējošiem dokumentiem nosaka ierobežotas pieejamības informācijas statusu.
 (6) Ministru kabinets nosaka kritiskās infrastruktūras, tajā skaitā Eiropas kritiskās infrastruktūras, apzināšanas un drošības pasākumu plānošanas un īstenošanas kārtību.
+(7) Šā panta otrās daļas 1. vai 2. punktā vai trešajā daļā minētās kritiskās infrastruktūras nodošanai valdījumā vai īpašumā citai personai ir nepieciešama Ministru kabineta atļauja.

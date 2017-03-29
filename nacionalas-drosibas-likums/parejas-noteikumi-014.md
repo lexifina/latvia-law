@@ -1,0 +1,1 @@
+14. Komercsabiedrības, kuras līdz ar šā likuma 37. panta spēkā stāšanos atbilst nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem, līdz 2017. gada 1. jūnijam izpilda šā likuma 39. panta pirmajā daļā noteiktos pienākumus.

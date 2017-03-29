@@ -1,0 +1,2 @@
+VI nodaļa
+Nacionālajai drošībai nozīmīgu komercsabiedrību ierobežojumi

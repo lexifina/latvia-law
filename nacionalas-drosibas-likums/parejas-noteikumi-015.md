@@ -1,0 +1,1 @@
+15. Komercreģistra iestāde informācijas par nacionālajai drošībai nozīmīgām komercsabiedrībām publicēšanu komercreģistra iestādes mājaslapā internetā (39. panta otrā daļa) nodrošina no 2017. gada 15. jūnija.

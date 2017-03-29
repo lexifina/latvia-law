@@ -1,0 +1,4 @@
+40. pants. Atļaujas saņemšana būtiskas līdzdalības vai izšķirošas ietekmes iegūšanai
+(1) Ministru kabineta atļauja ir nepieciešama, pirms persona vai vairākas personas, kas rīkojas saskaņoti, iegūst būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā komercsabiedrībā vai kļūst par šādas komercsabiedrības biedru, vai arī iegūst ietekmi Latvijas Republikā reģistrētā kapitālsabiedrībā, kura ir nacionālajai drošībai nozīmīgas komercsabiedrības biedrs.
+(2) Ja citā likumā noteikts tiešs aizliegums konkrētiem tiesību subjektiem iegūt konkrēta veida līdzdalību kādā no nacionālajai drošībai nozīmīgām komercsabiedrībām, šis aizliegums ir piemērojams neatkarīgi no Ministru kabineta atļaujas.
+(3) Pieteikumu atļaujas saņemšanai iesniedz persona, kura vēlas iegūt būtisku līdzdalību vai izšķirošu ietekmi nacionālajai drošībai nozīmīgā komercsabiedrībā.
