@@ -1,0 +1,1 @@
+1. pants. 2017. gada 12. janvārī Rīgā parakstītais Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības līgums par sadarbību aizsardzības jomā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
