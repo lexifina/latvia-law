@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada ziemas sesija",
+ "sede": 23,
+ "datums": "2017-03-30",
+ "ieraksts": {
+  "dkp_id": "b30c800c-521d-4aa0-8dd0-38763e0c5445",
+  "lastmodtime": "\"AAAAAAFtEU0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Romualds#Romāns#Ivans#Einārs#Mihails#Vladimirs#Andris#Artis#Askolds#Inese#Ainars#Raimonds#Andris#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Igors#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Ringolds#Inguna#Romāns#Rihards#Ilmārs#Jūlija#Anrijs#Ilze#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Mārtiņš#Inesis#Andrejs#Juris#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Rihards#Gundars#Jānis#Rihards#Ivars#Solvita#Aivars#Aleksandrs#Aija#Mārtiņš#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Ražuks#Naudiņš#Ribakovs#Cilinskis#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Kļaviņš#Laizāne#Latkovskis#Rubiks#Siliņš#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Mežeckis#Kols#Latkovskis#Stepaņenko#Matīss#Viņķele#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Bondars#Boķis#Judins#Šulcs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Melgailis#Daudze#Tutins#Eigims#Zariņš#Āboltiņa#Meija#Kiršteins#Barča#Šics#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#ZZS#ZZS#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#NSL#VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #ZZS#SASKAŅA #VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#LRA#SASKAŅA #VL-TB/LNNK",
+  "RESULT": "Pret#Pret#Pret#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Nebalsoja#Nebalsoja#Pret#Par#Nebalsoja#Pret#Par#Pret#Pret#Atturas#Pret#Pret#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Pret#Atturas#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Nebalsoja#Pret#Nebalsoja#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par#Nebalsoja#Par#Nebalsoja#Pret#Pret#Pret#Pret#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.03.2017 11:05:29",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.54. Psihologu likums (133/Lp12), 3.lasījums",
+  "VOTING_ID": "6971de9a-171d-46bc-989f-4601e0a7bd95",
+  "VOTERESULT_ABSTAIN": "3",
+  "VOTERESULT_AGAINST": "44",
+  "VOTERESULT_FOR": "11",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "21",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada ziemas sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/20481218-95ae-46b3-a12f-cc8b660693cf/download/12.saeimas-2017.gada-ziemas-sesija-23-vote.xml",
+  "sha256": "434990ab5c6ae295b2bbaa4d1e34c0b2d307673406e2bee475719e6d11c4326b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
