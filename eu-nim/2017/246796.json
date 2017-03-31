@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 21. marta noteikumi Nr. 164 \"Noteikumi par arhitekta profesionāliem nosaukumiem un izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "66 (5893)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-30",
+  "entry_into_force": "2017-03-31",
+  "notification_date": "2017-04-06",
+  "commission_reference": "MNE(2017)52103",
+  "nim_celex": "72013L0055LVA_246796",
+  "nim_id": "246796",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/47659f82-78e4-414a-a4be-4f08a94da15b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
