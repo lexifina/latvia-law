@@ -4,4 +4,4 @@ Piedziņu nevar vērst uz:
 2) kompensācijas izmaksām par darbiniekam piederošo instrumentu nolietošanos un citām kompensācijām saskaņā ar normatīvajiem aktiem, kas regulē darba tiesiskās attiecības;
 3) darbiniekam izmaksājamām summām sakarā ar komandējumu, pārcelšanu un nosūtīšanu darbā uz citu apdzīvotu vietu;
 4) sociālās palīdzības pabalstiem;
-5) bērna uzturlīdzekļiem Ministru kabineta noteikto minimālo bērna uzturlīdzekļu apmērā, kurus, pamatojoties uz tiesas nolēmumu, maksā viens no vecākiem, kā arī uz Uzturlīdzekļu garantiju fonda izmaksājamiem bērna uzturlīdzekļiem.
+5) bērna uzturlīdzekļiem Ministru kabineta noteikto minimālo bērna uzturlīdzekļu apmērā, kurus, pamatojoties uz tiesas nolēmumu vai Uzturlīdzekļu garantiju fonda administrācijas lēmumu, maksā viens no vecākiem, kā arī uz Uzturlīdzekļu garantiju fonda izmaksājamiem bērna uzturlīdzekļiem.

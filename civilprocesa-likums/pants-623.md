@@ -1,6 +1,6 @@
 623.pants. Pirmās kārtas piedziņas
 (1) Vispirms apmierināmi:
-1) prasījumi par uzturlīdzekļu piedziņu bērnam vai vecākam;
+1) prasījumi par uzturlīdzekļu piedziņu bērnam vai vecākam vai Uzturlīdzekļu garantiju fonda administrācijas prasījumi par uzturlīdzekļu parāda piedziņu;
 2) prasījumi par darba samaksas piedziņu;
 3) prasījumi personisku aizskārumu dēļ, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve.
 (2) Ja uzturlīdzekļi tiek maksāti saskaņā ar Uzturlīdzekļu garantiju fonda administrācijas lēmumu un piedzītā uzturlīdzekļu summa:
