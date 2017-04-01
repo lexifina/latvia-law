@@ -7,3 +7,6 @@
 1) beidzies iepriekš iesniegto dokumentu derīguma termiņš;
 2) šā likuma 24.pantā minētajā gadījumā;
 3) pēc Juridiskās palīdzības administrācijas pieprasījuma.
+(6) Latvijas valstspiederīgajam, kuram piešķirts finansiālais atbalsts, ir pienākums:
+1) iesniegt Juridiskās palīdzības administrācijai šā likuma 14.¹⁰ panta otrās daļas 2. punktā minētos dokumentus;
+2) savlaicīgi informēt Juridiskās palīdzības administrāciju par to, ka process par bērna aizgādības tiesību pārtraukšanu vai atņemšanu ir izbeigts, kā arī par izmaiņām iepriekš sniegtajās ziņās.
