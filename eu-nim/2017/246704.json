@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 28.marta noteikumi Nr.187 \"Sabiedrisko pakalpojumu sniedzēju iepirkuma procedūru un metu konkursu norises kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "67 (5894)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-31",
+  "entry_into_force": "2017-04-01",
+  "notification_date": "2017-04-04",
+  "commission_reference": "MNE(2017)52030",
+  "nim_celex": "72014L0025LVA_246704",
+  "nim_id": "246704",
+  "transposes_celex": [
+    "32014L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7f653a8-be94-4c8b-9499-dd0f04fe3482",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
