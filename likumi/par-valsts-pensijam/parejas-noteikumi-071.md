@@ -1,0 +1,3 @@
+71. Līdz 2017.gada 31.martam piešķirtās un pārrēķinātās apgādnieka zaudējuma pensijas pārskata no 2017.gada 1.aprīļa un starpību izmaksā līdz 2017.gada 30.septembrim šādā kārtībā:
+1) ja katram bērnam apgādnieka zaudējuma pensija ir mazāka par šā likuma 23.panta ceturtajā daļā noteikto minimālo apmēru, pensijas apmēru nosaka atbilstoši šā likuma 23.panta piektajai daļai;
+2) katram bērnam, kurš zaudējis abus vecākus, par katru vecāku nosaka atsevišķu apgādnieka zaudējuma pensiju atbilstoši šā likuma 23.panta otrās un sestās daļas nosacījumiem, ievērojot pensijas piešķiršanas datumu, pensijas aprēķināšanai iepriekš piemēroto kārtību, kā arī šā likuma 26.pantu un pārejas noteikumu 15. un 15.¹ punktu.
