@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 28.marta noteikumi Nr.184 “Noteikumi par kritērijiem izvērtēšanai, vai Sabiedrisko pakalpojumu sniedzēju iepirkumu likumā minētās darbības Latvijā tiek veiktas brīvas konkurences apstākļos, un par Eiropas Komisijai iesniedzamo prasību”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "67 (5894)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-31",
+  "entry_into_force": "2017-04-01",
+  "notification_date": "2017-04-04",
+  "commission_reference": "MNE(2017)52034",
+  "nim_celex": "72014L0025LVA_246708",
+  "nim_id": "246708",
+  "transposes_celex": [
+    "32014L0025"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf1fd2ef-90d5-41fc-95e0-294430fc6f7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
