@@ -56,3 +56,14 @@ c) piegādā šā likuma 20.pantā minētajām personām vai organizācijām cit
 3) šīs preces izvestas no Latvijas Republikas uz ārvalsti, kas nav dalībvalsts, vai uz teritoriju, kura minēta šā likuma 2.panta 3.¹ daļā;
 4) šīs preces ir saņēmušas šā likuma 20.pantā minētās organizācijas citā dalībvalstī.
 (16) Ja par šā panta četrpadsmitajā daļā minētajām akcīzes precēm, ko taksācijas periodā pārvieto saskaņā ar šā panta četrpadsmito daļu, 15 dienu laikā pēc taksācijas perioda beigām Valsts ieņēmumu dienestam netiek iesniegti šā panta piecpadsmitajā daļā minētie dokumenti, apstiprināts noliktavas turētājs samaksā nodokli atbilstoši šajā likumā noteiktajai nodokļa likmei. Ja attiecīgos dokumentus iesniedz pēc noteiktā termiņa, bet ne vēlāk kā triju gadu laikā pēc šā termiņa, samaksāto nodokli pārskaita turpmākajiem nodokļa maksājumiem vai pēc attiecīgā nodokļa maksātāja rakstveida pieprasījuma atmaksā 30 dienu laikā pēc pieprasījuma saņemšanas.
+(17) Apstiprinātam noliktavas turētājam darbībām ar dabasgāzi atļauts atlikto nodokļa maksāšanu piemērot dabasgāzei, ja dabasgāzi:
+1) no akcīzes preču noliktavas Latvijas Republikā:
+a) pārvieto uz citu akcīzes preču noliktavu Latvijas Republikā,
+b) pārvieto uz ārvalsti (arī dalībvalsti) vai teritoriju, kura minēta šā likuma 2. panta 3.¹ daļā,
+c) piegādā šā likuma 20. pantā minētajām personām vai organizācijām citā dalībvalstī;
+2) ieved Latvijas Republikā no citas ārvalsts (arī dalībvalsts) vai no teritorijas, kura minēta šā likuma 2. panta 3.¹ daļā, pārvietošanai uz akcīzes preču noliktavu Latvijas Republikā.
+(18) Apstiprināts noliktavas turētājs darbībām ar dabasgāzi, kas veic šā panta septiņpadsmitajā daļā minētās darbības, nemaksā nodokli, ja Valsts ieņēmumu dienestam tiek iesniegti dokumenti vai nodokļa deklarācijai pievienots apstiprināts to uzskaitījums, kas apliecina, ka dabasgāze atbilst vienam no šādiem nosacījumiem:
+1) dabasgāze saņemta akcīzes preču noliktavā Latvijas Republikā;
+2) dabasgāze izvesta no Latvijas Republikas uz citu dalībvalsti;
+3) dabasgāze izvesta no Latvijas Republikas uz ārvalsti, kas nav dalībvalsts, vai uz teritoriju, kura minēta šā likuma 2. panta 3.¹ daļā;
+4) dabasgāzi ir saņēmušas šā likuma 20. pantā minētās organizācijas citā dalībvalstī.

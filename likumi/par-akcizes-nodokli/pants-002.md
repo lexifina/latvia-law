@@ -1,6 +1,6 @@
 2.pants. Likuma darbības joma
 (1) Šis likums nosaka kārtību, kādā akcīzes preces apliek ar akcīzes nodokli (turpmāk - nodoklis), un tas attiecas uz akcīzes precēm neatkarīgi no to izcelsmes, ar kurām Latvijas Republikā tiek veiktas likumā noteiktās darbības.
-(2) Šā likuma 8.panta piektā daļa, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25.panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa, 26., 31. un 32.pants neattiecas uz darbībām ar elektroniskajās cigaretēs izmantojamo šķidrumu, bezalkoholiskajiem dzērieniem un kafiju. Šā likuma 2.panta sestā un septītā daļa, 8.pants, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25., 26., 31. un 32.pants neattiecas uz darbībām ar dabasgāzi. Šā likuma 2.panta sestā un septītā daļa, 8., 20., 25., 26., 27., 31. un 32.pants neattiecas uz darbībām ar uztura bagātinātājiem, kuri satur spirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību.
+(2) Šā likuma 8.panta piektā daļa, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25.panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa, 26., 31. un 32.pants neattiecas uz darbībām ar elektroniskajās cigaretēs izmantojamo šķidrumu, bezalkoholiskajiem dzērieniem un kafiju. Šā likuma 2.panta sestā un septītā daļa, 8.pants, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25. pants, izņemot septiņpadsmito un astoņpadsmito daļu, 26., 31. un 32.pants neattiecas uz darbībām ar dabasgāzi. Šā likuma 2.panta sestā un septītā daļa, 8., 20., 25., 26., 27., 31. un 32.pants neattiecas uz darbībām ar uztura bagātinātājiem, kuri satur spirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību.
 (2¹) Šā likuma nosacījumi (tajā skaitā par nodokļa samaksu, dokumentu iesniegšanu un citi) neattiecas uz tādu akcīzes preču uzglabāšanu, pārvietošanu un iznīcināšanu, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta.
 (3) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm attiecina arī uz šādām teritorijām:
 1) Monako firstisti (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Francijas Republikā vai paredzēti tai);
@@ -15,7 +15,7 @@
 4) Francijas Republikā - uz Francijas Republikas aizjūras departamentiem, tajā skaitā Majotu;
 5) Somijas Republikā - uz Ālandu salām;
 6) Lielbritānijas un Ziemeļīrijas Apvienotajā Karalistē un Francijas Republikā - uz Normandijas salām.
-(4) Šā likuma nosacījumi par akcīzes preču uzglabāšanu, atlikto nodokļa maksāšanu, pārvietošanu, nosūtīšanu, saņemšanu, ražošanu, apstrādi, pārstrādi, fasēšanu, naftas produktu sajaukšanu, akcīzes nodokļa marku, speciālās atļaujas (licences) un nodrošinājuma nepieciešamību neattiecas uz akcīzes precēm, kuras ieved Kopienas muitas teritorijā pagaidu glabāšanā, brīvās zonās vai brīvās noliktavās vai kurām piemēro Padomes regulas Nr. 952/2013 210.pantā minētās īpašas procedūras.
+(4) Šā likuma nosacījumi par akcīzes preču uzglabāšanu, atlikto nodokļa maksāšanu, pārvietošanu, nosūtīšanu, saņemšanu, ražošanu, apstrādi, pārstrādi, fasēšanu, naftas produktu sajaukšanu, akcīzes nodokļa marku, speciālās atļaujas (licences) un nodrošinājuma nepieciešamību neattiecas uz akcīzes precēm, kuras ieved Savienības muitas teritorijā pagaidu glabāšanā, brīvās zonās vai brīvās noliktavās vai kurām piemēro Padomes regulas Nr. 952/2013 210.pantā minētās īpašas procedūras.
 (5) (Izslēgta ar 01.12.2009. likumu)
 (6) Speciāla atļauja (licence) nepieciešama šādām konkrētām darbībām ar akcīzes precēm:
 1) apstiprināta noliktavas turētāja darbībai;
@@ -24,10 +24,15 @@
 4) alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu vairumtirdzniecībai;
 5) alkoholisko dzērienu, tabakas izstrādājumu vai naftas produktu mazumtirdzniecībai;
 6) (izslēgts ar 22.04.2010. likumu).
+(6¹) Speciāla atļauja (licence) nepieciešama šādām darbībām ar dabasgāzi:
+1) apstiprināta noliktavas turētāja darbībām ar dabasgāzi (tajā skaitā sašķidrināto dabasgāzi un saspiesto dabasgāzi), ja dabasgāze netiek transportēta pa dabasgāzes pārvades un sadales sistēmas cauruļvadiem (turpmāk - apstiprināts noliktavas turētājs darbībām ar dabasgāzi);
+2) dabasgāzes kā degvielas mazumtirdzniecībai.
 (7) Ministru kabinets nosaka akcīzes preču aprites kārtību, tajā skaitā:
 1) licences izsniegšanas, pārreģistrācijas, anulēšanas un izmantošanas kārtību, kā arī valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju;
 2) citas prasības apstiprināta noliktavas turētāja, reģistrēta nosūtītāja un reģistrēta saņēmēja darbībai;
 3) prasības importētāja, īslaicīgi reģistrēta saņēmēja un pārsūtītājtirgotāja darbībai;
 4) citas prasības saskaņā ar šo likumu.
-(7¹) Ministru kabinets nosaka dabasgāzes aprites kārtību.
+(7¹) Ministru kabinets nosaka dabasgāzes aprites kārtību, tajā skaitā:
+1) speciālas atļaujas (licences) darbībām ar dabasgāzi izsniegšanas, pārreģistrācijas, anulēšanas un izmantošanas kārtību, kā arī valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju;
+2) kārtību, kādā vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators un dabasgāzes sadales sistēmas operators sniedz Valsts ieņēmumu dienestam informāciju par dabasgāzes aprites rādītājiem.
 (8) Nelabvēlīga lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.

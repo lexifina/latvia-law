@@ -8,4 +8,4 @@
 3) vidējo svērto mazumtirdzniecības cenu iepriekšējā kalendāra gadā, ja nevar noteikt šīs daļas 1. vai 2.punktā minēto cenu vai ja persona saskaņā ar šā likuma 26.pantu Latvijas Republikā no citas dalībvalsts ieved vai saņem cigaretes personīgam patēriņam.
 (4¹) Līdz vidējās svērtās mazumtirdzniecības cenas iepriekšējā kalendāra gadā noteikšanai saskaņā ar šā likuma 30.pantu šā panta ceturtajā daļā minētajos gadījumos piemēro iepriekš noteikto vidējo svērto mazumtirdzniecības cenu.
 (5) Aprēķinot nodokli, šā likuma 14.panta pirmās daļas 1., 2., 3., 4. un 6.punktā minēto naftas produktu daudzums litros Ministru kabineta paredzētajā kārtībā nosakāms atbilstoši to daudzumam 15°C.
-(6) Nodokli dabasgāzei aprēķina Ministru kabineta noteiktajā kārtībā.
+(6) Nodokli dabasgāzei aprēķina Ministru kabineta noteiktajā kārtībā, ņemot vērā, ka dabasgāzes tilpums un augstākā siltumspēja ir noteikta standartapstākļos, kad dabasgāzes spiediens ir 101,325 kPa un temperatūra 20 oC.

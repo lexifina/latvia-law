@@ -12,6 +12,6 @@
 (6) Ministru kabinets:
 1) paredz gadījumus, kad nodrošinājums nav jāiesniedz, un nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
 2) nosaka kārtību, kādā iesniedz, administrē, dzēš un atdod nodrošinājumus.
-(7) Lai nodrošinātu nodokļa nomaksu šā likuma 23.panta astoņpadsmitajā daļā minētajā gadījumā, akcīzes precēm piemērojot muitas režīmu vai muitas procedūru (izņemot laišanu brīvā apgrozībā) saskaņā ar normatīvajiem aktiem muitas jomā, Ministru kabinets:
-1) paredz gadījumus, kad galvojums nav jāiesniedz, un nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt galvojuma lielumu;
+(7) Lai nodrošinātu nodokļa nomaksu šā likuma 23. panta astoņpadsmitajā daļā minētajā gadījumā, akcīzes precēm piemērojot muitas procedūru (izņemot laišanu brīvā apgrozībā) vai pagaidu uzglabāšanu saskaņā ar normatīvajiem aktiem muitas jomā, Ministru kabinets:
+1) paredz gadījumus, kad galvojums nav jāiesniedz, un nosacījumus, kurus izpildot nodokļa maksātājam var samazināt galvojuma summu;
 2) nosaka kārtību, kādā iesniedz, administrē un dzēš galvojumus.
