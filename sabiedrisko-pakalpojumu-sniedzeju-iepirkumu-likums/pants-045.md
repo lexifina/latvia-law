@@ -1,0 +1,5 @@
+45. pants. Iepirkuma procedūras dokumentēšana
+(1) Sabiedrisko pakalpojumu sniedzējs nodrošina katra iepirkuma procedūras posma dokumentēšanu, kā arī dokumentē iepirkuma procedūru, kas noris, izmantojot elektroniskos līdzekļus.
+(2) Iepirkuma procedūras ziņojums (turpmāk - ziņojums) ir pārskats, kas atspoguļo iepirkuma procedūras norisi. Ziņojumu par katru iepirkuma procedūru, ievērojot Ministru kabineta noteikto kārtību un saturu, sagatavo un publicē pircēja profilā pēc tam, kad pieņemts lēmums par iepirkuma procedūras rezultātiem.
+(3) Protokoli, kas atspoguļo iepirkuma procedūras atsevišķo posmu norisi, ziņojums un iepirkuma procedūras dokumenti (izņemot piedāvājumus) ir vispārpieejama informācija.
+(4) Sabiedrisko pakalpojumu sniedzējs nodrošina šā panta trešajā daļā minēto dokumentu izsniegšanu triju darbdienu laikā pēc attiecīga pieprasījuma saņemšanas dienas. Sabiedrisko pakalpojumu sniedzējs neizsniedz protokolus (izņemot piedāvājumu atvēršanas sanāksmes protokolu), kamēr pieteikumi vai piedāvājumi tiek vērtēti.

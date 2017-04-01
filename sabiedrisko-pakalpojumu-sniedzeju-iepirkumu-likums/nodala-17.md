@@ -1,0 +1,1 @@
+XVII nodaļa. Citi noteikumi

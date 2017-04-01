@@ -1,0 +1,23 @@
+63. pants. Elektronisko izsoļu piemērošana
+(1) Sabiedrisko pakalpojumu sniedzējs atklāta un slēgta konkursa un sarunu procedūras, publicējot dalības uzaicinājumu, gadījumā var nolemt pirms piedāvājuma izvēles piemērot elektronisko izsoli, ja iepirkuma procedūras dokumentus (it īpaši tehniskās specifikācijas) var sagatavot ļoti precīzi. Elektronisko izsoli var rīkot arī pirms piedāvājuma izvēles vispārīgās vienošanās ietvaros saskaņā ar šā likuma 61. panta sestās daļas 2. un 3. punktu, kā arī pirms piedāvājuma izvēles dinamiskās iepirkumu sistēmas ietvaros.
+(2) Elektroniskās izsoles objekts var būt:
+1) cena vai cena un iepirkuma procedūras dokumentos norādītās piedāvājuma elementu jaunās vērtības, ja piedāvājuma izvērtēšanas kritērijs ir cenas vai izmaksu efektivitātes un ar iepirkuma līguma priekšmetu saistītu kvalitātes kritēriju attiecība vai zemākās izmaksas, piemērojot izmaksu efektivitātes pieeju;
+2) cena, ja piedāvājuma izvērtēšanas kritērijs ir tikai cena.
+(3) Ja pieņemts lēmums par elektroniskās izsoles rīkošanu, sabiedrisko pakalpojumu sniedzējs to norāda paziņojumā par līgumu vai uzaicinājumā apstiprināt ieinteresētību.
+(4) Ja tiek rīkota elektroniskā izsole, iepirkuma procedūras dokumentos papildus citām ziņām norāda arī:
+1) elektroniskās izsoles objektu raksturlielumus, ja tie ir mērāmi un to vērtību var izteikt skaitļos vai procentos;
+2) jebkuras robežvērtības (kuras var iesniegt un mainīt), ņemot vērā iepirkuma līguma priekšmeta tehniskās specifikācijas;
+3) informāciju, kas tiks nodota pretendentiem izsoles laikā, un, ja iespējams, laiku, kad šī informācija būs pieejama;
+4) nepieciešamo informāciju, kas attiecas uz elektroniskās izsoles organizēšanu;
+5) noteikumus, kuri pretendentiem jāievēro elektroniskajā izsolē, it īpaši attiecībā uz minimālajiem izsoles soļiem, kādi tiks pieprasīti, ja tas būs nepieciešams;
+6) nepieciešamo informāciju par izmantojamām elektroniskajām iekārtām, pieslēguma noteikumiem un tehniskajām specifikācijām.
+(5) Pirms elektroniskās izsoles uzsākšanas sabiedrisko pakalpojumu sniedzējs veic pilnu sākotnējo piedāvājumu novērtēšanu saskaņā ar noteiktajiem piedāvājuma izvērtēšanas kritērijiem.
+(6) Sabiedrisko pakalpojumu sniedzējs vienlaikus uzaicina visus pretendentus, kuri iesnieguši atbilstošus piedāvājumus, elektroniski iesniegt jaunas cenas vai cenas un vērtības. Uzaicinājums ietver visu nepieciešamo informāciju par individuālo pieslēgumu izsolē izmantotajai elektroniskajai iekārtai, tajā ir noteikts datums un laiks, kurā tiks uzsākta elektroniskā izsole. Elektroniskā izsole var notikt vairākos secīgos posmos. To neuzsāk agrāk par divām darbdienām pēc tam, kad izsūtīts uzaicinājums piedalīties šajā izsolē.
+(7) Uzaicinājumam pievieno piedāvājumu vērtēšanas apkopojumu un uzaicinājumā ietver elektroniskajā izsolē izmantojamo matemātisko formulu vai algoritmu, kas atspoguļo visu kritēriju nosacītās vērtības un kas, ņemot vērā sākotnēji paredzēto kritēriju īpatsvaru, noteiks vietu pārdalīšanu, izmantojot jaunās iesniegtās vērtības un cenas vai tikai cenas. Minētajā formulā, izņemot gadījumu, kad saimnieciski visizdevīgākais piedāvājums tiek noteikts, pamatojoties tikai uz cenu, ietver visu saimnieciski visizdevīgākā piedāvājuma noteikšanai paredzēto vērtēšanas kritēriju svērumu saskaņā ar paziņojumā par līgumu vai iepirkuma procedūras dokumentos minēto. Ja kritērijiem piešķirtās skaitliskās vērtības tiek norādītas noteiktā diapazonā, tās jāizsaka līdz konkrētai vērtībai. Ja ir pieļauti piedāvājumu varianti, katram variantam nosaka savu formulu.
+(8) Jebkurā elektroniskās izsoles posmā sabiedrisko pakalpojumu sniedzējs pastāvīgi sniedz visiem pretendentiem ziņas, kas ļauj tiem jebkurā brīdī droši noteikt savu relatīvo vietu. Sabiedrisko pakalpojumu sniedzējs var sniegt arī ziņas par citām piedāvātajām cenām vai vērtībām, ja tas paredzēts iepirkuma procedūras dokumentos. Sabiedrisko pakalpojumu sniedzējs var jebkurā laikā paziņot arī izsoles dalībnieku skaitu konkrētajā izsoles posmā, bet nav tiesīgs izpaust dalībnieku identitāti.
+(9) Sabiedrisko pakalpojumu sniedzējs elektronisko izsoli beidz (ievērojot vienu vai vairākus nosacījumus):
+1) iepriekš noteiktā datumā un laikā;
+2) pēc pēdējā solījuma saņemšanas, ja pagājis uzaicinājumā uz izsoli noteiktais laiks un jauns solījums šajā laikā nav izteikts;
+3) ja visi iepriekš noteiktie izsoles posmi ir pabeigti.
+(10) Ja sabiedrisko pakalpojumu sniedzējs vēlas izbeigt izsoli, ievērojot gan šā panta devītās daļas 2. punkta, gan 3. punkta noteikumus, uzaicinājumā uz izsoli norāda katra izsoles posma laiku.
+(11) Kad elektroniskā izsole ir pabeigta, sabiedrisko pakalpojumu sniedzējs, izmantojot šīs izsoles rezultātus, izvēlas piedāvājumu saskaņā ar noteiktajiem piedāvājuma izvērtēšanas kritērijiem.

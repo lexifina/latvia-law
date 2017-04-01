@@ -1,0 +1,13 @@
+27. pants. Piedāvājuma nodrošinājums un saistību izpildes nodrošinājums
+(1) Sabiedrisko pakalpojumu sniedzējs ir tiesīgs pieprasīt, lai pretendents iesniedz vai iemaksā piedāvājuma nodrošinājumu un saistību izpildes nodrošinājumu. Sabiedrisko pakalpojumu sniedzējs iepirkuma procedūras dokumentos nosaka piedāvājuma nodrošinājuma un saistību izpildes nodrošinājuma veidus, apmēru un termiņu, kā arī iesniegšanas un izsniegšanas, iemaksāšanas un izmaksāšanas noteikumus.
+(2) Piedāvājuma nodrošinājuma apmēru nosaka samērīgi, ņemot vērā attiecīgā iepirkuma paredzamo līgumcenu un līguma priekšmetu, bet ne lielāku par diviem procentiem no paredzamās līgumcenas.
+(3) Piedāvājuma nodrošinājuma termiņu nosaka samērīgi, ņemot vērā attiecīgā iepirkuma sarežģītību un paredzamo piedāvājumu izvērtēšanas termiņu, bet piedāvājuma nodrošinājuma termiņš nedrīkst pārsniegt sešus mēnešus, skaitot no piedāvājumu atvēršanas dienas. Ja objektīvu iemeslu dēļ noteikto termiņu nav iespējams ievērot, sabiedrisko pakalpojumu sniedzējs var lūgt pagarināt piedāvājuma nodrošinājuma termiņu.
+(4) Piegādātājs piedāvājuma nodrošinājumu un saistību izpildes nodrošinājumu ir tiesīgs iesniegt kā bankas garantiju, apdrošināšanas polisi vai, ja sabiedrisko pakalpojumu sniedzējs šādu iespēju ir paredzējis iepirkuma procedūras dokumentos, kā naudas summas iemaksu sabiedrisko pakalpojumu sniedzēja norādītajā kontā.
+(5) Piedāvājuma nodrošinājums ir spēkā īsākajā no šādiem termiņiem (izņemot šā panta sestajā daļā minēto gadījumu):
+1) iepirkuma procedūras dokumentos noteiktajā piedāvājuma nodrošinājuma spēkā esības minimālajā termiņā;
+2) ja iepirkuma procedūras dokumentos ir noteikts, ka pretendents, kuram piešķirtas iepirkuma līguma slēgšanas tiesības, pēc iepirkuma līguma noslēgšanas iesniedz saistību izpildes nodrošinājumu, - līdz dienai, kad izraudzītais pretendents iesniedz šādu saistību izpildes nodrošinājumu;
+3) līdz iepirkuma līguma noslēgšanai.
+(6) Nodrošinājuma devējs izmaksā sabiedrisko pakalpojumu sniedzējam vai sabiedrisko pakalpojumu sniedzējs ietur pretendenta iemaksāto piedāvājuma nodrošinājuma summu, ja:
+1) pretendents atsauc savu piedāvājumu, kamēr ir spēkā piedāvājuma nodrošinājums;
+2) pretendents, kuram piešķirtas iepirkuma līguma slēgšanas tiesības, sabiedrisko pakalpojumu sniedzēja noteiktajā termiņā nav iesniedzis tam iepirkuma procedūras dokumentos un iepirkuma līgumā paredzēto saistību izpildes nodrošinājumu;
+3) pretendents, kuram piešķirtas iepirkuma līguma slēgšanas tiesības, neparaksta iepirkuma līgumu vai vispārīgo vienošanos sabiedrisko pakalpojumu sniedzēja noteiktajā termiņā.

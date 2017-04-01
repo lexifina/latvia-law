@@ -1,0 +1,1 @@
+5. Iepirkumu uzraudzības birojs publikāciju vadības sistēmā publicē šā likuma 87. panta trešajā daļā minēto informāciju par visiem lēmumiem administratīvo pārkāpumu lietās publisko iepirkumu un publiskās un privātās partnerības jomā, kurās piemērots aizliegums ieņemt valsts amatpersonas amatus, kuri ir stājušies spēkā un kuru izpilde nav beigusies.

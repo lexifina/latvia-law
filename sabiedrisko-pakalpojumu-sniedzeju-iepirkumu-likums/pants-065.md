@@ -1,0 +1,29 @@
+65. pants. Iepirkuma līgums
+(1) Iepirkuma līgums nosaka tiesiskās attiecības starp sabiedrisko pakalpojumu sniedzēju vai sabiedrisko pakalpojumu sniedzējiem un piegādātāju vai piegādātājiem. Iepirkuma līgums var noteikt tiesiskās attiecības starp sabiedrisko pakalpojumu sniedzēju vai sabiedrisko pakalpojumu sniedzējiem un piegādātāju vai piegādātājiem un apakšuzņēmējiem.
+(2) Sabiedrisko pakalpojumu sniedzējs, sagatavojot iepirkuma līgumu, ņem vērā normatīvo aktu prasības attiecībā uz iepirkuma līguma priekšmetā iekļautajiem būvdarbiem, piegādēm un pakalpojumiem un iepirkuma līgumā norāda:
+1) sabiedrisko pakalpojumu sniedzēja nosaukumu;
+2) piegādātāja nosaukumu;
+3) iepirkuma līguma priekšmetu, tā apjomu, kvalitātes prasības un citu nepieciešamo informāciju;
+4) līgumcenu un tās samaksas kārtību, kā arī, ja sabiedrisko pakalpojumu sniedzējs paredzējis, maksājumu kārtību apakšuzņēmējiem šā likuma 68. pantā minētajā kārtībā;
+5) iepirkuma līguma izpildes termiņu, vietu un nosacījumus;
+6) līgumslēdzēju pušu samērīgu atbildību par radītajiem zaudējumiem un iepirkuma līguma neizpildīšanu;
+7) kārtību piedāvājumā norādīto apakšuzņēmēju un personāla nomaiņai un jaunu apakšuzņēmēju un personāla piesaistei atbilstoši šā likuma 68. pantam;
+8) iepirkuma līguma grozīšanas kārtību un kārtību, kādā pieļaujama atkāpšanās no iepirkuma līguma;
+9) citus noteikumus.
+(3) Sabiedrisko pakalpojumu sniedzējs ir tiesīgs paredzēt speciālus iepirkuma līguma izpildes noteikumus galvenokārt saistībā ar ekonomiskiem un sociāliem apstākļiem, inovācijām vai vides aizsardzības prasībām, ievērojot nosacījumu, ka šie noteikumi nav pretrunā ar nacionālajiem normatīvajiem aktiem vai Eiropas Savienības tieši piemērojamiem normatīvajiem aktiem un ir norādīti tehniskajās specifikācijās vai paziņojumā par līgumu, vai iepirkuma procedūras dokumentos un ir saistīti ar attiecīgā iepirkuma līguma priekšmetu. Sabiedrisko pakalpojumu sniedzējs iepirkuma līguma sagatavošanā var izmantot nozaru ekspertu vai organizāciju izstrādātas vadlīnijas iepirkumu veikšanai un līgumu slēgšanai, kā arī standartlīgumus. Slēdzot iepirkuma līgumu, tiek nodrošināta samērīga līgumslēdzēju pušu tiesību un tiesisko interešu ievērošana.
+(4) Iepirkuma līgumu slēdz uz laiku, ne ilgāku par pieciem gadiem. Sabiedrisko pakalpojumu sniedzējs ir tiesīgs noslēgt iepirkuma līgumu uz ilgāku laiku, ja pastāv kāds no šādiem nosacījumiem:
+1) tas ir paredzēts citā likumā;
+2) tas ir būtiski nepieciešams iepirkuma līguma izpildes nodrošināšanai ar iepirkuma līguma priekšmetu tieši saistītu tehnisku vai ekonomisku apstākļu dēļ. Šajā gadījumā pirms iepirkuma uzsākšanas sabiedrisko pakalpojumu sniedzējam, kas ir tiešās pārvaldes iestāde, nepieciešams saņemt Ministru kabineta atļauju, bet sabiedrisko pakalpojumu sniedzējam, kas ir pastarpinātās pārvaldes iestāde, - attiecīgās atvasinātas publiskās personas orgāna atļauju.
+(5) Šā panta ceturtajā daļā minētajos gadījumos sabiedrisko pakalpojumu sniedzējs paziņojumā par līguma slēgšanas tiesību piešķiršanu norāda pamatojumu tādu apstākļu esībai, kuri dod tiesības iepirkuma līgumu noslēgt uz ilgāku laiku.
+(6) Iepirkuma līgumu vai vispārīgo vienošanos slēdz ne agrāk kā nākamajā darbdienā pēc nogaidīšanas termiņa beigām, ja Iepirkumu uzraudzības birojam nav šā likuma 72. pantā noteiktajā kārtībā iesniegts iesniegums par iepirkuma procedūras pārkāpumiem.
+(7) Šā panta sestajā daļā minētais nogaidīšanas termiņš ir:
+1) 10 dienas pēc dienas, kad šā likuma 37. panta otrajā daļā minētā informācija visiem pretendentiem nosūtīta elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, vai nodota personiski, un papildus viena darbdiena;
+2) 15 dienas pēc šā likuma 37. panta otrajā daļā minētās informācijas nosūtīšanas dienas, ja kaut vienam pretendentam tā nosūtīta pa pastu, un papildus viena darbdiena.
+(8) Ja šā panta septītās daļas 1. punktā minētā desmitā diena un 2. punktā minētā piecpadsmitā diena ir sestdiena, svētdiena vai likumā noteikta svētku diena, nogaidīšanas termiņš pagarināms par vienu darbdienu.
+(9) Iepirkuma līgumu vai vispārīgo vienošanos var slēgt, neievērojot šā panta sesto daļu, ja:
+1) vienīgajam pretendentam ir piešķirtas iepirkuma līguma slēgšanas tiesības un nav kandidātu, kas būtu tiesīgi iesniegt iesniegumu šā likuma 72. pantā noteiktajā kārtībā;
+2) tiek rīkots šā likuma 2. pielikumā minēto sociālo un citu īpašu pakalpojumu iepirkums sabiedrisko pakalpojumu sniedzējam neparedzamu ārkārtas apstākļu dēļ;
+3) tiek piemērota sarunu procedūra, nepublicējot dalības uzaicinājumu;
+4) iepirkuma līgumu slēdz vispārīgās vienošanās ietvaros saskaņā ar šā likuma 61. vai 63. pantu;
+5) iepirkuma līgumu slēdz dinamiskās iepirkumu sistēmas ietvaros saskaņā ar šā likuma 62. pantu.
+(10) Ne vēlāk kā 10 darbdienu laikā pēc dienas, kad stājies spēkā iepirkuma līgums vai tā grozījumi, sabiedrisko pakalpojumu sniedzējs savā pircēja profilā ievieto attiecīgi iepirkuma līguma tekstu, vispārīgās vienošanās tekstu, uz vispārīgās vienošanās pamata noslēgta iepirkuma līguma tekstu, ja līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka, vai iepirkuma līguma grozījumu tekstu un šā likuma 66. panta otrajā un trešajā daļā minēto iepirkuma līguma grozījumu pamatojumu, atbilstoši normatīvajos aktos noteiktajai kārtībai ievērojot komercnoslēpuma aizsardzības prasības. Iepirkuma līguma un tā grozījumu teksts ir pieejams pircēja profilā visā iepirkuma līguma darbības laikā, bet ne mazāk kā 36 mēnešus pēc iepirkuma līguma spēkā stāšanās dienas.

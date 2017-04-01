@@ -1,0 +1,19 @@
+11. pants. Pasūtītāju savstarpēji iepirkuma līgumi
+(1) Šo likumu nepiemēro tādas personas veiktajiem būvdarbiem, piegādēm vai sniegtajiem pakalpojumiem, kura atbilst visām šādām pazīmēm:
+1) tā atrodas tādā pasūtītāja kontrolē, kas izpaužas kā tiesības ietekmēt kontrolētās personas darbības stratēģiskos mērķus un lēmumus, vai tādas personas kontrolē, kuru minētajā veidā kontrolē pasūtītājs;
+2) vairāk nekā 80 procentus no tās darbībām veido konkrētu uzdevumu izpilde kontrolējošā pasūtītāja vai citu minētā pasūtītāja kontrolēto personu interesēs;
+3) tajā nav tiešas privātā kapitāla līdzdalības, izņemot tādu privātā kapitāla līdzdalības veidu, kas atbilstoši komerctiesības regulējošiem normatīvajiem aktiem un Līgumam par Eiropas Savienības darbību neietver tiesības ietekmēt un kontrolēt šīs personas lēmumus un kam nav izšķirošas ietekmes uz to.
+(2) Šo likumu nepiemēro, ja šā panta pirmās daļas pazīmēm atbilstoša kontrolētā persona, kas vienlaikus ir arī pasūtītājs, piešķir iepirkuma līguma slēgšanas tiesības to kontrolējošam pasūtītājam vai citai personai, kura atrodas kontrolējošā pasūtītāja kontrolē šā panta pirmās daļas 1. punkta izpratnē, ja personā, kurai tiek piešķirtas iepirkuma līguma slēgšanas tiesības, nav tiešas privātā kapitāla līdzdalības, izņemot tādu privātā kapitāla līdzdalības veidu, kas atbilstoši komerctiesības regulējošiem normatīvajiem aktiem un Līgumam par Eiropas Savienības darbību neietver tiesības ietekmēt un kontrolēt šīs personas lēmumus un kam nav izšķirošas ietekmes uz to.
+(3) Šo likumu nepiemēro tādas personas veiktajiem būvdarbiem, piegādēm vai sniegtajiem pakalpojumiem, kura atbilst visām šādām pazīmēm:
+1) tā atrodas tādā vairāku pasūtītāju kopīgā kontrolē, kas izpaužas kā tiesības ietekmēt kontrolētās personas darbības stratēģiskos mērķus un lēmumus;
+2) vairāk nekā 80 procentus no tās darbībām veido konkrētu uzdevumu izpilde kopīgi kontrolējošo pasūtītāju vai citu minēto pasūtītāju kontrolēto personu interesēs;
+3) tajā nav tiešas privātā kapitāla līdzdalības, izņemot tādu privātā kapitāla līdzdalības veidu, kas atbilstoši komerctiesības regulējošiem normatīvajiem aktiem un Līgumam par Eiropas Savienības darbību neietver tiesības ietekmēt un kontrolēt šīs personas lēmumus un kam nav izšķirošas ietekmes uz to.
+(4) Šā panta trešās daļas izpratnē persona atrodas vairāku pasūtītāju kopīgā kontrolē, ja:
+1) kontrolētās personas pārvaldes institūciju sastāvā ir visu pasūtītāju pārstāvji (daži pārstāvji var pārstāvēt vairākus vai visus iesaistītos pasūtītājus);
+2) visiem pasūtītājiem kopīgi ir tiesības ietekmēt kontrolētās personas darbības stratēģiskos mērķus un lēmumus;
+3) kontrolētā persona darbojas pasūtītāju interesēs.
+(5) Šo likumu nepiemēro iepirkuma līgumiem, kas noslēgti starp diviem vai vairākiem pasūtītājiem, ja ir ievēroti visi šādi nosacījumi:
+1) ar iepirkuma līgumu tiek izveidota vai īstenota pasūtītāju sadarbība to kompetencē esošu publisku pakalpojumu nodrošināšanā;
+2) sadarbība tiek īstenota sabiedrības interesēs;
+3) iesaistīto pasūtītāju atvērtā tirgū sniegto publisku pakalpojumu, kuru nodrošināšanai īsteno sadarbību, daļa ir mazāka par 20 procentiem.
+(6) Lai noteiktu šā panta pirmās daļas 2. punktā, trešās daļas 2. punktā un piektās daļas 3. punktā minēto darbību procentuālo apjomu, ņem vērā vidējo finanšu apgrozījumu vai kādu citu ar attiecīgo darbību saistītu rādītāju (piemēram, kontrolētās personas vai pasūtītāja pakalpojumu, piegāžu un būvdarbu izmaksas) par pēdējiem trim gadiem pirms iepirkuma līguma slēgšanas tiesību piešķiršanas. Ja kontrolētā persona vai pasūtītājs ir izveidots vai uzsācis darbību pēc minētā termiņa vai tā reorganizācijas dēļ dati par finanšu apgrozījumu vai ar tā darbību saistītie rādītāji nav pieejami vai arī vairs nav aktuāli, darbības procentuālo apjomu var pierādīt, izmantojot komercdarbības prognozēšanas metodes.

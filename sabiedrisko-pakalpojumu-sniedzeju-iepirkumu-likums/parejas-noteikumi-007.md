@@ -1,0 +1,1 @@
+7. Statistikas pārskatus par 2016. gadu sabiedrisko pakalpojumu sniedzēji iesniedz, piemērojot Ministru kabineta 2016. gada 1. marta noteikumus Nr. 121 "Noteikumi par oficiālās statistikas veidlapu paraugiem iepirkumu jomā un veidlapu iesniegšanas un aizpildīšanas kārtību".

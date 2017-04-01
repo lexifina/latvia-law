@@ -1,0 +1,9 @@
+36. pants. Dalības uzaicinājums
+(1) Būvdarbu, piegādes un pakalpojuma līguma gadījumā sabiedrisko pakalpojumu sniedzējs piegādātājus uzaicina piedalīties iepirkuma procedūrā, izmantojot kādu no šādiem paziņojumiem:
+1) periodisku informatīvu paziņojumu;
+2) paziņojumu par kvalifikācijas sistēmu;
+3) paziņojumu par līgumu.
+(2) Ja iepirkums izsludināts, sniedzot periodisku informatīvu paziņojumu saskaņā ar šā likuma 31. pantu, un iepirkuma līguma slēgšanas tiesības piešķir slēgtā konkursā vai sarunu procedūrā, kandidātus, kas izteikuši savu ieinteresētību pēc periodiska informatīva paziņojuma publicēšanas, sabiedrisko pakalpojumu sniedzējs aicina rakstveidā apstiprināt šo ieinteresētību.
+(3) Ja sabiedrisko pakalpojumu sniedzējs dalības uzaicinājumu ietver periodiskā informatīvā paziņojumā, tas šajā paziņojumā atsaucas tieši uz tiem būvdarbiem, piegādēm vai pakalpojumiem, kas būs paredzamā iepirkuma līguma priekšmets, un norāda, ka iepirkuma līgumu slēgs slēgta konkursa vai sarunu procedūras rezultātā bez turpmāka dalības uzaicinājuma, kā arī lūdz ieinteresētos piegādātājus rakstveidā iesniegt savu pieteikumu. Šādu periodisku informatīvu paziņojumu publicē saskaņā ar šā likuma 40. panta otro daļu ne agrāk kā 12 mēnešus pirms uzaicinājuma iesniegt piedāvājumu slēgtā konkursā vai uzaicinājuma piedalīties sarunu procedūrā, ievērojot šā likuma 41. pantā minētos piedāvājumu iesniegšanas termiņus.
+(4) Ja sabiedrisko pakalpojumu sniedzējs piemēro atklātu vai slēgtu konkursu, sarunu procedūru, publicējot dalības uzaicinājumu, inovācijas partnerības procedūru vai konkursa dialogu vai plāno izveidot dinamisko iepirkumu sistēmu, tas publicē paziņojumu par līgumu.
+(5) Ja sabiedrisko pakalpojumu sniedzējs izdara grozījumus iepirkuma procedūras dokumentos vai iepirkuma dokumentos šā likuma 13. panta piektās daļas kārtībā vai pagarina noteiktos pieteikumu vai piedāvājumu iesniegšanas termiņus, tas publicē paziņojumu par izmaiņām vai papildu informāciju.

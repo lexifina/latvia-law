@@ -1,0 +1,6 @@
+85. pants. Prasības iesniegšana Eiropas Komisijai
+(1) Lai piemērotu šā likuma 10. panta pirmās daļas 14. punktu:
+1) nozares atbildīgā ministrija ir tiesīga pieņemt lēmumu par to, ka konkrēta šā likuma 3., 4., 5., 6. vai 7. pantā minētā darbība Latvijā tiek veikta brīvas konkurences apstākļos. Par pieņemto lēmumu attiecīgā ministrija paziņo Eiropas Komisijai, prasot izvērtēt un atzīt, ka konkrēta šā likuma 3., 4., 5., 6. vai 7. pantā minētā darbība Latvijā tiek veikta brīvas konkurences apstākļos;
+2) sabiedrisko pakalpojumu sniedzējs ir tiesīgs iesniegt Eiropas Komisijai prasību, lai tā atzīst, ka konkrēta šā likuma 3., 4., 5., 6. vai 7. pantā minētā darbība Latvijā tiek veikta brīvas konkurences apstākļos.
+(2) Kritērijus, pēc kādiem nozares atbildīgā ministrija vai sabiedrisko pakalpojumu sniedzējs izvērtē, vai konkrēta šā likuma 3., 4., 5., 6. vai 7. pantā minētā darbība Latvijā tiek veikta brīvas konkurences apstākļos, kā arī šā panta pirmajā daļā minēto prasību saturu un kārtību, kādā tās tiek iesniegtas Eiropas Komisijai, nosaka Ministru kabinets.
+(3) Ja prasības izskatīšanas laikā tiek iesniegta jauna prasība par to pašu priekšmetu, tā tiek izskatīta vienlaikus ar iepriekš iesniegto prasību vienas procedūras ietvaros.

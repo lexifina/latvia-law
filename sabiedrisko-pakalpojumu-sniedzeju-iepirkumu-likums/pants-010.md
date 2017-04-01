@@ -1,0 +1,31 @@
+10. pants. Likuma piemērošanas izņēmumi
+(1) Šo likumu nepiemēro, ja sabiedrisko pakalpojumu sniedzējs slēdz līgumu par:
+1) būvdarbiem, piegādēm vai pakalpojumiem un šā sabiedrisko pakalpojumu sniedzēja mērķis ir iepirkuma līguma priekšmetu pārdot vai iznomāt trešajām personām, ievērojot nosacījumu, ka sabiedrisko pakalpojumu sniedzējam nav īpašu tiesību vai izņēmuma tiesību pārdot vai iznomāt šādu iepirkuma līguma priekšmetu un ka citi privāto tiesību subjekti ir tiesīgi to pārdot vai iznomāt atbilstoši tādiem pašiem nosacījumiem, kādi attiecas uz sabiedrisko pakalpojumu sniedzēju. Sabiedrisko pakalpojumu sniedzējs pēc Eiropas Komisijas pieprasījuma informē to par visām produktu vai darbību kategorijām, uz kurām attiecina šo izņēmumu;
+2) iepirkuma līguma priekšmetu, kura mērķis nav šā likuma 3., 4., 5., 6. vai 7. pantā minēto darbību nodrošināšana vai kura mērķis ir veikt šīs darbības valstī, kas nav Eiropas Savienības dalībvalsts, ievērojot nosacījumu, ka šim mērķim netiek izmantota Eiropas Savienības infrastruktūra vai Eiropas Savienībā ietilpstoša teritorija, kā arī par metu konkursiem, kurus organizē minētajiem nolūkiem. Sabiedrisko pakalpojumu sniedzējs pēc Eiropas Komisijas pieprasījuma informē to par visām darbībām, uz kurām attiecina šo izņēmumu;
+3) zemes, esošās būves vai cita nekustamā īpašuma pirkšanu vai nomu vai citu tiesību iegūšanu uz šādu nekustamo īpašumu ar jebkuriem finanšu līdzekļiem;
+4) līgumiem par raidlaiku vai raidījumu nodrošināšanu, kuru slēgšanas tiesības piešķir elektroniskajiem plašsaziņas līdzekļiem;
+5) šķīrējtiesu pakalpojumiem un pakalpojumiem, ko sniedz pušu samierināšanai;
+6) dokumentu apliecināšanas pakalpojumiem, ko sniedz notāri;
+7) juridiskajiem pakalpojumiem, kuru sniedzējus ieceļ tiesas vai kuru sniedzējiem ārējos normatīvajos aktos uzdots tiesu uzraudzībā veikt noteiktus uzdevumus;
+8) juridiskajiem pakalpojumiem, kas saistīti ar valsts varas īstenošanu;
+9) finanšu pakalpojumiem, kas saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pirkšanu, pārdošanu vai nodošanu, un darbībām, ko veic ar Eiropas Finanšu stabilitātes instrumenta un Eiropas stabilizācijas mehānisma palīdzību;
+10) aizņēmumiem - neatkarīgi no tā, vai tie ir vai nav saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pirkšanu, pārdošanu vai nodošanu;
+11) fizisko personu pakalpojumiem saskaņā ar darba līgumiem;
+12) sabiedriskā transporta pakalpojumiem pa dzelzceļu vai metro;
+13) pakalpojumiem civilās aizsardzības, civilās drošības un katastrofu novēršanas jomā, kurus sniedz biedrības, nodibinājumi vai apvienības un uz kuriem attiecas kāds no šiem CPV kodiem: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75252000-7, 75222000-8, 98113100-9 un 85143000-3, izņemot ar pacientu transportēšanu saistītus neatliekamās medicīniskās palīdzības pakalpojumus;
+14) iepirkuma līguma priekšmetu, kura mērķis ir šā likuma 3., 4., 5., 6. vai 7. pantā minētās darbības nodrošināšana, ja saskaņā ar šā likuma XVI nodaļā minēto kārtību atzīts, ka šāda darbība tiek veikta brīvas konkurences apstākļos;
+15) ūdens piegādi, ievērojot nosacījumu, ka sabiedrisko pakalpojumu sniedzējs nodrošina vai apsaimnieko publiskās lietošanas dzeramā ūdens iegūšanas, transportēšanas vai sadales tīklus vai piegādā dzeramo ūdeni šādiem tīkliem;
+16) enerģijas piegādi vai kurināmā piegādi enerģijas ražošanai, ievērojot nosacījumu, ka sabiedrisko pakalpojumu sniedzējs nodrošina vai apsaimnieko publiskās lietošanas gāzes, siltumenerģijas vai elektroenerģijas ražošanas, transportēšanas vai sadales tīklus vai piegādā gāzi, siltumenerģiju vai elektroenerģiju šādiem tīkliem, vai izmanto noteiktu teritoriju naftas, gāzes vai cietā kurināmā meklēšanai vai iegūšanai;
+17) pakalpojumiem, kurus sniedz pasūtītājs, kam saskaņā ar ārējiem normatīvajiem aktiem ir izņēmuma tiesības sniegt attiecīgo pakalpojumu.
+(2) Šo likumu piemēro tikai pakalpojuma līgumiem par pētniecības un izstrādes pakalpojumiem, kuru CPV kods ir no 73000000-2 līdz 73120000-9, 73300000-5, 73420000-2 un 73430000-5, ja vienlaikus pastāv šādi nosacījumi:
+1) labumu no sniegtā pakalpojuma rezultātiem gūs tikai sabiedrisko pakalpojumu sniedzējs, kas šos rezultātus izmantos vienīgi savām vajadzībām;
+2) sabiedrisko pakalpojumu sniedzējs pilnībā samaksās par sniegto pakalpojumu.
+(3) Šo likumu nepiemēro, ja līgumu slēdz vai metu konkursu organizē atbilstoši citiem procedūru noteikumiem un līguma slēgšanas tiesības piešķir:
+1) saskaņā ar starptautisku nolīgumu, ko atbilstoši Eiropas Savienības normatīvajiem aktiem noslēgusi Eiropas Savienības dalībvalsts ar vienu vai vairākām valstīm, kuras nav Eiropas Savienības dalībvalstis, vai to daļām par būvdarbiem, piegādēm vai pakalpojumiem sakarā ar nolīgumu parakstījušo valstu piedalīšanos kāda kopīga pasākuma īstenošanā vai tā rezultātu izmantošanā. Sabiedrisko pakalpojumu sniedzējs par visiem šādiem nolīgumiem paziņo Eiropas Komisijai;
+2) saskaņā ar kādas starptautiskas organizācijas īpašu procedūru;
+3) saskaņā ar kādas starptautiskas organizācijas vai starptautiskas finanšu iestādes īpašu procedūru, ja attiecīgo iepirkumu pilnībā finansē attiecīgā organizācija vai iestāde. Ja attiecīgā organizācija vai iestāde iepirkumu finansē vismaz 50 procentu apmērā, puses var vienoties par to, kuras iepirkuma procedūras ir piemērojamas;
+4) saskaņā ar starptautisku nolīgumu, kas saistīts ar karaspēka izvietošanu un attiecas uz Eiropas Savienības dalībvalsts uzņēmumiem vai tādas valsts uzņēmumiem, kura nav Eiropas Savienības dalībvalsts.
+(4) Šo likumu nepiemēro, ja:
+1) Ministru kabinets saskaņā ar ārējiem normatīvajiem aktiem informāciju par līgumu vai tā izpildi atzinis par valsts noslēpumu;
+2) tā piemērošana var radīt kaitējumu būtisku valsts drošības interešu aizsardzībai. Par būtisku valsts drošības interešu aizsardzību katrā konkrētajā gadījumā lemj Ministru kabinets. Šā izņēmuma piemērošanas pamats nav nedz steidzamība, nedz arī aizsargājama informācija pati par sevi, ja tās aizsardzību var nodrošināt iepirkuma procedūrās saskaņā ar šo likumu vai Aizsardzības un drošības jomas iepirkumu likumu.
+(5) Šo likumu nepiemēro būvdarbiem, piegādēm un pakalpojumiem, kas atbilst Aizsardzības un drošības jomas iepirkumu likuma 3. pantam.
