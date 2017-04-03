@@ -1,0 +1,3 @@
+3. pants. Reģistra pārzinis, turētājs un reģistra uzdevumi
+(1) Gaisa kuģu pasažieru datu reģistrs (turpmāk - reģistrs) ir valsts informācijas sistēma, kuras pārzinis un turētājs ir Drošības policija. Iekšlietu ministrijas Informācijas centrs nodrošina reģistra tehnisko resursu funkcionalitāti.
+(2) Reģistrs nodrošina iestādēm iespēju saņemt tajā iekļautos pasažieru datus, kas nepieciešami terorisma, smagu vai sevišķi smagu noziegumu novēršanai, atklāšanai, kā arī valsts drošības apdraudējumu novēršanai.

@@ -1,0 +1,2 @@
+15. pants. Pasažieru datu izsniegšanas pamats
+Pasažieru informācijas nodaļa var izsniegt ārvalstij pasažieru datus no reģistra, ja ir pamats uzskatīt, ka tie var palīdzēt ārvalstij novērst vai atklāt terorismu, smagu vai sevišķi smagu noziegumu vai novērst valsts drošības apdraudējumu. Pasažieru datus no reģistra pēc ārvalsts kompetentās iestādes pieprasījuma var izsniegt ar tiesneša piekrišanu, izņemot šā likuma 14. panta pirmajā daļā minēto gadījumu.
