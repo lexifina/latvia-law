@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2017.gada 9.marta lēmums Nr.1/6 “Noteikumi par informāciju elektroenerģijas un dabasgāzes galalietotājiem”",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": "Obsolete",
+  "official_journal_reference": "Nr.1/6",
+  "official_journal_page": null,
+  "official_journal_date": "2017-03-09",
+  "entry_into_force": "2017-04-03",
+  "notification_date": "2017-08-11",
+  "commission_reference": "MNE(2017)54613",
+  "nim_celex": "72009L0072LVA_250157",
+  "nim_id": "250157",
+  "transposes_celex": [
+    "32009L0072"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9bb9730f-ae99-4464-958f-de56709a1655",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
