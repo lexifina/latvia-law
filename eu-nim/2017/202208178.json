@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 7.februāra noteikumiem Nr.78 “Dabasgāzes tirdzniecības un lietošanas noteikumi",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/44.2",
+  "official_journal_page": null,
+  "official_journal_date": "2017-02-28",
+  "entry_into_force": "2017-04-03",
+  "notification_date": "2022-12-23",
+  "commission_reference": "MNE(2022)08178",
+  "nim_celex": "72018L2002LVA_202208178",
+  "nim_id": "202208178",
+  "transposes_celex": [
+    "32018L2002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/caabb867-1e7c-4ad8-898c-fc938649132a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
