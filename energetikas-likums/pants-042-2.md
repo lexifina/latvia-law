@@ -1,3 +1,4 @@
-42.²pants
-(1) Dabasgāzes piegādei enerģijas lietotājs ir tiesīgs par saviem līdzekļiem ierīkot un izmantot tiešo līniju, kas neietilpst dabasgāzes apgādes sistēmā, no jebkuras savstarpēji savienotas sistēmas. Izbūvējot un ekspluatējot tiešo līniju, jāievēro tās pašas prasības, kas noteiktas šā likuma 15.panta septītajā daļā minētajos regulatora apstiprinātajos sistēmas lietošanas noteikumos vai dabasgāzes krātuves lietošanas noteikumos.
-(2) Energoapgādes komersanti var veikt piegādes visiem dabasgāzes lietotājiem, izņemot saistītos lietotājus, izmantojot tiešās līnijas. Kritērijus un kārtību, kādā tiek ierīkotas un lietotas tiešās līnijas, nosaka regulators. Tiešās līnijas ierīkošanai nepieciešama regulatora atļauja.
+42.² pants
+(1) Dabasgāzes ražotājs, dabasgāzes uzglabāšanas sistēmas operators un dabasgāzes lietotājs ir tiesīgs par saviem līdzekļiem ierīkot un izmantot tiešo līniju.
+(2) Kritērijus un kārtību, kādā tiek ierīkotas un lietotas tiešās līnijas, nosaka regulators. Tiešās līnijas ierīkošanai nepieciešama regulatora atļauja.
+(3) Atļauju tiešās līnijas ierīkošanai regulators izsniedz vai atsakās izsniegt 30 dienu laikā pēc visu paša pieprasīto dokumentu saņemšanas.

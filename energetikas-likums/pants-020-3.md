@@ -1,0 +1,9 @@
+20.³ pants
+(1) Valstij ir pirmpirkuma tiesības, ja:
+1) persona, kurai pieder daļas vai akcijas komersantā, kas ir vienotās dabasgāzes pārvades un uzglabāšanas sistēmas īpašnieks vai vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators, atsavina vairāk nekā vienu procentu vienotā dabasgāzes pārvades un uzglabāšanas sistēmas īpašnieka vai vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora daļu vai akciju;
+2) komersants, kam pieder dabasgāzes pārvades sistēma vai jebkāda tās daļa, vai pazemes dabasgāzes krātuves daļa (izņemot šā likuma 20.pantā noteikto pazemes dabasgāzes krātuves pazemes daļu), atsavina dabasgāzes pārvades sistēmu vai jebkādu tās daļu, vai zemesgabalus, uz kuriem atrodas pazemes dabasgāzes krātuves darbības nodrošināšanai nepieciešamās ēkas, būves un tehnoloģiskās iekārtas, kā arī tehnoloģiskās iekārtas, kuras nodrošina pazemes dabasgāzes krātuves darbību vai bufergāzi.
+(2) Šā panta pirmajā daļā minētajos gadījumos atsavinātājs iesniedz Ministru kabinetam piedāvājumu izmantot pirmpirkuma tiesības.
+(3) Ministru kabinets 30 darbdienu laikā no šā panta otrajā daļā minētā piedāvājuma saņemšanas dienas pieņem lēmumu par pirmpirkuma tiesību izmantošanu un divu nedēļu laikā no lēmuma pieņemšanas dienas informē par to piedāvājuma iesniedzēju.
+(4) Ja Ministru kabinets lēmis atteikties no pirmpirkuma tiesībām, tas lūdz Satversmes aizsardzības biroja un Drošības policijas atzinumu par personas, kura noslēgusi pirkuma līgumu, un darījuma atbilstību un ietekmi uz nacionālo drošību. Satversmes aizsardzības birojs un Drošības policija atzinumu par personas un darījuma atbilstību un ietekmi uz nacionālo drošību sniedz mēneša laikā.
+(5) Ministru kabinets izvērtē šā panta ceturtajā daļā minētos atzinumus un ne vēlāk kā mēneša laikā no to saņemšanas dienas pieņem lēmumu par darījuma akceptu vai atteikumu akceptēt darījumu.
+(6) Darījums stājas spēkā, ja Ministru kabinets pieņēmis lēmumu par tā akceptu.
