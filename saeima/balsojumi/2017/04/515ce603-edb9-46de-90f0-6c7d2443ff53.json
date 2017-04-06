@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada ziemas sesija",
+ "sede": 25,
+ "datums": "2017-04-06",
+ "ieraksts": {
+  "dkp_id": "fd94d7a0-95bc-43fc-96c8-2fa9deb8176c",
+  "lastmodtime": "\"AAAAAAFtfm4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Dzintars#Ivans#Einārs#Jānis#Mihails#Andris#Artis#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Armands#Valdis#Arvīds#Veiko#Hosams#Jānis#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Andrejs#Juris#Ringolds#Inguna#Romāns#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ilze#Valters#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Mārtiņš#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Jānis#Sergejs#Aivars#Aija#Mārtiņš#Igors#Artūrs#Janīna#Vilnis#Edvards#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Zaķis#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Bērziņš#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Krauze#Skujiņš#Platpers#Spolītis#Abu Meri#Ādamsons#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Elksniņš#Vectirāns#Balodis#Rībena#Mežeckis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Viņķele#Dambe#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Bondars#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Tutins#Potapkins#Meija#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Ķirsis#Smiltēns#Ņikiforovs",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #ZZS#ZZS#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#ZZS#ZZS#NSL#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#SASKAŅA #ZZS#NSL#VL-TB/LNNK#NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#SASKAŅA #SASKAŅA #NSL#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA ",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.04.2017 09:22:05",
+  "VOTEMOTIVE": "Grozījumi Korupcijas novēršanas un apkarošanas biroja amatpersonu izdienas pensiju likumā (869/Lp12), nodošana komisijām",
+  "VOTING_ID": "515ce603-edb9-46de-90f0-6c7d2443ff53",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "72",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada ziemas sesija-25-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1ddf99d6-452e-436a-819d-a43dd41a778e/download/12.saeimas-2017.gada-ziemas-sesija-25-vote.xml",
+  "sha256": "778429c91dab9be24c38414a9bd5b7e2f5217c4bc169d4283add5983900e1090",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
