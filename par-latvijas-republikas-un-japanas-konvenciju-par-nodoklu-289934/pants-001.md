@@ -1,0 +1,1 @@
+1. pants. 2017. gada 18. janvārī parakstītā Latvijas Republikas un Japānas konvencija par nodokļu dubultās uzlikšanas attiecībā uz ienākuma nodokļiem, ļaunprātīgas izvairīšanās no nodokļu maksāšanas un nodokļu nemaksāšanas novēršanu (turpmāk - Konvencija) un tās 2017. gada 18. janvārī parakstītais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
