@@ -1,0 +1,12 @@
+5. pants. Informācijas pieprasīšana tīkla operatoram
+(1) Elektronisko sakaru komersants nolūkā ierīkot vai būvēt ātrdarbīgu elektronisko sakaru tīklu rakstveidā pieprasa tīkla operatoram šā likuma 4. panta pirmajā daļā minēto informāciju, ja tā nav pieejama Apgrūtināto teritoriju informācijas sistēmā.
+(2) Tīkla operatoram ir pienākums sniegt informāciju, atbildot uz šā panta pirmajā daļā minēto pieprasījumu. Ja par informācijas sagatavošanu tīkla operators nosaka maksu, tai jābūt objektīvi pamatotai un uz izmaksām balstītai.
+(3) Elektronisko sakaru komersants nolūkā apspriest vienošanos par fiziskās infrastruktūras būvdarbu koordinēšanu tīkla operatoram rakstveidā pieprasa informāciju par:
+1) fiziskās infrastruktūras būvdarbiem, tai skaitā par tādiem fiziskās infrastruktūras būvdarbiem, kurus plānots veikt, izmantojot valsts vai pašvaldības finansējumu;
+2) fiziskās infrastruktūras būvdarbiem, par kuriem būvniecības ieceres iesniegumu plānots iesniegt sešu mēnešu laikā no dienas, kad rakstveida pieprasījums iesniegts tīkla operatoram.
+(4) Šā panta pirmajā un trešajā daļā minētajā rakstveida pieprasījumā elektronisko sakaru komersants pamato informācijas nepieciešamību un norāda teritoriju, kurā paredzēts ierīkot vai būvēt ātrdarbīgu elektronisko sakaru tīklu.
+(5) Tīkla operators, sniedzot elektronisko sakaru komersantam atbildi par fiziskās infrastruktūras būvdarbiem, par kuriem būvniecības ieceres iesniegumu plānots iesniegt nākamo sešu mēnešu laikā, vienlaikus nosūta Būvniecības informācijas sistēmas pārzinim informāciju par plānotās būvniecības vietu, veidu, būves nosaukumu, plānoto būvniecības ieceres iesnieguma iesniegšanas mēnesi un kontaktinformāciju. Informāciju par plānoto būvniecības ieceri publicē Būvniecības informācijas sistēmā, un tā ir publiski pieejama.
+(6) Tīkla operators var noraidīt šā panta pirmajā vai trešajā daļā minēto informācijas pieprasījumu, ja pieprasījumā nav norādīta šā panta ceturtajā daļā minētā informācija vai informācija ir pieejama vienotajā informācijas punktā. Ja informācija ir pieejama citā publiskā tīmekļvietnē, tīkla operators atbildē norāda, kur pieprasītā informācija atrodama.
+(7) Tīkla operators sniedz atbildi divu mēnešu laikā no šā panta pirmajā daļā minētā informācijas pieprasījuma saņemšanas dienas.
+(8) Tīkla operators sniedz atbildi divu nedēļu laikā no šā panta trešajā daļā minētā informācijas pieprasījuma saņemšanas dienas.
+(9) Ja nepieciešams, tīkla operators un elektronisko sakaru komersants savstarpēji vienojas par informācijas izmantošanas nosacījumiem.
