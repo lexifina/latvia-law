@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Apgrūtināto teritoriju informācijas sistēmas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-05",
+  "entry_into_force": "2017-04-19",
+  "notification_date": "2017-04-06",
+  "commission_reference": "MNE(2017)52075",
+  "nim_celex": "72014L0061LVA_246768",
+  "nim_id": "246768",
+  "transposes_celex": [
+    "32014L0061"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16f8537c-7231-4f46-be9e-311ac0f30426",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
