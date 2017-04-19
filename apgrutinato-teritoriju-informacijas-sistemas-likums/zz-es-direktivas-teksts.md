@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014. gada 15. maija direktīvas Nr. 2014/61/ES par pasākumiem ātrdarbīgu elektronisko sakaru tīklu izvēršanas izmaksu samazināšanai.
