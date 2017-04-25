@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 25. aprīļa rīkojums Nr.202 \"Par Alternatīvo degvielu attīstības plānu 2017.-2020. gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "85",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-28",
+  "entry_into_force": "2017-04-25",
+  "notification_date": "2017-04-28",
+  "commission_reference": "MNE(2017)52332",
+  "nim_celex": "72014L0094LVA_247268",
+  "nim_id": "247268",
+  "transposes_celex": [
+    "32014L0094"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42262f89-eafb-4c22-b12f-5a532c5520ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
