@@ -40,7 +40,7 @@
 24) par sabiedrisko pakalpojumu regulēšanu;
 25) par ogļūdeņražu ieguvi;
 26) par jebkāda veida ieroča atļaujas, atkārtotas atļaujas, atļaujas dublikāta un Eiropas šaujamieroču apliecības izsniegšanu un Eiropas šaujamieroču apliecības derīguma termiņa pagarināšanu;
-27) par iekšējās drošības dienesta reģistrāciju;
+27) par iekšējās drošības dienesta reģistrācijas apliecības, tās dublikāta un atkārtotas apliecības izsniegšanu;
 28) (izslēgts ar 13.12.2012. likumu);
 29) (izslēgts ar 26.03.2015. likumu);
 30) par dzelzceļa infrastruktūras reģistrāciju;
