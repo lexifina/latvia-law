@@ -1,1 +1,1 @@
-52. Ja pēc 2014.gada 1.janvāra lietā, kas izskatīta apgabaltiesā kā pirmās instances tiesā, ir izlemjami ar nolēmuma izpildi saistīti jautājumi, tos nosūta izlemšanai rajona (pilsētas) tiesai kā pirmās instances tiesai.
+52. Ja pēc 2014.gada 1.janvāra lietā, kas izskatīta apgabaltiesā kā pirmās instances tiesā, ir izlemjami ar nolēmuma izpildi vai ar medicīniska rakstura piespiedu līdzekļiem saistīti jautājumi, tos nosūta izlemšanai rajona (pilsētas) tiesai kā pirmās instances tiesai.

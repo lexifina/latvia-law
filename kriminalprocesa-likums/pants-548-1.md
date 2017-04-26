@@ -4,4 +4,4 @@
 (3) Lietas izskatīšanu sāk, iepazīstinot ar vienošanos, ko nolasa prokurors. Pēc vienošanās noklausīšanās tiesa noskaidro, vai juridiskā persona atzīst noziedzīga nodarījuma izdarīšanas faktu un piekrīt nodarījuma, saistībā ar kuru piespiedu ietekmēšanas līdzeklis tiek piemērots, apjomam, kvalifikācijai, radītā kaitējuma novērtējumam un vienošanās procesa piemērošanai, vai vienošanos parakstījusi apzināti un labprātīgi, vai saprot tās sekas un piekrīt, ka tiks ievērota noslēgtā vienošanās.
 (4) Tiesa noskaidro juridiskās personas un prokurora attieksmi pret vienošanos, kā arī uzklausa citas šajā lietā uzaicinātās personas.
 (5) Tiesa aicina tiesas sēdes dalībniekus izteikt lūgumus un lemj par to apmierināšanu vai noraidīšanu.
-(6) Pēc pieteikto lūgumu izlemšanas tiesa aiziet apspriežu istabā taisīt spriedumu, paziņojot par to tiesas sēdē klātesošajiem.
+(6) Pēc pieteikto lūgumu izlemšanas tiesa aiziet apspriežu istabā pieņemt nolēmumu, paziņojot par to tiesas sēdē klātesošajiem.

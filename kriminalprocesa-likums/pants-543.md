@@ -1,5 +1,5 @@
 543.pants. Tiesas spriedums vienošanās procesā
-(1) Ja tiesai nav šaubu par apsūdzētā vainu, tā taisa notiesājošu spriedumu.
+(1) Ja tiesai nav šaubu par apsūdzētā vainu, tā taisa notiesājošu spriedumu. Tiesa var rakstīt saīsināto spriedumu.
 (2) Sprieduma motīvu daļā tiesa izklāsta noslēgtās vienošanās būtību, ko prokurors, apsūdzētais un viņa aizstāvis apliecinājuši tiesas sēdē, un novērtē noslēgtās vienošanās pamatotību.
 (3) Sprieduma rezolutīvajā daļā norāda tiesas lēmumu par:
 1) to, ka apsūdzētais (minot viņa vārdu un uzvārdu) atzīts par vainīgu noziedzīgā nodarījumā (minot Krimināllikuma pantu, tā daļu un punktu, kurā paredzēts attiecīgais noziedzīgs nodarījums);

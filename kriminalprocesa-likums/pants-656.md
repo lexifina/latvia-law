@@ -5,4 +5,4 @@
 (4) Notiesātās personas nāve nav šķērslis kriminālprocesa atjaunošanai lietā, lai reabilitētu šo personu.
 (5) Par jaunatklātu apstākļu konstatēšanas dienu uzskatāma:
 1) šā likuma 655.panta otrās daļas 1. un 2.punktā paredzētajos gadījumos - diena, kad spēkā stājies attiecīgais nolēmums;
-2) šā likuma 655.panta otrās daļas 3.punktā paredzētajos gadījumos - diena, kad prokurors pieņēmis lēmumu par procesa atjaunošanu sakarā ar jaunatklātiem apstākļiem.
+2) šā likuma 655.panta otrās daļas 3.punktā paredzētajos gadījumos - diena, kad prokurors pieņēmis lēmumu par procesa uzsākšanu jaunatklātu apstākļu izmeklēšanai.

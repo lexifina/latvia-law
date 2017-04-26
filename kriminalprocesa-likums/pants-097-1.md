@@ -7,7 +7,7 @@
 5) uzaicināt advokātu juridiskās palīdzības saņemšanai;
 6) iesniegt pieteikumu par pasākumu veikšanu pašas personas, tās tuvinieku vai mantas apdraudējuma gadījumā;
 7) šajā likumā noteiktajos gadījumos iesniegt pieteikumu par procesuālo izdevumu atlīdzināšanu, kas radušies kriminālprocesā;
-8) šajā likumā noteiktajos gadījumos, termiņos un kārtībā iesniegt sūdzību par procesuālo lēmumu vai kriminālprocesa veikšanai pilnvarotas amatpersonas rīcību;
+8) šajā likumā noteiktajos gadījumos, termiņos un kārtībā iesniegt sūdzību par procesuālo nolēmumu vai kriminālprocesa veikšanai pilnvarotas amatpersonas rīcību;
 9) saņemt kontaktinformāciju saziņai par konkrēto kriminālprocesu;
 10) saņemt informāciju par pieejamo atbalstu un medicīnisko palīdzību.
 (2) Cietušajam, viņa aizgādnim vai aizbildnim visās kriminālprocesa stadijās un visos tā veidos ir tiesības lūgt, lai tiek pieņemts Eiropas aizsardzības rīkojums, ja pastāv šajā likumā noteiktais Eiropas aizsardzības rīkojuma pieņemšanas pamats.

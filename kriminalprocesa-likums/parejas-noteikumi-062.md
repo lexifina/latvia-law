@@ -1,0 +1,1 @@
+62. Sadarbībā ar tām Eiropas Savienības dalībvalstīm, kurām Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīva 2014/41/ES par Eiropas izmeklēšanas rīkojumu krimināllietās nav saistoša, Latvija neizmanto Eiropas izmeklēšanas rīkojumu.

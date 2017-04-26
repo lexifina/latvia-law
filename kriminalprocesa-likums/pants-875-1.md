@@ -1,0 +1,2 @@
+875.¹ pants. Eiropas izmeklēšanas rīkojums
+Eiropas izmeklēšanas rīkojums ir Eiropas Savienības dalībvalsts kompetentās iestādes lūgums par procesuālās darbības veikšanu pierādījumu iegūšanai citas Eiropas Savienības dalībvalsts teritorijā vai lūgums par to pierādījumu saņemšanu, kuri jau ir Eiropas Savienības dalībvalsts kompetento iestāžu rīcībā. Eiropas izmeklēšanas rīkojumu pieņem, aizpildot īpašas formas dokumentu.

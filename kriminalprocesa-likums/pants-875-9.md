@@ -1,0 +1,4 @@
+875.⁹ pants. Rīcība pēc tam, kad saņemts paziņojums par sakaru līdzekļu kontroli Latvijas teritorijā bez Latvijas tehniskās palīdzības
+Ja no Eiropas Savienības dalībvalsts kompetentās iestādes saņemts paziņojums par sakaru līdzekļu kontroli Latvijas teritorijā bez Latvijas tehniskās palīdzības, Latvijas kompetentā iestāde izvērtē saņemto paziņojumu un to, vai sakaru līdzekļu kontrole būtu pieļaujama Latvijā notiekošā kriminālprocesā par tādu pašu nodarījumu, un ne vēlāk kā 96 stundu laikā informē Eiropas Savienības dalībvalsts kompetento iestādi, ja:
+1) sakaru līdzekļu kontroli nedrīkst veikt, bet uzsāktā sakaru līdzekļu kontrole ir jāpārtrauc;
+2) Latvijas teritorijā veiktas sakaru līdzekļu kontroles rezultātā iegūto informāciju nedrīkst izmantot pierādīšanā, norādot iemeslus, kas pamato šo aizliegumu.

@@ -1,3 +1,3 @@
 531.pants. Sprieduma pasludināšana
-(1) Tiesas pasludina spriedumu, tiesas sēdes priekšsēdētājam nolasot saīsināto vai pilno spriedumu.
-(2) (Izslēgta ar 12.03.2009. likumu.)
+(1) Tiesa pasludina spriedumu, nolasot tā ievaddaļu un rezolutīvo daļu.
+(2) (Izslēgta ar 12.03.2009. likumu)

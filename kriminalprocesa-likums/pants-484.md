@@ -13,7 +13,7 @@
 2) ieradušos liecinieku, ekspertu un citu procesā iesaistīto personu vārdu un uzvārdu;
 3) tiesas rīkojumus un lēmumus, kas nav pieņemti atsevišķu procesuālo dokumentu veidā;
 4) ziņas par lietisko pierādījumu vai dokumentu pārbaudi;
-5) tiesas noteikto pilna nolēmuma pieejamības dienu;
+5) (izslēgts ar 30.03.2017. likumu);
 6) protokola pieejamības dienu.
 (4) Ja tiesas sēdes gaita netiek fiksēta, izmantojot skaņu un attēlu ierakstus vai citus tehniskos līdzekļus, tiesas sēdes protokolā ieraksta arī apsūdzētā, cietušā, liecinieka, ekspertu liecības un citu procesā iesaistīto personu paskaidrojumus, tiesas debašu runas, replikas, apsūdzētā pēdējo vārdu.
 (5) Ārpus tiesas sēžu zāles veikto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.

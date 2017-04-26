@@ -3,6 +3,6 @@
 (2) Nodošanu var atteikt, ja:
 1) aizturētā, apcietinātā vai notiesātā persona tam nepiekrīt;
 2) šīs personas klātbūtne ir nepieciešama kriminālprocesā, kas notiek Latvijā;
-3) personas pārvietošana liedz iespēju kriminālprocesu Latvijā pabeigt saprātīgos termiņos;
+3) personas pārvietošana pagarina apcietinājuma termiņu vai liedz iespēju kriminālprocesu Latvijā pabeigt saprātīgos termiņos;
 4) ir citi būtiski iemesli.
 (3) Termiņu, ko persona pēc ārvalsts lūguma pavadījusi apcietinājumā ārvalstī, ieskaita drošības līdzekļa un izciestā soda termiņā.

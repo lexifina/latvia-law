@@ -4,6 +4,6 @@
 1) personas nodarījums nav sodāms ar brīvības atņemšanu vai brīvību ierobežojošu piespiedu līdzekli;
 2) personu var pakļaut sodam, kas nav saistīts ar brīvības atņemšanu;
 2¹) persona Eiropas Savienības dalībvalstī tam ir piekritusi;
-3) persona pēc tās pārņemšanas Latvijā tam ir piekritusi un šo piekrišanu ir pieņēmis prokurors advokāta klātbūtnē, rakstot par to protokolu;
+3) persona pēc tās pārņemšanas Latvijā tam ir piekritusi, un šī piekrišana ir pieņemta advokāta klātbūtnē, rakstot par to protokolu;
 4) persona pēc atbrīvošanas 45 dienu laikā nav atstājusi Latviju, lai gan šāda iespēja tai bija;
 5) persona pēc izdošanas ir atstājusi Latviju un atgriezusies tajā.

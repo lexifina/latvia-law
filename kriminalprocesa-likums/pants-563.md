@@ -8,6 +8,6 @@
 (1¹) Rakstveida procesā apelācijas instances tiesa pieņem vienu no šādiem nolēmumiem:
 1) atstāj negrozītu pirmās instances tiesas spriedumu;
 2) atceļ pirmās instances tiesas spriedumu daļā par sodu un šajā daļā taisa jaunu spriedumu;
-3) atceļ pirmās instances tiesas nolēmumu pilnībā un nosūta krimināllietu jaunai izskatīšanai pirmās instances tiesai;
+3) atceļ pirmās instances tiesas nolēmumu pilnībā vai kādā daļā un nosūta krimināllietu jaunai izskatīšanai pirmās instances tiesai;
 4) atceļ pirmās instances tiesas spriedumu daļā par pieteikto kaitējuma kompensāciju, procesuālajiem izdevumiem vai lietiskajiem pierādījumiem un šajā daļā taisa jaunu spriedumu vai nosūta lietu jaunai izskatīšanai pirmās instances tiesai.
 (2) Šā panta pirmās daļas 1., 4. un 5.punktā un 1.¹ daļas 1. un 3.punktā paredzētajos gadījumos apelācijas instances tiesa pieņem lēmumu.
