@@ -6,4 +6,5 @@
 5) apturēt dzīvnieku izcelsmes produktu izplatīšanu vai izņemt tos no apgrozības, ja radušās pamatotas aizdomas par to kaitīgumu cilvēku veselībai vai dzīvībai, dzīvnieku veselībai vai dzīvībai, kā arī pieņemt lēmumu par attiecīgo produktu iznīcināšanu un kontrolēt tā izpildi;
 6) kontrolēt mājas (istabas) dzīvnieku labturības prasību ievērošanu, ja ir aizdomas vai sūdzības par normatīvo aktu pārkāpumiem;
 7) pārbaudīt mājas (istabas) dzīvniekus, kurus nekomerciālos nolūkos ieved Latvijas teritorijā no citas Eiropas Savienības dalībvalsts, saskaņā ar Eiropas Parlamenta un Padomes 2013.gada 12.jūnija regulu (EK) Nr. 576/2013 par lolojumdzīvnieku nekomerciālu pārvietošanu un par regulas (EK) Nr. 998/2003 atcelšanu (turpmāk - Parlamenta un Padomes regula Nr. 576/2013);
-8) epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez iepriekšēja brīdinājuma iekļūt privātā īpašumā epizootijas apkarošanas pasākumu īstenošanai.
+8) epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez iepriekšēja brīdinājuma iekļūt privātā īpašumā epizootijas apkarošanas pasākumu īstenošanai;
+9) uzlikt par pienākumu noteiktajā termiņā novērst neatbilstības, ja ir pārkāptas dzīvnieku veselību, labturību, pārtikas aprites drošumu un higiēnu, kā arī blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti regulējošu normatīvo aktu prasības.

@@ -3,7 +3,7 @@
 2) transmisīvo sūkļveida encefalopātiju apkarošanas laikā radītajiem zaudējumiem, kā arī par dzīvniekiem, kurus, pastāvot aizdomām par saslimšanu, nokauj diagnozes noskaidrošanai, iznīcinātajiem kautķermeņiem, dzīvnieku izcelsmes produktiem, embrijiem un olšūnām;
 3) putnu salmonelozes (S. eneteritidis, S. pullorum, S. gallinarum, S. typhimurium, S. virchow, S. infantis, S. hadar) apkarošanas laikā iznīcinātajiem cāļiem, jaunputniem vai pieaugušiem putniem, iznīcinātajām olām, kas paredzētas patēriņam cilvēku uzturā un inkubēšanai, produktiem, kas paredzēti patēriņam cilvēku uzturā, kā arī par dzīvnieku barību;
 4) akvakultūras dzīvnieku infekcijas slimību - epizootiskās hematopoētiskās nekrozes, epizootiskā čūlu sindroma, bonamiozes, perkinsozes, mikrocitozes, Taura sindroma, dzeltenās galvas slimības - apkarošanas laikā veikto akvakultūras dzīvnieku iznīcināšanu, infekcijas slimību apkarošanas laikā radītajiem zaudējumiem akvakultūras dzīvnieku audzētavas materiāltehniskajā aprīkojumā, kā arī par akvakultūras dzīvnieku audzētavā veiktās dezinfekcijas izmaksām;
-5) Amerikas peru puves apkarošanas laikā iznīcinātajām bišu saimēm - 50 procentu apmērā no bišu saimes vērtības.
+5) Amerikas peru puves apkarošanas laikā iznīcinātajām bišu saimēm.
 (2) Ministru kabinets nosaka kārtību, kādā piešķir un dzīvnieku īpašnieks saņem šā panta pirmajā daļā paredzēto zaudējumu kompensāciju, kā arī kritērijus zaudējumu kompensācijas samazināšanai.
-(3) (Izslēgta ar 18.12.2008. likumu.)
-(4) (Izslēgta ar 18.12.2008. likumu.)
+(3) (Izslēgta ar 18.12.2008. likumu)
+(4) (Izslēgta ar 18.12.2008. likumu)

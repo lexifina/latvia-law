@@ -1,9 +1,7 @@
-54.pants. (1) Ar veterinārmedicīnisko praksi Latvijā atļauts nodarboties fiziskajām personām, kuras ieguvušas tiesības nodarboties ar veterinārmedicīnisko praksi.
-(2) Tiesības nodarboties ar veterinārmedicīnisko praksi var iegūt persona, kura ir:
-1) Latvijas pilsonis vai persona, kurai ir Latvijas Republikas nepilsoņa pase un kura ir ieguvusi valsts akreditētajām studiju programmām atbilstošu augstāko veterinārmedicīnisko izglītību;
-2) ārvalstnieks, kura veterinārārsta kvalifikācija ir atzīta normatīvajos aktos noteiktajā kārtībā.
-(3) Ārvalstīs iegūtā veterinārārsta kvalifikācija Latvijas pilsonim vai personai, kurai ir Latvijas Republikas nepilsoņa pase, tiek atzīta normatīvajos aktos noteiktajā kārtībā.
-(4) Tiesības nodarboties ar veterinārmedicīnisko praksi apliecina veterinārmedicīniskās prakses sertifikāts.
-(5) Personas, kuras ieguvušas tiesības nodarboties ar veterinārmedicīnisko praksi, drīkst nodarboties ar veterinārmedicīnisko praksi visā Latvijas teritorijā.
+54.pants. (1) Tiesības nodarboties ar veterinārmedicīnisko praksi ir praktizējošam veterinārārstam.
+(2) (Izslēgta ar 30.03.2017. likumu)
+(3) (Izslēgta ar 30.03.2017. likumu)
+(4) (Izslēgta ar 30.03.2017. likumu)
+(5) (Izslēgta ar 30.03.2017. likumu)
 (6) Ministru kabinets nosaka lauksaimniecības dzīvniekiem veicamo neārstniecisku operāciju veidus un to personu loku, kuras papildus šā panta pirmajā un otrajā daļā minētajām personām ir tiesīgas šādas operācijas veikt.
-(7) Ministru kabinets nosaka profesionālās kvalifikācijas prasības veterinārmedicīniskās prakses sertifikāta pretendentam, veterinārmedicīniskās prakses sertifikāta izsniegšanas, apturēšanas, atjaunošanas, derīguma termiņa pagarināšanas un anulēšanas, kā arī sertificēto personu un veterinārmedicīniskās prakses vietas reģistrācijas kārtību.
+(7) Ministru kabinets nosaka profesionālās kvalifikācijas prasības veterinārmedicīniskās prakses sertifikāta pretendentam, veterinārmedicīniskās prakses sertifikāta izsniegšanas, apturēšanas, atjaunošanas, derīguma termiņa pagarināšanas un anulēšanas, kā arī sertificēto personu reģistrācijas kārtību.

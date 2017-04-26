@@ -7,7 +7,7 @@
 6) ierobežot nepiederošu personu saskarsmi ar dzīvniekiem;
 7) nodrošināt ar valsts uzraudzībā esošajām dzīvnieku infekcijas slimībām saistīto profilaktisko pasākumu izpildi noteiktajos termiņos;
 8) nekavējoties ziņot:
-a) praktizējošam veterinārārstam par dzīvnieka nobeigšanos, abortiem, vairāku dzīvnieku vienlaicīgas saslimšanas gadījumiem un jebkuru gadījumu, kas rada aizdomas par dzīvnieku saslimšanu ar infekcijas slimību;
+a) praktizējošam veterinārārstam par dzīvniekiem, kuriem bijis aborts, par nedzīvi dzimušiem dzīvniekiem, vairāku dzīvnieku vienlaicīgu saslimšanu vai nobeigšanos un jebkuru gadījumu, kad rodas aizdomas par dzīvnieku saslimšanu ar infekcijas slimību,
 b) komersantiem, kuri nodarbojas ar blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšanu, par dzīvnieku nobeigšanās gadījumiem;
 9) nokaut dzīvniekus kautuvēs saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 853/2004;
 10) nodrošināt dzīvnieku līķu savākšanu normatīvajos aktos noteiktajā kārtībā;

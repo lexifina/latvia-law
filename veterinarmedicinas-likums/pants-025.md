@@ -8,7 +8,7 @@
 7) kārtību, kādā izsniedz dzīvnieku un dzīvnieku izcelsmes produktu veterināros (veselības) sertifikātus;
 8) kārtību, kādā veic salmonelozes un citu ar pārtikas produktiem pārnēsājamu infekcijas slimību kontroli mājputnu ganāmpulkos, kas paredzēti pārtikas produktu iegūšanai nelielā apjomā un tiešajai piegādei galapatērētājam;
 9) kārtību, kādā veic uzraudzību un informācijas apmaiņu par infekcijas slimībām, ar kurām slimo gan dzīvnieki, gan cilvēki, par šo slimību ierosinātājiem, kā arī par šo ierosinātāju antimikrobo rezistenci;
-10) veterinārās prasības attiecībā uz akvakultūras dzīvniekiem un no tiem iegūtajiem produktiem, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksi un apkarošanu;
+10) veterinārās prasības attiecībā uz akvakultūras dzīvniekiem un no tiem iegūtajiem produktiem, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksi un apkarošanu, un šo slimību diagnostikas metodes;
 11) valsts veterinārās uzraudzības objektu reģistrācijas kārtību;
 12) prasības veterinārmedicīnas un dzīvnieku izcelsmes pārtikas nekaitīguma jomā atbilstoši Eiropas Savienības normatīvajiem aktiem;
 13) (izslēgts ar 03.06.2010. likumu);
