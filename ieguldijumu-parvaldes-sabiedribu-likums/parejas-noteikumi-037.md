@@ -1,0 +1,1 @@
+37. Šā likuma 14.² panta otrā, trešā un ceturtā daļa stājas spēkā 2017. gada 1. septembrī. Pirmo ziņojumu par laika periodu no 2017. gada 1. septembra līdz 31. decembrim sabiedrība iesniedz Komisijai līdz 2018. gada 1. aprīlim.

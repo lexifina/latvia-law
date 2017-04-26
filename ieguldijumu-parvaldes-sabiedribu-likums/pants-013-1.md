@@ -1,5 +1,6 @@
 13.¹ pants. Sabiedrības pienākumi, sniedzot pārvaldes pakalpojumus
-(1) Sabiedrībai, sniedzot pārvaldes pakalpojumus, ir pienākums rīkoties kā godīgam, gādīgam un rūpīgam saimniekam un nodrošināt, lai attiecīgie pakalpojumi tiktu sniegti ar pienācīgu profesionalitāti un rūpību fonda ieguldītāju un pārvaldes pakalpojumu saņēmēju interesēs un neapdraudot finanšu tirgus stabilitāti.
+(1) Sabiedrībai, sniedzot pārvaldes pakalpojumus, ir pienākums rīkoties taisnīgi un neatkarīgi no turētājbankas un kā godīgam, gādīgam un rūpīgam saimniekam un nodrošināt, lai attiecīgie pakalpojumi tiktu sniegti ar pienācīgu profesionalitāti un rūpību vienīgi fonda un fonda ieguldītāju un pārvaldes pakalpojumu saņēmēju interesēs un neapdraudot finanšu tirgus stabilitāti.
+(1¹) Sabiedrība nedrīkst darboties vienlaikus kā pārvaldes pakalpojumu sniedzējs un kā turētājbanka.
 (2) Sabiedrība fonda ieguldītāju un pārvaldes pakalpojumu saņēmēju interesēs nodrošina:
 1) skaidru, precīzu un caurskatāmu finanšu instrumentu novērtēšanas metožu izmantošanu, lai pierādītu, ka pārvaldīšanā esošo portfeļu vērtība ir noteikta pareizi;
 2) ka fonda ieguldītājiem un pārvaldes pakalpojumu saņēmējiem netiek noteiktas nepamatotas izmaksas.

@@ -12,7 +12,10 @@ b) (izslēgts ar 24.10.2002. likumu),
 c) (izslēgts ar 24.10.2002. likumu),
 d) sniedzama informācija par tām pārmaiņām darījumos ar fonda mantu gūto ienākumu sadalē, kuras skar fonda darbību, un par līdzīgiem notikumiem,
 e) veicama ieguldījumu apliecību emisija, atpakaļpirkšana un atpakaļpieņemšana;
-5) fonda vērtības, ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas, kā arī fonda ienākumu aprēķināšanas principus. Ja fondam ir dažādas klases ieguldījumu apliecības, sniedz norādi par katras klases ieguldījumu apliecībās nostiprinātajām tiesībām un kārtību, kādā vienas klases ieguldījumu apliecības tiek apmainītas pret citas klases ieguldījumu apliecībām, ja šāda iespēja ir paredzēta;
+5) fonda vērtības, ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas, kā arī fonda ienākumu aprēķināšanas principus;
+5¹) to, ka fonda dažādu klašu ieguldījumu apliecību līdzekļus (ja šādas klases ieguldījumu apliecībām ir izveidotas) iegulda atbilstoši fonda prospektā noteiktajai ieguldījumu politikai un ievērojot noteiktos ieguldījumu ierobežojumus. Ieguldījumu apliecībās nostiprinātās tiesības un saistības aptver visu fonda mantu. Viena fonda vienas klases ieguldījumu apliecībās ir nostiprinātas vienādas tiesības;
+5²) katras klases ieguldījumu apliecībām raksturīgās iezīmes, nostiprinātās tiesības un darījumu specifiku šo tiesību īstenošanai, kā arī sniedz norādi par fonda ienākumu un pastāvīgo maksu, kas nav tieši saistītas ar attiecīgās klases ieguldījumu apliecību darījumiem, sadalījumu;
+5³) fonda darījumu uzskaites kārtību, lai nodrošinātu, ka darbības rezultāts no darījumiem vienas klases ieguldījumu apliecību ietvaros neietekmē citā ieguldījumu apliecību klasē nostiprinātās ieguldītāju tiesības un intereses, kā arī kārtību, kādā vienas klases ieguldījumu apliecības tiek apmainītas pret citas klases ieguldījumu apliecībām, ja šāda iespēja ir paredzēta;
 6) fonda likvidācijas kārtību;
 7) kārtību, kādā notiek fonda pārvaldes tiesību un mantas nodošana turētājbankai vai citām personām;
 8) kārtību, kādā noris sabiedrības sadarbība ar turētājbanku fondu pārvaldīšanā;

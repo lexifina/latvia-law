@@ -30,7 +30,8 @@ g) iepriekšējās darbavietas pēdējo 10 gadu laikā un darba pienākumu īss 
 7) neparastu un aizdomīgu finanšu darījumu identifikācijas procedūru apraksts;
 8) fonda ieguldītāju iesniegumu un sūdzību (strīdu) par sabiedrības pārvaldes pakalpojumu sniegšanu izskatīšanas procedūras apraksts;
 9) interešu konflikta novēršanas politika;
-10) darījumu izpildes politika.
+10) darījumu izpildes politika;
+11) procedūras apraksts par iekšējās ziņošanas kārtību attiecībā uz šā likuma un uz tā pamata izdoto Komisijas normatīvo noteikumu pārkāpumiem, kā arī saņemto ziņojumu izskatīšanas kārtība.
 (7) Par sabiedrības plānoto darbību Komisijai iesniedz vismaz turpmākajiem trim darbības gadiem izstrādātu un sabiedrības akcionāru sapulces apstiprinātu darbības plānu, kas izvērsti atspoguļo sabiedrības darbības stratēģiju (norāda arī tos pakalpojumus, kurus sabiedrība plāno sniegt papildus pamatdarbībai), finansiālās prognozes, ietverot pārskata projektu, kas atspoguļo finanšu stāvokli vismaz triju turpmāko darbības gadu beigās, finansiālās darbības rezultāta pārskata projektu par vismaz trim turpmākajiem darbības gadiem, kapitāla pietiekamības aprēķina projektu un prognozēto pastāvīgo izmaksu summu gadā, tirgus izpētes aprakstu, kā arī citu informāciju, kas sniedz skaidru un patiesu priekšstatu par sabiedrības plānoto darbību.
 (8) Komisijai ir tiesības pieprasīt, lai sabiedrība precizē iesniegtos dokumentus un informāciju.
 (9) Ja līdz lēmuma pieņemšanai par licences izsniegšanu notiek pārmaiņas Komisijai sniegtajā informācijā vai dokumentos tiek izdarīti grozījumi, sabiedrības pienākums ir nekavējoties iesniegt Komisijai jauno informāciju vai attiecīgo dokumentu pilnu tekstu ar izdarītajiem grozījumiem.

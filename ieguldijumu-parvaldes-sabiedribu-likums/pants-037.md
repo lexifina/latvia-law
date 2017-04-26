@@ -4,8 +4,8 @@
 1) nodrošināto kreditoru prasījumi;
 2) to kreditoru prasījumi, kuri pieteikuši savus prasījumus paziņojumā noteiktajā termiņā;
 3) to kreditoru prasījumi, kuri pieteikuši savus prasījumus pēc paziņojumā noteiktā termiņa, bet pirms likvidācijas ieņēmumu sadales.
-(3) Ja likvidācijas ieņēmumu nepietiek, lai apmierinātu šā panta otrajā daļā minētos prasījumus, neapmierinātie prasījumi apmierināmi no ieguldījumu sabiedrības mantas, izņemot prasījumus, kuri radušies pēc šīs sabiedrības pārvaldes tiesību izbeigšanās.
-(4) Ja likvidācijas ieņēmumu nepietiek, lai apmierinātu šā panta otrajā daļā minētos prasījumus, kuri radušies laika posmā, kad pārvaldes tiesības realizēja turētājbanka, tos apmierina turētājbanka.
+(3) (Izslēgta ar 30.03.2017. likumu)
+(4) (Izslēgta ar 30.03.2017. likumu)
 (5) Atlikušie likvidācijas ieņēmumi sadalāmi fonda ieguldītājiem proporcionāli viņu ieguldījumu apliecību skaitam.
 (6) Turētājbanka vai likvidators iesniedz publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu par likvidācijas ieņēmumu sadali fonda ieguldītājiem, norādot par vienu apliecību izmaksājamo summu, kā arī maksājumu veikšanas vietu un laiku.
 (7) Visi maksājumi kreditoriem un fonda ieguldītājiem jāveic naudā.

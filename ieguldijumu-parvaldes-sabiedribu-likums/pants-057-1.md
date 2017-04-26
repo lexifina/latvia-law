@@ -1,11 +1,12 @@
 57.¹ pants. Ieguldītājiem paredzētās pamatinformācijas saturs
 (1) Ieguldītājiem paredzēto pamatinformāciju sagatavo iespējami vienkāršā un fonda ieguldītājiem saprotamā veidā, lai tie izprastu ieguldījuma būtiskos aspektus un varētu pieņemt pamatotu lēmumu par piedāvāto ieguldījumu.
 (2) Ieguldītājiem paredzētajā pamatinformācijā iekļaujama vismaz šāda fonda darbībai būtiska informācija:
-1) fonda identifikācijas dati;
+1) fonda identifikācijas dati un tā uzraudzības institūcija;
 2) fonda ieguldīšanas mērķis un īss ieguldījumu politikas apraksts;
 3) fonda līdzšinējās darbības rādītāji vai darbības rādītāju scenāriji;
 4) ar fonda darbību saistītie maksājumi;
-5) fonda riska profila apraksts, kas ietver norādījumus un brīdinājumus attiecībā uz riskiem, kas saistīti ar ieguldījumiem attiecīgajā fondā.
+5) fonda riska profila apraksts, kas ietver norādījumus un brīdinājumus attiecībā uz riskiem, kas saistīti ar ieguldījumiem attiecīgajā fondā;
+6) paziņojums, ka informācija par aktuālo atalgojuma politiku, kas sagatavota atbilstoši šā likuma 57. panta trešās daļas 26. punktam un ir pieejama sabiedrības mājaslapā internetā, ietverot norādi, kur informācija par aktuālo atalgojuma politiku pieejama pilnībā un kur to ir iespējams saņemt pēc pieprasījuma bez maksas papīra formā.
 (3) Šā panta otrajā daļā minēto informāciju sagatavo, neizmantojot atsauces uz citiem dokumentiem.
 (4) Fonda ieguldītājiem paredzētajā pamatinformācijā skaidri norāda tās vietas adresi, kur var saņemt papildu informāciju, kā arī pēc ieguldītāju pieprasījuma bez maksas izsniedz fonda prospektu, gada un pusgada pārskata kopiju un norāda, kādās valodās tie sagatavoti.
 (5) Fonda ieguldītājiem paredzēto pamatinformāciju sagatavo konspektīvā veidā un vienkāršā valodā. Šo informāciju sagatavo vienotā formātā, lai atvieglotu tās salīdzināšanu ar citu fondu ieguldītājiem paredzēto pamatinformāciju, un izklāsta tā, lai tā būtu viegli uztverama privātiem klientiem.

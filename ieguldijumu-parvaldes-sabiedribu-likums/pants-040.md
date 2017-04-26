@@ -1,6 +1,9 @@
 40.pants. Turētājbankai izvirzītie vispārīgie noteikumi
 (1) Darījumus ar fonda mantu sabiedrība veic ar turētājbankas starpniecību.
-(2) Par turētājbanku var būt Latvijā reģistrēta kredītiestāde, kura ir uzsākusi ieguldījumu pakalpojumu un blakuspakalpojumu sniegšanu, tai skaitā finanšu instrumentu turēšanu, vai dalībvalstī reģistrētas kredītiestādes filiāle Latvijā, ja minētā kredītiestāde ir tiesīga sniegt ieguldījumu pakalpojumus un blakuspakalpojumus, tai skaitā turēt finanšu instrumentus.
-(3) Turētājbanka, veicot likumā noteiktos pienākumus, darbojas neatkarīgi no sabiedrības un vienīgi ieguldītāju interesēs.
+(2) Par Latvijā reģistrēta fonda turētājbanku var būt Latvijā licencēta kredītiestāde vai dalībvalstī licencētas kredītiestādes filiāle Latvijā.
+(2¹) Sabiedrība nodrošina, ka katram fondam ir tikai viena turētājbanka.
+(3) Turētājbanka, veicot likumā noteiktos pienākumus, darbojas godīgi, taisnīgi, profesionāli, neatkarīgi no sabiedrības un vienīgi fonda un fonda ieguldītāju interesēs, kā arī ievēro Regulas Nr. 2016/438 prasības.
 (4) Turētājbanka drīkst ieguldīt savus līdzekļus tāda fonda ieguldījumu apliecībās, kura turētājbanka tā ir, tikai gadījumā, ja turētājbanka ir fondu pārvaldošās sabiedrības akcionārs ar būtisku līdzdalību un ir ievēroti šā likuma 33.panta četrpadsmitās un piecpadsmitās daļas noteikumi.
+(4¹) Turētājbanka nedrīkst veikt fonda vai tās sabiedrības uzdevumā, kura rīkojas fonda vārdā, tādas darbības vai pienākumus, kas var radīt interešu konfliktu starp turētājbanku un fondu, tā ieguldītājiem vai sabiedrību, izņemot gadījumu, kad turētājbanka ir funkcionāli un hierarhiski nošķīrusi no turētājbankas pienākumiem citus pienākumus, kas rada iespējamus interešu konfliktus, un šie iespējamie interešu konflikti tiek pienācīgi identificēti, pārvaldīti un pārraudzīti atbilstoši iekšējām procedūrām, un par tiem ir informēti fonda ieguldītāji.
 (5) Notiekot turētājbankas maiņai, jaunajai turētājbankai, ja nepieciešams, sešu mēnešu laikā no turētājbankas līguma spēkā stāšanās dienas jāveic pasākumi, lai tās darbība atbilstu šā panta ceturtās daļas noteikumiem.
+(6) Turētājbanka izveido speciālu un neatkarīgu ziņošanas kanālu, kas nodrošina tās darbiniekiem iespēju anonīmi turētājbankas ietvaros ziņot par šā likuma un uz tā pamata izdoto Komisijas normatīvo noteikumu pārkāpumiem.

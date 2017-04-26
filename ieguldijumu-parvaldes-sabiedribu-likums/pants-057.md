@@ -25,7 +25,7 @@ c) fonda neto aktīvu vērtībai piemīt augsts svārstīguma līmenis;
 8) sabiedrībai, turētājbankai un citām fonda prospektā minētajām personām no fonda mantas izmaksājamās atlīdzības maksimālais apmērs (kopējais un katrai personai atsevišķi maksājamās atlīdzības apmērs) un aprēķināšanas kārtība, šīs atlīdzības samaksas kārtība. Maksimālo atlīdzības apmēru norāda procentos no fonda neto aktīvu vidējās vērtības;
 9) citi iespējamie izdevumi un maksājumi, kā arī to segšanas kārtība. Atsevišķi norāda tos maksājumus, kas būs jāveic fonda ieguldītājiem personiski, un tos, kurus veiks no fonda līdzekļiem;
 10) ziņas par fonda revidentu - vārds, uzvārds un sertifikāta numurs vai zvērinātu revidentu komercsabiedrības firma, reģistrācijas numurs un licences numurs;
-10¹) fonda ieguldījumu apliecību klases, to nominālvērtība, piekritīgie maksājumi, tiesības uz fonda ienākumu sadali;
+10¹) šā likuma 28. panta trešās daļas 5.² punktā minētā informācija;
 11) ieguldījumu apliecību pārdošanas, atpakaļpirkšanas un atpakaļpieņemšanas kārtība, kā arī kārtība, kādā tiek noapaļots ieguldījumu apliecību daļu skaits pēc ieguldījumu apliecību sadalīšanas;
 12) apstākļi, kādos var apturēt ieguldījumu apliecību atpakaļpirkšanu un atpakaļpieņemšanu;
 13) ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenas aprēķināšanas metodes un biežums, kā arī ziņas par to, kur un cik bieži šīs cenas tiek nodotas atklātībā;
@@ -36,11 +36,13 @@ c) fonda neto aktīvu vērtībai piemīt augsts svārstīguma līmenis;
 18) sabiedrības reģistrētā un apmaksātā kapitāla apjoms;
 19) sabiedrības padomes locekļu un amatpersonu vārds, uzvārds un amats sabiedrībā, kā arī viņu pienākumi ārpus sabiedrības, ja tiem ir nozīme sabiedrības darbībā;
 20) citu sabiedrības pārvaldāmo fondu nosaukums;
-21) turētājbankas firma, reģistrācijas datums un numurs, juridiskā adrese un atrašanās vietas adrese;
+21) turētājbankas firma, reģistrācijas datums un numurs, juridiskā adrese un faktiskās atrašanās vietas adrese, turētājbankas pienākumi un ar to izpildi saistītie iespējamie interešu konflikti. Ja turētājbanka tur fonda aktīvus pie trešās personas, šī turētājbanka sniedz šo trešo personu sarakstu un norādi uz iespējamiem interešu konfliktiem, kas saistīti ar turēšanu, kā arī paziņojumu, ka aktualizēta šajā punktā norādītā informācija fonda ieguldītājiem būs pieejama pēc pieprasījuma;
 22) konsultanta, kā arī citu pakalpojumu sniedzēju vārds, uzvārds vai firma, reģistrācijas numurs un atrašanās vietas adrese, ja sabiedrība ir noslēgusi līgumu par attiecīgo pakalpojumu sniegšanu fonda pārvaldē un saskaņā ar šo līgumu pakalpojuma sniedzējam atlīdzība tiek maksāta no fonda līdzekļiem. Īss attiecīgā pakalpojuma sniedzēja pamatdarbības un to pakalpojuma līguma noteikumu apraksts, kuri ir svarīgi fonda ieguldītājiem;
 23) ja sabiedrība plāno kādu no fonda pārvaldes pakalpojumiem nodot trešajai personai, - norāde uz šiem pakalpojumiem un apraksts, kādā kārtībā pakalpojumi var tikt nodoti;
 24) fonda iepriekšējās darbības raksturojums un finansiālo rādītāju salīdzinošā tabula par pēdējiem trim gadiem (sagatavota atbilstoši fonda pārskatu noteikumiem). Pēc šīs informācijas iekļaujams paziņojums, ka šie rādītāji nenosaka (neietekmē) turpmāko fonda darbību. Minēto informāciju var iekļaut fonda prospektā vai pievienot tam;
-25) fonda gada un pusgada pārskatu saņemšanas veids un kārtība.
+25) fonda gada un pusgada pārskatu saņemšanas veids un kārtība;
+26) aktuālā sabiedrības atalgojuma politika, kas ietver vismaz šādus elementus: aprakstu, kā sabiedrība aprēķina atalgojumu, personas, kuras ir atbildīgas par atalgojuma piešķiršanu, atalgojuma komitejas sastāvu, ja tāda ir izveidota. Fonda prospektā var sniegt tikai šīs informācijas kopsavilkumu, ja prospektā ir norādīta saite uz sabiedrības mājaslapu internetā, kur minētā informācija pieejama pilnībā un kur to ir iespējams saņemt pēc pieprasījuma papīra formā bez maksas;
+27) ja turētājbanka plāno turēt fonda finanšu instrumentus šā likuma 43. panta piektajā daļā minētajā ārvalsts komercsabiedrībā, - informācija par finanšu instrumentu turēšanu ārvalsts komercsabiedrībā, pamatojoties uz ārvalsts tiesību aktos noteiktajiem ierobežojumiem, šādas turēšanas pamatojumu un ar to saistītajiem riskiem.
 (4) (Izslēgta ar 13.10.2011. likumu)
 (5) (Izslēgta ar 09.07.2013. likumu)
 (6) (Izslēgta ar 09.07.2013. likumu)

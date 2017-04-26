@@ -14,7 +14,7 @@
 8) uzsākt ieguldījumu fonda likvidāciju.
 (6) Lai nodrošinātu pārvaldes pakalpojumu sniegšanas uzraudzību, Komisija savas kompetences ietvaros tieši vai sadarbībā ar citām iestādēm atbilstoši likumos noteiktajai kārtībai papildus Finanšu un kapitāla tirgus komisijas likumā un citām šajā likumā noteiktajām tiesībām ir tiesīga:
 1) pieprasīt no jebkuras personas informāciju par tās darbību finanšu un kapitāla tirgū, kā arī uzaicināt attiecīgo personu ierasties Komisijā un sniegt informāciju klātienē;
-2) pieprasīt un saņemt no finanšu tirgus dalībniekiem telefonsarunu izdrukas un cita veida datu pārraides ierakstus;
+2) pieprasīt un saņemt no finanšu tirgus dalībniekiem telefonsarunu, elektroniskās saziņas un cita veida datu pārraides ierakstus;
 3) pieprasīt, lai tiek izbeigtas jebkādas darbības, kas ir pretrunā ar šā likuma prasībām;
 4) pieprasīt, lai tiek iesaldēti sabiedrības un fondu aktīvi, vai ierobežot tiesības rīkoties ar tiem;
 5) ierobežot sabiedrības tiesības sniegt pārvaldes pakalpojumus;
@@ -22,3 +22,4 @@
 7) iesniegt tiesībaizsardzības iestādēm informāciju par tām darbībām finanšu un kapitāla tirgū, kuras ir pretrunā ar šā likuma prasībām;
 8) anulēt sabiedrībai vai turētājbankai izsniegto licenci, kā arī pieņemt lēmumu par ieguldījumu fonda likvidācijas uzsākšanu;
 9) veikt nepieciešamos tiesiskos pasākumus, lai nodrošinātu to, ka sabiedrība un turētājbanka turpina pildīt šā likuma un Komisijas normatīvo noteikumu prasības.
+(7) Ņemot vērā sabiedrību pārrobežu darbības raksturu, lai nodrošinātu visās dalībvalstīs vienotu uzraudzības prakses piemērošanu, Komisijai ir tiesības noteikt citas sabiedrību un fondu darbību regulējošas prasības jomās, kas izriet no Eiropas Vērtspapīru un tirgu iestādes pieņemtajām pamatnostādnēm un ieteikumiem sabiedrību un fondu darbības uzraudzībā.

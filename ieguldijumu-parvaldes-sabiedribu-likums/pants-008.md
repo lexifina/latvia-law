@@ -9,10 +9,10 @@
 3) sabiedrības pārvaldīto privāto pensiju fondu izveidoto pensiju plānu līdzekļus un valsts fondēto pensiju shēmas ieguldījumu plānu līdzekļus.
 (6) Sabiedrības pašu kapitāls nekad nedrīkst būt mazāks par lielāko no šādiem lielumiem:
 1) minimālā sākotnējā kapitāla un atbilstoši šā panta trešās daļas prasībām aprēķinātā papildu pašu kapitāla kopsummu;
-2) 25 procentiem no iepriekšējā pilna pārskata gada pastāvīgo izmaksu (izmaksas, kas saglabājas nosacīti nemainīgas neatkarīgi no sabiedrības komercdarbības apjoma) kopsummas.
+2) 25 procentiem no iepriekšējā pilna pārskata gada pastāvīgo izmaksu jeb fiksēto pieskaitāmo izmaksu kopsummas, kuru aprēķina atbilstoši Regulai Nr. 575/2013.
 (7) Sabiedrība, saņemot Komisijas atļauju, drīkst nodrošināt līdz 50 procentiem no šā panta trešajā daļā minētā papildu pašu kapitāla ar tāda paša apmēra garantiju kuru izsniegusi:
 1) kredītiestāde, kas saņēmusi licenci kredītiestādes darbībai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī, kura ietilpst Desmit valstu grupā;
 2) dalībvalstī reģistrēta apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle, kas saņēmusi licenci apdrošināšanas veikšanai.
-(8) Ja sabiedrība sniedz šā likuma 5.panta otrajā un trešajā daļā minētos pakalpojumus, tā savā darbībā ievēro un izpilda ieguldījumu brokeru sabiedrībām noteiktās kapitāla prasības un konsolidētās uzraudzības prasības. Minētās prasības neattiecas uz valsts fondēto pensiju shēmas līdzekļu pārvaldīšanu saskaņā ar Valsts fondēto pensiju likumu un privāto pensiju fondu izveidoto pensiju plānu līdzekļu pārvaldīšanu saskaņā ar likumu "Par privātajiem pensiju fondiem".
+(8) Ja sabiedrība ir tiesīga sniegt šā likuma 5.panta otrajā un trešajā daļā minētos pakalpojumus, tā savā darbībā ievēro un izpilda ieguldījumu brokeru sabiedrībām noteiktās kapitāla prasības un konsolidētās uzraudzības prasības. Minētās prasības neattiecas uz valsts fondēto pensiju shēmas līdzekļu pārvaldīšanu saskaņā ar Valsts fondēto pensiju likumu un privāto pensiju fondu izveidoto pensiju plānu līdzekļu pārvaldīšanu saskaņā ar likumu "Par privātajiem pensiju fondiem".
 (9) Pašu kapitālu un tā aprēķināšanas kārtību nosaka Regula Nr. 575/2013.
 (10) (Izslēgta ar 19.09.2013. likumu)

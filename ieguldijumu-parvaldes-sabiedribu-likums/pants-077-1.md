@@ -22,7 +22,7 @@
 15) ieguldījumu apliecību turētāju balsstiesību un citu tiesību, kas saistītas ar šīs daļas 1., 2., 3., 4., 5., 6., 7., 8., 9., 10., 11., 12. un 13.punktu, īstenošanu.
 (4) Dalībvalstī licencēta sabiedrība ir atbildīga par tās darbības atbilstību šā panta prasībām un organizatorisko lēmumu pieņemšanu un īstenošanu.
 (5) Dalībvalstī licencēta sabiedrība, kas vēlas pārvaldīt Latvijā reģistrētu fondu, iesniedz Komisijai iesniegumu par fonda pārvaldi. Iesniegumam pievieno:
-1) rakstveida vienošanos ar turētājbanku, kura atbilst šā likuma 47.panta ceturtās un piektās daļas prasībām;
+1) rakstveida vienošanos ar turētājbanku;
 2) informāciju par fonda pārvaldes tiesību deleģēšanas kārtību attiecībā uz fonda ieguldījumu pārvaldīšanu un fonda administratīvo vadību.
 (6) Ja dalībvalstī licencēta sabiedrība jau pārvalda Latvijā reģistrētu ieguldījumu fondu, atkārtota Komisijas rīcībā esošu dokumentu iesniegšana nav nepieciešama. Sabiedrība šajā daļā minēto informāciju norāda iesniegumā par fonda pārvaldi.
 (7) Izvērtējot šā panta piektajā daļā minētos dokumentus un ievērojot informāciju, kas norādīta šā likuma 77.panta otrās daļas 1.punkta "a" apakšpunktā minētajā aprakstā, Komisija, ja nepieciešams, vēršas attiecīgās sabiedrības izcelsmes valsts uzraudzības institūcijā ar lūgumu sniegt atzinumu par to, vai fonda veids, attiecībā uz kuru ir pieprasīta atļauja, atbilst sabiedrībai piešķirtās atļaujas darbības jomai.
