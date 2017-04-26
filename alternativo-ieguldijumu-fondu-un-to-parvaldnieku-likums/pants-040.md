@@ -16,7 +16,7 @@
 1) nodrošināto kreditoru prasījumus;
 2) to kreditoru prasījumus, kuri pieteikuši savus prasījumus paziņojumā noteiktajā termiņā;
 3) to kreditoru prasījumus, kuri pieteikuši savus prasījumus pēc paziņojumā noteiktā termiņa, bet pirms likvidācijas ieņēmumu sadales.
-(11) Ja likvidācijas ieņēmumu nepietiek, lai apmierinātu šā panta desmitajā daļā minētos prasījumus, neapmierinātie prasījumi tiek apmierināti no pārvaldnieka mantas, izņemot prasījumus, kuri radušies pēc šā pārvaldnieka pārvaldes tiesību izbeigšanās.
+(11) (Izslēgta ar 30.03.2017. likumu)
 (12) Atlikušos likvidācijas ieņēmumus sadala fonda ieguldītājiem proporcionāli viņu ieguldījumu daļu skaitam.
 (13) Likvidators iesniedz publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu par likvidācijas ieņēmumu sadali fonda ieguldītājiem, norādot par vienu ieguldījumu daļu izmaksājamo summu, kā arī maksājumu veikšanas vietu un laiku.
 (14) Visus maksājumus kreditoriem un fonda ieguldītājiem veic naudā.
