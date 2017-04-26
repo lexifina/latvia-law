@@ -1,5 +1,5 @@
 8.pants. Reģistrējamie kuģi
-(1) Kuģu reģistrācijas mērķis ir aizsargāt ar kuģiem saistītās tiesības un nodrošināt valsts kontroli pār kuģu atbilstību kuģošanas drošības prasībām.
+(1) Kuģu reģistrācijas mērķis ir aizsargāt ar kuģiem saistītās tiesības un nodrošināt valsts kontroli pār kuģu atbilstību kuģošanas drošības prasībām, ja šā kodeksa 8.² panta trešajā daļā nav noteikts citādi.
 (2) Latvijā kuģus reģistrē:
 1) Kuģu reģistrā:
 a) kravas kuģus, pasažieru kuģus, izbraukuma kuģus (kuģi, kas pārvadā mazāk par 12 pasažieriem), speciāliem nolūkiem paredzētus kuģus (velkoņi, ledlauži, loču kuģi, glābšanas kuģi, mācību un pētnieciskie kuģi, kabeļu licēji, gruntssmēlēji, liellaivas, palīgkuģi, peldošie celtņi u.c.) un kuģus, kuri paredzēti valsts dienestu funkciju (valsts robežas apsardzība, vides aizsardzība, avāriju novēršana u.c.) veikšanai,

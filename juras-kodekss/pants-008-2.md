@@ -1,0 +1,10 @@
+8.² pants. Buru jahtas bez īpašuma tiesību reģistrācijas
+(1) Kuģu reģistrā bez īpašuma tiesību reģistrācijas var reģistrēt:
+1) buru jahtas, kuru maksimālais garums ir lielāks par 2,5 metriem, bet mazāks par 12 metriem;
+2) sporta buru jahtas, kuru maksimālais garums ir lielāks par 2,5 metriem un kuru klases atbilst sporta buru jahtu klašu sarakstā minētajām klasēm. Latvijas Jūras administrācija publicē sarakstu savā mājaslapā internetā, pamatojoties uz atzītās burāšanas sporta federācijas iesniegtajiem priekšlikumiem. Šajā punktā minētās sporta buru jahtas var izmantot tikai sacensībās un treniņos diennakts gaišajā laikā, nepārsniedzot attiecīgās sporta buru jahtu klases noteikumos paredzēto cilvēku skaitu uz jahtas.
+(2) Buru jahtas reģistrāciju bez īpašuma tiesību reģistrācijas var pieteikt buru jahtas valdītājs - Latvijā reģistrēta juridiskā persona vai viena fiziskā persona, kura ir Latvijas pilsonis vai nepilsonis.
+(3) Šā panta pirmajā daļā minētās reģistrācijas vienīgais mērķis ir nodrošināt valsts kontroli pār kuģošanas drošību. Šāda reģistrācija Kuģu reģistrā nenodibina un neietekmē ar kuģi saistītās tiesības. Buru jahtai bez īpašuma tiesību reģistrācijas Kuģu reģistrā reģistrē nodrošinājumus un aizliegumus, pamatojoties uz tiesas nolēmumu par prasības nodrošinājuma vai piespiedu izpildes līdzekļa piemērošanu vai normatīvajos aktos noteikto amatpersonu lēmumu.
+(4) Šajā pantā minēto buru jahtu valdītājiem ir šā kodeksa 1.¹, 6., 7., 10., 12., 17., 33., 37., 41., 43., 48., 50., 53., 55., 57., 268., 269., 270. un 333. pantā noteiktie kuģa īpašnieka pienākumi un tiesības.
+(5) Kuģošana ar šajā pantā noteiktajā kārtībā reģistrētām buru jahtām ir atļauta Latvijas iekšējos ūdeņos, kas atrodas no jūras krasta līnijas uz sauszemes pusi, un 3000 metru platā joslā no krasta līnijas uz jūras pusi Rīgas jūras līča un Baltijas jūras Latvijas Republikas piekrastes daļā.
+(6) Saskaņā ar šo pantu reģistrētai buru jahtai var reģistrēt īpašuma tiesības, pamatojoties uz šā kodeksa 16. panta otrajā daļā noteiktajiem dokumentiem.
+(7) Šajā pantā noteikto kuģošanas līdzekļu reģistrācijas kārtību nosaka Ministru kabinets.
