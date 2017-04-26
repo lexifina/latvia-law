@@ -1,0 +1,1 @@
+15. Bez vecāku gādības palicis bērns, kas īrē pašvaldības dzīvojamo telpu (izņemot sociālo dzīvokli), par kuras lietošanu dzīvojamās telpas īres līgums noslēgts līdz 2014. gada 31. decembrim, ir tiesīgs vienlaikus saņemt arī dzīvokļa pabalstu bez vecāku gādības palikušam bērnam.
