@@ -1,1 +1,1 @@
-17.pants. Valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" izsniedz zemes īpašniekam vai tiesiskajam valdītājam meliorētās zemes un meliorācijas sistēmas uzskaites dokumentu - zemes īpašuma meliorācijas pasi.
+17. pants. Valsts sabiedrība ar ierobežotu atbildību "Zemkopības ministrijas nekustamie īpašumi" pēc zemes vienības īpašnieka, tiesiskā valdītāja vai pašvaldības pieprasījuma izsniedz pieprasītājam meliorācijas kadastra izziņu par zemes vienības meliorācijas sistēmu vai meliorācijas sistēmas daļu.

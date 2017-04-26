@@ -1,3 +1,3 @@
 14.pants. (1) Meliorācijas kadastrā ietver informāciju par jebkuru valsts, pašvaldības, fiziskās vai juridiskās personas īpašumā vai tiesiskajā valdījumā esošu meliorācijas sistēmu, tai skaitā datus par meliorētās zemes izvietojumu, meliorācijas sistēmas kvantitatīvo un kvalitatīvo stāvokli, kā arī norāda šīs zemes īpašnieku vai tiesisko valdītāju.
-(2) Meliorācijas kadastra izveidošanai un uzturēšanai izmanto nekustamā īpašuma valsts kadastra reģistra datus par zemes vienības robežām, zemes īpašnieku vai tiesisko valdītāju, kā arī kadastra apzīmējumu.
+(2) Meliorācijas kadastra izveidošanai un uzturēšanai izmanto Nekustamā īpašuma valsts kadastra informācijas sistēmas datus par zemes vienības robežām, zemes īpašnieku vai tiesisko valdītāju, kā arī kadastra apzīmējumu.
 (3) Meliorācijas kadastra saturu, izveides, uzturēšanas un informācijas apmaiņas kārtību nosaka Ministru kabinets.

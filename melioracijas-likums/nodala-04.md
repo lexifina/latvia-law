@@ -1,2 +1,2 @@
 IV nodaļa
-Meliorācijas sistēmas ekspluatācija un uzturēšana
+Meliorācijas sistēmas būvniecība, ekspluatācija un uzturēšana
