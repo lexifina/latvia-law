@@ -1,0 +1,5 @@
+37.² pants. Atbilstība profesionālās darbības veikšanai
+(1) Koncesijas procedūras komisija var pieprasīt pierādījumus tam, ka attiecīgais pretendents ir reģistrēts, licencēts vai sertificēts atbilstoši reģistrācijas vai pastāvīgās dzīvesvietas valsts normatīvo aktu prasībām.
+(2) Pakalpojuma koncesijas līguma gadījumā, ciktāl privātajam partnerim jābūt pilnvarotam vai jābūt kādas organizācijas biedram, lai tas reģistrācijas vai pastāvīgās dzīvesvietas valstī varētu sniegt konkrēto pakalpojumu, koncesijas procedūras komisija var prasīt pierādījumus par šādu pilnvarojumu vai dalību.
+(3) Būvdarbu koncesijas līguma gadījumā koncesijas procedūras komisija pieprasa, lai pretendents būtu ieguvis vai līdz koncesijas līguma slēgšanai iegūst normatīvajos aktos noteiktu attiecīgo būvdarbu veikšanai atbilstošu būvkomersanta kvalifikācijas klasi. Ministru kabinets nosaka prasības būvkomersantam attiecībā uz pieredzi un klasi publisku būvdarbu veikšanai būvju grupās.
+(4) Koncesijas procedūras komisija nenosaka prasības attiecībā uz minimālo laiku kopš privātā partnera reģistrēšanas, licencēšanas, pilnvarošanas vai kļūšanas par noteiktas organizācijas biedru.

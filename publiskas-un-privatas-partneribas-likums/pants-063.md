@@ -1,13 +1,24 @@
-63.pants. Publiskās un privātās partnerības līguma grozīšana
-(1) Publiskās un privātās partnerības līgumu drīkst grozīt tikai līgumā vai šajā likumā paredzētajos gadījumos.
-(2) Ikviens no līdzējiem ir tiesīgs prasīt publiskās un privātās partnerības līguma grozīšanu arī gadījumos, kad notikušas būtiskas neparedzētas izmaiņas:
-1) normatīvajos aktos, kas attiecas uz publiskās un privātās partnerības līguma izpildi;
-2) ekonomiskajos un finansiālajos apstākļos, kas skar publiskās un privātās partnerības līguma izpildi.
-(3) Šā panta otrajā daļā minētajos gadījumos publiskās un privātās partnerības līgumu var grozīt, ja:
-1) izmaiņas iestājas pēc publiskās un privātās partnerības līguma noslēgšanas;
-2) izmaiņas ir būtiskas;
-3) izmaiņas ir nenovēršamas un neatkarīgas no līdzēju gribas un kontroles.
-(4) Publiskās un privātās partnerības līgums šā panta otrajā daļā minētajos gadījumos tiek grozīts, lai līgums tiktu saglabāts un atbilstu jaunajiem apstākļiem.
-(5) Koncesijas līguma grozījumi nedrīkst būt tādi, kuru rezultātā mainās koncesijas līguma risku sadalījums.
-(6) Ja publiskās un privātās partnerības līgumu var turpināt tikai tad, ja mainās iepriekš līgumā noteiktie publiskās un privātās partnerības aktīvu uzskaites noteikumi (16.panta sestās daļas 5.punkts), publiskā partnera pārstāvim, lai parakstītu līguma grozījumus, jāsaņem Finanšu ministrijas atzinums par grozījumu ietekmi uz valsts budžeta ilgtermiņa saistību apjomu un valsts parādu. Ja Finanšu ministrijas atzinumā tiek norādīts, ka publiskās un privātās partnerības līguma grozījumi radīs nevēlamu ietekmi uz valsts budžeta ilgtermiņa saistību apjomu un valsts parādu, lēmumu par līguma grozījumiem pieņem Ministru kabinets.
-(7) Līdzēju parakstītos publiskās un privātās partnerības līguma grozījumus publiskā partnera pārstāvis nosūta uzraudzības institūcijai.
+63. pants. Publiskās un privātās partnerības līguma grozīšana
+(1) Koncesijas līguma grozījumi ir pieļaujami, ja tie nemaina koncesijas līguma vispārējo raksturu (veidu un koncesijas procedūras dokumentos noteikto mērķi) un atbilst vienam no šādiem gadījumiem:
+1) grozījumi ir nebūtiski;
+2) grozījumi ir būtiski un tiek izdarīti tikai šā panta trešajā daļā minētajos gadījumos;
+3) grozījumi tiek izdarīti šā panta piektajā daļā minētajā gadījumā neatkarīgi no tā, vai tie ir būtiski vai nebūtiski.
+(2) Koncesijas līguma grozījumi ir būtiski jebkurā no šādiem gadījumiem:
+1) grozītie koncesijas līguma noteikumi, ja tie būtu bijuši paredzēti koncesijas procedūras dokumentos, pieļautu atšķirīgu piedāvājumu iesniegšanu vai citu pretendentu dalību vai izvēli koncesijas procedūrā;
+2) ekonomiskais līdzsvars (piemēram, risku sadalījums un tos kompensējošie līdzekļi), ko paredz koncesijas līgums, tiek mainīts koncesijas procedūrā izraudzītā pretendenta interesēs;
+3) grozījumi būtiski paplašina koncesijas darbības jomu;
+4) koncesijas procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu pretendentu gadījumos, kas nav minēti šā panta trešās daļas 4. punktā.
+(3) Būtiski koncesijas līguma grozījumi ir pieļaujami šādos gadījumos:
+1) koncesijas procedūras dokumenti un koncesijas līgums skaidri un nepārprotami paredz grozījumu iespēju, nosacījumus, kad grozījumi ir pieļaujami, grozījumu apjomu un būtību. Šādi noteikumi neparedz izmaiņas vai iespējas, kas mainītu koncesijas līguma vispārējo raksturu;
+2) publiskajam partnerim ir nepieciešami papildu būvdarbi vai pakalpojumi, kas nebija iekļauti sākotnējā koncesijas līgumā, un privātā partnera maiņa radītu būtisku izmaksu pieaugumu, un šo maiņu nevar veikt tādu ekonomisku vai tehnisku iemeslu dēļ kā aizvietojamības vai savietojamības prasības ar jau sākotnējā koncesijas līgumā iepirkto aprīkojumu, pakalpojumiem vai iekārtām vai privātā partnera maiņa radītu ievērojamas grūtības;
+3) koncesijas līguma izmaiņas ir nepieciešamas tādu iemeslu dēļ, kurus publiskais partneris iepriekš nevarēja paredzēt, un tās nemaina koncesijas līguma vispārējo raksturu;
+4) koncesijas procedūrā izraudzīto pretendentu (koncesijas līguma pusi) aizstāj ar citu pretendentu atbilstoši komerctiesību jomas normatīvo aktu noteikumiem par komersantu reorganizāciju un uzņēmuma pāreju, šis pretendents atbilst paziņojumā par koncesiju vai koncesijas procedūras dokumentos noteiktajām kvalifikācijas prasībām un uz to neattiecas šā likuma 37. panta pirmajā daļā noteiktie izslēgšanas noteikumi, kā arī tie šā likuma 37. panta otrajā daļā minētie izslēgšanas noteikumi, kurus publiskais partneris sākotnēji noteicis paziņojumā par koncesiju vai koncesijas procedūras dokumentos.
+(4) Katrs koncesijas līguma, kas nav slēgts, lai nodrošinātu Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma 3., 4., 5., 6. vai 7. pantā minētās darbības, līgumcenas pieaugums šā panta trešās daļas 1., 2. un 3. punktā minēto grozījumu gadījumā nedrīkst pārsniegt 50 procentus no sākotnējās koncesijas līguma līgumcenas.
+(5) Koncesijas līguma grozījumi ir pieļaujami, ja šo grozījumu vērtība, ko nosaka kā visu secīgi veikto grozījumu naudas vērtību summu (neņemot vērā to grozījumu vērtību, kuri izdarīti saskaņā ar šā panta trešās daļas 1., 2. un 3. punktu), vienlaikus nesasniedz:
+1) Ministru kabineta noteikto līgumcenas robežvērtību, sākot ar kuru paziņojums par koncesiju publicējams Eiropas Savienības Oficiālajā Vēstnesī;
+2) 10 procentus no sākotnējās koncesijas līguma līgumcenas.
+(6) Ja koncesijas līgumā ir paredzēta līgumcenas indeksācija, šā panta ceturtajā un piektajā daļā minētā sākotnējā koncesijas līguma līgumcena ir līgumcena, kurai veikta indeksācija. Ja koncesijas līgumā nav paredzēta līgumcenas indeksācija, līgumcenu pēc grozījumu izdarīšanas nosaka, ņemot vērā vidējo inflācijas līmeni publiskā partnera dalībvalstī.
+(7) Ja publiskais partneris izdarījis šā panta trešās daļas 2. un 3. punktā minētos grozījumus koncesijas līgumā, kura līgumcena ir vienāda ar Ministru kabineta noteikto līgumcenas robežvērtību vai lielāka par to, publiskā partnera pārstāvis 10 darbdienu laikā pēc grozījumu spēkā stāšanās dienas publicē paziņojumu par izmaiņām koncesijas līgumā tās darbības laikā.
+(8) Koncesijas līguma grozījumiem, kuri neatbilst šā panta pirmajā daļā minētajiem gadījumiem, piemērojamas šajā likumā noteiktās koncesijas procedūras.
+(9) Publiskais partneris, lai parakstītu publiskās un privātās partnerības līguma grozījumus, saņem uzraudzības institūcijas atzinumu un, ja ar līguma grozījumiem mainās iepriekš līgumā noteiktie publiskās un privātās partnerības aktīvu uzskaites noteikumi, arī Finanšu ministrijas atzinumu par grozījumu ietekmi uz valsts budžeta ilgtermiņa saistību apjomu un vispārējās valdības sektora budžeta bilanci un parādu. Ja Finanšu ministrijas atzinumā norādīts, ka publiskās un privātās partnerības līguma grozījumi radīs nevēlamu ietekmi uz valsts budžeta ilgtermiņa saistību apjomu un vispārējās valdības sektora budžeta bilanci un parādu, lēmumu par līguma grozījumiem pieņem Ministru kabinets.
+(10) Līdzēju parakstītos publiskās un privātās partnerības līguma grozījumus publiskā partnera pārstāvis nosūta uzraudzības institūcijai.

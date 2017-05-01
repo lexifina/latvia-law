@@ -1,5 +1,5 @@
 87.pants. Koncesijas procedūru nolikums institucionālās partnerības gadījumā
-(1) Ja kopsabiedrības privātā dalībnieka noteikšanai publiskais partneris piemēro kādu no šā likuma 17.panta pirmajā daļā minētajām koncesijas procedūrām, tad papildus šā likuma 33.pantā minētajai informācijai nolikumā norāda:
+(1) Ja kopsabiedrības privātā dalībnieka noteikšanai publiskais partneris piemēro kādu no šā likuma 17.panta pirmajā un septītajā daļā minētajām koncesijas procedūrām, tad papildus šā likuma 33.pantā minētajai informācijai nolikumā norāda:
 1) ka koncesijas līguma izpildei publiskais partneris (viens vai vairāki) un privātais dalībnieks nodibinās kopsabiedrību vai pārveidos valsts vai pašvaldības kapitālsabiedrību par kopsabiedrību, ar kuru katrs publiskais partneris kā ar privāto partneri slēgs koncesijas līgumu;
 2) noteikumus attiecībā uz kapitāla daļu sadalījumu kopsabiedrībā;
 3) nosacījumus attiecībā uz kopsabiedrības darbību un iespējām uzņemties papildu uzdevumus koncesijas līguma izpildes laikā;

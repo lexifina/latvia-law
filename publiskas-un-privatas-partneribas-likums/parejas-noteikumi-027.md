@@ -1,0 +1,1 @@
+27. Ministru kabinets līdz 2017. gada 10. maijam izdod šā likuma 13.¹ pantā, 19. panta trešajā daļā, 29.² panta septītajā daļā, 37. panta astotajā un trīspadsmitajā daļā un 121. pantā minētos noteikumus.

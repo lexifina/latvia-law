@@ -14,7 +14,7 @@
 3) koncesijas procedūras komisijas izveidošanas un darbības kārtību;
 4) iesniegumu izskatīšanas komisijas izveidošanas un darbības kārtību;
 5) koncesijas procedūras, to piemērošanas kārtību;
-6) īpašos nosacījumus būvdarbu koncesijas procedūrai.
+6) (izslēgts ar 20.04.2017. likumu).
 (3) Institucionālās partnerības jomā likums nosaka:
 1) kārtību, kādā tiek izraudzīts kopsabiedrības privātais dalībnieks;
 2) kopsabiedrības izveidošanas kārtību, darbības īpatnības un darbības izbeigšanas noteikumus;

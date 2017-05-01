@@ -1,7 +1,5 @@
 Likumā iekļautas tiesību normas, kas izriet no:
-1) Padomes 1989.gada 21.decembra direktīvas par to normatīvo un administratīvo aktu koordinēšanu, kuri attiecas uz izskatīšanas procedūru piemērošanu, piešķirot piegādes un uzņēmuma līgumus valsts vajadzībām;
-2) Eiropas Parlamenta un Padomes 2004.gada 31.marta direktīvas 2004/18/EK par to, kā koordinēt būvdarbu valsts līgumu, piegādes valsts līgumu un pakalpojumu valsts līgumu slēgšanas tiesību piešķiršanas procedūru;
-3) Eiropas Parlamenta un Padomes 2004.gada 31.marta direktīvas 2004/17/EK, ar ko koordinē iepirkuma procedūras, kuras piemēro subjekti, kas darbojas ūdensapgādes, enerģētikas, transporta un pasta pakalpojumu nozarēs;
-4) Eiropas Parlamenta un Padomes 2005.gada 16.novembra direktīvas 2005/75/EK par labojumiem direktīvā 2004/18/EK par to, kā koordinēt būvdarbu valsts līgumu, piegādes valsts līgumu un pakalpojumu valsts līgumu slēgšanas tiesību piešķiršanas procedūru;
-5) Eiropas Parlamenta un Padomes 2007.gada 11.decembra direktīvas 2007/66/EK, ar ko Padomes direktīvas 89/665/EEK un 92/13/EEK groza attiecībā uz pārskatīšanas procedūru efektivitātes uzlabošanu valsts līgumu piešķiršanas jomā;
-6) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi.
+1) Padomes 1989. gada 21. decembra direktīvas 89/665/EEK par to normatīvo un administratīvo aktu koordinēšanu, kuri attiecas uz izskatīšanas procedūru piemērošanu, piešķirot piegādes un uzņēmuma līgumus valsts vajadzībām;
+2) Eiropas Parlamenta un Padomes 2007. gada 11. decembra direktīvas 2007/66/EK, ar ko Padomes direktīvas 89/665/EEK un 92/13/EEK groza attiecībā uz pārskatīšanas procedūru efektivitātes uzlabošanu valsts līgumu piešķiršanas jomā;
+3) Eiropas Parlamenta un Padomes 2009. gada 18. jūnija direktīvas 2009/52/EK, ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi;
+4) Eiropas Parlamenta un Padomes 2014. gada 26. februāra direktīvas 2014/23/ES par koncesijas līgumu slēgšanas tiesību piešķiršanu.

@@ -1,5 +1,5 @@
 24.pants. Koncesijas procedūras komisijas izveidošana
-(1) Koncesijas procedūras komisiju izveido publiskā partnera pārstāvis. Publiskā partnera pārstāvis nodrošina izveidotās koncesijas procedūras komisijas darbu un ir atbildīgs par tās darbību.
+(1) Koncesijas procedūras komisiju izveido publiskā partnera pārstāvis. Koncesijas procedūras komisijā iekļauj personas, kurām nav piemērots administratīvais sods par pārkāpumiem publisko iepirkumu un publiskās un privātās partnerības jomā - aizliegums ieņemt valsts amatpersonas amatus, kuru pienākumos ietilpst lēmumu pieņemšana publisko iepirkumu un publiskās un privātās partnerības jomā vai iepirkuma līgumu, vispārīgo vienošanos, partnerības iepirkuma līgumu vai koncesijas līgumu noslēgšana, kā arī pieņemt attiecīgus lēmumus un slēgt attiecīgus līgumus - vai šā soda izpilde ir beigusies. Lai pārliecinātos par to, publiskā partnera pārstāvis iegūst informāciju publikāciju vadības sistēmā.
 (2) Izveidojot koncesijas procedūras komisiju, publiskā partnera pārstāvis nodrošina, lai tā būtu kompetenta koncesijas līguma slēgšanas jomā.
 (3) Koncesijas procedūras komisija, veicot savus pienākumus, ir tiesīga pieaicināt ekspertus vai publiskās un privātās partnerības lietpratējus, kuri nav komisijas locekļi.
 (4) Koncesijas procedūras komisiju izveido vismaz piecu locekļu sastāvā.

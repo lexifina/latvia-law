@@ -1,8 +1,10 @@
-36.pants. Koncesijas procedūras izbeigšana vai pārtraukšana
+36. pants. Koncesijas procedūras izbeigšana vai pārtraukšana
 (1) Koncesijas procedūras komisija pieņem lēmumu izbeigt attiecīgo koncesijas procedūru, ja:
-1) šai koncesijas procedūrai nav iesniegts neviens pretendenta pieteikums vai piedāvājums;
-2) neviens iesniegtais piedāvājums neatbilst nolikumā ietvertajām prasībām;
-3) neviens pretendents neatbilst nolikumā izvirzītajām kvalifikācijas, pretendentu atlases vai konkursa dialoga procedūrai noteiktajām prasībām;
-4) koncesijas procedūras komisija sarunās par koncesijas līguma projektu ne ar vienu no pretendentiem šā likuma 52.panta noteiktajā kārtībā nepanāk vienošanos par koncesijas līgumu un līdz ar to koncesijas līgums ar privāto partneri netiek noslēgts.
-(2) Koncesijas procedūras komisija var jebkurā brīdī ar savu lēmumu pārtraukt attiecīgo koncesijas procedūru, ja tam ir objektīvs pamatojums un saņemta katra publiskā partnera piekrišana.
-(3) Ja tiek pieņemts lēmums par koncesijas procedūras izbeigšanu vai pārtraukšanu, koncesijas procedūras komisija nosūta šā likuma 53.panta piektajā daļā minēto informāciju visiem pretendentiem, iesniedz publicēšanai šā likuma 53.panta pirmajā daļā minēto paziņojumu un sagatavo noslēguma ziņojumu (55.pants).
+1) šīs koncesijas procedūras rezultātā nav iesniegti pieteikumi vai piedāvājumi;
+2) ir iesniegti koncesijas līgumam neatbilstoši piedāvājumi, kas bez būtiskiem grozījumiem neatbilst koncesijas procedūras dokumentos noteiktajām prasībām;
+3) ir iesniegti kvalifikācijas prasībām neatbilstoši un no koncesijas procedūras izslēdzami pretendentu pieteikumi;
+4) šā likuma 52. pantā noteiktajā kārtībā sarunās par koncesijas līguma projektu ne ar vienu no pretendentiem nav panākta vienošanās par koncesijas līgumu.
+(2) Ja koncesijas procedūras komisija ir pieņēmusi lēmumu izbeigt koncesijas procedūru saskaņā ar šā panta pirmās daļas 1., 2. vai 3. punktu, publiskais partneris var piemērot sarunu procedūru saskaņā ar šā likuma 17. panta sesto daļu.
+(3) Koncesijas procedūras komisija ir tiesīga pārtraukt koncesijas procedūru un neslēgt koncesijas līgumu, ja tam ir objektīvs pamatojums un ir saņemta katra publiskā partnera piekrišana. Ja koncesijas procedūra ir pārtraukta, tā nav atsākama.
+(4) Ja koncesijas procedūra tiek izbeigta vai pārtraukta, koncesijas procedūras komisija triju darbdienu laikā pēc lēmuma pieņemšanas vienlaikus informē visus pretendentus par visiem iemesliem, kuru dēļ koncesijas procedūra tiek izbeigta vai pārtraukta. Koncesijas procedūras komisija visus pretendentus informē par termiņu, kādā persona, ievērojot šā likuma 29. panta otrās daļas 1. vai 2. punktu, var iesniegt Iepirkumu uzraudzības birojam iesniegumu par koncesijas procedūras pārkāpumiem. Šā panta izpratnē uzskatāms, ka informācija nodota visiem pretendentiem vienlaikus, ja attiecīgā informācija tiem nosūtīta vai nodota vienā dienā.
+(5) Koncesijas procedūras komisija informāciju par koncesijas procedūras izbeigšanu vai pārtraukšanu nosūta pa pastu, faksu vai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, vai nodod personiski. Koncesijas procedūras komisija saglabā pierādījumus par informācijas nosūtīšanas vai nodošanas datumu un veidu.

@@ -1,0 +1,1 @@
+26. Koncesijas procedūras, kas uzsāktas pirms 2017. gada 1. maija, pabeidzamas, tai skaitā apstrīdamas vai pārsūdzamas, saskaņā ar likuma noteikumiem, kuri bija spēkā attiecīgās koncesijas procedūras izsludināšanas dienā, izņemot noteikumus, kuri iekļauti šā likuma 38. panta trešajā daļā un 53. panta pirmajā un otrajā daļā.

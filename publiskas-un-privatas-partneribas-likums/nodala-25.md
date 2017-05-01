@@ -1,0 +1,1 @@
+XXV nodaļa. Citi noteikumi
