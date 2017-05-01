@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Publiskās un privātās partnerības likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84 (5911)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-27",
+  "entry_into_force": "2017-05-01",
+  "notification_date": "2017-04-27",
+  "commission_reference": "MNE(2017)52327",
+  "nim_celex": "72014L0023LVA_247245",
+  "nim_id": "247245",
+  "transposes_celex": [
+    "32014L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8df93771-38fc-4d7c-a07b-7cc848d0d387",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
