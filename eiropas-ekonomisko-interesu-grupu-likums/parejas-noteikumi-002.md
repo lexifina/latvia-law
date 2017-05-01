@@ -1,0 +1,1 @@
+2. Līdz 2017. gada 31. maijam Uzņēmumu reģistra amatpersona izdara Eiropas ekonomisko interešu grupu reģistrā ierakstu par tādu ziņu izslēgšanu no Eiropas ekonomisko interešu grupu reģistra, kuras satur informāciju par personas dzīvesvietu, nepieņemot atsevišķu lēmumu un neiesniedzot ierakstu publicēšanai.
