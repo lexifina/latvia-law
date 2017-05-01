@@ -11,8 +11,8 @@ Reģistrācijas pieteikumu parakstīt personiski ir pienākums:
 1) tajā minētā persona paraksta Uzņēmumu reģistram iesniegto sapulces protokolu (lēmumu) vai tā atvasinājumu, kurā ietverts attiecīgais lēmums;
 2) tajā minētās personas vietā uz notariālā kārtībā izdotas pilnvaras pamata pieteikumu paraksta cita persona un šī pilnvara ir pievienota pieteikumam.
 Uzņēmumu reģistram iesniedzamo dokumentu atvasinājumiem jābūt apliecinātiem likumos un citos normatīvajos aktos noteiktajā kārtībā. To personu parakstu paraugiem, kurām uzņēmumā (uzņēmējsabiedrībā) piešķirtas paraksta tiesības, jābūt apliecinātiem Bāriņtiesu likumā noteiktajā kārtībā, pie zvērināta notāra vai Uzņēmumu reģistra amatpersonas. Tāpat jābūt apliecinātai arī šo personu rīcībspējai. Ārvalstīs izdotos publiskos dokumentus attiecīgi legalizē, ja starptautiskajos līgumos nav paredzēts citādi, pievienojot notariāli apliecinātu tulkojumu latviešu valodā.
-Reģistrējot uzņēmuma (uzņēmējsabiedrības) filiāli vai pārstāvniecību, jāievēro visi šā likuma noteikumi.
+Reģistrējot uzņēmuma (uzņēmējsabiedrības) filiāli, jāievēro visi šā likuma noteikumi.
 Personas, kuras paraksta reģistrācijas pieteikumu vai iesniedz dokumentus Uzņēmumu reģistram, likumos noteiktajā kārtībā atbild par iesniegto dokumentu un tajos ietverto ziņu pareizību. Persona, kura iesniedz dokumentus Uzņēmumu reģistram vai saņem dokumentus no Uzņēmumu reģistra, uzrāda pasi vai citu personu apliecinošu dokumentu.
-Visi ieraksta izdarīšanai nepieciešamie dokumenti un citi likumā noteiktie dokumenti Uzņēmumu reģistram iesniedzami papīra formā vai elektroniski. Ja pieteikums tiek iesniegts elektroniski, izmantojama internetā Uzņēmumu reģistra mājaslapā pieejamā speciālā tiešsaistes forma.
-Reģistrējot izšķirošo ietekmi, ievēro Koncernu likuma un šā likuma noteikumus.
+(Devītā daļa izslēgta ar 23.03.2017. likumu)
+(Desmitā daļa izslēgta ar 23.03.2017. likumu)
 Pieteikumā Uzņēmumu reģistram persona var norādīt adresi, kurā tā ir sasniedzama. Ja personai saskaņā ar Iedzīvotāju reģistra ziņām nav deklarētās dzīvesvietas vai norādītās adreses ārvalstī, persona pieteikumā Uzņēmumu reģistram norāda adresi, kurā tā ir sasniedzama. Ziņas par pieteikumā norādīto adresi Uzņēmumu reģistrs sniedz pēc informācijas pieprasītāja pamatota pieprasījuma.

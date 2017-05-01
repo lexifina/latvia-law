@@ -1,0 +1,1 @@
+24. Šā likuma 2. panta jaunā redakcija un grozījumi, kas paredz izslēgt 8. panta pirmās daļas 1. punktu, 13. pantu, 14. panta pirmās daļas 1. punktu un 18.¹² pantu saistībā ar atteikšanos no lietu piekritības noteikšanas, stājas spēkā 2018. gada 1. jūlijā.
