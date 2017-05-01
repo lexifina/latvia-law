@@ -5,7 +5,7 @@
 2) partijas programmu;
 3) ne mazāk kā 200 partijas dibinātāju sarakstu, kurā ir norādīts partijas nosaukums un pretī katra dibinātāja vārdam, uzvārdam, personas kodam un norādei par pilsonību ir Notariāta likumā noteiktajā kārtībā zvērināta notāra apliecināts attiecīgā dibinātāja paraksts. Apliecinot parakstu, zvērināts notārs pārbauda arī katra dibinātāja rīcībspēju;
 4) partijas statūtus;
-5) partijas valdes locekļu sarakstu;
+5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli;
 6) dokumentu, kas apliecina samaksu par publikāciju oficiālajā izdevumā "Latvijas Vēstnesis";
 7) šā likuma 13.panta 1.¹ daļā minēto partijas dibinātāju sapulces norises protokolu.
 (3) Pieteikumam par partiju apvienības ierakstīšanu partiju reģistrā pievieno:

@@ -1,5 +1,13 @@
 20.pants. Ieraksta izdarīšana partiju reģistrā
-(1) Ierakstu partiju reģistrā izdara, pamatojoties uz attiecīgās partijas pieteikumu vai tiesas nolēmumu. Pieteikuma veidlapas paraugu apstiprina Ministru kabinets.
+(1) Ierakstu partiju reģistrā izdara, pamatojoties uz attiecīgās partijas pieteikumu vai tiesas nolēmumu.
+(1¹) Ieraksta izdarīšanai vai dokumentu reģistrācijai (pievienošanai lietai) partiju reģistrā iesniedz pieteikumu, kurā norāda ziņas atbilstoši pieteikuma būtībai:
+1) pieteikumā par izmaiņu ierakstīšanu partiju reģistrā vai dokumentu reģistrāciju (pievienošanu lietai) - ziņas par izmaiņu būtību un jaunās ziņas, kuras par partiju (partiju apvienību) tiek pieteiktas ierakstīšanai partiju reģistrā;
+2) pieteikumā par partijas reorganizāciju - reorganizācijas veidu (ja partiju reorganizē sadalīšanas ceļā, norāda arī sadalīšanas veidu), katras reorganizācijā iesaistītās partijas nosaukumu un reģistrācijas numuru, atbilstoši reorganizācijas veidam norādot, vai partija ir pievienojamā, sadalāmā vai iegūstošā partija, un jaundibināmās partijas (ja tāda ir) nosaukumu;
+3) pieteikumā par partijas pārveidošanu par biedrību - pieteiktā ieraksta būtību un jaunizveidotās biedrības nosaukumu;
+4) pieteikumā par partijas darbības izbeigšanu - šā likuma 18. panta pirmās daļas 9. punktā minētās ziņas;
+5) pieteikumā par partijas darbības turpināšanu - pieteiktā ieraksta būtību un šā likuma 18. panta pirmās daļas 6. punktā minētās ziņas;
+6) pieteikumā par partijas likvidāciju - pieteiktā ieraksta būtību.
+(1²) Pieteikumam par partijas (partiju apvienības) darbības turpināšanu pievieno biedru sapulces protokola izrakstu ar lēmumu par politiskās partijas (partiju apvienības) darbības turpināšanu un valdes locekļu ievēlēšanu.
 (2) Lēmumu par ieraksta izdarīšanu partiju reģistrā, atteikumu izdarīt ierakstu vai ieraksta izdarīšanas atlikšanu partiju reģistra iestādes amatpersona pieņem septiņu darbdienu laikā pēc pieteikuma saņemšanas. Tādā pašā termiņā partiju reģistra iestādes amatpersona pieņem lēmumu par ierakstu izdarīšanu partiju reģistrā, pamatojoties uz tiesas nolēmumu.
 (3) Lēmumu par ieraksta izdarīšanas atlikšanu partiju reģistra iestādes amatpersona pieņem, ja:
 1) nav iesniegti visi likumā minētie dokumenti;

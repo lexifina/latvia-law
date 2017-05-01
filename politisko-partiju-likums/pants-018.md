@@ -3,7 +3,7 @@
 1) partijas nosaukumu;
 2) partijas juridisko adresi;
 3) partijas darbības mērķi;
-4) partijas teritoriālās struktūrvienības, ja tādas ir;
+4) partijas teritoriālo struktūrvienību (ja tādas ir) nosaukumu un adresi;
 5) datumu, kad pieņemts lēmums par partijas dibināšanu;
 6) valdes locekļu vārdu, uzvārdu, personas kodu, norādot, vai viņiem ir tiesības pārstāvēt partiju atsevišķi vai kopīgi;
 7) partijas darbības termiņu, ja partija dibināta uz laiku;
