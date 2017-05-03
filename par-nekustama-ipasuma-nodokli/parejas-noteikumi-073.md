@@ -1,0 +1,1 @@
+73. Izmantojot valsts informācijas sistēmu savietotāju, datu nodošana pašvaldībām šā likuma 5. panta 1.² daļas jaunās redakcijas piemērošanai no 2018. gada 1. janvāra tiek nodrošināta ne vēlāk kā līdz 2018. gada 5. janvārim.

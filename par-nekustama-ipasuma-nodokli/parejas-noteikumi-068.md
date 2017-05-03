@@ -1,0 +1,1 @@
+68. Lai uzsāktu šā likuma 1. panta otrās daļas 14.¹ punkta piemērošanu ar 2018. gada 1. janvāri, Valsts zemes dienests līdz 2017. gada 1. jūlijam sniedz pašvaldībām informāciju par robežas joslas platību konkrētā zemes vienībā.

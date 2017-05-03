@@ -1,0 +1,1 @@
+71. Lai nodrošinātu, ka grozījums šā likuma 5. panta 1.² daļā attiecībā uz tās izteikšanu jaunā redakcijā tiek piemērots no 2018. gada 1. janvāra, Ministru kabinets līdz 2017. gada 1. augustam izdara nepieciešamos grozījumus Ministru kabineta noteikumos, kas izdoti saskaņā ar šā likuma 5. panta 3.² daļu.

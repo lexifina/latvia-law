@@ -1,0 +1,1 @@
+75. Ministru kabinets līdz 2017. gada 1. jūlijam izdara attiecīgus grozījumus normatīvajos aktos, ja nepieciešams, iesniedzot Saeimai arī attiecīgus grozījumus likumā, lai nodrošinātu to, ka dati par visām personām līdz 24 gadu vecumam, kuras iegūst vispārējo, profesionālo vai augstāko izglītību, automatizēti tiek nodoti valsts informācijas sistēmu savietotājam.
