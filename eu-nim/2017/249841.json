@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 10.maija rīkojums Nr. 233 “Grozījumi Vides politikas pamatnostādnēs 2014.-2020. gadam”",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92(5919)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-12",
+  "entry_into_force": "2017-05-10",
+  "notification_date": "2017-08-03",
+  "commission_reference": "MNE(2017)54393",
+  "nim_celex": "72014L0087LVA_249841",
+  "nim_id": "249841",
+  "transposes_celex": [
+    "32014L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ccea3110-6359-49ef-b4ee-307f4a2f9e34",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
