@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 3.maija noteikumi Nr.244 \"Koncesijas procedūras paziņojumi un to sagatavošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-15",
+  "entry_into_force": "2017-05-16",
+  "notification_date": "2017-05-17",
+  "commission_reference": "MNE(2017)52629",
+  "nim_celex": "72014L0023LVA_247662",
+  "nim_id": "247662",
+  "transposes_celex": [
+    "32014L0023"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/45c79b16-b049-46f9-99ab-503702cd0bd0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
