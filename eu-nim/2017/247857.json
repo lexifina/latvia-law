@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 25.aprīļa noteikumi Nr.226 “Energoefektivitātes pienākuma shēmas noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/97.7",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-18",
+  "entry_into_force": "2017-05-19",
+  "notification_date": "2017-05-25",
+  "commission_reference": "MNE(2017)52780",
+  "nim_celex": "72012L0027LVA_247857",
+  "nim_id": "247857",
+  "transposes_celex": [
+    "32012L0027"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/67e6fdf2-81b7-4e23-9429-54f4eb6fcbba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
