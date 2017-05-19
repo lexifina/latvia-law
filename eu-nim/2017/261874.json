@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 25. aprīļa noteikumi Nr. 225 \"Noteikumi par ārzemniekam nepieciešamo finanšu līdzekļu apmēru un finanšu līdzekļu esības konstatēšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "97 (5924)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-18",
+  "entry_into_force": "2017-05-19",
+  "notification_date": "2018-08-14",
+  "commission_reference": "MNE(2018)54339",
+  "nim_celex": "72016L0801LVA_261874",
+  "nim_id": "261874",
+  "transposes_celex": [
+    "32016L0801"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/704c458f-f83e-4e31-acb6-ad5016e368aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
