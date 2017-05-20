@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministu kabienta 2017.gada 16.maija noteikumi Nr.254 “Aizturēto ārzemnieku un patvēruma meklētāju izmitināšanas telpu iekšējās kārtības noteikumi”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "98",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-19",
+  "entry_into_force": "2017-05-20",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06472",
+  "nim_celex": "72024L1346LVA_202606472",
+  "nim_id": "202606472",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a24ad926-1588-4b6f-a4af-ee0aa77a82bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
