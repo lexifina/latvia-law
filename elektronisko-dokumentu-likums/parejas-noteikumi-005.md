@@ -1,0 +1,1 @@
+5. Sertifikācijas pakalpojumu sniegšanas informācijas sistēmu, iekārtu un procedūru drošības pārbaude, ko uzticams sertifikācijas pakalpojumu sniedzējs veicis laikā no 2016. gada 1. janvāra līdz 2017. gada 21. maijam, ir spēkā līdz 2017. gada 31. decembrim.

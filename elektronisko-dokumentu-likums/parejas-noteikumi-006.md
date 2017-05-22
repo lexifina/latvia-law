@@ -1,0 +1,1 @@
+6. Elektroniskais dokuments, kas parakstīts ar kvalificētu elektroniskā paraksta sertifikātu, ko Latvijā sertificēts uzticams sertifikācijas pakalpojumu sniedzējs izsniedzis parakstītājam laikā no 2016. gada 1. jūlija līdz 2018. gada 30. jūnijam, ir uzskatāms par pašrocīgi parakstītu šā likuma izpratnē.

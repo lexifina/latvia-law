@@ -5,8 +5,8 @@
 3) pēc kvalificēta sertifikāta saņemšanas rakstveidā apliecināt, ka ir iepazinies ar kvalificētā sertifikātā iekļautajiem nosacījumiem un ierobežojumiem;
 4) nodrošināt, lai elektroniskā paraksta radīšanas dati netiktu izmantoti bez parakstītāja ziņas;
 5) nekavējoties pieprasīt, lai uzticams sertifikācijas pakalpojumu sniedzējs anulē kvalificētu sertifikātu vai aptur tā darbību, ja ir pamats uzskatīt, ka elektroniskā paraksta radīšanas dati izmantoti bez parakstītāja ziņas;
-6) nekavējoties pieprasīt, lai uzticams sertifikācijas pakalpojumu sniedzējs anulē kvalificētu sertifikātu, ja mainās tajā iekļautā informācija.
+6) nekavējoties pieprasīt, lai uzticams sertifikācijas pakalpojumu sniedzējs atsauc kvalificētu sertifikātu, ja mainās tajā iekļautā informācija.
 (2) Parakstītājs ir atbildīgs par zaudējumiem, kas nodarīti personai, kura saprātīgi paļāvusies uz kvalificētu sertifikātu, ja:
 1) parakstītājs sniedz uzticamam sertifikācijas pakalpojumu sniedzējam nepatiesu informāciju;
 2) parakstītājs pienācīgi nerūpējas par elektroniskā paraksta radīšanas datu aizsardzību pret neatļautu izmantošanu;
-3) ir bijis pamats uzskatīt, ka elektroniskā paraksta radīšanas dati izmantoti bez parakstītāja ziņas, bet parakstītājs nav pieprasījis, lai uzticams sertifikācijas pakalpojumu sniedzējs anulē kvalificētu sertifikātu vai aptur tā darbību.
+3) ir bijis pamats uzskatīt, ka elektroniskā paraksta radīšanas dati izmantoti bez parakstītāja ziņas, bet parakstītājs nav pieprasījis, lai uzticams sertifikācijas pakalpojumu sniedzējs atsauc kvalificētu sertifikātu vai aptur tā darbību.

@@ -1,22 +1,15 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) droši elektroniskā paraksta radīšanas līdzekļi - programmatūra, aparatūra un elektroniskā paraksta radīšanas dati, kas atbilst visām šādām prasībām:
-a) elektroniskā paraksta radīšanas dati ir radīti tikai vienreiz, un ir nodrošināta to slepenība,
-b) elektroniskā paraksta radīšanas datus nevar atvasināt, un, izmantojot tehnoloģijas, elektroniskais paraksts ir nodrošināts pret viltošanu,
-c) elektroniskā paraksta radīšanas dati ir droši aizsargāti pret to, ka trešās personas varētu tos nelikumīgi izmantot,
-d) droši elektroniskā paraksta radīšanas līdzekļi nemaina parakstāmo elektronisko dokumentu un neliedz iepazīties ar šo dokumentu pirms tā parakstīšanas;
-2) drošs elektroniskais paraksts - elektroniskais paraksts, kas atbilst visām šādām prasībām:
-a) tas ir piesaistīts vienīgi parakstītājam,
-b) tas nodrošina parakstītāja personas identifikāciju,
-c) tas ir radīts ar drošiem elektroniskā paraksta radīšanas līdzekļiem, kurus var kontrolēt tikai parakstītājs,
-d) tas ir saistīts ar parakstīto elektronisko dokumentu tā, lai vēlākas izmaiņas šajā dokumentā būtu pamanāmas,
-e) tas ir apliecināts ar kvalificētu sertifikātu;
-3) elektroniskais dokuments - jebkuri elektroniski radīti, uzglabāti, nosūtīti vai saņemti dati, kas nodrošina iespēju tos izmantot kādas darbības veikšanai, tiesību īstenošanai un aizsardzībai;
-4) elektroniskais paraksts - elektroniski dati, kas pievienoti elektroniskajam dokumentam vai loģiski saistīti ar šo dokumentu, nodrošina elektroniskā dokumenta autentiskumu un apstiprina parakstītāja identitāti;
-5) elektroniskā paraksta pārbaudes dati - dati, kurus izmanto, lai pārbaudītu elektronisko parakstu;
-6) elektroniskā paraksta radīšanas dati - tikai vienreiz radīti dati, kurus parakstītājs izmanto, lai radītu elektronisko parakstu;
-7) kvalificēts sertifikāts - sertifikāts, kurš ietver šajā likumā noteikto informāciju un kuru izsniedzis uzticams sertifikācijas pakalpojumu sniedzējs;
-8) laika zīmogs - elektroniski parakstīts apstiprinājums tam, ka elektroniskais dokuments ir noteiktā datumā un laikā iezīmēts pie sertifikācijas pakalpojumu sniedzēja;
-9) parakstītājs - fiziskā persona, kurai ir elektroniskā paraksta radīšanas līdzekļi un kura darbojas vai nu savā vārdā, vai tās fiziskās vai juridiskās personas vai iestādes vārdā, kuru tā pārstāv;
-10) sertifikācijas pakalpojumi - sertifikātu izsniegšana, anulēšana, sertifikātu darbības apturēšana un atjaunošana, sertifikātu reģistrēšana, elektroniskā paraksta pārbaudes datu reģistra uzturēšana, elektroniskā dokumenta iezīmēšana ar laika zīmogu, kā arī ar elektroniskajiem parakstiem saistītu konsultāciju sniegšana;
-11) sertifikāts - elektronisks apliecinājums, kas saista elektroniskā paraksta pārbaudes datus ar parakstītāju un kalpo parakstītāja identitātes noteikšanai.
+1) (izslēgts ar 11.05.2017. likumu);
+2) drošs elektroniskais paraksts - kvalificēts elektroniskais paraksts Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk - Regula Nr. 910/2014/ES) 3. panta 12. punkta izpratnē;
+3) elektroniskais dokuments - elektroniskais dokuments Regulas Nr. 910/2014/ES 3. panta 35. punkta izpratnē;
+4) elektroniskais paraksts - elektroniskais paraksts Regulas Nr. 910/2014/ES 3. panta 10. punkta izpratnē;
+5) elektroniskā paraksta pārbaudes dati - validācijas dati Regulas Nr. 910/2014/ES 3. panta 40. punkta izpratnē;
+6) elektroniskā paraksta radīšanas dati - elektroniskā paraksta radīšanas dati Regulas Nr. 910/2014/ES 3. panta 13. punkta izpratnē;
+7) kvalificēts sertifikāts - kvalificēts elektroniskā paraksta sertifikāts Regulas Nr. 910/2014/ES 3. panta 15. punkta izpratnē;
+8) laika zīmogs - kvalificēts elektroniskais laika zīmogs Regulas Nr. 910/2014/ES 3. panta 34. punkta izpratnē;
+9) parakstītājs - parakstītājs Regulas Nr. 910/2014/ES 3. panta 9. punkta izpratnē;
+10) sertifikācijas pakalpojumi - uzticamības pakalpojumi Regulas Nr. 910/2014/ES 3. panta 16. punkta izpratnē;
+11) sertifikāts - elektroniskā paraksta sertifikāts Regulas Nr. 910/2014/ES 3. panta 14. punkta izpratnē;
+12) sertifikācijas pakalpojumu sniedzējs - uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014/ES 3. panta 19. punkta izpratnē;
+13) uzticams sertifikācijas pakalpojumu sniedzējs - kvalificēts uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014/ES 3. panta 20. punkta izpratnē.
