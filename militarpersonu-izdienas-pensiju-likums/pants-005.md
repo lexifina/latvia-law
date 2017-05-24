@@ -1,4 +1,4 @@
 5.pants. Dienesta atalgojums, no kura aprēķina izdienas pensiju
-(1) Izdienas pensiju aprēķina no militārpersonas mēneša dienesta atalgojuma un piešķirto naudas balvu vidējās summas par pēdējiem pieciem gadiem pirms atvaļināšanas no dienesta.
-(2) (Izslēgta ar 03.04.2008. likumu.)
+(1) Izdienas pensiju aprēķina no militārpersonas mēneša dienesta atalgojuma un piešķirto naudas balvu vidējās summas par pēdējiem pieciem gadiem pirms atvaļināšanas no dienesta. Militārpersonai, kas no jauna pieņemta dienestā un atvaļināta no tā, bet līdz atvaļināšanas dienai nav nodienējusi pilnus piecus gadus, dienesta atalgojuma aprēķinam trūkstošo laiku līdz pieciem gadiem rēķina no iepriekšējā dienesta perioda pirms atvaļināšanas dienas.
+(2) (Izslēgta ar 03.04.2008. likumu)
 (3) Militārpersonai, kura dienesta laikā ir piedalījusies šā likuma 4.panta pirmās daļas 1.punktā minētajās starptautiskajās operācijās, aprēķinot izdienas pensiju, par šo operāciju izpildes laiku ņem vērā dienesta atalgojumu, kas šai militārpersonai bija noteikts tās pamatdienesta vietā Latvijā pirms nosūtīšanas minēto starptautisko operāciju veikšanai.
