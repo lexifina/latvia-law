@@ -11,7 +11,7 @@
 (10¹) Ministru kabinets nosaka kārtību, kādā:
 1) izsniedz un anulē atļauju dabīgā minerālūdens izplatīšanai tirgū;
 2) reģistrē uztura bagātinātājus, aptur vai ierobežo to apriti un anulē reģistrāciju;
-3) reģistrē diētisko pārtiku, aptur vai ierobežo tās apriti un anulē reģistrāciju.
+3) paziņo par noteiktās grupās ietilpstošu pārtikas produktu izplatīšanu, tos reģistrē un anulē reģistrāciju.
 (11) Ātrās reaģēšanas sistēmas darbību, kas ir pārtikas apritē iesaistīto personu un kompetento institūciju saskaņota un organizēta informācijas apmaiņa un rīcība, gadījumos, kad pastāv tiešs vai netiešs pārtikas radīts risks cilvēku veselībai un dzīvībai, nosaka Ministru kabinets.
 (12) Ministru kabinets nosaka pārtikas kvalitātes shēmu prasības, kā arī to ieviešanas, darbības, uzraudzības un kontroles kārtību.
 (13) Ministru kabinets nosaka dzīvnieku liemeņu klasificētāju apmācības un kvalifikācijas paaugstināšanas, kā arī klasificētāja kvalifikāciju apliecinoša sertifikāta izsniegšanas un anulēšanas kārtību.
@@ -19,3 +19,4 @@
 (15) Par aizsargātas ģeogrāfiskās izcelsmes norādes, aizsargāta cilmes vietas nosaukuma, garantētas tradicionālās īpatnības pieteikuma reģistrāciju, iebilduma paziņojuma lēmuma izsniegšanu un specifikācijas grozījuma reģistrāciju maksājama valsts nodeva. Valsts nodevas apmēru un samaksas kārtību nosaka Ministru kabinets.
 (16) (Izslēgts no 01.01.2015. ar 13.09.2012. likumu, kas stājas spēkā 12.10.2012. Sk. Pārejas noteikumu 20.punktu)
 (17) Ministru kabinets nosaka maksimālo pieļaujamo transtaukskābju daudzumu pārtikas produktos.
+(18) Ministru kabinets nosaka izmantošanai pārtikā aizliegto un ierobežoti lietojamo augu, augu daļu, to produktu un citu vielu sarakstu.

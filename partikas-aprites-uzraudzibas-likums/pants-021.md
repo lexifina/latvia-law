@@ -10,7 +10,7 @@ d) visos pārtikas aprites posmos veikt riska faktoru izpēti un analīzi;
 4) bioloģiskajā lauksaimniecībā:
 a) atzīt, uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras nodarbojas ar bioloģisko lauksaimniecību, un šo personu saražoto produkciju,
 b) veidot un uzturēt to personu sarakstu, kuras nodarbojas ar bioloģisko lauksaimniecību;
-c) izsniegt atļauju produktu importam no trešajām valstīm,
+c) (izslēgts ar 27.04.2017. likumu),
 d) apliecināt inspekcijas sertifikāta izrakstu importēto produktu sūtījuma sadalīšanas gadījumā;
 5) pēc kompetentas valsts institūcijas pieprasījuma vai tāda pārtikas uzņēmuma pieprasījuma, kas eksportē pārtiku vai dzīvnieku barību, apliecināt atbilstību savas kompetences jomās;
 6) pārtikas produktu valsts intervencē:
@@ -32,7 +32,9 @@ a) uzraudzīt un kontrolēt to personu darbību, kas piedalās nacionālajā pā
 b) veidot, uzturēt un aktualizēt nacionālajā pārtikas kvalitātes shēmā iesaistīto operatoru, izejvielu piegādātāju un nacionālās pārtikas kvalitātes shēmas produktu sarakstu;
 17) atzīt un uzraudzīt laboratorijas, kas veic svaigpiena kvalitātes laboratoriskos izmeklējumus;
 18) uzraudzīt un kontrolēt saskarei ar pārtiku paredzēto materiālu un izstrādājumu ražošanas, pārstrādes un izplatīšanas procesu;
-19) (izslēgts ar 23.10.2014. likumu).
+19) (izslēgts ar 23.10.2014. likumu);
+20) uzraudzīt un kontrolēt tādu pārtikas produktu piegādes un ēdināšanas pakalpojumu līgumu izpildi, kuri noslēgti saistībā ar zaļo publisko iepirkumu;
+21) uzraudzīt un kontrolēt tirgus pārvaldītāja darbību normatīvajos aktos noteiktajā kārtībā.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar ikgadējām valsts uzraudzības un kontroles programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
 (5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.

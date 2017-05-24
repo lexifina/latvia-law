@@ -1,4 +1,4 @@
-14.pants. Pārtikas un veterinārā dienesta amatpersonas, ražotājs vai izplatītājs pārtiku atzīst par izplatīšanai nederīgu, ja:
+14.pants. Pārtikas un veterinārā dienesta valsts galvenais pārtikas un veterinārais inspektors, valsts vecākais inspektors, valsts inspektors (turpmāk - Pārtikas un veterinārā dienesta amatpersonas), ražotājs vai izplatītājs pārtiku atzīst par izplatīšanai nederīgu, ja:
 1) tā neatbilst obligātajām nekaitīguma prasībām;
 2) tai ir beidzies derīguma termiņš;
 3) tā nav marķēta atbilstoši normatīvo aktu prasībām;
