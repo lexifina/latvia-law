@@ -1,0 +1,1 @@
+5. Pabalstu, kuru Pārvalde piešķīrusi bēglim vai alternatīvo statusu ieguvušai personai līdz 2017. gada 31. maijam, tai skaitā pabalstu valsts valodas apguvei, pēc 2017. gada 1. jūnija turpina izmaksāt Valsts sociālās apdrošināšanas aģentūra kārtībā, kāda bija spēkā, pabalstu piešķirot.

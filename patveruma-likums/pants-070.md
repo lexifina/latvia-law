@@ -1,0 +1,6 @@
+70. pants. Pasākumi pārcelšanas un pārmitināšanas mehānismu ietvaros
+(1) Pārcelšanas un pārmitināšanas mehānismu ietvaros uzņemtā persona uzskatāma par patvēruma meklētāju no dienas, kad tā ir uzņemta Latvijas Republikā un iesniegusi iesniegumu par bēgļa vai alternatīvā statusa piešķiršanu, līdz brīdim, kad noslēdzies administratīvais process par tās iesniegumu.
+(2) Šā panta pirmajā daļā minētais personas iesniegums par bēgļa vai alternatīvā statusa piešķiršanu izskatāms šajā likumā noteiktajā kārtībā.
+(3) Lemjot par personas atbilstību starptautiskās aizsardzības kritērijiem un tās uzņemšanu pārcelšanas vai pārmitināšanas mehānismu ietvaros, Pārvalde var pieņemt lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt, pamatojoties uz Apvienoto Nāciju Organizācijas augstā komisāra bēgļu lietās, Eiropas Patvēruma atbalsta biroja vai citu sadarbības partneru iesniegto informāciju, ja tā ir pietiekama minētā lēmuma pieņemšanai.
+(4) Lai pārmitināšanas mehānisma ietvaros persona ieceļotu Latvijas Republikā, tai, ja nepieciešams, izsniedz pagaidu ieceļošanas dokumentu.
+(5) Pagaidu ieceļošanas dokumenta paraugu un šā dokumenta izsniegšanas un nodošanas kārtību nosaka Ministru kabinets.

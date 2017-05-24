@@ -1,0 +1,1 @@
+6. Bēglim vai alternatīvo statusu ieguvušai personai, kurai pabalsts piešķirts līdz 2017. gada 31. maijam, pabalstu izmaksā atbilstoši lēmumā par pabalsta piešķiršanu noteiktajam termiņam un uz to neattiecas šā likuma 53. panta trešajā daļā minētie nosacījumi, kas stājas spēkā 2017. gada 1. jūnijā.

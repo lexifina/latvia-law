@@ -1,6 +1,6 @@
 22.pants. Aizturēto patvēruma meklētāju ievietošana Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās un izvešana no tām
 (1) Valsts robežsardzes amatpersona aizturēto patvēruma meklētāju ievieto Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās, pamatojoties uz šā likuma 17.pantā minētajā kārtībā sastādītu aizturēšanas protokolu.
-(2) Ievietojot aizturēto patvēruma meklētāju Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās, pārbauda viņa veselības stāvokli un veic sanitāro apstrādi. Aizturētā patvēruma meklētāja veselības stāvokļa pārbaudes un sanitārās apstrādes, kā arī to rezultātu reģistrēšanas kārtību nosaka Ministru kabinets.
+(2) Ievietojot aizturēto patvēruma meklētāju Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās, pārbauda viņa veselības stāvokli un veic sanitāro apstrādi.
 (3) Aizturēto patvēruma meklētāju izmitina, ievērojot personas pamattiesības un drošību, personiskās īpašības un psiholoģisko saderību, kā arī ievērojot šādus nosacījumus:
 1) aizturētos patvēruma meklētājus - vīriešus un sievietes - izmitina atsevišķi;
 2) aizturēto patvēruma meklētāju izmitina atsevišķi no personām, kuras tiek turētas aizdomās par noziedzīga nodarījuma izdarīšanu vai kuras aizturētas Imigrācijas likumā noteiktajā kārtībā;

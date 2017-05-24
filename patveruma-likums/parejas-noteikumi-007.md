@@ -1,0 +1,1 @@
+7. Līdz šā likuma 12. panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017. gada 30. novembrim ir spēkā Ministru kabineta 2016. gada 20. septembra noteikumi Nr. 620 "Kārtība, kādā veic aizturētā patvēruma meklētāja veselības stāvokļa pārbaudi un sanitāro apstrādi, kā arī reģistrē to rezultātus".
