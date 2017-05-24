@@ -1,0 +1,3 @@
+13. pants. Pieprasījums izslēgt Eiropas politisko partiju vai Eiropas politisko fondu no Eiropas politisko partiju un fondu reģistra
+(1) Iestāde, kura konstatējusi, ka Eiropas politiskā partija vai Eiropas politiskais fonds nopietni pārkāpis nacionālo normatīvo aktu prasības, var iesniegt Eiropas politisko partiju un Eiropas politisko fondu iestādei pieprasījumu izslēgt attiecīgo Eiropas politisko partiju vai Eiropas politisko fondu no Eiropas politisko partiju un fondu reģistra.
+(2) Šā panta pirmajā daļā minēto pieprasījumu kompetentā iestāde iesniedz Eiropas politisko partiju un Eiropas politisko fondu iestādei Regulā noteiktajā kārtībā.

@@ -1,0 +1,6 @@
+8. pants. Eiropas politiskās partijas un Eiropas politiskā fonda gada pārskati
+(1) Korupcijas novēršanas un apkarošanas birojs ir kompetentais valsts kontaktpunkts, kuram Eiropas politiskā partija iesniedz gada pārskatu un tam pievienotos dokumentus saskaņā ar Regulas 23. pantu un Politisko organizāciju (partiju) finansēšanas likuma 8.⁵ pantu.
+(2) Korupcijas novēršanas un apkarošanas birojs ir kompetentais valsts kontaktpunkts, kuram Eiropas politiskais fonds iesniedz gada pārskatu un tam pievienotos dokumentus (ja tādi ir) saskaņā ar Regulas 23. pantu un likumu "Par grāmatvedību".
+(3) Korupcijas novēršanas un apkarošanas birojs savas kompetences ietvaros pārbauda Eiropas politiskās partijas un Eiropas politiskā fonda iesniegto grāmatvedības dokumentu atbilstību normatīvo aktu prasībām.
+(4) Par būtiskiem Eiropas politiskās partijas un Eiropas politiskā fonda finansēšanas noteikumu pārkāpumiem Korupcijas novēršanas un apkarošanas birojs informē Eiropas politisko partiju un Eiropas politisko fondu iestādi un Eiropas Parlamenta kredītrīkotāju, ja pārkāpums var skart Eiropas Savienības budžeta izlietojumu, vai citas dalībvalstis, ja pārkāpums var skart citu dalībvalstu intereses.
+(5) Eiropas politiskā partija un Eiropas politiskais fonds iesniedz Valsts ieņēmumu dienestam gada pārskata norakstu.
