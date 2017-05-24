@@ -1,5 +1,5 @@
 25.pants. Transportlīdzekļu vadītāja pienākumi
-(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem, kas jāuzrāda pēc policijas darbinieku, robežsargu vai muitas darbinieku pieprasījuma:
+(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt šādiem dokumentiem, kas pēc policijas darbinieku, robežsargu vai muitas amatpersonu pieprasījuma jāiedod tiem pārbaudei:
 1) vadītāja apliecība;
 2) transportlīdzekļa reģistrācijas dokumenti;
 3) (izslēgts ar 27.09.2007. likumu);
@@ -15,6 +15,7 @@ d) Ceļu satiksmes drošības direkcijā elektroniski noformēta vienas dienas a
 (2¹) Transportlīdzekļa vadītājam ir aizliegts:
 1) lietot tālruni, ja transportlīdzeklis atrodas kustībā, izņemot gadījumus, kad tālruņa aparāts tiek izmantots brīvroku režīmā;
 2) lietot piezīmjdatorus, planšetdatorus un viedierīces, ja transportlīdzeklis atrodas kustībā;
-3) atvērt apturēta transportlīdzekļa durvis, ja tas apdraud ceļu satiksmes drošību vai traucē citus ceļu satiksmes dalībniekus.
+3) atvērt apturēta transportlīdzekļa durvis, ja tas apdraud ceļu satiksmes drošību vai traucē citus ceļu satiksmes dalībniekus;
+4) lietot alkoholiskos dzērienus, narkotiskas vai psihotropas vielas pēc tam, kad transportlīdzeklis tiek apturēts pēc policijas darbinieku vai robežsargu pieprasījuma, līdz reibuma stāvokļa konstatēšanai nepieciešamās pārbaudes izdarīšanai vai atbrīvošanai no tās, kā arī atteikties no šādas pārbaudes.
 (3) Transportlīdzekļa vadītājam jāievēro šā likuma, Ceļu satiksmes noteikumu un citu ceļu satiksmi reglamentējošu normatīvo aktu prasības, pārvietojoties pa ceļiem, kā arī pa citām vietām, kurās iespējama transporta kustība.
 (4) Ja transportlīdzekļa vadītājam transportlīdzekļu vadīšanas tiesības ir atņemtas uz noteiktu laiku vai uz nenoteiktu laiku, vadītāja apliecība uzskatāma par nederīgu no dienas, kad viņam paziņots attiecīgais lēmums. Transportlīdzekļa vadītājam ir pienākums 10 dienu laikā nodot nederīgo transportlīdzekļa vadītāja apliecību Ceļu satiksmes drošības direkcijai, Valsts tehniskās uzraudzības aģentūrai vai Valsts policijai. Ja persona vadītāja apliecību nav nodevusi un tiek konstatēta tās izmantošana, vadītāja apliecība tiek aizturēta. Vadītāja apliecību aiztur un iznīcina Valsts policijas, Ceļu satiksmes drošības direkcijas un Valsts tehniskās uzraudzības aģentūras amatpersonas. Gadījumus, kad vadītāja apliecību iznīcina, un kārtību, kādā vadītāja apliecība tiek iznīcināta, nosaka Ministru kabinets.
