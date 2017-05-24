@@ -1,0 +1,1 @@
+35. Grozījumi šā likuma 3. pantā, ar kuriem devītā daļa izteikta jaunā redakcijā, pants papildināts ar 9.¹ daļu un vienpadsmitajā daļā aizstāti vārdi "par amatpersonu (darbinieku) atlīdzības noteikšanas kritērijiem un darba samaksas apmēru sadalījumā pa amatu grupām", stājas spēkā 2018. gada 1. janvārī.

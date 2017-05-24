@@ -1,7 +1,7 @@
 2.pants. Likuma darbība
 (1) Likums, ievērojot šā panta otrajā, trešajā, ceturtajā un piektajā daļā noteikto, attiecas uz šādu valsts un pašvaldību institūciju amatpersonām (darbiniekiem):
 1) Ministru kabinets;
-2) Saeima, tai skaitā Saeimas Kanceleja un citas Saeimas struktūrvienības;
+2) Saeima, tai skaitā Saeimas Administrācija un citas Saeimas struktūrvienības;
 3) Valsts prezidenta kanceleja;
 4) Valsts kontrole;
 5) Tiesībsarga birojs;

@@ -176,7 +176,7 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 54. Valsts dibinātu augstskolu vadība
 Šajā saimē ietilpst amati, kuri nav iekļauti pedagogu amatu sarakstā un kuru pildītāji administratīvi vada valsts dibinātas augstskolas, tai skaitā augstskolu struktūrvienību vadītāji, kuri sadarbībā ar augstskolas vadītāju organizē augstākās izglītības programmu īstenošanu.
 55. Nacionālo bruņoto spēku darbinieki
-Šajā saimē ietilpst civilie amati, kuru pildītāji nodrošina Nacionālo bruņoto spēku darbību atbilstoši NATO standartiem un kolektīvās aizsardzības sistēmai, sagatavo personālsastāvu un materiāltehnisko bāzi NATO oficiālo valodu, militārās terminoloģijas, vienotas apmācību metodikas, apmācību-treniņu programmu apguvei, kā arī militārajai izglītībai ārvalstīs, dalībai starptautiskās militārajās mācībās un starptautiskajās operācijās.
+Šajā saimē ietilpst civilie amati, kuru pildītāji nodrošina Nacionālo bruņoto spēku darbību atbilstoši NATO standartiem un kolektīvās aizsardzības sistēmai un zināšanu un atbildības jomā ir pielīdzināmi instruktoru un virsnieku sastāvam.
 56. Valsts attīstības plānošana, koordinācija un vadība
 Šajā saimē ietilpst amati, kuru pildītāju pienākumi ir saistīti ar ilgtermiņa attīstības plānošanu, Latvijai būtisku nacionālo interešu īstenošanu, nacionālā līmeņa attīstības plānošanas dokumentu izstrādi, to rezultātu izpildes novērtēšanu un savstarpējo saskaņotību, tai skaitā ar atbilstību Eiropas Savienības plānošanas dokumentiem, tādējādi sekmējot nozaru politiku savstarpējo koordināciju un pārresorisko uzraudzību.
 57. Tūrisma organizēšana
