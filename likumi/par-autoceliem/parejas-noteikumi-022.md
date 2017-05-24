@@ -1,0 +1,1 @@
+22. Ministru kabinets līdz 2018. gada 30. jūnijam izdod šā likuma 25. pantā (jaunajā redakcijā) minētos noteikumus par valsts un pašvaldību autoceļu un ielu būvniecības kvalitātes vispārīgām prasībām.
