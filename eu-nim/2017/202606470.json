@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 23.maija noteikumi Nr.263 \"Noteikumi par uzturēšanas normām, higiēnas un pirmās nepieciešamības preču apjomu Valsts robežsardzes patvēruma meklētāju izmitināšanas telpās izmitinātajam patvēruma meklētājam un Valsts robežsardzes izmitināšanas centrā vai Valsts robežsardzes pagaidu turēšanas telpā ievietotajam ārzemniekam\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103",
+  "official_journal_page": null,
+  "official_journal_date": "2017-05-26",
+  "entry_into_force": "2017-05-27",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06470",
+  "nim_celex": "72024L1346LVA_202606470",
+  "nim_id": "202606470",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e1e55a5d-bb00-45ec-9ab0-48f3896a0aea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
