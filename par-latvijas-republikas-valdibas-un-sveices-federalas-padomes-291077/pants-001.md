@@ -1,0 +1,1 @@
+1. pants. 2016. gada 2. novembrī parakstītais Latvijas Republikas valdības un Šveices Federālās Padomes protokols, ar kuru groza Latvijas Republikas valdības un Šveices Federālās Padomes 2002. gada 31. janvārī noslēgto konvenciju par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
