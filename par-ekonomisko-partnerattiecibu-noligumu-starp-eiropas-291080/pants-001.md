@@ -1,0 +1,1 @@
+1. pants. 2016. gada 10. jūnijā Kasanē, Botsvanā, parakstītais Ekonomisko partnerattiecību nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un DAK EPN valstīm, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
