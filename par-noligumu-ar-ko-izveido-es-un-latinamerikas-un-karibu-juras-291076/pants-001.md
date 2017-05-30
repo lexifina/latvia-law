@@ -1,0 +1,1 @@
+1. pants. 2016. gada 25. oktobrī Santodomingo parakstītais Nolīgums, ar ko izveido ES un Latīņamerikas un Karību jūras reģiona valstu starptautisko fondu (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
