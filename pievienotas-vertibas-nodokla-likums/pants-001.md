@@ -30,10 +30,10 @@ c) gaisakuģis, kura pacelšanās masa ir lielāka par 1550 kilogramiem un kurš
 12) nelietots nekustamais īpašums:
 a) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), vai tās daļa, ja to pēc pieņemšanas ekspluatācijā neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
 b) jaunuzcelta ēka vai būve (arī tajā iemontētās stacionārās iekārtas), vai tās daļa, ja to izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
-c) ēka vai būve, vai tās daļa, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
-d) ēka vai būve, vai tās daļa, ja to pēc renovācijas, rekonstrukcijas vai restaurācijas darbu pabeigšanas izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
+c) ēka vai būve, vai tās daļa, ja to pēc atjaunošanas, pārbūves vai restaurācijas darbu pabeigšanas neizmanto, un ar to saistīta zemes vienība vai zemes vienības daļa,
+d) ēka vai būve, vai tās daļa, ja to pēc atjaunošanas, pārbūves vai restaurācijas darbu pabeigšanas izmanto un pirmo reizi pārdod gada laikā pēc pieņemšanas ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
 e) nepabeigtās celtniecības objekts vai tā daļa - ēka vai būve, vai tās daļa, ja šī ēka vai būve nav pieņemta ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa,
-f) ēka vai būve, vai tās daļa, ja šo ēku vai būvi renovē, rekonstruē vai restaurē, bet tā vēl nav pieņemta ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa;
+f) ēka vai būve, vai tās daļa, ja šo ēku vai būvi atjauno, pārbūvē vai restaurē, bet tā vēl nav pieņemta ekspluatācijā, un ar to saistīta zemes vienība vai zemes vienības daļa;
 13) nomaksas pirkums - preču piegāde, kurā preces piegādātājs saskaņā ar noslēgto nomaksas pirkuma līgumu piegādā konkrētu preci, kas līgumā noteiktajā termiņā pēc visu līgumā noteikto maksājumu izdarīšanas pāriet preces saņēmēja īpašumā;
 14) pakalpojumu sniegšana - darījums, kas nav preču piegāde; par pakalpojumu sniegšanu uzskata arī:
 a) nemateriālā īpašuma (nemateriālo vērtību un tiesību) pārdošanu (nodošanu),

@@ -1,0 +1,1 @@
+29. Grozījumi šā likuma 50. pantā attiecībā uz panta papildināšanu ar 7.¹ daļu un astotās daļas papildināšanu ar 4. punktu, kā arī grozījumi 61. pantā attiecībā uz panta papildināšanu ar astoto daļu un 63. pantā attiecībā uz panta papildināšanu ar sesto daļu stājas spēkā 2018. gada 1. janvārī.

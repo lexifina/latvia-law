@@ -1,11 +1,11 @@
 142.pants. Īpašs nodokļa piemērošanas režīms būvniecības pakalpojumiem
-(1) Šā panta izpratnē būvniecības pakalpojumi ir būvdarbu veikšana jaunas būves (ēkas, inženierbūves) būvēšanai vai esošās būves vai tās daļas renovācijai, vienkāršotai renovācijai, rekonstrukcijai, vienkāršotai rekonstrukcijai, restaurācijai, konservācijai vai nojaukšanai, kā arī būvniecības pakalpojumu līgumā ietvertā visu veidu projektēšana.
+(1) Šā panta izpratnē būvniecības pakalpojumi ir būvdarbu veikšana jaunas būves (ēkas, inženierbūves) būvēšanai vai esošās būves vai tās daļas atjaunošanai, vienkāršotai atjaunošanai, pārbūvei, restaurācijai, konservācijai vai nojaukšanai, kā arī būvniecības pakalpojumu līgumā ietvertā visu veidu projektēšana.
 (2) Nodokli par šā panta ceturtajā daļā minētajiem būvniecības pakalpojumiem, kas sniegti iekšzemē, valsts budžetā maksā būvniecības pakalpojumu saņēmējs, ja būvniecības pakalpojumu sniedzējs un būvniecības pakalpojumu saņēmējs ir reģistrēts nodokļa maksātājs.
 (3) Šā panta otrajā daļā noteikto kārtību piemēro arī valsts vai pašvaldības iestāde vai pašvaldība, kas ir reģistrēta Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā saskaņā ar šā likuma 55.panta pirmo daļu vai 58.panta pirmo daļu un saņem šā panta ceturtajā daļā minētos būvniecības pakalpojumus saskaņā ar Publisko iepirkumu likumā noteikto iepirkuma procedūru vai kā publiskais partneris saskaņā ar Publiskās un privātās partnerības likumu.
 (4) Šā panta otrajā daļā noteikto kārtību piemēro būvniecības pakalpojumiem, tai skaitā:
 1) būvlaukuma sagatavošanai;
 2) būvobjekta pagaidu būvju būvēšanai un to nojaukšanai;
-3) būves nulles cikla izbūvei;
+3) (izslēgts ar 20.04.2017. likumu);
 4) būves nesošo un nenesošo elementu vai konstrukciju (tai skaitā iebūvējamo konstrukciju) būvēšanai;
 5) konstrukciju uzstādīšanai ar piegādi vai bez tās (tai skaitā stikloto konstrukciju, logu un durvju ielikšanai, liftu uzstādīšanai);
 6) iekārtu, kas ir būves neatņemama sastāvdaļa (tai skaitā ventilācijas sistēma, apkures sistēma), uzstādīšanai un montāžai;

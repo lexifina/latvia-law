@@ -1,6 +1,6 @@
 85.pants. Personas, kuras maksā nodokli valsts budžetā par preču importu
 (1) Nodokli valsts budžetā par preču importu maksā jebkura persona, ja šajā likumā nav noteikts citādi.
-(2) Ja, veicot preču importu, saskaņā ar normatīvajiem aktiem muitas jomā muitas parāds jānodrošina ar muitas galvojumu vai skaidras naudas iemaksu (drošības naudu), tad persona, kas atbildīga par muitas parāda samaksu, bet nav saņēmusi atļauju piemērot īpašo nodokļa režīmu preču importa darījumos, iesniedz galvojumu par nodokļa parādu vai nodrošina nodokļa parādu ar skaidras naudas iemaksu.
+(2) Ja, veicot preču importu, saskaņā ar normatīvajiem aktiem muitas jomā muitas parāds jānodrošina ar muitas galvojumu, tad persona, kas ir atbildīga par muitas parāda samaksu, bet nav saņēmusi atļauju piemērot īpašo nodokļa režīmu preču importa darījumos, iesniedz galvojumu par nodokļa parādu.
 (3) Veicot preču importu, īpašo nodokļa režīmu preču importa darījumos piemēro:
 1) reģistrēts nodokļa maksātājs, ja tas veic preču importu savas saimnieciskās darbības ietvaros un ir saņēmis Valsts ieņēmumu dienesta atļauju;
 2) fiskālais pārstāvis, ja tas veic preču importu, pārstāvot citas dalībvalsts reģistrētu nodokļa maksātāju vai trešās valsts vai trešās teritorijas reģistrētu nodokļa maksātāju, un ir saņēmis Valsts ieņēmumu dienesta atļauju.

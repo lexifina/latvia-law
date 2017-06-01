@@ -2,7 +2,7 @@
 (1) Reģistrētam nodokļa maksātājam ir tiesības šajā pantā noteiktajā kārtībā atskaitīt priekšnodokli par šādiem darījumiem ar nekustamo īpašumu:
 1) nelietota nekustamā īpašuma iegāde;
 2) lietota nekustamā īpašuma iegāde, ja šā nekustamā īpašuma pārdošanai piemērots nodoklis saskaņā ar šā likuma 144.pantu;
-3) nekustamā īpašuma būvniecība, rekonstrukcija, renovācija vai restaurācija.
+3) nekustamā īpašuma būvniecība, pārbūve, atjaunošana vai restaurācija.
 (2) Ja nekustamo īpašumu paredzēts izmantot tikai tādu darījumu nodrošināšanai, kas dod tiesības atskaitīt priekšnodokli, reģistrēts nodokļa maksātājs priekšnodokli par šā panta pirmajā daļā minētajiem darījumiem atskaita pilnā apmērā.
 (3) Ja nekustamo īpašumu paredzēts izmantot tikai saimnieciskajai darbībai, tai skaitā gan tādu darījumu nodrošināšanai, kas dod tiesības atskaitīt priekšnodokli, gan tādu darījumu nodrošināšanai, kas nedod tiesības atskaitīt priekšnodokli, reģistrēts nodokļa maksātājs nodokli par šā panta pirmajā daļā minētajiem darījumiem atskaita, ievērojot 98.panta pirmās vai otrās daļas nosacījumus.
 (4) Ja nekustamo īpašumu paredzēts izmantot gan saimnieciskās darbības vajadzībām, gan citiem mērķiem, kas nav saistīti ar nodokļa maksātāja saimniecisko darbību, priekšnodokli reģistrēts nodokļa maksātājs aprēķina saskaņā ar šā panta trešo daļu par to nekustamā īpašuma daļu, kura paredzēta izmantošanai saimnieciskās darbības vajadzībām.

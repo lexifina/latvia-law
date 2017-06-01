@@ -16,12 +16,7 @@ e) klīniski diagnostiskos laboratorijas pakalpojumus, ko nodrošina citās ārs
 5) cilvēka orgānu, mātes piena un cilvēka asiņu (tai skaitā asins plazmas un asins šūnu) piegādes;
 6) zobārstniecības pakalpojumus;
 7) zobu tehniķu un zobu higiēnistu sniegtos pakalpojumus pacientam;
-8) kooperatīvo sabiedrību sniegtos pakalpojumus šo kooperatīvo sabiedrību biedriem, ja šāds atbrīvojums nerada konkurences izkropļojumu:
-a) lauksaimniecības pakalpojumu kooperatīvo sabiedrību biedriem - ražojumu pārstrādei un realizācijai, kā arī lauksaimniecības un zivsaimniecības tehnikas, mašīnu, iekārtu un citu darbarīku kopīgai lietošanai un apkopei,
-b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu),
-c) automašīnu garāžu īpašnieku kooperatīvo sabiedrību biedriem,
-d) laivu garāžu īpašnieku kooperatīvo sabiedrību biedriem,
-e) dārzkopības kooperatīvo sabiedrību biedriem;
+8) (izslēgts ar 20.04.2017. likumu);
 9) sociālās aprūpes, profesionālās un sociālās rehabilitācijas, sociālās palīdzības un sociālā darba pakalpojumus, ko iedzīvotājiem sniedz personas, kuras reģistrētas sociālo pakalpojumu sniedzēju reģistrā, kā arī ēdināšanas pakalpojumus, kurus sociālo pakalpojumu sniedzējs sniedz saskaņā ar savām programmām;
 10) preču piegādes un pakalpojumu sniegšanu bērnu un jauniešu tiesību aizsardzības mērķiem, ko veic sabiedriskā labuma organizācijas;
 11) pirmsskolas izglītības iestāžu sniegtos bērnu uzturēšanās un pirmsskolas izglītības pakalpojumus;
@@ -46,7 +41,7 @@ c) pakalpojumus (ieskaitot starpniecību), kas attiecas uz noguldījumu un norē
 d) pakalpojumus (ieskaitot starpniecību), kas attiecas uz maksāšanas līdzekļu izlaišanu un apkalpošanu, kā arī tirdzniecību (ieskaitot starpniecību) ar maksāšanas līdzekļiem un citiem naudas tirgus instrumentiem, izņemot maksāšanas līdzekļus, kurus piegādā kolekcionēšanai vai kuri satur dārgmetālu,
 e) pakalpojumus (ieskaitot starpniecību), kas attiecas uz ieguldījumiem kapitālā, atvasinātajiem finanšu instrumentiem un vērtspapīriem (tai skaitā to izlaišanu, glabāšanu, atsavināšanu, turētājbankas veikto uzraudzību, bet izņemot citu uzraudzību), izņemot ieguldījumu kapitālā, atvasināto finanšu instrumentu un vērtspapīru pārvaldi;
 22) ieguldījumu fondu, valsts fondēto pensiju shēmas ieguldījumu, slēgto un atklāto pensiju fondu, riska kapitāla fondu, kā arī apdrošināšanas sabiedrību un citu ieguldījumu portfeļu, kuri ir kolektīvi ieguldījumi vai arī izveidoti uz šādu fondu noteikto prasību pamata (ieskaitot tehniskās rezerves un garantiju fondus) pārvaldi, ja tā ir saistīta ar tiesiskām vai faktiskām lēmumu pieņemšanas pilnvarām;
-23) azartspēles, izlozes un loterijas;
+23) azartspēles, izlozes un loterijas, tai skaitā azartspēles un izlozes, kuru organizēšana notiek ar elektronisko sakaru pakalpojumu starpniecību;
 24) nekustamā īpašuma pārdošanu, izņemot nelietota nekustamā īpašuma pārdošanu un apbūves zemes pārdošanu;
 25) šādus iedzīvotājiem sniegtos pakalpojumus:
 a) dzīvojamo telpu īri (izņemot viesu izmitināšanas pakalpojumus viesu izmitināšanas mītnēs - viesnīcās, moteļos, viesu mājās, lauku tūrismam izmantojamās mājās, kempingos, tūristu mītnēs),
