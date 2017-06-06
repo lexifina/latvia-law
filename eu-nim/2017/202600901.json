@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 9.maija noteikumi Nr.253 \"Atsevišķu inženierbūvju būvnoteikumi\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2017/111.1",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-05",
+  "entry_into_force": "2017-06-06",
+  "notification_date": "2026-02-03",
+  "commission_reference": "MNE(2026)00901",
+  "nim_celex": "72018L2001LVA_202600901",
+  "nim_id": "202600901",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0431fee3-912c-48ec-ba59-e1453a1f1c5d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
