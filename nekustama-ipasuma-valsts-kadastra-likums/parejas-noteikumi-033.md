@@ -1,1 +1,1 @@
-33. Šā likuma 69.panta trešo daļu sāk piemērot, izstrādājot kadastrālo vērtību bāzi 2020.-2021.gadam. Kadastrālo vērtību bāzi 2018.-2019.gadam izstrādā atbilstoši situācijai nekustamā īpašuma tirgū, kāda tā bija 2015.gada 1.jūlijā.
+33. Šā likuma 69. panta trešo daļu sāk piemērot, izstrādājot kadastrālo vērtību bāzi 2020.-2023. gadam.

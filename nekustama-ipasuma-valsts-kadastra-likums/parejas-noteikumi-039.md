@@ -1,0 +1,1 @@
+39. Ministru kabinets līdz 2018. gada 30. martam pieņem attiecīgus normatīvos aktus, lai nodrošinātu, ka Nekustamā īpašuma valsts kadastrā tiek saņemti dati, kas nepieciešami kadastrālo vērtību bāzes izstrādei no 2020. gada atbilstoši uzlabotajai kadastrālās vērtēšanas metodikai.
