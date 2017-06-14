@@ -9,4 +9,4 @@
 (8) Persona, kuras vārds, pseidonīms vai nosaukums ir norādīts uz blakustiesību objekta, pievienots tam vai parādās saistībā ar blakustiesību objektu, uzskatāma par blakustiesību subjektu, ja nav pierādīts pretējais.
 (9) Blakustiesību subjekta tiesības nav saistītas ar īpašumtiesībām uz materiālo objektu, kurā izteikts vai ietverts blakustiesību objekts. Blakustiesību subjekta tiesības šķiramas no materiālā objekta valdījuma. Blakustiesību objekta valdījuma pāreja pati par sevi nerada blakustiesību subjekta tiesību pāreju.
 (10) Attiecībā uz blakustiesību objektu izmantošanu piemērojami šā likuma 40.-45.panta noteikumi.
-(11) Blakustiesību subjekti īsteno savas tiesības tieši, ar pilnvarotu personu vai blakustiesību kolektīvā pārvaldījuma organizāciju starpniecību.
+(11) Blakustiesību subjekti īsteno savas tiesības tieši, ar pilnvarotu personu vai kolektīvā pārvaldījuma organizāciju starpniecību.

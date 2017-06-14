@@ -1,1 +1,1 @@
-6. Šā likuma 48.panta trešās daļas 3. un 7.punktā noteiktās izpildītāju tiesības tikai kolektīvi tiek administrētas attiecībā uz fonogrammās fiksētajiem izpildījumiem, kas fiksēti vai publicēti Latvijā līdz 1993.gada 15.maijam.
+6. Šā likuma 48.panta trešās daļas 3. un 7.punktā noteiktās izpildītāju tiesības tikai kolektīvi tiek pārvaldītas attiecībā uz fonogrammās fiksētajiem izpildījumiem, kas fiksēti vai publicēti Latvijā līdz 1993.gada 15.maijam.

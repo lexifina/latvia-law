@@ -8,4 +8,5 @@ Likumā ietvertas tiesību normas, kas izriet no:
 7) Eiropas Parlamenta un Padomes 2001.gada 27.septembra direktīvas 2001/84/EK par tālākpārdošanas tiesībām par labu mākslas oriģināldarba autoram;
 8) Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa direktīvas 2004/48/EK par intelektuālā īpašuma tiesību piemērošanu;
 9) Eiropas Parlamenta un Padomes 2011.gada 27.septembra direktīvas 2011/77/ES, ar ko groza direktīvu 2006/116/EK par autortiesību un dažu blakustiesību aizsardzības termiņiem;
-10) Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/28/ES par dažiem atļautiem nenosakāmu autortiesību subjektu darbu izmantošanas veidiem.
+10) Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/28/ES par dažiem atļautiem nenosakāmu autortiesību subjektu darbu izmantošanas veidiem;
+11) Eiropas Parlamenta un Padomes 2014. gada 26. februāra direktīvas 2014/26/ES par autortiesību un blakustiesību kolektīvo pārvaldījumu un muzikālo darbu lietošanai tiešsaistē daudzteritoriālo licencēšanu iekšējā tirgū.

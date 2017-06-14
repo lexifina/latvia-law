@@ -1,1 +1,1 @@
-10. Mantisko tiesību kolektīvā pārvaldījuma organizācija nodrošina, ka ne vēlāk kā līdz 2013.gada 1.jūnijam tās mājaslapā internetā tiek ievietota šā likuma 66.panta sestajā daļā paredzētā informācija.
+10. Kolektīvā pārvaldījuma organizācija nodrošina, ka ne vēlāk kā līdz 2013.gada 1.jūnijam tās mājaslapā internetā tiek ievietota šā likuma 66.panta sestajā daļā paredzētā informācija.
