@@ -9,7 +9,10 @@
 7) veic speciālās operācijas;
 8) saskaņā ar starptautisko līgumu noteikumiem veic klasificētās informācijas apmaiņu ar Latvijas valsts iestādēm un Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības dalībvalstu institūcijām;
 9) veic gaisa telpas, teritoriālās jūras un iekšējo ūdeņu (izņemot upes un ezerus), kā arī ekskluzīvās ekonomiskās zonas novērošanu un kontroli;
-10) organizē Latvijas Republiku un Nacionālos bruņotos spēkus reprezentējošas militārās ceremonijas un nodrošina godasardzi.
+10) organizē Latvijas Republiku un Nacionālos bruņotos spēkus reprezentējošas militārās ceremonijas un nodrošina godasardzi;
+11) veic militāro izlūkošanu operacionālajā un taktiskajā līmenī;
+12) nodrošina Ziemeļatlantijas līguma organizācijas un Eiropas Savienības dalībvalstu bruņotos spēkus uzņemošās valsts atbalstu;
+13) veic citus Valsts aizsardzības plānā noteiktos valsts apdraudējuma situāciju novēršanas un pārvarēšanas pasākumus.
 (2) Militārā policija papildus šā panta pirmajā daļā noteiktajiem pasākumiem veic šādus pasākumus:
 1) Valsts prezidenta noteiktajā kārtībā nodrošina Valsts prezidenta, viņa ģimenes locekļu, jaunievēlētā Valsts prezidenta (laikā no ievēlēšanas līdz svinīgā solījuma došanai), personas, kas ieņēma Valsts prezidenta amatu, Valsts prezidenta kancelejas un Valsts prezidenta rezidences aizsardzību (apsardzi);
 2) Ministru kabineta noteiktajā kārtībā nodrošina Valsts prezidenta uzaicināto ārvalstu un starptautisko organizāciju pārstāvju aizsardzību (apsardzi);
@@ -28,5 +31,6 @@ d) gādā par drošību militāro pasākumu norises vietās;
 2) civilās aizsardzības sistēmai - preventīvajos un reaģēšanas pasākumos, neatliekamos ārkārtējo situāciju izraisījušo notikumu seku likvidēšanas pasākumos, kā arī glābšanas un meklēšanas darbos;
 3) Valsts policijai - sabiedriskās kārtības un drošības nodrošināšanā;
 4) Valsts robežsardzei - valsts robežas neaizskaramības nodrošināšanā;
-5) Jaunsardzes un informācijas centram - jaunsargu interešu izglītības programmas īstenošanā.
+5) Jaunsardzes un informācijas centram - jaunsargu interešu izglītības programmas īstenošanā;
+6) valsts drošības iestādēm - nacionālās drošības pasākumu veikšanā.
 (4) Militārās policijas amatpersonām, pildot dienesta pienākumus, atbilstoši kompetencei ir tiesības Aizsardzības ministrijas valdījumā esošajos objektos, apsargājamos objektos un militāro pasākumu norises vietās, ja ir pamatotas aizdomas, ka persona izdarījusi likumpārkāpumu, normatīvajos aktos noteiktajā kārtībā pārbaudīt šo personu, lai konstatētu, vai tā ir lietojusi alkoholu, narkotiskās, psihotropās vai toksiskās vielas.
