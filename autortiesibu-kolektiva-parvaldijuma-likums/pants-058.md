@@ -1,0 +1,2 @@
+58. pants. Informācijas par atļaujas izsniegšanu vai atcelšanu publiskošana
+Informāciju par mantisko tiesību kolektīvā pārvaldījuma veikšanai izsniegto atļauju un par šā likuma 57. pantā norādīto paziņojumu Kultūras ministrija publicē oficiālajā izdevumā "Latvijas Vēstnesis" pēc lēmuma pieņemšanas vai paziņojuma saņemšanas. Informāciju par atļaujas atcelšanu Kultūras ministrija publicē oficiālajā izdevumā "Latvijas Vēstnesis" pēc lēmuma pārsūdzēšanas termiņa beigām.

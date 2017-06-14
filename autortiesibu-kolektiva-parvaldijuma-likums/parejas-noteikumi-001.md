@@ -1,0 +1,1 @@
+1. Kompensācijas, kuras kolektīvā pārvaldījuma organizācija ir piedzinusi tiesas ceļā, pamatojoties uz Autortiesību likuma 69. panta pirmās daļas 4. punktu (redakcijā līdz 2007. gada 28. februārim), atzīstamas par ieņēmumiem no tiesību pārvaldības šā likuma izpratnē.

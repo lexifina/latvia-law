@@ -1,0 +1,1 @@
+5. Kolektīvā pārvaldījuma organizācijas statūtu grozījumus, kas nepieciešami, lai nodrošinātu šajā likumā noteikto prasību izpildi, izdara saprātīgā termiņā, bet ne vēlāk kā līdz 2017. gada 31. decembrim.

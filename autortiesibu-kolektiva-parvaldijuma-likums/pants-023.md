@@ -1,0 +1,3 @@
+23. pants. Neizmaksājamie ieņēmumi no tiesību pārvaldības un noilgums
+(1) Ieņēmumi no tiesību pārvaldības atzīstami par neizmaksājamiem, ja autortiesību vai blakustiesību subjekts, kam pienākas atlīdzība, nav noskaidrots vai atrasts triju gadu laikā pēc tā finanšu gada beigām, kurā ieņēmumi no tiesību pārvaldības iekasēti, un kolektīvā pārvaldījuma organizācija atbilstoši šā likuma 22. panta pirmajai daļai ir veikusi pasākumus, lai autortiesību vai blakustiesību subjektu noskaidrotu vai atrastu.
+(2) Ja autortiesību vai blakustiesību subjekts nav noskaidrots vai atrasts šā panta pirmajā daļā noteiktajā termiņā, viņa prasījumi izmaksāt atlīdzību noilgst triju gadu laikā pēc tā finanšu gada beigām, kurā ieņēmumi no tiesību pārvaldības iekasēti.

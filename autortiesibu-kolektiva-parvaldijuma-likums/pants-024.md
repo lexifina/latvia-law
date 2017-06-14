@@ -1,0 +1,4 @@
+24. pants. Pārvaldījuma izdevumi un citi atskaitījumi
+(1) Pārvaldījuma izdevumus un citus atskaitījumus no ieņēmumiem no tiesību pārvaldības, kā arī šādu atskaitījumu maksimālo apmēru un veikšanas kārtību nosaka kolektīvā pārvaldījuma organizācijas biedru sapulce.
+(2) Pārvaldījuma izdevumiem jābūt samērīgiem, un to apmērs nedrīkst pārsniegt pamatotus un dokumentētus izdevumus, kas radušies kolektīvā pārvaldījuma organizācijai, pārvaldot autortiesību vai blakustiesību subjektu mantiskās tiesības atbilstoši kolektīvā pārvaldījuma organizācijas biedru sapulces apstiprinātajiem noteikumiem.
+(3) Kolektīvā pārvaldījuma organizācija pārstāvēto autortiesību vai blakustiesību subjektu interesēs, kā arī ievērojot savus mērķus un uzdevumus, var sniegt sociālos, kultūras vai izglītības pakalpojumus, finansējot tos no ieņēmumiem no tiesību pārvaldības. Šādu pārvaldījumu veic, ievērojot kolektīvā pārvaldījuma organizācijas biedru sapulces apstiprināto kārtību un noteikumus.

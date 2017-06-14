@@ -1,0 +1,2 @@
+Autortiesību kolektīvā pārvaldījuma likuma
+pielikums

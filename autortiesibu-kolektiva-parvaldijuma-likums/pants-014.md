@@ -1,0 +1,10 @@
+14. pants. Valdes locekļa interešu konflikta nepieļaujamība
+(1) Kolektīvā pārvaldījuma organizācijas valde vada un pārstāv kolektīvā pārvaldījuma organizāciju tās pārstāvēto autortiesību vai blakustiesību subjektu interesēs.
+(2) Valdes loceklim, pildot savus pienākumus, ir aizliegts atrasties interešu konfliktā.
+(3) Valdes loceklis atrodas interešu konfliktā, ja viņam jāpieņem lēmums vai jāpiedalās lēmuma pieņemšanā, vai jāveic citas ar valdes locekļa amatu saistītas darbības, kas ietekmē vai var ietekmēt šā valdes locekļa, viņa radinieku vai darījumu partneru personiskās vai mantiskās intereses. Par radiniekiem šā panta izpratnē atzīstami tēvs, māte, vecāmāte, vecaistēvs, bērns, mazbērns, adoptētais, adoptētājs, brālis, māsa, pusmāsa, pusbrālis, laulātais. Par darījuma partneriem šā panta izpratnē atzīstamas fiziskās vai juridiskās personas vai uz līguma pamata izveidotas fizisko un juridisko personu apvienības, kuras ar valdes locekli noslēgušas darījumus par summu, kas pārsniedz 20 minimālās mēnešalgas.
+(4) Kolektīvā pārvaldījuma organizācija nosaka kārtību, kādā tiek novērsts tās valdes locekļa interešu konflikts. Attiecībā uz interešu konfliktu, kuru nevar novērst objektīvu iemeslu dēļ, kolektīvā pārvaldījuma organizācija nosaka kārtību, kādā šis interešu konflikts tiek noteikts, atklāts un pārvaldīts, tostarp izbeigts, kas nodrošina, ka interešu konflikts nekaitē kolektīvā pārvaldījuma organizācijas pārstāvēto autortiesību un blakustiesību subjektu likumiskajām interesēm.
+(5) Katrs valdes loceklis biedru sapulcei sniedz ikgadēju ziņojumu, kurā iekļauj informāciju par:
+1) visām savām interesēm kolektīvā pārvaldījuma organizācijā;
+2) atalgojumu vai jebkāda cita veida labumiem, kurus viņš iepriekšējā finanšu gadā saņēmis no kolektīvā pārvaldījuma organizācijas;
+3) atlīdzību, kuru viņš iepriekšējā finanšu gadā saņēmis no kolektīvā pārvaldījuma organizācijas kā tās pārstāvētais autortiesību vai blakustiesību subjekts;
+4) faktisku vai iespējamu konfliktu starp personīgajām interesēm un kolektīvā pārvaldījuma organizācijas interesēm vai starp saistībām pret kolektīvā pārvaldījuma organizāciju un saistībām pret trešajām personām.

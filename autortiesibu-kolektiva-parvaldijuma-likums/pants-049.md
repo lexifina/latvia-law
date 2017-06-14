@@ -1,0 +1,4 @@
+49. pants. Pārskati par muzikālo darbu tiešsaistes tiesību faktisko izmantojumu
+(1) Kolektīvā pārvaldījuma organizācija nodrošina tiešsaistes pakalpojumu sniedzējiem iespēju elektroniski sniegt pārskatus par muzikālo darbu tiešsaistes tiesību faktisko izmantojumu. Tiešsaistes pakalpojumu sniedzējiem ir pienākums precīzi sagatavot minētos pārskatus un iesniegt tos kolektīvā pārvaldījuma organizācijai.
+(2) Šā panta pirmajā daļā norādīto pārskatu sniegšanai kolektīvā pārvaldījuma organizācija piedāvā vismaz vienu pārskatu sniegšanas veidu, kurā ņemti vērā šādu datu elektroniskai apmaiņai izstrādātie starptautiskie vai Eiropas Savienības brīvprātīgie nozares standarti vai prakse.
+(3) Kolektīvā pārvaldījuma organizācija var atteikties pieņemt tiešsaistes pakalpojumu sniedzēja pārskatu, ja tas nav iesniegts šā panta otrajā daļā norādītajā veidā.

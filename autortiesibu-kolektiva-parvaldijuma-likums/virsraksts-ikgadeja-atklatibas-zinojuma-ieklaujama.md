@@ -1,0 +1,1 @@
+Ikgadējā atklātības ziņojumā iekļaujamā informācija

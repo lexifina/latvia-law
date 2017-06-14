@@ -1,0 +1,7 @@
+22. pants. Autortiesību vai blakustiesību subjektu noskaidrošana un meklēšana
+(1) Ja atlīdzību nav iespējams izmaksāt šā likuma 21. pantā noteiktajā termiņā, jo autortiesību vai blakustiesību subjektu nevar noskaidrot vai atrast, kolektīvā pārvaldījuma organizācija veic pasākumus, lai autortiesību vai blakustiesību subjektu noskaidrotu vai atrastu, ja izdevumi attiecīgo pasākumu veikšanai ir samērīgi ar izmaksājamās atlīdzības lielumu.
+(2) Triju mēnešu laikā pēc šā likuma 21. panta pirmajā daļā minētā termiņa beigām kolektīvā pārvaldījuma organizācija informē uz kolektīvā pārvaldījuma līgumu pamata pārstāvētos autortiesību vai blakustiesību subjektus, biedrus un citas kolektīvā pārvaldījuma organizācijas, ar kurām tai ir noslēgti pārstāvības līgumi, par darbiem vai blakustiesību objektiem, kuru autortiesību vai blakustiesību subjekti nav noskaidroti vai atrasti. Kolektīvā pārvaldījuma organizācija sniedz visu tās rīcībā esošo informāciju, kas var palīdzēt noskaidrot autortiesību vai blakustiesību subjektu, tai skaitā:
+1) darba vai blakustiesību objekta nosaukumu;
+2) tā autortiesību vai blakustiesību subjekta vārdu vai nosaukumu, kurš jānoskaidro vai jāatrod;
+3) attiecīgā darba vai blakustiesību objekta izdevēja vai producenta vārdu vai nosaukumu.
+(3) Ja autortiesību vai blakustiesību subjektu neizdodas noskaidrot vai atrast, kolektīvā pārvaldījuma organizācija gada laikā pēc šā panta otrajā daļā minētā termiņa beigām publisko attiecīgo informāciju savā tīmekļvietnē.

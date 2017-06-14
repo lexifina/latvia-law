@@ -1,0 +1,4 @@
+13. pants. Biedru sapulces sasaukšana un biedru dalība sapulcē
+(1) Kolektīvā pārvaldījuma organizācija biedru sapulci sasauc vismaz reizi gadā.
+(2) Kolektīvā pārvaldījuma organizācija savos statūtos nosaka kārtību, kādā tās biedri, kuri nepiedalās biedru sapulcē klātienē, var piedalīties biedru sapulcē un īstenot savas tiesības, izmantojot elektroniskos saziņas līdzekļus.
+(3) Kolektīvā pārvaldījuma organizācijas biedri ir tiesīgi piedalīties biedru sapulcē ar pilnvarotā pārstāvja starpniecību, ja vien tas nerada interešu konfliktu. Pārstāvim izsniegtā pilnvara ir spēkā uz attiecīgo biedru sapulci. Pārstāvim ir pienākums balsot saskaņā ar pilnvarotāja norādījumiem. Kolektīvā pārvaldījuma organizācijas statūtos var noteikt ierobežojumus to biedru pilnvarojumu skaitam, kurus pārstāv viens pilnvarotais pārstāvis.

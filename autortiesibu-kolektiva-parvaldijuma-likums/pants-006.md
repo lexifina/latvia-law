@@ -1,0 +1,4 @@
+6. pants. Nekomerciāla izmantošana
+(1) Noslēdzot kolektīvā pārvaldījuma līgumu, kā arī šā likuma 5. panta trešajā daļā norādītajā gadījumā autortiesību vai blakustiesību subjekts ir tiesīgs pats izsniegt licences savu darbu vai blakustiesību objektu nekomerciālai izmantošanai arī tad, ja autortiesību vai blakustiesību subjekts ir uzticējis kolektīvā pārvaldījuma organizācijai pārvaldīt attiecīgās mantiskās tiesības vai šīs tiesības tiek pārvaldītas tikai kolektīvi.
+(2) Kolektīvā pārvaldījuma organizācija izstrādā nosacījumus, saskaņā ar kuriem pārstāvēto autortiesību vai blakustiesību subjekti var izsniegt licences savu darbu vai blakustiesību objektu nekomerciālai izmantošanai. Šādi nosacījumi nedrīkst nepamatoti aizskart un ierobežot autortiesību vai blakustiesību subjektu tiesības izsniegt šajā pantā minētās licences.
+(3) Licence, kas izsniegta, neievērojot šā panta otrajā daļā minēto, nav spēkā.

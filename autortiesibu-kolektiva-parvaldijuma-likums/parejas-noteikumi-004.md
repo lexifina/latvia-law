@@ -1,0 +1,1 @@
+4. Atļaujas, kuras kolektīvā pārvaldījuma organizācijām izsniegtas saskaņā ar Autortiesību likuma 67. panta pirmo daļu, paliek spēkā un ir pielīdzināmas atļaujām, kas izsniegtas atbilstoši šā likuma 55. panta prasībām.

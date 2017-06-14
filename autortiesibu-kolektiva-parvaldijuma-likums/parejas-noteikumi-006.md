@@ -1,0 +1,1 @@
+6. Kolektīvā pārvaldījuma organizācijas līdz 2017. gada 31. decembrim informē uz līgumu pamata pārstāvētos autortiesību vai blakustiesību subjektus par šā likuma 5., 6. un 7. pantā noteiktajām autortiesību vai blakustiesību subjekta tiesībām, tai skaitā par šā likuma 6. pantā minētajiem nosacījumiem vai to neesību.

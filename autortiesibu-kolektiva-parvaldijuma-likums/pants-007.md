@@ -1,0 +1,6 @@
+7. pants. Kolektīvā pārvaldījuma izbeigšana
+(1) Autortiesību vai blakustiesību subjektam ir tiesības izbeigt kolektīvā pārvaldījuma līgumu vai noteiktu tiesību, darbu vai blakustiesību objektu veidu kolektīvo pārvaldījumu attiecībā uz brīvi izraudzītām teritorijām, paziņojot par to kolektīvā pārvaldījuma organizācijai vismaz sešus mēnešus iepriekš, ja līgumā nav noteikts īsāks paziņošanas termiņš.
+(2) Kolektīvā pārvaldījuma organizācija var kolektīvā pārvaldījuma līgumā paredzēt, ka līguma vai noteiktu tiesību, darbu vai blakustiesību objektu veidu kolektīvā pārvaldījuma izbeigšana, kas minēta šā panta pirmajā daļā, stājas spēkā attiecīgā finanšu gada beigās.
+(3) Kolektīvā pārvaldījuma organizācija turpina pārvaldīt autortiesību vai blakustiesību subjekta labā tādus ieņēmumus no tiesību pārvaldības, kas iekasēti šā autortiesību vai blakustiesību subjekta interesēs:
+1) par laika periodu pirms attiecīgā kolektīvā pārvaldījuma līguma vai noteiktu tiesību, darbu vai blakustiesību objektu veidu kolektīvā pārvaldījuma izbeigšanas;
+2) saskaņā ar licencēm, kas izsniegtas pirms kolektīvā pārvaldījuma līguma vai noteiktu tiesību, darbu vai blakustiesību objektu veidu kolektīvā pārvaldījuma izbeigšanās.

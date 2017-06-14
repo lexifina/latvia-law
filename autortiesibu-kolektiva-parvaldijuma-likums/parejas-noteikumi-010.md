@@ -1,0 +1,1 @@
+10. Šā likuma 38. pantā norādīto informāciju, ciktāl tā nebija jāpublisko saskaņā ar Autortiesību likuma 66. panta sesto daļu, kolektīvā pārvaldījuma organizācija ievieto savā tīmekļvietnē ne vēlāk kā līdz 2017. gada 31. decembrim.

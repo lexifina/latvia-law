@@ -1,0 +1,1 @@
+Likumā ietvertas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014. gada 26. februāra direktīvas 2014/26/ES par autortiesību un blakustiesību kolektīvo pārvaldījumu un muzikālo darbu tiesību lietošanai tiešsaistē daudzteritoriālo licencēšanu iekšējā tirgū.

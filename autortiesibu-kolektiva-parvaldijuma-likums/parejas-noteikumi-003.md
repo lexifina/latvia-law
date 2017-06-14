@@ -1,0 +1,1 @@
+3. Šā likuma 12. panta pirmās daļas 14. punktā norādīto jautājumu biedru sapulce var deleģēt kolektīvā pārvaldījuma organizācijas padomei tikai pēc tam, kad pirmreizēji to pēc būtības izlēmusi biedru sapulce.

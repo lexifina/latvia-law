@@ -1,0 +1,2 @@
+59. pants. Mantisko tiesību kolektīvā pārvaldījuma veikšana bez atļaujas
+Ja persona veic mantisko tiesību kolektīvo pārvaldījumu bez tā veikšanai nepieciešamās atļaujas saņemšanas vai bez šā likuma 57. pantā norādītā paziņojuma sniegšanas Kultūras ministrijai, tā nav tiesīga uz minēto tiesību pamata pieprasīt jebkāda veida saistību izpildi un celt attiecīgas prasības, kā arī nevar tikt atzīta par cietušo administratīvā pārkāpuma lietā vai krimināllietā saistībā ar šajā pantā minēto tiesību aizskārumu.
