@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada pavasara sesija",
+ "sede": 14,
+ "datums": "2017-06-15",
+ "ieraksts": {
+  "dkp_id": "91d1db60-de78-4049-8f22-826bfc3b0be1",
+  "lastmodtime": "\"AAAAAAFyLdk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Ivans#Jānis#Einārs#Mihails#Vladimirs#Artis#Askolds#Inese#Ainars#Jānis#Artuss#Raimonds#Andris#Lolita#Valdis#Arvīds#Veiko#Jānis#Igors#Raivis#Jānis#Ints#Valdis#Boriss#Andris#Juris#Ringolds#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ilze#Ojārs Ēriks#Zenta#Valērijs#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Mārtiņš#Inesis#Andrejs#Juris#Aleksejs#Jānis#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Gundars#Jānis#Ivars#Ivars#Solvita#Aivars#Aija#Mārtiņš#Igors#Artūrs#Janīna#Ņikita",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Ribakovs#Klaužs#Cilinskis#Zemļinskis#Nikonovs#Rasmanis#Kļaviņš#Laizāne#Latkovskis#Ruks#Kaimiņš#Rubiks#Siliņš#Čigāne#Skujiņš#Platpers#Spolītis#Ādamsons#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Cilevičs#Buiķis#Vectirāns#Balodis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Viņķele#Kalniņš#Tretjaka#Agešins#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Bondars#Boķis#Judins#Šulcs#Loskutovs#Vucāns#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Daudze#Tutins#Zariņš#Brīvers#Āboltiņa#Meija#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule#Ņikiforovs",
+  "VOTEDEPSUFFIX": "############################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #ZZS#VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#ZZS#VL-TB/LNNK#VIENOTĪBA#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#NSL#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VL-TB/LNNK#ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#LRA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #LRA#VIENOTĪBA#NSL#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#SASKAŅA ",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Atturas#Par#Par#Pret#Par#Par#Nebalsoja#Par#Par#Par#Atturas#Nebalsoja#Par#Pret#Pret#Par#Par#Atturas#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Atturas#Par#Par#Nebalsoja#Pret#Par#Par#Atturas#Nebalsoja#Pret#Par#Par#Par#Pret#Par#Pret#Atturas#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.06.2017 09:06:50",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Vispārējās izglītības likumā (930/Lp12), 1.lasījums iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "eb490cc2-63e6-4417-a799-df88ff2028df",
+  "VOTERESULT_ABSTAIN": "6",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "77",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada pavasara sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/99f2d6a1-2e19-44ec-844a-f5bbb8d0210b/download/12.saeimas-2017.gada-pavasara-sesija-14-vote.xml",
+  "sha256": "449bfb6edc0d77b64dec1ed9acc7f48da4d02c29e6d77d8612b95ee3982e2f43",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
