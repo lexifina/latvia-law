@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada pavasara sesija",
+ "sede": 16,
+ "datums": "2017-06-22",
+ "ieraksts": {
+  "dkp_id": "69944769-3fe6-4632-b7c5-7f140416c501",
+  "lastmodtime": "\"AAAAAAFzmsA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Varis#Ivans#Einārs#Jānis#Mihails#Vladimirs#Andris#Astrīda#Askolds#Ainars#Guntis#Jānis#Raimonds#Andris#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Jānis#Igors#Jānis#Ints#Valdis#Andris#Juris#Ringolds#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ilze#Ojārs Ēriks#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Ivars#Aivars#Aleksandrs#Mārtiņš#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Harju#Kļaviņš#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Buiķis#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Viņķele#Kalniņš#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Meija#Kiršteins#Šics#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "##################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#VL-TB/LNNK#ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#NSL#VL-TB/LNNK#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.06.2017 13:11:22",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi Dzīvokļa īpašuma likumā (957/Lp12), 1.lasījums",
+  "VOTING_ID": "a5ccc0c2-bf62-4f4b-8b12-77db1d9d4c68",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "4",
+  "VOTERESULT_FOR": "72",
+  "VOTERESULT_REGISTERED": "83",
+  "VOTE_NUMBER": "35",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada pavasara sesija-16-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1afb443b-d0cc-458c-81cd-2c4be816342a/download/12.saeimas-2017.gada-pavasara-sesija-16-vote.xml",
+  "sha256": "c07b3704fbce4ed4c6c28ce90ccd2cfb22b3bfd18a7bdf2662717432a129d846",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
