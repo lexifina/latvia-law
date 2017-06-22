@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada pavasara sesija",
+ "sede": 16,
+ "datums": "2017-06-22",
+ "ieraksts": {
+  "dkp_id": "15de4f40-b92f-44fa-94d6-93ff70114b55",
+  "lastmodtime": "\"AAAAAAFzlvw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Dzintars#Romāns#Varis#Ivans#Einārs#Jānis#Mihails#Vladimirs#Andris#Askolds#Ainars#Guntis#Jānis#Raimonds#Andris#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Jānis#Igors#Jānis#Ints#Valdis#Juris#Ringolds#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ilze#Ojārs Ēriks#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Edgars#Sergejs#Rihards#Gundars#Jānis#Sergejs#Ivars#Ivars#Aivars#Aleksandrs#Mārtiņš#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Zaķis#Naudiņš#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Kļaviņš#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Viņķele#Kalniņš#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Putra#Dolgopolovs#Melgailis#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Meija#Kiršteins#Šics#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "############################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VL-TB/LNNK#LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#VIENOTĪBA#ZZS#NSL#ZZS#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#NSL#VL-TB/LNNK#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.06.2017 13:08:16",
+  "VOTEMOTIVE": "Par Astrīdas Harju 12.Saeimas deputātes pilnvaru apstiprināšanu uz laiku, kamēr no partijas “Vienotība” kandidātu saraksta Vidzemes vēlēšanu apgabalā ievēlētie deputāti pilda ministru pienākumus (541/Lm12)",
+  "VOTING_ID": "31adfe73-0f7b-44cb-8488-12b9d3614389",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "77",
+  "VOTE_NUMBER": "34",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada pavasara sesija-16-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1afb443b-d0cc-458c-81cd-2c4be816342a/download/12.saeimas-2017.gada-pavasara-sesija-16-vote.xml",
+  "sha256": "c07b3704fbce4ed4c6c28ce90ccd2cfb22b3bfd18a7bdf2662717432a129d846",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
