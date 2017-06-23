@@ -1,0 +1,1 @@
+1. pants. 2016. gada 5. oktobrī Briselē, Beļģijā, parakstītais Partnerattiecību nolīgums par attiecībām un sadarbību starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Jaunzēlandi, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
