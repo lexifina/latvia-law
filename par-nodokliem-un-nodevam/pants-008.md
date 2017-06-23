@@ -9,7 +9,7 @@ Latvijas Republikā ir šādi valsts nodokļi un tiem atbilstošie likumi par no
 7) dabas resursu nodoklis - Dabas resursu nodokļa likums;
 8) izložu un azartspēļu nodoklis - "Par izložu un azartspēļu nodevu un nodokli";
 9) valsts sociālās apdrošināšanas obligātās iemaksas - "Par valsts sociālo apdrošināšanu";
-10) vieglo automobiļu un motociklu nodoklis - "Par vieglo automobiļu un motociklu nodokli";
+10) (izslēgts ar 08.06.2017. likumu);
 11) elektroenerģijas nodoklis - Elektroenerģijas nodokļa likums;
 12) mikrouzņēmumu nodoklis - Mikrouzņēmumu nodokļa likums;
 13) transportlīdzekļa ekspluatācijas nodoklis - Transportlīdzekļa ekspluatācijas nodokļa un uzņēmumu vieglo transportlīdzekļu nodokļa likums;

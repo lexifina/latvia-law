@@ -67,7 +67,7 @@
 50) par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu, apsardzes sertifikāta izsniegšanu, apsardzes sertifikāta derīguma termiņa pagarināšanu, atkārtota apsardzes sertifikāta un apsardzes sertifikāta dublikāta izsniegšanu;
 51) par mednieku, medību vadītāju kandidātu eksamināciju, par mednieka apliecības, medību vadītāja apliecības, mednieka sezonas kartes un medību atļaujas izsniegšanu, par atļaujas izsniegšanu ārzemniekam medīt Latvijas teritorijā, par postījumu apjoma noteikšanu un zaudējumu aprēķinu, kurus lauksaimniecībai, mežsaimniecībai, meliorācijas sistēmām un infrastruktūras objektiem nodarījuši medījamie dzīvnieki;
 52) par personas datu apstrādes reģistrēšanu vai Fizisko personu datu aizsardzības likumā noteikto reģistrējamo izmaiņu izdarīšanu;
-53) par sertifikācijas pakalpojumu sniedzēja akreditāciju un akreditācijas atjaunošanu (šo akreditāciju un akreditācijas atjaunošanu veic Datu valsts inspekcija);
+53) par uzticama sertifikācijas pakalpojumu sniedzēja darbības apstiprināšanu un tās atjaunošanu (Elektronisko dokumentu likuma izpratnē);
 54) (izslēgts ar 21.10.2010. likumu);
 55) (izslēgts ar 17.06.2010. likumu);
 56) (izslēgts no 07.02.2014. ar 19.12.2013. likumu, kas stājas spēkā 23.01.2014. Sk. Pārejas noteikumu 157.punktu);
