@@ -1,0 +1,1 @@
+1. pants. 2017. gada 18. februārī Minhenē parakstītais Sadarbības nolīgums par partnerību un attīstību starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Afganistānas Islāma Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
