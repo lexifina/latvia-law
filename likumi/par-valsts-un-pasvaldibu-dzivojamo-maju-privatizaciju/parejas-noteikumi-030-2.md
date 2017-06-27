@@ -1,1 +1,0 @@
-30.² Valsts akciju sabiedrība "Privatizācijas aģentūra" vai pašvaldības dzīvojamo māju privatizācijas komisija lēmumu par dzīvojamās mājas privatizācijas uzsākšanu pieņem ne vēlāk kā līdz 2014.gada 31.decembrim.
