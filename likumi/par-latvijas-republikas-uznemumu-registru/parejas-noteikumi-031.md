@@ -1,0 +1,1 @@
+31. Šā likuma normas, kas nosaka Uzņēmumu reģistra funkciju nodrošināt publisko personu un iestāžu saraksta ziņu pieejamību par tajā ierakstītajām publiskajām personām un iestādēm (grozījums 1. panta 1. punktā, grozījums 4.¹¹ panta otrajā daļā un 18.²¹ pants), stājas spēkā 2018. gada 1. jūnijā.

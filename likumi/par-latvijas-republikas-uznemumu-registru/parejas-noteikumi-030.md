@@ -1,0 +1,1 @@
+30. Šā likuma normas, kas nosaka Uzņēmumu reģistra funkciju nodrošināt publisko personu un iestāžu saraksta vešanu (2.¹⁹ pants, 4. panta 5.¹⁰ punkts, 18.¹⁹ un 18.²⁰ pants), stājas spēkā 2018. gada 1. martā.

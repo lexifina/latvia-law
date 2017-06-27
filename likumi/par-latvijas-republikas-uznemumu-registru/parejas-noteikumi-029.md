@@ -1,0 +1,1 @@
+29. Publisko personu un iestāžu sarakstā ierakstāmās publiskās personas un iestādes no 2018. gada 1. marta līdz 2018. gada 1. aprīlim precizē Uzņēmumu reģistrā jau pieejamās ziņas, kas iegūtas saskaņā ar šo pārejas noteikumu 28. punktu, vai iesniedz aktuālās trūkstošās ziņas, kas saskaņā ar šā likuma 18.¹⁸ pantu ierakstāmas publisko personu un iestāžu sarakstā.
