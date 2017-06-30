@@ -1,0 +1,1 @@
+18. Alu, raudzētos dzērienus, starpproduktus un pārējos alkoholiskos dzērienus, kas saražoti līdz 2017. gada 31. decembrim, ja tie iepakoti neatbilstoši šā likuma 6. panta 1.³ un 1.⁴ daļā noteiktajām prasībām, atļauts realizēt līdz to derīguma termiņa beigām, bet ne ilgāk kā līdz 2018. gada 31. martam.
