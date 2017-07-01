@@ -1,1 +1,1 @@
-(19. punkts stājas spēkā 01.07.2017. un iekļauts likuma redakcijā uz 01.07.2017. Sk. 02.03.2017. likumu)
+19. Šā likuma 44.³ panta trešās daļas 2. un 3.punkts un desmitās daļas otrais teikums (attiecībā uz deleģējumu Ministru kabinetam noteikt kārtību, kādā šā panta subjekts, izpildot šā panta pirmajā daļā noteikto rīkojumu, uzsāk un veic datu apmaiņu, izmantojot šā panta trešās daļas 2.punktā noteikto datu apmaiņas veidu) zaudē spēku ar 2019.gada 1.jūliju.
