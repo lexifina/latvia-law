@@ -7,3 +7,4 @@
 (6) Reorganizējot biedru - juridisko personu nodalīšanas ceļā, sadalāmās juridiskās personas dalība biedrībā saglabājas.
 (7) Ar juridisko personu šā panta ceturtās, piektās un sestās daļas izpratnē saprotama arī tiesībspējīga personālsabiedrība.
 (8) Biedrības darbībā var piedalīties personas ar īpašu statusu (biedru kandidāti, goda biedri, asociētie biedri, vecbiedri u.tml.), kuru tiesības un pienākumus nosaka statūti.
+(9) Ja sporta organizācijas dibinātājs vai vēlāk uzņemtais biedrs ir sporta izglītības iestāde Sporta likuma izpratnē, kurai nav juridiskās personas statusa, attiecībā uz šāda biedra dalību biedrībā pēc analoģijas piemērojami šā likuma noteikumi, kas reglamentē biedrības biedra - juridiskās personas - dalību biedrībā.
