@@ -6,7 +6,7 @@
 2) (izslēgts ar 29.11.2012. likumu);
 3) pieteikuma priekšmetu un apstākļus, uz kuriem pieteikums pamatots;
 4) pieteicēja lūgumu;
-5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā. Ja pieteicēja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
+5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā. Ja pieteicēja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja pieteicēja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
 6) pievienoto dokumentu sarakstu;
 7) pieteikuma sastādīšanas laiku.
 (2) Pieteikumam pievieno:

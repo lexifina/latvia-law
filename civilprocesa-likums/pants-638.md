@@ -7,7 +7,7 @@
 2) (izslēgts ar 29.11.2012. likumu);
 3) pieteikuma priekšmetu un apstākļus, uz kuriem pieteikums pamatots;
 4) pieteicēja lūgumu atzīt vai atzīt un izpildīt ārvalsts tiesas nolēmumu pilnā apjomā vai kādā tā daļā;
-5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā. Ja pieteicēja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
+5) pilnvaroto pārstāvi un viņa adresi, ja lietas vešanai iecelts pārstāvis Latvijā. Ja pieteicēja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja pieteicēja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
 6) pievienoto dokumentu sarakstu;
 7) pieteikuma sastādīšanas laiku.
 (2¹) Pieteikumu lietā par ārvalsts tiesas nolēmuma par uzturlīdzekļu piedziņu atzīšanu vai izpildes pasludināšanu Eiropas Savienības un starptautiskos līgumos paredzētajos gadījumos, izmantojot attiecīgajos tiesību aktos norādītās veidlapas, var iesniegt vai pārsūtīt ar sadarbības nodrošināšanai iecelto Latvijas centrālo iestāžu starpniecību.

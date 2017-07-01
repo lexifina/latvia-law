@@ -13,7 +13,7 @@
 8) atbildētāji - lietās par tiesas piespriesto uzturlīdzekļu samazināšanu bērnam vai vecākam un to maksājumu samazināšanu, kurus tiesa piespriedusi prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 9) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
-10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process, kā arī iesniedzot juridiskās personas maksātnespējas procesa pieteikumu Maksātnespējas likuma 51.panta trešajā daļā noteiktajā gadījumā;
+10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
 11¹) piedzinēji - izpildu lietās, kad piedziņa izdarāma atbilstoši vienotajam instrumentam, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī;
 12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās;

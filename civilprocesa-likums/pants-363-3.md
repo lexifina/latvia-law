@@ -5,7 +5,7 @@
 2) maksātnespējas procesa pazīmi;
 3) informāciju par parādnieka galveno interešu centra atrašanās vietu Padomes regulas Nr. 1346/2000 izpratnē;
 4) vai parādniekam citā dalībvalstī pieder uzņēmums Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē, un tā atrašanās vietu;
-5) lietas par tiesiskās aizsardzības procesu numuru, ja maksātnespējas procesa pieteikums tiek iesniegts atbilstoši Maksātnespējas likuma 57.panta 9.punktā minētajai maksātnespējas procesa pazīmei;
+5) lietas par tiesiskās aizsardzības procesu numuru, ja maksātnespējas procesa pieteikums tiek iesniegts atbilstoši Maksātnespējas likuma 57. panta pirmās daļas 9. punktā minētajai maksātnespējas procesa pazīmei;
 6) parādnieka juridisko adresi, kas parādniekam bija reģistrēta trīs mēnešus pirms pieteikuma iesniegšanas tiesā.
 (3) Parādnieks maksātnespējas procesa pieteikumam pievieno:
 1) pārvaldes institūciju locekļu, revidentu (revīzijas institūciju locekļu) un prokūristu sarakstu, norādot vārdu, uzvārdu, adresi un citas ziņas, ar kuru palīdzību tie ir identificējami un sasniedzami;

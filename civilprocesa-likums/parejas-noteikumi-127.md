@@ -1,0 +1,1 @@
+127. Grozījumi šā likuma 611. panta trešajā daļā un 615. panta piektajā daļā par pieteikuma elektronisku iesniegšanu rajona (pilsētas) tiesas zemesgrāmatu nodaļā, izmantojot Tiesu informatīvo sistēmu, un grozījumi šā likuma 617. panta otrajā daļā par sūdzības iesniegšanu jebkurā zemesgrāmatu nodaļā stājas spēkā 2017. gada 1. septembrī.

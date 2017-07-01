@@ -13,6 +13,6 @@
 8) pievienoto dokumentu sarakstu;
 9) pieteikuma sastādīšanas laiku.
 (4) Pieteikumam pievieno dokumentus, uz kuriem tas pamatots.
-(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā. Ja pieteicēja pārstāvis ir zvērināts advokāts, pieteikumā papildus norāda zvērināta advokāta elektroniskā pasta adresi.
+(5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā. Ja pieteicēja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja pieteicēja pārstāvis ir zvērināts advokāts, pieteikumā papildus norāda zvērināta advokāta elektroniskā pasta adresi.
 (6) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
 (7) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.
