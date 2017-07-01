@@ -8,5 +8,6 @@
 (4) Ja nav iespējams noteikt nodokļa lielumu, nodokļu administrācija nosaka ar nodokli apliekamo bāzi un nodokļa summu uz aprēķinu pamata atbilstoši nodokļu maksātāja īpašumā esošās mantas vai kapitāla vērtības pieaugumam vai nodokļu administrācijas rīcībā esošajām ziņām.
 (5) Šā panta pirmajā daļā un otrās daļas 2. un 3.punktā minētajos gadījumos pēc nodokļu administrācijas pieprasījuma:
 1) ministrijas, pašvaldības un citas institūcijas atsauc nodokļu maksātājam izsniegto atļauju (licenci) veikt komercdarbību;
-2) kredītiestādes un valsts akciju sabiedrība "Latvijas Pasts" pārtrauc līdzekļu izsniegšanu un pārskaitījumus no nodokļu maksātāja konta, līdz tiek saņemts nodokļu administrācijas rakstveida atsaukums vai tiesas nolēmums;
+2) (izslēgts no 01.07.2017. ar 23.11.2016. likumu. Sk. Pārejas noteikumu 182. punktu);
 3) piemēro citos normatīvajos aktos noteiktos sodus. Nodokļu administrācija ir tiesīga iesniegt materiālus attiecīgajā valsts institūcijā kriminālprocesa uzsākšanai.
+(6) Šā panta pirmajā daļā un otrās daļas 2. un 3.punktā minētajos gadījumos pēc tam, kad saņemts nodokļu administrācijas rīkojums par nodokļu maksātāja norēķinu operāciju daļēju vai pilnīgu apturēšanu, kredītiestāde vai maksājumu pakalpojumu sniedzējs pārtrauc naudas līdzekļu izsniegšanu un pārskaitījumu veikšanu no nodokļu maksātāja konta līdz brīdim, kad tiek saņemts nodokļu administrācijas rīkojums par attiecīgā rīkojuma par nodokļu maksātāja norēķinu operāciju daļēju vai pilnīgu apturēšanu pilnīgu vai daļēju atcelšanu vai tiesas nolēmums.

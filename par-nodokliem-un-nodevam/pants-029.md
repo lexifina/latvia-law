@@ -3,7 +3,7 @@
 (2) Par nodokļu un nodevu maksājuma samaksas termiņa nokavējumu maksātājam tiek aprēķināta nokavējuma nauda - no laikā nenomaksātā pamatparāda 0,05 procenti par katru nokavēto dienu, ja konkrētā nodokļa likumā nav noteikti citi nokavējuma naudas apmēri.
 (3) Nokavējuma naudu neaprēķina, ja valsts vai pašvaldības budžets tam piekritīgo nodokļa maksājumu ir saņēmis piecu darbdienu laikā pēc maksājuma termiņa iestāšanās. Ja minētais nosacījums netiek ievērots, nokavējuma naudu aprēķina par periodu no nākamās dienas pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa iestāšanās līdz samaksas dienai (to ieskaitot). Ja maksāšanas termiņš sakrīt ar brīvdienu (svētku dienu), tad par maksāšanas dienu uzskatāma pirmā darbdiena pēc brīvdienas (svētku dienas).
 (4) Nokavējuma naudas aprēķināšana:
-1) tiek pārtraukta, ja šā likuma 24.pantā nav noteikts citādi:
+1) tiek pārtraukta, ja šā likuma 24.pantā vai 26.panta vienpadsmitajā daļā nav noteikts citādi:
 a) privatizējamām kapitālsabiedrībām - no dienas, kad tās nodotas privatizācijai, kapitālsabiedrībām - no dienas, kad tās nodotas atsavināšanai, līdz dienai, kad saistības tiek nodotas ar pieņemšanas un nodošanas aktu jaunajam īpašniekam, bet ne ilgāk kā uz 12 mēnešiem,
 b) nodokļu maksātājiem, kuriem tiesa pasludinājusi maksātnespējas procesu, - no dienas, kad tiesa pasludinājusi spriedumu attiecīgajā maksātnespējas procesa lietā,
 c) komersantiem, kuriem Ministru kabineta noteiktajā kārtībā un termiņā tiek kapitalizēti nodokļu maksājumu pamatparādi,
@@ -17,6 +17,6 @@ c) šīs daļas 1.punkta "d" apakšpunktā minēto nodokļu maksātāju tiesisk�
 (6) Šā panta piektajā daļā noteiktā nokavējuma naudas aprēķināšana tiek pārtraukta:
 1) summām, kuras norādītas izpildei pieņemtajos maksājuma uzdevumos, no dienas, kad banka tos pieņēmusi izpildei;
 2) tikai tādā gadījumā, ja bankas kontos iesaldēto (aizturēto) naudas līdzekļu īpašnieks-pārvaldītājs nav atteicies no savām prasījuma tiesībām par labu citai personai vai arī savas tiesības nav nodevis jebkurai citai personai.
-(7) Nokavējuma naudas aprēķināšana tiek pārtraukta, ja nokavējuma naudas summa sasniedz nokavētā maksājuma (pamatparāda) apmēru.
+(7) Nokavējuma naudas aprēķināšana tiek pārtraukta, ja nokavējuma naudas summa sasniedz divas piektdaļas no nokavētā maksājuma (pamatparāda) apmēra.
 (8) Par Eiropas Savienības dalībvalsts nodokļa vai nodevas samaksas termiņa kavējumu nokavējuma nauda tiek aprēķināta šajā pantā noteiktajā kārtībā un apmērā no dienas, kad Valsts ieņēmumu dienests saņēmis palīdzības pieprasījumu par nodokļu prasījuma piedziņu.
 (9) Par Eiropas Savienības dalībvalsts nodokļa vai nodevas samaksas termiņa kavējumu nokavējuma nauda tiek aprēķināta šajā pantā noteiktajā kārtībā un apmērā no dienas, kad Valsts ieņēmumu dienests pieņēmis lēmumu par nokavēto nodokļu maksājumu piedziņu, ja Eiropas Savienības dalībvalsts prasījuma izpildei bijusi nepieciešama aizstāšana.

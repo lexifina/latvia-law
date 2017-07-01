@@ -24,7 +24,7 @@
 2) pieņem lēmumu par aizlieguma atzīmes ierakstīšanu attiecīgajā kustamas mantas reģistrā vai citā publiskā reģistrā;
 3) aptur Valsts ieņēmumu dienesta izsniegto speciālo atļauju (licenču) darbību;
 4) iesniedz ministrijām, pašvaldībām un citām institūcijām obligāti izpildāmu prasību apturēt nodokļu maksātājam izsniegto speciālo atļauju (licenci) veikt komercdarbību;
-5) dod finanšu iestādēm un kredītiestādēm obligāti izpildāmus rīkojumus par nodokļu maksātāja norēķinu operāciju daļēju vai pilnīgu apturēšanu;
+5) dod kredītiestādēm vai maksājumu pakalpojumu sniedzējiem rīkojumus par nodokļu maksātāja norēķinu operāciju daļēju vai pilnīgu apturēšanu;
 6) noplombē vai aizzīmogo nodokļu maksātāja struktūrvienību vai citu saimnieciskās darbības veikšanas vietu, ja to izvietojums šādu rīcību pieļauj, un veic citus normatīvajos aktos paredzētos nodokļu maksātāja saimniecisko darbību ierobežojošus pasākumus;
 7) nosūta pieprasījumu augstākā līmeņa domēna ".lv" reģistra turētājam par domēna vārda atslēgšanu.
 (7) Ja Valsts ieņēmumu dienests aptur tādas nodokļu maksātāja struktūrvienības darbību, kurā noticis pārkāpums, tas veic šā panta sestās daļas 6.punktā minētās darbības.
