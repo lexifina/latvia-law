@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 28. marta noteikumi Nr. 186 \"Kārtība, kādā kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs sniedz informāciju kontu reģistram un kontu reģistra informācijas lietotāji saņem kontu reģistra informāciju\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "73",
+  "official_journal_page": null,
+  "official_journal_date": "2017-04-10",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2021-10-14",
+  "commission_reference": "MNE(2021)07043",
+  "nim_celex": "72019L1153LVA_202107043",
+  "nim_id": "202107043",
+  "transposes_celex": [
+    "32019L1153"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1d93b96-e4d3-41e8-82a8-ed3257f848e5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
