@@ -1,2 +1,2 @@
 V nodaļa
-Vienotais valsts un pašvaldību pakalpojumu portāls un tā pārzinis
+Informācijas pieejamība valsts pārvaldes pakalpojumu portālā

@@ -1,2 +1,2 @@
-17.pants. Vienotais valsts un pašvaldību pakalpojumu portāls
-Vienotajā valsts un pašvaldību pakalpojumu portālā (turpmāk - vienotais pakalpojumu portāls) ir pieejama informācija par atbildīgajām iestādēm un to kompetenci, kā arī par darbībām, kas veicamas, lai saņemtu attiecīgās atbildīgās iestādes atļauju. Vienotā pakalpojumu portāla tīmekļa vietnes adrese ir https://www.latvija.lv.
+17. pants. Informācijas pieejamība valsts pārvaldes pakalpojumu portālā
+Informācija par atbildīgajām iestādēm un to kompetenci, kā arī par darbībām, kas veicamas, lai pakalpojumu sniedzēji saņemtu attiecīgās atbildīgās iestādes atļauju, ir pieejama valsts pārvaldes pakalpojumu portāla tīmekļa vietnē https://www.latvija.lv.
