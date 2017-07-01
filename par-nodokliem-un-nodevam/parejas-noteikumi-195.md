@@ -1,0 +1,1 @@
+195. Ministru kabinets līdz 2017. gada 1. novembrim sagatavo un iesniedz Saeimai grozījumus šajā likumā, kas paredz noteikt vienotās elektroniskās darba laika uzskaites datubāzes turētāju un tā pienākumus.

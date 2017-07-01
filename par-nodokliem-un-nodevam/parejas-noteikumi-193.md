@@ -1,0 +1,1 @@
+193. Šajā likumā noteikto prasību par elektroniskās darba laika uzskaites sistēmas ieviešanu būvlaukumā un tās ieviešanai noteikto termiņu piemēro attiecībā uz jaunu trešās grupas būvju būvniecību un būvdarbiem, kuru būvdarbu izmaksas ir 1 miljons euro vai vairāk, ja būvatļaujā noteiktais būvdarbu izpildes termiņš ir 2018. gada 1. jūnijs vai vēlāk.

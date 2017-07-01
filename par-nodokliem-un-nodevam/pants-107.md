@@ -1,0 +1,2 @@
+107. pants. Galvenais būvdarbu veicējs
+Šīs nodaļas izpratnē galvenais būvdarbu veicējs ir būvdarbu veicējs, kurš veic būvdarbus savām vajadzībām vai ir noslēdzis līgumu ar būvniecības ierosinātāju par jaunas trešās grupas būves būvniecību vai par būvdarbiem, kuru izmaksas ir 1 miljons euro vai vairāk (turpmāk - būvdarbu līgums), un kurš būvdarbus veic pats vai būvdarbu līgumā noteiktu saistību vai tās daļu nodod izpildei apakšuzņēmējam.

@@ -1,0 +1,4 @@
+111. pants. Būvlaukumā nodarbinātas personas elektroniskā identifikācija
+(1) Būvlaukumā nodarbinātas personas identificēšanai izmantojama individuāli pielāgota ierīce vai informācijas tehnoloģiju risinājums, kas nodrošina būvlaukumā nodarbinātas personas identificēšanu un darba laika reģistrēšanu elektroniskās darba laika uzskaites sistēmā.
+(2) Elektroniskās identifikācijas risinājumu personas identificēšanai būvlaukumā galvenais būvdarbu veicējs nodrošina arī personai, kas uzturas norobežota būvlaukuma teritorijā, bet nav nodarbināta būvdarbu veikšanā būvlaukumā un nav uzskatāma par būvlaukumā nodarbinātu personu.
+(3) Šā panta otrajā daļā noteiktā prasība par elektroniskās identifikācijas risinājuma piešķiršanu nav piemērojama attiecībā uz tiesībaizsardzības iestāžu, kontrolējošo institūciju vai palīdzības dienestu pārstāvjiem.
