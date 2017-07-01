@@ -1,0 +1,1 @@
+26. Ministru kabinets izstrādā un 2018. gada valsts budžeta likumprojektu paketē iesniedz Saeimai grozījumus Ārstniecības likumā, kas paredz pakāpenisku atteikšanos no šā likuma 53.¹ pantā minētā pagarinātā normālā darba laika ārstniecības personām un neatliekamās medicīniskās palīdzības brigādes personām, kuras nav ārstniecības personas, nodrošinot ārstniecības pieejamību.
