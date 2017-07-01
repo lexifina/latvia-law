@@ -1,0 +1,1 @@
+10. Zemes iegādes darījuma aktu, kas noslēgts līdz 2014. gada 31. oktobrim un nav reģistrēts zemesgrāmatā līdz 2017. gada 30. jūnijam, reģistrē pašvaldības komisijā līdz 2017. gada 31. decembrim. Darījuma akts ir derīgs ierakstīšanai zemesgrāmatā, ja tam ir pievienota pašvaldības komisijas izziņa par to, ka darījums reģistrēts pašvaldībā līdz 2017. gada 31. decembrim.

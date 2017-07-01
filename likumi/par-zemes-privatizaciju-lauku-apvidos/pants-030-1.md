@@ -1,5 +1,6 @@
 30.¹ pants. Darījumu ar lauksaimniecības zemi izskatīšanas kārtība
 Šā likuma 28.panta pirmās daļas 7.punktā un 28.¹ panta pirmajā daļā minētās personas, kā arī personas, kuras lauksaimniecības zemi vēlas iegūt īpašumā zemes dzīļu izmantošanai, iesniedz iesniegumu tā novada pašvaldībai, kuras teritorijā atrodas attiecīgā zeme. Iesniegumā norāda šīs zemes turpmākās izmantošanas mērķi un tam pievieno darījuma aktu un dokumentus, kas apliecina personas tiesības iegūt īpašumā lauksaimniecības zemi. Ar lauksaimniecības zemi veikto darījumu tiesiskumu uzrauga novada pašvaldības komisija (turpmāk - pašvaldības komisija).
+Pašvaldības komisija, ja nepieciešams, var uzaicināt šā likuma 28.¹ panta pirmajā daļā minētās personas valsts valodā prezentēt zemes turpmāku izmantošanu lauksaimnieciskajā darbībā. Ja lauksaimniecības zemi vēlas iegūt īpašumā šā likuma 28.¹ panta pirmās daļas 2. punktā minētās personas, zemes turpmāku izmantošanu lauksaimnieciskajā darbībā prezentē kapitāldaļu īpašnieks vai īpašnieki - fiziskās personas, kuras kopā pārstāv vairāk par pusi no balsstiesīgā kapitāla sabiedrībā, bet 28.¹ panta pirmās daļas 2. punkta "d" apakšpunktā minētajā gadījumā - norādītās personas.
 Pašvaldības komisija Administratīvā procesa likumā noteiktajā kārtībā:
 1) pieņem lēmumu par piekrišanu lauksaimniecības zemes iegūšanai īpašumā, ja ir ievēroti šā likuma 28.¹ panta pirmās daļas, 29.panta ceturtās, piektās un sestās daļas nosacījumi un šā likuma 30.² panta otrajā un trešajā daļā minētās personas neizmanto pirmpirkuma tiesības vai pirkuma līgums noslēgts ar minētajām personām. Pašvaldības komisija pieņem lēmumu par atteikumu lauksaimniecības zemes iegūšanai īpašumā, ja minētie nosacījumi nav ievēroti;
 2) pieņem lēmumu par piekrišanu lauksaimniecības zemes iegūšanai īpašumā, ja šā likuma 28.panta pirmās daļas 7.punkta nosacījumi un 29.panta septītās daļas nosacījumi attiecībā uz īpašumā iegūstamās lauksaimniecības zemes maksimālo platību ir ievēroti. Pašvaldības komisija pieņem lēmumu par atteikumu lauksaimniecības zemes iegūšanai īpašumā, ja minētie nosacījumi nav ievēroti;
@@ -8,9 +9,11 @@ Lēmumu par piekrišanu lauksaimniecības zemes iegūšanai īpašumā pašvald�
 Ministru kabinets nosaka:
 1) kritērijus dominējošās zemes lietošanas kategorijas noteikšanai darījumos ar lauksaimniecības zemi;
 2) iesniegumā iekļaujamo informāciju un tam pievienojamos dokumentus;
-3) kārtību, kādā šā likuma 30.² panta otrajā un trešajā daļā minētās personas īsteno pirmpirkuma tiesības;
+3) kārtību, kādā šā likuma 30.² pantā minētais Latvijas zemes fonda pārvaldītājs un nomnieki īsteno pirmpirkuma tiesības;
 4) kārtību, kādā tiek finansēta un izveidota pašvaldības komisija, noteikts tās sastāvs, kā arī pašvaldības komisijas tiesības un pienākumus;
 5) kārtību, kādā pašvaldības komisija izskata iesniegumus par darījumiem ar lauksaimniecības zemi un pieņem lēmumu par piekrišanu lauksaimniecības zemes iegūšanai īpašumā vai par atteikumu lauksaimniecības zemes iegūšanai īpašumā;
 6) kārtību, kādā aprēķina ieņēmumus no lauksaimnieciskās ražošanas;
 7) kārtību, kādā iegūstami lēmuma pieņemšanai nepieciešamie dati no citām valsts informācijas sistēmām;
 8) termiņus un kārtību, kādā persona saskaņā ar šā likuma 29.panta piekto daļu un 36.panta otro daļu sniedz informāciju par lauksaimniecības zemi, kuru tā nomā.
+Pašvaldības komisija pārbauda šā likuma 28.¹ panta pirmās daļas 1. punkta "c" apakšpunktā un 2. punkta "b" apakšpunktā minētā rakstveida apliecinājuma par zemes izmantošanu lauksaimnieciskajā darbībā izpildi.
+Pašvaldības komisija ved to zemes iegādes darījumu reģistru, kuri noslēgti līdz 2014. gada 31. oktobrim un nav reģistrēti zemesgrāmatā līdz 2017. gada 30. jūnijam. Reģistrā norāda darījuma priekšmetu un līguma noslēgšanas datumu, un tas ir publiski pieejams vietējās pašvaldības tīmekļvietnē.
