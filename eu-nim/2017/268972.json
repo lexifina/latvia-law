@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 13. jūnija noteikumiem Nr. 338 \"Prasības sociālo pakalpojumu sniedzējiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "126 (5953), 2017/126.15",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-27",
+  "entry_into_force": "2017-07-01",
+  "notification_date": "2019-02-05",
+  "commission_reference": "MNE(2019)51055",
+  "nim_celex": "72012L0029LVA_268972",
+  "nim_id": "268972",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dc20b07e-a0a1-46c9-add6-14a4df6ee6aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
