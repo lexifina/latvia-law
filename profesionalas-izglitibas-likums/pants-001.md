@@ -6,6 +6,9 @@
 2¹) eksaminācijas centrs - Ministru kabineta noteiktajā kārtībā akreditēta komercsabiedrība vai biedrība, kura neīsteno izglītības programmas, bet kurā atbilstoši tās darbībai noteiktā preču ražošanas, sadales vai pakalpojumu jomā kārtojami eksāmeni profesionālās kvalifikācijas ieguvei šā likuma 6.panta trešajā un septītajā daļā paredzētajos gadījumos;
 2²) kvalifikācijas prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas (profesionālo iemaņu un prasmju) apguves noslēdzošā daļa pirms valsts pārbaudījuma profesionālās kvalifikācijas iegūšanai;
 2³) mācību prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas apguve izglītības iestādē vai ārpus tās, izņemot kvalifikācijas praksi;
+2⁴) modulis - profesionālās kvalifikācijas sastāvdaļa, tā pamatā ir sasniedzamie mācīšanās rezultāti kā novērtējams un pierādāms zināšanu, prasmju un kompetenču kopums;
+2⁵) moduļa programma - profesionālās izglītības programmas sastāvdaļa, kas ietver moduļa mērķus un uzdevumus, moduļa sasniedzamos rezultātus, moduļa saturu, satura apguves plānojumu, iegūtās izglītības vērtēšanas kritērijus un kārtību, kā arī programmas īstenošanai nepieciešamo metožu un līdzekļu uzskaitījumu;
+2⁶) modulārā profesionālās izglītības programma - profesionālās izglītības programma, kuras profesionālo saturu atkarībā no izglītības programmai izvirzītā mērķa veido moduļu kopums un kuras apguves rezultātā var iegūt profesionālo kvalifikāciju;
 3) praktikants - izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas mācību praksē iestādē, pie komersanta vai biedrībā;
 4) profesija - fiziskās personas nodarbošanās veids preču ražošanas, sadales vai pakalpojumu sfērā, arī izglītībā, kultūrā un mākslā, kam nepieciešama noteikta sagatavotība (izglītība);
 5) profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt ceturtā vai piektā līmeņa profesionālo kvalifikāciju;

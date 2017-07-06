@@ -1,9 +1,9 @@
 28.pants. Profesionālās izglītības programmu īstenošana
 (1) Profesionālās izglītības ieguves formas ir šādas:
-1) klātiene;
+1) klātiene, tai skaitā darba vidē balstītas mācības;
 2) neklātiene;
 3) pašizglītība;
-4) darba vidē balstītas mācības.
+4) (izslēgts ar 22.06.2017. likumu).
 (2) Profesionālās izglītības programmas īstenošanas ilgums klātienē profesionālās izglītības iestādēs ir šāds:
 1) profesionālās pamatizglītības ieguves ilgums - ne vairāk kā divi gadi (ar pedagoģisko korekciju un programmās izglītojamajiem ar garīgās attīstības traucējumiem - ne vairāk kā trīs gadi);
 2) arodizglītības ieguves ilgums - ne vairāk kā trīs gadi;

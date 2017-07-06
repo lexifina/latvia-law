@@ -1,2 +1,2 @@
 24.pants. Profesijas standarts
-Profesijas standarts nosaka profesijai atbilstošos profesionālās darbības pamatuzdevumus un pienākumus, profesionālās kvalifikācijas prasības, to izpildei nepieciešamās vispārējās un profesionālās zināšanas, prasmes, attieksmes un kompetences.
+Profesijas standarts nosaka profesijai atbilstošos profesionālās darbības pamatuzdevumus un pienākumus, profesionālās kvalifikācijas prasības, to izpildei nepieciešamās vispārējās un profesionālās zināšanas, prasmes, attieksmes un kompetences. Attiecīgās profesijas saistītajām profesijām un specializācijām nav nepieciešams izstrādāt atsevišķu profesijas standartu, bet izstrādā un saskaņo profesionālās kvalifikācijas prasības.

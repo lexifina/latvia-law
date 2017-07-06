@@ -1,5 +1,5 @@
 25.pants. Profesionālās izglītības programma
-(1) Profesionālās izglītības programma ir profesionālo izglītību reglamentējošs dokuments, kas atbilstoši attiecīgās izglītības pakāpes valsts profesionālās izglītības standartam un profesijas standartam vai profesionālās kvalifikācijas prasībām (ja profesijai neapstiprina profesijas standartu) nosaka:
+(1) Profesionālās izglītības programma ir profesionālo izglītību reglamentējošs dokuments, kas atbilstoši attiecīgās izglītības pakāpes valsts profesionālās izglītības standartam un profesijas standartam vai profesionālās kvalifikācijas prasībām (ja profesijai nav nepieciešams izstrādāt profesijas standartu) nosaka:
 1) profesionālās izglītības programmas mērķi un sasniedzamos rezultātus;
 2) profesionālās izglītības programmas saturu;
 3) profesionālās izglītības programmas īstenošanas plānu;

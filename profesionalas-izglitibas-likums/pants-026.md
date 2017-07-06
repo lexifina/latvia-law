@@ -1,5 +1,5 @@
 26.pants. Profesionālās izglītības programmu veidi
-Profesionālās izglītības programmas atkarībā no iegūstamās izglītības iedalāmas šādi:
+(1) Profesionālās izglītības programmas atkarībā no iegūstamās izglītības iedalāmas šādi:
 1) profesionālās pamatizglītības programmas;
 2) arodizglītības programmas;
 3) profesionālās vidējās izglītības programmas;
@@ -7,3 +7,4 @@ Profesionālās izglītības programmas atkarībā no iegūstamās izglītības 
 5) profesionālās tālākizglītības programmas;
 6) profesionālās pilnveides izglītības programmas;
 7) profesionālās ievirzes izglītības programmas.
+(2) Profesionālajā pamatizglītībā, arodizglītībā, profesionālajā vidējā izglītībā un profesionālajā tālākizglītībā var īstenot modulārās profesionālās izglītības programmas.

@@ -1,7 +1,8 @@
 7.pants. Ministru kabineta kompetence
 Ministru kabinets:
 1) (izslēgts ar 21.09.2006. likumu);
-2) nosaka profesijas standarta, profesionālās kvalifikācijas prasību (ja profesijai neapstiprina profesijas standartu) un nozares kvalifikāciju struktūras izstrādes kārtību, kā arī institūciju, kas izstrādā un aktualizē nozares kvalifikāciju struktūru;
+2) nosaka profesijas standarta, profesionālās kvalifikācijas prasību (ja profesijai nav nepieciešams izstrādāt profesijas standartu) un nozares kvalifikāciju struktūras izstrādes kārtību, kā arī institūciju, kas izstrādā un aktualizē nozares kvalifikāciju struktūru;
+2¹) nosaka obligāti piemērojamo profesiju standartu un profesionālās kvalifikācijas prasību, ja profesijai nav nepieciešams izstrādāt profesijas standartu, sarakstu un tajā iekļauto profesiju standartu un profesionālās kvalifikācijas prasību publiskošanas kārtību;
 3) (izslēgts ar 05.07.2001. likumu);
 4) nosaka mācību prakses un kvalifikācijas prakses organizācijas kārtību;
 5) nosaka valsts atzītu profesionālās kvalifikācijas dokumentu formu, izsniegšanas kritērijus un kārtību, kā arī profesionālās pilnveides un profesionālās ievirzes izglītību apliecinošu dokumentu formu, to izgatavošanas un izsniegšanas kārtību;
