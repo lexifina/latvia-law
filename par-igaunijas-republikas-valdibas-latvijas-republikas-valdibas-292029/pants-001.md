@@ -1,0 +1,1 @@
+1. pants. 2017. gada 31. janvārī Tallinā parakstītais Igaunijas Republikas valdības, Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par Rail Baltic / Rail Baltica dzelzceļa savienojuma izveidi (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
