@@ -1,6 +1,6 @@
 6.pants. Ēkas energoefektivitātes novērtēšana
 (1) Ekspluatējamām ēkām neatkarīgs eksperts novērtē aprēķināto un izmērīto energoefektivitāti.
-(2) Projektējamām, rekonstruējamām un renovējamām ēkām neatkarīgs eksperts novērtē aprēķināto energoefektivitāti.
+(2) Projektējamām, pārbūvējamām un atjaunojamām ēkām neatkarīgs eksperts novērtē aprēķināto energoefektivitāti.
 (3) Novērtējot ēkas energoefektivitāti, ņem vērā:
 1) norobežojošo konstrukciju siltumvadītspēju;
 2) apkures sistēmu un dzesēšanas sistēmu;

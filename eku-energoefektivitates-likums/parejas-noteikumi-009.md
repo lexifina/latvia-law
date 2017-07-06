@@ -1,0 +1,1 @@
+9. Grozījumi šā likuma 8. panta septītajā daļā attiecībā uz ēku pagaidu energosertifikāta derīguma termiņu stājas spēkā 2017. gada 1. augustā. Pirms 2017. gada 1. augusta izsniegto ēkas pagaidu energosertifikātu derīguma termiņš ir trīs gadi, ja ēkas pagaidu energosertifikāts nav zaudējis spēku.
