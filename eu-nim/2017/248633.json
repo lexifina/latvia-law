@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums Grozījumi Ēku energoefektivitātes likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/124.2",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-22",
+  "entry_into_force": "2017-07-06",
+  "notification_date": "2017-06-27",
+  "commission_reference": "MNE(2017)53447",
+  "nim_celex": "72010L0031LVA_248633",
+  "nim_id": "248633",
+  "transposes_celex": [
+    "32010L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f8bfc1d0-01a7-4020-a680-fdc225fe4ca8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
