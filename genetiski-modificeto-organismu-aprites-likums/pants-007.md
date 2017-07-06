@@ -4,8 +4,8 @@ Valsts augu aizsardzības dienests:
 2) izskata iesniegumus un pieņem lēmumus par ģenētiski modificēto kultūraugu audzētāju iekļaušanu ģenētiski modificēto kultūraugu audzētāju reģistrā;
 3) nodrošina ģenētiski modificēto kultūraugu līdzāspastāvēšanas uzraudzību un kontroli;
 4) nodrošina ģenētiski modificēto kultūraugu šķirņu sēklu un augu pavairošanas materiāla aprites uzraudzību un kontroli;
-5) nosaka ģenētiski modificētos organismus sēklās un augu pavairošanas materiālā;
-6) piedalās starptautisko organizāciju rīkotajās starplaboratoriju testēšanas programmās;
-7) ievieš starptautiski atzītas metodes, kas saistītas ar ģenētiski modificēto organismu noteikšanu sēklās un augu pavairošanas materiālā;
-8) nodrošina ģenētiski modificēto organismu noteikšanu sēklās un augu pavairošanas materiālā ārvalstu laboratorijās, ja to nav iespējams veikt Latvijā;
-9) veic to ģenētiski modificēto organismu uzraudzību un kontroli, kurus audzē ģenētiski modificēto kultūraugu audzētāju reģistrā nereģistrēti kultūraugu audzētāji.
+5) (izslēgts ar 08.06.2017. likumu);
+6) (izslēgts ar 08.06.2017. likumu);
+7) (izslēgts ar 08.06.2017. likumu);
+8) (izslēgts ar 08.06.2017. likumu);
+9) ņem sēklu un augu pavairojamā materiāla paraugus, lai konstatētu netīšu ģenētiski modificēto organismu klātbūtni.
