@@ -7,4 +7,4 @@ b) pieņemot lēmumus par apstrīdētajiem pašvaldības būvvaldes administrat�
 3) republikas pilsētās - nodarbina pilsētas arhitektu, kurš pārrauga arhitektoniskās kvalitātes principa ievērošanu;
 4) nodrošina informācijas pieejamību būvniecības informācijas sistēmā;
 5) šajā likumā noteiktajā kārtībā informē sabiedrību par saņemtajām būvniecības iecerēm.
-(2) Šā panta pirmajā daļā minētos pienākumus pašvaldība neveic attiecībā uz būvdarbu valsts kontroles un ekspluatācijas procesiem, kas atbilstoši šā likuma 6.¹ pantā noteiktajam ir biroja kompetencē. Būvvaldes un biroja sadarbības kārtību nosaka vispārīgie būvnoteikumi.
+(2) Šā panta pirmajā daļā minētos pienākumus pašvaldība neveic attiecībā uz būvniecības procesiem vai to daļām, kas atbilstoši šā likuma 6.¹ pantā noteiktajam ir biroja vai citas institūcijas, kura pilda būvvaldes funkcijas, kompetencē. Būvvaldes un biroja, kā arī citas institūcijas, kura pilda būvvaldes funkcijas, sadarbības kārtību nosaka vispārīgie būvnoteikumi.

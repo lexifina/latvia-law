@@ -7,7 +7,7 @@ c) jaunas būves vai esošu būvju pārbūves, kuru ieceres iesniedzējs ir paš
 2) nodrošina publisku ēku ekspluatācijas uzraudzību;
 3) nodrošina būvniecības informācijas sistēmā iekļautās informācijas pieejamību;
 4) organizē būvprojektu un būvju ekspertīzi:
-a) gadījumos, kad būvniecības pasūtītājs ir publisko tiesību juridiskā persona vai tās institūcija,
+a) gadījumos, kad būvniecības ierosinātājs ir publisko tiesību juridiskā persona vai tās institūcija,
 b) gadījumos, kad starp būvniecības procesa dalībniekiem ir strīds un nepieciešams neatkarīgas būvprojekta vai būves ekspertīzes atzinums;
 5) informē kompetences pārbaudes iestādes par būvspeciālistu profesionālās darbības pārkāpumiem;
 6) nodrošina metodisku palīdzību savas kompetences jautājumos;

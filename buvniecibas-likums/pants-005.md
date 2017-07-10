@@ -22,7 +22,7 @@ i) būves novietojuma uzmērījumu veikšanas kārtību un kārtību, kādā bū
 j) būvdarbu garantijas termiņus pēc būves pieņemšanas ekspluatācijā;
 3) izdod būvnormatīvus, kuros nosaka tehniskās prasības attiecībā uz būvēm un to elementiem un vides pieejamības prasības attiecībā uz būvēm;
 4) izdod būvspeciālistu kompetences novērtēšanas un patstāvīgās prakses uzraudzības noteikumus, kuros nosaka:
-a) nosacījumus, ar kādiem fiziskajām personām izsniedz, reģistrē un anulē sertifikātu patstāvīgai praksei arhitektūras un būvniecības jomā, kā arī sertifikāta izsniegšanas, reģistrēšanas un anulēšanas, darbības apturēšanas un atjaunošanas kārtību,
+a) nosacījumus, ar kādiem fiziskajām personām izsniedz, reģistrē un anulē sertifikātu patstāvīgai praksei arhitektūras, būvniecības un elektroenerģētikas jomā, kā arī sertifikāta izsniegšanas, reģistrēšanas un anulēšanas, darbības apturēšanas un atjaunošanas kārtību,
 b) cik ilga praktiskā darba pieredze arhitektūras un būvniecības jomā nepieciešama, lai pretendētu uz sertifikātu patstāvīgai praksei arhitektūras un būvniecības jomā,
 c) kompetences pārbaudes organizēšanas nosacījumus un kompetences pārbaudes saturu,
 d) patstāvīgās prakses uzraudzības kārtību,
@@ -34,7 +34,7 @@ a) būvinspektoriem izvirzāmās prasības, būvinspektoru reģistrācijas kārt
 b) būvinspektoru reģistra datu saturu,
 c) būvinspektoru profesionālās darbības uzraudzības kārtību;
 6) nosaka būvniecības informācijas sistēmas izveides un uzturēšanas kārtību, dokumentu iesniegšanas kārtību, būvniecības informācijas sistēmas saturu un tajā iekļautās informācijas aprites kārtību;
-7) nosaka kārtību un nosacījumus komersantu reģistrācijai un pārreģistrācijai būvkomersantu reģistrā, izslēgšanai no reģistra, kā arī reģistra datu saturu un izmantošanas kārtību, par reģistrācijas darbībām maksājamās valsts nodevas apmēru un maksāšanas kārtību;
+7) nosaka kārtību un nosacījumus komersantu reģistrācijai un pārreģistrācijai būvkomersantu reģistrā, izslēgšanai no reģistra, kā arī reģistra datu saturu un izmantošanas kārtību, par reģistrācijas darbībām maksājamās valsts nodevas apmēru, atvieglojumus un maksāšanas kārtību;
 8) nosaka Latvijas Būvniecības padomes izveidošanas un darbības kārtību, kā arī padomes sekretariāta funkcijas;
 9) nosaka būvspeciālistu profesionālās civiltiesiskās atbildības apdrošināšanas un būvuzņēmēju civiltiesiskās atbildības apdrošināšanas kārtību un minimālo atbildības limitu;
 10) nosaka kārtību, kādā veic būvizstrādājumu tirgus uzraudzību, bet būvizstrādājumiem, uz kuriem nav attiecināmas Eiropas Parlamenta un Padomes regulas (ES) Nr. 305/2011, ar ko nosaka saskaņotus būvizstrādājumu tirdzniecības nosacījumus un atceļ Padomes direktīvu 89/106/EEK prasības, arī kārtību, kādā izvirza prasības būvizstrādājuma atbilstībai, pieprasa un saņem būvizstrādājumu paraugus, veic laboratoriskās vai cita veida ekspertīzes, un gadījumus, kad izdevumus par attiecīgu ekspertīžu veikšanu sedz būvizstrādājuma ražotājs vai izplatītājs;
