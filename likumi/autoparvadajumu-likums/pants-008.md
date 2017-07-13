@@ -5,5 +5,6 @@
 1) kravas pārvadājuma līgumi, kuru izpildē paredzēts izmantot tiešo jaukto satiksmi;
 2) kravas starptautisko pārvadājumu līgumi;
 3) bīstamu kravu pārvadājuma līgumi;
-4) līgumi visos gadījumos, kad to pieprasa nosūtītājs.
+4) līgumi visos gadījumos, kad to pieprasa nosūtītājs;
+5) līgumi intermodālo pārvadājumu gadījumā.
 (4) Rakstveida līguma noslēgšanai pielīdzināma pasūtījuma pieņemšana, izrakstot noteikta parauga preču pavadzīmi (turpmāk - pavadzīme).

@@ -12,7 +12,8 @@
 8) kravas bruto svars vai kravas daudzums citās mērvienībās;
 9) ar kravas pārvadāšanu saistītie maksājumi (pārvadājuma maksa, papildmaksājumi, muitas nodevas un nodokļi), kā arī citi maksājumi no kravas pārvadājuma līguma noslēgšanas brīža līdz kravas izsniegšanai;
 10) instrukcijas, kas jāievēro, noformējot muitas dokumentus par preču un priekšmetu izvešanu pāri Latvijas valsts robežai muitas kontrolē un izpildot citu kontroles iestāžu prasības;
-11) (izslēgts ar 02.12.2004. likumu).
+11) (izslēgts ar 02.12.2004. likumu);
+12) intermodālā pārvadājuma gadījumā konteinera vai maināmās virsbūves svars, ko izmanto attiecīgā pārvadājuma ietvaros.
 (4) Ja nepieciešams, pavadzīmē norādāms arī:
 1) aizliegums veikt pārkraušanu;
 2) maksājumi, kas jānokārto nosūtītājam;
