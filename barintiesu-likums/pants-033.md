@@ -1,5 +1,5 @@
 33.pants. Aizbildņa atlaišana no aizbildņa pienākumu pildīšanas
-(1) Bāriņtiesa lemj par aizbildņa atlaišanu no aizbildņa pienākumu pildīšanas Civillikumā paredzētajos gadījumos, kā arī tad, ja ir izbeigušies šā likuma 26.panta pirmās daļas 2., 3., 4., 5., 6. vai 7.punktā minētie aizbildnības nodibināšanas iemesli.
+(1) Bāriņtiesa lemj par aizbildņa atlaišanu no aizbildņa pienākumu pildīšanas Civillikumā paredzētajos gadījumos, kā arī tad, ja ir izbeigušies šā likuma 26.panta pirmās daļas 2., 4., 5., 6. vai 7.punktā minētie aizbildnības nodibināšanas iemesli.
 (2) Atlaižot aizbildni no aizbildņa pienākumu pildīšanas, ja aizbilstamais ir sasniedzis pilngadību, bāriņtiesa pieprasa, lai aizbildnis:
 1) iesniedz bāriņtiesai aizbilstamajam sniegto norēķinu;
 2) sniedz galanorēķinu par aizbilstamā mantas pārvaldību;

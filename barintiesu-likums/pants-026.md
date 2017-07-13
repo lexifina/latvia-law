@@ -9,13 +9,13 @@
 7) radušās būtiskas domstarpības bērna un vecāku attiecībās;
 8) radušies citi neatliekami gadījumi (nodrošinot normatīvajos aktos noteikto prasību ievērošanu).
 (2) Īpaši grūtos un sarežģītos aizbildnības gadījumos bāriņtiesa var iecelt vairākus aizbildņus, bet ne vairāk par trim.
-(3) Pagaidu aizbildni bāriņtiesa ieceļ, ja:
+(3) Aizbildni uz laiku bāriņtiesa ieceļ, ja:
 1) aizbildnis ir kavēts uzņemties aizbildnību;
 2) aizbildnis ir atstādināts no aizbildņa pienākumu pildīšanas.
 (4) Bāriņtiesa lemj par cita aizbildņa iecelšanu, ja:
 1) konstatē pārkāpumus, ko aizbildnis pieļāvis aizbildnības pārvaldībā;
 2) iepriekšējais aizbildnis atcelts vai atlaists no aizbildņa pienākumu pildīšanas;
 3) aizbildnis ir miris;
-4) aizbildnis nolēmis adoptēt savu aizbilstamo.
+4) (izslēgts ar 15.06.2017. likumu).
 (5) Bāriņtiesa ieceļ aizbilstamajam sevišķu aizbildni, ja bērna un aizbildņa intereses saduras.
 (6) Bāriņtiesa ar testamentu ieceltajam aizbildnim iekārto bērna aizbildnības lietu.
