@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Autopārvadājumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "128 (5955) (2017/128.2)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-06-29",
+  "entry_into_force": "2017-07-13",
+  "notification_date": "2017-06-29",
+  "commission_reference": "MNE(2017)53516",
+  "nim_celex": "72015L0719LVA_248715",
+  "nim_id": "248715",
+  "transposes_celex": [
+    "32015L0719"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fadf92cc-3132-4e01-92c3-4e18afc5e972",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
