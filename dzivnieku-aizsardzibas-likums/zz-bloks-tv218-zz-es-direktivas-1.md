@@ -1,0 +1,1 @@
+Dzīvnieku aizsardzības likuma pielikums
