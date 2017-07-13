@@ -1,6 +1,12 @@
 224.pants. Valdes locekļu ievēlēšana un atsaukšana
 (1) Dalībnieku sapulce ar savu lēmumu ievēlē un atsauc valdes locekļus. Iesniedzot komercreģistra iestādei pieteikumu par valdes locekļa pilnvaru izbeigšanos, izmaiņām pārstāvības tiesībās vai par jauna valdes locekļa ievēlēšanu, pieteikumam pievienojams dalībnieku sapulces protokola izraksts ar attiecīgo lēmumu.
-(1¹) Lēmums par valdes locekļa ievēlēšanu ir spēkā arī tad, ja to pieņēmusi persona, kas nav ierakstīta dalībnieku reģistrā, bet mantojumā vai ar spēkā stājušos tiesas spriedumu ieguvusi visas sabiedrības daļas.
+(1¹) Lēmums par valdes locekļa ievēlēšanu ir spēkā arī tad, ja to pieņēmusi persona, kura nav ierakstīta dalībnieku reģistrā, bet kura ieguvusi visas sabiedrības daļas, ja visas daļas:
+1) iegūtas mantojumā;
+2) iegūtas ar spēkā stājušos tiesas spriedumu;
+3) atsavinājis zvērināts tiesu izpildītājs, pildot amata darbības;
+4) atsavinājis maksātnespējas procesa administrators, pildot amata darbības;
+5) iegūtas, izlietojot komercķīlu.
+(1²) Šā panta 1.¹ daļā minētajam lēmumam pievieno dokumentu, uz kura pamata visas daļas iegūtas, vai tā notariāli apliecinātu kopiju un jauno dalībnieku reģistra nodalījumu.
 (2) Lai personu ievēlētu par valdes locekli, ir nepieciešama attiecīgās personas piekrišana. Piekrišanā valdes locekļa kandidāts norāda iespējamos šķēršļus amata ieņemšanai saskaņā ar šā likuma 4.¹, 4.², 171. un 221.pantu un iespējamos šķēršļus sabiedrības pārstāvības tiesību īstenošanai saskaņā ar šā likuma 4.¹ un 4.² pantu vai apliecina, ka viņam šādu šķēršļu nav.
 (2¹) Komercreģistra iestādei iesniedz valdes locekļa rakstveida piekrišanu, kurā viņš norāda tās sabiedrības firmu un reģistrācijas numuru, par kuras valdes locekli piekrīt kļūt.
 (3) Valdes locekli ievēlē uz nenoteiktu laiku, ja statūtos nav noteikts citādi.

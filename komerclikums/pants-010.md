@@ -1,5 +1,6 @@
 10.pants. Ieraksta izdarīšana komercreģistrā un dokumentu pievienošana reģistrācijas lietai
-(1) Ieraksts komercreģistrā tiek izdarīts uz ieinteresētās personas pieteikuma vai tiesas nolēmuma pamata. Pieteikumu veidlapas apstiprina Ministru kabinets.
+(1) Ieraksts komercreģistrā tiek izdarīts uz ieinteresētās personas pieteikuma vai tiesas nolēmuma pamata.
+(1¹) Pieteikumā norāda šā likuma 8. pantā minētās ziņas. Piesakot izmaiņas komercreģistrā ierakstāmajās ziņās, pieteikumā norāda veiktās izmaiņas atbilstoši šā likuma 8. pantam.
 (2) Personas paraksts apliecināms notariāli:
 1) uz pieteikuma:
 a) par komersanta ierakstīšanu komercreģistrā,

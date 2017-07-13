@@ -1,0 +1,1 @@
+57. Grozījums par šā likuma 17.¹ panta izslēgšanu stājas spēkā vienlaikus ar grozījumiem Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā, kas paredz pienākumu juridiskajām personām identificēt un atklāt tās patiesā labuma guvējus, kā arī iesniegt informāciju par patiesā labuma guvējiem Latvijas Republikas Uzņēmumu reģistram.

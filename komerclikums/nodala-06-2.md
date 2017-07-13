@@ -1,2 +1,2 @@
-6.nodaļa
-Faktoringa līgums
+6. nodaļa
+Darījumi ar saistītajām personām

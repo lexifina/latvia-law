@@ -16,3 +16,4 @@
 3) šā likuma 339.panta trešajā daļā minētajā gadījumā visi dalībnieki ir piekrituši, ka reorganizācijas prospekts netiek sagatavots;
 4) šā likuma 340.panta trešajā daļā minētajā gadījumā visi dalībnieki ir piekrituši, ka revidents nepārbauda reorganizācijas līgumu;
 5) šā likuma 343.panta 4.¹ daļā minētajā gadījumā visi dalībnieki ir piekrituši, ka saimnieciskās darbības pārskats netiek sagatavots.
+(3) Lai komercreģistrā tiktu izdarīts ieraksts par reorganizāciju, pieteikumā sabiedrība norāda visu reorganizācijā iesaistīto sabiedrību nosaukumus un reģistrācijas numurus, kā arī datumu, kad oficiālajā izdevumā "Latvijas Vēstnesis" publicēts paziņojums, ka pieņemts lēmums par reorganizāciju.

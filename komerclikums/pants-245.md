@@ -1,5 +1,5 @@
 245.pants. Konvertējamo obligāciju emisija
-(1) (Izslēgta ar 18.12.2008. likumu.)
+(1) (Izslēgta ar 18.12.2008. likumu)
 (2) Ar lēmumu par konvertējamo obligāciju emisiju apstiprina arī obligāciju emisijas noteikumus, kuros norāda:
 1) emitējamo obligāciju skaitu, vienas obligācijas nominālvērtību un kopējo nominālvērtību summu;
 2) obligācijas cenu;
@@ -9,5 +9,6 @@
 6) kārtību, kādā obligācijas tiek apmainītas pret akcijām;
 7) obligacionāru tiesības;
 8) citus noteikumus, kas nav pretrunā ar likumu.
+(2¹) Akcionāru sapulce vienlaikus ar lēmumu par konvertējamo obligāciju emisiju pieņem lēmumu par pamatkapitāla nosacītu palielināšanu šā likuma 261.¹ pantā noteiktajā kārtībā.
 (3) Obligacionārs iegūst konvertējamo obligāciju pēc tam, kad samaksāta pilna tās pārdošanas cena.
-(4) Lēmums par konvertējamo obligāciju emisiju iesniedzams komercreģistra iestādei ne vēlāk kā vienu mēnesi pirms obligāciju izlaišanas.
+(4) (Izslēgta ar 15.06.2017. likumu)

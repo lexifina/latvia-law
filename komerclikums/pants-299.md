@@ -12,4 +12,4 @@
 6) balsošanas rezultātus, norādot katra padomes locekļa balsojumu "par" vai "pret" par katru lēmumu;
 7) pieņemtos lēmumus.
 (5) Ja padomes loceklis nepiekrīt padomes lēmumam un balso pret to, viņa atšķirīgais viedoklis pēc viņa pieprasījuma ierakstāms padomes sēdes protokolā.
-(6) Padomes sēžu protokolus paraksta padomes locekļi, kuri piedalījušies attiecīgajā padomes sēdē.
+(6) Padomes sēžu protokolus paraksta padomes locekļi, kuri piedalījušies attiecīgajā padomes sēdē. Komercreģistra iestādei iesniedz protokola oriģinālu vai atvasinājumu, kura pareizību apliecina padomes sēdes vadītājs.

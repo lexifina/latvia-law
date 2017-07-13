@@ -7,4 +7,4 @@
 2) pamatkapitāla lielumu un plānoto pamatkapitāla palielinājuma apmēru;
 3) emitēto akciju kategorijas, skaitu un nominālvērtību;
 4) akciju pārdošanas cenu;
-5) termiņu, kurā akcionāriem jāizmanto pirmtiesības un kurš nedrīkst būt īsāks par mēnesi no paziņojuma publicēšanas dienas vai - vārda akciju gadījumā - no paziņojuma nosūtīšanas dienas.
+5) termiņu, kurā akcionāriem jāizmanto pirmtiesības un kurš nedrīkst būt īsāks par 15 dienām no paziņojuma publicēšanas dienas vai - vārda akciju gadījumā - no paziņojuma nosūtīšanas dienas.

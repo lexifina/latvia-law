@@ -5,7 +5,8 @@
 3) sabiedrības darbības termiņu vai mērķi (ja sabiedrība tiek dibināta uz noteiktu laiku vai noteikta mērķa sasniegšanai);
 4) pamatkapitāla lielumu, daļu skaitu un nominālvērtību;
 5) (izslēgts ar 14.02.2002. likumu);
-6) sabiedrības valdes skaitlisko sastāvu, nosakot valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;
+6) sabiedrības valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;
+6¹) valdes skaitlisko sastāvu (ja tāds paredzēts);
 7) sabiedrības padomes skaitlisko sastāvu (ja sabiedrībai paredzēta padome);
 8) īpašus daļu atsavināšanas noteikumus (ja tādi paredzēti);
 9) citus noteikumus, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar likumu.

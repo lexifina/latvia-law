@@ -19,6 +19,7 @@
 3) kapitālsabiedrības valdes locekļu, padomes locekļu (ja kapitālsabiedrībai ir izveidota padome) vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un ieņemamais amats;
 4) valdes locekļu tiesības pārstāvēt kapitālsabiedrību atsevišķi vai kopīgi;
 5) pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu;
+5¹) akciju sabiedrības nosacītā pamatkapitāla lielums;
 6) (izslēgts ar 14.02.2002. likumu);
 7) juridiskā adrese;
 8) ja kapitālsabiedrība nodibināta uz noteiktu laiku, - laiks, uz kādu tā nodibināta;

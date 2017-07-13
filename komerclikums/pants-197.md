@@ -7,7 +7,7 @@
 (3) Ja jaunas daļas tiek iegūtas par cenu, kas pārsniedz daļas nominālvērtību saskaņā ar šā likuma 155.panta otrās daļas noteikumiem, starpība starp iegūšanas cenu un iegūtās daļas nominālvērtību netiek ieskaitīta pamatkapitālā.
 (4) Mantiskais ieguldījums pamatkapitāla palielināšanas gadījumā atļauts tikai tad, ja to paredz pamatkapitāla palielināšanas noteikumi.
 (5) (Izslēgta ar 14.02.2002. likumu)
-(6) Dalībnieks, kas balsojis pret pamatkapitāla palielināšanu šā panta pirmās daļas 2.punktā minētajā veidā, ir tiesīgs divu mēnešu laikā no pamatkapitāla palielināšanas brīža pieprasīt, lai sabiedrība atpērk viņa daļas.
-(7) Atlīdzībai jābūt vienādai ar summu, kuru dalībnieks iegūtu, sadalot sabiedrības mantu likvidācijas gadījumā, ja tāda notiktu pamatkapitāla palielināšanas brīdī. No pamatkapitāla palielināšanas brīža sabiedrība maksā likumiskos procentus par paredzētajā apmērā un termiņā neizdarītajām atlīdzības izmaksām.
-(8) Attiecībā uz atlīdzību nepiemēro likumā noteiktos ierobežojumus par kārtību, kādā sabiedrība var iegūt savas daļas.
-(9) Ja sabiedrības dalībnieks, kurš balsojis pret pamatkapitāla palielināšanu šā panta pirmās daļas 2.punktā minētajā veidā, nepieprasa atlīdzību, viņš divu mēnešu laikā var atsavināt savas daļas neatkarīgi no statūtos vai likumā paredzētajiem ierobežojumiem.
+(6) (Izslēgta ar 15.06.2017. likumu)
+(7) (Izslēgta ar 15.06.2017. likumu)
+(8) (Izslēgta ar 15.06.2017. likumu)
+(9) (Izslēgta ar 15.06.2017. likumu)

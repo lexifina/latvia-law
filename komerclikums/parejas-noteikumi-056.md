@@ -1,0 +1,1 @@
+56. Grozījumi šā likuma 169.¹ pantā par valdes locekļu administratīvo atbildību par dalībnieku reģistra vešanas noteikumu pārkāpumiem stājas spēkā vienlaikus ar attiecīgiem grozījumiem Latvijas Administratīvo pārkāpumu kodeksā.

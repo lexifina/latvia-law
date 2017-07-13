@@ -10,5 +10,6 @@
 8) sabiedrības vērtspapīru emisiju un konversiju;
 9) atlīdzības noteikšanu padomes locekļiem un revidentam;
 10) sabiedrības darbības izbeigšanu vai turpināšanu, apturēšanu vai atjaunošanu, vai par sabiedrības reorganizāciju;
-11) valdes un padomes locekļiem paredzētās atlīdzības noteikšanas vispārējiem principiem, veidiem un kritērijiem.
+11) valdes un padomes locekļiem paredzētās atlīdzības noteikšanas vispārējiem principiem, veidiem un kritērijiem;
+12) sabiedrības akciju piešķiršanu darbiniekiem un valdes un padomes locekļiem.
 (2) Akcionāru sapulce pieņem lēmumus citos jautājumos tikai tad, ja tas paredzēts likumā.

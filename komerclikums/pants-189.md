@@ -7,3 +7,4 @@
 (6) Ja daļas ieguvējs ir sabiedrības dalībnieks un dalībnieki izlieto pirmpirkuma tiesības, daļas sadalāmas starp daļas ieguvēju un dalībniekiem proporcionāli viņiem piederošajām daļām.
 (7) Ja divi vai vairāki dalībnieki izlieto pirmpirkuma tiesības un pārdodamo daļu skaits ir pietiekams, tās sadala starp šiem dalībniekiem proporcionāli viņiem piederošajām daļām.
 (8) Ja divi vai vairāki dalībnieki izlieto pirmpirkuma tiesības, bet pārdodamo daļu skaits nav pietiekams, lai tās sadalītu proporcionāli, starp šiem dalībniekiem rīko slēgtu izsoli uz atlikušajām daļām, kuras nevar proporcionāli sadalīt. Statūtos var paredzēt citu kārtību, kādā sadalāmas atlikušās daļas.
+(9) Slēgtajā izsolē iegūto pirkuma maksu pārskaita daļas pārdevējam.

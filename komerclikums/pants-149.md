@@ -1,5 +1,5 @@
 149.pants. Pieteikums ierakstīšanai komercreģistrā
-(1) Pieteikumā sabiedrības ierakstīšanai komercreģistrā norāda šā likuma 8.pantā minētās ziņas.
+(1) Sabiedrības dibināšana piesakāma ierakstīšanai komercreģistrā.
 (2) Pieteikumu paraksta visi dibinātāji.
 (3) Pieteikumam pievieno:
 1) dibināšanas dokumentus;
