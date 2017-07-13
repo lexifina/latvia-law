@@ -5,7 +5,7 @@
 4) izmēģinājumu dzīvnieku aizsardzības jomā:
 a) izmēģinājumu dzīvnieku audzētāju, piegādātāju un lietotāju reģistrācijas un tās anulēšanas kārtību,
 b) prasības izmēģinājumu dzīvnieku audzētājiem, piegādātājiem un lietotājiem,
-c) kārtību, kādā par izmēģinājuma projektu atbildīgajai personai izsniedz un anulē izmēģinājuma projekta atļauju,
+c) kārtību, kādā par izmēģinājuma projektu atbildīgajai personai izsniedz un anulē atļauju,
 d) kārtību, kādā izsniedz, groza, atjauno un anulē izmēģinājuma projekta atļauju,
 e) labturības prasības izmēģinājumu dzīvnieka iegūšanai, apzīmēšanai, audzēšanai, turēšanai, kopšanai, piegādei un izmantošanai,
 f) to dzīvnieku sarakstu, kurus audzē izmantošanai procedūrās,

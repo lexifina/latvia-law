@@ -8,7 +8,7 @@
 7) dzīvnieka pakļaušana izskatu pārveidojošām vai citām neārstnieciskām procedūrām, ja to nepieciešamību nav noteicis un tās nav veicis praktizējošs veterinārārsts vai cita persona saskaņā ar lauksaimniecības dzīvnieku labturību regulējošiem normatīvajiem aktiem. Praktizējošam veterinārārstam atļauts izdarīt astes apgriešanu šā likuma 18.¹ pantā noteikto šķirņu suņiem;
 8) dzīvnieka izmantošana par mērķi šaušanas apmācībās vai sacensībās;
 9) dzīvnieka izmantošana citu sugu dzīvnieku apmācībai, izņemot medību suņu apmācību;
-10) dzīvnieka izmantošana, liekot tam pārsniegt savas dabiskās spējas;
+10) dzīvnieka izmantošana, liekot tam veikt darbības, kas attiecīgajam dzīvniekam nav raksturīgas dabiskā vidē un pārsniedz tā dabiskās spējas, kā arī var kaitēt dzīvnieka veselībai un radīt tam ciešanas;
 11) savvaļas sugas dzīvnieka demonstrēšana ārpus zooloģiskā dārza vai reģistrētas savvaļas sugu dzīvnieku turēšanas vietas;
 12) dzīvnieka mātītes piedāvāšana un izmantošana dzīvnieka tēviņa dzimumtieksmju apmierināšanai bez nolūka iegūt pēcnācējus;
 13) citu tādu darbību veikšana, kuras izraisa vai var izraisīt dzīvnieka sakropļošanu vai nāvi, radīt tam ciešanas, izņemot gadījumus, kad šīs darbības veiktas ārstēšanas, izmēģinājumu nolūkos, vai gadījumus, kad tiek apdraudēta cilvēka dzīvība vai veselība;

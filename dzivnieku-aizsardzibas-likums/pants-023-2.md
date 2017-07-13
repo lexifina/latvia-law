@@ -1,0 +1,1 @@
+23.² pants. Izmēģinājumu dzīvnieka audzētājs, piegādātājs un lietotājs pilnveido dzīvnieku audzēšanas, turēšanas, kopšanas un procedūrās izmantojamās metodes, lai likvidētu vai līdz minimumam samazinātu jebkuras iespējamās sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu dzīvniekiem.

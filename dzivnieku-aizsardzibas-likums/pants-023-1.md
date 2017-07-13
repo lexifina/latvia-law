@@ -1,0 +1,1 @@
+23.¹ pants. Izmēģinājumu dzīvnieka lietotājs procedūras vietā vienmēr, kad vien iespējams, izmanto zinātniski apmierinošu metodi vai testēšanas stratēģiju, kas nav saistīta ar dzīvu dzīvnieku izmantošanu.
