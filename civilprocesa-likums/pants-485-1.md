@@ -3,6 +3,6 @@
 1) par rajona (pilsētas) tiesas sprieduma vai lēmuma pārskatīšanu - attiecīgajai apgabaltiesai;
 2) par apgabaltiesas sprieduma vai lēmuma pārskatīšanu - Augstākajai tiesai;
 3) par Tiesu palātas sprieduma vai lēmuma pārskatīšanu - Augstākās tiesas Civillietu departamentam.
-(2) Pieteikumu var iesniegt 45 dienu laikā no dienas, kad uzzināti šā panta pirmajā daļā minētajās Eiropas Savienības tiesību normās paredzētie pārskatīšanas apstākļi.
+(2) Pieteikumu var iesniegt 45 dienu, bet saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 861/2007 30 dienu laikā no dienas, kad uzzināti šā panta pirmajā daļā minētajās Eiropas Savienības tiesību normās paredzētie pārskatīšanas apstākļi.
 (3) Pieteikumu nevar iesniegt, ja ir iestājies noilgums tam, lai iesniegtu izpildei izpildu dokumentu par attiecīgo nolēmumu.
 (4) Pieteikumu, kurā nav norādīti apstākļi, kas saskaņā ar šā panta pirmajā daļā minētajām Eiropas Savienības tiesību normām var tikt atzīti par nolēmuma pārskatīšanas apstākļiem, nepieņem un atdod atpakaļ iesniedzējam. Tiesnesis atsakās pieņemt izskatīšanai pieteikumu par lietas jaunu izskatīšanu sakarā ar nolēmuma pārskatīšanu arī tad, ja pieteikums iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai nolēmuma pārskatīšanas apstākļi ir mainījušies. Par šādu tiesneša lēmumu var iesniegt blakus sūdzību.
