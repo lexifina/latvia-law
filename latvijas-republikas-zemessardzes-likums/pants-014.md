@@ -8,6 +8,8 @@
 (4) Par zemessargu nevar būt persona:
 1) kura ir atvaļināta no militārā vai cita valsts dienesta par disciplīnas pārkāpumiem;
 2) kura tiek turēta aizdomās vai apsūdzēta noziedzīga nodarījuma izdarīšanā;
-3) attiecībā uz kuru ir stājies spēkā notiesājošs tiesas spriedums vai prokurora priekšraksts par sodu;
+3) kura sodīta par tīšu noziedzīgu nodarījumu, par valsts noslēpuma izpaušanu aiz neuzmanības, nonāvēšanu aiz neuzmanības, miesas bojājumu nodarīšanu aiz neuzmanības vai militārā dienesta mantas iznīcināšanu vai bojāšanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+3¹) kura sodīta par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, izņemot šīs daļas 3. punktā minēto noziedzīgo nodarījumu, ja sodāmība nav noņemta vai nav dzēsta likumā noteiktajā kārtībā;
+3²) kura par šīs daļas 3. punktā minēto noziedzīgo nodarījumu notiesāta, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata.
 4) kura atrodas narkologa vai psihiatra uzskaitē, kurai ir hroniski psihiski traucējumi vai tiem pielīdzināti stāvokļi vai kurai nodibināta aizgādnība;
 5) kura ir bijusi PSRS, Latvijas PSR, ir vai ir bijusi kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs.

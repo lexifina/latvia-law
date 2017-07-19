@@ -1,0 +1,1 @@
+12. Grozījums šā likuma 15. pantā par zemessargu augstāko virsnieku dienesta pakāpēm atbilstošo amatu saraksta apstiprināšanu Ministru kabinetā stājas spēkā 2018. gada 1. janvārī. Līdz šā grozījuma spēkā stāšanās dienai Ministru kabinets izdod tam atbilstošus noteikumus.

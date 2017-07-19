@@ -1,0 +1,1 @@
+13. Šā likuma 24. panta otrās daļas 1. punktā un piektajā daļā paredzētie nosacījumi leitnanta dienesta pakāpes saņemšanai attiecināmi arī uz zemessargiem, kuri ieguvuši vidējo izglītību un sekmīgi pabeiguši Zemessardzes vada komandieru pienākumu izpildītāju kursu pirms šo nosacījumu spēkā stāšanās dienas.
