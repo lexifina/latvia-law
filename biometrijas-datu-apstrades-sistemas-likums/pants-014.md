@@ -16,5 +16,6 @@
 15) Iekšlietu ministrijas Informācijas centrs;
 16) ārstniecības iestāžu reģistrā iekļautās stacionārās ārstniecības iestādes, kas nodrošina neatliekamās medicīniskās palīdzības sniegšanu;
 17) pašvaldības policija;
+17¹) Iekšējās drošības birojs;
 18) citas valsts un pašvaldību iestādes, ja biometrijas datu apstrādes sistēmas izmantošana ir paredzēta ārējā normatīvajā aktā.
 (2) Ministru kabinets nosaka kārtību un apjomu, kādā šā panta pirmajā daļā minētās iestādes izmanto biometrijas datu apstrādes sistēmā iekļautos datus.

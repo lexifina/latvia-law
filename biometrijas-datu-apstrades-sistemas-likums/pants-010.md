@@ -9,6 +9,7 @@
 8) valsts drošības iestādes;
 9) Ceļu satiksmes drošības direkcija;
 10) Latvijas Jūras administrācija;
-11) Pilsonības un migrācijas lietu pārvalde.
+11) Pilsonības un migrācijas lietu pārvalde;
+12) Iekšējās drošības birojs.
 (2) Šā panta pirmajā daļā minētās iestādes ir atbildīgas par biometrijas datu precīzu iekļaušanu biometrijas datu apstrādes sistēmā, kā arī par iekļauto datu aktualizāciju to glabāšanas laikā.
 (3) Ministru kabinets nosaka kārtību un apjomu, kādā šā panta pirmajā daļā minētās iestādes iekļauj un aktualizē datus biometrijas datu apstrādes sistēmā, kā arī minēto darbību veikšanas nosacījumus.
