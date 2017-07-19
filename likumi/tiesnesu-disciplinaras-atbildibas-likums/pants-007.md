@@ -2,7 +2,7 @@
 (1) Izskatot disciplinārlietu, tiesnešu disciplinārkolēģija lēmumu pieņem apspriežu istabā.
 (2) Tiesnešu disciplinārkolēģija var pieņemt lēmumu:
 1) uzlikt disciplinārsodu;
-2) nosūtīt disciplinārlietas materiālus Ģenerālprokuratūrai jautājuma izlemšanai par krimināllietas ierosināšanu;
+2) nosūtīt disciplinārlietas materiālus Ģenerālprokuratūrai jautājuma lemšanai par kriminālprocesa uzsākšanu;
 3) ierosināt tiesnesi atcelt no amata;
 4) (izslēgts ar 10.06.2010. likumu);
 5) izbeigt disciplinārlietu.

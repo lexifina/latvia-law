@@ -1,11 +1,11 @@
 3. pants. Disciplinārlietas ierosināšana
 (1) Ierosināt disciplinārlietu ir tiesīgi:
-1) Augstākās tiesas priekšsēdētājs - par rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, kā arī apgabaltiesu zemesgrāmatu nodaļu tiesnešiem visos šā likuma 1.pantā minētajos gadījumos;
-2) tieslietu ministrs - par rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, kā arī apgabaltiesu zemesgrāmatu nodaļu tiesnešiem visos šā likuma 1.pantā minētajos gadījumos;
-3) apgabaltiesu priekšsēdētāji - par rajonu (pilsētu) tiesu tiesnešiem un apgabaltiesu zemesgrāmatu nodaļu tiesnešiem - šā likuma 1. panta pirmās daļas 1. punktā norādītajos gadījumos, bet par apgabaltiesu tiesnešiem - visos šā likuma 1. pantā norādītajos gadījumos;
+1) Augstākās tiesas priekšsēdētājs - par rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, kā arī rajonu (pilsētu) tiesu zemesgrāmatu nodaļu tiesnešiem visos šā likuma 1.pantā minētajos gadījumos;
+2) tieslietu ministrs - par rajonu (pilsētu) tiesu, to zemesgrāmatu nodaļu un apgabaltiesu tiesnešiem visos šā likuma 1. pantā norādītajos gadījumos;
+3) apgabaltiesu priekšsēdētāji - par rajonu (pilsētu) tiesu tiesnešiem, rajonu (pilsētu) tiesu zemesgrāmatu nodaļu tiesnešiem un apgabaltiesu tiesnešiem - visos šā likuma 1. pantā norādītajos gadījumos;
 4) rajonu (pilsētu) tiesu priekšsēdētāji - par rajonu (pilsētu) tiesu tiesnešiem - visos šā likuma 1. pantā norādītajos gadījumos;
-5) apgabaltiesu zemesgrāmatu nodaļu priekšnieki - par apgabaltiesu zemesgrāmatu nodaļu tiesnešiem - visos šā likuma 1.pantā norādītajos gadījumos;
-6) Tiesnešu ētikas komisija - par rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, kā arī apgabaltiesu zemesgrāmatu nodaļu tiesnešiem, ja tā konstatējusi Tiesnešu ētikas kodeksa normu rupju pārkāpumu.
+5) rajonu (pilsētu) tiesu zemesgrāmatu nodaļu priekšnieki - par rajonu (pilsētu) tiesu zemesgrāmatu nodaļu tiesnešiem - visos šā likuma 1.pantā norādītajos gadījumos;
+6) Tiesnešu ētikas komisija - par rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas tiesnešiem, kā arī rajonu (pilsētu) tiesu zemesgrāmatu nodaļu tiesnešiem, ja tā konstatējusi Tiesnešu ētikas kodeksa normu rupju pārkāpumu.
 (2) Persona, kas tiesīga ierosināt disciplinārlietu, ja ir pamats ierosināt šādu lietu, organizē saņemto materiālu vispusīgu iepriekšējo pārbaudi un pieprasa tiesneša rakstveida paskaidrojumu.
 (3) Par disciplinārlietas ierosināšanu Augstākās tiesas priekšsēdētājs, apgabaltiesas priekšsēdētājs, apgabaltiesas zemesgrāmatu nodaļas priekšnieks, rajona (pilsētas) tiesas priekšsēdētājs un Tiesnešu ētikas komisija pieņem lēmumu, bet tieslietu ministrs izdod rīkojumu. Lēmumā vai rīkojumā norāda iepriekšējā pārbaudē konstatētā pārkāpuma izdarīšanas apstākļus, pārkāpuma atklāšanas dienu un likumā paredzēto disciplinārlietas ierosināšanas pamatu. Lēmumu vai rīkojumu kopā ar iepriekšējās pārbaudes materiāliem nosūta izskatīšanai tiesnešu disciplinārkolēģijā.
 (4) Pirms disciplinārlietas materiālu nosūtīšanas tiesnešu disciplinārkolēģijai tiesnesim, par kuru ierosināta disciplinārlieta, tiek paziņots par to, ka iepriekšējā pārbaude ir pabeigta, un par laiku, kad viņš var iepazīties ar pārbaudes materiāliem.
