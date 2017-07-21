@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017. gada 11. jūlija noteikumi Nr. 408 \"Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas maksas aprēķināšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-20",
+  "entry_into_force": "2017-07-21",
+  "notification_date": "2026-01-22",
+  "commission_reference": "MNE(2026)00713",
+  "nim_celex": "72023L1791LVA_202600713",
+  "nim_id": "202600713",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ed511f4b-d55f-4c76-8e81-656af0e32a1b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
