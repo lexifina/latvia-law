@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada 27.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2017-07-28",
+ "ieraksts": {
+  "dkp_id": "3fcc745b-db57-44b8-ba45-6e75f0b9aa1e",
+  "lastmodtime": "\"AAAAAAF3NoI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Edvīns#Romualds#Andris#Romāns#Romans#Varis#Ivans#Jānis#Einārs#Jānis#Mihails#Andris#Artis#Inese#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Lolita#Valdis#Ingmārs#Veiko#Jānis#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Juris#Ringolds#Rihards#Ilmārs#Augusts#Anrijs#Ilze#Valters#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Jānis#Inesis#Juris#Ivans#Aleksejs#Ināra#Jānis#Gunārs#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Ivars#Solvita#Aivars#Aleksandrs#Aija#Jeļena#Mārtiņš#Līga#Artūrs#Edvards",
+  "SURNAME": "Lejiņš#Šnore#Ražuks#Morozovs#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Bērziņš#Rasmanis#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Čigāne#Skujiņš#Līdaka#Spolītis#Ādamsons#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Vectirāns#Balodis#Kols#Latkovskis#Brigmanis#Matīss#Viņķele#Dambe#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Dombrava#Boķis#Šulcs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Kūtris#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Āboltiņa#Meija#Kiršteins#Barča#Lazareva#Šics#Kozlovska#Rubiks#Smiltēns",
+  "VOTEDEPSUFFIX": "##########################################################################",
+  "FRACTION": "VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VL-TB/LNNK# #LRA#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #ZZS#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#NSL#VL-TB/LNNK#ZZS#NSL#VL-TB/LNNK# #ZZS#VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#NSL#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #VIENOTĪBA",
+  "RESULT": "Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Pret#Nebalsoja#Atturas#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Nebalsoja#Par#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Atturas#Par#Par#Par#Nebalsoja#Pret#Par#Pret#Pret#Par#Par#Pret#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.07.2017 12:05:05",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.19. Grozījumi likumā “Par iedzīvotāju ienākuma nodokli” (977/Lp12), 2.lasījums, steidzams",
+  "VOTING_ID": "309ff4cb-d4f7-4bba-88be-efc35e2647ed",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "43",
+  "VOTERESULT_FOR": "22",
+  "VOTERESULT_REGISTERED": "75",
+  "VOTE_NUMBER": "92",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada 27.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d95bbe29-2111-400b-b29b-8c1b2dab5a5b/download/12.saeimas-2017.gada-27.jlija-rkrtas-sesija-1-vote.xml",
+  "sha256": "35682d56ac788c5e98fcd16932a83a981ded99ff073952b6d32c86beaf428cc3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
