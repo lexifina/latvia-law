@@ -1,0 +1,2 @@
+160.¹ pants. Sabiedriskā transporta izdevumu segšana nosacīti notiesātajam
+Valsts probācijas dienests sedz nosacīti notiesātajam sabiedriskā transporta izdevumus, ja tie ir saistīti ar ierašanos uz probācijas programmu, kas paredzēta personām, kuras ir izdarījušas noziedzīgu nodarījumu pret personas tikumību un dzimumneaizskaramību, un probācijas programma tiek īstenota ārpus Valsts probācijas dienesta teritoriālās struktūrvienības darbības teritorijas, kurā tiek nodrošināta nosacīti notiesātā uzraudzība.
