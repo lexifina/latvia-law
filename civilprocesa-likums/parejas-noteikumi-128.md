@@ -1,0 +1,1 @@
+128. Šā likuma 567. panta 1.¹ daļa par piedzinēja atbrīvošanu no pienākuma norādīt piespiedu izpildes līdzekli, otrās daļas 2.¹ punkts par cietušā atbrīvošanu no sprieduma izpildes izdevumiem, 4.¹ daļa par sprieduma izpildes izdevumu segšanu stājas spēkā 2019. gada 1. janvārī.

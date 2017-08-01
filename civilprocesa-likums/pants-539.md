@@ -1,14 +1,14 @@
 539.pants. Tiesu un citu institūciju nolēmumi, kas jāizpilda
 (1) Šajā likumā noteiktajā tiesas spriedumu izpildes kārtībā izpildāmi šādi tiesu nolēmumi, tiesnešu lēmumi vai citu institūciju nolēmumi:
 1) tiesas spriedumi un tiesas vai tiesneša lēmumi civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām;
-2) tiesas spriedumi un lēmumi krimināllietās daļā par mantiskajām piedziņām;
+2) tiesas nolēmumi un prokurora lēmumi vai priekšraksti krimināllietās daļā par mantiskajām piedziņām;
 3) tiesneša vai tiesas lēmumi lietās par administratīvajiem pārkāpumiem daļā par mantiskajām piedziņām;
 4) tiesas lēmumi par izlīguma apstiprināšanu;
 5) pastāvīgās šķīrējtiesas nolēmumi;
 6) ārvalstu tiesu vai kompetento iestāžu un ārvalstu šķīrējtiesu nolēmumi likumā paredzētajos gadījumos;
 7) tiesas lēmumi par procesuālo sankciju piemērošanu - naudas sodu uzlikšanu;
 8) darba strīdu komisiju lēmumi;
-9) valsts sabiedrisko pakalpojumu regulēšanas iestādes (turpmāk - regulators) lēmumi par strīda izskatīšanu.
+9) valsts sabiedrisko pakalpojumu regulēšanas iestādes (turpmāk - regulators) lēmumi par strīda vai domstarpību izskatīšanu.
 (2) Tiesas spriedumu izpildei noteiktajā kārtībā, ja likumā nav noteikts citādi, izpildāmi arī:
 1) institūciju un amatpersonu lēmumi administratīvo pārkāpumu un likumu pārkāpumu lietās likumā noteiktajos gadījumos;
 2) uz naudas maksājumu vērsti ar valsts varu apveltītu iestāžu un amatpersonu izdoti administratīvie akti;

@@ -3,6 +3,7 @@
 (2) Pieteikumā norāda:
 1) tiesas nosaukumu, kas taisījusi aizmugurisku spriedumu;
 2) atbildētāja vārdu, uzvārdu, personas kodu, deklarēto dzīvesvietu, bet, ja tādas nav, - dzīvesvietu; juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi. Ja atbildētājs piekrīt elektroniskajai saziņai ar tiesu, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos. Atbildētājs papildus var norādīt arī citu adresi saziņai ar tiesu;
+2¹) kredītiestādes nosaukumu un konta numuru, kurā atlīdzināmi tiesāšanās izdevumi;
 3) aizmuguriska sprieduma taisīšanas datumu un būtību;
 4) iemeslus, kuru dēļ atbildētājs nav ņēmis dalību lietā;
 5) atbildētāja iebildumus pret prasību un spriedumu, iebildumu pamatojumu;

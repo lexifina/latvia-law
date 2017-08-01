@@ -10,6 +10,7 @@
 4) lūgumus par pierādījumu pieņemšanu vai to izprasīšanu;
 5) citus apstākļus, kurus viņš uzskata par nozīmīgiem lietas izskatīšanā, kā arī var norādīt savu tālruņa numuru, ja viņš piekrīt saziņai ar tiesu izmantot tālruni;
 5¹) elektroniskā pasta adresi saziņai ar tiesu un, ja viņš reģistrējis savu dalību tiešsaistes sistēmā, ietver arī norādi par reģistrēšanos, ja atbildētājs (vai viņa pārstāvis, kura deklarētā dzīvesvieta vai norādītā adrese saziņai ar tiesu ir Latvijā) piekrīt elektroniskajai saziņai ar tiesu vai ir kāds no šā likuma 56. panta 2.³ daļā minētajiem subjektiem. Ja atbildētāja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja atbildētāja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
+5²) kredītiestādes nosaukumu un konta numuru, kurā atlīdzināmi tiesāšanās izdevumi;
 6) vai viņš piekrīt izmantot mediāciju.
 (3) Atbildētājs pievieno paskaidrojumam tā norakstus atbilstoši lietas dalībnieku skaitam un rakstveida pierādījumus, kas apstiprina apstākļus, uz kuriem pamatoti iebildumi.
 (4) Pēc paskaidrojuma saņemšanas tā norakstu nekavējoties nosūta prasītājam un trešajām personām. Ja tiesnesis atzīst par nepieciešamu, viņš ir tiesīgs pieprasīt no prasītāja atsauksmi par paskaidrojumu.

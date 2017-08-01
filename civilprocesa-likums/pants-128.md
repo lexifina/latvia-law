@@ -6,7 +6,7 @@
 1²) atbildētāja, trešās personas vārds, uzvārds, personas kods, deklarētā dzīvesvieta un deklarācijā norādītā papildu adrese, bet, ja tādas nav, - dzīvesvieta; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese. Atbildētāja personas kodu vai reģistrācijas numuru norāda, ja tas ir zināms;
 1³) prasītāja pārstāvja (ja prasību ceļ pārstāvis) vārds, uzvārds, personas kods un adrese saziņai ar tiesu; juridiskajai personai - tās nosaukums, reģistrācijas numurs un juridiskā adrese. Ja prasītāja pārstāvis, kura deklarētā dzīvesvieta vai norādītā adrese saziņai ar tiesu ir Latvijā, piekrīt elektroniskajai saziņai ar tiesu, norāda arī elektroniskā pasta adresi un, ja tas ir reģistrējies tiešsaistes sistēmā saziņai ar tiesu, ietver arī norādi par reģistrēšanos. Ja prasītāja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja prasītāja pārstāvis ir zvērināts advokāts, papildus norāda zvērināta advokāta elektroniskā pasta adresi;
 2) (izslēgts ar 29.11.2012. likumu);
-2¹) prasībās par naudas summas piedziņu - kredītiestādes nosaukums un konta numurs, kurā veicama samaksa, ja tāds ir;
+2¹) kredītiestādes nosaukums un konta numurs, kurā veicama piedzenamās summas samaksa vai atlīdzināmi tiesāšanās izdevumi;
 3) prasības priekšmets;
 4) prasības summa, ja prasība ir novērtējama naudas izteiksmē, kā arī piedzenamās vai apstrīdamās summas aprēķins;
 5) apstākļi, ar kuriem prasītājs pamato savu prasījumu, un pierādījumi, kas tos apstiprina;

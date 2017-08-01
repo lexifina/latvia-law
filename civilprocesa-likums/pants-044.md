@@ -10,6 +10,7 @@ e) atlīdzināmie izdevumi advokāta palīdzības samaksai prasībās, kurām na
 3) izdevumi sakarā ar rakstveida pierādījumu iegūšanu - izdevumu faktiskajā apmērā;
 4) tulka izdevumi sakarā ar pušu vai to pārstāvju klātbūtni vai piedalīšanos pierādījumu iegūšanā, pēc Latvijas lūguma pierādījumus iegūstot ārvalstī, - izdevumu faktiskajā apmērā, tomēr ne vairāk par Ministru kabineta noteiktajām likmēm;
 5) tulka izdevumi sakarā ar pušu piedalīšanos tiesas sēdē - izdevumu faktiskajā apmērā, tomēr ne vairāk par Ministru kabineta noteiktajām likmēm.
+(1¹) Par šā panta pirmās daļas 1. punktā minēto atlīdzināmo izdevumu faktisko apmēru uzskata gan izdevumus, kuri jau ir samaksāti, gan izdevumus, par kuriem saskaņā ar advokāta un puses vienošanos par juridiskās palīdzības sniegšanu ir izrakstīts rēķins.
 (2) Ar lietas vešanu saistītos izdevumus piespriež no atbildētāja par labu prasītājam, ja viņa prasījums ir apmierināts pilnīgi vai daļēji, kā arī tad, ja prasītājs neuztur savus prasījumus sakarā ar to, ka atbildētājs tos pēc prasības iesniegšanas labprātīgi apmierinājis.
 (3) Ja prasība noraidīta, ar lietas vešanu saistītos izdevumus piespriež no prasītāja par labu atbildētājam.
 (4) Ja prasība ir izskatīta tikai pirmās instances tiesā, atlīdzināmie izdevumi advokāta palīdzības samaksai nedrīkst pārsniegt 50 procentus no šā panta pirmajā daļā noteiktā maksimālā atlīdzības apmēra.

@@ -1,0 +1,2 @@
+599.² pants. Finanšu līdzekļu konfiskācijas izpildes kārtība
+Ja konfiscēti finanšu līdzekļi, tiesu izpildītājs dod rīkojumu valsts vai pašvaldības institūcijai, kuras kontā atrodas šie finanšu līdzekļi, pārskaitīt tos tiesu izpildītāja depozīta kontā. Ja konfiscētie finanšu līdzekļi atrodas citas personas kontā, rīkojumu par to pārskaitīšanu tiesu izpildītāja depozīta kontā dod kredītiestādei. Tiesu izpildītāja rīkojums izpildāms nekavējoties.
