@@ -1,0 +1,1 @@
+21. Šā likuma VIII² nodaļas normas attiecībā uz tiem noziedzīgajiem nodarījumiem, kuri izdarīti līdz 2017. gada 31. jūlijam, piemērojamas, ciktāl šīs normas nav nelabvēlīgākas par tām Kriminālprocesa likuma normām, kuras regulēja rīcību ar noziedzīgi iegūtu mantu attiecīgā noziedzīgā nodarījuma izdarīšanas laikā.
