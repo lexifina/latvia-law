@@ -12,5 +12,5 @@
 (4) Novērtējot ēkas daļu, šā panta pirmajā vai otrajā daļā minētās ziņas norāda par attiecīgo ēkas daļu.
 (5) Energoefektivitāti uzlabojošus pasākumus izstrādā, ievērojot normatīvajos aktos noteiktās prasības attiecībā uz telpu gaisa kvalitāti un komforta līmeni.
 (6) Ēkas energosertifikātam pievieno pārskatu, norādot tajā ekonomiski pamatotus energoefektivitāti uzlabojošus pasākumus, kuru īstenošanas izmaksas ir rentablas paredzamajā (plānotajā) kalpošanas laikā.
-(7) Ēkas energosertifikāta derīguma termiņš ir 10 gadi, ēkas pagaidu energosertifikāta derīguma termiņš ir divi gadi. Ēkas energosertifikāts vai ēkas pagaidu energosertifikāts zaudē spēku, ja ēkai vai ēkas daļai tiek izsniegts jauns ēkas energosertifikāts vai jauns ēkas pagaidu energosertifikāts.
+(7) Ēkas energosertifikāta derīguma termiņš ir 10 gadi, ēkas pagaidu energosertifikāta derīguma termiņš ir trīs gadi. Ēkas energosertifikāts vai ēkas pagaidu energosertifikāts zaudē spēku, ja ēkai vai ēkas daļai tiek izsniegts jauns ēkas energosertifikāts vai jauns ēkas pagaidu energosertifikāts.
 (8) Ēkas energosertifikāta un ēkas pagaidu energosertifikāta paraugu, reģistrācijas kārtību, ēku energoefektivitātes salīdzinošo vērtēšanas sistēmu nosaka Ministru kabinets.
