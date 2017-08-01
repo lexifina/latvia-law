@@ -7,10 +7,10 @@
 5) transportlīdzekli, kurš ir vai tiek reģistrēts kā operatīvais transportlīdzeklis;
 6) laiku, kad transportlīdzeklis normatīvajos aktos paredzētajos gadījumos bijis apķīlāts un tā izmantošana ceļu satiksmē bijusi liegta;
 7) iepriekšējo periodu, ja transportlīdzeklis normatīvajos aktos noteiktajā kārtībā bijis atzīts par bezīpašnieka mantu. Iegādājoties šādu transportlīdzekli, transportlīdzekļa ekspluatācijas nodokli par kārtējo gadu maksā jaunais īpašnieks;
-8) laiku, kad transportlīdzeklis bijis atzīts par nozagtu, ko apliecina Valsts policijas vai ārvalsts kompetentās iestādes izsniegti dokumenti vai informācija reģistrā par transportlīdzekļa nozagšanu vai atrašanu;
+8) laiku, kad transportlīdzeklis noziedzīga nodarījuma rezultātā, ko apliecina procesa virzītāja vai ārvalsts kompetentās iestādes izsniegti dokumenti vai informācija reģistrā par transportlīdzekli, nav bijis nodokļa maksātāja rīcībā;
 9) laiku, kad Latvijā reģistrēts transportlīdzeklis bijis izvests no Latvijas un bijis reģistrēts ārzemēs;
 10) transportlīdzekli, kas reģistrēts fiziskajai personai īpašumā, par laiku no šīs fiziskās personas nāves brīža līdz īpašnieka maiņas vai valdītāja reģistrācijas brīdim;
-11) transportlīdzekli, kuru noņem no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas, vai transportlīdzekli, kura reģistrāciju pārtrauc uz laiku, nododot numura zīmes, zvērināts tiesu izpildītājs, institūcija vai iestāde, kas veic lēmumu vai spriedumu piespiedu izpildi, pamatojoties uz izpildu dokumentu;
+11) (izslēgts ar 22.06.2017. likumu);
 12) transportlīdzekli, kuram ir vai tiek reģistrēts vēsturiskā spēkrata statuss;
 13) transportlīdzekli, kurš ir vai tiek reģistrēts par sporta transportlīdzekli;
 14) laiku, kad transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai transportlīdzekļa reģistrācija pārtraukta uz laiku, nododot numura zīmes, vai arī transportlīdzeklis izslēgts no reģistra;
