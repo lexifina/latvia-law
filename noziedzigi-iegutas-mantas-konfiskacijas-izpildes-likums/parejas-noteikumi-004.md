@@ -1,0 +1,6 @@
+4. Līdz šā likuma 43. panta pirmās un piektās daļas spēkā stāšanās dienai konfiscētos finanšu līdzekļus un konfiscētās mantas realizācijas rezultātā iegūtos naudas līdzekļus zvērināts tiesu izpildītājs izmaksā šādā secībā:
+1) sedz nolēmuma izpildes izdevumus, kas radušies izpildu lietās par noziedzīgi iegūtas mantas konfiskāciju, cietušā kaitējuma kompensācijas piedziņu un nekustamā īpašuma nodokļa parādu piedziņu;
+2) sedz cietušajam nodarītā kaitējuma kompensāciju, kas pamatota ar šā zvērināta tiesu izpildītāja lietvedībā esošo izpildrakstu;
+3) pamatojoties uz paziņojumu par nekustamā īpašuma nodokļa apmēru taksācijas gadam, attiecīgās pašvaldības budžetā samaksā nekustamā īpašuma nodokli par laiku no nākamā mēneša pēc tam, kad stājies spēkā tiesas nolēmums par noziedzīgi iegūtas mantas konfiskāciju, līdz nākamajam mēnesim pēc tam, kad stājies spēkā tiesas nolēmums, ar kuru apstiprināts nekustamā īpašuma izsoles akts, akts par nekustamā īpašuma paturēšanu pēc nenotikušās izsoles vai akts par nekustamā īpašuma pārdošanu bez izsoles;
+4) sedz nesamaksāto nekustamā īpašuma nodokļa parādu, kas pamatots ar šim zvērinātam tiesu izpildītājam izpildei iesniegto lēmumu par nodokļa parāda piedziņu;
+5) atlikušos naudas līdzekļus ieskaita valsts budžetā.

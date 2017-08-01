@@ -1,0 +1,2 @@
+24. pants. Dalībnieki, kuri nav tiesīgi piedalīties izsolē un mantas pārdošanā bez izsoles
+Piedalīties konfiscētās mantas izsolē, kā arī pirkt konfiscēto mantu bez izsoles nav tiesību zvērinātam tiesu izpildītājam, kurš veic konkrētās mantas konfiskācijas izpildi, ekspertam, kurš veicis šā likuma 17. panta sestajā daļā minēto novērtēšanu, parādniekam un kriminālprocesā, kura ietvaros pieņemtais nolēmums par mantas konfiskāciju tiek izpildīts, par aizdomās turēto atzītajai personai, apsūdzētajam vai notiesātajam.

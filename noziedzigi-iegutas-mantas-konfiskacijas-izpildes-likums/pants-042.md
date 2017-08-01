@@ -1,0 +1,4 @@
+42. pants. Aprēķins par naudas sadali
+(1) Ja ir vairāki cietušie un ja ar konfiscētajiem finanšu līdzekļiem vai konfiscētās mantas realizācijas rezultātā iegūto summu nepietiek, lai pilnīgi apmierinātu visus cietušo prasījumus, zvērināts tiesu izpildītājs sastāda aprēķinu naudas sadalīšanai starp cietušajiem un nosūta to viņiem.
+(2) Ja izsole pasludināta par nenotikušu un cietušais, kopīpašnieks vai pēdējais pārsolītais solītājs izteicis vēlēšanos paturēt nekustamo īpašumu vai kustamo mantu sev, zvērināts tiesu izpildītājs sastāda aprēķinu, lai noteiktu summu, kāda pienākas no attiecīgās personas.
+(3) Zvērināta tiesu izpildītāja sastādīto aprēķinu cietušais un persona, kura izteikusi vēlēšanos nekustamo īpašumu paturēt sev, var pārsūdzēt Civilprocesa likuma 632. pantā noteiktajā kārtībā. Par tiesas lēmumu var iesniegt blakus sūdzību.

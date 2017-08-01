@@ -1,0 +1,7 @@
+22. pants. Kustamās mantas pārdošana komisijā
+(1) Kustamo mantu pārdod komisijā ar tirdzniecības uzņēmuma starpniecību.
+(2) Tirdzniecības uzņēmums 30 dienu laikā pēc mantas nodošanas komisijā iemaksā saņemtās naudas summas zvērināta tiesu izpildītāja depozīta kontā. Tirdzniecības uzņēmums saņem atlīdzību saskaņā ar līguma nosacījumiem.
+(3) Mantu, kas nav pārdota 30 dienu laikā no tās nodošanas tirdzniecības uzņēmumam, zvērināts tiesu izpildītājs pārceno, bet ne vairāk kā par 50 procentiem no mantas sākumcenas.
+(4) Ja manta netiek pārdota 30 dienu laikā pēc tās pārcenošanas, zvērināts tiesu izpildītājs uzaicina cietušo paturēt mantu sev par pārcenošanas summu. Cietušajam ir tiesības 14 dienu laikā no uzaicinājuma nosūtīšanas dienas rakstveidā paziņot zvērinātam tiesu izpildītājam par mantas paturēšanu sev.
+(5) Ja vairāki cietušie vēlas paturēt apķīlāto mantu sev par pārcenošanas summu, starp šīm personām rīkojama izsole. Solīšana sākas no pārcenošanas summas. Par izsoles laiku un vietu zvērināts tiesu izpildītājs rakstveidā paziņo personām septiņas dienas iepriekš. Uzaicinātās personas neierašanās uz izsoli tiek uzskatīta par tās atteikšanos no tiesībām paturēt mantu sev. Ja uz izsoli ierodas viena persona, tā var paturēt mantu par pārcenošanas summu bez solīšanas.
+(6) Ja neviens no cietušajiem mantu nepatur vai arī uz šā panta piektajā daļā minēto izsoli neviens neierodas, zvērināts tiesu izpildītājs mantu pārdod citā šajā nodaļā paredzētajā veidā vai nodod Valsts ieņēmumu dienestam.

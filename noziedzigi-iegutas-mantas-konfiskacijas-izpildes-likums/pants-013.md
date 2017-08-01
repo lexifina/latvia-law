@@ -1,0 +1,5 @@
+13. pants. Noslēgtie līgumi par konfiscēto mantu
+(1) Ja persona, kuras manta tiek pakļauta konfiskācijas izpildei, ir noslēgusi līgumu, kura priekšmets ir attiecīgā manta, šis līgums nav saistošs personai, kas šajā likumā noteiktajā kārtībā šo mantu nosolījusi vai iegādājusies bez izsoles, vai paturējusi pēc nenotikušas izsoles (turpmāk - ieguvējs).
+(2) Nekustamā īpašuma ieguvējam ir saistoši iepriekšējā īpašnieka noslēgtie dzīvojamās telpas īres līgumi. Ja mantas konfiskācijas izpildes laikā zvērinātam tiesu izpildītājam rodas šaubas par iepriekšējā īpašnieka noslēgtā īres līguma tiesiskumu, viņš iesniedz prokuratūrai iesniegumu ar lūgumu veikt pārbaudi.
+(3) Uz konfiscēto mantu reģistrētās parādsaistības, apgrūtinājumi un aizlieguma atzīmes nav šķērslis konfiskācijas izpildei. Persona, kuras tiesības ir aizskartas ar mantas konfiskāciju, var vērsties tiesā vispārējā kārtībā pret personu, kuras īpašumā, valdījumā vai turējumā šī manta atrodas (turpmāk - parādnieks), bet nevar pretendēt uz konfiscēto mantu vai naudu, kas iegūta, veicot konfiskācijas izpildi.
+(4) Konfiscētā manta nav atprasāma ar īpašuma prasību.

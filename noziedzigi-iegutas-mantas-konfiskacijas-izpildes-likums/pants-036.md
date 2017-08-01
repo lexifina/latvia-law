@@ -1,0 +1,2 @@
+36. pants. Nekustamā īpašuma izsoles akta apstiprināšana
+Pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda iesniedz un izsoles aktu apstiprina Civilprocesa likumā noteiktajā kārtībā. Par lietas izskatīšanu tiesa paziņo zvērinātam tiesu izpildītājam, nekustamā īpašuma ieguvējam un personai, kura Civilprocesa likumā noteiktajā kārtībā iesniegusi sūdzību, lūdzot izsoli atzīt par spēkā neesošu.

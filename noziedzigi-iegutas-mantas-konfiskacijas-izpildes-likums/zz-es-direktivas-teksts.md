@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/42/ES par nozieguma rīku un noziedzīgi iegūtu līdzekļu iesaldēšanu un konfiskāciju Eiropas Savienībā.

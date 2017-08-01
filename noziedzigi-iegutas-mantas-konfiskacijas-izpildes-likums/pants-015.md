@@ -1,0 +1,2 @@
+15. pants. Finanšu līdzekļu konfiskācijas izpilde
+Ja konfiscēti finanšu līdzekļi, zvērināts tiesu izpildītājs dod rīkojumu valsts vai pašvaldības institūcijai, kuras kontā atrodas šie finanšu līdzekļi, pārskaitīt tos viņa depozīta kontā. Ja konfiscētie finanšu līdzekļi atrodas citas personas kontā, rīkojumu par to pārskaitīšanu zvērināta tiesu izpildītāja depozīta kontā dod kredītiestādei. Zvērināta tiesu izpildītāja rīkojums izpildāms nekavējoties.

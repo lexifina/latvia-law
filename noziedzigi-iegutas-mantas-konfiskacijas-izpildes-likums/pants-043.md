@@ -1,0 +1,11 @@
+43. pants. Konfiscētās mantas realizācijas rezultātā iegūto līdzekļu izmantošanas kārtība
+(1) Konfiscētos finanšu līdzekļus un naudas līdzekļus, kas iegūti konfiscētās mantas realizācijas rezultātā, zvērināts tiesu izpildītājs izmaksā šādā secībā:
+1) sedz cietušajam nodarītā kaitējuma kompensāciju, kas pamatota ar šim zvērinātam tiesu izpildītājam izpildei iesniegto izpildrakstu;
+2) sedz nolēmuma izpildes izdevumus, kas radušies izpildu lietās par noziedzīgi iegūtas mantas konfiskāciju, cietušajam nodarītā kaitējuma kompensācijas piedziņu un nekustamā īpašuma nodokļa parādu piedziņu;
+3) pamatojoties uz paziņojumu par nekustamā īpašuma nodokļa apmēru taksācijas gadam, attiecīgās pašvaldības budžetā samaksā nekustamā īpašuma nodokli par laiku no nākamā mēneša pēc tam, kad stājies spēkā tiesas nolēmums par noziedzīgi iegūtas mantas konfiskāciju, līdz nākamajam mēnesim pēc tam, kad stājies spēkā tiesas nolēmums, ar kuru apstiprināts nekustamā īpašuma izsoles akts, akts par nekustamā īpašuma paturēšanu pēc nenotikušas izsoles vai akts par nekustamā īpašuma pārdošanu bez izsoles;
+4) sedz nekustamā īpašuma nodokļa parādu, kas pamatots ar šim zvērinātam tiesu izpildītājam izpildei iesniegtu lēmumu par nodokļa parāda piedziņu;
+5) atlikušos naudas līdzekļus ieskaita valsts budžetā.
+(2) Ja viens no cietušajiem ir valsts, tās prasījumu par kaitējuma kompensāciju sedz pēc tam, kad segti nolēmuma izpildes izdevumi.
+(3) Ja par nolēmumu, ar kuru konfiscēta noziedzīgi iegūtā manta, ir ievestas vairākas izpildu lietas, zvērināts tiesu izpildītājs, kas ir realizējis mantu, pirms kompensācijas izmaksas paziņo attiecīgajam zvērinātam tiesu izpildītājam, kura lietvedībā atrodas izpildu dokuments, par kompensācijas izmaksu un tās apmēru.
+(4) Ja ar konfiscētās mantas realizācijas rezultātā iegūtajiem naudas līdzekļiem nepietiek, lai pilnīgi apmierinātu visus cietušo prasījumus pēc šā zvērināta tiesu izpildītāja lietvedībā esošajiem izpildu dokumentiem, prasījumus apmierina proporcionāli summai, kas pienākas katram cietušajam.
+(5) Ja ar konfiscētās mantas realizācijas rezultātā iegūtajiem līdzekļiem nepietiek līdzekļu zvērināta tiesu izpildītāja amata atlīdzības un izpildu darbību veikšanai nepieciešamo izdevumu segšanai, tos sedz no valsts budžeta līdzekļiem Ministru kabineta noteiktajā kārtībā.

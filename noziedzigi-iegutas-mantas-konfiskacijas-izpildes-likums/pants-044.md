@@ -1,0 +1,3 @@
+44. pants. Konfiscētās mantas realizācija pirms gala nolēmuma
+(1) Ja, izpildot tiesas lēmumu par mantas konfiskāciju, kas pieņemts Kriminālprocesa likuma 59. nodaļā noteiktajā kārtībā, zvērināts tiesu izpildītājs konfiscēto noziedzīgi iegūto mantu realizējis, pirms stājies spēkā gala nolēmums, zvērināts tiesu izpildītājs naudas līdzekļus, kā arī konfiscētos noziedzīgi iegūtos naudas līdzekļus, no kuriem atskaitīti nolēmuma izpildes izdevumi, glabā zvērināta tiesu izpildītāja depozīta kontā līdz brīdim, kad viņš saņem procesa virzītāja informāciju par gala nolēmumu krimināllietā un rīcību ar zvērināta tiesu izpildītāja kontā glabātajiem naudas līdzekļiem.
+(2) Deponētos naudas līdzekļus cietušajam un valstij izmaksā šā likuma 43. pantā noteiktajā kārtībā.
