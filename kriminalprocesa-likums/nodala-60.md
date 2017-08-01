@@ -1,1 +1,1 @@
-60.nodaļa. Spriedumu un lēmumu nodošana izpildei
+60. nodaļa. Spriedumu, lēmumu un prokurora priekšrakstu spēkā stāšanās, nodošana izpildei un izpildes kārtība

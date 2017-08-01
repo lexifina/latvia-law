@@ -6,4 +6,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/99/ES par Eiropas aizsardzības rīkojumu;
 6) Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/29/ES, ar ko nosaka noziegumos cietušo tiesību, atbalsta un aizsardzības minimālos standartus un aizstāj Padomes Pamatlēmumu 2001/220/TI;
 7) Eiropas Parlamenta un Padomes 2013.gada 22.oktobra direktīvas 2013/48/ES par tiesībām uz advokāta palīdzību kriminālprocesā un Eiropas apcietināšanas ordera procesā, par tiesībām uz to, ka pēc brīvības atņemšanas informē trešo personu, un par tiesībām, kamēr atņemta brīvība, sazināties ar trešām personām un konsulārajām iestādēm;
-8) Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/41/ES par Eiropas izmeklēšanas rīkojumu krimināllietās.
+8) Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/41/ES par Eiropas izmeklēšanas rīkojumu krimināllietās;
+9) Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/42/ES par nozieguma rīku un noziedzīgi iegūtu līdzekļu iesaldēšanu un konfiskāciju Eiropas Savienībā.

@@ -8,7 +8,7 @@
 6) pārbaudes laiku nosacītas notiesāšanas gadījumā;
 7) drošības līdzekli;
 8) apsūdzētā attaisnošanu daļā apsūdzības, ja tiesa to atzinusi;
-9) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru;
+9) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru, nosakot termiņu sprieduma labprātīgai izpildei - 30 dienas no sprieduma spēkā stāšanās dienas -, un pienākumu iesniegt tiesai dokumentus par kaitējuma kompensācijas atlīdzināšanu;
 10) kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu, ja tas nav izdarīts agrāk;
 11) noziedzīgi iegūtās mantas konfiskāciju vai piedziņu;
 12) advokāta darba samaksas piedziņu no apsūdzētā vai par viņa atbrīvošanu no tās;

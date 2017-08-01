@@ -4,3 +4,4 @@
 (3) Saistītie fakti nav kriminālprocesā pierādāmie apstākļi, bet ir ar tiem saistīti un dod pamatu izdarīt secinājumu par pierādāmajiem apstākļiem.
 (4) Ar palīgfaktiem tiek pamatota kāda cita pierādījuma ticamība vai neticamība, kā arī iespējamība vai neiespējamība to izmantot pierādīšanā.
 (5) Pierādīšanas priekšmetā ietilpstošie apstākļi uzskatāmi par pierādītiem, ja pierādīšanas gaitā izslēgtas jebkādas saprātīgas šaubas par to esamību vai neesamību.
+(6) Pierādīšanas priekšmetā ietilpstošie apstākļi attiecībā uz mantas noziedzīgo izcelsmi uzskatāmi par pierādītiem, ja pierādīšanas gaitā ir pamats atzīt, ka mantai, visticamāk, ir noziedzīga, nevis likumīga izcelsme.

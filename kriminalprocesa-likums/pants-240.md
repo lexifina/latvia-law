@@ -1,15 +1,14 @@
-240.pants. Galīgā rīcība ar lietiskajiem pierādījumiem un dokumentiem
-(1) Spriedumā vai lēmumā par kriminālprocesa izbeigšanu norāda, kas darāms ar lietiskajiem pierādījumiem un dokumentiem, proti:
-1) mantu un dokumentus atdod to īpašniekiem vai likumīgajiem valdītājiem;
-2) aizdomās turētajam vai apsūdzētajam piederošos noziedzīga nodarījuma rīkus konfiscē, bet, ja tiem nav vērtības, - iznīcina;
-3) noziedzīgi iegūtu mantu un dokumentus konfiscē;
-4) apgrozībā aizliegtās lietas nodod attiecīgajām iestādēm vai iznīcina;
-5) lietas, kurām nav vērtības, pēc ieinteresēto personu lūguma izsniedz tām vai iznīcina;
-6) lietas, kuras bija paredzētas vai tika izmantotas noziedzīga nodarījuma izdarīšanai, konfiscē, bet, ja tām nav vērtības, - iznīcina;
-7) dzīvniekus, kas pieder personai, kuras vaina par cietsirdīgu izturēšanos pret dzīvniekiem konstatēta šajā likumā noteiktajā kārtībā, - konfiscē.
+240. pants. Galīgā rīcība ar lietiskajiem pierādījumiem, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, kā arī citiem izņemtajiem priekšmetiem un vērtībām
+(1) Lēmumā par kriminālprocesa izbeigšanu, prokurora priekšrakstā vai tiesas nolēmumā norāda, kas darāms ar lietiskajiem pierādījumiem, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu un citiem izņemtajiem priekšmetiem un vērtībām, proti:
+1) lietiskos pierādījumus, dokumentus, citus izņemtos priekšmetus un vērtības atdod to īpašniekiem vai likumīgajiem valdītājiem, bet, ja tie nav jāatdod īpašniekiem vai likumīgajiem valdītājiem, - realizē vai, ja tiem nav vērtības, - iznīcina;
+2) konfiscētos noziedzīga nodarījuma izdarīšanas priekšmetus nodod Valsts ieņēmumu dienestam, bet, ja tiem nav vērtības, - iznīcina;
+3) konfiscētās apgrozībā aizliegtās lietas nodod attiecīgajām iestādēm vai iznīcina;
+4) konfiscētos dzīvniekus un konfiscētos transportlīdzekļus nodod Valsts ieņēmumu dienestam;
+5) konfiscēto mantu, kas sakarā ar izdarīto noziedzīgo nodarījumu nav atstājama personas īpašumā, nodod Valsts ieņēmumu dienestam, bet, ja tai nav vērtības, - iznīcina;
+6) konfiscētās lietas, kuru izcelsme vai piederība konkrētajā krimināllietā nav noskaidrota, nodod Valsts ieņēmumu dienestam.
 (2) Izlemjot par lietiskā pierādījuma atdošanu tā īpašniekam vai likumīgajam valdītājam, vienlaikus tiek noteikta rīcība ar lietisko pierādījumu, ja īpašnieks vai likumīgais valdītājs divu mēnešu laikā no paziņojuma nosūtīšanas dienas attiecīgo pierādījumu nebūs izņēmis.
 (3) Ja lietiskais pierādījums ir jāatdod tā īpašniekam vai likumīgajam valdītājam, procesa virzītājs ne vēlāk kā 14 dienu laikā pēc sprieduma vai lēmuma par kriminālprocesa izbeigšanu stāšanās spēkā par to paziņo lietiskā pierādījuma īpašniekam vai likumīgajam valdītājam un iestādei, kas nodrošina lietiskā pierādījuma glabāšanu.
 (4) Ja divu mēnešu laikā no paziņojuma nosūtīšanas dienas lietiskā pierādījuma īpašnieks vai likumīgais valdītājs nav izņēmis attiecīgo lietisko pierādījumu, šo lietisko pierādījumu atbilstoši spriedumā vai lēmumā norādītajam iznīcina vai realizē.
-(5) Ja lietiskais pierādījums ir jāatdod tā īpašniekam vai likumīgajam valdītājam, taču to izdarīt nav iespējams, īpašniekam atlīdzina ar tās pašas sugas un tādas pašas kvalitātes priekšmetu vai arī samaksā tā vērtību, kāda pastāv atlīdzināšanas dienā. Tas neattiecas uz gadījumiem, kad lietiskais pierādījums ir iznīcināts vai realizēts atbilstoši šā panta ceturtās daļas nosacījumiem.
+(5) Ja lietiskais pierādījums ir jāatdod tā īpašniekam vai likumīgajam valdītājam, taču to izdarīt nav iespējams, īpašniekam atlīdzina ar tās pašas sugas un tādas pašas kvalitātes priekšmetu vai arī samaksā tā vērtību, kāda pastāv atlīdzināšanas dienā. Tas neattiecas uz gadījumiem, kad lietiskais pierādījums ir iznīcināts vai realizēts atbilstoši šā panta ceturtās daļas nosacījumiem. Atlīdzināmā lietiskā pierādījuma vērtību nosaka tādā pašā kārtībā, kādā nosaka vērtību arestam pakļautajai mantai.
 (6) Šā panta pirmajā un ceturtajā daļā noteiktajos gadījumos lietisko pierādījumu realizācijas vai iznīcināšanas kārtību nosaka Ministru kabinets.
-(7) Ja noziedzīgs nodarījums izdarīts ar rīku, kas pieder citai personai, konfiskācijai var pakļaut citu aizdomās turētā vai apsūdzētā mantu vai piedzīt finanšu līdzekļus noziedzīgā nodarījuma rīka vērtībā.
+(7) (Izslēgta ar 22.06.2017. likumu)

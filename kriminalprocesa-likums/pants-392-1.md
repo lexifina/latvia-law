@@ -10,8 +10,9 @@
 (4) Lēmuma rezolutīvajā daļā norāda:
 1) pieņemto lēmumu par kriminālprocesa vai tā daļas izbeigšanu;
 2) drošības līdzekļa atcelšanu;
-3) aresta atcelšanu mantai;
-4) rīcību ar izņemtajiem priekšmetiem un vērtībām;
+3) aresta atcelšanu mantai, izņemot gadījumu, kad process par noziedzīgi iegūtu mantu tiek nodots izlemšanai tiesai;
+4) lēmumu par noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas konfiskāciju;
+4¹) rīcību ar lietiskajiem pierādījumiem, ar noziedzīgu nodarījumu saistīto mantu, noziedzīgi iegūto mantu, kā arī citiem izņemtajiem priekšmetiem, dokumentiem un vērtībām;
 5) lēmuma pārsūdzēšanas kārtību.
 (4¹) Ja vienlaikus tiek izbeigts kriminālprocess un process par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai, procesa virzītājs sastāda vienu lēmumu un papildus šajā pantā noteiktajai informācijai lēmumā ietver arī šā likuma 441.⁴ panta pirmajā daļā noteikto informāciju.
 (5) Par pieņemto lēmumu nekavējoties paziņo personai vai iestādei, pēc kuras iesnieguma tika uzsākts kriminālprocess. Lēmuma kopiju par kriminālprocesa izbeigšanu nekavējoties nosūta uzraugošajam prokuroram, bet cietušajam un personai, kurai bija tiesības uz aizstāvību, nosūta vai izsniedz lēmuma kopiju par kriminālprocesa izbeigšanu, izskaidrojot tiesības 10 dienu laikā no lēmuma saņemšanas dienas iepazīties ar krimināllietas materiāliem. Ja kriminālprocess tiek izbeigts kādā tā daļā, tad cietušajam ir tiesības iepazīties ar tiem krimināllietas materiāliem, kas tieši attiecas uz viņu, bet persona, kurai bija tiesības uz aizstāvību, ar krimināllietas materiāliem var iepazīties pēc visa pirmstiesas kriminālprocesa pabeigšanas.
@@ -19,3 +20,5 @@
 (6) Ja kriminālprocess tiek izbeigts, bet krimināllietas materiālos ir ziņas par faktiem, sakarā ar kuriem personai būtu jāpiemēro disciplinārās ietekmēšanas līdzekļi vai administratīvais sods, procesa virzītājs nosūta nepieciešamos materiālus kompetentajai institūcijai vai amatpersonai.
 (7) Ja kriminālprocess tiek izbeigts, bet krimināllietas materiālos ir ziņas, ka nodarījumu izdarījis nepilngadīgais, kurš nav sasniedzis 14 gadu vecumu, procesa virzītājs lemj par materiālu nosūtīšanu tiesai audzinoša rakstura piespiedu līdzekļa piemērošanai.
 (8) Ja cietušais, kurš neprot valsts valodu un kura pastāvīgā dzīvesvieta ir ārvalstī, ir pieteicis lūgumu saņemt lēmuma par procesa izbeigšanu rakstveida tulkojumu, procesa virzītājs nosūta cietušajam minētā lēmuma rakstveida tulkojumu.
+(9) Ja kriminālprocess tiek izbeigts uz personu nereabilitējoša pamata un krimināllietā nepieciešams izlemt par rīcību ar mantu, uz kuru tiesības reģistrētas publiskajā reģistrā un ieraksts šajā reģistrā ir grozīts pēc noziedzīgā nodarījuma izdarīšanas un par kuru ir pietiekami pierādījumi, ka manta ir noziedzīgi iegūta, procesa virzītājs lemj par materiālu nosūtīšanu tiesai izlemšanai šā likuma 59. nodaļā noteiktajā kārtībā.
+(10) Ja iepriekš ir pieņemts lēmums par noziedzīgi iegūtas mantas konfiskāciju šā likuma 59. nodaļā noteiktajā kārtībā un tas bija nodots izpildei zvērinātam tiesu izpildītājam, procesa virzītājs par kriminālprocesa izbeigšanu paziņo zvērinātam tiesu izpildītājam, uzdodot konfiscētos vai konfiskācijas izpildes rezultātā iegūtos līdzekļus, kas deponēti zvērināta tiesu izpildītāja depozīta kontā, ieskaitīt valsts budžetā.

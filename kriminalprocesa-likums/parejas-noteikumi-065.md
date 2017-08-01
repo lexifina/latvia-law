@@ -1,0 +1,1 @@
+65. Līdz 2018. gada 31. decembrim, lai izpildītu šā likuma 634.¹ panta pirmajā daļā minētos nolēmumus (izņemot nolēmumu par cietušajam nodarītā kaitējuma kompensācijas piedziņu), izpildu dokumentu nosūta izpildei zvērinātam tiesu izpildītājam pēc personas (notiesātā) dzīvesvietas (juridiskajai personai - pēc tās juridiskās adreses) vai pēc tās mantas atrašanās vietas.
