@@ -58,7 +58,7 @@ o) elektroniskās naudas emisija;
 32) kreditors - valsts, pašvaldība, fiziskā vai juridiskā persona vai ar līgumu saistīta fizisko vai juridisko personu grupa, kurai ir prasījuma tiesība pret kredītiestādi;
 33) nodrošinātais kreditors - kreditors, kura prasījuma tiesība (prasījums) pret kredītiestādi ir nodrošināta ar rokas ķīlu, komercķīlu, zemesgrāmatā vai kuģu reģistrā ierakstītu hipotēku;
 34) likvidators - kredītiestādes akcionāru sapulces ievēlēta persona (pašlikvidācijas gadījumā) vai pēc Finanšu un kapitāla tirgus komisijas ieteikuma tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
-35) administrators - tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
+35) maksātnespējas procesa administrators (turpmāk arī - administrators) - tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 36) ieinteresētās personas attiecībā uz kredītiestādi ir:
 a) kredītiestādes akcionāri, padomes un valdes locekļi, iekšējā audita dienesta vadītājs, risku direktors, par darbības atbilstības kontroli atbildīgā persona un sabiedrības kontrolieris, kā arī šo personu laulātie, vecāki un bērni;
 b) personas, kurām ar kredītiestādi ir darba tiesiskās attiecības;
@@ -84,7 +84,7 @@ c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta
 55) (izslēgts ar 16.05.2013. likumu);
 56) ārvalsts valūta - jebkura valūta, izņemot euro;
 57) (izslēgts ar 24.04.2014. likumu);
-58) sertifikāts - atbilstoši normatīvajiem aktiem izsniegts dokuments, kas apliecina administratora kvalifikāciju un dod viņam tiesības pildīt administratora pienākumus tiesiskās aizsardzības procesā un maksātnespējas procesā;
+58) (izslēgts ar 21.07.2017. likumu);
 59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
 60) (izslēgts ar 24.04.2014. likumu);
 61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības institūciju sadarbības līguma pamata;
@@ -96,7 +96,9 @@ e) 259.panta 3.punktā minētā iekšējā novērtējuma metode;
 d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 63) sistēmiskais risks - finanšu sistēmas darbības traucējumu risks, kam var būt būtiska negatīva ietekme uz finanšu sistēmu un tautsaimniecību;
 64) sistēmiski nozīmīga iestāde - tāda Eiropas Savienības mātes finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes kredītiestāde vai kredītiestāde, kuras darbības pārtraukšana vai traucējumi var radīt sistēmisku risku;
-65) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi.
+65) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
+66) mazāk nozīmīgā uzraudzītā kredītiestāde - mazāk nozīmīgā uzraudzītā iestāde Eiropas Centrālās bankas 2014. gada 16. aprīļa regulas Nr. 468/2014, ar ko izveido vienotā uzraudzības mehānisma pamatstruktūru Eiropas Centrālās bankas sadarbībai ar nacionālajām kompetentajām un norīkotajām iestādēm (VUM pamatregula) (ECB/2014/17) (turpmāk - regula Nr. 468/2014) 2. panta 7. punkta izpratnē;
+67) nozīmīgā uzraudzītā kredītiestāde - nozīmīgā uzraudzītā iestāde regulas Nr. 468/2014 2. panta 16. punkta izpratnē.
 (2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
 1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
 2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;

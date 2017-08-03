@@ -12,5 +12,7 @@
 4) dalībvalsts iestādēm, kas pārvalda ieguldījumu un noguldījumu kompensācijas shēmas, ja šāda informācija nepieciešama to funkciju veikšanai;
 5) valsts iestādēm vai struktūrām, kurām ir pienākums pārraudzīt finanšu stabilitāti dalībvalstīs, izmantojot makroprudenciālo regulējumu;
 6) dalībvalstu reorganizācijas struktūrām vai valsts iestādēm, kuru mērķis saskaņā ar normatīvajiem aktiem ir veikt reorganizāciju, kā arī aizsargāt finanšu stabilitāti;
-7) dalībvalstu līgumiskajām vai institucionālajām klientu aizsardzības sistēmām.
+7) dalībvalstu līgumiskajām vai institucionālajām klientu aizsardzības sistēmām;
+8) dalībvalsts iestādēm, kas veic to personu uzraudzību, kuras dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas kredītiestādēs, apdrošināšanas vai pārapdrošināšanas komersantos un citās finanšu iestādēs.
+(5¹) Finanšu un kapitāla tirgus komisija paziņo Eiropas Banku iestādei par valsts iestādēm un struktūrvienībām, kuras var saņemt ierobežotas pieejamības informāciju pārraudzības vai uzraudzības funkciju izpildei vai kuras saskaņā ar normatīvajiem aktiem ir atbildīgas par tiesību aktu pārkāpumu atklāšanu un izmeklēšanu komercdarbības jomā.
 (6) Šā panta noteikumi neaizliedz Finanšu un kapitāla tirgus komisijai apmainīties ar ierobežotas pieejamības informāciju ar dalībvalstu centrālajām bankām un citām institūcijām, kas ir atbildīgas par maksājumu sistēmu pārraudzīšanu, ja šādas informācijas sniegšana tām nepieciešama savu likumā noteikto funkciju veikšanai un Eiropas Sistēmisko risku kolēģijai.

@@ -13,3 +13,8 @@
 (2) Finanšu un kapitāla tirgus komisija ir tiesīga īstenot vienu vai vairākas šā panta pirmajā daļā minētās darbības arī tad, ja kredītiestādes konsolidācijas grupā esošas komercsabiedrības darbība apdraud vai var apdraudēt attiecīgās kredītiestādes vai visa kredītiestāžu sektora stabilu darbību.
 (3) Ja tiek noteikti šā panta pirmās daļas 4.punktā minētie ierobežojumi kredītiestādei, kas apkalpo tranzītkredītu, Finanšu ministrija pieņem lēmumu par tranzītkredīta apkalpošanas turpināšanu šajā kredītiestādē vai nodošanu citām kredītiestādēm.
 (4) Finanšu un kapitāla tirgus komisija informē Eiropas Banku iestādi par šajā pantā minēto darbību īstenošanai noteiktajiem principiem.
+(5) Finanšu un kapitāla tirgus komisija ir tiesīga atbilstoši ES regulas Nr. 1286/2014 24. pantam par regulas pārkāpumiem īstenot vienu vai vairākas šādas darbības:
+1) aizliegt komplektētu privāto ieguldījumu produktu izplatīšanu;
+2) uzlikt par pienākumu apturēt komplektētu privāto ieguldījumu produktu izplatīšanu;
+3) aizliegt izplatīt pamatinformācijas dokumentu, kas neatbilst ES regulas Nr. 1286/2014 6., 7., 8. vai 10. panta prasībām, un uzdot publicēt jaunu šai regulai atbilstošu pamatinformācijas dokumentu;
+4) uzlikt par pienākumu personai, kas ir komplektētu privāto ieguldījumu produktu izveidotājs vai sniedz konsultācijas par komplektētu privāto ieguldījumu produktiem, vai tos pārdod, informēt attiecīgo klientu, kurš ir privātais ieguldītājs un kura tiesības un intereses ir aizskartas, par piemēroto sankciju vai uzraudzības pasākumu un par to, kur klients var iesniegt sūdzību vai kur tas var vērsties, lai uzsāktu ārpustiesas strīdu risināšanu, kā arī par viņa tiesībām ar prasību vērsties tiesā.

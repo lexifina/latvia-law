@@ -1,1 +1,1 @@
-131.¹ pants. Par kredītiestādes administratoru kredītiestādes maksātnespējas procesā var būt fiziskā persona, kas ieguvusi maksātnespējas procesa administratora sertifikātu.
+131.¹ pants. Par kredītiestādes administratoru kredītiestādes maksātnespējas procesā var būt fiziskā persona, kura iecelta maksātnespējas procesa administratora amatā saskaņā ar Maksātnespējas likumu, kura no administratora amata nav atbrīvota, atcelta vai atstādināta vai kuras amata darbība nav apturēta un uz kuru nav attiecināmi šā likuma 132.¹ pantā noteiktie ierobežojumi.

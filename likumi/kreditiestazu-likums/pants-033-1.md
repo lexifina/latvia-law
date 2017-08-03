@@ -9,3 +9,4 @@
 8) balsstiesības, kuras konkrētā persona var realizēt kā pilnvarnieks, kad tā ir tiesīga izmantot balsstiesības pēc saviem ieskatiem, ja nav saņēmusi īpašus norādījumus;
 9) balsstiesības, kas izriet no jebkurā citā netiešā veidā konkrētās personas iegūtajām akcijām.
 (2) Persona, kura vēlas iegūt, ir ieguvusi, vēlas palielināt vai ir palielinājusi netiešā ceļā būtisko līdzdalību kredītiestādē, pēc Finanšu un kapitāla tirgus komisijas pieprasījuma iesniedz tai informāciju, kas ļauj pārliecināties par personas atbilstību šā likuma II un III nodaļas prasībām.
+(3) Būtiskas līdzdalības apmēra noteikšanai neņem vērā no kredītiestādes turējumā esošajām akcijām izrietošās balsstiesības, kuras kredītiestāde ieguvusi, izpērkot šīs akcijas sākotnējās izvietošanas laikā vai garantējot sākotnējās izvietošanas laikā neizvietoto akciju izpirkšanu, ja kredītiestāde neizmanto no šīm akcijām izrietošās balsstiesības un atsavina vai dzēš šīs akcijas viena gada laikā no iegādes dienas.

@@ -9,4 +9,4 @@
 8) kredītiestāde neievēro šā likuma un citu kredītiestādes darbību regulējošu normatīvo aktu prasības;
 9) kredītiestādes akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.
 (2) Anulētā kredītiestādes licence (atļauja) netiek atjaunota.
-(3) Lēmuma par kredītiestādes licences (atļaujas) anulēšanu apstrīdēšana Administratīvajā pārskatīšanas padomē vai lēmuma pārsūdzēšana Eiropas Savienības Tiesā saskaņā ar Padomes 2013.gada 15.oktobra regulu (ES) Nr. 1024/2013, ar ko Eiropas Centrālajai bankai uztic īpašus uzdevumus saistībā ar politikas nostādnēm, kas attiecas uz kredītiestāžu prudenciālo uzraudzību (turpmāk - ES regula Nr. 1024/2013) neaptur lēmuma darbību, izņemot ES regulas Nr. 1024/2013 24.pantā noteikto gadījumu.
+(3) Lēmuma par kredītiestādes licences (atļaujas) anulēšanu apstrīdēšana Administratīvajā pārskatīšanas padomē vai pārsūdzēšana Eiropas Savienības Tiesā saskaņā ar ES regulu Nr. 1024/2013 neaptur lēmuma darbību, izņemot ES regulas Nr. 1024/2013 24. pantā noteikto gadījumu.

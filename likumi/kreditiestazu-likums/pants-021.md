@@ -6,3 +6,4 @@
 5) kārtējā darbības gada peļņa.
 (2) (Izslēgta ar 23.12.2010. likumu)
 (3) (Izslēgta ar 24.04.2014. likumu)
+(4) Pamatkapitāla samazināšanas gadījumā kredītiestādei saskaņā ar Komerclikuma 264. pantu ir pienākums publicēt oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, ka ir pieņemts lēmums par pamatkapitāla samazināšanu, un nosūtīt paziņojumu par pamatkapitāla samazināšanu visiem zināmajiem kreditoriem, kuriem līdz minētā lēmuma pieņemšanai bija prasījuma tiesības pret kredītiestādi. Minēto paziņojumu var nesūtīt kreditoriem, kuru prasījuma tiesības ir radušās, kredītiestādei sniedzot šiem kreditoriem finanšu pakalpojumus.

@@ -1,1 +1,1 @@
-207.pants. Administratoru var saukt pie kriminālatbildības par apzinātu informācijas slēpšanu no tiesas, tās maldināšanu, par šajā likumā neparedzētu darījumu veikšanu par labu vienam kreditoram vai kreditoru grupai uz citu kreditoru rēķina.
+207.pants. Administratoru var saukt pie kriminālatbildības par apzinātu informācijas slēpšanu no tiesas, tās maldināšanu, par šajā likumā neparedzētu darījumu veikšanu par labu vienam kreditoram vai kreditoru kārtai uz citu kreditoru rēķina.

@@ -1,0 +1,1 @@
+74. Grozījumi par šā likuma papildināšanu ar 186. panta piekto daļu un 195.¹ pantu attiecībā uz atkārtotu kreditoru prasījumu pieteikšanu un to apmierināšanu nav piemērojami kredītiestādes maksātnespējas procesam, kas uzsākts pirms attiecīgo grozījumu spēkā stāšanās.
