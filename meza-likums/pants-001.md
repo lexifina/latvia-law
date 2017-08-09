@@ -1,5 +1,5 @@
 1.pants
-Likumā ir lietoti šādi termini:
+(1) Likumā ir lietoti šādi termini:
 1) ainavu cirte - cirtes veids ainavas elementu saskatāmības un pieejamības nodrošināšanai;
 2) apliecinājums - Valsts meža dienesta izsniegts dokuments, kas apliecina konkrētas plānotās darbības likumību un ir uzskatāms par šīs darbības atļauju;
 3) atmežošana - personas darbības izraisīta meža pārveidošana citā zemes lietošanas veidā;
@@ -46,3 +46,4 @@ b) persona, kura zemes valdījumu ieguvusi uz mantojuma tiesību vai cita likum�
 42) sēklu ieguves plantācija - atlasītu klonu vai koku ģimeņu vecāku stādījums, kas izolēts vai apsaimniekots tā, lai novērstu vai samazinātu apputeksnēšanu no ārējiem avotiem, un kopts, lai dotu biežu, bagātīgu un viegli novācamu sēklu ražu;
 43) valdošā koku suga - koku suga, kurai mežaudzes pirmajā stāvā ir vislielākā koksnes krāja;
 44) zinātniskās izpētes meži - Meža valsts reģistrā reģistrēta meža teritorija pētījumu veikšanai, ilglaicīgu zinātniskās izpētes objektu, vides un meža monitoringa objektu ierīkošanai un uzturēšanai, kā arī mācību prakses un tālākizglītības atbalstam meža nozares izglītības jomā.
+(2) Termins "militārais objekts" šajā likumā lietots Nacionālo bruņoto spēku likuma izpratnē.
