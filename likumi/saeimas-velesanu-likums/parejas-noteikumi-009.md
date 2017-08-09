@@ -1,1 +1,1 @@
-9. Vēlētājam, kurš saņēmis vēlētāja apliecību, izsniedzot Latvijas pilsoņa pasi laika periodā līdz 2014.gada 4.oktobrim, Pilsonības un migrācijas lietu pārvalde pasē izdara atzīmi par to, ka vēlētājam izsniegta vēlētāja apliecība.
+9. Vēlētājam, kurš saņēmis vēlētāja apliecību, izsniedzot Latvijas pilsoņa pasi laika periodā attiecīgi līdz 2014. gada 4. oktobrim vai 2018. gada 6. oktobrim, Pilsonības un migrācijas lietu pārvalde pasē izdara atzīmi par to, ka vēlētājam izsniegta vēlētāja apliecība.
