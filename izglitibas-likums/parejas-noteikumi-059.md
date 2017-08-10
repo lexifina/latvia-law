@@ -1,0 +1,1 @@
+59. Pedagogiem, kuriem profesionālās darbības kvalitātes pakāpi apliecinošs dokuments izsniegts līdz 2017. gada 9. augustam, līdz kvalitātes pakāpi apliecinoša dokumenta derīguma termiņa beigām ir tiesības turpināt saņemt piemaksu par profesionālās darbības kvalitātes pakāpi tādā apmērā, kādā pedagogs to saņēmis līdz 2017. gada 9. augustam.

@@ -1,0 +1,1 @@
+57. Pedagogu iesniegumi par profesionālās darbības kvalitātes novērtēšanu, kas iesniegti līdz 2017. gada 9. augustam, pamatojoties uz šā likuma 49.¹ panta noteikumiem, izskatāmi, ievērojot šā likuma noteikumus, kas bija spēkā līdz 2017. gada 9. augustam.
