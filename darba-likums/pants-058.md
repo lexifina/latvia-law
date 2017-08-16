@@ -5,3 +5,4 @@
 (4) Ja darbinieka atstādināšana no darba ir bijusi nepamatota darba devēja vainas dēļ, darba devējam ir pienākums izmaksāt darbiniekam vidējo izpeļņu par visu darba piespiedu kavējuma laiku, kā arī atlīdzināt ar atstādināšanu radušos zaudējumus.
 (5) Aizliegts atstādināt darbinieku ilgāk par trim mēnešiem, izņemot šā panta otrajā daļā noteiktos gadījumus.
 (6) Darba devējam ir pienākums izsniegt darbiniekam rakstveida rīkojumu, ar kuru darbinieks atstādināts no darba.
+(7) Darba devējam ir tiesības uzteikt darba līgumu laikā, kad darbinieks ir atstādināts no darba.

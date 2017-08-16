@@ -6,7 +6,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Padomes 1992.gada 19.oktobra direktīvas 92/85/EEK par pasākumu ieviešanu, lai veicinātu drošības un veselības aizsardzības darbā uzlabošanu strādājošām grūtniecēm, sievietēm, kas strādā pēcdzemdību periodā, vai strādājošām sievietēm, kas baro bērnu ar krūti (desmitā atsevišķā direktīva direktīvas 89/391/EEK 16.panta 1.punkta nozīmē);
 6) (izslēgts ar 04.03.2010. likumu);
 7) Padomes 1994.gada 22.jūnija direktīvas 94/33/EK par jauniešu darba aizsardzību;
-8) (zaudējis spēku ar 08.03.2012.; sk. Pārejas noteikumu 11.punktu);
+8) (zaudējis spēku ar 08.03.2012.; sk. Pārejas noteikumu 11. punktu);
 9) Eiropas Parlamenta un Padomes 1996.gada 16.decembra direktīvas 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā;
 10) (izslēgts ar 04.03.2010. likumu);
 11) Padomes 1997.gada 15.decembra direktīvas 97/81/EK par UNICE, CEEP un EAK noslēgto pamatnolīgumu par nepilna darba laika darbu;
@@ -25,4 +25,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 24) Padomes 2010.gada 8.marta direktīvas 2010/18/ES, ar ko īsteno pārskatīto BUSINESSEUROPE, UEAPME, CEEP un ETUC pamatnolīgumu par vecāku atvaļinājumu un atceļ direktīvu 96/34/EK;
 25) Eiropas Parlamenta un Padomes 2014.gada 26.februāra direktīvas 2014/36/ES par trešo valstu valstspiederīgo ieceļošanas un uzturēšanās nosacījumiem nodarbinātības kā sezonas darbiniekiem nolūkā;
 26) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/66/ES par ieceļošanas un uzturēšanās nosacījumiem trešo valstu valstspiederīgajiem saistībā ar pārcelšanu uzņēmuma ietvaros;
-27) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/67/ES par to, kā izpildīt direktīvu 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1024/2012 par administratīvo sadarbību, izmantojot Iekšējā tirgus informācijas sistēmu ("IMI regula").
+27) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/67/ES par to, kā izpildīt direktīvu 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1024/2012 par administratīvo sadarbību, izmantojot Iekšējā tirgus informācijas sistēmu ("IMI regula");
+28) Eiropas Parlamenta un Padomes 2015. gada 6. oktobra direktīvas 2015/1794, ar kuru attiecībā uz jūrniekiem groza Eiropas Parlamenta un Padomes direktīvas 2008/94/EK, 2009/38/EK un 2002/14/EK un Padomes direktīvas 98/59/EK un 2001/23/EK;
+29) Eiropas Parlamenta un Padomes 2014. gada 16. aprīļa direktīvas 2014/54/ES par pasākumiem, ar ko veicina darba ņēmējiem piešķirto tiesību īstenošanu darba ņēmēju pārvietošanās brīvības jomā;
+30) Eiropas Parlamenta un Padomes 2016. gada 11. maija direktīvas 2016/801 par nosacījumiem attiecībā uz trešo valstu valstspiederīgo ieceļošanu un uzturēšanos pētniecības, studiju, stažēšanās, brīvprātīga darba, skolēnu apmaiņas programmu vai izglītības projektu un viesaukles darba nolūkā.

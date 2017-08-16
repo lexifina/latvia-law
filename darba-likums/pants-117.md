@@ -1,4 +1,4 @@
 117.pants. Uzņēmuma pārejas jēdziens
 (1) Uzņēmuma pāreja šā likuma izpratnē ir uzņēmuma vai tā patstāvīgas, identificējamas daļas (saimnieciskas vienības) nodošana citai personai uz līguma, administratīvā vai normatīvā akta, tiesas sprieduma vai kāda cita pamata, kas radies starp pusēm ārpus to līgumiskajām saistībām, kā arī komercsabiedrību apvienošana, sadalīšana vai pārveidošana.
 (2) Valsts pārvaldes iestāžu vai pašvaldību administratīva reorganizācija, kā arī vienas iestādes administratīvo funkciju nodošana otrai iestādei nav uzskatāma par uzņēmuma pāreju un pati par sevi nevar būt par pamatu darba līguma uzteikumam.
-(3) Šīs nodaļas noteikumi neattiecas uz jūras kuģiem.
+(3) Šīs nodaļas noteikumus piemēro tādai jūras kuģa īpašumtiesību pārejai, kas ir daļa no uzņēmuma vai tā patstāvīgas, identificējamas daļas (saimnieciskas vienības), bet ne atsevišķi viena vai vairāku jūras kuģu īpašumtiesību pārejai, ievērojot noteikumu, ka īpašumtiesību ieguvējs atrodas vai uzņēmums vai tā patstāvīgā, identificējamā daļa (saimnieciska vienība), kuras īpašumtiesības nodod, paliek Eiropas Savienības teritorijā.

@@ -6,5 +6,5 @@
 4) vismaz 30 darbinieki, ja darba devējs uzņēmumā parasti nodarbina 300 un vairāk darbinieku.
 (2) Aprēķinot atlaižamo darbinieku skaitu, ņem vērā arī tos darba tiesisko attiecību izbeigšanas gadījumus, kad darba devējs nav uzteicis darba līgumu, bet darba tiesiskās attiecības ir izbeigtas uz citiem pamatiem, kas nav saistīti ar darbinieka uzvedību vai spējām un ko ir veicinājis darba devējs.
 (3) Šā likuma noteikumi par kolektīvo atlaišanu neattiecas uz:
-1) tālbraucēju kuģu apkalpēm;
+1) (izslēgts ar 27.07.2017. likumu);
 2) valsts pārvaldes iestādēs nodarbinātajiem darbiniekiem.
