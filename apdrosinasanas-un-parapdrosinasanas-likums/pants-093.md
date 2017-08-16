@@ -4,6 +4,6 @@ a) pieprasīt, lai apdrošinātājs vai pārapdrošinātājs nekavējoties veic 
 b) dot apdrošinātājam vai pārapdrošinātājam saistošus rakstveida norādījumus, kas nepieciešami šādas situācijas novēršanai;
 2) piemērot šādas sankcijas:
 a) brīdināt apdrošinātāju vai pārapdrošinātāju,
-b) uzlikt par pienākumu apdrošinātāja akcionāru sapulcei, padomei vai valdei atsaukt no amata apdrošinātāja valdes vai padomes locekli, iekšējā audita dienesta vadītāju, nedalībvalsts apdrošinātāja filiāles vadītāju, kā arī personu, kas, pieņemot būtiskus lēmumus apdrošināšanas vai pārapdrošināšanas sabiedrības vārdā, rada attiecīgajai sabiedrībai vai nedalībvalsts apdrošinātāja filiālei civiltiesiskas saistības,
+b) uzlikt par pienākumu apdrošinātāja akcionāru sapulcei, padomei vai valdei atsaukt no amata apdrošinātāja valdes vai padomes locekli, par risku pārvaldības funkciju atbildīgo personu, par atbilstības funkciju atbildīgo personu, par iekšējā audita funkciju atbildīgo personu, par aktuāro funkciju atbildīgo personu, nedalībvalsts apdrošinātāja filiāles vadītāju, kā arī personu, kas, pieņemot būtiskus lēmumus apdrošināšanas vai pārapdrošināšanas sabiedrības vārdā, rada attiecīgajai sabiedrībai vai nedalībvalsts apdrošinātāja filiālei civiltiesiskas saistības,
 c) uzlikt šajā likumā paredzētās soda naudas,
 d) anulēt apdrošināšanas vai pārapdrošināšanas licenci.

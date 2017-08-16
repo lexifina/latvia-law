@@ -1,3 +1,26 @@
 42.pants. (1) Apdrošināšanas vai pārapdrošināšanas sabiedrība iesniedz Komisijai visu nepieciešamo informāciju, lai tā varētu novērtēt attiecīgās sabiedrības izveidotās pārvaldības sistēmas darbību, veikto komercdarbību, maksātspējas kapitāla prasības aprēķinā izmantotos novērtēšanas principus, pakļautību riskiem un izveidoto risku pārvaldības sistēmu, pašu kapitāla struktūru, vajadzības un pārvaldību.
 (2) Šā panta pirmajā daļā noteiktās informācijas saturu un iesniegšanas termiņus nosaka ES Regula Nr. 2015/35.
 (3) Apdrošināšanas vai pārapdrošināšanas sabiedrība izveido atbilstošu pārvaldības sistēmu un risku pārvaldības sistēmu un izstrādā darbībai atbilstošu politiku un procedūru, lai nodrošinātu pilnīgas, salīdzināmas, konsekventas, ticamas, visaptverošas un apdrošināšanas vai pārapdrošināšanas darbības raksturam, apjomam un sarežģītībai atbilstošas informācijas pieejamību un iesniegšanu saskaņā ar šā panta pirmajā daļā noteikto.
+(4) Komisija ir tiesīga atbrīvot apdrošināšanas vai pārapdrošināšanas sabiedrības no vienas vai vairāku Komisijai iesniedzamo ES Regulas Nr. 2015/35 304. panta 1. punkta "d" apakšpunktā norādīto ceturkšņa kvantitatīvo pārskatu veidlapu (veidņu) aizpildīšanas, piešķirot prioritāti mazākajām apdrošināšanas vai pārapdrošināšanas sabiedrībām, ja vienlaikus tiek ievēroti šādi nosacījumi:
+1) šīs informācijas sniegšana būtu pārāk apgrūtinoša, ņemot vērā attiecīgās apdrošināšanas vai pārapdrošināšanas sabiedrības darbības veidus, to apjomu un apdrošināšanas vai pārapdrošināšanas darbībai raksturīgo risku sarežģītību;
+2) apdrošināšanas vai pārapdrošināšanas sabiedrība šo informāciju iesniedz Komisijai vismaz reizi gadā;
+3) apdrošināšanas vai pārapdrošināšanas sabiedrība neietilpst grupas sastāvā vai, ja apdrošināšanas vai pārapdrošināšanas sabiedrība ietilpst grupas sastāvā, tā var pierādīt, ka visu kvantitatīvo pārskatu veidlapu (veidņu) aizpildīšana nav pamatota, ņemot vērā grupas darbības veidus, to apjomu un grupas darbībai raksturīgo risku sarežģītību;
+4) dzīvības apdrošināšanas vai pārapdrošināšanas sabiedrības īpatsvars pēc bruto tehnisko rezervju apmēra starp visām dzīvības apdrošināšanas vai pārapdrošināšanas sabiedrībām nav lielāks par 20 procentiem vai nedzīvības apdrošināšanas vai pārapdrošināšanas sabiedrības īpatsvars pēc bruto parakstīto prēmiju apmēra starp visām nedzīvības apdrošināšanas vai pārapdrošināšanas sabiedrībām nav lielāks par 20 procentiem.
+(5) Komisija ir tiesīga atbrīvot apdrošināšanas vai pārapdrošināšanas sabiedrības no vienas vai vairāku Komisijai iesniedzamo ES Regulas Nr. 2015/35 304. panta 1. punkta "d" apakšpunktā norādīto gada kvantitatīvo pārskatu veidlapu (veidņu) aizpildīšanas, piešķirot prioritāti mazākajām apdrošināšanas vai pārapdrošināšanas sabiedrībām, ja vienlaikus tiek ievēroti šādi nosacījumi:
+1) šīs informācijas sniegšana būtu pārāk apgrūtinoša, ņemot vērā attiecīgās apdrošināšanas vai pārapdrošināšanas sabiedrības darbības veidus, to apjomu un apdrošināšanas vai pārapdrošināšanas darbībai raksturīgo risku sarežģītību;
+2) šīs informācijas sniegšana nav nepieciešama, lai nodrošinātu apdrošināšanas vai pārapdrošināšanas sabiedrības efektīvu uzraudzību;
+3) atbrīvošana neietekmē Eiropas Savienības finanšu sistēmu stabilitāti;
+4) apdrošināšanas vai pārapdrošināšanas sabiedrība spēj nodrošināt minētās informācijas sniegšanu pēc Komisijas pieprasījuma;
+5) apdrošināšanas vai pārapdrošināšanas sabiedrība neietilpst grupas sastāvā vai, ja apdrošināšanas vai pārapdrošināšanas sabiedrība ietilpst grupas sastāvā, tā var pierādīt, ka visu kvantitatīvo pārskatu veidlapu (veidņu) aizpildīšana nav pamatota, ņemot vērā grupas darbības veidus, to apjomu un grupas darbībai raksturīgo risku sarežģītību;
+6) dzīvības apdrošināšanas vai pārapdrošināšanas sabiedrības īpatsvars pēc bruto tehnisko rezervju apmēra starp visām dzīvības apdrošināšanas vai pārapdrošināšanas sabiedrībām nav lielāks par 20 procentiem vai nedzīvības apdrošināšanas vai pārapdrošināšanas sabiedrības īpatsvars pēc bruto parakstīto prēmiju apmēra starp visām nedzīvības apdrošināšanas vai pārapdrošināšanas sabiedrībām nav lielāks par 20 procentiem.
+(6) Pirms šā panta ceturtajā un piektajā daļā noteikto atbrīvojumu piemērošanas Komisija novērtē, vai ir izpildīti visi šā panta ceturtās daļas 1. punktā un piektās daļas 1. punktā minētie nosacījumi, un ņem vērā vismaz šādu informāciju par apdrošināšanas vai pārapdrošināšanas sabiedrību:
+1) apdrošināšanas vai pārapdrošināšanas prēmiju, tehnisko rezervju un aktīvu apmēru;
+2) apdrošināšanas vai pārapdrošināšanas atlīdzību un citu no noslēgtajiem apdrošināšanas vai pārapdrošināšanas līgumiem izrietošo labumu svārstīguma līmeni;
+3) ieguldījumu tirgus risku;
+4) riska koncentrācijas līmeni;
+5) to dzīvības un nedzīvības apdrošināšanas veidu kopējo skaitu, kuros izsniegtas apdrošināšanas licences;
+6) aktīvu pārvaldības iespējamo ietekmi uz attiecīgās sabiedrības finanšu stabilitāti;
+7) šā panta trešajā daļā minētās politikas un procedūras un citus pārvaldības sistēmas elementus;
+8) pārvaldības sistēmas piemērotību;
+9) izmantojamā pašu kapitāla apmēru maksātspējas kapitāla prasības un minimālās kapitāla prasības izpildes nodrošināšanai;
+10) to, vai apdrošināšanas vai pārapdrošināšanas sabiedrība ir kaptīva apdrošināšanas vai pārapdrošināšanas sabiedrība.

@@ -1,4 +1,4 @@
-81.pants. Nosakot personas netiešā veidā iegūtās līdzdalības apmēru apdrošināšanas vai pārapdrošināšanas sabiedrībā, ņem vērā šādas personas (turpmāk šajā pantā - konkrētā persona) iegūtās balsstiesības, kuras:
+81.pants. (1) Nosakot personas netiešā veidā iegūtās līdzdalības apmēru apdrošināšanas vai pārapdrošināšanas sabiedrībā, ņem vērā šādas personas (turpmāk šajā pantā - konkrētā persona) iegūtās balsstiesības, kuras:
 1) ir tiesīga izmantot trešā persona, ar kuru konkrētā persona ir noslēgusi vienošanos, uzliekot tai par pienākumu saskaņot balsstiesību izmantošanas un rīcības politiku ilgtermiņā attiecībā uz konkrētā emitenta pārvaldi;
 2) ir tiesīga izmantot trešā persona saskaņā ar vienošanos, kas noslēgta ar konkrēto personu un kas paredz attiecīgo balsstiesību pagaidu nodošanu;
 3) izriet no akcijām vai daļām, ko konkrētā persona ir saņēmusi kā nodrošinājumu, ja tā var izmantot balsstiesības un ir paudusi savu nodomu tās izmantot;
@@ -8,3 +8,4 @@
 7) izriet no trešās personas vārdā un konkrētās personas labā turētām akcijām vai daļām;
 8) konkrētā persona var īstenot kā pilnvarnieks, kad tā ir tiesīga izmantot balsstiesības pēc saviem ieskatiem, ja nav saņemti īpaši norādījumi;
 9) izriet no jebkurā citā netiešā veidā konkrētās personas iegūtajām akcijām vai daļām.
+(2) Līdzdalības apmēra noteikšanai neņem vērā no ieguldījumu brokeru sabiedrības vai kredītiestādes turējumā esošajām akcijām izrietošās balsstiesības, kuras ieguldījumu brokeru sabiedrība vai kredītiestāde ieguvusi šo akciju sākotnējās izvietošanas rezultātā vai garantējusi sākotnējās izvietošanas laikā neizvietoto akciju izpirkšanu, ja ieguldījumu brokeru sabiedrība vai kredītiestāde neizmanto no šīm akcijām izrietošās balsstiesības un atsavina vai dzēš šīs akcijas viena gada laikā no iegādes dienas.

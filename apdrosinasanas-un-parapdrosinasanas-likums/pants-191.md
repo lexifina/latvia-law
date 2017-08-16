@@ -4,4 +4,5 @@
 2) darbību, ko veic apdrošinātājs, kurš nodrošina civiltiesiskās atbildības apdrošināšanu, aizstāvot un pārstāvot apdrošināto, ja aizstāvēšana un pārstāvēšana vienlaikus tiek veikta apdrošinātāja interesēs;
 3) juridisko izdevumu apdrošināšanu, kuru veic apdrošinātājs palīdzības apdrošināšanā, kas atbilst šādiem nosacījumiem:
 a) darbību veic dalībvalstī, kura nav apdrošinātā pastāvīgā dzīvesvieta,
-b) darbība ir daļa no līguma, kas attiecas tikai uz palīdzību, ko sniedz personām, kurām rodas grūtības ceļojuma laikā, esot prom no savām mājām vai no savas pastāvīgās dzīvesvietas.
+b) darbība ir daļa no līguma, kas attiecas tikai uz palīdzību, ko sniedz personām, kurām rodas grūtības ceļojuma laikā, esot prom no savām mājām vai no savas pastāvīgās dzīvesvietas,
+c) apdrošināšanas līgumā norādīts, ka juridisko izdevumu apdrošināšana ir papildrisks palīdzības apdrošināšanai.

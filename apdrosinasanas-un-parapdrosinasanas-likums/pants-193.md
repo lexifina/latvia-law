@@ -8,4 +8,6 @@ b) pārsūdzēt apdrošinātāja pieņemtos lēmumus saskaņā ar Latvijas Repub
 (3) Juridiska rakstura pakalpojumus un pušu pārstāvību nodrošina neatkarīgi advokāti vai citas atbilstošas kvalifikācijas personas, ja vienā strīdā iesaistīto pušu juridiskos izdevumus ir apdrošinājis viens un tas pats apdrošinātājs.
 (4) Šā panta pirmās daļas 2.punkts netiek piemērots, ja:
 1) apdrošināšana tiek attiecināta tikai uz gadījumiem, kas saistīti ar autotransporta izmantošanu Latvijas Republikas teritorijā;
-2) apdrošināšana tiek attiecināta uz palīdzības sniegšanu nelaimes vai bojājumu gadījumā, kurā iesaistīts autotransports.
+2) apdrošināšana tiek attiecināta uz palīdzības sniegšanu nelaimes vai bojājumu gadījumā, kurā iesaistīts autotransports;
+3) apdrošinātājs, kurš veicis juridisko izdevumu apdrošināšanu, un apdrošinātājs, kurš veicis palīdzības apdrošināšanu, nav tiesīgs darboties nevienā civiltiesiskās atbildības apdrošināšanas veidā;
+4) tiek nodrošināti šā panta trešās daļas noteikumi.

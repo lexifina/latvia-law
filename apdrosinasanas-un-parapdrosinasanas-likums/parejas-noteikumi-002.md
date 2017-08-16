@@ -1,1 +1,1 @@
-2. Dzīvības apdrošināšanas sabiedrībām, kuras saņēmušas dzīvības apdrošināšanas licenci līdz šā likuma spēkā stāšanās dienai, ir tiesības turpināt dzīvības apdrošināšanu šā likuma 19. panta otrās daļas 1., 2., 3. un 5.punktā noteiktajos dzīvības apdrošināšanas veidos.
+2. Dzīvības apdrošināšanas sabiedrībām, kuras saņēmušas dzīvības apdrošināšanas licenci līdz šā likuma spēkā stāšanās dienai, ir tiesības turpināt dzīvības apdrošināšanu šā likuma 19. panta otrās daļas 1., 2., 3. 5. un 7. punktā noteiktajos dzīvības apdrošināšanas veidos.

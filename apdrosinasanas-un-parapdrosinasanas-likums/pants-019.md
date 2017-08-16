@@ -26,6 +26,7 @@
 6) pensiju fondu pārvaldībai;
 7) mūža pensijas apdrošināšanai.
 (3) Apdrošināšanas licence tiek izsniegta katram apdrošināšanas veidam atsevišķi.
+(3¹) Apdrošināšanas sabiedrība, kura ir saņēmusi apdrošināšanas licenci apdrošināšanai kādā no šā panta pirmajā daļā minētajiem apdrošināšanas veidiem, nevar apdrošināt risku, kas attiecas uz citu apdrošināšanas veidu (papildrisku), izņemot šā likuma 20. pantā minētos gadījumus.
 (4) Licence dzīvības apdrošināšanai ietver tiesības veikt šādu apdrošināšanu:
 1) apdrošināšanu, kas paredz apdrošināšanas atlīdzības izmaksu līgumā noteiktajai personai līgumā noteiktajos gadījumos, kas saistīti ar apdrošinātā dzīvību, kā arī gadījumos, kad apdrošinātais miris vai iestājies līgumā noteiktais termiņš vai apdrošinātā vecums;
 2) apdrošināšanu pret miesas bojājumiem, kas izraisa darbspēju zudumu, apdrošināšanu pret nelaimes gadījumiem, kas izraisa nāvi, un apdrošināšanu pret invaliditāti, kas radusies nelaimes gadījuma vai slimības dēļ, ja šāda apdrošināšana tiek parakstīta kā papildu apdrošināšana šīs daļas 1.punktā minētajai dzīvības apdrošināšanai;

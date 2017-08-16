@@ -4,4 +4,4 @@
 1) pēc apdrošināšanas līgumu pārņemšanas citā dalībvalstī reģistrētas nedalībvalsts apdrošinātāja filiāles rīcībā būs izmantojamais pašu kapitāls maksātspējas kapitāla prasības apmērā;
 2) attiecīgās dalībvalsts likumi atļauj veikt apdrošināšanas līgumu pārņemšanu šajā dalībvalstī reģistrētām nedalībvalstu apdrošinātāju filiālēm;
 3) citā dalībvalstī reģistrētas šīs nedalībvalsts apdrošinātāja filiāles uzraudzības iestāde ir izsniegusi atļauju apdrošināšanas līgumu pārņemšanai.
-(4) Jautājumu par nedalībvalsts apdrošinātāja filiāles visu noslēgto apdrošināšanas līgumu vai daļas no tiem nodošanu izskata saskaņā ar šā likuma 47.panta trešo, ceturto, piekto, sesto, septīto, astoto un devīto daļu un 48., 49., 50., 51. un 52.pantu.
+(4) Jautājumu par nedalībvalsts apdrošinātāja filiāles visu noslēgto apdrošināšanas līgumu vai daļas no tiem nodošanu izskata saskaņā ar šā likuma 47.panta trešo, ceturto, piekto, sesto, septīto, astoto, devīto un desmito daļu un 48., 49., 50., 51. un 52.pantu.

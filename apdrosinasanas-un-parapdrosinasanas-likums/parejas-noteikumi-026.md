@@ -1,0 +1,1 @@
+26. Apdrošināšanas un pārapdrošināšanas sabiedrības līdz 2017. gada 31. decembrim nodrošina par risku pārvaldības funkciju atbildīgo personu, par atbilstības funkciju atbildīgo personu un par aktuāro funkciju atbildīgo personu atbilstību šā likuma 58. un 59. pantā minētajām prasībām.

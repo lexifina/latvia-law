@@ -1,5 +1,5 @@
 14.pants. (1) Apdrošinātājs un pārapdrošinātājs uzskatāms par finanšu un kapitāla tirgus dalībnieku.
-(2) Apdrošinātājs Komisijas darbības finansēšanai maksā:
+(2) Apdrošinātājs Komisijas darbības finansēšanai veic maksājumus no ceturksnī saņemto apdrošināšanas prēmiju kopsummas šādā apmērā:
 1) līdz 0,4 procentiem ieskaitot - no dzīvības apdrošināšanas operācijām ar uzkrājuma veidošanu;
 2) līdz 0,2 procentiem ieskaitot - no sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas operācijām;
 3) līdz 0,7 procentiem ieskaitot - no pārējām apdrošināšanas operācijām.
