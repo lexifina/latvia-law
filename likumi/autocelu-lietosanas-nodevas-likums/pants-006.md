@@ -8,4 +8,5 @@ Nodevu nemaksā:
 6) (izslēgts ar 23.11.2016. likumu);
 7) (izslēgts ar 23.11.2016. likumu);
 8) (izslēgts ar 06.11.2013. likumu);
-9) (izslēgts ar 06.11.2013. likumu).
+9) (izslēgts ar 06.11.2013. likumu);
+10) par operatīvajiem transportlīdzekļiem.

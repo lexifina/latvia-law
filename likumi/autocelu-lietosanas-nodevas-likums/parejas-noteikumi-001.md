@@ -1,0 +1,1 @@
+1. Grozījumi par šā likuma 2. panta izteikšanu jaunā redakcijā attiecībā uz pienākumu maksāt nodevu arī par transportlīdzekļiem, kas nav paredzēti kravu autopārvadājumiem, piemērojami no 2018. gada 1. janvāra.

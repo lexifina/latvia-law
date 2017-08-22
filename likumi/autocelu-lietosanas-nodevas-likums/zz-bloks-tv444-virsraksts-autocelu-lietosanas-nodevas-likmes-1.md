@@ -1,14 +1,14 @@
-1. Transportlīdzekļiem ar pilnu masu no 3000 līdz 3500 kg
+1. Transportlīdzekļiem ar pilnu masu no 3001 līdz 3500 kg
 Nodevas likmes (euro)
 dienas likmenedēļas likmemēneša likmegada likme
 61428300
-2. Transportlīdzekļiem un to sastāviem ar pilnu masu no 3500 kg līdz 12 000 kg
+2. Transportlīdzekļiem un to sastāviem ar pilnu masu no 3501 kg līdz 12 000 kg
 Transportlīdzekļa motora izmešu līmenisNodevas likmes (euro)
 dienas likmenedēļas likmemēneša likmegada likme
 EURO 0, I, II92244535
 EURO III82040484
 EURO IV un mazāk piesārņojošs82040400
-3. Transportlīdzekļiem un to sastāviem ar pilnu masu no 12 000 kg
+3. Transportlīdzekļiem un to sastāviem ar pilnu masu no 12 001 kg
 Transportlīdzekļa motora izmešu līmenisAsu skaits
 Nodevas likmes (euro)
 dienas likmenedēļas likmemēneša likmegada likme

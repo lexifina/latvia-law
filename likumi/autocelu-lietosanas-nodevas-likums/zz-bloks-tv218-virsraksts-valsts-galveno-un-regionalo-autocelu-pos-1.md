@@ -1,2 +1,2 @@
 Autoceļu lietošanas nodevas likuma
-2. pielikums
+1.¹ pielikums
