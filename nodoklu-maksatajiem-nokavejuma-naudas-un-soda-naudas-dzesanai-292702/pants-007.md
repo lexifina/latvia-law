@@ -1,0 +1,3 @@
+7. pants. Deklarāciju precizējumi
+(1) Triju mēnešu laikā no atbalsta uzsākšanas datuma, pirms Valsts ieņēmumu dienestam iesniegts iesniegums par pieteikšanos atbalstam, nodokļu maksātājam ir tiesības precizēt nodokļu deklarācijas, kurās nodokļu maksājuma samaksas termiņš ir noteikts līdz atbalsta pamatparāda noteikšanas datumam, ņemot vērā likuma "Par nodokļiem un nodevām" 16. panta 6. punktā noteikto ierobežojumu. Valsts sociālās apdrošināšanas obligātās iemaksas tiek precizētas likumā "Par valsts sociālo apdrošināšanu" noteiktajā kārtībā.
+(2) Pēc tam kad Valsts ieņēmumu dienestam iesniegts iesniegums par pieteikšanos atbalstam, nodokļu maksātājam nav tiesību iesniegt deklarāciju precizējumus attiecībā uz atbalsta pamatparādu.
