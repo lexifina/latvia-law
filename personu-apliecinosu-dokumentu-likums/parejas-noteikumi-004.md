@@ -1,0 +1,1 @@
+4. Līdz 2017. gada 31. augustam Ministru kabinets izdara grozījumus normatīvajos aktos, paredzot atbrīvojumu no valsts nodevas samaksas personām, kurām tiek izsniegta šā likuma 2. panta piektajā daļā minētā personas apliecība.
