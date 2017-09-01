@@ -17,8 +17,8 @@
 14) nodrošināt publiski pieejamu nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu, to lietotāju un apkalpojošo dienestu vienoto datu bāzi (reģistru);
 15) (izslēgts ar 31.01.2008. likumu);
 16) visos gadījumos, kad nodokļu maksātājs izdarījis nodokļu pārkāpumu, par kuru paredzēta kriminālatbildība, 10 dienu laikā no dienas, kad nodokļu administrācijas ierēdnis (darbinieks) to konstatējis, iesniegt par to ziņojumu attiecīgajai valsts institūcijai, kura izlemj jautājumu par kriminālprocesa uzsākšanu;
-17) uzturēt komercsabiedrību, kooperatīvo sabiedrību un citu privāto tiesību juridisko personu - Latvijas rezidentu un nerezidentu pastāvīgo pārstāvniecību Latvijā pieprasījuma noguldījumu un maksājumu kontu vienotu reģistru (turpmāk - juridisko personu kontu reģistrs);
-18) nodrošināt kredītiestādēm - Latvijas Republikas rezidentiem tiešsaistes pieeju juridisko personu kontu reģistra informācijai;
+17) (izslēgts no 01.09.2017. ar 23.11.2016. likumu. Sk. Pārejas noteikumu 182.¹ punktu);
+18) (izslēgts no 01.09.2017. ar 23.11.2016. likumu. Sk. Pārejas noteikumu 182.¹ punktu);
 19) nodrošināt publiski pieejamu sabiedriskā labuma organizāciju vienoto datu bāzi (reģistru);
 20) atbilstoši iekšzemes nodokļu maksātāju iesniegtajām nodokļu deklarācijām un NACE 2.red. klasifikācijas divu zīmju līmenim apkopot un nodrošināt publiski pieejamu informāciju:
 a) par iekšzemes nodokļu maksātāju - darba devēju - nodarbināto darba ņēmēju mēneša vidējiem darba ienākumiem vismaz pirmajos trijos gada ceturkšņos pēdējo četru gada ceturkšņu periodā,
