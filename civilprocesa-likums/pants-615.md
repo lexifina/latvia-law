@@ -8,5 +8,5 @@
 2) valsts un kancelejas nodevu, kāda normatīvajā aktā noteikta īpašuma tiesību nostiprināšanai zemesgrāmatā;
 3) šā panta pirmajā, otrajā vai trešajā daļā norādīto summu;
 4) pievienotās vērtības nodokli, ja izsoles cena apliekama ar pievienotās vērtības nodokli, atbilstoši tiesu izpildītāja sastādītajam aprēķinam (631.panta trešā daļa) un ņemot vērā šā likuma 612.panta noteikumus.
-(5) Pēc šā panta ceturtajā daļā minētās summas samaksas tiesu izpildītājs elektroniski iesniedz rajona (pilsētas) tiesas zemesgrāmatu nodaļā, kuras darbības teritorijā atrodas nekustamais īpašums, pieteikumu par nekustamā īpašuma nostiprināšanu uz nosolītāja, līdzīpašnieka vai kreditora vārda un par zemesgrāmatā ierakstīto parādu dzēšanu (613.pants) un lūdz nostiprināt īpašuma tiesības zemesgrāmatā.
+(5) Pēc šā panta ceturtajā daļā minētās summas samaksas tiesu izpildītājs elektroniski iesniedz rajona (pilsētas) tiesas zemesgrāmatu nodaļā, izmantojot Tiesu informatīvo sistēmu, pieteikumu par nekustamā īpašuma nostiprināšanu uz nosolītāja, līdzīpašnieka vai kreditora vārda un par zemesgrāmatā ierakstīto parādu dzēšanu (613.pants) un lūdz nostiprināt īpašuma tiesības zemesgrāmatā.
 (6) Ja neviens nav pieteicies paturēt nekustamo īpašumu sev, rīkojama otrā izsole.
