@@ -1,0 +1,1 @@
+67. Regulators līdz 2017.gada 1.oktobrim izdod šā likuma 28.¹ panta ceturtajā daļā minēto metodiku. Līdz attiecīgā normatīvā akta spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 30.septembrim piemērojama ar regulatora padomes 2014.gada 26.februāra lēmumu Nr.1/5 apstiprinātā Obligātā iepirkuma komponenšu aprēķināšanas metodika.

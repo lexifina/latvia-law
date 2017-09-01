@@ -1,0 +1,1 @@
+68. Publiskais tirgotājs iesniedz šā likuma 28.panta piektajā daļā, 28.¹ panta ceturtajā daļā, 30.panta trešajā daļā, 30.² panta trešajā daļā un šo pārejas noteikumu 53.punktā noteikto izmaksu attiecināšanu pārrēķinu līdz 2017.gada 20.oktobrim. Apstiprinātais pārrēķins stājas spēkā 2018.gada 1.janvārī.
