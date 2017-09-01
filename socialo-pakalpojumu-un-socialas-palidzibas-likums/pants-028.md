@@ -5,6 +5,9 @@
 3) bērniem ar smagiem funkcionāliem traucējumiem, ja nepieciešamais pakalpojuma apjoms pārsniedz aprūpei mājās vai dienas aprūpes un sociālās rehabilitācijas institūcijā noteikto apjomu;
 4) pilngadīgām personām ar smagiem un ļoti smagiem garīga rakstura traucējumiem, kurām nav nepieciešama atrašanās specializētā ārstniecības iestādē un kuru stāvoklis neapdraud apkārtējos, ja nepieciešamā pakalpojuma apjoms pārsniedz aprūpei mājās, dienas aprūpes centrā vai grupu mājā (dzīvoklī) noteikto sociālās aprūpes un sociālās rehabilitācijas pakalpojuma apjomu.
 (1¹) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija var veidot struktūrvienību veselības aprūpes pakalpojumu nodrošināšanai.
+(1²) Ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija, izmantojot Nepilngadīgo personu atbalsta informācijas sistēmu, ne retāk kā reizi trijos mēnešos par bāreni vai bez vecāku gādības palikušu bērnu, kas ir jaunāks par trim gadiem, un ne retāk kā reizi sešos mēnešos par bāreni vai bez vecāku gādības palikušu bērnu no dienas, kad viņš sasniedz trīs gadu vecumu, līdz brīdim, kad pakalpojuma sniegšana viņam tiek pārtraukta, informē bāriņtiesu un pašvaldības sociālo dienestu par:
+1) vecāku, brāļu, māsu, vecvecāku, kā arī citu personu, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā, saskarsmi ar bērnu un sadarbību ar ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju;
+2) bērna fizisko un psihosociālo attīstību.
 (2) Pakalpojuma sniegšanu ilgstošas aprūpes un sociālās rehabilitācijas institūcijā pilngadīgai personai var pārtraukt, ja:
 1) persona apdraud citu personu veselību, dzīvību vai sistemātiski pārkāpj noslēgtā līguma noteikumus;
 2) personai rehabilitācijas rezultātā vairs nav nepieciešami ilgstošas aprūpes un sociālās rehabilitācijas institūcijas pakalpojumi un tos var nomainīt ar pakalpojumiem dzīvesvietā;
