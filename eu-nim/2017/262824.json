@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ar Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšnieka 2017.gada 29.septembra rīkojumu Nr.1-5.1/61 apstiprinātā instrukcija „Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestā saņemtās informācijas reģistrēšanas, apstrādes, uzglabāšanas un iznīcināšanas kārtība”",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "2017-09-29",
+  "entry_into_force": "2017-09-29",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54829",
+  "nim_celex": "72015L0849LVA_262824",
+  "nim_id": "262824",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab18cb83-c5eb-49fe-b11a-955c939e5eb9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
