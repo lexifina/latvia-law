@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "INSTRUKCIJA “Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienestā saņemtās informācijas reģistrēšanas, apstrādes,  uzglabāšanas un iznīcināšanas kārtība”",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "2017-09-29",
+  "entry_into_force": "2017-09-29",
+  "notification_date": "2019-02-14",
+  "commission_reference": "MNE(2019)51221",
+  "nim_celex": "72015L0849LVA_269435",
+  "nim_id": "269435",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e6a4418c-50e1-448d-bef1-7baf4b190756",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
