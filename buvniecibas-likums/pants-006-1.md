@@ -4,7 +4,8 @@
 a) tādu jaunu publisku ēku būvniecību un pārbūvi, kurās paredzēts vienlaikus uzturēties vairāk nekā 100 cilvēkiem (turpmāk - publiska ēka),
 b) būves, kuru paredzētajai būvniecībai atbilstoši likuma "Par ietekmes uz vidi novērtēšanu" 4.panta pirmās daļas 1.punktam piemērota ietekmes uz vidi novērtējuma procedūra,
 c) jaunas būves vai esošu būvju pārbūves, kuru ieceres iesniedzējs ir pašvaldība, ja publisku būvdarbu līguma līgumcena ir 1,5 miljoni euro vai lielāka;
-2) nodrošina publisku ēku ekspluatācijas uzraudzību;
+1¹) pilda šajā likumā un citos būvniecības jomas normatīvajos aktos noteiktās būvvaldes funkcijas attiecībā uz Aizsardzības ministrijas, tās padotības iestādes vai Nacionālo bruņoto spēku vajadzībām nepieciešamo būvju būvniecību Aizsardzības ministrijas valdījumā vai turējumā esošajā nekustamajā īpašumā;
+2) nodrošina ekspluatācijas uzraudzību publiskām ēkām un šīs daļas 1.¹ punktā noteiktajām būvēm;
 3) nodrošina būvniecības informācijas sistēmā iekļautās informācijas pieejamību;
 4) organizē būvprojektu un būvju ekspertīzi:
 a) gadījumos, kad būvniecības ierosinātājs ir publisko tiesību juridiskā persona vai tās institūcija,
