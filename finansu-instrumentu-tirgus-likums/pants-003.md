@@ -9,8 +9,10 @@
 6) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija regula (EK) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012);
 7) Regula Nr. 575/2013;
 8) Regula Nr. 596/2014;
-9) Eiropas Parlamenta un Padomes 2014.gada 23.jūlija regula (EK) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/EK un Regulā Nr. 236/2012 (Dokuments attiecas uz EEZ);
-10) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa regula (ES) Nr. 537/2014 par īpašām prasībām attiecībā uz obligātajām revīzijām sabiedriskas nozīmes struktūrās un ar ko atceļ Komisijas Lēmumu 2005/909/EK (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 537/2014) gadījumos, kas noteikti Revīzijas pakalpojumu likuma 37.⁵ pantā.
+9) Eiropas Parlamenta un Padomes 2014.gada 23.jūlija regula (EK) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/EK un Regulā Nr. 236/2012 (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 909/2014);
+10) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa regula (ES) Nr. 537/2014 par īpašām prasībām attiecībā uz obligātajām revīzijām sabiedriskas nozīmes struktūrās un ar ko atceļ Komisijas Lēmumu 2005/909/EK (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 537/2014) gadījumos, kas noteikti Revīzijas pakalpojumu likuma 37.⁵ pantā;
+11) Eiropas Parlamenta un Padomes 2014. gada 26. novembra regula (ES) Nr. 1286/2014 par komplektētu privāto ieguldījumu un apdrošināšanas ieguldījumu produktu (PRIIP) pamatinformācijas dokumentiem (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 1286/2014);
+12) Eiropas Parlamenta un Padomes 2015. gada 25. novembra regula (ES) Nr. 2015/2365 par vērtspapīru finansēšanas darījumu un atkalizmantošanas pārredzamību un ar ko groza Regulu (ES) Nr. 648/2012 (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 2015/2365).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem:
 1) pārvedamiem vērtspapīriem;
 2) ieguldījumu fondu un alternatīvo ieguldījumu fondu ieguldījumu apliecībām un citiem pārvedamiem vērtspapīriem, kas apliecina līdzdalību šādos fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;

@@ -7,16 +7,16 @@
 5) aizliegt pārvedamu vērtspapīru tirdzniecību regulētajā tirgū, ja tā atklāj, ka ir pārkāptas finanšu instrumentu tirgus darbību regulējošo normatīvo aktu prasības, vai tai ir pamatotas aizdomas par šādu pārkāpumu;
 6) pārraudzīt, vai emitents laikus publisko informāciju, lai nodrošinātu sabiedrības efektīvu un vienlīdzīgu pieeju informācijai visās dalībvalstīs, kurās pārvedami vērtspapīri iekļauti regulētajā tirgū, kā arī veikt nepieciešamos pasākumus, ja attiecīgo normatīvo aktu prasības netiek ievērotas;
 7) publiski paziņot faktu, ka emitents, akcionārs, depozitārā sertifikāta ieguvējs, citu finanšu instrumentu turētājs vai persona, kurai ir tiesības iegūt, atsavināt vai izmantot balsstiesības vienā vai vairākos gadījumos, kas minēti šā likuma 8.pantā, nav izpildījusi finanšu instrumentu tirgus darbību regulējošo normatīvo aktu prasības;
-8) pārbaudīt, vai obligātā informācija ir sagatavota atbilstoši finanšu pārskatu sagatavošanas prasībām, un veikt nepieciešamos pasākumus, ja tiek konstatēti kādi pārkāpumi;
-8¹) pārbaudīt, vai obligātā informācija patiesi un godīgi atspoguļo informāciju par emitentu, tā darbību un korporatīvo pārvaldību;
+8) pārbaudīt, vai regulētā informācija ir sagatavota atbilstoši finanšu pārskatu sagatavošanas prasībām, un veikt nepieciešamos pasākumus, ja tiek konstatēti kādi pārkāpumi;
+8¹) pārbaudīt, vai regulētā informācija patiesi un godīgi atspoguļo informāciju par emitentu, tā darbību un korporatīvo pārvaldību;
 9) klātienē pārbaudīt finanšu instrumentu tirgus darbību regulējošo normatīvo aktu prasību izpildi;
 10) pieprasīt visu tās uzdevumu veikšanai nepieciešamo informāciju un dokumentus no tirgus uzturētāja, tai skaitā starp tirgus uzturētāju un regulētā tirgus organizētāju vai emitentu noslēgto līgumu, ja tāds ir;
-11) pieprasīt no emitenta vai personas, kas lūgusi pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, šādas ziņas par obligātās informācijas sniegšanu plašsaziņas līdzekļiem:
-a) tās personas vārds un uzvārds, kura nodevusi plašsaziņas līdzekļiem obligāto informāciju,
-b) obligātās informācijas nodošanas procesā ievērotā drošība,
-c) datums un laiks, kad obligātā informācija tika nodota plašsaziņas līdzekļiem,
-d) informācijas nesējs, ar kuru obligātā informācija tika nodota,
-e) ziņas par jebkādiem emitenta noteiktajiem obligātās informācijas izpaušanas ierobežojumiem, ja tādi ir.
+11) pieprasīt no emitenta vai personas, kas lūgusi pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, šādas ziņas par regulētās informācijas sniegšanu plašsaziņas līdzekļiem:
+a) tās personas vārds un uzvārds, kura nodevusi plašsaziņas līdzekļiem regulēto informāciju,
+b) regulētās informācijas nodošanas procesā ievērotā drošība,
+c) datums un laiks, kad regulētā informācija tika nodota plašsaziņas līdzekļiem,
+d) informācijas nesējs, ar kuru regulētā informācija tika nodota,
+e) ziņas par jebkādiem emitenta noteiktajiem regulētās informācijas izpaušanas ierobežojumiem, ja tādi ir.
 (2) Ja Komisija konstatē, ka citas dalībvalsts emitents vai šāda emitenta akcionārs, depozitārā sertifikāta ieguvējs, citu finanšu instrumentu turētājs vai persona, kam ir tiesības iegūt, atsavināt vai izmantot balsstiesības vienā vai vairākos gadījumos, kas minēti šā likuma 8.pantā, ir pārkāpusi vai nepilda finanšu instrumentu tirgus darbību regulējošo normatīvo aktu prasības, tā dara šos faktus zināmus izcelsmes dalībvalsts kompetentajai institūcijai un Eiropas Vērtspapīru un tirgu iestādei.
 (3) Ja Komisija ir informējusi attiecīgās izcelsmes dalībvalsts kompetento institūciju saskaņā ar šā panta otrās daļas prasībām, bet veiktie pasākumi izrādījušies neefektīvi un šā panta otrajā daļā minētās personas turpina pārkāpt vai nepildīt finanšu instrumentu tirgus darbību regulējošo normatīvo aktu prasības, Komisija ir tiesīga veikt nepieciešamos pasākumus, lai aizsargātu ieguldītāju intereses, kā arī informē par to Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi saskaņā ar šā likuma 147.panta prasībām.
 (4) (Izslēgta ar 26.05.2016. likumu)
