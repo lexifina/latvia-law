@@ -1,0 +1,1 @@
+17. Dabas datu pārvaldības sistēmā līdz 2017. gada 20. jūnijam reģistrēto īpaši aizsargājamo meža, krūmāju un purvu biotopu atbilstību normatīvajos aktos par īpaši aizsargājamo biotopu veidu sarakstu noteiktajām biotopus raksturojošajām pazīmēm izvērtē un aktualizē līdz 2020. gada 31. decembrim.

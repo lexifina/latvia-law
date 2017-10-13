@@ -1,7 +1,7 @@
 4.pants. Ministru kabineta kompetence
 Ministru kabinets nosaka:
 1) īpaši aizsargājamo un ierobežoti izmantojamo īpaši aizsargājamo sugu sarakstus;
-2) īpaši aizsargājamo biotopu sarakstus;
+2) īpaši aizsargājamo biotopu veidu sarakstus, kā arī īpaši aizsargājamo meža, krūmāju un purvu biotopu raksturojošās pazīmes;
 3) zaudējumu atlīdzību par īpaši aizsargājamo sugu indivīdu un biotopu iznīcināšanu vai bojāšanu;
 4) mikroliegumu izveidošanas kārtību un to aizsardzības un apsaimniekošanas noteikumus;
 5) šajā likumā noteikto atļauju izsniegšanas kārtību;

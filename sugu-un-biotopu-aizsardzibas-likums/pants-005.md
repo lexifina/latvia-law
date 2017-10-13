@@ -16,6 +16,6 @@ Vides aizsardzības un reģionālās attīstības ministrija un tās padotībā 
 13) nodrošina īpaši aizsargājamo dabas teritoriju ierīkošanu sugu un biotopu saglabāšanai, uzturēšanai un atjaunošanai saskaņā ar likumu "Par īpaši aizsargājamām dabas teritorijām";
 14) nodrošina putnu sugu dzīvotņu uzturēšanu un pārzināšanu aizsargātās zonās un ārpus tām saskaņā ar ekoloģijas prasībām;
 15) nodrošina starptautiskās tirdzniecības apdraudēto savvaļas dzīvnieku, to īpašnieku un turētāju, kā arī starptautiskās tirdzniecības apdraudēto augu audzētāju reģistrāciju;
-16) var noteikt to īpaši aizsargājamās dabas teritorijās esošu īpaši aizsargājamo sugu un īpaši aizsargājamo biotopu sarakstu, kuru dzīvotņu vai atrašanās vietu atklāšana var kaitēt vides aizsardzībai;
+16) var noteikt to īpaši aizsargājamās dabas teritorijās esošu īpaši aizsargājamo sugu un īpaši aizsargājamo biotopu veidu sarakstu, kā arī īpaši aizsargājamo meža, krūmāju un purvu biotopu raksturojošās pazīmes, kuru dzīvotņu vai atrašanās vietu atklāšana var kaitēt vides aizsardzībai;
 17) veic dabisko dzīvotņu un sugu, īpaši prioritāro dabisko dzīvotņu veidu un prioritāro sugu aizsardzības statusa uzraudzību;
 18) veicina izglītošanu un informācijas pieejamību par nepieciešamību aizsargāt savvaļas faunu un floru, saglabāt biotopus, sugas un to dzīvotnes.
