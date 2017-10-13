@@ -1,1 +1,1 @@
-2. Latvijas Centrālais depozitārijs ir sistēmas dalībnieks tikmēr, kamēr tas tur to ieguldītāju kontus, kuri nav sistēmas dalībnieki.
+2. Centrālais vērtspapīru depozitārijs, kas ir Latvijas Centrālā depozitārija tiesību un saistību pārņēmējs, ir sistēmas dalībnieks tikmēr, kamēr tas tur to ieguldītāju kontus, kuri nav sistēmas dalībnieki.
