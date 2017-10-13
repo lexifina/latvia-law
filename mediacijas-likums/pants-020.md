@@ -5,7 +5,7 @@
 3) sniedz atzinumu Sertificētu mediatoru padomei šā likuma 26.pantā noteiktajā kārtībā.
 (2) Komisiju izveido Sertificētu mediatoru padome uz trim gadiem. Komisijas sastāvā iekļauj:
 1) Tieslietu ministrijas pārstāvi;
-2) rajona (pilsētas) tiesas tiesnesi un apgabaltiesas tiesnesi;
+2) divus dažādu tiesu instanču tiesnešus;
 3) augstskolu akadēmiskā personāla pārstāvi;
 4) divus Sertificētu mediatoru padomes pārstāvjus.
 (3) Komisijas priekšsēdētājs ir Sertificētu mediatoru padomes pārstāvis.
