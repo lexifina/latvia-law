@@ -21,5 +21,5 @@ c) apdrošināšanas sabiedrības,
 d) ieguldījumu fondi vai tiem pielīdzināmi kolektīvo ieguldījumu uzņēmumi,
 e) ieguldījumu pārvaldes sabiedrības,
 f) citas finanšu institūcijas;
-5) Latvijas Centrālais depozitārijs, citas dalībvalsts centrālais depozitārijs, centrālais darījumu starpnieks vai norēķinu aģents.
+5) centrālais vērtspapīru depozitārijs, centrālais darījumu starpnieks vai norēķinu aģents.
 (2) Šis likums nosaka finanšu nodrošinājuma sniegšanas, pieņemšanas un izmantošanas kārtību arī tādā gadījumā, ja viens no līdzējiem ir šā panta pirmajā daļā minēta persona, bet otrs - fiziskā, juridiskā vai cita persona vai šo personu apvienība.
