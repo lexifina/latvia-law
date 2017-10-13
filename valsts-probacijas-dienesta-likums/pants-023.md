@@ -1,14 +1,17 @@
-23.pants. Brīvprātīgais probācijas darbinieks
-(1) Par brīvprātīgo probācijas darbinieku var būt persona, kura:
-1) ir izteikusi vēlēšanos piedalīties šajā likumā noteikto Valsts probācijas dienesta uzdevumu pildīšanā un saņēmusi Valsts probācijas dienesta teritoriālās struktūrvienības vadītāja rakstveida atzinumu, ka spēj pildīt kādu no šiem uzdevumiem;
-2) ir rīcībspējīga un sasniegusi 18 gadu vecumu;
-3) prot valsts valodu.
-(2) Brīvprātīgais probācijas darbinieks drīkst būt starpnieks izlīgumā, ja:
-1) viņam ir pietiekamas zināšanas un prasmes izlīguma organizēšanā un vadīšanā;
-2) viņš nav saukts pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu;
+23. pants. Brīvprātīgā darba veicēja atlases kritēriji un starpnieka sertificēšana
+(1) Brīvprātīgā darba veicēju var iesaistīt uzdevumu izpildē, lai nodrošinātu Valsts probācijas dienesta funkciju īstenošanu, kā arī izpētes un analītiskajā darbā.
+(2) Par brīvprātīgā darba veicēju var būt persona, kura:
+1) ir izteikusi vēlēšanos būt par brīvprātīgā darba veicēju;
+2) ir sasniegusi 18 gadu vecumu un kurai nav nodibināta aizgādnība;
+3) prot valsts valodu;
+4) ir saņēmusi Valsts probācijas dienesta vadītāja pilnvarotas personas rakstveida atzinumu, ka spēj veikt līgumā par brīvprātīgo darbu paredzamos uzdevumus;
+5) ir noslēgusi ar Valsts probācijas dienestu līgumu par brīvprātīgo darbu.
+(3) Ministru kabinets nosaka kārtību, kādā brīvprātīgā darba veicējs saņem izdevumu kompensāciju par līgumā noteikto uzdevumu izpildi, un izdevumu kompensācijas apmēru.
+(4) Brīvprātīgā darba veicējs drīkst būt starpnieks izlīguma procesā, ja:
+1) viņam ir pietiekamas zināšanas un prasmes izlīguma procesa organizēšanā un vadīšanā;
+2) viņš nav sodīts par tīša noziedzīga nodarījuma izdarīšanu, ir reabilitēts vai sodāmība viņam ir noņemta (dzēsta);
 3) viņš ir saņēmis Valsts probācijas dienesta izsniegtu sertifikātu.
-(3) Ministru kabinets nosaka kārtību, kādā Valsts probācijas dienests sertificē brīvprātīgos probācijas darbiniekus, kuri ir starpnieki izlīgumā.
-(4) Valsts probācijas dienests ar brīvprātīgo probācijas darbinieku slēdz līdzdarbības līgumu.
-(5) Brīvprātīgā probācijas darbinieka pienākums ir ievērot ētikas principus un neizpaust informāciju, ko viņš ieguvis, pildot līdzdarbības līgumā noteiktos uzdevumus.
-(6) Brīvprātīgais probācijas darbinieks par līdzdarbības līgumā noteikto uzdevumu izpildi saņem atlīdzību Ministru kabineta noteiktajā kārtībā un apmērā.
-(7) Sertificēšanas komisijas pieņemtā lēmuma par jauna sertifikāta izsniegšanu vai brīvprātīgā probācijas darbinieka sertifikāta anulēšanu (ja attiecīgais probācijas darbinieks ir starpnieks izlīgumā) apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+(5) Brīvprātīgā darba veicējs, kas brīvprātīgo darbu veic iestādēs, kurās uzturas nepilngadīgas personas, vai pasākumos, kuros piedalās nepilngadīgas personas, atbilst normatīvo aktu prasībām bērnu tiesību aizsardzības jomā.
+(6) Ministru kabinets nosaka kārtību, kādā Valsts probācijas dienests apmāca un sertificē brīvprātīgā darba veicējus izlīguma procesa organizēšanai un vadīšanai, kā arī anulē sertifikātu.
+(7) Starpnieka sertifikātu var anulēt, ja starpnieks sertifikāta darbības laikā ir pārkāpis izlīguma organizēšanas un vadīšanas noteikumus vai Valsts probācijas dienesta vadītāja apstiprinātos starpnieka ētikas principus vai sniedzis par sevi nepatiesas ziņas.
+(8) Ja starpnieka sertificēšanas komisijas lēmums par sertifikāta anulēšanu tiek apstrīdēts vai pārsūdzēts, apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

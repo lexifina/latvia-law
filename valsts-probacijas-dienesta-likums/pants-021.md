@@ -1,6 +1,6 @@
 21.pants. Valsts probācijas dienesta teritoriālās struktūrvienības konsultatīvās padomes sastāvs
 Valsts probācijas dienesta teritoriālās struktūrvienības konsultatīvās padomes sastāvā ir:
-1) rajona (republikas pilsētas) prokuratūras pārstāvis;
+1) rajona (pilsētas) prokuratūras pārstāvis;
 2) rajona (pilsētas) tiesas pārstāvis;
 3) Valsts policijas teritoriālās struktūrvienības pārstāvis;
 4) pašvaldības pārstāvis;

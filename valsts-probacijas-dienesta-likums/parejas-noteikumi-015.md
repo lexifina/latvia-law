@@ -1,0 +1,5 @@
+15. Ministru kabinets līdz 2018. gada 1. jūnijam izdod šā likuma 13. panta trešajā daļā, 16. panta trešajā daļā, 18.² panta trešajā daļā un 23. panta trešajā un sestajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2007. gada 20. novembra noteikumi Nr. 782 "Kārtība, kādā Valsts probācijas dienests sertificē brīvprātīgos probācijas darbiniekus, kuri ir starpnieki izlīgumā";
+2) Ministru kabineta 2007. gada 27. novembra noteikumi Nr. 803 "Noteikumi par Valsts probācijas dienesta datubāzē iekļaujamās informācijas apjomu un informācijas iekļaušanas un izmantošanas kārtību";
+3) Ministru kabineta 2008. gada 15. aprīļa noteikumi Nr. 266 "Noteikumi par kārtību, kādā brīvprātīgais probācijas darbinieks par līdzdarbības līgumā noteikto uzdevumu izpildi saņem atlīdzību, un atlīdzības apmēru";
+4) Ministru kabineta 2008. gada 25. novembra noteikumi Nr. 973 "Probācijas klienta lietas izveidošanas, noformēšanas, pārsūtīšanas, izbeigšanas, atjaunošanas un glabāšanas kārtība".
