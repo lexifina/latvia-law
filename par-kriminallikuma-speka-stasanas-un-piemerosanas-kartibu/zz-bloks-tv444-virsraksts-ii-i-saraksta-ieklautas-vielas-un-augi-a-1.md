@@ -25,6 +25,7 @@ PEPAP
 1 g
 4)AH-792155154-30-83,4-dihlor-N-[[1-(dimetilamino)cikloheksil]metil]benzamīds0,1 g1 g
 5)U-4770082657-23-63,4-dihlor-N-[(1R,2R)-2-(dimetilamino)cikloheksil]-N-metilbenzamīds0,1 g1 g
+6)U-51754121279-74-12-(3,4-dihlorfenil)-N-[2-(dimetilamino)cikloheksil]-N-metil-acetamīds0,1 g1 g
 5. Morfināna atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
@@ -56,79 +57,7 @@ acetorfīns
 4,5α-epoksi-7α-(1-hidroksi-1-metilbutil)-6-metoksi-17-metil-6,14-endoeteno-morfinan-3-il acetāts
 0,1 g
 1 g
-6. Fentanila atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
-Nr.
-Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
-CAS Nr.
-Ķīmiskais vielas nosaukums
-Apmērs, līdz kuram daudzumi atzīstami par nelieliem
-Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
-1)
-3-metilfentanils, 3-MF
-42045-86-3
-(RS)-N-(1-feniletil-3-metilpiperidin-4-il)-N-fenilpropānamīds
-0,001 g
-1 g
-2)
-beta-hidroksi-3-metilfentanils, Ohmefentanyl
-78995-14-9
-N-[(3R,4S)-1-[(2S)-2-feniletil-2-hidroksi]-3-metilpiperidin-4-il]-N-fenil-propānamīds
-0,001 g
-1 g
-3)
-alfa-metilfentanils, China White
-79704-88-4
-N-fenil-N-[1-(1-fenilpropan-2-il)piperidin-4-il]propānamīds
-0,001 g
-1 g
-4)
-acetil-alfa-metilfentanils
-101860-00-8
-N-fenil-N-[1-(1-fenilpropan-2-il)piperidin-4-il]acetamīds
-0,001 g
-1 g
-5)
-beta-hidroksifentanils
-78995-10-5
-N-[1-(2-feniletil-2-hidroksi)piperidin-4-il]-N-fenilpropānamīds
-0,001 g
-1 g
-6)
-parafluorfentanils
-90736-23-5
-N-(4-fluorfenil)-N-[1-(2-feniletil)piperidin-4-il]propānamīds
-0,001 g
-1 g
-7)
-tiofentanils
-60771-38-2
-N-fenil-N-{1-[2-(tiofen-2-il)etil]piperidin-4-il}propānamīds
-0,001 g
-1 g
-8)
-3-metiltiofentanils
-86052-04-2
-(RS)-N-{3-metil-1-[2-(tiofen-2-il)etil]-piperidin-4-il}-N-fenilpropānamīds
-0,001 g
-1 g
-9)
-alfa-metiltiofentanils
-103963-66-2
-N-fenil-N-{1-[1-(tiofen-2-il)propan-2-il]-piperidin-4-il}propānamīds
-0,001 g
-1 g
-10)
-vielu maisījums, kas satur karfentanilu jebkurā daudzumā
-59708-52-0
-Metil 1-feniletil-4-(N-fenilpropānamīd) piperidīn-4-karboksilāts
-0,001g
-1g
-11)4F-BF, 4-fluoro-butirfentanilsN-(4-fluorofenil)-N-[(1-(2-feniletil)-4-piperidinil)]butānamīds
-0,001g
-1 g
-12)Acetilfentanils3258-84-2N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds0,001 g1 g
-13)B-F1443-52-3N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
-14)5F-BF, 5-fluoro-butiril-fentanilsN-(5-fluorfenil)-N-(1-(2-feniletil)-4-piperidinil)-N-fenilbutiramīds0,001 g1 g
+6. (Izslēgts ar 21.09.2017. likumu)
 7. Augu valsts produkti ar narkotisku iedarbību, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Produkta nosaukums
@@ -184,9 +113,10 @@ d)
 kanabisa sveķi, eļļa, ekstrakti un tinktūras
 0,05 g
 20 g
-e)izžāvēts augu maisījums, kas satur 7.punkta 4.apakšpunkta "a" un "b" apakšpunktā minētās vielas jebkurā attiecībā1 g100 g
+e)izžāvēts augu maisījums, kas satur 7. punkta 4. apakšpunkta "b" apakšpunktā minēto vielu jebkurā attiecībā1 g100 g
 f)izžāvēts augu maisījums, kas satur 7.punkta 4.apakšpunkta "c" un "d" apakšpunktā minētās vielas jebkurā attiecībā0,5 g50 g
 g)vielu maisījums, kas satur dronabinolu (delta-9-tetrahidrokanabinolu) jebkurā daudzumā, kas nav nodalāms no vielu maisījuma kopējā daudzuma5 g50 g
+h)nežāvēts augu maisījums, kas satur 7. punkta 4. apakšpunkta "a" apakšpunktā minēto vielu jebkurā attiecībā5 g1 kg
 5)
 kokas krūma lapas, izžāvētas
 10 g
@@ -244,7 +174,7 @@ CAS Nr.
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-(Izslēgts ar 09.02.2017. likumu, kas stājas spēkā 17.03.2017.)
+(Izslēgts ar 09.02.2017. likumu)
 2)
 7-hidroksimitraginīns
 174418-82-7
@@ -318,6 +248,12 @@ CRA-13
 1-naftil[4-(pentiloksi)-1-naftil]metanons
 0,003 g
 1 g
+7)
+dihlorpāns
+146725-34-0
+Metil-3-(3,4-dihlorfenil)-8-azabiciklo[3.2.1]oktān-4-karboksilāts
+0,2 g
+10 g
 8.4. Augu valsts produkti ar psihotropu iedarbību
 Nr.
 Produkta nosaukums
@@ -389,8 +325,8 @@ d) jebkurā no iepriekš minētajiem savienojumiem aizvietojot ūdeņraža atomu
 1-fenilpropān-2-amīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
 a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
 b) nomainot "a" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
-c) aizvietojot ūdeņraža atomus "a" apakšpunktā minētajos savienojumos benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
-d) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus jebkurā no iepriekš minētajiem savienojumiem ar neaizvietotu vai aizvietotu alkilgrupu;
+c) aizvietojot "a" apakšpunktā minētajos savienojumos ūdeņraža atomus benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
+d) aizvietojot vienu vai vairākus propilgrupas ūdeņraža atomus jebkurā no iepriekš minētajiem savienojumiem ar neaizvietotu vai aizvietotu alkilgrupu vai aizvietotājiem, kas veido benzola gredzenu vai "b" apakšpunktā minētu ciklisku struktūru papildinošu ciklisku struktūru;
 e) aizvietojot jebkurā no iepriekš minētajiem savienojumiem ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neaizvietotu vai aizvietotu hidroksilgrupu vai acilgrupu
 0,02 g2 g
 4)2-aminoindāni
@@ -425,8 +361,8 @@ a) kur ūdeņraža atoms(-i) benzola gredzenā aizvietots(-i) ar vienu vai vair�
 b) kur ūdeņraža atomi etilēngrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu;
 c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā
 0,02 g1 g
-9)1-Arilcikloheksilamīni
-1-arilcikloheksilamīni (izņemot ketamīnu), kuros arilgrupa ir neaizvietots vai aizvietots benzola vai tiofēna cikls, viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā un cikloheksāna cikls ir neaizvietots vai aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
+9)1-Arilcikloheksilamīni un (1-arilcikloheksil)metānamīni
+1-arilcikloheksilamīni (izņemot ketamīnu) un (1-arilcikloheksil)metānamīni, kuros arilgrupa ir neaizvietots vai aizvietots benzola vai tiofēna cikls, viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā un cikloheksāna cikls ir neaizvietots vai aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
 0,001 g1 g
 10)Dibenzopirāni
 No kanabinola atvasināti savienojumi (izņemot kanabidiolu), kas modificēti gredzenā A, aizvietoti gredzenā B, to homologi ar dažādu oglekļa atomu skaitu aizvietotājā stāvoklī 3, to cis-, trans- un optiskie izomēri, kā arī to hidroksilgrupas atvasinājumi un halogēnatvasinājumi
@@ -521,6 +457,38 @@ b) neaizvietojot vai aizvietojot ūdeņraža atomu pie slāpekļa atoma hidrogen
 c) neaizvietojot vai aizvietojot ūdeņraža atomu pie slāpekļa atoma indola ciklā ar neaizvietotu vai aizvietotu alkilgrupu vai acilgrupu
 0,001 g
 0,002 g
+23)
+Indolin-2-ona-3-hidrazīnkarbonilatvasinājumi
+Indolin-2-ona-3-hidrazīnkarbonilatvasinājumi, kas aizvietoti pie indolin-2-ona cikla slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
+• aizvietotu aminogrupu,
+un jebkurš no iepriekš minētajiem savienojumiem, kuros hidrazīngrupas ūdeņraža atoms ir aizvietots ar alkilgrupu,
+vai aizvietoti indolin-2-ona ciklā
+0,001 g
+0,002 g
+24)
+Gamma-karbolin-1-oni
+Jebkurš savienojums, kas atvasināts no 2,5-dihidro-1H-pirido[4,3-b]indol-1-ona:
+a) aizvietojot ūdeņraža atomu stāvoklī 5 ar neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu;
+b) aizvietojot ūdeņraža atomu stāvoklī 2 ar neaizvietotu vai aizvietotu alkilgrupu, cikloalkilgrupu, neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
+un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karbolīna ciklā
+0,003 g
+1 g
+25)
+Acetilfentanili
+N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(1-fenetilpiperidin-4-il)-N-fenilacetamīda, ja izpildīts viens vai vairāki šādi nosacījumi:
+a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem vai alkoksigrupām;
+b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
+c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
+d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām), alkenilgrupu, metoksigrupu vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
+e) aizvietojot etilēngrupu ar metilēngrupu;
+f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu fenilgrupu vai estergrupu;
+g) nomainot N-(1-fenetilpiperidin-4-il)grupā esošo benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
+h) nomainot N-fenilgrupas benzola gredzenu ar citu piesātinātu, no benzola gredzena atšķirīgu ciklu, kas var būt aizvietots
+0,001 g
+1 g
 8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8.3.punkta 6.apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
 Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)izžāvēts (augu maisījums)1 g100 g
@@ -529,3 +497,4 @@ Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs
 4)šķidrums1 ml50 ml
 5)vielu maisījums, kas satur minēto vielu, kura nav nodalāma no vielu maisījuma kopējā daudzuma1 g50 g
 6)piesūcināts papīrs (marka)3 gab.10 gab.
+7)vielu maisījums, kas satur 8.5. punkta 25. apakšpunktā minēto vielu jebkurā daudzumā0,001 g1 g
