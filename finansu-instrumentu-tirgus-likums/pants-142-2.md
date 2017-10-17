@@ -1,11 +1,11 @@
 142.² pants. Ārpakalpojumu sniegšanas ierobežošana
-(1) Komisija aizliedz regulētā tirgus organizētājam, Centrālajam depozitārijam vai ieguldījumu brokeru sabiedrībai saņemt plānoto ārpakalpojumu, ja:
+(1) Komisija aizliedz regulētā tirgus organizētājam, centrālajam vērtspapīru depozitārijam vai ieguldījumu brokeru sabiedrībai saņemt plānoto ārpakalpojumu, ja:
 1) nav ievēroti šā likuma noteikumi;
-2) ārpakalpojuma saņemšana var ierobežot tirgus organizētāja, Centrālā depozitārija vai ieguldījumu brokeru sabiedrības iespējas sniegt šajā likumā noteiktos pakalpojumus, kā arī var aizskart tā klientu likumiskās intereses vai pasliktināt nosacījumus, uz kuriem pamatojoties Komisija ir izsniegusi licenci ārpakalpojuma saņēmējam attiecīgās profesionālās darbības veikšanai;
+2) ārpakalpojuma saņemšana var ierobežot tirgus organizētāja, centrālā vērtspapīru depozitārija vai ieguldījumu brokeru sabiedrības iespējas sniegt šajā likumā noteiktos pakalpojumus, kā arī var aizskart tā klientu likumiskās intereses vai pasliktināt nosacījumus, uz kuriem pamatojoties Komisija ir izsniegusi licenci ārpakalpojuma saņēmējam attiecīgās profesionālās darbības veikšanai;
 3) ārpakalpojuma saņemšana var ierobežot ārpakalpojuma saņēmēja pārvaldes institūciju iespējas veikt normatīvajos aktos, ārpakalpojuma saņēmēja statūtos vai citos iekšējos aktos tam noteiktos pienākumus;
 4) ārpakalpojuma saņemšana liegs vai ierobežos Komisijas iespējas veikt likumā noteiktās funkcijas;
 5) ārpakalpojuma līgums neatbilst likumam un nesniedz skaidru un patiesu priekšstatu par ārpakalpojuma saņēmēja un ārpakalpojumu sniedzēja paredzēto sadarbību un ārpakalpojuma apjoma un kvalitātes prasībām.
-(2) Ārpakalpojuma saņemšana neatbrīvo tirgus organizētāju, Centrālo depozitāriju un ieguldījumu brokeru sabiedrību no atbildības, kas noteikta likumā vai līgumā ar to klientiem. Ārpakalpojuma saņēmējs ir atbildīgs par ārpakalpojumu sniedzēja veikumu tādā pašā mērā kā par savu veikumu.
+(2) Ārpakalpojuma saņemšana neatbrīvo tirgus organizētāju, centrālo vērtspapīru depozitāriju un ieguldījumu brokeru sabiedrību no atbildības, kas noteikta likumā vai līgumā ar to klientiem. Ārpakalpojuma saņēmējs ir atbildīgs par ārpakalpojumu sniedzēja veikumu tādā pašā mērā kā par savu veikumu.
 (2¹) Komisijai ir tiesības pieprasīt no ārpakalpojuma saņēmēja informāciju, kas saistīta ar ārpakalpojuma sniegšanu vai kas nepieciešama Komisijas funkciju veikšanai.
 (3) Komisijai ir tiesības pieprasīt, lai ārpakalpojuma saņēmējs novērš trūkumus, kas radušies, saņemot ārpakalpojumu, un noteikt šo trūkumu novēršanas termiņus. Ja Komisijas noteiktajā termiņā trūkumi netiek novērsti, Komisija pieprasa, lai ārpakalpojuma saņēmējs pārtrauc ārpakalpojuma līgumu, un nosaka tā pārtraukšanas termiņu.
 (4) Komisija ir tiesīga pieprasīt, lai ārpakalpojuma saņēmējs nekavējoties izbeidz spēkā esošo ārpakalpojuma līgumu, ja tā konstatē:

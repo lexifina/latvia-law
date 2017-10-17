@@ -1,2 +1,2 @@
 E sadaļa
-Latvijas Centrālais depozitārijs
+Centrālais vērtspapīru depozitārijs

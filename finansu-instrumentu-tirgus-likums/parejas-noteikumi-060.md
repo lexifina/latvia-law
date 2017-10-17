@@ -1,0 +1,1 @@
+60. Centrālais vērtspapīru depozitārijs un tā dalībnieks līdz 2019. gada 1. jūlijam nodrošina šā likuma 93. panta otrajā daļā noteikto prasību izpildi attiecībā uz līgumiem, kas noslēgti starp centrālo vērtspapīru depozitāriju un tā dalībnieku.

@@ -1,6 +1,6 @@
 54.³ pants. Akcionāra piedalīšanās akcionāru sapulcē
 (1) Tiesības piedalīties akcionāru sapulcē ir tiem akcionāriem, kuriem ieraksta datumā pieder akcijas.
-(2) Kārtību, kādā akciju sabiedrība akcionāru saraksta sastādīšanai noskaidro akcionārus, kuriem ieraksta datumā pieder akcijas, nosaka Latvijas Centrālais depozitārijs.
+(2) Kārtību, kādā akciju sabiedrība akcionāru saraksta sastādīšanai noskaidro akcionārus, kuriem ieraksta datumā pieder akcijas, nosaka centrālais vērtspapīru depozitārijs.
 (3) Akciju sabiedrība statūtos var paredzēt akcionāriem tiesības:
 1) piedalīties un balsot akcionāru sapulcē, izmantojot elektroniskos līdzekļus;
 2) balsot pa pastu par akcionāru sapulces darba kārtībā iekļautajiem jautājumiem, savu balsojumu akciju sabiedrībai nosūtot pirms akcionāru sapulces.

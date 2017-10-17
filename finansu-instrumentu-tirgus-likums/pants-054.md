@@ -1,7 +1,7 @@
 54.pants. Pienākumi kapitālsabiedrībai, kuras pārvedami vērtspapīri iekļauti regulētajā tirgū
 (1) Kapitālsabiedrības pārvaldes institūcijas nodrošina vienādu attieksmi pret visām personām, kurām pieder viena veida un vienas kategorijas pārvedami vērtspapīri.
 (1¹) Šā panta otrā, 2.¹, sestā, desmitā, vienpadsmitā, divpadsmitā un trīspadsmitā daļa attiecas uz kapitālsabiedrību, kuras akcijas ir iekļautas regulētajā tirgū.
-(1²) Šā likuma 54.², 54.³, 54.⁴ un 54.⁵ pants attiecas uz akciju sabiedrību, kuras akcijas ir iekļautas regulētajā tirgū, un tās akcionāriem.
+(1²) Šā likuma 54.², 54.³, 54.⁴, 54.⁵ un 54.⁶ pants attiecas uz akciju sabiedrību, kuras akcijas ir iekļautas regulētajā tirgū, un tās akcionāriem.
 (2) Lai akcionāri varētu izmantot savas tiesības, akciju sabiedrības valde nodrošina, ka šīs sabiedrības akcionāriem ir pieejama visa informācija un sniegtie dati ir patiesi. Akciju sabiedrības valde nodrošina vismaz ar informāciju par:
 1) akcionāru sapulces vietu, laiku un darba kārtību, kopējo balsstiesīgo akciju skaitu un akcionāru tiesībām piedalīties akcionāru sapulcē. Kopā ar paziņojumu par akcionāru sapulces sasaukšanu akciju sabiedrības valde akcionāriem nodrošina pilnvaras veidlapu;
 2) dividenžu piešķiršanu un izmaksu;

@@ -1,9 +1,10 @@
 73.pants. Informācijas atklāšana par akciju atpirkšanas piedāvājumu
 (1) Persona, kas pieņēmusi lēmumu izteikt brīvprātīgo akciju atpirkšanas piedāvājumu, vai persona, kurai saskaņā ar šā likuma noteikumiem ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, pēc lēmuma pieņemšanas vai attiecīgo apstākļu iestāšanās nekavējoties informē par to mērķa sabiedrības valdi.
 (2) Piedāvātājs ir tiesīgs izteikt akciju atpirkšanas piedāvājumu tikai pēc tam, kad Komisija pieņēmusi lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu.
-(3) Piedāvātājs pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, nekavējoties rakstveidā informē mērķa sabiedrību par piedāvājuma noteikumiem un nodrošina tās valdei iespēju iepazīties ar piedāvājuma prospektu.
+(3) Piedāvātājs pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, nekavējoties rakstveidā informē mērķa sabiedrību par piedāvājuma noteikumiem un nodrošina tās valdei iespēju iepazīties ar piedāvājuma prospektu, kā arī iesniedz informāciju par piedāvājumu centrālajam vērtspapīru depozitārijam, kurā ir iegrāmatotas mērķa sabiedrības akcijas, centrālā vērtspapīru depozitārija noteiktajā apjomā un kārtībā.
 (4) Piedāvātājs piecu darbdienu laikā pēc tam, kad saņēmis Komisijas lēmumu par atļauju izteikt akciju atpirkšanas piedāvājumu, publicē oficiālajā izdevumā "Latvijas Vēstnesis" šādu informāciju par akciju atpirkšanas piedāvājumu:
 1) šā likuma 71.panta 1., 2., 5. un 7.punktā minēto informāciju;
-2) vietu un laiku, kur un kad iespējams iepazīties ar akciju atpirkšanas piedāvājuma prospektu.
+2) vietu un laiku, kur un kad iespējams iepazīties ar akciju atpirkšanas piedāvājuma prospektu;
+3) ievērojot prospektā norādītos piedāvājuma un maksājuma termiņus, - datumus, kad piedāvājums noslēgsies, kad tiks paziņoti piedāvājuma rezultāti un kad notiks norēķini.
 (5) Piedāvātājs, kurš izsaka brīvprātīgo akciju atpirkšanas piedāvājumu saskaņā ar šā likuma 67.panta otrās daļas noteikumiem, publikācijā norāda arī minimālo vai maksimālo akciju skaitu, ko tas plāno atpirkt.
 (6) Piedāvātājs, kurš atbilstoši šā likuma 67.panta piektās daļas noteikumiem neatpirks akcijas, ja mērķa sabiedrības akcionāri nepieņems piedāvājumu vismaz minimālajā akciju atpirkšanas piedāvājuma prospektā noteiktajā apjomā, to nepārprotami norāda publikācijā.

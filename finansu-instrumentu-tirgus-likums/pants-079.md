@@ -1,5 +1,5 @@
 79.pants. Ziņošana par akciju atpirkšanas piedāvājuma rezultātiem
-(1) Piedāvātājs piecu darbdienu laikā pēc piedāvājuma termiņa beigām iesniedz Komisijai, attiecīgajam tirgus organizētājam un mērķa sabiedrībai ziņojumu par piedāvājuma rezultātiem, kurā norāda:
+(1) Piedāvātājs nekavējoties, bet ne vēlāk kā piecu darbdienu laikā pēc piedāvājuma termiņa beigām iesniedz Komisijai, attiecīgajam tirgus organizētājam un mērķa sabiedrībai ziņojumu par piedāvājuma rezultātiem, kurā norāda:
 1) šā likuma 71.panta 1. un 2.punktā minēto informāciju;
 2) pārdošanai piedāvāto akciju skaitu;
 3) akciju skaitu, kas pēc akciju atpirkšanas piedāvājuma izpildes būs piedāvātāja rīcībā.

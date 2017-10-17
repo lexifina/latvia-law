@@ -5,11 +5,11 @@ Akciju atpirkšanas piedāvājuma prospektā norāda:
 a) fiziskajām personām - vārdu, uzvārdu, personas kodu (ja tāds ir) vai dzimšanas gadu un datumu,
 b) juridiskajām personām - firmu, reģistrācijas numuru, datumu un vietu, kā arī juridisko adresi;
 3) piedāvājuma veidu (obligātais vai brīvprātīgais). Ja izteikts obligātais akciju atpirkšanas piedāvājums, norāda, kurš no normatīvajos aktos minētajiem nosacījumiem attiecīgā piedāvājuma izteikšanai ir iestājies;
-4) akciju ISIN kodu (unikāla burtu vai ciparu kombinācija, ko Latvijas Centrālais depozitārijs pirms iegrāmatošanas piešķir finanšu instrumentiem, lai tos identificētu) un, ja izteikts brīvprātīgais akciju atpirkšanas piedāvājums, maksimālo vai minimālo akciju skaitu (daļu procentos no akciju kopskaita), ko piedāvātājs apņemas iegādāties;
-5) vienas akcijas atpirkšanas cenu un tās noteikšanai izmantotās metodes (ja izteikts obligātais vai galīgais akciju atpirkšanas piedāvājums);
+4) akciju ISIN kodu (unikāla burtu vai ciparu kombinācija, ko centrālais vērtspapīru depozitārijs pirms iegrāmatošanas piešķir finanšu instrumentiem, lai tos identificētu) un, ja izteikts brīvprātīgais akciju atpirkšanas piedāvājums, maksimālo vai minimālo akciju skaitu (daļu procentos no akciju kopskaita), ko piedāvātājs apņemas iegādāties;
+5) vienas akcijas atpirkšanas cenu un tās noteikšanai izmantotās metodes (ja izteikts obligātais akciju atpirkšanas piedāvājums);
 6) informāciju par akciju apmaksas un maiņas kārtību un termiņiem, bet gadījumos, ja kā atlīdzība par akcijām tiek piedāvāti citi finanšu instrumenti, - informāciju par šiem finanšu instrumentiem;
-7) piedāvājuma termiņu;
-8) kārtību, kādā mērķa sabiedrības akcionāri var pieņemt piedāvājumu, atsevišķi norādot kārtību, kādā piedāvājumu var pieņemt:
+7) piedāvājuma termiņu un termiņu, kad tiks paziņoti piedāvājuma rezultāti;
+8) kārtību, kādā mērķa sabiedrības akcionāri var pieņemt piedāvājumu un atsaukt pieņemto piedāvājumu, atsevišķi norādot kārtību, kādā piedāvājumu var pieņemt:
 a) personas, kurām pieder publiskajā apgrozībā esošas mērķa sabiedrības akcijas,
 b) personas, kurām pieder publiskajā apgrozībā neesošas mērķa sabiedrības akcijas;
 9) piedāvātāja nodomus par mērķa sabiedrības turpmāko darbību, darba vietu saglabāšanu, ieskaitot visas būtiskās izmaiņas nodarbinātības nosacījumos, piedāvātāja komercsabiedrību (ja piedāvātājs ir juridiskā persona un piedāvājums ietekmē tā turpmāko darbību) un stratēģiskos plānus attiecībā uz abām komercsabiedrībām un to iespējamo ietekmi uz mērķa sabiedrības un piedāvātāja komercsabiedrības nodarbinātību un komercsabiedrības atrašanās vietas maiņu;

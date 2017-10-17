@@ -1,0 +1,1 @@
+61. Līdz 2017. gada 31. decembrim centrālā vērtspapīru depozitārija dalībnieks tiek uzskatīts par vērtspapīru konta turētāju likuma "Par iedzīvotāju ienākuma nodokli" izpratnē, kura pienākums ir ieturēt iedzīvotāju ienākuma nodokli no akciju turētājam vai starpniekam izmaksātajām dividendēm par publiskā apgrozībā esošām akcijām un ieskaitīt to valsts budžetā.

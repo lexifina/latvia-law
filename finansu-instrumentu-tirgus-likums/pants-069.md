@@ -2,7 +2,7 @@
 (1) Lai nodrošinātu mērķa sabiedrības akcionārus ar pietiekamu informāciju pamatota lēmuma pieņemšanai par piedāvājumu, piedāvātājs sagatavo un iesniedz Komisijai akciju atpirkšanas piedāvājuma prospektu.
 (2) Piedāvātājs piedāvā visiem vienas kategorijas mērķa sabiedrības akciju īpašniekiem vienādus akciju atsavināšanas noteikumus.
 (3) Akciju atpirkšanas piedāvājuma termiņš nedrīkst būt īsāks par 30 dienām un garāks par 70 dienām, skaitot no tā izteikšanas dienas. Ja brīvprātīgā akciju atpirkšanas piedāvājuma laikā tiek nolemts sasaukt mērķa sabiedrības akcionāru sapulci, kuras darba kārtībā ir iekļauts jautājums par izteikto akciju atpirkšanas piedāvājumu, piedāvājuma termiņš tiek pagarināts par laiku, kas nepieciešams sapulces sasaukšanai, bet tas nedrīkst pārsniegt 70 dienas.
-(4) Obligātā un galīgā akciju atpirkšanas piedāvājuma termiņā nedrīkst:
+(4) Obligātā akciju atpirkšanas piedāvājuma termiņā vai veicot galīgo akciju atpirkšanu nedrīkst:
 1) aprēķināt mērķa sabiedrības dividendes;
 2) mainīt mērķa sabiedrības akciju nominālvērtību;
 3) apvienot un dalīt mērķa sabiedrības akciju emisijas.
