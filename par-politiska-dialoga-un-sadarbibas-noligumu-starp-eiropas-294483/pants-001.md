@@ -1,0 +1,1 @@
+1. pants. 2016. gada 12. decembrī parakstītais Politiskā dialoga un sadarbības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kubas Republiku, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
