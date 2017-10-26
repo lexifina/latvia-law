@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada rudens sesija",
+ "sede": 14,
+ "datums": "2017-10-26",
+ "ieraksts": {
+  "dkp_id": "33c733a1-69bb-4d4b-a14b-0541c90a0227",
+  "lastmodtime": "\"AAAAAAF9LrE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Edvīns#Romualds#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Einārs#Jānis#Mihails#Astrīda#Askolds#Inese#Ainars#Guntis#Jānis#Artuss#Raimonds#Inese#Armands#Valdis#Veiko#Jānis#Igors#Jānis#Ints#Valdis#Silvija#Boriss#Ringolds#Inguna#Romāns#Renārs#Ilmārs#Augusts#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Aleksandrs#Vitālijs#Gunārs#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Ivars#Aivars#Aija#Jeļena#Mārtiņš#Līga#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Harju#Kļaviņš#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Lībiņa-Egnere#Krauze#Skujiņš#Spolītis#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Cilevičs#Balodis#Rībena#Mežeckis#Putniņš#Latkovskis#Brigmanis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Jakimovs#Orlovs#Kūtris#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Meija#Barča#Lazareva#Šics#Kozlovska#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "##############################################################################",
+  "FRACTION": "LRA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK# #LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #VIENOTĪBA#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #SASKAŅA #VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#NSL#SASKAŅA #NSL#VL-TB/LNNK#NSL#VIENOTĪBA# #ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#NSL#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "26.10.2017 11:06:02",
+  "VOTEMOTIVE": "Par neapmaksāta atvaļinājuma piešķiršanu deputātam Gaidim Bērziņam no šā gada 14.novembra līdz 16.novembrim",
+  "VOTING_ID": "a2d1e8cc-8e11-4fe7-80eb-0a3a339cf963",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "61",
+  "VOTERESULT_REGISTERED": "79",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada rudens sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/bf38e064-7ade-42fe-b048-50c5a959e049/download/12.saeimas-2017.gada-rudens-sesija-14-vote.xml",
+  "sha256": "f354899c69dc0f46f41135b2fda2b9db843c470bb379f0137c50c8c33a3e6907",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
