@@ -1,1 +1,0 @@
-16. Šā likuma 35.panta piektā daļa, kas nosaka B kategorijas transportlīdzekļa vadītāja minimālo stāžu, kāds nepieciešams, lai veiktu komercpārvadājumus ar vieglo taksometru, stājas spēkā 2007.gada 1.jūlijā.

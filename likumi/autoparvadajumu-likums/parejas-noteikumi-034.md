@@ -1,0 +1,1 @@
+34. Līdz 2018. gada 31. maijam personas, kuras vada transportlīdzekli, veicot pasažieru komercpārvadājumus ar taksometru, nodrošina savas darbības atbilstību šā likuma 35. panta astotajā daļā (redakcijā, kas stājas spēkā 2018. gada 1. martā) minētajām prasībām.

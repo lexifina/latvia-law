@@ -1,0 +1,1 @@
+35. Līdz 2018. gada 31. maijam personas, kuras sniedz pasažieru komercpārvadājumus ar vieglo automobili, nodrošina savas darbības atbilstību šā likuma 35. pantā (redakcijā, kas stājas spēkā 2018. gada 1. martā) minētajām prasībām.
