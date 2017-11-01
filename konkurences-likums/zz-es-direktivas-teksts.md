@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2014. gada 26. novembra direktīvas 2014/104/ES par atsevišķiem noteikumiem, kuri valstu tiesībās reglamentē zaudējumu atlīdzināšanas prasības par dalībvalstu un Eiropas Savienības konkurences tiesību pārkāpumiem.

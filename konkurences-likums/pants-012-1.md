@@ -1,5 +1,5 @@
 12.¹ pants. Iecietības programma
-(1) Iecietības programma tirgus dalībniekam ļauj par karteļa vienošanās atklāšanu saņemt atbrīvojumu no naudas soda vai par sadarbošanos karteļa vienošanās aizlieguma pārkāpuma lietas izmeklēšanā - naudas soda samazinājumu.
+(1) Iecietības programma tirgus dalībniekam ļauj par slepena karteļa vienošanās atklāšanu, kas veikta neatkarīgi no citiem kartelī iesaistītajiem tirgus dalībniekiem un sadarbībā ar konkurences iestādi tās izmeklēšanā, kā arī brīvprātīgi sniedzot sev zināmo informāciju par karteli un savu lomu tajā, saņemt atbrīvojumu no naudas soda vai naudas soda samazinājumu.
 (2) Konkurences padome atbrīvo no naudas soda par karteļa vienošanās aizlieguma pārkāpumu, ja:
 1) tirgus dalībnieks pirmais iesniedz pierādījumus un citas ar karteļa vienošanās aizlieguma pārkāpumu saistītas ziņas par faktiem un apstākļiem, kas ir pietiekami lietas ierosināšanai vai karteļa vienošanās aizlieguma pārkāpuma konstatēšanai;
 2) tirgus dalībnieks nav veicis darbības, lai piespiestu citus tirgus dalībniekus piedalīties kartelī vai turpināt dalību tajā;

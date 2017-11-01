@@ -1,1 +1,1 @@
-Informatīva atsauce uz Padomes regulu
+Informatīva atsauce uz Eiropas Savienības direktīvu
