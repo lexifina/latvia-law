@@ -1,7 +1,7 @@
 478.pants. Pieteikuma iesniegšana
 (1) Lietas jaunu izskatīšanu sakarā ar jaunatklātiem apstākļiem ierosina pēc lietas dalībnieka pieteikuma. Pieteikumu iesniedz tajā pašā tiesā, ar kuras spriedumu vai lēmumu pabeigta lietas izskatīšana pēc būtības.
 (2) Pieteikumu var iesniegt triju mēnešu laikā no dienas, kad konstatēti apstākļi, kas ir par pamatu lietas jaunai izskatīšanai.
-(3) Pieteikumu nevar iesniegt, ja kopš sprieduma vai lēmuma spēkā stāšanās pagājuši vairāk nekā 10 gadi.
+(3) Pieteikumu nevar iesniegt, ja kopš sprieduma vai lēmuma spēkā stāšanās pagājuši vairāk nekā 10 gadi. Šis nosacījums neattiecas uz gadījumiem, kad jaunatklātie apstākļi ir Eiropas Cilvēktiesību tiesas vai citas starptautiskas vai pārnacionālas tiesas nolēmums (479. panta 6. punkts).
 (3¹) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam, atmaksājot drošības naudu.
 (4) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja:
 1) pieteikumam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar pieteikumu tiesā;
