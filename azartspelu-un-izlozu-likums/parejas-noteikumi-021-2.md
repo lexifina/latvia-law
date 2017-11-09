@@ -1,0 +1,1 @@
+21. Attiecībā uz šā likuma 36. panta otrajā daļā minētajiem darījumiem, kas veikti līdz dienai, kad stājas spēkā grozījumi šā likuma 36. pantā par tā otrās daļas izslēgšanu, azartspēles organizētājs nodrošina personu (spēlētāju) identificējošo datu un ar šo personu veikto darījumu apliecinošo dokumentu saglabāšanu ne mazāk kā piecus gadus.
