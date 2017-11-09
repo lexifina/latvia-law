@@ -1,0 +1,2 @@
+37.² pants. Klientu izpētes dokumentu un informācijas sniegšana Kontroles dienestam, uzraudzības un kontroles institūcijām
+Likuma subjekts dokumentē klienta izpētes pasākumus, kā arī informāciju par visiem klienta veiktajiem un saņemtajiem maksājumiem un pēc uzraudzības un kontroles institūcijas vai Kontroles dienesta pieprasījuma tajā noteiktajā termiņā uzrāda šos dokumentus likuma subjekta uzraudzības un kontroles institūcijai vai iesniedz šo dokumentu kopijas Kontroles dienestam.

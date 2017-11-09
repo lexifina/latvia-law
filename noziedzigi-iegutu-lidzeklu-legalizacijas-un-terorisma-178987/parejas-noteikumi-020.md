@@ -1,0 +1,1 @@
+20. Komercsabiedrība, kura komercreģistram ir iesniegusi paziņojumu par patieso labuma guvēju saskaņā ar Komerclikuma 17.¹ pantu un kurai šis patiesais labuma guvējs nav mainījies līdz šā likuma 18.² panta spēkā stāšanās dienai, iesniedz trūkstošo šā likuma 18.¹ panta ceturtajā daļā minēto informāciju par patieso labuma guvēju līdz 2018. gada 1. februārim.

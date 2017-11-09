@@ -1,5 +1,14 @@
-6.pants. Pienākums izveidot iekšējās kontroles sistēmu
-(1) Likuma subjekts - juridiskā persona - atbilstoši savam darbības veidam veic pasākumus, lai noskaidrotu, novērtētu un izprastu savai darbībai un klientiem piemītošo noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku un, pamatojoties uz veikto riska analīzi, izveido noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmu, tai skaitā izstrādājot un dokumentējot attiecīgas politikas un procedūras.
+6. pants. Pienākums veikt risku novērtējumu un izveidot iekšējās kontroles sistēmu
+(1) Likuma subjekts atbilstoši savam darbības veidam veic un dokumentē noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtējumu, lai noskaidrotu, novērtētu, izprastu un pārvaldītu savai darbībai un klientiem piemītošos noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riskus, un, pamatojoties uz šo novērtējumu, izveido noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmu, tai skaitā izstrādājot un dokumentējot attiecīgās politikas un procedūras, kuras apstiprina likuma subjekta valde, ja tā ir iecelta, vai likuma subjekta augstākā pārvaldes institūcija.
+(1¹) Likuma subjekts, veicot risku novērtējumu un veidojot iekšējās kontroles sistēmu, ņem vērā:
+1) riskus, kurus identificējusi Eiropas Komisija Eiropas Savienības risku novērtējumā;
+2) riskus, kuri identificēti nacionālajā noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtēšanas ziņojumā;
+3) citus attiecīgā likuma subjekta darbībai raksturīgus riskus.
+(1²) Likuma subjekts, veicot noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtējumu un veidojot iekšējās kontroles sistēmu, ņem vērā vismaz šādus riskus ietekmējošus apstākļus:
+1) klienta risku, kas piemīt klienta juridiskajai formai, īpašnieku struktūrai, klienta vai klienta patiesā labuma guvēja saimnieciskajai vai personiskajai darbībai;
+2) valsts un ģeogrāfisko risku, proti, risku, ka klients vai klienta patiesais labuma guvējs ir saistīts ar valsti vai teritoriju, kuras ekonomiskie, sociālie, tiesiskie vai politiskie apstākļi var liecināt par valstij piemītošu augstu noziedzīgi iegūtu līdzekļu legalizācijas vai terorisma finansēšanas risku;
+3) klienta izmantoto pakalpojumu un produktu risku, proti, risku, ka klients var attiecīgo pakalpojumu vai produktu izmantot noziedzīgi iegūtu līdzekļu legalizācijai vai terorisma finansēšanai;
+4) pakalpojumu un produktu piegādes kanālu risku, kas saistīts ar veidu (kanālu), kādā klients pakalpojumu vai produktu iegūst un izmanto.
 (2) Iekšējās kontroles sistēma ir pasākumu kopums, kas ietver uz likuma prasību izpildes nodrošināšanu vērstas darbības, paredzot tam atbilstošus resursus un veicot darbinieku apmācību, lai pēc iespējas novērstu likuma subjekta iesaistīšanu noziedzīgi iegūtu līdzekļu legalizācijā vai terorisma finansēšanā.
-(3) Izveidojot iekšējās kontroles sistēmu, kredītiestāde, apdrošināšanas sabiedrība un ieguldījumu brokeru sabiedrība ievēro Kredītiestāžu likuma, Finanšu instrumentu tirgus likuma, Apdrošināšanas sabiedrību un to uzraudzības likuma un uz to pamata izdoto normatīvo aktu prasības.
-(4) Šā panta pirmās, otrās un trešās daļas prasības nav piemērojamas šā likuma 3.panta pirmās daļas 9.punktā minētajiem likuma subjektiem neatkarīgi no šo subjektu tiesiskā statusa.
+(3) Izveidojot iekšējās kontroles sistēmu, kredītiestāde, apdrošināšanas sabiedrība un ieguldījumu brokeru sabiedrība ievēro Kredītiestāžu likuma, Finanšu instrumentu tirgus likuma, Apdrošināšanas un pārapdrošināšanas likuma un uz to pamata izdoto normatīvo aktu prasības.
+(4) (Izslēgta ar 26.10.2017. likumu)

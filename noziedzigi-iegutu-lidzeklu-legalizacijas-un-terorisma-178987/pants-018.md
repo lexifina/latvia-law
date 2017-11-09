@@ -1,11 +1,16 @@
-18.pants. Patiesā labuma guvēja noskaidrošana
-(1) Likuma subjekts noskaidro klienta patieso labuma guvēju juridiskajām un fiziskajām personām, ja ir zināms vai rodas aizdomas, ka darījums tiek veikts citas personas interesēs vai uzdevumā.
-(2) Likuma subjekts pirms darījuma attiecību uzsākšanas noskaidro patieso labuma guvēju, iegūstot par to vismaz šādu informāciju:
-1) par rezidentu - vārds, uzvārds, personas kods;
-2) par nerezidentu - vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi.
+18. pants. Patiesā labuma guvēja noskaidrošana un pārliecināšanās par noskaidrotā patiesā labuma guvēja atbilstību
+(1) Likuma subjekts gadījumos, kad saskaņā ar šā likuma prasībām veicama klienta izpēte, noskaidro klienta patieso labuma guvēju un, balstoties uz risku novērtējumu, veic nepieciešamos pasākumus, lai pārliecinātos, ka noskaidrotais patiesais labuma guvējs ir klienta patiesais labuma guvējs.
+(2) Likuma subjekts noskaidro klienta patieso labuma guvēju, iegūstot par to vismaz šādu informāciju:
+1) par rezidentu - vārds, uzvārds, personas kods, dzimšanas datums, mēnesis un gads, valstspiederība, pastāvīgās dzīvesvietas valsts, kā arī personai piederošo tiešā vai netiešā veidā kontrolēto klienta kapitāla daļu vai akciju, tai skaitā tiešās vai netiešās līdzdalības, īpatsvars kopējā skaitā, kā arī tieši vai netieši īstenojamās klienta kontroles veids;
+2) par nerezidentu - vārds, uzvārds, dzimšanas datums, mēnesis un gads, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi, valstspiederība, pastāvīgās dzīvesvietas valsts, kā arī personai piederošo tiešā vai netiešā veidā kontrolēto klienta kapitāla daļu vai akciju, tai skaitā tiešās vai netiešās līdzdalības, īpatsvars kopējā skaitā, kā arī tieši vai netieši īstenojamās klienta kontroles veids.
 (3) Likuma subjekts noskaidro klienta patieso labuma guvēju vismaz vienā no šādiem veidiem:
-1) saņemot klienta parakstītu paziņojumu par patieso labuma guvēju;
+1) saņemot klienta apstiprinātu paziņojumu par patieso labuma guvēju;
 2) izmantojot ziņas vai dokumentus no Latvijas Republikas vai ārvalsts informācijas sistēmām;
-3) pats noskaidrojot patieso labuma guvēju, ja ziņas par to nevar iegūt citādi.
-(4) Likuma subjekts, balstoties uz klienta riska izvērtējumu, veic nepieciešamos pasākumus, lai pārliecinātos, ka sākotnēji noskaidrotais patiesais labuma guvējs ir klienta patiesais labuma guvējs.
-(5) Apdrošināšanas komersants un apdrošināšanas brokeris ir tiesīgs pārliecināties, ka klienta norādītais patiesais labuma guvējs ir patiesais labuma guvējs arī pēc darījuma attiecību uzsākšanas, bet ne vēlāk kā brīdī, kad labuma guvējs sāk izmantot tam apdrošināšanas līgumā noteiktās tiesības.
+3) patstāvīgi noskaidrojot patieso labuma guvēju, ja ziņas par to nevar iegūt citādi.
+(4) Ja klienta vai vairāku klientu, kuriem ir viens patiesais labuma guvējs, kopējais kredīta apgrozījums pēdējo 12 kalendāra mēnešu periodā pārsniedz 10 miljonus euro, likuma subjekts ne vēlāk kā 45 kalendāra dienu laikā no brīža, kad ir pārsniegts minētais limits, iegūst klienta patiesā labuma guvēja parakstītu apliecinājumu, ka tas ir klienta patiesais labuma guvējs, šādos gadījumos:
+1) klients vai klienta patiesais labuma guvējs ir politiski nozīmīga persona, politiski nozīmīgas personas ģimenes loceklis, ar politiski nozīmīgu personu cieši saistīta persona;
+2) klients ir čaulas veidojums;
+3) klients izmanto privātbaņķiera pakalpojumus.
+(5) Atsaucoties uz šā panta ceturtajā daļā noteikto, klienta parakstīts patiesā labuma guvēja apliecinājums neatbrīvo likuma subjektu no pienākuma, balstoties uz risku novērtējumu, veikt citus nepieciešamos pasākumus, lai pārliecinātos, ka noskaidrotais patiesais labuma guvējs ir klienta patiesais labuma guvējs.
+(6) Apdrošināšanas komersants, ciktāl tas veic dzīvības apdrošināšanas vai citas ar līdzekļu uzkrāšanu saistītas apdrošināšanas darbības, un apdrošināšanas starpnieks, ciktāl tas sniedz dzīvības apdrošināšanas vai citus ar līdzekļu uzkrāšanu saistītus apdrošināšanas pakalpojumus, ir tiesīgs pārliecināties, ka klienta norādītais patiesais labuma guvējs ir klienta patiesais labuma guvējs arī pēc darījuma attiecību uzsākšanas, bet ne vēlāk kā brīdī, kad persona, kura gūst labumu, sāk izmantot tai apdrošināšanas līgumā noteiktās tiesības.
+(7) Likuma subjekts, atbilstoši pamatojot un dokumentējot darbības, kas veiktas, lai noskaidrotu patieso labuma guvēju, par juridiskās personas vai juridiska veidojuma patieso labuma guvēju var uzskatīt personu, kura ieņem augstākās pārvaldības institūcijā amatu šajā juridiskajā personā vai juridiskā veidojumā, ja ir izmantoti visi iespējamie noskaidrošanas līdzekļi un nav iespējams noskaidrot nevienu fizisko personu - patieso labuma guvēju šā likuma 1. panta 5. punkta izpratnē, kā arī izslēgtas šaubas, ka juridiskajai personai vai juridiskam veidojumam ir cits patiesais labuma guvējs.

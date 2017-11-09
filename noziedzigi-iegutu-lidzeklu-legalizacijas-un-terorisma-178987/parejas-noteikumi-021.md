@@ -1,0 +1,1 @@
+21. Šā likuma 18.² pants stājas spēkā 2017. gada 1. decembrī. Latvijas Republikas Uzņēmumu reģistrs līdz 2018. gada 1. janvārim, nepieņemot atsevišķu lēmumu, reģistrē komercreģistrā ziņas, kas par komercsabiedrību patiesajiem labuma guvējiem iesniegtas saskaņā ar Komerclikuma 17.¹ pantu.

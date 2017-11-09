@@ -1,0 +1,1 @@
+26. Nacionālo noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtēšanas ziņojumu likuma subjekti attiecībā uz vienkāršotu klienta izpēti, kas noteikta šā likuma 26. pantā, ņem vērā, sākot ar 2018. gada 1. jūliju.

@@ -1,2 +1,2 @@
 III nodaļa
-Klienta identifikācija un izpēte
+Klienta izpēte

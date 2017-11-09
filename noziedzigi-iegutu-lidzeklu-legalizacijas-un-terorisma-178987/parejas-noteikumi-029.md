@@ -1,0 +1,1 @@
+29. Ministru kabinets līdz 2018. gada 1. jūlijam izdod šā likuma 47. panta ceturtajā daļā minētos noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas uzraudzības un kontroles noteikumus attiecībā uz šā likuma 45. panta 2.¹ daļā minētajiem likuma subjektiem.
