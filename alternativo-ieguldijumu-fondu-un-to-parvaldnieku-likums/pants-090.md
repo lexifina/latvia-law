@@ -9,7 +9,7 @@
 (2) Par alternatīvo ieguldījumu fondu pārvaldi bez Komisijas licences saņemšanas vai pārvaldnieka reģistrācijas Komisija personai uzliek soda naudu no 14 200 līdz 142 300 euro.
 (3) Par fondu ieguldījumu daļu izplatīšanu bez Komisijas atļaujas vai par ieguldījumu daļu izplatīšanas noteikumu pārkāpumiem Komisijai ir tiesības personai uzlikt soda naudu no 1400 līdz 14 200 euro.
 (4) Par ieguldījumu daļu izplatīšanu personai, kura nav ieguldītājs šā likuma izpratnē, Komisijai ir tiesības ieguldījumu daļu izplatītājam uzlikt soda naudu no 1400 līdz 14 200 euro.
-(5) Par darbībām, kuru rezultātā ir pārkāptas normatīvo aktu prasības par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu, Komisija pārvaldniekam uzliek soda naudu no 7100 līdz 142 300 euro.
+(5) Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.
 (6) Komisijai ir tiesības uzlikt personai soda naudu no 14 200 līdz 142 300 euro, ja persona ieguvusi vai palielinājusi būtisku līdzdalību pārvaldniekā pirms šā likuma 12.panta otrajā vai ceturtajā daļā minētā paziņojuma iesniegšanas Komisijai vai tā izskatīšanas laikā.
 (7) Ja persona nesniedz Komisijai informāciju vai neierodas Komisijā un nesniedz informāciju klātienē pēc šā likuma 81.panta septītās daļas 8.punktā minētā Komisijas pieprasījuma, Komisijai ir tiesības izteikt šai personai brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
 (8) Par Regulas Nr. 345/2013 21.pantā vai Regulas Nr. 346/2013 22.pantā minētajiem pārkāpumiem Komisijai ir tiesības uzlikt pārvaldniekam soda naudu no 14 200 līdz 142 300 euro.
