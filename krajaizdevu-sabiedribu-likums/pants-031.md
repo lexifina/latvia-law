@@ -7,6 +7,7 @@
 5) uzlikt soda naudu;
 6) iecelt krājaizdevu sabiedrībā vienu vai vairākas personas (Komisijas ieceltās personas);
 7) noteikt krājaizdevu sabiedrībai noguldījumu saistību izpildes ierobežojumus.
+(1¹) Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.
 (2) Lēmumu par noguldījumu saistību izpildes ierobežojumu noteikšanu Komisija var pieņemt vienīgi attiecībā uz krājaizdevu sabiedrību, kura šā lēmuma pieņemšanas dienā spēj apmierināt savu kreditoru pieteiktos likumīgos prasījumus. Šādu lēmumu var pieņemt arī pēc attiecīgās krājaizdevu sabiedrības lūguma.
 (3) Lēmumā par noguldījumu saistību izpildes ierobežojumu noteikšanu norāda ierobežojumu veidus un darbības laiku, kas nedrīkst pārsniegt 12 mēnešus.
 (4) Komisija var dot krājaizdevu sabiedrībai saistošus norādījumus par to, kā izpildāms lēmums par noguldījumu saistību izpildes ierobežojumu noteikšanu.
