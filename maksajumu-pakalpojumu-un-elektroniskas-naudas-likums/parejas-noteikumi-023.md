@@ -1,1 +1,1 @@
-23. Šā likuma 46.¹ panta pirmajā daļā minēto informāciju Patērētāju tiesību aizsardzības centram maksājumu pakalpojumu sniedzējs pirmo reizi iesniedz līdz 2018. gada 1. janvārim.
+23. Šā likuma 46.¹ panta pirmajā daļā minēto informāciju Patērētāju tiesību aizsardzības centram maksājumu pakalpojumu sniedzējs pirmo reizi iesniedz ne vēlāk kā sešus mēnešus pēc šā likuma 60.¹ panta pirmajā daļā minēto Komisijas normatīvo noteikumu spēkā stāšanās dienas.
