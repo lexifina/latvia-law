@@ -1,0 +1,1 @@
+93.² pants. Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.
