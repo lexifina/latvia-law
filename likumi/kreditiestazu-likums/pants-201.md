@@ -1,1 +1,1 @@
-201.pants. Par šā likuma 198., 198.¹ un 199.pantā minētajiem pārkāpumiem iekasētās soda naudas tiek ieskaitītas valsts budžetā. Par šā likuma 198.¹ pantā minētajiem pārkāpumiem iekasēto soda naudu izlietošanu nosaka gadskārtējais valsts budžeta likums.
+201. pants. Par šā likuma 198. un 199. pantā minētajiem pārkāpumiem iekasētās soda naudas tiek ieskaitītas valsts budžetā.
