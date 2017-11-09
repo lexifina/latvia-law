@@ -12,7 +12,7 @@
 10) (izslēgts ar 30.03.2017. likumu);
 11) par to, ka ir pārkāptas šā likuma un Eiropas Komisijas regulas Nr. 583/2010 prasības par ieguldītājiem paredzētās pamatinformācijas sagatavošanu.
 (1¹) (Izslēgta ar 30.03.2017. likumu)
-(1²) Par darbībām, kuru rezultātā ir pārkāptas normatīvo aktu prasības par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu, Komisija sabiedrībai uzliek soda naudu no 7100 līdz 142 300 euro.
+(1²) Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.
 (1³) Komisija ir tiesīga piemērot sankcijas un uzraudzības pasākumus par šādiem pārkāpumiem:
 1) persona ir tieši vai netieši ieguvusi, izbeigusi vai samazinājusi, vai palielinājusi būtisku līdzdalību sabiedrībā, neievērojot šā likuma 7.¹ pantā noteikto kārtību, vai ja sabiedrība, līdzko ir uzzinājusi par līdzdalības sabiedrībā iegūšanu vai izbeigšanu, sasniedzot, pārsniedzot vai samazinot šā likuma 7.¹ panta ceturtajā daļā noteikto līdzdalības apmēru, nav par to paziņojusi Komisijai;
 2) sabiedrība ir ieguvusi licenci sabiedrības darbībai, sniedzot nepatiesu informāciju vai citā prettiesiskā veidā;
