@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 14.noteikumi Nr.671 \"Dzeramā ūdens obligātās nekaitīguma un kvalitātes prasības, monitoringa un kontroles kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "228 (6055)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-16",
+  "entry_into_force": "2017-11-17",
+  "notification_date": "2017-11-17",
+  "commission_reference": "MNE(2017)56439",
+  "nim_celex": "72015L1787LVA_252765",
+  "nim_id": "252765",
+  "transposes_celex": [
+    "32015L1787"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d49872c-0cf8-4118-8e9b-c51b6c2a5298",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
