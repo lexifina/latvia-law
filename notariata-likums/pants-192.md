@@ -1,1 +1,1 @@
-192. Disciplinārlietas nav ierosināmas un zvērināti notāri disciplināri nav sodāmi, ja pagājuši divi gadi no pārkāpuma izdarīšanas.
+192. Disciplinārlietas ir ierosināmas un zvērināti notāri disciplināri sodāmi ne vēlāk kā divus gadus pēc pārkāpuma izdarīšanas dienas vai Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktajā termiņā attiecībā uz noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas noteikumu pārkāpumiem.
