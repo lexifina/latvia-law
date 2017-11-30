@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada rudens sesija",
+ "sede": 26,
+ "datums": "2017-11-30",
+ "ieraksts": {
+  "dkp_id": "48c64e05-25ff-4f8b-97c9-824e3908611f",
+  "lastmodtime": "\"AAAAAAGDj/w=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Einārs#Jānis#Mihails#Vladimirs#Andris#Artis#Astrīda#Askolds#Inese#Ainars#Guntis#Jānis#Raimonds#Andris#Inese#Lolita#Valdis#Ingmārs#Veiko#Hosams#Jānis#Igors#Jānis#Ints#Valdis#Silvija#Boriss#Andris#Juris#Ringolds#Inguna#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Inesis#Andrejs#Juris#Ivans#Jānis#Ainārs#Aleksandrs#Vitālijs#Ritvars#Kārlis#Sergejs#Rihards#Kārlis#Gundars#Jānis#Ivars#Ivars#Aivars#Aleksandrs#Aija#Mārtiņš#Līga#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Harju#Kļaviņš#Laizāne#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Lībiņa-Egnere#Čigāne#Skujiņš#Līdaka#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Cilevičs#Buiķis#Vectirāns#Balodis#Rībena#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Boķis#Judins#Šulcs#Klementjevs#Vucāns#Mežulis#Jakimovs#Orlovs#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Zariņš#Brīvers#Meija#Kiršteins#Barča#Šics#Kozlovska#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK# #LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#NSL#SASKAŅA #VL-TB/LNNK#ZZS#NSL#VL-TB/LNNK#VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #ZZS#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #LRA#NSL#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.11.2017 09:09:33",
+  "VOTEMOTIVE": "Par Pamatnolīgumu starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Austrāliju, no otras puses (1038/Lp12), 2.lasījums",
+  "VOTING_ID": "6afe7fb2-e663-4866-8337-65ccbeac5e2c",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "79",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada rudens sesija-26-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/dcfa045d-5023-41d3-a9b1-5ad126836980/download/12.saeimas-2017.gada-rudens-sesija-26-vote.xml",
+  "sha256": "376accadf05366cc71c0b94b46f7e078cae181b85d622528b31dd2e1550cf1dd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
