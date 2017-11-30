@@ -1,0 +1,1 @@
+1. pants. 2016. gada 11. novembrī Briselē, Beļģijā, parakstītais Pievienošanās protokols Tirdzniecības nolīgumam starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kolumbiju un Peru, no otras puses, ar ko ņem vērā Ekvadoras pievienošanos (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
