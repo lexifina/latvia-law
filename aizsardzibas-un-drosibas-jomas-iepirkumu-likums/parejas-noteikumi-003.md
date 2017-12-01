@@ -1,1 +1,0 @@
-3. Iepirkuma procedūru, kura pirms šā likuma spēkā stāšanās izsludināta saskaņā ar Publisko iepirkumu likuma vai Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma noteikumiem un uz kuru attiecas šis likums, pabeidz saskaņā attiecīgi ar Publisko iepirkumu likuma vai Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma noteikumiem.

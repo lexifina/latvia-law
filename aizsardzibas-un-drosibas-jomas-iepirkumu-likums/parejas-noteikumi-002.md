@@ -1,1 +1,0 @@
-2. Šā likuma 44.panta pirmās daļas 5. un 7.punktu piemēro, ja pārkāpums, par kuru stājies spēkā un kļuvis neapstrīdams un nepārsūdzams kompetentas institūcijas lēmums vai tiesas spriedums, ir izdarīts pēc 2010.gada 3.septembra.

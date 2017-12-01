@@ -1,2 +1,2 @@
-71.pants. Statistikas pārskati
-Pasūtītājs katru gadu līdz 1.martam iesniedz Iepirkumu uzraudzības birojam statistikas pārskatu saskaņā ar šā likuma 72.pantu.
+71. pants. Statistikas pārskati
+Pasūtītājs katru gadu līdz 1. martam iesniedz Iepirkumu uzraudzības birojam statistikas pārskatu Ministru kabineta noteiktajā kārtībā. Ministru kabinets nosaka statistikas pārskatu saturu.
