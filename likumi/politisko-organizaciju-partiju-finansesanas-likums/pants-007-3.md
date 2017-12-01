@@ -8,5 +8,5 @@
 (4) Korupcijas novēršanas un apkarošanas birojs pieņem lēmumu par valsts budžeta finansējuma izmaksas apturēšanu, ja:
 1) politiskās organizācijas (partijas) darbība tiek apturēta, - uz politiskās organizācijas (partijas) darbības apturēšanas laiku;
 2) politiskā organizācija (partija) nav iesniegusi gada pārskatu vai vēlēšanu ieņēmumu un izdevumu deklarāciju par iepriekšējo gadu, - uz nākamo kalendāro gadu;
-3) ir konstatēts šā likuma 7.⁴ panta noteikumu pārkāpums un lēmums par soda piemērošanu ir stājies spēkā, - uz vienu gadu.
+3) ir konstatēts, ka politiskā organizācija (partija) pārkāpusi šā likuma 7.⁴ panta noteikumus, vairāk nekā 10 procentus no kopējā tai attiecīgajā gadā piešķirtā valsts budžeta finansējuma izmantojot pretlikumīgi, un lēmums par pretlikumīgi izlietoto valsts finanšu līdzekļu ieskaitīšanu valsts budžetā ir stājies spēkā, - uz vienu gadu.
 (5) Šā panta pirmajā, otrajā, trešajā un ceturtajā daļā minēto lēmumu politiskā organizācija (partija) var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
