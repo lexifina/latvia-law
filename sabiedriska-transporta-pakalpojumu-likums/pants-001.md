@@ -15,4 +15,4 @@ Likumā ir lietoti šādi termini:
 11) (izslēgts ar 06.11.2008. likumu);
 12) sabiedriskā transporta pakalpojumu organizēšana - tiesību piešķiršana pārvadātājam sniegt sabiedriskā transporta pakalpojumus;
 13) sabiedriskā transporta pakalpojumu pasūtījums - procedūra, saskaņā ar kuru pasūtītājs izvēlas pārvadātājus un piešķir tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutā vai reisā;
-14) sabiedriskie transportlīdzekļi - sabiedriskā transporta pakalpojumu sniegšanā iesaistītie transportlīdzekļi (autobuss, tramvajs, trolejbuss, vilciens), kuri paredzēti, pielāgoti un aprīkoti noteikta pasažieru skaita pārvadāšanai.
+14) sabiedriskie transportlīdzekļi - sabiedriskā transporta pakalpojumu sniegšanā iesaistītie transportlīdzekļi (autobuss, tramvajs, trolejbuss, vilciens, M1 kategorijas transportlīdzeklis).
