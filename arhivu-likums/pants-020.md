@@ -12,5 +12,6 @@
 9) veic pētījumus un metodisko darbu dokumentu un arhīvu pārvaldības jomā;
 10) izsniedz rakstveida licences to Latvijas Nacionālajā arhīvā uzkrāto dokumentu izmantošanai, kuru autortiesības vai blakustiesības pieder valstij;
 11) izveido un uztur nepieciešamās informācijas sistēmas šajā likumā noteikto funkciju veikšanai;
+11¹) sniedz atzinumus par publisko dokumentu un arhīvu pārvaldību reglamentējošo normatīvo aktu projektiem;
 12) pilda citas likumā noteiktās funkcijas.
 (3) Ministru kabinets nosaka Latvijas Nacionālā arhīva dokumentu uzkrāšanas, nodošanas un pieņemšanas glabāšanā, uzskaites, aprakstīšanas un pieejamības kārtību, kā arī dokumentu saglabāšanas tehniskās prasības.

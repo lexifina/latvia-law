@@ -14,7 +14,7 @@ a) pastāvīgi glabājamiem dokumentiem - līdz to nodošanai pastāvīgā valst
 b) uz laiku glabājamiem dokumentiem - līdz tiem noteiktā glabāšanas termiņa beigām un iznīcināšanai;
 4) dokumentu pieejamību un izmantošanu, tai skaitā izsniedzot personām izziņas, dokumentu kopijas, izrakstus, norakstus uz visu institūcijas rīcībā esošo dokumentu pamata normatīvajos aktos noteiktajā kārtībā.
 (3) Institūcijai ir pienākums saskaņot ar Latvijas Nacionālo arhīvu dokumentu klasifikācijas shēmas, dokumentu glabāšanas termiņus, uzziņu sistēmas, kā arī dokumentu iznīcināšanas aktus pirms dokumentu iznīcināšanas.
-(4) Dokumentus par personas darba vai dienesta gaitu un izglītojamās personas, tajā skaitā studējošā, lietas glabā 75 gadus.
+(4) Ministru kabinets nosaka glabāšanas termiņus tiem personas darba vai dienesta gaitu apliecinošiem dokumentiem, kā arī izglītojamās personas, tai skaitā studējošā, lietā esošajiem dokumentiem, kuriem ir arhīviska vērtība.
 (5) Institūcijas vadītājs ir atbildīgs par institūcijas publisko dokumentu un arhīva pārvaldības kārtības ievērošanu.
 (6) Institūcijai ir tiesības saņemt Latvijas Nacionālā arhīva konsultācijas un metodisko palīdzību dokumentu un arhīvu pārvaldības jautājumos.
 (7) Ministru kabinets nosaka publisko dokumentu un arhīvu pārvaldības kārtību institūcijās, kritērijus dokumentu glabāšanas termiņa noteikšanai un tehniskās prasības dokumentu saglabāšanai institūciju arhīvos (turpmāk - dokumentu un arhīvu pārvaldības noteikumi).
