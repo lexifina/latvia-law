@@ -1,2 +1,3 @@
 169.¹ pants. Valdes locekļu atbildība par dalībnieku reģistra vešanas noteikumu pārkāpšanu
-Valdes loceklis atbild par dalībniekam, daļas atsavinātājam vai daļas ieguvējam nodarītajiem zaudējumiem, kas radušies, valdes loceklim pārkāpjot šā likuma 187. un 187.¹ panta noteikumus.
+(1) Valdes loceklis atbild par dalībniekam, daļas atsavinātājam vai daļas ieguvējam nodarītajiem zaudējumiem, kas radušies, valdes loceklim pārkāpjot šā likuma 187. un 187.¹ panta noteikumus.
+(2) Ja valde šā likuma 187.¹ panta trešajā daļā minētajā gadījumā likumā noteiktajā termiņā un kārtībā neizdara ierakstu dalībnieku reģistrā vai neiesniedz komercreģistra iestādei jauno dalībnieku reģistra nodalījumu, attiecīgās personas saucamas pie administratīvās atbildības.
