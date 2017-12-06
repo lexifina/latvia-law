@@ -1,2 +1,3 @@
 VI nodaļa
-Biedrības darbības izbeigšanās un likvidācija
+Aizliegums biedrībai veikt publisko darbību vai citu darbību,
+biedrības darbības izbeigšanās un likvidācija
