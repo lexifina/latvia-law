@@ -12,6 +12,7 @@
 6) Latvijas normatīvie akti, kas regulē jūrnieka darba tiesiskās attiecības;
 7) 2006.gada Konvencija par darbu jūrniecībā;
 8) Eiropas Kopienas Kuģu īpašnieku asociācijas (EKKĪA) un Eiropas Transporta darbinieku federācijas (ETDF) Nolīgums par 2006.gada Konvenciju par darbu jūrniecībā;
-9) Jūras darbaspēka sertifikāts un paziņojums par jūras darbaspēka atbilstību.
+9) Jūras darbaspēka sertifikāts un paziņojums par jūras darbaspēka atbilstību;
+10) apdrošināšanas polise vai apdrošināšanas līguma noslēgšanu apliecinošs dokuments, kas ietver apdrošinātāja apliecinājumu, ka kuģa īpašnieka civiltiesiskā atbildība ir apdrošināta atbilstoši MLC konvencijas A2.5. standartam un A4.2. standartam.
 (3) Šā panta pirmajā un otrajā daļā minētie dokumenti ir kuģa darba valodā, kuru noteicis kuģa īpašnieks, bet starptautiskā reisā iesaistītam kuģim - arī angļu valodā.
 (4) Šā panta otrās daļas 9.punktā minētā paziņojuma I daļu aizpilda un tā aktuālo versiju uztur Latvijas Jūras administrācija, ievērojot no citām kompetentajām institūcijām saņemto informāciju. Minētā paziņojuma I daļas aktuālā versija pieejama Latvijas Jūras administrācijas mājaslapā internetā.
