@@ -4,12 +4,12 @@
 2) kaprālis - kareivim (matrozim) un dižkareivim (dižmatrozim) ar vismaz vidējo izglītību pēc jaunākā instruktora kursa pabeigšanas;
 3) seržants - kaprālim pēc instruktora kursa pabeigšanas un četru gadu nodienēšanas kaprāļa pakāpē;
 4) virsseržants (bocmanis) - seržantam pēc vecākā instruktora kursa pabeigšanas un piecu gadu nodienēšanas seržanta pakāpē;
-5) štāba virsseržants (štāba bocmanis) - virsseržantam (bocmanim) pēc augstākā instruktora kursa pabeigšanas un piecu gadu nodienēšanas virsseržanta (bocmaņa) pakāpē;
+5) štāba virsseržants (štāba bocmanis) - virsseržantam (bocmanim) pēc vecākā instruktora kursa pabeigšanas un piecu gadu nodienēšanas virsseržanta (bocmaņa) pakāpē;
 6) galvenais virsseržants (galvenais bocmanis) - augstākā instruktora kursu beigušam štāba virsseržantam (štāba bocmanim) ar vismaz pirmā līmeņa profesionālo augstāko izglītību pēc triju gadu nodienēšanas štāba virsseržanta (štāba bocmaņa) pakāpē;
 7) augstākais virsseržants (augstākais bocmanis) - augstākā instruktora kursu beigušam galvenajam virsseržantam (galvenajam bocmanim) ar vismaz pirmā līmeņa profesionālo augstāko izglītību pēc triju gadu nodienēšanas galvenā virsseržanta (galvenā bocmaņa) pakāpē;
 8) leitnants - karavīram pēc virsnieku sagatavošanas militārās izglītības iestādes absolvēšanas un karavīram ar augstāko izglītību pēc virsnieka pamatkursa pabeigšanas;
-9) virsleitnants - virsnieku sagatavošanas militārās izglītības iestādi absolvējušam leitnantam vai virsnieka pamatkursu beigušam leitnantam ar augstāko izglītību pēc triju gadu nodienēšanas leitnanta pakāpē;
-10) kapteinis (kapteiņleitnants) - virsleitnantam pēc jaunākā štāba virsnieka kursa vai cita tam pielīdzināta kursa pabeigšanas un četru gadu nodienēšanas virsleitnanta pakāpē;
+9) virsleitnants - virsnieku sagatavošanas militārās izglītības iestādi absolvējušam leitnantam vai virsnieka pamatkursu beigušam leitnantam ar augstāko izglītību pēc divu gadu nodienēšanas leitnanta pakāpē;
+10) kapteinis (kapteiņleitnants) - virsleitnantam pēc jaunākā štāba virsnieka kursa vai cita tam pielīdzināta kursa pabeigšanas un triju gadu nodienēšanas virsleitnanta pakāpē;
 11) majors (komandleitnants) - jaunākā štāba virsnieka kursu vai citu tam pielīdzinātu kursu beigušam kapteinim (kapteiņleitnantam) ar augstāko izglītību pēc piecu gadu nodienēšanas kapteiņa (kapteiņleitnanta) pakāpē;
 12) pulkvežleitnants (komandkapteinis) - majoram (komandleitnantam) ar augstāko izglītību pēc vecākā štāba virsnieka kursa vai cita tam pielīdzināta kursa pabeigšanas un piecu gadu nodienēšanas majora (komandleitnanta) pakāpē;
 13) pulkvedis (jūras kapteinis) - vecākā štāba virsnieka kursu vai citu tam pielīdzinātu kursu beigušam pulkvežleitnantam (komandkapteinim) ar augstāko izglītību pēc piecu gadu nodienēšanas pulkvežleitnanta (komandkapteiņa) pakāpē;

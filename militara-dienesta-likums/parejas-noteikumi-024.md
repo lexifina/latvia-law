@@ -1,0 +1,1 @@
+24. Šā likuma 33. panta pirmās daļas 9. un 10. punktā paredzētie dienesta pakāpes nosacījumi attiecībā uz divu un triju gadu nodienēšanu esošajā dienesta pakāpē karavīriem, kuri pieņemti aktīvajā dienestā pirms šo grozījumu spēkā stāšanās, piemērojami ar 2018. gada 1. janvāri.

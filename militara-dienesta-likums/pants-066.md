@@ -1,13 +1,16 @@
 66.pants. Kārtība, kādā rezerves karavīri iesaucami uz kārtējām un pārbaudes militārajām mācībām
-(1) Rezerves karavīru var iesaukt uz kārtējām vai pārbaudes militārajām mācībām Nacionālo bruņoto spēku vienībās. Militāro mācību laiku, vietu un dalībnieku skaitu nosaka aizsardzības ministrs pēc Nacionālo bruņoto spēku komandiera priekšlikuma.
+(1) Rezerves karavīru var iesaukt uz kārtējām vai pārbaudes militārajām mācībām Nacionālo bruņoto spēku vienībās. Militāro mācību laiku, vietu un dalībnieku skaitu nosaka Nacionālo bruņoto spēku komandieris.
+(1¹) Nacionālo bruņoto spēku komandieris vienu reizi gadā pēc rezerves karavīra motivēta lūguma var pārcelt rezerves karavīram plānotās pārbaudes militārās mācības uz citu laiku, ja atklājušies no rezerves karavīra gribas neatkarīgi un nenovēršami apstākļi, kurus Nacionālo bruņoto spēku komandieris ir atzinis par attaisnojošiem.
 (2) Militāro mācību laikā rezerves karavīrs pilda aktīvo dienestu, viņam ir karavīra statuss, un mācību laiks tiek ieskaitīts viņa izdienas stāžā.
 (3) Rezerves karavīru var iesaukt militārajās mācībās uz laiku:
 1) virsnieku sastāva karavīru - kopumā līdz deviņiem mēnešiem, viena gada laikā - līdz 60 dienām;
 2) instruktoru un kareivju sastāva karavīru - kopumā līdz sešiem mēnešiem, viena gada laikā - līdz 30 dienām.
 (4) Intervāls starp kārtējām militārajām mācībām, kurās iesaista rezerves karavīru, nav mazāks par četriem gadiem.
 (5) Rezerves karavīru kārtējo militāro mācību starplaikos var iesaukt uz pārbaudes mācībām līdz 10 dienām gan no darba brīvajā, gan arī darba laikā. Šo laiku ieskaita militāro mācību kopējā laikā.
+(5¹) Rezerves karavīru kārtējo militāro mācību starplaikos var iesaukt uz pārbaudes mācībām, pārsniedzot šā panta piektajā daļā minēto laiku, gan no darba brīvajā laikā, gan darba laikā, ja rezerves karavīrs un darba devējs tam piekrīt. Šo laiku ieskaita militāro mācību kopējā laikā.
 (6) Militāro mācību organizēšanu, to materiāltehnisko un finansiālo nodrošinājumu, kā arī rezerves karavīra visu veidu apgādi militāro mācību laikā nosaka aizsardzības ministrs.
 (7) Uz militārajām mācībām iesauktajam rezerves karavīram darba devējs piešķir atvaļinājumu bez darba samaksas saglabāšanas norīkojumā norādītajā laikā līdz 60 dienām kalendāra gadā. Militāro mācību laikā rezerves karavīram saglabā darba vietu un amatu. Uz militārajām mācībām iesauktajam rezerves karavīram par katru militāro mācību dienu izmaksā kompensāciju no Aizsardzības ministrijai piešķirtajiem valsts budžeta līdzekļiem. Kompensācijas apmēru un izmaksas kārtību nosaka Ministru kabinets. Uz rezerves karavīru militāro mācību laikā attiecas Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likuma 21.panta pirmā, otrā un ceturtā daļa.
+(7¹) Uz militārajām mācībām iesauktajam rezerves karavīram kompensē transporta izdevumus, kas radušies, izmantojot personīgo vai sabiedrisko transportu no deklarētās dzīvesvietas līdz pavēstē noteiktajai dienesta pienākumu izpildes vietai un atpakaļ, kā arī līdz veselības stāvokļa pārbaudes vietai un atpakaļ. Izdevumus par taksometra izmantošanu neatlīdzina. Nosacījumus, kārtību un apmēru, kādā rezerves karavīram izmaksā transporta izdevumu kompensāciju, nosaka Ministru kabinets.
 (8) Rezerves karavīru uz kārtējām vai pārbaudes mācībām neiesauc:
 1) veselības stāvokļa dēļ;
 2) ja rezerves karavīrs ir apgādājamu ģimenes locekļu vienīgais apgādnieks vai viņa apgādībā ir ne mazāk kā divi pirmsskolas vecuma bērni;

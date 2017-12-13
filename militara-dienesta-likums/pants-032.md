@@ -8,7 +8,7 @@
 (4) Karavīram kārtējās dienesta pakāpes piešķir pakāpeniski, izņemot kaprāļa un leitnanta dienesta pakāpi, kā arī šā likuma 32.¹ un 32.² pantā paredzētos gadījumus.
 (5) Kārtējo dienesta pakāpi karavīram var piešķirt:
 1) pēc noteiktā laika nodienēšanas esošajā dienesta pakāpē, ja ieņemamajā amatā paredzēta augstāka dienesta pakāpe;
-2) par kaujas un citiem nopelniem - izcilu varonību, drošsirdību vai panākumiem kaujas un citu uzdevumu izpildē - pirms noteiktā izdienas laika esošajā dienesta pakāpē vai citu šā likuma 33.panta pirmajā daļā noteikto prasību izpildes - kā apbalvojumu;
+2) par kaujas un citiem nopelniem - izcilu varonību, drošsirdību vai panākumiem kaujas un citu uzdevumu izpildē - pirms noteiktā izdienas laika esošajā dienesta pakāpē vai citu šā likuma 33.panta pirmajā un otrajā daļā noteikto prasību izpildes - kā apbalvojumu;
 3) (izslēgts ar 17.03.2005. likumu);
 4) uz valsts drošības iestādi pārvietotam karavīram - pēc noteiktā laika nodienēšanas esošajā dienesta pakāpē, ja karavīrs ieņem atbilstošu amatu valsts drošības iestādē.
 (6) (Izslēgta ar 29.03.2007. likumu.)

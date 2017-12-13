@@ -9,10 +9,13 @@
 6) karavīra dienesta nespējas laiks slimības dēļ ir ilgāks par četriem mēnešiem (120 dienām), ja slimība vai ievainojums (trauma) nav gūti, pildot dienesta pienākumus;
 7) likvidē vai reorganizē vienību (apakšvienību) vai samazina karavīru skaitu, ievērojot šā likuma 26.panta trešajā daļā noteikto;
 8) karavīram kā disciplinārsods piemērota atvaļināšana no aktīvā dienesta;
-9) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu;
-10) pret karavīru uzsāktais kriminālprocess izbeigts uz nereabilitējoša pamata;
-11) karavīrs ir izdarījis noziedzīgu nodarījumu, bet no soda atbrīvots.
+9) karavīrs ir sodīts par tīšu noziedzīgu nodarījumu, par valsts noslēpuma izpaušanu aiz neuzmanības, nonāvēšanu aiz neuzmanības, miesas bojājumu nodarīšanu aiz neuzmanības vai militārā dienesta mantas iznīcināšanu vai bojāšanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+10) karavīrs par šīs daļas 9. punktā minēto noziedzīgo nodarījumu notiesāts, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata;
+11) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, izņemot šīs daļas 9. punktā minēto, ja sodāmība nav noņemta vai nav dzēsta likumā noteiktajā kārtībā.
 (3) Profesionālā dienesta līgumu ar karavīru izbeidz aizsardzības ministrs vai viņa pilnvarots komandieris (priekšnieks).
-(4) Ja karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības ar sodu, kas nav saistīts ar brīvības atņemšanu, ir izdarījis noziedzīgu nodarījumu aiz neuzmanības, bet no soda atbrīvots vai uz nereabilitējoša pamata ir izbeigts pret karavīru uzsāktais kriminālprocess par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, aizsardzības ministrs, ņemot vērā karavīra specialitāti vai dienesta nepieciešamību, ir tiesīgs profesionālā dienesta līgumu pirms termiņa neizbeigt.
+(4) Aizsardzības ministrs, ņemot vērā karavīra specialitāti vai dienesta nepieciešamību, ir tiesīgs profesionālā dienesta līgumu pirms termiņa neizbeigt, ja:
+1) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, izņemot šā panta otrās daļas 9. punktā minēto, ar sodu, kas nav saistīts ar brīvības atņemšanu;
+2) karavīrs ir izdarījis noziedzīgu nodarījumu aiz neuzmanības, izņemot šā panta otrās daļas 9. punktā minēto, bet no soda atbrīvots;
+3) pret karavīru uzsāktais kriminālprocess par noziedzīgu nodarījumu aiz neuzmanības, izņemot šā panta otrās daļas 9. punktā minēto, izbeigts uz nereabilitējoša pamata.
 (4¹) Aizsardzības ministrs vai viņa pilnvarots komandieris (priekšnieks), izbeidzot profesionālā dienesta līgumu pārbaudes laikā, ir tiesīgs nenorādīt līguma izbeigšanas iemeslu.
 (5) Izbeidzot profesionālā dienesta līgumu pirms termiņa šā panta otrās daļas 7.punktā minēto apstākļu dēļ, karavīru par to brīdina divus mēnešus iepriekš.

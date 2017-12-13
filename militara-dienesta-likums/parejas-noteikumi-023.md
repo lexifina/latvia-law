@@ -1,0 +1,1 @@
+23. Tiem jaunākajiem virsniekiem speciālistiem, kuri maģistra grādu tiesību zinātnēs ir ieguvuši pirms šā likuma grozījuma par 32.¹ panta trešās daļas izslēgšanu spēkā stāšanās, dienēšanas laiku kārtējās dienesta pakāpes iegūšanai samazina par vienu gadu.
