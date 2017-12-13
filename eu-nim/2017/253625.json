@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par nodokļiem un nodevām\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "236",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-29",
+  "entry_into_force": "2017-12-13",
+  "notification_date": "2017-12-14",
+  "commission_reference": "MNE(2017)56899",
+  "nim_celex": "72016L2258LVA_253625",
+  "nim_id": "253625",
+  "transposes_celex": [
+    "32016L2258"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08dd6358-2e69-40d1-9c8d-a5e6b781a1a8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
