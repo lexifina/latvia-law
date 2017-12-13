@@ -1,0 +1,1 @@
+202. Šā likuma 18. panta 1.¹ daļā ietverto pienākumu veikt valsts nodevu uzskaiti uzsāk 2018. gada 1. jūlijā. Ministru kabinets ne vēlāk kā līdz 2018. gada 31. martam izdod šā likuma 18. panta 1.¹ daļā paredzētos noteikumus.

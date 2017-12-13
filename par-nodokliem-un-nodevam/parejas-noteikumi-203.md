@@ -1,0 +1,1 @@
+203. Grozījumi šā likuma 7.² panta pirmajā daļā, kas paredz nodrošināt piekļuvi Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmai no oficiālās elektroniskās adreses konta, stājas spēkā 2018. gada 1. martā.

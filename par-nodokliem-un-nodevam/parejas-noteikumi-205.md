@@ -1,0 +1,1 @@
+205. Grozījumi šā likuma 15.¹ panta astotajā un devītajā daļā attiecībā uz Uzņēmumu reģistra funkciju nodrošināt informācijas pieejamību no publisko personu un iestāžu saraksta stājas spēkā 2018. gada 1. jūnijā.
