@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada rudens sesija",
+ "sede": 30,
+ "datums": "2017-12-14",
+ "ieraksts": {
+  "dkp_id": "de7d4c20-f180-4708-a3b6-813aae4707fd",
+  "lastmodtime": "\"AAAAAAGEwvA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Edvīns#Romualds#Andris#Dzintars#Romāns#Varis#Ivans#Einārs#Jānis#Mihails#Vladimirs#Artis#Astrīda#Askolds#Inese#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Lolita#Valdis#Ingmārs#Veiko#Hosams#Igors#Jānis#Ints#Valdis#Silvija#Andris#Ringolds#Inguna#Romāns#Rihards#Renārs#Ilmārs#Augusts#Jūlija#Anrijs#Valters#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Inesis#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Kārlis#Gundars#Jānis#Sergejs#Ivars#Ivars#Solvita#Aivars#Aleksandrs#Aija#Līga#Artūrs#Janīna#Edvards",
+  "SURNAME": "Lejiņš#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Rasmanis#Harju#Kļaviņš#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Čigāne#Skujiņš#Līdaka#Spolītis#Abu Meri#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Balodis#Rībena#Mežeckis#Kols#Putniņš#Latkovskis#Brigmanis#Stepaņenko#Matīss#Dambe#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Boķis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Seržants#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Āboltiņa#Meija#Kiršteins#Barča#Kozlovska#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS# #VL-TB/LNNK#NSL#VL-TB/LNNK#NSL#VL-TB/LNNK#VIENOTĪBA# #ZZS#SASKAŅA #VIENOTĪBA#ZZS#VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#VIENOTĪBA#NSL#VL-TB/LNNK#ZZS#ZZS#SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.12.2017 09:03:45",
+  "VOTEMOTIVE": "Par pieprasījuma Par ārlietu ministra izvairīšanos no normatīvajos aktos noteikto pienākumu pildīšanas nepilngadīgo Latvijas valstspiederīgo tiesību aizsardzībā Lielbritānijas un Ziemeļīrijas ... (22/P12) iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "6dbf9537-4a2a-44d0-b554-6306ee82891d",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada rudens sesija-30-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5ac31d0c-e86c-483b-a4fe-af9e7c568660/download/12.saeimas-2017.gada-rudens-sesija-30-vote.xml",
+  "sha256": "86b51c57a56fb68783d09e38c3d8a3a3c588b0ecae6d1e844d3f8ebc0bc25956",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
