@@ -4,11 +4,13 @@
 a) vadījis transportlīdzekli, būdams alkoholisko dzērienu, narkotisko, psihotoksisko, psihotropo vai citu apreibinošu vielu iespaidā,
 b) vadījis transportlīdzekli bez tiesībām vadīt attiecīgās kategorijas transportlīdzekli,
 c) pēc ceļu satiksmes negadījuma, neievērojot šajā likumā vai citos normatīvajos aktos noteiktās prasības, atstājis notikuma vietu vai izvairījies no noteiktā kārtībā izdarāmās pārbaudes alkoholisko dzērienu, narkotisko, psihotoksisko, psihotropo vai citu apreibinošu vielu iespaida konstatēšanai, vai šīs vielas lietojis pēc ceļu satiksmes negadījuma līdz attiecīgajai pārbaudei,
-d) (atzīts par spēkā neesošu ar Satversmes tiesas 06.06.2018. spriedumu),
+d) nav iesniedzis aizpildītu saskaņoto paziņojumu apdrošinātājam pēc tā pieprasījuma, lai apdrošinātājs varētu pārliecināties par ceļu satiksmes negadījuma apstākļiem,
+d¹) nav sniedzis informāciju par ceļu satiksmes negadījuma apstākļiem apdrošinātājam pēc tā pieprasījuma, lai apdrošinātājs varētu pārliecināties par ceļu satiksmes negadījuma apstākļiem,
 e) zaudējumus nodarījis, izdarot tīšu noziedzīgu nodarījumu;
 2) ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieku vai - transportlīdzekļa līzinga gadījumā - līzinga ņēmēju, ja:
 a) tas apdrošināšanas līgumā noteiktajā termiņā nav samaksājis apdrošināšanas prēmiju,
-b) transportlīdzekļa vadītājs, kas ceļu satiksmes negadījumā nodarījis zaudējumus trešajai personai, nav iesniedzis aizpildītu saskaņoto paziņojumu šajā likumā noteiktajā kārtībā vai nav sniedzis informāciju par ceļu satiksmes negadījuma apstākļiem apdrošinātājam pēc tā pieprasījuma un zaudējumu piedziņa no transportlīdzekļa vadītāja nav iespējama,
+b) transportlīdzekļa vadītājs, kas ceļu satiksmes negadījumā nodarījis zaudējumus trešajai personai, nav iesniedzis aizpildītu saskaņoto paziņojumu apdrošinātājam pēc tā pieprasījuma, lai apdrošinātājs varētu pārliecināties par ceļu satiksmes negadījuma apstākļiem, un zaudējumu piedziņa no transportlīdzekļa vadītāja nav iespējama,
+b¹) transportlīdzekļa vadītājs, kas ceļu satiksmes negadījumā nodarījis zaudējumus trešajai personai, nav sniedzis informāciju par ceļu satiksmes negadījuma apstākļiem apdrošinātājam pēc tā pieprasījuma, lai apdrošinātājs varētu pārliecināties par ceļu satiksmes negadījuma apstākļiem, un zaudējumu piedziņa no transportlīdzekļa vadītāja nav iespējama,
 c) transportlīdzekļa vadītājs, neievērojot šajā likumā vai citos normatīvajos aktos noteiktās prasības, atstājis notikuma vietu un konkrētā persona, kura vadījusi transportlīdzekli ceļu satiksmes negadījuma brīdī, nav noskaidrota,
 d) transportlīdzeklim nav noteiktajā kārtībā izdarīta valsts tehniskā apskate un ceļu satiksmes negadījumā nodarītajam zaudējumam ir cēlonisks sakars ar transportlīdzekļa tehnisko stāvokli;
 e) transportlīdzeklis atbilstoši ceļu satiksmes noteikumiem laikposmā no 1.decembra līdz 1.martam nav bijis aprīkots ar riepām, kas paredzētas braukšanai ziemas apstākļos, un ceļu satiksmes negadījumā nodarītajam zaudējumam ir cēlonisks sakars ar minēto pārkāpumu;
