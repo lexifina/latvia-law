@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta noteikumi Nr. 738\n 2017. gada 12. decembrī\n\nGrozījumi Ministru kabineta 2010. gada 30. novembra noteikumos Nr. 1082 \"Kārtība, kādā piesakāmas A, B un C kategorijas piesārņojošas darbības un izsniedzamas atļaujas A un B kategorijas piesārņojošo darbību veikšanai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2017/249.6",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-15",
+  "entry_into_force": "2017-12-16",
+  "notification_date": "2017-12-18",
+  "commission_reference": "MNE(2017)56959",
+  "nim_celex": "72015L2193LVA_253707",
+  "nim_id": "253707",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1fe6ccc5-a6c4-4f17-a3d6-6697b0e5003e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
