@@ -1,0 +1,1 @@
+38. Ministru kabinets līdz 2018. gada 31. maijam izdod šā likuma 91. panta otrajā un trešajā daļā minētos noteikumus. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2006. gada 4. jūlija noteikumi Nr. 557 "Speciālo aviācijas darbu veikšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

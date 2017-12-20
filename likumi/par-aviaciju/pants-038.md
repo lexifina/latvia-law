@@ -8,4 +8,4 @@ b) par lidojuma turpināšanu vai nosēšanos sliktākos meteoroloģiskos apstā
 c) par lidojuma pārtraukšanu un piespiedu nosēšanos;
 4) gaisa kuģa lidojuma drošuma interesēs savas kompetences ietvaros dot jebkurai personai, kas atrodas gaisa kuģī, obligāti pildāmus norādījumus un piemērot visus nepieciešamos līdzekļus, lai pārtrauktu jebkuru personas rīcību, kura acīm redzami apdraud gaisa kuģa lidojuma drošumu, un pēc gaisa kuģa nosēšanās nodot šo personu kompetentām iestādēm, kā arī lūgt pasažieru palīdzību, lai panāktu, ka šajā punktā minētā persona izpilda tai dotos norādījumus;
 5) ja nepieciešams, organizēt pasažieru, viņiem klātesošo mantu un bagāžas pārbaudi gaisa kuģa lidojuma laikā.
-Ārvalsts gaisa kuģa kapteinim ir šajā pantā paredzētās tiesības, ja par gaisa kuģa derīgumu lidojumiem atbildīgās valsts likumdošanas akti neparedz citādi.
+Ārvalsts gaisa kuģa kapteinim ir šajā pantā paredzētās tiesības, ja par gaisa kuģa derīgumu lidojumiem atbildīgās valsts normatīvie akti neparedz citādi.

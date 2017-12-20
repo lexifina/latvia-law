@@ -1,6 +1,6 @@
-70. pants. Latvijas Republikas teritorijā notikušo civilās aviācijas nelaimes gadījumu un incidentu izmeklēšana
-Latvijas Republikas teritorijā notikušos civilās aviācijas nelaimes gadījumus un incidentus izmeklē Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs. Civilās aviācijas nelaimes gadījumu un incidentu izmeklēšanas kārtību nosaka Ministru kabinets.
+70. pants. Latvijas Republikas teritorijā notikušo civilās aviācijas nelaimes gadījumu, nopietnu incidentu un incidentu izmeklēšana
+Latvijas Republikas teritorijā notikušos civilās aviācijas nelaimes gadījumus, nopietnus incidentus un incidentus izmeklē Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs. Civilās aviācijas nelaimes gadījumu, nopietnu incidentu un incidentu izmeklēšanas kārtību nosaka Ministru kabinets.
 Ja civilās aviācijas nelaimes gadījumā vismaz viena persona ir guvusi miesas bojājumus, kuru dēļ iestājusies nāve, vai smagus miesas bojājumus, satiksmes ministrs izmeklēšanā var pieaicināt nepieciešamos ekspertus.
-Ja civilās aviācijas nelaimes gadījumā vai incidentā iesaistīti Latvijas Republikas Nacionālo bruņoto spēku vai citu valstu militāro spēku gaisa kuģi, satiksmes ministrs un aizsardzības ministrs pēc savstarpējas vienošanās izmeklēšanā var pieaicināt nepieciešamos ekspertus.
-Civilās aviācijas nelaimes gadījumu un incidentu izmeklēšanā var iesaistīt iestāžu un komercsabiedrību speciālistus, kā arī ekspertus, to skaitā ārvalstu ekspertus.
+Ja civilās aviācijas nelaimes gadījumā, nopietnā incidentā vai incidentā iesaistīti Latvijas Republikas Nacionālo bruņoto spēku vai citu valstu militāro spēku gaisa kuģi, satiksmes ministrs un aizsardzības ministrs pēc savstarpējas vienošanās izmeklēšanā var pieaicināt nepieciešamos ekspertus.
+Civilās aviācijas nelaimes gadījumu, nopietnu incidentu un incidentu izmeklēšanā var iesaistīt iestāžu un komercsabiedrību speciālistus, kā arī ekspertus, to skaitā ārvalstu ekspertus.
 Šā panta otrajā un trešajā daļā minētajos gadījumos izmeklēšanu vada Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs.

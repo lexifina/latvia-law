@@ -1,5 +1,3 @@
-82. pants. Licence par tiesībām veikt gaisa pārvadājumus vai speciālos aviācijas darbus
-Kompetentā iestāde, kas īsteno Eiropas Parlamenta un Padomes 2008.gada 24.septembra regulu (EK) Nr. 1008/2008 par kopīgiem noteikumiem gaisa pārvadājumu pakalpojumu sniegšanai Kopienā (pārstrādātā versija) (turpmāk - regula Nr. 1008/2008), izņemot regulas 23. un 24.pantu, ir Satiksmes ministrija. Kompetentā iestāde, kas īsteno regulas Nr. 1008/2008 23. un 24.pantu, ir Patērētāju tiesību aizsardzības centrs.
-Licenci par tiesībām veikt speciālos aviācijas darbus Ministru kabineta noteiktajā kārtībā izsniedz, uz laiku aptur tās darbību, pēc apturēšanas to atjauno vai arī anulē Satiksmes ministrija.
-Ministru kabinets nosaka valsts nodevas apmēru, lai saņemtu licenci par tiesībām veikt gaisa pārvadājumus vai speciālos aviācijas darbus, un nodevas maksāšanas kārtību.
-Ministru kabinets nosaka apmēru valsts nodevai par apturētas licences par tiesībām veikt gaisa pārvadājumus vai speciālos aviācijas darbus darbības atjaunošanu un nosaka šīs nodevas maksāšanas kārtību.
+82. pants. Gaisa pārvadājumu licence
+Kompetentā iestāde, kas īsteno Eiropas Parlamenta un Padomes 2008. gada 24. septembra regulu (EK) Nr. 1008/2008 par kopīgiem noteikumiem gaisa pārvadājumu pakalpojumu sniegšanai Kopienā (pārstrādātā versija) (turpmāk - regula Nr. 1008/2008), izņemot regulas Nr. 1008/2008 23. un 24. pantu, ir Aviācijas departaments. Kompetentā iestāde, kas īsteno šīs regulas 23. un 24. pantu, ir Patērētāju tiesību aizsardzības centrs.
+Ministru kabinets nosaka kārtību, kādā maksājama valsts nodeva par gaisa pārvadājumu licences izsniegšanu un gaisa pārvadājumu licences darbības atjaunošanu, kā arī minētās valsts nodevas apmēru.

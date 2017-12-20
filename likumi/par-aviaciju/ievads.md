@@ -1,18 +1,9 @@
 Likumā lietotie termini
 Aeronavigācijas informācija - informācija, kas ietver lidlauku un gaisa kuģu lidojumos izmantojamo aeronavigācijas un elektrotehnisko iekārtu raksturojumu un ziņas par to faktisko stāvokli, gaisa kuģu manevrēšanas kārtību lidlauka satiksmes zonās, gaisa trasēs, maršrutos un citās lidojumu zonās.
 Aizliegtā zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas vai tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir aizliegti.
-Atgadījums civilajā aviācijā - darbības pārtraukums, defekts, nepilnība vai kādi citi ārkārtas apstākļi, kas ir ietekmējuši vai var ietekmēt lidojumu drošību, bet ne tādā veidā, ka to dēļ noticis nelaimes gadījums vai nopietns incidents.
+Atgadījums civilajā aviācijā - Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa regulas (ES) Nr. 376/2014 par ziņošanu, analīzi un turpmākajiem pasākumiem attiecībā uz atgadījumiem civilajā aviācijā un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 996/2010 un atceļ Eiropas Parlamenta un Padomes direktīvu 2003/42/EK, Komisijas regulas (EK) Nr. 1321/2007 un (EK) Nr. 1330/2007 2. panta 7. punktā minētais atgadījums.
 Aviācijas meteoroloģiskais minimums - minimālie meteoroloģiskie apstākļi, kuros atļauts veikt gaisa kuģa pacelšanos un nosēšanos civilajos lidlaukos. Minimālos meteoroloģiskos apstākļus raksturo vizuāli vai instrumentāli noteikta redzamība uz skrejceļa un mākoņu apakšējās robežas augstums.
-Aviācijas nelaimes gadījums - notikums, kurš saistīts ar gaisa kuģa izmantošanu no brīža, kad vismaz viena persona iekāpj gaisa kuģī ar nolūku veikt lidojumu, līdz brīdim, kad visas gaisa kuģī esošās personas ir to atstājušas, un kura laikā:
-1) kāda no minētajām personām iegūst miesas bojājumus, kuru rezultātā iestājas nāve, vai smagus miesas bojājumus sakarā ar:
-a) atrašanos šajā gaisa kuģī,
-b) tiešu saskari ar kādu gaisa kuģa daļu, arī daļu, kas atdalījusies no šā gaisa kuģa,
-c) tiešu reaktīvā dzinēja gāzes strūklas iedarbību;
-2) gaisa kuģis iegūst bojājumus vai tiek saārdīta tā konstrukcija un tā rezultātā:
-a) samazinās konstrukcijas izturība, pasliktinās gaisa kuģa tehniskie vai aerodinamiskie dati,
-b) nepieciešams liels remonts vai bojātā elementa nomainīšana, izņemot dzinēja darbības traucējumus vai tā bojājumus, kad bojāts tikai dzinējs, tā pārsegi vai palīgierīces vai bojāti tikai propelleri, plākšņu gali, antenas, riepas, bremžu ierīces, aptecētāji vai apšuvumā ir nelieli iespiedumi vai caursisti caurumi;
-3) gaisa kuģis pazūd bez vēsts vai nokļūst tādā vietā, kur tam piekļūt nav iespējams.
-Par aviācijas nelaimes gadījumu netiek uzskatīts notikums, kura laikā 1. punktā minētajos gadījumos miesas bojājumi gūti dabisku cēloņu rezultātā, tos nodarījusi pati cietusī persona vai cita persona vai arī miesas bojājumi nodarīti pasažierim, kam nav biļetes un kas slēpjas ārpus zonām, kuras parasti ir pieejamas pasažieriem un apkalpes locekļiem.
+Aviācijas nelaimes gadījums - Eiropas Parlamenta un Padomes 2010. gada 26. oktobra regulas (ES) Nr. 996/2010 par nelaimes gadījumu un incidentu izmeklēšanu un novēršanu civilajā aviācijā un ar ko atceļ direktīvu 94/56/EK (turpmāk - regula Nr. 996/2010) 2. panta 1. punktā minētais nelaimes gadījums.
 Civilā aviācija - gaisa kuģu, lidlauku un citu objektu kopums, kas paredzēts gaisa pārvadājumu un speciālu aviācijas darbu veikšanai, kā arī aviācijas sporta, aviācijas propagandas un citām sabiedrības un privātajām vajadzībām.
 Civilās aviācijas drošība - pasākumu komplekss un cilvēku un materiālie resursi, kas paredzēti civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem tās darbībā.
 Civilās aviācijas drošības programma - pasākumi, kas nepieciešami civilās aviācijas aizsardzībai pret nelikumīgas iejaukšanās aktiem.
@@ -57,10 +48,12 @@ Militārās aviācijas poligons - militārais objekts, kas ietver noteiktu zemes
 Militārais lidlauks - militārais objekts, kas ietver noteiktu zemes teritoriju vai ūdens akvatoriju, kā arī ēkas, objektus un iekārtas, kuras paredzētas, lai organizētu militāro gaisa kuģu pienākšanu un atiešanu, un kas tiek uzturēts un izmantots valsts aizsardzībai.
 Muitas un Valsts robežsardzes dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai Valsts robežsardzes dienesti.
 Nelikumīga iejaukšanās civilās aviācijas darbībā - darbības, kas apdraud vai var apdraudēt civilās aviācijas drošību (personu nesankcionēta iekļūšana lidlauku kontrolējamās zonās vai gaisa kuģī, bīstamas kravas, ieroču un sprāgstvielu pārvadāšana bez attiecīgas atļaujas, ieroču lietošana pret gaisa kuģa apkalpi vai pasažieriem, gaisa kuģa nolaupīšana u. c.).
+Nopietns incidents - regulas Nr. 996/2010 2. panta 16. punktā minētais nopietnais incidents.
 Otrais pilots - pilots, kam izsniegta attiecīga apliecība un kas veic pilota funkcijas, izņemot gaisa kuģa kapteiņa funkcijas; izņēmums ir pilots, kas atrodas gaisa kuģī mācību nolūkā, vai pilots, kas lidojuma laikā noteiktā kārtībā pārņem gaisa kuģa kapteiņa tiesības un pilda viņa pienākumus, ja gaisa kuģa kapteinis veselības stāvokļa dēļ tos nevar pildīt.
 Pārvadātājs - gaisa kuģa ekspluatants, kas, izmantojot viņam piešķirtās tiesības, veic gaisa pārvadājumus.
 Perons - lidlauka daļa, kas paredzēta gaisa kuģu izvietošanai, lai nodrošinātu pasažieru iekāpšanu un izkāpšanu, bagāžas, kravas vai pasta iekraušanu un izkraušanu, gaisa kuģu stāvēšanu, tehnisko apkopi un degvielas uzpildi.
-Speciālie aviācijas darbi - gaisa kuģa lidojumi, kuru laikā gaisa kuģis par atlīdzību tiek izmantots dabas aizsardzības, lauksaimniecības, mežsaimniecības un citu tautsaimniecības nozaru vajadzību apmierināšanai, aviācijas glābšanas darbu veikšanai, kā arī lai sniegtu medicīnisko palīdzību iedzīvotājiem un palīdzību stihisku nelaimju seku likvidēšanā.
+Smags miesas bojājums - regulas Nr. 996/2010 2. panta 17. punktā minētais smagais miesas bojājums.
+Speciālie aviācijas darbi - Komisijas 2012. gada 5. oktobra regulas (ES) Nr. 965/2012, ar ko nosaka tehniskās prasības un administratīvās procedūras saistībā ar gaisa kuģu ekspluatāciju atbilstīgi Eiropas Parlamenta un Padomes regulai (EK) Nr. 216/2008 (turpmāk - regula Nr. 965/2012) 2. panta 7. punktā minētā specializētā ekspluatācija.
 Starptautiskie lidojumi - gaisa kuģu lidojumi, kuri tiek veikti vairāk nekā vienas valsts gaisa telpā.
 Starptautiskie gaisa pārvadājumi - pārvadājumi, kuru sākumpunkts, apstāšanās vieta vai galapunkts atrodas vairāku valstu teritorijās.
 Trešā valsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts.
