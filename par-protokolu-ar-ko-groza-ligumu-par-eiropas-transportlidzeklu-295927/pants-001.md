@@ -1,0 +1,1 @@
+1. pants. 2017. gada 8. jūnijā parakstītais Protokols, ar ko groza Līgumu par Eiropas transportlīdzekļu un vadītāja apliecību informācijas sistēmu (EUCARIS) (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
