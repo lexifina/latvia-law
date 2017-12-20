@@ -1,0 +1,1 @@
+1. pants. 2017. gada 20. aprīlī parakstītais Otrais protokols, ar kuru groza Latvijas Republikas valdības un Singapūras Republikas valdības līgumu par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - Otrais protokols) ar šo likumu tiek pieņemts un apstiprināts.
