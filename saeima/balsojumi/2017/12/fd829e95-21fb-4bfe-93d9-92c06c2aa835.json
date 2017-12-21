@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2017.gada rudens sesija",
+ "sede": 32,
+ "datums": "2017-12-21",
+ "ieraksts": {
+  "dkp_id": "79e956b9-7d4d-410a-9401-649dd22837a8",
+  "lastmodtime": "\"AAAAAAGFoaI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Romualds#Dzintars#Romans#Varis#Ivans#Jānis#Einārs#Jānis#Mihails#Vladimirs#Andris#Artis#Astrīda#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Ingmārs#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Boriss#Andris#Juris#Inguna#Romāns#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Gundars#Jānis#Sergejs#Ivars#Ivars#Solvita#Aivars#Aleksandrs#Jeļena#Mārtiņš#Līga#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Lejiņš#Ražuks#Zaķis#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Harju#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Līdaka#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Cilevičs#Buiķis#Vectirāns#Rībena#Mežeckis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Āboltiņa#Meija#Kiršteins#Lazareva#Šics#Kozlovska#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "VIENOTĪBA#VIENOTĪBA#VIENOTĪBA# #LRA#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS# #ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS# #SASKAŅA #VL-TB/LNNK#ZZS#VL-TB/LNNK#NSL#VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#ZZS#SASKAŅA #SASKAŅA #NSL#VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#VIENOTĪBA#NSL#VL-TB/LNNK#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.12.2017 11:11:35",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.5. Grozījumi Dziesmu un deju svētku likumā (1002/Lp12), 3.lasījums",
+  "VOTING_ID": "fd829e95-21fb-4bfe-93d9-92c06c2aa835",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "66",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "19",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2017.gada rudens sesija-32-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c6d3fb96-4097-42df-80fe-780a39a87084/download/12.saeimas-2017.gada-rudens-sesija-32-vote.xml",
+  "sha256": "c92eef3ab1883ec45ea52459e261843f13ea5c86c154c5a1e61fe3a01d873861",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
