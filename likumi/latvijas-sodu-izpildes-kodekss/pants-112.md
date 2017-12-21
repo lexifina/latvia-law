@@ -1,5 +1,5 @@
 112.pants. Kārtība atbrīvošanai no brīvības atņemšanas iestādēm
-No brīvības atņemšanas iestādēm pēc tiesas spriedumā noteiktā soda laika izciešanas atbrīvo pēdējās soda termiņa dienas pirmajā pusē. Ja soda laiku aprēķina mēnešos, termiņš notek pēdējā mēneša attiecīgajā datumā, bet, ja šim mēnesim nav attiecīga datuma, tad šī mēneša pēdējā dienā.
+No brīvības atņemšanas iestādēm pēc tiesas nolēmumā noteiktā soda laika izciešanas atbrīvo pēdējās soda termiņa dienas pirmajā pusē. Ja soda laiku aprēķina mēnešos, termiņš notek pēdējā mēneša attiecīgajā datumā, bet, ja šim mēnesim nav attiecīga datuma, tad šī mēneša pēdējā dienā.
 Līdz darba dienas beigām saņemtos dokumentus par atbrīvošanu brīvības atņemšanas iestādes administrācija izpilda nekavējoties, bet pēc darba dienas beigām saņemtos - nākošās dienas rītā.
 Par katru atbrīvošanu, kad pārkāpts šajā pantā noteiktais termiņš, brīvības atņemšanas iestādes priekšnieks nekavējoties ziņo prokuroram un Ieslodzījuma vietu pārvaldes priekšniekam.
 Brīvības atņemšanas iestādes priekšnieks vai persona, kas viņu aizstāj, izskaidro atbrīvojamai personai tās pienākumus un tiesības pēc atbrīvošanas.

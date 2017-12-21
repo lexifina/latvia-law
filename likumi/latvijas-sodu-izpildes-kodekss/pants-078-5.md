@@ -10,4 +10,6 @@ Brīvības atņemšanas iestādes priekšnieks neatļauj notiesātajam īslaicī
 7) notiesātais iepriekš neattaisnojošu iemeslu dēļ nav atgriezies brīvības atņemšanas iestādē šā kodeksa 49.³ un 78.⁴ pantā minētajā atļaujā norādītajā laikā;
 8) notiesātais vēlas saņemt veselības aprūpes pakalpojumu ārpus Latvijas Republikas teritorijas;
 9) notiesātā atrašanās ārpus brīvības atņemšanas iestādes var apdraudēt sabiedrības drošību.
+Lemjot par atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju veselības aprūpes pakalpojumu saņemšanai, šā panta otrās daļas 6. punktu neattiecina uz notiesāto, kas sodu izcieš atklātajā cietumā.
 Par brīvības atņemšanas iestādes priekšnieka atteikumu dot atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju veselības aprūpes pakalpojuma saņemšanai notiesātais var iesniegt sūdzību Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieks izskata iesniegto sūdzību viena mēneša laikā, un viņa pieņemtais lēmums nav pārsūdzams.
+Šā panta otrās daļas 6. punktā minēto neņem vērā attiecībā uz notiesātajiem, kas sodu izcieš atklātajos cietumos.

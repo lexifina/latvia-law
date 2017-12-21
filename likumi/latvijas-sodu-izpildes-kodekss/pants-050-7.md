@@ -8,7 +8,7 @@ Nepilngadīgajam notiesātajam atļauts:
 1) izmantot gadā 15 ilgstošās satikšanās ar tuviem radiniekiem no 36 līdz 48 stundām;
 2) izmantot gadā 12 īslaicīgās satikšanās no pusotras stundas līdz divām stundām;
 3) iepirkties iestādes veikalā bez naudas summas ierobežojuma;
-4) izmantot astoņas telefonsarunas mēnesī;
+4) izmantot telefonsarunas bez to skaita ierobežojuma;
 5) (izslēgts ar 13.12.2012. likumu);
 6) sazināties ar radiniekiem un citām personām ar videozvanu reizi mēnesī uz laiku līdz 30 minūtēm bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
 Mācību process audzināšanas iestādēs nepilngadīgajiem tuvināts vispārējās izglītības iestādes prasībām, un to regulē tieslietu ministra apstiprināta instrukcija, kas saskaņota ar izglītības un zinātnes ministru.

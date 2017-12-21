@@ -1,6 +1,6 @@
 111.pants. Pamats atbrīvošanai no soda izciešanas
 Pamats notiesāto atbrīvošanai no soda izciešanas ir:
-1) tiesas spriedumā noteiktā soda izciešana;
+1) tiesas nolēmumā noteiktā soda izciešana;
 2) amnestijas piemērošana;
 3) apžēlošana;
 4) nolēmums par atbrīvošanu no soda izciešanas nosacīti pirms termiņa;

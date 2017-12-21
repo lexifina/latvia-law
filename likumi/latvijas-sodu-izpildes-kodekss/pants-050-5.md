@@ -33,3 +33,4 @@ Ar īslaicīgu brīvības atņemšanu notiesātajiem ir tiesības:
 2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
 3) izmantot telefonsarunas bez skaita ierobežojuma;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā.
+Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības sazināties ar radiniekiem, laulāto un citām personām ar videozvanu divas reizes mēnesī uz laiku līdz 15 minūtēm bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.

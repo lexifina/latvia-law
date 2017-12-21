@@ -1,6 +1,6 @@
 134.pants. Piespiedu darba izpildes organizēšana
 Pašvaldībai ir tiesības noteikt tās teritorijā prioritāros sabiedrībai nepieciešamos darbus, kuros nodarbināmi notiesātie, kam piespriests piespiedu darbs. Šo darbu sarakstu pašvaldība iesniedz piespiedu darba izpildes institūcijai, un tā regulāri informē pašvaldību par šo darbu izpildes gaitu.
-Piespiedu darba izpildes institūcijai pēc rīkojuma par sprieduma izpildi un sprieduma noraksta (kopijas) saņemšanas ir pienākums:
+Piespiedu darba izpildes institūcijai pēc tiesas nolēmuma vai prokurora priekšraksta par piespiedu darba piemērošanu saņemšanas ir pienākums:
 1) kontrolēt, kad notiesātais ierodas pieteikties soda izciešanai;
 2) reģistrēt soda izciešanai pieteikušos notiesāto;
 3) izskaidrot notiesātajam soda izciešanas nosacījumus un kārtību;
