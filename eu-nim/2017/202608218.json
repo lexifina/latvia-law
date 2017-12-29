@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2017. gada 21. decembra lēmums Nr. 1/35 \"Noteikumi par kārtību, kādā tiek ierīkotas un lietotas dabasgāzes tiešās līnijas\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "257",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-28",
+  "entry_into_force": "2017-12-29",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08218",
+  "nim_celex": "72024L1788LVA_202608218",
+  "nim_id": "202608218",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f1fc5ec-fd8d-419d-8ec0-b6a39cb8a2c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
