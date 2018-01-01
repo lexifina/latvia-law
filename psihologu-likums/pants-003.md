@@ -1,0 +1,4 @@
+3. pants. Tiesības veikt psihologa profesionālo darbību
+(1) Personas tiesības veikt patstāvīgu psihologa profesionālo darbību apliecina augstākās izglītības diploms par akreditētas bakalaura studiju programmas un akreditētas maģistra studiju programmas psiholoģijā apguvi vismaz 200 kredītpunktu apjomā, turklāt vismaz viena no šīm programmām ir profesionālā studiju programma, reģistrācija psihologu reģistrā un psihologa sertifikāts noteiktā darbības jomā.
+(2) Psihologs, kurš nav ieguvis psihologa sertifikātu noteiktā darbības jomā, ir tiesīgs veikt psihologa profesionālo darbību, ja viņa izglītība atbilst šā panta pirmajā daļā noteiktajam, viņš ir noslēdzis līgumu ar psihologu-pārraugu par psihologa pārraudzības īstenošanu un reģistrēts psihologu reģistrā.
+(3) Psihologa profesionālā darbība līdz psihologa sertifikāta iegūšanai tiek veikta psihologa-pārrauga pārraudzībā.

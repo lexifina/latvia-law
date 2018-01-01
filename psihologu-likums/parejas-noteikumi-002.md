@@ -1,0 +1,3 @@
+2. Šo pārejas noteikumu 1. punktā minētā persona laika periodā no Psihologu sertifikācijas padomes izveidošanas dienas līdz 2018. gada 31. decembrim var vērsties ar iesniegumu Psihologu sertifikācijas padomē, lai tiktu:
+a) reģistrēta reģistrā un saņemtu psihologa sertifikātu bez sertifikācijas pārbaudījuma kārtošanas, ja šīs personas dokumentāri apliecināta profesionālā pieredze ir vismaz trīs gadi pēdējo piecu gadu laikā,
+b) reģistrēta reģistrā, saņemtu psihologa sertifikātu bez sertifikācijas pārbaudījuma kārtošanas un iegūtu psihologa-pārrauga tiesības bez pārbaudījuma kārtošanas, ja šīs personas dokumentāri apliecināta profesionālā pieredze ir vismaz pieci gadi pēdējo septiņu gadu laikā.

@@ -1,0 +1,1 @@
+6. Šo pārejas noteikumu 1., 2., 3., 4. un 5. punktā minētajām personām atļauts izmantot šajos pārejas noteikumu punktos minētās tiesības, ja tām nepastāv kāds no šā likuma 6. panta 3., 4., 5., 6. un 7. punktā minētajiem aizliegumiem.

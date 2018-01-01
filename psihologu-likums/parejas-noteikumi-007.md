@@ -1,0 +1,1 @@
+7. Šā likuma 3. panta otrajā daļā noteikto prasību par līguma noslēgšanu ar psihologu-pārraugu par psihologa pārraudzības īstenošanu, lai persona varētu veikt psihologa profesionālo darbību, piemēro no 2019. gada 1. janvāra.
