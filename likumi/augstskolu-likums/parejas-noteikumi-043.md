@@ -1,0 +1,1 @@
+43. Ministru kabinets līdz 2018. gada 30. jūnijam izdod šā likuma 59.² panta piektajā daļā un 59.³ panta otrajā daļā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai tiek piemēroti Ministru kabineta 2012. gada 10. janvāra noteikumi Nr. 36 "Iepriekšējā izglītībā vai profesionālajā pieredzē sasniegtu studiju rezultātu atzīšanas noteikumi".

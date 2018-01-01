@@ -1,0 +1,1 @@
+44. Personu iesniegumi par studiju rezultātu atzīšanu, kas, pamatojoties uz šā likuma 59.² panta piekto daļu, iesniegti līdz 2017. gada 31. decembrim, izskatāmi, ievērojot šā likuma 59.² panta noteikumus, kas bija spēkā līdz 2017. gada 31. decembrim.
