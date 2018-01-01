@@ -1,0 +1,1 @@
+41.⁴ Lai nodrošinātu šo pārejas noteikumu 41.³ punkta prasību izpildi, 2018. gadam un turpmākajiem gadiem nepieciešamos papildu izdevumus Ministru kabinets iekļauj Labklājības ministrijas pamatbudžeta un valsts sociālās apdrošināšanas speciālā budžeta bāzes izdevumos.
