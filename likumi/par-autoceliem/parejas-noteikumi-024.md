@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2018. gada 1. jūlijam apstiprina plānu par pakāpenisku finansējuma palielināšanu Valsts budžeta programmai "Valsts autoceļu fonds" no valsts budžeta dotācijas no vispārējiem ieņēmumiem, līdz tiek sasniegts likuma "Par autoceļiem" 12. panta ceturtajā daļā noteiktais apmērs.
