@@ -1,7 +1,8 @@
 21.pants. Apraides atļaujas vai retranslācijas atļaujas anulēšana, elektroniskā plašsaziņas līdzekļa darbības apturēšana un izbeigšana
 (1) Nacionālajai elektronisko plašsaziņas līdzekļu padomei ir tiesības anulēt apraides atļauju vai retranslācijas atļauju, ja elektroniskais plašsaziņas līdzeklis:
 1) savu darbību izbeidzis, bet izsniegto apraides atļauju vai retranslācijas atļauju nav nodevis Nacionālajai elektronisko plašsaziņas līdzekļu padomei;
-2) darbojas neregulāri, tādējādi nepildot apraides atļaujas vai retranslācijas atļaujas pamatnosacījumus, izņemot gadījumus, kad tas notiek tehnisku iemeslu dēļ un ne ilgāk kā trīs mēnešus.
+2) darbojas neregulāri, tādējādi nepildot apraides atļaujas vai retranslācijas atļaujas pamatnosacījumus, izņemot gadījumus, kad tas notiek tehnisku iemeslu dēļ un ne ilgāk kā trīs mēnešus;
+3) nav samaksājis valsts nodevu attiecīgi šā likuma 15. panta devītajā daļā vai 19. panta otrās daļas otrajā teikumā minētajā gadījumā.
 (2) Nacionālajai elektronisko plašsaziņas līdzekļu padomei ir tiesības uz laiku līdz septiņām dienām apturēt elektroniskā plašsaziņas līdzekļa darbību, ja tas gada laikā atkārtoti:
 1) pārkāpis šo likumu;
 2) izplatījis programmu, kas neatbilst apraides atļaujas vai retranslācijas atļaujas pamatnosacījumiem.
