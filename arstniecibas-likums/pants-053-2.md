@@ -1,6 +1,6 @@
 53.² pants. (1) Ārstu komisija aizgādnības nodibināšanas un nākotnes pilnvarojuma gadījumā sniedz atzinumu par to, vai garīga rakstura vai veselības traucējumu dēļ persona ir zaudējusi spēju saprast savas darbības nozīmi un vadīt to.
 (2) Izziņu uz šā panta pirmajā daļā minētā atzinuma pamata var pieprasīt:
 1) nākotnes pilnvarnieks, uzrādot nākotnes pilnvarojumu;
-2) tiesa vai bāriņtiesa, lai nodibinātu aizgādnību Civilprocesa likumā noteiktajā kārtībā.
+2) tiesa, lai nodibinātu aizgādnību Civilprocesa likumā noteiktajā kārtībā.
 (3) Izziņu, pamatojoties uz šā panta pirmajā daļā minēto atzinumu, izsniedz ārstniecības iestādes vadītājs 10 darbdienu laikā no pieprasījuma saņemšanas dienas. Ja izziņa izsniegta saistībā ar nākotnes pilnvarojumu, izziņā norāda, ka tā paredzēta iesniegšanai nākotnes pilnvarojumu reģistrā, lai Notariāta likumā noteiktajā kārtībā ziņas ierakstītu reģistrā.
 (4) Kārtību, kādā ārstniecības iestāde aizgādnības nodibināšanas un nākotnes pilnvarojuma gadījumā izveido ārstu komisiju, kādā ārstu komisija sniedz atzinumu par personas spēju saprast savas darbības nozīmi un vadīt to, kādā ārstniecības iestādes vadītājs, pamatojoties uz atzinumu, izsniedz attiecīgu izziņu, kā arī atzinuma un uz tā pamata izsniegtās izziņas izmaksu segšanas kārtību nosaka Ministru kabinets.

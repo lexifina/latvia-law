@@ -1,1 +1,0 @@
-18.pants. Pārējā medicīniskā palīdzība šā likuma 17.pantā minētajām personām tiek sniegta par apdrošināšanas sabiedrības, darba devēja, pacienta personiskajiem vai citiem līdzekļiem saskaņā ar normatīvajiem aktiem.
