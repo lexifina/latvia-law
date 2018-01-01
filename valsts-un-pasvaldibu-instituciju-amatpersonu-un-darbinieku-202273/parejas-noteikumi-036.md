@@ -1,0 +1,1 @@
+36. Šā likuma 4. panta pirmajā daļā atsauci uz devīto daļu, kā arī 4. panta devīto daļu un 6.¹ panta pirmo daļu nepiemēro 2018. gadā, nosakot tiesneša un prokurora mēnešalgu. Tiesneša un prokurora mēnešalgu 2018. gadā nosaka, ņemot vērā, ka rajona (pilsētas) tiesas tiesneša mēnešalga ir 1966 euro, un piemērojot likumā paredzēto koeficientu.

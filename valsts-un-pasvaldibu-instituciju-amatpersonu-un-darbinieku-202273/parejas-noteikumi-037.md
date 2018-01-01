@@ -1,0 +1,1 @@
+37. Ministru kabinets iesniedz Saeimai likumprojektu, kas, sākot ar 2019. gada 1. janvāri, paredz tādu tiesnešu darba samaksas sistēmu, kura nodrošina tiesnešu darba samaksas faktiskās vērtības saglabāšanu un finansiālo drošību atbilstoši tiesnešu neatkarības principam.

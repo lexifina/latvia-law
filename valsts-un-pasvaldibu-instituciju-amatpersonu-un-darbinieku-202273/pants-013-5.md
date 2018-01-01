@@ -1,0 +1,2 @@
+13.⁵ pants. Konkurences padomes amatpersonu (darbinieku) mēnešalga
+Konkurences padomes amatpersonu (darbinieku) mēnešalgu šīs institūcijas reglamentētajā kārtībā nosaka, ņemot vērā amata vērtību (atbildības līmeni un sarežģītību), konkrētās amatpersonas (darbinieka) individuālās kvalifikācijas un kompetenču novērtējumu, kā arī mēneša vidējās darba samaksas apmēru. Konkurences padomes amatpersonu (darbinieku) mēnešalga nedrīkst pārsniegt mēneša vidējās darba samaksas apmēru, kas noapaļots pilnos euro un kam piemērots koeficients 4,05.

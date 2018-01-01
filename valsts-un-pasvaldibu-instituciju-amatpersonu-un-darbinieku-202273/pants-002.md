@@ -20,7 +20,8 @@
 18) publiskie nodibinājumi;
 19) Finanšu un kapitāla tirgus komisija;
 20) tiesu iestādes;
-21) prokuratūra.
+21) prokuratūra;
+22) Konkurences padome.
 (2) Likums attiecas arī uz tām amatpersonām (darbiniekiem), kas neatkarīgi no nodarbinātības šā panta pirmajā daļā minētajās institūcijās ir:
 1) (izslēgts ar 16.12.2010. likumu);
 2) (izslēgts ar 16.12.2010. likumu);

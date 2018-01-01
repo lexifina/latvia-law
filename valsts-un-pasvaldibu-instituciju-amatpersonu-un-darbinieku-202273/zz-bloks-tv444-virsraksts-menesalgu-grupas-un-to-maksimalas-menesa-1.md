@@ -40,7 +40,7 @@ ne vairāk kā 705
 ne vairāk kā 608
 15.
 2
-ne vairāk kā 511
+ne vairāk kā 530
 16.
 1
-ne vairāk kā 430
+ne vairāk kā 450
