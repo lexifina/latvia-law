@@ -1,15 +1,42 @@
-15. pants. Nodokļa likmes
+15. pants. Nodokļa likmes un to piemērošana
 1. Gada apliekamais ienākums tiek aplikts ar nodokli atbilstoši šajā pantā noteiktajām likmēm.
-2. Nodokļa likme, kas jāmaksā no gada apliekamā ienākuma, ir 23 procenti. Algas nodokļa maksātājam nodokļa likme 23 procentu apmērā jāmaksā no mēneša apliekamā ienākuma.
-2.¹ Nodokļa likme, ko maksā no saimnieciskās darbības ienākuma, ir 23 procenti.
-3.¹ Nodokļa likme ienākumam no kapitāla, kas nav kapitāla pieaugums, ir 10 procenti. Nodokļa likme kapitāla pieaugumam ir 15 procenti.
-3.² Šā likuma 11.⁹ panta piecpadsmitās daļas 1.punktā minētajam ienākumam tiek piemērota algota darba ienākumam noteiktā nodokļa likme, kas noteikta ienākuma gūšanas gadā, bet šā likuma 11.⁹ panta piecpadsmitās daļas 2.punktā minētajam ienākumam - 10 procentu likme.
-4. Šā likuma 3.panta trešās daļas 7.¹ punktā minētajam ienākumam, ja šā ienākuma izmaksātājs atbilstoši šā likuma 17.panta divpadsmitajai un 12.² daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota 2 procentu likme no izmaksātās atlīdzības apmēra.
-5. (Izslēgta no 01.01.2016. ar 06.11.2013. likumu. Sk. Pārejas noteikumu 96. punktu)
-6. Patentmaksas apmērs atkarībā no saimnieciskās darbības jomas, par kurām maksātājs var veikt patentmaksu, ir no 43 līdz 100 euro mēnesī.
-7. Šā likuma 3.panta trešās daļas 9.¹ un 9.² punktā un 8.panta trešās daļas 15. un 15.¹ punktā minētajam ienākumam, kā arī 11.panta divpadsmitajā daļā minētajam ienākumam no īpašuma tiek piemērota 10 procentu likme.
-7.¹ Šā likuma 3.panta trešās daļas 12.punkta "b" apakšpunktā minētajam ienākumam tiek piemērota 5 procentu likme.
-8. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.
-9. Ja maksātājs guvis ienākumu saskaņā ar šā likuma 8.¹ pantu un aizdevuma izsniegšanas dienā ir aizdevēja darbinieks, valdes vai padomes loceklis, attiecīgajam ienākumam papildus šā panta otrajā daļā noteiktajai likmei piemēro 22 procentu papildu likmi.
-10. Sezonas laukstrādnieku ienākuma nodokļa likme ir 15 procenti, bet ne mazāka kā 0,70 euro katrā nodarbinātības dienā.
-11. Uz personālsabiedrības biedru attiecināmajai personālsabiedrības ar nodokli apliekamā ienākuma daļai, kas ir ienākums no kapitāla, kas nav kapitāla pieaugums, vai ir ienākums no kapitāla pieauguma, piemēro attiecīgo šā panta 3.¹ daļā minēto likmi.
+2. Nodokļa likme, kas jāmaksā no gada apliekamā ienākuma, izņemot šā panta piektajā, sestajā, septītajā, 7.¹, astotajā, devītajā, desmitajā, vienpadsmitajā un divpadsmitajā daļā noteiktos ienākuma veidus, ir šāda:
+1) 20 procenti - gada ienākumam līdz 20 004 euro;
+2) 23 procenti - gada ienākuma daļai, kas pārsniedz 20 004 euro, bet nepārsniedz 55 000 euro;
+3) 31,4 procenti - gada ienākuma daļai, kas pārsniedz 55 000 euro.
+3. Algas nodokļa likme, kas jāmaksā no mēneša apliekamā ienākuma, ja šā panta sešpadsmitajā vai septiņpadsmitajā daļā nav noteikts citādi, ir šāda:
+1) 20 procenti - mēneša ienākumam (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus) līdz 1667 euro;
+2) 23 procenti - mēneša ienākuma (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus) daļai, kas pārsniedz 1667 euro.
+4. Ja kalendāra mēneša laikā viens ienākuma izmaksātājs izmaksā gan ar algas nodokli apliekamo ienākumu, gan cita veida ar nodokli apliekamos ienākumus (kuriem nepiemēro šā panta piektajā, sestajā, septītajā, astotajā, desmitajā, vienpadsmitajā un divpadsmitajā daļā noteiktās likmes), tad:
+1) ienākumiem, kas nav apliekami ar algas nodokli, piemēro 23 procentu likmi, ja šā panta astoņpadsmitajā daļā nav noteikts citādi;
+2) no ienākumiem, kas nav apliekami ar algas nodokli, šā likuma 3. panta otrās daļas 1. punktā minētos izdevumus, kā arī šā likuma 3. panta otrās daļas 2. un 3. punktā minētos izdevumus (ja to segšanai nav pietiekami algota darba ienākumi) atskaita tā, kā tas saskaņā ar šā panta piecpadsmito daļu noteikts maksātāja mēneša ienākuma daļai, kas pārsniedz 1667 euro mēnesī. Šā likuma 10. panta pirmās daļas 4. punktā minētos izdevumus no ienākuma atskaita pirms nodokļa aprēķināšanas.
+5. Nodokļa likmi 20 procentu apmērā piemēro ienākumam no kapitāla, tai skaitā no kapitāla pieauguma.
+6. Nodokļa likmi 10 procentu apmērā piemēro:
+1) šā likuma 3. panta trešās daļas 9.¹ punktā un 8. panta trešās daļas 15. punktā minētajam ienākumam;
+2) šā likuma 3. panta trešās daļas 9.² punktā un 8. panta trešās daļas 15.¹ punktā minētajam ienākumam;
+3) šā likuma 11. panta divpadsmitajā daļā minētajam ienākumam.
+7. Šā likuma 3. panta trešās daļas 7.¹ punktā minētajam ienākumam, ja šā ienākuma izmaksātājs atbilstoši šā likuma 17. panta divpadsmitajai un 12.² daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota trīs procentu likme no izmaksātās atlīdzības apmēra.
+7.¹ Šā likuma 3. panta trešās daļas 3. punktā un 12. punkta "a" apakšpunktā minētajam ienākumam tiek piemērota 23 procentu likme.
+8. Šā likuma 3. panta trešās daļas 12. punkta "b" apakšpunktā minētajam ienākumam tiek piemērota piecu procentu likme.
+9. Patentmaksas apmērs atkarībā no saimnieciskās darbības jomas, par kurām maksātājs var veikt patentmaksu, ir no 50 līdz 100 euro mēnesī.
+10. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.
+11. Ja maksātājs guvis ienākumu saskaņā ar šā likuma 8.¹ pantu un aizdevuma izsniegšanas dienā ir aizdevēja darbinieks, valdes vai padomes loceklis, attiecīgajam ienākumam papildus šā panta otrajā daļā noteiktajai likmei piemēro 22 procentu papildu likmi.
+12. Sezonas laukstrādnieku ienākuma nodokļa likme ir 15 procenti, bet ne mazāka kā 0,70 euro katrā nodarbinātības dienā.
+13. Uz personālsabiedrības biedru attiecināmajai alternatīvo ieguldījumu fonda (kas ir nodibināts kā komandītsabiedrība) un ārvalsts personālsabiedrības (ja ārvalsts personālsabiedrība nav ārvalsts uzņēmumu ienākuma nodokļa vai tam pielīdzināma nodokļa maksātāja) ar nodokli apliekamā ienākuma daļai, kas ir ienākums no kapitāla, kā arī ienākums no kapitāla pieauguma, piemēro attiecīgo šā panta piektajā daļā minēto likmi.
+14. Šā likuma 11.⁹ panta piecpadsmitās daļas 1. punktā minētajam ienākumam tiek piemērota algota darba ienākumam noteiktā nodokļa likme, kas noteikta ienākuma gūšanas gadā, bet šā likuma 11.⁹ panta piecpadsmitās daļas 2. punktā minētajam ienākumam - šā panta piektajā daļā noteiktā nodokļa likme.
+15. Ja maksātājam piemēro atskaitījumus saskaņā ar šā likuma 3. panta otrās daļas 1., 2. un 3. punktu un šā likuma 3. panta 2.⁴ daļas 2. punktā noteiktajā gadījumā, maksātāja gada (algas nodokļa maksātāja - mēneša) ienākuma daļai, kas pārsniedz 20 004 euro gadā (1667 euro mēnesī), piemēro nodokļa likmi saskaņā ar šā panta otrās daļas 2. un 3. punktu vai šā panta trešās daļas 2. punktu, bet aprēķināto nodokļa apmēru samazina par nodokli, kurš aprēķināts, atskaitījumu summu, kas pārsniedz 20 004 euro, reizinot ar nodokļa likmi 20 procentu apmērā. Ja šā likuma 10. pantā noteikto attaisnoto izdevumu vai 13. pantā noteikto nodokļa atvieglojumu piemērošanas rezultātā veidojas nodokļa pārmaksa, maksātājam nodokli atmaksā, piemērojot nodokļa likmi 20 procentu apmērā.
+16. Ja algas nodokļa maksātājs ir persona, uz kuru attiecas citas valsts sociālās apdrošināšanas sistēma, un maksātāja algota darba ienākums mēnesī pārsniedz 4583 euro, viņa mēneša ienākuma (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus) daļai, kas pārsniedz 4583 euro, piemēro nodokļa likmi 31,4 procentu apmērā.
+17. Nodokļa likme, ja maksātājs ienākuma izmaksātājam nav iesniedzis algas nodokļa grāmatiņu, ir 23 procenti, ja šā panta sešpadsmitajā, astoņpadsmitajā vai divdesmitajā daļā nav noteikts citādi. No maksātāja mēneša ienākuma šā likuma 3. panta otrās daļas 1. punktā minētos atskaitāmos izdevumus atskaita tā, kā tas saskaņā ar šā panta piecpadsmito daļu noteikts maksātāja mēneša ienākuma daļai, kas pārsniedz 1667 euro mēnesī. Šā likuma 10. panta pirmās daļas 4. punktā minētos izdevumus no ienākuma atskaita pirms nodokļa aprēķināšanas.
+18. Nodokļa likmi 20 procentu apmērā taksācijas gada laikā piemēro autoru un izpildītāju ienākumiem no autoratlīdzības.
+19. Šā panta septiņpadsmitajā, astoņpadsmitajā, divdesmitajā un divdesmit ceturtajā daļā minētos ienākumus iekļauj taksācijas gada kopējā apliekamajā ienākumā un tiem rezumējošā kārtībā piemēro šā panta otrajā daļā noteiktās likmes.
+20. Šā panta trešajā daļā noteiktās nodokļa likmes ienākuma izmaksātājs taksācijas gada laikā piemēro šādiem kalendāra mēneša laikā izmaksātajiem ienākumiem:
+1) Valsts sociālās apdrošināšanas aģentūras izmaksātajam pārejošas darba nespējas pabalstam;
+2) piešķirtajai pensijai (ieskaitot piemaksu pie pensijas par apdrošināšanas stāžu, kas uzkrāts līdz 1995. gada 31. decembrim) vai pārrēķinātajai pensijai pēc 1996. gada 1. janvāra atbilstoši likumam "Par valsts pensijām", vai izdienas pensijai, vai speciālajai valsts pensijai atbilstoši Latvijas Republikas normatīvajiem aktiem, vai pensijai atbilstoši ārvalsts normatīvajiem aktiem, vai noslēgtajam mūža pensijas apdrošināšanas līgumam (ar uzkrāto fondētās pensijas kapitālu atbilstoši Valsts fondēto pensiju likumam).
+21. Šā panta otrās vai trešās daļas piemērošanai gada ienākuma vai mēneša ienākuma apmēru nosaka, neņemot vērā:
+1) šā likuma 9. pantā minētos neapliekamos ienākumus;
+2) saskaņā ar šā likuma 8. pantu no apliekamā ienākuma izslēgtos ienākumus;
+3) saskaņā ar šā likuma 24. panta septīto daļu no apliekamā ienākuma izslēgtos ienākumus;
+4) ar algas nodokli apliekamos ienākumus, no kuriem darba ņēmējs ir tiesīgs nemaksāt iedzīvotāju ienākuma nodokli saskaņā ar Jaunuzņēmumu darbības atbalsta likumu.
+22. Ja taksācijas gadā algota darba ienākums, pensija vai pabalsts tiek izmaksāts par pirmstaksācijas gadu, šos ienākumu veidus iekļauj attiecīgā pirmstaksācijas gada ienākumu apmērā un piemēro attiecīgās pirmstaksācijas gada nodokļa likmes. Ar algas nodokli apliekamajā mēneša ienākumā iekļauj ienākumu, kas aprēķināts par attiecīgo mēnesi.
+23. Pamatojoties uz maksātāja rakstveida iesniegumu, ienākuma izmaksātājs taksācijas gada laikā ietur nodokli saskaņā ar 23 procentu likmi arī no ienākumiem, kuriem saskaņā ar šā panta otro, trešo vai astoņpadsmito daļu piemērojama nodokļa likme 20 procentu apmērā.
+24. Ja maksātājs laimējis izložu vai azartspēļu laimestu, kas pārsniedz 3000 euro, un tas izmaksāts vienā reizē vai summējot visā azartspēles organizēšanas vietas apmeklējuma laikā, izložu vai azartspēļu laimesta daļai, kas pārsniedz 3000 euro, bet nepārsniedz 55 000 euro, taksācijas gada laikā piemēro nodokļa likmi 23 procentu apmērā, bet izložu vai azartspēļu laimesta daļai, kas pārsniedz 55 000 euro, piemēro nodokļa likmi 31,4 procentu apmērā.
