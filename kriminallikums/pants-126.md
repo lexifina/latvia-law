@@ -1,5 +1,5 @@
 126.pants. Tīšs vidēja smaguma miesas bojājums
-(1) Par tāda miesas bojājuma tīšu nodarīšanu, kas nav bīstams dzīvībai un nav izraisījis šā likuma 125.pantā paredzētās sekas, bet izraisījis ilgstošu veselības traucējumu vai vispārējo darbspēju ievērojamu paliekošu zaudēšanu mazāk nekā vienas trešdaļas apmērā (vidēja smaguma miesas bojājums),-
+(1) Par vidēja smaguma miesas bojājuma tīšu nodarīšanu -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par tādām pašām darbībām, ja:
 1) tās izdarītas sakarā ar to, ka cietušais vai viņa tuvinieks izpildījis savus dienesta vai profesionālos pienākumus vai piedalījies noziedzīga vai citāda prettiesiska nodarījuma novēršanā vai pārtraukšanā, vai devis liecību tiesā vai pirmstiesas kriminālprocesā;
@@ -7,5 +7,6 @@ soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu br�
 3) tās izdarījusi personu grupa;
 4) (izslēgts ar 13.12.2012. likumu);
 5) tās izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
-6) tās izdarītas pret personu bezpalīdzības stāvoklī, -
+6) tās izdarītas pret personu bezpalīdzības stāvoklī;
+7) tās izdarītas pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis nereģistrētās laulāto attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.

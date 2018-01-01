@@ -1,3 +1,3 @@
 170.pants. Izvairīšanās no uzturēšanas
-Par izvairīšanos apgādāt un dot uzturu saviem vecākiem, vecvecākiem, bērniem, mazbērniem vai citām personām, ja tāds pienākums uzlikts ar tiesas spriedumu vai tiesneša lēmumu, -
+Par izvairīšanos no tiesas nolēmuma vai kompetentas valsts institūcijas lēmuma pildīšanas, ar kuru uzlikts pienākums apgādāt savus vecākus, vecvecākus, bērnus, mazbērnus vai citas personas un dot tiem uzturu, -
 soda ar īslaicīgu brīvības atņemšanu vai ar piespiedu darbu, vai ar naudas sodu.

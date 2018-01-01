@@ -15,4 +15,4 @@
 (6) (Izslēgta ar 13.12.2012. likumu)
 (7) Ja persona, kas notiesāta ar brīvības atņemšanu, pēc soda izciešanas ar priekšzīmīgu uzvedību un godīgu attieksmi pret darbu pierādījusi savu labošanos, tiesa var noņemt tai sodāmību pirms šajā pantā norādīto termiņu izbeigšanās.
 (8) Sodāmību var noņemt apžēlošanas vai amnestijas kārtībā.
-(9) Sodāmības dzēšana un noņemšana anulē visas izdarītā noziedzīgā nodarījuma krimināltiesiskās sekas.
+(9) Sodāmības dzēšana un noņemšana anulē visas izdarītā noziedzīgā nodarījuma krimināltiesiskās sekas, izņemot tās, kuras likumā paredzētas, ja pirms sodāmības dzēšanas vai noņemšanas izdarīts jauns noziedzīgs nodarījums.
