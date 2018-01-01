@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Veselības aprūpes finansēšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "259 (6086)",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-31",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2018-08-20",
+  "commission_reference": "MNE(2018)54405",
+  "nim_celex": "72017L0541LVA_261993",
+  "nim_id": "261993",
+  "transposes_celex": [
+    "32017L0541"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ac87cb4a-e602-4bc6-9f3a-1b52c311921c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
