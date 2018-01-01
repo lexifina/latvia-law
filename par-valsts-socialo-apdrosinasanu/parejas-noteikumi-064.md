@@ -1,0 +1,1 @@
+64. Ministru kabinets izstrādā un 2018. gada valsts budžeta likumprojektu paketē iesniedz Saeimai likumprojektu par veselības aprūpes finansēšanu, nosakot sasaisti starp veiktajām iemaksām un veselības aprūpes pakalpojumu saņemšanu.

@@ -1,0 +1,3 @@
+23.³ pants. Obligāto iemaksu pensiju apdrošināšanai reģistrēšana personu kontos
+(1) Valsts sociālās apdrošināšanas aģentūra atbilstoši faktiski veiktajām obligātajām iemaksām no autoratlīdzībām (autortiesību un blakustiesību atlīdzībām) un pašnodarbinātā faktiski veiktajām obligātajām iemaksām pensiju apdrošināšanai, piemērojot obligāto iemaksu likmi pensiju apdrošināšanai, reģistrē personas obligāto iemaksu objektu pensiju apdrošināšanai un pensijas kapitālu.
+(2) Saskaņā ar šā likuma 23.¹ pantu un 23.² panta 2. punktu veiktās obligātās iemaksas pensiju apdrošināšanai neveido personas fondēto pensijas kapitālu.
