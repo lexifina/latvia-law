@@ -1,0 +1,1 @@
+9. Piemērojot šo pārejas noteikumu 8. punktu, pirms peļņas sadales atlikušo nesadalīto peļņu turpmākajos pārskata gados samazina par aprēķinātajām dividendēm un turpmāko pārskata gadu zaudējumiem piemēro metodi "pirmais iekšā - pirmais ārā" (FIFO).

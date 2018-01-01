@@ -1,0 +1,1 @@
+21. Atbalstāmos investīciju projektus, kurus saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 17.² pantu Ministru kabinets ir apstiprinājis līdz 2017. gada 31. decembrim, vērtē un īsteno atbilstoši normatīvajam regulējumam, kas bija spēkā dienā, kad Ministru kabinets pieņēma lēmumu par investīciju projekta apstiprināšanu.

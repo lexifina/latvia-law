@@ -1,0 +1,1 @@
+25. Šo pārejas noteikumu 23. punktā noteikto nodokļa atlaidi nevar piemērot pārskata gadā, kura pirmajā dienā nodokļu parāda kopsumma pārsniedz 150 euro, izņemot nodokļu maksājumus, kuru maksāšanas termiņi ir pagarināti saskaņā ar likumu "Par nodokļiem un nodevām".

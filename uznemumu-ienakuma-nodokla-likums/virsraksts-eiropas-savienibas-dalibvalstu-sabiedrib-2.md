@@ -1,0 +1,1 @@
+Eiropas Savienības dalībvalstu sabiedrību ienākuma nodokļi, uz kuru maksātājiem attiecināma šā likuma 1. panta astoņpadsmitā daļa, un šo nodokļu veidiem atbilstošā termina oriģinālforma dalībvalstu tiesību aktos

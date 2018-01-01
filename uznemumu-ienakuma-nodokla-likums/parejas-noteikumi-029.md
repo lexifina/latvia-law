@@ -1,0 +1,1 @@
+29. Piemērojot šā likuma 4. panta otrās daļas 2. punkta "g" apakšpunktu, lai noteiktu ar uzņēmumu ienākuma nodokli apliekamo bāzi uzņēmuma likvidācijas gadījumā, ar nodokli apliekamajā bāzē iekļauj aizdevumu summas, kuras aizdotas līdz 2017. gada 31. decembrim un nav atgūtas.

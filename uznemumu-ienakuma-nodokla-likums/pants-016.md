@@ -1,0 +1,4 @@
+16. pants. Nodokļa ieturēšana un informācijas sniegšana
+(1) Šā likuma 2. panta pirmajā vai otrajā daļā minētā persona, kas izmaksā šā likuma 5. panta pirmajā, sestajā un astotajā daļā minēto maksājumu summas, ietur nodokli izmaksas brīdī un iemaksā to valsts budžetā līdz nākamā mēneša 20. datumam. Ieturamo nodokli aprēķina, reizinot nodokļa likmi ar izmaksājamo summu.
+(2) Šā likuma 2. panta pirmajā vai otrajā daļā minētajai personai ir pienākums Ministru kabineta noteiktajā kārtībā un termiņos sniegt Valsts ieņēmumu dienestam informāciju par nerezidentiem izmaksātajām summām, kā arī ieturēto nodokli.
+(3) Ieguldījumu pārvaldes sabiedrībām un alternatīvo ieguldījumu fondu pārvaldniekiem ir pienākums līdz nākamā pārskata gada pirmā mēneša 20. datumam Ministru kabineta noteiktajā kārtībā sniegt Valsts ieņēmumu dienestam informāciju par visu veidu maksājumiem to pārvaldē esošo Latvijā reģistrēto ieguldījumu fondu vai alternatīvo ieguldījumu fondu ieguldītājiem.

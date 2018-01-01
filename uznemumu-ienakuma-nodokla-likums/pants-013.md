@@ -1,0 +1,6 @@
+13. pants. Akciju atsavināšanas ienākuma neiekļaušana nodokļa bāzē
+(1) Nodokļa maksātājs ir tiesīgs samazināt taksācijas periodā ar nodokli apliekamajā bāzē iekļauto dividenžu apmēru tādā apjomā, kādā nodokļu maksātājs taksācijas periodā ir guvis ienākumu no tādu tiešās līdzdalības akciju atsavināšanas, kuru turēšanas periods atsavināšanas brīdī ir vismaz 36 mēneši.
+(2) Ja, piemērojot šā panta pirmo daļu, taksācijas periodā gūtais ienākums no akciju atsavināšanas pārsniedz taksācijas periodā ar uzņēmumu ienākuma nodokli apliekamajā bāzē iekļauto dividenžu apmēru, starpību var attiecināt uz nākamajiem taksācijas periodiem (hronoloģiskā secībā), samazinot apliekamajā bāzē iekļaujamo dividenžu summu.
+(3) Šā panta pirmā daļa neattiecas uz tādas personas akcijām, kura atrodas, ir izveidota vai nodibināta zemu nodokļu vai beznodokļu valstī vai teritorijā.
+(4) Šā panta pirmā daļa neattiecas uz ieguldījumu fondu un alternatīvo ieguldījumu fondu akcijām.
+(5) Šā panta pirmā daļa nav piemērojama, ja nodokļa maksātāja vai citas ar nodokļa maksātāju saistītas personas izveidošanas, pastāvēšanas vai veiktā darījuma galvenais nolūks ir bijis izmantot šajā pantā vai likumā "Par iedzīvotāju ienākuma nodokli" akcijām noteikto atbrīvojumu no iekļaušanas ar nodokli apliekamajā bāzē.

@@ -1,0 +1,1 @@
+2. Uzņēmumu ienākuma nodokļa deklarāciju par taksācijas periodu, kas sākās 2017. gadā, par mēnešiem līdz 2017. gada 31. decembrim aizpilda un iesniedz saskaņā ar Ministru kabineta 2015. gada 29. septembra noteikumiem Nr. 548 "Noteikumi par uzņēmumu ienākuma nodokļa taksācijas perioda deklarāciju un avansa maksājumu aprēķinu".

@@ -1,0 +1,2 @@
+14. pants. Nodokļa atvieglojums nodokļa maksātājiem, kas veic lauksaimniecisko darbību
+Nodokļa maksātājs ir tiesīgs samazināt pārskata gada ar nodokli apliekamo bāzi apjomā, kas atbilst 50 procentiem no summas, kas saņemta kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai, bet ne vairāk kā par taksācijas periodā ar nodokli apliekamajā bāzē iekļauto ar nodokli apliekamo objektu kopsummu.

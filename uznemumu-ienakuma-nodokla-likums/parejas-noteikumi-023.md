@@ -1,0 +1,3 @@
+23. Kapitālsabiedrības pārskata gadā aprēķināto uzņēmumu ienākuma nodokli par pārskata gadā aprēķinātajām dividendēm ir tiesīgas samazināt par uzņēmumu ienākuma nodokļa atlaides summu, kas aprēķināta saskaņā ar likumu "Par nodokļu piemērošanu brīvostās un speciālajās ekonomiskajās zonās", ja vienlaikus ievēroti šādi nosacījumi:
+1) ieguldījumi veikti līdz 2035. gada 31. decembrim;
+2) atļauja piemērot tiešo nodokļu atvieglojumus par šā punkta 1. apakšpunktā minētajiem ieguldījumiem ir piešķirta un līgums par ieguldījumu veikšanu ir noslēgts minētajā likumā noteiktās atbalsta shēmas spēkā esības laikā.

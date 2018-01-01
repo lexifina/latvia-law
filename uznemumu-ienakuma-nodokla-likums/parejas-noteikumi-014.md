@@ -1,0 +1,1 @@
+14. Šo pārejas noteikumu 13. punktā minētā nodokļa samazinājuma summa pārskata gadā nevar pārsniegt 50 procentus no uzņēmumu ienākuma nodokļa summas, kas attiecīgajā pārskata gadā aprēķināta par dividendēm.

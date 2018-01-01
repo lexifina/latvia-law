@@ -1,0 +1,14 @@
+10. pants. Nodokļa bāzē iekļaujamie palielinātie procentu maksājumi
+(1) Ar nodokli apliekamajā bāzē iekļauj procentu maksājumus proporcionāli tam, kādā apmērā pārskata gada parādu saistību (par kurām aprēķināti procentu maksājumi) vidējais apjoms pārsniedz summu, kura vienāda ar četrkāršotu nodokļa maksātāja uzņēmuma gada pārskatā atspoguļoto pašu kapitāla apjomu (pārskata gada sākumā), kas samazināts par ilgtermiņa ieguldījumu pārvērtēšanas rezervi un citām rezervēm, kuras nav radušās peļņas sadales rezultātā.
+(2) Šā panta pirmo daļu nepiemēro procentu maksājumiem par aizņēmumiem, kas saņemti no tādas finanšu iestādes, kura atbilst abiem šajā daļā minētajiem kritērijiem:
+1) tā ir Latvijas, citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents vai tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā;
+2) tā sniedz kreditēšanas vai finanšu līzinga pakalpojumus, un tās uzraudzību veic attiecīgās valsts kredītiestāžu vai finanšu uzraudzības institūcija.
+(3) Ja procentu izmaksas pārskata gadā pārsniedz trīs miljonus euro, ar nodokli apliekamajā bāzē iekļauj procentu maksājumu summu, kas pārsniedz 30 procentus no pārskata gada peļņas vai zaudējumu aprēķinā uzrādītās peļņas pirms aprēķinātā uzņēmumu ienākuma nodokļa, kura palielināta par procentu maksājumiem un aprēķināto nolietojumu.
+(4) Ja nodokļa bāze vienlaikus jāpalielina par procentu maksājumiem atbilstoši šā panta pirmajai un trešajai daļai, to palielina par lielāko no summām, kas noteikta saskaņā ar šā panta pirmo vai trešo daļu.
+(5) Šā panta pirmo, trešo un ceturto daļu nepiemēro procentu maksājumiem par:
+1) aizņēmumiem, kas saņemti no kredītiestādes, kura ir Latvijas, citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents vai tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā;
+2) aizņēmumiem, kas saņemti no Latvijas Republikas Valsts kases;
+3) aizņēmumiem, kas saņemti no attīstības finanšu institūcijas;
+4) aizņēmumiem, kas saņemti no Ziemeļu Investīciju bankas, Eiropas Rekonstrukcijas un attīstības bankas, Eiropas Investīciju bankas, Eiropas Padomes un attīstības bankas un Pasaules Bankas grupas;
+5) Latvijas un citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu publiskās apgrozības parāda vērtspapīriem;
+6) aizņēmumiem, kuri tieši vai netieši saņemti no valsts finansēšanas, ārējās tirdzniecības kreditēšanas vai garantēšanas organizācijas, kas ir tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā, vai kas ir īpaši norādīta konkrētajā konvencijā par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu.

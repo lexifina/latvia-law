@@ -1,0 +1,1 @@
+36. Piemērojot šā likuma 17. panta pirmo daļu, nodokļu maksātājs ir tiesīgs par taksācijas periodu no 2018. gada janvāra līdz jūnijam Valsts ieņēmumu dienestam iesniegt vienotu deklarāciju un veikt uzņēmumu ienākuma nodokļa maksājumu līdz 2018. gada 20. jūlijam.

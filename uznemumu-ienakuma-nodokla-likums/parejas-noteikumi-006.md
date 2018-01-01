@@ -1,0 +1,1 @@
+6. Informāciju, kas jāiesniedz Valsts ieņēmumu dienestam saskaņā ar likuma "Par uzņēmumu ienākuma nodokli" 24. pantu, iesniedz saskaņā ar Ministru kabineta 2006. gada 4. jūlija noteikumiem Nr. 556 "Likuma "Par uzņēmumu ienākuma nodokli" normu piemērošanas noteikumi".

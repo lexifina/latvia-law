@@ -1,0 +1,1 @@
+35. Ja nodokļa maksātāja pārskata gads nesakrīt ar kalendāra gadu, nosakot uzņēmumu ienākuma nodokļa bāzi par periodu no 2018. gada 1. janvāra līdz pārskata gada beigām, šā likuma 12. panta pirmās daļas 1. punkta piemērošanai ņem vērā pārskata gada (kas sākās 2016. gadā) finanšu rādītājus.

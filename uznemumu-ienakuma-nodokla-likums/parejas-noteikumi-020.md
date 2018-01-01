@@ -1,0 +1,1 @@
+20. Nodokļa maksātājs, kura atbalstāmo investīciju projektu Ministru kabinets līdz 2017. gada 31. decembrim ir apstiprinājis, pamatojoties uz likuma "Par uzņēmumu ienākuma nodokli" 17.² pantu, ir tiesīgs turpināt piemērot neizmantoto uzņēmumu ienākuma nodokļa atlaidi, taksācijas periodā samazinot uzņēmumu ienākuma nodokli par šajā periodā aprēķinātajām dividendēm.

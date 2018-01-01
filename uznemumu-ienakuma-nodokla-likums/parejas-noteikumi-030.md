@@ -1,0 +1,1 @@
+30. Nerezidenti, kuri atsavinājuši nekustamo īpašumu līdz 2017. gada 31. decembrim, veicot pārrēķinu saskaņā ar šā likuma 5. panta ceturto daļu aprēķinātajam ar uzņēmumu ienākuma nodokli apliekamajam ienākumam, piemēro 15 procentu uzņēmumu ienākuma nodokļa likmi.
