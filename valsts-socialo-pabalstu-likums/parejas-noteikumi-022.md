@@ -1,0 +1,1 @@
+22. Personai, kurai atlīdzība par audžuģimenes pienākumu pildīšanu piešķirta līdz 2017. gada 31. decembrim un tās izmaksa nepārtraukti turpinās pēc 2018. gada 1. janvāra, Valsts sociālās apdrošināšanas aģentūra pārskata atlīdzības apmēru par periodu no 2018. gada 1. janvāra un izmaksā starpību ne vēlāk kā līdz 2018. gada 31. jūlijam.

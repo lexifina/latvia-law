@@ -1,0 +1,1 @@
+23. Šā likuma 6. panta ceturtā daļa stājas spēkā 2018. gada 1. martā. Valsts sociālās apdrošināšanas aģentūra aprēķina piemaksas apmēru par periodu no 2018. gada 1. marta un izmaksā to ne vēlāk kā līdz 2018. gada 30. aprīlim.

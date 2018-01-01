@@ -1,0 +1,1 @@
+24. Grozījumi šā likuma 6. panta otrās daļas 2. punktā attiecībā uz skaitļa "19" aizstāšanu ar skaitli "20" un pēdējā teikuma izslēgšanu stājas spēkā 2018. gada 1. janvārī. Valsts sociālās apdrošināšanas aģentūra aprēķina ģimenes valsts pabalsta apmēru par periodu no 2018. gada 1. janvāra un izmaksā to ne vēlāk kā līdz 2018. gada 30. aprīlim.
