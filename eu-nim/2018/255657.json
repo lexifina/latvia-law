@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2017.gada 28.novembra normatīvie noteikumi Nr.195 \"Kontu maiņas pakalpojuma sniegšanas noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "240",
+  "official_journal_page": null,
+  "official_journal_date": "2017-12-04",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2018-02-12",
+  "commission_reference": "MNE(2018)50903",
+  "nim_celex": "72014L0092LVA_255657",
+  "nim_id": "255657",
+  "transposes_celex": [
+    "32014L0092"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3484efd0-4ee2-4e62-ba63-e53c785b116d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
