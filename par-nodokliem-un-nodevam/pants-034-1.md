@@ -5,7 +5,8 @@
 3) nodokļu maksātājs lieto kases aparātu, hibrīda kases aparātu, kases sistēmu, specializēto ierīču un iekārtu datorprogrammu vai grāmatvedības informācijas datorsistēmu, kurai ir mainīta programmatūra vai veiktas citas darbības, ar kurām radīta iespēja slēpt vai samazināt ar nodokļiem un nodevām apliekamo objektu;
 4) nodokļu maksātājs nodarbinātajai personai izmaksā ienākumus, kuri nav uzrādīti grāmatvedības uzskaitē un Valsts ieņēmumu dienestam iesniegtajā ziņojumā par valsts sociālās apdrošināšanas obligātajām iemaksām no darba ņēmēju ienākumiem, par iedzīvotāju ienākuma nodokli un uzņēmējdarbības riska valsts nodevu pārskata mēnesī, vai nodarbina vairāk nekā vienu personu, ar kuru nav noslēdzis rakstveida darba līgumu;
 5) nodokļu maksātājs nav novērsis pārkāpumus, kas bija par pamatu tā izslēgšanai no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra;
-6) nodokļu maksātājs normatīvajos aktos noteiktajā termiņā nav iesniedzis šā likuma 26.² panta pirmajā daļā minēto nodrošinājumu.
+6) nodokļu maksātājs normatīvajos aktos noteiktajā termiņā nav iesniedzis šā likuma 26.² panta pirmajā daļā minēto nodrošinājumu;
+7) nodokļu maksātājs nav samaksājis nokavētos nodokļu maksājumus, kas tiek piedzīti ar lēmumu par nokavēto nodokļu maksājumu piedziņu, un Valsts ieņēmumu dienesta rīcībā ir apstiprināts akts par piedziņas neiespējamību.
 (2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par saimnieciskās darbības apturēšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 1.punktā minētais pārkāpums.
 (2¹) Brīdinot nodokļu maksātāju par saimnieciskās darbības apturēšanu, Valsts ieņēmumu dienestam vienlaikus ir tiesības:
 1) aizliegt nodokļu maksātājam veikt noteiktas darbības, kas vērstas uz izvairīšanos no nodokļu maksāšanas;

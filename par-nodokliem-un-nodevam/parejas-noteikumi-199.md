@@ -1,0 +1,1 @@
+199. Kredītiestādes un maksājumu pakalpojumu sniedzēji, kas sniedz ar maksājumu kontu saistītu pakalpojumu, līdz 2018. gada 1. jūlijam iesniedz Valsts ieņēmumu dienestam informāciju par fizisko personu - Latvijas Republikas rezidentu, kuru konta debeta vai kredīta apgrozījums iepriekšējā gadā pārsniedz 15 000 euro, - bankas kontu atlikumiem 2018. gada 1. janvārī.
