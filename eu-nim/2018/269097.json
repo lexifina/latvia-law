@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Uzņēmumu ienākuma nodokļa likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2017-08-08",
+  "entry_into_force": "2018-01-01",
+  "notification_date": "2019-02-07",
+  "commission_reference": "MNE(2019)51087",
+  "nim_celex": "72016L1164LVA_269097",
+  "nim_id": "269097",
+  "transposes_celex": [
+    "32016L1164"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/54ea3ca0-7523-4d6d-aec0-1ae18c8f7079",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
