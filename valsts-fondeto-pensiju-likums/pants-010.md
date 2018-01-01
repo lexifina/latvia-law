@@ -10,5 +10,5 @@
 6) katru gadu Ministru kabineta noteiktajā kārtībā sastāda pārskatu par fondēto pensiju shēmas darbību, kurš sniedz patiesu un skaidru priekšstatu par fondēto pensiju shēmas pārvaldi, veiktajām iemaksām un līdzekļu pārskaitījumiem, kā arī par fondēto pensiju shēmas dalībnieku kontu uzskaites atbilstību normatīvo aktu prasībām. Pārskatu par fondēto pensiju shēmas darbību saskaņā ar starptautiskajiem revīzijas standartiem pārbauda zvērināts revidents un apstiprina labklājības ministrs;
 7) nodrošina informācijas publicēšanu par fondēto pensiju shēmu un tās darbības rezultātiem.
 (2) Aģentūras izdevumi fondēto pensiju shēmas administrēšanai tiek segti Ministru kabineta noteiktajā kārtībā.
-(3) Dokumenti, kas nodrošina fondēto pensiju shēmas dalībnieku kontu izveidi un aktualizāciju, Aģentūrā glabājami, kamēr turpinās attiecīgās personas dalība fondēto pensiju shēmā un vēl 30 gadus pēc dalības izbeigšanās.
+(3) (Izslēgta ar 22.11.2017. likumu)
 (4) Šā panta pirmās daļas 1. un 1.¹ punktā noteiktos uzdevumus saskaņā ar Valsts pārvaldes iekārtas likumu var deleģēt privātpersonai. Pildot šos uzdevumus, privātpersona ir Aģentūras funkcionālā pakļautībā.

@@ -1,0 +1,1 @@
+23. Šā likuma 12. panta ceturtās daļas 7. punkta noteikumi nav attiecināmi uz ieguldījumiem alternatīvo ieguldījumu fondos, kas veikti līdz 2017. gada 31. decembrim, un noslēgto vienošanos veikt ieguldījumus nākotnē, ja vienošanās noslēgta līdz 2017. gada 31. decembrim.

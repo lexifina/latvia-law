@@ -1,4 +1,4 @@
-11.¹ pants. Fondēto pensiju shēmas līdzekļu pārvaldīšanas reklāma
+11.¹ pants. Fondēto pensiju shēmas līdzekļu pārvaldīšanas pakalpojumu reklāma un ieguldījumu plānu piedāvāšana
 (1) Jebkāda fondēto pensiju shēmas līdzekļu pārvaldīšanas un ar to saistīto pakalpojumu publiska sludināšana (reklāma) jebkurā veidā var notikt tikai atbilstoši Komisijā reģistrētam ieguldījumu plāna prospektam.
 (2) Ievietojot sludinājumus vai publiski paziņojot ieguldījumu plāna noteikumus, ieguldījumu plāna reklāmā norāda:
 1) ieguldījumu plāna nosaukumu;
@@ -7,3 +7,9 @@
 4) ieguldījumu plāna prospekta izsniegšanas vietu;
 5) paziņojumu par to, ka līdzšinējais ienesīgums negarantē līdzīgu ienesīgumu nākotnē (ja reklāmā ir minēts ieguldījumu plāna ienesīgums).
 (3) Ievietojot sludinājumus vai publiski paziņojot ieguldījumu plāna noteikumus, ieguldījumu plāna reklāmā nedrīkst nekādā veidā garantēt peļņu vai noteiktu ienesīguma līmeni.
+(4) Personām, kas piedāvā ieguldījumu plānus, ir pienākums individuāli informēt fondēto pensiju shēmas dalībniekus par maksājumu par ieguldījumu plāna pārvaldi (maksājuma pastāvīgo un mainīgo daļu), iepazīstinot viņus ar attiecīgā ieguldījumu plāna dalībniekiem paredzētās pamatinformācijas dokumentu (aktuālo versiju).
+(5) Personām, kas piedāvā ieguldījumu plānus, aizliegts:
+1) ietekmēt fondēto pensiju shēmas dalībnieka lēmumu, papildus piedāvājot iegūt preces, saņemt pakalpojumus vai citas priekšrocības;
+2) pieprasīt no fondēto pensiju shēmas dalībnieka informāciju par uzkrātā fondētā pensijas kapitāla apmēru;
+3) radīt atšķirīgu attieksmi starp fondēto pensiju shēmas dalībniekiem, tai skaitā izvēlētā ieguldījumu plāna vai uzkrātā fondētā pensijas kapitāla dēļ;
+4) sasaistīt vai kombinēt dalību ieguldījumu plānā ar jebkādiem citiem pakalpojumiem, precēm vai priekšrocībām.
