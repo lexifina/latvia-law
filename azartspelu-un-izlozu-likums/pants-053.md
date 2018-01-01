@@ -1,6 +1,7 @@
 53.pants. Prasības attiecībā uz interaktīvo azartspēļu organizēšanu
 (1) Interaktīvo azartspēļu organizētājs, kā arī totalizatora vai derību organizētājs, kas pieņem likmes ar elektronisko sakaru pakalpojumu starpniecību, nodrošina:
 1) katra spēlētāja reģistrāciju, pieprasot no viņa personu identificējošus datus, pirms viņam tiek piešķirtas tiesības piedalīties azartspēlē;
+1¹) interaktīvo azartspēļu spēlētāju reģistra izveidi un uzturēšanu;
 2) katram spēlētājam īpaša spēles konta izveidi uz spēļu organizētāja servera.
 3) pēc spēlētāja pieprasījuma viņa spēles kontā esošo līdzekļu pārskaitīšanu uz to pašu kredītiestādes kontu, no kura tika pārskaitīti likmju izdarīšanai paredzētie līdzekļi;
 4) Izložu un azartspēļu uzraudzības inspekcijas darbinieku netraucētu piekļuvi spēles organizēšanai izmantotajai programmai un grāmatvedības dokumentiem, kas saistīti ar interaktīvo azartspēļu rīkošanu.

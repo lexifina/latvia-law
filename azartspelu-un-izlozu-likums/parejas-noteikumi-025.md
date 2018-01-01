@@ -1,0 +1,1 @@
+25. Azartspēļu pakalpojumu sniedzējam, kas azartspēļu pakalpojumu sniegšanu ir uzsācis līdz 2017. gada 31. decembrim un turpina azartspēļu pakalpojumu sniegšanu pēc šā likuma X¹ nodaļas stāšanās spēkā, šā likuma 80.¹ pantā minētā licence jāsaņem Izložu un azartspēļu uzraudzības inspekcijā līdz 2018. gada 31. martam.
