@@ -1,6 +1,10 @@
 94.pants. (1) Ja netiek pildītas šā likuma prasības, Komisija ir tiesīga uzlikt apdrošinātājam vai pārapdrošinātājam soda naudu līdz 142 000 euro.
 (2) Ja netiek pildīti likuma "Par apdrošināšanas līgumu" 6.panta otrās daļas, 24.¹ un 55.panta noteikumi, Komisija ir tiesīga uzlikt apdrošinātājam soda naudu līdz 14 200 euro.
 (3) (Izslēgta ar 26.10.2017. likumu, kas stājas spēkā 09.11.2017.)
+(3¹) Komisija, piemērojot šā likuma 93.¹ pantu, atbilstoši ES Regulas Nr. 1286/2014 24. pantam par regulas pārkāpumiem ir tiesīga:
+1) uzlikt juridiskajai personai soda naudu līdz 5 000 000 euro vai līdz trim procentiem no kopējā gada apgrozījuma saskaņā ar pēdējo pieejamo minētās juridiskās personas revidēto gada pārskatu. Ja juridiskā persona ir mātes sabiedrība vai mātes sabiedrības meitas sabiedrība, kura sagatavo konsolidēto gada pārskatu saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu vai konsolidēto finanšu pārskatu saskaņā ar izcelsmes dalībvalsts attiecīgo normatīvo aktu prasībām, kopējo apgrozījumu veido kopējais gada apgrozījums vai atbilstoša veida ienākumi saskaņā ar izcelsmes dalībvalsts attiecīgajiem normatīvajiem aktiem grāmatvedības jomā, ņemot vērā pēdējo pieejamo konsolidēto gada pārskatu, ko apstiprinājusi galvenā mātes sabiedrības vadības struktūra;
+2) uzlikt par pārkāpumu atbildīgajai fiziskajai personai soda naudu līdz 700 000 euro;
+3) kā alternatīvu šīs daļas 1. vai 2. punktā noteiktajam uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
 (4) Ja persona ir ieguvusi vai palielinājusi būtisku līdzdalību apdrošināšanas vai pārapdrošināšanas sabiedrībā pirms šā likuma 76.panta pirmajā vai otrajā daļā minētā paziņojuma iesniegšanas Komisijai vai tā izskatīšanas laikā, Komisija ir tiesīga uzlikt personai soda naudu no 14 200 līdz 142 000 euro.
 (5) Komisijas uzlikto soda naudu persona samaksā ne vēlāk kā viena mēneša laikā no dienas, kad stājies spēkā Komisijas lēmums par soda naudas uzlikšanu.
 (6) Labprātīgi neizpildīta Komisijas lēmuma piespiedu izpildi veic tiesu izpildītājs Civilprocesa likumā noteiktajā kārtībā.
