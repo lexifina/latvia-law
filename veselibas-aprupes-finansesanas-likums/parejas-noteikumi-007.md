@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2018. gada 1. augustam izstrādā un iesniedz Saeimai likumprojektu par kritērijiem veselības aprūpes pakalpojuma iekļaušanai valsts apmaksājamo veselības aprūpes pakalpojumu klāstā un kritērijiem, pēc kādiem var tikt pieņemts lēmums slēgt līgumu par valsts apmaksāto veselības aprūpes pakalpojumu nodrošināšanu.

@@ -1,0 +1,9 @@
+12. pants. Veselības apdrošināšanas iemaksas apmērs, atmaksa un administrēšana
+(1) Veselības apdrošināšanas iemaksas apmērs kalendāra gadā ir pieci procenti no divpadsmitkāršas valstī noteiktās minimālās mēneša darba algas.
+(2) Veselības apdrošināšanas iemaksas persona veic reizi gadā valsts budžetā par kārtējo kalendāra gadu, kā arī par diviem iepriekšējiem kalendāra gadiem, ja veselības apdrošināšanas iemaksas par diviem iepriekšējiem kalendāra gadiem nav veiktas vai persona nav piederējusi pie kādas no šā likuma 11. pantā minētajām personu grupām.
+(3) Lai persona iegūtu tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros kalendāra gadā, ja tā attiecīgajā gadā vairs neatbilst šā likuma 11. panta pirmās daļas 1. punkta, otrās vai trešās daļas nosacījumiem, tās veselības apdrošināšanas iemaksu summai jāatbilst apmēram, ko aprēķina saskaņā ar šādu formulu:
+veselības apdrošināšanas iemaksa = veselības apdrošināšanas iemaksa gadam × 1/12 × kārtējā kalendāra gadā atlikušo pilno mēnešu skaits (ieskaitot kārtējo mēnesi).
+(4) Attiecīgajā kalendāra gadā veikto veselības apdrošināšanas iemaksu atmaksā, ja veselības apdrošināšanas iemaksu veicējs atbilst kādam no šā likuma 11. panta pirmās daļas 1. punkta, otrās vai trešās daļas nosacījumiem. Atmaksājamo summu aprēķina saskaņā ar šādu formulu:
+atmaksājamā summa = veselības apdrošināšanas iemaksa gadam x 1/12 x kārtējā kalendāra gadā atlikušo pilno mēnešu skaits.
+(5) Attiecīgajā kalendāra gadā veikto veselības apdrošināšanas iemaksu atmaksā Nacionālais veselības dienests pēc veselības apdrošināšanas iemaksu veicēja pieprasījuma saņemšanas.
+(6) Veselības apdrošināšanas iemaksas administrē Nacionālais veselības dienests (turpmāk - dienests). Ministru kabinets nosaka kārtību, kādā veicamas un atmaksājamas veselības apdrošināšanas iemaksas.

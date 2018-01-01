@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2018. gada 1. jūlijam sagatavo un iesniedz Saeimai ziņojumu par valsts apmaksāto veselības aprūpes pakalpojumu nodrošināšanu valsts, pašvaldību un privātās ārstniecības iestādēs.

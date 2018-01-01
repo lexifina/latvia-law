@@ -1,0 +1,1 @@
+5. 2018. gadā šā likuma 11. panta pirmās daļas 2. punktā minētajai personai ir tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros neatkarīgi no veselības apdrošināšanas iemaksu veikšanas.
