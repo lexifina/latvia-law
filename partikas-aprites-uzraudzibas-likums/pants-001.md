@@ -21,4 +21,4 @@
 20) (izslēgts ar 17.11.2005. likumu);
 21) (izslēgts ar 17.11.2005. likumu);
 22) materiāli un izstrādājumi, kas paredzēti saskarei ar pārtiku - materiāli un izstrādājumi, kas ir nonākuši saskarē ar pārtiku un paredzēti saskarei ar pārtiku, turklāt ir pamats uzskatīt, ka tie nonāks saskarē ar pārtiku vai pārnesīs savas sastāvdaļas uz pārtiku normālos vai paredzamos izmantošanas apstākļos;
-23) jaunā pārtika - pārtikas produkti un pārtikas produktu sastāvdaļas, kas atbilst Eiropas Parlamenta un Padomes 1997.gada 27.janvāra regulas (EEK) Nr. 258/97, kas attiecas uz jauniem pārtikas produktiem un jaunām pārtikas produktu sastāvdaļām, 1.panta 2.punktā noteiktajām kategorijām.
+23) jaunā pārtika - pārtikas produkti un pārtikas produktu sastāvdaļas, kas atbilst Eiropas Parlamenta un Padomes 2015. gada 25. novembra regulas (ES) Nr. 2015/2283 par jauniem pārtikas produktiem un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1169/2011 un atceļ Eiropas Parlamenta un Padomes regulu (EK) Nr. 258/97 un Komisijas regulu (EK) Nr. 1852/2001 3. panta 2. punktā noteiktajām kategorijām.
