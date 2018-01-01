@@ -1,0 +1,1 @@
+66. Pašnodarbinātais ziņojumu par obligāto iemaksu objektu un veiktajām iemaksām no lauksaimnieciskās ražošanas ienākuma par periodu līdz 2017. gada 31. decembrim iesniedz Valsts ieņēmumu dienestam un veic obligātās iemaksas kārtībā un termiņos, kādi bija spēkā līdz 2017. gada 31. decembrim.

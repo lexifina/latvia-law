@@ -18,7 +18,8 @@ m) kapitālsabiedrības valdes loceklis, ja kapitālsabiedrībai taksācijas gad
 n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli,
 o) persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums),
 p) persona, kura vada transportlīdzekli pasažieru komercpārvadājumos ar vieglo taksometru,
-r) persona, kurai saskaņā ar Jaunuzņēmumu darbības atbalsta likumu tiek piemērots valsts atbalsts nodokļu nomaksai;
+r) persona, kurai saskaņā ar Jaunuzņēmumu darbības atbalsta likumu tiek piemērots valsts atbalsts nodokļu nomaksai,
+s) profesionāls sportists;
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
@@ -35,4 +36,5 @@ l) individuālais komersants;
 4) iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka:
 a) persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā,
 b) persona, kuru nodarbina citas dalībvalsts darba devējs un kurai saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulas (EK) Nr. 883/2004 par sociālās nodrošināšanas sistēmu koordinēšanu (turpmāk - regula) 11., 12., 13., 14., 15. un 16.pantu piemēro Latvijas Republikas normatīvos aktus;
-5) ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka - persona, kuru nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta nav Latvijas Republikā un tā uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā.
+5) ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka - persona, kuru nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta nav Latvijas Republikā un tā uzturas Latvijas Republikā 183 dienas vai ilgāk jebkurā 12 mēnešu periodā, kas sākas vai beidzas taksācijas gadā;
+6) autoratlīdzības (autortiesību un blakustiesību atlīdzības) izmaksātājs - komersants, individuālais uzņēmums (arī zemnieku vai zvejnieku saimniecība), kooperatīva sabiedrība, nerezidenta pastāvīgā pārstāvniecība, iestāde, organizācija, biedrība, nodibinājums un fiziskā persona, kura reģistrēta kā saimnieciskās darbības veicējs.

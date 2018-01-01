@@ -3,6 +3,7 @@
 (2) Darba ņēmējs veic obligātās iemaksas ar darba devēja starpniecību. Darba devējs ietur iemaksas, kas jāveic darba ņēmējam, un iemaksā tās speciālā budžeta kontā šā panta pirmajā daļā noteiktajos termiņos.
 (2¹) Ja darba devējs nav veicis šajā likumā noteiktās sociālās apdrošināšanas iemaksas, persona, par kuru darba devējam tās bija jāveic un kura ir sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, var veikt sociālās apdrošināšanas iemaksas pensiju apdrošināšanai. Ministru kabinets reglamentē noteikumus, termiņus un kārtību, kādā persona veic sociālās apdrošināšanas iemaksas pensiju apdrošināšanai.
 (3) Pašnodarbinātais (izņemot fizisko personu, kura veic saimniecisko darbību un par to maksā patentmaksu) veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 15.datumam.
+(3¹) Pašnodarbinātais no lauksaimnieciskās ražošanas ienākuma šā likuma 23.² pantā minētās obligātās iemaksas par iepriekšējo taksācijas gadu veic līdz kārtējā gada 15. aprīlim.
 (4) Iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka un ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 15.datumam.
 (5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
 (6) (Izslēgta ar 20.06.2001. likumu)
