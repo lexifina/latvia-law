@@ -1,0 +1,1 @@
+38. Šā likuma 23. panta ceturtajā daļā minētie sadzīves un ražošanas atkritumu valdītāji un apsaimniekotāji, kā arī šā likuma 17.¹ panta pirmajā daļā minētie atkritumu pārstrādes vai reģenerācijas iekārtu operatori pārvadājumu un atkritumu saņemšanas paziņošanu uzsāk ar 2018. gada 1. jūliju.

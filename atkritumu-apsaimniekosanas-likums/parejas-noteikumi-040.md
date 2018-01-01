@@ -1,0 +1,1 @@
+40. Prasības par finanšu nodrošinājumu regulas Nr. 1013/2006 3. panta 2. punktā minēto atkritumu pārvadāšanai piemērojamas attiecībā uz atkritumiem, kurus plānots ievest Latvijas teritorijā pārstrādei vai reģenerācijai no 2018. gada 1. jūlija.

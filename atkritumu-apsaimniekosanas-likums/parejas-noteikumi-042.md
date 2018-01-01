@@ -1,0 +1,1 @@
+42. Sabiedrisko pakalpojumu regulēšanas komisija divu mēnešu laikā pēc šā likuma 41. panta pirmās daļas 9. punkta spēkā stāšanās veic grozījumus sadzīves atkritumu apglabāšanas pakalpojuma tarifa aprēķināšanas metodikā.
