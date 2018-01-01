@@ -1,2 +1,2 @@
 V nodaļa
-Nodokļu administrācija
+Nodokļu administrācija un nodevu administrācija

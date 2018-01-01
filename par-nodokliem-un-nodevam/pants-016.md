@@ -1,5 +1,5 @@
 16.pants. Nodokļu maksātāju tiesības
-Nodokļu maksātājiem ir tiesības:
+(1) Nodokļu maksātājiem ir tiesības:
 1) izmantot likumos noteiktos nodokļu un nodevu atvieglojumus;
 2) izmantot likumos paredzētās nodokļu atlaides;
 3) nodokļu administrācijā bez maksas iepazīties ar normatīvajiem dokumentiem, kas reglamentē nodokļu un nodevu aprēķināšanas un maksāšanas kārtību;
@@ -12,4 +12,9 @@ Nodokļu maksātājiem ir tiesības:
 10) pieprasīt pārmaksātās nodokļa summas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa;
 11) pieprasīt pārmaksātās valsts nodevas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā no dienas, kad ir izsniegts tās personas rakstveida atzinums, kura sniegusi pakalpojumu vai devusi nodrošinājumu, vai stājies spēkā tiesas vai tiesneša nolēmums par valsts nodevas atmaksāšanu;
 12) pieprasīt nepareizi iemaksātās (maksājums veikts, bet attiecīgā darbība iestādē nav veikta vai pakalpojums nav sniegts, vai maksājums iemaksāts nepareizā valsts budžeta kontā) valsts nodevas atmaksāšanu vai novirzīšanu kārtējo nodokļu maksājumu segšanai triju gadu laikā no dienas, kad valsts nodeva ir iemaksāta;
-13) iesniegt (ne biežāk kā vienu reizi mēnesī) Valsts ieņēmumu dienestam iesniegumu par kontu, kurā nodokļu maksātājam tiek ieskaitīta darba samaksa, tai pielīdzinātie maksājumi vai citi maksājumi, uz kuriem attiecināmi piedziņas vēršanas ierobežojumi.
+13) iesniegt (ne biežāk kā vienu reizi mēnesī) Valsts ieņēmumu dienestam iesniegumu par kontu, kurā nodokļu maksātājam tiek ieskaitīta darba samaksa, tai pielīdzinātie maksājumi vai citi maksājumi, uz kuriem attiecināmi piedziņas vēršanas ierobežojumi;
+14) apvienot akcīzes preču noliktavu ar muitas noliktavu, izveidojot apvienoto noliktavu, lai tajā veiktu darbības ar akcīzes precēm, kas pakļautas atliktā akcīzes nodokļa maksāšanai, un darbības ar citām precēm, kas atrodas muitas uzraudzībā. Apvienoto noliktavu var izveidot nodokļu maksātāji, kuriem ir speciāla atļauja (licence) akcīzes preču (alkoholisko dzērienu vai tabakas izstrādājumu) noliktavas turētāja darbībai un atļauja muitas noliktavas darbībai.
+(2) Ministru kabinets nosaka:
+1) prasības, saskaņā ar kurām nodokļu maksātāji iegūst šā panta pirmās daļas 14. punktā minētās apvienotās noliktavas statusu;
+2) kārtību, kādā iesniedzams un izskatāms komersanta iesniegums apvienotās noliktavas statusa piešķiršanai;
+3) apvienotās noliktavas statusa apturēšanas, atjaunošanas un anulēšanas nosacījumus un kārtību.
