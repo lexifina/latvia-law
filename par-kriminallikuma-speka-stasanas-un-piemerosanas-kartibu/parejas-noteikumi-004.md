@@ -1,0 +1,1 @@
+4. Noziedzīgos nodarījumos, kuri izdarīti līdz 2017. gada 31. decembrim, nodarīto miesas bojājumu smaguma pakāpe nosakāma atbilstoši tam likuma regulējumam, kas bija spēkā līdz 2017. gada 31. decembrim.
