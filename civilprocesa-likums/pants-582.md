@@ -7,3 +7,4 @@
 3) lai šajā likumā noteiktajos gadījumos to nodotu kustamās mantas nosolītājam, piedzinējam vai parādniekam.
 (4) Ja parādnieks pilnīgi samaksā parādu un tiesas sprieduma izpildes izdevumus pirms apķīlātās mantas pārdošanas, pārdošana apturama un apķīlātā manta atdodama parādniekam.
 (5) Pēc apķīlātās mantas pārdošanas vai tās nodošanas piedzinējam (šajā likumā noteiktajos gadījumos) tiesu izpildītājs pieņem lēmumu par pārdotās mantas atbrīvošanu no apķīlājuma, kā arī nosūta attiecīgajam kustamo lietu reģistra turētājam vai citam publiskajam reģistram paziņojumu par aizlieguma atcelšanu un mantas atbrīvošanu no apķīlājuma.
+(6) Apķīlāta transportlīdzekļa pārdošanas gadījumā pēc tam, kad ieguvējs samaksājis visu no viņa pienākošos summu, tiesu izpildītājs piecu dienu laikā paziņo Valsts ieņēmumu dienestam par transportlīdzekļa atsavināšanas datumu un ieguvēju, kā arī veic par to atzīmi Transportlīdzekļu un to vadītāju valsts reģistrā.
