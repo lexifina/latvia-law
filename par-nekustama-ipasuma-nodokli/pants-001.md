@@ -37,6 +37,7 @@ l) apgaismes būves un žogus;
 12) ēkas un inženierbūves, kuras izmanto tikai lauksaimnieciskajai ražošanai;
 13) (izslēgts no 01.01.2015. ar 06.11.2013. likumu; Sk. Pārejas noteikumu 60.punktu);
 14) valsts īpašumā esošās ēkas vai to daļas (telpu grupas) un inženierbūves, kuras izmanto Nacionālo bruņoto spēku, soda izciešanas iestāžu, policijas, robežsardzes, ugunsdrošības un glābšanas dienestu, kā arī valsts drošības iestāžu funkciju izpildes nodrošināšanai;
+14¹) Latvijas Republikas valsts robežas joslā esošu zemi atbilstoši Valsts zemes dienesta sniegtajai informācijai par robežas joslas platību konkrētā zemes vienībā kārtējā gada 1. janvārī;
 15) ēkas vai to daļas (telpu grupas), kuras izmanto no valsts budžeta finansētās iestādes;
 16) ēkas vai to daļas (telpu grupas), kuras izmanto izglītības, veselības, sociālās aprūpes vajadzībām;
 17) ēkas vai to daļas (telpu grupas) un inženierbūves, kuras izmanto vides aizsardzības vajadzībām, atbilstoši Ministru kabineta noteiktajiem kritērijiem un kārtībai;
