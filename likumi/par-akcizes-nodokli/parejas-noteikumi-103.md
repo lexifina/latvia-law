@@ -1,0 +1,1 @@
+103. Līdz dienai, kad atbilstoši šo pārejas noteikumu 102. punktam sāk piemērot šā likuma 14. panta pirmās daļas 5. punktā noteikto nodokļa likmi (par 1000 kilogramiem), naftas gāzi un pārējos gāzveida ogļūdeņražus apliek ar nodokli no 2018. gada 1. janvāra līdz 2019. gada 31. decembrim - 244 euro par 1000 kilogramiem.

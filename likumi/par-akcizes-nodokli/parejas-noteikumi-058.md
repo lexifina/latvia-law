@@ -19,4 +19,7 @@ a) 56,2 euro par 1000 cigaretēm,
 b) 25 procenti no maksimālās mazumtirdzniecības cenas;
 7) no 2017.gada 1.jūlija līdz 2018.gada 30.jūnijam - summējot lielumus, kas iegūti, piemērojot šā punkta "a" un "b" apakšpunktā minētās nodokļa likmes, bet aprēķinātais nodoklis nedrīkst būt mazāks kā 99 euro par 1000 cigaretēm:
 a) 67 euro par 1000 cigaretēm,
+b) 20 procenti no maksimālās mazumtirdzniecības cenas;
+8) no 2018. gada 1. jūlija līdz 2019. gada 30. jūnijam - summējot lielumus, kas iegūti, piemērojot šā punkta "a" un "b" apakšpunktā minētās nodokļa likmes, bet aprēķinātais nodoklis nedrīkst būt mazāks kā 109,2 euro par 1000 cigaretēm:
+a) 74,6 euro par 1000 cigaretēm,
 b) 20 procenti no maksimālās mazumtirdzniecības cenas.

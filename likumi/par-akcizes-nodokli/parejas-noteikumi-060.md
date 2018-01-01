@@ -4,4 +4,5 @@
 3) no 2014.gada 1.janvāra līdz 2015.gada 31.decembrim - 55,49 euro par 1000 gramiem tabakas;
 4) no 2016.gada 1.janvāra līdz 2016.gada 31.decembrim - 58 euro par 1000 gramiem tabakas;
 5) no 2017.gada 1.janvāra līdz 2017.gada 31.decembrim - 62 euro par 1000 gramiem attiecīgā tabakas izstrādājuma;
-6) no 2018.gada 1.janvāra līdz 2018.gada 31.decembrim - 66 euro par 1000 gramiem attiecīgā tabakas izstrādājuma.
+6) no 2018.gada 1.janvāra līdz 2018.gada 31.decembrim - 66 euro par 1000 gramiem attiecīgā tabakas izstrādājuma;
+7) no 2019. gada 1. janvāra līdz 2019. gada 31. decembrim - 70 euro par 1000 gramiem attiecīgā tabakas izstrādājuma.

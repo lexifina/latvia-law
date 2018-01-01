@@ -7,4 +7,10 @@ a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 74 euro,
 b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 120 euro;
 3) no 2017.gada 1.marta līdz 2018.gada 28.februārim (par 100 litriem):
 a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 78 euro,
-b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 130 euro.
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 130 euro;
+4) no 2018. gada 1. marta līdz 2019. gada 28. februārim (par 100 litriem):
+a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 92 euro,
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 150 euro;
+5) no 2019. gada 1. marta līdz 2020. gada 29. februārim (par 100 litriem):
+a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 101 euro,
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 168 euro.

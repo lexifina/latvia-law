@@ -10,7 +10,7 @@
 (4¹) Pārvietojot akcīzes preces saskaņā ar šā likuma 25.pantu, nodrošinājums ir derīgs teritorijās, uz kurām attiecas šā likuma noteikumi par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm.
 (5) Ja nodokļa maksātājs, kas saskaņā ar šā likuma 27.pantu atdod saņemtās, bet neizmantotās vai bojātās akcīzes nodokļa markas Valsts ieņēmumu dienestam, pirms akcīzes nodokļa marku saņemšanas ir iesniedzis vienreizēju nodrošinājumu, kas aprēķināts atbilstoši izsniegtajām akcīzes nodokļa markām, tad nodrošinājumu, kas atbilst nodokļa summai, kuru nosaka atbilstoši atdotajām akcīzes nodokļa markām, dzēš vai atdod iesniedzējam pēc šā likuma 27.panta astotajā un devītajā daļā minēto izdevumu segšanas.
 (6) Ministru kabinets:
-1) paredz gadījumus, kad nodrošinājums nav jāiesniedz, un nosacījumus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
+1) paredz gadījumus, kad nodrošinājums nav jāiesniedz, un nosacījumus un kritērijus, kuru izpildes gadījumā nodokļa maksātājam var samazināt nodrošinājuma lielumu;
 2) nosaka kārtību, kādā iesniedz, administrē, dzēš un atdod nodrošinājumus.
 (7) Lai nodrošinātu nodokļa nomaksu šā likuma 23. panta astoņpadsmitajā daļā minētajā gadījumā, akcīzes precēm piemērojot muitas procedūru (izņemot laišanu brīvā apgrozībā) vai pagaidu uzglabāšanu saskaņā ar normatīvajiem aktiem muitas jomā, Ministru kabinets:
 1) paredz gadījumus, kad galvojums nav jāiesniedz, un nosacījumus, kurus izpildot nodokļa maksātājam var samazināt galvojuma summu;

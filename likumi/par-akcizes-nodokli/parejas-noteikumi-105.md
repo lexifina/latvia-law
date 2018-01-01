@@ -1,0 +1,1 @@
+105. Līdz dienai, kad atbilstoši šo pārejas noteikumu 104. punktam sāk piemērot šā likuma 14. panta 2.² daļā noteikto nodokļa likmi, dīzeļdegvielu (gāzeļļu) un tādu dīzeļdegvielu (gāzeļļu), kurai ir pievienota no rapšu sēklām iegūta biodīzeļdegviela, apliek ar nodokli līdz 2018. gada 30. jūnijam - 50 euro par 1000 litriem.
