@@ -1,1 +1,1 @@
-66. Šā likuma 16.¹ panta pirmā daļa piemērojama no 2020.gada 1.janvāra. Līdz 2019.gada 31.decembrim finanšu ministrs vidēja termiņa budžeta ietvara likuma projekta un gadskārtējā valsts budžeta likuma projekta izstrādes un iesniegšanas grafika projektu Ministru kabinetam iesniedz līdz kārtējā gada 1.martam.
+66. Šā likuma 16. panta otrā daļa piemērojama no 2020.gada 1.janvāra. Līdz 2019.gada 31.decembrim finanšu ministrs budžeta sagatavošanas grafika projektu Ministru kabinetam iesniedz līdz kārtējā gada 1.martam.

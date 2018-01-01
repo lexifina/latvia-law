@@ -13,6 +13,7 @@ Budžeta izpildītāji - no budžeta finansētu institūciju vadītāji, kuri ar
 Budžeta likumprojektu pakete - likumprojektu pakete, kas sastāv no gadskārtējā valsts budžeta likuma projekta vai gadskārtējā valsts budžeta likuma grozījumu projekta un likumprojektiem, kuri nosaka vai groza valsts budžetu.
 Budžeta programma - savstarpēji saistītu, uz kopēju mērķi orientētu pasākumu vai pakalpojumu kopums, kurš tiek plānots, izpildīts, uzskaitīts un kontrolēts no budžeta finansētās institūcijās saskaņā ar šo likumu un par kura izpildi atbild budžeta izpildītāji. Budžeta programma var būt sadalīta apakšprogrammās.
 Budžeta resors - ministrija, cita centrālā valsts iestāde vai atsevišķi no ministriju vai citu centrālo valsts iestāžu budžetiem nodalīts resursu un izdevumu kopums, kam gadskārtējā valsts budžeta likumā budžeta līdzekļus paredz tieši apropriācijas kārtībā.
+Budžeta sagatavošanas grafiks - Ministru kabineta apstiprināts vidēja termiņa budžeta ietvara likuma projekta un gadskārtējā valsts budžeta likuma projekta izstrādes un iesniegšanas grafiks.
 Centrālā valsts iestāde - valsts budžeta iestāde, kurai gadskārtējā valsts budžeta likumā budžeta līdzekļus paredz tieši apropriācijas kārtībā.
 Dividendes - ieņēmumi no valsts kapitāla izmantošanas, neskaitot procentu maksājumus.
 Dotācijas - budžeta līdzekļi, kurus piešķir citiem budžetiem, komersantiem, biedrībām un nodibinājumiem un citām institūcijām normatīvajos aktos noteiktajā kārtībā, lai nodrošinātu valsts vai pašvaldību funkciju izpildi.

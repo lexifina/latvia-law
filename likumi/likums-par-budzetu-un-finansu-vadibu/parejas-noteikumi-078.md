@@ -1,0 +1,1 @@
+78. Šā likuma 30. panta pirmajā daļā paredzēto ikgadējo pārskatu par valsts budžeta finanšu uzskaiti un ikgadējo pārskatu par Valsts ieņēmumu dienesta administrēto nodokļu, nodevu un citu tā administrēto uz valsts budžetu attiecināmo maksājumu uzskaiti Valsts kase un Valsts ieņēmumu dienests uzsāk piemērot, sagatavojot attiecīgo pārskatu par 2021. gadu.

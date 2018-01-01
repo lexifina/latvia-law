@@ -1,0 +1,1 @@
+75. Ministru kabinets līdz 2018. gada 1. jūlijam izdod šā likuma 29. panta trešajā daļā paredzētos noteikumus. Budžeta iestādes, no valsts budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes uzsāk šo noteikumu piemērošanu no 2019. gada 1. janvāra.

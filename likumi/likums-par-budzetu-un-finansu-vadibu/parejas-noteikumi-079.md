@@ -1,0 +1,1 @@
+79. Ministru kabinets līdz 2018. gada 1. jūlijam izdod šā likuma 30. panta 1.¹ daļā paredzētos noteikumus, un budžeta iestādes, no valsts budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes uzsāk to piemērošanu, sagatavojot gada pārskatu par 2019. gadu.

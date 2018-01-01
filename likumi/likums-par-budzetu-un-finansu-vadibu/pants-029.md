@@ -1,5 +1,7 @@
 29. pants. Uzskaite
 (1) Valsts kase kārto valsts budžeta finanšu uzskaiti.
-(2) Budžeta iestādes Ministru kabineta noteiktajā kārtībā kārto grāmatvedības uzskaiti, ievērojot Ministru kabineta apstiprinātās pamatlīdzekļu nolietojuma normas un pielietošanas nosacījumus.
-(3) No valsts budžeta daļēji finansētas atvasinātas publiskas personas un budžeta nefinansētas iestādes kārto grāmatvedības uzskaiti, ievērojot pamatlīdzekļu nolietojuma normas un pielietošanas nosacījumus šā panta otrajā daļā noteiktajā kārtībā.
-(4) (Izslēgta ar 15.12.2011. likumu)
+(2) Valsts ieņēmumu dienests kārto tā administrēto nodokļu, nodevu un citu šā dienesta administrēto uz valsts budžetu attiecināmo maksājumu uzskaiti.
+(3) Ministru kabinets nosaka grāmatvedības uzskaites kārtību:
+1) budžeta iestādēm, no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm;
+2) Valsts kasei - papildus šīs daļas 1. punktā minētajam - arī valsts budžeta finanšu uzskaitei;
+3) Valsts ieņēmumu dienestam - papildus šīs daļas 1. punktā minētajam - arī šā dienesta administrēto nodokļu, nodevu un citu tā administrēto uz valsts budžetu attiecināmo maksājumu uzskaitei.

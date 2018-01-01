@@ -1,0 +1,1 @@
+77. Šā likuma 29. panta trešās daļas 2. un 3. punktā minētie subjekti Ministru kabineta noteikumus, kas izdoti, pamatojoties uz šā likuma 29. panta trešo daļu, attiecīgi par valsts budžeta finanšu uzskaiti un Valsts ieņēmumu dienesta administrēto nodokļu, nodevu un citu tā administrēto uz valsts budžetu attiecināmo maksājumu uzskaiti uzsāk piemērot ar 2021. gada 1. janvāri.
