@@ -1,0 +1,1 @@
+1. Profesionālās radošās organizācijas, kuras līdz šā likuma spēkā stāšanās dienai ir reģistrējušās Kultūras ministrijā saskaņā ar likuma "Par sabiedriskām organizācijām un to apvienībām" 57.⁵ pantu, līdz 2018. gada 1. septembrim reģistrējas Kultūras ministrijā saskaņā ar šā likuma prasībām.
