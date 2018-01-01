@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) mikrouzņēmums - individuālais komersants, individuālais uzņēmums, zemnieka vai zvejnieka saimniecība, kā arī fiziskā persona, kas reģistrēta Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs, vai sabiedrība ar ierobežotu atbildību, ja tie atbilst visiem turpmāk šajā punktā minētajiem kritērijiem:
 a) dalībnieki (ja tādi ir) ir fiziskās personas,
-b) apgrozījums kalendāra gadā nepārsniedz 100 000 euro,
+b) apgrozījums kalendāra gadā nepārsniedz 40 000 euro,
 c) darbinieku skaits nevienā brīdī nav lielāks par pieciem. Darbinieku skaitā neiekļauj personu, kura darba attiecību laikā atrodas prombūtnē (tai skaitā mācību atvaļinājumā bez darba algas saglabāšanas, grūtniecības, dzemdību, bērna kopšanas atvaļinājumā, atvaļinājumā bērna tēvam, adoptētājiem vai citai personai, kura faktiski kopj bērnu, kā arī atvaļinājumā bez darba samaksas saglabāšanas vai saņem slimības pabalstu) un par šo periodu nesaņem no mikrouzņēmuma ienākumu, kā arī no darba atstādinātus darbiniekus,
 d) sabiedrības ar ierobežotu atbildību valdes locekļi ir tikai mikrouzņēmuma darbinieki;
 e) šajā punktā minētā fiziskā vai juridiskā persona nav personālsabiedrības biedrs;

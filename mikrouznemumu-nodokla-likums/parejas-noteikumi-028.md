@@ -1,0 +1,1 @@
+28. Valsts ieņēmumu dienests līdz 2018. gada 1. februārim Elektroniskās deklarēšanas sistēmā informē mikrouzņēmumu nodokļa maksātājus, kuri 2017. gada 31. decembrī nodarbina fiziskās personas, kas nodarbinātas arī pie cita mikrouzņēmumu nodokļa maksātāja, par šā likuma 2.² pantā minētajiem ierobežojumiem, norādot mikrouzņēmuma darbinieka vārdu, uzvārdu un personas kodu.

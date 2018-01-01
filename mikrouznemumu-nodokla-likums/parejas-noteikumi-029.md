@@ -1,0 +1,1 @@
+29. Grozījums šā likuma 3. panta pirmajā daļā attiecībā uz mikrouzņēmumu nodokļa maksātāja pienākumu ietvert šajā daļā minēto informāciju darba līgumā attiecas uz darba līgumiem, kas tiek noslēgti pēc 2018. gada 1. janvāra.

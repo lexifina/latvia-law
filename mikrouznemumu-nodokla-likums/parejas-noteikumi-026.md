@@ -1,0 +1,1 @@
+26. Mikrouzņēmumu nodokļa maksātājs, piemērojot šā likuma 6. panta 3.¹ daļu 2018. un 2019. taksācijas gadā, ir tiesīgs nepiemērot šā likuma 6. panta trešo daļu apgrozījumam, kas nepārsniedz 52 000 euro, ja mikrouzņēmumu nodokļa maksātāja pirmstaksācijas gada apgrozījums vai tā gada apgrozījums, kas ir pirms pirmstaksācijas gada, pārsniedz 40 000 euro.
