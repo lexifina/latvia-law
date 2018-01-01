@@ -1,0 +1,1 @@
+63. Šā likuma 14. panta 41. un 42. punkts stājas spēkā 2018. gada 1. septembrī. Ministru kabinets līdz 2018. gada 31. augustam izdod šā likuma 14. panta 41. un 42. punktā minētos Ministru kabineta noteikumus.

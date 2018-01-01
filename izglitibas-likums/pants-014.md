@@ -8,6 +8,7 @@ Ministru kabinets:
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
+7¹) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018. Sk. Pārejas noteikumu 43. punktu);
 8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
@@ -21,7 +22,7 @@ Ministru kabinets:
 15) nosaka kārtību, kādā valsts un pašvaldības finansē mācību līdzekļu iegādi izglītības iestādēm;
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu, tai skaitā zemāko pedagoga mēnešalgas likmi;
-17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un grupās, un internātskolās;
+17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un grupās;
 18) nosaka izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem kā vienotu valsts politiku un stratēģiju izglītībā;
 18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
 19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;
@@ -45,4 +46,7 @@ Ministru kabinets:
 36) nosaka metodiku, pēc kuras pašvaldība nosaka vienam izglītojamajam nepieciešamās vidējās izmaksas pirmsskolas izglītības programmā (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) pašvaldības izglītības iestādēs, un kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas izmaksas privātajai izglītības iestādei;
 37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas virzienus, pedagogu profesionālās darbības kvalitātes pakāpju aprakstu un kārtību, kādā organizē pedagogu profesionālās darbības kvalitātes novērtēšanu;
 38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
-39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus.
+39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus;
+40) nosaka kārtību, kādā piešķir valsts sociālo atbalstu tiem vispārējās pamatizglītības un vispārējās vidējās izglītības programmu īstenošanā iesaistītajiem pedagogiem, kuri pašvaldības vispārējās izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē pedagoga darbu, kā arī nosaka institūciju, kas administrē valsts sociālā atbalsta izmaksu un tās pārtraukšanu;
+41) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018. Sk. Pārejas noteikumu 63. punktu);
+42) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018.. Sk. Pārejas noteikumu 63. punktu).

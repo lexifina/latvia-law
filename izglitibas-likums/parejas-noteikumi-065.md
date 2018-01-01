@@ -1,0 +1,1 @@
+65. Ministru kabinets līdz 2018. gada 31. martam izstrādā un iesniedz Saeimai likumprojektu par nepieciešamajiem grozījumiem Vispārējās izglītības likumā, paredzot izslēgt no likuma normas par izglītības ieguves iespējām internātskolās.

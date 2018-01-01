@@ -1,0 +1,1 @@
+64. Šā likuma 60. panta 3.² daļa stājas spēkā 2020. gada 1. septembrī. Līdz 2020. gada 31. augustam valsts nodrošina pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu īstenoto vispārējās izglītības programmu vidējās izglītības pakāpē nodarbināto pedagogu darba samaksu atbilstoši šā likuma 59. panta otrās daļas un 60. panta trešās daļas noteikumiem.

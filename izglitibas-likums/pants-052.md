@@ -1,8 +1,11 @@
 52.pants. Pedagoga tiesības
-Pedagogam ir tiesības:
+(1) Pedagogam ir tiesības:
 1) piedalīties izglītības iestādes padomē;
 2) saņemt valsts garantētu apmaksātu ikgadējo astoņu nedēļu atvaļinājumu;
 3) pamatojoties uz līgumu par mācību līdzekļu izstrādāšanu, saņemt apmaksātu līdz trijiem mēnešiem ilgu radošā darba atvaļinājumu vai līdz sešiem mēnešiem ilgu bezalgas atvaļinājumu Ministru kabineta noteiktajā kārtībā;
 4) saglabājot pamatalgu izglītības iestādē, kurā pedagogs strādā pamatdarbā, 30 kalendārās dienas triju gadu laikā izmantot savas izglītības un profesionālās meistarības pilnveidei;
 5) saņemt un izmantot izglītības programmas īstenošanai nepieciešamo informatīvo un materiālo nodrošinājumu;
 6) saņemt sabiedrības atbalstu izglītības programmas īstenošanā.
+(2) Pašvaldības dibinātās vispārējās izglītības iestādes vispārējās pamatizglītības un vispārējās vidējās izglītības pedagogam, kuram līdz pensijas vecuma sasniegšanai atbilstoši likumam "Par valsts pensijām" ir mazāk nekā trīs gadi un kopējais pedagoga darba stāžs valsts un pašvaldības izglītības iestādēs, kas īsteno vispārējās izglītības programmas, ir vismaz 25 gadi, tai skaitā pēdējie pieci gadi pirms izglītības iestādes likvidācijas vai reorganizācijas nostrādāti pašvaldības izglītības iestādē, kas īsteno vispārējās pamatizglītības vai vispārējās vidējās izglītības programmas, un kurš izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē darbu un turpmāk negūst ienākumus no algota darba, komercdarbības vai saimnieciskās darbības, neatkarīgi no viņa mantiskā stāvokļa ir tiesības saņemt valsts sociālo atbalstu līdz sešu mēnešu vidējās izpeļņas apmēram Ministru kabineta noteiktajā kārtībā.
+(3) Šā panta otrajā daļā minēto valsts sociālo atbalstu nesaņem pedagogs, kuram piešķirta valsts vecuma pensija vai kurš saņem bezdarbnieka pabalstu saskaņā ar likumu "Par apdrošināšanu bezdarba gadījumam".
+(4) No šā panta otrajā daļā minētā valsts sociālā atbalsta tiek veiktas valsts sociālās apdrošināšanas obligātās iemaksas pensiju un bezdarba apdrošināšanai no šim mērķim piešķirtajiem valsts pamatbudžeta līdzekļiem. Ministru kabinets nosaka kārtību, kādā veicamas un reģistrējamas valsts sociālās apdrošināšanas obligātās iemaksas pensiju un bezdarba apdrošināšanai.
