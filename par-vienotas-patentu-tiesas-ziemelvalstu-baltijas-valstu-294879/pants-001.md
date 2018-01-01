@@ -1,0 +1,1 @@
+1. pants. 2014. gada 4. martā Briselē parakstītais Nolīgums par Vienotās patentu tiesas Ziemeļvalstu-Baltijas valstu reģionālās nodaļas izveidi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
