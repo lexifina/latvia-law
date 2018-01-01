@@ -1,5 +1,5 @@
 16.pants. Īpašuma tiesības uz kuģi
-(1) Par kuģa īpašnieku atzīstama persona, kas par tādu reģistrēta Kuģu reģistrā un kas ir saņēmusi īpašuma apliecību.
+(1) Par kuģa īpašnieku atzīstama persona, kas par tādu reģistrēta Kuģu reģistrā un kas ir saņēmusi īpašuma apliecību. Par šā kodeksa 8. panta otrās daļas 1. punkta "d" apakšpunktā minētās zvejas laivas īpašnieku atzīstama persona, kas par tādu reģistrēta Kuģu reģistrā un saņēmusi reģistrācijas apliecību.
 (2) Pamats īpašuma tiesību iegūšanai uz kuģi ir:
 1) atsavināšanas līgums un kuģa nodošanas un pieņemšanas akts;
 2) dokuments, kas apliecina tiesības iegūt kuģi īpašumā mantošanas ceļā, uz kuras pamata mantinieks var iegūt ar ieilgumu arī svešas lietas, kas ietilpst mantojumā;
@@ -7,7 +7,7 @@
 4) ja uzbūvēts jauns kuģis, - būvētāja apliecinājums (sertifikāts), kurā norādīts kuģa ieguvējs;
 5) citas valsts kuģu reģistra vai līdzvērtīgas iestādes izdota kuģa izslēgšanas apliecība, kurā norādītais īpašnieks ir tiesīgs reģistrēt īpašuma tiesības Kuģu reģistrā.
 (3) Lai reģistrētu Kuģu reģistrā īpašuma tiesības uz kuģi, dokumentiem, kas pievienoti iesniegumam par īpašuma tiesību nostiprināšanu, jāapliecina šo tiesību pāreja.
-(3¹) Ja kuģis ir kopīpašums, kuģa īpašuma apliecībā norāda visus kopīpašniekus un tiem piederošās domājamās daļas. Kuģa reģistrācijas apliecībā norāda vienu no kopīpašniekiem, kurš saskaņā ar visu kopīpašnieku rakstveida vienošanos vienīgais ir tiesīgs pārstāvēt kopīpašniekus attiecībās ar Latvijas Jūras administrāciju.
+(3¹) Ja kuģis ir kopīpašums, kuģa īpašuma apliecībā norāda visus kopīpašniekus un tiem piederošās domājamās daļas. Kuģa reģistrācijas apliecībā norāda vienu no kopīpašniekiem, kurš saskaņā ar visu kopīpašnieku rakstveida vienošanos vienīgais ir tiesīgs pārstāvēt kopīpašniekus attiecībās ar Latvijas Jūras administrāciju. Ja kopīpašums ir Kuģu reģistrā reģistrēta zvejas laiva, tad visu minēto informāciju norāda zvejas laivas reģistrācijas apliecībā.
 (4) Ja kuģa īpašnieka reģistrētā juridiskā adrese vai deklarētās dzīvesvietas adrese nav Latvijas Republikā, kuģa īpašniekam Latvijā ir pārstāvis tam adresēto pretenziju pieņemšanai, izpildei un saziņai ar Latvijas Jūras administrāciju. Minētā prasība neattiecas uz kuģiem, kas tiek reģistrēti uz berbouta līguma pamata.
 (5) Ministru kabinets nosaka šā panta ceturtajā daļā minētā kuģa īpašnieka pārstāvja pienākumus, kā arī minimālo pilnvaru apjomu un tam izvirzāmās prasības.
 (6) Īpašuma tiesību uz kuģi maiņu var reģistrēt tikai pēc tam, kad ir samaksāta kalendāra gada un iepriekšējo kalendāra gadu ietvaros aprēķinātā Latvijas kuģa uzraudzības maksa un veikta samaksa par Latvijas Jūras administrācijas sniegtajiem pakalpojumiem.
