@@ -1,1 +1,1 @@
-1.pants. Izložu un azartspēļu nodokli maksā kapitālsabiedrība, kas likumā noteiktajā kārtībā saņēmusi speciālu atļauju (licenci) izložu organizēšanai vai nepieciešamās licences attiecīgo azartspēļu organizēšanai.
+1. pants. Izložu un azartspēļu nodokli maksā kapitālsabiedrība, kas likumā noteiktajā kārtībā saņēmusi speciālo atļauju (licenci) izložu organizēšanai vai nepieciešamās licences attiecīgo azartspēļu organizēšanai.
