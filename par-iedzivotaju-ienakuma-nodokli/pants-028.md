@@ -16,4 +16,5 @@ Maksātāja pienākums ir:
 14) (izslēgts no 01.01.2016. ar 06.11.2013. likumu; Sk. Pārejas noteikumu 96.punktu);
 15) piecu darba dienu laikā pēc dienas, kad maksātāja šā likuma 11.panta trīspadsmitajā daļā minētie taksācijas gada ienākumi ir sasnieguši 3000 euro, reģistrēties Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējam un informēt Valsts ieņēmumu dienestu, vai maksātājs, sākot ar nākamo dienu, kad minētie ienākumi ir sasnieguši 3000 euro, saimnieciskās darbības ienākumu nosaka saskaņā ar šā likuma 11. vai 11.¹ pantu;
 16) piecu darba dienu laikā pēc dienas, kad maksātāja šā likuma 11.¹⁰ panta 3.¹ daļā minētie taksācijas gada ienākumi ir pārsnieguši 15 000 euro, informēt Valsts ieņēmumu dienestu;
-17) iesniegt Valsts ieņēmumu dienestam deklarāciju un palielināt apliekamo ienākumu šā likuma 10.panta 1.⁶ daļā noteiktajā gadījumā.
+17) iesniegt Valsts ieņēmumu dienestam deklarāciju un palielināt apliekamo ienākumu šā likuma 10.panta 1.⁶ daļā noteiktajā gadījumā;
+18) iesniegt Valsts ieņēmumu dienestam deklarāciju un palielināt taksācijas gada ar nodokli apliekamo ienākumu par iepriekšējā taksācijas gadā attaisnotajos izdevumos iekļauto izdevumu par izglītības iegūšanu daļu, kuru taksācijas gada laikā ir atmaksājusi vispārējās, profesionālās, augstākās vai speciālās izglītības iestāde.

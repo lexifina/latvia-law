@@ -1,1 +1,1 @@
-94. Ar iedzīvotāju ienākuma nodokli apliekamajā ienākumā neiekļauj 2013., 2014., 2015., 2016., 2017. un 2018.gadā saņemtās summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.
+94. Ar iedzīvotāju ienākuma nodokli apliekamajā ienākumā neiekļauj 2013., 2014., 2015., 2016., 2017., 2018., 2019., 2020., 2021., 2022. un 2023. gadā saņemtās summas, kas izmaksātas kā valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai.

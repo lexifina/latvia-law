@@ -1,0 +1,1 @@
+130. Dividendēm un nosacītajām dividendēm, kuras uzņēmumu ienākuma nodokļa maksātājs izmaksā no peļņas, kas radusies līdz 2017. gada 31. decembrim, 2018. un 2019. gadā piemēro iedzīvotāju ienākuma nodokļa likmi 10 procentu apmērā.

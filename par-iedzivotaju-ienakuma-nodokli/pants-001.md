@@ -8,3 +8,4 @@
 6) mikrouzņēmumu nodokļa daļas atbilstoši Mikrouzņēmumu nodokļa likumam;
 7) sezonas laukstrādnieku ienākuma nodokļa.
 2. Nodoklis tiek aprēķināts un iemaksāts budžetā divējādā kārtībā: avansā, arī algas nodokļa veidā, un rezumējošā kārtībā, sastādot gada ienākumu deklarāciju (turpmāk - deklarācija), arī mikrouzņēmumu nodokļa un patentmaksas veidā.
+3. Samaksātajā nodoklī iekļauj arī atbilstoši Solidaritātes nodokļa likumam noteikto solidaritātes nodokļa daļu, kas pārskaitīta iedzīvotāju ienākuma nodokļa sadales kontā.

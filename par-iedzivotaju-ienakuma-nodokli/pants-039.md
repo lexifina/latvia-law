@@ -9,4 +9,5 @@
 7) šā likuma 12.pantā noteiktā neapliekamā minimuma un šā likuma 13.panta pirmās daļas 1.punktā noteikto atvieglojumu piemērošanas kārtību;
 8) kārtību, kādā Valsts ieņēmumu dienests piešķir vai anulē atļauju neieturēt nodokli no maksājumiem, no kuriem saskaņā ar šā likuma 17.panta septiņpadsmito daļu ieturams nodoklis;
 9) veidlapas paraugu un kārtību, kādā aizpildāms apliecinājums par nerezidenta gūtajiem ienākumiem Latvijas Republikā taksācijas gadā un par šiem ienākumiem aprēķināto un samaksāto iedzīvotāju ienākuma nodokli šā likuma 17.panta 12.¹ daļā minētajā gadījumā;
-10) kopā ar deklarāciju iesniedzamo vai uzrādāmo attaisnojuma dokumentu veidus.
+10) kopā ar deklarāciju iesniedzamo vai uzrādāmo attaisnojuma dokumentu veidus;
+11) saimnieciskajā darbībā izmantoto pamatlīdzekļu noteikšanas un pamatlīdzekļu nolietojuma aprēķināšanas un norakstīšanas kārtību, kā arī pamatlīdzekļu norakstīšanas kārtību dažādās saimnieciskās darbības situācijās.

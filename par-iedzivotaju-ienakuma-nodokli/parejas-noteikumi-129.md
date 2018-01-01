@@ -1,0 +1,1 @@
+129. Ja 2018. taksācijas gadā algota darba ienākums, pensija vai pabalsts tiek izmaksāts par pirmstaksācijas gadu, šiem ienākumu veidiem piemēro attiecīgajā pirmstaksācijas gadā spēkā esošo iedzīvotāju ienākuma nodokļa likmi.

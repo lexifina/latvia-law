@@ -1,0 +1,3 @@
+128. Maksātājs par pamatlīdzekļiem, kuri ir iegādāti līdz 2017. gada 31. decembrim, pamatlīdzekļa nolietojuma aprēķināšanai ir tiesīgs izvēlēties vienu no šādām aprēķināšanas metodēm, kuru maksātājam nebūs tiesību turpmāk mainīt:
+1) likuma "Par uzņēmumu ienākuma nodokli" 13. pantā (redakcijā, kas bija spēkā līdz 2017. gada 31. decembrim) noteikto kārtību;
+2) šā punkta 1. apakšpunktā noteikto kārtību, nepiemērojot likuma "Par uzņēmumu ienākuma nodokli" 13. panta pirmās daļas 3. un 3.¹ punktā (redakcijā, kas bija spēkā līdz 2017. gada 31. decembrim) nodokļa likmei noteikto divkāršo apmēru un koeficientu.

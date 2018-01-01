@@ -11,14 +11,14 @@
 2. Ieņēmumos, kas gūti no saimnieciskās darbības, tiek ieskaitīti:
 1) ieņēmumi no preču, darbu un pakalpojumu pārdošanas;
 2) ieņēmumi no īpašuma un telpu iznomāšanas vai izīrēšanas;
-2¹) pārpalikuma daļa, kuru saņem saskaņā ar Kooperatīvo sabiedrību likumu par atbilstīgu atzītas lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedrs atbilstoši viņa izmantoto kooperatīvās sabiedrības pakalpojumu apjomam;
+2¹) (izslēgts ar 28.07.2017. likumu);
 3) summas, kas saņemtas soda naudas veidā;
 4) citi saimnieciskās darbības ieņēmumi.
 3. Izdevumos, ja tie saistīti ar taksācijas gada ienākuma gūšanu no saimnieciskās darbības, tiek ieskaitīti:
-1) izdevumi par iegādātām izejvielām, materiāliem, pusfabrikātiem, izstrādājumiem, par inventāru, kura vērtība nepārsniedz 427 euro, par precēm, kurināmo un enerģiju;
+1) izdevumi par iegādātām izejvielām, materiāliem, pusfabrikātiem, izstrādājumiem, par inventāru, kura vērtība nepārsniedz 1000 euro, par precēm, kurināmo un enerģiju;
 2) izdevumi, kas saistīti ar algotā darbaspēka izmantošanu likumdošanas aktos atļautajos gadījumos;
 3) komandējumu, reklāmas, kancelejas, pasta, telegrāfa, teleksa, telefaksa, mārketinga un mākslas darbu taksācijas izdevumi;
-4) pamatlīdzekļu nolietojums, ko aprēķina saskaņā ar šā likuma 11.⁵ pantu un likuma "Par uzņēmumu ienākuma nodokli" 13.pantu;
+4) pamatlīdzekļu nolietojums, ko aprēķina saskaņā ar šā likuma 11.⁵ pantu un Ministru kabineta noteikumos noteikto kārtību;
 5) izdevumi, kas saistīti ar pamatlīdzekļu kārtējo remontu;
 6) nomas un īres maksa;
 7) valsts sociālās apdrošināšanas obligātās iemaksas par darbiniekiem, kā arī atbilstoši šā likuma 8.panta piektās daļas noteikumiem par darbiniekiem iemaksātās dzīvības apdrošināšanas (ar līdzekļu uzkrāšanu) prēmiju summas un iemaksas privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un dzīvības, veselības un negadījumu apdrošināšanas (bez līdzekļu uzkrāšanas) prēmiju summas;
@@ -33,16 +33,24 @@
 14) meža atjaunošanas izmaksas 25 procentu apmērā, ja ir noslēgta vienošanās attiecīgi ar meža īpašnieku vai tiesisko valdītāju par meža atjaunošanu un meža atjaunošanas izmaksas netiks iekļautas saimnieciskās darbības izdevumos;
 14¹) ar kokmateriālu sagatavošanu un atsavināšanu saistītās izmaksas 50 procentu apmērā no kokmateriālu atsavināšanas ieņēmumiem, ja šīs izmaksas netiek dokumentāri pamatotas;
 15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
-4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.
+3.¹ Ar saimniecisko darbību saistītie izdevumi tiek piemēroti apmērā, kas nepārsniedz 80 procentus no fiziskās personas kopējiem saimnieciskās darbības ieņēmumiem.
+3.² Saimnieciskās darbības izdevumu veidi, kuri ar saimniecisko darbību saistītajos izdevumos ir iekļaujami pilnā apmērā:
+1) darba alga un darba devēja valsts sociālās apdrošināšanas obligātās iemaksas, tai skaitā solidaritātes nodoklis, ko saimnieciskās darbības veicējs maksā par saviem darbiniekiem;
+2) nekustamā īpašuma nodoklis;
+3) pamatlīdzekļu nolietojums, ko aprēķina saskaņā ar šā likuma 11.⁵ pantu un Ministru kabineta noteikumos noteikto kārtību;
+4) kompensācijas īrniekiem par dzīvojamo telpu atbrīvošanu un īres līguma laušanu sakarā ar dzīvojamās telpas kapitālremontu vai telpu pārbūvi saimnieciskās darbības veikšanai.
+3.³ Šā panta 3.¹ daļā noteikto saimnieciskās darbības izdevumu ierobežojuma apmēru nepiemēro maksātājiem par pirmo taksācijas gadu, kurā reģistrēta saimnieciskā darbība, un par nākamo taksācijas gadu, kā arī par gadu, kurā izbeigta saimnieciskā darbība vai pabeigts likvidācijas process.
+3.⁴ Saimnieciskās darbības izdevumu ierobežojuma apmēra noteikšanai atbilstoši šā panta 3.¹ daļai saimnieciskās darbības ieņēmumos tiek ņemtas vērā arī summas, kas saņemtas valsts atbalsta lauksaimniecībai vai Eiropas Savienības atbalsta lauksaimniecībai un lauku attīstībai ietvaros.
+4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas saskaņā ar Uzņēmumu ienākuma nodokļa likumu tiek uzskatīti par ar saimniecisko darbību nesaistītiem izdevumiem.
 5. (Izslēgta ar 19.12.2006. likumu.)
 6. Apliekamajā ienākumā netiek ietverti lauksaimniecības produkti (pašpatēriņš), ko savām vajadzībām izlietojis maksātājs un viņa ģimenes locekļi, kā arī personas, kuras ar maksātāju ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
 7. (Izslēgta ar 22.09.2011. likumu)
 8. (Izslēgta ar 13.05.2010. likumu)
-9. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies sakarā ar to, ka taksācijas gada ieņēmumi ir mazāki nekā izdevumi un izmaksas, sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši šā panta noteikumiem.
+9. Maksātāja taksācijas gada saimnieciskās darbības zaudējumi sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma, nepārsniedzot šā panta 3.¹ daļā noteikto saimnieciskās darbības izdevumu ierobežojumu.
 9.¹ Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumus, kas radušies maksātājam - mikrouzņēmuma īpašniekam, kad tas bija mikrouzņēmumu nodokļa maksātājs, nedrīkst pārnest uz nākamajiem taksācijas gadiem, nosakot saimnieciskās darbības apliekamo ienākumu.
 10. (Izslēgta ar 06.11.2013. likumu)
 11. (Izslēgta ar 01.12.2009. likumu)
-12. Ja maksātājam nerodas saimnieciskās darbības izdevumi vai tie ir nebūtiski, maksātājs, gūstot ienākumu no īpašuma [iznomājot vai izīrējot nekustamo īpašumu (arī pārdodot īres tiesības), nododot lietu tālāk apakšnomniekam vai apakšīrniekam, iznomājot kustamo mantu vai gūstot samaksu par dabas resursu izmantošanu vai izmantošanas aprobežojumiem] vai gūstot ienākumu no kustamas lietas atsavināšanas, kas atbilst tikai šā panta 1.³ daļas 2.punktam, var nereģistrēties Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs. Šajā gadījumā maksātājs nav tiesīgs piemērot saimnieciskās darbības izdevumus un tajos iekļaut ar īpašuma uzturēšanu un pārvaldīšanu saistītos izdevumus, izņemot nekustamā īpašuma nodokļa maksājumus par attiecīgo nekustamo īpašumu. Maksātājs veic saimnieciskās darbības ieņēmumu uzskaiti. Saimnieciskās darbības ieņēmumus maksātājs hronoloģiskā secībā uzskaita ieņēmumu uzskaites reģistrā, kurā norāda ieraksta kārtas numuru, datumu, attaisnojuma dokumenta numuru un datumu, darījuma dalībnieku (fiziskās personas vārdu un uzvārdu, juridiskās personas nosaukumu), darījuma aprakstu, darījuma summu un citu nepieciešamo informāciju.
+12. Ja maksātājam nerodas saimnieciskās darbības izdevumi vai tie ir nebūtiski, maksātājs, gūstot ienākumu no īpašuma [iznomājot vai izīrējot nekustamo īpašumu (arī pārdodot īres tiesības), nododot lietu tālāk apakšnomniekam vai apakšīrniekam, iznomājot kustamo mantu vai gūstot samaksu par dabas resursu izmantošanu vai izmantošanas aprobežojumiem] vai gūstot ienākumu no kustamas lietas atsavināšanas, kas atbilst tikai šā panta 1.³ daļas 2.punktam, var nereģistrēties Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs. Šajā gadījumā maksātājs nav tiesīgs piemērot saimnieciskās darbības izdevumus un tajos iekļaut ar īpašuma uzturēšanu un pārvaldīšanu saistītos izdevumus, izņemot nekustamā īpašuma nodokļa maksājumus par attiecīgo nekustamo īpašumu. Maksātājs veic saimnieciskās darbības ieņēmumu uzskaiti. Saimnieciskās darbības ieņēmumus maksātājs hronoloģiskā secībā uzskaita ieņēmumu uzskaites reģistrā, kurā norāda ieraksta kārtas numuru, datumu, attaisnojuma dokumenta numuru un datumu, darījuma dalībnieku (fiziskās personas vārdu un uzvārdu, juridiskās personas nosaukumu), darījuma aprakstu, darījuma summu un citu nepieciešamo informāciju. Maksātājs saimnieciskās darbības ieņēmumus var neuzskaitīt ieņēmumu uzskaites reģistrā, ja saimnieciskās darbības ieņēmumi ir gūti tikai bezskaidras naudas veidā.
 13. Maksātājs, kas gūst ienākumu no piemājas saimniecības vai personīgās palīgsaimniecības, vai no sēņošanas, ogošanas, savvaļas ārstniecības augu un ziedu vākšanas vai nemedījamās sugas indivīda - parka vīngliemezis (Helix pomatia) - ieguves, ja minētie ienākumi saskaņā ar šā likuma 9.panta pirmās daļas 1.punktu nepārsniedz 3000 euro gadā, var nereģistrēties kā saimnieciskās darbības veicējs. Lai noteiktu dienu, kad šajā panta daļā minētie taksācijas gada ienākumi sasniedz 3000 euro, maksātājs rakstveidā veic ienākumu uzskaiti brīvi izraudzītā formā, summējot gūtos ienākumus.
 14. Šā panta noteikumus, izņemot 9.¹ daļu, nepiemēro maksātājam, kurš ir izvēlējies maksāt mikrouzņēmumu nodokli saskaņā ar Mikrouzņēmumu nodokļa likumu.
 15. Saimnieciskās darbības izdevumi, kas attiecas uz taksācijas periodiem, kuros maksātājs bija mikrouzņēmumu nodokļa maksātājs, netiek ņemti vērā, nosakot ar iedzīvotāju ienākuma nodokli apliekamo ienākumu no saimnieciskās darbības.

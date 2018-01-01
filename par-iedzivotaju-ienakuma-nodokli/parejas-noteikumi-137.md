@@ -1,0 +1,1 @@
+137. Ienākumam no kapitāla pieauguma darījumos ar kapitāla aktīviem, kuri ir uzsākti līdz 2017. gada 31. decembrim, bet nav pabeigti līdz 2017. gada 31. decembrim un par kuriem ir iesniegta deklarācija par ienākumu no kapitāla pieauguma, piemēro iedzīvotāju ienākuma nodokļa likmi 15 procentu apmērā.

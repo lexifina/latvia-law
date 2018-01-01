@@ -1,0 +1,1 @@
+126. Grozījumus šā likuma 8. panta piektās daļas 1. punktā un 5.¹ daļā, 10. panta sestajā un astotajā daļā un 16.¹ panta 3.² daļā piemēro tādiem dzīvības apdrošināšanas līgumiem (ar līdzekļu uzkrāšanu), kas noslēgti, sākot ar 2018. gada 1. janvāri.
