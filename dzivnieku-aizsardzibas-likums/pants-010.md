@@ -28,7 +28,7 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;
 13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
 14) valsts nodevas apmēru un samaksas kārtību par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
-15) valsts nodevas apmēru un samaksas kārtību par izmēģinājuma projekta atļaujas izsniegšanu dzīvnieka izmantošanai procedūrās;
+15) (izslēgts no 01.01.2018. ar 15.06.2017. likumu. Sk. Pārejas noteikumu 18. punktu);
 16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
 17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;
 18) valsts nodevas apmēru un samaksas kārtību par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;
@@ -36,4 +36,5 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 20) prasības klaiņojošu suņu un kaķu izķeršanai, dzīvnieku ķērāja pienākumus, apmācības programmu, apmācības un reģistrācijas kārtību, samaksu par dzīvnieku ķērāja apmācību un apliecības izgatavošanu un izsniegšanu, kā arī dzīvnieku ķērāja apliecību izsniegšanas un anulēšanas kārtību;
 21) prasības savvaļas sugu dzīvnieku turēšanai zooloģiskajā dārzā un prasības zooloģiskā dārza izveidošanai un reģistrācijai;
 22) savvaļas sugu dzīvnieku turēšanas vietu reģistrācijas kārtību;
-23) kārtību, kādā veicama apmācība dzīvnieku labturības jautājumos, apmācības programmu, kārtību, kādā izsniedzams un anulējams apliecinājums par veikto apmācību, kā arī apmācīto personu reģistrācijas kārtību.
+23) kārtību, kādā veicama apmācība dzīvnieku labturības jautājumos, apmācības programmu, kārtību, kādā izsniedzams un anulējams apliecinājums par veikto apmācību, kā arī apmācīto personu reģistrācijas kārtību;
+24) valsts nodevas apmēru un kārtību, kādā veicama samaksa par atļaujas izsniegšanu atbildīgajai personai par izmēģinājuma, izmēģinājumā iesaistīto personu un izmēģinājumu dzīvnieku pārraudzību.
