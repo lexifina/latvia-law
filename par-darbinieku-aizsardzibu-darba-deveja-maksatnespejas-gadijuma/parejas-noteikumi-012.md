@@ -1,0 +1,1 @@
+12. Grozījums šā likuma 7. pantā par pirmās daļas izteikšanu jaunā redakcijā stājas spēkā vienlaikus ar grozījumiem Maksātnespējas likumā, kuri nosaka juridiskās personas maksātnespējas procesa izmaksu segšanu no darbinieku prasījumu garantiju fonda līdzekļiem.
