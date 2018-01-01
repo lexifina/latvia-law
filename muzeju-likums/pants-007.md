@@ -1,6 +1,7 @@
-7.pants. Muzeja jēdziens, uzdevumi un funkcijas
-(1) Muzejs ir sabiedrībai pieejama izglītojoša un pētniecības institūcija, kuras uzdevums ir atbilstoši muzeja darbības specifikai vākt, saglabāt un popularizēt sabiedrībā dabas, materiālās un nemateriālās kultūras vērtības, kā arī sekmēt to izmantošanu sabiedrības izglītošanai un attīstībai.
-(2) Muzeja funkcijas ir šādas:
-1) materiālās un nemateriālās kultūras un dabas vērtību uzkrāšana, dokumentēšana un saglabāšana;
-2) muzeja krājuma un ar to saistītās informācijas pētniecība;
-3) sabiedrības izglītošana, materiālās un nemateriālās kultūras un dabas vērtību popularizēšana, veidojot ekspozīcijas un izstādes, kā arī izmantojot citus ar muzeja darbību saistītus izglītošanas un popularizēšanas veidus.
+7. pants. Muzeja jēdziens, pamatfunkcijas un misija
+(1) Muzejs ir pastāvīga un publiski pieejama institūcija, kura kalpo sabiedrībai un tās attīstībai un kura iegūst, uzkrāj, saglabā, pēta, popularizē un eksponē materiālo un nemateriālo cilvēces mantojumu un vidi, lai sekmētu pētniecību, sabiedrības izglītošanu un sniegtu sabiedrībai emocionālu baudījumu, un kuras darbība, īstenojot muzeja funkcijas, nav vērsta uz peļņas gūšanu.
+(2) Muzeja pamatfunkcijas ir šādas:
+1) muzeja krājuma komplektēšana, dokumentēšana, saglabāšana un pieejamības nodrošināšana;
+2) muzeja krājuma un ar to saistītās informācijas izpēte;
+3) sabiedrības izglītošana, izmantojot ekspozīcijas, izstādes un izglītojošas programmas, kā arī citus ar muzeja darbību saistītus komunikācijas veidus.
+(3) Muzeja pamatfunkcijas tiek īstenotas atbilstoši muzeja misijai - muzeja darbības vispārīgajam mērķim, kas ietver muzeja nepieciešamības pamatojumu un informāciju par muzeja profilu jeb muzeja specializāciju, ko nosaka muzeja krājuma saistība ar noteiktu zinātņu nozari vai darbības sfēru, kā arī muzeja darbības aptverto laika posmu, teritoriju un mērķauditoriju.

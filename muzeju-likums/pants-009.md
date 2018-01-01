@@ -1,12 +1,14 @@
-9.pants. Muzeju akreditācija un reģistrācija
-(1) Valsts muzejam, pašvaldības muzejam un autonomajam muzejam, kas ir atvasinātas publisko tiesību juridiskās personas (izņemot pašvaldības) izveidota publiska aģentūra (iestāde) vai šīs publiskās aģentūras (iestādes) struktūrvienība, ir pienākums ne vēlāk kā piecu gadu laikā pēc muzeja dibināšanas nokārtot akreditāciju. Autonoms muzejs, kas ir valsts vai pašvaldības kapitālsabiedrība vai cita privāto tiesību juridiskā persona, kuras dalībnieks vai dibinātājs ir publisko tiesību juridiskā persona, un privātais muzejs akreditācijai piesakās pēc paša iniciatīvas. Muzeju akreditācija notiek saskaņā ar Ministru kabineta izdotajiem muzeju akreditācijas noteikumiem.
-(2) Muzeju var akreditēt, ja tas atbilst šādiem nosacījumiem:
+9. pants. Muzeju akreditācija un reģistrācija
+(1) Valsts muzejam, pašvaldības muzejam un šā likuma 1. panta 8. punkta "a" apakšpunktā minētajam muzejam ir pienākums akreditēties ne agrāk kā triju un ne vēlāk kā piecu gadu laikā pēc muzeja dibināšanas. Šā likuma 1. panta 8. punkta "b" apakšpunktā minētajam muzejam un privātajam muzejam ir tiesības pieteikties akreditācijai, ja muzejs pēc tā dibināšanas darbojies vismaz trīs gadus. Ministru kabinets nosaka muzeju akreditācijas kārtību.
+(2) Muzejs iegūst akreditēta muzeja statusu, ja tas atbilst šādām akreditācijas prasībām:
 1) ir dibinātāja apstiprināts muzeja nolikums, statūti, reglaments vai līgums;
-2) ir veikta muzeja krājuma uzskaite;
-3) ir telpas, iekārtas un drošības sistēmas, kas garantē muzeja krājuma saglabāšanu;
-4) ir nodrošināta muzeja krājuma pieejamība sabiedrībai;
-5) ir izstrādāta muzeja darbības un attīstības stratēģija.
-(3) Ja muzejs, kuram ir pienākums akreditēties, netiek akreditēts, tas gada laikā var atkārtoti pieteikties akreditācijai. Ja arī pēc atkārtotas pieteikšanās muzejs netiek akreditēts, to likvidē.
-(4) Akreditētais muzejs zaudē akreditēta muzeja tiesības, ja tas neatbilst šā panta otrajā daļā minētajiem nosacījumiem.
-(5) Kultūras ministrija veido un uztur muzeju reģistru. Muzeju reģistrā tiek iekļauti visi publiskie muzeji, akreditētie privātie muzeji, kā
-arī - pēc vienošanās ar privāto muzeju īpašniekiem - privātie neakreditētie muzeji.
+2) muzejs veic visas šā likuma 7. panta otrajā daļā noteiktās pamatfunkcijas;
+3) ir veikta muzeja krājuma uzskaite;
+4) ir telpas, iekārtas un drošības sistēmas, kas garantē muzeja krājuma saglabāšanu;
+5) ir nodrošināta muzeja misijai atbilstošu ekspozīciju un izstāžu, kā arī krājuma neeksponētās daļas pieejamība sabiedrībai;
+6) ir izstrādāta muzeja darbības un attīstības stratēģija.
+(3) Muzeja atbilstību akreditācijas prasībām vērtē Kultūras ministrija, analizējot ikgadējos muzeja darba pārskatus un veicot pārbaudes muzejā. Muzejam tiek atteikta akreditācija vai akreditētam muzejam tiek atņemts akreditēta muzeja statuss, ja tas neatbilst akreditācijas prasībām.
+(4) Lēmumu par muzeja akreditēšanu, par atteikumu muzeju akreditēt vai akreditēta muzeja statusa atņemšanu pieņem Kultūras ministrija, pamatojoties uz muzeju akreditācijas komisijas sagatavotu ziņojumu un Muzeju padomes atzinumu.
+(5) Lēmumu par muzeja akreditēšanu vai par atteikumu akreditēt muzeju pieņem sešu mēnešu laikā no dienas, kad Kultūras ministrijā reģistrēts iesniegums par muzeja akreditāciju. Lēmumu par akreditēta muzeja statusa atņemšanu pieņem sešu mēnešu laikā no dienas, kad Kultūras ministrijā saņemts akreditācijas komisijas ziņojums.
+(6) Ja muzejs, kuram ir pienākums akreditēties, akreditācijas procesā netiek akreditēts, tas gada laikā var atkārtoti pieteikties akreditācijai, ja ir novērstas akreditācijas procesā konstatētās nepilnības. Ja arī pēc atkārtotas pieteikšanās muzejs netiek akreditēts, muzeja dibinātājs pieņem lēmumu par muzeja likvidāciju vai reorganizāciju.
+(7) Kultūras ministrija veido un uztur muzeju reģistru. Muzeju reģistrā tiek iekļauti visi akreditētie muzeji, kā arī - pēc vienošanās ar privāto muzeju īpašniekiem - privātie neakreditētie muzeji. Iekļaušanai muzeju reģistrā muzejs iesniedz Kultūras ministrijai muzeja dibināšanas dokumenta kopiju, kā arī muzeja darbību reglamentējoša dokumenta (nolikuma, statūtu, līguma u. tml.) kopiju. Informācija par akreditācijas piešķiršanu muzejam, atteikumu akreditēt muzeju vai akreditēta muzeja statusa atņemšanu tiek norādīta muzeju reģistrā.

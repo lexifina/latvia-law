@@ -1,0 +1,1 @@
+6. Ministru kabinets ne vēlāk kā līdz 2017. gada 31. decembrim izdod šā likuma 13.¹ panta astotajā daļā minētos Ministru kabineta noteikumus un veic nepieciešamos grozījumus Ministru kabineta 2006. gada 27. jūnija noteikumos Nr. 532 "Muzeju akreditācijas noteikumi" un Ministru kabineta 2006. gada 21. novembra noteikumos Nr. 956 "Noteikumi par Nacionālo muzeju krājumu".
