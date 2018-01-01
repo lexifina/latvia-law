@@ -1,1 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no Eiropas Padomes 1990.gada 13.jūnija direktīvas 90/314/EEC par kompleksiem ceļojumiem, kompleksām brīvdienām un kompleksām tūrēm.
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes direktīvas (ES) 2015/2302 (2015. gada 25. novembris) par kompleksiem ceļojumiem un saistītiem ceļojumu pakalpojumiem, ar ko groza regulu (EK) Nr. 2006/2004 un Eiropas Parlamenta un Padomes direktīvu 2011/83/ES un atceļ Padomes direktīvu 90/314/EEK.

@@ -1,12 +1,12 @@
 1.pants. Likumā lietotie termini
-Likumā ir lietoti šādi termini:
+(1) Likumā ir lietoti šādi termini:
 1) aktīvais tūrisms - tūrisma veids, kurā tūrists visas nepieciešamās darbības veic pats;
 2) dabas tūrisms - tūrisma veids, kura mērķis ir izzināt dabu, apskatīt raksturīgas ainavas, biotopus, novērot augus un dzīvniekus dabiskajos apstākļos, kā arī izglītoties dabas aizsardzības jautājumos;
 3) (izslēgts ar 07.10.1999. likumu);
-4) klients - fiziskā vai juridiskā persona, kas piekrīt saņemt kompleksu tūrisma pakalpojumu vai pērk kompleksu tūrisma pakalpojumu trešās personas interesēs;
-5) komplekss tūrisma pakalpojums - tūrisma pakalpojumu apvienojums, kurš sagatavots iepriekš vai pēc klienta pieprasījuma un attiecas uz:
-a) periodu, kas ir garāks par 24 stundām un ietver vismaz divus no šādiem tūrisma pakalpojumiem - transportu, izmitināšanu vai citu tūrisma pakalpojumu, kas nav transporta vai izmitināšanas palīgpakalpojums un aizņem proporcionāli lielāko daļu no tūrisma pakalpojumu apvienojuma,
-b) periodu, kas ir īsāks par 24 stundām, ietver izmitināšanu un vismaz vienu no šādiem tūrisma pakalpojumiem - transportu vai citu tūrisma pakalpojumu, kas nav transporta vai izmitināšanas palīgpakalpojums un aizņem proporcionāli lielāko daļu no tūrisma pakalpojumu apvienojuma.
+4) (izslēgts ar 22.11.2017. likumu);
+5) komplekss tūrisma pakalpojums - vismaz divu dažādu tūrisma pakalpojumu apvienojums viena ceļojuma ietvaros, kas atbilst vienai no šādām prasībām:
+a) to apvieno viens pakalpojuma sniedzējs, tai skaitā pēc ceļotāja pieprasījuma vai saskaņā ar ceļotāja izdarītu izvēli, pirms tiek noslēgts viens līgums par visiem pakalpojumiem,
+b) neatkarīgi no tā, vai ar pakalpojumu sniedzējiem tiek noslēgti atsevišķi līgumi, tūrisma pakalpojumi tiek: iegādāti vienā tūrisma pakalpojumu tirdzniecības vietā un ceļotājs šos pakalpojumus ir izvēlējies, pirms piekrita veikt samaksu; piedāvāti, pārdoti vai par tiem pieprasīta viena iekļaujoša vai kopīga cena; reklamēti vai pārdoti, lietojot vārdus "komplekss tūrisma pakalpojums" vai citus līdzīgus vārdus; apvienoti pēc tāda līguma noslēgšanas, ar kuru pakalpojuma sniedzējs piešķir ceļotājam tiesības izvēlēties no dažādu veidu tūrisma pakalpojumu piedāvājuma; iegādāti no atsevišķiem pakalpojuma sniedzējiem, izmantojot saistītus tiešsaistes rezervācijas procesus, ja pakalpojuma sniedzējs, ar kuru noslēgts pirmais līgums, nosūta informāciju par ceļotāja vārdu un uzvārdu, maksājuma detaļām un elektroniskā pasta adresi vienam vai vairākiem pakalpojumu sniedzējiem un līgums ar pēdējo pakalpojuma sniedzēju vai pakalpojumu sniedzējiem tiek noslēgts ne vēlāk kā 24 stundu laikā pēc pirmā tūrisma pakalpojuma rezervācijas apstiprinājuma;
 6) (izslēgts ar 10.12.2009. likumu);
 7) kultūras tūrisms - tūrisma veids, kura mērķis ir iepazīšanās ar kultūras vidi: kultūrvēsturisko mantojumu, tradīcijām un dzīvesveidu, kā arī aktuālām kultūras un mākslas norisēm;
 8) kūrorts - vietējās pašvaldības administratīvā teritorija vai tās daļa, kurai normatīvajos aktos noteiktajā kārtībā piešķirts kūrorta statuss;
@@ -15,13 +15,17 @@ b) periodu, kas ir īsāks par 24 stundām, ietver izmitināšanu un vismaz vien
 11) starptautiskais tūrisms - ārvalstnieku tūrisms Latvijas teritorijā (tūrisma pakalpojumu eksports) vai Latvijas iedzīvotāju tūrisms ārvalstīs (tūrisma pakalpojumu imports);
 12) tūrisms - personas darbības, kas saistītas ar ceļošanu un uzturēšanos ārpus savas pastāvīgās dzīvesvietas brīvā laika pavadīšanas, lietišķo darījumu kārtošanas vai citā nolūkā ne ilgāk kā vienu gadu;
 13) tūrists - fiziskā persona, kura ceļo ārpus savas pastāvīgās dzīvesvietas ne ilgāk kā vienu gadu, uzturas sabiedriskā vai privātā mājvietā ne mazāk kā vienu nakti un apmeklētajā vietā neveic algotu darbu;
-14) tūrisma aģents - komersants vai saimnieciskās darbības veicējs, kas tūrisma operatora vārdā uz pilnvarojuma vai cita civiltiesiska līguma pamata piedāvā vai pārdod tūrisma operatora sagatavotos tūrisma pakalpojumus;
+14) tūrisma aģents - persona, kas nav tūrisma operators, bet tūrisma operatora vārdā vai uzdevumā piedāvā pārdošanai vai pārdod tūrisma operatora apvienotus kompleksus tūrisma pakalpojumus;
 15) (izslēgts ar 16.02.2006. likumu);
 16) tūrisma infrastruktūra - tūrisma nozares un ar to saistīto citu nozaru (transporta, tirdzniecības, sakaru, kultūras, veselības aizsardzības u.tml.) pakalpojumu kopums, kas nodrošina tūrisma nozares darbību;
 17) tūristu mītne - ēka, ēku grupa vai labiekārtota vieta (teritorija), kurā komersants vai saimnieciskās darbības veicējs nodrošina tūristu diennakts izmitināšanu un apkalpošanu;
 18) tūrisma nozare - tautsaimniecības nozare, kuras uzdevums ir tūrisma pakalpojumu sagatavošana un sniegšana;
-19) tūrisma operators - komersants, kas organizē tūrisma pakalpojumu sniegšanu Latvijā vai ārvalstīs un šos pakalpojumus piedāvā vai pārdod klientiem tieši vai ar tūrisma aģenta starpniecību;
-20) tūrisma pakalpojums - mērķtiecīga darbība tūristu interešu un vajadzību apmierināšanai;
+19) tūrisma operators - persona, kas apvieno un piedāvā pārdošanai vai pārdod ceļotājiem kompleksus tūrisma pakalpojumus tieši vai ar cita pakalpojuma sniedzēja starpniecību, vai kopā ar citu pakalpojuma sniedzēju, kā arī pakalpojuma sniedzējs, kurš nosūta ceļotāja datus citam pakalpojuma sniedzējam saskaņā ar 5. punkta "b" apakšpunktu;
+20) tūrisma pakalpojums - mērķtiecīga darbība tūristu interešu un vajadzību apmierināšanai, kas ir:
+a) pasažieru pārvadāšana,
+b) izmitināšana, kura nav pasažieru pārvadāšanas neatņemama sastāvdaļa un kuras nolūks nav pastāvīgas dzīvesvietas nodrošināšana,
+c) mehānisko transportlīdzekļu noma,
+d) jebkurš cits tūrisma pakalpojums, kas nav šā punkta "a", "b" vai "c" apakšpunktā minētā pakalpojuma neatņemama sastāvdaļa;
 21) tūrisma resursi - dabas un cilvēka veidotu faktoru un norišu kopums, kas piesaista tūristu emocionālās, garīgās, fiziskās un dziednieciskās intereses;
 22) vietējais tūrisms - Latvijas iedzīvotāju tūrisms Latvijā;
 23) lauku tūrisms - tūrisma veids, kura mērķis ir, balstoties uz vietējiem sociāliem, kultūras un dabas resursiem, piedāvāt tūristiem iespēju atpūsties vai izmantot tūristu mītnes lauku teritorijā;
@@ -29,4 +33,11 @@ b) periodu, kas ir īsāks par 24 stundām, ietver izmitināšanu un vismaz vien
 25) (izslēgts ar 10.12.2009. likumu);
 26) dabas dziednieciskie resursi - minerālūdeņi, termālie ūdeņi, virszemes ūdeņi, dziednieciskās dūņas, māli, smiltis, meži, parki, klimats un citi dabas resursi, kas, pamatojoties uz zinātniskos pētījumos un praksē pierādītām to īpašībām, tiek izmantoti organisma vispārējā stāvokļa un labsajūtas uzlabošanai, kā arī profilaksei, ārstēšanai un rehabilitācijai;
 27) veselības tūrisms - tūrisma veids, kura mērķis ir organisma vispārējā stāvokļa un labsajūtas uzlabošana, profilakse, ārstēšana un rehabilitācija, izmantojot arī dabas dziednieciskos resursus;
-28) kūrorta ārstniecības iestāde - ārstniecības iestāde, kurā tiek veikta profilakse, ārstēšana un rehabilitācija, izmantojot dabas dziednieciskos resursus.
+28) kūrorta ārstniecības iestāde - ārstniecības iestāde, kurā tiek veikta profilakse, ārstēšana un rehabilitācija, izmantojot dabas dziednieciskos resursus;
+29) kompleksa tūrisma pakalpojuma līgums - līgums par kompleksu tūrisma pakalpojumu kopumā vai, ja kompleksu tūrisma pakalpojumu piedāvā sniegt saskaņā ar atsevišķiem līgumiem, visi līgumi, kas attiecas uz kompleksajā tūrisma pakalpojumā ietvertajiem tūrisma pakalpojumiem;
+30) ceļotājs - fiziskā vai juridiskā persona, kura vēlas noslēgt līgumu par kompleksa tūrisma pakalpojuma vai saistīta tūrisma pakalpojuma sniegšanu vai kurai ir tiesības ceļot, pamatojoties uz līgumu par kompleksa tūrisma pakalpojuma vai saistīta tūrisma pakalpojuma sniegšanu;
+31) tūrisma pakalpojuma tirdzniecības vieta - jebkuras gan pārvietojamas, gan nepārvietojamas mazumtirdzniecības telpas vai tīmekļvietne vai līdzīgs tiešsaistes tirdzniecības mehānisms, arī tad, ja mazumtirdzniecības tīmekļvietnes vai tiešsaistes tirdzniecības mehānismi ceļotājam tiek piedāvāti kā vienots mehānisms, tai skaitā kā balss telefonijas pakalpojums;
+32) saistīts tūrisma pakalpojums - viena ceļojuma ietvaros iegādāti vismaz divi dažādi tūrisma pakalpojumi, kas neveido kompleksu tūrisma pakalpojumu, un par tiem ar pakalpojumu sniedzējiem ir noslēgti atsevišķi līgumi, un pakalpojuma sniedzējs veicina to, lai ceļotājs vienā tūrisma pakalpojuma tirdzniecības vietas apmeklējuma vai vienā sazināšanās reizē atsevišķi izvēlētos un atsevišķi maksātu par katru tūrisma pakalpojumu, vai mērķtiecīgi veicina vismaz viena papildu tūrisma pakalpojuma iegādi no cita pakalpojuma sniedzēja, ja līgums ar minēto pakalpojuma sniedzēju tiek noslēgts ne vēlāk kā 24 stundas pēc pirmā tūrisma pakalpojuma rezervācijas apstiprināšanas;
+33) ceļotāja repatriācija - ceļotāja nogādāšana atpakaļ izbraukšanas vietā vai citā vietā, par kuru līgumslēdzējas puses vienojas.
+(2) Par kompleksu tūrisma pakalpojumu šā likuma izpratnē netiek uzskatīts tūrisma pakalpojumu apvienojums, kurā ietilpst ne vairāk kā viens no šā panta pirmās daļas 20. punkta "a", "b" vai "c" apakšpunktā minētajiem tūrisma pakalpojumiem un viens vai vairāki "d" apakšpunktā minētie tūrisma pakalpojumi, ja "d" apakšpunktā minētie tūrisma pakalpojumi neveido nozīmīgu daļu no tūrisma pakalpojumu apvienojuma vērtības, kā arī netiek reklamēti vai citādā veidā parādīti kā tūrisma pakalpojumu apvienojuma būtiska pazīme vai ir izraudzīti un iegādāti tikai pēc tam, kad sākta "a", "b" vai "c" apakšpunktā minētā tūrisma pakalpojuma sniegšana.
+(3) Par saistītu tūrisma pakalpojumu šā likuma izpratnē netiek uzskatīts iegādātais viens no šā panta pirmās daļas 20. punkta "a", "b" vai "c" apakšpunktā minētajiem tūrisma pakalpojumiem un papildus tam iegādāts viens vai vairāki "d" apakšpunktā minētie tūrisma pakalpojumi, ja "d" apakšpunktā minētie tūrisma pakalpojumi neveido nozīmīgu daļu no tūrisma pakalpojumu apvienojuma vērtības, kā arī netiek reklamēti vai citādā veidā parādīti kā tūrisma pakalpojumu apvienojuma būtiska pazīme.

@@ -1,0 +1,1 @@
+13. Tūrisma operators un tūrisma aģents, kas kompleksu vai saistītu tūrisma pakalpojumu sniegšanu uzsācis līdz 2018. gada 30. jūnijam, ir tiesīgs bez šajā likumā noteiktās speciālās atļaujas (licences) attiecīgo pakalpojumu organizēt un sniegt vai piedāvāt pārdošanā ne ilgāk kā līdz 2019. gada 30. jūnijam.

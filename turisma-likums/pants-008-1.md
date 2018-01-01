@@ -1,0 +1,7 @@
+8.¹ pants. Patērētāju tiesību aizsardzības centra kompetence kompleksu un saistītu tūrisma pakalpojumu jomā
+(1) Patērētāju tiesību aizsardzības centrs veic šādas funkcijas:
+1) izsniedz speciālo atļauju (licenci) tūrisma aģentam un tūrisma operatoram, kā arī aptur un atjauno izsniegtās speciālās atļaujas (licences) darbību vai atceļ to;
+2) nodrošina tūrisma aģentu, tūrisma operatoru un tūrisma pakalpojumu sniedzēju, kas sekmē saistītus tūrisma pakalpojumus, datubāzes izveidošanu, uzturēšanu un ziņu aktualizāciju tajā;
+3) veic Eiropas Parlamenta un Padomes direktīvas (ES) 2015/2302 (2015. gada 25. novembris) par kompleksiem ceļojumiem un saistītiem ceļojumu pakalpojumiem, ar ko groza regulu (EK) Nr. 2006/2004 un Eiropas Parlamenta un Padomes direktīvu 2011/83/ES un atceļ Padomes direktīvu 90/314/EEK 18. panta 2. punktā noteiktos centrālajam kontaktpunktam paredzētos uzdevumus;
+4) veic uzraudzību attiecībā uz tūrisma operatora, tūrisma aģenta un tūrisma pakalpojuma sniedzēja, kas sekmē saistītus tūrisma pakalpojumus, nodrošinājumu par saistību neizpildi vai nepienācīgu to izpildi likviditātes problēmu dēļ.
+(2) Kārtību, kādā Patērētāju tiesību aizsardzības centrs īsteno šajā pantā noteiktās funkcijas, prasības tūrisma aģentam un tūrisma operatoram, lai tas varētu saņemt speciālo atļauju (licenci), gadījumus, kādos aptur, atjauno vai atceļ speciālo atļauju (licenci), kārtību, kādā datubāzē reģistrē un aptur tūrisma aģentu, tūrisma operatoru un tūrisma pakalpojuma sniedzēju, kas sekmē saistītus tūrisma pakalpojumus, darbību, nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+15. Tūrisma pakalpojumu sniedzējam, kas sekmē saistītus tūrisma pakalpojumus, tūrisma aģentam un tūrisma operatoram, kas nav reģistrēts Eiropas Savienības teritorijā, šā likuma 16. panta septītajā daļā noteiktais pienākums sniegt nodrošinājumu par saistību neizpildi vai nepienācīgu to izpildi stājas spēkā no 2018. gada 1. jūlija.

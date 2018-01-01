@@ -1,0 +1,1 @@
+18. Ekonomikas ministrija līdz 2018. gada 30. jūnijam nodrošina tūrisma aģentu un tūrisma operatoru reģistrāciju tūrisma aģentu un tūrisma operatoru datubāzē. Datubāzi Ekonomikas ministrija uztur līdz 2019. gada 30. jūnijam.

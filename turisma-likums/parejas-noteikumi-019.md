@@ -1,0 +1,1 @@
+19. Tūrisma aģenti un tūrisma operatori, kas līdz 2018. gada 30. jūnijam reģistrēti tūrisma aģentu un tūrisma operatoru datubāzē un nav pārreģistrējušies šā likuma 8.¹ panta pirmās daļas 2. punktā minētajā datubāzē, var sniegt tūrisma aģenta un tūrisma operatora pakalpojumus līdz 2019. gada 30. jūnijam.
