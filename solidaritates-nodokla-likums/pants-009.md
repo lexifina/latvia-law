@@ -1,2 +1,8 @@
-9.pants. Nodokļa ieskaitīšana valsts pamatbudžetā
-Valsts sociālās apdrošināšanas aģentūra faktiski samaksāto nodokli par pārskata mēnesi pārskaita valsts pamatbudžeta ieņēmumu kontā līdz pārskata mēnesim sekojošā trešā mēneša piecpadsmitajam datumam.
+9. pants. Nodokļa ieskaitīšana
+(1) Solidaritātes nodokļa daļa veselības aprūpes pakalpojumu finansēšanai tiek pārskaitīta atbilstoši likumā "Par valsts sociālo apdrošināšanu" noteiktajam.
+(2) Solidaritātes nodokļa daļa, kas atbilst Valsts fondēto pensiju likumā noteiktajai likmei iemaksām fondēto pensiju shēmā, tiek ieskaitīta fondēto pensiju shēmas dalībnieka kontā Ministru kabineta noteiktajā kārtībā un termiņos.
+(3) Valsts sociālās apdrošināšanas aģentūra līdz pārskata mēnesim sekojošā trešā mēneša piecpadsmitajam datumam faktiski samaksāto nodokli, no kura izslēgta nodokļa daļa, kas pārskaitīta valsts pamatbudžeta ieņēmumos veselības aprūpes pakalpojumu finansēšanai un fondēto pensiju shēmai, par pārskata mēnesi pārskaita:
+1) nodokļa maksātāja izraudzītajā privātā pensiju fonda pensiju plānā četru procentpunktu apmērā no tāda nodokļa maksātāja nodokļa likmes, kurš ir fondēto pensiju shēmas dalībnieks, vai 10 procentpunktu apmērā no tāda nodokļa maksātāja nodokļa likmes, kurš nav fondēto pensiju shēmas dalībnieks;
+2) 10,5 procentpunktu apmērā iedzīvotāju ienākuma nodokļa kontā Valsts kasē;
+3) valsts pensiju speciālajā budžetā.
+(4) Nodokļa maksātājam - darba ņēmējam vai pašnodarbinātajam - ir pienākums 60 dienu laikā no Valsts sociālās apdrošināšanas aģentūras paziņojuma saņemšanas dienas sniegt informāciju Valsts sociālās apdrošināšanas aģentūrai par izraudzīto privāto pensiju fondu, tā reģistrācijas numuru, pensiju plānu un pensiju plāna konta numuru Latvijā. Ja nodokļa maksātājs sešu mēnešu laikā pēc minētās informācijas iesniegšanai noteiktā termiņa savu pienākumu nav izpildījis, iemaksas tiek ieskaitītas valsts pensiju speciālajā budžetā, tās nepersonificējot.
