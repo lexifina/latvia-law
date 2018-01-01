@@ -1,7 +1,7 @@
 129.pants. Nodokļa rēķina izrakstīšanas nosacījumi
 (1) Reģistrēts nodokļa maksātājs par kalendāra mēneša ietvaros veiktajām vairākām atsevišķām preču piegādēm vai sniegtajiem pakalpojumiem var izrakstīt pārskata nodokļa rēķinu, kurā ir norādīta šā likuma 125.panta pirmajā daļā vai 126.panta pirmajā daļā minētā informācija.
 (2) Šā likuma 128.panta otrās daļas 1.punktā minētajā gadījumā nodokļa rēķinā var nenorādīt šā likuma 125.panta pirmās daļas 9., 10., 11. un 12.punktā minēto informāciju.
-(3) Ja preču piegādei vai sniegtajiem pakalpojumiem tiek piemērots kāds no šā likuma 141., 142., 143., 143.¹, 143.² vai 143.³ pantā minētajiem īpašajiem nodokļa piemērošanas režīmiem, nodokļa rēķinā nenorāda šā likuma 125.panta pirmās daļas 11. un 12.punktā minēto informāciju.
+(3) Ja preču piegādei vai sniegtajiem pakalpojumiem tiek piemērots kāds no šā likuma 141., 142., 143., 143.¹, 143.², 143.³, 143.⁴ vai 143.⁵ pantā minētajiem īpašajiem nodokļa piemērošanas režīmiem, nodokļa rēķinā nenorāda šā likuma 125.panta pirmās daļas 11. un 12.punktā minēto informāciju.
 (4) Ja nodokļa rēķinā iekļauj gan ar dažādām nodokļa likmēm apliekamus darījumus, gan neapliekamus darījumus, šādu darījumu vērtības norāda atsevišķi.
 (5) Nodokļa rēķinā norādītās summas var izteikt jebkurā valūtā ar nosacījumu, ka maksājamā vai koriģējamā nodokļa summa ir izteikta euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā attiecīgi darījuma dienas sākumā vai avansa maksājuma saņemšanas dienas sākumā.
 (6) Ja nodokļa rēķins tiek anulēts, reģistrēts nodokļa maksātājs savā grāmatvedībā saglabā anulēto nodokļa rēķinu, lai pamatotu izrakstīto nodokļa rēķinu kārtas numuru neievērošanu.
