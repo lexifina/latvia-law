@@ -1,0 +1,1 @@
+207. Šā likuma 1. panta 34. punkts, grozījumi 23.¹ panta pirmajā un otrajā daļā, kā arī trešajā daļā attiecībā uz tās izslēgšanu, 23.¹ panta piektā, sestā, septītā, astotā, devītā, desmitā un vienpadsmitā daļa, grozījumi 24. panta sestajā daļā un 28. panta ceturtajā daļā attiecībā uz vienotā nodokļu konta ieviešanu stājas spēkā 2021. gada 1. janvārī.
