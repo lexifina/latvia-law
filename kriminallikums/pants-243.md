@@ -6,5 +6,5 @@ soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu br�
 (3) Par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts mantkārīgā nolūkā, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.
 (4) (Izslēgta ar 13.12.2012. likumu)
-(5) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa vai ja tās izraisījušas smagas sekas, vai ja tās vērstas pret automatizētu datu apstrādes sistēmu, kas apstrādā informāciju, kura saistīta ar valsts politisko, ekonomisko, militāro, sociālo vai citu drošību, -
+(5) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izraisījušas smagas sekas vai ja tās vērstas pret automatizētu datu apstrādes sistēmu, kas apstrādā informāciju, kura saistīta ar valsts politisko, ekonomisko, militāro, sociālo vai citu drošību, vai par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi organizēta grupa, -
 soda ar brīvības atņemšanu uz laiku līdz septiņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.

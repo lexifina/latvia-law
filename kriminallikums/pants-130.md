@@ -7,5 +7,6 @@ soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu br
 2) tām bijis mocīšanas vai spīdzināšanas raksturs;
 3) tās izdarījusi personu grupa;
 4) tās izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
-5) tās izdarītas pret personu bezpalīdzības stāvoklī, -
+5) tās izdarītas pret personu bezpalīdzības stāvoklī;
+6) tās izdarītas pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis nereģistrētās laulāto attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

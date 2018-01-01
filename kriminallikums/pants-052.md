@@ -10,3 +10,4 @@
 (4) Soda termiņus skaita gados, mēnešos un dienās. Apcietinājumu tiesa ieskaita soda laikā, vienu apcietinājuma dienu rēķinot kā vienu brīvības atņemšanas dienu.
 (5) Apcietinājumu un izciestā soda daļu soda termiņā ieskaita atbilstoši šā panta pirmās daļas noteikumiem.
 (6) Mājas arestu ieskaita brīvības atņemšanas soda termiņā. Viena mājas aresta diena atbilst vienai brīvības atņemšanas dienai.
+(7) Aizstātos sodus pilnībā saskaita.

@@ -3,7 +3,7 @@
 (2) Šajā gadījumā tiesa nolemj sodu neizpildīt, ja tās noteiktajā pārbaudes laikā notiesātais neizdarīs jaunu noziedzīgu nodarījumu, nepārkāps sabiedrisko kārtību un izpildīs kriminālsodu izpildi reglamentējošā likumā paredzētos un Valsts probācijas dienesta noteiktos pienākumus.
 (3) Nosacīti notiesājot, tiesa nosaka pārbaudes laiku no sešiem mēnešiem līdz pieciem gadiem. Pārbaudes laiks sākas ar tiesas sprieduma spēkā stāšanās dienu. Noteiktais pārbaudes laiks nevar būt mazāks par piemēroto brīvības atņemšanas laiku.
 (4) Nosacīti notiesājot, spriedumā norādāmi apstākļi, kuru dēļ tiesa atzinusi par lietderīgu sodu neizpildīt.
-(5) Nosacīti notiesājot, var piespriest papildsodus, izņemot probācijas uzraudzību.
+(5) Nosacīti notiesājot, var piespriest papildsodus. Papildsodu - probācijas uzraudzība - izpilda tikai tad, ja tiesa nolemj izpildīt spriedumā noteikto pamatsodu.
 (6) (Izslēgta ar 16.10.2014. likumu)
 (7) (Izslēgta ar 16.10.2014. likumu)
 (8) (Izslēgta ar 16.10.2014. likumu)
