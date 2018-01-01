@@ -20,7 +20,13 @@
 1) šīs personas iekšzemē būvē nekustamo īpašumu oficiālajām vajadzībām, - sertifikātā norādīto šā nekustamā īpašuma būvniecībai paredzēto preču iegādei un pakalpojumu saņemšanai būvniecības projekta izpildes laikā;
 2) šīs personas vai ar tām saistītās personas iegādājas akcīzes preces no akcīzes preču noliktavas iekšzemē, - sertifikātā norādīto akcīzes preču iegādei.
 (7) Nodokļa 0 procentu likmi piemēro tieši, pamatojoties uz Latvijas Republikas kompetento iestāžu apstiprināto sertifikātu, preču piegādēm un pakalpojumiem, kas iekšzemē sniegti šā panta piektajā daļā minētajām personām, kuras ierodas Latvijas Republikā no valsts, kurā nevar tikt noformēts sertifikāts, - sertifikātā norādīto preču iegādei un pakalpojumu saņemšanai.
+(7¹) Nodokļa 0 procentu likmi piemēro tieši:
+1) preču piegādēm un pakalpojumiem, kas iekšzemē sniegti Latvijas Republikā atzīta Sabiedroto spēku štāba locekļiem un viņu apgādājamiem, izņemot Latvijas Republikas pilsoņus vai pastāvīgos iedzīvotājus, Sabiedroto spēku štāba veikalā saskaņā ar Latvijas Republikas, Ziemeļatlantijas līguma organizācijas Sabiedroto spēku Augstākās virspavēlniecības Eiropā un Sabiedroto spēku Augstākās virspavēlniecības Transformācijas komandiera štāba nolīguma, ar kuru papildina Parīzes protokolu, nosacījumiem un ierobežojumiem;
+2) degvielas piegādēm iekšzemē Amerikas Savienoto Valstu vēstniecībai Latvijas Republikā un tās diplomātiskajiem un konsulārajiem aģentiem un administratīvi tehniskajam personālam.
 (8) Ministru kabinets nosaka:
 1) kārtību, kādā nodokļa 0 procentu likme piemērojama preču piegādēm un pakalpojumiem, kas sniegti diplomātiskajām un konsulārajām pārstāvniecībām, starptautiskajām organizācijām, Eiropas Savienības institūcijām un Ziemeļatlantijas līguma organizācijai (NATO);
 2) sertifikāta apstiprināšanas kārtību un kārtību, kādā piešķir vai atsauc tiesības lietot sertifikātu bez apstiprināšanas;
-3) kārtību, kādā Latvijas Republikas kompetento iestāžu apstiprināto sertifikātu lieto iekšzemē.
+3) kārtību, kādā Latvijas Republikas kompetento iestāžu apstiprināto sertifikātu lieto iekšzemē;
+4) kārtību, kādā nodokļa 0 procentu likme piemērojama:
+a) preču piegādēm un pakalpojumiem, kas iekšzemē sniegti Latvijas Republikā atzīta Sabiedroto spēku štāba locekļiem un viņu apgādājamiem, izņemot Latvijas Republikas pilsoņus vai pastāvīgos iedzīvotājus, Sabiedroto spēku štāba veikalā,
+b) degvielas piegādēm iekšzemē Amerikas Savienoto Valstu vēstniecībai Latvijas Republikā un tās diplomātiskajiem un konsulārajiem aģentiem un administratīvi tehniskajam personālam.
