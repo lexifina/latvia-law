@@ -14,4 +14,4 @@
 12) kārtību, kādā finanšu pārskatu sagatavo sabiedrība, kura neatbilst šā likuma 14.panta pirmās daļas 1.punktā noteiktajam darbības turpināšanas principam;
 13) kārtību, kādā sagatavo finanšu pārskatu par periodu, kas īsāks par pārskata gadu (starpperiodu pārskats).
 (2) Ministru kabinets izdod noteikumus par ieguldījuma īpašumu, bioloģisko aktīvu vai pārdošanai turētu ilgtermiņa ieguldījumu pārklasificēšanu un turpmāku norādīšanu bilancē gadījumā, kad sabiedrība pārtrauc attiecīgo īpašuma objektu novērtēšanu, pamatojoties uz to patieso vērtību.
-(3) Ministru kabinets izdod noteikumus par iekļaušanai Valsts ieņēmumu dienesta Elektroniskajā deklarēšanas sistēmā sabiedrību sagatavoto finanšu pārskatu vai konsolidēto finanšu pārskatu (ja tāds ir) elektroniskā noraksta formu.
+(3) Ministru kabinets izdod noteikumus par iekļaušanai Valsts ieņēmumu dienesta Elektroniskajā deklarēšanas sistēmā sabiedrību sagatavoto finanšu pārskatu vai konsolidēto finanšu pārskatu (ja tāds ir) elektroniskā noraksta formu, kā arī nosaka gadījumus, kad finanšu pārskatu vai konsolidēto finanšu pārskatu (ja tāds ir), vai kādu tā sastāvdaļu iesniedz kā elektronisku kopiju.
