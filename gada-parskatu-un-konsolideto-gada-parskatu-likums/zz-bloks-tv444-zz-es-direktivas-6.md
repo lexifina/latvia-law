@@ -29,7 +29,10 @@ VI. Nesadalītā peļņa
 2. Iepriekšējā gada bilancē norādītās summas labojums.
 3. Nesadalītās peļņas palielinājums/samazinājums.
 4. Pārskata gada bilancē norādītā summa perioda beigās.
+VI.¹ Mazākumakcionāru līdzdalības daļa
 VII. Pašu kapitāls
 1. Iepriekšējā gada bilancē norādītā summa.
 2. Iepriekšējā gada bilancē norādītās summas labojums.
 3. Pārskata gada bilancē norādītā summa perioda beigās.
+Pašu kapitāla izmaiņu pārskata shēmas piemērošanas noteikums:
+nodaļu "VI.¹ Mazākumakcionāru līdzdalības daļa" izmanto tikai konsolidētajā gada pārskatā.

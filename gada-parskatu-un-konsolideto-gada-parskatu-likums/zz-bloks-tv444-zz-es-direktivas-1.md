@@ -7,7 +7,7 @@ I. Nemateriālie ieguldījumi:
 3. Citi nemateriālie ieguldījumi.
 4. Nemateriālā vērtība.
 5. Avansa maksājumi par nemateriālajiem ieguldījumiem.
-II. Pamatlīdzekļi (pamatlīdzekļi, ieguldījuma īpašumi un bioloģiskie aktīvi):
+II. Pamatlīdzekļi, ieguldījuma īpašumi un bioloģiskie aktīvi:
 1. Nekustamie īpašumi:
 a) zemesgabali, ēkas un inženierbūves,
 b) ieguldījuma īpašumi.
@@ -107,5 +107,5 @@ Ilgtermiņa kreditori:
 14. Uzkrātās saistības.
 15. Atvasinātie finanšu instrumenti.
 Bilances shēmas atsevišķu posteņu izmantošanas noteikumi:
-1. Posteni "ieguldījuma īpašumi", "bioloģiskie aktīvi", "Atliktā nodokļa aktīvi", "Pārdošanai turēti ilgtermiņa ieguldījumi" un "Atliktā nodokļa saistības" izmanto tikai tāda sabiedrība, kura, piemērojot šā likuma 13.panta piektās daļas 2.punktu, saskaņā ar starptautiskajiem grāmatvedības standartiem atzīst, novērtē un atspoguļo finanšu pārskatā attiecīgi ieguldījuma īpašumus, bioloģiskos aktīvus, pārdošanai turētus ilgtermiņa ieguldījumus, atliktā nodokļa aktīvus vai atliktā nodokļa saistības.
-2. Posteni "Mazākumakcionāru līdzdalības daļa" izmanto tikai konsolidētajā gada pārskatā.
+1. Posteni "ieguldījuma īpašumi", "bioloģiskie aktīvi", "Atliktā nodokļa aktīvi", "Pārdošanai turēti ilgtermiņa ieguldījumi" un "Atliktā nodokļa saistības", kā arī II posteņu grupas nosaukumā vārdus "ieguldījuma īpašumi un bioloģiskie aktīvi" izmanto tikai tāda sabiedrība, kura, piemērojot šā likuma 13. panta piektās daļas 2. punktu, saskaņā ar starptautiskajiem grāmatvedības standartiem atzīst, novērtē un atspoguļo finanšu pārskatā attiecīgi ieguldījuma īpašumus, bioloģiskos aktīvus, pārdošanai turētus ilgtermiņa ieguldījumus, atliktā nodokļa aktīvus vai atliktā nodokļa saistības.
+2. Posteni "ārvalstu valūtu pārrēķināšanas rezerve" un posteni "Mazākumakcionāru līdzdalības daļa" izmanto tikai konsolidētajā gada pārskatā.
