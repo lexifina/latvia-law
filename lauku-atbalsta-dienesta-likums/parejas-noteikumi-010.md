@@ -1,0 +1,1 @@
+10. Šā likuma 12.¹ panta pirmās daļas prasību par saziņas un dokumentu pieejamību oficiālās elektroniskās adreses kontā Dienests piemēro no 2018. gada 1. jūnija attiecībā uz fiziskajām personām un no 2020. gada 1. janvāra - attiecībā uz juridiskajām personām.

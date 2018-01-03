@@ -8,7 +8,7 @@
 6) likumā noteiktajos gadījumos izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus;
 7) īsteno intervences pasākumus lauksaimniecības produktu tirgū;
 8) normatīvajos aktos noteiktajā kārtībā administrē lauksaimniecības produktu un pārstrādāto lauksaimniecības produktu ārējās tirdzniecības režīmu;
-9) normatīvajos aktos noteiktajā kārtībā administrē soda naudas par valstij piešķirtās piena ražošanas kvotas pārsniegšanu;
+9) (izslēgts ar 07.12.2017. likumu);
 10) normatīvajos aktos noteiktajā kārtībā administrē augkopības produkcijas kvotas;
 11) normatīvajos aktos noteiktajā kārtībā sniedz informāciju Eiropas Komisijai.
 (2) Dienests ir atbrīvots no tiesas izdevumiem prasībās, kas izriet no fizisko un juridisko personu saistībām attiecībā uz valsts atbalsta un Eiropas Savienības atbalsta izlietošanu, ja tas tiek darīts neatbilstoši normatīvajiem aktiem. Piedziņa šajos gadījumos tiek veikta par labu valstij.
