@@ -4,7 +4,7 @@
 1¹) atņemt personīgo televizoru vai radiouztvērēju (bez balss ieraksta iespējām) uz laiku līdz vienam mēnesim un nodot glabāšanā izmeklēšanas cietuma noliktavā vai atdot personām, kas to nodevušas lietošanā apcietinātajam;
 2) izteikt rājienu;
 3) uz laiku līdz vienam mēnesim aizliegt iegādāties pārtikas produktus un tabakas izstrādājumus izmeklēšanas cietuma veikalā;
-4) aizliegt kārtējo tikšanos ar radiniekiem vai citām personām;
+4) aizliegt kārtējo tikšanos ar radiniekiem, laulāto vai citām personām;
 5) uz laiku līdz vienam mēnesim aizliegt telefonsarunas;
 6) pilngadīgo apcietināto ievietot soda izolatorā uz laiku līdz 15 diennaktīm;
 7) nepilngadīgo apcietināto ievietot soda izolatorā uz laiku līdz 10 diennaktīm.
