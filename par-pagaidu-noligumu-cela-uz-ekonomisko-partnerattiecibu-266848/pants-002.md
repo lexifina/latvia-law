@@ -1,1 +1,1 @@
-2.pants. Nolīgumā paredzēto saistību izpildi koordinē Ekonomikas ministrija.
+2. pants. Nolīgumā paredzēto saistību izpildi koordinē Ārlietu ministrija
