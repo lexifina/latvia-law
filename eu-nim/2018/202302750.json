@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 4. janvāra noteikumi Nr. 13 \"Darbības programmas \"Izaugsme un nodarbinātība\" 4.2.1. specifiskā atbalsta mērķa \"Veicināt energoefektivitātes paaugstināšanu valsts un dzīvojamās ēkās\" 4.2.1.2. pasākuma \"Veicināt energoefektivitātes paaugstināšanu valsts ēkās\" otrās projektu iesniegumu atlases kārtas īstenošanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/6.1",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-09",
+  "entry_into_force": "2018-01-10",
+  "notification_date": "2023-05-15",
+  "commission_reference": "MNE(2023)02750",
+  "nim_celex": "72018L2001LVA_202302750",
+  "nim_id": "202302750",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3660f32-f870-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
