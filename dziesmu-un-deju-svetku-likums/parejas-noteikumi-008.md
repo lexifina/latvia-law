@@ -1,0 +1,1 @@
+8. Līdz 2018. gada 10. janvārim izveidotās Dziesmu un deju svētku padomes pilnvaru laiks izbeidzas 2018. gada 30. novembrī. Ne vēlāk kā divus mēnešus pēc tam Ministru kabinets apstiprina jaunu Dziesmu un deju svētku padomi, kuras pilnvaru laiks nosakāms, ievērojot šā likuma 8. panta otrās daļas noteikumu, kas stājas spēkā 2018. gada 10. janvārī.

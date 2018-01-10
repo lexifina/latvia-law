@@ -1,6 +1,6 @@
 8.pants. Dziesmu un deju svētku padome
 (1) Dziesmu un deju svētku tradīcijas saglabāšanas un attīstības pārraudzībai Ministru kabinets izveido Dziesmu un deju svētku padomi.
-(2) Dziesmu un deju svētku padomes sastāvu un tās priekšsēdētāju apstiprina uz pieciem gadiem.
+(2) Dziesmu un deju svētku padomes sastāvu un tās priekšsēdētāju apstiprina uz pieciem gadiem. Jaunu Dziesmu un deju svētku padomi apstiprina ne vēlāk kā vienu mēnesi pirms Dziesmu un deju svētku padomes locekļu pilnvaru beigām.
 (3) Dziesmu un deju svētku padomes sastāvā ir:
 1) kultūras ministrs;
 2) izglītības un zinātnes ministrs;
