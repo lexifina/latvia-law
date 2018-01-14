@@ -18,7 +18,9 @@
 10) biedrībai "Latvijas Transportlīdzekļu apdrošinātāju birojs", apdrošināšanas sabiedrībām, kuras veic sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu, - ceļu satiksmes negadījumā cietušai personai nodarīto zaudējumu atlīdzināšanai;
 11) Tieslietu ministrijai - lai nodrošinātu Latvijā piespriesta brīvības atņemšanas soda izpildīšanas lūguma nosūtīšanu ārvalstij;
 12) Iekšlietu ministrijas Centrālajai medicīniskās ekspertīzes komisijai - lai izvērtētu Iekšlietu ministrijas sistēmas iestādes vai Ieslodzījuma vietu pārvaldes amatpersonas ar speciālo dienesta pakāpi vai tās amata kandidāta veselības stāvokļa atbilstību dienestam;
-13) Nacionālo bruņoto spēku ārstniecības iestādēm - karavīru un zemessargu, kā arī profesionālā un Zemessardzes dienesta kandidātu veselības stāvokļa izvērtēšanai.
+13) Nacionālo bruņoto spēku ārstniecības iestādēm - karavīru un zemessargu, kā arī profesionālā un Zemessardzes dienesta kandidātu veselības stāvokļa izvērtēšanai;
+14) nelaimes gadījumā darbā cietušā nodarbinātā darba devējam - nelaimes gadījuma darbā izmeklēšanai saskaņā ar normatīvajiem aktiem, kas regulē nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtību;
+15) valsts aģentūrai "Civilās aviācijas aģentūra", sertificētam aviācijas medicīnas centram, sertificētam aviācijas medicīnas ekspertam - lai izvērtētu civilās aviācijas personāla, kā arī uz civilās aviācijas personāla veselības apliecības saņemšanu pretendējošas personas veselības stāvokļa atbilstību civilās aviācijas jomu regulējošos normatīvajos aktos noteiktajām prasībām.
 (5¹) Veselības aprūpes jomu regulējošos normatīvajos aktos noteiktajā kārtībā informāciju par pacientu sniedz šādām personām un institūcijām:
 1) Slimību profilakses un kontroles centram - sabiedrības veselības un veselības aprūpes statistiskās informācijas iegūšanai, apkopošanai, apstrādei un analizēšanai, infekcijas slimību epidemioloģiskajai uzraudzībai, kā arī personas datu apstrādei ar mērķi nodot informāciju statistikas iestādei;
 2) Nacionālajam veselības dienestam - no valsts budžeta apmaksāto veselības aprūpes pakalpojumu administrēšanai, kā arī personas datu apstrādei ar mērķi nodot informāciju statistikas iestādei;
@@ -30,7 +32,8 @@
 3) Nacionālais veselības dienests - no valsts budžeta apmaksāto veselības aprūpes pakalpojumu administrēšanai un veselības informācijas sistēmas uzturēšanai;
 4) Veselības inspekcija - veselības nozares uzraudzības funkciju izpildes nodrošināšanai;
 5) Valsts sociālās apdrošināšanas aģentūra - veselības informācijas sistēmā izrakstīto darbnespējas lapu administrēšanai;
-6) Valsts darba inspekcija - nelaimes gadījumu darbā un arodslimību izmeklēšanai un uzskaitei.
+6) Valsts darba inspekcija - nelaimes gadījumu darbā un arodslimību izmeklēšanai un uzskaitei;
+7) Veselības un darbspēju ekspertīzes ārstu valsts komisija - prognozējamas invaliditātes un invaliditātes ekspertīzei un darbspēju zaudējuma noteikšanai.
 (6) Nepilngadīga pacienta likumiskajam pārstāvim ir tiesības saņemt informāciju par šā pacienta veselības stāvokli, izņemot šā likuma 13.pantā noteikto. Nepilngadīga pacienta likumiskajam pārstāvim informāciju nesniedz, ja šādas informācijas izpaušana var kaitēt attiecīgā pacienta interesēm. Ārsts pieņemto lēmumu ieraksta pacienta medicīniskajos dokumentos un informē par to bāriņtiesu.
 (7) Medicīniskajos dokumentos fiksētos pacienta datus var izmantot pētījumā, pastāvot vienam no šādiem nosacījumiem:
 1) pēc analizējamās informācijas nevar tieši vai netieši identificēt pacientu;
