@@ -1,0 +1,1 @@
+135. Pieteikumus par pieprasījuma iesniegšanu ārvalstij par bērna atgriešanos Latvijā (77.¹ nodaļa), kas iesniegti Latvijas tiesā līdz 2018. gada 14. janvārim, izskata šajā likumā noteiktajā kārtībā, kāda bija spēkā līdz 2018. gada 15. janvārim.

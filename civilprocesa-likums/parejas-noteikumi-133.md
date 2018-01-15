@@ -1,0 +1,1 @@
+133. Šā likuma 82.¹ panta pirmās daļas 1. un 2. punktā minētās fiziskās personas vai juridiskās personas lietas, kuras līdz 2018. gada 31. decembrim pirmās vai apelācijas instances tiesā tiek vestas ar pārstāvja starpniecību, var tikt pabeigtas, tās vedot pirmās vai apelācijas instances tiesā ar šā pārstāvja starpniecību.

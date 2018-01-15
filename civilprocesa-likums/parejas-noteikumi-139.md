@@ -1,0 +1,1 @@
+139. Grozījumi šā likuma 34. pantā par piektās daļas izslēgšanu, grozījumi 41. panta pirmajā daļā, 445. pantā, 449. panta ceturtajā daļā, 464. panta septītajā daļā, 443.¹ un 444.¹ pants saistībā ar blakus sūdzības saturu, valsts nodevas par blakus sūdzību aizstāšanu ar drošības naudu un šīs drošības naudas apmēru, iemaksāšanas un atmaksas kārtību stājas spēkā 2018. gada 1. martā.

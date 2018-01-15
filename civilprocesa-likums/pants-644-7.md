@@ -1,6 +1,7 @@
-644.⁷ pants. Pieteikums par pieprasījuma iesniegšanu ārvalstij par bērna atgriešanos Latvijā
-(1) Lai nodrošinātu tāda bērna atgriešanos Latvijā, kura dzīvesvieta ir Latvijā un kurš tiek prettiesiski pārvietots uz citu valsti vai aizturēts citā valstī, persona, kuras tiesības īstenot aizgādību vai aizbildnību ir aizskartas, kā arī bāriņtiesa vai prokurors var iesniegt tiesai pieteikumu par pieprasījuma iesniegšanu ārvalstij par bērna atgriešanos Latvijā.
-(2) Lietas par bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī, ja bērna dzīvesvieta ir Latvijā, tiek izskatītas Rīgas pilsētas Ziemeļu rajona tiesā.
+644.⁷ pants. Pieteikums par atzinuma sniegšanu ārvalsts tiesai lietā par bērna pārvietošanas pāri robežai uz ārvalsti vai aizturēšanas ārvalstī tiesiskumu
+(1) Ja ārvalsts tiesa izskata lietu par prettiesiski uz šo ārvalsti pārvietota vai tajā aizturēta bērna atgriešanos Latvijā, pēc šīs tiesas pieprasījuma persona, kuras tiesības īstenot aizgādību vai aizbildnību ir aizskartas, kā arī bāriņtiesa vai prokurors var iesniegt tiesai pieteikumu par atzinuma sniegšanu ārvalsts tiesai par bērna pārvietošanas no Latvijas pāri robežai uz ārvalsti vai aizturēšanas ārvalstī tiesiskumu. Šajā daļā minēto pieteikumu var iesniegt, ja attiecīgā ārvalsts, kuras tiesa izskata lietu par prettiesiski uz šo ārvalsti pārvietota vai tajā aizturēta bērna atgriešanos Latvijā, ir 1980. gada 25. oktobra Hāgas konvencijas par starptautiskās bērnu nolaupīšanas civiltiesiskajiem aspektiem vai 1996. gada 19. oktobra Hāgas konvencijas par jurisdikciju, piemērojamiem tiesību aktiem, atzīšanu, izpildi un sadarbību attiecībā uz vecāku atbildību un bērnu aizsardzības pasākumiem līgumslēdzēja valsts.
+(1¹) Šā panta pirmajā daļā minēto pieteikumu persona, kuras tiesības īstenot aizgādību vai aizbildnību ir aizskartas, kā arī bāriņtiesa vai prokurors var iesniegt tiesai arī tad, ja nav saņemts ārvalsts tiesas pieprasījums, bet minētā persona, bāriņtiesa vai prokurors uzskata, ka šāda atzinuma sniegšana ārvalsts tiesai ir lietderīga.
+(2) Lietas par atzinuma sniegšanu ārvalsts tiesai lietā par bērna prettiesisku pārvietošanu pāri robežai uz ārvalsti vai aizturēšanu ārvalstī, ja bērna dzīvesvieta ir Latvijā, tiek izskatītas Rīgas pilsētas Vidzemes priekšpilsētas tiesā.
 (2¹) (Izslēgta ar 30.10.2014. likumu)
 (3) Pieteikumā norāda:
 1) tās tiesas nosaukumu, kurai pieteikums iesniegts;
@@ -12,7 +13,7 @@
 7) pieteicēja lūgumu;
 8) pievienoto dokumentu sarakstu;
 9) pieteikuma sastādīšanas laiku.
-(4) Pieteikumam pievieno dokumentus, uz kuriem tas pamatots.
+(4) Pieteikumam pievieno dokumentus, uz kuriem tas pamatots, un ārvalsts tiesas pieprasījumu, ja tāds ir.
 (5) Pieteikumu paraksta pieteicējs vai viņa pārstāvis. Ja pieteikumu iesniedz pieteicēja pārstāvis, pieteikumam pievienojama pilnvara vai cits dokuments, kas apliecina pilnvarojumu griezties ar šo pieteikumu tiesā. Ja pieteicēja pārstāvja deklarētā dzīvesvieta vai norādītā adrese ir ārpus Latvijas, papildus norāda elektroniskā pasta adresi vai paziņo par savas dalības reģistrēšanu tiešsaistes sistēmā. Ja pieteicēja pārstāvis ir zvērināts advokāts, pieteikumā papildus norāda zvērināta advokāta elektroniskā pasta adresi.
 (6) Neparakstītu pieteikumu uzskata par neiesniegtu un nosūta atpakaļ iesniedzējam.
 (7) Tiesnesis pieņem lēmumu par atteikšanos pieņemt pieteikumu, ja tam nav pievienota pilnvara vai cits dokuments, kas apliecina pārstāvja pilnvarojumu griezties ar šo pieteikumu tiesā. Lēmums nav pārsūdzams.

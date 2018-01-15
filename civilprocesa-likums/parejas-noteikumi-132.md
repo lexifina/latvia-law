@@ -1,0 +1,1 @@
+132. Grozījumi šā likuma 82. pantā par sestās un septītās daļas izslēgšanu, par likuma papildināšanu ar 82.¹ pantu un grozījumi 83. pantā par pārstāvības ierobežojumiem tiesā stājas spēkā 2019. gada 1. janvārī.

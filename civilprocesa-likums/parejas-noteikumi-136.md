@@ -1,0 +1,1 @@
+136. Blakus sūdzību par rajona (pilsētas) tiesas lēmumu, kas, izskatot sūdzību par Rīgas apgabaltiesas iecirkņa Nr. 35, Rīgas apgabaltiesas iecirkņa Nr. 36 vai Rīgas apgabaltiesas iecirkņa Nr. 37 tiesu izpildītāja darbībām sprieduma izpildīšanā (632. pants), pasludināts līdz 2018. gada 28. februārim, izskata Rīgas apgabaltiesa.

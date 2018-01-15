@@ -1,0 +1,1 @@
+138. Lietas, kas ierosinātas par maza apmēra prasībām, un lietas, par kurām strīds izskatīts Rūpnieciskā īpašuma Apelācijas padomē līdz grozījumu šā likuma 250.²⁵, 250.²⁶ un 250.²⁷ pantā par saīsinātā sprieduma un sprieduma sastādīšanas lūguma spēkā stāšanās dienai, izskata šā likuma 250.²⁵, 250.²⁶ un 250.²⁷ pantā noteiktajā kārtībā, kāda bija spēkā līdz 2018. gada 1. martam.
