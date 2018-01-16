@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2018.gada 9.janvāra normatīvie noteikumi Nr.3 “Klientu padziļinātās izpētes normatīvie noteikumi kredītiestādēm un licencētām maksājumu un elektroniskās naudas iestādēm”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-15",
+  "entry_into_force": "2018-01-16",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54822",
+  "nim_celex": "72015L0849LVA_262817",
+  "nim_id": "262817",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7973794f-8fd9-44c5-b72b-d78af3f19d96",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
