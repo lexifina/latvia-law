@@ -1,0 +1,1 @@
+24. Zemes nomas līgumu, kurš noslēgts pirms šā likuma 9. panta pirmās daļas 7. punkta spēkā stāšanās dienas un kura darbības termiņš beidzas pirms 2018. gada 30. novembra, var pagarināt, izvērtējot lietderības apsvērumus un ievērojot nosacījumu, ka kopējais līguma termiņš no tā noslēgšanas dienas nevar pārsniegt šā likuma 9. panta pirmās daļas 7. punktā noteikto laiku.

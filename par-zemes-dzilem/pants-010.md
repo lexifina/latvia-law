@@ -8,7 +8,7 @@ b) gadījumā, kad derīgo izrakteņu atradnē papildus bieži sastopamajiem der
 c) gadījumā, kad derīgos izrakteņus iegūst pašvaldība,
 d) gadījumā, kad zemes dzīles izmanto publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā,
 e) visos pārējos gadījumos.
-(2) Ministru kabineta noteiktajos gadījumos attiecībā uz valsts vai pašvaldības īpašumā esošo zemi zemes dzīļu izmantošanas licenci derīgo izrakteņu ieguvei, izņemot ogļūdeņražu ieguvi, vai bieži sastopamo derīgo izrakteņu ieguves atļauju izsniedz personai, kura uzvarējusi konkursā vai izsolē par zemes nomas tiesībām un licences vai atļaujas saņemšanu.
+(2) Ministru kabineta noteiktajos gadījumos attiecībā uz publiskas personas īpašumā esošo zemi zemes dzīļu izmantošanas licenci derīgo izrakteņu ieguvei, izņemot ogļūdeņražu ieguvi, vai bieži sastopamo derīgo izrakteņu ieguves atļauju izsniedz personai, kura uzvarējusi konkursā vai izsolē par zemes nomas tiesībām un licences vai atļaujas saņemšanu.
 (2¹) Ministru kabinets nosaka gadījumus, kad licence izsniedzama zemes dzīļu izmantošanai visā Latvijas teritorijā.
 (2²) Zemes dzīļu izmantošanai publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā zemes dzīļu izmantošanas licences izsniedz konkursa kārtībā. Ja zemes dzīļu izmantošanas licence nepieciešama ar būvju būvniecību, ierīkošanu vai ekspluatāciju jūrā saistītai ģeoloģiskajai izpētei, konkursu nerīko un minēto licenci izsniedz vienai no šādām personām:
 1) personai, kura saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem ir saņēmusi atļauju vai licenci attiecīgā licences laukuma jūrā izmantošanai būvju būvniecībai, ierīkošanai, tai skaitā ar to saistītajai izpētei, un ekspluatācijai;

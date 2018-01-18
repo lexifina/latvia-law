@@ -1,0 +1,1 @@
+23. Šā likuma 8. panta otrās daļas 4. punktā minētos noteikumus Ministru kabinets izdod līdz 2018. gada 30. novembrim. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2018. gada 30. novembrim piemērojami Ministru kabineta noteikumi par publiskas personas zemes nomu, ciktāl tie nav pretrunā ar šo likumu.
