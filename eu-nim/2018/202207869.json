@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 16. janvāra noteikumi Nr. 38 \"Darbības programmas \"Izaugsme un nodarbinātība\" 4.1.1. specifiskā atbalsta mērķa \"Veicināt efektīvu energoresursu izmantošanu, enerģijas patēriņa samazināšanu un pāreju uz AER apstrādes rūpniecības nozarē\" otrās projektu iesniegumu atlases kārtas īstenošanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/19.1",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-26",
+  "entry_into_force": "2018-01-27",
+  "notification_date": "2022-12-19",
+  "commission_reference": "MNE(2022)07869",
+  "nim_celex": "72018L0844LVA_202207869",
+  "nim_id": "202207869",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f404cfa1-fedd-4662-9739-16410990ae98",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
