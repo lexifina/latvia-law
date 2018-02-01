@@ -1,0 +1,1 @@
+2. Lai nodrošinātu šā likuma izpildi, nepieciešamie papildu izdevumi Iekšlietu ministrijai (Pilsonības un migrācijas lietu pārvaldei) 2018. gadā tiek segti no valsts budžeta 74. resora "Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".

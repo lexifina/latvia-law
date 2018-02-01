@@ -1,0 +1,1 @@
+5. pants. Otrā pasaules kara dalībniekiem tiek izsniegta noteikta parauga apliecība un piemiņas krūšu nozīme. Ministru kabinets nosaka apliecības un piemiņas krūšu nozīmes paraugu, izsniegšanas, uzskaites un izmantošanas kārtību.

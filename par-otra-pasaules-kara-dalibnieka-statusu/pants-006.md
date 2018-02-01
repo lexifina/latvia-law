@@ -1,0 +1,1 @@
+6. pants. Pašvaldība savos saistošajos noteikumos ir tiesīga paredzēt sociālās garantijas personām, kurām piešķirts Otrā pasaules kara dalībnieka statuss, sava budžeta ietvaros piešķirot tām pabalstus un atvieglojumus pašvaldību nodevu maksāšanā vai pakalpojumu saņemšanā.
