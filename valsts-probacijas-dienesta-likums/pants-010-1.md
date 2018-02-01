@@ -1,0 +1,3 @@
+10.¹ pants. Probācijas klientiem paredzēto sociālās rehabilitācijas pakalpojumu līdzfinansēšanas kārtība
+(1) Valsts probācijas dienests atbilstoši likumā par valsts budžetu kārtējam gadam piešķirtajai apropriācijai līdzfinansē probācijas klientiem uzraudzības ietvaros paredzētos sociālās rehabilitācijas pakalpojumus. Sociālās rehabilitācijas pakalpojumi probācijas klientam tiek līdzfinansēti ne ilgāk kā 12 mēnešus.
+(2) Ministru kabinets nosaka kārtību, kādā Valsts probācijas dienests līdzfinansē probācijas klientiem uzraudzības ietvaros paredzētos sociālās rehabilitācijas pakalpojumus, un līdzfinansēšanas apmēru.
