@@ -1,2 +1,5 @@
-11.pants. Korekcijas koeficienta noteikšana
-Komisija nosaka kārtību, kādā aprēķināmi noguldījumu piesaistītāja maksājumi noguldījumu garantiju fondā, kā arī katru gadu līdz 1.martam informē noguldījumu piesaistītāju par tā maksājumam piemēroto korekcijas koeficientu. Ja noguldījumu piesaistītājs pārsūdz Komisijas lēmumu par tā maksājumam piemēroto korekcijas koeficientu, līdz galīgā lēmuma pieņemšanai tiesā noguldījumu piesaistītājs veic maksājumu 0,05 procentu apmērā no segto noguldījumu vidējā atlikuma noguldījumu piesaistītājā iepriekšējā ceturksnī.
+11. pants. Noguldījumu garantiju fonda pārvaldīšanai nepieciešamās informācijas sagatavošana, iesniegšana un apstrāde
+Komisija nosaka kārtību un termiņu, kādā:
+1) aprēķināmi noguldījumu piesaistītāja maksājumi noguldījumu garantiju fondā, nosakot veidu, kādā minētie maksājumi izpildāmi;
+2) sagatavojams un Komisijai iesniedzams pārskats par segtajiem noguldījumiem;
+3) apkopojama un Komisijai sniedzama informācija par garantēto atlīdzību.
