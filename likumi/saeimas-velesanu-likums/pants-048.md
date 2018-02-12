@@ -6,4 +6,4 @@
 1) nav apzīmogotas ar attiecīgās iecirkņa komisijas zīmogu;
 2) atsūtījuši vēlētāji, kas nav ierakstīti sarakstā balsošanai pa pastu;
 3) atsūtījuši vēlētāji, par kuriem sarakstā balsošanai pa pastu jau ir izdarīta atzīme, ka šis vēlētājs atsūtījis vēlēšanu aploksni.
-(3) Nederīgās vēlēšanu aploksnes neatver un nemet vēlēšanu kastē, tās numurē un par katru protokolā ieraksta, kāpēc aploksne uzskatīta par nederīgu. Nederīgās vēlēšanu aploksnes kopā ar iesniegumiem un pasta aploksnēm tiek uzglabātas Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(3) Nederīgās vēlēšanu aploksnes neatver un nemet vēlēšanu kastē, tās numurē un par katru vēlēšanu gaitas žurnālā ieraksta, kāpēc aploksne uzskatīta par nederīgu. Nederīgās vēlēšanu aploksnes kopā ar iesniegumiem un pasta aploksnēm tiek uzglabātas Centrālās vēlēšanu komisijas noteiktajā kārtībā.

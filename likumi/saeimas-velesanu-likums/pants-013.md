@@ -2,7 +2,7 @@
 (2) Reģistrētie kandidātu saraksti nav atsaucami, un grozījumus tajos var izdarīt tikai Centrālā vēlēšanu komisija kādā no šādiem veidiem:
 1) izsvītrojot pieteikto kandidātu, ja konstatē, ka:
 a) personai nav tiesību kandidēt Saeimas vēlēšanās,
-b) kandidāts ir persona, kura nav šā likuma 6.panta pirmajā vai otrajā daļā noteiktajā kārtībā atstājusi ieņemamo amatu (dienestu),
+b) kandidāts ir persona, kura nav šā likuma 6.panta pirmajā daļā noteiktajā kārtībā atstājusi ieņemamo amatu (dienestu),
 c) viena un tā pati persona pieteikta dažādu nosaukumu kandidātu sarakstos vai viena nosaukuma kandidātu sarakstā dažādos vēlēšanu apgabalos (10.panta trešā daļa),
 d) kandidāts miris;
 2) izdarot tehniska rakstura labojumus.

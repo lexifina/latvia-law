@@ -1,4 +1,4 @@
-24. pants. (1) Pamatojoties uz vēlētāja, viņa pilnvarotas personas vai aizgādņa rakstveida iesniegumu, kas reģistrēts īpašā žurnālā, iecirkņa komisija, nodrošinot aizklātību, balsošanu vēlētāja atrašanās vietā organizē:
+24. pants. (1) Pamatojoties uz vēlētāja, viņa pilnvarotas personas vai aizgādņa rakstveida iesniegumu, kas reģistrēts vēlēšanu gaitas žurnālā, iecirkņa komisija, nodrošinot aizklātību, balsošanu vēlētāja atrašanās vietā organizē:
 1) vēlētājiem, kuri veselības stāvokļa dēļ nevar ierasties vēlēšanu telpās, un šādu vēlētāju aprūpētājiem;
 2) slimojošu personu aprūpētājiem.
 Šo balsošanu ir tiesīgi uzraudzīt tam pilnvaroti novērotāji.
