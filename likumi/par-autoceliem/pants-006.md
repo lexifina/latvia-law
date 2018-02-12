@@ -4,6 +4,7 @@
 (3) Par lielgabarīta un smagsvara pārvadājumu atļaujas izsniegšanu (šā likuma 5.panta 6.¹ daļa) maksājama valsts nodeva. Valsts nodevas apmēru, maksāšanas kārtību un atbrīvojumus nosaka Ministru kabinets. Valsts nodevu ieskaita valsts pamatbudžeta ieņēmumos.
 (4) Maksu var ņemt par tādu autoceļu lietošanu, kas izbūvēti par privātiem līdzekļiem. Šādos gadījumos maksu nosaka autoceļa īpašnieks.
 (4¹) Pašvaldība ar saistošajiem noteikumiem var paredzēt, ka par transportlīdzekļa novietošanu uz pašvaldības autoceļa vai ielas stāvēšanai drīkst iekasēt maksu. Šajos noteikumos norādāms attiecīgais autoceļš vai iela (to posms), vai konkrēta teritorija, kurā ietilpst autoceļi vai ielas (to komplekss), noteikts laiks, kurā stāvēšanai novietotā transportlīdzekļa atrašanās uz pašvaldības autoceļa vai ielas ir par maksu (piemēram, noteikts diennakts, nedēļas laiks), maksas apmērs un tās iekasēšanas kārtība.
+(4²) Universālā pasta pakalpojuma sniedzējs var novietot transportlīdzekļus, kuriem izsniegta Ceļu satiksmes likuma 45. panta otrajā daļā paredzētā caurlaide, uz pašvaldības autoceļa vai ielas maksas autostāvvietās stāvēšanai bez maksas uz laiku, ne ilgāku par 30 minūtēm, ievērojot caurlaides lietošanas kārtību.
 (5) Ceļu lietotāju maksājumu elektronisko iekasēšanas sistēmu savstarpējas izmantojamības kārtību nosaka Ministru kabinets.
 (6) (Izslēgta ar 18.12.2008. likumu.)
 (7) (Izslēgta ar 18.12.2008. likumu.)
