@@ -24,4 +24,5 @@
 20) nodrošina tiesas un zemesgrāmatu nodaļas ar materiāliem un tehniskajiem līdzekļiem;
 21) sadarbībā ar valsts akciju sabiedrību "Tiesu namu aģentūra" nodrošina tiesas un zemesgrāmatu nodaļas ar darba telpām un informācijas un komunikāciju tehnoloģiju infrastruktūru;
 22) reizi gadā sniedz Tieslietu padomei ziņojumu par savu darbu;
-23) izdod iekšējos normatīvos aktus par rajona (pilsētas) tiesu, apgabaltiesu un zemesgrāmatu nodaļu administratīvā un saimnieciskā darba organizēšanu, kā arī veic pārbaudes.
+23) izdod iekšējos normatīvos aktus par rajona (pilsētas) tiesu, apgabaltiesu un zemesgrāmatu nodaļu administratīvā un saimnieciskā darba organizēšanu, kā arī veic pārbaudes;
+24) gādā par drošību rajona (pilsētas) tiesās un apgabaltiesās. Drošības pamatprasības nosaka Ministru kabinets.

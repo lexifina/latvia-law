@@ -1,2 +1,2 @@
 79.pants. Augstākās tiesas tiesneša aizstāšana
-Augstākās tiesas tiesneša vakances vai pagaidu prombūtnes laikā Tieslietu padome pēc Augstākās tiesas priekšsēdētāja priekšlikuma un Tiesnešu kvalifikācijas kolēģijas pozitīva atzinuma saņemšanas var uz laiku - ne ilgāku par diviem gadiem - uzdot aizstāt šo tiesnesi Augstākās tiesas Goda tiesnesim vai apgabaltiesas tiesnesim, ja viņš devis rakstveida piekrišanu.
+Augstākās tiesas tiesnesi vakances vai pagaidu prombūtnes laikā Tieslietu padome pēc Augstākās tiesas priekšsēdētāja priekšlikuma un pozitīva attiecīgā departamenta atzinuma saņemšanas var uz laiku - ne ilgāku par diviem gadiem - uzdot aizstāt apgabaltiesas tiesnesim. Piemērotākā kandidāta atlase notiek šā likuma 51. panta trešajā daļā noteiktajā kārtībā.

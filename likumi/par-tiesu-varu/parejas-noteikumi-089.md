@@ -1,0 +1,1 @@
+89. Līdz šā likuma 54.¹ panta pirmajā daļā un 54.² panta pirmajā daļā minētās kārtības spēkā stāšanās dienai, bet ne ilgāk kā līdz 2018. gada 1. jūlijam ir spēkā Ministru kabineta 2009. gada 3. marta noteikumi Nr. 204 "Tiesneša amata kandidāta atlases, stažēšanās un kvalifikācijas eksāmena kārtošanas kārtība".

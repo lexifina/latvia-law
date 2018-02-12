@@ -1,6 +1,6 @@
 33. pants. Rajona (pilsētas) tiesas priekšsēdētājs
 (1) Rajona (pilsētas) tiesas iestādes darbu līdztekus tiesneša pienākumu pildīšanai vada tiesas priekšsēdētājs.
-(2) Rajona (pilsētas) tiesas priekšsēdētāju uz pieciem gadiem ieceļ amatā tieslietu ministrs, saskaņojot ar Tieslietu padomi. Tieslietu ministrs, saskaņojot ar Tieslietu padomi, var atbrīvot tiesas priekšsēdētāju no amata pirms termiņa pēc viņa paša vēlēšanās vai ja tiesas priekšsēdētājs amata pienākumu izpildē pieļāvis rupjus pārkāpumus vai nespēj kvalitatīvi nodrošināt tiesas administratīvā darba vadību.
+(2) Rajona (pilsētas) tiesas priekšsēdētāju uz pieciem gadiem ieceļ amatā Tieslietu padome pēc tieslietu ministra priekšlikuma. Tieslietu padome var atbrīvot tiesas priekšsēdētāju no amata pirms termiņa pēc viņa paša vēlēšanās vai pēc tieslietu ministra priekšlikuma, ja tiesas priekšsēdētājs amata pienākumu izpildē pieļāvis rupjus pārkāpumus vai nespēj kvalitatīvi nodrošināt tiesas administratīvā darba vadību.
 (2¹) Viena un tā pati persona var būt par rajona (pilsētas) tiesas priekšsēdētāju ne vairāk kā divus termiņus pēc kārtas.
 (3) Rajona (pilsētas) tiesas priekšsēdētājs:
 1) rīkojas ar tiesas iestādei nodotajiem finanšu un citiem resursiem;

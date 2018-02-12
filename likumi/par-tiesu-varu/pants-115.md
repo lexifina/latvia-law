@@ -6,4 +6,4 @@
 3) izpilda tiesneša un tiesas lēmumus par to personu piespiedu atvešanu uz tiesu, kuras izvairās no ierašanās tiesā pēc izsaukuma;
 4) pilda citus tiesu nolēmumus savas kompetences ietvaros.
 (3) Policija gādā par tiesnešu un tiesas darbinieku, viņu ģimenes locekļu, kā arī par viņu.mantas aizsardzību.
-(4) Tiesā kārtību nodrošina tiesas kārtībnieki, kuri ietilpst policijas sastāvā.
+(4) (Izslēgta ar 18.01.2018. likumu)

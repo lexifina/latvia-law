@@ -1,2 +1,2 @@
-59. pants. Kandidāta izvirzīšana Augstākās Tiesas tiesneša amatam
-Augstākās Tiesas tiesneša kandidātu apstiprināšanai amatā izvirza Augstākās Tiesas priekšsēdētājs, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu.
+59. pants. Kandidāta izvirzīšana Augstākās tiesas tiesneša amatam
+Augstākās tiesas tiesneša amata kandidātu apstiprināšanai amatā izvirza Augstākās tiesas priekšsēdētājs, pamatojoties uz pozitīvu attiecīgā departamenta atzinumu.
