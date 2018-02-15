@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 6. februāra noteikumi Nr. 78 \"Prasības elektrotransportlīdzekļu uzlādes, dabasgāzes uzpildes, ūdeņraža uzpildes un krasta elektropadeves iekārtām\". Latvijas Vēstnesis, 33, 15.02.2018.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-14",
+  "entry_into_force": "2018-02-15",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02134",
+  "nim_celex": "72019L0944LVA_202102134",
+  "nim_id": "202102134",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/35c1c5d4-905a-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
