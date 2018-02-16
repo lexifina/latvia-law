@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu ministrijas 2018.gada 16.februāra iekšējie noteikumi Nr.12-5/7 “Kārtība, kādā Finanšu ministrijā tiek nodrošināta vispārējās valdības budžeta fiskālo datu publicēšana saskaņā ar Padomes 2011. gada 8. novembra direktīvas 2011/85/ES 3. pantu un 14. panta 3. punktu”.",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "2018-02-16",
+  "entry_into_force": "3018-02-16",
+  "notification_date": "2018-03-21",
+  "commission_reference": "MNE(2018)51493",
+  "nim_celex": "72011L0085LVA_257106",
+  "nim_id": "257106",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7bc0bbb7-aa8d-4110-bfca-1ac61378c618",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
