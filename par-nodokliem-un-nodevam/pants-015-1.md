@@ -1,5 +1,6 @@
 15.¹ pants. Nodokļu maksātāju reģistrācija
 (1) Uzņēmumu reģistrs likumā "Par Latvijas Republikas Uzņēmumu reģistru" un citos likumos noteiktajā kārtībā reģistrē komersantus un to filiāles, kooperatīvās sabiedrības, individuālos uzņēmumus, zemnieku vai zvejnieku saimniecības, ārvalstu komersanta filiāles, ārvalstu komersanta pārstāvniecības, ārvalstu komersanta pārstāvjus, organizāciju pārstāvniecības un pārstāvjus, Eiropas ekonomisko interešu grupas, Eiropas komercsabiedrības, Eiropas kooperatīvās sabiedrības, politiskās partijas, biedrības un nodibinājumus, arodbiedrības, reliģiskās organizācijas un to iestādes arī kā nodokļu maksātājus un piešķir vienoto vienpadsmitzīmju reģistrācijas numuru, kas vienlaikus ir arī nodokļu maksātāja reģistrācijas kods. Uzņēmumu reģistra izsniegtā reģistrācijas apliecība (ja tāda ir izsniegta) vienlaikus ir arī nodokļu maksātāja apliecība.
+(1¹) Uzņēmumu reģistrs publiskās personas un iestādes likumā "Par Latvijas Republikas Uzņēmumu reģistru" un citos likumos noteiktajā kārtībā ieraksta publisko personu un iestāžu sarakstā un piešķir reģistrācijas numuru, kas vienlaikus ir arī nodokļu maksātāja reģistrācijas kods.
 (2) (Izslēgta ar 26.10.2006. likumu.)
 (3) (Izslēgta ar 26.10.2006. likumu.)
 (4) Uzņēmumu reģistrs, reģistrējot:
