@@ -5,4 +5,6 @@ Apstrīdēšana vai pārsūdzēšana neaptur šādu administratīvo aktu darbīb
 3) lēmumu izsniegt, anulēt vai apturēt uz laiku Eiropas Kopienas atļaujas kopiju pasažieru komercpārvadājumiem ar autobusu vai komercpārvadājumiem ar kravas autotransportu Eiropas Savienības teritorijā;
 4) lēmumu izsniegt, anulēt vai apturēt uz laiku atļauju starptautiskajiem pasažieru vai kravas pārvadājumiem ar autotransportu;
 5) lēmums izsniegt, anulēt vai apturēt uz laiku speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar autobusu vai kravas komercpārvadājumiem ar kravas automobili;
-6) lēmums izsniegt, anulēt vai apturēt uz laiku licences kartīti pasažieru komercpārvadājumiem ar autobusu vai kravas komercpārvadājumiem ar kravas automobili.
+6) lēmums izsniegt, anulēt vai apturēt uz laiku licences kartīti pasažieru komercpārvadājumiem ar autobusu vai kravas komercpārvadājumiem ar kravas automobili;
+7) lēmumu par vadītāja reģistrāciju pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili vai izslēgšanu no reģistra;
+8) lēmumu izsniegt, anulēt vai apturēt uz laiku speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili.

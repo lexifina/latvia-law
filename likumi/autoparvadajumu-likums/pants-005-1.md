@@ -10,5 +10,6 @@
 7) atļauju izsniegšanu starptautiskajiem pasažieru un kravas pārvadājumiem ar autotransportu;
 8) Eiropas Kopienas atļauju, Eiropas Kopienas atļauju kopiju un autovadītāju atestātu izsniegšanu starptautiskajiem pasažieru un kravas pārvadājumiem, anulēšanu vai apturēšanu uz laiku Ministru kabineta noteiktajā kārtībā;
 9) Eiropas Parlamenta un Padomes 2011.gada 16.februāra regulas (ES) Nr. 181/2011 par autobusu pasažieru tiesībām un par grozījumiem regulā (EK) Nr. 2006/2004 [turpmāk - regula (ES) Nr. 181/2011] izpildi saskaņā ar regulas (ES) Nr. 181/2011 28.panta 1.punktu;
-10) pasažieru sūdzību pārskatīšanu, kuras nav atrisinātas saskaņā ar regulas (ES) Nr. 181/2011 27.pantu.
+10) pasažieru sūdzību pārskatīšanu, kuras nav atrisinātas saskaņā ar regulas (ES) Nr. 181/2011 27.pantu;
+11) vadītāju reģistrāciju pasažieru komercpārvadājumiem ar taksometru un vieglo automobili Ministru kabineta noteiktajā kārtībā.
 (2) Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Autotransporta direkcija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus.
