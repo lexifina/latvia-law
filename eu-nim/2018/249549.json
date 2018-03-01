@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2017. gada 30.maija noteikumi Nr. 295 \"Noteikumi par transportlīdzekļu valsts tehnisko apskati un tehnisko kontroli uz ceļa\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "147",
+  "official_journal_page": null,
+  "official_journal_date": "2017-07-26",
+  "entry_into_force": "2018-03-01",
+  "notification_date": "2017-07-26",
+  "commission_reference": "MNE(2017)54189",
+  "nim_celex": "72014L0045LVA_249549",
+  "nim_id": "249549",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/91e47a1b-f910-499e-9f9d-d93dd66e7b9f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
