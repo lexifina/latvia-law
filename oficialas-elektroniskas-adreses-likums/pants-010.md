@@ -1,0 +1,2 @@
+10.pants. Piekļuves tiesību nodošana
+Oficiālās elektroniskās adreses konta lietotājs savā oficiālās elektroniskās adreses kontā var norādīt un aktualizēt citu viņa kontam piekļūt tiesīgu lietotāju, norādot šā lietotāja vārdu, uzvārdu un personas kodu vai oficiālās elektroniskās adreses kontu un piekļuves tiesību apjomu (apskatīt vai sūtīt elektroniskos dokumentus, sazināties), kā arī atsaukt citam lietotājam piešķirtās piekļuves tiesības.

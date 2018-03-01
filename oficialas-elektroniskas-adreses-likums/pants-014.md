@@ -1,0 +1,3 @@
+14.pants. Elektroniskās saziņas un elektroniskā dokumenta glabāšana un pieejamība
+(1) Oficiālo elektronisko adrešu informācijas sistēmas pārzinis nodrošina saņemtās un nosūtītās elektroniskās saziņas, elektronisko dokumentu un to metadatu glabāšanu un pieejamību oficiālās elektroniskās adreses kontā.
+(2) Ministru kabinets nosaka uz oficiālo elektronisko adresi nosūtītās elektroniskās saziņas, elektronisko dokumentu un to metadatu glabāšanas apjomu un termiņu, kā arī oficiālo elektronisko adrešu informācijas sistēmas pārziņa rīcību, ja tiek pārsniegts elektronisko dokumentu un to metadatu glabāšanas apjoms vai beidzas to glabāšanas termiņš.
