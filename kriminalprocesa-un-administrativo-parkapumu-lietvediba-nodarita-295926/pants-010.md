@@ -1,0 +1,5 @@
+10. pants. Zaudējums
+(1) Zaudējums šā likuma izpratnē ir mantiski novērtējams pametums, kas privātpersonai radies iestādes, prokuratūras vai tiesas prettiesiskas vai nepamatotas rīcības dēļ kriminālprocesā vai administratīvo pārkāpumu lietvedībā.
+(2) Aprēķinot zaudējumu, ņem vērā arī atrauto peļņu, ja privātpersona spēj pierādīt, ka notikumu parastās attīstības gaitā peļņa tiktu gūta.
+(3) Zaudējums aptver arī izmaksas, kas saistītas ar juridisko palīdzību. Izmaksas par juridisko palīdzību un ar to saistītajiem izdevumiem atlīdzina atbilstoši normatīvajos aktos par valsts nodrošinātās juridiskās palīdzības samaksu kriminālprocesā noteiktajiem veidiem un apmēram.
+(4) Šā likuma izpratnē zaudējums ir arī tāds mantiski novērtējams pametums, kas privātpersonai radies Kontroles dienesta nepamatotas vai prettiesiskas rīcības dēļ, ja, pamatojoties uz Kontroles dienesta sniegto informāciju, ir uzsākts kriminālprocess vai administratīvā pārkāpuma lietvedība un vēlāk iestājies kāds no šajā likumā norādītajiem kaitējuma atlīdzinājuma tiesiskajiem pamatiem.

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par izziņas iestādes, prokuratūras vai tiesas nelikumīgas vai nepamatotas rīcības rezultātā nodarīto zaudējumu atlīdzināšanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 14. nr.; 1999, 11. nr.; 2001, 9. nr.; 2003, 22. nr.; Latvijas Vēstnesis, 2013, 187. nr.).

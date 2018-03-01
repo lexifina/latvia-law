@@ -1,0 +1,3 @@
+6. pants. Prettiesiska un nepamatota rīcība
+(1) Iestādes, prokuratūras vai tiesas rīcība šā likuma izpratnē ir prettiesiska, ja ar šo rīcību pārkāptas tiesību normas un vēlāk iestājies viens no šajā likumā norādītajiem kaitējuma atlīdzinājuma tiesiskajiem pamatiem. Prettiesisku rīcību konstatē ar iestādes, kriminālprocesā pilnvarotas amatpersonas vai tiesas nolēmumu.
+(2) Iestādes, prokuratūras, tiesas vai Kontroles dienesta rīcība šā likuma izpratnē ir nepamatota, ja tā lēmums pieņemšanas brīdī ir atbildis tiesību normām, taču vēlāk iestājies viens no šajā likumā norādītajiem kaitējuma atlīdzinājuma tiesiskajiem pamatiem.

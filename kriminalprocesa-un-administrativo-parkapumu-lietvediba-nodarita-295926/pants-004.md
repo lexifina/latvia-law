@@ -1,0 +1,9 @@
+4. pants. Kriminālprocesā nodarītā kaitējuma atlīdzinājuma tiesiskais pamats
+(1) Fiziskajai personai ir tiesības uz kaitējuma atlīdzinājumu, ja iestājies viens no šādiem apstākļiem:
+1) spēkā stājies attaisnojošs tiesas spriedums, ar kuru persona atzīta par nevainīgu un attaisnota visās pret to celtajās apsūdzībās;
+2) kriminālprocess pilnībā izbeigts personu reabilitējošu apstākļu dēļ;
+3) spēkā stājies tiesas spriedums, ar kuru persona attaisnota apsūdzībā par kādu no noziedzīgiem nodarījumiem, par kuriem tā saukta pie kriminālatbildības, ja šai personai konkrētā kriminālprocesa gaitā tika piemērots ar brīvības atņemšanu saistīts procesuāls piespiedu līdzeklis un par noziedzīgu nodarījumu, par kura izdarīšanu persona notiesāta, likums neparedz brīvības atņemšanas sodu;
+4) kriminālprocess izbeigts tā daļā personu reabilitējošu apstākļu dēļ, ja šai personai attiecīgā kriminālprocesa gaitā tika piemērots ar brīvības atņemšanu saistīts procesuāls piespiedu līdzeklis un kriminālprocess turpinās tā daļā par noziedzīgu nodarījumu, par kura izdarīšanu likums neparedz brīvības atņemšanas sodu;
+5) attiecīgajā kriminālprocesā piemērotā ar brīvības atņemšanu saistītā procesuālā piespiedu līdzekļa ilgums pārsniedzis ar galīgo spriedumu piespriestā brīvības atņemšanas soda ilgumu;
+6) ar kriminālprocesā pilnvarotas amatpersonas nolēmumu konstatēts pārkāpums procesuālās darbības norisē, kura rezultātā iznīcināts vai nesamērīgi bojāts īpašums.
+(2) Privāto tiesību juridiskajai personai (turpmāk - juridiskā persona) tiesības uz kaitējuma atlīdzinājumu rodas, ja spēkā stājies nolēmums par procesa izbeigšanu pilnībā vai daļā par piespiedu ietekmēšanas līdzekļu piemērošanu šai personai, nekonstatējot Krimināllikumā noteikto pamatu piespiedu ietekmēšanas līdzekļa piemērošanai attiecīgajai personai.

@@ -1,0 +1,1 @@
+5. Lietas, kuras šā likuma spēkā stāšanās dienā izskata saskaņā ar Valsts pārvaldes iestāžu nodarīto zaudējumu atlīdzināšanas likumu, lēmējiestāde vai tiesa izskata un zaudējuma atlīdzinājuma tiesisko pamatu izvērtē atbilstoši tiesiskajam regulējumam, kāds bija spēkā līdz šā likuma spēkā stāšanās dienai.

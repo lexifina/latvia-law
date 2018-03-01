@@ -1,0 +1,1 @@
+3. Iesniegumu par zaudējumu atlīdzināšanu, kas Tieslietu ministrijai vai Ģenerālprokuratūrai iesniegts līdz šā likuma spēkā stāšanās dienai, attiecīgā iestāde izskata un zaudējuma atlīdzinājuma tiesisko pamatu izvērtē atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz šā likuma spēkā stāšanās dienai.

@@ -1,0 +1,15 @@
+15. pants. Ar nepamatotu vai prettiesisku brīvības ierobežošanu nodarīta nemantiskā kaitējuma atlīdzības apmēra noteikšana
+(1) Ja ir iestājies viens no šajā likumā paredzētajiem kaitējuma atlīdzinājuma tiesiskajiem pamatiem, fiziskajai personai ir tiesības uz nemantiskā kaitējuma atlīdzinājumu par nepamatotu vai prettiesisku brīvības ierobežošanu, ja tai:
+1) piespriests kriminālsods un persona šo sodu izcietusi pilnībā vai daļēji;
+2) piemērots Kriminālprocesa likumā paredzētais ar brīvības atņemšanu saistītais procesuālais piespiedu līdzeklis;
+3) piemērots Krimināllikumā paredzētais ar brīvības atņemšanu saistītais medicīniska rakstura piespiedu līdzeklis;
+4) kriminālprocesa ietvaros piemērots audzinoša rakstura piespiedu līdzeklis - ievietošana sociālās korekcijas izglītības iestādē;
+5) piemērots administratīvais arests un tas pilnībā vai daļēji izpildīts;
+6) piemērota administratīvā aizturēšana, kas pārsniedza likumā noteikto administratīvās aizturēšanas termiņu.
+(2) Ievērojot šā likuma 4. panta pirmajā daļā un 5. pantā (ja pilnībā vai daļēji izciests administratīvais arests) minētos nosacījumus, fiziskajai personai izmaksā kaitējuma atlīdzību par prettiesisku vai nepamatotu brīvības ierobežošanu divu dienu darba samaksas apmērā par katru dienu (24 stundām), kurā personas brīvība bija ierobežota.
+(3) Aprēķinot nemantiskā kaitējuma atlīdzības apmēru, ņem vērā šā likuma 4. panta pirmajā daļā un 5. pantā (ja pilnībā vai daļēji izciests administratīvais arests) minēto nosacījumu iestāšanās brīdī valstī noteikto minimālo mēnešalgu.
+(4) Vienas dienas darba samaksu aprēķina, dalot valstī noteikto minimālo mēnešalgu šā likuma 4. panta pirmajā daļā un 5. pantā (ja pilnībā vai daļēji izciests administratīvais arests) minēto nosacījumu iestāšanās brīdī ar 30. Vienas dienas darba samaksu nosaka veselos skaitļos, atmetot ciparus aiz komata.
+(5) Ja fiziskās personas brīvība ir tikusi ierobežota mazāk nekā 24 stundas, uzskatāms, ka šīs personas brīvība bija ierobežota 24 stundas, izņemot šā likuma 5. panta 2. punktā minēto gadījumu.
+(6) Šā likuma 5. panta 2. punktā minētajā gadījumā fiziskajai personai ir izmaksājama kompensācija par prettiesisku vai nepamatotu brīvības ierobežošanu (laiku, kas pārsniedz administratīvās aizturēšanas termiņu) divu stundu darba samaksas apmērā par katru stundu (60 minūtes), kurā šīs personas brīvība bija ierobežota. Vienas stundas darba samaksu aprēķina, dalot valstī noteikto minimālo mēnešalgu šā likuma 5. panta 2. punktā minēto nosacījumu iestāšanās brīdī ar 240. Vienas stundas darba samaksu nosaka veselos skaitļos, atmetot ciparus aiz komata.
+(7) Ja fiziskās personas brīvība šā likuma 5. panta 2. punktā minētajā gadījumā ir tikusi ierobežota mazāk nekā 60 minūtes, uzskatāms, ka šīs personas brīvība bija ierobežota 60 minūtes.
+(8) Lēmējiestāde var samazināt kaitējuma atlīdzības apmēru, kas aprēķināts saskaņā ar šā panta nosacījumiem, ievērojot tās fiziskās personas personību raksturojošas ziņas un līdzatbildību, kuras brīvība tikusi nepamatoti ierobežota.

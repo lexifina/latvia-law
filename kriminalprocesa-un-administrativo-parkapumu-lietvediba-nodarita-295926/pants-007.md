@@ -1,0 +1,2 @@
+7. pants. Cēloņsakarība
+Tiesības uz kaitējuma atlīdzinājumu rodas, ja starp iestādes, prokuratūras vai tiesas prettiesisko vai nepamatoto rīcību un privātpersonai nodarīto kaitējumu pastāv tieša cēloņsakarība - objektīva saikne starp iestādes, prokuratūras vai tiesas rīcību un tās radīto laika ziņā vēlāk sekojošo kaitējumu, proti, minētā rīcība radījusi un noteikusi kaitējuma iestāšanās reālu iespēju un ir galvenais faktors, kas nenovēršami radījis šo kaitējumu.
