@@ -1,3 +1,4 @@
-8.pants. Personiskais kaitējums
-(1) Personiskais kaitējums šā likuma izpratnē ir kaitējums, kas ar iestādes prettiesisku administratīvo aktu vai prettiesisku faktisko rīcību nodarīts fiziskās personas dzīvībai, fiziskajai integritātei, veselībai, brīvībai, godam un cieņai, personiskam un ģimenes noslēpumam vai komercnoslēpumam, autortiesībām vai citām nemantiskajām tiesībām vai ar likumu aizsargātajām interesēm.
-(2) Juridiskajai personai un individuālajam komersantam ir tiesības uz atlīdzinājumu par personisko kaitējumu, kas nodarīts to darījumu reputācijai, komercnoslēpumam, autortiesībām vai arī citām nemantiskajām tiesībām vai ar likumu aizsargātajām interesēm.
+8. pants. Nemantiskais kaitējums
+Nemantiskais kaitējums šā likuma izpratnē ir ar iestādes prettiesisku administratīvo aktu vai prettiesisku faktisko rīcību nodarīts:
+1) fiziskās personas dzīvības, veselības, brīvības, goda un cieņas, personiskā vai ģimenes noslēpuma, citu nemantisko tiesību vai ar likumu aizsargāto interešu aizskārums, kā rezultātā radušās nelabvēlīgas nemantiskās sekas;
+2) juridiskās personas darījumu reputācijas, komercnoslēpuma, autortiesību vai citu nemantisko tiesību vai ar likumu aizsargāto interešu aizskārums, kā rezultātā radušās nelabvēlīgas nemantiskās sekas.

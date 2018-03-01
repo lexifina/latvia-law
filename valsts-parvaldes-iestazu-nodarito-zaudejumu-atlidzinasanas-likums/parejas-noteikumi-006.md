@@ -1,0 +1,1 @@
+6. Iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu, kas Finanšu ministrijā saņemts līdz 2018. gada 28. februārim, tiek izskatīts atbilstoši tiesību normām, kuras bija spēkā līdz 2018. gada 28. februārim. Finanšu ministrija sagatavo un līdz 2018. gada 15. aprīlim iesniedz Ministru kabinetam pārskatu par 2018. gadā veiktajām izmaksām.

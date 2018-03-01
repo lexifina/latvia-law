@@ -1,4 +1,0 @@
-31.pants. Pārskats par zaudējuma atlīdzinājumu
-(1) Iestādes lēmuma vai tiesas nolēmuma kopiju par zaudējuma atlīdzinājumu, kā arī par regresa prasību pret amatpersonu attiecīgā lēmējiestāde vai tiesa mēneša laikā pēc tā pieņemšanas nosūta Finanšu ministrijai.
-(2) Finanšu ministrija pārbauda lēmējiestādes norādīto summu pamatojumu. Ja Finanšu ministrija konstatē, ka atlīdzinājuma summa ir nepamatoti liela, tā par to nekavējoties rakstveidā informē Ministru kabinetu un Valsts kontroli.
-(3) Finanšu ministrija vismaz reizi pusgadā (līdz kārtējā gada 15.jūlijam un nākamā gada 15.janvārim) sagatavo un iesniedz Ministru kabinetam pārskatu par visiem attiecīgajā laikposmā saņemtajiem iestāžu lēmumiem vai tiesas nolēmumiem par zaudējumu atlīdzinājumu izmaksu no valsts pamatbudžeta (arī par maksājumiem, kas veikti saskaņā ar 28.pantu).
