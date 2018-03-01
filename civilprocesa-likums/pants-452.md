@@ -6,4 +6,4 @@
 2) tiesa lietu izskatījusi, pārkāpjot procesuālo tiesību normas, kas nosaka pienākumu paziņot procesa dalībniekiem par tiesas sēdes laiku un vietu;
 3) pārkāptas procesuālo tiesību normas par tiesvedības valodu;
 4) tiesas spriedums piešķir tiesības vai uzliek pienākumus personai, kura nav pieaicināta lietā kā procesa dalībnieks;
-5) lietā nav tiesas sēdes protokola vai pilna tiesas sprieduma.
+5) lietā nav tiesas sēdes protokola vai tiesas sprieduma.

@@ -1,4 +1,4 @@
-199.pants. Sprieduma pasludināšana
-(1) Pēc sprieduma parakstīšanas tiesa atgriežas tiesas sēžu zālē, kur tiesnesis pasludina spriedumu, nolasot tā ievaddaļu un rezolutīvo daļu.
-(2) Pēc sprieduma pasludināšanas tiesnesis izskaidro tā saturu, pārsūdzēšanas kārtību un termiņus.
-(3) Pasludinot saīsinātu spriedumu, tiesa paziņo datumu, kad būs sastādīts pilns spriedums.
+199. pants. Sprieduma pasludināšana
+(1) Spriedumu pasludina tiesas sēdē pēc tā parakstīšanas, nolasot tā ievaddaļu un rezolutīvo daļu, bet šā likuma 187. panta otrajā daļā minētajā gadījumā tiesa nosaka datumu tuvāko 30 dienu laikā, kad spriedums būs sastādīts un pieejams tiesas kancelejā. Datums, kad spriedums ir pieejams tiesas kancelejā, uzskatāms par sprieduma pasludināšanas datumu.
+(2) Ja spriedums tiek pasludināts tiesas sēdē, tiesnesis izskaidro tā pārsūdzēšanas kārtību un termiņus.
+(3) Ja lieta tiek skatīta tiesas sēdē, saīsināto spriedumu pasludina tiesas sēdē pēc tā parakstīšanas, nolasot tā ievaddaļu un rezolutīvo daļu, bet šā likuma 187. panta otrajā daļā minētajā gadījumā tiesa nosaka datumu tuvāko 14 dienu laikā, kad saīsinātais spriedums būs sastādīts un pieejams tiesas kancelejā. Datums, kad saīsinātais spriedums ir pieejams tiesas kancelejā, uzskatāms par sprieduma pasludināšanas datumu.
