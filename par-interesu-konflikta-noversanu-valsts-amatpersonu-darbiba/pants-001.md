@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) amats - darbs vai dienests noteiktu pilnvaru ietvaros publiskas personas iestādē, sabiedriskajā, politiskajā vai reliģiskajā organizācijā, kā arī komercsabiedrībā;
+1) amats - darbs vai dienests noteiktu pilnvaru ietvaros publiskas personas iestādē, sabiedriskajā, politiskajā vai reliģiskajā organizācijā, kā arī komercsabiedrībā. Amats šā likuma izpratnē nav valsts amatpersonas darbs, pārstāvot attiecīgo publiskas personas institūciju, kurā tā ieņem valsts amatpersonas amatu, starptautiskajā organizācijā, kuras dalībvalsts ir Latvijas Republika vai ar kuru sadarbojas Latvijas Republika, kā arī citu institūciju veidotās komisijās, konsultatīvajās padomēs un darba grupās, un par šo darbu nav noteikta atlīdzība;
 2) uzņēmuma līgums - civiltiesisks līgums, ar kuru valsts amatpersona apņemas izpildīt citas personas labā noteikta apjoma darbu par zināmu atlīdzību;
 3) pilnvarojums - tiesību kopums, ko cita persona piešķīrusi valsts amatpersonai, lai tā rīkotos pilnvarotāja vārdā un interesēs;
 4) darījumu partneri - fiziskā vai juridiskā persona vai uz līguma pamata izveidota fizisko un juridisko personu apvienība, kas saskaņā ar šā likuma noteikumiem ir deklarējamās darījumu attiecībās ar valsts amatpersonu;
