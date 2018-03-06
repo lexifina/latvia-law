@@ -1,0 +1,1 @@
+54. Šā likuma 45. panta pirmajā daļā noteikto pienākumu regulāri kontrolēt emisiju apjomu, veikt monitoringu un sniegt informāciju (iesniegt monitoringa plānus) nepilda tāds gaisa kuģa operators, kurš veic tikai šo pārejas noteikumu 53. punktā minētos lidojumus.

@@ -3,7 +3,7 @@ Nr.p.k.
 Darbība, kurai nepieciešama siltumnīcefekta gāzu emisijas atļauja
 Siltumnīcefekta gāze
 1.
-Kurināmā sadedzināšana - kurināmā oksidēšana neatkarīgi no tā, kā tiek izmantota šajā procesā ražotā siltumenerģija, elektroenerģija vai mehāniskā enerģija, un citas tieši saistītas darbības, tai skaitā dūmgāzu attīrīšana, iekārtās, kuru kopējā nominālā ievadītā siltuma jauda pārsniedz 20 megavatus (izņemot bīstamo atkritumu vai sadzīves atkritumu sadedzināšanas iekārtas)Oglekļa dioksīds
+Kurināmā sadedzināšana - kurināmā oksidēšana neatkarīgi no tā, kā tiek izmantota šajā procesā ražotā siltumenerģija, elektroenerģija vai mehāniskā enerģija, un citas tieši saistītas darbības, tai skaitā dūmgāzu attīrīšana, iekārtās, kuru kopējā nominālā siltuma jauda pārsniedz 20 megavatus (izņemot bīstamo atkritumu vai sadzīves atkritumu sadedzināšanas iekārtas)Oglekļa dioksīds
 2.
 Minerāleļļu attīrīšana un rafinēšanaOglekļa dioksīds
 3.
@@ -13,15 +13,15 @@ Metāla rūdu, arī sulfīdu rūdu, apdedzināšana vai kausējumu iegūšana, i
 5.
 Čuguna vai tērauda pirmreizēja vai atkārtota kausēšana, ieskaitot nepārtraukto izliešanu, kopējai jaudai pārsniedzot 2,5 tonnas stundāOglekļa dioksīds
 6.
-Melno metālu, arī ferosakausējumu, ražošana vai pārstrāde, kurā tiek izmantotas sadedzināšanas vienības, kuru kopējā nominālā ievadītā siltuma jauda pārsniedz 20 megavatus. Pārstrādē tiek izmantoti arī velmēšanas stāvi, tvaika pārkarsētāji, atlaidināšanas krāsnis, kaltuvju, lietuvju, pārklājumu un kodināšanas iekārtasOglekļa dioksīds
+Melno metālu, arī ferosakausējumu, ražošana vai pārstrāde, kurā tiek izmantotas sadedzināšanas vienības, kuru kopējā nominālā siltuma jauda pārsniedz 20 megavatus. Pārstrādē tiek izmantoti arī velmēšanas stāvi, tvaika pārkarsētāji, atlaidināšanas krāsnis, kaltuvju, lietuvju, pārklājumu un kodināšanas iekārtasOglekļa dioksīds
 7.
 Primārā alumīnija ražošanaOglekļa dioksīds,
 perfluor-
 ogļūdeņraži
 8.
-Sekundārā alumīnija ražošana, kurā tiek izmantotas sadedzināšanas vienības, kuru kopējā nominālā ievadītā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
+Sekundārā alumīnija ražošana, kurā tiek izmantotas sadedzināšanas vienības, kuru kopējā nominālā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
 9.
-Krāsaino metālu ražošana vai pārstrāde, arī sakausējumu ražošana, rafinēšana, liešana u.tml., kurā izmantojamo sadedzināšanas vienību kopējā nominālā ievadītā siltuma jauda, ieskaitot ievadīto siltuma jaudu kurināmajam, ko izmanto kā reducējošu aģentu, pārsniedz 20 megavatusOglekļa dioksīds
+Krāsaino metālu ražošana vai pārstrāde, arī sakausējumu ražošana, rafinēšana, liešana u.tml., kurā izmantojamo sadedzināšanas vienību kopējā nominālā siltuma jauda, ieskaitot ievadīto siltuma jaudu kurināmajam, ko izmanto kā reducējošu aģentu, pārsniedz 20 megavatusOglekļa dioksīds
 10.
 Klinkera cementa ražošana rotācijas krāsnīs, kuru ražošanas jauda pārsniedz 500 tonnas produkcijas dienā, vai cita veida krāsnīs, kuru ražošanas jauda pārsniedz 50 tonnas dienāOglekļa dioksīds
 11.
@@ -33,13 +33,13 @@ Apdedzinātu māla izstrādājumu, arī jumta kārniņu, ķieģeļu, ugunsiztur�
 14.
 Minerālvates izolācijas materiālu ražošana, izmantojot stiklu, akmeni vai izdedžus, ar kausēšanas jaudu virs 20 tonnām dienāOglekļa dioksīds
 15.
-Ģipša žāvēšana vai apdedzināšana vai ģipškartona sausā apmetuma plātņu un citu ģipša izstrādājumu ražošana, kurā izmantojamo sadedzināšanas vienību kopējā nominālā ievadītā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
+Ģipša žāvēšana vai apdedzināšana vai ģipškartona sausā apmetuma plātņu un citu ģipša izstrādājumu ražošana, kurā izmantojamo sadedzināšanas vienību kopējā nominālā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
 16.
 Celulozes ražošana no koksnes vai citām šķiedrvielāmOglekļa dioksīds
 17.
 Papīra vai kartona ražošana, ražošanas jaudai pārsniedzot 20 tonnas dienāOglekļa dioksīds
 18.
-Oglekļa ražošana, karbonizējot tādus organiskās vielas saturošus materiālus kā nafta, gudrons, krekinga un pārtvaices atlikumi, kurā izmantojamo sadedzināšanas vienību kopējā nominālā ievadītā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
+Oglekļa ražošana, karbonizējot tādus organiskās vielas saturošus materiālus kā nafta, gudrons, krekinga un pārtvaices atlikumi, kurā izmantojamo sadedzināšanas vienību kopējā nominālā siltuma jauda pārsniedz 20 megavatusOglekļa dioksīds
 19.
 Slāpekļskābes ražošanaOglekļa dioksīds,
 slāpekļa oksīds
@@ -77,4 +77,4 @@ Eiropas Savienības emisijas kvotu tirdzniecības sistēmā iekļauj gaisa kuģu
 10) lidojumus, kurus veic komerciāls gaisa transporta operators, kas atbilst vienam no šādiem nosacījumiem:
 a) katrā no trim secīgiem četru mēnešu periodiem veic mazāk par 243 lidojumiem,
 b) veic lidojumus, kuru ikgadējās kopējās oglekļa dioksīda emisijas nepārsniedz 10 000 tonnu gadā;
-11) lidojumus, kurus no 2013.gada 1.janvāra līdz 2020.gada 31.decembrim veic nekomerciāls gaisa kuģa operators, kas veic lidojumus, kuru kopējās gada emisijas ir mazākas par 1000 CO2 tonnām gadā.
+11) lidojumus, kurus no 2013.gada 1.janvāra līdz 2030. gada 31. decembrim veic nekomerciāls gaisa kuģa operators, kas veic lidojumus, kuru kopējās gada emisijas ir mazākas par 1000 CO2 tonnām gadā.

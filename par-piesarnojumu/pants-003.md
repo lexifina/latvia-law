@@ -16,3 +16,4 @@
 (4) Šis likums paredz nosacījumus:
 1) siltumnīcefekta gāzu emisiju samazināšanai no citiem siltumnīcefekta gāzu emisiju avotiem un šajā likumā minēto siltumnīcefekta gāzu emisiju samazināšanas saistību izpildei;
 2) oglekļa dioksīda piesaistei no šā likuma 4.pielikuma II daļā minētajām zemes izmantošanas, zemes izmantošanas maiņas un mežsaimniecības darbībām un šajā likumā minēto saistību izpildei attiecībā uz oglekļa dioksīda piesaisti.
+(5) Šis likums nosaka prasības jūras transporta oglekļa dioksīda emisiju monitoringam, ziņošanai un verifikācijai, ko veic saskaņā ar Regulu Nr. 2015/757.

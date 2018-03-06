@@ -1,0 +1,1 @@
+52. Šā likuma 32.¹ panta 5.¹ daļā minēto iekārtu sarakstu pēc apstiprināšanas Ministru kabinetā Vides aizsardzības un reģionālās attīstības ministrija iesniedz Eiropas Komisijai reizi piecos gados. Par 10 gadu perioda, kas sākas 2021. gada 1. janvārī, pirmo piecu gadu periodu iekārtu sarakstu iesniedz līdz 2019. gada 30. septembrim.
