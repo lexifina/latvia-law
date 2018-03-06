@@ -1,10 +1,12 @@
 22.³ pants. Informācijas par fiziskās personas konta apgrozījumu sniegšana Valsts ieņēmumu dienestam
-(1) Lai veicinātu nodokļu maksātāju labprātīgu nodokļu nomaksu, kredītiestāde un maksājumu pakalpojumu sniedzējs, kas sniedz ar maksājumu kontu saistītu pakalpojumu, līdz 1. februārim iesniedz Valsts ieņēmumu dienestam informāciju par fiziskajām personām - Latvijas Republikas rezidentiem, kuru konta debeta vai kredīta apgrozījums iepriekšējā gadā pārsniedz 15 000 euro, norādot šādas ziņas:
-1) vārdu, uzvārdu un personas kodu;
-2) bankas konta numuru;
-3) bankas konta atlikumu iepriekšējā kalendāra gada 31. decembrī;
-4) bankas konta debeta apgrozījumu iepriekšējā gadā;
-5) bankas konta kredīta apgrozījumu iepriekšējā gadā.
+(1) Lai veicinātu nodokļu maksātāju labprātīgu nodokļu nomaksu, kredītiestāde un maksājumu pakalpojumu sniedzējs līdz katra gada 1. februārim iesniedz Valsts ieņēmumu dienestam informāciju par klientiem - fiziskajām personām, kas ir Latvijas Republikas rezidenti, - kuru pieprasījuma noguldījuma kontu un maksājumu kontu (tajā skaitā slēgto pieprasījuma noguldījuma kontu un maksājumu kontu) iepriekšējā gada kopējā debeta vai kredīta apgrozījuma summa vienas kredītiestādes vai maksājumu pakalpojumu sniedzēja ietvaros ir 15 000 euro vai vairāk.
+(1¹) Kredītiestāde un maksājumu pakalpojumu sniedzējs klienta pieprasījuma noguldījuma kontu un maksājumu kontu kopējā apgrozījumā neietver summas klienta darījumiem, kas veikti starp klienta kontiem (tajā skaitā slēgtajiem kontiem) vienas kredītiestādes vai maksājumu pakalpojumu sniedzēja ietvaros. Šis nosacījums nav attiecināms uz summām tiem klienta darījumiem, kas veikti no klienta pieprasījuma noguldījuma konta vai maksājumu konta uz klienta darījuma kontu vai no klienta darījuma konta uz klienta pieprasījuma noguldījuma kontu vai maksājumu kontu.
+(1²) Kredītiestāde un maksājumu pakalpojumu sniedzējs, sniedzot informāciju atbilstoši šā panta pirmajai daļai, tajā norāda šādas ziņas:
+1) klienta vārdu, uzvārdu un personas kodu;
+2) pieprasījuma noguldījuma kontu un maksājumu kontu kopējo atlikuma summu iepriekšējā kalendāra gada pēdējās dienas beigās;
+3) pieprasījuma noguldījuma kontu un maksājumu kontu kopējo debeta apgrozījuma summu iepriekšējā gadā;
+4) pieprasījuma noguldījuma kontu un maksājumu kontu kopējo kredīta apgrozījuma summu iepriekšējā gadā.
+(1³) Informācija par pieprasījuma noguldījuma kontu un maksājumu kontu atlikumiem un to apgrozījumu sniedzama euro. Ja darījumi pieprasījuma noguldījuma kontos un maksājumu kontos veikti ārvalsts valūtā, veikto darījumu summas pārrēķina no attiecīgās ārvalsts valūtas uz euro pēc Eiropas Centrālās bankas publicētā euro atsauces kursa, kurš ir spēkā kalendāra gada pēdējās dienas sākumā.
 (2) Ministru kabinets nosaka kārtību, kādā Valsts ieņēmumu dienestam sniedzama šā panta pirmajā daļā minētā informācija.
 (3) No kredītiestādes un maksājumu pakalpojumu sniedzēja, kas sniedz ar maksājumu kontu saistītu pakalpojumu, šajā pantā noteiktajā kārtībā saņemto informāciju par fizisko personu Valsts ieņēmumu dienests glabā piecus gadus.
 (4) Valsts ieņēmumu dienests veic nepieciešamos administratīvos, tehniskos un organizatoriskos pasākumus un nodrošina šajā pantā noteiktajā kārtībā saņemtās informācijas aizsardzību, lai novērstu neatļautu piekļūšanu šai informācijai, kā arī novērstu neatļautu tās grozīšanu, izplatīšanu vai iznīcināšanu.
