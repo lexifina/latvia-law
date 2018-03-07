@@ -1,5 +1,5 @@
 1.pants. Likumā lietotie termini
-(1) Šajā likumā lietoti Rīgas brīvostas likumā, Ventspils brīvostas likumā, Latgales speciālās ekonomiskās zonas likumā, Liepājas speciālās ekonomiskās zonas likumā un Rēzeknes speciālās ekonomiskās zonas likumā, Komercdarbības atbalsta kontroles likumā, likumā "Par nodokļiem un nodevām", Pievienotās vērtības nodokļa likumā, likumā "Par uzņēmumu ienākuma nodokli", kā arī muitas lietas regulējošajos normatīvajos aktos lietotie termini, ja šajā likumā nav noteikts citādi.
+(1) Šajā likumā lietoti Rīgas brīvostas likumā, Ventspils brīvostas likumā, Latgales speciālās ekonomiskās zonas likumā, Liepājas speciālās ekonomiskās zonas likumā un Rēzeknes speciālās ekonomiskās zonas likumā, Komercdarbības atbalsta kontroles likumā, likumā "Par nodokļiem un nodevām", Pievienotās vērtības nodokļa likumā, Uzņēmumu ienākuma nodokļa likumā, kā arī muitas lietas regulējošajos normatīvajos aktos lietotie termini, ja šajā likumā nav noteikts citādi.
 (2) Likumā lietoti arī šādi termini:
 1) atļauja piemērot tiešo nodokļu atvieglojumus:
 a) Liepājas speciālās ekonomiskās zonas pārvaldes speciālās ekonomiskās zonas kapitālsabiedrībai izsniegta apliecība par tiesībām piemērot tiešo nodokļu atvieglojumus,
