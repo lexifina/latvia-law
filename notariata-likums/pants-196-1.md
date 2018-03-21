@@ -1,0 +1,1 @@
+196.¹ Ja persona iesniegusi sūdzību vai prasību tiesā, jautājums par zvērināta notāra saukšanu pie disciplināratbildības izskatāms pēc tam, kad likumīgā spēkā stājies tiesas nolēmums par attiecīgās zvērināta notāra darbības vai akta vai apliecinājuma atzīšanu par prettiesisku.

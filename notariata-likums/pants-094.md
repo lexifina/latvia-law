@@ -1,2 +1,3 @@
-94. Taisot aktus, kuros piedalās kurli, mēmi vai akli, nepieciešama vismaz divu liecinieku klātbūtne.
-90. panta noteikumus šiem aktiem nevar piemērot.
+94. Taisot aktus, kuros piedalās neredzīgas vai nedzirdīgas personas, kā arī personas ar tādiem runas traucējumiem, kuri liedz tām mutvārdos paust savu gribu, nepieciešama liecinieka klātbūtne, ja vien šīs personas no tās neatsakās. Personu atteikšanās no liecinieka klātbūtnes norādāma aktā.
+Ja aktā piedalās persona, kura ir nedzirdīga, kura runas traucējumu dēļ nespēj mutvārdos paust savu gribu un neprot vai nespēj izlasīt notariālo aktu, liecinieka klātbūtne ir obligāta un akta dalībniekam nav tiesību no tās atteikties.
+Ja šā panta pirmajā un otrajā daļā minētā persona nespēj pati parakstīties, piemērojami šā likuma 72. panta noteikumi. Viena liecinieka funkcijas šādā gadījumā var pildīt liecinieks, kurš pieaicināts šā panta pirmajā daļā paredzētajā kārtībā.

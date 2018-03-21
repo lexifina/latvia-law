@@ -1,2 +1,2 @@
-142. Par glabājuma priekšmeta saņemšanu zvērināts notārs izdod glabājuma devējam kvitējumu.
+142. Glabājuma devēja iesniegums par glabājuma nodošanu zvērinātam notāram apliecināms notariāli. Iesnieguma apliecināšana nav nepieciešama, ja glabājuma nodošanas pamatā ir notariāli apliecināts darījums. Par glabājuma priekšmeta saņemšanu zvērināts notārs izdod glabājuma devējam kvitējumu. Ja glabājuma priekšmets ir nauda, tās saņemšanu apliecina ar dokumentu par naudas ieskaitīšanu zvērināta notāra kontā.
 Par testamenta pieņemšanu glabājumā (Civillikuma 439. panta 4. punkts) taisa notariālu aktu.

@@ -1,0 +1,1 @@
+29. Līdz 2018. gada 30. jūnijam Rīgas apgabaltiesā saņemtie iesniegumi par šā likuma 80. pantā minēto atļauju došanu saņemt ziņas no Rīgas apgabaltiesas zvērinātu notāru Ogrē lietām, aktiem un apliecinājumiem tiek izskatīti atbilstoši piekritībai, kāda bija noteikta līdz 2018. gada 30. jūnijam.

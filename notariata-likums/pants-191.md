@@ -1,1 +1,1 @@
-191. Tieslietu ministrs, pirms viņš izlemj jautājumu par šā likuma 189.panta 1. un 2.punktā noteikto sodu uzlikšanu, disciplinārlietu iesniedz Latvijas Zvērinātu notāru padomei, lai tā sniegtu savu atzinumu.
+191. Tieslietu ministrs, pirms viņš izlemj jautājumu par šā likuma 189. panta pirmās daļas 1. un 2. punktā noteikto sodu uzlikšanu, disciplinārlietu iesniedz Latvijas Zvērinātu notāru padomei, lai tā sniegtu savu atzinumu.

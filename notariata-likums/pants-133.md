@@ -1,1 +1,1 @@
-133. Par pilnvarojuma atsaukšanu, ievērojot 135.-139. panta noteikumus, jāpaziņo pilnvarniekam, ja viņa dzīvesvieta ir zināma.
+133. Par pilnvarojuma atsaukšanu zvērināts notārs paziņo pilnvarniekam elektroniski uz viņa oficiālo elektronisko adresi, ja tās nav, - ierakstītā vēstulē uz deklarēto dzīvesvietu.

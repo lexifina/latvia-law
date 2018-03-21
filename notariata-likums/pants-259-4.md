@@ -1,0 +1,1 @@
+259.⁴ Ja mantojuma masas sastāvā norādīti skaidras naudas līdzekļi, kuru summa ir ekvivalenta 15 000 euro vai vairāk, mantinieku pienākums ir tos iemaksāt kredītiestādē, kas ir tiesīga sniegt finanšu pakalpojumus Latvijas Republikā.

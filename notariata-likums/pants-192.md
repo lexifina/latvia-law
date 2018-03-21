@@ -1,1 +1,2 @@
 192. Disciplinārlietas ir ierosināmas un zvērināti notāri disciplināri sodāmi ne vēlāk kā divus gadus pēc pārkāpuma izdarīšanas dienas vai Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktajā termiņā attiecībā uz noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas noteikumu pārkāpumiem.
+Šā likuma 196.¹ pantā noteiktajā gadījumā disciplināratbildības noilgums skaitāms no dienas, kad likumīgā spēkā stājies attiecīgs tiesas nolēmums.

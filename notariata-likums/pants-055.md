@@ -1,1 +1,0 @@
-55. Neaprakstītas vietas glabājumu grāmatas 3., 4. un 6. ailē pārsvītro. Kļūdas glabājumu grāmatas 1.-6. ailes ierakstos atrunā 7. ailē ar glabājuma devēja parakstu, bet kļūdas 8. ailē - ar šajā ailē minēto personu parakstu. Acīm redzamas pārrakstīšanās kļūdas zvērināts notārs atrunā ar savu parakstu.

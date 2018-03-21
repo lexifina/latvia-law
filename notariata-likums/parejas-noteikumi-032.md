@@ -1,0 +1,1 @@
+32. Grozījumi šā likuma 75. panta ceturtajā daļā (kas attiecas uz liecinieku identitātes pārbaudi), 151. panta otrā teikuma un 174. panta jaunā redakcija, grozījumi 176. pantā un 230. panta 13. punkts (kas saistīti ar Latvijas Zvērinātu notāru padomes kompetenci personālvadības jautājumu kārtošanā) stājas spēkā 2019. gada 1. janvārī.

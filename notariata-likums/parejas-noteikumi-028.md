@@ -1,0 +1,1 @@
+28. Līdz Ogres rajona tiesas darbības teritorijas ietveršanai Zemgales apgabaltiesas darbības teritorijā Rīgas apgabaltiesā saņemtās sūdzības par Rīgas apgabaltiesas zvērinātu notāru Ogrē amata darbību tiek izskatītas atbilstoši piekritībai, kāda bija noteikta līdz Ogres rajona tiesas darbības teritorijas ietveršanai Zemgales apgabaltiesas darbības teritorijā.

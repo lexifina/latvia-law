@@ -1,0 +1,1 @@
+27. Mantojuma lietas, kas līdz Ogres rajona tiesas darbības teritorijas ietveršanai Zemgales apgabaltiesas darbības teritorijā uzsāktas pie Rīgas apgabaltiesas zvērinātiem notāriem Ogrē, tiek pabeigtas vai izbeigtas atbilstoši piekritībai, kāda bija noteikta līdz Ogres rajona tiesas darbības teritorijas ietveršanai Zemgales apgabaltiesas darbības teritorijā.

@@ -1,1 +1,1 @@
-143. Glabājumā saņemto naudu zvērināts notārs iemaksā kredītiestādē, kas ir tiesīga sniegt finanšu pakalpojumus Latvijas Republikā.
+143. Glabājumā saņemto naudu nodod turējumā kredītiestādei, kas ir tiesīga sniegt finanšu pakalpojumus Latvijas Republikā.

@@ -1,2 +1,3 @@
-53. Aktu grāmata iesienama un noslēdzama šā likuma 47.pantā noteiktajā kārtībā. Slēguma uzrakstā norādāms arī aktu un šā likuma 128.pantā minēto dokumentu skaits.
-Aktu grāmata var sastāvēt no vairākiem sējumiem.
+53. Papīra formā taisīto notariālo aktu grāmatu zvērināts notārs caurauklo un nogādā Latvijas Zvērinātu notāru padomei. Aktu grāmata var sastāvēt no vairākiem sējumiem.
+Latvijas Zvērinātu notāru padome pārbauda notariālo aktu grāmatas atbilstību noteiktajai formai un lapu numerāciju un pēdējā lappusē nostiprina auklu galus ar papīra uzlīmi, taisa slēguma uzrakstu, kurā norāda attiecīgās notariālo aktu grāmatas atbilstību noteiktajai formai, lapu skaitu un slēguma datumu. Slēguma uzrakstā norādāms arī aktu un šā likuma 128. pantā minēto dokumentu skaits.
+Ja, pārbaudot notariālo aktu grāmatas atbilstību, konstatētas nepilnības, to atdod atpakaļ zvērinātam notāram nepilnību novēršanai.
