@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada ziemas sesija",
+ "sede": 19,
+ "datums": "2018-03-22",
+ "ieraksts": {
+  "dkp_id": "1a3add2d-1667-420b-8380-361b6f0e2dff",
+  "lastmodtime": "\"AAAAAAGLq0I=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Jānis#Einārs#Mihails#Vladimirs#Andris#Artis#Astrīda#Askolds#Inese#Ainars#Guntis#Jānis#Artuss#Andris#Armands#Lolita#Veiko#Hosams#Jānis#Igors#Jānis#Valdis#Boriss#Andris#Juris#Ringolds#Inguna#Ilmārs#Augusts#Jūlija#Anrijs#Ojārs Ēriks#Valters#Zenta#Inese#Laimdota#Aldis#Andrejs#Inguna#Gaidis#Jānis#Andrejs#Juris#Ivans#Aleksejs#Ināra#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Rihards#Kārlis#Gundars#Jānis#Sergejs#Aleksandrs#Aija#Jeļena#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Harju#Kļaviņš#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Siliņš#Krauze#Čigāne#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Kalnozols#Cilevičs#Buiķis#Vectirāns#Balodis#Rībena#Latkovskis#Brigmanis#Stepaņenko#Matīss#Kalniņš#Dambe#Tretjaka#Aizstrauta#Straujuma#Adamovičs#Klementjevs#Sudraba#Bērziņš#Dombrava#Judins#Šulcs#Klementjevs#Loskutovs#Mūrniece#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Melgailis#Seržants#Daudze#Tutins#Potapkins#Kiršteins#Barča#Lazareva#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK# #LRA#SASKAŅA #ZZS#VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#ZZS#SASKAŅA #VL-TB/LNNK#ZZS# #VL-TB/LNNK# #ZZS#SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Nebalsoja#Nebalsoja#Atturas#Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Atturas#Nebalsoja#Par#Nebalsoja#Pret#Pret#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Par#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Atturas#Par#Pret#Pret#Par#Par#Atturas#Pret#Par#Par#Pret#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.03.2018 13:38:18",
+  "VOTEMOTIVE": "Par Ekonomikas ministrijas īstenoto  subsidētās elektroenerģijas elektrostaciju  pārbaudi, tās objektivitāti un atbilstību sabiedrības interesēm (32/P12)",
+  "VOTING_ID": "f2ccbf34-3e1f-4f4b-b5de-35f36773c0ca",
+  "VOTERESULT_ABSTAIN": "4",
+  "VOTERESULT_AGAINST": "39",
+  "VOTERESULT_FOR": "22",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "12",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada ziemas sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a622e0d7-7d89-4b37-9b0e-d621566bcbff/download/12.saeimas-2018.gada-ziemas-sesija-19-vote.xml",
+  "sha256": "7025d274b7a25a24fbc9ccb12f28a3910a09d4e5a84edb14d28789b5d16d9e36",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
