@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2018. gada 23. janvāra Ministru kabineta noteikumi Nr. 45\n “Grozījumi Ministru kabineta 2000.gada 26.septembra noteikumos Nr.332 “Noteikumi par benzīna un dīzeļdegvielas atbilstības novērtēšanu””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "18 (6104)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-25",
+  "entry_into_force": "2018-04-01",
+  "notification_date": "2018-03-01",
+  "commission_reference": "MNE(2018)51177",
+  "nim_celex": "72015L1513LVA_256377",
+  "nim_id": "256377",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/495b39c8-ff09-4b55-8b00-f3b91fe9075a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
