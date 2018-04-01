@@ -1,6 +1,6 @@
 2.pants. Likuma mērķis ir:
 1) sniegt ieguldījumu Latvijas finanšu stabilitātes veicināšanā, nodrošinot:
-a) reģistra dalībniekam papildu iespējas novērtēt sava klienta, iespējamā klienta, klienta galvinieka, iespējamā klienta galvinieka, iespējamā akreditīva (kredītvēstules) pakalpojuma saņēmēja un iespējamā galvojuma (garantijas) pakalpojuma saņēmēja kredītspēju,
+a) reģistra dalībniekam un Valsts kasei papildu iespējas novērtēt sava klienta, iespējamā klienta, klienta galvinieka un iespējamā klienta galvinieka kredītspēju,
 b) ierobežotam reģistra dalībniekam papildu iespējas novērtēt sava klienta un klienta galvinieka kredītspēju,
 c) Finanšu un kapitāla tirgus komisijai papildu iespējas saņemt finanšu tirgus dalībnieku uzraudzībai nepieciešamās ziņas,
 d) Latvijas Bankai papildu iespējas saņemt finanšu statistikai nepieciešamās ziņas,

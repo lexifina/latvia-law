@@ -1,0 +1,1 @@
+9. Piemērojot grozījumu šā likuma 33. pantā (attiecībā uz ziņu glabāšanas termiņa saīsināšanu līdz 10 gadiem), Latvijas Banka līdz 2018. gada 30. aprīlim dzēš reģistrā iekļautās ziņas, kurām 10 gadu glabāšanas termiņš beidzas 2018. gada 1. aprīlī.

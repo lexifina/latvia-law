@@ -1,0 +1,1 @@
+42. pants. Šā likuma 20. pantā minētajiem subjektiem ir tiesības normatīvajos aktos noteikto uzdevumu īstenošanai šā likuma 21. pantā noteiktajā kārtībā saņemt reģistrā iekļautās ziņas par Valsts kasi, ja tā iekļāvusi reģistrā ziņas par klientu un klienta galvinieku, un attiecīgā klienta un klienta galvinieka saistību sākuma un beigu datumu.
