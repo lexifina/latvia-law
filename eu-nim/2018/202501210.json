@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2018. gada 18. janvāra noteikumi Nr. 160 \"Kredītu reģistra noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2018-01-24",
+  "entry_into_force": "2018-04-01",
+  "notification_date": "2025-02-26",
+  "commission_reference": "MNE(2025)01210",
+  "nim_celex": "72021L2167LVA_202501210",
+  "nim_id": "202501210",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64a8f224-a144-494e-9901-35a599d98114",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
