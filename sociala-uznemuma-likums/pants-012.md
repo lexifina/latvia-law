@@ -1,0 +1,3 @@
+12. pants. Sociālā uzņēmuma statusa zaudēšanas sekas
+(1) Ja sociālā uzņēmuma statuss tiek atņemts, sociālais uzņēmums 30 dienu laikā pēc statusa atņemšanas veic uzņēmumu ienākuma nodokļa un iedzīvotāju ienākuma nodokļa pārrēķinu un samaksā nodokļus vispārējā kārtībā par tiem pārskata gadiem, kuros attiecīgais sociālais uzņēmums ir pieļāvis šā likuma 11. panta trešajā daļā norādītās neatbilstības noteiktajiem kritērijiem vai pārkāpumus savā darbībā, tai skaitā nokavējuma naudu saskaņā ar likuma "Par nodokļiem un nodevām" noteikumiem.
+(2) Par taksācijas periodu, kurā sabiedrība ar ierobežotu atbildību zaudējusi sociālā uzņēmuma statusu, nekustamā īpašuma nodokli aprēķina vispārējā kārtībā, nepiemērojot nodokļa atvieglojumu.

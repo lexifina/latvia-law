@@ -1,0 +1,1 @@
+2. Šajā likumā noteikto pretendentu atbilstības un sociālo uzņēmumu darbības izvērtēšanu, sociālā uzņēmuma statusa piešķiršanu un reģistra darbības nodrošināšanu līdz 2022. gada 31. decembrim Labklājības ministrija īsteno Eiropas Savienības politiku instrumentu ietvaros.
