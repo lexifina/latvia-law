@@ -11,7 +11,7 @@ Likumā ir lietoti šādi termini:
 8) kredītpunkts - studiju uzskaites vienība, kas atbilst studējošā 40 akadēmisko stundu darba apjomam (vienai studiju nedēļai);
 9) nepilna laika studijas - studiju veids, kuram atbilst mazāk nekā 40 kredītpunkti akadēmiskajā gadā un mazāk nekā 40 akadēmiskās stundas nedēļā;
 10) pilna laika studijas - studiju veids, kuram atbilst 40 kredītpunkti akadēmiskajā gadā un ne mazāk kā 40 akadēmiskās stundas nedēļā;
-11) promocija - doktora grāda piešķiršana;
+11) promocija - zinātniskā doktora grāda piešķiršana;
 11¹) studiju kurss - noteiktā līmenī un apjomā organizēts studiju programmai atbilstošu zināšanu, prasmju un kompetences sistēmas izklāsts, kam ir definēti studiju rezultāti, par kuru sasniegšanu tiek piešķirti kredītpunkti;
 12) studiju programmas licencēšana - tiesību piešķiršana augstskolai, koledžai vai to filiālēm īstenot noteiktu studiju programmu;
 13) studiju modulis - studiju programmas sastāvdaļa, ko izveido, apvienojot studiju kursus vai to daļas, kuriem ir kopīgs mērķis un sasniedzami studiju rezultāti;

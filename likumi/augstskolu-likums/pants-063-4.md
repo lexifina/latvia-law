@@ -1,0 +1,3 @@
+63.⁴ pants. Profesionālā doktora grāda mākslās piešķiršana
+(1) Profesionālo doktora grādu mākslās pēc akreditētas profesionālās doktora studiju programmas mākslās apguves un doktora teorētiskā pētījuma, mākslinieciskās jaunrades darba izstrādāšanas un aizstāvēšanas piešķir valsts pārbaudījumu komisija. Valsts pārbaudījumu komisijas izveides kārtību un sastāvu apstiprina augstskolas senāts.
+(2) Profesionālās doktora studiju programmas mākslās galvenos mērķus un uzdevumus, studiju programmas pamatsaturu, iegūtās izglītības vērtēšanas pamatprincipus, kā arī profesionālā doktora grāda mākslās piešķiršanas kārtību nosaka Ministru kabinets.

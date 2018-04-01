@@ -8,7 +8,8 @@
 1) novērtēšanas komisijas ekspertu motivēts kopējais ziņojums vai eksperta individuālais ziņojums (ja ekspertīzi veic viens eksperts) ir negatīvs;
 2) studiju virzienam atbilstošā augstskolas vai koledžas studiju programma vai studiju programmas neatbilst šā likuma un citu normatīvo aktu prasībām;
 3) studiju, informatīvā bāze (tai skaitā bibliotēka), materiāltehniskā, finansiālā bāze un akadēmiskā personāla kvalifikācija neatbilst attiecīgajam studiju virzienam atbilstošas studiju programmas vai studiju programmu īstenošanas nosacījumiem;
-4) studiju programmas maģistra vai doktora grāda iegūšanai nav balstītas uz attiecīgās zinātņu nozares sasniegumiem un atziņām;
+4) studiju programmas akadēmiskā maģistra vai zinātniskā doktora grāda iegūšanai nav balstītas uz attiecīgās zinātņu nozares sasniegumiem un atziņām;
+4¹) studiju programmas profesionālā maģistra vai profesionālā doktora grāda mākslās iegūšanai zināšanu, prasmju un kompetenču līmenis neatbilst prasībām, kuras noteiktas Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstošo zināšanu, prasmju un kompetenču aprakstos;
 5) augstskola vai koledža nav novērsusi studiju virziena iepriekšējās akreditācijas laikā konstatētos trūkumus atbilstoši šā panta trešās daļas prasībām.
 (6) Ja tiek pieņemts lēmums par studiju virziena akreditāciju augstskolā vai koledžā, tai tiek izsniegta izglītības un zinātnes ministra parakstīta studiju virziena akreditācijas lapa.
 (7) Ja augstskola vai koledža nenodrošina studiju virziena akreditācijas procesā norādīto studiju, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko vai finansiālo bāzi vai akadēmiskā personāla kvalifikāciju, izglītības un zinātnes ministrs pēc Augstākās izglītības padomes vai studiju akreditācijas komisijas priekšlikuma ir tiesīgs lemt par attiecīgā studiju virziena ārpuskārtas akreditācijas noteikšanu.

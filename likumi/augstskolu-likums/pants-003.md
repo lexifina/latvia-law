@@ -1,5 +1,5 @@
 3.pants. Augstskolas
-(1) Augstskolas ir augstākās izglītības un zinātnes institūcijas, kas īsteno akadēmiskas un profesionālas studiju programmas, kā arī nodarbojas ar zinātni, pētniecību un māksliniecisko jaunradi. Augstskolās vismaz četrdesmit procentiem no akadēmiskajos amatos ievēlētajām personām jābūt doktora zinātniskajam grādam. Akadēmijās vismaz piecdesmit procentiem no akadēmiskajos amatos ievēlētajām personām jābūt doktora zinātniskajam grādam. Ministru kabinets nosaka citu kārtību akadēmiskā personāla kvalifikācijai, ja to prasa augstskolas specifiskās darbības jomas - māksla, arhitektūra, teoloģija, drošība, jūrniecība vai valsts aizsardzība. Augstskolu īstenotās studiju programmas iedalāmas šādās tematiskajās grupās:
+(1) Augstskolas ir augstākās izglītības un zinātnes institūcijas, kas īsteno akadēmiskas un profesionālas studiju programmas, kā arī nodarbojas ar zinātni, pētniecību un māksliniecisko jaunradi. Augstskolās vismaz četrdesmit procentiem no akadēmiskajos amatos ievēlētajām personām jābūt doktora grādam. Akadēmijās vismaz piecdesmit procentiem no akadēmiskajos amatos ievēlētajām personām jābūt doktora grādam. Ministru kabinets nosaka citu kārtību akadēmiskā personāla kvalifikācijai, ja to prasa augstskolas specifiskās darbības jomas - māksla, arhitektūra, teoloģija, drošība, jūrniecība vai valsts aizsardzība. Augstskolu īstenotās studiju programmas iedalāmas šādās tematiskajās grupās:
 1) izglītība;
 2) humanitārās zinātnes un māksla;
 3) sociālās zinātnes, komerczinības un tiesības;
@@ -8,7 +8,7 @@
 6) lauksaimniecība;
 7) veselības aprūpe un sociālā labklājība;
 8) pakalpojumi.
-(2) Pēc akadēmiskās studiju programmas apgūšanas tiek piešķirts akadēmiskais grāds, pēc doktorantūras studiju programmas apgūšanas - doktora zinātniskais grāds. Pēc profesionālās studiju programmas apgūšanas tiek iegūta profesionālā kvalifikācija un attiecīga līmeņa profesionālais grāds.
+(2) Pēc akadēmiskās studiju programmas apguves tiek piešķirts akadēmiskais grāds, pēc akadēmiskās doktora studiju programmas apguves - zinātniskais doktora grāds. Pēc profesionālās studiju programmas apguves tiek iegūta profesionālā kvalifikācija vai profesionālā kvalifikācija un attiecīga līmeņa profesionālais grāds. Pēc profesionālās doktora studiju programmas mākslās apguves tiek piešķirts profesionālais doktora grāds mākslās.
 (3) Universitāte ir augstskola, kas atbilst šādiem kritērijiem:
 1) īsteno bakalaura, maģistra un doktora studiju programmas. Doktora studiju programmās promocijas darbu aizstāvēšana notiek katru gadu;
 2) vismaz 65 procentiem no akadēmiskajos amatos ievēlētajām personām ir doktora zinātniskais grāds;
