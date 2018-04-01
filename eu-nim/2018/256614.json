@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2004. gada 30. marta noteikumos Nr. 218 \"Augu karantīnas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "49 (6135)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-03-08",
+  "entry_into_force": "2018-04-01",
+  "notification_date": "2018-03-08",
+  "commission_reference": "MNE(2018)51282",
+  "nim_celex": "72017L1920LVA_256614",
+  "nim_id": "256614",
+  "transposes_celex": [
+    "32017L1920"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9bd1acd-58b2-4dd7-8bf0-6a88a02a3bd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
