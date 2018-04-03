@@ -1,0 +1,1 @@
+1. pants. 2017. gada 23. novembrī parakstītais Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības nolīgums par sadarbību katastrofu novēršanas, gatavības un reaģēšanas jomā (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
