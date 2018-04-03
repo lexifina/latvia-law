@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdības un Čehijas Republikas valdības vienošanās par grozījumiem Latvijas Republikas valdības un Čehijas Republikas valdības līgumā par ieguldījumu veicināšanu un savstarpēju aizsardzību un līguma denonsēšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
