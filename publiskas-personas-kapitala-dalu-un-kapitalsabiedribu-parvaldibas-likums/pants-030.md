@@ -1,4 +1,4 @@
 30.pants. Ikgadējais publiskais pārskats
-(1) Koordinācijas institūcija līdz kārtējā gada 30.augustam sagatavo un iesniedz Ministru kabinetam un Saeimai ikgadējo publisko pārskatu par valstij piederošajām kapitālsabiedrībām un kapitāla daļām iepriekšējā gadā.
+(1) Koordinācijas institūcija līdz kārtējā gada 1. oktobrim sagatavo un iesniedz Ministru kabinetam un Saeimai ikgadējo publisko pārskatu par valstij piederošajām kapitālsabiedrībām un kapitāla daļām iepriekšējā gadā.
 (2) Šā panta pirmajā daļā minētajā pārskatā ietver informāciju par valsts līdzdalību kapitālsabiedrībās, valsts ieguldītajiem resursiem un to atdevi, kapitālsabiedrību sniegtajiem pakalpojumiem, par nozarēm, kurās darbojas kapitālsabiedrības ar valsts līdzdalību, kā arī citu informāciju, kas nepieciešama, lai sniegtu priekšstatu par valsts kapitālsabiedrībām un kapitāla daļām.
 (3) Valsts kapitāla daļu turētājs atbilstoši koordinācijas institūcijas noteiktajai kārtībai sniedz tai šā panta pirmajā daļā minētā pārskata sagatavošanai nepieciešamo informāciju.

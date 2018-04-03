@@ -13,5 +13,5 @@
 5) kapitālsabiedrības vispārējie stratēģiskie mērķi;
 6) nefinanšu mērķi (ja attiecināms);
 7) kapitālsabiedrības finanšu mērķi, kā arī tās darbības efektivitāti raksturojošie rezultatīvie rādītāji;
-8) peļņas vai zaudējumu aprēķins, bilance un naudas plūsmas plāns;
+8) prognoze peļņas vai zaudējumu aprēķinam, bilancei un naudas plūsmas plānam;
 9) risku analīze.

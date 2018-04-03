@@ -1,7 +1,7 @@
 107.pants. Padomes uzdevumi
 (1) Padome ir sabiedrības pārraudzības institūcija, kas pārstāv akcionāru intereses sapulču starplaikā un pārrauga valdes darbību.
 (2) Padomes uzdevumi ir šādi:
-1) ievēlēt un atsaukt valdes locekļus;
+1) ievēlēt un atsaukt valdes priekšsēdētāju un valdes locekļus;
 2) noteikt valdes locekļu atlīdzību;
 3) apstiprināt vidēja termiņa darbības stratēģiju;
 4) pastāvīgi uzraudzīt, lai sabiedrības lietas tiktu kārtotas saskaņā ar normatīvo tiesību aktu, sabiedrības statūtu, akcionāru sapulces lēmumu prasībām;

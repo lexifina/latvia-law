@@ -1,5 +1,5 @@
 4.pants. Publiskas personas līdzdalības nosacījumi
-(1) Publiska persona drīkst iegūt līdzdalību kapitālsabiedrībā Valsts pārvaldes iekārtas likuma 88.panta pirmajā daļā minētajos gadījumos.
+(1) Publiska persona drīkst iegūt un saglabāt līdzdalību kapitālsabiedrībā atbilstoši Valsts pārvaldes iekārtas likuma 88. pantam.
 (2) Publiskas personas kapitālsabiedrībai un publiski privātajai kapitālsabiedrībai var būt līdzdalība citā kapitālsabiedrībā, ja ir spēkā viens no šādiem nosacījumiem:
 1) kapitālsabiedrības darbība atbilst publiskas personas līdzdalības nosacījumiem, kas paredzēti Valsts pārvaldes iekārtas likuma 88.panta pirmajā daļā;
 2) līdzdalība tieši nodrošina publiskas personas kapitālsabiedrības vai publiski privātās kapitālsabiedrības vispārējo stratēģisko mērķu un vidēja termiņa darbības stratēģijā noteikto mērķu sasniegšanu.
