@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdības un Polijas Republikas valdības vienošanās par grozījumiem Līgumā starp Latvijas Republikas valdību un Polijas Republikas valdību par ieguldījumu savstarpēju veicināšanu un aizsardzību un līguma denonsēšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

@@ -1,0 +1,23 @@
+Polijas Republikas notas neoficiālais tulkojums
+DPT.2701.38.2017/1
+Polijas Republikas Ārlietu ministrija apliecina savu cieņu Latvijas Republikas vēstniecībai Varšavā un tai ir tas gods piedāvāt noslēgt šādu Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu (turpmāk - Vienošanās):
+1. Polijas Republikas valdības un Latvijas Republikas valdības līgums par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, tiek denonsēts.
+2. Vienošanās puses piekrīt, ka attiecībā uz investīcijām, kas veiktas pirms 1.daļā minētā līguma denonsēšanas datuma, neviens no līguma nosacījumiem, tai skaitā 13. panta 2. punkts, nav spēkā.
+Polijas Republikas Ārlietu ministrija, ja Latvijas Republikas valdība piekrīt šim priekšlikumam, piedāvā, ka šī nota kopā ar atbildes notu veidos Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu. Šī vienošanās stājas spēkā trīs mēnešus pēc pēdējās notas saņemšanas datuma, kas apstiprina, ka izpildītas iekšējo tiesību aktu prasības, kas nepieciešamas, lai šī vienošanās stātos spēkā.
+Polijas Republikas Ārlietu ministrija izmanto šo izdevību vēlreiz apliecināt Latvijas Republikas vēstniecībai visaugstāko cieņu.
+Varšava, 2017. gada 17. oktobris
+Latvijas Republikas vēstniecība
+Varšavā
+Latvijas Republikas atbildes notas neoficiālais tulkojums
+Nr.41-34204
+Latvijas Republikas Ārlietu ministrija apliecina savu cieņu Polijas Republikas Ārlietu ministrijai un tai ir tas gods apstiprināt 2017. gada 17. oktobra notas Nr. DPT.2701.38.2017/1 par Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu (turpmāk - Vienošanās), saņemšanu, kas lasāma šādi:
+"Polijas Republikas Ārlietu ministrija apliecina savu cieņu Latvijas Republikas vēstniecībai Varšavā un tai ir tas gods piedāvāt noslēgt šādu Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu (turpmāk - Vienošanās):
+1. Polijas Republikas valdības un Latvijas Republikas valdības līgums par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, tiek denonsēts.
+2. Vienošanās puses piekrīt, ka attiecībā uz investīcijām, kas veiktas pirms 1.daļā minētā līguma denonsēšanas datuma, neviens no līguma nosacījumiem, tai skaitā 13. panta 2. punkts, nav spēkā.
+Polijas Republikas Ārlietu ministrija, ja Latvijas Republikas valdība piekrīt šim priekšlikumam, piedāvā, ka šī nota kopā ar atbildes notu veidos Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu. Šī vienošanās stājas spēkā trīs mēnešus pēc pēdējās notas saņemšanas datuma, kas apstiprina, ka izpildītas iekšējo tiesību aktu prasības, kas nepieciešamas, lai šī vienošanās stātos spēkā.
+Polijas Republikas Ārlietu ministrija izmanto šo izdevību vēlreiz apliecināt Latvijas Republikas vēstniecībai visaugstāko cieņu."
+Latvijas Republikas Ārlietu ministrijai ir tas gods apstiprināt, ka Latvijas Republikas valdība piekrīt Polijas Republikas priekšlikumam, un ka 2017. gada 17. oktobra nota Nr. DPT.2701.38.2017/1 un šī atbildes nota veido Polijas Republikas valdības un Latvijas Republikas valdības vienošanos par Polijas Republikas valdības un Latvijas Republikas valdības līguma par ieguldījumu savstarpēju veicināšanu un aizsardzību, kas parakstīts Varšavā 1993. gada 26. aprīlī, grozīšanu un denonsēšanu, kas stājas spēkā trīs mēnešus pēc pēdējās notas saņemšanas datuma, kas apstiprina, ka izpildītas iekšējo tiesību aktu prasības, kas nepieciešamas, lai šī vienošanās stātos spēkā.
+Latvijas Republikas Ārlietu ministrija izmanto šo izdevību vēlreiz apliecināt Polijas Republikas Ārlietu ministrijai visaugstāko cieņu.
+Rīga, 2017. gada 28. decembris
+Polijas Republikas Ārlietu ministrijai
+Varšava
