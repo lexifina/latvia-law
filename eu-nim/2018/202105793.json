@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 20. marta noteikumi Nr. 169 \"Būvspeciālistu kompetences novērtēšanas un patstāvīgās prakses uzraudzības noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-05",
+  "entry_into_force": "2018-04-06",
+  "notification_date": "2021-08-03",
+  "commission_reference": "MNE(2021)05793",
+  "nim_celex": "72018L2001LVA_202105793",
+  "nim_id": "202105793",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7f935f8d-f685-11eb-9037-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
