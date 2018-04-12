@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada pavasara sesija",
+ "sede": 1,
+ "datums": "2018-04-12",
+ "ieraksts": {
+  "dkp_id": "f0bb31bc-ce1a-47b7-8ef5-46a8e704486b",
+  "lastmodtime": "\"AAAAAAGMa5o=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Andris#Dzintars#Romans#Varis#Ivans#Jānis#Einārs#Mihails#Vladimirs#Andris#Artis#Askolds#Ainars#Guntis#Jānis#Raimonds#Andris#Inese#Lolita#Valdis#Veiko#Jānis#Igors#Jānis#Ints#Valdis#Andris#Juris#Ringolds#Inguna#Artis#Rihards#Renārs#Ilmārs#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Inese#Laimdota#Juris#Andrejs#Inguna#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Ainārs#Aleksandrs#Gunārs#Ritvars#Kārlis#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Ivars#Aleksandrs#Aija#Jeļena#Mārtiņš#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Morozovs#Zaķis#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Rubiks#Siliņš#Lībiņa-Egnere#Čigāne#Skujiņš#Spolītis#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Buiķis#Vectirāns#Balodis#Rībena#Gustovskis#Kols#Putniņš#Latkovskis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Aizstrauta#Straujuma#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Mežulis#Jakimovs#Kūtris#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Brīvers#Kiršteins#Barča#Lazareva#Šics#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA# #LRA#SASKAŅA #ZZS#VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#ZZS#ZZS#VIENOTĪBA#ZZS#LRA#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#ZZS#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#VL-TB/LNNK#ZZS# #VL-TB/LNNK#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA# #SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK# # #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#ZZS#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #LRA#VL-TB/LNNK#ZZS#SASKAŅA #LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Nebalsoja#Atturas#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Nebalsoja#Par#Par#Pret#Atturas#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Nebalsoja#Par#Par#Pret#Nebalsoja#Par#Par#Pret#Pret#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.04.2018 09:11:16",
+  "VOTEMOTIVE": "Par lēmuma projekta Par uzdevumu Ministru kabinetam novērst obligātās iepirkumu komponentes (OIK) negatīvo ietekmi uz Latvijas elektroenerģijas galalietotājiem (708/Lm12) iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "0d11e032-bf32-49cb-b11b-02cac9825134",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "39",
+  "VOTERESULT_FOR": "33",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada pavasara sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1c157850-5986-4b9f-9e41-280ddb6a880c/download/12.saeimas-2018.gada-pavasara-sesija-1-vote.xml",
+  "sha256": "2aa081dda2103dfb52f2f094b919f60b51f214475afa752ad959818988bc7296",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
