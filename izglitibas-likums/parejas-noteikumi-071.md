@@ -1,0 +1,1 @@
+71. Izglītības iestādes nodrošina vidējās izglītības pakāpes izglītības programmu atbilstību šā likuma 9. panta pirmās un 1.¹ daļas, otrās daļas 2. punkta un 41. panta pirmās daļas prasībām un iesniegšanu licencēšanai līdz 2020. gada 30. aprīlim.

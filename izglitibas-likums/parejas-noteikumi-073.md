@@ -1,0 +1,1 @@
+73. Šā likuma 52. panta pirmās daļas 7. punkts stājas spēkā 2019. gada 1. septembrī, un šajā punktā minēto pabalstu pedagogam var izmaksāt arī pirms 2019. gada 1. septembra šim mērķim pieejamo finanšu līdzekļu ietvaros.

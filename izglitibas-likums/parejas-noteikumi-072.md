@@ -1,0 +1,1 @@
+72. Ne vēlāk kā triju gadu laikā pēc attiecīgās izglītības reformas īstenošanas Izglītības un zinātnes ministrija nodrošina pamatotu, neatkarīgu, uz zinātniskiem pētījumiem balstītu reformas izvērtēšanu, lai noteiktu tās ietekmi uz izglītības sasniegumu kvalitāti.

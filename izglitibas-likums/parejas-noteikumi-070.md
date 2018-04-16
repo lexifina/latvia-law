@@ -1,0 +1,1 @@
+70. Izglītības iestādes nodrošina pirmsskolas izglītības un pamatizglītības pakāpes izglītības programmu atbilstību šā likuma 9. panta pirmās un 1.¹ daļas, otrās daļas 2. punkta un 41. panta 1.¹ un 1.² daļas prasībām un iesniegšanu licencēšanai līdz 2019. gada 30. aprīlim.
