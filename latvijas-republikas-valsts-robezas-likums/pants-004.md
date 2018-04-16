@@ -1,4 +1,4 @@
 4.pants. Valsts sauszemes robežas ierīkošana
 (1) Valsts sauszemes robežas ierīkošana ietver tās uzmērīšanu, iezīmēšanu dabā un nostiprināšanu šajā likumā noteiktajā kārtībā.
 (2) Valsts sauszemes robežas uzmērīšana ietver valsts robežlīnijas un valsts robežzīmju ģeodēzisko koordinātu noteikšanu un robežas demarkācijas karšu sastādīšanu. Valsts sauszemes robežas uzmērīšanu veic saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem par valsts robežas noteikšanu.
-(3) Valsts sauszemes robežu iezīmē dabā un nostiprina ar robežzīmēm un citām nostiprinājuma būvēm vai elementiem (piemēram, robežgrāvjiem, stigām, žogiem) saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem par valsts robežas noteikšanu.
+(3) Valsts sauszemes robežu iezīmē dabā un nostiprina ar robežzīmēm un citām nostiprinājuma būvēm vai elementiem (piemēram, robežgrāvjiem, stigām, žogiem) saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem par valsts robežas noteikšanu. Robežzīmju, nostiprinājuma būvju vai elementu bojāšana, iznīcināšana, pārveidošana vai pārvietošana ir aizliegta.

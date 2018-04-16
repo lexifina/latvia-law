@@ -20,3 +20,4 @@
 8) citas personas gadījumos, kas paredzēti starptautiskajos līgumos.
 (11) Izņēmuma gadījumos, ja tas atbilst starptautisko tiesību normām, Latvijas valsts interesēm vai ir saistīts ar nepārvaramu varu vai humāniem apsvērumiem, ārpus kārtas šķērsot ārējo robežu robežšķērsošanas vietās drīkst citas šā panta desmitajā daļā neminētās personas, ja ir saņemta Valsts robežsardzes priekšnieka vai viņa pilnvarotās amatpersonas atļauja.
 (12) Robežšķērsošanas vietas nosaka Ministru kabinets.
+(13) Valsts robežsardze informāciju par ārējo robežu šķērsojošajām personām un to ceļošanas dokumentiem, kā arī transportlīdzekļiem, kurus personas vada, šķērsojot Latvijas Republikas ārējo robežu, un šo transportlīdzekļu dokumentiem reģistrē valsts informācijas sistēmā. Minētajā sistēmā iekļaujamās informācijas apjomu, tās izmantošanas kārtību un glabāšanas termiņus nosaka Ministru kabinets.
