@@ -1,1 +1,1 @@
-157.pants. Izpildei iesniegtam izpildu dokumentam ir jābūt oriģinālam. Ja izpildei tiek iesniegts lēmuma noraksts, tam jābūt apstiprinātam ar tiesas, tiesneša vai tās institūcijas amatpersonas parakstu (atšifrējums) un zīmogu, kura izsniegusi izpildu dokumentu.
+157.pants. Izpildei iesniegtam izpildu dokumentam ir jābūt oriģinālam. Ja izpildei tiek iesniegts lēmuma atvasinājums, tam jābūt apstiprinātam ar tiesas, tiesneša vai tās institūcijas amatpersonas parakstu (atšifrējums) un zīmogu, kura izsniegusi izpildu dokumentu.

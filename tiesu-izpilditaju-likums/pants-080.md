@@ -1,1 +1,2 @@
-80.pants. Zvērinātu tiesu izpildītāju amata atlīdzības takses pēc Tieslietu ministrijas priekšlikuma, kas saskaņots ar Latvijas Zvērinātu tiesu izpildītāju padomi, nosaka Ministru kabinets.
+80.pants. (1) Zvērinātu tiesu izpildītāju amata atlīdzības takses pēc Tieslietu ministrijas priekšlikuma, kas saskaņots ar Latvijas Zvērinātu tiesu izpildītāju padomi, nosaka Ministru kabinets.
+(2) Zvērinātu tiesu izpildītāju amata atlīdzības takses apmēru nosaka atbilstoši ieguldītā darba apjomam un samērīgi ar piedzenamā parāda apmēru, kā arī ņemot vērā zvērināta tiesu izpildītāja amatam normatīvajos aktos noteikto atbildību, neatkarības prasības un no amata izrietošos ierobežojumus.

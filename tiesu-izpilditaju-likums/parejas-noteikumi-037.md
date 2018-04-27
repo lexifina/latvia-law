@@ -1,0 +1,1 @@
+37. Grozījums šā likuma 77.² panta trešajā daļā, kas paredz paziņojumu par mantojuma apsardzības darbību veikšanas datumu un laiku nosūtīt uz personas oficiālo elektronisko adresi, ja personai ir aktivizēts oficiālās elektroniskās adreses konts, stājas spēkā 2020. gada 1. janvārī.

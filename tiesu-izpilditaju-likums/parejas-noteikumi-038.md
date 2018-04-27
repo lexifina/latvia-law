@@ -1,0 +1,1 @@
+38. Grozījumi šā likuma 32. panta pirmajā daļā, 87. pantā, 88. panta pirmajā daļā, kas paredz zvērinātu tiesu izpildītāju atvaļinājumu saskaņošanu nodot Latvijas Zvērinātu tiesu izpildītāju padomei, 127. panta papildinājums ar 13. punktu un grozījumi 145. panta otrajā daļā par rīcību ar depozīta kontā esošajām depozīta summām stājas spēkā 2019. gada 1. janvārī.

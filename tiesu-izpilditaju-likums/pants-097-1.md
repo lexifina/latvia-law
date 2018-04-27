@@ -1,0 +1,1 @@
+97.¹ pants. Zvērināta tiesu izpildītāja palīga kandidāta statusu persona zaudē, pārtraucot darba tiesiskās attiecības ar zvērinātu tiesu izpildītāju, pēc kura priekšlikuma tā apstiprināta zvērināta tiesu izpildītāja palīga kandidāta amatā, vai iestājoties kādam no šā likuma 13. panta 2., 3., 4., 5., 6., 7., 8. un 9. punktā paredzētajiem gadījumiem.

@@ -1,0 +1,1 @@
+39. Grozījumi šā likuma 158. pantā un 160. panta pirmajā daļā, kas paredz Izpildu lietu reģistrā reģistrēt visus izpildei pakļautos izpildu dokumentus un uzkrāt visu informāciju par zvērināta tiesu izpildītāja veiktajām darbībām un lietās esošajiem dokumentiem, stājas spēkā 2019. gada 1. janvārī.

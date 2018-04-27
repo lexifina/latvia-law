@@ -1,1 +1,1 @@
-161.pants. Izpildu dokumenti nosūtāmi ierakstītā pasta sūtījumā.
+161.pants. Papīra formā izpildu dokumenti nosūtāmi ierakstītā pasta sūtījumā.
