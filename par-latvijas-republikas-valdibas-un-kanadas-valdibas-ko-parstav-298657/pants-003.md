@@ -1,0 +1,1 @@
+3. pants. Saprašanās memoranda 12. panta 1. punktā noteiktās tiesības atsaukt atteikšanos no kriminālās jurisdikcijas Ģenerālprokuratūra var izmantot kriminālprocesos, kas uzsākti par smaga un sevišķi smaga nozieguma izdarīšanu, kā arī ja ir izdarīts noziedzīgs nodarījums, kurā ir cietušais.

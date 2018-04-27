@@ -1,0 +1,1 @@
+1. pants. 2018. gada 7. februārī parakstītais Latvijas Republikas valdības un Kanādas valdības, ko pārstāv Kanādas Nacionālās aizsardzības departaments un Kanādas bruņotie spēki, saprašanās memorands par paplašinātu partnerību aizsardzības jomā un drošības sadarbību (turpmāk - Saprašanās memorands) ar šo likumu tiek pieņemts un apstiprināts.
