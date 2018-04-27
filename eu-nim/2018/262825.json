@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nacionālais noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtēšanas ziņojums",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": ".",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-27",
+  "entry_into_force": "2018-04-27",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54830",
+  "nim_celex": "72015L0849LVA_262825",
+  "nim_id": "262825",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5088ca1a-e7af-41c0-99bc-69377b80ef27",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
