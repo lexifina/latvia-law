@@ -1,0 +1,1 @@
+1.¹ Valsts institūcijai, kas nav padota Ministru kabinetam, atvasinātai publiskai personai un tās iestādei, prokuratūrai, kā arī privātpersonai, kurai deleģēts valsts pārvaldes uzdevums, oficiālās elektroniskās adreses kontu aktivizē līdz 2018. gada 15. oktobrim un šā likuma 5. panta pirmo daļu piemēro no oficiālās elektroniskās adreses konta aktivizēšanas brīža.

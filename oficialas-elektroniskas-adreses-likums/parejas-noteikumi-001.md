@@ -1,1 +1,1 @@
-1. Valsts iestādei, izņemot zvērinātu tiesu izpildītāju un maksātnespējas procesa administratoru, kā arī rezerves karavīram oficiālās elektroniskās adreses kontu aktivizē līdz 2018.gada 31.maijam un šā likuma 5.panta pirmo daļu piemēro no 2018.gada 1.jūnija.
+1. Tiešās pārvaldes iestādei oficiālās elektroniskās adreses kontu aktivizē līdz 2018. gada 31. maijam un šā likuma 5. panta pirmo daļu piemēro no 2018. gada 1. jūnija.

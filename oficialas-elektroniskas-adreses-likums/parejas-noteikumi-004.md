@@ -1,1 +1,1 @@
-4. Šā likuma 5.panta otrajā daļā minētās personas oficiālo elektronisko adresi izveido no 2018.gada 1.jūnija.
+4. Rezerves karavīrs un šā likuma 5. panta otrajā daļā minētās personas oficiālo elektronisko adresi izveido no 2019. gada 2. janvāra. Rezerves karavīram šā likuma 5. panta pirmo daļu piemēro no 2019. gada 1. februāra.
