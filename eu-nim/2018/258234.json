@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 17. aprīļa noteikumi Nr. 223 \"Grozījums Ministru kabineta 2009. gada 27. oktobra noteikumos Nr. 1250 \"Noteikumi par valsts nodevu par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā\". Regulējums tika izstrādāts pārkāpuma procedūru 2015/4221 saistībā ar valsts nodevu par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā ietvaros.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/78.9",
+  "official_journal_page": null,
+  "official_journal_date": "2018-04-17",
+  "entry_into_force": "2018-05-01",
+  "notification_date": "2018-04-26",
+  "commission_reference": "MNE(2018)52103",
+  "nim_celex": "72008L0007LVA_258234",
+  "nim_id": "258234",
+  "transposes_celex": [
+    "32008L0007"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0ec5a266-8815-4bd8-aeb0-22ad2d6b672d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
