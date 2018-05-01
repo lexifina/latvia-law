@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2017.gada 14.novembra noteikumi Nr.674 “Noteikumi par neparasta darījuma pazīmju sarakstu un kārtību, kādā sniedzami ziņojumi par neparastiem vai aizdomīgiem darījumiem”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "323",
+  "official_journal_page": null,
+  "official_journal_date": "2017-11-23",
+  "entry_into_force": "2018-05-01",
+  "notification_date": "2018-09-07",
+  "commission_reference": "MNE(2018)54823",
+  "nim_celex": "72015L0849LVA_262818",
+  "nim_id": "262818",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/764ebdf8-4875-405f-a590-68bce13a7cbc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
