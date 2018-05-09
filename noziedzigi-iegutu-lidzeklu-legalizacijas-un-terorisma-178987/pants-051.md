@@ -15,7 +15,8 @@
 13) izstrādāt likuma subjektiem ieteikumus un veikt pasākumus, lai mazinātu noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riskus, tai skaitā lemjot par ziņošanu par neparastu vai aizdomīgu darījumu veikšanu un atturēšanos no darījumu veikšanas pēc likuma subjekta iniciatīvas;
 14) analizēt noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu regulējošos normatīvos aktus, sagatavot priekšlikumus šo normatīvo aktu pilnveidošanai, organizēt un veikt noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtēšanu, kā arī izstrādāt priekšlikumus šo risku līmeņa mazināšanai;
 15) uzturēt Kontroles dienesta mājaslapā internetā vispārīga rakstura informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
-16) sniegt uzraudzības un kontroles institūcijām detalizētu informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām.
+16) sniegt uzraudzības un kontroles institūcijām detalizētu informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
+17) koordinēt sadarbības koordinācijas grupu saskaņā ar šā likuma 55. pantu.
 (2) Kontroles dienestam ir šādas tiesības:
 1) šajā likumā noteiktajos gadījumos dot rīkojumu likuma subjektam iesaldēt darījumu vai noteikta veida debeta operācijas klienta kontā;
 2) šajā likumā noteiktajos gadījumos dot rīkojumu valsts informācijas sistēmas pārzinim vai vērsties zemesgrāmatu nodaļā ar lūgumu veikt pasākumus, lai nepieļautu līdzekļu pārreģistrāciju;

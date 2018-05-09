@@ -19,5 +19,6 @@
 9) Konvencijas par tādu noziedzīgu nodarījumu novēršanu, kas vērsti pret starptautiski aizsargātām personām, un par šādu noziedzīgu nodarījumu izdarījušo sodīšanu 2.pantā minētās darbības;
 10) 1988.gada 10.marta Protokola par prettiesisku darbību pret nostiprinātu platformu drošību kontinentālajā šelfā apkarošanu 2.pantā minētās darbības;
 11) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu);
-12) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu).
-(4) Terorisma finansēšana ir arī jebkādā veidā iegūtu finanšu līdzekļu vai mantas nodošana teroristu grupas vai atsevišķa terorista rīcībā.
+12) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu);
+13) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu).
+(4) Terorisma finansēšana ir arī jebkādā veidā iegūtu finanšu līdzekļu vai mantas tieša vai netieša vākšana vai nodošana teroristu grupas vai atsevišķa terorista rīcībā.

@@ -9,3 +9,4 @@
 3) darījumā iesaistītie likuma subjekti ir reģistrēti vai darbojas dalībvalstī;
 4) darījumā iesaistītie likuma subjekti pieder pie vienas profesionālās kategorijas un tiem ir līdzvērtīgi pienākumi attiecībā uz profesionālo noslēpumu un personas datu aizsardzību;
 5) savstarpēji iegūtā informācija tiek izmantota tikai noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanai.
+(5) Šā panta pirmajā daļā noteiktais aizliegums neattiecas uz informācijas apmaiņu starp likuma subjektiem un šā likuma 55. panta otrajā daļā minētajām institūcijām, ja informācijas apmaiņa notiek saskaņā ar 55. pantu.
