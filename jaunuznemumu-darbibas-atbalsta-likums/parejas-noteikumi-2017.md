@@ -1,1 +1,0 @@
-Jaunuzņēmums informāciju par periodā līdz 2017. gada 1. aprīlim šajā likumā paredzēto nodokļu nomaksu, iemaksām valsts pensiju apdrošināšanai vai iemaksām privātajā brīvprātīgajā pensiju shēmā, jaunuzņēmuma ziņojumus par darba ņēmējiem algotā darbā aprēķinātajiem ienākumiem un ziņas par darba ņēmējiem iesniedz Valsts ieņēmumu dienestam līdz 2017. gada 15. aprīlim.
