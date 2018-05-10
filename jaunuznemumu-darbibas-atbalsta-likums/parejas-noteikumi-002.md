@@ -1,0 +1,1 @@
+2. Ekonomikas ministrija līdz 2020. gada 30. novembrim izvērtē šā likuma praktiskās īstenošanas gaitu un rezultātus, iesniedz attiecīgu ziņojumu Ministru kabinetam un, ja nepieciešams, sagatavo priekšlikumus par šā likuma grozījumiem.
