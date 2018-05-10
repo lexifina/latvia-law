@@ -1,1 +1,1 @@
-III nodaļa. Latvijas valsts karoga un citu karogu lietošana pie ēkām
+III nodaļa. Latvijas valsts karoga un citu karogu lietošana ārtelpā
