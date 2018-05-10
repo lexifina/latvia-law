@@ -1,0 +1,1 @@
+1. pants. 2017. gada 24. novembrī Briselē parakstītais Visaptverošais un pastiprinātais partnerības nolīgums starp Eiropas Savienību un Eiropas Atomenerģijas kopienu un to dalībvalstīm, no vienas puses, un Armēnijas Republiku, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
