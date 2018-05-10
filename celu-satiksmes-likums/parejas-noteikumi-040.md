@@ -1,0 +1,1 @@
+40. Šā likuma grozījums par 10. panta astotās daļas 1. punkta izteikšanu jaunā redakcijā stājas spēkā 2018. gada 1. novembrī. Lai nodrošinātu ceļu satiksmes drošību, Ministru kabinets līdz 2018. gada 31. oktobrim izdod šim grozījumam atbilstošus noteikumus.

@@ -15,7 +15,7 @@ h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 5) transportlīdzeklis novietots stāvēšanai apdzīvotās vietās pilnīgi vai daļēji uz brauktuves diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos neapgaismotā ceļa posmā, kur apstāties aizliegts, tam nav iedegtas noteiktās ārējās apgaismes ierīces un tas citiem vadītājiem nav saredzams pietiekamā attālumā;
 6) transportlīdzeklis novietots stāvēšanai pilnīgi vai daļēji uz brauktuves ārpus apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos un tam nav iedegtas noteiktās ārējās apgaismes ierīces;
 7) transportlīdzeklis Ministru kabineta noteiktajā kārtībā atzīstams par ilgstoši atstātu uz ceļa;
-8) transportlīdzeklis atkārtoti (divas vai vairākas reizes gada laikā) novietots invalīdiem paredzētā un attiecīgi apzīmētā stāvvietā, ja transportlīdzeklī nav ievietota invalīdu stāvvietu izmantošanas karte atbilstoši Ceļu satiksmes noteikumos minētajām prasībām.
+8) transportlīdzeklis atkārtoti (divas vai vairākas reizes gada laikā) novietots personām ar invaliditāti paredzētā un attiecīgi apzīmētā stāvvietā, ja transportlīdzeklī nav ievietota invalīdu stāvvietu izmantošanas karte atbilstoši Ceļu satiksmes noteikumos minētajām prasībām.
 (2) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu var pārvietot piespiedu kārtā saskaņā ar pašvaldības pilnvarotas amatpersonas lēmumu vai Valsts policijas priekšnieka rīkojumu no ielām:
 1) kuras nepieciešams atbrīvot oficiālo valsts vizīšu vai citu pasākumu nodrošināšanai;
 2) kurās paredzēts veikt ceļu būvniecības vai remonta darbus.

@@ -6,7 +6,7 @@
 3) pirmstermiņa pārbaudes.
 (3) Veselības pirmreizējo pārbaudi veic personām, kuras vēlas iegūt transportlīdzekļa vadītāja kvalifikāciju.
 (4) Transportlīdzekļa vadītāja veselības kārtējo pārbaudi veic:
-1) AM, A1, A, B1, B un BE kategorijas transportlīdzekļu vadītājiem, kā arī traktortehnikas un citu pašgājēju mašīnu vadītājiem ik pēc 10 gadiem, personām pēc 60 gadu vecuma sasniegšanas - ik pēc trim gadiem;
+1) AM, A1, A, B1, B un BE kategorijas transportlīdzekļu vadītājiem, kā arī traktortehnikas un citu pašgājējmašīnu vadītājiem - ik pēc 10 gadiem, personām pēc 60 gadu vecuma sasniegšanas - ik pēc trim gadiem, izņemot traktortehnikas un citu pašgājējmašīnu vadītājus, kuriem kārtējo pārbaudi pēc 60 gadu vecuma sasniegšanas veic ik pēc pieciem gadiem, bet pēc 65 gadu sasniegšanas - ik pēc trim gadiem;
 2) C1, C, D1, D, C1E, CE, D1E un DE kategorijas transportlīdzekļu vadītājiem, kā arī tramvaju un trolejbusu vadītājiem ik pēc pieciem gadiem, personām pēc 60 gadu vecuma sasniegšanas - ik pēc trim gadiem.
 (5) Pirmstermiņa veselības pārbaudi veic transportlīdzekļa vadītājam, kas sodīts par transportlīdzekļa vadīšanu alkoholisko dzērienu reibumā, narkotisko vai citu apreibinošo vielu ietekmē vai par atteikšanos no pārbaudes alkohola koncentrācijas noteikšanai, kā arī no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes.
 (6) Uz veselības pirmstermiņa pārbaudi transportlīdzekļa vadītāju ir tiesības nosūtīt, ja pastāv pamatotas aizdomas, ka transportlīdzekļa vadītājam ir Ministru kabineta noteiktās medicīniskās pretindikācijas transportlīdzekļa vadīšanai.
