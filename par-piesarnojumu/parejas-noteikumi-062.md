@@ -1,0 +1,1 @@
+62. Grozījums šā likuma 22. panta otrajā daļā par vārdu "B kategorijas iesnieguma veidlapu un atļaujas veidlapu" aizstāšanu ar vārdiem "iesniegumā atļaujas saņemšanai iekļaujamo informāciju" stājas spēkā 2020. gada 1. aprīlī.

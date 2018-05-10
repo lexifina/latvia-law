@@ -16,5 +16,5 @@
 10) ievēro ražošanas procesā izmantojamo izejvielu, arī ūdens, patēriņu un tehnoloģijas energoefektivitāti;
 11) novērš vai līdz minimumam samazina emisijas risku un tās ietekmi uz cilvēku veselību vai vidi;
 12) novērš avārijas, bet, ja avārija ir notikusi, - samazina tās radītās sekas;
-13) pamatojas uz secinājumiem par labākajiem pieejamiem tehniskajiem paņēmieniem. Veicot darbības, kurām atļaujas izsniegšanas vai atļaujas pārskatīšanas brīdī nav piemērojamu secinājumu par labākajiem pieejamiem tehniskajiem paņēmieniem, izmanto informāciju par labākajiem pieejamiem tehniskajiem paņēmieniem, kuru publicējusi Eiropas Komisija vai starptautiskās organizācijas;
-14) nodrošina, ka iekārtas radīto emisiju robežvērtības nepārsniedz atbilstoši labākajiem pieejamiem tehniskajiem paņēmieniem noteiktās emisiju robežvērtības.
+13) pamatojas uz secinājumiem par labākajiem pieejamiem tehniskajiem paņēmieniem. Veicot darbības, kurām atļaujas izsniegšanas vai atļaujas pārskatīšanas brīdī nav piemērojamu secinājumu par labākajiem pieejamiem tehniskajiem paņēmieniem, izmanto Eiropas Komisijas izstrādāto labāko pieejamo tehnisko paņēmienu vadlīniju dokumentu vai informāciju par labākajiem pieejamiem tehniskajiem paņēmieniem, kuru publicējušas starptautiskās organizācijas;
+14) nodrošina, ka iekārtas radītā emisija nepārsniedz ar labākajiem pieejamiem tehniskajiem paņēmieniem saistīto emisiju līmeni.

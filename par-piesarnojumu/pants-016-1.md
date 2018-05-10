@@ -1,0 +1,3 @@
+16.¹ pants. Gaisu piesārņojošo vielu emisiju uzskaite valsts līmenī
+(1) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs", sadarbojoties ar attiecīgajām nozaru ministrijām, institūcijām un komersantiem, veic valsts kopējo gaisu piesārņojošo vielu emisijas aprēķinu un prognožu izstrādi, kā arī emisiju ziņojumu sagatavošanu.
+(2) Ministru kabinets nosaka kārtību, kādā tiek izveidota un uzturēta valsts kopējo gaisu piesārņojošo vielu emisijas aprēķinu un prognožu sagatavošanas nacionālā sistēma un novērtēta gaisa piesārņojuma ietekme uz ekosistēmām, kā arī prasības par sabiedrībai un Eiropas Komisijai sniedzamo informāciju.

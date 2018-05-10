@@ -1,0 +1,1 @@
+61. Grozījums šā likuma 20. panta piektās daļas 3. punktā par vārdu "iesnieguma veidlapu un atļaujas veidlapu" aizstāšanu ar vārdiem "iesniegumā atļaujas saņemšanai iekļaujamo informāciju" stājas spēkā 2020. gada 1. aprīlī.

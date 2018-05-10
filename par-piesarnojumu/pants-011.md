@@ -1,7 +1,7 @@
 11.pants. Piesārņojošas darbības veikšanas nosacījumi
 (1) Veicot piesārņojošu darbību, operators un gaisa kuģa operators ievēro:
 1) aizliegumu attiecībā uz noteiktu piesārņojošu vielu emisiju vidē;
-2) noteiktu piesārņojuma veidu emisijas robežvērtības un limitus;
+2) noteiktu piesārņojuma veidu emisijas robežvērtības un limitus, kā arī ar labākajiem pieejamiem tehniskajiem paņēmieniem saistītos emisiju līmeņus;
 3) emisijas samazināšanas, novēršanas vai kontroles kārtību noteiktās saimnieciskās darbības jomās vai attiecībā uz noteikta veida iekārtām vai vielām;
 4) ar noteiktu emisiju saistītu iekārtu vai iekārtu grupu atbilstības novērtēšanas kārtību.
 (2) Lai nodrošinātu šā panta pirmajā daļā minēto nosacījumu ievērošanu, Ministru kabinets reglamentē:
@@ -24,8 +24,9 @@
 17) kārtību, kādā aviācijas darbības iekļauj Eiropas Savienības emisijas kvotu tirdzniecības sistēmā;
 18) kārtību, kādā nodrošināma oglekļa dioksīda plūsmas transportēšana pa cauruļvadiem uz uzglabāšanas vietām, kā arī oglekļa dioksīda plūsmas tīrības kritērijus un kārtību, kādā izskatāmi strīdi par piekļuvi transporta tīkliem un uzglabāšanas vietām;
 19) kārtību, kādā novēršama, ierobežojama un kontrolējama gaisu piesārņojošo vielu emisija no sadedzināšanas iekārtām;
-20) kārtību, kādā ierobežojama gaistošo organisko savienojumu emisija no iekārtām, kurās izmanto organiskos šķīdinātājus.
-(3) Ministru kabinets nosaka kopējo valstī maksimāli pieļaujamo emisiju gaisā konkrētā laikposmā un konkrētiem piesārņojuma veidiem.
+20) kārtību, kādā ierobežojama gaistošo organisko savienojumu emisija no iekārtām, kurās izmanto organiskos šķīdinātājus;
+21) prasības titāna dioksīda ražošanas iekārtu radīto emisiju ierobežošanai, kontrolei un monitoringam.
+(3) (Izslēgta ar 12.04.2018. likumu)
 (4) Ministru kabinets nosaka kārtību, kādā biedrība "Latvijas Antīko automobiļu klubs" izsniedz apliecinājumu par to, ka transportlīdzeklis atbilst antīkā transportlīdzekļa statusam, lai iegādātos produktus ar paaugstinātu gaistošo organisko savienojumu saturu.
 (5) Ministru kabinets nosaka bioeļļas kvalitātes prasības un mežizstrādes darbos izmantojamo griezējinstrumentu eļļošanai lietojamās bioeļļas izmantošanas un kontroles kārtību.
 (6) Ministru kabinets nosaka cenrādi maksas pakalpojumiem par stacionāru piesārņojuma avotu emisijas limita projektu izstrādei nepieciešamās informācijas un datu sniegšanu.

@@ -12,6 +12,7 @@
 9) īpaši jutīgu teritoriju noteikšanas kārtību, tai skaitā prasības attiecībā uz pilsētu un citu komunālo (turpmāk - pilsētu) notekūdeņu attīrīšanu, kā arī ūdens un augsnes aizsardzību attiecīgajās teritorijās;
 10) prasības, kas noteiktas ķīmiskās vielas saturošām iekārtām un produktiem.
 (2) Šis likums attiecas arī uz Ministru kabineta noteiktajiem mobilajiem piesārņojuma avotiem.
+(2¹) Šis likums nosaka gaisu piesārņojošo vielu emisiju samazināšanas mērķus, kā arī emisiju samazināšanas rīcības programmas izstrādes un gaisu piesārņojošo vielu emisijas uzskaites kārtību.
 (3) Darbības ar radioaktīvajām vielām, radioaktīvajiem atkritumiem, jonizējošā starojuma avotiem un ģenētiski modificētiem organismiem regulē citi normatīvie akti.
 (4) Šis likums paredz nosacījumus:
 1) siltumnīcefekta gāzu emisiju samazināšanai no citiem siltumnīcefekta gāzu emisiju avotiem un šajā likumā minēto siltumnīcefekta gāzu emisiju samazināšanas saistību izpildei;

@@ -1,5 +1,6 @@
 28.pants. A un B kategorijas atļauju pieteikšana, izsniegšana un atcelšana
-(1) Iesniegumu atļaujas saņemšanai sagatavo operators, ja nepieciešams, pieaicinot ekspertus.
+(1) Iesniegumu atļaujas saņemšanai sagatavo operators, ja nepieciešams, pieaicinot ekspertus. Operators ir atbildīgs par iesniegumā norādītās informācijas patiesumu.
+(1¹) Iesniegumu atļaujas saņemšanai iesniedz elektroniski informācijas sistēmā, izmantojot speciālu tiešsaistes formu, ja persona ir elektroniski identificējusies ar Valsts reģionālās attīstības aģentūras pārziņā esošu personas identifikācijas koplietošanas moduli.
 (2) Iesniegumā sniedzama šāda informācija:
 1) iekārta un tās darbība;
 2) izejvielas un palīgmateriāli, citas vielas un enerģija, ko attiecīgā iekārta izmanto vai ražo;
@@ -15,11 +16,13 @@
 (2¹) Iesniegumam pievieno:
 1) šā panta otrajā daļā minētās informācijas kopsavilkumu, kurā nelieto specifiskus tehniskos aprakstus un terminus, lai tas būtu viegli saprotams sabiedrībai;
 2) pamatziņojumu par augsnes un pazemes ūdeņu kvalitāti iekārtas teritorijā (turpmāk - pamatziņojums), ja tas nepieciešams A kategorijas darbību veikšanai saskaņā ar šā likuma 29.panta sesto daļu.
-(3) Iesniegumā norāda piesārņojošas darbības iespējamās alternatīvas un pamato, kādēļ izraudzīts attiecīgais variants. Ja minētās alternatīvas jau izskatītas, novērtējot ietekmi uz vidi, operators iesniegumam pievieno ietekmes uz vidi novērtējuma ziņojumu un atzinumu par to.
-(4) Reģionālā vides pārvalde, izsniedzot atļauju piesārņojošas darbības veikšanai, kurai saskaņā ar normatīvajiem aktiem ir nepieciešams ietekmes uz vidi novērtējums, izvērtē un ņem vērā ietekmes uz vidi novērtējuma ziņojumu un ievēro Vides pārraudzības valsts biroja atzinumā izvirzītās prasības par ietekmes uz vidi novērtējuma ziņojumu.
-(5) Atļauju izsniedz reģionālā vides pārvalde pēc iekārtas darbības vietas. Ja nepieciešams, reģionālā vides pārvalde pieaicina ekspertus, izņemot tos, kuri piedalījušies iesnieguma sagatavošanā.
-(6) Reģionālā vides pārvalde pirms atļaujas izsniegšanas izvērtē sabiedrības līdzdalības procesa laikā iesniegtos priekšlikumus un, ievietojot tos savā interneta mājaslapā, dara sabiedrībai pieejamu arī informāciju par tiem atzinumiem un ieteikumiem, kas saņemti pirms atļaujas sabiedriskās apspriešanas.
-(7) Reģionālā vides pārvalde izsniegto atļauju atceļ un aptur tās darbību, ja konstatē, ka operators sniedzis nepatiesu vai maldinošu informāciju. Reģionālā vides pārvalde ir tiesīga atcelt izsniegto atļauju un apturēt tās darbību, ja operators nesniedz reģionālās vides pārvaldes pieprasīto informāciju, kas nepieciešama lēmuma pieņemšanai par piesārņojošas darbības atļaujas izsniegšanu, uzsākot jaunu A vai B kategorijas piesārņojošu darbību, veicot būtiskas izmaiņas esošajā A vai B kategorijas piesārņojošā darbībā, kā arī piesārņojošas darbības atļaujas nosacījumu pārskatīšanai un atjaunošanai.
-(8) Ja veicamajā A vai B kategorijas darbībā netiek plānotas izmaiņas, operators vismaz 30 dienas pirms atļaujas termiņa beigām iesniedz reģionālajai vides pārvaldei iesniegumu, kurā pieprasa jaunas atļaujas izsniegšanu, norādot, ka netiek plānotas darbības izmaiņas.
-(9) Reģionālā vides pārvalde, pamatojoties uz operatora iesniegumu, kas iesniegts šā panta astotajā daļā noteiktajā gadījumā, izvērtē tās rīcībā esošo informāciju, kas attiecas uz operatoram iepriekš izsniegto A vai B kategorijas atļauju un tās nosacījumu grozījumiem (ja tādi ir izdarīti) un saskaņā ar šā likuma 32.panta pirmajā daļā noteikto izsniedz jaunu atļauju 30 dienu laikā no iesnieguma saņemšanas dienas.
-(10) Ja šā panta astotajā daļā noteiktajā gadījumā reģionālajai vides pārvaldei ir nepieciešams pieprasīt no operatora papildu informāciju, tad laikposmu, kas operatoram vajadzīgs informācijas sagatavošanai un iesniegšanai reģionālajā vides pārvaldē, neieskaita šā panta devītajā daļā noteiktajā termiņā.
+(3) Iesniegumā norāda piesārņojošas darbības iespējamās alternatīvas un pamato, kādēļ izraudzīts attiecīgais variants. Ja minētās alternatīvas jau izskatītas, novērtējot ietekmi uz vidi, operators iesniegumam pievieno ietekmes uz vidi novērtējuma ziņojumu un atzinumu par paredzētās darbības akceptu.
+(4) Valsts vides dienests, izsniedzot atļauju piesārņojošas darbības veikšanai, kurai saskaņā ar normatīvajiem aktiem ir nepieciešams ietekmes uz vidi novērtējums, izvērtē un ņem vērā ietekmes uz vidi novērtējuma ziņojumu un ievēro Vides pārraudzības valsts biroja atzinumā izvirzītās prasības par ietekmes uz vidi novērtējuma ziņojumu.
+(5) Atļauju izsniedz Valsts vides dienests pēc iekārtas darbības vietas. Ja nepieciešams, Valsts vides dienests pieaicina ekspertus, izņemot tos, kuri piedalījušies iesnieguma sagatavošanā.
+(6) Valsts vides dienests pirms atļaujas izsniegšanas izvērtē sabiedrības līdzdalības procesa laikā iesniegtos priekšlikumus un, ievietojot tos savā tīmekļvietnē, dara sabiedrībai pieejamu arī informāciju par tiem atzinumiem un ieteikumiem, kas saņemti pirms atļaujas sabiedriskās apspriešanas.
+(7) Valsts vides dienests var atcelt izdoto atļauju, lemt par atteikumu izdot atļauju vai grozīt izdotās atļaujas nosacījumus, ja tiek konstatēts, ka operators:
+1) nesniedz Valsts vides dienesta pieprasīto informāciju, kas nepieciešama lēmuma pieņemšanai par atļaujas izsniegšanu, atļaujas izdošanu vai atļaujas nosacījumu grozīšanu, uzsākot jaunu A vai B kategorijas darbību vai veicot būtiskas izmaiņas esošajā A vai B kategorijas darbībā;
+2) triju gadu laikā no A vai B kategorijas atļaujas spēkā stāšanās dienas nav uzsācis piesārņojošo darbību.
+(8) (Izslēgta ar 12.04.2018. likumu)
+(9) (Izslēgta ar 12.04.2018. likumu)
+(10) (Izslēgta ar 12.04.2018. likumu)

@@ -11,7 +11,7 @@
 5) kārtību, kādā sabiedrība var iepazīties ar iesniegumu un iesniegt savus priekšlikumus, kā arī iepazīties ar atļaujas nosacījumiem, monitoringa un pārbaudes rezultātiem;
 6) kārtību, kādā informējamas citas valstis, un šāda piesārņojuma monitoringu gadījumos, kad iespējama piesārņojuma pārrobežu ietekme;
 7) iesnieguma izskatīšanas un lēmuma pieņemšanas termiņu, kas nedrīkst būt ilgāks par 90 dienām. Lēmuma pieņemšanas termiņā neieskaita dienas, kas attiecas uz informācijas pieprasījumu.
-(6) Ja A kategorijas piesārņojošu darbību plānots īstenot ārpus Latvijas teritorijas un tai iespējama pārrobežu ietekme, kompetentā institūcija:
-1) 14 dienu laikā pēc tam, kad no attiecīgās valsts kompetentās institūcijas saņemta informācija par iesniegumu piesārņojošas darbības veikšanai, ievieto paziņojumu par saņemto informāciju savā interneta mājaslapā un publicē paziņojumu vismaz vienā no laikrakstiem;
-2) paziņojumā norāda vietu, kur sabiedrība un ieinteresētās institūcijas var iegūt informāciju par paredzēto darbību un tās pārrobežu ietekmi, kā arī par saprātīgu termiņu, līdz kuram kompetentajai institūcijai var iesniegt rakstveida priekšlikumus;
+(6) Ja A kategorijas piesārņojošu darbību plānots īstenot ārpus Latvijas teritorijas un tai iespējama pārrobežu ietekme, Vides pārraudzības valsts birojs:
+1) 14 dienu laikā pēc tam, kad no attiecīgās valsts kompetentās institūcijas saņemta informācija par iesniegumu piesārņojošas darbības veikšanai, ievieto paziņojumu par saņemto informāciju savā tīmekļvietnē un publicē paziņojumu vismaz vienā no laikrakstiem;
+2) paziņojumā norāda vietu, kur sabiedrība un ieinteresētās institūcijas var iegūt informāciju par paredzēto darbību un tās pārrobežu ietekmi, kā arī par saprātīgu termiņu, līdz kuram Vides pārraudzības valsts birojam var iesniegt rakstveida priekšlikumus;
 3) apkopo sabiedrības un ieinteresēto institūciju iesniegtos priekšlikumus un nosūta tos attiecīgās valsts kompetentajai institūcijai.

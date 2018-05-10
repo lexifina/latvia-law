@@ -1,5 +1,5 @@
 (1) Enerģētikā:
-1) sadedzināšanas iekārtas, kuru nominālā ievadītā siltuma jauda pārsniedz 50 megavatus;
+1) sadedzināšanas iekārtas, kuru nominālā ievadītā siltuma jauda ir 50 megavati un vairāk un uz kurām attiecas normatīvie akti par kārtību, kādā novērš, ierobežo un kontrolē gaisu piesārņojošo vielu emisiju no sadedzināšanas iekārtām;
 2) minerāleļļas un gāzes attīrīšanas un rafinēšanas iekārtas;
 3) koksa krāsnis;
 4) kurināmā gazifikācijas un sašķidrināšanas iekārtas, kurās izmanto:
@@ -18,7 +18,7 @@ a) kurās no rūdām, rūdu koncentrātiem vai otrreizējām izejvielām (piemē
 b) krāsaino metālu, arī otrreizējai pārstrādei izmantojamo metālu, kausēšanai, ieskaitot leģēšanu, kuru jauda pārsniedz 4 tonnas kausēta svina vai kadmija dienā vai 20 tonnas jebkura cita kausēta metāla dienā;
 6) iekārtas, kurās izmanto elektrolīzi vai ķīmiskus procesus metālu un plastmasu virsmas apstrādei un kuru elektrolīzes vannas vai ķīmiskās apstrādes tvertņu kopējais tilpums pārsniedz 30 kubikmetrus.
 (3) Minerālu izstrādājumu ražošanā:
-1) iekārtas klinkera cementa ražošanai rotācijas krāsnīs, kuru ražošanas jauda pārsniedz 500 tonnas produkcijas dienā, vai iekārtas kaļķu ražošanai rotācijas krāsnīs, kuru ražošanas jauda pārsniedz 50 tonnas produkcijas dienā, vai citu veidu krāsnis kaļķu ražošanai, kuru ražošanas jauda pārsniedz 50 tonnas produkcijas dienā;
+1) iekārtas klinkera cementa ražošanai rotācijas krāsnīs, kuru ražošanas jauda pārsniedz 500 tonnas produkcijas dienā, vai citu veidu krāsnīs, kuru jauda ir lielāka par 50 tonnām dienā, vai iekārtas kaļķu ražošanai rotācijas krāsnīs, kuru ražošanas jauda pārsniedz 50 tonnas produkcijas dienā;
 2) iekārtas azbesta ražošanai un azbesta izstrādājumu izgatavošanai;
 3) iekārtas stikla, arī stikla šķiedras, ražošanai, kuru kausēšanas jauda pārsniedz 20 tonnas dienā;
 4) iekārtas nemetālisko minerālu kausēšanai, arī nemetālisko minerālu šķiedras ražošanai, kuru kausēšanas jauda pārsniedz 20 tonnas dienā;
@@ -60,7 +60,7 @@ h) piesārņojuma attīrīšanai izmantojamo komponentu reģenerācija,
 i) katalizatoru sastāvdaļu reģenerācija,
 j) naftas produktu atkārtota pārstrāde vai citi atkārtotas izmantošanas veidi,
 k) ievietošana virszemes ūdenskrātuvēs;
-2) iekārtas atkritumu sadedzināšanai vai reģenerācijai, kā arī atkritumu līdzsadedzināšanas iekārtas ar šādu jaudu:
+2) iekārtas atkritumu sadedzināšanai vai reģenerācijai, kā arī atkritumu līdzsadedzināšanas iekārtas, uz kurām attiecas normatīvie akti par prasībām atkritumu sadedzināšanai un atkritumu sadedzināšanas iekārtu darbībai, ar šādu jaudu:
 a) nebīstamiem atkritumiem - ar jaudu virs 3 tonnām stundā,
 b) bīstamiem atkritumiem - ar jaudu virs 10 tonnām dienā;
 3) iekārtas nebīstamo atkritumu apglabāšanai ar jaudu virs 50 tonnām dienā (izņemot darbības, uz kurām attiecas normatīvo aktu regulējums par piesārņojošo vielu emisiju ūdenī), kurās tiek izmantota viena vai vairākas šādas darbības:
@@ -74,7 +74,7 @@ a) bioloģiskā attīrīšana,
 b) atkritumu sagatavošana sadedzināšanai vai līdzsadedzināšanai,
 c) pelnu un izdedžu attīrīšana,
 d) metāla atkritumu, tai skaitā elektrisko un elektronisko iekārtu atkritumu un nolietotu transportlīdzekļu un to detaļu, apstrāde smalcinātājos;
-4) atkritumu poligoni, kuri var uzņemt vairāk nekā 10 tonnas atkritumu dienā vai kuru kopējā ietilpība pārsniedz 25 000 tonnas, izņemot inerto atkritumu poligonus;
+4) atkritumu poligoni saskaņā ar Atkritumu apsaimniekošanas likumu, kuri var uzņemt vairāk nekā 10 tonnas atkritumu dienā vai kuru kopējā ietilpība pārsniedz 25 000 tonnas, izņemot inerto atkritumu poligonus;
 4¹) bīstamo atkritumu pagaidu uzglabāšanas laukumi, kuri neatbilst šīs daļas 4.punktā minētajiem nosacījumiem un kuros uzglabā bīstamos atkritumus ar kopējo daudzumu virs 50 tonnām, pirms ar bīstamajiem atkritumiem tiek veiktas darbības, kas minētas šīs daļas 1., 2., 4. un 6.punktā. Bīstamo atkritumu pagaidu uzglabāšana to rašanās vietā (pirms to savākšanas) neietilpst šajā darbībā;
 5) iekārtas bīstamo atkritumu apglabāšanai, ja tajās apglabā polihlorētos bifenilus, polihlorētos terfenilus vai arī šīs vielas saturošus atkritumus vai ierīces;
 6) bīstamo atkritumu pazemes glabātavas ar kopējo ietilpību virs 50 tonnām.
@@ -100,7 +100,7 @@ a) vairāk nekā 40 000 mājputnu,
 b) vairāk nekā 2000 gaļas cūku, kuru svars pārsniedz 30 kilogramus,
 c) vairāk nekā 750 sivēnmāšu;
 7) iekārtas vielu, priekšmetu vai produktu virsmas apstrādei, izmantojot organiskos šķīdinātājus, arī apdares darbu, iespieddarbu, virsmas pārklājumu, attaukošanas, ūdensnecaurlaidību nodrošinošas apstrādes, kalibrēšanas, krāsošanas, tīrīšanas vai impregnēšanas veikšanai, kurās organisko šķīdinātāju patēriņa jauda pārsniedz 150 kilogramus stundā vai 200 tonnas gadā;
-8) iekārtas ogļu vai grafīta elektrodu ražošanai, izmantojot dedzināšanu augstās temperatūrās;
+8) iekārtas ogļu vai grafīta elektrodu ražošanai, izmantojot dedzināšanu augstās temperatūrās vai grafitizāciju;
 9) oglekļa dioksīda (CO2) plūsmas uztveršana no darbībām (iekārtām), kas norādītas šajā pielikumā, saistībā ar ģeoloģisku oglekļa dioksīda glabāšanu, kā tas noteikts Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvā 2009/31/EK par oglekļa dioksīda ģeoloģisko uzglabāšanu un grozījumiem Padomes direktīvā 85/337/EEK, Eiropas Parlamenta un Padomes direktīvās 2000/60/EK, 2001/80/EK, 2004/35/EK, 2006/12/EK, 2008/1/EK un regulā (EK) Nr. 1013/2006 (Dokuments attiecas uz EEZ);
 10) iekārtas koksnes un koksnes izstrādājumu konservācijai, izņemot apstrādi pret zilējuma sēnītēm, izmantojot ķīmiskas vielas, kuru ražošanas jauda pārsniedz 75 m³ dienā;
 11) iekārtas neatkarīgai notekūdeņu attīrīšanai, kas nodrošina šajā pielikumā minēto piesārņojošo darbību radīto notekūdeņu attīrīšanu, ja uz notekūdeņu attīrīšanas iekārtām neattiecas normatīvo aktu regulējums par piesārņojošo vielu emisiju ūdenī.
