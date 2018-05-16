@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Konsulārās palīdzības un konsulāro pakalpojumu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94",
+  "official_journal_page": null,
+  "official_journal_date": "2018-05-15",
+  "entry_into_force": "2018-05-16",
+  "notification_date": "2026-01-12",
+  "commission_reference": "MNE(2026)00273",
+  "nim_celex": "72019L0997LVA_202600273",
+  "nim_id": "202600273",
+  "transposes_celex": [
+    "32019L0997"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8170b97f-4317-4f99-b3f9-7f3e7cd73aed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
