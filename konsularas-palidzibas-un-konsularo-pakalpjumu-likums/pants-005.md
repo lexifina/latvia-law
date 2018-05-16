@@ -1,0 +1,2 @@
+5. pants. (1) Pārstāvniecības konsulārais apgabals tiek noteikts pēc vienošanās ar attiecīgo ārvalsti atbilstoši 1963. gada 24. aprīļa Vīnes konvencijai par konsulārajiem sakariem.
+(2) Konsulārās amatpersonas konsulārais apgabals tiek noteikts atbilstoši tās veicamajām konsulārajām funkcijām. Konsulārās amatpersonas ārvalstīs un goda konsula konsulārais apgabals tiek noteikts atbilstoši pārstāvniecības konsulārajam apgabalam.

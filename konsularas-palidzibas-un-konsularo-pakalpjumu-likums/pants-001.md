@@ -1,0 +1,1 @@
+1. pants. Likuma mērķis ir nodrošināt personām, kas atrodas ārpus Latvijas, konsulāro palīdzību un Latvijas iestāžu sniegto no Latvijas starptautiskajām saistībām un Latvijas normatīvajiem aktiem izrietošo pakalpojumu pieejamību Latvijas diplomātiskajās un konsulārajās pārstāvniecībās ārvalstīs (turpmāk - pārstāvniecība).

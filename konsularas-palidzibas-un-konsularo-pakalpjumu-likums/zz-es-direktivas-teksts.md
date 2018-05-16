@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Padomes 2015. gada 20. aprīļa direktīvas (ES) 2015/637 par koordinācijas un sadarbības pasākumiem, ar ko veicina nepārstāvēto Savienības pilsoņu konsulāro aizsardzību trešās valstīs, un ar ko atceļ lēmumu 95/553/EK.

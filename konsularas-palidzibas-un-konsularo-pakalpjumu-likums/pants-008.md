@@ -1,0 +1,3 @@
+8. pants. (1) Konsulārā amatpersona un goda konsuls konsulāro palīdzību sāk sniegt, kad ir saņemts valstspiederīgā lūgums vai informācija par viņa atrašanos tādā situācijā, kad ir nepieciešama konsulārā palīdzība.
+(2) Lai tiktu pārbaudīta valstspiederīgā identitāte un statuss, viņš uzrāda derīgu personu apliecinošu vai ceļošanas dokumentu vai arī konsulārā amatpersona vai goda konsuls veic personas identifikāciju un statusa pārbaudi, izmantojot pieejamās informācijas sistēmas vai sazinoties ar personas valstspiederības valsts iestādēm.
+(3) Konsulārās palīdzības sniegšana tiek pārtraukta, ja valstspiederīgais no tās nepārprotami atsakās vai vairs neatrodas tādā situācijā, kad būtu nepieciešama konsulārā palīdzība.

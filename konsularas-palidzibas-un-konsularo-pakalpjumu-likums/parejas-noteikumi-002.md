@@ -1,0 +1,6 @@
+2. Ministru kabinets līdz 2018. gada 1. decembrim izdod šā likuma 4. panta trešajā daļā, 11. panta ceturtajā daļā, 12. panta trešajā daļā, 13. panta trešajā daļā, 14. pantā un 17. panta otrajā daļā paredzētos Ministru kabineta noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2018. gada 30. novembrim piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2008. gada 21. aprīļa noteikumi Nr. 283 "Noteikumi par notariālo funkciju veikšanu Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās";
+2) Ministru kabineta 2012. gada 8. maija noteikumi Nr. 322 "Materiālās palīdzības nodrošināšanas kārtība ārkārtas situācijā ārvalstī nonākušai personai";
+3) Ministru kabineta 2013. gada 1. oktobra noteikumi Nr. 1032 "Ārlietu ministrijas konsulāro maksas pakalpojumu cenrādis";
+4) Ministru kabineta 2015. gada 5. maija noteikumi Nr. 211 "Noteikumi par kārtību, kādā konsulārajā reģistrā iekļauj un izmanto informāciju par paredzamu īslaicīgu uzturēšanos ārvalstīs";
+5) Ministru kabineta 2016. gada 9. augusta noteikumi Nr. 521 "Noteikumi par konsulāro pakalpojumu valsts nodevu par notariālo darbību izpildi, ko veic konsulārās amatpersonas ārvalstīs".

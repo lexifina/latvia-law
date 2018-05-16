@@ -1,0 +1,2 @@
+15. pants. (1) Konsulārie pakalpojumi ir pakalpojumi, kas tiek sniegti, lai ārvalstīs esošām personām nodrošinātu Latvijas iestāžu sniegto pakalpojumu pieejamību pārstāvniecībās.
+(2) Konsulārie pakalpojumi un to sniegšanas kārtība, ievērojot šajā likumā minēto, ir noteikta attiecīgo pakalpojumu regulējošos normatīvajos aktos. Lai nodrošinātu vienotu pieeju konsulāro pakalpojumu sniegšanai pārstāvniecībās, Latvijas iestādes sadarbojas ar Ārlietu ministriju.

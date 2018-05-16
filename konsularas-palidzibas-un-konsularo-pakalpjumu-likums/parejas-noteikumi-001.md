@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Konsulārais reglaments" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 13. nr.; 1996, 23. nr.; 1999, 23. nr.; 2006, 24. nr.; 2008, 3. nr.; Latvijas Vēstnesis, 2013, 193. nr.).

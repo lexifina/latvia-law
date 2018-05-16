@@ -1,0 +1,9 @@
+9. pants. (1) Konsulārā palīdzība ir tieša un individuāla.
+(2) Konsulārā amatpersona un goda konsuls sniedz konsulāro palīdzību un pieņem lēmumus par konsulārās palīdzības saņēmēja likumisko interešu aizsardzības veidu atbilstoši normatīvajos aktos noteiktajām pilnvarām un pienākumiem.
+(3) Konsulārā palīdzība neietver juridiskās palīdzības sniegšanu. Pēc konsulārās palīdzības saņēmēja lūguma konsulārā amatpersona ārvalstī sniedz informāciju par juridiskās palīdzības sniedzējiem konsulārajā apgabalā.
+(4) Konsulārās palīdzības ietvaros konsulārā amatpersona un goda konsuls nodrošina konsulārās palīdzības saņēmēja likumisko interešu aizsardzību un diskriminācijas nepieļaušanu Latvijas, kā arī viņa atrašanās vietas valsts normatīvajos aktos noteiktajā kārtībā un saskaņā ar Latvijas starptautiskajām saistībām.
+(5) Konsulārajai amatpersonai ārvalstīs ir tiesības piedalīties attiecīgās ārvalsts tiesvedības procesā novērotāja statusā izņēmuma gadījumos, saņemot attiecīgās ārvalsts tiesas piekrišanu, ja:
+1) pastāv aizdomas par Latvijas pilsoņa vai nepilsoņa diskrimināciju vai tās iespējamību;
+2) tas ir nepieciešams Latvijas nepilngadīgā pilsoņa vai nepilsoņa tiesību aizsardzībai un ir saņemts attiecīgs Latvijas kompetentās iestādes lūgums.
+(6) Ja nepilngadīgais valstspiederīgais ārvalstīs zaudējis aizbildni vai aizgādnībā esošs valstspiederīgais ārvalstīs palicis bez aizgādņa, konsulārā amatpersona nekavējoties informē kompetentās iestādes par nepieciešamību iecelt aizbildni vai aizgādni, kā arī seko ārvalsts iestāžu rīcībai nepilngadīgās vai aizbildnībā esošās personas interešu nodrošināšanā līdz aizbildņa vai aizgādņa iecelšanai.
+(7) Konsulārā amatpersona, ievērojot Bērnu tiesību konvenciju, aicina ārvalstu kompetentās institūcijas nodrošināt nepilngadīgā valstspiederīgā kultūridentitātei atbilstošu ģimenisku vidi, ja viņam tiek nodibināta vai tiek plānots nodibināt ārpusģimenes aprūpi vai adopciju ārvalstī.

@@ -1,0 +1,2 @@
+10. pants. (1) Konsulārās palīdzības ietvaros konsulārā amatpersona ir tiesīga saņemt konsulārās palīdzības sniegšanai nepieciešamos personas datus no jebkura to pārziņa un apstrādāt tos arī bez datu subjekta piekrišanas tad, ja šo piekrišanu nav iespējams iegūt.
+(2) Ja datu pārzinis saņem pamatotu konsulārās amatpersonas lūgumu sniegt konsulārās palīdzības sniegšanai nepieciešamos personas datus, viņš iespējami ātri nodrošina minēto datu nodošanu konsulārajai amatpersonai.
