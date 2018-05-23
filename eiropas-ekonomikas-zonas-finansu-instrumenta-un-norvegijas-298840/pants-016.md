@@ -1,0 +1,4 @@
+16. pants. Projektu iesniegumu atlase
+(1) Programmas apsaimniekotājs vai aģentūra veic projektu iesniegumu atlasi saskaņā ar normatīvajiem aktiem, kas izdoti, pamatojoties uz šā likuma 15. panta 2. un 12. punktu. Projektu iesniegumu atlases nolikumu izstrādā un pēc saskaņošanas ar vadošo iestādi apstiprina programmas apsaimniekotājs vai aģentūra. Ja projektu iesniegumu atlases nolikumu izstrādā aģentūra, tā nolikumu saskaņo arī ar programmas apsaimniekotāju.
+(2) Paziņojumu par projektu iesniegumu atlases izsludināšanu un norādi uz vietni, kurā publicēts projektu iesniegumu atlases nolikums, kā arī paziņojumu par projektu iesniegumu atlases pagarināšanu, pārtraukšanu vai izbeigšanu programmas apsaimniekotājs vai aģentūra iesniedz publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis".
+(3) Projekta iesniedzējs sagatavo un iesniedz projekta iesniegumu saskaņā ar projektu iesniegumu atlases nolikuma prasībām.

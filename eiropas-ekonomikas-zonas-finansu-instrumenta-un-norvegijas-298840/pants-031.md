@@ -1,0 +1,2 @@
+31. pants. Dokumentu glabāšanas termiņš
+Finanšu instrumentu vadības nodrošināšanā iesaistītās institūcijas, līdzfinansējuma saņēmēji un projekta partneri glabā visu ar finanšu instrumenta programmas, projekta vai iepriekš noteiktā projekta īstenošanu saistīto dokumentu oriģinālus vai to atvasinājumus trīs gadus pēc programmas noslēguma pārskata apstiprināšanas, ja komercdarbības atbalsta piešķiršanu regulējošie tiesību akti nenosaka citu dokumentu glabāšanas termiņu.

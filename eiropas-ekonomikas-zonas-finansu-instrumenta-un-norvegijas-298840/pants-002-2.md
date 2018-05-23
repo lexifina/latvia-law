@@ -1,0 +1,1 @@
+2. Ministru kabinets viena gada laikā pēc tam, kad programmas koncepciju ir apstiprinājusi Norvēģijas Ārlietu ministrija vai Eiropas Ekonomikas zonas finanšu instrumenta komiteja, izdod šā likuma 9. panta pirmajā daļā un 15. panta 12. punktā minētos noteikumus.
