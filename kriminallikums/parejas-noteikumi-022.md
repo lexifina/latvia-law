@@ -1,0 +1,1 @@
+22. Personas, kuras šā likuma 88., 88.¹, 88.² vai 88.³ pantā paredzētos noziedzīgos nodarījumus izdarījušas līdz dienai, kad stājies spēkā grozījums par šo pantu izslēgšanu, saucamas pie kriminālatbildības un sodāmas saskaņā ar tām šā likuma normām, kuras bija spēkā attiecīgā nodarījuma izdarīšanas laikā.
