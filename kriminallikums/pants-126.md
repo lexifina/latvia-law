@@ -8,5 +8,5 @@ soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu br�
 4) (izslēgts ar 13.12.2012. likumu);
 5) tās izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
 6) tās izdarītas pret personu bezpalīdzības stāvoklī;
-7) tās izdarītas pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis nereģistrētās laulāto attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība, -
+7) tās izdarītas pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis pastāvīgās intīmās attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.

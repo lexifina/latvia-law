@@ -8,13 +8,13 @@
 6) noziedzīgais nodarījums izdarīts pret personu, kas nav sasniegusi astoņpadsmit gadu vecumu, vai pret personu, izmantojot tās bezpalīdzības stāvokli vai vecuma nevarību;
 7) noziedzīgais nodarījums izdarīts pret personu, izmantojot tās dienesta, materiālo vai citādu atkarību no vainīgā;
 8) noziedzīgais nodarījums izdarīts ar sevišķu cietsirdību vai ņirgājoties par cietušo;
-9) noziedzīgais nodarījums izdarīts, izmantojot sabiedriskā posta apstākļus;
+9) noziedzīgais nodarījums izdarīts, izmantojot sabiedriskā posta apstākļus vai ārkārtējās situācijas vai izņēmuma stāvokļa laikā;
 10) noziedzīgais nodarījums izdarīts, lietojot ieročus vai sprāgstošas vielas vai citā vispārbīstamā veidā;
 11) noziedzīgais nodarījums izdarīts mantkārīgu tieksmju dēļ;
 12) noziedzīgais nodarījums izdarīts alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē;
 13) noziedzīgo nodarījumu izdarījusī persona nolūkā panākt soda samazināšanu ir sniegusi apzināti nepatiesas ziņas par citas personas izdarītu noziedzīgo nodarījumu;
 14) noziedzīgs nodarījums izdarīts rasistisku, nacionālu, etnisku vai reliģisku motīvu dēļ;
-15) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, vai noziedzīgs nodarījums pret tikumību un dzimumneaizskaramību izdarīts pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis nereģistrētās laulāto attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība;
+15) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, vai noziedzīgs nodarījums pret tikumību un dzimumneaizskaramību izdarīts pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis pastāvīgās intīmās attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība;
 16) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, vai tīšs noziedzīgs nodarījums pret personas veselību vai tikumību un dzimumneaizskaramību izdarīts nepilngadīgā klātbūtnē.
 (2) Ievērojot noziedzīgā nodarījuma raksturu, var neatzīt par atbildību pastiprinošu jebkuru no šā panta pirmajā daļā minētajiem apstākļiem.
 (3) Nosakot sodu, nevar atzīt par atbildību pastiprinošiem tādus apstākļus, kuri nav norādīti šajā likumā.
