@@ -24,13 +24,13 @@ Likumā ir lietoti šādi termini:
 22) kontaktpersona - cilvēks, kurš ir bijis tiešā vai netiešā kontaktā ar infekciozu personu vai uzturējies epidēmijas perēklī un kuram ir bijusi iespēja inficēties;
 23) laboratoriskā pārbaude (testēšana) - cilvēku, dzīvnieku vai vides materiālu pārbaude ar dažādu veidu laboratoriskām metodēm infekcijas slimību izraisītāju klātbūtnes tiešai vai netiešai noteikšanai;
 24) medicīniskā novērošana - inficēšanās riskam pakļauto personu veselības regulāra pārbaude infekcijas slimības inkubācijas periodā;
-25) pamatotas aizdomas - ar pierādījumiem pamatots secinājums, kuru, balstoties uz speciālām darba pienākumu veikšanai nepieciešamām zināšanām epidemioloģiskās drošības jautājumos, izdara Slimību profilakses un kontroles centra epidemiologi, Veselības inspekcijas inspektori, ārstniecības personas vai citas amatpersonas to kompetencē esošo pienākumu pildīšanas laikā;
+25) pamatotas aizdomas - ar pierādījumiem pamatots secinājums, kuru, balstoties uz speciālām darba pienākumu veikšanai nepieciešamām zināšanām epidemioloģiskās drošības un ārstniecības jautājumos, izdara Slimību profilakses un kontroles centra epidemiologi, Veselības inspekcijas inspektori, ārstniecības personas vai citas amatpersonas to kompetencē esošo pienākumu pildīšanas laikā;
 26) pretepidēmijas pasākumi (infekcijas slimību epidemioloģiskās kontroles pasākumi) - pasākumu kopums, ieskaitot infekcijas slimību gadījumu epidemioloģisko izmeklēšanu, infekcijas slimību izplatības apturēšanai un to likvidēšanai;
 27) primārā medicīniskā pārbaude - personu aptauja un apskate, lai noteiktu infekcijas slimības pazīmes;
 28) profilakses pasākumi - pasākumi infekcijas slimību izcelšanās un izplatīšanās novēršanai, cilvēku un vides veselības stiprināšanai (šādā nozīmē jāsaprot arī jēdzieni "profilakse" un "profilaktisks");
 29) slimnieks - persona, kas saslimusi ar infekcijas slimību;
 30) vakcinācija (potēšana) - specifisks profilakses pasākums, lai, ievadot vakcīnu, ierosinātu vai uzturētu organisma neuzņēmību pret kādu infekcijas slimību;
-31) Imunizācijas valsts programma - programma, kurā ir noteikti imunizācijas mērķi, uzdevumi un citi valstī veicamie pasākumi tādu infekcijas slimību izplatības novēršanai vai likvidācijai, kuru pamatprofilakses veids ir vakcinācija;
+31) (izslēgts ar 19.04.2018. likumu);
 32) paaugstināta riska subjekts - tiesību subjekts, kura darbības veids ir pakalpojumu sniegšana patērētājiem un kura darbības vai izmantojamo iekārtu darbības dēļ var plaši izplatīties infekcijas slimības vai kura darbība ir saistīta ar veselību ietekmējošo faktoru kaitīgo iedarbību un kurš ir pakļauts epidemioloģisko drošību regulējošo normatīvo aktu prasībām;
 33) references laboratorija - noteiktā profilā akreditēta un pilnvarota laboratorija, kas nodarbojas ar infekcijas slimību diagnostiku, to izraisītāju noteikšanu un izpēti atbilstoši starptautiski atzītajām testēšanas metodēm un standartiem, veicina testēšanas metožu attīstību valstī;
 34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki;

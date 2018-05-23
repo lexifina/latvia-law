@@ -1,2 +1,8 @@
-34.pants. Obligātās veselības pārbaudes
-Personas, kuras tiek nodarbinātas darbos, kas saistīti ar iespējamu risku citu cilvēku veselībai, tiek pakļautas obligātajām pirmreizējām (pirms stāšanās darbā) un periodiskām veselības pārbaudēm. Minēto darbu sarakstu un veselības pārbaužu periodiskumu nosaka Ministru kabinets.
+34. pants. Prasības personām, kuras nodarbinātas ar iespējamu risku citu cilvēku veselībai saistītos darbos
+(1) Personas, kuras tiek nodarbinātas ar iespējamu risku citu cilvēku veselībai saistītos darbos, šādos darbos (arī mācību prakses laikā) aizliegts nodarbināt, ja radušās aizdomas par personas inficēšanos ar infekcijas slimību. Ministru kabinets nosaka:
+1) darbus, kas saistīti ar iespējamu risku citu cilvēku veselībai;
+2) infekcijas slimības, ar kurām saslimušās vai inficējušās personas vai personas, par kurām radušās aizdomas, ka tās saslimušas vai inficējušās, aizliegts nodarbināt ar iespējamu risku citu cilvēku veselībai saistītos darbos;
+3) iespējamos infekcijas slimību simptomus;
+4) darba devēja un darbinieka pienākumus, ja persona ir saslimusi ar infekcijas slimību vai inficējusies ar to vai ir aizdomas par personas saslimšanu vai inficēšanos ar infekcijas slimību;
+5) obligāto pirmreizējo un periodisko veselības pārbaužu veikšanas kārtību, to personu loku, kuras ir pakļautas minētajām veselības pārbaudēm, kā arī veselības pārbaužu periodiskumu un apjomu.
+(2) Izdevumus, kas saistīti ar personas obligāto periodisko veselības pārbaudi, sedz darba devējs. Izdevumus, kas saistīti ar obligāto pirmreizējo veselības pārbaudi pirms darba tiesisko attiecību uzsākšanas, pēc savstarpējas vienošanās sedz attiecīgā persona no saviem līdzekļiem vai darba devējs.
