@@ -18,7 +18,7 @@
 8) Protokola par cīņu pret nelikumīgu vardarbību lidostās, kas apkalpo starptautisko civilo aviāciju, kas papildina Konvenciju par cīņu pret nelikumīgām darbībām, kas apdraud civilās aviācijas drošību, 2.pantā minētās darbības;
 9) Konvencijas par tādu noziedzīgu nodarījumu novēršanu, kas vērsti pret starptautiski aizsargātām personām, un par šādu noziedzīgu nodarījumu izdarījušo sodīšanu 2.pantā minētās darbības;
 10) 1988.gada 10.marta Protokola par prettiesisku darbību pret nostiprinātu platformu drošību kontinentālajā šelfā apkarošanu 2.pantā minētās darbības;
-11) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu);
-12) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu);
-13) (punkts stājas spēkā 23.05.2018. un iekļauts likuma redakcijā uz 23.05.2018. Sk. Pārejas noteikumu 18. punktu).
+11) ceļošanu terorisma nolūkā;
+12) iesaistīšanos teroristu grupā, tās organizēšanu vai vadīšanu;
+13) personas vervēšanu, apmācīšanu vai apmācīšanos terorismam.
 (4) Terorisma finansēšana ir arī jebkādā veidā iegūtu finanšu līdzekļu vai mantas tieša vai netieša vākšana vai nodošana teroristu grupas vai atsevišķa terorista rīcībā.
