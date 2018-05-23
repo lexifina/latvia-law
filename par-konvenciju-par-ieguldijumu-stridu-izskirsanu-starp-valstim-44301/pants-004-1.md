@@ -1,0 +1,1 @@
+4.¹ pants. Atbilstoši Konvencijas 54. panta otrajai daļai vispārējās jurisdikcijas tiesa, kurai lieta ir piekritīga saskaņā ar Civilprocesa likumu, lemj par šķīrējtiesas nolēmumu atzīšanu un izpildi Latvijas Republikā.
