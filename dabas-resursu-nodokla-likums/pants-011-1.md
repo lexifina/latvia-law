@@ -1,0 +1,8 @@
+11.¹ pants. Finanšu nodrošinājuma mērķis un veids
+(1) Finanšu nodrošinājums ir nodokļa maksājuma nodrošinājums, ar kuru pilnībā vai daļēji tiek segts nodoklis par noteikta veida atkritumu apjomu, kas nav pārstrādāts vai reģenerēts atbilstoši normatīvo aktu prasībām un apsaimniekošanas līgumam konkrētā kalendārajā gadā, kad bija piemērots atbrīvojums no nodokļa samaksas par transportlīdzekļiem, iepakojumu vai vienreiz lietojamiem galda traukiem un piederumiem vai par videi kaitīgām precēm saskaņā ar šā likuma 7., 8. vai 9. pantu.
+(2) Finanšu nodrošinājuma mērķis ir radīt papildu garantiju nodokļa maksājuma saistības izpildei, ja nodokļa maksātājs nav izpildījis savas saistības attiecībā uz nodokļa samaksu, lai nepieļautu, ka Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošas iestādes lēmumā noteiktā nodokļa maksājuma iekasēšana varētu kļūt apgrūtināta vai neiespējama.
+(3) Finanšu nodrošinājuma apmēru aprēķina, ievērojot nodokļa objektu veidus, nodokļa likmes un aprēķināto nodokļa summu finanšu nodrošinājuma spēkā esības periodā.
+(4) Par finanšu nodrošinājumu izmanto kredītiestādes izsniegtu pirmā pieprasījuma garantijas vēstuli vai apdrošinātāja izsniegtu apdrošināšanas polisi, kurā ietverta apdrošinātāja neatsaucama apņemšanās izmaksāt apdrošināšanas atlīdzību pēc Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošas iestādes pirmā pieprasījuma, kā arī šā pieprasījuma neapstrīdamība.
+(5) Ministru kabinets nosaka:
+1) finanšu nodrošinājuma apmēra aprēķināšanas kārtību, finanšu nodrošinājuma minimālo un maksimālo summu;
+2) kārtību, kādā iesniedz, pagarina un atjauno finanšu nodrošinājumu.

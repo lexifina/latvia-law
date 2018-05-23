@@ -1,5 +1,6 @@
 23.pants. Nodokļa aprēķināšana par videi kaitīgām precēm
 (1) Nodokli par videi kaitīgām precēm aprēķina atbilstoši nodokļa likmēm pa preču veidiem saskaņā ar šā likuma 6.pielikumu.
+(1¹) Šā likuma 3. panta 1.¹ daļā minētajam nodokļa maksātājam nodokli par videi kaitīgām precēm aprēķina Vides aizsardzības un reģionālās attīstības ministrijas padotībā esoša iestāde atbilstoši nodokļa likmēm par preču veidiem, kas nav pārstrādāti vai reģenerēti, saskaņā ar šā likuma 6. pielikumu.
 (2) Nodokli par videi kaitīgu preču realizāciju Latvijā vai par videi kaitīgu preču izmantošanu savas saimnieciskās darbības nodrošināšanai aprēķina euro par katru preces fizisko vienību vai svara vienību.
 (3) (Izslēgta ar 19.12.2006. likumu)
 (4) (Izslēgta ar 19.12.2006. likumu)
