@@ -19,12 +19,14 @@
 9) atteikties no 3.panta astotajā daļā noteiktās fotografēšanas.
 (4) Īslaicīgās aizturēšanas vietu drīkst apmeklēt:
 1) Kriminālprocesa likumā paredzētās personas procesuālo darbību veikšanai;
+1¹) Kriminālprocesa likumā noteiktie nepilngadīgā aizturētā tuvinieki;
 2) valsts un starptautisko cilvēktiesību aizsardzības institūciju pārstāvji;
 3) neatliekamās medicīniskās palīdzības un avārijas dienestu darbinieki;
 4) diplomātiskās vai konsulārās pārstāvniecības pārstāvji.
 (5) Neatliekamās medicīniskās palīdzības un avārijas dienestu darbinieki īslaicīgās aizturēšanas vietu apmeklē policijas amatpersonu pavadībā.
 (6) Valsts un starptautisko cilvēktiesību aizsardzības institūciju pārstāvji, izņemot tiesībsargu un personu, kas pārstāv Eiropas Komiteju spīdzināšanas un necilvēcīgas vai pazemojošas rīcības vai soda novēršanai, par īslaicīgās aizturēšanas vietu apmeklējumu iepriekš informē attiecīgās policijas struktūrvienības vadību.
 (6¹) Tiem īslaicīgās aizturēšanas vietā ievietotajiem ārvalstniekiem, kuri aizturēti, apcietināti vai notiesāti kriminālprocesuālā kārtībā, ir tiesības vienatnē bez ierobežojumiem tikties ar savas valsts diplomātiskās vai konsulārās pārstāvniecības pārstāvi. Diplomātiskās vai konsulārās pārstāvniecības pārstāvis par īslaicīgās aizturēšanas vietas apmeklējumu iepriekš informē attiecīgās policijas struktūrvienības vadību.
+(6²) Nepilngadīgajam aizturētajam īslaicīgās aizturēšanas vietā ir tiesības uz vienu stundu ilgu satikšanos vienatnē ar ne vairāk kā diviem tuviniekiem, ja tas netraucē kriminālprocesa mērķa sasniegšanu. Tuvinieki satikšanos iepriekš saskaņo ar procesa virzītāju.
 (7) Personām, kuras īslaicīgās aizturēšanas vietā nonāk saskarsmē ar aizturētajiem, ir pienākums nodot glabāšanā šā panta otrajā daļā minētos priekšmetus (izņemot profesionālo pienākumu veikšanai nepieciešamos priekšmetus).
 (8) Lai nodrošinātu šajā likumā paredzēto prasību izpildi, policijas darbiniekam īslaicīgās aizturēšanas vietā ir tiesības jebkurā laikā veikt kameru, aizturētā un viņa personīgo mantu pārmeklēšanu.
 (9) Glabāšanai kamerā atļauto priekšmetu sarakstu nosaka Ministru kabinets.

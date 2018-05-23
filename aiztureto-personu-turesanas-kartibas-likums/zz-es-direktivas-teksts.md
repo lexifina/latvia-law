@@ -1,1 +1,3 @@
-Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2013.gada 22.oktobra direktīvas 2013/48/ES par tiesībām uz advokāta palīdzību kriminālprocesā un Eiropas apcietināšanas ordera procesā, par tiesībām uz to, ka pēc brīvības atņemšanas informē trešo personu, un par tiesībām, kamēr atņemta brīvība, sazināties ar trešām personām un konsulārajām iestādēm.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2013. gada 22. oktobra direktīvas 2013/48/ES par tiesībām uz advokāta palīdzību kriminālprocesā un Eiropas apcietināšanas ordera procesā, par tiesībām uz to, ka pēc brīvības atņemšanas informē trešo personu, un par tiesībām, kamēr atņemta brīvība, sazināties ar trešām personām un konsulārajām iestādēm;
+2) Eiropas Parlamenta un Padomes 2016. gada 11. maija direktīvas (ES) 2016/800 par procesuālajām garantijām bērniem, kuri ir aizdomās turētie vai apsūdzētie kriminālprocesā.
