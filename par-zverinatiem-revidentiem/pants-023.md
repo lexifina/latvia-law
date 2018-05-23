@@ -6,7 +6,7 @@
 3) komercsabiedrība nav uzsākusi revīzijas pakalpojumu sniegšanu 12 mēnešu laikā no licences saņemšanas dienas;
 4) komercsabiedrība ir pārtraukusi revīzijas pakalpojumu sniegšanu uz laiku, kas ilgāks par 12 mēnešiem;
 5) komercsabiedrība būtiski pārkāpj citus šā likuma vai regulas Nr. 537/2014 noteikumus;
-6) komercsabiedrība būtiski pārkāpj citus likumus un normatīvos aktus;
+6) komercsabiedrība būtiski pārkāpj Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma, citu likumu vai normatīvo aktu prasības;
 7) komercsabiedrība ir iesniegusi iesniegumu par licences anulēšanu.
 (3) Ja Latvijas Zvērinātu revidentu asociācija ir konstatējusi apstākļus, kas ļauj lemt par izsniegtās licences anulēšanu, tā, izvērtējusi pārkāpuma raksturu, var pieņemt lēmumu par licences darbības apturēšanu, kuras termiņš nevar būt ilgāks par sešiem mēnešiem.
 (4) Licences darbības apturēšanas laikā zvērinātu revidentu komercsabiedrība nav tiesīga slēgt jaunus līgumus par revīzijas pakalpojumu sniegšanu, bet ir tiesīga turpināt sniegt revīzijas pakalpojumus saskaņā ar līgumiem, kas noslēgti pirms licences darbības apturēšanas dienas. Ja zvērinātu revidentu komercsabiedrība licences darbības apturēšanas laikā turpina sniegt revīzijas pakalpojumus saskaņā ar līgumiem, kas noslēgti pirms licences darbības apturēšanas dienas, Latvijas Zvērinātu revidentu asociācija tās noteiktajā kārtībā nodrošina zvērinātu revidentu komercsabiedrības profesionālās darbības uzraudzību līdz to līgumu izpildei, kuri noslēgti pirms licences darbības apturēšanas dienas.

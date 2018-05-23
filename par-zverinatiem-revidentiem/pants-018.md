@@ -3,4 +3,5 @@
 (2) Zvērināta revidenta sertifikātu anulē arī tām personām, kuras:
 1) saskaņā ar tiesas nolēmumu ir atzītas par rīcībnespējīgām vai ir mirušas;
 2) atkārtoti pārkāpušas šā likuma vai citu zvērinātu revidentu profesionālo darbību reglamentējošo normatīvo aktu un norādījumu, kā arī Latvijā atzīto starptautisko revīzijas standartu, Latvijā atzīto starptautisko publiskā sektora revīzijas standartu prasības vai nav ievērojušas profesionālās ētikas kodeksa normas vai kuru izdarītais pārkāpums vai uzlikto pienākumu nepildīšana nav savienojama ar zvērināta revidenta darbību;
-3) ir iesniegušas iesniegumu par zvērināta revidenta sertifikāta anulēšanu.
+3) būtiski pārkāpušas Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma prasības;
+4) ir iesniegušas iesniegumu par zvērināta revidenta sertifikāta anulēšanu.

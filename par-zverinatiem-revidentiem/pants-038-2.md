@@ -5,7 +5,7 @@
 (4) Par šā likuma un regulas Nr. 537/2014 prasību neievērošanu Finanšu ministrija ir tiesīga piemērot vienu vai vairākas šādas sankcijas vai uzraudzības pasākumus:
 1) izteikt brīdinājumu;
 2) pieprasīt, lai zvērināts revidents vai zvērinātu revidentu komercsabiedrība nekavējoties pārtrauc darbības, kas uzskatāmas par tādām darbībām, kuru rezultātā tiek vai varētu tikt pārkāptas zvērinātu revidentu profesionālo darbību reglamentējošu normatīvo aktu un regulas Nr. 537/2014 prasības;
-3) aizliegt zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai atbildīgajam zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai uz laiku līdz trim gadiem sniegt revīzijas pakalpojumus un parakstīt zvērināta revidenta ziņojumu;
+3) aizliegt zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai atbildīgajam zvērinātam revidentam uz laiku līdz trim gadiem sniegt revīzijas pakalpojumus un parakstīt zvērināta revidenta ziņojumu;
 4) publicēt Finanšu ministrijas mājaslapā internetā publisku paziņojumu par to, ka parakstītais zvērināta revidenta ziņojums neatbilst šajā likumā noteiktajam zvērināta revidenta ziņojuma saturam un regulas Nr. 537/2014 10.pantā noteiktajām revīzijas ziņojuma prasībām;
 5) noteikt pagaidu aizliegumu zvērinātu revidentu komercsabiedrības pārvaldības struktūras loceklim, ja tas ir zvērināts revidents un ir atbildīgs par attiecīgo pārkāpumu, uz laiku līdz trim gadiem pildīt viņam noteiktos pienākumus šajā zvērinātu revidentu komercsabiedrībā;
 6) publicēt Finanšu ministrijas mājaslapā internetā informāciju, kurā norāda par pārkāpumu atbildīgo zvērinātu revidentu (zvērināta revidenta vārds, uzvārds un sertifikāta numurs) un atbildīgo zvērinātu revidentu komercsabiedrību (zvērinātu revidentu komercsabiedrības nosaukums un licences numurs), kā arī izdarītā pārkāpuma būtību;
@@ -14,8 +14,8 @@
 1) pārkāpuma smagumu;
 2) pārkāpuma ilgumu;
 3) personas atbildības pakāpi;
-4) pārkāpuma rezultātā personas gūtos ienākumus;
-5) pārkāpuma rezultātā radīto zaudējumu atlīdzināšanu;
+4) pārkāpuma rezultātā personas gūtos ienākumus, ciktāl tos var noteikt;
+5) pārkāpuma rezultātā radīto zaudējumu atlīdzināšanu, ciktāl tos var noteikt;
 6) personas sadarbību ar Finanšu ministriju pārkāpuma izmeklēšanā;
 7) personas finansiālo stāvokli: zvērinātu revidentu komercsabiedrībai - kopējo neto apgrozījumu iepriekšējā pārskata gadā, zvērinātam revidentam, kurš veic profesionālo darbību kā individuāls komersants vai pašnodarbināta persona, - kopējo apgrozījumu (ieņēmumus) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā;
 8) personas iepriekš izdarītos pārkāpumus profesionālo pakalpojumu sniegšanas jomā.
