@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada pavasara sesija",
+ "sede": 11,
+ "datums": "2018-05-24",
+ "ieraksts": {
+  "dkp_id": "0928618b-fd20-4d8a-9d72-bf8c5b30fab8",
+  "lastmodtime": "\"AAAAAAGRBFI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Dzintars#Romāns#Romans#Varis#Jānis#Einārs#Jānis#Mihails#Vladimirs#Andris#Artis#Askolds#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Valdis#Arvīds#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Silvija#Andris#Juris#Inguna#Artis#Romāns#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Ojārs Ēriks#Valters#Inese#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Rihards#Kārlis#Gundars#Jānis#Sergejs#Aivars#Aleksandrs#Aija#Jeļena#Mārtiņš#Līga#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Kļaviņš#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Skujiņš#Platpers#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Vectirāns#Rībena#Gustovskis#Mežeckis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Kalniņš#Dambe#Aizstrauta#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Melgailis#Seržants#Daudze#Tutins#Potapkins#Meija#Kiršteins#Barča#Lazareva#Šics#Kozlovska#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK# #LRA#ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#ZZS#ZZS#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS# #VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS# #VL-TB/LNNK#ZZS#VL-TB/LNNK#VIENOTĪBA# #VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#ZZS#VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK# # #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#LRA#ZZS#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Atturas#Par#Par#Pret#Pret#Par#Atturas#Par#Atturas#Nebalsoja#Atturas#Atturas#Pret#Atturas#Par#Atturas#Par#Pret#Atturas#Atturas#Par#Atturas#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Atturas#Par#Par#Atturas#Nebalsoja#Par#Pret#Pret#Nebalsoja#Atturas#Atturas#Nebalsoja#Par#Par#Atturas#Atturas#Par#Par#Par#Pret#Par#Par#Par#Atturas#Atturas#Atturas#Par#Par#Pret#Nebalsoja#Par#Par#Atturas#Par#Atturas#Pret#Pret#Atturas#Par#Par#Par#Pret#Atturas#Pret#Pret#Atturas#Pret#Atturas#Nebalsoja#Par#Atturas#Atturas#Atturas#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.05.2018 09:30:06",
+  "VOTEMOTIVE": "Par Edvarda Kušnera apstiprināšanu par Latvijas Bankas padomes locekli (732/Lm12)",
+  "VOTING_ID": "306614f8-1e66-4ece-bf4b-759a820f658f",
+  "VOTERESULT_ABSTAIN": "28",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "36",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada pavasara sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/709fc14b-f8f3-4d50-8950-4263fd6c0b0d/download/12.saeimas-2018.gada-pavasara-sesija-11-vote.xml",
+  "sha256": "c4fc20cef8d33a3d934f438da6d3df4640300d073261c2337582308173841e68",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
