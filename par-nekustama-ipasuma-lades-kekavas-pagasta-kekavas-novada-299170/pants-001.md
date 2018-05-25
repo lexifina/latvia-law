@@ -1,0 +1,2 @@
+1. pants. (1) Atsavināt sabiedrības vajadzībām - valsts galvenā autoceļa projekta "E67/A7 Ķekavas apvedceļš" īstenošanai - nekustamā īpašuma "Lādes" Ķekavas pagastā, Ķekavas novadā (kadastra Nr. 8070 007 0246, reģistrēts Rīgas rajona tiesas zemesgrāmatu nodaļas Ķekavas pagasta zemesgrāmatas nodalījumā Nr. 100000109407), sastāvā esošo zemes gabalu (kadastra apzīmējums 8070 007 1344) 2,35 hektāru platībā.
+(2) Šā panta pirmajā daļā minētā atsavināmā zemes gabala robežas attēlotas šā likuma 1. pielikumā, un atsavināmā zemes gabala robežu apraksts dots šā likuma 2. pielikumā.
