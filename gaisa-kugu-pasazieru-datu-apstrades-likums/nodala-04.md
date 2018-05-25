@@ -1,2 +1,2 @@
 IV nodaļa
-Pasažieru datu izsniegšana ārvalstīm
+Pasažieru datu apmaiņa starp valstīm un starptautiskajām organizācijām

@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2016. gada 27. aprīļa direktīvas (ES) 2016/681 par pasažieru datu reģistra (PDR) datu izmantošanu teroristu nodarījumu un smagu noziegumu novēršanai, atklāšanai, izmeklēšanai un saukšanai pie atbildības par tiem.

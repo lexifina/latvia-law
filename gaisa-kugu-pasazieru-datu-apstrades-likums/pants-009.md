@@ -7,3 +7,4 @@
 5) Starptautiskās Kriminālpolicijas organizācijas (Interpola) datubāzēs attiecībā uz meklējamām personām.
 (2) Par datu automatizētās pārbaudes rezultātā konstatēto sakritību reģistrs nosūta automātisku paziņojumu Pasažieru informācijas nodaļai, norādot tos pasažieru datus, kuri reģistrā iekļauti saistībā ar konkrēto ierakstu.
 (3) Apstrādājot reģistra automātiskajā paziņojumā ietvertos datus, Pasažieru informācijas nodaļa pārliecinās par automatizētās pārbaudes rezultāta precizitāti attiecīgajā informācijas sistēmā. Pārliecinājusies par datu atbilstību, Pasažieru informācijas nodaļa rīkojas, ievērojot šā panta pirmajā daļā minēto informācijas sistēmu darbību regulējošus normatīvos aktus.
+(4) Individuālajā pārbaudē neapstiprinātu automatizētu pārbaudes rezultātu var glabāt, līdz tiek dzēsti tā pamatā esošie pasažiera dati.
