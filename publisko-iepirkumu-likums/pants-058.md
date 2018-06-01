@@ -3,6 +3,7 @@
 (2) Elektroniskās izsoles objekts var būt:
 1) cena vai cena un iepirkuma procedūras dokumentos norādītās piedāvājuma elementu jaunās vērtības, ja piedāvājuma izvērtēšanas kritērijs ir cenas vai izmaksu efektivitātes un ar iepirkuma līguma priekšmetu saistītu kvalitātes kritēriju attiecība vai zemākās izmaksas, piemērojot izmaksu efektivitātes pieeju;
 2) cena, ja piedāvājuma izvērtēšanas kritērijs ir tikai tā.
+(2¹) Publiski būvdarbu līgumi vai publiski pakalpojuma līgumi, kuru priekšmets ir intelektuāls darbs (piemēram, projektēšana), nav elektronisko izsoļu objekts.
 (3) Ja pieņemts lēmums par elektroniskās izsoles rīkošanu, pasūtītājs to norāda paziņojumā par līgumu.
 (4) Ja tiek rīkota elektroniskā izsole, iepirkuma procedūras dokumentos papildus citām ziņām norāda arī:
 1) elektroniskās izsoles objektu raksturojumu, ja šie raksturlielumi ir mērāmi un to vērtību var izteikt skaitļos vai procentos;

@@ -1,2 +1,2 @@
-15. pants. Nosacījumi attiecībā uz Pasaules Tirdzniecības organizācijas nolīgumu par valsts līgumiem un citiem starptautiskajiem līgumiem
+15. pants. Nosacījumi attiecībā uz Pasaules Tirdzniecības organizācijas Nolīgumu par valsts līgumiem un citiem starptautiskajiem līgumiem
 Pasūtītājs, ciktāl tas ir noteikts Pasaules Tirdzniecības organizācijas Nolīgumā par valsts iepirkumu un citos Eiropas Savienībai saistošos starptautiskajos līgumos, piemēro vismaz tikpat labvēlīgus nosacījumus minēto līgumslēdzēju būvdarbiem, piegādēm, pakalpojumiem un piegādātājiem kā Eiropas Savienības būvdarbiem, piegādēm, pakalpojumiem un piegādātājiem.

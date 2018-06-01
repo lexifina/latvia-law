@@ -9,8 +9,7 @@
 7) finanšu pakalpojumiem, kas saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pirkšanu, pārdošanu vai nodošanu, Latvijas Bankas pakalpojumiem un darbībām, ko veic ar Eiropas Finanšu stabilitātes instrumenta un Eiropas stabilizācijas mehānisma palīdzību;
 8) aizņēmumiem, kas ir vai nav saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pārdošanu, pirkšanu vai nodošanu;
 9) fizisko personu pakalpojumiem saskaņā ar darba līgumiem;
-10) pakalpojumiem civilās aizsardzības, civilās drošības un katastrofu novēršanas jomā, kurus sniedz biedrības, nodibinājumi vai apvienības un uz kuriem attiecas kāds no šādiem CPV kodiem: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75252000-7, 75222000-8, 98113100-9 un
-85143000-3, izņemot ar pacientu transportēšanu saistītus neatliekamās medicīniskās palīdzības pakalpojumus;
+10) pakalpojumiem civilās aizsardzības, civilās drošības un katastrofu novēršanas jomā, kurus sniedz biedrības, nodibinājumi vai apvienības un uz kuriem attiecas kāds no šādiem CPV kodiem: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 un 85143000-3, izņemot ar pacientu transportēšanu saistītus neatliekamās medicīniskās palīdzības pakalpojumus;
 11) sabiedriskā transporta pakalpojumiem, kas tiek sniegti, izmantojot dzelzceļu vai metro;
 12) pakalpojumiem, kurus sniedz cits pasūtītājs vai pasūtītāju apvienība, kam saskaņā ar ārējiem normatīvajiem aktiem ir izņēmuma tiesības sniegt attiecīgo pakalpojumu.
 (2) Šo likumu piemēro tikai publiskiem pakalpojuma līgumiem par pētniecības un izstrādes pakalpojumiem, kuru CPV kods ir no 73000000-2 līdz 73120000-9, 73300000-5, 73420000-2 un 73430000-5, ja vienlaikus pastāv šādi nosacījumi:
@@ -18,9 +17,9 @@
 2) pasūtītājs pilnībā samaksās par sniegto pakalpojumu.
 (3) Šo likumu nepiemēro:
 1) iepirkumiem, lai nodrošinātu Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma 3., 4., 5., 6. un 7. pantā minētās darbības šajos pantos noteiktajās jomās;
-2) iepirkumiem, kuri noteikti kā izņēmums Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma nepiemērošanai;
-3) universālā pasta pakalpojuma sniedzēja iepirkumiem.
-(4) Šo likumu nepiemēro, ja slēdz publisku pakalpojuma līgumu par:
+2) iepirkumiem, kuri noteikti kā Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma piemērošanas izņēmums;
+3) (izslēgts ar 26.04.2018. likumu).
+(4) Šo likumu nepiemēro universālā pasta pakalpojuma sniedzējs, ja slēdz publisku pakalpojuma līgumu par:
 1) pievienotās vērtības pakalpojumu sniegšanu, kuri saistīti ar elektroniskajiem līdzekļiem un kurus nodrošina tikai ar minētajiem līdzekļiem (tai skaitā kodētu dokumentu drošu pārsūtīšanu, izmantojot elektroniskos līdzekļus, elektroniskā pasta adrešu pārvaldības pakalpojumus un reģistrēta elektroniskā pasta pārsūtīšanu);
 2) finanšu pakalpojumiem, uz kuriem attiecas CPV kodi no 66100000-1 līdz 66720000-3 un kuri ietver naudas pārvedumus pa pastu un pasta žiro pārvedumus;
 3) filatēlijas pakalpojumiem;

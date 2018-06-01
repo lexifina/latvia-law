@@ -3,7 +3,7 @@
 (2) Iesniegumu par šā panta pirmajā daļā minētajiem pārkāpumiem (izņemot šā panta trešajā daļā minētos gadījumus) Iepirkumu uzraudzības birojam var iesniegt līdz iepirkuma līguma vai vispārīgās vienošanās noslēgšanai šādos termiņos:
 1) 10 dienu laikā pēc dienas, kad šā likuma 37. pantā minētā informācija nosūtīta attiecīgajai personai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, vai pa faksu vai nodota personiski;
 2) 15 dienu laikā pēc dienas, kad šā likuma 37. pantā minētā informācija nosūtīta attiecīgajai personai pa pastu;
-3) 10 dienu laikā pēc dienas, kad šā likuma 30. panta pirmajā daļā minētais paziņojums publicēts Eiropas Savienības Oficiālajā Vēstnesī.
+3) 10 dienu laikā pēc dienas, kad šā likuma 30. panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī, ja iepirkuma līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka.
 (3) Iesniegumu attiecībā uz iepirkuma procedūras dokumentos iekļautajām prasībām var iesniegt šādos termiņos:
 1) ne vēlāk kā septiņas dienas pirms tam, kad beidzas piedāvājumu iesniegšanas termiņš, - attiecībā uz atklāta konkursa nolikumā un paziņojumā par līgumu iekļautajām prasībām;
 2) ne vēlāk kā četras darbdienas pirms tam, kad beidzas pieteikumu iesniegšanas termiņš, - attiecībā uz slēgta konkursa kandidātu atlases nolikumā un paziņojumā par līgumu, konkursa dialoga dokumentos un paziņojumā par līgumu vai konkursa procedūras ar sarunām dokumentos un paziņojumā par līgumu, vai inovācijas partnerības procedūras dokumentos un paziņojumā par līgumu iekļautajām prasībām;

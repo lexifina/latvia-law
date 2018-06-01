@@ -3,4 +3,4 @@
 (2) To autotransporta līdzekļu kategorijas, kuru iepirkumos piemēro šā panta prasības, kā arī minēto autotransporta līdzekļu ekspluatācijas izmaksu aprēķināšanas metodiku nosaka Ministru kabinets.
 (3) Šā panta pirmās daļas prasības pasūtītājs izpilda vienā no šādiem veidiem:
 1) tehniskajās specifikācijās iekļauj prasības attiecībā uz enerģijas patēriņa un šā panta pirmajā daļā minēto vielu emisiju apjomu, kā arī, ja nepieciešams, citiem ietekmes uz vidi aspektiem;
-2) izvērtē ekspluatācijas ietekmes uz enerģētiku un vidi faktorus saskaņā ar šā likuma 51. panta otrās daļas 1. punktu. Pasūtītājs ir tiesīgs minētos faktorus izteikt un izvērtēt naudas izteiksmē, izmantojot Ministru kabineta noteikto metodiku autotransporta līdzekļu ekspluatācijas izmaksu aprēķināšanai.
+2) izvērtē ekspluatācijas ietekmes uz enerģētiku un vidi faktorus, nosakot piedāvājumu izvērtēšanas kritērijus saskaņā ar šā likuma 51. pantu. Pasūtītājs ir tiesīgs minētos faktorus izteikt un izvērtēt naudas izteiksmē, izmantojot Ministru kabineta noteikto metodiku autotransporta līdzekļu ekspluatācijas izmaksu aprēķināšanai.

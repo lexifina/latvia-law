@@ -8,7 +8,7 @@
 6) iepirkuma līgums noslēgts, neievērojot Ministru kabineta noteikumos, kas regulē dinamiskās iepirkumu sistēmas izveidi un darbību, noteikto kārtību, ja konkrētā iepirkuma līguma līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka.
 (2) Šā panta pirmās daļas 1. vai 2. punktā minētajos gadījumos iepirkuma līgumu vai vispārīgo vienošanos neatzīst par spēkā neesošu, negroza vai neatceļ to noteikumus, nesaīsina iepirkuma līguma vai vispārīgās vienošanās termiņu, lai arī ir pieļauti likuma pārkāpumi, ja vienlaikus pastāv šādi nosacījumi:
 1) pasūtītājs ir publicējis šā likuma 30. panta pirmajā daļā minēto paziņojumu;
-2) iepirkuma līgums vai vispārīgā vienošanās tika noslēgta ne agrāk kā pēc 10 dienām un papildus vienas darbdienas pēc dienas, kad šā likuma 30. panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē;
+2) iepirkuma līgums vai vispārīgā vienošanās tika noslēgta ne agrāk kā pēc 10 dienām un papildus vienas darbdienas pēc dienas, kad šā likuma 30. panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī, ja iepirkuma līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka;
 3) ir ievērots šā likuma 68. panta sestajā daļā noteiktais aizliegums slēgt iepirkuma līgumu vai vispārīgo vienošanos.
 (3) Šā panta pirmās daļas 5. vai 6. punktā minētajos gadījumos iepirkuma līgumu neatzīst par spēkā neesošu, negroza vai neatceļ tā noteikumus, nesaīsina tā termiņu, lai arī ir pieļauti likuma pārkāpumi, ja vienlaikus pastāv šādi nosacījumi:
 1) pasūtītājs ir informējis pretendentus saskaņā ar šā likuma 37. pantu;

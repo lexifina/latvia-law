@@ -1,0 +1,1 @@
+10. Šā likuma 9. panta astotās daļas 5. punktā un 42. panta pirmās daļas 12., 13. un 14. punktā minētos kandidātu vai pretendentu izslēgšanas nosacījumus neattiecina uz tiem iepirkumiem vai tām iepirkuma procedūrām, kuras uzsāktas vai izsludinātas pirms šo normu spēkā stāšanās dienas.

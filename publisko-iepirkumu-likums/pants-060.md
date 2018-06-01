@@ -7,21 +7,21 @@
 4) līgumcenu un tās samaksas kārtību, kā arī, ja pasūtītājs paredzējis, maksājumu kārtību apakšuzņēmējiem šā likuma 63. pantā minētajā gadījumā;
 5) iepirkuma līguma izpildes termiņu, vietu un nosacījumus;
 6) līgumslēdzēju pušu atbildību par radītajiem zaudējumiem un iepirkuma līguma neizpildīšanu;
-7) piedāvājumā norādīto apakšuzņēmēju un personāla nomaiņas un jaunu apakšuzņēmēju un personāla piesaistes kārtību atbilstoši šā likuma 63. panta noteikumiem;
+7) piedāvājumā norādīto apakšuzņēmēju un personāla nomaiņas un jaunu apakšuzņēmēju un personāla piesaistes kārtību atbilstoši šā likuma 62. panta noteikumiem;
 8) iepirkuma līguma grozīšanas kārtību un kārtību, kādā pieļaujama atkāpšanās no iepirkuma līguma;
 9) citus noteikumus.
 (3) Pasūtītājs ir tiesīgs paredzēt speciālus iepirkuma līguma izpildes noteikumus galvenokārt saistībā ar ekonomiskiem un sociāliem apstākļiem, inovācijām vai vides aizsardzības prasībām, ievērojot nosacījumu, ka šie noteikumi nav pretrunā ar Eiropas Savienības tieši piemērojamiem tiesību aktiem minētajās jomās un ir norādīti tehniskajās specifikācijās vai paziņojumā par līgumu, vai iepirkuma procedūras dokumentos un ir saistīti ar attiecīgā iepirkuma līguma priekšmetu. Pasūtītājs iepirkuma līguma sagatavošanā var izmantot nozaru ekspertu vai organizāciju izstrādātas vadlīnijas iepirkumu veikšanai un līgumu slēgšanai, kā arī standartlīgumus. Slēdzot iepirkuma līgumu, tiek nodrošināta samērīga līgumslēdzēju pušu tiesību un tiesisko interešu ievērošana.
 (4) Iepirkuma līgumu slēdz uz laiku, ne ilgāku par pieciem gadiem. Pasūtītājs ir tiesīgs noslēgt iepirkuma līgumu uz ilgāku laiku, ja pastāv kāds no šādiem nosacījumiem:
 1) tas ir paredzēts citā likumā;
 2) tas ir būtiski nepieciešams iepirkuma līguma izpildes nodrošināšanai ar iepirkuma līguma priekšmetu tieši saistītu tehnisku vai ekonomisku apstākļu dēļ. Šajā gadījumā pirms iepirkuma uzsākšanas pasūtītājam, kas ir tiešās pārvaldes iestāde, nepieciešams saņemt Ministru kabineta atļauju, bet pasūtītājam, kas ir pastarpinātās pārvaldes iestāde, - attiecīgās atvasinātās publiskās personas orgāna atļauju.
-(5) Šā panta ceturtajā daļā minētajos gadījumos pasūtītājs paziņojumā par līguma slēgšanas tiesību piešķiršanu norāda pamatojumu tādu apstākļu esībai, kuri dod tiesības iepirkuma līgumu noslēgt uz ilgāku laiku.
+(5) Šā panta ceturtajā daļā minētajos gadījumos pasūtītājs paziņojumā par līguma slēgšanas tiesību piešķiršanu, informatīvajā paziņojumā par noslēgto līgumu vai paziņojumā par sociālajiem un citiem īpašiem pakalpojumiem norāda pamatojumu tādu apstākļu esībai, kuri dod tiesības iepirkuma līgumu noslēgt uz ilgāku laiku.
 (6) Iepirkuma līgumu vai vispārīgo vienošanos slēdz ne agrāk kā nākamajā darbdienā pēc nogaidīšanas termiņa beigām, ja Iepirkumu uzraudzības birojam nav šā likuma 68. pantā noteiktajā kārtībā iesniegts iesniegums par iepirkuma procedūras pārkāpumiem.
 (7) Šā panta sestajā daļā minētais nogaidīšanas termiņš ir:
-1) 10 dienas pēc dienas, kad šā likuma 37. panta otrajā daļā minētā informācija nosūtīta visiem pretendentiem elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, faksu, vai nodota personiski, un papildus viena darbdiena;
+1) 10 dienas pēc dienas, kad šā likuma 37. panta otrajā daļā minētā informācija nosūtīta visiem pretendentiem elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, pa faksu vai nodota personiski, un papildus viena darbdiena;
 2) 15 dienas pēc šā likuma 37. panta otrajā daļā minētās informācijas nosūtīšanas dienas, ja kaut vienam pretendentam tā nosūtīta pa pastu, un papildus viena darbdiena.
 (8) Ja šā panta septītās daļas 1. punktā minētā desmitā diena un 2. punktā minētā piecpadsmitā diena ir sestdiena, svētdiena vai likumā noteikta svētku diena, nogaidīšanas termiņš pagarināms par vienu darbdienu.
 (9) Iepirkuma līgumu vai vispārīgo vienošanos var slēgt, neievērojot šā panta sesto daļu, ja:
-1) vienīgajam pretendentam ir piešķirtas iepirkuma līguma slēgšanas tiesības un nav kandidātu vai pretendentu, kas būtu tiesīgi iesniegt iesniegumu šā likuma 68. pantā noteiktajā kārtībā;
+1) vienīgajam pretendentam ir piešķirtas iepirkuma līguma slēgšanas tiesības un nav kandidātu, kas būtu tiesīgi iesniegt iesniegumu šā likuma 68. pantā noteiktajā kārtībā;
 2) tiek rīkots šā likuma 2. pielikumā noteikto sociālo un citu īpašu pakalpojumu iepirkums pasūtītājam neparedzamu ārkārtas apstākļu dēļ;
 3) tiek piemērota sarunu procedūra;
 4) līgumu slēdz vispārīgās vienošanās ietvaros saskaņā ar šā likuma 56. vai 59. pantu;
