@@ -1,0 +1,1 @@
+34. Šā likuma 5.¹ panta pirmās daļas 2. punktā minētās personas, ja tās pašvaldības domes uzdevumā nodrošina juridisko atbalstu bāriņtiesai lēmuma sagatavošanā un citu bāriņtiesai noteikto uzdevumu izpildē, un 19.² punktā minētās personas speciālās zināšanas bērnu tiesību aizsardzības jomā apgūst ne vēlāk kā līdz 2020. gada 31. decembrim.

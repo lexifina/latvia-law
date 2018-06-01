@@ -1,0 +1,1 @@
+35. Šā likuma grozījumi par 27. panta trešās daļas izteikšanu jaunā redakcijā un 3.¹ daļas izslēgšanu, kā arī šā likuma grozījumi par 45.⁴ panta otrās daļas izteikšanu jaunā redakcijā un papildināšanu ar 2.¹ un 2.² daļu stājas spēkā 2018. gada 1. septembrī.

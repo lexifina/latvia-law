@@ -1,7 +1,7 @@
 58.pants. Likumpārkāpumu profilakses darba organizācija
 (1) Likumpārkāpumu profilakses darbu ar bērniem veic pašvaldība sadarbībā ar bērnu vecākiem, izglītības iestādēm, valsts policiju, Valsts probācijas dienestu, ja bērns ir probācijas klients, sabiedriskajām organizācijām un citām iestādēm.
 (2) Pašvaldība profilakses lietu iekārto un uzvedības sociālās korekcijas programmu izstrādā katram bērnam, kurš:
-1) izdarījis noziedzīgu nodarījumu un pirmstiesas izmeklēšanas laikā nav apcietināts;
+1) izdarījis noziedzīgu nodarījumu;
 2) atzīts par vainīgu noziedzīga nodarījuma izdarīšanā, bet sods nav saistīts ar brīvības atņemšanu;
 3) atbrīvots no kriminālatbildības;
 4) atbrīvots no ieslodzījuma vai soda izciešanas vietas;
