@@ -1,5 +1,6 @@
 17.pants. Laulības noslēgšanai nepieciešamie dokumenti
-(1) Personas, kuras vēlas noslēgt laulību, personīgi iesniedz dzimtsarakstu iestādei noteikta parauga abu parakstītu kopīgu iesniegumu. Iesniedzot iesniegumu, tās uzrāda derīgu personu apliecinošu dokumentu.
+(1) Personas, kuras vēlas noslēgt laulību, personīgi iesniedz dzimtsarakstu iestādei noteikta parauga abu parakstītu kopīgu iesniegumu, izņemot šā panta 1.¹ daļā noteikto gadījumu. Iesniedzot iesniegumu personīgi, tās uzrāda derīgu personu apliecinošu dokumentu.
+(1¹) Pilngadīgi Latvijas pilsoņi vai pilngadīgi Latvijas nepilsoņi iesniegumu par laulības noslēgšanu var iesniegt arī elektroniski tajā dzimtsarakstu nodaļā, kurā vēlas noslēgt laulību, ja iesniegums parakstīts ar drošu elektronisko parakstu un tam ir laika zīmogs.
 (2) Personas, kuras agrāk bijušas citā laulībā un ziņas par laulības šķiršanu nav iekļautas Iedzīvotāju reģistrā, uzrāda vienu no šādiem dokumentiem:
 1) bijušā laulātā miršanas apliecību;
 2) dzimtsarakstu nodaļas vai zvērināta notāra izsniegtu laulības šķiršanas apliecību;
