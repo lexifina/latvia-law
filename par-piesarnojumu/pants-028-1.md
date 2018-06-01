@@ -6,7 +6,7 @@
 3) iekārtas siltumnīcefekta gāzu emisijas avoti;
 4) operatora plānotais piesārņojošas darbības monitorings un ikgadējo emisiju ziņojumu sagatavošanas kārtība.
 (3) Iesniegumam pievieno šā panta otrajā daļā minētās informācijas kopsavilkumu, kurā nelieto specifiskus tehniskos aprakstus un terminus, lai tas būtu viegli saprotams sabiedrībai.
-(3¹) (Daļa stājas spēkā 01.06.2018. un iekļauta likuma redakcijā uz 01.06.2018. Sk. Pārejas noteikumu 55. punktu)
+(3¹) Iesniegumu atļaujas saņemšanai un tam pievienotos pielikumus un dokumentus iesniedz elektroniski, pēc elektroniskas reģistrēšanās sniedzot informāciju tiešsaistes režīmā Valsts vides dienesta vienotās vides informācijas sistēmas "TULPE" tīmekļvietnē. Iesniegumu atļaujas grozīšanai un tam pievienotos pielikumus un dokumentus iesniedz elektroniski, izmantojot Eiropas Komisijas izveidoto un uzturēto vienoto Eiropas Savienības Emisijas kvotu tirdzniecības sistēmas informācijas apmaiņas sistēmu "DECLARE" (turpmāk - ES ETS informācijas apmaiņas sistēma "DECLARE"), kas sabiedrībai ir nepārtraukti pieejama tiešsaistes režīmā.
 (4) Atļauju vai tās grozījumus izsniedz Valsts vides dienests pēc iekārtas darbības vietas. Ja nepieciešams, Valsts vides dienests pieaicina ekspertus, izņemot tos, kuri piedalījušies iesnieguma sagatavošanā.
 (4¹) Atļauju izsniedz A un B kategorijas atļauju izsniegšanas termiņā, ņemot vērā to, vai konkrētajam operatoram ir piešķirama A vai B kategorijas atļauja piesārņojošās darbības veikšanai vai C kategorijas apliecinājums.
 (5) Ja operators nav saņēmis siltumnīcefekta gāzu emisijas atļauju, pēc 2005.gada 1.janvāra tas nedrīkst uzsākt vai turpināt šā likuma 2.pielikumā minētās piesārņojošās darbības.
