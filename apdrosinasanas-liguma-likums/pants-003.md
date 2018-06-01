@@ -1,0 +1,4 @@
+3. pants. Apdrošināšanas līgumam piemērojamais likums
+(1) No apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai piemērojamo likumu nosaka saskaņā ar Eiropas Parlamenta un Padomes 2008. gada 17. jūnija regulas (EK) Nr. 593/2008 par tiesību aktiem, kas piemērojami līgumsaistībām (Roma I) noteikumiem par apdrošināšanas līgumiem (turpmāk - regula Nr. 593/2008).
+(2) Regulas Nr. 593/2008 7. panta 3. punkta "a", "b" un "e" apakšpunktā norādītajos gadījumos apdrošināšanas līguma puses var izvēlēties arī apdrošinātāja mītnes (reģistrācijas) valsts likumu.
+(3) Apdrošinātāja pienākums ir pirms apdrošināšanas līguma noslēgšanas informēt apdrošinājuma ņēmēju par tās valsts likumu, kuru piemēros no apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai, vai informēt apdrošinājuma ņēmēju par valsti, kuras likumu ir iespēja izvēlēties, ja šāda izvēles iespēja pastāv saskaņā ar regulu Nr. 593/2008.

@@ -1,0 +1,5 @@
+23. pants. Apdrošinājuma ņēmēja, apdrošinātā un labuma guvēja savstarpējie pienākumi
+(1) Apdrošinājuma ņēmēja un apdrošinātā savstarpējie pienākumi, ja apdrošinājuma ņēmējs nav vienlaikus arī apdrošinātais, nosakāmi atbilstoši šim likumam un apdrošināšanas līgumam.
+(2) Apdrošinājuma ņēmēja pienākums ir informēt apdrošināto par to, ka viņš tiek apdrošināts. Apdrošinātajam ir pienākums informēt labuma guvēju par noslēgto apdrošināšanas līgumu un apdrošināšanas noteikumiem attiecībā uz labuma guvēju.
+(3) Apdrošinātajam ir tiesības pieprasīt no apdrošinājuma ņēmēja informāciju par apdrošināšanas līgumu, un apdrošinājuma ņēmējs nav tiesīgs atteikt šādas informācijas sniegšanu. Labuma guvējam ir tiesības pieprasīt no apdrošinātā informāciju par apdrošināšanas līgumu, un apdrošinātais nav tiesīgs atteikt šādas informācijas sniegšanu.
+(4) Apdrošinājuma ņēmēja sniegto informāciju apdrošinātājam pielīdzina paša apdrošinātā vai labuma guvēja sniegtajai informācijai. Apdrošinātais vai labuma guvējs nedrīkst gūt labumu no tā, ka apdrošinājuma ņēmējs ir sniedzis nepilnīgu, nepatiesu vai maldinošu informāciju.

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par apdrošināšanas līgumu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 15. nr.; 2000, 13. nr.; 2002, 22. nr.; Latvijas Vēstnesis, 2007, 56. nr.).

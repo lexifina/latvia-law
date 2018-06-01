@@ -1,0 +1,2 @@
+25. pants. Apdrošināšanas prēmijas nesamaksāšana vai nepilna apmēra samaksa
+Ja apdrošinājuma ņēmējs nav samaksājis apdrošināšanas prēmiju vai tās pirmo daļu atbilstoši apdrošināšanas līguma noteikumiem, ir atzīstams, ka apdrošināšanas līgums nav spēkā atbilstoši šā likuma 13. panta noteikumiem. Pārējos apdrošināšanas prēmijas nesamaksāšanas vai nepilna apmēra samaksas gadījumos apdrošinātājs ir tiesīgs izbeigt apdrošināšanas līgumu šā likuma 26. pantā noteiktajā kārtībā.

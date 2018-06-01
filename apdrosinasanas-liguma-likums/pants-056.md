@@ -1,0 +1,3 @@
+56. pants. Apdrošināšanas atlīdzība un maksājumu dažādība
+(1) Ja puses apdrošināšanas līgumā nav vienojušās par kompensācijas principa piemērošanu, maksājumi, ko apdrošinātais vai labuma guvējs saņēmis no citiem avotiem, nesamazina apdrošinātāja saistības.
+(2) Dzīvības apdrošināšanas līgumos ar līdzekļu uzkrāšanu apdrošināšanas atlīdzību apdrošināšanas perioda beigās veido saskaņā ar apdrošināšanas līguma noteikumiem uzkrātie līdzekļi, bet, ja apdrošināšanas gadījums iestājas apdrošināšanas periodā, - apdrošināšanas atlīdzību veido saskaņā ar apdrošināšanas līguma noteikumiem uzkrātie līdzekļi un apdrošināšanas līgumā noteiktā dzīvības apdrošinājuma summa, ja puses apdrošināšanas līgumā nav vienojušās citādi.

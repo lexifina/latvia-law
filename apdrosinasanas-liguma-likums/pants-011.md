@@ -1,0 +1,3 @@
+11. pants. Apdrošināšanas līguma noslēgšana
+(1) Apdrošināšanas līgums uzskatāms par noslēgtu tikai tad, kad apdrošinātājs un apdrošinājuma ņēmējs ir vienojušies par šā likuma 8. panta otrajā daļā un 59. panta pirmajā daļā minētajiem apdrošināšanas līguma noteikumiem.
+(2) Apdrošinājuma ņēmējs izsaka savu piekrišanu apdrošināšanas līguma noslēgšanai atbilstoši apdrošināšanas piedāvājumam, samaksājot apdrošināšanas prēmiju apdrošināšanas piedāvājumā noteiktajā veidā, termiņā un apmērā, vai arī izsaka savu piekrišanu apdrošināšanas līguma noslēgšanai citā apdrošinātāja piedāvātajā veidā. Strīda gadījumā apdrošinātājam ir pienākums pierādīt apdrošināšanas līguma noslēgšanas vai nenoslēgšanas faktu.

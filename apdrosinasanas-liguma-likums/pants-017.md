@@ -1,0 +1,5 @@
+17. pants. Apdrošinātā riska iestāšanās neiespējamība
+(1) Ja līdz apdrošināšanas perioda sākumam apdrošinātā riska iestāšanās iespējamība zūd vai kāds no apdrošinātajiem riskiem jau ir iestājies, apdrošināšanas līgums nav spēkā no tā noslēgšanas dienas.
+(2) Ja šā panta pirmajā daļā minētajos gadījumos apdrošinājuma ņēmējs ir slēdzis apdrošināšanas līgumu ar ļaunu nolūku vai pieļāvis rupju neuzmanību, apdrošinātājs neatmaksā apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju.
+(3) Pārējos šā panta pirmajā daļā minētajos gadījumos apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kas tiek aprēķināta saskaņā ar šā likuma 35. panta piektās daļas noteikumiem.
+(4) Ja apdrošinātā riska iestāšanās iespējamība pārstāj pastāvēt apdrošināšanas periodā, apdrošināšanas līgums nav spēkā no dienas, kad apdrošinātā riska iestāšanās iespējamība pārstājusi pastāvēt. Apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kas tiek aprēķināta saskaņā ar šā likuma 35. panta piektās daļas noteikumiem.

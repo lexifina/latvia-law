@@ -1,0 +1,2 @@
+60. pants. Apdrošinājuma ņēmēja nāves gadījums
+Personu apdrošināšanā apdrošinājuma ņēmēja nāves gadījumā, ja apdrošinātais ir cita persona, apdrošinājuma ņēmēja saistības var pārņemt apdrošinātais vai cits apdrošinājuma ņēmēja saistību pārņēmējs, paziņojot par to apdrošinātājam 15 dienu laikā no saistību pārņemšanas dienas. Apdrošinātājs nav tiesīgs izbeigt apdrošināšanas līgumu apdrošinājuma ņēmēja maiņas dēļ.

@@ -1,0 +1,5 @@
+28. pants. Apdrošinātāja tiesības pārbaudīt informāciju par apdrošinātā riska iestāšanos
+(1) Lai pārliecinātos par apdrošinātā riska iestāšanos un zaudējumu apmēru, apdrošinātājam ir tiesības pārbaudīt tā saistību izpildei nepieciešamo informāciju saistībā ar apdrošināšanas līgumu, pieprasot ziņas no valsts un pašvaldības iestādēm vai citām personām, kuru rīcībā var būt šāda informācija.
+(2) Ja apdrošinātā riska iestāšanās gadījumā nepieciešamā informācija satur personas veselības datus un ir nepieciešama lēmuma par apdrošināšanas atlīdzības izmaksu pieņemšanai, apdrošinātājs ir tiesīgs pieprasīt informāciju ārstniecības iestādēm un personām saskaņā ar Pacientu tiesību likumu.
+(3) Apdrošinātājs apdrošinātā riska iestāšanās gadījumā ir tiesīgs apstrādāt saskaņā ar šā likuma 7. panta pirmo un sesto daļu saņemto informāciju, kas satur personas veselības datus, ja šī informācija ir nepieciešama lēmuma pieņemšanai par apdrošināšanas atlīdzības izmaksu vai apdrošināšanas atlīdzības apmēra noteikšanu.
+(4) Šā panta pirmajā un otrajā daļā noteikto informāciju nesniedz, ja šādas informācijas sniegšanu ierobežo Kriminālprocesa likums.

@@ -1,0 +1,2 @@
+10. pants. Apdrošināšanas līguma valoda
+Apdrošināšanas līgumu sagatavo un noslēdz Latvijas Republikas valsts valodā. Ja apdrošinājuma ņēmējs - fiziskā persona - vēlas apdrošināšanas līgumu noslēgt svešvalodā, šādai apdrošinājuma ņēmēja piekrišanai jābūt nepārprotami izteiktai. Ja apdrošināšanas līgums ar apdrošinājuma ņēmēju - juridisko personu (vai to apvienību) - ir noslēgts svešvalodā, uzskatāms, ka apdrošinājuma ņēmējs ir piekritis līguma slēgšanai svešvalodā, ja vien tas nepierāda pretējo.

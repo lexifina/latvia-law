@@ -1,0 +1,2 @@
+20. pants. Izmaiņas informācijā par apdrošināšanas objektu
+Apdrošinājuma ņēmējam vai apdrošinātajam apdrošināšanas līguma darbības laikā atbilstoši šā likuma 7. pantā noteiktajām prasībām ir pienākums, tiklīdz tas iespējams, paziņot apdrošinātājam par visiem tam zināmajiem apstākļiem, kuri var ievērojami palielināt apdrošinātā riska iestāšanās iespējamību vai iespējamo zaudējumu apmēru. Paziņošanas pienākums personu apdrošināšanā nav attiecināms uz izmaiņām apdrošinātā veselības stāvoklī.

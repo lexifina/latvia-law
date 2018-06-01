@@ -1,0 +1,9 @@
+52. pants. Apdrošināšanas atlīdzības un citu izdevumu maksājumi civiltiesiskās atbildības apdrošināšanā
+(1) Apdrošinātājs saskaņā ar apdrošināšanas līguma noteikumiem izmaksā apdrošināšanas atlīdzību trešai personai vai apdrošinātajam, ja apdrošinātais ir atlīdzinājis zaudējumus trešai personai, un šī atlīdzība nedrīkst pārsniegt apdrošināšanas līgumā noteikto atbildības limitu. Apdrošināšanas atlīdzība tiek izmaksāta saskaņā ar kompensācijas principu.
+(2) Apdrošināšanas līgumā var paredzēt, ka atlīdzina arī izdevumus, kas saistīti ar tiesvedību, ekspertīzi vai citām ar apdrošinātā interešu aizstāvību saistītām darbībām.
+(3) Civiltiesiskās atbildības apdrošināšanā apdrošināšanas atlīdzība nesedz apdrošinātajam piemēroto naudas sodu, kavējuma naudu vai cita veida sankcijas.
+(4) Ja apdrošinātā ļauns nolūks vai rupja neuzmanība ir bijusi par iemeslu tam, lai nepiedalītos procesuālās izmeklēšanas darbībās vai tiesas procesā, apdrošinātais atlīdzina apdrošinātājam šīs darbības vai bezdarbības izraisītos zaudējumus.
+(5) Apdrošinātājs var atteikties izmaksāt apdrošināšanas atlīdzību un vienpusēji izbeigt apdrošināšanas līgumu, neatmaksājot apdrošināšanas prēmiju, ja apdrošinātais ar ļaunu nolūku vai rupjas neuzmanības dēļ nav izpildījis kādu no šā panta ceturtajā daļā minētajām darbībām un tādēļ nav iespējams:
+1) pilnīgi noskaidrot negadījuma apstākļus, kas bija par pamatu trešās personas prasībai;
+2) veikt nepieciešamās procesuālās darbības, lai pamatoti noraidītu trešās personas prasību.
+(6) Ja civiltiesiskās atbildības apdrošināšanā viena un tā pati persona ir apdrošinājusi savu atbildību pie vairākiem apdrošinātājiem, katrs apdrošinātājs izmaksā apdrošināšanas atlīdzību proporcionāli apdrošināšanas līgumos noteiktajam atbildības limitam. Apdrošinātāji var vienoties par citu apdrošināšanas atlīdzības izmaksas kārtību, ja tam piekrīt persona, kura pretendē uz apdrošināšanas atlīdzību.

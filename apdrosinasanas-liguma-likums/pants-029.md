@@ -1,0 +1,3 @@
+29. pants. Apdrošinājuma ņēmēja, apdrošinātā un labuma guvēja pienākumu nepildīšanas sekas
+(1) Apdrošinātājs var atteikties izmaksāt apdrošināšanas atlīdzību, ja apdrošinājuma ņēmējs, apdrošinātais vai labuma guvējs ar ļaunu nolūku vai rupjas neuzmanības dēļ nav izpildījis kādu no šā likuma 27. pantā noteiktajiem pienākumiem. Šādā gadījumā apdrošinātājam ir tiesības vienpusēji izbeigt apdrošināšanas līgumu ar apdrošinātā riska iestāšanās brīdi, neatmaksājot apdrošināšanas prēmiju.
+(2) Apdrošinātājs var samazināt apdrošināšanas atlīdzību, bet ne vairāk kā par 50 procentiem, ja apdrošinājuma ņēmējs, apdrošinātais vai labuma guvējs vieglas neuzmanības dēļ nav izpildījis kādu no šā likuma 27. pantā noteiktajiem pienākumiem.

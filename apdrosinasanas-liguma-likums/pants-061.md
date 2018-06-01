@@ -1,0 +1,2 @@
+61. pants. Kaitējums personas dzīvībai, veselībai vai fiziskajam stāvoklim
+Ja, iestājoties apdrošināšanas gadījumam, apdrošinātais ir gājis bojā vai viņa veselībai vai fiziskajam stāvoklim nodarīts kaitējums, apdrošināšanas atlīdzību izmaksā saskaņā ar visiem noslēgtajiem apdrošināšanas līgumiem, kuri paredz izmaksu par šādu gadījumu, izņemot tos gadījumus, kad apdrošināšanas līgumā ir paredzēts izmantot kompensācijas principu.

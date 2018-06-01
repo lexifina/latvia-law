@@ -1,0 +1,2 @@
+46. pants. Zemapdrošināšana
+Ja apdrošinājuma summa apdrošināšanā pret zaudējumiem saskaņā ar vienu vai vairākiem apdrošināšanas līgumiem attiecībā uz vienu un to pašu apdrošināto risku ir mazāka par apdrošināšanas objekta vērtību (zemapdrošināšana), apdrošinātājs izmaksā apdrošināšanas atlīdzību tādā proporcijā, kāda ir starp apdrošinājuma summu un šo vērtību, ja apdrošināšanas līgumā nav paredzēts citādi.

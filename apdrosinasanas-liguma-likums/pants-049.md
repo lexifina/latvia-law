@@ -1,0 +1,2 @@
+49. pants. Zaudējumu atlīdzināšana pēc apdrošināšanas perioda beigām
+Civiltiesiskās atbildības apdrošināšanas līgumā var paredzēt, ka apdrošinātājs atlīdzina zaudējumus, kas cēloniski saistīti ar notikumu retroaktīvajā periodā vai apdrošināšanas periodā, ja trešā persona ir iesniegusi prasību pret apdrošināto par zaudējumu atlīdzināšanu apdrošināšanas līgumā noteiktajā termiņā pēc apdrošināšanas perioda beigām.

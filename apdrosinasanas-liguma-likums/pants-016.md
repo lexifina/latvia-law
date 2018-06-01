@@ -1,0 +1,6 @@
+16. pants. Apdrošināmās intereses neesība
+(1) Ja laikā, kad stājas spēkā apdrošināšana, apdrošināmā interese nepastāv, apdrošināšanas līgums nav spēkā no tā noslēgšanas dienas.
+(2) Ja apdrošināšanas līgums noslēgts bez apdrošināmās intereses ar apdrošinājuma ņēmēja ļaunu nolūku vai tā rupjas neuzmanības dēļ, apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju apdrošinātājs neatmaksā.
+(3) Pārējos gadījumos, kad apdrošināšanas līgums noslēgts bez apdrošināmās intereses, apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kas tiek aprēķināta saskaņā ar šā likuma 35. panta piektās daļas noteikumiem.
+(4) Ja apdrošināmā interese pārstāj pastāvēt apdrošināšanas periodā, apdrošināšanas līgums nav spēkā no dienas, kad pārstāj pastāvēt apdrošināmā interese. Par apdrošināmās intereses neesību apdrošinājuma ņēmējs paziņo apdrošinātājam. Pēc paziņojuma saņemšanas apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kas tiek aprēķināta saskaņā ar šā likuma 35. panta piektās daļas noteikumiem.
+(5) Ja, iestājoties apdrošināšanas gadījumam, apdrošināmā interese nepastāv, apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kas tiek aprēķināta saskaņā ar šā likuma 35. panta piektās daļas noteikumiem.
