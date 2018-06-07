@@ -1,9 +1,9 @@
 6. pants. Uzņēmumu reģistra žurnālā ierakstāmās ziņas
 Uzņēmumu reģistra žurnālā par katru uzņēmumu (uzņēmējsabiedrību) ierakstāmas šādas ziņas:
 1) uzņēmuma (uzņēmējsabiedrības) nosaukums, reģistrācijas numurs un datums;
-2) uzņēmuma (uzņēmējsabiedrības) galvenais nodarbošanās veids un papildu nodarbošanās veidi;
+2) (izslēgts ar 10.05.2018. likumu);
 3) termiņš, uz kādu uzņēmums (uzņēmējsabiedrība) nodibināts;
-4) uzņēmuma (uzņēmējsabiedrības) statūtu (līgumsabiedrības līguma) parakstīšanas datums;
+4) (izslēgts ar 10.05.2018. likumu);
 5) uzņēmuma (uzņēmējsabiedrības) juridiskā adrese;
 6) reģistrējot filiāli, jānorāda galvenā uzņēmuma (uzņēmējsabiedrības) juridiskā adrese;
 7) (izslēgts ar 23.03.2017. likumu);
@@ -17,7 +17,8 @@ Par individuālo uzņēmumu un zemnieku (zvejnieku) saimniecību papildus šā p
 2) ja individuālo uzņēmumu vai zemnieku (zvejnieku) saimniecību pārvalda ar pārvaldnieka vai koleģiālas pārvaldes institūcijas starpniecību, - tās personas vārds, uzvārds un personas kods, kurai ir tiesības pārstāvēt uzņēmumu;
 3) ja individuālo uzņēmumu vai zemnieku (zvejnieku) saimniecību pārvalda ar koleģiālas pārvaldes institūcijas starpniecību, - koleģiālas pārvaldes institūcijas nosaukums;
 4) zemnieku saimniecības zemes platība un tās atrašanās vieta;
-5) zemes īpašuma vai lietošanas akta numurs un izdošanas datums.
+5) zemes īpašuma vai lietošanas akta numurs un izdošanas datums;
+6) uzņēmuma galvenais nodarbošanās veids un papildu nodarbošanās veidi.
 Par kooperatīvo sabiedrību papildus šā panta pirmās daļas 1.-6. punktā norādītajam Uzņēmumu reģistra žurnālā ierakstāmas šādas ziņas:
 1) pamatkapitāla minimālais lielums un pajas nominālā vērtība;
 2) padomes un valdes locekļu, kā arī direktora vai pārvaldnieka vārds, uzvārds un personas kods;
