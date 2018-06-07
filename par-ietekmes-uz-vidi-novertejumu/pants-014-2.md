@@ -1,1 +1,2 @@
-14. Bīstamo atkritumu apglabāšanas vietas, kā arī to sadedzināšanas un ķīmiskās pārstrādes iekārtas.
+14.² pants. Ietekmes novērtēšanas process
+Paredzētās darbības ietekmes novērtēšanas procesa posmi ir šādi: paredzētās darbības sākotnējā sabiedriskā apspriešana, programmas izstrādāšana, ietekmes novērtējuma ziņojuma sagatavošana un sabiedriskā apspriešana, kompetentās institūcijas atzinums par minēto ziņojumu un paredzētās darbības akcepta lēmums, kurā integrēts kompetentās institūcijas atzinums.

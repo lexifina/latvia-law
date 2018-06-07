@@ -7,4 +7,5 @@ Ietekmes novērtējumu veic saskaņā ar šādiem principiem:
 4¹) ierosinātājs nodrošina paredzētās darbības ietekmes novērtējuma sabiedrisko apspriešanu sabiedrībai pieejamā vietā un laikā;
 5) vides problēmu risināšana uzsākama, pirms vēl saņemti pilnīgi zinātniski pierādījumi par paredzētās darbības negatīvo ietekmi uz vidi. Ja ir pamatotas aizdomas, ka paredzētā darbība negatīvi ietekmēs vidi, jāveic piesardzības pasākumi;
 6) novērtējums izdarāms, ievērojot ilgtspējīgas attīstības principu, principu "piesārņotājs maksā", piesardzības un izvērtēšanas principu;
-7) paredzēto darbību, kurai ir vai var būt būtiska ietekme uz vidi, aizliegts sadalīt vairākās darbībās, jo tādējādi netiek pienācīgi novērtēta paredzētās darbības kopīgā ietekme.
+7) paredzēto darbību, kurai ir vai var būt būtiska ietekme uz vidi, aizliegts sadalīt vairākās darbībās, jo tādējādi netiek pienācīgi novērtēta paredzētās darbības kopīgā ietekme;
+8) paredzētās darbības ierosinātājs, lai tiktu novērsts interešu konflikts, nedrīkst pieņemt paredzētās darbības akcepta lēmumu.
