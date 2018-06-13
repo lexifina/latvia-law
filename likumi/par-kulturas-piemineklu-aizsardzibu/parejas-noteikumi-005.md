@@ -1,0 +1,1 @@
+5. Nacionālā kultūras mantojuma pārvalde līdz 2020. gada 31. decembrim pārskata valsts aizsargājamo kultūras pieminekļu sarakstā iekļauto kultūras pieminekļu statusu, izvērtējot šo pieminekļu atbilstību reģiona vai vietējās nozīmes kultūras pieminekļa kritērijiem.

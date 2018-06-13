@@ -1,0 +1,1 @@
+4. Nacionālā kultūras mantojuma pārvalde līdz 2018. gada 31. decembrim izstrādā kritērijus kultūrvēsturisku objektu iekļaušanai valsts aizsargājamo kultūras pieminekļu sarakstā kā reģiona vai vietējās nozīmes kultūras pieminekļus.

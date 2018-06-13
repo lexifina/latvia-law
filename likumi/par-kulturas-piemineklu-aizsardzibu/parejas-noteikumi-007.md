@@ -1,0 +1,1 @@
+7. Ministru kabinets līdz 2018. gada 31. decembrim izdara grozījumus Ministru kabineta 2003. gada 26. augusta noteikumos Nr. 474 "Noteikumi par kultūras pieminekļu uzskaiti, aizsardzību, izmantošanu, restaurāciju un vidi degradējoša objekta statusa piešķiršanu" atbilstoši grozījumiem šā likuma 14. pantā.

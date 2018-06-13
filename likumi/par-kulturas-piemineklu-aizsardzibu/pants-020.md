@@ -1,2 +1,2 @@
-20. pants. Valsts kultūras pieminekļu aizsardzības inspekcijas norādījumu spēkā stāšanās kārtība
-Valsts kultūras pieminekļu aizsardzības inspektors nosūta kultūras pieminekļa īpašniekam (valdītājam) norādījumus par attiecīgā kultūras pieminekļa izmantošanu un saglabāšanu. Šie norādījumi stājas spēkā ar brīdi, kad kultūras pieminekļa īpašnieks (valdītājs) tos saņēmis un ar parakstu apliecinājis, ka iepazinies ar tiem.
+20. pants. Nacionālās kultūras mantojuma pārvaldes norādījumu spēkā stāšanās kārtība
+Nacionālās kultūras mantojuma pārvaldes inspektors normatīvajos aktos noteiktajā kārtībā paziņo kultūras pieminekļa īpašniekam (valdītājam) norādījumus par attiecīgā kultūras pieminekļa izmantošanu un saglabāšanu.

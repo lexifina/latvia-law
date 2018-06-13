@@ -1,2 +1,2 @@
 10. pants. Saimnieciskās darbības ierobežošana kultūras pieminekļos
-Saimnieciskā darbība un cita veida darbība kultūras pieminekļos (to teritorijās, zonās, muzeju rezervātos, nacionālajos parkos u. c.), kā arī kultūras pieminekļu attēlu un simbolu izmantošana komercdarbībai atļauta tikai ar kultūras pieminekļa īpašnieka piekrišanu.
+Saimnieciskā darbība un cita veida darbība kultūras pieminekļos (to teritorijās, zonās, muzeju rezervātos, nacionālajos parkos u. c.), kas var ietekmēt kultūras pieminekļu saglabāšanu, piekļūšanu tiem vai vizuālo uztveramību, kā arī kultūras pieminekļu attēlu un simbolu izmantošana komercdarbībai atļauta tikai ar kultūras pieminekļa īpašnieka piekrišanu.
