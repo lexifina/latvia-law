@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu ministrijas 2018.gada 6.jūnija iekšējie noteikumi Nr.12-5/18 “Kārtība, kādā Finanšu ministrijā tiek nodrošināta vidēja termiņa budžeta ietvara likuma projekta un Stabilitātes programmas sagatavošana”",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12-5/18",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-18",
+  "entry_into_force": "2018-06-18",
+  "notification_date": "2018-06-20",
+  "commission_reference": "MNE(2018)53159",
+  "nim_celex": "72011L0085LVA_259715",
+  "nim_id": "259715",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf724fa8-2bf6-41f1-92e9-f1525f8a52f7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
