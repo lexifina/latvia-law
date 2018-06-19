@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu ministrijas (FM) un Fiskālās disciplīnas padomes (FDP) 2018.gada 19.jūnija Vienošanās par sadarbību papildinājums Nr. 2.",
+  "type_of_act": "Ministrijas instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12-12/94",
+  "official_journal_page": null,
+  "official_journal_date": "2018-06-19",
+  "entry_into_force": "2018-06-19",
+  "notification_date": "2018-06-20",
+  "commission_reference": "MNE(2018)53158",
+  "nim_celex": "72011L0085LVA_259714",
+  "nim_id": "259714",
+  "transposes_celex": [
+    "32011L0085"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7481fff6-94ab-40d4-9b16-14e3d42a7527",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
