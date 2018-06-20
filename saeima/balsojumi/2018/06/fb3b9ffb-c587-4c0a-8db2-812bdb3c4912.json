@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada pavasara sesija",
+ "sede": 17,
+ "datums": "2018-06-20",
+ "ieraksts": {
+  "dkp_id": "48684996-0bda-456e-a3fd-174ce860e606",
+  "lastmodtime": "\"AAAAAAGTrG0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Romualds#Dzintars#Romāns#Jānis#Einārs#Mihails#Artis#Astrīda#Askolds#Inese#Ainars#Guntis#Jānis#Andris#Lolita#Veiko#Hosams#Igors#Ints#Valdis#Boriss#Andris#Juris#Ringolds#Augusts#Jūlija#Anrijs#Ojārs Ēriks#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Andrejs#Jānis#Aleksejs#Ināra#Inga#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Jeļena#Igors#Artūrs#Janīna",
+  "SURNAME": "Ražuks#Zaķis#Naudiņš#Klaužs#Cilinskis#Zemļinskis#Rasmanis#Harju#Kļaviņš#Laizāne#Latkovskis#Kalniņš#Ruks#Siliņš#Čigāne#Spolītis#Abu Meri#Pimenovs#Dālderis#Kalnozols#Cilevičs#Buiķis#Vectirāns#Balodis#Brigmanis#Stepaņenko#Matīss#Kalniņš#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Judins#Urbanovičs#Loskutovs#Mūrniece#Bite#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Lazareva#Zujevs#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "######################################################",
+  "FRACTION": "VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#ZZS#VL-TB/LNNK#SASKAŅA #ZZS#VIENOTĪBA#ZZS#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA#ZZS#VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#SASKAŅA #VIENOTĪBA#ZZS#SASKAŅA #VL-TB/LNNK#ZZS# #ZZS#SASKAŅA # #VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #SASKAŅA #SASKAŅA #SASKAŅA #VL-TB/LNNK",
+  "RESULT": "Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "20.06.2018 14:35:18",
+  "VOTEMOTIVE": "Grozījumi Maksājumu pakalpojumu un elektroniskās naudas likumā (1186/Lp12), 3.lasījums",
+  "VOTING_ID": "fb3b9ffb-c587-4c0a-8db2-812bdb3c4912",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "48",
+  "VOTERESULT_REGISTERED": "55",
+  "VOTE_NUMBER": "36",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada pavasara sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d9e6ba9d-b780-494b-b37e-1b49b242e693/download/12.saeimas-2018.gada-pavasara-sesija-17-vote.xml",
+  "sha256": "4eaa315a6922470e05bd0d3cff9754a8e783caf63d6f7d1c5602567fbec76e80",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
