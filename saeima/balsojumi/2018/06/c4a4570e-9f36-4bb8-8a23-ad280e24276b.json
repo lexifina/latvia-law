@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada pavasara sesija",
+ "sede": 19,
+ "datums": "2018-06-21",
+ "ieraksts": {
+  "dkp_id": "a17007f2-88f2-48e4-b984-788884580abc",
+  "lastmodtime": "\"AAAAAAGU9qo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Edvīns#Romualds#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Einārs#Mihails#Vladimirs#Astrīda#Askolds#Guntis#Raimonds#Inese#Armands#Arvīds#Hosams#Jānis#Igors#Ints#Valdis#Silvija#Boriss#Andris#Juris#Inguna#Artis#Romāns#Rihards#Renārs#Ilmārs#Augusts#Sergejs#Jūlija#Ojārs Ēriks#Valters#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Viktors#Andrejs#Juris#Aleksejs#Ināra#Ainārs#Aleksandrs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Kārlis#Gundars#Jānis#Sergejs#Ivars#Aija#Jeļena#Igors#Artūrs#Edvards",
+  "SURNAME": "Kleinberga#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Cilinskis#Zemļinskis#Nikonovs#Harju#Kļaviņš#Kalniņš#Rubiks#Lībiņa-Egnere#Krauze#Platpers#Abu Meri#Ādamsons#Pimenovs#Dālderis#Kalnozols#Šimfa#Cilevičs#Buiķis#Vectirāns#Rībena#Gustovskis#Mežeckis#Kols#Putniņš#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Kalniņš#Dambe#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Valainis#Judins#Šulcs#Loskutovs#Mūrniece#Mežulis#Jakimovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Seržants#Daudze#Tutins#Potapkins#Zariņš#Barča#Lazareva#Zujevs#Rubiks#Smiltēns",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": "LRA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#SASKAŅA #LRA#SASKAŅA #VL-TB/LNNK#SASKAŅA #SASKAŅA #VIENOTĪBA#ZZS#ZZS#SASKAŅA #VIENOTĪBA#ZZS# #VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#ZZS# #SASKAŅA #VL-TB/LNNK#ZZS#VL-TB/LNNK#VIENOTĪBA# #VL-TB/LNNK#VIENOTĪBA# #ZZS#SASKAŅA #SASKAŅA #VIENOTĪBA#ZZS#VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK# #VIENOTĪBA#VIENOTĪBA#VIENOTĪBA#VL-TB/LNNK#ZZS#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA #ZZS#SASKAŅA #SASKAŅA #SASKAŅA # ",
+  "RESULT": "Atturas#Par#Atturas#Pret#Atturas#Par#Pret#Nebalsoja#Pret#Par#Pret#Pret#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Pret#Atturas#Pret#Pret#Atturas#Nebalsoja#Pret#Pret#Par#Nebalsoja#Par#Atturas#Pret#Par#Atturas#Par#Nebalsoja#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Pret#Nebalsoja#Atturas#Par#Par#Par#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Par#Par#Par#Atturas#Pret#Nebalsoja#Atturas#Pret#Pret#Nebalsoja#Atturas#Pret#Pret#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.06.2018 17:38:10",
+  "VOTEMOTIVE": "Grozījums Priekšvēlēšanu aģitācijas likumā (1165/Lp12), 1.lasījums",
+  "VOTING_ID": "c4a4570e-9f36-4bb8-8a23-ad280e24276b",
+  "VOTERESULT_ABSTAIN": "25",
+  "VOTERESULT_AGAINST": "23",
+  "VOTERESULT_FOR": "14",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "53",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada pavasara sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/03da4534-d0df-421b-ae99-8636a68ac27b/download/12.saeimas-2018.gada-pavasara-sesija-19-vote.xml",
+  "sha256": "82fdfa95ff63c66d0142469ec7b1e41626d5f51f33345d4af01d03a089ad21e3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
