@@ -3,8 +3,8 @@
 (2) Parādnieks maksātnespējas procesa pieteikumā norāda:
 1) parādnieka firmu (nosaukumu), reģistrācijas numuru un juridisko adresi;
 2) maksātnespējas procesa pazīmi;
-3) informāciju par parādnieka galveno interešu centra atrašanās vietu Padomes regulas Nr. 1346/2000 izpratnē;
-4) vai parādniekam citā dalībvalstī pieder uzņēmums Padomes regulas Nr. 1346/2000 2.panta "h" punkta izpratnē, un tā atrašanās vietu;
+3) informāciju par parādnieka galveno interešu centra atrašanās vietu Eiropas Parlamenta un Padomes regulas Nr. 2015/848 izpratnē;
+4) vai parādnieks citā Eiropas Savienības dalībvalstī veic vai triju mēnešu laikposmā pirms pieteikuma iesniegšanas ir veicis saimniecisko darbību Eiropas Parlamenta un Padomes regulas Nr. 2015/848 2. panta 10. punkta izpratnē un tās vietu;
 5) lietas par tiesiskās aizsardzības procesu numuru, ja maksātnespējas procesa pieteikums tiek iesniegts atbilstoši Maksātnespējas likuma 57. panta pirmās daļas 9. punktā minētajai maksātnespējas procesa pazīmei;
 6) parādnieka juridisko adresi, kas parādniekam bija reģistrēta trīs mēnešus pirms pieteikuma iesniegšanas tiesā.
 (3) Parādnieks maksātnespējas procesa pieteikumam pievieno:
@@ -12,4 +12,4 @@
 2) pierādījumus tam, ka par nodomu iesniegt maksātnespējas procesa pieteikumu ir paziņots komercsabiedrības dalībniekiem (biedriem), biedrības biedriem vai citiem juridiskās personas dibinātājiem vai dalībniekiem;
 3) pierādījumus par pārstāvības tiesībām;
 4) dokumentus, kas apliecina valsts nodevas un citu tiesas izdevumu, kā arī maksātnespējas procesa depozīta samaksu.
-(4) Iesniedzot pieteikumu Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanai, parādnieks maksātnespējas procesa pieteikumam papildus šā panta trešajā daļā norādītajiem dokumentiem pievieno apliecinājumu par parādnieka galveno interešu centra atrašanās vietu.
+(4) Iesniedzot pieteikumu Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanai, parādnieks maksātnespējas procesa pieteikumam papildus šā panta trešajā daļā norādītajiem dokumentiem pievieno apliecinājumu par parādnieka galveno interešu centra atrašanās vietu.

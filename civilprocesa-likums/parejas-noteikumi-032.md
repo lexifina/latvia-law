@@ -3,4 +3,4 @@
 2) trešajām personām piederošās un parādnieka valdījumā vai turējumā esošās mantas sarakstu;
 3) nodrošināto un nenodrošināto kreditoru sarakstus, kas sagatavoti, pamatojoties uz parādnieka grāmatvedībā esošajiem datiem;
 4) pārskatu par banku kontos un kasē esošajiem parādnieka naudas līdzekļiem, parādnieka pamatlīdzekļu un apgrozāmo līdzekļu vērtību;
-5) atzinumu par to, vai pret parādnieku uzsākama Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra.
+5) atzinumu par to, vai pret parādnieku uzsākama Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra.

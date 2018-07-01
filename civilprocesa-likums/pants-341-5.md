@@ -1,7 +1,8 @@
 341.⁵ pants. Tiesas darbības, kas veicamas, un jautājumi, kas izlemjami, pēc tam, kad pieņemts lēmums par tiesiskās aizsardzības procesa lietas ierosināšanu
 (1) Tiesas lēmuma par tiesiskās aizsardzības procesa lietas ierosināšanu norakstu nekavējoties nosūta:
 1) atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā;
-2) Finanšu un kapitāla tirgus komisijai, ja lēmums pieņemts par finanšu un kapitāla tirgus dalībnieku, kura darbību saskaņā ar normatīvo aktu prasībām uzrauga Finanšu un kapitāla tirgus komisija.
+2) Finanšu un kapitāla tirgus komisijai, ja lēmums pieņemts par finanšu un kapitāla tirgus dalībnieku, kura darbību saskaņā ar normatīvo aktu prasībām uzrauga Finanšu un kapitāla tirgus komisija;
+3) Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktās procedūras administratoram, ja Latvijā lieta ierosināta pēc pieteikuma par Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 2. punktā noteiktās maksātnespējas procedūras uzsākšanu.
 (2) Pēc tam, kad pieņemts lēmums par tiesiskās aizsardzības procesa lietas ierosināšanu, tiesnesis:
 1) pieņem lēmumu par tiesiskās aizsardzības procesa uzraugošās personas (turpmāk - uzraugošā persona) amata kandidāta atbilstību pienākumu pildīšanai attiecīgajā tiesiskās aizsardzības procesā un par viņa iecelšanu par uzraugošo personu;
 2) pēc nodrošinātā kreditora pieteikuma lemj par atļauju pārdot ieķīlāto parādnieka mantu (Maksātnespējas likuma 37.panta otrā daļa).

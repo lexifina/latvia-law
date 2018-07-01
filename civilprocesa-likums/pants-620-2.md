@@ -4,4 +4,4 @@
 (3) Ja parādnieks nepilda tiesu izpildītāja uzaicinājumu, tiesu izpildītājs apraksta un novērtē mantu atbilstoši šā likuma 577. un 578.panta noteikumiem, kā arī ieceļ mantas glabātāju, mantu izved un nodod to mantas glabātājam glabāšanā pēc akta.
 (4) Akta vienu eksemplāru tiesu izpildītājs izsniedz parādniekam.
 (5) Pēc sprieduma izpildes telpas nodod piedzinējam.
-(6) Ja ir aprakstītas lietas, kas ātri bojājas, tiesu izpildītājs tās pārdod saskaņā ar šā likuma 583.panta noteikumiem. Saņemtā nauda tiek ieskaitīta sprieduma izpildes izdevumu segšanai, bet varbūtējais naudas pārpalikums izmaksājams parādniekam.
+(6) Ja ir aprakstītas lietas, kas ātri bojājas, tiesu izpildītājs tās pārdod saskaņā ar šā likuma 581. panta otrās daļas noteikumiem. Saņemtā nauda tiek ieskaitīta sprieduma izpildes izdevumu segšanai, bet varbūtējais naudas pārpalikums izmaksājams parādniekam.

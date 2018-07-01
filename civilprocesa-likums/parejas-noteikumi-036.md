@@ -1,4 +1,4 @@
 36. Maksātnespējas procesos, kuros maksātnespējas pieteikums iesniegts tiesā līdz 2007.gada 31.decembrim un kuros jautājumi tiesā lemjami atbilstoši tiem normatīvajiem aktiem, kas līdz 2007.gada 31.decembrim regulēja uzņēmumu un uzņēmējsabiedrību maksātnespēju, sūdzības var iesniegt:
-1) administrators - par jebkuru kreditoru sapulces lēmumu un kreditoru komitejas lēmumu, kā arī par Maksātnespējas administrācijas lēmumu par administratora rīcību;
+1) administrators - par jebkuru kreditoru sapulces lēmumu un kreditoru komitejas lēmumu, kā arī par Maksātnespējas kontroles dienesta lēmumu par administratora rīcību;
 2) ieinteresētais kreditors vai kreditoru grupa - par kreditoru sapulces lēmumu, ar kuru atzīts vai noraidīts kāda kreditora prasījums, triju nedēļu laikā no kreditoru sapulces dienas vai dienas, kad kreditoram, kurš nav piedalījies kreditoru sapulcē, paziņots tās lēmums;
 3) kreditors vai kreditoru grupa - par kreditoru sapulces (kreditoru komitejas) lēmumu par administrācijas izmaksām un parādu segšanas kārtību triju nedēļu laikā pēc tā pieņemšanas.

@@ -2,6 +2,7 @@
 (1) No tiesas izdevumu samaksas valsts ienākumos atbrīvoti:
 1) prasītāji - prasībās par darba samaksas piedziņu un citiem darbinieku prasījumiem, kas izriet no darba tiesiskajām attiecībām vai ir ar tām saistīti;
 1¹) prasītāji - prasībās, kas izriet no vienošanās par darba veikšanu, ja prasītājs ir persona, kas izcieš sodu ieslodzījuma vietā;
+1²) pieteikuma iesniedzēji - par juridiskās personas maksātnespējas pieteikumu, ja tiesas nolēmuma par darba samaksas piedziņu izpilde šajā likumā noteiktajā kārtībā atzīta par neiespējamu;
 2) prasītāji - prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 3) prasītāji - prasībās par uzturlīdzekļu piedziņu bērnam vai vecākam, kā arī prasībās par paternitātes noteikšanu, ja prasība celta vienlaikus ar prasību par uzturlīdzekļu piedziņu bērnam;
 3¹) pieteikuma iesniedzēji - par ārvalsts nolēmuma par uzturlīdzekļu piedziņu bērnam vai vecākam atzīšanu vai atzīšanu un izpildīšanu;
