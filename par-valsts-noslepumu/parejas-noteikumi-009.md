@@ -1,0 +1,1 @@
+9. Lietās, kas atbilstoši šā likuma 17. panta pirmajai daļai ierosinātas līdz 2018. gada 31. decembrim, tiesa nolēmumu pieņem gada laikā no dienas, kad pieņemts lēmums par pieteikuma pieņemšanu un lietas ierosināšanu.

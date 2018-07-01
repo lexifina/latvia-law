@@ -1,0 +1,1 @@
+6. Ja personai pirms 2018. gada 1. jūlija bijusi liegta pieeja valsts noslēpumam, atkārtotu personas vērtēšanu saskaņā ar šā likuma 13.¹ panta nosacījumiem var iniciēt un pārbaudi uzsākt pēc 2022. gada 10. februāra.

@@ -1,0 +1,1 @@
+7. Satversmes aizsardzības birojs pēc 2018. gada 1. jūlija pabeidz izskatīt tā lietvedībā esošās lietas par pārsūdzētajiem lēmumiem par speciālās atļaujas atteikumu, anulēšanu, termiņa nepagarināšanu vai kategorijas pazemināšanu. Satversmes aizsardzības biroja direktora lēmumu 14 dienu laikā no tā paziņošanas dienas persona var pārsūdzēt Administratīvajā apgabaltiesā.

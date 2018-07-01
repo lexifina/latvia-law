@@ -1,0 +1,1 @@
+12. Personai, kurai līdz 2018. gada 30. jūnijam speciālā atļauja izsniegta saskaņā ar šā likuma 9. panta piekto daļu, ir atļauta pieeja valsts noslēpumam līdz speciālās atļaujas termiņa beigām, ja vien nepastāv cits šajā likumā noteiktais speciālās atļaujas anulēšanas pamats.

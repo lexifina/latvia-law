@@ -1,0 +1,1 @@
+8. Ģenerālprokurora lēmumu, kas pieņemts līdz 2018. gada 30. jūnijam saskaņā ar šā likuma 7. panta piekto daļu vai 11. panta piekto daļu, 14 dienu laikā no tā paziņošanas dienas persona var pārsūdzēt Administratīvajā apgabaltiesā.

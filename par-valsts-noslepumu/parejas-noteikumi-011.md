@@ -1,0 +1,1 @@
+11. Ja pieteikums par industriālās drošības sertifikāta izsniegšanu iesniegts līdz 2018. gada 30. jūnijam, lemjot par industriālās drošības sertifikāta izsniegšanu komersantam, netiek piemērots šā likuma 9.¹ panta otrās daļas 2. punkts, bet tiek ievērots nosacījums, ka komersantam jābūt dibinātam vismaz pirms gada.

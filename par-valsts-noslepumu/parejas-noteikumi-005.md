@@ -1,0 +1,1 @@
+5. Lemjot par tādas speciālās atļaujas anulēšanu, kas izsniegta līdz 2018. gada 30. jūnijam, vai kategorijas pazemināšanu, tiek piemērota šā likuma 9. panta trešās daļas 3. punkta redakcija, kas bija spēkā līdz 2018. gada 30. jūnijam.
