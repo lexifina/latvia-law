@@ -5,7 +5,7 @@ Likme (euro) par 1 kg materiāla
 No stikla izejmateriāliem
 0,44
 2.
-No plastmasas (polimēru) izejmateriāliem, izņemot no bioplastmasas vai oksonoārdāmās plastmasas, polistirola izejmateriāliem
+No plastmasas (polimēru) izejmateriāliem, izņemot no bioplastmasas vai polistirola izejmateriāliem
 1,22
 3.
 No metāla izejmateriāliem
@@ -14,8 +14,7 @@ No metāla izejmateriāliem
 No koksnes, papīra un kartona vai citu dabisko šķiedru un bioplastmasas izejmateriāliem
 0,24
 5.
-No oksonoārdāmās plastmasas izejmateriāliem
-0,70
+(Izslēgts no 01.07.2018. ar 26.04.2018. likumu. Sk. Pārejas noteikumu 27. punktu)
 6.
 No polistirola izejmateriāliem
 2,20

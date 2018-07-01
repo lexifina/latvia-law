@@ -9,7 +9,7 @@ Likumā ir lietoti šādi termini:
 7) saimnieciskā darbība - dabas resursu realizācija, preču ražošana, darbu izpilde, pakalpojumu sniegšana un cita veida darbība, ko veic par atlīdzību;
 8) videi kaitīgas preces - preces, kuru ražošanai vai izplatīšanai noteikti ierobežojumi vai kuru atkritumu apsaimniekošanai tiek noteiktas īpašas prasības, ja tās savā aprites ciklā negatīvi ietekmē vai var ietekmēt vidi, cilvēka dzīvību vai veselību;
 9) bioplastmasa - bioloģiski noārdāma plastmasa (biopolimērs), kuras sastāvdaļas pilnībā vai gandrīz pilnībā iegūtas no atjaunojamām izejvielām;
-10) oksonoārdāmā plastmasa - plastmasas materiāls, kurā ir piedevas, kas katalizē šā materiāla sadalīšanos mikrofragmentos, bet nepadara to kompostējamu (plastmasas materiāls nav bioloģiski noārdāms), un no kura tiek ražots iepakojums, tai skaitā iepirkumu maisiņi, un vienreiz lietojamie galda trauki un piederumi;
+10) (izslēgts no 01.07.2018. ar 26.04.2018. likumu. Sk. Pārejas noteikumu 27. punktu);
 11) plastmasa - polimērs Eiropas Parlamenta un Padomes 2006.gada 18.decembra regulas (EK) Nr. 1907/2006 3.panta 5.punkta nozīmē, kam var būt pievienotas piedevas vai citas vielas un kas spēj funkcionēt kā iepakojuma, tai skaitā iepirkumu maisiņu, un kā vienreiz lietojamo galda trauku un piederumu galvenā strukturālā sastāvdaļa;
 12) plastmasas iepirkumu maisiņi - iepirkumu maisiņi ar vai bez roktura, kuri izgatavoti no plastmasas un patērētājiem tiek nodrošināti preču vai ražojumu tirdzniecības vietās;
 13) vieglās plastmasas iepirkumu maisiņi - iepirkumu maisiņi, kuri izgatavoti no plastmasas un kuru materiāla biezums nepārsniedz 50 mikronus un viena maisiņa svars nepārsniedz trīs gramus (1000 maisiņu svars nepārsniedz trīs kilogramus).
