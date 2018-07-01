@@ -1,2 +1,2 @@
 107.⁴ Kreditors notariālo aktu var iesniegt zvērinātam notāram nodošanai piespiedu izpildei viena gada laikā no attiecīgās saistības izpildes termiņa iestāšanās dienas. Ja notariālais akts nav nodots piespiedu izpildei viena gada laikā no attiecīgās saistības izpildes termiņa iestāšanās dienas, saistības izpildi var prasīt vispārējās prasības tiesvedības kārtībā.
-Ja zvērināts notārs izsniedz notariālo izpildu aktu, līgumsoda un procentu pieaugums apstājas ar dienu, kad notariālais akts iesniegts zvērinātam notāram nodošanai piespiedu izpildei.
+Ja zvērināts notārs izsniedz notariālo izpildu aktu, līgumsoda un procentu, izņemot likumisko, pieaugums apstājas ar dienu, kad notariālais akts iesniegts zvērinātam notāram nodošanai piespiedu izpildei.

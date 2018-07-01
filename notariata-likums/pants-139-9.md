@@ -1,0 +1,1 @@
+139.⁹ Zvērināts notārs elektroniski apliecina šā likuma 108.¹ panta ceturtajā daļā noteiktos apliecinājumus, kā arī aktus un apliecinājumus, kurus to dalībnieki elektroniski paraksta zvērināta notāra klātbūtnē.

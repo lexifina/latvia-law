@@ -1,1 +1,2 @@
-45.¹ Ministru kabinets nosaka kārtību, kādā Latvijas Zvērinātu notāru padome ved Latvijā atsaukto pilnvarojumu reģistru un nākotnes pilnvarojumu reģistru.
+45.¹ Ministru kabinets nosaka kārtību, kādā Latvijas Zvērinātu notāru padome ved zvērinātu notāru apliecināto pilnvarojumu reģistru, Latvijā atsaukto pilnvarojumu reģistru un nākotnes pilnvarojumu reģistru.
+Ministru kabinets nosaka maksu, atbrīvojumus no tās un maksas samazinājumus par ziņu saņemšanu, kā arī kārtību, kādā saņemamas ziņas no zvērinātu notāru apliecināto pilnvarojumu reģistra, Latvijā atsaukto pilnvarojumu reģistra un nākotnes pilnvarojumu reģistra.
