@@ -11,6 +11,6 @@
 (4) Šā likuma 11. pantā minēto pabalstu izmaksu pārtrauc gadījumos, kad:
 1) ar bāriņtiesas lēmumu izbeigta bērna uzturēšanās audžuģimenē;
 2) beidzas līgumā noteiktais termiņš;
-3) (punkts stājas spēkā 01.07.2018. un iekļauts likuma redakcijā uz 01.07.2018. Sk. Pārejas noteikumu 25. punktu).
+3) atlīdzības saņēmējs normatīvajos aktos par audžuģimenēm noteiktajā kārtībā ieguvis specializētās krīzes audžuģimenes statusu vai specializētās audžuģimenes statusu un audžuģimenē ievietots bērns.
 (5) Šā likuma 12.¹ pantā minētā pabalsta izmaksu pārtrauc arī gadījumos, kad persona ievietota ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā un izdevumus par personas uzturēšanos tajā pilnībā vai daļēji apmaksā valsts vai pašvaldība.
 (6) Šā likuma 13.pantā minētā pabalsta izmaksu pārtrauc arī gadījumos, kad personai rodas tiesības saņemt valsts pensiju (izņemot apgādnieka zaudējuma pensiju invalīdam) vai apdrošināšanas atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību.
