@@ -12,6 +12,9 @@ h) (izslēgts ar 30.11.2015. likumu),
 i) par maksātāju aizbildnībā vai aizgādnībā esošu personu,
 j) par laulāto, vecākiem, vecvecākiem un bērniem, kas sasnieguši 18 gadu vecumu, ja minētās personas nav strādājošas un saskaņā ar normatīvajiem aktiem ir atzītas par personām ar invaliditāti;
 k) par nestrādājošu laulāto, kura apgādībā ir nepilngadīgs bērns, kas saskaņā ar normatīvajiem aktiem ir atzīts par personu ar invaliditāti;
+l) par nestrādājošu laulāto, kura apgādībā ir bērns vecumā līdz trim gadiem,
+m) par nestrādājošu laulāto, kura apgādībā ir trīs vai vairāk bērni līdz 18 gadu vecumam vai līdz 24 gadu vecumam, no kuriem vismaz viens ir jaunāks par septiņiem gadiem, kamēr bērns turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu,
+n) par nestrādājošu laulāto, kura apgādībā ir pieci bērni līdz 18 gadu vecumam vai līdz 24 gadu vecumam, kamēr bērns turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu;
 2) (izslēgts ar 14.11.2008. likumu);
 3) (izslēgts ar 14.11.2008. likumu);
 4) personām, kuras saskaņā ar normatīvajiem aktiem ir atzītas par personām ar invaliditāti vai politiski represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību nosaka Ministru kabinets.
