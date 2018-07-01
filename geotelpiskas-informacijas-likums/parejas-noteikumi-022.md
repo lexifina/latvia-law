@@ -1,0 +1,1 @@
+22. Personas, kuras līdz 2018. gada 30. jūnijam veic kartogrāfisko darbību, bet nav ieguvušas šā likuma 10. panta piektajā daļā noteikto izglītību (redakcijā, kas spēkā no 2018. gada 1. jūlija), ir tiesīgas turpināt kartogrāfisko darbību ne ilgāk kā līdz 2024. gada 30. jūnijam.
