@@ -1,6 +1,6 @@
 14.pants. Iesniegto dokumentu izskatīšana
 Izskatot iesniegtos dokumentus, Uzņēmumu reģistra valsts notārs pārbauda, vai:
-1) ievērota reģistrācijas piekritība;
+1) (izslēgts no 01.07.2018. ar 23.03.2017. likumu, kas stājas spēkā 01.05.2017. Sk. Pārejas noteikumu 24. punktu);
 2) iesniegti visi likumos paredzētie dokumenti, kurus reģistrē (pievieno lietai) vai uz kuru pamata izdara ierakstu komercreģistrā;
 3) dokumentam, kuru reģistrē (pievieno lietai) vai uz kura pamata izdara ierakstu komercreģistrā, ir juridisks spēks;
 4) tā dokumenta forma, kuru reģistrē (pievieno lietai) vai uz kura pamata izdara ierakstu komercreģistrā, atbilst normatīvajos aktos vai statūtos noteiktajam, ja normatīvais akts paredz iespēju noteikt statūtos konkrētu dokumenta formu;
