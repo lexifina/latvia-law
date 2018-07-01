@@ -6,3 +6,6 @@
 4) biļetes vai kupona cena, dalības maksa;
 5) kārtas numurs.
 (2) Pirms licences saņemšanas vietēja mēroga izlozes biļetes un vietēja mēroga vienreizējās izlozes biļetes reģistrējamas tajā Valsts ieņēmumu dienesta teritoriālajā iestādē, kurā izlozes organizētājs ir uzskaitē kā nodokļu maksātājs, un reģistrēto izlozes biļešu paraugi iesniedzami Izložu un azartspēļu uzraudzības inspekcijai.
+(3) Attiecībā uz šā likuma 74. panta trešajā daļā minēto izložu biļešu pārdošanu vai izložu dalības maksājumu pieņemšanu, izmantojot elektronisko sakaru pakalpojumus, Ministru kabinets nosaka:
+1) biļešu pārdošanas un dalības maksājumu pieņemšanas organizēšanas sistēmas galvenās sastāvdaļas un informāciju, kas iesniedzama par biļešu pārdošanas un dalības maksājumu pieņemšanas organizēšanas sistēmu;
+2) biļešu pārdošanas un dalības maksājumu pieņemšanas organizēšanas sistēmas drošības pasākumus, kas nepieciešami, lai nepieļautu kādas personas ietekmi uz biļešu pārdošanas iznākumu, un fizisko personu datu aizsardzības pasākumus.
