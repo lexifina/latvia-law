@@ -1,4 +1,5 @@
-575.pants. Parādnieka mantas apķīlāšana, ja manta atrodas pie citas personas
-(1) Ja ir pierādījumi, ka parādnieka manta atrodas pie citas personas, tiesu izpildītājs apķīlā šo mantu vispārējā kārtībā.
-(2) (Izslēgta ar 31.10.2002. likumu.)
-(3) Ja parādnieka mantas atrašanās pie citas personas noteikta ar savstarpēji noslēgtu līgumu, jautājumu par citas personas no līguma izrietošo tiesību saglabāšanu izšķir tiesa prasības kārtībā.
+575. pants. Parādnieka kustamās mantas apķīlāšana, ja manta atrodas pie citas personas
+(1) Ja ir pierādījumi, ka parādnieka manta atrodas pie citas personas, tiesu izpildītājs apķīlā šo mantu vispārējā kārtībā. Ja persona atsakās ielaist tiesu izpildītāju kustamās mantas atrašanās vietā, tiesu izpildītājs sabiedriskās kārtības nodrošināšanai pieaicina policijas pārstāvi, kura klātbūtnē atver telpu vai glabātavu un veic apķīlāšanu. Aizslēgtas telpas vai glabātavas, par kurām ir pierādījumi, ka tajās atrodas parādnieka manta, un kuras neviena persona neatver, var tikt atvērtas piespiedu kārtā policijas pārstāvja klātbūtnē, vai arī tiesu izpildītājs, izvērtējis konkrētos apstākļus, pieņem lēmumu par apķīlāšanas atlikšanu.
+(2) Ja telpās vai citās glabātavās pēc to atvēršanas netiek sastapta neviena pilngadīga persona, tiesu izpildītājs pēc telpu piespiedu atvēršanas gādā par to drošu aizvēršanu un aizzīmogošanu. Tiesu izpildītājs pie attiecīgās telpas vai glabātavas atstāj paziņojumu ar uzaicinājumu ierasties tiesu izpildītāja prakses vietā, lai saņemtu telpu atslēgas.
+(3) Šajā pantā noteiktajā kārtībā atvērtās telpās vai glabātavās esošās lietas, kuras tiesu izpildītājs neapķīlā, mantas aprakstes aktā nenorāda.
+(4) Ja parādnieka mantas atrašanās pie citas personas noteikta ar savstarpēji noslēgtu līgumu, tiesu izpildītājs šo mantu apķīlā, bet jautājumu par citas personas no līguma izrietošo tiesību saglabāšanu izšķir tiesa prasības kārtībā.

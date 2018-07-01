@@ -5,6 +5,7 @@
 1) nekustamā īpašuma īpašnieka un piedzinēja vārdu un uzvārdu, juridiskajām personām - nosaukumu un juridisko adresi;
 2) tiesu izpildītāja vārdu, uzvārdu, amata vietu un prakses vietu;
 3) nekustamā īpašuma īsu aprakstu, atrašanās vietu un kadastra numuru;
+3¹) apbūves tiesības līguma datumu, priekšmetu un termiņu, ja tiek izsolīta apbūves tiesība;
 4) nekustamā īpašuma novērtējumu;
 5) kura izsole pēc kārtas tā ir;
 6) izsoles sākumcenu un izsoles soli;

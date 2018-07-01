@@ -1,0 +1,1 @@
+143. Valsts ieņēmumu dienests un Nodrošinājuma valsts aģentūra līdz atbilstoša tiesiskā regulējuma izstrādei, bet ne ilgāk kā līdz 2018. gada 31. decembrim tās darbību regulējošos normatīvajos aktos noteiktajos gadījumos piemēro šā likuma 71. nodaļas "Piedziņas vēršana uz kustamo mantu" noteikumus, kas bija spēkā līdz 2018. gada 30. jūnijam.

@@ -1,2 +1,2 @@
-586.pants. Personas, kam nav tiesību piedalīties solīšanā
-Solīšanā nav tiesību piedalīties parādniekam, viņa aizbildnim vai aizgādnim, personai, kas piedalījusies mantas apķīlāšanā, mantas izsolītājam, kā arī izsolē klātesošajam policijas vai pašvaldības pārstāvim. Piedzinējam ir tiesības piedalīties izsolē vispārējā kārtībā.
+586. pants. Personas, kam nav tiesību piedalīties solīšanā
+Solīšanā nav tiesību piedalīties parādniekam, viņa aizbildnim vai aizgādnim, personai, kas veikusi šā likuma 578. pantā minēto novērtēšanu, kā arī tiesu izpildītājam, kas rīko izsoli. Piedzinējam ir tiesības piedalīties izsolē vispārējā kārtībā. Par citos normatīvajos aktos noteikto ierobežojumu ievērošanu attiecībā uz izsolāmās lietas iegādi ir atbildīgi paši izsoles dalībnieki.
