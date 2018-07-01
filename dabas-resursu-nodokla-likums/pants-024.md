@@ -10,7 +10,7 @@
 5) vienreiz lietojamo galda trauku un piederumu materiāla veida un svara noteikšanas metodes, ja nodokļa maksātāja rīcībā nav vienreiz lietojamo galda trauku un piederumu materiāla veidu un svaru apliecinošu uzskaites dokumentu;
 6) kārtību, kādā nosaka personu, kura drīkst veikt izlietotā iepakojuma apsaimniekošanas sistēmu un vienreiz lietojamo galda trauku un piederumu apsaimniekošanas sistēmu auditu;
 7) izlietotā iepakojuma apsaimniekošanas sistēmu un vienreiz lietojamo galda trauku un piederumu apsaimniekošanas sistēmu auditēšanas kārtību;
-8) no bioplastmasas un oksonoārdāmās plastmasas izgatavota iepakojuma un vienreiz lietojamo galda trauku un piederumu marķēšanas kārtību un uz šā iepakojuma un šiem galda traukiem un piederumiem norādāmo informāciju (marķējumu) par materiālu veidu.
+8) no bioplastmasas izgatavota iepakojuma un vienreiz lietojamo galda trauku un piederumu marķēšanas kārtību un uz šā iepakojuma un šiem galda traukiem un piederumiem norādāmo informāciju (marķējumu) par materiālu veidu.
 (4) Nodokļa maksātājs, kurš maksā nodokli par iepakojumu un kuram atbilstoši vides aizsardzības normatīvajiem aktiem nav jāveic izlietotā iepakojuma pārstrāde un reģenerācija, nodokli aprēķina atbilstoši šā likuma 7.pielikumā noteiktajām nodokļa likmēm par katru iepakojuma materiāla veida svara vienību vai, ja nevar nodrošināt iepakojuma materiāla veida un svara pamatošanu ar uzskaites dokumentiem, - 120 euro gadā.
 (5) Plastmasas iepirkumu maisiņiem šā likuma 4.panta piektajā daļā minētajā gadījumā piemēro šādu nodokļa likmi:
 1) vieglās plastmasas iepirkumu maisiņiem - 4,80 euro par vienu kilogramu;
