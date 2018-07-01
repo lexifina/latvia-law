@@ -3,6 +3,7 @@ Likumā ir lietoti šādi termini:
 1) bārenis - bērns, kura vecāki ir miruši vai likumā noteiktajā kārtībā atzīti par mirušiem;
 2) bez vecāku gādības palicis bērns - bērns, kura vecāki nav zināmi, ir pazuduši vai ilgstošas slimības dēļ nespēj realizēt aizgādību vai kura vecākiem pārtrauktas vai atņemtas aizgādības tiesības;
 3) audžuģimene - ģimene vai persona, kas nodrošina aprūpi bērnam, kuram uz laiku vai pastāvīgi atņemta viņa ģimeniskā vide vai kura interesēs nav pieļaujama palikšana savā ģimenē, līdz brīdim, kad bērns var atgriezties savā ģimenē vai, ja tas nav iespējams, tiek adoptēts, viņam nodibināta aizbildnība vai bērns ievietots bērnu aprūpes iestādē;
+3¹) specializētā audžuģimene - audžuģimene, kas nodrošina aprūpi noteiktas mērķgrupas bērnam, kuram ir nepieciešama īpaša aprūpe;
 4) atbalsta ģimene - ģimene, kas bērna aprūpē sniedz atbalstu citai ģimenei, pamatojoties uz pašvaldības sociālā dienesta veiktu izvērtējumu par atbalsta nepieciešamību;
 5) uzticības persona - persona, kas sniedz atbalstu ģimenē esošam bērnam, pamatojoties uz pašvaldības sociālā dienesta veiktu izvērtējumu par atbalsta nepieciešamību;
 6) pajumte - dzīvošanai derīgā stāvoklī esoša apkurināma dzīvojamā telpa (mājoklis), kas atbilst būvniecības un sanitāro normu prasībām;
