@@ -1,0 +1,1 @@
+58. Grozījumi šā likuma 33. pantā par tā papildināšanu ar 1.¹ daļu attiecībā uz pienākumu iemaksāt juridiskās personas maksātnespējas procesa depozītu, ja atkārtoti gada laikā tiek iesniegts tiesiskās aizsardzības procesa pieteikums, ir attiecināmi uz tiesiskās aizsardzības procesa lietām, kuras uzsāktas, sākot ar 2018. gada 1. jūliju.

@@ -1,0 +1,1 @@
+65. Grozījumi šā likuma 62. pantā par tā 7.³ daļas, kas noteic deleģējumu Ministru kabinetam noteikt, kāda uzņēmējdarbības riska valsts nodevas daļa novirzāma juridiskās personas maksātnespējas procesa izmaksu segšanai, izslēgšanu un grozījumi šā likuma 62. panta 7.² daļā stājas spēkā 2019. gada 1. janvārī.

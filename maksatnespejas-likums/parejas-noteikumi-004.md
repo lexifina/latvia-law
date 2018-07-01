@@ -1,4 +1,4 @@
 4. Maksātnespējas procesos, kuri uzsākti atbilstoši likumam "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju", administrators nav tiesīgs saņemt atlīdzību no Maksātnespējas administrācijai šim mērķim piešķirtajiem līdzekļiem, ja:
 1) administrators divu mēnešu laikā pēc parādnieka izslēgšanas no attiecīgā publiskā reģistra nav iesniedzis Maksātnespējas administrācijai pieprasījumu savas atlīdzības segšanai;
 2) parādnieks šajos procesos izslēgts no attiecīgā publiskā reģistra līdz 2009.gada 2.jūlijam un administrators līdz 2009.gada 30.novembrim nav iesniedzis Maksātnespējas administrācijai pieprasījumu savas atlīdzības segšanai;
-3) administrators ar tiesas lēmumu atcelts no administratora pienākumu pildīšanas likuma "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju" 28.panta pirmās daļas 2. vai 3.punktā paredzētajā gadījumā vai.
+3) administrators ar tiesas lēmumu atcelts no administratora pienākumu pildīšanas likuma "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju" 28.panta pirmās daļas 2. vai 3.punktā paredzētajā gadījumā.

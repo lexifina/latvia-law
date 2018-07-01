@@ -1,0 +1,1 @@
+69. Šā likuma 12.¹ panta desmito daļu, kurā noteikts, ka Sistēmā iekļautās ziņas ir ierobežotas pieejamības informācija, piemēro arī attiecībā uz ziņām, kas iekļautas Sistēmā atbilstoši Ministru kabineta 2016. gada 19. aprīļa noteikumiem Nr. 247 "Noteikumi par maksātnespējas procesa administratora darbības pārskatu un tā aizpildīšanas kārtību".

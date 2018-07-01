@@ -8,4 +8,4 @@
 1) būt klāt procesuālo darbību izpildes laikā, izteikt piezīmes un lūgumus;
 2) ierosināt, lai sniedzamajām ziņām vai kādai to daļai nosaka ierobežotas pieejamības informācijas statusu;
 3) iepazīties ar procesuālās darbības protokolu un tam pievienotajiem dokumentiem, ieteikt labojumus un papildinājumus;
-4) mēneša laikā pēc šā likuma 174.³ pantā noteiktā procesuālās darbības protokola parakstīšanas iesniegt sūdzību Maksātnespējas administrācijas direktoram par Maksātnespējas administrācijas amatpersonas rīcību.
+4) mēneša laikā pēc šā likuma 174.³ pantā noteiktā procesuālās darbības protokola parakstīšanas iesniegt sūdzību Maksātnespējas kontroles dienesta direktoram par Maksātnespējas kontroles dienesta amatpersonas rīcību.

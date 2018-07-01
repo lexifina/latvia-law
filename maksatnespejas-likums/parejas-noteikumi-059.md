@@ -1,0 +1,1 @@
+59. Grozījumi šā likuma 80. pantā attiecībā uz kārtību, kādā pārsūdzams administratora lēmums par kreditora prasījuma atzīšanu, neatzīšanu vai daļēju atzīšanu, vienlaikus izsakot lūgumu izskatīt strīdu par tiesībām un noteikt pagaidu aizsardzības līdzekli, piemērojami tām juridiskās personas maksātnespējas procesa lietām, kuras uzsāktas pēc šo grozījumu spēkā stāšanās.

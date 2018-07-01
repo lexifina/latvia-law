@@ -6,8 +6,9 @@ a) balsstiesīgais kreditors, kura prasījums nav mazāks kā viena desmitā da�
 b) nodrošinātais kreditors, lai ierosinātu šā likuma 90.pantā minēto procedūru,
 c) ne mazāk kā trīs kreditori neatkarīgi no prasījumu summas,
 d) parādnieka pārstāvis,
-e) Maksātnespējas administrācija,
-f) citā dalībvalstī pret parādnieku uzsāktajā Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators.
+e) Maksātnespējas kontroles dienests,
+f) citā dalībvalstī pret parādnieku uzsāktajā Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktajā maksātnespējas procedūrā iesaistītais administrators,
+g) kreditors, lai izvērtētu šā likuma 170. panta pirmajā daļā noteiktās juridiskās personas maksātnespējas procesa izdevumu pamatotību.
 (2) Šā panta pirmās daļas 2.punktā minētajos gadījumos pieprasījumā iekļauj pieprasītāju sarakstu, viņu prasījumu apjomu, sapulces darba kārtību un tās sasaukšanas iemeslus.
 (3) Kreditoru sapulci, pamatojoties uz šā panta otrajā daļā minēto pieprasījumu, administrators sasauc triju nedēļu laikā pēc pieprasījuma saņemšanas dienas.
 (4) Administrators ne vēlāk kā divas nedēļas pirms noteiktā kreditoru sapulces datuma iesniedz pieteikumu atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā; pieteikumā norāda kreditoru sapulces datumu, laiku un norises vietas adresi. Pieteikumam pievieno šā panta piektajā daļā minēto paziņojumu.

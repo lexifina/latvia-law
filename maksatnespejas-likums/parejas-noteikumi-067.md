@@ -1,0 +1,1 @@
+67. Grozījumi šā likuma 64. panta pirmās daļas 2. punktā, 88. panta pirmās daļas 2. punktā, to papildinot ar "g" apakšpunktu, 89. panta 3. punktā, 114. pantā, 118. panta divpadsmitajā daļā un 170. panta pirmajā daļā piemērojami juridisko personu maksātnespējas procesos, kas uzsākti pēc šo grozījumu spēkā stāšanās.

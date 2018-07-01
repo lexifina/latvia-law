@@ -1,1 +1,1 @@
-50. Šā likuma 174.¹ panta 13., 14. un 15.punktu, kas noteic Maksātnespējas administrācijas kompetenci izveidot, uzturēt un attīstīt Sistēmu, veikt dokumentu elektronisku apstrādi un nodrošināt ziņu pieejamību tīmekļvietnē, piemēro, sākot ar 2018.gada 1.jūliju.
+50. Šā likuma 174.¹ panta 13., 14. un 15. punktu, kas noteic Maksātnespējas kontroles dienesta kompetenci izveidot, uzturēt un attīstīt Sistēmu, veikt dokumentu elektronisku apstrādi un nodrošināt ziņu pieejamību tīmekļvietnē, piemēro, sākot ar 2018. gada 1. jūliju.

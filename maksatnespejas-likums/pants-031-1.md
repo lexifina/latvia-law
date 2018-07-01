@@ -1,9 +1,11 @@
 31.¹ pants. Disciplinārlietas ierosināšana
-(1) Disciplinārlietu pret tiesiskās aizsardzības procesa uzraugošo personu un administratoru var ierosināt Maksātnespējas administrācijas direktors pēc tiesneša vai prokurora, vai Administratoru asociācijas priekšlikuma vai pēc savas iniciatīvas.
+(1) Disciplinārlietu pret tiesiskās aizsardzības procesa uzraugošo personu un administratoru var ierosināt Maksātnespējas kontroles dienesta direktors pēc tiesneša vai prokurora, vai Administratoru asociācijas priekšlikuma vai pēc savas iniciatīvas.
 (2) Disciplinārlietu pret tiesiskās aizsardzības procesa uzraugošo personu un administratoru var ierosināt par:
 1) normatīvo aktu būtisku pārkāpumu;
 2) profesionālās ētikas normu būtisku pārkāpumu;
-3) sistemātiskiem normatīvo aktu pārkāpumiem, ja tos konstatējusi Maksātnespējas administrācija šajā likumā noteiktajā kārtībā;
-4) pilnvaru ļaunprātīgu izmantošanu, ja to konstatējusi Maksātnespējas administrācija šajā likumā noteiktajā kārtībā;
+3) sistemātiskiem normatīvo aktu pārkāpumiem, ja tos konstatējis Maksātnespējas kontroles dienests šajā likumā noteiktajā kārtībā;
+4) pilnvaru ļaunprātīgu izmantošanu, ja to konstatējis Maksātnespējas kontroles dienests šajā likumā noteiktajā kārtībā;
 5) valstij, parādniekam vai kreditoriem nodarītiem zaudējumiem, ja zaudējumu apmērs pārsniedz 20 minimālās mēnešalgas un tas ir konstatēts ar spēkā stājušos tiesas nolēmumu.
+(2¹) Ja ir uzsākts kriminālprocess vai administratīvā pārkāpuma lietvedība vai tiesā tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa lietas ietvaros tiek izskatīta sūdzība par to pašu pārkāpumu, par kuru ir pamats ierosināt disciplinārlietu, jautājuma izlemšanu par disciplinārlietas ierosināšanu var atlikt, bet, ja disciplinārlieta ir ierosināta, tās izskatīšanu var apturēt līdz brīdim, kad stājas spēkā galīgais nolēmums attiecīgajā kriminālprocesā vai administratīvā pārkāpuma lietvedībā vai lēmums, ar kuru tiesa izskatījusi sūdzību tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa lietas ietvaros.
+(2²) Šā panta 2.¹ daļā minētajā gadījumā lēmumu par disciplinārlietas ierosināšanu pieņem vai disciplinārlietas izskatīšanu atjauno viena mēneša laikā no dienas, kad Maksātnespējas kontroles dienests saņēmis spēkā stājušos galīgo nolēmumu attiecīgajā kriminālprocesā vai administratīvā pārkāpuma lietvedībā vai lēmumu, ar kuru tiesa izskatījusi sūdzību tiesiskās aizsardzības procesa, juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa lietas ietvaros.
 (3) Ministru kabinets nosaka kārtību, kādā ierosina disciplinārlietu pret tiesiskās aizsardzības procesa uzraugošo personu un administratoru.

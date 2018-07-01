@@ -1,5 +1,5 @@
 174.³ pants. Procesuālās darbības protokols
-(1) Šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības Maksātnespējas administrācijas amatpersonas fiksē procesuālās darbības protokolā.
+(1) Šā likuma 174.² panta pirmās daļas 9. punktā noteiktās procesuālās darbības Maksātnespējas kontroles dienesta amatpersonas fiksē procesuālās darbības protokolā.
 (2) Procesuālās darbības protokolā norāda:
 1) darbības norises vietu un datumu;
 2) darbības veikšanas tiesisko pamatu;

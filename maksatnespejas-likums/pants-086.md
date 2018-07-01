@@ -1,9 +1,9 @@
 86.pants. Kreditoru sapulces procedūra
 (1) Kreditoru sapulce ir organizēta kreditoru kopīgas darbības forma kreditoru lēmumu pieņemšanai.
 (2) Kreditoru sapulci vada administrators.
-(3) Kreditoru sapulcē var būt klāt Maksātnespējas administrācijas pārstāvji.
+(3) Kreditoru sapulcē var būt klāt Maksātnespējas kontroles dienesta pārstāvji.
 (4) Kreditors var piedalīties kreditoru sapulcē personīgi vai ar pārstāvja starpniecību. Kreditora pārstāvim ir pienākums uzrādīt kreditoru sapulces vadītājam pārstāvību apliecinošu dokumentu.
-(5) Ja kreditoru sapulcē piedalās pret parādnieku citā dalībvalstī uzsāktajā Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators, viņš kreditoru sapulces vadītājam uzrāda tiesas nolēmuma norakstu par minētās regulas 3.panta 1. vai 2.punktā noteiktajā maksātnespējas procedūrā iesaistītā likvidatora iecelšanu vai cita apliecinājuma atbilstoši apliecinātu norakstu un noteiktā kārtībā apliecinātu nolēmuma vai apliecinājuma tulkojumu valsts valodā.
+(5) Ja kreditoru sapulcē piedalās pret parādnieku citā dalībvalstī uzsāktajā Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. vai 2. punktā noteiktajā maksātnespējas procedūrā iesaistītais administrators, viņš kreditoru sapulces vadītājam uzrāda tiesas nolēmuma norakstu par minētās regulas 3. panta 1. vai 2. punktā noteiktajā maksātnespējas procedūrā iesaistītā administratora iecelšanu vai cita apliecinājuma atbilstoši apliecinātu norakstu un noteiktā kārtībā apliecinātu nolēmuma vai apliecinājuma tulkojumu valsts valodā.
 (6) Kreditors sevis pārstāvēšanai kreditoru sapulcē var pilnvarot ne vairāk kā vienu personu. Šī persona pārstāv kreditoru pilnā viņa prasījuma apmērā.
 (7) Ja kreditoru prasījumu reģistrā ir reģistrēti vairāk par 100 kreditoriem, kreditoru sapulcē piedalās tie kreditori, kuri pārstāv ne mazāk par vienu procentu no visu kreditoru prasījumu summas. Šajā gadījumā viena persona var pārstāvēt vairākus kreditorus.
 (8) Administrators sniedz kreditoriem, kuru prasījumi nepārsniedz vienu procentu no visu atzīto prasījumu summas, nepieciešamās ziņas, kā arī atbalstu, lai šādi kreditori apvienotos un pilnvarotu kopīgu pārstāvi balsot viņu vārdā.

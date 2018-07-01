@@ -1,0 +1,1 @@
+61. Ministru kabinets līdz 2018. gada 1. jūlijam noteic kārtību, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā, nosakot Maksātnespējas kontroles dienesta rīcību ar depozītu, kas iemaksāts tiesiskās aizsardzības procesa lietas ietvaros, un nosakot jaunu kārtību fiziskās personas maksātnespējas procesa depozīta izmaksai.

@@ -13,4 +13,4 @@
 2) fiziskās personas, kurām kā dalībniekiem ir izšķiroša ietekme uz parādnieku - kapitālsabiedrību;
 3) personas, kuras ir ieguvušas prasījuma tiesības pret parādnieku no šās daļas 1. un 2.punktā minētajām personām pēdējo divu gadu laikā pirms tiesiskās aizsardzības procesa pasākumu plāna saskaņošanas.
 (6¹) Šā panta sestajā daļā minēto kreditoru prasījumi netiek ieskaitīti kopējā kreditoru galveno prasījumu summā, no kuras rēķina tiesiskās aizsardzības procesa pasākumu plāna saskaņošanai nepieciešamo balsu skaitu.
-(7) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, tiesiskās aizsardzības procesa pasākumu plānu rakstveidā saskaņo ar Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktajā maksātnespējas procedūrā iesaistīto likvidatoru.
+(7) Ja pret parādnieku Latvijā uzsākta Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 2. punktā noteiktā maksātnespējas procedūra, tiesiskās aizsardzības procesa pasākumu plānu rakstveidā saskaņo ar Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktajā maksātnespējas procedūrā iesaistīto administratoru.
