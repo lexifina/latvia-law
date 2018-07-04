@@ -1,0 +1,1 @@
+6. pants. Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar Valsts vides dienestu un valsts akciju sabiedrību "Latvijas Jūras administrācija" nodrošina Konvencijas pielikuma B-4. noteikuma 2. punktā paredzēto saistību izpildi.

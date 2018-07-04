@@ -1,0 +1,1 @@
+11. pants. Nacionālo bruņoto spēku Jūras spēku Krasta apsardzes dienests, pamatojoties uz Vides aizsardzības un reģionālās attīstības ministrijas vai Valsts vides dienesta sniegto informāciju, nodrošina Konvencijas pielikuma C-2. noteikuma 1. punktā paredzēto saistību izpildi.

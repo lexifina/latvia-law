@@ -1,0 +1,1 @@
+13. pants. Konvencijas 4. panta 2. punktā un 6. panta 1. punkta "b" apakšpunktā un 2. punkta "b" apakšpunktā paredzēto saistību izpilde tiek nodrošināta saskaņā ar normatīvajiem aktiem par jūras vides aizsardzību un pārvaldību.

@@ -1,0 +1,3 @@
+3. pants. Satiksmes ministrija, pamatojoties uz Vides aizsardzības un reģionālās attīstības ministrijas, Valsts vides dienesta vai valsts akciju sabiedrības "Latvijas Jūras administrācija" iesniegto informāciju, nodrošina:
+1) paziņošanas pienākuma Starptautiskajai jūrniecības organizācijai izpildi saskaņā ar Konvencijas 5. panta 2. punktu, 8. panta 1. punktu, 14. panta 1. punktu, pielikuma A-4. noteikuma 2. punktu, C-2. noteikuma 2. punktu un E-1. noteikuma 5. punktu, ja attiecīgo informāciju nav iespējams paziņot, to ievadot Globālajā integrētajā kuģošanas informācijas sistēmā (GISIS);
+2) informācijas pieejamību citām dalībvalstīm saskaņā ar Konvencijas 14. panta 1. punktu.

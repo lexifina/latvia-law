@@ -1,0 +1,1 @@
+8. pants. Izglītības un zinātnes ministrija sadarbībā ar Vides aizsardzības un reģionālās attīstības ministriju un Satiksmes ministriju nodrošina Konvencijas 6. panta 1. punkta "a" apakšpunktā un 2. punkta "a" apakšpunktā paredzēto saistību izpildi.
