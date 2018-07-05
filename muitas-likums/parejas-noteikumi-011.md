@@ -1,0 +1,1 @@
+11. Šā likuma 22. panta ceturtā daļa, kā arī grozījumi 25. panta otrās daļas 1. punktā attiecībā uz vārdu "atjauno un anulē" aizstāšanu ar vārdiem "atjauno, anulē un atceļ" stājas spēkā 2018. gada 1. decembrī.

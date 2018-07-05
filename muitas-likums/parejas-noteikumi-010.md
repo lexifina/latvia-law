@@ -1,0 +1,1 @@
+10. Ministru kabinets atbilstoši šā likuma 22. pantam garantijas asociāciju Latvijas Republikā apstiprina ne vēlāk kā līdz 2018. gada 1. decembrim. Līdz dienai, kad Ministru kabinets atbilstoši šā likuma 22. pantam ir apstiprinājis garantijas asociāciju, šos pienākumus pilda biedrība "Autopārvadātāju asociācija "Latvijas auto"".
