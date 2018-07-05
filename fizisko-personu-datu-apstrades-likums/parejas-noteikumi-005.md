@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2021. gada 30. jūnijam izvērtē šajā likumā ietvertā regulējuma par datu aizsardzības speciālista kvalifikācijas eksāmena lietderību un iesniedz Saeimai izvērtējumu par iespēju atteikties no šā eksāmena.
