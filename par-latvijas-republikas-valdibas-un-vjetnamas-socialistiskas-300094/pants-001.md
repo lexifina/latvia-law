@@ -1,0 +1,1 @@
+1. pants. 2017. gada 19. oktobrī parakstītais Latvijas Republikas valdības un Vjetnamas Sociālistiskās Republikas valdības līgums par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu attiecībā uz ienākuma nodokļiem (turpmāk - līgums) un tā 2017. gada 19. oktobrī parakstītais protokols (turpmāk - protokols) ar šo likumu tiek pieņemts un apstiprināts.
