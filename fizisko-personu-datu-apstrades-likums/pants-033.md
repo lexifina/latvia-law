@@ -1,0 +1,2 @@
+33. pants. Nosacījumi bērna piekrišanai attiecībā uz informācijas sabiedrības pakalpojumiem
+Ja atbilstoši datu regulas 8. pantam informācijas sabiedrības pakalpojumu tiešai sniegšanai ir nepieciešama datu subjekta piekrišana, bet datu subjekts ir bērns, viņa piekrišana ir uzskatāma par pamatu datu apstrādei un viņa datu apstrāde ir likumīga, ja bērns ir vismaz 13 gadus vecs vai ja attiecībā uz bērnu, kurš vēl nav sasniedzis 13 gadu vecumu, piekrišanu ir devis viņa vecāks vai likumiskais aizbildnis.

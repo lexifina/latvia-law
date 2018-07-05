@@ -1,0 +1,1 @@
+4. Personas, kuru dati ir iekļauti Datu valsts inspekcijas datu aizsardzības speciālistu reģistrā pirms šā likuma spēkā stāšanās dienas un kuras nav no šā reģistra izslēgtas, iekļauj datu aizsardzības speciālistu sarakstā, ja tās sešu mēnešu laikā no šā likuma spēkā stāšanās dienas iesniedz attiecīgu rakstveida lūgumu inspekcijas direktoram.

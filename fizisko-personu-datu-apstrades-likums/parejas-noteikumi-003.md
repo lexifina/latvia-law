@@ -1,0 +1,1 @@
+3. Līdz šā likuma spēkā stāšanās dienai ieceltais Datu valsts inspekcijas direktors pilda inspekcijas direktora funkcijas līdz brīdim, kad šā likuma 6. pantā noteiktajā kārtībā amatā tiek iecelts jauns inspekcijas direktors, bet ne ilgāk kā līdz 2019. gada 31. decembrim.

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Fizisko personu datu aizsardzības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 9. nr.; 2002, 23. nr.; 2007, 3., 8. nr.; 2008, 7. nr.; 2009, 14. nr.; Latvijas Vēstnesis, 2010, 78. nr.; 2012, 104. nr.; 2014, 38. nr.).

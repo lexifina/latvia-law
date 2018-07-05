@@ -1,0 +1,5 @@
+10. pants. Inspekcijas direktora pilnvaru apturēšana
+(1) Ja inspekcijas direktoram ir piemērots ar brīvības atņemšanu saistīts drošības līdzeklis vai pret viņu ir uzsākta kriminālvajāšana, tieslietu ministrs aptur viņa pilnvaras līdz brīdim, kad stājas spēkā attaisnojošs tiesas spriedums attiecīgajā krimināllietā vai kriminālprocess pret viņu tiek izbeigts uz reabilitējoša pamata.
+(2) Inspekcijas direktora pilnvaru apturēšanas periodā viņam izmaksā valstī noteikto minimālo mēneša darba algu.
+(3) Ja inspekcijas direktors likumā noteiktajā kārtībā tiek atzīts par vainīgu noziedzīga nodarījuma izdarīšanā, viņu uzskata par atbrīvotu no amata ar pilnvaru apturēšanas dienu un darba samaksu par pilnvaru apturēšanas periodu neizmaksā. Ja inspekcijas direktors tiek attaisnots vai kriminālprocess pret viņu tiek izbeigts, viņam izmaksā darba samaksu par pilnvaru apturēšanas periodu, ja vien nav cita šajā likumā noteikta pamata atbrīvošanai no amata.
+(4) Ja kriminālprocess pret inspekcijas direktoru tiek izbeigts uz nereabilitējoša pamata, jautājumu par viņa atbrīvošanu no amata izvērtē šā likuma 6. panta ceturtajā daļā minētā komisija.

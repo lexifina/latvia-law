@@ -1,0 +1,3 @@
+30. pants. Datu apstrāde arhivēšanas nolūkos sabiedrības interesēs
+(1) Ja datus apstrādā arhivēšanas nolūkos sabiedrības interesēs, lai veidotu, uzkrātu, izvērtētu, saglabātu un izmantotu nacionālo dokumentāro mantojumu, datu regulas 15. un 16. pantā noteiktās tiesības datu subjekts īsteno atbilstoši arhīva jomu regulējošiem normatīvajiem aktiem.
+(2) Ja datus apstrādā arhivēšanas nolūkos sabiedrības interesēs, lai veidotu, uzkrātu, izvērtētu, saglabātu un izmantotu nacionālo dokumentāro mantojumu, datu regulas 18., 19., 20. un 21. pantā noteiktās datu subjekta tiesības netiek piemērotas, ciktāl tās var neļaut vai būtiski traucēt konkrēto nolūku sasniegšanu un atkāpes ir vajadzīgas šo nolūku sasniegšanai.
