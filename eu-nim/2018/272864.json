@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Fizisko personu datu apstrādes likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132 (6218)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-04",
+  "entry_into_force": "2018-07-05",
+  "notification_date": "2019-05-14",
+  "commission_reference": "MNE(2019)52999",
+  "nim_celex": "72016L0680LVA_272864",
+  "nim_id": "272864",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3ec2cea9-a494-4537-a7ce-a072277daeff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
