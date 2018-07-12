@@ -1,0 +1,1 @@
+2. Šā likuma 11.¹ panta trešajā daļā minētās tiesības vienpusēji atkāpties no līguma izpildes neattiecina uz tiem iepirkumiem vai iepirkumu procedūrām, kuras uzsāktas vai izsludinātas pirms šīs normas spēkā stāšanās dienas.

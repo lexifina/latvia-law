@@ -1,0 +1,1 @@
+4. Šā likuma 13.², 13.³ un 13.⁴ pants stājas spēkā vienlaikus ar grozījumiem Krimināllikuma 84. pantā, kas nosaka kriminālsodus par Apvienoto Nāciju Organizācijas, Eiropas Savienības un citu starptautisko organizāciju noteikto sankciju vai par Latvijas Republikas noteikto nacionālo sankciju pārkāpšanu.
