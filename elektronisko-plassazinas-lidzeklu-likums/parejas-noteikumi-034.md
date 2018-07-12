@@ -1,0 +1,1 @@
+34. Šā likuma 39.¹ pants, grozījumi 42. panta pirmajā daļā, kas paredz izslēgt otro teikumu, 42. panta trešā daļa, grozījumi 47. panta pirmajā daļā, kas paredz izslēgt otro teikumu, 47. panta trešā daļa un 66. panta septītā daļa stājas spēkā 2021. gada 1. janvārī. Plānojot valsts budžetu, ir paredzams šiem grozījumiem atbilstošs finansējums.

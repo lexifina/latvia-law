@@ -15,9 +15,11 @@ Likumā ir lietoti šādi termini:
 12¹) maksas televīzija - par maksu nodrošināta piekļuve elektroniskā plašsaziņas līdzekļa televīzijas programmai;
 13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus;
 14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
+14¹) patiesais labuma guvējs - fiziskā persona, kas atbilst Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā lietotajam terminam "patiesais labuma guvējs";
 15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
 16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā par samaksu vai citu atlīdzību;
 17) programma - elektroniskā plašsaziņas līdzekļa veidots raidījums vai raidījumu kopums ar kopēju nosaukumu;
+17¹) programmas pamata audiovaloda - valoda, kas noteikta Nacionālās elektronisko plašsaziņas līdzekļu padomes izsniegtās apraides atļaujas darbības pamatnosacījumos un kas nodrošināma neatkarīgi no televīzijas programmas izplatīšanas veida;
 18) programmu izplatīšana - programmu nogādāšana līdz raidīšanas tehniskajiem līdzekļiem un raidīšana publiskai uztveršanai atklāta vai aizsargāta pakalpojuma veidā, izmantojot publiskos elektronisko sakaru tīklus;
 19) publiska uztveršana - iespēja uztvert elektroniskā plašsaziņas līdzekļa izplatīto programmu vai raidījumu katalogu bez atlīdzības vai par atlīdzību jebkurā vietā attiecīgās programmas izplatīšanas publisko elektronisko sakaru tīkla aptveršanas zonā;
 20) radio veikala skatlogs - radio veikals, kura ilgums pārsniedz 15 minūtes;
@@ -33,9 +35,10 @@ Likumā ir lietoti šādi termini:
 30) satelīttelevīzija un satelītradio - programmu un raidījumu izplatīšana, izmantojot satelītu;
 31) slēpts audio un audiovizuāls elektroniskā plašsaziņas līdzekļa komerciāls paziņojums - preču, pakalpojumu, nosaukumu, preču zīmju, preču ražotāja vai pakalpojumu sniedzēja darbību atveidojums vārdu vai attēlu veidā, ja šādu atveidojumu elektroniskais plašsaziņas līdzeklis ir apzināti iecerējis kā audio vai audiovizuālu komerciālu paziņojumu, bet tas varētu maldināt sabiedrību par šā paziņojuma būtību. Šāds atveidojums jo īpaši uzskatāms par apzināti iecerētu, ja tā izvietošana notiek par samaksu vai citu atlīdzību;
 32) sponsorēšana - jebkuras apraides veikšanā vai audio un audiovizuālu darbu, programmas vai raidījuma veidošanā neiesaistītas personas ieguldījums elektronisko plašsaziņas līdzekļu vai raidījumu finansēšanā, lai popularizētu savu nosaukumu, preču zīmi, tēlu, darbību vai ražojumu;
-32¹) televīzijas programmu izplatīšanas pakalpojums - pakalpojums, kas nodrošina iespēju uztvert televīzijas programmu lietotāja gala iekārtā. Šī definīcija neattiecas uz šā likuma 13.pantā minētajiem gadījumiem;
+32¹) televīzijas programmu izplatīšanas pakalpojums - pakalpojums, kas nodrošina iespēju uztvert televīzijas programmu lietotāja galaiekārtā, tostarp izplatot vai retranslējot programmu. Šī definīcija neattiecas uz šā likuma 13. pantā minētajiem gadījumiem;
 33) televīzijas veikala skatlogs - televīzijas veikals, kura ilgums pārsniedz 15 minūtes;
 34) televīzijas veikals - tiešs sabiedrībai adresēts audiovizuāls paziņojums nolūkā piedāvāt par samaksu vai citu atlīdzību preces, tai skaitā nekustamo īpašumu vai pakalpojumus, tiesības un pienākumus;
+34¹) valodas celiņš - skaņas celiņš, kas atšķiras no programmas pamata audiovalodas;
 35) virtuālā reklāma - reklāma, kas tiek elektroniski izvietota uz kadra attēla raidījuma laikā;
 36) zemes raidītājs - raidītājs, kas pārraida elektronisko plašsaziņas līdzekļu programmas un raidījumus, izplatot signālu ar antenas palīdzību bez mākslīga vadītāja jebkuru tādu radiosakaru nodrošināšanai, kuri nav izplatījuma radiosakari vai radioastronomija;
 37) Zemes stacija - uz zemes virsmas izvietota elektronisko sakaru tīkla galastacija elektronisko plašsaziņas līdzekļu programmu un raidījumu nogādāšanai līdz raidīšanas tehniskajiem līdzekļiem, kas atrodas izplatījumā.

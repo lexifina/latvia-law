@@ -1,0 +1,1 @@
+37. Elektroniskais plašsaziņas līdzeklis, kas saņēmis apraides atļauju, retranslācijas atļauju vai paziņojis par pakalpojumu pēc pieprasījuma sniegšanu, iesniedz Nacionālajai elektronisko plašsaziņas līdzekļu padomei informāciju par tā patieso labuma guvēju līdz 2018. gada 31. decembrim.
