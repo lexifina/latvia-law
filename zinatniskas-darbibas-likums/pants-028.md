@@ -6,7 +6,7 @@
 4) zinātniskās institūcijas juridiskais statuss;
 5) datums, kad pieņemts lēmums par zinātniskās institūcijas dibināšanu;
 6) zinātniskās institūcijas tālruņa un faksa numurs, elektroniskā pasta adrese;
-7) personas ar doktora zinātnisko grādu, kurām ar zinātnisko institūciju noslēgts darba līgums;
+7) (izslēgts ar 21.06.2018. likumu);
 8) ziņas par zinātniskās institūcijas telpu nodrošinājumu un svarīgākajām zinātniskajām iekārtām;
 9) (izslēgts ar 21.06.2007. likumu);
 10) (izslēgts ar 21.06.2007. likumu);

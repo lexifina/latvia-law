@@ -1,1 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no Padomes 2005.gada 12.oktobra direktīvas 2005/71/EK par īpašu procedūru trešo valstu valsts piederīgo uzņemšanai zinātniskās pētniecības nolūkos.
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2016. gada 11. maija direktīvas 2016/801 par nosacījumiem attiecībā uz trešo valstu valstspiederīgo ieceļošanu un uzturēšanos pētniecības, studiju, stažēšanās, brīvprātīga darba, skolēnu apmaiņas programmu vai izglītības projektu un viesaukles darba nolūkā.
