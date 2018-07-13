@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018.gada 10. jūlija noteikumi Nr. 408 Grozījums Ministru kabineta 2010.gada 2.februāra noteikumos Nr.103 „Transportlīdzekļu vadītāja tiesību iegūšanas un atjaunošanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas, atjaunošanas un iznīcināšanas kārtība”.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137 (6223),",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-12",
+  "entry_into_force": "2018-07-13",
+  "notification_date": "2018-07-12",
+  "commission_reference": "MNE(2018)53676",
+  "nim_celex": "72006L0126LVA_260631",
+  "nim_id": "260631",
+  "transposes_celex": [
+    "32006L0126"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/519cc0e3-8d3c-4720-b761-641d1f6f3847",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
