@@ -1,5 +1,5 @@
 69.pants. Citā dalībvalstī dibināta fonda pārvalde vai pakalpojumu sniegšana, ko veic Latvijā licencēts pārvaldnieks
-(1) Latvijā licencētam pārvaldniekam ir tiesības pārvaldīt citā dalībvalstī dibinātu fondu, ja Komisija pārvaldniekam ir atļāvusi īstenot šādu tā izraudzīto fonda ieguldījumu stratēģiju.
+(1) Latvijā licencētam pārvaldniekam ir tiesības pārvaldīt citā dalībvalstī dibinātu fondu vai sniegt šā likuma 5. panta septītajā un astotajā daļā minētos pakalpojumus, ja Komisija pārvaldniekam ir atļāvusi īstenot šādu tā izraudzīto fonda ieguldījumu stratēģiju vai izsniegusi atļauju sniegt šā likuma 5. panta septītajā un astotajā daļā minētos pakalpojumus.
 (2) Pārvaldnieks, kurš vēlas pārvaldīt citā dalībvalstī dibinātu fondu vai sniegt šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus, neatverot filiāli, iesniedz Komisijai iesniegumu, kā arī šādus dokumentus un informāciju:
 1) aprakstu, kas sniedz patiesu un skaidru priekšstatu par pārvaldnieka plānoto darbību fondu pārvaldē un pakalpojumu sniegšanā;
 2) informāciju par dalībvalsti, kurā pārvaldnieks plāno veikt fonda pārvaldi vai pakalpojumu sniegšanu;
