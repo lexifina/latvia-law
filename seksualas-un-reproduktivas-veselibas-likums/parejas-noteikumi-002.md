@@ -1,0 +1,1 @@
+2. Šā likuma 5. panta piektā daļa un grozījums attiecībā uz 25. panta otrās daļas papildināšanu ar vārdiem un skaitli "un saņemt šā likuma 5. panta piektajā daļā noteikto konsultāciju" stājas spēkā 2019. gada 1. jūlijā.

@@ -1,0 +1,2 @@
+28. pants. Grūtniecības pārtraukšanās līdz 22. grūtniecības nedēļai
+Ja grūtniecība pārtraucas līdz 22. grūtniecības nedēļai, ārstniecības iestāde izsniedz izrakstu un rakstveidā informē pacienti par iespēju saņemt nedzīvi dzimuša augļa mirstīgās atliekas (ja tas fiziski iespējams) apglabāšanai. Ja paciente atsakās no nedzīvi dzimuša augļa mirstīgo atlieku apglabāšanas, ārstniecības iestāde nodrošina cilvēka cieņai atbilstošu attieksmi pret nedzīvi dzimuša augļa mirstīgajām atliekām.
