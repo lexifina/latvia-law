@@ -18,10 +18,10 @@ c) profesionālās vidējās izglītības programma, kuras apguve ir nepiecieša
 a) vispārējā pamatizglītība vai vispārējā vidējā izglītība,
 b) profesionālās izglītības programma pamata pakāpē un cita izglītība, par kuras ieguvi neizsniedz 1., 2., 3. vai 4.līmenim atbilstošu izglītības dokumentu,
 c) īpašu eksāmenu nokārtošana bez iepriekšējās izglītības iegūšanas,
-d) vismaz trīs gadus ilga nepārtraukta pilna laika nodarbinātība vai atbilstoša ilguma daļlaika nodarbinātība attiecīgajā profesijā pēdējo 10 gadu laikā.
+d) vismaz trīs gadus ilga profesionālā pieredze darbā ar normālu darba laiku vai līdzvērtīga ilguma nepilnu darba laiku attiecīgajā profesijā iepriekšējo 10 gadu periodā pirms iesnieguma iesniegšanas kvalifikācijas atzīšanas apliecības iegūšanai.
 (3) Pretendenta profesionālo kvalifikāciju atzīst šādos gadījumos:
 1) pretendenta iesniegtie dokumenti atbilst prasībām, kādas attiecīgajai profesijai noteiktas Latvijas Republikā attiecīgo profesionālās darbības jomu reglamentējošos normatīvajos aktos;
 2) pretendents var kompensēt būtiskās atšķirības izglītības raksturā, saturā un līmenī atbilstoši Ministru kabineta noteiktajām papildu prasībām profesionālās kvalifikācijas atzīšanai tādā profesijā, kurai piemēro vispārējo profesionālās kvalifikācijas atzīšanas sistēmu;
 3) pretendenta profesionālās pieredzes ilgums un veids atbilst Ministru kabineta noteiktajam profesionālās pieredzes ilgumam un veidam attiecībā uz profesijām, kurām piemēro profesionālās kvalifikācijas atzīšanu, pamatojoties uz pretendenta profesionālo pieredzi;
 4) pretendenta iesniegtie dokumenti daļēji atbilst prasībām, kādas šai profesijai noteiktas Latvijas Republikā attiecīgo profesionālās darbības jomu reglamentējošos normatīvajos aktos, bet apliecina tādas izglītības programmas apguvi, kuras saturs un ilgums būtiski neatšķiras no Latvijas Republikā noteiktā, un tie ir ne vairāk kā par vienu šā panta otrajā daļā noteikto līmeni zemāki tādā profesijā, kurai piemēro vispārējo profesionālās kvalifikācijas atzīšanas sistēmu;
-5) pretendenta iesniegtie dokumenti apliecina, ka ir izpildīts Eiropas Savienības dalībvalstu vai attiecīgo profesionālo organizāciju izveidots un Eiropas Komisijas atzīts profesionālās kvalifikācijas kritēriju komplekss (kopīgā platforma), lai kompensētu būtiskās atšķirības izglītības un profesionālās kvalifikācijas iegūšanas prasībās.
+5) (izslēgts ar 21.06.2018. likumu).

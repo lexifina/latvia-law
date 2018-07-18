@@ -1,0 +1,1 @@
+7. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos tajos lietotais termins "neatkarīgs eksperts ēku energoefektivitātes jomā" atbilst šajā likumā lietotajam terminam "neatkarīgs ēku energoefektivitātes eksperts".

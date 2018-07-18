@@ -16,8 +16,8 @@
 8) optometrists;
 9) fizioterapeita asistents;
 10) ergoterapeita asistents;
-11) reitterapeits;
-12) reitterapeita asistents;
+11) (izslēgts ar 21.06.2018. likumu);
+12) (izslēgts ar 21.06.2018. likumu);
 13) tehniskais ortopēds;
 14) kosmētiķis;
 15) zobārsta asistents;

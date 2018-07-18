@@ -18,7 +18,7 @@ a) mehānisko transportlīdzekļu vadītājs,
 b) bīstamu kravu pārvadājumu drošības konsultants (padomnieks),
 c) bīstamu kravu pārvadāšanas transportlīdzekļu vadītājs;
 5) (izslēgts ar 12.11.2015. likumu);
-6) reglamentētajām profesijām, kurās izdod Eiropas profesionālo karti.
+6) (izslēgts ar 21.06.2018. likumu).
 (2) Ja pretendenta mītnes valsts nav pievienojusies šā panta pirmajā daļā minētajiem starptautiskajiem līgumiem, pretendenta profesionālo kvalifikāciju atzīst tikai tad, ja viņa izglītība un profesionālā pieredze līmeņa, satura un ilguma ziņā būtiski neatšķiras no Latvijas Republikā attiecīgajai profesijai noteiktajām prasībām.
 (3) (Izslēgta ar 17.07.2008. likumu)
 (4) (Izslēgta ar 17.07.2008. likumu)

@@ -1,11 +1,13 @@
 57.pants. Institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās
-(1) Institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās attiecīgajā darbības jomā:
-1) Ministru kabineta noteiktajā kārtībā izskata pretendentu iesniegumus par kvalifikācijas atzīšanas apliecības saņemšanu attiecīgā reglamentētajā profesijā un tiem pievienotos dokumentus un pieņem lēmumu par pretendentu profesionālās kvalifikācijas atzīšanu vai neatzīšanu:
-a) ja pieņemts lēmums atzīt pretendenta profesionālo kvalifikāciju, - sagatavo kvalifikācijas atzīšanas apliecību, ievērojot šajā likumā noteiktos dokumentu izskatīšanas termiņus,
-b) ja pieņemts lēmums neatzīt pretendenta profesionālo kvalifikāciju, - sagatavo lēmuma un tā pamatojuma izrakstu, ievērojot šajā likumā noteiktos dokumentu izskatīšanas termiņus;
-2) nodrošina pretendentam iespēju kārtot kvalifikācijas atbilstības pārbaudi vai adaptēties;
-3) sagatavo kvalifikācijas atzīšanas apliecības pēc šīs daļas 2.punkta prasību izpildes;
-4) sagatavotās kvalifikācijas atzīšanas apliecības vai lēmumus par pretendenta profesionālās kvalifikācijas neatzīšanu nosūta attiecīgajai informācijas institūcijai.
+(1) Institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās, Ministru kabineta noteiktajā kārtībā izskata pretendentu iesniegumus par kvalifikācijas atzīšanas apliecības saņemšanu attiecīgajā reglamentētajā profesijā un tiem pievienotos dokumentus. Šīs institūcijas var pieņemt šādus lēmumus:
+1) atzīt profesionālo kvalifikāciju, tai skaitā profesionālo kvalifikāciju attiecībā uz daļu no reglamentētās profesijas profesionālajām darbībām, un izsniegt profesionālās kvalifikācijas atzīšanas apliecību profesionālajai darbībai Latvijas Republikā;
+2) pieprasīt papildu dokumentus atbilstoši šim likumam;
+3) noteikt adaptācijas periodu un kvalifikācijas atbilstības pārbaudi vai vienu no tiem;
+4) atteikt profesionālās kvalifikācijas atzīšanu, tai skaitā profesionālās kvalifikācijas atzīšanu attiecībā uz daļu no reglamentētās profesijas profesionālajām darbībām;
+5) izdot atļauju īslaicīgu profesionālo pakalpojumu sniegšanai;
+6) pārbaudīt īslaicīgu profesionālo pakalpojumu sniedzēja kvalifikāciju saskaņā ar šā likuma 42. pantu;
+7) atteikt atļaujas izdošanu īslaicīgu profesionālo pakalpojumu sniegšanai.
 (2) Šajā pantā minētās institūcijas sadarbojas ar šā likuma 56.pantā minētajām institūcijām un nodrošina informācijas apmaiņu ar attiecīgajām ārvalstu un Eiropas Savienības kompetentajām institūcijām, lai nodrošinātu izglītības un profesionālās kvalifikācijas prasību koordināciju Latvijas Republikā un ārvalstīs un profesionālās kvalifikācijas savstarpēju atzīšanu.
-(2¹) Šajā pantā minētās institūcijas Ministru kabineta noteiktajā kārtībā sadarbojas ar Akadēmiskās informācijas centru un sniedz informāciju par personām ar profesionālo kvalifikāciju, kurām Latvijas Republikā ir ierobežotas vai liegtas tiesības veikt profesionālo darbību reglamentētajā profesijā.
+(2¹) Šajā pantā minētās institūcijas Ministru kabineta noteiktajā kārtībā sadarbojas ar Akadēmiskās informācijas centru un sniedz informāciju par personām ar profesionālo kvalifikāciju, kurām Latvijas Republikā ir ierobežotas vai liegtas tiesības veikt profesionālo darbību reglamentētajā profesijā, kā arī saņem no citas Eiropas Savienības dalībvalsts informāciju par personām ar profesionālo kvalifikāciju, kurām ir ierobežotas vai liegtas tiesības veikt profesionālo darbību reglamentētajā profesijā.
+(2²) Šā panta pirmajā daļā minētās institūcijas sadarbojas ar Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu atbildīgajām institūcijām reglamentēto profesiju un profesionālās kvalifikācijas atzīšanas jomā, izmantojot Iekšējā tirgus informācijas sistēmu.
 (3) Profesionālās organizācijas ir tiesīgas piedalīties ar padomdevēja tiesībām to institūciju darbā, kuras izsniedz profesionālās kvalifikācijas atzīšanas apliecības, kad tās skata ar ārvalstīs iegūto profesionālo kvalifikāciju atzīšanu saistītos jautājumus.
