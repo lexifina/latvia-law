@@ -6,7 +6,7 @@
 1) uz šīs zemes ir pašvaldībai piederošas ēkas (būves);
 2) vietējās pašvaldības teritorijas plānojumā attiecīgi neapbūvēti zemes gabali paredzēti jaunu pašvaldības ēku (būvju) celtniecībai vai pašvaldību funkciju īstenošanai;
 3) uz šīs zemes ir dzīvojamās mājas, kurās esošie dzīvokļi privatizēti saskaņā ar likumu "Par kooperatīvo dzīvokļu privatizāciju" un likumu "Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju";
-4) tā ir zemes starpgabals atbilstoši Valsts un pašvaldību mantas atsavināšanas likumā noteiktajam un par to pašvaldības dome (padome) ir pieņēmusi lēmumu, ka tā ir starpgabals, izņemot šā likuma 8.pantā minēto uz valsts vārda zemesgrāmatā ierakstāmo zemi;
+4) tā ir zemes starpgabals atbilstoši Publiskas personas mantas atsavināšanas likumā noteiktajam un par to pašvaldības dome (padome) ir pieņēmusi lēmumu, ka tā ir starpgabals, izņemot šā likuma 8.pantā minēto uz valsts vārda zemesgrāmatā ierakstāmo zemi;
 5) šī zeme piešķirta pašvaldībai personisko palīgsaimniecību vajadzībām atbilstoši likuma "Par zemes reformu Latvijas Republikas lauku apvidos" 7.pantam un saskaņā ar pašvaldības teritorijas plānojumu to paredzēts izmantot tikai šīm vajadzībām.
 (3) Zemes reformas laikā pašvaldībai piekrīt un uz attiecīgās pašvaldības vārda zemesgrāmatā ierakstāma zeme, kura 1940.gada 21.jūlijā piederēja valstij, tikai gadījumos, ja:
 1) uz šīs zemes ir pašvaldībai piederošas ēkas (būves);

@@ -1,0 +1,1 @@
+7. Līdz ar tā grozījuma spēkā stāšanos, kurš paredz izslēgt šā likuma 16. panta pirmo daļu, nekustamie īpašumi ir brīvi no aprobežojumiem, kas zemesgrāmatā ierakstīti saskaņā ar šā likuma 16. panta pirmo daļu.
