@@ -1,0 +1,1 @@
+Valsts prezidents R. Vējonis

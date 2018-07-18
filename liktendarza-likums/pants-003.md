@@ -1,0 +1,9 @@
+3. pants. Likteņdārza sastāvs un piederība
+(1) Likteņdārzs sastāv no:
+1) nekustamā īpašuma "Sala" ar kadastra numuru 3260 008 0109, reģistrēts Aizkraukles rajona tiesas Zemesgrāmatu nodaļas Kokneses pagasta zemesgrāmatas nodalījumā Nr. 1000 0015 2521, kurš sastāv no diviem zemes gabaliem ar kopējo platību 21,76 hektāri - zemes gabala (kadastra apzīmējums 3260 008 0109) 21,62 hektāru platībā un zemes gabala (kadastra apzīmējums 3260 008 0137) 0,14 hektāru platībā - un kura adrese ir: "Sala", Kokneses pagasts, Kokneses novads; "Likteņdārzs", Kokneses pagasts, Kokneses novads (turpmāk - nekustamais īpašums);
+2) nekustamā īpašuma būvēm, publiskās ārtelpas labiekārtojuma elementiem un stādījumiem, kas izveidoti saskaņā ar Likteņdārza projektu (turpmāk arī - būves un ārtelpas labiekārtojums);
+3) citiem nekustamajiem īpašumiem, ja Likteņdārza projekta īstenošanas gaitā valsts iegūst īpašumtiesības uz zemi, kas robežojas ar Likteņdārzu.
+(2) Šā panta pirmās daļas 1. punktā noteiktais nekustamais īpašums ir Latvijas valsts īpašums, kas nodots Zemkopības ministrijas valdījumā.
+(3) Šā panta pirmās daļas 2. punktā minētās būves un ārtelpas labiekārtojums, kuri pieņemti ekspluatācijā un kuru būvniecība uzsākta līdz šā likuma spēkā stāšanās brīdim, ir Kokneses fonda īpašumi. Būves un ārtelpas labiekārtojumu bez atlīdzības nodod valstij Zemkopības ministrijas personā, ja Kokneses fonds beidz pastāvēt vai zaudē sabiedriskā labuma organizācijas statusu.
+(4) Nekustamo īpašumu, būves un ārtelpas labiekārtojumu izmanto tikai šā likuma 4. pantā minētajām darbībām.
+(5) Likteņdārza sastāvā esošo nekustamo īpašumu, būves un ārtelpas labiekārtojumu aizliegts atsavināt un ieķīlāt. Aizliegums attiecīgi nostiprināms zemesgrāmatā. Uz šajā daļā minēto nekustamo īpašumu, būvēm un ārtelpas labiekārtojumu nav vēršama kreditoru prasījumu piedziņa.
