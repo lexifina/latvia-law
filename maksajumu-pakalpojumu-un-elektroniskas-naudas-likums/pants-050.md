@@ -1,2 +1,2 @@
-50.pants. (1) Citas dalībvalsts iestāžu uzraudzības institūcijai ir tiesības veikt pārbaudes Latvijā reģistrētajās attiecīgās dalībvalsts iestāžu filiālēs.
+50.pants. (1) Citas dalībvalsts iestāžu uzraudzības institūcijai ir tiesības veikt pārbaudes Latvijā reģistrētajās attiecīgās dalībvalsts iestāžu filiālēs un pie iestāžu pārstāvjiem vai pilnvarot tam Komisiju.
 (2) Pirms pārbaudes uzsākšanas citas dalībvalsts iestāžu uzraudzības institūcija laikus rakstveidā informē par to Komisiju. Komisijas pārstāvim ir tiesības piedalīties pārbaudē. Citas dalībvalsts iestāžu uzraudzības institūcija iesniedz Komisijai ziņojuma par veiktās pārbaudes rezultātiem kopiju.

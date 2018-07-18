@@ -1,3 +1,5 @@
-97.pants. (1) Valutēšanas datums naudas ieskaitīšanai saņēmēja maksājumu kontā nav vēlāks par to darba dienu, kad maksājuma summa kreditēta saņēmēja maksājumu pakalpojumu sniedzēja kontā. Saņēmēja maksājumu pakalpojumu sniedzējs nodrošina, ka maksājuma summa ir saņēmēja rīcībā nekavējoties pēc tam, kad tā kreditēta saņēmēja maksājumu pakalpojumu sniedzēja kontā.
+97.pants. (1) Valutēšanas datums naudas ieskaitīšanai saņēmēja maksājumu kontā nav vēlāks par to darba dienu, kad maksājuma summa kreditēta saņēmēja maksājumu pakalpojumu sniedzēja kontā. Saņēmēja maksājumu pakalpojumu sniedzējs nodrošina, ka maksājuma summa ir saņēmēja rīcībā nekavējoties pēc tam, kad tā kreditēta saņēmēja maksājumu pakalpojumu sniedzēja kontā, ja saņēmēja maksājumu pakalpojumu sniedzējs:
+1) nav veicis valūtas maiņu;
+2) ir veicis valūtas maiņu starp euro un dalībvalsts nacionālo valūtu vai starp divām dalībvalstu nacionālajām valūtām.
 (2) Valutēšanas datums naudas norakstīšanai no maksātāja maksājumu konta nav agrāks par to brīdi, kad maksājuma summa norakstīta no maksājumu konta.
 (3) Šā panta pirmās un otrās daļas noteikumi piemērojami arī maksājumu pakalpojumu sniedzējiem, kas sniedz maksājumu pakalpojumus Latvijā, ja maksātāja vai saņēmēja maksājumu pakalpojumu sniedzējs atrodas dalībvalstī un ja maksājuma pakalpojumu sniedz euro vai kādas dalībvalsts nacionālajā valūtā.

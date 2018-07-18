@@ -1,0 +1,1 @@
+34. Persona, kura sniedz šā likuma 3. panta pirmās daļas 10. punktā minētos pakalpojumus, līdz 2018. gada 1. septembrim iesniedz Komisijai šā likuma 3. panta otrajā daļā minēto paziņojumu par pakalpojumu atbilstību šā likuma 3. panta pirmās daļas 10. punkta nosacījumiem un atbilstošu pamatojumu, aprakstot savu darbību.

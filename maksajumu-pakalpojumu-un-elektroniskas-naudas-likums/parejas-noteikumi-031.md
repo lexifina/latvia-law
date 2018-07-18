@@ -1,0 +1,1 @@
+31. Uzskatāms, ka iestāde, kura ir reģistrēta šā likuma 10. panta trešajā daļā minētajā reģistrā ar tiesībām sniegt šā likuma 1. panta 1. punkta "g" apakšpunktā minēto maksājumu pakalpojumu un ir reģistrēta kā elektronisko sakaru komersants, sniedz šā likuma 1. panta 1. punkta "c" apakšpunktā minēto maksājumu pakalpojumu.

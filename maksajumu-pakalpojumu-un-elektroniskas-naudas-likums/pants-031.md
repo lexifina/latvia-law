@@ -1,16 +1,8 @@
-31.pants. (1) Citā dalībvalstī licencēta iestāde drīkst atvērt filiāli vai izmantot pārstāvi (turpmāk šajā pantā - filiāle) Latvijā, nesaņemot šajā likumā noteikto licenci, tikai pēc tam, kad:
-1) Komisija ir saņēmusi attiecīgās dalībvalsts iestāžu uzraudzības institūcijas paziņojumu, kas ietver:
-a) apstiprinājumu, ka attiecīgajai iestādei ir spēkā esoša licence iestādes darbībai,
-b) iestādes nosaukumu,
-c) filiāles adresi,
-d) filiāles vadītāja vārdu un uzvārdu,
-e) filiāles organizatoriskās struktūras aprakstu,
-f) informāciju par elektroniskās naudas emisiju, izplatīšanu vai atpirkšanu, kā arī maksājumu pakalpojumu veidiem, kurus iestāde plāno sniegt Latvijā;
-2) Komisija ir informējusi attiecīgās dalībvalsts iestāžu uzraudzības institūciju par to, ka saņēmusi šā panta pirmās daļas 1.punktā minēto paziņojumu.
-(2) Citā dalībvalstī licencētas iestādes pienākums ir informēt Komisiju vismaz mēnesi iepriekš par jebkuriem paredzētiem grozījumiem šā panta pirmās daļas 1.punktā minētajā paziņojumā ietvertajā informācijā, kā arī par nodomu izbeigt filiāles darbību.
-(3) Citā dalībvalstī licencēta iestāde uzsāk maksājumu iestādes vai elektroniskās naudas iestādes darbību Latvijā, neatverot filiāli, pēc tam, kad:
-1) Komisija ir saņēmusi attiecīgās dalībvalsts iestāžu uzraudzības institūcijas paziņojumu, kas ietver:
-a) apstiprinājumu, ka attiecīgajai iestādei ir spēkā esoša licence iestādes darbībai,
-b) iestādes nosaukumu,
-c) informāciju par elektroniskās naudas emisiju, izplatīšanu vai atpirkšanu, kā arī maksājumu pakalpojumu veidiem, kurus iestāde plāno sniegt Latvijā;
-2) Komisija ir informējusi attiecīgās dalībvalsts iestāžu uzraudzības institūciju par to, ka saņēmusi šā panta trešās daļas 1.punktā minēto paziņojumu.
+31. pants. (1) Citā dalībvalstī licencēta iestāde drīkst atvērt filiāli vai izmantot pārstāvi Latvijā, nesaņemot šajā likumā noteikto licenci, tikai pēc tam, kad:
+1) Komisija ir saņēmusi attiecīgās mītnes dalībvalsts iestāžu uzraudzības institūcijas paziņojumu, kas atbilst Komisijas 2017. gada 23. jūnija deleģētās regulas (ES) 2017/2055, ar ko papildina Eiropas Parlamenta un Padomes direktīvu (ES) 2015/2366 attiecībā uz regulatīvajiem tehniskajiem standartiem sadarbībai un informācijas apmaiņai starp kompetentajām iestādēm saistībā ar maksājumu iestāžu tiesībām veikt uzņēmējdarbību un pakalpojumu sniegšanas brīvību (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 2017/2055) prasībām, un tam pievienotos dokumentus;
+2) Komisija 30 dienu laikā ir izvērtējusi saskaņā ar šīs daļas 1. punktu iesniegto paziņojumu un pievienotos dokumentus un informējusi attiecīgās mītnes dalībvalsts iestāžu uzraudzības institūciju par savu izvērtējumu;
+3) Komisija ir saņēmusi no mītnes dalībvalsts paziņojumu par iestādes filiāles vai pārstāvja darbības uzsākšanas datumu vai datumu, ar kuru iestādes filiāle vai pārstāvis ir reģistrēts mītnes dalībvalsts attiecīgajā iestāžu reģistrā.
+(2) Citā dalībvalstī licencēta iestāde uzsāk maksājumu iestādes vai elektroniskās naudas iestādes darbību Latvijā, neatverot filiāli, pēc tam, kad:
+1) Komisija ir saņēmusi attiecīgās dalībvalsts iestāžu uzraudzības institūcijas paziņojumu, kas atbilst Regulas Nr. 2017/2055 prasībām;
+2) Komisija 30 dienu laikā ir izvērtējusi saskaņā ar šīs daļas 1. punktu iesniegto paziņojumu un informējusi attiecīgās mītnes dalībvalsts iestāžu uzraudzības institūciju par savu izvērtējumu;
+3) Komisija ir saņēmusi no mītnes dalībvalsts paziņojumu par datumu, ar kuru iestāde plāno uzsākt darbību Latvijā

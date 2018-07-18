@@ -1,0 +1,1 @@
+34.¹ pants. Iestāde, kas reģistrēta šā likuma 10. panta trešajā daļā minētajā reģistrā, kā arī licencēta maksājumu iestāde, kas sniedz vienīgi konta informācijas pakalpojumu, nodrošina, ka saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu tās bilances iedaļas "Pašu kapitāls" posteņu kopsumma nav negatīva.

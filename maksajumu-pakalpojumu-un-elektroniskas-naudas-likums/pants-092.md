@@ -1,5 +1,5 @@
 92.pants. (1) Maksājuma pakalpojuma izmantotājs nevar atsaukt maksājuma rīkojumu pēc tam, kad to saņēmis maksātāja maksājumu pakalpojumu sniedzējs, ja vien šajā pantā nav noteikts citādi.
-(2) Ja maksājumu uzsāk ar saņēmēja starpniecību, maksātājs nevar atsaukt maksājuma rīkojumu pēc tam, kad viņš to iesniedzis saņēmējam.
+(2) Ja maksājumu uzsāk ar saņēmēja vai maksājumu ierosināšanas pakalpojuma sniedzēja starpniecību, maksātājs nevar atsaukt maksājuma rīkojumu pēc tam, kad viņš to iesniedzis saņēmējam vai maksājumu ierosināšanas pakalpojuma sniedzējam.
 (3) Ja maksājumu uzsāk saņēmējs, maksātājs nevar atsaukt maksājuma rīkojumu pēc tam, kad tas devis saņēmējam piekrišanu uzsākt maksājumu.
 (4) Tiešā debeta maksājuma gadījumā maksātājs var atsaukt maksājuma rīkojumu līdz tās darba dienas beigām, kurai seko naudas norakstīšanai no konta noteiktā diena.
 (5) Šā likuma 90.panta ceturtajā daļā minētajā gadījumā maksājuma pakalpojuma izmantotājs var atsaukt maksājuma rīkojumu ne vēlāk kā līdz tās darba dienas beigām, kurai seko diena, kad saskaņā ar vienošanos no konta tiks norakstīta nauda.

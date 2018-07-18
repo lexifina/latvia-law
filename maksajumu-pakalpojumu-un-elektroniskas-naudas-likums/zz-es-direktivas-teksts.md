@@ -1,4 +1,5 @@
 Likumā iekļautas tiesību normas, kas izriet no:
 1) Eiropas Parlamenta un Padomes 2007.gada 13.novembra direktīvas 2007/64/EK par maksājumu pakalpojumiem iekšējā tirgū, ar ko groza direktīvas 97/7/EK, 2002/65/EK, 2005/60/EK un 2006/48/EK un atceļ direktīvu 97/5/EK;
 2) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/110/EK par elektroniskās naudas iestāžu darbības sākšanu, veikšanu un konsultatīvu uzraudzību, par grozījumiem direktīvā 2005/60/EK un direktīvā 2006/48/EK un par direktīvas 2000/46/EK atcelšanu;
-3) Eiropas Parlamenta un Padomes 2014. gada 23. jūlija direktīvas 2014/92/ES par maksājumu kontu tarifu salīdzināmību, maksājumu kontu maiņu un piekļuvi maksājumu kontiem ar pamatfunkcijām (Dokuments attiecas uz EEZ).
+3) Eiropas Parlamenta un Padomes 2014. gada 23. jūlija direktīvas 2014/92/ES par maksājumu kontu tarifu salīdzināmību, maksājumu kontu maiņu un piekļuvi maksājumu kontiem ar pamatfunkcijām (Dokuments attiecas uz EEZ);
+4) Eiropas Parlamenta un Padomes 2015. gada 25. novembra direktīvas 2015/2366/ES par maksājumu pakalpojumiem iekšējā tirgū, ar ko groza direktīvas 2002/65/EK, 2009/110/EK un 2013/36/ES un regulu (ES) Nr. 1093/2010 un atceļ direktīvu 2007/64/EK (Dokuments attiecas uz EEZ).

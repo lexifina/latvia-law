@@ -7,7 +7,8 @@
 6) ir pasludināts iestādes maksātnespējas process vai kreditoru sapulce ir pieņēmusi lēmumu par bankrota procedūras uzsākšanu;
 7) iestāde neievēro šā likuma un citu maksājumu pakalpojumu un elektroniskās naudas emisijas darbību regulējošo normatīvo aktu prasības, tajā skaitā Eiropas Savienības institūciju izdotos tieši piemērojamos tiesību aktus un Komisijas normatīvos noteikumus maksājumu pakalpojumu vai elektroniskās naudas emisijas darbības jomā, vai tās darbības turpināšana apdraudētu maksājumu sistēmas stabilitāti;
 8) iestāde lūdz anulēt tai izsniegto licenci;
-9) personai, kurai ir būtiska līdzdalība iestādē, iestājies tai piederošo akciju vai daļu balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.
+9) personai, kurai ir būtiska līdzdalība iestādē, iestājies tai piederošo akciju vai daļu balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus;
+10) iestāde vairs neatbilst licences piešķiršanas nosacījumiem.
 (2) Iestādes licence netiek atjaunota, ja Komisija to ir anulējusi.
 (3) Informācija par anulēto iestādes licenci publicējama Komisijas mājaslapā internetā.
 (4) Ja Komisija pieņem lēmumu par iestādes licences anulēšanu, tad šā lēmuma pārsūdzēšana neaptur tā darbību.

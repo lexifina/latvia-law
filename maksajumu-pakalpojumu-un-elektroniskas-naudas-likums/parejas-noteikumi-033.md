@@ -1,0 +1,1 @@
+33. Elektronisko sakaru komersants, kurš sniedz šā likuma 3. panta pirmās daļas 11. punktā minētos pakalpojumus, līdz 2019. gada 13. janvārim pirmo reizi iesniedz šā likuma 3. panta ceturtajā daļā minēto ziņojumu.

@@ -1,0 +1,1 @@
+36. Maksājumu pakalpojumu sniedzējs šā likuma 80.¹ panta trešās daļas 4. punkta un ceturtās daļas 1. punkta, 80.² panta otrās daļas 3. punkta un trešās daļas 1. punkta, 81.¹ panta otrās daļas 3. punkta un 104.⁴ panta prasības sāk piemērot ar 2019. gada 14. septembri.

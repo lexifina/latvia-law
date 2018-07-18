@@ -1,7 +1,8 @@
 83.pants. (1) Maksājumu pakalpojumu sniedzējs, kas izlaidis maksājuma instrumentu, ievēro šādas prasības:
-1) nodrošina, lai maksājuma instrumenta personalizētie aizsardzības elementi nebūtu pieejami personām, kuras nav tiesīgas izmantot maksājuma instrumentu;
+1) nodrošina, lai maksājuma instrumenta personalizētie autentifikācijas līdzekļi nebūtu pieejami personām, kuras nav tiesīgas izmantot maksājuma instrumentu;
 2) nesūta maksājuma pakalpojuma izmantotājam nepieprasītu maksājuma instrumentu, izņemot gadījumu, kad maksājuma instruments, kas jau ir pakalpojuma izmantotāja turējumā, jāaizstāj ar jaunu maksājuma instrumentu;
-3) pastāvīgi nodrošina pakalpojuma izmantotājam iespēju paziņot par šā likuma 82.panta pirmās daļas 2.punktā minētajiem gadījumiem vai pieprasīt maksājuma instrumenta atbloķēšanu saskaņā ar šā likuma 81.panta ceturto daļu;
+3) pastāvīgi nodrošina pakalpojuma izmantotājam iespēju bez maksas paziņot par šā likuma 82.panta pirmās daļas 2.punktā minētajiem gadījumiem vai pieprasīt maksājuma instrumenta atbloķēšanu saskaņā ar šā likuma 81.panta ceturto daļu;
 4) 18 mēnešu laikā no brīža, kad maksājuma pakalpojuma izmantotājs informējis maksājumu pakalpojumu sniedzēju par šā likuma 82.panta pirmās daļas 2.punktā minētajiem gadījumiem vai pieprasījis maksājuma instrumenta atbloķēšanu saskaņā ar šā likuma 81.panta ceturto daļu, nodrošina pierādījumus tam, ka maksājuma pakalpojuma izmantotājs sniedzis attiecīgo paziņojumu;
-5) novērš maksājuma instrumenta izmantošanu, tiklīdz saņemta šā likuma 82.panta pirmās daļas 2.punktā minētā informācija.
+5) novērš maksājuma instrumenta izmantošanu, tiklīdz saņemta šā likuma 82.panta pirmās daļas 2.punktā minētā informācija;
+6) šā likuma 82. panta pirmās daļas 2. punktā minētajos gadījumos aizstāj maksājuma instrumentu bez maksas vai par maksu, kas atbilst tā aizstāšanas izmaksām.
 (2) Maksājumu pakalpojumu sniedzējs uzņemas risku, kas saistīts ar maksājuma instrumenta vai jebkuru tā drošības elementu nosūtīšanu maksātājam, izņemot gadījumu, kad saskaņā ar maksājuma pakalpojuma izmantotāja lūgumu maksājumu pakalpojumu sniedzējs un maksājuma pakalpojuma izmantotājs iepriekš ir vienojušies citādi.

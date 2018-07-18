@@ -1,6 +1,6 @@
 30.pants. (1) Komisija aizliedz iestādei saņemt plānoto ārpakalpojumu, ja:
 1) nav ievēroti šā likuma noteikumi;
-2) ārpakalpojuma saņemšana var ierobežot iestādes iespējas sniegt maksājumu pakalpojumus, kā arī var aizskart iestādes pakalpojumu izmantotāju likumiskās intereses;
+2) ārpakalpojuma saņemšana var ierobežot iestādes iespējas sniegt maksājumu pakalpojumus vai elektroniskās naudas pakalpojumus, kā arī var aizskart iestādes pakalpojumu izmantotāju likumiskās intereses;
 3) ārpakalpojuma saņemšana var ierobežot iestādes pārvaldes institūciju iespējas veikt normatīvajos aktos, iestādes statūtos vai citos iekšējos normatīvajos aktos tām noteiktos pienākumus;
 4) ārpakalpojuma saņemšana liegs vai ierobežos Komisijas iespējas veikt tai likumā noteiktās funkcijas;
 5) ārpakalpojuma līgums neatbilst šim likumam un nesniedz skaidru un patiesu priekšstatu par iestādes un ārpakalpojumu sniedzēja paredzēto sadarbību un prasībām attiecībā uz ārpakalpojuma apjomu un kvalitāti.

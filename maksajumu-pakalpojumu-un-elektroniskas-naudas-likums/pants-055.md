@@ -4,7 +4,7 @@
 3) nosacījumu, kas ietver ierobežojumu, kura pamatā ir iestādes statuss.
 (2) Šā panta pirmo daļu un šā likuma 54.panta noteikumus nepiemēro:
 1) likumā "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" noteiktajām maksājumu sistēmām;
-2) maksājumu sistēmām, kas aptver tikai tādus maksājumu pakalpojumu sniedzējus, kuri ietilpst vienā komercsabiedrību grupā, ko veido komercsabiedrības, kuru savstarpējie ieguldījumi pamatkapitālā piešķir vienai no komercsabiedrību grupā ietilpstošajām komercsabiedrībām faktisku kontroli pār pārējām komercsabiedrībām;
-3) maksājumu sistēmām, ja maksājumu pakalpojumu sniedzējs atsevišķi vai komercsabiedrību grupā:
-a) sniedz vai var sniegt maksājuma pakalpojumu gan maksātājam, gan arī saņēmējam un viens maksājumu pakalpojumu sniedzējs ir atbildīgs par sistēmas vadību,
-b) atļauj citiem maksājumu pakalpojumu sniedzējiem piedalīties maksājumu sistēmā un tie nav tiesīgi savstarpēji vienoties par maksu, kas saistīta ar dalību maksājumu sistēmā, lai gan var noteikt savus izcenojumus maksātājiem un saņēmējiem.
+2) maksājumu sistēmām, kas aptver tikai tādus maksājumu pakalpojumu sniedzējus, kuri ietilpst vienā komercsabiedrību grupā;
+3) (izslēgts ar 20.06.2018. likumu).
+(3) Ja likumā "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" noteiktās maksājumu sistēmas noteikumi to paredz un sistēmas dalībnieks nodrošina iespēju maksājumu pakalpojumu sniedzējam, kas nav sistēmas dalībnieks, veikt pārskaitījumus caur sistēmu, dalībniekam ir pienākums šādu iespēju nodrošināt arī citam maksājumu pakalpojumu sniedzējam objektīvā, samērīgā un nediskriminējošā veidā atbilstoši šā likuma 54. pantā noteiktajam.
+(4) Ja šā panta trešajā daļā minētās sistēmas dalībnieks iestādei liedz pārskaitījumu veikšanu caur attiecīgo sistēmu, tas pamato iestādei savu atteikumu.

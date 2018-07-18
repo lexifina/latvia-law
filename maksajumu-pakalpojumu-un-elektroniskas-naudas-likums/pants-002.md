@@ -6,7 +6,7 @@
 4) maksājumu iestāde;
 5) Eiropas Centrālā banka, Latvijas Banka vai citas valsts centrālā banka, kad tā veic darbības, kas nav monetārās politikas īstenošanas darbības vai citas publiskas personas darbības;
 6) tiešās pārvaldes iestāde vai atvasināta publiska persona, kad tā veic darbības, kas nav publiskas personas darbības;
-7) Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī (turpmāk - dalībvalsts) licencēta maksājumu iestāde, kas šā likuma 31.pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
+7) dalībvalstī licencēta maksājumu iestāde, kas šā likuma 31. pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
 8) krājaizdevu sabiedrība.
 (2¹) Elektronisko naudu var emitēt:
 1) kredītiestāde;
@@ -15,9 +15,11 @@
 4) Eiropas Centrālā banka, Latvijas Banka vai citas valsts centrālā banka, kad tā veic darbības, kas nav monetārās politikas īstenošanas darbības vai citas publiskas personas darbības;
 5) tiešās pārvaldes iestāde vai atvasināta publiska persona, kad tā veic darbības, kas nav publiskas personas darbības;
 6) dalībvalstī licencēta elektroniskās naudas iestāde, kas šā likuma 31.pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
-7) tā ārvalsts elektroniskās naudas iestādes filiāle, kura saņēmusi licenci dalībvalstī.
+7) tā ārvalsts elektroniskās naudas iestādes filiāle, kura saņēmusi licenci Latvijā.
 (2²) Šis likums nosaka pasākumus, kas nodrošina pakalpojuma maksas pārredzamību un salīdzināmību maksājuma pakalpojuma izmantotājam - patērētājam, patērētāju maksājumu kontu maiņas principus un kārtību, kādā patērētāji var atvērt un izmantot maksājumu kontu ar pamatfunkcijām (turpmāk - pamatkonts).
-(3) Šā likuma 58., 59., 60., 61., 62., 63., 64., 65., 66., 67., 68., 69., 70., 71., 72., 73., 74., 75., 76., 77., 78., 79., 80., 81., 82., 83., 84., 85., 86., 87., 88., 89., 90., 91., 92., 93., 94., 95., 96., 98., 99., 100., 101., 102., 103. un 104.panta noteikumi attiecas uz maksājumu pakalpojumu sniedzējiem, kas sniedz maksājumu pakalpojumus Latvijā, ja maksātāja un saņēmēja maksājumu pakalpojuma sniedzējs atrodas dalībvalstī un maksājumu pakalpojumus sniedz euro vai kādas dalībvalsts nacionālajā valūtā.
+(3) Šā likuma VII, VIII, IX, X, XI, XII, XIII, XIV un XIV¹ nodaļa attiecas uz maksājumu pakalpojumu sniedzējiem, kas sniedz maksājumu pakalpojumus Latvijā, ja maksātāja un saņēmēja maksājumu pakalpojuma sniedzējs atrodas dalībvalstī un maksājumu pakalpojumus sniedz euro vai kādas dalībvalsts nacionālajā valūtā.
+(3¹) Šā likuma VII, VIII, IX, X, XI, XII nodaļa, 97. pants, XIV un XIV¹ nodaļa, izņemot 64. panta 2. punkta "e" apakšpunktu, 68. pantu un 73. panta pirmās daļas 2. punktu, attiecas uz jebkurā valūtā dalībvalstī veiktajiem maksājuma posmiem, ja maksātāja un saņēmēja maksājumu pakalpojumu sniedzējs atrodas dalībvalstī.
+(3²) Šā likuma VII, VIII, IX, X, XI, XII nodaļa, 97. pants, XIV un XIV¹ nodaļa, izņemot 64. panta 2. punkta "e" apakšpunktu un 5. punkta "g" apakšpunktu, 68. pantu un 73. panta pirmās daļas 2. punktu, 77. panta otro daļu, 79., 88., 89. pantu un 94. panta pirmo daļu, 99. un 101. pantu, attiecas uz jebkurā valūtā dalībvalstī veiktajiem maksājumu posmiem, ja vismaz viens no maksājumu pakalpojumu sniedzējiem atrodas dalībvalstī.
 (4) (Izslēgta ar 12.09.2013. likumu)
 (5) Šā likuma 58.¹, 60.¹, 60.², 60.³ pantu un 75.³ panta ceturto daļu piemēro darījumu tiesiskajās attiecībās ar patērētāju. Ja maksājuma pakalpojuma izmantotājs nav patērētājs, maksājumu pakalpojumu sniedzējs un maksājuma pakalpojuma izmantotājs var vienoties par atsevišķu šā likuma VII, VIII un IX nodaļas noteikumu nepiemērošanu savās darījumu tiesiskajās attiecībās.
 (6) Šā likuma 46.¹ panta noteikumi neattiecas uz krājaizdevu sabiedrībām.

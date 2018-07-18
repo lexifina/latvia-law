@@ -1,0 +1,1 @@
+37. Maksājumu pakalpojumu sniedzējs atbilstoši šā likuma 104.¹ panta trešajai daļai līdz 2019. gada 13. janvārim pirmo reizi iesniedz Komisijai visaptverošu novērtējumu par operacionālajiem un drošības riskiem, kas saistīti ar tā sniegtajiem maksājumu pakalpojumiem.

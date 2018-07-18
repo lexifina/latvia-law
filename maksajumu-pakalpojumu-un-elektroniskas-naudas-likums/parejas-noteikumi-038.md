@@ -1,0 +1,1 @@
+38. Maksājumu pakalpojumu sniedzējs atbilstoši šā likuma 104.³ panta pirmajai daļai līdz 2019. gada 31. jūlijam pirmo reizi iesniedz Komisijai statistikas datus par krāpšanu un citām prettiesiskām darbībām iepriekšējā pusgadā, kas saistītas ar maksāšanas līdzekļu izmantošanu iepriekšējā pusgadā.

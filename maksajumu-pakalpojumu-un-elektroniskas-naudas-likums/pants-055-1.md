@@ -1,0 +1,2 @@
+55.¹ pants. (1) Kredītiestādei ir pienākums nodrošināt iestādēm objektīvu, samērīgu un nediskriminējošu piekļuvi kredītiestādes sniegtajiem maksājumu konta pakalpojumiem. Šāda piekļuve ir pietiekami plaša, lai iestāde spētu efektīvi un netraucēti sniegt maksājumu pakalpojumus un elektroniskās naudas pakalpojumus.
+(2) Kredītiestāde nekavējoties, bet ne vēlāk kā piecu darba dienu laikā ziņo Komisijai par katru šā panta pirmajā daļā minētās piekļuves atteikumu, klāt pievienojot attiecīgu pamatojumu. Kredītiestāde šādu ziņojumu Komisijai nosūta elektroniskā veidā.
