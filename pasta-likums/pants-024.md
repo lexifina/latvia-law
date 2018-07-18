@@ -5,7 +5,7 @@
 3) priekšmetus vai vielas, kuru ievešana vai apgrozība saņemšanas valstīs ir aizliegta;
 4) priekšmetus vai vielas, kuru izvešana no Latvijas Republikas vai apgrozība Latvijas Republikā ir aizliegta;
 5) priekšmetus vai vielas, kas savas dabas vai iesaiņojuma dēļ var nosmērēt vai sabojāt citus pasta sūtījumus vai pasta iekārtas;
-6) pastkartes vai vēstules ar kārtējās un privātās sarakstes pazīmēm, kas liecina, ka ar šīm pastkartēm vai vēstulēm apmainās personas, kuras uz sūtījuma nav norādītas kā sūtītājs un adresāts;
+6) vēstuļu korespondences sūtījumus, kuros pārsūta rakstveida paziņojumus vai dokumentus ar kārtējās un privātās sarakstes pazīmēm, kas liecina, ka ar šiem vēstuļu korespondences sūtījumiem apmainās personas, kuras uz sūtījuma nav norādītas kā sūtītājs un adresāts;
 7) sprāgstošas, viegli uzliesmojošas, radioaktīvas, ātrbojīgas bioloģiskas vielas un infekciozas vielas;
 8) naudu, monētas, banknotes un jebkura veida vērtspapīrus (čekus);
 9) priekšmetus un vielas, kuru pārsūtīšanas (pārvadāšanas) aizliegums noteikts normatīvajos aktos medicīnas vai transporta (aviācijas) jomā.

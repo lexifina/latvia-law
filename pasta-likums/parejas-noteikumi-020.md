@@ -1,0 +1,1 @@
+20. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos tajos lietotais termins "pasta tīkla piekļuves punkts" atbilst šajā likumā lietotajam terminam "pasta pakalpojumu sniegšanas vieta", ciktāl tas nav pretrunā ar šo likumu.
