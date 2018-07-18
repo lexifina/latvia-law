@@ -1,2 +1,2 @@
 G sadaļa
-Informācijas apmaiņa
+Informācijas apmaiņa un sadarbība

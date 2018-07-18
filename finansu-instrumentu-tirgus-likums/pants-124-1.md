@@ -1,23 +1,23 @@
 124.¹ pants. Klienta statuss
 (1) Personai, kurai ieguldījumu brokeru sabiedrība un kredītiestāde sniedz ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus, var būt profesionāla klienta, privāta klienta vai tiesīgā darījumu partnera statuss.
 (2) Profesionāli klienti attiecībā uz visiem ieguldījumu pakalpojumiem un instrumentiem ir:
-1) Latvijas Republikā vai citā valstī darbībai finanšu tirgū licencētas un uzraudzītas iestādes:
+1) Latvijas Republikā vai citā valstī darbībai finanšu tirgū licencētas vai regulētas personas:
 a) kredītiestādes,
 b) ieguldījumu brokeru sabiedrības,
 c) citas licencētas vai regulētas finanšu iestādes,
 d) ieguldījumu fondi un ieguldījumu pārvaldes sabiedrības,
 d¹) alternatīvo ieguldījumu fondi un alternatīvo ieguldījumu fondu pārvaldnieki;
 e) apdrošinātāji,
-f) pensiju fondi,
+f) pensiju fondi un pensiju fondu pārvaldnieki,
 g) preču dīleri,
-h) sabiedrības, kas iespējas līgumu, nākotnes līgumu vai atvasināto finanšu instrumentu tirgos vai atvasināta instrumenta bāzes aktīva tirgos veic darījumus uz pašu rēķina, kuru vienīgais mērķis ir ierobežot finanšu risku atvasināto finanšu instrumentu tirgū, vai kas veic darījumus uz citu šo tirgus dalībnieku rēķina vai veido tiem cenas, un ko garantē norēķinu sistēmas dalībnieki šajā tirgū, ja atbildību par šādu sabiedrību noslēgto līgumu izpildes nodrošināšanu uzņemas norēķinu sistēmas dalībnieki šajā tirgū,
+h) sabiedrības, kas iespējas līgumu, nākotnes līgumu vai atvasināto finanšu instrumentu tirgos vai atvasināta instrumenta bāzes aktīva tirgos veic darījumus savā vārdā, kuru vienīgais mērķis ir ierobežot finanšu risku atvasināto finanšu instrumentu tirgū, vai kas veic darījumus uz citu šo tirgus dalībnieku rēķina vai veido tiem cenas, un ko garantē norēķinu sistēmas dalībnieki šajā tirgū, ja atbildību par šādu sabiedrību noslēgto līgumu izpildes nodrošināšanu uzņemas norēķinu sistēmas dalībnieki šajā tirgū,
 i) citas komercsabiedrības, kuru pamatdarbība ir ieguldīšana finanšu instrumentos un kuras šādus ieguldījumus veic lielos apmēros;
-2) komercsabiedrības, kas atbilst divām no minētajām trim prasībām:
+2) komercsabiedrības un citas juridiskās personas, kas atbilst divām no minētajām trim prasībām:
 a) pašu kapitāls - ne mazāks kā 2 miljonu euro,
 b) neto apgrozījums - ne mazāks kā 40 miljonu euro,
 c) bilances vērtība - ne mazāka kā 20 miljonu euro;
-3) valstis un pašvaldības, valsts iestādes, kas pārvalda valsts parādu, valstu centrālās bankas, Pasaules Banka, Starptautiskais Valūtas fonds, Eiropas Centrālā banka un citas starptautiskās finanšu institūcijas;
-4) citas komercsabiedrības, kuru pamatdarbība ir ieguldīšana finanšu instrumentos un kuras šādus ieguldījumus veic lielos apmēros;
+3) valsts iestādes, kas pārvalda valsts parādu, valstu centrālās bankas, Pasaules Banka, Starptautiskais Valūtas fonds, Eiropas Centrālā banka un citas starptautiskās finanšu institūcijas;
+4) citas komercsabiedrības, kuru pamatdarbība ir ieguldīšana finanšu instrumentos, tostarp tādas, kas nodarbojas ar finanšu aktīvu vērtspapirizēšanu vai citu darījumu finansēšanu, un kuras šādus ieguldījumus veic lielos apmēros;
 5) persona, kura citā valstī atzīta par profesionālu klientu saskaņā ar procedūru, kas līdzvērtīga šajā pantā noteiktajai.
 (3) Ieguldījumu brokeru sabiedrība vai kredītiestāde pirms ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanas uzsākšanas informē klientu par tā statusu.
 (4) Klientam ir tiesības pieprasīt, lai ieguldījumu brokeru sabiedrība vai kredītiestāde piešķir tam citu klienta statusu. Privāts klients var iegūt profesionāla klienta statusu šā panta piektajā, sestajā un septītajā daļā noteiktajā kārtībā. Profesionāls klients var iegūt privāta klienta statusu šā panta devītajā un desmitajā daļā noteiktajā kārtībā. Ieguldījumu brokeru sabiedrība un kredītiestāde informē klientu par šīm tiesībām saskaņā ar šā likuma 126.¹ pantā noteikto kārtību.

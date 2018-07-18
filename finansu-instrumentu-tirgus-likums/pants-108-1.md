@@ -1,2 +1,3 @@
-108.¹pants. Paziņojums par izmaiņām pēc licences saņemšanas
-Septiņu dienu laikā pēc izmaiņām ieguldījumu brokeru sabiedrības valdes vai padomes (ja tāda izveidota) sastāvā ieguldījumu brokeru sabiedrība Komisijai iesniedz paziņojumu par notikušajām izmaiņām. Vienlaikus ar paziņojumu ieguldījumu brokeru sabiedrība iesniedz jaunieceltā valdes vai padomes locekļa dokumentus, kas minēti šā likuma 107.panta otrās daļas 1.punktā.
+108.¹ pants. Paziņojums par izmaiņām pēc licences saņemšanas
+(1) Septiņu dienu laikā pēc izmaiņām ieguldījumu brokeru sabiedrības valdes vai padomes (ja tāda izveidota) sastāvā ieguldījumu brokeru sabiedrība Komisijai iesniedz paziņojumu par notikušajām izmaiņām. Vienlaikus ar paziņojumu ieguldījumu brokeru sabiedrība iesniedz par jauno valdes vai padomes locekli šā likuma 107. panta otrās daļas 1. punktā minēto informāciju.
+(2) Ieguldījumu brokeru sabiedrība paziņo Komisijai par visām būtiskajām izmaiņām, kas saistītas ar tai izsniegtajā licencē noteikto ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu.

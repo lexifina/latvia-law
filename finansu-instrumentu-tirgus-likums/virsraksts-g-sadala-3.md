@@ -1,2 +1,2 @@
 G² sadaļa
-Īsās pārdošanas un kredītriska mijmaiņas darījumu uzraudzība
+Normatīvo aktu prasību uzraudzība

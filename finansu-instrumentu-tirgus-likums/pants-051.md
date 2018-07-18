@@ -1,6 +1,6 @@
 51.pants. Prospekta izplatīšanas kārtība
 (1) Prospektu aizliegts izplatīt pirms tā reģistrācijas Komisijā. Emitents vai persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū šajā likumā noteiktajā kārtībā, tiklīdz tas iespējams, publisko šo prospektu, taču jebkurā gadījumā savlaicīgi pirms pārvedamu vērtspapīru iekļaušanas regulētajā tirgū, bet ne vēlāk kā dienā, kad pieņemts lēmums par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū.
-(2) Pēc tam, kad ir pieņemts lēmums par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, tirgus organizētājs nekavējoties ievieto lēmuma un prospekta tekstu savā mājas lapā internetā.
+(2) Pēc tam, kad ir pieņemts lēmums par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, regulētā tirgus organizētājs nekavējoties ievieto lēmuma un prospekta tekstu savā mājas lapā internetā.
 (3) Prospekts tiek uzskatīts par pieejamu sabiedrībai, kad tas ir publicēts:
 1) ievietojot vienā vai vairākos laikrakstos, kas tiek izplatīti visās dalībvalstīs vai kas ir plašā apgrozībā dalībvalstīs, kurās pārvedami vērtspapīri tiek iekļauti regulētā tirgū, vai
 2) drukātā veidā. Šādā gadījumā tas bez maksas jādara pieejams sabiedrībai tā regulētā tirgus organizētāja birojā, kurā pārvedami vērtspapīri tiek iekļauti organizētajā regulētajā tirgū, vai emitenta juridiskās adreses birojā un to finanšu starpnieku birojos, kuri izvieto vai pārdod pārvedamus vērtspapīrus, tajā skaitā pie pilnvarotajiem maksātājiem, vai

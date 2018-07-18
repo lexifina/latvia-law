@@ -1,5 +1,5 @@
 62.pants. Paziņošanas pienākuma izņēmumi
-(1) Šā likuma 61.² panta prasības neattiecas uz akcijām, kas iegūtas vienīgi klīringa un norēķinu mērķiem parastajā norēķinu ciklā, kā arī uz finanšu starpnieka turējumā esošajām akcijām, ja finanšu starpnieks no akcijām izrietošās balsstiesības var izmantot tikai saskaņā ar norādījumiem, ko rakstveidā vai elektroniski sniedzis akcionārs.
+(1) Šā likuma 61.² panta prasības neattiecas uz akcijām, kas iegūtas vienīgi tīrvērtes un norēķinu mērķiem parastajā norēķinu ciklā, kā arī uz finanšu starpnieka turējumā esošajām akcijām, ja finanšu starpnieks no akcijām izrietošās balsstiesības var izmantot tikai saskaņā ar norādījumiem, ko rakstveidā vai elektroniski sniedzis akcionārs.
 (2) Šā panta pirmajā daļā minētā parastā norēķinu cikla ilgums ir divas tirdzniecības dienas pēc darījuma noslēgšanas dienas.
 (3) Šā likuma 61.² panta prasības neattiecas uz gadījumu, kad tirgus uzturētājs ieguvis vai zaudējis tādu nozīmīgu līdzdalību, kas sasniedz vai pārsniedz piecu procentu īpatsvaru, ja tirgus uzturētājs šajā statusā darbojas, ievērojot nosacījumu, ka tas:
 1) ir saņēmis izcelsmes dalībvalsts licenci saskaņā ar normatīvo aktu prasībām;

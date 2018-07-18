@@ -1,0 +1,2 @@
+XII ⁶ nodaļa
+Pamudinājumi

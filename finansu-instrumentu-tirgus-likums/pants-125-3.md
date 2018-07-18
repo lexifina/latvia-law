@@ -1,0 +1,3 @@
+125.³ pants. Pārvaldības kārtība attiecībā uz klienta aktīvu aizsardzību
+(1) Ieguldījumu brokeru sabiedrība un kredītiestāde norīko vienu darbinieku, kuram ir pietiekamas prasmes un pilnvaras un kurš konkrēti atbild par jautājumiem saistībā ar to, vai ieguldījumu brokeru sabiedrība un kredītiestāde ievēro savus pienākumus klienta finanšu instrumentu un naudas līdzekļu aizsardzības un šķirtas turēšanas jomā.
+(2) Lai nodrošinātu pilnīgu atbilstību šā likuma 125.¹, 125.², 129., 129.¹, 129.² un 131.¹ panta prasībām, ieguldījumu brokeru sabiedrība un kredītiestāde var izlemt, vai norīkotais darbinieks veic vienīgi šo uzdevumu vai var efektīvi pildīt savus pienākumus, vienlaikus pildot citus pienākumus.

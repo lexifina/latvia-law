@@ -1,5 +1,5 @@
 29.pants. Licence regulētā tirgus organizēšanai
-(1) Tirgus organizētājs ir tiesīgs uzsākt darbību tikai pēc licences saņemšanas Komisijā.
+(1) Regulētā tirgus organizētājs ir tiesīgs uzsākt darbību tikai pēc licences saņemšanas Komisijā.
 (2) Licenci regulētā tirgus organizēšanai (turpmāk šajā nodaļā - licence) izsniedz uz nenoteiktu laiku.
 (3) Licenci izsniedz Latvijas Republikā reģistrētai kapitālsabiedrībai, kuras:
 1) apmaksātais minimālais pamatkapitāls un pašu kapitāls atbilst šā likuma 26.panta prasībām;

@@ -1,5 +1,5 @@
 66.pants. Obligātais akciju atpirkšanas piedāvājums
-(1) Papildus šā likuma 1.panta 44.punktā minētajām personām šā panta izpratnē mērķa sabiedrības akcionāri ir uzskatāmi par personām, kuras rīkojas saskaņoti, ja šādas personas ir:
+(1) Papildus šā likuma 1. panta pirmās daļas 42. punktā minētajām personām šā panta izpratnē mērķa sabiedrības akcionāri ir uzskatāmi par personām, kuras rīkojas saskaņoti, ja šādas personas ir:
 1) fiziskās personas un šo fizisko personu aizgādnībā esošas personas;
 2) laulātie;
 3) augšupējie un lejupējie radinieki līdz pirmajai pakāpei;

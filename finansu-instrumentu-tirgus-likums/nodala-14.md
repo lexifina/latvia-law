@@ -1,2 +1,2 @@
 XIV nodaļa
-Ieguldījumu pakalpojumu sniegšanas uzraudzība
+Likuma prasību izpildes uzraudzība

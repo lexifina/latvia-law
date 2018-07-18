@@ -13,3 +13,4 @@
 (1¹) Komisija par ieguldījumu brokeru sabiedrībai izsniegtās licences anulēšanu informē Eiropas Vērtspapīru un tirgu iestādi.
 (2) Komisija īsteno šajā likumā noteikto ieguldījumu brokeru sabiedrības uzraudzību līdz brīdim, kad ieguldījumu brokeru sabiedrība pilnībā nokārtojusi saistības pret saviem klientiem.
 (3) Ieguldījumu brokeru sabiedrība, kurai ir anulēta licence, rīkojas ar saviem klientiem piederošo mantu, ievērojot šā likuma I sadaļas prasības.
+(4) Ja Komisija ir anulējusi ieguldījumu brokeru sabiedrībai izsniegto licenci šā panta pirmās daļas 2., 4. un 9. punktā noteiktajos gadījumos, informāciju par anulēšanu publicē Komisijas mājaslapā internetā un saglabā piecus gadus.

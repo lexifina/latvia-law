@@ -1,5 +1,5 @@
 126.¹ pants. Ar ieguldījumu pakalpojumiem saistītās informācijas apmaiņas veidi
-(1) Ieguldījumu brokeru sabiedrība vai kredītiestāde klientam paredzēto informāciju sniedz papīra formā vai elektroniski. Izvēloties informācijas sniegšanas veidu, klientam tiek nodrošināta iespēja uzglabāt personīgi viņam adresēto informāciju un neizmainītā veidā to pavairot laikposmā, kas ir pamatoti nepieciešams, ņemot vērā informācijas saturu.
+(1) Ieguldījumu brokeru sabiedrība un kredītiestāde klientam paredzēto informāciju sniedz, izmantojot pastāvīgu informācijas nesēju.
 (2) Ieguldījumu brokeru sabiedrība vai kredītiestāde nodrošina klientam izvēles tiesības attiecībā uz informācijas apmaiņas veidu. Informācijas apmaiņas veidu, kādā ieguldījumu brokeru sabiedrība un kredītiestāde sniedz informāciju klientam, paredz līgumā par ieguldījumu pakalpojumu sniegšanu.
 (3) Klientam paredzēto informāciju ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz elektroniski, ja:
 1) informācijas sniegšana elektroniskā veidā ir piemērota apstākļiem, kuros notiek vai notiks darījumi starp ieguldījumu brokeru sabiedrību vai kredītiestādi un klientu;
