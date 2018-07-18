@@ -3,6 +3,7 @@
 26. janvāri - Latvijas Republikas starptautiskās (de jure) atzīšanas dienu;
 8. martu - Starptautisko sieviešu dienu;
 25. martu - Komunistiskā genocīda upuru piemiņas dienu;
+27. aprīli - Latgales kongresa dienu;
 8. maiju - Nacisma sagrāves dienu un Otrā pasaules kara upuru piemiņas dienu;
 9. maiju - Eiropas dienu;
 15. maiju - Starptautisko ģimenes dienu;
