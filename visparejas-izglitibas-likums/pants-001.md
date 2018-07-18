@@ -5,8 +5,10 @@
 2) atestāts par vispārējo vidējo izglītību - izglītības dokuments, kas apliecina vispārējās vidējās izglītības programmas apguvi;
 3) liecība - dokuments, kas apliecina pamatizglītības vai vispārējās vidējās izglītības programmas daļas apguvi;
 4) (izslēgts ar 09.07.2013. likumu);
+4¹) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
+4²) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
 5) mācību priekšmets - noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības;
-6) mācību stundu (nodarbību) slodze - izglītības programmā ietvertais regulāri apmeklējamo mācību priekšmetu stundu skaits mācību nedēļā;
+6) mācību stundu (nodarbību) slodze - izglītības programmā ietvertais regulāri apmeklējamo mācību stundu skaits mācību nedēļā;
 7) pedagoģiskā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā, kurām nepieciešams papildināt zināšanas pamatizglītības programmas ietvaros;
 8) sociālā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm;
 9) pagarinātās dienas grupa - izglītības iestādes nodrošināta iespēja izglītojamajiem saņemt pedagoģisku palīdzību un organizēti pavadīt brīvo laiku ārpus obligātajām mācību stundām;
@@ -15,4 +17,5 @@
 12) centralizēts eksāmens - pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts valsts pārbaudes darbs izglītojamo mācību sasniegumu novērtēšanai noteiktā mācību priekšmetā pamatizglītības un vispārējās vidējās izglītības programmā;
 13) vērtējums - izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums;
 14) speciālās vajadzības - nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni;
+14¹) speciālās izglītības attīstības centrs - pašvaldības dibināta speciālās izglītības iestāde, kurai piešķirts speciālās izglītības attīstības centra statuss un kurā tiek sniegts konsultatīvs un metodisks atbalsts izglītojamiem ar speciālām vajadzībām, tai skaitā pirmsskolas vecuma bērniem, viņu likumiskajiem pārstāvjiem un pedagogiem;
 15) starptautiska testēšanas institūcija - institūcija, kas nodrošina pārbaudījumu svešvalodā un izsniedz dokumentu par pārbaudījuma rezultātiem, kuri pielīdzināti Eiropas kopīgajās pamatnostādnēs valodu apguvei noteiktajiem valodas prasmes līmeņiem.

@@ -1,0 +1,1 @@
+31. Grozījumi šā likuma 15.¹ panta pirmajā daļā un 20. panta pirmajā daļā (par valsts pirmsskolas izglītības vadlīnijās un pirmsskolas izglītības programmā nosakāmo saturu) stājas spēkā 2019. gada 1. septembrī.

@@ -1,0 +1,1 @@
+40. Izglītības iestādes, kuras šā likuma 15. panta pirmās daļas jaunās redakcijas, 17. panta pirmās daļas jaunās redakcijas un 42.¹ panta spēkā stāšanās dienā īsteno vispārējās pamatizglītības un vispārējās vidējās izglītības programmas vai uzsākušas jaunu šo programmu izstrādi, nodrošina attiecīgo programmu atbilstību minēto tiesību normu prasībām līdz 2020. gada 31. augustam.

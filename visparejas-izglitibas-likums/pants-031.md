@@ -1,3 +1,4 @@
 31.pants. Izglītojamo uzņemšana pamatizglītības iestādē
-(1) Izglītības iestāde, kura īsteno pamatizglītības programmas, nedrīkst rīkot iestājpārbaudījumus izglītojamo uzņemšanai no 1.klases līdz 9.klasei.
-(2) Ģimnāzijas un valsts ģimnāzijas, uzņemot izglītojamos pamatizglītības programmā no 7.klases līdz 9.klasei, ar dibinātāja atļauju ir tiesīgas rīkot iestājpārbaudījumus atbilstoši valsts pamatizglītības standartam.
+(1) Izglītības iestāde, kura īsteno pamatizglītības programmas, nedrīkst rīkot iestājpārbaudījumus izglītojamo uzņemšanai no 1.klases līdz 9.klasei, izņemot šā panta trešajā daļā minētos gadījumus.
+(2) Valsts ģimnāzijas, uzņemot izglītojamos pamatizglītības otrā posma izglītības programmā, ar dibinātāja atļauju ir tiesīgas rīkot iestājpārbaudījumus atbilstoši valsts pamatizglītības standartam un noteikt uzņemšanas kritērijus. Ja pašvaldības teritorijā ir vairākas valsts ģimnāzijas, pašvaldība ir tiesīga organizēt vienotus iestājpārbaudījumus un noteikt vienotus uzņemšanas kritērijus.
+(3) Valsts izglītības iestāde, kurā vienlaikus ar vispārējās pamatizglītības programmu īsteno arī profesionālās ievirzes izglītības programmu, ar dibinātāja atļauju ir tiesīga noteikt uzņemšanas prasības, atbilstība kurām ir nepieciešama, lai izglītojamais spētu uzsākt profesionālās ievirzes izglītības programmas apgūšanu.

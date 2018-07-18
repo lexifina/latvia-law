@@ -2,6 +2,6 @@
 (1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pakļautībā.
 (2) Pedagoģiskās korekcijas izglītības iestādes dibina valsts, pašvaldības, citas juridiskās un fiziskās personas.
 (3) Jebkura izglītības iestāde var atvērt klases izglītojamajiem, kuriem nepieciešama sociālā vai pedagoģiskā korekcija.
-(4) Uzņemšana sociālās korekcijas izglītības iestādēs notiek likumā noteiktajā kārtībā.
+(4) Izglītojamo sociālās korekcijas izglītības iestādē uzņem likumā "Par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem" noteiktajā kārtībā.
 (5) Uzņemšanas kārtību pedagoģiskās korekcijas izglītības iestādē vai klasē un sociālās korekcijas klasē nosaka attiecīgās iestādes dibinātājs.
 (6) Izglītības iestādēm, kurās tiek izveidotas sociālās vai pedagoģiskās korekcijas klases, obligāti ir jānodrošina pagarinātās darba dienas grupa individuālajam darbam ar izglītojamajiem, kas mācās šajās klasēs.

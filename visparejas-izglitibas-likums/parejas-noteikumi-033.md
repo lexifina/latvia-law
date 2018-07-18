@@ -1,0 +1,1 @@
+33. Grozījumi šā likuma 40. panta pirmās daļas 2. punktā un piektajā daļā [par vakara (maiņu) vidusskolu izslēgšanu] stājas spēkā 2020. gada 1. septembrī. No 2018. gada 1. augusta vakara (maiņu) vidusskolu nedibina.

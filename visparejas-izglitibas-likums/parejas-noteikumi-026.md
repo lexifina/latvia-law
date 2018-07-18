@@ -1,0 +1,1 @@
+26. Izglītības iestādes, kuras īsteno pedagoģiskās korekcijas izglītības programmas, no 2018. gada 1. septembra izglītojamos šajās izglītības programmās neuzņem. Izglītības iestādes ir tiesīgas uzsākto pedagoģiskās korekcijas izglītības programmu īstenošanu turpināt līdz 2019. gada 30. jūnijam.

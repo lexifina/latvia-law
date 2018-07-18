@@ -1,0 +1,1 @@
+35. Grozījumi šā likuma 1. panta otrās daļas 7. punktā, 3. panta otrās daļas 3. punktā, 29. panta otrajā daļā, IX nodaļas nosaukumā un 59., 60. un 61. pantā (par pedagoģiskās korekcijas kā vispārējās izglītības īpašā veida izslēgšanu) stājas spēkā 2019. gada 1. septembrī.

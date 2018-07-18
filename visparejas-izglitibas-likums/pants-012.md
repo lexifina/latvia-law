@@ -4,5 +4,5 @@
 1) veic pedagoģiskā procesa analīzi un izstrādā priekšlikumus tā rezultātu uzlabošanai;
 2) apspriež pedagoģiskā procesa organizācijas jautājumus un pedagoģisko pieredzi;
 3) veido vienotu pedagoģisko pozīciju pedagoģiskā procesa organizācijas pamatjautājumos;
-4) ierosina pedagoģiskās un sociālās korekcijas programmu uzsākšanu izglītības iestādē;
+4) (izslēgts ar 21.06.2018. likumu);
 5) izstrādā izglītības iestādes darbības plāna projektu.

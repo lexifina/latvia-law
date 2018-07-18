@@ -1,0 +1,1 @@
+39. Izglītības iestādes, kuras šā likuma 15.¹ panta pirmajā daļā un 20. panta pirmajā daļā izdarīto grozījumu spēkā stāšanās dienā īsteno pirmsskolas izglītības programmas vai uzsākušas jaunu šo programmu izstrādi, nodrošina attiecīgo programmu atbilstību minēto tiesību normu prasībām līdz 2019. gada 31. augustam.

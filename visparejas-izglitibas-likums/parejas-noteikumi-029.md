@@ -1,0 +1,1 @@
+29. Grozījumi šā likuma 4. panta 5. punktā (par vārdu "ģimnāzijas un" izslēgšanu), 40. panta pirmās daļas 3. punkta jaunā redakcija un grozījumi šajā pantā (par trešās daļas izslēgšanu) stājas spēkā 2021. gada 1. septembrī. No 2018. gada 1. augusta ģimnāzijas statusu izglītības iestādei nepiešķir.
