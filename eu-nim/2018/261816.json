@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 17. jūlija noteikumi Nr. 429 “Noteikumi par transportlīdzekļu sastāvdaļām un materiāliem, kuri drīkst saturēt svinu, dzīvsudrabu, kadmiju vai sešvērtīgā hroma savienojumus”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "142 (6228)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-19",
+  "entry_into_force": "2018-07-20",
+  "notification_date": "2018-08-09",
+  "commission_reference": "MNE(2018)54310",
+  "nim_celex": "72017L2096LVA_261816",
+  "nim_id": "261816",
+  "transposes_celex": [
+    "32017L2096"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84f8525b-75c0-4d55-8368-2a8764df3474",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
