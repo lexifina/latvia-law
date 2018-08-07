@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 “Rotaļlietu drošuma noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "40 (4438)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-07",
+  "entry_into_force": "2018-08-07",
+  "notification_date": "2018-11-07",
+  "commission_reference": "MNE(2018)55958",
+  "nim_celex": "72017L0738LVA_264874",
+  "nim_id": "264874",
+  "transposes_celex": [
+    "32017L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b1cc4a55-0594-468d-8307-f67cbb69e769",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
