@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2018. gada 7. augusta Ministru kabineta noteikumi Nr. 468\nGrozījumi Ministru kabineta 2013. gada 12. novembra noteikumos Nr. 1284 \"Darbinieku apstarošanas kontroles un uzskaites kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/157.16",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-09",
+  "entry_into_force": "2018-08-10",
+  "notification_date": "2018-08-22",
+  "commission_reference": "MNE(2018)54494",
+  "nim_celex": "72013L0059LVA_262117",
+  "nim_id": "262117",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/27672050-29a3-434d-a988-230400dafb85",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
