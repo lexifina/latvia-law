@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018.gada 7.augusta noteikumi Nr. 495 “Grozījumi Ministru kabineta 2010. gada 30. novembra noteikumos Nr. 1080 “Transportlīdzekļu reģistrācijas noteikumi””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "162 (6248)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-16",
+  "entry_into_force": "2018-08-17",
+  "notification_date": "2018-08-17",
+  "commission_reference": "MNE(2018)54381",
+  "nim_celex": "72007L0046LVA_261938",
+  "nim_id": "261938",
+  "transposes_celex": [
+    "32007L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca813df8-2246-4a91-aeb1-40f45ef69dd7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
