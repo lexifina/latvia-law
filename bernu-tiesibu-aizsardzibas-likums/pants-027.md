@@ -4,8 +4,8 @@
 2) bērns nopietni apdraud savu veselību vai attīstību, lietojot alkoholu, narkotiskās vai toksiskās vielas;
 3) bērns ir izdarījis noziedzīgu nodarījumu.
 (2) Šā panta pirmās daļas 1. un 2.punktā paredzētajos gadījumos bērns šķirams no ģimenes, ja nav iespējams novērst bērna attīstībai nelabvēlīgos apstākļus, viņam paliekot ģimenē. Ģimenes izlikšana no dzīvojamām telpām nedrīkst būt par iemeslu bērna šķiršanai no vecākiem.
-(3) Šķirot bērnu no ģimenes, viņam tiek nodrošināta ārpusģimenes aprūpe pie aizbildņa, audžuģimenē vai bērnu aprūpes iestādē, kā arī valsts apmaksāta neatliekamā medicīniskā palīdzība ārstniecības iestādēs vai palīdzība sociālās rehabilitācijas iestādēs. Bērnam primāri tiek nodrošināta iespēja augt pie aizbildņa vai audžuģimenē.
-(3¹) Ārpusģimenes aprūpi bērnu aprūpes iestādē nodrošina, ja aprūpe pie aizbildņa vai audžuģimenē nav piemērota konkrētam bērnam. Bērnu aprūpes iestādē bērns atrodas līdz brīdim, kad viņam tiek nodrošināta piemērota aprūpe pie aizbildņa vai audžuģimenē.
+(3) Šķirot bērnu no ģimenes, viņam tiek nodrošināta ārpusģimenes aprūpe pie aizbildņa vai audžuģimenē. Ārpusģimenes aprūpi bērnu aprūpes iestādē nodrošina tikai gadījumos, kad aprūpe pie aizbildņa vai audžuģimenē nav piemērota konkrētam bērnam. Bērnu aprūpes iestādē bērns atrodas līdz brīdim, kad viņam tiek nodrošināta piemērota aprūpe pie aizbildņa vai audžuģimenē.
+(3¹) (Izslēgta no 01.09.2018. ar 03.05.2018. likumu, kas stājas spēkā 01.06.2018. Sk. Pārejas noteikumu 35. punktu)
 (4) Ja ārpusģimenes aprūpe tiek noteikta sakarā ar šā panta pirmās daļas 1.punktā minētajiem apstākļiem:
 1) vienas ģimenes bērni nav šķirami, izņemot īpašus gadījumus, kad tas tiek darīts bērnu interesēs;
 2) izvēloties ārpusģimenes aprūpes veidu, vērā ņemams arī bērna viedoklis.
