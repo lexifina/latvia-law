@@ -24,7 +24,7 @@ Izglītības un zinātnes ministrija:
 21) (izslēgts ar 15.03.2012. likumu);
 22) (izslēgts ar 18.06.2015. likumu);
 23) iesniedz Ministru kabinetam priekšlikumus par valsts izglītības iestāžu un izglītības atbalsta iestāžu dibināšanu, reorganizēšanu vai likvidēšanu, saskaņojot ar attiecīgajām pašvaldībām;
-24) apstiprina Izglītības un zinātnes ministrijas padotībā esošo izglītības iestāžu (izņemot augstskolu un koledžu) nolikumus;
+24) (izslēgts no 01.09.2018. ar 18.06.2015. likumu. Sk. Pārejas noteikumu 43.punktu);
 25) pieņem darbā un atbrīvo no darba Izglītības un zinātnes ministrijas padotībā esošo izglītības iestāžu (izņemot augstskolu) vadītājus;
 26) ierosina pašvaldību izglītības iestāžu vadītāju un valsts augstskolu vidējās izglītības iestāžu vadītāju atbrīvošanu no darba. Saskaņo pašvaldību izglītības pārvalžu vadītāju pieņemšanu darbā un atbrīvošanu no darba;
 27) (izslēgts ar 18.06.2015. likumu).
