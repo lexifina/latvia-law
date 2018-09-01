@@ -1,0 +1,1 @@
+148.³ Pie zvērināta notāra palīga eksāmena tiek pielaisti pretendenti, kuri atbilst šā likuma 147. panta 1., 2., 3., 4. un 5. punkta prasībām un kuru sociālo kompetenci un sociālo intelektu ir izvērtējis Latvijas Zvērinātu notāru padomes noteikts personāla atlases speciālists.

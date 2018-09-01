@@ -4,4 +4,4 @@
 3) pēc akreditētas studiju programmas apguves augstskolā ieguvušas otrā līmeņa augstāko profesionālo izglītību tiesību zinātnē un jurista kvalifikāciju;
 4) prot valsts valodu;
 5) vismaz divus gadus darbojušās pie zvērināta notāra;
-6) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018. Sk. Pārejas noteikumu 31. punktu)
+6) nokārtojušas zvērināta notāra palīga eksāmenu.
