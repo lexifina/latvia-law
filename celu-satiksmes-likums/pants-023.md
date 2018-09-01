@@ -33,14 +33,10 @@ c) Latvijā - A1 kategorijas transportlīdzekli;
 (4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B kategorijas transportlīdzekli, kurš normatīvajos aktos noteiktajā kārtībā ir nokārtojis transportlīdzekļa vadīšanas eksāmenu un kuram transportlīdzekļu vadītāja apliecībā par to izdarīta attiecīga atzīme, atļauts vadīt B kategorijas vilcēja savienojumu ar piekabi, kuras pilna masa pārsniedz 750 kilogramus, ja šā savienojuma pilna masa pārsniedz 3500 kilogramus.
 (5) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B, C1, D1, C vai D kategorijas transportlīdzekļus, atļauts vadīt specializētos tūristu transportlīdzekļus.
 (6) Šā panta pirmās, otrās, trešās, ceturtās un piektās daļas noteikumi, izņemot otrās daļas 8.punktā minēto nosacījumu, nav attiecināmi uz traktortehnikas vadītāja apliecību kategorijām.
-(7) Traktortehnikas vadītāja apliecību kategorijām atbilst šāda traktortehnika:
-1) A - traktori, komunālā pašgājēja traktortehnika un universālās pašgājējmašīnas ar pilnu masu līdz 7500 kilogramiem;
-2) B - visi traktori, komunālā pašgājēja traktortehnika, buldozeri un universālās pašgājējmašīnas;
-3) C - ekskavatori un pašgājēji iekrāvēji;
-4) D - lauksaimniecības pašgājējmašīnas;
-5) E - autogreideri;
-6) F - meža izstrādes un kopšanas mašīnas;
-7) G - ceļu būves mašīnas;
-8) H - cita speciālā pašgājējtehnika.
+(7) Traktortehnikas vadītāja apliecību kategorijām atbilst šādas traktortehnikas grupas:
+1) TR1 - traktori, lauksaimniecības pašgājējmašīnas, komunālās mašīnas, universālās pašgājējmašīnas, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas ar pilnu masu līdz 7500 kilogramiem;
+2) TR2 - visi traktori, lauksaimniecības pašgājējmašīnas, komunālās mašīnas, universālās pašgājējmašīnas, buldozeri, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas;
+3) TR3 - meža mašīnas, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas;
+4) TR4 - ceļu būves mašīnas, buldozeri, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas.
 (8) Ja transportlīdzekļa vadītājs citas kategorijas transportlīdzekli, tai skaitā traktortehniku, vada tikai ar AM, A1 vai TRAM kategorijas transportlīdzekļu vadīšanas tiesībām, uzskatāms, ka šim transportlīdzekļa vadītājam, vadot attiecīgo transportlīdzekli, vispār nav transportlīdzekļu vadīšanas tiesību. Šis nosacījums attiecībā uz A1 un TRAM kategorijas transportlīdzekļu vadīšanas tiesībām neattiecas uz šā panta otrās daļas 8.punktā minēto nosacījumu.
-(9) Speciālo militāro tehniku ir tiesīgs vadīt profesionālā dienesta karavīrs vai zemessargs, kuram piešķirta A vai B kategorijas traktortehnikas vadītāja apliecība.
+(9) Speciālo militāro tehniku ir tiesīgs vadīt profesionālā dienesta karavīrs vai zemessargs, kuram piešķirta TR1 vai TR2 kategorijas traktortehnikas vadītāja apliecība.

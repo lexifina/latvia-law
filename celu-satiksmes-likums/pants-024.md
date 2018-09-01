@@ -5,7 +5,7 @@
 3) 18 gadus - A2, B, BE, C1 un C1E kategorijas vadītāja apliecības iegūšanai;
 4) 21 gadu - C, CE, D1, D1E, TRAM un TROL kategorijas vadītāja apliecības iegūšanai;
 5) 24 gadus - A, D un DE kategorijas vadītāja apliecības iegūšanai. A kategorijas vadītāja apliecību var iegūt persona, kura sasniegusi 20 gadu vecumu, ja tās A2 kategorijas transportlīdzekļa vadītāja stāžs ir vismaz divi gadi. Vadīt triciklus, kuru jauda pārsniedz 15 kilovatus, atļauts personai, kura sasniegusi vismaz 21 gada vecumu;
-6) 16 gadus - A kategorijas traktortehnikas vadītāja apliecības iegūšanai;
+6) 16 gadus - TR1 kategorijas traktortehnikas vadītāja apliecības iegūšanai;
 7) 17 gadus - visu veidu traktortehnikas vadītāja apliecības iegūšanai.
 (2) Personas, kuras atrodas militārajā dienestā, var iegūt C, CE, D1 un D kategorijas vadītāja apliecību no 19 gadu vecuma. Šī vadītāja apliecība līdz šā panta pirmajā daļā noteiktā vecuma sasniegšanai dod tiesības vadīt tikai Nacionālo bruņoto spēku transportlīdzekļus.
 (3) Apmācīt personas vadīt transportlīdzekli drīkst ne agrāk kā divus gadus pirms attiecīgās kategorijas transportlīdzekļu vadītāja apliecības iegūšanai noteiktā vecuma sasniegšanas.
