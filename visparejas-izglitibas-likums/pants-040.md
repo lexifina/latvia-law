@@ -5,6 +5,6 @@
 3) ģimnāzijas.
 (2) Vidusskolas pamatuzdevums ir īstenot pamatizglītības un vispārējās vidējās izglītības programmas.
 (3) Ģimnāzijas pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas. Ģimnāzija var īstenot arī daļējas pamatizglītības programmas no 7.klases līdz 9.klasei.
-(4) Valsts ģimnāzijas statusu izglītības iestādei piešķir Ministru kabinets. Valsts ģimnāzija papildus vispārējās vidējās izglītības programmu īstenošanai veic reģionālā metodiskā centra un pedagogu tālākizglītības centra funkcijas.
+(4) Valsts ģimnāzijas statusu izglītības iestādei piešķir Ministru kabinets. Valsts ģimnāzijas pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas. Valsts ģimnāzija ir tiesīga īstenot arī vispārējās pamatizglītības otrā posma izglītības programmu vai pilnu pamatizglītības programmu, kā arī starptautiskā bakalaurāta programmu. Valsts ģimnāzija papildus minēto izglītības programmu īstenošanai veic reģionālā metodiskā centra un pedagogu tālākizglītības centra funkcijas.
 (5) Vakara (maiņu) vidusskolas pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas, lai nodrošinātu iespēju iegūt izglītību personām, kuras ģimenes apstākļu, darba, sociālekonomisku, veselības stāvokļa vai citu iemeslu dēļ nav ieguvušas vai neiegūst izglītību citās vispārējās izglītības iestādēs. Vakara (maiņu) vidusskolas var īstenot arī pamatizglītības programmas un pieaugušo neformālās izglītības programmas.
 (6) Valsts augstskolas vispārējās vidējās izglītības iestādes pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas.
