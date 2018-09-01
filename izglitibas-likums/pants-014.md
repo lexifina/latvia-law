@@ -8,7 +8,7 @@ Ministru kabinets:
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
-7¹) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018. Sk. Pārejas noteikumu 43. punktu);
+7¹) apstiprina valsts izglītības iestāžu (izņemot valsts augstskolu - atvasināto publisko personu) nolikumus;
 8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
@@ -48,5 +48,5 @@ Ministru kabinets:
 38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
 39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus;
 40) nosaka kārtību, kādā piešķir valsts sociālo atbalstu tiem vispārējās pamatizglītības un vispārējās vidējās izglītības programmu īstenošanā iesaistītajiem pedagogiem, kuri pašvaldības vispārējās izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē pedagoga darbu, kā arī nosaka institūciju, kas administrē valsts sociālā atbalsta izmaksu un tās pārtraukšanu;
-41) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018. Sk. Pārejas noteikumu 63. punktu);
-42) (punkts stājas spēkā 01.09.2018. un iekļauts likuma redakcijā uz 01.09.2018.. Sk. Pārejas noteikumu 63. punktu).
+41) nosaka minimāli pieļaujamo izglītojamo skaitu un kritērijus maksimāli pieļaujamā izglītojamo skaita noteikšanai klasē un klašu grupā vidējās izglītības pakāpē pašvaldību, valsts augstskolu un privātajās vispārējās izglītības iestādēs. Minētos kritērijus izglītības iestādes dibinātājs ņem vērā, nosakot maksimāli pieļaujamo izglītojamo skaitu klasē un klašu grupā;
+42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā izglītības iestādē iegūtās izglītības kvalitātes rādītājus, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītojamo skaits attiecīgajā klasē vai klašu grupā vidējās izglītības pakāpē neatbilst Ministru kabineta noteiktajam minimāli pieļaujamam izglītojamo skaitam.
