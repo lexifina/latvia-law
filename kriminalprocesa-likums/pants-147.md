@@ -4,7 +4,7 @@
 (3) Liecības sastāvdaļa ir pratināmās personas dati - vārds, uzvārds un personas kods.
 (4) Ja liecība ir saistīta ar skaitļiem, datumiem un citu informāciju, ko grūti atcerēties, pratināmajam ir tiesības izmantot savus dokumentus un pierakstus, kā arī tos nolasīt. Pratināmā pierakstus var pievienot lietai.
 (5) Pratināšanas gaitā pratināmajam var uzrādīt lietai pievienotus priekšmetus, dokumentus, skaņu un attēlu ierakstus, kā arī nolasīt viņam dokumentus vai atskaņot ierakstus, par ko izdara atzīmi protokolā. Materiālus uzrāda tikai pēc tam, kad ir ieprotokolētas pratināmā liecības attiecīgajā jautājumā.
-(6) Pratināmā iepriekšējo liecību nolasīšana pieļaujama, ja:
+(6) Pratināmā iepriekšējo liecību nolasīšana vai atskaņošana pieļaujama, ja:
 1) ir būtiskas pretrunas starp iepriekšējo un šo liecību;
 2) pratināmais atsakās liecināt;
 3) lietu izskata tiesā nopratinātās personas prombūtnē.

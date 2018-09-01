@@ -1,4 +1,4 @@
-426.pants. Prokurora darbības pirmstiesas kriminālprocesā neatliekamības kārtībā
-(1) Prokuroram divu darba dienu laikā pēc materiālu saņemšanas jāizlemj par procesa turpināšanu neatliekamības kārtībā.
-(2) Ja prokurors nepiekrīt procesa turpināšanai neatliekamības kārtībā, jo konstatē apstākļus, kas to nepieļauj, vai uzskata, ka nav savākti pietiekami pierādījumi, lai aizdomās turētā vainu varētu pierādīt tiesā, viņš materiālus nosūta atpakaļ izmeklēšanas iestādei kriminālprocesa turpināšanai. Prokurors var turpināt kriminālprocesu, izvēloties citu pirmstiesas kriminālprocesa veidu.
-(3) Ja prokurors piekrīt procesa turpināšanai neatliekamības kārtībā, viņš pieņem lēmumu par krimināllietas nodošanu tiesai.
+426. pants. Prokurora darbības, saņemot kriminālprocesu paātrinātā procesa kārtībā
+(1) Prokurors, saņemot kriminālprocesu paātrinātā procesa kārtībā, izlemj par pirmstiesas kriminālprocesa pabeigšanas veidu.
+(2) Turpinot kriminālprocesu paātrinātā procesa kārtībā, prokurors nekavējoties, bet ne vēlāk kā 10 dienu laikā pēc kriminālprocesa materiālu saņemšanas pieņem lēmumu par lietas nodošanu tiesai.
+(3) Ja prokurors uzskata, ka izmeklēšanā nav savākti pietiekami pierādījumi, lai personu sauktu pie kriminālatbildības, viņš materiālus nosūta atpakaļ ar pavadrakstu izmeklēšanas iestādei izmeklēšanas turpināšanai, norādot uz nepieciešamību veikt konkrētas procesuālās darbības.

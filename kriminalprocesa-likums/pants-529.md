@@ -4,4 +4,5 @@ Sprieduma rezolutīvajā daļā papildus norāda tiesas lēmumu par:
 2) procesuālo izdevumu atlīdzību, nosakot termiņu sprieduma labprātīgai izpildei - 30 dienas no sprieduma spēkā stāšanās dienas;
 3) sprieduma pārsūdzēšanas kārtību un termiņu;
 3¹) pārsūdzības termiņa pagarināšanu vēl par 10 dienām kriminālprocesa īpašas sarežģītības un apjoma dēļ;
-4) (izslēgts ar 30.03.2017. likumu).
+4) (izslēgts ar 30.03.2017. likumu);
+5) pilna sprieduma pieejamības dienu, ja krimināllieta iztiesāta bez apsūdzētā piedalīšanās, jo apsūdzētais atkārtoti bez attaisnojoša iemesla neierodas uz tiesas sēdi, vai apsūdzētā prombūtnē (in absentia).

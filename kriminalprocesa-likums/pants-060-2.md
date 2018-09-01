@@ -8,7 +8,8 @@
 6) tikt informētai par to, kāds pieņēmums izteikts vai kādas aizdomas radušās pret šo personu, vai kāda apsūdzība tai izvirzīta;
 7) likumā noteiktajā kārtībā un apjomā saņemt mutvārdu vai rakstveida tulkojumu tai saprotamā valodā;
 8) sniegt liecību vai atteikties liecināt;
-9) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus.
+9) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus;
+10) pieprasīt informāciju par kriminālprocesa virzību, par amatpersonām, kuras veic vai ir veikušas konkrēto kriminālprocesu, par personai piemērotajiem tiesību ierobežojumiem un to termiņiem.
 (2) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas procesa un tiesas.
 (3) Papildus tiesībām, kas noteiktas šā panta pirmajā daļā, aizturētajam, kā arī aizdomās turētajam vai apsūdzētajam, kuram piemēro ar brīvības atņemšanu saistītu drošības līdzekli, ir šādas tiesības:
 1) iepazīties ar tiem lietas materiāliem, ar kuriem pamatots ierosinājums piemērot ar brīvības atņemšanu saistītu drošības līdzekli, ciktāl šāda piekļuve neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanu;

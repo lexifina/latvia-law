@@ -5,3 +5,4 @@
 (4) Ar palīgfaktiem tiek pamatota kāda cita pierādījuma ticamība vai neticamība, kā arī iespējamība vai neiespējamība to izmantot pierādīšanā.
 (5) Pierādīšanas priekšmetā ietilpstošie apstākļi uzskatāmi par pierādītiem, ja pierādīšanas gaitā izslēgtas jebkādas saprātīgas šaubas par to esamību vai neesamību.
 (6) Pierādīšanas priekšmetā ietilpstošie apstākļi attiecībā uz mantas noziedzīgo izcelsmi uzskatāmi par pierādītiem, ja pierādīšanas gaitā ir pamats atzīt, ka mantai, visticamāk, ir noziedzīga, nevis likumīga izcelsme.
+(7) Lai pierādītu noziedzīgi iegūtu līdzekļu legalizēšanu, jāpierāda, ka šie līdzekļi ir noziedzīgi iegūti, bet nav nepieciešams pierādīt, konkrēti no kura noziedzīgā nodarījuma līdzekļi iegūti.

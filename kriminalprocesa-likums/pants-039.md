@@ -1,6 +1,7 @@
 39.pants. Prokurora - procesa virzītāja pienākumi un tiesības
 (1) Prokuroram kā procesa virzītājam ir pienākums:
 1) nepieļaujot neattaisnotu vilcināšanos un likumā noteiktajā laikā uzsākt kriminālvajāšanu;
+1¹) izvēlēties konkrētiem apstākļiem atbilstošu vienkāršāko pirmstiesas kriminālprocesa pabeigšanas veidu, kā arī izvēlēties un veikt tādas procesuālās darbības, lai nodrošinātu kriminālprocesa mērķa sasniegšanu pēc iespējas ātrāk un ekonomiskāk;
 2) atteikties no kriminālvajāšanas un izbeigt kriminālprocesu, ja pastāv likumā tam paredzētie priekšnoteikumi;
 3) noteikt tiesai nododamās krimināllietas un arhīva lietas materiālu kopumu;
 4) izsniegt personai, kurai ir tiesības uz aizstāvību, tiesai nododamās krimināllietas materiālu kopijas vai norakstus (turpmāk - kopijas) vai likumā noteiktajā kārtībā šo personu iepazīstināt ar tiesai nododamās krimināllietas materiāliem;

@@ -1,1 +1,1 @@
-36.nodaļa. Pirmstiesas kriminālprocesa īpatnības, piemērojot neatliekamības kārtību
+36. nodaļa. Pirmstiesas kriminālprocesa īpatnības paātrinātajā procesā

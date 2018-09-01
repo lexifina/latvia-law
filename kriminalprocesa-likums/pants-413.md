@@ -1,6 +1,6 @@
 413.pants. Lēmums par krimināllietas nodošanu tiesai
 (1) Lēmumā par krimināllietas nodošanu tiesai prokurors norāda:
-1) ziņas par apsūdzētā personu;
+1) ziņas par apsūdzēto personu, tās paziņoto dzīvesvietu un darbavietu;
 2) par kāda noziedzīga nodarījuma izdarīšanu persona tiek apsūdzēta un lieta nodota tiesai;
 3) noziedzīga nodarījuma kvalifikāciju;
 4) (izslēgts ar 12.03.2009. likumu);

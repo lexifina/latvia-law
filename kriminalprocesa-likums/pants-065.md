@@ -1,2 +1,2 @@
-65.pants. Aizdomās turētais
-Ja pierādījumu kopums dod pamatu procesa virzītāja pieņēmumam, ka izmeklējamo noziedzīgu nodarījumu, visticamāk, izdarījusi konkrēta persona, viņš pieņem rakstveida lēmumu, ka persona atzīstama par aizdomās turēto.
+65. pants. Aizdomās turētais
+Aizdomās turētais ir persona, par kuru pierādījumu kopums procesa virzītājam dod pamatu pieņēmumam, ka izmeklējamo noziedzīgo nodarījumu, visticamāk, izdarījusi konkrētā persona. Persona aizdomās turētā statusu iegūst no brīža, kad procesa virzītājs pieņem attiecīgo lēmumu.

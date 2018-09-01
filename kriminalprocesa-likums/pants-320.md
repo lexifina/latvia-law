@@ -7,4 +7,4 @@
 (5¹) Nolēmumā neietver informāciju, kas ir valsts noslēpuma objekts. Ja informācija, kas ir valsts noslēpuma objekts, ir pierādījums kriminālprocesā, nolēmumā norāda, ka šī informācija ir izvērtēta.
 (6) Šajā likumā paredzētajos gadījumos procesa virzītājs lēmumu var uzrakstīt rezolūcijas veidā. Šādos gadījumos norāda pieņemto nolēmumu, likuma pantu, saskaņā ar kuru tas pieņemts, amatpersonu, kas pieņēma lēmumu, un lēmuma pieņemšanas datumu.
 (7) Amatpersona, kura pilnvarota veikt kriminālprocesu, savu lēmumu, ar kuru tā atļauj vai piekrīt veikt konkrētu procesuālo darbību vai apstiprina tās veikšanu, noformē rezolūcijas veidā.
-(8) Rezolūcijas veidā rakstāmos lēmumus, ja tie nav pārsūdzami, ieraksta tikai kriminālprocesa reģistrā.
+(8) (Izslēgta ar 20.06.2018. likumu)

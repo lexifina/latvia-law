@@ -2,8 +2,8 @@
 (1) Juridiskās personas tiesības īsteno tās pārstāvis. No brīža, kad personai ar procesa virzītāja lēmumu atļauj piedalīties procesā par piespiedu ietekmēšanas līdzekļa piemērošanu kā juridiskās personas pārstāvim, šai personai ir tiesības:
 1) saņemt tā lēmuma kopiju, ar kuru uzsākts process par piespiedu ietekmēšanas līdzekļa piemērošanu;
 2) tiesību pilnīgai realizācijai par juridiskās personas līdzekļiem uzaicināt aizstāvi;
-3) iepazīties ar kriminālprocesa reģistru ne vēlāk kā triju dienu laikā pēc pieteikuma iesniegšanas;
-4) pieteikt noraidījumu reģistrā ierakstītajām amatpersonām;
+3) (izslēgts ar 20.06.2018. likumu);
+4) pieteikt noraidījumu amatpersonai, kura veic kriminālprocesu;
 5) iesniegt pieteikumus par izmeklēšanas darbību veikšanu un piedalīšanos tajās;
 6) piedalīties izmeklēšanas darbībās, kuras tiek veiktas pēc šīs personas vai aizstāvja pieteikuma, ja vien šāda piedalīšanās netraucē izmeklēšanas darbību veikšanu vai neaizskar citas personas tiesības;
 7) saņemt motivētu lēmumu, ja juridiskās personas pārstāvim atteikta piedalīšanās izmeklēšanas darbībās, kuras veic pēc viņa vai aizstāvja lūguma;

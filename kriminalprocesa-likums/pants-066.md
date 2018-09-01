@@ -1,7 +1,7 @@
 66.pants. Aizdomās turētā tiesības
 (1) No brīža, kad personai paziņots, ka tā atzīta par aizdomās turēto, šai personai ir šā likuma 60.² pantā noteiktās pamattiesības, kā arī tiesības:
-1) saņemt tā lēmuma kopiju, ar kuru šī persona atzīta par aizdomās turēto, un izrakstu no šā likuma par aizdomās turētā tiesībām un pienākumiem;
-2) iepazīties ar kriminālprocesa reģistru;
+1) saņemt tā lēmuma kopiju, ar kuru šī persona atzīta par aizdomās turēto, vai paziņojumu par paātrinātā procesa kārtībā pieņemto lēmumu, kurā ietverts tā saturs, un izrakstu no šā likuma par aizdomās turētā tiesībām un pienākumiem;
+2) (izslēgts ar 20.06.2018. likumu);
 3) pieteikt noraidījumu;
 4) iesniegt pieteikumus par izmeklēšanas darbību veikšanu un piedalīšanos tajās;
 5) piedalīties izmeklēšanas darbībās, kuras tiek veiktas pēc šīs personas vai tās aizstāvja pieteikuma, ja vien šāda piedalīšanās netraucē izmeklēšanas darbību veikšanu vai neaizskar citas personas tiesības;

@@ -10,4 +10,5 @@
 2) pieņemt procesam nozīmīgus organizatoriskos lēmumus, tas ir, noteikt kritērijus kriminālprocesu sadalei, nodot kriminālprocesu citam procesa virzītājam, izveidot izmeklēšanas grupu, savas kompetences ietvaros pārņemt kriminālprocesa vadīšanu;
 3) piedalīties tajās procesuālajās darbībās, ko veic procesa virzītājs vai izmeklēšanas grupas dalībnieks;
 4) veikt izmeklēšanas darbību, par to iepriekš informējot procesa virzītāju;
-5) atcelt savā pakļautībā esošo amatpersonu nepamatoti un nelikumīgi pieņemtos lēmumus.
+5) dot norādījumus un atcelt savā pakļautībā esošo amatpersonu nepamatoti un nelikumīgi pieņemtos lēmumus;
+6) pārsūdzēt prokurora lēmumu un dotos norādījumus, atdodot krimināllietu atpakaļ izmeklēšanas iestādei izmeklēšanas turpināšanai.

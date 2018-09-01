@@ -4,6 +4,6 @@
 2) (izslēgts ar 12.03.2009. likumu);
 3) aizstāvamās personas intereses ir pretrunā ar advokāta vai to personu interesēm, ar kurām viņam ir radniecības attiecības līdz trešajai pakāpei, svainība līdz otrajai pakāpei vai ar kurām viņu saista laulība vai kopīga saimniecība;
 4) advokāts agrāk šajā procesā bijis amatpersona, kas pilnvarota veikt kriminālprocesu;
-5) konkrētā kriminālprocesa reģistrā ir ierakstīta amatpersona, ar kuru advokātam ir radniecības attiecības līdz trešajai pakāpei, svainība līdz otrajai pakāpei vai ar kuru viņu saista laulība vai kopīga saimniecība;
+5) konkrēto kriminālprocesu veic vai ir veikusi amatpersona, ar kuru advokātam ir radniecības attiecības līdz trešajai pakāpei, svainība līdz otrajai pakāpei vai ar kuru viņu saista laulība vai kopīga saimniecība;
 6) advokāts šajā procesā ir liecinieks vai cietušais.
 (2) Ja advokāts turpina darboties interešu konflikta situācijā, kriminālprocesā iesaistīta persona var izteikt advokātam noraidījumu, kuru izlemj procesa virzītājs.

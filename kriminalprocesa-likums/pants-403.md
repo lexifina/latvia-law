@@ -7,4 +7,4 @@
 1) atceļ izmeklētāja lēmumu un atdod krimināllietu atpakaļ izmeklēšanas iestādei izmeklēšanas turpināšanai, norādot uz nepieciešamību veikt konkrētas procesuālās darbības;
 2) pieņem lēmumu par kriminālprocesa izbeigšanu pret konkrēto personu un nosūta krimināllietu izmeklēšanas iestādei vainīgās personas noskaidrošanai;
 3) pieņem lēmumu par kriminālprocesa izbeigšanu, konstatējot šā likuma 377. vai 379.pantā norādītos apstākļus.
-(4) Par kriminālprocesa pieņemšanu lietvedībā prokurors izdara atzīmi kriminālprocesa reģistrā.
+(4) (Izslēgta ar 20.06.2018. likumu)

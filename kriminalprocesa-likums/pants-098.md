@@ -1,6 +1,6 @@
 98.pants. Cietušā tiesības pirmstiesas kriminālprocesā
 (1) Cietušajam pirmstiesas kriminālprocesā ir šā likuma 97.¹ pantā noteiktās pamattiesības, kā arī tiesības:
-1) iepazīties ar kriminālprocesa reģistru un pieteikt noraidījumu tajā ierakstītajām amatpersonām;
+1) pieteikt noraidījumu amatpersonai, kura veic kriminālprocesu;
 2) (izslēgts ar 12.03.2009. likumu);
 3) iesniegt pieteikumus par izmeklēšanas un citu darbību veikšanu;
 4) iepazīties ar lēmumu par ekspertīzes noteikšanu pirms tā nodošanas izpildei un iesniegt pieteikumu par tā grozīšanu, ja ekspertīze tiek izdarīta pēc viņa paša pieteikuma;
