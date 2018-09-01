@@ -1,6 +1,6 @@
 15.pants. Oficiālo elektronisko adrešu informācijas sistēmas pārziņa pienākumi
 Oficiālo elektronisko adrešu informācijas sistēmas pārzinim ir šādi pienākumi:
-1) nodrošināt oficiālās elektroniskās adreses izveidošanu atbilstoši šajā likumā noteiktajai kārtībai;
+1) nodrošināt oficiālās elektroniskās adreses informācijas sistēmas darbību atbilstoši šajā likumā noteiktajai kārtībai;
 2) lietot drošas informācijas sistēmas un iekārtas, kā arī veikt procedūras, kas nodrošina sūtījumu piegādi oficiālās elektroniskās adreses kontā, oficiālās elektroniskās adreses kontā esošas elektroniskās saziņas un elektroniskā dokumenta drošību un nemainīgumu, kā arī elektroniskās saziņas un elektroniskā dokumenta nosūtīšanas un saņemšanas fakta pierādījumu saglabāšanu;
 3) nodrošināt oficiālās elektroniskās adreses anulēšanu un oficiālās elektroniskās adreses konta aktivizēšanu vai deaktivizēšanu šajā likumā noteiktajos gadījumos;
 4) pastāvīgi tiešsaistes režīmā uzturēt informāciju oficiālo elektronisko adrešu katalogā;
