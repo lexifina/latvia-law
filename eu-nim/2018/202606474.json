@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 28. augusta noteikumi Nr.555 “Veselības aprūpes pakalpojumu organizēšanas un samaksas kārtība”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176",
+  "official_journal_page": null,
+  "official_journal_date": "2018-09-05",
+  "entry_into_force": "2018-09-06",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06474",
+  "nim_celex": "72024L1346LVA_202606474",
+  "nim_id": "202606474",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69950e30-cd0f-4be1-b7ae-81ef3556d689",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
