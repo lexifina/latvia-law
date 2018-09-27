@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 6,
+ "datums": "2018-09-27",
+ "ieraksts": {
+  "dkp_id": "bf6e5e0c-3168-4e80-baa1-bda5e81fa543",
+  "lastmodtime": "\"AAAAAAGYd9E=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Romualds#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Jānis#Einārs#Jānis#Mihails#Vladimirs#Andris#Astrīda#Inese#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Inese#Armands#Lolita#Valdis#Arvīds#Veiko#Jānis#Igors#Jānis#Ints#Valdis#Silvija#Andris#Juris#Ringolds#Inguna#Artis#Romāns#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Arvīds#Anrijs#Valters#Zenta#Inese#Laimdota#Aldis#Juris#Andrejs#Inguna#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Sergejs#Ivars#Aivars#Aleksandrs#Mārtiņš#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Ražuks#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Bērziņš#Harju#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Lībiņa-Egnere#Krauze#Čigāne#Skujiņš#Platpers#Spolītis#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Šimfa#Buiķis#Vectirāns#Balodis#Rībena#Gustovskis#Mežeckis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Ulme#Matīss#Dambe#Tretjaka#Aizstrauta#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Potapkins#Zariņš#Meija#Kiršteins#Šics#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "#########################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#SASKAŅA #LRA#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS#VIENOTĪBA#ZZS# #VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS# #VL-TB/LNNK#ZZS# #VL-TB/LNNK#VIENOTĪBA# #VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #ZZS# #ZZS#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK# # #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA #SASKAŅA #SASKAŅA # #VL-TB/LNNK#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "27.09.2018 12:18:29",
+  "VOTEMOTIVE": "Grozījums Krimināllikumā (1308/Lp12), 2.lasījums",
+  "VOTING_ID": "3477a693-6bfa-4b19-999c-bdae40496164",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "82",
+  "VOTERESULT_REGISTERED": "90",
+  "VOTE_NUMBER": "22",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/2276dc9d-b032-44fe-b43c-b21267dd8403/download/12.saeimas-2018.gada-rudens-sesija-6-vote.xml",
+  "sha256": "7efca927ae41b3f8992d39b0b1ff733c1e07f6f94e281693aa601de635fff2e3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
