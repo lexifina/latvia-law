@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018.gada 25.septembra noteikumi Nr. 597 \"Transporta enerģijas aprites cikla siltumnīcefekta gāzu emisiju daudzuma un tā samazinājuma aprēķināšanas un ziņošanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "191 (6277)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-09-27",
+  "entry_into_force": "2018-09-28",
+  "notification_date": "2019-03-07",
+  "commission_reference": "MNE(2019)51453",
+  "nim_celex": "72015L1513LVA_270317",
+  "nim_id": "270317",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d59f1946-c3dc-4865-ac61-0a87bcd77dd8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
