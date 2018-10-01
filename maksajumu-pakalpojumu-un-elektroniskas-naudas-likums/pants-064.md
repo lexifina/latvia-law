@@ -9,7 +9,7 @@ c) veidu, kādā dodama piekrišana maksājuma veikšanai, un veidu, kādā tā 
 d) norādi uz brīdi, ar kuru maksājuma rīkojums uzskatāms par saņemtu saskaņā ar šā likuma 90.pantu, un brīdi, kurā tiek pārtraukta maksājuma rīkojumu pieņemšana, ja maksājumu pakalpojumu sniedzējs tādu ir noteicis,
 e) maksimālo maksājuma pakalpojuma izpildes laiku,
 f) vai pastāv iespēja vienoties par limitu maksājuma instrumenta izmantošanai saskaņā ar šā likuma 81.panta pirmo daļu;
-g) (apakšpunkts stājas spēkā 01.10.2018. un iekļauts likuma redakcijā uz 01.10.2018. Sk. Pārejas noteikumu 35. punktu);
+g) norādi uz maksājuma pakalpojuma izmantotāja tiesībām saskaņā ar Eiropas Parlamenta un Padomes 2015. gada 29. aprīļa regulas (ES) Nr. 2015/751 par starpbanku komisijas maksām, ko piemēro kartēm piesaistītiem maksājumu darījumiem (Dokuments attiecas uz EEZ) 8. pantu, ja tiek koplietoti maksājumu zīmoli, izmantojot kartei piesaistītu maksājuma instrumentu;
 3) par maksu, procentu likmi un valūtas kursu:
 a) maksu, ko maksājuma pakalpojuma izmantotājs maksā maksājumu pakalpojumu sniedzējam par maksājuma pakalpojumu, un šīs maksas sadalījumu,
 b) maksājumam piemērojamo procentu likmi un valūtas kursu vai, ja paredzēts izmantot atsauces procentu likmi un atsauces valūtas kursu, - faktiskās procentu likmes aprēķina metodi un attiecīgo atsauces procentu likmi vai atsauces valūtas kursu, ko izmanto par pamatu valūtas maiņai, kā arī šīs likmes vai valūtas maiņas kursa noteikšanas datumu,
@@ -26,7 +26,7 @@ c) informāciju par maksātāja atbildību saskaņā ar šā likuma 87.pantu,
 d) informāciju par to, kā un cik ilgā laikā maksājuma pakalpojuma izmantotājs informē maksājumu pakalpojumu sniedzēju par neautorizētu vai kļūdaini veiktu maksājumu saskaņā ar šā likuma 84.pantu, kā arī par maksājumu pakalpojumu sniedzēja atbildību par neautorizētu maksājumu saskaņā ar šā likuma 86.pantu,
 e) informāciju par maksājumu pakalpojumu sniedzēja atbildību par maksājumu ierosināšanu vai veikšanu saskaņā ar šā likuma 99.pantu,
 f) naudas atmaksas nosacījumus saskaņā ar šā likuma 88. un 89.pantu;
-g) (apakšpunkts stājas spēkā 01.10.2018. un iekļauts likuma redakcijā uz 01.10.2018. Sk. Pārejas noteikumu 35. punktu);
+g) kārtību, kādā maksājumu pakalpojumu sniedzējs informē maksājuma pakalpojuma izmantotāju par iespējamo krāpšanas gadījumu, drošības apdraudējumu vai aizdomām par tiem;
 6) par grozījumiem standartlīgumā un standartlīguma izbeigšanu:
 a) norādi uz to, ka uzskatāms, ka maksājuma pakalpojuma izmantotājs piekritis standartlīguma grozījumiem, ja tas līdz ierosinātajam standartlīguma grozījumu spēkā stāšanās termiņam nav paziņojis maksājumu pakalpojumu sniedzējam, ka iebilst pret šiem grozījumiem, ja maksājumu pakalpojumu sniedzējs un maksājuma pakalpojuma izmantotājs par to ir vienojušies saskaņā ar šā likuma 66.panta otro daļu,
 b) standartlīguma termiņu,
