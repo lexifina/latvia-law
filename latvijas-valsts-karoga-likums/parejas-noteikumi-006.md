@@ -1,0 +1,1 @@
+6. Ministru kabinets ne vēlāk kā līdz 2018. gada 30. septembrim izdod šā likuma 21.¹ panta piektajā daļā un 22. panta pirmajā daļā (par Latvijas valsts karoga, Latvijas valsts karoga vimpeļa, Latvijas valsts karoga attēla un karoga sēru lentes izgatavošanas prasībām) paredzētos noteikumus.

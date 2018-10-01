@@ -1,2 +1,4 @@
-21.pants. Atzinums par Latvijas valsts karoga, Latvijas valsts karoga vimpeļa un Latvijas valsts karoga attēla atbilstību normatīvo aktu prasībām
-Atzinumu par Latvijas valsts karoga, Latvijas valsts karoga vimpeļa un Latvijas valsts karoga attēla atbilstību normatīvo aktu prasībām sniedz Valsts heraldikas komisija.
+21. pants. Atzinums par Latvijas valsts karoga, dekoratīvos nolūkos lietota Latvijas valsts karoga vai Latvijas valsts karoga attēla atbilstību normatīvo aktu prasībām
+(1) Valsts iestādēm atbilstoši to kompetencei ir tiesības prasīt Valsts heraldikas komisijai atzinumu par Latvijas valsts karoga, dekoratīvos nolūkos lietota Latvijas valsts karoga vai Latvijas valsts karoga attēla atbilstību normatīvo aktu prasībām.
+(2) Valsts heraldikas komisija sniedz atzinumu par Latvijas valsts karoga, dekoratīvos nolūkos lietota Latvijas valsts karoga vai Latvijas valsts karoga attēla atbilstību normatīvo aktu prasībām, ja to pieprasa saskaņā ar šā panta pirmās daļas noteikumiem.
+(3) Valsts heraldikas komisija nesniedz atzinumu par tirgum paredzēta Latvijas valsts karoga atbilstību šā likuma un Ministru kabineta noteiktajām prasībām.

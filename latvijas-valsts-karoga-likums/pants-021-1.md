@@ -1,0 +1,7 @@
+21.¹ pants. Latvijas valsts karoga izgatavošana un tā izplatīšanas uzraudzība
+(1) Latvijas valsts karogu izgatavo, ievērojot šā likuma un uz šā likuma pamata izdotu Ministru kabineta noteikumu prasības.
+(2) Aizliegts izplatīt tirgū Latvijas valsts karogu, kas neatbilst šā likuma un uz šā likuma pamata izdotu Ministru kabineta noteikumu prasībām.
+(3) Izplatīšanai tirgū paredzēta no auduma izgatavota Latvijas valsts karoga atbilstību šā likuma un uz šā likuma pamata izdotu Ministru kabineta noteikumu prasībām uzrauga Patērētāju tiesību aizsardzības centrs.
+(4) Patērētāju tiesību aizsardzības centrs ir tiesīgs aizliegt šā likuma un uz šā likuma pamata izdotu Ministru kabineta noteikumu prasībām neatbilstoša no auduma izgatavota Latvijas valsts karoga izplatīšanu tirgū un pieprasīt tā izņemšanu no tirgus, pieņemot par to attiecīgu lēmumu. Lēmums ir spēkā no tā pieņemšanas brīža, un šādu lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
+(5) Kārtību, kādā Patērētāju tiesību aizsardzības centrs novērtē Latvijas valsts karoga atbilstību šā likuma un uz šā likuma pamata izdotu Ministru kabineta noteikumu prasībām, tostarp veic pārbaudei nepieciešamo paraugu izņemšanu, ekspertīžu organizēšanu, kā arī kārtību, kādā tiek segti ar ekspertīzes veikšanu saistītie izdevumi, nosaka Ministru kabinets.
+(6) Šā panta otrās, trešās, ceturtās un piektās daļas noteikumi attiecināmi arī uz Latvijas valsts karoga vimpeļa izplatīšanas tirgū uzraudzību.
