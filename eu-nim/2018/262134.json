@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta  2009.gada 20.janvāra noteikumos Nr.54 “Dekoratīvo augu pavairojamā materiāla atbilstības kritēriji un aprites kārtība”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-26",
+  "entry_into_force": "2018-10-01",
+  "notification_date": "2018-08-23",
+  "commission_reference": "MNE(2018)54499",
+  "nim_celex": "72018L0484LVA_262134",
+  "nim_id": "262134",
+  "transposes_celex": [
+    "32018L0484"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9668c5a-af57-42cb-9de8-5eeb3383227a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
