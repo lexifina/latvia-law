@@ -1,3 +1,3 @@
 89.pants. (1) Maksātājs var pieprasīt šā likuma 88.pantā minēto autorizēto, saņēmēja vai ar saņēmēja starpniecību uzsākto maksājumu summu atmaksu astoņu nedēļu laikā no datuma, kad nauda ir norakstīta no konta.
 (2) Desmit darba dienu laikā kopš brīža, kad saņemts naudas atmaksas pieprasījums, maksājumu pakalpojumu sniedzējs atmaksā visu veiktā maksājuma summu vai sniedz atmaksas atteikuma pamatojumu, norādot iestādes, kurās maksātājs var iesniegt sūdzību saskaņā ar šā likuma 105. un 106.pantu.
-(3) Maksājumu pakalpojumu sniedzējam nav tiesību atteikt naudas atmaksu šā likuma 88.panta trešajā daļā minētajos gadījumos.
+(3) (Izslēgta no 01.10.2018. ar 20.06.2018. likumu, kas stājas spēkā 18.07.2018. Sk. Pārejas noteikumu 35.punktu)
