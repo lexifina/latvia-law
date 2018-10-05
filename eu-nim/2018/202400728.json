@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 2. oktobra noteikumi Nr. 614 \"Kopējo gaisu piesārņojošo vielu emisiju samazināšanas un uzskaites noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/196.10",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-04",
+  "entry_into_force": "2018-10-05",
+  "notification_date": "2024-02-09",
+  "commission_reference": "MNE(2024)00728",
+  "nim_celex": "72024L0299LVA_202400728",
+  "nim_id": "202400728",
+  "transposes_celex": [
+    "32024L0299"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d9bb8a9-ba4c-4cbe-aea6-ef2b7f104b5c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
