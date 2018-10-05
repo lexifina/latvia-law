@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2018. gada 26. septembra noteikumi Nr. 157 \"Normatīvie noteikumi par ziņošanu par būtiskiem maksājumu pakalpojumu incidentiem\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "196 (6282)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-04",
+  "entry_into_force": "2018-10-05",
+  "notification_date": "2019-05-10",
+  "commission_reference": "MNE(2019)52963",
+  "nim_celex": "72016L1148LVA_272783",
+  "nim_id": "272783",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f78f3fde-771b-468f-b3e1-c9ba1c58296e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
