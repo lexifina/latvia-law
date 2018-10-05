@@ -6,7 +6,7 @@
 3) ierosināt tiesnesi atcelt no amata;
 4) (izslēgts ar 10.06.2010. likumu);
 5) izbeigt disciplinārlietu.
-(3) (Izslēgta ar 15.10.1998. likumu.)
+(3) (Izslēgta ar 15.10.1998. likumu)
 (4) Disciplinārsodi, kurus tiesnešu disciplinārkolēģija var uzlikt tiesnesim, ir šādi:
 1) piezīme;
 2) rājiens;
@@ -17,3 +17,4 @@
 1) ja disciplinārlieta ierosināta nepamatoti;
 2) ja notecējuši šā likuma 4. panta pirmajā daļā paredzētie termiņi tiesneša saukšanai pie disciplinārās atbildības.
 (8) Izņēmuma gadījumā tiesnešu disciplinārkolēģija var aprobežoties ar disciplinārlietas izskatīšanu sēdē, neuzliekot disciplinārsodu.
+(9) Vienlaikus ar šā panta otrās daļas 1. punktā, septītās daļas 2. punktā vai šā panta astotajā daļā minēto lēmumu Tiesnešu disciplinārkolēģija var noteikt tiesnesim profesionālās darbības ārpuskārtas novērtēšanu. Ja Tiesnešu disciplinārkolēģija ir pieņēmusi šā panta otrās daļas 1. punktā minēto lēmumu, lēmums par tiesneša profesionālās darbības ārpuskārtas novērtēšanas noteikšanu stājas spēkā vienlaikus ar lēmumu par disciplinārsoda uzlikšanu.

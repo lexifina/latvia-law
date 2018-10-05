@@ -1,0 +1,1 @@
+4. Tiesnešu disciplinārkolēģijas sastāvs, kas ievēlēts līdz šā likuma 2. panta otrās daļas grozījuma par tiesnešu disciplinārkolēģijas sastāvu spēkā stāšanās dienai, turpina savu darbu līdz jauna Tiesnešu disciplinārkolēģijas sastāva ievēlēšanai kārtējā tiesnešu konferencē.
