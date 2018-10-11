@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 10,
+ "datums": "2018-10-11",
+ "ieraksts": {
+  "dkp_id": "531f5630-8e82-4b7e-b9b5-3f8a8059f0e2",
+  "lastmodtime": "\"AAAAAAGZ9PI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Romualds#Andris#Dzintars#Romans#Varis#Ivans#Jānis#Einārs#Jānis#Vladimirs#Artis#Astrīda#Inese#Guntis#Jānis#Artuss#Raimonds#Andris#Armands#Valdis#Arvīds#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Andris#Juris#Ringolds#Inguna#Artis#Renārs#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Valters#Zenta#Inese#Laimdota#Aldis#Juris#Andrejs#Inguna#Imants#Gaidis#Jānis#Viktors#Andrejs#Juris#Jānis#Ivans#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Aivars#Aleksandrs#Aija#Mārtiņš#Igors#Artūrs#Janīna",
+  "SURNAME": "Šnore#Ražuks#Morozovs#Zaķis#Miloslavskis#Krūmiņš#Ribakovs#Klaužs#Cilinskis#Trupovnieks#Nikonovs#Rasmanis#Harju#Laizāne#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Krauze#Skujiņš#Platpers#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Buiķis#Vectirāns#Balodis#Rībena#Gustovskis#Putniņš#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Dambe#Tretjaka#Aizstrauta#Straujuma#Adamovičs#Viļums#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Meija#Kiršteins#Barča#Šics#Zujevs#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "############################################################################",
+  "FRACTION": "VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VIENOTĪBA#SASKAŅA #LRA#SASKAŅA #ZZS#VL-TB/LNNK#ZZS#SASKAŅA #ZZS#VIENOTĪBA#VL-TB/LNNK#ZZS#LRA# #SASKAŅA #ZZS#ZZS#ZZS# #VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#VL-TB/LNNK#ZZS# #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA# #ZZS#SASKAŅA #SASKAŅA # #ZZS#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#LRA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK# #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #ZZS#LRA#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA # #VL-TB/LNNK#ZZS#LRA#SASKAŅA #SASKAŅA #VL-TB/LNNK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "11.10.2018 09:15:52",
+  "VOTEMOTIVE": "Par Pasaules Pasta savienības konstitūcijas Devīto papildprotokolu (1214/Lp12), 2.lasījums",
+  "VOTING_ID": "d7a49620-5add-4935-bc6b-8bae7594a367",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "69",
+  "VOTERESULT_REGISTERED": "77",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada rudens sesija-10-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1d223e9c-7385-4ece-9192-51c21e9f72c7/download/12.saeimas-2018.gada-rudens-sesija-10-vote.xml",
+  "sha256": "e15ceae0416ed0f458053367eb9fb7ebda57421126c355a14f339a81d0caad41",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
