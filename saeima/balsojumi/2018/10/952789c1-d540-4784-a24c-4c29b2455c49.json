@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 10,
+ "datums": "2018-10-11",
+ "ieraksts": {
+  "dkp_id": "02a004f0-84eb-4a8d-b387-9bc8d48a187d",
+  "lastmodtime": "\"AAAAAAGZ7IA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Dzintars#Ivans#Einārs#Vladimirs#Artis#Astrīda#Inese#Guntis#Jānis#Raimonds#Andris#Armands#Valdis#Arvīds#Veiko#Hosams#Igors#Raivis#Jānis#Ints#Valdis#Andris#Ringolds#Inguna#Artis#Renārs#Ilmārs#Augusts#Sergejs#Jūlija#Anrijs#Valters#Zenta#Inese#Laimdota#Aldis#Andrejs#Inguna#Imants#Gaidis#Jānis#Viktors#Andrejs#Juris#Jānis#Ivans#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Gundars#Jānis#Aivars#Aija#Igors#Artūrs#Janīna",
+  "SURNAME": "Šnore#Zaķis#Ribakovs#Cilinskis#Nikonovs#Rasmanis#Harju#Laizāne#Kalniņš#Ruks#Rubiks#Siliņš#Krauze#Skujiņš#Platpers#Spolītis#Abu Meri#Pimenovs#Dzintars#Upenieks#Dālderis#Kalnozols#Buiķis#Balodis#Rībena#Gustovskis#Putniņš#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Matīss#Dambe#Tretjaka#Aizstrauta#Straujuma#Adamovičs#Klementjevs#Sudraba#Parādnieks#Bērziņš#Dombrava#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Daudze#Tutins#Meija#Barča#Zujevs#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "###############################################################",
+  "FRACTION": "VL-TB/LNNK#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#SASKAŅA #ZZS#VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#SASKAŅA #ZZS#ZZS#ZZS# #VIENOTĪBA#VIENOTĪBA#SASKAŅA #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA#ZZS#VL-TB/LNNK# #VL-TB/LNNK#VIENOTĪBA#VIENOTĪBA# #ZZS#SASKAŅA #SASKAŅA # #ZZS#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#VL-TB/LNNK# #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#ZZS#SASKAŅA # #ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK",
+  "RESULT": "Pret#Par#Pret#Pret#Pret#Nebalsoja#Par#Pret#Atturas#Pret#Pret#Pret#Pret#Nebalsoja#Par#Par#Par#Pret#Pret#Par#Par#Nebalsoja#Pret#Pret#Pret#Par#Par#Par#Atturas#Pret#Pret#Par#Nebalsoja#Pret#Atturas#Par#Par#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Par#Par#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Atturas#Nebalsoja#Pret#Nebalsoja#Par#Pret#Atturas#Atturas#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "11.10.2018 09:04:37",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Latvijas evaņģēliski luteriskās Baznīcas likumā (1210/Lp12), 1.lasījums izslēgšanu no Saeimas sēdes darba kārtības",
+  "VOTING_ID": "952789c1-d540-4784-a24c-4c29b2455c49",
+  "VOTERESULT_ABSTAIN": "7",
+  "VOTERESULT_AGAINST": "33",
+  "VOTERESULT_FOR": "16",
+  "VOTERESULT_REGISTERED": "64",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada rudens sesija-10-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1d223e9c-7385-4ece-9192-51c21e9f72c7/download/12.saeimas-2018.gada-rudens-sesija-10-vote.xml",
+  "sha256": "e15ceae0416ed0f458053367eb9fb7ebda57421126c355a14f339a81d0caad41",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
