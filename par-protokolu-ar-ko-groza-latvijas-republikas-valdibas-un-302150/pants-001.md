@@ -1,0 +1,1 @@
+1. pants. 2017. gada 2. novembrī parakstītais Protokols, ar ko groza Latvijas Republikas valdības un Indijas Republikas valdības nolīgumu par gaisa satiksmi (turpmāk - Protokols), ar šo likumu tiek pieņemts un apstiprināts.
