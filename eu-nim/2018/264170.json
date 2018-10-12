@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2018. gada 9. oktobra Ministru kabineta noteikumi Nr. 628\nGrozījumi Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 834 \"Noteikumi par ūdens un augsnes aizsardzību no lauksaimnieciskās darbības izraisīta piesārņojuma ar nitrātiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/201.14",
+  "official_journal_page": null,
+  "official_journal_date": "2018-10-11",
+  "entry_into_force": "2018-10-12",
+  "notification_date": "2018-10-16",
+  "commission_reference": "MNE(2018)55617",
+  "nim_celex": "72016L2284LVA_264170",
+  "nim_id": "264170",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/51c5f50f-56c0-481b-a03b-2e4dcc3debe8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
