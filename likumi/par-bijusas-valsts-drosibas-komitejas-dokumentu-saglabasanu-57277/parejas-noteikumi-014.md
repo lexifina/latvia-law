@@ -1,0 +1,1 @@
+14. Latvijas Nacionālais arhīvs nodrošina tā glabāšanā nodoto digitalizēto VDK dokumentu un netieši ar VDK saistīto dokumentu publisku pieejamību, publicēšanu un izmantošanu, sākot ar 2019. gada 1. maiju.

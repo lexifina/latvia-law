@@ -1,0 +1,1 @@
+12. Totalitārisma seku dokumentēšanas centrs digitalizē LPSR VDK darbinieku 1988. gada telefongrāmatu, LPSR VDK ārštata operatīvo darbinieku uzskaites kartotēku, LPSR VDK aģentūras alfabētisko kartotēku un statistisko kartotēku līdz 2018. gada 27. decembrim. Pārējos savā rīcībā esošos dokumentus Totalitārisma seku dokumentēšanas centrs digitalizē līdz 2019. gada 30. aprīlim.

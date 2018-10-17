@@ -1,5 +1,5 @@
-7. pants. VDK dokumentu nodošanas kartība
-(1) Katrai institūcijai, iestādei vai personai, kuras rīcībā, pārkāpjot noteikto kārtību, nonākuši VDK dokumenti vai to apstiprinātas kopijas, līdz 1994. gada 31. decembrim tie jānodod Totalitārisma seku dokumentēšanas centram.
-(2) Katrai institūcijai, iestādei vai personai kuras rīcībā nonāk VDK dokumenti vai to apstiprinātas kopijas pēc šā panta pirmajā daļā noteiktā termiņa, tie mēneša laikā jānodod Totalitārisma seku dokumentēšanas centram.
-(3) Tie VDK dokumenti, kuri šā likuma spēkā stāšanās brīdī atrodas Latvijas Nacionālajā arhīvā vai citās valsts glabātavās, arī turpmāk paliek Latvijas Nacionālajā arhīvā vai citās valsts glabātavās, un tos iznīcināt ir aizliegts.
-(4) Totalitārisma seku dokumentēšanas centrs apzina Latvijas Nacionālajā arhīvā un citās valsts glabātavās esošos VDK dokumentus.
+7. pants. VDK dokumentu nodošanas kārtība
+(1) Katrai valsts institūcijai vai iestādei, kuras rīcībā nonākuši VDK dokumenti vai to apstiprinātas kopijas, ir pienākums tos nodot Latvijas Nacionālajam arhīvam, tos iznīcināt ir aizliegts. Privātpersonas, kuru rīcībā nonākuši VDK dokumenti vai to apstiprinātas kopijas, par tiem paziņo Latvijas Nacionālajam arhīvam.
+(2) Totalitārisma seku dokumentēšanas centrs apzina citās valsts institūcijās esošos VDK dokumentus.
+(3) Totalitārisma seku dokumentēšanas centra glabāšanā esošie VDK dokumenti pēc to digitalizēšanas tiek nodoti Latvijas Nacionālajam arhīvam, ievērojot šajā likumā un Arhīvu likumā noteikto kārtību. Vienlaikus ar VDK dokumentiem Latvijas Nacionālajam arhīvam tiek nodotas arī šo dokumentu digitālās kopijas, tajā skaitā digitalizētā automatizētā LPSR VDK Informācijas analīzes daļas pretizlūkošanas nodrošinājuma informācijas sistēma "Delta Latvija" neanonimizētā veidā.
+(4) VDK dokumentu digitalizāciju un nodošanu Latvijas Nacionālajam arhīvam finansē no valsts budžeta līdzekļiem.

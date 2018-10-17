@@ -16,5 +16,5 @@ Par pieņemto lēmumu tiesnesis rakstveidā paziņo pārbaudāmajai personai, t�
 2) kā rīkoties ar lietā izņemtajiem dokumentiem un citiem priekšmetiem.
 (7) Spriedums par sadarbības fakta konstatēšanu stājas spēkā, kad pagājis likumā noteiktais termiņš tā pārsūdzēšanai vai noprotestēšanai, ja sūdzība vai protests nav iesniegti. Sūdzības vai protesta iesniegšana par spriedumu likumā paredzētajā termiņā aptur šā sprieduma stāšanos likumīgā spēkā.
 (8) Attiecībā uz tiesas spriedumu par sadarbības fakta konstatēšanu pārbaudāmajai personai un tās advokātam ir tiesības iesniegt sūdzību, bet prokuroram - protestu apelācijas un kasācijas kārtībā atbilstoši Kriminālprocesa likumā paredzētajiem noteikumiem par spriedumu pārsūdzēšanu un protestu iesniegšanu krimināllietās.
-(9) Ja sadarbības fakts ir konstatēts ar tiesas spriedumu, tiesai, kura taisījusi spriedumu, 10 dienu laikā pēc tā spēkā stāšanās jānodod publicēšanai oficiālā laikrakstā sprieduma rezolutīvā daļa.
-(10) Ja tiesa, izskatot lietu, nekonstatē sadarbības faktu, tiesai, kura taisījusi spriedumu, pēc pārbaudāmās personas lūguma šā panta devītajā daļā paredzētajā kārtībā jānodod publicēšanai oficiālā laikrakstā sprieduma rezolutīvā daļa.
+(9) Desmit darbdienu laikā pēc sprieduma stāšanās spēkā tiesa nosūta tā norakstu Latvijas Nacionālajam arhīvam pievienošanai tajā esošajiem VDK dokumentiem un Totalitārisma seku dokumentēšanas centram.
+(10) (Izslēgta ar 04.10.2018. likumu).

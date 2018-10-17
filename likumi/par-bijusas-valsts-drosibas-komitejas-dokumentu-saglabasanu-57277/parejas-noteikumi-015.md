@@ -1,0 +1,1 @@
+15. Tiesas līdz 2018. gada 31. decembrim nosūta Latvijas Nacionālajam arhīvam pievienošanai tajā esošajiem VDK dokumentiem lietās, kuru nodošanai pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā noteiktais termiņš iestājas pēc 2018. gada 31. decembra, taisīto spēkā stājušos spriedumu norakstus vai apliecinātas kopijas par sadarbības fakta ar VDK konstatēšanu.

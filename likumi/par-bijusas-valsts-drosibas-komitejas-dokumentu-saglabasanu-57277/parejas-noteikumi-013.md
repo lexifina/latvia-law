@@ -1,0 +1,1 @@
+13. Totalitārisma seku dokumentēšanas centra glabāšanā esošo VDK dokumentu un to digitālo kopiju nodošana Latvijas Nacionālajam arhīvam uzsākama ne vēlāk kā 2018. gada 28. decembrī un tiek pabeigta 2019. gada 30. aprīlī.
