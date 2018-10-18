@@ -12,6 +12,6 @@
 9) izglītības iestādes darbību reglamentējošā normatīvā akta (nolikuma) apstiprināšanas datums;
 10) citas ziņas, ja to tieši paredz likums.
 (3) Izglītības iestādes reģistrāciju nodrošina iestādes dibinātājs. Iesniegumu par izglītības iestādes reģistrāciju iesniedz dibinātāja pilnvarota persona. Iesniegumam par izglītības iestādes reģistrāciju pievienojams izglītības iestādes dibinātāja apstiprināts izglītības iestādes darbības nolikums un dokumenti, kas apliecina Izglītības iestāžu reģistrā norādāmo informāciju. Iesniegumam par koledžas reģistrāciju papildus pievienojami dokumenti, kas apliecina koledžas resursu (piemēram, finanšu resursi, materiāltehniskā un informatīvā bāze, akadēmiskais personāls) atbilstību Ministru kabineta noteiktajiem kritērijiem koledžas darbības uzsākšanai.
-(4) Mēneša laikā no šā panta trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta Izglītības iestāžu reģistrā un tai izsniedz reģistrācijas apliecību.
+(4) Mēneša laikā no šā panta trešajā daļā minēto dokumentu iesniegšanas dienas izglītības iestāde tiek iekļauta Izglītības iestāžu reģistrā.
 (5) Lēmums par izglītības iestādes reorganizāciju vai likvidāciju 10 dienu laikā paziņojams Izglītības iestāžu reģistram.
 (6) Izglītības iestāžu reģistrā iekļautās ziņas ikvienam ir pieejamas bez maksas.

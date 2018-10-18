@@ -1,0 +1,1 @@
+76. Vispārējās izglītības iestādes, kas šā likuma 14. panta 43. punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienā īsteno vispārējās izglītības programmas neklātienes vai tālmācības formā, līdz 2020. gada 31. jūlijam nodrošina šo izglītības programmu īstenošanas kārtības atbilstību minētajiem noteikumiem.

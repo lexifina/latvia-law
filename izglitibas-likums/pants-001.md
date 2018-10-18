@@ -12,11 +12,12 @@ Likumā ir lietoti šādi termini:
 9) izglītības pārvaldes iestāde - valsts vai pašvaldības iestāde vai pašvaldības struktūrvienība, kas pilda izglītības pārvaldes funkcijas;
 10) izglītības programmas akreditācija - tiesību iegūšana izglītības iestādei vai citai šajā likumā noteiktai institūcijai izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi. Akreditācijas gaitā vērtē attiecīgās izglītības programmas īstenošanas kvalitāti;
 11) izglītības programmas licencēšana - tiesību piešķiršana izglītības iestādei vai citai šajā likumā noteiktai institūcijai īstenot noteiktu izglītības programmu;
-12) izglītojamais - skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagoga;
+12) izglītojamais - bērns, skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagoga;
 12¹) karjera - izglītības, darba un privātās dzīves mijiedarbība cilvēka mūža laikā;
 12²) karjeras izglītība - izglītības procesā integrēti pasākumi, lai nodrošinātu izglītojamo karjeras vadības prasmju apguvi un attīstīšanu, kas ietver savu interešu, spēju un iespēju apzināšanos tālākās izglītības un profesionālās karjeras virziena izvēlei;
 12³) karjeras attīstības atbalsts - pasākumu kopums, kas ietver informācijas, karjeras izglītības un individuālo konsultāciju pieejamību izglītojamajiem karjeras mērķu noteikšanai un plānošanai, izdarot izvēli saistībā ar izglītību un darbu;
-12⁴) mācību līdzekļi - izglītības programmas īstenošanā un izglītības satura apguvē izmantojamā, tai skaitā elektroniskajā vidē izmantojamā:
+12⁴) klātiene - izglītības ieguves forma, kādā izglītojamais izglītības saturu apgūst izglītības iestādes īstenotas izglītības programmas ietvaros, regulāri apmeklējot izglītības iestādē pēc noteikta saraksta organizētas mācību stundas;
+12⁵) mācību līdzekļi - izglītības programmas īstenošanā un izglītības satura apguvē izmantojamā, tai skaitā elektroniskajā vidē izmantojamā:
 a) mācību literatūra (mācību grāmatas, tām pielīdzinātās darba burtnīcas un citi izglītības satura apguvei paredzēti izdevumi, kuri tiek izmantoti mācību procesā valsts pirmsskolas izglītības vadlīnijās, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartos noteiktā izglītības satura apguvē),
 b) metodiskie līdzekļi (metodiskie ieteikumi un citi pedagoga darba vajadzībām paredzēti mācību izdevumi),
 c) papildu literatūra (uzziņu literatūra, kartogrāfiskie izdevumi, nošu izdevumi, daiļliteratūra, tai skaitā bērnu literatūra un citi izglītības programmu īstenošanai nepieciešamie periodiskie un neperiodiskie izdevumi),
@@ -24,13 +25,14 @@ d) uzskates līdzekļi (attēlizdevumi, tekstuāli izdevumi, vizuāli materiāli
 e) didaktiskās spēles (mācību procesā izmantojamas spēles, kurās ietverti mācību satura apguves uzdevumi vai mācību sasniegumu pārbaudes elementi),
 f) digitālie mācību līdzekļi un resursi (elektroniskie izdevumi un resursi, kuros iekļauts izglītības programmas īstenošanai nepieciešamais saturs),
 g) izdales materiāli (vingrinājumi, shēmas, darba lapas, piemēri, paraugi un citi materiāli, kas paredzēti katram izglītojamajam, individualizējot mācību procesu),
-h) mācību tehniskie līdzekļi (mācību procesā izmantojamās tehniskās ierīces un iekārtas, tai skaitā izglītojamajiem ar īpašām vajadzībām paredzētās tehniskās ierīces un iekārtas),
+h) mācību tehniskie līdzekļi (mācību procesā izmantojamās tehniskās ierīces un iekārtas, tai skaitā izglītojamajiem ar speciālām vajadzībām paredzētās tehniskās ierīces un iekārtas),
 i) mācību materiāli (vielas, izejvielas un priekšmeti, ko izmanto izglītības satura apguvei, veicot praktiskus uzdevumus),
 j) iekārtas un aprīkojums (ierīces, rīki, instrumenti, priekšmeti un piederumi, tai skaitā sporta aprīkojums, ar kuru palīdzību nodrošina izglītības satura apguvi, garantējot drošības un higiēnas prasību ievērošanu),
 k) individuālie mācību piederumi [izglītojamo personiskās lietošanas priekšmeti un materiāli, kuri tiek izmantoti kā mācību līdzekļi vai saistībā ar mācību iespēju nodrošināšanu: kancelejas piederumi, apģērbs un apavi, atsevišķu mācību priekšmetu (sports, mājturība un tehnoloģijas u.c.) obligātā satura apguvei nepieciešamais specifiskais apģērbs, apavi un higiēnas piederumi, materiāli, kurus izmantojot mācību procesā skolēns rada priekšmetu vai produktu savām vajadzībām];
 13) mācību priekšmeta vai kursa programma - izglītības programmas sastāvdaļa, kas ietver mācību priekšmeta vai kursa mērķus un uzdevumus, saturu, satura apguves plānojumu, iegūtās izglītības vērtēšanas kritērijus un kārtību, kā arī programmas īstenošanai nepieciešamo metožu un līdzekļu uzskaitījumu;
 14) mācību priekšmeta vai kursa standarts - valsts izglītības standarta sastāvdaļa, kas nosaka mācību priekšmeta vai kursa galvenos mērķus un uzdevumus, mācību priekšmeta vai kursa obligāto saturu, izglītības sasniegumu novērtēšanas formas un kārtību;
 14¹) neformālā izglītība - ārpus formālās izglītības organizēta interesēm un pieprasījumam atbilstoša izglītojoša darbība;
+14²) neklātiene - izglītības ieguves forma, kādā izglītojamais daļu no izglītības iestādes īstenotas izglītības programmas satura apgūst patstāvīgi;
 15) pamatizglītība - izglītības pakāpe, kurā notiek sagatavošanās izglītībai vidējā pakāpē vai profesionālajai darbībai, sabiedrības un cilvēka individuālajā dzīvē nepieciešamo pamatzināšanu un pamatprasmju apguve, vērtīborientācijas veidošanās un iesaiste sabiedrības dzīvē;
 16) pašizglītība - ārpus izglītības iestādes iegūta izglītība;
 16¹) pedagogs - fiziskā persona, kurai ir šajā vai citā izglītību reglamentējošā likumā noteiktā izglītība un profesionālā kvalifikācija un kura piedalās izglītības programmas īstenošanā izglītības iestādē vai sertificētā privātpraksē;
@@ -44,7 +46,7 @@ k) individuālie mācību piederumi [izglītojamo personiskās lietošanas priek
 23) profesionālās kvalifikācijas dokuments - dokuments, kas apliecina personas profesionālo kvalifikāciju un dod tiesības pretendēt uz konkrētai profesijai un kvalifikācijas pakāpei atbilstoša amata ieņemšanu vai attiecīgā sertifikāta saņemšanu darbam privātpraksē;
 24) speciālā izglītība - personām ar speciālām vajadzībām un veselības traucējumiem vai arī speciālām vajadzībām vai veselības traucējumiem adaptēta vispārējā un profesionālā izglītība;
 25) tālākizglītība - iepriekš iegūtās izglītības turpināšana un profesionālās meistarības pilnveidošana atbilstoši konkrētās profesijas prasībām;
-26) tālmācība - izglītības ieguves neklātienes formas paveids, kuru raksturo īpaši strukturēti mācību materiāli, individuāls mācīšanās temps, īpaši organizēts izglītības sasniegumu novērtējums, kā arī dažādu tehnisko un elektronisko saziņas līdzekļu izmantošana;
+26) tālmācība - izglītības ieguves forma, kādā izglītojamais izglītības iestādes īstenotas izglītības programmas saturu apgūst patstāvīgi individuālā veidā, izmantojot izglītības iestādes piedāvātus īpaši strukturētus mācību materiālus, dažādus tehniskos un elektroniskos saziņas līdzekļus. Izglītojamā sasniegumi tiek novērtēti atbilstoši attiecīgās izglītības programmas prasībām;
 26¹) (izslēgts ar 05.05.2016. likumu);
 27) valsts izglītības standarts - dokuments, kas atbilstoši izglītības pakāpei un veidam nosaka izglītības programmu galvenos mērķus un uzdevumus, izglītības obligāto pamatsaturu, iegūtās izglītības vērtēšanas pamatkritērijus un vispārējo kārtību;
 28) vidējā izglītība - izglītības pakāpe, kurā notiek daudzpusīga personības pilnveide, mērķtiecīga un padziļināta izaugsme apzināti izraudzītā vispārējās vai profesionālās izglītības vai arī vispārējās un profesionālās izglītības virzienā, sagatavošanās studijām augstākajā izglītības pakāpē vai profesionālajai darbībai, iesaiste sabiedrības dzīvē;

@@ -1,0 +1,2 @@
+47.² pants. Starptautiskā bakalaurāta programmas
+Starptautiskā bakalaurāta programmas ir Starptautiskās bakalaurāta organizācijas izstrādātas izglītības programmas, kuru ietvaros noteiktu mācību priekšmetu vai kursu apguve noris svešvalodā. Minētās programmas uzskatāmas par licencētām un akreditētām pēc tam, kad Starptautiskā bakalaurāta organizācija ir autorizējusi izglītības iestādi šo programmu īstenošanai. Izglītības iestāde starptautiskā bakalaurāta programmas īsteno vienlaikus ar vispārējās izglītības programmām.

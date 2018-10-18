@@ -4,4 +4,4 @@
 (2¹) Valsts augstskolu vidējās izglītības iestādes dibina, reorganizē un likvidē valsts augstskolas (izņemot Latvijas Nacionālo aizsardzības akadēmiju), saskaņojot ar Izglītības un zinātnes ministriju.
 (3) Privātās izglītības iestādes dibina, reorganizē un likvidē juridiskās un fiziskās personas. Valsts un pašvaldības var piedalīties privāto komercsabiedrību dibināšanā.
 (4) Ārvalsts juridiskā persona var dibināt, reorganizēt un likvidēt izglītības iestādi saskaņā ar šo likumu un citiem likumiem, kā arī starptautiskajiem līgumiem.
-(5) Par izglītības iestādes likvidāciju vai reorganizāciju attiecīgās institūcijas un personas informējamas ne vēlāk kā sešus mēnešus iepriekš.
+(5) Par izglītības iestādes likvidāciju vai reorganizāciju attiecīgās institūcijas un personas informējamas ne vēlāk kā sešus mēnešus iepriekš. Ja objektīvu apstākļu dēļ minēto termiņu nav iespējams ievērot, par izglītības iestādes likvidāciju vai reorganizāciju attiecīgās institūcijas un personas informējamas ne vēlāk kā trīs mēnešus iepriekš.

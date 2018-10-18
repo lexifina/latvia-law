@@ -1,0 +1,1 @@
+78. Grozījumi šā likuma 14. panta 24. punktā, kas paredz Ministru kabinetam noteikt valsts nozīmes interešu izglītības iestāžu finansēšanas kārtību, kā arī šā likuma 14. panta 24.¹ punkts, 19.¹ pants un 60. panta desmitā daļa stājas spēkā 2019. gada 1. septembrī.

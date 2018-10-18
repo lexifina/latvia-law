@@ -5,6 +5,7 @@
 2) valsts un pašvaldību izglītības iestādēs, kurās tiek īstenotas mazākumtautību izglītības programmas, ievērojot šā likuma 41.panta noteikumus;
 2¹) izglītības iestādēs, kurās vispārējās izglītības programmu mācību priekšmetus pilnībā vai daļēji īsteno svešvalodā, lai nodrošinātu citu Eiropas Savienības oficiālo valodu apguvi, ievērojot attiecīgā valsts izglītības standarta nosacījumus;
 3) citos likumos paredzētās izglītības iestādēs.
+(2¹) Izglītības iestādēs, kuras īsteno speciālās izglītības programmas izglītojamajiem ar dzirdes traucējumiem, kā arī citās izglītības iestādēs, kurās tiek nodrošināta atbilstoša mācību vide izglītības ieguvei latviešu zīmju valodā, izglītību var iegūt latviešu zīmju valodā.
 (3) Ikviens izglītojamais, lai iegūtu pamatizglītību vai vidējo izglītību, apgūst valsts valodu un kārto valsts valodas zināšanu pārbaudes eksāmenus Ministru kabineta noteiktajā apjomā un kārtībā.
 (3¹) Valsts dibinātās augstskolās studiju programmas īsteno valsts valodā. Svešvalodu lietošana studiju programmu īstenošanā iespējama tikai šādos gadījumos:
 1) Eiropas Savienības oficiālajās valodās drīkst īstenot studiju programmas, kuras ārvalstu studējošie apgūst Latvijā, un studiju programmas, kuras tiek īstenotas Eiropas Savienības programmu un starpvalstu līgumos paredzētās sadarbības ietvaros. Ārvalstu studējošajiem studiju kursu obligātajā apjomā iekļaujama valsts valodas apguve, ja studijas Latvijā ir paredzamas ilgāk par sešiem mēnešiem vai pārsniedz 20 kredītpunktus;

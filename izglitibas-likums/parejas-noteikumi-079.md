@@ -1,0 +1,1 @@
+79. Grozījumi šā likuma 17. pantā attiecībā uz panta papildināšanu ar 2.⁵ daļu stājas spēkā 2019. gada 1. septembrī. Ministru kabinets līdz 2019. gada 31. maijam izdod šā likuma 17. panta 2.⁵ daļā minētos noteikumus.

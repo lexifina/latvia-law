@@ -23,7 +23,7 @@ Ministru kabinets:
 15¹) nosaka kārtību, kādā izvērtē un apstiprina mācību literatūras atbilstību pamatizglītības un vispārējās vidējās izglītības valsts standartam;
 16) nosaka pedagogu darba samaksas kārtību un darba samaksas lielumu, tai skaitā zemāko pedagoga mēnešalgas likmi;
 17) nosaka finansēšanas kārtību speciālās izglītības iestādēs un vispārējās izglītības iestāžu speciālās izglītības klasēs un grupās;
-18) nosaka izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem kā vienotu valsts politiku un stratēģiju izglītībā;
+18) izstrādā un iesniedz apstiprināšanai Saeimā izglītības attīstības pamatnostādnes turpmākajiem septiņiem gadiem kā vienotu valsts politiku un stratēģiju izglītībā;
 18¹) nosaka valsts pirmsskolas izglītības vadlīnijas, kurās ietverti šo vadlīniju prasībām atbilstoši izglītības programmu paraugi;
 19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
@@ -32,6 +32,7 @@ Ministru kabinets:
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
+24¹) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2020. Sk. Pārejas noteikumu 78. punktu);
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
@@ -48,5 +49,6 @@ Ministru kabinets:
 38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
 39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus;
 40) nosaka kārtību, kādā piešķir valsts sociālo atbalstu tiem vispārējās pamatizglītības un vispārējās vidējās izglītības programmu īstenošanā iesaistītajiem pedagogiem, kuri pašvaldības vispārējās izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē pedagoga darbu, kā arī nosaka institūciju, kas administrē valsts sociālā atbalsta izmaksu un tās pārtraukšanu;
-41) nosaka minimāli pieļaujamo izglītojamo skaitu un kritērijus maksimāli pieļaujamā izglītojamo skaita noteikšanai klasē un klašu grupā vidējās izglītības pakāpē pašvaldību, valsts augstskolu un privātajās vispārējās izglītības iestādēs. Minētos kritērijus izglītības iestādes dibinātājs ņem vērā, nosakot maksimāli pieļaujamo izglītojamo skaitu klasē un klašu grupā;
-42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā izglītības iestādē iegūtās izglītības kvalitātes rādītājus, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītojamo skaits attiecīgajā klasē vai klašu grupā vidējās izglītības pakāpē neatbilst Ministru kabineta noteiktajam minimāli pieļaujamam izglītojamo skaitam.
+41) nosaka kvalitātes kritērijus minimāli pieļaujamo izglītojamo skaitu un kritērijus maksimāli pieļaujamā izglītojamo skaita noteikšanai klasē vai klašu grupā vidējās izglītības pakāpē pašvaldību, valsts augstskolu un privātajās vispārējās izglītības iestādēs. Minētos kritērijus izglītības iestādes dibinātājs ņem vērā, nosakot maksimāli pieļaujamo izglītojamo skaitu klasē vai klašu grupā;
+42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā minimāli pieļaujamo izglītojamo skaitu vidējās izglītības pakāpē, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītības iestāde neatbilst Ministru kabineta noteiktajiem kvalitātes kritērijiem;
+43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā.
