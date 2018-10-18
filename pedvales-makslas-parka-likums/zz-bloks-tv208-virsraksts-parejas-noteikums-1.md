@@ -1,0 +1,1 @@
+Biedrība "Pedvāle" līdz 2018. gada 31. decembrim izveido šā likuma 5. panta otrajā daļā minēto nodibinājumu Pedvāles skulptūru parka kolekcijas kā vienota kopuma radīšanai, saglabāšanai, aizsardzībai un attīstīšanai.
