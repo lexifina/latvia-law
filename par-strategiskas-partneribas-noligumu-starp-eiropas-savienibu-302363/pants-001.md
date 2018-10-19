@@ -1,0 +1,1 @@
+1. pants. 2018. gada 17. jūlijā Tokijā parakstītais Stratēģiskās partnerības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Japānu, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
