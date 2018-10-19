@@ -1,0 +1,1 @@
+213. Padziļinātās sadarbības programmas dalībniekam, kas iekļauts Padziļinātās sadarbības programmā atbilstoši Ministru kabineta 2012. gada 26. jūnija noteikumos Nr. 459 "Noteikumi par Padziļinātās sadarbības programmas darbību" noteiktajiem kritērijiem, attiecīgās priekšrocības un atvieglojumi ir piemērojami līdz 2018. gada 31. decembrim.

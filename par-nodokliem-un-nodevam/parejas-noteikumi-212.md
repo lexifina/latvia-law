@@ -1,0 +1,1 @@
+212. Lai no 2019. gada 1. janvāra būtu nodrošināta šā likuma 7.¹ pantam (redakcijā, kas stājas spēkā 2019. gada 1. janvārī) atbilstoša Padziļinātās sadarbības programmas darbība, Valsts ieņēmumu dienests līdz 2018. gada 31. decembrim veic dalībnieku iekļaušanai minētajā programmā nepieciešamos pasākumus.
