@@ -10,4 +10,4 @@
 (3) Nolēmuma atcelšanas gadījumā kasācijas instances tiesa norāda, kāda likuma un tā pantu prasības pārkāptas un kā tas izpaudies.
 (3¹) Ja kasācijas instances tiesa pieņem šā likuma 587.panta pirmās daļas 2.punktā paredzēto lēmumu, tā izlemj jautājumu arī par drošības līdzekli.
 (4) Ja lietu izskata mutvārdu procesā tiesas sēdē, lēmuma rezolutīvo daļu apspriežu istabā paraksta viss tiesas sastāvs. Priekšsēdētājs vai kāds tiesnesis no tiesas sastāva nekavējoties to pasludina tiesas sēžu zālē.
-(5) Kasācijas instances tiesas lēmums nav pārsūdzams. Šis lēmums stājas spēkā tā pasludināšanas brīdī.
+(5) Kasācijas instances tiesas lēmums nav pārsūdzams, izņemot šā likuma 465. panta septītajā daļā paredzēto gadījumu. Šis lēmums stājas spēkā tā pasludināšanas brīdī.

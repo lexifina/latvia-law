@@ -3,5 +3,5 @@
 1) lēmumu par lietas izbeigšanu, ja konstatē apstākļus, kas nepieļauj kriminālprocesu;
 2) lēmumu par lietas nosūtīšanu prokuroram pārkāpumu novēršanai;
 3) notiesājošu spriedumu;
-4) lēmumu par lietas iztiesāšanu vispārējā kārtībā, ja apsūdzētais atsakās no vienošanās.
+4) (izslēgts ar 27.09.2018. likumu).
 (2) Tiesas nolēmums ir pārsūdzams tikai kasācijas kārtībā.

@@ -3,7 +3,7 @@
 1) nepilngadīgais;
 2) persona, kura garīga rakstura vai cita veselības traucējuma dēļ pati nespēj izmantot savas procesuālās tiesības;
 3) persona, kura cietusi no noziedzīga nodarījuma, kas vērsts pret personas tikumību vai dzimumneaizskaramību, vai no cilvēku tirdzniecības;
-4) persona, kura cietusi no noziedzīga nodarījuma, kas saistīts ar vardarbību vai vardarbības piedraudējumu un ko izdarījis cietušā tuvinieks, bijušais laulātais vai persona, ar kuru cietušais ir bijis nereģistrētās laulāto attiecībās;
+4) persona, kura cietusi no noziedzīga nodarījuma, kas saistīts ar vardarbību vai vardarbības piedraudējumu un ko izdarījis cietušā tuvinieks, bijušais laulātais vai persona, ar kuru cietušais ir bijis pastāvīgās intīmās attiecībās;
 5) persona, kurai noziedzīga nodarījuma rezultātā, iespējams, radīti smagi miesas bojājumi vai psihiski traucējumi;
 6) persona, kura cietusi no noziedzīga nodarījuma, kas, iespējams, veikts rasistisku, nacionālu, etnisku vai reliģisku motīvu dēļ.
 (2) Ar procesa virzītāja lēmumu par īpaši aizsargājamu atzīst arī cietušo, kas nav minēts šā panta pirmajā daļā, bet kas noziedzīga nodarījuma rezultātā radītā kaitējuma dēļ ir īpaši ievainojams un nav pasargāts no atkārtota apdraudējuma, iebiedēšanas vai atriebības.

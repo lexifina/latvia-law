@@ -3,4 +3,5 @@
 (2) Izskatot ārvalsts lūgumu, kompetentā iestāde pieņem vienu no šādiem lēmumiem:
 1) par lūguma izpildes iespējamību, nosakot lūguma izpildes iestādi, termiņus un citus nosacījumus;
 2) par atteikšanos izpildīt lūgumu vai tā daļu, motivējot atteikumu.
+(2¹) Lēmumu par ārvalsts tiesiskās palīdzības lūguma izpildes iespējamību var pieņemt arī rezolūcijas veidā.
 (3) Pieņemto lēmumu kompetentā iestāde nekavējoties paziņo lūguma iesniedzējai valstij, ja ir atteikta lūguma vai kādas tā daļas izpilde vai ja ārvalsts to lūgusi.

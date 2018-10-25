@@ -6,5 +6,5 @@
 (2) Jautājumu par šā panta pirmajā daļā minētā interešu konflikta izbeigšanu pieņem persona, kurai ir tiesības izlemt noraidījumu.
 (3) Izmeklēšanas tiesnesis nedrīkst būt persona, kura šajā pašā kriminālprocesā ir bijusi procesa virzītājs vai uzraugošais prokurors.
 (4) Lietas izskatīšanā tiesā nedrīkst piedalīties tiesnesis, kurš ir:
-1) piedalījies šajā kriminālprocesā jebkādā statusā;
+1) piedalījies pirmstiesas kriminālprocesā vai pirmās instances vai apelācijas instances tiesā jebkādā statusā;
 2) radniecībā līdz trešajai pakāpei, svainībā līdz otrajai pakāpei, laulībā ar citu iztiesāšanā iesaistītu tiesnesi, apsūdzības uzturētāju vai prokuroru, kas krimināllietu nodevis iztiesāšanai, vai kuru ar minēto tiesnesi, apsūdzības uzturētāju vai prokuroru saista kopīga saimniecība.

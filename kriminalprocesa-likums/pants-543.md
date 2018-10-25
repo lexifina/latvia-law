@@ -15,4 +15,5 @@
 11) advokāta darba samaksas piedziņu no apsūdzētā vai par viņa atbrīvošanu no samaksas;
 12) (izslēgts ar 12.03.2009. likumu);
 13) iespēju spriedumu pārsūdzēt kasācijas kārtībā un tās termiņu.
+(3¹) Sprieduma rezolutīvajā daļā tiesa papildus norāda informāciju par soda izpildes iestādi un ierašanās termiņu.
 (4) Tiesa, taisot spriedumu, var precizēt vienošanās protokolā paredzēto soda mēru, ja ir pieļauta kļūda, nosakot galīgo sodu, vai ja tas saistīts ar laika tecējumu no vienošanās noslēgšanas dienas līdz iztiesāšanas dienai. Precizējums nedrīkst pasliktināt apsūdzētā stāvokli.

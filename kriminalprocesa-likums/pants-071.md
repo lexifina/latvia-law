@@ -3,7 +3,7 @@ Pirmās instances tiesā apsūdzētajam ir šā likuma 60.² pantā noteiktās p
 1) savlaicīgi uzzināt lietas iztiesāšanas vietu un laiku;
 2) pašam piedalīties krimināllietas iztiesāšanā;
 3) pieteikt noraidījumu;
-4) lūgt, lai nomaina aizstāvi, ja pastāv likumā noteiktie šķēršļi viņa līdzdalībai;
+4) (izslēgts ar 27.09.2018. likumu);
 5) piekrist pierādījumu pārbaudes neizdarīšanai tiesas sēdē;
 6) izteikt savu viedokli par katru apspriežamo jautājumu, ja tas attiecas uz viņa apsūdzību vai personu raksturojošiem datiem;
 7) piedalīties katra pierādījuma tiešā un mutvārdos veiktā pārbaudē, ja pierādījums attiecas uz viņa apsūdzību vai personu raksturojošiem datiem;

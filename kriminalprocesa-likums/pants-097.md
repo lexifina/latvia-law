@@ -10,3 +10,4 @@
 (8) (Izslēgta ar 18.02.2016. likumu)
 (9) Bez cietušā piekrišanas nedrīkst publiskot plašsaziņas līdzekļos procesuālo darbību laikā ar foto, video vai cita veida tehniskiem līdzekļiem fiksētu viņa attēlu, ja vien tas nav nepieciešams noziedzīgā nodarījuma atklāšanai.
 (10) Cietušajam, par kura pilngadību pastāv šaubas, līdz tā vecuma noskaidrošanai ir nepilngadīgā cietušā tiesības.
+(11) Valsts nodrošināts cietušā pārstāvis vai juridiskās palīdzības sniedzējs piedalās lietā no uzdevuma pieņemšanas brīža līdz kriminālprocesa pabeigšanai.

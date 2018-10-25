@@ -4,6 +4,7 @@
 2) pret kuru notiek process medicīniska rakstura piespiedu līdzekļu noteikšanai;
 3) pret kuru kriminālprocess izbeigts uz nereabilitējošiem pamatiem;
 4) pret kuru kriminālprocess izbeigts sakarā ar tādu apstākļu pastāvēšanu, kuri izslēdz kriminālatbildību, ja šī persona apstrīd pašu Krimināllikumā paredzēto rīcību.
+(1¹) Tiesības uz aizstāvību ir arī personai, kura izdarījusi darbību, kas atbilst Krimināllikumā paredzētā noziedzīgā nodarījuma sastāva pazīmēm, bet savas mazgadības dēļ nav saucama pie kriminālatbildības. Šādai personai ir tādas pašas tiesības uz aizstāvību kā personai, pret kuru uzsākts kriminālprocess.
 (2) Uz procesuālo aizstāvību tiesīgas personas tiesības uz aizstāvību īsteno arī:
 1) aizstāvis;
 2) pārstāvis;

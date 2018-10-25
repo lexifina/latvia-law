@@ -13,7 +13,7 @@
 2) ja tas ir par vairākiem noziedzīgiem nodarījumiem;
 3) ja tas rada šķēršļus kriminālprocesa attiecību noregulēšanai saprātīgos termiņos.
 (4) Par kriminālprocesa sadalīšanu procesa virzītājs pieņem lēmumu, kas vienlaikus uzskatāms arī par lēmumu jauna kriminālprocesa uzsākšanai. Lēmuma pieņemšanas datums ir jaunā kriminālprocesa uzsākšanas datums.
-(4¹) Šā panta pirmajā daļā un otrās daļas 3.punktā paredzētajos gadījumos personas tiesību ierobežošanas termiņu izdalītajā kriminālprocesā sāk skaitīt no brīža, kad procesa virzītājs saistībā ar šo noziedzīgo nodarījumu procesuālā darbībā iesaistījis personu, kurai ir tiesības uz aizstāvību, vai ar procesuālu darbību ierobežojis personas tiesības rīkoties ar mantu. Pārējos gadījumos termiņu no jauna neskaita.
+(4¹) Šā panta pirmajā daļā un otrās daļas 3.punktā paredzētajos gadījumos personas tiesību ierobežošanas termiņu izdalītajā kriminālprocesā sāk skaitīt no brīža, kad procesa virzītājs saistībā ar šo noziedzīgo nodarījumu procesuālā darbībā iesaistījis personu, kurai ir tiesības uz aizstāvību, vai uzlicis arestu mantai. Pārējos gadījumos termiņu no jauna neskaita.
 (5) Lēmumā par kriminālprocesa sadalīšanu procesa virzītājs norāda:
 1) kriminālprocesa sadalīšanas un jauna kriminālprocesa uzsākšanas iemeslu un pamatu;
 2) personas datus aizdomās turētajam vai apsūdzētajam (ja tāds ir zināms), attiecībā uz kuru tiek nodalīts kriminālprocess;

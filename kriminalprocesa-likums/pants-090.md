@@ -1,7 +1,8 @@
 90.pants. Nepilngadīgās personas pārstāvja tiesības aizstāvības realizēšanā
 (1) Ja tiesības uz aizstāvību ir nepilngadīgai personai, tās pārstāvis ir tiesīgs:
 1) zināt, kāds ir pārstāvamā procesuālais statuss un tiesības;
-2) saņemt pārstāvamā statusu noteicošo lēmumu kopijas vai paziņojumu par paātrinātā procesa kārtībā pieņemtiem lēmumiem, kurā ietverts to saturs, un informāciju par savām un pārstāvamā tiesībām;
+2) saņemt pārstāvamā statusu noteicošo lēmumu kopijas vai paziņojumu par paātrinātā procesa kārtībā pieņemtiem lēmumiem, kurā ietverts to saturs, un informāciju par savām tiesībām;
+2¹) saņemt rakstveida informāciju ar izskaidrojumu par pārstāvamā tiesībām;
 3) pieteikt noraidījumu amatpersonai, kura veic kriminālprocesu;
 4) iesniegt sūdzības par amatpersonu rīcību un lēmumiem, pieteikt lūgumus tādā pašā kārtībā kā pašam pārstāvamajam;
 5) pēc pirmstiesas kriminālprocesa pabeigšanas, ja nepilngadīgajam piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, saņemt to tiesai nododamās krimināllietas materiālu kopijas, kas attiecas uz pārstāvamajam izvirzīto apsūdzību un viņa personību, ja tās nav izsniegtas agrāk, vai ar prokurora piekrišanu iepazīties ar šiem materiāliem;

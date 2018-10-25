@@ -16,5 +16,5 @@
 14) iesniegt pieteikumu par kriminālprocesa izbeigšanu;
 15) pie izmeklēšanas tiesneša piedalīties procesa virzītāja ierosinājumu un savu un aizstāvja sūdzību un pieteikumu izskatīšanā, ja vien likums nenosaka citu izskatīšanas kārtību;
 16) izteikt vēlēšanos sadarboties ar amatpersonām, kuras veic kriminālprocesu.
-(2) Bez aizdomās turētā piekrišanas nedrīkst publiskot plašsaziņas līdzekļos procesuālo darbību laikā ar foto, video vai cita veida tehniskajiem līdzekļiem fiksētu viņa attēlu, ja vien tas nav nepieciešams noziedzīgā nodarījuma atklāšanai.
+(2) Bez aizdomās turētā piekrišanas nedrīkst publiskot plašsaziņas līdzekļos procesuālo darbību laikā ar foto, video vai cita veida tehniskajiem līdzekļiem fiksētu viņa attēlu, ja vien tas nav nepieciešams noziedzīgā nodarījuma atklāšanai vai novēršanai.
 (3) (Izslēgta ar 23.05.2013. likumu)

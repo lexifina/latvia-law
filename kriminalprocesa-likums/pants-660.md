@@ -4,7 +4,7 @@
 (3) Personas, kuras tiesības vai likumiskās intereses aizskar pieteikums un prokurora vai tiesneša lēmums, neierašanās uz tiesas sēdi nav šķērslis lietas izskatīšanai.
 (4) Lietas izskatīšana notiek kārtībā, kāda noteikta lietu izskatīšanai kasācijas instances tiesas sēdē mutvārdu procesā, izņemot šajā daļā noteikto:
 1) tiesnesis ziņojumā izklāsta lietas apstākļus, kas attiecas uz pieteikumu un prokurora vai tiesneša lēmumu;
-2) pēc tiesneša ziņojuma prokurors pamato atzinumu vai izsaka viedokli par pieteikumu;
+2) pēc tiesneša ziņojuma prokurors pamato lēmumu vai izsaka viedokli par pieteikumu;
 3) pēc tiesneša ziņojuma pieteicējs vai pieteicēja pārstāvis pamato pieteikumu, ja viņš piedalās tiesas sēdē.
 (5) Tiesa pieņem vienu no šādiem lēmumiem:
 1) atceļ tiesas nolēmumu pilnībā vai tā daļā, atceltajā apjomā atjauno kriminālprocesu sakarā ar jaunatklātiem apstākļiem un lietu nosūta prokuratūrai;
