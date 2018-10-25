@@ -1,0 +1,1 @@
+1. pants. Pasaules Pasta savienības 2016. gada 6. oktobrī parakstītais Vispārīgā reglamenta Pirmais papildprotokols (turpmāk - Vispārīgā reglamenta Pirmais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
