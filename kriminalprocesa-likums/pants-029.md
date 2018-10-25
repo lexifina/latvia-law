@@ -2,6 +2,7 @@
 (1) Izmeklētājam ir pienākums:
 1) izskatīt ziņas, kuras norāda uz iespējama noziedzīga nodarījuma izdarīšanu, un uzsākt kriminālprocesu, tiklīdz konstatēts likumā noteiktais iemesls un pamats, vai atteikties uzsākt kriminālprocesu;
 2) veikt izmeklēšanas darbības, lai noskaidrotu, vai noticis noziedzīgs nodarījums, kas to izdarījis, vai kādai personai par to krimināltiesiski jāatbild, noskaidrot šo personu un iegūt pierādījumus, kas dod pamatu personas saukšanai pie kriminālatbildības;
+2¹) (punkts stājas spēkā vienlaikus ar normatīvo aktu, kas nosaka kompetento institūciju, kura veic riska un aizsardzības faktoru novērtēšanu nepilngadīgajam, kuram ir tiesības uz aizstāvību, un tiks iekļauts uz attiecīga normatīvā akta spēkā stāšanās dienu. Sk. Pārejas noteikumu 68. punktu);
 3) veikt visus likumā paredzētos pasākumus kaitējuma atlīdzināšanas nodrošināšanai;
 4) izvēlēties konkrētiem apstākļiem atbilstošu vienkāršāko kriminālprocesa veidu, kā arī izvēlēties un veikt tādas procesuālās darbības, lai nodrošinātu kriminālprocesa mērķa sasniegšanu pēc iespējas ātrāk un ekonomiskāk;
 5) izpildīt sava tiešā priekšnieka, uzraugošā prokurora, amatā augstāka prokurora norādījumus vai izmeklēšanas tiesneša priekšrakstus;
