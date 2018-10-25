@@ -1,0 +1,1 @@
+1. pants. 2016. gada 6. oktobrī parakstītais Pasaules Pasta savienības Nolīgums par pasta maksājumu pakalpojumiem un tā Noslēguma protokols (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
