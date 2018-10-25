@@ -1,0 +1,1 @@
+2. Rīgas Latviešu biedrība līdz 2019. gada 31. decembrim izstrādā un iesniedz Ministru kabinetam apstiprināšanai šā likuma 4. panta otrajā daļā minēto Biedrības nama atjaunošanas, izpētes, konservācijas un restaurācijas programmu.
