@@ -1,0 +1,1 @@
+1. pants. 2016. gada 6. oktobrī parakstītais Pasaules Pasta savienības konstitūcijas Devītais papildprotokols (turpmāk - Konstitūcijas Devītais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
