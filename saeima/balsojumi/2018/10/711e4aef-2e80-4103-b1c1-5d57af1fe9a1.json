@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 14,
+ "datums": "2018-10-25",
+ "ieraksts": {
+  "dkp_id": "5240f6f5-4436-439c-ad97-ba386dfbf4fd",
+  "lastmodtime": "\"AAAAAAGb9Mc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Nellija#Atis#Edvīns#Andris#Dzintars#Romāns#Romans#Varis#Ivans#Einārs#Jānis#Mihails#Vladimirs#Artis#Astrīda#Inese#Ainars#Guntis#Jānis#Artuss#Raimonds#Andris#Lolita#Valdis#Arvīds#Veiko#Jānis#Igors#Ints#Valdis#Silvija#Boriss#Andris#Juris#Ringolds#Inguna#Artis#Rihards#Ilmārs#Augusts#Sergejs#Jūlija#Arvīds#Anrijs#Ojārs Ēriks#Valters#Zenta#Inese#Laimdota#Aldis#Andrejs#Inguna#Gaidis#Jānis#Inesis#Viktors#Andrejs#Juris#Jānis#Ivans#Aleksejs#Ināra#Jānis#Inga#Ainārs#Aleksandrs#Vitālijs#Gunārs#Ritvars#Kārlis#Edgars#Sergejs#Rihards#Kārlis#Jānis#Sergejs#Ivars#Aivars#Aleksandrs#Aija#Mārtiņš#Līga#Igors#Artūrs#Janīna#Edvards",
+  "SURNAME": "Kleinberga#Lejiņš#Šnore#Morozovs#Zaķis#Naudiņš#Miloslavskis#Krūmiņš#Ribakovs#Cilinskis#Trupovnieks#Zemļinskis#Nikonovs#Rasmanis#Harju#Laizāne#Latkovskis#Kalniņš#Ruks#Kaimiņš#Rubiks#Siliņš#Čigāne#Skujiņš#Platpers#Spolītis#Ādamsons#Pimenovs#Dālderis#Kalnozols#Šimfa#Cilevičs#Buiķis#Vectirāns#Balodis#Rībena#Gustovskis#Kols#Latkovskis#Brigmanis#Mirskis#Stepaņenko#Ulme#Matīss#Kalniņš#Dambe#Tretjaka#Aizstrauta#Straujuma#Adamovičs#Klementjevs#Sudraba#Bērziņš#Dombrava#Boķis#Valainis#Judins#Šulcs#Urbanovičs#Klementjevs#Loskutovs#Mūrniece#Vucāns#Bite#Mežulis#Jakimovs#Orlovs#Kūtris#Jansons#Krēsliņš#Putra#Dolgopolovs#Melgailis#Seržants#Tutins#Potapkins#Zariņš#Meija#Kiršteins#Barča#Šics#Kozlovska#Zujevs#Rubiks#Kursīte-Pakule#Smiltēns",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "LRA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VIENOTĪBA#VL-TB/LNNK#SASKAŅA #LRA#SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA #SASKAŅA #ZZS#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#ZZS#LRA# #SASKAŅA #ZZS#VIENOTĪBA#ZZS# #VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#ZZS# #SASKAŅA #VL-TB/LNNK#ZZS# #VL-TB/LNNK#VIENOTĪBA#VL-TB/LNNK# #ZZS#SASKAŅA #SASKAŅA #ZZS# #VIENOTĪBA#ZZS#SASKAŅA #ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK# # #VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#ZZS#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #SASKAŅA # #VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #SASKAŅA #VL-TB/LNNK# ",
+  "RESULT": "Par#Atturas#Nebalsoja#Par#Atturas#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Pret#Par#Atturas#Par#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Atturas#Par#Par#Par#Atturas#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Nebalsoja#Pret#Atturas#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Pret#Atturas#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Atturas#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.10.2018 11:17:36",
+  "VOTEMOTIVE": "Par nekustamā īpašuma Bruņinieku ielā 33, Rīgā, nodošanu arodbiedrību apvienībai “Latvijas Brīvo arodbiedrību savienība” (1352/Lp12), 1.lasījums",
+  "VOTING_ID": "711e4aef-2e80-4103-b1c1-5d57af1fe9a1",
+  "VOTERESULT_ABSTAIN": "8",
+  "VOTERESULT_AGAINST": "10",
+  "VOTERESULT_FOR": "56",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "28",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada rudens sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c3d6e270-f5c2-42bc-83db-6f8afd5d1395/download/12.saeimas-2018.gada-rudens-sesija-14-vote.xml",
+  "sha256": "7bf7f8cfddd31fc79fc19c7e1bc326f0cf56b46c65a18486afb68a31e0a6ba35",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
