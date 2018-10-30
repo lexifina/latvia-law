@@ -1,0 +1,2 @@
+23.⁵ pants. Visaptveroša valsts aizsardzība
+Lai kara, militāra iebrukuma vai okupācijas gadījumā īstenotu visaptverošu valsts aizsardzību līdz brīdim, kamēr tiek pilnībā atjaunotas likumīgās valsts varu un pārvaldi realizējošās institūcijas, Nacionālie bruņotie spēki, valsts pārvaldes un pašvaldību institūcijas, kā arī fiziskās un juridiskās personas veic pasākumus valsts militārai un civilai aizsardzībai un īsteno bruņotu pretošanos, pilsonisko nepakļaušanos un nesadarbošanos ar nelikumīgām pārvaldes institūcijām.
