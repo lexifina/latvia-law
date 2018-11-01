@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018.gada 10.jūlija noteikumi Nr. 409 \"Grozījumi Ministru kabineta 2004. gada 27. augusta noteikumos Nr. 725 “Transportlīdzekļa pārbūves noteikumi”\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2018-07-12",
+  "entry_into_force": "2018-11-01",
+  "notification_date": "2018-07-17",
+  "commission_reference": "MNE(2018)53800",
+  "nim_celex": "72007L0046LVA_260836",
+  "nim_id": "260836",
+  "transposes_celex": [
+    "32007L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a6783aa6-612b-4a78-9f1c-612cd1493814",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
