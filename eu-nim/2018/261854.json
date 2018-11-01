@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "“Grozījumi Ministru kabineta 2009. gada 22. decembra noteikumos Nr. 1494 “Mopēdu, mehānisko transportlīdzekļu, to piekabju un sastāvdaļu atbilstības novērtēšanas noteikumi””",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157 (6243)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-09",
+  "entry_into_force": "2018-11-01",
+  "notification_date": "2018-08-13",
+  "commission_reference": "MNE(2018)54328",
+  "nim_celex": "72007L0046LVA_261854",
+  "nim_id": "261854",
+  "transposes_celex": [
+    "32007L0046"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c56d6ab7-61c5-42cb-8c40-bcddac46866c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
