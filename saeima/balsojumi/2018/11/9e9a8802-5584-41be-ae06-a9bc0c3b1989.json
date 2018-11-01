@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 12,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 17,
+ "datums": "2018-11-01",
+ "ieraksts": {
+  "dkp_id": "e91ba62f-7a5c-4e8f-913d-80e9f0df6a0b",
+  "lastmodtime": "\"AAAAAAGcchU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Inese#Nellija#Atis#Edvīns#Andris#Dzintars#Romans#Ivans#Einārs#Mihails#Vladimirs#Andris#Artis#Astrīda#Inese#Ainars#Jānis#Artuss#Raimonds#Lolita#Valdis#Veiko#Hosams#Jānis#Igors#Jānis#Ints#Valdis#Boriss#Andris#Juris#Ringolds#Inguna#Rihards#Renārs#Augusts#Sergejs#Jūlija#Arvīds#Anrijs#Ojārs Ēriks#Valters#Zenta#Aldis#Juris#Inguna#Gaidis#Inesis#Juris#Jānis#Ivans#Ināra#Ainārs#Aleksandrs#Gunārs#Ritvars#Kārlis#Sergejs#Rihards#Kārlis#Jānis#Sergejs#Ivars#Aivars#Aleksandrs#Aija#Mārtiņš#Līga#Igors#Janīna",
+  "SURNAME": "Lībiņa-Egnere#Kleinberga#Lejiņš#Šnore#Morozovs#Zaķis#Miloslavskis#Ribakovs#Cilinskis#Zemļinskis#Nikonovs#Bērziņš#Rasmanis#Harju#Laizāne#Latkovskis#Ruks#Kaimiņš#Rubiks#Čigāne#Skujiņš#Spolītis#Abu Meri#Ādamsons#Pimenovs#Upenieks#Dālderis#Kalnozols#Cilevičs#Buiķis#Vectirāns#Balodis#Rībena#Kols#Putniņš#Brigmanis#Mirskis#Stepaņenko#Ulme#Matīss#Kalniņš#Dambe#Tretjaka#Adamovičs#Viļums#Sudraba#Bērziņš#Boķis#Šulcs#Urbanovičs#Klementjevs#Mūrniece#Mežulis#Jakimovs#Kūtris#Jansons#Krēsliņš#Dolgopolovs#Melgailis#Seržants#Tutins#Potapkins#Zariņš#Meija#Kiršteins#Barča#Šics#Kozlovska#Zujevs#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "VIENOTĪBA#LRA#VIENOTĪBA#VL-TB/LNNK#SASKAŅA #VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#SASKAŅA #SASKAŅA #ZZS#ZZS#VIENOTĪBA#VL-TB/LNNK#VIENOTĪBA#LRA# #SASKAŅA #VIENOTĪBA#ZZS#VIENOTĪBA#VIENOTĪBA#SASKAŅA #SASKAŅA #VIENOTĪBA#VIENOTĪBA#ZZS#SASKAŅA #VL-TB/LNNK#ZZS# #VL-TB/LNNK#VL-TB/LNNK#VIENOTĪBA#ZZS#SASKAŅA #SASKAŅA #ZZS# #VIENOTĪBA#ZZS#SASKAŅA #VIENOTĪBA#LRA# #VL-TB/LNNK# #VIENOTĪBA#SASKAŅA #SASKAŅA #VL-TB/LNNK#ZZS#SASKAŅA # #VL-TB/LNNK#VL-TB/LNNK#SASKAŅA #LRA#ZZS#SASKAŅA #SASKAŅA #SASKAŅA # #VL-TB/LNNK#ZZS#LRA#ZZS#SASKAŅA #VL-TB/LNNK",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Atturas#Nebalsoja#Atturas#Par#Par#Par#Pret#Par#Pret#Par#Nebalsoja#Nebalsoja#Par#Pret#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Atturas#Nebalsoja#Par#Nebalsoja#Pret#Atturas#Par#Pret#Par#Nebalsoja#Par#Nebalsoja#Par#Atturas#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Atturas#Par#Par#Pret#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.11.2018 09:02:09",
+  "VOTEMOTIVE": "Par likumprojekta Rīgas Svētā Pētera baznīcas likums (856/Lp12), 1.lasījums iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "9e9a8802-5584-41be-ae06-a9bc0c3b1989",
+  "VOTERESULT_ABSTAIN": "6",
+  "VOTERESULT_AGAINST": "6",
+  "VOTERESULT_FOR": "39",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "12.Saeimas 2018.gada rudens sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/7953e7d0-d903-4af8-88ae-42d516126933/download/12.saeimas-2018.gada-rudens-sesija-17-vote.xml",
+  "sha256": "1450efb3f8e5705a199b23546a89d632f8f52073f2694aae1607c4cb3d981e7c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
