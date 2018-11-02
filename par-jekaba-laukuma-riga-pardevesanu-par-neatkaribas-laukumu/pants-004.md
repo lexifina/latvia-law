@@ -1,0 +1,1 @@
+4. pants. Kultūras ministrija piecu darbdienu laikā pēc šā likuma stāšanās spēkā izstrādā Neatkarības laukuma nosaukuma skaidrojuma tekstu un nodod to Rīgas pašvaldībai šā likuma 3. pantā norādīto darbību izpildei.

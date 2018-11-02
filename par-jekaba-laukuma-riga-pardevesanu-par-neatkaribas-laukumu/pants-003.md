@@ -1,0 +1,1 @@
+3. pants. Rīgas pašvaldība nodrošina Neatkarības laukuma nosaukuma zīmes un nosaukuma skaidrojuma plāksnes izgatavošanu un uzstādīšanu mēneša laikā pēc laukuma nosaukuma maiņas ierakstīšanas Valsts adrešu reģistrā.
