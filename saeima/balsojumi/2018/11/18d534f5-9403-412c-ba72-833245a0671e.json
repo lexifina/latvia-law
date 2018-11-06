@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 1,
+ "datums": "2018-11-06",
+ "ieraksts": {
+  "dkp_id": "8d607f60-2cc3-47d7-838f-ac6e708b07c7",
+  "lastmodtime": "\"AAAAAAGd2UE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Andrejs Klementjevs",
+  "CANDIDATERESULT": "55:32",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.11.2018 18:04:24",
+  "VOTEMOTIVE": "Saeimas sekretāra vēlēšanas",
+  "VOTING_ID": "18d534f5-9403-412c-ba72-833245a0671e",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "5",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2018.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/64e403ea-a332-4b9a-8b60-48bafb443563/download/13.saeimas-2018.gada-rudens-sesija-1-vote.xml",
+  "sha256": "a84b771bb741567319e7f8370656f247a6d5393ac9a72eeda7cdafd867cb566b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
