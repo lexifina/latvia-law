@@ -1,0 +1,1 @@
+13. Pašvaldības policija un ostas policija iesniegumus un informāciju par iespējamiem likumpārkāpumiem un notikumiem, kuri apdraud personu vai sabiedrības drošību, sāk reģistrēt vienotajā notikumu reģistrā ne vēlāk kā 2025. gada 1. janvārī.

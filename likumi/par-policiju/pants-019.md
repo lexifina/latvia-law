@@ -1,16 +1,18 @@
 19. pants. Pašvaldības policija
-Pašvaldība var izveidot pašvaldības policiju vai Valsts pārvaldes iekārtas likumā noteiktajā kārtībā deleģēt šā panta otrās daļas 1., 3., 4. un 6.punktā minēto uzdevumu izpildi citai pašvaldībai.
+Pašvaldība var izveidot pašvaldības policiju vai Valsts pārvaldes iekārtas likumā noteiktajā kārtībā deleģēt šā panta otrās daļas 1., 2.¹, 4. un 6. punktā minēto uzdevumu izpildi citai pašvaldībai. Pašvaldības saskaņā ar likumu "Par pašvaldībām" var izveidot kopīgu pašvaldības policiju.
 Pašvaldības policijas pienākumos ietilpst:
 1) likumpārkāpumu profilakse;
 2) (izslēgts ar 28.10.2010. likumu);
-3) par administratīvajiem pārkāpumiem aizturētu un arestētu personu apsargāšana un konvojēšana;
+2¹) ar iespējamiem likumpārkāpumiem un notikumiem, kuri apdraud personu vai sabiedrības drošību, saistītu iesniegumu un informācijas reģistrēšana, reaģēšana uz sniegto informāciju, kā arī saņemtās informācijas nodošana kompetentām amatpersonām un institūcijām;
+3) (izslēgts ar 11.10.2018. likumu);
 4) kontrole pār to, kā tiek izpildīti pašvaldību apstiprinātie noteikumi, par kuru pārkāpšanu paredzēta administratīvā atbildība, kā arī naudas sodu uzlikšana par šo noteikumu pārkāpšanu un to piedzīšana;
 5) Valsts policijas un Drošības policijas atbalstīšana sabiedrības drošības garantēšanā un noziedzības apkarošanā;
 6) tūlītēju draudu novēršana, ja persona, kas atrodas mājoklī vai tā tuvumā, var nodarīt kaitējumu aizsargājamās personas dzīvībai, brīvībai vai veselībai, līdz tiesa izskata jautājumu par pagaidu aizsardzību pret vardarbību.
-Ja pašvaldība neveido savu policiju vai nav deleģējusi pašvaldības policijas uzdevumus citai pašvaldībai, šā panta otrās daļas 1., 3., 4. un 6.punktā minētos pienākumus izpilda Valsts policija.
+Ja pašvaldība neveido savu vai kopīgu pašvaldības policiju vai nav deleģējusi pašvaldības policijas uzdevumus citai pašvaldībai, šā panta otrās daļas 4. punktā minēto pienākumu izpilda Valsts policija.
 Ja ienāk ziņas par to, ka tiek gatavots vai ir izdarīts likumpārkāpums, kura izskatīšana ir Valsts policijas kompetencē, pašvaldības policija veic nepieciešamos pasākumus tā novēršanai, pārkāpēja aizturēšanai, notikuma vietas apsargāšanai un nekavējoties par to paziņo attiecīgajai Valsts policijas iestādei (amatpersonai), kā arī nodod tai likumpārkāpēju un attiecīgos dokumentus par viņu. Šajos jautājumos Valsts policijas amatpersonu norādījumi ir saistoši pašvaldības policijas darbiniekiem.
-Pašvaldības policijas darbinieku skaitu nosaka attiecīgā pašvaldība. Pašvaldības policijas sastāvā var būt tās priekšnieks, viņa vietnieki, vecākie inspektori, inspektori un jaunākie inspektori, kā arī vecākie kārtībnieki, kārtībnieki un jaunākie kārtībnieki. Pašvaldības policisti savus pienākumus pilda iekšlietu ministra apstiprinātajā vienota parauga formas tērpā.
+Pašvaldības policijas darbinieku skaitu nosaka attiecīgā pašvaldība vai likumā "Par pašvaldībām" noteiktā uzraudzības padome. Pašvaldības policijas sastāvā var būt tās priekšnieks, viņa vietnieki, vecākie inspektori, inspektori un jaunākie inspektori, kā arī vecākie kārtībnieki, kārtībnieki un jaunākie kārtībnieki. Pašvaldības policisti savus pienākumus pilda formas tērpā. Pamatprasības formas tērpam nosaka Ministru kabinets.
 Pašvaldības policijas darbiniekam savas kompetences ietvaros ir visas šā likuma 12.panta pirmās daļas 1.-6., 8.-12., 14.¹, 14.³, 15., 17., 20., 21., 24., 26.-28., 31., 32. un 34.punktā minētās tiesības, tiesības šā likuma 13.pantā noteiktajā kārtībā, iestājoties šā likuma 13.panta pirmajā daļā minētajiem apstākļiem, lietot fizisku spēku, speciālos cīņas paņēmienus, speciālos līdzekļus, kā arī ievietot personas pagaidu turēšanas telpās un šim nolūkam paredzētajos transportlīdzekļos, bet izņēmuma gadījumā, ja ir liels aizturēto personu skaits, arī uz laiku norobežotās pagaidu turēšanas vietās. Pildot šā panta otrās daļas 6.punktā minēto pienākumu, pašvaldības policijas darbiniekam ir arī šā likuma 12.panta pirmās daļas 13.¹ un 16.punktā minētās tiesības, kā arī tiesības pieņemt policijas lēmumu par nošķiršanu.
 Speciālos līdzekļus, kurus ir tiesīgi lietot pašvaldības policijas darbinieki, kā arī šo speciālo līdzekļu lietošanas kārtību nosaka Ministru kabinets.
 Pašvaldības policijas darbiniekiem ir tiesības šā likuma 14.pantā noteiktajā kārtībā un paredzētajās situācijās pielietot šaujamieročus.
 Pašvaldības policijas paraugnolikumu apstiprina Ministru kabinets.
+Ministru kabinets nosaka šā panta otrās daļas 2.¹ punktā minēto ziņu reģistrēšanas kārtību, apjomu un glabāšanas termiņus.

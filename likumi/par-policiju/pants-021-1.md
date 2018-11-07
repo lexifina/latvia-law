@@ -6,5 +6,5 @@ Par ostas policijas darbinieku var būt persona, kura atbilst šādām prasībā
 4) nav saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet kriminālprocess pret to izbeigts uz reabilitējoša pamata;
 5) ir ieguvusi vismaz vidējo izglītību.
 Par ostas policijas priekšnieku un viņa vietnieku var pieņemt darbā personu, kura atbilst šā panta pirmās daļas 1.-4.punktā noteiktajām prasībām un kura ir ieguvusi augstāko izglītību.
-Ostas policijas priekšnieku un viņa vietnieku pieņem darbā pēc tam, kad rakstveidā saņemta iekšlietu ministra piekrišana.
+Ostas policijas priekšnieku un viņa vietnieku pieņem darbā, ja saņemta iekšlietu ministra rakstveida piekrišana. Iekšlietu ministrs rakstveida piekrišanu nedod, ja ir pietiekams pamats uzskatīt, ka persona rada draudus valsts drošībai vai sabiedriskajai kārtībai un drošībai.
 Vakanta ostas policijas priekšnieka vai viņa vietnieka amata pienākumus vai prombūtnē esoša ostas policijas priekšnieka vai viņa vietnieka amata pienākumus var pildīt persona, kura atbilst šā panta otrās daļas prasībām. Ja personai uzdod pildīt ostas policijas priekšnieka vai viņa vietnieka amata pienākumus uz laiku, kas pārsniedz sešus mēnešus, nepieciešams saņemt iekšlietu ministra rakstveida piekrišanu.
