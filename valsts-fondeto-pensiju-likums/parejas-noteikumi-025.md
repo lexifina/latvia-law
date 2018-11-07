@@ -1,0 +1,1 @@
+25. Grozījumi šā likuma 2. panta otrajā daļā, 3. panta pirmajā un otrajā daļā, 3.¹ pants, grozījumi 7. panta pirmajā daļā, 7. panta 1.¹ daļa un 8. panta jaunā redakcija stājas spēkā 2020. gada 1. janvārī. Attiecībā uz tādu personu fondētās pensijas kapitālu, kuras mirušas pirms 2020. gada 1. janvāra, piemēro tiesību normas, kas bija spēkā attiecīgās personas nāves dienā.
