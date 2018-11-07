@@ -1,0 +1,3 @@
+10. pants. Lauksaimniecības dzīvnieku un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšana un dzīvnieku apzīmēšana
+(1) Visi lauksaimniecības dzīvnieki un akvakultūras dzīvnieki, to ganāmpulki un novietnes ir reģistrējami, un visi lauksaimniecības dzīvnieki ir apzīmējami. Lauksaimniecības dzīvnieku un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšanas kārtību, kā arī lauksaimniecības dzīvnieku apzīmēšanas kārtību nosaka Ministru kabinets.
+(2) Šķirnes mājas (istabas) dzīvnieki ir apzīmējami un reģistrējami saskaņā ar normatīvajiem aktiem par mājas (istabas) dzīvnieku reģistrēšanas kārtību.
