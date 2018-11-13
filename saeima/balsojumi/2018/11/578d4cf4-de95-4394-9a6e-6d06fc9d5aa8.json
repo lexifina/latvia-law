@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 3,
+ "datums": "2018-11-13",
+ "ieraksts": {
+  "dkp_id": "f1bac5be-5884-46cb-bbf3-e3384edea0be",
+  "lastmodtime": "\"AAAAAAGd6mg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Uldis#Edvīns#Artis#Ilze#Edgars#Dace#Andris#Jānis#Romāns#Ivans#Vita Anda#Juris#Ivars#Ralfs#Evita#Edgars#Vladimirs#Didzis#Vjačeslavs#Ainars#Artūrs Toms#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Ilga#Ilmārs#Jūlija#Linda#Jānis#Atis#Ojārs Ēriks#Tālis#Valērijs#Aldis#Ēriks#Andrejs#Māris#Mārtiņš#Viktors#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Mārtiņš#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Budriķis#Šnore#Pabriks#Indriksone#Rinkēvičs#Rukšāne-Ščipčinska#Skride#Reirs#Naudiņš#Ribakovs#Tērauda#Pūce#Puga#Nemiro#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Dombrovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Šuplinska#Dūrītis#Stepaņenko#Ozola#Bordāns#Zakatistovs#Kalniņš#Linkaits#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Bondars#Valainis#Judins#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Staķis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "############################################################################################",
+  "FRACTION": "JK#JK#VL-TB/LNNK#AP!#VL-TB/LNNK#JV#AP!#AP!#JV#VL-TB/LNNK#SASKAŅA #AP!#AP!#KPV LV#KPV LV#JK#SASKAŅA #SASKAŅA #KPV LV#SASKAŅA #JV#AP!#JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#VL-TB/LNNK#ZZS#ZZS#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV#VL-TB/LNNK#JV#KPV LV#VL-TB/LNNK#JK#AP!# #JK#JK#KPV LV#JV#JK#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#AP!#ZZS#JV#SASKAŅA #SASKAŅA #VL-TB/LNNK#SASKAŅA #VL-TB/LNNK#AP!#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA #KPV LV#KPV LV#SASKAŅA #ZZS#ZZS#VL-TB/LNNK#SASKAŅA #KPV LV#VL-TB/LNNK#SASKAŅA #ZZS#KPV LV#JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "13.11.2018 10:05:24",
+  "VOTEMOTIVE": "Par Saeimas pastāvīgo komisiju izveidošanas noteikumiem (9/Lm13)",
+  "VOTING_ID": "578d4cf4-de95-4394-9a6e-6d06fc9d5aa8",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "91",
+  "VOTERESULT_REGISTERED": "93",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2018.gada rudens sesija-3-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/399ea616-c7e1-4d02-a7e0-68e27174310d/download/13.saeimas-2018.gada-rudens-sesija-3-vote.xml",
+  "sha256": "66893317f8ad6a2c9d406045eb2d78d3a38e20d75909abbfdf05876415378d9c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
