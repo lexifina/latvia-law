@@ -1,0 +1,1 @@
+3. pants. Saskaņā ar Konvencijas 16. panta 1. punktu Latvijas Republika deklarē, ka prasības par Latvijā ievesto priekšmetu restitūciju un atdošanu, pamatojoties uz Konvencijas 8. pantu, var iesniegt, vēršoties tiesā.
