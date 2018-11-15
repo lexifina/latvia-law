@@ -1,0 +1,1 @@
+11.¹ pants. Augstskola paredz tādu kārtību uzņemšanai studiju programmās, kāda nepieciešama, lai nodrošinātu Baltijas valstu un ārvalstu studentu uzņemšanu vienotā uzņemšanas procesā, patstāvīgi nosakot reflektantu reģistrācijas un konkursu norises vietu un laiku.

@@ -1,4 +1,4 @@
-26. pants. (1) Valde ir Augstskolas dibinātāju izveidota institūcija. Saskaņā ar Augstskolas statūtiem tās sastāvu, izveidošanas kārtību, kompetenci un darbību nosaka dibinātāji.
+26. pants. (1) Valde ir Augstskolas dibinātāju izveidota institūcija. Saskaņā ar Augstskolas statūtiem tās sastāvu, izveidošanas kārtību, kompetenci un darbību nosaka dalībnieki.
 (2) (Izslēgta ar 17.06.2010. likumu)
 (3) Valdes kompetencē ir:
 1) izlemt konceptuālus Augstskolas darbības un attīstības jautājumus;
