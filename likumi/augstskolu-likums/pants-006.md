@@ -1,7 +1,7 @@
 6.pants. Akadēmiskā brīvība
 (1) Augstskolās tiek nodrošināta studiju, pētniecības darba un mākslinieciskās jaunrades brīvība, ja šī brīvība nav pretrunā ar citu personu tiesībām, augstskolas satversmi un normatīvajiem aktiem.
 (2) Studiju brīvība izpaužas studējošo tiesībās:
-1) izvēlēties augstskolu, fakultāti (nodaļu);
+1) izvēlēties augstskolu, studiju programmu;
 2) studiju laikā mainīt studiju programmu, izvēloties to citā augstskolā, fakultātē (nodaļā, institūtā);
 3) klausīties lekcijas citās augstskolās, fakultātēs (nodaļās, institūtos);
 4) sastādīt un apgūt individuālu studiju brīvās izvēles daļu;

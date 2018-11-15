@@ -1,5 +1,5 @@
 74.pants. Augstākās izglītības padomes priekšsēdētājs
-(1) Augstākās izglītības padomes priekšsēdētāja darbs Augstākās izglītības padomē ir viņa pamatdarbs. Augstākās izglītības padomes priekšsēdētājs vienlaikus nedrīkst ieņemt citu vadošu amatu.
+(1) Augstākās izglītības padomes priekšsēdētājs vienlaikus nedrīkst ieņemt citu vadošu amatu.
 (2) Augstākās izglītības padomes priekšsēdētājs ir atbildīgs par Augstākās izglītības padomes darbu un tās funkciju izpildi.
 (3) Augstākās izglītības padomes priekšsēdētājs:
 1) pārstāv Augstākās izglītības padomi valsts institūcijās, kā arī attiecībās ar fiziskajām un juridiskajām personām Latvijā un ārvalstīs, piedalās Ministru kabineta sēdēs ar padomdevēja tiesībām padomes kompetencē esošo jautājumu izskatīšanā;

@@ -5,7 +5,8 @@
 3) ja gada laikā pēc augstskolas vai filiāles reģistrēšanas nav saņemta licence studiju programmas īstenošanai;
 4) ja gada laikā pēc licences saņemšanas nav uzsākta paredzēto studiju programmu īstenošana;
 5) ja visām augstskolai vai filiālei izsniegtajām studiju programmu licencēm ir beidzies derīguma termiņš, tās ir atņemtas vai anulētas;
-6) pamatojoties uz tiesas nolēmumu.
+6) pamatojoties uz tiesas nolēmumu;
+7) ja ārkārtas akreditācijas rezultātā pieņemts lēmums atteikt akreditēt augstskolu.
 (2) Augstskolu vai filiāli var izslēgt no reģistra, pamatojoties uz tiesas nolēmumu, ja:
 1) nesaņemot licenci studiju programmas īstenošanai, izziņota studējošo uzņemšana, uzņemti studējošie, uzsākta studiju programmu īstenošana vai veikta cita veida izglītojoša darbība;
 2) augstskolas vai filiāles reģistrācijas procesā ir sniegtas nepatiesas ziņas, kas bijušas par pamatu augstskolas vai filiāles reģistrācijai;

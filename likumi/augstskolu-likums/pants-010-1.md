@@ -7,7 +7,7 @@
 5) koledžas akadēmiskā personāla ievēlēšanas kārtība;
 6) koledžas studiju programmu izstrādes un apstiprināšanas kārtība;
 7) koledžas struktūrvienību un koledžu filiāļu izveidošanas, reorganizācijas, likvidācijas un darbības pamatnoteikumi;
-8) koledžas iekšējo kārtību reglamentējošo dokumentu pieņemšanas kārtība;
+8) koledžas iekšējo normatīvo aktu izdošanas kārtība;
 9) koledžas reorganizācijas un likvidācijas kārtība;
 10) citi būtiski noteikumi, kas nav pretrunā ar šo likumu un citiem normatīvajiem aktiem.
 (2) Koledža ir izglītības iestāde, kas īsteno pirmā līmeņa profesionālās augstākās izglītības programmas un dod iespēju iegūt ceturtā līmeņa profesionālo kvalifikāciju. Pirmā līmeņa profesionālās augstākās izglītības programma tiek īstenota pēc vidējās izglītības ieguves. Tās īstenošanas laiks ir divi līdz trīs gadi.

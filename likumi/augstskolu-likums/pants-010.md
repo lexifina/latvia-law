@@ -6,7 +6,7 @@
 3) satversmes un tās grozījumu pieņemšanas kārtība;
 4) augstskolas pārstāvības un vadības institūciju un lēmējinstitūciju tiesības, pienākumi un uzdevumi, citu koleģiālās vadības institūciju tiesības, pienākumi un uzdevumi, šo institūciju izveidošanas, ievēlēšanas vai iecelšanas kārtība un sastāvs, pilnvaru termiņi un atsaukšanas vai iecelšanas kārtība;
 5) augstskolas struktūrvienību, filiāļu, iestāžu, komercsabiedrību izveidošanas, reorganizācijas un likvidācijas, kā arī to darbības pamatnoteikumi;
-6) augstskolas iekšējo kārtību reglamentējošo dokumentu pieņemšanas kārtība;
+6) augstskolas iekšējo normatīvo aktu izdošanas kārtība;
 7) augstskolas reorganizācijas un likvidācijas kārtība;
 8) citi būtiski noteikumi, kas nav pretrunā ar likumiem un citiem normatīvajiem aktiem.
 (3) Valsts dibināto augstskolu (izņemot Latvijas Nacionālo aizsardzības akadēmiju) satversmes un grozījumus tajās pieņem attiecīgās augstskolas satversmes sapulce un pēc izglītības un zinātnes ministra ieteikuma ar likumu apstiprina Saeima. Latvijas Nacionālās aizsardzības akadēmijas satversmi, kā arī citu personu dibināto augstskolu satversmes un grozījumus tajās apstiprina Ministru kabinets. Ja augstskolas satversmē izdarīti grozījumi, Saeimai vai attiecīgi Ministru kabinetam iesniedzams grozījumu teksts, kā arī pilns satversmes teksts jaunajā redakcijā.
