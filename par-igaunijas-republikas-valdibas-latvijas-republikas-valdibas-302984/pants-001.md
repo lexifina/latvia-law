@@ -1,0 +1,1 @@
+1. pants. 2018. gada 8. jūnijā Viļņā, Lietuvā, parakstītais Igaunijas Republikas valdības, Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par kvalifikāciju, kas saistītas ar augstāko izglītību, automātisku akadēmisko atzīšanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
