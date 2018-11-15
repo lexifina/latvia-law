@@ -1,1 +1,0 @@
-188.pants. Izsolē tiek iekļauta šā likuma 170.pantā norādītā kredītiestādes manta, izņemot naudas līdzekļus, kā arī mantu, kura saskaņā ar kredītiestādes noslēgtajiem spēkā esošajiem līgumiem kalpo par nodrošinājumu nodrošinātajiem kreditoriem.

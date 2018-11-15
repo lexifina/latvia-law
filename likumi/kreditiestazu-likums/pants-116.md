@@ -13,5 +13,5 @@
 5) kura ir notiesāta par šīs daļas 3.punktā noteiktā noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas noilguma, apžēlošanas vai amnestijas dēļ;
 6) pret kuru kriminālprocess par šīs daļas 3.punktā noteiktā noziedzīga nodarījuma izdarīšanu ir izbeigts sakarā ar noilgumu vai amnestiju;
 7) kurai Krimināllikumā noteiktajā kārtībā ir noteikts tiesību ierobežojums veikt noteiktu komercdarbību vai ieņemt attiecīgus amatus;
-8) kura ir bijusi komercsabiedrības pārvaldes institūcijas loceklis vai prokūrists komercsabiedrībā un savas nolaidības dēļ vai tīši novedusi šo komercsabiedrību līdz kriminālsodāmai maksātnespējai.
+8) (izslēgts ar 01.11.2018. likumu).
 (4) Ja lēmumā par pilnvarnieka iecelšanu atbilstoši šā likuma 117.panta pirmās daļas 3.punktam ir noteikts, ka pilnvarnieks veic kredītiestādes pārvaldīšanu, tad papildus šā panta pirmajā, otrajā un trešajā daļā noteiktajām prasībām un ierobežojumiem par šādu pilnvarnieku var būt vienīgi šā panta pirmajā daļā minētā juridiskā persona vai tāda fiziskā persona, kura ir Finanšu un kapitāla tirgus komisijas darbinieks vai kura iecelta maksātnespējas procesa administratora amatā saskaņā ar Maksātnespējas likumu.

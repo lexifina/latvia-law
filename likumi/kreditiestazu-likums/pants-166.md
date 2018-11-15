@@ -9,9 +9,9 @@
 (4) Šā panta pirmajā daļā noteikto kreditoriem kopējo izmaksājamo naudas līdzekļu apmēru aprēķina naudas līdzekļu apmēru, kas iegūts, maksātnespējas procesa laikā atgūstot mantu vai izpārdodot kredītiestādes aktīvus, samazinot par šā likuma 153.pantā noteiktajiem maksātnespējas procesa izdevumiem (izņemot maksātnespējas administratora atlīdzību). No aprēķinātā kreditoriem izmaksājamā naudas līdzekļu apmēra pirms izmaksas atskaita administratoram un administratora palīgam noteikto proporcionālo atlīdzību.
 (5) Administrators un administratora palīgs saņem fiksētu atlīdzību šādos gadījumos un šādā kopējā apmērā:
 1) no administratora iecelšanas dienas līdz maksātnespējas lietas izskatīšanai - vienreizēju atlīdzību 10 minimālo mēnešalgu apmērā;
-2) līdz bankrota procedūras pabeigšanai, ja nekādi naudas līdzekļi netiek kreditoriem izmaksāti, - vienreizēju atlīdzību, par kuras apmēru administrators un Finanšu un kapitāla tirgus komisija savstarpēji vienojas, noslēdzot attiecīgu rakstveida līgumu, bet kuras maksimālais apmērs nedrīkst pārsniegt 50 minimālās mēnešalgas;
-3) sanācijas gadījumā - mēnešalgu 20 minimālo mēnešalgu apmērā;
-4) gadījumā, kad maksātnespējas process izbeigts sakarā ar maksātspējas atjaunošanu, ja maksātspēja atjaunota, - vienreizēju atlīdzību, par kuras apmēru kreditoru sapulce vienojas ar administratoru.
+2) (izslēgts ar 01.11.2018. likumu);
+3) (izslēgts ar 01.11.2018. likumu);
+4) (izslēgts ar 01.11.2018. likumu).
 (6) Aprēķinot administratora un administratora palīga kopējo proporcionālo atlīdzību, to samazina par saskaņā ar šā panta piekto daļu aprēķināto fiksēto atlīdzības apmēru.
 (7) Administrators sedz izdevumus atlīdzībai šā likuma 161.panta ceturtās daļas 19.punktā minētajām personām un citus ar maksātnespējas procesu saistītus izdevumus, kas nav minēti šā likuma 153.pantā, ja kreditoru sapulce ar administratoru nav vienojusies par citu izdevumu segšanas kārtību.
-(8) Kreditoru sapulces sasaukšana un lēmumu pieņemšana par šajā pantā minētajiem jautājumiem tiek nodrošināta saskaņā ar šā likuma 179.² panta otro un trešo daļu, 179.³ pantu, 179.⁴ panta pirmās daļas 1. un 5.punktu un otro daļu, 179.⁵ pantu, 179.⁶ pantu, 179.⁷ pantu, 179.⁸ pantu un 179.⁹ pantu.
+(8) Kreditoru sapulces sasaukšana un lēmumu pieņemšana par šajā pantā minētajiem jautājumiem tiek nodrošināta saskaņā ar šā likuma 135.¹, 135.², 135.³, 135.⁴, 135.⁵, 135.⁶ un 135.⁷ pantu.

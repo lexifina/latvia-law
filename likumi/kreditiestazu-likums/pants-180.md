@@ -1,3 +1,0 @@
-180.pants. (1) Kredītiestādes sanāciju vada administrators saskaņā ar Finanšu un kapitāla tirgus komisijas un kreditoru sapulces apstiprinātu sanācijas plānu.
-(2) Papildus šā likuma 161.panta ceturtajā daļā noteiktajām administratora tiesībām un pilnvarām sanācijas gaitā administrators saskaņā ar sanācijas plānu ir tiesīgs kredītiestādes vārdā iegūt vai aizņemties naudas līdzekļus un ieķīlāt kredītiestādes mantu, attiecīgi to saskaņojot ar kreditoru sapulci.
-(3) Ja mainījušies būtiski apstākļi, kuri ietekmē vai var ietekmēt sanācijas plāna izpildi, administrators ar kreditoru sapulces piekrišanu izdara grozījumus sanācijas plānā un iesniedz to Finanšu un kapitāla tirgus komisijā apstiprināšanai vai pieņem lēmumu par sanācijas atcelšanu vai sanācijas pārtraukšanu.

@@ -1,0 +1,2 @@
+135.¹ pants. (1) Administrators vai likvidators kreditoru sapulces laiku, vietu un darba kārtību paziņo kreditoriem ne vēlāk kā divas nedēļas pirms noteiktā sapulces datuma. Paziņojums par kreditoru sapulci publicējams oficiālajā izdevumā "Latvijas Vēstnesis" un divos citos laikrakstos.
+(2) Ja kreditoru ir vairāk nekā trīs simti, administrators vai likvidators, paziņojot par kreditoru sapulci, uzaicina kreditorus, kuru prasījumi nepārsniedz vienu procentu no visu prasījumu summas, pilnvarot kopīgu pārstāvi.

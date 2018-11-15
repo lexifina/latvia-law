@@ -1,0 +1,2 @@
+135.⁴ pants. (1) Kreditoru sapulce ievēlē kreditoru komiteju, ja savus prasījumus maksātnespējas vai likvidācijas procesā pieteikuši vairāk nekā piecdesmit kreditori.
+(2) Kreditoru komiteju ievēlē no kreditoru sapulces balsstiesīgo dalībnieku vidus ne mazāk kā piecu un ne vairāk kā deviņu locekļu sastāvā uz visu maksātnespējas vai likvidācijas procesa laiku. Kreditoru komitejā ir pārstāvētas visas attiecīgajā maksātnespējas vai likvidācijas procesā iesaistītās kreditoru kārtas atbilstoši šā likuma 139.² un 139.³ pantā noteiktajam.

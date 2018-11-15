@@ -2,4 +2,4 @@
 (2) Uzņēmumu reģistram ir pienākums fiksēt iesniegtās ziņas likumā "Par Latvijas Republikas Uzņēmumu reģistru" noteiktajā kārtībā.
 (3) Zemesgrāmatu nodaļai saskaņā ar Zemesgrāmatu likumu ir pienākums ierakstīt zemesgrāmatas attiecīgajā nodalījumā atzīmi par īpašnieka pasludināšanu par maksātnespējīgu.
 (4) Ja maksātnespējas process tiek izbeigts sakarā ar to, ka kredītiestādes maksātspēja ir atjaunojusies, administrators nosūta tiesas nolēmumu Uzņēmumu reģistram un attiecīgajai zemesgrāmatu nodaļai izdarīto atzīmju dzēšanai.
-(5) Ja maksātnespējas process tiek izbeigts sakarā ar kredītiestādes bankrota procedūras pabeigšanu, administrators nosūta Uzņēmumu reģistram tiesas nolēmumu par bankrota procedūras pabeigšanu kredītiestādes izslēgšanai no Uzņēmumu reģistra.
+(5) Ja maksātnespējas process tiek pabeigts, administrators nosūta Uzņēmumu reģistram tiesas nolēmumu par maksātnespējas procesa pabeigšanu kredītiestādes izslēgšanai no Komercreģistra.

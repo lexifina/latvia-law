@@ -1,0 +1,1 @@
+139.⁶ pants. Ja kredītiestādes likvidācijas procesā kreditori ir iesnieguši savus kreditoru prasījumus, pēc kredītiestādes maksātnespējas procesa pasludināšanas tie atkārtoti kreditoru prasījumus kredītiestādes likvidācijas procesā pieteiktajā apmērā neiesniedz.

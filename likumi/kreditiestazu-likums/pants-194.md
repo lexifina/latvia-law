@@ -1,1 +1,0 @@
-194.pants. Katras nākamās kreditoru kārtas prasījumi tiek apmierināti tikai pēc iepriekšējās kreditoru kārtas prasījumu pilnīgas apmierināšanas. Ja kredītiestādes naudas līdzekļu nepietiek, lai pilnīgi apmierinātu visus vienas kārtas kreditoru prasījumus, šie prasījumi apmierināmi proporcionāli summai, kas pienākas katram kreditoram šīs kārtas ietvaros.

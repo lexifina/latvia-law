@@ -3,23 +3,23 @@
 1) nodrošināt maksātnespējas procesa likumīgu un efektīvu gaitu;
 2) pārņemt kredītiestādes mantu, dokumentāciju un zīmogu, kā arī kredītiestādes valdījumā vai turējumā esošo trešajām personām piederošo mantu;
 3) pārvaldīt kredītiestādes mantu;
-4) izvērtēt kredītiestādes finansiālo stāvokli, mēneša laikā pēc maksātnespējas pasludināšanas pieņemt lēmumu par maksātnespējas risinājumu (sanāciju, bankrotu) un tā noteikumiem un iesniegt to Finanšu un kapitāla tirgus komisijai saskaņā ar šā likuma noteikumiem apstiprināšanai;
+4) (izslēgts ar 01.11.2018. likumu);
 5) sagatavot kredītiestādes tās mantas sarakstu, pret kuru vēršami nodrošināto kreditoru un pārējo kreditoru prasījumi;
 6) pabeigt kredītiestādes dokumentu un mantas inventarizāciju, kas sākta šā likuma 157.panta otrajā daļā noteiktajā kārtībā;
 7) ne vēlāk kā mēneša laikā pēc Finanšu ministrijas pieprasījuma saņemšanas nodot tranzītkredītu apkalpošanu Finanšu ministrijai vai tās norādītajai kredītiestādei;
-8) informēt tiesu par sanācijas piemērošanu un nosūtīt tiesai zināšanai lēmumu par sanācijas piemērošanu, un likumā noteiktajā kārtībā iesniegt tiesā pieteikumu par bankrota procedūras uzsākšanu;
+8) (izslēgts ar 01.11.2018. likumu);
 9) sniegt Finanšu un kapitāla tirgus komisijai un Latvijas Bankai informāciju par maksātnespējas procesa gaitu un to noteiktajos termiņos iesniegt visu pieprasīto informāciju, kas tām nepieciešama savu funkciju pildīšanai;
 10) katra mēneša pirmo 10 dienu laikā iesniegt publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" kredītiestādes iepriekšējā mēneša pārskatu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskatu par atgūtajiem aktīviem, tai skaitā mantu, un maksātnespējas procesa izdevumiem iepriekšējā mēnesī;
 11) kārtot grāmatvedību atbilstoši šā likuma 75.panta prasībām;
 12) sniegt šajā likumā un likumā "Par Latvijas Republikas Uzņēmumu reģistru", kā arī Zemesgrāmatu likumā paredzēto informāciju Uzņēmumu reģistram un zemesgrāmatu nodaļām;
 13) iesniegt likumos noteiktajā kārtībā kompetentām institūcijām ziņojumus un materiālus par maksātnespējas procesa gaitā atklātajiem faktiem, kuri var būt par pamatu krimināllietas ierosināšanai;
 14) ziņot tiesībaizsardzības institūcijām pēc piekritības, ja administrators konstatē, ka kredītiestādes akcionāri, padomes, valdes priekšsēdētājs vai locekļi, rīkotājdirektori, iekšējā audita dienesta vadītājs vai locekļi, sabiedrības kontrolieris, revidenti vai zvērināti revidenti pārkāpuši savas pilnvaras vai nav ievērojuši likumu, Ministru kabineta noteikumu, Latvijas Bankas normatīvo norādījumu un noteikumu, Finanšu un kapitāla tirgus komisijas normatīvo noteikumu un rīkojumu prasības, kredītiestādes statūtu noteikumus vai kredītiestādes akcionāru sapulču lēmumus, vai arī darbojušies nolaidīgi vai apzināti ļaunprātīgi, kā arī celt prasību tiesā pret vainīgajām personām par zaudējumu atlīdzināšanu, ja šo personu rīcības dēļ nodarīts zaudējums kreditoriem vai akcionāriem;
-15) sasaukt pirmo kreditoru sapulci kredītiestādes sanācijas gadījumā;
-16) aprēķināt un apkopot atbilstoši likumam "Par darbinieku aizsardzību darba devēja maksātnespējas gadījumā" darbinieku prasījumus un iesniegt pieteikumus par darbinieku prasījumu apmierināšanu Maksātnespējas administrācijai. Pēc naudas līdzekļu saņemšanas no Maksātnespējas administrācijas administrators izmaksā trešajām personām pēc izpildu dokumentiem no attiecīgā darbinieka prasījuma naudas summas, kuras tām pienākas. Administrators iekļauj nenodrošināto kreditoru prasījumu sarakstā Maksātnespējas administrācijas apmierinātās darbinieku prasījumu summas;
+15) (izslēgts ar 01.11.2018. likumu);
+16) aprēķināt un apkopot atbilstoši likumam "Par darbinieku aizsardzību darba devēja maksātnespējas gadījumā" darbinieku prasījumus un iesniegt pieteikumus par darbinieku prasījumu apmierināšanu Maksātnespējas kontroles dienestam. Pēc naudas līdzekļu saņemšanas no Maksātnespējas kontroles dienesta administrators izmaksā trešajām personām pēc izpildu dokumentiem no attiecīgā darbinieka prasījuma naudas summas, kuras tām pienākas. Administrators iekļauj nenodrošināto kreditoru prasījumu sarakstā Maksātnespējas kontroles dienesta apmierinātās darbinieku prasījumu summas;
 17) pirms no hipotekāro ķīlu zīmēm izrietošās saistības un ķīlu zīmju segumā iekļautie aktīvi tiek nodoti citai kredītiestādei, veikt izmaksas hipotekāro ķīlu zīmju turētājiem, ja iestājies procentu izmaksas vai hipotekāro ķīlu zīmju dzēšanas termiņš, nodrošinot, ka izmaksas tiek veiktas no ķīlu zīmju seguma reģistrā iekļautajiem aktīviem, nepieļaujot citu izmaksu veikšanu no hipotekāro ķīlu zīmju reģistrā iekļautajiem aktīviem vai citu grozījumu izdarīšanu hipotekāro ķīlu zīmju reģistrā;
 18) ne vēlāk kā 10 dienu laikā pēc Finanšu un kapitāla tirgus komisijas rīkojuma saņemšanas nodot Finanšu un kapitāla tirgus komisijas norādītajai kredītiestādei no likvidējamās kredītiestādes emitētajām hipotekārajām ķīlu zīmēm izrietošās saistības pret šo ķīlu zīmju turētājiem kopā ar aktīviem, kas iekļauti hipotekāro ķīlu zīmju seguma reģistrā;
 19) regulāri, bet ne retāk kā reizi gadā informēt zināmos kreditorus par maksātnespējas gaitu.
-(3) Citi administratora pienākumi atsevišķās maksātnespējas procesa stadijās noteikti šā likuma 178., 180., 182.-184., 187. un 190.pantā.
+(3) (Izslēgta ar 01.11.2018. likumu)
 (4) Administratora tiesības un pilnvaras ir šādas:
 1) atsavināt kredītiestādes mantu šajā likumā noteiktajā kārtībā;
 2) slēgt kredītiestādes filiāles vai pārstāvniecības;
@@ -41,7 +41,7 @@
 17) pārstāvēt kredītiestādi kriminālprocesā un lūgt, lai attiecīgajiem kredītiestādes pārstāvjiem tiktu noteikts drošības līdzeklis, ja sakarā ar konkrēto maksātnespējas lietu ir ierosināta krimināllieta;
 18) pieprasīt un saņemt no kreditoriem un citām personām prasību un citu pretenziju tulkojumus Latvijas Republikas valsts valodā;
 19) pieaicināt speciālistus, lai saņemtu grāmatvedības, audita un juridiskos pakalpojumus, kā arī nodrošinātu kredītiestādes interešu vai administratora pārstāvību valsts pārvaldes un tiesu iestādēs un saņemtu citus pakalpojumus, kas nepieciešami, lai nodrošinātu efektīva maksātnespējas procesa norisi;
-20) sasaukt kreditoru sapulci, lai izskatītu jautājumu par administratora un administratora palīga kopējās proporcionālās atlīdzības un citu ar maksātnespējas procesu saistītu izdevumu apmēra noteikšanu.
+20) sasaukt kreditoru sapulci, lai izskatītu jautājumu par administratora un administratora palīga kopējās proporcionālās atlīdzības un citu ar maksātnespējas procesu saistītu izdevumu apmēra noteikšanu, kā arī citus ar maksātnespējas procesu saistītus jautājumus, kurus izskatīšanai izvirza administrators.
 (5) Ja administrators pēc kredītiestādes pasludināšanas par maksātnespējīgu lauž darba līgumu ar kredītiestādes darbiniekiem, par darba līguma laušanas tiesisko pamatu uzskatāmi Darba likuma 101.panta pirmās daļas 9. un 10.punkta noteikumi, ja nav cita likumiska pamata darba līguma laušanai. Darba līguma izbeigšanas gadījumā atlaistie darbinieki iegūst kreditoru statusu:
 1) neizmaksātās darba samaksas un ar to saistīto nesaņemto maksājumu apmērā;
 2) kaitējuma atlīdzības apmērā sakarā ar nelaimes gadījumu darbā vai arodslimību par visu nesamaksāto periodu un to maksājumu apmērā, kas izdarāmi par trim gadiem uz priekšu valsts sociālās apdrošināšanas speciālajā budžetā, ja nelaimes gadījums darbā noticis vai arodslimība iegūta līdz 1997.gada 1.janvārim.

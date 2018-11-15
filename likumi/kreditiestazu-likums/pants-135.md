@@ -7,6 +7,9 @@
 (2¹) Likvidatora un likvidatora palīga kopējās ikmēneša atlīdzības apmērs nedrīkst pārsniegt 100 000 euro.
 (3) Attiecībā uz naudas līdzekļiem, kas atgūti tiesvedības ceļā, šā panta otrajā daļā noteiktajai atlīdzībai tiek piemērots koeficients par sarežģītību 1,25 tajā izmaksājamās atlīdzības daļā, kas proporcionāli atbilst kopējo tiesvedības ceļā atgūto līdzekļu apmēram.
 (4) Attiecībā uz naudas līdzekļiem, kas atgūti tiesvedības ceļā, atzīstot pretēji kredītiestādes interesēm noslēgtu darījumu par spēkā neesošu vai atceļamu, šā panta otrajā daļā noteiktajai atlīdzībai tiek piemērots koeficients par sarežģītību 1,5 tajā izmaksājamās atlīdzības daļā, kas proporcionāli atbilst kopējo tiesvedības ceļā atgūto līdzekļu apmēram.
-(5) Ja likvidācijā, kuru veic saskaņā ar tiesas nolēmumu, nekādi naudas līdzekļi kreditoriem netiek izmaksāti un iestājas šā likuma 138.pantā minētie apstākļi, par likvidatora veiktajām darbībām līdz lēmuma pieņemšanai par kredītiestādes bankrota procedūras uzsākšanu, likvidatora un likvidatora palīga kopējās vienreizējās atlīdzības apmērs ir 10 minimālās mēnešalgas.
+(5) (Izslēgta ar 01.11.2018. likumu)
 (6) Likvidators sedz izdevumus atlīdzībai šā likuma 161.panta ceturtās daļas 19.punktā minētajām personām un citus ar likvidācijas procesu saistītus izdevumus, kas nav minēti šā likuma 134.panta otrajā daļā, ja kreditoru sapulce ar likvidatoru nav vienojusies par citu izdevumu segšanas kārtību.
-(7) Likvidācijas procesa ietvaros kreditoru sapulces sasaukšanu un lēmumu pieņemšanu par šajā pantā minētajiem jautājumiem likvidators nodrošina saskaņā ar šā likuma 179.² panta otro un trešo daļu, 179.³ pantu, 179.⁴ panta pirmās daļas 1.punktu un 5.punktu, 179.⁵ pantu, 179.⁶ pantu, 179.⁷ panta otro un ceturto daļu, 179.⁸ pantu un 179.⁹ pantu.
+(7) Likvidācijas procesā, kurš uzsākts ar tiesas nolēmumu vai maksātnespējas procesa ietvaros, kreditoru sapulces sasaukšanu un lēmumu pieņemšanu likvidators un administrators nodrošina saskaņā ar šā likuma 135.¹, 135.², 135.³, 135.⁴, 135.⁵, 135.⁶ un 135.⁷ pantu.
+(8) Administratoram vai likvidatoram ir tiesības sasaukt kreditoru sapulci:
+1) pēc savas iniciatīvas;
+2) ja to pieprasa kreditori.

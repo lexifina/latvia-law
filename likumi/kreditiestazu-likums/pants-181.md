@@ -1,3 +1,0 @@
-181.pants. (1) Lēmumu par sanācijas piemērošanu, sanācijas plānu un turpmākos lēmumus par grozījumiem šajā plānā Finanšu un kapitāla tirgus komisija apstiprina 15 dienu laikā no to iesniegšanas dienas un administrators nodod tos apstiprināšanai kreditoru sapulcē.
-(2) Ja Finanšu un kapitāla tirgus komisija vai kreditoru sapulce neapstiprina sanācijas plānu, kā arī ja sanācija tiek atcelta vai pārtraukta, administrators pieņem lēmumu par bankrota procedūras uzsākšanu.
-(3) Ja Finanšu un kapitāla tirgus komisija vai kreditoru sapulce neapstiprina lēmumu par grozījumiem sanācijas plānā, sanācija turpināma pēc iepriekšējā apstiprinātā plāna.
