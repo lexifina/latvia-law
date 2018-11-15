@@ -1,0 +1,1 @@
+1. pants. 1970. gada 14. novembra UNESCO Konvencija par kultūras priekšmetu nelikumīgas ievešanas, izvešanas un īpašumtiesību maiņas aizliegšanu un novēršanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
