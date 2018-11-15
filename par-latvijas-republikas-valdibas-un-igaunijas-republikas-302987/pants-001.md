@@ -1,0 +1,1 @@
+1. pants. 2018. gada 21. augustā parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības līgums par iedzīvotāju reģistrā iekļauto datu apmaiņu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
