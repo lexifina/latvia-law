@@ -7,3 +7,4 @@
 (2) Valsts amatpersonas, izņemot šā panta trešajā un ceturtajā daļā minētās valsts amatpersonas, deklarācijas iesniedz Valsts ieņēmumu dienestam elektroniskā veidā, izmantojot Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmu.
 (3) Valsts drošības iestādēs strādājošās valsts amatpersonas, izņemot Satversmes aizsardzības biroja direktoru, deklarācijas iesniedz Satversmes aizsardzības biroja direktoram.
 (4) Korupcijas novēršanas un apkarošanas biroja priekšnieks deklarācijas iesniedz Ministru prezidentam vai viņa pilnvarotai personai.
+(5) Šīs nodaļas noteikumi neattiecas uz šā likuma 4. panta trešajā daļā minētajām valsts amatpersonām.
