@@ -1,0 +1,1 @@
+7. pants. Augstskolas uzdevums ir izglītot speciālistus, piedāvāt viņiem iespēju celt kvalifikāciju un tālākizglītoties, veikt fundamentālus un lietišķus pētījumus, informēt sabiedrību par zinātniskās pētniecības rezultātiem, kā arī iesaistīties zināšanu pārnesē.

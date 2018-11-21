@@ -1,0 +1,1 @@
+16. pants. Rektors ir Augstskolas augstākā amatpersona, kas īsteno Augstskolas vispārējo administratīvo vadību un bez īpaša pilnvarojuma pārstāv Augstskolu. Augstskolas rektora amatā var ievēlēt ārvalsts pilsoni.

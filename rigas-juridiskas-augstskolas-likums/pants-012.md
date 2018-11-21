@@ -1,0 +1,1 @@
+12. pants. Satversmes sapulce ir augstākā Augstskolas akadēmiskās un zinātniskās darbības pārstāvības un vadības institūcija un lēmējinstitūcija. Satversmes sapulces pārstāvju vēlēšanas organizē Augstskolas valde.

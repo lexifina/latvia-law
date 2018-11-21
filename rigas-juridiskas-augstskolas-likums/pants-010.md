@@ -1,0 +1,1 @@
+10. pants. Valde ir dalībnieku izveidota institūcija, kuras sastāvu un izveidošanas kārtību nosaka Augstskolas statūti un Komerclikums. Valdes darbību un kompetenci nosaka šis likums, Komerclikums, Augstskolas statūti un Augstskolas satversme.

@@ -1,0 +1,1 @@
+1. pants. Rīgas Juridiskā augstskola (turpmāk - Augstskola) ir izveidota saskaņā ar līgumu, ko 1997. gada 14. jūlijā noslēdza Latvijas Republikas valdība, Zviedrijas Karalistes valdība un Sorosa fonds - Latvija.

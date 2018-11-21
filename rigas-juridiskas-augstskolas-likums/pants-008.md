@@ -1,0 +1,1 @@
+8. pants. Dalībnieki ir Augstskolas augstākā vadības institūcija un lēmējinstitūcija stratēģiskajos, finanšu un saimnieciskajos jautājumos, kā arī jautājumos, kas saistīti ar Augstskolas stratēģiskajiem, finanšu un saimnieciskajiem jautājumiem vai izriet no tiem.

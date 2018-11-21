@@ -1,0 +1,1 @@
+6. pants. Augstskolas darbības galvenais mērķis ir sniegt studējošajiem iespēju iegūt akadēmiskos grādus un profesionālos grādus un profesionālo kvalifikāciju sociālo zinātņu un ar tām saistītajās starpdisciplinārajās jomās.

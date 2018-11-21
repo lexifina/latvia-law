@@ -1,0 +1,1 @@
+14. pants. Senāts ir Augstskolas personāla koleģiāla vadības institūcija un lēmējinstitūcija, kas apstiprina kārtību un noteikumus, kuri regulē Augstskolas darbības jomas (izskata un apstiprina studiju programmas, dibina un likvidē struktūrvienības u. c.). Senāta darbību un kompetenci reglamentē satversmes sapulces apstiprināts nolikums.

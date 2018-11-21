@@ -1,0 +1,1 @@
+25. pants. Uz Augstskolas personālu nav attiecināmas normatīvajos aktos noteiktās prasības par valsts valodas zināšanu līmeni. Augstskola nodrošina dokumentu apriti un saziņu ar valsts iestādēm un privātpersonām valsts valodā.

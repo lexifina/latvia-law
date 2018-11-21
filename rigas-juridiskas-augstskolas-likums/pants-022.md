@@ -1,0 +1,1 @@
+22. pants. Augstskolā bakalaura, maģistra un doktora grāda ieguvei nepieciešamos darbus var izstrādāt un aizstāvēt, kā arī kārtot profesionālās kvalifikācijas eksāmenus, izņemot valsts eksāmenu Augstskolu likumā noteiktās otrā līmeņa profesionālās augstākās izglītības studiju programmās, kādā no Eiropas Savienības oficiālajām valodām.
