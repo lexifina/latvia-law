@@ -16,3 +16,4 @@
 2) uzrauga, lai aizgādnis Civilprocesa likuma 270.² panta otrās daļas noteiktajā termiņā iesniedz tiesā pieteikumu par obligāto rīcībspējas ierobežojuma pārskatīšanu personai ar rīcībspējas ierobežojumu, kā arī sniedz tiesai informāciju, kurai ir nozīme lietā par rīcībspējas ierobežojuma pārskatīšanu;
 3) informē prokuratūru, ja aizgādņa kavēšanās dēļ ir nepieciešama rīcībspējas ierobežojuma pārskatīšana aizgādnībā esošās personas interesēs;
 4) izšķir domstarpības starp aizgādnībā esošo personu un tās aizgādni un, ja nepieciešams, pieņem lēmumu. Ja aizgādnībā esošā persona vai tās aizgādnis uzskata pieņemto lēmumu par nepareizu, prasību tiesā var celt Civilprocesa likumā noteiktajā kārtībā.
+(7) Bāriņtiesa lemj par aizgādņa tiesību un pienākumu apjoma grozīšanu vai aizgādņa atcelšanu atbilstoši tiesas spriedumā par personas rīcībspējas ierobežojumu pārskatīšanu noteiktajam.

@@ -1,0 +1,1 @@
+20. Grozījums šā likuma 7. pantā par tā papildināšanu ar ceturto daļu, kas paredz prasības par nepieciešamo izglītību vismaz vienai personai bāriņtiesas sastāvā, un grozījums šā likuma 48. panta trešajā daļā par pašvaldības domes nodrošinātā juridiskā atbalsta attiecināšanu uz šā likuma VII un VIII nodaļā noteikto uzdevumu izpildi stājas spēkā 2021. gada 1. janvārī.

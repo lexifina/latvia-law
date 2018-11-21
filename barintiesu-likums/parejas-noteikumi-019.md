@@ -1,1 +1,1 @@
-19. Šā likuma 43.¹ pants stājas spēkā 2019. gada 1. janvārī.
+19. Šā likuma 43.¹ pants stājas spēkā 2020. gada 1. janvārī.

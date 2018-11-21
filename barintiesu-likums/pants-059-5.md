@@ -1,0 +1,2 @@
+59.⁵ pants. Aizgādņa iecelšana personai
+Aizgādni personai, kurai ar tiesas nolēmumu ir nodibināta aizgādnība, ieceļ tā bāriņtiesa, kuras darbības teritorijā ir deklarēta šīs personas dzīvesvieta, bet, ja deklarētās dzīvesvietas nav, - tā bāriņtiesa, kuras darbības teritorijā ir šīs personas dzīvesvieta. Ja persona ievietota ārstniecības iestādē, aizgādni ieceļ tā bāriņtiesa, kuras darbības teritorijā atrodas ārstniecības iestāde.

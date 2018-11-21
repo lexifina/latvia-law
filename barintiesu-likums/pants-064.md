@@ -1,5 +1,6 @@
 64.pants. Darījuma apliecināšana
 (1) Pirms darījuma apliecināšanas bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis darījuma akta projektu nolasa darījuma dalībniekiem un jautā, vai darījuma dalībnieki piekrīt tā noteikumiem un vai tā saturs viņiem ir zināms un saprotams. Ja atbilde ir apstiprinoša, darījuma dalībnieki paraksta darījuma akta projektu vai atzīst to par pašrocīgi parakstītu.
+(1¹) Apliecinot darījumu, kura priekšmets ir zemesgrāmatā ierakstītas vai ierakstāmas tiesības, bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis darījuma apliecināšanas brīdī pārbauda datus zemesgrāmatas nodalījumā.
 (2) Uz darījuma akta projekta izdara apliecinājuma uzrakstu, kurā norāda:
 1) apliecināšanas gadu, mēnesi un dienu;
 2) bāriņtiesas nosaukumu;

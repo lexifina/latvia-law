@@ -1,0 +1,1 @@
+21. Ja bāriņtiesas sastāvā ir persona, kura iegūst šā likuma 7. panta ceturtajā daļā noteikto izglītību, bet līdz 2021. gada 1. janvārim to vēl nav ieguvusi, šai personai ir tiesības turpināt pildīt bāriņtiesas locekļa pienākumus līdz pilnvaru termiņa beigām.

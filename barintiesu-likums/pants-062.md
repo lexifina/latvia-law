@@ -1,3 +1,4 @@
 62.pants. Personas, kuru darījumus apliecina bāriņtiesa
 (1) Bāriņtiesa apliecina darījumu, ja tai ir noteikti zināms, ka darījuma dalībnieki ir pilngadīgi un rīcībspējīgi.
 (2) Ja bāriņtiesai nav pazīstama persona, kurai izdarāms apliecinājums vai kura identificējama cita iemesla dēļ, bāriņtiesa noskaidro šīs personas identitāti pēc personas pases. Apliecinājumā norāda, kādā veidā ir noskaidrota personas identitāte.
+(3) Izdarot apliecinājumus, saskaņā ar kuriem bāriņtiesas priekšsēdētājam, bāriņtiesas priekšsēdētāja vietniekam vai bāriņtiesas loceklim ir pienākums pārbaudīt personu identitāti, bāriņtiesas priekšsēdētājs, bāriņtiesas priekšsēdētāja vietnieks vai bāriņtiesas loceklis apliecinājuma izdarīšanas dienā pārbauda personas datus Iedzīvotāju reģistrā un Nederīgo dokumentu reģistrā un izdara par to atzīmi apliecinājumā.

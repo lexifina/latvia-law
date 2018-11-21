@@ -4,8 +4,9 @@
 (3) Ja bērna vecāku dzīvesvieta ir deklarēta dažādu pašvaldību administratīvajās teritorijās, lēmumu par bērna ārpusģimenes aprūpi pieņem bāriņtiesa, kuras darbības teritorijā ir deklarēta dzīvesvieta tam vecākam, pie kura bērns dzīvo.
 (4) Ja bērna vecākiem nav deklarētas dzīvesvietas, lēmumu par ārpusģimenes aprūpi pieņem tās pašvaldības bāriņtiesa, kuras darbības teritorijā bērna vecāki faktiski dzīvo.
 (5) Ja bērna vecāki nav zināmi vai bērns ir atradenis, lēmumu par bērna ārpusģimenes aprūpi pieņem bāriņtiesa, kuras darbības teritorijā bērns ir atrasts.
+(5¹) Ja lietas piekritība par Latvijas valstspiederīgo bērnu, kurš šķirts no ģimenes ārvalstīs, tiek nodota Latvijas kompetentajai iestādei, lēmumu par ārpusģimenes aprūpi pieņem tās pašvaldības bāriņtiesa, kuras darbības teritorijā ir bijusi deklarēta bērna vecāka dzīvesvieta pirms došanās uz ārvalstīm.
 (6) Bāriņtiesa, kura pieņēma lēmumu par bērna ārpusģimenes aprūpi, lemj par:
-1) aizliegumu bērnam satikties ar vecākiem vai tuviem radiniekiem;
+1) personisku attiecību un tiešu kontaktu uzturēšanas tiesību ierobežošanu bērnam ar vecākiem, kā arī ar brāļiem, māsām, vecvecākiem un personām, ar kurām bērns ilgu laiku ir dzīvojis nedalītā saimniecībā;
 2) bērna uzturēšanos pie vecākiem vai citā ģimenē;
 3) bērna uzturēšanos citā ģimenē ārvalstī;
 4) atļauju rīkoties ar bērna mantu;

@@ -19,3 +19,4 @@
 2) pieprasa vecāka dzīvesvietas sociālajam dienestam atzinumu par iespējām bērnam atgriezties vecāka aizgādībā;
 3) pieprasa no audžuģimenes, aizbildņa vai ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas informāciju par bērna un vecāka saskarsmi, garīgo un materiālo atbalstu bērna audzināšanā ārpusģimenes aprūpes laikā;
 4) pieprasa citu informāciju, kas nepieciešama, lai pieņemtu pamatotu lēmumu.
+(6) Bāriņtiesa lemj par prasības iesniegšanu tiesā aizgādības tiesību atņemšanai pirms Civillikuma 203. panta ceturtajā daļā paredzētā gada termiņa, ja tas ir bērna interesēs, it īpaši, ja vecākam iepriekš ir atņemtas cita bērna aizgādības tiesības.
