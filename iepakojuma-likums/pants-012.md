@@ -4,4 +4,5 @@
 3) izlietotā iepakojuma reģenerācija:
 a) izlietotā iepakojuma pārstrāde, arī organiskā pārstrāde [bioloģiski noārdāmo izlietotā iepakojuma sastāvdaļu novietošana aerobā (kompostēšana) vai anaerobā (biometanizācija) vidē kontrolētos apstākļos, izmantojot mikroorganismus] stabilu organisko pārpalikumu vai metāna izdalīšanai, izņemot apglabāšanu atkritumu izgāztuvē vai poligonā,
 b) enerģijas ieguve;
-4) izlietotā iepakojuma apglabāšana tādā veidā, kas neapdraud cilvēka dzīvību un veselību, vidi, kā arī personu īpašumu.
+4) izlietotā iepakojuma apglabāšana tādā veidā, kas neapdraud cilvēka dzīvību un veselību, vidi, kā arī personu īpašumu;
+5) plastmasas iepirkumu maisiņu patēriņa samazināšana.
