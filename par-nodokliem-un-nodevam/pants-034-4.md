@@ -4,9 +4,14 @@
 2) nerezidents (ārvalsts komersants) tīmekļa vietni izmanto Latvijas ekonomiskajā vidē, un tam saskaņā ar normatīvajiem aktiem veidojas pastāvīgā pārstāvniecība, bet tas nav reģistrējis pastāvīgo pārstāvniecību vai nav komercreģistrā reģistrējis filiāli;
 3) nodokļu maksātājs tīmekļa vietni izmanto saimnieciskās darbības veikšanai Latvijas ekonomiskajā vidē un nav reģistrējis tīmekļa vietni kā struktūrvienību;
 4) nav ievērota kāda no šā likuma 15.³ panta prasībām;
-5) nodokļu maksātājam ir apturēta saimnieciskā darbība saskaņā ar šā likuma 34.¹ pantu, ja tīmekļa vietne ir struktūrvienība šā likuma 1.panta 24.punkta izpratnē.
-(2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par domēna vārda atslēgšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 4.punktā (ja netiek ievērota neviena no šā likuma 15.³ panta prasībām) vai 5.punktā minētais pārkāpums.
-(3) Piecu darbdienu laikā pēc šā panta pirmās daļas 4.punktā (ja netiek ievērota neviena no šā likuma 15.³ panta prasībām) vai 5.punktā minētā pārkāpuma konstatācijas Valsts ieņēmumu dienests pieņem lēmumu par domēna vārda atslēgšanu.
+5) nodokļu maksātājam ir apturēta saimnieciskā darbība saskaņā ar šā likuma 34.¹ pantu, ja tīmekļa vietne ir struktūrvienība šā likuma 1.panta 24.punkta izpratnē;
+6) nav ievērota kāda no šā likuma 15.³ panta vai Informācijas sabiedrības pakalpojumu likuma 4. panta pirmās daļas prasībām, un tādēļ preču pārdevējs vai pakalpojumu sniedzējs nav identificējams;
+7) tīmekļvietnē piedāvā (ar iespēju vai bez iespējas nopirkt tiešsaistē) preces vai pakalpojumus, kuru distances tirdzniecība ir aizliegta;
+8) nodokļu maksātājs nepilda šā likuma 15. panta sestajā vai astotajā daļā noteikto pienākumu un Valsts ieņēmumu dienesta noteiktajā termiņā nesniedz pieprasīto informāciju.
+(2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par domēna vārda atslēgšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 5. vai 6. punktā minētais pārkāpums.
+(3) Valsts ieņēmumu dienests pieņem lēmumu par domēna vārda atslēgšanu piecu darbdienu laikā:
+1) pēc šā panta pirmās daļas 5. vai 6. punktā minētā pārkāpuma konstatācijas;
+2) pēc šā panta pirmās daļas 1., 2., 3., 4., 7. vai 8. punktā minētā pārkāpuma konstatācijas, ja iepriekšējo 12 mēnešu laikā nodokļu maksātājs šā panta otrajā daļā noteiktajā kārtībā ir brīdināts par analoģisku tīmekļvietnē konstatētu pārkāpumu.
 (4) Valsts ieņēmumu dienests pieņem lēmumu par domēna vārda atslēgšanu 15 dienu laikā pēc šā panta otrajā daļā minētā rakstveida brīdinājuma paziņošanas, ja nodokļu maksātājs nav novērsis tajā norādītos pārkāpumus.
 (5) Šā panta pirmās daļas izpratnē ar saimnieciskās darbības veikšanu Latvijas ekonomiskajā vidē saprot saimniecisko darbību, kuras rezultātā saimnieciskās darbības veicējam rodas vai var rasties pienākums maksāt nodokli Latvijas Republikā.
 (6) Pēc šā panta pirmajā daļā minētā lēmuma pieņemšanas, ievērojot šā panta otrajā, trešajā un ceturtajā daļā minētos nosacījumus, Valsts ieņēmumu dienesta amatpersona normatīvajos aktos noteiktajā kārtībā nosūta augstākā līmeņa domēna ".lv" reģistra turētājam pieprasījumu par Valsts ieņēmumu dienesta pieņemtā lēmuma izpildi.
