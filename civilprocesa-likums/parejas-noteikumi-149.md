@@ -1,0 +1,3 @@
+149. Līdz dienai, kad Civilprocesa likumā stājas spēkā grozījumi, kas paredz pieteikumus par bezstrīdus piespiedu izpildīšanu iesniegt tikai elektroniski, Rīgas pilsētas Vidzemes priekšpilsētas tiesa izskata pieteikumus par bezstrīdus piespiedu izpildīšanu:
+1) naudas maksājumu saistībās, kustamās mantas atdošanas saistībās vai saistībās pēc līgumiem, kas nodrošinātas ar komercķīlu, ja parādnieka deklarētā dzīvesvieta, bet, ja tādas nav, - dzīvesvieta vai juridiskā adrese ir Rīgas pilsētas administratīvajā teritorijā;
+2) pēc nekustamā īpašuma ieķīlājuma aktiem un pēc saistībām atstāt vai atdot nomāto vai īrēto nekustamo īpašumu, ja nekustamais īpašums atrodas Rīgas pilsētas administratīvajā teritorijā.

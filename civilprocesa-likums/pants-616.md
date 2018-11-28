@@ -1,4 +1,4 @@
 616.pants. Otrā izsole
 (1) Otro izsoli izziņo un rīko, ievērojot pirmās izsoles noteikumus. Tomēr nekustamā īpašuma solīšana sākas no summas, kas atbilst 75 procentiem no sākumcenas pirmajā izsolē.
 (2) (Izslēgta ar 17.12.2009. likumu)
-(3) Ja otrā izsole nav notikusi un neviens nav vēlējies paturēt nekustamo īpašumu sev, nekustamais īpašums paliek iepriekšējā īpašnieka īpašumā un piedziņas atzīme zemesgrāmatā dzēšama.
+(3) Ja otrā izsole nav notikusi šā likuma 614. panta pirmās daļas 1. un 2. punktā paredzētā iemesla dēļ un neviens nav vēlējies paturēt nekustamo īpašumu sev, nekustamais īpašums paliek iepriekšējā īpašnieka īpašumā un piedziņas atzīme zemesgrāmatā dzēšama. Ja otrā izsole nav notikusi šā likuma 614. panta pirmās daļas 3. punktā paredzētā iemesla dēļ un pēdējais pārsolītais solītājs nav šā likuma 615. panta otrajā daļā noteiktajā kārtībā paziņojis par nekustamā īpašuma paturēšanu vai atteicies paturēt nekustamo īpašumu sev vai ja otrā izsole atzīta par nenotikušu šā likuma 614. panta pirmās daļas 4. punktā paredzētā iemesla dēļ, tiesu izpildītājs nekavējoties izsludina atkārtotu otro izsoli.

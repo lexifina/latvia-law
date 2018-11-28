@@ -1,0 +1,1 @@
+150. Līdz dienai, kad Civilprocesa likumā stājas spēkā grozījumi, kas paredz pieteikumus par saistības piespiedu izpildīšanu brīdinājuma kārtībā iesniegt tikai elektroniski, Rīgas pilsētas Vidzemes priekšpilsētas tiesa izskata pieteikumus, ja parādnieka deklarētā dzīvesvieta, bet, ja tādas nav, - dzīvesvieta vai juridiskā adrese ir Rīgas pilsētas administratīvajā teritorijā.

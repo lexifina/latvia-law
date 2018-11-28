@@ -1,1 +1,1 @@
-146. Grozījumi šā likuma 620. panta ceturtajā daļā par naudas soda apmēra palielināšanu un piektajā daļā par iesnieguma iesniegšanu kriminālprocesa uzsākšanai, ja parādnieks turpina nepildīt spriedumu pēc naudas soda uzlikšanas, stājas spēkā 2019. gada 1. jūlijā.
+146. Šā likuma 341.² panta otrās daļas 3. punktu un 363.¹¹ panta ceturtās daļas otro teikumu piemēro tiesiskās aizsardzības procesa lietām, kas uzsāktas pēc 2018. gada 30. jūnija.
