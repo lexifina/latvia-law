@@ -1,1 +1,1 @@
-47. 2016., 2017. un 2018.gadā finansējums Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam un vēsturiskā mantojuma dzelzceļam nedrīkst būt mazāks par finansējumu, kāds attiecīgi piešķirts 2015.gadam.
+47. 2016., 2017., 2018., 2019., 2020. un 2021. gadā finansējums Transporta nelaimes gadījumu un incidentu izmeklēšanas birojam un vēsturiskā mantojuma dzelzceļam nedrīkst būt mazāks par finansējumu, kāds attiecīgi piešķirts 2015.gadam.
