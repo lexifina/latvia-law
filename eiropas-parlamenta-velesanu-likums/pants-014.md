@@ -11,7 +11,7 @@ c) kandidāts miris;
 3) nav tiesīgs kandidēt Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir, - apliecina attiecīgās Eiropas Savienības dalībvalsts kompetentā iestāde;
 4) ir persona, kurai likumā paredzētajā kārtībā tiesa ir nodibinājusi aizgādnību, apliecina Pilsonības un migrācijas lietu pārvalde;
 5) izcieš sodu brīvības atņemšanas vietā vai ir bijis sodīts par smagu vai sevišķi smagu noziegumu un sodāmība nav dzēsta vai noņemta, - apliecina Iekšlietu ministrijas Informācijas centrs;
-6) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradies nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīgā nodarījuma izdarīšanas saslimis ar psihisku slimību, kas viņam atņēmusi iespēju saprast savu rīcību vai to vadīt, - apliecina Iekšlietu ministrijas Informācijas centrs;
+6) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradies nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīgā nodarījuma izdarīšanas saslimis ar psihisku slimību, kas viņam atņēmusi iespēju saprast savu rīcību vai to vadīt, un sakarā ar to viņam piemērots medicīniska rakstura piespiedu līdzeklis, kas nav atcelts, - apliecina Iekšlietu ministrijas Informācijas centrs;
 7) līdz vēlēšanu dienai nav sasniedzis 21 gada vecumu vai ziņas par viņu nav iekļautas vēlētāju reģistrā, - apliecina Pilsonības un migrācijas lietu pārvalde;
 8) miris, - apliecina Pilsonības un migrācijas lietu pārvalde.
 (4) Šā panta trešajā daļā minētajām Latvijas Republikas valsts pārvaldes iestādēm attiecīgās ziņas rakstveidā bez maksas jāiesniedz Centrālajai vēlēšanu komisijai triju darbdienu laikā pēc tās pieprasījuma saņemšanas.
