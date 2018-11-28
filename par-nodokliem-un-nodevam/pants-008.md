@@ -1,7 +1,7 @@
 8.pants. Valsts nodokļu veidi un tiem atbilstošie likumi
 Latvijas Republikā ir šādi valsts nodokļi un tiem atbilstošie likumi par nodokļu uzlikšanu:
 1) iedzīvotāju ienākuma nodoklis - "Par iedzīvotāju ienākuma nodokli";
-2) uzņēmumu ienākuma nodoklis - "Par uzņēmumu ienākuma nodokli";
+2) uzņēmumu ienākuma nodoklis - Uzņēmumu ienākuma nodokļa likums;
 3) nekustamā īpašuma nodoklis - "Par nekustamā īpašuma nodokli";
 4) pievienotās vērtības nodoklis - Pievienotās vērtības nodokļa likums;
 5) akcīzes nodoklis - "Par akcīzes nodokli";
