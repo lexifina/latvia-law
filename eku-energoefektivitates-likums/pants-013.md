@@ -7,5 +7,5 @@
 5) ja ēka ir dzīvojamā māja, pievieno dzīvojamās mājas lietai saskaņā ar šo likumu sagatavotos dokumentus (piemēram, ēkas energosertifikātu, atzinumus);
 6) nodrošina nepieciešamos apstākļus un attiecīgu dokumentāciju, ja īrniekam vai nomniekam nepieciešama ēkas vai ēkas daļas energosertifikācija.
 (2) Ēkas īpašnieks normatīvajos aktos noteiktajā kārtībā un apmērā ir tiesīgs saņemt Eiropas Savienības fondu, valsts un pašvaldību līdzfinansējumu ēkas energosertifikācijai, kā arī ēkas energoefektivitātes uzlabošanas pasākumiem.
-(3) Šā panta pirmās daļas 3. punktā minēto pienākumu izpildes uzraudzību un kontroli atbilstoši savai kompetencei veic Būvniecības valsts kontroles birojs.
+(3) Šā panta pirmās daļas 3. punktā minēto pienākumu izpildes uzraudzību un kontroli atbilstoši savai kompetencei veic Būvniecības valsts kontroles birojs. Lēmuma pieņemšana un izpilde attiecībā uz privātpersonu un atvasinātu publisku personu notiek Administratīvā procesa likumā noteiktajā kārtībā.
 (4) Šā panta pirmās daļas 4. punktā un 14. panta pirmajā un otrajā daļā minēto pienākumu izpildes uzraudzību un kontroli veic Patērētāju tiesību aizsardzības centrs, ievērojot reklāmu un patērētāju tiesību aizsardzību regulējošos normatīvos aktus.
