@@ -12,7 +12,7 @@
 (5) Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.
 (6) Komisijai ir tiesības uzlikt personai soda naudu no 14 200 līdz 142 300 euro, ja persona ieguvusi vai palielinājusi būtisku līdzdalību pārvaldniekā pirms šā likuma 12.panta otrajā vai ceturtajā daļā minētā paziņojuma iesniegšanas Komisijai vai tā izskatīšanas laikā.
 (7) Ja persona nesniedz Komisijai informāciju vai neierodas Komisijā un nesniedz informāciju klātienē pēc šā likuma 81.panta septītās daļas 8.punktā minētā Komisijas pieprasījuma, Komisijai ir tiesības izteikt šai personai brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
-(8) Par Regulas Nr. 345/2013 21.pantā vai Regulas Nr. 346/2013 22.pantā minētajiem pārkāpumiem Komisijai ir tiesības uzlikt pārvaldniekam soda naudu no 14 200 līdz 142 300 euro.
+(8) Par Regulas Nr. 345/2013, Regulas Nr. 346/2013 un Regulas Nr. 2017/1131 pārkāpumiem Komisija izsaka brīdinājumu pārvaldniekam vai uzliek soda naudu no 14 200 līdz 142 300 euro un nosaka termiņu, kādā pārvaldnieks novērš konstatēto pārkāpumu.
 (9) Par citu šā likuma prasību neievērošanu Komisijai ir tiesības personai, kas nav izpildījusi tai uzlikto pienākumu, izteikt brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
 (10) Komisija ir tiesīga atbilstoši Regulas Nr. 1286/2014 24. pantam par regulas pārkāpumiem piemērot šādas sankcijas un uzraudzības pasākumus:
 1) izteikt brīdinājumu, kurā norādīta par pārkāpumu atbildīgā persona un pārkāpuma būtība;

@@ -1,0 +1,9 @@
+86.¹ pants. Ziņošana par iespējamiem un faktiskiem tiesību aktu pārkāpumiem
+(1) Par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem ikviena persona var ziņot Komisijai.
+(2) Komisija izveido un uztur efektīvu un uzticamu ziņošanas sistēmu, kas ietver vismaz šādus elementus:
+1) kārtību, kādā tiek saņemti ziņojumi par pārkāpumiem un veicama turpmākā rīcība;
+2) saskaņā ar normatīvajiem aktiem par fizisko personu datu aizsardzību tādas personas datu aizsardzību, kura ziņo par pārkāpumu, kā arī tādas fiziskās personas aizsardzību, par kuru ir aizdomas sakarā ar pārkāpuma izdarīšanu;
+3) noteikumus par tādas personas konfidencialitātes nodrošināšanu, kura ziņo par pārkāpumu, izņemot gadījumu, kad šādu ziņu izpaušanu paredz tiesību akti.
+(3) Kārtību, kādā tiek ziņots par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem un kādā Komisijā saņemtie ziņojumi tiek apstrādāti, nosaka Komisijas normatīvie noteikumi.
+(4) Ziņošana, ko saskaņā ar šā panta pirmo daļu veic persona par tās darbavietā izdarītiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem, nav uzskatāma par līgumā un jebkurā normatīvajā aktā noteiktā aizlieguma izpaust informāciju pārkāpumu, un persona nav atbildīga par šādu ziņošanu. Pret personu, kura ziņo par tās darbavietā izdarītiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem, nedrīkst vērst diskriminējošas vai citas netaisnīgas darbības.
+(5) Pārvaldnieks, kas pārvalda alternatīvo ieguldījumu fondu, kura ieguldījuma daļas drīkst izplatīt arī tādam ieguldītājam, kas nav profesionāls ieguldītājs, izstrādā iekšējo procedūru, nosakot kārtību, kādā darbinieki tam ziņo par Regulas Nr. 1286/2014 pārkāpumiem pārvaldniekā.
