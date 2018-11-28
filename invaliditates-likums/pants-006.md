@@ -11,5 +11,5 @@ c) III invaliditātes grupu - mēreni izteikta invaliditāte;
 a) I invaliditātes grupu, ja darbspēju zaudējums ir 80-100 procentu apmērā, - ļoti smaga invaliditāte,
 b) II invaliditātes grupu, ja darbspēju zaudējums ir 60-79 procentu apmērā, - smaga invaliditāte,
 c) III invaliditātes grupu, ja darbspēju zaudējums ir 25-59 procentu apmērā, - mēreni izteikta invaliditāte;
-2) personām pēc valsts vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanas, pirmreizēji veicot invaliditātes ekspertīzi, izvērtē funkcionēšanas ierobežojumu, tā pakāpi un nosaka I invaliditātes grupu - ļoti smaga invaliditāte, II invaliditātes grupu - smaga invaliditāte vai III invaliditātes grupu - mēreni izteikta invaliditāte, kā arī sakarā ar to nepieciešamos atbalsta pasākumus.
-(4) Personām pēc valsts vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanas, atkārtoti veicot invaliditātes ekspertīzi, saglabā personas ar invaliditāti statusu arī tad, ja funkcionēšanas ierobežojumi, atbilstoši kuriem noteikta invaliditāte, ir saistīti ar objektīvām vecuma izraisītām pārmaiņām organismā, kuras konstatētas pirms pensijas vecuma sasniegšanas.
+2) personām pēc valsts vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanas, veicot invaliditātes ekspertīzi, izvērtē funkcionēšanas ierobežojumu, tā pakāpi un nosaka I invaliditātes grupu - ļoti smaga invaliditāte, II invaliditātes grupu - smaga invaliditāte vai III invaliditātes grupu - mēreni izteikta invaliditāte, kā arī sakarā ar to nepieciešamos atbalsta pasākumus.
+(4) (Izslēgta ar 01.11.2018. likumu)
