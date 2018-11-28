@@ -1,0 +1,1 @@
+6. Grozījums šā likuma 9. panta pirmās daļas 1. punktā un 14. panta pirmās daļas 2. punktā par vārdu "Drošības policija" (attiecīgā locījumā) aizstāšanu ar vārdiem "Valsts drošības dienests" (attiecīgā locījumā) stājas spēkā 2019. gada 1. janvārī.

@@ -10,8 +10,11 @@
 6) identificējamiem noziedzīgā ceļā atsavinātiem vai pazudušiem finanšu instrumentiem un maksāšanas līdzekļiem.
 (4) Lēmumu par ziņojuma iekļaušanu Sistēmā pieņem operatīvās darbības subjekts konkrētā operatīvās darbības procesa ietvaros attiecībā uz ziņojumu par:
 1) bez vēsts pazudušām personām, ko meklē, lai noskaidrotu to atrašanās vietu;
-2) pazudušām personām, ko meklē, lai draudu novēršanas nolūkā uz laiku aizsargātu;
+2) bez vēsts pazudušām personām, ko meklē, lai draudu novēršanas nolūkā uz laiku aizsargātu;
 3) personām, transportlīdzekļiem, kuģošanas līdzekļiem, gaisa kuģiem un konteineriem, lai maskētā veidā iegūtu informāciju par tiem;
 4) personām, transportlīdzekļiem, kuģošanas līdzekļiem, gaisa kuģiem un konteineriem, lai, maskētā veidā veicot pārbaudi, iegūtu informāciju par tiem.
+(4¹) Lēmumu par ziņojuma iekļaušanu Sistēmā pieņem resoriskās pārbaudes veicējs konkrētās policijas resoriskās pārbaudes ietvaros attiecībā uz ziņojumu par:
+1) bez vēsts pazudušām personām, ko meklē, lai noskaidrotu to atrašanās vietu;
+2) bez vēsts pazudušām personām, ko meklē, lai draudu novēršanas nolūkā uz laiku aizsargātu.
 (5) Amatpersona - iekšlietu ministrs, Ārlietu ministrijas Konsulārā departamenta direktors vai Latvijas Republikas diplomātiskās vai konsulārās pārstāvniecības amatpersona, kura ir pilnvarota veikt konsulārās funkcijas, Pilsonības un migrācijas lietu pārvaldes priekšnieks vai viņa pilnvarota amatpersona, Valsts robežsardzes priekšnieks vai viņa pilnvarota amatpersona -, kas pieņem Imigrācijas likumā paredzēto lēmumu par ārzemnieka iekļaušanu to ārzemnieku sarakstā, kuriem ieceļošana Latvijas Republikā ir aizliegta, katrā atsevišķā gadījumā var pieņemt lēmumu par ziņojuma iekļaušanu Sistēmā, lai liegtu attiecīgā ārzemnieka ieceļošanu un uzturēšanos dalībvalstīs, kuras piemēro Šengenas acquis attiecībā uz robežkontroles atcelšanu pie iekšējām robežām.
 (6) (Izslēgta ar 20.12.2012. likumu)
