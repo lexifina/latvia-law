@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Iepakojuma likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2018/225.14",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-14",
+  "entry_into_force": "2018-11-28",
+  "notification_date": "2019-01-07",
+  "commission_reference": "MNE(2019)50137",
+  "nim_celex": "72015L0720LVA_267094",
+  "nim_id": "267094",
+  "transposes_celex": [
+    "32015L0720"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9c503e31-d724-463b-9567-a9e35f685d61",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
