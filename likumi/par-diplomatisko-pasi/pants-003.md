@@ -11,5 +11,6 @@
 10) Latvijas Republikas izvirzītajam un Eiropas Parlamenta apstiprinātajam Eiropas Savienības komisāram;
 11) šā panta 9. un 10.punktā minētās personas laulātajam un apgādībā esošajiem bērniem, ja viņi uzturas kopā ar attiecīgo personu, kura pilda amata pienākumus ārvalstīs;
 12) Ārlietu ministrijas pārziņā esošajiem diplomātiem, kas diplomātiskā un konsulārā dienesta interesēs apstiprināti darbā starptautiskajās organizācijās un to institūcijās, kurās Latvijas Republika ir dalībvalsts;
-13) Valsts prezidenta, Saeimas priekšsēdētāja, Ministru prezidenta un ārlietu ministra laulātajam, ja tas nepieciešams dalībai minēto amatpersonu valsts vai oficiālajās vizītēs.
+13) Valsts prezidenta, Saeimas priekšsēdētāja, Ministru prezidenta un ārlietu ministra laulātajam, ja tas nepieciešams dalībai minēto amatpersonu valsts vai oficiālajās vizītēs;
+14) Satversmes tiesas tiesnešiem un Augstākās tiesas priekšsēdētājam.
 (2) Ņemot vērā pamatotu nepieciešamību, diplomātisko pasi var izsniegt starptautiskas tiesas vai pārnacionālas tiesas tiesnešiem, kurus amatam izvirzījusi Latvijas Republika, uz to amata pilnvaru laiku, kā arī viņu laulātajiem un apgādībā esošajiem bērniem, ja viņi uzturas kopā ar attiecīgo personu, kura pilda amata pienākumus ārvalstīs.
