@@ -1,1 +1,1 @@
-4.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināma Konstitūcija, Konvencija, Noslēguma protokols, Reglaments un Nolīgums angļu valodā un to tulkojums latviešu valodā.
+4.pants. Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas. Līdz ar likumu izsludināma Konstitūcija angļu valodā un tās tulkojums latviešu valodā.
