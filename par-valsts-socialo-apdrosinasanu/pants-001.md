@@ -6,7 +6,7 @@ a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu
 b) (izslēgts ar 27.10.2005. likumu),
 c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, Valsts probācijas dienesta brīvprātīgais probācijas darbinieks, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību, ja atlīdzība ir faktiski noteikta,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
-e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
+e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi, valsts drošības iestādes amatpersona vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli,
 h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā,
@@ -17,9 +17,10 @@ l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma
 m) kapitālsabiedrības valdes loceklis, ja kapitālsabiedrībai taksācijas gada kārtējā mēnesī apgrozījums ir lielāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru, kas reizināts ar koeficientu 5, un kapitālsabiedrībā šajā mēnesī nav neviena darba ņēmēja vai visiem darba ņēmējiem obligāto iemaksu objekts ir mazāks par Ministru kabineta noteiktās minimālās mēneša darba algas apmēru,
 n) persona, kas likuma "Par iedzīvotāju ienākuma nodokli" izpratnē ir nodarbināta lauksaimniecības sezonas darbos un maksā sezonas laukstrādnieku ienākuma nodokli,
 o) persona, kurai pēc darba tiesisko attiecību izbeigšanās ir vienošanās par darbinieka profesionālās darbības ierobežojumu (konkurences ierobežojums),
-p) persona, kura vada transportlīdzekli pasažieru komercpārvadājumos ar vieglo taksometru,
+p) persona, kura vada transportlīdzekli pasažieru komercpārvadājumos ar taksometru, izņemot individuālo komersantu,
 r) persona, kurai saskaņā ar Jaunuzņēmumu darbības atbalsta likumu tiek piemērots valsts atbalsts nodokļu nomaksai,
-s) profesionāls sportists;
+s) profesionāls sportists,
+t) zemnieku (zvejnieku) saimniecības īpašnieks, kas ir darba tiesiskajās attiecībās ar savu zemnieku (zvejnieku) saimniecību;
 3) pašnodarbinātais - persona, kura gūst ienākumu (vai ieņēmumus) kā:
 a) persona, kas veic individuālo darbu,
 b) (izslēgts ar 25.11.1999. likumu),
@@ -32,7 +33,7 @@ h) cita fiziskā persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā
 i) zemnieku (zvejnieku) saimniecības īpašnieks, kas, nebūdams darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs zemnieku (zvejnieku) saimniecības vadības funkciju, ja šajā zemnieku (zvejnieku) saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors),
 j) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kuras darbu apmaksā no Latvijas Republikai piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finanšu institūciju aizdevuma līdzekļiem,
 k) zvērināts tiesu izpildītājs,
-l) individuālais komersants;
+l) individuālais komersants, tai skaitā individuālais komersants, kurš vada transportlīdzekli pasažieru komercpārvadājumos ar taksometru;
 4) iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka:
 a) persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā,
 b) persona, kuru nodarbina citas dalībvalsts darba devējs un kurai saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulas (EK) Nr. 883/2004 par sociālās nodrošināšanas sistēmu koordinēšanu (turpmāk - regula) 11., 12., 13., 14., 15. un 16.pantu piemēro Latvijas Republikas normatīvos aktus;

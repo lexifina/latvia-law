@@ -10,4 +10,5 @@
 (7) Nokavētās obligātās iemaksas veicamas saskaņā ar likumu "Par nodokļiem un nodevām".
 (8) (Izslēgta ar 20.06.2001. likumu)
 (9) Ja tiek nokavēta algotā darba ienākumu izmaksa, darba devēja pienākums ir veikt obligātās iemaksas par aprēķinātajiem darba ienākumiem termiņā, kādā tās būtu jāveic, ja darba ienākumi būtu izmaksāti savlaicīgi.
-(10) Autopārvadājumu likuma 35.pantā minētais pārvadātājs maksā obligāto iemaksu avansu 130 euro kalendāra mēnesī par katru vieglo taksometru, ar kuru tiek veikti pārvadājumi, īpaši šim mērķim paredzētajā kontā. Pārvadātājs ir tiesīgs samazināt ikmēneša obligāto iemaksu maksājumu par samaksāto avansu. Šādos gadījumos nepiemēro šā likuma 21.¹ panta ceturtajā daļā noteikto.
+(10) Autopārvadājumu likuma 35.pantā minētais pārvadātājs maksā obligāto iemaksu avansu 130 euro kalendāra mēnesī par katru taksometru, ar kuru tiek veikti pārvadājumi, īpaši šim mērķim paredzētajā kontā. Pārvadātājs ir tiesīgs samazināt ikmēneša obligāto iemaksu maksājumu par samaksāto avansu. Šādos gadījumos nepiemēro šā likuma 21.¹ panta ceturtajā daļā noteikto.
+(11) Darba devējam ir pienākums mēneša laikā pēc dienas, kad stājies spēkā tiesas spriedums vai attiecīgās valsts pārvaldes iestādes lēmums par darba samaksas piedziņu, veikt obligātās iemaksas par darba ņēmēju.

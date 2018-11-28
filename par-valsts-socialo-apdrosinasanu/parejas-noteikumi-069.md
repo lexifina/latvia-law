@@ -1,0 +1,1 @@
+69. Grozījumi šā likuma 14. panta piektajā un sestajā daļā par obligāto iemaksu un brīvprātīgo apdrošināšanas iemaksu objektu maksimālo apmēru trim gadiem, grozījums par šā likuma 14. panta divdesmitās daļas papildināšanu ar otro teikumu un 24.² un 24.³ pants stājas spēkā 2019. gada 1. janvārī.

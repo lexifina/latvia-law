@@ -1,0 +1,1 @@
+68. Grozījumi šā likuma 17. pantā, 20.² panta ceturtajā daļā, 21. panta pirmajā, otrajā, trešajā, 3.¹ un ceturtajā daļā, 22. pantā un 23.¹ panta otrajā daļā par iemaksu ieskaitīšanu vienotajā nodokļu kontā un grozījumi šā likuma 23. panta pirmajā, 1.⁵, otrajā un 2.¹ daļā par darbību veikšanu konkrētos datumos stājas spēkā 2021. gada 1. janvārī.

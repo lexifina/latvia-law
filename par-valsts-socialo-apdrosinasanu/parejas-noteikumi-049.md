@@ -1,1 +1,1 @@
-49. Ministru kabinets izvērtē šā likuma 5.panta ceturtajā daļā noteikto faktiski veikto obligāto iemaksu pensiju apdrošināšanai ietekmi uz personu sociālo nodrošinājumu un katru gadu līdz 1.oktobrim iesniedz Saeimai ziņojumu par to.
+49. Ministru kabinets izvērtē šā likuma 5.panta ceturtajā daļā noteikto faktiski veikto obligāto iemaksu pensiju apdrošināšanai ietekmi uz personu sociālo nodrošinājumu un līdz 2021. gada 1. oktobrim un pēc tam ik pēc trim gadiem līdz 1. oktobrim iesniedz Saeimai ziņojumu par to.
