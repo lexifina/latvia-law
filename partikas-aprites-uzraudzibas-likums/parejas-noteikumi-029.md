@@ -1,0 +1,1 @@
+29. Šā likuma 11.² pants attiecībā uz Ministru kabineta noteiktajiem gadījumiem, kad pārtikas izplatīšana atļauta pēc minimālā derīguma termiņa beigām, stājas spēkā 2019. gada 1. jūlijā. Ministru kabinets līdz 2019. gada 30. jūnijam izdod šā likuma 11.² panta otrajā daļā minētos noteikumus.
