@@ -2,3 +2,4 @@
 (1) Darba devējs ar saviem rīkojumiem darba līguma ietvaros var precizēt darbinieka darba pienākumus.
 (2) Darba devējs ar saviem rīkojumiem darba līguma ietvaros var precizēt darba kārtības un darbinieka uzvedības noteikumus uzņēmumā.
 (3) Darba devējam nav tiesību prasīt, lai darbinieks veiktu darba līgumā neparedzētu darbu, izņemot šā likuma 57.pantā noteiktos gadījumus.
+(4) Darba devējam nav tiesību prasīt no darbinieka konkrētas svešvalodas prasmi, ja tās lietošana neietilpst darba pienākumos. Ja, darba pienākumus veicot, nav nepieciešama svešvalodas lietošana, darba devējam nav tiesību liegt darbiniekam lietot valsts valodu.
