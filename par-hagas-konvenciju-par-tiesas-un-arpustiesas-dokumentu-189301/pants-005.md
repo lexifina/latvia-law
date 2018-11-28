@@ -1,1 +1,1 @@
-5.pants. Saskaņā ar Konvencijas 6.panta pirmo daļu Civilprocesa likumā noteiktā rajona (pilsētas) tiesa, kas izpilda ārvalsts lūgumu par dokumentu izsniegšanu, aizpilda apliecinājumu saskaņā ar Konvencijai pievienoto veidlapas paraugu.
+5.pants. Saskaņā ar Konvencijas 6.panta pirmo daļu normatīvajos aktos par zvērinātu tiesu izpildītāju veikto dokumentu piegādi noteiktais zvērināts tiesu izpildītājs, kas izpilda ārvalsts lūgumu par dokumentu izsniegšanu, aizpilda apliecinājumu saskaņā ar Konvencijai pievienoto veidlapas paraugu.
