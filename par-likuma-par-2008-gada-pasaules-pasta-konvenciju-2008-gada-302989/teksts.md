@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu likumu "Par 2008. gada Pasaules Pasta konvenciju, 2008. gada Pasaules Pasta konvencijas Noslēguma protokolu un 2008. gada Nolīgumu par pasta maksājumu pakalpojumiem" (Latvijas Vēstnesis, 2011, 117. nr.).
