@@ -4,4 +4,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 3) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/4/EK par vides informācijas pieejamību sabiedrībai un par Padomes direktīvas 90/313/EEK atcelšanu;
 4) Eiropas Parlamenta un Padomes 2000.gada 23.oktobra direktīvas 2000/60/EK, ar ko izveido sistēmu Kopienas rīcībai ūdens resursu politikas jomā;
 5) Eiropas Parlamenta un Padomes 2005.gada 7.septembra direktīvas 2005/35/EK par kuģu radīto piesārņojumu un par sankciju ieviešanu par pārkāpumiem;
-6) Eiropas Parlamenta un Padomes 2006.gada 15.marta direktīvas 2006/21/EK par ieguves rūpniecības atkritumu apsaimniekošanu un par grozījumiem direktīvā 2004/35/EK.
+6) Eiropas Parlamenta un Padomes 2006.gada 15.marta direktīvas 2006/21/EK par ieguves rūpniecības atkritumu apsaimniekošanu un par grozījumiem direktīvā 2004/35/EK;
+7) Eiropas Parlamenta un Padomes 2013. gada 12. jūnija direktīvas 2013/30/ES par to darbību drošumu, kas saistītas ar naftas un gāzes nozares darbībām jūrā, un ar kuru groza direktīvu 2004/35/EK (Dokuments attiecas uz EEZ).
