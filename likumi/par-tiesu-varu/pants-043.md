@@ -1,3 +1,2 @@
-43.pants. Augstākās tiesas struktūra un kompetence
-(1) Augstākās tiesas sastāvā ir Administratīvo lietu departaments, Civillietu departaments un Krimināllietu departaments.
-(2) Augstākā tiesa ir kasācijas instance, ja likumā nav noteikts citādi.
+43. pants. Augstākās tiesas struktūra
+Augstākās tiesas (turpmāk arī - Senāts) sastāvā ir Administratīvo lietu departaments, Civillietu departaments un Krimināllietu departaments.

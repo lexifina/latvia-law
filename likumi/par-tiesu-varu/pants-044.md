@@ -1,4 +1,4 @@
-44. pants. Augstākās Tiesas izveidošana
-(1) Augstākās tiesas tiesnešu kopskaitu nosaka Saeima pēc Tieslietu padomes priekšlikuma. Tiesnešu kopskaitu departamentos nosaka Tieslietu padome pēc Augstākās tiesas priekšsēdētāja priekšlikuma.
-(2) Augstākās tiesas departamentu priekšsēdētājus ievēlē Augstākās tiesas plēnums, ievērojot dzimumu vienlīdzīgas pārstāvības principu.
-(3) Augstākās tiesas departamentu priekšsēdētāju pilnvaru laiks ir pieci gadi.
+44. pants. Senāts
+(1) Senāts ir kasācijas instance, ja likumā nav noteikts citādi.
+(2) Senāta tiesnešu (turpmāk arī - senatori) kopskaitu nosaka Saeima pēc Tieslietu padomes priekšlikuma.
+(3) Senātā lietas izskata koleģiāli triju senatoru sastāvā. Likumā noteiktajos gadījumos lietas var izskatīt paplašinātā sastāvā vai kopsēdē.

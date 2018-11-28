@@ -1,0 +1,1 @@
+97. Zemesgrāmatu nodaļu tiesneši, kuri saskaņā ar šā likuma pārejas noteikumu 96. punktu pārcelti darbā rajona (pilsētas) tiesās ar 2019. gada 1. jūniju, pabeidz skatīt lietas, kuras viņiem nodotas izskatīšanai līdz 2019. gada 31. maijam.

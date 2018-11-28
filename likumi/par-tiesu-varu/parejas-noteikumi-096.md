@@ -1,0 +1,1 @@
+96. Tieslietu padome līdz 2019. gada 31. maijam lemj par zemesgrāmatu nodaļu tiesnešu pārcelšanu darbā rajona (pilsētas) tiesās. Tiesnešu pārcelšana veicama bez atsevišķa Tiesnešu kvalifikācijas kolēģijas atzinuma.

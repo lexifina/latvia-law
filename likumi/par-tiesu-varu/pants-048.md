@@ -1,3 +1,3 @@
-48.pants. Augstākās tiesas departamenta sastāvs
-(1) Augstākās tiesas departaments lietas izskata koleģiāli triju tiesnešu sastāvā.
-(2) Likumā noteiktajos gadījumos lietas izskata paplašinātā sastāvā.
+48. pants. Senāta departaments
+(1) Senatoru kopskaitu departamentos nosaka Tieslietu padome pēc Augstākās tiesas priekšsēdētāja priekšlikuma.
+(2) Senāta departamentu priekšsēdētājus ievēlē Augstākās tiesas plēnums uz pieciem gadiem.

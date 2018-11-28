@@ -1,0 +1,1 @@
+98. Zemesgrāmatu nodaļas tiesneša izskatītu lietu, kurā augstākas instances tiesa ir atcēlusi zemesgrāmatu nodaļas tiesneša lēmumu, nodod jaunai izskatīšanai tai rajona (pilsētas) tiesai, kuras sastāvā bija attiecīgā zemesgrāmatu nodaļa.
