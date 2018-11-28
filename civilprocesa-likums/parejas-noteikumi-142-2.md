@@ -1,1 +1,0 @@
-142. Šā likuma 30.⁷ nodaļa, kas nosaka kārtību, kādā izskatāmi strīdi lietās par tiesībām maksātnespējas procesa lietās un pieteikumi par pagaidu aizsardzības līdzekļa noteikšanu, piemērojama tiem juridiskās personas maksātnespējas procesiem, kuri uzsākti pēc 2018. gada 30. jūnija.
