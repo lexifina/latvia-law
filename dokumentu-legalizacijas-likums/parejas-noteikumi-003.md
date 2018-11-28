@@ -1,0 +1,1 @@
+3. Grozījumi attiecībā uz šā likuma 4. un 5. panta, II un III nodaļas nosaukuma izteikšanu jaunā redakcijā, 7. panta papildināšanu ar 4. punktu, kā arī grozījumi šā likuma 10. panta pirmajā daļā par vārdu "publiska dokumenta" aizstāšanu ar vārdu "juridisks" un par panta papildināšanu ar trešo daļu stājas spēkā 2019. gada 1. jūlijā.
