@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2018.gada 21.augusta Ministru kabineta noteikumi Nr. 531 \"Noteikumi par neatkarīgu ekspertu kompetences novērtēšanu un profesionālās darbības uzraudzību ēku energoefektivitātes jomā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "168",
+  "official_journal_page": null,
+  "official_journal_date": "2018-08-24",
+  "entry_into_force": "2018-12-01",
+  "notification_date": "2020-09-07",
+  "commission_reference": "MNE(2020)56603",
+  "nim_celex": "72018L0844LVA_288224",
+  "nim_id": "288224",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/60b567b6-f400-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
