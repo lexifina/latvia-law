@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 27. novembra noteikumi Nr. 732 “Centrālās statistikas pārvaldes nolikums”",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2018/236.7",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-30",
+  "entry_into_force": "2018-12-01",
+  "notification_date": "2026-02-05",
+  "commission_reference": "MNE(2026)00965",
+  "nim_celex": "72023L1791LVA_202600965",
+  "nim_id": "202600965",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8d408d7a-a886-4815-96eb-3f7b9ac79d7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
