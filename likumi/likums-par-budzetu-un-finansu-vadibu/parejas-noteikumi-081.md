@@ -1,0 +1,1 @@
+81. Apstiprinot valsts darbībai nepieciešamos valsts budžeta izdevumus, finanšu ministrs 2019. gadā novirza 8 313 222 euro neatliekamās medicīniskās palīdzības darbinieku darba samaksas paaugstinājumam.
