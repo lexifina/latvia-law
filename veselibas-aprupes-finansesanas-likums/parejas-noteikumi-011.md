@@ -1,0 +1,1 @@
+11. Ministru kabinets, sagatavojot likumprojektu par valsts budžetu 2019. gadam un likumprojektu par vidēja termiņa budžeta ietvaru 2019., 2020. un 2021. gadam, paredz valsts finansējumu veselības aprūpes darbinieku darba samaksas paaugstināšanai vidēji gadā 20 procentu apmērā: 2019. gadā - 87 483 708 euro, 2020. gadā - 191 227 820 euro un 2021. gadā - 314 599 953 euro.
