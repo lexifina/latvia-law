@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2018.gada rudens sesija",
+ "sede": 11,
+ "datums": "2018-12-20",
+ "ieraksts": {
+  "dkp_id": "364c64bb-4f1b-4a03-b43d-9841d8c7683d",
+  "lastmodtime": "\"AAAAAAGiE3M=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Uldis#Edvīns#Artis#Edgars#Dace#Andris#Jānis#Romāns#Ivans#Vita Anda#Juris#Ivars#Ralfs#Evita#Edgars#Vladimirs#Didzis#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Ieva#Ilga#Ilmārs#Jūlija#Linda#Jānis#Ojārs Ēriks#Tālis#Valērijs#Aldis#Ēriks#Māris#Mārtiņš#Viktors#Andrejs#Jānis#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Budriķis#Šnore#Pabriks#Rinkēvičs#Rukšāne-Ščipčinska#Skride#Reirs#Naudiņš#Ribakovs#Tērauda#Pūce#Puga#Nemiro#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Krapāne#Šuplinska#Dūrītis#Stepaņenko#Ozola#Bordāns#Kalniņš#Linkaits#Agešins#Adamovičs#Pucens#Kučinskis#Bondars#Valainis#Judins#Urbanovičs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": "JK#JK#NA#AP!#JV#AP!#AP!#JV#NA#SASKAŅA #AP!#AP!#KPV LV#KPV LV#JK#SASKAŅA #SASKAŅA #KPV LV#SASKAŅA #JV#AP!#KPV LV#JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#ZZS#ZZS#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV#NA#KPV LV#JK#AP!# #JK#JK#JV#JK#SASKAŅA #JV#KPV LV#ZZS#AP!#ZZS#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA #KPV LV#KPV LV#SASKAŅA #ZZS#ZZS#NA#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS#KPV LV#JK",
+  "RESULT": "Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.12.2018 14:36:12",
+  "VOTEMOTIVE": "Dzīvojamo telpu īres likums (Saeimas kārtības ruļļa 39.p. kārtībā) (144/Lp13), 1.lasījums",
+  "VOTING_ID": "f1db25c3-3260-4c8c-bb22-6b9d5d658041",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "80",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "88",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2018.gada rudens sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/517266f0-9632-4fd1-8484-f0d13de674f3/download/13.saeimas-2018.gada-rudens-sesija-11-vote.xml",
+  "sha256": "e5f86a579db0303f19fb5835075e1b369b753c92dabdcdf7ca5febf58d884dd7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
