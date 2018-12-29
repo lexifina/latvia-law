@@ -20,3 +20,4 @@
 (6) Valsts darba inspekcija kontrolē šā likuma 8.panta septītajā daļā un 10.panta pirmajā daļā noteikto ierobežojumu izpildi.
 (7) Izglītības un zinātnes ministrijas un Veselības ministrijas pienākums ir izveidot tabakas izstrādājumu, augu smēķēšanas produktu un elektronisko smēķēšanas ierīču lietošanas profilakses programmas dažādām iedzīvotāju grupām, ieviest tās izglītības iestādēs un veicināt to ieviešanu darbavietās.
 (8) Veselības ministrijas pienākums ir izstrādāt uz starpsektoru sadarbību balstītu valsts politiku tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un ar tām saistītu izstrādājumu kaitīguma samazināšanas jomā un nodrošināt iespēju ārstēties no tabakas atkarības personām, kuras to vēlas.
+(9) Īstenošanas regulā Nr. 2018/574 noteikto unikālo identifikatoru izdevējs ir valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs".

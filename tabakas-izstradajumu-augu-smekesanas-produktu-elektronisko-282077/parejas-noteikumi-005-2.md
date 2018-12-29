@@ -1,0 +1,1 @@
+5.² Līdz 2026. gada 20. maijam atļauts laist tirgū arī tādas tabakas izstrādājumu iepakojuma vienības, uz kurām nav izvietoti drošības elementi, kas nav akcīzes nodokļa marka, ja attiecīgie tabakas izstrādājumi (to iepakojuma vienības), kuri nav cigaretes un tinamās tabakas izstrādājumi, ir ražoti vai laisti brīvā apgrozībā Eiropas Savienībā līdz 2024. gada 19. maijam.

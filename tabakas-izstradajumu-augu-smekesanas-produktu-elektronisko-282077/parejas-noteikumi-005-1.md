@@ -1,0 +1,1 @@
+5.¹ Līdz 2020. gada 20. maijam atļauts laist tirgū arī tādas cigarešu un tinamās tabakas iepakojuma vienības, uz kurām nav izvietoti drošības elementi, kas nav akcīzes nodokļa marka, ja attiecīgās cigaretes (cigarešu iepakojuma vienības) un tinamā tabaka (tinamās tabakas vienības) ir ražota vai laista brīvā apgrozībā Eiropas Savienībā līdz 2019. gada 19. maijam.
