@@ -3,7 +3,7 @@
 1) reģistrējas Valsts ieņēmumu dienestā kā nodokļu maksātājs;
 2) deklarē Valsts ieņēmumu dienestā vienu prakses vietu un paziņo par to Maksātnespējas kontroles dienestam.
 (2) Administrators nodrošina efektīvu un likumīgu juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi un mērķu sasniegšanu.
-(2¹) (Daļa stājas spēkā 01.01.2019. un iekļauta likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 62. punktu)
+(2¹) Administrators, izmantojot likumā piešķirtās tiesības un pildot likumā noteiktos pienākumus, lieto Sistēmu.
 (3) Administratoram ir šādi pienākumi:
 1) piedalīties tiesas sēdēs juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa lietās;
 2) sniegt informāciju par juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi tiesai, kreditoriem, Maksātnespējas kontroles dienestam un citām normatīvajos aktos noteiktajām personām un institūcijām;
@@ -14,7 +14,7 @@
 7) izskatīt sūdzības par konkrētā juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa norisi un divu nedēļu laikā sniegt atbildi sūdzības iesniedzējam;
 8) sniegt tiesībaizsardzības institūcijām ziņojumus un materiālus par juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā atklātajiem faktiem, kuri var būt par pamatu kriminālprocesa uzsākšanai;
 9) nodrošināt pieejamību maksātnespējas reģistrā ierakstītajai administratora prakses vietai Latvijā un parādnieka - juridiskās personas - atrašanās vietai, Maksātnespējas kontroles dienestam veicot šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības;
-10) (punkts stājas spēkā 01.01.2019. un iekļauts likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 62. punktu).
+10) Ministru kabineta noteiktajos gadījumos un kārtībā reģistrēt un piešķirt piekļuves tiesības Sistēmas datu izplatīšanas tīmekļvietnes lietotājiem.
 (4) Administrators nodrošina to, ka viņš ir sasniedzams prakses vietas adresē, izmantojot norādīto kontaktinformāciju, kā arī viņam adresētās korespondences (tajā skaitā ar drošu elektronisko parakstu parakstīto dokumentu) saņemšanu.
 (5) Administrators juridiskās personas maksātnespējas procesa laikā organizē parādnieka grāmatvedības uzskaiti atbilstoši normatīvo aktu prasībām. Ja uz parādnieku attiecas Gada pārskatu likums, administrators iesniedz Valsts ieņēmumu dienestam gada pārskata un zvērināta revidenta ziņojuma (ja tāds ir nepieciešams) norakstu tikai tajos gadījumos, kad administrators ir pieņēmis lēmumu par parādnieka saimnieciskās darbības turpināšanu pilnā vai ierobežotā apjomā.
 (6) Administrators savā prakses vai parādnieka atrašanās vietā kārto juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa lietu, kurā iekļauj visu ar juridiskās personas maksātnespējas procesu un fiziskās personas maksātnespējas procesu saistīto informāciju un dokumentus, kā arī sastāda attiecīgā procesa lietā esošo dokumentu sarakstu.
