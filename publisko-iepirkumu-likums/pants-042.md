@@ -4,7 +4,7 @@
 a) noziedzīgas organizācijas izveidošana, vadīšana, iesaistīšanās tajā vai tās sastāvā ietilpstošā organizētā grupā vai citā noziedzīgā formējumā vai piedalīšanās šādas organizācijas izdarītos noziedzīgos nodarījumos,
 b) kukuļņemšana, kukuļdošana, kukuļa piesavināšanās, starpniecība kukuļošanā, neatļauta piedalīšanās mantiskos darījumos, neatļauta labumu pieņemšana, komerciāla uzpirkšana, prettiesiska labuma pieprasīšana, pieņemšana vai došana, tirgošanās ar ietekmi,
 c) krāpšana, piesavināšanās vai noziedzīgi iegūtu līdzekļu legalizēšana,
-d) terorisms, terorisma finansēšana, aicinājums uz terorismu, terorisma draudi vai personas vervēšana vai apmācīšana terora aktu veikšanai,
+d) terorisms, terorisma finansēšana, teroristu grupas izveide vai organizēšana, ceļošana terorisma nolūkā, terorisma attaisnošana, aicinājums uz terorismu, terorisma draudi vai personas vervēšana vai apmācīšana terora aktu veikšanai,
 e) cilvēku tirdzniecība,
 f) izvairīšanās no nodokļu vai tiem pielīdzināto maksājumu samaksas;
 2) ir konstatēts, ka kandidātam pieteikumu un pretendentam piedāvājumu iesniegšanas termiņa pēdējā dienā vai dienā, kad pieņemts lēmums par iespējamu iepirkuma līguma slēgšanas tiesību piešķiršanu, Latvijā vai valstī, kurā tas reģistrēts vai kurā atrodas tā pastāvīgā dzīvesvieta, ir nodokļu parādi, tai skaitā valsts sociālās apdrošināšanas obligāto iemaksu parādi, kas kopsummā kādā no valstīm pārsniedz 150 euro. Attiecībā uz Latvijā reģistrētiem un pastāvīgi dzīvojošiem pretendentiem pasūtītājs ņem vērā informāciju, kas ievietota Ministru kabineta noteiktajā informācijas sistēmā Valsts ieņēmumu dienesta publiskās nodokļu parādnieku datubāzes un Nekustamā īpašuma nodokļa administrēšanas sistēmas pēdējās datu aktualizācijas datumā;
