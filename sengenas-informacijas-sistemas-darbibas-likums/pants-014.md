@@ -1,7 +1,7 @@
 14.pants. Piekļuve Sistēmā iekļautajiem ziņojumiem
 (1) Piekļuve visiem Sistēmā iekļautajiem ziņojumiem atbilstoši Sistēmas darbību regulējošos normatīvajos aktos noteiktajai kompetencei ir šādām institūcijām:
 1) Valsts policijai;
-2) Drošības policijai;
+2) Valsts drošības dienestam;
 3) Valsts robežsardzei;
 4) pašvaldības policijai;
 5) Militārajai policijai;
