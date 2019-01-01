@@ -2,8 +2,8 @@
 1. Gada apliekamais ienākums tiek aplikts ar nodokli atbilstoši šajā pantā noteiktajām likmēm.
 2. Nodokļa likme, kas jāmaksā no gada apliekamā ienākuma, izņemot šā panta piektajā, sestajā, septītajā, 7.¹, astotajā, devītajā, desmitajā, vienpadsmitajā un divpadsmitajā daļā noteiktos ienākuma veidus, ir šāda:
 1) 20 procenti - gada ienākumam līdz 20 004 euro;
-2) 23 procenti - gada ienākuma daļai, kas pārsniedz 20 004 euro, bet nepārsniedz 55 000 euro;
-3) 31,4 procenti - gada ienākuma daļai, kas pārsniedz 55 000 euro.
+2) 23 procenti - gada ienākuma daļai, kas pārsniedz 20 004 euro, bet nepārsniedz saskaņā ar likumu "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru;
+3) 31,4 procenti - gada ienākuma daļai, kas pārsniedz saskaņā ar likumu "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru.
 3. Algas nodokļa likme, kas jāmaksā no mēneša apliekamā ienākuma, ja šā panta sešpadsmitajā vai septiņpadsmitajā daļā nav noteikts citādi, ir šāda:
 1) 20 procenti - mēneša ienākumam (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus) līdz 1667 euro;
 2) 23 procenti - mēneša ienākuma (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus) daļai, kas pārsniedz 1667 euro.
@@ -39,4 +39,4 @@
 4) ar algas nodokli apliekamos ienākumus, no kuriem darba ņēmējs ir tiesīgs nemaksāt iedzīvotāju ienākuma nodokli saskaņā ar Jaunuzņēmumu darbības atbalsta likumu.
 22. Ja taksācijas gadā algota darba ienākums, pensija vai pabalsts tiek izmaksāts par pirmstaksācijas gadu, šos ienākumu veidus iekļauj attiecīgā pirmstaksācijas gada ienākumu apmērā un piemēro attiecīgās pirmstaksācijas gada nodokļa likmes. Ar algas nodokli apliekamajā mēneša ienākumā iekļauj ienākumu, kas aprēķināts par attiecīgo mēnesi.
 23. Pamatojoties uz maksātāja rakstveida iesniegumu ienākuma izmaksātājam vai maksātāja veiktu atzīmi grāmatiņā, ienākuma izmaksātājs taksācijas gada laikā ietur nodokli saskaņā ar 23 procentu likmi arī no ienākumiem, kuriem saskaņā ar šā panta otro, trešo vai astoņpadsmito daļu piemērojama nodokļa likme 20 procentu apmērā. Ja nodokli ietur saskaņā ar 23 procentu likmi, pamatojoties uz maksātāja veiktu atzīmi grāmatiņā, šo likmi sāk piemērot ar nākamā mēneša 1. datumu.
-24. Ja maksātājs laimējis izložu vai azartspēļu laimestu, kas pārsniedz 3000 euro, un tas izmaksāts vienā reizē vai summējot visā azartspēles organizēšanas vietas apmeklējuma laikā, izložu vai azartspēļu laimesta daļai, kas pārsniedz 3000 euro, bet nepārsniedz 55 000 euro, taksācijas gada laikā piemēro nodokļa likmi 23 procentu apmērā, bet izložu vai azartspēļu laimesta daļai, kas pārsniedz 55 000 euro, piemēro nodokļa likmi 31,4 procentu apmērā.
+24. Ja maksātājs laimējis izložu vai azartspēļu laimestu, kas pārsniedz 3000 euro, un tas izmaksāts vienā reizē vai summējot visā azartspēles organizēšanas vietas apmeklējuma laikā, izložu vai azartspēļu laimesta daļai, kas pārsniedz 3000 euro, bet nepārsniedz saskaņā ar likumu "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru, taksācijas gada laikā piemēro nodokļa likmi 23 procentu apmērā, bet izložu vai azartspēļu laimesta daļai, kas pārsniedz saskaņā ar likumu "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru, piemēro nodokļa likmi 31,4 procentu apmērā.

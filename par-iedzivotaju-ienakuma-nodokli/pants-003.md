@@ -37,7 +37,7 @@ b) maksājumi par pārējiem intelektuālā īpašuma veidiem;
 13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem;
 14¹) pensijai pielīdzināms ienākums;
-15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un izmaksāts pensiju plānu dalībniekiem;
+15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem vai iemaksām privātā pensiju fonda pensiju plānā saskaņā ar Solidaritātes nodokļa likumu un izmaksāts pensiju plānu dalībniekiem;
 16) (izslēgts ar 15.12.2011. likumu);
 17) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;
 18) (izslēgts ar 28.07.2017. likumu);
