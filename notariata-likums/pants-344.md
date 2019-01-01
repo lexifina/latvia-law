@@ -1,0 +1,6 @@
+344. Latvijas Zvērinātu notāru padomes tīmekļvietnē iesniegtā paziņojumā, kas parakstīts ar drošu elektronisko parakstu, satur laika zīmogu un iesniegts, izmantojot kvalificētu paaugstinātas drošības elektroniskās identifikācijas līdzekli, gribu var izteikt šādas personas:
+1) kredītiestāde, kā arī kapitālsabiedrība, kuras darbības tiesisko pamatu nosaka Attīstības finanšu institūcijas likums, - par piekrišanu hipotēkas un ar to saistīto tiesību aprobežojumu grozīšanai vai cesijas nostiprināšanai;
+2) kredītiestāde, kā arī kapitālsabiedrība, kuras darbības tiesisko pamatu nosaka Attīstības finanšu institūcijas likums, - par piekrišanu nostiprinājumam, ja šī piekrišana izriet no nostiprinātām tiesībām vai šo tiesību aprobežojumiem;
+3) juridiskās personas, kā arī individuālie komersanti kā nekustamā īpašuma īpašnieki - par piekrišanu tiesību nostiprināšanai uz ieguvēju - juridiskajām personām, kā arī individuālajiem komersantiem;
+4) juridiskās personas, kā arī individuālie komersanti kā tiesību ieguvējs - par piekrišanu tiesību nostiprināšanai, ja nekustamais īpašums pieder juridiskajām personām, kā arī individuālajiem komersantiem.
+Šajā pantā noteiktajā kārtībā iesniegta paziņojuma apliecināšanā piemēro šā likuma D sadaļā minētās prasības, ciktāl šajā sadaļā nav noteikts citādi.

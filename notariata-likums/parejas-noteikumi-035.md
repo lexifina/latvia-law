@@ -1,0 +1,1 @@
+35. Šā likuma 344. panta pirmās daļas 1. un 2. punktu un 345. panta pirmo daļu (par kredītiestādes, kā arī kapitālsabiedrības, kuras darbības tiesisko pamatu nosaka Attīstības finanšu institūcijas likums, piekrišanas izteikšanu Latvijas Zvērinātu notāru padomes tīmekļvietnē) piemēro, sākot ar 2019. gada 1. maiju.

@@ -1,0 +1,1 @@
+33. Šā likuma 65. panta 5.² punkts par Latvijā izsniegtu publisku dokumentu legalizāciju ar apliecinājumu (apostille) un R sadaļa "Publisku dokumentu legalizācija ar apliecinājumu (apostille)" stājas spēkā 2019. gada 1. jūlijā.

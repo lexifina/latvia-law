@@ -1,0 +1,2 @@
+345. Šā likuma 344. panta pirmās daļas 1. un 2. punktā minēto personu iesniegts paziņojums uzskatāms par pietiekamu nostiprinājumam zemesgrāmatā.
+Piekrišanu, kas ietverta paziņojumā, kuru iesniegušas šā likuma 344. panta pirmās daļas 3. un 4. punktā noteiktās personas, zvērināts notārs apliecina notariāli videokonferences režīmā atbilstoši šā likuma E¹ sadaļā minētajai kārtībai vai pēc juridisko personu, kā arī individuālo komersantu izvēles arī klātienē.
