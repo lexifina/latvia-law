@@ -1,0 +1,1 @@
+6. Šā likuma 14. panta 4. punktu, kas paredz nodrošināt to, ka ietekmes uz diasporu izvērtējums tiek iekļauts normatīvo aktu sākotnējās ietekmes novērtējuma ziņojumā (anotācijā), attiecībā uz likumiem sāk piemērot ar dienu, kad stājas spēkā attiecīgi grozījumi Saeimas kārtības rullī.

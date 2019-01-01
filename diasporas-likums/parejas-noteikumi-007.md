@@ -1,0 +1,1 @@
+7. Šā likuma 15. panta otrās daļas 1. punkts, kas paredz nodrošināt diasporas locekļiem iespēju pirms remigrācijas savlaicīgi reģistrēt savus bērnus Latvijas vispārējās un profesionālās izglītības iestādēs, stājas spēkā vienlaikus ar attiecīgiem grozījumiem Dzīvesvietas deklarēšanas likumā.

@@ -1,0 +1,1 @@
+3. Šā likuma 6. panta otrās daļas 8. punkts, kas paredz Veselības ministrijas kompetenci nodrošināt diasporas locekļiem iespēju veikt brīvprātīgas iemaksas, lai iegūtu tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros, stājas spēkā vienlaikus ar attiecīgiem grozījumiem Veselības aprūpes finansēšanas likumā.

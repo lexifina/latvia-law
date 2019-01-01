@@ -1,0 +1,1 @@
+11. Šā likuma 17. pantā noteikto par to, ka diasporas politiku finansē no valsts budžeta līdzekļiem, paredzot pienācīgu, ilgtermiņā plānojamu, diasporas skaitliskā sastāva un aktivitāšu dinamikai pielāgojamu finansējumu, nodrošina ne vēlāk kā plānojot 2020. gada valsts budžetu.

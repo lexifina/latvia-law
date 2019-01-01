@@ -1,0 +1,4 @@
+9. pants. Pašvaldību kompetence diasporas politikas jomā
+(1) Pašvaldība, ievērojot diasporas politikas īstenošanas principus un valsts diasporas politikas plānošanas dokumentus, var plānot un īstenot pašvaldības diasporas politiku, citstarp nodrošināt institucionālo sistēmu darbam ar diasporu un sniegt atbalstu valsts pārvaldes institūcijām diasporas politikas īstenošanā.
+(2) Pašvaldība nodrošina diasporas locekļiem un diasporas organizācijām iespēju iesaistīties pašvaldības politikas plānošanas dokumentu un normatīvo aktu izstrādē.
+(3) Pašvaldība var izveidot diasporas lietu konsultatīvo komisiju vai paredzēt citu kārtību, kādā veicams darbs ar diasporu, kā arī sniegt diasporas locekļiem šajā likumā neminētu sociālo, materiālo vai cita veida atbalstu šā likuma mērķu īstenošanai, arī remigrācijas veicināšanai vai atvieglošanai.

@@ -1,0 +1,1 @@
+2. Šā likuma 6. panta otrās daļas 7. punkta "b" apakšpunkts, kas paredz Iekšlietu ministrijas kompetenci nodrošināt diasporas locekļiem iespēju papildus dzīvesvietas adresei ārvalstī norādīt arī vienu adresi Latvijā, un šā likuma 16. pants "Dzīvesvietas papildu adrese" stājas spēkā vienlaikus ar attiecīgiem grozījumiem Dzīvesvietas deklarēšanas likumā.
