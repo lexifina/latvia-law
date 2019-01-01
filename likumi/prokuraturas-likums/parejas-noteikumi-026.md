@@ -1,0 +1,1 @@
+26. Sakarā ar Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta padotības maiņu tā finansiālo un saimniecisko darbību turpina nodrošināt prokuratūras Administratīvā direktora dienests, bet ne ilgāk kā līdz 2019. gada 30. jūnijam.

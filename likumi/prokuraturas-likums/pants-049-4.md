@@ -1,2 +1,0 @@
-49.⁴ pants. Pārraudzības īstenošanas kārtība
-Pārraudzību veic ģenerālprokurors un viņa īpaši pilnvaroti prokurori. Minētajām personām ir tiesības iepazīties ar visu iestādes rīcībā esošo informāciju, lietvedību, pieprasīt paskaidrojumus no darbiniekiem, dot norādījumus attiecībā uz pieļauto likuma pārkāpumu novēršanu. Ja pieņemtie lēmumi ir nelikumīgi, tos var atcelt tikai ģenerālprokurors. Ģenerālprokurora lēmumu var pārsūdzēt tiesā.
