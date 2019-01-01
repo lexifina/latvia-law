@@ -1,0 +1,1 @@
+41. Izdienu Korupcijas novēršanas un apkarošanas birojā šā likuma 25. panta piektajā daļā minētā pabalsta saņemšanai sāk skaitīt no 2019. gada 1. janvāra un šo pabalstu izmaksā, sākot ar 2024. gada 1. janvāri.

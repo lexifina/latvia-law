@@ -1,0 +1,1 @@
+40. Izdienas stāžā, kas dod tiesības uz šā likuma 15. panta divpadsmitajā daļā minēto piemaksu, ieskaita laiku, kas nostrādāts Korupcijas novēršanas un apkarošanas biroja darbinieka statusā, veicot korupcijas apkarošanas funkciju.

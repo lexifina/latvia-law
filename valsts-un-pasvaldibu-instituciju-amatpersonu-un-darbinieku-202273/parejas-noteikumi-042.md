@@ -1,0 +1,1 @@
+42. Šā likuma 36. panta 7.¹ daļā noteiktie pabalsti un kompensācijas ir piemērojami arī tiem karavīriem, kuri laikposmā no 2018. gada 1. oktobra līdz 2018. gada 31. decembrim bija mācību komandējumā apgūt Nacionālo bruņoto spēku komandiera vai viņa pilnvarotās personas apstiprinātajā militāro kursu sarakstā iekļauto vecāko vai augstāko virsnieku militārās izglītības kursu.
