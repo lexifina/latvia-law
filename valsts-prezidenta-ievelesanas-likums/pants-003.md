@@ -1,5 +1,5 @@
 3.pants. Valsts prezidenta amatā nevar ievēlēt personu, kura:
-1) likumā paredzētajā kārtībā atzīta par rīcībnespējīgu;
+1) likumā paredzētajā kārtībā atzīta par personu ar ierobežotu rīcībspēju;
 2) izcieš sodu brīvības atņemšanas vietā;
 3) ir sodīta par tīšu noziedzīgu nodarījumu, izņemot personu, kura ir reabilitēta vai kurai sodāmība dzēsta vai noņemta;
 4) Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradusies nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīga nodarījuma izdarīšanas saslimusi ar psihiskiem traucējumiem, kas tai atņēmuši iespēju saprast savu rīcību vai to vadīt, un kurai sakarā ar to piemērots medicīniska rakstura piespiedu līdzeklis vai arī lieta izbeigta bez šāda piespiedu līdzekļa piemērošanas;
