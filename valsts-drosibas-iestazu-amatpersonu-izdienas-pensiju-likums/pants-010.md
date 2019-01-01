@@ -3,4 +3,4 @@
 (2) Izdienas pensijas izmaksu pārtrauc, ja izdienas pensijas saņēmējs:
 1) no jauna uzsāk dienestu (darbu) amatā, kas dod tiesības uz izdienas pensiju;
 2) saņem bezdarbnieka pabalstu.
-(3) Par šā panta pirmajā vai otrajā daļā minēto apstākļu iestāšanos izdienas pensijas saņēmējam ir pienākums 10 dienu laikā paziņot attiecīgajai valsts drošības iestādei, bet izdienas pensijas saņēmējam, kurš atvaļināts no dienesta vai atbrīvots no darba Drošības policijā, - Valsts sociālās apdrošināšanas aģentūras slepenības režīma struktūrvienībai.
+(3) Par šā panta pirmajā vai otrajā daļā minēto apstākļu iestāšanos izdienas pensijas saņēmējam ir pienākums 10 dienu laikā paziņot attiecīgajai valsts drošības iestādei, bet izdienas pensijas saņēmējam, kurš atvaļināts no dienesta vai atbrīvots no darba Valsts drošības dienestā, - Valsts sociālās apdrošināšanas aģentūras slepenības režīma struktūrvienībai.
