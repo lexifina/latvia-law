@@ -6,7 +6,7 @@
 4) iegūt informāciju par probācijas klientu.
 (1¹) Valsts probācijas dienesta ierēdņiem funkciju izpildē ir šādas tiesības:
 1) saņemt informāciju par probācijas klienta sodāmībām, to skaitā par dzēstajām sodāmībām;
-2) saņemt informāciju par kriminālprocesa uzsākšanu pret probācijas klientu, par probācijas klientam piemērotajiem drošības līdzekļiem un probācijas klienta meklēšanu;
+2) saņemt informāciju par kriminālprocesa uzsākšanu pret probācijas klientu, par probācijas klientam piemērotajiem drošības līdzekļiem, probācijas klienta meklēšanu un dalību personu vai sabiedrības drošību apdraudējušajos notikumos;
 3) apmeklēt ieslodzījuma vietas;
 4) iepazīties ar tās notiesātās personas lietas materiāliem, par kuru brīvības atņemšanas iestādes administrācija pieprasījusi izvērtēšanas ziņojumu;
 5) apmeklēt probācijas klientu darbavietā vai izglītības iestādē;
@@ -18,8 +18,13 @@
 11) iepazīties ar tās notiesātās personas lietas materiāliem, kura atrodas brīvības atņemšanas iestādē un ir pieteikusies dalībai probācijas programmā;
 12) pieprasīt un saņemt no brīvības atņemšanas iestādes informāciju par veicamo un veikto resocializācijas darbu ar notiesāto;
 13) saņemt informāciju par probācijas klientam piemērotajiem līdzekļiem pagaidu aizsardzībai pret vardarbību;
-14) (punkts stājas spēkā 01.01.2019. un iekļauts likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 14. punktu);
-15) (punkts stājas spēkā 01.01.2019. un iekļauts likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 14. punktu);
+14) ja probācijas klients ir nepilngadīgs, saņemt informāciju par:
+a) nepilngadīgā probācijas klienta mantas pārvaldīšanu,
+b) vecāka aprūpē esoša nepilngadīgā probācijas klienta nodošanu citas personas aprūpē Latvijā vai ārvalstī,
+c) vecāku domstarpībām nepilngadīgā probācijas klienta audzināšanas jautājumos,
+d) vecāku aprūpē esoša nepilngadīgā probācijas klienta nosūtīšanu pie speciālista konsultācijas saņemšanai,
+e) atļauju nepilngadīgajam probācijas klientam šķērsot valsts robežu saskaņā ar normatīvajiem aktiem par kārtību, kādā valsts robežu šķērso bērni;
+15) saņemt informāciju par nepilngadīgu probācijas klientu, kas ir cietis noziedzīga nodarījuma dēļ;
 16) saņemt informāciju par probācijas klientam sniegtajiem sociālajiem pakalpojumiem un sniegto sociālo palīdzību;
 17) saņemt informāciju par probācijas klienta izglītību;
 18) saņemt informāciju par probācijas klienta invaliditāti;
