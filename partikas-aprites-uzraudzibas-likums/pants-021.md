@@ -20,7 +20,7 @@ b) veikt intervences noliktavu uzraudzību atbilstoši normatīvo aktu prasībā
 8) uzraudzīt un kontrolēt ģeogrāfiskas izcelsmes norāžu un cilmes vietu nosaukumu, kā arī tradicionālo īpatnību aizsardzību;
 9) veikt veterināro uzraudzību un kontroli saskaņā ar normatīvajiem aktiem;
 10) noteikt riska pārvaldības pagaidu pasākumus apdraudējuma samazināšanai līdz riska zinātniskai novērtēšanai un riska pārvaldības pasākumu izstrādāšanai, ja ir konstatēts iespējamais apdraudējums cilvēku vai dzīvnieku veselībai un nav veikta riska analīze;
-10¹) izvērtēt diētiskās pārtikas un uztura bagātinātāju atbilstību normatīvajos aktos noteiktajām prasībām;
+10¹) izvērtēt uztura bagātinātāju un Eiropas Parlamenta un Padomes regulā Nr. 609/2013 minēto noteiktās grupās ietilpstošu pārtikas produktu atbilstību izvirzītajām prasībām;
 11) veikt citas normatīvajos aktos noteiktās funkcijas;
 12) iesaistoties Eiropas Savienības ātrās izziņošanas sistēmā, veikt riska faktoru izpēti un panākt riska samazināšanu, novēršot obligātajām nekaitīguma prasībām neatbilstošas un cilvēku veselībai vai dzīvībai draudus radošas pārtikas izplatīšanu Latvijā;
 13) uzraudzīt un kontrolēt Eiropas Savienības tiesību aktos noteikto prasību ievērošanu pārtikas aprites jomā, kā arī sniegt nepieciešamo informāciju Eiropas Savienības institūcijām;
