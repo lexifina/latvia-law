@@ -1,7 +1,7 @@
 6. pants. Pienākums veikt risku novērtējumu un izveidot iekšējās kontroles sistēmu
 (1) Likuma subjekts atbilstoši savam darbības veidam veic un dokumentē noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtējumu, lai noskaidrotu, novērtētu, izprastu un pārvaldītu savai darbībai un klientiem piemītošos noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas riskus, un, pamatojoties uz šo novērtējumu, izveido noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmu, tai skaitā izstrādājot un dokumentējot attiecīgās politikas un procedūras, kuras apstiprina likuma subjekta valde, ja tā ir iecelta, vai likuma subjekta augstākā pārvaldes institūcija.
 (1¹) Likuma subjekts, veicot risku novērtējumu un veidojot iekšējās kontroles sistēmu, ņem vērā:
-1) riskus, kurus identificējusi Eiropas Komisija Eiropas Savienības risku novērtējumā;
+1) riskus, kurus identificējusi Eiropas Komisija Eiropas Savienības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtējumā (turpmāk - Eiropas Savienības risku novērtējums);
 2) riskus, kuri identificēti nacionālajā noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtēšanas ziņojumā;
 3) citus attiecīgā likuma subjekta darbībai raksturīgus riskus.
 (1²) Likuma subjekts, veicot noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas risku novērtējumu un veidojot iekšējās kontroles sistēmu, ņem vērā vismaz šādus riskus ietekmējošus apstākļus:

@@ -1,0 +1,1 @@
+36. Kontroles dienesta priekšnieks, kas pilda savus pienākumus šā likuma 50.¹ panta spēkā stāšanās dienā, saglabā speciālo atļauju pieejai valsts noslēpumam, ja vien netiek konstatēts likumisks pamats šādas atļaujas anulēšanai, par ko ir pieņemts attiecīgs lēmums.

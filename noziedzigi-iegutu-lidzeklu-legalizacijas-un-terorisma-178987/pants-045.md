@@ -9,7 +9,7 @@
 7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
 8) (izslēgts ar 01.12.2009. likumu);
 9) (izslēgts ar 10.12.2009. likumu).
-(1¹) Darījumus ar Valsts kultūras pieminekļu sarakstā iekļautajiem kultūras pieminekļiem uzrauga un kontrolē Valsts kultūras pieminekļu aizsardzības inspekcija.
+(1¹) Darījumus ar Valsts kultūras pieminekļu sarakstā iekļautajiem kultūras pieminekļiem uzrauga un kontrolē Nacionālā kultūras mantojuma pārvalde.
 (2) Valsts ieņēmumu dienests uzrauga šādus šā panta pirmajā daļā neminētos likuma subjektus:
 1) nodokļu konsultantus, ārpakalpojuma grāmatvežus;
 2) neatkarīgus juridisko pakalpojumu sniedzējus, kad tie, darbojoties savu klientu vārdā, sniedz palīdzību darījumu plānošanā vai veikšanā, piedalās tajos vai veic citas ar darījumiem saistītas profesionālas darbības vai apstiprina darījumu sava klienta labā saistībā ar:

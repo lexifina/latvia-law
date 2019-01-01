@@ -1,6 +1,8 @@
-50.pants. Kontroles dienesta juridiskais statuss
-(1) Kontroles dienests ir speciāli izveidota valsts institūcija, kas saskaņā ar šo likumu veic neparastu un aizdomīgu darījumu kontroli un iegūst, saņem, reģistrē, apstrādā, apkopo, uzglabā, analizē un sniedz pirmstiesas izmeklēšanas iestādēm, prokuratūrai un tiesai informāciju, kuru var izmantot noziedzīgi iegūtu līdzekļu legalizācijas, terorisma finansēšanas vai šo darbību mēģinājuma, vai cita ar to saistīta noziedzīga nodarījuma novēršanai, atklāšanai, pirmstiesas kriminālprocesam vai iztiesāšanai.
-(2) Kontroles dienests darbojas prokuratūras pārraudzībā.
-(3) Kontroles dienesta struktūru un amatu sarakstu atbilstoši piešķirtajiem valsts budžeta līdzekļiem nosaka ģenerālprokurors.
-(4) Kontroles dienesta priekšnieku uz četriem gadiem ieceļ amatā un atbrīvo no amata ģenerālprokurors. Kontroles dienesta darbiniekus pieņem darbā, kā arī atlaiž no darba Kontroles dienesta priekšnieks. Kontroles dienesta amatpersonu un darbinieku atlīdzību nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
-(5) Kontroles dienesta priekšniekam un darbiniekiem jāatbilst prasībām, kādas paredzētas likumā "Par valsts noslēpumu", lai saņemtu nepieciešamo speciālo atļauju piekļūšanai sevišķi slepenai informācijai.
+50. pants. Kontroles dienesta juridiskais statuss
+(1) Kontroles dienests ir Ministru kabineta pārraudzībā esoša tiešās pārvaldes iestāde, kas saskaņā ar šo likumu veic neparastu un aizdomīgu darījumu kontroli un iegūst, saņem, reģistrē, apstrādā, apkopo, uzglabā, analizē un sniedz pirmstiesas izmeklēšanas iestādēm, prokuratūrai un tiesai informāciju, kuru var izmantot noziedzīgi iegūtu līdzekļu legalizācijas, terorisma finansēšanas vai šo darbību mēģinājuma, vai cita ar to saistīta noziedzīga nodarījuma novēršanai, atklāšanai, pirmstiesas kriminālprocesam vai iztiesāšanai.
+(2) Kontroles dienesta darbības mērķis ir novērst iespēju izmantot Latvijas Republikas finanšu sistēmu noziedzīgi iegūtu līdzekļu legalizācijai un terorisma finansēšanai.
+(3) Kontroles dienests savā darbībā ir neatkarīgs.
+(4) Ministru kabinets institucionālo pārraudzību īsteno ar iekšlietu ministra starpniecību. Pārraudzība neattiecas uz Kontroles dienestam noteikto uzdevumu un tiesību īstenošanu, kā arī Kontroles dienesta iekšējās organizācijas jautājumiem, tostarp iekšējo normatīvo aktu izdošanu, uzziņas sagatavošanu un lēmumiem, kuri attiecas uz nodarbinātajiem.
+(5) Kontroles dienests lēmumus, kas saistīti ar tā tiesībām un pienākumiem, pieņem neatkarīgi, pamatojoties uz likumu.
+(6) Kontroles dienestu finansē no valsts budžeta.
+(7) Kontroles dienestam ir valsts budžeta konts Valsts kasē, zīmogs ar papildinātā mazā valsts ģerboņa attēlu un pilnu Kontroles dienesta nosaukumu.

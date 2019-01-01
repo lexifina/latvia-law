@@ -6,12 +6,13 @@ a) iekšlietu ministrs,
 b) tieslietu ministrs,
 c) Latvijas Banka,
 d) Finanšu un kapitāla tirgus komisija,
-e) Latvijas Komercbanku asociācija,
+e) Finanšu nozares asociācija,
 f) Latvijas Apdrošinātāju asociācija,
 g) Latvijas Zvērinātu revidentu asociācija,
 h) Latvijas Zvērinātu notāru padome,
 i) Latvijas Zvērinātu advokātu padome,
-j) Augstākā tiesa.
-(2) Konsultatīvās padomes sēdes vada ģenerālprokurors.
-(3) Konsultatīvā padome uz savām sēdēm uzaicina Kontroles dienesta priekšnieku un ekspertus.
+j) Augstākā tiesa,
+k) ģenerālprokurors.
+(2) Konsultatīvās padomes sēdes sasauc un vada, kā arī to darba kārtību nosaka Kontroles dienesta priekšnieks.
+(3) Dalībai Konsultatīvās padomes sēdē var pieaicināt ekspertus.
 (4) Konsultatīvās padomes lietvedību nodrošina Kontroles dienests.
