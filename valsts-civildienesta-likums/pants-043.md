@@ -1,4 +1,3 @@
-43.pants. Valsts civildienesta gaitas apraksts
-(1) Atzīmes par valsts civildienesta gaitu (lēmumiem, kas pieņemti attiecībā uz ierēdni) iestāde izdara ierēdņa valsts civildienesta gaitas aprakstā, kas glabājas iestādē, kurā kalpo ierēdnis.
-(2) Ierēdnim ir tiesības iepazīties ar viņa valsts civildienesta gaitas aprakstu un saņemt tā norakstu.
-(3) (Izslēgta ar 14.11.2008. likumu.)
+43. pants. Izziņa par valsts civildienestu
+(1) Iestādei ir pienākums pēc ierēdņa vai personas, ar kuru izbeigtas valsts civildienesta attiecības, rakstveida pieprasījuma vai valsts vai pašvaldības institūcijas pieprasījuma tās funkciju veikšanai izsniegt rakstveida izziņu par ierēdņa valsts civildienesta attiecību ilgumu, veiktajiem amata pienākumiem, ieturētajiem nodokļiem, valsts sociālās apdrošināšanas obligāto iemaksu veikšanu un valsts civildienesta attiecību izbeigšanas pamatu.
+(2) Izziņā norāda pieprasītās ziņas, kuras iestāde var pamatot ar tās lietvedībā vai arhīvā esošiem dokumentiem.

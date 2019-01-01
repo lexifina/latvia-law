@@ -11,7 +11,7 @@
 2) ministram - iecelšanai iestādes vadītāja amatā;
 3) attiecīgās iestādes vadītājam - iecelšanai citos ierēdņu amatos.
 (4) Attiecīgā šā panta trešajā daļā minētā amatpersona izvērtē pretendentu un ierēdņu vērtēšanas komisijas ieteikumu un pieņem lēmumu par pretendenta iecelšanu amatā.
-(5) Attiecīgā iestāde publicē oficiālajā izdevumā "Latvijas Vēstnesis" šā panta trešajā daļā minētās amatpersonas lēmumu par pretendenta iecelšanu amatā piecu dienu laikā pēc lēmuma pieņemšanas.
+(5) Attiecīgā iestāde publicē Nodarbinātības valsts aģentūras vakanču portālā šā panta trešajā daļā minētās amatpersonas lēmumu par pretendenta iecelšanu amatā piecu dienu laikā pēc lēmuma pieņemšanas.
 (6) Ja pretendenti saņēmuši vienādu novērtējumu, priekšrocības ieņemt ierēdņa amatu ir personai, kura atbrīvota no ierēdņa amata:
 1) sakarā ar iestādes vai ierēdņa amata likvidāciju;
 2) (izslēgts ar 14.11.2008. likumu).

@@ -1,0 +1,1 @@
+21. Attiecībā uz ierēdņiem, par kuriem saskaņā ar šā likuma 41. panta 1. punkta "f" apakšpunktu izdots rīkojums par atstāšanu amatā uz nenoteiktu laiku, šā likuma 41. panta otrajā daļā noteiktais divu gadu termiņš tiek skaitīts no 2019. gada 1. janvāra.
