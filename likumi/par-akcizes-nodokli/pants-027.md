@@ -5,7 +5,7 @@
 2) ārvalstīs (arī dalībvalstīs) - ievešanai Latvijas Republikā.
 (3) Nemarķēt ar akcīzes nodokļa markām atļauts:
 1) alkoholiskos dzērienus:
-a) alkoholiskos dzērienus, kuri iepildīti pudelēs ar tilpumu līdz 100 mililitriem,
+a) alkoholiskos dzērienus, kuri iepildīti iepakojumā ar tilpumu līdz 100 mililitriem (ieskaitot),
 b) alu,
 c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos,
 d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot);
@@ -14,7 +14,8 @@ d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (i
 1³) karsējamo tabaku;
 2) alkoholiskos dzērienus un tabakas izstrādājumus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 16., 17., 20. un 21.pantu vai kuriem piemēro nodokli saskaņā ar šā likuma 16.panta ceturto daļu;
 3) alkoholiskos dzērienus un tabakas izstrādājumus, kurus uzglabā, pārvieto vai realizē vai piegādā, piemērojot atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.pantu;
-4) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona ieved personīgajā bagāžā un kuru daudzums pārsniedz šā likuma 21.panta ceturtajā daļā noteikto vai kurus fiziskā persona saskaņā ar šā likuma 26.pantu Latvijas Republikā no citas dalībvalsts ieved vai saņem personīgam patēriņam.
+4) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona ieved personīgajā bagāžā un kuru daudzums pārsniedz šā likuma 21.panta ceturtajā daļā noteikto vai kurus fiziskā persona saskaņā ar šā likuma 26.pantu Latvijas Republikā no citas dalībvalsts ieved vai saņem personīgam patēriņam;
+5) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona saņem personīgam patēriņam no ārvalsts, kas nav dalībvalsts.
 (4) Akcīzes nodokļa markas izsniedz Valsts ieņēmumu dienests.
 (5) Akcīzes nodokļa markas saņem:
 1) importētājs;
@@ -33,3 +34,4 @@ d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (i
 (12) Ja nodokļa maksātājs atdod Valsts ieņēmumu dienestam saņemtās, bet neizmantotās, nederīgās vai bojātās akcīzes nodokļa markas un nodoklis ir samaksāts atbilstoši atdotajām akcīzes nodokļa markām, samaksāto nodokli pārskaita nodokļu parādu segšanai, turpmākajiem nodokļa maksājumiem vai citu nodokļu maksājumiem. Ja nodokļa maksātājam nav nodokļu parādu, pēc attiecīgā nodokļa maksātāja rakstveida pieprasījuma samaksāto nodokli atmaksā 30 dienu laikā pēc šā panta astotajā un devītajā daļā minēto izdevumu segšanas.
 (12¹) Ja nodokļa maksātājs atdod Valsts ieņēmumu dienestam akcīzes nodokļa markas par laistām brīvā apgrozībā vai nodotām patēriņā akcīzes precēm, kuras izvestas uz citu dalībvalsti, uz valsti, kas nav dalībvalsts, iznīcinātas vai pārstrādātas un par kurām nodoklis ir samaksāts, samaksāto nodokli pārskaita nodokļu parādu segšanai, turpmākajiem nodokļa maksājumiem vai citu nodokļu maksājumiem. Ja nodokļa maksātājam nav nodokļu parādu, pēc attiecīgā nodokļa maksātāja rakstveida pieprasījuma samaksāto nodokli atmaksā 30 dienu laikā pēc šā panta astotajā un devītajā daļā minēto izdevumu segšanas. Ministru kabinets nosaka kārtību (tajā skaitā prasības nodokļa maksātājam un iesniedzamos dokumentus), kādā saskaņā ar šīs daļas nosacījumiem minēto nodokli pārskaita nodokļu parādu segšanai, turpmākajiem nodokļa maksājumiem, citu nodokļu maksājumiem vai nodokli atmaksā un veic alkoholisko dzērienu vai tabakas izstrādājumu iznīcināšanu vai pārstrādi.
 (13) Kārtību, kādā alkoholiskos dzērienus un tabakas izstrādājumus marķē ar akcīzes nodokļa markām (tajā skaitā nosacījumus par pasūtāmo akcīzes nodokļa marku daudzumu, to izsniegšanas termiņus un saņemšanas nosacījumus, kā arī prasības attiecībā uz informācijas sniegšanu par izlietotajām markām), paredz Ministru kabinets.
+(14) Ja par tabakas izstrādājuma drošības elementu beznodokļu tirdzniecības veikalos šā likuma 20. pantā un 21. panta sestajā daļā minētajos gadījumos izmanto akcīzes nodokļa marku, akcīzes nodokļa maksātājs, saņemot akcīzes nodokļa markas, sedz tikai to iegādes izdevumus.

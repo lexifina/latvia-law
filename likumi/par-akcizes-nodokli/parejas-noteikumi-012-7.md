@@ -1,0 +1,1 @@
+12.⁷ Sākot ar 2019. gada 1. janvāri, palielinoties nodokļa likmēm alkoholiskajiem dzērieniem, persona, kura ir saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu mazumtirdzniecībai, inventarizāciju, mainoties nodokļa likmei, var neveikt alkoholiskajiem dzērieniem, kuru iepakojums ir atvērts tirdzniecībai un atvērtā iepakojuma vienības tilpums nepārsniedz divus litrus.

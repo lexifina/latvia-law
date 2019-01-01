@@ -1,5 +1,5 @@
 1.pants. Likumā lietotie termini
-(1) Likumā lietotie termini atbilst likumā "Par nodokļiem un nodevām" lietotajiem terminiem, ja šajā likumā nav noteikts citādi.
+(1) Likumā lietotie termini atbilst likumā "Par nodokļiem un nodevām" un Alkoholisko dzērienu aprites likumā lietotajiem terminiem, ja šajā likumā nav noteikts citādi.
 (2) Likumā ir lietoti arī šādi termini:
 1) akcīzes preces - alkoholiskie dzērieni, tabakas izstrādājumi, naftas produkti, bezalkoholiskie dzērieni, kafija, dabasgāze un elektroniskajās cigaretēs izmantojamais šķidrums;
 2) akcīzes nodokļa marka - alkoholisko dzērienu vai tabakas izstrādājumu akcīzes nodokļa marka, kuru piestiprina alkoholisko dzērienu iepakojumam (pudelei vai citam iepakojumam) vai tabakas izstrādājumu iepakojuma vienībai un kura apliecina, ka marķētiem alkoholiskajiem dzērieniem vai tabakas izstrādājumiem ir legāla izcelsme un tie ņemti valsts kontrolē atbilstoši noteiktajiem akcīzes nodokļa samaksas nosacījumiem;
