@@ -13,6 +13,6 @@
 5) kas neatbilst dienestam veselības stāvokļa dēļ;
 6) kas ir vai ir bijis PSRS, Latvijas PSR vai kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 7) kas ir atvaļināts no militārā vai cita valsts dienesta par disciplīnas pārkāpumiem, izņemot šā panta 2.¹ daļā minēto gadījumu.
-(2.¹) (Daļa stājas spēkā 01.01.2019. un iekļauta likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 25. punktu)
+(2¹) Aizsardzības ministra izveidota komisija Ministru kabineta noteiktajā kārtībā var atļaut Latvijas pilsoņa, kas ir atvaļināts no militārā vai cita valsts dienesta par disciplīnas pārkāpumiem, pieņemšanu militārajā dienestā, bet ne agrāk kā piecus gadus pēc atvaļināšanas dienas.
 (3) Karavīru individuālo un statistisko uzskaiti veic aizsardzības ministra noteiktajā kārtībā.
 (4) Karavīra aktīvais dienests sākas ar dienu, kad viņš ieskaitīts vienības personālsastāvā, un izbeidzas ar dienu, kad viņš izslēgts no vienības personālsastāva.
