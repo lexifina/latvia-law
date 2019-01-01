@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2018. gada 18. decembra noteikumi Nr. 810 \"Automātiskās identifikācijas sistēmas (AIS) un Tālās darbības identifikācijas un sekošanas (LRIT) sistēmas darbības nodrošināšanas, datu izmantošanas un aprites kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "251 (6337)",
+  "official_journal_page": null,
+  "official_journal_date": "2018-12-21",
+  "entry_into_force": "2019-01-01",
+  "notification_date": "2018-12-28",
+  "commission_reference": "MNE(2018)56997",
+  "nim_celex": "72014L0100LVA_266757",
+  "nim_id": "266757",
+  "transposes_celex": [
+    "32014L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9fcf29d1-7be8-4a5f-aeeb-8315a155ce2a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
