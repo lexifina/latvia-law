@@ -13,4 +13,4 @@
 10) uztur Notāru informācijas sistēmu, tai skaitā nodrošina šajā likumā noteikto reģistru darbību, izmanto sistēmas un reģistru datus šajā likumā noteikto Latvijas Zvērinātu notāru padomes pienākumu veikšanai;
 11) Ministru kabineta noteiktajā kārtībā izsniedz ziņas par nākotnes pilnvarojumiem;
 12) veic citus pienākumus, kas noteikti normatīvajos aktos vai ko uzdevusi Latvijas Zvērinātu notāru kolēģija.
-13) (punkts stājas spēkā 01.01.2019. un iekļauts likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 32. punktu)
+13) kārto zvērinātu notāru personālvadības jautājumus, kas saistīti ar zvērinātu notāru atvaļinājumiem, slimībām, komandējumiem un citu attaisnotu prombūtni.
