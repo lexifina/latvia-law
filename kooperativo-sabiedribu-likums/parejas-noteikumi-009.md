@@ -1,0 +1,1 @@
+9. Šā likuma noteikumus par peļņas izlietošanu (27. pants) un zaudējumu segšanu (28. pants) piemēro, sākot ar 2019. pārskata gadu. Peļņas sadalei un zaudējumu segšanai par 2018. pārskata gadu piemēro likuma normas un statūtu noteikumus, kas bija spēkā lēmuma par peļņas izlietošanu vai zaudējumu segšanu pieņemšanas dienā.

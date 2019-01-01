@@ -1,0 +1,1 @@
+2. Ja sabiedrībai atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, nebija noteikts komersanta statuss, tās darījumiem, kas noslēgti līdz 2018. gada 31. decembrim, nepiemēro Komerclikuma noteikumus par komercdarījumiem.

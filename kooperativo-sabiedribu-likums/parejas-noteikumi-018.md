@@ -1,0 +1,1 @@
+18. Līdz šā likuma 8. panta otrajā daļā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 30. jūnijam piemērojami Ministru kabineta 2016. gada 2. februāra noteikumi Nr. 77 "Noteikumi par lauksaimniecības pakalpojumu kooperatīvo sabiedrību un mežsaimniecības pakalpojumu kooperatīvo sabiedrību atbilstības izvērtēšanu", ciktāl tie nav pretrunā ar šo likumu.

@@ -1,0 +1,2 @@
+84. pants. Sabiedrības dokumentu glabāšana
+Likvidators, ievērojot Arhīvu likuma noteikumus, nodrošina sabiedrības dokumentu saglabāšanu un pieejamību. Sabiedrības dokumentus likvidators nodod glabāšanā vienam no sabiedrības biedriem vai trešai personai Latvijā, saskaņojot ar Latvijas Nacionālo arhīvu to glabāšanas vietu. Sabiedrības arhīviski vērtīgos dokumentus, ievērojot Arhīvu likuma noteikumus, nodod glabāšanā Latvijas Nacionālajam arhīvam. Izdevumi, kas saistīti ar dokumentu nodošanu glabāšanā Latvijas Nacionālajam arhīvam, tiek segti no likvidējamās sabiedrības mantas.

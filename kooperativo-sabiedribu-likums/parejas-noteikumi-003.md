@@ -1,0 +1,1 @@
+3. Sabiedrība, kas ierakstīta Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim, savā nosaukumā var saglabāt vārdus "kopdarbības sabiedrība" vai "kooperatīvā biedrība", ja tā nepiesaka Uzņēmumu reģistram izmaiņas sabiedrības nosaukumā.

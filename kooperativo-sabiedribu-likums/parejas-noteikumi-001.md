@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Kooperatīvo sabiedrību likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 6. nr.; 2000, 10. nr.; 2002, 16., 22. nr.; 2006, 21. nr.; 2007, 23. nr.; 2009, 14. nr.; Latvijas Vēstnesis, 2012, 154. nr.; 2013, 193. nr.; 2015, 208. nr.).

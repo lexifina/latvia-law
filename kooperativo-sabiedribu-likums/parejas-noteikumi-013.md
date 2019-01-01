@@ -1,0 +1,1 @@
+13. Ja sabiedrības statūtos noteikts, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu un sabiedrība pirms 2019. gada 1. janvāra nav pieteikusi attiecīgus statūtu grozījumus, Uzņēmumu reģistrs, nepieņemot atsevišķu lēmumu, veic izmaiņas Uzņēmumu reģistra žurnālā, kopīgu pārstāvību ar prokūristu aizstājot ar valdes locekļu kopīgu pārstāvību.

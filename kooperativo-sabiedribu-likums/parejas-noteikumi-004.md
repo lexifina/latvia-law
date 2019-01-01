@@ -1,0 +1,1 @@
+4. Ja atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, Uzņēmumu reģistram bija iesniegti dibināšanas dokumenti un pieteikums, Uzņēmumu reģistra valsts notārs var pieņemt lēmumu par sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā, izmaiņu veikšanu Uzņēmumu reģistra žurnālā, kā arī dokumentu reģistrāciju (pievienošanu lietai).

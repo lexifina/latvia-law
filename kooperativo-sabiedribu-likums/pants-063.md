@@ -1,0 +1,5 @@
+63. pants. Atbildība par sabiedrības valdes, padomes locekļu, prokūristu un komercpilnvarnieku ietekmēšanu
+(1) Persona, kura ar ļaunu nolūku panāk to, ka sabiedrības valdes vai padomes loceklis, prokūrists vai komercpilnvarnieks rīkojas pretēji šīs sabiedrības vai tās biedru interesēm, atbild sabiedrībai par šādas rīcības rezultātā nodarītajiem zaudējumiem.
+(2) Ja šā panta pirmajā daļā minētajā gadījumā ir pamats sabiedrības valdes vai padomes locekļa saukšanai pie atbildības saskaņā ar šā likuma 61. pantu, viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi. Ja ir pamats saukt pie atbildības prokūristu vai komercpilnvarnieku, viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi.
+(3) Sabiedrības valdes loceklis, padomes loceklis, prokūrists vai komercpilnvarnieks neatbild saskaņā ar šā panta otro daļu, ja pierāda, ka rīkojies kā krietns un rūpīgs saimnieks.
+(4) Šā panta pirmajā un otrajā daļā minētie prasījumi noilgst piecu gadu laikā no prasījuma tiesību rašanās dienas.

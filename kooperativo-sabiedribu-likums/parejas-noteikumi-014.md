@@ -1,0 +1,1 @@
+14. Līdz 2018. gada 31. decembrim ievēlētā revīzijas komisija (revidents) ir uzskatāma par iekšējo revidentu šā likuma 57. panta izpratnē. Ja revīzijas komisijas loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā revīzijas komisijas locekļa ievēlēšanas dienā.

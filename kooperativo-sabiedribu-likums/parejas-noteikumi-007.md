@@ -1,0 +1,1 @@
+7. Ja sabiedrība līdz 2018. gada 31. decembrim pieņem lēmumu par biedra izslēgšanu no sabiedrības, biedra izslēgšanas kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā lēmuma pieņemšanas dienā.

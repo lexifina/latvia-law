@@ -1,0 +1,1 @@
+6. Ja biedrs līdz 2018. gada 31. decembrim iesniedz sabiedrībai paziņojumu par izstāšanos no sabiedrības, biedra izstāšanās kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā paziņojuma iesniegšanas dienā.

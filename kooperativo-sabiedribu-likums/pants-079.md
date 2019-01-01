@@ -1,0 +1,4 @@
+79. pants. Kreditoru informēšana
+(1) Uzņēmumu reģistrs uz likvidējamās sabiedrības rēķina izsludina paziņojumu par sabiedrības darbības izbeigšanu un tās likvidāciju oficiālajā izdevumā "Latvijas Vēstnesis" triju dienu laikā no dienas, kad izdarīts ieraksts Uzņēmumu reģistra žurnālā.
+(2) Likvidators paziņo par likvidācijas uzsākšanu visiem zināmajiem sabiedrības kreditoriem.
+(3) Šā panta pirmajā un otrajā daļā minētajā paziņojumā par sabiedrības darbības izbeigšanu sabiedrības kreditori uzaicināmi pieteikt savus prasījumus triju mēnešu laikā pēc paziņojuma publicēšanas dienas, ja biedru kopsapulces lēmumā vai tiesas nolēmumā par sabiedrības darbības izbeigšanu nav noteikts garāks kreditoru prasījumu pieteikšanas termiņš. Prasījumā norāda prasījuma saturu, pamatu un apmēru, un tam pievienojami prasījumu pamatojošie dokumenti.

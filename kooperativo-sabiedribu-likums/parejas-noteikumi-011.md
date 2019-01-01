@@ -1,0 +1,1 @@
+11. Ja sabiedrības valdes vai padomes loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā valdes vai padomes locekļa ievēlēšanas dienā.

@@ -1,0 +1,1 @@
+10. Ja biedru kopsapulce (pilnvaroto sapulce) izziņota līdz 2018. gada 31. decembrim, biedru kopsapulces (pilnvaroto sapulces), kā arī atkārtotas biedru kopsapulces (pilnvaroto sapulces) kompetencei, sasaukšanai, norisei, biedru (pilnvaroto) dalībai un balsstiesību noteikšanai piemēro likuma un statūtu noteikumus, kas bija spēkā sapulces izziņošanas dienā.

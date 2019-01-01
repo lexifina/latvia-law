@@ -1,0 +1,1 @@
+17. Sākot ar 2019. gada 1. jūliju, sabiedrība, piesakot Uzņēmumu reģistram izmaiņas Uzņēmumu reģistra žurnāla ierakstos vai piesakot dokumentu reģistrāciju (pievienošanu reģistrācijas lietai), vienlaikus iesniedz Uzņēmumu reģistram statūtu grozījumus, kas nodrošina to atbilstību šā likuma prasībām.

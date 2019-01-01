@@ -1,0 +1,1 @@
+8. Sabiedrībai, kura reģistrēta Uzņēmumu reģistra žurnālā vai pieteikta reģistrēšanai Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim un kuras statūtos nav paredzēts, ka biedriem var būt atšķirīgs paju skaits, var saglabāt paju sadalījumu starp biedriem, kāds tas bija 2018. gada 31. decembrī.

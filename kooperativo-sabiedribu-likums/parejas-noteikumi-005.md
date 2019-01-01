@@ -1,0 +1,1 @@
+5. Ja persona, kas vēlas kļūt par biedru, līdz 2018. gada 31. decembrim iesniedz sabiedrībai rakstveida pieteikumu par uzņemšanu sabiedrībā, personas uzņemšanai piemēro likuma un statūtu noteikumus, kas bija spēkā pieteikuma iesniegšanas dienā.
