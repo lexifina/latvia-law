@@ -7,4 +7,4 @@
 4) pazemināšanu dienesta pakāpē par vienu pakāpi uz laiku no sešiem mēnešiem līdz vienam gadam;
 5) pazemināšanu amatā;
 6) atvaļināšanu no dienesta.
-(3) Amatpersonām, kuras ieņem amatus Drošības policijā, piemēro Valsts drošības iestāžu likumā noteiktos disciplinārsodus.
+(3) (Izslēgta ar 04.10.2018. likumu).
