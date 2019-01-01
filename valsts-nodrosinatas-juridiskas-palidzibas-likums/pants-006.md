@@ -7,8 +7,8 @@ Juridisko palīdzību atsaka, ja:
 5) kompetentā iestāde ir palīdzējusi personai, norādot uz situācijas risināšanas tiesiskajām iespējām, sagatavojot personas tiesību aizsardzībai vai īstenošanai nepieciešamos dokumentus vai sniedzot cita veida palīdzību, un tāpēc juridiskā palīdzība vairs nav nepieciešama;
 6) divu pēdējo gadu laikā kopš iepriekšējās juridiskās palīdzības pieprasīšanas personai tās sniegšana bijusi pārtraukta tādēļ, ka šī persona, pieprasot juridisko palīdzību, sniegusi īstenībai neatbilstošas ziņas;
 7) persona, kurai bijis uzlikts par pienākumu atmaksāt ar juridisko palīdzību saistītos izdevumus, nav to izdarījusi noteiktajā laikā un apmērā;
-8) tā attiecas uz prasījumu, kas ir tieši saistīts ar personas saimniecisko darbību vai komercdarbību, vai neatkarīgu profesionālo darbību;
-9) tā ir saistīta ar muitas vai nodokļu jautājumiem;
+8) tā attiecas uz prasījumu, kas ir tieši saistīts ar personas saimniecisko darbību vai komercdarbību, vai neatkarīgu profesionālo darbību, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir nepieciešama Satversmes tiesas procesā;
+9) tā ir saistīta ar muitas vai nodokļu jautājumiem, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir nepieciešama Satversmes tiesas procesā;
 10) tā attiecas uz prasījumu par goda un cieņas aizskaršanu;
 11) tā ir saistīta ar morālā kaitējuma atlīdzināšanu, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir saistīta ar noziedzīga nodarījuma rezultātā cietušajam nodarītā morālā kaitējuma atlīdzināšanu;
 12) strīdu izšķir šķīrējtiesā vai izmantojot citus alternatīvus strīdu risināšanas mehānismus;
@@ -16,4 +16,5 @@ Juridisko palīdzību atsaka, ja:
 14) tā attiecas uz prasījumu, kas saistīts ar greznumlietām vai greznuma pakalpojumiem;
 15) ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu;
 16) attiecībā uz personu ir pieņemts lēmums par juridiskās palīdzības sniegšanas pārtraukšanu, pamatojoties uz šā likuma 33.panta septītās daļas 4.punktu, un kopš šā lēmuma pieņemšanas nav pagājis gads;
-17) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību.
+17) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību;
+18) personai nav iestājušies šā likuma 9.¹ panta pirmajā daļā noteiktie juridiskās palīdzības saņemšanas nosacījumi.

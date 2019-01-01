@@ -2,7 +2,7 @@
 (1) Persona, kas vēlas saņemt juridisko palīdzību, iesniedz:
 1) iesniegumu par juridisko palīdzību - aizpildītu juridiskās palīdzības pieprasījuma veidlapu;
 2) ja nepieciešams, dokumentu kopijas, kas apliecina veidlapā minētās ziņas;
-3) dokumentus, kas apliecina personas īpašo situāciju, vai normatīvajos aktos noteiktajā kārtībā izdoto dokumentu (izziņu), kas apliecina personas atbilstību trūcīgas vai maznodrošinātas personas statusam.
+3) dokumentus, kas apliecina personas atbilstību juridiskās palīdzības saņemšanai.
 (2) Juridiskās palīdzības pieprasījuma veidlapas paraugu apstiprina Ministru kabinets.
 (3) Persona var saņemt juridiskās palīdzības pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu un tai pievienojamiem dokumentiem Juridiskās palīdzības administrācijā vai pašvaldībā, kuras administratīvajā teritorijā ir šīs personas deklarētā dzīvesvieta vai kur tā tiesiski uzturas.
 (4) Juridiskās palīdzības pieprasījuma veidlapu un informāciju par tās aizpildīšanu izsniedz bez maksas.

@@ -24,5 +24,6 @@
 4) persona atkārtoti bez attaisnojoša iemesla nav ieradusies pie juridiskās palīdzības sniedzēja norādītajā laikā un vietā un nav paziņojusi par neierašanos Juridiskās palīdzības administrācijai vai juridiskās palīdzības sniedzējam vai atsakās līdzdarboties juridiskās palīdzības saņemšanai vai lēmuma par juridiskās palīdzības piešķiršanu izpildes nodrošināšanai;
 5) pēc lēmuma par juridiskās palīdzības piešķiršanu pieņemšanas tiek konstatēts, ka persona neatbilst šā likuma 3.panta prasībām;
 6) konstatē, ka ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu;
-7) persona, pieprasot juridisko palīdzību, sniegusi nepatiesas ziņas.
+7) persona, pieprasot juridisko palīdzību, sniegusi nepatiesas ziņas;
+8) persona nav samaksājusi iemaksu par juridiskās palīdzības saņemšanu šajā likumā noteiktajā gadījumā un kārtībā.
 (8) Juridiskās palīdzības administrācijai ir tiesības apturēt lēmuma par juridiskās palīdzības piešķiršanu izpildi, ja nepieciešams pieprasīt papildu informāciju juridiskās palīdzības nodrošināšanai. Pēc papildu informācijas saņemšanas Juridiskās palīdzības administrācija atjauno lēmuma par juridiskās palīdzības piešķiršanu izpildi.
