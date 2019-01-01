@@ -1,5 +1,5 @@
 14. pants. Militārās izlūkošanas un drošības dienests
-(1) Militārās izlūkošanas un drošības dienests ir Aizsardzības ministrijas pārraudzībā esoša valsts drošības iestāde, kas veic militāro pretizlūkošanu, izlūkošanu un citus šajā likumā noteiktos uzdevumus.
+(1) Militārās izlūkošanas un drošības dienests ir aizsardzības ministra pārraudzībā esoša valsts drošības iestāde, kas veic militāro pretizlūkošanu, izlūkošanu un citus šajā likumā noteiktos uzdevumus.
 (2) Militārās izlūkošanas un drošības dienests:
 1) iegūst un nodrošina Aizsardzības ministriju, tās padotībā esošās iestādes, citas valsts varu un pārvaldi realizējošās institūcijas un to atbildīgās amatpersonas, kā arī Nacionālos bruņotos spēkus ar to darbībai nepieciešamo pretizlūkošanas un izlūkošanas informāciju;
 2) atklāj un sadarbībā ar citām valsts drošības iestādēm novērš ārvalstu speciālo dienestu, kā arī organizāciju vai atsevišķu personu graujošo darbību Aizsardzības ministrijā, tās padotībā esošajās iestādēs un Nacionālajos bruņotajos spēkos;

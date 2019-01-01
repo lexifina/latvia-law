@@ -1,27 +1,19 @@
-18. pants. Dienests valsts drošības iestādēs
-(1) Par valsts drošības iestāžu amatpersonu vai darbinieku var būt persona, uz kuru neattiecas šā panta otrajā daļā noteiktie ierobežojumi.
-(2) Par valsts drošības iestāžu amatpersonu vai darbinieku nevar būt persona:
-1) kura nav Latvijas pilsonis;
-2) kurai nav vismaz vidējā izglītība;
-3) kura neprot latviešu valodu atbilstoši nepieciešamajai valsts valodas prasmes pakāpei un vismaz vienu svešvalodu;
-4) kura ir jaunāka par 18 gadiem;
-5) kura saukta pie kriminālatbildības un bijusi notiesāta par tīšu noziedzīgu nodarījumu, kā arī par valsts noslēpuma izpaušanu aiz neuzmanības, izņemot gadījumu, ja persona reabilitēta;
-6) kurai liegta pieeja valsts noslēpumam;
-7) kura ir atbrīvota no amata ar tiesas spriedumu krimināllietā;
-8) kuras rīcībspēja ierobežota likumā noteiktajā kārtībā;
-9) kura ir vai ir bijusi PSRS, Latvijas PSR vai kāda ārvalsts drošības dienesta (izlūkdienesta vai pretizlūkošanas dienesta) štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa (segorganizācijas jebkurā tās formā) turētājs;
-10) kura pēc 1991. gada 13. janvāra darbojusies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā vai Vislatvijas sabiedrības glābšanas komitejā.
-(3) Pamatnosacījumus iecelšanai amatā vai pieņemšanai darbā valsts drošības iestādēs, profesionālās sagatavotības kritērijus un citus ar dienestu (darbu) saistītos jautājumus nosaka šis likums, kā arī likums "Par valsts noslēpumu" un citi likumi, kas reglamentē valsts drošības iestāžu darbību, šo iestāžu nolikumi un citi normatīvie akti.
-(4) Ārvalstu pilsoņi (pavalstnieki) un Latvijas nepilsoņi drīkst veikt valsts drošības iestādes eksperta vai konsultanta pienākumus uz darba līguma vai vienošanās pamata tikai tad, ja ir:
-1) valsts drošības iestādes vadītāja atzinums par nepieciešamību izmantot šo personu profesionālās zināšanas un Saeimas Nacionālās drošības komisija ir saņēmusi atbilstošu motivētu iesniegumu;
-2) izpildīti likumā "Par valsts noslēpumu" paredzētie nosacījumi;
-3) Saeimas Nacionālās drošības komisijas piekrišana attiecībā uz iespēju izmantot personu darbā valsts drošības iestādēs.
-(5) Valsts drošības iestāžu amatpersona ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi, ko tā izvirzījusi vai devusi, pildot amata pienākumus, visām personām ir obligāti. Valsts drošības iestāžu amatpersonas goda aizskaršana, pretošanās tai, dzīvības vai veselības apdraudējums, kā arī rīcība, kas tai traucē pildīt amata pienākumus, sodāma saskaņā ar likumu.
-(6) (Izslēgta ar 01.12.2009. likumu)
-(7) Valsts drošības iestāžu amatpersonas valsts teritorijā bez ģenerālprokurora piekrišanas nav saucamas pie kriminālatbildības, tās nedrīkst pakļaut aizturēšanai (arī administratīvajai aizturēšanai), kratīšanai, piespiedu atvešanai; kratīšanai vai apskatei nav pakļaujamas to dzīvojamās vai dienesta telpas, personiskie vai dienesta transporta līdzekļi. Kriminālprocesuālie ierobežojumi uz šīm amatpersonām nav attiecināmi gadījumos, kad tās ir notvertas noziedzīga nodarījuma izdarīšanā, par ko 24 stundu laikā jāinformē ģenerālprokurors un attiecīgās valsts drošības iestādes vadītājs.
-(8) (Izslēgta ar 20.06.2000. likumu)
-(9) (Izslēgta ar 01.12.2009. likumu)
-(10) (Izslēgta ar 01.12.2009. likumu)
-(11) (Izslēgta ar 01.12.2009. likumu)
-(12) (Izslēgta ar 01.12.2009. likumu)
-(13) (Izslēgta ar 01.12.2009. likumu)
+18. pants. Vispārīgie dienesta un darba noteikumi, amatpersonām un darbiniekiem noteiktie aizliegumi
+(1) Valsts drošības iestāžu personāls ir amatpersonas un darbinieki.
+(2) Valsts drošības iestādes amatpersona ir nodarbināta valsts drošības iestāžu dienestā. Darba tiesiskās attiecības reglamentējošo normatīvo aktu normas valsts drošības iestāžu dienesta tiesiskajās attiecībās piemērojamas, ciktāl attiecīgos jautājumus nenosaka šis likums un Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likums.
+(3) Valsts drošības iestādes amatpersona ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi, ko tā izvirzījusi vai devusi, pildot dienesta pienākumus, visām personām ir obligāti. Pretošanās valsts drošības iestādes amatpersonai, tās dzīvības vai veselības apdraudējums, kā arī rīcība, kas tai traucē pildīt dienesta pienākumus, ir sodāma saskaņā ar likumu. Valsts drošības iestādes amatpersonai tās pilnvaru apliecināšanai izsniedz dienesta apliecību. Dienesta apliecības paraugu nosaka Ministru kabinets.
+(4) Valsts drošības iestādes amatpersona Latvijas teritorijā bez ģenerālprokurora piekrišanas nav saucama pie kriminālatbildības, to nedrīkst pakļaut aizturēšanai (arī administratīvajai aizturēšanai), kratīšanai, piespiedu atvešanai, kā arī kratīšanai vai apskatei nav pakļaujamas tās dzīvojamās vai dienesta telpas, personiskie vai dienesta transportlīdzekļi. Kriminālprocesuālā imunitāte uz valsts drošības iestādes amatpersonu nav attiecināma gadījumos, kad tā ir notverta noziedzīga nodarījuma izdarīšanā, par ko 24 stundu laikā informējams ģenerālprokurors un attiecīgās valsts drošības iestādes vadītājs.
+(5) Valsts drošības iestādes darbinieks ir persona, kas valsts drošības iestādē veic tādus darba pienākumus, kuru izpildei nav nepieciešamas šajā likumā noteiktās valsts drošības iestādes amatpersonas tiesības. Attiecībā uz valsts drošības iestādes darbinieku piemēro darba tiesiskās attiecības regulējošo normatīvo aktu normas, ciktāl šis likums nenosaka citādi.
+(6) Valsts drošības iestādes amatpersonai un darbiniekam ir aizliegts:
+1) veikt politisko darbību, organizēt streikus, demonstrācijas, piketus un piedalīties tajos, dibināt arodbiedrības un piedalīties to darbībā;
+2) izmantojot dienesta stāvokli, izlemt jautājumus, kas saistīti ar pašas amatpersonas vai darbinieka, amatpersonas vai darbinieka saderinātā, laulātā, vecāku, vecvecāku, bērnu, mazbērnu, adoptētāju, adoptēto, brāļu, māsu, pusbrāļu un pusmāsu, kā arī tās personas, ar kuru attiecīgā amatpersona vai darbinieks dzīvo kopā un ar kuru amatpersonai vai darbiniekam ir kopīga (nedalīta) saimniecība, personiskajām interesēm.
+(7) Ņemot vērā dienesta nepieciešamību un drošības apsvērumus, valsts drošības iestādes vadītājs var noteikt aizliegumu valsts drošības iestādes amatpersonai vai darbiniekam izbraukt uz konkrētu ārvalsti vai noteikt citus ierobežojumus.
+(8) Valsts drošības iestādes amatpersonai komercdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
+(9) Valsts drošības iestādes amatpersona un darbinieks dienesta (darba) pienākumu izpildes laikā un ārpus tā ar savu rīcību nedrīkst diskreditēt sevi, iestādi un valsti.
+(10) Valsts drošības iestādes amatpersonas un darbinieka vispārīgie pienākumi ir:
+1) ievērot Latvijas Republikas Satversmi, Latvijas Republikai saistošas starptautisko tiesību normas, likumus un citus normatīvos aktus;
+2) godprātīgi pildīt doto zvērestu;
+3) apzinīgi, godprātīgi, darbojoties valsts un sabiedrības interesēs, pildīt dienesta (darba) pienākumus un augstāku valsts drošības iestāžu amatpersonu likumīgos rīkojumus (pavēles);
+4) ievērot noteiktos ētikas principus;
+5) regulāri papildināt zināšanas un pilnveidot profesionālās iemaņas un prasmes, kas nepieciešamas dienesta (darba) pienākumu pildīšanai.
+(11) Valsts drošības iestādes amatpersonai un darbiniekam piederošais īpašums un tā pārvaldīšana nedrīkst būt par šķērsli vai kavēkli dienesta (darba) pienākumu pildīšanai vai šīs amatpersonas un darbinieka pārcelšanai citā amatā (darbā).

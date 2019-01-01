@@ -1,0 +1,1 @@
+12. Normatīvajos aktos lietotais valsts drošības iestādes nosaukums "Drošības policija" līdz šo aktu redakcijas pakāpeniskai precizēšanai turpmāk saprotams kā valsts drošības iestādes nosaukums "Valsts drošības dienests".

@@ -1,0 +1,1 @@
+8. Attiecībā uz amatpersonu, kura 2019. gada 1. janvārī ieņem Militārās izlūkošanas un drošības dienesta priekšnieka amatu, šā likuma 12.¹ panta otrajā daļā noteiktais amata pilnvaru termiņš tiek skaitīts no 2019. gada 1. janvāra.

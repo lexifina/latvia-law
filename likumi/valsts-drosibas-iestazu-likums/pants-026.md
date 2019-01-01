@@ -1,7 +1,7 @@
 26. pants. Valsts drošības iestāžu darbības uzraudzība
 (1) Ģenerālprokurors un viņa īpaši pilnvaroti prokurori veic uzraudzību pār valsts drošības iestāžu operatīvās darbības, izlūkošanas un pretizlūkošanas procesiem un valsts noslēpuma aizsardzības sistēmu. Veicot uzraudzību, viņi ir tiesīgi iepazīties ar valsts drošības iestāžu rīcībā esošajiem dokumentiem, materiāliem un informāciju. Informācijas avotu identitāte atklājama tikai tādos gadījumos, kad tie ir tieši iesaistīti noziedzīga nodarījuma izdarīšanā, turklāt vienīgi ģenerālprokuroram, bet viņa īpaši pilnvarotiem prokuroriem - tikai ar valsts drošības iestādes vadītāja atļauju; informācijas avotu identitāti atklāt uzraudzības kārtībā ir aizliegts.
-(2) Prokuroriem, kuri uzrauga valsts drošības iestādes, informācijas aizsargāšanas pienākumi ir tādi paši kā šo iestāžu darbiniekiem.
+(2) Personām, kuras īsteno kontroli, pārraudzību vai uzraudzību pār valsts drošības iestādes darbību, informācijas aizsargāšanas pienākumi ir tādi paši kā šo iestāžu amatpersonām un darbiniekiem.
 (3) Valsts drošības iestāžu pārbaudes un šo pārbaužu apjoms jāsaskaņo ar Saeimas Nacionālās drošības komisiju un jāziņo tai par pārbaužu rezultātiem.
-(4) Valsts drošības iestādes ir pakļautas tiesas kontrolei Operatīvās darbības likumā noteiktajos gadījumos un kārtībā.
+(4) Valsts drošības iestādes ir pakļautas tiesas kontrolei likumā noteiktajos gadījumos un kārtībā.
 (5) Valsts drošības iestāžu iekšējie normatīvie akti, kas ir saistīti ar operatīvās darbības, izlūkošanas un pretizlūkošanas procesiem un valsts noslēpuma aizsardzības sistēmu, stājas spēkā pēc saskaņošanas ar ģenerālprokuroru.
 (6) Šā panta piektajā daļā minētie iekšējie normatīvie akti nav jāsaskaņo ar Tieslietu ministriju.

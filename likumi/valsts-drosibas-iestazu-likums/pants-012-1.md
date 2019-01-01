@@ -1,0 +1,6 @@
+12.¹ pants. Valsts drošības iestādes vadītājs
+(1) Valsts drošības iestādes vadītājs vada attiecīgās valsts drošības iestādes darbu un ir atbildīgs par normatīvajos aktos noteikto iestādes uzdevumu efektīvu izpildi.
+(2) Valsts drošības dienesta un Militārās izlūkošanas un drošības dienesta priekšnieku amatā uz pieciem gadiem ieceļ Ministru kabinets pēc attiecīgās nozares ministra ierosinājuma. Trīs mēnešus pirms amata pilnvaru termiņa beigām pēc attiecīgā ministra ieteikuma Ministru kabinets pieņem lēmumu par termiņa pagarināšanu uz pieciem gadiem vai pamatotu lēmumu par atbrīvošanu no valsts drošības iestādes vadītāja amata.
+(3) Satversmes aizsardzības biroja direktora iecelšanas un atbrīvošanas kārtību, kā arī amata pilnvaru termiņu nosaka Satversmes aizsardzības biroja likums un Nacionālās drošības likums.
+(4) Par valsts drošības iestādes vadītāju var būt persona, kurai ir amatam atbilstoša pieredze vadošā amatā un kura atbilst valsts drošības iestādes amatpersonām un darbiniekiem noteiktajām obligātajām prasībām un ir saņēmusi pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
+(5) Valsts drošības iestādes vadītājs bez saskaņošanas ar augstāku iestādi slēdz starpresoru vienošanās un izdod iekšējos normatīvos aktus, ievērojot šajā likumā noteiktos izņēmumus.

@@ -1,0 +1,1 @@
+9. Amatpersona vai darbinieks, kurš līdz 2019. gada 1. janvārim nav ieguvis augstāko izglītību un attiecībā uz kuru nav piemērojams šā likuma 20. panta trešajā daļā paredzētais izņēmums, var turpināt ieņemt amatpersonas amatu vai veikt darbu līdz 2024. gada 1. janvārim bez šajā likumā noteiktajām prasībām atbilstošas izglītības.

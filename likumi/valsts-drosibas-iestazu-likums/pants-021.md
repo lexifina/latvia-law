@@ -1,10 +1,4 @@
-21. pants. Valsts drošības iestāžu amatpersonu un darbinieku atbildība
-(1) Valsts drošības iestāžu amatpersonas un darbinieki par prettiesisku rīcību ir atbildīgi likumos noteiktajā kārtībā, ievērojot šajā likumā paredzētos ierobežojumus un kārtību.
-(2) Par likumpārkāpumu netiek atzīta tāda rīcība, kas, pildot dienesta uzdevumu, izdarīta attaisnota profesionāla riska situācijā, nepārkāpjot nepieciešamās aizstāvēšanās vai galējās nepieciešamības robežu.
-(3) Ja kompetenta valsts institūcija vai tās amatpersona konstatējusi, ka valsts drošības iestādes amatpersona vai darbinieks ir izdarījis administratīvu pārkāpumu, par to 24 stundu laikā rakstveidā jāinformē attiecīgās valsts drošības iestādes vadītājs, kuram triju dienu laikā jāsniedz atzinums, vai nepastāv apstākļi, kas izslēdz pakļautās amatpersonas vai darbinieka atbildību.
-(4) Valsts drošības iestādes vadītājs par valsts drošības iestādes amatpersonas vai darbinieka prettiesisku vai neētisku rīcību, izvērtējot pārkāpuma smagumu, piemēro šādus disciplinārsodus:
-1) piezīmi;
-2) rājienu;
-3) mēneša amatalgas samazināšanu līdz 20 procentiem uz laiku līdz vienam gadam;
-4) pazemināšanu amatā;
-5) atbrīvošanu no darba (dienesta).
+21. pants. Pārbaudes termiņš pēc pieņemšanas dienestā (darbā) un iecelšanas amatā
+(1) Pieņemot dienestā (darbā) un ieceļot amatā, amatpersonai un darbiniekam nosaka pārbaudes termiņu, lai noskaidrotu, vai amatpersona vai darbinieks atbilst tam uzticēto pienākumu veikšanai.
+(2) Pārbaudes termiņu nosaka uz laiku līdz sešiem mēnešiem. Ja nepieciešams, valsts drošības iestādes vadītājs amatpersonai var pagarināt pārbaudes termiņu. Kopējais pārbaudes termiņš amatpersonai nedrīkst pārsniegt deviņus mēnešus. Pārbaudes termiņā neieskaita pārejošas darbnespējas laiku.
+(3) Pārbaudes termiņa laikā valsts drošības iestādes vadītājs var atbrīvot amatpersonu vai darbinieku no amata (darba) un atvaļināt no dienesta, nenorādot iemeslu un rakstveidā par to brīdinot vismaz trīs darbdienas iepriekš.

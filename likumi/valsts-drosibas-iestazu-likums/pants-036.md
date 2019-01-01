@@ -1,0 +1,3 @@
+36. pants. Amatpersonas atvaļinājums
+(1) Amatpersonai ikgadējo apmaksāto atvaļinājumu piešķir valsts drošības iestādes vadītāja noteiktajā kārtībā saskaņā ar atvaļinājumu grafiku. Atvaļinājumu grafiku izstrādā tā, lai nodrošinātu valsts drošības iestādes funkciju nepārtrauktu izpildi. Valsts drošības iestādes vadītājam ikgadējo apmaksāto atvaļinājumu piešķir attiecīgais ministrs.
+(2) Ja tas nepieciešams valsts drošības iestādes funkciju nepārtrauktai izpildei, amatpersonas ikgadējā apmaksātā atvaļinājuma daļu var pārcelt uz nākamo gadu. Pārcelto atvaļinājuma daļu pēc iespējas pievieno nākamā gada atvaļinājumam.

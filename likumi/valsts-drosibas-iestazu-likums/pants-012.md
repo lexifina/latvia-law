@@ -5,7 +5,8 @@
 2) saskaņo informācijas apriti, tās analīzes un izmantošanas kārtību valsts drošības iestādēs;
 3) izstrādā valsts drošības iestāžu budžeta projektu;
 4) apkopo valsts drošības iestāžu priekšlikumus un prasības, iesniedz un uztur tās valsts varu un pārvaldi realizējošās institūcijās;
-5) izskata normatīvo aktu projektus valsts drošības iestāžu darbības jautājumos;
+5) izskata ārējo normatīvo aktu projektus valsts drošības iestāžu darbības jautājumos;
 6) izvērtē valsts drošības iestāžu darbības efektivitāti;
-7) izskata un saskaņo valsts drošības iestāžu izlūkošanas un pretizlūkošanas darbības nolikumus.
+7) izskata un saskaņo valsts drošības iestāžu izlūkošanas un pretizlūkošanas darbības nolikumus;
+8) pieņem valsts drošības iestādēm saistošus iekšējos normatīvos aktus jautājumos, kuros nepieciešama valsts drošības iestāžu saskaņota darbība.
 (3) Valsts drošības iestāžu padomes sēdēs var piedalīties ģenerālprokurors.
