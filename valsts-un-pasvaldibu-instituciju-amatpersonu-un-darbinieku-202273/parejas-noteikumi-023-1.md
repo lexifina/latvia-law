@@ -1,0 +1,1 @@
+23.¹ Augstākās tiesas tiesnesim, kuram ar Tieslietu padomes lēmumu saskaņā ar likuma "Par tiesu varu" pārejas noteikumu 74.² punktu uzdots pildīt tiesneša amata pienākumus apgabaltiesā, mēnešalgu nosaka, rajona (pilsētas) tiesas tiesneša mēnešalgai piemērojot koeficientu 1,35.

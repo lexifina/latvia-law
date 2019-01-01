@@ -1,0 +1,2 @@
+13.⁷ pants. Datu valsts inspekcijas amatpersonu (darbinieku) mēnešalga
+Datu valsts inspekcijas amatpersonu (darbinieku) mēnešalgu šīs institūcijas reglamentētajā kārtībā nosaka, ņemot vērā amata vērtību (atbildības līmeni un sarežģītību), konkrētās amatpersonas (darbinieka) individuālās kvalifikācijas un kompetenču novērtējumu, kā arī bāzes mēnešalgas apmēru (4. panta otrā daļa). Datu valsts inspekcijas amatpersonu (darbinieku) mēnešalga nedrīkst pārsniegt bāzes mēnešalgas apmēru (4. panta otrā daļa), kam piemērots koeficients 4,05 un kas noapaļots pilnos euro.

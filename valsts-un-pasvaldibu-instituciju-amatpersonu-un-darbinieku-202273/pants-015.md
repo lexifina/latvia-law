@@ -3,20 +3,21 @@
 (2) Par īpašu risku šā likuma izpratnē uzskatāms amats (dienests, darbs), kas saskaņā ar darba vides risku novērtējumu ir saistīts ar tik lielā mērā paaugstinātu psiholoģisko vai fizisko slodzi vai risku darbinieka drošībai un veselībai, ka to nevar novērst vai samazināt līdz pieļaujamam līmenim ar darba aizsardzības pasākumiem.
 (3) Pašvaldības amatpersonai (darbiniekam) speciālās piemaksas par darbu, kas saistīts ar īpašu risku, un par nosacījumiem, kuri saistīti ar amata (darba) specifiku, kā arī to amatpersonu (darbinieku) sarakstu, kurām šādas piemaksas pienākas, un šo piemaksu apmēru nosaka attiecīgās pašvaldības dome. Piemaksu apmērs nedrīkst pārsniegt tiešās pārvaldes iestāžu amatpersonām (darbiniekiem) Ministru kabineta noteikto speciālo piemaksu apmēru.
 (4) Ja tiesnesis tiesneša profesionālās darbības kārtējā novērtēšanā saņēmis pozitīvu atzinumu, tiesnesim, izņemot Satversmes tiesas tiesnesi, nosaka izdienas piemaksu pie mēnešalgas šādā apmērā:
-1) pēc trim amatā nostrādātiem gadiem - 7 procenti no mēnešalgas;
-2) pēc sešiem amatā nostrādātiem gadiem - 14 procenti no mēnešalgas;
-3) pēc 10 amatā nostrādātiem gadiem - 21 procents no mēnešalgas;
-4) pēc 15 amatā nostrādātiem gadiem - 28 procenti no mēnešalgas;
-5) pēc 20 amatā nostrādātiem gadiem - 35 procenti no mēnešalgas.
-(5) Prokuroram nosaka piemaksu par prokurora amata pakāpi šādā apmērā:
-1) jaunākajam tieslietu padomniekam - 7 procenti no mēnešalgas;
-2) tieslietu padomniekam - 14 procentu no mēnešalgas;
-3) vecākajam tieslietu padomniekam - 21 procents no mēnešalgas;
-4) valsts tieslietu padomniekam - 28 procenti no mēnešalgas;
-5) vecākajam valsts tieslietu padomniekam - 35 procenti no mēnešalgas.
+1) pēc sešiem amatā nostrādātiem gadiem - 5 procenti no mēnešalgas;
+2) pēc 10 amatā nostrādātiem gadiem - 10 procenti no mēnešalgas.
+(5) Ja prokurors prokurora profesionālās darbības kārtējā novērtēšanā saņēmis pozitīvu atzinumu, prokuroram nosaka izdienas piemaksu pie mēnešalgas šādā apmērā:
+1) pēc sešiem amatā nostrādātiem gadiem - 5 procenti no mēnešalgas;
+2) pēc 10 amatā nostrādātiem gadiem - 10 procenti no mēnešalgas.
 (6) Augstākās tiesas priekšsēdētājs vai viņa īpaši pilnvaroti Augstākās tiesas tiesneši par vienu dežūras dienu saņem piemaksu triju procentu apmērā no šā likuma 6.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas par Operatīvās darbības likuma 7.panta ceturtajā daļā paredzēto sevišķā veidā veicamo operatīvās darbības pasākumu un Kredītiestāžu likuma 63.panta pirmās daļas 6. un 7.punktā paredzēto kredītiestāžu rīcībā esošo neizpaužamo ziņu pieprasījumu akceptēšanu.
 (7) (Izslēgta ar 16.06.2011. likumu)
 (8) Prokurors par vienu dežūras dienu saņem piemaksu ģenerālprokurora noteiktajā kārtībā un apmērā, bet ne vairāk kā trīs procentus no šā likuma 6.² panta pirmās daļas 1.punktā noteiktās prokurora mēnešalgas, vai arī prokuroram tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.
 (9) Tiesnesis par darbu nedēļas atpūtas laikā vai svētku dienā saskaņā ar izmeklēšanas tiesnešu darba grafiku saņem piemaksu triju procentu apmērā no šā likuma 6.¹ panta pirmajā daļā noteiktās tiesneša mēnešalgas vai arī viņam tiek piešķirts apmaksāts atpūtas laiks citā nedēļas dienā.
 (10) Valsts kontrolieris saņem piemaksu 50 procentu apmērā no viņam noteiktās mēnešalgas par Valsts kontroles padomes priekšsēdētāja pienākumu pildīšanu. Valsts kontroles padomes loceklis saņem piemaksu 50 procentu apmērā no viņam noteiktās mēnešalgas par Valsts kontroles revīzijas departamenta direktora pienākumu pildīšanu.
 (11) Amatpersona (darbinieks), izņemot šā likuma 5., 5.¹, 6., 6.¹ pantā, 6.² panta pirmās daļas 10.punktā un 13.pantā minētās amatpersonas (darbiniekus) un fiziskā darba veicējus, var saņemt speciālo piemaksu par valsts vai pašvaldības institūcijai būtisko funkciju nodrošināšanu vai stratēģiski svarīgu mērķu īstenošanu. Speciālās piemaksas apmērs nepārsniedz 100 procentus no mēnešalgas, un mēnešalgas apmērs kopā ar šo speciālo piemaksu nepārsniedz Ministru prezidentam noteikto mēnešalgu. Šādu amatpersonu (darbinieku) īpatsvars nepārsniedz piecus procentus no attiecīgajā atvasinātajā publiskajā personā, tiešās pārvaldes iestādē vai citā valsts institūcijā nodarbināto amatpersonu (darbinieku) skaita. Speciālo piemaksu regulāri pārskata, izvērtējot tās nepieciešamību un pamatojumu, bet ne retāk kā reizi pusgadā atbilstoši attiecīgajā atvasinātajā publiskajā personā, tiešās pārvaldes iestādē vai citā valsts institūcijā nodarbināto amatpersonu (darbinieku) skaitam.
+(12) Korupcijas novēršanas un apkarošanas biroja amatpersonai nosaka izdienas piemaksu pie mēnešalgas šādā apmērā:
+1) pēc trim Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 5 procenti no mēnešalgas;
+2) pēc sešiem Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 10 procenti no mēnešalgas;
+3) pēc deviņiem Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 15 procenti no mēnešalgas;
+4) pēc 12 Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 20 procenti no mēnešalgas;
+5) pēc 15 Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 25 procenti no mēnešalgas;
+6) pēc 18 Korupcijas novēršanas un apkarošanas birojā nostrādātiem gadiem - 30 procenti no mēnešalgas.
