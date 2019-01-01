@@ -1,2 +1,2 @@
-88.pants. (1) Sevišķi steidzamos gadījumos zvērināts tiesu izpildītājs var izmantot ārkārtas atvaļinājumu, kas nav ilgāks par trijām dienām, iepriekš neprasot tieslietu ministra atļauju. Šādā gadījumā zvērināts tiesu izpildītājs, tiklīdz iespējams, paziņo, kādēļ un cik ilgi viņš nav pildījis savus pienākumus.
+88.pants. (1) Sevišķi steidzamos gadījumos zvērināts tiesu izpildītājs var izmantot ārkārtas atvaļinājumu, kas nav ilgāks par trijām dienām, iepriekš neprasot Latvijas Zvērinātu tiesu izpildītāju padomes saskaņojumu. Šādā gadījumā zvērināts tiesu izpildītājs, tiklīdz iespējams, paziņo, kādēļ un cik ilgi viņš nav pildījis savus pienākumus.
 (2) Šādos gadījumos zvērināta tiesu izpildītāja amata pienākumus var pildīt zvērināta tiesu izpildītāja palīgs.

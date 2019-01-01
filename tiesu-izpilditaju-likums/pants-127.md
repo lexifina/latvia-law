@@ -10,4 +10,6 @@
 9) gādā par to zvērinātu tiesu izpildītāju un zvērinātu tiesu izpildītāju palīgu lietvedībā esošo lietu nokārtošanu, kuri miruši, bez vēsts pazuduši, saslimuši vai citu iemeslu dēļ paši nevar kārtot savas profesionālās darbības lietas;
 10) pēc apgabaltiesas priekšsēdētāja vai tieslietu ministra pieprasījuma, pēc savas iniciatīvas vai disciplinārlietu komisijas lūguma norīko zvērinātus tiesu izpildītājus vai Latvijas Zvērinātu tiesu izpildītāju padomes darbiniekus zvērināta tiesu izpildītāja profesionālās darbības pārbaudei;
 11) izskata un pieņem lēmumus citos jautājumos, kas attiecas uz zvērinātu tiesu izpildītāju darbību, kā arī apstiprina tiesu izpildītāju darbības metodiku un citus ar zvērinātu tiesu izpildītāju darbību saistītus iekšējos normatīvos aktus;
-12) saņemot šā likuma 65.panta 4.punktā minēto lēmumu, izskaidro zvērinātam tiesu izpildītājam viņa rīcības nepareizību.
+12) saņemot šā likuma 65.panta 4.punktā minēto lēmumu, izskaidro zvērinātam tiesu izpildītājam viņa rīcības nepareizību;
+13) nodrošina zvērinātu tiesu izpildītāju atvaļinājumu saskaņošanu;
+14) veic dokumentu saņēmējas iestādes funkciju, organizējot dokumentu izsniegšanu Latvijā saskaņā ar Hāgas 1965. gada konvenciju par tiesas un ārpustiesas dokumentu izsniegšanu civillietās un komerclietās un Eiropas Parlamenta un Padomes regulu Nr. 1393/2007.
