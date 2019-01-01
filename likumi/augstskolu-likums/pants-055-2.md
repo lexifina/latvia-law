@@ -1,25 +1,30 @@
 55.² pants. Studiju programmas licencēšana
-(1) Ikvienas studiju programmas īstenošanai jāsaņem licence. Viena mēneša laikā pēc licences saņemšanas studiju programma ierakstāma izglītības programmu reģistrā. Gada laikā pēc studiju programmas licencēšanas augstskola vai koledža sāk īstenot attiecīgo studiju programmu.
-(1¹) Studiju programmu licencēšanu organizē Akadēmiskās informācijas centrs. Akadēmiskās informācijas centrs organizē studiju programmu licencēšanas procesu par maksu saskaņā ar Ministru kabineta apstiprinātu maksas pakalpojumu cenrādi.
-(2) Ja studiju programma atbilst augstskolas vai koledžas studiju virzienam un citām normatīvo aktu prasībām, tiek pieņemts lēmums par tās licencēšanu un Akadēmiskās informācijas centrs izsniedz augstskolai vai koledžai izglītības un zinātnes ministra parakstītu licenci.
-(3) Pirms augstskola vai koledža iesniedz Akadēmiskās informācijas centram iesniegumu par studiju programmas licencēšanu jaunā augstskolas vai koledžas studiju virzienā, augstskola vai koledža iesniedz iesniegumu Izglītības un zinātnes ministrijai par jauna studiju virziena atvēršanu. Lēmumu par jauna studiju virziena atvēršanu attiecīgajā augstskolā vai koledžā pieņem Ministru kabinets, izvērtējis augstskolai vai koledžai pieejamos resursus un atbilstību valsts attīstības prioritātēm. Ja Ministru kabinets pieņem lēmumu atvērt studiju virzienu augstskolā vai koledžā, augstskola vai koledža iesniedz Akadēmiskās informācijas centram iesniegumu par attiecīgajam studiju virzienam atbilstošās studiju programmas licencēšanu.
-(4) Lēmumu par atteikumu licencēt studiju programmu pieņem, ja:
-1) iesniegtie dokumenti neatbilst normatīvo aktu prasībām;
-2) akadēmiskā personāla kvalifikācija neatbilst studiju programmu īstenošanas nosacījumiem vai normatīvo aktu prasībām;
-3) studiju, informatīvā bāze (tai skaitā bibliotēka), finansiālā un materiāltehniskā bāze neatbilst studiju programmas īstenošanas nosacījumiem;
-4) nav izstrādāts licencējamās studiju programmas saturs un īstenošanas mehānisms;
-5) sniegtas faktiskajiem apstākļiem neatbilstošas ziņas;
-6) augstskolas vai koledžas darbībā iepriekšējā gada laikā pirms lēmuma pieņemšanas dienas kompetentās iestādes konstatējušas normatīvo aktu pārkāpumus un tie šo iestāžu noteiktajā termiņā nav novērsti;
-7) studiju programma neatbilst augstskolas vai koledžas studiju virzienam.
-(5) Ja tiek pieņemts lēmums par atteikumu licencēt studiju programmu, augstskola vai koledža ir tiesīga iesniegt iesniegumu par attiecīgajam studiju virzienam atbilstošas studiju programmas licencēšanu ne agrāk kā pēc sešiem mēnešiem.
-(6) Par licences anulēšanu studiju programmai lemj, ja:
+(1) Ikvienas studiju programmas īstenošanas uzsākšanai saņemama studiju programmas licence. Viena mēneša laikā pēc studiju programmas licences izsniegšanas Akadēmiskās informācijas centrs studiju programmu ieraksta izglītības programmu reģistrā. Gada laikā pēc studiju programmas licencēšanas augstskola vai koledža sāk īstenot attiecīgo studiju programmu.
+(2) Studiju programmu licencēšanu organizē Akadēmiskās informācijas centrs. Studiju programmas licencēšanas izdevumus sedz augstskola vai koledža no tās budžeta līdzekļiem. Studiju programmu licencēšanas procesa maksas pakalpojumu cenrādi nosaka Ministru kabinets.
+(3) Studiju kvalitātes komisija ir koleģiāla lēmējinstitūcija, kuras sastāvā ir septiņi eksperti ar pieredzi augstākās izglītības organizēšanā un nodrošināšanā. Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu.
+(4) Lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu Studiju kvalitātes komisija pieņem četru mēnešu laikā no dienas, kad saņemts augstskolas vai koledžas iesniegums par attiecīgās studiju programmas licencēšanu.
+(5) Studiju programmas licencēšanas procesā tiek novērtēta:
+1) studiju programmas atbilstība šā likuma un citu normatīvo aktu prasībām;
+2) akadēmiskā personāla un viesprofesoru, asociēto viesprofesoru, viesdocentu, vieslektoru un viesasistentu kvalifikācijas atbilstība studiju programmas īstenošanas nosacījumiem un normatīvo aktu prasībām;
+3) studiju bāzes, informatīvās bāzes (tai skaitā bibliotēkas), finansiālās bāzes un materiāltehniskās bāzes atbilstība studiju programmas īstenošanas nosacījumiem;
+4) licencējamās studiju programmas saturs un īstenošanas mehānisms;
+5) faktisko apstākļu atbilstība sniegtajām ziņām;
+6) vai augstskolas vai koledžas darbībā iepriekšējā gada laikā pirms lēmuma pieņemšanas dienas kompetento iestāžu konstatētie normatīvo aktu pārkāpumi šo iestāžu noteiktajā termiņā ir novērsti;
+7) studiju programmas atbilstība studiju virzienam, kurā to plānots iekļaut.
+(6) Ja studiju programma atbilst visām šā panta piektajā daļā noteiktajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu.
+(7) Ja studiju programma neatbilst kādai no šā panta piektajā daļā minētajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu. Ja Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu, augstskola vai koledža ir tiesīga iesniegt iesniegumu par attiecīgajam studiju virzienam atbilstošas studiju programmas licencēšanu tikai pēc tam, kad ir novērsusi Studiju kvalitātes komisijas konstatētos trūkumus.
+(8) Studiju kvalitātes komisija lēmumu par studiju programmas licences atņemšanu var pieņemt, ja:
 1) sniegtas faktiskajiem apstākļiem neatbilstošas ziņas;
-2) augstskola vai koledža gada laikā pēc licences saņemšanas nav sākusi īstenot licencēto studiju programmu;
+2) augstskola vai koledža gada laikā pēc studiju programmas licencēšanas nav sākusi īstenot licencēto studiju programmu;
 3) augstskolas vai koledžas darbībā konstatēti ar licencēto studiju programmu saistīti normatīvo aktu pārkāpumi;
-4) divu gadu laikā no studiju programmas īstenošanas uzsākšanas dienas nav uzsākta studiju programmai atbilstošā studiju virziena akreditācija atbilstoši šā likuma 55.³ panta prasībām;
-5) augstskola vai koledža 30 darbdienu laikā nesniedz Izglītības un zinātnes ministrijai pēc tās pieprasījuma pilnīgu informāciju par jautājumiem, kas saistīti ar studiju procesa nodrošināšanu, kā arī par augstskolas vai koledžas studiju, informatīvo bāzi (tai skaitā bibliotēku), institucionālo, materiāltehnisko vai finansiālo bāzi;
-6) akadēmiskajam personālam nav atbilstošas kvalifikācijas vai augstskola vai koledža nenodrošina atbilstošu studiju, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko vai finansiālo bāzi;
+4) nav iesniegts iesniegums par studiju virziena akreditāciju atbilstoši šā likuma 55.³ panta prasībām;
+5) augstskola vai koledža 30 dienu laikā pēc Izglītības un zinātnes ministrijas pieprasījuma nesniedz tai pilnīgu informāciju par jautājumiem, kas saistīti ar studiju procesa nodrošināšanu, kā arī par augstskolas vai koledžas studiju bāzi, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko bāzi vai finansiālo bāzi;
+6) akadēmiskajam personālam un viesprofesoriem, asociētajiem viesprofesoriem, viesdocentiem, vieslektoriem un viesasistentiem nav atbilstošas kvalifikācijas vai augstskola vai koledža nenodrošina atbilstošu studiju bāzi, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko bāzi vai finansiālo bāzi;
 7) augstskolā vai koledžā pārtraukta studiju programmas īstenošana;
-8) ir pieņemts lēmums par atteikumu akreditēt attiecīgo studiju virzienu augstskolā vai koledžā;
-9) studiju virziena akreditācijas laikā konstatē augstskolas vai koledžas resursu un spēju neatbilstību normatīvo aktu prasībām.
-(7) Studiju programmu licencēšanas kārtību, kritērijus, pēc kuriem licencēšanas procesā vērtē studiju programmas, kārtību, kādā izveidojama institūcija, kas pieņem lēmumu par studiju programmu licencēšanu, par atteikumu licencēt studiju programmu vai par licences anulēšanu, šīs institūcijas tiesības un pienākumus, kā arī licences paraugu nosaka Ministru kabinets.
+8) ir pieņemts lēmums par atteikumu akreditēt studiju virzienu augstskolā vai koledžā;
+9) studiju virziena novērtēšanas ietvaros studiju programma atzīta par neatbilstošu šā likuma prasībām;
+10) beidzies studiju programmas akreditācijas termiņš un augstskola vai koledža viena mēneša laikā pēc šā termiņa beigām nav iesniegusi iesniegumu par kārtējo studiju programmas akreditāciju.
+(9) Studiju kvalitātes komisijas lēmumu var apstrīdēt Apelācijas komisijā, un Apelācijas komisijas lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(10) Apelācijas komisijas sastāvā ir četri eksperti, no tiem divi ir augstākās izglītības eksperti un divi - eksperti ar augstāko izglītību tiesību zinātnēs un profesionālo pieredzi administratīvajā procesā.
+(11) Studiju kvalitātes komisijas un Apelācijas komisijas tehnisko un organizatorisko darbību studiju programmu licencēšanā nodrošina Akadēmiskās informācijas centrs.
+(12) Ministru kabinets nosaka studiju programmu licencēšanas kārtību, studiju programmas licences paraugu, Studiju kvalitātes komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā un Apelācijas komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā.

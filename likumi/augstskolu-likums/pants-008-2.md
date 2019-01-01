@@ -7,7 +7,7 @@
 5) augstskolas juridisko statusu;
 6) augstskolas satversmes vai filiāles nolikuma apstiprināšanas datumu;
 7) augstskolas vai filiāles īstenoto studiju programmu nosaukumus un atbildīgo par attiecīgās programmas īstenošanu (studiju programmas direktoru);
-8) ziņas par augstskolā vai filiālē akreditētajiem studiju virzieniem un tiem atbilstošajām studiju programmām;
+8) ziņas par augstskolā vai filiālē akreditētajiem studiju virzieniem un tiem atbilstošajām akreditētajām studiju programmām;
 9) ziņas par augstskolas vai filiāles akreditāciju;
 10) ziņas par augstskolas vai filiāles telpu nodrošinājumu, telpu tiesisko statusu;
 11) augstskolas vai filiāles finansējuma avotus un finansēšanas kārtību;

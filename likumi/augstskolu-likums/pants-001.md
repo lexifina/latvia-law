@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) akadēmiskā stunda - studiju darba laika vienība, kuras ilgums ir 45 minūtes;
-1¹) akreditēta studiju programma - studiju programma, kura atbilst konkrētam likumā noteiktā kārtībā akreditētam augstskolas vai koledžas studiju virzienam. Akreditētas studiju programmas akreditācijas termiņš nepārsniedz termiņu, uz kādu akreditēts atbilstošais studiju virziens augstskolā vai koledžā;
+1¹) akreditēta studiju programma - noteiktam akreditētam augstskolas vai koledžas studiju virzienam atbilstoša studiju programma, kura attiecīgā studiju virziena novērtēšanas procesā atzīta par atbilstošu šā likuma prasībām;
 2) augstākā izglītība - izglītības pakāpe, kurā pēc vidējās izglītības iegūšanas notiek zinātnē vai mākslā, vai arī zinātnē un mākslā pamatota personības attīstība izraudzītajā akadēmisko vai profesionālo, vai akadēmisko un profesionālo studiju novirzienā, kā arī sagatavošanās zinātniskai vai profesionālai darbībai;
 3) augstskolas vai koledžas akreditācija - augstskolas vai koledžas darba organizācijas un resursu kvalitātes pārbaude, kuras rezultātā tai piešķir valsts atzītas augstskolas vai koledžas statusu;
 4) augstskolas vai koledžas filiāle - akreditētas augstskolas vai koledžas izveidota struktūrvienība, kurai ir zināma organizatoriska patstāvība, kura ir teritoriāli atdalīta no augstskolas vai koledžas atrašanās vietas (atrodas citā valstī vai citā apdzīvotā vietā) un kuras pamatuzdevums ir īstenot attiecīgās augstskolas vai koledžas akreditētas studiju programmas;
