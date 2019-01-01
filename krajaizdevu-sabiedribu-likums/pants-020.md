@@ -8,7 +8,7 @@
 (7) Krājaizdevu sabiedrības darījuma risks tiek kvalificēts kā liels, ja darījuma apmērs pārsniedz 10 procentus no krājaizdevu sabiedrības pašu kapitāla.
 (8) Lielo riska darījumu kopsumma nedrīkst pārsniegt krājaizdevu sabiedrības pašu kapitālu vairāk par astoņām reizēm.
 (9) Kopējais vienam biedram vai kopējai riska grupai izsniegto aizdevumu apjoms nedrīkst pārsniegt 25 procentus no krājaizdevu sabiedrības pašu kapitāla.
-(10) Kopējais krājaizdevu sabiedrības, valdes un revīzijas komisijas locekļiem vai viņu laulātajiem, vecākiem vai bērniem izsniegto kredītu apjoms nedrīkst pārsniegt 15 procentus no krājaizdevu sabiedrības pašu kapitāla, izņemot gadījumus, kad šīm personām izsniegtie kredīti nodrošināti ar viņu papildpajām vai noguldījumiem krājaizdevu sabiedrībā.
+(10) Kopējais krājaizdevu sabiedrības, valdes un revīzijas komisijas locekļiem vai viņu laulātajiem, vecākiem vai bērniem izsniegto kredītu apjoms nedrīkst pārsniegt 15 procentus no krājaizdevu sabiedrības pašu kapitāla, izņemot gadījumus, kad šīm personām izsniegtie kredīti nodrošināti ar viņu pajām vai noguldījumiem krājaizdevu sabiedrībā.
 (11) Kredīti, kuri katrs atsevišķi vai kopumā pārsniedz 1400 euro un tiek piešķirti krājaizdevu sabiedrības, kredītkomitejas priekšsēdētājam vai kādam no valdes, kredītkomitejas un revīzijas komisijas locekļiem, piešķirami ar vienbalsīgi pieņemtu krājaizdevu sabiedrības valdes lēmumu.
 (12) Krājaizdevu sabiedrības ārvalstu valūtu atklātā pozīcija atsevišķā ārvalstu valūtā nedrīkst pārsniegt 10 procentus un kopumā visās ārvalstu valūtās 20 procentus no pašu kapitāla.
 (13) Komisija izdod normatīvos noteikumus par krājaizdevu sabiedrības darbību regulējošo prasību rādītāju aprēķināšanu un aktīvu un ārpusbilances saistību novērtēšanu.
