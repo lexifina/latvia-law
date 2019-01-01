@@ -1,5 +1,5 @@
 145.⁸ Iesniegumu par saistības priekšmeta izsniegšanu izskata zvērināta notāra noteiktajā dienā viņa prakses vietas telpās.
-Zvērināts notārs, konstatējis, ka kreditors piekrīt saņemt saistības priekšmetu, taisa notariālo aktu par saistības priekšmeta izsniegšanu un izsniedz saistības priekšmetu kreditoram pret parakstu glabājumu grāmatā vai pret atsevišķu kvitējumu vai, ja glabājumā iesniegta bezskaidra nauda, pārskaita to uz kreditora norādīto kontu kredītiestādē.
+Zvērināts notārs, konstatējis, ka kreditors piekrīt saņemt saistības priekšmetu, taisa notariālo aktu par saistības priekšmeta izsniegšanu un izsniedz saistības priekšmetu kreditoram vai, ja glabājumā iesniegta bezskaidra nauda, pārskaita to uz kreditora norādīto kontu kredītiestādē.
 Notariālajā aktā norāda:
 1) parādnieka vārdu, uzvārdu, personas kodu (ja tāda nav, - dzimšanas gadu, dienu, mēnesi un vietu) un dzīvesvietu;
 2) kreditora, kuram saistības priekšmets nododams, vai viņa tiesību pārņēmēja vārdu, uzvārdu, personas kodu un dzīvesvietu vai nosaukumu, reģistrācijas numuru un atrašanās vietu (juridisko adresi);

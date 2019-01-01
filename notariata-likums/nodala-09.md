@@ -1,2 +1,2 @@
 IX nodaļa
-Norakstu un tulkojumu apliecināšana
+Dokumentu atvasinājumu un tulkojumu apliecināšana
