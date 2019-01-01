@@ -3,7 +3,7 @@
 1) informāciju par plānotajiem interaktīvo izložu veidiem un katras interaktīvās izlozes noteikumus;
 2) informāciju par kārtību, kādā var iegādāties biļetes vai aizpildīt kuponus, lai piedalītos interaktīvajās izlozēs;
 3) informāciju par paredzēto interaktīvo izložu organizēšanas sistēmu, tai skaitā par interaktīvo izložu organizēšanā izmantojamām interaktīvo izložu programmām;
-3¹) (punkts stājas spēkā 01.01.2019. un iekļauts likuma redakcijā uz 01.01.2019. Sk. Pārejas noteikumu 23. punktu);
+3¹) sertifikācijas institūcijas atzinumu par interaktīvo izložu organizēšanas sistēmas pārbaudes rezultātiem, tai skaitā par attiecīgās interaktīvās izlozes organizēšanas sistēmas atbilstību interaktīvo izložu organizēšanas sistēmas drošības pasākumiem, kas tiks veikti, lai nepieļautu kādas personas ietekmi uz interaktīvās izlozes iznākumu, kā arī par fizisko personu datu aizsardzības pasākumiem;
 4) informāciju par vietu, kur atradīsies interaktīvo izložu organizēšanai izmantojamā tehnika, un par paredzētajiem drošības pasākumiem, kas tiks veikti, lai nepieļautu kādas personas ietekmi uz organizēto interaktīvo izložu iznākumu;
 5) interaktīvo izložu organizētāja apliecinājumu, ka paredzētie fizisko personu datu aizsardzības pasākumi atbilst normatīvo aktu prasībām;
 6) informāciju par interaktīvās izlozes organizēšanai izmantojamo interneta mājaslapu;
