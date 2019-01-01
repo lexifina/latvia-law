@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Valsts materiālo rezervju likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2007, 15. nr.; 2009, 23. nr.; Latvijas Vēstnesis, 2016, 57. nr.).

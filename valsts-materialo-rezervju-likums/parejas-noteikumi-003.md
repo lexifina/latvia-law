@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2020. gada 1. aprīlim apstiprina valsts materiālo rezervju nomenklatūru. Valsts materiālo rezervju nomenklatūra, kas apstiprināta līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2020. gada 31. martam.
