@@ -1,5 +1,5 @@
 5. pants. Satversmes aizsardzības biroja direktors
-(1) Satversmes aizsardzības biroja direktoru ieceļ amatā uz pieciem gadiem un atbrīvo no amata Saeima pēc Nacionālās drošības padomes priekšlikuma. Par Satversmes aizsardzības biroja direktoru var būt persona, uz kuru neattiecas Valsts drošības iestāžu likuma 18.pantā noteiktie ierobežojumi, kurai ir augstākā izglītība un kura ir saņēmusi pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
+(1) Satversmes aizsardzības biroja direktoru ieceļ amatā uz pieciem gadiem un atbrīvo no amata Saeima pēc Nacionālās drošības padomes priekšlikuma. Par Satversmes aizsardzības biroja direktoru var būt persona, uz kuru neattiecas Valsts drošības iestāžu likuma 20. pantā noteiktie ierobežojumi, kurai ir augstākā izglītība un kura ir saņēmusi pirmās kategorijas speciālo atļauju pieejai valsts noslēpumam.
 (2) Satversmes aizsardzības biroja direktors par biroja darbību sniedz pārskatus Ministru kabinetam un, ja nepieciešams (pēc pieprasījuma), Saeimas Nacionālās drošības komisijai un Nacionālās drošības padomei.
 (3) Satversmes aizsardzības biroja direktoram ir vietnieki, viens no tiem - pirmais vietnieks.
 (4) (Izslēgta ar 07.04.2004. likumu.)
@@ -26,4 +26,4 @@
 (9) Satversmes aizsardzības biroja direktors atbilstoši savai kompetencei ir atbildīgs par valsts drošības apdraudējumu savlaicīgu atklāšanu, un viņa pienākums ir nekavējoties ziņot par to Valsts prezidentam, Ministru prezidentam, Saeimas Nacionālās drošības komisijai un Nacionālās drošības padomei.
 (10) (Izslēgta ar 07.04.2004. likumu.)
 (11) Satversmes aizsardzības biroja direktors savas kompetences ietvaros izdod iekšējos normatīvos aktus.
-(12) Par priekšzīmīgu darba (dienesta) pienākumu veikšanu Satversmes aizsardzības biroja direktors var apbalvot Satversmes aizsardzības biroja darbiniekus ar personiskajiem apbalvojuma ieročiem vai citiem dienesta apbalvojumiem un godazīmēm.
+(12) Par priekšzīmīgu darba (dienesta) pienākumu veikšanu Satversmes aizsardzības biroja direktors var apbalvot Satversmes aizsardzības biroja amatpersonas un darbiniekus ar personiskajiem apbalvojuma ieročiem vai citiem dienesta apbalvojumiem un godazīmēm.
