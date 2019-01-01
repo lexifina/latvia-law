@@ -7,5 +7,6 @@
 (3) Ministru kabinets nosaka valsts pensijas pārskatīšanā piemērojamā faktiskā patēriņa cenu indeksa un iemaksu algas indeksa noteikšanas kārtību, kā arī valsts pensijas pārskatīšanas kārtību.
 (4) Vecuma pensiju pārskatīšanai atkarībā no personas apdrošināšanas stāža, par kuru ir piešķirta (pārrēķināta) pensija, piemēro nevis 50 procentus, bet gan šādus apdrošināšanas iemaksu algu summas reālā pieauguma procentus:
 1) 60 procentus - ja stāžs ir no 30 līdz 39 gadiem vai ja vecuma pensija piešķirta par darbu kaitīgos, smagos vai sevišķi kaitīgos, sevišķi smagos darba apstākļos;
-2) 70 procentus - ja stāžs ir 40 gadi un vairāk.
+2) 70 procentus - ja stāžs ir no 40 līdz 44 gadiem;
+3) 80 procentus - ja stāžs ir 45 gadi un vairāk.
 (5) Ja vecuma pensijas apmēra pārskatīšanai iespējams piemērot vairākus šā panta ceturtajā daļā minētos nosacījumus, pensijas pārskatīšanai piemēro lielākos iemaksu algas pieauguma procentus.
