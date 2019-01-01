@@ -3,6 +3,6 @@
 (2) Juridisko personu lietas tiesā ved to amatpersonas, kas darbojas likumā, statūtos vai nolikumā piešķirto pilnvaru ietvaros, vai arī citi juridisko personu pilnvaroti pārstāvji.
 (3) Tās valsts vai pašvaldības iestādes lietas, kurai ar likumu piešķirtas tiesības aizstāvēt citu personu tiesības vai ar likumu aizsargātās intereses, tiesā ved iestādes vadītājs vai viņa pilnvarots pārstāvis.
 (4) Šā panta pirmajā, otrajā un trešajā daļā minēto lietas dalībnieku piedalīšanās civilprocesā neatņem viņiem tiesības uzaicināt savā lietā advokātu juridiskās palīdzības sniegšanai. Šajā gadījumā advokāta pilnvaru apjomu nosaka šā likuma 86.pants, paskaidrojumus par lietas būtību viņš nesniedz.
-(5) (Izslēgta ar 12.02.2004. likumu.)
-(6) Fiziskās personas lietas kasācijas instances tiesā ved pašas vai ar advokāta starpniecību.
-(7) Juridisko personu lietas kasācijas instances tiesā ved to amatpersonas, kas darbojas likumā, statūtos vai nolikumā piešķirto pilnvaru ietvaros, vai arī tās tiek vestas ar advokāta starpniecību.
+(5) (Izslēgta ar 12.02.2004. likumu)
+(6) (Izslēgta no 01.01.2019. ar 14.12.2017. likumu. Sk. Pārejas noteikumu 132. punktu)
+(7) (Izslēgta no 01.01.2019. ar 14.12.2017. likumu. Sk. Pārejas noteikumu 132. punktu)
