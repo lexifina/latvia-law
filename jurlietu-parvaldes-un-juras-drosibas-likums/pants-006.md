@@ -18,8 +18,9 @@ e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu
 10) kontrolē bīstamo un piesārņojošo kravu apriti ostās kuģa un krasta mijiedarbības ietvaros;
 11) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par bīstamām un piesārņojošām kuģu kravām;
 12) kontrolē, kā Latvijas ūdeņos tiek ievērota kārtība, kādā sniedzami ziņojumi par pasažieriem uz kuģa;
-13) sadarbībā ar Krasta apsardzi koordinē Kuģu satiksmes uzraudzības un informācijas datu apmaiņas sistēmas attīstību un lietošanu;
-13¹) apstiprina testēšanas pakalpojuma sniedzējus, kas novērtē kuģa spēju strādāt Tālās darbības identifikācijas un sekošanas sistēmā (LRIT);
+12¹) saskaņā ar deleģēšanas līgumu, kas noslēgts atbilstoši šā likuma 5. panta 6.¹ punktam, pilda Starptautiskās kravu loģistikas un ostu informācijas sistēmas (SKLOIS) turētāja funkcijas, tai skaitā nodrošina tās savietojamību ar Eiropas Savienības sistēmu apmaiņai ar kuģošanas informāciju (turpmāk - SafeSeaNet sistēma);
+13) sadarbībā ar Krasta apsardzi koordinē Automātiskās identifikācijas sistēmas (AIS) attīstību un lietošanu;
+13¹) sadarbībā ar Krasta apsardzi nodrošina Tālās darbības identifikācijas un sekošanas (LRIT) sistēmas darbību;
 14) uzrauga bāku, boju un citu kuģošanas drošībai nepieciešamo navigācijas tehnisko līdzekļu (turpmāk - navigācijas tehniskie līdzekļi), kā arī to sistēmas izveidošanu un darbību Latvijas ūdeņos;
 15) kontrolē un veic dziļuma mērījumus, kā arī hidrogrāfiskos mērījumus un pētījumus Latvijas ūdeņos;
 15¹) atbilstoši normatīvajiem aktiem par ģeotelpisko informāciju iegūst, apkopo un uztur Latvijas ūdeņu (jūras un ostu) ģeotelpiskos datus un pamatdatus (turpmāk - jūras ģeotelpiskā informācija);
