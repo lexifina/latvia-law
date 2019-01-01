@@ -3,5 +3,8 @@
 (2) Ja Juridiskās palīdzības administrācija konstatē, ka lēmuma pieņemšanai ir nepieciešama papildu informācija, tā septiņu dienu laikā pēc valsts kompensācijas pieprasījuma saņemšanas informē par to cietušo.
 (3) Ja lēmuma pieņemšanai nepieciešama papildu informācija, šā panta pirmajā daļā minētā lēmuma pieņemšanas termiņu aptur līdz visas Juridiskās palīdzības administrācijas pieprasītās informācijas saņemšanai.
 (4) Ja Juridiskās palīdzības administrācija 15 dienu laikā nesaņem pieprasīto informāciju, tā var lemt par atteikumu izmaksāt valsts kompensāciju. Lēmums par atteikumu izmaksāt valsts kompensāciju šajā gadījumā nav šķērslis, lai cietušais atkārtoti vērstos Juridiskās palīdzības administrācijā ar valsts kompensācijas pieprasījumu, ievērojot šajā likumā noteikto kārtību.
-(5) Ja konstatē, ka valsts kompensācija pieprasīta par to pašu noziedzīgu nodarījumu, uz kura pamata valsts kompensācija jau izmaksāta, Juridiskās palīdzības administrācija valsts kompensācijas pieprasījumu neizskata un atdod atpakaļ personai, kura to iesniegusi.
+(5) Ja konstatē, ka valsts kompensācija pieprasīta par to pašu noziedzīgu nodarījumu, Juridiskās palīdzības administrācija valsts kompensācijas pieprasījumu neizskata un atdod atpakaļ personai, kura to iesniegusi.
 (6) Atkārtots valsts kompensācijas pieprasījums par to pašu noziedzīgu nodarījumu ir pieļaujams, ja notikušas izmaiņas iepriekš iesniegtajā informācijā.
+(7) Juridiskās palīdzības administrācija valsts kompensācijas pieprasījumu atstāj bez izskatīšanas, ja:
+1) cietušais rakstveidā atsauc valsts kompensācijas pieprasījumu;
+2) cietušais, kas iesniedzis valsts kompensācijas pieprasījumu, ir miris.

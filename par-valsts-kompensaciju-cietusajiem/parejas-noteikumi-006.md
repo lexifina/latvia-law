@@ -1,0 +1,1 @@
+6. Valsts kompensācijas pieprasījumus, kurus Juridiskās palīdzības administrācija saņēmusi līdz 2018. gada 31. decembrim, tā izskata un valsts kompensāciju piešķir atbilstoši šā likuma regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim.

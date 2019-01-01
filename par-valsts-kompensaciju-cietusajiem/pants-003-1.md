@@ -1,4 +1,6 @@
 3.¹ pants. Pienākums atmaksāt valsts budžetā cietušajam izmaksāto valsts kompensāciju
-Pienākums atmaksāt valsts budžetā cietušajam izmaksāto valsts kompensāciju ir:
-1) cietušajam, ja viņš apzināti sniedzis nepatiesas ziņas, lai saņemtu valsts kompensāciju;
+(1) Pienākums atmaksāt valsts budžetā cietušajam izmaksāto valsts kompensāciju ir:
+1) cietušajam, ja viņš apzināti sniedzis nepatiesas ziņas, lai saņemtu valsts kompensāciju, vai līdz lēmuma par valsts kompensācijas izmaksāšanu izpildei nav paziņojis Juridiskās palīdzības administrācijai par izmaiņām valsts kompensācijas pieprasījumā minētajās ziņās, kas attiecas uz saņemto kompensāciju par nodarīto kaitējumu no noziedzīga nodarījuma izdarītāja vai viņa vietā no citas personas;
 2) noziedzīga nodarījuma izdarītājam, kurš atzīts par vainīgu, pamatojoties uz notiesājošu spriedumu vai prokurora priekšrakstu par sodu, vai pret kuru kriminālprocess izbeigts personu nereabilitējošu apstākļu dēļ.
+(2) Ja valsts kompensācija izmaksāta nepilngadīgam cietušajam, šā panta pirmās daļas 1. punktā minētajā gadījumā pienākums atmaksāt valsts budžetā cietušajam izmaksāto valsts kompensāciju ir cietušā pārstāvim, kas realizējis nepilngadīgā tiesības uz valsts kompensāciju, izņemot gadījumus, kad tas ir šo personu amata pienākums.
+(3) Ja šā panta pirmās daļas 2. punktā minētā persona ir nepilngadīga, tā cietušajam izmaksāto valsts kompensāciju atmaksā subsidiāri ar vecākiem vai personām, kuras viņus aizstāj, izņemot gadījumus, kad tas ir šo personu amata pienākums.
