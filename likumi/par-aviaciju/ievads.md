@@ -43,7 +43,7 @@ Lidlauks - noteikta zemes teritorija vai ūdens akvatorija, kā arī ēkas, obje
 Lidojumu ierobežojumu zona - ierobežota gaisa telpa virs valsts sauszemes teritorijas un tās iekšējiem vai teritoriālajiem Baltijas jūras ūdeņiem, kurā gaisa kuģu lidojumi ir veicami saskaņā ar speciāliem noteikumiem.
 Meteoroloģiskā informācija - meteoroloģisks pārskats, analīze, prognoze un jebkurš cits biļetens par faktiskajiem vai gaidāmajiem meteoroloģiskajiem apstākļiem.
 Meteoroloģisko pakalpojumu sniedzējs - institūcija, kura nodrošina visas ieinteresētās personas ar gaisa kuģu lidojumiem nepieciešamo meteoroloģisko informāciju pirms lidojuma un lidojuma laikā.
-Militārās aviācijas gaisa kuģis - Latvijas Republikas militārās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kuru Latvijas Nacionālie bruņotie spēki izmanto valsts aizsardzības funkciju veikšanai.
+Militārās aviācijas gaisa kuģis - militārās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kā arī civilās aviācijas gaisa kuģis, kas tiek izmantots militārajām vajadzībām.
 Militārās aviācijas poligons - militārais objekts, kas ietver noteiktu zemes teritoriju vai zemes teritoriju un ūdens akvatoriju, kā arī gaisa telpu virs šīs teritorijas un ir izveidots, lai organizētu militārās mācības, veicot militārās aviācijas gaisa kuģu lidojumus vai šaušanas darbības ar mācību vai kaujas munīciju.
 Militārais lidlauks - militārais objekts, kas ietver noteiktu zemes teritoriju vai ūdens akvatoriju, kā arī ēkas, objektus un iekārtas, kuras paredzētas, lai organizētu militāro gaisa kuģu pienākšanu un atiešanu, un kas tiek uzturēts un izmantots valsts aizsardzībai.
 Muitas un Valsts robežsardzes dienestu gaisa kuģi - gaisa kuģi, kurus izmanto muitas vai Valsts robežsardzes dienesti.
@@ -57,4 +57,5 @@ Speciālie aviācijas darbi - Komisijas 2012. gada 5. oktobra regulas (ES) Nr. 9
 Starptautiskie lidojumi - gaisa kuģu lidojumi, kuri tiek veikti vairāk nekā vienas valsts gaisa telpā.
 Starptautiskie gaisa pārvadājumi - pārvadājumi, kuru sākumpunkts, apstāšanās vieta vai galapunkts atrodas vairāku valstu teritorijās.
 Trešā valsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts.
+Valsts gaisa kuģis - 1944. gada 7. decembra Konvencijas par starptautisko civilo aviāciju 3. panta "b" punktā minētais gaisa kuģis, kā arī civilās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis, kas attiecīgā lidojuma laikā tiek izmantots tikai valsts delegāciju pārvadāšanai vai valsts vai starptautisko organizāciju funkciju veikšanai.
 Valsts nozīmes civilās aviācijas lidlauks - stratēģiski svarīgs, civilās aviācijas infrastruktūras attīstībai un sabiedrības interešu nodrošināšanai vajadzīgs lidlauks, kurā tiek nodrošināti nepieciešamie augstas kvalitātes un drošības standarti.

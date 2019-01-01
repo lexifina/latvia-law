@@ -1,0 +1,1 @@
+39. Civilās aviācijas aģentūras administratīvos aktus, kas apstrīdēti Satiksmes ministrijā līdz 2018. gada 31. decembrim, izskata Satiksmes ministrija kā augstākā iestāde Administratīvā procesa likumā noteiktajā kārtībā.

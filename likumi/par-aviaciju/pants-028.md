@@ -1,5 +1,5 @@
 28.pants. Maksa par aeronavigācijas pakalpojumu un civilās aviācijas lidlaukā sniegto pakalpojumu izmantošanu
-Ministru kabinets nosaka valsts akciju sabiedrības "Latvijas gaisa satiksme" aeronavigācijas pakalpojumu maksas noteikšanas un iekasēšanas kārtību, kā arī atbrīvojumus no aeronavigācijas pakalpojumu maksas. Ministru kabinets nosaka kārtību, kādā militārie gaisa kuģi atbrīvojami no aeronavigācijas pakalpojumu maksas.
+Ministru kabinets nosaka valsts akciju sabiedrības "Latvijas gaisa satiksme" aeronavigācijas pakalpojumu maksas noteikšanas un iekasēšanas kārtību, kā arī atbrīvojumus no aeronavigācijas pakalpojumu maksas. Ministru kabinets nosaka kārtību, kādā militārās aviācijas gaisa kuģi atbrīvojami no aeronavigācijas pakalpojumu maksas.
 Ministru kabinets nosaka valsts akciju sabiedrības "Latvijas gaisa satiksme" iekasētās aeronavigācijas pakalpojumu maksas sadales kārtību.
 Ministru kabinets nosaka maksu par šādiem valsts nozīmes civilās aviācijas lidlaukā sniegtajiem pakalpojumiem, kā arī tās iekasēšanas un izlietošanas kārtību, norādot pakalpojumus, kas ietverti attiecīgajā maksā, un atbrīvojumus no tās:
 1) gaisa kuģu pacelšanās un nosēšanās maksa;

@@ -1,2 +1,2 @@
-29. pants. Kārtība, kādā civilās aviācijas lidlauku izmanto militārā aviācija, un kārtība, kādā militāro lidlauku izmanto civilā aviācija
-Kārtību, kādā civilās aviācijas lidlauku izmanto Latvijas Republikas militārā aviācija, un kārtību, kādā militārās aviācijas lidlauku izmanto civilā aviācija, nosaka Latvijas Republikas Ministru kabinets.
+29. pants. Kārtība, kādā civilās aviācijas lidlauku izmanto militārās aviācijas gaisa kuģi, un kārtība, kādā militāro lidlauku izmanto civilās aviācijas gaisa kuģi
+Kārtību, kādā civilās aviācijas lidlauku izmanto militārās aviācijas gaisa kuģi, un kārtību, kādā militārās aviācijas lidlauku izmanto civilās aviācijas gaisa kuģi, nosaka Ministru kabinets.
