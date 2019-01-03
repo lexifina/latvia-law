@@ -1,0 +1,1 @@
+4. Šā likuma 6.¹ un 6.² pants, 7. panta trešā daļa, 8.¹ pants, grozījumi 9. pantā un 11. panta otrajā daļā piemērojami attiecībā uz nodokli, kas maksājams par taksācijas periodu, sākot ar 2019. gada 1. janvāri.

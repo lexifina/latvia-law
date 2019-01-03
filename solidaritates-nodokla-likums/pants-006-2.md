@@ -1,0 +1,5 @@
+6.² pants. Nodokļa maksāšana taksācijas un pēctaksācijas periodā
+(1) Nodokļa objektam taksācijas periodā piemēro tādu pašu valsts sociālās apdrošināšanas obligāto iemaksu likmi (turpmāk - obligāto iemaksu likme) kā obligāto iemaksu objektam.
+(2) Par nodokļa objektu, kuram taksācijas periodā piemērota obligāto iemaksu likme, kas noteikta saskaņā ar likuma "Par valsts sociālo apdrošināšanu" 18. pantu, Valsts ieņēmumu dienests līdz pēctaksācijas gada 1. septembrim veic nodokļa maksātājam pārmaksātā nodokļa atmaksu. Pārmaksātā nodokļa atmaksas apmēru nosaka kā starpību starp taksācijas periodā samaksāto nodokli, piemērojot obligāto iemaksu likmi, kas noteikta saskaņā ar likuma "Par valsts sociālo apdrošināšanu" 18. pantu, un rezumējošā kārtībā aprēķināto nodokli, piemērojot šā likuma 6.¹ pantā noteikto nodokļa likmi.
+(3) Pārmaksātā nodokļa atmaksa tiek veikta tikai darba devējam, ja obligāto iemaksu likme tiek dalīta starp darba ņēmēju un darba devēju atbilstoši likuma "Par valsts sociālo apdrošināšanu" 18. pantā noteiktajam.
+(4) Pārmaksātā nodokļa atmaksas rezumējošā kārtībā aprēķināšanas metodiku un atmaksas kārtību nosaka Ministru kabinets.

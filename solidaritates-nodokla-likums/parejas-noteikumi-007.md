@@ -1,0 +1,1 @@
+7. Ministru kabineta 2000. gada 2. maija noteikumi Nr. 164 "Kārtība, kādā tiek aprēķinātas un atmaksātas pārmaksātās valsts sociālās apdrošināšanas iemaksas un aprēķināts un pārskaitīts solidaritātes nodoklis" redakcijā, kas ir spēkā no 2018. gada 1. janvāra, piemērojami attiecībā uz nodokli, kas samaksāts par periodu no 2018. gada 1. janvāra līdz 2018. gada 31. decembrim.
