@@ -17,12 +17,15 @@ Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 15)(1S,2R)-(+)-hlorefedrīns1384199-95-40,6 g10 g
 16)(1S,2S)-(+)-hlorpseidoefedrīns73393-61-00,6 g10 g
 17)(1R,2R)-(-)-hlorpseidoefedrīns771434-80-10,6 g10 g
+18)4-anilīnpiperidīns23056-29-30,6 g10 g
+19)N-fenetil-4-piperidinons (NPP)39742-60-40,6 g10 g
+20)4-anilīn-N-fenetilpiperidīns (ANPP)21409-26-70,6 g10 g
 15. Otrās kategorijas prekursori:
 Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)antranilskābe118-92-31 kg5 kg
 2)etiķskābes anhidrīds108-24-71 kg5 kg
 3)feniletiķskābe103-82-21 kg5 kg
-4)gamma-butirolaktons96-48-01 kg5 kg
+4)(izslēgts ar 06.12.2018. likumu)
 5)kālija permanganāts7722-64-71 kg5 kg
 6)piperidīns110-89-41 kg5 kg
 16. Trešās kategorijas prekursori:

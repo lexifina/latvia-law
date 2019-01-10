@@ -117,15 +117,16 @@ Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 2)buprenorfīns52485-79-70,001 g1 g
 3)butalbitāls77-26-90,1 g10 g
 4)ciklobarbitāls52-31-30,1 g10 g
-5)heksenāls505-57-7 (CAS Nr. norādīts vielai "2-heksenāls")0,1 g10 g
+5)(izslēgts ar 06.12.2018. likumu)
 6)flunitrazepāms1622-62-40,01 g5 g
 7)glutetimīds77-21-41,5 g15 g
 8)pentazocīns359-83-10,03 g5 g
 9)pentobarbitāls76-74-40,1 g10 g
-10)heksobarbitāls56-29-10,1 g10 g
-12.¹ Narkotiskā viela, kuras nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
+10)(izslēgts ar 06.12.2018. likumu)
+12.¹ Narkotiskās vielas, kuru nelegāla aprite un ļaunprātīga lietošana apdraud veselību:
 Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)tapentadols175591-09-00,1 g10 g
+2)heksobarbitāls56-29-10,1 g10 g
 12.² Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma III nodaļā minētās vielas jebkurā daudzumā
 Nr.
 Maisījuma veids

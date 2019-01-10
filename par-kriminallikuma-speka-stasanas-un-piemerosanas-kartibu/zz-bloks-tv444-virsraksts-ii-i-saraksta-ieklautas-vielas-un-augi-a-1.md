@@ -26,6 +26,7 @@ PEPAP
 4)AH-792155154-30-83,4-dihlor-N-[[1-(dimetilamino)cikloheksil]metil]benzamīds0,1 g1 g
 5)U-4770082657-23-63,4-dihlor-N-[(1R,2R)-2-(dimetilamino)cikloheksil]-N-metilbenzamīds0,1 g1 g
 6)U-51754121279-74-12-(3,4-dihlorfenil)-N-[2-(dimetilamino)cikloheksil]-N-metil-acetamīds0,1 g1 g
+7)3,4-metilēndioksi-U-47700Nav pieejamsN-(2-(dimetilamino)cikloheksil)-N-metilbenzo[d][1,3]dioksol-5-karboksamīds0,1 g1 g
 5. Morfināna atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
@@ -479,7 +480,7 @@ un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karb
 25)
 Acetilfentanili
 N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(1-fenetilpiperidin-4-il)-N-fenilacetamīda, ja izpildīts viens vai vairāki šādi nosacījumi:
-a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem vai alkoksigrupām;
+a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, hidroksilgrupām vai alkoksigrupām;
 b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
 c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
 d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām), alkenilgrupu, metoksigrupu vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
