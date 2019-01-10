@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada ziemas sesija",
+ "sede": 1,
+ "datums": "2019-01-10",
+ "ieraksts": {
+  "dkp_id": "5445053e-fb1d-45ac-aad1-3e301c32e599",
+  "lastmodtime": "\"AAAAAAGi0do=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Uldis#Edvīns#Artis#Ilze#Edgars#Dace#Jānis#Romāns#Ivans#Vita Anda#Juris#Ivars#Ralfs#Evita#Edgars#Vladimirs#Didzis#Ainars#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Ļubova#Sandis#Inguna#Arvils#Rihards#Ilga#Jūlija#Linda#Jānis#Atis#Ojārs Ēriks#Tālis#Valērijs#Dace#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Andrejs#Jānis#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Janīna#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Budriķis#Šnore#Pabriks#Indriksone#Rinkēvičs#Rukšāne-Ščipčinska#Reirs#Naudiņš#Ribakovs#Tērauda#Pūce#Puga#Nemiro#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Latkovskis#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Švecova#Riekstiņš#Rībena#Ašeradens#Kols#Šuplinska#Stepaņenko#Ozola#Bordāns#Zakatistovs#Kalniņš#Linkaits#Agešins#Melbārde#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Judins#Urbanovičs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Jalinska#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "#########################################################################################",
+  "FRACTION": "JK#JK#NA#AP!#NA#JV#AP!#JV#NA#SASKAŅA #AP!#AP!#KPV LV#KPV LV#JK#SASKAŅA #SASKAŅA #KPV LV#JV#KPV LV#JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#ZZS#ZZS#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #JK#NA#JV#NA#JK# #JK#JK#KPV LV#JV#JK#SASKAŅA #NA#JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA #KPV LV#KPV LV#SASKAŅA #ZZS#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS#KPV LV#JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "10.01.2019 13:21:23",
+  "VOTEMOTIVE": "Par Kanādas Nacionālās aizsardzības departamenta pievienošanos Saprašanās memorandam starp Latvijas Republikas Aizsardzības ministriju, Igaunijas Republikas Aizsardzības ministriju, Vācijas Federatīvās Republikas Federālo ... (25/Lp13), 2.lasījums",
+  "VOTING_ID": "6d9eb663-da40-4d7c-94bf-df4b265064ae",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "77",
+  "VOTERESULT_REGISTERED": "90",
+  "VOTE_NUMBER": "12",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada ziemas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/659bba90-bc11-4cd3-8e5e-0656edd76814/download/13.saeimas-2019.gada-ziemas-sesija-1-vote.xml",
+  "sha256": "a2ba5a910590aef68010c28800dcc73318bfb854d5cafb840707373bb3c7ddef",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
