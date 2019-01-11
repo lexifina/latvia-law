@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 8. janvāra Ministru kabineta noteikumi Nr. 8 \"Grozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2019/7.6",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-10",
+  "entry_into_force": "2019-01-11",
+  "notification_date": "2019-01-10",
+  "commission_reference": "MNE(2019)50323",
+  "nim_celex": "72018L0742LVA_267484",
+  "nim_id": "267484",
+  "transposes_celex": [
+    "32018L0742"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82836b35-854c-471a-9e22-a67b22209af3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
