@@ -17,6 +17,7 @@ e) izdevējvalsts un izdevējiestāde;
 9) ziņas par vēlēšanu iecirkni:
 a) numurs,
 b) adrese;
+c) nosaukums;
 10) kārtas numurs vēlēšanu iecirkņa vēlētāju sarakstā;
 11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā;
 12) ziņas par kandidēšanu republikas pilsētas un novada domes vēlēšanās:
