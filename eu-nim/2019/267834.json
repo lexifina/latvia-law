@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 15. janvāra Ministru kabineta noteikumi Nr. 24\nGrozījumi Ministru kabineta 2010. gada 23. novembra noteikumos Nr. 1071 \"Prasības jūras vides stāvokļa novērtējumam, laba jūras vides stāvokļa noteikšanai un jūras vides mērķu izstrādei\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2019/12.11",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-17",
+  "entry_into_force": "2019-01-18",
+  "notification_date": "2019-01-17",
+  "commission_reference": "MNE(2019)50557",
+  "nim_celex": "72017L0845LVA_267834",
+  "nim_id": "267834",
+  "transposes_celex": [
+    "32017L0845"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8b1daca2-e1e6-4d99-92d5-8595e67927e3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
