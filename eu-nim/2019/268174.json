@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 15.janvāra noteikumi Nr.43 \"Noteikumi par nosacījumiem drošības incidenta būtiski traucējošās ietekmes noteikšanai un kārtību, kādā piešķir, pārskata un izbeidz pamatpakalpojuma sniedzēja un pamatpakalpojuma statusu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "13 (6352)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-01-18",
+  "entry_into_force": "2019-01-19",
+  "notification_date": "2019-01-22",
+  "commission_reference": "MNE(2019)50702",
+  "nim_celex": "72016L1148LVA_268174",
+  "nim_id": "268174",
+  "transposes_celex": [
+    "32016L1148"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afeb4f92-0473-4a42-b523-9710d73981cd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
