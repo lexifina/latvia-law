@@ -1,0 +1,1 @@
+1. pants. 2018. gada 28. septembrī Ņujorkā parakstītais Latvijas Republikas valdības un Korejas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
