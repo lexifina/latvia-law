@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada ziemas sesija",
+ "sede": 5,
+ "datums": "2019-01-31",
+ "ieraksts": {
+  "dkp_id": "44d404fc-454c-4010-9b36-cc8854e4c082",
+  "lastmodtime": "\"AAAAAAGkB6c=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Uldis#Ilze#Dace#Andris#Romāns#Ivans#Vita Anda#Ivars#Evita#Edgars#Vladimirs#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Rihards#Ilga#Ilmārs#Jūlija#Linda#Jānis#Atis#Ojārs Ēriks#Tālis#Valērijs#Dace#Aldis#Ēriks#Māris#Jānis#Mārtiņš#Viktors#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Budriķis#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Tērauda#Puga#Zālīte-Grosa#Kucins#Nikonovs#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Dūklavs#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Kols#Šuplinska#Dūrītis#Stepaņenko#Ozola#Bordāns#Zakatistovs#Kalniņš#Linkaits#Agešins#Melbārde#Adamovičs#Pucens#Kučinskis#Dombrava#Bondars#Valainis#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "JK#JK#NA#AP!#AP!#NA#SASKAŅA #AP!#KPV LV#JK#SASKAŅA #SASKAŅA #SASKAŅA #JV#AP!#KPV LV#JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#ZZS#ZZS#ZZS#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV#NA#NA#JK#AP!# #JK#JK#KPV LV#JV#JK#SASKAŅA #NA#JV#KPV LV#ZZS#NA#AP!#ZZS#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA #KPV LV#KPV LV#SASKAŅA #ZZS#ZZS#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS#KPV LV#JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "31.01.2019 09:08:23",
+  "VOTEMOTIVE": "Par Jāņa Iesalnieka 13. Saeimas deputāta pilnvaru apstiprināšanu uz laiku, kamēr no Nacionālās apvienības “Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK” kandidātu saraksta Rīgas vēlēšanu apgabalā ievēlētie deputāti pilda ministru pienākumus (38/Lm13)",
+  "VOTING_ID": "6a562f4f-2c0c-4db0-8487-8bb832de59cd",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "85",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "17",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada ziemas sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/54ae6b41-09c7-4b82-9e77-576e171c8d8a/download/13.saeimas-2019.gada-ziemas-sesija-5-vote.xml",
+  "sha256": "417e3541c4e07e62e2c600744cdc9b2214453c9db31f19cd34ec8e40b5bc16cf",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
