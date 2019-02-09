@@ -1,0 +1,1 @@
+82. Noteikt, ka 2019. gadā vidēja termiņa budžeta ietvara likuma projekts tiek sagatavots tikai 2020., 2021. un 2022. gadam un Ministru kabinets to iesniedz Saeimai vienlaikus ar likumprojektu par valsts budžetu 2020. gadam.
