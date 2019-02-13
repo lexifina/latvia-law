@@ -12,7 +12,7 @@
 a) piecu darbdienu laikā - par uzskaitei pieteiktajiem mēslošanas līdzekļiem ar EK marķējumu, paziņotajiem mēslošanas līdzekļiem un substrātiem, kā arī ražotāja reģistrētajiem mēslošanas līdzekļiem un substrātiem,
 b) katru mēnesi līdz piektajam datumam - par iepriekšējā mēnesī reģistrētajiem mēslošanas līdzekļiem un substrātiem, par tiem mēslošanas līdzekļiem un substrātiem, kuriem izsniegta šā likuma 8.panta otrajā daļā minētā atļauja, kā arī par mēslošanas līdzekļiem un substrātiem, kuriem anulēta reģistrācijas apliecība;
 10) norādot identificēšanai nepieciešamās ziņas, no Valsts ieņēmumu dienesta var pieprasīt informāciju par mēslošanas līdzekļiem un substrātiem, kuriem piemērota muitas procedūra - laišana brīvā apgrozībā;
-11) ievieto savā tīmekļa vietnē to reģistrā iekļauto mēslošanas līdzekļu sarakstu, kuros amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk un kuros - 20 procentu vai vairāk no mēslošanas līdzekļa masas.
+11) ievieto savā tīmekļvietnē mēslošanas līdzekļu sarakstu, kurā norādīts kālija nitrāts, nātrija nitrāts, kalcija nitrāts, kalcija amonija nitrāts un mēslošanas līdzekļi, kuros amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas.
 (2) Dienesta inspektoriem ir tiesības:
 1) pieprasīt un bez maksas saņemt no darbību veicēja informāciju, kas nepieciešama uzraudzības veikšanai saskaņā ar normatīvajiem aktiem par mēslošanas līdzekļiem un substrātiem;
 2) kontrolēt iepakojuma, marķējuma, etiķetes un pavaddokumentu atbilstību normatīvajos aktos par mēslošanas līdzekļiem un substrātiem noteiktajām prasībām, kas jāievēro mēslošanas līdzekļu un substrātu ražošanas, uzglabāšanas, iepakošanas un tirdzniecības vietās un attiecīgajos transportlīdzekļos;
