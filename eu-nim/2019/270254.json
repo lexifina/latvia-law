@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 19.februāra noteikumi Nr.84 \"Grozījumi Ministru kabineta 2011.gada 5.jūlija noteikumos Nr.545 \"Noteikumi par biodegvielu un bioloģisko šķidro kurināmo ilgtspējas kritērijiem, to ieviešanas mehānismu un uzraudzības un kontroles kārtību\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "42 (6381)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-02-28",
+  "entry_into_force": "2019-03-01",
+  "notification_date": "2019-03-07",
+  "commission_reference": "MNE(2019)51445",
+  "nim_celex": "72015L1513LVA_270254",
+  "nim_id": "270254",
+  "transposes_celex": [
+    "32015L1513"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42a73d08-c5ce-42ef-ae7f-a2148210a929",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
