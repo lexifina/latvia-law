@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada ziemas sesija",
+ "sede": 18,
+ "datums": "2019-03-07",
+ "ieraksts": {
+  "dkp_id": "d577e529-f7e9-4cd6-a2cd-caba1614b8d5",
+  "lastmodtime": "\"AAAAAAGoQCE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Ivans#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Jānis#Marija#Daniels#Igors#Raivis#Juris#Ļubova#Sandis#Inguna#Jūlija#Linda#Atis#Valērijs#Ēriks#Jānis#Mārtiņš#Dace#Ināra#Jānis#Ritvars#Mārtiņš#Sergejs#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Janīna#Artūrs#Janīna",
+  "SURNAME": "Strīķe#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Ribakovs#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Dūklavs#Golubeva#Pavļuts#Pimenovs#Dzintars#Rancāns#Švecova#Riekstiņš#Rībena#Stepaņenko#Ozola#Zakatistovs#Agešins#Pucens#Dombrava#Bondars#Bluķe#Mūrniece#Vucāns#Jansons#Staķis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Jalinska#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "############################################################",
+  "FRACTION": "JK#JK#AP!#NA#NA#AP!#SASKAŅA #AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA #KPV LV#JK#JV#AP!#KPV LV#JK#KPV LV#SASKAŅA #AP!#JK#JK#JV#JV#KPV LV#KPV LV#NA#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #NA#JK#SASKAŅA #JK#NA# #JK#KPV LV#SASKAŅA #KPV LV#NA#AP!#AP!#NA#ZZS#NA#AP!#SASKAŅA #JK#JK#JK#SASKAŅA #KPV LV#ZZS#SASKAŅA #NA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "07.03.2019 14:32:20",
+  "VOTEMOTIVE": "Grozījumi Valsts prezidenta ievēlēšanas likumā (189/Lp13), 3.lasījums",
+  "VOTING_ID": "55aaaa89-4e06-460d-840b-5c89868178bc",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "61",
+  "VOTE_NUMBER": "10",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada ziemas sesija-18-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cf77aaac-9768-4028-9520-c62b3298a296/download/13.saeimas-2019.gada-ziemas-sesija-18-vote.xml",
+  "sha256": "2db5a974233e25d140159fcd660e4f6a1853d1c78a07f4a57f9d21be8305281e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
