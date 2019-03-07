@@ -2,7 +2,7 @@
 (1) Regulāri izmaksājamie valsts sociālie pabalsti ir šādi:
 1) ģimenes valsts pabalsts;
 2) bērna kopšanas pabalsts;
-3) pabalsts aizbildnim par bērna uzturēšanu;
+3) pabalsts aizbildnībā esoša bērna uzturēšanai;
 4) atlīdzība par aizbildņa pienākumu pildīšanu;
 5) atlīdzība par audžuģimenes pienākumu pildīšanu;
 6) pabalsts transporta izdevumu kompensēšanai invalīdiem, kuriem ir apgrūtināta pārvietošanās;

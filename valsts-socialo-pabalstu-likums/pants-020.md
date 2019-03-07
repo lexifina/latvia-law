@@ -1,7 +1,7 @@
 20.pants. Regulāri izmaksājamo valsts sociālo pabalstu izmaksas pārtraukšana
 (1) Regulāri izmaksājamo valsts sociālo pabalstu izmaksu pārtrauc:
 1) uz laiku, kamēr pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, atrodas pilnā valsts apgādībā;
-2) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī;
+2) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī. Šis nosacījums neattiecas uz šā likuma 10. pantā minētā pabalsta izmaksu, ja aizbildnis un bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī;
 3) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, ir miris vai saņemta informācija vai dokumenti par viņa bezvēsts prombūtni;
 4) ja pabalsta saņēmējs labprātīgi atsakās no turpmākās pabalsta saņemšanas.
 (2) Šā likuma 6., 6.¹, 7., 7.¹, 9. un 10.pantā minēto pabalstu izmaksu pārtrauc arī tad, ja:
