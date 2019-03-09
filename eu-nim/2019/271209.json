@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 5. marta Ministru kabineta noteikumi Nr. 103 \"Kārtība, kādā sedz ar personas profesionālās kvalifikācijas atzīšanu saistītos izdevumus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "48 (6387)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-03-08",
+  "entry_into_force": "2019-03-09",
+  "notification_date": "2019-03-29",
+  "commission_reference": "MNE(2019)51876",
+  "nim_celex": "72013L0055LVA_271209",
+  "nim_id": "271209",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f522e9b8-d0e4-4f10-b8c5-29e792ae809f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
