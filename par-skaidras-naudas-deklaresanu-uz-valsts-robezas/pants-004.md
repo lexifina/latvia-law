@@ -1,2 +1,4 @@
-4.pants. Ārvalstu valūtas pārrēķinam piemērojamais kurss
-Deklarējamo skaidro naudu pārrēķina euro, piemērojot grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā robežas šķērsošanas dienas sākumā.
+4. pants. Ārvalstu valūtas pārrēķinam piemērojamais kurss
+(1) Deklarējamo skaidro naudu pārrēķina euro, piemērojot Eiropas Centrālās bankas katra mēneša priekšpēdējā trešdienā publicēto euro atsauces kursu. Eiropas Centrālās bankas katra mēneša priekšpēdējā trešdienā publicēto euro atsauces kursu Valsts ieņēmumu dienests publisko savā tīmekļvietnē. Ja minētajā dienā valūtas maiņas kurss netiek publicēts, piemēro jaunāko publicēto valūtas maiņas kursu.
+(2) Ja attiecībā uz konkrēto ārvalstu valūtu nav Eiropas Centrālās bankas publicētā euro atsauces kursa, izmanto pasaules finanšu tirgus atzīta finanšu informācijas sniedzēja periodiskajā izdevumā vai tā tīmekļvietnē publicēto jaunāko valūtas tirgus kursu attiecībā pret euro.
+(3) Šā panta pirmajā daļā noteikto valūtas maiņas kursu piemēro visu nākamo mēnesi, sākot no tā pirmās dienas.
