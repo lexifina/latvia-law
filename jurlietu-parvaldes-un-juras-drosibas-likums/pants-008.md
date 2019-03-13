@@ -15,5 +15,6 @@
 13) kontrolē, kā Latvijas ūdeņos un ostu akvatorijās tiek ievēroti zvejniecību reglamentējošie normatīvie akti;
 14) kontrolē dabas resursu izmantošanu Latvijas ūdeņos un ostu akvatorijās;
 15) kontrolē kuģu radīto atkritumu pieņemšanu un apsaimniekošanu ostās;
+15¹) kontrolē kuģu balasta ūdens nosēdumu pieņemšanu un apsaimniekošanu ostās un termināļos;
 16) saskaņo ostu noteikumus vides aizsardzības jomā un kontrolē to ievērošanu.
 (2) Ministru kabinets Valsts vides dienestam var noteikt papildu funkcijas.

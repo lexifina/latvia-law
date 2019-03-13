@@ -11,7 +11,8 @@
 9) 2005.gada Pasaules veselības organizācijas Starptautiskie veselības aizsardzības noteikumi;
 10) 2001.gada Starptautiskā konvencija par kuģu kaitīgo pretapaugšanas sistēmu kontroli;
 11) 2006.gada Konvencija par darbu jūrniecībā (turpmāk - MLC konvencija);
-12) 1995.gada Starptautiskā konvencija par zvejas kuģu personāla sagatavošanas un diplomēšanas, kā arī sardzes pildīšanas standartiem (turpmāk - STCW-F konvencija).
+12) 1995.gada Starptautiskā konvencija par zvejas kuģu personāla sagatavošanas un diplomēšanas, kā arī sardzes pildīšanas standartiem (turpmāk - STCW-F konvencija);
+13) 2004. gada Starptautiskā konvencija par kuģu balasta ūdens un nosēdumu kontroli un pārvaldību.
 (2) Nosakot kuģu drošības prasību piemērošanu un kuģu drošības uzraudzības kārtību, tiek ņemtas vērā starptautisko normatīvo aktu prasības attiecībā uz:
 1) pasažieru kuģu drošību un standartiem;
 2) obligāto pārbaužu sistēmu, lai nodrošinātu kuģu ar horizontālu un vertikālu kravas apstrādi (turpmāk - ro-ro kuģi) un ātrgaitas pasažieru kuģu drošu darbību;

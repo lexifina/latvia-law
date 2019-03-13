@@ -33,6 +33,7 @@ e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu
 20²) no kuģošanas drošības viedokļa saskaņo būvju (mākslīgo salu, būvju un iekārtu, tai skaitā platformu un enerģijas ražošanai nepieciešamo iekārtu) būvniecību Latvijas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, kā tas noteikts atbilstoši Jūras vides aizsardzības un pārvaldības likumam un Būvniecības likumam;
 21) no kuģošanas drošības un kuģu, ostu un ostas iekārtu aizsardzības viedokļa saskaņo ostu noteikumus un kontrolē to ievērošanu;
 21¹) no kuģošanas drošības viedokļa ostās kontrolē, kā tiek ievēroti normatīvajos aktos noteiktie pienākumi par konteineru drošu ekspluatāciju un apriti ostās un normatīvajos aktos noteiktās prasības par konteineru verificēto bruto masu;
+21²) pamatojoties uz atzinumu par vides risku, ko sniegusi Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar Latvijas Hidroekoloģijas institūtu, piešķir 2004. gada Starptautiskās konvencijas par kuģu balasta ūdens un nosēdumu kontroli un pārvaldību pielikuma A-4. noteikumā minētos atbrīvojumus;
 22) koordinē un sadarbībā ar citām kompetentajām iestādēm veic kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasību ieviešanu un uzraudzību;
 23) sertificē atzītās aizsardzības organizācijas un uzrauga to darbību;
 24) apstiprina kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības personāla apmācības programmu atbilstību kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasībām;
