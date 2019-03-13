@@ -1,0 +1,1 @@
+12. Šā likuma 9. panta divdesmitās daļas otrajā teikumā un 10. panta pirmās daļas otrajā teikumā minētās prasības iepirkumiem attiecībā uz apsardzes pakalpojumiem, uz kuriem attiecas CPV kods 79710000-4, neattiecina uz šiem iepirkumiem, ja tie uzsākti vai izsludināti pirms attiecīgo normu spēkā stāšanās dienas.

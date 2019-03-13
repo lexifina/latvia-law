@@ -26,4 +26,8 @@
 3) tiek piemērota sarunu procedūra;
 4) līgumu slēdz vispārīgās vienošanās ietvaros saskaņā ar šā likuma 56. vai 59. pantu;
 5) līgumu slēdz dinamiskās iepirkumu sistēmas ietvaros saskaņā ar šā likuma 57. pantu.
-(10) Ne vēlāk kā 10 darbdienu laikā pēc dienas, kad stājas spēkā iepirkuma līgums vai tā grozījumi, pasūtītājs savā pircēja profilā ievieto attiecīgi iepirkuma līguma, vispārīgās vienošanās pamattekstu vai uz vispārīgās vienošanās pamata noslēgta iepirkuma līguma tekstu, ja līgumcena ir vienāda ar Ministru kabineta noteiktajām līgumcenu robežvērtībām vai lielāka, vai iepirkuma līguma grozījumu tekstu un šā likuma 61. panta otrajā un trešajā daļā minēto iepirkuma līguma grozījumu pamatojumu, atbilstoši normatīvajos aktos noteiktajai kārtībai ievērojot komercnoslēpuma aizsardzības prasības. Iepirkuma līgums un tā grozījumu teksts ir pieejams pircēja profilā vismaz visā iepirkuma līguma darbības laikā, bet ne mazāk kā 36 mēnešus pēc iepirkuma līguma spēkā stāšanās dienas.
+(10) Pasūtītājs ne vēlāk kā 10 darbdienu laikā pēc dienas, kad stājas spēkā iepirkuma līgums, vispārīgā vienošanās vai to grozījumi, savā pircēja profilā, ievērojot normatīvajos aktos noteiktās komercnoslēpuma aizsardzības prasības un nodrošinot pieejamību visā iepirkuma līguma vai vispārīgās vienošanās darbības laikā, bet ne mazāku par šā likuma 40. panta piektajā daļā iepirkuma dokumentācijai noteikto glabāšanas laiku, ievieto:
+1) iepirkuma līgumu vai vispārīgo vienošanos;
+2) uz vispārīgās vienošanās pamata noslēgtu iepirkuma līgumu;
+3) ja iepirkuma līgumu veido publiski pieejami un ar autortiesībām aizsargāti tipveida līguma noteikumi, - norādi uz šiem tipveida līguma noteikumiem, kā arī dokumentus, kuri ir iepirkuma līguma sastāvdaļa un ar kuriem groza vai papildina attiecīgos tipveida līguma noteikumus;
+4) šīs daļas 1., 2. un 3. punktā minēto dokumentu grozījumus un šā likuma 61. panta otrajā un trešajā daļā minēto grozījumu pamatojumu.
