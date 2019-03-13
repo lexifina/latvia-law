@@ -1,0 +1,1 @@
+24. Šo pārejas noteikumu 22. punktā minētajos gadījumos likumā noteiktās atzīmes būvatļaujā, apliecinājuma kartē vai paskaidrojuma rakstā tiek veiktas rakstveidā, neizmantojot būvniecības informācijas sistēmu, un tās pielīdzināmas būvniecības informācijas sistēmā veiktajām atzīmēm.

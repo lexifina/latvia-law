@@ -1,0 +1,1 @@
+23. Šo pārejas noteikumu 22. punktā noteiktajos gadījumos būvvalde vai institūcija, kura pilda būvvaldes funkcijas, par būvniecības ieceri būvniecības informācijas sistēmā norāda šā likuma 14. panta otrajā, sestajā un 6.³ daļā noteikto informāciju.

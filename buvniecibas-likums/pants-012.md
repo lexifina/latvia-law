@@ -21,6 +21,11 @@
 1) viena mēneša laikā - par šā likuma 14.panta trešās daļas 1.punktā minēto jautājumu;
 2) 14 dienu laikā - par šā likuma 14.panta trešās daļas 2.punktā minēto jautājumu;
 2¹) 14 dienu laikā - par šā likuma 16.panta 2.² daļā un 17.panta 2.¹ daļā minēto jautājumu, kā arī par izmaiņām būvatļaujā gadījumos, kad mainās būvatļaujas adresāts, būvdarbu vadītājs, būvuzraugs vai autoruzraugs;
-3) septiņu dienu laikā - par šā likuma 14.panta trešās daļas 3.punktā minēto jautājumu.
-(5) Būvvalde izdara atzīmi būvatļaujā par tajā ietverto projektēšanas nosacījumu izpildi 15 darba dienu laikā no dienas, kad būvvaldei iesniegti dokumenti, kas apliecina visu attiecīgo nosacījumu izpildi. Atzīmi par būvdarbu uzsākšanas nosacījumu izpildi paskaidrojuma rakstā, apliecinājuma kartē vai būvatļaujā būvvalde izdara piecu darba dienu laikā no dienas, kad būvvaldei iesniegti dokumenti, kas apliecina visu attiecīgo nosacījumu izpildi.
+3) (izslēgts ar 14.02.2019. likumu).
+(5) Būvvalde atzīmi par projektēšanas nosacījumu izpildi būvniecības informācijas sistēmā izdara 15 darba dienu laikā, bet atzīmi par būvdarbu uzsākšanas nosacījumu izpildi - piecu darba dienu laikā no dienas, kad būvniecības informācijas sistēmā iesniegti dati, kas apliecina visu attiecīgo nosacījumu izpildi.
 (6) Šā panta trešās daļas 1., 5.¹ un 7.punktā minēto pienākumu būvvalde neveic attiecībā uz tiem būvdarbu valsts kontroles procesiem, kuri atbilstoši šā likuma 6.¹ pantā noteiktajam ir biroja kompetencē. Tiesības un kārtību, kādā būvvalde ir tiesīga iesaistīties šā panta trešās daļas 1. un 7.punktā minētajos procesos tajos gadījumos, kad to veikšana ir citu šajā likumā minēto institūciju kompetencē, nosaka vispārīgie būvnoteikumi.
+(7) Būvvalde būvniecības un ekspluatācijas kontroles ietvaros nepieciešamās procesuālās darbības atspoguļo un lēmumus izdod būvniecības informācijas sistēmā, ievērojot šā panta astoto daļu.
+(8) Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, neizmantojot būvniecības informācijas sistēmu, var:
+1) veikt administratīvo pārkāpumu procesu;
+2) izskatīt iesniegumus (izņemot būvniecības ieceres iesniegumus un iesniegumus par speciālajos būvnoteikumos noteiktās informācijas vai dokumentu iesniegšanu) un informācijas pieprasījumus, kā arī apstrīdēšanas iesniegumus;
+3) veikt ar būvniecības procesu saistīta administratīvā procesa (turpmāk - būvniecības administratīvais process) ietvaros izdota administratīvā akta piespiedu izpildi.

@@ -3,7 +3,7 @@
 (2) Par būvprojekta vai tā dokumentācijas atbilstību būvniecību regulējošu normatīvo aktu, būvnormatīvu, kā arī projektētāja un būvniecības ierosinātāja civiltiesiskā kārtā noslēgto līgumu prasībām ir atbildīgs būvprojekta izstrādātājs.
 (2¹) Būvprojekta izstrādes gaitā aizliegts izdarīt izmaiņas būves galvenajā lietošanas veidā. Būvprojekta izstrādes gaitā izmaiņas būvprojektā saskaņojamas ar būvvaldi vai institūciju, kura pilda būvvaldes funkcijas, šajā pantā noteiktajos gadījumos.
 (2²) Izmaiņas būves novietojumā, būvapjomā un fasādes risinājumā pieļaujamas pēc to saskaņošanas ar būvvaldi vai institūciju, kura pilda būvvaldes funkcijas. Ar izmaiņām var paredzēt arī būvprojektā minimālajā sastāvā vai būvprojektā neparedzētus pirmās vai otrās grupas inženierbūvju, pirmās grupas ēkas vai otrās grupas palīgēkas būvdarbus.
-(2³) Persona, kurai izdota būvatļauja, šā panta 2.² daļā minētajā gadījumā iesniedz būvvaldei vai institūcijai, kura pilda būvvaldes funkcijas, normatīvajos aktos noteiktos dokumentus. Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, pieņem vienu no šādiem lēmumiem:
+(2³) Persona, kurai izdota būvatļauja, šā panta 2.² daļā minētajā gadījumā būvniecības informācijas sistēmā iesniedz atbilstošu lūgumu būvvaldei vai institūcijai, kura pilda būvvaldes funkcijas. Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, pieņem vienu no šādiem lēmumiem:
 1) saskaņo izmaiņas, negrozot būvatļaujas nosacījumus;
 2) saskaņo izmaiņas un groza būvatļaujas nosacījumus;
 3) atsaka saskaņot izmaiņas.

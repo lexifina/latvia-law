@@ -10,7 +10,10 @@
 2) būvniecības procesam nepieciešamie dokumenti un to saturs;
 3) būvatļaujā iekļaujamie nosacījumi;
 4) par būvniecības procesa uzraudzību un tiesiskumu atbildīgā institūcija.
-(4) Nozaru ministrijas vai šo ministriju padotības iestādes atbilstoši to nolikumos vai citas institūcijas atbilstoši likumos noteiktajai kompetencei normatīvajos aktos paredzētajos gadījumos pieņem lēmumus par būvniecības ieceri, pildot šā likuma 12.panta trešās daļas 1., 3., 4., 5., 5.¹, 5.², 6., 7., 9. un 10.punktā noteiktās būvvaldes funkcijas, piemēro likumā noteiktos lēmumu pieņemšanas un strīdu izskatīšanas termiņus, kā arī nodrošina šā likuma 14.pantā noteikto būvniecības ieceres paziņošanas un apspriešanas kārtību un informācijas pieejamību būvniecības informācijas sistēmā.
+(4) Nozaru ministrijas vai šo ministriju padotības iestādes atbilstoši to nolikumos vai citas institūcijas atbilstoši likumos noteiktajai kompetencei normatīvajos aktos paredzētajos gadījumos, pildot šā likuma 12. panta trešās daļas 1., 3., 4., 5., 5.¹, 5.², 6., 7., 9. un 10. punktā noteiktās būvvaldes funkcijas:
+1) būvniecības un ekspluatācijas kontroles ietvaros nepieciešamās procesuālās darbības atspoguļo un lēmumus izdod būvniecības informācijas sistēmā, ievērojot šā likuma 24. panta astoto daļu;
+2) piemēro likumā noteiktos lēmumu pieņemšanas un strīdu izskatīšanas termiņus;
+3) nodrošina šā likuma 14. pantā noteikto būvniecības ieceres paziņošanas un apspriešanas kārtību un informācijas pieejamību būvniecības informācijas sistēmā.
 (5) Par būvniecības nozari atbildīgās ministrijas padotībā esoša iestāde veic būvizstrādājumu tirgus (ražošanas un tirdzniecības vietas, būvlaukumi) uzraudzību un kontroli, pārbaudot būvizstrādājumu atbilstību normatīvajos aktos un tehniskajos noteikumos paredzētajām prasībām un būvizstrādājumam deklarētajām ekspluatācijas īpašībām, un pieņem būvizstrādājumu tirgus dalībniekiem saistošus lēmumus. Iestādes pieņemtos lēmumus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
 (6) Veicot būvizstrādājumu tirgus uzraudzību un kontroli, iestādei ir tiesības:
 1) pieprasīt un bez maksas saņemt informāciju un dokumentus (tai skaitā tehnisko dokumentāciju, ekspluatācijas īpašību deklarāciju, tipa pārbaudes sertifikātu, testēšanas pārskatus);

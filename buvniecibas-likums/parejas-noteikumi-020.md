@@ -1,0 +1,1 @@
+20. Pašvaldība var izdot saistošos noteikumus, nosakot termiņu 2019. gadā, no kura būvniecības ieceres dokumentācija vai citi būvniecības dokumenti attiecīgās pašvaldības būvvaldē iesniedzami tikai būvniecības informācijas sistēmā.
