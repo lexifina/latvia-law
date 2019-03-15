@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 12. marta noteikumi Nr. 115 “Grozījumi Ministru kabineta 2011. gada 22. februāra noteikumos Nr. 135 \"Noteikumi par nolietotu transportlīdzekļu pārstrādi un apstrādes uzņēmumiem noteiktajām vides prasībām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52 (6391)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-03-13",
+  "entry_into_force": "2019-03-15",
+  "notification_date": "2019-06-26",
+  "commission_reference": "MNE(2019)54072",
+  "nim_celex": "72018L0849LVA_274618",
+  "nim_id": "274618",
+  "transposes_celex": [
+    "32018L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4e99215-c8df-4136-a5f0-afd9e2b50e35",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
