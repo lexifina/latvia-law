@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "MS does not consider NEM necessary",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": null,
+  "entry_into_force": null,
+  "notification_date": "2019-03-18",
+  "commission_reference": "MNE(2019)51609",
+  "nim_celex": "72016L1919LVA_270760",
+  "nim_id": "270760",
+  "transposes_celex": [
+    "32016L1919"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/04d7a3f0-a41e-4163-b588-36cc4e890d71",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
