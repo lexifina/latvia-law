@@ -1,4 +1,4 @@
-1. Corporation tax Apvienotajā Karalistē.
+1. (Izslēgts ar 21.03.2019. likumu. Sk. Pārejas noteikumu 39. punktu)
 2. Körperschaftsteuer Austrijā.
 3. Impôt des sociétés/vennootschapsbelasting Beļģijā.
 4. Kорпоративен данък Bulgārijā.

@@ -1,0 +1,1 @@
+39. Grozījumi šā likuma 1. un 2. pielikumā par 1. punkta izslēgšanu šajos pielikumos piemērojami, sākot ar dienu, kad Lielbritānijas un Ziemeļīrijas Apvienotā Karaliste izstājusies no Eiropas Savienības saskaņā ar Līguma par Eiropas Savienību 50. pantu.
