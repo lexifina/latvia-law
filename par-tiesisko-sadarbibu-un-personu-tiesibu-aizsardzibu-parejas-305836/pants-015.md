@@ -1,0 +1,3 @@
+15. pants. Tiesības uz prognozējamas invaliditātes un invaliditātes ekspertīzi
+(1) Apvienotās Karalistes pilsoņiem līdz 2020. gada 31. decembrim ir tiesības uz Invaliditātes likuma 7. panta pirmajā daļā noteikto prognozējamas invaliditātes un invaliditātes ekspertīzi, ja viņi tiesības uzturēties Latvijā ieguvuši līdz izstāšanās dienai un pēc izstāšanās dienas turpina dzīvot (uzturēties) Latvijā. Šis noteikums attiecas arī uz minēto pilsoņu ģimenes locekļiem.
+(2) Apvienotās Karalistes pilsoņiem, kuri dzīvo Apvienotajā Karalistē un kuriem ir tiesības uz sociālās apdrošināšanas pakalpojumiem Latvijā, līdz 2020. gada 31. decembrim ir tiesības uz Invaliditātes likuma 7. panta pirmajā daļā noteikto invaliditātes ekspertīzi.

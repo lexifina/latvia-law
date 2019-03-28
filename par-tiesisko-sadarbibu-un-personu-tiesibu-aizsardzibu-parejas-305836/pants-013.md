@@ -1,0 +1,5 @@
+13. pants. Valsts sociālās apdrošināšanas obligāto iemaksu veikšana
+(1) Apvienotās Karalistes darba devēju un darba ņēmēju tiesības, pienākumus un atbildību, sākot ar izstāšanās dienu, pielīdzina likumā "Par valsts sociālo apdrošināšanu" noteiktajām Eiropas Savienības darba devēju un darba ņēmēju tiesībām, pienākumiem un atbildībai.
+(2) Ja Aģentūrā tiek saņemts Apvienotās Karalistes kompetentās iestādes izsniegts dokuments, kas apliecina, ka persona ir sociāli apdrošināta Apvienotajā Karalistē, tad personai (par personu) valsts sociālās apdrošināšanas obligātās iemaksas Latvijā nav jāveic.
+(3) Aģentūra, saņemot personas vai darba devēja pieprasījumu, izsniedz dokumentu, kas apliecina, ka Latvijā par personu tiek veiktas valsts sociālās apdrošināšanas obligātās iemaksas kā par darba ņēmēju vai ka pati persona veic valsts sociālās apdrošināšanas obligātās iemaksas kā pašnodarbinātais.
+(4) Aģentūra informē Valsts ieņēmumu dienestu par saņemto Apvienotās Karalistes kompetentās iestādes izsniegto dokumentu, kas apliecina, ka persona ir sociāli apdrošināta Apvienotajā Karalistē.

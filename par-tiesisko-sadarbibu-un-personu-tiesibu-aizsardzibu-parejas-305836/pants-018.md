@@ -1,0 +1,2 @@
+18. pants. Tiesības studēt augstskolā un koledžā
+Tiesības studēt augstskolā vai koledžā Apvienotās Karalistes pilsonim un Latvijas pilsonim ir vienādas, ja Apvienotās Karalistes pilsonis līdz 2020. gada 31. decembrim ir noslēdzis studiju līgumu ar augstskolu vai koledžu saskaņā ar Augstskolu likumu. Tiesības studēt augstskolā vai koledžā Apvienotās Karalistes pilsonim, kurš noslēdz studiju līgumu ar augstskolu vai koledžu pēc 2020. gada 31. decembra, nosaka Augstskolu likuma noteikumi par ārzemnieku studijām Latvijā.

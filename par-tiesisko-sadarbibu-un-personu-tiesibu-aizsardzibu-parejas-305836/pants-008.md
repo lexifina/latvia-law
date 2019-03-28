@@ -1,0 +1,2 @@
+8. pants. Tiesības uz valsts sociālā nodrošinājuma pabalstu
+Latvijas pilsoņiem un nepilsoņiem, kuri no izstāšanās dienas līdz 2020. gada 31. decembrim pārceļas no Apvienotās Karalistes uz dzīvi Latvijā, tiesības uz valsts sociālā nodrošinājuma pabalstu nosaka saskaņā ar Valsts sociālo pabalstu likumu, ja viņi Latvijā ir nodzīvojuši kopumā ne mazāk kā 60 mēnešus, no tiem pēdējos 12 mēnešus - Latvijā vai Apvienotajā Karalistē.

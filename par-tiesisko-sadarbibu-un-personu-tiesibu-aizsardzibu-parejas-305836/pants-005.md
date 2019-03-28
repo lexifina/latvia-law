@@ -1,0 +1,2 @@
+5. pants. Tiesības uz pabalstiem saistībā ar valsts pensijas saņēmēja nāvi
+Valsts pensijas saņēmēja nāves gadījumā personai, kura dzīvo Apvienotajā Karalistē, saskaņā ar likumu "Par valsts pensijām" ir tiesības uz apbedīšanas pabalstu, ja tā uzņēmusies apbedīšanu, un pabalstu pārdzīvojušajam laulātajam, ja pārdzīvojušais laulātais ir vecuma, izdienas vai invaliditātes pensijas saņēmējs saskaņā ar likumu "Par valsts pensijām".

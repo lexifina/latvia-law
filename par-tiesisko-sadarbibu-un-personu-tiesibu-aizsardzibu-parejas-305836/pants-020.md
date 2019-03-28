@@ -1,0 +1,2 @@
+20. pants. Tiesības praktizēt kā zvērinātam advokātam
+Ja Apvienotās Karalistes advokāts līdz izstāšanās dienai ir ieguvis tiesības praktizēt Latvijā saskaņā ar Latvijas Republikas Advokatūras likuma septītās daļas "Eiropas Savienības dalībvalstu advokātu darbība Latvijā" 11. sadaļu, viņam ir atļauts veikt profesionālo darbību ar savas mītnes valsts profesijas nosaukumu Latvijā arī pēc izstāšanās dienas.

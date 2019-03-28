@@ -1,0 +1,2 @@
+16. pants. Tiesības uz bezdarbnieku un darba meklētāju atbalstu
+Apvienotās Karalistes pilsoņiem līdz 2020. gada 31. decembrim ir tiesības saņemt Bezdarbnieku un darba meklētāju atbalsta likumā noteikto atbalstu bezdarbniekiem, darba meklētājiem un bezdarba riskam pakļautām personām, ja viņi tiesības uzturēties Latvijā ieguvuši līdz izstāšanās dienai un pēc izstāšanās dienas turpina dzīvot (uzturēties) Latvijā. Šis noteikums attiecas arī uz minēto pilsoņu ģimenes locekļiem.

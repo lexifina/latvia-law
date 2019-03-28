@@ -1,0 +1,2 @@
+14. pants. Tiesības saņemt sociālos pakalpojumus un sociālo palīdzību
+Apvienotās Karalistes pilsoņiem ir tiesības līdz 2020. gada 31. decembrim saņemt Sociālo pakalpojumu un sociālās palīdzības likumā noteiktos sociālos pakalpojumus un sociālo palīdzību, pamatojoties uz kādu no Sociālo pakalpojumu un sociālās palīdzības likuma 3. panta pirmās daļas 3. punkta noteikumiem, ja viņi tiesības uzturēties Latvijā ieguvuši līdz izstāšanās dienai un pēc izstāšanās dienas turpina dzīvot (uzturēties) Latvijā. Šis noteikums attiecas arī uz minēto pilsoņu ģimenes locekļiem.

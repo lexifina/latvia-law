@@ -1,0 +1,5 @@
+17. pants. Tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros
+(1) Apvienotās Karalistes pilsoņiem līdz 2020. gada 31. decembrim ir tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros, ja viņi līdz izstāšanās dienai:
+1) ieguvuši tiesības uzturēties Latvijā un pēc izstāšanās dienas turpina uzturēties Latvijā sakarā ar nodarbinātību vai kā pašnodarbinātas personas. Šīs tiesības attiecas arī uz minēto Apvienotās Karalistes pilsoņu ģimenes locekļiem;
+2) ir likumīgi uzturējušies Latvijā un viņu tiesības saņemt veselības aprūpes pakalpojumus apliecina S1 veidlapa "Apliecinājums tiesībām saņemt veselības aprūpes pakalpojumus", kuru izsniegusi Apvienotā Karaliste saskaņā ar Regulu Nr. 883/2004.
+(2) Apvienotās Karalistes pilsoņiem, kuri līdz izstāšanās dienai uzsākuši studijas augstskolā vai koledžā Latvijā, studiju laikā ir tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros.

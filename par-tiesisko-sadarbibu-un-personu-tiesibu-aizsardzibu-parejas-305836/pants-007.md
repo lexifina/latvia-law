@@ -1,0 +1,3 @@
+7. pants. Tiesības uz valsts sociālajiem pabalstiem
+(1) Apvienotās Karalistes pilsoņiem ir tiesības līdz 2020. gada 31. decembrim pieprasīt un saņemt valsts sociālos pabalstus saskaņā ar Valsts sociālo pabalstu likumu, ja viņu rīcībā ir derīgs šā likuma 2. panta pirmajā vai ceturtajā daļā minētais dokuments. Ja pabalstu piešķir par bērnu, tad bērna dzīvesvietai jābūt Latvijā.
+(2) Personām, kuras dzīvo Apvienotajā Karalistē vai izceļo no Latvijas uz Apvienoto Karalisti pēc izstāšanās dienas, ģimenes valsts pabalstu (piemaksas pie ģimenes valsts pabalsta), bērna kopšanas pabalstu, bērna ar invaliditāti kopšanas pabalstu un pabalstu personai ar invaliditāti, kurai nepieciešama kopšana, izmaksā, ievērojot Regulas Nr. 883/2004 nosacījumus.
