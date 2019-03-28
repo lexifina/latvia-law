@@ -1,0 +1,1 @@
+12. Šā likuma 4. panta 6.¹ un 6.² daļa ir piemērojama, sākot ar dienu, kad Lielbritānijas un Ziemeļīrijas Apvienotā Karaliste izstājusies no Eiropas Savienības saskaņā ar Līguma par Eiropas Savienību 50. pantu.
