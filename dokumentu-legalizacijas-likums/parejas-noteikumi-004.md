@@ -1,0 +1,1 @@
+4. Grozījums šā likuma 3. panta otrajā daļā piemērojams, sākot ar dienu, kad Lielbritānijas un Ziemeļīrijas Apvienotā Karaliste izstājusies no Eiropas Savienības saskaņā ar Līguma par Eiropas Savienību 50. pantu.
