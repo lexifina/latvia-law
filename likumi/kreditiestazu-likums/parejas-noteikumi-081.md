@@ -1,0 +1,1 @@
+81. Grozījumi šā likuma 159. pantā un 161. panta otrās daļas 12. punktā par vārdu "zemesgrāmatu nodaļa" (attiecīgā skaitlī un locījumā) aizstāšanu ar vārdiem "rajona (pilsētas) tiesa" (attiecīgā skaitlī un locījumā) stājas spēkā 2019. gada 1. jūnijā.

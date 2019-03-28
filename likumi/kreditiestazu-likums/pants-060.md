@@ -1,4 +1,1 @@
-60.pants. (1) Kredītiestādes un klienta attiecības regulē likumi un noslēgtie līgumi.
-(2) (Izslēgta ar 21.05.1998. likumu.)
-(3) (Izslēgta ar 21.05.1998. likumu.)
-(4) (Izslēgta ar 21.05.1998. likumu.)
+60. pants. Kredītiestādes un klienta attiecības regulē normatīvie akti, kā arī starp kredītiestādi un klientu noslēgtie līgumi, tostarp izmantojot distances saziņas līdzekļus.

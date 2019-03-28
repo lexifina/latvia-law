@@ -1,0 +1,1 @@
+80. Grozījumi šā likuma 65. panta 1.² daļā, 66. panta ceturtajā daļā, 66.¹ panta pirmās daļas 1. punktā, 66.² panta trešās daļas otrajā teikumā un septītās daļas pirmais teikums (jaunā redakcijā) attiecībā uz Valsts ieņēmumu dienesta rīkojumu par nodokļu maksātāja norēķinu operāciju apturēšanu stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā "Par nodokļiem un nodevām".
