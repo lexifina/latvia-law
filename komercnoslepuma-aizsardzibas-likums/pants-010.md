@@ -1,0 +1,6 @@
+10. pants. Aizliegums veikt noteiktas darbības
+(1) Piemērojot aizliegumu veikt noteiktas darbības, tiesa nosaka:
+1) aizliegumu izmantot vai izpaust komercnoslēpumu;
+2) aizliegumu ražot, piedāvāt, laist tirgū vai izmantot pārkāpuma preces vai tās importēt, eksportēt vai glabāt minētajiem nolūkiem.
+(2) Ja tiek ierobežots ilgums aizliegumam veikt noteiktas darbības, laikam, kurā aizliegums ir spēkā, jābūt pietiekamam, lai novērstu jebkuru komerciālu vai ekonomisku priekšrocību, ko pārkāpējs būtu varējis iegūt komercnoslēpuma nelikumīgas iegūšanas, izmantošanas vai izpaušanas rezultātā.
+(3) Ja pēc tiesas sprieduma spēkā stāšanās iestājas tādi apstākļi, kurus tieši vai netieši nevar saistīt ar atbildētāju un kuru iestāšanās rezultātā attiecīgā informācija vairs nav atzīstama par komercnoslēpumu, atbildētājs ir tiesīgs vērsties pie komercnoslēpuma turētāja, lai pārliecinātos par komercnoslēpuma statusa zaudēšanu, un puses var rakstveidā vienoties, ka uz atbildētāju vairs nav attiecināms spriedumā noteiktais aizliegums veikt noteiktas darbības. Ja komercnoslēpuma turētājs saprātīgā termiņā rakstveidā neapstiprina komercnoslēpuma statusa zaudēšanu, atbildētājs ir tiesīgs celt tiesā prasību par aizlieguma veikt noteiktas darbības atcelšanu.

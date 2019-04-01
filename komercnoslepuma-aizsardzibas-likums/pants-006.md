@@ -1,0 +1,3 @@
+6. pants. Informēšana par komercnoslēpumu un tā aizsardzību
+(1) Komercnoslēpuma turētājs, sniedzot informāciju fiziskajai vai juridiskajai personai, tiesai vai valsts pārvaldes iestādei, norāda, ka informācija ir komercnoslēpums, kā arī informē par nepieciešamību nodrošināt komercnoslēpuma aizsardzību.
+(2) Komercnoslēpums ir ierobežotas pieejamības informācija Informācijas atklātības likuma izpratnē līdz brīdim, kad komercnoslēpuma turētājs rakstveidā informē par komercnoslēpuma statusa izbeigšanu vai kad attiecīgā informācija kļuvusi vispārzināma vai pieejama citām personām uz tiesiska pamata.

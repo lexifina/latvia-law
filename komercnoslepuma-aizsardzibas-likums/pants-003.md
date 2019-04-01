@@ -1,0 +1,5 @@
+3. pants. Komercnoslēpuma aizsardzības piemērošanas robežas un izņēmumi
+(1) Par komercnoslēpumu nevar uzskatīt informāciju, kas saistīta ar valsts pārvaldes funkciju vai uzdevumu izpildi, kā arī - normatīvajos aktos noteiktajos gadījumos - rīcību ar valsts vai pašvaldības finanšu līdzekļiem vai mantu.
+(2) Grāmatvedībā par komercnoslēpumu nav uzskatāma informācija un dati, kas saskaņā ar normatīvajiem aktiem iekļaujami to fizisko vai juridisko personu pārskatos, kuras veic saimniecisko darbību. Visa pārējā grāmatvedībā esošā informācija uzskatāma par komercnoslēpumu un ir pieejama vienīgi revīziju veicējiem, nodokļu administrācijai, tiesībaizsardzības iestādēm, tiesām, kā arī citām institūcijām normatīvajos aktos paredzētajos gadījumos.
+(3) Šā likuma noteikumus attiecībā uz pasākumiem, procedūrām vai tiesiskās aizsardzības līdzekļiem pret komercnoslēpuma iegūšanu, izmantošanu vai izpaušanu nepiemēro darba koplīguma pusēm, ciktāl tas skar darba koplīguma noslēgšanai vai grozīšanai nepieciešamo informāciju.
+(4) Citos normatīvajos aktos var būt paredzēti izņēmumi komercnoslēpuma aizsardzības piemērošanai.
