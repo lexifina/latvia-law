@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Komercnoslēpuma aizsardzības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52 (6391)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-03-14",
+  "entry_into_force": "2019-04-01",
+  "notification_date": "2019-03-21",
+  "commission_reference": "MNE(2019)51743",
+  "nim_celex": "72016L0943LVA_270954",
+  "nim_id": "270954",
+  "transposes_celex": [
+    "32016L0943"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10a4703c-5388-4f0b-9456-2bf20e10ac4c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
