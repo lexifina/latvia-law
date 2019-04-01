@@ -5,4 +5,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 4) Padomes 2010.gada 16.marta direktīvas 2010/24/ES par savstarpēju palīdzību prasījumu piedziņā saistībā ar noteiktiem maksājumiem, nodokļiem un citiem pasākumiem;
 5) Eiropas Parlamenta un Padomes 2011.gada 16.februāra direktīvas 2011/7/ES par maksājumu kavējumu novēršanu komercdarījumos;
 6) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/67/ES par to, kā izpildīt direktīvu 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1024/2012 par administratīvo sadarbību, izmantojot Iekšējā tirgus informācijas sistēmu ("IMI regula");
-7) Eiropas Parlamenta un Padomes 2014. gada 26. novembra direktīvas 2014/104/ES par atsevišķiem noteikumiem, kuri valsts tiesībās reglamentē zaudējumu atlīdzināšanas prasības par dalībvalstu un ES konkurences tiesību pārkāpumiem.
+7) Eiropas Parlamenta un Padomes 2014. gada 26. novembra direktīvas 2014/104/ES par atsevišķiem noteikumiem, kuri valsts tiesībās reglamentē zaudējumu atlīdzināšanas prasības par dalībvalstu un ES konkurences tiesību pārkāpumiem;
+8) Eiropas Parlamenta un Padomes 2016. gada 8. jūnija direktīvas (ES) 2016/943 par zinātības un darījumdarbības neizpaužamas informācijas (komercnoslēpumu) aizsardzību pret nelikumīgu iegūšanu, izmantošanu un izpaušanu.
