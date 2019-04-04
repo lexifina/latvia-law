@@ -1,0 +1,1 @@
+43. Šā likuma 74. panta 2.¹ daļa par deleģējumu Ministru kabinetam noteikt kārtību, kādā zvērināts tiesu izpildītājs pēc ieinteresēto personu lūguma, pamatojoties uz zvērināta notāra aicinājumu, sastāda mantojuma inventāra sarakstu, stājas spēkā 2019. gada 1. jūlijā.

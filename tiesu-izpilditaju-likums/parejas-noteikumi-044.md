@@ -1,0 +1,1 @@
+44. Šā likuma 71. panta ceturtā, piektā, sestā un septītā daļa, kas paredz tiesības pieņemt izpildei ierobežotu skaitu izpildu dokumentu par tādu prasību piedziņu, kurās piedzinējs saskaņā ar Civilprocesa likumu nav atbrīvots no sprieduma izpildes izdevumu samaksas un kurās piedzenamā summa ir vismaz 10 000 euro, stājas spēkā 2019. gada 1. jūlijā.

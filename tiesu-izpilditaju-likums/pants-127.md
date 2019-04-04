@@ -12,4 +12,8 @@
 11) izskata un pieņem lēmumus citos jautājumos, kas attiecas uz zvērinātu tiesu izpildītāju darbību, kā arī apstiprina tiesu izpildītāju darbības metodiku un citus ar zvērinātu tiesu izpildītāju darbību saistītus iekšējos normatīvos aktus;
 12) saņemot šā likuma 65.panta 4.punktā minēto lēmumu, izskaidro zvērinātam tiesu izpildītājam viņa rīcības nepareizību;
 13) nodrošina zvērinātu tiesu izpildītāju atvaļinājumu saskaņošanu;
-14) veic dokumentu saņēmējas iestādes funkciju, organizējot dokumentu izsniegšanu Latvijā saskaņā ar Hāgas 1965. gada konvenciju par tiesas un ārpustiesas dokumentu izsniegšanu civillietās un komerclietās un Eiropas Parlamenta un Padomes regulu Nr. 1393/2007.
+14) veic dokumentu saņēmējas iestādes funkciju, organizējot dokumentu izsniegšanu Latvijā saskaņā ar Hāgas 1965. gada konvenciju par tiesas un ārpustiesas dokumentu izsniegšanu civillietās un komerclietās un Eiropas Parlamenta un Padomes regulu Nr. 1393/2007;
+15) nodrošina statistikas pārskatu sagatavošanu par nolēmumu izpildi un izpildu dokumentu izpildes ilgumu:
+a) civillietās,
+b) krimināllietās daļā par mantiskām piedziņām,
+c) administratīvo pārkāpumu lietās daļā par mantiskām piedziņām.

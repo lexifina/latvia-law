@@ -1,0 +1,1 @@
+46. Līdz šā likuma 155.¹ pantā noteiktās lietu nomenklatūras un glabāšanas termiņu, kā arī lietvedības un statistikas kārtības apstiprināšanai, bet ne ilgāk kā līdz 2019. gada 1. novembrim ir piemērojami Ministru kabineta 2006. gada 14. marta noteikumi Nr. 202 "Noteikumi par zvērinātu tiesu izpildītāju lietvedību".

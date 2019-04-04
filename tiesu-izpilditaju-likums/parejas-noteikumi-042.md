@@ -1,0 +1,1 @@
+42. Grozījumi šā likuma 153. pantā, kas paredz izslēgt zvērināta tiesu izpildītāja pienākumu visiem zemesgrāmatu nodaļu priekšniekiem un publisko reģistru vadītājiem nosūtīt sava paraksta un zīmoga nospieduma, kā arī sava palīga paraksta paraugu, stājas spēkā 2019. gada 1. jūnijā.
