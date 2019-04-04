@@ -1,1 +1,1 @@
-8.pants. Kandidātus vēlēšanu zīmē ieraksta to pieteikšanas secībā. Valsts prezidentu ievēlē, balsojot ar vēlēšanu zīmēm Saeimas kārtības rullī noteiktajā kārtībā. Deputāti vēlēšanu aploksni pašrocīgi iemet vēlēšanu kastē, kas atrodas Saeimas sēžu zālē.
+8.pants. Kandidātus vēlēšanu zīmē ieraksta to pieteikšanas secībā. Valsts prezidentu ievēlē, balsojot ar vēlēšanu zīmēm Saeimas kārtības rullī noteiktajā kārtībā. Deputāti vēlēšanu zīmi pašrocīgi iemet vēlēšanu kastē, kas atrodas Saeimas sēžu zālē.
