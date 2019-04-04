@@ -2,9 +2,9 @@
 (1) Zemessargiem ir noteiktas šādas dienesta pakāpes:
 1) zemessargu sastāvam: zemessargs, vecākais zemessargs;
 2) instruktoru sastāvam:
-a) jaunākajiem instruktoriem: kaprālis,
-b) vecākajiem instruktoriem: seržants, virsseržants,
-c) augstākajiem instruktoriem: štāba virsseržants, galvenais virsseržants, augstākais virsseržants;
+a) jaunākajiem instruktoriem: kaprālis, seržants,
+b) vecākajiem instruktoriem: virsseržants, štāba virsseržants,
+c) augstākajiem instruktoriem: galvenais virsseržants, augstākais virsseržants;
 3) virsnieku sastāvam:
 a) jaunākajiem virsniekiem: leitnants, virsleitnants, kapteinis,
 b) vecākajiem virsniekiem: majors, pulkvežleitnants, pulkvedis,

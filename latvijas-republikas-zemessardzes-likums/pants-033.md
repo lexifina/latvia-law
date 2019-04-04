@@ -3,5 +3,5 @@
 (2) Zemessargu kandidātiem un zemessargiem medicīnisko pārbaudi veic par valsts līdzekļiem aizsardzības ministra noteiktajā kārtībā:
 1) zemessargu kandidātiem - pirms tiek noslēgts līgums par dienestu Zemessardzē;
 2) zemessargiem - ne retāk kā reizi piecos gados.
-(3) Zemessargam aizsardzības ministra noteiktajā kārtībā sedz izdevumus, kas viņam radušies, izmantojot sabiedrisko transportu (izņemot taksometru), lai dotos uz apmācību un nodrošinātu dienesta pienākumu izpildi.
+(3) Zemessargam var kompensēt transporta izdevumus, kas radušies, izmantojot personīgo vai sabiedrisko transportu (izņemot taksometru) no deklarētās dzīvesvietas līdz noteiktajai dienesta uzdevumu pildīšanas vai apmācību vietai un atpakaļ. Nosacījumus, kārtību un apmēru, kādā zemessargam izmaksā transporta izdevumu kompensāciju, nosaka aizsardzības ministrs.
 (4) Zemessargu ar dienesta pienākumu izpildei nepieciešamajiem sakaru līdzekļiem nodrošina attiecīgā Zemessardzes vienība aizsardzības ministra noteiktajā kārtībā.
