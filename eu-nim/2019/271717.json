@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieroču aprites likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "61 (6400)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-03-27",
+  "entry_into_force": "2019-04-10",
+  "notification_date": "2019-04-16",
+  "commission_reference": "MNE(2019)52155",
+  "nim_celex": "72017L0853LVA_271717",
+  "nim_id": "271717",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fb35998d-e816-416e-ace5-9d363d16164d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
