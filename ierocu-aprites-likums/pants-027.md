@@ -1,0 +1,15 @@
+27. pants. Veselības pārbaude personai, kas glabā (nēsā) ieročus un veic darbu ar ieročiem
+(1) Veselības pārbaudi veic, lai izvērtētu fiziskās personas veselības stāvokļa atbilstību ieroču glabāšanai (nēsāšanai) vai darbam ar ieročiem un noteiktu, vai personai nav diagnosticēti psihiski traucējumi, alkohola, narkotisko, psihotropo vai toksisko vielu atkarība, uzvedības traucējumi, fiziski trūkumi, kuru dēļ persona nav spējīga lietot šaujamieroci vai lielas enerģijas pneimatisko ieroci (turpmāk - medicīniskās pretindikācijas).
+(2) Pirmreizējo veselības pārbaudi veic:
+1) fiziskajām personām, kuras vēlas saņemt ieroča atļauju vai šaušanas instruktora vai šaušanas trenera sertifikātu;
+2) to juridisko personu dalībniekiem un vadītājiem, kuri vēlas saņemt ieroča iegādāšanās atļauju un kuri saņēmuši ieroča glabāšanas atļauju vai ieroču kolekcijas atļauju, kā arī minēto juridisko personu darbiniekiem, kuriem saskaņā ar darba pienākumiem pieejami ieroči, munīcija vai to sastāvdaļas;
+3) to komersantu dalībniekiem un vadītājiem, kuri vēlas saņemt vai ir saņēmuši speciālo atļauju (licenci) komercdarbībai ar ieročiem, munīciju vai speciālajiem līdzekļiem, kā arī šo komersantu darbiniekiem, kuriem saskaņā ar darba pienākumiem pieejami ieroči, munīcija un to sastāvdaļas vai speciālie līdzekļi.
+(3) Kārtējo veselības pārbaudi personām, kuras saņēmušas ieroča glabāšanas atļauju, nēsāšanas atļauju vai ieroču kolekcijas atļauju, atļauju darbam ar ieročiem vai šaušanas instruktora vai šaušanas trenera sertifikātu, veic ik pēc viena līdz pieciem gadiem atkarībā no personas veselības stāvokļa.
+(4) Uz pirmstermiņa veselības pārbaudi šā panta trešajā daļā minētās personas ir tiesīga nosūtīt ārstniecības persona vai Valsts policija, ja radušās pamatotas aizdomas, ka attiecīgajai personai ir medicīniskās pretindikācijas ieroču glabāšanai (nēsāšanai) vai darbam ar ieročiem.
+(5) Ārstniecības iestāde ziņas par personas veselības stāvokļa atbilstību ieroču glabāšanai (nēsāšanai) vai darbam ar ieročiem ievada Ieroču reģistrā un Licenču un sertifikātu reģistrā.
+(6) Ministru kabinets nosaka:
+1) medicīniskās pretindikācijas ieroču glabāšanai (nēsāšanai) un darbam ar ieročiem, kārtību, kādā tiek veiktas veselības pārbaudes, kā arī kārtību, kādā nosakāms kārtējās veselības pārbaudes termiņš;
+2) prasības un kārtību, kādā persona nosūtāma uz pirmstermiņa veselības pārbaudi;
+3) informācijas apjomu un kārtību, kādā ārstniecības iestādes iekļauj Ieroču reģistrā un Licenču un sertifikātu reģistrā ziņas par personas veselības stāvokļa atbilstību ieroču glabāšanai (nēsāšanai) un darbam ar ieročiem.
+(7) Lēmumu par medicīnisko pretindikāciju esību persona var apstrīdēt mēneša laikā no tā spēkā stāšanās dienas, iesniedzot attiecīgu iesniegumu Veselības inspekcijai. Veselības inspekcijas lēmumu mēneša laikā var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(8) Veselības inspekcija informē ārstniecības iestādi, kuras lēmums apstrīdēts Veselības inspekcijā, par pieņemto galīgo lēmumu attiecībā uz personas medicīniskajām pretindikācijām.

@@ -1,0 +1,5 @@
+28. pants. Kvalifikācijas pārbaudījums pirms pirmreizējas šaujamieroča iegādes
+(1) Pirms šaujamieroča (izņemot medību šaujamieroci) vai lielas enerģijas pneimatiskā ieroča pirmreizējas iegādes fiziskā persona nokārto kvalifikācijas pārbaudījumu par ieroču un munīcijas aprites kārtību un apliecina prasmi rīkoties ar ieroci. Kvalifikācijas pārbaudījuma saturu un norises kārtību nosaka Ministru kabinets.
+(2) Šā panta pirmajā daļā minēto kvalifikācijas pārbaudījumu atkārtoti kārto personas, kurām ieroča (izņemot medību šaujamieroci) glabāšanas atļauja vai nēsāšanas atļauja anulēta par ieroča vai munīcijas iegādāšanās, reģistrēšanas, glabāšanas, nēsāšanas, pārvadāšanas vai realizēšanas noteikumu pārkāpumiem.
+(3) Par kvalifikācijas pārbaudījuma kārtošanu, kā arī par kvalifikācijas pārbaudījuma apliecības dublikāta izsniegšanu maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
+(4) Valsts policija reģistrē Licenču un sertifikātu reģistrā ziņas par personām, kuras nokārtojušas šā panta pirmajā un otrajā daļā minēto kvalifikācijas pārbaudījumu.

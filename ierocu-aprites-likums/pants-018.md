@@ -1,0 +1,9 @@
+18. pants. Ieroča glabāšanas atļauja
+(1) Ieroča glabāšanas atļauja dod tiesības ieroča īpašniekam:
+1) glabāt atļaujā norādīto šaujamieroci, tā maināmās būtiskās sastāvdaļas, lielas enerģijas pneimatisko ieroci atļaujā norādītajā adresē: fiziskajai personai - savā deklarētajā dzīvesvietā, deklarācijā norādītajā papildu adresē un nekustamajā īpašumā, kā arī kopīpašumā (dzīvoklī, dzīvojamā mājā), bet juridiskajai personai - īpaši ierīkotā ieroču glabātavā;
+2) pārvadāt atļaujā norādīto šaujamieroci, tā maināmās būtiskās sastāvdaļas, kā arī lielas enerģijas pneimatisko ieroci;
+3) iegādāties atļaujā norādītajam ierocim paredzēto munīciju un glabāt to;
+4) iegādāties medībām vai sportam klasificētam šaujamierocim šaujampulveri un glabāt to;
+5) iegādāties atļaujā norādītajam medībām vai sportam klasificētam garstobra-vītņstobra šaujamierocim paredzēto šāviena trokšņa slāpētāju (klusinātāju) un glabāt, kā arī pārvadāt to;
+6) izmantot un pielietot atļaujā norādīto šaujamieroci, tā maināmās būtiskās sastāvdaļas un lielas enerģijas pneimatisko ieroci atbilstoši tā lietojuma veidam šajā likumā vai citos ieroču apriti reglamentējošos normatīvajos aktos noteiktajos gadījumos un kārtībā.
+(2) Eiropas Savienības dalībvalsts pilsonim un Eiropas Ekonomikas zonas valsts pilsonim, kuram ir savas valsts kompetentās iestādes izsniegta šaujamieroča glabāšanas atļauja vai Eiropas šaujamieroču apliecība, kā arī citas ārvalsts pilsonim, kuram ir savas valsts kompetentās iestādes izsniegta šaujamieroča glabāšanas atļauja, ir tiesības medībās izmantot tādai juridiskajai personai reģistrētos medību šaujamieročus un to munīciju, kā arī šo šaujamieroču maināmās būtiskās sastāvdaļas un tiem paredzēto šāviena trokšņa slāpētāju (klusinātāju), kura saņēmusi atļauju savvaļas sugu dzīvnieku turēšanai savā īpašumā vai valdījumā esošajās iežogotajās platībās.

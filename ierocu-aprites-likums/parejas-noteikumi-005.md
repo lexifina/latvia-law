@@ -1,0 +1,1 @@
+5. Šā likuma 73. panta astotajā daļā ietvertais tiesiskais regulējums attiecībā uz ieroču brokeru un komersantu, kas saņēmuši licenci A, B, C un D kategorijas ieroču dezaktivēšanai un A, B un C kategorijas ieroču pārveidošanai par salūtieročiem (akustiskajiem ieročiem), reģistrēšanu Licenču un sertifikātu reģistrā stājas spēkā 2019. gada 14. decembrī.

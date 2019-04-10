@@ -1,0 +1,7 @@
+17. pants. Ieroča iegādāšanās atļauja
+(1) Ieroča iegādāšanās atļauja ir derīga trīs mēnešus no dienas, kad Valsts policija pieņēmusi lēmumu par tās izsniegšanu. Atļauja dod tiesības:
+1) iegādāties tajā norādītos šaujamieročus, to munīciju, šaujamieroču maināmās būtiskās sastāvdaļas un lielas enerģijas pneimatiskos ieročus Latvijā no ieroču komersantiem, kuri saņēmuši speciālo atļauju (licenci) ieroču izgatavošanai vai realizēšanai, vai, saņemot atļauju ieroča ievešanai Latvijā, - no ārvalstu ieroču izgatavotājiem un tirdzniecības komersantiem saskaņā ar attiecīgās valsts likumiem;
+2) iegādāties tajā norādītos šaujamieročus, to munīciju, šaujamieroču maināmās būtiskās sastāvdaļas un lielas enerģijas pneimatiskos ieročus Latvijā vai ārvalstīs no personām;
+3) glabāt un pārvadāt tajā norādītos šaujamieročus, to munīciju, šaujamieroču maināmās būtiskās sastāvdaļas un lielas enerģijas pneimatiskos ieročus līdz to reģistrācijai Valsts policijā;
+4) šajā likumā noteiktajā kārtībā sporta federācijai iegādāties ieročus no šā likuma 94. panta pirmajā daļā minētās valsts vai pašvaldību institūcijas, glabāt un pārvadāt šos ieročus, to munīciju un šaujamieroču maināmās būtiskās sastāvdaļas līdz to reģistrācijai Valsts policijā.
+(2) Ieroča iegādāšanās atļauja nav nepieciešama, ja persona, kurai ir ieroča nēsāšanas atļauja, glabāšanas atļauja vai ieroču kolekcijas atļauja, iegādājas tādas pašas kategorijas un lietojuma šaujamieroci, tā maināmās būtiskās sastāvdaļas vai lielas enerģijas pneimatisko ieroci Latvijā no citas personas.

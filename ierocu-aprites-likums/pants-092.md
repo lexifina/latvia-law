@@ -1,0 +1,4 @@
+92. pants. Ieroču, munīcijas un speciālo līdzekļu iznīcināšana
+(1) Valsts policija pieņem lēmumu par tādu nodoto vai izņemto, kā arī konfiscēto ieroču, to sastāvdaļu un dezaktivētu ieroču iznīcināšanu, kuri nav realizēti vai nav tehniskā kārtībā, vai nav marķēti, kuriem mainīta tehniskā klasifikācija vai kuri pārveidoti šaušanai kārtām vai slēptai nēsāšanai, un nemarķētas munīcijas vai speciālo līdzekļu iznīcināšanu, ja tos nav lietderīgi iekļaut valsts nozīmes ieroču un munīcijas kolekcijā.
+(2) Nodotos vai izņemtos, kā arī konfiscētos ieročus, to sastāvdaļas, munīciju, dezaktivētus ieročus, kā arī speciālos līdzekļus iznīcina Nodrošinājuma valsts aģentūra.
+(3) Ieroču, munīcijas un to sastāvdaļu, kā arī dezaktivētu ieroču un speciālo līdzekļu iznīcināšanas kārtību nosaka Ministru kabinets.

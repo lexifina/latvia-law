@@ -1,0 +1,2 @@
+67. pants. Straikbola ieroču, peintbola ieroču un lāzertaga ierīču izmantošanas un pielietošanas nosacījumi
+Fiziskajām un juridiskajām personām atļauts izmantot straikbola ieroci, peintbola ieroci un lāzertaga ierīci tām piederošā vai šo personu valdījumā vai turējumā esošā nekustamajā īpašumā, to norobežojot un nodrošinot tādus izmantošanas apstākļus, lai nepieļautu vides, dzīvnieku un cilvēku dzīvības un veselības vai citām personām piederošās mantas apdraudējumu, kā arī neapdraud sabiedrisko drošību un nerada sabiedriskās kārtības traucējumus.

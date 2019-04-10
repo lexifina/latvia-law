@@ -1,0 +1,3 @@
+20. pants. Ieroča realizēšanas atļauja
+(1) Ieroča realizēšanas atļauja dod personai tiesības tajā norādītos šaujamieročus, to maināmās būtiskās sastāvdaļas, munīciju un lielas enerģijas pneimatisko ieroci pārdot ar tāda ieroču komersanta starpniecību, kurš saņēmis speciālo atļauju (licenci) ieroču realizēšanai. Ieroča realizēšanas atļauja ir derīga trīs mēnešus no dienas, kad Valsts policija pieņēmusi lēmumu par tās izsniegšanu.
+(2) Ieroča realizēšanas atļauja nav nepieciešama, ja persona realizē Latvijā reģistrētu šaujamieroci, tā maināmās būtiskās sastāvdaļas vai lielas enerģijas pneimatisko ieroci citai personai, kurai ir Latvijā izsniegta tādas pašas kategorijas un lietojuma ieroča glabāšanas atļauja, nēsāšanas atļauja vai ieroču kolekcijas atļauja.

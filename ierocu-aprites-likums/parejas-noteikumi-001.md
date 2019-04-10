@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Ieroču un speciālo līdzekļu aprites likums (Latvijas Vēstnesis, 2010, 183. nr.; 2011, 112. nr.; 2012, 18. nr.; 2013, 128. nr.; 2014, 38. nr.; 2015, 64. nr.; 2016, 117. nr.).

@@ -1,0 +1,3 @@
+3. Ministru kabinets līdz 2019. gada 13. decembrim izdod šā likuma 27. panta sestās daļas 3. punktā, 72. panta desmitajā daļā, 73. panta devītajā daļā, 83. panta trešajā un piektajā daļā un 87. panta ceturtajā daļā paredzētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 13. decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2011. gada 27. decembra noteikumi Nr. 1012 "Šaujamieroču, lielas enerģijas pneimatisko ieroču un gāzes pistoļu (revolveru) vienotās uzskaites kārtība";
+2) Ministru kabineta 2015. gada 10. februāra noteikumi Nr. 63 "Licenču un sertifikātu reģistra noteikumi".

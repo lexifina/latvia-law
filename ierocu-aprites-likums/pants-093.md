@@ -1,0 +1,3 @@
+93. pants. Šaujamieroča pārveidošana par salūtieroci (akustisko ieroci)
+(1) Valsts policija ir iestāde, kura verificē, vai šaujamierocis ir pārveidots par salūtieroci (akustisko ieroci) atbilstoši noteiktajām tehniskajām specifikācijām. Tehnisko specifikāciju šaujamieroča pārveidošanai par salūtieroci (akustisko ieroci) nosaka Ministru kabinets.
+(2) Par salūtieroča (akustiskā ieroča) apliecinājuma izsniegšanu maksājama valsts nodeva. Kārtību, kādā tiek izsniegts un reģistrēts salūtieroča (akustiskā ieroča) apliecinājums, kā arī kārtību un apmēru, kādā maksājama valsts nodeva par salūtieroča (akustiskā ieroča) apliecinājuma izsniegšanu, nosaka Ministru kabinets.

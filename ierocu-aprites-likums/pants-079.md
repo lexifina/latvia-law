@@ -1,0 +1,5 @@
+79. pants. Ieroču, munīcijas, to sastāvdaļu un speciālo līdzekļu izgatavošanas nosacījumi
+(1) Ieroču komersantam ir tiesības izgatavot ieročus, munīciju, to sastāvdaļas (izņemot šaujampulveri) un speciālos līdzekļus tikai īpaši iekārtotās nekustamo īpašumu telpās, kuru adrese norādīta licencē.
+(2) Šaujampulvera izgatavošana notiek civilajām vajadzībām paredzēto sprāgstvielu un spridzināšanas ietaišu apriti regulējošos normatīvajos aktos noteiktajā kārtībā.
+(3) Ieroču komersants ieroču, munīcijas, to sastāvdaļu un speciālo līdzekļu izgatavošanas vietā nodrošina tādus apstākļus, kas nepieļauj vides, cilvēku dzīvības, veselības vai mantas apdraudējumu.
+(4) Militāros ieročus un speciālos līdzekļus ir tiesīgs izgatavot ieroču komersants, kuram ir Aizsardzības ministrijas izsniegts militārā ražotāja sertifikāts stratēģiskas nozīmes preču apriti regulējošos normatīvajos aktos noteiktajā kārtībā, ievērojot šā panta trešās daļas nosacījumus. Militārā ražotāja sertifikāta izsniegšanai izveidotā Aizsardzības ministrijas komisija šā sertifikāta īpašajos nosacījumos iekļauj prasības tajā norādītā konkrētā militārā ieroča vai speciālā līdzekļa izgatavošanai.

@@ -1,0 +1,3 @@
+53. pants. Nosacījumi ieroču, to maināmo būtisko sastāvdaļu un munīcijas iegādei un ievešanai no trešām valstīm
+(1) Lai iegādātos un ievestu Latvijā no trešām valstīm A, B un C kategorijas šaujamieročus, to maināmās būtiskās sastāvdaļas un munīciju, kā arī D kategorijas lielas enerģijas pneimatiskos ieročus, fiziskajai un juridiskajai personai ir nepieciešams Valsts policijā saņemt ieroču iegādāšanās atļauju un pārvadāšanas vai pārsūtīšanas atļauju.
+(2) Muitas iestādes informē Valsts policiju par katru gadījumu, kad A, B un C kategorijas šaujamieročus, to maināmās būtiskās sastāvdaļas un munīciju, kā arī D kategorijas lielas enerģijas pneimatiskos ieročus ieved Latvijā no trešās valsts vai izved no Latvijas uz trešo valsti.

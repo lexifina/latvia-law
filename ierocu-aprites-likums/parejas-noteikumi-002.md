@@ -1,0 +1,7 @@
+2. Ministru kabinets līdz 2019. gada 31. decembrim izdod šā likuma 27. panta sestajā daļā, 28. panta pirmajā un trešajā daļā, 34. panta otrajā daļā, 70. panta trešajā daļā, 71. panta desmitajā daļā, 72. panta vienpadsmitajā daļā, 88. panta pirmajā, otrajā, ceturtajā un piektajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 31. decembrim ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2011. gada 1. novembra noteikumi Nr. 840 "Šautuvju (šaušanas stendu) izveidošanas un darbības, kā arī treniņšaušanas un šaušanas sporta sacensību norises un drošības noteikumi";
+2) Ministru kabineta 2012. gada 24. janvāra noteikumi Nr. 80 "Noteikumi par ieroču un munīcijas aprites un prasmju rīkoties ar ieroci kvalifikācijas pārbaudījuma pieņemšanas kārtību un valsts nodevas maksāšanas kārtību un apmēru";
+3) Ministru kabineta 2014. gada 22. jūlija noteikumi Nr. 418 "Noteikumi par veselības pārbaudēm personām, kas glabā (nēsā) ieročus un veic darbu ar ieročiem";
+4) Ministru kabineta 2014. gada 2. decembra noteikumi Nr. 743 "Kārtība, kādā izdara kontrolšāvienu, kā arī valsts nodevas apmērs un maksāšanas kārtība";
+5) Ministru kabineta 2015. gada 30. jūnija noteikumi Nr. 348 "Kārtība, kādā Valsts policija veido valsts nozīmes ieroču kolekciju, ložu un čaulu kontrolkolekciju un ieroču un munīcijas paraugu kolekciju";
+6) Ministru kabineta 2016. gada 2. augusta noteikumi Nr. 502 "Šaušanas instruktoru sertificēšanas noteikumi".

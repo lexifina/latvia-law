@@ -1,0 +1,1 @@
+4. Šā likuma 58. panta otrajā daļā ietvertais tiesiskais regulējums attiecībā uz šaujamieroču, kas dezaktivēti saskaņā ar regulā 2015/2403 noteiktajām tehniskajām specifikācijām, reģistrēšanu Ieroču reģistrā stājas spēkā 2019. gada 14. decembrī.

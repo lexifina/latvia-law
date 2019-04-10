@@ -1,0 +1,4 @@
+26. pants. Ieroču atļauju, ieroču un to maināmo būtisko sastāvdaļu un munīcijas nodošana Valsts policijai
+(1) Ja šaujamieroča vai lielas enerģijas pneimatiskā ieroča atļauju anulē, aptur tās darbību vai ieroča atļaujas derīguma termiņš nav pagarināts, ieroci, munīciju, šaujampulveri un šaujamieroča maināmās būtiskās sastāvdaļas piecu darbdienu laikā pēc attiecīgā paziņojuma saņemšanas nodod Valsts policijai.
+(2) Ja lēmumu par medību, sporta, kolekcijas un pašaizsardzības šaujamieroča atļaujas apturēšanu ir pieņēmusi Uzturlīdzekļu garantiju fonda administrācija, šaujamieroci, munīciju, šaujampulveri un šaujamieroča maināmās būtiskās sastāvdaļas piecu darbdienu laikā pēc lēmuma paziņošanas nodod Valsts policijai.
+(3) Nododot šā panta pirmajā un otrajā daļā minētos priekšmetus, persona nodod Valsts policijai arī attiecīgo ieroča atļauju.
