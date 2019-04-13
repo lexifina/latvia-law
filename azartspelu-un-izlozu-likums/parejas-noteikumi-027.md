@@ -1,0 +1,1 @@
+27. Šā likuma 4.¹ pants, 36. panta piektā, sestā un septītā daļa, 53. panta pirmās daļas 5. un 6. punkts, 80. panta devītā un desmitā daļa, 82. panta otrās daļas 8., 9., 10. un 11. punkts piemērojams ar 2020. gada 1. janvāri.

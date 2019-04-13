@@ -1,0 +1,1 @@
+31. Sākot ar 2020. gada 1. janvāri, netiek pieņemti jauni šā likuma 54.¹ panta astotajā daļā un 79.¹ panta astotajā daļā minētie spēlētāju paziņojumi par viņu izslēgšanu no interaktīvās azartspēles vai interaktīvās izlozes organizētāja izveidotā un uzturētā interaktīvo azartspēļu un interaktīvo izložu spēlētāju reģistra.

@@ -1,0 +1,1 @@
+30. Interaktīvo azartspēļu un interaktīvo izložu organizētājs šā likuma 54.¹ panta pirmajā daļā un 79.¹ panta pirmajā daļā minēto uzdevumu novērst atkarīgo spēlētāju tālāku dalību interaktīvajās azartspēlēs un interaktīvajās izlozēs pilda līdz brīdim, kamēr ir spēkā attiecīgie pieprasītie liegumi piedalīties interaktīvajās azartspēlēs vai interaktīvajās izlozēs.

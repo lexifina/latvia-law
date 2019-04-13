@@ -4,7 +4,9 @@
 1¹) interaktīvo azartspēļu spēlētāju reģistra izveidi un uzturēšanu;
 2) katram spēlētājam īpaša spēles konta izveidi uz spēļu organizētāja servera.
 3) pēc spēlētāja pieprasījuma viņa spēles kontā esošo līdzekļu pārskaitīšanu uz to pašu kredītiestādes kontu, no kura tika pārskaitīti likmju izdarīšanai paredzētie līdzekļi;
-4) Izložu un azartspēļu uzraudzības inspekcijas darbinieku netraucētu piekļuvi spēles organizēšanai izmantotajai programmai un grāmatvedības dokumentiem, kas saistīti ar interaktīvo azartspēļu rīkošanu.
+4) Izložu un azartspēļu uzraudzības inspekcijas darbinieku netraucētu piekļuvi spēles organizēšanai izmantotajai programmai un grāmatvedības dokumentiem, kas saistīti ar interaktīvo azartspēļu rīkošanu;
+5) šā likuma 4.¹ panta pirmajā daļā minētā fiziskās personas pieprasījuma pieņemšanu pēc pārliecināšanās par fiziskās personas identitāti un tā nodošanu Izložu un azartspēļu uzraudzības inspekcijai, kas informāciju par šo fizisko personu iekļauj pašatteikušos personu reģistrā;
+6) ka fiziskajām personām, kuras iekļautas pašatteikušos personu reģistrā, ir liegts piedalīties interaktīvajās azartspēlēs interaktīvo azartspēļu interneta mājaslapā.
 (2) Interneta mājaslapā, kuru azartspēļu organizētājs izmanto interaktīvo azartspēļu organizēšanai un likmju pieņemšanai, norāda:
 1) azartspēļu organizētāja nosaukumu, juridisko adresi un interaktīvo azartspēļu organizēšanas licences numuru;
 2) spēles, kuras šīs licences saņēmējs drīkst organizēt, vai spēles, kuru likmes drīkst pieņemt ar elektronisko sakaru pakalpojumu starpniecību;

@@ -1,0 +1,3 @@
+29. Lai nodrošinātu šā likuma 4.¹ panta piemērošanas uzsākšanu no 2020. gada 1. janvāra, Izložu un azartspēļu uzraudzības inspekcija:
+1) līdz 2019. gada 31. decembrim ir tiesīga pieņemt fizisko personu iesniegumus ar prasību noteikt liegumu spēlēt azartspēles, tai skaitā interaktīvās azartspēles, un piedalīties interaktīvajās izlozēs. Iesniegumā norāda fiziskās personas vārdu, uzvārdu, dzimšanas datus un lieguma termiņu;
+2) veic visas nepieciešamās darbības, lai informācija par šā pārejas noteikuma 1. apakšpunktā minētajām personām no 2020. gada 1. janvāra tiktu iekļauta šā likuma 4.¹ pantā minētajā pašatteikušos personu reģistrā.
