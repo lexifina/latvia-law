@@ -11,6 +11,6 @@
 3) atsaukt vai apturēt asignējumus, lai tiktu atlīdzināti nelikumīgi izlietotie līdzekļi, vai arī pieprasīt nelikumīgi izlietoto līdzekļu atmaksāšanu;
 4) iesniegt tiesā civilprasību vai nodot materiālus kompetentajām amatpersonām jautājuma par kriminālprocesa uzsākšanu izlemšanai;
 5) atsaukt vai apturēt maksājumus.
-(4) Valsts kasei atbilstoši likumam par pašvaldību finanšu izlīdzināšanu ir tiesības bezstrīdus kārtībā piedzīt no pašvaldības budžeta līdzekļiem naudas summas, ko attiecīgā pašvaldība nav savlaicīgi vai pilnā apmērā ieskaitījusi pašvaldību finanšu izlīdzināšanas fondā, norakstot šīs summas no attiecīgās pašvaldības budžeta.
+(4) (Izslēgta ar 03.04.2019. likumu)
 (4¹) Ministru kabinets nosaka kārtību, kādā iestāde, kas uzrauga Eiropas Savienības politiku instrumentu vai ārvalstu finanšu palīdzības projektu īstenošanu, pieņem lēmumu par asignējuma apturēšanu, atjaunošanu vai atsaukšanu un Valsts kase aptur, atjauno vai atsauc asignējumu Eiropas Savienības politiku instrumenta vai ārvalstu finanšu palīdzību finansējuma saņēmējam.
 (5) Par noteiktā termiņā neizdarītajiem maksājumiem par valsts kapitāla izmantošanu tiek aprēķināta un piedzīta nokavējuma nauda šā panta pirmajā daļā noteiktajā apmērā.

@@ -1,0 +1,1 @@
+86. Grozījumi šā likuma 16.¹ panta trešajā daļā par vārdu "zemesgrāmatu nodaļu" izslēgšanu, 19. panta sestās daļas pirmajā un trešajā teikumā par vārdu "Zemesgrāmatu nodaļu" izslēgšanu un 21. panta piektās daļas 9. punktā par vārdu "zemesgrāmatu nodaļu" izslēgšanu stājas spēkā 2019. gada 1. jūnijā.

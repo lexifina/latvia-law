@@ -1,1 +1,1 @@
-66. Šā likuma 16. panta otrā daļa piemērojama no 2020.gada 1.janvāra. Līdz 2019.gada 31.decembrim finanšu ministrs budžeta sagatavošanas grafika projektu Ministru kabinetam iesniedz līdz kārtējā gada 1.martam.
+66. Šā likuma 16. panta otrā daļa piemērojama no 2023. gada 1. janvāra. Līdz 2022. gada 31. decembrim finanšu ministrs budžeta sagatavošanas grafika projektu Ministru kabinetam iesniedz līdz kārtējā gada 1. martam.
