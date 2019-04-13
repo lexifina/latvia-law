@@ -2,4 +2,4 @@
 (2) Ilgtermiņa saistības šā likuma izpratnē ir saistības, kuras pašvaldība uzņemas, slēdzot līgumus par preču pirkšanu vai nomu vai pakalpojumu saņemšanu, vai būvdarbu veikšanu pasūtītāja vajadzībām un līgumus, kas paredz pašvaldības budžeta līdzdalību konkrētu projektu realizācijā, bet kopējo samaksu par attiecīgo darījumu pašvaldība neveic divpadsmit mēnešu laikā no līguma noslēgšanas brīža.
 (3) Pašvaldību aizņēmumu kopējo pieļaujamo palielinājumu saimnieciskajā gadā nosaka gadskārtējā valsts budžeta likums. Aizņēmumus pašvaldības var ņemt Latvijā vai ārvalstīs, izlaižot vērtspapīrus vai noslēdzot aizņēmuma līgumus.
 (4) Aizņēmumu līdzekļi ir pašvaldības budžeta līdzekļi, kurus pašvaldība izlieto tikai apropriācijas kārtībā, pamatojoties uz domes lēmumu.
-(5) Pašvaldības nedrīkst nodrošināt aizņēmumus ar īpašumiem, kas nepieciešami pašvaldību pastāvīgo funkciju izpildei.
+(5) Pašvaldības nedrīkst nodrošināt aizņēmumus ar īpašumiem, kas nepieciešami pašvaldību autonomo funkciju izpildei.
