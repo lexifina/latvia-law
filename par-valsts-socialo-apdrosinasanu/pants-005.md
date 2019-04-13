@@ -5,6 +5,7 @@
 (3¹) Brīvprātīgi pensiju apdrošināšanai Ministru kabineta noteiktajā kārtībā var pievienoties personas, kuras maksā sezonas laukstrādnieku ienākuma nodokli.
 (3²) (Izslēgta ar 20.12.2016. likumu)
 (3³) Brīvprātīgi pensiju apdrošināšanai Ministru kabineta noteiktajā kārtībā var pievienoties profesionāli sportisti.
+(3⁴) Brīvprātīgi pensiju apdrošināšanai Ministru kabineta noteiktajā kārtībā var pievienoties diasporas locekļi.
 (4) Persona ir sociāli apdrošināta darba negadījumu apdrošināšanai, apdrošināšanai pret bezdarbu, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, un veselības apdrošināšanai, un tai (par to) ir jāveic obligātās iemaksas, sākot ar dienu, kad šī persona ir ieguvusi šā panta pirmajā daļā minēto statusu, izņemot pašnodarbinātā statusu. Persona ir sociāli apdrošināta pensiju apdrošināšanai, ja faktiski ir veiktas obligātās iemaksas.
 (5) Pašnodarbinātie un šā panta otrajā un trešajā daļā minētās personas ir sociāli apdrošinātas, ja faktiski ir veiktas sociālās apdrošināšanas iemaksas.
 (6) Mikrouzņēmuma darbinieki, izņemot šā likuma 1.panta 2.punkta "l" apakšpunktā minētos darba ņēmējus, ir sociāli apdrošināmi saskaņā ar Mikrouzņēmumu nodokļa likumu. Mikrouzņēmuma darbinieki nav pakļauti veselības apdrošināšanai.
