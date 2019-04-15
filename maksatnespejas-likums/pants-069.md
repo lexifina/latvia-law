@@ -5,4 +5,5 @@ Parādnieka pārstāvim ir šādas tiesības:
 3) piedalīties kreditoru sapulcē un iepazīties ar tās protokolu;
 4) pieprasīt, lai administrators sasauc kreditoru sapulci šajā likumā noteiktajā kārtībā;
 5) izstrādāt tiesiskās aizsardzības procesa pasākumu plānu;
-6) šajā likumā noteiktajā kārtībā iesniegt sūdzību par kreditoru sapulces vai administratora lēmumu vai celt prasību tiesā.
+6) šajā likumā noteiktajā kārtībā iesniegt sūdzību par kreditoru sapulces vai administratora lēmumu vai celt prasību tiesā;
+7) izmantojot likumā piešķirtās tiesības un pildot likumā noteiktos pienākumus, normatīvajos aktos noteiktajā kārtībā un apjomā izmantot Sistēmu.

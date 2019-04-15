@@ -11,5 +11,5 @@
 (6) Maksātnespējas kontroles dienesta, administratora un tiesiskās aizsardzības procesa uzraugošās personas sagatavotajiem dokumentiem, kurus iesniedz un dara pieejamus, izmantojot Sistēmu, ir juridisks spēks arī tad, ja tajos nav iekļauts rekvizīts "paraksts".
 (7) Aktualizējot Sistēmā iekļautās ziņas, tiek saglabātas iepriekš reģistrētās ziņas.
 (8) Ministru kabinets nosaka Sistēmas izmantošanas un uzturēšanas kārtību, kārtību, kādā ziņas un dokumentus iesniedz iekļaušanai Sistēmā un saņem no Sistēmas, kā arī Sistēmā iekļaujamo ziņu un dokumentu apjomu un to glabāšanas termiņus.
-(9) (Daļa stājas spēkā 15.04.2019. un iekļauta likuma redakcijā uz 15.04.2019. Sk. Pārejas noteikumu 63. punktu)
+(9) Kreditors un tā pārstāvis, parādnieka pārstāvis, parādnieks fiziskās personas maksātnespējas procesā vai tā pārstāvis var izmantot Sistēmu normatīvajos aktos noteikto pienākumu izpildei un tiesību īstenošanai.
 (10) Sistēmā iekļautās ziņas ir ierobežotas pieejamības informācija.

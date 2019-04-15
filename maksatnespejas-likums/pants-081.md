@@ -11,3 +11,4 @@
 9) neieķīlātās mantas pārdošanas termiņa pagarināšanu.
 (2) Administrators ziņo kreditoriem par citiem jautājumiem, kuriem ir nozīme juridiskās personas maksātnespējas procesa norisē.
 (3) Ja šajā likumā nav noteikts citādi, administrators informāciju kreditoriem sniedz elektroniski, noformējot dokumentu atbilstoši normatīvajos aktos noteiktajām elektronisko dokumentu noformēšanas prasībām.
+(4) Kreditoriem savu interešu aizsardzībai ir tiesības normatīvajos aktos noteiktajā kārtībā un apjomā izmantot Sistēmu.

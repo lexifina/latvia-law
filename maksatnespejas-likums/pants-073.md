@@ -2,7 +2,7 @@
 (1) Kreditoru prasījumi pret parādnieku iesniedzami administratoram mēneša laikā no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par parādnieka maksātnespējas procesa pasludināšanu.
 (2) Ja kreditors nokavējis šā panta pirmajā daļā minēto prasījumu iesniegšanas termiņu, viņš savu prasījumu pret parādnieku var iesniegt termiņā, kas nav ilgāks par sešiem mēnešiem no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par parādnieka maksātnespējas procesa pasludināšanu, bet ne vēlāk kā līdz dienai, kad šajā likumā noteiktajā kārtībā sastādīts kreditoru prasījumu apmierināšanas plāns. Pēc šā termiņa iestājas noilgums, līdz ar to kreditors zaudē kreditora statusu un savas prasījuma tiesības pret parādnieku.
 (3) Ja kreditors nokavējis šā panta pirmajā daļā minēto prasījumu iesniegšanas termiņu, bet iesniedzis savus prasījumus sešu mēnešu laikā no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par parādnieka maksātnespējas procesa pasludināšanu, bet ne vēlāk kā līdz dienai, kad šajā likumā noteiktajā kārtībā sastādīts kreditoru prasījumu apmierināšanas plāns, attiecīgais kreditors iekļaujams kreditoru prasījumu reģistrā, taču šim kreditoram netiek piešķirtas balsstiesības.
-(3¹) (Daļa stājas spēkā 15.04.2019. un iekļauta likuma redakcijā uz 15.04.2019. Sk. Pārejas noteikumu 63. punktu)
+(3¹) Kreditoram ir tiesības iesniegt kreditora prasījumu pret parādnieku šā panta pirmajā, otrajā un trešajā daļā noteiktajā termiņā, izmantojot Sistēmu.
 (4) Kreditori savā iesniegumā norāda:
 1) prasījuma pamatojumu;
 2) prasījuma veidu;
