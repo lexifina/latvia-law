@@ -3,7 +3,7 @@
 1.¹ Personai, kas atbilstoši Mikrouzņēmumu nodokļa likumam ir mikrouzņēmuma īpašnieks vai mikrouzņēmuma darbinieks, ar nodokli apliekamo objektu nosaka Mikrouzņēmumu nodokļa likums.
 2. Iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja - mēneša) apliekamais ienākums, ja šā panta 2.⁴ daļā nav noteikts citādi, ir viņa gada (mēneša) ienākums, izņemot šā likuma 9.pantā minētos neapliekamos ienākumus, no kura tiek atskaitīti:
 1) šā likuma 10.pantā noteiktie attaisnotie izdevumi;
-2) maksātāja gada diferencētais neapliekamais minimums (Valsts ieņēmumu dienesta prognozētais mēneša neapliekamais minimums);
+2) maksātāja gada diferencētais neapliekamais minimums (Valsts ieņēmumu dienesta prognozētais mēneša neapliekamais minimums vai maksātāja prognozētais mēneša neapliekamais minimums);
 3) šā likuma 13.pantā noteiktie atvieglojumi.
 2.¹ (Izslēgta ar 01.12.2009. likumu)
 2.² (Izslēgta ar 01.12.2009. likumu)

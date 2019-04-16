@@ -2,7 +2,7 @@
 1. Algas nodokļa ieturēšanu un maksāšanu (pārskaitīšanu budžetā) veic darba devējs, kas nodarbina darbinieku - (nodokļa) maksātāju.
 2. Algas nodoklis tiek aprēķināts atbilstoši šā likuma 15. panta trešajā daļā noteiktajai likmei.
 3. Ar algas nodokli apliekamais mēneša ienākums ir:
-1) Latvijas Republikas rezidentiem darbavietā, kur iesniegta grāmatiņa - starpība starp kalendārā mēneša ienākumu un Valsts ieņēmumu dienesta prognozētā mēneša neapliekamā minimuma, šā likuma 10.panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma 13.panta pirmajā daļā noteikto atvieglojumu summu;
+1) Latvijas Republikas rezidentiem darbavietā, kur iesniegta grāmatiņa - starpība starp kalendārā mēneša ienākumu un Valsts ieņēmumu dienesta prognozētā mēneša neapliekamā minimuma vai maksātāja prognozētā mēneša neapliekamā minimuma, šā likuma 10.panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma 13.panta pirmajā daļā noteikto atvieglojumu summu;
 2) Latvijas Republikas rezidentiem darbavietā, kur nav iesniegta grāmatiņa - kalendārā mēneša ienākums, no kura atskaitīta šā likuma 10.panta otrajā daļā noteiktā attaisnoto izdevumu summa;
 3) Latvijas Republikas nerezidentiem - kalendārā mēneša ienākums, no kura atskaitīta šā likuma 10.panta pirmās daļas 1., 5. un 6.punktā minēto attaisnoto izdevumu summa.
 4. (Izslēgta ar 25.11.1999. likumu.)
