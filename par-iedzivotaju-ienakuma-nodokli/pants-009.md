@@ -44,6 +44,7 @@ c) metāllūžņu pārdošanas;
 24) (izslēgts ar 01.12.2009. likumu);
 25) palīdzība naudā vai citās lietās, vai pakalpojuma veidā, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās iestādes naudas līdzekļiem, - 1000 euro gadā;
 26) preču un pakalpojumu loteriju laimesti;
+26¹) (punkts stājas spēkā 01.07.2019. un iekļauts likuma redakcijā uz 01.07.2019. Sk. Pārejas noteikumu 141. punktu)
 27) palīdzība naudā vai citās lietās, vai pakalpojuma veidā, kas sniegta no sabiedriskā labuma organizācijas (izņemot reliģisko organizāciju) līdzekļiem, vai palīdzība, ko budžeta finansētas institūcijas, labdarības vai filantropiskas organizācijas sniegušas lietās, kurām piemērots atbrīvojums no muitas nodokļa, - 1000 euro gadā. Palīdzība naudā, kas saņemta no sabiedriskā labuma organizācijas ārstniecības izdevumu segšanai (tai skaitā lai nodrošinātu slimnieka un to pavadošās personas pārvietošanos līdz ārstniecības iestādei), gada apliekamajā ienākumā netiek ietverta un ar nodokli netiek aplikta, ja attiecīgās summas izlietojums ārstniecības mērķiem ir apliecināts ar attaisnojuma dokumentiem, ko uzglabā sabiedriskā labuma organizācija;
 28) kompensācija par īres līguma izbeigšanu un dzīvojamo telpu atbrīvošanu denacionalizēta vai likumīgajam īpašniekam atdota nama īrniekam, kurš attiecīgajā namā dzīvojis līdz īpašuma tiesību atjaunošanai likumīgajam īpašniekam (viņa mantiniekam);
 29) ienākums, kas gūts, sniedzot palīdzību vai slepeni sadarbojoties ar operatīvās darbības subjektiem;
