@@ -1,0 +1,1 @@
+85. Šā likuma 35.¹ panta otrajā daļā minētās ziņas attiecībā uz valsts pārbaudījumiem profesionālās kvalifikācijas iegūšanai sāk ievadīt Valsts pārbaudījumu informācijas sistēmā no 2021. gada 1. septembra.

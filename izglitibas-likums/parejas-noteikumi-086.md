@@ -1,0 +1,1 @@
+86. Šā likuma 35.¹ panta otrajā daļā minētās ziņas attiecībā uz valsts valodas prasmes pārbaudījumiem sāk ievadīt Valsts pārbaudījumu informācijas sistēmā no 2021. gada 1. septembra, un šīs ziņas attiecas uz tiem valsts valodas prasmes pārbaudījumiem, kuri kārtoti no 1991. gada 1. janvāra.
