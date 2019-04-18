@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 9.aprīļa noteikumi Nr.154 \"Piemērojamais elektroniskā rēķina standarts un tā pamatelementu izmantošanas specifikācija un aprites kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "78 (6417)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-04-17",
+  "entry_into_force": "2019-04-18",
+  "notification_date": "2019-04-18",
+  "commission_reference": "MNE(2019)52218",
+  "nim_celex": "72014L0055LVA_271801",
+  "nim_id": "271801",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/85ef8992-211a-429c-8ff7-0789b465b3a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
