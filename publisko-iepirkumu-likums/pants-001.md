@@ -8,6 +8,7 @@ Likumā ir lietoti šādi termini:
 a) iepērk preces vai pakalpojumus citu pasūtītāju vai sabiedrisko pakalpojumu sniedzēju vajadzībām,
 b) veic iepirkumus vai iepirkuma procedūras, lai noslēgtu iepirkuma līgumu vai vispārīgo vienošanos citu pasūtītāju vai sabiedrisko pakalpojumu sniedzēju vajadzībām;
 5) dinamiskā iepirkumu sistēma - bieži lietojamiem un tirgū plaši pieejamiem būvdarbiem, pakalpojumiem un piegādēm izmantots pilnīgi elektronizēts process, kas ir ierobežots laikā un atklāts visiem piegādātājiem, kuri atbilst kandidātu atlases prasībām;
+5¹) elektroniskais rēķins - rēķins, kurš izsniegts, nosūtīts un saņemts strukturētā elektroniskā formā, kas ļauj to automātiski un elektroniski apstrādāt;
 6) elektroniskā izsole - elektronisks process, kurā atkārtoti tiek norādītas lejupejošas cenas vai noteiktu piedāvājuma daļu jaunās vērtības un kurš ļauj sarindot piedāvājumus, izmantojot automātiskas vērtēšanas metodes;
 7) elektroniskie līdzekļi - līdzekļi, kas piemēroti elektronisko sakaru tīklā saņemto vai nosūtīto datu apstrādei (arī digitālajai saspiešanai) un uzglabāšanai, kā arī datu pārraidei elektronisko sakaru tīklos;
 8) iepirkuma identifikācijas numurs - apzīmējums, kurā iekļauts pasūtītāja nosaukuma saīsinājums (pirmie lielie burti), attiecīgais gads un iepirkuma kārtas numurs pieaugošā secībā. Iepirkuma identifikācijas numura beigu daļā pasūtītājs var norādīt arī citu informāciju;
