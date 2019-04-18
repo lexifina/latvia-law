@@ -1,0 +1,3 @@
+7.¹ pants. Elektroniskie rēķini
+(1) Pasūtītājs pieņem elektronisko rēķinu, kas atbilst normatīvajiem aktiem par piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību un, ja tas paredzēts iepirkuma līgumā, ietver papildu pamatelementus atbilstoši minētajiem normatīvajiem aktiem. Ministru kabinets nosaka piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību.
+(2) Pasūtītājs ir tiesīgs nepiemērot šā panta pirmo daļu un 54. panta 1.¹ daļu, ja iepirkuma procedūrā noslēgtā iepirkuma līguma izpilde ir atzīta par slepenu vai uz to attiecas īpaši drošības pasākumi saskaņā ar normatīvajiem aktiem.

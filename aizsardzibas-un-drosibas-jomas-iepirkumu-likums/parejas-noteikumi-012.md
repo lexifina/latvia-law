@@ -1,0 +1,1 @@
+12. Šā likuma 7.¹ pantu un 54. panta 1.¹ daļu tiešās pārvaldes iestādes piemēro to iepirkuma līgumu apmaksai, kuriem iepirkuma procedūra izsludināta, sākot ar 2019. gada 18. aprīli, pārējie pasūtītāji - sākot ar 2020. gada 18. aprīli.
