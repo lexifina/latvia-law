@@ -1,0 +1,2 @@
+122. pants. Elektroniskie rēķini
+Publiskais partneris vai tā pārstāvis pieņem elektronisko rēķinu, kas atbilst normatīvajiem aktiem par piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību un, ja tas paredzēts publiskās un privātās partnerības līgumā, ietver papildu pamatelementus atbilstoši minētajiem normatīvajiem aktiem. Ministru kabinets nosaka piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību.

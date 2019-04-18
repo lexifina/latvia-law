@@ -1,0 +1,1 @@
+32. Šā likuma 62. panta 27.¹ punktu un 122. pantu tiešās pārvaldes iestādes piemēro to publiskās un privātās partnerības līgumu apmaksai, kuriem publiskā un privātā partnerība uzsākta ar 2019. gada 18. aprīli, pārējie pasūtītāji - ar 2020. gada 18. aprīli.
