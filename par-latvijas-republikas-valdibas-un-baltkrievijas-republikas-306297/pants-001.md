@@ -1,0 +1,1 @@
+1. pants. 2018. gada 2. oktobrī parakstītais Latvijas Republikas valdības un Baltkrievijas Republikas valdības nolīgums par starptautisko dzelzceļa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
