@@ -1,10 +1,10 @@
 66. pants. Iepirkuma līguma vai vispārīgās vienošanās grozīšana
 (1) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja tie nemaina līguma vai vispārīgās vienošanās vispārējo raksturu (veidu un iepirkuma procedūras dokumentos noteikto mērķi) un atbilst vienam no šādiem nosacījumiem:
 1) grozījumi ir nebūtiski;
-2) grozījumi ir būtiski un tiek izdarīti tikai šā panta otrajā daļā minētajos gadījumos;
-3) grozījumi tiek izdarīti šā panta ceturtajā daļā minētajā gadījumā neatkarīgi no tā, vai tie ir būtiski vai nebūtiski.
+2) grozījumi ir būtiski un tiek izdarīti tikai šā panta trešajā daļā minētajos gadījumos;
+3) grozījumi tiek izdarīti šā panta piektajā daļā minētajā gadījumā neatkarīgi no tā, vai tie ir būtiski vai nebūtiski.
 (2) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir būtiski jebkurā no šādiem gadījumiem:
-1) grozītie iepirkuma līguma vai vispārīgās vienošanās noteikumi, ja tie būtu bijuši paredzēti iepirkuma procedūras dokumentos, pieļautu atšķirīgu piedāvājumu iesniegšanu vai citu kandidātu un pretendentu dalību vai izvēli iepirkuma procedūrā;
+1) grozītie iepirkuma līguma vai vispārīgās vienošanās noteikumi, ja tie būtu bijuši paredzēti iepirkuma procedūras dokumentos, pieļautu atšķirīgu piedāvājumu iesniegšanu vai citu kandidātu vai pretendentu dalību vai izvēli iepirkuma procedūrā;
 2) ekonomiskais līdzsvars (piemēram, risku sadalījums un tos kompensējošie līdzekļi), ko paredz iepirkuma līgums vai vispārīgā vienošanās, tiek mainīts iepirkuma procedūrā izraudzītā pretendenta interesēs;
 3) iepirkuma līguma priekšmetā ietver būvdarbus, piegādes vai pakalpojumus, ko neparedz sākotnēji noslēgtais iepirkuma līgums vai vispārīgā vienošanās;
 4) iepirkuma procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu piegādātāju.
@@ -13,8 +13,8 @@
 2) sabiedrisko pakalpojumu sniedzējam ir nepieciešami papildu būvdarbi, piegādes vai pakalpojumi, kas nebija iekļauti sākotnējā iepirkumā, un piegādātāja maiņa radītu būtisku izmaksu pieaugumu, un to nevar veikt tādu ekonomisku vai tehnisku iemeslu dēļ kā aizvietojamība vai savietojamība ar jau sākotnējā iepirkumā iegādāto aprīkojumu, pakalpojumiem vai iekārtām vai arī piegādātāja maiņa radītu ievērojamas grūtības;
 3) iepirkuma līguma grozījumi ir nepieciešami tādu iemeslu dēļ, kurus sabiedrisko pakalpojumu sniedzējs nevarēja paredzēt;
 4) iepirkuma procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu piegādātāju atbilstoši komerctiesību jomas normatīvajiem aktiem par komersantu reorganizāciju un uzņēmuma pāreju, un šis piegādātājs atbilst paziņojumā par līgumu vai iepirkuma procedūras dokumentos noteiktajām kvalifikācijas prasībām, un uz to neattiecas šā likuma 48. panta pirmajā daļā minētie izslēgšanas noteikumi, kā arī tie šā likuma 48. panta otrajā daļā minētie izslēgšanas noteikumi, kurus sabiedrisko pakalpojumu sniedzējs sākotnēji iekļāvis paziņojumā par līgumu vai iepirkuma procedūras dokumentos.
-(4) Līgumcenas pieaugums šā panta trešās daļas 2. un 3. punktā minēto grozījumu gadījumā nedrīkst pārsniegt 50 procentus no sākotnējās iepirkuma līguma līgumcenas. Minēto ierobežojumu piemēro katram grozījumam, ja tiek izdarīti vairāki secīgi grozījumi. Secīgu grozījumu izdarīšanu nedrīkst izmantot, lai izvairītos no šajā likumā noteikto iepirkuma procedūru piemērošanas.
-(5) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja līguma vai vispārīgās vienošanās grozījumu vērtība, ko nosaka kā visu secīgi izdarīto grozījumu naudas vērtību summu (neņemot vērā to grozījumu vērtību, kuri izdarīti saskaņā ar šā panta otrās daļas 1., 2. un 3. punktu), vienlaikus ir mazāka par:
+(4) Līgumcenas pieaugums, ko nosaka kā visu secīgi izdarīto grozījumu naudas vērtību summu, nevar pārsniegt 50 procentus no sākotnējās iepirkuma līguma līgumcenas attiecībā uz katru gadījumu, kas minēts šā panta trešās daļas 2. un 3. punktā.
+(5) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja līguma vai vispārīgās vienošanās grozījumu vērtība, ko nosaka kā visu secīgi izdarīto grozījumu naudas vērtību summu (neņemot vērā to grozījumu vērtību, kuri izdarīti saskaņā ar šā panta trešās daļas 1., 2. un 3. punktu), vienlaikus ir mazāka par:
 1) Ministru kabineta noteiktajām līgumcenu robežvērtībām;
 2) 10 procentiem no sākotnējās līguma vai vispārīgās vienošanās līgumcenas piegādes līguma un pakalpojuma līguma gadījumā un 15 procentiem no sākotnējās iepirkuma līguma vai vispārīgās vienošanās līgumcenas būvdarbu līguma gadījumā.
 (6) Ja iepirkuma līgumā ir paredzēta līgumcenas indeksācija, šā panta ceturtajā un piektajā daļā minētā sākotnējā iepirkuma līguma līgumcena ir līgumcena, kas indeksēta.

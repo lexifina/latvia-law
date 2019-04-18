@@ -1,2 +1,2 @@
-18. pants. Nosacījumi attiecībā uz Pasaules Tirdzniecības organizācijas Nolīgumu par valsts iepirkumu
+18. pants. Nosacījumi attiecībā uz Pasaules Tirdzniecības organizācijas Nolīgumu par valsts iepirkumu un citiem starptautiskajiem līgumiem
 Sabiedrisko pakalpojumu sniedzējs, ciktāl tas ir noteikts Pasaules Tirdzniecības organizācijas Nolīgumā par valsts iepirkumu un citos starptautiskajos līgumos, kas ir saistoši Eiropas Savienībai, piemēro vismaz tikpat labvēlīgus nosacījumus minēto līgumslēdzēju būvdarbiem, piegādēm, pakalpojumiem un piegādātājiem kā Eiropas Savienības būvdarbiem, piegādēm, pakalpojumiem un piegādātājiem.

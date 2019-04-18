@@ -1,0 +1,1 @@
+9. Šā likuma 65. panta otrās daļas 8.¹ punktu un 89. pantu piemēro to iepirkuma līgumu apmaksai, kuriem iepirkums vai iepirkuma procedūra izsludināta vai lēmums par iepirkuma vai iepirkuma procedūras uzsākšanu, ja iepirkums vai iepirkuma procedūra nav jāizsludina, pieņemts, sākot ar 2020. gada 18. aprīli.

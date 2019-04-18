@@ -1,0 +1,2 @@
+89. pants. Elektroniskie rēķini
+Sabiedrisko pakalpojumu sniedzējs pieņem elektronisko rēķinu, kas atbilst normatīvajiem aktiem par piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību un, ja tas paredzēts iepirkuma līgumā, ietver papildu pamatelementus atbilstoši minētajiem normatīvajiem aktiem. Ministru kabinets nosaka piemērojamo elektroniskā rēķina standartu un tā pamatelementu izmantošanas specifikāciju un aprites kārtību.
