@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Sabiedrisko pakalpojumu sniedzēju iepirkumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "45 (6384)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-03-05",
+  "entry_into_force": "2019-04-18",
+  "notification_date": "2019-03-14",
+  "commission_reference": "MNE(2019)51565",
+  "nim_celex": "72014L0055LVA_270634",
+  "nim_id": "270634",
+  "transposes_celex": [
+    "32014L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4413d028-a885-47df-9a6b-fba620e47d7e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
