@@ -4,7 +4,8 @@
 2) uzrauga Reklāmas likuma ievērošanu savas kompetences ietvaros;
 3) izskata iesniegtos ziņojumus par tirgus dalībnieku vienošanos un pieņem lēmumus par tiem;
 4) ierobežo tirgus koncentrāciju, pieņemot lēmumus sakarā ar tirgus dalībnieku apvienošanos;
-5) atbilstoši savai kompetencei sadarbojas ar attiecīgām ārvalstu institūcijām.
+5) atbilstoši savai kompetencei sadarbojas ar attiecīgām ārvalstu institūcijām;
+6) (punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 16. punktu)
 (2) Konkurences padome informē sabiedrību par Konkurences padomes uzdevumu izpildi un citiem konkurences aizsardzības, saglabāšanas un attīstības jautājumiem. Lēmumus, kas pieņemti saskaņā ar šā likuma 8.panta pirmās daļas 3., 5. un 6.punktu, Konkurences padome publicē savā mājaslapā internetā un oficiālajā izdevumā "Latvijas Vēstnesis".
 (3) Konkurences padome kā Ekonomikas ministrijas padotībā esoša iestāde:
 1) atbilstoši savai kompetencei izstrādā un noteiktā kārtībā iesniedz Ekonomikas ministrijai tiesību aktu projektus;
