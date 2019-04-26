@@ -3,7 +3,7 @@
 1) bērns faktiski neatrodas iesniedzēja aprūpē, izņemot gadījumu, kad iesniegumu ir iesniegusi pilngadīga persona par uzturlīdzekļu izmaksu savam uzturam;
 2) pilngadīga persona neturpina iegūt izglītību Latvijas Republikā;
 3) iesniedzējam vai bērnam nav deklarētas dzīvesvietas Latvijas Republikā;
-4) parādnieks maksā iesniedzējam uzturlīdzekļus bērna uzturam tādā apmērā, kādu, pamatojoties uz Civillikuma 179. panta piekto daļu, noteicis Ministru kabinets;
+4) iesniedzējs ir saņēmis uzturlīdzekļus, tostarp ja uzturlīdzekļu maksājumi veikti ar trešās personas starpniecību (izņemot zvērinātu tiesu izpildītāju), iesniegumā norādot saņemto uzturlīdzekļu apmēru un datumu, kad uzturlīdzekļi saņemti;
 5) uzturlīdzekļu izmaksa no Fonda veikta šā likuma 11. pantā noteiktajā kārtībā un parādnieks īsteno bērna aprūpi Civillikuma 177. panta ceturtās daļas un 178. panta otrās daļas izpratnē;
 6) bērns stājies laulībā;
 7) uzturlīdzekļu izmaksa no Fonda veikta šā likuma 11. pantā noteiktajā kārtībā un spēkā stājies tiesas nolēmums par uzturlīdzekļu piedziņu vai noslēgta vienošanās par uzturlīdzekļiem;

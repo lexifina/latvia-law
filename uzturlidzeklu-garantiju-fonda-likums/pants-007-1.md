@@ -1,0 +1,11 @@
+7.¹ pants. Parādnieka šaujamieroča atļaujas darbības apturēšana
+(1) Medību, sporta, kolekcijas un pašaizsardzības šaujamieroča iegādāšanās, realizēšanas, glabāšanas un nēsāšanas atļaujas darbības apturēšana (turpmāk - šaujamieroča atļaujas darbības apturēšana) parādniekam tiek piemērota, lai aizsargātu bērna tiesības un veicinātu vecāku pienākuma pildīšanu - uzturlīdzekļu maksāšanu.
+(2) Fonda administrācija var lemt par šaujamieroča atļaujas darbības apturēšanu, ja:
+1) parādnieka vietā uzturlīdzekļi tiek izmaksāti no Fonda saskaņā ar šā likuma 11. pantu un parādnieks nav noslēdzis ar Fonda administrāciju vienošanos par kārtību, kādā viņš veic uzturlīdzekļu un likumisko procentu maksājumus;
+2) parādnieks ir noslēdzis ar Fonda administrāciju vienošanos par kārtību, kādā viņš veic uzturlīdzekļu un likumisko procentu maksājumus, bet noslēgto vienošanos nepilda;
+3) parādnieka vietā uzturlīdzekļi tiek izmaksāti no Fonda saskaņā ar šā likuma 12. pantu un no zvērināta tiesu izpildītāja nav saņemti trīs parādnieka maksājumi pēc kārtas parāda segšanai.
+(3) Fonda administrācija pirms lēmuma pieņemšanas nosūta parādniekam lūgumu sniegt paskaidrojumu, kurā norādāmi apstākļi, kuru dēļ šaujamieroča atļaujas darbības apturēšana varētu radīt būtisku kaitējumu parādnieka interesēm. Parādnieks paskaidrojumam pievieno pierādījumus, kas apliecina tajā minēto. Paskaidrojums sniedzams 20 dienu laikā no Fonda administrācijas lūguma saņemšanas dienas, un tā nesniegšana noteiktajā termiņā nav šķērslis lēmuma pieņemšanai.
+(4) Fonda administrācija pēc parādnieka lūguma saņemšanas vai pēc savas iniciatīvas var lemt par šaujamieroča atļaujas darbības atjaunošanu šādos gadījumos:
+1) parādnieks ir noslēdzis ar Fonda administrāciju vienošanos par parāda maksāšanas grafiku un veicis trīs maksājumus pēc kārtas, ja uzturlīdzekļu izmaksa no Fonda tiek veikta šā likuma 11. pantā noteiktajā kārtībā;
+2) no zvērināta tiesu izpildītāja saņemti trīs parādnieka maksājumi pēc kārtas parāda segšanai, ja uzturlīdzekļu izmaksa no Fonda tiek veikta šā likuma 12. pantā noteiktajā kārtībā.
+(5) Fonda administrācija lēmumu par šaujamieroča atļaujas darbības apturēšanu vai atjaunošanu nosūta parādniekam un Valsts policijai izpildei.

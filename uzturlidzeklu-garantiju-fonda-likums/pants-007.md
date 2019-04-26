@@ -2,7 +2,7 @@
 (1) Transportlīdzekļu un to vadītāju valsts reģistrā reģistrēto parādnieka transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegums (turpmāk - transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegums) tiek piemērots, lai aizsargātu bērna tiesības un veicinātu vecāku pienākuma pildīšanu - uzturlīdzekļu maksāšanu.
 (2) Fonda administrācija var lemt par transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegumu, ja:
 1) parādnieka vietā uzturlīdzekļi tiek izmaksāti no Fonda saskaņā ar šā likuma 11. pantu un parādnieks nav noslēdzis ar Fonda administrāciju vienošanos par kārtību, kādā viņš veic uzturlīdzekļu un likumisko procentu maksājumus;
-2) parādnieks ir noslēdzis ar Fonda administrāciju vienošanos par kārtību, kādā viņš veic uzturlīdzekļu un likumisko procentu maksājumus, bet noslēgto vienošanos nav pildījis trīs mēnešus pēc kārtas;
+2) parādnieks ir noslēdzis ar Fonda administrāciju vienošanos par kārtību, kādā viņš veic uzturlīdzekļu un likumisko procentu maksājumus, bet noslēgto vienošanos nepilda;
 3) parādnieka vietā uzturlīdzekļi tiek izmaksāti no Fonda saskaņā ar šā likuma 12. pantu un parādnieks nav veicis trīs uzturlīdzekļu maksājumus pēc kārtas.
 (3) Fonda administrācija, ņemot vērā šā panta otrajā, ceturtajā un piektajā daļā noteiktos kritērijus, parādniekam var piemērot visu vai tikai konkrētas kategorijas transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegumu.
 (4) Fonda administrācija nepiemēro transportlīdzekļu un kuģošanas līdzekļu vadīšanas tiesību izmantošanas aizliegumu, ja:
