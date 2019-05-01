@@ -22,6 +22,7 @@
 14) Valsts sociālās apdrošināšanas aģentūra - lietās par finanšu līdzekļu atgūšanu valsts budžetā daļā par sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu pārmaksu un sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu izmaksu sakarā ar ceļu satiksmes negadījumiem;
 15) pieteikuma iesniedzēji - par pagaidu aizsardzību pret vardarbību;
 16) puse, kas lietā saņem valsts nodrošināto juridisko palīdzību;
+16¹) puse, kas atzīta par trauksmes cēlēju vai ir viņa radinieks Trauksmes celšanas likuma izpratnē;
 17) pieteikuma iesniedzēji - par adopcijas apstiprināšanu.
 (2) Ja prokurors, tās valsts vai pašvaldību iestādes, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses, atsakās no pieteikuma, kas iesniegts citas personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, tiesas izdevumi jāmaksā saskaņā ar vispārīgiem noteikumiem.
 (3) Puses atbrīvojamas no tiesas izdevumu samaksas valsts ienākumos arī citos likumā paredzētajos gadījumos.
