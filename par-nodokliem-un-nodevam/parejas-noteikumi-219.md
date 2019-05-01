@@ -1,0 +1,1 @@
+219. Nekustamo īpašumu atsavināšanas darījumiem, kuri noslēgti pirms 2019. gada 1. maija un kuru darbība turpinās pēc šā datuma, un kuru pilnīga vai daļēja izpilde paredzēta skaidras naudas norēķinu veidā, šā likuma 30. panta 1.⁶ daļā minētie nosacījumi piemērojami ar 2020. gada 1. janvāri.

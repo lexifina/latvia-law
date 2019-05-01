@@ -7,6 +7,7 @@
 (1⁵) Šā panta 1.⁴ daļā noteiktais ierobežojums nav attiecināms uz gadījumiem, kad vairumtirgotājs (preču pārdevējs) ir:
 1) paziņojis rakstveidā Valsts ieņēmumu dienestam par to, ka vairumtirdzniecībā veiks darījumus, par kuriem pircējs varēs norēķināties skaidrā naudā;
 2) nodrošinājis preču pircēju reģistru, kas ļauj identificēt konkrēto preču pircējus, kuri veikuši norēķinus skaidrā naudā, un skaidrā naudā veiktā darījuma summu.
+(1⁶) Nodokļu maksātājiem, tajā skaitā fiziskajām personām, kuras neveic saimniecisko darbību, nav atļauts veikt skaidrā naudā nekustamo īpašumu atsavināšanas darījumus.
 (2) Šā panta pirmajā daļā minētais skaidras naudas lietošanas ierobežojums neattiecas vienīgi uz kuģu aģentēšanas un gaisakuģu aģentēšanas komercsabiedrībām, kā arī starptautisko autopārvadājumu un kravas ekspedīcijas komercsabiedrību veiktajiem starptautiskajiem autopārvadājumiem un kravas ekspedīcijas darījumiem. Minētās komercsabiedrības Ministru kabineta noteiktajā kārtībā šā panta pirmajā daļā noteiktajā termiņā deklarē mēneša laikā veiktos darījumus, kuru kopsumma pārsniedz 7200 euro.
 (3) Šā panta normas neattiecas uz:
 1) kredītiestāžu pakalpojumiem;
