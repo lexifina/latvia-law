@@ -1,0 +1,1 @@
+18. Ministru kabinets izvērtē šā likuma 68. panta trešajā un ceturtajā daļā noteiktā regulējuma piemērošanu praksē un tā ietekmi uz darbinieku tiesisko stāvokli un līdz 2021. gada 1. februārim iesniedz par to Saeimai ziņojumu.
