@@ -6,7 +6,7 @@
 3) atbilstoši savai kompetencei izstrādā un iesniedz Finanšu ministrijai priekšlikumus jautājumos, kas saistīti ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
 4) atbilstoši savai kompetencei izdod apdrošinātājiem saistošus norādījumus par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
 5) attīsta sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas darbībai nepieciešamo informācijas sistēmu, nodrošina tās iekļaušanu integrētajā valsts informācijas sistēmā un datu operatīvu pieejamību Ministru kabineta noteikumos paredzētajā apjomā;
-6) nodrošina šā likuma 50. un 50.¹ pantā minētās informācijas sniegšanu;
+6) nodrošina šā likuma 50. pantā minētās informācijas sniegšanu;
 7) izstrādā un apstiprina transportlīdzekļu tehnisko ekspertīžu veikšanas metodiku, kas saistīta ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
 8) ceļ tiesā regresa prasības šajā likumā noteiktajos gadījumos;
 9) organizē starptautisko sadarbību sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā un slēdz attiecīgus līgumus;
@@ -29,4 +29,4 @@ b) nav iespējams noskaidrot transportlīdzekli pēc Eiropas Ekonomikas zonas va
 a) tiešsaistes režīmā no sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas informācijas sistēmas saskaņā ar šā likuma 58. un 59.pantu,
 b) iesniedzot pieprasījumus Valsts policijā, kā arī citās valsts pārvaldes institūcijās, pašvaldībās, prokuratūrā, tiesā un apdrošināšanas sabiedrībās, neizmantojot šā punkta "a" apakšpunktā minēto informācijas sistēmu, ja tajā nav pieejami apdrošināšanas gadījuma administrēšanai nepieciešamie dati;
 2) pārstāvēt ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa tiesīgo lietotāju vai īpašnieku, ja Transportlīdzekļu apdrošinātāju birojam iesniegts iesniegums par apdrošināšanas atlīdzību un apdrošināšanas atlīdzība izmaksājama no Garantijas fonda.
-(4) Transportlīdzekļu apdrošinātāju birojs nedrīkst sniegt apdrošināšanas pakalpojumus un nodarboties ar apdrošināšanas starpniecību.
+(4) Transportlīdzekļu apdrošinātāju birojs nedrīkst sniegt apdrošināšanas pakalpojumus un nodarboties ar apdrošināšanas izplatīšanu.

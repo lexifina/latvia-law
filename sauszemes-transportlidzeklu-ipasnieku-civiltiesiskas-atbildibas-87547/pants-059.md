@@ -5,5 +5,5 @@
 1) pieteikto apdrošināšanas gadījumu;
 2) pieņemto lēmumu par apdrošināšanas atlīdzību.
 (4) Šajā pantā minēto datu apjomu un sniegšanas kārtību nosaka Ministru kabinets.
-(5) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs, iegūstot un apstrādājot fizisko personu datus, ievēro Fizisko personu datu aizsardzības likuma prasības.
+(5) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs, iegūstot un apstrādājot fizisko personu datus, ievēro Fizisko personu datu apstrādes likuma prasības.
 (6) Pēc datu nodošanas informācijas sistēmai labojumus tajos ir tiesīgs izdarīt tikai tas apdrošinātājs, kas tos nodevis, vai Transportlīdzekļu apdrošinātāju birojs.

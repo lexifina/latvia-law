@@ -2,11 +2,11 @@
 (1) Tiesības uz apdrošināšanas atlīdzību sakarā ar apgādnieka nāvi ir:
 1) bērniem, arī adoptētajiem:
 a) līdz pilngadības sasniegšanai,
-b) kamēr viņi mācās vidējās izglītības mācību iestādē vai ir augstākās izglītības iestādes pilna laika studenti, bet ne ilgāk kā līdz 24 gadu vecumam vai neatkarīgi no vecuma, ja viņi pirms pilngadības sasniegšanas kļuvuši par invalīdiem;
+b) kamēr viņi mācās vispārējās, profesionālās vai augstākās izglītības iestādēs pilna laika klātienē, bet ne ilgāk kā līdz 24 gadu vecumam vai neatkarīgi no vecuma, ja pirms pilngadības sasniegšanas viņi kļuvuši par personām, kurām noteikta invaliditāte;
 2) brāļiem, māsām un mazbērniem:
 a) ja viņi ir jaunāki par 18 gadiem un viņiem nav citu darbspējīgu apgādnieku,
-b) kamēr viņi mācās vidējās izglītības mācību iestādē vai ir augstākās izglītības iestādes pilna laika studenti, bet ne ilgāk kā līdz 24 gadu vecumam, ja viņiem nav darbspējīgu vecāku, vai neatkarīgi no vecuma, ja viņiem nav darbspējīgu vecāku un viņi pirms pilngadības sasniegšanas kļuvuši par invalīdiem;
-3) darbnespējīgai atraitnei (atraitnim), darbnespējīgiem vecākiem vai vecvecākiem - līdz viņu darbspēju atjaunošanai, kā arī darbspējīgai atraitnei (atraitnim), ja ģimenē ir bērni vecumā līdz astoņiem gadiem vai bērns invalīds;
+b) kamēr viņi mācās vispārējās, profesionālās vai augstākās izglītības iestādēs pilna laika klātienē, bet ne ilgāk kā līdz 24 gadu vecumam, ja viņiem nav darbspējīgu vecāku, vai neatkarīgi no vecuma, ja viņiem nav darbspējīgu vecāku un pirms pilngadības sasniegšanas viņi kļuvuši par personām, kurām noteikta invaliditāte;
+3) darbnespējīgai atraitnei (atraitnim), darbnespējīgiem vecākiem vai vecvecākiem - līdz viņu darbspēju atjaunošanai, kā arī darbspējīgai atraitnei (atraitnim), ja ģimenē ir bērni vecumā līdz astoņiem gadiem vai bērns, kuram noteikta invaliditāte;
 4) citiem apgādībā bijušajiem ģimenes locekļiem, kuri par tādiem uzskatāmi saskaņā ar likumu "Par valsts pensijām".
 (2) Šā panta pirmajā daļā minētajiem apgādājamiem nodarītie zaudējumi sakarā ar cietušās personas nāvi ir bojā gājušās personas nesaņemto ienākumu daļa, kura katram apgādājamam pienācās, cietušajam dzīvam esot, un no kuras atskaita apgādājamam piešķirtās apgādnieka zaudējuma pensijas apmēru.
 (3) Katrai šā panta pirmās daļas 1. un 2.punktā minētajai personai izmaksājamā apdrošināšanas atlīdzība kopā ar izmaksāto valsts pensiju vai valsts sociālā nodrošinājuma pabalstu nedrīkst būt mazāka par normatīvajos aktos noteikto minimālo uzturlīdzekļu apmēru, kuru bērnam nodrošināt ir pienākums katram no vecākiem.

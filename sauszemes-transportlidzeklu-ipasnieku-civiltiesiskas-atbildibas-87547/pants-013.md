@@ -1,3 +1,3 @@
 13.pants. Apdrošināšanas prēmijas apmēra noteikšana
 (1) Noslēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas apmērs transportlīdzekļa īpašniekam tiek noteikts, izvērtējot iepriekšējo apdrošināšanas līgumu darbības laikā izmaksāto apdrošināšanas atlīdzību skaitu, normatīvajos aktos noteiktajā kārtībā konstatēto gadījumu skaitu, kad transportlīdzeklis vadīts, izdarot administratīvus pārkāpumus, par kuriem reģistrē pārkāpumu uzskaites punktus, un noziedzīgus nodarījumus pret satiksmes drošību, kā arī izvērtējot citus risku ietekmējošus faktorus.
-(2) Slēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas apmēra noteikšanai līzinga ņēmējs tiek pielīdzināts transportlīdzekļa īpašniekam.
+(2) Slēdzot apdrošināšanas līgumu, apdrošināšanas prēmijas apmēra noteikšanai transportlīdzekļa līzinga gadījumā transportlīdzekļa reģistrācijas apliecībā norādītais transportlīdzekļa turētājs tiek pielīdzināts transportlīdzekļa īpašniekam.
