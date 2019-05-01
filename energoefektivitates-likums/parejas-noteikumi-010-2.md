@@ -1,0 +1,1 @@
+10.² Lielais elektroenerģijas patērētājs, kurš nav ievērojis šā likuma pārejas noteikumu 10. punktā minēto termiņu un neizpilda šā likuma 12. panta otrajā, trešajā vai piektajā daļā minētos pienākumus līdz 2019. gada 15. maijam, aprēķināto un tam piemēroto energoefektivitātes nodevu samaksā līdz 2019. gada 15. jūnijam.
