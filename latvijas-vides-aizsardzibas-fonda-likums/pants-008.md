@@ -8,4 +8,4 @@
 3) veikt Fonda padomes sekretariāta funkcijas;
 4) nodrošināt Fonda līdzekļu izlietošanas pilnīgu atklātumu - publicēt informāciju par projekta finansējuma apjomu un mērķfinansējuma avotu, nodrošināt publiski pieejamu informāciju par Fondam iesniegtajiem un Fonda finansētajiem projektiem, sagatavot un publicēt Fonda darbības gada publisko pārskatu;
 5) pildīt Fonda padomes un tās priekšsēdētāja norādījumus Fonda padomes nolikumā noteiktajā kārtībā.
-(3) Fonda administrācijas nolikumu apstiprina Ministru kabinets.
+(3) (Izslēgta ar 03.04.2019. likumu)
