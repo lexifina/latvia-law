@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 30. aprīļa noteikumi Nr. 182 \"Šaujamieroču, to būtisko sastāvdaļu un munīcijas, lielas enerģijas pneimatisko ieroču, gāzes ieroču un signālieroču marķēšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-02",
+  "entry_into_force": "2019-05-03",
+  "notification_date": "2025-07-14",
+  "commission_reference": "MNE(2025)04106",
+  "nim_celex": "72024L0325LVA_202504106",
+  "nim_id": "202504106",
+  "transposes_celex": [
+    "32024L0325"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fce01283-3e19-436c-bcb4-e76cb96bbc17",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
