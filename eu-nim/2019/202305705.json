@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 30.aprīļa noteikumi Nr.185 \"Transportlīdzekļu un to vadītāju valsts reģistra noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2019/87.5",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-02",
+  "entry_into_force": "2019-05-03",
+  "notification_date": "2023-11-03",
+  "commission_reference": "MNE(2023)05705",
+  "nim_celex": "72014L0045LVA_202305705",
+  "nim_id": "202305705",
+  "transposes_celex": [
+    "32014L0045"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/53346186-2d61-472e-85a9-c457ee744a05",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
