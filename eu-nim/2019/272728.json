@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 7. maija noteikumi Nr. 188 \"Licences izsniegšanas kārtība komercdarbībai ar ieročiem, munīciju un speciālajiem līdzekļiem un valsts nodevas maksāšanas kārtība un apmērs\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91 (6430)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-09",
+  "entry_into_force": "2019-05-10",
+  "notification_date": "2019-05-09",
+  "commission_reference": "MNE(2019)52927",
+  "nim_celex": "72017L0853LVA_272728",
+  "nim_id": "272728",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d2b1c00-876a-4608-81b7-f4c36282654a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
