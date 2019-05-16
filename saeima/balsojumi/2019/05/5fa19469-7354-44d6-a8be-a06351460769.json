@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada pavasara sesija",
+ "sede": 7,
+ "datums": "2019-05-16",
+ "ieraksts": {
+  "dkp_id": "e67c106b-c5ca-493f-a904-f5ae022d7089",
+  "lastmodtime": "\"AAAAAAGvgJw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Ilmārs#Jūlija#Linda#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ināra#Ritvars#Mārtiņš#Raimonds#Gundars#Krišjānis#Jānis#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Dūrītis#Stepaņenko#Ozola#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Mūrniece#Jansons#Staķis#Bergmanis#Daudze#Feldmans#Tutins#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "JK#JV#AP!#NA#NA#AP!#AP!#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA #JK#JK#SASKAŅA #JV#AP!#JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV#NA#JV#KPV LV#AP!# #JK#KPV LV#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #NA#NA#AP!#ZZS#ZZS#JK#SASKAŅA #SASKAŅA #ZZS#ZZS#NA#SASKAŅA #KPV LV#NA# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Pret#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Nebalsoja#Pret#Pret#Par#Pret#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "16.05.2019 09:10:51",
+  "VOTEMOTIVE": "Par nodošanu papildus komisijai . Grozījumi Civilprocesa likumā (313/Lp13), nodošana komisijām",
+  "VOTING_ID": "5fa19469-7354-44d6-a8be-a06351460769",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "25",
+  "VOTERESULT_FOR": "51",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada pavasara sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/6f16a83b-01bf-40ed-bec5-a40401b68001/download/13.saeimas-2019.gada-pavasara-sesija-7-vote.xml",
+  "sha256": "db2a9c4ba61941187e059ba0d454ffb9b02b842834bacb88807172287b3d574a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
