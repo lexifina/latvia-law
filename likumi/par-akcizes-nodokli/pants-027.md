@@ -9,10 +9,11 @@ a) alkoholiskos dzērienus, kuri iepildīti iepakojumā ar tilpumu līdz 100 mil
 b) alu,
 c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos,
 d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot);
-1¹) tabakas izstrādājumus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos;
+1¹) tabakas izstrādājumus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos, ja tabakas izstrādājumu iepakojuma vienība satur tādu drošības elementu, kas nav akcīzes nodokļa marka, bet ir noteikts saskaņā ar normatīvajiem aktiem par drošības elementiem;
 1²) tabakas lapas;
 1³) karsējamo tabaku;
-2) alkoholiskos dzērienus un tabakas izstrādājumus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 16., 17., 20. un 21.pantu vai kuriem piemēro nodokli saskaņā ar šā likuma 16.panta ceturto daļu;
+2) alkoholiskos dzērienus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 16., 20. un 21. pantu vai kuriem piemēro nodokli saskaņā ar šā likuma 16. panta ceturto daļu;
+2¹) tabakas izstrādājumus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 17. un 21. pantu. Attiecībā uz 20. pantu un 21. panta sesto daļu ievēro nosacījumu, ka tabakas izstrādājumu iepakojuma vienība satur tādu drošības elementu, kas nav akcīzes nodokļa marka, bet ir noteikts saskaņā ar normatīvajiem aktiem par drošības elementiem;
 3) alkoholiskos dzērienus un tabakas izstrādājumus, kurus uzglabā, pārvieto vai realizē vai piegādā, piemērojot atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.pantu;
 4) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona ieved personīgajā bagāžā un kuru daudzums pārsniedz šā likuma 21.panta ceturtajā daļā noteikto vai kurus fiziskā persona saskaņā ar šā likuma 26.pantu Latvijas Republikā no citas dalībvalsts ieved vai saņem personīgam patēriņam;
 5) alkoholiskos dzērienus un tabakas izstrādājumus, kurus fiziskā persona saņem personīgam patēriņam no ārvalsts, kas nav dalībvalsts.
