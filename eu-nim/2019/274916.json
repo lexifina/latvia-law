@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 21. maija Ministru kabineta rīkojums Nr. 232 \"Par Jūras plānojumu Latvijas Republikas iekšējiem jūras ūdeņiem, teritoriālajai jūrai un ekskluzīvās ekonomiskās zonas ūdeņiem līdz 2030. gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102 (6441)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-23",
+  "entry_into_force": "2019-05-21",
+  "notification_date": "2019-07-03",
+  "commission_reference": "MNE(2019)54191",
+  "nim_celex": "72014L0089LVA_274916",
+  "nim_id": "274916",
+  "transposes_celex": [
+    "32014L0089"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/48c9f0d9-50b0-43ad-af2f-50b3b65fe5ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
