@@ -1,4 +1,4 @@
-252.pants. (1) Ja apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle nolēmusi izbeigt darbību, tā pirms likvidācijas procesa uzsākšanas informē par to Komisiju, iesniedzot attiecīgu iesniegumu. Iesniegumam pievienojamo informāciju nosaka Komisija.
+252.pants. (1) Ja apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle nolēmusi izbeigt darbību, tā pirms likvidācijas procesa uzsākšanas informē par to Komisiju, iesniedzot attiecīgu iesniegumu. Iesniegumam pievienojamo informāciju nosaka Komisija.
 (2) Likvidācijas procesā Komisija turpina apdrošināšanas sabiedrības uzraudzību.
 (3) Komisija savā mājaslapā internetā nekavējoties publicē paziņojumu par apdrošināšanas sabiedrības likvidācijas uzsākšanu, kā arī nekavējoties nosūta paziņojumu Eiropas Savienības oficiālo publikāciju birojam publicēšanai izdevumā "Eiropas Savienības Oficiālais Vēstnesis".
 (4) Likvidators nodrošina, ka oficiālajā izdevumā "Latvijas Vēstnesis" nekavējoties tiek publicēts paziņojums par pieņemtajiem nolēmumiem attiecībā uz apdrošināšanas sabiedrības likvidāciju.

@@ -1,5 +1,5 @@
 199.pants. (1) Komisija, ja tā ir grupas uzraudzības iestāde, katrā atsevišķā gadījumā var lemt par komercsabiedrības neiekļaušanu šā likuma 197.pantā minētajā grupas uzraudzībā, ja ir konstatēts viens no šādiem nosacījumiem:
-1) komercsabiedrība ir reģistrēta nedalībvalstī, kurā ir juridiski šķēršļi vajadzīgās informācijas nodošanai. Šāda komercsabiedrība iekļaujama grupas maksātspējas aprēķinā Komisijas noteiktajā kārtībā;
+1) komercsabiedrība ir reģistrēta ārvalstī, kurā ir juridiski šķēršļi vajadzīgās informācijas nodošanai. Šāda komercsabiedrība iekļaujama grupas maksātspējas aprēķinā Komisijas noteiktajā kārtībā;
 2) komercsabiedrība, kura būtu iekļaujama, ir nenozīmīga attiecībā uz grupas uzraudzības mērķiem;
 3) komercsabiedrības iekļaušana būtu nepiemērota vai maldinoša attiecībā uz grupas uzraudzības mērķiem.
 (2) Ja vienas grupas dažas komercsabiedrības, vērtējot katru atsevišķi, var izslēgt no grupas uzraudzības piemērošanas jomas saskaņā ar šā panta pirmās daļas 2.punkta prasībām, tās tomēr iekļauj grupas uzraudzībā, ja, vērtējot kopā, tās ir nozīmīgas.

@@ -1,3 +1,3 @@
-7.pants. (1) Apdrošināšanas prēmijas lielumu nosaka apdrošinātājs. Apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle izstrādā un apstiprina apdrošinātā riska parakstīšanas un apdrošināšanas prēmijas noteikšanas politiku un procedūru un ir atbildīga par šīs kārtības ievērošanu.
+7.pants. (1) Apdrošināšanas prēmijas lielumu nosaka apdrošinātājs. Apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle izstrādā un apstiprina apdrošinātā riska parakstīšanas un apdrošināšanas prēmijas noteikšanas politiku un procedūru un ir atbildīga par šīs kārtības ievērošanu.
 (2) Apdrošināšanas prēmiju nosaka tādā apmērā, lai izpildītu apdrošināšanas līgumā paredzētās saistības un segtu apdrošināšanas veikšanai nepieciešamos izdevumus.
 (3) Apdrošināšanas sabiedrība pastāvīgi novērtē apdrošināšanas prēmijas un pārapdrošināšanas prēmijas atbilstību šā panta otrajā daļā noteiktajai prasībai.

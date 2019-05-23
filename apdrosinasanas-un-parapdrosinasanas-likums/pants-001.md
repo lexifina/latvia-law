@@ -7,28 +7,28 @@
 6) pārapdrošināšanas sabiedrība - Latvijas Republikā reģistrēta akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, vai Eiropas komercsabiedrība, kurai saskaņā ar šo likumu ir tiesības veikt pārapdrošināšanu;
 7) kaptīvās apdrošināšanas sabiedrība - apdrošināšanas sabiedrība, kura pieder finanšu komersantam, kas nav apdrošināšanas vai pārapdrošināšanas komersants, vai apdrošināšanas vai pārapdrošināšanas grupai, vai to nefinanšu komersantam un kuras mērķis ir apdrošināšanas nodrošināšana tikai tā komersanta vai to komersantu riskiem, kam tā pieder, vai tikai tās grupas komersantam vai komersantiem, kuras dalībniece ir kaptīvās apdrošināšanas sabiedrība;
 8) kaptīvās pārapdrošināšanas sabiedrība - pārapdrošināšanas sabiedrība, kura pieder finanšu komersantam, kas nav apdrošināšanas vai pārapdrošināšanas komersants, vai apdrošināšanas vai pārapdrošināšanas grupai, vai to nefinanšu komersantam un kuras mērķis ir pārapdrošināšanas nodrošināšana tikai tā komersanta vai to komersantu riskiem, kam tā pieder, vai tikai tās grupas komersantam vai komersantiem, kuras dalībniece ir kaptīvās pārapdrošināšanas sabiedrība;
-9) apdrošinātājs - apdrošināšanas sabiedrība vai Latvijas Republikā reģistrēta dalībvalsts vai nedalībvalsts apdrošinātāja filiāle, kurai saskaņā ar šo likumu ir tiesības veikt apdrošināšanu;
-10) pārapdrošinātājs - pārapdrošināšanas sabiedrība vai Latvijas Republikā reģistrēta dalībvalsts vai nedalībvalsts pārapdrošinātāja filiāle, kurai saskaņā ar šo likumu ir tiesības veikt pārapdrošināšanu;
+9) apdrošinātājs - apdrošināšanas sabiedrība vai Latvijas Republikā reģistrēta dalībvalsts vai ārvalsts apdrošinātāja filiāle, kurai saskaņā ar šo likumu ir tiesības veikt apdrošināšanu;
+10) pārapdrošinātājs - pārapdrošināšanas sabiedrība vai Latvijas Republikā reģistrēta dalībvalsts vai ārvalsts pārapdrošinātāja filiāle, kurai saskaņā ar šo likumu ir tiesības veikt pārapdrošināšanu;
 11) dalībvalsts apdrošinātājs - dalībvalstī, kas nav Latvijas Republika, reģistrēts apdrošināšanas komersants, kuram mītnes valstī ir tiesības veikt apdrošināšanu;
 12) dalībvalsts pārapdrošinātājs - dalībvalstī, kas nav Latvijas Republika, reģistrēts pārapdrošināšanas komersants, kuram mītnes valstī ir tiesības veikt pārapdrošināšanu;
-13) nedalībvalsts apdrošinātājs - ārpus dalībvalsts reģistrēta persona, kurai mītnes valstī ir tiesības veikt apdrošināšanu;
-14) nedalībvalsts pārapdrošinātājs - ārpus dalībvalsts reģistrēta persona, kurai mītnes valstī ir tiesības veikt pārapdrošināšanu;
+13) ārvalsts apdrošinātājs - ārpus dalībvalsts reģistrēta persona, kurai mītnes valstī ir tiesības veikt apdrošināšanu;
+14) ārvalsts pārapdrošinātājs - ārpus dalībvalsts reģistrēta persona, kurai mītnes valstī ir tiesības veikt pārapdrošināšanu;
 15) apdrošināšanas komersants - juridiskā persona, kura dalībvalstī ir tiesīga veikt apdrošināšanu;
 16) pārapdrošināšanas komersants - juridiskā persona, kura dalībvalstī ir tiesīga veikt pārapdrošināšanu;
 17) apdrošināšanas licence - atļauja apdrošināšanas darbības veikšanai;
 18) pārapdrošināšanas licence - atļauja pārapdrošināšanas darbības veikšanai;
 19) apdrošināšanas pārvaldītājsabiedrība - mātes sabiedrība, kura nav jaukta finanšu pārvaldītājsabiedrība un kuras pamatdarbība ir iegūt un īstenot līdzdalību meitas sabiedrībās, ja vismaz viena no šīm meitas sabiedrībām ir apdrošināšanas vai pārapdrošināšanas komersants, bet pārējās meitas sabiedrības ir:
-a) vienīgi apdrošināšanas vai pārapdrošināšanas komersanti vai nedalībvalstu apdrošinātāji vai pārapdrošinātāji, no kuriem vismaz viens ir apdrošināšanas vai pārapdrošināšanas komersants,
-b) galvenokārt (apdrošināšanas sabiedrību, pārapdrošināšanas sabiedrību, dalībvalsts vai nedalībvalsts apdrošinātāju un dalībvalsts vai nedalībvalsts pārapdrošinātāju aktīvu vai ienākumu kopsumma pēdējā apstiprinātajā gada pārskatā ir vairāk nekā puse no visu mātes sabiedrības kontrolēto meitas sabiedrību aktīvu vai ienākumu kopsummas) apdrošināšanas vai pārapdrošināšanas komersanti vai nedalībvalstu apdrošinātāji vai pārapdrošinātāji, no kuriem vismaz viens ir apdrošināšanas vai pārapdrošināšanas komersants;
-20) daudznozaru apdrošināšanas pārvaldītājsabiedrība - mātes sabiedrība, kura nav apdrošināšanas vai pārapdrošināšanas komersants, nedalībvalsts apdrošinātājs vai pārapdrošinātājs, apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet kurai vismaz viena no meitas sabiedrībām ir apdrošināšanas vai pārapdrošināšanas komersants;
+a) vienīgi apdrošināšanas vai pārapdrošināšanas komersanti vai ārvalstu apdrošinātāji vai pārapdrošinātāji, no kuriem vismaz viens ir apdrošināšanas vai pārapdrošināšanas komersants,
+b) galvenokārt (apdrošināšanas sabiedrību, pārapdrošināšanas sabiedrību, dalībvalsts vai ārvalsts apdrošinātāju un dalībvalsts vai ārvalsts pārapdrošinātāju aktīvu vai ienākumu kopsumma pēdējā apstiprinātajā gada pārskatā ir vairāk nekā puse no visu mātes sabiedrības kontrolēto meitas sabiedrību aktīvu vai ienākumu kopsummas) apdrošināšanas vai pārapdrošināšanas komersanti vai ārvalstu apdrošinātāji vai pārapdrošinātāji, no kuriem vismaz viens ir apdrošināšanas vai pārapdrošināšanas komersants;
+20) daudznozaru apdrošināšanas pārvaldītājsabiedrība - mātes sabiedrība, kura nav apdrošināšanas vai pārapdrošināšanas komersants, ārvalsts apdrošinātājs vai pārapdrošinātājs, apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, bet kurai vismaz viena no meitas sabiedrībām ir apdrošināšanas vai pārapdrošināšanas komersants;
 21) apdrošināšanas sabiedrības filiāle - ārpus Latvijas Republikas izveidota un reģistrēta apdrošināšanas sabiedrības filiāle, kura darbojas apdrošināšanas sabiedrības vārdā;
 22) pārapdrošināšanas sabiedrības filiāle - ārpus Latvijas Republikas izveidota un reģistrēta filiāle, kura darbojas pārapdrošināšanas sabiedrības vārdā;
 23) dalībvalsts apdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta dalībvalsts apdrošinātāja filiāle;
-24) nedalībvalsts apdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta nedalībvalsts apdrošinātāja filiāle;
+24) ārvalsts apdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta ārvalsts apdrošinātāja filiāle;
 25) dalībvalsts pārapdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta dalībvalsts pārapdrošinātāja filiāle;
-26) nedalībvalsts pārapdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta nedalībvalsts pārapdrošinātāja filiāle;
+26) ārvalsts pārapdrošinātāja filiāle - Latvijas Republikā izveidota un reģistrēta ārvalsts pārapdrošinātāja filiāle;
 27) mītnes valsts - valsts, kurā atrodas:
-a) apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja vadība (sabiedrības sēdeklis),
+a) apdrošināšanas komersanta vai ārvalsts apdrošinātāja vadība (sabiedrības sēdeklis),
 b) pārapdrošināšanas komersanta vadība (sabiedrības sēdeklis);
 28) uzņēmēja valsts - dalībvalsts, kura nav mītnes valsts un kurā:
 a) apdrošināšanas vai pārapdrošināšanas sabiedrībai ir filiāle,
@@ -63,12 +63,12 @@ a) kredītiestāde, finanšu iestāde Kredītiestāžu likuma izpratnē vai kred
 b) apdrošināšanas vai pārapdrošināšanas komersants vai apdrošināšanas pārvaldītājsabiedrība,
 c) ieguldījumu brokeru sabiedrība vai finanšu iestāde Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (Dokuments attiecas uz EEZ) 4.panta 1.punkta 26.apakšpunkta izpratnē,
 d) jaukta finanšu pārvaldītājsabiedrība;
-43) uzraudzības iestāde - dalībvalsts vai nedalībvalsts iestāde, kurai saskaņā ar likumu ir piešķirtas tiesības veikt dalībvalsts apdrošinātāja vai dalībvalsts pārapdrošinātāja vai nedalībvalsts apdrošinātāja vai nedalībvalsts pārapdrošinātāja uzraudzību;
+43) uzraudzības iestāde - dalībvalsts vai ārvalsts iestāde, kurai saskaņā ar likumu ir piešķirtas tiesības veikt dalībvalsts apdrošinātāja vai dalībvalsts pārapdrošinātāja vai ārvalsts apdrošinātāja vai ārvalsts pārapdrošinātāja uzraudzību;
 44) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 45) tehniskā rezerve - tehniskās rezerves vislabākās aplēses un riska rezerves summa;
-46) fonda dalībnieks - komercsabiedrība, kurai saskaņā ar šo likumu ir tiesības veikt apdrošināšanu, un dalībvalsts vai nedalībvalsts apdrošinātāja filiāle, kas veic maksājumus Apdrošināto aizsardzības fondā;
+46) fonda dalībnieks - komercsabiedrība, kurai saskaņā ar šo likumu ir tiesības veikt apdrošināšanu, un dalībvalsts vai ārvalsts apdrošinātāja filiāle, kas veic maksājumus Apdrošināto aizsardzības fondā;
 47) kompetenta iestāde - tiesa, likvidators, administrators un cita iestāde vai persona, kura atbilstoši savām likumā noteiktajām pilnvarām lemj par reorganizācijas pasākumiem vai likvidāciju, veic reorganizācijas pasākumus vai likvidāciju vai uzrauga reorganizācijas pasākumu vai likvidācijas gaitu;
-48) reorganizācijas pasākumi - tiesiskas darbības, kuras veic attiecībā uz apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāli un kuras skar vai varētu skart trešo personu tiesības, un kuras tiek veiktas, lai saglabātu vai atjaunotu apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja maksātspēju, un kuras ietekmē tādas puses iepriekš pastāvošas tiesības, kas pati nav apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle;
+48) reorganizācijas pasākumi - tiesiskas darbības, kuras veic attiecībā uz apdrošināšanas komersantu vai ārvalsts apdrošinātāja filiāli un kuras skar vai varētu skart trešo personu tiesības, un kuras tiek veiktas, lai saglabātu vai atjaunotu apdrošināšanas komersanta vai ārvalsts apdrošinātāja maksātspēju, un kuras ietekmē tādas puses iepriekš pastāvošas tiesības, kas pati nav apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle;
 49) prasījumu un saistību neto ieskaits - pēc parādnieka likvidācijas uzsākšanas vai maksātnespējas pasludināšanas starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
 50) prasījumu un saistību dzēšana - pēc parādnieka likvidācijas uzsākšanas vai maksātnespējas pasludināšanas no līguma izrietošo parādnieka un kreditora prasījumu un saistību pilnīga savstarpēja dzēšana neatkarīgi no prasījumu un saistību apmēra (summas);
 51) funkcija - administratīva veiktspēja īstenot šajā likumā noteiktos pārvaldības sistēmas uzdevumus. Pārvaldības sistēma ietver risku pārvaldības funkciju, darbības atbilstības funkciju, iekšējā audita funkciju un aktuāro funkciju;

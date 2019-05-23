@@ -1,2 +1,2 @@
 XXXIII nodaļa
-Nedalībvalstu uzraudzības režīma līdzvērtības noteikšana
+Ārvalstu uzraudzības režīma līdzvērtības noteikšana

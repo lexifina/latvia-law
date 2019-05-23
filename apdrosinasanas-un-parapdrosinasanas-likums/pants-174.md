@@ -1,1 +1,1 @@
-174.pants. Nedalībvalsts apdrošinātāja filiāle vienā dalībvalstī nedrīkst vienlaikus veikt dzīvības apdrošināšanu un nedzīvības apdrošināšanu.
+174.pants. Ārvalsts apdrošinātāja filiāle vienā dalībvalstī nedrīkst vienlaikus veikt dzīvības apdrošināšanu un nedzīvības apdrošināšanu.

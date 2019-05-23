@@ -9,6 +9,6 @@
 8) grupas uzraudzības iestādes izraudzīšanos saskaņā ar šā likuma 221., 222. un 223.panta prasībām;
 9) uzraugu kolēģijas izveidošanu saskaņā ar šā likuma 224., 225., 226., 227., 228., 229. un 230.panta prasībām;
 10) metodi grupas maksātspējas aprēķināšanai saskaņā ar šā likuma 205.pantu;
-11) nedalībvalstu uzraudzības režīma līdzvērtīguma noteikšanu šajā likumā ietvertajām uzraudzības prasībām saskaņā ar šā likuma 241.pantu;
+11) ārvalstu uzraudzības režīma līdzvērtīguma noteikšanu šajā likumā ietvertajām uzraudzības prasībām saskaņā ar šā likuma 241.pantu;
 12) saskaņā ar šā likuma 211. un 212.pantu izsniedzamo atļauju piemērot apdrošināšanas vai pārapdrošināšanas sabiedrībām šā likuma 214. un 215.pantu;
 13) uzraudzības metožu piemērošanu saskaņā ar šā likuma 243. un 244.pantu.

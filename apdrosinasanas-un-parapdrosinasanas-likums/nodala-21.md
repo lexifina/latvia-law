@@ -1,2 +1,2 @@
 XXI nodaļa
-Nedalībvalsts apdrošinātāja filiāles darbība
+Ārvalsts apdrošinātāja filiāles darbība
