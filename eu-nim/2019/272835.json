@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Apdrošināšanas un pārapdrošināšanas izplatīšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91 (6430)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-05-09",
+  "entry_into_force": "2019-05-23",
+  "notification_date": "2019-05-14",
+  "commission_reference": "MNE(2019)52985",
+  "nim_celex": "72016L0097LVA_272835",
+  "nim_id": "272835",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/42008dbb-19cb-449d-b4ca-cfb5d6f45f36",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
