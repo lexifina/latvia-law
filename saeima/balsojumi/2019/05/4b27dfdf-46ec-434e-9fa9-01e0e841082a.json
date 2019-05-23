@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada pavasara sesija",
+ "sede": 11,
+ "datums": "2019-05-23",
+ "ieraksts": {
+  "dkp_id": "c837e82a-2df2-43a4-8c2c-82648b5a4cff",
+  "lastmodtime": "\"AAAAAAGwQNU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Ilze#Dace#Andris#Romāns#Ivans#Vita Anda#Jānis#Evita#Edgars#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Rihards#Iveta#Edmunds#Uldis#Jānis#Inese#Marija#Daniels#Igors#Juris#Boriss#Ļubova#Sandis#Inguna#Arvils#Ieva#Ilmārs#Jūlija#Linda#Atis#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Jānis#Ināra#Jānis#Ritvars#Mārtiņš#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Linda#Ivars#Aleksandrs#Artūrs#Janīna#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Tērauda#Butāns#Zālīte-Grosa#Kucins#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Kozlovskis#Benhena-Bēkena#Teirumnieks#Augulis#Iesalnieks#Voika#Golubeva#Pavļuts#Pimenovs#Rancāns#Cilevičs#Švecova#Riekstiņš#Rībena#Ašeradens#Krapāne#Dūrītis#Stepaņenko#Ozola#Zakatistovs#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Urbanovičs#Mūrniece#Vucāns#Jansons#Staķis#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Kiršteins#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#AP!#AP!#NA#SASKAŅA #AP!#JK#JK#SASKAŅA #KPV LV#JK#JK#SASKAŅA #JV#AP!#JK#KPV LV#SASKAŅA #AP!#JK#JK#JV#KPV LV#NA#ZZS#NA#AP!#AP!#AP!#SASKAŅA #JK#SASKAŅA #SASKAŅA #JK#NA#JV#KPV LV#AP!# #JK#KPV LV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#SASKAŅA #NA#ZZS#NA#AP!#JK#JK#JK#SASKAŅA #KPV LV#KPV LV#SASKAŅA #NA#SASKAŅA #NA# ",
+  "RESULT": "Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Pret#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.05.2019 11:03:14",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Zinātniskās darbības likumā (327/Lp13), 1.lasījums iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "4b27dfdf-46ec-434e-9fa9-01e0e841082a",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "49",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "10",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada pavasara sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/8842097c-01e2-44e0-8abb-d247292605c2/download/13.saeimas-2019.gada-pavasara-sesija-11-vote.xml",
+  "sha256": "fcdef285ff3334770cfdf41876ef264625c54d5a8ab0cd9c8a09dd637f2adbdb",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
