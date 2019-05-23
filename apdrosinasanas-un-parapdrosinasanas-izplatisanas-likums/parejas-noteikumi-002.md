@@ -1,0 +1,1 @@
+2. Apdrošināšanas vai pārapdrošināšanas izplatītājs, kurš līdz šā likuma spēkā stāšanās dienai ir saņēmis apdrošināšanas vai pārapdrošināšanas licenci vai reģistrēts apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, līdz 2019. gada 31. decembrim nodrošina šā likuma 23. panta prasību izpildi.

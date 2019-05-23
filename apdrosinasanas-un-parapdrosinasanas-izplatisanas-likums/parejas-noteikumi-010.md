@@ -1,0 +1,1 @@
+10. Apdrošināšanas vai pārapdrošināšanas komersants, ārvalsts apdrošinātāja filiāle vai ārvalsts pārapdrošinātāja filiāle nodrošina apdrošināšanas vai pārapdrošināšanas izplatīšanā tieši iesaistītu darbinieku atbilstību šā likuma 17. panta prasībām, sākot no 2019. gada 1. oktobra.

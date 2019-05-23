@@ -1,0 +1,2 @@
+61. pants. Pārskati par apdrošināšanas vai pārapdrošināšanas starpnieku darbību
+Komisija ir tiesīga uzraudzības vajadzībām pieprasīt pārskatus no apdrošināšanas vai pārapdrošināšanas starpniekiem, ārvalsts apdrošināšanas vai pārapdrošināšanas starpnieku filiālēm un citas dalībvalsts apdrošināšanas vai pārapdrošināšanas starpnieku filiālēm par to darbību un noteikt šo pārskatu formu, saturu un iesniegšanas termiņu.

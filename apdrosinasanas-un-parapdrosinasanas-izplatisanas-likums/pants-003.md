@@ -1,0 +1,13 @@
+3. pants. Likuma darbības jomas izņēmumi
+(1) Šis likums neattiecas uz valsts fondēto pensiju shēmu izplatīšanu saskaņā ar Valsts fondēto pensiju likumu un pensiju plānu izplatīšanu saskaņā ar likumu "Par privātajiem pensiju fondiem".
+(2) Šis likums, izņemot tā 5. panta trešo daļu un 37. panta otro daļu, neattiecas uz apdrošināšanas papildpakalpojuma starpniekiem, kuri nodarbojas ar apdrošināšanas izplatīšanu, ja vienlaikus ir izpildīti šādi nosacījumi:
+1) apdrošināšana ir vienīgi papildinājums piedāvātajai precei vai pakalpojumam un paredz vienu no šādiem gadījumiem:
+a) tādu zaudējumu segšanu, kuri ir saistīti ar piedāvātās preces defektu, bojājumu vai zudumu vai ar piedāvātā pakalpojuma neizmantošanas risku,
+b) tādu zaudējumu segšanu, kuri ir saistīti ar bagāžas bojājumu vai nozaudēšanu un ar citiem apdrošināšanas papildpakalpojuma starpnieka sniegto ceļojuma pakalpojumu riskiem;
+2) par apdrošināšanu samaksātās apdrošināšanas prēmijas apmērs, to aprēķinot proporcionāli apdrošināšanas periodam, nepārsniedz 600 euro gadā vai, ja apdrošināšana ir papildpakalpojums šīs daļas 1. punktā minētajam pakalpojumam, kura ilgums ir ne vairāk kā 90 dienas, vienas personas samaksātās apdrošināšanas prēmijas apmērs nepārsniedz 200 euro.
+(3) Par apdrošināšanas vai pārapdrošināšanas izplatīšanu neuzskata:
+1) informācijas sniegšanu reklāmas nolūkos kā papildpakalpojumu citas pamatdarbības ietvaros, ja informācijas sniedzējs neveic papildu darbības, lai palīdzētu noslēgt vai izpildīt apdrošināšanas vai pārapdrošināšanas līgumu;
+2) apdrošināšanas vai pārapdrošināšanas komersanta, ārvalsts apdrošinātāja filiāles vai ārvalsts pārapdrošinātāja filiāles apdrošināšanas vai pārapdrošināšanas atlīdzības prasību administrēšanu;
+3) zaudējumu novērtēšanu vai apdrošināšanas atlīdzības aprēķināšanu;
+4) tikai datu un informācijas sniegšanu apdrošināšanas vai pārapdrošināšanas starpniekam vai apdrošināšanas vai pārapdrošināšanas komersantam, ārvalsts apdrošinātāja filiālei vai ārvalsts pārapdrošinātāja filiālei par potenciālajiem apdrošinājuma vai pārapdrošinājuma ņēmējiem, ja datu un informācijas sniedzējs neveic nekādus citus papildu pasākumus, lai palīdzētu noslēgt apdrošināšanas vai pārapdrošināšanas līgumu;
+5) tikai informācijas sniegšanu potenciālajiem apdrošinājuma vai pārapdrošinājuma ņēmējiem par apdrošināšanas vai pārapdrošināšanas produktiem, apdrošināšanas vai pārapdrošināšanas starpnieku, apdrošināšanas vai pārapdrošināšanas komersantu, ārvalsts apdrošinātāja filiāli vai ārvalsts pārapdrošinātāja filiāli, ja informācijas sniedzējs neveic nekādus papildu pasākumus, lai palīdzētu noslēgt apdrošināšanas vai pārapdrošināšanas līgumu.

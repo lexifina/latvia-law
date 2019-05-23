@@ -1,0 +1,1 @@
+3. Apdrošināšanas komersanta vai ārvalsts apdrošinātāja filiāle līdz 2019. gada 1. oktobrim izveido apdrošināšanas aģentu reģistru un reģistrē tajā apdrošināšanas aģentus, kuri nodarbojas ar apdrošināšanas izplatīšanu apdrošināšanas komersanta vai ārvalsts apdrošinātāja filiāles vārdā un interesēs.

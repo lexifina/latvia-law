@@ -1,0 +1,4 @@
+47. pants. Ārpustiesas strīdu izskatīšana
+(1) Strīdus starp apdrošināšanas komersantu, ārvalsts apdrošinātāja filiāli, apdrošināšanas aģentu, apdrošināšanas komersanta vai ārvalsts apdrošinātāja filiāles reģistrētu apdrošināšanas papildpakalpojuma starpnieku un klientu izskata institūcija (ombuds), ko izveidojusi apdrošināšanas izplatītāju asociācija, kurā apvienojušies apdrošināšanas komersanti un ārvalsts apdrošinātāja filiāles.
+(2) Strīdus starp apdrošināšanas vai pārapdrošināšanas brokeri, apdrošināšanas vai pārapdrošināšanas brokera reģistrētu apdrošināšanas papildpakalpojuma starpnieku un klientu izskata institūcija (ombuds), ko izveidojusi apdrošināšanas izplatītāju asociācija, kurā apvienojušies apdrošināšanas vai pārapdrošināšanas brokeri.
+(3) Šā panta pirmajā un otrajā daļā minētās apdrošināšanas izplatītāju asociācijas izveidotās institūcijas (ombudi), izskatot pārrobežu strīdus, sadarbojas ar dalībvalstu ārpustiesas strīdu izskatītājiem.

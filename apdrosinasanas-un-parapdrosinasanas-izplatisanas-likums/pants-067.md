@@ -1,0 +1,2 @@
+67. pants. Komisijas lēmuma pārsūdzēšana
+Komisijas lēmumu, kas pieņemts saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.

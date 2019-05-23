@@ -1,0 +1,2 @@
+15. pants. Apdrošināšanas vai pārapdrošināšanas brokera darbības ierobežojums
+Apdrošināšanas vai pārapdrošināšanas brokeris ir tiesīgs apdrošināšanas vai pārapdrošināšanas izplatīšanu savienot ar ieguldījumu pakalpojumu sniedzēja darbību Finanšu instrumentu tirgus likumā noteiktajā kārtībā, kā arī ar apdrošināšanas vai pārapdrošināšanas riska parakstīšanu saskaņā ar ārpakalpojuma līgumu, kas noslēgts ar apdrošināšanas vai pārapdrošināšanas komersantu vai ārvalsts apdrošinātāja filiāli, vai ārvalsts pārapdrošinātāja filiāli.
