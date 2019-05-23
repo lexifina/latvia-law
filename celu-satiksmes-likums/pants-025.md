@@ -1,7 +1,7 @@
 25.pants. Transportlīdzekļu vadītāja pienākumi
 (1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt šādiem dokumentiem, kas pēc policijas darbinieku, robežsargu vai muitas amatpersonu pieprasījuma jāiedod tiem pārbaudei:
-1) vadītāja apliecība;
-2) transportlīdzekļa reģistrācijas dokumenti;
+1) vadītāja apliecība vai personu apliecinošs dokuments (transportlīdzekļa vadītājam, par kura tiesībām vadīt attiecīgās kategorijas transportlīdzekli, pārvietojoties Latvijas teritorijā, izdarīts ieraksts transportlīdzekļu un to vadītāju valsts reģistrā vai traktortehnikas un tās vadītāju valsts informatīvajā sistēmā);
+2) transportlīdzekļa reģistrācijas dokumenti, izņemot transportlīdzekļa vadītājus, kuri pārvietojas Latvijas teritorijā ar transportlīdzekļu un to vadītāju valsts reģistrā vai traktortehnikas un tās vadītāju valsts informatīvajā sistēmā reģistrētiem transportlīdzekļiem;
 3) (izslēgts ar 27.09.2007. likumu);
 4) dokumenti, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam nepieciešami, lai vadītu attiecīgu transportlīdzekli (operatīvo transportlīdzekli vai tamlīdzīgu transportlīdzekli) vai pārvadātu attiecīgu kravu (bīstamu, lielgabarīta, smagsvara un tamlīdzīgu kravu);
 5) (izslēgts ar 15.12.2005. likumu);
@@ -19,4 +19,5 @@ d) Ceļu satiksmes drošības direkcijā elektroniski noformēta vienas dienas a
 4) lietot alkoholiskos dzērienus, narkotiskas vai psihotropas vielas pēc tam, kad transportlīdzeklis tiek apturēts pēc policijas darbinieku vai robežsargu pieprasījuma, līdz reibuma stāvokļa konstatēšanai nepieciešamās pārbaudes izdarīšanai vai atbrīvošanai no tās, kā arī atteikties no šādas pārbaudes;
 5) izmantot bojātu, nesalasāmu vai noteiktajam paraugam neatbilstošu vadītāja apliecību, transportlīdzekļa reģistrācijas dokumentus vai citus dokumentus, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam nepieciešami, lai vadītu attiecīgu transportlīdzekli vai pārvadātu attiecīgu kravu.
 (3) Transportlīdzekļa vadītājam jāievēro šā likuma, Ceļu satiksmes noteikumu un citu ceļu satiksmi reglamentējošu normatīvo aktu prasības, pārvietojoties pa ceļiem, kā arī pa citām vietām, kurās iespējama transporta kustība.
+(3¹) Transportlīdzekļa vadītājam ir pienākums pārliecināties, vai ir samaksāti tie normatīvajos aktos noteiktie nodokļi vai nodevas, kas maksājami pirms dalības ceļu satiksmē.
 (4) Ja transportlīdzekļa vadītājam transportlīdzekļu vadīšanas tiesības ir atņemtas uz noteiktu laiku vai uz nenoteiktu laiku, vadītāja apliecība uzskatāma par nederīgu no dienas, kad viņam paziņots attiecīgais lēmums. Transportlīdzekļa vadītājam ir pienākums 10 dienu laikā nodot nederīgo transportlīdzekļa vadītāja apliecību Ceļu satiksmes drošības direkcijai, Valsts tehniskās uzraudzības aģentūrai vai Valsts policijai. Ja persona vadītāja apliecību nav nodevusi un tiek konstatēta tās izmantošana, vadītāja apliecība tiek aizturēta. Vadītāja apliecību aiztur un iznīcina Valsts policijas, Ceļu satiksmes drošības direkcijas un Valsts tehniskās uzraudzības aģentūras amatpersonas. Gadījumus, kad vadītāja apliecību iznīcina, un kārtību, kādā vadītāja apliecība tiek iznīcināta, nosaka Ministru kabinets.

@@ -39,4 +39,4 @@ c) Latvijā - A1 kategorijas transportlīdzekli;
 3) TR3 - meža mašīnas, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas;
 4) TR4 - ceļu būves mašīnas, buldozeri, ekskavatori, iekrāvēji un speciālās pašgājējmašīnas.
 (8) Ja transportlīdzekļa vadītājs citas kategorijas transportlīdzekli, tai skaitā traktortehniku, vada tikai ar AM, A1 vai TRAM kategorijas transportlīdzekļu vadīšanas tiesībām, uzskatāms, ka šim transportlīdzekļa vadītājam, vadot attiecīgo transportlīdzekli, vispār nav transportlīdzekļu vadīšanas tiesību. Šis nosacījums attiecībā uz A1 un TRAM kategorijas transportlīdzekļu vadīšanas tiesībām neattiecas uz šā panta otrās daļas 8.punktā minēto nosacījumu.
-(9) Speciālo militāro tehniku ir tiesīgs vadīt profesionālā dienesta karavīrs vai zemessargs, kuram piešķirta TR1 vai TR2 kategorijas traktortehnikas vadītāja apliecība.
+(9) Speciālo militāro tehniku ir tiesīgs vadīt profesionālā dienesta karavīrs vai zemessargs, kuram piešķirta TR1 vai TR2 kategorijas traktortehnikas vadītāja apliecība vai B kategorijas transportlīdzekļu vadītāja apliecība.
