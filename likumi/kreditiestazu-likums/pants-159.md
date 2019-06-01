@@ -1,5 +1,5 @@
-159.pants. (1) Triju dienu laikā pēc kredītiestādes pasludināšanas par maksātnespējīgu administrators nosūta paziņojumu un tiesas sprieduma norakstu Latvijas Bankai, Uzņēmumu reģistram un zemesgrāmatu nodaļai pēc nekustamā īpašuma atrašanās vietas, pavadrakstā norādot savu vārdu, uzvārdu, darbības vietu un tālruņa numuru.
+159.pants. (1) Triju dienu laikā pēc kredītiestādes pasludināšanas par maksātnespējīgu administrators nosūta paziņojumu un tiesas sprieduma norakstu Latvijas Bankai, Uzņēmumu reģistram un rajona (pilsētas) tiesai pēc nekustamā īpašuma atrašanās vietas, pavadrakstā norādot savu vārdu, uzvārdu, darbības vietu un tālruņa numuru.
 (2) Uzņēmumu reģistram ir pienākums fiksēt iesniegtās ziņas likumā "Par Latvijas Republikas Uzņēmumu reģistru" noteiktajā kārtībā.
-(3) Zemesgrāmatu nodaļai saskaņā ar Zemesgrāmatu likumu ir pienākums ierakstīt zemesgrāmatas attiecīgajā nodalījumā atzīmi par īpašnieka pasludināšanu par maksātnespējīgu.
-(4) Ja maksātnespējas process tiek izbeigts sakarā ar to, ka kredītiestādes maksātspēja ir atjaunojusies, administrators nosūta tiesas nolēmumu Uzņēmumu reģistram un attiecīgajai zemesgrāmatu nodaļai izdarīto atzīmju dzēšanai.
+(3) Rajona (pilsētas) tiesai saskaņā ar Zemesgrāmatu likumu ir pienākums ierakstīt zemesgrāmatas attiecīgajā nodalījumā atzīmi par īpašnieka pasludināšanu par maksātnespējīgu.
+(4) Ja maksātnespējas process tiek izbeigts sakarā ar to, ka kredītiestādes maksātspēja ir atjaunojusies, administrators nosūta tiesas nolēmumu Uzņēmumu reģistram un attiecīgajai rajona (pilsētas) tiesai izdarīto atzīmju dzēšanai.
 (5) Ja maksātnespējas process tiek pabeigts, administrators nosūta Uzņēmumu reģistram tiesas nolēmumu par maksātnespējas procesa pabeigšanu kredītiestādes izslēgšanai no Komercreģistra.
