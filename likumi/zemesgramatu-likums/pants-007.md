@@ -1,1 +1,1 @@
-7. Tiesības nostiprina uz zemesgrāmatu nodaļas tiesneša lēmumu pamata, ierakstot nostiprināmās tiesības zemesgrāmatā.
+7. Tiesības nostiprina uz tiesneša lēmumu pamata, ierakstot nostiprināmās tiesības zemesgrāmatā.

@@ -1,1 +1,1 @@
-69. Nostiprinājuma lūgumus saņem zemesgrāmatu nodaļas darbinieks un atzīmē uz tiem saņemšanas gadu, mēnesi un dienu.
+69. Nostiprinājuma lūgumus saņem rajona (pilsētas) tiesas darbinieks un atzīmē uz tiem saņemšanas gadu, mēnesi un dienu.

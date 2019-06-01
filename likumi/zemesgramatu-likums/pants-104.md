@@ -1,1 +1,1 @@
-104. Ieskatīties zemesgrāmatās, nostiprinājumu žurnālos, nekustamu īpašumu lietās un dokumentu grāmatās atļauts tikai zemesgrāmatu nodaļas sekretāra vai viņa palīga vai arī sekretāra šim nolūkam pilnvarota kancelejas ierēdņa uzraudzībā.
+104. Ieskatīties zemesgrāmatās, nostiprinājumu žurnālos, nekustamu īpašumu lietās un dokumentu grāmatās atļauts tikai rajona (pilsētas) tiesas sekretāra vai viņa palīga vai arī sekretāra šim nolūkam pilnvarota kancelejas ierēdņa uzraudzībā.

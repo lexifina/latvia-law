@@ -1,2 +1,2 @@
-125. Ja nostiprinājuma lūgums vai tā daļa atstāti bez ievērības, zemesgrāmatu nodaļa triju dienu laikā par to paziņo lūguma iesniedzējam.
+125. Ja nostiprinājuma lūgums vai tā daļa atstāti bez ievērības, rajona (pilsētas) tiesa triju dienu laikā par to paziņo lūguma iesniedzējam.
 Paziņojumu nostiprinājuma lūguma iesniedzējam nosūta pēc viņa norādītās adreses. Persona, kas nepareizi norādījusi savu adresi vai nav paziņojusi par tās maiņu, nevar aizbildināties ar to, ka nav saņēmusi paziņojumu, kas tai nosūtīts uz norādīto adresi. Par paziņojuma nosūtīšanu izdarāma atzīme nostiprinājuma žurnālā.

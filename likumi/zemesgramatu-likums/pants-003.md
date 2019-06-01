@@ -1,2 +1,2 @@
-3. Katrs nekustams īpašums jāieraksta zemesgrāmatā tajā zemesgrāmatu nodaļā, kuras darbības teritorijā tas atrodas.
-Zemesgrāmatu nodaļas darbības teritoriju nosaka likums "Par tiesu varu" un uz tā pamata izdotie tiesību akti.
+3. Katrs nekustams īpašums ierakstāms zemesgrāmatā tajā rajona (pilsētas) tiesā, kuras darbības teritorijā tas atrodas.
+Rīgas pilsētas administratīvajā teritorijā esošs nekustams īpašums ierakstāms Rīgas pilsētas Vidzemes priekšpilsētas tiesas zemesgrāmatā.

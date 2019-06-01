@@ -1,1 +1,1 @@
-88. Par nostiprinājumiem, kas attiecas uz lauku nekustamiem īpašumiem, zemesgrāmatu nodaļa 62. pantā paredzētos gadījumos paziņo Valsts zemes dienestam, apzīmējot nekustamu īpašumu un norādot tā platību.
+88. Par nostiprinājumiem, kas attiecas uz lauku nekustamiem īpašumiem, rajona (pilsētas) tiesa 62. pantā paredzētos gadījumos paziņo Valsts zemes dienestam, apzīmējot nekustamu īpašumu un norādot tā platību.

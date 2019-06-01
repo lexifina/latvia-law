@@ -1,1 +1,1 @@
-6. Nostiprināšana piekrīt tai zemesgrāmatu nodaļai, kuras grāmatās ierakstīts nekustams īpašums, uz ko attiecas nostiprinājums.
+6. Nostiprināšana piekrīt tai rajona (pilsētas) tiesai, kuras zemesgrāmatās ierakstīts nekustams īpašums, uz ko attiecas nostiprinājums.

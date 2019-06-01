@@ -1,1 +1,1 @@
-61.¹ Ja ķīlas tiesības nostiprinājumu lūdz nekustamā īpašuma īpašnieks, tad nostiprinājuma lūgumam nepievieno apliecinājumu par kreditora piekrišanu.
+61.¹ Ja ķīlas tiesības nostiprinājumu lūdz nekustamā īpašuma īpašnieks, tad nostiprinājuma lūgumam nepievieno apliecinājumu par kreditora piekrišanu. Nostiprinājuma lūgumam nepievieno dokumentu, kas apliecina saistību, ja ķīlas līgums, kas pamato hipotēkas nostiprināšanu, satur būtiskus noteikumus par saistību, ko nodrošina hipotēka, un tās spēkā esību.

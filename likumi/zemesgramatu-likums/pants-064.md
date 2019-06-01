@@ -2,7 +2,7 @@
 1) uz notariālā akta kārtībā slēgtu darījumu;
 2) uz notariālo aktu par pēdējās gribas rīkojuma akta stāšanos likumīgā spēkā vai apstiprināšanu mantojuma tiesībās (mantojuma apliecību);
 3) uz notariālo aktu par pārdzīvojušā laulātā mantas daļu (apliecība par laulātā mantas daļu);
-4) uz dokumentu, kas atrodas citā zemesgrāmatu nodaļā;
+4) uz dokumentu, kas atrodas citā rajona (pilsētas) tiesā;
 5) uz tiesas spriedumu vai lēmumu;
 6) uz administratīvu iestāžu lēmumu;
 7) uz ārvalsts tiesas vai kompetentās iestādes izsniegtu Eiropas izpildes rīkojumu saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulu (EK) Nr. 805/2004, ar ko izveido Eiropas izpildes rīkojumu neapstrīdētiem prasījumiem;

@@ -1,1 +1,1 @@
-130. Nostiprinājumu apliecina tiesneša lēmums (123.p.), kā arī zemesgrāmatu nodaļas tiesneša lēmuma apliecināta datorizdruka vai zemesgrāmatas apliecība.
+130. Nostiprinājumu apliecina tiesneša lēmums (123.p.), kā arī tiesneša lēmuma apliecināta datorizdruka vai zemesgrāmatas apliecība.

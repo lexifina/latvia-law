@@ -1,1 +1,1 @@
-87. Zemesgrāmatu nodaļa par katru nekustama īpašuma pārejas gadījumu piesūta Valsts zemes dienestam nostiprinājuma lūdzēja izpildītu ziņu lapu pēc noteikta parauga, un arī paziņo tai pašvaldībai, kuras robežās atrodas īpašums, norādot tā agrākā un tagadējā īpašnieka vārdu un uzvārdu.
+87. Rajona (pilsētas) tiesa par katru nekustama īpašuma pārejas gadījumu piesūta Valsts zemes dienestam nostiprinājuma lūdzēja izpildītu ziņu lapu pēc noteikta parauga, un arī paziņo tai pašvaldībai, kuras robežās atrodas īpašums, norādot tā agrākā un tagadējā īpašnieka vārdu un uzvārdu.

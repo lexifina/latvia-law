@@ -1,2 +1,2 @@
-83. Lēmuma norakstu, kuru apliecina ar parakstiem zemesgrāmatu nodaļas tiesnesis un sekretārs, pievieno dokumentam, uz kura pamatots lēmums par jaunas tiesības nostiprināšanu. Dokumentus kopā ar nostiprinājuma lūgumu pievieno nekustamā īpašuma lietai.
+83. Lēmuma norakstu, kuru apliecina ar parakstiem tiesnesis un sekretārs, pievieno dokumentam, uz kura pamatots lēmums par jaunas tiesības nostiprināšanu. Dokumentus kopā ar nostiprinājuma lūgumu pievieno nekustamā īpašuma lietai.
 Ja ar lēmumu ir pārgrozīta vai dzēsta agrāk nostiprināta tiesība, tad lēmumu saīsinātā veidā atzīmē uz tā dokumenta, kas bijis par pamatu tiesības pirmējam nostiprinājumam, norādot nostiprinājumu žurnāla numuru.
