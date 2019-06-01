@@ -4,6 +4,6 @@
 1) noraidīta blakus sūdzība par lēmumu atteikties pieņemt prasību, pamatojoties uz šā likuma 132.panta pirmās daļas 1. un 2.punktu;
 2) noraidīta blakus sūdzība par tiesvedības izbeigšanu, pamatojoties uz šā likuma 223.panta 1. un 2.punktu;
 3) izlemjot jautājumu pēc būtības saskaņā ar šā likuma 448.panta 3.punktu, pieņemts lēmums atteikties pieņemt prasību, pamatojoties uz šā likuma 132.panta pirmās daļas 1. un 2.punktu, vai lēmums izbeigt tiesvedību, pamatojoties uz šā likuma 223.panta 1. un 2.punktu.
-(3) Apgabaltiesas lēmums par blakus sūdzību par rajona (pilsētas) tiesas zemesgrāmatu nodaļas tiesneša lēmumu, izņemot lēmumu par blakus sūdzību par pieteikuma par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda, pārsūdzams Augstākajā tiesā, ievērojot šā likuma 442.pantā noteiktos termiņus.
+(3) Apgabaltiesas lēmums par blakus sūdzību par rajona (pilsētas) tiesas lēmumu zemesgrāmatu lietās, izņemot lēmumu par blakus sūdzību par pieteikuma par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda, pārsūdzams Augstākajā tiesā, ievērojot šā likuma 442.pantā noteiktos termiņus.
 (3¹) Šā panta otrajā un trešajā daļā minētos termiņus attiecībā uz lietas dalībnieku, kuram lēmums nosūtīts saskaņā ar šā likuma 56.² pantu, skaita no lēmuma noraksta izsniegšanas dienas.
 (4) Pārsūdzot Augstākajā tiesā šā panta otrajā un trešajā daļā, kā arī šā likuma 641. panta pirmajā daļā paredzētos lēmumus, iemaksājama drošības nauda. Drošības naudas apmēru un atmaksas kārtību nosaka atbilstoši šīs nodaļas prasībām.

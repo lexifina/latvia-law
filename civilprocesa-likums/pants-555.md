@@ -9,4 +9,4 @@
 (7) Tiesu izpildītājs jebkurā izpildes procesa stadijā var:
 1) pieprasīt, lai parādnieks deklarē savu mantisko stāvokli un pārmaiņas tajā pēdējā gada laikā, brīdinot parādnieku par kriminālatbildību;
 2) apķīlāt parādnieka mantu, tai skaitā apķīlāt naudas līdzekļus un noguldījumus kredītiestādē vai pie citiem maksājumu pakalpojumu sniedzējiem, naudas līdzekļus, kas pienākas no citām personām, vai mantu, kas atrodas pie citām personām;
-3) iesniegt nostiprinājuma lūgumu zemesgrāmatu nodaļai piedziņas atzīmes ierakstīšanai zemesgrāmatā vai nosūtīt rīkojumu citam publiskam reģistram atsavināšanas vai citu darbību aizlieguma ierakstīšanai.
+3) iesniegt nostiprinājuma lūgumu rajona (pilsētas) tiesai piedziņas atzīmes ierakstīšanai zemesgrāmatā vai nosūtīt rīkojumu citam publiskam reģistram atsavināšanas vai citu darbību aizlieguma ierakstīšanai.

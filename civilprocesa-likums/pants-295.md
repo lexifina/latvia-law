@@ -7,4 +7,4 @@
 4) termiņu tiesību pieteikšanai;
 5) termiņa neievērošanas sekas.
 (3) Termiņu, ja tas nav noteikts likumā, nosaka tiesa, bet tas nevar būt mazāks par trim mēnešiem no sludinājuma publicēšanas dienas.
-(4) Ja uzaicinājums attiecas uz tiesībām uz nekustamo īpašumu vai uz prasījumiem, kas nodrošināti ar hipotēku, sludinājums izliekams arī attiecīgajā zemesgrāmatu nodaļā.
+(4) Ja uzaicinājums attiecas uz tiesībām uz nekustamo īpašumu vai uz prasījumiem, kas nodrošināti ar hipotēku, sludinājums izliekams arī attiecīgajā rajona (pilsētas) tiesā.

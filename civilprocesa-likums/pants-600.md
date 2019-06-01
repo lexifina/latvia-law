@@ -1,6 +1,6 @@
 600.pants. Paziņojums par piedziņas vēršanu uz nekustamo īpašumu
 (1) Ja piedzinējs lūdz vērst piedziņu uz nekustamo īpašumu, tiesu izpildītājs nosūta ierakstītā sūtījumā parādniekam paziņojumu un uzaicina viņu nokārtot parādu, kā arī sniegt informāciju par to, vai parādnieks ir reģistrēts pievienotās vērtības nodokļa maksātājs un vai, pārdodot izsolē viņa nekustamo īpašumu, izsoles cena apliekama ar pievienotās vērtības nodokli un kāda ir šīs cenas apliekamā vērtība.
-(2) Tiesu izpildītājs iesniedz zemesgrāmatu nodaļai nostiprinājuma lūgumu par piedziņas atzīmes ierakstīšanu. Šīs atzīmes sekas norādītas Civillikuma 1077.panta pirmajā daļā, 1081. un 1305.pantā, kā arī Zemesgrāmatu likuma 46.pantā.
+(2) Tiesu izpildītājs iesniedz rajona (pilsētas) tiesai nostiprinājuma lūgumu par piedziņas atzīmes ierakstīšanu. Šīs atzīmes sekas norādītas Civillikuma 1077.panta pirmajā daļā, 1081. un 1305.pantā, kā arī Zemesgrāmatu likuma 46.pantā.
 (3) Tiesu izpildītājs atbilstoši attiecīgā zemesgrāmatas nodalījuma norakstam nosūta ierakstītā sūtījumā paziņojumu nekustamā īpašuma īpašniekam, apbūves tiesīgajiem, nekustamā īpašuma kopīpašniekiem, izņemot tādas dzīvojamās mājas kopīpašniekus, kura nav sadalīta dzīvokļu īpašumos, kā arī visiem hipotekārajiem kreditoriem, tajā skaitā personām, kuru labā ierakstīta ķīlas tiesības vai aizlieguma atzīme, norādot:
 1) kuras personas prasījuma apmierināšanai tiek vērsta piedziņa uz nekustamo īpašumu;
 2) cik liela ir parāda summa un vai parāds nodrošināts ar hipotēku uz attiecīgo nekustamo īpašumu.
