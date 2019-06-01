@@ -15,7 +15,7 @@
 5) iesniedz Tiesu administrācijai pieprasījumus tiesas iestādes darbības materiāltehniskajai nodrošināšanai;
 6) atbild par resursu tiesisku un lietderīgu izmantošanu;
 7) organizē tiesas darbinieku ikgadējo novērtēšanu;
-8) norīko tiesnesi pildīt pienākumus zemesgrāmatu nodaļā, ja zemesgrāmatu nodaļas tiesnesis atrodas pagaidu prombūtnē, kas nepārsniedz sešus mēnešus;
+8) (izslēgts no 01.06.2019. ar 25.10.2018. likumu. Sk. Pārejas noteikumu 95. punktu);
 9) saskaņā ar apgabaltiesas priekšsēdētāja lēmumu norīko tiesnesi veikt izmeklēšanas tiesneša pienākumus uz laiku līdz trim gadiem;
 (10) (Punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 94. punktu)
 (4) Rajona pilsētas tiesas priekšsēdētājs var:
