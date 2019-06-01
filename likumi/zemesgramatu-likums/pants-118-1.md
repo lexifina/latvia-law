@@ -5,4 +5,4 @@ Paziņojumā norāda:
 3) paziņojuma iesniedzēju un viņa elektroniskā pasta adresi.
 Ziņas par šā panta pirmajā daļā minēto paziņojumu no personu rādītāja dzēš:
 1) valsts vienotās datorizētās zemesgrāmatas turētājs uz paziņojuma pamata;
-2) zemesgrāmatu nodaļa, ja tas norādīts nostiprinājuma lūgumā par atzīmes ierakstīšanu zemesgrāmatā.
+2) rajona (pilsētas) tiesa, ja tas norādīts nostiprinājuma lūgumā par atzīmes ierakstīšanu zemesgrāmatā.
