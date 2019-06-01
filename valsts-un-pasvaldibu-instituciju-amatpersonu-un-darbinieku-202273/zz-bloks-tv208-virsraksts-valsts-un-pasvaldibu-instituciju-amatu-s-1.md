@@ -168,7 +168,7 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 Šajā saimē ietilpst amati, kuru pildītāji nodrošina iestādes stratēģisko, juridisko, informācijas tehnoloģiju, cilvēkresursu, projektu un citu risku vadību.
 53. Tiesas un prokuratūra
 53.1. Tiesu darbinieki
-Šajā apakšsaimē ietilpst amati, kuru pildītāji nodrošina rajonu (pilsētu) tiesu, apgabaltiesu, zemesgrāmatu nodaļu un Augstākās tiesas darbību (lietvedību) un sniedz konsultatīvu atbalstu tiesnešiem.
+Šajā apakšsaimē ietilpst amati, kuru pildītāji nodrošina rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas darbību (lietvedību) un sniedz konsultatīvu atbalstu tiesnešiem.
 53.2. Satversmes tiesas darbinieki
 Šajā apakšsaimē ietilpst amati, kuru pildītāji nodrošina Satversmes tiesas darbību (lietvedību) un sniedz konsultatīvu atbalstu Satversmes tiesas tiesnešiem.
 53.3. Prokuratūras darbinieki (prokuroru palīgi)
