@@ -1,0 +1,1 @@
+19. Sākot ar 2019. gada 1. jūniju, šā likuma 7.² panta trešās daļas noteikumi attiecināmi arī uz tiem šā panta pirmās daļas 1., 2., 3., 4. un 5. punktā minētajiem dokumentiem, kurus Latvijas Nacionālais arhīvs publicējis savā tīmekļvietnē elektroniskā formā (PDF formātā) līdz 2018. gada 31. decembrim.
