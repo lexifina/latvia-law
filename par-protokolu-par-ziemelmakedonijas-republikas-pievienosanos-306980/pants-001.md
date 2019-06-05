@@ -1,0 +1,1 @@
+1. pants. 2019. gada 6. februārī Briselē parakstītais Protokols par Ziemeļmaķedonijas Republikas pievienošanos Ziemeļatlantijas līgumam (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
