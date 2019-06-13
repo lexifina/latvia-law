@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada pavasara sesija",
+ "sede": 15,
+ "datums": "2019-06-13",
+ "ieraksts": {
+  "dkp_id": "9fcfeeb1-56d2-4dae-9e89-b05594dcba4e",
+  "lastmodtime": "\"AAAAAAGzhJo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Anita#Normunds#Rihards#Iveta#Uldis#Jānis#Marija#Nikolajs#Jānis#Daniels#Igors#Juris#Evija#Jānis#Ļubova#Sandis#Kaspars#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Valērijs#Aldis#Ēriks#Jānis#Mārtiņš#Dace#Andrejs#Jānis#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Reinis#Dagmāra#Jānis#Linda#Ivars#Janīna#Artūrs#Regīna#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Muižniece#Žunna#Kozlovskis#Benhena-Bēkena#Augulis#Iesalnieks#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Rancāns#Papule#Vitenbergs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Agešins#Adamovičs#Pucens#Dombrava#Bondars#Bluķe#Judins#Urbanovičs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Znotiņš#Beitnere-Le Galla#Tutins#Liepiņa#Zariņš#Jalinska#Rubiks#Ločmele-Luņova#Gobzems",
+  "VOTEDEPSUFFIX": "##################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#JK#JK#SASKAŅA #SASKAŅA #KPV LV#JK#JK#JV#AP!# #JK#KPV LV#JK#JK#JV#KPV LV#ZZS#NA#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #JK#SASKAŅA #KPV LV#SASKAŅA #JK#KPV LV#JV#KPV LV#NA#AP!# #SASKAŅA #JV#KPV LV#NA#AP!#AP!#JV#SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#JK#JK#SASKAŅA # #SASKAŅA #ZZS#SASKAŅA #SASKAŅA # ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "13.06.2019 13:34:52",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.11. Grozījumi likumā “Par skaidras naudas deklarēšanu uz valsts robežas” (101/Lp13), 3.lasījums",
+  "VOTING_ID": "07866bf1-0179-46e8-8b99-121e961ea5a8",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "3",
+  "VOTERESULT_FOR": "58",
+  "VOTERESULT_REGISTERED": "67",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada pavasara sesija-15-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c68baae1-ccda-47d9-85fd-3f8e0bb49e65/download/13.saeimas-2019.gada-pavasara-sesija-15-vote.xml",
+  "sha256": "18acac8203d22a854b47adda8304962934d475b7f01c5404b04e68875f8e7590",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
