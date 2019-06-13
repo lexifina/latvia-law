@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 6.² panta trešajā daļā par deleģējumu Ministru kabinetam noteikt kārtību, kādā apkopojama informācija par valsts iestāžu lietotajiem nekustamajiem īpašumiem, stājas spēkā 2020. gada 1. janvārī.
