@@ -1,3 +1,6 @@
 2. pants. Cilvēka prioritārās tiesības uz savu ķermeni
-Miruša cilvēka ķermeni, audus un orgānus aizliegts izmantot pret viņa dzīves laikā izteikto gribu. Cilvēka griba, ja vien tā nav pretrunā ar spēkā esošajiem likumiem, ir obligāti jāievēro visām ārstniecības, izglītības un zinātnes iestādēm neatkarīgi no to darbības veida un pakļautības.
-Katrs rīcībspējīgs cilvēks ir tiesīgs aizliegt vai atļaut, noformējot to dokumentāri, sava ķermeņa izmantošanu pēc nāves.
+Miruša cilvēka ķermeni, audus un orgānus atļauts izmantot tikai šajā likumā noteiktajā kārtībā saskaņā ar viņa dzīves laikā izteikto gribu. Cilvēka griba, ja vien tā nav pretrunā ar spēkā esošajiem likumiem, ir obligāti jāievēro visām ārstniecības, izglītības un zinātnes iestādēm neatkarīgi no to darbības veida un pakļautības.
+Katra pilngadīga persona ir tiesīga savas dzīves laikā izteikt gribu aizliegt vai atļaut izmantot savu ķermeni, audus un orgānus pēc nāves, tostarp norādīt to izmantošanas mērķi, izdarot atzīmi vienotajā veselības nozares elektroniskajā informācijas sistēmā (turpmāk - veselības informācijas sistēma).
+Tiesības izteikt gribu aizliegt vai atļaut izmantot nepilngadīgās personas ķermeni, audus un orgānus pēc nāves ir vienam no nepilngadīgās personas likumiskajiem pārstāvjiem, izdarot atzīmi veselības informācijas sistēmā vai izsakot attiecīgo gribu ārstniecības iestādei (audu un orgānu ieguves centram).
+Persona ir tiesīga mainīt savas dzīves laikā izteikto gribu aizliegt vai atļaut izmantot tās ķermeni, audus un orgānus pēc nāves.
+Veselības ministrija izstrādā un bez maksas nodrošina pieejamus informatīvos materiālus par cilvēka ķermeņa, audu un orgānu izmantošanas iespējām un tiesiskajiem aspektiem, kā arī veic regulāras informatīvās kampaņas.

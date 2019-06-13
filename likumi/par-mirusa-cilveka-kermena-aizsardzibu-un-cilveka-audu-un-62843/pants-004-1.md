@@ -7,4 +7,4 @@ Ministru kabinets nosaka:
 2) prasības, kas jāievēro, lai saņemtu audu vai orgānu izmantošanas atļauju, un audu vai orgānu izmantošanas nosacījumus;
 3) audu vai orgānu izmantošanas atļaujas veidlapas paraugu;
 4) audu un orgānu izmantošanas novērtēšanas, uzraudzības un kontroles kārtību.
-Zāļu valsts aģentūra saskaņā ar publisko maksas pakalpojumu cenrādi novērtē ārstniecības iestādes un augstskolas, kura īsteno akreditētu medicīnas studiju programmu, atbilstību prasībām, kas noteiktas audu vai orgānu izmantošanai, kā arī izsniedz audu vai orgānu izmantošanas atļauju un tās dublikātu.
+Zāļu valsts aģentūra saskaņā ar publisko maksas pakalpojumu cenrādi novērtē ārstniecības iestādes un augstskolas, kura īsteno akreditētu medicīnas studiju programmu, atbilstību prasībām, kas noteiktas audu vai orgānu izmantošanai, kā arī izsniedz audu vai orgānu izmantošanas atļauju un tās dublikātu. Zāļu valsts aģentūra lēmumu par atļaujas izsniegšanu vai atteikumu izsniegt atļauju pieņem triju mēnešu laikā no iesnieguma saņemšanas dienas.
