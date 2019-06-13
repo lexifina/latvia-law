@@ -23,14 +23,14 @@ c) pavada kolonnas un apsargā militārās kravas, regulē Nacionālo bruņoto s
 d) gādā par drošību militāro pasākumu norises vietās;
 3¹) regulē transportlīdzekļu kustību to personu pārvietošanās maršrutos, kuru aizsardzību (apsardzi) saskaņā ar šo likumu veic Militārā policija, kā arī citās vietās, ja tas nepieciešams minēto personu aizsardzības (apsardzes) nodrošināšanai;
 4) novērš un pārtrauc noziedzīgus nodarījumus, administratīvos pārkāpumus un citus likumpārkāpumus militārajās vienībās vai to dislokācijas vietās, apsargājamos objektos, apsargājamo personu uzturēšanās vietās un militāro pasākumu norises vietās, atbilstoši kompetencei noskaidro un aiztur likumpārkāpējus;
-5) izmeklē noziedzīgus nodarījumus militārajā dienestā, kā arī noziedzīgus nodarījumus, kuri izdarīti militārajās vienībās vai to dislokācijas vietās vai kurus izdarījis Nacionālo bruņoto spēku personālsastāvs saistībā ar savu dienesta (amata) stāvokli vai dienesta pienākumu izpildi;
+5) veic pirmstiesas izmeklēšanu Kriminālprocesa likumā noteiktās kompetences ietvaros;
 6) atbilstoši kompetencei veic to personu meklēšanu, piespiedu atvešanu vai aizturēšanu, kuras izvairās no izmeklēšanas (piedalīšanās procesuālajās darbībās), tiesas vai soda izpildes vai ir bezvēsts prombūtnē;
 7) nodrošina par noziedzīga nodarījuma izdarīšanu aizturēto personu pavadapsardzību (konvojēšanu) un apsardzi, ja noziedzīga nodarījuma pirmstiesas izmeklēšana ir Militārās policijas kompetencē un aizturētā persona izvesta no īslaicīgās aizturēšanas vietas, lai veiktu kriminālprocesuālās darbības.
 (3) Pildot šā likuma 6.pantā noteiktos uzdevumus, Nacionālie bruņotie spēki sniedz atbalstu:
-1) Drošības policijai - pretterorisma pasākumos, kā arī terorisma draudu novēršanas vai pārvarēšanas pasākumos;
+1) Valsts drošības dienestam - pretterorisma pasākumos, kā arī terorisma draudu novēršanas vai pārvarēšanas pasākumos;
 2) civilās aizsardzības sistēmai - preventīvajos un reaģēšanas pasākumos, neatliekamos ārkārtējo situāciju izraisījušo notikumu seku likvidēšanas pasākumos, kā arī glābšanas un meklēšanas darbos;
 3) Valsts policijai - sabiedriskās kārtības un drošības nodrošināšanā;
 4) Valsts robežsardzei - valsts robežas neaizskaramības nodrošināšanā;
-5) Jaunsardzes un informācijas centram - jaunsargu interešu izglītības programmas īstenošanā;
+5) Jaunsardzes centram - jaunsargu interešu izglītības programmas īstenošanā;
 6) valsts drošības iestādēm - nacionālās drošības pasākumu veikšanā.
 (4) Militārās policijas amatpersonām, pildot dienesta pienākumus, atbilstoši kompetencei ir tiesības Aizsardzības ministrijas valdījumā esošajos objektos, apsargājamos objektos un militāro pasākumu norises vietās, ja ir pamatotas aizdomas, ka persona izdarījusi likumpārkāpumu, normatīvajos aktos noteiktajā kārtībā pārbaudīt šo personu, lai konstatētu, vai tā ir lietojusi alkoholu, narkotiskās, psihotropās vai toksiskās vielas.
