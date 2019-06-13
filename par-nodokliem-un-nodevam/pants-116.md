@@ -1,19 +1,24 @@
 116. pants. Galvenā būvdarbu veicēja pienākumi
-Galvenā būvdarbu veicēja pienākumi ir šādi:
-1) nodrošināt elektronisko darba laika uzskaiti katrā būvlaukumā;
+(1) Galvenā būvdarbu veicēja pienākumi ir šādi:
+1) nodrošināt elektronisko darba laika uzskaiti katrā būvlaukumā atbilstoši šā likuma 113. pantā noteiktajam no brīža, kad būvdarbi uzsākti, līdz brīdim, kad būvdarbu žurnālā veikts ieraksts par būvdarbu pabeigšanu, vai, ja saskaņā ar normatīvajiem aktiem būvdarbu žurnāls nav nepieciešams, līdz brīdim, kad būvdarbi būvlaukumā uzskatāmi par pabeigtiem atbilstoši būvniecību reglamentējošiem normatīvajiem aktiem;
+1¹) izmantot tādu elektroniskās darba laika uzskaites sistēmu, kura atbilst šā likuma prasībām un kurai ir nodrošināta ārējā drošības pārbaude;
 2) informēt apakšuzņēmēju, ka tas tiek piesaistīts būvdarbu līguma izpildei, uz kuru attiecas šīs nodaļas regulējums;
 3) nodrošināt kontroli pār to, lai norobežota būvlaukuma teritorijā neatrastos persona, kurai nav nodrošināta elektroniskās identifikācijas ierīce vai informācijas tehnoloģiju risinājums un par kuru dati nav reģistrēti elektroniskās darba laika uzskaites sistēmā;
 4) nodrošināt, lai būvlaukumā nodarbinātai personai, kas galvenā būvdarbu veicēja būvlaukumā veic darbu būvdarbu līguma izpildei, būtu nodrošināta elektroniskās identifikācijas ierīce vai informācijas tehnoloģiju risinājums elektroniskai darba laika reģistrēšanai elektroniskās darba laika uzskaites sistēmā;
 5) nodrošināt, lai personai, kas uzturas norobežota būvlaukuma teritorijā, bet nav nodarbināta būvdarbu veikšanā būvlaukumā un nav uzskatāma par būvlaukumā nodarbinātu personu, būtu nodrošināta elektroniskās identifikācijas ierīce vai informācijas tehnoloģiju risinājums uzturēšanās laika būvlaukumā reģistrēšanai elektroniskās darba laika uzskaites sistēmā;
 6) nodrošināt kontroli pār to, lai tā darba ņēmēji vai piesaistītās personas, kas būvlaukumā veic darbu būvdarbu līguma izpildei, reģistrētu savu darba laiku elektroniskās darba laika uzskaites sistēmā, izmantojot elektronisko identifikācijas ierīci vai informācijas tehnoloģiju risinājumu;
-7) ne vēlāk kā piecu darbdienu laikā pēc būvdarbu uzsākšanas iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju par trešās grupas būves būvniecības uzsākšanu vai par tādu būvdarbu uzsākšanu, kuru izmaksas ir 1 miljons euro vai vairāk;
-8) iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju (elektronisku datu formā) par noslēgto būvdarbu līgumu ar būvniecības ierosinātāju, norādot šādus datus:
+7) ne vēlāk kā piecu darbdienu laikā pēc būvdarbu uzsākšanas iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju par trešās grupas būves būvniecības uzsākšanu vai par tādu būvdarbu uzsākšanu, kuru izmaksas ir 1 miljons euro vai vairāk, norādot arī informāciju par būvlaukumā izmantoto elektroniskās darba laika uzskaites sistēmu (nosaukumu un sistēmas pārzini). Ne vēlāk kā piecu darbdienu laikā pēc būvdarbu pabeigšanas iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju par būvdarbu pabeigšanu;
+8) iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju (elektronisku datu formā) par noslēgto būvdarbu līgumu ar būvniecības ierosinātāju un, ja mainās līguma summa, šā līguma grozījumiem, norādot šādus datus:
 a) būvniecības ierosinātāja nosaukumu,
 b) būvniecības ierosinātājam piešķirto Latvijas Republikas Uzņēmumu reģistra vienoto reģistrācijas numuru vai personas kodu (ja būvniecības ierosinātājs ir fiziskā persona), vai citu identifikācijas numuru (ja būvniecības ierosinātājs ir ārvalstī reģistrēta juridiskā persona),
 c) līguma datumu,
-d) līguma summu;
-9) katru mēnesi līdz 15. datumam iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju (elektronisku datu formā) par visiem ar saviem apakšuzņēmējiem iepriekšējā mēnesī noslēgtajiem būvdarbu līgumiem, kuru līguma summa ir 15 000 euro vai vairāk, norādot šādus datus:
+d) līguma summu vai, ja ar līguma grozījumiem mainās līguma summa, arī līguma jauno summu;
+9) katru mēnesi līdz 15. datumam iesniegt iekļaušanai vienotajā elektroniskās darba laika uzskaites datubāzē informāciju (elektronisku datu formā) par visiem ar saviem apakšuzņēmējiem iepriekšējā mēnesī noslēgtajiem būvdarbu līgumiem, kuru līguma summa ir 15 000 euro vai vairāk, un, ja mainās līguma summa, šā līguma grozījumiem, norādot šādus datus:
 a) apakšuzņēmēja nosaukumu,
 b) apakšuzņēmējam piešķirto Latvijas Republikas Uzņēmumu reģistra vienoto reģistrācijas numuru vai personas kodu (ja apakšuzņēmējs ir fiziskā persona), vai citu identifikācijas numuru (ja apakšuzņēmējs ir ārvalstī reģistrēta juridiskā persona),
 c) līguma datumu,
-d) līguma summu.
+d) līguma summu vai, ja ar līguma grozījumiem mainās līguma summa, arī līguma jauno summu;
+10) nodrošināt elektroniskās darba laika uzskaites sistēmā reģistrēto datu aizsardzību (datu vai informācijas resursu aizsardzību, kuru īsteno ar programmatūras līdzekļiem, identificējot informācijas sistēmas lietotāju, pārbaudot tā pilnvaru atbilstību attiecīgajām darbībām elektroniskās darba laika uzskaites sistēmā un pasargājot informāciju no tīšas vai nejaušas labošanas, mainīšanas vai dzēšanas);
+11) nodrošināt šā likuma 113. panta pirmajā daļā noteikto datu reģistrāciju un uzskaiti arī par periodu, kad elektroniskās darba laika uzskaites sistēmas darbībā būvlaukumā bijuši tādi traucējumi, kas liedza datu reģistrāciju vai uzskaiti šajā sistēmā;
+12) nodrošināt apakšuzņēmējam elektroniskās darba laika uzskaites sistēmā reģistrēto un uzkrāto datu izgūšanu (skatīšanās režīmā, elektroniski vai papīra formā) par tā darba ņēmējiem vai tā piesaistītajām personām, kuras galvenā būvdarbu veicēja būvlaukumā veic darbu būvdarbu līguma izpildei.
+(2) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 227. punktu)
