@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 21. maija noteikumi Nr.211 \"Noteikumi par ieroču atļaujām un par ieroču izņemšanu un iznīcināšanu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "120 (6459)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-14",
+  "entry_into_force": "2019-06-15",
+  "notification_date": "2019-06-25",
+  "commission_reference": "MNE(2019)54052",
+  "nim_celex": "72017L0853LVA_274584",
+  "nim_id": "274584",
+  "transposes_celex": [
+    "32017L0853"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7a7f624f-3b62-4dbc-9d43-cde7f9063685",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
