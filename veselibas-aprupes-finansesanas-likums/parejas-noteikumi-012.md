@@ -1,0 +1,1 @@
+12. Nacionālais veselības dienests līdz 2019. gada 31. decembrim nodrošina šā likuma 12. panta pirmajā daļā minētās veselības apdrošināšanas iemaksas, kas veikta līdz 2019. gada 1. jūlijam, atmaksāšanu kontā, no kura tā saņemta, ja iemaksa veikta ar pārskaitījumu no bankas norēķinu konta, vai atbilstoši personas iesniegumam, kurā norādīts norēķinu konts.

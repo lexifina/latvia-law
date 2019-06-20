@@ -1,0 +1,1 @@
+13. Ministru kabinets izstrādā un līdz 2020. gada 31. martam iesniedz Saeimai likumprojektu par vienota valsts apmaksāto veselības aprūpes pakalpojumu apjoma un visaptverošas valsts obligātās veselības apdrošināšanas ieviešanu.
