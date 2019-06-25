@@ -4,7 +4,7 @@
 2) zvērinātus advokātus - Latvijas Zvērinātu advokātu padome;
 3) zvērinātus notārus - Latvijas Zvērinātu notāru padome;
 4) zvērinātus revidentus un zvērinātu revidentu komercsabiedrības - Latvijas Zvērinātu revidentu asociācija;
-5) VAS "Latvijas Pasts" - Satiksmes ministrija;
+5) (izslēgts no 25.06.2019. ar 26.10.2017. likumu. Sk. Pārejas noteikumu 28. punktu);
 6) kapitālsabiedrības, kas saņēmušas Latvijas Bankas licenci ārvalstu valūtas skaidrās naudas pirkšanai un pārdošanai, - Latvijas Banka;
 7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
 8) (izslēgts ar 01.12.2009. likumu);
