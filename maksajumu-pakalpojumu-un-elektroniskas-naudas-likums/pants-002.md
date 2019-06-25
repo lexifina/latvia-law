@@ -2,7 +2,7 @@
 (2) Maksājumu pakalpojumus var sniegt:
 1) kredītiestāde;
 2) elektroniskās naudas iestāde;
-3) pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus;
+3) (izslēgts no 25.06.2019. ar 26.10.2017. likumu. Sk. Pārejas noteikumu 26. punktu);
 4) maksājumu iestāde;
 5) Eiropas Centrālā banka, Latvijas Banka vai citas valsts centrālā banka, kad tā veic darbības, kas nav monetārās politikas īstenošanas darbības vai citas publiskas personas darbības;
 6) tiešās pārvaldes iestāde vai atvasināta publiska persona, kad tā veic darbības, kas nav publiskas personas darbības;
@@ -11,7 +11,7 @@
 (2¹) Elektronisko naudu var emitēt:
 1) kredītiestāde;
 2) elektroniskās naudas iestāde;
-3) pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības emitēt elektronisko naudu;
+3) (izslēgts no 25.06.2019. ar 26.10.2017. likumu. Sk. Pārejas noteikumu 26. punktu);
 4) Eiropas Centrālā banka, Latvijas Banka vai citas valsts centrālā banka, kad tā veic darbības, kas nav monetārās politikas īstenošanas darbības vai citas publiskas personas darbības;
 5) tiešās pārvaldes iestāde vai atvasināta publiska persona, kad tā veic darbības, kas nav publiskas personas darbības;
 6) dalībvalstī licencēta elektroniskās naudas iestāde, kas šā likuma 31.pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
