@@ -11,3 +11,4 @@
 9) sniegt informāciju par pasta pakalpojumu rādītājiem šajā likumā noteiktajām institūcijām, kas nodrošina valsts pārvaldi un uzraudzību pasta nozarē;
 10) nodrošināt pasta pakalpojumu lietotāju sūdzību izskatīšanu.
 (2) Par pasta pakalpojumu vai to daļas sniegšanas nodošanu citai personai pasta komersanti var vienoties tikai ar pasta komersantiem, izņemot šā likuma 28.pantā minēto gadījumu.
+(3) Šā likuma 6. panta otrās daļas 4. punktā minētajam izraudzītajam pasta komersantam ir pienākums, izmantojot savu pasta tīklu, nodrošināt Latvijas teritorijā Pasaules Pasta savienības noteikto maksājumu pakalpojumu - skaidras naudas pārvedumu - atbilstoši Pasaules Pasta savienības Nolīgumam par pasta maksājumu pakalpojumiem.

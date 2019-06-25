@@ -33,6 +33,7 @@ Likumā ir lietoti šādi termini:
 30) savākšana - pasta sūtījumu savākšana no sūtītāja pasta pakalpojumu sniegšanas vietā, kā arī citā vietā, ja pasta komersants nodrošina šādu iespēju;
 31) (izslēgts ar 20.06.2018. likumu);
 32) (izslēgts ar 20.06.2018. likumu);
+32¹) skaidras naudas pārvedums - Pasaules Pasta savienības noteikts pasta sūtījums, ar kuru šā likuma 6. panta otrās daļas 4. punktā minētais izraudzītais pasta komersants, izmantojot savu pasta tīklu, saņem no maksātāja pārsūtīšanai skaidras naudas līdzekļus un izmaksā saņēmējam naudas summu skaidrā naudā atbilstoši naudas pārveduma veidlapā norādītajam uzdevumam;
 33) starptautiskais atbildes kupons - Pasaules Pasta savienības izdota pasta apmaksas zīme, kuru var iegādāties pie universālā pasta pakalpojuma sniedzēja, un kuru ikvienā Pasaules Pasta savienības dalībvalstī pieņem apmaiņai pret šīs valsts pastmarkām vērtībā, kas ir pietiekama, lai nosūtītu vienkāršu prioritāru starptautisku vēstuļu korespondences sūtījumu, kura svars nepārsniedz 20 gramu;
 34) sūtītājs - privātpersona vai publiskas personas institūcija, kura uz pasta sūtījuma norādījusi sevi par pasta sūtījuma nosūtītāju;
 35) šķirošana - savākto pasta sūtījumu šķirošana pēc pasta komersanta noteiktajiem parametriem, sagatavojot tos tālākai piegādei adresātiem;
