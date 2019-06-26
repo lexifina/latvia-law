@@ -1,2 +1,3 @@
 16.pants. Visi starptautiskie līgumi un to tulkojumi un atveidojumi latviešu valodā tiek publicēti oficiālajā izdevumā "Latvijas Vēstnesis".
 Ārlietu ministrija veic starptautisko līgumu uzskaiti Oficiālo publikāciju informācijas sistēmā un glabā starptautisko līgumu oriģināleksemplārus vai to apliecinātas kopijas, ja saskaņā ar starptautiskajā līgumā noteikto šā starptautiskā līguma oriģināls tiek glabāts tikai starptautiskā līguma depozitārijā.
+Ārlietu ministrija pastāvīgi glabā to starptautisko līgumu oriģināleksemplārus, kuriem Latvijas Republika pievienojusies vai kurus noslēgusi kopš 1990. gada 4. maija, vai šo līgumu apliecinātas kopijas, nodrošinot to saglabāšanu un izmantošanu.
