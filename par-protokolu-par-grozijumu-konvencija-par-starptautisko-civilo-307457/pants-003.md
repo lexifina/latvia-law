@@ -1,0 +1,1 @@
+3. pants. Protokoli stājas spēkā to 3. panta "d" punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ". Līdz ar likumu izsludināmi Protokoli angļu valodā un to tulkojumi latviešu valodā.

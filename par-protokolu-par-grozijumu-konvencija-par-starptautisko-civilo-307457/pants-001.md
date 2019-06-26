@@ -1,0 +1,1 @@
+1. pants. 2016. gada 6. oktobra Protokols par grozījumu Konvencijā par starptautisko civilo aviāciju (50. panta "a" punkts) un 2016. gada 6. oktobra Protokols par grozījumu Konvencijā par starptautisko civilo aviāciju (56. pants) (turpmāk - Protokoli) ar šo likumu tiek pieņemts un apstiprināts.
