@@ -1,1 +1,0 @@
-Valsts un pašvaldību institūcijas, kā arī privātpersonas nodrošina ģerboņa lietošanas atbilstību šā likuma 7. un 8.panta prasībām viena gada laikā no šā likuma spēkā stāšanās dienas vai izbeidz ģerboņa lietošanu.
