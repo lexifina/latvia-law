@@ -1,2 +1,2 @@
 XI nodaļa
-Kontroles dienesta Konsultatīvā padome
+Finanšu izlūkošanas dienesta Konsultatīvā padome

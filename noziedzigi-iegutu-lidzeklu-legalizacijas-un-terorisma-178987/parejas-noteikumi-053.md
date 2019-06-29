@@ -1,0 +1,1 @@
+53. Ministru kabinets līdz 2021. gada 1. jūlijam iesniedz Saeimai likumprojektu, kas vienādo šā likuma 5.¹ panta otrās daļas un 41. panta otrās daļas nosacījumus informācijas pieejamības nodrošināšanai šā likuma subjektiem no Latvijas Republikas informācijas sistēmām šā likuma prasību izpildei.

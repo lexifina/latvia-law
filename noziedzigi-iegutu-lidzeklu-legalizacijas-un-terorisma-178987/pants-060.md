@@ -13,6 +13,6 @@ h) Latvijas Zvērinātu notāru padome,
 i) Latvijas Zvērinātu advokātu padome,
 j) Augstākā tiesa,
 k) ģenerālprokurors.
-(2) Konsultatīvās padomes sēdes sasauc un vada, kā arī to darba kārtību nosaka Kontroles dienesta priekšnieks.
+(2) Konsultatīvās padomes sēdes sasauc un vada, kā arī to darba kārtību nosaka Finanšu izlūkošanas dienesta priekšnieks.
 (3) Dalībai Konsultatīvās padomes sēdē var pieaicināt ekspertus.
-(4) Konsultatīvās padomes lietvedību nodrošina Kontroles dienests.
+(4) Konsultatīvās padomes lietvedību nodrošina Finanšu izlūkošanas dienests.

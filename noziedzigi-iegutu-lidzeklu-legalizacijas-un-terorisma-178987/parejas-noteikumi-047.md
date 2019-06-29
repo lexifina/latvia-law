@@ -1,0 +1,1 @@
+47. Latvijas Republikas Uzņēmumu reģistra vestajā komercreģistrā reģistrētajiem ārvalsts subjektiem ir pienākums līdz 2021. gada 1. janvārim atklāt to patiesos labuma guvējus. Ja līdz minētajam datumam ārvalsts subjekti informāciju neatklāj, Latvijas Republikas Uzņēmumu reģistrs izslēdz to reģistrētās filiāles no komercreģistra.

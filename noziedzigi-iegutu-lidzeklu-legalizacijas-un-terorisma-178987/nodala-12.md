@@ -1,2 +1,2 @@
 XII nodaļa
-Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas koordinācija
+Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas koordinācija

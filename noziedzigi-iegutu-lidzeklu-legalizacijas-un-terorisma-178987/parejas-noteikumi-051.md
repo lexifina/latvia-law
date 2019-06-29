@@ -1,0 +1,1 @@
+51. Grozījums par šā likuma 25. panta papildināšanu ar sesto daļu ir piemērojams ar 2019. gada 1. novembri. Ministru kabinets šā likuma 25. panta sestajā daļā minētos noteikumus izdod līdz 2019. gada 1. oktobrim.

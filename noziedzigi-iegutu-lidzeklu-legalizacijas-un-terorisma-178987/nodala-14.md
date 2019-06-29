@@ -1,2 +1,2 @@
 XIV nodaļa
-Likuma subjekta un Kontroles dienesta nepamatotas un nelikumīgas rīcības rezultātā nodarītu zaudējumu atlīdzināšana
+Likuma subjekta un Finanšu izlūkošanas dienesta nepamatotas un nelikumīgas rīcības rezultātā nodarītu zaudējumu atlīdzināšana

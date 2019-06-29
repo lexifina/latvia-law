@@ -1,0 +1,1 @@
+39. Grozījumi par šā likuma papildināšanu ar 3.¹ pantu un IV¹ nodaļu, 7. panta pirmās daļas papildināšanu ar 6.¹ punktu un 26. panta sestās daļas izteikšanu jaunā redakcijā stājas spēkā 2019. gada 17. decembrī.
