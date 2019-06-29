@@ -15,6 +15,6 @@
 2) personai, kura kredītiestādei sniedz pakalpojumu, kas saistīts ar:
 a) kredītiestādes darbībai piemītošo un varbūtējo risku identificēšanu, novērtēšanu, pārvaldīšanu un uzraudzību,
 b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievērošanu.
-(9¹) Kredītiestāde ziņas par klientu, viņa kontiem un veiktajiem darījumiem citām personām sniedz, ja to nosaka Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likums.
+(9¹) Kredītiestāde ziņas par klientu, viņa kontiem un veiktajiem darījumiem citām personām sniedz, ja to nosaka Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likums.
 (9²) Kredītiestāde ziņas par klientu, viņa kontiem un veiktajiem darījumiem citām personām sniedz, ja to nosaka Maksājumu pakalpojumu un elektroniskās naudas likums.
 (10) Pirms ziņu sniegšanas šā panta astotajā daļā noteiktajos gadījumos kredītiestāde pārliecinās par attiecīgo ziņu aizsardzību pret izpaušanu.
