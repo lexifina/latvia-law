@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma novēršanas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-28",
+  "entry_into_force": "2019-06-29",
+  "notification_date": "2019-10-22",
+  "commission_reference": "MNE(2019)55908",
+  "nim_celex": "72015L0849LVA_277952",
+  "nim_id": "277952",
+  "transposes_celex": [
+    "32015L0849"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d19b8af3-3c58-4849-9b05-6041828c1afa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
