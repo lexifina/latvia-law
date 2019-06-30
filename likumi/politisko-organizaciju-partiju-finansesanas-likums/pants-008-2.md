@@ -1,5 +1,5 @@
 8.² pants. Vēlēšanu ieņēmumu un izdevumu deklarācija
-(1) Politiskās organizācijas (partijas), kas iesniegušas savus deputātu kandidātu sarakstus Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanām, 30 dienu laikā pēc Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanām Ministru kabineta noteiktajā kārtībā iesniedz Korupcijas novēršanas un apkarošanas birojam attiecīgās politiskās organizācijas (partijas) valdes vai tās pilnvarotas personas parakstītu vēlēšanu ieņēmumu un izdevumu deklarāciju.
+(1) Politiskās organizācijas (partijas), kas iesniegušas savus deputātu kandidātu sarakstus Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanām, 30 dienu laikā pēc Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanām iesniedz Korupcijas novēršanas un apkarošanas birojam attiecīgās politiskās organizācijas (partijas) pārstāvja parakstītu vēlēšanu ieņēmumu un izdevumu deklarāciju, izmantojot Elektronisko datu ievades sistēmu, atbilstoši kārtībai, kuru nosaka Ministru kabinets.
 (2) Vēlēšanu ieņēmumu un izdevumu deklarācijā norādāmi visi ieņēmumi un izdevumi, kas radušies laika posmā no 120.dienas pirms vēlēšanām līdz vēlēšanu dienai, neatkarīgi no datuma, kad izrakstīts darījumu apliecinošs dokuments (rēķins, līgums vai cits dokuments), saņemts vai veikts maksājums par:
 1) reklāmas izvietošanu:
 a) sabiedriskajā televīzijā,

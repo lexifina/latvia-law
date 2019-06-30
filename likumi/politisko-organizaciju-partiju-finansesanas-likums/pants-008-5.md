@@ -1,6 +1,6 @@
 8.⁵ pants. Gada pārskats
 (1) Par katru pārskata gadu politiskā organizācija (partija) sagatavo gada pārskatu saskaņā ar likumu "Par grāmatvedību" un citiem normatīvajiem aktiem.
-(2) Katru gadu ne vēlāk kā līdz 31.martam politiskā organizācija (partija) normatīvajos aktos noteiktajā kārtībā iesniedz Korupcijas novēršanas un apkarošanas birojam gada pārskatu, bet Valsts ieņēmumu dienestam - šā pārskata norakstu.
+(2) Katru gadu ne vēlāk kā līdz 31. martam politiskā organizācija (partija) normatīvajos aktos noteiktajā kārtībā iesniedz Korupcijas novēršanas un apkarošanas birojam gada pārskatu, izmantojot Elektronisko datu ievades sistēmu.
 (2¹) Iesniedzot Korupcijas novēršanas un apkarošanas birojam politiskās organizācijas (partijas) gada pārskatu, tam pievieno sarakstu, kurā norāda:
 1) to biedrību nosaukumu un reģistrācijas numuru, kuru biedrs ir attiecīgā politiskā organizācija (partija);
 2) to nodibinājumu nosaukumu un reģistrācijas numuru, kuru dibinātājs ir attiecīgā politiskā organizācija (partija);
