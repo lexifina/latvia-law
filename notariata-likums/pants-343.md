@@ -1,0 +1,1 @@
+343. No zvērināta notāra atlīdzības samaksas par Latvijā izsniegta publiska dokumenta legalizāciju ar apliecinājumu (apostille) atbrīvo valsts un pašvaldību iestādes, kā arī fiziskās un juridiskās personas saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem.

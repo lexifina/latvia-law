@@ -1,0 +1,2 @@
+342. Par Latvijā izsniegta publiska dokumenta legalizāciju ar apliecinājumu (apostille) zvērināts notārs izdara ierakstu publiski bez maksas tiešsaistē pieejamā reģistrā, kura pārzinis un turētājs ir Latvijas Zvērinātu notāru padome.
+Ministru kabinets nosaka šā panta pirmajā daļā minētā reģistra izveidošanas un uzturēšanas kārtību, tajā iekļaujamo ziņu apjomu, kā arī kārtību un apjomu, kādā ziņas iesniedz reģistrā un izsniedz no tā.

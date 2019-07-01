@@ -1,0 +1,1 @@
+340. Zvērināts notārs legalizē Latvijā izsniegtu publisku dokumentu ar apliecinājumu (apostille) atbilstoši normatīvajiem aktiem par dokumentu legalizāciju. Ja legalizācijai tiek iesniegts notariālais akts vai apliecinājums, to legalizē notārs, kurš nav veicis attiecīgo notariālo darbību.
