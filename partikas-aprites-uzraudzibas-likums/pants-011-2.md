@@ -1,0 +1,2 @@
+11.² pants. (1) Ja pārtikai, kura marķēta ar norādi "Ieteicams līdz..", beidzies minimālais derīguma termiņš, to aizliegts izplatīt, izņemot gadījumus, kad izplatīšana notiek atbilstoši Ministru kabineta noteikumiem.
+(2) Ministru kabinets nosaka produktu grupas, izplatīšanas veidu un kārtību, kā arī laikposmu, kādā pārtiku, kura marķēta ar norādi "Ieteicams līdz..", atļauts izplatīt pēc minimālā derīguma termiņa beigām.
