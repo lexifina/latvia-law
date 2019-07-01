@@ -14,7 +14,7 @@ d) juridisko personu vai juridisku veidojumu dibināšanu, vadību vai darbības
 8) personas, kas sniedz inkasācijas pakalpojumus;
 9) citas juridiskās vai fiziskās personas, kas nodarbojas ar transportlīdzekļu, kultūras pieminekļu, dārgmetālu, dārgakmeņu, to izstrādājumu vai cita veida preču tirdzniecību, kā arī ar starpniecību minētajos darījumos vai cita veida pakalpojumu sniegšanu, ja maksājumu veic skaidrā naudā vai skaidru naudu par šo darījumu iemaksā kredītiestādē pārdevēja kontā 10 000 euro vai lielākā apmērā vai valūtā, kas saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu darījuma veikšanas dienas sākumā ir ekvivalenta 10 000 euro vai pārsniedz šo summu, neatkarīgi no tā, vai šo darījumu veic kā vienu operāciju vai kā vairākas savstarpēji saistītas operācijas;
 10) parāda atgūšanas pakalpojuma sniedzēji;
-11) (punkts stājas spēkā 01.07.2019. un iekļauts likuma redakcijā uz 01.07.2019. Sk. Pārejas noteikumu 17. punktu);
+11) virtuālās valūtas pakalpojuma sniedzēji;
 12) personas, kas darbojas mākslas un antikvāro priekšmetu apritē, tos ievedot Latvijas Republikā vai izvedot no tās, glabājot vai tirgojot, tostarp tādas personas, kas šajā punktā paredzētās darbības veic antikvariātos, izsoļu namos vai ostās, ja darījuma vai vairāku šķietami saistītu darījumu kopējā summa ir 10 000 euro vai lielāka;
 13) (punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 40. punktu).
 (1¹) Šā panta pirmajā daļā noteiktie likuma subjekti saglabā likuma subjekta statusu arī maksātnespējas vai likvidācijas procesa gaitā.
