@@ -1,0 +1,1 @@
+2. Šā likuma 7. pants, kurš nosaka administratīvo atbildību par skaidras naudas deklarēšanas pienākuma neizpildīšanu uz Latvijas Republikas valsts robežas un kompetenci administratīvo pārkāpumu procesā, stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
