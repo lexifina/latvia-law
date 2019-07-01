@@ -1,1 +1,2 @@
-5.pants. Par publisko dokumentu legalizāciju maksājama valsts nodeva. Ministru kabinets nosaka tās apmēru un maksāšanas kārtību.
+5. pants. (1) Par Latvijā izsniegta publiska dokumenta legalizāciju, uz kuru attiecināma 1961. gada 5. oktobra Hāgas konvencijā par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu noteiktā legalizācijas kārtība, maksājama valsts nodeva par notariālo darbību izpildi.
+(2) Par tāda publiska dokumenta legalizāciju, uz kuru nav attiecināma 1961. gada 5. oktobra Hāgas konvencijā par ārvalstu publisko dokumentu legalizācijas prasības atcelšanu noteiktā legalizācijas kārtība, maksājama valsts nodeva par publiska dokumenta legalizāciju. Valsts nodevas apmēru, samaksas kārtību un atbrīvojumus no valsts nodevas nosaka Ministru kabinets.
