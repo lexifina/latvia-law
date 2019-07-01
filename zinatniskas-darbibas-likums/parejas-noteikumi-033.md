@@ -1,0 +1,1 @@
+33. Lai nodrošinātu Latvijas Zinātnes padomes ekspertu tiesību piešķiršanu līdz šā likuma 18. panta astotajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, piemēro Ministru kabineta 2017. gada 12. decembra noteikumus Nr. 724 "Noteikumi par Latvijas Zinātnes padomes ekspertu kvalifikācijas kritērijiem, ekspertu komisiju izveidošanu un to darbības organizēšanu".

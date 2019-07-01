@@ -7,7 +7,8 @@ Latvijas Zinātnes padomes kompetencē ietilpst:
 5) no valsts budžeta finansēto zinātnisko pētījumu rezultātu zinātniska izvērtēšana un apkopošana, rezultātu pieejamības nodrošināšana;
 6) starptautiskās zinātniskās sadarbības organizēšana un veicināšana;
 7) atzinumu sniegšana par licencēšanai vai akreditēšanai iesniegtajām doktora studiju programmām;
-8) Latvijas Zinātnes padomes ekspertu komisiju (turpmāk - ekspertu komisija) izveidošana, to darba kārtības noteikšana un kontrole;
-8¹) augstskolu doktora studiju programmu īstenošanā iesaistīto ekspertu kandidatūru apstiprināšana atbilstoši šā likuma 11.panta trešajā daļā noteiktajam;
+8) Latvijas Zinātnes padomes eksperta tiesību piešķiršana, kā arī Latvijas Zinātnes padomes ekspertu komisiju (turpmāk - ekspertu komisija) izveidošana un to kompetences noteikšana;
+8¹) augstskolu doktorantūras studiju programmu īstenošanā iesaistīto Latvijas Zinātnes padomes ekspertu apstiprināšana atbilstoši šā likuma 11. panta trešajā daļā noteiktajam;
 9) ar tās darbību saistītās informācijas sagatavošana un publicēšana;
-10) zinātniskās pētniecības ētikas kritēriju un diskusiju principu izstrādāšana sadarbībā ar Latvijas Zinātņu akadēmiju.
+10) zinātniskās pētniecības ētikas kritēriju un diskusiju principu izstrādāšana sadarbībā ar Latvijas Zinātņu akadēmiju;
+11) ziņu ievade, apstrāde un aktualizēšana Latvijas Zinātnes padomes ekspertu datubāzē.

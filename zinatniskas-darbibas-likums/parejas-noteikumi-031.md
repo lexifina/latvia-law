@@ -1,0 +1,1 @@
+31. Latvijas Zinātnes padomes ekspertu komisijas, kas uzsākušas darbību līdz 2019. gada 30. jūnijam, turpina darboties arī pēc 2019. gada 30. jūnija līdz jaunu ekspertu komisiju izveidošanai, bet ne ilgāk kā līdz 2019. gada 15. oktobrim.

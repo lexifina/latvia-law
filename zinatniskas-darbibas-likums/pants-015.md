@@ -3,7 +3,7 @@
 1) Latvijas Zinātņu akadēmijas - pieci;
 2) Valsts zinātnisko institūtu apvienības - viens;
 3) Rektoru padomes - viens;
-4) Latvijas Zinātnes padomes ekspertu komisijām - pieci;
+4) katras Latvijas Zinātnes padomes ekspertu komisijas - viens;
 5) Latvijas Zinātnieku savienības - viens;
 6) Latvijas Jauno zinātnieku apvienības - viens (jaunais zinātnieks);
 7) Ministru prezidenta izvirzīts pārstāvis - viens;
