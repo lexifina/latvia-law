@@ -1,4 +1,4 @@
 25.pants. Grūtniecības pārtraukšana pēc sievietes vēlēšanās
 (1) Grūtniecības pārtraukšana pēc sievietes vēlēšanās ir grūtniecības mākslīga pārtraukšana pēc sievietes lūguma līdz grūtniecības 12.nedēļai.
-(2) Norīkojumu uz grūtniecības pārtraukšanu pēc sievietes vēlēšanās izsniedz ginekologs (dzemdību speciālists) vai ģimenes ārsts, vienlaikus informējot sievieti par grūtniecības pārtraukšanas būtību, iespējamiem medicīniskajiem sarežģījumiem, kā arī par iespēju saglabāt topošajam bērnam dzīvību.
+(2) Norīkojumu uz grūtniecības pārtraukšanu pēc sievietes vēlēšanās izsniedz ginekologs (dzemdību speciālists) vai ģimenes ārsts, vienlaikus informējot sievieti par grūtniecības pārtraukšanas būtību, iespējamiem medicīniskajiem sarežģījumiem, kā arī par iespēju saglabāt topošajam bērnam dzīvību un saņemt šā likuma 5. panta piektajā daļā noteikto konsultāciju
 (3) Grūtniecības pārtraukšanu ginekologs (dzemdību speciālists) drīkst veikt ārstniecības iestādes stacionārā nodaļā ne agrāk kā 72 stundas pēc grūtniecības pārtraukšanas norīkojuma izsniegšanas, pirms tam atkārtoti informējot sievieti par grūtniecības pārtraukšanas gadījumā iespējamiem sarežģījumiem.
