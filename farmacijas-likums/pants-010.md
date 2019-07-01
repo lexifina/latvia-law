@@ -25,4 +25,5 @@ d) (izslēgts ar 28.10.2010. likumu);
 15) veic audu, šūnu un orgānu ieguves un uzglabāšanas centru, ārstniecības iestāžu asins kabinetu, asins sagatavošanas nodaļu un Valsts asinsdonoru centra atbilstības novērtēšanu un uzraudzību;
 16) izvērtē iesniegumus, kas iesniegti, lai saņemtu speciālo atļauju (licenci) vispārēja tipa aptiekas darbībai vai slēgta tipa aptiekas darbībai, ar apliecinājumu par telpu, aprīkojuma, personāla un dokumentācijas atbilstību normatīvajos aktos par aptieku darbību un zāļu izplatīšanu noteiktajām prasībām un izsniedz speciālās atļaujas (licences) vispārēja tipa aptiekas darbībai vai slēgta tipa aptiekas darbībai;
 17) izvērtē iesniegumus, kas iesniegti, lai reģistrētu aktīvo vielu ražotājus, importētājus un izplatītājus, un reģistrē tos normatīvajos aktos par ražotāju, aktīvo vielu importētāju un izplatītāju reģistrēšanu noteiktajā kārtībā;
-18) veic farmakovigilances funkcijas, tajā skaitā zāļu lietošanas izraisīto blakusparādību uzraudzību, veido un uztur datubāzi saistībā ar zāļu lietošanas drošuma uzraudzību.
+18) veic farmakovigilances funkcijas, tajā skaitā zāļu lietošanas izraisīto blakusparādību uzraudzību, veido un uztur datubāzi saistībā ar zāļu lietošanas drošuma uzraudzību;
+19) veic no valsts budžeta līdzekļiem apmaksāto medicīnisko tehnoloģiju ekonomisko novērtēšanu.

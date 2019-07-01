@@ -1,7 +1,7 @@
 64.pants. (1) Zāļu valsts aģentūra, Nacionālais veselības dienests, Veselības inspekcija un Pārtikas un veterinārais dienests, veicot normatīvajos aktos noteiktās funkcijas, pieņem lēmumu Administratīvā procesa likumā noteiktajā kārtībā un termiņā, ciktāl šis likums nenosaka citādi.
 (2) Nacionālais veselības dienests:
 1) iesniegumu par zāļu un medicīnisko ierīču kompensācijas bāzes cenas samazināšanu izskata un lēmumu pieņem ne vēlāk kā 90 dienu laikā;
-2) iesniegumu par zāļu un medicīnisko ierīču iekļaušanu ambulatorajai ārstniecībai paredzēto kompensējamo zāļu sarakstā izskata un lēmumu pieņem ne vēlāk kā 180 dienu laikā.
+2) iesniegumu par zāļu un medicīnisko ierīču iekļaušanu ambulatorajai ārstniecībai paredzēto kompensējamo zāļu sarakstā izskata un lēmumu pieņem ne vēlāk kā 60 dienu laikā.
 (2¹) Zāļu valsts aģentūra iesniegumu par zāļu klīniskās izpētes uzsākšanu izskata un lēmumu pieņem ne vēlāk kā 60 dienu laikā.
 (2²) Zāļu valsts aģentūra reģistrācijas veidlapu un tai pievienotos dokumentus izskata un lēmumu par pārbaudes veikšanu vai aktīvo vielu ražotāja, importētāja vai izplatītāja reģistrēšanu pieņem ne vēlāk kā 60 dienu laikā.
 (3) Zāļu valsts aģentūras, Nacionālā veselības dienesta un Veselības inspekcijas pieņemtos lēmumus var apstrīdēt Veselības ministrijā, bet Pārtikas un veterinārā dienesta pieņemtos lēmumus - Zemkopības ministrijā.
