@@ -1,7 +1,7 @@
 2.pants. Likuma mērķis, darbības joma un principi
 (1) Šā likuma mērķis ir aizsargāt sabiedrības veselību, tostarp cilvēku tiesības dzīvot tīrā un labvēlīgā, ar smēķēšanai paredzētu tabakas izstrādājumu un augu smēķēšanas produktu dūmiem, kā arī ar elektronisko smēķēšanas ierīču tvaiku nepiesārņotā vidē.
 (2) Šis likums paredz:
-1) nosacījumus tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to uzpildes tvertņu laišanai tirgū, kā arī tabakas izstrādājumu, elektronisko cigarešu un uzpildes flakonu reklāmas, sponsorēšanas un iepakojuma noformējuma nosacījumus;
+1) nosacījumus tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to uzpildes tvertņu laišanai tirgū, kā arī tabakas izstrādājumu, elektronisko smēķēšanas ierīču un uzpildes tvertņu reklāmas, sponsorēšanas un iepakojuma noformējuma nosacījumus;
 2) pienākumu ražotājiem un importētājiem sniegt informāciju par tabakas izstrādājumiem, augu smēķēšanas produktiem, elektroniskajām cigaretēm, uzpildes flakoniem un jaunieviestiem tabakas izstrādājumiem;
 3) smēķēšanas ierobežojumus publiskās un citās šajā likumā noteiktajās vietās;
 4) kārtību, kādā tiek kontrolēta tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to uzpildes tvertņu aprite un smēķēšanas ierobežojumi publiskās un citās šajā likumā noteiktajās vietās.

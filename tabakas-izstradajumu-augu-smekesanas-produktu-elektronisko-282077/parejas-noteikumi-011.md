@@ -1,0 +1,1 @@
+11. Līdz 2020. gada 1. janvārim atļauts laist tirgū arī tādas elektroniskās ierīces un elektronisko ierīču tilpnes, kuras neatbilst šā likuma prasībām, ja attiecīgās elektroniskās ierīces un elektronisko ierīču tilpnes ir ražotas vai laistas brīvā apgrozībā līdz 2018. gada 31. decembrim.

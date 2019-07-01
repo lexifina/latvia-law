@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2020. gada 1. septembrim izdod šā likuma 3. panta piektās daļas 7. punktā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2020. gada 31. augustam ir piemērojami Ministru kabineta 2016. gada 14. jūnija noteikumi Nr. 372 "Elektronisko cigarešu uzpildes mehānisma tehniskie standarti", ciktāl tie nav pretrunā ar šo likumu.
