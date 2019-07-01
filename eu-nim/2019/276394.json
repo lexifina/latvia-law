@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 30. maija likums \"Grozījumi Pievienotās vērtības nodokļa likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118(6457)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-06-12",
+  "entry_into_force": "2019-07-01",
+  "notification_date": "2019-08-12",
+  "commission_reference": "MNE(2019)54888",
+  "nim_celex": "72006L0112LVA_276394",
+  "nim_id": "276394",
+  "transposes_celex": [
+    "32006L0112"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/aa294cfb-d375-473b-946c-ceca10ed230f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
