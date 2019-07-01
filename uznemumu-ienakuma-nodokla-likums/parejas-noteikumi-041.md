@@ -1,0 +1,1 @@
+41. Grozījums šā likuma 16. panta pirmajā daļā un 17. panta septītajā daļā attiecībā uz vienotā nodokļa konta ieviešanu un grozījums par 17. panta trīspadsmitās, četrpadsmitās, piecpadsmitās un sešpadsmitās daļas izslēgšanu stājas spēkā 2021. gada 1. janvārī.

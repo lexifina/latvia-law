@@ -1,1 +1,1 @@
-38. Ministru kabinets līdz 2019. gada 30. novembrim izvērtē šā likuma normu ietekmi uz sabiedriskā labuma organizāciju saņemtajiem ziedojumiem un negatīvas ietekmes gadījumā kopā ar sabiedriskā labuma organizāciju nozaru asociācijām izstrādā priekšlikumus par nepieciešamajiem grozījumiem.
+38. Ministru kabinets līdz 2021. gada 30. novembrim izvērtē šā likuma normu ietekmi uz sabiedriskā labuma organizāciju saņemtajiem ziedojumiem un negatīvas ietekmes gadījumā kopā ar sabiedriskā labuma organizāciju nozaru asociācijām izstrādā priekšlikumus par nepieciešamajiem grozījumiem.
