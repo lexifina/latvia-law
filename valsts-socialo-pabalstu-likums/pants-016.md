@@ -1,5 +1,5 @@
 16.pants. Valsts sociālo pabalstu piešķiršana
-(1) Šā likuma 6., 7., 7.¹, 8. un 8.¹ pantā noteiktos pabalstus par bērnu Ministru kabineta noteiktajā kārtībā piešķir vienam no bērna vecākiem.
+(1) Šā likuma 6., 7., 7.¹, 8., 8.¹ un 8.² pantā noteiktos pabalstus par bērnu Ministru kabineta noteiktajā kārtībā piešķir vienam no bērna vecākiem.
 (2) Aizbildnim šā likuma 6., 7., 7.¹ un 8.pantā noteiktos pabalstus piešķir, ja:
 1) bērna vecākiem ir pārtrauktas vai atņemtas bērna aizgādības tiesības;
 2) bērna vecāki ir miruši vai atrodas bezvēsts prombūtnē;

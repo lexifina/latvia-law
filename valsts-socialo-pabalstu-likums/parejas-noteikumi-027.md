@@ -1,0 +1,1 @@
+27. Ja tiesas spriedums par adopcijas apstiprināšanu stājies spēkā līdz 2019. gada 30. jūnijam, bērna adopcijas pabalstu vienam no adoptētājiem piešķir līdz laikam, kad no ārpusģimenes aprūpes adoptētais bērns sasniedz 18 gadu vecumu.

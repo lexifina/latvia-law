@@ -1,0 +1,1 @@
+29. Šā likuma 12.¹ pantā minēto pabalstu par periodu no 2019. gada 1. jūlija šā panta pirmās daļas 2. punktā minētajām personām Valsts sociālās apdrošināšanas aģentūra pārrēķina un pabalsta starpību izmaksā līdz 2019. gada 1. septembrim.
