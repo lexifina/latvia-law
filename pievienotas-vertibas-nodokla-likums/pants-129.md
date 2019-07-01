@@ -8,5 +8,5 @@
 (7) Ja reģistrēta nodokļa maksātāja īpašumu pārdod likvidators, administrators vai tiesu izpildītājs, tas izraksta nodokļa rēķinu reģistrēta nodokļa maksātāja vārdā.
 (8) Ja fiziskā persona - reģistrēts nodokļa maksātājs - ir mirusi, bet mantinieks vai tiesas iecelts aizgādnis turpina saimniecisko darbību mantojuma atstājēja vietā, tas izraksta nodokļa rēķinus savā vārdā un izmanto mantojuma atstājēja reģistrētā nodokļa maksātāja reģistrācijas numuru līdz brīdim, kad stājas spēkā likumīgo mantinieku mantojuma tiesības.
 (9) Ja darījumu veic nepārtraukti ilgstošā periodā saskaņā ar šā likuma 31.panta otro vai trešo daļu, 32.panta trešo vai ceturto daļu, nodokļa rēķinu izraksta par noteiktu periodu, kurš nav ilgāks attiecīgi par vienu mēnesi, sešiem mēnešiem vai vienu kalendāra gadu.
-(10) Reģistrēts nodokļa maksātājs, kurš veic preču piegādes vai sniedz pakalpojumus par fiksētu cenu [piemēram, dāvanu kartes, sarunu priekšapmaksas kartes, braukšanas biļetes (talonus), mēnešbiļetes, biļetes uz sporta un kultūras pasākumiem], atsevišķu nodokļa rēķinu neizraksta.
+(10) Reģistrēts nodokļa maksātājs, kurš veic preču piegādes vai sniedz pakalpojumus par fiksētu cenu [piemēram, braukšanas biļetes (talonus), mēnešbiļetes, biļetes uz sporta un kultūras pasākumiem], atsevišķu nodokļa rēķinu neizraksta.
 (11) Nodokļa rēķina izrakstīšanas kārtību nosaka Ministru kabinets.

@@ -13,4 +13,7 @@
 12) Padomes 2010.gada 7.decembra direktīvas 2010/88/ES, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz minimālās pamatlikmes ievērošanas pienākuma ilgumu;
 13) Padomes 2010.gada 13.jūlija direktīvas 2010/45/ES, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz rēķinu piesūtīšanas noteikumiem;
 14) Padomes 2013.gada 17.decembra direktīvas 2013/61/ES, ar ko direktīvu 2006/112/EK un direktīvu 2008/118/EK groza attiecībā uz Francijas tālākajiem reģioniem un īpaši Majotu;
-15) Padomes 2016. gada 25. maija direktīvas (ES) 2016/856, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz minimālās pamatlikmes ievērošanas pienākuma ilgumu.
+15) Padomes 2016. gada 25. maija direktīvas (ES) 2016/856, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz minimālās pamatlikmes ievērošanas pienākuma ilgumu;
+16) Padomes 2016. gada 27. jūnija direktīvas (ES) 2016/1065, ar ko attiecībā uz vaučeriem piemērojamo režīmu groza direktīvu 2006/112/EK;
+17) Padomes 2017. gada 5. decembra direktīvas (ES) 2017/2455, ar ko groza direktīvu 2006/112/EK un direktīvu 2009/132/EK attiecībā uz konkrētām pievienotās vērtības nodokļa saistībām pakalpojumu sniegšanā un preču tālpārdošanā;
+18) Padomes 2018. gada 22. jūnija direktīvas (ES) 2018/912, ar ko attiecībā uz minimālās pamatlikmes ievērošanas pienākumu groza direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu.

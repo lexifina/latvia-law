@@ -1,5 +1,6 @@
-37.pants. Ar nodokli apliekamā vērtība darījumos ar nekustamo īpašumu
+37. pants. Ar nodokli apliekamā vērtība darījumos ar nekustamo īpašumu un darījumos par apbūves tiesības piešķiršanu
 (1) Ar nodokli apliekamā vērtība preču - nelietota nekustamā īpašuma un apbūves zemes - piegādes darījumā ir atlīdzība par piegādāto nekustamo īpašumu.
+(1¹) Ar nodokli apliekamā vērtība darījumos par apbūves tiesību ir par apbūves tiesību maksājamā atlīdzība.
 (2) Ja tiek pārdots šā likuma 1.panta 12.punkta "c", "d" vai "f" apakšpunktā minētais nelietotais nekustamais īpašums, ar nodokli ir apliekama starpība starp ēkas vai būves pārdošanas vērtību un šīs ēkas vai būves vērtību pirms atjaunošanas, pārbūves vai restaurācijas darbu uzsākšanas.
 (3) Ja noslēgts nomaksas pirkuma līgums par nekustamā īpašuma piegādi, bet līguma nosacījumi netiek izpildīti un tādēļ nekustamais īpašums paliek piegādātāja īpašumā, nodokli piemēro kā nomas darījumam un attiecina uz visiem iepriekš veiktajiem nomaksas pirkuma maksājumiem (izņemot kredītprocentus). Šī norma nav piemērojama dzīvojamo telpu nomaksas pirkuma darījumiem, ja dzīvojamā telpa nav izmantota saimnieciskajai darbībai.
 (4) Ja tiek pārdots nekustamais īpašums, kura sastāvā ir tādas ēkas, būves vai telpu grupas, kas ir kadastra objekts un kas atbilst nelietota nekustamā īpašuma statusam, tad ar nodokli ir apliekama atlīdzības daļa, ko aprēķina proporcionāli nelietota nekustamā īpašuma daļai pret visu nekustamo īpašumu.

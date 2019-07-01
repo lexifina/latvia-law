@@ -6,7 +6,7 @@
 4) aprēķinātā nodokļa summa, kas reģistrētam nodokļa maksātājam taksācijas periodā jāmaksā kā pakalpojuma saņēmējam;
 5) aprēķinātā nodokļa summa par preču iegādi Eiropas Savienības teritorijā;
 6) aprēķinātā nodokļa summa par precēm, kas iegādātas saskaņā ar šā likuma 141., 142., 143., 143.¹, 143.², 143.³, 143.⁴ un 143.⁵ pantu;
-7) aprēķinātā nodokļa summa par pakalpojumiem, kas saņemti saskaņā ar šā likuma 141., 142., 143. un 143.⁴ pantu;
+7) aprēķinātā nodokļa summa par pakalpojumiem, kas saņemti saskaņā ar šā likuma 141., 142. un 143. pantu;
 8) aprēķinātā vai samaksātā nodokļa summas par iegādātajām precēm, kas izsniegtas kā mazas vērtības dāvanas vai preču paraugi.
 (2) Priekšnodoklis ir arī tās šā panta pirmajā daļā noteiktās nodokļa summas par iegādātajām precēm un saņemtajiem pakalpojumiem tādu pakalpojumu nodrošināšanai, kuri minēti:
 1) šā likuma 52.panta pirmās daļas 20. un 21.punktā, ja pakalpojumu saņēmējs ir trešās valsts vai trešās teritorijas persona;

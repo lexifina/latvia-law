@@ -1,0 +1,1 @@
+31. Grozījumi attiecībā uz šā likuma 1. panta papildināšanu ar 31., 32. un 33. punktu, šā likuma papildināšanu ar 11.¹ un 37.¹ pantu, kā arī 124. panta papildināšanu ar 3.¹ un 3.² daļu piemērojami vaučeriem, kas izsniegti, sākot ar 2019. gada 1. jūliju.

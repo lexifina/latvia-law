@@ -1,11 +1,6 @@
-143.⁴ pants. Īpašs nodokļa piemērošanas režīms metālizstrādājumu piegādei un ar to saistītiem pakalpojumiem
-(1) Nodokli par Ministru kabineta noteikto metālizstrādājumu piegādi, kas veikta iekšzemē, valsts budžetā maksā metālizstrādājumu saņēmējs, ja metālizstrādājumu piegādātājs un metālizstrādājumu saņēmējs ir reģistrēti nodokļa maksātāji.
-(2) Nodokli par Ministru kabineta noteiktajiem ar metālizstrādājumu piegādi saistītajiem pakalpojumiem, kas sniegti iekšzemē, valsts budžetā maksā pakalpojumu saņēmējs, ja pakalpojumu sniedzējs un pakalpojumu saņēmējs ir reģistrēti nodokļa maksātāji.
-(3) Metālizstrādājumu piegādātājs izraksta metālizstrādājumu saņēmējam nodokļa rēķinu, kurā piegādāto metālizstrādājumu vērtību norāda bez nodokļa.
-(4) Metālizstrādājumu saņēmējs samaksā metālizstrādājumu piegādātājam nodokļa rēķinā norādīto metālizstrādājumu vērtību.
-(5) Ar metālizstrādājumu piegādi saistīta pakalpojuma sniedzējs izraksta pakalpojuma saņēmējam nodokļa rēķinu, kurā sniegtā pakalpojuma vērtību norāda bez nodokļa.
-(6) Ar metālizstrādājumu piegādi saistīta pakalpojuma saņēmējs samaksā pakalpojuma sniedzējam nodokļa rēķinā norādīto pakalpojuma vērtību.
-(7) Metālizstrādājumu saņēmējs par saņemtajām precēm un ar metālizstrādājumu piegādi saistīto pakalpojumu saņēmējs par saņemtajiem pakalpojumiem maksā, izmantojot bezskaidras naudas norēķinus.
-(8) Ministru kabinets nosaka:
-1) to preču piegādes, kuras uzskata par metālizstrādājumiem atbilstoši Kombinētās nomenklatūras kodiem, kas noteikti Padomes 1987. gada 23. jūlija regulas (EEK) Nr. 2658/87 par tarifu un statistikas nomenklatūru un kopējo muitas tarifu I pielikumā un tās grozījumos;
-2) ar metālizstrādājumu piegādi saistītos pakalpojumus.
+143.⁴ pants. Īpašs nodokļa piemērošanas režīms melno un krāsaino metālu pusfabrikātu piegādēm
+(1) Nodokli par Ministru kabineta noteikto melno un krāsaino metālu pusfabrikātu piegādi, kas veikta iekšzemē, valsts budžetā maksā melno un krāsaino metālu pusfabrikātu saņēmējs, ja melno un krāsaino metālu pusfabrikātu piegādātājs un melno un krāsaino metālu pusfabrikātu saņēmējs ir reģistrēti nodokļa maksātāji.
+(2) Melno un krāsaino metālu pusfabrikātu piegādātājs izraksta melno un krāsaino metālu pusfabrikātu saņēmējam nodokļa rēķinu, kurā piegādāto melno un krāsaino metālu pusfabrikātu vērtību norāda bez nodokļa.
+(3) Melno un krāsaino metālu pusfabrikātu saņēmējs samaksā melno un krāsaino metālu pusfabrikātu piegādātājam nodokļa rēķinā norādīto melno un krāsaino metālu pusfabrikātu vērtību.
+(4) Melno un krāsaino metālu pusfabrikātu saņēmējs par saņemtajām precēm maksā, izmantojot bezskaidras naudas norēķinus.
+(5) Ministru kabinets nosaka to preču piegādes, kuras uzskata par melno un krāsaino metālu pusfabrikātiem atbilstoši Kombinētās nomenklatūras kodiem, kas noteikti Padomes 1987. gada 23. jūlija regulas (EEK) Nr. 2658/87 par tarifu un statistikas nomenklatūru un kopējo muitas tarifu I pielikumā un tās grozījumos.

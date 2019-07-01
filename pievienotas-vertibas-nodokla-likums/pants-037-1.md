@@ -1,0 +1,2 @@
+37.¹ pants. Ar nodokli apliekamā vērtība darījumos, kuros izmanto vairāku mērķu vaučeru
+Ar nodokli apliekamā vērtība par precēm, kas piegādātas, vai pakalpojumiem, kas sniegti, attiecībā uz vairāku mērķu vaučeru ir vienāda ar atlīdzību, kas ir samaksāta par šo vaučeru, vai, ja informācija par minēto atlīdzību nav pieejama, - naudas vērtību, kas norādīta šajā vairāku mērķu vaučerā vai ar to saistītajos dokumentos, atskaitot nodokļa summu attiecībā uz piegādātajām precēm vai sniegtajiem pakalpojumiem.
