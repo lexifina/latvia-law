@@ -6,4 +6,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Eiropas Parlamenta un Padomes 2008.gada 17.jūnija direktīvas 2008/57/EK par dzelzceļa sistēmas savstarpēju izmantojamību Kopienā;
 6) Eiropas Parlamenta un Padomes 2008.gada 16.decembra direktīvas 2008/110/EK, ar ko groza direktīvu 2004/49/EK par drošību Kopienas dzelzceļos (Dzelzceļu drošības direktīva);
 7) Komisijas 2009.gada 27.novembra direktīvas 2009/149/EK par Eiropas Parlamenta un Padomes direktīvas 2004/49/EK grozījumiem attiecībā uz kopīgiem drošības indikatoriem un vienotām metodēm nelaimes gadījumos radušos zaudējumu aprēķināšanai;
-8) Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/34/ES, ar ko izveido vienotu Eiropas dzelzceļa telpu.
+8) Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/34/ES, ar ko izveido vienotu Eiropas dzelzceļa telpu;
+9) Eiropas Parlamenta un Padomes 2016. gada 14. decembra direktīvas (ES) 2016/2370, ar ko Eiropas Parlamenta un Padomes direktīvu 2012/34/ES groza attiecībā uz iekšzemes dzelzceļa pasažieru pārvadājumu tirgus atvēršanu un dzelzceļa infrastruktūras pārvaldību.
