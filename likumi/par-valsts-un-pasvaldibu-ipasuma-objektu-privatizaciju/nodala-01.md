@@ -1,2 +1,2 @@
 1. nodaļa
-Privatizācijas aģentūra
+Valsts īpašumu privatizāciju veicošā institūcija

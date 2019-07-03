@@ -1,1 +1,1 @@
-14. Ministru kabinets līdz 2009.gada 1.augustam nodrošina grozījumu izdarīšanu Privatizācijas aģentūras statūtos atbilstoši šā likuma 9.panta prasībām par to, ka Privatizācijas aģentūrā netiek veidota padome.
+14. Ministru kabinets līdz 2009.gada 1.augustam nodrošina grozījumu izdarīšanu valsts īpašumu privatizāciju veicošās institūcijas statūtos atbilstoši šā likuma 9.panta prasībām par to, ka valsts īpašumu privatizāciju veicošajā institūcijā netiek veidota padome.

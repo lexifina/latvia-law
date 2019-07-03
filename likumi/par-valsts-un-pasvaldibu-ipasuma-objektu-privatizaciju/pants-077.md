@@ -21,7 +21,7 @@
 19) zemesgabala izmantošanas nosacījumi;
 20) citi nosacījumi, kas jāpilda pircējam;
 21) īpašuma tiesību iegūšana un pāreja;
-22) Privatizācijas aģentūras vai pašvaldības pirmpirkuma un atpakaļpirkuma tiesības.
-2. Privatizācijas aģentūra vai pašvaldība ir tiesīga zemesgabala privatizācijas noteikumos ietvert arī citu informāciju.
+22) valsts īpašumu privatizāciju veicošās institūcijas vai pašvaldības pirmpirkuma un atpakaļpirkuma tiesības.
+2. Valsts īpašumu privatizāciju veicošā institūcija vai pašvaldība ir tiesīga zemesgabala privatizācijas noteikumos ietvert arī citu informāciju.
 3. Privatizācijas noteikumiem jāpievieno zemesgabala īpašuma tiesības apliecinošu dokumentu noraksti.
 4. (Izslēgta ar 22.06.2005. likumu.)

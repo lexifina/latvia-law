@@ -1,1 +1,1 @@
-17. Privatizācijas aģentūras statūti, kurus apstiprinājis Ministru kabinets un kuri ir spēkā 2012.gada 31.jūlijā, paliek spēkā līdz brīdim, kad jauno statūtu redakciju apstiprina Privatizācijas aģentūras kapitāla daļu turētājs.
+17. Valsts īpašumu privatizāciju veicošās institūcijas statūti, kurus apstiprinājis Ministru kabinets un kuri ir spēkā 2012.gada 31.jūlijā, paliek spēkā līdz brīdim, kad jauno statūtu redakciju apstiprina valsts īpašumu privatizāciju veicošās institūcijas kapitāla daļu turētājs.

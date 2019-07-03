@@ -20,6 +20,6 @@
 18) vides aizsardzības nosacījumi;
 19) citi noteikumi un garantijas, kas nepieciešamas objekta privatizācijai.
 2. Privatizācijas noteikumiem jāpievieno objekta īpašuma tiesības apliecinošu dokumentu noraksti.
-3. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies izsoli ar pretendentu atlasi, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī izsoles pretendentu atlases noteikumi.
-4. Ja Privatizācijas aģentūra par privatizācijas paņēmienu izvēlējusies piedāvājumu konkursu, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī privatizējamā objekta piedāvājumu konkursa noteikumi.
-5. Apstiprinot valsts kapitālsabiedrības privatizācijas noteikumus, Privatizācijas aģentūrai jāuzaicina privatizējamā kapitālsabiedrības darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā kapitālsabiedrībā nav arodu organizācijas, - privatizējamā kapitālsabiedrības darbinieku pārstāvis.
+3. Ja valsts īpašumu privatizāciju veicošā institūcija par privatizācijas paņēmienu izvēlējusies izsoli ar pretendentu atlasi, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī izsoles pretendentu atlases noteikumi.
+4. Ja valsts īpašumu privatizāciju veicošā institūcija par privatizācijas paņēmienu izvēlējusies piedāvājumu konkursu, valsts īpašuma objekta privatizācijas noteikumi vienlaikus ir arī privatizējamā objekta piedāvājumu konkursa noteikumi.
+5. Apstiprinot valsts kapitālsabiedrības privatizācijas noteikumus, valsts īpašumu privatizāciju veicošajai institūcijai jāuzaicina privatizējamā kapitālsabiedrības darbinieku arodu organizācijas pārstāvis, bet, ja privatizējamā kapitālsabiedrībā nav arodu organizācijas, - privatizējamā kapitālsabiedrības darbinieku pārstāvis.

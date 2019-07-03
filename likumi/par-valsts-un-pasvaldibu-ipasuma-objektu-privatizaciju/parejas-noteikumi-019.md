@@ -1,0 +1,1 @@
+19. Ministru kabinets šā likuma 5. panta pirmajā daļā minēto lēmumu par valsts īpašumu privatizāciju veicošo institūciju pieņem ne vēlāk kā līdz 2019. gada 30. novembrim. Līdz Ministru kabineta lēmuma pieņemšanas dienai valsts īpašumu privatizāciju veicošās institūcijas uzdevumus pilda valsts akciju sabiedrība "Privatizācijas aģentūra".

@@ -1,8 +1,3 @@
-9. pants. Privatizācijas aģentūras darbības pārraudzība
-1. (Izslēgta ar 16.06.2009. likumu)
-2. (Izslēgta ar 16.06.2009. likumu)
-3. (Izslēgta ar 16.06.2009. likumu)
-4. Privatizācijas aģentūras akciju turētājs ir Ekonomikas ministrija.
-5. Valsts īpašuma privatizāciju pārrauga ekonomikas ministrs, kurš ir arī Privatizācijas aģentūras akciju turētāja pārstāvis.
-6. (Izslēgta ar 21.06.2012. likumu)
-7. Likumā noteiktajā kārtībā Privatizācijas aģentūras darbību pārrauga arī citas valsts institūcijas.
+9. pants. Valsts īpašumu privatizāciju veicošās institūcijas darbības pārraudzība
+1. Valsts īpašumu privatizāciju veicošā institūcija atrodas Ekonomikas ministrijas funkcionālajā pārraudzībā.
+2. Valsts īpašumu privatizāciju veicošās institūcijas faktisko rīcību un pieņemtos administratīvos aktus privātpersona var pārsūdzēt tiesā.

@@ -1,6 +1,6 @@
 65. pants. Zemesgabala privatizācijas ierosināšana
-1. Apbūvēta zemesgabala privatizāciju, kuru saskaņā ar šā likuma 59.pantu veic Privatizācijas aģentūra vai pašvaldība, var ierosināt šā īpašuma objekta īpašnieks.
+1. Apbūvēta zemesgabala privatizāciju, kuru saskaņā ar šā likuma 59.pantu veic valsts īpašumu privatizāciju veicošā institūcija vai pašvaldība, var ierosināt šā īpašuma objekta īpašnieks.
 2. Valstij piederoša neapbūvēta zemesgabala privatizāciju ierosina šā likuma 12.pantā noteiktajā kārtībā, bet pašvaldībai piederoša neapbūvēta zemesgabala privatizāciju ierosina šā likuma 31.pantā noteiktajā kārtībā.
-3. Ierosinājumi par tā zemesgabala privatizāciju, kura privatizāciju veic Privatizācijas aģentūra, iesniedzami Privatizācijas aģentūrai, bet ierosinājumi par tā zemesgabala privatizāciju, kura privatizāciju veic pašvaldība, iesniedzami attiecīgajai pašvaldībai.
+3. Ierosinājumi par tā zemesgabala privatizāciju, kura privatizāciju veic valsts īpašumu privatizāciju veicošā institūcija, iesniedzami valsts īpašumu privatizāciju veicošajai institūcijai, bet ierosinājumi par tā zemesgabala privatizāciju, kura privatizāciju veic pašvaldība, iesniedzami attiecīgajai pašvaldībai.
 4. Ja Ministru kabineta rīkojuma projektā par zemesgabala nodošanu privatizācijai ir iekļauts valstij piekrītošs pašvaldības valdījumā esošs zemesgabals, privatizāciju veicošā institūcija, iesniedzot rīkojuma projektu Valsts kancelejai, par to informē attiecīgo pašvaldību.
 5. Ja pašvaldības lēmuma projektā par zemesgabala nodošanu privatizācijai ir iekļauts pašvaldībai piekrītošs valsts institūcijas valdījumā esošs zemesgabals, pašvaldība par to ne vēlāk kā divas nedēļas pirms attiecīgā lēmuma pieņemšanas informē attiecīgo valsts institūciju.

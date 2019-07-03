@@ -1,3 +1,0 @@
-10. pants. Privatizācijas aģentūras darbinieku tiesību ierobežojumi un atbildība
-1. Privatizācijas aģentūras valdes priekšsēdētāja, citu aģentūras amatpersonu komercdarbības, ienākumu gūšanas, amatu savienošanas un darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus, pienākumus un atbildību nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
-2. Ja Privatizācijas aģentūras darbinieks nav amatpersona, viņa darbības ierobežojumus un atbildību attiecībā uz valsts īpašuma objektiem, kuru privatizāciju viņš tieši organizē vai pārrauga, nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
