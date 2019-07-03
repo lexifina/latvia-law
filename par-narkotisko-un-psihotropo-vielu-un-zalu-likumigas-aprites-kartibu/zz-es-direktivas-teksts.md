@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2017. gada 15. novembra direktīvas (ES) 2017/2103, ar ko groza Padomes pamatlēmumu 2004/757/TI, lai narkotiskās vielas definīcijā iekļautu jaunas psihoaktīvas vielas, un atceļ Padomes lēmumu 2005/387/TI.

@@ -3,4 +3,5 @@
 2) zāļu un veterināro zāļu ražošanā;
 3) aptiekās;
 4) ārstniecības iestādēs un sociālās aprūpes institūcijās;
-5) veterinārmedicīniskajos aprūpes uzņēmumos un personām, kuras nodarbojas ar veterinārmedicīnisko praksi (praktizējošiem veterinārārstiem un veterinārmedicīniskās aprūpes komersantiem).
+5) veterinārmedicīniskajos aprūpes uzņēmumos un personām, kuras nodarbojas ar veterinārmedicīnisko praksi (praktizējošiem veterinārārstiem un veterinārmedicīniskās aprūpes komersantiem);
+6) aktīvo vielu ražošanā, importēšanā un izplatīšanā.

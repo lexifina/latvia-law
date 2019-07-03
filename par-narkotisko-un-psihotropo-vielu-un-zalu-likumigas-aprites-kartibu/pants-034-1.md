@@ -1,0 +1,1 @@
+34.¹ pants. Valsts policija veic atbilstošus pasākumus, lai novērstu II un III sarakstā iekļauto vielu un šo vielu atvasinājumu, izomēru, struktūranalogu, aktīvo metabolītu, esteru, ēteru un sāļu (arī izomēru, struktūranalogu, aktīvo metabolītu, esteru un ēteru sāļu) nonākšanu nelegālajā apritē.
