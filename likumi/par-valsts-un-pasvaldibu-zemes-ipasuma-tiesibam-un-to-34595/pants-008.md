@@ -5,4 +5,5 @@
 (4¹) Uz valsts vārda Ekonomikas ministrijas personā zemesgrāmatās tiek ierakstīta valstij piederošā un piekrītošā zeme, uz kuras atrodas akciju sabiedrības "Latvenergo" īpašumā vai valdījumā esošie energoapgādes objekti un kura ir nepieciešama valsts komercdarbības veikšanai.
 (5) (Izslēgta ar 17.10.2002. likumu.)
 (6) Valstij piederošā vai piekrītošā zeme, kas nav minēta šajā pantā, zemesgrāmatā ierakstāma uz valsts vārda Finanšu ministrijas vai citas ministrijas personā, ja to noteicis Ministru kabinets.
-(7) Uz valsts vārda valsts akciju sabiedrības "Privatizācijas aģentūra" personā zemesgrāmatā tiek ierakstīti privatizācijai nodoti valstij piederoši un piekrītoši neapbūvēti vai apbūvēti zemes gabali.
+(7) Uz valsts vārda Ministru kabineta noteiktās valsts īpašumu privatizāciju veicošās institūcijas personā zemesgrāmatā tiek ierakstīti privatizācijai nodoti valstij piederoši un piekrītoši neapbūvēti vai apbūvēti zemes gabali.
+(8) Uz valsts vārda atsavināšanu organizējošās institūcijas (Publiskas personas mantas atsavināšanas likuma 9. pantā noteiktās institūcijas) personā zemesgrāmatā tiek ierakstīti atsavināšanai nodoti valstij piekrītoši neapbūvēti vai apbūvēti zemes gabali.

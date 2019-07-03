@@ -7,5 +7,6 @@
 6) šā likuma 10. vai 10.¹ pantā minētajā gadījumā - ēku (būvju) piederību apliecinoši dokumenti, bet attiecībā uz publiskās lietošanas transporta infrastruktūras objektiem - konkrētā objekta pārvaldītāja parakstīta izziņa, kas apliecina, ka konkrētais publiskās lietošanas transporta infrastruktūras objekts ir valsts, pašvaldības vai valsts akciju sabiedrības "Latvijas Dzelzceļš" valdījumā;
 7) strīda gadījumā - spēkā stājies Centrālās zemes komisijas lēmums vai tiesas spriedums;
 8) pašvaldības domes (padomes) lēmums vai Ministru kabineta rīkojums par zemes piederību vai piekritību;
-9) iesniegums attiecīgajai zemesgrāmatu nodaļai.
+9) iesniegums attiecīgajai rajona (pilsētas) tiesai.
 (2) Vienlaikus ar valsts vai pašvaldības zemes īpašuma tiesībām zemesgrāmatās nostiprināmas īpašuma tiesības attiecīgi uz valstij vai pašvaldībām piederošām ēkām (būvēm), kas atrodas uz zemes gabala, atbilstoši likumā "Par nekustamā īpašuma ierakstīšanu zemesgrāmatās" noteiktajam.
+(3) (Daļa stājas spēkā 01.12.2019. un iekļauta likuma redakcijā uz 01.12.2019. Sk. Pārejas noteikumu 8. punktu)

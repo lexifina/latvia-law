@@ -4,4 +4,4 @@
 3) nekustamā īpašuma objekta apgrūtinājumi;
 4) informācija par to, vai uz zemes gabala atrodas citām personām piederošas ēkas (būves).
 (2) Uzziņai pievienojami dokumenti, kas apstiprina uzziņā norādītos apstākļus. Zemes gabala platību apliecina, iesniedzot zemes robežu plānu. Ja zemes gabals nav kadastrāli uzmērīts, tā platību apliecina Valsts zemes dienesta kadastra izziņa, kam pievienota informācija no Nekustamā īpašuma valsts kadastra informācijas sistēmas telpiskajiem datiem par zemes gabala platību un izvietojumu apvidū.
-(3) Uzziņu paraksta šā likuma 8.pantā noteiktās valsts institūcijas administratīvais vadītājs, valsts akciju sabiedrības "Privatizācijas aģentūra" valde vai attiecīgās pašvaldības domes priekšsēdētājs.
+(3) Uzziņu paraksta šā likuma 8.pantā noteiktās institūcijas administratīvais vadītājs vai attiecīgās pašvaldības domes priekšsēdētājs.
