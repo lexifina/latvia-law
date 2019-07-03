@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu likumu " Par prekursoriem " (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 12. nr.; 1998, 15. nr.; 2004, 9. nr.; 2007, 21. nr.; Latvijas Vēstnesis, 2010, 183. nr.).
