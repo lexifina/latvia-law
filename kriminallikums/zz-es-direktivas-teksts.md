@@ -20,4 +20,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 19) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa direktīvas 2014/57/ES par kriminālsodiem par tirgus ļaunprātīgu izmantošanu (tirgus ļaunprātīgas izmantošanas direktīva);
 20) Eiropas Parlamenta un Padomes 2014.gada 15.maija direktīvas 2014/62/ES par euro un citu valūtu krimināltiesisko aizsardzību pret viltošanu un ar ko aizstāj Padomes Pamatlēmumu 2000/383/TI;
 21) Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/42/ES par nozieguma rīku un noziedzīgi iegūtu līdzekļu iesaldēšanu un konfiskāciju Eiropas Savienībā;
-22) Eiropas Parlamenta un Padomes 2017. gada 15. marta direktīvas (ES) 2017/541 par terorisma apkarošanu un ar ko aizstāj Padomes pamatlēmumu 2002/475/TI un groza Padomes lēmumu 2005/671/TI.
+22) Eiropas Parlamenta un Padomes 2017. gada 15. marta direktīvas (ES) 2017/541 par terorisma apkarošanu un ar ko aizstāj Padomes pamatlēmumu 2002/475/TI un groza Padomes lēmumu 2005/671/TI;
+23) Eiropas Parlamenta un Padomes 2017. gada 5. jūlija direktīvas (ES) 2017/1371 par cīņu pret krāpšanu, kas skar Savienības finanšu intereses, izmantojot krimināltiesības;
+24) Eiropas Parlamenta un Padomes 2018. gada 23. oktobra direktīvas (ES) 2018/1673 par nelikumīgi iegūtu līdzekļu legalizācijas apkarošanu ar krimināltiesībām.
