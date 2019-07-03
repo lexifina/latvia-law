@@ -1,5 +1,5 @@
 84.pants. Starptautisko organizāciju un Latvijas Republikas noteikto sankciju pārkāpšana
-(1) Par to normatīvo aktu tīšu pārkāpšanu, kuri regulē Apvienoto Nāciju Organizācijas Drošības padomes, Eiropas Savienības un citu starptautisko organizāciju noteikto sankciju darbību Latvijā vai kuri nosaka un regulē Latvijas Republikas nacionālo sankciju darbību, -
+(1) Par Apvienoto Nāciju Organizācijas, Eiropas Savienības un citu starptautisko organizāciju noteikto sankciju vai par Latvijas Republikas noteikto nacionālo sankciju pārkāpšanu -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par tādām pašām darbībām, ja ar tām radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.

@@ -1,8 +1,8 @@
 41.pants. Naudas sods
 (1) Naudas sods ir naudas summa, ko tiesa vai prokurors uzliek samaksāt valsts labā 30 dienu laikā šajā pantā noteiktajos apmēros kā pamatsodu, bet tiesa - arī kā papildsodu.
 (2) Naudas sods kā pamatsods atbilstoši noziedzīga nodarījuma kaitīgumam un vainīgā mantiskajam stāvoklim nosakāms:
-1) par kriminālpārkāpumu - trīs līdz simt Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
-2) par mazāk smagu noziegumu - piecu līdz tūkstoš Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
+1) par kriminālpārkāpumu - vienas līdz simt Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
+2) par mazāk smagu noziegumu - trīs līdz tūkstoš Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
 3) par smagu noziegumu, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par pieciem gadiem, - desmit līdz divu tūkstošu Latvijas Republikā noteikto minimālo mēnešalgu apmērā.
 (2¹) Naudas sods nosakāms tādā Latvijas Republikā noteikto minimālo mēnešalgu apmērā, kāds tas ir sprieduma taisīšanas dienā, norādot spriedumā šā naudas soda summu Latvijas Republikas naudas vienībās. Prokurors var piemērot ne vairāk kā pusi no šā panta otrajā daļā paredzētā maksimālā naudas soda apmēra, ievērojot Latvijas Republikā noteikto minimālo mēnešalgas apmēru dienā, kad sastādīts priekšraksts par sodu, un norādot savā priekšrakstā par sodu šā naudas soda summu Latvijas Republikas naudas vienībās.
 (2²) Atbilstoši noziedzīga nodarījuma kaitīgumam un vainīgā mantiskajam stāvoklim tiesa naudas sodu kā pamatsodu var noteikt arī par tāda smaga nozieguma izdarīšanu, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, un par sevišķi smaga nozieguma izdarīšanu, ja noziegums nav izraisījis cilvēka nāvi, nav radījis smagus miesas bojājumus vismaz vienai personai vai mazāk smagus miesas bojājumus vairākām personām, nav saistīts ar vardarbību vai vardarbības piedraudējumu, nav saistīts ar narkotisko un psihotropo vielu nelegālo apriti un nav izdarīts organizētā grupā, no trīssimt līdz desmit tūkstošu Latvijas Republikā noteikto minimālo mēnešalgu apmērā.
