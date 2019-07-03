@@ -1,0 +1,1 @@
+54. Šā likuma 13. panta pirmajā daļā minēto atlikto maksājumu (nomaksu) maksimālo termiņu (līdz pieciem gadiem) nepiemēro tādiem valsts vai pašvaldības īpašuma objektu, kā arī apbūvēta vai neapbūvēta zemesgabala pirkuma līgumiem, kuri noslēgti līdz attiecīgo grozījumu (par termiņa 10 gadi samazināšanu uz pieciem gadiem) spēkā stāšanās dienai.

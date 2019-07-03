@@ -1,0 +1,1 @@
+55. Šā likuma 32. panta devītajā daļā minēto norēķinu termiņu (līdz pieciem gadiem) nepiemēro tādiem zemes izpirkuma (pirkuma) līgumiem, kuri noslēgti līdz attiecīgo grozījumu (par termiņa 10 gadi samazināšanu uz pieciem gadiem) spēkā stāšanās dienai.
