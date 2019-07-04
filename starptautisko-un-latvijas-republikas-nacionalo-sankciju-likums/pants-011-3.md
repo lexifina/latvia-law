@@ -1,0 +1,3 @@
+11.³ pants. Līgumu slēgšana publisko vai privāto tiesību jomā un maksājumu veikšana, ja ir piemērotas sankcijas
+(1) Publisko tiesību subjektam ir aizliegts slēgt līgumu publisko vai privāto tiesību jomā, ja ir piemērotas starptautiskās vai nacionālās sankcijas vai būtiskas finanšu un kapitāla tirgus intereses ietekmējošas Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalsts noteiktās sankcijas, kuras ietekmē līguma izpildi.
+(2) Publisko tiesību subjektam ir aizliegts veikt maksājumu, ja ir piemērotas starptautiskās vai nacionālās sankcijas vai būtiskas finanšu un kapitāla tirgus intereses ietekmējošas Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalsts noteiktās sankcijas, kuras ietekmē maksājumu.

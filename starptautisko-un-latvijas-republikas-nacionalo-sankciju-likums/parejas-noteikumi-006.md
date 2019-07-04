@@ -1,0 +1,1 @@
+6. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos šajā likumā lietotais nosaukums "Finanšu izlūkošanas dienests" atbilst citos normatīvajos aktos lietotajam nosaukumam "Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests" vai "Kontroles dienests".
