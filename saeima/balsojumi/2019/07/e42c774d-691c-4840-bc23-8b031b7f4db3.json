@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada 8.jūlija 3.ārkārtas sesija",
+ "sede": 1,
+ "datums": "2019-07-08",
+ "ieraksts": {
+  "dkp_id": "30eff592-89d6-4c45-9d4d-9be7cd8e53e7",
+  "lastmodtime": "\"AAAAAAG1flE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Andris#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Rihards#Ilmārs#Jūlija#Linda#Ojārs Ēriks#Valērijs#Aldis#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Reinis#Dagmāra#Krišjānis#Jānis#Linda#Ivars#Anda#Aleksandrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Skride#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Kols#Dūrītis#Stepaņenko#Ozola#Kalniņš#Agešins#Adamovičs#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Liepiņa#Zariņš#Čakša#Kiršteins#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #JV#NA#AP!# #JK#JV#SASKAŅA #JV#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#JK#JK#JK#SASKAŅA # #SASKAŅA #ZZS#NA#KPV LV#NA#SASKAŅA #ZZS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Atturas#Pret#Par#Par#Atturas#Par#Par#Pret#Par#Par#Atturas#Par#Par#Par#Atturas#Par#Par#Par#Par#Atturas#Atturas#Par#Atturas#Par#Par#Atturas#Atturas#Par#Atturas#Par#Atturas#Par#Atturas#Atturas#Par#Par#Nebalsoja#Par#Par#Par#Pret#Par#Par#Atturas#Par#Par#Par#Atturas#Par#Par#Atturas#Atturas#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Atturas#Pret#Atturas#Atturas#Par#Par#Par#Atturas#Atturas#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.07.2019 16:15:08",
+  "VOTEMOTIVE": "Par Guntas Razānes atbrīvošanu no Finanšu un kapitāla tirgus komisijas priekšsēdētāja vietnieces amata (212/Lm13)",
+  "VOTING_ID": "e42c774d-691c-4840-bc23-8b031b7f4db3",
+  "VOTERESULT_ABSTAIN": "26",
+  "VOTERESULT_AGAINST": "5",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada 8.jūlija 3.ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f3237ab1-dc99-438c-b771-a7b5267a449d/download/13.saeimas-2019.gada-8.jlija-3.rkrtas-sesija-1-vote.xml",
+  "sha256": "af5c92d9c95d281cf56dbb16a66bb2268f0afd8e88cec9f0c0bf16cecbfb612f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
