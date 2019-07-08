@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada 8.jūlija otrā ārkārtas sesija",
+ "sede": 1,
+ "datums": "2019-07-08",
+ "ieraksts": {
+  "dkp_id": "db93181a-18ba-465d-abf3-4b3cd848a611",
+  "lastmodtime": "\"AAAAAAG1YH0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Linda#Ojārs Ēriks#Valērijs#Aldis#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Reinis#Dagmāra#Krišjānis#Jānis#Linda#Ivars#Anda#Janīna#Aleksandrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Ozola#Kalniņš#Agešins#Adamovičs#Dombrava#Bondars#Valainis#Bluķe#Judins#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #JV#KPV LV#NA#AP!# #JK#JV#SASKAŅA #JV#NA#AP!#ZZS#AP!#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#JK#JK#JK#SASKAŅA # #SASKAŅA #ZZS#ZZS#NA#KPV LV#NA#SASKAŅA #ZZS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.07.2019 14:44:35",
+  "VOTEMOTIVE": "Par Daudzpusējo konvenciju nodokļu bāzes samazināšanas un peļņas novirzīšanas novēršanas pasākumu ieviešanai attiecībā uz nodokļu konvencijām (272/Lp13), 2.lasījums",
+  "VOTING_ID": "1e39df19-6b19-4649-9379-ebe9fac80bb3",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "78",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "16",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada 8.jūlija otrā ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/108a29fe-dcba-4b40-9d1e-c53d30744ea6/download/13.saeimas-2019.gada-8.jlija-otr-rkrtas-sesija-1-vote.xml",
+  "sha256": "829629df97db45e9c3158ee84a8272a5a25153fe531ba2e0188a7ccbb061111b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
