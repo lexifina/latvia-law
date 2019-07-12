@@ -1,5 +1,5 @@
 54.pants. Zemes gabala īpašnieka pienākumi un tiesības
-(1) Zemes gabala īpašniekam ir pienākums noslēgt zemes nomas līgumu ar privatizētā objekta īpašnieku. Zemes nomas līgumu slēdz par tā zemes gabala lietošanu, ko pašvaldības dome vai tās pilnvarota institūcija, vai valsts akciju sabiedrība "Privatizācijas aģentūra" noteikusi kā dzīvojamai mājai funkcionāli nepieciešamo zemes gabalu.
+(1) Zemes gabala īpašniekam ir pienākums noslēgt zemes nomas līgumu ar privatizētā objekta īpašnieku. Zemes nomas līgumu slēdz par tā zemes gabala lietošanu, ko pašvaldības dome vai tās pilnvarota institūcija, vai valsts dzīvojamo māju privatizāciju veicošā institūcija noteikusi kā dzīvojamai mājai funkcionāli nepieciešamo zemes gabalu.
 (2) Zemes gabala nomas maksu nosaka, pusēm rakstveidā vienojoties.
 (3) Ja zemes gabala īpašnieks pārdod zemes gabalu, uz kura atrodas privatizācijas objekts, pirmpirkuma tiesības uz to ir privatizētā objekta īpašniekam (īpašniekiem).
 (4) Ja atbilstoši šā likuma 50.panta pirmās daļas 3.punkta prasībām zemes nomas līgumi ar zemes gabala īpašnieku nav noslēgti, zemes gabala īpašniekam ir tiesības prasību tiesā par zemes nomas līguma noslēgšanu vērst pret personu, kurai nodotas attiecīgās dzīvojamās mājas pārvaldīšanas un apsaimniekošanas tiesības.

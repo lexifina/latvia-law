@@ -1,1 +1,0 @@
-45. Pirkuma līgumos, kuri noslēgti šā likuma 46.pantā noteiktajā kārtībā, pēc pušu vienošanās var pagarināt pirkuma maksas samaksas termiņu, izdarot periodiskus maksājumus ne ilgāk kā 10 gadu laikā no pirkuma līguma noslēgšanas dienas.
