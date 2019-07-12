@@ -1,2 +1,2 @@
 2. pants. Likuma darbība
-Šis likums reglamentē tiesiskās attiecības starp pārvadātāju, kas pasažieru un kravas pārvadājumus ar autotransporta līdzekļiem veic kā profesionālu darbību, un nosūtītāju, saņēmēju vai pasažieriem.
+Šis likums reglamentē tiesiskās attiecības starp pārvadātāju, autovadītāju, tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēju, ekspeditoru, nosūtītāju, saņēmēju un pasažieri, organizējot un izpildot pasažieru un kravas pārvadājumus kā profesionālu darbību.

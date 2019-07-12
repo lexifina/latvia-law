@@ -7,4 +7,8 @@ Apstrīdēšana vai pārsūdzēšana neaptur šādu administratīvo aktu darbīb
 5) lēmums izsniegt, anulēt vai apturēt uz laiku speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar autobusu vai kravas komercpārvadājumiem ar kravas automobili;
 6) lēmums izsniegt, anulēt vai apturēt uz laiku licences kartīti pasažieru komercpārvadājumiem ar autobusu vai kravas komercpārvadājumiem ar kravas automobili;
 7) lēmumu par vadītāja reģistrāciju pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili vai izslēgšanu no reģistra;
-8) lēmumu izsniegt, anulēt vai apturēt uz laiku speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili.
+8) lēmumu izsniegt vai anulēt speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili;
+9) lēmumu izsniegt vai anulēt licences kartīti pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili;
+10) lēmumu par autoostas reģistrāciju, reģistrācijas apturēšanu vai anulēšanu;
+11) lēmumu par tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja reģistrācijas anulēšanu vai tīmekļvietnes lietotnes bloķēšanu;
+12) lēmumu izsniegt vai anulēt pasažieru un kravas pašpārvadājumu sertifikātu.

@@ -4,3 +4,4 @@
 (3) Pasažierim ir tiesības atteikties no braukšanas un nodot atpakaļ iepriekš nopirkto biļeti pasažieru pārvadāšanas noteikumos paredzētajā kārtībā.
 (4) Pasažierim ir tiesības pieprasīt no pārvadātāja tiešo zaudējumu atlīdzību saskaņā ar šā likuma 40. panta trešo daļu.
 (5) Veicot pasažieru pārvadājumus, uz kuriem attiecināma regula (ES) Nr. 181/2011, autobusu pasažiera tiesības papildus nosaka minētā regula.
+(6) Pasažierim ir tiesības pārtraukt pakalpojuma līgumu un atteikties maksāt par pasažieru komercpārvadājumu pakalpojumu, ja autovadītājs pārkāpj šā likuma 40. panta vienpadsmitās daļas 2. punktu vai trīspadsmitās daļas 2. punktu.

@@ -1,0 +1,1 @@
+43. Ministru kabinets līdz 2019. gada 30. novembrim izdod šā likuma 51. panta trešajā daļā minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 30. novembrim piemērojami Ministru kabineta 2004. gada 20. aprīļa noteikumi Nr. 327 "Kārtība, kādā veicami pasažieru un kravas pašpārvadājumi", ciktāl tie nav pretrunā ar šo likumu.
