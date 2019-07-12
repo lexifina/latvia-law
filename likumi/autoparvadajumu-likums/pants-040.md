@@ -7,3 +7,9 @@
 (6) Pārvadātājs ir atbildīgs par zaudējumiem, kas radušies pārvadāšanas laikā, ja pasažieris gājis bojā, guvis sakropļojumu vai citu veselības bojājumu vai viņa mantai nodarīts bojājums un pārvadātājs nepierāda, ka zaudējums radies nepārvaramas varas dēļ, ar paša cietušā nodomu vai viņa rupjas neuzmanības dēļ. Par zaudējumiem, kas radušies pasažiera iekāpšanas vai izkāpšanas laikā un bagāžas iekraušanas vai izkraušanas laikā, pārvadātājs atbild, ja ir konstatēta viņa vaina.
 (7) Veicot pasažieru pārvadājumus, uz kuriem attiecināma regula (ES) Nr. 181/2011, pārvadātāja pienākumus un atbildību saistībā ar autobusu pasažieru tiesībām papildus nosaka minētā regula.
 (8) Piemērojot regulu (ES) Nr. 181/2011, maksimālā kompensācijas summa saistībā ar pasažiera nāvi vai miesas bojājumiem vai bagāžas nozaudēšanu vai bojājumu katrā atsevišķā gadījumā nav mazāka kā regulas (ES) Nr. 181/2011 7.panta 2.punktā norādītā summa.
+(9) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(10) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(11) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(12) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(13) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(14) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
