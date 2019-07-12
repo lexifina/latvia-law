@@ -33,7 +33,7 @@ d) valsts atzītu muzeju, bibliotēku, izstāžu, zooloģisko dārzu un botānis
 e) bibliotēkas krājumā esošās informācijas publiskas pieejamības un izmantošanas nodrošināšanas pakalpojumus;
 18) autora saņemto atlīdzību par darbu un tā izmantošanu, kā arī izpildītāja un fonogrammu producenta saņemto atlīdzību par blakustiesību objektu un tā izmantošanu;
 19) zelta, monētu un banknošu piegādi Latvijas Bankai;
-20) apdrošināšanas un pārapdrošināšanas pakalpojumus saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likumu, kā arī apdrošināšanas un pārapdrošināšanas starpniecības pakalpojumus saskaņā ar Apdrošināšanas un pārapdrošināšanas starpnieku darbības likumu;
+20) apdrošināšanas un pārapdrošināšanas pakalpojumus, tostarp saistītus pakalpojumus, ko sniedz apdrošināšanas vai pārapdrošināšanas starpnieks vai apdrošināšanas papildpakalpojuma starpnieks;
 21) šādus finanšu darījumus:
 a) kreditēšanu un naudas aizdevumu piešķiršanu (ieskaitot starpniecību), kā arī kredīta pārvaldi, ko veic kredīta piešķīrējs,
 b) darījumus ar kredīta garantijām vai citu naudas nodrošinājumu (ieskaitot starpniecību), kā arī kredīta garantiju pārvaldi, ko veic kredīta piešķīrējs,
