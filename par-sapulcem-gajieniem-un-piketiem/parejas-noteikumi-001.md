@@ -1,0 +1,1 @@
+1. Šā likuma 17.panta piektā daļa neattiecas uz tām lietām, kurās administratīvā rajona tiesa spriedumu pieņēmusi līdz 2009.gada 31.janvārim. Šajās lietās spriedums pārsūdzams Administratīvā procesa likumā noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+2. Grozījums, ar kuru jaunā redakcijā tiek izteikts šā likuma 11. panta pirmās daļas 5. punkts, grozījums 13. panta pirmās daļas trešajā teikumā, kas paredz to papildināt ar vārdiem "un pašvaldības policijai", un šā likuma V nodaļas jaunā redakcija stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
