@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Apdrošināšanas un pārapdrošināšanas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132 (6471)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-02",
+  "entry_into_force": "2019-07-16",
+  "notification_date": "2019-07-09",
+  "commission_reference": "MNE(2019)54318",
+  "nim_celex": "72017L0828LVA_275183",
+  "nim_id": "275183",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e2df6854-a7b3-47ec-8876-efaf2037892f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
