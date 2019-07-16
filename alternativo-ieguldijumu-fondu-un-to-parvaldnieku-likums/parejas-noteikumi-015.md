@@ -1,0 +1,1 @@
+15. Licencēts pārvaldnieks līdz 2019. gada 1. novembrim izstrādā un publisko iesaistīšanās politiku, ja šā likuma 60.¹ panta spēkā stāšanās dienā licencēta pārvaldnieka pārvaldē esoša fonda ieguldījumu politika paredz ieguldīt fonda līdzekļus tādas akciju sabiedrības akcijās, kuras juridiskā adrese ir dalībvalstī un kuras akcijas iekļautas dalībvalsts regulētajā tirgū.

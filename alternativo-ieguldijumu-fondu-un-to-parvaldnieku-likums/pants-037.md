@@ -3,7 +3,7 @@
 (2) Pārvaldnieks sasauc pilnsapulci fonda darbības noteikumu, izņemot pirmo ieguldījumu daļu emisijas noteikumus, apstiprināšanai, kā arī tad, ja to rakstveidā pieprasījuši ieguldītāji, kuri pārstāv vismaz 10 procentus no fonda vērtības. Ja pilnsapulces sasaukšanu pieprasa fonda ieguldītāji, pārvaldniekam tā jāsasauc mēneša laikā pēc pieprasījuma saņemšanas.
 (3) Pieprasījumā norāda pilnsapulces sasaukšanas iemeslus un darba kārtību. Pieprasījumu iesniedz pārvaldniekam.
 (4) Ja pārvaldnieks nesasauc pilnsapulci noteiktajā termiņā, fonda ieguldītāji iesniedz rakstveida pieprasījumu Komisijai, kura sasauc pilnsapulci mēneša laikā pēc pieprasījuma saņemšanas. Šādā gadījumā pilnsapulci sasauc neatkarīgi no ieguldītāju - rakstveida pieprasījuma iesniedzēju - pārstāvētās fonda vērtības.
-(5) Paziņojumu par pilnsapulces sasaukšanu pārvaldnieks publicē oficiālajā izdevumā "Latvijas Vēstnesis", kā arī informē par to Komisiju. Ja pilnsapulci sasauc Komisija, paziņojumu par pilnsapulces sasaukšanu publicē Komisija. Pilnsapulces sasaukšanas izdevumi tiek segti no fonda mantas.
+(5) Paziņojumu par pilnsapulces sasaukšanu licencēts pārvaldnieks publicē oficiālajā izdevumā "Latvijas Vēstnesis", kā arī informē par to Komisiju. Reģistrēts pārvaldnieks paziņojumu par pilnsapulces sasaukšanu publicē oficiālajā izdevumā "Latvijas Vēstnesis". Ja pilnsapulci sasauc Komisija, paziņojumu par pilnsapulces sasaukšanu publicē Komisija. Pilnsapulces sasaukšanas izdevumi tiek segti no fonda mantas.
 (6) Pilnsapulcei ir tiesības pieņemt pārvaldniekam saistošus lēmumus par:
 1) fonda darbības noteikumu apstiprināšanu un grozījumu izdarīšanu tajos;
 2) pārvaldnieka maiņu;

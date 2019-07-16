@@ -1,11 +1,14 @@
 90.pants. Atbildība
-(1) Komisijai ir tiesības uzlikt pārvaldniekam un turētājbankai soda naudu no 14 200 līdz 142 300 euro par šādiem pārkāpumiem:
+(1) Komisijai ir tiesības uzlikt licencētam pārvaldniekam un turētājbankai soda naudu no 14 200 līdz 142 300 euro par šādiem pārkāpumiem:
 1) par šajā likumā un uz šā likuma pamata izdotajos Komisijas normatīvajos noteikumos un tieši piemērojamos Eiropas Savienības tiesību aktos paredzēto dokumentu un ziņu neiesniegšanu, kā arī iesniegtajos dokumentos un ziņās izdarīto grozījumu neiesniegšanu normatīvajos aktos noteiktajā kārtībā un Komisijas noteiktajos termiņos;
 2) par nepatiesu ziņu sniegšanu Komisijai vai šādu ziņu publisku izplatīšanu;
 3) par fonda mantas iegrāmatošanas un glabāšanas noteikumu pārkāpumiem;
 4) par ieguldījumu daļu emisijas, atpakaļpirkšanas un atpakaļpieņemšanas noteikumu pārkāpumiem;
 5) par pārvaldnieka vai fonda likvidācijas kārtības pārkāpumiem;
 6) par to, ka nav nodrošināta šajā likumā noteiktā iespēja iepazīties ar fonda ieguldītājiem paredzēto informāciju, izņemot informāciju, ko nodrošina saskaņā ar Regulu Nr. 1286/2014.
+(1¹) Komisijai ir tiesības uzlikt reģistrētam pārvaldniekam soda naudu no 14 200 līdz 142 300 euro par šādiem pārkāpumiem:
+1) par šajā likumā un uz šā likuma pamata izdotajos Komisijas normatīvajos noteikumos un tieši piemērojamos Eiropas Savienības tiesību aktos paredzētās informācijas neiesniegšanu;
+2) par nepatiesas informācijas sniegšanu Komisijai vai šādas informācijas publisku izplatīšanu.
 (2) Par alternatīvo ieguldījumu fondu pārvaldi bez Komisijas licences saņemšanas vai pārvaldnieka reģistrācijas Komisija personai uzliek soda naudu no 14 200 līdz 142 300 euro.
 (3) Par fondu ieguldījumu daļu izplatīšanu bez Komisijas atļaujas vai par ieguldījumu daļu izplatīšanas noteikumu pārkāpumiem Komisijai ir tiesības personai uzlikt soda naudu no 1400 līdz 14 200 euro.
 (4) Par ieguldījumu daļu izplatīšanu personai, kura nav ieguldītājs šā likuma izpratnē, Komisijai ir tiesības ieguldījumu daļu izplatītājam uzlikt soda naudu no 1400 līdz 14 200 euro.
