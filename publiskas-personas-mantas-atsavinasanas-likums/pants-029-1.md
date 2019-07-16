@@ -1,0 +1,1 @@
+29.¹ pants. Ja tiek rīkota elektroniska izsole, tā notiek elektronisko izsoļu vietnē, kas izveidota saskaņā ar Civilprocesa likuma 605.¹ pantu. Elektroniskā izsole notiek, ievērojot šo likumu, normatīvos aktus par kārtību, kādā veic darbības elektronisko izsoļu vietnē, un izsoles noteikumus.
