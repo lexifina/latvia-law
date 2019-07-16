@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Alternatīvo ieguldījumu fondu un to pārvaldnieku likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "132 (6471)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-02",
+  "entry_into_force": "2019-07-16",
+  "notification_date": "2019-07-09",
+  "commission_reference": "MNE(2019)54316",
+  "nim_celex": "72017L0828LVA_275181",
+  "nim_id": "275181",
+  "transposes_celex": [
+    "32017L0828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ce39cf53-50a8-4f07-bf40-28cd35dbdd1f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
