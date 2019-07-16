@@ -1,0 +1,1 @@
+32. Ja tādas apdrošināšanas vai pārapdrošināšanas sabiedrības aktīvus, kura ir tiesīga veikt dzīvības apdrošināšanu vai pārapdrošināšanu, pārvalda aktīvu pārvaldītājs, tas šā likuma 138.² panta piektajā daļā minēto ziņojumu šai sabiedrībai iesniedz, sākot ar 2020. gadu.

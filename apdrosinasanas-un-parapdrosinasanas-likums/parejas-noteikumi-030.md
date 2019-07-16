@@ -1,0 +1,1 @@
+30. Apdrošināšanas vai pārapdrošināšanas sabiedrība, kura ir tiesīga veikt dzīvības apdrošināšanu vai pārapdrošināšanu, līdz 2019. gada 1. novembrim publisko šā likuma 138.² panta pirmajā daļā minēto informāciju.

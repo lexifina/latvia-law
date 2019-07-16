@@ -19,7 +19,7 @@
 3) ieguldījumu tirgus risku;
 4) riska koncentrācijas līmeni;
 5) to dzīvības un nedzīvības apdrošināšanas veidu kopējo skaitu, kuros izsniegtas apdrošināšanas licences;
-6) aktīvu pārvaldības iespējamo ietekmi uz attiecīgās sabiedrības finanšu stabilitāti;
+6) aktīvu pārvaldības iespējamo ietekmi uz finanšu stabilitāti;
 7) šā panta trešajā daļā minētās politikas un procedūras un citus pārvaldības sistēmas elementus;
 8) pārvaldības sistēmas piemērotību;
 9) izmantojamā pašu kapitāla apmēru maksātspējas kapitāla prasības un minimālās kapitāla prasības izpildes nodrošināšanai;

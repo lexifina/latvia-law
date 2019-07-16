@@ -18,7 +18,8 @@ l) grāmatvedības politiku, procedūru un uzskaites organizācijas galvenos pri
 m) informācijas sistēmu aizsardzības politiku un procedūru,
 n) neparastu un aizdomīgu finanšu darījumu identifikācijas politiku un procedūru,
 o) retrocesijas politiku un procedūru,
-p) ieguldījumu veidošanas politiku un procedūru.
+p) ieguldījumu veidošanas politiku un procedūru;
+5) dokumentu, kurā apraksta un skaidro, kā pārapdrošināšanas sabiedrības ieguldījumu stratēģijā saskaņā ar šā likuma 138.¹ pantu tiek iekļauta akcionāra tiesību izmantošana akciju sabiedrības pārvaldē, ja ieguldījumu veidošanas politika paredz, ka pārapdrošināšanas sabiedrība, kura vēlas veikt dzīvības pārapdrošināšanu, iegulda savus aktīvus tādas akciju sabiedrības akcijās, kuras juridiskā adrese ir dalībvalstī un kuras akcijas iekļautas dalībvalsts regulētajā tirgū.
 (2) Lai saņemtu pārapdrošināšanas licenci citam pārapdrošināšanas veidam, pārapdrošināšanas sabiedrība Komisijai iesniedz:
 1) iesniegumu par pārapdrošināšanas licences saņemšanu citam pārapdrošināšanas veidam;
 2) jaunā pārapdrošināšanas veida ieviešanai nepieciešamo papildu izdevumu aprēķinu un informāciju par to segšanai nepieciešamo līdzekļu avotiem;
