@@ -10,11 +10,11 @@
 7) Regula Nr. 575/2013;
 8) Regula Nr. 596/2014;
 9) Regula Nr. 909/2014;
-10) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa regula (ES) Nr. 537/2014 par īpašām prasībām attiecībā uz obligātajām revīzijām sabiedriskas nozīmes struktūrās un ar ko atceļ Komisijas Lēmumu 2005/909/EK (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 537/2014) gadījumos, kas noteikti Revīzijas pakalpojumu likuma 37.⁵ pantā;
-11) Eiropas Parlamenta un Padomes 2014. gada 26. novembra regula (ES) Nr. 1286/2014 par komplektētu privāto ieguldījumu un apdrošināšanas ieguldījumu produktu (PRIIP) pamatinformācijas dokumentiem (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 1286/2014);
-12) Eiropas Parlamenta un Padomes 2015. gada 25. novembra regula (ES) Nr. 2015/2365 par vērtspapīru finansēšanas darījumu un atkalizmantošanas pārredzamību un ar ko groza Regulu (ES) Nr. 648/2012 (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 2015/2365);
+10) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa regula (ES) Nr. 537/2014 par īpašām prasībām attiecībā uz obligātajām revīzijām sabiedriskas nozīmes struktūrās un ar ko atceļ Komisijas Lēmumu 2005/909/EK (turpmāk - Regula Nr. 537/2014) gadījumos, kas noteikti Revīzijas pakalpojumu likuma 37.⁵ pantā;
+11) Eiropas Parlamenta un Padomes 2014. gada 26. novembra regula (ES) Nr. 1286/2014 par komplektētu privāto ieguldījumu un apdrošināšanas ieguldījumu produktu (PRIIP) pamatinformācijas dokumentiem (turpmāk - Regula Nr. 1286/2014);
+12) Eiropas Parlamenta un Padomes 2015. gada 25. novembra regula (ES) Nr. 2015/2365 par vērtspapīru finansēšanas darījumu un atkalizmantošanas pārredzamību un ar ko groza Regulu (ES) Nr. 648/2012 (turpmāk - Regula Nr. 2015/2365);
 13) Regula Nr. 600/2014;
-14) Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regula (ES) 2016/1011 par indeksiem, ko izmanto kā etalonus finanšu instrumentos un finanšu līgumos vai ieguldījumu fondu darbības rezultātu mērīšanai, un ar kuru groza direktīvu 2008/48/EK, direktīvu 2014/17/ES un regulu (ES) Nr. 596/2014 (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 2016/1011).
+14) Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regula (ES) 2016/1011 par indeksiem, ko izmanto kā etalonus finanšu instrumentos un finanšu līgumos vai ieguldījumu fondu darbības rezultātu mērīšanai, un ar kuru groza direktīvu 2008/48/EK, direktīvu 2014/17/ES un regulu (ES) Nr. 596/2014 (turpmāk - Regula Nr. 2016/1011).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem, kuri šā likuma izpratnē ir:
 1) pārvedami vērtspapīri;
 2) naudas tirgus instrumenti;

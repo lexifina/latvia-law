@@ -1,3 +1,3 @@
 35.³ pants. Pulksteņu sinhronizācija
 (1) Tirdzniecības vieta un tās biedri vai dalībnieki sinhronizē savus pulksteņus, kurus tie izmanto, lai fiksētu datumu un laiku jebkurai tirdzniecības vietā notikušai darbībai, par kuru nepieciešams ziņot.
-(2) Precizitātes līmeni, ar kādu pulksteņi sinhronizējami atbilstoši starptautiskajiem standartiem, nosaka Komisijas 2016. gada 7. jūnija deleģētā regula (ES) 2017/574, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES attiecībā uz regulatīvajiem tehniskajiem standartiem par uzņēmumu pulksteņu precizitātes līmeni (Dokuments attiecas uz EEZ).
+(2) Precizitātes līmeni, ar kādu pulksteņi sinhronizējami atbilstoši starptautiskajiem standartiem, nosaka Komisijas 2016. gada 7. jūnija deleģētā regula (ES) 2017/574, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES attiecībā uz regulatīvajiem tehniskajiem standartiem par uzņēmumu pulksteņu precizitātes līmeni.

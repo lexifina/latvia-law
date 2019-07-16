@@ -1,0 +1,1 @@
+66. Šā likuma 59.⁴ panta pirmās daļas 3. punktā minēto izmaiņu salīdzinājumu kapitālsabiedrība atklāj, sākot ar 2020. finanšu gadu (finanšu gadu, kurš sākas 2020. gada 1. janvārī vai 2020. kalendāra gada laikā), un sniedz vismaz par to pēdējo piecu finanšu gadu periodu, kurš sākas ne vēlāk kā 2020. gada 1. janvārī.

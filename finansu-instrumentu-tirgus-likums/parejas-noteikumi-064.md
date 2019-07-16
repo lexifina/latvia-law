@@ -1,0 +1,1 @@
+64. Šā likuma 59.³ pantā minēto atalgojuma politiku kapitālsabiedrības valde izstrādā un iesniedz apstiprināšanai nākamajā akcionāru sapulcē, kas tiek sasaukta pēc 2019. gada 1. septembra, ar nosacījumu, ka atalgojuma politika tiek apstiprināta un publiskota ne vēlāk kā līdz 2020. gada 31. decembrim.
