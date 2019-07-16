@@ -1,0 +1,2 @@
+26.¹ pants. Nacionālās kultūras mantojuma pārvaldes arhīvs
+Nacionālās kultūras mantojuma pārvaldes un tās uzdevumā veidotā dokumentācija par valsts aizsargājamiem kultūras pieminekļiem un kultūrvēsturiski vērtīgiem objektiem uzskatāma par nacionālā kultūras mantojuma daļu un kā dokumentu kopums tiek uzkrāta Nacionālās kultūras mantojuma pārvaldes arhīvā. Šos dokumentus izmanto, ievērojot autortiesību, fizisko personu datu aizsardzības un citu normatīvo aktu noteikumus.
