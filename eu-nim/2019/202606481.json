@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 16.jūlija noteikumi Nr. 344 “Noteikumi par kārtību, kādā cilvēku tirdzniecības upuri saņem sociālās rehabilitācijas pakalpojumu, un kritērijiem personas atzīšanai par cilvēku tirdzniecības upuri”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-19",
+  "entry_into_force": "2019-07-20",
+  "notification_date": "2026-08-18",
+  "commission_reference": "MNE(2026)06481",
+  "nim_celex": "72024L1346LVA_202606481",
+  "nim_id": "202606481",
+  "transposes_celex": [
+    "32024L1346"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/37658bab-c7fb-4aae-9162-6bcc121bf2b4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
