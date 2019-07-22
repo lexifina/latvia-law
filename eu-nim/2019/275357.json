@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 9. jūlija noteikumi Nr. 310 \"Grozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu bīstamu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "139 (6478)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-11",
+  "entry_into_force": "2019-07-22",
+  "notification_date": "2019-07-15",
+  "commission_reference": "MNE(2019)54390",
+  "nim_celex": "72019L0171LVA_275357",
+  "nim_id": "275357",
+  "transposes_celex": [
+    "32019L0171"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/502d7646-bbd8-44ab-8017-d4574ff963be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
