@@ -1,3 +1,3 @@
-15.pants. Fonda darbības tiesiskuma kontrole
-(1) Fonda administratīvos aktus, kas izdoti, pildot šajā likumā noteiktos Fonda uzdevumus, un Fonda faktisko rīcību var pārsūdzēt administratīvajā tiesā, ja attiecībā uz Fondu ārējā normatīvajā aktā nav noteikts, ka pirms pārsūdzēšanas tiesā tos apstrīd augstākā iestādē.
-(2) Citus šā panta pirmajā daļā neminētos administratīvos aktus un faktisko rīcību apstrīd un pārsūdz likumā noteiktajā kārtībā.
+15. pants. Fonda darbības tiesiskuma kontrole
+(1) Fonda sekretariāta administratīvos aktus un faktisko rīcību var apstrīdēt Fonda padomē, ja ārējā normatīvajā aktā nav noteikta cita apstrīdēšanas kārtība. Jautājuma izskatīšanā Fonda padomes sēdē piedalās par konkrēto valsts budžeta programmu atbildīgais ministrs vai viņa pilnvarota persona un arī persona, kura apstrīdējusi administratīvo aktu vai faktisko rīcību. Fonda padomes administratīvos aktus un faktisko rīcību var pārsūdzēt administratīvajā tiesā.
+(2) Fonda padomes priekšsēdētājs ir atbildīgs par to, lai Fonda padomes sēdes tiktu sasauktas un noritētu atbilstoši normatīvajiem aktiem, kā arī par tiesiskuma nodrošināšanu Fonda sekretariātā Fonda nolikumā noteiktajā kārtībā.

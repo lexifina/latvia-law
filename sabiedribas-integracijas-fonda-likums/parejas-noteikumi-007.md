@@ -1,0 +1,1 @@
+7. Ministru kabinets šā likuma 2. panta pirmajā daļā minētos noteikumus izdod līdz 2020. gada 31. janvārim. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2020. gada 30. janvārim piemērojams Fonda padomes apstiprinātais Fonda nolikums, ciktāl tas nav pretrunā ar šo likumu.

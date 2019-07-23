@@ -3,3 +3,4 @@
 (2) Prasījumi pret Fondu un Fonda mantā ietilpstošie prasījumi nav savstarpēji ieskaitāmi.
 (3) Fonda mantu nedrīkst ieķīlāt vai citādi apgrūtināt.
 (4) Fonds nedrīkst būt par dalībnieku (akcionāru) uzņēmējsabiedrībā, pirkt vērtspapīrus, uzņemties saistības, kuras izriet no galvojuma līgumiem, slēgt aizdevuma līgumus, kā arī dāvināt, patapināt vai ziedot Fonda mantu.
+(5) Fonds var īstenot šā likuma 3. panta otrās daļas 12. punktā minētos projektus tikai ar Fonda padomes saskaņojumu un Ministru kabineta lēmumu.

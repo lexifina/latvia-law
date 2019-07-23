@@ -1,0 +1,1 @@
+8. Fonda padome ne vēlāk kā līdz 2019. gada 2. septembrim izsludina atklātu konkursu uz Fonda sekretariāta direktora amatu un ne vēlāk kā divu mēnešu laikā no atklātā konkursa izsludināšanas dienas Fonda sekretariāta direktora amatā uz šā likuma 11. panta trešajā daļā noteikto termiņu ieceļ atklātā konkursā izraudzīto kandidātu.

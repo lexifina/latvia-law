@@ -10,5 +10,7 @@
 7) piešķirot finansējumu, publicēt mājaslapā internetā informāciju par attiecīgā sabiedrības integrācijas un publiskā un nevalstiskā sektora attīstības projekta finansējuma apmēru un mērķfinansējuma avotu;
 8) uzturēt un atjaunot Fondam iesniegto un tā finansēto sabiedrības integrācijas un publiskā un nevalstiskā sektora attīstības projektu publiski pieejamu datu bāzi, kā arī saņemt un analizēt informāciju par perspektīvajiem finansējuma projektiem;
 9) mērķtiecīgi un efektīvi apsaimniekot piešķirto finansējumu, nodrošinot kontroli pār līdzekļu izlietošanu;
-10) sagatavot un publicēt mājaslapā internetā Fonda darbības gadskārtējo pārskatu.
+10) sagatavot un publicēt mājaslapā internetā Fonda darbības gadskārtējo pārskatu;
+11) izstrādāt Fonda darbības stratēģiju atbilstoši valsts sabiedrības integrācijas politikas plānošanas dokumentiem un citiem attīstības plānošanas dokumentiem;
+12) kā finansējuma saņēmējam īstenot Eiropas Savienības politiku instrumentu un pārējās ārvalstu finanšu palīdzības līdzfinansētos projektus.
 (3) Fonda darbība ir atklāta.
