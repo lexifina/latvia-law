@@ -1,0 +1,1 @@
+12. Grozījumi par šā likuma 29.¹ panta papildināšanu ar vārdiem "vai sakarā ar to, ka revīzijas departamenta sektora vadītājam nav sertifikāta Valsts kontroles revīziju veikšanai", par 30. panta papildināšanu ar trešo daļu un 48.¹ pants stājas spēkā 2023. gada 1. janvārī.

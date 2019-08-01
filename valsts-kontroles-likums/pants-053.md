@@ -1,1 +1,1 @@
-53.pants. Pamatojoties uz revīzijā konstatētiem faktiem un pārbaudītajiem dokumentiem, tiek sagatavots Valsts kontroles revīzijas ziņojuma projekts, kuru nosūta revidējamai vienībai, nosakot termiņus paskaidrojumu iesniegšanai.
+53.pants. Pamatojoties uz revīzijā konstatētiem faktiem un pārbaudītajiem dokumentiem, tiek sagatavots Valsts kontroles revīzijas ziņojuma projekts, kuru nosūta revidējamai vienībai, nosakot termiņus paskaidrojumu iesniegšanai. Termiņu, kādā iesniedzami paskaidrojumi par revīzijas ziņojuma projektu, nosaka ne mazāku par 10 darbdienām.

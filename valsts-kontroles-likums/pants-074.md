@@ -1,0 +1,1 @@
+74. pants. Valsts kontroles ierosinātajā lietā par zaudējumu piedziņu personai, pret kuru ierosināta administratīvā lieta, ir tiesības pašai vai ar pārstāvja starpniecību piedalīties Valsts kontroles padomes sēdē un sniegt paskaidrojumus, kā arī ir citas Administratīvā procesa likumā noteiktās tiesības.

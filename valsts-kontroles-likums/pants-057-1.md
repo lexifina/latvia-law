@@ -1,0 +1,1 @@
+57.¹ pants. Valsts kontrole pēc tam, kad stājies spēkā lēmums par revīzijas ziņojuma apstiprināšanu, veic šajā likumā noteiktos pasākumus, lai informētu kompetentās iestādes par revīzijā konstatētajiem tiesību normu pārkāpumiem, sekotu to izskatīšanas gaitai, kā arī lemj par revīzijā konstatētās nelikumīgās rīcības rezultātā nodarīto zaudējumu piedziņu.
