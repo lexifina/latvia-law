@@ -11,3 +11,4 @@
 5) agrāk izdarījusi tīšu noziedzīgu nodarījumu, bet no soda izciešanas atbrīvota sakarā ar noilgumu, amnestiju vai apžēlošanu;
 6) ir vai ir bijusi PSRS vai Latvijas PSR vai ārvalsts valsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, minēto institūciju aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 7) ir vai ir bijusi ar Latvijas Republikas likumiem, Augstākās padomes lēmumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieks (biedrs) pēc šo organizāciju aizliegšanas.
+(3) (Daļa stājas spēkā 01.01.2023. un iekļauta likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 12. punktu)
