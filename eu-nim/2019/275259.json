@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019.gada 9.jūlija  noteikumi Nr.318 \"Grozījumi Ministru Kabineta 2010.gada 28.decembra noteikumos Nr.1229 \"Noteikumi par šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "139 (6478)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-11",
+  "entry_into_force": "2019-08-01",
+  "notification_date": "2019-07-11",
+  "commission_reference": "MNE(2019)54360",
+  "nim_celex": "72019L0114LVA_275259",
+  "nim_id": "275259",
+  "transposes_celex": [
+    "32019L0114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ca0870d4-737f-4636-beeb-e80058d7e8ad",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
