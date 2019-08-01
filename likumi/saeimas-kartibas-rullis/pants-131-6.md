@@ -1,0 +1,3 @@
+131.⁶ (1) Valsts kontrolieris vienlaikus ar Valsts kontroles gada finanšu pārskatu, kam pievienots zvērināta revidenta (zvērinātu revidentu komercsabiedrības) atzinums, rakstveidā iesniedz Saeimai ziņojumu par Valsts kontroles darbu. Šā ziņojuma kopijas nekavējoties izsniedz deputātiem.
+(2) Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Prezidijs ikgadējo ziņojumu par Valsts kontroles darbu iekļauj Saeimas sēdes darba kārtībā ne agrāk kā 10 un ne vēlāk kā 20 dienas pēc tā iesniegšanas.
+(3) Izskatot Saeimas sēdē ikgadējo ziņojumu par Valsts kontroles darbu, valsts kontrolieris ziņo par to, pēc tam tiek atklātas debates. Pēc debatēm runā, ja to vēlas, vienīgi valsts kontrolieris.
