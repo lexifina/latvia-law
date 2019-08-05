@@ -1,0 +1,8 @@
+24. pants. Paziņošana datu subjektam par personas datu aizsardzības pārkāpumu
+(1) Ja datu aizsardzības pārkāpums var radīt augstu datu subjekta tiesību un tiesisko interešu risku, pārzinis nekavējoties pēc tam, kad pārkāpums tam kļuvis zināms, paziņo par to datu subjektam. Paziņojumā datu subjektam norāda personas datu aizsardzības pārkāpuma raksturu un ietver vismaz šā likuma 23. panta trešās daļas 2., 3. un 4. punktā minēto informāciju, kā arī informāciju par pasākumiem, kas veikti datu aizsardzības pārkāpuma novēršanai.
+(2) Paziņojumu par personas datu aizsardzības pārkāpumu datu subjektam var nesniegt, ja ir izpildīts viens no šādiem nosacījumiem:
+1) pārzinis ir veicis atbilstošus tehniskos un organizatoriskos aizsardzības pasākumus, it īpaši tādus, kas personas datus padara nesaprotamus personām, kurām nav pilnvaru piekļūt attiecīgajiem datiem, un minētie pasākumi ir piemēroti personas datiem, kurus skāris personas datu aizsardzības pārkāpums;
+2) pārzinis ir veicis pasākumus, lai novērstu šā panta pirmajā daļā minēto augsto datu subjekta tiesību un tiesisko interešu risku;
+3) datu subjekta informēšana prasītu nesamērīgi lielas pūles. Šādā gadījumā datu subjekta informēšanai izmanto publisku saziņu vai līdzīgu tikpat efektīvu pasākumu.
+(3) Neatkarīgi no šā panta otrās daļas nosacījumiem Datu valsts inspekcija, ja pārzinis nav paziņojis datu subjektam par personas datu aizsardzības pārkāpumu, var pieprasīt, lai pārzinis par to paziņo datu subjektam.
+(4) Paziņošanu par personas datu aizsardzības pārkāpumu datu subjektam var atlikt, ierobežot vai paziņojumu var nesniegt, ja likumā, kas regulē konkrēto personas datu apstrādi, ir paredzēta personas datu apstrāde, neinformējot datu subjektu.

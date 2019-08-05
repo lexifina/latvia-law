@@ -1,0 +1,4 @@
+8. pants. Īpašu kategoriju personas datu apstrāde
+Personas datu apstrāde, kas atklāj fiziskās personas rases vai etnisko piederību, politiskos uzskatus, reliģisko vai filozofisko pārliecību vai dalību arodbiedrībās, kā arī ģenētisko un biometrisko datu apstrāde, lai veiktu fiziskās personas viennozīmīgu identifikāciju, vai tādu datu apstrāde, kuri attiecas uz fiziskās personas veselību vai dzimumdzīvi, vai seksuālo orientāciju, ir atļauta tikai tad, ja šāda apstrāde ir noteikta attiecīgā likumā vai ir absolūti nepieciešama un ja uz šādu apstrādi attiecas datu subjekta tiesību garantijas un ir iestājies vismaz viens no šādiem nosacījumiem:
+1) personas datu apstrāde nepieciešama, lai aizsargātu būtiskas datu subjekta vai citas fiziskās personas intereses;
+2) tiek apstrādāti tādi personas dati, kurus datu subjekts pats ir publiskojis.

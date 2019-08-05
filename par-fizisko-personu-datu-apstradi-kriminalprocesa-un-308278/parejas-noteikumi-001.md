@@ -1,0 +1,1 @@
+1. Izņēmuma gadījumos, kas saistīti ar nesamērīgi lielām pūlēm, līdz 2016. gada 6. maijam izveidoto automatizēto sistēmu atbilstību šā likuma 19. panta pirmajai daļai pārzinis var nodrošināt līdz 2023. gada 6. maijam.

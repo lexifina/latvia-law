@@ -1,0 +1,4 @@
+6. pants. Personas datu nošķiršana un kvalitātes pārbaude
+(1) Pārzinis, apstrādājot personas datus, skaidri nošķir dažādu datu subjektu kategoriju personas datus, kā arī personas datus, kas balstīti uz faktiem, no personas datiem, kas balstīti uz personiskiem vērtējumiem.
+(2) Pārzinis nodrošina, ka personas datus, kas ir neprecīzi, nepilnīgi vai nav aktuāli, nenosūta vai nedara citādi pieejamus. Kompetentā iestāde pirms personas datu nosūtīšanas pārbauda, vai personas dati ir precīzi, pilnīgi, ticami un aktuāli. Nosūtot personas datus, pārzinis tiem pievieno nepieciešamo informāciju, kas kompetentajai iestādei ļauj izvērtēt personas datu precizitāti, pilnību, ticamību un aktualitāti.
+(3) Ja ir nosūtīti nepareizi personas dati vai personas dati ir nosūtīti nelikumīgi, par to nekavējoties informē saņēmēju. Šādā gadījumā personas datus labo vai dzēš vai ierobežo to izmantošanu saskaņā ar šā likuma 13. pantu.
