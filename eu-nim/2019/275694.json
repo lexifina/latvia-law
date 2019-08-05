@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Par fizisko personu datu apstrādi kriminālprocesā un administratīvā pārkāpuma procesā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "147 (6486)",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-22",
+  "entry_into_force": "2019-08-05",
+  "notification_date": "2019-07-23",
+  "commission_reference": "MNE(2019)54556",
+  "nim_celex": "72016L0680LVA_275694",
+  "nim_id": "275694",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1c72199b-52f0-47c6-b3e6-242cb70e157a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
