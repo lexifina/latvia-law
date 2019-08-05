@@ -1,0 +1,1 @@
+16. pants. Saskaņā ar Konvencijas 16. panta 5. punkta "a" apakšpunktu Latvijas Republika nepiemēros Konvencijas 16. panta 1. punkta pirmo teikumu attiecībā uz visiem šā likuma pielikuma 1. tabulā minētajiem līgumiem.

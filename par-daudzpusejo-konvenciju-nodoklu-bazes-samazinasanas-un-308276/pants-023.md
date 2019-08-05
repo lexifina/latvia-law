@@ -1,0 +1,1 @@
+23. pants. Saskaņā ar Konvencijas 17. panta 3. punkta "a" apakšpunktu Latvijas Republika nepiemēros Konvencijas 17. panta 1. punktu attiecībā uz visiem šā likuma pielikuma 7. tabulā minētajiem līgumiem.

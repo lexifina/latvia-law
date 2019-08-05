@@ -1,0 +1,1 @@
+22. pants. Saskaņā ar Konvencijas 16. panta 6. punkta "d" apakšpunkta "ii" klauzulu Latvijas Republika piemēros Konvencijas 16. panta 3. punkta otro teikumu attiecībā uz šā likuma pielikuma 6. tabulā minētajiem līgumiem, ja arī otras līgumslēdzējas puses jurisdikcija būs iesniegusi atbilstošu paziņojumu attiecībā uz Latvijas Republiku.

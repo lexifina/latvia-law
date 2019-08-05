@@ -1,0 +1,1 @@
+1. pants. Daudzpusējā konvencija nodokļu bāzes samazināšanas un peļņas novirzīšanas novēršanas pasākumu ieviešanai attiecībā uz nodokļu konvencijām (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.

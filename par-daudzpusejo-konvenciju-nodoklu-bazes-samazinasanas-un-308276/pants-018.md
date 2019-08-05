@@ -1,0 +1,1 @@
+18. pants. Saskaņā ar Konvencijas 16. panta 6. punkta "b" apakšpunkta "ii" klauzulu Latvijas Republika nepiemēros Konvencijas 16. panta 1. punkta otro teikumu attiecībā uz visiem šā likuma pielikuma 2. tabulā minētajiem līgumiem.

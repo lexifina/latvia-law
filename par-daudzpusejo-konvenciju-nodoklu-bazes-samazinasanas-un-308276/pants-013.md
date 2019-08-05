@@ -1,0 +1,1 @@
+13. pants. Saskaņā ar Konvencijas 13. panta 6. punkta "a" apakšpunktu Latvijas Republika pilnībā nepiemēros Konvencijas 13. pantu attiecībā uz visiem šā likuma pielikuma 1. tabulā minētajiem līgumiem.

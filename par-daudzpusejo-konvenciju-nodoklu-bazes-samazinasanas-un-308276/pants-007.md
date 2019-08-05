@@ -1,0 +1,1 @@
+7. pants. Saskaņā ar Konvencijas 7. panta 17. punkta "a" apakšpunktu Latvijas Republika Konvencijas 7. panta 1. punktu attiecībā uz visiem šā likuma pielikuma 1. tabulā minētajiem līgumiem piemēros tiktāl, ciktāl attiecīgie šo līgumu noteikumi, ja tādi ir, nav saderīgi ar minēto Konvencijas normu.

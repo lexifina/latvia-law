@@ -1,0 +1,1 @@
+19. pants. Saskaņā ar Konvencijas 16. panta 6. punkta "b" apakšpunkta "i" klauzulu Latvijas Republika piemēros Konvencijas 16. panta 1. punkta otro teikumu attiecībā uz visiem šā likuma pielikuma 3. tabulā minētajiem līgumiem tiktāl, ciktāl attiecīgie šo līgumu noteikumi, ja tādi ir, nav saderīgi ar minēto Konvencijas normu.

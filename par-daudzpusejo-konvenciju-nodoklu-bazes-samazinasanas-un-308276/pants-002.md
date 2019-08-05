@@ -1,0 +1,1 @@
+2. pants. Konvencijas normas tiek piemērotas attiecībā uz šā likuma pielikuma 1. tabulā minētajiem Latvijas Republikas starptautiskajiem divpusējiem līgumiem par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu (turpmāk - līgumi).

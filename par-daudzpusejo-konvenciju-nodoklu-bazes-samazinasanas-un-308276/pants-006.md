@@ -1,0 +1,1 @@
+6. pants. Saskaņā ar Konvencijas 6. panta 5. punktu Latvijas Republika Konvencijas 6. panta 1. punkta preambulas tekstu piemēros papildus esošajai preambulai attiecībā uz visiem šā likuma pielikuma 1. tabulā minētajiem līgumiem.

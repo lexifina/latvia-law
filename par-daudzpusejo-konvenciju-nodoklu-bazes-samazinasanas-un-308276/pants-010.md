@@ -1,0 +1,1 @@
+10. pants. Saskaņā ar Konvencijas 10. panta 5. punkta "a" apakšpunktu Latvijas Republika pilnībā nepiemēros Konvencijas 10. pantu attiecībā uz visiem šā likuma pielikuma 1. tabulā minētajiem līgumiem.
