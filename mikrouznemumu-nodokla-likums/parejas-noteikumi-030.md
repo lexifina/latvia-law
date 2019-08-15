@@ -1,0 +1,1 @@
+30. Grozījums šā likuma 6. panta piektajā daļā attiecībā uz tās izteikšanu jaunā redakcijā, grozījumi 7. pantā attiecībā uz trešās daļas izteikšanu jaunā redakcijā un sestās daļas otrajā teikumā attiecībā uz vārda "budžetā" aizstāšanu ar vārdiem "vienotajā nodokļu kontā", kā arī grozījums 8. pantā attiecībā uz tā izteikšanu jaunā redakcijā stājas spēkā 2021. gada 1. janvārī.
