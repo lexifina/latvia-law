@@ -19,4 +19,4 @@ Ministru kabinets nosaka:
 17) kārtību, kādā iesniedz iesniegumu par atteikšanos no precēm par labu valstij, iesniegumā norādāmās ziņas un tam pievienojamos dokumentus;
 18) muitošanas kārtību, apgādājot kuģi (tajā skaitā karakuģi) un gaisa kuģi ar krājumiem, rezerves daļām un aprīkojumu;
 19) kārtību, kādā uz autoceļa izveidotajā robežšķērsošanas vietā aizpilda un iesniedz akcīzes preču pārvietošanas paziņojumu par atsevišķām akcīzes precēm, kuras fiziskā persona pārvieto personīgajā bagāžā, kas par tādu uzskatāma Padomes 2009. gada 16. novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem 41. panta izpratnē, kā arī par komerciālajā mehāniskajā transportlīdzeklī esošās degvielas apjomu, kas nepieciešams transportlīdzekļa darbības nodrošināšanai;
-20) (punkts stājas spēkā 01.09.2019. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 9. punktu).
+20) kārtību, kādā atzīstamas vietas, kurās var atrasties preces, piemērojot eksporta procedūru vai reeksportu, un vietas, kurās var uzglabāt eksportam paredzētās preces.
