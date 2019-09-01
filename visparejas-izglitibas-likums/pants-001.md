@@ -9,7 +9,7 @@
 4²) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
 5) mācību priekšmets - noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības;
 6) mācību stundu (nodarbību) slodze - izglītības programmā ietvertais regulāri apmeklējamo mācību stundu skaits mācību nedēļā;
-7) pedagoģiskā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā, kurām nepieciešams papildināt zināšanas pamatizglītības programmas ietvaros;
+7) (izslēgts no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu);
 8) sociālā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm;
 9) pagarinātās dienas grupa - izglītības iestādes nodrošināta iespēja izglītojamajiem saņemt pedagoģisku palīdzību un organizēti pavadīt brīvo laiku ārpus obligātajām mācību stundām;
 10) sekmju izraksts - dokuments, kas parāda izglītojamā mācību sasniegumu vērtējumu mācību priekšmetos;
