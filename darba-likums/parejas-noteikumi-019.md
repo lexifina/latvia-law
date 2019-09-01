@@ -1,0 +1,1 @@
+19. Grozījums šā likuma 155. panta piektajā daļā, kas paredz atvaļinājuma piešķiršanu vienam adoptētājam, ja adoptēts bērns vecumā līdz 18 gadiem, piemērojams, ja tiesas spriedums par bērna adopciju stājies spēkā pēc 2019. gada 1. septembra.
