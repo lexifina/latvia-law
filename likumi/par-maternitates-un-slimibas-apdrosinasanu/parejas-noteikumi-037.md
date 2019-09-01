@@ -1,0 +1,1 @@
+37. Paternitātes pabalstu vienam no vecākiem sakarā ar ārpusģimenes aprūpē esoša bērna vecumā no trīs līdz 18 gadiem adopciju piešķir par bērnu, par kura adopciju tiesas spriedums stājies spēkā pēc 2019. gada 1. septembra.
