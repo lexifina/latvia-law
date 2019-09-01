@@ -1,0 +1,1 @@
+15. Ieslodzījuma vieta ne vēlāk kā līdz 2020. gada 30. aprīlim aktualizē Iedzīvotāju reģistrā iekļautās ziņas par personas, kura ievietota ieslodzījuma vietā līdz 2020. gada 31. janvārim, papildu adresi, ja papildu adreses norādīšanas brīdī persona atrodas ieslodzījuma vietā.
