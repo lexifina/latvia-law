@@ -1,4 +1,4 @@
-40. pants. Pārvadātāja pienākumi un atbildība
+40. pants. Pārvadātāja, autovadītāja un tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja pienākumi un atbildība
 (1) Pārvadātāja pienākums ir nodrošināt pasažierim biļetē norādīto vietu pasažieru regulāro pārvadājumu autotransporta līdzeklī, kā arī drošu braucienu un pārvadāšanai nodotās bagāžas saglabāšanu un nogādāšanu galapunktā.
 (2) Pārvadātājam šā likuma 43. panta trešajā daļā paredzētajos gadījumos ir jāatlīdzina pasažierim biļetes vērtība pasažieru pārvadāšanas noteikumos minētajā kārtībā un apmērā.
 (3) Pārvadātājam ir pienākums atlīdzināt tiešos zaudējumus (neieskaitot atrauto peļņu), kas radušies, ja pasažieru regulāro pārvadājumu autotransporta līdzekļa pienākšana vai atiešana (saskaņā ar normatīvo aktu prasībām) neatbilst kustības sarakstam, kā arī tad, ja ir atcelts reiss starptautiskajā maršrutā, uz kuru pasažieris iegādājies biļeti.
@@ -7,9 +7,17 @@
 (6) Pārvadātājs ir atbildīgs par zaudējumiem, kas radušies pārvadāšanas laikā, ja pasažieris gājis bojā, guvis sakropļojumu vai citu veselības bojājumu vai viņa mantai nodarīts bojājums un pārvadātājs nepierāda, ka zaudējums radies nepārvaramas varas dēļ, ar paša cietušā nodomu vai viņa rupjas neuzmanības dēļ. Par zaudējumiem, kas radušies pasažiera iekāpšanas vai izkāpšanas laikā un bagāžas iekraušanas vai izkraušanas laikā, pārvadātājs atbild, ja ir konstatēta viņa vaina.
 (7) Veicot pasažieru pārvadājumus, uz kuriem attiecināma regula (ES) Nr. 181/2011, pārvadātāja pienākumus un atbildību saistībā ar autobusu pasažieru tiesībām papildus nosaka minētā regula.
 (8) Piemērojot regulu (ES) Nr. 181/2011, maksimālā kompensācijas summa saistībā ar pasažiera nāvi vai miesas bojājumiem vai bagāžas nozaudēšanu vai bojājumu katrā atsevišķā gadījumā nav mazāka kā regulas (ES) Nr. 181/2011 7.panta 2.punktā norādītā summa.
-(9) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(10) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(11) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(12) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(13) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(14) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(9) Pasažieru komercpārvadājumos ar taksometru vai vieglo automobili, pieņemot izsaukumu no personas ar kustību traucējumiem, pārvadātājs vai tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs pēc minētās personas pieprasījuma nodrošina autotransporta līdzekli, kas piemērots personu ar kustību traucējumiem pārvadāšanai, un autovadītāju, kurš var sniegt pakalpojumu šādām personām.
+(10) Pasažieru komercpārvadājumos ar taksometru vai vieglo automobili autovadītājam ir pienākums pēc pilnvarotās kontroles institūcijas amatpersonas pieprasījuma iesniegt pārbaudei pārvadājumu veikšanai nepieciešamos dokumentus un nodrošināt iespēju nolasīt taksometra skaitītāja summāros rādītājus vai informāciju par tīmekļvietnē vai mobilajā lietotnē reģistrēto pārvadājumu pakalpojumu.
+(11) Pasažieru komercpārvadājumos ar taksometru:
+1) autovadītājam ir pienākums pirms brauciena informēt pasažieri par braukšanas maksas aprēķinā piemēroto tarifu un papildmaksu atbilstoši cenrādim;
+2) autovadītājam aizliegts veikt pasažieru komercpārvadājumus, ja taksometra skaitītājs nav ieslēgts, ja tas neatbilst normatīvajos aktos noteiktajām metroloģiskajām prasībām vai ja nav ievērota normatīvajos aktos par nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu lietošanu noteiktā taksometra skaitītāja lietošanas kārtība;
+3) autovadītājam aizliegts uzņemt taksometrā citus pasažierus, ja tam nepiekrīt taksometrā esošie pasažieri, kā arī aizliegts ar citu personu (kuras nepiedalīsies braucienā) starpniecību uzaicināt un komplektēt pasažierus, norādot brauciena virzienu vai galapunktu;
+4) autovadītājam, norēķinoties ar pasažieri atbilstoši taksometra skaitītāja reģistrētajai braukšanas maksai vai kopējai maksai, ko veido braukšanas maksa un cenrādī noteiktā papildmaksa, ir pienākums izsniegt taksometra skaitītāja reģistrētu darījumu apliecinošu dokumentu (čeku).
+(12) Pārvadātājam ir pienākums nodrošināt iespēju taksometros veikt bezskaidras naudas norēķinus.
+(13) Pasažieru komercpārvadājumos ar vieglo automobili:
+1) autovadītājs braukšanas maksas aprēķinam lieto tīmekļvietni vai mobilo lietotni, kuras programma nodrošina iespēju tiešsaistē pieprasīt, apstiprināt un atteikt pārvadājumu pakalpojumu, aprēķināt braukšanas maksu un veikt bezskaidras naudas norēķinus;
+2) autovadītājam aizliegts veikt pasažieru komercpārvadājumus, ja tīmekļvietne vai mobilā lietotne nedarbojas tiešsaistes režīmā;
+3) autovadītājam aizliegts maksu par pasažieru komercpārvadājumu pakalpojumu saņemt skaidrā naudā;
+4) autovadītājam aizliegts uzņemt pasažieri, izmantojot citus komercpārvadājumu pakalpojuma pieprasījuma veidus.
+(14) Tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs un pārvadātājs, kas sniedz pasažieru komercpārvadājumu pakalpojumu, izmantojot tīmekļvietni vai mobilo lietotni, ir solidāri atbildīgi par pasažieru komercpārvadājumu pakalpojuma nodrošināšanu.

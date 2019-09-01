@@ -1,0 +1,20 @@
+35.² pants. Tīmekļvietnes un mobilās lietotnes pakalpojumi
+(1) Tīmekļvietnes vai mobilās lietotnes pakalpojumus Latvijas Republikā var sniegt un pārvadātājs un autovadītājs šos pakalpojumus var izmantot, ja tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs ir reģistrēts Autotransporta direkcijas uzturētajā Autopārvadātāju informatīvajā datu bāzē. Autotransporta direkcija reģistrē tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēju, ja tas atbilst šādām prasībām:
+1) ir reģistrēts kādā Eiropas Savienības dalībvalstī atbilstoši komersanta reģistrācijas valsts normatīvo aktu prasībām;
+2) tam nav nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu, kuru kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;
+3) tas ir izpildījis visas Patērētāju tiesību aizsardzības centram iesniegtās rakstveida apņemšanās par konstatēto pārkāpumu novēršanu un visus Patērētāju tiesību aizsardzības centra tam piemērotos lēmumus;
+4) tas nodrošina informācijas apstrādi un glabāšanu atbilstoši šā panta sestajā daļā noteiktajai kārtībai;
+5) tā izmantotā tīmekļvietne vai mobilā lietotne nodrošina:
+a) informāciju par piedāvāto pasažieru komercpārvadājumu pakalpojumu, tarifiem, papildmaksu par papildu pakalpojumiem, pārvadātāju, autovadītāju un autotransporta līdzekli, kā arī iespēju pieprasīt autotransporta līdzekli, kas piemērots personai ar kustību traucējumiem,
+b) iespēju tiešsaistē pieprasīt un apstiprināt komercpārvadājumu pakalpojumu,
+c) pasažieru komercpārvadājumos ar vieglo automobili - iespēju aprēķināt braukšanas maksu un veikt samaksu tiešsaistē bezskaidras naudas norēķinus, kā arī brauciena beigās pasažierim uz tīmekļvietnē vai mobilajā lietotnē reģistrēto pasažiera elektroniskā pasta adresi nosūtīt elektroniski sagatavotu rēķinu un informāciju par saņemto komercpārvadājumu pakalpojumu.
+(2) Reģistrāciju anulē, ja tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja darbībā konstatē būtiskus šo komercdarbību reglamentējošu normatīvo aktu pārkāpumus, kā arī ja tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs nepamatoti liedz piekļuvi pasažieru komercpārvadājumu ar taksometru vai vieglo automobili pakalpojumam.
+(3) Tīmekļvietnes vai mobilās lietotnes darbību bloķē, ja tīmekļvietnes vai mobilās lietotnes pakalpojumi tiek piedāvāti bez reģistrācijas.
+(4) Tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējam aizliegts tīmekļvietnē vai mobilajā lietotnē reģistrēt un piedāvāt pārvadātāju, autovadītāju un autotransporta līdzekli, kas neatbilst šā likuma 35. panta pirmās, piektās un astotās daļas prasībām.
+(5) Tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējam aizliegts nepamatoti liegt piekļuvi pasažieru komercpārvadājumu pakalpojumam, kā arī dzēst vai labot informāciju par Latvijas teritorijā tīmekļvietnē vai mobilajā lietotnē pieņemtajiem, atteiktajiem un sniegtajiem pasažieru komercpārvadājumu pakalpojumiem, autovadītājiem un autotransporta līdzekļiem.
+(6) Tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs sniedz Valsts ieņēmumu dienestam informāciju par Latvijas teritorijā tīmekļvietnē vai mobilajā lietotnē piedāvātajiem, pārvadātāja atteiktajiem un sniegtajiem pasažieru komercpārvadājumiem, autovadītājiem un autotransporta līdzekļiem. Šo informāciju tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs apstrādā un glabā Eiropas Savienības dalībvalstī vai Ziemeļatlantijas līguma organizācijas (NATO) dalībvalstī vismaz piecus gadus.
+(7) Ministru kabinets nosaka:
+1) kārtību tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja reģistrācijai, reģistrācijas anulēšanai un tīmekļvietnes vai mobilās lietotnes bloķēšanai;
+2) tīmekļvietnes vai mobilās lietotnes funkcionalitāti un tajā norādāmo informāciju;
+3) tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja darbības uzraudzības kārtību;
+4) kārtību, kādā tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs sniedz informāciju Valsts ieņēmumu dienestam, un šīs informācijas apjomu.

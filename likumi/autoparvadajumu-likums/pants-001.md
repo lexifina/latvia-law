@@ -40,7 +40,6 @@ b) tiek pārvadāts viens vai vairāki konteineri vai maināmas virsbūves, kuru
 29¹) starptautiskais maršruts - maršruts, kas šķērso Latvijas valsts robežu;
 30) starptautiskie pārvadājumi - pārvadājumi, kurus veicot nepieciešams šķērsot Latvijas valsts robežu;
 31) šķidrā krava - nafta un naftas produkti, spirts, augu eļļa, dzīvnieku tauki un cita krava, ko pārvadā noslēgtās tilpnēs;
-32) tiešā jauktā satiksme - pasažieru vai kravas pārvadājumi, kurus ar autotransportu un citu transportu veic vairāki pārvadātāji un kuriem tiek sastādīts vienots transporta dokuments visam braukšanas ceļam;
-32.¹) (punkts stājas spēkā 01.09.2019. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 39. punktu);
-32.²) (punkts stājas spēkā 01.09.2019. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 39. punktu);
+32) tiešā jauktā satiksme - pasažieru vai kravas pārvadājumi, kurus ar autotransportu un citu transportu veic vairāki pārvadātāji un kuriem tiek sastādīts vienots transporta dokuments visam braukšanas ceļam;32¹) tīmekļvietnes vai mobilās lietotnes pakalpojums - tiešsaistes pakalpojums autopārvadājumiem;
+32²) tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs - komersants, kas atbilstoši ar pārvadātāju noslēgtam līgumam tiešsaistes režīmā organizē autopārvadājumus un sniedz saistītus pakalpojumus;
 33) transporta ekspedīcijas pakalpojumi - ar kravas nosūtīšanu, pārvadāšanu, saņemšanu un uzglabāšanu saistītu pakalpojumu un darbu komplekss, kuru veic par maksu.

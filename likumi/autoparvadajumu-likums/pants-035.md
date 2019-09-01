@@ -1,29 +1,45 @@
 35. pants. Pasažieru komercpārvadājumi ar taksometru un vieglo automobili
-(1) Pasažieru komercpārvadājumus ar taksometru drīkst veikt, ja pārvadātājs ir saņēmis speciālo atļauju (licenci). Speciālās atļaujas (licences) izsniedz republikas pilsētu pašvaldības un plānošanas reģioni.
-(1¹) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1²) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1³) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1⁴) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1⁵) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1⁶) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(1⁷) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(1) Pasažieru komercpārvadājumus ar taksometru drīkst veikt, ja pārvadātājs ir saņēmis plānošanas reģiona vai republikas pilsētas pašvaldības izsniegtu speciālo atļauju (licenci) un licences kartīti attiecībā uz katru autotransporta līdzekli.
+(1¹) Speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru plānošanas reģions vai republikas pilsētas pašvaldība izsniedz pārvadātājam, kurš reģistrēts komercreģistrā un kuram nav nodokļu parādu, kuru kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību.
+(1²) Plānošanas reģions vai republikas pilsētas pašvaldība speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru izsniedz, publicējot informāciju savā tīmekļvietnē. Vienlaikus informāciju par speciālās atļaujas (licences) izsniegšanu nosūta uz pārvadātāja iesniegumā norādīto elektroniskā pasta adresi. Speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru izsniedz uz četriem gadiem.
+(1³) Pamatojoties uz plānošanas reģiona vai republikas pilsētas pašvaldības izsniegto speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru, pārvadātāja autotransporta līdzeklim izsniedz licences kartīti, ja autotransporta līdzeklis:
+1) atbilst šā likuma 29. panta prasībām attiecībā uz pasažieru komercpārvadājumiem ar taksometru;
+2) ir aprīkots ar taksometra skaitītāju, kas reģistrēts Valsts ieņēmumu dienesta vienotajā datu bāzē (reģistrā) lietošanā uz pārvadātāja vārda.
+(1⁴) Vienā administratīvajā teritorijā autotransporta līdzeklim izsniedz vienu licences kartīti kā konkrētās speciālās atļaujas (licences) neatņemamu sastāvdaļu.
+(1⁵) Plānošanas reģions vai republikas pilsētas pašvaldība licences kartīti pasažieru komercpārvadājumiem ar taksometru izsniedz, izdarot ierakstu transportlīdzekļu un to vadītāju valsts reģistrā un neizmantojot drošu elektronisko parakstu. Licences kartīti izsniedz uz pārvadātāja iesniegumā pieprasīto termiņu, kas nepārsniedz:
+1) speciālās atļaujas (licences) derīguma termiņu;
+2) termiņu, līdz kuram autotransporta līdzeklis nodots turējumā pārvadātājam;
+3) termiņu, līdz kuram derīga taksometram piešķirtā atļauja piedalīties ceļu satiksmē;
+4) periodu, par kuru veikts plānošanas reģiona vai republikas pilsētas pašvaldības noteiktais maksājums par licences kartītes izsniegšanu;
+5) periodu, par kuru veikts valsts sociālās apdrošināšanas obligāto iemaksu avansa maksājums.
+(1⁶) Plānošanas reģions un republikas pilsētas pašvaldība var noteikt maksu par licences kartītes izsniegšanu.
+(1⁷) Kārtību, kādā plānošanas reģions vai republikas pilsētas pašvaldība izsniedz un anulē licences kartīti pasažieru komercpārvadājumiem ar taksometru, nosaka Ministru kabinets.
 (2) Plānošanas reģiona izsniegtā speciālā atļauja (licence) nedod tiesības veikt pasažieru komercpārvadājumus ar taksometru republikas pilsētas teritorijā, un republikas pilsētas pašvaldības izsniegtā speciālā atļauja (licence) nedod tiesības veikt pasažieru komercpārvadājumus ar taksometru pārējā plānošanas reģiona teritorijā. Speciālā atļauja (licence) dod tiesības nogādāt pasažieri uz jebkuru citu vietu ārpus republikas pilsētas vai pārējās tā plānošanas reģiona teritorijas, attiecībā uz kuru saņemta speciālā atļauja (licence).
-(3) Prasības plānošanas reģiona un republikas pilsētas speciālās atļaujas (licences) saņemšanai, kārtību, kādā veicami pasažieru pārvadājumi ar taksometru, taksometru radītā vides piesārņojuma ierobežojumus un siltumnīcefekta gāzu emisiju apjomu plānošanas reģionos, kā arī Valsts ieņēmumu dienestam sniedzamās informācijas apjomu nosaka Ministru kabinets.
-(3¹) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(3²) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(3³) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(4) Ievērojot šā panta trešo daļu, kārtību, kādā veicami pasažieru komercpārvadājumi ar taksometru republikas pilsētas administratīvajā teritorijā, nosaka republikas pilsētas pašvaldības dome. Pašvaldība var noteikt ierobežojumus taksometru radītajam vides piesārņojumam un siltumnīcefekta gāzu emisijām.
-(5) Pasažieru komercpārvadājumus ar vieglo automobili drīkst veikt, ja pārvadātājs ir saņēmis speciālo atļauju (licenci), kuru izsniedz Autotransporta direkcija.
-(5¹) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(5²) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(5³) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(5⁴) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(5⁵) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(5⁶) (Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(6) Prasības speciālās atļaujas (licences) saņemšanai, kārtību, kādā veicami pasažieru komercpārvadājumi ar vieglo automobili, kā arī Valsts ieņēmumu dienestam sniedzamās informācijas apjomu nosaka Ministru kabinets.
-(6¹) Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(6²) Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
-(6³) Daļa stājas spēkā 01.09.2019. un iekļauta likuma redakcijā 01.09.2019. Sk. Pārejas noteikumu 39. punktu)
+(3) Kārtību, kādā plānošanas reģions un republikas pilsētas pašvaldība izsniedz un anulē speciālo atļauju (licenci) un kādā veicami pasažieru pārvadājumi ar taksometru, nosaka Ministru kabinets.
+(3¹) Plānošanas reģions un republikas pilsētas pašvaldība var ar motivētu lēmumu anulēt speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar taksometru, ja pārvadātājs:
+1) būtiski pārkāpj normatīvajos aktos noteiktās pārvadājumu saistības vai kārtību, kādā veicami pasažieru komercpārvadājumi ar taksometru, vai rada draudus pasažieru drošībai;
+2) iesniedz iesniegumu par speciālās atļaujas (licences) pasažieru komercpārvadājumiem ar taksometru anulēšanu. Lēmumu par speciālās atļaujas (licences) anulēšanu plānošanas reģions vai republikas pilsētas pašvaldība pieņem 30 dienu laikā pēc tam, kad saņemta informācija par pārvadātāja nodokļu saistību izpildi vai to administratīvo sodu izpildi, kuri piemēroti par pasažieru komercpārvadājumus ar taksometru regulējošo noteikumu pārkāpumiem.
+(3²) Ja speciālā atļauja (licence) pasažieru komercpārvadājumiem ar taksometru tiek anulēta, spēku zaudē arī licences kartīte.
+(3³) Plānošanas reģions un republikas pilsētas pašvaldība var anulēt autotransporta līdzeklim izsniegto licences kartīti, ja pārvadātājs iesniedz iesniegumu par licences kartītes pasažieru komercpārvadājumiem ar taksometru anulēšanu. Lēmumu par licences kartītes anulēšanu plānošanas reģions vai republikas pilsētas pašvaldība pieņem 30 dienu laikā pēc tam, kad saņemta informācija par pārvadātāja nodokļu saistību izpildi vai to administratīvo sodu izpildi, kuri piemēroti par pasažieru komercpārvadājumus ar taksometru regulējošo noteikumu pārkāpumiem.
+(4) (Izslēgta no 01.09.2019. ar 13.06.2019. likumu, kas stājas spēkā 12.07.2019. Sk. Pārejas noteikumu 39. punktu)
+(5) Pasažieru komercpārvadājumus ar vieglo automobili drīkst veikt, ja pārvadātājs ir saņēmis Autotransporta direkcijas izsniegtu speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili un licences kartīti attiecībā uz katru autotransporta līdzekli.
+(5¹) Speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili Autotransporta direkcija izsniedz pārvadātājam, kurš reģistrēts komercreģistrā un kuram nav nodokļu parādu, kuru kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību.
+(5²) Speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili Autotransporta direkcija izsniedz, izdarot ierakstu tās uzturētajā Autopārvadātāju informatīvajā datu bāzē un nenoformējot atsevišķu rakstveida lēmumu. Vienlaikus informāciju par speciālās atļaujas (licences) izsniegšanu publicē Autotransporta direkcijas tīmekļvietnē un nosūta uz pārvadātāja iesniegumā norādīto elektroniskā pasta adresi. Speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili izsniedz uz četriem gadiem.
+(5³) Pamatojoties uz Autotransporta direkcijas izsniegto speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili, pārvadātāja autotransporta līdzeklim izsniedz licences kartīti, ja autotransporta līdzeklis atbilst šā likuma 29. panta prasībām attiecībā uz pasažieru komercpārvadājumiem ar vieglo automobili.
+(5⁴) Autotransporta direkcija licences kartīti pasažieru komercpārvadājumiem ar vieglo automobili izsniedz, izdarot ierakstu tās uzturētajā Autopārvadātāju informatīvajā datu bāzē un nenoformējot atsevišķu rakstveida lēmumu. Vienlaikus informāciju par licences kartītes izsniegšanu publicē Autotransporta direkcijas tīmekļvietnē un nosūta uz pārvadātāja iesniegumā norādīto elektroniskā pasta adresi.
+(5⁵) Licences kartīti izsniedz uz pārvadātāja iesniegumā pieprasīto termiņu, kas nepārsniedz:
+1) speciālās atļaujas (licences) derīguma termiņu;
+2) termiņu, līdz kuram autotransporta līdzeklis nodots turējumā pārvadātājam;
+3) termiņu, līdz kuram derīga autotransporta līdzeklim piešķirtā atļauja piedalīties ceļu satiksmē;
+4) periodu, par kuru veikts maksājums par licences kartītes izsniegšanu;
+5) periodu, par kuru veikts valsts sociālās apdrošināšanas obligāto iemaksu avansa maksājums.
+(5⁶) Kārtību, kādā Autotransporta direkcija izsniedz un anulē licences kartīti pasažieru komercpārvadājumiem ar vieglo automobili, nosaka Ministru kabinets.
+(6) Kārtību, kādā Autotransporta direkcija izsniedz un anulē speciālo atļauju (licenci) un kādā veicami pasažieru komercpārvadājumi ar vieglo automobili, nosaka Ministru kabinets.
+(6¹) Autotransporta direkcija var anulēt speciālo atļauju (licenci) pasažieru komercpārvadājumiem ar vieglo automobili, ja pārvadātājs:
+1) būtiski pārkāpj normatīvajos aktos noteiktās pārvadājumu saistības vai kārtību, kādā veicami pasažieru komercpārvadājumi ar vieglo automobili, vai rada draudus pasažieru drošībai;
+2) iesniedz iesniegumu par speciālās atļaujas (licences) pasažieru komercpārvadājumiem ar vieglo automobili anulēšanu. Lēmumu par speciālās atļaujas (licences) anulēšanu Autotransporta direkcija pieņem 30 dienu laikā pēc tam, kad saņemta informācija par pārvadātāja nodokļu saistību izpildi vai to administratīvo sodu izpildi, kuri piemēroti par pasažieru komercpārvadājumus ar vieglo automobili regulējošo noteikumu pārkāpumiem.
+(6²) Ja speciālā atļauja (licence) pasažieru komercpārvadājumiem ar vieglo automobili tiek anulēta, spēku zaudē arī licences kartīte.
+(6³) Autotransporta direkcija var anulēt autotransporta līdzeklim izsniegto licences kartīti, ja pārvadātājs iesniedz iesniegumu par licences kartītes pasažieru komercpārvadājumiem ar vieglo automobili anulēšanu. Lēmumu par licences kartītes anulēšanu Autotransporta direkcija pieņem 30 dienu laikā pēc tam, kad saņemta informācija par pārvadātāja nodokļu saistību izpildi vai to administratīvo sodu izpildi, kuri piemēroti par pasažieru komercpārvadājumus ar vieglo automobili regulējošo noteikumu pārkāpumiem.
 (7) (Izslēgta ar 13.06.2019. likumu)
 (8) Tiesības vadīt transportlīdzekli pasažieru komercpārvadājumos ar taksometru vai pasažieru komercpārvadājumos ar vieglo automobili ir tādai personai, kuras stāžs, vadot B transportlīdzekļu vadītāju apliecību kategorijai atbilstošus transportlīdzekļus, ir vismaz trīs gadi un kura ir reģistrēta Autotransporta direkcijas uzturētajā taksometru vadītāju reģistrā. Ministru kabinets nosaka taksometru vadītāju reģistra izveidošanas un izmantošanas kārtību, iekļaujamās informācijas apjomu, pasažieru komercpārvadājumu ar taksometru un vieglo automobili vadītājiem izvirzāmās prasības un reģistrācijas kārtību, kā arī ziņu izsniegšanas kārtību, gadījumus, kad vadītājus izslēdz no reģistra, un izslēgšanas kārtību.
 (9) Par speciālās atļaujas (licences) izsniegšanu pasažieru komercpārvadājumiem ar taksometru vai vieglo automobili maksājama valsts nodeva, kuras apmēru un maksāšanas kārtību nosaka Ministru kabinets.
