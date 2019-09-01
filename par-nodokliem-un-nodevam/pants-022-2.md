@@ -11,7 +11,7 @@
 6) darījumā izmantots viltots dokuments;
 7) aizdomīgs darījums ar elektronisko naudu;
 8) nauda tiek debetēta no konta tūlīt pēc tā kreditēšanas;
-9) privātpersona vienā vai vairākos darījumos skaidrā naudā iegulda komercsabiedrībā, izmaksā, aizdod vai aizņemas no citas privātpersonas 60 000 euro vai vairāk;
+9) privātpersona vienā vai vairākos darījumos skaidrā naudā iegulda komercsabiedrībā, izmaksā, aizdod vai aizņemas no citas privātpersonas 10 000 euro vai vairāk;
 10) izvairīšanās no nodokļu nomaksas;
 11) uzkrītošas izmaiņas konta bilancē (palielināta apgrozība u.c.);
 12) klientam ir pārmērīgi liels kontu skaits;
