@@ -1,7 +1,7 @@
-60.pants. Sociālās vai pedagoģiskās korekcijas izglītības iestāžu dibināšana, klašu atvēršana un izglītojamo uzņemšana
+60. pants. Sociālās korekcijas izglītības iestāžu dibināšana un izglītojamo uzņemšana
 (1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pakļautībā.
-(2) Pedagoģiskās korekcijas izglītības iestādes dibina valsts, pašvaldības, citas juridiskās un fiziskās personas.
-(3) Jebkura izglītības iestāde var atvērt klases izglītojamajiem, kuriem nepieciešama sociālā vai pedagoģiskā korekcija.
+(2) (Izslēgta no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu)
+(3) (Izslēgta no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu)
 (4) Izglītojamo sociālās korekcijas izglītības iestādē uzņem likumā "Par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem" noteiktajā kārtībā.
-(5) Uzņemšanas kārtību pedagoģiskās korekcijas izglītības iestādē vai klasē un sociālās korekcijas klasē nosaka attiecīgās iestādes dibinātājs.
-(6) Izglītības iestādēm, kurās tiek izveidotas sociālās vai pedagoģiskās korekcijas klases, obligāti ir jānodrošina pagarinātās darba dienas grupa individuālajam darbam ar izglītojamajiem, kas mācās šajās klasēs.
+(5) (Izslēgta no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu)
+(6) (Izslēgta no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu)
