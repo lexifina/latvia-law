@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 3. septembra noteikumi Nr. 413 \"Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2019-09-06",
+  "entry_into_force": "2019-09-07",
+  "notification_date": "2019-09-17",
+  "commission_reference": "MNE(2019)55435",
+  "nim_celex": "72018L0725LVA_277144",
+  "nim_id": "277144",
+  "transposes_celex": [
+    "32018L0725"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ef8cdc59-db85-11e9-9c4e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
