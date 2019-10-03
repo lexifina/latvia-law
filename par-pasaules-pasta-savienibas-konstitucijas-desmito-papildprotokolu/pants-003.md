@@ -1,0 +1,1 @@
+3. pants. Konstitūcijas Desmitais papildprotokols stājas spēkā tā IV pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Konstitūcijas Desmitais papildprotokols angļu valodā un tā tulkojums latviešu valodā.
