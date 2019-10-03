@@ -1,0 +1,1 @@
+1. pants. 2018. gada 7. septembrī parakstītais Pasaules Pasta savienības Vispārīgā reglamenta Otrais papildprotokols (turpmāk - Vispārīgā reglamenta Otrais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
