@@ -1,0 +1,1 @@
+3. pants. Līguma grozījums stājas spēkā tā IV pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Līguma grozījums latviešu un angļu valodā.

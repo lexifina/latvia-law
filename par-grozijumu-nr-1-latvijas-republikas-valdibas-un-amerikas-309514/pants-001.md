@@ -1,0 +1,1 @@
+1. pants. 2019. gada 4. septembrī parakstītais Grozījums Nr. 1 Latvijas Republikas valdības un Amerikas Savienoto Valstu valdības 2004. gada septembra līgumā par sadarbību tiesībaizsardzības jomā (turpmāk - Līguma grozījums) ar šo likumu tiek pieņemts un apstiprināts.
