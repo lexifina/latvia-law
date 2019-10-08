@@ -122,6 +122,27 @@ h)nežāvēts augu maisījums, kas satur 7. punkta 4. apakšpunkta "a" apakšpun
 kokas krūma lapas, izžāvētas
 10 g
 500 g
+7.¹ Aprakstam atbilstošās narkotiskās vielas:
+Nr.Vielas nosaukumsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
+1)Indola, azaindolu un indazola-3-karbonilatvasinājumi
+Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-karbonilatvasinājumi, kas aizvietoti pie indola, azaindolu vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu;
+• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu;
+• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu;
+• aizvietotu aminogrupu
+un indola vai azaindolu cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola, azaindolu vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu
+0,003 g1 g
+2)Acetilfentanili
+N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(1-fenetilpiperidin-4-il)-N-fenilacetamīda, ja izpildīts viens vai vairāki šādi nosacījumi:
+a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, alkilgrupām, hidroksilgrupām vai alkoksigrupām;
+b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
+c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
+d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām), alkenilgrupu, metoksigrupu vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
+e) aizvietojot etilēngrupu ar metilēngrupu;
+f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu fenilgrupu vai estergrupu;
+g) nomainot N-(1-fenetilpiperidin-4-il)grupā esošo benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
+h) nomainot N-fenilgrupas benzola gredzenu ar citu piesātinātu, no benzola gredzena atšķirīgu ciklu, kas var būt aizvietots
+0,001 g1 g
 8. Vielas un augi, kas klasificēti atbilstoši 1971.gada 21.februāra Konvencijai par psihotropām vielām:
 8.1. Feniletilamīna atvasinājumi
 Nr.
@@ -391,14 +412,7 @@ a) neaizvietojot vai aizvietojot ūdeņraža atomu pie pirola slāpekļa atoma;
 b) papildus "a" apakšpunktā minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus pirola ciklā;
 c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumos neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus naftoilgrupā
 0,003 g1 g
-15)Indola, azaindolu un indazola-3-karbonilatvasinājumi
-Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-karbonilatvasinājumi, kas aizvietoti pie indola, azaindolu vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
-• neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu,
-• neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu,
-• neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu,
-• aizvietotu aminogrupu
-un indola vai azaindolu cikla stāvoklī 2 neaizvietoti vai aizvietoti ar alkilgrupu, un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indola, azaindolu vai indazola ciklā, tostarp tāds, kurā aizvietotājs veido papildu ciklu
-0,003 g1 g
+15)(Izslēgts ar 26.09.2019. likumu)
 16)Benzimidazoli
 Jebkurš savienojums, kas atvasināts no benzimidazola:
 a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
@@ -478,19 +492,13 @@ un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karb
 0,003 g
 1 g
 25)
-Acetilfentanili
-N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(1-fenetilpiperidin-4-il)-N-fenilacetamīda, ja izpildīts viens vai vairāki šādi nosacījumi:
-a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, hidroksilgrupām vai alkoksigrupām;
-b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
-c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
-d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām), alkenilgrupu, metoksigrupu vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
-e) aizvietojot etilēngrupu ar metilēngrupu;
-f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu fenilgrupu vai estergrupu;
-g) nomainot N-(1-fenetilpiperidin-4-il)grupā esošo benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
-h) nomainot N-fenilgrupas benzola gredzenu ar citu piesātinātu, no benzola gredzena atšķirīgu ciklu, kas var būt aizvietots
-0,001 g
+(Izslēgts ar 26.09.2019. likumu)
+26)
+8-hinolil-3-(1-piperidilsulfonil) benzoāti
+8-hinolil-3-(1-piperidilsulfonil) benzoāts un jebkurš savienojums, kas atvasināts no tā, aizvietojot vienu vai vairākus ūdeņraža atomus hinolīna, benzola vai piperidīna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, alkilgrupām, hidroksilgrupām vai alkoksigrupām
+0,003 g
 1 g
-8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8.3.punkta 6.apakšpunktā un 8.5.punktā minētās vielas jebkurā daudzumā
+8.6. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 7.¹ punktā, 8.3. punkta 6. apakšpunktā un 8.5. punktā minētās vielas jebkurā daudzumā
 Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)izžāvēts (augu maisījums)1 g100 g
 2)nežāvēts (augu maisījums)5 g1 kg

@@ -72,6 +72,7 @@ Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 70)metizolāms40054-68-00,01 g5 g
 71)nitrazolāms28910-99-80,001 g1 g
 72)pirazolāms39243-02-20,001 g1 g
+73)etizolāms40054-69-10,01 g5 g
 13.¹ Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma IV nodaļā minētās vielas jebkurā daudzumā
 Nr.
 Maisījuma veids

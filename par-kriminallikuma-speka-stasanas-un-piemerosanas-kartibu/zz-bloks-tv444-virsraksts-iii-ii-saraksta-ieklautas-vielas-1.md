@@ -99,6 +99,7 @@ Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 97)trimeperidīns (promedols)64-39-10,03 g10 g
 98)dihidroetorfīns14357-76-70,2 g10 g
 99)remifentanils132875-61-70,2 g10 g
+100)4-anilīnpiperidīns23056-29-30,6 g10 g
 11. Vielas, kas klasificētas atbilstoši 1971. gada 21. februāra Konvencijas par psihotropajām vielām II sarakstam:
 Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)cipeprols34758-83-30,2 g10 g

@@ -17,7 +17,7 @@ Nr.Vielas nosaukumsCAS Nr.Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 15)(1S,2R)-(+)-hlorefedrīns1384199-95-40,6 g10 g
 16)(1S,2S)-(+)-hlorpseidoefedrīns73393-61-00,6 g10 g
 17)(1R,2R)-(-)-hlorpseidoefedrīns771434-80-10,6 g10 g
-18)4-anilīnpiperidīns23056-29-30,6 g10 g
+18)(izslēgts ar 26.09.2019. likumu)
 19)N-fenetil-4-piperidinons (NPP)39742-60-40,6 g10 g
 20)4-anilīn-N-fenetilpiperidīns (ANPP)21409-26-70,6 g10 g
 15. Otrās kategorijas prekursori:
