@@ -1,0 +1,1 @@
+35.¹ Līdz 2019. gada 31. decembrim Nacionālā elektronisko plašsaziņas līdzekļu padome organizē no 2020. gada 1. janvāra galalietotājiem bez maksas zemes apraidē ciparformātā izplatāmo televīzijas programmu sarakstā iekļauto programmu izplatīšanu, piemērojot šo pārejas noteikumu 35. punktā minēto tiesību normu noteikumus redakcijā, kas stāsies spēkā 2020. gada 1. janvārī.
