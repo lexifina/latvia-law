@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 10,
+ "datums": "2019-10-10",
+ "ieraksts": {
+  "dkp_id": "0650a3fc-3796-4f00-83ff-3adccaf9b289",
+  "lastmodtime": "\"AAAAAAG4lGI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Artūrs Toms#Karina#Jānis#Normunds#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Inguna#Arvils#Ieva#Ilmārs#Jūlija#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Gundars#Krišjānis#Linda#Ivars#Janīna#Aleksandrs#Artūrs#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Plešs#Sprūde#Krišāns#Žunna#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Rībena#Ašeradens#Krapāne#Dūrītis#Stepaņenko#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Daudze#Feldmans#Liepiņa#Zariņš#Jalinska#Kiršteins#Rubiks#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "############################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#AP!# #SASKAŅA #JK#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK# #JV#KPV LV#AP!# #SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#SASKAŅA #NA#ZZS#SASKAŅA #JK#ZZS#JK# #SASKAŅA #ZZS#NA#SASKAŅA #SASKAŅA #ZZS# ",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Par#Pret#Par#Nebalsoja#Pret#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "10.10.2019 14:40:04",
+  "VOTEMOTIVE": "Par to, ka vides aizsardzības un reģionālās attīstības ministrs, pasūtot pētījumus, neievēro Publisko iepirkumu likumu (19/P13)",
+  "VOTING_ID": "b6bb44f2-f108-4a6e-9705-c231da417f7e",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "44",
+  "VOTERESULT_FOR": "31",
+  "VOTERESULT_REGISTERED": "77",
+  "VOTE_NUMBER": "10",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-10-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/009747b0-2d18-4e0e-ba6b-577f6569ba37/download/13.saeimas-2019.gada-rudens-sesija-10-vote.xml",
+  "sha256": "2246645a80ea9376dc48dd5ea126e2f7060f4199fb22910ce7b02867c1ae24f4",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
