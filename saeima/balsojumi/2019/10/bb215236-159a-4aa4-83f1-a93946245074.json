@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 12,
+ "datums": "2019-10-17",
+ "ieraksts": {
+  "dkp_id": "c751774f-7b75-4b37-8360-05509799dc11",
+  "lastmodtime": "\"AAAAAAG51G4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Aldis#Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Ivars#Jānis#Evita#Edgars#Vladimirs#Jānis#Andris#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Anita#Normunds#Inese#Rihards#Janīna#Uldis#Jānis#Inese#Marija#Daniels#Igors#Raivis#Juris#Jānis#Boriss#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Linda#Ojārs Ēriks#Valērijs#Ēriks#Andrejs#Māris#Jānis#Dace#Andrejs#Ivans#Ināra#Vitālijs#Mārtiņš#Raimonds#Sergejs#Dagmāra#Krišjānis#Jānis#Ramona#Ivars#Anda#Artūrs#Aldis",
+  "SURNAME": "Gobzems#Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Cielēns#Kazinovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Muižniece#Žunna#Lībiņa-Egnere#Kozlovskis#Kursīte#Augulis#Iesalnieks#Voika#Golubeva#Pavļuts#Pimenovs#Dzintars#Rancāns#Vitenbergs#Cilevičs#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Ozola#Kalniņš#Agešins#Pucens#Klementjevs#Kučinskis#Dombrava#Bluķe#Judins#Klementjevs#Mūrniece#Orlovs#Staķis#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Zariņš#Čakša#Rubiks#Blumbergs",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": " #JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#KPV LV#JK#JK#SASKAŅA #SASKAŅA #JK#JK#JV#AP!# #JK#KPV LV#SASKAŅA #JK#JK#JV#JV#KPV LV#ZZS#NA#AP!#AP!#AP!#SASKAŅA #NA#JK#KPV LV#SASKAŅA #JK#KPV LV# #JV#KPV LV#NA#JK#JV#SASKAŅA #KPV LV#SASKAŅA #ZZS#NA#AP!#JV#SASKAŅA #NA#SASKAŅA #AP!#ZZS#SASKAŅA #JK#JK#SASKAŅA #KPV LV#SASKAŅA # #SASKAŅA #KPV LV",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.10.2019 13:44:45",
+  "VOTEMOTIVE": "Grozījums Pornogrāfijas ierobežošanas likumā (358/Lp13), 2.lasījums",
+  "VOTING_ID": "bb215236-159a-4aa4-83f1-a93946245074",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "62",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "52",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/458aae6c-6356-4dac-a363-8cc75e910ca1/download/13.saeimas-2019.gada-rudens-sesija-12-vote.xml",
+  "sha256": "7e3bc12712a045b278710b44158d26320a6fdf08933aedc0b76d9b827a78e5e9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
