@@ -1,0 +1,7 @@
+119. pants. Strīdu izšķiršanas vispārīgie noteikumi
+(1) Šajā nodaļā noteiktais regulējums tiek piemērots, lai izšķirtu Latvijas Republikas un citas Eiropas Savienības dalībvalsts kompetento iestāžu strīdu, kas rodas, interpretējot un piemērojot starptautiskos līgumus, kuri paredz novērst nodokļu dubulto uzlikšanu ienākumam un kapitālam.
+(2) Šīs nodaļas izpratnē nodokļu dubultā uzlikšana ir nodokļu uzlikšana Latvijā un citā Eiropas Savienības dalībvalstī par vienu un to pašu ar nodokli apliekamo ienākumu vai kapitālu, ja uz šiem nodokļiem attiecas starptautiskie līgumi, kuri paredz novērst nodokļu dubulto uzlikšanu ienākumam un kapitālam, un ja uzlikšana rada vismaz vienu no šādiem apstākļiem:
+1) papildus maksājamo nodokli;
+2) nodokļu saistību palielinājumu;
+3) to zaudējumu neatzīšanu vai samazināšanu, kurus varētu izmantot, lai samazinātu ar nodokli apliekamo ienākumu.
+(3) Piemērojot šajā nodaļā noteikto regulējumu, ja vien no lietas būtības neizriet pretējais, ikvienam terminam, kas nav lietots šajā nodaļā, ir tāda nozīme, kāda tam ir attiecīgajā starptautiskajā līgumā dienā, kad saņemts pirmais paziņojums par darbību, kura izraisīja vai izraisīs strīda jautājumu (piemēram, lēmums par nodokļu revīzijas (audita) rezultātiem). Ja attiecīgajā starptautiskajā līgumā konkrētais termins nav definēts, šim terminam ir tāda nozīme, kāda tam minētajā brīdī bija saskaņā ar tiešo nodokļu jomu regulējošiem normatīvajiem aktiem, un minētā nozīme prevalē pār nozīmi, kāda attiecīgajam terminam ir saskaņā ar citiem normatīvajiem aktiem.

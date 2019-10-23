@@ -1,0 +1,7 @@
+134. pants. Publicitāte
+(1) Padomdevēju komisija un strīdu alternatīvās izšķiršanas komisija atzinumus sagatavo rakstveidā.
+(2) Valsts ieņēmumu dienestam kopīgi ar pārējām iesaistīto dalībvalstu kompetentajām iestādēm ir tiesības vienoties par šā likuma 131. pantā minēto galīgo lēmumu publicēšanu pilnībā, ja tam piekrīt katrs iesaistītais nodokļu maksātājs.
+(3) Ja Valsts ieņēmumu dienests vai attiecīgais nodokļu maksātājs nepiekrīt, ka galīgais lēmums tiek publicēts pilnībā, Valsts ieņēmumu dienests publicē galīgā lēmuma kopsavilkumu. Kopsavilkumā iekļauj lietas un priekšmeta aprakstu, datumu, attiecīgos pārskata periodus, juridisko pamatojumu, nozari un īsu aprakstu par galīgo iznākumu, kā arī aprakstu par izmantoto strīda risināšanas metodi.
+(4) Pirms publicēšanas Valsts ieņēmumu dienests nosūta nodokļu maksātājam informāciju, kas jāpublicē saskaņā ar šā panta pirmo daļu. Nodokļu maksātājam 60 dienu laikā pēc šādas informācijas saņemšanas ir tiesības pieprasīt, lai Valsts ieņēmumu dienests nepublicē informāciju, kas attiecas uz jebkādu tirdzniecības noslēpumu, komercnoslēpumu, rūpniecisku vai dienesta noslēpumu vai tirdzniecības procesu vai kas ir pretrunā ar sabiedrisko kārtību.
+(5) Informācijas publicēšanai Valsts ieņēmumu dienests izmanto ar īstenošanas aktiem apstiprinātās Eiropas Komisijas standarta veidlapas.
+(6) Valsts ieņēmumu dienests nekavējoties paziņo Eiropas Komisijai informāciju, kas jāpublicē saskaņā ar šā panta trešo daļu.
