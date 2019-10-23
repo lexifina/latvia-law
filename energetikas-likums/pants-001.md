@@ -59,4 +59,5 @@ Likumā ir lietoti šādi termini:
 50) tirgus dalībnieks - dabasgāzes ražotājs, sistēmas operators, tirgotājs vai galalietotājs, kas darbojas dabasgāzes tirgū saskaņā ar brīvprātīgas līdzdalības principu;
 51) vertikāli integrēts komersants - energoapgādes komersants vai koncerns, kuru tieši vai netieši kontrolē viena un tā pati persona vai vienas un tās pašas personas un kurš sniedz vismaz vienu no enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumiem un vienlaikus nodarbojas ar enerģijas ražošanu vai tirdzniecību;
 52) vietējie energoresursi - Latvijā apzinātie atjaunojamie energoresursi un kurināmā krājumi, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
-53) vispārējās atļaujas noteikumi - specifiskas enerģijas ražošanas un tirdzniecības prasības enerģijas ražotājam vai enerģijas tirgotājam.
+53) vispārējās atļaujas noteikumi - specifiskas enerģijas ražošanas un tirdzniecības prasības enerģijas ražotājam vai enerģijas tirgotājam;
+54) vienotā dabasgāzes pārvades ieejas-izejas sistēma - vairākas tieši savienotas Eiropas Savienības dalībvalstu dabasgāzes pārvades sistēmas, kuru starpsavienojuma punktos netiek veikta jaudas rezervēšana.
