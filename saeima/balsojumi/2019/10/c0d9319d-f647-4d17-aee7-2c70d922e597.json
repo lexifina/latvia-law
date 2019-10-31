@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 19,
+ "datums": "2019-10-31",
+ "ieraksts": {
+  "dkp_id": "4a939a5a-18fd-4b2e-9249-5252488790cd",
+  "lastmodtime": "\"AAAAAAG8H48=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Ilmārs#Jūlija#Linda#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Dūrītis#Stepaņenko#Ozola#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Gobzems",
+  "VOTEDEPSUFFIX": "###########################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK#KPV LV#SASKAŅA #JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #JV#KPV LV#AP!# #JK#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA # #SASKAŅA # #ZZS#NA#SASKAŅA #KPV LV#NA#SASKAŅA # ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "31.10.2019 10:26:43",
+  "VOTEMOTIVE": "Grozījumi Ģenētiski modificēto organismu aprites likumā (413/Lp13), 1.lasījums",
+  "VOTING_ID": "c0d9319d-f647-4d17-aee7-2c70d922e597",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "87",
+  "VOTERESULT_REGISTERED": "92",
+  "VOTE_NUMBER": "13",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/dae42e08-3b8e-45e2-90db-64162827c4cd/download/13.saeimas-2019.gada-rudens-sesija-19-vote.xml",
+  "sha256": "d26d3e909166cc796cbadf605954960228bbbe147dfbc78f78e4d0dccd8239a4",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
