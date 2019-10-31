@@ -4,10 +4,11 @@ Likumā ir lietoti šādi termini:
 2) valsts informācijas sistēmas pārzinis - valsts institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmas darbību;
 3) valsts informācijas sistēmas turētājs - valsts informācijas sistēmas pārzinis vai tā pilnvarota institūcija, kas uztur šīs sistēmas informācijas un tehnisko resursu funkcionalitāti un nodrošina informācijas apriti;
 4) valsts informācijas sistēmas lietotājs - juridiskā vai fiziskā persona, kura noslēgusi līgumu ar valsts informācijas sistēmas pārzini par datu lietošanu vai kura uz pieprasījuma pamata saņem datus valsts informācijas sistēmas pārziņa vai normatīvajos aktos noteiktajā kārtībā;
-5) valsts informācijas sistēmas datu subjekts - juridiskā vai fiziskā persona, kura normatīvajos aktos noteiktajā kārtībā sniedz datus par sevi un sev piekritīgajiem reģistrējamiem juridiski dokumentētiem objektiem (turpmāk - piekritīgie reģistrējamie objekti);
+5) valsts informācijas sistēmas datu subjekts - valsts institūcija, juridiskā vai fiziskā persona, kura normatīvajos aktos noteiktajā kārtībā sniedz datus par sevi un sev piekritīgajiem reģistrējamiem juridiski dokumentētiem objektiem (turpmāk - piekritīgie reģistrējamie objekti);
 6) integrēta valsts informācijas sistēma - loģiska valsts informācijas sistēmu apvienība, kuras ietvaros vienotā informācijas laukā tiek uzturēti atsevišķu valsts informācijas sistēmu dati;
-7) valsts informācijas sistēmu reģistrs - valsts reģistrs valsts informācijas sistēmu uzskaitei un to funkciju identificēšanai;
+7) (izslēgts ar 26.09.2019. likumu);
 8) valsts informācijas sistēmu savietotājs - centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību var nodrošināt informācijas apriti integrētas valsts informācijas sistēmas ietvaros, kā arī starp valsts informācijas sistēmām un citām informācijas sistēmām, kuras veido un uztur valsts vai pašvaldību institūcijas vai privātpersonas;
 9) (izslēgts ar 05.06.2014. likumu);
 10) (izslēgts ar 09.06.2011. likumu);
-11) valsts informācijas sistēmu savietotāja pārzinis - institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmu savietotāja darbību.
+11) valsts informācijas sistēmu savietotāja pārzinis - institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmu savietotāja darbību;
+12) valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēma - valsts informācijas sistēma, kas nodrošina valsts informācijas sistēmām un to darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu uzskaiti.
