@@ -18,4 +18,6 @@ Likumā ir lietoti šādi termini:
 11) (izslēgts ar 19.02.2015. likumu);
 12) vienība - militārais formējums, kuram ir patstāvīga vadība un apstiprināts štats;
 13) apakšvienība - militārais formējums vienības sastāvā;
-14) garnizons - vienību kopums, kas pastāvīgi vai uz laiku izvietots noteiktā administratīvajā teritorijā.
+14) garnizons - vienību kopums, kas pastāvīgi vai uz laiku izvietots noteiktā administratīvajā teritorijā;
+15) atšķirības zīme - zīme, kuru valkā pie karavīra formas tērpa un kura norāda dienesta pakāpi, identitāti, specialitāti, kā arī piederību Nacionālo bruņoto spēku vienībai;
+16) karavīra formas tērpa vai atšķirības zīmju aprite - karavīra formas tērpa vai atšķirības zīmju pasūtīšana, izgatavošana, iegāde vai izplatīšana.

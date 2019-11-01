@@ -1,4 +1,4 @@
 45.pants. Karavīra formas tērps
-(1) Karavīra formas tērpu un atšķirības zīmes, kā arī to lietošanas kārtību apstiprina aizsardzības ministrs.
+(1) Latvijas Nacionālo bruņoto spēku karavīra kaujas, ikdienas, svētku un ceremoniālo formas tērpu aprakstu, šo formas tērpu komplektējošās sastāvdaļas un papildu elementus, kā arī pie šiem formas tērpiem nēsājamo kokaržu, dienesta pakāpju un uzvārda atšķirības zīmju aprakstu nosaka Ministru kabinets. Citu karavīra formas tērpa veidu, šo formas tērpu komplektējošo sastāvdaļu, papildu elementu un atšķirības zīmju aprakstu un valkāšanas kārtību nosaka aizsardzības ministrs.
 (2) Tikai karavīrs (atvaļināts karavīrs) ir tiesīgs valkāt karavīra formas tērpu un atšķirības zīmes.
-(3) Vienīgi Aizsardzības ministrijai un Nacionālajiem bruņotajiem spēkiem ir tiesības pasūtīt karavīra formas tērpu un atšķirības zīmju izgatavošanu.
+(3) Vienīgi Aizsardzības ministrija, Nacionālie bruņotie spēki un šajā likumā noteiktajos gadījumos citas personas ir tiesīgas pasūtīt karavīra formas tērpa un atšķirības zīmju izgatavošanu un iegādāties tos. Karavīra formas tērpa un atšķirības zīmju aprite ir atļauta tikai Nacionālo bruņoto spēku vajadzībām.
