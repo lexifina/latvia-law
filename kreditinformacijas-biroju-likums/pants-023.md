@@ -7,7 +7,7 @@
 4) pieprasīt, lai tiek labotas vai dzēstas kredītinformācijas biroja datubāzē kļūdaini vai nelikumīgi iekļautās ziņas;
 5) lemjot par šajā likumā minētajiem jautājumiem, pieprasīt papildu informāciju, kas nepieciešama lēmuma pieņemšanai;
 6) pieprasīt kredītinformācijas biroja informācijas sistēmu, iekārtu un procedūru pārbaudi un noteikt neatkarīgu ekspertīzi pārbaudāmo jautājumu izpētei;
-7) īstenot citas tiesības, kas Datu valsts inspekcijai personas datu aizsardzības jomā paredzētas Fizisko personu datu aizsardzības likumā.
+7) īstenot citas tiesības, kas Datu valsts inspekcijai personas datu aizsardzības jomā paredzētas datu regulā un Fizisko personu datu apstrādes likumā.
 (3) Datu valsts inspekcijai, uzraugot kredītinformācijas biroja darbību, ir šādi pienākumi:
 1) uzraudzīt kredītinformācijas biroja darbības atbilstību šā likuma un citu normatīvo aktu prasībām;
 2) pieņemt lēmumus par kredītinformācijas biroja darbību un izskatīt sūdzības par kredītinformācijas biroja darbību;

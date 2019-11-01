@@ -2,7 +2,7 @@
 (1) Ja klients uzskata, ka kredītinformācijas biroja datubāzē ir iekļautas kļūdainas ziņas, tas iesniedz kredītinformācijas birojam vai kredītinformācijas lietotājam rakstveida iebildumu.
 (2) Klients rakstveida iebildumam var pievienot iebildumu pamatojošo dokumentu kopijas. Ja rakstveida iebildumu iesniedz klienta pilnvarota persona, pilnvarojumu apliecina notariāli.
 (3) Ja klients rakstveida iebildumu attiecībā uz kredītinformācijas biroja datubāzē kļūdaini iekļautajām ziņām iesniedz kredītinformācijas lietotājam:
-1) kredītinformācijas lietotājs to izskata Fizisko personu datu aizsardzības likumā noteiktajā kārtībā un nekavējoties paziņo kredītinformācijas birojam, ka attiecībā uz konkrētajām ziņām ir saņemts klienta iebildums;
+1) kredītinformācijas lietotājs to izskata datu regulā noteiktajā kārtībā un nekavējoties paziņo kredītinformācijas birojam, ka attiecībā uz konkrētajām ziņām ir saņemts klienta iebildums;
 2) kamēr nav saņemta kredītinformācijas lietotāja pamatota atbilde, kredītinformācijas birojs savā datubāzē izdara atzīmi, ka ir saņemts klienta iebildums attiecībā uz datubāzē iekļautajām ziņām;
 3) kredītinformācijas lietotājs mēneša laikā pēc klienta iebilduma saņemšanas dienas izskata to un sniedz klientam pamatotu atbildi, atbildes kopiju nosūtot arī kredītinformācijas birojam.
 (4) Ja klients rakstveida iebildumu attiecībā uz kredītinformācijas biroja datubāzē kļūdaini iekļautajām ziņām iesniedz kredītinformācijas birojam:

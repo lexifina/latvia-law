@@ -6,4 +6,4 @@
 3) kredītinformācijas birojs saņem spēkā stājušos tiesas vai šķīrējtiesas nolēmumu, kurā ir konstatēts no kredītinformācijas biroja datubāzē iekļautajām ziņām par parādu pēc būtības atšķirīgs saturs;
 4) kredītinformācijas birojs konstatē, ka tā datubāzē iekļautās ziņas par parādu neatbilst bijušā kredītinformācijas lietotāja sniegtajām ziņām par parādu;
 5) citos kredītinformācijas biroja noteiktajos gadījumos šā biroja noteiktajā kārtībā.
-(3) Kredītinformācijas birojs labo, aktualizē vai dzēš šā panta pirmajā daļā minētās ziņas par citām maksājuma saistībām, kas nesatur ziņas par parādu, atbilstoši Fizisko personu datu aizsardzības likuma prasībām kredītinformācijas biroja noteiktajos gadījumos un noteiktajā kārtībā.
+(3) Kredītinformācijas birojs labo, aktualizē vai dzēš šā panta pirmajā daļā minētās ziņas par citām maksājuma saistībām, kas nesatur ziņas par parādu, atbilstoši datu regulas prasībām kredītinformācijas biroja noteiktajos gadījumos un noteiktajā kārtībā.
