@@ -11,3 +11,4 @@
 7) iesaistīties starptautisko metroloģijas organizāciju darbā;
 8) organizēt starplaboratoriju salīdzināšanu un piedalīties tajā;
 9) organizēt apmācību metroloģijas jomā.
+(4) Nacionālās metroloģijas institūcijas publisko maksas pakalpojumu cenrādi apstiprina Ministru kabinets.
