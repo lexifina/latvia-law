@@ -4,3 +4,4 @@
 1) saražotā vīna vai raudzēto dzērienu kopējais apjoms nepārsniedz 15 000 litru kalendāra gadā;
 2) absolūtā alkohola daudzums saražotajos pārējos alkoholiskajos dzērienos nepārsniedz 1000 litru kalendāra gadā;
 3) saražotais starpproduktu kopējais apjoms nepārsniedz 1000 litru kalendāra gadā.
+(3) Nelikumīgs alkoholiskais dzēriens - alkoholiskais dzēriens, kas ir nelegāli izgatavots (ražots) vai viltots, kā arī spirtu saturošs šķidrums, kurš nav alkoholiskais dzēriens, bet kuru piedāvā kā alkoholisko dzērienu.
