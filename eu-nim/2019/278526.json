@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 5. novembra noteikumi Nr. 515 “Grozījumi Ministru kabineta 2005. gada 15. februāra noteikumos Nr. 124 \"Noteikumi par farmaceita izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "227",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-08",
+  "entry_into_force": "2019-11-09",
+  "notification_date": "2019-11-19",
+  "commission_reference": "MNE(2019)56393",
+  "nim_celex": "72013L0055LVA_278526",
+  "nim_id": "278526",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ad3c192e-50c4-454d-9202-6212be9fbe26",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
