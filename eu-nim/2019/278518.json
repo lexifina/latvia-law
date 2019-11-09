@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 5. novembra noteikumi nr. 511 \"Grozījumi Ministru kabineta noteikumos Nr. 351 \"Noteikumi par vispārējās aprūpes māsas izglītību un profesionālo kvalifikāciju apliecinošiem dokumenitem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "227",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-08",
+  "entry_into_force": "2019-11-09",
+  "notification_date": "2019-11-19",
+  "commission_reference": "MNE(2019)56385",
+  "nim_celex": "72013L0055LVA_278518",
+  "nim_id": "278518",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8e86de07-f33b-494c-9eb0-d60227ec7af8",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
