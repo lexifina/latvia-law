@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 5. novembra noteikumi Nr. 506 \"Darbības programmas \"Izaugsme un nodarbinātība\" 4.1.1. specifiskā atbalsta mērķa \"Veicināt efektīvu energoresursu izmantošanu, enerģijas patēriņa samazināšanu un pāreju uz AER apstrādes rūpniecības nozarē\" trešās projektu iesniegumu atlases kārtas īstenošanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2019/227.4",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-05",
+  "entry_into_force": "2019-11-09",
+  "notification_date": "2023-05-15",
+  "commission_reference": "MNE(2023)02749",
+  "nim_celex": "72018L2001LVA_202302749",
+  "nim_id": "202302749",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cdfb88fa-f871-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
