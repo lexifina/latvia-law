@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 5. novembra noteikumi Nr. 513 “Grozījumi Ministru kabineta 2005. gada 1. marta noteikumos Nr. 149 \"Noteikumi par vecmātes izglītību un profesionālo kvalifikāciju apliecinošiem dokumentiem, kurus atzīst, piemērojot speciālo profesionālās kvalifikācijas atzīšanas sistēmu\"”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "513",
+  "official_journal_page": null,
+  "official_journal_date": "2019-11-08",
+  "entry_into_force": "2019-11-09",
+  "notification_date": "2019-11-19",
+  "commission_reference": "MNE(2019)56388",
+  "nim_celex": "72005L0036LVA_278521",
+  "nim_id": "278521",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e49b3cbe-d046-498e-aa60-591176be107f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
