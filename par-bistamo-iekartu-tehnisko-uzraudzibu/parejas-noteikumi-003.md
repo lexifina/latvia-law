@@ -1,0 +1,1 @@
+3. Šā likuma VII nodaļas jaunā redakcija, kas nosaka administratīvos pārkāpumus bīstamo iekārtu tehniskās uzraudzības jomā un kompetenci administratīvo pārkāpumu procesā, stājas spēkā vienlaikus ar Administratīvās atbildības likumu.

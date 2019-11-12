@@ -1,1 +1,0 @@
-4.pants. Personām, kuras savā komercdarbībā veic bīstamo iekārtu montāžu, remontu, tehnisko apkopi un modernizāciju, ir pienākums 10 darba dienu laikā paziņot Patērētāju tiesību aizsardzības centram par komercdarbības uzsākšanu un izbeigšanu šajā jomā.
