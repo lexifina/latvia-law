@@ -1,0 +1,1 @@
+4. Ministru kabinets līdz 2019. gada 31. decembrim izdod šā likuma 13. panta pirmajā daļā paredzētos noteikumus. Līdz jaunu šā likuma 13. panta pirmajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2008. gada 16. decembra noteikumi Nr. 1059 "Noteikumi par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību".
