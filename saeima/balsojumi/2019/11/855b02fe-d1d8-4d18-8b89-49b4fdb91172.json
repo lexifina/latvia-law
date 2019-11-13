@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 23,
+ "datums": "2019-11-13",
+ "ieraksts": {
+  "dkp_id": "148b2f5f-53e6-4dff-aa67-f50ea0a5e14d",
+  "lastmodtime": "\"AAAAAAG9kgU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Vita Anda#Jānis#Evita#Edgars#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Jānis#Anita#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Inese#Nikolajs#Jānis#Daniels#Igors#Juris#Evija#Jānis#Ļubova#Sandis#Kaspars#Inguna#Arvils#Rihards#Jūlija#Linda#Ojārs Ēriks#Aldis#Ēriks#Andrejs#Mārtiņš#Viktors#Dace#Ināra#Jānis#Vitālijs#Ritvars#Sergejs#Reinis#Krišjānis#Jānis#Ramona#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Janīna#Regīna#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Tērauda#Butāns#Zālīte-Grosa#Kucins#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Krišāns#Muižniece#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Voika#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Rancāns#Papule#Vitenbergs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Kols#Stepaņenko#Ozola#Kalniņš#Adamovičs#Pucens#Klementjevs#Bondars#Valainis#Bluķe#Mūrniece#Vucāns#Orlovs#Jansons#Dolgopolovs#Znotiņš#Feldmans#Tutins#Petraviča#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Kursīte-Pakule#Ločmele-Luņova#Gobzems",
+  "VOTEDEPSUFFIX": "######################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #AP!#JK#JK#SASKAŅA #JK#JK#SASKAŅA #JV#AP!# #JK#SASKAŅA #JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#NA#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #JK#SASKAŅA #KPV LV#SASKAŅA #JK#KPV LV# #JV#NA# #JK#JV#JV#KPV LV#SASKAŅA #AP!#ZZS#AP!#NA#ZZS#SASKAŅA #NA#SASKAŅA #JK#JK#SASKAŅA #KPV LV#SASKAŅA # #ZZS#NA#SASKAŅA #NA#SASKAŅA # ",
+  "RESULT": "Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Pret#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "13.11.2019 19:16:39",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.4. Grozījumi Invaliditātes likumā (436/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "855b02fe-d1d8-4d18-8b89-49b4fdb91172",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "3",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "71",
+  "VOTE_NUMBER": "40",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d0d18d40-26a4-476d-8431-51886961b6f7/download/13.saeimas-2019.gada-rudens-sesija-23-vote.xml",
+  "sha256": "4cb00b165ed00af80509a88a33ca299f1bd938ccf29c6a8b15357c7ea14e78cd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
