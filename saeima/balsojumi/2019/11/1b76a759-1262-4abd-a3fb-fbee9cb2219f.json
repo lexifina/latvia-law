@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 23,
+ "datums": "2019-11-14",
+ "ieraksts": {
+  "dkp_id": "39b82460-d054-44d3-9636-9fbadb8fbcd3",
+  "lastmodtime": "\"AAAAAAG+rKo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Aivars#Vita Anda#Ivars#Jānis#Evita#Jānis#Andris#Ainars#Artūrs Toms#Gatis#Artuss#Anita#Normunds#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Inese#Marija#Daniels#Raivis#Juris#Jānis#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Linda#Ojārs Ēriks#Aldis#Ēriks#Jānis#Mārtiņš#Dace#Andrejs#Ināra#Ritvars#Mārtiņš#Reinis#Krišjānis#Ramona#Anda#Aleksandrs#Aldis#Janīna",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Cielēns#Kazinovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Muižniece#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Voika#Golubeva#Pavļuts#Dzintars#Rancāns#Vitenbergs#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Ozola#Kalniņš#Adamovičs#Pucens#Dombrava#Bondars#Bluķe#Judins#Mūrniece#Jansons#Staķis#Znotiņš#Feldmans#Petraviča#Čakša#Kiršteins#Blumbergs#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#########################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#KPV LV#AP!#KPV LV#JK#JK#JK#JK#JV#AP!#JK#KPV LV#JK#JK#JV#JV#KPV LV#KPV LV#NA#NA#AP!#AP!#AP!#NA#JK#KPV LV#JK#KPV LV# #JV#KPV LV#NA#JK#JV#JV#KPV LV#NA#AP!#AP!#JV#NA#NA#AP!#JK#JK#KPV LV# #NA#KPV LV#NA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.11.2019 19:00:02",
+  "VOTEMOTIVE": "Grozījumi Energoefektivitātes likumā (449/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "1b76a759-1262-4abd-a3fb-fbee9cb2219f",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "57",
+  "VOTERESULT_REGISTERED": "58",
+  "VOTE_NUMBER": "110",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d0d18d40-26a4-476d-8431-51886961b6f7/download/13.saeimas-2019.gada-rudens-sesija-23-vote.xml",
+  "sha256": "4cb00b165ed00af80509a88a33ca299f1bd938ccf29c6a8b15357c7ea14e78cd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
