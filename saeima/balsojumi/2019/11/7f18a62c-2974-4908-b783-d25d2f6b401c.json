@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 23,
+ "datums": "2019-11-14",
+ "ieraksts": {
+  "dkp_id": "d043c6af-a776-4a15-8362-b4eeacc35ac3",
+  "lastmodtime": "\"AAAAAAG+S7I=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Jānis#Inese#Marija#Jānis#Daniels#Igors#Raivis#Juris#Jānis#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Jūlija#Linda#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Dūklavs#Voika#Golubeva#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Vitenbergs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Stepaņenko#Ozola#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK#KPV LV#SASKAŅA #JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#KPV LV#SASKAŅA #JK#KPV LV# #JV#KPV LV#NA# #JK#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#ZZS#JK#SASKAŅA #KPV LV# #SASKAŅA # #ZZS#NA#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS# ",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Nebalsoja#Pret#Pret#Par#Par#Par#Pret#Pret#Nebalsoja#Pret#Pret#Par#Pret#Pret#Nebalsoja#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Nebalsoja#Pret#Par#Pret#Pret#Pret#Par#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Par#Pret#Pret#Par#Pret#Pret#Nebalsoja#Par#Pret#Pret#Par#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Par#Nebalsoja#Pret#Par#Pret#Par#Pret#Nebalsoja#Nebalsoja#Pret#Par#Pret#Par#Pret#Pret#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.11.2019 14:37:12",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Dabas resursu nodokļa likumā (444/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "7f18a62c-2974-4908-b783-d25d2f6b401c",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "55",
+  "VOTERESULT_FOR": "22",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "84",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d0d18d40-26a4-476d-8431-51886961b6f7/download/13.saeimas-2019.gada-rudens-sesija-23-vote.xml",
+  "sha256": "4cb00b165ed00af80509a88a33ca299f1bd938ccf29c6a8b15357c7ea14e78cd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
