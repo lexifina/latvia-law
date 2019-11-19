@@ -1,0 +1,1 @@
+2. Grozījums par šā likuma VI nodaļas nosaukuma izteikšanu jaunā redakcijā, grozījums šā likuma 28. panta nosaukumā par vārdu "un sociālās garantijas" izslēgšanu un grozījums par šā likuma 29. panta izslēgšanu, kā arī šā likuma VII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.

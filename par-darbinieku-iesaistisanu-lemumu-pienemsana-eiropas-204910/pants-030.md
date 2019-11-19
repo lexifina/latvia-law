@@ -1,0 +1,1 @@
+30. pants. Komercnoslēpuma atklāšana trešajām personām, ja tas iegūts saistībā ar Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības dibināšanu vai kapitālsabiedrību pārrobežu apvienošanu, darbojoties speciālajā sarunu grupā, pārstāvības komitejā vai citas darbinieku iesaistīšanas kārtības ietvaros

@@ -1,0 +1,1 @@
+32. pants. Speciālās sarunu grupas izveidošanas vai darbības izdevumu nesegšana, dibinot Eiropas komercsabiedrību vai Eiropas kooperatīvo sabiedrību vai veicot kapitālsabiedrību pārrobežu apvienošanu, vai pārstāvības komitejas izveidošanas vai darbības izdevumu nesegšana Eiropas komercsabiedrībā vai Eiropas kooperatīvajā sabiedrībā
