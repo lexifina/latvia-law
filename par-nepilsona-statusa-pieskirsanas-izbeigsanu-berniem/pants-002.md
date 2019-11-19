@@ -1,0 +1,1 @@
+2. pants. Atzīt par Latvijas pilsoņiem tos pēc 2020. gada 1. janvāra dzimušos bērnus, kuriem saskaņā ar likuma "Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības" 8. panta otro daļu būtu tiesības uz nepilsoņa statusu, ja vien bērna vecāki nav vienojušies par citas valsts pilsonības piešķiršanu bērnam un bērns nav citas valsts pilsonis.
