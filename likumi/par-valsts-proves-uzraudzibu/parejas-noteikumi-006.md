@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 15. pantā par tā izteikšanu jaunā redakcijā, 15.¹ panta izslēgšana, likuma III¹ nodaļa, kā arī 25. panta izslēgšana stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
