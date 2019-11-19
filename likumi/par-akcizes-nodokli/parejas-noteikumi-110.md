@@ -1,0 +1,1 @@
+110. Grozījumi šā likuma 33. pantā par pirmās daļas izslēgšanu, vārdu aizstāšanu otrajā un trešajā daļā un divdesmitās daļas otrā teikuma izslēgšanu, kā arī šā likuma XII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
