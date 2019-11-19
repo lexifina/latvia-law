@@ -1,0 +1,1 @@
+28.³ pants. Eiropas Darbinieku padomes vai speciālās sarunu grupas izveidošanas vai darbības izdevumu nesegšana Eiropas Savienības mēroga komercsabiedrībā vai Eiropas Savienības mēroga komercsabiedrību grupā

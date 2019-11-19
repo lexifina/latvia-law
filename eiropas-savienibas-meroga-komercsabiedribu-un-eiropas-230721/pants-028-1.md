@@ -1,0 +1,1 @@
+28.¹ pants. Tādas konfidenciālas informācijas atklāšana trešām personām, kura iegūta, darbojoties Eiropas Darbinieku padomē, speciālajā sarunu grupā vai citas darbinieku informēšanas un konsultēšanās kārtības ietvaros

@@ -1,0 +1,1 @@
+28.⁴ pants. Ziņojuma nesniegšana Eiropas Darbinieku padomei par Eiropas Savienības mēroga komercsabiedrības vai Eiropas Savienības mēroga komercsabiedrību grupas komercdarbības attīstību un perspektīvām

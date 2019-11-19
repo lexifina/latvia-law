@@ -1,0 +1,1 @@
+28.⁵ pants. Eiropas Darbinieku padomes komitejas vai, ja tādas nav, Eiropas Darbinieku padomes neinformēšana par īpašiem apstākļiem, kas būtiski skar darbinieku intereses Eiropas Savienības mēroga komercsabiedrībā vai Eiropas Savienības mēroga komercsabiedrību grupā
