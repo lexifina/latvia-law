@@ -5,5 +5,5 @@
 3) gaisa pārvadātājs - persona, kurai ir derīga darbības licence vai līdzvērtīgs dokuments, kas ļauj ar gaisa kuģi veikt pasažieru komercpārvadājumus;
 4) pasažieris - jebkura persona, izņemot gaisa kuģa apkalpes locekļus, kuru pārvadā vai ir paredzēts pārvadāt gaisa kuģī ar gaisa pārvadātāja piekrišanu, ko apliecina attiecīgās personas reģistrācija pasažieru sarakstā;
 5) pasažieru dati - ziņas, ko apstrādā gaisa pārvadātāju rezervācijas sistēmās, izlidošanas kontroles sistēmās (sistēmas, kuras izmanto, lai reģistrētu pasažierus gaisa pārvadājumiem) vai līdzvērtīgās sistēmās, lai nodrošinātu personas vai tās vārdā pieteiktā gaisa pārvadājuma rezervācijas apstrādi un kontroli;
-6) Pasažieru informācijas nodaļa - pasažieru datu apstrādei norīkota Drošības policijas struktūrvienība.
+6) Pasažieru informācijas nodaļa - pasažieru datu apstrādei norīkota Valsts drošības dienesta struktūrvienība.
 (2) Šā likuma izpratnē ar terminu "smagi noziegumi" saprot šā likuma pielikumā minētos noziedzīgos nodarījumus, par kuriem var piemērot brīvības atņemšanas sodu vai ar brīvības atņemšanu saistītu drošības līdzekli, kura maksimālais ilgums ir vismaz trīs gadi saskaņā ar dalībvalsts tiesību aktiem.
