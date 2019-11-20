@@ -1,3 +1,6 @@
-25.pants. Dienesta pakāpes piešķiršana virsniekam speciālistam
-(1) Par virsnieku speciālistu var būt zemessargs, kuram ir akadēmiskā vai otrā līmeņa profesionālā augstākā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista pamatkursu vai citu tam pielīdzinātu kursu.
-(2) Zemessargam - virsniekam speciālistam dienesta pakāpes piešķir tādā pašā kārtībā, kāda Militārā dienesta likumā noteikta dienesta pakāpes piešķiršanai karavīram - virsniekam speciālistam.
+25. pants. Dienesta pakāpes piešķiršana zemessargam speciālistam, zemessargam instruktoram speciālistam un zemessargam virsniekam speciālistam
+(1) Par zemessargu speciālistu var būt zemessargs, kuram ir vismaz pirmais profesionālās kvalifikācijas līmenis amatam nepieciešamajā specialitātē un kurš apguvis kareivja speciālista pamatkursu vai citu tam pielīdzinātu kursu.
+(2) Par zemessargu instruktoru speciālistu var būt zemessargs instruktors, kuram ir vismaz otrais profesionālās kvalifikācijas līmenis amatam nepieciešamajā specialitātē un kurš apguvis instruktora speciālista kursu vai citu tam pielīdzinātu kursu.
+(3) Par zemessargu virsnieku speciālistu var būt zemessargs, kuram ir akadēmiskā vai otrā līmeņa profesionālā augstākā izglītība attiecīgajā specialitātē un kurš apguvis virsnieka speciālista pamatkursu vai citu tam pielīdzinātu kursu.
+(4) Zemessargam speciālistam, zemessargam instruktoram speciālistam un zemessargam virsniekam speciālistam dienesta pakāpes piešķir tādā pašā kārtībā, kāda noteikta Militārā dienesta likumā dienesta pakāpes piešķiršanai karavīram: kareivim speciālistam, instruktoram speciālistam un virsniekam speciālistam.
+(5) Amatus, kuru pienākumu izpildē iesaista zemessargus speciālistus, zemessargus instruktorus speciālistus un zemessargus virsniekus speciālistus, nosaka aizsardzības ministrs.
