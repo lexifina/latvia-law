@@ -1,0 +1,1 @@
+9. Persona, kura pretendē uz tiesībām kļūt par depozīta sistēmas operatoru līdz ar depozīta sistēmas darbību uzsākšanu, iesniedz Valsts vides dienestam šā likuma 18.¹³ pantā minētos dokumentus līdz 2020. gada 30. septembrim.

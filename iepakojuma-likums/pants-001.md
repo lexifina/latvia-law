@@ -1,8 +1,17 @@
 1.pants. Likumā ir lietoti šādi termini:
 1) atkārtoti lietojamais iepakojums - iepakojums, kuru var izmantot atkārtoti tā sākotnējam uzdevumam;
 1¹) iepakojuma apsaimniekotājs - komercsabiedrība, kas, pamatojoties uz noslēgto līgumu ar iepakotāju, organizē un koordinē izlietotā iepakojuma apsaimniekošanu;
+1²) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1³) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁴) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁵) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁶) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁷) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁸) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1⁹) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1¹⁰) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
 2) (izslēgts ar 21.04.2005. likumu);
-3) iepakotājs - preces ražotājs, pakalpojuma sniedzējs, pārdevējs vai izplatītājs, kurš iepako preci vai izstrādājumu Latvijā vai ieved iepakotu preci vai izstrādājumu Latvijā no citām valstīm;
+3) iepakotājs - preces ražotājs, pakalpojuma sniedzējs, pārdevējs vai izplatītājs, kas Latvijā laiž tirgū iepakotu preci vai pievieno iepakojumu izstrādājumiem, kuri pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
 4) izlietotais iepakojums - iepakojums vai iepakojuma materiāls (izņemot ražošanas atlikumus), uz kuru attiecas Atkritumu apsaimniekošanas likumā minētā atkritumu definīcija;
 5) (izslēgts ar 26.05.2011. likumu);
 6) izlietotā iepakojuma pārstrāde - process, kurā no izlietotā iepakojuma vai iepakojuma materiāla iegūst to pašu materiālu vai citus materiālus, izņemot enerģiju, ko iegūst, izlietoto iepakojumu vai iepakojuma materiālu sadedzinot;
