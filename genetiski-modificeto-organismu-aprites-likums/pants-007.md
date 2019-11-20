@@ -8,4 +8,4 @@ Valsts augu aizsardzības dienests:
 6) (izslēgts ar 08.06.2017. likumu);
 7) (izslēgts ar 08.06.2017. likumu);
 8) (izslēgts ar 08.06.2017. likumu);
-9) ņem sēklu un augu pavairojamā materiāla paraugus, lai konstatētu netīšu ģenētiski modificēto organismu klātbūtni.
+9) ņem sēklu un augu pavairojamā materiāla paraugus, lai konstatētu ģenētiski modificēto organismu klātbūtni.
