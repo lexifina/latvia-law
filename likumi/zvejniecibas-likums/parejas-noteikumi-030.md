@@ -1,0 +1,1 @@
+30. Valsts vides dienests izskata un izsniedz zvejas atļaujas (licences) Latvijas Republikas iekšējos ūdeņos un Baltijas jūras un Rīgas jūras līča piekrastes ūdeņos, ja iesniegums saņemts līdz Administratīvās atbildības likuma spēkā stāšanās dienai.
