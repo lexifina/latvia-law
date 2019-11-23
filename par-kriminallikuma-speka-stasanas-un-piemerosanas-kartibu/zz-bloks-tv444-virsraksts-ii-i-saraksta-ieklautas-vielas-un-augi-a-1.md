@@ -506,4 +506,4 @@ Nr.Maisījuma veidsApmērs, līdz kuram daudzumi atzīstami par nelieliemApmērs
 4)šķidrums1 ml50 ml
 5)vielu maisījums, kas satur minēto vielu, kura nav nodalāma no vielu maisījuma kopējā daudzuma1 g50 g
 6)piesūcināts papīrs (marka)3 gab.10 gab.
-7)vielu maisījums, kas satur 8.5. punkta 25. apakšpunktā minēto vielu jebkurā daudzumā0,001 g1 g
+7)vielu maisījums, kas satur 7.¹ punkta 2. apakšpunktā minēto vielu jebkurā daudzumā0,001 g1 g
