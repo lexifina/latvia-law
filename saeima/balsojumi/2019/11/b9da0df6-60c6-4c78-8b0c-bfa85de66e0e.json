@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 27,
+ "datums": "2019-11-28",
+ "ieraksts": {
+  "dkp_id": "76f50f63-3ebf-4eb0-9a11-0df467a6d293",
+  "lastmodtime": "\"AAAAAAHAixc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Evita#Edgars#Didzis#Jānis#Andris#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Rihards#Iveta#Janīna#Edmunds#Armands#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Rihards#Ilmārs#Jūlija#Linda#Ojārs Ēriks#Valērijs#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Linda#Ivars#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Zālīte-Grosa#Kucins#Šmits#Cielēns#Kazinovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Krauze#Iesalnieks#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Kols#Dūrītis#Stepaņenko#Ozola#Kalniņš#Agešins#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#SASKAŅA # #JK#JK#JV#AP!# #JK#KPV LV#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#ZZS#NA#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #NA#AP!# #JK#JV#SASKAŅA #KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#JK#SASKAŅA #KPV LV# #SASKAŅA #ZZS#NA#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Par#Nebalsoja#Pret#Par#Nebalsoja#Pret#Par#Par#Pret#Nebalsoja#Par#Par#Par#Pret#Par#Par#Pret#Nebalsoja#Par#Pret#Par#Par#Pret#Pret#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.11.2019 15:43:08",
+  "VOTEMOTIVE": "Grozījumi likumā “Par apdrošināšanu bezdarba gadījumam” (493/Lp13), 1.lasījums",
+  "VOTING_ID": "b9da0df6-60c6-4c78-8b0c-bfa85de66e0e",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "22",
+  "VOTERESULT_FOR": "55",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "24",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-27-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4c3a52b2-5bbf-4731-a503-742ed6c520d7/download/13.saeimas-2019.gada-rudens-sesija-27-vote.xml",
+  "sha256": "e6b2f9f2e646280ab13a283112c65986b568c712786d34e16e02db613211fed2",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
