@@ -1,0 +1,3 @@
+32.¹ pants. (1) Nekustamā īpašuma veidošanu un tā sastāva grozīšanu Kadastra informācijas sistēmā reģistrētiem nekustamā īpašuma objektiem ierosina rajona (pilsētas) tiesā, ja nekustamais īpašums ir ierakstīts zemesgrāmatā vai veidojams patstāvīgs būvju īpašums.
+(2) Šā panta pirmās daļas noteikumus nepiemēro, ja veido dzīvokļa īpašumu vai groza tā sastāvu.
+(3) Ja nekustamā īpašuma objekts nav reģistrēts Kadastra informācijas sistēmā vai neatbilst prasībām, kas noteiktas normatīvajos aktos par nekustamā īpašuma ierakstīšanu zemesgrāmatās, vispirms ierosina nekustamā īpašuma objekta reģistrāciju vai kadastra datu aktualizāciju Valsts zemes dienestā.
