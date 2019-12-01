@@ -1,2 +1,2 @@
 123. Pēc nostiprinājuma lūguma caurskatīšanas tiesneša lēmums nekavējoties ievadāms datorizētajā zemesgrāmatā. Lēmums stājas spēkā ar ierakstu pilnīguma un pareizības elektronisku apliecināšanu (autorizāciju) datorizētajā zemesgrāmatā.
-Tiesneša lēmums, ar kuru izskatīts šā likuma 71.panta otrajā daļā minētais pieteikums, ievadāms nostiprinājuma žurnālā. Lēmums daļā par tiesību nostiprināšanu ievadāms datorizētajā zemesgrāmatā (82.p.) pēc tam, kad tas stājies spēkā.
+Tiesnesis lēmumu, ar kuru izskatīts šā likuma 71. panta otrajā daļā minētais pieteikums, ievada nostiprinājuma žurnālā. Lēmumu daļā par tiesību nostiprināšanu ievada datorizētajā zemesgrāmatā (82. p.) pēc tam, kad tas stājies spēkā.
