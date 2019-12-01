@@ -11,15 +11,13 @@ c) stabilu, ja pēc vairākkārtējas tās pavairošanas vai katra pavairošanas
 2) šķirne ir nozīmīga no lauksaimniecībā un pārtikā izmantojamo augu ģenētisko resursu uzturēšanas viedokļa saskaņā ar saglabājamās šķirnes atzīšanas un sēklu aprites noteikumiem;
 3) ir ievērotas normatīvajos aktos par saglabājamās šķirnes atzīšanu un sēklu apriti paredzētās prasības.
 (3) Citu Eiropas Savienības dalībvalstu šķirnes tiek iekļautas katalogā pēc tiem pašiem principiem, pēc kuriem iekļauj Latvijā selekcionētās šķirnes.
-(4) Valsts augu aizsardzības dienests nodrošina katalogā iekļauto šķirņu pieteikšanu Eiropas Savienības kopējiem šķirņu katalogiem (izņemot saglabājamās šķirnes).
-(5) Valsts augu aizsardzības dienests nodrošina oriģinālo šķirnes sēklu paraugu saņemšanu:
-1) no šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudes institūcijas - Latvijas augu šķirņu katalogā iekļautajām Latvijā selekcionētajām šķirnēm un šķirnēm, kuras Eiropas Savienības kopējos katalogos no Latvijas augu šķirņu kataloga iekļautas pirmo reizi;
-2) no šķirnes uzturētāja - saglabājamām šķirnēm un noteiktos apstākļos audzējamām dārzeņu šķirnēm.
+(4) (Izslēgta ar 07.11.2019. likumu)
+(5) (Izslēgta ar 07.11.2019. likumu)
 (6) Kādā no Eiropas Savienības kopējiem šķirņu katalogiem un Latvijas augu šķirņu katalogā iekļautās šķirnes netiek pakļautas citiem tirdzniecības ierobežojumiem.
 (7) Ģenētiski modificētās šķirnes katalogā iekļauj saskaņā ar Eiropas Savienības tiesību aktu prasībām un Latvijas normatīvajos aktos noteikto kārtību par ģenētiski modificēto organismu izmantošanu un izplatīšanu.
 (8) Katalogā neiekļauj šķirnes, kas paredzētas tikai izvešanai uz valstīm, kas nav Eiropas Savienības dalībvalstis.
 (9) Valsts augu aizsardzības dienests nodrošina to, lai katras katalogā iekļautās šķirnes un tādas šķirnes, attiecībā uz kuru iesniegts iesniegums par tās iekļaušanu katalogā, apraksts un pamatojums tās iekļaušanai katalogā ir pieejams Eiropas Komisijai un Eiropas Savienības dalībvalstīm. Informācija, kas saistīta ar minētās dokumentācijas apriti, ir ierobežotas pieejamības informācija.
-(10) Valsts augu aizsardzības dienests šķirnes atšķirīguma, viendabīguma un stabilitātes noteikšanas vadlīnijas ievieto savā tīmekļa vietnē.
+(10) Valsts augu aizsardzības dienests šķirnes atšķirīguma, viendabīguma un stabilitātes noteikšanas vadlīnijas ievieto savā tīmekļvietnē.
 (11) Šķirni atzīst par noteiktos apstākļos audzējamu dārzeņu šķirni un iekļauj katalogā, ja tā atbilst šādiem nosacījumiem:
 1) šķirne saskaņā ar noteiktos apstākļos audzējamas dārzeņu šķirnes atzīšanas un sēklu aprites noteikumiem ir atzīta par atšķirīgu, viendabīgu un stabilu atbilstoši vismaz minimālajām prasībām noteiktos apstākļos audzējamas dārzeņu šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudei;
 2) šķirnei nav būtiskas vērtības komerciālā dārzeņu ražošanā, bet tā ir izveidota audzēšanai īpašos agrotehniskos, klimatiskos vai augsnei raksturīgos apstākļos;

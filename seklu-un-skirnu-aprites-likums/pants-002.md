@@ -16,19 +16,18 @@ b) nodrošina lauksaimniecības augu sugu ģenētisko resursu kolekcionēšanu, 
 3) (izslēgts ar 03.09.2009. likumu);
 4) Valsts augu aizsardzības dienests:
 a) sertificē sēklas,
-b) nodrošina augu šķirņu saimniecisko īpašību novērtēšanas datubāzes uzturēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanas datubāzes uzturēšanu,
-c) veic visas darbības, kas saistītas ar Latvijas augu šķirņu kataloga veidošanu, uzturēšanu, informācijas glabāšanu un publicēšanu,
-d) īsteno starptautiskās Ekonomiskās sadarbības un attīstības organizācijas (OECD) shēmas šķirņu sertifikācijai sēklu apritei starptautiskajā tirgū,
-e) veic visas darbības, kas saistītas ar Eiropas Savienības lauksaimniecības kultūraugu kopējā kataloga un Eiropas Savienības kopējā dārzeņu šķirņu kataloga (turpmāk arī - Eiropas Savienības kopējie šķirņu katalogi) veidošanu, kā arī nodrošina Latvijā selekcionēto šķirņu sēklu sertifikāciju citās Eiropas Savienības dalībvalstīs un veic Eiropas Savienības kopējos šķirņu katalogos iekļauto šķirņu sēklu sertifikāciju Latvijā,
+b) uztur augu šķirņu saimniecisko īpašību novērtēšanas datubāzi saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanu,
+c) veic visas darbības, kas saistītas ar Kultūraugu uzraudzības valsts informācijas sistēmas Latvijas augu šķirņu kataloga un Kultūraugu uzraudzības valsts informācijas sistēmas Augļu koku un ogulāju šķirņu saraksta veidošanu, uzturēšanu, informācijas glabāšanu un publicēšanu,
+d) īsteno starptautiskās Ekonomiskās sadarbības un attīstības organizācijas (OECD) shēmas labības šķirņu un stiebrzāļu un tauriņziežu šķirņu sertifikācijai sēklu apritei starptautiskajā tirgū,
+e) veic visas darbības, kas saistītas ar Latvijā reģistrēto augu šķirņu iekļaušanu Eiropas Savienības kopējā lauksaimniecības augu šķirņu katalogā, Eiropas Savienības kopējā dārzeņu šķirņu katalogā (turpmāk arī - Eiropas Savienības kopējie šķirņu katalogi) vai Eiropas Savienības kopējā augļu koku un ogulāju šķirņu sarakstā (FRUMATIS),
 f) izpilda Eiropas Savienības tieši piemērojamo normatīvo aktu prasības par šķirnēm un sēklu apriti,
 g) sadarbojas ar citu valstu attiecīgajām sertifikācijas institūcijām,
 h) nodrošina piedalīšanos Eiropas Savienības tiesību aktos paredzētajās salīdzinošajās pārbaudēs un attiecīgajos pētījumos,
 i) kārto un uztur Kultūraugu uzraudzības valsts informācijas sistēmas Sēklaudzētāju un sēklu tirgotāju reģistru (turpmāk - Sēklaudzētāju un sēklu tirgotāju reģistrs),
 j) uzrauga un kontrolē sēklu apriti,
 k) veic references laboratorijas funkcijas sēklu kvalitātes noteikšanā un sniedz citus laboratoriskos pakalpojumus,
-l) (izslēgts ar 16.12.2010. likumu),
-m) sēklaudzēšanas un sēklu tirdzniecības noteikumos paredzētajos gadījumos sertificē sēklas ar pazeminātu dīgtspēju,
-n) uztur oriģinālo sēklu paraugus Latvijas augu šķirņu katalogā iekļautajām Latvijā selekcionētajām šķirnēm un šķirnēm, kuras Eiropas Savienības kopējos katalogos no Latvijas augu šķirņu kataloga iekļautas pirmo reizi (izņemot kartupeļus),
-o) organizē vai veic pēcpārbaudi sertificētām sēklām, standartsēklām, saglabājamās šķirnes sēklām un noteiktos apstākļos audzējamas dārzeņu šķirnes sēklām,
-p) izsniedz atļauju tādu lopbarības augu sēklu maisījumu tirdzniecībai, kuri paredzēti dabiskās vides saglabāšanai (turpmāk - sēklu maisījumi dabiskās vides saglabāšanai);
+l) normatīvajos aktos par sēklaudzēšanu un sēklu tirdzniecību paredzētajos gadījumos sertificē sēklas ar pazeminātu dīgtspēju,
+m) uztur oriģinālo sēklu paraugus Latvijas augu šķirņu katalogā iekļautajām šķirnēm, attiecībā uz kurām Valsts augu aizsardzības dienests ir pieprasījis šķirnes pārbaudi, kā arī saglabājamām šķirnēm un noteiktos apstākļos audzējamām dārzeņu šķirnēm (izņemot kartupeļus),
+n) organizē vai veic pēcpārbaudi sertificētām sēklām, standartsēklām, saglabājamās šķirnes sēklām un noteiktos apstākļos audzējamas dārzeņu šķirnes sēklām,
+o) izsniedz atļauju tādu lopbarības augu sēklu maisījumu tirdzniecībai, kuri paredzēti dabiskās vides saglabāšanai (turpmāk - sēklu maisījumi dabiskās vides saglabāšanai);
 5) Latvijas Lauksaimniecības universitāte nodrošina augu šķirņu saimniecisko īpašību novērtēšanu saskaņā ar normatīvajiem aktiem par augu šķirnes saimniecisko īpašību novērtēšanu.

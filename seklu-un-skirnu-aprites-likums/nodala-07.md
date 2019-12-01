@@ -1,2 +1,2 @@
 VII nodaļa
-Likuma izpildes kontrole un atbildība par likuma pārkāpšanu
+Likuma izpildes kontrole un valsts nodeva

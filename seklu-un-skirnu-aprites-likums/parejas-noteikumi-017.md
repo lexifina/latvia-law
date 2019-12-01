@@ -1,0 +1,1 @@
+17. Valsts augu aizsardzības dienests līdz 2020. gada 31. augustam aktualizē to informāciju, kura par personām atbilstoši šā likuma 4. pantā noteiktajam iekļauta Sēklaudzētāju un sēklu tirgotāju reģistrā līdz 2019. gada 30. novembrim.
