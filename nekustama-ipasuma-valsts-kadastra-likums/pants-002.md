@@ -1,1 +1,1 @@
-2.pants. Likuma mērķis ir nodrošināt sabiedrību ar aktuālu kadastra informāciju par visiem valsts teritorijā esošajiem nekustamajiem īpašumiem, to objektiem, zemes vienības daļām un to īpašniekiem, tiesiskajiem valdītājiem, lietotājiem, nomniekiem.
+2.pants. Likuma mērķis ir nodrošināt sabiedrību ar aktuālu kadastra informāciju par visiem valsts teritorijā esošajiem nekustamajiem īpašumiem, to objektiem, zemes vienības daļām un to īpašniekiem, tiesiskajiem valdītājiem, lietotājiem.

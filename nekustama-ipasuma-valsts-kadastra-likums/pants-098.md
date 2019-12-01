@@ -1,6 +1,6 @@
 98.pants. Atbilstoši kārtējam gadam piešķirtā valsts finansējuma apjomam Valsts zemes dienests finansē:
 1) kadastra datu (teksta un telpisko) uzturēšanu;
-2) kadastra objektu datu reģistrāciju un aktualizāciju Kadastra informācijas sistēmā, ja nav saņemts šā likuma 24. un 24.¹ pantā minētās personas ierosinājums;
+2) kadastra objektu datu reģistrāciju un aktualizāciju Kadastra informācijas sistēmā, ja nav saņemts šā likuma 24. un 60.² pantā minētās personas ierosinājums;
 3) kadastrālo vērtēšanu;
 4) (izslēgts ar 12.06.2009. likumu);
 5) datu apmaiņu ar citām valsts vai pašvaldības informācijas sistēmām;

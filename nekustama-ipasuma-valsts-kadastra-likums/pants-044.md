@@ -3,7 +3,7 @@
 a) kadastra apzīmējumu,
 b) kadastrālās uzmērīšanas datus (to skaitā platība, zemes lietošanas veids, robežas, to precizitāte),
 c) nekustamā īpašuma lietošanas mērķus un tiem piekritīgās platības,
-d) nekustamā īpašuma objekta apgrūtinājumus,
+d) nekustamā īpašuma objekta apgrūtinājumus, kas noteikti uz likuma pamata, un ēku, ūdens lietošanas vai ceļa servitūta teritoriju,
 e) kadastrālās vērtēšanas datus,
 f) norādi uz nekustamo īpašumu, kurā ietilpst nekustamā īpašuma objekts,
 g) norādi uz zemes vienības daļu;
