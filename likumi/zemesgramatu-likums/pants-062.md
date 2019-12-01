@@ -9,5 +9,8 @@
 2) atdalot no nekustama īpašuma daļu, lai pievienotu to citam nekustamam īpašumam (36. p.);
 3) savienojot vairākus vienam īpašniekam piederošus nekustamus īpašumus (37. p.);
 4) citos likumos paredzētajos gadījumos.
-Ēkas (būves) kadastrālās uzmērīšanas dokumenti uzrādāmi un ēkas (būves) kadastrālās uzmērīšanas dokumentu kopijas vai izraksti no tām iesniedzami, ja nostiprina lietu tiesību uz ēkas (būves) neatdalītu reālu daļu.
-Ierakstot zemesgrāmatā apbūves tiesību uz zemes gabala reālu neatdalītu daļu, ja tās robežu plāns nav reģistrēts Kadastra informācijas sistēmā, informāciju par minētās zemes gabala daļas reģistrāciju Kadastra informācijas sistēmā rajona (pilsētas) tiesa iegūst no Kadastra informācijas sistēmas.
+Apgrūtinot ar lietu tiesību ēkas (būves) neatdalītu reālu daļu, nostiprinājuma lūgumam pievieno:
+1) ēkas (būves) kadastrālās uzmērīšanas dokumentu kopijas vai izrakstus no tiem, ja ēka (būve) kadastra darbību reglamentējošos normatīvajos aktos noteiktajos gadījumos ir kadastrāli uzmērāma;
+2) inženierbūves izpildmērījuma plāna kopijas vai izrakstu no tā, ja kadastra darbību reglamentējošos normatīvajos aktos noteiktajos gadījumos inženierbūve nav kadastrāli uzmērāma;
+3) izpildmērījuma plāna kopiju par ēkas novietni, ja būvniecības jomu reglamentējošos normatīvajos aktos noteiktajos gadījumos ēka nav kadastrāli uzmērāma.
+Apgrūtinot ar lietu tiesību zemes gabala reālu neatdalītu daļu, ja tās robežu plāns nav reģistrēts Kadastra informācijas sistēmā, informāciju par minētās zemes gabala daļas reģistrāciju Kadastra informācijas sistēmā rajona (pilsētas) tiesa iegūst no Kadastra informācijas sistēmas.
