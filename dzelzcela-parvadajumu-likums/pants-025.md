@@ -9,6 +9,6 @@
 7) kravas nosaukums;
 8) kravas masa;
 9) vagona vai konteinera numurs;
-10) pārvadāšanas ātrums.
+10) (izslēgts ar 21.11.2019. likumu);
 (2) Ministru kabinets nosaka pavadzīmes veidlapas paraugu, tās aizpildīšanas kārtību un, ja nepieciešams, papildu ziņas, kas norādāmas pavadzīmē.
 (3) Pārvadātājs izsniedz kravas nosūtītājam pavadzīmes veidlapu par maksu.

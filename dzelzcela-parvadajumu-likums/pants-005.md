@@ -2,7 +2,7 @@
 (1) Ministru kabinets izdod Dzelzceļa kravas pārvadājumu noteikumus par:
 1) kravu pārvadāšanu sakrautā veidā (bez vietu skaita);
 2) vagonu un konteineru plombēšanu;
-3) sīksūtījumu kravu pārvadāšanu;
+3) (izslēgts ar 21.11.2019. likumu);
 4) graudu un citu beramkravu pārvadāšanu;
 5) kravu pārvadāšanu konteineros;
 6) sasalstošu kravu pārvadāšanu;

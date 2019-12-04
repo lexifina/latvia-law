@@ -12,7 +12,7 @@ Likumā ir lietoti šādi termini:
 10) kravas saņēmējs - persona, kurai saskaņā ar pārvadājuma līgumu adresēta krava un kura ir norādīta kravas pārvadājuma dokumentos;
 10¹) militārā krava - munīcija, bruņojums, speciālie līdzekļi un tehnika, kas nodota pārvadāšanai pa dzelzceļu ārvalstu bruņoto spēku vai Nacionālo bruņoto spēku atbalstam;
 11) pasažieris - fiziskā persona, kura saskaņā ar pasažiera braukšanas biļeti vai uz cita tiesiska pamata izmanto pasažieru vagonu braukšanai un bagāžas pārvadāšanai, kā arī izmanto citus pārvadātāja sniegtos pakalpojumus;
-12) pavadzīme - dzelzceļa kravu pārvadājuma dokuments, ko kravas nosūtītājs iesniedz pārvadātājam kopā ar kravu un kas sastāv no pavadzīmes (oriģināls), ceļazīmes, ceļazīmes pasakņa un kvīts par kravas pieņemšanu;
+12) pavadzīme - dzelzceļa kravu pārvadājuma dokuments, ko kravas nosūtītājs iesniedz pārvadātājam kopā ar kravu;
 13) pavaddokumenti - dokumenti, kurus kravas nosūtītājs pievienojis pavadzīmei un norādījis pavadzīmē;
 14) privātvagoni, privātkonteineri - kravas nosūtītāja vai kravas saņēmēja īpašumā esošie vai uz cita tiesiska pamata lietošanā esošie vagoni un konteineri;
 15) rokas bagāža - viegli pārnēsājamas lietas, kuras pasažieris ved vagonā;
