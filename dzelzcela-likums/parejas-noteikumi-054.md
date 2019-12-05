@@ -1,0 +1,1 @@
+54. Šā likuma grozījumi par 17. panta papildināšanu ar piekto un sesto daļu, 36.¹ panta papildināšanu ar piekto un sesto daļu, 38. panta papildināšanu ar trešo daļu, grozījums par vārdu "un sastādītu protokolu" izslēgšanu 39. panta sestajā daļā, kā arī 36.³ pants un VIII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
