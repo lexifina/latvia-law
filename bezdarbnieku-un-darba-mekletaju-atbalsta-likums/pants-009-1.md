@@ -1,0 +1,2 @@
+9.¹ pants. Ar aktīvo nodarbinātības pasākumu un bezdarba samazināšanas preventīvo pasākumu organizēšanu un īstenošanu saistītie dokumenti
+Ar aktīvo nodarbinātības pasākumu un bezdarba samazināšanas preventīvo pasākumu organizēšanu un īstenošanu saistītos dokumentus var parakstīt un iesniegt informācijas sistēmā "Bezdarbnieku uzskaites un reģistrēto vakanču informācijas sistēma", izmantojot tajā pieejamos personu autentifikācijas līdzekļus.

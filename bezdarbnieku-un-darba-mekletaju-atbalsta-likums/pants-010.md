@@ -8,7 +8,7 @@
 6) nav sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kurai valsts vecuma pensija nav piešķirta (tai skaitā priekšlaicīgi);
 7) nav uzņemta pamatizglītības vai vidējās izglītības programmā klātienē;
 8) neveic komercdarbību vai tās komercdarbība apturēta saskaņā ar normatīvajiem aktiem;
-9) neatrodas ieslodzījuma vietā, izņemot brīvības atņemšanas soda izciešanu atklātā cietumā, vai ilgstošas sociālās aprūpes vai sociālās rehabilitācijas institūcijā, kurā pakalpojumus pilnībā finansē no valsts vai pašvaldības budžeta.
+9) neatrodas ieslodzījuma vietā, izņemot brīvības atņemšanas soda izciešanu atklātā cietumā, vai ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā, kurā pakalpojumus pilnībā vai daļēji finansē no valsts vai pašvaldības budžeta.
 (2) Par darbspējīgu šā likuma izpratnē uzskatāma arī persona, kurai ir noteikta invaliditāte, izņemot gadījumus, kad tai ir noteikts 100 procentu darbspēju zaudējums.
 (3) (Izslēgta ar 24.11.2011. likumu)
-(4) Iesniegumu bezdarbnieka statusa piešķiršanai persona iesniedz Nodarbinātības valsts aģentūrai. Ja iesniegumu iesniedz, izmantojot vienotajā valsts un pašvaldību pakalpojumu portālā www.latvija.lv šim nolūkam izveidotu tiešsaistes formu, iesniedzēja personu identificē, lietojot portālā pieejamos autentifikācijas līdzekļus.
+(4) Iesniegumu bezdarbnieka statusa piešķiršanai persona iesniedz Nodarbinātības valsts aģentūrai. Ja iesniegumu iesniedz, izmantojot vienotajā valsts un pašvaldību pakalpojumu portālā www.latvija.lv vai Nodarbinātības valsts aģentūras vakanču portālā šim nolūkam izveidotu tiešsaistes formu, iesniedzēja personu identificē, lietojot portālā pieejamos autentifikācijas līdzekļus.

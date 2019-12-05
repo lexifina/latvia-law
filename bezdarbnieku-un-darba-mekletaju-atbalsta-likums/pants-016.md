@@ -1,4 +1,4 @@
-16.pants. Darba meklētāja tiesības un pienākumi
+16. pants. Darba meklētāju tiesības iesaistīties bezdarba samazināšanas preventīvajos pasākumos un viņu pienākumi
 (1) Darba meklētājam ir tiesības:
 1) piedalīties konkurētspējas paaugstināšanas un darba meklēšanas atbalsta pasākumos;
 2) saņemt informāciju par brīvajām darba vietām un ar tām saistītām kvalifikācijas un citām prasībām;
@@ -19,7 +19,7 @@
 (5) Neierašanās Nodarbinātības valsts aģentūrā šā panta ceturtās daļas 1., 2. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
 1) darba meklētājam iestājusies pārejoša darbnespēja;
 2) darba meklētājs kopj slimu bērnu;
-3) pamatojoties uz izsaukumu, darba meklētājs ierodas izziņas iestādē, prokuratūrā, tiesā vai piedalās tiesas sēdē kā piesēdētājs;
+3) pamatojoties uz izsaukumu, darba meklētājs ierodas izziņas iestādē, prokuratūrā vai tiesā;
 4) iemesls ir pirmās pakāpes radinieka vai laulātā nāve un ja Nodarbinātības valsts aģentūras apmeklējuma diena noteikta agrāk par septīto dienu pēc šāda radinieka vai laulātā nāves dienas;
 5) ir citi objektīvi apstākļi, kas nav atkarīgi no darba meklētāja gribas.
 (6) Darba meklētājam ir pienākums ierasties Nodarbinātības valsts aģentūrā pirmajā darba dienā pēc šā panta piektajā daļā minēto attaisnojošo iemeslu izbeigšanās, uzrādot attaisnojošo iemeslu apstiprinošu dokumentu.

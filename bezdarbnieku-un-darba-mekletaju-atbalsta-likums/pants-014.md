@@ -13,7 +13,7 @@ d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas 
 (3) Neierašanās Nodarbinātības valsts aģentūrā šā panta pirmās daļas 1., 2., 3. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
 1) bezdarbniekam iestājusies pārejoša darbnespēja;
 2) bezdarbnieks kopj slimu bērnu;
-3) pamatojoties uz izsaukumu, bezdarbnieks ierodas izziņas iestādē, prokuratūrā, tiesā vai piedalās tiesas sēdē kā piesēdētājs;
+3) pamatojoties uz izsaukumu, bezdarbnieks ierodas izziņas iestādē, prokuratūrā vai tiesā;
 4) iemesls ir pirmās pakāpes radinieka vai laulātā nāve un ja Nodarbinātības valsts aģentūras apmeklējuma diena noteikta agrāk par septīto dienu pēc šāda radinieka vai laulātā nāves dienas;
 5) ierašanās nav iespējama sakarā ar dalību aktīvajos nodarbinātības pasākumos vai citu individuālajā darba meklēšanas plānā paredzēto pasākumu īstenošanu;
 6) ir citi objektīvi apstākļi, kas nav atkarīgi no bezdarbnieka gribas.

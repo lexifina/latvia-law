@@ -1,0 +1,1 @@
+22. Šā likuma 9.¹ pants piemērojams ar dienu, kad tiek nodrošināta informācijas sistēmas "Bezdarbnieku uzskaites un reģistrēto vakanču informācijas sistēma" funkcionalitāte dokumentu iesniegšanai un parakstīšanai, bet ne vēlāk kā 2021. gada 1. februārī.
