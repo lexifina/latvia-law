@@ -4,3 +4,4 @@ Civilās aviācijas aģentūra ir par aviācijas drošības programmas īstenoš
 Civilās aviācijas drošības politikas jautājumu un starpinstitūciju darbības koordinēšanu nodrošina koleģiāla lēmējinstitūcija - Nacionālā civilās aviācijas drošības komisija. Ministru kabinets apstiprina Nacionālās civilās aviācijas drošības komisijas nolikumu un nosaka tās sastāvu.
 Civilās aviācijas aģentūra saskaņā ar Civilās aviācijas drošības kvalitātes kontroles programmu uzrauga Eiropas Savienības tiesību aktos un Valsts civilās aviācijas drošības programmā noteikto pasākumu īstenošanu. Civilās aviācijas drošības kvalitātes kontroles programmu apstiprina Ministru kabinets.
 Valsts civilās aviācijas drošības programmā noteiktos pasākumus īsteno personāls, kas sertificēts atbilstoši kārtībai, kuru nosaka Ministru kabinets.
+Pasažieru kategorijas, kuras atbrīvo no lidostas drošības pārbaudes, un kārtību, kādā tās atbrīvo no lidostas drošības pārbaudes, nosaka Ministru kabinets.
