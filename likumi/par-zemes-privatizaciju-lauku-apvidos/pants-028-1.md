@@ -3,12 +3,12 @@ Lauksaimniecībā izmantojamo zemi un zemi, kuras sastāvā dominējošā zemes 
 1) fiziskās personas, kas atbilst visiem šādiem nosacījumiem:
 a) ir reģistrētas kā saimnieciskās darbības veicēji Latvijas Republikā,
 b) (izslēgts ar 18.05.2017. likumu),
-c) rakstveidā apliecina, ka šīs zemes izmantošanu lauksaimnieciskajā darbībā uzsāks gada laikā pēc tās iegādes un nodrošinās arī turpmāk, ja zeme iepriekšējā vai tekošajā gadā ir bijusi pieteikta tiešajiem maksājumiem, vai uzsāks triju gadu laikā un nodrošinās arī turpmāk, ja zeme iepriekšējā vai tekošajā gadā nav bijusi pieteikta tiešajiem maksājumiem,
+c) rakstveidā apliecina, ka šīs zemes izmantošanu lauksaimnieciskajā darbībā uzsāks gada laikā pēc tās iegādes un nodrošinās arī turpmāk, ja zeme iepriekšējā vai kārtējā gadā ir bijusi pieteikta tiešajiem maksājumiem, vai uzsāks triju gadu laikā un nodrošinās arī turpmāk, ja zeme iepriekšējā vai kārtējā gadā nav bijusi pieteikta tiešajiem maksājumiem,
 d) tām nodokļu parādu kopsumma Latvijā vai valstī, kurā atrodas šo personu pastāvīgā dzīvesvieta, nepārsniedz 150 euro,
 e) ir saņēmušas Savienības pilsoņa reģistrācijas apliecību un dokumentu par valsts valodas zināšanām vismaz atbilstoši B līmeņa 2. pakāpei, ja tās ir citu Eiropas Savienības dalībvalstu pilsoņi, Eiropas Ekonomikas zonas valstu vai Šveices Konfederācijas pilsoņi;
 2) juridiskās personas, kas atbilst visiem šādiem nosacījumiem:
 a) (izslēgts ar 18.05.2017. likumu),
-b) rakstveidā apliecina, ka šīs zemes izmantošanu lauksaimnieciskajā darbībā uzsāks gada laikā pēc tās iegādes un nodrošinās arī turpmāk, ja zeme iepriekšējā vai tekošajā gadā ir bijusi pieteikta tiešajiem maksājumiem, vai uzsāks triju gadu laikā un nodrošinās arī turpmāk, ja zeme iepriekšējā vai tekošajā gadā nav bijusi pieteikta tiešajiem maksājumiem,
+b) rakstveidā apliecina, ka šīs zemes izmantošanu lauksaimnieciskajā darbībā uzsāks gada laikā pēc tās iegādes un nodrošinās arī turpmāk, ja zeme iepriekšējā vai kārtējā gadā ir bijusi pieteikta tiešajiem maksājumiem, vai uzsāks triju gadu laikā un nodrošinās arī turpmāk, ja zeme iepriekšējā vai kārtējā gadā nav bijusi pieteikta tiešajiem maksājumiem,
 c) (izslēgts ar 18.05.2017. likumu),
 d) var norādīt patiesos labuma guvējus un apliecināt, ka visi patiesie labuma guvēji ir šā likuma 28.panta pirmās daļas 1.punktā minētās personas,
 e) tām nodokļu parādu kopsumma Latvijā vai valstī, kurā šīs personas ir reģistrētas, nepārsniedz 150 euro,
