@@ -1,0 +1,1 @@
+14. Ministru kabinets izvērtē Latvijas ostu pārvaldības modeļa atbilstību starptautiskajiem labas pārvaldības principiem un līdz 2020. gada 1. jūlijam iesniedz Saeimai likumprojektu par Latvijas ostu pārvaldības modeļa maiņu.

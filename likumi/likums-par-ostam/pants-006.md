@@ -11,4 +11,5 @@
 9) atbildība par ostas noteikumu pārkāpšanu;
 10) ostā ņemamās maksas;
 11) citas ostas darbību reglamentējošās normas.
+(1¹) Šā panta pirmajā daļā minētos ostas noteikumus Rīgas ostai un Ventspils ostai izdod Ministru kabinets.
 (2) Ostas noteikumi ir obligāti visām juridiskajām un fiziskajām personām, kuras darbojas vai uzturas ostā, un to izpildi pārrauga ostas pārvalde.
