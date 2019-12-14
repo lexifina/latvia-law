@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2019. gada 10.decembra Ministru kabineta noteikumi Nr. 607 Pasažieru un kravas pašpārvadājumu veikšanas kārtība\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2019/251.16",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-13",
+  "entry_into_force": "2019-12-14",
+  "notification_date": "2023-11-07",
+  "commission_reference": "MNE(2023)05760",
+  "nim_celex": "72022L0738LVA_202305760",
+  "nim_id": "202305760",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0ca9ce4-d130-4969-b859-20155ce70839",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
