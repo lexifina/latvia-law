@@ -1,4 +1,4 @@
-21.² pants. (1) Laboratorisko izmeklēšanu (tajā skaitā references funkcijas normatīvajos aktos noteiktajās jomās) šā likuma 21.panta otrajā daļā Pārtikas un veterinārajam dienestam noteikto funkciju ietvaros nodrošina Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR".
+21.² pants. (1) Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 38. pantā noteiktos oficiālās laboratorijas pienākumus pilda Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR".
 (2) Normatīvajos aktos noteiktajos gadījumos personas sedz izdevumus par Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta "BIOR" veiktajiem laboratoriskajiem izmeklējumiem.
 (3) Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta "BIOR" valsts pārvaldes uzdevumu ietvaros veikto darbību cenrādi apstiprina Ministru kabinets.
 (4) Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR":
@@ -8,4 +8,5 @@
 4) veic riska zinātnisko novērtējumu savas kompetences jomās;
 5) Eiropas Savienības tieši piemērojamos normatīvajos aktos pārtikas aprites jomā noteiktajos gadījumos izvērtē un nosūta Eiropas Komisijai un Eiropas Pārtikas nekaitīguma iestādei no uzņēmumiem saņemtos iesniegumus par jaunām izejvielām un ražošanas procesiem;
 6) veic kompetentajai iestādei paredzētos uzdevumus attiecībā uz sadarbību ar Eiropas Komisiju un Eiropas Pārtikas nekaitīguma iestādi atbilstoši prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulā Nr. 1924/2006 par uzturvērtības un veselīguma norādēm uz pārtikas produktiem;
-7) pēc pārtikas uzņēmuma pieprasījuma nodrošina pārtikas uzņēmuma paškontroles laboratorijas metodisko vadību.
+7) pēc pārtikas uzņēmuma pieprasījuma nodrošina pārtikas uzņēmuma paškontroles laboratorijas metodisko vadību;
+8) pilda references laboratorijas funkcijas pārtikas aprites jomā.

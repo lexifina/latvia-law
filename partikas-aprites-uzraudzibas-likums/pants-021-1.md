@@ -6,5 +6,5 @@
 (6) (Izslēgta ar 12.06.2009. likumu.)
 (7) (Izslēgta ar 12.06.2009. likumu.)
 (8) Pārtikas un veterinārā dienesta finansu līdzekļus veido valsts pamatbudžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no maksas pakalpojumiem Ministru kabineta noteiktajā kārtībā, ārvalstu finansu palīdzība likumā par valsts budžetu kārtējam gadam noteiktajā apjomā, saņemtie ziedojumi un dāvinājumi.
-(9) Kārtību, kādā maksā par šajā likumā noteiktajām valsts uzraudzības un kontroles darbībām, un Pārtikas un veterinārā dienesta sniegto maksas pakalpojumu veidus nosaka Ministru kabinets.
+(9) Ministru kabinets nosaka kārtību, kādā aprēķina maksu un maksā par šajā likumā un Eiropas Parlamenta un Padomes regulā (ES) 2017/625 par oficiālajām kontrolēm noteiktajām Pārtikas un veterinārā dienesta īstenotajām valsts uzraudzības un kontroles darbībām.
 (10) (Izslēgta ar 17.11.2005. likumu.)

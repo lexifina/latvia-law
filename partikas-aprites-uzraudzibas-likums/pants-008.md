@@ -1,4 +1,4 @@
-8.pants. (1) Pārtikas uzņēmuma pienākums ir veikt paškontroli, novērst jebkuru darbību vai procesu, kas nelabvēlīgi ietekmē pārtikas nekaitīgumu, un nodrošināt attiecīgās pārtikas aprites drošības procedūras vai kontroles pasākumus, to ieviešanu pārtikas saglabāšanā un pārbaudē.
+8.pants. (1) Pārtikas uzņēmuma pienākums ir veikt paškontroli un novērst jebkuru darbību vai procesu, kas var nelabvēlīgi ietekmēt pārtikas nekaitīgumu. Par neatbilstošiem pārtikas nekaitīguma rādītāju rezultātiem un neatbilstību novēršanai īstenotajiem pasākumiem pārtikas uzņēmums nekavējoties informē attiecīgo Pārtikas un veterinārā dienesta teritoriālo struktūrvienību.
 (2) (Izslēgta ar 17.11.2005. likumu)
 (3) Pārtikas apritē iesaistītajām personām jāievēro normatīvajos aktos noteiktās personāla higiēnas prasības.
 (4) (Izslēgta ar 17.11.2005. likumu)

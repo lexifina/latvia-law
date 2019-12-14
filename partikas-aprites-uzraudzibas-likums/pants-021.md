@@ -1,11 +1,11 @@
-21.pants. (1) Pārtikas aprites valsts uzraudzību un kontroli veic Zemkopības ministrijas pārraudzībā esoša valsts pārvaldes iestāde - Pārtikas un veterinārais dienests.
+21.pants. (1) Pārtikas un veterinārais dienests organizē un īsteno pārtikas aprites uzraudzību un kontroli saskaņā ar Eiropas Parlamenta un Padomes regulu (ES) 2017/625 par oficiālajām kontrolēm, kā arī ir kompetentā iestāde Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 1. panta 2. punkta "a", "i" un "j" apakšpunktā noteiktajās jomās.
 (2) Pārtikas un veterinārā dienesta funkcijas ir:
 1) pārtikas apritē:
 a) uzraudzīt un kontrolēt visos pārtikas aprites posmos pārtikas produktu (izņemot nefasētu dzeramo ūdeni, ko iedzīvotājiem piegādā pa ūdensapgādes sistēmām) atbilstību normatīvajos aktos noteiktajām prasībām,
 b) atzīt un reģistrēt pārtikas uzņēmumu darbību, kā arī anulēt to atzīšanu un reģistrāciju normatīvajos aktos noteiktajā kārtībā,
 c) visos pārtikas aprites posmos uzraudzīt un kontrolēt pārtikas uzņēmumu darbību un pārtikas aprites procesu atbilstību normatīvajos aktos noteiktajām prasībām,
 d) visos pārtikas aprites posmos veikt riska faktoru izpēti un analīzi;
-2) sanitārajā robežkontrolē - normatīvajos aktos noteiktajā kārtībā uzraudzīt un kontrolēt valsts robežas kontroles punktos, kā arī brīvajās zonās, brīvajās noliktavās un muitas noliktavās pārtikas ievešanu valstī, veterinārajai uzraudzībai pakļauto produktu, kā arī citu preču un produktu ievešanu, izvešanu vai pārvadāšanu tranzītā;
+2) preču robežkontrolē - robežkontroles punktos, brīvajās zonās un muitas noliktavās normatīvajos aktos pārtikas aprites jomā noteiktajā kārtībā uzraudzīt un kontrolēt pārtiku, kā arī saskarei ar pārtiku paredzētos materiālus un izstrādājumus;
 3) (izslēgts ar 01.12.2009. likumu);
 4) bioloģiskajā lauksaimniecībā:
 a) atzīt, uzraudzīt un kontrolēt institūcijas, kas pārbauda to personu darbību, kuras nodarbojas ar bioloģisko lauksaimniecību, un šo personu saražoto produkciju,
@@ -34,8 +34,11 @@ b) veidot, uzturēt un aktualizēt nacionālajā pārtikas kvalitātes shēmā i
 18) uzraudzīt un kontrolēt saskarei ar pārtiku paredzēto materiālu un izstrādājumu ražošanas, pārstrādes un izplatīšanas procesu;
 19) (izslēgts ar 23.10.2014. likumu);
 20) uzraudzīt un kontrolēt tādu pārtikas produktu piegādes un ēdināšanas pakalpojumu līgumu izpildi, kuri noslēgti saistībā ar zaļo publisko iepirkumu;
-21) uzraudzīt un kontrolēt tirgus pārvaldītāja darbību normatīvajos aktos noteiktajā kārtībā.
+21) uzraudzīt un kontrolēt tirgus pārvaldītāja darbību normatīvajos aktos noteiktajā kārtībā;
+22) noteikt un uzraudzīt pārtikas uzņēmumu laboratorijas, kurās, īstenojot pārtikas aprites uzraudzību un kontroli, pārbauda Trichinella klātbūtni gaļā un kuras atbilst Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 40. panta 1. punkta "a" apakšpunktā noteiktajām prasībām;
+23) pildīt Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 109. panta 2. punktā noteiktās struktūras funkcijas saistībā ar valsts daudzgadu kontroles plāna sagatavošanu un iesniegšanu Eiropas Komisijai;
+24) pildīt Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 103. pantā noteiktās koordinācijas institūcijas funkcijas.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar ikgadējām valsts uzraudzības un kontroles programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
-(4) Prasības tādas pārtikas ievešanai no trešajām valstīm, kura nav pakļauta veterinārajai kontrolei, kā arī kontroles kārtību valsts robežkontroles punktos, brīvajās zonās, brīvajās noliktavās un muitas noliktavās nosaka Ministru kabinets.
-(5) Prasības iekārtojumam kontroles punktos, kuros veic pārtikas sanitāro robežkontroli, un kontroles punktu atzīšanas kārtību nosaka Ministru kabinets.
-(6) Prasības references laboratorijām un references laboratoriju pilnvarošanas kārtību nosaka Ministru kabinets.
+(4) Ministru kabinets nosaka prasības un robežkontroles kārtību tādai no trešajām valstīm ievedamai pārtikai un saskarei ar pārtiku paredzētajiem materiāliem un izstrādājumiem, kam nepiemēro oficiālo robežkontroli saskaņā ar Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 44. pantā noteikto.
+(5) (Izslēgta ar 21.11.2019. likumu)
+(6) Prasības references laboratorijām un references laboratoriju pilnvarošanas kārtību, kā arī references jomas pārtikas apritē nosaka Ministru kabinets.
