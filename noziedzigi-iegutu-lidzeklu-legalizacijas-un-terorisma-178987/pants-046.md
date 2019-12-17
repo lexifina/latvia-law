@@ -3,7 +3,7 @@
 1) uzskaitīt un reģistrēt uzraugāmos likuma subjektus;
 2) veikt uzraugāmo un kontrolējamo likuma subjektu darbinieku apmācību un vadlīniju izstrādi jautājumos, kas saistīti ar noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanu;
 3) veikt saskaņā ar tās izstrādāto metodiku regulāras pārbaudes, lai izvērtētu, kā likuma subjekti izpilda šā likuma prasības, un, konstatējot pārkāpumus, lemt par pārbaudes akta sastādīšanu un sankciju piemērošanu;
-4) ziņot Finanšu izlūkošanas dienestam par pārbaužu laikā konstatētajiem neparastiem un aizdomīgiem darījumiem, par kuriem attiecīgais likuma subjekts nav ziņojis Finanšu izlūkošanas dienestam;
+4) ziņot Finanšu izlūkošanas dienestam par pārbaužu laikā konstatētajiem aizdomīgiem darījumiem, par kuriem attiecīgais likuma subjekts nav ziņojis Finanšu izlūkošanas dienestam;
 5) pēc Finanšu izlūkošanas dienesta pieprasījuma sniegt tam metodisku palīdzību šajā likumā paredzēto funkciju veikšanai;
 6) piemērot vai ierosināt, lai citas kompetentās institūcijas piemēro normatīvajos aktos noteiktās sankcijas par normatīvo aktu pārkāpumiem, un kontrolēt šo pārkāpumu novēršanas pasākumus;
 7) pēc savas iniciatīvas vai atbilstoši lūgumam veikt informācijas apmaiņu ar ārvalstu iestādēm, kuru pienākumi pēc būtības ir līdzīgi, ja tiek nodrošināta datu konfidencialitāte un to izmantošana ir iespējama vienīgi savstarpēji saskaņotiem mērķiem;

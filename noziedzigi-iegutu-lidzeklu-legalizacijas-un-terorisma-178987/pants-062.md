@@ -9,6 +9,6 @@
 2) ir pietiekams pamats uzskatīt, ka persona tiks vajāta vai sodīta rases, reliģijas, pilsonības, etniskās izcelsmes vai politisko uzskatu dēļ;
 3) šāda rīcība būtu nepārprotami nesamērīga attiecībā uz Latvijas valsts vai personas likumīgajām interesēm;
 4) (izslēgts ar 13.06.2019. likumu).
-(4) Finanšu izlūkošanas dienests var pieprasīt arī no citām, šā panta pirmajā daļā neminētajām ārvalstu iestādēm informāciju, kas nepieciešama, lai analizētu saņemtos ziņojumus par neparastiem vai aizdomīgiem darījumiem.
+(4) Finanšu izlūkošanas dienests var pieprasīt arī no citām, šā panta pirmajā daļā neminētajām ārvalstu iestādēm informāciju, kas nepieciešama, lai analizētu saņemtos ziņojumus par aizdomīgiem darījumiem un sliekšņa deklarācijas.
 (5) Ārvalstu izmeklēšanas iestādēm un tiesām Finanšu izlūkošanas dienesta rīcībā esošā informācija tiek sniegta kārtībā, kāda paredzēta starptautiskajos līgumos par savstarpējo tiesisko palīdzību krimināllietās, un ar tajos norādīto Latvijas Republikas valsts institūciju starpniecību, turklāt tikai par noziedzīgiem nodarījumiem, kas ir krimināli sodāmi Latvijas Republikā, ja starptautiskajos līgumos par savstarpējo tiesisko palīdzību krimināllietās nav noteikts citādi.
 (6) Ja Finanšu izlūkošanas dienests saskaņā ar šā likuma 30. pantu saņem ziņojumu, kas attiecas uz citu dalībvalsti, tas šo ziņojumu nekavējoties pārsūta attiecīgās dalībvalsts pilnvarotai iestādei, kuras pienākumi pēc būtības ir līdzīgi šā likuma 50. panta pirmajā daļā un 51. pantā minētajiem pienākumiem.

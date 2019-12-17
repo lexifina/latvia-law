@@ -1,0 +1,5 @@
+31.² pants. Sliekšņa deklarācijas iesniegšana
+(1) Likuma subjekta pienākums ir iesniegt Finanšu izlūkošanas dienestam sliekšņa deklarāciju Ministru kabineta noteiktajos gadījumos un kārtībā.
+(2) Likuma subjekts ne vēlāk kā nākamajā darbdienā reģistrē Finanšu izlūkošanas dienestam iesniegto sliekšņa deklarāciju un nodrošina tās pieejamību uzraudzības un kontroles institūcijām.
+(3) Šā panta prasības nav attiecināmas uz nodokļu konsultantiem, ārpakalpojuma grāmatvežiem, zvērinātiem revidentiem, zvērinātu revidentu komercsabiedrībām, zvērinātiem notāriem, zvērinātiem advokātiem un citiem neatkarīgiem juridisko pakalpojumu sniedzējiem gadījumos, kad tie aizstāv vai pārstāv klientus pirmstiesas kriminālprocesā vai tiesas procesā vai sniedz konsultācijas par tiesas procesa uzsākšanu vai izvairīšanos no tā (izņemot noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomu).
+(4) Finanšu izlūkošanas dienestam nav tiesību izpaust sliekšņa deklarāciju iesniegušo personu datus, izņemot šā likuma 56. panta pirmajā daļā paredzētos gadījumus.
