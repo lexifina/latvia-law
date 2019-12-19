@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 32,
+ "datums": "2019-12-19",
+ "ieraksts": {
+  "dkp_id": "681f55c7-71de-4729-b3d8-382a709714ae",
+  "lastmodtime": "\"AAAAAAHEEJw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Ilze#Dace#Andris#Romāns#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Artūrs Toms#Karina#Gatis#Jānis#Anita#Normunds#Inga#Rihards#Iveta#Janīna#Edmunds#Jānis#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Boriss#Kaspars#Inguna#Ieva#Rihards#Ilmārs#Jūlija#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Jānis#Mārtiņš#Viktors#Dace#Ivans#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Janīna#Regīna",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Plešs#Sprūde#Eglītis#Krišāns#Muižniece#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Ģirģens#Rībena#Krapāne#Kols#Dūrītis#Stepaņenko#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Dombrava#Bondars#Valainis#Bluķe#Klementjevs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Kursīte-Pakule#Ločmele-Luņova",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#AP!#AP!#NA#KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #AP!# #JK#SASKAŅA #JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#NA#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #SASKAŅA #KPV LV# #KPV LV#NA#AP!# #JV#SASKAŅA #JV#KPV LV#SASKAŅA #NA#AP!#ZZS#AP!#SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#JK#SASKAŅA #KPV LV# #SASKAŅA # #ZZS#NA#SASKAŅA #NA#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.12.2019 21:38:50",
+  "VOTEMOTIVE": "Grozījumi Ārstniecības likumā (502/Lp13), 1.lasījums",
+  "VOTING_ID": "306ca7f6-5647-4ee3-8e46-435641edc1d3",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "53",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-32-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4f182aa1-a73c-4964-94e3-984d5f833759/download/13.saeimas-2019.gada-rudens-sesija-32-vote.xml",
+  "sha256": "e65aa9690d98b3df2b2bb9ff3d7ca2fbaf333a72684e3293f31730f8081e8f63",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
