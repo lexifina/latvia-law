@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2019.gada rudens sesija",
+ "sede": 32,
+ "datums": "2019-12-19",
+ "ieraksts": {
+  "dkp_id": "e8589630-fcf3-4c2c-bdae-c34d8779d6f2",
+  "lastmodtime": "\"AAAAAAHD+Dw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Jānis#Boriss#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Linda#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Vitenbergs#Cilevičs#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Ozola#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK#SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#KPV LV#SASKAŅA #JK#KPV LV# #JV#KPV LV#NA#AP!# #JK#JV#SASKAŅA #JV#KPV LV#SASKAŅA #NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA #KPV LV# #SASKAŅA # #ZZS#NA#SASKAŅA #KPV LV#NA#SASKAŅA #ZZS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.12.2019 18:14:44",
+  "VOTEMOTIVE": "Grozījumi Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likumā (498/Lp13), 1.lasījums",
+  "VOTING_ID": "7588cf0e-167f-4fef-a5f4-b5b1ce3f6aea",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "86",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "47",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2019.gada rudens sesija-32-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4f182aa1-a73c-4964-94e3-984d5f833759/download/13.saeimas-2019.gada-rudens-sesija-32-vote.xml",
+  "sha256": "e65aa9690d98b3df2b2bb9ff3d7ca2fbaf333a72684e3293f31730f8081e8f63",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
