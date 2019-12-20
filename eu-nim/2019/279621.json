@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 17. decembra noteikumi Nr. 657 \"Grozījumi Ministru kabineta 2002. gada 19. februāra noteikumos Nr. 68 \"Izglītības programmu minimālās prasības zobārsta, farmaceita, māsas un vecmātes profesionālās kvalifikācijas iegūšanai\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "255",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-19",
+  "entry_into_force": "2019-12-20",
+  "notification_date": "2019-12-20",
+  "commission_reference": "MNE(2019)57267",
+  "nim_celex": "72013L0055LVA_279621",
+  "nim_id": "279621",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/912c6791-3073-11ea-af81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
