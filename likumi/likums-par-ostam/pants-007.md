@@ -1,7 +1,8 @@
 7. pants. Ostas pārvaldes funkcijas
-(1) Ostas pārvalde, izņemot šā panta 1.¹ daļā minētās ostas pārvaldes, ir publisko tiesību subjekts, kuru izveido attiecīgās pilsētas vai novada dome un kura šajā likumā noteiktajos ietvaros ir Ministru kabineta pārraudzībā. Ostas pārvaldes nolikumu apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu. Liepājas ostas pārvaldi nosaka Liepājas speciālās ekonomiskās zonas likums.
-(1¹) Rīgas ostas pārvalde un Ventspils ostas pārvalde ir atvasinātas publisko tiesību juridiskās personas, kuras šajā likumā noteiktajos ietvaros ir Ministru kabineta pārraudzībā. Rīgas ostas pārvaldes un Ventspils ostas pārvaldes nolikumu apstiprina Ministru kabinets.
-(2) Ostas pārvaldīšanu nodrošina ostas pārvalde, kura kā publisko tiesību subjekts veic šādas valsts pārvaldes funkcijas:
+(1) Ostas pārvalde, izņemot šā panta 1.¹ un 1.² daļā minētās ostas pārvaldes, ir publisko tiesību subjekts, kuru izveido attiecīgās pilsētas vai novada dome un kura šajā likumā noteiktajos ietvaros ir Ministru kabineta pārraudzībā. Ostas pārvaldes nolikumu apstiprina attiecīgā pašvaldība saskaņā ar Ministru kabineta apstiprinātu paraugnolikumu. Liepājas ostas pārvaldi nosaka Liepājas speciālās ekonomiskās zonas likums.
+(1¹) Rīgas ostas pārvalde ir atvasināta publisko tiesību juridiskā persona, kura šajā likumā noteiktajos ietvaros ir Ministru kabineta pārraudzībā. Rīgas ostas pārvaldes nolikumu apstiprina Ministru kabinets.
+(1²) Ostas pārvaldes funkcijas, uzdevumus un pienākumus Ventspils ostā veic Ministru kabineta noteiktā valsts kapitālsabiedrība, kura atrodas Satiksmes ministrijas pārraudzībā attiecībā uz šajā likumā un Ventspils brīvostas likumā noteikto ostas pārvaldes funkciju, uzdevumu un pienākumu īstenošanu un kuras kapitāla daļas (akcijas) nav atsavināmas vai ieķīlājamas.
+(2) Ostas pārvaldīšanu nodrošina ostas pārvalde, kura veic šādas valsts pārvaldes funkcijas:
 1) nosaka ostas maksu un tarifu robežlīmeņus šā likuma 15.pantā minētajiem pakalpojumiem;
 2) (izslēgts ar 06.11.2013. likumu);
 3) nosaka apsardzes un caurlaižu režīmu ostā;
