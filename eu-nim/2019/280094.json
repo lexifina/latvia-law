@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 1.oktobra noteikumi Nr. 465 \"Ro-ro pasažieru kuģu un ātrgaitas pasažieru kuģu drošības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "206",
+  "official_journal_page": null,
+  "official_journal_date": "2019-10-10",
+  "entry_into_force": "2019-12-21",
+  "notification_date": "2020-01-10",
+  "commission_reference": "MNE(2020)50284",
+  "nim_celex": "72017L2110LVA_280094",
+  "nim_id": "280094",
+  "transposes_celex": [
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3013459b-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
