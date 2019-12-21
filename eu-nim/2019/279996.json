@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 17. decembra noteikumi Nr. 665 \"Grozījumi Ministru kabineta 2011. gada 14. jūnija noteikumos Nr. 451 \"Noteikumi par drošības prasībām vietējos reisos iesaistītiem pasažieru kuģiem\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "255",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-19",
+  "entry_into_force": "2019-12-21",
+  "notification_date": "2020-01-09",
+  "commission_reference": "MNE(2020)50202",
+  "nim_celex": "72017L2108LVA_279996",
+  "nim_id": "279996",
+  "transposes_celex": [
+    "32017L2108"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b91fedb6-337c-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
