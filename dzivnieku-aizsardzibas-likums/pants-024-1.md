@@ -1,1 +1,1 @@
-24.¹ pants. Pārtikas un veterinārais dienests atbilstoši Ministru kabineta noteiktajām prasībām var atļaut izmantot procedūrās savvaļā sagūstītos dzīvniekus, primātus, kas nav cilvēkveidīgie primāti, un apdraudēto dzīvnieku sugu dzīvniekus.
+24.¹ pants. Pārtikas un veterinārais dienests atbilstoši Ministru kabineta noteiktajām prasībām var atļaut izmantot procedūrās savvaļā sagūstītos dzīvniekus, primātus, kas nav cilvēkveidīgie primāti, izņemot cilvēkveidīgos pērtiķus, un apdraudēto dzīvnieku sugu dzīvniekus.
