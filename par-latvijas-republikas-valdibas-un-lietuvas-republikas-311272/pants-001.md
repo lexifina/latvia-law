@@ -1,0 +1,1 @@
+1. pants. 2019. gada 18. jūlijā parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par Latvijas-Lietuvas valsts robežas uzturēšanu un pilnvaroto robežas pārstāvju darbību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
