@@ -1,0 +1,1 @@
+30. Ministru kabinets, ievērojot šā likuma 59. panta 17. punktā noteikto, ne vēlāk kā līdz 2020. gada 29. februārim izdara grozījumus Ministru kabineta 2011. gada 21. jūnija noteikumos Nr. 491 "Mājas (istabas) dzīvnieku reģistrācijas kārtība".

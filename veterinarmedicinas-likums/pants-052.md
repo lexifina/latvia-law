@@ -1,4 +1,4 @@
-52.pants. (1) Veterināro kontroli uz valsts robežas, brīvajās noliktavās un muitas noliktavās veic Pārtikas un veterinārais dienests.
+52.pants. (1) Dzīvnieku un preču kontroli robežkontroles punktos, brīvajās zonās un muitas noliktavās veic Pārtikas un veterinārais dienests atbilstoši Parlamenta un Padomes regulas Nr. 2017/625 prasībām.
 (2) Personu bagāžu un privātus sūtījumus, kas satur dzīvnieku izcelsmes produktus, saskaņā ar Komisijas 2009.gada 5.marta regulu (EK) Nr. 206/2009 par dzīvnieku izcelsmes produktu sūtījumu ievešanu Kopienā personīgam patēriņam un regulas (EK) Nr. 136/2004 grozīšanu (Dokuments attiecas uz EEZ) kontrolē:
 1) robežšķērsošanas vietās, kurās veic muitas kontroli, - Valsts ieņēmumu dienests;
 2) robežšķērsošanas vietās, kurās muitas kontrole nav paredzēta, - Valsts robežsardze.

@@ -1,2 +1,2 @@
 VIII nodaļa
-Veterinārā kontrole uz valsts robežas un muitas noliktavās
+Dzīvnieku un preču pārvietošana pāri valsts robežai

@@ -1,2 +1,2 @@
 VII nodaļa
-Veterinārā ekspertīze
+Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze

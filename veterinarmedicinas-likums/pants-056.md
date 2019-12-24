@@ -7,4 +7,5 @@
 6) veikt veterinārā darba uzskaiti un iesniegt Pārtikas un veterinārajam dienestam tā noteiktos pārskatus;
 7) ievērot veterinārmedicīniskās prakses standartus un profesionālo ētiku;
 8) paaugstināt profesionālo kvalifikāciju;
-9) par veikto vakcināciju pret trakumsērgu izdarīt attiecīgu ierakstu Eiropas Savienības mājas (istabas) dzīvnieka pasē saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 576/2013 prasībām vai vakcinācijas apliecībā, ievērojot dzīvnieku veselības jomu reglamentējošos normatīvajos aktos noteikto kārtību.
+9) par veikto vakcināciju pret trakumsērgu izdarīt attiecīgu ierakstu mājas (istabas) dzīvnieka pasē saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 576/2013 prasībām vai vakcinācijas apliecībā, ievērojot dzīvnieku veselības jomu reglamentējošos normatīvajos aktos noteikto kārtību;
+10) nekavējoties, bet ne vēlāk kā 24 stundu laikā ziņot Pārtikas un veterinārajam dienestam, ja dzīvnieka īpašnieks vai turētājs nenodrošina veterinārmedicīnisko aprūpi dzīvnieka saslimšanas gadījumā, kā dēļ dzīvnieks ir pakļauts sāpēm un ciešanām vai ir apdraudēta dzīvnieka dzīvība.

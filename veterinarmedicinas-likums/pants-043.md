@@ -1,1 +1,1 @@
-43.pants. Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi saskaņā ar prasībām, kas noteiktas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 854/2004.
+43. pants. Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi atbilstoši Parlamenta un Padomes regulas Nr. 2017/625 18. panta prasībām.
