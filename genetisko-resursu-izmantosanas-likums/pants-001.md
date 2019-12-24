@@ -1,0 +1,1 @@
+1. pants. Likumā ir lietoti Eiropas Parlamenta un Padomes 2014. gada 16. aprīļa regulas (ES) Nr. 511/2014 par no Nagojas Protokola par piekļuvi ģenētiskajiem resursiem un to ieguvumu taisnīgu un godīgu sadali, kas gūti no šo resursu izmantošanas, izrietošiem atbilstības pasākumiem lietotājiem Savienībā (turpmāk - regula Nr. 511/2014) 3. pantā minētie termini.

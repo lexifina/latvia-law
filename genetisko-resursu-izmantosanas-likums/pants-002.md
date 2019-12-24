@@ -1,0 +1,1 @@
+2. pants. Likuma mērķis ir nodrošināt ģenētisko resursu tiesisku izmantošanu, nosakot kompetento iestādi Latvijā, atsevišķus ģenētisko resursu lietotāju pienākumus un atbildību par regulas Nr. 511/2014 prasību neievērošanu.

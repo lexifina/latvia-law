@@ -1,0 +1,1 @@
+3. pants. Likumu piemēro ģenētiskajiem resursiem un ar ģenētiskajiem resursiem saistītām tradicionālajām zināšanām no ārvalstīm, kas ir Konvencijai par bioloģisko daudzveidību pievienotā 2010. gada 29. oktobra Nagojas Protokola par piekļuvi ģenētiskajiem resursiem un to ieguvumu taisnīgu un godīgu sadali, kas gūti no šo resursu izmantošanas, dalībvalstis.

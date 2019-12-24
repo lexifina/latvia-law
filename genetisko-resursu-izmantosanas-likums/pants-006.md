@@ -1,0 +1,1 @@
+6. pants. Regulas Nr. 511/2014 7. panta 1. un 2. punktā, kā arī īstenošanas regulas Nr. 2015/1866 5. un 6. pantā un II un III pielikumā noteiktās pienācīgas pārbaudes deklarācijas kompetentajai iestādei iesniedz, izmantojot Eiropas Komisijas informācijas sistēmu DECLARE.
