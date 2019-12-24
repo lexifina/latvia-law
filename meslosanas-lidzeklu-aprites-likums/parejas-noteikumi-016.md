@@ -1,0 +1,1 @@
+16. Grozījums šā likuma 3. panta otrās daļas 2. punktā, grozījums šā likuma 9. panta otrajā daļā par 5. punkta izslēgšanu, kā arī šā likuma IV nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
