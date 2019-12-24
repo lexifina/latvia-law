@@ -1,0 +1,1 @@
+7. Līdz šā likuma 19.¹ pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2020. gada 1. janvārim ir piemērojami Ministru kabineta 2013. gada 8. oktobra noteikumi Nr. 1083 "Kārtība, kādā veicama samaksa par Pārtikas un veterinārā dienesta valsts uzraudzības un kontroles darbībām un maksas pakalpojumiem", ciktāl tie nav pretrunā ar šo likumu.

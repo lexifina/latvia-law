@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2020. gada 31. decembrim izdara grozījumus Ministru kabineta 2009. gada 30. jūnija noteikumos Nr. 730 "Dzīvnieku barības apritē iesaistītā uzņēmuma reģistrācijas un atzīšanas kārtība", nosakot barības apritē iesaistītās personas atzīšanas un reģistrācijas anulēšanas kārtību.

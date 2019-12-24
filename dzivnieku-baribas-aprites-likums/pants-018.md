@@ -1,1 +1,1 @@
-18.pants. Kārtību, kādā Pārtikas un veterinārais dienests kontrolē dzīvnieku barības kravas uz valsts robežas, brīvajās zonās, brīvajās un muitas noliktavās, nosaka Ministru kabinets.
+18. pants. Barības kravu kontroli valsts robežkontroles punktos, brīvajās zonās un muitas noliktavās veic saskaņā ar Eiropas Parlamenta un Padomes regulu (ES) 2017/625 par oficiālajām kontrolēm.

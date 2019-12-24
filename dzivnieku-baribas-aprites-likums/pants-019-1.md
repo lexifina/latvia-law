@@ -1,0 +1,1 @@
+19.¹ pants. Ministru kabinets nosaka kārtību, kādā aprēķina maksu un maksā par šajā likumā un Eiropas Parlamenta un Padomes regulā (ES) 2017/625 par oficiālajām kontrolēm noteiktajām Pārtikas un veterinārā dienesta veiktajām valsts uzraudzības un kontroles darbībām.
