@@ -1,0 +1,3 @@
+58.⁶ pants. Eiropas Prokuratūras un tās amatpersonu statuss
+(1) Prokuratūras funkcijas Latvijā atbilstoši regulā (ES) 2017/1939 noteiktajam statusam un kompetencei īsteno arī Eiropas Prokuratūra. Eiropas Prokuratūra ir uzskatāma par prokuratūru Latvijas tiesību normu izpratnē.
+(2) Eiropas prokurora un Eiropas deleģētā prokurora amats uzskatāms par prokurora amatu Latvijas tiesību normu izpratnē. Eiropas prokuroram un Eiropas deleģētajam prokuroram ir tādas pašas tiesības, pienākumi, ierobežojumi un garantijas kā Latvijas Republikas prokuratūras prokuroram, ciktāl regulā (ES) 2017/1939 nav noteikts citādi.

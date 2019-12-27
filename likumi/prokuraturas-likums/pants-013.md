@@ -1,2 +1,2 @@
-13.pants. Prokurora pilnvaras pirmstiesas kriminālprocesā
-Prokurors uzsāk un veic kriminālvajāšanu, piemēro kriminālsodu vai atbrīvo personu no kriminālatbildības, kā arī realizē citas Kriminālprocesa likumā paredzētās prokurora pilnvaras.
+13.pants. Prokurora kā procesa virzītāja pilnvaras pirmstiesas kriminālprocesā
+Prokurors uzsāk un veic kriminālvajāšanu, piemēro kriminālsodu vai atbrīvo personu no kriminālatbildības, kā arī realizē citas Kriminālprocesa likumā vai Eiropas Savienības Padomes 2017. gada 12. oktobra regulā (ES) 2017/1939, ar ko īsteno ciešāku sadarbību Eiropas Prokuratūras (EPPO) izveidei (turpmāk - regula (ES) 2017/1939) paredzētās prokurora pilnvaras.

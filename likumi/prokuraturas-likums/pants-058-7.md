@@ -1,0 +1,3 @@
+58.⁷ pants. Eiropas prokurora iecelšanas amatā un pilnvaru termiņa izbeigšanās sekas
+(1) Prokurors sakarā ar iecelšanu Eiropas prokurora amatā tiek atbrīvots no amata Latvijas Republikas prokuratūrā saskaņā ar šā likuma 39. panta 2. punktu.
+(2) Eiropas prokurora amatā ieceltu personu pēc attiecīgā amata pilnvaru termiņa izbeigšanās uz šīs personas iesnieguma pamata ieceļ prokurora amatā, izņemot virsprokurora vai virsprokurora vietnieka amatu, tajā prokuratūras struktūrvienībā, kurā tā ieņēma amatu līdz atbrīvošanai no tā šā panta pirmajā daļā noteiktajā gadījumā, bet, ja tas nav iespējams, - tāda paša līmeņa prokuratūras struktūrvienībā.
