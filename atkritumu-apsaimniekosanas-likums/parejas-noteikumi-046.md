@@ -1,0 +1,1 @@
+46. Grozījumi šā likuma 8. panta pirmās daļas 3. punktā (par vārdu "kā arī nosaka pašvaldības pilnvarotas institūcijas un amatpersonas, kuras kontrolē saistošo noteikumu ievērošanu un ir tiesīgas sastādīt administratīvā pārkāpuma protokolu" izslēgšanu), kā arī šā likuma IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
