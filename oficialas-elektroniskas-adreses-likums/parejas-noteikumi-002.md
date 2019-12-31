@@ -1,1 +1,1 @@
-2. Zvērinātam tiesu izpildītājam, maksātnespējas procesa administratoram un tiesām, kas izskata civillietas, krimināllietas, administratīvās lietas un administratīvo pārkāpumu lietas, kā arī Satversmes tiesai šā likuma 5.panta pirmo daļu piemēro no 2020.gada 1.janvāra.
+2. Zvērinātam tiesu izpildītājam, Augstākajai tiesai un Satversmes tiesai šā likuma 5. panta pirmo daļu piemēro no 2020. gada 1. janvāra, bet maksātnespējas procesa administratoram, rajonu (pilsētu) tiesām un apgabaltiesām - no 2021. gada 1. aprīļa.
