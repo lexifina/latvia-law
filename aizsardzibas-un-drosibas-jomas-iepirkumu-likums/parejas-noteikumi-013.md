@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 1. panta 18. punktā (par tiesību izmantošanas aizliegumu), 28. pantā par tā pirmās daļas izteikšanu jaunā redakcijā, kā arī šā likuma XV nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
