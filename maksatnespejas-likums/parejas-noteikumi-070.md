@@ -1,0 +1,1 @@
+70. Grozījumi šā likuma 38. panta septītajā daļā, 164. panta ceturtās daļas 4. punktā, 174.¹ panta 3. punktā saistībā ar administratīvo pārkāpumu procesu un šā likuma XXXIII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
