@@ -8,5 +8,6 @@
 4) publicē šajā likumā noteiktos paziņojumus Iepirkumu uzraudzības biroja tīmekļvietnē, nosūta tos publicēšanai Eiropas Savienības Oficiālajā Vēstnesī, kā arī nosūta Eiropas Komisijai informāciju, kuru tā pieprasa;
 5) veic citas normatīvajos aktos noteiktās funkcijas.
 (3¹) Iepirkumu uzraudzības birojs ir funkcionāli augstākā iestāde attiecībā uz šā panta trešās daļas 2. punktā minētās funkcijas izpildi.
+(3²) Iepirkumu uzraudzības birojs ir tiesīgs pieprasīt un bez maksas saņemt pilnu informāciju par jebkuru publisko un privāto partnerību, līguma slēgšanas tiesību piešķiršanas kārtību un noslēgto līgumu.
 (4) Uzraudzības institūciju nosaka Ministru kabinets.
 (5) Atbilstoši kompetencei publiskās un privātās partnerības procesu uzrauga arī Valsts kontrole un citas kompetentās institūcijas.

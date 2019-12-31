@@ -1,0 +1,1 @@
+33. Grozījumi šā likuma 1. panta 37. punktā (par tiesību izmantošanas aizliegumu), 24. pantā par tā pirmās daļas izteikšanu jaunā redakcijā, kā arī par 120. panta izslēgšanu un šā likuma XXVI nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
