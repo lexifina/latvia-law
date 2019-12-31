@@ -1,7 +1,4 @@
-26.pants. Ārvalstī izsniegta kvalificēta sertifikāta atzīšana
-Ārvalstī izsniegtam kvalificētam sertifikātam ir šajā likumā noteiktais juridiskais statuss un tiesiskās sekas, ja sertifikāta statusu un ar sertifikātu saistītos elektroniskā paraksta pārbaudes datus var pārbaudīt, atrodoties Latvijā, un kvalificēts sertifikāts atbilst vismaz vienam no šādiem nosacījumiem:
-1) tas atbilst visām šā likuma un citu normatīvo aktu prasībām;
-2) to izsniedzis uzraudzības iestādē brīvprātīgi akreditējies sertifikācijas pakalpojumu sniedzējs;
-3) to garantē uzraudzības iestādē brīvprātīgi akreditējies sertifikācijas pakalpojumu sniedzējs;
-4) to Latvijas Republikā atzīst saskaņā ar starptautiskajiem līgumiem;
-5) to izsniedzis Eiropas Savienības dalībvalstī reģistrēts sertifikācijas pakalpojumu sniedzējs vai to garantē Eiropas Savienības dalībvalstī reģistrēts sertifikācijas pakalpojumu sniedzējs.
+26. pants. Ārvalstī izsniegta kvalificēta sertifikāta atzīšana
+Ārvalstī izsniegtam sertifikātam ir šajā likumā noteiktais kvalificēta sertifikāta juridiskais statuss un tiesiskās sekas, ja tas atbilst vismaz vienam no šādiem nosacījumiem:
+1) to izsniedzis Eiropas Savienības dalībvalsts uzraudzības iestādē reģistrēts uzticams sertifikācijas pakalpojumu sniedzējs;
+2) to saskaņā ar Regulas Nr. 910/2014/ES 14. pantu izsniedzis uzticams sertifikācijas pakalpojumu sniedzējs, kas veic uzņēmējdarbību trešā valstī.
