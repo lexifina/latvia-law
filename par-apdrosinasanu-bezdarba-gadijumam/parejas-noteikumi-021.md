@@ -1,0 +1,1 @@
+21. Personai, kura bezdarbnieka statusu ieguvusi līdz 2019. gada 31. decembrim, bezdarbnieka pabalstu piešķir, aprēķina un izmaksā saskaņā ar tiesību normām, kas ir spēkā līdz 2019. gada 31. decembrim. Tas ir attiecināms arī uz šā likuma 9. panta otrajā daļā minēto personu, kura bezdarbnieka statusu pirmreizēji ieguvusi līdz 2019. gada 31. decembrim.
