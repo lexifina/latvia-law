@@ -9,7 +9,7 @@
 7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
 8) (izslēgts ar 01.12.2009. likumu);
 9) (izslēgts ar 10.12.2009. likumu);
-10) (punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 40. punktu).
+10) maksātnespējas procesa administratorus - biedrība "Latvijas Sertificēto maksātnespējas procesa administratoru asociācija" un Maksātnespējas kontroles dienests daļā par sankciju piemērošanu.
 (1¹) Nacionālā kultūras mantojuma pārvalde uzrauga:
 1) darījumus ar Valsts kultūras pieminekļu sarakstā iekļautajiem valsts nozīmes kultūras pieminekļiem;
 2) personas, kas darbojas mākslas un antikvāro priekšmetu apritē, tos ievedot Latvijas Republikā vai izvedot no tās, glabājot vai tirgojot, tostarp tādas personas, kas šajā punktā paredzētās darbības veic antikvariātos, izsoļu namos vai ostās, ja darījuma vai vairāku šķietami saistītu darījumu kopējā summa ir vismaz 10 000 euro.

@@ -16,7 +16,7 @@ d) juridisko personu vai juridisku veidojumu dibināšanu, vadību vai darbības
 10) parāda atgūšanas pakalpojuma sniedzēji;
 11) virtuālās valūtas pakalpojuma sniedzēji;
 12) personas, kas darbojas mākslas un antikvāro priekšmetu apritē, tos ievedot Latvijas Republikā vai izvedot no tās, glabājot vai tirgojot, tostarp tādas personas, kas šajā punktā paredzētās darbības veic antikvariātos, izsoļu namos vai ostās, ja darījuma vai vairāku šķietami saistītu darījumu kopējā summa ir 10 000 euro vai lielāka;
-13) (punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 40. punktu).
+13) maksātnespējas procesa administratori.
 (1¹) Šā panta pirmajā daļā noteiktie likuma subjekti saglabā likuma subjekta statusu arī maksātnespējas vai likvidācijas procesa gaitā.
 (2) Likuma subjekti, kas ir kādas grupas sastāvā, īsteno grupas mēroga politiku un procedūras, tostarp fizisko personu datu apstrādes politiku, kā arī grupā noteikto informācijas apmaiņas politiku un procedūras noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas nolūkā. Minēto grupas mēroga politiku un procedūras dalībvalstīs un trešajās valstīs efektīvi īsteno arī filiāļu līmenī un to meitas uzņēmumu līmenī, kuros likuma subjektiem ir kapitāla daļu vairākums.
 (2¹) Likuma subjekti, kas ir kādas grupas sastāvā, grupas līmenī nodrošina, ka par atbilstību, auditu vai noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas funkciju izpildi atbildīgajām struktūrvienībām ir pieejama šo funkciju izpildei nepieciešamā informācija no filiālēm un meitas uzņēmumiem, tai skaitā informācija par klientiem, kontiem un maksājumiem.
