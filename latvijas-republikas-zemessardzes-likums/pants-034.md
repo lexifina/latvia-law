@@ -13,4 +13,4 @@
 (11) Šajā likumā noteiktās sociālās garantijas nodrošina no Aizsardzības ministrijai piešķirtajiem valsts budžeta līdzekļiem.
 (12) Šajā pantā noteiktā pabalstu izmaksas kārtība nav spēkā kara laikā.
 (13) Kārtību, kādā izmeklējami un uzskaitāmi nelaimes gadījumi, kuros, pildot dienestu Zemessardzē, cietuši zemessargi, nosaka Ministru kabinets.
-(14) (Daļa stājas spēkā 01.01.2020. un iekļauta likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 14. punktu)
+(14) Ja zemessargs sekmīgi piedalījies Zemessardzes uzdevumu pildīšanā un apmācību procesā vairāk par 30 dienām gadā, viņam kalendāra gada beigās var izmaksāt kompensāciju. Kompensācija nepārsniedz profesionālā dienesta karavīra mēneša algu atbilstoši zemessarga amatam noteiktajai dienesta pakāpei un zemessarga izdienai.
