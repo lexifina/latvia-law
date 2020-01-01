@@ -1,0 +1,1 @@
+24. Atlīdzības par darbspēju zaudējumu vai atlīdzības par apgādnieka zaudējumu saņēmējam, kuram līdz 2019. gada 31. decembrim piešķirta arī invaliditātes pensija, līdz minētajam datumam piešķirto atlīdzību un invaliditātes pensiju turpina izmaksāt līdz lēmumā par pakalpojuma piešķiršanu, pārrēķināšanu vai izmaksas termiņa pagarināšanu noteiktajam laikam.

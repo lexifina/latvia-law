@@ -1,0 +1,1 @@
+25. Ja apdrošinātajai personai līdz 2019. gada 31. decembrim saskaņā ar šā likuma 20. panta sesto daļu ir palielināts atlīdzības par darbspēju zaudējumu apmērs, palielināto atlīdzību turpina izmaksāt līdz dienai, kad personai tiek noteikta vieglāka invaliditātes grupa.

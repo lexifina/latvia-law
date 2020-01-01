@@ -1,0 +1,1 @@
+26. Grozījums par šā likuma 12. panta pirmās daļas izteikšanu jaunā redakcijā un grozījums 20. panta trešās daļas 2. punktā par vārdu "vai kad pirms šīs arodslimības konstatēšanas iestājusies pārejoša darba nespēja" izslēgšanu stājas spēkā 2021. gada 1. janvārī.

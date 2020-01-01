@@ -11,7 +11,7 @@
 4) līdz 50 procentiem - ja darbspēju zaudējums ir 25-49 procenti;
 5) (izslēgts ar 16.06.2009. likumu).
 (5) Ja apdrošinātā persona saņem atlīdzību par darbspēju zaudējumu un ar šo personu notiek atkārtots nelaimes gadījums darbā vai tiek konstatēta jauna arodslimība, šo atlīdzību pārrēķina atbilstoši no jauna noteiktajam darbspēju zaudējumam. Šādā gadījumā mēneša vidējā apdrošināšanas iemaksu alga ir vienāda ar to, kas šai personai tika noteikta, piešķirot iepriekšējo atlīdzību par darbspēju zaudējumu, izņemot gadījumu, kad mēneša vidējā apdrošināšanas iemaksu alga, ko aprēķina pēc atkārtota nelaimes gadījuma darbā vai saslimšanas ar arodslimību, ir lielāka par to, kas tika aprēķināta iepriekš. Šādā gadījumā jauno atlīdzību nosaka pēc lielākās mēneša vidējās apdrošināšanas iemaksu algas.
-(6) Ja apdrošinātā persona, kas saņem atlīdzību par darbspēju zaudējumu, saskaņā ar VDEĀVK atzinumu nevar sevi apkopt un tai ir nepieciešama otra cilvēka palīdzība, Valsts sociālās apdrošināšanas aģentūra ir tiesīgs palielināt šai personai piešķirto atlīdzību par darbspēju zaudējumu līdz 50 procentiem no atlīdzības, kas tai pienākas, vai arī algot šīs summas ietvaros sociālā dienesta darbinieku.
+(6) (Izslēgta ar 21.11.2019. likumu)
 (7) Atlīdzību par darbspēju zaudējumu ar nodokļiem neapliek, ja nodokļu likumos nav noteikts citādi.
 (8) (Izslēgta ar 24.09.1998. likumu)
 (9) Personai, kurai piešķirta izdienas pensija vai vecuma pensija, atlīdzību par darbspēju zaudējumu izmaksā šādi:
