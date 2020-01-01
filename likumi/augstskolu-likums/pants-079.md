@@ -1,5 +1,5 @@
-79.pants. Studējošo un studiju kreditēšana
-(1) Akreditētās studiju programmās studējošajiem ir tiesības pretendēt uz:
-1) studiju kredītu - aizdevumu no valsts budžeta vai kredītiestāžu līdzekļiem ar valsts galvojumu studējošajiem, lai segtu maksu par studijām;
-2) studējošo kredītu - aizdevumu no valsts budžeta vai kredītiestāžu līdzekļiem ar valsts galvojumu studējošo sociālo vajadzību nodrošināšanai.
-(2) Kārtību, kādā tiek piešķirts un atmaksāts studiju kredīts un studējošo kredīts no valsts budžeta līdzekļiem, kā arī studiju un studējošo kredīti no kredītiestāžu līdzekļiem ar valsts galvojumu, nosaka Ministru kabinets.
+79. pants. Studiju un studējošo kreditēšana
+(1) Akreditētās un licencētās studiju programmās studējošajiem ir tiesības pretendēt uz:
+1) studiju kredītu - aizdevumu no kredītiestāžu līdzekļiem, kas ir garantēts no valsts budžeta, Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem, lai segtu maksu par studijām;
+2) studējošo kredītu - aizdevumu no kredītiestāžu līdzekļiem, kas ir garantēts no valsts budžeta, Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem, lai nodrošinātu studējošo sociālās vajadzības.
+(2) Kārtību, kādā tiek piešķirti un atmaksāti studiju un studējošo kredīti no kredītiestāžu līdzekļiem, kas ir garantēti no valsts budžeta, Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem, nosaka Ministru kabinets.

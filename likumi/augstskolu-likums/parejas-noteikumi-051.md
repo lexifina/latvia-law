@@ -1,0 +1,1 @@
+51. Studiju un studējošo kredīta līgumi, kas noslēgti, pamatojoties uz šā likuma 79. un 82. panta noteikumiem redakcijā, kas bija spēkā līdz 2019. gada 31. decembrim, ir spēkā līdz attiecīgajā studiju vai studējošā kredīta līgumā noteiktā termiņa beigām.
