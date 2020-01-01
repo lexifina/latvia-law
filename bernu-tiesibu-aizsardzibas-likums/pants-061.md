@@ -6,4 +6,4 @@ Ministru kabinets:
 4) apstiprina valsts programmu sociālo pedagogu un sociālo darbinieku sagatavošanā;
 5) apstiprina programmu bērnu noziedzības novēršanai un bērna aizsardzībai pret noziegumu;
 6) nosaka kārtību, kādā Latvijas centrālā iestāde atbilstoši 1980.gada 25.oktobra Hāgas konvencijai par starptautiskās bērnu nolaupīšanas civiltiesiskajiem aspektiem veic tajā minētās darbības un sadarbojas ar citām valsts un pašvaldības iestādēm;
-7) nosaka kārtību, kādā aprēķina, piešķir un izlieto valsts budžetā paredzētos līdzekļus pašvaldībām pamatizglītības iestādes skolēnu ēdināšanai, un šo valsts budžeta līdzekļu izlietošanas apmēru vienam skolēnam dienā.
+7) (izslēgts ar 13.11.2019. likumu).
