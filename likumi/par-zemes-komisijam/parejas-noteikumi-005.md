@@ -1,0 +1,1 @@
+5. Centrālā zemes komisija darbību izbeidz 2021. gada 30. jūnijā. Centrālā zemes komisija savu arhīva dokumentāciju, kas saistīta ar zemes reformu, sakārto atbilstoši normatīvo aktu prasībām dokumentu pārvaldības un arhīvu jomā un līdz 2021. gada 1. jūnijam nodod Valsts zemes dienestam.

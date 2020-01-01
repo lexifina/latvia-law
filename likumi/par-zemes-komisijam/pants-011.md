@@ -1,2 +1,2 @@
 11. Pagastu un pilsētu zemes komisijas izbeidz savu darbību divu mēnešu laikā pēc tam, kad tiek izsludināta zemes reformas pabeigšana attiecīgajā pašvaldības teritorijā vai visā valstī. Pagastu un pilsētu zemes komisijām šajā termiņā savi arhīvi jānodod Valsts zemes dienesta attiecīgā rajona nodaļai. Dokumentācijai jābūt sakārtotai atbilstoši arhīvu noteikumiem.
-Centrālā zemes komisija savu darbību izbeidz saskaņā ar attiecīgu Saeimas lēmumu.
+(Otrā daļa izslēgta ar 14.11.2019. likumu)
