@@ -16,4 +16,6 @@
 15) Padomes 2016. gada 25. maija direktīvas (ES) 2016/856, ar ko direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu groza attiecībā uz minimālās pamatlikmes ievērošanas pienākuma ilgumu;
 16) Padomes 2016. gada 27. jūnija direktīvas (ES) 2016/1065, ar ko attiecībā uz vaučeriem piemērojamo režīmu groza direktīvu 2006/112/EK;
 17) Padomes 2017. gada 5. decembra direktīvas (ES) 2017/2455, ar ko groza direktīvu 2006/112/EK un direktīvu 2009/132/EK attiecībā uz konkrētām pievienotās vērtības nodokļa saistībām pakalpojumu sniegšanā un preču tālpārdošanā;
-18) Padomes 2018. gada 22. jūnija direktīvas (ES) 2018/912, ar ko attiecībā uz minimālās pamatlikmes ievērošanas pienākumu groza direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu.
+18) Padomes 2018. gada 22. jūnija direktīvas (ES) 2018/912, ar ko attiecībā uz minimālās pamatlikmes ievērošanas pienākumu groza direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu;
+19) Padomes 2018. gada 4. decembra direktīvas (ES) 2018/1910, ar ko groza direktīvu 2006/112/EK attiecībā uz atsevišķu pievienotās vērtības nodokļa sistēmas noteikumu saskaņošanu un vienkāršošanu tirdzniecībā starp dalībvalstīm;
+20) Padomes 2019. gada 18. februāra direktīvas (ES) 2019/475, ar ko groza direktīvas 2006/112/EK un 2008/118/EK attiecībā uz Itālijas pašvaldības Campione d'Italia un Lugāno ezera Itālijas ūdeņu iekļaušanu Savienības muitas teritorijā un direktīvas 2008/118/EK teritoriālajā piemērošanā.

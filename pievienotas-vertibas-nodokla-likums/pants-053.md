@@ -1,6 +1,6 @@
 53.pants. Ar nodokli neapliekamais preču imports
 (1) Ar nodokli neapliek šā likuma 52.panta pirmajā daļā minēto preču importu.
-(2) Ar nodokli neapliek gāzes importu, kas transportēta, izmantojot dabasgāzes sistēmu vai tīklus, kuri pieslēgti šai sistēmai, vai gāzes transportkuģus, un ko iesūknē kādā dabasgāzes sistēmā vai maģistrālo cauruļvadu tīklā, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas importam pa siltumapgādes vai dzesēšanas tīkliem.
+(2) Ar nodokli neapliek gāzes importu, kas transportēta, izmantojot dabasgāzes sistēmu vai tīklus, kuri pieslēgti šai sistēmai, vai gāzes transportkuģus, un ko iesūknē kādā dabasgāzes sistēmā vai maģistrālo cauruļvadu tīklā, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas importu pa siltumapgādes vai dzesēšanas tīkliem.
 (3) Ar nodokli neapliek preču importu, kas netiek aplikts ar muitas nodokli saskaņā ar Padomes 2009.gada 16.novembra regulu (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), izņemot šīs regulas 23.pantā minētos preču sūtījumus.
 (4) Ar nodokli neapliek preču sūtījumus, kas minēti Padomes 2009.gada 16.novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), 23.pantā, ja sūtījuma vērtība nepārsniedz 22 euro.
 (5) Ar nodokli neapliek preču importu komerciālā nolūkā, ja to kopējā vērtība nepārsniedz 22 euro.

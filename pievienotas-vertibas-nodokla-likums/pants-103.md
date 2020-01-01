@@ -1,7 +1,7 @@
 103.pants. Priekšnodokļa korekcija par ieguldījumiem komercsabiedrības kapitālā, kā arī uzņēmuma pārejas un reorganizācijas gadījumā
 (1) Par mantiskiem ieguldījumiem (tai skaitā pamatlīdzekļa, nekustamā īpašuma ieguldījumiem) komercsabiedrības kapitālā apmaiņā pret vērtspapīru un kapitāla daļu apliecībām veicama priekšnodokļa korekcija, ja šajā pantā nav noteikts citādi.
 (2) Ja reģistrēts nodokļa maksātājs veic mantisko ieguldījumu (tai skaitā iegulda pamatlīdzekli, izņemot nekustamo īpašumu) citas personas pamatkapitālā un mantisko ieguldījumu nav paredzēts izmantot ar nodokli apliekamiem darījumiem vai arī mantisko ieguldījumu iegulda nereģistrēta nodokļa maksātāja pamatkapitālā, valsts budžetā atmaksājama atskaitītā priekšnodokļa daļa, kuru aprēķina šādi:
-1) pamatlīdzekļiem - no pamatlīdzekļa atlikušās (neamortizētās) vērtības, kas uzskaitīta reģistrēta nodokļa maksātāja finanšu grāmatvedībā;
+1) pamatlīdzekļiem un nemateriālajiem ieguldījumiem - no pamatlīdzekļa vai nemateriālā ieguldījuma atlikušās (neamortizētās) vērtības, kas uzskaitīta reģistrēta nodokļa maksātāja finanšu grāmatvedībā;
 2) citam mantiskajam ieguldījumam - atskaitītā priekšnodokļa daļa par precēm, kas tika iegādātas savu ar nodokli apliekamo darījumu nodrošināšanai.
 (2¹) Reģistrēts nodokļa maksātājs neatmaksā valsts budžetā atskaitītā priekšnodokļa daļu šā panta otrajā daļā noteiktajā kārtībā, ja tas veic mantisko ieguldījumu (tai skaitā ieguldot pamatlīdzekli, izņemot nekustamo īpašumu) šādas komercsabiedrības kapitālā:
 1) jaundibinātās komercsabiedrības kapitālā, kura 30 dienu laikā pēc reģistrācijas komercreģistra iestādē reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;

@@ -4,7 +4,10 @@
 (3) (Izslēgta ar 12.06.2014. likumu)
 (4) Fiskālais pārstāvis nodokļa deklarāciju un tās pielikumus šā panta pirmajā daļā noteiktajā termiņā iesniedz Valsts ieņēmumu dienestam, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu.
 (5) Reģistrēts nodokļa maksātājs iesniedz Valsts ieņēmumu dienestam deklarāciju par taksācijas gadu līdz nākamā taksācijas gada 1.maijam.
-(6) Reģistrēts nodokļa maksātājs, kas veic preču piegādi Eiropas Savienības teritorijā vai citas dalībvalsts nodokļa maksātājam citā dalībvalstī, sniedz ar nodokli apliekamus pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu, iesniedz Valsts ieņēmumu dienestam pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā par katru kalendāra mēnesi šā panta pirmajā vai otrajā daļā noteiktajā termiņā.
+(6) Reģistrēts nodokļa maksātājs iesniedz Valsts ieņēmumu dienestam pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā par katru kalendāra mēnesi šā panta pirmajā daļā noteiktajā termiņā, ja tas:
+1) veic preču piegādi Eiropas Savienības teritorijā vai citas dalībvalsts nodokļa maksātājam citā dalībvalstī;
+2) sniedz ar nodokli apliekamus pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19. panta pirmo daļu;
+3) veic preču piegādi uz noliktavu citā dalībvalstī saskaņā ar šā likuma 8.¹ pantu.
 (7) Ja nodokļa deklarācijas iesniegšanas termiņš ir brīvdiena vai svētku diena, deklarācijas iesniegšanas termiņa pēdējā diena ir nākamā darbdiena.
 (8) Valsts ieņēmumu dienests ir tiesīgs pieprasīt, lai reģistrēts nodokļa maksātājs iesniedz nodokļa deklarāciju arī citā laikā, taču ne biežāk kā reizi kalendāra mēnesī.
 (9) Persona, kura ir izslēgta no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, 20 dienu laikā pēc izslēgšanas iesniedz Valsts ieņēmumu dienestam nodokļa deklarāciju un tās pielikumus par taksācijas periodu, kurā šī persona ir izslēgta no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra.

@@ -20,3 +20,4 @@
 (6) Metāllūžņu saņēmējs samaksā metāllūžņu piegādātājam nodokļa rēķinā norādīto metāllūžņu vērtību.
 (7) Ar metāllūžņu piegādi saistīta pakalpojuma sniedzējs izraksta pakalpojuma saņēmējam nodokļa rēķinu, kurā sniegtā pakalpojuma vērtību norāda bez nodokļa.
 (8) Ar metāllūžņu piegādi saistīta pakalpojuma saņēmējs samaksā pakalpojuma sniedzējam nodokļa rēķinā norādīto pakalpojuma vērtību.
+(9) Metāllūžņu saņēmējs par saņemtajām precēm un ar metāllūžņu piegādi saistīta pakalpojuma saņēmējs par saņemto pakalpojumu maksā, izmantojot bezskaidras naudas norēķinus.

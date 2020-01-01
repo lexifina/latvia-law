@@ -18,3 +18,4 @@
 (6) Kokmateriālu saņēmējs samaksā kokmateriālu piegādātājam nodokļa rēķinā norādīto kokmateriālu vērtību.
 (7) Ar kokmateriālu piegādi saistīta pakalpojuma sniedzējs izraksta pakalpojuma saņēmējam nodokļa rēķinu, kurā sniegtā pakalpojuma vērtību norāda bez nodokļa.
 (8) Ar kokmateriālu piegādi saistīta pakalpojuma saņēmējs samaksā pakalpojuma sniedzējam nodokļa rēķinā norādīto pakalpojuma vērtību.
+(9) Kokmateriālu saņēmējs par saņemtajām precēm un ar kokmateriālu piegādi saistīta pakalpojuma saņēmējs par saņemto pakalpojumu maksā, izmantojot bezskaidras naudas norēķinus.

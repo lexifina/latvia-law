@@ -59,8 +59,8 @@ b) elektroenerģiju, gāzi, siltumenerģiju, apkuri, ūdeni, tvaiku un dzesēša
 a) precēm - summa, kas nav mazāka par attiecīgo preču vai līdzīgu preču pirkuma cenu, vai, ja pirkuma cenas nav, pašizmaksa, ko nosaka piegādes laikā,
 b) pakalpojumiem - summa, kas nav mazāka par visām izmaksām, ko radījusi pakalpojuma sniegšana;
 28) trešās teritorijas:
-a) šādas Eiropas Savienības teritorijas, kas ir Eiropas Savienības muitas teritorijas daļas, - Atosa kalns, Kanāriju salas, Francijas teritorijas, kas minētas Līguma par Eiropas Savienības darbību 349.pantā un 355.panta 1.punktā, Ālandu salas, Normandijas salas,
-b) šādas Eiropas Savienības teritorijas, kas nav Eiropas Savienības muitas teritorijas daļas, - Helgolandes sala, Bizingenas teritorija, Seūta, Melilja, Livinjo, Kampjone Itālijā (Campione d'Italia), Lugāno ezera Itālijas ūdeņi;
+a) šādas Eiropas Savienības teritorijas, kas ir Eiropas Savienības muitas teritorijas daļas, - Atosa kalns, Kanāriju salas, Francijas teritorijas, kas minētas Līguma par Eiropas Savienības darbību 349. pantā un 355. panta 1. punktā, Ālandu salas, Normandijas salas, Kampjone Itālijā (Campione d'Italia), Lugāno ezera Itālijas ūdeņi,
+b) šādas Eiropas Savienības teritorijas, kas nav Eiropas Savienības muitas teritorijas daļas, - Helgolandes sala, Bizingenas teritorija, Seūta, Melilja, Livinjo;
 29) trešās valstis - tādas valstis vai teritorijas, kurām nepiemēro Līgumu par Eiropas Savienību un Līgumu par Eiropas Savienības darbību;
 30) elektronisko sakaru pakalpojumi - Padomes 2011.gada 15.marta Īstenošanas regulas (ES) Nr. 282/2011, ar ko nosaka īstenošanas pasākumus direktīvai 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu (pārstrādātā versija), 6.a pantā (Padomes 2013.gada 7.oktobra Īstenošanas regulas (ES) Nr. 1042/2013, ar ko groza Īstenošanas regulu (ES) Nr. 282/2011 attiecībā uz pakalpojumu sniegšanas vietu, redakcijā) minētie pakalpojumi;
 31) vairāku mērķu vaučers - vaučers, kura izdošanas brīdī nav zināma neviena no šajā likumā noteiktajām viena mērķa vaučera pazīmēm;

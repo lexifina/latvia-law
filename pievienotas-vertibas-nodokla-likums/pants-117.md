@@ -9,7 +9,10 @@
 3) ja ir veikti šā likuma 38.panta otrajā un trešajā daļā minētie darījumi;
 4) ja atkārtoti lietojamam iepakojumam piemēro depozīta sistēmu saskaņā ar normatīvajiem aktiem iepakojuma jomā.
 (6) Šā panta piektajā daļā minētajos gadījumos nodokļa gada deklarāciju iesniedz arī tad, ja reģistrēts nodokļa maksātājs ir darbojies nepilnu gadu.
-(7) Reģistrēts nodokļa maksātājs pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā iesniedz tikai tad, ja tas ir veicis preču piegādes Eiropas Savienības teritorijā vai citas dalībvalsts nodokļa maksātājam citā dalībvalstī sniedz ar nodokli apliekamus pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu.
+(7) Reģistrēts nodokļa maksātājs pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā iesniedz, ja izpildīts kaut viens no šiem nosacījumiem:
+1) veikta preču piegāde Eiropas Savienības teritorijā;
+2) citas dalībvalsts nodokļa maksātājam citā dalībvalstī sniegts ar nodokli apliekams pakalpojums, kura sniegšanas vietu nosaka saskaņā ar šā likuma 19. panta pirmo daļu;
+3) veikta preču piegāde uz noliktavu citā dalībvalstī saskaņā ar šā likuma 8.¹ pantu.
 (8) Nereģistrēts nodokļa maksātājs, kā arī persona, kura nav nodokļa maksātājs, informē Valsts ieņēmumu dienestu par nodokļa samaksu valsts budžetā (tai skaitā par jauna transportlīdzekļa iegādi no citas dalībvalsts jebkuras personas, par zaudētajiem parādiem), iesniedzot paziņojumu par nodokļa samaksu.
 (9) Veidlapas paraugu šā panta astotajā daļā minētajam paziņojumam par nodokļa samaksu un šā paziņojuma aizpildīšanas kārtību nosaka Ministru kabinets.
 (10) Tiesu izpildītājs par valsts budžetā iemaksāto nodokli no mantas pārdošanas tiesu izpildītāja rīkotā izsolē informē Valsts ieņēmumu dienestu, iesniedzot šā panta astotajā daļā minēto paziņojumu.

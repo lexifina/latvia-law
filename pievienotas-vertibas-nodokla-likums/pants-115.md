@@ -3,7 +3,8 @@
 1) reģistrēta nodokļa maksātāja veikto ar nodokli apliekamo darījumu vērtība pirmstaksācijas gadā vai taksācijas gadā pārsniedz 40 000 euro;
 2) reģistrēts nodokļa maksātājs veic preču piegādi Eiropas Savienības teritorijā, kurai piemēro 0 procentu likmi saskaņā ar šā likuma 43.panta ceturto daļu;
 3) reģistrēts nodokļa maksātājs veic preču piegādi Eiropas Savienības teritorijā, piedaloties šā likuma 16.panta ceturtajā daļā minētajā preču piegādē;
-4) reģistrēts nodokļa maksātājs sniedz pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu un kuru sniegšanas vieta ir cita dalībvalsts.
+4) reģistrēts nodokļa maksātājs sniedz pakalpojumus, kuru sniegšanas vietu nosaka saskaņā ar šā likuma 19.panta pirmo daļu un kuru sniegšanas vieta ir cita dalībvalsts;
+5) reģistrēts nodokļa maksātājs veic preču piegādi uz noliktavu citā dalībvalstī saskaņā ar šā likuma 8.¹ pantu.
 (2) Nodokļa taksācijas periods ir viens kalendāra mēnesis, un šāds nodokļa taksācijas periods tiek saglabāts sešus kalendāra mēnešus, ja reģistrēts nodokļa maksātājs taksācijas gadā ir reģistrēts Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.
 (3) Nodokļa taksācijas periods ir viens ceturksnis reģistrētam nodokļa maksātājam, kurš neatbilst šā panta pirmajā vai otrajā daļā minētajiem nosacījumiem.
 (4) Ja pirmstaksācijas gada laikā veikto darījumu apjoms ir mainījies, nodokļa taksācijas periodu maina taksācijas gada sākumā, izņemot šā panta piektajā daļā noteiktos gadījumus.

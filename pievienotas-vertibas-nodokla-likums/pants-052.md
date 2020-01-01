@@ -5,7 +5,7 @@ a) tādu vēstuļu korespondences sūtījumu savākšanu, šķirošanu, pārvad�
 b) tādu pasta paku savākšanu, šķirošanu, pārvadāšanu un piegādi, kuru svars nepārsniedz 10 kilogramus;
 2) pasta apmaksas zīmes, ko laiž apgrozībā un piegādā saskaņā ar Pasta likumu;
 3) šādus medicīnas pakalpojumus:
-a) medicīnas pakalpojumus, ko nosaka Ministru kabinets un ko ārstniecības iestāde sniedz pacientam, izmantojot normatīvajos aktos noteiktajā kārtībā apstiprinātās medicīniskās tehnoloģijas (izņemot tiesmedicīnisko ekspertīzi krimināllietās vai civillietās, invaliditātes ekspertīzi, ko veic Veselības un darbspēju ekspertīzes ārstu valsts komisija un tās struktūrvienības, atzinumu sniegšanu par medicīniskās aprūpes kvalitāti un darbspējas ekspertīzi ārstniecības iestādēs, militārpersonu veselības stāvokļa novērtēšanu izdienas pensijas piešķiršanai, kā arī kosmētiskās operācijas un kosmetologu pakalpojumus bez medicīniskām indikācijām un solāriju pakalpojumus),
+a) medicīnas pakalpojumus, ko nosaka Ministru kabinets un ko ārstniecības iestāde sniedz, izmantojot normatīvajos aktos noteiktajā kārtībā apstiprinātās medicīniskās tehnoloģijas (izņemot tiesmedicīnisko ekspertīzi krimināllietās vai civillietās, invaliditātes ekspertīzi, ko veic Veselības un darbspēju ekspertīzes ārstu valsts komisija un tās struktūrvienības, atzinumu sniegšanu par medicīniskās aprūpes kvalitāti un darbspējas ekspertīzi ārstniecības iestādēs, militārpersonu veselības stāvokļa novērtēšanu izdienas pensijas piešķiršanai, kā arī kosmētiskās operācijas un kosmetologu pakalpojumus bez medicīniskām indikācijām un solāriju pakalpojumus),
 b) obligātās veselības pārbaudes, kas nepieciešamas, stājoties darbā, un veselības pārbaudes, kas nepieciešamas veselībai kaitīgo darba vides faktoru un īpašo darba apstākļu dēļ, kā arī veselības pārbaudes, kas nepieciešamas personai kādu citā normatīvajā aktā piešķirto tiesību vai noteikto pienākumu īstenošanai;
 4) šādus ar medicīnu saistītos pakalpojumus, kas nepieciešami, lai nodrošinātu šīs daļas 3.punktā noteikto medicīnas pakalpojumu sniegšanu:
 a) pacienta transportēšanu ar transportlīdzekli, kas speciāli aprīkots ar medicīniskām ierīcēm, kuru paraugi reģistrēti normatīvajos aktos noteiktajā kārtībā,
@@ -15,7 +15,7 @@ d) ārstniecības iestāžu atbilstības novērtēšanu obligātajām prasībām
 e) klīniski diagnostiskos laboratorijas pakalpojumus, ko nodrošina citās ārstniecības iestādēs;
 5) cilvēka orgānu, mātes piena un cilvēka asiņu (tai skaitā asins plazmas un asins šūnu) piegādes;
 6) zobārstniecības pakalpojumus;
-7) zobu tehniķu un zobu higiēnistu sniegtos pakalpojumus pacientam;
+7) zobu tehniķu un zobu higiēnistu sniegtos pakalpojumus, kā arī zobārstu un zobu tehniķu piegādātās zobu protēzes;
 8) (izslēgts ar 20.04.2017. likumu);
 9) sociālās aprūpes, profesionālās un sociālās rehabilitācijas, sociālās palīdzības un sociālā darba pakalpojumus, ko iedzīvotājiem sniedz personas, kuras reģistrētas sociālo pakalpojumu sniedzēju reģistrā, kā arī ēdināšanas pakalpojumus, kurus sociālo pakalpojumu sniedzējs sniedz saskaņā ar savām programmām;
 10) preču piegādes un pakalpojumu sniegšanu bērnu un jauniešu tiesību aizsardzības mērķiem, ko veic sabiedriskā labuma organizācijas;
@@ -53,11 +53,12 @@ b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu).
 (3³) (Izslēgta ar 30.05.2019. likumu)
 (3⁴) (Izslēgta ar 30.05.2019. likumu)
 (4) Ministru kabinets nosaka kārtību, kādā atbrīvojums no nodokļa piemērojams šādām preču piegādēm un pakalpojumiem:
-1) zobārstniecības pakalpojumiem;
+1) (izslēgts ar 28.11.2019. likumu);
 2) valsts atzītu izglītības iestāžu pakalpojumiem vispārējās izglītības, profesionālās izglītības, augstākās izglītības un interešu izglītības jomā, kā arī ar šiem izglītības pakalpojumiem cieši saistītu pakalpojumu sniegšanai un preču piegādei, ko veic minētās izglītības iestādes;
 3) izglītības pakalpojumiem, ko sniedz pedagogi, pasniedzot privātstundas vispārējās izglītības, profesionālās izglītības un augstākās izglītības mācību programmu ietvaros;
 4) kultūras pakalpojumiem;
 5) finanšu darījumiem;
 6) azartspēlēm, izlozēm un loterijām;
 7) nekustamā īpašuma piegādei;
-8) iedzīvotājiem sniegto dzīvojamo telpu īres pakalpojumiem.
+8) iedzīvotājiem sniegto dzīvojamo telpu īres pakalpojumiem;
+9) medicīnas pakalpojumiem.
