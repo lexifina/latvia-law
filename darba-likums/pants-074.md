@@ -9,7 +9,7 @@
 7) piedalās tādu nepārvaramas varas, nejauša notikuma vai citu ārkārtējo apstākļu izraisītu seku novēršanā, kuras apdraud vai var apdraudēt sabiedrisko drošību vai kārtību;
 8) neveic darbu svētku dienā, kas iekrīt darbiniekam noteiktajā darba dienā;
 9) (izslēgts ar 04.03.2010. likumu);
-10) (punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 17. punktu)
+10) ne ilgāk kā piecas darba dienas pēc kārtas kalendāra gada laikā neveic darbu sakarā ar zemessargu kolektīvo apmācību.
 (2) Darbinieka saistība uzskatāma par izpildītu un darba devējam ir pienākums izmaksāt šā panta trešajā daļā noteikto atlīdzību arī tad, ja darba devējs darbinieku nenodarbina vai arī neveic darbinieka saistības izpildījuma pieņemšanai nepieciešamās darbības (dīkstāve). Par dīkstāvi, kas radusies darbinieka vainas dēļ, viņš šo atlīdzību nesaņem.
 (3) Ja darbiniekam ir noteikta laika alga, šā panta pirmajā un otrajā daļā minētajos gadījumos viņam izmaksā noteikto darba samaksu. Ja darbiniekam ir noteikta akorda alga, šā panta pirmajā un otrajā daļā minētajos gadījumos viņam izmaksā vidējo izpeļņu.
 (4) Šā panta pirmās daļas 6. un 7.punktā noteiktajos gadījumos darbiniekam šā panta trešajā daļā noteikto atlīdzību izmaksā darba devējs, kuram to atlīdzina attiecīgā valsts institūcija. Kārtību, kādā valsts institūcija darba devējam atlīdzina darbiniekam izmaksājamo atlīdzību, nosaka Ministru kabinets.
