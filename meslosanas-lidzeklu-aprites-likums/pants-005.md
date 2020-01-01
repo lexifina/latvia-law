@@ -10,6 +10,6 @@
 (7) Darbību veicējs, kas pārdod mēslošanas līdzekli, kurā amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas, papildus prasībām, kas noteiktas normatīvajos aktos par grāmatvedības kārtošanu un organizāciju, grāmatvedības reģistrā norāda:
 1) amonija nitrātu saturoša mēslošanas līdzekļa nosaukumu un pamatsastāvu;
 2) Valsts ieņēmumu dienesta nodokļu maksātāja reģistrācijas numuru (juridiskajai personai) vai personas kodu (fiziskajai personai).
-(8) (Daļa stājas spēkā 01.01.2020. un iekļauta likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 15. punktu)
-(9) (Daļa stājas spēkā 01.01.2020. un iekļauta likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 15. punktu)
-(10) (Daļa stājas spēkā 01.01.2020. un iekļauta likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 15. punktu)
+(8) Darbību veicējs pirms kālija nitrāta, nātrija nitrāta, kalcija nitrāta un kalcija amonija nitrāta, kā arī tāda mēslošanas līdzekļa laišanas tirdzniecībā, kurā amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas, iesniedz dienestam tirdzniecības vietu sarakstu, norādot tirdzniecības vietas faktisko adresi. Ja darbību veicējs maina tirdzniecības vietu, tas nekavējoties informē dienestu par jaunās tirdzniecības vietas faktisko adresi.
+(9) Darbību veicējs katru gadu līdz 31. janvārim iesniedz dienestam informāciju par apjomu, kādā iepriekšējā gadā pārdots kālija nitrāts, nātrija nitrāts, kalcija nitrāts, kalcija amonija nitrāts un mēslošanas līdzeklis, kurā amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas.
+(10) Darbību veicējs dokumentus par pārdoto kālija nitrātu, nātrija nitrātu, kalcija nitrātu, kalcija amonija nitrātu un mēslošanas līdzekli, kurā amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas, glabā piecus gadus.

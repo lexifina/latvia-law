@@ -11,6 +11,6 @@
 3) mēslošanas līdzekļu kvalitātes atbilstības novērtēšanas kārtību, veicot uzraudzību un kontroli (4.panta pirmās daļas 1.punkta "g" apakšpunkts);
 4) mēslošanas līdzekļu kontroles paraugu ņemšanu, kā arī paraugu ņemšanas un sagatavošanas kārtību (4.panta pirmās daļas 2.punkts);
 5) neatbilstības gadījumu paziņošanu Eiropas Komisijai (4.panta otrā daļa);
-6) darbību veicēja pienākumiem (5.panta pirmā, otrā, trešā, ceturtā, sestā un septītā daļa);
+6) darbību veicēja pienākumiem (5.panta pirmā, otrā, trešā, ceturtā, sestā, septītā, astotā, devītā un desmitā daļa);
 7) rīcību ar nekvalitatīviem mēslošanas līdzekļiem (7.pants);
 8) valsts uzraudzības un kontroles izdevumu segšanu (14.pants).
