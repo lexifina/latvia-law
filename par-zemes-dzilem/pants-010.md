@@ -1,7 +1,7 @@
 10.pants. Zemes dzīļu izmantošanas kārtība
 (1) Uzsākt zemes dzīļu izmantošanu drīkst tikai tad, ja Ministru kabineta noteiktajā kārtībā (izņemot šā likuma 11.pantā minētos gadījumus) saņemta:
 1) vietējās pašvaldības izsniegta atļauja - šā likuma 4.panta piektajā daļā noteiktajos gadījumos;
-2) Ekonomikas ministrijas izsniegta licence - šā likuma 4.panta ceturtajā daļā noteiktajos gadījumos;
+2) Būvniecības valsts kontroles biroja izsniegta licence - šā likuma 4.panta ceturtajā daļā noteiktajos gadījumos;
 3) Valsts vides dienesta izsniegta licence:
 a) gadījumā, kad bieži sastopamo derīgo izrakteņu atradne ietilpst vairāku pašvaldību administratīvajā teritorijā,
 b) gadījumā, kad derīgo izrakteņu atradnē papildus bieži sastopamajiem derīgajiem izrakteņiem ir akceptēti citu derīgo izrakteņu krājumi,

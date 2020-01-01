@@ -1,0 +1,1 @@
+25. Ministru kabinets līdz 2020. gada 31. decembrim izdod šā likuma 4. panta ceturtajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2015. gada 22. decembra noteikumi Nr. 805 "Noteikumi par ogļūdeņražu meklēšanu, izpēti un ieguvi", ciktāl tie nav pretrunā ar šo likumu.
