@@ -1,5 +1,5 @@
 3. pants. Fonds
 (1) Fonds ir valsts budžetā paredzētais līdzekļu kopums. Ar Fonda līdzekļiem tiek nodrošināti bērni līdz pilngadības sasniegšanai, kā arī personas pēc pilngadības sasniegšanas, ja tās turpina iegūt pamatizglītību, vidējo izglītību, arodizglītību vai speciālo izglītību Latvijas Republikā, bet ne ilgāk kā līdz 21 gada vecuma sasniegšanai, jebkurā no šādiem gadījumiem:
-1) vecāks nenodrošina savam bērnam minimālo uzturlīdzekļu apmēru, kādu, pamatojoties uz Civillikuma 179. panta piekto daļu, noteicis Ministru kabinets, un nepastāv kāds no šā likuma 11. panta piektajā daļā minētajiem apstākļiem;
+1) vecāks nenodrošina bērnam uzturlīdzekļus vismaz šā likuma 13. panta 2.² daļā noteiktajā apmērā un nepastāv kāds no šā likuma 11. panta piektajā daļā minētajiem apstākļiem;
 2) parādnieks nepilda tiesas nolēmumu par uzturlīdzekļu piedziņu vai vienošanos par uzturlīdzekļiem un no zvērināta tiesu izpildītāja saņemtas ziņas, ka parādnieks nav paziņojumā par pienākumu izpildīt nolēmumu noteiktajā termiņā ieskaitījis zvērināta tiesu izpildītāja depozīta kontā paziņojumā norādīto summu.
 (2) Fonda līdzekļu turētājs ir Uzturlīdzekļu garantiju fonda administrācija (turpmāk - Fonda administrācija). Fonda administrācija ir Tieslietu ministrijas pakļautībā esoša tiešās pārvaldes iestāde.
