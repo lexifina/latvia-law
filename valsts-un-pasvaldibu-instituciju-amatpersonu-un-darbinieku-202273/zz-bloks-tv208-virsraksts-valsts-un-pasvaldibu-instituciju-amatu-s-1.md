@@ -169,8 +169,7 @@ Starpnozaru koordinācija, kā arī noteiktas funkcijas veikšana vairākās noz
 53. Tiesas un prokuratūra
 53.1. Tiesu darbinieki
 Šajā apakšsaimē ietilpst amati, kuru pildītāji nodrošina rajonu (pilsētu) tiesu, apgabaltiesu un Augstākās tiesas darbību (lietvedību) un sniedz konsultatīvu atbalstu tiesnešiem.
-53.2. Satversmes tiesas darbinieki
-Šajā apakšsaimē ietilpst amati, kuru pildītāji nodrošina Satversmes tiesas darbību (lietvedību) un sniedz konsultatīvu atbalstu Satversmes tiesas tiesnešiem.
+53.2. (Izslēgts ar 14.11.2019. likumu)
 53.3. Prokuratūras darbinieki (prokuroru palīgi)
 Šajā apakšsaimē ietilpst amati, kuru pildītāji virsprokurora un prokurora uzdevumā nodrošina lēmumu izpildei nepieciešamās procesuālās darbības, kā arī veic citus prokurora deleģētos uzdevumus, kuru izpildei nav nepieciešamas prokurora pilnvaras.
 54. Valsts dibinātu augstskolu vadība

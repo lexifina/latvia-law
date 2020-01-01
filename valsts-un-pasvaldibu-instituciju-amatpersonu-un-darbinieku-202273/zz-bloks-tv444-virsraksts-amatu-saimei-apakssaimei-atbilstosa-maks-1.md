@@ -218,7 +218,7 @@ Maksimālā mēnešalgu grupa
 46
 10
 73.
-(rinda izslēgta ar 13.12.2012. likumu)
+(Izslēgta ar 13.12.2012. likumu)
 74.
 48
 10
@@ -238,8 +238,7 @@ Maksimālā mēnešalgu grupa
 53.1
 14
 80.
-53.2
-14
+(Izslēgta ar 14.11.2019. likumu)
 81.
 53.3
 8
