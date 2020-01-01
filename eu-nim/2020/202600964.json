@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2019. gada 25. jūnija noteikumi Nr. 280 Noteikumi par Latvijas būvnormatīvu LBN 002-19 “Ēku norobežojošo konstrukciju siltumtehnika”",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2019/135.2",
+  "official_journal_page": null,
+  "official_journal_date": "2019-07-05",
+  "entry_into_force": "2020-01-01",
+  "notification_date": "2026-02-05",
+  "commission_reference": "MNE(2026)00964",
+  "nim_celex": "72023L1791LVA_202600964",
+  "nim_id": "202600964",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba7db863-a3c0-4be8-a42b-453b54aa8a9c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
