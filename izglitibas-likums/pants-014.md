@@ -4,7 +4,7 @@ Ministru kabinets:
 1¹) nosaka Latvijas kvalifikāciju ietvarstruktūras līmeņiem atbilstošus zināšanu, prasmju un kompetenču aprakstus;
 2) (izslēgts ar 05.07.2001. likumu);
 3) nosaka kārtību, kādā valsts finansē pamatizglītības un vidējās izglītības programmas, kuras īsteno privātās izglītības iestādes;
-4) nosaka kredīta saņemšanas, atmaksāšanas un dzēšanas kārtību un kredīta apmēru studijām izglītības iestāžu īstenotajās augstākās izglītības programmās;
+4) nosaka kredīta saņemšanas, atmaksāšanas un dzēšanas kārtību augstākās izglītības programmās;
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
@@ -32,7 +32,7 @@ Ministru kabinets:
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
-24¹) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2020. Sk. Pārejas noteikumu 78. punktu);
+24¹) (punkts stājas spēkā 01.09.2021. un iekļauts likuma redakcijā uz 01.09.2021. Sk. Pārejas noteikumu 78. punktu);
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
@@ -51,4 +51,5 @@ Ministru kabinets:
 40) nosaka kārtību, kādā piešķir valsts sociālo atbalstu tiem vispārējās pamatizglītības un vispārējās vidējās izglītības programmu īstenošanā iesaistītajiem pedagogiem, kuri pašvaldības vispārējās izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē pedagoga darbu, kā arī nosaka institūciju, kas administrē valsts sociālā atbalsta izmaksu un tās pārtraukšanu;
 41) nosaka kvalitātes kritērijus minimāli pieļaujamo izglītojamo skaitu un kritērijus maksimāli pieļaujamā izglītojamo skaita noteikšanai klasē vai klašu grupā vidējās izglītības pakāpē pašvaldību, valsts augstskolu un privātajās vispārējās izglītības iestādēs. Minētos kritērijus izglītības iestādes dibinātājs ņem vērā, nosakot maksimāli pieļaujamo izglītojamo skaitu klasē vai klašu grupā;
 42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā minimāli pieļaujamo izglītojamo skaitu vidējās izglītības pakāpē, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītības iestāde neatbilst Ministru kabineta noteiktajiem kvalitātes kritērijiem;
-43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā.
+43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā;
+44) nosaka kārtību, kādā aprēķina, piešķir un izlieto valsts budžetā paredzētos līdzekļus to izglītojamo ēdināšanai, kuri klātienē apgūst pamatizglītības programmas 1., 2., 3. un 4. klasē, un šo valsts budžeta līdzekļu apmēru vienam izglītojamam dienā.
