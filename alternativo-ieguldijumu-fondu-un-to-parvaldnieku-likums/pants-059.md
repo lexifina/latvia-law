@@ -1,8 +1,5 @@
 59.pants. Informācijas sniegšana Komisijai
-(1) Latvijā reģistrēts pārvaldnieks par katru tā pārvaldē esošu fondu Komisijai sniedz šādu informāciju:
-1) tirgi, kuros tas galvenokārt darbojas vai aktīvi tirgojas ar finanšu instrumentiem vai citiem aktīviem tā pārvaldē esošā fonda vārdā;
-2) to aktīvu veidi, arī finanšu instrumenti, ar kuriem tas galvenokārt tirgojas tā pārvaldē esošā fonda vārdā, tai skaitā ieguldījumu stratēģija un specializācija noteiktos ģeogrāfiskajos reģionos un nozarēs;
-3) būtiskākie fonda riska darījumi un nozīmīgākā to koncentrācija.
+(1) Latvijā reģistrēts pārvaldnieks reizi gadā sniedz Komisijai informāciju statistikas datu apkopošanai un Regulas Nr. 231/2013 110. panta 1. punktā noteikto informāciju saskaņā ar tās IV pielikumā ietvertās pārskatu veidnes paraugu Komisijas noteiktajā kārtībā.
 (2) Latvijā licencēts pārvaldnieks par katru tā pārvaldē esošu dalībvalsts fondu un par katru fondu, kura ieguldījumu daļas tas izplata dalībvalstī, Komisijai sniedz šā panta pirmajā daļā minēto informāciju un šādu informāciju:
 1) procentos izteikta fonda nelikvīdo aktīvu daļa vai aktīvu daļa, kuru vērtības noteikšana ir ierobežota un kuriem piemēro īpašus pasākumus, kas minēti Regulā Nr. 231/2013;
 2) izmaiņas metodēs, kuras pārvaldnieks piemēros fonda ieguldījumu likviditātes pārvaldīšanai;
