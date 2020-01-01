@@ -1,1 +1,1 @@
-35. Grozījumi šā likuma 31.panta trešajā daļā un grozījumi saistībā ar otrās, ceturtās, piektās, sestās, septītās, astotās un devītās daļas izslēgšanu stājas spēkā 2020.gada 1.janvārī.
+35. Šā likuma 31. panta trešās daļas jaunā redakcija un grozījumi par otrās, ceturtās, piektās, sestās, septītās, astotās un devītās daļas izslēgšanu stājas spēkā 2022. gada 1. janvārī.
