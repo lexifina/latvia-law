@@ -17,7 +17,7 @@
 7) organizē tiesas darbinieku ikgadējo novērtēšanu;
 8) (izslēgts no 01.06.2019. ar 25.10.2018. likumu. Sk. Pārejas noteikumu 95. punktu);
 9) saskaņā ar apgabaltiesas priekšsēdētāja lēmumu norīko tiesnesi veikt izmeklēšanas tiesneša pienākumus uz laiku līdz trim gadiem;
-(10) (Punkts stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 94. punktu)
+10) saskaņā ar apgabaltiesas priekšsēdētāja lēmumu norīko tiesnesi, kurš lems par akceptu saglabājamo datu iegūšanai no elektronisko sakaru komersantiem saskaņā ar Operatīvās darbības likumu.
 (4) Rajona pilsētas tiesas priekšsēdētājs var:
 1) pārbaudīt procesuālo termiņu ievērošanu tiesneša tiesvedībā esošajās lietās, kā arī lietu kārtošanas atbilstību normatīvo aktu, tai skaitā tiesu lietvedības noteikumu, prasībām;
 2) pieprasīt tiesnesim paskaidrojumu par tiesneša darba organizācijas un citiem jautājumiem šajā pantā noteiktās kompetences ietvaros;

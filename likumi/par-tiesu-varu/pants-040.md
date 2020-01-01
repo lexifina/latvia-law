@@ -4,4 +4,4 @@
 (2¹) Viena un tā pati persona var būt par apgabaltiesas priekšsēdētāju ne vairāk kā divus termiņus pēc kārtas.
 (3) Apgabaltiesas priekšsēdētājs veic šā likuma 33.panta trešajā, ceturtajā un piektajā daļā noteiktās funkcijas.
 (4) Apgabaltiesas priekšsēdētājs attiecīgās apgabaltiesas darbības teritorijā nosaka tās rajona (pilsētas) tiesas, kurās norīkojams izmeklēšanas tiesnesis, kā arī izmeklēšanas tiesnešu darba grafiku apgabaltiesas darbības teritorijā.
-(5) (Daļa stājas spēkā 01.01.2020. un iekļauta likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 94. punktu)
+(5) Apgabaltiesas priekšsēdētājs attiecīgās apgabaltiesas darbības teritorijā nosaka rajona (pilsētas) tiesu, kurā norīkojams tiesnesis, kurš lems par akceptu saglabājamo datu iegūšanai no elektronisko sakaru komersantiem saskaņā ar Operatīvās darbības likumu.
