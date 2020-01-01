@@ -5,15 +5,15 @@
 3) (izslēgts ar 20.12.2004. likumu);
 4) periodiski dara zināmus sabiedrībai valsts vārdā noslēgto līgumu noteikumus attiecībā uz aizņēmumiem naudas vai kapitāla tirgū;
 5) saskaņā ar Ministru kabineta noteikto kārtību dzēš valsts aizdevumus;
-6) izsniedz valsts aizdevumus pašvaldību budžeta un finanšu vadības, kā arī pašvaldību finanšu stabilizācijas procesa nodrošināšanai, valsts sociālās apdrošināšanas speciālā budžeta izdevumu segšanai, investīcijām, komercdarbības atbalsta programmu īstenošanai, Eiropas Savienības līdzfinansēto projektu un pasākumu īstenošanai, ārvalstu finanšu palīdzības finansēto projektu īstenošanai, kurināmā iegādes nodrošināšanai, kā arī nosaka valsts aizdevumu un atmaksu sarakstu.
+6) izsniedz valsts aizdevumus pašvaldību budžeta un finanšu vadības, kā arī pašvaldību finanšu stabilizācijas procesa nodrošināšanai, speciālā budžeta izdevumu segšanai, investīcijām, komercdarbības atbalsta programmu īstenošanai, Eiropas Savienības līdzfinansēto projektu un pasākumu īstenošanai, ārvalstu finanšu palīdzības finansēto projektu īstenošanai, kurināmā iegādes nodrošināšanai, kā arī nosaka valsts aizdevumu un atmaksu sarakstu.
 (2) Valsts budžeta iestādēm un budžeta nefinansētām iestādēm nav tiesību slēgt finanšu līzinga līgumus un ņemt aizņēmumus.
 (3) Valsts budžeta izpildītāji attiecībā uz speciālo budžetu var ņemt valsts aizdevumu, ja valsts aizdevuma piešķiršanas dienā šā speciālā budžeta līdzekļu atlikums nav ieguldīts noguldījuma veidā Valsts kasē un tas tiek ņemts:
 1) īstermiņā finanšu vadības nodrošināšanai, nodrošinot atmaksu tā saimnieciskā gada ietvaros, kurā tas ņemts;
-2) ilgtermiņā valsts sociālās apdrošināšanas speciālā budžeta izdevumu segšanai.
+2) ilgtermiņā speciālā budžeta izdevumu segšanai.
 (3¹) Īstermiņa valsts aizdevumu finanšu vadības nodrošināšanai atmaksā tā saimnieciskā gada ietvaros, kurā tika ņemts aizdevums. Īstermiņa aizdevums kurināmā iegādes nodrošināšanai atmaksājams viena kalendāra gada laikā no aizdevuma līguma noslēgšanas dienas.
 (3²) Valsts aizdevumus var izsniegt triju gadu laikā no aizdevuma līguma noslēgšanas dienas.
 (4) Valsts aizdevumu izsniegšanas un apkalpošanas kārtību nosaka Ministru kabinets.
-(5) Valsts aizdevumus var izsniegt pašvaldībām, valsts speciālā budžeta izpildītājiem, kapitālsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus, un vairāku pašvaldību veidotām kapitālsabiedrībām, kurās pašvaldību daļa pamatkapitālā kopsummā pārsniedz 65 procentus, kā arī tiem zinātniskajiem institūtiem un augstskolām, kam ir noteikts atvasinātas publiskas personas statuss.
+(5) Valsts aizdevumus var izsniegt pašvaldībām, speciālā budžeta izpildītājiem, kapitālsabiedrībām, kurās valsts vai pašvaldības daļa pamatkapitālā atsevišķi vai kopsummā pārsniedz 50 procentus, un vairāku pašvaldību veidotām kapitālsabiedrībām, kurās pašvaldību daļa pamatkapitālā kopsummā pārsniedz 65 procentus, kā arī tiem zinātniskajiem institūtiem un augstskolām, kam ir noteikts atvasinātas publiskas personas statuss.
 (5¹) (Zaudējusi spēku ar 01.01.2013. Sk. Pārejas noteikumu 53. punktu)
 (5²) Pašvaldībām, lai nodrošinātu likumā "Par valsts un pašvaldību īpašuma objektu privatizāciju" noteikto pasākumu izpildi, ir tiesības izsniegt aizdevumus no ienākumiem, kas gūti pašvaldību īpašuma objektu privatizācijas rezultātā.
 (5³) Valsts aizdevumus var izsniegt ostu pārvaldēm Eiropas Savienības līdzfinansēto projektu un ārvalstu finanšu palīdzības finansēto projektu īstenošanai.

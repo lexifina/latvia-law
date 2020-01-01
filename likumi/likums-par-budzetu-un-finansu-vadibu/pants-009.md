@@ -50,7 +50,7 @@ f) valsts kompensāciju izmaksai personām, kuras Kriminālprocesa likumā notei
 3) starptautisko tiesu un Satversmes tiesas spriedumu izpildei;
 4) (izslēgts ar 06.11.2013. likumu);
 5) Eiropas Savienības politiku instrumentu un citas ārvalstu finanšu palīdzības projektu un pasākumu īstenošanai;
-6) normatīvajos aktos noteikto sociālās apdrošināšanas speciālā budžeta izdevumu segšanai;
+6) normatīvajos aktos noteikto speciālā budžeta izdevumu segšanai;
 7) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai;
 8) iemaksām Eiropas Stabilitātes mehānisma reģistrētajā kapitālā, nepārsniedzot kopējo apmaksāto akciju un kopējo pieprasāmo akciju iegādes saistību apjomu, ja par apropriācijas palielināšanu ir pieņemts Ministru kabineta lēmums.
 (15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima ar atsevišķu lēmumu piekritusi šādai pārdalei.
