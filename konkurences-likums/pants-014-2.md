@@ -1,1 +1,6 @@
-14.² pants. (pants stājas spēkā 01.01.2020. un iekļauts likuma redakcijā uz 01.01.2020. Sk. Pārejas noteikumu 16. punktu)
+14.² pants. Atbildība par brīvas un godīgas konkurences noteikumu pārkāpumu
+(1) Ja Konkurences padome konstatē kapitālsabiedrības, kurā publiskai personai ir izšķiroša ietekme, darbības neatbilstību šā likuma 14.¹ panta pirmās daļas prasībām un pārrunu rezultātā neizdodas nodrošināt šo prasību ievērošanu, tā pieņem lēmumu par pārkāpuma konstatēšanu, tiesiskā pienākuma un naudas soda uzlikšanu.
+(2) Pieņemot šā panta pirmajā daļā minēto lēmumu, Konkurences padome nevar uzlikt tādu tiesisku pienākumu, kas padara neiespējamu valsts pārvaldes uzdevumu, kā arī pašvaldības autonomo funkciju un pašvaldībai deleģēto pārvaldes uzdevumu izpildi.
+(3) Konkurences padome ir tiesīga piemērot kapitālsabiedrībām, kurās publiskai personai ir izšķiroša ietekme, naudas sodu par šā likuma 14.¹ panta pirmajā daļā minēto pārkāpumu līdz trim procentiem no pēdējā finanšu gada neto apgrozījuma, bet ne mazāk kā 250 euro.
+(4) Ministru kabinets izdod noteikumus par naudas soda noteikšanas kārtību, kuros paredz finanšu gada neto apgrozījuma aprēķināšanas īpatnības atsevišķiem gadījumiem, naudas soda apmēra noteikšanas kritērijus, kā arī atbildību mīkstinošos un pastiprinošos apstākļus.
+(5) Šajā pantā noteiktajā kārtībā aprēķināto naudas sodu ieskaita valsts pamatbudžetā.
