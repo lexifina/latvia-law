@@ -1,0 +1,2 @@
+2.¹ pants. Valsts atbalsts mediācijas pakalpojuma saņemšanai
+Tieslietu ministrija ikgadējā valsts budžeta finansējuma ietvaros, ko iespējams novirzīt mediācijas pakalpojumu sniegšanai vai kas piešķirts šā mērķa īstenošanai, sadarbībā ar Sertificētu mediatoru padomi veic atbilstošus pasākumus, lai tādas ārpustiesas, kā arī tiesvedības procesā esošas domstarpības, kurās iesaistīts bērns, risinātu, izmantojot mediāciju.
