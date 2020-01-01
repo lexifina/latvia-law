@@ -2,11 +2,9 @@
 (1) Ja publiskas personas kapitālsabiedrība iegūst visas kapitāla daļas vai balsstiesīgās akcijas citā kapitālsabiedrībā (atkarīgā kapitālsabiedrība), tad:
 1) atkarīgā kapitālsabiedrība izstrādā vidēja termiņa darbības stratēģiju atbilstoši šā likuma 57.pantam;
 2) atkarīgās kapitālsabiedrības dividendēs izmaksājamo peļņas daļu nosaka saskaņā ar šā likuma 28. vai 35.pantu;
-3) atkarīgās kapitālsabiedrības valdi un padomi nominē, ievērojot šādus nosacījumus:
-a) nominācijas process ir atklāts,
-b) valdes un padomes locekļu kandidātus izvēlas, balstoties uz profesionalitātes un kompetences kritērijiem;
-4) atkarīgā kapitālsabiedrība var izveidot padomi tikai šā likuma 106.panta pirmajā daļā minētajā gadījumā;
-5) atkarīgās kapitālsabiedrības valdes un padomes locekļu skaitu, mēneša atlīdzību, prēmiju un atsaukšanas pabalstu nosaka, ievērojot valdes un padomes locekļiem šajā likumā noteiktos ierobežojumus;
+3) atkarīgās kapitālsabiedrības valdes un padomes locekļus nominē atbilstoši šā likuma 31. vai 37. pantam;
+4) atkarīgā kapitālsabiedrība izveido padomi šā likuma 78. panta otrajā daļā un 106. pantā minētajos gadījumos;
+5) atkarīgās kapitālsabiedrības valdes un padomes locekļu skaitu, mēneša atlīdzību, prēmiju un atsaukšanas pabalstu nosaka, ievērojot valdes un padomes locekļiem šajā likumā un uz tā pamata izdotajos Ministru kabineta noteikumos paredzētos ierobežojumus;
 6) atkarīgā kapitālsabiedrība informāciju par kapitālsabiedrību publisko atbilstoši šā likuma 58. panta pirmajai un otrajai daļai.
 (2) Kapitāla daļu turētājs nodrošina, ka publiskas personas kontrolētā kapitālsabiedrībā:
 1) vidēja termiņa darbības stratēģiju izstrādā atbilstoši šā likuma 57.pantam;

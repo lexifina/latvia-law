@@ -1,0 +1,1 @@
+29. Šā likuma 58. panta pirmās daļas 1. punkta "a", "b" un "c" apakšpunktā, 2. punktā, 3. punkta "c" un "d" apakšpunktā, kā arī 1.¹ daļas 2. punkta "a" apakšpunktā minētais termiņa skaitījums informācijas publiskošanai vismaz par pieciem iepriekšējiem gadiem tiek piemērots, sākot ar 2020. gada 1. martu.

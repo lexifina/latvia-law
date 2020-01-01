@@ -10,6 +10,6 @@
 8) publiskas personas kapitālsabiedrība tiek pārveidota par iestādi vai publisko aģentūru.
 (2) Šajā likumā paredzētās darbības veic, ievērojot arī komercdarbības atbalsta kontroli regulējošus normatīvos aktus.
 (3) Jautājumos, kurus neregulē šis likums, piemēro Komerclikuma un Koncernu likuma noteikumus.
-(4) Kredītiestāžu darbībai šā likuma noteikumi piemērojami, ja Kredītiestāžu likumā nav noteikts citādi.
-(5) Kredītiestāžu pārņemšanai šā likuma noteikumi piemērojami, ja Banku pārņemšanas likumā nav noteikts citādi.
-(6) Sabiedrisko elektronisko plašsaziņas līdzekļu darbībai šā likuma noteikumi piemērojami, ja Elektronisko plašsaziņas līdzekļu likumā nav noteikts citādi.
+(4) (Izslēgta ar 13.06.2019. likumu)
+(5) (Izslēgta ar 13.06.2019. likumu)
+(6) (Izslēgta ar 13.06.2019. likumu)

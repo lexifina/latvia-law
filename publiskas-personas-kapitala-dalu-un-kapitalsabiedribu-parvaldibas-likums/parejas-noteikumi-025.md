@@ -1,0 +1,1 @@
+25. Līdz 2020. gada 1. janvārim nodibinātas publiskas personas akciju sabiedrībā, kurā nav izveidota padome, ievērojot šā likuma 106. pantā noteikto, ne vēlāk kā līdz 2020. gada 1. jūnijam izveido padomi vai līdz 2020. gada 1. decembrim pārveido akciju sabiedrību par sabiedrību ar ierobežotu atbildību.

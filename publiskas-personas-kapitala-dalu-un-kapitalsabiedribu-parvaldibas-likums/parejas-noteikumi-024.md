@@ -1,0 +1,1 @@
+24. Līdz 2020. gada 1. janvārim nodibinātas publiskas personas sabiedrībā ar ierobežotu atbildību, kurā nav izveidota padome, bet kura atbilst šā likuma 78. panta otrās daļas prasībām, izveido padomi ne vēlāk kā līdz 2020. gada 1. jūnijam.

@@ -1,0 +1,1 @@
+26. Koordinācijas institūcija līdz 2020. gada 1. jūnijam izstrādā un apstiprina vadlīnijas padomes darba ikgadējā pašvērtējuma veikšanai, šā likuma 36. panta 11. punktā minēto pārskatu sagatavošanai un valdes un padomes locekļu darbības rezultātu izvērtēšanai.

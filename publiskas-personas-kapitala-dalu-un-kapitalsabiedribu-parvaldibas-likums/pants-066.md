@@ -14,3 +14,4 @@
 12) vidēja termiņa darbības stratēģiju, izņemot gadījumus, kad ir izveidota padome;
 13) citiem jautājumiem, ja tas paredzēts likumā.
 (2) Dalībnieku sapulce pēc valdes lūguma izskata un pieņem lēmumus arī tādos jautājumos, kuru izlemšanai valdei nepieciešama dalībnieku sapulces iepriekšēja piekrišana (šā likuma 82.pants).
+(3) Dalībnieku sapulce pilda padomes uzdevumus, ja sabiedrībā nav izveidota padome.

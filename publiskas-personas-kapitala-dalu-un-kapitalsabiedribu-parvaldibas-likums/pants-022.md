@@ -9,4 +9,7 @@
 6) sniedz atzinumu Ministru kabinetam par valsts līdzdalības iegūšanu, saglabāšanu vai izbeigšanu, kā arī pēc atvasinātas publiskas personas pieprasījuma sniedz viedokli par attiecīgās atvasinātās publiskās personas līdzdalības iegūšanu vai izbeigšanu noteiktā kapitālsabiedrībā;
 7) atbilstoši kompetencei izstrādā un normatīvajos aktos noteiktajā kārtībā iesniedz Ministru kabinetam apstiprināšanai tiesību aktu un politikas plānošanas dokumentu projektus;
 7¹) sadarbojas ar citām valsts pārvaldes, nevalstiskajām un starptautiskajām institūcijām kapitālsabiedrību un kapitāla daļu pārvaldības jautājumos;
+7²) pārrauga, kā valsts kapitāla daļu turētāji un valsts kapitālsabiedrības izpilda šā likuma 29. panta otrajā daļā un 58. pantā noteiktās informācijas publiskošanas prasības;
+7³) pārrauga, kā pašvaldības un pašvaldību kapitālsabiedrības (sabiedrības ar ierobežotu atbildību un akciju sabiedrības), kas atbilst šā likuma 78. panta otrajā daļā noteiktajiem kritērijiem, izpilda šā likuma 36. un 58. pantā noteiktās informācijas publiskošanas prasības;
+7⁴) pilda kapitāla daļu turētāja funkcijas valsts kapitālsabiedrībās, kurās koordinācijas institūciju par valsts kapitāla daļu turētāju iecēlis Ministru kabinets;
 8) veic citus uzdevumus, kas noteikti šajā likumā un citos tiešās pārvaldes iestādes darbību regulējošos likumos.
