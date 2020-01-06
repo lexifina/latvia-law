@@ -6,7 +6,7 @@
 (2) Šā panta pirmās daļas 1. un 2.punktā minētajos gadījumos Komisija nosūta Eiropas Komisijai arī informāciju par tā koncerna struktūru, kurā ietilpst attiecīgā ieguldījumu brokeru sabiedrība.
 (3) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, ko kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, sagatavo un izplata šajā likumā noteiktajā kārtībā, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.
 (4) Komisija informē Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi par:
-1) gadījumiem, kas minēti šā likuma 24.¹ panta trešajā daļā, 55.¹ panta ceturtajā daļā un 64.³ panta trešajā daļā;
+1) gadījumiem, kas minēti šā likuma 64.³ panta trešajā daļā;
 2) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu un 140.panta otro un piekto daļu;
 3) gadījumiem, kad tā saskaņā ar šā likuma 63.panta pirmajā daļā noteikto atzīst par līdzvērtīgu tādu informāciju, ko emitents, kura juridiskā adrese ir ārvalstī, sniedz saskaņā ar savas valsts normatīvo aktu prasībām;
 4) vispārēja rakstura grūtībām, ar kādām, sniedzot ieguldījumu pakalpojumus vai uzsākot ieguldījumu pakalpojumu sniegšanu ārvalstīs, saskaras ieguldījumu brokeru sabiedrības, kuras Komisijā saņēmušas licenci ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai.

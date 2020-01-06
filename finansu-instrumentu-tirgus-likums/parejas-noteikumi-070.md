@@ -1,0 +1,1 @@
+70. Centrālais vērtspapīru depozitārijs, regulētā tirgus organizētājs un datu ziņošanas pakalpojumu sniedzējs, uz kuru attiecas šā likuma 147.⁷ pantā minētā prasība par iekšējā ziņošanas kanāla izveidi, to izveido ne vēlāk kā līdz 2020. gada 1. aprīlim.

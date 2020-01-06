@@ -1,13 +1,8 @@
 3.¹ pants. Izcelsmes dalībvalsts noteikšana
 (1) Attiecībā uz ieguldījumu brokeru sabiedrībām izcelsmes dalībvalsts ir dalībvalsts, kurā ieguldījumu brokeru sabiedrība reģistrēta un saņēmusi licenci ieguldījumu pakalpojumu sniegšanai.
-(2) Attiecībā uz pārvedamu vērtspapīru emisiju, iekļaušanu regulētā tirgū vai publiska piedāvājuma izteikšanu izcelsmes dalībvalsts ir dalībvalsts, kurā:
-1) ir emitenta juridiskā adrese, izņemot šīs daļas 2.punktā minētos gadījumus;
-2) ir emitenta juridiskā adrese vai kurā ir vai tiks atļauta pārvedamu vērtspapīru tirdzniecība regulētā tirgū, vai kurā pārvedami vērtspapīri ir publiski piedāvāti pēc emitenta, publiskā piedāvājuma izteicēja vai tādas personas izvēles, kas lūdz pārvedamus vērtspapīrus iekļaut regulētajā tirgū, ja:
-a) pārvedama vērtspapīra, kas nav kapitāla vērtspapīrs, nominālvērtība ir vismaz 1000 euro,
-b) tie ir tādi pārvedami vērtspapīri, kuri nav kapitāla vērtspapīri un kuru konversija vai tajos nostiprināto tiesību izmantošana ļauj iegādāties pārvedamus vērtspapīrus vai saņemt par tiem naudu, ja šo pārvedamo vērtspapīru emitents vienlaikus nav arī pašu bāzes pārvedamu vērtspapīru emitents;
-3) pārvedami vērtspapīri ir publiski piedāvāti pirmo reizi pēc 2015.gada 27.novembra vai kurā ir iesniegts pirmais iesniegums atļaut tirdzniecību regulētajā tirgū attiecīgi pēc emitenta, publiskā piedāvājuma izteicēja vai tādas personas izvēles, kura lūdz iekļaut pārvedamus vērtspapīrus regulētajā tirgū. Šā punkta prasības piemērojamas tiem ārvalstīs reģistrētajiem pārvedamu vērtspapīru emitentiem, kas nav minēti šā panta otrās daļas 2.punktā. Ārvalstī reģistrētam emitentam ir tiesības mainīt izcelsmes dalībvalsti, ja sākotnēji tā netika noteikta pēc emitenta izvēles, vai atbilstoši šā panta ceturtās daļas 3.punktā minētajam nosacījumam par izcelsmes dalībvalsts izvēli.
+(2) (Izslēgta ar 12.12.2019. likumu)
 (2¹) Paziņojumiem par izcelsmes dalībvalsti izmantojamās veidlapas paraugu apstiprina Finanšu un kapitāla tirgus komisija.
-(3) Šā panta otrās daļas 2.punkta prasības piemēro arī tādiem pārvedamiem vērtspapīriem, kuri nav kapitāla vērtspapīri un kuru nominālvērtība ir noteikta nevis euro, bet citā valūtā, ja to mazākā nominālvērtība ir līdzvērtīga 1000 euro.
+(3) (Izslēgta ar 12.12.2019. likumu)
 (4) Attiecībā uz akciju emitentiem un tādu parāda vērtspapīru emitentiem, kuru parāda vērtspapīru vienas vienības nominālvērtība ir mazāka par 1000 euro un kuru pienākums ir sniegt regulēto informāciju, izcelsmes dalībvalsts ir:
 1) dalībvalsts, kurā ir emitenta juridiskā adrese, ja tas ir reģistrēts dalībvalstī;
 2) dalībvalsts, kuru emitents izvēlējies par izcelsmes dalībvalsti no tām dalībvalstīm, kuru regulētajos tirgos ir iekļauti emitenta pārvedami vērtspapīri, ja emitents ir reģistrēts ārvalstī. Ārvalstī reģistrētam emitentam ir tiesības mainīt izcelsmes dalībvalsti saskaņā ar šā panta ceturtās daļas 3.punktu, par to nekavējoties informējot kompetentās uzraudzības institūcijas saskaņā ar šā panta 7.¹ daļu;

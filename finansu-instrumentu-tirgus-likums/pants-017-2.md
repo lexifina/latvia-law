@@ -1,3 +1,0 @@
-17.²pants. Informācijas iekļaušana atsauces veidā
-(1) Emisijas prospektā informāciju var iekļaut kā atsauci uz vienu vai vairākiem iepriekš vai vienlaikus publicētiem dokumentiem, ko reģistrējusi Komisija vai kas iesniegti Komisijai saskaņā ar šā likuma prasībām. Šādā gadījumā emisijas prospektā iekļauj atsauču sarakstu, kas ļautu ieguldītājiem viegli identificēt konkrēto informāciju. Atsauču veidā sniegtajai informācijai jābūt jaunākajai, kāda ir pieejama emitentam vai publiskā piedāvājuma izteicējam. Kopsavilkumā neiekļauj informāciju atsauces veidā.
-(2) Prasības informācijas iekļaušanai atsauces veidā nosaka tieši piemērojamie Eiropas Savienības tiesību akti par emisijas prospektiem.

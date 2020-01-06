@@ -1,2 +1,2 @@
-16.¹ pants. Piedāvājuma dokumenta sagatavošanas pienākums
-Izsakot publisko piedāvājumu par pārvedamiem vērtspapīriem, kas iekļauti šajā piedāvājumā, ja par 12 mēnešiem aprēķinātā kopējā samaksa par piedāvājumu ir no 100 000 euro līdz 1 000 000 euro, publiskā piedāvājuma izteicējs sagatavo un publicē piedāvājuma dokumentu saskaņā ar Komisijas normatīvajiem noteikumiem, ja vien neizmanto šā likuma 15.panta otrajā daļā paredzētās tiesības.
+16.¹ pants. Atbrīvojums no prospekta sagatavošanas pienākuma
+Ja publiskais piedāvājums tiek izteikts par pārvedamiem vērtspapīriem, par kuriem aprēķinātā kopējā samaksa Eiropas Savienībā 12 mēnešu laikā ir no 1 000 000 līdz 8 000 000 euro un netiek prasīta paziņošana saskaņā ar Regulas Nr. 2017/1129 25. pantu, publiskā piedāvājuma izteicējs var nesagatavot Regulā Nr. 2017/1129 minēto prospektu. Šādā gadījumā publiskā piedāvājuma izteicējs sagatavo un publicē piedāvājuma dokumentu saskaņā ar Komisijas normatīvajiem noteikumiem.

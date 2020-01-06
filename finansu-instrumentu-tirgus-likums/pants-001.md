@@ -11,11 +11,11 @@
 9) publiskā apgrozība - darījumu slēgšana ar regulētajā tirgū iekļautiem finanšu instrumentiem;
 10) emitents - persona, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kā arī persona, kura savā vārdā emitē vai ir pieteikusi iekļaušanai regulētajā tirgū pārvedamus vērtspapīrus vai citus finanšu instrumentus. Attiecībā uz regulētajā tirgū iekļautajiem depozitārajiem sertifikātiem par emitentu uzskata to vērtspapīru emitentu, uz kuriem tiesības ir nostiprinātas depozitārajā sertifikātā neatkarīgi no tā, vai šie vērtspapīri ir vai nav iekļauti regulētajā tirgū;
 11) sākotnējā izvietošana - emitenta vai tā pilnvarotas personas izteikts publiskais piedāvājums iegūt pārvedamus vērtspapīrus vai citus finanšu instrumentus un to pirmreizējā izvietošana;
-12) emisijas prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem publiskā piedāvājuma izteicējs vēlas izteikt publisko piedāvājumu;
-13) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, kurus persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, vēlas iekļaut regulētajā tirgū;
+12) (izslēgts 12.12.2019. likumu);
+13) prospekts - dokuments, kurā ietverta detalizēta informācija par emitentu un tā emitētiem pārvedamiem vērtspapīriem, par kuriem publiskā piedāvājuma izteicējs vēlas izteikt publisko piedāvājumu vai kurus persona, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, vēlas iekļaut regulētajā tirgū;
 14) mērķa sabiedrība - akciju sabiedrība, kuras akcijas atrodas publiskajā apgrozībā un par kuras akcijām ir izteikts atpirkšanas piedāvājums;
 15) piedāvātājs - persona vai personu grupa, kura izsaka obligāto vai brīvprātīgo akciju atpirkšanas piedāvājumu vai veic galīgo akciju atpirkšanu vai kurai ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu;
-16) centrālais vērtspapīru depozitārijs - kapitālsabiedrība Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/ES un regulā (ES) Nr. 236/2012 2. panta 1. punkta 1. apakšpunkta izpratnē;
+16) centrālais vērtspapīru depozitārijs - kapitālsabiedrība Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/ES un regulā (ES) Nr. 236/2012 (turpmāk - Regula Nr. 909/2014) 2. panta 1. punkta 1. apakšpunkta izpratnē;
 17) centrālā vērtspapīru depozitārija dalībnieks - dalībnieks likuma "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" 1. panta pirmās daļas 6. punkta izpratnē;
 18) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, regulētā tirgus organizētāji, centrālie vērtspapīru depozitāriji, datu ziņošanas pakalpojumu sniedzēji, ārvalsts ieguldījumu brokeru sabiedrības, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, un citas personas, kuras veic šajā likumā regulētās darbības;
 19) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politiku;
@@ -38,24 +38,21 @@ c) citi uzkrātie ienākumi, kas uzrādīti kopējo ienākumu pārskatā,
 d) pārējās rezerves,
 e) kārtējā darbības gada peļņa;
 27) sākotnējais reģistrs - saraksts, kurā iekļautas personas, kurām pieder viena vai vairāku emitentu emitētie finanšu instrumenti (turpmāk arī - finanšu instrumentu īpašnieki) un kuras finanšu instrumentus ieguvušas sākotnējās izvietošanas rezultātā vai pēc finanšu instrumentu laišanas publiskajā apgrozībā sev piederošo finanšu instrumentu uzskaiti nav pārvietojušas no sākotnējā reģistra uz sev piederošo finanšu instrumentu kontu;
-28) kapitāla vērtspapīri - akcijas un tām pielīdzināmi pārvedami vērtspapīri, kas nodrošina līdzdalību kapitālsabiedrības kapitālā, kā arī jebkura cita veida vērtspapīri, kas to konvertēšanas vai ar tiem piešķirto tiesību izmantošanas rezultātā dod tiesības iegūt jebkurus iepriekš minētos vērtspapīrus ar nosacījumu, ka šos vērtspapīrus emitējis to akciju emitents, uz kuru tie attiecas, vai kapitālsabiedrība, kas ietilpst minētā emitenta uzņēmumu grupā;
+28) (izslēgts ar 12.12.2019. likumu);
 29) depozitārie sertifikāti - pārvedami vērtspapīri, kas tirgojami kapitāla tirgū un apliecina īpašumtiesības uz tāda emitenta vērtspapīriem, kura juridiskā adrese ir citā valstī, un vienlaikus iekļauti tirdzniecībai regulētajā tirgū un tos var tirgot atsevišķi no šāda emitenta vērtspapīriem;
 30) pārvedami vērtspapīri - vērtspapīri, kas tirgojami kapitāla tirgū, izņemot maksāšanas līdzekļus, tostarp:
 a) kapitāla vērtspapīri,
 b) parāda vērtspapīri,
 c) citi vērtspapīri, kuros nostiprinātas tiesības iegādāties vai atsavināt pārvedamus vērtspapīrus vai kuri paredz norēķinus naudā, ko nosaka pārvedami vērtspapīri, valūta, procentu likme vai ienesīgums, preces, indekss vai rādītājs;
-31) mazie un vidējie komersanti - komersanti, kas saskaņā ar to individuālajiem gada pārskatiem vai konsolidētajiem gada pārskatiem atbilst vismaz diviem no šādiem trim kritērijiem:
-a) vidējais darbinieku skaits finansiālajā gadā ir mazāks par 250,
-b) aktīvu kopsumma nepārsniedz 43 000 000 euro,
-c) gada tīrais apgrozījums nepārsniedz 50 000 000 euro;
-32) publiskā piedāvājuma izteicējs - persona, kas publiski piedāvā pārvedamus vērtspapīrus;
-33) piedāvājuma programma - pasākumu kopums līdzīgas vai vienādas kategorijas pārvedamu vērtspapīru (izņemot kapitāla vērtspapīrus) nepārtrauktai vai atkārtotai emisijai noteiktā laikposmā;
-34) nepārtraukti vai atkārtoti emitēti pārvedami vērtspapīri - līdzīgas vai vienādas kategorijas pārvedami vērtspapīri, kas emitēti nepārtrauktā emisijā vai vismaz divās atsevišķās emisijās, kuras notikušas 12 mēnešu laikā no publiskā piedāvājuma sākuma datuma;
+31) (izslēgts ar 12.12.2019. likumu);
+32) (izslēgts ar 12.12.2019. likumu);
+33) (izslēgts ar 12.12.2019. likumu);
+34) (izslēgts ar 12.12.2019. likumu);
 35) uzņēmēja dalībvalsts - valsts, kura nav izcelsmes dalībvalsts un kurā tiek izteikts publiskais piedāvājums vai tiek lūgta pārvedamu vērtspapīru iekļaušana regulētajā tirgū, vai valsts, kurā ieguldījumu brokeru sabiedrībai vai kredītiestādei ir filiāle vai kurā ieguldījumu brokeru sabiedrība vai kredītiestāde sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, vai valsts, kurā regulētā tirgus organizētājs veic atbilstošus pasākumus, lai veicinātu šajā valstī esošo tirgus dalībnieku piekļuvi tirdzniecībai tās sistēmā no attāluma, ja šī valsts atšķiras no izcelsmes dalībvalsts;
 36) kvalificētie ieguldītāji - ieguldītāji, kas par tādiem noteikti šā likuma 124.¹ panta otrajā daļā vai atbilst šā panta otrajā vai piektajā daļā minētajām prasībām un kritērijiem, kā arī personas, kuras atbilstoši šā likuma 124.² panta noteikumiem atzītas par tiesīgiem darījuma partneriem;
-37) publiskais piedāvājums - ar jebkuru līdzekļu starpniecību sniegta tāda informācija par piedāvājuma noteikumiem un piedāvājamiem pārvedamiem vērtspapīriem, kas ļauj ieguldītājiem lemt par šo vērtspapīru iegādi vai parakstīšanos uz tiem;
+37) (izslēgts ar 12.12.2019. likumu);
 38) ārvalsts - valsts, kas nav Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
-39) kompetentā institūcija - institūcija, kurai dalībvalsts deleģējusi funkciju uzraudzīt emisijas prospektu un prospektu sagatavošanas, reģistrēšanas un izplatīšanas kārtību un kura veic pienākumus, kas saistīti ar starptautisko sadarbību ar citu dalībvalstu kompetentajām institūcijām;
+39) kompetentā institūcija - institūcija, kurai dalībvalsts deleģējusi funkciju uzraudzīt prospektu sagatavošanas, reģistrēšanas un izplatīšanas kārtību un kura veic pienākumus, kas saistīti ar starptautisko sadarbību ar citu dalībvalstu kompetentajām institūcijām;
 40) saistītais uzņēmums - līdzdalība uzņēmumā, kurā grupas uzņēmumiem tieši vai netieši (ar meitas uzņēmumu starpniecību) pieder 20 vai vairāk procentu no balsstiesīgo akciju (daļu) skaita, vai līdzdalība, kas dod tiesības būtiski ietekmēt, bet ne kontrolēt ar uzņēmuma finansiālās darbības un pamatdarbības politiku saistīto lēmumu pieņemšanu;
 41) atpirkšanas piedāvājums - piedāvātāja publiski izteikts piedāvājums, kas nav pašas mērķa sabiedrības izteikts piedāvājums, citiem mērķa sabiedrības akcionāriem iegādāties no tiem visas akcijas vai daļu akciju šā likuma D sadaļas V nodaļā noteiktajā kārtībā;
 42) personas, kuras rīkojas saskaņoti - piedāvātājs un personas, kas sadarbojas ar piedāvātāju vai mērķa sabiedrību saskaņā ar vienošanos, lai iegūtu mērķa sabiedrībā kontroli vai izjauktu veiksmīgu piedāvājumu;
@@ -86,13 +83,8 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai;
 64) ieraksta datums - tās darbdienas datums, pēc kuras līdz akcionāru sapulcei atliek vēl piecas darbdienas un kuras beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē, vai emitenta vai piedāvātāja noteikts datums, kurā tiek noteiktas tiesības uz labumiem, kas tiks gūti finanšu instrumentu notikumu rezultātā;
 65) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
-66) komercsabiedrība ar samazinātu tirgus kapitalizāciju - komercsabiedrība, kuras finanšu instrumenti iekļauti regulētajā tirgū un kuras tirgus kapitalizācijas vidējā vērtība, aprēķinot pēc iepriekšējo triju kalendāra gadu beigās veiktās finanšu instrumentu kotēšanas rezultātiem, ir mazāka nekā 100 000 000 euro;
-67) galvenā informācija - būtiska, strukturēta informācija, kuru sniedz ieguldītājiem, lai skaidrotu tiem piedāvāto vai tirdzniecībai regulētajā tirgū iekļaujamo vērtspapīru, to emitentu un galvotāju būtību, kā arī ar vērtspapīriem, to emitentu un galvotāju saistītos riskus, un kura ieguldītājiem būtu nepieciešama vērtspapīru iegādes lēmuma pieņemšanai. Galvenā informācija satur:
-a) īsu aprakstu par emitentu un galvotāju būtiskākajiem raksturojošiem rādītājiem, tostarp informāciju par to aktīviem, pasīviem, finansiālo stāvokli un riskiem, kas saistīti ar emitentu, galvotāju un ieguldījumiem attiecīgajos vērtspapīros,
-b) īsu aprakstu par riskiem, kas saistīti ar pārvedamiem vērtspapīriem un ieguldījumiem šāda veida pārvedamos vērtspapīros, kā arī informāciju par šajos vērtspapīros nostiprinātajām tiesībām,
-c) publiskā piedāvājuma noteikumus un informāciju par visām izmaksām, ko sedz ieguldītājs saistībā ar vērtspapīru iegādi,
-d) publiskā piedāvājuma iemeslus un publiskā piedāvājuma rezultātā gūto tīro ieņēmumu izlietojumu,
-e) aprakstu par pārvedamu vērtspapīru iekļaušanu regulētajā tirgū;
+66) (izslēgts ar 12.12.2019. likumu);
+67) (izslēgts ar 12.12.2019. likumu);
 68) finanšu instrumentu turēšana - finanšu instrumentu turēšana un administrēšana klientu vārdā, tostarp ar finanšu instrumentiem veicamo darījumu nodrošināšanai nepieciešamo naudas līdzekļu turēšana un citu ar finanšu instrumentu turēšanu vai administrēšanu saistīto pakalpojumu sniegšana, izņemot vērtspapīru kontu uzturēšanu augstākajā līmenī;
 69) oficiāla vienošanās - līgums, kas ir saistošs saskaņā ar normatīvajos aktos noteikto un paredz personai tiesības no finanšu instrumentiem izrietošo tiesību izpildes dienā iegūt emitenta balsstiesīgās akcijas akciju sabiedrībā;
 70) finanšu instrumentu garā pozīcija - finanšu instrumenti, kas pieder personai, vai finanšu instrumenti, kas personai dod tiesības vai uzliek pienākumu iegūt finanšu instrumentus;
@@ -148,17 +140,20 @@ f) Eiropas Investīciju banka;
 102) naudas tirgus instrumenti - finanšu instrumenti, kurus parasti tirgo naudas tirgū: valsts parādzīmes, noguldījumu sertifikāti un komercsabiedrību parādzīmes, izņemot maksāšanas līdzekļus;
 103) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
 104) filiāle - teritoriāli vai citādi nošķirta ieguldījumu brokeru sabiedrības vai kredītiestādes struktūrvienība, kurai nav juridiskās personas statusa un kura darbojas ieguldījumu brokeru sabiedrības vai kredītiestādes vārdā. Visas struktūrvienības, kuras vienā dalībvalstī ir izveidojusi ieguldījumu brokeru sabiedrība vai kredītiestāde, kas atrodas citā dalībvalstī, uzskatāmas par vienu filiāli;
-105) vērtspapīru finansēšanas darījums - darījums atbilstoši Regulas Nr. 2015/2365 3. panta 11. punktā noteiktajam;
+105) vērtspapīru finansēšanas darījums - darījums atbilstoši Eiropas Parlamenta un Padomes 2015. gada 25. novembra regulas (ES) 2015/2365 par vērtspapīru finansēšanas darījumu un atkalizmantošanas pārredzamību un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - Regula Nr. 2015/2365) 3. panta 11. punktā noteiktajam;
 106) pilnvarotais padomdevējs - juridiskā persona, kura savas saimnieciskās darbības ietvaros veic izpēti un sniedz padomus un ieteikumus attiecībā uz balsstiesību izmantošanu dalībvalstī reģistrētā akciju sabiedrībā, kuras akcijas iekļautas dalībvalsts regulētajā tirgū.
 (2) Šādi termini atbilst Regulā Nr. 575/2013 lietotajiem terminiem:
 1) mātes sabiedrība - terminam "mātesuzņēmums" Regulas Nr. 575/2013 4. panta 1. punkta 15. apakšpunkta izpratnē;
 2) meitas sabiedrība - terminam "meitasuzņēmums" Regulas Nr. 575/2013 4. panta 1. punkta 16. apakšpunkta izpratnē;
 3) jaukta pārvaldītājsabiedrība - terminam "jauktas darbības pārvaldītājsabiedrība" Regulas Nr. 575/2013 4. panta 1. punkta 22. apakšpunkta izpratnē.
-(3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem Regulas Nr. 575/2013 izpratnē ir lietoti šādi termini:
+(3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem Regulas Nr. 575/2013 un Eiropas Parlamenta un Padomes 2017. gada 14. jūnija regulas (ES) 2017/1129 par prospektu, kurš jāpublicē, publiski piedāvājot vērtspapīrus vai atļaujot to tirdzniecību regulētā tirgū, un ar ko atceļ direktīvu 2003/71/EK (turpmāk - Regula Nr. 2017/1129) izpratnē ir lietoti šādi termini:
 1) finanšu iestāde - finanšu iestāde Regulas Nr. 575/2013 4. panta 1. punkta 26. apakšpunkta izpratnē;
 2) finanšu pārvaldītājsabiedrība - finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 20. apakšpunkta izpratnē;
 3) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 30. apakšpunkta izpratnē;
 4) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - Eiropas Savienības mātes finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 31. apakšpunkta izpratnē;
-5) pašu kapitāls - pašu kapitāls Regulas Nr. 575/2013 4. panta 1. punkta 118. apakšpunkta izpratnē.
+5) pašu kapitāls - pašu kapitāls Regulas Nr. 575/2013 4. panta 1. punkta 118. apakšpunkta izpratnē;
+6) kapitāla vērtspapīri - pašu kapitāla vērtspapīri Regulas Nr. 2017/1129 2. panta "b" punkta izpratnē;
+7) publiskais piedāvājums - vērtspapīru publiskais piedāvājums Regulas Nr. 2017/1129 2. panta "d" punkta izpratnē;
+8) publiskā piedāvājuma izteicējs - piedāvātājs Regulas Nr. 2017/1129 2. panta "i" punkta izpratnē.
 (4) Likumā lietotais termins "saistītā puse" atbilst Komisijas 2008. gada 3. novembra regulas (EK) Nr. 1126/2008, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002 pielikumā minētajā 24. SGS "Informācijas atklāšana par saistītajām pusēm" lietotajam terminam.
 (5) Piemērojot šā likuma tiesību normas, kurās ir ietverti šā panta pirmajā daļā minētie termini, ievēro Komisijas 2016. gada 25. aprīļa deleģēto regulu (ES) 2017/565, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES attiecībā uz ieguldījumu brokeru sabiedrību organizatoriskām prasībām un darbības nosacījumiem un jēdzienu definīcijām minētās direktīvas mērķiem (turpmāk - Regula Nr. 2017/565) un Komisijas 2017. gada 28. augusta deleģēto regulu (ES) 2017/2294, ar ko deleģēto regulu (ES) 2017/565 groza attiecībā uz sistemātisko internalizētāju definīcijas konkretizēšanu direktīvas 2014/65/ES vajadzībām.

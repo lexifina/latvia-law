@@ -1,17 +1,10 @@
-17.pants. Emisijas prospekta saturs
-(1) Emisijas prospektā viegli analizējamā un saprotamā veidā iekļauj informāciju par emitentu un pārvedamiem vērtspapīriem, kas tiks publiski piedāvāti, un informāciju, kas ir vajadzīga, lai ieguldītājs varētu pienācīgi novērtēt emitenta finanšu stāvokli, bilanci, darbības rezultātus (peļņu vai zaudējumus) un attīstības prognozi, pārvedamos vērtspapīrus un tajos nostiprinātās tiesības, kā arī izvērtēt emitenta un jebkura galvotāja nākotnē iespējamo finanšu stāvokli.
-(2) Emitents vai publiskā piedāvājuma izteicējs pēc savas izvēles emisijas prospektu var sagatavot kā vienu dokumentu vai kā atsevišķus dokumentus. Ja emisijas prospektu sagatavo kā atsevišķus dokumentus, katram no tiem ir jābūt reģistrētam Komisijā. Emisijas prospektam pievieno kopsavilkumu, kas ir sagatavots saskaņā ar šā panta trešās daļas 3.punkta prasībām.
-(3) Emisijas prospektu, kas sastāv no atsevišķiem dokumentiem, veido:
-1) reģistrācijas dokuments, kurā ietver informāciju par emitentu;
-2) vērtspapīru apraksts, kurā ietver informāciju par pārvedamiem vērtspapīriem, kas tiks publiski piedāvāti;
-3) kopsavilkums, kurā īsi, neizmantojot speciālo terminoloģiju, un valodā, kādā sākotnēji tika sagatavots emisijas prospekts, atspoguļo galveno informāciju. Kopsavilkums (tā forma un saturs) sniedz viennozīmīgu informāciju par vērtspapīru būtiskākajiem raksturojošiem rādītājiem, lai ieguldītājs varētu izprast, vai ieguldīt attiecīgajos vērtspapīros. Detalizētu kopsavilkumā iekļaujamo informāciju sagatavo saskaņā ar Komisijas 2012.gada 30.marta deleģēto regulu (ES) Nr. 486/2012, ar kuru groza Regulu (EK) Nr. 809/2004 attiecībā uz prospekta, pamatprospekta, kopsavilkuma un galīgo nosacījumu formu un saturu un attiecībā uz informācijas sniegšanas prasībām. Kopsavilkumā uzsver brīdinājumu par to, ka:
-a) tas ir uzskatāms par emisijas prospekta ievadu,
-b) jebkuram lēmumam ieguldīt pārvedamos vērtspapīros jābūt balstītam uz ieguldītāja izvērtējumu par emisijas prospektu kopumā,
-c) ja tiesā ir celta prasība attiecībā uz emisijas prospektā ietverto informāciju, ieguldītājam, kas cēlis prasību tiesā saskaņā ar attiecīgās dalībvalsts normatīvajiem aktiem, būs jāsedz emisijas prospekta tulkošanas izmaksas pirms tiesvedības uzsākšanas,
-d) personas, kuras iesniegušas kopsavilkumu, tajā skaitā veikušas tā tulkošanu un pieteikušās tā paziņošanai, var saukt pie civiltiesiskās atbildības tikai tad, ja kopsavilkums ir maldinošs, neprecīzs vai, lasot kopā ar pārējām emisijas prospekta daļām, pretrunīgs.
-(4) Detalizētu emisijas prospektā iekļaujamo informāciju un prospekta saturu nosaka saskaņā ar Eiropas Komisijas regulu Nr. 809/2004.
-(5) Ja Eiropas Komisijas regulā Nr. 809/2004 noteiktā emisijas prospektā iekļaujamā informācija neatbilst emitenta darbības jomai, juridiskajai formai vai pārvedamiem vērtspapīriem, kas tiks publiski piedāvāti, tad emisijas prospektā iekļauj informāciju, kas ir līdzvērtīga prasītajai. Ja šādas līdzvērtīgas informācijas nav, minēto informāciju emisijas prospektā neiekļauj.
-(6) Ja emisijas prospektā nevar norādīt piedāvājuma galīgo cenu un to pārvedamu vērtspapīru daudzumu, kas tiks publiski piedāvāti, tad tajā iekļauj nosacījumus, saskaņā ar kuriem tiks noteikts pārvedamo vērtspapīru daudzums vai cena, bet, ja nav norādīta galīgā pārdošanas cena, norāda maksimālo piedāvājuma cenu.
-(7) Ja emitents vai publiskā piedāvājuma izteicējs nevar nodrošināt šā panta sestajā daļā minēto nosacījumu izpildi, personai, kas parakstījusies uz piedāvātajiem pārvedamiem vērtspapīriem, ir tiesības atsaukt savu piekrišanu divu darba dienu laikā vai prospektā noteiktajā termiņā, kas nav īsāks par divām darba dienām, pēc tam, kad informācija par piedāvājuma galīgo cenu un to pārvedamo vērtspapīru daudzumu, kas tiks publiski piedāvāti, ir iesniegta Komisijai un publicēta saskaņā ar šā likuma 21.panta ceturtās daļas prasībām.
-(8) Ja emitents vai publiskā piedāvājuma izteicējs pieņēmis lēmumu veikt pārvedamu vērtspapīru sākotnējo izvietošanu ar regulētā tirgus organizētāja starpniecību vai nekavējoties pēc sākotnējās izvietošanas pabeigšanas iesniegt iesniegumu par attiecīgu pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, tas sagatavo vienu prospektu, ievērojot šā likuma un Eiropas Komisijas regulas Nr. 809/2004 prasības attiecībā uz prospekta saturu.
+17. pants. Prospekta saturs
+(1) (Izslēgta ar 12.12.2019. likumu)
+(2) (Izslēgta ar 12.12.2019. likumu)
+(3) (Izslēgta ar 12.12.2019. likumu)
+(4) Detalizētu prospektā iekļaujamo informāciju un prospekta saturu nosaka tieši piemērojamie Eiropas Savienības tiesību akti par prospekta saturu.
+(5) (Izslēgta ar 12.12.2019. likumu)
+(6) (Izslēgta ar 12.12.2019. likumu)
+(7) (Izslēgta ar 12.12.2019. likumu)
+(8) Ja emitents vai publiskā piedāvājuma izteicējs pieņēmis lēmumu veikt pārvedamu vērtspapīru sākotnējo izvietošanu ar regulētā tirgus organizētāja starpniecību vai nekavējoties pēc sākotnējās izvietošanas pabeigšanas iesniegt iesniegumu par attiecīgu pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, tas sagatavo vienu prospektu, ievērojot šā likuma, Regulas Nr. 2017/1129 un citu tieši piemērojamo Eiropas Savienības tiesību aktu prasības attiecībā uz prospekta saturu.
 (9) (Izslēgta ar 26.05.2016. likumu)
