@@ -9,7 +9,7 @@ Likumā ir lietoti šādi termini:
 6) pajumte - dzīvošanai derīgā stāvoklī esoša apkurināma dzīvojamā telpa (mājoklis), kas atbilst būvniecības un sanitāro normu prasībām;
 7) ārpusģimenes aprūpe - aprūpe, kas bāreņiem un bez vecāku gādības palikušiem bērniem tiek nodrošināta pie aizbildņa, audžuģimenē, bērnu aprūpes iestādē;
 8) bērnu aprūpes iestāde - iestāde, kurā tiek nodrošināta sociālā aprūpe un sociālā rehabilitācija bāreņiem vai bez vecāku gādības palikušiem bērniem, kā arī bērniem, kuriem nepieciešama sociālā rehabilitācija vai īpaša aprūpe veselības stāvokļa dēļ;
-9) patversme - bērnu aprūpes iestāde, kura īslaicīgi nodrošina bērnu ārpusģimenes aprūpi;
+9) (izslēgts ar 12.12.2019. likumu);
 9¹) vardarbība - visu veidu fiziska vai emocionāla cietsirdība, seksuāla vardarbība, nolaidība vai cita veida izturēšanās, kas apdraud vai var apdraudēt bērna veselību, dzīvību, attīstību vai pašcieņu;
 10) seksuāla vardarbība - bērna iesaistīšana seksuālās darbībās, ko bērns nesaprot vai kam nevar dot apzinātu piekrišanu;
 11) fiziska vardarbība - bērna veselībai vai dzīvībai bīstams apzināts spēka pielietojums saskarsmē ar bērnu vai apzināta bērna pakļaušana kaitīgu faktoru, tai skaitā tabakas dūmu, iedarbībai;

@@ -14,7 +14,7 @@
 12) sociālajam pedagogam un psihologam, kurš strādā ar bērniem;
 13) sociālā dienesta vadītājam;
 14) tiesnesim;
-15) valsts bērnu tiesību aizsardzības inspektoram;
+15) Valsts bērnu tiesību aizsardzības inspekcijas amatpersonai;
 16) Valsts pedagoģiski medicīniskās komisijas vadītājam;
 17) Valsts policijas amatpersonai, kura strādā ar bērniem;
 18) vispārējās izglītības, profesionālās izglītības un interešu izglītības pedagogam;

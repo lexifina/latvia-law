@@ -1,6 +1,6 @@
 36.pants. Bērna aprūpe audžuģimenē
 (1) Bāriņtiesa piešķir audžuģimenes statusu, tai skaitā specializētās audžuģimenes statusu, un gādā par bērna aprūpes līguma slēgšanu ar audžuģimeni. Ministru kabinets nosaka kritērijus ģimenes (personas) atzīšanai par audžuģimeni vai specializēto audžuģimeni, kā arī specializēto audžuģimeņu veidus.
-(1¹) Pēc tam kad pieņemts bāriņtiesas lēmums par ģimenes vai personas piemērotību audžuģimenes statusam, tai skaitā specializētās audžuģimenes statusam, šā likuma 36.¹ pantā minētais atbalsta centrs organizē audžuģimeņu apmācību.
+(1¹) Pēc tam kad pieņemts bāriņtiesas lēmums par ģimenes vai personas piemērotību audžuģimenes statusam, tai skaitā specializētās audžuģimenes statusam, šā likuma 36.¹ pantā minētais atbalsta centrs organizē mācības audžuģimenēm.
 (2) Pašvaldība palīdz audžuģimenēm bērnu audzināšanā un nodrošina nepieciešamos sociālos pakalpojumus. Audžuģimenei ir tiesības saņemt līdzekļus bērna uzturam. Ministru kabinets nosaka līdzekļu apmēru bērna uzturam.
 (2¹) Valsts atbilstoši likumā par valsts budžetu kārtējam gadam piešķirtajiem līdzekļiem nodrošina atlīdzību par specializētās audžuģimenes pienākumu pildīšanu. Atlīdzības apmēru, tās piešķiršanas, izmaksas, pārskatīšanas un pārtraukšanas kārtību, kā arī audžuģimenes iesniedzamos dokumentus, kas nepieciešami atlīdzības saņemšanai, nosaka Ministru kabinets.
 (3) Bērna un audžuģimenes tiesiskās attiecības reglamentē Ministru kabineta noteikumi.

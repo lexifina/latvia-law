@@ -1,1 +1,1 @@
-28. Personas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, ir tiesīgas veikt darba vai dienesta pienākumus līdz šā likuma pārejas noteikumu 25., 26. un 27.punktā noteiktā termiņa beigām.
+28. Personas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, ir tiesīgas veikt darba, dienesta vai profesionālos pienākumus, kas ietver darbu ar nepilngadīgajiem vai nepilngadīgo interešu pārstāvību vai aizstāvību, līdz šo pārejas noteikumu 25., 26. un 27. punktā noteiktā termiņa beigām.

@@ -5,7 +5,7 @@
 (4) Bērnam aizliegts atrasties vietās, kur izgatavo vai demonstrē erotiska un pornogrāfiska rakstura materiālu vai sagatavo vai demonstrē pornogrāfisku priekšnesumu.
 (5) Bērnu aizliegts iesaistīt pornogrāfiska rakstura materiāla izgatavošanā vai izplatīšanā, kā arī pornogrāfiska priekšnesuma sagatavošanā vai demonstrēšanā.
 (6) Jautājumus, kas saistīti ar bērnu pornogrāfijas aprites aizliegumu, regulē Pornogrāfijas ierobežošanas likums.
-(7) Bērnam, kurš nav sasniedzis 16 gadu vecumu, aizliegts mācību laikā bez izglītības iestādes administrācijas rakstveida atļaujas un nakts laikā atrasties interneta zālēs, datorsalonos, interneta kafejnīcās un citās tamlīdzīgās vietās, kur par maksu sniedz interneta un datorspēļu pakalpojumus. Par nakts laiku šā panta izpratnē uzskatāms laiks no pulksten 22.00 līdz 6.00, ja attiecīgā pašvaldība attiecībā uz šo laiku nav noteikusi stingrākus ierobežojumus.
+(7) Bērnam, kurš nav sasniedzis 16 gadu vecumu, aizliegts mācību laikā bez izglītības iestādes administrācijas rakstveida atļaujas atrasties interneta zālēs, datorsalonos, interneta kafejnīcās un citās tamlīdzīgās vietās, kur par maksu sniedz interneta un datorspēļu pakalpojumus.
 (8) Saskaņā ar Azartspēļu un izložu likumu bērnam nedrīkst būt pieejamas spēļu zāles un bērns nedrīkst piedalīties azartspēlēs.
 (9) Datorspēļu izplatīšanas noteikumus nosaka Ministru kabinets.
 (10) Par šajā pantā minēto aizliegumu un ierobežojumu pārkāpšanu vainīgās personas saucamas pie likumā noteiktās atbildības.

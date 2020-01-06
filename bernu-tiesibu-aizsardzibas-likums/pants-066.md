@@ -3,7 +3,7 @@
 (2) Pašvaldība atbilstoši likumam:
 1) sniedz palīdzību un atbalstu ģimenēm, kurās ir bērni, garantējot ikvienam pašvaldības teritorijā dzīvojošam bērnam pajumti, siltumu, apģērbu un vecumam un veselības stāvoklim atbilstošu uzturu;
 2) nodrošina ārpusģimenes aprūpi tiem bērniem, kuriem uz laiku vai pastāvīgi nav savas ģimenes vai kurus viņu pašu interesēs nedrīkst atstāt šajā ģimenē;
-3) nodrošina bērna tiesības iegūt vispārējo vidējo izglītību un sniedz viņiem palīdzību arodapmācībā;
+3) nodrošina bērna tiesības iegūt vispārējo vidējo izglītību un sniedz viņiem palīdzību arodizglītībā;
 4) organizē mātes un bērna primāro veselības aprūpi;
 5) organizē vecāku izglītošanu;
 6) gādā par pirmsskolas un ārpusskolas bērnu iestādēm, tautas bibliotēkām, bērnu atpūtas organizēšanu;
