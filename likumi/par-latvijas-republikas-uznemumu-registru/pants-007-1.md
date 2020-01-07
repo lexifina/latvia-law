@@ -1,4 +1,4 @@
-7.¹ pants. Pieteikumā par ieraksta izdarīšanu vai dokumentu reģistrēšanu (pievienošanu lietai) un reģistrācijas apliecībā norādāmās ziņas
+7.¹ pants. Pieteikumā par ieraksta izdarīšanu vai dokumentu reģistrēšanu (pievienošanu lietai) norādāmās ziņas
 Ieraksta izdarīšanai vai dokumentu reģistrēšanai (pievienošanai lietai) Uzņēmumu reģistra žurnālā iesniedz pieteikumu, kurā norāda ziņas atbilstoši pieteikuma būtībai:
 1) uzņēmuma (uzņēmējsabiedrības) reģistrācijas pieteikumā - ziņas, kas saskaņā ar attiecīgā uzņēmuma (uzņēmējsabiedrības) darbību regulējošiem normatīvajiem aktiem ierakstāmas Uzņēmumu reģistra žurnālā;
 2) pieteikumā par izmaiņu reģistrēšanu Uzņēmumu reģistra žurnāla ierakstos vai dokumentu reģistrēšanu (pievienošanai lietai) - ziņas par izmaiņu būtību un jaunās ziņas, kas par uzņēmumu (uzņēmējsabiedrību) ierakstāmas Uzņēmumu reģistra žurnālā;
@@ -6,4 +6,4 @@ Ieraksta izdarīšanai vai dokumentu reģistrēšanai (pievienošanai lietai) Uz
 4) pieteikumā par uzņēmuma (uzņēmējsabiedrības) likvidācijas uzsākšanu - darbības izbeigšanas pamatu, ziņas, kas par uzņēmumu (uzņēmējsabiedrību) ierakstāmas Uzņēmumu reģistra žurnālā tā darbības izbeigšanas gadījumā, un kreditoru prasījumu pieteikšanas vietu un termiņu;
 5) pieteikumā par uzņēmuma (uzņēmējsabiedrības) izslēgšanu no Uzņēmumu reģistra žurnāla - pamatojumu uzņēmuma (uzņēmējsabiedrības) vai tā filiāles izslēgšanai no Uzņēmumu reģistra žurnāla, datumu, kurā oficiālajā izdevumā "Latvijas Vēstnesis" paziņots par likvidācijas uzsākšanu, un likvidatora apliecinājumu, ka uzņēmumam (uzņēmējsabiedrībai) nav nenokārtotu parādsaistību un likvidācija veikta normatīvajos aktos noteiktajā kārtībā.
 Pieteikumam par uzņēmuma (uzņēmējsabiedrības) reorganizāciju pievieno pieteikumu par jauna uzņēmuma (uzņēmējsabiedrības) ierakstīšanu Uzņēmumu reģistra žurnālā, ja reorganizācijas rezultātā tiek dibināts jauns uzņēmums (uzņēmējsabiedrība).
-Uzņēmuma (uzņēmējsabiedrības) reģistrācijas apliecībā norāda uzņēmuma (uzņēmējsabiedrības) nosaukumu, uzņēmējdarbības formu, reģistrācijas numuru, datumu, kad uzņēmums (uzņēmējsabiedrība) reģistrēts Uzņēmumu reģistra žurnālā, reģistrācijas vietu un reģistrācijas apliecības izdošanas datumu.
+(Trešā daļa izslēgta ar 14.11.2019. likumu)

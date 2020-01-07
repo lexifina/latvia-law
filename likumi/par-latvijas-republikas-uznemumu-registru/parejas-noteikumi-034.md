@@ -1,0 +1,1 @@
+34. Līdz attiecīgu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2020. gada 10. janvārim piemērojami Ministru kabineta 2018. gada 27. marta noteikumi Nr. 191 "Noteikumi par Latvijas Republikas Uzņēmumu reģistra informācijas izsniegšanas un citiem maksas pakalpojumiem", ciktāl tie nav pretrunā ar šo likumu.

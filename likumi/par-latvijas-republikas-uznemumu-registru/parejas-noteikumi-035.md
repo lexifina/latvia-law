@@ -1,0 +1,1 @@
+35. Grozījumi šā likuma 4.¹⁰ pantā par tā papildināšanu ar divpadsmito daļu, kas nosaka ziņas par fizisko personu, kurām Uzņēmumu reģistrs nodrošina piekļuvi atvērto datu veidā, stājas spēkā 2021. gada 1. oktobrī.
