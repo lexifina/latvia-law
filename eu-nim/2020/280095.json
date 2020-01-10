@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 7. janvāra noteikumi Nr.12 \"Grozījumi Ministru kabineta 2010. gada 21. decembra noteikumos Nr. 1164 \"Ostas valsts kontroles kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-09",
+  "entry_into_force": "2020-01-10",
+  "notification_date": "2020-01-10",
+  "commission_reference": "MNE(2020)50285",
+  "nim_celex": "72017L2110LVA_280095",
+  "nim_id": "280095",
+  "transposes_celex": [
+    "32017L2110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/360cf730-391f-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
