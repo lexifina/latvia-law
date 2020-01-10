@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 7. janvāra noteikumi Nr. 9 \"Grozījumi Ministru kabineta 2002. gada 21. maija noteikumos Nr. 194 \"Izglītības programmu minimālās prasības arhitekta profesionālās kvalifikācijas iegūšanai\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "6",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-09",
+  "entry_into_force": "2020-01-10",
+  "notification_date": "2020-01-09",
+  "commission_reference": "MNE(2020)50212",
+  "nim_celex": "72005L0036LVA_280006",
+  "nim_id": "280006",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6505519a-337c-11ea-ba6e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
