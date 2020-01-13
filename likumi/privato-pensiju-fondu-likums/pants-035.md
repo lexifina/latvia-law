@@ -1,0 +1,2 @@
+35. pants. Informācijas sniegšanas kārtība
+Pensiju fonds vai citas dalībvalsts pensiju fonds, kas ir tiesīgs sniegt pakalpojumus Latvijā, šā likuma 31., 32., 33. un 34. pantā noteikto informāciju var sniegt, izmantojot jebkādus elektroniskās saziņas līdzekļus, tīmekļvietni, arī trešo personu uzturētu informācijas sistēmu valsts pārvaldes pakalpojumu portālā, vai, ja saņemts atsevišķs pensiju plāna dalībnieka vai papildpensijas saņēmēja rakstveida pieprasījums, - papīra formā.

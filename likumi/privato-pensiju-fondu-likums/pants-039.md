@@ -1,0 +1,7 @@
+39. pants. Prudenciālās uzraudzības pamatprincipi
+(1) Komisija uzrauga pensiju fonda darbības atbilstību šā likuma prasībām un informācijas sniegšanu pensiju plāna dalībniekiem un papildpensijas saņēmējiem.
+(2) Komisija nodrošina, ka šā panta pirmajā daļā noteiktās uzraudzības pamatā ir uz nākotni vērsta un uz risku izvērtēšanu balstīta pieeja.
+(3) Komisija pensiju fondu uzraudzību īsteno savlaicīgi, pārskatāmi, ievērojot ierobežotas pieejamības informācijas aizsardzības prasības. Uzraudzība ir samērīga ar pensiju fonda lielumu, veidu un darbības sarežģītību.
+(4) Komisijas pienākums ir nodrošināt profesionālu pieeju un stabilitāti pensiju fondu darbā, kā arī reģistrēto pensiju plānu dalībnieku un papildpensijas saņēmēju tiesību un likumisko interešu aizsardzību.
+(5) Komisija, veicot šajā likumā noteikto uzraudzības funkciju, izvērtē savu darbību potenciālo ietekmi uz finanšu sistēmas stabilitāti Eiropas Savienībā, īpaši ārkārtas situācijās.
+(6) Ņemot vērā pensiju fondu pārrobežu darbības raksturu, lai nodrošinātu visās dalībvalstīs vienotu uzraudzības praksi un vienveidīgu un konsekventu tieši piemērojamo Eiropas Savienības tiesību aktu piemērošanu, Komisijai ir tiesības noteikt citas pensiju fondu darbību regulējošas prasības jomās, kas izriet no Eiropas Apdrošināšanas un aroda pensiju iestādes, Eiropas Centrālās bankas vai Eiropas Banku iestādes pieņemtajiem lēmumiem, pamatnostādnēm un ieteikumiem.

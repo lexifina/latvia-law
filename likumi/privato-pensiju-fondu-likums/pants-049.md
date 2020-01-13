@@ -1,0 +1,5 @@
+49. pants. Ierobežotas pieejamības informācija
+(1) Informācija par pensiju fondu un tā pensiju plānu dalībniekiem un papildpensijas saņēmējiem, kura iepriekš nav bijusi likumā noteiktajā kārtībā publiskota vai kuras izpaušanu nenosaka citi likumi, nav izpaužama citādi kā tikai kopsavilkuma vai apkopojuma veidā tā, lai nebūtu iespējams identificēt kādu konkrētu pensiju fondu un tā pensiju plāna dalībnieku vai papildpensijas saņēmēju.
+(2) Komisijas darbinieki, ar kuriem Komisijai ir vai bija darba tiesiskās attiecības, zvērināti revidenti, Komisijas pilnvarotas personas vai citas personas, kas darbojušās Komisijas vai zvērinātu revidentu uzdevumā, ir saucamas pie atbildības atbilstoši normatīvajos aktos noteiktajam par neizpaužamas informācijas izpaušanu, izņemot šā panta pirmajā daļā noteiktos gadījumus, kad tās izpaušana ir pieļaujama.
+(3) Šā panta pirmās daļas noteikumi neattiecas uz ziņām, ko šajā pantā minētās personas sniedz šajā likumā, kā arī citos likumos noteiktajos gadījumos un kārtībā.
+(4) Ziņas par pensiju fondu drīkst sniegt tiesai, prokuratūrai un izmeklēšanas iestādei.

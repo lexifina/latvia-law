@@ -1,0 +1,3 @@
+2. pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir radīt tiesiskus priekšnoteikumus pensiju fondu darbībai, lai aizsargātu pensiju plānu dalībniekus un papildpensijas saņēmējus, nodrošinātu pensiju fondu un pensiju plānu labu pārvaldību un papildpensijas kapitāla uzkrāšanas pārredzamību un drošību.
+(2) Šis likums nosaka kārtību papildpensijas uzkrāšanai noteikto iemaksu plānā un noteikto izmaksu plānā, pensiju fondu veidus, to darbības principus, pensiju plānu veidus, pensiju plānu dalībnieku un papildpensijas saņēmēju tiesības un pienākumus, līdzekļu pārvaldīšanas kārtību, līdzekļu turētāja kompetenci, kā arī kārtību, kādā tiek veikta minēto darbību valsts uzraudzība.

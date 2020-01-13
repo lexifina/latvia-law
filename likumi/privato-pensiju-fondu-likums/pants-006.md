@@ -1,0 +1,8 @@
+6. pants. Pensiju fonda akcionāri vai dalībnieki
+(1) Par slēgta pensiju fonda akcionāriem vai dalībniekiem var būt tikai tādas personas (darba devēji), kas ar pensiju fondu noslēdz kolektīvās dalības līgumu.
+(2) Par atklāta pensiju fonda akcionāriem vai dalībniekiem var būt tikai:
+1) kredītiestāde, kura ir saņēmusi licenci kredītiestādes darbības veikšanai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī;
+2) dzīvības apdrošināšanas sabiedrība, kura ir saņēmusi licenci dzīvības apdrošināšanas veikšanai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī;
+3) ieguldījumu pārvaldes sabiedrība, kura ir saņēmusi licenci pārvaldes pakalpojumu sniegšanai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī.
+(3) Persona, kas vēlas iegādāties pensiju fonda kapitāla daļu, vismaz mēnesi pirms darījuma veikšanas par to informē Komisiju, norādot kapitāla daļu un personu, kura to pārdos. Komisija mēneša laikā pēc informācijas saņemšanas var pieprasīt lēmuma pieņemšanai nepieciešamo papildu informāciju vai aizliegt veikt šādu darījumu.
+(4) Ja pēc atklāta pensiju fonda darbības uzsākšanas tā akcionārs vai dalībnieks vairs neatbilst šā panta otrās daļas prasībām, tam piederošās kapitāla daļas atsavināmas Komerclikumā noteiktajā kārtībā. Ja neviens no atklāta pensiju fonda akcionāriem vai dalībniekiem vairs neatbilst šā panta otrās daļas prasībām, Komisija nosaka termiņu, līdz kuram akcionāriem vai dalībniekiem ir pienākums atsavināt kapitāla daļas tādai personai, kura atbilst šā panta otrajā daļā atklāta pensiju fonda akcionāriem vai dalībniekiem noteiktajām prasībām, vai nosaka citus pasākumus, kas veicami šā pensiju fonda darbības turpināšanai.

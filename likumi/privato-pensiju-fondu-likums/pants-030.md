@@ -1,0 +1,15 @@
+30. pants. Pašu riska novērtējums
+(1) Pensiju fonds atbilstoši tā apmēram un iekšējai organizācijai, kā arī ņemot vērā tā darbības raksturu, apjomu un sarežģītību, veic un dokumentē pašu riska novērtējumu, kas ietver:
+1) aprakstu par to, kā pašu riska novērtējums ir integrēts pensiju fonda pārvaldības procesā un lēmumu pieņemšanā;
+2) riska pārvaldības sistēmas efektivitātes novērtējumu;
+3) aprakstu par to, kā tiek novērsts iespējamais interešu konflikts starp pensiju fondu un darba devēju gadījumā, kad pamatfunkciju veikšana nodota ārpakalpojumā darba devējam;
+4) vispārīgu finansējuma vajadzību novērtējumu, tai skaitā finansiālā stāvokļa uzlabošanas plānu, ja tāds sagatavojams atbilstoši šā likuma 25. panta septītās un astotās daļas vai 28. panta desmitās daļas prasībām;
+5) tādu risku novērtējumu, kuriem pakļauti pensiju plāna dalībnieki un papildpensijas saņēmēji saistībā ar papildpensijas izmaksu, kā arī atbilstošu korektīvo darbību efektivitātes novērtējumu gadījumā, kad pensiju fonds garantē noteiktu ienesīgumu vai noteiktu izmaksu apjomu vai paredz biometrisko risku segumu, ņemot vērā:
+a) indeksācijas mehānismus,
+b) papildpensijas saņēmējam noteikto maksājumu garantētā pieauguma samazināšanas mehānismus, tai skaitā lēmumu pieņemšanas procesu, samazinājuma apmēru un apstākļus, kādos pieaugums var tikt samazināts;
+6) to mehānismu novērtējumu, kuri aizsargā izmaksas papildpensijas saņēmējiem, tai skaitā gadījumā, kad pensiju fonds garantē noteiktu ienesīgumu vai noteiktu izmaksu apjomu vai paredz biometrisko risku segumu garantijām, vienošanās vai cita veida finansiālam nodrošinājumam, ko sniedz darba devējs, apdrošinātājs vai pārapdrošinātājs;
+7) operacionālā riska kvalitatīvu novērtējumu;
+8) tādu jaunu vai potenciāli iespējamu risku novērtējumu, kuri varētu rasties papildus ieguldījumu politikā vērā ņemtajiem vides, sociālajiem un pārvaldības faktoriem, tai skaitā to risku novērtējumu, kuri varētu rasties klimata pārmaiņu rezultātā vai vides un resursu izmantošanas rezultātā, kā arī to sociālo risku un ar aktīvu amortizāciju saistīto risku novērtējumu, kuri varētu rasties normatīvo aktu grozījumu dēļ.
+(2) Pašu riska novērtējuma vajadzībām pensiju fonds atbilstoši tā darbībai piemītošo risku raksturam, kā arī tā darbības raksturam, apjomam un sarežģītībai nodrošina tādu metožu izmantošanu, kuras ļauj identificēt un novērtēt riskus, kam pensiju fonds ir pakļauts vai varētu tikt pakļauts īstermiņā un ilgtermiņā un kas varētu ietekmēt pensiju fonda spēju izpildīt savas saistības. Izmantoto metožu apraksts tiek iekļauts pensiju fonda sagatavotajā pašu riska novērtējumā.
+(3) Pašu riska novērtējuma rezultāti pastāvīgi tiek ņemti vērā pensiju fonda stratēģisko lēmumu pieņemšanas procesā.
+(4) Pašu riska novērtējumu veic vismaz reizi trijos gados vai nekavējoties pēc jebkurām būtiskām izmaiņām pensiju fonda vai tā izveidoto pensiju plānu riska profilā. Ja būtiskas riska profila izmaiņas skar tikai atsevišķu pensiju plānu, pensiju fonds ir tiesīgs veikt pašu riska novērtējumu tikai attiecībā uz šo pensiju plānu.

@@ -1,0 +1,5 @@
+23. pants. Līdzekļu pārvaldītāja vai līdzekļu turētāja maiņa
+(1) Ja pensiju fonds nolemj mainīt līdzekļu pārvaldītāju vai līdzekļu turētāju, tas triju darbdienu laikā pēc jaunā līguma noslēgšanas papildus šim līgumam iesniedz Komisijai šādus dokumentus:
+1) pamatotu pensiju fonda valdes lēmumu par līdzekļu pārvaldītāja vai līdzekļu turētāja maiņas nepieciešamību un valdes apstiprinātu līdzekļu pārvaldītāja vai līdzekļu turētāja maiņas kalendāra plānu;
+2) informāciju par pasākumiem pensiju plāna līdzekļu aizsardzībai līdzekļu pārvaldītāja vai līdzekļu turētāja maksātnespējas vai likvidācijas gadījumā.
+(2) Pensiju fonds mēneša laikā pēc tam, kad noslēgts jauns līgums ar līdzekļu turētāju, iesniedz Komisijai dokumentus, kas apliecina, ka jaunais līdzekļu turētājs ir saņēmis attiecīgajā pensiju plānā uzkrātos naudas līdzekļus un citus aktīvus, kā arī naudas līdzekļus un citu aktīvu īpašumtiesības apliecinošus dokumentus. Ja nepieciešams, Komisija ir tiesīga pieprasīt pensiju fonda darbības ārpuskārtas pārskatu, kas sagatavots saskaņā ar normatīvajiem aktiem, kuri regulē pensiju fondu gada pārskatu sastādīšanu, un revidenta ziņojumu.

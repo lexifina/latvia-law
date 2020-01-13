@@ -1,0 +1,4 @@
+37. pants. Līdzekļu pārvaldītāja, līdzekļu turētāja un darba devēja maksātnespēja
+(1) Ja līdzekļu pārvaldītājs vai līdzekļu turētājs ir atzīts par maksātnespējīgu un tiek uzsākta likvidācija vai ja līdzekļu pārvaldītājam vai līdzekļu turētājam anulēta attiecīgā licence, ar pensiju fonda valdes lēmumu ieceļams jauns līdzekļu pārvaldītājs vai līdzekļu turētājs un fonda aktīvi pārvedami tam.
+(2) Ja darba devējs, kas veic iemaksas, ir atzīts par maksātnespējīgu un tiek uzsākta likvidācija, darbinieku pensiju plāns un attiecīgais kolektīvās dalības līgums tiek izbeigts, ja vien jaunais darba devējs nepārņem visas iepriekšējā darba devēja tiesības un saistības. Pensiju plāna dalībnieki var turpināt dalību pensiju plānā ar jaunā darba devēja starpniecību.
+(3) Ja darba devējs, kas veic iemaksas, ir atzīts par maksātnespējīgu un tiek uzsākta likvidācija, pensiju plāna dalībnieks var pieprasīt uzkrāto līdzekļu pārskaitīšanu uz citu pensiju plānu.

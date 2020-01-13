@@ -1,0 +1,35 @@
+1. pants. Likumā lietotie termini
+(1) Likumā ir lietoti šādi termini:
+1) biometriskie riski - riski, kas saistīti ar personas nāvi, invaliditāti un ilgdzīvošanu;
+2) iemaksas veicošais darba devējs (turpmāk - darba devējs) - persona, kura ir darba devējs un veic iemaksas privātajos pensiju fondos savu darbinieku labā, vai pašnodarbinātā persona, kura veic iemaksas savā labā;
+3) iesaistītā valsts - Eiropas Savienības vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts), kura nav mītnes valsts un kurā mītnes valsts privātais pensiju fonds (turpmāk arī - pensiju fonds) sniedz savus pakalpojumus;
+4) individuālās dalības līgums - līgums, kas noslēgts starp fizisko personu un pensiju fondu par šīs fiziskās personas dalību noteiktā pensiju plānā;
+5) kolektīvās dalības līgums - līgums, kas noslēgts starp darba devēju un pensiju fondu par šā darba devēja darbinieku dalību noteiktā pensiju plānā;
+6) kompetentā institūcija - valsts institūcija, kas uzrauga privātā pensiju fonda darbības atbilstību šā likuma prasībām, vai citas dalībvalsts institūcija, kas uzrauga minētajā dalībvalstī reģistrēta vai licencēta pensiju fonda darbības atbilstību attiecīgās dalībvalsts pensiju fonda darbību regulējošiem normatīvajiem aktiem;
+7) līdzekļu pārvaldītājs - komercsabiedrība, kas pārvalda uzkrātos līdzekļus saskaņā ar pensiju plānu;
+8) līdzekļu turētājs - komercsabiedrība, kas glabā pensiju fonda aktīvus un veic citus šajā likumā un līdzekļu turētāja līgumā noteiktos pienākumus;
+9) mītnes valsts - dalībvalsts, kurā reģistrēts vai licencēts pensiju fonds un kurā tiek pieņemti pensiju fonda lēmumi;
+10) noteikto iemaksu plāns - pensiju plāns, kurā paredzētas pensiju plāna dalībnieka regulāras vai neregulāras iemaksas un kurā var paredzēt biometrisko risku segumu vai garantēt noteiktu ieguldījumu atdevi;
+11) noteikto izmaksu plāns - pensiju plāns, kurā paredzētas noteiktas papildpensijas izmaksas pensiju plāna dalībniekam pēc pensijas vecuma sasniegšanas un kurā var paredzēt biometrisko risku segumu;
+12) pamatfunkcija - pensiju fonda spēja pārvaldības ietvaros uzņemties praktiskus uzdevumus, kas ietver riska pārvaldības funkciju, iekšējā audita funkciju un aktuāra funkciju;
+13) papildpensija - saskaņā ar noteikto iemaksu plānu uzkrātais papildpensijas kapitāls vai saskaņā ar noteikto izmaksu plānu papildpensijas saņēmējam noteiktie maksājumi vai pakalpojumi. Maksājumus var noteikt kā maksājumu papildpensijas saņēmēja mūža garumā vai maksājumu noteiktā laikposmā, vai vienreizēju izmaksu, vai jebkādu minēto izmaksu veidu kombināciju;
+14) papildpensijas kapitāls - naudas līdzekļi, kas kādā noteiktā laikposmā saskaņā ar šo likumu ir uzkrāti noteikto iemaksu pensiju plāna dalībnieka labā;
+15) papildpensijas saņēmējs - persona, kura pēc pensiju plānā noteiktā vecuma sasniegšanas saņem papildpensiju;
+16) par aktuāro funkciju atbildīgā persona - pensiju fonda amatpersona, kura novērtē pensiju plānos ietvertās saistības un izveidoto tehnisko rezervju pietiekamību;
+17) pārrobežu darbība - tāda pensiju plāna pārvaldīšana, kurā attiecības starp darba devēju un pensiju plāna dalībniekiem un papildpensijas saņēmējiem nosaka normatīvie akti attiecībā uz papildpensiju jomu dalībvalstī, kas nav pensiju fonda mītnes valsts;
+18) pastāvīgs informācijas nesējs - instruments, kas pensiju plāna dalībniekam vai papildpensijas saņēmējam dod iespēju uzglabāt personiski viņam adresētu informāciju tā, lai tā būtu pieejama turpmākai izmantošanai informācijas mērķim atbilstošu laikposmu, un kas ļauj nemainītā veidā atveidot uzglabāto informāciju;
+19) pensijas vecums - pensiju plāna dalībnieka vecums, no kura šim dalībniekam ir tiesības šajā likumā noteiktajā kārtībā saņemt pensiju fondā uzkrāto papildpensiju;
+20) pensiju fonds, kurš veic nodošanu - pensiju fonds, kurš visas vai daļu no pensiju plāna saistībām, tehniskajām rezervēm un citas tiesības un pienākumus saistībā ar darba devēja iemaksām, kā arī attiecīgos aktīvus vai tiem līdzvērtīgu naudas summu nodod pensiju fondam, kas ir reģistrēts vai licencēts citā dalībvalstī;
+21) pensiju plāna dalībnieks - fiziskā persona, kura pati vai par kuru darba devējs vai cita fiziskā persona izdara iemaksas pensiju fondā un kurai ir tiesības saņemt papildpensiju atbilstoši šim likumam un pensiju plānam, bet kura nav papildpensijas saņēmējs vai potenciālais pensiju plāna dalībnieks;
+22) pensiju plāna komiteja - pensiju plāna kontroles institūcija, kas kontrolē attiecīgā pensiju plāna pārvaldību un izpildi atbilstoši kolektīvās dalības līguma noteikumiem;
+23) pensiju plāns - sistematizētu noteikumu kopums, saskaņā ar kuru pensiju fondā tiek uzkrāta papildpensija, ieguldīti un izmaksāti uzkrātie līdzekļi;
+24) potenciālais pensiju plāna dalībnieks - fiziskā persona, kura ir tiesīga kļūt par pensiju plāna dalībnieku;
+25) privātais pensiju fonds - pensiju fonds, kas ir Latvijas Republikas Uzņēmumu reģistra komercreģistrā ierakstīta kapitālsabiedrība, kuras vadība (sabiedrības sēdeklis) atrodas Latvijas Republikā un kurai Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) šajā likumā noteiktajā kārtībā ir izsniegusi licenci pensiju fonda darbībai (turpmāk - licence);
+26) riska profils - risku līmenis, kas aptver visus riskus, kam pakļauta pensiju fonda darbība, ņemot vērā to iedarbības pakāpi;
+27) saistītās personas - divas vai vairākas personas, ja tās atbilst vismaz vienai likumā "Par nodokļiem un nodevām" minētai saistītu personu pazīmei;
+28) saņēmējs pensiju fonds - pensiju fonds, kurš visas vai daļu no pensiju plāna saistībām, tehniskajām rezervēm un citas tiesības un pienākumus saistībā ar darba devēja iemaksām, kā arī attiecīgos aktīvus vai tiem līdzvērtīgu naudas summu nodod pensiju fondam, kas ir reģistrēts vai licencēts citā dalībvalstī;
+29) stresa tests - analīze, ko veic pensiju fonds, lai noteiktu un izvērtētu dažādu ārkārtēju, bet, iespējams, nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu potenciālo ietekmi uz pensiju plāna ieguldījumu portfeli;
+30) tehniskās rezerves - iespējamās pensiju fonda saistības, kas aprēķinātas atbilstoši pensiju fonda piedāvātajiem noteikto iemaksu plāniem ar garantētu ienesīgumu, noteikto izmaksu plāniem un pensiju plāniem ar paredzētu biometrisko risku segumu;
+31) vides, sociālie un pārvaldības faktori - Apvienoto Nāciju Organizācijas atbildīgas ieguldīšanas principiem atbilstoši faktori;
+32) vienā grupā ietilpstošas komercsabiedrības - komercsabiedrības, kuru finanšu pārskati konsolidējami atbilstoši starptautiskajiem grāmatvedības standartiem, kas pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002. gada 19. jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu (turpmāk - Regula Nr. 1606/2002) vai atbilstoši tādas valsts normatīvo aktu prasībām, kura nav dalībvalsts.
+(2) Šajā likumā lietotais termins "alternatīvo ieguldījumu fonds" atbilst Alternatīvo ieguldījumu fondu un to pārvaldnieku likumā lietotajam terminam, termins "ieguldījumu fonds" - Ieguldījumu pārvaldes sabiedrību likumā lietotajam terminam, bet termini "regulētais tirgus" un "tirdzniecības vieta" - Finanšu instrumentu tirgus likumā lietotajiem terminiem.

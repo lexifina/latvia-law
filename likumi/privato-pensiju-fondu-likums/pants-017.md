@@ -1,0 +1,11 @@
+17. pants. Obligātie pensiju plāna un dalības līguma nosacījumi
+(1) Kolektīvās vai individuālās dalības līgumi, kas pasliktina pensiju plāna dalībnieku stāvokli salīdzinājumā ar šajā likumā paredzēto, nav spēkā.
+(2) Ja darba devējs apņemas garantēt noteiktu izmaksu apmēru pensiju plāna papildpensijas saņēmējiem, tad pensiju plānā un kolektīvās dalības līgumā iekļauj tādu noteikumu, ka darba devējam ir pienākums veikt iemaksas savu darbinieku labā tik lielā apjomā, lai tiktu nodrošināts minēto izmaksu apmērs.
+(3) Ja darba devējs pieņem lēmumu veikt iemaksas pensiju plānā, lai nodrošinātu papildpensiju saviem darbiniekiem, šis lēmums attiecināms uz visiem darba devēja darbiniekiem atbilstoši viņu profesijai, nodarbinātības ilgumam un amatam, kā arī citiem objektīviem kritērijiem.
+(4) Jautājumi par to personu dalību, uz kurām attiecas vieni un tie paši šā panta trešajā daļā minētie objektīvie kritēriji, tiek risināti vienādi, un nav pieļaujama nekāda diskriminācija - neatkarīgi no personas rases, ādas krāsas, dzimuma, vecuma, invaliditātes, reliģiskās, politiskās vai citas pārliecības, nacionālās vai sociālās izcelsmes, mantiskā vai ģimenes stāvokļa, seksuālās orientācijas vai citiem apstākļiem.
+(5) Pensiju plāna dalībnieks, sasniedzot pensiju plānā noteikto pensijas vecumu, var rīkoties šādi:
+1) saņemt papildpensiju atbilstoši pensiju plāna noteikumiem;
+2) turpināt dalību pensiju plānā atbilstoši tā noteikumiem un individuālās vai kolektīvās dalības līgumam.
+(6) Pensiju plānā noteiktais pensijas vecums nevar būt mazāks par 55 gadiem, izņemot tādās speciālās profesijās strādājošos, kuru sarakstu un kuriem minimāli nepieciešamo nodarbinātības ilgumu attiecīgajā profesijā nosaka Ministru kabinets.
+(7) Tiesības saņemt izmaksas atbilstoši pensiju plāna noteikumiem pirms pensijas vecuma sasniegšanas ir pensiju plāna dalībniekam, kurš tiek atzīts par personu ar pirmās grupas invaliditāti uz mūžu, vai - pensiju plāna dalībnieka nāves gadījumā - personai, kuru pensiju plāna dalībnieks norādījis individuālās vai kolektīvās dalības līgumā vai citā dokumentā pēc savas izvēles pensiju fonda noteiktajā kārtībā, bet, ja tāda persona nav norādīta, - pensiju plāna dalībnieka mantiniekiem.
+(8) Pensiju plāna dalībniekam ir tiesības pārskaitīt papildpensijas kapitālu vai tā daļu uz citu pensiju plānu.

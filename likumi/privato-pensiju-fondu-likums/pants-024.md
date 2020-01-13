@@ -1,0 +1,5 @@
+24. pants. Individuālie konti
+(1) Pensiju fonds katram pensiju plāna dalībniekam nodrošina uzkrātā papildpensijas kapitāla aprēķināšanu un uzskaiti neatkarīgi no tā, vai šis dalībnieks pensiju plānā piedalās uz kolektīvās vai individuālās dalības līguma pamata. Ja pensiju fonds garantē noteiktu ienesīgumu vai noteiktu izmaksu apmēru vai paredz biometrisko risku segumu, tā valde nodrošina atsevišķu visu iemaksu un izmaksu uzskaiti, kā arī tehnisko rezervju veidošanu katram pensiju plāna dalībniekam.
+(2) Individuālajos kontos tiek reģistrētas visas pensiju fondā pensiju plāna dalībnieku un papildpensijas saņēmēju veiktās vai to labā veiktās iemaksas, kā arī visi no ieguldījumiem gūtie ienākumi, atsevišķi reģistrējot iemaksas biometrisko risku seguma nodrošināšanai.
+(3) Pensiju fonda zvērināts revidents vai zvērinātu revidentu komercsabiedrība katru gadu sniedz ziņojumu par to, vai individuālie konti tiek kārtoti saskaņā ar šā likuma un citu normatīvo aktu prasībām, pensiju fonda statūtiem, pensiju plāna un dalības līguma noteikumiem.
+(4) Uzkrātā papildpensijas kapitāla aprēķināšanas vispārīgo kārtību nosaka Komisija.
