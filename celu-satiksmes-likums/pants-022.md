@@ -7,6 +7,7 @@ c) persona ārvalstī uzturas darba saistību dēļ, bet regulāri atgriežas un
 d) personas uzturēšanās vieta ir Latvijā, bet tās uzturēšanās ārvalstīs saistīta ar mācībām;
 2) kura normatīvajos aktos noteiktajā kārtībā nokārtojusi teorētisko zināšanu un vadīšanas iemaņu pārbaudi;
 3) kura normatīvajos aktos noteiktajā kārtībā ir veikusi veselības pārbaudi un kurai nav konstatētas medicīniskas pretindikācijas transportlīdzekļu vadīšanai. Informāciju par medicīnisko pretindikāciju esamību vai neesamību Ceļu satiksmes drošības direkcijai un Valsts tehniskās uzraudzības aģentūrai sniedz ārstniecības personas, kurām ir attiecīgs ārstniecības personas sertifikāts;
+3¹) (punkts stājas spēkā 01.01.2021. un iekļauts likuma redakcijā uz 01.01.2021. Sk. Pārejas noteikumu 47. punktu);
 4) kurai noteiktā laika periodā nav liegta šo tiesību iegūšana un kurai Latvijā, citā Eiropas Savienības dalībvalstī vai Eiropas Brīvās tirdzniecības asociācijas dalībvalstī nav spēkā transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums vai nav atņemtas transportlīdzekļu vadīšanas tiesības.
 (1¹) Transportlīdzekļu vadīšanas tiesības un transportlīdzekļu vadītāja apliecību līdz sodāmības dzēšanai vai noņemšanai nevar iegūt un atgūt persona, kura sodīta par noziedzīgu nodarījumu pret satiksmes drošību saskaņā ar Krimināllikuma 262. un 262.¹ pantu.
 (1²) (Izslēgta ar 27.04.2017. likumu)
