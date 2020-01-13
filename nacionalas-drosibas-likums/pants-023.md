@@ -6,3 +6,4 @@
 (5) Valsts apdraudējuma gadījumā Ministru kabinets ir tiesīgs pieņemt lēmumu par Nacionālo bruņoto spēku iesaistīšanu sabiedriskās kārtības uzturēšanā un apdraudējuma izraisīto seku likvidēšanā.
 (6) (Izslēgta ar 17.04.2008. likumu)
 (7) Slēpta militārā apdraudējuma pārvarēšanai miera laikā, ja tiek lietoti militāri līdzekļi, Ministru kabinets var uzdot Aizsardzības ministrijai saskaņā ar Valsts aizsardzības plānu vadīt apdraudējuma pārvarēšanas pasākumus ierobežotā teritorijā. Ja Ministru kabinets ir aizkavēts pildīt savas funkcijas, par to lemj Ministru prezidents. Ja Ministru prezidents ir aizkavēts pildīt savu amatu, par to lemj aizsardzības ministrs.
+(8) Lai paaugstināta militāra apdraudējuma gadījumā uzsāktu Valsts aizsardzības plāna un Valsts aizsardzības operatīvā plāna uzdevumu izpildi, Ministru kabinets ir tiesīgs pieņemt lēmumu par zemessargu un rezerves karavīru mobilizāciju ne ilgāk kā uz 72 stundām, nekavējoties par to informējot Saeimu.
