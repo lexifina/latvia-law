@@ -1,0 +1,1 @@
+34. Līdz šā likuma 13. panta pirmās daļas 4. punktā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2020. gada 1. jūlijam piemērojami Ministru kabineta 2006. gada 6. novembra noteikumi Nr. 914 "Kārtība, kādā no psihoaktīvām vielām atkarīgās personas saņem sociālās rehabilitācijas pakalpojumus", ciktāl tie nav pretrunā ar šo likumu.

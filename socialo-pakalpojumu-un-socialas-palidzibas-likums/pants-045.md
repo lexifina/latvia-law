@@ -6,4 +6,4 @@
 3) atbalsta personas attīstības iespējas, kā arī tiesības patstāvīgi pieņemt lēmumus un tos īstenot;
 4) piesaista sociālekonomiskos resursus un attiecīgos sociālos pakalpojumus personas vai personu grupas sociālo problēmu risināšanai;
 5) nodrošina informāciju par sociālo pakalpojumu sniedzējiem un veido kontaktus starp sociālo pakalpojumu saņēmējiem un sniedzējiem.
-(3) Veicot šajā pantā minētos uzdevumus, sociālie darbinieki un karitatīvie sociālie darbinieki ievēro sociālo darbinieku ētikas kodeksu, kuru apstiprina Latvijas Profesionālo sociālo un aprūpes darbinieku asociācija.
+(3) Veicot šajā pantā minētos uzdevumus, sociālie darbinieki un karitatīvie sociālie darbinieki ievēro sociālo darbinieku ētikas kodeksu, kuru apstiprina Sociālo darbinieku biedrība.
