@@ -1,5 +1,5 @@
 25.pants. Transportlīdzekļu vadītāja pienākumi
-(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt šādiem dokumentiem, kas pēc policijas darbinieku, robežsargu vai muitas amatpersonu pieprasījuma jāiedod tiem pārbaudei:
+(1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt šādiem dokumentiem, kas pēc policijas darbinieku, robežsargu, pašvaldības transporta kontroles dienesta vai muitas amatpersonu pieprasījuma jāiedod tiem pārbaudei:
 1) vadītāja apliecība vai personu apliecinošs dokuments (transportlīdzekļa vadītājam, par kura tiesībām vadīt attiecīgās kategorijas transportlīdzekli, pārvietojoties Latvijas teritorijā, izdarīts ieraksts transportlīdzekļu un to vadītāju valsts reģistrā vai traktortehnikas un tās vadītāju valsts informatīvajā sistēmā);
 2) transportlīdzekļa reģistrācijas dokumenti, izņemot transportlīdzekļa vadītājus, kuri pārvietojas Latvijas teritorijā ar transportlīdzekļu un to vadītāju valsts reģistrā vai traktortehnikas un tās vadītāju valsts informatīvajā sistēmā reģistrētiem transportlīdzekļiem;
 3) (izslēgts ar 27.09.2007. likumu);
