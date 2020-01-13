@@ -56,4 +56,8 @@ b) radio, televīzijas un citu plašsaziņas līdzekļu nepārtraukta darba nodr
 a) mobilizācijas gatavības pārbaužu un mobilizācijas mācību plānošanas, sagatavošanas un norises kārtību,
 b) mobilizācijas gatavības pārbaužu un mobilizācijas mācību rezultātu izvērtēšanas kritērijus,
 c) mobilizācijas gatavības pārbaužu un mobilizācijas mācību plānu dokumentu veidlapu paraugus,
-d) mobilizācijas mācībās iesaistāmo tautsaimniecības resursu normas.
+d) mobilizācijas mācībās iesaistāmo tautsaimniecības resursu normas;
+14) par kārtību, kādā Aizsardzības ministrija īsteno projektu konkursus militāru vai divējāda lietojuma produktu attīstības atbalstam, nosakot:
+a) granta projektu sagatavošanas un izsludināšanas kārtību,
+b) kārtību projektu iesniegumu izvērtēšanai un lēmumu pieņemšanai par konkursu uzvarētājiem,
+c) kārtību atbalsta piešķiršanai un kontroles nodrošināšanai attiecībā uz sniegtā atbalsta izmantošanu atbilstoši tam paredzētajiem mērķiem.
