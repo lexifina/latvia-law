@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Privāto pensiju fondu likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "259A",
+  "official_journal_page": null,
+  "official_journal_date": "2019-12-30",
+  "entry_into_force": "2020-01-13",
+  "notification_date": "2025-10-10",
+  "commission_reference": "MNE(2025)05625",
+  "nim_celex": "72022L2556LVA_202505625",
+  "nim_id": "202505625",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a7ea1c9-d1d1-4b6e-98ba-719091e6dcb9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
