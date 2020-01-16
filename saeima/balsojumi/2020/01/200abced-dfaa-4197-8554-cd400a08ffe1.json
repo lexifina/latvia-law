@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada ziemas sesija",
+ "sede": 2,
+ "datums": "2020-01-16",
+ "ieraksts": {
+  "dkp_id": "5aba64fd-bbcd-48d0-98ba-568437e1f2c3",
+  "lastmodtime": "\"AAAAAAHFDc4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Linda#Anda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Liepiņa#Čakša#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "############################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #SASKAŅA # #JK#JK#SASKAŅA #JV#AP!# #JK# #SASKAŅA #JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #JV#KPV LV#NA#AP!# #KPV LV#JV#SASKAŅA #JV#KPV LV#ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA # # #ZZS#NA#SASKAŅA # #NA#SASKAŅA #ZZS# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "16.01.2020 12:08:14",
+  "VOTEMOTIVE": "Par deputāta Ata Zakatistova atsaukšanu no Budžeta un finanšu (nodokļu) komisijas (303/Lm13)",
+  "VOTING_ID": "200abced-dfaa-4197-8554-cd400a08ffe1",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "85",
+  "VOTERESULT_REGISTERED": "93",
+  "VOTE_NUMBER": "23",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada ziemas sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1fb0f0ff-2c90-4867-931e-72039dc7801f/download/13.saeimas-2020.gada-ziemas-sesija-2-vote.xml",
+  "sha256": "a2319b7de2f0abff723f83ea4e18c19fd0964030c287d7606efb5862303592c3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
