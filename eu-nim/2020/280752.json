@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 21. janvāra noteikumi Nr. 45 \"Grozījumi Ministru kabineta 2011. gada 21. jūnija noteikumos Nr. 485 \"Atsevišķu veidu bīstamo atkritumu apsaimniekošanas kārtība un prasības titāna dioksīda ražošanas iekārtu radīto emisiju ierobežošanai, kontrolei un monitoringam\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2020-01-23",
+  "entry_into_force": "2020-01-24",
+  "notification_date": "2020-02-04",
+  "commission_reference": "MNE(2020)50884",
+  "nim_celex": "72018L0851LVA_280752",
+  "nim_id": "280752",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc4f6c90-4980-11ea-b81b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
