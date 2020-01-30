@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada ziemas sesija",
+ "sede": 6,
+ "datums": "2020-01-30",
+ "ieraksts": {
+  "dkp_id": "cbd48e19-fd7a-4b48-88e9-83119b427cfa",
+  "lastmodtime": "\"AAAAAAHGMxA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Vita Anda#Jānis#Evita#Vladimirs#Jānis#Andris#Vjačeslavs#Ainars#Karina#Jānis#Anita#Normunds#Inga#Rihards#Edmunds#Uldis#Jānis#Inese#Nikolajs#Jānis#Daniels#Igors#Raivis#Juris#Evija#Jānis#Ļubova#Sandis#Kaspars#Inguna#Arvils#Rihards#Ilmārs#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Tērauda#Butāns#Zālīte-Grosa#Nikonovs#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Sprūde#Krišāns#Muižniece#Žunna#Goldberga#Kozlovskis#Teirumnieks#Augulis#Iesalnieks#Voika#Kabanovs#Ādamsons#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Švecova#Riekstiņš#Ģirģens#Rībena#Ašeradens#Kols#Dūrītis#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Dombrava#Klementjevs#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#NA#AP!#JK#JK#SASKAŅA #JK#JK#SASKAŅA #JV# #SASKAŅA #JK#JK#SASKAŅA #JV#NA#ZZS#NA#AP!#SASKAŅA #SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #JK#KPV LV# #JV#NA#AP!# #KPV LV#JV#SASKAŅA #JV#KPV LV#SASKAŅA #NA#SASKAŅA #NA#SASKAŅA #NA#ZZS#SASKAŅA #JK#ZZS#JK#SASKAŅA #KPV LV# #SASKAŅA # #NA#SASKAŅA # #NA#SASKAŅA #ZZS# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Par#Par#Pret#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Par#Nebalsoja#Nebalsoja#Par#Pret#Par#Pret#Par#Nebalsoja#Pret#Par#Nebalsoja#Pret#Par#Par#Nebalsoja#Nebalsoja#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.01.2020 16:04:49",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Krimināllikumā (572/Lp13), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "8a5bb984-396c-4d7a-b110-10d3b8881dd3",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "21",
+  "VOTERESULT_FOR": "41",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada ziemas sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9adef87e-3049-491a-b08b-fa6e74f85c22/download/13.saeimas-2020.gada-ziemas-sesija-6-vote.xml",
+  "sha256": "e5cdca4614db8421227727eff93883f5f59dc81113febeb4c574b665296be5b5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
