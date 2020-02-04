@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 4. februāra rīkojums Nr. 46 \"Par Latvijas Nacionālo enerģētikas un klimata plānu 2021.-2030. gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-11",
+  "entry_into_force": "2020-02-04",
+  "notification_date": "2020-02-12",
+  "commission_reference": "MNE(2020)51027",
+  "nim_celex": "72018L0844LVA_280966",
+  "nim_id": "280966",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e32d26de-4f01-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
