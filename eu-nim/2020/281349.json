@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Uzņēmumu ienākuma nodokļa likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "29",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-11",
+  "entry_into_force": "2020-02-12",
+  "notification_date": "2020-02-20",
+  "commission_reference": "MNE(2020)51250",
+  "nim_celex": "72017L0952LVA_281349",
+  "nim_id": "281349",
+  "transposes_celex": [
+    "32017L0952"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d72851b-547c-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
