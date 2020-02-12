@@ -11,4 +11,5 @@
 3) aizņēmumiem, kas saņemti no attīstības finanšu institūcijas;
 4) aizņēmumiem, kas saņemti no Ziemeļu Investīciju bankas, Eiropas Rekonstrukcijas un attīstības bankas, Eiropas Investīciju bankas, Eiropas Padomes un attīstības bankas un Pasaules Bankas grupas;
 5) Latvijas un citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu publiskās apgrozības parāda vērtspapīriem;
-6) aizņēmumiem, kuri tieši vai netieši saņemti no valsts finansēšanas, ārējās tirdzniecības kreditēšanas vai garantēšanas organizācijas, kas ir tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā, vai kas ir īpaši norādīta konkrētajā konvencijā par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu.
+6) aizņēmumiem, kuri tieši vai netieši saņemti no valsts finansēšanas, ārējās tirdzniecības kreditēšanas vai garantēšanas organizācijas, kas ir tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā, vai kas ir īpaši norādīta konkrētajā konvencijā par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu;
+7) aizņēmumiem, kas saņemti nacionālās nozīmes ilgtermiņa publiskās infrastruktūras projekta finansēšanai Latvijā.
