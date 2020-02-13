@@ -1,0 +1,1 @@
+1. pants. 2018. gada 20. aprīlī pieņemtie grozījumi 1972. gada 15. novembra Konvencijas par dārgmetālu izstrādājumu pārbaudi un zīmogošanu (tās 1988. gada 18. maija redakcija ar 1998. gada 25. un 26. maija, 2001. gada 9. janvāra un 2002. gada 15. oktobra grozījumiem) (turpmāk - Konvencija) I un II pielikumā ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,1 @@
+3. pants. Grozījumi Konvencijas I un II pielikumā stājas spēkā tās 11. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināmi grozījumi Konvencijas I un II pielikumā angļu valodā un to tulkojums latviešu valodā.
