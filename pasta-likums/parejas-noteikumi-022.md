@@ -1,0 +1,1 @@
+22. Šā likuma grozījums par 9. panta septītās daļas izslēgšanu, grozījums 9. panta astotajā daļā, ar kuru tiek izslēgti vārdi "šā panta septīto daļu un", kā arī 27.² panta 4.¹ daļa un XIV nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
