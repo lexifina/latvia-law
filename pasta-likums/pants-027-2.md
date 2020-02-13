@@ -5,4 +5,5 @@
 (4) Ja šā panta pirmajā daļā minētais konkurss noslēdzas bez rezultāta, Regulators:
 1) divu gadu laikā rīko atkārtotu konkursu;
 2) līdz nākamā konkursa rezultātu paziņošanai, bet ne ilgāk kā uz diviem gadiem pagarina universālā pasta pakalpojuma saistības tam pasta komersantam, kurš pildīja universālā pasta pakalpojuma saistības līdz konkursa izsludināšanas dienai.
+(4¹) (Daļa stājas spēkā 01.07.2020. un iekļauta likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 22. punktu)
 (5) Regulators paziņo Eiropas Komisijai par universālā pasta pakalpojuma sniedzēja noteikšanu.
