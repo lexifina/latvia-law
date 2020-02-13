@@ -1,11 +1,17 @@
 13.pants. Attīstības sadarbības projekta īstenošanā iesaistītās personas maksimālais atlīdzības, dienas naudas un viesnīcas (naktsmītnes) izdevumu apmērs un civilā eksperta sociālās garantijas
 (1) Attīstības sadarbības projekta īstenošanā iesaistītās personas maksimālo atlīdzības, dienas naudas un viesnīcas (naktsmītnes) izdevumu apmēru nosaka Ministru kabinets.
-(2) Ja civilais eksperts starptautiskās misijas laikā gūst savainojumus vai veselības traucējumus, Ministru kabinets, pamatojoties uz Veselības un darbspēju ekspertīzes ārstu valsts komisijas lēmumu, lemj par vienreizējas kompensācijas piešķiršanu šādā apmērā:
-1) ja civilais eksperts zaudējis līdz 20% darbspēju, - 10 civilā eksperta mēnešalgu apmērā;
-2) ja civilais eksperts zaudējis no 21% līdz 40% darbspēju, - 20 civilā eksperta mēnešalgu apmērā;
-3) ja civilais eksperts zaudējis no 41% līdz 60% darbspēju, - 30 civilā eksperta mēnešalgu apmērā;
-4) ja civilais eksperts zaudējis no 61% līdz 80% darbspēju, - 40 civilā eksperta mēnešalgu apmērā;
-5) ja civilais eksperts zaudējis no 81% līdz 100% darbspēju, - 50 civilā eksperta mēnešalgu apmērā.
-(3) Ja civilais eksperts starptautiskās misijas laikā gājis bojā, viņa laulātajam un lejupējiem, bet, ja lejupējo nav, tad tuvākās pakāpes augšupējiem radiniekiem, pamatojoties uz Ministru kabineta lēmumu, izmaksā vienreizēju kompensāciju 71 145 euro apmērā.
-(3¹) Civilajam ekspertam pēc atgriešanās no starptautiskās misijas sedz sociālās rehabilitācijas izdevumus. Kārtību, kādā civilajam ekspertam pēc atgriešanās no starptautiskās misijas sedz sociālās rehabilitācijas izdevumus, nosaka Ministru kabinets.
-(4) Civilā eksperta darba devējs pēc viņa atgriešanās no starptautiskās misijas nodrošina civilā eksperta tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
+(2) Ja civilais eksperts, pildot amata pienākumus starptautiskajā misijā vai operācijā, ir cietis nelaimes gadījumā vai gājis bojā, Ministru kabinets pieņem lēmumu par pabalsta vai kompensācijas izmaksu šādā kārtībā:
+1) ja civilais eksperts, pildot amata pienākumus starptautiskajā misijā vai operācijā, ir cietis nelaimes gadījumā un guvis ievainojumu vai sakropļojumu vai civilā eksperta veselībai nodarīts citāds kaitējums (izņemot arodslimību) un 12 mēnešu laikā pēc nelaimes gadījuma Veselības un darbspēju ekspertīzes ārstu valsts komisija viņam ir noteikusi invaliditāti uz laiku, ne mazāku par vienu gadu, un invaliditātes cēlonis ir savainojums vai veselības traucējums, kas saistīts ar civilā eksperta piedalīšanos civilajā misijā vai operācijā, izmaksājams vienreizējs pabalsts šādā apmērā:
+a) ja noteikta I invaliditātes grupa, - 71 145 euro,
+b) ja noteikta II invaliditātes grupa, - 35 573 euro,
+c) ja noteikta III invaliditātes grupa, - 14 229 euro;
+2) ja civilais eksperts, pildot amata pienākumus starptautiskajā misijā vai operācijā, ir cietis nelaimes gadījumā un guvis ievainojumu vai sakropļojumu vai civilā eksperta veselībai nodarīts citāds kaitējums (izņemot arodslimību), bet viņam nav noteikta invaliditāte, izmaksājams vienreizējs pabalsts šādā apmērā:
+a) ja ir smags veselības bojājums, - 10 000 euro,
+b) ja ir vidēji smags veselības bojājums, - 5000 euro,
+c) ja ir viegls veselības bojājums un pārejošā darba (dienesta) nespēja ilgst vairāk par sešām dienām, - 200 euro;
+3) ja civilais eksperts starptautiskās misijas vai operācijas laikā gājis bojā vai miris gada laikā pēc atgriešanās no dalības starptautiskajā misijā vai operācijā ievainojuma (sakropļojuma, kontūzijas) vai tādas slimības dēļ, kuras cēlonis saistīts ar amata pienākumu pildīšanu starptautiskajā misijā vai operācijā, civilais eksperts tiek apbedīts par valsts budžeta līdzekļiem. Viņa laulātajam un lejupējiem, bet, ja lejupējo nav, tad tuvākās pakāpes augšupējiem radiniekiem izmaksā vienreizēju kompensāciju 100 000 euro apmērā, pamatojoties uz Ministru kabineta lēmumu. Ja attiecīgajam civilajam ekspertam nav laulātā, lejupējo un tuvākās pakāpes augšupējo radinieku, Ministru kabinets lemj par minētās kompensācijas izmaksu bojāgājušā civilā eksperta tuviniekiem. Apbedīšanas izdevumu apmēru un segšanas kārtību nosaka Ministru kabinets.
+(3) Šā panta otrajā daļā minētos pabalstus neizmaksā, ja konstatē, ka nelaimes gadījuma cēlonis ir pašnāvība vai tās mēģinājums, alkohola vai citu apreibinošo vielu lietošana, normatīvo aktu pārkāpumi vai nepiedienīga rīcība.
+(3¹) (Izslēgta ar 16.01.2020. likumu)
+(4) Kārtību, kādā izmeklē un uzskaita nelaimes gadījumus, kuros cietis civilais eksperts, pildot amata pienākumus starptautiskajā misijā vai operācijā, nosaka Ministru kabinets.
+(5) Civilajam ekspertam pēc atgriešanās no starptautiskās misijas vai operācijas sedz sociālās rehabilitācijas izdevumus. Kārtību, kādā civilajam ekspertam pēc atgriešanās no starptautiskās misijas vai operācijas sedz sociālās rehabilitācijas izdevumus, nosaka Ministru kabinets.
+(6) Civilā eksperta darba devējs pēc šā eksperta atgriešanās no starptautiskās misijas vai operācijas nodrošina viņa tiesības atgriezties iepriekšējā vai līdzvērtīgā amatā.
