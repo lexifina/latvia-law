@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 11. februāra noteikumi Nr. 83 \"Grozījumi Ministru kabineta 2012. gada 15. maija noteikumos Nr. 339 \"Noteikumi par ostu formalitātēm\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "31",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-13",
+  "entry_into_force": "2020-02-14",
+  "notification_date": "2020-02-14",
+  "commission_reference": "MNE(2020)51115",
+  "nim_celex": "72017L2109LVA_281094",
+  "nim_id": "281094",
+  "transposes_celex": [
+    "32017L2109"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ffb5a211-547d-11ea-aece-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
