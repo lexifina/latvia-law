@@ -1,0 +1,1 @@
+79. Sadales sistēmas operatori, kuru sistēmai ir pieslēgti mazāk par simt tūkstošiem lietotāju, datu platformas lietošanu uzsāk ne vēlāk kā 36 mēnešu laikā pēc šā likuma 5.¹ pantā minēto Ministru kabineta noteikumu stāšanās spēkā.

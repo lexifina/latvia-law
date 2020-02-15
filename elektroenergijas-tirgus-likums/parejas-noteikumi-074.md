@@ -1,0 +1,1 @@
+74. Šā likuma 31.² panta otrās daļas 5. punkta nosacījumi un 31.³ pantā minētais pienākums attiecībā uz ražotājiem, kas izmanto šā likuma 28., 28.¹, 29. vai 30. pantā minētās tiesības, piemērojamas ar 2021. gada 1. janvāri.

@@ -1,0 +1,6 @@
+5.¹ pants. Informācijas apmaiņa
+(1) Elektroenerģijas tirgus datu apmaiņas un uzglabāšanas platforma (turpmāk - datu platforma) ir informācijas tehnoloģiju sistēma, kuras mērķis ir nodrošināt centralizētu un standartizētu elektroenerģijas tirgus datu apmaiņu un uzglabāšanu starp tirgus dalībniekiem un elektroenerģijas sistēmas operatoriem.
+(2) Datu platformas izveidošanu, uzturēšanu un pārvaldīšanu nodrošina sadales sistēmas operators, kura sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju (turpmāk - datu platformas turētājs).
+(3) Elektroenerģijas tirgotājiem un sistēmas operatoriem ir pienākums izmantot datu platformu. Elektroenerģijas tirgotāji un sistēmas operatori vienojas ar datu platformas turētāju par datu platformas izmantošanu un datu apmaiņu tajā veic pēc datu platformas turētāja izstrādāta vienota standarta. Par datu platformas izmantošanu datu apmaiņai nav piemērojama lietošanas maksa.
+(4) Datu platformas turētājam un datu platformas lietotājiem ir pienākums nodrošināt komercnoslēpuma un personas datu aizsardzību saskaņā ar normatīvo aktu prasībām.
+(5) Noteikumus par datu platformā iesniedzamo un uzturamo elektroenerģijas tirgus datu apjomu un struktūru, datu uzglabāšanas ilgumu, datu platformas turētāja, elektroenerģijas tirgus dalībnieku un sistēmas operatora tiesībām, pienākumiem un atbildību nosaka Ministru kabinets.

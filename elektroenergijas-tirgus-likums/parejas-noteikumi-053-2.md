@@ -1,0 +1,1 @@
+53.² Publiskais tirgotājs samazina šo pārejas noteikumu 53. punktā minētās izmaksas par to ieņēmumu daļu, kuru tas saņēmis, pārdodot izcelsmes apliecinājumu, kas saņemts par tādu saražotās elektroenerģijas daudzumu, kuru publiskais tirgotājs iepircis no elektroenerģijas ražotāja saskaņā ar šo pārejas noteikumu 52. punktu.

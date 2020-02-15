@@ -4,6 +4,7 @@
 1) agregators - komersants, kura komercdarbība ir pieprasījuma reakcijas pakalpojuma nodrošināšana;
 2) aizsargātais lietotājs - trūcīga vai maznodrošināta ģimene (persona), daudzbērnu ģimene vai ģimene (persona), kuras aprūpē ir bērns ar invaliditāti, vai persona ar I invaliditātes grupu, kura izlieto elektroenerģiju savā mājsaimniecībā pašas vajadzībām (galapatēriņam);
 3) aizsargātā lietotāja tirdzniecības pakalpojums - elektroenerģijas tirdzniecība aizsargātajam lietotājam;
+3¹) atbalsta periods - elektrostacijas dzīves ciklā ietilpstošs periods, kurā elektrostacija saņem valsts atbalstu elektroenerģijas ražošanai no atjaunojamiem energoresursiem vai koģenerācijā vai citu darbības atbalstu elektroenerģijas ražošanai;
 4) balansēšana - organizēts process ikbrīža līdzsvara nodrošināšanai starp elektroenerģijas patēriņu un ražošanu elektroenerģijas sistēmā;
 5) balansēšanas pakalpojums - pakalpojums, ar kuru tiek nodrošināta elektroenerģijas tirgus dalībnieka atbildība par to, lai tā pārdotās elektroenerģijas daudzums katrā tirdzniecības intervālā atbilstu sistēmā nodotās elektroenerģijas daudzumam un nopirktās elektroenerģijas daudzums atbilstu no sistēmas saņemtās elektroenerģijas daudzumam;
 6) elektroenerģijas birža - elektroenerģijas tirdzniecības vietne Latvijas Republikā, kurā tirdzniecības apgabala ietvaros vai starp atsevišķiem tirdzniecības apgabaliem ar piedāvājumu un pieprasījumu starpniecību elektroenerģijas biržas dalībnieki pērk un pārdod elektroenerģiju. Elektroenerģijas tirdzniecība ietver arī fizisku elektroenerģijas pārvadīšanu;
@@ -19,10 +20,14 @@
 16) elektroenerģijas tirdzniecība - komercdarbība, kas ietver elektroenerģijas iepirkšanu pārdošanai un elektroenerģijas pārdošanu enerģijas lietotājiem;
 17) elektroenerģijas tirgotājs - komersants (ārvalstu komersanta filiāle), kura komercdarbība ir elektroenerģijas tirdzniecība, tajā skaitā agregatora pakalpojumu sniegšana;
 18) elektroenerģijas tirgus dalībnieki - elektroenerģijas ražotāji, tirgotāji, agregatori un galalietotāji, kas darbojas elektroenerģijas tirgū saskaņā ar brīvprātīgas līdzdalības principu;
+18¹) izcelsmes apliecinājums - elektronisks dokuments, ar kuru elektroenerģijas lietotājiem pierāda, ka attiecīgais elektroenerģijas daudzums ir saražots no atjaunojamiem energoresursiem vai augstas efektivitātes koģenerācijā;
+18²) izolētas darbības tests - pārvades sistēmas darbības testēšana simulētos darbības apstākļos ierobežotā periodā, lai pārbaudītu pārvades sistēmas spēju strādāt no trešo valstu pārvades sistēmām izolētā režīmā;
 19) koģenerācija - tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
+19¹) neapliecinātās elektroenerģijas izcelsmes sastāvs - elektroenerģijas daudzums, kuru aprēķina, ņemot vērā valstī saražoto, importēto un eksportēto elektroenerģiju, un par kuru nav izsniegti izcelsmes apliecinājumi, sadalījumā pa ražošanā izmantotajiem energoresursiem;
 20) netiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā pārvadīt elektroenerģiju no viena tirdzniecības apgabala uz citu apgabalu;
 21) obligātais iepirkums - šajā likumā un citos normatīvajos aktos noteikts pienākums iepirkt elektroenerģiju;
 22) palīgpakalpojumi - pakalpojumi, kas nepieciešami elektroenerģijas pārvades sistēmas balansētas darbības nodrošināšanai, tajā skaitā pieprasījuma reakcijas pakalpojums;
+22¹) pārkompensācija - ražotāja saņemtā ar elektroenerģijas ražošanu saistītā atbalsta apmērs, kura rezultātā tiek pārsniegta noteiktā kopējā kapitālieguldījumu iekšējā peļņas norma;
 23) pieprasījuma reakcija - elektroenerģijas lietošanas profila īslaicīgas izmaiņas, kuras lietotājs apņēmies brīvprātīgi veikt, samazinot elektroenerģijas patēriņu gadījumos, kas noteikti ar agregatoru noslēgtajā līgumā, piemēram, brīžos ar augstu elektroenerģijas pieprasījumu vai augstu tirgus cenu vai tīkla pārslodzes gadījumos;
 24) pieprasījuma reakcijas pakalpojums - vairāku (dažādu) lietotāju pieprasījuma reakcijas dēļ neizlietotās elektroenerģijas apjoma apkopošana, lai pārdotu šo elektroenerģiju biržā, citiem elektroenerģijas tirgus dalībniekiem vai sistēmas operatoram;
 25) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;

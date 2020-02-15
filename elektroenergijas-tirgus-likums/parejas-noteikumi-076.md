@@ -1,0 +1,1 @@
+76. Šā likuma 28., 28.¹, 29. vai 30. pantā minētās tiesības izmantojošo ražotāju elektrostaciju kopējo kapitālieguldījumu iekšējās peļņas normas atbilstības un pārkompensācijas izvērtēšanu veic sešu mēnešu laikā pēc šā likuma 31.⁴ panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienas.

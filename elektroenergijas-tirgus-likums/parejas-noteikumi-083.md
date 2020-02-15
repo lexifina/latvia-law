@@ -1,0 +1,1 @@
+83. Elektroenerģijas ražotājiem, kuriem tiesības uz valsts atbalstu piešķirtas pirms 2020. gada 15. februāra uz laiku, kas pārsniedz 2023. gada 15. februāri, un kuriem atbalsta periods konkrētajā dienā sasniedzis 20 gadus, šo atbalstu turpina sniegt līdz 2023. gada 15. februārim.

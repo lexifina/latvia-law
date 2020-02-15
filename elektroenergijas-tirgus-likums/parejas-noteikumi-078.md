@@ -1,0 +1,1 @@
+78. Ministru kabinets izdod šā likuma 5.¹ panta piektajā daļā minētos noteikumus līdz 2020. gada 30. novembrim. Elektroenerģijas tirgotāji un elektroenerģijas sistēmas operatori uzsāk datu platformas lietošanu pēc minēto Ministru kabineta noteikumu stāšanās spēkā.

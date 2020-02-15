@@ -1,0 +1,1 @@
+72. Ministru kabinets izdod šā likuma 22. panta pirmajā daļā minētos noteikumus līdz 2020. gada 31. augustam. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2009. gada 11. augusta noteikumi Nr. 883 "Noteikumi par atļaujām elektroenerģijas ražošanas jaudu palielināšanai vai jaunu ražošanas iekārtu ieviešanai".

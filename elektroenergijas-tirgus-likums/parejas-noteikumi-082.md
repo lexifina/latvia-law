@@ -1,0 +1,1 @@
+82. Šā likuma 30.⁴ panta otrās daļas noteikums neattiecas uz tiem elektroenerģijas ražotājiem, kuriem pirms 2020. gada 15. februāra tiesības uz valsts atbalstu piešķirtas līdz 2023. gada 15. februārim.

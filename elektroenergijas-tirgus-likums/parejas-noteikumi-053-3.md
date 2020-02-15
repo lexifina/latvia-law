@@ -1,0 +1,1 @@
+53.³ Elektroenerģijas neto norēķinu sistēmu piemēro arī norēķiniem par mājsaimniecības lietotāja objektā saražotās un patērētās elektroenerģijas apjomu un tam atbilstošām šo pārejas noteikumu 53. punktā minētajām elektroenerģijas obligātā iepirkuma izmaksām.

@@ -1,0 +1,1 @@
+88. Pirmā pārbaude par šā likuma 31.³ panta nosacījuma izpildi visām elektrostacijām, kuras ražo siltumenerģiju koģenerācijas procesā un saņem atbalstu elektroenerģijas ražošanai, tiek īstenota līdz 2021. gada 1. decembrim.

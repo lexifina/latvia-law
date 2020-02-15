@@ -1,0 +1,1 @@
+91. Grozījumi šā likuma 28. panta piektajā daļā, 30. panta trešajā daļā un šo pārejas noteikumu 53. punktā par valsts budžeta dotācijas attiecināšanu uz kompensējamām izmaksām stājas spēkā 2021. gada 1. janvārī.

@@ -1,7 +1,10 @@
 33.¹ pants. Elektroenerģijas tirdzniecība aizsargātajam lietotājam
 (1) Aizsargātajam lietotājam viena elektroenerģijas tirdzniecības līguma ietvaros ir tiesības saņemt aizsargātā lietotāja tirdzniecības pakalpojumu.
-(2) Aizsargātā lietotāja tirdzniecības pakalpojuma sniegšanas, obligātā iepirkuma komponentes un sadales sistēmas pakalpojuma maksas kompensēšanas nosacījumus, kā arī finansēšanas apjomu un kārtību nosaka Ministru kabinets.
-(3) Aizsargātā lietotāja tirdzniecības pakalpojuma pasūtījumu organizē birojs, izraugoties tirgotāju, kurš nodrošina aizsargātā lietotāja tirdzniecības pakalpojuma sniegšanu ar viszemāko valsts budžeta līdzfinansējumu. Līgumu par aizsargātā lietotāja tirdzniecības pakalpojuma sniegšanu slēdz uz diviem gadiem.
-(4) Trūcīga vai maznodrošināta ģimene (persona) aizsargātā lietotāja tirdzniecības pakalpojumu saņem, ja trūcīgas vai maznodrošinātas ģimenes (personas) statuss tai piešķirts iepriekšējā kalendārajā mēnesī. Daudzbērnu ģimene, ģimene, kuras aprūpē ir bērns ar invaliditāti, vai persona ar I invaliditātes grupu aizsargātā lietotāja tirdzniecības pakalpojumu saņem kalendārā gada ietvaros. Ja ģimene (persona) atbilst vairāk nekā vienai pazīmei, kas dod tiesības saņemt aizsargātā lietotāja statusu, aizsargātā lietotāja tirdzniecības pakalpojums tai tiek sniegts atbilstoši pazīmei, kas paredz labvēlīgākos pakalpojuma saņemšanas nosacījumus.
-(5) Ministru kabinets nosaka kārtību, kādā pašvaldība aizsargātā lietotāja tirdzniecības pakalpojuma sniedzēju informē par trūcīgām vai maznodrošinātām ģimenēm (personām), kuras ir tiesīgas saņemt aizsargātā lietotāja tirdzniecības pakalpojumu.
-(6) Ministru kabinets nosaka kārtību, kādā daudzbērnu ģimene, ģimene, kuras aprūpē ir bērns ar invaliditāti, vai persona ar I invaliditātes grupu piesakās aizsargātā lietotāja tirdzniecības pakalpojuma saņemšanai, un institūcijas, kuras nodrošina informācijas sniegšanu aizsargātā lietotāja tirdzniecības pakalpojuma sniedzējam par ģimenēm (personām), kurām sniedzams aizsargātā lietotāja tirdzniecības pakalpojums, sniedzamās informācijas apjomu un termiņus.
+(2) Atbilstību aizsargātā lietotāja statusam kalendāra mēneša ietvaros pārbauda aizsargātā lietotāja datu informācijas sistēma, kuras uzturēšanas un pārziņa funkcijas veicējs ir Ministru kabineta noteiktā atbildīgā iestāde enerģētikas politikas administrēšanas jomā.
+(3) (Izslēgta ar 30.01.2020. likumu)
+(4) Ministru kabinets nosaka:
+1) aizsargātā lietotāja tirdzniecības pakalpojuma sniegšanas nosacījumus, finansēšanas un uzraudzības kārtību;
+2) kārtību, kādā aizsargātais lietotājs saņem aizsargātā lietotāja tirdzniecības pakalpojumu;
+3) kārtību, kādā aizsargātā lietotāja tirdzniecības pakalpojuma sniedzējs un iesaistītās institūcijas nodrošina informācijas apriti, apjomu, kā arī datu apstrādes noteikumus aizsargātā lietotāja datu informācijas sistēmā.
+(5) (Izslēgta ar 30.01.2020. likumu)
+(6) (Izslēgta ar 30.01.2020. likumu)

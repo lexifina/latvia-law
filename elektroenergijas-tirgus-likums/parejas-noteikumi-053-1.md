@@ -1,0 +1,1 @@
+53.¹ Publiskais tirgotājs ir tiesīgs saņemt izcelsmes apliecinājumu par tā elektroenerģijas ražotāja saražoto elektroenerģiju, kurš izmanto šo pārejas noteikumu 52. punktā minētās tiesības, ievērojot šā likuma 29.² panta nosacījumus.
