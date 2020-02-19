@@ -1,0 +1,24 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 11. februāra  noteikumi Nr. 92 \"Starptautiskās kravu loģistikas un ostu informācijas sistēmas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "35",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-19",
+  "entry_into_force": null,
+  "notification_date": "2020-02-21",
+  "commission_reference": "MNE(2020)51285",
+  "nim_celex": "72002L0059LVA_281385",
+  "nim_id": "281385",
+  "transposes_celex": [
+    "32002L0059",
+    "32009L0017",
+    "32014L0100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b0337395-5d20-11ea-8b81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
