@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada ziemas sesija",
+ "sede": 12,
+ "datums": "2020-02-20",
+ "ieraksts": {
+  "dkp_id": "eb5d4ffa-6ee4-482c-b091-bb4a89695fe1",
+  "lastmodtime": "\"AAAAAAHIiNo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Dace#Andris#Ivans#Aivars#Ivars#Jānis#Evita#Edgars#Vladimirs#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Jānis#Anita#Normunds#Inese#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Kaspars#Inguna#Ieva#Rihards#Linda#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Mārtiņš#Andrejs#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Sergejs#Dagmāra#Gundars#Krišjānis#Jānis#Linda#Janīna#Artūrs#Aldis#Janīna#Regīna#Dana",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Rukšāne-Ščipčinska#Skride#Ribakovs#Geidāns#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Krišāns#Muižniece#Žunna#Lībiņa-Egnere#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Krapāne#Kols#Ozola#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Bondars#Judins#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Liepiņa#Jalinska#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "JK#JV#JK#AP!#AP!#SASKAŅA #KPV LV#KPV LV#JK#JK#SASKAŅA #SASKAŅA #JK#JK#SASKAŅA #JV#AP!# #SASKAŅA #JK#JK#JV#KPV LV#NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #SASKAŅA #SASKAŅA #JK#KPV LV# #KPV LV#NA#JK#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#AP!#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#AP!#ZZS#SASKAŅA #JK#ZZS#JK#SASKAŅA # #ZZS#SASKAŅA # #NA#SASKAŅA #ZZS",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Pret#Nebalsoja#Nebalsoja#Pret#Par#Pret#Par#Pret#Nebalsoja#Par#Pret#Pret#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.02.2020 15:37:42",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.5. Grozījumi Izglītības likumā (408/Lp13), 2.lasījums",
+  "VOTING_ID": "cc9c4f83-5881-4ff6-a647-c2aed032e86a",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "40",
+  "VOTERESULT_FOR": "25",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "29",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada ziemas sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/31bc067a-4978-48b0-8e90-5fec8c0a4838/download/13.saeimas-2020.gada-ziemas-sesija-12-vote.xml",
+  "sha256": "7bb77aa2494ac1f895010accc16f308a903099051ee7ad05e048e9a2ea6e6d08",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
