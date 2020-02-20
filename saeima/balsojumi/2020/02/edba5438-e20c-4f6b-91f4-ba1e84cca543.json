@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada ziemas sesija",
+ "sede": 12,
+ "datums": "2020-02-20",
+ "ieraksts": {
+  "dkp_id": "b358a30f-2525-4c9d-ace8-6885f54ba076",
+  "lastmodtime": "\"AAAAAAHIWlY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Juta#Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Ivans#Aivars#Ivars#Jānis#Evita#Edgars#Vladimirs#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Ieva#Rihards#Ilmārs#Jūlija#Linda#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Mārtiņš#Raimonds#Sergejs#Dagmāra#Gundars#Krišjānis#Jānis#Ramona#Linda#Janīna#Aleksandrs#Artūrs#Aldis#Janīna#Regīna#Dana#Aldis",
+  "SURNAME": "Strīķe#Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Ribakovs#Geidāns#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Krapāne#Kols#Dūrītis#Stepaņenko#Ozola#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Staķis#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Petraviča#Liepiņa#Jalinska#Kiršteins#Rubiks#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "#######################################################################################",
+  "FRACTION": "JK#JV#JK#AP!#NA#NA#AP!#AP!#SASKAŅA #KPV LV#KPV LV#JK#JK#SASKAŅA #SASKAŅA #JK#JK#SASKAŅA #JV#AP!# #JK# #SASKAŅA #JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV# #KPV LV#NA#AP!# #JK#KPV LV#JV#SASKAŅA #JV#KPV LV#ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #AP!#ZZS#SASKAŅA #JK#ZZS#JK#SASKAŅA #KPV LV# #ZZS#NA#SASKAŅA # #NA#SASKAŅA #ZZS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Atturas#Par#Par#Atturas#Par#Atturas#Atturas#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Atturas#Par#Par#Nebalsoja#Par#Par#Par#Atturas#Par#Par#Par#Par#Atturas#Nebalsoja#Par#Atturas#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.02.2020 14:02:05",
+  "VOTEMOTIVE": "Par nekustamā īpašuma “Jaundūviņi” Limbažu pagastā, Limbažu novadā, daļu atsavināšanu sabiedrības vajadzībām – valsts reģionālā autoceļa P53 Duči–Limbaži pārbūves projekta īstenošanai (499/Lp13), 2.lasījums",
+  "VOTING_ID": "edba5438-e20c-4f6b-91f4-ba1e84cca543",
+  "VOTERESULT_ABSTAIN": "17",
+  "VOTERESULT_AGAINST": "2",
+  "VOTERESULT_FOR": "66",
+  "VOTERESULT_REGISTERED": "88",
+  "VOTE_NUMBER": "17",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada ziemas sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/31bc067a-4978-48b0-8e90-5fec8c0a4838/download/13.saeimas-2020.gada-ziemas-sesija-12-vote.xml",
+  "sha256": "7bb77aa2494ac1f895010accc16f308a903099051ee7ad05e048e9a2ea6e6d08",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
