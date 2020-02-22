@@ -5,5 +5,5 @@
 1) tā ir bez pārtraukuma reģistrēta dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā vismaz pēdējos 10 mēnešus;
 2) tā ir attiecīgās pašvaldības administratīvajā teritorijā nostrādājusi (kā darba ņēmējs vai pašnodarbinātais atbilstoši likumam "Par valsts sociālo apdrošināšanu") vismaz pēdējos četrus mēnešus;
 3) tai attiecīgās pašvaldības administratīvajā teritorijā pieder likumā noteiktajā kārtībā reģistrēts nekustamais īpašums.
-(3) Kandidāts, ievērojot šā likuma nosacījumus, Latvijas Republikā var kandidēt tikai vienā domē.
+(3) Kandidāts, ievērojot šā likuma nosacījumus, Latvijas Republikā var kandidēt tikai vienā domē. Ja kādā no pašvaldībām notiek ārkārtas vēlēšanas, citas pašvaldības deputātu var pieteikt par domes deputāta kandidātu, taču ievēlēšanas gadījumā viņš zaudē tās pašvaldības deputāta mandātu, kurā viņš bija deputāts kandidātu saraksta iesniegšanas brīdī.
 (4) Ja Eiropas Parlamenta vēlēšanas un domes vēlēšanas notiek vienlaikus, kandidāts var kandidēt tikai vienās vēlēšanās.
