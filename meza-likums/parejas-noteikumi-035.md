@@ -1,0 +1,1 @@
+35. Šā likuma XIV nodaļas jaunais nosaukums, grozījumi 50. pantā par tā pirmās daļas izslēgšanu un trešās un ceturtās daļas izteikšanu jaunā redakcijā, kā arī XV nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
