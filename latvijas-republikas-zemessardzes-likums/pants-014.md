@@ -1,7 +1,7 @@
 14.pants. Uzņemšana Zemessardzē
 (1) Zemessardzē uz brīvprātības pamata uzņem tos Latvijas pilsoņus vecumā no 18 līdz 55 gadiem:
 1) kuri atbilst aizsardzības ministra noteiktajām prasībām attiecībā uz veselības stāvokli, fizisko sagatavotību un valsts valodas zināšanām, kā arī morālajām un psiholoģiskajām īpašībām;
-2) kuri nepilda profesionālo dienestu vai dienestu Iekšlietu ministrijas sistēmas iestādēs vai Ieslodzījuma vietu pārvaldē, Satversmes aizsardzības birojā, Militārās izlūkošanas un drošības dienestā, pašvaldības policijā, prokuratūrā, Korupcijas novēršanas un apkarošanas birojā, Finanšu policijā, Muitas kriminālpārvaldē vai Latvijas Bankas Aizsardzības pārvaldē;
+2) kuri nepilda profesionālo dienestu vai dienestu Iekšlietu ministrijas sistēmas iestādēs vai Ieslodzījuma vietu pārvaldē, valsts drošības iestādē, pašvaldības policijā, ostas policijā, prokuratūrā, Korupcijas novēršanas un apkarošanas birojā, Valsts ieņēmumu dienesta nodokļu un muitas policijā vai Latvijas Bankas Aizsardzības pārvaldē;
 3) kuriem likumā nav noteikti ierobežojumi amatu savienošanai ar dienestu Zemessardzē.
 (2) Kārtību, kādā notiek uzņemšana Zemessardzē, nosaka aizsardzības ministrs.
 (3) Persona, kura vēlas iestāties Zemessardzē, no pieteikuma iesniegšanas dienas līdz dienai, kad noslēgts līgums par dienestu Zemessardzē, tiek uzskatīta par zemessarga kandidātu.
