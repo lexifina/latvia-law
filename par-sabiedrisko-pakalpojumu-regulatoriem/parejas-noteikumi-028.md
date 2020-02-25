@@ -1,0 +1,1 @@
+28. Šā likuma grozījumi par 7. panta trešās daļas papildināšanu, 10. panta ceturtās daļas un 18.¹ panta septītās daļas 4. punkta izslēgšanu, kā arī IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.

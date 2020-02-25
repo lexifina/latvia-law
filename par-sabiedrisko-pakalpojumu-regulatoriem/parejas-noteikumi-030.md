@@ -1,0 +1,1 @@
+30. Ministru kabinets līdz 2020. gada 31. martam izdod grozījumus Ministru kabineta 2009. gada 27. oktobra noteikumos Nr. 1227 "Noteikumi par regulējamiem sabiedrisko pakalpojumu veidiem", nosakot pakalpojuma veidu, kuru nepieciešams regulēt depozīta iepakojuma apsaimniekošanas nozarē.
