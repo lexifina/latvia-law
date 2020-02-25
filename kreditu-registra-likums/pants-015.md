@@ -4,6 +4,7 @@
 3) šā reģistra dalībnieka iespējamo klientu;
 4) šā reģistra dalībnieka iespējamo klienta galvinieku;
 5) personu, kurai ir būtiska līdzdalība tādā komercsabiedrībā, kura ir šā reģistra dalībnieka klients, klienta galvinieks, iespējamais klients vai iespējamais klienta galvinieks;
+5¹) personu, kura ir šā reģistra dalībnieka klienta, klienta galvinieka, iespējamā klienta vai iespējamā klienta galvinieka patiesais labuma guvējs Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē, un to apliecina Latvijas Republikas vai ārvalsts informācijas sistēmā reģistrētas ziņas vai dokumenti;
 6) komercsabiedrību, kura ir šā reģistra dalībnieka klienta, klienta galvinieka, iespējamā klienta vai iespējamā klienta galvinieka meitas sabiedrība, un uz katru nākamo šādas meitas sabiedrības meitas sabiedrību;
 7) komercsabiedrību, kurā šā reģistra dalībnieka klientam, klienta galviniekam, iespējamam klientam vai iespējamam klienta galviniekam ir būtiska līdzdalība;
 8) šā reģistra dalībnieka klienta, klienta galvinieka, iespējamā klienta vai iespējamā klienta galvinieka padomes locekli (ja padome ir izveidota) un valdes locekli;
