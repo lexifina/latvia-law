@@ -1,0 +1,14 @@
+5. pants. (1) Rīgas domes vēlēšanas notiek pirmajā sestdienā pēc diviem mēnešiem no šā likuma spēkā stāšanās dienas. Centrālā vēlēšanu komisija izsludina šīs vēlēšanas Rīgas pilsētas pašvaldībā ne vēlāk kā piektajā dienā pēc šā likuma stāšanās spēkā.
+(2) Lai nodrošinātu vēlēšanas Rīgas pilsētas pašvaldībā šā panta pirmajā daļā noteiktajā termiņā, nosakāms, ka Vēlētāju reģistra likumā minēto darbību veikšanas termiņi ir šādi:
+1) Vēlētāju reģistra likuma 7. pantā un 8. panta pirmajā daļā minētās darbības veicamas 50 dienas pirms vēlēšanām;
+2) Vēlētāju reģistra likuma 7. pantā minētā darbība - Centrālā vēlēšanu komisija informē Pilsonības un migrācijas lietu pārvaldi par visām izmaiņām ziņās par visiem izveidotajiem vēlēšanu iecirkņiem - veicama vienas dienas laikā;
+3) Vēlētāju reģistra likuma 8. panta otrajā daļā minētās darbības veicamas divu nedēļu laikā no attiecīgo ziņu saņemšanas dienas;
+4) Vēlētāju reģistra likuma 9. panta pirmajā un otrajā daļā minētās darbības veicamas 45 dienas pirms vēlēšanām, vēlētāju reģistrā iekļaujot ziņas par tiem vēlētājiem, kuriem atbilstoši Republikas pilsētas domes un novada domes vēlēšanu likumam ir tiesības vēlēt Rīgas domi;
+5) Vēlētāju reģistra likuma 12. panta pirmajā daļā minētās darbības veicamas ne vēlāk kā 35 dienas pirms vēlēšanām;
+6) Vēlētāju reģistra likuma 13. panta pirmajā un trešajā daļā minētās darbības veicamas ne vēlāk kā 30 dienas pirms vēlēšanām;
+7) Vēlētāju reģistra likuma 14. panta ceturtajā daļā minētās tiesības īstenojamas ne vēlāk kā 14 dienas pirms vēlēšanām, vēršoties Rīgas pilsētas pašvaldībā vai tās dzīvesvietas deklarēšanas iestādē. Aizdomās turētās un apsūdzētās personas, kurām kā drošības līdzeklis piemērots apcietinājums, iesniegumu par vēlēšanu iecirkņa maiņu iesniedz ieslodzījuma vietas administrācijai;
+8) Vēlētāju reģistra likuma 14. panta 4.¹ daļā minētās tiesības īstenojamas ne agrāk kā 30 dienas un ne vēlāk kā 14 dienas pirms vēlēšanām;
+9) Vēlētāju reģistra likuma 16. panta pirmajā daļā minētās darbības veicamas ne vēlāk kā piecas dienas pirms vēlēšanām;
+10) Vēlētāju reģistra likuma 17. pantā minētās darbības nav piemērojamas.
+(3) Lai nodrošinātu vēlēšanas Rīgas pilsētas pašvaldībā šā panta pirmajā daļā noteiktajā termiņā, nosakāms, ka Republikas pilsētas domes un novada domes vēlēšanu likuma 15. panta ceturtajā daļā minēto darbību veikšanas termiņš ir no trīsdesmit sestās dienas līdz trīsdesmitajai dienai pirms vēlēšanu dienas. Republikas pilsētas domes un novada domes vēlēšanu likuma 15. panta septītajā daļā minētās darbības - kandidātu saraksta un tam pievienojamo dokumentu sagatavošana - veicamas, izmantojot Centrālās vēlēšanu komisijas lietojumprogrammu vai Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(4) Lai nodrošinātu vēlēšanas Rīgas pilsētas pašvaldībā šā panta pirmajā daļā noteiktajā termiņā, uz tām attiecināmi Politisko organizāciju (partiju) finansēšanas likuma 8.² panta 2.¹ daļas nosacījumi.

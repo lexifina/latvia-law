@@ -1,0 +1,1 @@
+4. pants. Pagaidu administrācijas vadītājam, pagaidu administrācijas vadītāja vietniekam un pagaidu administrācijas loceklim ir atļauts savienot savus amatus ar amatiem, kurus viņi ieņem institūcijās, no kurām deleģēti.

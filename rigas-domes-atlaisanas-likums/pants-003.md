@@ -1,0 +1,1 @@
+3. pants. Pagaidu administrācija pilda normatīvajos aktos noteiktās vietējās pašvaldības domes funkcijas un nodrošina pašvaldības institūciju darba nepārtrauktību, kā arī finansiālo un saimniecisko darbību. Pagaidu administrācijas vadītājs pilda normatīvajos aktos Rīgas domes priekšsēdētājam noteiktos pienākumus.
