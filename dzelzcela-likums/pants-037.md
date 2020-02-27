@@ -6,3 +6,4 @@
 (5) Attiecībā uz vilces līdzekļa vadītāju (mašīnistu) nepiemēro šā panta otrās daļas nosacījumus, bet piemēro šā likuma 37.¹ pantu.
 (6) Ministru kabinets nosaka tās dzelzceļa speciālistu profesijas, kurās nodarbinātajiem tiek nodrošināta papildpensijas uzkrājumu veidošana privātajos pensiju fondos vai dzīvības apdrošināšanā ar līdzekļu uzkrāšanu.
 (7) Darba devējs, kas ir pārvadātājs, dzelzceļa infrastruktūras pārvaldītājs, apkalpes vietas operators vai šā likuma 3.panta 5.punktā minētā persona, veic iemaksas privātajos pensiju fondos vai prēmiju iemaksas dzīvības apdrošināšanā ar līdzekļu uzkrāšanu šā panta sestajā daļā minēto dzelzceļa speciālistu profesijās nodarbināto labā. Darba devēja iemaksu vai prēmiju apmēru, regularitāti un vecumu, kādā izmaksā papildpensiju vai dzīvības apdrošināšanas atlīdzību, nosaka darba koplīgumā.
+(8) (Daļa stājas spēkā 16.06.2020. un iekļauta likuma redakcijā uz 16.06.2020. Sk. Pārejas noteikumu 56. punktu)
