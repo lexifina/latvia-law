@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Dzelzceļa likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-26",
+  "entry_into_force": "2020-02-27",
+  "notification_date": "2020-02-28",
+  "commission_reference": "MNE(2020)51471",
+  "nim_celex": "72016L0798LVA_281635",
+  "nim_id": "281635",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/79050662-5f7b-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
