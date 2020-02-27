@@ -3,4 +3,5 @@
 2) no 2016.gada 1.marta līdz 2017.gada 28.februārim - 4,2 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 7,8 euro par 100 litriem alus;
 3) no 2017.gada 1.marta līdz 2018.gada 28.februārim - 4,5 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 8,2 euro par 100 litriem alus;
 4) no 2018. gada 1. marta līdz 2019. gada 28. februārim - 6,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 12,5 euro par 100 litriem alus;
-5) no 2019. gada 1. marta līdz 2020. gada 29. februārim - 7,4 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 13,6 euro par 100 litriem alus.
+5) no 2019. gada 1. marta līdz 2020. gada 29. februārim - 7,4 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 13,6 euro par 100 litriem alus;
+6) no 2020. gada 1. marta līdz 2021. gada 28. februārim - 7,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 14,4 euro par 100 litriem alus.

@@ -4,4 +4,5 @@
 3) no 2017.gada 1.marta līdz 2018.gada 28.februārim - 1450 euro par 100 litriem absolūtā spirta;
 4) no 2018. gada 1. marta līdz 2019. gada 28. februārim - 1670 euro par 100 litriem absolūtā spirta;
 5) no 2019. gada 1. marta līdz 2019. gada 31. jūlijam - 1840 euro par 100 litriem absolūtā spirta;
-6) no 2019. gada 1. augusta līdz 2020. gada 29. februārim - 1564 euro par 100 litriem absolūtā spirta.
+6) no 2019. gada 1. augusta līdz 2020. gada 29. februārim - 1564 euro par 100 litriem absolūtā spirta;
+7) no 2020. gada 1. marta līdz 2021. gada 28. februārim - 1642 euro par 100 litriem absolūtā spirta.

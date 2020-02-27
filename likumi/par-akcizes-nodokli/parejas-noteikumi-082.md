@@ -1,1 +1,1 @@
-82. Šā likuma 12. panta pirmās daļas 3. punkta "b" apakšpunktā noteikto nodokļa likmi raudzētajiem dzērieniem ar absolūtā spirta saturu virs 6 tilpumprocentiem (111 euro par 100 litriem) piemēro ar 2020. gada 1. martu.
+82. Šā likuma 12. panta pirmās daļas 3. punkta "b" apakšpunktā noteikto nodokļa likmi raudzētajiem dzērieniem ar absolūtā spirta saturu virs 6 tilpumprocentiem (111 euro par 100 litriem) piemēro ar 2021. gada 1. martu.
