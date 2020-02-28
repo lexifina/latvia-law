@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 25. februāra noteikumi Nr. 112 \"Grozījumi Ministru kabineta 2010. gada 2. februāra noteikumos Nr. 103 \"Transportlīdzekļu vadītāja tiesību iegūšanas un atjaunošanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas, atjaunošanas un iznīcināšanas kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "41",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-27",
+  "entry_into_force": "2020-02-28",
+  "notification_date": "2020-03-03",
+  "commission_reference": "MNE(2020)51538",
+  "nim_celex": "72015L0653LVA_281714",
+  "nim_id": "281714",
+  "transposes_celex": [
+    "32015L0653"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/eb3ec6ee-5f7a-11ea-b735-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
