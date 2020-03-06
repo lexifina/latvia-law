@@ -21,7 +21,7 @@
 10) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 11) personas, kuras veic algotos pagaidu sabiedriskos darbus;
 12) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
-13) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja laulātais.
+13) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais.
 (5) Papildus šā panta pirmajā daļā minētajām personām apdrošināšanai pret bezdarbu ir pakļautas:
 1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu un saņem bērna kopšanas pabalstu;
@@ -31,7 +31,7 @@
 6) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 7) personas, kuru laulātais (kam piešķirts diplomātiskais rangs saskaņā ar Diplomātiskā un konsulārā dienesta likumu) pilda diplomātisko un konsulāro dienestu ārvalstīs un kuras uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais;
 8) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
-9) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja laulātais.
+9) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais.
 (5¹) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām invaliditātes apdrošināšanai ir pakļautas personas, kuras:
 1) saņem maternitātes vai paternitātes pabalstu;
 2) kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
