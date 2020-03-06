@@ -1,0 +1,5 @@
+64. pants. Pieteikums preču zīmes reģistrācijas atcelšanai, tā izskatīšana un sekas
+(1) Prasības pieteikumu tiesā preču zīmes reģistrācijas atcelšanai var iesniegt jebkura ieinteresētā persona visā preču zīmes reģistrācijas spēkā esības laikā vai arī pēc tam, ja lietas apstākļi atbilst šā likuma 63. panta sestajā daļā minētajiem.
+(2) Persona, kuras celtā prasība par preču zīmes reģistrācijas atcelšanu tiesā apmierināta pilnībā vai daļēji, iesniedz Patentu valdei tiesas sprieduma norakstu.
+(3) Patentu valde izdara Reģistrā ierakstu par preču zīmes reģistrācijas atcelšanu vai grozījumiem reģistrācijas ziņās ar spriedumā norādīto dienu, publicē attiecīgu paziņojumu savā oficiālajā izdevumā, kā arī paziņo par to iesniedzējam un preču zīmes īpašniekam (bijušajam īpašniekam).
+(4) Ja ar spēkā stājušos nolēmumu pilnībā vai daļēji atcelta tāda Latvijā izdarīta preču zīmes reģistrācija vai starptautiski reģistrētas preču zīmes reģistrācijas attiecinājums uz Latviju, kas bija pamatā Eiropas Savienības preču zīmes senioritātes pieprasījumam (šā likuma 84. panta otrā daļa), Patentu valde nekavējoties par to paziņo Eiropas Savienības Intelektuālā īpašuma birojam.

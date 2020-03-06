@@ -1,0 +1,1 @@
+5. Ja atbilstoši šā likuma 87. panta otrajai daļai reģistrācijas pieteikuma pamatā ir iesniegums par konversiju, bet attiecīgā Kopienas preču zīme ir reģistrēta vai pieteikta reģistrācijai pirms 2004. gada 1. maija, par šāda reģistrācijas pieteikuma datumu Latvijā uzskata 2004. gada 1. maiju un Kopienas preču zīmei piešķirto prioritāti neņem vērā.

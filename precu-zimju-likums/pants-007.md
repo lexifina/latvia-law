@@ -1,0 +1,8 @@
+7. pants. Agrāka preču zīme kā relatīvais pamats reģistrācijas atzīšanai par spēkā neesošu
+(1) Preču zīmes reģistrāciju var atzīt par spēkā neesošu, ja:
+1) šī preču zīme ir identiska citas personas agrākai preču zīmei un preces vai pakalpojumi, kuriem tā reģistrēta, ir identiski precēm vai pakalpojumiem, kuriem ir reģistrēta agrākā preču zīme;
+2) sakarā ar šīs preču zīmes identiskumu vai līdzību citas personas agrākai preču zīmei un attiecīgo preču vai pakalpojumu identiskumu vai līdzību pastāv iespēja, ka attiecīgie patērētāji minētās preču zīmes sajauc vai uztver kā savstarpēji saistītas.
+(2) Agrāka preču zīme šā panta pirmās daļas izpratnē ir:
+1) preču zīme, kas reģistrēta Latvijā vai attiecībā uz Latviju reģistrēta starptautiskās reģistrācijas procedūrā, vai Eiropas Savienības preču zīme, ja tās reģistrācijas pieteikuma datums ir agrāks par apstrīdētās preču zīmes reģistrācijas pieteikuma datumu, ņemot vērā arī šīm preču zīmēm pamatoti pieprasīto prioritāti;
+2) Eiropas Savienības preču zīme, kuras reģistrācijas pieteikuma datums ir vēlāks, bet senioritātes datums - agrāks par apstrīdētās preču zīmes reģistrācijas pieteikuma datumu, ja tās senioritāte no preču zīmes, kas reģistrēta Latvijā, vai no preču zīmes, kura attiecībā uz Latviju reģistrēta starptautiskās reģistrācijas procedūrā, pieprasīta pamatoti, pat ja tās preču zīmes reģistrācija, no kuras pieprasīta senioritāte, ir dzēsta pēc īpašnieka iniciatīvas vai sakarā ar tās spēkā esības termiņa izbeigšanos;
+3) šā panta otrās daļas 1. vai 2. punktā minētā reģistrācijai pieteiktā preču zīme (iesniegtais preču zīmes reģistrācijas pieteikums), ja tā tiek reģistrēta.

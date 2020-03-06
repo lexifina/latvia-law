@@ -1,0 +1,7 @@
+11. pants. Ierobežojumi reģistrācijas atzīšanai par spēkā neesošu
+(1) Attiecīgais iesniegums Rūpnieciskā īpašuma apelācijas padomē vai prasības pieteikums tiesā par preču zīmes reģistrācijas atzīšanu par spēkā neesošu, kas pamatots ar agrāku preču zīmi, netiek apmierināts, ja tas netiktu apmierināts vēlākās preču zīmes reģistrācijas pieteikuma datumā vai - attiecīgā gadījumā - prioritātes datumā, jo:
+1) agrākās preču zīmes īpašnieks nav pierādījis, ka viņa preču zīme, kuru sākotnēji varētu atzīt par spēkā neesošu saskaņā ar šā likuma 6. panta pirmās daļas 2., 3. vai 4. punktu, minētajā datumā tās lietošanas rezultātā bija ieguvusi atšķirtspēju attiecībā uz reģistrācijai pieteiktajām precēm vai pakalpojumiem;
+2) agrākās preču zīmes īpašnieks pamatojas uz šā likuma 7. panta pirmās daļas 2. punktu, bet nav pierādījis, ka viņa preču zīme minētajā datumā tās lietošanas rezultātā bija ieguvusi pietiekamu atšķirtspēju, lai būtu pamats atzīt preču zīmju sajaukšanas vai savstarpējās saistības iespēju;
+3) agrākās preču zīmes īpašnieks pamatojas uz šā likuma 8. panta noteikumiem, bet nav pierādījis, ka viņa preču zīme minētajā datumā bija ieguvusi plašu pazīstamību Latvijā;
+4) agrākās preču zīmes īpašnieks pamatojas uz šā likuma 9. panta noteikumiem, bet nav pierādījis, ka viņa preču zīme minētajā datumā bija ieguvusi pietiekamu reputāciju.
+(2) Tiesa šā panta pirmās daļas 1. un 2. punktu piemēro pēc vēlākās preču zīmes īpašnieka motivētas rakstveida ierunas.

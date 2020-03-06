@@ -1,0 +1,4 @@
+15. pants. Izņēmuma tiesības aizliegt sagatavošanas darbības attiecībā uz iepakojuma vai citu līdzekļu lietošanu
+Ja pastāv risks, ka iepakojums, etiķetes, birkas, drošības vai autentiskuma elementi vai ierīces vai citi līdzekļi, kuri ir marķēti ar preču zīmi, tiks lietoti saimnieciskajā apritē saistībā ar precēm vai pakalpojumiem un šāds lietojums būs pretrunā ar preču zīmes īpašnieka tiesībām, kas minētas šā likuma 14. panta pirmajā un otrajā daļā, reģistrētas preču zīmes īpašnieks ir tiesīgs aizliegt arī šādas darbības:
+1) marķēt ar apzīmējumu, kas ir identisks vai līdzīgs preču zīmei, iepakojumu, etiķetes, birkas, drošības vai autentiskuma elementus vai ierīces vai jebkādus citus līdzekļus, kurus iespējams marķēt ar preču zīmi;
+2) piedāvāt, laist tirgū, uzglabāt šādiem nolūkiem, importēt vai eksportēt iepakojumu, etiķetes, birkas, drošības vai autentiskuma elementus vai ierīces vai jebkādus citus līdzekļus, kuri ir marķēti ar šādu apzīmējumu.

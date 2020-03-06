@@ -1,0 +1,4 @@
+90. pants. Civiltiesiskā atbildība par ģeogrāfiskās izcelsmes norādes nelikumīgu izmantošanu
+(1) Par tiesību uz ģeogrāfiskās izcelsmes norādi pārkāpumu atzīstama apzīmējumu lietošana saimnieciskajā apritē pretēji šā likuma 88. panta trešās, ceturtās un piektās daļas noteikumiem.
+(2) Prasību par tiesību uz ģeogrāfiskās izcelsmes norādi pārkāpuma novēršanu var celt ieinteresētā persona, tostarp profesionālā, ražotāju, tirdzniecības vai pakalpojumu sniedzēju apvienība, kuras statūtos ir paredzēta apvienības biedru ekonomisko interešu aizsardzība, valsts, pašvaldība, kā arī institūcijas un organizācijas, kuras īsteno patērētāju tiesību aizsardzību.
+(3) Lietā par tiesību uz ģeogrāfiskās izcelsmes norādi pārkāpuma novēršanu ir piemērojami tie paši tiesiskās aizsardzības līdzekļi, kādi paredzēti, ja tiek pārkāptas tiesības uz preču zīmi.

@@ -1,0 +1,4 @@
+75. pants. Grozījumu izdarīšana sertifikācijas zīmes lietošanas nolikumā
+(1) Par visiem vēlākajiem grozījumiem sertifikācijas zīmes lietošanas nolikumā, izņemot grozījumus to personu un produkcijas vai pakalpojumu sarakstā, attiecībā uz kuriem ir tiesības lietot sertifikācijas zīmi, ja tas ir publiski pieejams tīmekļvietnē, sertifikācijas zīmes īpašnieks nekavējoties paziņo Patentu valdei, samaksājot noteikto maksu par grozījumiem sertifikācijas zīmes lietošanas nolikumā mēneša laikā no iesnieguma iesniegšanas dienas.
+(2) Pieteiktos grozījumus Patentu valde dara pieejamus savā tīmekļvietnē, izņemot gadījumu, kad tie neatbilst šā likuma 73. panta noteikumiem.
+(3) Grozījumi sertifikācijas zīmes lietošanas nolikumā attiecībā uz citām personām stājas spēkā dienā, kad paziņojums par grozījumiem publicēts Patentu valdes oficiālajā izdevumā.

@@ -1,0 +1,3 @@
+76. pants. Sertifikācijas zīmes izmantošana
+(1) Izmantošanas noteikumus šā likuma 26. panta izpratnē attiecībā uz sertifikācijas zīmi uzskata par izpildītiem, ja sertifikācijas zīmi kādā no šā likuma 26. panta ceturtajā vai piektajā daļā paredzētajiem veidiem un saskaņā ar normatīvo aktu, kas detalizēti regulē attiecīgās sertifikācijas procedūras, vai ar sertifikācijas zīmes lietošanas nolikumu faktiski izmanto vismaz viena no personām, kurām ir tiesības to lietot.
+(2) Tiesības uz sertifikācijas zīmi var nodot tikai tādai personai, kas atbilst šā likuma 72. panta ceturtās daļas prasībām un ir apņēmusies ievērot normatīvo aktu par attiecīgās sertifikācijas procedūras vai sertifikācijas zīmes lietošanu.

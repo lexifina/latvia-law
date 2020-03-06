@@ -1,0 +1,3 @@
+85. pants. Eiropas Savienības preču zīmes aizsardzības papildu noteikumi
+(1) Ja tiek pārkāptas tiesības uz Eiropas Savienības preču zīmi, piemērojami šā likuma VI nodaļas un citu normatīvo aktu noteikumi, ciktāl regulā (ES) 2017/1001 nav noteikts citādi.
+(2) Ja, pamatojoties uz tiesībām, kas izriet no Eiropas Savienības preču zīmes reģistrācijas, tiek apstrīdēta vēlākas preču zīmes reģistrācija, kas izdarīta šajā likumā noteiktajā preču zīmes reģistrācijas kārtībā vai saskaņā ar starptautiskās reģistrācijas noteikumiem un attiecas uz Latviju, ņem vērā šā likuma 12. panta noteikumus par tiesību ierobežojumiem samierināšanās dēļ.

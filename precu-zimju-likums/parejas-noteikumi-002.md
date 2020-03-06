@@ -1,0 +1,1 @@
+2. Preču zīmēm, kuras pieteiktas reģistrācijai Patentu valdē vai kuru starptautiskā reģistrācija attiecās uz Latviju pirms šā likuma spēkā stāšanās, piemēro to preču zīmju reģistrācijas kārtību un tos preču zīmju reģistrācijas priekšnoteikumus, kas bija spēkā dienā, kurā iesniegts reģistrācijas pieteikums vai ar kuru uz Latviju attiecas preču zīmes starptautiskā reģistrācija.

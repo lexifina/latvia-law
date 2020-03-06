@@ -1,0 +1,2 @@
+VIII nodaļa
+Kolektīvā zīme

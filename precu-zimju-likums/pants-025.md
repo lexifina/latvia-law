@@ -1,0 +1,3 @@
+25. pants. Tiesību izsmelšana
+(1) Preču zīmes īpašnieks nav tiesīgs aizliegt lietot savu preču zīmi saistībā ar precēm, kuras tirgū Eiropas Ekonomikas zonā ar šo preču zīmi laidis viņš pats vai cita persona ar viņa piekrišanu.
+(2) Šā panta pirmās daļas noteikumus nepiemēro, ja preču zīmes īpašniekam ir pamatoti iemesli nepieļaut minēto preču tālāku apriti peļņas nolūkos, īpaši tad, ja šo preču kvalitāte pēc to laišanas tirgū ir mainījusies vai preces ir bojātas, vai tālākpārdevējs rada iespaidu, ka tas un preču zīmes īpašnieks ir ekonomiski saistīti, vai ja preču zīmes izmantošana nopietni apdraud tās reputāciju.

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par preču zīmēm un ģeogrāfiskās izcelsmes norādēm" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1999, 14. nr.; 2001, 23. nr.; 2004, 23. nr.; 2007, 6. nr.; Latvijas Vēstnesis, 2010, 174. nr.; 2014, 140., 251. nr.; 2015, 240. nr.).

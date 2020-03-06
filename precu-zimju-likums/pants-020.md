@@ -1,0 +1,3 @@
+20. pants. Preču zīmes atveidošana uzziņu krājumos
+(1) Ja reģistrētas un spēkā esošas preču zīmes atveidojums vārdnīcā, enciklopēdijā vai citā drukātā vai elektroniskā uzziņu krājumā rada iespaidu, ka tas ir sugasvārds (vispārīgs jēdziens) attiecībā uz precēm vai pakalpojumiem, kuriem preču zīme reģistrēta, pēc preču zīmes īpašnieka pieprasījuma uzziņu krājuma izdevējs (publicētājs) nodrošina, lai preču zīmes atveidojumam elektroniskā uzziņu krājumā nekavējoties, bet drukātā materiālā - ne vēlāk kā nākamajā krājuma izdevumā būtu pievienota norāde, ka tā ir reģistrēta preču zīme.
+(2) Ja izdevējs šā panta pirmajā daļā norādītajā termiņā minēto norādi nepievieno, to var atzīt par personu, kuras pakalpojumi tiek izmantoti, lai pārkāptu tiesības uz preču zīmi.

@@ -1,0 +1,4 @@
+51. pants. Tiesību uz preču zīmi pārkāpuma novēršana
+(1) Prasība par tiesību uz preču zīmi pārkāpuma novēršanu ir prasība par tās celšanas laikā notiekoša pārkāpuma izbeigšanu, pagātnē notikuša pārkāpuma atkārtošanās riska novēršanu, ar pārkāpumu nodarītā kaitējuma novēršanu (atlīdzināšanu) vai nākotnē ticami iespējama pārkāpuma novēršanu.
+(2) Prasību par tiesību uz preču zīmi pārkāpuma novēršanu var iesniegt preču zīmes īpašnieks vai licenciāts ar preču zīmes īpašnieka rakstveida piekrišanu. Preču zīmes īpašnieka piekrišana nav nepieciešama izņēmuma licenciātam, ja tas rakstveidā uzaicinājis preču zīmes īpašnieku celt prasību, bet preču zīmes īpašnieks to saprātīgā termiņā nav izdarījis.
+(3) Jebkurš attiecīgās preču zīmes licenciāts ir tiesīgs iestāties lietā un ar patstāvīgu prasījumu prasīt atlīdzību par kaitējumu, kas tam nodarīts ar tiesību uz licencēto preču zīmi pārkāpumu.
