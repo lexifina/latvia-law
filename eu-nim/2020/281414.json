@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Preču zīmju likums.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2020-02-21",
+  "entry_into_force": "2020-03-06",
+  "notification_date": "2020-02-24",
+  "commission_reference": "MNE(2020)51294",
+  "nim_celex": "72015L2436LVA_281414",
+  "nim_id": "281414",
+  "transposes_celex": [
+    "32015L2436"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/88d2473f-5d20-11ea-8b81-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
