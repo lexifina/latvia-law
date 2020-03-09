@@ -13,7 +13,7 @@ Likumā ir lietoti šādi termini:
 11) glabāšana - ieroču, munīcijas, to sastāvdaļu un speciālo līdzekļu turēšana atļautā vietā, ievērojot noteiktās drošības prasības;
 12) gludstobra šaujamierocis - šaujamierocis, kuram ir gludas vismaz divas trešdaļas no stobra urbuma garuma, skaitot no patrontelpas;
 13) iegādāšanās - ieroču, munīcijas, to sastāvdaļu un speciālo līdzekļu iegūšana īpašumā vai valdījumā;
-14) ierocis - priekšmets vai mehānisms, kas speciāli radīts dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai;
+14) ierocis - priekšmets vai mehānisms, kas speciāli radīts dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai vai arī salūtpatronu, kairinošu vielu, citu aktīvu vielu vai pirotehniskas signālmunīcijas izšaušanai;
 15) ieroča dezaktivēšana - šaujamieroča padarīšana par nederīgu šāviena izdarīšanai tā, ka visas šaujamieroča būtiskās sastāvdaļas ir kļuvušas neatgriezeniski nelietojamas un nav noņemamas, aizvietojamas vai maināmas tā, ka tas ļautu šaujamieroci jebkādā veidā padarīt derīgu šaušanai, vai lielas enerģijas pneimatiskā ieroča padarīšana par nederīgu šāviena izdarīšanai;
 16) ieroča pārvadāšana - nepielādēta un atsevišķi no munīcijas iesaiņota ieroča pārvadāšana, pārnēsāšana vai citāda pārvietošana sev līdzi tādā veidā, ka tā pielietošana nav iespējama;
 17) ieroča remonts - ieroča defektu novēršana vai ieroča pielāgošana īpašnieka individuālajām vajadzībām;
@@ -29,7 +29,7 @@ Likumā ir lietoti šādi termini:
 27) marķēšana - tādu īpašu atzīmju vai numuru iestrādāšana uz ieroča, tā būtiskajām sastāvdaļām un munīcijas, kas ļauj to atšķirt no citiem ieročiem, to sastāvdaļām un munīcijas;
 28) mazas enerģijas pneimatiskais ierocis - pneimatiskais ierocis, kura šāviņa sākumenerģija nepārsniedz 12 džoulus;
 29) militārais ierocis un speciālais līdzeklis - speciāli militārajām vajadzībām ražots ierocis un speciālais līdzeklis, kas iekļauts Eiropas Savienības Kopējā militāro preču sarakstā un paredzēts dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai, kā arī šā ieroča un speciālā līdzekļa munīcija, sastāvdaļas un palīgierīces;
-30) munīcija - priekšmeti, kas konstruktīvi izgatavoti šāviena izdarīšanai un paredzēti dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai;
+30) munīcija - priekšmeti, kas konstruktīvi izgatavoti šāviena izdarīšanai, izšaujot ar ieroci;
 31) nēsāšana - pielietošanai gatava ieroča vai speciālā līdzekļa pārnēsāšana sev līdzi ārpus glabāšanas vietas;
 32) pārsūtīšana - ieroču, munīcijas, to sastāvdaļu un speciālo līdzekļu pārvietošana pa pastu, ar bagāžu vai ar trešo personu starpniecību;
 33) patrona - šaujamieroča vai gāzes ieroča munīcija (ar šāviņu vai bez tā), kurā vienā veselumā apvienots šaujampulveris vai cits propelents, aizdedzināšanas ierīce (kapsele) un čaula (var nebūt);

@@ -32,5 +32,5 @@ b) garstobra šaujamieroči, ar kuriem var izšaut vairāk nekā 11 patronas bez
 6) šaujamieroči, kuri klasificēti A vai B kategorijā vai šajā kategorijā un dezaktivēti saskaņā ar Komisijas 2015. gada 15. decembra īstenošanas regulu (ES) 2015/2403, ar ko izstrādā kopīgas pamatnostādnes par dezaktivēšanas standartiem un metodēm, lai nodrošinātu, ka dezaktivētie šaujamieroči tiek padarīti neatgriezeniski neizmantojami (turpmāk - regula 2015/2403);
 7) viena šāviena garstobra-gludstobra šaujamieroči.
 (6) D kategorijas ieroči ir lielas enerģijas pneimatiskie ieroči.
-(7) E kategorijas ieroči ir gāzes ieroči un signālieroči, kurus nevar pārveidot šaušanai ar lodi vai daudzkomponentu šāviņu izsviešanai no stobra kanāla šaujampulvera vai cita propelenta iedarbības rezultātā.
+(7) E kategorijas ieroči ir gāzes ieroči un signālieroči, kuri atbilst Ministru kabineta noteikumos norādītajām tehniskajām specifikācijām un kurus nevar pārveidot šaušanai ar lodi vai daudzkomponentu šāviņu izsviešanai no stobra kanāla šaujampulvera vai cita propelenta iedarbības rezultātā.
 (8) F kategorijas ieroči ir mazas enerģijas pneimatiskie ieroči, straikbola ieroči, peintbola ieroči un lāzertaga ierīces.

@@ -8,7 +8,8 @@
 6) iegādāties un pārvadāt šaujamieroču maināmās būtiskās sastāvdaļas, esot alkohola ietekmē, ja izelpotā gaisa vai asins pārbaudē konstatētā alkohola koncentrācija asinīs pārsniedz 0,5 promiles, kā arī narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmē;
 7) ar šaujamieročiem, gāzes ieročiem un signālieročiem, pneimatiskajiem ieročiem, straikbola ieročiem, peintbola ieročiem, lāzertaga ierīcēm, dezaktivētiem ieročiem, aukstajiem ieročiem, munīciju un speciālajiem līdzekļiem apmeklēt sabiedrībai pieejamus kultūras, svētku, piemiņas, izklaides, sporta vai atpūtas pasākumus publiskā vietā, kā arī tos demonstrēt publiskā vietā, izņemot gadījumu, kad to atļāvis pasākuma organizators;
 8) nēsāt atklātā veidā ieročus un to munīciju, dezaktivētus ieročus un speciālos līdzekļus;
-9) iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot pašaizsardzībai šāviena trokšņa slāpētājus (klusinātājus), kā arī ar tiem aprīkot pašaizsardzības šaujamieročus.
+9) iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot pašaizsardzībai šāviena trokšņa slāpētājus (klusinātājus), kā arī ar tiem aprīkot pašaizsardzības šaujamieročus;
+10) atteikties no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmes pārbaudes, lai konstatētu, vai persona nav pārkāpusi šīs daļas 5. un 6. punktā noteiktos aizliegumus.
 (2) Fiziskajām un juridiskajām personām ir aizliegts:
 1) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot koncentrētas virzītas enerģijas ieročus (lāzeru, elementārdaļiņu vai lieljaudas radiofrekvenču staru sistēmas, kas spēj iznīcināt vai paralizēt mērķi);
 2) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot traumatiskos šaujamieročus un to munīciju;
