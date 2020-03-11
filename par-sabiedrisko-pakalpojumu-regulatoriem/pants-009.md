@@ -1,8 +1,8 @@
 9.pants. Regulatora funkcijas
 (1) Regulators pilda šādas funkcijas:
 1) aizstāv lietotāju intereses un veicina sabiedrisko pakalpojumu sniedzēju attīstību;
-2) nosaka tarifu aprēķināšanas metodiku;
-3) nosaka tarifus, ja nozaru speciālie likumi neparedz citu tarifu noteikšanas kārtību;
+2) nosaka tarifu vai tarifu augšējās robežas aprēķināšanas un noteikšanas metodiku, kā arī tarifu vai tarifu augšējās robežas piemērošanas kārtību, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus;
+3) nosaka tarifus vai tarifu augšējo robežu, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus;
 4) licencē sabiedrisko pakalpojumu sniegšanu vai reģistrē sabiedrisko pakalpojumu sniedzēju;
 5) izskata strīdus šajā likumā noteiktajos gadījumos un kārtībā;
 6) sekmē konkurenci regulējamās nozarēs un uzrauga sabiedrisko pakalpojumu atbilstību licences nosacījumiem, vispārējās atļaujas noteikumiem, noteiktām kvalitātes prasībām, tehniskajiem noteikumiem, standartiem, kā arī līgumu noteikumiem;

@@ -10,7 +10,7 @@
 (9) Dokumentus svešvalodās strīdā iesaistītās puses iesniedz, pievienojot noteiktā kārtībā apliecinātu tulkojumu valsts valodā.
 (10) Strīdā iesaistītās puses vai to pārstāvji, kuri neprot valsts valodu, paši nodrošina sev tulka palīdzību.
 (11) Strīda izskatīšanas sēdes protokols un regulatora pieņemtie lēmumi sagatavojami rakstveidā valsts valodā.
-(12) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, pamatojoties tikai uz iesniegtajiem rakstveida un citiem pierādījumiem, ja lietā esošie dokumenti ir pietiekami un ja strīdā iesaistītās puses vai to pārstāvji, iesniedzot rakstveida pierādījumus, rakstveidā ir tam piekrituši.
+(12) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, pamatojoties tikai uz iesniegtajiem rakstveida un citiem pierādījumiem, ja lietā esošie dokumenti ir pietiekami un ja strīdā iesaistītās puses vai to pārstāvji, iesniedzot rakstveida pierādījumus, pret to nav iebilduši.
 (13) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, ja strīdā iesaistītās puses vai to pārstāvji nav ieradušies uz strīda izskatīšanas sēdi.
 (14) Ja kāda no strīdā iesaistītajām pusēm vai tās pārstāvis brīdina regulatoru par neierašanos uz strīda izskatīšanas sēdi, regulators, ņemot vērā strīdā iesaistītās puses vai tās pārstāvja sniegto informāciju par neierašanās iemesliem, var atlikt strīda izskatīšanu.
 (15) Regulators strīda izskatīšanas laikā, pirms tiek pieņemts lēmums par strīda izskatīšanu, piedāvā strīdā iesaistītajām pusēm vienoties par izlīgumu.

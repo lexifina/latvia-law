@@ -3,7 +3,8 @@
 (2) Regulators groza izsniegtās licences nosacījumus, ja:
 1) ir stājušies spēkā grozījumi normatīvajos aktos, kas attiecas uz regulējamo sabiedrisko pakalpojumu veidu;
 2) citādi nav iespējams nodrošināt ekonomiski pamatotu sabiedrisko pakalpojumu sniegšanu licences darbības zonā;
-3) sabiedrisko pakalpojumu sniedzējs ir iesniedzis pamatotu ierosinājumu.
+3) sabiedrisko pakalpojumu sniedzējs ir iesniedzis pamatotu ierosinājumu;
+4) grozījumi licences nosacījumos lietotājiem uzlabos sabiedriskā pakalpojuma nepārtrauktību, drošību un kvalitāti, neatstājot negatīvu ietekmi uz sabiedriskā pakalpojuma izmaksām, šā pakalpojuma nepārtrauktību, drošību un kvalitāti citiem lietotājiem attiecīgajā licences darbības zonā.
 (3) Regulators anulē (atceļ) sabiedrisko pakalpojumu sniedzējam izsniegto licenci, ja sabiedrisko pakalpojumu sniedzējs:
 1) neievēro vai pārkāpj tam izsniegtās licences nosacījumus;
 2) neievēro vai pārkāpj normatīvajos aktos noteiktās prasības sabiedrisko pakalpojumu sniegšanā;

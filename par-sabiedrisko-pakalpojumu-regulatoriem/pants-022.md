@@ -1,5 +1,5 @@
 22.pants. Sabiedrisko pakalpojumu sniegšanas nepārtrauktība, drošība un kvalitāte
-(1) Sabiedrisko pakalpojumu sniedzēji nodrošina iespēju saņemt nepārtrauktus sabiedriskos pakalpojumus visā licences termiņā atbilstoši licences nosacījumiem tās darbības zonā.
+(1) Sabiedrisko pakalpojumu sniedzēji nodrošina iespēju saņemt nepārtrauktus sabiedriskos pakalpojumus.
 (2) Sabiedrisko pakalpojumu sniedzēji nodrošina attiecīgajā regulējamā nozarē noteikto sabiedrisko pakalpojumu drošības prasību ievērošanu un darbinieku kvalifikācijas atbilstību.
 (3) Sabiedrisko pakalpojumu sniedzēji nodrošina tehniskajiem noteikumiem, standartiem un līgumu nosacījumiem atbilstošu sabiedrisko pakalpojumu kvalitāti. Ja sabiedrisko pakalpojumu sniedzējs kādā laikposmā nevar nodrošināt tehniskajiem noteikumiem, standartiem un līgumu nosacījumiem atbilstošu sabiedrisko pakalpojumu kvalitāti, tas atlīdzina lietotājam nodarītos zaudējumus saskaņā ar līguma nosacījumiem vai normatīvo aktu prasībām.
 (4) Sabiedrisko pakalpojumu sniedzēji izmanto un sekmē efektīvas, ekonomiskas un drošas tehnoloģijas un darba paņēmienu ieviešanu sabiedrisko pakalpojumu kvalitātes nodrošināšanai un uzlabošanai.

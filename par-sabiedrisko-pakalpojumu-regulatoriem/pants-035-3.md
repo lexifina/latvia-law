@@ -1,4 +1,5 @@
 35.³ pants. Izlīgums
-(1) Ja strīda izskatīšanas laikā strīdā iesaistītās puses noslēdz izlīgumu, regulators strīda izskatīšanas procesu izbeidz.
-(2) Izlīgumu puses slēdz rakstveidā un tajā norāda: fiziskajai personai - vārdu, uzvārdu, personas kodu un dzīvesvietu; juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi; strīda priekšmetu un katras strīdā iesaistītās puses saistības, ko tā labprātīgi uzņemas pildīt.
-(3) Pēc strīdā iesaistīto pušu iesnieguma regulators ar savu lēmumu apstiprina izlīgumu, ja tā noteikumi nav pretrunā ar likumu. Šādam lēmumam ir tāds pats juridiskais spēks kā lēmumam par strīda izskatīšanu.
+(1) Ja strīda izskatīšanas laikā strīdā iesaistītās puses vienojas par izlīgumu, regulators strīda izskatīšanas procesu izbeidz.
+(2) (Izslēgta ar 13.02.2020. likumu)
+(3) (Izslēgta ar 13.02.2020. likumu)
+(4) Ja regulators ir izbeidzis strīda izskatīšanas procesu saskaņā ar šā panta pirmo daļu, strīdā iesaistītajām pusēm nav tiesību no jauna iesniegt regulatoram iesniegumu par strīda izskatīšanu attiecībā uz to pašu priekšmetu uz tā paša pamata.

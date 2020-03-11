@@ -1,0 +1,1 @@
+32. Ministru kabinets līdz 2020. gada 1. jūlijam izdod šā likuma 7. panta 4.² daļā paredzētos noteikumus. Līdz to spēkā stāšanās dienai piemērojami Ministru kabineta 2001. gada 6. februāra noteikumi Nr. 59 "Sabiedrisko pakalpojumu regulēšanas komisijas amatpersonu kandidātu konkursa nolikums", ciktāl tie nav pretrunā ar šo likumu.
