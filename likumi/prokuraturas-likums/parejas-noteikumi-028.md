@@ -1,0 +1,1 @@
+28. Šā likuma 38. panta astotās daļas otrais teikums stājas spēkā 2021. gada 1. janvārī, un personu, kura pēc 2021. gada 1. janvāra turpina pildīt konkrētas prokuratūras struktūrvienības virsprokurora pienākumus, pēc šā pilnvaru termiņa izbeigšanās atkārtoti var iecelt tās pašas prokuratūras struktūrvienības virsprokurora amatā vēl uz vienu termiņu.

@@ -14,3 +14,4 @@
 10) norīkot prokurorus dalībai starptautiskajās misijās;
 11) realizēt citas šajā likumā un citos normatīvajos aktos noteiktās tiesības.
 (4) Ģenerālprokuroram ir jāziņo Valsts prezidentam, Saeimai un Ministru kabinetam par atklātiem būtiskiem likuma pārkāpumiem, kam ir valstiska nozīme.
+(5) Ģenerālprokurors līdz katra gada 1. martam iesniedz Saeimai ziņojumu par iepriekšējā gadā paveikto un nākamā gada darbības prioritātēm.
