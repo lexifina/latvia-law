@@ -5,7 +5,7 @@ Deputātam ir tiesības:
 2) tikt ievēlētam domes institūcijās un amatos, ja citos likumos nav noteikti ierobežojumi;
 3) iesniegt priekšlikumus vai izteikt viedokli par domes izveidojamo institūciju sastāvu un atsevišķu amatpersonu kandidatūrām;
 4) iesniegt priekšlikumus, izteikt piezīmes un iebildumus par sēdes darba kārtību, apspriežamo jautājumu būtību un izskatīšanas secību;
-5) iesniegt lēmumu un citu dokumentu projektus, kā arī priekšlikumus par grozījumiem tajos;
+5) iesniegt lēmumu un citu dokumentu projektus, kā arī priekšlikumus par grozījumiem tajos pašvaldības nolikumā noteiktajā kārtībā;
 6) piedalīties debatēs, uzdot jautājumus, sniegt uzziņas;
 7) (izslēgts ar 22.01.2015. likumu);
 8) pēc balsošanas izteikties par balsošanas motīviem;
