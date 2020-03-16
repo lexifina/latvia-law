@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada ziemas sesija",
+ "sede": 23,
+ "datums": "2020-03-16",
+ "ieraksts": {
+  "dkp_id": "23aa2728-dff6-4ebc-a4c1-4d4dcdd9174c",
+  "lastmodtime": "\"AAAAAAHMnlU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Andris#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Didzis#Jānis#Vjačeslavs#Ainars#Artūrs Toms#Gatis#Artuss#Jānis#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Jānis#Boriss#Ļubova#Sandis#Kaspars#Arvils#Rihards#Jūlija#Linda#Atis#Ojārs Ēriks#Valērijs#Andrejs#Māris#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Jānis#Vitālijs#Ritvars#Mārtiņš#Raimonds#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Linda#Ivars#Anda#Aleksandrs#Aldis#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Skride#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Šmits#Cielēns#Dombrovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Krišāns#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Cilevičs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Kols#Stepaņenko#Ozola#Zakatistovs#Kalniņš#Agešins#Klementjevs#Kučinskis#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Vucāns#Orlovs#Jansons#Staķis#Bergmanis#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Kiršteins#Blumbergs#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "#############################################################################",
+  "FRACTION": "JV#JK#AP!#NA#NA#AP!#KPV LV#AP!#KPV LV#JK#JK#SASKAŅA # #JK#SASKAŅA #JV#AP!#JK# #SASKAŅA #JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #KPV LV#SASKAŅA #SASKAŅA #JK#KPV LV#JV#NA# #JK#KPV LV#JV#SASKAŅA #SASKAŅA #ZZS#AP!#ZZS#AP!#JV#SASKAŅA #ZZS#SASKAŅA #NA#AP!#ZZS#JK#JK#JK#SASKAŅA #KPV LV# #SASKAŅA # #NA# #SASKAŅA #ZZS# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "16.03.2020 10:38:19",
+  "VOTEMOTIVE": "Par Vienošanos par Latvijas Republikas valdības un Eiropas Kosmosa aģentūras Eiropas sadarbības valsts līguma termiņa pagarināšanu (578/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "da38e925-85d1-4666-866a-b717da856ed8",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "75",
+  "VOTERESULT_REGISTERED": "78",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada ziemas sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b48081f4-03a9-44d5-8c02-4575d7d0e5bb/download/13.saeimas-2020.gada-ziemas-sesija-23-vote.xml",
+  "sha256": "1281e67000cc2a01250dc7878d55dc7337059d7225921ec76c24c0ed3aec47e7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
