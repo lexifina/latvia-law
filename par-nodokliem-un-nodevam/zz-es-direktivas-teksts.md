@@ -16,4 +16,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 15) Padomes 2014.gada 9.decembra direktīvas 2014/107/ES, ar ko groza direktīvu 2011/16/ES attiecībā uz obligāto automātisko informācijas apmaiņu nodokļu jomā;
 16) Padomes 2016. gada 25. maija direktīvas (ES) 2016/881, ar ko direktīvu 2011/16/ES groza attiecībā uz obligātu automātisku informācijas apmaiņu nodokļu jomā;
 17) Padomes 2016. gada 6. decembra direktīvas (ES) 2016/2258, ar ko groza direktīvu 2011/16/ES attiecībā uz nodokļu iestāžu piekļuvi informācijai par nelikumīgi iegūtu līdzekļu legalizācijas novēršanu;
-18) Padomes 2017. gada 10. oktobra direktīvas (ES) 2017/1852 par nodokļu strīdu izšķiršanas mehānismiem Eiropas Savienībā.
+18) Padomes 2017. gada 10. oktobra direktīvas (ES) 2017/1852 par nodokļu strīdu izšķiršanas mehānismiem Eiropas Savienībā;
+19) Padomes 2018. gada 25. maija direktīvas (ES) 2018/822, ar ko attiecībā uz obligāto automātisko informācijas apmaiņu nodokļu jomā saistībā ar ziņojamām pārrobežu shēmām groza direktīvu 2011/16/ES.

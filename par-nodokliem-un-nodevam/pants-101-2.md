@@ -1,0 +1,2 @@
+101.² pants. Izvairīšanās no informācijas sniegšanas automātiskās informācijas par finanšu kontiem apmaiņai
+Ja fiziskā persona, juridisks veidojums vai finanšu iestāde, kurai noteikts pienākums sniegt ziņojumu, veic darbības, kuru galvenais mērķis vai viens no galvenajiem mērķiem ir izvairīties no šajā nodaļā noteikto pienākumu pildīšanas, šajā likumā noteiktie pienākumi attiecīgajai personai saglabājas tādi paši, kādi tie būtu, ja šīs darbības nebūtu veiktas.
