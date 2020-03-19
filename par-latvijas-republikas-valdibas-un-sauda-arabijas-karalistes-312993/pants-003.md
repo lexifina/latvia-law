@@ -1,0 +1,1 @@
+3. pants. Konvencija un Protokols stājas spēkā Konvencijas 29. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar šo likumu izsludināma Konvencija un Protokols latviešu un angļu valodā.
