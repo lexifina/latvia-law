@@ -1,0 +1,1 @@
+1. pants. Vienošanās par Latvijas Republikas valdības un Eiropas Kosmosa aģentūras Eiropas sadarbības valsts līguma termiņa pagarināšanu (turpmāk - Vienošanās), kas noslēgta pušu vēstuļu apmaiņas ceļā, ar šo likumu tiek pieņemta un apstiprināta.
