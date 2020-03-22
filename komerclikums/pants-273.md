@@ -9,6 +9,7 @@
 3) sapulces veidu (kārtējā vai ārkārtas sapulce);
 4) institūciju, kura sasauc sapulci;
 5) darbības, kas akcionāriem jāveic līdz sapulcei, lai viņi varētu piedalīties un balsot;
+5¹) kārtību un termiņus, kādos akcionāri var izmantot tiesības balsot pirms akcionāru sapulces vai piedalīties vai balsot akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus;
 6) statūtu noteikumus par akcionāru pārstāvju piedalīšanos sapulcē (ja statūti šādus nosacījumus paredz);
 7) darba kārtību;
 8) vietu un laiku, kur un kad akcionāri var iepazīties ar lēmumu projektiem sapulces darba kārtībā iekļautajos jautājumos, kā arī ar citiem sapulcē izskatāmajiem jautājumiem.

@@ -1,0 +1,10 @@
+277.¹ pants. Attālināta dalība un balsošana akcionāru sapulcē
+(1) Akcionāram ir tiesības rakstveidā (tai skaitā izmantojot elektroniskos saziņas līdzekļus) balsot pirms akcionāru sapulces, ja ir izpildīti šādi nosacījumi:
+1) balsojums tiek nodots tādā veidā, kas ļauj sabiedrībai nodrošināt akcionāra identifikāciju;
+2) balsojums tiek saņemts sabiedrībā vismaz iepriekšējā dienā pirms akcionāru sapulces.
+(2) Akcionārs, kurš balsojis pirms akcionāru sapulces, var lūgt sabiedrību apstiprināt balsojuma saņemšanu. Sabiedrība nekavējoties pēc akcionāra balsojuma saņemšanas nosūta akcionāram apstiprinājumu.
+(3) Valde pēc savas iniciatīvas vai pēc akcionāru pieprasījuma, ja akcionāri kopā pārstāv vismaz 20 procentus no sabiedrības pamatkapitāla un statūti neparedz mazāku pārstāvības normu, nodrošina akcionāram tiesības piedalīties vai balsot akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus. Šādā gadījumā valde nosaka prasības akcionāru identifikācijai un kārtību, kādā akcionāri var izmantot šīs tiesības.
+(4) Statūtos var noteikt, ka akcionāram ir tiesības piedalīties vai balsot akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus. Šādā gadījumā statūtos nosaka vai deleģē valdei noteikt prasības akcionāru identifikācijai un kārtību, kādā akcionāri var izmantot šīs tiesības.
+(5) Akcionāra tiesības piedalīties vai balsot akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus, neierobežo akcionāra tiesības piedalīties un balsot akcionāru sapulcē klātienē.
+(6) Statūtos var noteikt, ka akcionāru sapulces notiek tikai elektroniski un akcionāri piedalās un balso akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus. Lēmums par minētajiem statūtu grozījumiem ir pieņemts, ja tam piekrīt visi balsstiesīgie akcionāri.
+(7) Akcionārs, kurš balso pirms akcionāru sapulces vai piedalās vai balso akcionāru sapulcē, izmantojot elektroniskos saziņas līdzekļus, ir uzskatāms par klātesošu akcionāru sapulcē un ierakstāms šā likuma 278. panta trešajā daļā minētajā sarakstā. Šādā gadījumā sarakstā papildus norāda veidu, kādā akcionārs piedalās vai balso akcionāru sapulcē.

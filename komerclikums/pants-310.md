@@ -11,4 +11,4 @@
 6) balsošanas rezultātus, norādot katra valdes locekļa balsojumu "par" vai "pret" par katru lēmumu;
 7) pieņemtos lēmumus.
 (4) Ja valdes loceklis nepiekrīt valdes lēmumam un balso pret to, viņa atšķirīgais viedoklis pēc viņa pieprasījuma ierakstāms valdes sēdes protokolā.
-(5) Valdes sēžu protokolus paraksta valdes priekšsēdētājs, protokolētājs un visi valdes locekļi, kas piedalās sēdē.
+(5) Valdes sēžu protokolus paraksta sēdes vadītājs un vismaz vēl viens sēdes dalībnieks.

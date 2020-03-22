@@ -5,6 +5,7 @@
 2) sapulces norises vietu un laiku;
 3) sapulces veidu (kārtējā vai ārkārtas sapulce);
 4) institūciju, kura sasauc sapulci;
+4¹) kārtību un termiņus, kādos dalībnieki var izmantot tiesības balsot pirms dalībnieku sapulces vai piedalīties vai balsot dalībnieku sapulcē, izmantojot elektroniskos saziņas līdzekļus;
 5) statūtu noteikumus par dalībnieku pārstāvju piedalīšanos sapulcē (ja statūti šādus noteikumus paredz);
 6) darba kārtību;
 7) vietu un laiku, kur un kad dalībnieki var iepazīties ar lēmumu projektiem sapulces darba kārtībā iekļautajos jautājumos, kā arī ar citiem sapulcē izskatāmajiem jautājumiem.
