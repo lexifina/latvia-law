@@ -1,0 +1,11 @@
+37. Laikā, kamēr visā valstī ir izsludināta ārkārtējā situācija sakarā ar Covid-19 izplatību, un vienu kalendāra mēnesi pēc ārkārtējās situācijas beigām:
+1) pašvaldība piešķir ģimenei (personai), kura ārkārtējās situācijas dēļ nespēj nodrošināt savas pamatvajadzības, šā likuma 35. panta otrajā daļā noteikto pabalstu krīzes situācijā, kas tiek izmaksāts no pašvaldības budžeta līdzekļiem;
+2) lai daļēji kompensētu pašvaldību izdevumus par pabalstu krīzes situācijā nodrošināšanu, valsts nodrošina mērķdotāciju pašvaldībām izdevumu segšanai 50 procentu apmērā no ģimenei (personai) izmaksātā pabalsta krīzes situācijā apmēra, bet ne vairāk kā 40 euro mēnesī vienai personai triju mēnešu periodā;
+3) pašvaldība, lai saņemtu mērķdotāciju, līdz pārskata mēnesim sekojošā mēneša desmitajam datumam atbilstoši normatīvajiem aktiem par kārtību, kādā Valsts kase nodrošina elektronisko informācijas apmaiņu, izmantojot Valsts kases informācijas sistēmu "Ministriju, centrālo valsts iestāžu un pašvaldību budžeta pārskatu informācijas sistēma", iesniedz pārskatu "Pārskats par mērķdotācijas izlietojumu krīzes pabalstam" (Veidlapa Nr. 18_KrīzP) (turpmāk - pārskats), tajā iekļaujot šādas ziņas:
+a) pašvaldības izmaksātais finansējums pabalstiem krīzes situācijā pilnā apmērā kopā,
+b) to personu skaits, par kurām izmaksāts pabalsts krīzes situācijā,
+c) pašvaldības konts Valsts kasē vai kredītiestādē mērķdotācijas saņemšanai un izdevumu veikšanai;
+4) Labklājības ministrija:
+a) 10 darbdienu laikā pēc pārskata izvērtēšanas un atzīšanas par atbilstošu veic mērķdotācijas maksājumu pašvaldībai,
+b) ir tiesīga izlases kārtībā veikt mērķdotācijas izlietojuma kontroli, pieprasot no pašvaldības papildu informāciju,
+c) ja konstatē kļūdas pārskatā vai pārkāpumus pabalsta krīzes situācijā piešķiršanā un izmaksā, pārtrauc mērķdotācijas izmaksu līdz pārskata precizēšanai vai pārkāpumu novēršanai; pēc pārskata precizēšanas vai pārkāpumu novēršanas izdara pārrēķinu un veic maksājumus par iepriekšējo periodu un nepamatoti izmaksātos līdzekļus ietur no nākamajā mēnesī pašvaldībai paredzētajiem līdzekļiem.
