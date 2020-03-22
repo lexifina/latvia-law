@@ -1,0 +1,1 @@
+Par priekšvēlēšanu izdevumiem, kas radušies laikposmā no 2020. gada 25. februāra līdz 2020. gada 13. aprīlim, politiskajām organizācijām (partijām) nav jāiesniedz Korupcijas novēršanas un apkarošanas birojā vēlēšanu ieņēmumu un izdevumu deklarācija un tos neiekļauj priekšvēlēšanu izdevumu apmērā.
