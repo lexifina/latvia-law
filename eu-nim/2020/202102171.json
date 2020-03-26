@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 24. marta noteikumi Nr. 157 \"Agregatoru noteikumi\". Latvijas Vēstnesis, 61, 26.03.2020.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "61",
+  "official_journal_page": null,
+  "official_journal_date": "2020-03-25",
+  "entry_into_force": "2020-03-26",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02171",
+  "nim_celex": "72019L0944LVA_202102171",
+  "nim_id": "202102171",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d83c4de4-9056-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
