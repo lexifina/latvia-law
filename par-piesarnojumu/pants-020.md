@@ -6,7 +6,7 @@
 (5) Ministru kabinets izdod noteikumus par A kategorijas darbības pieteikšanu, attiecīgas atļaujas izsniegšanu un labāko pieejamo tehnisko paņēmienu lietošanu, kā arī nosaka:
 1) laika grafiku, pēc kura tiek izsniegtas A kategorijas atļaujas iekārtām, kurām tās nepieciešamas;
 2) maksimālo pārejas periodu, kurā jānodrošina ar labāko pieejamo tehnisko paņēmienu lietošanu saistīto atļaujas nosacījumu ievērošana;
-3) iesnieguma veidlapu un atļaujas veidlapu, kurā norāda veicamos cilvēku veselības, gaisa, ūdens un augsnes aizsardzības, kā arī atkritumu apsaimniekošanas pasākumus. Ja piesārņojoša darbība saistīta ar ūdens ieguvi, atļaujā norāda ūdens lietošanas limitus;
+3) iesniegumā atļaujas saņemšanai iekļaujamo informāciju, kurā norāda veicamos cilvēku veselības, gaisa, ūdens un augsnes aizsardzības, kā arī atkritumu apsaimniekošanas pasākumus. Ja piesārņojoša darbība saistīta ar ūdens ieguvi, atļaujā norāda ūdens lietošanas limitus;
 4) kārtību, kādā pieprasāmas un izsniedzamas atļaujas;
 5) kārtību, kādā sabiedrība var iepazīties ar iesniegumu un iesniegt savus priekšlikumus, kā arī iepazīties ar atļaujas nosacījumiem, monitoringa un pārbaudes rezultātiem;
 6) kārtību, kādā informējamas citas valstis, un šāda piesārņojuma monitoringu gadījumos, kad iespējama piesārņojuma pārrobežu ietekme;
