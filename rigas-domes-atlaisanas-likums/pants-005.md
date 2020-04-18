@@ -1,4 +1,4 @@
-5. pants. (1) Rīgas domes vēlēšanas notiek 2020. gada 6. jūnijā. Centrālā vēlēšanu komisija šīs vēlēšanas Rīgas pilsētas pašvaldībā izsludina 2020. gada 14. aprīlī.
+5. pants. (1) Rīgas domes vēlēšanas notiek 2020. gada 29. augustā. Centrālā vēlēšanu komisija šīs vēlēšanas Rīgas pilsētas pašvaldībā izsludina 2020. gada 7. jūlijā.
 (2) Lai nodrošinātu vēlēšanas Rīgas pilsētas pašvaldībā šā panta pirmajā daļā noteiktajā termiņā, nosakāms, ka Vēlētāju reģistra likumā minēto darbību veikšanas termiņi ir šādi:
 1) Vēlētāju reģistra likuma 7. pantā un 8. panta pirmajā daļā minētās darbības veicamas 50 dienas pirms vēlēšanām;
 2) Vēlētāju reģistra likuma 7. pantā minētā darbība - Centrālā vēlēšanu komisija informē Pilsonības un migrācijas lietu pārvaldi par visām izmaiņām ziņās par visiem izveidotajiem vēlēšanu iecirkņiem - veicama vienas dienas laikā;
