@@ -12,3 +12,4 @@
 1) saskaņā ar šā panta pirmo daļu, ja iemaksas veiktas no slimības vai maternitātes pabalsta;
 2) 60 procentu apmērā no bezdarbnieka pabalsta pieprasīšanas dienā spēkā esošā valsts sociālā nodrošinājuma pabalsta divkārša apmēra, ja iemaksas veiktas par vecāku pabalsta saņēmējiem.
 (7) Bezdarbniekam, kurš visā vidējās apdrošināšanas iemaksu algas aprēķināšanas periodā, kas noteikts saskaņā ar šā likuma 8.pantu, nav bijis darba ņēmējs, bet iemaksas bezdarba gadījumam ir veiktas gan no valsts sociālās apdrošināšanas speciālā budžeta, gan no valsts pamatbudžeta, bezdarbnieka pabalsta apmēru nosaka tāpat kā gadījumā, ja iemaksas bezdarba gadījumam ir veiktas tikai no valsts sociālās apdrošināšanas speciālā budžeta saskaņā ar šā panta sestās daļas 1. vai 2.punktu.
+(8) (Daļa stājas spēkā 01.07.2020. un iekļauta likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 26. punktu)
