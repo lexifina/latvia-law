@@ -1,0 +1,1 @@
+26. Grozījums par šā likuma 7. panta sestās daļas izteikšanu jaunā redakcijā un šā panta astotā daļa stājas spēkā 2020. gada 1. jūlijā un attiecas uz bezdarbniekiem, kuri bezdarbnieka statusu ieguvuši, sākot ar 2020. gada 1. jūliju.
