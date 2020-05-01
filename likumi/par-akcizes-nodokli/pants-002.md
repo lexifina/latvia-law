@@ -10,7 +10,7 @@
 5) Apvienotās Karalistes Akrotiri un Dhekelia suverēno bāzu teritorijām (darījumus ar šīm teritorijām uzskata par darījumiem, kuri uzsākti Kiprā vai paredzēti tai).
 (3¹) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm neattiecina uz šādām teritorijām:
 1) Vācijas Federatīvajā Republikā - uz Helgolandes salu un Bizingenas teritoriju;
-2) Itālijas Republikā - uz Livinjo, Kampjoni d'Italia un Lugāno ezera Itālijas teritoriālajiem ūdeņiem;
+2) Itālijas Republikā - uz Livinjo;
 3) Spānijas Karalistē - uz Seūtu, Melilju un Kanāriju salām;
 4) Francijas Republikā - uz Francijas Republikas aizjūras departamentiem, tajā skaitā Majotu;
 5) Somijas Republikā - uz Ālandu salām;
