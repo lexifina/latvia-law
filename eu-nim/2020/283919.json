@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020.gada 5.maija noteikumiem Nr.265 \"Grozījumi Ministru kabineta 2018. gada 17. jūlija noteikumos Nr. 429 \"Noteikumi par transportlīdzekļu sastāvdaļām un materiāliem, kuri drīkst saturēt svinu, dzīvsudrabu, kadmiju vai sešvērtīgā hroma savienojumus\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "87",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-07",
+  "entry_into_force": "2020-05-08",
+  "notification_date": "2020-05-11",
+  "commission_reference": "MNE(2020)53492",
+  "nim_celex": "72020L0362LVA_283919",
+  "nim_id": "283919",
+  "transposes_celex": [
+    "32020L0362"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e0a78e29-95c3-11ea-aac4-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
