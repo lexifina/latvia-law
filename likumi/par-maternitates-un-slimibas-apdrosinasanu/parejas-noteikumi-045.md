@@ -1,0 +1,1 @@
+45. Līdz 2020. gada 31. decembrim šā likuma 13. panta pirmajā daļā noteiktajā periodā neieskaita darbnespējas dienas, par kurām personai izsniegta darbnespējas lapa sakarā ar saslimšanu ar Covid-19 vai atrašanos karantīnā.
