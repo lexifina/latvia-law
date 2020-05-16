@@ -1,0 +1,1 @@
+1. pants. Vienošanās, ar ko groza 2004. gada 11. februāra Līguma starp Dāniju, Igauniju, Somiju, Islandi, Latviju, Lietuvu, Norvēģiju un Zviedriju par Ziemeļu Investīciju banku pielikumā esošo Statūtu 14. pantu (turpmāk - Vienošanās), un grozījumi Ziemeļu Investīciju bankas Statūtos (turpmāk - Statūtu grozījumi) ar šo likumu tiek pieņemti un apstiprināti.
