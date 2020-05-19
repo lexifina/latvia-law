@@ -1,0 +1,1 @@
+4. Šā likuma grozījumi saistībā ar nozaru administratīvo pārkāpumu kodifikācijas ieviešanu, kas paredz 8. panta ceturtās daļas otrā teikuma izslēgšanu un piektās daļas izteikšanu jaunā redakcijā, 9. panta izteikšanu jaunā redakcijā un 9.¹ panta izslēgšanu, kā arī 11. un 12. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
