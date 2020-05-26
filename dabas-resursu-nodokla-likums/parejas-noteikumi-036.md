@@ -1,0 +1,1 @@
+36. Nodokļa maksātājam, kas ir noslēdzis ar depozīta sistēmas operatoru līgumu par dalību depozīta sistēmā, pārtrauc piemērot atbrīvojumu no nodokļa samaksas par depozīta iepakojumu ar 2022. gada 31. janvāri atbilstoši šā likuma 8. pantam.

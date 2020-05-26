@@ -1,0 +1,1 @@
+37. Šā likuma 8.¹ panta otrajā daļā minēto informāciju Vides aizsardzības un reģionālās attīstības ministrijas padotībā esoša iestāde Valsts ieņēmumu dienestam pirmo reizi iesniedz līdz 2022. gada 1. aprīlim.

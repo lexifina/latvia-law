@@ -1,6 +1,7 @@
 24.pants. Nodokļa aprēķināšana par iepakojumu un par vienreiz lietojamiem galda traukiem un piederumiem
 (1) Nodokli par iepakojumu un vienreiz lietojamiem galda traukiem un piederumiem aprēķina atbilstoši šā likuma 7.pielikumā minētajām likmēm par katru iepakojuma materiāla veida svara vienību vai katru galda trauku vai piederumu materiāla veida svara vienību.
 (1¹) Šā likuma 3. panta 1.¹ daļā minētajam nodokļa maksātājam nodokli par iepakojumu un vienreiz lietojamiem galda traukiem un piederumiem aprēķina Vides aizsardzības un reģionālās attīstības ministrijas padotībā esoša iestāde atbilstoši šā panta piektajā daļā vai šā likuma 7. pielikumā noteiktajām likmēm par katru iepakojuma materiāla veida svara vienību vai katru galda trauku vai piederumu materiāla veida svara vienību, kas nav pārstrādāta vai reģenerēta.
+(1²) Šā likuma 3. panta 1.² daļā minētajam nodokļa maksātājam nodokli par depozīta iepakojumu aprēķina Vides aizsardzības un reģionālās attīstības ministrijas padotībā esoša iestāde atbilstoši šā likuma 7. pielikumā noteiktajām likmēm par katru iepakojuma materiāla veida svara vienību, kas nav pieņemta un reģenerēta.
 (2) Iepakojuma materiāla veidu un svaru un vienreiz lietojamo galda trauku un piederumu materiāla veidu un svaru pamato ar uzskaites dokumentiem. Nodokļa maksātājs nodrošina iepakojuma un vienreiz lietojamo galda trauku un piederumu uzskaiti, lai pamatotu nodokļa aprēķinus.
 (3) Ministru kabinets nosaka:
 1) iepakojuma materiāla veidu un svaru apliecinošus uzskaites dokumentus un tajos iekļaujamo informāciju;
