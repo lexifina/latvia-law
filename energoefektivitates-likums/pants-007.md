@@ -9,7 +9,7 @@
 (5) Valsts energoefektivitātes fonda līdzekļi izmantojami valsts atbalsta programmu īstenošanai šādās jomās:
 1) obligātā enerģijas galapatēriņa mērķa sasniegšanai;
 2) sabiedrības informēšanas un izglītošanas pasākumiem energoefektivitātes jomā.
-(6) Kārtību, kādā Attīstības finanšu institūcija izmanto valsts energoefektivitātes fonda līdzekļus un sniedz pārskatu par to izmantošanu, nosaka Ministru kabinets.
+(6) Šā panta piektajā daļā minēto valsts atbalsta programmu īstenošanai plānoto darbību un izmaksu attiecināmības nosacījumus, fonda pārvaldības izmaksas, kā arī kārtību, kādā Attīstības finanšu institūcija izmanto valsts energoefektivitātes fonda līdzekļus un sniedz pārskatu par to izmantošanu, nosaka Ministru kabinets.
 (7) Pašvaldības energoefektivitātes fonda izveidotājs un turētājs ir pašvaldība. Šā likuma 6.panta astotajā daļā minētā atbildīgā puse, kas veikusi iemaksas pašvaldības energoefektivitātes fondā, nevar būt pašvaldības energoefektivitātes fonda administrētāja.
 (8) Pašvaldības energoefektivitātes fonda finanšu avots ir:
 1) pašvaldības budžets;
