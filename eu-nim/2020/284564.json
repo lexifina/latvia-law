@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 26. maija noteikumi Nr. 325 \"Grozījumi Ministru kabineta 2019. gada 8. janvāra noteikumos Nr. 1 \"Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības noteikumi”",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "104",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-01",
+  "entry_into_force": "2020-06-02",
+  "notification_date": "2020-06-01",
+  "commission_reference": "MNE(2020)54036",
+  "nim_celex": "72010L0063LVA_284564",
+  "nim_id": "284564",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/956becab-a703-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
