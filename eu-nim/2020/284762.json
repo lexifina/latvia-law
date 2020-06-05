@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada 2. jūnija Ministru kabineta noteikumi nr. 340 \"Grozījumi Ministru kabineta 2010.gada 9. februāra noteikumos Nr. 124 \"Dārzeņu pavairojamā materiāla atbilstības kritēriji un aprites kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-04",
+  "entry_into_force": "2020-06-05",
+  "notification_date": "2020-06-05",
+  "commission_reference": "MNE(2020)54201",
+  "nim_celex": "72019L0990LVA_284762",
+  "nim_id": "284762",
+  "transposes_celex": [
+    "32019L0990"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f108f5b-ac82-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
