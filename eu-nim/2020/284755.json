@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada Ministru kabineta noteikumi nr. 342 \"Grozījumi Ministru kabineta 2010. gada 29. jūnija noteikumos Nr. 592 \"Dārzeņu sēklaudzēšanas un sēklu tirdzniecības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-04",
+  "entry_into_force": "2020-06-05",
+  "notification_date": "2020-06-05",
+  "commission_reference": "MNE(2020)54194",
+  "nim_celex": "72020L0432LVA_284755",
+  "nim_id": "284755",
+  "transposes_celex": [
+    "32020L0432"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd68cf5a-ac82-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
