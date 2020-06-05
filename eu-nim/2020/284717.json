@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada 2. jūnija Ministru kabineta noteikumi Nr. 341 \"Grozījumi Ministru kabineta 2016. gada 5. janvāra noteikumos Nr. 12 \"Kartupeļu sēklaudzēšanas un sēklas kartupeļu tirdzniecības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "107",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-04",
+  "entry_into_force": "2020-06-05",
+  "notification_date": "2020-06-04",
+  "commission_reference": "MNE(2020)54166",
+  "nim_celex": "72020L0177LVA_284717",
+  "nim_id": "284717",
+  "transposes_celex": [
+    "32020L0177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d01c08a9-a703-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
