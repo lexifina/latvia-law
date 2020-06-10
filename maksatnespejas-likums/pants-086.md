@@ -1,6 +1,11 @@
 86.pants. Kreditoru sapulces procedūra
 (1) Kreditoru sapulce ir organizēta kreditoru kopīgas darbības forma kreditoru lēmumu pieņemšanai.
 (2) Kreditoru sapulci vada administrators.
+(2¹) Kreditoru sapulci var noturēt klātienē vai attālināti. Kreditoru sapulces norises veidu nosaka administrators.
+(2²) Administrators, sasaucot kreditoru sapulci, nosaka vienu no šādiem tās norises veidiem:
+1) sapulces dalībnieki piedalās un balso sapulcē klātienē;
+2) sapulces dalībnieki piedalās un balso sapulcē, izmantojot elektroniskos saziņas līdzekļus;
+3) sapulces dalībnieki rakstveidā balso par sapulces darba kārtībā iekļautajiem jautājumiem un savu balsojumu iesniedz administratoram vismaz iepriekšējā dienā pirms kreditoru sapulces norises dienas.
 (3) Kreditoru sapulcē var būt klāt Maksātnespējas kontroles dienesta pārstāvji.
 (4) Kreditors var piedalīties kreditoru sapulcē personīgi vai ar pārstāvja starpniecību. Kreditora pārstāvim ir pienākums uzrādīt kreditoru sapulces vadītājam pārstāvību apliecinošu dokumentu.
 (5) Ja kreditoru sapulcē piedalās pret parādnieku citā dalībvalstī uzsāktajā Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. vai 2. punktā noteiktajā maksātnespējas procedūrā iesaistītais administrators, viņš kreditoru sapulces vadītājam uzrāda tiesas nolēmuma norakstu par minētās regulas 3. panta 1. vai 2. punktā noteiktajā maksātnespējas procedūrā iesaistītā administratora iecelšanu vai cita apliecinājuma atbilstoši apliecinātu norakstu un noteiktā kārtībā apliecinātu nolēmuma vai apliecinājuma tulkojumu valsts valodā.
