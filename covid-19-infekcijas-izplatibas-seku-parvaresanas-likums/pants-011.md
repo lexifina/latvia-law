@@ -1,0 +1,1 @@
+11. pants. Atļauts realizēt alkoholiskos dzērienus, izmantojot distances līgumu. Aizliegts realizēt alkoholiskos dzērienus personām, kuras ir jaunākas par 18 gadiem, un laikā no pulksten 22.00 līdz 8.00.

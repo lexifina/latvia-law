@@ -1,0 +1,1 @@
+3. Šā likuma 3. pantā noteiktais ierobežojums valsts atbalsta un valsts garantēto atbalsta pasākumu saņemšanai netiek attiecināts uz tiesībām saņemt dīkstāves pabalstu un Ministru kabineta noteikto dīkstāves palīdzības pabalstu par šā likuma 15. panta otrajā daļā minēto laikposmu.

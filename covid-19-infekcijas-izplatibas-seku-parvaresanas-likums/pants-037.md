@@ -1,0 +1,11 @@
+37. pants. (1) Līdz 2020. gada 31. decembrim biedrības vai kooperatīvās sabiedrības biedram ir tiesības piedalīties un balsot biedru kopsapulcē attālināti.
+(2) Paziņojumā par biedru kopsapulces sasaukšanu norāda kārtību un termiņus, kādos biedri var izmantot tiesības balsot pirms biedru kopsapulces vai piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus.
+(3) Biedram ir tiesības rakstveidā (tai skaitā izmantojot elektroniskos saziņas līdzekļus) balsot pirms biedru kopsapulces, ja ir izpildīti šādi nosacījumi:
+1) balsojums tiek nodots tādā veidā, kas ļauj biedrībai vai kooperatīvajai sabiedrībai biedru identificēt;
+2) balsojums tiek biedrībai vai kooperatīvajai sabiedrībai nodots vismaz iepriekšējā dienā pirms biedru kopsapulces norises dienas.
+(4) Biedrs, kurš balsojis pirms biedru kopsapulces, var lūgt biedrību vai kooperatīvo sabiedrību apstiprināt balsojuma saņemšanu. Biedrība vai kooperatīvā sabiedrība pēc biedra balsojuma saņemšanas nekavējoties nosūta biedram apstiprinājumu, bet pēc balsošanas beigām publisko visu biedru balsojumus.
+(5) Valde pēc savas iniciatīvas vai pēc to biedru pieprasījuma, kuri kopā pārstāv vismaz 20 procentus no biedrības vai kooperatīvās sabiedrības biedru skaita, nodrošina biedram tiesības piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus. Šādā gadījumā valde nosaka prasības attiecībā uz biedru identifikāciju un kārtību, kādā biedri var šīs tiesības izmantot.
+(6) Biedra tiesības piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, neierobežo biedra tiesības piedalīties un balsot biedru kopsapulcē klātienē.
+(7) Biedrs, kurš balso pirms biedru kopsapulces vai piedalās un balso biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, ir uzskatāms par biedru kopsapulcē klātesošu un ierakstāms klātesošo biedru sarakstā.
+(8) Ja biedrs piedalās un balso biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, biedrība vai kooperatīvā sabiedrība nodrošina biedru kopsapulces gaitas ierakstīšanu un fiksēšanu datu nesējos un attiecīgo sapulces materiālu glabāšanu. Tiesības iepazīties ar sapulces materiāliem ir biedriem, valdes un padomes locekļiem, revidentam un kompetentajām institūcijām.
+(9) Līdz 2020. gada 1. septembrim šā panta astotā daļa ir piemērojama arī kapitālsabiedrībām.

@@ -1,0 +1,1 @@
+47. pants. Valsts fondēto pensiju shēmas līdzekļu pārvaldītājs ir tiesīgs ieguldīt šā likuma 46. pantā minētajos parāda vērtspapīros līdz 100 procentiem no attiecīgās emisijas līdz 2023. gada 31. decembrim.

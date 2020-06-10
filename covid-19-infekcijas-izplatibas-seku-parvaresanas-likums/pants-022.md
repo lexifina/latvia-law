@@ -1,0 +1,1 @@
+22. pants. Līdz 2020. gada 1. septembrim kreditoriem aizliegts iesniegt juridiskās personas maksātnespējas procesa pieteikumu, ja pastāv kāda no Maksātnespējas likuma 57. panta pirmās daļas 1., 2., 3. vai 4. punktā minētajām juridiskās personas maksātnespējas procesa pazīmēm.

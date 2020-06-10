@@ -1,0 +1,1 @@
+36. pants. Laikposmā no 2020. gada 12. marta līdz 2020. gada 1. jūlijam tiek apturēts likumos noteikto saistību tiesību noilguma termiņa tecējums un šis laikposms ir atskaitāms no noilguma termiņa aprēķina.

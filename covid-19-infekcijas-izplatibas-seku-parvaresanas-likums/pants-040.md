@@ -1,0 +1,1 @@
+40. pants. Ārkārtējās situācijas laikā ierīkotie reliģisko savienību (baznīcu) ziedojumu tālruņi neatkarīgi no tā, vai reliģiskās savienības (baznīcas) ir reģistrētas sabiedriskā labuma organizāciju reģistrā, var tikt saglabāti arī pēc ārkārtējās situācijas atcelšanas līdz 2020. gada 31. decembrim.

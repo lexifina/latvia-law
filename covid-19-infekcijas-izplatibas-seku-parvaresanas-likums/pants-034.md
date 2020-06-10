@@ -1,0 +1,1 @@
+34. pants. Īstenojot šajā likumā minētos pasākumus, kuri atbilst Komercdarbības atbalsta kontroles likuma 5. pantā noteiktajām pazīmēm, tiek ievērotas komercdarbības atbalsta kontroles regulējuma prasības.

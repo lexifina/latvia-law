@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par valsts apdraudējuma un tā seku novēršanas un pārvarēšanas pasākumiem sakarā ar Covid-19 izplatību" (Latvijas Vēstnesis, 2020, 57.B, 67.B, 80.A, 88.B, 96.B, 103.C nr.).

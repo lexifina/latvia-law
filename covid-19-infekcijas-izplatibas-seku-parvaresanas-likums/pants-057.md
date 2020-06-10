@@ -1,0 +1,1 @@
+57. pants. Valsts kultūrkapitāla fonds finansiāli atbalsta fizisko un juridisko personu īstenotos projektus no tam piešķirtajiem valsts budžeta līdzekļiem, lai mazinātu Covid-19 izraisītās krīzes negatīvo ietekmi uz kultūras nozari.

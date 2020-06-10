@@ -1,0 +1,1 @@
+32. pants. Finanšu ministram ir tiesības parakstīt Latvijas Republikas vārdā galvojuma līgumu ar Eiropas Komisiju par dalību Eiropas Savienības atbalsta instrumentā "Bezdarba risku mazināšanai ārkārtas situācijā (SURE)" pēc tam, kad Ministru kabinets ir atbalstījis galvojuma līgumu.

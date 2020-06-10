@@ -1,0 +1,2 @@
+16. pants. (1) Par nepatiesas informācijas sniegšanu Valsts ieņēmumu dienestam dīkstāves pabalsta saņemšanai piemēro naudas sodu fiziskajai personai vai valdes loceklim līdz trīssimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās vai bez tā.
+(2) Administratīvā pārkāpuma procesu par šā panta pirmajā daļā minēto pārkāpumu veic Valsts ieņēmumu dienests.

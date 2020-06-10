@@ -1,0 +1,4 @@
+7. pants. Par uzņēmumu ienākuma nodokļa maksātāja ar saimniecisko darbību saistītiem izdevumiem laikposmā no dienas, kad izsludināta ārkārtējā situācija saistībā ar Covid-19 izplatību, līdz 2020. gada 31. decembrim uzskatāmi preču un pakalpojumu dāvinājumi ārkārtējās situācijas negatīvi ietekmētām sociālajām grupām (nepersonificējot saņēmēju iedzīvotāju ienākuma nodokļa piemērošanas mērķiem), kā arī personām, kuru pamatdarbība ir medicīnas pakalpojumu sniegšana, izglītības nodrošināšana, labdarība, palīdzība sociāli maznodrošinātajiem, personām ar invaliditāti vai bērniem, ja vienlaikus ir izpildīti šādi nosacījumi:
+1) dāvinājuma saņēmējs nav ar nodokļu maksātāju saistīta persona;
+2) informācija par dāvinājumu ir darīta publiski zināma;
+3) informācija par dāvinājuma saņēmēju un atbalsta summu tiek iesniegta Valsts ieņēmumu dienestam kopā ar pārskata gada pēdējā mēneša deklarāciju.

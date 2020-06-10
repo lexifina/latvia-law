@@ -1,0 +1,7 @@
+2. Ministru kabinets līdz 2020. gada 31. decembrim izdod šā likuma 2., 14., 15. un 29. pantā paredzētos noteikumus. Līdz to spēkā stāšanās dienai, ciktāl tas nav pretrunā ar šo likumu, ir spēkā:
+1) Ministru kabineta 2020. gada 24. marta noteikumi Nr. 151 "Noteikumi par nozarēm, kurām sakarā ar Covid-19 izplatību ir būtiski pasliktinājusies finanšu situācija";
+2) Ministru kabineta 2020. gada 26. marta noteikumi Nr. 165 "Noteikumi par Covid-19 izraisītās krīzes skartiem darba devējiem, kuri kvalificējas dīkstāves pabalstam un nokavēto nodokļu maksājumu samaksas sadalei termiņos vai atlikšanai uz laiku līdz trim gadiem";
+3) Ministru kabineta 2020. gada 31. marta noteikumi Nr. 179 "Noteikumi par dīkstāves pabalstu pašnodarbinātām personām, kuras skārusi Covid-19 izplatība";
+4) Ministru kabineta 2020. gada 2. aprīļa noteikumi Nr. 180 "Noteikumi par publiskas personas un publiskas personas kontrolētas kapitālsabiedrības mantas nomas maksas atbrīvojuma vai samazinājuma piemērošanu sakarā ar Covid-19 izplatību";
+5) Ministru kabineta 2020. gada 23. aprīļa noteikumi Nr. 236 "Noteikumi par dīkstāves palīdzības pabalstu darba ņēmējiem un pašnodarbinātajām personām, kuras skārusi Covid-19 izplatība";
+6) Ministru kabineta 2020. gada 12. maija noteikumi Nr. 278 "Noteikumi par nosacījumiem un kārtību, kādā pašvaldībām izsniedz valsts aizdevumu ārkārtējās situācijas ietekmes mazināšanai un novēršanai saistībā ar Covid-19 izplatību".

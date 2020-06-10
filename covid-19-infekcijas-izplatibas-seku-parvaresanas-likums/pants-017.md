@@ -1,0 +1,6 @@
+17. pants. (1) Līdz 2020. gada 31. decembrim darba devējs, kurš atbilst Padziļinātās sadarbības programmas dalībniekam noteiktajiem kritērijiem un kuru ir negatīvi ietekmējusi Covid-19 izraisītā krīze, var:
+1) samazināt darbiniekam Darba likuma 74. pantā noteikto atlīdzību par dīkstāvi līdz 70 procentiem no darbiniekam izmaksājamās algas, ievērojot šādus nosacījumus:
+a) saglabājamās atlīdzības apmērs nevar būt mazāks par minimālo mēneša darba algu,
+b) darbiniekam, kura apgādībā ir nepilngadīgs bērns vai bērns, kas turpina vispārējās, profesionālās, augstākās vai speciālās izglītības iegūšanu, bet vēl nav sasniedzis 24 gadu vecumu, papildus šā punkta "a" apakšpunktā noteiktajam saglabājami līdzekļi par katru apgādībā esošu bērnu valsts noteiktajā minimālajā uzturlīdzekļu apmērā;
+2) piešķirt darbiniekam neizmantoto ikgadējo apmaksāto atvaļinājumu, neievērojot Darba likuma 150. panta otrās daļas noteikumus.
+(2) Darbiniekam, kurš nepiekrīt šā panta pirmās daļas 1. punktā minētajam atlīdzības samazinājumam, ir tiesības uzteikt darba līgumu, neievērojot Darba likuma 100. panta pirmajā daļā noteikto termiņu. Šādā gadījumā darba devējam ir pienākums izmaksāt darbiniekam atlaišanas pabalstu Darba likuma 112. pantā noteiktajā apmērā.

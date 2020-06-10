@@ -1,0 +1,1 @@
+45. pants. Attiecībā uz šā likuma 42. pantā minēto alternatīvo ieguldījumu fondu no tā darbības sākuma līdz tā likvidācijai valsts fondēto pensiju shēmas līdzekļu pārvaldītājiem nepiemēro Valsts fondēto pensiju likuma 12. panta otrās daļas 7.¹ punkta otrajā un trešajā teikumā un 14. punktā noteiktos limitus.

@@ -1,0 +1,1 @@
+13. pants. Valsts ieņēmumu dienests 2020., 2021., 2022. un 2023. gadā ir tiesīgs nepieņemt negatīvu lēmumu attiecībā uz padziļinātās sadarbības programmas dalībniekiem, ja tos ir ietekmējusi Covid-19 izraisītā krīze un tie pierāda objektīvo apstākļu esību.

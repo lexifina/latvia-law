@@ -1,0 +1,1 @@
+38. pants. Līdz 2020. gada 31. decembrim tiesa pēc parādnieka motivēta pieteikuma saņemšanas fiziskās personas maksātnespējas procesa saistību dzēšanas procedūras ietvaros var lemt par saistību dzēšanas plānā ietverto maksājumu kreditoriem termiņu pārcelšanu, vienlaikus par attiecīgo periodu pagarinot saistību dzēšanas procedūras termiņu.
