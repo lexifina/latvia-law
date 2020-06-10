@@ -1,4 +1,9 @@
-39.pants. Starptautiskais tūrisms un ceļotāju veselība
-Atvasinātām publiskām personām, iestādēm, komersantiem, pašnodarbinātajiem, kā arī citām juridiskajām un fiziskajām personām, kuras darbojas starptautiskā tūrisma jomā un veic pasažieru pārvadājumus, ceļojumu organizēšanas laikā pilnīgi un objektīvi jāinformē klienti par:
-1) veselības riska faktoriem teritorijās, kuras tie vēlas apmeklēt, kā arī par infekcijas slimību draudiem un individuālajiem pasākumiem, ieskaitot vakcināciju;
-2) medicīniskās palīdzības un konsultācijas saņemšanas iespējām gan pirms ceļojuma, gan tā laikā.
+39. pants. Pārvadājumi un ceļotāju veselība
+(1) Sabiedrības veselības apdraudējuma gadījumā Ministru kabinets pēc veselības ministra ieteikuma ir tiesīgs infekcijas slimību izplatības ierobežošanai noteikt šādus ierobežojumus ceļošanai uz valstīm, kas iekļautas Slimību profilakses un kontroles centra publicētajā to valstu sarakstā, kurās konstatēta infekcijas slimību izplatīšanās, tajā skaitā tādu bīstamu infekcijas slimību izplatīšanās, kuras var radīt nopietnu sabiedrības veselības apdraudējumu:
+1) ierobežojumu personu, transportlīdzekļu un kravu pārvadājumu brīvai kustībai pāri Latvijas valsts robežai;
+2) ierobežojumu starptautiskā tūrisma pakalpojumu sniegšanai;
+3) ierobežojumu un nosacījumus starptautisko gaisa, jūras, autobusu un dzelzceļa pasažieru pārvadājumu pakalpojumu sniegšanai.
+(2) Sabiedrības veselības apdraudējuma gadījumā Ministru kabinets pēc veselības ministra ieteikuma ir tiesīgs infekcijas slimību izplatības ierobežošanai noteikt ierobežojumus un prasības iekšzemes pasažieru pārvadājumu pakalpojumu, kā arī pašpārvadājumu pakalpojumu sniegšanai un izmantošanai.
+(3) Atvasinātām publiskām personām, iestādēm, komersantiem, pašnodarbinātajiem, kā arī citām juridiskajām un fiziskajām personām, kuras darbojas starptautiskā tūrisma jomā un veic pasažieru pārvadājumus, ceļojumu organizēšanas laikā ir pienākums pilnīgi un objektīvi informēt klientus par:
+1) veselības riska faktoriem teritorijās, kuras tie vēlas apmeklēt, kā arī par infekcijas slimību izplatības draudiem un individuālajiem piesardzības pasākumiem, ieskaitot vakcināciju;
+2) medicīniskās palīdzības un konsultācijas saņemšanas iespējām pirms ceļojuma un ceļojuma laikā.

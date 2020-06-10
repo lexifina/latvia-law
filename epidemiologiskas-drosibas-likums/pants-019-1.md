@@ -1,0 +1,2 @@
+19.¹ pants. Pašizolācijas nosacījumi
+Bīstamas infekcijas slimības gadījumā personai, par kuru ir radušās epidemioloģiski pamatotas aizdomas, ka tā ir atradusies paaugstināta inficēšanās riska apstākļos, atbilstoši Slimību profilakses un kontroles centra epidemiologa rekomendācijām tiek piedāvāta brīvprātīga pašizolācija dzīvesvietā vai uzturēšanās vietā infekcijas slimības inkubācijas laikā. Sabiedrības veselības apdraudējuma gadījumā Ministru kabinets ir tiesīgs noteikt šīm personām obligātu pašizolāciju dzīvesvietā vai uzturēšanās vietā.

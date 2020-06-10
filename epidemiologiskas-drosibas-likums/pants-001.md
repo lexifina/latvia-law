@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) bīstamas infekcijas slimības - cilvēka infekcijas slimības un parazitārās slimības, kas sakarā ar to ļaundabīgo klīnisko norisi, spēju strauji izplatīties un efektīvu profilakses vai ārstniecības līdzekļu trūkumu apdraud sabiedrības veselību. Šo slimību sarakstu apstiprina Ministru kabinets;
+1) bīstamas infekcijas slimības - cilvēka infekcijas slimības un parazitārās slimības, kas sakarā ar to ļaundabīgo klīnisko norisi, spēju strauji izplatīties un efektīvu profilakses vai ārstniecības līdzekļu trūkumu apdraud sabiedrības veselību, kā arī var izraisīt starptautiskas nozīmes ārkārtas sabiedrības veselības situāciju;
 2) cilvēku infekcijas slimība - infekcijas slimības izraisītāja ierosināta slimība, kuras izplatīšanās var radīt epidēmiju (turpmāk - infekcijas slimība);
 3) deratizācija - pasākumu kopums peļveidīgo grauzēju iznīcināšanai;
 4) dezinfekcija - pasākumu kopums infekcijas slimību izraisītāju iznīcināšanai;
