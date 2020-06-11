@@ -2,3 +2,4 @@
 (1) Likumu, ja tajā nav noteikts citādi, piemēro visiem Latvijas Kuģu reģistrā (turpmāk - Kuģu reģistrs) reģistrētajiem kuģošanas līdzekļiem neatkarīgi no to atrašanās vietas, ārvalsts karoga kuģiem, kuri atrodas Latvijas jurisdikcijā esošajos ūdeņos (turpmāk - Latvijas ūdeņi), ostām, ostu iekārtām un visām fiziskajām un juridiskajām personām, kā arī citiem tiesību subjektiem saistībā ar jūras drošību, kas garantējama atbilstoši starptautisko līgumu prasībām un ietver personāla, kravas, kuģošanas un kuģu drošību.
 (2) Likums neattiecas uz Nacionālo bruņoto spēku kuģiem un to personālu, ja likumā nav noteikts citādi, kā arī uz citu valstu karakuģiem un to personālu.
 (3) Valsts akciju sabiedrības "Ceļu satiksmes drošības direkcija" reģistrā reģistrētajiem kuģošanas līdzekļiem piemēro šā likuma 26.panta ceturto daļu, 42., 43. un 48.¹ pantu.
+(4) (Daļa stājas spēkā 01.07.2020. un iekļauta likuma redakcijā uz 01.07.2020. Sk Pārejas noteikumu 43. punktu)
