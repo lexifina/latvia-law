@@ -8,3 +8,4 @@
 6) (izslēgts ar 04.03.2010. likumu);
 7) (izslēgts no 01.09.2018. ar 18.06.2015. likumu. Sk. Pārejas noteikumu 43. punktu).
 (2) Vides aizsardzības un reģionālās attīstības ministrija izstrādā metodiku, pēc kuras pašvaldība nosaka vienam izglītojamajam nepieciešamās vidējās izmaksas pirmsskolas izglītības programmā (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) pašvaldības izglītības iestādēs, un kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas izmaksas privātajai izglītības iestādei.
+(3) Vides aizsardzības un reģionālās attīstības ministrija ved un uztur reģistru izglītojamo (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) uzskaitei, kurā vecāki (personas, kas realizē aizgādību) var elektroniski pieteikt bērnu pirmsskolas izglītības programmu apguvei izglītības iestādē.

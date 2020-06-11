@@ -29,6 +29,7 @@ Ministru kabinets:
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
 20¹) nosaka kārtību, kādā izglītības iestāde (izņemot augstskolas un koledžas) nodrošina bibliotekāros un informācijas pakalpojumus;
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
+21¹) nosaka izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm;
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
@@ -45,6 +46,7 @@ Ministru kabinets:
 34) nosaka atbalsta pasākumus darba devējiem darbinieku papildu izglītošanā, tai skaitā kritērijus šāda atbalsta saņemšanai un atbalsta pasākumu īstenošanas kārtību;
 35) nosaka kārtību, kādā izglītības iestāde informē izglītojamo vecākus (personas, kas realizē aizgādību), pašvaldības vai valsts iestādes, ja izglītojamais bez attaisnojoša iemesla neapmeklē izglītības iestādi;
 36) nosaka metodiku, pēc kuras pašvaldība nosaka vienam izglītojamajam nepieciešamās vidējās izmaksas pirmsskolas izglītības programmā (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) pašvaldības izglītības iestādēs, un kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas izmaksas privātajai izglītības iestādei;
+36¹) nosaka kārtību, kādā ved un uztur reģistru to izglītojamo uzskaitei, kuri pieteikti pirmsskolas izglītības programmu apguvei izglītības iestādē;
 37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas virzienus, pedagogu profesionālās darbības kvalitātes pakāpju aprakstu un kārtību, kādā organizē pedagogu profesionālās darbības kvalitātes novērtēšanu;
 38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
 39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus;
