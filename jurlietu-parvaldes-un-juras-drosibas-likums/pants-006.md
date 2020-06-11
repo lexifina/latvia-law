@@ -8,6 +8,7 @@ b) izsniedz kuģu sertifikātus,
 c) apstiprina kuģa būves un modernizācijas projektus, dokumentāciju par kuģa stabilitāti, rīcības plānu piesārņojuma likvidācijai avārijas gadījumā, kuģa rokasgrāmatas un citu kuģa dokumentāciju, kā arī izdod un reģistrē kuģa žurnālus,
 d) uzrauga Starptautiskā drošas kuģu ekspluatācijas un piesārņošanas novēršanas vadības kodeksa (turpmāk - ISM kodekss) izpildi attiecībā uz Kuģu reģistrā iekļautajiem kuģiem,
 e) izsniedz emisijas samazināšanas tehnoloģiju izmēģinājumu atļauju Kuģu reģistrā iekļautajiem kuģiem;
+f) pilda Eiropas Parlamenta un Padomes 2013. gada 20. novembra regulā (ES) Nr. 1257/2013 par kuģu pārstrādi un ar ko groza regulu (EK) Nr. 1013/2006 un direktīvu 2009/16/EK minētos administrācijas pienākumus;
 4) veic Kuģu reģistrā iekļauto kuģu tilpības mērīšanu un izsniedz tilpību apliecinošus dokumentus;
 5) uzrauga klasifikācijas sabiedrību (atzīto organizāciju) darbību;
 6) izsniedz atbilstības apliecību (sertifikātu) komersantiem, kas veic kuģa drošības aprīkojuma pārbaudes;
