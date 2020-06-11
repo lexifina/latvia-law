@@ -21,7 +21,8 @@
 (4) Rajona pilsētas tiesas priekšsēdētājs var:
 1) pārbaudīt procesuālo termiņu ievērošanu tiesneša tiesvedībā esošajās lietās, kā arī lietu kārtošanas atbilstību normatīvo aktu, tai skaitā tiesu lietvedības noteikumu, prasībām;
 2) pieprasīt tiesnesim paskaidrojumu par tiesneša darba organizācijas un citiem jautājumiem šajā pantā noteiktās kompetences ietvaros;
-3) dot tiesnesim rīkojumus, kas saistīti ar tiesneša darba organizāciju amata pienākumu izpildei.
+3) dot tiesnesim rīkojumus, kas saistīti ar tiesneša darba organizāciju amata pienākumu izpildei;
+4) ierosināt Tiesnešu kvalifikācijas kolēģijai veikt rajona (pilsētas) tiesas tiesneša profesionālās darbības ārpuskārtas novērtēšanu. Priekšlikumā norādāmi priekšsēdētāja konstatētie tiesneša profesionālās darbības apstākļi, kas saistīti ar būtiskiem trūkumiem darba organizēšanā vai nepietiekamām tiesneša profesionālajām zināšanām, kas ir šķērslis tiesvedības procesa kvalitatīvai norisei.
 (5) Ja tiesnesis bez pamatota iemesla neveic nepieciešamās procesuālās darbības, lai nodrošinātu lietas izskatīšanu saprātīgā termiņā, kā arī gadījumos, kad tiesneša plānotais termiņš nenodrošina lietas izskatīšanu saprātīgā termiņā, tiesas priekšsēdētājs var:
 1) uzdot tiesnesim noteikt atbilstošu termiņu, kurā, ņemot vērā lietas apstākļus, jāveic attiecīgā procesuālā darbība;
 2) pārdalīt tiesnešiem lietas saskaņā ar lietu sadales plānu.

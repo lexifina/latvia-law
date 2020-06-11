@@ -7,3 +7,4 @@
 (5) Augstākās tiesas priekšsēdētājs sasauc Senāta departamentu priekšsēdētāju sēdes, kurās izšķir tiesneša vai tiesas iesniegtu jautājumu par lietas pakļautību, ar balsstiesībām piedalās šajās sēdēs un vada tās.
 (6) Augstākās tiesas priekšsēdētājam ir arī šā likuma 33.panta ceturtajā un piektajā daļā noteiktās funkcijas.
 (7) Augstākās tiesas priekšsēdētājs, beidzis pildīt amata pienākumus, turpina pildīt tiesneša amata pienākumus kādā no Senāta departamentiem.
+(8) Augstākās tiesas priekšsēdētājs var ierosināt Tiesnešu kvalifikācijas kolēģijai veikt rajona (pilsētas) tiesas tiesneša, apgabaltiesas tiesneša vai Augstākās tiesas tiesneša profesionālās darbības ārpuskārtas novērtēšanu. Priekšlikumā norādāmi priekšsēdētāja konstatētie tiesneša profesionālās darbības apstākļi, kas saistīti ar būtiskiem trūkumiem darba organizēšanā vai nepietiekamām tiesneša profesionālajām zināšanām, kas ir šķērslis tiesvedības procesa kvalitatīvai norisei.

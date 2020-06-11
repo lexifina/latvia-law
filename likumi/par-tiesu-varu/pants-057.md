@@ -1,2 +1,2 @@
 57. pants. Kandidāta izvirzīšana rajona (pilsētas) tiesas tiesneša un apgabaltiesas tiesneša amatam
-Rajona (pilsētas) tiesas tiesneša un apgabaltiesas tiesneša kandidatūru iecelšanai vai apstiprināšanai amatā izvirza tieslietu ministrs, pamatojoties uz tiesnešu kvalifikācijas kolēģijas atzinumu.
+Rajona (pilsētas) tiesas tiesneša un apgabaltiesas tiesneša amata kandidātu, kas izraudzīts šā likuma 54.¹ panta pirmajā daļā noteiktajā kārtībā, ieguvis augstāko punktu skaitu starp tiesneša amata kandidātu sarakstā iekļautajām personām un piekritis ieņemt vakanto tiesneša amata vietu, iecelšanai vai apstiprināšanai amatā izvirza tieslietu ministrs.

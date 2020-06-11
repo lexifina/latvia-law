@@ -4,13 +4,13 @@
 1) (izslēgts ar 30.04.2009. likumu);
 2) (izslēgts ar 13.06.2013. likumu);
 3) kārto tiesnešu, tiesu darbinieku personāllietas;
-4) nodrošina tiesnešu amata kandidātu atlasi un organizē viņu stažēšanos;
+4) nodrošina tiesneša amata kandidātu atlases komisijas darbu;
 5) sagatavo dokumentus un veic pasākumus, kas saistīti ar tiesnešu iecelšanu un apstiprināšanu amatā, kā arī viņu atstādināšanu, atbrīvošanu un atcelšanu no amata;
 5¹) izdod vai sagatavo (ja nosakāma tiesneša aizstāšana šā likuma 74.pantā minētajā gadījumā) rīkojumus par tiesnešu atvaļinājumiem, komandējumiem un apmācību;
 6) sagatavo tiesnešu amatu sarakstus un apstiprina tiesas darbinieku amatu sarakstus;
 7) apstiprina tiesas darbinieku amatu aprakstus;
 8) saskaņojot ar tiesas priekšsēdētāju, pieņem darbā un atlaiž no darba tiesas darbiniekus, izdod rīkojumus par darbinieku atvaļinājumiem, komandējumiem un apmācību;
-9) plāno un nodrošina tiesnešu, tiesas darbinieku un tiesu piesēdētāju apmācību;
+9) plāno un nodrošina tiesnešu, tiesas darbinieku apmācību;
 10) pieprasa no tiesām nepieciešamās ziņas un no to darbiniekiem - paskaidrojumus;
 11) nodrošina tiesneša iepazīstināšanu ar disciplinārlietas materiāliem, kā arī nosūta disciplinārlietas materiālus Tiesnešu disciplinārkolēģijai;
 12) disciplināri soda tiesas darbiniekus par konstatētajiem darba disciplīnas pārkāpumiem;
