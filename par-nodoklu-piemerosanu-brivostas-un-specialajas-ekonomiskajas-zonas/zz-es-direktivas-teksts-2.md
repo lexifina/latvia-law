@@ -40,13 +40,13 @@ g) atbalsta sniegšanas juridiskais pamats (likums, Ministru Kabineta noteikumi 
 13. Plānotais atbalsta procents nodokļu atvieglojumu piemērošanai (noteikts saskaņā ar šā likuma 8.panta pirmo daļu, 8.¹ panta trešo daļu vai 8.² panta pirmo un otro daļu).
 14. Kapitālsabiedrības statuss projekta pieteikuma iesniegšanas brīdī atbilstoši Komisijas regulas Nr. 651/2014 I pielikumā noteiktajam (liela, vidēja vai maza kapitālsabiedrība).
 15. Kapitālsabiedrības apliecinājums, ka tā nodrošinās finansiālo ieguldījumu vismaz 25 procentu apmērā no līgumā par ieguldījumu veikšanu paredzētajām kopējām ieguldījumu projekta izmaksām, par kurām nav saņemts valsts atbalsts, tas ir, finansējumu vismaz 25 procentu apmērā no pašas saimnieciskajiem resursiem vai ārējiem finanšu resursiem, par kuriem nav saņemts nekāds publiskais atbalsts, tai skaitā nav saņemts valsts vai pašvaldības galvojums vai valsts vai pašvaldības aizdevums ar atvieglotiem nosacījumiem.
-16. Ņemot vērā šā likuma 5.panta ceturtajā daļā noteiktos nozaru ierobežojumus, ieguldījuma projekta ietvaros ražotie produkti vai sniegtie pakalpojumi nosakāmi atbilstoši PRODCOM/NACE/CPA (CPA - pakalpojumu projektu gadījumā) klasifikācijām, kur:
+16. Ņemot vērā šā likuma 5. panta ceturtajā daļā un 4.¹ daļā noteiktos nozaru ierobežojumus, ieguldījumu projekta ietvaros ražotie produkti vai sniegtie pakalpojumi nosakāmi atbilstoši PRODCOM/NACE/CPA (CPA - pakalpojumu projektu gadījumā) klasifikācijām, kur:
 PRODCOM - ieguves un apstrādes rūpniecības produktu klasifikācija;
 NACE - vispārējās ekonomiskās darbības klasifikācija;
 CPA - Eiropas Savienības Preču statistiskā klasifikācija pēc saimniecības nozarēm.
 17. Apliecinājums, ka ieguldījumi paliks attiecīgajā apgabalā vismaz piecus gadus (vai mazo vai vidējo kapitālsabiedrību gadījumā - trīs gadus) kopš to veikšanas.
 18. Kapitālsabiedrības apliecinājums, ka uz kapitālsabiedrību neattiecas nelikumīgi piešķirta atbalsta atgūšanas rīkojums saskaņā ar iepriekšēju Eiropas Komisijas lēmumu.
 19. Informācija, ka kapitālsabiedrība neatbilst grūtībās nonākušas kapitālsabiedrības statusam saskaņā ar Komisijas regulas Nr. 651/2014 2.panta 18.punktu.
-20. Apliecinājums, ka kapitālsabiedrība nav uzsākusi un neuzsāks ieguldījumu veikšanu pirms līguma par ieguldījuma veikšanu spēkā stāšanās.
+20. Apliecinājums, ka kapitālsabiedrība nav uzsākusi un neuzsāks darbus pie projekta pirms līguma par ieguldījuma veikšanu spēkā stāšanās.
 21. Ja nodokļu atvieglojumus šā likuma ietvaros plānots apvienot ar citu atbalstu ieguldījumiem, kapitālsabiedrības apliecinājums, ka ieguldījumu veikšana nav uzsākta.
 22. Apliecinājums, ka kapitālsabiedrība pēdējo divu gadu laikā pirms pieteikuma iesniegšanas līguma par ieguldījumu veikšanu slēgšanai nav veikusi pārcelšanu uz attiecīgo zonas vai brīvostas teritoriju, kurā tiks veikts sākotnējais ieguldījums, kuram pieprasīts atbalsts, un apņemas to nedarīt divus gadus pēc tam, kad ir pabeigts sākotnējais ieguldījums, kuram tiek pieprasīts atbalsts.
