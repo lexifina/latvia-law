@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada 14. aprīļa Ministru kabineta noteikumi Nr. 217 Grozījumi Ministru kabineta 2013. gada 29. oktobra noteikumos Nr. 1186 \"Mērvienību noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2020-04-17",
+  "entry_into_force": "2020-06-13",
+  "notification_date": "2020-04-27",
+  "commission_reference": "MNE(2020)53221",
+  "nim_celex": "72019L1258LVA_283624",
+  "nim_id": "283624",
+  "transposes_celex": [
+    "32019L1258"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd327eaf-8f72-11ea-812f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
