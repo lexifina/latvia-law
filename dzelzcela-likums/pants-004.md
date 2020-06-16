@@ -7,6 +7,6 @@
 5) dzelzceļa telekomunikāciju tīkli;
 6) dzelzceļa elektroapgādes gaisvadu un kabeļu līnijas, kontakttīkli, transformatoru un vilces apakšstacijas;
 7) stacijas, izmaiņas punkti un pieturas punkti;
-8) ēkas un būves, kas nepieciešamas dzelzceļa infrastruktūras objektu uzturēšanai, remontam un lietošanai;
+8) ēkas un būves, kas nepieciešamas dzelzceļa infrastruktūras objektu un ritošā sastāva uzturēšanai, remontam un lietošanai;
 9) speciāla infrastruktūra pasažieru un kravu piekļuvei pie dzelzceļa platformām, tostarp speciāli piebraucamie ceļi un gājēju ceļi pasažieriem.
 (2) Dzelzceļa infrastruktūrā ietilpst arī gaisa telpa un zemes dzīles dzelzceļa zemes nodalījuma joslā, ciktāl tas nepieciešams dzelzceļa infrastruktūras objektu ekspluatācijai, aizsardzībai un dzelzceļa satiksmei.
