@@ -1,0 +1,2 @@
+14.² pants. Ierobežojumi atļauju izsniegšanai, ja pārkāpti sugu un biotopu aizsardzību regulējoši normatīvie akti
+Personai netiek izsniegtas sugu un biotopu aizsardzību regulējošos normatīvajos aktos noteiktās atļaujas, ja nav samaksāts administratīvais naudas sods par pārkāpumiem sugu un biotopu aizsardzības jomā, ja nav vides aizsardzības jomu regulējošos normatīvajos aktos noteiktajā kārtībā veikti sanācijas pasākumi vai nav atlīdzināti zaudējumi par sugām un biotopiem nodarīto kaitējumu.
