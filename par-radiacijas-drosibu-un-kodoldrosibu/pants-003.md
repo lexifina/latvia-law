@@ -7,3 +7,4 @@
 5) darbības ar jonizējošā starojuma avotiem veic pēc licences saņemšanas vai darbību reģistrēšanas, izņemot Ministru kabineta noteikumos paredzētos gadījumus.
 (2) Aizliegts kodoliekārtu un radioaktīvo atkritumu apglabāšanas objektu vai radioaktīvo atkritumu pārvaldības objektu izvietot īpaši aizsargājamā dabas teritorijā, apdzīvotā vietā vai tiešā apdzīvotas vietas tuvumā.
 (3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar Ministru kabineta noteikumiem par aizsardzību pret jonizējošo starojumu.
+(4) Preces ražotājs, importētājs un izplatītājs nodrošina, ka jonizējošā starojuma līmenis precē, kas tiek laista tirgū, piedāvāta vai pārdota, atbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu un nerada draudus cilvēka veselībai.

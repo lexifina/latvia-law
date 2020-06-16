@@ -1,2 +1,2 @@
 VIII nodaļa
-Atbildība par pārkāpumiem
+Prasības zaudējumu un kodolkaitējuma atlīdzināšanai un nelikumīgi izmantoto jonizējošā starojuma avotu apsaimniekošanai
