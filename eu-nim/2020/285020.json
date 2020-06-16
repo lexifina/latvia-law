@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 9. jūnija noteikumi Nr. 374 \"Dzelzceļa savstarpējās izmantojamības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "112",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-11",
+  "entry_into_force": "2020-06-16",
+  "notification_date": "2020-06-11",
+  "commission_reference": "MNE(2020)54435",
+  "nim_celex": "72016L0798LVA_285020",
+  "nim_id": "285020",
+  "transposes_celex": [
+    "32016L0798"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5be9667e-ac82-11ea-bb7a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
