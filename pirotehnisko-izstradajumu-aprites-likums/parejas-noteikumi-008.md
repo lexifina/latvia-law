@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 8. panta pirmajā daļā par Valsts policijas tiesībām apturēt speciālās atļaujas (licences) darbību pilnībā vai kādā tās daļā, kā arī 23. panta izslēgšana un šā likuma IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
