@@ -1,4 +1,4 @@
 42.pants. Starptautiskie līgumi
 (1) Ja starptautiskajā līgumā, kuru Saeima ir apstiprinājusi, paredzēti citādi noteikumi nekā Latvijas Republikas likumos, tiek piemēroti starptautiskā līguma noteikumi. Veicot starptautiskos pārvadājumus, jāievēro Latvijas Republikai saistoši starptautiskie līgumi attiecībā uz starptautisko dzelzceļa transportu.
 (2) Pārvadātājiem un dzelzceļa infrastruktūras pārvaldītājiem ir tiesības pārstāvēt sevi un slēgt līgumus ar starptautiskajām dzelzceļa organizācijām, ārvalstu komercsabiedrībām un to apvienībām.
-(3) Ārvalsts komercsabiedrības tiesības būt par pārvadātāju nosaka attiecīgās valsts normatīvie akti. Robežvalsts pārvadātāju tiesības piekļūt publiskās lietošanas dzelzceļa infrastruktūrai, neievērojot šā likuma 35.pantu, nosakāmas, pamatojoties uz līgumu, kas tiek slēgts starp robežvalsts pārvadātāju un publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāju un pārvadātāju. Dokumenti, kas apliecina pārvadātāja un robežvalsts pārvadātāja kompetenci un aprīkojuma atbilstību, tiek savstarpēji atzīti, pamatojoties uz starptautiskajiem līgumiem.
+(3) (Izslēgta no 16.06.2020. ar 13.02.2020. likumu)
