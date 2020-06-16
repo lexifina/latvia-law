@@ -1,0 +1,3 @@
+43.³ pants. Savstarpējas izmantojamības komponenti
+(1) Savstarpējas izmantojamības komponentus drīkst laist tirgū lietošanai Eiropas Savienības dzelzceļa sistēmā tikai tad, ja tie ļauj panākt Eiropas Savienības dzelzceļa sistēmas savstarpēju izmantojamību un atbilst pamatprasībām, ja tos lieto paredzētajā izmantošanas telpā, pienācīgi uzstāda un veic to tehnisko apkopi. Savstarpējas izmantojamības komponentus atļauts piedāvāt tirgū lietošanai ārpus Eiropas Savienības dzelzceļa sistēmas, kā arī izmantošanai citiem mērķiem.
+(2) Prasības savstarpējas izmantojamības komponentu laišanai tirgū un atbilstības novērtēšanai nosaka Ministru kabinets.
