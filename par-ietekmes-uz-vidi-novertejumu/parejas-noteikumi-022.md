@@ -1,0 +1,1 @@
+22. Grozījumi par šā likuma VI nodaļas nosaukuma izteikšanu jaunā redakcijā, 24. un 25. panta izteikšanu jaunā redakcijā, kā arī VII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
