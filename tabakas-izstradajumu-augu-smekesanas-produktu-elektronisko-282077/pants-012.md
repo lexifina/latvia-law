@@ -13,7 +13,8 @@
 7) paziņo Eiropas Komisijai par visām mērīšanas metodēm, kas tiek izmantotas, lai mērītu citas cigarešu emisijas, kuras nav darvas, nikotīna un oglekļa monoksīda emisijas, un emisijas no tabakas izstrādājumiem, kuri nav cigaretes;
 8) paziņo Eiropas Komisijai par maksimālo emisiju līmeni, kas noteikts citām cigarešu emisijām, kuras nav šā likuma 3.panta trešajā daļā noteiktās emisijas, un emisijām no tabakas izstrādājumiem, kuri nav cigaretes;
 9) veic nepieciešamās darbības atbilstoši šā likuma 5.panta trešajā un ceturtajā daļā noteiktajam;
-10) kontrolē šā likuma 6.panta piektajā, sestajā, septītajā un astotajā daļā, kā arī 7.panta pirmajā, otrajā, trešajā, ceturtajā un piektajā daļā noteikto prasību izpildi.
+10) kontrolē šā likuma 6.panta piektajā, sestajā, septītajā un astotajā daļā, kā arī 7.panta pirmajā, otrajā, trešajā, ceturtajā un piektajā daļā noteikto prasību izpildi;
+11) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 14. punktu).
 (3) Valsts ieņēmumu dienests un Veselības inspekcija ir tiesīgi veikt tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču, uzpildes tvertņu un jaunieviestu tabakas izstrādājumu paraugu ņemšanu tirdzniecības vietās un akcīzes preču noliktavās.
 (4) Patērētāju tiesību aizsardzības centrs kontrolē šā likuma 6. panta pirmajā, otrajā, trešajā, ceturtajā un trīspadsmitajā daļā, kā arī 9. panta pirmajā, otrajā, ceturtajā un piektajā daļā noteikto ierobežojumu izpildi, kuri saskaņā ar Reklāmas likuma 7. panta pirmo daļu ir uzskatāmi par papildu prasībām reklāmas jomā un kuru izpildes uzraudzība tiek veikta saskaņā ar Reklāmas likumu.
 (5) Valsts policija un pašvaldības policija kontrolē šā likuma 3.panta pirmās daļas 1. un 2.punktā, 8.panta pirmajā, trešajā un piektajā daļā, kā arī 10.panta otrajā, trešajā, ceturtajā, piektajā un sestajā daļā noteikto ierobežojumu izpildi.
