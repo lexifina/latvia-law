@@ -1,0 +1,1 @@
+14. Šā likuma 12. panta otrās daļas 11. punkts un 14. un 15. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu. Šā likuma 14. panta trešā daļa attiecībā uz pārējiem tabakas izstrādājumiem (izņemot cigaretes un tinamo tabaku) piemērojama no 2024. gada 20. maija
