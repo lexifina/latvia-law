@@ -9,11 +9,11 @@
 4) (izslēgts ar 18.09.2014. likumu).
 (4) Aizsardzības ministrija uzrauga darbības ar ķīmiskajām vielām vai maisījumiem Nacionālajos bruņotajos spēkos.
 (5) Darbības ķīmisko avāriju un citu ar ķīmisko vielu vai maisījumu lietošanu saistīto avāriju un ārkārtas situāciju likvidēšanā un neatliekamos glābšanas darbus veic, kā arī attiecīgo drošības noteikumu ievērošanu kontrolē Iekšlietu ministrija un tās padotībā esošās iestādes saskaņā ar likumiem un citiem normatīvajiem aktiem.
-(6) Ievestās bīstamās ķīmiskās vielas un bīstamos maisījumus, kuriem ir noteikti īpaši ierobežojumi vai aizliegumi, kā arī šīs bīstamās ķīmiskās vielas saturošus būvizstrādājumus uz valsts (muitas) robežas kontrolē Valsts ieņēmumu dienests.
+(6) Ievestās Latvijā no trešās valsts un izvestās no Latvijas uz trešo valsti bīstamās ķīmiskās vielas un bīstamos maisījumus, kuriem ir noteikti īpaši ierobežojumi vai aizliegumi, kā arī šīs bīstamās ķīmiskās vielas saturošus būvizstrādājumus uz valsts (muitas) robežas kontrolē Valsts ieņēmumu dienests.
 (6¹) Patērētāju tiesību aizsardzības centrs kontrolē ķīmiskās vielas izstrādājumos atbilstoši regulai 1907/2006 un apstrādātus izstrādājumus, izņemot apstrādātus izstrādājumus pārtikas aprites un veterinārajā jomā un apstrādātus izstrādājumus, kas ir vielas vai maisījumi, atbilstoši regulai 528/2012.
 (6²) (Izslēgta ar 29.10.2009. likumu.)
 (6³) Valsts ieņēmumu dienests un valsts sabiedrība ar ierobežotu atbildību "Latvijas proves birojs" (turpmāk - Latvijas proves birojs) īsteno dārgmetālu, dārgakmeņu un to izstrādājumu kontroli. Latvijas proves birojs:
-1) veic pārbaudes vietās, kur notiek saimnieciskā darbība ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem, un par konstatētajiem normatīvo aktu pārkāpumiem sastāda administratīvā pārkāpuma protokolu;
-2) nosūta materiālus par veikto pārbaudi un administratīvā pārkāpuma protokolu Valsts ieņēmumu dienestam administratīvā akta izdošanai.
+1) veic pārbaudes vietās, kur notiek saimnieciskā darbība ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;
+2) nosūta materiālus par veikto pārbaudi Valsts ieņēmumu dienestam administratīvā pārkāpuma lietas izskatīšanai un administratīvā soda piemērošanai.
 (6⁴) Pārtikas un veterinārais dienests kontrolē biocīdus un apstrādātus izstrādājumus pārtikas aprites un veterinārajā jomā atbilstoši regulai 528/2012 normatīvajos aktos noteiktajos uzraudzības objektos.
 (7) Citas iestādes darbības ar ķīmiskajām vielām vai maisījumiem, vai apstrādātiem izstrādājumiem uzrauga un kontrolē likumos un citos normatīvajos aktos noteiktajā kārtībā.
