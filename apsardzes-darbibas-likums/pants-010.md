@@ -1,7 +1,7 @@
 10.pants. Apsardzes komersanta tiesības un pienākumi
 (1) Apsardzes komersantam, kas saņēmis speciālo atļauju (licenci) fiziskās apsardzes, tehniskās apsardzes vai inkasācijas apsardzes pakalpojumu sniegšanai, ir tiesības:
-1) apsardzes darbības nodrošināšanai ar Valsts policijas atļauju iegādāties un glabāt šaujamieročus, kā arī iegādāties un glabāt gāzes pistoles (revolverus) un speciālos līdzekļus Ieroču un speciālo līdzekļu aprites likumā noteiktajā kārtībā;
-2) apsardzes darbības nodrošināšanai izmantot šaujamieročus, gāzes pistoles (revolverus) un speciālos līdzekļus šajā likumā noteiktajā kārtībā;
+1) apsardzes darbības nodrošināšanai ar Valsts policijas atļauju iegādāties un glabāt šaujamieročus, kā arī iegādāties un glabāt gāzes ieročus un signālieročus, un speciālos līdzekļus Ieroču aprites likumā noteiktajā kārtībā;
+2) apsardzes darbības nodrošināšanai izmantot šaujamieročus, gāzes ieročus un signālieročus, un speciālos līdzekļus šajā likumā noteiktajā kārtībā;
 3) radiosakaru nodrošināšanai noteiktā kārtībā izmantot radiofrekvences;
 4) apsardzes darbībā izmantot dienesta suņus;
 5) apsardzes darbībā izmantot apsardzes tehniskās sistēmas;
