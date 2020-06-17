@@ -9,4 +9,4 @@
 8) aizliegt zāļu ražošanu, importēšanu vai izplatīšanu, izņemt un konfiscēt zāles, ja to ražošanā, importēšanā vai izplatīšanā tiek pārkāptas normatīvajos aktos noteiktās prasības farmācijas jomā;
 9) ierosināt, lai par farmaceitiskās un veterinārfarmaceitiskās darbības pārkāpumu tiek apturēta vai anulēta speciālā atļauja (licence) farmaceitiskajai darbībai vai speciālā atļauja (licence) veterinārfarmaceitiskajai darbībai, vai atļauja zāļu iegādei;
 10) uzraudzīt zāļu reklāmu;
-11) administratīvi sodīt vainīgās personas par normatīvo aktu pārkāpšanu.
+11) (izslēgts ar 21.05.2020. likumu).
