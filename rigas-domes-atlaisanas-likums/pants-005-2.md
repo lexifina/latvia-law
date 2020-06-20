@@ -1,0 +1,8 @@
+5.² pants. (1) Vēlētājs drīkst balsot vēlēšanu iecirknī, kura vēlētāju sarakstā viņš ir reģistrēts, vai jebkurā citā vēlēšanu iecirknī. Ja vēlētājs nodod savu balsi citā vēlēšanu iecirknī, tā iecirkņa komisija, kura vēlētāju sarakstā vēlētājs ir reģistrēts, svītro viņu no vēlētāju saraksta.
+(2) Ja vēlētājs balso vēlēšanu iecirknī, kura vēlētāju sarakstā viņš nav reģistrēts, iecirkņa komisija Centrālās vēlēšanu komisijas noteiktajā kārtībā:
+1) veic vēlētāju sarakstā iekļauto ziņu elektronisku apmaiņu ar vēlēšanu iecirkni, kura vēlētāju sarakstā vēlētājs ir reģistrēts;
+2) saņem no tā iecirkņa komisijas, kura vēlētāju sarakstā vēlētājs ir reģistrēts, apstiprinājumu, ka viņš nav nobalsojis;
+3) iekļauj vēlētāju attiecīgā vēlēšanu iecirkņa vēlētāju sarakstā;
+4) vēlētājam balsošanu atsaka un vēlēšanu iecirkņa vēlētāju sarakstā viņu neiekļauj, ja iecirkņa komisija, veicot ziņu elektronisku apmaiņu, saņem informāciju, ka vēlētājs jau ir nobalsojis.
+(3) Ja šā panta otrajā daļā minētās darbības veikt nav iespējams, iecirkņa komisija vēlētāju reģistrē atsevišķā balsotāju sarakstā, vēlētājam izsniedz ar attiecīgās iecirkņa komisijas zīmogu apzīmogotu reģistrācijas aploksni (uz kuras norāda vēlētāja vārdu, uzvārdu, balsotāju saraksta lapas numuru un vēlētāja kārtas numuru lapā), vēlēšanu aploksni un vēlēšanu zīmju komplektu. Vēlētājs nobalso Republikas pilsētas domes un novada domes vēlēšanu likumā noteiktajā kārtībā, pēc tam ievieto vēlēšanu aploksni reģistrācijas aploksnē, to aizlīmē un iemet vēlēšanu kastē.
+(4) Iecirkņa komisija pēc tam, kad iespējams veikt šā panta otrajā daļā minētās darbības, tās veic, netraucējot balsošanu, pēc atsevišķajiem balsotāju sarakstiem un tajos atzīmē, vai vēlētāja balss ir līdzskaitāma.
