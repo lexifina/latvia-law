@@ -1,0 +1,3 @@
+40. pants. (1) Administratīvā pārkāpuma procesu par šā likuma 39. panta pirmajā daļā minētajiem pārkāpumiem veic Korupcijas novēršanas un apkarošanas birojs.
+(2) Administratīvā pārkāpuma procesu par šā likuma 39. panta otrajā daļā minētajiem pārkāpumiem veic Nacionālā elektronisko plašsaziņas līdzekļu padome.
+(3) Administratīvā pārkāpuma procesu par šā likuma 39. panta pirmajā daļā minētajiem pārkāpumiem, ja tos konstatējušas Valsts policijas vai pašvaldības policijas amatpersonas, līdz lietas izskatīšanai veic attiecīgi Valsts policija vai pašvaldības policija, bet administratīvā pārkāpuma lietu izskata Korupcijas novēršanas un apkarošanas birojs.
