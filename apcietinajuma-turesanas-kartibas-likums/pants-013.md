@@ -1,6 +1,6 @@
 13.pants. Apcietinātā tiesības
 (1) Apcietinātajam ir tiesības:
-1) informēt vecākus, bērnus, brāļus, māsas, vecvecākus, mazbērnus (turpmāk - radinieki), laulāto vai citu personu par savu atrašanās vietu. Attiecīgie izdevumi tiek segti no izmeklēšanas cietuma līdzekļiem;
+1) informēt vecākus, bērnus, adoptētājus, brāļus, māsas, vecvecākus, mazbērnus (turpmāk - radinieki), laulāto vai citu personu par savu atrašanās vietu. Attiecīgie izdevumi tiek segti no izmeklēšanas cietuma līdzekļiem;
 2) saņemt naudas pārvedumus;
 3) iegādāties pārtikas produktus un pirmās nepieciešamības priekšmetus izmeklēšanas cietuma veikalā;
 4) veikt ne mazāk kā stundu ilgu (ja ir attiecīgs ārsta norādījums, - ne mazāk kā pusotru stundu ilgu) ikdienas pastaigu;
@@ -10,7 +10,8 @@
 8) abonēt preses izdevumus, kā arī izmantot izmeklēšanas cietuma bibliotēkas fondu;
 9) valkāt personisko veļu, apģērbu un apavus;
 10) izmantot personisko mazgabarīta sadzīves tehniku - televizoru (ekrāna izmērs līdz 50 cm pa diagonāli) un tam pievienojamās videospēles, kā arī ledusskapi, ūdens sildāmās ierīces, radiouztvērēju (bez balss ieraksta iespējām). Kopējais individuālajā lietošanā izmantojamās sadzīves tehnikas svars nedrīkst pārsniegt 30 kilogramus;
-11) glabāt pie sevis individuālai lietošanai atļautās mantas, izmeklēšanas cietuma veikalā iegādātos pārtikas produktus, saņemt ar sūtījumiem un pienesumiem nepārtikas preces izmeklēšanas cietumu iekšējās kārtības noteikumos paredzētajā kārtībā un daudzumā.
+11) glabāt pie sevis individuālai lietošanai atļautās mantas, izmeklēšanas cietuma veikalā iegādātos pārtikas produktus, saņemt ar sūtījumiem un pienesumiem nepārtikas preces izmeklēšanas cietumu iekšējās kārtības noteikumos paredzētajā kārtībā un daudzumā;
+12) atvadīties no miruša radinieka šā likuma 13.² pantā noteiktajā kārtībā.
 (2) (Izslēgta ar 14.07.2011. likumu)
 (3) Lemjot par šā panta pirmās daļas 6.punktā noteiktās tikšanās ilgumu un biežumu, izmeklēšanas cietuma administrācija izvērtē nepieciešamību nodrošināt vienādas tikšanās iespējas visiem apcietinātajiem.
 (4) Latvijas Cietumu slimnīcā ievietotajam apcietinātajam atbilstoši ārsta norādījumiem tikšanās vietā nodrošina iespēju sazināties ar radiniekiem, laulāto vai citām personām ar videozvanu. Šādu videozvanu skaitu un ilgumu nosaka atbilstoši šajā likumā noteiktajam tikšanos skaitam un ilgumam.
