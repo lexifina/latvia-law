@@ -1,4 +1,4 @@
 270.pants. Vraka aizvākšana
 (1) Ja vraks ir bīstams, Latvijas Jūras administrācija nosaka datumu, kad vraka īpašniekam jāuzsāk tā aizvākšana. Ja vraka īpašnieks neuzsāk vraka aizvākšanu noteiktajā datumā, Latvijas Jūras administrācija organizē vraka aizvākšanu uz tā īpašnieka rēķina.
 (2) Līgumu par vraka aizvākšanu tā īpašnieks var noslēgt ar jebkuru personu. Latvijas Jūras administrācija vraka aizvākšanā var iesaistīties, tikai lai nodrošinātu darbu iespējami ātrāku norisi un kontrolētu kuģošanas drošības prasību ievērošanu.
-(3) Ja vraka īpašnieks neuzsāk vraka aizvākšanu noteiktajā datumā vai Latvijas Jūras administrācija uzskata, ka vraka aizvākšana uzsākama nekavējoties, tā norobežo vraku un organizē vraka aizvākšanu, izpildot kuģošanas drošības prasības un ievērojot Latvijas valsts intereses.
+(3) Ja Latvijas Jūras administrācija uzskata, ka vraka aizvākšana uzsākama nekavējoties, tā organizē vraka norobežošanu un aizvākšanu uz vraka īpašnieka rēķina, izpildot kuģošanas drošības prasības un ievērojot Latvijas valsts intereses.
