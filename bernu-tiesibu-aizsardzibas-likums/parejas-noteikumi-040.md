@@ -1,0 +1,1 @@
+40. Šā likuma 5.¹ panta pirmās daļas 7. punktā minēto pašvaldību administratīvo komisiju vai pašvaldību administratīvo komisiju bērnu lietu apakškomisiju priekšsēdētāju vietnieki un locekļi, kuri nav apguvuši speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2020. gada 30. novembrim.

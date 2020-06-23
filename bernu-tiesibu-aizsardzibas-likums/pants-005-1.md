@@ -6,7 +6,7 @@
 4) Izglītības kvalitātes valsts dienesta speciālistam;
 5) jaunatnes lietu speciālistam;
 6) ieslodzījuma vietas darbiniekam, kurš strādā ar nepilngadīgajiem;
-7) pašvaldības administratīvās komisijas vadītājam vai pašvaldības administratīvās komisijas bērnu lietu apakškomisijas vadītājam;
+7) pašvaldības administratīvās komisijas priekšsēdētājam, priekšsēdētāja vietniekam un locekļiem vai pašvaldības administratīvās komisijas bērnu lietu apakškomisijas priekšsēdētājam, priekšsēdētāja vietniekam un locekļiem;
 8) pašvaldības pedagoģiski medicīniskās komisijas vadītājam;
 9) pašvaldības policijas darbiniekam, kurš strādā ar bērniem un ģimenēm;
 10) pašvaldības sociālā dienesta sociālajam darbiniekam, kurš strādā ar bērniem un ģimenēm;

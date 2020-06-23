@@ -10,11 +10,11 @@ Likumā ir lietoti šādi termini:
 7) ārpusģimenes aprūpe - aprūpe, kas bāreņiem un bez vecāku gādības palikušiem bērniem tiek nodrošināta pie aizbildņa, audžuģimenē, bērnu aprūpes iestādē;
 8) bērnu aprūpes iestāde - iestāde, kurā tiek nodrošināta sociālā aprūpe un sociālā rehabilitācija bāreņiem vai bez vecāku gādības palikušiem bērniem, kā arī bērniem, kuriem nepieciešama sociālā rehabilitācija vai īpaša aprūpe veselības stāvokļa dēļ;
 9) (izslēgts ar 12.12.2019. likumu);
-9¹) vardarbība - visu veidu fiziska vai emocionāla cietsirdība, seksuāla vardarbība, nolaidība vai cita veida izturēšanās, kas apdraud vai var apdraudēt bērna veselību, dzīvību, attīstību vai pašcieņu;
+9¹) vardarbība - visu veidu fiziska vai emocionāla cietsirdība, seksuāla vardarbība vai cita veida izturēšanās, kas apdraud vai var apdraudēt bērna veselību, dzīvību, attīstību vai pašcieņu;
 10) seksuāla vardarbība - bērna iesaistīšana seksuālās darbībās, ko bērns nesaprot vai kam nevar dot apzinātu piekrišanu;
 11) fiziska vardarbība - bērna veselībai vai dzīvībai bīstams apzināts spēka pielietojums saskarsmē ar bērnu vai apzināta bērna pakļaušana kaitīgu faktoru, tai skaitā tabakas dūmu, iedarbībai;
 12) emocionāla vardarbība - bērna pašcieņas aizskaršana vai psiholoģiska ietekmēšana (draudot viņam, lamājot, pazemojot viņu, bērna klātbūtnē vardarbīgi izturoties pret viņa tuvinieku vai citādi kaitējot viņa emocionālajai attīstībai);
-13) vecāku nolaidība - bērna aprūpes un uzraudzības pienākumu nepildīšana;
+13) (izslēgts ar 11.06.2020. likumu);
 14) ielas bērni - bērni, kuriem ir nepietiekama saikne ar ģimeni un kuri lielāko daļu laika pavada uz ielas vai citos bērna attīstībai nepiemērotos apstākļos;
 15) viesģimene - laulātie vai persona, kas uz laiku uzņem savā dzīvesvietā bērnu aprūpes iestādē ievietotu bērnu vai bērnu aprūpes iestādē kontaktējas ar tur ievietotu bērnu;
 16) daudzbērnu ģimene - ģimene, kuras aprūpē ir vismaz trīs bērni, to skaitā audžuģimenē ievietoti un aizbildnībā esoši bērni. Par daudzbērnu ģimenes bērnu uzskatāma arī pilngadīga persona, kas nav sasniegusi 24 gadu vecumu, ja tā iegūst vispārējo, profesionālo vai augstāko izglītību;
