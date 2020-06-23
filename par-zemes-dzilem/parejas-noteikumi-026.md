@@ -1,0 +1,1 @@
+26. Grozījums šā likuma V nodaļas nosaukumā, grozījums par 19. panta izslēgšanu, grozījums 21. panta nosaukumā, grozījums par VI nodaļas izslēgšanu, kā arī VII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
