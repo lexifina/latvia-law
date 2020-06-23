@@ -1,0 +1,2 @@
+24.¹ pants. Ierobežojumi atļauju izsniegšanai, ja pārkāpti aizsargājamo teritoriju aizsardzību un izmantošanu regulējoši normatīvie akti
+Personai netiek izsniegtas aizsargājamo teritoriju aizsardzību un izmantošanu regulējošos normatīvajos aktos noteiktās atļaujas, ja nav samaksāts administratīvais naudas sods par pārkāpumiem aizsargājamo teritoriju aizsardzības un izmantošanas jomā, kā arī ja nav veikti sanācijas pasākumi vai nav atlīdzināti zaudējumi par aizsargājamai teritorijai nodarīto kaitējumu vides aizsardzības normatīvajos aktos noteiktajā kārtībā.
