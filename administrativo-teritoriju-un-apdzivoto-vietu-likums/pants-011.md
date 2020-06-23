@@ -1,0 +1,5 @@
+11. pants. Administratīvo teritoriju, to teritoriālo vienību un apdzīvoto vietu nosaukumi
+(1) Nosaukumus pilsētām, novadiem un pagastiem piešķir, kā arī pilsētas, novadus un pagastus pārdēvē ar likumu, izvērtējot Ministru kabineta atzinumu un ieinteresētās pašvaldības domes lēmumu.
+(2) Nosaukumus ciemiem un mazciemiem piešķir un minētās apdzīvotās vietas pārdēvē attiecīgā novada dome.
+(3) Pašvaldības dome piešķir, maina vai likvidē nosaukumus ielām un laukumiem pilsētās un ciemos, nosaukumus vai numurus viensētām, apbūvei paredzētajām zemes vienībām un ēkām, kā arī numurus telpu grupām. Valsts zemes dienests likvidē telpu grupas adresi un par to paziņo pašvaldībai, ja telpu grupu dzēš Nekustamā īpašuma valsts kadastra informācijas sistēmā. Nosaukumu vai numuru piešķiršanu, maiņu un likvidēšanu ēkām, apbūvei paredzētajām zemes vienībām un telpu grupām pašvaldības dome var nodot kādai no šīs pašvaldības institūcijām.
+(4) Lēmumu par nosaukuma vai numura piešķiršanu, maiņu vai likvidēšanu attiecīgā pašvaldība piecu darbdienu laikā pēc tā parakstīšanas nosūta Valsts zemes dienestam.

@@ -1,0 +1,3 @@
+12. pants. Nosaukumu piešķiršanas nosacījumi
+(1) Nosaukumus administratīvajām teritorijām un to teritoriālā iedalījuma vienībām, kā arī ielām, laukumiem, viensētām un apbūvei paredzētajām zemes vienībām piešķir, maina vai apstiprina, ievērojot Valsts valodas likuma noteikumus par vietu nosaukumu veidošanu un lietošanu, kā arī ģeogrāfiskos, vēsturiskos, sadzīves un citus apstākļus.
+(2) Pārdēvējot apdzīvotās vietas, kurās ir pasta pakalpojumu sniegšanas vieta, dzelzceļa stacija, autoosta, lidlauks vai osta, pašvaldības dome, kura pieņēmusi lēmumu par pārdēvēšanu, piecu darbdienu laikā pēc lēmuma parakstīšanas par to informē attiecīgās nozares ministriju.

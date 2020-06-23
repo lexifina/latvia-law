@@ -1,0 +1,1 @@
+15. No 2021. gada 1. jūlija adrešu reģistrā reģistrētie ciemi, kuriem teritorijas plānojumā nav noteiktas ciema robežas, uzskatāmi par mazciemiem, un Valsts zemes dienests veic attiecīgas izmaiņas adrešu reģistrā.

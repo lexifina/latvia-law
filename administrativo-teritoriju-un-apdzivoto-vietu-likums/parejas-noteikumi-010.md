@@ -1,0 +1,1 @@
+10. Ministru kabinets nosaka kārtību, kādā līdz 2021. gada 1. decembrim pašvaldībai, kura izveidota, pašvaldībām apvienojoties, no valsts budžetā piešķirtajiem finanšu līdzekļiem tiek piešķirta vienreizēja dotācija administratīvi teritoriālās reformas īstenošanas rezultātā radušos administratīvo izdevumu līdzfinansēšanai.

@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Administratīvo teritoriju un apdzīvoto vietu likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2009, 3. nr.; Latvijas Vēstnesis, 2010, 23., 149. nr.; 2011, 112., 202. nr.; 2015, 64. nr.).

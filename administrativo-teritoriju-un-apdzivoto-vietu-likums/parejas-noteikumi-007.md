@@ -1,0 +1,1 @@
+7. Ministru kabinets nosaka nosacījumus un kārtību, kādā administratīvi teritoriālās reformas ietvaros līdz 2021. gada 1. jūlijam pašvaldībām piešķir valsts mērķdotāciju kopīga jaunveidojamā novada administratīvās struktūras projekta izstrādei.

@@ -1,0 +1,3 @@
+10. pants. Mazciemi un viensētas
+(1) Mazciems ir vēsturiski izveidojusies apdzīvota vieta ar dominējošu izklaidu vai dominējošu koncentrētu apbūvi, kurai novada teritorijas plānojumā nav noteiktas robežas un kuras nosaukums ir iekļauts Latvijas Ģeotelpiskās informācijas aģentūras Vietvārdu datubāzē. Novada dome vai pašvaldības kompetentā institūcija nosaka mazciemā ietilpstošās adreses.
+(2) Viensēta ir savrupa viena dzīvojamā ēka vai savrupas vairākas dzīvojamās ēkas, kā arī ar šo ēku vai ēkām funkcionāli saistītās saimniecības ēkas teritorijā, kur zemi primāri izmanto lauksaimniecības vai mežsaimniecības vajadzībām. Viensētas statusu piešķir pašvaldības dome, piešķirot viensētai nosaukumu.

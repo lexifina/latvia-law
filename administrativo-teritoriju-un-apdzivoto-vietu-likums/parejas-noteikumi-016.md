@@ -1,0 +1,1 @@
+16. Pēc šā likuma stāšanās spēkā novada pilsētām, kurās ir mazāk par 2000 pastāvīgo iedzīvotāju, saglabājas pilsētas statuss. Novada pilsētas statusu uz ciema statusu var mainīt normatīvajos aktos noteiktajā kārtībā.

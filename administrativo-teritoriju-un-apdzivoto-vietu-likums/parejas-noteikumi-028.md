@@ -1,0 +1,1 @@
+28. Ropažu novada pašvaldība līdz 2023. gada 31. decembrim apstiprina Garkalnes pagasta sadalīšanas plānu un nosūta to Ādažu novada pašvaldībai. Pēc minētā plāna izvērtēšanas iesaistītās pašvaldības lemj par novadu teritoriju robežu grozīšanu.

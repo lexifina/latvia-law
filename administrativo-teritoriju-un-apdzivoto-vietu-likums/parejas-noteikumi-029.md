@@ -1,0 +1,1 @@
+29. Ministru kabinets reizi četros gados, sākot ar 2022. gadu, līdz 1. maijam iesniedz Saeimai ziņojumu par izmaiņām pašvaldību un administratīvo reģionu sociālekonomiskajā situācijā. Ziņojumā ietverams arī administratīvi teritoriālās reformas rezultātā radušos ieguvumu un zaudējumu vērtējums.

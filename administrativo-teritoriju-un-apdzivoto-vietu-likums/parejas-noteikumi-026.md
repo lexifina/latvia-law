@@ -1,0 +1,1 @@
+26. Šā likuma pielikuma 8.11. punkts (par Kokneses pilsētas statusu) un 13.9. punkts (par Iecavas pilsētas statusu) stājas spēkā 2021. gada 1. jūlijā. Ādažiem, Ķekavai un Mārupei pilsētas statuss tiek piešķirts no 2022. gada 1. jūlija.

@@ -1,0 +1,1 @@
+13. Ministru kabinets sešu mēnešu laikā pēc šā likuma 3. panta otrajā daļā noteiktā likuma pieņemšanas apstiprina latviešu vēsturisko zemju un kultūrvēsturisko kopienu dzīves telpas ilgtspējīgas attīstības plānu.

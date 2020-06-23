@@ -1,0 +1,1 @@
+5. Ja deputātu kopsapulce līdz 2020. gada 1. decembrim novada vēlēšanu komisiju šajā likumā noteiktajā kārtībā neizveido, to saskaņā ar likumu "Par Centrālo vēlēšanu komisiju" ieceļ Centrālā vēlēšanu komisija.

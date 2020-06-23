@@ -1,0 +1,1 @@
+27. Aglonas, Limbažu un Inčukalna novada pašvaldībām ir pienākums līdz 2020. gada 1. oktobrim iesniegt Vides aizsardzības un reģionālās attīstības ministrijai visu informāciju, kas nepieciešama institūciju, finanšu resursu, mantas, kā arī tiesību un saistību pārdales apjomu apzināšanai, īstenojot administratīvi teritoriālo reformu attiecīgajās administratīvajās teritorijās.
