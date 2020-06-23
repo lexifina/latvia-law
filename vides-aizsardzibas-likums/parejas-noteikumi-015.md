@@ -1,0 +1,1 @@
+15. Grozījumi šā likuma 21. pantā par pirmās daļas 8. punkta izteikšanu jaunā redakcijā un otrās daļas izslēgšanu, grozījums 22. pantā par trešās daļas izslēgšanu, grozījums par 23. panta izslēgšanu un grozījums par 38. panta papildināšanu ar trešo daļu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
