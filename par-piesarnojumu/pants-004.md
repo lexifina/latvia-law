@@ -8,6 +8,7 @@
 6) apkopo un sniedz darbiniekiem, kuri veic piesārņojošu darbību, nepieciešamo informāciju par tās iespējamo ietekmi uz cilvēku veselību un vidi;
 7) ievēro šā likuma 11.pantā minētos nosacījumus;
 8) saņem atļauju A vai B kategorijas piesārņojošas darbības veikšanai vai paziņo par C kategorijas piesārņojošas darbības veikšanu un šajā likumā noteiktajos gadījumos saņem atļauju siltumnīcefekta gāzu emisijai;
+8¹) ievēro A vai B kategorijas piesārņojošas darbības atļaujā un siltumnīcefekta gāzu emisijas atļaujā ietvertos nosacījumus;
 9) pēc iekārtas darbības pilnīgas pārtraukšanas veic pasākumus, kas nepieciešami piesārņojuma riska novēršanai un iekārtas atrašanās vietas sakārtošanai atbilstošā stāvoklī;
 10) racionāli izmanto enerģiju.
 (2) Gaisa kuģa operators, veicot piesārņojošu darbību, ievēro šā panta pirmās daļas 1., 3., 4. un 7.punkta prasības.
