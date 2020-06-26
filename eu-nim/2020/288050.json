@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2020.gada 18.jūnija noteikumi Nr.78 “Apdrošināšanas produkta informācijas dokumenta noformējuma un satura prasību normatīvie noteikumi”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "120",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-25",
+  "entry_into_force": "2020-06-26",
+  "notification_date": "2020-08-31",
+  "commission_reference": "MNE(2020)56486",
+  "nim_celex": "72016L0097LVA_288050",
+  "nim_id": "288050",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1c2dd28-ee78-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
