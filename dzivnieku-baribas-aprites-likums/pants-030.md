@@ -1,0 +1,1 @@
+30. pants. Par normatīvajos aktos noteikto dzīvnieku barības higiēnas un uzglabāšanas prasību neievērošanu vai par pārkāpumiem barības izplatīšanā piemēro naudas sodu fiziskajai personai no piecām līdz sešdesmit naudas soda vienībām, bet juridiskajai personai - no desmit līdz simt piecdesmit naudas soda vienībām.

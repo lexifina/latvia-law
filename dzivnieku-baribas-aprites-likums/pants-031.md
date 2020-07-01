@@ -1,0 +1,1 @@
+31. pants. Par pārkāpumiem ārstnieciskās un diētiskās barības ražošanā un izplatīšanā piemēro naudas sodu fiziskajai personai no desmit līdz simt naudas soda vienībām, bet juridiskajai personai - no desmit līdz simt septiņdesmit naudas soda vienībām.

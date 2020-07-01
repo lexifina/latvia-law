@@ -1,0 +1,1 @@
+32. pants. Par iesaistīšanos dzīvnieku barības apritē bez normatīvajos aktos noteiktās uzņēmuma atzīšanas vai reģistrācijas piemēro naudas sodu fiziskajai personai no desmit līdz simt divdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit līdz divsimt piecdesmit naudas soda vienībām.

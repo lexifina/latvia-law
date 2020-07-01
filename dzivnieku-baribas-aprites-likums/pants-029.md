@@ -1,0 +1,1 @@
+29. pants. Par nepatiesu ziņu norādīšanu barības importa pavaddokumentos piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz trīsdesmit naudas soda vienībām, bet juridiskajai personai - no desmit līdz septiņdesmit naudas soda vienībām.
