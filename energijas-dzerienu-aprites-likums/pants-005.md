@@ -1,0 +1,2 @@
+5. pants. Administratīvā atbildība par enerģijas dzērienu pārdošanu personām, kuras ir jaunākas par 18 gadiem
+Par enerģijas dzērienu pārdošanu personām, kuras ir jaunākas par 18 gadiem, piemēro naudas sodu juridiskās personas darbiniekam - pārdevējam - no divdesmit astoņām līdz trīsdesmit piecām naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz simt četrdesmit naudas soda vienībām.
