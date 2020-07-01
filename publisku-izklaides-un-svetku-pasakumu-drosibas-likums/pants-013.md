@@ -1,4 +1,4 @@
-13.pants. Kārtības uzturētāju tiesības, pienākumi un atbildība
+13. pants. Kārtības uzturētāju tiesības un pienākumi
 (1) Publiska pasākuma laikā kārtības uzturētājiem ir šādas tiesības:
 1) aizliegt piedalīties attiecīgajā pasākumā personām, kuras neievēro šā likuma prasības un pasākuma organizatora noteikumus;
 2) izraidīt no attiecīgā pasākuma personas, kuras ir cilvēka cieņu aizskarošā reibuma stāvoklī.
@@ -10,5 +10,5 @@
 5) ja publiska pasākuma laikā tiek izdarīts noziedzīgs nodarījums vai sākas masu nekārtības, apsargāt notikuma vietu;
 6) kontrolēt sabiedriskās kārtības, drošības un ugunsdrošības prasību ievērošanu;
 7) neielaist sporta pasākuma norises vietā personas, kurām atbilstoši normatīvajiem aktiem noteikts sporta pasākumu apmeklēšanas liegums.
-(3) Kārtības uzturētāji par šajā pantā minēto pienākumu nepildīšanu saucami pie atbildības normatīvajos aktos noteiktajā kārtībā.
+(3) (Izslēgta no 01.07.2020. ar 04.06.2020. likumu, kas stākas spēkā 29.06.2020. Sk. Pārejas noteikumu 5. punktu)
 (4) Valsts policija un pašvaldības policija, pildot kārtības uzturētāja funkciju valsts vai pašvaldību institūciju organizētajos publiskajos pasākumos, var piesaistīt Zemessardzi atbalsta sniegšanai sabiedriskās kārtības un drošības garantēšanā.

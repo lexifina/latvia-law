@@ -1,4 +1,4 @@
-12.pants. Par tehnisko drošību atbildīgās personas tiesības, pienākumi un atbildība
+12. pants. Par tehnisko drošību atbildīgās personas tiesības un pienākumi
 (1) Par tehnisko drošību atbildīgajai personai ir tiesības pieaicināt citus speciālistus atsevišķu iekārtu un būvju uzraudzīšanai, iepriekš ar viņiem rakstveidā vienojoties. Par pieaicināto speciālistu darbu atbild par tehnisko drošību atbildīgā persona.
 (2) Par tehnisko drošību atbildīgajai personai ir šādi pienākumi:
 1) publiska pasākuma laikā uzturēties tā norises vietā;
@@ -12,4 +12,4 @@
 9) pārbaudīt, vai personālam, kas apkalpo iekārtas un būves, ir tiesības to darīt, un uzraudzīt, lai personāls pasākuma laikā nebūtu alkohola, psihotropo, narkotisko vai citu apreibinošu vielu ietekmē;
 10) ziņot pasākuma organizatoram par publiska pasākuma laikā konstatētajiem pārkāpumiem vai iekārtu un būvju izmantošanas pārtraukšanu.
 (3) Par tehnisko drošību atbildīgā persona publiskā pasākumā var būt tikai tāda persona, kurai attiecīgo pienākumu veikšanai ir atbilstošas zināšanas, iemaņas un pieredze.
-(4) Par tehnisko drošību atbildīgā persona par šā panta otrajā daļā minēto pienākumu nepildīšanu saucama pie atbildības normatīvajos aktos noteiktajā kārtībā.
+(4) (Izslēgta no 01.07.2020. ar 04.06.2020. likumu, kas stākas spēkā 29.06.2020. Sk. Pārejas noteikumu 5. punktu)
