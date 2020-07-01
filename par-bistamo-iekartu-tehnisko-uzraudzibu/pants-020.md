@@ -1,1 +1,1 @@
-20.pants. Atlīdzināmo zaudējumu apmēru nosaka tiesa saskaņā ar likumiem.
+20. pants. Administratīvā pārkāpuma procesu par šā likuma 19. pantā minētajiem pārkāpumiem veic Patērētāju tiesību aizsardzības centrs.

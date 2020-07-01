@@ -1,3 +1,2 @@
 VII nodaļa
-Atbildība par bīstamo iekārtu tehniskās uzraudzības
-normatīvo aktu neievērošanu
+Administratīvie pārkāpumi bīstamo iekārtu tehniskās uzraudzības jomā un kompetence administratīvo pārkāpumu procesā
