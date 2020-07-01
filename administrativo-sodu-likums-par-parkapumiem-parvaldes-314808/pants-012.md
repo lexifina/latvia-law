@@ -1,0 +1,3 @@
+12. pants. Maznozīmīga miesas bojājuma nodarīšana
+(1) Par maznozīmīga miesas bojājuma, tas ir, miesas bojājuma, kas izraisījis īslaicīgas, maznozīmīgas sekas, bet nav izraisījis veselības traucējumu vai vispārējo darbspēju zaudējumu, nodarīšanu piemēro naudas sodu no četrdesmit divām līdz simt naudas soda vienībām.
+(2) Par šā panta pirmajā daļā minēto pārkāpumu, ja tas izdarīts pret personu, ar kuru pārkāpējs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru pārkāpējs ir vai ir bijis pastāvīgās intīmās attiecībās, vai pret personu, ar kuru pārkāpējam ir kopīga (nedalīta) saimniecība, piemēro naudas sodu no astoņdesmit sešām līdz simt četrdesmit naudas soda vienībām.

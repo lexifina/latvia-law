@@ -1,0 +1,2 @@
+25. pants. Tulkojuma nenodrošināšana sēdēs un citās darba sanāksmēs
+Par tulkojuma nenodrošināšanu sēdēs vai citās darba sanāksmēs, ja normatīvie akti paredz tulkojuma nodrošināšanu valsts valodā, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no simt četrdesmit līdz divsimt astoņdesmit naudas soda vienībām.

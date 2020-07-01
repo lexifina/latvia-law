@@ -1,0 +1,2 @@
+15. pants. Valsts valodas normu neievērošana atklātā informācijā
+Par valsts valodas lietošanu sabiedrības informēšanai paredzētā atklātā informācijā, neievērojot spēkā esošās valsts valodas normas, ja normatīvie akti paredz šo normu ievērošanu, piemēro brīdinājumu vai naudas sodu fiziskajai personai no septiņām līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām.

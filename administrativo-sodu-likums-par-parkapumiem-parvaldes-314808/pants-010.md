@@ -1,0 +1,2 @@
+10. pants. Alkoholisko dzērienu vai citu apreibinošo vielu lietošana publiskā vietā vai atrašanās publiskā vietā reibuma stāvoklī
+Par alkoholisko dzērienu vai citu apreibinošo vielu lietošanu publiskā vietā, izņemot vietas, kur alkoholisko dzērienu mazumtirdzniecību patērēšanai uz vietas atļāvusi pašvaldība vai Valsts ieņēmumu dienests, vai par atrašanos publiskā vietā tādā reibuma stāvoklī, kas traucē sabiedrisko kārtību vai drošību, piemēro brīdinājumu vai naudas sodu līdz septiņdesmit naudas soda vienībām.

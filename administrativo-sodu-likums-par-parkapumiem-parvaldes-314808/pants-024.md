@@ -1,0 +1,2 @@
+24. pants. Darba līguma noslēgšana ar darbinieku, neievērojot valsts valodas zināšanu apjomu
+Par darba līguma noslēgšanu ar darbinieku, kura valsts valodas zināšanu apjoms nav pietiekams attiecīgo profesionālo un amata pienākumu veikšanai, ja normatīvie akti paredz, ka to veikšanai nepieciešamas valsts valodas zināšanas, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no simt četrdesmit līdz divsimt astoņdesmit naudas soda vienībām.

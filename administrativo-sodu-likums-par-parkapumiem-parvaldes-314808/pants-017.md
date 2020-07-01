@@ -1,0 +1,2 @@
+17. pants. Nosaukumu neveidošana un nelietošana valsts valodā
+Par iestāžu, biedrību, nodibinājumu, komersantu nosaukumu, kā arī pasākumu nosaukumu neveidošanu vai nelietošanu valsts valodā, ja normatīvie akti paredz nosaukuma veidošanu un lietošanu valsts valodā, piemēro brīdinājumu vai naudas sodu fiziskajai personai no septiņām līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām.
