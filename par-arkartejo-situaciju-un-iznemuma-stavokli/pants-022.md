@@ -1,0 +1,2 @@
+22. pants. Informācijas nesniegšana ārkārtējās situācijas laikā
+Par informācijas nesniegšanu saistībā ar infekcijas slimības izplatību izsludinātās ārkārtējās situācijas laikā par to, ka persona ir inficējusies ar attiecīgo infekcijas slimību, ir bijusi kontaktā ar inficētu personu vai ir bijusi infekcijas slimības perēklī, ja no personas šāda informācija tiek pieprasīta, piemēro naudas sodu no divām līdz četrsimt naudas soda vienībām.
