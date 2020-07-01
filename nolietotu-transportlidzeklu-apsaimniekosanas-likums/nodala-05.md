@@ -1,0 +1,2 @@
+V nodaļa
+Administratīvie pārkāpumi nolietotu transportlīdzekļu apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā

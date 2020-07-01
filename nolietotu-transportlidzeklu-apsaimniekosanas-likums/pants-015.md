@@ -1,0 +1,4 @@
+15. pants. Normatīvajos aktos noteikto prasību nolietota transportlīdzekļa pieņemšanai, apstrādei vai likvidācijai neievērošana
+(1) Par nolietota transportlīdzekļa apstrādi, neievērojot normatīvajos aktos noteiktās vides aizsardzības prasības, apstrādes uzņēmumam piemēro naudas sodu no divdesmit līdz divsimt astoņdesmit naudas soda vienībām.
+(2) Par normatīvajos aktos noteiktās transportlīdzekļa likvidācijas sertifikāta aizpildīšanas un izsniegšanas kārtības neievērošanu apstrādes uzņēmumam piemēro brīdinājumu vai naudas sodu no divdesmit līdz piecdesmit sešām naudas soda vienībām.
+(3) Par apstrādes uzņēmuma atteikšanos bez maksas pieņemt nolietotu transportlīdzekli, kuram netrūkst nozīmīgāko sastāvdaļu - motora, stūres mehānisma, šasijas, transmisijas -, kurā nav papildu atkritumu un kurš nav reģistrēts komercķīlu reģistrā, apstrādes uzņēmumam piemēro naudas sodu no četrdesmit divām līdz piecdesmit sešām naudas soda vienībām.
