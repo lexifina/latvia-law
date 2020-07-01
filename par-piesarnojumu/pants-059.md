@@ -1,0 +1,3 @@
+59. pants. Administratīvā atbildība lauksaimnieciskās darbības izraisīta piesārņojuma jomā
+(1) Par dokumentēšanas prasību neievērošanu mēslošanas līdzekļu lietošanā lauksaimnieciskajā darbībā piemēro brīdinājumu vai naudas sodu fiziskajai personai no trim līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no sešām līdz piecdesmit sešām naudas soda vienībām.
+(2) Par pārkāpumiem mēslošanas līdzekļu lietošanā piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.

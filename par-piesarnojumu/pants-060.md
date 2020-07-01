@@ -1,0 +1,3 @@
+60. pants. Administratīvā atbildība siltumnīcefekta gāzu emisijas jomā
+(1) Par siltumnīcefekta gāzu emisijas monitoringa prasību neievērošanu piemēro naudas sodu fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.
+(2) Par piesārņojošas darbības veikšanu bez siltumnīcefekta gāzu emisijas atļaujas piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz astoņdesmit sešām naudas soda vienībām, bet juridiskajai personai - no piecdesmit sešām līdz piecsimt astoņdesmit naudas soda vienībām.
