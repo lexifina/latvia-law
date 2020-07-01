@@ -14,8 +14,11 @@
 11) vadītāju reģistrāciju pasažieru komercpārvadājumiem ar taksometru un vieglo automobili Ministru kabineta noteiktajā kārtībā;
 12) (izslēgts ar 13.06.2019. likumu);
 13) autoostu reģistrāciju, reģistrācijas apturēšanu vai anulēšanu, autoostu pakalpojumu maksas pārbaudi un autoostu darbības uzraudzību reģionālās nozīmes maršrutu reisu apkalpošanai;
-14) eksāmenu organizēšanu un pārvadājumu vadītāja profesionālās kompetences sertifikātu izsniegšanu atbilstoši Eiropas Parlamenta un Padomes 2009. gada 21. oktobra regulas (EK) Nr. 1071/2009, ar ko nosaka kopīgus noteikumus par autopārvadātāja profesionālās darbības veikšanas nosacījumiem un atceļ Padomes direktīvu 96/26/EK 8. panta 3. punktam;
+14) eksāmenu organizēšanu un pārvadājumu vadītāja profesionālās kompetences sertifikātu izsniegšanu atbilstoši Eiropas Parlamenta un Padomes 2009. gada 21. oktobra regulas (EK) Nr. 1071/2009, ar ko nosaka kopīgus noteikumus par autopārvadātāja profesionālās darbības veikšanas nosacījumiem un atceļ Padomes direktīvu 96/26/EK (turpmāk - regula Nr. 1071/2009) 8. panta 3. punktam;
 15) speciālo atļauju (licenču) un licences kartīšu izsniegšanu pasažieru komercpārvadājumiem ar autobusiem, vieglajiem automobiļiem un kravas pārvadājumiem;
 16) tīmekļvietnes un mobilās lietotnes pakalpojumu sniedzēju reģistrāciju un reģistrācijas anulēšanu;
-17) pasažieru un kravas pašpārvadājumu sertifikātu izsniegšanu un anulēšanu.
+17) pasažieru un kravas pašpārvadājumu sertifikātu izsniegšanu un anulēšanu;
+18) kompetentās iestādes pienākumu veikšanu atbilstoši regulas Nr. 1071/2009 10. pantam;
+19) regulas Nr. 1071/2009 16. pantā noteiktā valsts elektroniskā reģistra uzturēšanu Autopārvadātāju informatīvās datu bāzes ietvaros.
 (2) Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Autotransporta direkcija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus.
+(3) Autotransporta direkcijai iesniegumus, iesniegumiem pievienotos dokumentus un pilnvaras var iesniegt arī elektroniski, aizpildot speciālu tiešsaistes formu Autotransporta direkcijas tīmekļvietnē www.atd.lv (e-pakalpojums), neizmantojot drošu elektronisko parakstu, norādot elektroniskā pasta adresi saziņai. Identifikācijai izmanto Valsts reģionālās attīstības aģentūras nodrošinātajā vienotās pieteikšanās modulī pieejamos personas identifikācijas līdzekļus.

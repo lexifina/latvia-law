@@ -1,10 +1,14 @@
 30.¹ pants. Prasības attiecībā uz pasažieru pārvadājumus veicošo autovadītāju profesionālo kompetenci
-(1) Pasažieru pārvadājumus ar autobusiem atļauts veikt autovadītājiem, kuriem ir šo pārvadājumu veikšanai nepieciešamās profesionālās zināšanas. Iegūtās profesionālās zināšanas apliecina attiecīgs ieraksts transportlīdzekļu vadītāja apliecībā vai vadītāja kvalifikācijas kartē.
-(2) No šā panta pirmajā daļā noteiktās prasības ir atbrīvoti autovadītāji, kas vada:
-1) transportlīdzekļus, kuru maksimālais atļautais ātrums nepārsniedz 45 kilometrus stundā;
-2) transportlīdzekļus, kurus izmanto vai kontrolē valsts bruņotie spēki, civilās aizsardzības dienests, ugunsdzēsības dienests un sabiedriskās kārtības uzturēšanas spēki;
-3) transportlīdzekļus, kuriem veic braukšanas pārbaudi tehniskās attīstības, remonta vai apkopes mērķiem, vai pārbūvētiem transportlīdzekļiem, kuri vēl nav nodoti ekspluatācijā;
-4) transportlīdzekļus, kurus izmanto ārkārtas situācijās vai kuri paredzēti glābšanas uzdevumu veikšanai;
-5) transportlīdzekļus, kurus izmanto transportlīdzekļu vadīšanas nodarbībās, apmācot jebkuru personu, kas vēlas iegūt vadīšanas tiesības;
-6) transportlīdzekļus, kurus izmanto nekomerciālai pasažieru pārvadāšanai.
+(1) Pasažieru pārvadājumus ar autobusiem vai to sastāviem, kuru vadīšanai nepieciešama D1, D1E, D vai DE kategorijas transportlīdzekļu vadītāja apliecība vai līdzvērtīga vadītāja apliecība, atļauts veikt autovadītājiem, kuriem ir šo pārvadājumu veikšanai nepieciešamās profesionālās zināšanas. Iegūtās profesionālās zināšanas apliecina ieraksts "95. kods" transportlīdzekļu vadītāja apliecībā vai vadītāja kvalifikācijas kartē.
+(2) No šā panta pirmajā daļā noteiktās prasības izpildes ir atbrīvoti autovadītāji, kas vada transportlīdzekļus:
+1) kuru maksimālais atļautais ātrums nepārsniedz 45 kilometrus stundā;
+2) kurus izmanto vai kontrolē valsts bruņotie spēki, civilās aizsardzības dienests, ugunsdzēsības dienests, sabiedriskās kārtības uzturēšanas spēki un neatliekamās medicīniskās palīdzības dienests, kad pārvadāšana notiek saistībā ar minētajiem dienestiem noteiktajiem uzdevumiem;
+3) kuriem veic braukšanas pārbaudi tehniskās attīstības, remonta vai apkopes mērķiem, vai autovadītāji, kas vada jaunus vai pārbūvētus transportlīdzekļus, kuri vēl nav nodoti ekspluatācijā;
+4) kurus apkopes personāls bez pasažieriem nogādā līdz tehniskās apkopes centram vai no tā, ja šāds centrs atrodas netālu no tuvākās apkopes bāzes, ko izmanto pārvadātājs, ar nosacījumu, ka transportlīdzekļa vadīšana nav tā vadītāja pamatdarbība;
+5) kurus izmanto ārkārtas situācijās vai kuri paredzēti glābšanas uzdevumu veikšanai;
+6) kurus izmanto transportlīdzekļu vadīšanas eksāmenā vai vadīšanas nodarbībās, apmācot jebkuru personu, kas vēlas iegūt vadīšanas tiesības (tai skaitā veicot papildu vadīšanas apmācību pie darba devēja), tāda autovadītāja klātbūtnē, kuram ir nepieciešamās profesionālās zināšanas, vai tāda braukšanas mācību instruktora klātbūtnē, kuram ir tiesības apmācīt attiecīgās kategorijas transportlīdzekļu vadītājus, ja minētos transportlīdzekļus neizmanto pasažieru komercpārvadājumiem;
+7) kurus izmanto nekomerciālai pasažieru pārvadāšanai.
+(2¹) Personai, kura apguvusi pasažieru pārvadājumu veikšanai nepieciešamās profesionālās zināšanas un sasniegusi 20 gadu vecumu, izsniedz D vai DE kategorijas transportlīdzekļu vadītāja apliecību ar ierakstu "95. kods", kas dod tiesības veikt pasažieru pārvadājumus ar šai kategorijai atbilstošiem transportlīdzekļiem tikai Latvijas teritorijā.
+(2²) Personai, kura sasniegusi 21 gada vecumu, kurai izsniegta D1 vai D1E kategorijas transportlīdzekļu vadītāja apliecība un kura apguvusi pasažieru pārvadājumu veikšanai nepieciešamās profesionālās zināšanas, izsniedz vadītāja kvalifikācijas karti, kurā atzīmēta D vai DE kategorija un ir ieraksts "95. kods", kas dod tiesības veikt regulārus pasažieru pārvadājumus līdz 50 kilometriem garos maršrutos ar šai kategorijai atbilstošiem transportlīdzekļiem tikai Latvijas teritorijā.
+(2³) Pasažieru pārvadājumu veikšanai nepieciešamās profesionālās zināšanas var iegūt Ceļu satiksmes likuma 22. panta pirmās daļas 1. punktā noteiktās personas.
 (3) Autovadītājiem nepieciešamās zināšanas pasažieru pārvadājumu veikšanai, kā arī sākotnējās un periodiskās apmācības kārtību nosaka Ministru kabinets.
