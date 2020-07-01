@@ -1,0 +1,3 @@
+78. pants. Navigācijas tehnisko līdzekļu uzturēšanas noteikumu pārkāpšana
+(1) Par navigācijas tehnisko līdzekļu valdītājam noteikto pienākumu nepildīšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no simt līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
+(2) Par navigācijas tehnisko līdzekļu patvaļīgu uzstādīšanu, noņemšanu, pārvietošanu, aizklāšanu vai navigācijas tehniskajiem līdzekļiem līdzīgu objektu izvietošanu piemēro naudas sodu fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no simt četrdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

@@ -1,0 +1,2 @@
+79. pants. Kuģošanas līdzekļa izmantošana neatļautās vai aizliegtās vietās
+Par kuģa, atpūtas kuģa vai airu laivas izmantošanu neatļautās vai aizliegtās vietās piemēro brīdinājumu vai naudas sodu airu laivas vadītājam no desmit līdz piecpadsmit naudas soda vienībām, brīdinājumu vai naudas sodu atpūtas kuģa vadītājam no desmit līdz piecpadsmit naudas soda vienībām vai naudas sodu kuģa vadītājam no piecpadsmit līdz divdesmit naudas soda vienībām.

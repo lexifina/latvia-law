@@ -1,0 +1,8 @@
+69. pants. Airu laivas ekspluatācijas un vadīšanas noteikumu pārkāpšana
+(1) Par ekspluatācijas un vadīšanas noteikumu pārkāpšanu, vadot tādu kuģošanas līdzekli, kura vadīšanai izmanto airi (airus) vai dzinēju, kura jauda nepārsniedz 3,7 kilovatus (turpmāk šajā nodaļā - airu laiva), piemēro brīdinājumu airu laivas vadītājam.
+(2) Par tāda pasažiera pārvadāšanu airu laivā, kurš ir jaunāks par 12 gadiem un nav ietērpts atbilstoša izmēra glābšanas vestē, piemēro brīdinājumu vai naudas sodu airu laivas vadītājam no piecām līdz desmit naudas soda vienībām.
+(3) Par airu laivas pietauvošanu vai stāvēšanu pie kuģu piestātnēm, kas nav paredzētas airu laivām, piemēro brīdinājumu vai naudas sodu airu laivas vadītājam no piecām līdz piecpadsmit naudas soda vienībām.
+(4) Par airu laivas vadīšanu publiskajos ūdeņos, ja vadītāja izelpotajā gaisā vai medicīniskajā pārbaudē konstatētā alkohola koncentrācija asinīs pārsniedz 0,5 promiles, bet nepārsniedz 1,0 promili, piemēro brīdinājumu airu laivas vadītājam.
+(5) Par airu laivas vadīšanu publiskajos ūdeņos, ja vadītāja izelpotajā gaisā vai medicīniskajā pārbaudē konstatētā alkohola koncentrācija asinīs pārsniedz 1,0 promili, bet nepārsniedz 1,5 promiles, piemēro naudas sodu airu laivas vadītājam astoņu naudas soda vienību apmērā.
+(6) Par airu laivas vadīšanu publiskajos ūdeņos, ja vadītāja izelpotajā gaisā vai medicīniskajā pārbaudē konstatētā alkohola koncentrācija asinīs pārsniedz 1,5 promiles, piemēro naudas sodu airu laivas vadītājam divdesmit četru naudas soda vienību apmērā.
+(7) Par airu laivas vadīšanu, atrodoties narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē, piemēro naudas sodu trīsdesmit četru naudas soda vienību apmērā.
