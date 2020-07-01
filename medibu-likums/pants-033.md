@@ -1,0 +1,3 @@
+33. pants. (1) Administratīvā pārkāpuma procesu par šā likuma 32. pantā minētajiem pārkāpumiem, izņemot tā divdesmit trešajā daļā minētos pārkāpumus, veic Valsts meža dienests.
+(2) Administratīvā pārkāpuma procesu par šā likuma 32. panta divdesmit trešajā daļā minētajiem pārkāpumiem veic Dabas aizsardzības pārvalde.
+(3) Par medību tiesību atņemšanu, medību tiesību izmantošanas aizliegumu, medību vadīšanas tiesību atņemšanu un medību vadīšanas tiesību izmantošanas aizliegumu Valsts meža dienests izdara attiecīgu ierakstu Meža valsts reģistrā, norādot laiku, uz kādu piemērots attiecīgais papildsods.
