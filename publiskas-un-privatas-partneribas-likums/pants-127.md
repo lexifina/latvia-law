@@ -1,1 +1,5 @@
-127. pants. Kompetence administratīvo pārkāpumu procesā
+127. pants. Koncesijas procedūras dokumentu un informācijas nenodrošināšana
+(1) Par to, ka pieteikumu vai piedāvājumu sagatavošanas laikā nav ievēroti šajā likumā paredzētie noteikumi attiecībā uz koncesijas procedūras dokumentu pieejamības nodrošināšanu, koncesijas procedūras dokumentu izsniegšanu vai papildu informācijas sniegšanu, piemēro brīdinājumu vai naudas sodu no četrpadsmit līdz septiņdesmit naudas soda vienībām.
+(2) Par to, ka nav ievērota kārtība, kādā pretendenti informējami par koncesijas procedūras vai citas līguma slēgšanas tiesību piešķiršanas procedūras rezultātiem, piemēro brīdinājumu vai naudas sodu no četrpadsmit līdz septiņdesmit naudas soda vienībām.
+(3) Par koncesijas procedūras komisijas protokolu izsniegšanas prasību vai noslēguma ziņojuma sagatavošanas, publicēšanas vai izsniegšanas prasību neievērošanu piemēro brīdinājumu vai naudas sodu no četrpadsmit līdz septiņdesmit naudas soda vienībām.
+(4) Par statistikas pārskata neiesniegšanu šajā likumā noteiktajā termiņā vai nepilnīga pārskata iesniegšanu piemēro brīdinājumu vai naudas sodu no četrpadsmit līdz septiņdesmit naudas soda vienībām.
