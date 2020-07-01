@@ -1,1 +1,1 @@
-7.pants. Par šā likuma prasību neievērošanu, kā arī par necieņas izrādīšanu Latvijas valsts himnai personas saucamas pie likumā paredzētās atbildības.
+7. pants. Par klajas necieņas izrādīšanu Latvijas valsts himnai piemēro naudas sodu līdz simt četrdesmit naudas soda vienībām.
