@@ -4,4 +4,4 @@
 1) maksu par iesnieguma izskatīšanu par ekomarķējuma piešķiršanu un produkta reģistrāciju;
 2) gada maksu par ekomarķējuma izmantošanu un maksāšanas kārtību.
 (2) Vides pārraudzības valsts birojs koordinē Eiropas Savienības ekomarķējuma piešķiršanas programmu Latvijā, informē ražotājus par attiecīgajām prasībām, popularizē Eiropas Savienības ekomarķējumu, kā arī sniedz nepieciešamo informāciju Eiropas Komisijai.
-(3) (Daļa stājas spēkā 01.07.2020. un iekļauta likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 15. punktu)
+(3) Ja Vides pārraudzības valsts birojs konstatē Eiropas Savienības ekomarķējuma izmantošanas prasību pārkāpumu saistībā ar produktu, kuram šāds marķējums piešķirts, tas pieņem lēmumu, ar kuru nosaka tiesisko pienākumu novērst konstatēto pārkāpumu.
