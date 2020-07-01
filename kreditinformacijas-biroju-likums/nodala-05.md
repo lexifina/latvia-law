@@ -1,0 +1,2 @@
+V nodaļa
+Administratīvie pārkāpumi kredītinformācijas pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā
