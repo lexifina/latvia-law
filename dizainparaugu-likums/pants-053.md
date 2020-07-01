@@ -1,0 +1,2 @@
+53. pants. Administratīvā atbildība dizainparaugu aizsardzības jomā
+Par reģistrētam un spēkā esošam dizainparaugam atbilstošu izstrādājumu vai tādu izstrādājumu, kuru ārējā veidolā izmantots dizainparaugs, izgatavošanu, piedāvāšanu pārdošanai, pārdošanu vai citāda veida izplatīšanu tirgū un uzglabāšanu minētajiem nolūkiem bez dizainparauga īpašnieka atļaujas piemēro naudas sodu fiziskajām personām no piecdesmit sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajām personām - no divsimt astoņdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
