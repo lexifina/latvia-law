@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Autopārvadājuma likums",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2020/123.2",
+  "official_journal_page": null,
+  "official_journal_date": "2020-06-30",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2023-11-06",
+  "commission_reference": "MNE(2023)05746",
+  "nim_celex": "72022L0738LVA_202305746",
+  "nim_id": "202305746",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a1fafa6a-242d-4af5-92a4-6f29b36e5712",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
