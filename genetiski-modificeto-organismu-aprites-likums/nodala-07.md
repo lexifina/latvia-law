@@ -1,2 +1,2 @@
 VII nodaļa
-Atbildība un tiesiskā aizsardzība
+Administratīvie pārkāpumi ģenētiski modificēto organismu aprites jomā un kompetence administratīvo pārkāpumu procesā

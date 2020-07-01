@@ -1,2 +1,3 @@
-36.pants. Tiesiskā aizsardzība biotehnoloģijas jomā
-Tiesību apjomu un izņēmumus attiecībā uz biotehnoloģiskajiem izgudrojumiem, kā arī šo izgudrojumu tiesisko aizsardzību nosaka Patentu likums.
+36. pants. Administratīvā atbildība par normatīvo aktu prasību pārkāpumiem ģenētiski modificēto organismu apzinātā izplatīšanā
+(1) Par normatīvajos aktos noteikto prasību pārkāpumiem, ģenētiski modificētos organismus izplatot vidē izmēģinājumiem, piemēro naudas sodu fiziskajai personai no simt četrdesmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no astoņsimt sešdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
+(2) Par normatīvajos aktos noteikto prasību pārkāpumiem, ģenētiski modificētos organismus izplatot tirgū, piemēro naudas sodu fiziskajai personai no simt četrdesmit līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - no simt četrdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
