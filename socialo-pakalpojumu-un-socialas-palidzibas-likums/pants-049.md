@@ -1,0 +1,2 @@
+49. pants. Sociālo pakalpojumu sniedzējiem noteikto prasību neizpilde un sociālo pakalpojumu kvalitātes nenodrošināšana
+Par normatīvajos aktos sociālo pakalpojumu sniedzējiem noteikto prasību neizpildi vai sociālo pakalpojumu kvalitātes nenodrošināšanu, kas rada vai var radīt tiešus draudus sociālā pakalpojuma saņēmēja drošībai vai veselībai, piemēro naudas sodu sociālo pakalpojumu sniedzējam - fiziskajai personai - no divpadsmit līdz simt divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no sešpadsmit līdz divsimt sešdesmit naudas soda vienībām.

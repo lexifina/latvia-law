@@ -1,0 +1,2 @@
+50. pants. Sociālo pakalpojumu sniegšana bez reģistrēšanās sociālo pakalpojumu sniedzēju reģistrā
+Par sociālā pakalpojuma sniegšanu bez reģistrēšanās sociālo pakalpojumu sniedzēju reģistrā piemēro brīdinājumu vai naudas sodu sociālo pakalpojumu sniedzējam - fiziskajai personai - no astoņām līdz simt divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt sešdesmit naudas soda vienībām.
