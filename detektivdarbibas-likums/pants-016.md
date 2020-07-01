@@ -1,0 +1,2 @@
+16. pants. (1) Par detektīvsabiedrībai vai detektīvam šajā likumā noteikto aizliegumu pārkāpšanu vai pienākumu nepildīšanu piemēro naudas sodu fiziskajai personai no septiņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz simt naudas soda vienībām.
+(2) Par detektīvdarbības veikšanu bez licences vai sertifikāta piemēro naudas sodu fiziskajai personai vai valdes loceklim no sešdesmit līdz četrsimt naudas soda vienībām, atņemot tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz pieciem gadiem vai bez tā.
