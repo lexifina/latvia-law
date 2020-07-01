@@ -1,0 +1,2 @@
+7. pants. Administratīvie pārkāpumi aizsargāta pakalpojuma sniedzēja tiesību aizsardzības jomā
+Par ierobežotas piekļuves sistēmu nelikumīgu ražošanu, importēšanu, izplatīšanu, iznomāšanu, pārdošanu vai cita veida atsavināšanu komerciāliem mērķiem, kā arī par nelegālu sistēmu uzstādīšanu, ierīkošanu, instalēšanu vai izmantošanu komerciāliem mērķiem piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.
