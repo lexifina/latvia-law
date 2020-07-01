@@ -1,0 +1,2 @@
+15. pants. Administratīvā atbildība parāda ārpustiesas atgūšanas jomā
+Par parāda ārpustiesas atgūšanas pakalpojuma sniegšanu bez speciālās atļaujas (licences), kuras nepieciešamību nosaka šis likums, vai par parāda ārpustiesas atgūšanas pakalpojuma sniegšanas turpināšanu pēc speciālās atļaujas (licences) darbības apturēšanas, anulēšanas vai tās termiņa izbeigšanās piemēro naudas sodu fiziskajai personai vai valdes loceklim no piecdesmit sešām līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības uz laiku līdz pieciem gadiem ieņemt noteiktus amatus vai bez tā.
