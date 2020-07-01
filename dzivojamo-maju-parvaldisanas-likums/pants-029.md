@@ -1,0 +1,2 @@
+29. pants. Administratīvie pārkāpumi dzīvojamās mājas pārvaldīšanas jomā
+Par likumā noteiktās obligāti veicamās pārvaldīšanas darbības neveikšanu, kura skar sabiedrības intereses, piemēro brīdinājumu vai naudas sodu dzīvojamās mājas īpašniekam vai pārvaldniekam (ja minēto pārvaldīšanas darbību uzdots veikt pārvaldniekam) no divām līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - no divām līdz divtūkstoš astoņsimt naudas soda vienībām.
