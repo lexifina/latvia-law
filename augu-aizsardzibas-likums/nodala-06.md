@@ -1,2 +1,2 @@
 VI nodaļa
-Atbildība par likuma neievērošanu
+Administratīvie pārkāpumi augu aizsardzības jomā un kompetence administratīvo pārkāpumu procesā

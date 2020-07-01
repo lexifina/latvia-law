@@ -1,0 +1,3 @@
+23. pants. Tādu augu, augu produktu un ar tiem saskarē nonākušo priekšmetu, kuriem nepieciešama augu pase vai etiķete, izplatīšanas prasību pārkāpšana
+(1) Par normatīvajos aktos par augu karantīnu noteikto augu, augu produktu un ar tiem saskarē nonākušo priekšmetu izplatīšanu ar nederīgu augu pasi vai etiķeti vai bez tās piemēro brīdinājumu vai naudas sodu fiziskajai personai no trim līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no sešdesmit līdz tūkstoš četrsimt naudas soda vienībām.
+(2) Par augu pasu sagatavošanu bez atļaujas saņemšanas piemēro brīdinājumu vai naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz tūkstoš četrsimt naudas soda vienībām.
