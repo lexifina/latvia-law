@@ -1,0 +1,2 @@
+12. pants. Administratīvie pārkāpumi pornogrāfijas ierobežošanas jomā
+Par pornogrāfiska priekšnesuma demonstrēšanas vai citu intīma rakstura izklaides ierobežošanas noteikumu pārkāpšanu vai par pornogrāfiska rakstura materiāla aprites noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz septiņsimt divdesmit naudas soda vienībām.
