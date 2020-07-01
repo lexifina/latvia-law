@@ -15,5 +15,5 @@
 4) soda naudas samazināšana vairāk par 65 procentiem vai dzēšana;
 5) kārtējo nodokļu maksājumu summu sadalīšana termiņos, termiņa pagarināšana vai atlikšana uz laiku.
 (6) Tiesiskās aizsardzības procesā ir aizliegts piemērot tādas metodes, kuras ierobežo kreditoru tiesības vairāk, nekā tas nepieciešams tiesiskās aizsardzības procesa pasākumu plāna sekmīgai īstenošanai un šajā likumā minētā tiesiskās aizsardzības procesa mērķa sasniegšanai.
-(7) Tiesiskās aizsardzības procesa metodes nav piemērojamas attiecībā uz tiesiskās aizsardzības procesa izdevumiem, kā arī Latvijas Administratīvo pārkāpumu kodeksā un Krimināllikumā paredzētajiem sodiem.
+(7) Tiesiskās aizsardzības procesa metodes nav piemērojamas attiecībā uz tiesiskās aizsardzības procesa izdevumiem, kā arī administratīvo pārkāpumu procesā piemērotajiem un Krimināllikumā paredzētajiem sodiem.
 (8) Šā panta otrajā daļā noteiktais proporcionalitātes princips nav attiecināms uz nodokļu un darbinieku darba samaksas prasījumiem, kā arī uz kompensāciju par radīto kaitējumu, ja nav saņemta attiecīgā kreditora vai darbinieka piekrišana.

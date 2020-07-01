@@ -1,0 +1,2 @@
+179. pants. Maksātnespējas procesa un tiesiskās aizsardzības procesa noteikumu pārkāpšana
+Par maksātnespējas procesa vai tiesiskās aizsardzības procesa noteikumu pārkāpšanu, ja to izdarījis administrators, parādnieka pārstāvis, tiesiskās aizsardzības procesa uzraugošā persona vai cita maksātnespējas procesā vai tiesiskās aizsardzības procesā iesaistītā persona, piemēro naudas sodu no divdesmit līdz trīssimt naudas soda vienībām, atņemot tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku no viena mēneša līdz pieciem gadiem vai bez tā.

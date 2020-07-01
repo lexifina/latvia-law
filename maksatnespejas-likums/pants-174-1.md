@@ -2,7 +2,7 @@
 Lai īstenotu šā likuma 173. pantā un citos normatīvajos aktos noteiktās funkcijas, Maksātnespējas kontroles dienests:
 1) veic administratoru uzraudzību;
 2) izskata sūdzības par administratora rīcību, izņemot tos likumā noteiktos gadījumus, kad sūdzības par administratora lēmumiem izskatāmas tiesā, kurā ierosināta attiecīgā maksātnespējas procesa lieta;
-3) izskata administratīvo pārkāpumu lietas atbilstoši Latvijas Administratīvo pārkāpumu kodeksā noteiktajai kompetencei;
+3) izskata administratīvo pārkāpumu lietas atbilstoši šajā likumā noteiktajai kompetencei;
 4) izskata iesniegumus par maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanu;
 5) izskata iesniegumus par juridiskās personas maksātnespējas procesa depozīta un fiziskās personas maksātnespējas procesa depozīta izmaksu;
 6) izskata iesniegumus par šā likuma 118.¹ pantā noteikto līdzekļu izmaksu;

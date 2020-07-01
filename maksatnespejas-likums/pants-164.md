@@ -6,5 +6,5 @@
 1) prasījumi par uzturlīdzekļu samaksu;
 2) prasījumi no neatļautas darbības;
 3) nodrošinātais prasījums, ja parādnieks ir saglabājis par šā prasījuma nodrošinājumu kalpojošo mājokli, ciktāl šā likuma 148.pantā minētā vienošanās nenosaka citādi. Izpildu lietvedības par minēto saistību piedziņu tiek atjaunotas atlikušajā parāda apmērā;
-4) prasījumi par Latvijas Administratīvo pārkāpumu kodeksā un Krimināllikumā paredzētajiem sodiem, kā arī kompensācija par radīto kaitējumu.
+4) prasījumi par administratīvo pārkāpumu procesā piemērotajiem un Krimināllikumā paredzētajiem sodiem, kā arī kompensācija par radīto kaitējumu.
 (5) Saistību dzēšana attiecībā uz šā likuma 148.pantā noteikto vienošanos par parādnieka mājokļa saglabāšanu viņa īpašumā nosakāma saskaņā ar minēto vienošanos.

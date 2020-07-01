@@ -1,0 +1,2 @@
+178. pants. Maksātnespējas procesa pieteikuma neiesniegšana
+Par pienākuma šajā likumā noteiktajos gadījumos iesniegt juridiskās personas maksātnespējas procesa pieteikumu nepildīšanu, ja šis parādnieka pienākums iestājas saistībā ar neizpildītām nodokļu, nodevu un citu valsts noteikto obligāto maksājumu saistībām, piemēro naudas sodu fiziskajai personai vai valdes loceklim no sešdesmit līdz divsimt naudas soda vienībām, atņemot fiziskajai personai vai valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku no viena mēneša līdz pieciem gadiem vai bez tā.
