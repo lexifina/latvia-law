@@ -1,0 +1,3 @@
+3. pants. Likuma spēks telpā
+(1) Persona, kura izdarījusi administratīvo pārkāpumu Latvijas teritorijā, ir atbildīga par šo pārkāpumu saskaņā ar Latvijas Republikas normatīvajiem aktiem.
+(2) Ja administratīvo pārkāpumu Latvijas teritorijā izdarījis ārvalstu diplomātiskais pārstāvis vai cita persona, kura saskaņā ar normatīvajiem aktiem vai Latvijas Republikai saistošiem starptautiskajiem nolīgumiem nav pakļauta Latvijas Republikas jurisdikcijai, jautājumu par šīs personas saukšanu pie atbildības par administratīvo pārkāpumu izlemj diplomātiskā ceļā vai saskaņā ar valstu savstarpējo vienošanos.

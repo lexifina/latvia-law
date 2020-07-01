@@ -1,0 +1,2 @@
+290. pants. Ar nolēmuma par mantiska rakstura piedziņu nosūtīšanu izpildei saistītās sekas
+Pēc tam kad Latvijā pieņemtais nolēmums par mantiska rakstura piedziņu nosūtīts izpildei Eiropas Savienības dalībvalsts kompetentajai iestādei un attiecīgā šīs dalībvalsts kompetentā iestāde ir pieņēmusi lēmumu par piekrišanu atzīt nolēmumu un izpildīt Latvijā noteikto sodu, Latvijas iestāde neveic nekādas ar mantiska rakstura piedziņas izpildi saistītas darbības.

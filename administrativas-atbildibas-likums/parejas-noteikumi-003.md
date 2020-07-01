@@ -1,0 +1,1 @@
+3. Administratīvo pārkāpumu lietās sakarā ar apstāšanās vai stāvēšanas noteikumu pārkāpšanu vai attiecībā uz pārkāpumiem, kuri fiksēti ar tehniskajiem līdzekļiem, neapturot transportlīdzekli, ja pārkāpums izdarīts līdz šā likuma spēkā stāšanās dienai, procesu pabeidz, piemērojot Latvijas Administratīvo pārkāpumu kodeksa un Ceļu satiksmes likuma normas.

@@ -1,0 +1,3 @@
+175. pants. Tiesību normu hierarhijas kontrole
+(1) Pārbaudot administratīvā pārkāpuma lietā pieņemtā lēmuma tiesiskumu, tiesa šaubu gadījumā pārbauda, vai iestādes piemērotā vai administratīvā pārkāpuma procesā tiesā piemērojamā tiesību norma atbilst augstāka juridiskā spēka tiesību normai.
+(2) Ja tiesa uzskata, ka tiesību norma neatbilst Latvijas Republikas Satversmei vai starptautisko tiesību normai (aktam), tā tiesvedību administratīvā pārkāpuma lietā aptur un nosūta motivētu pieteikumu Satversmes tiesai. Pēc Satversmes tiesas nolēmuma stāšanās spēkā tiesa atjauno tiesvedību administratīvā pārkāpuma lietā.

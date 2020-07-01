@@ -1,0 +1,1 @@
+10. Šā likuma 38. nodaļu "Eiropas Savienības dalībvalstī pieņemta nolēmuma par mantiska rakstura piedziņu izpilde Latvijā" var piemērot, ja administratīvais pārkāpums izdarīts pēc šā likuma spēkā stāšanās dienas.

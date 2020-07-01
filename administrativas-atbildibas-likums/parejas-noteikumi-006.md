@@ -1,0 +1,1 @@
+6. Persona, kurai ar administratīvo pārkāpumu nodarīts kaitējums, par cietušo administratīvā pārkāpuma lietā, kurā pārkāpums noticis pirms šā likuma spēkā stāšanās dienas, var pieteikties saskaņā ar šo likumu. Pieteikties par cietušo var līdz brīdim, kad augstāka amatpersona pieņēmusi lēmumu administratīvā pārkāpuma lietā.

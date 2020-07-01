@@ -1,0 +1,1 @@
+7. Administratīvā pārkāpuma procesā uzsāktās darbības pabeidz tā pati amatpersona, kura tās uzsākusi saskaņā ar Latvijas Administratīvo pārkāpumu kodeksā noteiktajām pilnvarām, vai šīs amatpersonas tiesību pārņēmējs.

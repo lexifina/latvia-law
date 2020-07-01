@@ -1,0 +1,1 @@
+4. Ja līdz šā likuma spēkā stāšanās dienai ir izdarīti vairāki administratīvie pārkāpumi, lēmums par sodu vēl nav pieņemts un pārkāpumus izskata viena iestāde, sodu piemēro, ievērojot Latvijas Administratīvo pārkāpumu kodeksa 35. panta noteikumus par soda iekļaušanu.

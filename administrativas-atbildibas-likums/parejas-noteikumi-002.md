@@ -1,0 +1,1 @@
+2. Procesuālās darbības, kas līdz šā likuma spēkā stāšanās dienai uzsāktas saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu, tiek arī pabeigtas kodeksā noteiktajā kārtībā. Latvijas Administratīvo pārkāpumu kodeksa normas piemērojamas līdz attiecīgās administratīvā pārkāpuma lietvedības stadijas pabeigšanai (lietvedība iestādē, tiesā vai izpilde).

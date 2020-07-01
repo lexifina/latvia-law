@@ -1,0 +1,3 @@
+295. pants. Valsts, kas nav Eiropas Savienības dalībvalsts, sadarbība ar Latviju sodu izpildē
+(1) Latvijā piemērotā soda izpildi valstī, kas nav Eiropas Savienības dalībvalsts, var prasīt, ja Latvija ar šo valsti ir noslēgusi nolīgumu par sadarbību sodu izpildē. Soda izpilde valstī, kas nav Eiropas Savienības dalībvalsts, notiek atbilstoši minētajā nolīgumā ietvertajiem noteikumiem.
+(2) Latvijā piemērotā soda izpilde valstī, kas nav Eiropas Savienības dalībvalsts, ir šā soda pamatotības un tiesiskuma bezstrīda atzīšana un izpilde tādā pašā kārtībā kā tad, ja sods būtu noteikts Latvijā notikušā administratīvā pārkāpuma procesā.

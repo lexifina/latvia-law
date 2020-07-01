@@ -1,0 +1,4 @@
+276. pants. Nolēmuma par mantiska rakstura piedziņu izpildes saturs
+(1) Eiropas Savienības dalībvalstī pieņemta nolēmuma par naudas sodu un procesuālo izdevumu atlīdzību (turpmāk - nolēmums par mantiska rakstura piedziņu) izpilde Latvijā ir šā nolēmuma pamatotības un tiesiskuma bezstrīda atzīšana un izpilde tādā pašā kārtībā kā tad, ja nolēmums būtu pieņemts Latvijā notikušā administratīvā pārkāpuma procesā.
+(2) Eiropas Savienības dalībvalstī piemērotā soda pamatotības un tiesiskuma atzīšana neizslēdz tā saskaņošanu ar Latvijas normatīvajos aktos paredzēto sankciju par tādu pašu pārkāpumu.
+(3) Ja Eiropas Savienības dalībvalstī ir pieņemts nolēmums par mantiska rakstura piedziņu sakarā ar nodarījumu, kurš Latvijā kvalificējams kā noziedzīgs nodarījums, to izpilda Kriminālprocesa likumā noteiktajā kārtībā.

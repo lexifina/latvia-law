@@ -1,0 +1,2 @@
+A daļa
+Administratīvās atbildības pamatnoteikumi

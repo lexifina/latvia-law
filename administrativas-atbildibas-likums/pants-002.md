@@ -1,0 +1,6 @@
+2. pants. Administratīvās atbildības sistēma
+(1) Administratīvās atbildības sistēmu veido normatīvie akti, kuros ir noteikti administratīvie pārkāpumi, administratīvie sodi un administratīvo pārkāpumu process.
+(2) Administratīvās atbildības vispārīgos noteikumus, administratīvā pārkāpuma jēdzienu, administratīvo sodu veidus un to piemērošanas noteikumus, kompetentās iestādes un amatpersonas, administratīvā pārkāpuma procesa norisi iestādē un tiesā, administratīvo sodu izpildi, kā arī starptautisko sadarbību administratīvo pārkāpumu procesā nosaka šis likums.
+(3) Administratīvos pārkāpumus, par tiem piemērojamos sodus un amatpersonu kompetenci administratīvo pārkāpumu procesā iestādē, ievērojot šajā likumā paredzētos administratīvās atbildības pamatnoteikumus, nosaka attiecīgo nozari regulējošajos likumos vai pašvaldību saistošajos noteikumos. Nozaru likumos var noteikt arī iestāžu pakalpojumu saņemšanas un citus ierobežojumus administratīvi sodītajām personām, kuras izvairās no soda izpildes.
+(4) Pašvaldības dome ir tiesīga izdot saistošos noteikumus, paredzot administratīvo atbildību par to pārkāpšanu, likumā "Par pašvaldībām" noteiktajos gadījumos.
+(5) Eiropas Savienības tieši piemērojamie normatīvie akti un Latvijas Republikai saistošie starptautiskie līgumi, kuros reglamentēta administratīvā atbildība, ir daļa no administratīvās atbildības sistēmas.

@@ -1,0 +1,7 @@
+129. pants. Administratīvā pārkāpuma lietas izskatīšanas vieta
+(1) Ja administratīvā pārkāpuma lietu izskata un lēmumu administratīvā pārkāpuma lietā pieņem tūlīt pēc pārkāpuma konstatēšanas, administratīvā pārkāpuma lietu izskata pārkāpuma konstatēšanas vietā.
+(2) Administratīvā pārkāpuma lietu neizskata pārkāpuma konstatēšanas vietā, ja:
+1) administratīvā pārkāpuma lietā ir iesaistīta nepilngadīga persona;
+2) administratīvā pārkāpuma lietas izskatīšana pārkāpuma konstatēšanas vietā nav iespējama vai ir būtiski apgrūtināta.
+(3) Ja administratīvā pārkāpuma lietu neizskata pārkāpuma konstatēšanas vietā, to izskata iestādē. Ja iestādei ir vairākas teritoriālās struktūrvienības, administratīvā pārkāpuma lietu izskata tajā struktūrvienībā, kuras darbības teritorijā ir pārkāpuma konstatēšanas vieta.
+(4) Pēc cietušā vai pie atbildības saucamās personas motivēta lūguma administratīvā pārkāpuma lietu var izskatīt tajā iestādes teritoriālajā struktūrvienībā, kuras darbības teritorijā ir cietušā vai pie atbildības saucamās personas deklarētā dzīvesvieta vai juridiskā adrese. Ja šādu lūgumu iesniedz gan cietušais, gan pie atbildības saucamā persona, administratīvā pārkāpuma lietu izskata atbilstoši cietušā adresei. Ja lūgumu iesnieguši vairāki cietušie vai vairākas pie atbildības saucamās personas, lietu izskata atbilstoši tās personas adresei, kura lūgumu iesniedza pirmā, vai atbilstoši fiziskās personas adresei, ja lūgumu iesniedza gan fiziskā, gan juridiskā persona.

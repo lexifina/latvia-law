@@ -1,0 +1,2 @@
+274. pants. Finansiāla administratīvā soda piedziņa no darba devēja, kas atrodas citā Eiropas Ekonomikas zonas valstī
+Ja stājies spēkā nolēmums par finansiāla administratīvā soda piemērošanu darbinieku nosūtīšanas jomā darba devējam, kas atrodas citā Eiropas Ekonomikas zonas valstī, un tas nav izpildīts brīvprātīgi, Valsts darba inspekcija nosūta pieprasījumu par nolēmuma piespiedu izpildi attiecīgajai Eiropas Ekonomikas zonas valsts iestādei.

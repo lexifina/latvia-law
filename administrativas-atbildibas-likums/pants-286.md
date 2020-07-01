@@ -1,0 +1,4 @@
+286. pants. Ar naudas soda izpildi saistītie jautājumi
+(1) Ja sods piemērots Eiropas Savienības dalībvalstī un noteikts izpildei Latvijā, to izpilda tādā pašā kārtībā kā Latvijā notikuša administratīvā pārkāpuma procesā piemēroto sodu, ievērojot izņēmumus, kas noteikti šajā pantā.
+(2) Naudas summas, kas tiek maksātas, izpildot tiesneša lēmumu par Latvijā izpildāmā soda noteikšanu, ieskaita valsts budžetā, ja līgumā ar Eiropas Savienības dalībvalsti nav paredzēts citādi.
+(3) Tiesneša lēmumu par Latvijā izpildāmo mantiska rakstura piedziņu tiesa, kas pieņēmusi lēmumu pirmajā instancē, nodod izpildei Eiropas Savienības dalībvalstī sodītajai personai ne vēlāk kā septiņu darbdienu laikā pēc tā stāšanās spēkā vai pēc lietas saņemšanas no apelācijas instances tiesas. Pirmās instances tiesa kontrolē lēmuma par Latvijā izpildāmā soda noteikšanu brīvprātīgu izpildi, kā arī nodod lietu piespiedu izpildei šajā likumā noteiktajā kārtībā.

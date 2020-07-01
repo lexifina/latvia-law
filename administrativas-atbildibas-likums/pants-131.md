@@ -1,0 +1,2 @@
+131. pants. Paziņošana par administratīvā pārkāpuma lietas izskatīšanu
+Ja administratīvā pārkāpuma lietu neizskata tūlīt pēc pārkāpuma konstatēšanas, procesa dalībniekiem un citām personām, kuras ir uzaicināmas uz administratīvā pārkāpuma lietas izskatīšanu, informāciju par administratīvā pārkāpuma lietas izskatīšanas laiku un vietu paziņo tādā veidā, lai informācija ir uzskatāma par paziņotu vismaz piecas dienas pirms administratīvā pārkāpuma lietas izskatīšanas.

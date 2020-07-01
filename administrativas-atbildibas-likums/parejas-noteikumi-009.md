@@ -1,0 +1,1 @@
+9. Tām procesuālajām stadijām, kuras, piemērojot šo pārejas noteikumu 2. punktu, tiek izskatītas saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu, netiek piemērota šajā likumā noteiktā procesuālo izdevumu atlīdzināšanas kārtība, izņemot noteikumus par gadījumiem, kad procesuālos izdevumus sedz no valsts vai pašvaldības līdzekļiem.

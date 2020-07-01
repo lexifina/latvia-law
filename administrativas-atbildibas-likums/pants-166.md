@@ -1,0 +1,3 @@
+166. pants. Tiesības pārsūdzēt administratīvā pārkāpuma lietā pieņemto lēmumu
+(1) Administratīvā pārkāpuma lietā pieņemto lēmumu var pārsūdzēt augstākai amatpersonai persona, kurai piemērots administratīvais sods, kā arī cietušais, bet daļā par rīcību ar mantu - arī aizskartais mantas īpašnieks.
+(2) Ja augstākas amatpersonas nav, lēmumu var pārsūdzēt rajona (pilsētas) tiesā fiziskā persona atbilstoši deklarētajai dzīvesvietai, bet juridiskā persona - atbilstoši juridiskajai adresei. Ja personai nav deklarētās dzīvesvietas Latvijā vai juridiskās personas adrese neatrodas Latvijā, lēmumu administratīvā pārkāpuma lietā var pārsūdzēt rajona (pilsētas) tiesā atbilstoši administratīvā pārkāpuma konstatēšanas vietai.

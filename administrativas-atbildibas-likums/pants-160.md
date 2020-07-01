@@ -1,0 +1,2 @@
+160. pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
+Amatpersona jebkurā laikā pēc savas iniciatīvas vai pēc procesa dalībnieka lūguma var izlabot lēmuma tekstā acīmredzamas pārrakstīšanās vai matemātiskā aprēķina kļūdas, ja tas nemaina lēmuma būtību. Pārrakstīšanās vai matemātiskā aprēķina kļūdas labo ar atsevišķu lēmumu. Lēmumu par kļūdu labošanu nekavējoties paziņo procesa dalībniekiem.

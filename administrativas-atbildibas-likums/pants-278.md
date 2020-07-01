@@ -1,0 +1,2 @@
+278. pants. Dubultās sodīšanas nepieļaujamība
+Latvijā neizpilda Eiropas Savienības dalībvalstī pieņemtu nolēmumu par mantiska rakstura piedziņu, ja šajā Eiropas Savienības dalībvalstī sodītā persona par to pašu pārkāpumu ir izpildījusi Latvijā vai trešā valstī pieņemtu nolēmumu par mantiska rakstura piedziņu, bijusi sodīta bez soda noteikšanas, no soda atbrīvota saskaņā ar amnestiju vai apžēlošanu vai ir attaisnota par to pašu pārkāpumu.

@@ -1,0 +1,4 @@
+184. pants. Sūdzības izskatīšanas piekritība
+(1) Sūdzību izskata tiesā atbilstoši sūdzības iesniedzēja deklarētajai dzīvesvietai vai juridiskajai adresei. Ja personai nav deklarētās dzīvesvietas Latvijā vai juridiskās personas adrese neatrodas Latvijā, sūdzību izskata tiesā atbilstoši pārkāpuma konstatēšanas vietai.
+(2) Prokurora protestu izskata tiesā atbilstoši pārkāpuma konstatēšanas vietai.
+(3) Ja administratīvā pārkāpuma lietā iesniegtas vairākas sūdzības un tās piekrīt dažādām tiesām, sūdzību izskata tiesā atbilstoši tā sūdzības iesniedzēja adresei, kurš sūdzību iesniedzis pirmais. Ja sūdzību iesniedz gan pie atbildības saucamā persona, gan cietušais, sūdzību izskata tiesā atbilstoši cietušā adresei. Ja sūdzību iesnieguši vairāki cietušie vai vairākas pie atbildības saucamās personas, sūdzību izskata atbilstoši tās personas adresei, kura sūdzību iesniedza pirmā, vai atbilstoši fiziskās personas adresei, ja sūdzību iesniedza gan fiziskā, gan juridiskā persona.

@@ -1,0 +1,4 @@
+284. pants. Latvijā izpildāmās mantiska rakstura piedziņas noteikšana
+(1) Eiropas Savienības dalībvalstī piemērotā naudas soda un procesuālo izdevumu apmēru aprēķina pēc euro valūtas kursa, kāds bija spēkā nolēmuma pasludināšanas dienā.
+(2) Latvijā izpildāmā naudas soda un procesuālo izdevumu samaksu tiesa var atlikt uz laiku, kas nav ilgāks par vienu mēnesi no dienas, kad lēmums stājies spēkā, vai sadalīt termiņos, nepārsniedzot sešu mēnešu periodu no lēmuma spēkā stāšanās dienas. Eiropas Savienības dalībvalstī noteiktā naudas soda un procesuālo izdevumu samaksas sadalīšana termiņos vai atlikšana ir saistoša Latvijas tiesai, tomēr tiesa var papildus noteikt izpildes atvieglojumus, nepārsniedzot šajā daļā noteiktās robežas.
+(3) Ja mantiska rakstura piedziņa nav izpildāma Latvijā, tad rajona (pilsētas) tiesas tiesnesis informē Eiropas Savienības dalībvalsts kompetento iestādi par nespēju izpildīt lūgumu par mantiska rakstura piedziņu un lūdz atsaukt lūgumu.

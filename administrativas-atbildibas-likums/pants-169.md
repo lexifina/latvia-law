@@ -1,0 +1,5 @@
+169. pants. Sūdzības iesniegšanas termiņa atjaunošanas kārtība
+(1) Ja attaisnojoša iemesla dēļ šā likuma 168. panta pirmajā daļā norādītais termiņš ir nokavēts, pēc sūdzības iesniedzēja motivēta lūguma šo termiņu var atjaunot augstāka amatpersona.
+(2) Augstāka amatpersona lēmumu pieņem rakstveida procesā piecu darbdienu laikā no lūguma saņemšanas dienas.
+(3) Augstākas amatpersonas lēmumu par atteikumu atjaunot termiņu sūdzības iesniedzējs 10 darbdienu laikā no tā paziņošanas dienas var pārsūdzēt rajona (pilsētas) tiesā atbilstoši savai deklarētajai dzīvesvietai vai juridiskajai adresei. Ja personai nav deklarētās dzīvesvietas Latvijā vai juridiskās personas adrese neatrodas Latvijā, atteikumu atjaunot termiņu var pārsūdzēt rajona (pilsētas) tiesā atbilstoši administratīvā pārkāpuma konstatēšanas vietai.
+(4) Rajona (pilsētas) tiesa sūdzību izskata un lēmumu pieņem rakstveida procesā 10 darbdienu laikā no sūdzības un administratīvā pārkāpuma lietas materiālu saņemšanas dienas. Lēmumu paziņo sūdzības iesniedzējam un augstākai amatpersonai, kuras lēmums ir pārsūdzēts. Rajona (pilsētas) tiesas lēmums nav pārsūdzams.

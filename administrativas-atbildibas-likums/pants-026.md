@@ -1,0 +1,3 @@
+26. pants. Administratīvā sodīšana atsevišķa ilgstoša administratīvā pārkāpuma gadījumā
+(1) Atsevišķs ilgstošs administratīvais pārkāpums ir nepārtraukta viena administratīvā pārkāpuma realizēšana (darbība vai bezdarbība), kas saistīta ar tai sekojošu ilgstošu likumā noteikto pienākumu neizpildīšanu. Atsevišķs ilgstošs administratīvais pārkāpums ir uzskatāms par pabeigtu ar administratīvā soda piemērošanas brīdi.
+(2) Ja par administratīvo pārkāpumu ir piemērots administratīvais sods, taču administratīvais pārkāpums turpinās un netiek pārtraukts, administratīvo sodu par administratīvā pārkāpuma turpināšanu piemēro pēc tam, kad ir pagājis saprātīgs laiks administratīvā pārkāpuma pārtraukšanai.

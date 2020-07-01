@@ -1,0 +1,9 @@
+282. pants. Latvijā izpildāmās mantiska rakstura piedziņas atzīšana un izpilde
+(1) Nolēmumā noteiktās mantiska rakstura piedziņas izpildi Latvijā nosaka rajona (pilsētas) tiesas tiesnesis atbilstoši personas deklarētajai dzīvesvietai vai juridiskajai adresei, vai tās īpašuma atrašanās vietai. Ja personas dzīvesvieta vai juridiskā adrese, vai īpašuma atrašanās vieta nav zināma, Eiropas Savienības dalībvalsts kompetentās iestādes lūgumu izskata Rīgas pilsētas Vidzemes priekšpilsētas tiesa.
+(2) Nolēmumā par mantiska rakstura piedziņu konstatētie faktiskie apstākļi un personas vaina ir saistoši Latvijas tiesai.
+(3) Ja persona, attiecībā uz kuru Eiropas Savienības dalībvalstī pieņemts nolēmums par mantiska rakstura piedziņu, iesniedz pierādījumu, ka nolēmums par mantiska rakstura piedziņu ir pilnīgi vai daļēji izpildīts, tiesa sazinās ar nolēmumu izsniegušo Eiropas Savienības dalībvalsti, lai saņemtu tās apstiprinājumu.
+(4) Rajona (pilsētas) tiesas tiesnesis 20 darbdienu laikā rakstveida procesā izskata Eiropas Savienības dalībvalsts lūgumu par šajā dalībvalstī pieņemtā nolēmuma par mantiska rakstura piedziņu izpildi un, izvērtējis nosacījumus un atteikuma iemeslus, pieņem vienu no šādiem lēmumiem:
+1) par piekrišanu atzīt nolēmumu un izpildīt Eiropas Savienības dalībvalstī piemēroto mantiska rakstura piedziņu;
+2) par atteikumu atzīt nolēmumu un izpildīt Eiropas Savienības dalībvalstī piemēroto mantiska rakstura piedziņu.
+(5) Ja Eiropas Savienības dalībvalsts nolēmums attiecas uz diviem vai vairākiem pārkāpumiem un ne visi ir tādi, par kuriem iespējama soda izpilde Latvijā, tiesnesis pieprasa konkretizēt, kura soda daļa attiecas uz pārkāpumiem, kas atbilst šīm prasībām.
+(6) Šā panta ceturtajā daļā minētais lēmums nav pārsūdzams, un par šā panta ceturtās daļas 2. punktā minēto lēmumu tiesnesis paziņo Eiropas Savienības dalībvalstī sodītajai personai un attiecīgās dalībvalsts kompetentajai iestādei.

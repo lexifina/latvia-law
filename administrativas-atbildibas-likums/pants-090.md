@@ -1,0 +1,5 @@
+90. pants. Pierādījumi
+(1) Pierādījumi administratīvā pārkāpuma lietā ir ziņas par faktiem, kurus administratīvā pārkāpuma procesā iesaistītās personas atbilstoši kompetencei izmanto, lai pierādītu administratīvā pārkāpuma esību vai neesību un noskaidrotu citus apstākļus, kam ir nozīme administratīvā pārkāpuma lietas pareizā izlemšanā.
+(2) Administratīvā pārkāpuma procesā iesaistītās personas kā pierādījumus var izmantot tikai ticamas, attiecināmas un pieļaujamas ziņas par faktiem. Faktus, kurus saskaņā ar likumu var pierādīt tikai ar noteiktiem pierādīšanas līdzekļiem, nevar nodibināt ne ar kādiem citiem pierādīšanas līdzekļiem.
+(3) Bez papildu procesuālo darbību veikšanas par pierādījumu ir uzskatāmas tās ziņas par faktiem, kuras administratīvā pārkāpuma konstatēšanas brīdī fiksējusi amatpersona, ja vien administratīvā pārkāpuma procesā netiek pierādīts pretējais.
+(4) Administratīvā pārkāpuma procesā iegūtos pierādījumus nostiprina procesuālo darbību protokolos, atzinumos un citos dokumentos.

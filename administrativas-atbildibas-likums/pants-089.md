@@ -1,0 +1,4 @@
+89. pants. Pierādīšanas pienākums
+(1) Pierādīšanas pienākums administratīvā pārkāpuma procesā ir amatpersonai.
+(2) Ja persona uzskata, ka kāds no šā likuma 88. pantā prezumētajiem faktiem nav patiess, pienākums norādīt uz šā fakta neatbilstību īstenībai ir tai personai, kura to apgalvo.
+(3) Pie atbildības saucamajai personai ir pienākums pašai norādīt uz savu alibi, kā arī uz administratīvo atbildību izslēdzošiem apstākļiem. Ja pie atbildības saucamā persona uz šādiem apstākļiem nav norādījusi, amatpersonai nav pienākuma pierādīt to neesību, amatpersonai, augstākai amatpersonai un tiesai nav jādod to vērtējums nolēmumā, bet personai tiek liegta iespēja saņemt atlīdzinājumu par kaitējumu, kas radies, nepamatoti turot to aizdomās, ja administratīvā pārkāpuma lietas izbeigšana saistīta ar minēto apstākļu noskaidrošanu.

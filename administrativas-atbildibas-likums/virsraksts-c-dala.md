@@ -1,0 +1,2 @@
+C daļa
+Sodu izpilde

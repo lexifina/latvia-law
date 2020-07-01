@@ -1,0 +1,4 @@
+52. pants. Tulks
+(1) Ja administratīvā pārkāpuma procesa nodrošināšanai rodas nepieciešamība pēc tādas valodas zināšanām, kura nav valsts valoda, amatpersona, augstāka amatpersona vai tiesa uzaicina administratīvā pārkāpuma lietā personu, kura prot attiecīgo valodu, - tulku. Administratīvā pārkāpuma lietā var uzaicināt vairākus tulkus, vai, ja amatpersona vai augstāka amatpersona prot attiecīgu svešvalodu, tā pati var veikt tulkošanu.
+(2) Pēc amatpersonas, augstākas amatpersonas vai tiesas uzaicinājuma tulks ierodas norādītajā vietā un laikā un veic viņam uzdoto tulkojumu.
+(3) Tulkam izskaidro viņa pienākumu tulkot administratīvā pārkāpuma procesa norisi un brīdina, ka par atteikšanos tulkot vai par apzināti nepareizu tulkošanu viņu var saukt pie kriminālatbildības. Par tiesībām un pienākumiem nav jāinformē tulks, kuram tulkošana ir profesionāls amata pienākums un kurš, uzsākot amata pildīšanu, savu atbildību ir apliecinājis ar parakstu.

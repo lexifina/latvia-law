@@ -1,0 +1,1 @@
+5. Administratīvā pārkāpuma procesa ietvaros pieņemto nolēmumu, kura pārsūdzību šis likums turpmāk neparedz, var pārsūdzēt, ja nolēmums tiek pieņemts līdz šā likuma spēkā stāšanās dienai. Sūdzība iesniedzama Latvijas Administratīvo pārkāpumu kodeksā paredzētajā termiņā. Sūdzību izskata saskaņā ar Latvijas Administratīvo pārkāpumu kodeksa procesuālajām normām.

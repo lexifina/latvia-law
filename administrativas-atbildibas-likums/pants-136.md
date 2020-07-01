@@ -1,0 +1,3 @@
+136. pants. Administratīvā pārkāpuma lietas izskatīšanas kārtība, ja administratīvā pārkāpuma lietu izskata pārkāpuma konstatēšanas vietā
+(1) Ja administratīvā pārkāpuma lietu izskata tūlīt pēc pārkāpuma konstatēšanas, amatpersona administratīvā pārkāpuma lietas izskatīšanā ievēro šajā nodaļā ietvertās normas attiecībā uz administratīvā pārkāpuma lietas izskatīšanas kārtību tiktāl, ciktāl tas iespējams, izskatot pārkāpumu tā konstatēšanas vietā.
+(2) Šā panta pirmās daļas nosacījums par šajā nodaļā ietverto normu ievērošanu attiecināms arī uz gadījumiem, kad personai piemēro administratīvo aizturēšanu un tās laikā lieta tiek izskatīta iestādē.

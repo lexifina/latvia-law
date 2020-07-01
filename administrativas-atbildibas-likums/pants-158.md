@@ -1,0 +1,2 @@
+158. pants. Lemšana par procesuālo izdevumu atlīdzināšanu pēc tam, kad pieņemts lēmums administratīvā pārkāpuma lietā
+Ja informācija par piedzenamiem procesuālajiem izdevumiem kļūst zināma pēc tam, kad pieņemts lēmums par soda piemērošanu, amatpersona pieņem atsevišķu lēmumu par šo procesuālo izdevumu piedziņu. Šo lēmumu var pārsūdzēt saskaņā ar kārtību, kādā pārsūdz lēmumu administratīvā pārkāpuma lietā.
