@@ -1,3 +1,6 @@
-18.pants. Fizisko un juridisko personu atbildība
-(1) Fiziskās un juridiskās personas, kuras nav ievērojušas šā likuma prasības, saucamas pie atbildības saskaņā ar Latvijas Republikas likumiem.
-(2) (Izslēgta ar 02.05.2013. likumu)
+18. pants. Mērīšanas līdzekļu uzstādīšanas, lietošanas vai ekspluatācijas prasību neievērošana
+(1) Par tādu mērīšanas līdzekļu lietošanu, kuriem nav veiktas atbilstības novērtēšanas procedūras saskaņā ar normatīvajiem aktiem par metroloģiskajām prasībām, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz trīssimt sešdesmit naudas soda vienībām.
+(2) Par tādu valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu lietošanu, kuri nav verificēti vai kalibrēti, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz trīssimt sešdesmit naudas soda vienībām.
+(3) Par tādu mērīšanas līdzekļu lietošanu, kuri nenodrošina mērījumu precizitātes atbilstību normatīvajos aktos noteiktajām metroloģiskajām prasībām, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz četrsimt divdesmit naudas soda vienībām.
+(4) Par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu neatbilstošu uzstādīšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz četrsimt divdesmit naudas soda vienībām.
+(5) Par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu ekspluatācijas noteikumu neievērošanu un ar tiem saistīto mērīšanas procesu nepareizu izpildi piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz četrsimt divdesmit naudas soda vienībām.

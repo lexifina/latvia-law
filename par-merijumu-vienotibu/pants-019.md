@@ -1,0 +1,2 @@
+19. pants. Izplatīšanai sagatavoto preču satura daudzuma neatbilstība normatīvajiem aktiem par metroloģiskajām prasībām fasētajām precēm
+Par izplatīšanai sagatavoto fasēto preču satura daudzuma neatbilstību normatīvajiem aktiem par metroloģiskajām prasībām fasētajām precēm piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no sešām līdz piecsimt astoņdesmit naudas soda vienībām.
