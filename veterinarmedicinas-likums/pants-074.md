@@ -1,0 +1,1 @@
+74. pants. Par veterinārmedicīniskās prakses iestādes nereģistrēšanu piemēro naudas sodu fiziskajai personai no desmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit līdz divsimt astoņdesmit naudas soda vienībām.

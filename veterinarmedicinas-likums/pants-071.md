@@ -1,0 +1,1 @@
+71. pants. Par prasības dzīvnieku turēt slēgtā telpā neievērošanu valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, un epizootijas apkarošanas pasākumu īstenošanas laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no trim līdz divsimt astoņdesmit naudas soda vienībām.

@@ -1,0 +1,1 @@
+64. pants. Par to pašu patēriņam paredzētu dzīvnieku izcelsmes produktu ievešanas prasību pārkāpšanu, kuras noteiktas Komisijas 2009. gada 5. marta regulā (EK) Nr. 206/2009 par dzīvnieku izcelsmes produktu sūtījumu ievešanu Kopienā personīgam patēriņam un regulas (EK) Nr. 136/2004 grozīšanu, piemēro brīdinājumu vai naudas sodu līdz četrpadsmit naudas soda vienībām.

@@ -1,0 +1,2 @@
+XIII nodaļa
+Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā

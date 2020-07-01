@@ -1,0 +1,1 @@
+67. pants. Par neziņošanu Pārtikas un veterinārajam dienestam, ja radušās aizdomas par dzīvnieka saslimšanu ar valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozi, vai epizootiju, praktizējošam veterinārārstam piemēro naudas sodu no desmit līdz divsimt astoņdesmit naudas soda vienībām.

@@ -1,0 +1,1 @@
+75. pants. Par tādu zāļu lietošanu dzīvniekam, kuras satur normatīvajos aktos noteiktās aizliegtās vielas, piemēro naudas sodu dzīvnieka īpašniekam (turētājam) fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no trim līdz divsimt astoņdesmit naudas soda vienībām.

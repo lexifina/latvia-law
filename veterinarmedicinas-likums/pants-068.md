@@ -1,0 +1,1 @@
+68. pants. Par dzīvnieku izcelsmes produktu marķēšanas prasību pārkāpumiem epizootijas uzliesmojuma laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no trim līdz divsimt astoņdesmit naudas soda vienībām.

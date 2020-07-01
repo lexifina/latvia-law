@@ -1,0 +1,1 @@
+73. pants. Par tādu darbību veikšanu bez veterinārmedicīniskās prakses sertifikāta, kurām šis sertifikāts ir nepieciešams, piemēro naudas sodu no piecdesmit sešām līdz divsimt astoņdesmit naudas soda vienībām.

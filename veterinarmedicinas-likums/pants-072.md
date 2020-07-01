@@ -1,0 +1,1 @@
+72. pants. Par dzīvnieku neuzrādīšanu Pārtikas un veterinārā dienesta inspektoram gadījumos, kad normatīvajos aktos noteikts šāds pienākums, piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no trim līdz divsimt astoņdesmit naudas soda vienībām.

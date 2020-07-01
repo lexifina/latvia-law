@@ -1,0 +1,1 @@
+77. pants. Par neatbilstoša zāļu izdalīšanās perioda noteikšanu, ja pēc tam konstatēta atļautā zāļu atliekvielu daudzuma pārsniegšana dzīvnieku izcelsmes pārtikas produktos, piemēro naudas sodu līdz simt četrdesmit naudas soda vienībām.
