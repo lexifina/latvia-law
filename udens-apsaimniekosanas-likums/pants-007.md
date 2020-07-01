@@ -12,5 +12,5 @@
 10) atlīdzināt zaudējumus, kas ūdens resursu lietošanas rezultātā nodarīti videi vai ūdens bioloģiskajiem resursiem, ja atbilstoši spēkā esošajiem normatīvajiem aktiem atzīta ūdens resursu lietotāja atbildība par šiem zaudējumiem;
 11) pārtraukt ūdens resursu lietošanu, ja konstatēta pazemes ūdensobjekta un virszemes ūdensobjekta stāvokļa pasliktināšanās, nodarīts kaitējums cilvēku veselībai vai videi, it īpaši ūdens ekosistēmām un no tām tieši atkarīgajām sauszemes ekosistēmām;
 12) ievērot ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumos paredzētos ūdens objekta ekspluatācijas un izmantošanas nosacījumus. Hidrotehniskās būves īpašnieks vai tiesiskais valdītājs atbild par savā īpašumā vai valdījumā esošās hidrotehniskās būves ekspluatācijas (apsaimniekošanas) noteikumos paredzēto nosacījumu izpildi un veic pasākumus, lai novērstu plūdu draudus;
-13) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 25. punktu);
-14) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 25. punktu).
+13) neveikt ūdensobjekta hidroloģiskā režīma maiņu, ūdensteces vai ūdenstilpes krastu un gultnes izmaiņas, izņemot gadījumu, kad šīs darbības tiek veiktas normatīvajos aktos noteiktajā kārtībā;
+14) pēc Valsts vides dienesta pieprasījuma normatīvajos aktos noteiktajā kārtībā sniegt informāciju par ūdens resursu lietošanu, ūdeņu stāvokli vai kvalitāti.
