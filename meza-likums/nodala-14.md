@@ -1,3 +1,2 @@
 XIV nodaļa
-Atbildība par meža apsaimniekošanas un
-izmantošanas normatīvo aktu pārkāpumiem
+Meža apsaimniekošanas un izmantošanas normatīvo aktu pārkāpumu rezultātā nodarīto zaudējumu atlīdzināšana
