@@ -1,1 +1,1 @@
-25.pants. Sapulču, gājienu un piketu organizators, vadītājs un viņa palīgi, kā arī pārējie dalībnieki par šā likuma noteikumu neievērošanu saucami pie likumā paredzētās atbildības.
+25. pants. Par noteiktās sapulču, gājienu un piketu organizēšanas un norises kārtības pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajām personām līdz septiņdesmit naudas soda vienībām, bet juridiskajām personām - naudas sodu līdz piecsimt astoņdesmit naudas soda vienībām.
