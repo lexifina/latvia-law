@@ -1,0 +1,1 @@
+7. Kredītiestādei, krājaizdevu sabiedrībai un maksājumu pakalpojumu sniedzējam ir pienākums šā likuma 5. panta otrajā daļā noteiktās reģistrā iekļaujamās ziņas par individuālā seifa pakalpojuma saņēmējiem, kuriem ir spēkā esoši individuālo seifu nomas vai īres līgumi, iesniegt Valsts ieņēmumu dienestam līdz 2020. gada 31. augustam.

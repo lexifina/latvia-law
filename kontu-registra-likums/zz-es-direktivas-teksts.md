@@ -1,0 +1,3 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2015. gada 20. maija direktīvas (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 684/2012 un atceļ Eiropas Parlamenta un Padomes direktīvu 2005/60/EK un Komisijas direktīvu 2006/70/EK;
+2) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/843, ar ko groza direktīvu (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza direktīvas 2009/138/EK un 2013/36/ES.

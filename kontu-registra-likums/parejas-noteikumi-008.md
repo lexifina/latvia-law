@@ -1,0 +1,1 @@
+8. Sākot ar 2020. gada 1. septembri, kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs šā likuma 5. panta otrajā daļā noteiktās ziņas par individuālā seifa pakalpojuma saņēmējiem Valsts ieņēmumu dienestam sniedz, ievērojot šā likuma 5. panta ceturtajā daļā noteikto termiņu.

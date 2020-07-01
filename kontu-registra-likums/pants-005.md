@@ -4,11 +4,15 @@
 2) krājaizdevu sabiedrības;
 3) maksājumu pakalpojumu sniedzēji.
 (2) Šā panta pirmajā daļā minētie ziņu sniedzēji (turpmāk - ziņu sniedzējs) iekļaušanai reģistrā sniedz šādas ziņas:
-1) par ziņu sniedzēju, kurā atvērts pieprasījuma noguldījuma, maksājumu vai ieguldījumu konts, - nosaukums, reģistrācijas numurs;
+1) par ziņu sniedzēju, kurā atvērts pieprasījuma noguldījuma, maksājumu vai ieguldījumu konts vai saņemts individuālā seifa pakalpojums, - nosaukums, reģistrācijas numurs;
 2) par konta turētāju - fizisko personu, kas ir Latvijas Republikas rezidents, - vārds, uzvārds, personas kods, konta numurs, konta atvēršanas un slēgšanas datums;
 3) par konta turētāju - fizisko personu, kas ir Latvijas Republikas nerezidents, - vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izsniedzējas valsts nosaukums, konta numurs, konta atvēršanas un slēgšanas datums;
 4) par konta turētāju - juridisko personu, kas ir Latvijas Republikas rezidents vai nerezidenta pastāvīgā pārstāvniecība Latvijā, - nosaukums, reģistrācijas numurs, konta numurs, konta atvēršanas un slēgšanas datums;
-5) par konta turētāju - juridisko personu, kas ir Latvijas Republikas nerezidents, - nosaukums, reģistrācijas numurs, reģistrācijas valsts nosaukums, konta numurs, konta atvēršanas un slēgšanas datums.
+5) par konta turētāju - juridisko personu, kas ir Latvijas Republikas nerezidents, - nosaukums, reģistrācijas numurs, reģistrācijas valsts nosaukums, konta numurs, konta atvēršanas un slēgšanas datums;
+6) par individuālā seifa pakalpojuma saņēmēju - fizisko personu, kas ir Latvijas Republikas rezidents, - vārds, uzvārds, personas kods, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;
+7) par individuālā seifa pakalpojuma saņēmēju - fizisko personu, kas ir Latvijas Republikas nerezidents, - vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izsniedzējas valsts nosaukums, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;
+8) par individuālā seifa pakalpojuma saņēmēju - juridisko personu, kas ir Latvijas Republikas rezidents vai nerezidenta pastāvīgā pārstāvniecība Latvijā, - nosaukums, reģistrācijas numurs, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;
+9) par individuālā seifa pakalpojuma saņēmēju - juridisko personu, kas ir Latvijas Republikas nerezidents, - nosaukums, reģistrācijas numurs, reģistrācijas valsts nosaukums, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums.
 (3) Ja šā panta otrajā daļā minētajai personai ir noskaidrots patiesā labuma guvējs, vienlaikus ar šā panta otrajā daļā minētajām ziņām iesniedz šādas ziņas:
 1) par patieso labuma guvēju - Latvijas Republikas rezidentu - fiziskās personas vārds, uzvārds, personas kods;
 2) par patieso labuma guvēju - nerezidentu - fiziskās personas vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs, izsniedzējas valsts nosaukums.
@@ -16,7 +20,7 @@
 1) par pilnvaroto personu - Latvijas Republikas rezidentu - fiziskās personas vārds, uzvārds, personas kods;
 2) par pilnvaroto personu - nerezidentu - fiziskās personas vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs, izsniedzējas valsts nosaukums.
 (4) Ziņu sniedzējs šā panta otrajā un trešajā daļā noteiktās ziņas iekļaušanai reģistrā sniedz elektroniski atbilstoši Elektronisko dokumentu likumam, izmantojot Valsts reģionālās attīstības aģentūras pārziņā esošā valsts informācijas sistēmu savietotāja datu izplatīšanas tīklu, ne retāk kā reizi divās darbdienās.
-(5) Ziņu sniedzējs ziņas iekļaušanai reģistrā sniedz, ja kontu atver vai slēdz, kā arī gadījumā, kad ziņu sniedzējam kļuvušas zināmas izmaiņas šā panta otrajā, trešajā un 3.¹ daļā minētajos ar konta turētāju, patieso labuma guvēju vai pilnvaroto personu saistītās fiziskās vai juridiskās personas datos.
+(5) Ziņu sniedzējs ziņas iekļaušanai reģistrā sniedz, ja kontu atver vai slēdz, tiek noslēgts vai izbeigts individuālā seifa nomas vai īres līgums, kā arī gadījumā, kad ziņu sniedzējam kļuvušas zināmas izmaiņas šā panta otrajā, trešajā un 3.¹ daļā minētajos ar konta turētāju, individuālā seifa nomnieku vai īrnieku, patieso labuma guvēju vai pilnvaroto personu saistītās fiziskās vai juridiskās personas datos.
 (6) Ziņu sniedzējs ir atbildīgs par sniegto ziņu atbilstību tā rīcībā esošajai informācijai.
 (7) Valsts ieņēmumu dienests ir atbildīgs par to, lai reģistrā iekļautās ziņas atbilstu ziņu sniedzēja sniegtajām ziņām.
 (8) Ziņu sniedzējs ziņas iekļaušanai reģistrā sniedz un ziņas reģistrā tiek iekļautas latviešu valodā. Tādas fiziskās personas vārdu un uzvārdu, kura nav Latvijas pilsonis vai nepilsonis, kā arī citā valstī reģistrētas personas nosaukumu reģistrā iekļauj latīņalfabētiskajā transliterācijā.
