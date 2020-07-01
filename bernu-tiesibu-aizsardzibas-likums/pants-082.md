@@ -1,0 +1,3 @@
+82. pants. Bērna nelikumīga iesaistīšana pasākumos
+(1) Par tādu normatīvo aktu pārkāpšanu, kuri nosaka kārtību, kādā bērni iesaistāmi ar ārējā izskata demonstrēšanu saistītās aktivitātēs (pasākumos), piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit astoņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.
+(2) Par bērna iesaistīšanu skaistumkonkursā vai citā pasākumā, kurā tiek vērtēts vienīgi viņa ārējais izskats, piemēro naudas sodu fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no simt četrdesmit līdz četrsimt divdesmit naudas soda vienībām.

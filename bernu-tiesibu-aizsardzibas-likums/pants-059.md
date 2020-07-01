@@ -1,7 +1,7 @@
 59.pants. Bērna nogādāšana policijas iestādē
 (1) Policijas iestādē nogādā bērnu, kurš:
 1) izdarījis darbības, par kurām paredzēta kriminālatbildība;
-2) izdarījis administratīvu pārkāpumu, ja citādi nav iespējams noskaidrot bērna identitāti un sastādīt administratīvā pārkāpuma protokolu;
+2) izdarījis administratīvu pārkāpumu, ja citādi nav iespējams noskaidrot bērna identitāti un pieņemt lēmumu par administratīvā pārkāpuma procesa uzsākšanu;
 3) atrodas sabiedriskā vietā reibuma stāvoklī;
 4) ubago;
 5) nav sasniedzis 16 gadu vecumu un atrodas nakts laikā publiskā vietā bez pilngadīgas personas, kura atbildīga par bērna uzraudzību, klātbūtnes;

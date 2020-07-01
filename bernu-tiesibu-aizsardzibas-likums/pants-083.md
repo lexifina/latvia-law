@@ -1,0 +1,3 @@
+83. pants. Bērna atstāšana bez uzraudzības
+(1) Par septiņu gadu vecumu nesasnieguša bērna atstāšanu bez uzraudzības, ja to izdarījusi persona, kura atbildīga par bērna uzraudzību, piemēro brīdinājumu vai naudas sodu līdz četrdesmit divām naudas soda vienībām.
+(2) Par bērna uzraudzīšanu, atrodoties alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmē, kas var ierobežot spējas nodrošināt bērna drošību un aizsardzību no iespējamiem bērna dzīvības un veselības apdraudējumiem, ja to izdarījusi persona, kura atbildīga par bērna uzraudzību, piemēro brīdinājumu vai naudas sodu līdz četrdesmit divām naudas soda vienībām.

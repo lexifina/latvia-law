@@ -1,0 +1,3 @@
+88. pants. Kompetence administratīvo pārkāpumu procesā
+(1) Administratīvā pārkāpuma procesu par šā likuma 81. pantā minētajiem pārkāpumiem, ko izdarījušas valsts un pašvaldību institūciju amatpersonas vai darbinieki, un 82. pantā minētajiem pārkāpumiem veic Valsts bērnu tiesību aizsardzības inspekcija.
+(2) Administratīvā pārkāpuma procesu par šā likuma 77., 78., 79., 80., 81. (par pārkāpumiem, ko izdarījušas personas, kas nav valsts un pašvaldību institūciju amatpersonas vai darbinieki), 83., 84., 85., 86. un 87. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts policija vai pašvaldības policija. Administratīvā pārkāpuma lietu izskata pašvaldības administratīvā komisija vai apakškomisija.

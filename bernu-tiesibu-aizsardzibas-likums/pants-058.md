@@ -6,6 +6,6 @@
 3) atbrīvots no kriminālatbildības;
 4) atbrīvots no ieslodzījuma vai soda izciešanas vietas;
 5) izdarījis Krimināllikumā paredzētās prettiesiskās darbības pirms 14 gadu vecuma sasniegšanas;
-6) vairāk nekā divas reizes izdarījis Administratīvo pārkāpumu kodeksā paredzētās prettiesiskās darbības;
+6) vairāk nekā divas reizes izdarījis administratīvo pārkāpumu;
 7) ubago, klaiņo vai veic citas darbības, kas var novest pie prettiesiskas rīcības.
 (3) Valsts policija var ņemt profilaktiskajā uzskaitē bērnus, kuri norādīti šā panta otrās daļas 1.-6.punktā, kā arī citus bērnus, kuriem pašvaldībā iekārtota profilakses lieta, ja izstrādātā uzvedības sociālās korekcijas programma paredz policijas līdzdalību konkrētajā lietā.
