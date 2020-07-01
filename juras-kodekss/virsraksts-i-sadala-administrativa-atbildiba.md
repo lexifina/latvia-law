@@ -1,0 +1,1 @@
+I sadaļa. Administratīvā atbildība
