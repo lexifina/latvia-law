@@ -1,0 +1,26 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Administratīvo sodu likums par pārkāpumiem pārvaldes, sabiedriskās kārtības un valsts valodas lietošanas jomā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2020-05-20",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2020-09-02",
+  "commission_reference": "MNE(2020)56573",
+  "nim_celex": "72002L0019LVA_288170",
+  "nim_id": "288170",
+  "transposes_celex": [
+    "32002L0019",
+    "32002L0020",
+    "32002L0021",
+    "32002L0022",
+    "32002L0058"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/38b2f66a-ee78-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
