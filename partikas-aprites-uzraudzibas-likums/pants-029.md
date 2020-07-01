@@ -1,0 +1,1 @@
+29. pants. Par pārtikas vai saskarei ar pārtiku paredzēto materiālu un izstrādājumu apriti regulējošos normatīvajos aktos noteikto nekaitīguma un kvalitātes prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai līdz simt naudas soda vienībām, bet juridiskajai personai - no četrām līdz trīssimt naudas soda vienībām.

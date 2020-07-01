@@ -1,0 +1,1 @@
+30. pants. Par pārtikas vai saskarei ar pārtiku paredzēto materiālu un izstrādājumu ievešanai, izvešanai un tranzītam noteikto nekaitīguma un kvalitātes prasību pārkāpšanu piemēro naudas sodu fiziskajai personai no piecām līdz simt desmit naudas soda vienībām, bet juridiskajai personai - no desmit līdz trīssimt piecdesmit naudas soda vienībām.

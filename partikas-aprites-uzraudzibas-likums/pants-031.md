@@ -1,0 +1,1 @@
+31. pants. Par piesārņojuma prasībām neatbilstošas pārtikas izplatīšanu vai pārtikas, kurai beidzies derīguma termiņš, neatļautu izplatīšanu piemēro naudas sodu fiziskajai personai no desmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz sešsimt naudas soda vienībām.
