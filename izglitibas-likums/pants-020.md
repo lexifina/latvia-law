@@ -14,4 +14,4 @@
 3) pieprasīt un saņemt no juridiskajām un fiziskajām personām dienesta pienākumu pildīšanai nepieciešamo informāciju un dokumentu kopijas dienesta kompetencē esošajos jautājumos;
 4) veikt pārbaudi, pieaicinot, ja nepieciešams, tiesībaizsardzības iestāžu darbiniekus vai citus speciālistus, fotografēt, izdarīt audioierakstus un videoierakstus dienesta kompetences ietvaros;
 5) sastādīt pārbaudes aktu un uzdot novērst pārbaudes laikā konstatētos ar izglītību saistīto normatīvo aktu pārkāpumus;
-6) sastādīt protokolu par administratīvo pārkāpumu.
+6) (izslēgts no 01.07.2020. ar 30.05.2019. likumu, kas stājas spēkā 26.06.2019. Sk. Pārejas noteikumu 87. punktu).
