@@ -11,7 +11,7 @@
 1) piezīme;
 2) rājiens;
 3) amatalgas samazināšana uz laiku līdz vienam gadam, ieturot līdz 20 procentiem no amatalgas.
-(5) Uzliekot disciplinārsodu, tiesnešu disciplinārkolēģijai jāņem vērā disciplinārā vai administratīvā pārkāpuma raksturs, tā sekas, tiesneša vainas pakāpe nodarījumā, kā arī ziņas, kas raksturo viņa personību un iepriekšējo darbību tiesneša amatā. Par katru disciplināro vai administratīvo pārkāpumu tiesnesim var uzlikt tikai vienu disciplinārsodu.
+(5) Uzliekot disciplinārsodu, tiesnešu disciplinārkolēģijai jāņem vērā disciplinārā pārkāpuma raksturs, tā sekas, tiesneša vainas pakāpe nodarījumā, kā arī ziņas, kas raksturo viņa personību un iepriekšējo darbību tiesneša amatā. Par katru disciplināro pārkāpumu tiesnesim var uzlikt tikai vienu disciplinārsodu.
 (6) Disciplinārsoda uzlikšana neizslēdz tiesneša kriminālo un civiltiesisko atbildību, izņemot likuma «Par tiesu varu» 13. panta piektajā daļā norādītos gadījumus.
 (7) Tiesnešu disciplinārkolēģija disciplinārlietu izbeidz:
 1) ja disciplinārlieta ierosināta nepamatoti;
