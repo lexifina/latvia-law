@@ -7,7 +7,7 @@
 5) mēslošanas līdzekļiem un substrātiem, kuriem piemēro kādu no muitas procedūrām, izņemot tos mēslošanas līdzekļus un substrātus, kuriem piemēro muitas procedūru - laišana brīvā apgrozībā.
 (2) Uz mēslošanas līdzekļiem, kuriem ir marķējums "EK mēslošanas līdzeklis" (turpmāk - EK marķējums), attiecas šā likuma noteikumi par:
 1) nevēlamo piemaisījumu maksimāli pieļaujamo koncentrāciju mēslošanas līdzekļos (4.panta pirmās daļas 1.punkta "d" apakšpunkts);
-2) mēslošanas līdzekļu uzraudzību, kontroli un uzskaiti, kā arī detonācijas testu vai to kopiju saņemšanu un informācijas sniegšanu (4.panta pirmās daļas 1.punkta "f" apakšpunkts, 4.panta trešā daļa, 8. panta pirmā daļa, 9.panta pirmās daļas 7., 8., 9. un 10.punkts un otrās daļas 1., 2. un 5.punkts);
+2) mēslošanas līdzekļu uzraudzību, kontroli un uzskaiti, kā arī detonācijas testu vai to kopiju saņemšanu un informācijas sniegšanu (4.panta pirmās daļas 1.punkta "f" apakšpunkts, 4.panta trešā daļa, 8. panta pirmā daļa, 9.panta pirmās daļas 7., 8., 9. un 10.punkts un otrās daļas 1. un 2. punkts, 17. pants);
 3) mēslošanas līdzekļu kvalitātes atbilstības novērtēšanas kārtību, veicot uzraudzību un kontroli (4.panta pirmās daļas 1.punkta "g" apakšpunkts);
 4) mēslošanas līdzekļu kontroles paraugu ņemšanu, kā arī paraugu ņemšanas un sagatavošanas kārtību (4.panta pirmās daļas 2.punkts);
 5) neatbilstības gadījumu paziņošanu Eiropas Komisijai (4.panta otrā daļa);
