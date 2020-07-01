@@ -1,0 +1,3 @@
+45. pants. Dzelzceļa transporta līdzekļu lietošanas noteikumu pārkāpšana
+(1) Par vilciena sastāvā ietilpstošo vagonu bremžu maģistrāles gala krāna neatļautu patvaļīgu aiztaisīšanu vai vilciena patvaļīgu apturēšanu ar trauksmes bremzi, atvienojot bremžu gaisa maģistrāli vai citādā veidā, piemēro naudas sodu līdz septiņdesmit naudas soda vienībām.
+(2) Par braukšanu tam neparedzētās vietās ritošajā sastāvā, par iekāpšanu vai izkāpšanu kravas vai pasažieru vilciena kustības laikā vai par braukšanu uz kravas vai pasažieru vilciena autosakabēm, vagonu kāpšļiem vai jumtiem piemēro naudas sodu līdz septiņdesmit naudas soda vienībām.
