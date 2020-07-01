@@ -1,0 +1,2 @@
+28. pants. Administratīvie pārkāpumi īpaši aizsargājamo biotopu un īpaši aizsargājamo sugu dzīvotņu atjaunošanu mežā regulējošu normatīvo aktu jomā
+Par normatīvajos aktos noteikto prasību pārkāpšanu attiecībā uz īpaši aizsargājamo biotopu un īpaši aizsargājamo sugu dzīvotņu atjaunošanu mežā piemēro brīdinājumu vai naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.

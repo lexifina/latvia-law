@@ -1,0 +1,2 @@
+27. pants. Administratīvie pārkāpumi sugu introdukcijas un reintrodukcijas jomā
+Par sugu introdukciju un reintrodukciju, tai skaitā izlaišanu, ieviešanu vai pārvietošanu savvaļā, regulējošos normatīvajos aktos noteikto prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.

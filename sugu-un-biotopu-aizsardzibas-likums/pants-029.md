@@ -1,0 +1,2 @@
+29. pants. Administratīvie pārkāpumi starptautiskās tirdzniecības apdraudēto savvaļas dzīvnieku un augu sugu īpatņu tirdzniecību regulējošu normatīvo aktu jomā
+Par starptautiskās tirdzniecības apdraudēto savvaļas dzīvnieku un augu sugu īpatņu tirdzniecību regulējošos normatīvajos aktos īpatņu tirdzniecībai Eiropas Savienības teritorijā noteikto prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz tūkstoš četrsimt naudas soda vienībām.

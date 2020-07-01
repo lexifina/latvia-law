@@ -1,0 +1,2 @@
+25. pants. Administratīvie pārkāpumi īpaši aizsargājamo sugu indivīdu iegūšanu vai traucēšanu regulējošu normatīvo aktu jomā
+Par normatīvajos aktos noteikto prasību pārkāpšanu attiecībā uz īpaši aizsargājamo sugu indivīdu, tai skaitā putnu un zivju, un ierobežoti izmantojamo īpaši aizsargājamo sugu indivīdu iegūšanu vai traucēšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no trim līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.

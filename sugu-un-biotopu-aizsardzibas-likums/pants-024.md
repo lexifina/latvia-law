@@ -1,0 +1,2 @@
+24. pants. Administratīvie pārkāpumi īpaši aizsargājamo sugu un biotopu aizsardzības jomā
+Par normatīvajos aktos noteikto īpaši aizsargājamo sugu dzīvnieku, tai skaitā putnu un zivju, un īpaši aizsargājamo sugu augu, sēņu un ķērpju, kā arī īpaši aizsargājamo biotopu aizsardzības un izmantošanas prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no trim līdz divsimt naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz trīssimt piecdesmit naudas soda vienībām.
