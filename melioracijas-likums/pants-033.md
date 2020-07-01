@@ -1,0 +1,2 @@
+33. pants. (1) Par meliorācijas sistēmas pielūžņošanu, piesārņošanu, aizaudzēšanu vai aizsprostošanu piemēro naudas sodu fiziskajai personai no trim līdz četrdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit līdz simt naudas soda vienībām.
+(2) Par meliorācijas sistēmas bojāšanu vai iznīcināšanu piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.
