@@ -1,0 +1,2 @@
+76. pants. Karavīra formas tērpa, tā komplektējošo sastāvdaļu vai atšķirības zīmju prettiesiska aprite
+Par karavīra kaujas, ikdienas, svētku vai ceremoniālā formas tērpa vai tā komplektējošo sastāvdaļu, dienesta pakāpju vai uzvārda atšķirības zīmju prettiesisku apriti piemēro naudas sodu fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai - līdz četrtūkstoš naudas soda vienībām.
