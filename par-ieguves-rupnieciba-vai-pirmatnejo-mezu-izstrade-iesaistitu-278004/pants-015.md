@@ -1,0 +1,2 @@
+15. pants. Administratīvā atbildība par paziņojuma par maksājumiem pārvaldes iestādēm vai konsolidētā paziņojuma par maksājumiem pārvaldes iestādēm neiesniegšanu
+Par šā likuma 4. vai 7. pantā minētā komercsabiedrības paziņojuma par maksājumiem pārvaldes iestādēm vai konsolidētā paziņojuma par maksājumiem pārvaldes iestādēm, vai šā likuma 14. pantā minētā līdzvērtīga dokumenta neiesniegšanu piemēro brīdinājumu vai naudas sodu līdz astoņdesmit sešām naudas soda vienībām.
