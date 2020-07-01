@@ -1,3 +1,2 @@
 V nodaļa
-Atbildība par pārkāpumiem zemes dzīļu izmantošanā
-un zaudējumu atlīdzināšana
+Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze

@@ -1,0 +1,3 @@
+25. pants. Administratīvā atbildība zemes dzīļu izmantošanas jomā
+(1) Par zemes dzīļu izmantošanu, neievērojot derīgo izrakteņu ieguves vai zemes dzīļu monitoringa veikšanas prasības, piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.
+(2) Par zemes dzīļu izmantošanu bez zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas piemēro naudas sodu fiziskajai personai no četrpadsmit līdz divsimt desmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz četrsimt divdesmit naudas soda vienībām.
