@@ -1,1 +1,1 @@
-34.pants. Par šā likuma pārkāpumiem personas saucamas pie likumā noteiktās atbildības.
+34. pants. Par darbinieka, kas nepiedalās streikā, piespiešanu uzņemties streikojošo darbinieku darbu, kā arī par darbinieku pieņemšanu darbā streikojošo darbinieku vietā, lai novērstu vai apturētu streiku vai kavētu streikojošo darbinieku prasību izpildi, piemēro naudas sodu darba devējam - fiziskajai personai - no divdesmit astoņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz simt četrdesmit naudas soda vienībām.

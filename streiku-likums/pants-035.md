@@ -1,0 +1,1 @@
+35. pants. Par aicināšanu uz nelikumīgu streiku, kuras rezultātā streiks notiek, piemēro naudas sodu darbiniekam vai arodbiedrības pilnvarotai amatpersonai no divdesmit astoņām līdz septiņdesmit naudas soda vienībām.

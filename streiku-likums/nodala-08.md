@@ -1,2 +1,2 @@
 VIII nodaļa
-Atbildība par likuma pārkāpumiem
+Administratīvie pārkāpumi streikošanas tiesību jomā un kompetence administratīvo pārkāpumu procesā
