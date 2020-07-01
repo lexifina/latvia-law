@@ -1,0 +1,5 @@
+66.³ pants. Kompetence administratīvo pārkāpumu procesā par pārkāpumiem vides un dabas resursu aizsardzības aizsargjoslās
+(1) Administratīvā pārkāpuma procesu par šā likuma 66.¹ pantā minētajiem pārkāpumiem veic Valsts vides dienests, Valsts policija, pašvaldības policija, pašvaldības vides kontroles amatpersona vai pašvaldības vides inspekcija.
+(2) Administratīvā pārkāpuma procesu par šā likuma 66.¹ pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts meža dienests vai Dabas aizsardzības pārvalde. Administratīvā pārkāpuma lietu izskata Valsts vides dienests.
+(3) Administratīvā pārkāpuma procesu par šā likuma 66.² pantā minētajiem pārkāpumiem veic Valsts vides dienests.
+(4) Administratīvā pārkāpuma procesu par šā likuma 66.² pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts policija, pašvaldības policija, Valsts meža dienests vai Dabas aizsardzības pārvalde. Administratīvā pārkāpuma lietu izskata Valsts vides dienests.

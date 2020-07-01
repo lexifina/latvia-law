@@ -1,0 +1,2 @@
+66.⁶ pants. Aizsargjoslās ap navigācijas tehniskajiem līdzekļiem un militārajiem jūras novērošanas tehniskajiem līdzekļiem noteikto aprobežojumu pārkāpšana
+Par normatīvajos aktos noteikto prasību un aprobežojumu pārkāpšanu ekspluatācijas aizsargjoslās ap navigācijas tehniskajiem līdzekļiem un militārajiem jūras novērošanas tehniskajiem līdzekļiem piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

@@ -1,0 +1,2 @@
+66.⁷ pants. Aizsargjoslās ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm noteikto aprobežojumu pārkāpšana
+Par normatīvajos aktos noteikto prasību un aprobežojumu pārkāpšanu ekspluatācijas aizsargjoslās ap gāzesvadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm piemēro naudas sodu fiziskajai personai no četrpadsmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz astoņsimt naudas soda vienībām.

@@ -1,0 +1,2 @@
+VII² nodaļa
+Administratīvie pārkāpumi ekspluatācijas aizsargjoslās un kompetence administratīvo pārkāpumu procesā

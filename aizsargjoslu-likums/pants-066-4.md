@@ -1,0 +1,2 @@
+66.⁴ pants. Aizsargjoslās gar elektronisko sakaru tīkliem noteikto aprobežojumu pārkāpšana
+Par normatīvajos aktos noteikto prasību un aprobežojumu pārkāpšanu aizsargjoslās gar elektronisko sakaru tīkliem piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

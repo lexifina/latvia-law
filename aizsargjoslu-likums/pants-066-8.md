@@ -1,0 +1,4 @@
+66.⁸ pants. Aizsargjoslās ap valsts aizsardzības objektiem noteikto aprobežojumu pārkāpšana
+(1) Par normatīvajos aktos noteikto uzturēšanās darbību ierobežojumu pārkāpšanu aizsargjoslās ap valsts aizsardzības objektiem piemēro brīdinājumu vai naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.
+(2) Par saimnieciskās darbības veikšanu aizsargjoslās ap valsts aizsardzības objektiem bez saskaņošanas ar Aizsardzības ministriju piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām.
+(3) Par normatīvajos aktos noteikto prasību un aprobežojumu pārkāpšanu aizsargjoslās ap valsts aizsardzības objektiem piemēro naudas sodu amatpersonai no četrpadsmit līdz simt četrdesmit naudas soda vienībām.

@@ -1,0 +1,2 @@
+66.² pants. Vides un dabas resursu aizsardzības aizsargjoslās noteikto prasību un aprobežojumu pārkāpšana
+Par vides un dabas resursu aizsardzības aizsargjoslās noteikto prasību un aprobežojumu pārkāpšanu, izņemot šā likuma 66.¹ pantā minētos pārkāpumus, piemēro naudas sodu fiziskajai personai no sešām līdz divsimt astoņdesmit naudas soda vienībām, amatpersonai - no četrpadsmit līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz piecsimt astoņdesmit naudas soda vienībām.
