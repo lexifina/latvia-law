@@ -1,0 +1,2 @@
+28. pants. Komercdarbība bez speciālās atļaujas (licences) pirotehnisko izstrādājumu aprites jomā
+Par komercdarbību ar pirotehniskajiem izstrādājumiem bez speciālās atļaujas (licences) piemēro naudas sodu fiziskajai personai vai valdes loceklim no piecdesmit sešām līdz trīssimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz trim gadiem vai bez tā.

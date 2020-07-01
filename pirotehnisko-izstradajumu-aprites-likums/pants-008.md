@@ -1,5 +1,5 @@
 8.pants. Speciālās atļaujas (licences) darbības apturēšana un anulēšana
-(1) Valsts policija uz laiku līdz 60 dienām var apturēt speciālās atļaujas (licences) darbību, lai pārtrauktu šajā likumā un citos normatīvajos aktos noteiktos pirotehnisko izstrādājumu ražošanas, glabāšanas, pārvadāšanas, realizācijas vai izmantošanas noteikumu pārkāpumus.
+(1) Valsts policija uz laiku līdz 60 dienām var apturēt speciālās atļaujas (licences) darbību pilnībā vai attiecībā uz kādu no speciālajā atļaujā (licencē) norādītajām pirotehnisko izstrādājumu ražošanas, glabāšanas vai realizācijas vietām, lai pārtrauktu šajā likumā vai citos normatīvajos aktos noteiktos pirotehnisko izstrādājumu ražošanas, glabāšanas, pārvadāšanas, realizācijas vai izmantošanas noteikumu pārkāpumus.
 (2) Valsts policija speciālo atļauju (licenci) anulē, ja:
 1) komersants pārkāpj šā likuma prasības;
 2) komersants apzināti sniedzis nepatiesas ziņas, lai saņemtu speciālo atļauju (licenci);
