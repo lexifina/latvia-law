@@ -1,0 +1,2 @@
+16. pants. Administratīvie pārkāpumi politisko organizāciju (partiju) finansēšanas jomā
+Par šajā likumā noteiktās politisko organizāciju (partiju) finansēšanas kārtības, ierobežojumu un aizliegumu neievērošanu un noteikto pienākumu nepildīšanu piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - līdz divtūkstoš astoņsimt naudas soda vienībām.
