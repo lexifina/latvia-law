@@ -1,3 +1,2 @@
 VIII nodaļa
-Šā likuma ievērošanas kontrole
-un atbildība par tā pārkāpšanu
+Likuma ievērošanas uzraudzība un kontrole

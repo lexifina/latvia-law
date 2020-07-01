@@ -1,0 +1,1 @@
+52. pants. Par pasākumu neveikšanu, lai narkotiskās vai psihotropās vielas, tās saturoši augi, augu daļas un to atlikumi vai ražošanas atkritumi nenokļūtu nelegālā apritē, piemēro naudas sodu no desmit līdz divdesmit astoņām naudas soda vienībām.

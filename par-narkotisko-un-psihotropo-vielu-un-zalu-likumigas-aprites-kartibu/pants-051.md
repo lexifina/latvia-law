@@ -1,0 +1,1 @@
+51. pants. Par tādas receptes izrakstīšanas vai uzglabāšanas prasību pārkāpšanu, ar kuru izsniedz II un III sarakstā iekļautās vielas un zāles lietošanai dzīvniekiem, piemēro naudas sodu fiziskajai personai no septiņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no desmit līdz simt naudas soda vienībām.

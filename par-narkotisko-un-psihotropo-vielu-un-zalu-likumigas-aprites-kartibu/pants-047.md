@@ -1,0 +1,1 @@
+47. pants. Par prekursoru izgatavošanas, iegādāšanās, glabāšanas, uzskaites, izsniegšanas, pārvadāšanas, pārsūtīšanas vai izplatīšanas noteikumu pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit līdz divsimt naudas soda vienībām, bet juridiskajai personai - no divsimt līdz divtūkstoš naudas soda vienībām.

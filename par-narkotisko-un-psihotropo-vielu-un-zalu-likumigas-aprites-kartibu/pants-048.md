@@ -1,0 +1,3 @@
+48. pants. (1) Par narkotisko vai psihotropo vielu neatļautu iegādāšanos vai glabāšanu nelielā apmērā vai par narkotisko vai psihotropo vielu neatļautu lietošanu piemēro brīdinājumu vai naudas sodu no desmit līdz piecdesmit sešām naudas soda vienībām.
+(2) Par atteikšanos no narkotisko vai psihotropo vielu ietekmes medicīniskās pārbaudes piemēro brīdinājumu vai naudas sodu no desmit līdz piecdesmit sešām naudas soda vienībām.
+(3) Piemērojot administratīvo sodu par šā panta pirmajā daļā paredzēto pārkāpumu, personu vienlaikus rakstveidā brīdina par kriminālatbildību, ja tā gada laikā pēc administratīvā soda piemērošanas neatļauti iegādāsies vai glabās narkotiskās vai psihotropās vielas nelielā apmērā vai neatļauti tās lietos.

@@ -1,0 +1,1 @@
+46. pants. Par prekursoru neatļautu izgatavošanu, iegādāšanos, glabāšanu, pārvadāšanu vai pārsūtīšanu nelielā apmērā piemēro brīdinājumu vai naudas sodu fiziskajai personai no desmit līdz piecdesmit sešām naudas soda vienībām, bet juridiskajai personai - no simt līdz piecsimt sešdesmit naudas soda vienībām.
