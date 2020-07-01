@@ -1,2 +1,2 @@
-9.pants. Atbildība par šā likuma pārkāpumiem
-Par šā likuma pārkāpumiem persona saucama pie atbildības likumā noteiktajā kārtībā.
+9. pants. Ierobežojumi autoceļu lietošanas nodevas nesamaksas gadījumā
+Ierobežojumus transportlīdzekļu valsts tehniskajai apskatei, reģistrācijas darbībām, kā arī ierobežojumus transportlīdzekļa vadītāja apliecību izsniegšanai, lai kontrolētu par autoceļu lietošanas nodevas maksāšanas pārkāpumu piemēroto naudas soda samaksu, nosaka Ceļu satiksmes likums.
