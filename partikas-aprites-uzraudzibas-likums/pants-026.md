@@ -1,1 +1,0 @@
-26.pants. Naudas līdzekļus, kas iegūti, iekasējot Pārtikas un veterinārā dienesta amatpersonu uzliktos naudas sodus par administratīvajiem pārkāpumiem, kā arī līdzekļus, kas iegūti, realizējot likumā noteiktajā kārtībā konfiscēto mantu, preces vai citus priekšmetus, ieskaita valsts budžetā.
