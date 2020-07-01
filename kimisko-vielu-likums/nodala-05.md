@@ -1,3 +1,2 @@
 V nodaļa
-Atbildība par pārkāpumiem, veicot darbības
-ar ķīmiskajām vielām un maisījumiem
+Administratīvie pārkāpumi ķīmisko vielu, maisījumu un biocīdu jomā un kompetence administratīvo pārkāpumu procesā

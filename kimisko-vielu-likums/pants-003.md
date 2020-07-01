@@ -20,4 +20,4 @@ g) radioaktīvajām vielām,
 h) gatavajām sprāgstvielām, ķīmiskajām vielām vai maisījumiem, kas izmantojami pirotehniska efekta iegūšanai un kļūst pieejami citām personām, ja darbības ar šīm gatavajām sprāgstvielām, ķīmiskajām vielām vai maisījumiem nevar radīt rūpniecisko avāriju risku,
 i) ģenētiski modificētajiem organismiem,
 j) dzīvnieku barību un dzīvnieku barības piedevām;
-2) uz fiziskajām personām, ja tās neveic darbības ar ķīmiskajām vielām un maisījumiem komercdarbības nolūkos, izņemot šā likuma 9.panta pirmajā - trešajā daļā, 17.panta pirmajā daļā, 19. un 20.pantā minētos gadījumus.
+2) uz fiziskajām personām, ja tās neveic darbības ar ķīmiskajām vielām un maisījumiem komercdarbības nolūkos, izņemot šā likuma 9.panta pirmajā - trešajā daļā, 17.panta pirmajā daļā, 19., 20., 21., 22. un 23. pantā minētos gadījumus.
