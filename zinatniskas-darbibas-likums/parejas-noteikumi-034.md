@@ -1,0 +1,1 @@
+34. Ministru kabinets līdz 2020. gada 31. janvārim Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pieņem lēmumu par Studiju un zinātnes administrācijas likvidācijas vai reorganizācijas pabeigšanu līdz 2020. gada 30. jūnijam, nodrošinot šā likuma 18.¹ panta otrajā daļā minēto uzdevumu nodošanu Latvijas Zinātnes padomei.
