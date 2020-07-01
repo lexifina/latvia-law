@@ -1,2 +1,2 @@
 22.pants. Atvieglojumi
-Tiem nodarbinātajiem, kuriem saskaņā ar normatīvajiem aktiem noteikta īpaša aizsardzība (personām līdz 18 gadu vecumam, grūtniecēm, sievietēm pēcdzemdību periodā, invalīdiem, nodarbinātajiem, kas iekļauti šā likuma 7.panta otrajā daļā minētajos sarakstos), atbilstoši darba vides riska novērtējumam, kā arī ārsta atzinumam ir tiesības uz darba devēja noteiktiem papildu atvieglojumiem.
+Tiem nodarbinātajiem, kuriem saskaņā ar normatīvajiem aktiem noteikta īpaša aizsardzība (piemēram, personām līdz 18 gadu vecumam, grūtniecēm, sievietēm pēcdzemdību periodā, personām ar invaliditāti), atbilstoši darba vides riska novērtējumam, kā arī ārsta atzinumam ir tiesības uz darba devēja noteiktiem papildu atvieglojumiem.

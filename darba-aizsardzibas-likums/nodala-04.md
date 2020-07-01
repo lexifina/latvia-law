@@ -1,2 +1,2 @@
 IV nodaļa
-Valsts un pašvaldību kompetence darba aizsardzības jomā
+Valsts kompetence darba aizsardzības jomā

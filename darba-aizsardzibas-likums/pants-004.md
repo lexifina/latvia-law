@@ -10,4 +10,4 @@
 8) novērš darba vides riska ietekmi uz to nodarbināto drošību un veselību, kuriem saskaņā ar normatīvajiem aktiem noteikta īpaša aizsardzība;
 9) veic nodarbināto instruktāžu un apmācību darba aizsardzības jomā;
 10) darba aizsardzības jomā sadarbojas ar nodarbinātajiem un uzticības personām.
-(2) Pašnodarbinātajam ir pienākums rūpēties par savu drošību un veselību darbā, kā arī par to personu drošību un veselību, kuras ietekmē vai var ietekmēt viņa darbs.
+(2) Pašnodarbinātajam, ievērojot šā panta pirmajā daļā noteiktos darba aizsardzības vispārīgos principus, ir pienākums rūpēties par savu drošību un veselību darbā, kā arī par to personu drošību un veselību, kuras ietekmē vai var ietekmēt viņa darbs.
