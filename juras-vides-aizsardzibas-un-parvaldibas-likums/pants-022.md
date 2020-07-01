@@ -1,0 +1,2 @@
+22. pants. Piesārņošana no kuģiem un termināļiem
+Par Latvijas ekskluzīvās ekonomiskās zonas, teritoriālās jūras, iekšējo jūras ūdeņu, ostu akvatoriju un upju grīvu piesārņošanu no kuģiem un termināļiem ar bīstamām vai citām kaitīgām vielām, materiāliem vai atkritumiem, pārkāpjot normatīvajos aktos noteiktās prasības, piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.
