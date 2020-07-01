@@ -1,0 +1,2 @@
+78. pants. Audio un audiovizuālo komerciālo paziņojumu sniegšanas vai izplatīšanas noteikumu pārkāpšana
+Par šajā likumā noteiktās kārtības pārkāpšanu audio un audiovizuālo komerciālo paziņojumu sniegšanā vai izplatīšanā piemēro brīdinājumu vai naudas sodu fiziskajai personai no septiņām līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
