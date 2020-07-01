@@ -1,0 +1,7 @@
+36. pants. Kompetence administratīvo pārkāpumu procesā
+(1) Administratīvā pārkāpuma procesu par šā likuma 35. pantā minētajiem pārkāpumiem veic Valsts ieņēmumu dienests.
+(2) Administratīvā pārkāpuma procesu par šā likuma 35. panta pirmajā, otrajā un trešajā daļā minētajiem pārkāpumiem veic Valsts policija.
+(3) Administratīvā pārkāpuma procesu par šā likuma 35. panta trešajā daļā minētajiem pārkāpumiem, kas attiecas uz tādu tabakas izstrādājumu uzglabāšanu, pārvietošanu (pārvadāšanu), piedāvāšanu, realizāciju vai iegādi, kuri nav marķēti ar Latvijas Republikas akcīzes nodokļa markām, veic pašvaldības policija.
+(4) Administratīvā pārkāpuma procesu par šā likuma 35. panta ceturtajā, piektajā, sestajā un septītajā daļā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī Valsts policija, bet administratīvā pārkāpuma lietu izskata Valsts ieņēmumu dienests.
+(5) Administratīvā pārkāpuma procesu par šā likuma 35. panta pirmajā, otrajā, trešajā (attiecībā uz alkoholiskajiem dzērieniem), ceturtajā, piektajā, sestajā un septītajā daļā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī pašvaldības policija, bet administratīvā pārkāpuma lietu izskata Valsts ieņēmumu dienests.
+(6) Administratīvā pārkāpuma procesu par šā likuma 35. panta pirmajā, otrajā un trešajā daļā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī Valsts robežsardze, bet administratīvā pārkāpuma lietu izskata Valsts ieņēmumu dienests.
