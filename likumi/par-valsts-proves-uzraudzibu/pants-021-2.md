@@ -1,0 +1,1 @@
+21.² pants. Par dārgmetālu, dārgakmeņu un to izstrādājumu provēšanas, zīmogošanas, marķēšanas un uzglabāšanas prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai vai juridiskajai personai līdz simt četrdesmit naudas soda vienībām.

@@ -1,0 +1,1 @@
+21.¹ pants. Par darbam ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem paredzēto saimnieciskās darbības vietu un personisko zīmogu reģistrēšanas kārtības pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai vai juridiskajai personai līdz simt četrpadsmit naudas soda vienībām.
