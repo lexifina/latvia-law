@@ -1,0 +1,1 @@
+58. pants. Par dzīvnieku turēšanas noteikumu pārkāpšanu, ar ko citam dzīvniekam nodarīts fizisks kaitējums vai cilvēkam nodarīts fizisks vai materiāls kaitējums, piemēro naudas sodu fiziskajai personai no četrpadsmit līdz trīssimt septiņdesmit piecām naudas soda vienībām, bet juridiskajai personai - no divdesmit divām līdz sešsimt naudas soda vienībām.

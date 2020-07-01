@@ -1,0 +1,2 @@
+53. pants. (1) Par mājas (istabas) dzīvnieku atsavināšanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai līdz divdesmit divām naudas soda vienībām, bet juridiskajai personai - no trim līdz četrdesmit divām naudas soda vienībām.
+(2) Par tādu mājas (istabas) dzīvnieku piedalīšanos sacensībās, tirgos un izsolēs, kā arī demonstrēšanu publiskās izstādēs, kuriem izdarīta izskatu pārveidojoša operācija, piemēro naudas sodu fiziskajai personai līdz divdesmit divām naudas soda vienībām, bet juridiskajai personai - no trim līdz četrdesmit divām naudas soda vienībām.

@@ -1,0 +1,1 @@
+57. pants. Par dzīvnieku labturības prasību pārkāpumiem piemēro naudas sodu fiziskajai personai līdz trīssimt piecdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit divām līdz piecsimt naudas soda vienībām.
