@@ -1,0 +1,1 @@
+84. pants. Par medicīnisko atzinumu sniegšanas pārkāpumiem vai veselības aprūpes pārkāpumiem piemēro brīdinājumu vai naudas sodu fiziskajai personai līdz simt naudas soda vienībām, atņemot tiesības nodarboties ar ārstniecību uz laiku no sešiem mēnešiem līdz diviem gadiem vai bez tā, bet juridiskajai personai - no piecdesmit līdz piecsimt piecdesmit naudas soda vienībām.

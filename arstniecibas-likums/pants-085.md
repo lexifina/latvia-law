@@ -1,0 +1,1 @@
+85. pants. Par medicīnisko ierīču ekspluatācijas pārkāpumiem ārstniecības iestādē piemēro naudas sodu fiziskajai personai no desmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz divsimt piecdesmit naudas soda vienībām.

@@ -1,0 +1,1 @@
+83. pants. Par nodarbošanos ar ārstniecību bez reģistrēšanās normatīvajos aktos noteiktajā kārtībā piemēro naudas sodu fiziskajai personai no divām līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz divsimt piecdesmit naudas soda vienībām.

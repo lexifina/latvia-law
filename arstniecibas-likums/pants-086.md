@@ -1,0 +1,1 @@
+86. pants. Par recepšu veidlapu uzglabāšanas noteikumu vai recepšu izrakstīšanas kārtības neievērošanu piemēro naudas sodu fiziskajai personai no septiņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit sešām līdz divsimt astoņdesmit naudas soda vienībām.
