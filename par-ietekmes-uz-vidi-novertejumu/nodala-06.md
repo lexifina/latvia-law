@@ -1,2 +1,2 @@
 VI nodaļa
-Atbildība un lēmumu pārskatīšana
+Ierosinātāja, izstrādātāja un pieaicināto ekspertu pienākumi un lēmumu pārskatīšanas kārtība
