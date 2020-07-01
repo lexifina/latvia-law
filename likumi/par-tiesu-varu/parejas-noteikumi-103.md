@@ -1,0 +1,1 @@
+103. Nemainot rajonu (pilsētu) tiesu un apgabaltiesu tiesnešu kopskaitu, Ekonomisko lietu tiesas darbības uzsākšanai tiek pārceltas 10 tiesneša amata vietas un Rīgas apgabaltiesai - četras tiesneša amata vietas.
