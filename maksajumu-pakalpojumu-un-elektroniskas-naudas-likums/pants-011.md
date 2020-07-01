@@ -4,11 +4,11 @@
 3) šā likuma 12.pantā minētā sākotnējā kapitāla esamības apliecinājumu;
 4) to pasākumu aprakstu, kuri veikti, lai aizsargātu maksājumu pakalpojumu izmantotāju un elektroniskās naudas turētāju naudu saskaņā ar šā likuma 38.panta noteikumiem, tostarp informāciju par šā likuma 38. panta pirmās daļas prasību izpildi;
 5) iestādes iekšējās kontroles sistēmas un risku pārvaldības aprakstu, kas ietver arī piemērotas un pietiekamas iestādes pārvaldības nodrošināšanai nepieciešamo administratīvo, riska vadības un grāmatvedības procedūru aprakstu;
-6) iestādes procedūras, kas nodrošina noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmas izveidi un efektīvu darbību;
+6) iestādes procedūras, kas nodrošina noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas iekšējās kontroles sistēmas izveidi un efektīvu darbību;
 7) iestādes organizatoriskās struktūras aprakstu, tai skaitā informāciju par iestādes pārstāvjiem, filiālēm, ārpakalpojumu līgumiem un dalību valsts vai starptautiskā maksājumu sistēmā;
 8) informāciju par to personu identitāti, kuras iestādē tieši vai netieši ieguvušas būtisku līdzdalību, kā arī par to faktiskās līdzdalības apjomu un apliecinājumu par šo personu atbilstību šā likuma 15.pantam;
 9) to personu sarakstu, ar kurām iestādei ir ciešas attiecības Kredītiestāžu likuma izpratnē;
-10) informāciju par iestādes valdes un padomes locekļiem, personām, kas, pieņemot būtiskus lēmumus iestādes vārdā, rada iestādei civiltiesiskas saistības, par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas prasību izpildi atbildīgām personām, arī par personām, kas ir tieši atbildīgas par iestādes maksājumu pakalpojumu darbības pārvaldību, kā arī dokumentus, kas apliecina attiecīgo personu atbilstību šā likuma 20. un 21.panta prasībām;
+10) informāciju par iestādes valdes un padomes locekļiem, personām, kas, pieņemot būtiskus lēmumus iestādes vārdā, rada iestādei civiltiesiskas saistības, par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas prasību izpildi atbildīgām personām, arī par personām, kas ir tieši atbildīgas par iestādes maksājumu pakalpojumu darbības pārvaldību, kā arī dokumentus, kas apliecina attiecīgo personu atbilstību šā likuma 20. un 21.panta prasībām;
 11) ziņas par zvērinātu revidentu vai zvērinātu revidentu komercsabiedrību (turpmāk - zvērināts revidents), ja tas nepieciešams saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu;
 12) iestādes statūtus, ja šāda informācija nav pieejama publiskajos reģistros;
 13) (izslēgts ar 20.06.2018. likumu);

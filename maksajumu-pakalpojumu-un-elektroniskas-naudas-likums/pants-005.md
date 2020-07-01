@@ -9,7 +9,7 @@
 2) ziņas par šā likuma 11.panta pirmās daļas 10.punktā minētajām personām;
 3) maksājumu iestādes komercdarbības plānu, kas citstarp liecina arī par šā panta pirmās daļas 1.punktā minētā nosacījuma ievērošanu;
 4) informāciju par to, kā maksājumu iestāde nodrošinās šā likuma 38.panta pirmās daļas prasību izpildi;
-5) iestādes procedūras, kas nodrošina noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles sistēmas izveidi un efektīvu darbību;
+5) iestādes procedūras, kas nodrošina noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas iekšējās kontroles sistēmas izveidi un efektīvu darbību;
 6) informāciju par to personu identitāti, kuras tieši vai netieši ieguvušas būtisku līdzdalību iestādē, kā arī par to līdzdalības apmēru;
 7) informāciju par komercdarbības nepārtrauktības nodrošināšanas procedūru;
 8) citus Komisijas normatīvajos noteikumos norādītos iesniedzamos dokumentus.

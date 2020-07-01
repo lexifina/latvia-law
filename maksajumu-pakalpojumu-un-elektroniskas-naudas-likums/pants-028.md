@@ -5,7 +5,7 @@
 4) pakalpojumu sniegšana ar pārstāvja starpniecību var ierobežot iestādes pārvaldes institūciju iespējas veikt normatīvajos aktos, iestādes statūtos vai citos iekšējos normatīvajos aktos tām noteiktos pienākumus;
 5) pakalpojumu sniegšana ar pārstāvja starpniecību liegs vai ierobežos Komisijas iespējas veikt tai likumā noteiktās funkcijas;
 6) pilnvarojuma līgums neatbilst šim likumam un nesniedz skaidru un patiesu priekšstatu par iestādes un pārstāvja paredzēto sadarbību un prasībām, kas izvirzītas pārstāvim attiecībā uz viņam deleģēto pakalpojumu apjomu un kvalitāti;
-7) pakalpojumu sniegšana ar pārstāvja starpniecību var nenodrošināt to, ka tiek ievērotas normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizēšanas un terorisma finansēšanas novēršanai.
+7) pakalpojumu sniegšana ar pārstāvja starpniecību var nenodrošināt to, ka tiek ievērotas normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizēšanas un terorisma un proliferācijas finansēšanas novēršanai.
 (2) Tas, ka iestāde sniedz pakalpojumus ar pārstāvja starpniecību, neatbrīvo iestādi no atbildības, kas noteikta šajā likumā vai līgumos, ko tā noslēgusi ar saviem klientiem. Iestāde ir atbildīga par pārstāvja darbībām un to rezultātu tādā pašā apmērā kā par savu darbību kopumā.
 (3) Komisijai ir tiesības pieprasīt, lai iestāde novērš trūkumus, kas radušies, tās pārstāvim rīkojoties iestādes vārdā, un noteikt šo trūkumu novēršanas termiņus. Ja Komisijas noteiktajā termiņā trūkumi netiek novērsti, Komisija pieprasa, lai iestāde izbeidz pilnvarojuma līgumu, un nosaka līguma izbeigšanas termiņu.
 (4) Komisija ir tiesīga pieprasīt, lai iestāde nekavējoties izbeidz pilnvarojuma līgumu, ja Komisija konstatē, ka:

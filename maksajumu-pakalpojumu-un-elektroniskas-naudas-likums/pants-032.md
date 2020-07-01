@@ -3,7 +3,7 @@
 (3) Ja iestāde plāno izmantot pārstāvi, tā šā panta otrajā daļā minētajam iesniegumam pievieno:
 1) pārstāvja nosaukumu, reģistrācijas numuru vai vārdu, uzvārdu un personas kodu, ja tāds piešķirts;
 2) pārstāvja adresi;
-3) iekšējās kontroles sistēmas aprakstu, ko pārstāvis izmantos, lai ievērotu normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanai;
+3) iekšējās kontroles sistēmas aprakstu, ko pārstāvis izmantos, lai ievērotu normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanai;
 4) dokumentus, kas apliecina, ka uz iestādes pārstāvja pārvaldes institūciju locekļiem un personām, kas atbildīgas par maksājumu pakalpojumu sniegšanu vai elektroniskās naudas izplatīšanu vai atpirkšanu, neattiecas šā likuma 21. pantā noteiktie ierobežojumi, ja pārstāvis nav jau licencēts maksājumu pakalpojumu sniedzējs vai elektroniskās naudas iestāde.
 (4) Ja iestāde plāno atvērt filiāli, tā šā panta otrajā daļā minētajam iesniegumam pievieno filiāles organizatoriskās struktūras aprakstu, filiāles vadītāja vārdu, uzvārdu, personas kodu, ja tāds piešķirts, kā arī šā likuma 11. panta pirmās daļas 2. un 5. punktā noteikto informāciju.
 (5) Ja iestāde plāno iesaistītajā dalībvalstī saņemt ārpakalpojumu maksājumu pakalpojumu sniegšanai vai elektroniskās naudas izplatīšanai vai atpirkšanai, tā par to attiecīgi informē Komisiju.

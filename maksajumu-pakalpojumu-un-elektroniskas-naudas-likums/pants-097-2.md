@@ -6,11 +6,11 @@
 2) citu pamatkonta atvēršanai nepieciešamo kredītiestādes pieprasīto informāciju.
 (5) Kredītiestāde 10 darba dienu laikā pēc visas šā panta ceturtajā daļā minētās informācijas saņemšanas atver patērētājam pamatkontu vai atsaka pamatkonta atvēršanu.
 (6) Kredītiestāde atsaka pamatkonta atvēršanu jebkurā no šādiem gadījumiem:
-1) šāda konta atvēršanas vai apkalpošanas rezultātā tiktu pārkāptas normatīvo aktu prasības, tai skaitā noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā;
+1) šāda konta atvēršanas vai apkalpošanas rezultātā tiktu pārkāptas normatīvo aktu prasības, tai skaitā noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā;
 2) patērētājs ir sniedzis nepatiesu informāciju pamatkonta atvēršanai.
 (7) Kredītiestāde ir tiesīga atteikt pamatkonta atvēršanu jebkurā no šādiem gadījumiem:
 1) patērētājam jau ir atvērts maksājumu konts šajā vai citā kredītiestādē, kura veic komercdarbību Latvijā un sniedz šā likuma 97.³ pantā minētos pakalpojumus, izņemot gadījumu, kad patērētājs jau ir saņēmis paziņojumu, ka maksājumu konts tiks slēgts;
 2) patērētājs vairs neatbilst šā panta otrajā daļā noteiktajam;
 3) maksājumu konta atvēršana vai apkalpošana var radīt kredītiestādei reputācijas riskus.
-(8) Kredītiestāde pēc tam, kad pieņēmusi lēmumu atteikt pamatkonta atvēršanu, nekavējoties rakstveidā un bez maksas informē patērētāju par atteikumu, kā arī par tā iemeslu, izņemot gadījumus, kad šādas informācijas atklāšana ir pretrunā ar valsts drošības vai sabiedriskās kārtības interesēm (tai skaitā normatīvo aktu prasībām noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā). Kredītiestāde saziņai ar pieteikuma iesniedzēju izmanto pieteikumā norādīto saziņai paredzēto adresi (ieskaitot elektroniskā pasta adresi).
+(8) Kredītiestāde pēc tam, kad pieņēmusi lēmumu atteikt pamatkonta atvēršanu, nekavējoties rakstveidā un bez maksas informē patērētāju par atteikumu, kā arī par tā iemeslu, izņemot gadījumus, kad šādas informācijas atklāšana ir pretrunā ar valsts drošības vai sabiedriskās kārtības interesēm (tai skaitā normatīvo aktu prasībām noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā). Kredītiestāde saziņai ar pieteikuma iesniedzēju izmanto pieteikumā norādīto saziņai paredzēto adresi (ieskaitot elektroniskā pasta adresi).
 (9) Atteikuma gadījumā kredītiestāde informē patērētāju par sūdzību izskatīšanas kārtību un ārpustiesas strīdu izskatīšanas kārtību atbilstoši šā likuma 105. un 106. pantam, norādot attiecīgu kontaktinformāciju.

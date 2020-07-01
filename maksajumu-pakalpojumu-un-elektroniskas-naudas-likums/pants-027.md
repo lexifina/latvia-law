@@ -6,16 +6,16 @@
 (4) Šā panta trešajā daļā minētajam iesniegumam iestāde pievieno:
 1) pārstāvja darbības politikas aprakstu, kas sniedz patiesu un skaidru priekšstatu par to pakalpojumu sniegšanas kārtību, kuri tiks sniegti ar pārstāvja starpniecību;
 2) ar pārstāvja starpniecību sniedzamo pakalpojumu procedūras aprakstu un ar pārstāvi noslēgtā pilnvarojuma līguma oriģinālu vai apliecinātu kopiju;
-3) tā iekšējās kontroles mehānisma aprakstu, ko pārstāvis izmantos, lai ievērotu normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizēšanas un terorisma finansēšanas novēršanai;
+3) tā iekšējās kontroles mehānisma aprakstu, ko pārstāvis izmantos, lai ievērotu normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizēšanas un terorisma un proliferācijas finansēšanas novēršanai;
 4) informāciju, kas apliecina, ka uz pārstāvja pārvaldes institūciju locekļiem un par pārstāvja darbību atbildīgajām personām nav attiecināmi šā likuma 21. pantā noteiktie ierobežojumi.
 (5) Pilnvarojuma līgumā ietver:
 1) ar pārstāvja starpniecību sniedzamo pakalpojumu procedūras aprakstu;
 2) precīzas prasības attiecībā uz to pakalpojumu kvalitāti, kuri tiks sniegti ar pārstāvja starpniecību;
 3) iestādes un pārstāvja tiesības un pienākumus, tai skaitā:
-a) iestādes tiesības pastāvīgi uzraudzīt pakalpojumu kvalitāti, kā arī to, kā pārstāvis ievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā,
+a) iestādes tiesības pastāvīgi uzraudzīt pakalpojumu kvalitāti, kā arī to, kā pārstāvis ievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā,
 b) iestādes tiesības dot pārstāvim obligāti izpildāmus norādījumus jautājumos, kas saistīti ar pakalpojumu godprātīgu, kvalitatīvu, savlaicīgu un normatīvajiem aktiem atbilstošu sniegšanu,
 c) iestādes tiesības iesniegt pārstāvim motivētu rakstveida pieprasījumu nekavējoties izbeigt pilnvarojuma līgumu, ja tā konstatējusi, ka pārstāvis nepilda pilnvarojuma līgumā noteiktās prasības attiecībā uz pakalpojumu apjomu vai kvalitāti,
-d) pārstāvja pienākumu nodrošināt iestādei iespēju pastāvīgi uzraudzīt pakalpojumu kvalitāti, kā arī to, kā pārstāvis ievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā,
+d) pārstāvja pienākumu nodrošināt iestādei iespēju pastāvīgi uzraudzīt pakalpojumu kvalitāti, kā arī to, kā pārstāvis ievēro normatīvo aktu prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā,
 e) pārstāvja pienākumu nekavējoties izbeigt pilnvarojuma līgumu pēc iestādes motivēta rakstveida pieprasījuma saņemšanas.
 (6) Ar pārstāvja starpniecību sniedzamo pakalpojumu procedūra reglamentē:
 1) iekšējo kārtību, kādā tiek pieņemti lēmumi par pakalpojumu sniegšanas deleģēšanu;
