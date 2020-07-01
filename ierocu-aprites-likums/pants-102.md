@@ -1,0 +1,2 @@
+102. pants. Komercdarbība bez speciālās atļaujas (licences) ieroču aprites jomā
+Par komercdarbību ar ieročiem, munīciju un speciālajiem līdzekļiem, ar šaujamieroču un munīcijas sastāvdaļām (ieskaitot šaujampulveri) bez speciālās atļaujas (licences) piemēro naudas sodu fiziskajai personai vai valdes loceklim no trīssimt līdz četrsimt naudas soda vienībām, atņemot tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku no viena gada līdz pieciem gadiem vai bez tā.
