@@ -1,2 +1,2 @@
 V nodaļa
-Atbildība par likuma pārkāpumiem, zaudējumu atlīdzināšana, uzraudzība un kontrole
+Administratīvie pārkāpumi kokmateriālu un koka izstrādājumu tirdzniecības jomā, koku un apaļo kokmateriālu uzskaites jomā un kompetence administratīvo pārkāpumu procesā
