@@ -1,0 +1,4 @@
+11. pants. Administratīvā atbildība par ģerboņu un atribūtikas ar valsts ģerboni noteikumu pārkāpšanu
+(1) Par Ģerboņu reģistrā nereģistrēta ģerboņa lietošanu, ja to dara publiska persona, piemēro naudas sodu publiskas personas iestādes vadītājam līdz četrpadsmit naudas soda vienībām.
+(2) Par Ģerboņu reģistrā reģistrēta pašvaldības ģerboņa lietošanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajām personām līdz divdesmit naudas soda vienībām, bet publisku personu iestāžu vadītājiem vai juridiskajām personām - līdz trīsdesmit piecām naudas soda vienībām.
+(3) Par likumā paredzētajā kārtībā neapstiprinātas atribūtikas ar valsts ģerboni izgatavošanu saimnieciskās darbības ietvaros piemēro naudas sodu fiziskajām personām līdz divdesmit astoņām naudas soda vienībām, bet juridiskajām personām - līdz piecdesmit sešām naudas soda vienībām.
