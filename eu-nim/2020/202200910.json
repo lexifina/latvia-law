@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Administratīvās atbildības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "225",
+  "official_journal_page": null,
+  "official_journal_date": "2018-11-14",
+  "entry_into_force": "2020-07-01",
+  "notification_date": "2022-02-10",
+  "commission_reference": "MNE(2022)00910",
+  "nim_celex": "72019L1937LVA_202200910",
+  "nim_id": "202200910",
+  "transposes_celex": [
+    "32019L1937"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e02c01de-8b1f-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
