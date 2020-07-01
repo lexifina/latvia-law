@@ -11,7 +11,7 @@ b) vizuāla informācija (uzlīme) ar pagaidu atļaujas piedalīties ceļu satik
 c) dokuments par veikto transportlīdzekļa tehnisko kontroli uz ceļiem,
 d) Ceļu satiksmes drošības direkcijā elektroniski noformēta vienas dienas atļauja piedalīties ceļu satiksmē, lai veiktu tehnisko apskati.
 (1¹) Mopēda vadītājam jābūt klāt šā panta pirmās daļas 1. un 2. punktā minētajiem dokumentiem. Tramvaja, trolejbusa, velosipēda vadītājam, kā arī speciālās militārās tehnikas vadītājam jābūt klāt šā panta pirmās daļas 1.punktā minētajam dokumentam.
-(2) Vadītājam pirms izbraukšanas jāpārbauda, vai transportlīdzeklis ir tehniskā kārtībā un nokomplektēts, tai skaitā ar pirmās palīdzības aptieciņu, kuras saturs atbilst normatīvajiem aktiem par pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim ceļā.
+(2) Vadītājam pirms izbraukšanas jāpārbauda, vai ir veikta transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātā apdrošināšana, vai transportlīdzeklis ir tehniskā kārtībā un nokomplektēts, tai skaitā ar pirmās palīdzības aptieciņu, kuras saturs atbilst normatīvajiem aktiem par pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim ceļā.
 (2¹) Transportlīdzekļa vadītājam ir aizliegts:
 1) lietot tālruni, ja transportlīdzeklis atrodas kustībā, izņemot gadījumus, kad tālruņa aparāts tiek izmantots brīvroku režīmā;
 2) lietot piezīmjdatorus, planšetdatorus un viedierīces, ja transportlīdzeklis atrodas kustībā;

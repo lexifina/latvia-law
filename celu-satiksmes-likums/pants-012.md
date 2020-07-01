@@ -10,5 +10,5 @@
 7) dokuments par loterijā vai citā ceļā legāli laimētu transportlīdzekli;
 8) dokuments par Latvijā izgatavota vai pārbūvēta transportlīdzekļa leģitimāciju;
 9) arhīva izziņa un citi īpašuma tiesības apliecinoši dokumenti.
-(3) Visos šajos dokumentos jābūt norādītam: īpašnieka vārdam un uzvārdam (juridiskās personas nosaukumam), adresei un transportlīdzekļa tehniskajiem uzskaites datiem (reģistrācijas numurs, marka, modelis, agregātu numuri, reģistrācijas apliecības numurs) apjomā, kas dod iespēju identificēt konkrēto transportlīdzekli.
+(3) Visos šajos dokumentos jābūt norādītiem transportlīdzekļa īpašnieka datiem un transportlīdzekļa tehniskajiem uzskaites datiem (marka, modelis, agregātu numuri u. c.) tādā apjomā, kas dod iespēju identificēt konkrēto transportlīdzekļa īpašnieku un transportlīdzekli.
 (4) (Izslēgta ar 23.11.2016. likumu)

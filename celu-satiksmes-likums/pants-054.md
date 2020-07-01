@@ -1,0 +1,9 @@
+54. pants. Transportlīdzekļu izkārtojuma uz brauktuves noteikumu pārkāpšana
+(1) Par iebraukšanu pretējā virziena joslā uz ceļa, kur ceļu satiksme notiek divos virzienos un ir četras vai vairāk braukšanas joslas, piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(2) Par iebraukšanu vidējā joslā, kas izmantojama braukšanai abos virzienos, ja iebraukšana nav saistīta ar apdzīšanu, apbraukšanu, nogriešanos pa kreisi vai apgriešanos braukšanai pretējā virzienā, uz ceļa, kur ceļu satiksme notiek divos virzienos un ir trīs ar ceļa apzīmējumiem apzīmētas braukšanas joslas, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+(3) Par braukšanu pa joslu, kas no abām pusēm apzīmēta ar 927. ceļa apzīmējumu, ja tas ir aizliegts, piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(4) Par braukšanu pa kreiso malējo joslu vai tā paša virziena tramvaja sliežu ceļa klātni gadījumos, kad tas nav atļauts, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+(5) Par braukšanu pa pretējā virziena tramvaja sliežu ceļa klātni piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(6) Par braukšanu pa joslu, kas paredzēta pasažieru sabiedriskajiem transportlīdzekļiem, piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(7) Par nebraukšanu pa apzīmētu joslu (par braukšanu starp joslām) piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+(8) Par braukšanu pa ietvēm, gājēju ceļiem, velosipēdu ceļiem vai citām vietām (sadalošām joslām, ceļa nomalēm, apstādījumiem u. tml.), kas nav paredzētas transportlīdzekļu braukšanai, piemēro naudas sodu transportlīdzekļa vadītājam vienpadsmit naudas soda vienību apmērā.

@@ -1,3 +1,2 @@
 VII nodaļa
-Administratīvās atbildības īpatnības ceļu satiksmes drošību
-reglamentējošo normatīvo aktu pārkāpšanas gadījumos
+Ceļu satiksmes drošību reglamentējošo normatīvo aktu pārkāpumi

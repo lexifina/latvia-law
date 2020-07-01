@@ -1,0 +1,5 @@
+73. pants. Transportlīdzekļu pazīšanas zīmju, brīdināšanas ierīču un apzīmējumu lietošanas noteikumu pārkāpšana
+(1) Par braukšanu ar transportlīdzekli, kuram ir netīras pazīšanas zīmes, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam divu naudas soda vienību apmērā.
+(2) Par braukšanu ar transportlīdzekli, kuram piestiprināta jebkāda cita informācija vai zīmes, kurās izmantotas ar valsts standartu noteiktās ceļa zīmju formas, krāsu kombinācijas un simbolika un kuras var maldināt citus ceļu satiksmes dalībniekus, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+(3) Par braukšanu ar transportlīdzekli, kuram nav uzstādīta noteiktā pazīšanas zīme (zīmes) vai ir uzstādīta neatļauta pazīšanas zīme, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+(4) Par braukšanu ar transportlīdzekli, kuram neatļauti uzstādīta invalīdu stāvvietu izmantošanas karte, piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.

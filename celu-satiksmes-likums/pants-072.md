@@ -1,0 +1,10 @@
+72. pants. Transportlīdzekļu reģistrācijas un numura zīmju lietošanas noteikumu pārkāpšana
+(1) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē, kurš nav reģistrēts noteiktajā kārtībā, piemēro naudas sodu no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
+(2) Par braukšanu ar transportlīdzekli, kuram nav kādas no noteiktajām numura zīmēm, piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
+(3) Par braukšanu ar transportlīdzekli, kuram nav nevienas no noteiktajām numura zīmēm, piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(4) Par braukšanu ar transportlīdzekli, kura numura zīmes neatbilst attiecīgā transportlīdzekļa reģistrācijas dokumentiem, piemēro naudas sodu transportlīdzekļa vadītājam no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
+(5) Par braukšanu ar transportlīdzekli, kuram kaut viena numura zīme nav piestiprināta tai paredzētajā vietā, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam divu naudas soda vienību apmērā.
+(6) Par braukšanu ar transportlīdzekli, kura numura zīme neatbilst valsts standartam, ir pilnībā vai daļēji izmainīta, aizsegta, pārklāta ar aizsargmateriāliem, mehāniski bojāta, locīta vai apslēpta citā veidā, piemēro naudas sodu transportlīdzekļa vadītājam no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
+(7) Par braukšanu ar tramvaju vai trolejbusu, uz kura nav uzkrāsoti reģistrācijas numuri, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam divu naudas soda vienību apmērā.
+(8) Par norīkojuma došanu lietot transportlīdzekli, kas nav reģistrēts noteiktajā kārtībā, piemēro naudas sodu personai, kas atbildīga par transportlīdzekļu ekspluatāciju, no četrpadsmit līdz divdesmit astoņām naudas soda vienībām.
+(9) Par ārvalstī reģistrēta M1 un N1 kategorijas automobiļa izmantošanu ceļu satiksmē Latvijā, ja tā vadītājs - persona, kuras deklarētā dzīvesvieta ir Latvijā, - nav samaksājis noteiktā kārtībā un apjomā transportlīdzekļa ekspluatācijas nodokli, piemēro naudas sodu transportlīdzekļa vadītājam no trīsdesmit līdz astoņdesmit naudas soda vienībām.

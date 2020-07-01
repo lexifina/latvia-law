@@ -1,0 +1,4 @@
+75. pants. Aizlieguma ceļa zīmju prasību pārkāpšana
+(1) Par tās prasības neizpildīšanu, kura noteikta ar 302., 303., 304., 306., 307., 308., 310., 311., 312., 313., 314., 315., 316., 317., 318., 331., 332., 333. vai 334. ceļa zīmi, piemēro naudas sodu velosipēda vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - sešu naudas soda vienību apmērā.
+(2) Par tās prasības neizpildīšanu, kura noteikta ar 301., 319. vai 321. ceļa zīmi, piemēro naudas sodu velosipēda vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - vienpadsmit naudas soda vienību apmērā.
+(3) Par tās prasības neizpildīšanu, kura noteikta ar 305. vai 309. ceļa zīmi, piemēro brīdinājumu vai naudas sodu velosipēda vadītājam vai gājējam divu naudas soda vienību apmērā.
