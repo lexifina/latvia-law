@@ -15,7 +15,7 @@
 1) regulators ir saņēmis sabiedrisko pakalpojumu sniedzēja paziņojumu par sabiedrisko pakalpojumu sniegšanas pārtraukšanu;
 2) sabiedrisko pakalpojumu sniedzēja darbība ir apturēta;
 3) sabiedrisko pakalpojumu sniedzējs ir izslēgts no komercreģistra;
-4) sabiedrisko pakalpojumu sniedzējs saskaņā ar Latvijas Administratīvo pārkāpumu kodeksu ir sodīts par vispārējās atļaujas noteikumu pārkāpumu un atkārtoti pārkāpis vispārējās atļaujas noteikumus;
+4) (izslēgts no 01.07.2020. ar 30.01.2020. likumu. Sk. Pārejas noteikumu 28. punktu);
 4¹) sabiedrisko pakalpojumu sniedzēja darbība ir izbeigta, pamatojoties uz tiesas nolēmumu vai nodokļu administrācijas vai komercreģistra iestādes lēmumu;
 5) citos regulējamo nozaru speciālajos normatīvajos aktos minētajos gadījumos.
 (8) Ja sabiedrisko pakalpojumu sniedzējs ir izslēgts no reģistra saskaņā ar šā panta septītās daļas 4.punktu, tam ir tiesības atsākt sabiedrisko pakalpojumu sniegšanu ne agrāk kā pēc viena gada no izslēgšanas dienas, ja tas ir novērsis pārkāpumu, par kuru tika izslēgts no reģistra, normatīvajos aktos noteiktajā kārtībā nosūtījis regulatoram jaunu reģistrācijas paziņojumu un šajā likumā noteiktajā kārtībā atkārtoti reģistrēts.
