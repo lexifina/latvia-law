@@ -1,0 +1,2 @@
+34. pants. Nodarbināto nenodrošināšana ar darbam nepieciešamajiem individuālajiem aizsardzības līdzekļiem
+Par nodarbināto nenodrošināšanu ar darbam nepieciešamajiem individuālajiem aizsardzības līdzekļiem, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām.

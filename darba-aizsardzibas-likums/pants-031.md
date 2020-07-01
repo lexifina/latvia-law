@@ -1,0 +1,2 @@
+31. pants. Darbā notikuša nelaimes gadījuma neizmeklēšana
+Par darbā notikuša nelaimes gadījuma neizmeklēšanu atbilstoši normatīvo aktu prasībām vai slēpšanu piemēro brīdinājumu vai naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no divdesmit astoņām līdz simt naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.

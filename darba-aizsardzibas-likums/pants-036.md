@@ -1,0 +1,2 @@
+36. pants. Nodarbināto neinstruēšana vai apmācības neveikšana jautājumos par nodarbinātā drošību un veselību darbā
+Par nodarbināto neinstruēšanu vai apmācības neveikšanu jautājumos par nodarbinātā drošību un veselību darbā, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām.

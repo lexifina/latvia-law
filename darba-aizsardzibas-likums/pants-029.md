@@ -1,0 +1,2 @@
+29. pants. Darba vides riska novērtējuma neveikšana vai darba aizsardzības pasākumu plāna neizstrādāšana
+Par darba vides riska novērtējuma neveikšanu vai darba aizsardzības pasākumu plāna neizstrādāšanu vai tā neatbilstību darba aizsardzību regulējošo normatīvo aktu prasībām piemēro brīdinājumu vai naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no divdesmit astoņām līdz divsimt divdesmit naudas soda vienībām.

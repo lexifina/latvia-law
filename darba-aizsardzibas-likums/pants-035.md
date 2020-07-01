@@ -1,0 +1,2 @@
+35. pants. Neatbilstoša darba aprīkojuma lietošana vai drošības prasību neievērošana
+Par darba aizsardzību regulējošo normatīvo aktu prasībām neatbilstoša darba aprīkojuma lietošanu vai drošības prasību neievērošanu, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām.

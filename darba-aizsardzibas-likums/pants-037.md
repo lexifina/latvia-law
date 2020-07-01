@@ -1,0 +1,2 @@
+37. pants. Citu darba aizsardzību regulējošo normatīvo aktu pārkāpšana, kas rada tiešus draudus nodarbināto drošībai un veselībai
+Par tādu darba aizsardzību regulējošo normatīvo aktu pārkāpšanu, kuri rada tiešus draudus nodarbināto drošībai un veselībai, izņemot šā likuma 33., 34., 35. un 36. pantā minētos pārkāpumus, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no simt līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām.
