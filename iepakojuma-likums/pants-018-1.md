@@ -1,0 +1,1 @@
+18.¹ pants. Depozīta iepakotājam, kura radītā izlietotā dzērienu depozīta iepakojuma apjoms kalendārā gada laikā ir 150 kilogrami vai vairāk, ir pienākums apsaimniekot izlietoto dzērienu depozīta iepakojumu visā Latvijas teritorijā, slēdzot līgumu ar depozīta sistēmas operatoru par dalību sistēmā.

@@ -1,0 +1,3 @@
+18.⁹ pants. (1) Ja pašvaldības teritorijā nav depozīta iepakojuma pārdevēja, kuram ir pienākums pieņemt no galalietotāja izlietoto dzērienu depozīta iepakojumu, vai šādu tirdzniecības vietu skaits neatbilst minimālajām prasībām attiecībā uz depozīta iepakojuma pieņemšanas vietu teritoriālo pārklājumu, lēmumu par depozīta iepakojuma pieņemšanas vietu pieņem pašvaldība.
+(2) Privātpersonai, kura noslēgusi šā panta pirmajā daļā minēto līgumu un pieņem depozīta iepakojumu no galalietotāja, ir pienākums slēgt līgumu ar depozīta sistēmas operatoru.
+(3) Depozīta sistēmas operators šā panta otrajā daļā minētajai personai samaksā depozīta maksu par savākto izlietoto dzērienu depozīta iepakojumu un depozīta iepakojuma apsaimniekošanas maksu.

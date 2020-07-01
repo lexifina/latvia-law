@@ -1,15 +1,15 @@
 1.pants. Likumā ir lietoti šādi termini:
 1) atkārtoti lietojamais iepakojums - iepakojums, kuru var izmantot atkārtoti tā sākotnējam uzdevumam;
 1¹) iepakojuma apsaimniekotājs - komercsabiedrība, kas, pamatojoties uz noslēgto līgumu ar iepakotāju, organizē un koordinē izlietotā iepakojuma apsaimniekošanu;
-1²) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1³) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁴) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁵) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁶) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁷) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁸) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1⁹) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
-1¹⁰) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 6. punktu);
+1²) depozīta iepakojums - atkārtoti vai vienreiz lietojamais dzērienu iepakojums, kuram piemēro depozīta sistēmu saskaņā ar vides aizsardzības normatīvajiem aktiem;
+1³) izlietotais dzērienu depozīta iepakojums - atkārtoti vai vienreiz lietojamais dzērienu iepakojums, kuram piemēro depozīta sistēmu;
+1⁴) depozīta iepakotājs - pakalpojuma sniedzējs, preces ražotājs vai izplatītājs, kas Latvijā laiž tirgū dzērienus depozīta iepakojumā;
+1⁵) depozīta iepakojuma pārdevējs - persona, kura piedāvā vai pārdod dzērienus depozīta iepakojumā galalietotājiem;
+1⁶) depozīta sistēma - izlietotā dzērienu depozīta iepakojuma pieņemšana no galalietotāja, šķirošana, pārvadāšana, uzglabāšana, pārstrāde vai sagatavošana atkārtotai izmantošanai atbilstoši tā sākotnējam uzdevumam, kā arī minēto darbību plānošana un organizēšana;
+1⁷) depozīta sistēmas operators - komersants, kura dibinātāji un dalībnieki ir depozīta iepakotāji un biedrības, kuru biedri ir depozīta iepakotāji, un kurš, pamatojoties uz līgumu ar Valsts vides dienestu, nodrošina depozīta sistēmas darbību visā Latvijas teritorijā atbilstoši normatīvo aktu prasībām;
+1⁸) depozīta maksa - maksa, kuru galalietotājs samaksā par depozīta iepakojumu dzērienu iegādes brīdī;
+1⁹) depozīta iepakojuma apsaimniekošanas maksa - maksa, kas sedz attiecināmos izdevumus par depozīta iepakojuma pieņemšanu, šķirošanu, uzglabāšanu, uzskaiti un depozīta iepakojuma pieņemšanas vietas uzturēšanu;
+1¹⁰) depozīta sistēmas dalības maksa - maksa, kuru depozīta sistēmas operatoram maksā depozīta iepakotājs par dalību depozīta sistēmā;
 2) (izslēgts ar 21.04.2005. likumu);
 3) iepakotājs - preces ražotājs, pakalpojuma sniedzējs, pārdevējs vai izplatītājs, kas Latvijā laiž tirgū iepakotu preci vai pievieno iepakojumu izstrādājumiem, kuri pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
 4) izlietotais iepakojums - iepakojums vai iepakojuma materiāls (izņemot ražošanas atlikumus), uz kuru attiecas Atkritumu apsaimniekošanas likumā minētā atkritumu definīcija;

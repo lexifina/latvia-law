@@ -1,0 +1,3 @@
+18.⁷ pants. (1) Depozīta iepakotājs maksā depozīta sistēmas operatoram depozīta sistēmas dalības maksu, kas tiek izmantota operatora darbības nodrošināšanai.
+(2) Depozīta sistēmas dalības maksas noteikšanas metodiku, kā arī šīs maksas noteikšanai iesniedzamo informāciju, dokumentus un to iesniegšanas kārtību nosaka Sabiedrisko pakalpojumu regulēšanas komisija (turpmāk - regulators).
+(3) Depozīta sistēmas operatora aprēķinātās depozīta sistēmas dalības maksas projekta izskatīšana, lēmuma pieņemšana un paziņošana notiek likuma "Par sabiedrisko pakalpojumu regulatoriem" IV nodaļā noteiktajā kārtībā.

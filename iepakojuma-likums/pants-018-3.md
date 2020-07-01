@@ -1,0 +1,1 @@
+18.³ pants. Depozīta iepakotājs ir atbildīgs par to, lai uz depozīta iepakojuma vai etiķetes būtu izvietotas speciālās norādes par depozīta sistēmas piemērošanu. Ministru kabinets nosaka depozīta iepakojuma speciālās norādes paraugu un lietošanas nosacījumus.
