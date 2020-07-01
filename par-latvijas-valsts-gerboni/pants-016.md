@@ -1,0 +1,2 @@
+16. pants. (1) Atbildību par valsts ģerboņa zaimošanu vai klajas necieņas izrādīšanu valsts ģerbonim piemēro neatkarīgi no tā, pret kādā vizuāli uztveramā veidā izpildītu ģerboni zaimošana vērsta vai necieņa izrādīta.
+(2) Par valsts ģerboņa lietošanas noteikumu pārkāpšanu uzskatāmas arī atkāpes no normatīvajos aktos noteiktā Latvijas valsts ģerboņa apraksta un pamatā - nesakritība ar šā likuma 1. vai 3. pielikuma attēliem, izņemot gadījumus, kad šādas atkāpes saskaņotas ar Valsts heraldikas komisiju.
