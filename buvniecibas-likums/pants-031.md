@@ -1,0 +1,2 @@
+31. pants. Administratīvā atbildība par tehnisko noteikumu, atļauju, saskaņojumu vai atteikumu neizdošanu normatīvajos aktos noteiktajos termiņos vai noteiktajā veidā
+Par tehnisko noteikumu, atļauju, saskaņojumu (tai skaitā atzinumu) vai atteikumu neizdošanu normatīvajos aktos noteiktajos termiņos vai noteiktajā veidā piemēro brīdinājumu vai naudas sodu juridiskajai personai līdz trīssimt naudas soda vienībām.

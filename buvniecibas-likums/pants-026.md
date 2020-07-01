@@ -1,0 +1,2 @@
+26. pants. Administratīvā atbildība par normatīvajos aktos noteikto būves konservācijas vai norobežošanas prasību neievērošanu
+Par būves konservācijas vai norobežošanas neveikšanu, veikšanu bez normatīvajos aktos noteiktās dokumentācijas vai ar atkāpēm no tās piemēro naudas sodu fiziskajai personai no piecdesmit līdz simt naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
