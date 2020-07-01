@@ -1,1 +1,2 @@
 28.² pants. Informācijas nesniegšana darbiniekiem vai viņu pārstāvjiem
+Par informācijas nesniegšanu darbiniekiem vai viņu pārstāvjiem par Eiropas Savienības mēroga komercsabiedrības vai Eiropas Savienības mēroga komercsabiedrību grupas struktūru, darbiniekiem, to skaitu un izvietojumu dalībvalstīs Eiropas Savienības mēroga komercsabiedrībā vai Eiropas Savienības mēroga komercsabiedrību grupā piemēro naudas sodu darba devējam līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

@@ -1,1 +1,2 @@
 28.³ pants. Eiropas Darbinieku padomes vai speciālās sarunu grupas izveidošanas vai darbības izdevumu nesegšana Eiropas Savienības mēroga komercsabiedrībā vai Eiropas Savienības mēroga komercsabiedrību grupā
+Par Eiropas Darbinieku padomes vai speciālās sarunu grupas izveidošanas vai darbības izdevumu nesegšanu Eiropas Savienības mēroga komercsabiedrībā vai Eiropas Savienības mēroga komercsabiedrību grupā piemēro naudas sodu darba devējam līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

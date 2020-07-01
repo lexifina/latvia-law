@@ -1,1 +1,2 @@
 28.¹ pants. Tādas konfidenciālas informācijas atklāšana trešām personām, kura iegūta, darbojoties Eiropas Darbinieku padomē, speciālajā sarunu grupā vai citas darbinieku informēšanas un konsultēšanās kārtības ietvaros
+Par tādas konfidenciālas informācijas atklāšanu trešām personām, kura iegūta, darbojoties Eiropas Darbinieku padomē, speciālajā sarunu grupā vai citas darbinieku informēšanas un konsultēšanās kārtības ietvaros, piemēro naudas sodu no divdesmit astoņām līdz septiņdesmit naudas soda vienībām.
