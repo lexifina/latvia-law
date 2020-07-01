@@ -1,0 +1,1 @@
+82. pants. Par zāļu izplatīšanu personai, kura nav tiesīga šīs zāles iegādāties, piemēro naudas sodu fiziskajai personai no divdesmit līdz septiņdesmit piecām naudas soda vienībām, bet juridiskajai personai - no divsimt līdz septiņsimt piecdesmit naudas soda vienībām.

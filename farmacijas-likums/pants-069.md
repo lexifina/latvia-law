@@ -1,0 +1,1 @@
+69. pants. Par zāļu iegādes, uzglabāšanas, izlietošanas, uzskaites vai iznīcināšanas kārtības pārkāpšanu ārstniecības iestādēs un sociālās aprūpes institūcijās piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz desmit naudas soda vienībām, bet juridiskajai personai - no divdesmit līdz simt naudas soda vienībām.

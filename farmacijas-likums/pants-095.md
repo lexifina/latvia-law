@@ -1,0 +1,3 @@
+95. pants. (1) Par neatbilstošas kvalitātes vai efektivitātes izejvielu izmantošanu veterināro zāļu izgatavošanā vai ražošanā piemēro naudas sodu juridiskajai personai no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
+(2) Par veterināro zāļu vai aktīvo vielu ražošanu bez veterināro zāļu labas ražošanas prakses sertifikāta piemēro naudas sodu juridiskajai personai no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
+(3) Par veterināro zāļu vai aktīvo vielu ražošanu, ja kvalificētās personas pienākumus veic persona, kuras kvalifikācija vai profesionālā pieredze neatbilst normatīvo aktu prasībām, piemēro naudas sodu juridiskajai personai no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

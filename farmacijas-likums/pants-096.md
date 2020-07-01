@@ -1,0 +1,1 @@
+96. pants. Par tādu darbību veikšanu, kurām nepieciešama speciālā atļauja (licence), bez šādas speciālās atļaujas (licences) piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no divsimt astoņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

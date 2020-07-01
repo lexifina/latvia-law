@@ -1,0 +1,1 @@
+75. pants. Par zāļu izplatīšanas noteikumu pārkāpšanu ar tīmekļa starpniecību piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz trīsdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz trīssimt naudas soda vienībām.

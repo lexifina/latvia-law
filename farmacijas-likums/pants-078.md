@@ -1,0 +1,2 @@
+78. pants. (1) Par zāļu marķēšanas noteikumu pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no desmit līdz septiņdesmit piecām naudas soda vienībām, bet juridiskajai personai - no simt līdz septiņsimt piecdesmit naudas soda vienībām.
+(2) Par zāļu izplatīšanu bez lietošanas instrukcijas vai ar tādu lietošanas instrukciju, kas neatbilst normatīvo aktu prasībām, piemēro naudas sodu fiziskajai personai no desmit līdz septiņdesmit piecām naudas soda vienībām, bet juridiskajai personai - no simt līdz septiņsimt piecdesmit naudas soda vienībām.

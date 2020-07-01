@@ -1,0 +1,1 @@
+87. pants. Par Latvijas Republikā neatļautu zāļu vai neatļautu aktīvo vielu izplatīšanu piemēro naudas sodu fiziskajai personai no trīsdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no trīssimt līdz divtūkstoš naudas soda vienībām.

@@ -1,0 +1,1 @@
+86. pants. Par tādu zāļu vai aktīvo vielu izplatīšanu, kurām beidzies derīguma termiņš vai kuru kvalitāte neatbilst apstiprinātās tehnisko normatīvu dokumentācijas prasībām, piemēro naudas sodu fiziskajai personai no piecdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no piecsimt līdz tūkstoš astoņsimt naudas soda vienībām.

@@ -1,0 +1,1 @@
+74. pants. Par tādu nereģistrētu zāļu izplatīšanas noteikumu pārkāpšanu, kuru izplatīšanai saņemta Zāļu valsts aģentūras atļauja, piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz divdesmit piecām naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz divsimt piecdesmit naudas soda vienībām.

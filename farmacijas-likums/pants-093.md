@@ -1,0 +1,2 @@
+93. pants. (1) Administratīvā pārkāpuma procesu par šā likuma 69., 70., 71., 72., 73., 74., 75., 76., 77., 78., 79., 80., 81., 82., 83., 84., 85., 86., 87., 88., 89., 90., 91. un 92. pantā minētajiem pārkāpumiem veic Veselības inspekcija.
+(2) Administratīvā pārkāpuma procesu par šā likuma 76., 79., 87. pantā, 89. panta trešajā daļā un 91. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai ir tiesīgs veikt arī Valsts ieņēmumu dienests.

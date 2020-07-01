@@ -1,0 +1,1 @@
+91. pants. Par viltotu zāļu vai viltotu aktīvo vielu importēšanu, eksportēšanu vai izplatīšanu piemēro naudas sodu fiziskajai personai no piecdesmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no piecsimt līdz četrtūkstoš naudas soda vienībām.

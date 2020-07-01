@@ -1,0 +1,1 @@
+81. pants. Par zāļu cenu veidošanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai no desmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no simt līdz septiņsimt naudas soda vienībām.

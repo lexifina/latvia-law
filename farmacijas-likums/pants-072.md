@@ -1,0 +1,1 @@
+72. pants. Par aptiekā un aptiekas filiālē noteikto darba organizācijas vai farmaceitiskās aprūpes noteikumu pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no desmit līdz divdesmit naudas soda vienībām, bet juridiskajai personai - no simt līdz divsimt naudas soda vienībām.

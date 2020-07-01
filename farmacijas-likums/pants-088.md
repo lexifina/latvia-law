@@ -1,0 +1,1 @@
+88. pants. Par zāļu drošuma pazīmju pārbaudes neveikšanu vai attiecībā uz zāļu verifikācijas sistēmas noteikto pienākumu nepildīšanu piemēro naudas sodu fiziskajai personai no trīsdesmit līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - no trīssimt līdz divtūkstoš astoņsimt naudas soda vienībām.

@@ -1,0 +1,1 @@
+92. pants. Par viltotu zāļu vai viltotu aktīvo vielu ražošanu vai izgatavošanu piemēro naudas sodu fiziskajai personai no trīssimt līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no trīstūkstoš līdz četrtūkstoš naudas soda vienībām.

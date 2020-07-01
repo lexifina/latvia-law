@@ -1,0 +1,1 @@
+73. pants. Par ārstniecības iestādēm noteiktās zāļu bezmaksas paraugu nodošanas kārtības pārkāpšanu vai zāļu dāvinājuma prasību neizpildi piemēro brīdinājumu vai naudas sodu fiziskajai personai no desmit līdz divdesmit piecām naudas soda vienībām, bet juridiskajai personai - no simt līdz divsimt piecdesmit naudas soda vienībām.

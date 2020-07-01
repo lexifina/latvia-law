@@ -1,0 +1,1 @@
+76. pants. Par zāļu vai aktīvo vielu importēšanas un eksportēšanas noteikumu pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz trīsdesmit piecām naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz trīssimt piecdesmit naudas soda vienībām.

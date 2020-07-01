@@ -1,0 +1,2 @@
+97. pants. (1) Par viltotu veterināro zāļu vai viltotu aktīvo vielu izplatīšanu piemēro naudas sodu fiziskajai personai no četrdesmit līdz trīssimt naudas soda vienībām, bet juridiskajai personai - no četrsimt līdz trīstūkstoš naudas soda vienībām.
+(2) Par viltotu veterināro zāļu vai viltotu aktīvo vielu ražošanu vai izgatavošanu piemēro naudas sodu fiziskajai personai no simt līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no tūkstoš līdz četrtūkstoš naudas soda vienībām.

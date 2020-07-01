@@ -1,0 +1,1 @@
+85. pants. Par farmaceitiskās darbības veikšanu bez normatīvajos aktos noteiktās kvalificētās personas līdzdalības piemēro naudas sodu fiziskajai personai no piecdesmit līdz simt naudas soda vienībām, bet juridiskajai personai - no piecsimt līdz tūkstoš naudas soda vienībām.

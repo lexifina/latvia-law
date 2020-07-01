@@ -1,0 +1,1 @@
+79. pants. Par zāļu paralēlās importēšanas prasību vai zāļu paralēlās izplatīšanas kārtības pārkāpšanu piemēro naudas sodu fiziskajai personai no piecām līdz piecdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz piecsimt naudas soda vienībām.

@@ -1,0 +1,1 @@
+77. pants. Par zāļu klīniskās izpētes un lietošanas novērojumu veikšanas kārtības vai pētāmo zāļu marķēšanas kārtības pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz četrdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz četrsimt naudas soda vienībām.

@@ -1,0 +1,1 @@
+70. pants. Par aptiekā izgatavotu zāļu kvalitātes kontroles kārtības pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz piecpadsmit naudas soda vienībām, bet juridiskajai personai - no divdesmit līdz simt piecdesmit naudas soda vienībām.

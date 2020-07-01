@@ -1,0 +1,3 @@
+89. pants. (1) Par atteikumu aptiekai piegādāt zāles, ja šīs zāles ir atrodamas zāļu lieltirgotavas krājumos, piemēro naudas sodu juridiskajai personai no tūkstoš līdz četrtūkstoš naudas soda vienībām.
+(2) Par zāļu piegādes pieprasījuma neiesniegšanu zāļu lieltirgotavai, kuras krājumos saskaņā ar publiski pieejamo informāciju šīs zāles bija attiecīgajā brīdī, piemēro naudas sodu juridiskajai personai no tūkstoš līdz četrtūkstoš naudas soda vienībām.
+(3) Par zāļu eksporta vai zāļu izvešanas aizlieguma pārkāpšanu piemēro naudas sodu fiziskajai personai no divsimt piecdesmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no divtūkstoš piecsimt līdz četrtūkstoš naudas soda vienībām.

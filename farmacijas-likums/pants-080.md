@@ -1,0 +1,2 @@
+80. pants. (1) Par zāļu kvalitātes kontroles kārtības pārkāpšanu zāļu lieltirgotavā piemēro naudas sodu fiziskajai personai no piecām līdz sešdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz sešsimt naudas soda vienībām.
+(2) Par zāļu kvalitātes kontroles kārtības pārkāpšanu zāļu ražošanā piemēro naudas sodu fiziskajai personai no piecām līdz sešdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz sešsimt naudas soda vienībām.

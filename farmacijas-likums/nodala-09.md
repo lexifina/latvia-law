@@ -1,2 +1,2 @@
 IX nodaļa
-Atbildība par farmācijas likuma neievērošanu, lēmumu pieņemšana un kontrole
+Lēmumu pieņemšana, apstrīdēšana un pārsūdzēšana

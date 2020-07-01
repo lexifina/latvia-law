@@ -1,0 +1,1 @@
+83. pants. Par zāļu neatsaukšanu no tirgus normatīvajos aktos noteiktajos gadījumos vai zāļu atsaukšanas kārtības pārkāpšanu piemēro naudas sodu fiziskajai personai no desmit līdz astoņdesmit naudas soda vienībām, bet juridiskajai personai - no simt līdz astoņsimt naudas soda vienībām.

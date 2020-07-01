@@ -1,0 +1,1 @@
+84. pants. Par farmakovigilances noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai no desmit līdz deviņdesmit naudas soda vienībām, bet juridiskajai personai - no simt līdz deviņsimt naudas soda vienībām.
