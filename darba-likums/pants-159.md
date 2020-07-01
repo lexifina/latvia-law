@@ -1,0 +1,2 @@
+159. pants. Valsts noteiktās minimālās mēneša darba algas nenodrošināšana
+Par valsts noteiktās minimālās mēneša darba algas nenodrošināšanu, ja persona nodarbināta normālo darba laiku, vai minimālās stundas tarifa likmes nenodrošināšanu piemēro naudas sodu darba devējam - fiziskajai personai - no astoņdesmit sešām līdz simt četrpadsmit naudas soda vienībām, bet juridiskajai personai - no simt septiņdesmit līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

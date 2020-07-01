@@ -1,0 +1,2 @@
+160. pants. Atteikšanās no sarunām par darba koplīguma slēgšanu
+Par darba devēja, darba devēju organizācijas vai darba devēju organizāciju apvienības atteikšanos no sarunām par darba koplīguma (ģenerālvienošanās) slēgšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no desmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz simt četrdesmit naudas soda vienībām.

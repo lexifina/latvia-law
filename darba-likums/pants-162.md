@@ -1,0 +1,2 @@
+162. pants. Citu darba tiesiskās attiecības regulējošu normatīvo aktu pārkāpšana
+Par darba tiesiskās attiecības regulējošu normatīvo aktu pārkāpšanu, izņemot gadījumus, kuri noteikti šā likuma 158., 159., 160. un 161. pantā, piemēro brīdinājumu vai naudas sodu darba devējam - fiziskajai personai - no septiņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divsimt divdesmit naudas soda vienībām.
