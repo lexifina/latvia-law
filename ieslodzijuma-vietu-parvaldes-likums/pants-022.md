@@ -9,7 +9,7 @@
 7) Ministru kabineta noteiktajā kārtībā nēsāt un glabāt šaujamieroci, kas amatpersonai izsniegts lietošanai dienesta vajadzībām;
 8) nodrošināt ieslodzīto pārvešanu uz ārstniecības iestādi ārpus ieslodzījuma vietas veselības aprūpes pakalpojumu saņemšanai un ieslodzīto apsardzi šādu pakalpojumu saņemšanas laikā;
 9) atbilstoši kompetencei apstrādāt personas datus valsts informācijas sistēmās apcietinājuma kā drošības līdzekļa un brīvības atņemšanas kā kriminālsoda izpildei;
-10) (punkts stājas spēkā 01.07.2020. un iekļauts likuma redakcijā uz 01.07.2020. Sk. Pārejas noteikumu 3. punktu)
+10) aizturēt personu, kura izdara vai par kuru pastāv aizdomas, ka tā izdarījusi administratīvo pārkāpumu, un izraidīt šādu personu no ieslodzījuma vietas teritorijas.
 (2) (Izslēgta ar 15.06.2006. likumu)
 (3) (Izslēgta ar 17.12.2014. likumu)
 (4) Amatpersonai ir aizliegts organizēt streikus un piedalīties tajos.
