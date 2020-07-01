@@ -1,1 +1,2 @@
 31. pants. Informācijas nesniegšana darbiniekiem vai viņu pārstāvjiem
+Par informācijas nesniegšanu darbiniekiem vai viņu pārstāvjiem par dibinātājas sabiedrības vai reorganizējamās sabiedrības dibināšanas līguma projekta vai reorganizācijas līguma projekta noteikumiem un to īstenošanas gaitu, par visām dibinātājām sabiedrībām vai reorganizējamām sabiedrībām un šo sabiedrību darbinieku skaitu, kā arī veicamajiem pasākumiem attiecībā uz darbinieku iesaistīšanu lēmumu pieņemšanā piemēro naudas sodu darba devējam līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

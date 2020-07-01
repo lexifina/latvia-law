@@ -1,1 +1,2 @@
 34. pants. Pārstāvības komitejas neinformēšana par īpašiem apstākļiem, kas būtiski skar darbinieku intereses Eiropas komercsabiedrībā vai Eiropas kooperatīvajā sabiedrībā
+Par pārstāvības komitejas neinformēšanu par īpašiem apstākļiem, kas būtiski skar darbinieku intereses Eiropas komercsabiedrībā vai Eiropas kooperatīvajā sabiedrībā, piemēro naudas sodu darba devējam līdz tūkstoš četrsimt divdesmit naudas soda vienībām.

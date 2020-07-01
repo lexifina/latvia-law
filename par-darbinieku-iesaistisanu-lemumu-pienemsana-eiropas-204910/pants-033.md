@@ -1,1 +1,2 @@
 33. pants. Pārskata nesniegšana pārstāvības komitejai par Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības darbību un turpmāko attīstību
+Par pārskata nesniegšanu vismaz reizi gadā pārstāvības komitejai par Eiropas komercsabiedrības vai Eiropas kooperatīvās sabiedrības darbību un turpmāko attīstību piemēro naudas sodu darba devējam līdz tūkstoš četrsimt divdesmit naudas soda vienībām.
