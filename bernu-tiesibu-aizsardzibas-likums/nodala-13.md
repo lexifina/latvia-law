@@ -1,1 +1,1 @@
-XIII nodaļa. Administratīvā atbildība bērnu tiesību aizsardzības jomā un kompetence sodu piemērošanā
+XIII nodaļa. Administratīvie pārkāpumi bērnu tiesību aizsardzības jomā un kompetence administratīvo pārkāpumu procesā
