@@ -1,4 +1,4 @@
-113.² pants. Militārā lidlauka darbības drošībai potenciāli bīstamu objektu būvniecības, ierīkošanas, izvietošanas un apzīmēšanas kārtība
+113.² pants. Militārā lidlauka darbības drošībai potenciāli bīstamu objektu būvēšanas, ierīkošanas, izvietošanas un apzīmēšanas kārtība
 Papildus citu normatīvo aktu prasību izpildei saņemama Aizsardzības ministrijas atļauja būvēt, ierīkot un izvietot tādus militārā lidlauka darbības drošībai potenciāli bīstamus objektus:
 1) kuri ir sprādzienbīstami un kuri ir redzamo lāzerstaru izstarotāji, - piecu kilometru attālumā no skrejceļa tuvākā sliekšņa;
 2) kuri var radīt traucējumus militārā lidlauka darbības nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā, - piecu kilometru attālumā no skrejceļa tuvākā sliekšņa;

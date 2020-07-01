@@ -1,4 +1,4 @@
-113.³ pants. Militārās aviācijas poligona darbības drošībai potenciāli bīstamu objektu būvniecības, ierīkošanas, izvietošanas un apzīmēšanas kārtība
+113.³ pants. Militārās aviācijas poligona darbības drošībai potenciāli bīstamu objektu būvēšanas, ierīkošanas, izvietošanas un apzīmēšanas kārtība
 Papildus citu normatīvo aktu prasību izpildei saņemama Aizsardzības ministrijas atļauja būvēt, ierīkot un izvietot tādus militārās aviācijas poligona darbības drošībai potenciāli bīstamus objektus:
 1) kuri ir sprādzienbīstami un kuri ir redzamo lāzerstaru izstarotāji, - piecu kilometru attālumā no militārās aviācijas poligona ārējās malas;
 2) kuri var radīt traucējumus militārās aviācijas poligona darbības nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā, - piecu kilometru attālumā no militārās aviācijas poligona ārējās malas;

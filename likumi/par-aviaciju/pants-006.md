@@ -11,7 +11,7 @@ Civilās aviācijas aģentūra:
 1) veic Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzību;
 2) izstrādā pasākumus civilās aviācijas gaisa kuģu lidojumu drošuma un civilās aviācijas drošības līmeņa uzturēšanai un paaugstināšanai, kā arī uzraudzības nodrošināšanai;
 3) aizliedz darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas gaisa kuģu, lidlauku un citu civilās aviācijas objektu un iekārtu ekspluatāciju, ja tiek pārkāpti šā likuma un citu uz tā pamata izdoto normatīvo aktu noteikumi, kā arī darbību, kas apdraud gaisa kuģu lidojumu drošumu;
-4) izskata likumā noteiktajā kārtībā administratīvo pārkāpumu lietas par pārkāpumiem civilās aviācijas jomā un uzliek administratīvos sodus;
+4) veic administratīvā pārkāpuma procesu par pārkāpumiem civilās aviācijas jomā;
 5) veic civilās aviācijas personāla sertificēšanu un uzraudzību, tajā skaitā izsniedz civilās aviācijas gaisa kuģu lidojumu apkalpes locekļu, gaisa satiksmes vadības dispečeru, gaisa satiksmes informatīvā dienesta operatoru un gaisa kuģu tehniskās apkopes personāla apliecības, pagarina to derīguma termiņu, kā arī aptur šo apliecību darbību vai anulē minētās apliecības;
 6) veic civilās aviācijas personāla veselības pārbaužu uzraudzību, izsniedz civilās aviācijas personāla veselības apliecības, pagarina to derīguma termiņu, kā arī aptur šo apliecību darbību vai anulē minētās apliecības, sertificē un uzrauga civilās aviācijas medicīnas ekspertus un civilās aviācijas medicīnas centrus;
 7) reģistrē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā un izslēdz no šā reģistra civilās aviācijas gaisa kuģus, kā arī izdara nepieciešamās izmaiņas reģistrā;
@@ -38,4 +38,4 @@ Civilās aviācijas aģentūra var izdot administratīvos aktus par aizliegumu v
 Civilās aviācijas aģentūra Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt izpletņlēcēju desantēšanas, ultravieglo gaisa kuģu ekspluatācijas uzraudzību, ultravieglo gaisa kuģu pilotu un tehniskās apkopes personāla sertificēšanu un motoparaplānu un motodeltaplānu reģistrāciju.
 Valsts robežsardze:
 1) pārbauda vispārējās nozīmes aviācijas gaisa kuģu lidojumu veikšanai nepieciešamo dokumentāciju un civilās aviācijas gaisa kuģa apkalpes atbilstību lidojumu veikšanai;
-2) izskata likumā noteiktajā kārtībā un savas kompetences ietvaros administratīvo pārkāpumu lietas par pārkāpumiem civilās aviācijas jomā un uzliek administratīvos sodus.
+2) veic administratīvā pārkāpuma procesu savas kompetences ietvaros par pārkāpumiem civilās aviācijas jomā.

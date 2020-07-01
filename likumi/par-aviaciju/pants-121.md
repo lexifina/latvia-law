@@ -1,0 +1,3 @@
+121. pants. Administratīvie pārkāpumi bagāžas, pasta un kravas gaisa pārvadājumu jomā
+Par bīstamu izstrādājumu vai vielu pārvadāšanas noteikumu pārkāpšanu gaisa transportā piemēro brīdinājumu vai naudas sodu juridiskajām personām no trīssimt līdz tūkstoš sešsimt naudas soda vienībām.
+Par pasažieru, rokas bagāžas, reģistrētās bagāžas, kravas, pasta, pārtikas krājumu vai gaisa kuģa inventāra pieņemšanu pārvadāšanai ar civilās aviācijas gaisa kuģi, pārkāpjot drošības pārbaudes noteikumus, piemēro brīdinājumu vai naudas sodu juridiskajām personām no trīssimt līdz tūkstoš sešsimt naudas soda vienībām.

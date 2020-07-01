@@ -1,4 +1,4 @@
-41.pants. Gaisa kuģu lidojumiem potenciāli bīstamu objektu būvniecības, ierīkošanas, izvietošanas un apzīmēšanas kārtība
+41.pants. Gaisa kuģu lidojumiem potenciāli bīstamu objektu būvēšanas, ierīkošanas, izvietošanas un apzīmēšanas kārtība
 Papildus citu normatīvo aktu prasību izpildei saņemama Civilās aviācijas aģentūras atļauja būvēt, ierīkot un izvietot šādus gaisa kuģu lidojumu drošumam potenciāli bīstamus objektus:
 1) kuri ir sprādzienbīstami un kuri ir redzamo lāzerstaru izstarotāji;
 2) kuri var radīt traucējumus gaisa kuģu lidojumu nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā;
@@ -8,7 +8,7 @@ Papildus citu normatīvo aktu prasību izpildei saņemama Civilās aviācijas a�
 6) kuri samazina vai var samazināt redzamību gaisa kuģu pacelšanās vai nosēšanās sektorā;
 7) jebkuru gaismas avotu, kurš netiek izmantots aeronavigācijai, ja tas atradīsies gaisa kuģu pacelšanās vai nosēšanās sektorā un var apdraudēt gaisa kuģu lidojumu drošumu, - piecu kilometru attālumā no skrejceļa tuvākā sliekšņa;
 8) kuri veicina vai var veicināt putnu masveidīgu pulcēšanos (pastāvīgs barības avots un ligzdošanas vietas), - 15 kilometru rādiusā no lidlauka kontrolpunkta.
-Gadījumos, kad atbilstoši normatīvajiem aktiem objektu būvniecību, ierīkošanu vai izvietošanu nepieciešams saskaņot ar pašvaldību, Civilās aviācijas aģentūras atļauju būvēt, ierīkot un izvietot gaisa kuģu lidojumu drošumam potenciāli bīstamus objektus pieprasa attiecīgā pašvaldība. Pārējos gadījumos Civilās aviācijas aģentūras atļauju pieprasa objekta īpašnieks vai lietotājs.
+Gadījumos, kad atbilstoši normatīvajiem aktiem objektu būvēšanu, ierīkošanu vai izvietošanu nepieciešams saskaņot ar pašvaldību, Civilās aviācijas aģentūras atļauju būvēt, ierīkot un izvietot gaisa kuģu lidojumu drošumam potenciāli bīstamus objektus pieprasa attiecīgā pašvaldība. Pārējos gadījumos Civilās aviācijas aģentūras atļauju pieprasa objekta īpašnieks vai lietotājs.
 Kārtību, kādā pieprasa un saņem Civilās aviācijas aģentūras atļauju būvēt, ierīkot, izvietot gaisa kuģu lidojumu drošumam potenciāli bīstamus objektus, nosaka Ministru kabinets.
 Kārtību, kādā tiek veikta gaisa kuģu lidojumiem bīstamu objektu uzskaite, nosaka Ministru kabinets.
 Personas, kas Latvijas Republikas teritorijā uzbūvējušas, ierīkojušas vai izvietojušas šā panta pirmajā daļā minētos objektus, pārkāpjot šā likuma normas un Ministru kabineta noteikto kārtību, saskaņā ar attiecīgās pašvaldības lēmumu noteiktajā termiņā par saviem līdzekļiem tos nojauc, pārveido vai pārvieto uz citu vietu, bet attiecībā uz šā panta pirmās daļas 1., 2., 6., 7. un 8.punktā minētajiem objektiem nekavējoties pārtrauc gaisa kuģu lidojumu drošumu apdraudošo darbību. Ja pašvaldības lēmums līdz noteiktajam laikam nav izpildīts, pašvaldība organizē objekta nojaukšanu, pārveidošanu vai pārvietošanu. Visus izdevumus, kas saistīti ar minētajām darbībām, sedz objekta īpašnieks.
