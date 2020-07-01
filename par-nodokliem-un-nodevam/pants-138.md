@@ -1,0 +1,2 @@
+138. pants. Neatļautu darījumu veikšana, ja nodokļu maksātājam ir apturēta saimnieciskā darbība
+Par neatļautu darījumu veikšanu vai maksājumu saistību pildīšanu, ja nodokļu maksātājam ir apturēta saimnieciskā darbība, piemēro naudas sodu fiziskajai personai vai valdes loceklim no divdesmit astoņām līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz trim gadiem vai bez tā.

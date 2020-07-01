@@ -1,0 +1,2 @@
+135. pants. Izvairīšanās no nodokļu un tiem pielīdzināto maksājumu nomaksas
+Par izvairīšanos no nodokļu vai tiem pielīdzināto maksājumu nomaksas vai par ienākumu, peļņas vai citu ar nodokli apliekamo objektu slēpšanu vai samazināšanu piemēro naudas sodu fiziskajai personai vai valdes loceklim no divdesmit astoņām līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz trim gadiem vai bez tā.

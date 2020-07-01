@@ -1,2 +1,2 @@
 VII nodaļa
-Atbildība par nodokļu pārkāpumiem
+Ierobežojumi un administratīvā procesa ietvaros noteiktā atbildība par nodokļu pārkāpumiem
