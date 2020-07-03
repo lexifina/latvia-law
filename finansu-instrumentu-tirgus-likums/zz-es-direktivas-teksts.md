@@ -40,4 +40,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 39) Komisijas 2016. gada 7. aprīļa deleģētās direktīvas (ES) 2017/593, ar ko attiecībā uz finanšu instrumentu un klientiem piederošu līdzekļu aizsardzību, produktu pārvaldības prasībām un noteikumiem, kurus piemēro maksu, komisijas naudas vai jebkādu finansiālu vai nefinansiālu labumu sniegšanai vai saņemšanai, papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES;
 40) Eiropas Parlamenta un Padomes 2016. gada 23. jūnija direktīvas (ES) 2016/1034, ar ko groza direktīvu 2014/65/ES par finanšu instrumentu tirgiem;
 41) Eiropas Parlamenta un Padomes 2017. gada 12. decembra direktīvas (ES) 2017/2399, ar ko groza direktīvu 2014/59/ES attiecībā uz nenodrošinātu parāda instrumentu prioritāti maksātnespējas hierarhijā;
-42) Eiropas Parlamenta un Padomes 2017. gada 17. maija direktīvas (ES) 2017/828, ar ko groza direktīvu 2007/36/EK attiecībā uz akcionāru ilgtermiņa iesaistīšanas veicināšanu.
+42) Eiropas Parlamenta un Padomes 2017. gada 17. maija direktīvas (ES) 2017/828, ar ko groza direktīvu 2007/36/EK attiecībā uz akcionāru ilgtermiņa iesaistīšanas veicināšanu;
+43) Eiropas Parlamenta un Padomes 2019. gada 27. novembra direktīvas (ES) 2019/2034 par ieguldījumu brokeru sabiedrību prudenciālo uzraudzību un ar ko groza direktīvas 2002/87/EK, 2009/65/EK, 2011/61/ES, 2013/36/ES, 2014/59/ES un 2014/65/ES.

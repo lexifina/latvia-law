@@ -4,3 +4,4 @@
 1) tādus, lai ņemtu vērā viena finanšu instrumenta likviditātes profilu dažādos tirgos un vidējo piedāvājuma cenas un pieprasījuma cenas starpību, ievērojot vēlmi nodrošināt cenu stabilitāti, bet nepamatoti neierobežojot turpmāku starpības samazināšanu;
 2) pielāgojot cenas izmaiņas minimālo soli atbilstoši katram finanšu instrumentam.
 (3) Detalizētākas prasības šā panta piemērošanai nosaka Regula Nr. 2017/588.
+(4) Regulētā tirgus organizētājs drīkst savietot liela apjoma rīkojumus Regulas Nr. 600/2014 4. panta izpratnē par cenu, kas atbilst savietošanas brīža pirkšanas un pārdošanas piedāvājuma cenas viduspunktam, atkāpjoties no šajā pantā noteiktās prasības par cenas izmaiņas minimālā soļa režīmu piemērošanu.
