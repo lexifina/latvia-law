@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 30. jūnija noteikumi Nr. 423 \"Grozījumi Ministru kabineta 2016. gada 16. augusta noteikumos Nr. 558 \"Dzelzceļa pārvadātāju licencēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "125",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-02",
+  "entry_into_force": "2020-07-03",
+  "notification_date": "2020-07-02",
+  "commission_reference": "MNE(2020)55110",
+  "nim_celex": "72016L2370LVA_285815",
+  "nim_id": "285815",
+  "transposes_celex": [
+    "32016L2370"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bd8e18b2-bf70-11ea-901b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
