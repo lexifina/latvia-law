@@ -3,6 +3,6 @@
 1) tīšu likuma pārkāpumu vai nolaidību, pildot amata pienākumus;
 2) amata pienākumu tīšu nepildīšanu;
 3) apkaunojošu rīcību, kas nav savienojama ar prokurora amatu;
-4) administratīvo pārkāpumu;
+4) (izslēgts ar 17.06.2020. likumu);
 5) Prokuroru ētikas kodeksa normu neievērošanu.
 (2) Attaisnojoša sprieduma taisīšana, lietas nosūtīšana pārkāpumu novēršanai vai procesuālo lēmumu atcelšana pati par sevi nevar būt par pamatu prokurora disciplinārajai atbildībai, ja vien prokurors nav pieļāvis tīšu likuma pārkāpumu vai nolaidību, kura izraisījusi būtiskas sekas.
