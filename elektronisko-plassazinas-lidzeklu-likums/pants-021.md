@@ -13,7 +13,10 @@
 4) neievēro šā likuma 18.panta astotās daļas noteikumus un šis pārkāpums ir būtisks;
 5) mēneša laikā no dienas, kad Padome izteikusi brīdinājumu par apraides atļaujā ietverto noteikumu pārkāpumu, nepārtrauc attiecīgā noteikuma pārkāpšanu;
 6) mēneša laikā no dienas, kad Padome izteikusi brīdinājumu par apraides atļaujā ietverto noteikumu pārkāpumu, atkārtoti būtiski pārkāpis attiecīgo noteikumu;
-7) saskaņā ar spēkā stājušos tiesas spriedumu vai prokurora priekšrakstu par sodu atzīts par vainīgu noziegumos pret valsti vai par šādiem noziedzīgiem nodarījumiem tam noteikts juridiskajām personām piemērojamais piespiedu ietekmēšanas līdzeklis.
+7) saskaņā ar spēkā stājušos tiesas spriedumu vai prokurora priekšrakstu par sodu atzīts par vainīgu noziegumos pret valsti vai par šādiem noziedzīgiem nodarījumiem tam noteikts juridiskajām personām piemērojamais piespiedu ietekmēšanas līdzeklis;
+8) apdraud valsts drošību vai būtiski apdraud sabiedrisko kārtību vai drošību;
+9) pēc Padomes vai kompetentās iestādes pieprasījuma vai mainoties patiesajam labuma guvējam nav noteiktajā termiņā iesniedzis papildu informāciju vai dokumentus par patieso labuma guvēju vai iesniedzis par to nepatiesu informāciju;
+10) tieši vai netieši, pilnībā vai daļēji ir tādas personas īpašumā vai kontrolē, uz kuru ir attiecināmas starptautiskās vai nacionālās sankcijas atbilstoši Starptautisko un Latvijas Republikas nacionālo sankciju likumam.
 (3¹) Piemērojot šā likuma 21.panta trešo daļu un izvērtējot pārkāpuma būtiskumu, Nacionālā elektronisko plašsaziņas līdzekļu padome ņem vērā pārkāpuma sabiedrisko bīstamību, elektroniskā plašsaziņas līdzekļa veiktās darbības saistībā ar pārkāpuma seku un atkārtošanas novēršanu, pārkāpuma ietekmi uz vispārējo elektroniskā plašsaziņas līdzekļa darbību un spēju to turpināt.
 (4) Nacionālās elektronisko plašsaziņas līdzekļu padomes paziņojums par apraides atļaujas vai retranslācijas atļaujas anulēšanu vai elektroniskā plašsaziņas līdzekļa darbības izbeigšanu publicējams Padomes mājaslapā internetā un oficiālajā izdevumā "Latvijas Vēstnesis'', bet par reģionālo vai vietējo elektronisko plašsaziņas līdzekli - arī vietējā laikrakstā.
 (5) Šā panta piemērošanu neietekmē šā likuma III¹ nodaļas noteikumu piemērošana.

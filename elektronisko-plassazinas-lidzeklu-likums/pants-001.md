@@ -15,7 +15,7 @@ Likumā ir lietoti šādi termini:
 12¹) maksas televīzija - par maksu nodrošināta piekļuve elektroniskā plašsaziņas līdzekļa televīzijas programmai;
 13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus;
 14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
-14¹) patiesais labuma guvējs - fiziskā persona, kas atbilst Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā lietotajam terminam "patiesais labuma guvējs";
+14¹) patiesais labuma guvējs - fiziskā persona, kas atbilst Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā lietotajam terminam "patiesais labuma guvējs";
 15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
 16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā par samaksu vai citu atlīdzību;
 17) programma - elektroniskā plašsaziņas līdzekļa veidots raidījums vai raidījumu kopums ar kopēju nosaukumu;
