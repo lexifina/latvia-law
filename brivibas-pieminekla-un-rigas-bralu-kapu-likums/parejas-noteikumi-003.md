@@ -1,0 +1,1 @@
+3. Brīvības pieminekļa un Rīgas Brāļu kapu apsaimniekotājs līdz 2021. gada 30. aprīlim izstrādā un iesniedz Ministru kabinetam apstiprināšanai šā likuma 5. panta otrajā daļā minēto Apsaimniekošanas programmu.

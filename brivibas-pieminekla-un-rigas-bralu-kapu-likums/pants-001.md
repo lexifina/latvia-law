@@ -1,0 +1,4 @@
+1. pants. Likuma mērķis un uzdevums
+(1) Šā likuma mērķis ir nodrošināt Brīvības pieminekļa un Rīgas Brāļu kapu kā Latvijas nacionālās neatkarības izcīnīšanas, valstiskās identitātes un nacionālās pašapziņas simbolu un Latvijas tautas svētvietu saglabāšanu un tām atbilstošas cieņas izrādīšanu.
+(2) Likums nosaka Brīvības pieminekļa, tā aizsardzības zonas un Rīgas Brāļu kapu, to teritorijas un aizsardzības zonas uzturēšanas, izmantošanas, apsaimniekošanas un finansēšanas kārtību un citus ar to saistītus jautājumus, kā arī uzvedības noteikumus attiecīgajās teritorijās.
+(3) Brīvības pieminekļa, tā aizsardzības zonas un Rīgas Brāļu kapu, to teritorijas un aizsardzības zonas saglabāšanu, uzturēšanu un izmantošanu nosaka arī likums "Par kultūras pieminekļu aizsardzību", Rīgas vēsturiskā centra saglabāšanas un aizsardzības likums un citi normatīvie akti.

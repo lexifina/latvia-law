@@ -1,0 +1,1 @@
+5. Ministru kabineta noteiktais Brīvības pieminekļa un Rīgas Brāļu kapu apsaimniekotājs līdz 2021. gada 31. decembrim pārņem no Rīgas pašvaldības aģentūras "Rīgas pieminekļu aģentūra" šā likuma 5. pantā minēto Brīvības pieminekļa un Rīgas Brāļu kapu apsaimniekotāja funkciju.
