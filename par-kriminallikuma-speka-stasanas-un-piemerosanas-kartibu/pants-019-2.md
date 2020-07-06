@@ -1,0 +1,1 @@
+19.² pants. Maznozīmīgs noziedzīgs nodarījums ir nodarījums, kura rezultātā nodarīts mantisks zaudējums, kas noziedzīga nodarījuma izdarīšanas brīdī bijis mazāks par pusi no tai laikā Latvijas Republikā noteiktās minimālās mēnešalgas, vai kura radītais ar likumu aizsargāto interešu apdraudējums ir neliels.
