@@ -1,3 +1,3 @@
 467.pants. Aizstāvja neierašanās sekas
 (1) Ja aizstāvis nav ieradies uz tiesas sēdi, krimināllietas iztiesāšanu atliek. Par aizstāvja neierašanos uz tiesas sēdi tiesa paziņo Latvijas Zvērinātu advokātu padomei.
-(2) Ja krimināllietas iztiesāšanā piedalās vairāki apsūdzētā aizstāvji un nav ieradies kāds no viņiem, lietas iztiesāšanu var turpināt. Lietas iztiesāšanu var turpināt arī tad, ja kāds no aizstāvjiem nav ieradies uz tiesas debatēm un apsūdzētais neiebilst pret lietas turpināšanu.
+(2) Ja krimināllietas iztiesāšanā piedalās vairāki apsūdzētā aizstāvji un nav ieradies kāds no viņiem, lietas iztiesāšanu var turpināt.

@@ -1,5 +1,5 @@
 127.pants. Pierādījumi
 (1) Pierādījumi kriminālprocesā ir jebkuras likumā paredzētajā kārtībā iegūtas un noteiktā procesuālajā formā nostiprinātas ziņas par faktiem, kurus kriminālprocesā iesaistītās personas savas kompetences ietvaros izmanto pierādīšanas priekšmetā ietilpstošo apstākļu esamības vai neesamības pamatošanai.
 (2) Kriminālprocesā iesaistītās personas kā pierādījumus var izmantot tikai ticamas, attiecināmas un pieļaujamas ziņas par faktiem.
-(3) Operatīvās darbības pasākumos iegūtās ziņas par faktiem, arī ziņas, kas fiksētas ar tehnisku līdzekļu palīdzību, drīkst izmantot kā pierādījumu tikai tad, ja tās iespējams pārbaudīt šajā likumā noteiktajā procesuālajā kārtībā.
+(3) Operatīvās darbības pasākumos iegūtās ziņas par faktiem, tai skaitā ziņas, kas norāda uz citas personas izdarītu noziedzīgu nodarījumu, arī ziņas, kas fiksētas ar tehnisku līdzekļu palīdzību, drīkst izmantot kā pierādījumu tikai tad, ja tās iespējams pārbaudīt šajā likumā noteiktajā procesuālajā kārtībā.
 (4) Ja krimināllietā kā pierādījumu izmanto šā panta trešajā daļā minētās ziņas, tai pievieno uzziņu par to, kura iestāde, kad un uz kādu laika periodu akceptējusi operatīvās darbības pasākumu veikšanu. Uzziņu procesa virzītājam izsniedz operatīvās darbības pasākuma veikšanu akceptējušās iestādes vadītājs vai viņa pilnvarota amatpersona.

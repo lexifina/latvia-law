@@ -1,7 +1,7 @@
 386.pants. Izmeklēšanas iestādes
 Izmeklēšanu savas kompetences ietvaros veic:
 1) Valsts policija;
-2) Drošības policija;
+2) Valsts drošības dienests;
 3) Valsts ieņēmumu dienesta Iekšējās drošības pārvalde;
 4) Militārā policija;
 5) Ieslodzījuma vietu pārvalde;

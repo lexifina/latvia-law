@@ -7,6 +7,7 @@
 4) ārvalsts advokāts (izņemot šīs daļas 3.punktā minēto) saskaņā ar Latvijas Republikai saistošu starptautisko līgumu par juridisko palīdzību.
 (3) Aizstāvis piedalās lietā no vienošanās noslēgšanas brīža, ja aizstāvamā persona ieguvusi tiesības uz aizstāvību šajā likumā noteiktajā kārtībā. Aizstāvis nevar bez aizstāvamā piekrišanas atteikties no aizstāvēšanas, kas jāveic saskaņā ar vienošanos.
 (4) Valsts nodrošināts aizstāvis piedalās lietā no uzdevuma pieņemšanas brīža līdz kriminālprocesa pabeigšanai, izņemot gadījumus, kad viņš tiek uzaicināts nodrošināt aizstāvību atsevišķā procesuālā darbībā. Aizstāvības veikšana atsevišķā procesuālā darbībā neuzliek advokātam pienākumu uzņemties aizstāvību visā kriminālprocesā.
-(5) Advokāta kā aizstāvja tiesības piedalīties kriminālprocesā apliecina orderis.
+(5) Advokāta kā aizstāvja tiesības piedalīties kriminālprocesā apliecina orderis, ko nekavējoties iesniedz procesa virzītājam.
 (6) Aizstāvis nedrīkst uzņemties citas personas aizstāvēšanu vai sniegt tai juridisko palīdzību, ja tas ir pretrunā ar aizstāvamās personas interesēm, ar kuru vienošanās noslēgta agrāk.
 (7) Aizstāvis nedrīkst slēgt vienošanos par vairāku personu aizstāvēšanu vienā kriminālprocesā, ja starp šo personu aizstāvības interesēm pastāv pretrunas.
+(8) Ja vienai personai ir vairāki aizstāvji un kāds no viņiem uz procesuālo darbību nav ieradies, tas nav šķērslis procesuālās darbības veikšanai.

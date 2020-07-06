@@ -5,7 +5,7 @@
 3) juridiskā persona piekrīt nodarījuma, saistībā ar kuru piespiedu ietekmēšanas līdzeklis tiek piemērots, apjomam, kvalifikācijai, radītā kaitējuma novērtējumam un vienošanās piemērošanai.
 (2) Ja prokurors atzīst par iespējamu procesā slēgt vienošanos, viņš veic šādas darbības:
 1) izskaidro juridiskajai personai iespēju noregulēt krimināltiesiskās attiecības, slēdzot vienošanos, šīs personas tiesības, slēdzot vienošanos, un vienošanās sekas;
-2) informē cietušo par viņa tiesībām izteikt savu viedokli par vienošanās iespējamo piemērošanu.
+2) (izslēgts ar 11.06.2020. likumu).
 (3) Saņēmis juridiskās personas piekrišanu slēgt vienošanos, prokurors sagatavo vienošanās projektu un uzsāk pārrunas ar juridisko personu par vienošanās elementiem.
 (4) Ja juridiskā persona piekrīt noziedzīga nodarījuma, saistībā ar kuru piespiedu ietekmēšanas līdzeklis tiek piemērots, kvalifikācijai un radītā kaitējuma novērtējumam, sākas pārrunas par piespiedu ietekmēšanas līdzekļa veidu un mēru, kuru prokurors lūgs tiesu piespriest.
 (5) Juridiskajai personai vienošanās procesā ir tiesības:

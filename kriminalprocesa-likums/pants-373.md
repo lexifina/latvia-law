@@ -1,7 +1,7 @@
 373.pants. Atteikšanās uzsākt procesu
 (1) Ja procesuāli pilnvarota amatpersona konstatē, ka nav pamata kriminālprocesa uzsākšanai, tā pieņem lēmumu, ko var uzrakstīt arī rezolūcijas veidā, un par to paziņo personai, kura iesniedza ziņas par iespējamu noziedzīga nodarījuma izdarīšanu, izņemot ārstniecības personas vai iestādes. Ja pieņemts motivēts rakstveida lēmums, personai nosūta lēmuma kopiju.
 (2) Apstāklis, ka ziņas nesatur pietiekamu informāciju nodarījuma sākotnējai kvalifikācijai, nevar būt par pamatu procesa neuzsākšanai.
-(2¹) Izmeklētājs ar prokurora piekrišanu vai prokurors var atteikt kriminālprocesa uzsākšanu, ja izdarīts noziedzīgs nodarījums, kuram ir noziedzīga nodarījuma pazīmes, bet ar kuru nav radīts tāds kaitējums, lai piespriestu kriminālsodu.
+(2¹) Izmeklētājs ar prokurora piekrišanu vai prokurors var atteikt kriminālprocesa uzsākšanu, ja izdarīts maznozīmīgs noziedzīgs nodarījums.
 (3) Ja ziņas satur informāciju par likuma pārkāpumu, kura atklāšanai nav nepieciešams pielietot kriminālprocesa līdzekļus un metodes, tās nosūta resoriskās pārbaudes veikšanai kompetentai iestādei. Ar resorisko pārbaudi šā likuma izpratnē saprot valsts iestādes un tās amatpersonu veiktu pārbaudi attiecībā uz iespējamu likuma pārkāpumu, izmantojot šīs iestādes darbību regulējošajā likumā noteiktās pilnvaras, kas nav kriminālprocesuālās pilnvaras.
 (4) (Izslēgta ar 30.03.2017. likumu)
 (5) Lēmumu par atteikšanos uzsākt kriminālprocesu šā likuma 369.panta otrās daļas 1., 2. un 4.punktā minētās personas 10 dienu laikā pēc paziņojuma saņemšanas var pārsūdzēt prokuroram, ja lēmumu pieņēmis izmeklētājs, vai amatā augstākam prokuroram, ja lēmumu pieņēmis prokurors.

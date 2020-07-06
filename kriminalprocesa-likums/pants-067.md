@@ -1,6 +1,7 @@
 67.pants. Aizdomās turētā pienākumi
 (1) No brīža, kad personai paziņots, ka tā atzīta par aizdomās turēto, šai personai ir pienākums:
 1) noteiktajā laikā ierasties procesa veikšanai pilnvarotas amatpersonas norādītajā vietā, ja uzaicinājums izdarīts likumā noteiktajā kārtībā;
+1¹) sniegt patiesas liecības, ja tā izmanto tiesības liecināt;
 2) nekavēt un netraucēt kriminālprocesa norisi;
 3) ievērot drošības līdzekļa noteikumus un likumā minētos ierobežojumus;
 4) atļaut, ka tā tiek pakļauta eksperta izpētei, un izsniegt salīdzinošajai izpētei paraugus, kuru izveide nav atkarīga no personas gribas;

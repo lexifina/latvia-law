@@ -1,6 +1,6 @@
 240. pants. Galīgā rīcība ar lietiskajiem pierādījumiem, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, kā arī citiem izņemtajiem priekšmetiem un vērtībām
 (1) Lēmumā par kriminālprocesa izbeigšanu, prokurora priekšrakstā vai tiesas nolēmumā norāda, kas darāms ar lietiskajiem pierādījumiem, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu un citiem izņemtajiem priekšmetiem un vērtībām, proti:
-1) lietiskos pierādījumus, dokumentus, citus izņemtos priekšmetus un vērtības atdod to īpašniekiem vai likumīgajiem valdītājiem, bet, ja tie nav jāatdod īpašniekiem vai likumīgajiem valdītājiem, - realizē vai, ja tiem nav vērtības, - iznīcina;
+1) lietiskos pierādījumus, dokumentus, citus izņemtos priekšmetus un vērtības atdod to īpašniekiem vai likumīgajiem valdītājiem, bet, ja tie nav jāatdod īpašniekiem vai likumīgajiem valdītājiem, - realizē vai, ja tiem nav vērtības, - iznīcina vai izsniedz ieinteresētajai institūcijai pēc tās lūguma;
 2) konfiscētos noziedzīga nodarījuma izdarīšanas priekšmetus nodod Valsts ieņēmumu dienestam, bet, ja tiem nav vērtības, - iznīcina;
 3) konfiscētās apgrozībā aizliegtās lietas nodod attiecīgajām iestādēm vai iznīcina;
 4) konfiscētos dzīvniekus un konfiscētos transportlīdzekļus nodod Valsts ieņēmumu dienestam;

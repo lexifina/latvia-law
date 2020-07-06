@@ -1,3 +1,3 @@
 466.pants. Aizstāvja piedalīšanās lietas iztiesāšanā
-(1) Aizstāvja piedalīšanās krimināllietu iztiesāšanā ir obligāta šajā likumā paredzētajos gadījumos un pēc procesā iesaistīto personu aicinājuma.
+(1) Aizstāvja piedalīšanās krimināllietu iztiesāšanā ir obligāta šajā likumā paredzētajos gadījumos un pēc procesā iesaistīto personu aicinājuma. Ja aizstāvis, ar kuru klients noslēdzis vienošanos vai kuru norīkojis zvērinātu advokātu vecākais, nevar piedalīties tiesas sēdē, viņš nodrošina, lai viņa vietā ierastos cits advokāts, iepriekš par to vienojoties ar klientu vai informējot zvērinātu advokātu vecāko.
 (2) Aizstāvis īsteno personas tiesības uz aizstāvību, izsaka savu viedokli par lietas iztiesāšanas gaitā konstatētajiem apstākļiem un piedalās tiesas debatēs. Aizstāvību vienā kriminālprocesā var īstenot arī vairāki aizstāvji.

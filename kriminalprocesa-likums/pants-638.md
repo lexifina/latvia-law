@@ -7,3 +7,4 @@
 (2) Ja piespriesta brīvības atņemšana, sprieduma izpildi nedrīkst atlikt personām, kas notiesātas par smagu vai sevišķi smagu noziegumu.
 (3) Naudas soda vai naudas piedziņas samaksu var atlikt vai sadalīt termiņos uz laiku līdz vienam gadam, ja persona, kurai piemērots sods vai piespiedu ietekmēšanas līdzeklis, 30 dienu laikā nevar to samaksāt un ir iesniegusi motivētu lūgumu par naudas soda samaksas atlikšanu vai sadalīšanu termiņos.
 (4) Valsts izmaksātās kompensācijas samaksu var atlikt vai sadalīt termiņos uz laiku līdz vienam gadam, ja notiesātais 30 dienu laikā nevar to samaksāt un ir iesniedzis motivētu lūgumu par valsts izmaksātās kompensācijas samaksas atlikšanu vai sadalīšanu termiņos.
+(5) Jautājumu par tiesas nolēmuma izpildes atlikšanu pirmās instances tiesas tiesnesis izskata rakstveida procesā. Lēmumu var pārsūdzēt 10 dienu laikā. Augstāka līmeņa tiesas tiesnesis sūdzību izskata rakstveida procesā, un viņa lēmums nav pārsūdzams.

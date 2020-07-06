@@ -7,7 +7,7 @@
 (4) Ja iebildumus pret lietas iztiesāšanu rakstveida procesā iesniedzis prokurors, apsūdzētais, aizstāvis vai cietušais vai apsūdzētais atsakās no vienošanās, tiesa pieņem lēmumu par lietas iztiesāšanu mutvārdu procesā. Lēmumu iztiesāt lietu mutvārdu procesā tiesa var pieņemt arī pēc savas iniciatīvas.
 (5) Tiesa, izskatījusi lietu rakstveida procesā, pieņem vienu no šādiem nolēmumiem:
 1) lēmumu par lietas izbeigšanu, ja konstatē apstākļus, kas nepieļauj kriminālprocesu;
-2) lēmumu par lietas nosūtīšanu prokuroram pārkāpumu novēršanai;
+2) (izslēgts ar 11.06.2020. likumu);
 3) notiesājošu spriedumu;
 4) (izslēgts ar 27.09.2018. likumu).
 (6) Tiesa notiesājošu spriedumu taisa, ievērojot sprieduma taisīšanas nosacījumus, kādi noteikti lietas iztiesāšanai mutvārdos vienošanās procesā.

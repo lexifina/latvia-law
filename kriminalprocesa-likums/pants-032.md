@@ -1,3 +1,3 @@
 32.pants. Procesuālo uzdevumu izpildītājs
 (1) Procesuālo uzdevumu izpildītājs ir izmeklēšanas iestādes amatpersona vai prokurors, kuram procesa virzītājs uzdevis veikt vienu vai vairākas izmeklēšanas darbības, neiekļaujot viņu izmeklēšanas grupas sastāvā.
-(2) Procesuālo uzdevumu izpildītājs atbild par uzdotās izmeklēšanas darbības kvalitatīvu izpildi, un viņa pienākums ir informēt procesa virzītāju par visiem faktiem, kuri var būt nozīmīgi kriminālprocesa tiesiskai un taisnīgai pabeigšanai.
+(2) Procesuālo uzdevumu izpildītājs atbild par uzdotās izmeklēšanas darbības kvalitatīvu izpildi, un viņa pienākums ir informēt procesa virzītāju par visiem faktiem, kuri var būt nozīmīgi kriminālprocesa tiesiskai un taisnīgai pabeigšanai. Lai nodrošinātu uzdotās izmeklēšanas darbības izpildi, procesuālo uzdevumu izpildītājam ir tiesības pieņemt lēmumu par piespiedu atvešanu.

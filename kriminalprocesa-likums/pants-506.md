@@ -5,4 +5,4 @@
 (3) Apsūdzētais vai viņa aizstāvis tiesas debatēs saka aizstāvības runu.
 (4) Tiesas debašu dalībnieki savus secinājumus var motivēt tikai ar tiesas izmeklēšanā pārbaudītiem pierādījumiem un rakstveida pierādījumiem un dokumentiem, kuri norādīti lēmumā par krimināllietas nodošanu tiesai un kuri saskaņā ar šā likuma 449.panta trešo daļu netika pārbaudīti tiesas sēdē. Ja nepieciešams pārbaudīt jaunus pierādījumus, tiesas debašu dalībnieks var lūgt tiesu atsākt tiesas izmeklēšanu.
 (5) Lietā, kuras iztiesāšanā netika veikta pierādījumu pārbaude, tiesas debatēs dalībnieki izsakās tikai par piemērojamo sodu, tā veidu un mēru, kā arī par kompensācijas apmēru, ja tas neietekmē noziedzīgā nodarījuma juridisko kvalifikāciju, un mantas izcelsmi.
-(6) Tiesas sēdes priekšsēdētājs var pārtraukt tiesas debašu dalībnieka runu, ja viņš runā par apstākļiem, kam nav sakara ar lietu.
+(6) Tiesas sēdes priekšsēdētājs var pārtraukt tiesas debašu dalībnieka runu, ja viņš runā par apstākļiem, kam nav sakara ar lietu, atkārtoti min tos pašus argumentus to pašu faktu pamatošanai, novilcina lietas iztiesāšanu vai izrāda necieņu tiesai vai lietas dalībniekiem.

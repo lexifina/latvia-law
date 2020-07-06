@@ -1,5 +1,5 @@
 200.pants. Lēmums par ekspertīzes noteikšanu
-(1) Lēmumu par ekspertīzes noteikšanu pieņem procesa virzītājs.
+(1) Lēmumu par ekspertīzes noteikšanu pieņem procesa virzītājs. Lēmums nav pārsūdzams.
 (2) Lēmumā par ekspertīzes noteikšanu norāda:
 1) ekspertīzes noteikšanas iemeslus un pamatu;
 2) apstākļus, kuri attiecas uz izpētāmo objektu;

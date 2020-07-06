@@ -1,5 +1,6 @@
 120.pants. Likumos garantētā valsts amatpersonu kriminālprocesuālā imunitāte
 (1) Valsts prezidentam un Saeimas loceklim ir Satversmē noteiktā kriminālprocesuālā imunitāte.
+(1¹) Satversmes tiesas tiesnesim ir Satversmes tiesas likumā noteiktā kriminālprocesuālā imunitāte.
 (2) Kriminālprocesu pret tiesnesi un tiesībsargu drīkst uzsākt tikai ģenerālprokurors. Tiesnesi vai tiesībsargu var saukt pie kriminālatbildības vai apcietināt tikai ar Saeimas piekrišanu. Lēmumu par tiesneša un tiesībsarga apcietināšanu, piespiedu atvešanu, aizturēšanu vai pakļaušanu kratīšanai pieņem īpaši pilnvarots Augstākās tiesas tiesnesis. Ja tiesnesis vai tiesībsargs ir notverts smaga vai sevišķi smaga nozieguma izdarīšanā, lēmums par piespiedu atvešanu, aizturēšanu vai pakļaušanu kratīšanai nav nepieciešams, bet 24 stundu laikā ir jāinformē īpaši pilnvarotais Augstākās tiesas tiesnesis un ģenerālprokurors.
 (3) (Izslēgta ar 16.06.2009. likumu.)
 (4) Prokuroru var aizturēt, atvest piespiedu kārtā, pakļaut kratīšanai, apcietināt vai saukt pie kriminālatbildības likumā noteiktajā kārtībā, par to nekavējoties paziņojot ģenerālprokuroram.

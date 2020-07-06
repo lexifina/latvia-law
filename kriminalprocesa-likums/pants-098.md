@@ -12,4 +12,4 @@
 10) pieteikt izmeklēšanas tiesnesim lūgumu iepazīstināt viņu ar speciālo izmeklēšanas darbību materiāliem, kuri netiek pievienoti krimināllietai (pirmdokumentiem);
 11) saņemt rakstveida tulkojumu likumā paredzētajos gadījumos.
 (1¹) Cietušajam kriminālprocesā par noziedzīgu nodarījumu, kas saistīts ar vardarbību vai vērsts pret dzimumneaizskaramību vai tikumību, ir tiesības pieteikt procesa virzītājam lūgumu informēt viņu par kriminālprocesa virzību daļā par to noziedzīgo nodarījumu, ar kuru viņam nodarīts kaitējums.
-(2) Aptaujā un nopratināšanā cietušajam ir arī visas liecinieka tiesības un pienākumi.
+(2) (Izslēgta ar 11.06.2020. likumu)

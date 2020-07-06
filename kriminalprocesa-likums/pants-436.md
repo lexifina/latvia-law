@@ -1,5 +1,5 @@
 436.pants. Cietušā tiesības vienošanās procesā
-(1) Ja kriminālprocess tiek turpināts kā vienošanās process, procesa virzītājs - prokurors izsniedz cietušajam vienošanās protokola kopiju.
+(1) Ja kriminālprocess tiek turpināts kā vienošanās process, procesa virzītājs - prokurors - nosūta cietušajam vienošanās protokola kopiju un informāciju par tiesībām vienošanās procesā.
 (2) Cietušajam ir tiesības:
 1) pieteikt noraidījumus;
 2) savlaicīgi saņemt informāciju par to, kad un kur tiesa izskatīs vienošanos;

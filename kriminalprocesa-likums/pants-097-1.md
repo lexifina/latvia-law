@@ -11,5 +11,6 @@
 9) saņemt kontaktinformāciju saziņai par konkrēto kriminālprocesu;
 10) saņemt informāciju par pieejamo atbalstu un medicīnisko palīdzību;
 11) pieprasīt informāciju par kriminālprocesa virzību, par amatpersonām, kuras veic vai ir veikušas kriminālprocesu.
+(1¹) Liecības sniegšanas laikā cietušajam ir tādas pašas tiesības kā lieciniekam.
 (2) Cietušajam, viņa aizgādnim vai aizbildnim visās kriminālprocesa stadijās un visos tā veidos ir tiesības lūgt, lai tiek pieņemts Eiropas aizsardzības rīkojums, ja pastāv šajā likumā noteiktais Eiropas aizsardzības rīkojuma pieņemšanas pamats.
 (3) Tiklīdz persona atzīta par cietušo, tai nekavējoties rakstveidā izsniedz un, ja nepieciešams, izskaidro informāciju par cietušā pamattiesībām. To, ka informācija izsniegta un, ja nepieciešams, tiesības izskaidrotas, cietušais apliecina ar savu parakstu.
