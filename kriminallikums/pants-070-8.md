@@ -1,5 +1,5 @@
 70.⁸ pants. Nosacījumi piespiedu ietekmēšanas līdzekļu piemērošanai juridiskajai personai
-(1) Nosakot piespiedu ietekmēšanas līdzekļa veidu, ņem vērā noziedzīgā nodarījuma raksturu un radīto kaitējumu.
+(1) Nosakot piespiedu ietekmēšanas līdzekļa veidu, ņem vērā noziedzīgā nodarījuma raksturu, radīto kaitējumu un to, vai juridiskajai personai iepriekš bijis piemērots piespiedu līdzeklis.
 (2) Nosakot piespiedu ietekmēšanas līdzekļa mēru, ievēro šādus nosacījumus:
 1) juridiskās personas faktiskā rīcība;
 2) juridiskās personas darbību raksturs un sekas;

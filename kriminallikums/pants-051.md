@@ -7,4 +7,5 @@
 4) jaunais noziedzīgais nodarījums ir izdarīts laikā, kad persona ir bijusi nosacīti pirms termiņa atbrīvota no pamatsoda izciešanas.
 (2) Galīgajam sodam pēc vairākiem spriedumiem jābūt lielākam par sodu, kāds noteikts par jaunu izdarītu noziedzīgu nodarījumu, kā arī par neizciestā soda daļu pēc iepriekšējā sprieduma.
 (3) Saskaitot sodus pēc vairākiem spriedumiem, kopējais soda apmērs vai laiks drīkst pārsniegt attiecīgajam soda veidam noteikto maksimālo apmēru vai laiku, bet ne vairāk kā par pusi no attiecīgajam soda veidam noteiktā maksimālā apmēra vai laika. Saskaitīto brīvības atņemšanas sodu (izņemot mūža ieslodzījumu) kopējais laiks nedrīkst pārsniegt trīsdesmit gadus, bet, ja izdarīts sevišķi smags noziegums, kura rezultātā iestājusies cietušā nāve, brīvības atņemšanas soda kopējo laiku var noteikt arī uz visu mūžu (mūža ieslodzījums).
+(3¹) Ja uz mūžu notiesātais, kas ir atbrīvots no soda izciešanas nosacīti pirms termiņa, pirmstermiņa uzraudzības laikā izdara noziedzīgu nodarījumu, tiesa noteiktajam sodam pievieno mūža ieslodzījumu.
 (4) Spriedums šā likuma 51. un 52.panta izpratnē ir arī prokurora priekšraksts par sodu.
