@@ -1,0 +1,2 @@
+2. pants. Likuma mērķis
+Šā likuma mērķis ir nodrošināt Latvijas Republikā vispārējās izglītības pieejamību ārvalstu un starptautiskajās organizācijās (it īpaši Eiropas Savienības institūcijās, Ziemeļatlantijas līguma organizācijas un Eiropas Savienības dalībvalstu bruņotajos spēkos) nodarbināto un dienējošo personu bērniem (ģimenes locekļiem), tādējādi veicinot šo institūciju un organizāciju darbību Latvijas Republikā un vienlaikus sekmējot starptautisko sadarbību ekonomiskajos, politiskajos, kā arī izglītības jautājumos.

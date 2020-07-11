@@ -1,0 +1,3 @@
+16. pants. Prasības starptautiskās skolas pedagogiem
+(1) Strādāt par pedagogu, kas īsteno starptautisku izglītības programmu, ir tiesības personai, kura atbilst starptautiskas izglītības programmas prasībām un uz kuru neattiecas izglītības jomu regulējošos normatīvajos aktos noteiktie ierobežojumi strādāt par pedagogu. Uz šo personu neattiecas prasības par valsts valodas prasmi.
+(2) Strādāt par pedagogu, kas īsteno mācību priekšmetu "Latvijas mācība", ir tiesības personai, kura atbilst izglītības jomu regulējošos normatīvajos aktos noteiktajām prasībām par pedagogu izglītību un kvalifikāciju un uz kuru neattiecas izglītības jomu regulējošos normatīvajos aktos noteiktie ierobežojumi strādāt par pedagogu.
