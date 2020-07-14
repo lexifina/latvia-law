@@ -1,0 +1,1 @@
+86. Grozījumi šā likuma 63. pantā par otrās daļas papildināšanu ar teikumu un trešās daļas otrā teikuma jaunā redakcija, grozījumi 63. panta 3.¹ daļā par trešā teikuma izteikšanu jaunā redakcijā un šīs daļas papildināšanu ar teikumu, kā arī 63. panta 3.² daļa un 64. panta 1.¹ daļa stājas spēkā 2021. gada 1. jūlijā.
