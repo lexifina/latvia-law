@@ -9,3 +9,4 @@
 (5) Muitas iestādes adresi, darba laiku un muitas iestādes kodu Valsts ieņēmumu dienests publicē savā tīmekļa vietnē.
 (6) Muitas amatpersona ir muitas iestādes ierēdnis, kas pilda normatīvajos aktos muitas jomā, šajā likumā un likumā "Par Valsts ieņēmumu dienestu" noteiktos uzdevumus muitas politikas īstenošanā.
 (7) Muitas amatpersonai ir šajā likumā, likumā "Par Valsts ieņēmumu dienestu", normatīvajos aktos muitas jomā un citos normatīvajos aktos noteiktās tiesības.
+(8) Padomes 2009. gada 16. novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (turpmāk - regula Nr. 1186/2009) izpratnē kompetentā iestāde Latvijas Republikā ir Valsts ieņēmumu dienests.
