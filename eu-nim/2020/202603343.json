@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 14. jūlija noteikumi Nr. 445 \"Kārtība, kādā iestādes ievieto informāciju internetā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "136",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-17",
+  "entry_into_force": "2020-07-18",
+  "notification_date": "2026-05-28",
+  "commission_reference": "MNE(2026)03343",
+  "nim_celex": "72024L1499LVA_202603343",
+  "nim_id": "202603343",
+  "transposes_celex": [
+    "32024L1499"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3af29e5d-3977-4a4c-9a71-9f61a583e3e4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
