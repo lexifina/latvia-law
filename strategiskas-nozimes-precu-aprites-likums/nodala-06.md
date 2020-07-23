@@ -1,2 +1,2 @@
 VI nodaļa
-Stratēģiskas nozīmes preču aprites subjekta pienākumi un atbildība
+Stratēģiskas nozīmes preču aprites subjekta pienākumi un komitejas lēmumu pārsūdzēšanas kārtība
