@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Finanšu un kapitāla tirgus komisijas 2020.gada 14.jūlija noteikumi Nr.91 “Sūdzību par apdrošināšanas un pārapdrošināšanas izplatītājiem izskatīšanas normatīvie noteikumi”",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "139",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-22",
+  "entry_into_force": "2020-07-23",
+  "notification_date": "2020-08-31",
+  "commission_reference": "MNE(2020)56495",
+  "nim_celex": "72016L0097LVA_288059",
+  "nim_id": "288059",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/15203631-ee78-11ea-991b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
