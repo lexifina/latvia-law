@@ -15,7 +15,6 @@
 (4) Nodokļa maksātājs, kurš maksā nodokli par iepakojumu un kuram atbilstoši vides aizsardzības normatīvajiem aktiem nav jāveic izlietotā iepakojuma pārstrāde un reģenerācija, nodokli aprēķina atbilstoši šā likuma 7.pielikumā noteiktajām nodokļa likmēm par katru iepakojuma materiāla veida svara vienību vai, ja nevar nodrošināt iepakojuma materiāla veida un svara pamatošanu ar uzskaites dokumentiem, - 120 euro gadā.
 (5) Plastmasas iepirkumu maisiņiem šā likuma 4.panta piektajā daļā minētajā gadījumā piemēro šādu nodokļa likmi:
 1) vieglās plastmasas iepirkumu maisiņiem - 4,80 euro par vienu kilogramu;
-2) plastmasas iepirkumu maisiņiem, kuru materiāla biezums ir lielāks par 50 mikroniem un viena maisiņa svars ir lielāks par trim gramiem (1000 maisiņu svars pārsniedz trīs
-kilogramus) - 1,50 euro par vienu kilogramu.
+2) plastmasas iepirkumu maisiņiem, kuru materiāla biezums ir lielāks par 50 mikroniem - 1,50 euro par vienu kilogramu.
 (6) Iepakojumam un vienreiz lietojamiem galda traukiem un piederumiem, uz kuriem nav norādīta normatīvajos aktos noteiktā informācija (marķējums), piemēro nodokļa likmi, kas noteikta šā likuma 7.pielikuma 2.punktā iepakojumam un vienreiz lietojamiem galda traukiem un piederumiem no plastmasas (polimēru) izejmateriāliem.
 (7) Šā likuma 7.pielikumā noteiktās nodokļa likmes iepakojumam no kompozītmateriāliem (laminātiem) piemēro atbilstoši materiālam, kas svara ziņā ir pārākumā.

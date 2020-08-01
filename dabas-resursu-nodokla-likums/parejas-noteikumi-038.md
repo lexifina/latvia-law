@@ -1,0 +1,1 @@
+38. Ražotāja paplašinātās atbildības sistēmām, kas uzsākušas darbību pirms 2018. gada 4. jūlija un laikposmā no 2018. gada 4. jūlija līdz dienai, kad stājas spēkā šā likuma 6.¹ pants, šā panta prasības ir saistošas, sākot ar 2022. gada 1. janvāri.

@@ -1,0 +1,30 @@
+6.¹ pants. Ražotāja paplašinātās atbildības sistēmas piemērošana
+(1) Ražotāja paplašinātās atbildības sistēmu atbilstoši šim pantam un šā likuma 7., 8., 9. pantam un II¹ nodaļai neatkarīgi no izmantotās tirdzniecības metodes, kā arī neatkarīgi no noslēgtā distances līguma piemēro:
+1) transportlīdzekļiem, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3. panta pirmā daļa;
+2) iepakojumam, izņemot depozīta iepakojumu, vai vienreiz lietojamiem galda traukiem un piederumiem, izņemot vienreiz lietojamos galda traukus un piederumus, kas izgatavoti no plastmasas (polimēriem) un to kompozītmateriāliem (laminātiem);
+3) videi kaitīgām precēm.
+(2) Ražotāja paplašinātās atbildības sistēmu depozīta iepakojumam piemēro atbilstoši šā likuma 8.¹ pantam, Iepakojuma likumam un normatīvajiem aktiem par depozīta sistēmas darbību.
+(3) Valsts un pašvaldību institūciju kompetence ražotāja paplašinātās atbildības sistēmas piemērošanā ir šāda:
+1) Vides aizsardzības un reģionālās attīstības ministrija atkritumu apsaimniekošanas valsts plānā ietver uzdevumus un pasākumus ražotāja paplašinātās atbildības sistēmas pilnveidošanai;
+2) Vides aizsardzības un reģionālās attīstības ministrijas padotībā esoša iestāde publicē savā tīmekļvietnē informāciju par ražotāja paplašinātās atbildības sistēmas piemērošanu, apsaimniekotāju sarakstu un informāciju par apsaimniekotāju attiecīgā veida atkritumu apsaimniekošanu, tai skaitā par atkritumu pārstrādes un reģenerācijas apjomiem;
+3) pašvaldība, organizējot un plānojot atkritumu dalītu vākšanu savā administratīvajā teritorijā atbilstoši normatīvajiem aktiem par atkritumu apsaimniekošanu, sadarbojas ar apsaimniekotājiem.
+(4) Apsaimniekotājam ir šādi pienākumi:
+1) nodrošināt savu vai līgumpartneru Latvijas Republikas teritorijā tirgū laisto preču un iepakojuma atkritumu efektīvu apsaimniekošanu, ieskaitot attiecīgā veida atkritumu dalīto savākšanu, šķirošanu, pārstrādi un reģenerāciju, lai sasniegtu normatīvajos aktos par iepakojumu un atkritumu apsaimniekošanu noteiktos mērķus;
+2) nodrošināt, ka tā līgumpartnera maksājumi, kas sedz šā panta sestajā daļā minētās izmaksas, ir pēc iespējas diferencēti attiecībā uz konkrētām precēm vai līdzīgu preču grupām un preču iepakojumu, ievērojot Atkritumu apsaimniekošanas likumā noteikto atkritumu apsaimniekošanas veidu prioritāro secību un pēc iespējas īstenojot vienmērīgu iekšējā tirgus darbību;
+3) ievērot savā darbībā un lēmumu pieņemšanā caurredzamības principu, tai skaitā pamatot ar ražotāja paplašinātās atbildības sistēmas īstenošanu saistītās izmaksas;
+4) nodrošināt ikgadēju neatkarīgu ražotāja paplašinātās atbildības sistēmas auditu, kura ietvaros novērtē:
+a) sistēmas finansiālo pārvaldību atbilstoši šā panta sestās daļas prasībām,
+b) Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošai iestādei iesniegto datu kvalitāti;
+5) informēt atkritumu radītāju un valdītāju par atkritumu rašanās novēršanas pasākumiem, preču un iepakojuma atkārtotas izmantošanas iespējām, preču atkritumu un izlietotā iepakojuma dalītās savākšanas vietām un vietām, kur atkritumus un izlietoto iepakojumu sagatavo atkārtotai izmantošanai, par piesārņošanas novēršanu, kā arī organizēt pasākumus, kas veicina atkritumu radītāju un valdītāju iesaistīšanos dalītās atkritumu savākšanas sistēmā;
+6) publicēt savā tīmekļvietnē informāciju par:
+a) dibinātājiem, biedriem, dalībniekiem vai akcionāriem,
+b) to nodokļa maksātāju skaitu, kuri ir noslēguši līgumus par piedalīšanos ražotāja paplašinātās atbildības sistēmā,
+c) līgumpartneru maksu par piedalīšanos ražotāja paplašinātās atbildības sistēmā, norādot maksu euro par tirgū laisto preču un iepakojuma svara vienību,
+d) to komersantu atlases procedūru, ar kuriem noslēgti līgumi par attiecīgā veida atkritumu sagatavošanu atkārtotai izmantošanai, reģenerāciju vai pārstrādi;
+7) nodrošināt, ka ražotāja paplašinātās atbildības sistēma ir atvērta visiem preces ražotājiem un tās piemērošanas nosacījumi ir vienlīdzīgi, nediskriminējoši un nerada nesamērīgu administratīvu slogu, tai skaitā mazajiem un vidējiem komersantiem.
+(5) Apsaimniekotājs informē sabiedrību atbilstoši šā panta trešās daļas 2. punktam un ceturtās daļas 6. punktam, izņemot gadījumus, kad attiecīgā informācija ir komercnoslēpums atbilstoši Komercnoslēpuma aizsardzības likumam.
+(6) Preces ražotājs, lai nodrošinātu ražotāja paplašinātās atbildības sistēmas darbību, sedz šādas izmaksas par precēm un iepakojumu, ko laiž tirgū Latvijas Republikas teritorijā:
+1) izmaksas par attiecīgā veida atkritumu apsaimniekošanu, ieskaitot šo atkritumu dalīto savākšanu, šķirošanu, pārstrādi un reģenerāciju, lai sasniegtu normatīvajos aktos par iepakojumu un atkritumu apsaimniekošanu noteiktos mērķus, atskaitot ieņēmumu daļu, kuru tas tieši vai pastarpināti gūst no atkārtotas izmantošanas un nošķiroto reģenerējamo sadzīves atkritumu tirdzniecības;
+2) izmaksas par informācijas sniegšanu atkritumu radītājam un valdītājam saskaņā ar šā panta ceturtās daļas 5. punktu;
+3) izmaksas par šā likuma 7. panta otrās daļas 2. un 5. punktā, 8. panta otrās daļas 4. un 5. punktā vai 9. panta otrās daļas 4. un 5. punktā minētā pārskata sagatavošanu un iesniegšanu Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošai iestādei.
+(7) Ja trešās valsts persona laiž preci tirgū Latvijas Republikas teritorijā, tā var piedalīties ražotāja paplašinātās atbildības sistēmā ar nosacījumu, ka ir reģistrēta Valsts ieņēmumu dienestā kā nodokļu maksātājs vai ir rakstveidā pilnvarojusi personu, kas veic komercdarbību Latvijas Republikas teritorijā, pārņemt attiecīgā trešās valsts preces ražotāja saistības Latvijas Republikas teritorijā attiecībā uz šajā pantā noteikto ražotāja paplašinātās atbildības sistēmas dalībnieka pienākumu izpildi. Trešās valsts persona informē apsaimniekotāju par minēto pilnvaroto personu.
