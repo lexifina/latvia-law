@@ -1,0 +1,1 @@
+49. Atkritumu apsaimniekošanas reģionos ietilpstošās pašvaldības līdz 2022. gada 30. decembrim izstrādā un apstiprina atkritumu apsaimniekošanas reģionālos plānus vai atkritumu apsaimniekošanas plānu pašvaldības administratīvajai teritorijai, ja pašvaldība nepiekrīt apstiprināt atkritumu apsaimniekošanas reģionālo plānu, laikposmam līdz 2027. gada 30. decembrim.

@@ -1,7 +1,9 @@
-17.¹ pants. (1) Atkritumu pārstrādes vai reģenerācijas iekārtas operators pēc sadzīves, ražošanas vai bīstamo atkritumu saņemšanas pārstrādei vai reģenerācijai par to veic attiecīgu ierakstu atkritumu pārvadājumu uzskaites valsts informācijas sistēmā.
+17.¹ pants. (1) Atkritumu pārstrādes, reģenerācijas vai atkritumu apglabāšanas iekārtas operators pēc sadzīves, ražošanas, būvniecības vai bīstamo atkritumu saņemšanas pārstrādei, reģenerācijai vai apglabāšanai par to veic attiecīgu ierakstu atkritumu pārvadājumu uzskaites valsts informācijas sistēmā.
 (2) Ministru kabinets nosaka:
-1) kārtību, kādā Vides aizsardzības un reģionālās attīstības ministrijas pilnvarota iestāde vai komersants uz deleģējuma līguma pamata atkritumu pārvadājumu uzskaites valsts informācijas sistēmā veic pārstrādei vai reģenerācijai saņemto sadzīves, ražošanas vai bīstamo atkritumu uzskaiti;
-2) maksu par pārstrādei vai reģenerācijai saņemto sadzīves, ražošanas vai bīstamo atkritumu uzskaiti un tās maksāšanas kārtību;
-3) kārtību, kādā sadzīves, ražošanas vai bīstamo atkritumu pārstrādes vai reģenerācijas darbību veicējs apliecina pārvadājuma saņemšanu;
-4) kārtību, kādā atkritumu pārstrādes vai reģenerācijas iekārtas operators paziņo par sadzīves, ražošanas vai bīstamo atkritumu saņemšanu pārstrādei vai reģenerācijai.
+1) kārtību, kādā Vides aizsardzības un reģionālās attīstības ministrijas pilnvarota iestāde vai komersants uz deleģējuma līguma pamata atkritumu pārvadājumu uzskaites valsts informācijas sistēmā veic pārstrādei, reģenerācijai vai apglabāšanai saņemto sadzīves, ražošanas, būvniecības vai bīstamo atkritumu uzskaiti;
+2) maksu par pārstrādei, reģenerācijai vai apglabāšanai saņemto sadzīves, ražošanas, būvniecības vai bīstamo atkritumu uzskaiti un tās maksāšanas kārtību;
+3) kārtību, kādā sadzīves, ražošanas, būvniecības vai bīstamo atkritumu pārstrādes, reģenerācijas vai apglabāšanas darbību veicējs apliecina pārvadājuma saņemšanu;
+4) kārtību, kādā atkritumu pārstrādes, reģenerācijas vai apglabāšanas iekārtas operators paziņo par sadzīves, ražošanas, būvniecības vai bīstamo atkritumu saņemšanu pārstrādei, reģenerācijai vai apglabāšanai;
+5) kārtību, kādā atkritumu tirgotājs vai atkritumu apsaimniekošanas starpnieks nodrošina pārvadāto sadzīves, ražošanas, būvniecības vai bīstamo atkritumu uzskaiti atkritumu pārvadājumu uzskaites valsts informācijas sistēmā;
+6) atkritumu pārvadājumu uzskaites valsts informācijas sistēmas saturu un informācijas sistēmā iekļauto datu apstrādes (iesniegšanas, aktualizācijas, glabāšanas, pieprasīšanas un izsniegšanas) noteikumus un kārtību.
 (3) Ja uzskaiti atkritumu pārvadājumu uzskaites valsts informācijas sistēmā nodrošina komersants uz deleģējuma līguma pamata, šis komersants atrodas Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā.

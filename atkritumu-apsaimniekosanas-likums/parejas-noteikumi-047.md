@@ -1,0 +1,1 @@
+47. Šā likuma 12.¹ panta piektajā daļā minēto finanšu nodrošinājumu atkritumu tirgotājs vai atkritumu apsaimniekošanas starpnieks, kurš ir reģistrēts Valsts vides dienestā līdz 2020. gada 30. decembrim, iesniedz Valsts vides dienestam līdz 2021. gada 31. martam.

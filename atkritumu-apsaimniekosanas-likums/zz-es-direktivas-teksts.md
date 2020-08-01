@@ -21,4 +21,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 20) Eiropas Parlamenta un Padomes 2006.gada 6.septembra direktīvas 2006/66/EK par baterijām un akumulatoriem un bateriju un akumulatoru atkritumiem, ar ko atceļ direktīvu 91/157/EEK;
 21) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/98/EK par atkritumiem un par dažu direktīvu atcelšanu (dokuments attiecas uz EEZ);
 22) Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvas 2009/31/EK par oglekļa dioksīda ģeoloģisko uzglabāšanu un grozījumiem Padomes direktīvā 85/337/EEK, Eiropas Parlamenta un Padomes direktīvās 2000/60/EK, 2001/80/EK, 2004/35/EK, 2006/12/EK, 2008/1/EK un regulā (EK) Nr. 1013/2006;
-23) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija direktīvas 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem (EEIA).
+23) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija direktīvas 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem (EEIA);
+24) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/849, ar ko groza direktīvas 2000/53/EK par nolietotiem transportlīdzekļiem, 2006/66/EK par baterijām un akumulatoriem, un bateriju un akumulatoru atkritumiem un 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem;
+25) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/850, ar ko groza direktīvu 1999/31/EK par atkritumu poligoniem;
+26) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/851, ar ko groza direktīvu 2008/98 par atkritumiem.

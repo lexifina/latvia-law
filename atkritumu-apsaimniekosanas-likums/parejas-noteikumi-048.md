@@ -1,0 +1,1 @@
+48. Šā likuma 23. panta ceturtajā daļā minētie sadzīves, ražošanas, būvniecības vai bīstamo atkritumu valdītāji vai atkritumu apsaimniekotāji, kā arī šā likuma 17.¹ panta pirmajā daļā minētie atkritumu pārstrādes, reģenerācijas vai apglabāšanas iekārtu operatori pārvadājumu un atkritumu saņemšanas paziņošanu uzsāk ar 2020. gada 30. decembri.

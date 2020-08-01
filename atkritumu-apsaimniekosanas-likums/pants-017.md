@@ -3,6 +3,7 @@
 2) uzglabā bīstamos atkritumus vai ražošanas atkritumus tā, lai tie neapdraudētu vidi, cilvēku dzīvību un veselību, kā arī personu mantu;
 3) nogādā bīstamos atkritumus vai ražošanas atkritumus speciāli aprīkotās bīstamo atkritumu vai ražošanas atkritumu savākšanas vietās vai slēdz līgumu ar attiecīgo atkritumu apsaimniekotāju par bīstamo atkritumu vai ražošanas atkritumu apsaimniekošanu;
 4) sedz bīstamo atkritumu vai ražošanas atkritumu apsaimniekošanas izmaksas.
+(1¹) Bīstamo atkritumu vai ražošanas atkritumu sākotnējais radītājs, valdītājs vai bijušais valdītājs sedz visas bīstamo atkritumu vai ražošanas atkritumu apsaimniekošanas izmaksas, tai skaitā par nepieciešamo infrastruktūru un tās darbību.
 (2) Ražošanas atkritumu radītājs par radīto ražošanas atkritumu apsaimniekošanu var slēgt līgumu ar šā likuma 18.panta pirmajā daļā minēto atkritumu apsaimniekotāju.
 (3) Šā panta pirmās daļas 3.punktā un otrajā daļā minētajā līgumā norāda attiecīgo atkritumu reģenerācijas vai apglabāšanas iekārtas.
 (4) Bīstamo atkritumu vai ražošanas atkritumu apsaimniekotājs organizē speciāli aprīkotas bīstamo atkritumu vai ražošanas atkritumu savākšanas vietas.
