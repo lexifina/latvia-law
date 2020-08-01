@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Dabas resursu nodokļa likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-21",
+  "entry_into_force": "2020-08-01",
+  "notification_date": "2020-08-05",
+  "commission_reference": "MNE(2020)55963",
+  "nim_celex": "72018L0852LVA_286983",
+  "nim_id": "286983",
+  "transposes_celex": [
+    "32018L0852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1e24aeb6-d882-11ea-adf7-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
