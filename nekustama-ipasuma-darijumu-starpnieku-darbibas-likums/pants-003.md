@@ -1,0 +1,3 @@
+3. pants. Likuma darbības joma un piemērošanas izņēmumi
+(1) Likums attiecas uz visām privātpersonām, kuras vēlas sniegt vai sniedz starpniecības pakalpojumus.
+(2) Uz zvērinātiem notāriem, zvērinātiem advokātiem, zvērinātiem tiesu izpildītājiem, zvērinātiem revidentiem, zvērinātu revidentu komercsabiedrībām, maksātnespējas procesa administratoriem un publiskas personas kapitālsabiedrībām, kas atbilstoši Publiskas personas mantas atsavināšanas likumam atsavina publiskas personas mantu vai atbilstoši Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumam pārvalda publiskas personas nekustamo īpašumu, attiecas tikai šā likuma 10. un 11. pants un 12. panta pirmā daļa.

@@ -1,0 +1,1 @@
+3. Šā likuma 13. pants un 14. panta trešā daļa stājas spēkā 2020. gada 1. oktobrī. Ministru kabinets līdz 2020. gada 30. septembrim izdod šā likuma 13. pantā un 14. panta trešajā daļā minētos noteikumus.

@@ -1,0 +1,1 @@
+2. Līdz dienai, kad stājas spēkā attiecīgi grozījumi citos normatīvajos aktos, tajos lietotais teksts "personas, kas darbojas kā aģenti vai starpnieki darījumos ar nekustamo īpašumu" atbilst šajā likumā lietotajam terminam "nekustamā īpašuma darījumu starpnieks".

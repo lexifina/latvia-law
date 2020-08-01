@@ -1,0 +1,3 @@
+11. pants. Informācijas sniegšana
+(1) Nekustamā īpašuma darījumu starpnieks starpniecības pakalpojumos sniedz vispusīgu un patiesu informāciju par attiecīgo nekustamo īpašumu un nekustamā īpašuma darījumu - ne tikai par darījuma būtiskajām sastāvdaļām, bet arī par nekustamā īpašuma trūkumiem, nastām, apgrūtinājumiem un nodokļiem, kā arī citu būtisku informāciju, kas varētu ietekmēt nekustamā īpašuma darījuma noslēgšanu.
+(2) Ja nekustamā īpašuma darījumu starpniekam bijuši zināmi nekustamā īpašuma trūkumi vai viņam tos vajadzēja zināt un viņš par tiem nav sniedzis atbilstošu informāciju, viņš ir atbildīgs par kaitējumu, kas rodas nekustamā īpašuma trūkumu dēļ.
