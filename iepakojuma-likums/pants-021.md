@@ -1,2 +1,3 @@
 21. pants. (1) Iepakojuma ražotāja, iepakotāja, iepakojuma apsaimniekotāja un depozīta iepakotāja darbību atbilstoši šajā likumā noteiktajām prasībām kontrolē Valsts vides dienests.
 (2) Depozīta sistēmas operatora darbību atbilstoši šajā likumā noteiktajām prasībām kontrolē Valsts vides dienests un regulators attiecībā uz regulējamā pakalpojuma sniegšanu.
+(3) Vides aizsardzības un reģionālās attīstības ministrija katru gadu izvērtē izlietotā iepakojuma pārstrādes mērķu izpildi, ja nepieciešams, lūdz izlietotā iepakojuma pārstrādes mērķu izpildes termiņa pagarināšanu un sagatavo īstenošanas plānu iesniegšanai Eiropas Komisijā. Ministru kabinets nosaka prasības attiecībā uz īstenošanas plāna saturu un termiņu plāna iesniegšanai Eiropas Komisijā.

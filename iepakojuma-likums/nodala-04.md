@@ -1,3 +1,2 @@
 IV nodaļa
-Informācija par saražotā
-un izlietotā iepakojuma apjomu un veidu
+Informācijas sistēmas un ziņošana

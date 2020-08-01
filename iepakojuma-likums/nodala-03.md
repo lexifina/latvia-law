@@ -1,2 +1,2 @@
 III nodaļa
-Izlietotā iepakojuma apsaimniekošana
+Izlietotā iepakojuma rašanās novēršana un apsaimniekošana
