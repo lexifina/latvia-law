@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 28. jūlija noteikumi Nr. 472 \"Grozījumi Ministru kabineta 2010. gada 19. oktobra noteikumos Nr. 983 \"Noteikumi par izlietotā iepakojuma reģenerācijas procentuālo apjomu, reģistrēšanas un ziņojumu sniegšanas kārtību un iepakojuma definīcijas kritēriju piemērošanas piemēriem\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2020-07-31",
+  "entry_into_force": "2020-08-01",
+  "notification_date": "2020-08-03",
+  "commission_reference": "MNE(2020)55915",
+  "nim_celex": "72018L0852LVA_286880",
+  "nim_id": "286880",
+  "transposes_celex": [
+    "32018L0852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/23df3470-d882-11ea-adf7-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
