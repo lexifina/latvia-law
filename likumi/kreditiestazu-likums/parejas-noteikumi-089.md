@@ -1,0 +1,1 @@
+89. Šo pārejas noteikumu 88. punktā minētās kreditora tiesības attiecas arī uz galvojuma saistībām. Dzēšamo saistību apmērā ietilpst galvojuma saistības, ja galvojums sniegts par saistībām, kas atbilst attiecīgajā punktā noteiktajam.

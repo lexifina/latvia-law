@@ -1,0 +1,1 @@
+92. Kredītiestāde saskaņā ar šā likuma 34.¹ un 34.² pantu apstiprina uz objektīviem un pamatotiem kritērijiem balstītu politiku un procedūru aizdevumu (kredītu) saistību vienpusējai dzēšanai, tostarp pilnīgai vai daļējai saistību dzēšanai, un publicē to kredītiestādes mājaslapā internetā.

@@ -1,0 +1,1 @@
+90. Šo pārejas noteikumu 88. punktā minētās tiesības ir arī personai, kurai kredītiestāde cedējusi 88. punktā minētās saistības. Persona, kurai cedētas attiecīgās saistības, ir tiesīga izmantot šo pārejas noteikumu 92. punktā minēto politiku.

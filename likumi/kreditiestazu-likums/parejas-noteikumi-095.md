@@ -1,0 +1,1 @@
+95. Kredītiestāde vai persona, kurai kredītiestāde cedējusi šo pārejas noteikumu 88. punktā minētās saistības, reizi gadā informē Valsts ieņēmumu dienestu par personām, kuru saistības tā ir vienpusēji dzēsusi, un par šīm personām dzēsto saistību apmēru.

@@ -1,0 +1,1 @@
+96. Šo pārejas noteikumu 88., 89., 90., 91., 92., 93., 94. un 95. punktā ietvertās tiesību normas, kas paredz tiesības un pienākumus saistībā ar aizdevuma (kredīta) vienpusēju dzēšanu, piemērojamas līdz 2022. gada 31. decembrim.

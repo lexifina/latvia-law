@@ -1,0 +1,1 @@
+94. Paziņojumu par saistību vienpusēju dzēšanu kreditors nosūta Kredītu reģistram un tam kredītinformācijas birojam, kura dalībnieks tas ir, kā arī parādniekam (aizņēmējam vai galviniekam) uz to adresi, kas kreditoram ir pieejama.
