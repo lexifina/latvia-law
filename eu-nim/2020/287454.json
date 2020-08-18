@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada 11. augusta Ministru kabineta noteikumi Nr. 519 Depozīta sistēmas darbības noteikumi",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "157",
+  "official_journal_page": null,
+  "official_journal_date": "2020-08-17",
+  "entry_into_force": "2020-08-18",
+  "notification_date": "2020-08-17",
+  "commission_reference": "MNE(2020)56190",
+  "nim_celex": "72018L0852LVA_287454",
+  "nim_id": "287454",
+  "transposes_celex": [
+    "32018L0852"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/efea7038-e37c-11ea-ad25-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
