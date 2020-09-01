@@ -1,1 +1,5 @@
 59.⁶ pants. Šīs nodaļas darbības joma
+(1) Šīs nodaļas prasības attiecas uz kapitālsabiedrību, kuras juridiskā adrese ir Latvijas Republikā un kuras akcijas ir iekļautas dalībvalsts regulētajā tirgū (turpmāk šajā nodaļā - kapitālsabiedrība), kā arī uz finanšu instrumentu konta uzturētāju, kurš sniedz kapitālsabiedrības akciju turēšanas pakalpojumus.
+(2) Par finanšu instrumentu konta uzturētāju šīs nodaļas izpratnē uzskatāms centrālais vērtspapīru depozitārijs, kredītiestāde, ieguldījumu brokeru sabiedrība, kā arī cita persona, kas sniedz finanšu instrumentu konta uzturēšanas un kapitālsabiedrības akciju turēšanas pakalpojumus neatkarīgi no tās juridiskās adreses vai galvenā biroja atrašanās vietas.
+(3) Ja kapitālsabiedrības akcijas tur ar vairāku finanšu instrumentu konta uzturētāju starpniecību, finanšu instrumentu konta uzturētājs, ja tam ir līgums ar citu finanšu instrumentu konta uzturētāju, kura juridiskā adrese vai galvenā biroja atrašanās vieta neatrodas dalībvalstī, šajā līgumā iekļauj noteikumus, kas nodrošina šīs nodaļas noteikumu izpildi.
+(4) Šīs nodaļas noteikumu izpildi uzrauga Komisija.
