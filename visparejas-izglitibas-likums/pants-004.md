@@ -15,7 +15,7 @@ Ministru kabinets:
 9) nosaka kārtību, kādā izglītojamie atbrīvojami no noteiktajiem valsts pārbaudījumiem;
 10) (izslēgts ar 16.06.2005. likumu);
 11) nosaka valsts vispārējās izglītības standartus un mācību priekšmetu standartus;
-11¹) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
+11¹) nosaka vispārējās izglītības mācību jomu nosaukumus;
 12) katru mācību gadu atbilstoši valsts vispārējās izglītības standartiem nosaka valsts pārbaudes darbu norises laiku un kārtību;
 12¹) nosaka kārtību, kādā svešvalodas centralizēto eksāmenu vispārējās vidējās izglītības programmā aizstāj ar starptautiskas testēšanas institūcijas pārbaudījumu svešvalodā, un apstiprina starptautisko testēšanas institūciju sarakstu, nosaka šo testēšanas institūciju izdotajos dokumentos norādīto pārbaudījumu vērtējumu atbilstību svešvalodas centralizētā eksāmena vērtējumam;
 13) nosaka mācību sasniegumu vērtēšanas kārtību speciālās izglītības programmās;
