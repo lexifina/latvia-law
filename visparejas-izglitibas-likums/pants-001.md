@@ -5,9 +5,9 @@
 2) atestāts par vispārējo vidējo izglītību - izglītības dokuments, kas apliecina vispārējās vidējās izglītības programmas apguvi;
 3) liecība - dokuments, kas apliecina pamatizglītības vai vispārējās vidējās izglītības programmas daļas apguvi;
 4) (izslēgts ar 09.07.2013. likumu);
-4¹) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
-4²) (punkts stājas spēkā 01.09.2020. un iekļauts likuma redakcijā uz 01.09.2019. Sk. Pārejas noteikumu 27. punktu);
-5) mācību priekšmets - noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības;
+4¹) mācību joma - saturiski saistītu mācību priekšmetu kopums, kas ietver būtiskākās zināšanas, prasmes un attieksmes nozīmīgos cilvēka darbības virzienos;
+4²) mācību organizācijas forma - noteiktā kārtībā notiekoša pedagoga un izglītojamā sadarbība, kas reglamentē pedagoga un izglītojamā kopīgo darbību un ir īstenojama kā mācību stunda, rotaļnodarbība, praktikums, spēle, rotaļa, nodarbība dabā vai mācību ekskursija;
+5) mācību priekšmets - noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības. Mācību priekšmetus apvieno mācību jomās;
 6) mācību stundu (nodarbību) slodze - izglītības programmā ietvertais regulāri apmeklējamo mācību stundu skaits mācību nedēļā;
 7) (izslēgts no 01.09.2019. ar 21.06.2018. likumu. Sk. Pārejas noteikumu 35. punktu);
 8) sociālā korekcija - izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm;

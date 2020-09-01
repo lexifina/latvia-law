@@ -1,0 +1,2 @@
+42.¹ pants. Vispārējās vidējās izglītības programma
+Vispārējās vidējās izglītības programmu izglītības iestāde īsteno atbilstoši valsts vispārējās vidējās izglītības standartā noteiktajam izglītības programmas paraugam. Izglītības iestāde ir tiesīga izstrādāt izglītības programmu un noteikt mācību priekšmetus, kuros mācību stundu skaits pārsniedz valsts vispārējās vidējās izglītības programmas paraugā attiecīgajam mācību priekšmetam noteikto minimālo stundu skaitu, kā arī papildus izglītības programmas paraugā noteiktajam iekļaut citus tajā neminētus mācību priekšmetus.

@@ -5,4 +5,4 @@
 3) mācību satura apguves secība un apguvei paredzētais laiks;
 4) mācību sasniegumu vērtēšanas formas un metodiskie paņēmieni;
 5) mācību satura apguvei izmantojamo mācību līdzekļu un metožu uzskaitījums.
-(2) Pedagogam ir tiesības izstrādāt mācību priekšmeta programmu atbilstoši vispārējās izglītības mācību priekšmeta standartam un vispārējās izglītības programmai, kurā ietverts šis mācību priekšmets, vai izraudzīties mācību priekšmeta programmu no mācību priekšmetu programmu paraugiem.
+(2) Pedagogam ir tiesības izstrādāt mācību priekšmeta programmu atbilstoši valsts vispārējās izglītības standartam un vispārējās izglītības programmai, kurā ietverts šis mācību priekšmets, vai izraudzīties mācību priekšmeta programmu no mācību priekšmetu programmu paraugiem.

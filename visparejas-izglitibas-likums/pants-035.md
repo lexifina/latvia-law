@@ -1,2 +1,4 @@
-35.pants. Mācību stundas ilgums pamatizglītības iestādēs
-Mācību stundas ilgums no 1.klases līdz 9.klasei ir 40-45 minūtes. Mācību stundas ilgumu nosaka izglītības iestādes vadītājs.
+35. pants. Mācību stundas ilgums un mācību organizācijas formas pamatizglītības programmās
+(1) Mācību stundas ilgums no 1. klases līdz 9. klasei ir 40 minūtes. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes.
+(2) Mācību organizācijas formas un to ilgumu, izņemot mācību stundas ilgumu, no 1. klases līdz 6. klasei nosaka izglītības iestādes vadītājs, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā.
+(3) Mācību organizācijas pamatforma no 7. klases līdz 9. klasei ir mācību stunda. Izglītības iestādes vadītājs ir tiesīgs noteikt citas mācību organizācijas formas un to ilgumu no 7. klases līdz 9. klasei, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā.

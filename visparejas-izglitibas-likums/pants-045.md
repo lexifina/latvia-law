@@ -1,2 +1,3 @@
-45.pants. Mācību stundas ilgums vispārējās vidējās izglītības iestādēs
-Mācību stundas ilgums vispārējās vidējās izglītības iestādēs ir 40 līdz 45 minūtes, un to nosaka izglītības iestādes vadītājs.
+45. pants. Mācību stundas ilgums un mācību organizācijas formas vispārējās vidējās izglītības programmās
+(1) Mācību stundas ilgums vispārējās vidējās izglītības programmās ir 40 minūtes. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes.
+(2) Mācību organizācijas pamatforma vispārējās vidējās izglītības programmās ir mācību stunda. Izglītības iestādes vadītājs ir tiesīgs noteikt citas mācību organizācijas formas un to ilgumu vidējās izglītības programmās, nepārsniedzot šā likuma 44. pantā noteikto mācību stundu slodzi nedēļā un mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā.
