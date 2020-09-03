@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 1,
+ "datums": "2020-09-03",
+ "ieraksts": {
+  "dkp_id": "b95b56bb-59d5-46d4-9385-a28fb4ce13e9",
+  "lastmodtime": "\"AAAAAAHQ4Gc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Ralfs#Evita#Edgars#Eva#Vladimirs#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Kaspars#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Linda#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Krišjānis#Jānis#Ramona#Linda#Anda#Janīna#Aleksandrs#Krista#Artūrs#Aldis#Janīna#Dana#Aldis#Juris",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Nemiro#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Ozola#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Feldmans#Tutins#Petraviča#Liepiņa#Čakša#Jalinska#Kiršteins#Baumane#Rubiks#Blumbergs#Kursīte-Pakule#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": "JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#KPV LV#JK#SASKAŅA #JK#SASKAŅA #JK# #SASKAŅA #JV#AP!#JK# #SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #SASKAŅA #SASKAŅA #JK#KPV LV#JV#KPV LV#NA#AP!# #JK#KPV LV#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#JK#SASKAŅA #KPV LV# # #ZZS#NA#AP!#SASKAŅA # #NA#ZZS# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "03.09.2020 09:31:27",
+  "VOTEMOTIVE": "Par Latvijas Nacionālo bruņoto spēku karavīru dalību Ziemeļatlantijas līguma organizācijas vadītajā starptautiskajā operācijā Kosovā (KFOR) (439/Lm13)",
+  "VOTING_ID": "1bd0b5be-3179-4602-967e-ae20d3660623",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "3",
+  "VOTERESULT_FOR": "82",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/605f6166-0f4c-4f11-ad92-d3d34e1eb3a3/download/13.saeimas-2020.gada-rudens-sesija-1-vote.xml",
+  "sha256": "9e67d7338756788e9a47ada84386dd8fcd6a9c68baa4454cfc70e53a6e31fd4e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
