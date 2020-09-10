@@ -3,6 +3,7 @@ Izglītības un zinātnes ministrija:
 1) īsteno vienotu valsts politiku un attīstības stratēģiju izglītībā;
 2) izstrādā politikas plānošanas dokumentu un normatīvo aktu projektus izglītības jomā;
 2¹) atbild par Izglītības likumā noteiktā mērķa īstenošanu;
+2²) vada izglītības attīstības pamatnostādnēs noteiktās vienotās valsts politikas un attīstības stratēģijas izglītībā īstenošanu, koordinējot to ar citām izglītības procesā iesaistītajām institūcijām;
 3) nodrošina Valsts izglītības informācijas sistēmas un Valsts pārbaudījumu informācijas sistēmas uzturēšanu un aktualizāciju;
 4) (izslēgts ar 16.06.2009. likumu);
 5) (izslēgts ar 16.06.2009. likumu);

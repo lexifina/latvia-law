@@ -1,0 +1,1 @@
+91. Pēc šā likuma 14. panta 18. punktā izdarītā grozījuma par izglītības attīstības pamatnostādņu apstiprināšanu Ministru kabinetā spēkā stāšanās Ministru kabinets turpmākajiem septiņiem gadiem paredzētās izglītības attīstības pamatnostādnes apstiprina laikposmam no 2021. gada līdz 2027. gadam.
