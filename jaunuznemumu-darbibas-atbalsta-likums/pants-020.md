@@ -6,5 +6,5 @@
 4) nav šajā likumā noteiktajā termiņā sniedzis Komisijai informāciju, kas saistīta ar izmaiņām šā likuma 4. pantā noteiktajos kritērijos;
 5) pēc atkārtota Komisijas lūguma nav sniedzis patiesu un skaidru informāciju un dokumentus, kas apliecinātu tā atbilstību šajā likumā noteiktajiem kritērijiem, vai informāciju par tā veikto komercdarbību un tam piešķirtās atbalsta programmas izmantošanu;
 6) nav izpildījis atbalsta programmu izmantošanas nosacījumus;
-7) atsavinājis īpašuma tiesības uz tādu inovatīvu produktu, uz kura pamata tam tika piešķirta atbalsta programma.
+7) (izslēgts ar 03.09.2020. likumu).
 (2) Jaunuzņēmumam nav tiesību atkārtoti pretendēt uz atbalstu, ja tas iepriekš ir zaudējis tiesības izmantot atbalsta programmu, jo nav Komisijai sniedzis šajā likumā noteikto informāciju vai ir sniedzis nepatiesu informāciju.

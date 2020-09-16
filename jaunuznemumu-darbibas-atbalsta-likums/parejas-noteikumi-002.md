@@ -1,1 +1,1 @@
-2. Ekonomikas ministrija līdz 2020. gada 30. novembrim izvērtē šā likuma praktiskās īstenošanas gaitu un rezultātus, iesniedz attiecīgu ziņojumu Ministru kabinetam un, ja nepieciešams, sagatavo priekšlikumus par šā likuma grozījumiem.
+2. Ekonomikas ministrija izvērtē šā likuma praktiskās īstenošanas gaitu un rezultātus, tai skaitā attiecībā uz atbalstīto jaunuzņēmumu jaunradīto darba vietu skaitu un piesaistīto ieguldījumu apjomu, kā arī līdz 2021. gada 31. decembrim iesniedz Ministru kabinetam attiecīgu ziņojumu un, ja nepieciešams, priekšlikumus par šā likuma grozījumiem.
