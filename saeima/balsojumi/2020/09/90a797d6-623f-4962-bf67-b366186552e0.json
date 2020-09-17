@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 4,
+ "datums": "2020-09-17",
+ "ieraksts": {
+  "dkp_id": "fa0ff6b8-af98-4445-b2f5-25afcaf0c496",
+  "lastmodtime": "\"AAAAAAHSqwE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Ralfs#Edgars#Vladimirs#Didzis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Artuss#Jānis#Inese#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Evija#Boriss#Ļubova#Sandis#Inguna#Arvils#Ieva#Rihards#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Gundars#Jānis#Ramona#Linda#Ivars#Anda#Janīna#Aleksandrs#Krista#Artūrs#Regīna#Dana#Aldis",
+  "SURNAME": "Lejiņš#Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Nemiro#Kucins#Nikonovs#Šmits#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Kaimiņš#Krišāns#Ikstena#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Papule#Cilevičs#Švecova#Riekstiņš#Rībena#Ašeradens#Krapāne#Kols#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Daudze#Tutins#Petraviča#Liepiņa#Zariņš#Čakša#Jalinska#Kiršteins#Baumane#Rubiks#Ločmele-Luņova#Reizniece-Ozola#Gobzems",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "JV#AP!#NA#AP!#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#KPV LV#SASKAŅA #SASKAŅA # # # #JV#AP!# # #SASKAŅA #AP!#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#SASKAŅA #SASKAŅA # #JK# #JV#KPV LV#NA# #KPV LV#JV#SASKAŅA #JV#KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#ZZS#SASKAŅA #KPV LV# #SASKAŅA # #ZZS#NA#AP!#SASKAŅA #SASKAŅA #ZZS# ",
+  "RESULT": "Pret#Pret#Atturas#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Par#Nebalsoja#Par#Pret#Pret#Par#Nebalsoja#Par#Pret#Nebalsoja#Par#Pret#Pret#Pret#Pret#Atturas#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Par#Par#Nebalsoja#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Nebalsoja#Par#Par#Pret#Pret#Nebalsoja#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Par#Nebalsoja#Par#Par#Pret#Pret#Par#Pret#Par#Atturas#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2020 09:44:26",
+  "VOTEMOTIVE": " Par nodošanu Budžeta un finanšu komisijai. Par uzdevumu Ministru kabinetam uz laiku apturēt Valsts ieņēmumu dienesta īstenoto dīkstāves pabalstu atprasīšanu no nodokļu maksātājiem (446/Lm13)",
+  "VOTING_ID": "90a797d6-623f-4962-bf67-b366186552e0",
+  "VOTERESULT_ABSTAIN": "3",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "35",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "8",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f47401b3-3d4b-439f-a741-e0727339a098/download/13.saeimas-2020.gada-rudens-sesija-4-vote.xml",
+  "sha256": "d391c929060a26a690194a8d1dcb51d4471617cdcec4980371384ce0602500f7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
