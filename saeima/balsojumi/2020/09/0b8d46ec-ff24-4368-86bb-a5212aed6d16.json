@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 4,
+ "datums": "2020-09-17",
+ "ieraksts": {
+  "dkp_id": "69adcdaa-4c55-4d56-b550-6567ac3585a8",
+  "lastmodtime": "\"AAAAAAHS/IY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Uldis#Mārtiņš#Ilze#Dace#Romāns#Ivans#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Andris#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Rihards#Iveta#Janīna#Edmunds#Armands#Jānis#Inese#Marija#Daniels#Igors#Juris#Boriss#Ļubova#Sandis#Inguna#Arvils#Rihards#Linda#Atis#Ojārs Ēriks#Valērijs#Ēriks#Jānis#Mārtiņš#Dace#Andrejs#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Krišjānis#Ramona#Ivars#Anda#Aleksandrs#Krista#Artūrs#Regīna#Juris",
+  "SURNAME": "Budriķis#Šteins#Indriksone#Rukšāne-Ščipčinska#Naudiņš#Ribakovs#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Kazinovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Krauze#Iesalnieks#Voika#Golubeva#Pavļuts#Pimenovs#Rancāns#Cilevičs#Švecova#Riekstiņš#Rībena#Ašeradens#Kols#Ozola#Zakatistovs#Kalniņš#Agešins#Pucens#Dombrava#Bondars#Bluķe#Judins#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Feldmans#Petraviča#Zariņš#Čakša#Kiršteins#Baumane#Rubiks#Ločmele-Luņova#Jurašs",
+  "VOTEDEPSUFFIX": "##################################################################",
+  "FRACTION": "JK#AP!#NA#AP!#NA#SASKAŅA #KPV LV#JK#JK#SASKAŅA #JK#SASKAŅA #JK# #JV#AP!# #JK# #SASKAŅA #AP!#JK#JK#SASKAŅA #JV#KPV LV#KPV LV#NA#ZZS#NA#AP!#AP!#AP!#SASKAŅA #JK#SASKAŅA # #JK# #JV#NA#JK#KPV LV#JV#SASKAŅA #KPV LV#NA#AP!#AP!#JV#SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#KPV LV#SASKAŅA # #NA#AP!#SASKAŅA #SASKAŅA #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2020 13:34:39",
+  "VOTEMOTIVE": "Grozījums Uzņēmumu ienākuma nodokļa likumā (708/Lp13), 1.lasījums",
+  "VOTING_ID": "0b8d46ec-ff24-4368-86bb-a5212aed6d16",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "59",
+  "VOTERESULT_REGISTERED": "67",
+  "VOTE_NUMBER": "29",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f47401b3-3d4b-439f-a741-e0727339a098/download/13.saeimas-2020.gada-rudens-sesija-4-vote.xml",
+  "sha256": "d391c929060a26a690194a8d1dcb51d4471617cdcec4980371384ce0602500f7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
