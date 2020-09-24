@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 4,
+ "datums": "2020-09-24",
+ "ieraksts": {
+  "dkp_id": "20a1986a-b39b-4cce-b54b-0a5e39d37652",
+  "lastmodtime": "\"AAAAAAHTr40=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Andris#Romāns#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Didzis#Jānis#Andris#Vjačeslavs#Ainars#Artūrs Toms#Karina#Gatis#Artuss#Jānis#Inese#Anita#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Inese#Marija#Nikolajs#Daniels#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Inguna#Arvils#Ieva#Rihards#Ilmārs#Jūlija#Linda#Atis#Valērijs#Ēriks#Andrejs#Māris#Jānis#Mārtiņš#Viktors#Dace#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Gundars#Krišjānis#Jānis#Anda#Janīna#Aleksandrs#Krista#Aldis#Janīna#Regīna#Dana#Aldis#Juris",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Kazinovskis#Dombrovskis#Latkovskis#Plešs#Sprūde#Eglītis#Kaimiņš#Krišāns#Ikstena#Muižniece#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Voika#Golubeva#Kabanovs#Pavļuts#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Rībena#Ašeradens#Krapāne#Kols#Dūrītis#Stepaņenko#Ozola#Zakatistovs#Agešins#Pucens#Klementjevs#Kučinskis#Dombrava#Bondars#Valainis#Bluķe#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Daudze#Feldmans#Tutins#Čakša#Jalinska#Kiršteins#Baumane#Blumbergs#Kursīte-Pakule#Ločmele-Luņova#Reizniece-Ozola#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "JV#JK#AP!#NA#NA#AP!#NA#SASKAŅA #KPV LV#AP!#KPV LV#JK#JK#SASKAŅA #JK#SASKAŅA # #JK# # #JV#AP!# #JK# #SASKAŅA #AP!#JK#JK#SASKAŅA #JV#JV#KPV LV#KPV LV#NA#ZZS#ZZS#NA#AP!#AP!#SASKAŅA #AP!#SASKAŅA #NA#JK#SASKAŅA #SASKAŅA # #JK# #JV#KPV LV#NA#AP!# #JK#KPV LV#SASKAŅA #KPV LV#SASKAŅA #ZZS#NA#AP!#ZZS#AP!#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#ZZS#JK#SASKAŅA # #ZZS#NA#AP!# #NA#SASKAŅA #ZZS# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Pret#Par#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Par#Nebalsoja#Par#Pret#Par#Par#Par#Pret#Atturas#Par#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Pret#Atturas#Par#Par#Atturas#Par#Par#Pret#Pret#Par#Atturas#Pret#Par#Pret#Nebalsoja#Par#Par#Nebalsoja#Par#Pret#Par#Atturas#Par#Par#Par#Nebalsoja#Pret#Atturas#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2020 09:28:06",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.22. Dzīvojamo telpu īres likums (144/Lp13), 2.lasījums",
+  "VOTING_ID": "9bc83302-9758-45d0-aa78-7343f299590c",
+  "VOTERESULT_ABSTAIN": "8",
+  "VOTERESULT_AGAINST": "17",
+  "VOTERESULT_FOR": "55",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "61",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f47401b3-3d4b-439f-a741-e0727339a098/download/13.saeimas-2020.gada-rudens-sesija-4-vote.xml",
+  "sha256": "d391c929060a26a690194a8d1dcb51d4471617cdcec4980371384ce0602500f7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
