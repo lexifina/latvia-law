@@ -1,0 +1,1 @@
+1. pants. 2019. gada 30. jūnijā Hanojā parakstītais Ieguldījumu aizsardzības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Vjetnamas Sociālistisko Republiku, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.

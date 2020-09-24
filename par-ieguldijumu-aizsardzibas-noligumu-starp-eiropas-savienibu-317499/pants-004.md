@@ -1,0 +1,1 @@
+4. pants. Ar Nolīguma spēkā stāšanos spēku zaudē likums " Par Latvijas Republikas valdības un Vjetnamas Sociālistiskās Republikas valdības līgumu par ieguldījumu veicināšanu un aizsardzību " (Latvijas Vēstnesis, 1996, 30. nr.).
