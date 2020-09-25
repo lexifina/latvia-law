@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 22. septembra noteikumi Nr. 588 \"Ekonomikas ministrijas nolikums\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-24",
+  "entry_into_force": "2020-09-25",
+  "notification_date": "2025-05-07",
+  "commission_reference": "MNE(2025)02463",
+  "nim_celex": "72023L1791LVA_202502463",
+  "nim_id": "202502463",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f66a2bfd-27c6-43ee-b9c0-78c788de871f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
