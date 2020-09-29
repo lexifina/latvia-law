@@ -1,3 +1,4 @@
 54.² pants. Augstākās tiesas tiesneša amata kandidāta atlases, stažēšanās un kvalifikācijas eksāmena kārtošanas kārtība
 (1) Augstākās tiesas tiesneša amata kandidātu atlases, stažēšanās un kvalifikācijas eksāmena kārtošanas kārtību nosaka Tieslietu padome un publicē oficiālajā izdevumā "Latvijas Vēstnesis".
+(1¹) Šā panta pirmajā daļā noteiktā atlase tiek rīkota, ja šā likuma 54. panta trešajā daļā minētās personas nav izteikušas vēlmi pretendēt uz Augstākās tiesas tiesneša amatu vai ir izteikušas vēlmi pretendēt uz Augstākās tiesas tiesneša amatu, bet nav saņēmušas pozitīvu Augstākās tiesas departamenta tiesnešu kopsapulces atzinumu.
 (2) Kandidāts, kas nav nokārtojis kvalifikācijas eksāmenu, atkārtoti pretendēt uz tiesneša amatu var ne agrāk kā pēc gada. Gada termiņu sāk skaitīt ar dienu, kad tiesneša amata kandidāts saņēmis atteikumu attiecībā uz viņa kandidatūras virzīšanu tiesneša amatam.
