@@ -3,7 +3,7 @@
 1) šā likuma 34.pantā noteikto ierobežojumu pārkāpšanu;
 2) darba pienākumu nepildīšanu;
 3) necienīgu rīcību;
-4) administratīvu pārkāpumu.
+4) (izslēgts ar 03.09.2020. likumu).
 (2) Disciplinārlietu var ierosināt Satversmes tiesas priekšsēdētājs, viņa vietnieks vai ne mazāk kā trīs Satversmes tiesas tiesneši.
 (3) Disciplinārlietu izskatīšanai sagatavo Satversmes tiesas priekšsēdētāja vai viņa vietnieka norīkots tiesnesis.
 (4) Disciplinārlietu izskata Satversmes tiesa pilnā sastāvā, piedaloties visiem Satversmes tiesas tiesnešiem, kurus veselības stāvoklis vai citi objektīvi apstākļi nekavē piedalīties tiesas sēdē. Tiesnesis, attiecībā uz kuru disciplinārlieta ierosināta, nav tiesas sastāvā. Tiesas sastāvā šajā gadījumā nedrīkst būt mazāk par četriem tiesnešiem. Sēdi vada Satversmes tiesas priekšsēdētājs vai viņa vietnieks.

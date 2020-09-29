@@ -1,4 +1,5 @@
 40.pants. Satversmes tiesas amatpersonas un darbinieki
 (1) Satversmes tiesas priekšsēdētājs budžeta ietvaros nosaka Satversmes tiesas iekšējo struktūru, amatpersonu un darbinieku amatu sarakstu, kā arī amatpersonu, kas nodrošina tiesas administratīvo darbu (lietvedības organizēšana, personālvadība, finanšu vadība, materiāltehniskais nodrošinājums u.tml.) un atbild par to.
+(1¹) Satversmes tiesas administratīvo darbu organizē un nodrošina Administrācijas vadītājs. Administrācijas vadītāja padotībā ir visas uz darba līguma pamata strādājošās Satversmes tiesas amatpersonas un darbinieki.
 (2) Satversmes tiesas amatpersonu un darbinieku darba attiecības regulē Darba likums. Satversmes tiesas tiesneša palīgu pieņem darbā uz Satversmes tiesas tiesneša pilnvaru laiku, bet Satversmes tiesas priekšsēdētāja padomnieku un palīgu - uz Satversmes tiesas priekšsēdētāja pilnvaru laiku.
 (3) Satversmes tiesas amatpersonu un darbinieku atlīdzību (piemēram, mēnešalgu, piemaksas, sociālās garantijas) nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
