@@ -6,5 +6,8 @@
 1) reklāmā attēlot personas smēķējam;
 2) reklāmas nolūkos izplatīt tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces un uzpildes tvertnes bez maksas;
 3) ražot un laist tirgū saldumus, uzkodas, kā arī rotaļlietas un citus par 18 gadiem jaunākām personām pievilcīgus priekšmetus, kas vizuāli atgādina cigaretes vai citus tabakas izstrādājumus, vai elektroniskās smēķēšanas ierīces un var piesaistīt šo personu uzmanību smēķēšanai vai reklamē konkrētus tabakas izstrādājumus vai to ražotājus.
-(5) (Daļa stājas spēkā 01.10.2020. un iekļauta likuma redakcijā uz 01.10.2020. Sk. Pārejas noteikumu 13. punktu)
-(6) (Daļa stājas spēkā 01.10.2020. un iekļauta likuma redakcijā uz 01.10.2020. Sk. Pārejas noteikumu 13. punktu)
+(5) Mazumtirdzniecības vietās ir aizliegts izvietot tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un šo izstrādājumu, produktu, ierīču un tvertņu preču zīmes tā, ka pircēji var šos izstrādājumus, produktus, ierīces, tvertnes un attiecīgās preču zīmes redzēt. Lai nodrošinātu pircēju informēšanu par tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un uzpildes tvertņu pieejamību un cenām, mazumtirdzniecības vietā pēc pircēja pieprasījuma ir pieejama informācijas lapa, kurā norādīts izstrādājuma nosaukums, tā cena un daudzums vienā iepakojuma vienībā.
+(6) Šā panta piektajā daļā minētais aizliegums neattiecas uz:
+1) beznodokļu tirdzniecības veikaliem;
+2) starptautiskajos reisos iesaistītajiem kuģiem;
+3) tādām mazumtirdzniecības vietām, kur laiž tirgū tikai tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un tādas preces, kas saistītas ar smēķēšanu (piemēram, šķiltavas, pīpes, pelnu traukus), ja šīs mazumtirdzniecības vietas atrodas konstruktīvi nodalītās telpās ar atsevišķu ieeju un tabakas izstrādājumi, augu smēķēšanas produkti, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un minēto izstrādājumu, produktu, ierīču un tvertņu preču zīmes nav redzamas ārpus attiecīgās mazumtirdzniecības vietas.
