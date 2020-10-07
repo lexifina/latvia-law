@@ -1,0 +1,1 @@
+1. pants. 2018. gada 19. oktobrī Briselē parakstītais Partnerības un sadarbības nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Singapūras Republiku, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
