@@ -28,7 +28,7 @@ Likumā ir iekļautas tiesību normas, kas izriet no:
 27) (izslēgts ar 12.11.2015. likumu);
 28) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/95/ES par standartiem, lai trešo valstu valstspiederīgos vai bezvalstniekus kvalificētu kā starptautiskās aizsardzības saņēmējus, par bēgļu vai personu, kas tiesīgas saņemt alternatīvo aizsardzību, vienotu statusu, un par piešķirtās aizsardzības saturu;
 29) Eiropas Parlamenta un Padomes 2005.gada 7.septembra direktīvas 2005/36/EK par profesionālo kvalifikāciju atzīšanu (dokuments attiecas uz EEZ);
-30) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra direktīvas 2007/59/EK par to vilcienu vadītāju sertifikāciju, kuri vada lokomotīves un vilcienus Kopienas dzelzceļu sistēmā;
+30) (izslēgts ar 10.09.2020. likumu);
 31) Eiropas Parlamenta un Padomes 2013.gada 20.novembra direktīvas Nr.2013/55/ES, ar ko groza direktīvu 2005/36/EK par profesionālo kvalifikāciju atzīšanu un regulu (ES) Nr. 1024/2012 par administratīvo sadarbību, izmantojot Iekšējā tirgus informācijas sistēmu (IMI regulu) (Dokuments attiecas uz EEZ);
 32) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/106/EK par jūrnieku minimālo sagatavotības līmeni un Eiropas Parlamenta un Padomes 2012.gada 21.novembra direktīvas 2012/35/ES, ar ko groza direktīvu 2008/106/EK par jūrnieku minimālo sagatavotības līmeni;
 33) Eiropas Parlamenta un Padomes 2014. gada 15. maija direktīvas 2014/66/ES par ieceļošanas un uzturēšanās nosacījumiem trešo valstu valstspiederīgajiem saistībā ar pārcelšanu uzņēmuma ietvaros.

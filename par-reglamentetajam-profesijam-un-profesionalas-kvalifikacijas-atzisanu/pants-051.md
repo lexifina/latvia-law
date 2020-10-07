@@ -1,3 +1,2 @@
-51. pants. Ārvalstīs iegūtās profesionālās kvalifikācijas atzīšana dzelzceļa un jūrniecības jomas profesijās
-(1) Dzelzceļa un jūrniecības jomas profesijās, kurām kvalifikācijas prasības nosaka Saeimas apstiprinātie starptautiskie līgumi un Eiropas Savienības tiesību akti, ārvalstīs iegūto profesionālo kvalifikāciju atzīst saskaņā ar šiem līgumiem un Eiropas Savienības tiesību aktiem.
-(2) Eiropas Savienības dalībvalsts izsniegtā vilces līdzekļa vadītāja (mašīnista) kvalifikācijas un kompetences apliecība ir izmantojama, neveicot šajā likumā noteiktās profesionālās kvalifikācijas atzīšanas procedūras, bet ievērojot Dzelzceļa likumā noteiktās prasības.
+51. pants. Ārvalstīs iegūtās profesionālās kvalifikācijas atzīšana jūrniecības profesijās
+Jūrniecības profesijās, kurām kvalifikācijas prasības nosaka Saeimas apstiprinātie starptautiskie līgumi un Eiropas Savienības tiesību akti, ārvalstīs iegūto profesionālo kvalifikāciju atzīst saskaņā ar šiem līgumiem un Eiropas Savienības tiesību aktiem.

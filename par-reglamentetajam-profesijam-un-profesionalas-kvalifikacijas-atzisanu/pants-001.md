@@ -9,6 +9,7 @@ Likumā ir lietoti šādi termini:
 a) personas izglītība, par kuru neizsniedz augstākās izglītības diplomu, diplomu par pirmā līmeņa profesionālo augstāko izglītību vai profesionālās izglītības atestātu šā likuma izpratnē, vai
 b) to personas spēju, pieredzes un zināšanu pozitīvs novērtējums, kuras nepieciešamas, lai varētu veikt patstāvīgu darbību attiecīgajā profesijā;
 5) kvalifikācijas atbilstības pārbaude - pretendenta profesionālo zināšanu novērtēšana, kuru veic institūcijas, kas izsniedz profesionālās kvalifikācijas atzīšanas apliecības reglamentētajās profesijās. Pārbaudes mērķis ir novērtēt pretendenta spējas darboties reglamentētajā profesijā Latvijas Republikā;
+5¹) likumīgā statusa valsts - valsts, kurā pretendentam ir tiesības veikt profesionālo darbību;
 6) mītnes valsts - valsts, kurā pretendents ieguvis profesionālo kvalifikāciju. Ja Eiropas Savienības dalībvalsts pilsonis profesionālo kvalifikāciju pilnīgi vai daļēji ieguvis ārpus Eiropas Savienības, par mītnes valsti uzskata Eiropas Savienības dalībvalsti, kurā šī profesionālā kvalifikācija atzīta pirmo reizi;
 7) pašnodarbināta persona - persona, kas darba ienākumus gūst patstāvīgi, neiesaistoties kā darbinieks darba tiesiskajās attiecībās ar darba devēju un neieņemot amatu, kas dod tiesības uz atlīdzību;
 8) (izslēgts ar 17.07.2008. likumu);

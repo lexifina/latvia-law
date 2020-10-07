@@ -1,0 +1,1 @@
+9. Grozījumi par šā likuma 9. panta pirmās daļas 4. punkta izteikšanu jaunā redakcijā, 14. panta trešās daļas papildināšanu ar 3. punktu, 14. panta ceturtās daļas izteikšanu jaunā redakcijā un 49. panta pirmās daļas 3. punkta izteikšanu jaunā redakcijā stājas spēkā 2022. gada 1. janvārī.

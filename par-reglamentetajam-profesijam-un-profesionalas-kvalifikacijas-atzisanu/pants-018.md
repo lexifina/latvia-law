@@ -1,9 +1,6 @@
 18.pants. Reglamentētās profesijas transporta jomā
 (1) (Izslēgta ar 11.04.2019. likumu)
-(2) Dzelzceļa transporta jomā reglamentētās profesijas, kurās kvalifikācijas prasības nosaka akreditētas izglītības programmas un likumā noteiktajos gadījumos - profesionālās sertifikācijas noteikumi, ir šādas:
-1) vilces līdzekļa vadītājs (mašīnists) instruktors;
-2) vilces līdzekļa vadītājs (mašīnists);
-3) vilces līdzekļa vadītāja (mašīnista) palīgs.
+(2) (Izslēgta ar 10.09.2020. likumu)
 (3) Jūrniecības jomā reglamentētās profesijas ir šādas:
 1) kuģa vadītājs;
 2) kuģa mehāniķis;

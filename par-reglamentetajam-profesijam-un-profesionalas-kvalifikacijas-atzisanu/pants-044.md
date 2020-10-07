@@ -5,15 +5,21 @@
 3) pretendenta profesionālās pieredzes ilgums un veids mītnes valstī;
 4) pretendenta - Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts pilsoņa - mītnes valsts kompetento institūciju apliecinājums, ka iegūtā izglītība atzīta par atbilstošu mītnes valstī attiecīgajai profesijai noteiktajām prasībām. Minētais apliecinājums nepieciešams šādos gadījumos:
 a) pretendenta izglītību un profesionālo kvalifikāciju apliecinoši dokumenti nav iegūti mītnes valstī, kas ir Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts,
-b) pretendenta izglītību un profesionālo kvalifikāciju apliecinoši dokumenti neatbilst mītnes valstī noteiktajām prasībām, jo tā ir paaugstinājusi prasības profesionālās kvalifikācijas iegūšanai attiecīgajā profesijā.
+b) mītnes valsts ir paaugstinājusi prasības profesionālās kvalifikācijas iegūšanai attiecīgajā profesijā, un pretendenta iegūtie izglītību un profesionālo kvalifikāciju apliecinošie dokumenti neatbilst paaugstinātajām prasībām, ja tie iegūti pirms šo prasību paaugstināšanas,
+c) pretendents izglītību un profesionālo kvalifikāciju apliecinošos dokumentus ir ieguvis ārpus formālās izglītības sistēmas.
 (2) Vispārējās profesionālās kvalifikācijas atzīšanas sistēmas piemērošanai izglītību un profesionālo kvalifikāciju apliecinošus dokumentus iedala šādos līmeņos:
-1) 1.līmenis - dokumenti, kas apliecina vismaz četrus gadus ilgas pilna laika izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
-2) 2.līmenis - dokumenti, kas apliecina vismaz trīs līdz četrus gadus ilgas pilna laika izglītības programmas apguvi augstākās izglītības pakāpē un, ja nepieciešams, ir papildināti ar profesionālo kvalifikāciju apliecinošiem dokumentiem;
-3) 3.līmenis - dokumenti, kas apliecina, ka apgūta vismaz viena no šādām programmām:
-a) profesionālās izglītības programma, kuras ilgums ir vismaz viens gads pēc tādas vidējās izglītības programmas apguves, kas nepieciešama, lai uzsāktu studijas augstākās izglītības pakāpē,
-b) noteiktas struktūras izglītības programma vidējās izglītības pakāpē,
-c) profesionālās vidējās izglītības programma, kuras apguve ir nepieciešama, lai uzsāktu studijas augstākās izglītības pakāpē;
-4) 4.līmenis - dokumenti, kas apliecina tādas profesionālās izglītības programmas apguvi vidējās izglītības pakāpē, kura nedod tiesības uzsākt studijas augstākās izglītības pakāpē un ir papildināta ar pārbaudes vai profesionālo praksi, kas ir šādas izglītības programmas daļa;
+1) 1. līmenis - dokumenti, kas apliecina vismaz četrus gadus ilgas pilna laika vai atbilstoša ilguma nepilna laika izglītības programmas apguvi augstākās izglītības pakāpē, kuras apjomu var izteikt ar noteiktu kredītpunktu skaitu, un, ja nepieciešams, ir papildināti ar profesionālu mācību apgūšanu apliecinošiem dokumentiem;
+2) 2. līmenis - dokumenti, kas apliecina vismaz trīs līdz četrus gadus ilgas pilna laika vai atbilstoša ilguma nepilna laika izglītības programmas apguvi augstākās izglītības pakāpē, kuras apjomu var izteikt ar noteiktu kredītpunktu skaitu, un, ja nepieciešams, ir papildināti ar profesionālu mācību apgūšanu apliecinošiem dokumentiem;
+3) 3. līmenis - dokumenti, kas apliecina, ka pēc tādas vidējās izglītības programmas apguves, kas nepieciešama, lai uzsāktu studijas augstākās izglītības pakāpē, apgūta vismaz viena no šādām programmām:
+a) pilna laika izglītības programma, kuras ilgums ir vismaz viens gads, vai atbilstoša ilguma nepilna laika izglītības programma,
+b) vidējās izglītības programma,
+c) profesionālās izglītības programma pēc šā punkta "b" apakšpunktā minētās izglītības programmas apgūšanas,
+d) reglamentētās izglītības programma,
+e) profesionālās izglītības programma ar īpašu struktūru, kura atbilst šā punkta "a" un "b" apakšpunktā minēto izglītības programmu līmenim un kuras apguve nodrošina reglamentētajai profesijai atbilstošai profesionālajai kvalifikācijai nepieciešamo zināšanu, prasmju un kompetences apjomu un līmeni, ko apliecina pretendenta mītnes valsts kompetentās institūcijas izsniegts dokuments;
+4) 4. līmenis - dokumenti, kas apliecina, ka apgūta vismaz viena no šādām programmām vidējās izglītības pakāpē:
+a) vispārējās vidējās izglītības programma, ja tās apgūšanu apliecinošie dokumenti ir papildināti ar dokumentiem, kas apliecina tādu profesionālo mācību apgūšanu, kuras nav šīs daļas 3. punktā minētās mācības, vai profesionālās prakses apgūšanu,
+b) profesionālās vidējās izglītības programma,
+c) profesionālās vidējās izglītības programma, ja tās apgūšanu apliecinošie dokumenti ir papildināti ar šā punkta "a" apakšpunktā minētajiem profesionālo mācību vai profesionālās prakses apgūšanu apliecinošiem dokumentiem;
 5) 5.līmenis - dokumenti, kas apliecina, ka iegūta izglītība vai praktiskā darba iemaņas vismaz vienā no šādiem veidiem:
 a) vispārējā pamatizglītība vai vispārējā vidējā izglītība,
 b) profesionālās izglītības programma pamata pakāpē un cita izglītība, par kuras ieguvi neizsniedz 1., 2., 3. vai 4.līmenim atbilstošu izglītības dokumentu,
@@ -23,5 +29,5 @@ d) vismaz trīs gadus ilga profesionālā pieredze darbā ar normālu darba laik
 1) pretendenta iesniegtie dokumenti atbilst prasībām, kādas attiecīgajai profesijai noteiktas Latvijas Republikā attiecīgo profesionālās darbības jomu reglamentējošos normatīvajos aktos;
 2) pretendents var kompensēt būtiskās atšķirības izglītības raksturā, saturā un līmenī atbilstoši Ministru kabineta noteiktajām papildu prasībām profesionālās kvalifikācijas atzīšanai tādā profesijā, kurai piemēro vispārējo profesionālās kvalifikācijas atzīšanas sistēmu;
 3) pretendenta profesionālās pieredzes ilgums un veids atbilst Ministru kabineta noteiktajam profesionālās pieredzes ilgumam un veidam attiecībā uz profesijām, kurām piemēro profesionālās kvalifikācijas atzīšanu, pamatojoties uz pretendenta profesionālo pieredzi;
-4) pretendenta iesniegtie dokumenti daļēji atbilst prasībām, kādas šai profesijai noteiktas Latvijas Republikā attiecīgo profesionālās darbības jomu reglamentējošos normatīvajos aktos, bet apliecina tādas izglītības programmas apguvi, kuras saturs un ilgums būtiski neatšķiras no Latvijas Republikā noteiktā, un tie ir ne vairāk kā par vienu šā panta otrajā daļā noteikto līmeni zemāki tādā profesijā, kurai piemēro vispārējo profesionālās kvalifikācijas atzīšanas sistēmu;
+4) (izslēgts ar 10.09.2020. likumu);
 5) (izslēgts ar 21.06.2018. likumu).

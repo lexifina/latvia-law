@@ -1,0 +1,1 @@
+10. Personas, kas līdz 2021. gada 31. decembrim ieguvušas šā likuma 14. panta trešās daļas 1. un 2. punktā noteikto izglītību, ir tiesīgas turpināt patstāvīgu profesionālo darbību māsas (vispārējās aprūpes māsas) profesijā.

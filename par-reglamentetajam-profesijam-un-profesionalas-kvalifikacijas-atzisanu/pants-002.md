@@ -12,6 +12,6 @@
 (7) Šā likuma noteikumi neattiecas:
 1) uz gadījumiem, kad darbība reglamentētajās profesijās ir saistīta ar valsts pārvaldes vai tiesu varas funkciju izpildi;
 2) uz profesijām, kurām saskaņā ar likumu vai Ministru kabineta noteikumiem izvirzītas kādas no šā likuma 3.panta piektajā daļā minētajām prasībām, bet nav norādīti reglamentētajām profesijām nepieciešamie izglītību vai profesionālo kvalifikāciju apliecinoši dokumenti;
-3) uz profesionālo darbību autotransporta un civilās aviācijas jomā.
+3) uz profesionālo darbību autotransporta, dzelzceļa transporta un civilās aviācijas jomā.
 (8) Uz to valstu pilsoņiem, kurām saskaņā ar Saeimas apstiprinātajiem starptautiskajiem līgumiem ir šajos līgumos noteiktas Eiropas Savienības dalībvalstu tiesības profesionālās kvalifikācijas atzīšanas jomā, attiecas tie paši šā likuma noteikumi, kuri attiecas uz Eiropas Savienības dalībvalstu pilsoņiem.
 (9) Uz trešo valstu valstspiederīgajiem, kas, ievērojot Imigrācijas likuma noteikumus, uzņēmumu grupas ietvaros tiek pārcelti vadītāja, speciālista vai stažiera darbā Latvijas Republikā, attiecas tie paši šā likuma noteikumi, kuri attiecas uz Eiropas Savienības dalībvalstu pilsoņiem.

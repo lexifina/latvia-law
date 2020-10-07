@@ -22,7 +22,7 @@
 14) kosmētiķis;
 15) zobārsta asistents;
 16) māsas palīgs;
-17) zobārstniecības māsa;
+17) (izslēgts ar 10.09.2020. likumu);
 18) audiologopēds;
 19) radiologa asistents;
 20) uztura speciālists;
@@ -32,4 +32,4 @@
 24) skaistumkopšanas speciālists kosmetoloģijā;
 25) masieris;
 26) mākslas terapeits.
-(3) Medicīniskās izglītības klīnisko un praktisko daļu (arī rezidentūrā iegūstamo) šajā pantā minētajās ārstniecības profesijās un specialitātēs īsteno ārstniecības iestādes un ārstniecības personas, kuras normatīvajos aktos noteiktajā kārtībā ir ieguvušas tiesības izglītot ārstniecības personas.
+(3) Veselības aprūpes jomā reglamentētajās profesijās un specialitātēs medicīniskās izglītības klīniskās mācības īsteno ārstniecības iestādes un ārstniecības personas, kurām ir tiesības ārstniecības iestādēs mācīt izglītojamos, bet praktiskās mācības - izglītības iestādes vai ārstniecības iestādes un ārstniecības personas, kurām ir tiesības ārstniecības iestādēs mācīt izglītojamos.

@@ -1,6 +1,0 @@
-17.pants. Vispārīgās prasības optometrista izglītībai
-(1) Personas tiesības uzsākt darbību optometrista profesijā apliecina augstākās izglītības diploms par akreditētas optometrijas akadēmiskās studiju programmas apguvi.
-(2) Personas tiesības veikt patstāvīgu profesionālo darbību un prakses tiesības optometrijā apliecina augstākās izglītības diploms par akreditētas augstākās profesionālās optometrijas studiju programmas apguvi vai optometrista profesionālās kvalifikācijas sertifikāts.
-(3) Optometrijas studiju programmā uzņem personas ar vidējo izglītību, kas dod tiesības studēt augstskolā.
-(4) Optometrista akadēmiskās izglītības diploms apliecina, ka tā īpašnieks pilna laika studijās apguvis akreditētu akadēmisko studiju programmu, kuras ilgums ir vismaz trīs gadi. Optometrista augstākās profesionālās izglītības diploms apliecina, ka tā īpašnieks pēc augstākās izglītības diploma iegūšanas akreditētā akadēmiskā optometrijas studiju programmā apguvis akreditētu augstāko profesionālo optometrijas studiju programmu, kuras ilgums ir vismaz viens gads.
-(5) Optometriskā izglītība nodrošina teorētiskās zināšanas un praktiskās iemaņas, kuras nepieciešamas redzes primārai aprūpei, redzes funkciju izmeklēšanai un korekcijai ar brillēm un kontaktlēcām.
