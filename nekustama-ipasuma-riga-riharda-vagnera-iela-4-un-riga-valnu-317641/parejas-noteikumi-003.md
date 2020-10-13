@@ -1,0 +1,1 @@
+3. Kultūras ministrija triju mēnešu laikā pēc nekustamā īpašuma saglabāšanas, atjaunošanas un attīstīšanas koncepcijas un nekustamā īpašuma tirgus vērtības aprēķina saņemšanas izvērtē, vai nekustamā īpašuma nodošana Rīgas Riharda Vāgnera biedrībai atbilst Regulas Nr. 651/2014 53. panta un šā likuma 3. panta nosacījumiem, un sniedz atzinumu Finanšu ministrijai.

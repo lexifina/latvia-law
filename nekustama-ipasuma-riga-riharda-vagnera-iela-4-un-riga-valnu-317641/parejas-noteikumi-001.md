@@ -1,0 +1,1 @@
+1. Rīgas Riharda Vāgnera biedrība ne vēlāk kā mēneša laikā pēc šā likuma stāšanās spēkā izstrādā un iesniedz Kultūras ministrijai saskaņošanai nekustamā īpašuma saglabāšanas, atjaunošanas un attīstīšanas koncepciju, tai skaitā nekustamā īpašuma izmantošanas izmaksu un ieguvumu analīzi.

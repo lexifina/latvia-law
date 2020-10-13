@@ -1,0 +1,1 @@
+2. Valsts akciju sabiedrība "Valsts nekustamie īpašumi" ne vēlāk kā mēneša laikā pēc šā likuma stāšanās spēkā iesniedz Kultūras ministrijai neatkarīga vērtētāja veiktu nekustamā īpašuma tirgus vērtības aprēķinu.

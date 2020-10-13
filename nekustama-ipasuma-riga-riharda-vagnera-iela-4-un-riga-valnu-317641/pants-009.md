@@ -1,0 +1,1 @@
+9. pants. Finanšu ministrija nodod Rīgas Riharda Vāgnera biedrībai nekustamo īpašumu ar nodošanas un pieņemšanas aktu. Četrstāvu ēkā esošos interjera priekšmetus, kas tiek nodoti kopā ar nekustamo īpašumu, uzrāda mantas inventarizācijas sarakstā, kas tiek pievienots nekustamā īpašuma nodošanas un pieņemšanas aktam.

@@ -1,0 +1,3 @@
+8. pants. (1) Rīgas Riharda Vāgnera biedrība un Kultūras ministrija nodrošina ar nekustamā īpašuma nodošanu saistīto dokumentu glabāšanu 10 gadus no šā likuma spēkā stāšanās dienas.
+(2) Kultūras ministrija nodrošina komercdarbības atbalsta regulējuma nosacījumu ievērošanu un uzraudzību attiecībā uz nekustamā īpašuma nodošanu Rīgas Riharda Vāgnera biedrībai.
+(3) Kultūras ministrija atbilstoši Regulas Nr. 651/2014 9. panta 1. un 4. punktam nodrošina informācijas publicēšanu par šā likuma ietvaros sniegto komercdarbības atbalstu un atbilstoši Regulas Nr. 651/2014 11. pantam iesniedz kopsavilkuma informāciju Eiropas Komisijai.

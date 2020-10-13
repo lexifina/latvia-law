@@ -1,0 +1,1 @@
+10. pants. Rīgas Riharda Vāgnera biedrība nekustamo īpašumu normatīvajos aktos noteiktajā kārtībā nostiprina zemesgrāmatā uz sava vārda pēc šā likuma 9. pantā minētā nodošanas un pieņemšanas akta parakstīšanas.
