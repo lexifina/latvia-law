@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2020. gada 8. oktobra lēmums Nr. 1/15 \"Dabasgāzes uzglabāšanas sistēmas pakalpojuma tarifu aprēķināšanas metodika\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2020-10-13",
+  "entry_into_force": "2020-10-14",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08216",
+  "nim_celex": "72024L1788LVA_202608216",
+  "nim_id": "202608216",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4cfcee77-d5de-41f2-92a2-8c13335bf111",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
