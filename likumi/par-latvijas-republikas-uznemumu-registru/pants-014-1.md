@@ -1,8 +1,0 @@
-14.¹ pants. Komercreģistrā iesniegto pieteikumu pirmsreģistrācijas pārbaude Valsts ieņēmumu dienestā
-Uzņēmumu reģistrs nosūta Valsts ieņēmumu dienestam informāciju par iesniegtajiem pieteikumiem ierakstu izdarīšanai komercreģistrā, ja:
-1) pieteikumā norādītajā ierakstīšanai pieteiktajā juridiskajā adresē jau ir reģistrēti vairāk nekā 10 komersanti;
-2) pieteikumā norādītais vienīgais valdes loceklis ir vienīgais valdes loceklis vairāk nekā piecās kapitālsabiedrībās;
-3) pieteikumā norādītais viens no valdes locekļiem ir viens no valdes locekļiem vai vienīgais valdes loceklis vairāk nekā 10 kapitālsabiedrībās;
-4) sabiedrības ar ierobežotu atbildību vienīgais dibinātājs jau ir vienīgais dalībnieks vairāk nekā piecās sabiedrībās ar ierobežotu atbildību, izņemot gadījumu, kad vienīgais sabiedrības ar ierobežotu atbildību dibinātājs ir publiska persona Valsts pārvaldes iekārtas likuma izpratnē;
-5) sabiedrības ar ierobežotu atbildību viens no dibinātājiem jau ir viens no dalībniekiem vairāk nekā 10 sabiedrībās ar ierobežotu atbildību, izņemot gadījumu, kad viens no sabiedrības ar ierobežotu atbildību dibinātājiem ir publiska persona Valsts pārvaldes iekārtas likuma izpratnē.
-Informāciju par iesniegtajiem pieteikumiem ierakstu izdarīšanai komercreģistrā šā panta pirmajā daļā noteiktajos gadījumos nenosūta, ja Valsts ieņēmumu dienests ir paziņojis Uzņēmumu reģistram, ka informācija nav nosūtāma. Kārtību, kādā Valsts ieņēmumu dienests paziņo Uzņēmumu reģistram, ka informācija nav nosūtāma, nosaka šā likuma 4.panta 5.⁹ punktā minētā starpresoru vienošanās, kas noslēgta starp Valsts ieņēmumu dienestu un Uzņēmumu reģistru.

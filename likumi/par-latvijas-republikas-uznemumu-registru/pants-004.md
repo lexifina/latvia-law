@@ -15,8 +15,8 @@ Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdev
 5⁶) nodrošina reģistrācijas lietu pārveidošanu elektroniskā formā glabāšanai elektroniskā vidē saskaņā ar normatīvajiem aktiem par arhīvu pārvaldību;
 5⁷) normatīvajos aktos noteiktajā kārtībā sagatavo un sniedz informāciju no Uzņēmumu reģistra informācijas sistēmas;
 5⁸) (izslēgts ar 14.11.2019. likumu);
-5⁹) sniedz informāciju Valsts ieņēmumu dienestam par iesniegtajiem pieteikumiem ierakstu izdarīšanai komercreģistrā šā likuma 14.¹ panta pirmajā daļā noteiktajos gadījumos, lai nodrošinātu ierakstu izdarīšanu par tādiem komersantiem, kuru nolūks ir veikt komercdarbību, vienlaikus pagarinot pieteikuma izskatīšanas termiņu atbilstoši termiņam, kas noteikts likumā "Par nodokļiem un nodevām" Valsts ieņēmumu dienestam atzinuma sniegšanai. Savstarpējo informācijas apmaiņu par iesniegtajiem pieteikumiem ierakstu izdarīšanai komercreģistrā un sniedzamās informācijas regularitāti nosaka starpresoru vienošanās, kas noslēgta starp Valsts ieņēmumu dienestu un Uzņēmumu reģistru;
+5⁹) sniedz informāciju Valsts ieņēmumu dienestam par saņemtajiem pieteikumiem ierakstu izdarīšanai vai dokumentu reģistrācijai (pievienošanai lietai) Uzņēmumu reģistra vestajos reģistros šā likuma 4.¹⁶ panta pirmajā daļā minētajos gadījumos;
 5¹⁰) ieraksta ziņas par publisko personu un iestādi;
 5¹¹) nodrošina reģistrācijas lietu sadalīšanu publiskajā un nepubliskajā daļā;
-5¹²) nolūkā identificēt elektronisko pakalpojumu pieprasītājus saglabā šādu pakalpojumu pieprasītāju un elektronisko pakalpojumu lietotāju identificējošos datus un kontaktinformāciju, kā arī veic elektronisko pakalpojumu lietotāju datu pareizības pārbaudi Pilsonības un migrācijas lietu pārvaldes pārziņā esošajā iedzīvotāju uzskaites sistēmā;
+5¹²) nolūkā identificēt elektronisko pakalpojumu pieprasītājus saglabā šādu pakalpojumu pieprasītāju un elektronisko pakalpojumu lietotāju identificējošos datus un kontaktinformāciju, kā arī veic elektronisko pakalpojumu lietotāju datu pareizības pārbaudi Pilsonības un migrācijas lietu pārvaldes pārziņā esošajā Iedzīvotāju reģistrā;
 6) veic citus normatīvajos aktos noteiktos uzdevumus.
