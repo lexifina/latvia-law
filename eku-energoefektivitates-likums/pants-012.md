@@ -1,5 +1,5 @@
 12.pants. Neatkarīgi eksperti
-(1) Ēku energosertifikāciju, apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudi ir tiesīga veikt persona ar atbilstošu kompetenci - neatkarīgs eksperts.
+(1) Ēkas vai tās daļas energoefektivitātes novērtēšanu, ēku energosertifikāciju, apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudi ir tiesīga veikt persona ar atbilstošu kompetenci - neatkarīgs eksperts.
 (2) Veicot ēkas energosertifikāciju, apkures sistēmas un gaisa kondicionēšanas sistēmas pārbaudi, neatkarīgs eksperts izmanto attiecīgā darba izpildei nepieciešamās metodes un piemērojamos standartus, kā arī veic aprēķiniem nepieciešamo datu kvalitātes kontroli, lai nodrošinātu aprēķinu rezultātu pareizību un novērtējuma objektivitāti un ticamību. Energosertifikācijas un pārbaudes dokumentāciju glabā 10 gadus.
 (3) Neatkarīgs eksperts nepieļauj rīcību, kas pasūtītāja vai citas personas interesēs varētu mazināt iegūto rezultātu pareizību, novērtējuma objektivitāti un ticamību.
 (4) Neatkarīga eksperta kompetences prasības un kompetences apliecināšanas kārtību, neatkarīga eksperta reģistrācijas un uzraudzības kārtību, kā arī neatkarīgu ekspertu reģistra datu saturu un izmantošanas kārtību nosaka Ministru kabinets.

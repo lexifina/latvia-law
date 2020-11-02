@@ -1,7 +1,7 @@
-4.pants. Energoefektivitātes minimālās prasības
-(1) Energoefektivitātes minimālās prasības ekspluatējamām ēkām, proti, ēkas energoefektivitātes pieļaujamo līmeni, kuru pārsniedzot ēkas īpašniekam ir pienākums veikt energoefektivitātes uzlabošanas pasākumus, nosaka citi normatīvie akti.
-(2) Energoefektivitātes minimālās prasības projektējamām ēkām attiecībā uz to ārējo norobežojošo konstrukciju būvelementu siltuma caurlaidību un inženiertehniskajām sistēmām, kā arī ēkas energoefektivitātes pieļaujamo līmeni nosaka citi normatīvie akti.
-(3) Energoefektivitātes minimālās prasības pārbūvējamām vai atjaunojamām ēkām attiecībā uz to ārējo norobežojošo konstrukciju būvelementu siltuma caurlaidību un inženiertehniskajām sistēmām, kā arī ēkas energoefektivitātes pieļaujamo līmeni nosaka citi normatīvie akti. Energoefektivitātes minimālās prasības pārbūvējamām vai atjaunojamām ēkām piemēro, ja:
-1) būvniecības ieceres dokumentācijā ēkas ārējā norobežojošā konstrukciju būvelementa pārbūve skar vairāk nekā 25 procentus no šā būvelementa virsmas;
-2) veic ēkas inženiertehnisko sistēmu pārbūvi vai atjaunošanu.
-(4) Šā panta trešajā daļā minētās energoefektivitātes minimālās prasības pārbūvējamām vai atjaunojamām ēkām nepiemēro, ja šo prasību piemērošana nav tehniski vai funkcionāli iespējama vai nav ekonomiski pamatota.
+4. pants. Ekspluatējamu ēku minimālās energoefektivitātes prasības
+(1) Ekspluatējamu ēku minimālās energoefektivitātes prasības nosaka attiecībā uz:
+1) ēku enerģijas patēriņa līmeni un primārās enerģijas patēriņa līmeni;
+2) ēkas inženiertehnisko sistēmu automatizācijas un vadības sistēmu funkcionalitāti, telpu mikroklimatu pašregulējošu ierīču uzstādīšanu, ēkā patērētā energonesēja vai enerģijas uzskaiti;
+3) elektrotransportlīdzekļu uzlādes punktu ierīkošanu.
+(2) Ministru kabinets izdod noteikumus par šā panta pirmajā daļā minētajām ekspluatējamu ēku minimālajām energoefektivitātes prasībām.
+(3) Ekspluatējamu ēku minimālās energoefektivitātes prasības ēkas inženiertehniskajām sistēmām nepiemēro, ja šo prasību piemērošana nav tehniski vai funkcionāli iespējama vai nav ekonomiski pamatota.
