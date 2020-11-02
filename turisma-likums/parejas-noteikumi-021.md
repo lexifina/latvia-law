@@ -1,0 +1,1 @@
+21. Ministru kabinets līdz 2021. gada 1. februārim izdod šā likuma 9. panta otrajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 1. februārim ir piemērojami Ministru kabineta 2003. gada 25. novembra noteikumi Nr. 666 "Latvijas Tūrisma konsultatīvās padomes nolikums".

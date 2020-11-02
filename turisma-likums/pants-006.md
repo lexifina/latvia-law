@@ -2,7 +2,7 @@
 (1) Ekonomikas ministrija ir tūrisma nozares vadošā (augstākā) iestāde. Tās funkcijas nosaka Ministru kabinets.
 (2) Ekonomikas ministrijas galvenie uzdevumi tūrisma jomā ir šādi:
 1) izstrādāt tūrisma attīstības valsts politiku, organizēt un koordinēt tās īstenošanu;
-2) izstrādāt likumprojektus un normatīvo aktu projektus;
+2) izstrādāt normatīvo aktu projektus;
 3) pārstāvēt valsts intereses tūrisma nozarē;
 4) plānot valsts atbalstu tūrisma nozarei;
 5) (izslēgts ar 24.01.2002. likumu);

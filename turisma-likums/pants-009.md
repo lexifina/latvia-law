@@ -1,4 +1,3 @@
-9.pants. Latvijas Tūrisma konsultatīvā padome
-(1) Ministru kabinets izveido Latvijas Tūrisma konsultatīvo padomi kā koleģiālu, konsultatīvu un koordinējošu institūciju, kurā iekļauti tūrisma politikas īstenošanā iesaistīto ministriju, pašvaldību, komersantu, kā arī biedrību un nodibinājumu pārstāvji.
+9. pants. Latvijas Tūrisma konsultatīvā padome
+(1) Latvijas Tūrisma konsultatīvā padome ir Ministru kabineta izveidota konsultatīva institūcija, kuras mērķis ir veicināt saskaņotu tūrisma politikas izstrādi, īstenošanu un novērtēšanu.
 (2) Latvijas Tūrisma konsultatīvās padomes nolikumu apstiprina Ministru kabinets.
-(3) Latvijas Tūrisma konsultatīvās padomes darbības mērķis ir veicināt tūrisma politikas īstenošanā iesaistīto ministriju, pašvaldību, komersantu, kā arī biedrību un nodibinājumu sadarbību, lai sekmētu tūrisma attīstību, veicinātu tūrisma nozares integrāciju valsts sociāli ekonomiskās attīstības procesā un aizstāvētu to komersantu intereses, kuri sniedz tūrisma pakalpojumus.

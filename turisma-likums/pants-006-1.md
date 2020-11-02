@@ -18,7 +18,7 @@
 1) pašvaldības dome pieņēmusi lēmumu, saskaņā ar kuru lūgts anulēt attiecīgajai teritorijai kūrorta statusu;
 2) teritorijā, kurai piešķirts kūrorta statuss, nav pieejami dabas dziednieciskie resursi vai tie netiek izmantoti, lai nodrošinātu šajā teritorijā esošo kūrorta ārstniecības iestāžu darbību;
 3) teritorijā, kurai piešķirts kūrorta statuss, nav izveidota atbilstoša tūrisma infrastruktūra;
-4) attiecīgā pašvaldība noteiktā termiņā neiesniedz šā panta sestajā daļā minēto pārskatu;
+4) attiecīgā pašvaldība noteiktā termiņā neiesniedz šā panta piektajā daļā minēto pārskatu;
 5) attiecīgā pašvaldība nenodrošina teritorijas un kūrorta attīstības plānošanas dokumentos paredzēto kūrorta attīstību;
 6) vides kvalitātes rādītāji neatbilst normatīvo aktu prasībām.
 (7) Kārtību, kādā teritorijai piešķir un anulē kūrorta statusu, kā arī pieteikumā par kūrorta statusa piešķiršanu iekļaujamo informāciju nosaka Ministru kabinets.

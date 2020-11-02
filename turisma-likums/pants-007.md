@@ -1,5 +1,5 @@
-7.pants. Latvijas Investīciju un attīstības aģentūras kompetence
-Latvijas Investīciju un attīstības aģentūra:
+7.pants. Latvijas Investīciju un attīstības aģentūras kompetence tūrisma jomā
+Latvijas Investīciju un attīstības aģentūra tūrisma jomā:
 1) nodrošina Latvijas tūrisma attīstības politikas īstenošanu;
 2) īsteno Latvijā un ārvalstīs tūrismu veicinošus pasākumus;
 3) ievieš valsts un privātās partnerības tūrisma attīstības projektus;

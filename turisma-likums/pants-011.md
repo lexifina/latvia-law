@@ -3,6 +3,7 @@
 (2) Šajā likumā tiek regulēti šādi tūrisma pakalpojumu veidi un šādu tūrisma pakalpojumu sniedzēju darbība:
 1) tūrisma operators;
 2) tūrisma aģents;
+2¹) tūrisma pakalpojuma sniedzējs, kas sekmē saistītus tūrisma pakalpojumus;
 3) (izslēgts ar 10.12.2009. likumu);
 4) tūristu mītne;
 5) tūrisma informācijas birojs, centrs, punkts;

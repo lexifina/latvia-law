@@ -1,6 +1,6 @@
 1.pants. Likumā lietotie termini
 (1) Likumā ir lietoti šādi termini:
-1) aktīvais tūrisms - tūrisma veids, kurā tūrists visas nepieciešamās darbības veic pats;
+1) aktīvais tūrisms - tūrisma veids, kura mērķis ir aktīvā atpūta un fiziskās aktivitātes ceļojuma laikā;
 2) dabas tūrisms - tūrisma veids, kura mērķis ir izzināt dabu, apskatīt raksturīgas ainavas, biotopus, novērot augus un dzīvniekus dabiskajos apstākļos, kā arī izglītoties dabas aizsardzības jautājumos;
 3) (izslēgts ar 07.10.1999. likumu);
 4) (izslēgts ar 22.11.2017. likumu);
@@ -8,7 +8,7 @@
 a) to apvieno viens pakalpojuma sniedzējs, tai skaitā pēc ceļotāja pieprasījuma vai saskaņā ar ceļotāja izdarītu izvēli, pirms tiek noslēgts viens līgums par visiem pakalpojumiem,
 b) neatkarīgi no tā, vai ar pakalpojumu sniedzējiem tiek noslēgti atsevišķi līgumi, tūrisma pakalpojumi tiek: iegādāti vienā tūrisma pakalpojumu tirdzniecības vietā un ceļotājs šos pakalpojumus ir izvēlējies, pirms piekrita veikt samaksu; piedāvāti, pārdoti vai par tiem pieprasīta viena iekļaujoša vai kopīga cena; reklamēti vai pārdoti, lietojot vārdus "komplekss tūrisma pakalpojums" vai citus līdzīgus vārdus; apvienoti pēc tāda līguma noslēgšanas, ar kuru pakalpojuma sniedzējs piešķir ceļotājam tiesības izvēlēties no dažādu veidu tūrisma pakalpojumu piedāvājuma; iegādāti no atsevišķiem pakalpojuma sniedzējiem, izmantojot saistītus tiešsaistes rezervācijas procesus, ja pakalpojuma sniedzējs, ar kuru noslēgts pirmais līgums, nosūta informāciju par ceļotāja vārdu un uzvārdu, maksājuma detaļām un elektroniskā pasta adresi vienam vai vairākiem pakalpojumu sniedzējiem un līgums ar pēdējo pakalpojuma sniedzēju vai pakalpojumu sniedzējiem tiek noslēgts ne vēlāk kā 24 stundu laikā pēc pirmā tūrisma pakalpojuma rezervācijas apstiprinājuma;
 6) (izslēgts ar 10.12.2009. likumu);
-7) kultūras tūrisms - tūrisma veids, kura mērķis ir iepazīšanās ar kultūras vidi: kultūrvēsturisko mantojumu, tradīcijām un dzīvesveidu, kā arī aktuālām kultūras un mākslas norisēm;
+7) kultūras tūrisms - tūrisma veids, kura mērķis ir iepazīšanās ar kultūras vidi: kultūras mantojumu, tradīcijām un dzīvesveidu, kā arī aktuālām kultūras un mākslas norisēm;
 8) kūrorts - vietējās pašvaldības administratīvā teritorija vai tās daļa, kurai normatīvajos aktos noteiktajā kārtībā piešķirts kūrorta statuss;
 9) rekreatīvais tūrisms - tūrisma veids, kura mērķis ir atjaunot cilvēka fizisko un garīgo potenciālu, racionāli izmantojot dabiskos un mākslīgos atpūtas un atveseļošanās resursus;
 10) sporta tūrisms - sacensības atsevišķu aktīvā tūrisma iemaņu labākā vai ātrākā izpildē, kā arī sacensības noteiktas grūtības kategorijas tūrisma maršrutu veikšanā;
@@ -18,7 +18,7 @@ b) neatkarīgi no tā, vai ar pakalpojumu sniedzējiem tiek noslēgti atsevišķ
 14) tūrisma aģents - persona, kas nav tūrisma operators, bet tūrisma operatora vārdā vai uzdevumā piedāvā pārdošanai vai pārdod tūrisma operatora apvienotus kompleksus tūrisma pakalpojumus;
 15) (izslēgts ar 16.02.2006. likumu);
 16) tūrisma infrastruktūra - tūrisma nozares un ar to saistīto citu nozaru (transporta, tirdzniecības, sakaru, kultūras, veselības aizsardzības u.tml.) pakalpojumu kopums, kas nodrošina tūrisma nozares darbību;
-17) tūristu mītne - ēka, ēku grupa vai labiekārtota vieta (teritorija), kurā komersants vai saimnieciskās darbības veicējs nodrošina tūristu diennakts izmitināšanu un apkalpošanu;
+17) tūristu mītne - ēkas daļa, ēka, ēku grupa vai labiekārtota vieta (teritorija), kurā komersants vai saimnieciskās darbības veicējs nodrošina tūristu diennakts izmitināšanu un apkalpošanu;
 18) tūrisma nozare - tautsaimniecības nozare, kuras uzdevums ir tūrisma pakalpojumu sagatavošana un sniegšana;
 19) tūrisma operators - persona, kas apvieno un piedāvā pārdošanai vai pārdod ceļotājiem kompleksus tūrisma pakalpojumus tieši vai ar cita pakalpojuma sniedzēja starpniecību, vai kopā ar citu pakalpojuma sniedzēju, kā arī pakalpojuma sniedzējs, kurš nosūta ceļotāja datus citam pakalpojuma sniedzējam saskaņā ar 5. punkta "b" apakšpunktu;
 20) tūrisma pakalpojums - mērķtiecīga darbība tūristu interešu un vajadzību apmierināšanai, kas ir:
@@ -32,7 +32,7 @@ d) jebkurš cits tūrisma pakalpojums, kas nav šā punkta "a", "b" vai "c" apak
 24) ekotūrisms - ilgtspējīgs, videi draudzīgs tūrisms, kura galvenais mērķis ir veicināt dabas un kultūras vērtību izzināšanu un vides aizsardzību, kā arī pilnveidot sabiedrībā vides izglītību un apziņu;
 25) (izslēgts ar 10.12.2009. likumu);
 26) dabas dziednieciskie resursi - minerālūdeņi, termālie ūdeņi, virszemes ūdeņi, dziednieciskās dūņas, māli, smiltis, meži, parki, klimats un citi dabas resursi, kas, pamatojoties uz zinātniskos pētījumos un praksē pierādītām to īpašībām, tiek izmantoti organisma vispārējā stāvokļa un labsajūtas uzlabošanai, kā arī profilaksei, ārstēšanai un rehabilitācijai;
-27) veselības tūrisms - tūrisma veids, kura mērķis ir organisma vispārējā stāvokļa un labsajūtas uzlabošana, profilakse, ārstēšana un rehabilitācija, izmantojot arī dabas dziednieciskos resursus;
+27) veselības tūrisms - tūrisma veids, kura mērķis ir organisma vispārējā stāvokļa un labsajūtas uzlabošana, profilakse, diagnostika, ārstēšana un rehabilitācija, izmantojot arī dabas dziednieciskos resursus;
 28) kūrorta ārstniecības iestāde - ārstniecības iestāde, kurā tiek veikta profilakse, ārstēšana un rehabilitācija, izmantojot dabas dziednieciskos resursus;
 29) kompleksa tūrisma pakalpojuma līgums - līgums par kompleksu tūrisma pakalpojumu kopumā vai, ja kompleksu tūrisma pakalpojumu piedāvā sniegt saskaņā ar atsevišķiem līgumiem, visi līgumi, kas attiecas uz kompleksajā tūrisma pakalpojumā ietvertajiem tūrisma pakalpojumiem;
 30) ceļotājs - fiziskā vai juridiskā persona, kura vēlas noslēgt līgumu par kompleksa tūrisma pakalpojuma vai saistīta tūrisma pakalpojuma sniegšanu vai kurai ir tiesības ceļot, pamatojoties uz līgumu par kompleksa tūrisma pakalpojuma vai saistīta tūrisma pakalpojuma sniegšanu;
