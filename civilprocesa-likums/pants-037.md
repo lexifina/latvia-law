@@ -7,5 +7,5 @@
 5) ja tiesa apstiprinājusi izlīgumu, - 50 procentu apmērā no iemaksātās valsts nodevas tiesvedībai attiecīgās instances tiesā;
 6) ja tiesa saskaņā ar šā likuma 440.⁸ panta septīto daļu atsakās ierosināt apelācijas tiesvedību, - 50 procentu apmērā no iemaksātās valsts nodevas;
 7) ja tiesvedības izbeigšanas pamats ir prasītāja atteikšanās no prasības, jo ir panākta mediācijas vienošanās, kuru apliecina mediatora izsniegts rakstveida apliecinājums par mediācijas rezultātu, - 50 procentu apmērā no iemaksātās valsts nodevas.
-(2) Valsts nodevu atmaksā ar noteikumu, ka pieteikums par tās atmaksāšanu iesniegts tiesā triju gadu laikā no summas iemaksas valsts budžetā.
+(2) (Atzīta par spēkā neesošu ar Satversmes tiesas 02.11.2020. spriedumu)
 (3) Valsts nodevu atmaksā no valsts budžeta līdzekļiem uz tiesas vai tiesneša lēmuma pamata.
