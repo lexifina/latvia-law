@@ -27,6 +27,8 @@ PEPAP
 5)U-4770082657-23-63,4-dihlor-N-[(1R,2R)-2-(dimetilamino)cikloheksil]-N-metilbenzamīds0,1 g1 g
 6)U-51754121279-74-12-(3,4-dihlorfenil)-N-[2-(dimetilamino)cikloheksil]-N-metil-acetamīds0,1 g1 g
 7)3,4-metilēndioksi-U-47700Nav pieejamsN-(2-(dimetilamino)cikloheksil)-N-metilbenzo[d][1,3]dioksol-5-karboksamīds0,1 g1 g
+8)furanil UF-17Nav pieejamsN-[2-(dimetilamino)cikloheksil]-N-fenil-furān-2-karboksamīds0,1 g1 g
+9)viminols21363-18-8α-[[bis(1-metilpropil)amino]metil]-1-[(2-hlorofenil)metil]-1H-pirol-2-metanols0,1 g1 g
 5. Morfināna atvasinājumi, kas klasificēti atbilstoši 1961.gada 30.marta Vienotajai konvencijai par narkotiskajām vielām:
 Nr.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
