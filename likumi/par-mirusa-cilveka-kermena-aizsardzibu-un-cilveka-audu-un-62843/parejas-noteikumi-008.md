@@ -1,1 +1,1 @@
-8. Grozījumi šā likuma 5. panta pirmajā daļā attiecībā uz atzīmes izdarīšanu veselības informācijas sistēmā par aizliegumu vai atļauju veikt patologanatomisko izmeklēšanu (sekciju) stājas spēkā 2021. gada 1. februārī.
+8. Grozījumi šā likuma 5. panta pirmajā daļā attiecībā uz atzīmes izdarīšanu veselības informācijas sistēmā par aizliegumu vai atļauju veikt patologanatomisko izmeklēšanu (sekciju) stājas spēkā 2022. gada 1. februārī.
