@@ -29,7 +29,7 @@
 20) veic obligātā izglītības vecuma bērnu uzskaiti Ministru kabineta noteiktajā kārtībā;
 21) nosaka pabalstu un cita veida materiālās palīdzības apmēru un piešķiršanas kārtību izglītojamajiem tās padotībā esošās izglītības iestādēs;
 22) īsteno politiku pieaugušo izglītībā un nodrošina piešķirtā finansējuma sadali un uzraudzību pār finanšu līdzekļu izlietojumu;
-23) finansē no sava budžeta valsts pirmsskolas izglītības vadlīnijām, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartiem atbilstošu mācību līdzekļu - papildu literatūras, uzskates līdzekļu, didaktisko spēļu, digitālo mācību līdzekļu un resursu, izdales materiālu, mācību tehnisko līdzekļu, mācību materiālu, iekārtu un aprīkojuma - iegādi tās padotībā esošām izglītības iestādēm;
+23) finansē no sava budžeta valsts pirmsskolas izglītības vadlīnijām, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartiem atbilstošu mācību līdzekļu - papildu literatūras, uzskates līdzekļu, izdales materiālu, mācību tehnisko līdzekļu, mācību materiālu, iekārtu un aprīkojuma, rotaļlietu un piederumu - iegādi, var finansēt arī elektronisko resursu, interaktīvo mācību platformu un mācību un saziņas programmatūru iegādi vai abonēšanas maksu tās padotībā esošām izglītības iestādēm;
 23¹) veicina iespēju izglītības iestādēm izmantot vienoto bibliotēku informācijas sistēmu;
 24) organizē pedagogu profesionālās meistarības pilnveidi, koordinē un nodrošina metodisko darbu;
 25) nosaka no pašvaldības budžeta līdzekļiem apmaksāto vietu skaitu augstskolās un koledžās;

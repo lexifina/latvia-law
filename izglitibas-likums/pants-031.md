@@ -10,7 +10,7 @@
 2) piedalās izglītības procesa un tā rezultātu apspriešanā un sniedz priekšlikumus izglītības kvalitātes uzlabošanai izglītības iestādē;
 3) sniedz priekšlikumus jautājumos par izglītojamo un izglītības iestādes darbinieku tiesībām un pienākumiem;
 4) sniedz izglītības iestādes vadītājam priekšlikumus par iestādes darba organizāciju, budžeta sadalījumu un izglītības programmu īstenošanu;
-5) ir tiesīga lemt par to, kādus šā likuma 1.panta 12.⁵ punkta "k" apakšpunktā minētos individuālos mācību piederumus nodrošina izglītojamo vecāki (personas, kas realizē aizgādību);
+5) ir tiesīga lemt par to, kādus šā likuma 1. panta 12.⁵ punkta "n" apakšpunktā minētos individuālos mācību piederumus nodrošina izglītojamo vecāki (personas, kas realizē aizgādību);
 5¹) lemj par mācību un audzināšanas procesā izmantojamo metožu un informācijas, tajā skaitā mācību līdzekļu un materiālu, atbilstību šā likuma mērķī ietvertajai izglītojamā tikumiskās attīstības nodrošināšanai, kā arī tikumiskās audzināšanas vadlīnijām;
 6) risina tās kompetencē esošus organizatoriskos, tai skaitā ar izglītības iestādes rīkotajiem pasākumiem saistītus jautājumus;
 7) veicina izglītības iestādes sadarbību ar sabiedrību;

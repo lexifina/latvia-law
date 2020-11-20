@@ -5,5 +5,5 @@
 3) ievērot bērnu, pedagogu un citu personu likumiskās tiesības un intereses;
 4) informēt izglītības iestādes vadītāju par bērna veselības stāvokli un citiem apstākļiem, ja tiem var būt nozīme mācību procesā.
 (2) Vecāki (personas, kas realizē aizgādību) ir atbildīgi par to, lai bērns iegūtu obligāto izglītību.
-(3) Vecāku (personu, kas realizē aizgādību) pienākums ir savu materiālo iespēju robežās nodrošināt sava bērna izglītošanai nepieciešamos šā likuma 1.panta 12.⁵ punkta "k" apakšpunktā minētos individuālos mācību piederumus.
+(3) Vecāku (personu, kas realizē aizgādību) pienākums ir savu materiālo iespēju robežās nodrošināt sava bērna izglītošanai nepieciešamos šā likuma 1. panta 12.⁵ punkta "n" apakšpunktā minētos individuālos mācību piederumus.
 (4) Šā likuma 31.panta trešās daļas 5.punktā minētais izglītības iestādes padomes lēmums ir saistošs vecākiem (personām, kas realizē aizgādību).
