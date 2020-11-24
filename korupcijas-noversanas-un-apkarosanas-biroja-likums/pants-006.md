@@ -14,6 +14,7 @@
 5) sakarā ar to, ka darba izpildes vērtējuma rezultāti ir neapmierinoši;
 6) sakarā ar neatbilstību šajā likumā noteiktajām obligātajām prasībām (šā likuma 5.panta piektā un astotā daļa);
 7) sasniedzot likumā "Par valsts pensijām" vecuma pensijas piešķiršanai noteikto vecumu, izņemot gadījumus, kad par attiecīgās amatpersonas atstāšanu amatā uz noteiktu laiku ir pieņemts pamatots lēmums;
+7¹) pēc paša vēlēšanās sakarā ar to, ka sasniegts izdienas stāžs, kas dod tiesības uz izdienas pensiju likumā noteiktajā kārtībā;
 8) sakarā ar amata likvidēšanu vai amatpersonu skaita samazināšanu;
 9) sakarā ar to, ka amatpersona pārejošas darbnespējas dēļ nav pildījusi amata pienākumus ilgāk par četriem mēnešiem pēc kārtas vai sešus mēnešus viena gada laikā;
 10) atbrīvošanu no amatpersonas amata piemērojot kā disciplinārsodu;
