@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2002.gada 21.maija noteikumos Nr.189 \"Darba aizsardzības prasības, saskaroties ar bioloģiskām vielām\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": null,
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-24",
+  "entry_into_force": null,
+  "notification_date": "2020-11-25",
+  "commission_reference": "MNE(2020)58174",
+  "nim_celex": "72020L0739LVA_290101",
+  "nim_id": "290101",
+  "transposes_celex": [
+    "32020L0739"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16a17a1b-a172-4371-919a-ba65a593f6af",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
