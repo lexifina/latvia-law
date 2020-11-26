@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 17. novembra noteikumi Nr. 686 \"Zvejnieku nodarbināšanas noteikumi\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "229",
+  "official_journal_page": null,
+  "official_journal_date": "2020-11-25",
+  "entry_into_force": "2020-11-26",
+  "notification_date": "2021-01-12",
+  "commission_reference": "MNE(2021)00168",
+  "nim_celex": "72017L0159LVA_202100168",
+  "nim_id": "202100168",
+  "transposes_celex": [
+    "32017L0159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/251ea116-44ab-450d-87e5-65dfb96e1f2f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
