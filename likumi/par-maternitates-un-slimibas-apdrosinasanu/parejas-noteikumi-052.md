@@ -1,0 +1,1 @@
+52. Vienreizējo slimības palīdzības pabalstu pieprasa 10 darba dienu laikā no dienas, kad karantīnas dēļ slēgta pirmsskolas izglītības grupa vai iestāde vai uzsākta mācību procesa organizēšana attālināti, vai no dienas, kad dienas aprūpes centra vai dienas centra pakalpojumi vairs nav pieejami.

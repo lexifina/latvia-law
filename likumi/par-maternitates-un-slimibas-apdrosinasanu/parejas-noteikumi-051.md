@@ -1,0 +1,3 @@
+51. Lai saņemtu vienreizējo slimības palīdzības pabalstu, persona iesniedz Valsts sociālās apdrošināšanas aģentūrai iesniegumu un darba devēja apliecinājumu, ka persona nevar strādāt attālināti, kā arī:
+1) šo pārejas noteikumu 48. punkta 1. apakšpunktā minētā persona - izglītības iestādes izziņu par bērna apmeklētās pirmsskolas izglītības grupas vai iestādes atrašanos karantīnā vai mācību procesa organizēšanu attālināti;
+2) šo pārejas noteikumu 48. punkta 2. apakšpunktā minētā persona - pašvaldības izziņu, ka personai ir piešķirts dienas aprūpes centra vai dienas centra pakalpojums, un pašvaldības vai dienas aprūpes centra vai dienas centra izziņu, ka ar Covid-19 infekciju saistīto apstākļu dēļ dienas aprūpes centra vai dienas centra pakalpojumi nav pieejami.
