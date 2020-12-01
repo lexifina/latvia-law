@@ -1,4 +1,5 @@
 11.pants. Amatpersonas zvērests
-(1) Amatpersona, stājoties dienestā, dod zvērestu:
+(1) Amatpersona, stājoties dienestā (izņemot dienestu Valsts robežsardzē vai Valsts robežsardzes koledžā), dod zvērestu:
 "Es, (vārds, uzvārds), stājoties dienestā, zvēru būt godīgs un taisnīgs, uzticīgs Latvijas Republikai, pildīt dienesta pienākumus saskaņā ar Latvijas Republikas Satversmi, starptautiskajiem līgumiem, likumiem un citiem normatīvajiem aktiem un kalpot sabiedrības vispārējām interesēm."
+(1¹) Amatpersona, stājoties dienestā Valsts robežsardzē vai Valsts robežsardzes koledžā, dod Valsts robežsardzes likumā noteikto robežsarga zvērestu.
 (2) Amatpersonas zvērestu pieņem attiecīgais ministrs, Iestādes vadītājs vai viņa pilnvarota amatpersona.
