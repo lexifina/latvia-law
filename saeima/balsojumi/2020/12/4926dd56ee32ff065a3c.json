@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 31,
+ "datums": "2020-12-01",
+ "ieraksts": {
+  "dkp_id": "202092f5-a929-49b6-985f-a7c62a6ef33f",
+  "lastmodtime": "",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "",
+  "VOTEISCANDIDATE": "",
+  "VOTEWITHSIGNS": "",
+  "NAME": "Aldis#Jānis#Valērijs#Arvils#Uldis#Krista#Dagmāra#Iveta#Raimonds#Aldis#Mārtiņš#Uldis#Jānis#Jānis#Boriss#Anda#Gundars#Sergejs#Jānis#Vjačeslavs#Jānis#Ilmārs#Raivis#Gatis#Krišjānis#Aivars#Aldis#Inga#Marija#Kaspars#Jānis#Inese#Ilze#Janīna#Ritvars#Andrejs#Juris#Nikolajs#Artuss#Ojārs Ēriks#Andris#Aleksandrs#Andrejs#Ivans#Rihards#Rihards#Ieva#Armands#Jānis#Edgars#Māris#Janīna#Janīna#Ainars#Atis#Inese#Regīna#Eva#Linda#Māris#Anita#Ināra#Romāns#Ralfs#Vladimirs#Vitālijs#Evija#Daniels#Ramona#Igors#Artūrs Toms#Juris#Ēriks#Ivars#Juris#Dana#Ivans#Inguna#Sandis#Artūrs#Dace#Andris#Karina#Jūlija#Didzis#Edvīns#Mārtiņš#Ļubova#Edmunds#Vita Anda#Jānis#Jānis#Viktors#Inese#Jānis#Atis#Evita#Ivars#Reinis#Normunds",
+  "SURNAME": "Adamovičs#Ādamsons#Agešins#Ašeradens#Augulis#Baumane#Beitnere-Le Galla#Benhena-Bēkena#Bergmanis#Blumbergs#Bondars#Budriķis#Butāns#Cielēns#Cilevičs#Čakša#Daudze#Dolgopolovs#Dombrava#Dombrovskis#Dūklavs#Dūrītis#Dzintars#Eglītis#Feldmans#Geidāns#Gobzems#Goldberga#Golubeva#Ģirģens#Iesalnieks#Ikstena#Indriksone#Jalinska#Jansons#Judins#Jurašs#Kabanovs#Kaimiņš#Kalniņš#Kazinovskis#Kiršteins#Klementjevs#Klementjevs#Kols#Kozlovskis#Krapāne#Krauze#Krišāns#Kucins#Kučinskis#Kursīte#Kursīte-Pakule#Latkovskis#Lejiņš#Lībiņa-Egnere#Ločmele#Mārtuža#Medne#Možvillo#Muižniece#Mūrniece#Naudiņš#Nemiro#Nikonovs#Orlovs#Papule#Pavļuts#Petraviča#Pimenovs#Plešs#Pūce#Pucens#Puga#Rancāns#Reizniece-Ozola#Ribakovs#Rībena#Riekstiņš#Rubiks#Rukšāne-Ščipčinska#Skride#Sprūde#Stepaņenko#Šmits#Šnore#Šteins#Švecova#Teirumnieks#Tērauda#Tutins#Urbanovičs#Valainis#Voika#Vucāns#Zakatistovs#Zālīte-Grosa#Zariņš#Znotiņš#Žunna",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "JV#SASKAŅA#SASKAŅA#JV#ZZS#AP!#JK#KPV LV#ZZS# #AP!#JK#JK#JK#SASKAŅA# #ZZS#SASKAŅA#NA# #ZZS#AP!#NA#JK#JK#KPV LV# #SASKAŅA#AP!#KPV LV#NA#AP!#NA#ZZS#NA#JV#JK#SASKAŅA# #JV# #NA#SASKAŅA#SASKAŅA#NA#JV#KPV LV#ZZS#SASKAŅA#SASKAŅA#ZZS#KPV LV#NA#JV#JV#JV#SASKAŅA#JK#JK#KPV LV#JK#NA#NA#KPV LV#SASKAŅA#SASKAŅA# #AP!#KPV LV#SASKAŅA#AP!#AP!#KPV LV#KPV LV#JK#ZZS#SASKAŅA# #JK#SASKAŅA#AP!#AP!# # # #NA#AP!# #NA#AP!#SASKAŅA#SASKAŅA#ZZS#AP!#ZZS#KPV LV#JK#SASKAŅA#JK#JK",
+  "RESULT": "Pret#Nebalsoja#Par#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Pret#Par#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret#Pret#Nebalsoja#Pret#Par#Par#Pret#Nebalsoja#Pret#Par#Par#Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Par#Par#Nebalsoja#Pret#Pret#Par#Pret#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Pret#Par#Pret#Pret#Nebalsoja#Par#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Pret#Par#Par#Nebalsoja#Pret#Par#Pret#Pret#Par#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.12.2020 16:59:17",
+  "VOTEMOTIVE": "21. priekšlikums. Par valsts budžetu 2021.gadam (837/Lp13), 2.lasījums",
+  "VOTING_ID": "",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "55",
+  "VOTERESULT_FOR": "21",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-31-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/dcdf0659-bc6e-451b-82c0-47c446367215/download/13.saeimas-2020.gada-rudens-sesija-31-vote.xml",
+  "sha256": "ed2a830b83d71374463b3dbab6238ebfc4f81b9e8012b161255a07523300f3fd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
