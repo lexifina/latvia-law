@@ -1,0 +1,2 @@
+14. pants. Robežsarga iekļaušana Nacionālo bruņoto spēku sastāvā izņēmuma stāvokļa vai kara laikā
+Ja izņēmuma stāvokļa vai kara laikā Robežsardze tiek iekļauta Nacionālo bruņoto spēku sastāvā, robežsargam piemēro militārā dienesta tiesiskās attiecības reglamentējošu normatīvo aktu normas, kas nosaka aizliegumus, dienesta dienas ilgumu, kā arī dienesta pienākumu izpildes un atpūtas laika sadali un tās nosacījumus.

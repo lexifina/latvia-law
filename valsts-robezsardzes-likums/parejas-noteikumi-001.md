@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Robežsardzes likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 1. nr.; 1999, 20. nr.; 2001, 1., 21. nr.; 2002, 2., 16., 22. nr.; 2003, 2., 14. nr.; 2004, 2., 10. nr.; 2005, 2., 14., 21., 24. nr.; 2006, 14. nr.; 2007, 14. nr.; 2008, 8. nr.; 2009, 1. nr.).
