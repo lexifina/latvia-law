@@ -3,12 +3,11 @@
 (2) Filmas pārraida laikā, kas saskaņots ar tiesību īpašniekiem.
 (3) Katalogā un raidīšanas laikā filmas atzīmē ar attiecīgo Ministru kabineta noteikumos norādīto filmu klasifikācijas indeksu.
 (4) Elektroniskais plašsaziņas līdzeklis, sniedzot pēc pieprasījuma tādus pakalpojumus, kuri var kaitēt nepilngadīgo fiziskajai, garīgajai un tikumiskajai attīstībai, nodrošina šiem pakalpojumiem ierobežotas piekļuves kontroli (lai parastos apstākļos tie nebūtu uztverami).
-(5) Elektroniskais plašsaziņas līdzeklis, kas sniedz audiovizuālos pakalpojumus pēc pieprasījuma, savā katalogā iekļauj Eiropas audiovizuālos darbus.
-(6) Elektroniskais plašsaziņas līdzeklis, kas sniedz pakalpojumus pēc pieprasījuma, nodrošina pastāvīgu piekļuvi vismaz šādai informācijai:
-1) elektroniskā plašsaziņas līdzekļa nosaukums;
-2) adrese, kurā elektroniskais plašsaziņas līdzeklis veic uzņēmējdarbību;
-3) elektroniskā plašsaziņas līdzekļa kontaktinformācija, tostarp elektroniskā pasta adrese vai mājaslapa internetā;
-4) atbildīgās uzraudzības iestādes - Nacionālās elektronisko plašsaziņas līdzekļu padomes - kontaktinformācija.
+(5) Elektroniskais plašsaziņas līdzeklis, kas sniedz audiovizuālos pakalpojumus pēc pieprasījuma, savā katalogā vismaz 30 procentu apjomā iekļauj Eiropas audiovizuālos darbus un veicina šo darbu pieejamību un pamanāmību, tostarp marķējot tos, veltot tiem atsevišķu sadaļu vai meklēšanas rīkus.
+(5¹) Šā panta piektajā daļā minētais pienākums neattiecas uz elektronisko plašsaziņas līdzekli, kas sniedz audiovizuālos pakalpojumus pēc pieprasījuma, ar zemu apgrozījumu vai šaurai auditorijai, kā arī uz gadījumu, kad šis pienākums nebūtu īstenojams vai nebūtu pamatots pakalpojuma būtības vai temata dēļ.
+(5²) Ja uz elektronisko plašsaziņas līdzekli, kas sniedz audiovizuālo pakalpojumu pēc pieprasījuma, nav attiecināma šā panta piektajā daļā noteiktā Eiropas audiovizuālo darbu kvota, tas iesniedz Nacionālajai elektronisko plašsaziņas līdzekļu padomei šo faktu apliecinošu informāciju.
+(5³) Nacionālā elektronisko plašsaziņas līdzekļu padome izstrādā vadlīnijas zema apgrozījuma un šauras auditorijas noteikšanai, ņemot vērā Latvijas tirgus apstākļus, pakalpojuma sniedzēja sniegto informāciju un attiecīgās Eiropas Komisijas vadlīnijas.
+(6) (Izslēgta ar 05.11.2020. likumu)
 (7) Pastāvīgas piekļuves nenodrošināšana šā panta sestajā daļā minētajai informācijai ir pamats ierobežot piekļuvi audiovizuālam elektroniskā plašsaziņas līdzekļa pakalpojumam. Ierobežojumu noteikšanai piemērojami tie paši noteikumi, kas paredzēti šā likuma III² nodaļā attiecībā uz aizliegumu retranslēt audiovizuālās programmas bez retranslācijas atļaujas.
 (8) Nacionālā elektronisko plašsaziņas līdzekļu padome var aizliegt pakalpojuma pēc pieprasījuma sniegšanu, ja elektroniskais plašsaziņas līdzeklis:
 1) trīs reizes gada laikā ir administratīvi sodīts par būtisku šā likuma pārkāpumu;

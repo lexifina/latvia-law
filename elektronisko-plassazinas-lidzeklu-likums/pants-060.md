@@ -12,7 +12,7 @@
 9) nodrošina piešķirto valsts budžeta līdzekļu efektīvu un lietderīgu izlietošanu sabiedrības interesēs;
 10) veicina Latvijas jurisdikcijā esošo elektronisko plašsaziņas līdzekļu konkurētspēju Latvijas, Eiropas un pasaules tirgū;
 11) rada vienlīdzīgus darbības nosacījumus visiem Latvijas jurisdikcijā esošajiem plašsaziņas līdzekļiem;
-12) veicina elektronisko plašsaziņas līdzekļu sniegto pakalpojumu lietotprasmi;
+12) veicina medijpratību;
 13) veicina Latvijas nacionālajām interesēm atbilstošu elektronisko plašsaziņas līdzekļu programmu politiku;
 14) nodrošina sabiedrības, plašsaziņas līdzekļu profesionālo un izglītības institūciju pārstāvju līdzdalību sabiedriskā pasūtījuma veidošanā un izpildes uzraudzībā, kā arī Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālās stratēģijas izstrādē;
 14¹) apstiprina galalietotājiem bez maksas zemes apraidē ciparformātā izplatāmo televīzijas programmu sarakstu. Kritērijus elektronisko plašsaziņas līdzekļu programmu iekļaušanai galalietotājiem bez maksas zemes apraidē ciparformātā izplatāmo televīzijas programmu sarakstā nosaka Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālajā stratēģijā;
@@ -21,6 +21,8 @@
 (2) Nacionālā elektronisko plašsaziņas līdzekļu padome kontrolē šā likuma ievērošanu:
 1) uzklausot un pārbaudot sūdzības;
 2) kontrolējot elektronisko plašsaziņas līdzekļu programmu uzskaiti;
-3) veicot izplatīto programmu satura un kvalitātes izlases veida pārbaudes.
+3) veicot izplatīto programmu satura un kvalitātes izlases veida pārbaudes;
+4) sniedzot informāciju un uzklausot sūdzības par jebkādām problēmām saistībā ar šā likuma 24.¹ pantā minēto pakalpojumu vai informācijas pieejamību personām ar invaliditāti.
 (3) Nacionālā elektronisko plašsaziņas līdzekļu padome izstrādā un ar normatīvajiem noteikumiem apstiprina Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālo stratēģiju. Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālā stratēģija ir ārējs normatīvais akts.
 (4) Apstiprinot Elektronisko plašsaziņas līdzekļu nozares attīstības nacionālo stratēģiju un veicot citas šajā likumā noteiktās funkcijas, Nacionālā elektronisko plašsaziņas līdzekļu padome veicina konkurenci elektronisko plašsaziņas līdzekļu tirgū.
+(5) Pildot savus uzdevumus, Nacionālā elektronisko plašsaziņas līdzekļu padome neprasa un nesaņem norādījumus ne no vienas citas iestādes.

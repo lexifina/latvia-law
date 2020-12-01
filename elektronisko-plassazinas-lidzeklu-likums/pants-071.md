@@ -11,6 +11,7 @@
 8) nodrošināt latviešu kultūras attīstību, it sevišķi veicinot oriģinālraidījumu veidošanu latviešu valodā;
 9) veicināt cieņu pret latviešu valodu, popularizēt Latvijas vēsturi un kultūras vērtības;
 10) sekmēt nacionālās identitātes apzināšanos Latvijas, Eiropas un globālajā telpā, kā arī reģionālās un lokālās identitātes izpausmes un attīstību Latvijā;
+10¹) nodrošināt ar diasporu saistītu norišu atspoguļošanu;
 11) saskaņā ar normatīvajiem aktiem pastāvīgi nodrošināt politiskajām partijām un politisko partiju apvienībām iespēju izteikt savu viedokli, kā arī iespēju veikt aģitāciju un sniegt informāciju pirms vēlēšanām un tautas nobalsošanas;
 12) novērtēt, saglabāt un izplatīt nacionālo un Eiropas kultūras mantojumu;
 13) ar dokumentāriem un mākslinieciskiem līdzekļiem veicināt Latvijas vēstures un mūsdienu procesu izpratni un veidot priekšstatu par nākotnes attīstības iespējām;

@@ -1,5 +1,5 @@
 21.⁸ pants. Rīcība pēc tam, kad pieņemts lēmums par audiovizuālo programmu retranslācijas pārtraukšanu
 (1) Ja Padomes noteiktajā termiņā retranslācija netiek pārtraukta, netiek saņemta retranslācijas atļauja vai ar Padomi netiek panākta vienošanās par tiesiskā pienākuma izpildes termiņa pagarināšanu, Padome īsteno uzraudzības iestādes funkcijas Informācijas sabiedrības pakalpojumu likuma izpratnē un veic citas normatīvajos aktos paredzētās darbības.
 (2) Ja Padomei nav iespēju īstenot šā panta pirmajā daļā noteiktās darbības, tai ir tiesības pieņemt lēmumu (vispārīgo administratīvo aktu), ar kuru tiek ierobežota piekļuve tām Latvijā pieejamām mājaslapām internetā, kuras retranslē audiovizuālās programmas bez retranslācijas atļaujas, liedzot to domēna vārdu izmantošanu uz laiku līdz sešiem mēnešiem.
-(3) Lai nodrošinātu šā panta otrajā daļā minētā lēmuma izpildi, Padome savā mājaslapā internetā uztur un aktualizē šā panta otrajā daļā minēto domēna vārdu sarakstu.
-(4) Kārtību, kādā Nacionālā elektronisko plašsaziņas līdzekļu padome sagatavo un pieņem šā panta otrajā daļā minēto lēmumu (vispārīgo administratīvo aktu), un šā lēmuma izpildes nosacījumus un kārtību nosaka Ministru kabinets.
+(3) Lai nodrošinātu šā panta otrajā daļā minētā lēmuma izpildi, Padome savā tīmekļvietnē uztur un aktualizē šā panta otrajā daļā minēto domēna vārdu sarakstu.
+(4) (Izslēgta ar 05.11.2020. likumu)

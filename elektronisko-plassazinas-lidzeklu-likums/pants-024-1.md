@@ -1,0 +1,4 @@
+24.¹ pants. Pieejamība personām ar invaliditāti
+(1) Elektroniskais plašsaziņas līdzeklis nodrošina, ka tā pakalpojumi tiek nepārtraukti un pakāpeniski darīti pieejamāki personām ar invaliditāti, un par to reizi gadā ziņo Nacionālajai elektronisko plašsaziņas līdzekļu padomei.
+(2) Elektroniskais plašsaziņas līdzeklis sadarbībā ar biedrībām un nodibinājumiem, kas pārstāv personu ar invaliditāti intereses, izstrādā rīcības plānu, kurā norāda plānotos pasākumus pieejamības nodrošināšanai. Par rīcības plānu elektroniskais plašsaziņas līdzeklis informē Nacionālo elektronisko plašsaziņas līdzekļu padomi 14 dienu laikā no tā apstiprināšanas brīža.
+(3) Elektroniskais plašsaziņas līdzeklis, kas sniedz publiskus paziņojumus un informāciju par ārkārtējām situācijām (tostarp dabas katastrofu gadījumā), to dara personām ar invaliditāti pieejamā veidā.

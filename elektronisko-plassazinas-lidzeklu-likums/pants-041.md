@@ -6,7 +6,7 @@
 1) daļēja ekrāna reklāma nedrīkst aizņemt vairāk kā vienu trešdaļu ekrāna;
 2) daļēja ekrāna reklāmas laukums ir nemainīgs, viegli identificējams un skaidri, ar vizuāliem līdzekļiem nodalīts no pārējā ekrāna. Ja daļēja ekrāna reklāma tiek izvietota uz kadrā redzamā pulksteņa raidījumu starplaikos, to var nenodalīt ar vizuāliem līdzekļiem no pārējā kadra;
 3) neatkarīgo producentu vai citu audiovizuālu elektronisko plašsaziņas līdzekļu veidotajos raidījumos elektroniskais plašsaziņas līdzeklis drīkst izvietot daļēja ekrāna reklāmu tikai ar tiesību turētāja piekrišanu;
-4) daļēja ekrāna reklāma tiek ieskaitīta stundas un diennakts reklāmas apjomā.
+4) daļēja ekrāna reklāma tiek ieskaitīta reklāmas apjomā, kas noteikts šā likuma 42. pantā.
 (3) Izvietojot virtuālo reklāmu, ievēro šādus noteikumus:
 1) raidījuma sākumā un beigās elektroniskais plašsaziņas līdzeklis informē par raidījumā iekļauto virtuālo reklāmu;
 2) audiovizuāls elektroniskais plašsaziņas līdzeklis nedrīkst izvietot virtuālo reklāmu bez pasākuma organizētāja, raidījuma producenta vai autora iepriekšējas piekrišanas;

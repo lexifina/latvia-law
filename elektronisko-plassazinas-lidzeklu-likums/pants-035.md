@@ -8,7 +8,7 @@
 5) ietvert, veicināt vai attaisnot vardarbību un nežēlību, kā arī cietsirdīgu vai bezatbildīgu cilvēka izturēšanos pret dzīvniekiem;
 6) aizskart cilvēka cieņu;
 7) kurināt naidu un aicināt diskriminēt kādu personu vai personu grupu dzimuma, vecuma, reliģiskās, politiskās vai citas pārliecības, seksuālās orientācijas, invaliditātes, rases vai etniskās piederības, valstspiederības vai citu apstākļu dēļ;
-8) reklamēt tabaku, tabakas izstrādājumus, elektroniskās cigaretes, uzpildes flakonus un smēķēšanu;
+8) reklamēt tabaku, tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un smēķēšanu;
 9) reklamēt maksas tālruņa pakalpojumus ar seksuālu raksturu elektronisko plašsaziņas līdzekļu programmās no pulksten 7.00 līdz 22.00;
 10) attēlot personas seksuāli pazemojošā veidā;
 11) izrādīt necieņu pret Latvijas nacionālajām vērtībām un valsts simboliem.
@@ -19,8 +19,8 @@
 (7) Audio vai audiovizuālā komerciālā paziņojumā aizliegts izmantot tehniskos līdzekļus vai citus paņēmienus, kas var ietekmēt skatītāju un klausītāju zemapziņu.
 (8) Audio vai audiovizuāla komerciāla paziņojuma vidējā skaņa nedrīkst būt skaļāka par vidējo skaņu triju minūšu laika intervālā pirms audio vai audiovizuāla komerciāla paziņojuma pārraidīšanas sākuma.
 (9) Slēpti audio vai audiovizuāli komerciāli paziņojumi ir aizliegti.
-(10) Produktu izvietošana elektronisko plašsaziņas līdzekļu programmās ir aizliegta, izņemot šā likuma 45.panta pirmajā daļā minētos gadījumus.
+(10) Produktu izvietošana elektroniskā plašsaziņas līdzekļa programmā ir atļauta, izņemot šā likuma 45. panta pirmajā daļā minētos gadījumus.
 (11) Šajā likumā minētie audio un audiovizuālu komerciālu paziņojumu ierobežojumi neattiecas uz tādu sporta un līdzīgu pasākumu translāciju, kuros reklāmas materiāli izvietoti notikumu fonā (reklāmas plakāti stadionos, komersantu nosaukumi un emblēmas, preču zīmes u.tml.) un no tiem nav iespējams izvairīties.
 (12) Izvietojot audio un audiovizuālus komerciālus paziņojumus elektronisko plašsaziņas līdzekļu programmās, tos sākumā un beigās ar vizuāliem vai akustiskiem līdzekļiem atdala no citām programmas daļām tā, lai šie paziņojumi būtu uzreiz atpazīstami un viegli identificējami.
-(13) Reklāma elektronisko plašsaziņas līdzekļu programmās izvietojama blokos.
+(13) Reklāmu un televīzijas veikalu elektroniskā plašsaziņas līdzekļa programmā izvieto blokos. Nošķirti reklāmas un televīzijas veikala iestarpinājumi ir atļauti sporta pārraidēs.
 (14) Elektronisko plašsaziņas līdzekļu radio programmās aizliegts izvietot reklāmas, kurās izmantots tāds akustisks līdzeklis, kas atgādina operatīvo transportlīdzekļu speciālo skaņas signālu. Šādu akustisku līdzekli aizliegts izmantot arī reklāmas bloka sākuma un beigu atdalīšanai no pārējās radio programmas daļas.
