@@ -1,0 +1,1 @@
+16. Grozījums šā likuma 38. pantā par tā trešās un ceturtās daļas izteikšanu jaunā redakcijā, grozījums šā likuma 40. pantā par tā papildināšanu ar trešo daļu, kā arī grozījums par šā likuma 42. panta izslēgšanu stājas spēkā vienlaikus ar Militārās disciplināratbildības likumu.
