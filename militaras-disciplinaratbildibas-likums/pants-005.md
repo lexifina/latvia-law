@@ -1,0 +1,9 @@
+5. pants. Militārās disciplīnas nodrošināšana
+(1) Katra komandiera (priekšnieka) pienākums ir nodrošināt militāro disciplīnu un dienesta kārtību tam pakļautajā vienībā (apakšvienībā), veicināt centību un priekšzīmīgu uzvedību, piešķirot apbalvojumus, kā arī taisnīgi sodīt par militārās disciplīnas pārkāpumiem.
+(2) Lai nodrošinātu militāro disciplīnu, komandieris (priekšnieks):
+1) ir paraugs padotajiem morālo normu un militārās disciplīnas ievērošanā un dienesta pienākumu nevainojamā pildīšanā;
+2) pastāvīgi kontrolē kaujas gatavību un militāro disciplīnu tam pakļautajās vienībās (apakšvienībās);
+3) noskaidro militārās disciplīnas pārkāpumu iemeslus un apstākļus, kā arī dienesta organizācijas trūkumus, kas varētu būt par militārās disciplīnas pārkāpumu cēloni, un veic pasākumus trūkumu novēršanai.
+(3) Ja karavīrs vai zemessargs nepakļaujas vai pretojas militārajai disciplīnai vai traucē dienesta kārtību, komandieris (priekšnieks) īsteno šajā likumā, Militārā dienesta iekārtas reglamentā un citos tiesību aktos noteiktās tiesības un pienākumus, lai panāktu padotā karavīra vai zemessarga paklausību.
+(4) Ja starp karavīriem vai zemessargiem nav savstarpēju dienesta attiecību un karavīrs vai zemessargs augstākas dienesta pakāpes karavīra vai zemessarga klātbūtnē pārkāpj noteikto dienesta kārtību un militāro disciplīnu, kā arī neievēro militāro pieklājību vai sabiedrisko kārtību, tad augstākas dienesta pakāpes karavīrs vai zemessargs brīdina pārkāpēju. Ja pārkāpējs brīdinājumu neievēro, augstākas dienesta pakāpes karavīrs vai zemessargs veic pārkāpuma novēršanai nepieciešamos pasākumus un par to ziņo Militārajai policijai.
+(5) Ja komandieris (priekšnieks) nav izpildījis savus pienākumus militārās disciplīnas un dienesta kārtības nodrošināšanai, viņu sauc pie atbildības šajā likumā noteiktajā kārtībā.

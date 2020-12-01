@@ -1,0 +1,13 @@
+19. pants. Dienesta izmeklēšana
+(1) Komandieris (priekšnieks) dienesta izmeklēšanu var uzdot veikt viņam padotai amatpersonai vai komisijai (turpmāk - izmeklēšanas veicējs) vai arī veikt to pats. Veikt dienesta izmeklēšanu uzdod ar rakstveida pavēli.
+(2) Dienesta izmeklēšana veicama viena mēneša laikā. Ja objektīvu iemeslu dēļ viena mēneša termiņu nav iespējams ievērot, ar komandiera (priekšnieka) lēmumu dienesta izmeklēšanas termiņu var pagarināt Administratīvā procesa likumā noteiktajos gadījumos un kārtībā. Ar šo lēmumu iepazīstina pārkāpumā iesaistīto karavīru vai zemessargu. Dienesta izmeklēšanas termiņā neieskaita laiku, kurā karavīram vai zemessargam bijusi pārejoša darbnespēja vai viņš ir bijis atvaļinājumā vai komandējumā, vai citā attaisnotā prombūtnē.
+(3) Izmeklēšanas veicējs pavēlē noteikto uzdevumu izpildē ir tieši pakļauts komandierim (priekšniekam), kurš izdevis pavēli par dienesta izmeklēšanu, un, veicot dienesta izmeklēšanu, viņam ir šā panta pirmajā daļā minētā komandiera tiesības.
+(4) Ja objektīvas izmeklēšanas nodrošināšanai nepieciešamas speciālas zināšanas noteiktā darbības jomā vai specialitātē, komandieris (priekšnieks), kas veic dienesta izmeklēšanu, vai izmeklēšanas veicējs atzinuma sniegšanai var pieaicināt attiecīgu speciālistu.
+(5) Dienesta izmeklēšanu aizliegts veikt amatpersonai:
+1) kura ir militārās disciplīnas pārkāpumā iesaistītā karavīra vai zemessarga padotais;
+2) kura ir radniecības attiecībās līdz trešajai pakāpei vai svainības attiecībās līdz otrajai pakāpei ar militārās disciplīnas pārkāpumā iesaistīto karavīru vai zemessargu, kā arī šādas amatpersonas laulātais;
+3) kura ir militārās disciplīnas pārkāpuma aculiecinieks;
+4) kurai konkrētajā militārās disciplīnas pārkāpuma izskatīšanas lietā rodas vai var rasties interešu konflikts;
+5) kura personiski tieši vai netieši ir ieinteresēta disciplinārlietas iznākumā vai par kuras objektivitāti ir pamatotas šaubas citu apstākļu dēļ.
+(6) Ja pastāv šā panta piektajā daļā minētie apstākļi, kas izmeklēšanas veicējam liedz veikt dienesta izmeklēšanu, izmeklēšanas veicējam ir pienākums iesniegt pamatotu ziņojumu komandierim (priekšniekam), kurš izdevis šā panta pirmajā daļā minēto pavēli. Pēc šāda ziņojuma saņemšanas komandieris (priekšnieks) nosaka citu izmeklēšanas veicēju.
+(7) Ja komandieris (priekšnieks) dienesta izmeklēšanu veic pats, kā arī gadījumos, kad komandieris (priekšnieks) izskata militārās disciplīnas pārkāpumu bez dienesta izmeklēšanas veikšanas un pastāv šā panta piektās daļas 2., 4. un 5. punktā minētie ierobežojumi, komandieris (priekšnieks) iesniedz pamatotu ziņojumu augstākam komandierim (priekšniekam), kas pārņem militārās disciplīnas pārkāpuma izskatīšanu.
