@@ -1,0 +1,1 @@
+1. pants. 2020. gada 19. februārī parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības līgums par Latvijas-Igaunijas valsts robežas uzturēšanu un pilnvaroto robežas pārstāvju darbību (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
