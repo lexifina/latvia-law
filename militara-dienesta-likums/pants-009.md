@@ -3,8 +3,5 @@
 1) militārajos reglamentos un citos normatīvajos aktos noteikto pienākumu izpilde;
 2) komandiera (priekšnieka) pavēles izpilde;
 3) citāda normatīvajos aktos paredzētā karavīru darbība sabiedrības un valsts interesēs.
-(2) Ministru kabinets nosaka:
-1) (izslēgts ar 12.06.2003. likumu);
-2) (izslēgts ar 10.06.2004. likumu);
-3) karavīru disciplināro atbildību - Karavīru un zemessargu militārās disciplīnas reglamentā.
+(2) (Izslēgta ar 05.11.2020. likumu)
 (3) Militārā dienesta iekārtas reglamentu, kas nosaka karavīru savstarpējās attiecības, karavīru vispārīgos pienākumus un amatpersonu pienākumus, aktīvā dienesta izpildes kārtību un vienību (apakšvienību) iekšējo kārtību, Garnizona reglamentu, kas nosaka garnizona organizāciju un dienesta izpildi, un Sardzes (apsardzes) reglamentu, kas nosaka sardzes (apsardzes) organizāciju un dienesta izpildi, kā arī citus reglamentus, kas nosaka militārā dienesta izpildi, apstiprina aizsardzības ministrs.

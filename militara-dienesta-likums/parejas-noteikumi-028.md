@@ -1,0 +1,1 @@
+28. Grozījums šā likuma 4. panta trešajā daļā par vārdu "kā arī viņam nevar piemērot disciplinārsodu - arestu" izslēgšanu, grozījums šā likuma 6. pantā par tā izteikšanu jaunā redakcijā un grozījumi par šā likuma 9. panta otrās daļas un 75. panta izslēgšanu stājas spēkā vienlaikus ar Militārās disciplināratbildības likumu.
