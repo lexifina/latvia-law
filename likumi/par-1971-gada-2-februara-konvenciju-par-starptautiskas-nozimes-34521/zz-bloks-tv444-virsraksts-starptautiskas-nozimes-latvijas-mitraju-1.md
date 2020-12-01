@@ -32,9 +32,16 @@ Pape
 Nīcas novadsNīcas pagasts
 Rucavas novadsRucavas pagasts
 4.
-Kaņieris (Kaņiera ezers)
-1995
-Engures novadsLapmežciema pagasts
+Kaņieris un Lielais Ķemeru tīrelis
+36 180
+Engures novadsEngures pagasts
+Smārdes pagasts
+Lapmežciema pagasts
+Tukuma novadsSlampes pagasts
+Džūkstes pagasts
+Babītes novadsSalas pagasts
+Jelgavas novadsValgundes pagasts
+Jūrmala
 5.
 Teiču un Pelēčāres purvs
 23 560
