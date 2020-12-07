@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2020. gada 3. decembra lēmums Nr. 1/16 \"Noteikumi par informāciju elektroenerģijas un dabasgāzes galalietotājiem\". Latvijas Vēstnesis, 236, 07.12.2020.",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "236",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-06",
+  "entry_into_force": "2020-12-07",
+  "notification_date": "2021-03-24",
+  "commission_reference": "MNE(2021)02179",
+  "nim_celex": "72019L0944LVA_202102179",
+  "nim_id": "202102179",
+  "transposes_celex": [
+    "32019L0944"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8133e3fd-905a-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
