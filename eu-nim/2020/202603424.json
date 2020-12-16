@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 10. decembra noteikumi Nr. 730 \"Ekspluatējamu ēku energoefektivitātes minimālās prasības\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "242",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-15",
+  "entry_into_force": "2020-12-16",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03424",
+  "nim_celex": "72024L1275LVA_202603424",
+  "nim_id": "202603424",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3247421d-93e7-4c8a-b220-6b71a861358f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
