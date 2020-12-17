@@ -1,0 +1,1 @@
+34.¹ Šā likuma 39.¹ pants, 42. panta trešā daļa, 47. panta trešā daļa, 66. panta septītā daļa (2018. gada 20. jūnija likuma redakcijā) zaudē spēku vienlaikus ar Sabiedrisko elektronisko plašsaziņas līdzekļu un to pārvaldības likuma spēkā stāšanos.
