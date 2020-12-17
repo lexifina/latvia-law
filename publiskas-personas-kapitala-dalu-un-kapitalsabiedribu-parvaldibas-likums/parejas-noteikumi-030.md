@@ -1,0 +1,1 @@
+30. Pašvaldības, kuras administratīvi teritoriālās reformas ietvaros apvieno un kuras ir kapitāla daļu turētājas kapitālsabiedrībā, neveic šā likuma 7. pantā noteikto pienākumu. Administratīvi teritoriālās reformas ietvaros jaunizveidotās novadu pašvaldības izpilda šā likuma 7. pantā noteikto pienākumu līdz 2022. gada 1. jūnijam.
