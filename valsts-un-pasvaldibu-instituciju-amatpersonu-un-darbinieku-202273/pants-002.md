@@ -21,7 +21,8 @@
 19) Finanšu un kapitāla tirgus komisija;
 20) tiesu iestādes;
 21) prokuratūra;
-22) (izslēgts ar 20.09.2018. likumu).
+22) (izslēgts ar 20.09.2018. likumu);
+23) Sabiedrisko elektronisko plašsaziņas līdzekļu padome.
 (2) Likums attiecas arī uz tām amatpersonām (darbiniekiem), kas neatkarīgi no nodarbinātības šā panta pirmajā daļā minētajās institūcijās ir:
 1) (izslēgts ar 16.12.2010. likumu);
 2) (izslēgts ar 16.12.2010. likumu);

@@ -1,0 +1,1 @@
+47. 2021. gadā Sabiedrisko elektronisko plašsaziņas līdzekļu padomes locekļu un sabiedrisko elektronisko plašsaziņas līdzekļu ombuda atlīdzībai nepieciešamais finansējums tiek segts no valsts budžeta 74. resora "Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".
