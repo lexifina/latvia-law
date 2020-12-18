@@ -1,1 +1,1 @@
-53. Vienreizējo slimības palīdzības pabalstu finansē no valsts pamatbudžeta. No slimības palīdzības pabalsta neietur iedzīvotāju ienākuma nodokli un neveic valsts sociālās apdrošināšanas obligātās iemaksas.
+53. Šo pārejas noteikumu 48. punktā minēto slimības palīdzības pabalstu finansē no valsts pamatbudžeta. No slimības palīdzības pabalsta neietur iedzīvotāju ienākuma nodokli un neveic valsts sociālās apdrošināšanas obligātās iemaksas.
