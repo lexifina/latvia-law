@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2020.gada rudens sesija",
+ "sede": 45,
+ "datums": "2020-12-21",
+ "ieraksts": {
+  "dkp_id": "4f36f791-781f-4547-8982-4621118c595e",
+  "lastmodtime": "\"AAAAAAHXlgw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Inese Nikuļceva#Gunārs Kūtris#Inese Lībiņa-Egnere#Inese Druviete#Ringolds Balodis",
+  "CANDIDATERESULT": "29:64#13:80#21:72#13:80#17:76",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "21.12.2020 13:14:12",
+  "VOTEMOTIVE": "Par Satversmes tiesas tiesneša apstiprināšanu (473/Lm13)",
+  "VOTING_ID": "e43a5533-9e6b-46f4-9611-f08302ef7422",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2020.gada rudens sesija-45-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d81df363-e5f6-404a-9d77-577a3ca615ee/download/13.saeimas-2020.gada-rudens-sesija-45-vote.xml",
+  "sha256": "544650492f6e4ebff477332734737ad00ebe77e8a5360cb04e059a6b5a22ab2c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
