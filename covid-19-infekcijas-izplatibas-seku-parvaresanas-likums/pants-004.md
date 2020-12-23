@@ -1,5 +1,8 @@
 4. pants. (1) Nodokļu maksātājam, kuru skārusi Covid-19 izraisītā krīze, ir tiesības līdz 2020. gada 30. decembrim pieteikties nodokļu samaksas termiņa pagarinājumam, kā arī lūgt piešķirt nodokļu samaksas termiņa pagarinājumu tiem nokavētajiem nodokļu maksājumiem, kuru samaksas termiņš ir pagarināts saskaņā ar likuma "Par nodokļiem un nodevām" 24. pantu, ja termiņa kavējums radies Covid-19 izplatības dēļ. Nodokļu maksātājs ne vēlāk kā 15 dienu laikā pēc maksājuma termiņa iestāšanās iesniedz nodokļu administrācijai pamatotu iesniegumu. Nodokļu administrācijai ir tiesības nokavēto nodokļu maksājumu samaksu sadalīt termiņos vai atlikt uz laiku līdz trim gadiem, skaitot no iesnieguma iesniegšanas dienas.
 (2) Nokavētajam nodokļu maksājumam, kuram piešķirts nodokļu samaksas termiņa pagarinājums saskaņā ar šā panta pirmo daļu, netiek aprēķināta likuma "Par nodokļiem un nodevām" 29. panta otrajā daļā noteiktā nokavējuma nauda.
+(2¹) (Daļa stājas spēkā 01.01.2021. un iekļauta likuma redakcijā uz 01.01.2021. Sk. Pārejas noteikumu 9. punktu)
+(2²) (Daļa stājas spēkā 01.01.2021. un iekļauta likuma redakcijā uz 01.01.2021. Sk. Pārejas noteikumu 9. punktu)
+(2³) (Daļa stājas spēkā 01.01.2021. un iekļauta likuma redakcijā uz 01.01.2021. Sk. Pārejas noteikumu 9. punktu)
 (3) Ja nodokļu maksātājam šajā pantā noteiktajā kārtībā ir piešķirts nodokļu samaksas termiņa pagarinājums, informācija par nodokļu maksātāju netiek iekļauta Valsts ieņēmumu dienesta administrēto nodokļu (nodevu) parādnieku datubāzē.
 (4) Nodokļu administrācijai ir tiesības atcelt lēmumu par nodokļu samaksas termiņa pagarinājumu, ja nodokļu maksātājs:
 1) neievēro lēmumā par nodokļu samaksas termiņa pagarinājumu noteiktos termiņus;
