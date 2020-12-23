@@ -1,3 +1,3 @@
 28. pants. Vispārizplatīto derīgo izrakteņu iegulu piešķiršana ceļu būvniecībai, rekonstrukcijai un uzturēšanai
 (1) Ceļu būvniecības, rekonstrukcijas un uzturēšanas vajadzībām nepieciešamos derīgos izrakteņus ceļa īpašnieks saskaņā ar likumu "Par zemes dzīlēm" bez īpašas atļaujas un maksas drīkst iegūt ceļa zemes nodalījuma joslā.
-(2) Valsts, pašvaldību un meža ceļu būvniecībai, rekonstrukcijai un uzturēšanai nepieciešamos derīgos izrakteņus valsts akciju sabiedrība "Latvijas Valsts ceļi", valsts akciju sabiedrība "Latvijas valsts meži" un pašvaldības var iegūt saskaņā ar likumu "Par zemes dzīlēm".
+(2) Valsts, pašvaldību un meža ceļu būvniecībai, rekonstrukcijai un uzturēšanai nepieciešamos derīgos izrakteņus valsts sabiedrība ar ierobežotu atbildību "Latvijas Valsts ceļi", valsts akciju sabiedrība "Latvijas valsts meži" un pašvaldības var iegūt saskaņā ar likumu "Par zemes dzīlēm".

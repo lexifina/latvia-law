@@ -1,0 +1,1 @@
+28. Satiksmes ministrs slēdz deleģēšanas līgumu ar valsts akciju sabiedrību "Latvijas autoceļu uzturētājs" par valsts autoceļu ikdienas uzturēšanas darbu veikšanu no 2021. gada 1. janvāra līdz 2022. gada 30. aprīlim.

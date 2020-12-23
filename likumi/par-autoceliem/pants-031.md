@@ -1,3 +1,3 @@
-31. pants. Valsts akciju sabiedrības "Latvijas Valsts ceļi" un amatpersonu atbildība par autoceļu un ceļu inženierbūvju uzturēšanas noteikumu pārkāpšanu
-(1) Par šā likuma 23. pantā paredzēto pienākumu neizpildīšanu, kā rezultātā autoceļu lietotājiem ir nodarīts kaitējums, valsts akciju sabiedrība "Latvijas Valsts ceļi" atlīdzina tiem radīto kaitējumu saskaņā ar likumu.
+31. pants. Valsts sabiedrības ar ierobežotu atbildību "Latvijas Valsts ceļi" un amatpersonu atbildība par autoceļu un ceļu inženierbūvju uzturēšanas noteikumu pārkāpšanu
+(1) Par šā likuma 23. pantā paredzēto pienākumu neizpildīšanu, kā rezultātā autoceļu lietotājiem ir nodarīts kaitējums, valsts sabiedrība ar ierobežotu atbildību "Latvijas Valsts ceļi" atlīdzina tiem radīto kaitējumu saskaņā ar likumu.
 (2) Amatpersonas par autoceļu un ceļu inženierbūvju uzturēšanas noteikumu pārkāpšanu vai par pasākumu neveikšanu, lai savlaicīgi aizliegtu vai ierobežotu satiksmi atsevišķos ceļa posmos, kuru lietošana var apdraudēt satiksmes drošību, sauc pie disciplinārās, administratīvās vai citas atbildības saskaņā ar likumu.

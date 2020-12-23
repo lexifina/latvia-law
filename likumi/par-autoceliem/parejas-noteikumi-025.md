@@ -1,0 +1,1 @@
+25. Šā likuma grozījumi par 7. panta trešās daļas izteikšanu jaunā redakcijā un 3.¹ daļas izslēgšanu, 23.² panta nosaukuma izteikšanu jaunā redakcijā, otrās daļas izslēgšanu un ceturtās daļas vārda "kompleksās" izslēgšanu stājas spēkā 2021. gada 1. janvārī.

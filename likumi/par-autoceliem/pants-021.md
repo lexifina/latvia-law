@@ -1,2 +1,2 @@
 21.pants. Darbu veikšana uz autoceļiem
-Juridiskās un fiziskās personas, kuras veic darbus uz autoceļiem un ceļu zemes nodalījuma joslā, nodrošina ar valsts akciju sabiedrību "Latvijas Valsts ceļi" saskaņotas tehnoloģijas ievērošanu, darbu veikšanu noteiktos termiņos un pienācīgā kvalitātē un satiksmes drošību, kā arī aprīko darbu veikšanas vietas ar nepieciešamajiem norobežojumiem un ceļa zīmēm.
+Juridiskās un fiziskās personas, kuras veic darbus uz autoceļiem un ceļu zemes nodalījuma joslā, nodrošina ar valsts sabiedrību ar ierobežotu atbildību "Latvijas Valsts ceļi" saskaņotas tehnoloģijas ievērošanu, darbu veikšanu noteiktos termiņos un pienācīgā kvalitātē un satiksmes drošību, kā arī aprīko darbu veikšanas vietas ar nepieciešamajiem norobežojumiem un ceļa zīmēm.
