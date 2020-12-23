@@ -1,1 +1,1 @@
-24. Līdz 2020. gada 31. decembrim persona nezaudē bezdarbnieka statusu atbilstoši šā likuma 12. panta pirmās daļas 1. punktam, ja darba ņēmēja vai pašnodarbinātā statuss divreiz 12 mēnešu periodā iegūts uz laiku, kas kopā nepārsniedz 120 dienas.
+24. Līdz 2021. gada 31. decembrim persona nezaudē bezdarbnieka statusu atbilstoši šā likuma 12. panta pirmās daļas 1. punktam, ja darba ņēmēja vai pašnodarbinātā statuss divreiz 12 mēnešu periodā iegūts uz laiku, kas kopā nepārsniedz 120 dienas.
