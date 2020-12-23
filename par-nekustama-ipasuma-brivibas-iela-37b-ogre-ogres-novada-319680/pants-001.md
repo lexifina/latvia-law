@@ -1,0 +1,1 @@
+1. pants. Atsavināt sabiedrības vajadzībām - Ogres vispārējās pirmsskolas izglītības iestādes "Cīrulītis" darbības nodrošināšanai un Ogres Centrālās bibliotēkas ēkas būvniecībai - nekustamo īpašumu Brīvības ielā 37b, Ogrē, Ogres novadā (kadastra Nr. 7401 003 0212, reģistrēts Ogres pilsētas zemesgrāmatas nodalījumā Nr. 2213), ar kopējo platību 8500 m².
