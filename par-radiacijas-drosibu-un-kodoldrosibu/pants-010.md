@@ -1,5 +1,5 @@
-10.pants. Radiācijas monitorings
-(1) Centrs nodrošina radiācijas monitoringa staciju darbību un informācijas apmaiņu atbilstoši starptautisko līgumu prasībām radiācijas drošības un kodoldrošības jomā.
+10.pants. Vides radiācijas monitorings
+(1) Centrs nodrošina vides radiācijas monitoringa staciju darbību un informācijas apmaiņu atbilstoši starptautisko līgumu prasībām vides radiācijas drošības un kodoldrošības jomā.
 (2) Pārtikas un veterinārais dienests organizē pārtikas un dzīvnieku barības radioaktīvā piesārņojuma kontroli un par to iesniedz Centram datus.
 (3) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs":
 1) koordinē un organizē vides radiācijas monitoringu atbilstoši Vides monitoringa programmai;

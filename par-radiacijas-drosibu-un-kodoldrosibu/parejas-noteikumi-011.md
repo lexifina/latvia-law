@@ -1,0 +1,1 @@
+11. Šā likuma 3. panta pirmās daļas 5. punkta un 11. panta jaunā redakcija stājas spēkā 2021. gada 1. februārī. Šā likuma 10.¹ pants, kā arī grozījums par 13. panta papildināšanu ar devīto daļu stājas spēkā 2021. gada 1. janvārī.

@@ -1,3 +1,3 @@
 V nodaļa
-Prasības personām,
+Prasības darbiniekiem,
 strādājot ar jonizējošā starojuma avotiem

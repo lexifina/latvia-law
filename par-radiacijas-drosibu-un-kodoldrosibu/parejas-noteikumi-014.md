@@ -1,0 +1,1 @@
+14. Prasības par finanšu nodrošinājumu nepiemēro līdz 2021. gada 31. decembrim. Operatori, kuriem licences izsniegtas līdz 2021. gada 31. decembrim, finanšu nodrošinājumu iesniedz Centram līdz 2022. gada 30. jūnijam.

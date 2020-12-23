@@ -1,0 +1,12 @@
+16.² pants. Finanšu nodrošinājuma izmaksas gadījuma iestāšanās
+(1) Centrs ir tiesīgs pieņemt lēmumu par finanšu nodrošinājuma atlīdzību pilnā vai daļējā apmērā atkarībā no operatora saistību izpildes. Saņemto atlīdzību valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" izlieto slēgtu starojuma avotu drošai pārvaldībai, lai segtu izdevumus, ja:
+1) slēgts augstas radioaktivitātes starojuma avots kļūst par lietošanā neesošu starojuma avotu un pagaidu radioaktīvo atkritumu glabātavā tiek uzglabāts ilgāk par pusgadu;
+2) slēgts starojuma avots kļūst par lietošanā neesošu starojuma avotu un pagaidu radioaktīvo atkritumu glabātavā tiek uzglabāts ilgāk par gadu;
+3) slēgta starojuma avota operators atzīts par maksātnespējīgu atbilstoši normatīvajiem aktiem par maksātnespēju vai ir pārtraucis savu komercdarbību;
+4) operatoram izsniegtās licences darbības termiņš ir beidzies, tās darbība ir apturēta vai licence ir anulēta un nepieciešams nodrošināt slēgta starojuma avota drošu pārvaldību.
+(2) Iestājoties finanšu nodrošinājuma izmaksas gadījumam, Centrs lemj par pienākumu maksāt finanšu nodrošinājumu un:
+1) paziņo operatoram lēmumu par pienākumu maksāt finanšu nodrošinājumu, norādot operatora saistību neizpildes būtību, kopējo aprēķināto finanšu nodrošinājuma summu, maksājuma samaksas termiņu un valsts sabiedrības ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" kontu, kurā ieskaitāms maksājums;
+2) paziņo finanšu nodrošinājuma sniedzējam lēmumu par pienākumu maksāt finanšu nodrošinājumu;
+3) informē valsts sabiedrību ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs", kas ir atbildīga par radioaktīvo atkritumu pārvaldību valstī, ka pieņemts lēmums par pienākumu maksāt finanšu nodrošinājumu.
+(3) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" pēc finanšu nodrošinājuma maksājuma saņemšanas nodrošina slēgta starojuma avota pārvaldību atbilstoši normatīvajiem aktiem par radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem.
+(4) Centram ir tiesības pieprasīt, lai finanšu nodrošinājuma sniedzējs izmaksā finanšu nodrošinājuma summu viena gada laikā pēc finanšu nodrošinājuma termiņa beigām, ja pamats izmaksai radies finanšu nodrošinājuma darbības laikā. Izmaksājamo finanšu nodrošinājuma summu pārskaita uz Centra lēmumā norādīto valsts sabiedrības ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" kontu.

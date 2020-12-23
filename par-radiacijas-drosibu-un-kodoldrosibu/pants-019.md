@@ -1,2 +1,2 @@
-19.pants. Daļēji bīstamas darbības
-Ja operatora kontrolētajā zonā nepieciešams atrasties personai, kas nestrādā ar jonizējošā starojuma avotiem, darbu vadītājam ir pienākums nodrošināt, lai šīs personas kopējā jonizējošā starojuma doza nepārsniedz noteikto dozas limitu attiecībā uz iedzīvotājiem - 1 milizīvertu gadā. Ja šo prasību nevar izpildīt, darbu vadītājs drīkst atļaut darbu veikt tikai tādām personām, kurām ir tiesības strādāt ar jonizējošā starojuma avotiem.
+19. pants. Daļēji bīstamas darbības
+Ja operatora kontrolētajā zonā nepieciešams atrasties darbiniekiem, kas nestrādā ar jonizējošā starojuma avotiem, darbu vadītājam ir pienākums nodrošināt, lai šo darbinieku kopējā jonizējošā starojuma doza nepārsniedz iedzīvotājiem noteikto dozas limitu - 1 milizīvertu gadā. Ja šo prasību nevar izpildīt, darbu vadītājs drīkst atļaut darbu veikt tikai tādiem darbiniekiem, kuriem ir tiesības strādāt ar jonizējošā starojuma avotiem.
