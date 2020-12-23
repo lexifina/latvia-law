@@ -1,1 +1,1 @@
-4. Šā likuma 11. pants ir spēkā līdz dienai, kad stājas spēkā grozījumi Alkoholisko dzērienu aprites likumā, saskaņā ar kuriem atļauta alkoholisko dzērienu mazumtirdzniecība, izmantojot distances līgumu, bet ne ilgāk kā līdz 2020. gada 31. decembrim.
+4. Šā likuma 11. pants ir spēkā līdz dienai, kad stājas spēkā grozījumi Alkoholisko dzērienu aprites likumā, saskaņā ar kuriem atļauta alkoholisko dzērienu mazumtirdzniecība, izmantojot distances līgumu.

@@ -1,0 +1,1 @@
+9. Grozījums šā likuma 2. pantā (par skaitļa un vārda "4. un" izslēgšanu) un grozījumi šajā likumā par 4. panta pirmās daļas izteikšanu jaunā redakcijā un panta papildināšanu ar 2.¹, 2.² un 2.³ daļu stājas spēkā 2021. gada 1. janvārī.

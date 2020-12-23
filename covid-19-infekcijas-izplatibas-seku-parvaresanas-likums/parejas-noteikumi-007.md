@@ -1,1 +1,1 @@
-7. Šā likuma 58. pants zaudē spēku 2020. gada 31. decembrī.
+7. Šā likuma 58. pants ir spēkā līdz 2021. gada 30. jūnijam.

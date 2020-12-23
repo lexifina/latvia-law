@@ -1,3 +1,4 @@
-20. pants. Lai nodrošinātu sabiedrības tiesības uz objektīvu informāciju par šajā likumā paredzēto atbalsta pasākumu atteikšanu, nodokļu administrācijas ierēdnis (darbinieks) drīkst sniegt informāciju bez nodokļu maksātāja piekrišanas par iemesliem, kuru dēļ nodokļu maksātājam:
+20. pants. Lai nodrošinātu sabiedrības tiesības uz objektīvu informāciju par šajā likumā un uz šā likuma pamata izdotajos Ministru kabineta noteikumos paredzēto atbalsta pasākumu atteikšanu, nodokļu administrācijas ierēdnis (darbinieks) drīkst sniegt informāciju bez nodokļu maksātāja piekrišanas par iemesliem, kuru dēļ nodokļu maksātājam:
 1) nav piešķirts šā likuma 4. panta pirmajā daļā minētais nodokļu samaksas termiņa pagarinājums vai ir atcelts lēmums par nodokļu samaksas termiņa pagarinājumu;
-2) ir atteikts piešķirt dīkstāves pabalstu vai tas piešķirts, bet ir konstatēts, ka dīkstāves pabalsta pieprasīšana vai saņemšana nav bijusi pamatota.
+2) ir atteikts piešķirt dīkstāves pabalstu vai tas piešķirts, bet ir konstatēts, ka dīkstāves pabalsta pieprasīšana vai saņemšana nav bijusi pamatota;
+3) ir atteikts piešķirt uz šā likuma pamata Ministru kabineta noteiktos atbalsta pasākumus vai tie piešķirti, bet ir konstatēts, ka minētā atbalsta pasākuma pieprasīšana vai saņemšana nav bijusi pamatota.

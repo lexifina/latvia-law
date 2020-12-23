@@ -1,6 +1,0 @@
-10. pants. (1) Nodokļu maksātājam (izņemot ārstniecības un veterinārmedicīnas iestādes un aptiekas) Valsts ieņēmumu dienesta izsniegtā atļauja iegādāties alkoholiskos dzērienus, kuriem piemēro atbrīvojumu no akcīzes nodokļa, tāda nedenaturētā spirta iegādei, ko paredzēts izmantot dezinfekcijas līdzekļu ražošanā, zaudē spēku nākamajā dienā pēc ārkārtējās situācijas beigām. Minētais nodokļu maksātājs nākamajā dienā pēc ārkārtējās situācijas beigām veic nedenaturētā spirta atlikumu inventarizāciju un konstatēto atlikumu deklarē Valsts ieņēmumu dienestā, papildus norādot plānotās darbības ar nedenaturēto spirtu.
-(2) Viena mēneša laikā no dienas, kad šā panta pirmajā daļā minētā atļauja ir zaudējusi spēku, nodokļu maksātājs minēto nedenaturētā spirta atlikumu:
-1) bez Valsts ieņēmumu dienesta atļaujas nosūta atpakaļ piegādātājam;
-2) ar Valsts ieņēmumu dienesta atļauju pārvieto vai realizē akcīzes preču noliktavas turētājam, kuram ir tiesības veikt darbības ar spirtu. Lai saņemtu minēto atļauju, pievieno līgumu par nedenaturētā spirta realizāciju attiecīgajam akcīzes preču noliktavas turētājam;
-3) iznīcina Valsts ieņēmumu dienesta amatpersonas klātbūtnē;
-4) nodod denaturēšanai akcīzes preču noliktavas turētājam, kuram ir tiesības denaturēt spirtu, un saņem atļauju denaturētā spirta iegādei dezinfekcijas līdzekļu ražošanai.
