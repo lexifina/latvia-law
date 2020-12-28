@@ -9,7 +9,7 @@
 5) no pulksten 22.00 līdz 8.00, izņemot tādas mazumtirdzniecības vietas, kurās alkoholiskie dzērieni tiek realizēti tikai izlejamā veidā un tiek nodrošināta to patērēšana uz vietas, kā arī beznodokļu tirdzniecības veikalus;
 6) tirdzniecības automātos;
 7) no transportlīdzekļiem, izņemot specializētos autoveikalus;
-8) izmantojot distances līgumu.
+8) izmantojot distances līgumu, izņemot šā likuma 6.¹ pantā noteiktos gadījumus.
 (1¹) Alkoholisko dzērienu mazumtirdzniecībā, izņemot alu, kurā absolūtais spirta daudzums nepārsniedz 5,8 tilpumprocentus, papildus šā panta pirmajā daļā noteiktajiem ierobežojumiem vienlaikus ievērojami visi šādi nosacījumi:
 1) alkoholiskie dzērieni izvietojami nodalītā tirdzniecības zāles pašapkalpošanās zonā vai alkoholisko dzērienu mazumtirdzniecība organizējama, individuāli apkalpojot katru pircēju. Šis nosacījums neattiecas uz mazajā alkoholisko dzērienu darītavā saražoto alkoholisko dzērienu mazumtirdzniecību;
 2) (izslēgts ar 05.03.2015. likumu);
