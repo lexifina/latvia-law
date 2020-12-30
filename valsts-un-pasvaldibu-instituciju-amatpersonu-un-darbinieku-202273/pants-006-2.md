@@ -9,5 +9,5 @@
 6) Ģenerālprokuratūras prokuroram - 1,24;
 7) Ģenerālprokuratūras nodaļas virsprokuroram - 1,45;
 8) Ģenerālprokuratūras departamenta virsprokuroram - 1,55;
-9) ģenerālprokuroram - 1,75.
+9) ģenerālprokuroram - 1,925.
 (3) Prokurora amata kandidāts stažēšanās laikā saņem mēnešalgu 80 procentu apmērā no rajona (pilsētas) prokurora mēnešalgas.

@@ -13,7 +13,7 @@
 9) (izslēgts ar 12.12.2013. likumu);
 10) Augstākās tiesas tiesnesim - 1,42;
 11) Augstākās tiesas departamenta priekšsēdētājam - 1,55;
-12) Augstākās tiesas priekšsēdētājam - 1,77;
+12) Augstākās tiesas priekšsēdētājam - 1,947;
 13) Satversmes tiesas tiesnesim - 1,8;
 14) Satversmes tiesas priekšsēdētāja vietniekam - 1,98;
 15) Satversmes tiesas priekšsēdētājam - 2,25.

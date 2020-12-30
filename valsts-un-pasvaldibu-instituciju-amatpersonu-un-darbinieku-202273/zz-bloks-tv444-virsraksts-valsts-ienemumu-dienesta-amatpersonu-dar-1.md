@@ -14,4 +14,4 @@ Nr. p. k.Mēnešalgu grupaMēnešalgas maksimālais apmērs (euro)
 13.4ne vairāk kā 775
 14.3ne vairāk kā 650
 15.2ne vairāk kā 540
-16.1ne vairāk kā 450
+16.1ne vairāk kā 500

@@ -241,7 +241,7 @@ Maksimālā mēnešalgu grupa
 (Izslēgta ar 14.11.2019. likumu)
 81.
 53.3
-8
+14
 82.
 54
 15
