@@ -1,0 +1,1 @@
+30. Līdz 2021. gada pašvaldību vēlēšanās ievēlētās pašvaldības domes pirmajai sēdei šajā likumā noteiktos valstspilsētu pašvaldību uzdevumus pilda republikas pilsētu (2007. gada 14. jūnija Administratīvo teritoriju un apdzīvoto vietu likuma izpratnē) pašvaldības.

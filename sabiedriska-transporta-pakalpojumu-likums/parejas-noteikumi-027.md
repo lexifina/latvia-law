@@ -1,0 +1,1 @@
+27. Šā likuma grozījums par 8. panta papildināšanu ar 3.² un 3.³ daļu nav attiecināms uz sabiedriskā transporta pakalpojumu pasūtījuma līgumiem, kuri noslēgti pirms šā grozījuma spēkā stāšanās dienas.

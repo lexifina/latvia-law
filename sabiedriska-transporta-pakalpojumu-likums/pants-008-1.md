@@ -1,0 +1,17 @@
+8.¹ pants. Sabiedriskā transporta pakalpojumi komerciālajos maršrutos
+(1) Komerciālos maršrutus (reisus) Autotransporta direkcija veido, izvērtējot autobusu un dzelzceļa pārvadājumu intensitāti, pakalpojuma pieejamību un pieejamo valsts budžeta finansējumu. Informācija par izveidotiem komerciālajiem maršrutiem (reisiem) tiek publicēta Autotransporta direkcijas tīmekļvietnē. Reģionālās nozīmes maršrutos, kuros tiek veikti dzelzceļa pārvadājumi, pakalpojuma pasūtījums primāri tiek nodrošināts reģionālās nozīmes dzelzceļa pārvadājumu ietvaros un reģionālās nozīmes autobusu maršrutus (reisus) veido kā tādus, kas papildina dzelzceļa pārvadājumus.
+(2) Komerciālajā maršrutā (reisā) tiesības sniegt pakalpojumu tiek piešķirtas, izsniedzot maršruta atļauju. Maršruta atļauju Autotransporta direkcija izsniedz, izdarot ierakstu tās uzturētajā autopārvadātāju informatīvajā datubāzē un nenoformējot atsevišķu rakstveida lēmumu. Vienlaikus informāciju par maršruta atļaujas izsniegšanu un maršruta atļaujas izmantošanas nosacījumiem publicē Autotransporta direkcijas tīmekļvietnē un nosūta uz pārvadātāja iesniegumā norādīto elektroniskā pasta adresi. Maršruta atļauju izsniedz uz trim gadiem.
+(3) Maršruta atļauju ir tiesīgs saņemt pārvadātājs, kurš atbilst šādām prasībām:
+1) tas ir reģistrēts kādā Eiropas Savienības dalībvalstī atbilstoši komersanta reģistrācijas valsts normatīvo aktu prasībām;
+2) tam nav nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu, kuru kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;
+3) tas ir izpildījis visas Patērētāju tiesību aizsardzības centram rakstveidā iesniegtās apņemšanās novērst konstatētos pārkāpumus un visus tam Patērētāju tiesību aizsardzības centra piemērotos lēmumus.
+(4) Maršruta atļauja konkrētā komerciālā maršruta (reisa) apkalpošanai tiek piešķirta ikvienam pārvadātājam, kurš izpilda Ministru kabineta noteikumos noteiktās prasības attiecībā uz pakalpojuma sniegšanu, transportlīdzekļu vecumu, aprīkojumu un biļešu iegādes iespējām.
+(5) Maršruta atļauju aptur uz laiku vai anulē, ja:
+1) pārvadātājs iesniedzis iesniegumu maršruta atļaujas anulēšanai;
+2) pārvadātāja darbībā konstatēts būtisks autopārvadājumu jomu regulējošu normatīvo aktu pārkāpums vai pārvadātājs neievēro maršruta atļaujas izmantošanas nosacījumus;
+3) pārvadātāja nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;
+4) pārvadātājs nav izpildījis visas Patērētāju tiesību aizsardzības centram rakstveidā iesniegtās apņemšanās novērst konstatētos pārkāpumus un visus tam Patērētāju tiesību aizsardzības centra piemērotos lēmumus.
+(6) Ministru kabinets nosaka:
+1) prasības attiecībā uz pakalpojumu sniegšanai komerciālajos maršrutos (reisos) izmantojamo transportlīdzekļu vecumu un aprīkojumu, pakalpojuma sniegšanu komerciālajā maršrutā (reisā) un biļešu tirdzniecību;
+2) Autotransporta direkcijā maršruta atļaujas saņemšanai iesniedzamā pieteikuma formu un tajā sniedzamās informācijas apjomu.
+(7) Autotransporta direkcijas lēmumu par maršruta atļaujas piešķiršanu, apturēšanu uz laiku vai anulēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma par maršruta atļaujas apturēšanu vai anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

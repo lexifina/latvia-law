@@ -1,0 +1,1 @@
+33. No 2021. gada 1. marta tie pasažieri, kuru braukšanas maksas atvieglojumi tiek kompensēti no valsts budžeta, lai izmantotu attiecīgos braukšanas maksas atvieglojumus, elektroniski identificējoties ar personas apliecību, vēršas Pilsonības un migrācijas lietu pārvaldē, lai saņemtu personas apliecību, kura papildināta ar speciālu funkcionalitāti (lietotni).
