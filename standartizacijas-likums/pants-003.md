@@ -3,4 +3,4 @@
 2) brīvprātīga piedalīšanās standartizācijā un brīvprātīga standartu piemērošana;
 3) orientācija uz tehnikas sasniegumiem;
 4) orientācija uz visas sabiedrības interesēm;
-5) atbilstība starptautiskajām un reģionālajām standartizācijas prasībām.
+5) atbilstība starptautiskajām un Eiropas standartizācijas prasībām.

@@ -1,0 +1,1 @@
+4. Ministru kabinets līdz 2021. gada 31. maijam izdod šā likuma 7. panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai nacionālās standartizācijas institūcijas funkcijas veic sabiedrība ar ierobežotu atbildību "Latvijas standarts".
