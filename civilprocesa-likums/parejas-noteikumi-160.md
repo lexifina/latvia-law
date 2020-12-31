@@ -1,0 +1,1 @@
+160. Grozījums šā likuma 250.¹⁹ panta otrajā daļā saistībā ar prasības par uzturlīdzekļu piedziņu bērnam atsaisti no Ministru kabineta noteiktā minimālā apmēra un šā likuma 250.¹⁹ panta 2.¹ daļa stājas spēkā 2021. gada 1. janvārī.

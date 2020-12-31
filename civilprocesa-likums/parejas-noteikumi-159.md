@@ -1,0 +1,1 @@
+159. Šā likuma 594. panta pirmajā, otrajā un piektajā daļā noteiktie parādniekam saglabājamie maksājumi valsts sociālā nodrošinājuma pabalsta apmērā uz katru apgādībā esošo nepilngadīgo bērnu līdz 2021. gada 31. decembrim nosakāmi 64,03 euro apmērā, kas atbilst valsts sociālā nodrošinājuma pabalsta apmēram 2020. gada 31. decembrī.
