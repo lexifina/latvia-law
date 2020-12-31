@@ -9,7 +9,7 @@ b) sabiedriskā elektroniskā plašsaziņas līdzekļa - radio - programmās un 
 c) komerciālā elektroniskā plašsaziņas līdzekļa - televīzijas - programmās un raidījumos,
 d) komerciālā elektroniskā plašsaziņas līdzekļa - radio - programmās un raidījumos,
 e) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un plaši izplatīti visā valsts teritorijā,
-f) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un kuru tirāžas lielākā daļa tiek izplatīta vienas republikas pilsētas vai novada teritorijā,
+f) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un kuru tirāžas lielākā daļa tiek izplatīta vienas pašvaldības teritorijā,
 g) internetā, izņemot politiskās partijas, politisko partiju apvienības un iniciatīvas grupas mājaslapu,
 h) telpās un publiskās vietās (laukumos, skvēros, ielās, uz tiltiem un citās tamlīdzīgās vietās) neatkarīgi no īpašuma piederības;
 2) pasta (arī elektroniskā pasta) pakalpojumu izmantošanu aģitācijas pirms tautas nobalsošanas materiālu, aģitācijas par likuma ierosināšanu materiālu vai aģitācijas par Saeimas atsaukšanas ierosināšanu materiālu nosūtīšanai;

@@ -1,2 +1,2 @@
-25.⁷ pants. (1) Centrālā vēlēšanu komisija saskaita parakstus ierosinājumam rīkot tautas nobalsošanu par Saeimas atsaukšanu un konstatē rezultātu.
+25.⁷ pants. (1) Centrālā vēlēšanu komisija, izmantojot Centrālās vēlēšanu komisijas parakstu vākšanas tiešsaistes sistēmā saglabātos datus par parakstiem, pārbauda, vai parakstījušās personas ir vēlētāji, un nosaka kopējo parakstu skaitu.
 (2) Ja ierosinājumu rīkot tautas nobalsošanu par Saeimas atsaukšanu ir parakstījusi ne mazāk kā viena desmitā daļa vēlētāju un ja parakstu iesniegšanas dienā nav iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu, Centrālā vēlēšanu komisija pieņem lēmumu rīkot tautas nobalsošanu par Saeimas atsaukšanu.
