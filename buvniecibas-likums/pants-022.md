@@ -1,5 +1,4 @@
-22.pants. Būvkomersantu reģistrs
-(1) Lai veiktu komercdarbību vienā vai vairākās būvniecības jomās, kā arī arhitektūras vai elektroenerģētikas jomā, komersants reģistrējas būvkomersantu reģistrā, iesniedzot informāciju par visiem uz darba līguma pamata nodarbinātajiem būvspeciālistiem.
-(2) Komersants ir tiesīgs darboties tādās būvniecības jomās, kurās tam ir attiecīgi būvspeciālisti.
-(3) Būvkomersantu reģistrā iekļauj informāciju par komersantu, tā būvspeciālistiem, komersantu raksturojošus datus, ziņas par būvniecībā konstatētajiem pārkāpumiem un reģistra noteikumu pārkāpumiem.
-(4) Būvkomersantu reģistrs ir publiski pieejams, izņemot datus, kuru pieejamība ir ierobežota saskaņā ar normatīvajiem aktiem par komercnoslēpumu un datu aizsardzību.
+22. pants. Būvkomersants un būvkomersantu reģistrs
+(1) Lai sniegtu būvniecības pakalpojumus, komersants reģistrējas būvkomersantu reģistrā. Būvkomersants ir būvkomersantu reģistrā reģistrēts komersants.
+(2) Būvkomersantu reģistrā iekļaujamos datus par būvkomersantu, tā būvspeciālistiem, būvniecībā konstatētajiem pārkāpumiem un reģistra noteikumu pārkāpumiem nosaka saskaņā ar normatīvajiem aktiem būvkomersantu reģistrācijas jomā.
+(3) Būvkomersantu reģistrs ir publiski pieejams, izņemot datus, kuru pieejamība ir ierobežota saskaņā ar normatīvajiem aktiem par komercnoslēpumu un datu aizsardzību.
