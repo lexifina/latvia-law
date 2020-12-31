@@ -1,12 +1,12 @@
 59.pants. Dzīvnieku īpašniekiem vai turētājiem ir pienākums:
-1) nodrošināt dzīvnieku infekcijas slimību profilaksi un sadarbībā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem organizēt valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošanu saskaņā ar dzīvnieku veselības jomu reglamentējošiem normatīvajiem aktiem un dzīvnieku infekcijas slimību apkarošanas programmām;
+1) nodrošināt dzīvnieku infekcijas slimību profilaksi un sadarbībā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem organizēt valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanu saskaņā ar dzīvnieku veselības jomu reglamentējošiem normatīvajiem aktiem un dzīvnieku infekcijas slimību apkarošanas programmām;
 2) nodrošināt dzīvnieku labturībai nepieciešamos apstākļus, bet saslimušajiem dzīvniekiem - savlaicīgu veterinārmedicīnisko aprūpi, kā arī nodrošināt praktizējošam veterinārārstam nepieciešamos darba apstākļus un dzīvnieku fiksēšanu veterinārmedicīnisko procedūru laikā;
 3) pārvadājot dzīvniekus, ievērot normatīvajos aktos noteikto kārtību;
 4) uzrādīt un nodot nākamajam dzīvnieku īpašniekam dokumentus par dzīvnieku identifikāciju, reģistrāciju, veselības stāvokli un veiktajiem dzīvnieku infekcijas slimību profilaktiskajiem pasākumiem (piemēram, mājas (istabas) dzīvnieka pasi, dzīvnieka pārvietošanas deklarāciju, vakcinācijas apliecību);
 5) nodrošināt dzīvnieku, ganāmpulku un novietņu reģistrēšanu Ministru kabineta noteiktajā kārtībā;
 6) ierobežot nepiederošu personu saskarsmi ar dzīvniekiem;
 7) nodrošināt ar valsts uzraudzībā esošajām dzīvnieku infekcijas slimībām saistīto profilaktisko pasākumu izpildi noteiktajos termiņos;
-8) nekavējoties ziņot:
+8) nekavējoties, bet ne vēlāk kā 12 stundu laikā ziņot:
 a) praktizējošam veterinārārstam par dzīvniekiem, kuriem bijis aborts, par nedzīvi dzimušiem dzīvniekiem, vairāku dzīvnieku vienlaicīgu saslimšanu vai nobeigšanos un jebkuru gadījumu, kad rodas aizdomas par dzīvnieku saslimšanu ar infekcijas slimību,
 b) komersantiem, kuri nodarbojas ar blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšanu, par dzīvnieku nobeigšanās gadījumiem;
 9) nokaut dzīvniekus kautuvēs saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 853/2004;
