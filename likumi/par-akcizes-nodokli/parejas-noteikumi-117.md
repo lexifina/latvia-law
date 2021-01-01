@@ -1,0 +1,3 @@
+117. Līdz dienai, kad atbilstoši šo pārejas noteikumu 116. punktam sāk piemērot šā likuma 13. panta pirmās daļas 3. punkta "a" apakšpunktā noteikto nodokļa likmi smalki sagrieztai tabakai cigarešu uztīšanai, "b" apakšpunktā noteikto nodokļa likmi citai smēķējamai tabakai, 4. punktā noteikto nodokļa likmi tabakas lapām, smalki sagrieztu tabaku cigarešu uztīšanai, citu smēķējamo tabaku, tabakas lapas apliek ar nodokli:
+1) no 2021. gada 1. janvāra līdz 2021. gada 31. decembrim - 80,25 euro par 1000 gramiem tabakas;
+2) no 2022. gada 1. janvāra līdz 2022. gada 31. decembrim - 85,9 euro par 1000 gramiem tabakas.

@@ -1,0 +1,1 @@
+114. Šā likuma 13. panta pirmās daļas 2. punkta "a" un "b" apakšpunktā noteikto nodokļa likmi cigaretēm (104 euro par 1000 cigaretēm un 15 procentu apmērā no maksimālās mazumtirdzniecības cenas), kā arī šā likuma 13. panta 1.¹ daļā noteikto nodokļa minimālo līmeni cigaretēm (135,9 euro par 1000 cigaretēm) piemēro ar 2023. gada 1. janvāri.

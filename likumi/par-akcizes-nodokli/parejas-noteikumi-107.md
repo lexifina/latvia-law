@@ -1,1 +1,1 @@
-107. Grozījumi attiecībā uz šā likuma 27. panta trešās daļas 1.² un 1.³ punkta, kas paredz nemarķēt ar akcīzes nodokļa markām tabakas lapas un karsējamo tabaku, izslēgšanu saistībā ar drošības elementu, ko satur tabakas izstrādājumu iepakojuma vienība, stājas spēkā 2024. gada 20. maijā.
+107. Grozījumi attiecībā uz šā likuma 27. panta trešās daļas 1.² punkta, kas paredz nemarķēt ar akcīzes nodokļa markām tabakas lapas saistībā ar drošības elementu, ko satur tabakas izstrādājumu iepakojuma vienība, izslēgšanu stājas spēkā 2024. gada 20. maijā.

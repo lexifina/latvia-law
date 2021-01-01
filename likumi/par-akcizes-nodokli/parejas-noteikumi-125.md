@@ -1,0 +1,1 @@
+125. Līdz dienai, kad atbilstoši šo pārejas noteikumu 124. punktam sāk piemērot šā likuma 15.¹ panta pirmās daļas 2. punktā noteikto nodokļa likmi dabasgāzei izmantošanai par degvielu (līdz 2025. gada 31. decembrim), dabasgāzi izmantošanai par degvielu apliek ar nodokli - 1,91 euro par vienu megavatstundu (MWh), ņemot vērā dabasgāzes augstāko siltumspēju.

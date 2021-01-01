@@ -1,0 +1,1 @@
+128. Grozījumi šā likuma 1. panta otrās daļas 1., 2., 2.¹, 2.² un 2.³ punktā un 27. pantā, kas paredz marķēt ar akcīzes nodokļa markām karsējamo tabaku, elektroniskajās cigaretēs izmantojamo šķidrumu, elektroniskajās cigaretēs izmantojamā šķidruma sagatavošanas sastāvdaļas un tabakas aizstājējproduktus, stājas spēkā 2021. gada 1. jūlijā.
