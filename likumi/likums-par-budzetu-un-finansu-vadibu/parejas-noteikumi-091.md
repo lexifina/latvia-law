@@ -1,0 +1,1 @@
+91. Grozījumi šā likuma 21. panta otrajā un piektajā daļā saistībā ar gadskārtējā valsts budžeta likuma projekta un grozījumu gadskārtējā valsts budžeta likumā paskaidrojumiem stājas spēkā 2021. gada 1. janvārī, un pirmo reizi tos piemēro 2021. gadā, sagatavojot valsts budžeta likuma projekta 2022. gadam paskaidrojumus.
