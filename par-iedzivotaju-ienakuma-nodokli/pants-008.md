@@ -20,7 +20,7 @@
 1) ja kāds valdes loceklis kapitālsabiedrībā, kas atbilst šā panta 2.⁹ daļā minētajiem kritērijiem, kā valdes loceklis citā kapitālsabiedrībā kārtējā mēnesī gūst atlīdzību, kura nav mazāka par normatīvajos aktos noteikto piecu minimālo mēneša darba algu apmēru, un abas kapitālsabiedrības ir vienā uzņēmumu grupā;
 2) tajā kalendāra gadā, kad kapitālsabiedrība reģistrēta Uzņēmumu reģistrā.
 2.¹¹ Sezonas laukstrādnieku ienākuma nodokli maksā par sezonas laukstrādnieku ienākumu saskaņā ar šā likuma 11.¹² pantu.
-2.¹² Ja maksātājs gūst algota darba ienākumus un darba līgumā noteiktā darba alga nav mazāka par valstī noteikto minimālo mēneša darba algu, un maksātājam ar darba devēju ir noslēgts līgums, uz kura pamata tiek izmaksāta autoratlīdzība, uz maksātāju nav tieši attiecināma šā panta 2.² daļa. Šaubu gadījumā, lai noteiktu, vai maksātājam izmaksātā autoratlīdzība pēc ekonomiskās būtības ir algota darba ienākums un autors ir radījis darbu, pildot darba pienākumus, vērtē noslēgto līgumu nosacījumus, īpaši autora mantisko tiesību nosacījumus, tai skaitā to, kam pieder tiesības uz intelektuālo īpašumu tā radīšanas laikā. Šā panta 2.² daļā minētās pazīmes izmanto tikai kā papildu kritērijus darījuma ekonomiskās būtības vērtēšanai.
+2.¹² (Izslēgta ar 27.11.2020. likumu. Sk. Pārejas noteikumu 162. punktu)
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
 2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;
@@ -29,10 +29,11 @@
 5) ienākumi no nekustamā īpašuma (ēku, ēku daļu, dzīvokļu, zemes) iznomāšanas vai izīrēšanas;
 6) ienākumi no lietas (zemes, telpas) nodošanas tālāk apakšnomniekam vai apakšīrniekam;
 7) ienākumi no kustamās mantas iznomāšanas;
-8) ienākumi no intelektuālā īpašuma un tiesībām uz to (autoratlīdzība, izpildītājatlīdzība; zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un viņu mantinieku honorāri), kā arī no tiesībām izmantot tiesības uz intelektuālo īpašumu;
+8) samaksa par intelektuālo īpašumu;
 9) no komersantiem, kooperatīvajām sabiedrībām, individuālajiem uzņēmumiem, zemnieku vai zvejnieku saimniecībām, iestādēm, organizācijām, biedrībām un nodibinājumiem saņemtie dāvinājumi, kā arī no fiziskās personas - saimnieciskās darbības veicējas - saņemtie dāvinājumi, ko izmaksājusi fiziskā persona saimnieciskās darbības ietvaros;
 10) pensijas neatkarīgi no to izmaksas avota;
 10¹) pensijai pielīdzināms ienākums;
+10²) valsts fondētās pensijas kapitāls, kuru valsts fondēto pensiju shēmas dalībnieka nāves gadījumā manto un kurš tiek aprēķināts mantiniekam pirms mantinieka saistību dzēšanas pret sociālās apdrošināšanas speciālo budžetu un valsts pamatbudžetu, kas izriet no sociālās apdrošināšanas pakalpojumu, valsts sociālo pabalstu un izdienas pensiju pārmaksām saskaņā ar likumu "Par valsts sociālo apdrošināšanu", ja mantinieks izvēlējies to saņemt ar pārskaitījumu uz maksājumu kontu kredītiestādē;
 11) ienākumi no nekustamā īpašuma atsavināšanas un citu kapitāla aktīvu atsavināšanas ienākums atbilstoši šā likuma 11.⁹ pantam, ja šā likuma 9.pantā nav noteikts citādi;
 11¹) citi ienākumi no kapitāla, kas nav minēti šīs daļas 11., 12., 13., 18. un 20.punktā;
 12) dividendes, ja šā likuma 9. pantā nav noteikts citādi;
@@ -51,6 +52,7 @@
 20²) ienākumam pielīdzināmi aizdevumi;
 20³) samazinātu aizdevuma procentu maksājumu radītais ienākums;
 20⁴) izložu un azartspēļu laimesti, ja šā likuma 9. panta pirmās daļas 5. punktā nav noteikts citādi;
+20⁵) ienākumi, kas radušies samazinātu vai dzēstu saistību rezultātā, izņemot šā likuma 9. panta pirmās daļas 8.³, 35.¹, 35.², 35.³, 35.⁴, 35.⁵ un 45. punktā minētos ienākumus;
 21) citi ienākumi, kas nav minēti šā likuma 9.pantā.
 4. Šā panta otrā daļa neattiecas uz ienākumiem, ko fiziskā persona gūst uz tādu darba attiecību pamata, kas paredz šo personu nodarbināt uz starptautiskos pārvadājumos izmantojama kuģa. Par taksācijas gada mēnesi, kurā persona ir nodarbināta (darba attiecībās) uz starptautiskos pārvadājumos izmantojama kuģa, minētās personas ienākumi, par kuriem maksājams algas nodoklis, ir uz darba attiecību pamata gūtā ienākuma daļa šādā apmērā:
 1) virsniekiem - Ministru kabineta noteikto 2,5 mēneša minimālo darba algu apmērā;
@@ -78,6 +80,8 @@ b) tiek veikti atbilstoši darba devēja parasti īstenotajai atlīdzības polit
 2) kooperatīvās sabiedrības veiktā peļņas atmaksa kooperatīvās sabiedrības biedriem atbilstoši viņu izmantoto kooperatīvās sabiedrības pakalpojumu apjomam vai jebkura cita kooperatīvās sabiedrības peļņas sadale tās biedriem;
 3) personālsabiedrības biedram izmaksātā personālsabiedrības peļņas daļa, izņemot šā likuma 3. panta trešās daļas 5. punktā un 8. panta trešās daļas 3. punktā minētos ar nodokli apliekamos ienākumus.
 11.¹ Šā likuma izpratnē procentiem pielīdzināms ienākums ir ienākums no parāda vērtspapīru atsavināšanas.
+11.² Šā likuma izpratnē samaksa par intelektuālo īpašumu ir jebkurš maksājums, kuru saņem kā atlīdzību par autortiesībām un blakustiesībām vai kā atlīdzību par tiesībām izmantot autortiesības un blakustiesības uz literatūras, zinātnes vai mākslas darbiem, ieskaitot datorprogrammas, filmas, fonogrammas, patentus, preču zīmes, dizainparaugu vai modeli, plānu, slepenu formulu vai procesu, vai par tiesībām izmantot ražošanas, komerciālās vai zinātniskās iekārtas, vai par to izmantošanu, vai par informāciju attiecībā uz rūpniecisku, komerciālu vai zinātnisku darbību un pieredzi.
+11.³ Ja samaksu par intelektuālo īpašumu izmaksā ienākuma izmaksātājs, kas nav kolektīvā pārvaldījuma organizācija, minētais ienākums šā likuma izpratnē tiek uzskatīts par saimnieciskās darbības ienākumu, ja vien gūtais ienākums pēc ekonomiskās būtības nav uzskatāms par algota darba ienākumu atbilstoši šā panta 2.² daļas nosacījumiem.
 12. Piemērojot šā panta trešo daļu, maksātāja ar nodokli apliekamajā ienākumā neiekļauj dividendes vai peļņu, vai aktīvu vērtības pieauguma daļu, ko tam no ienākuma, par kuru saskaņā ar šā likuma 17.³ pantu jau ir samaksāts nodoklis, ir izmaksājusi ārvalsts sabiedrība, kurā maksātājam (rezidentam) ir būtiska līdzdalība.
 13. Šā likuma izpratnē pensijai pielīdzināms ienākums ir apdrošināšanas atlīdzība, kas apdrošinātajam tiek izmaksāta saskaņā ar mūža pensijas apdrošināšanas līgumu (ar uzkrāto fondētās pensijas kapitālu atbilstoši Valsts fondēto pensiju likumam).
 14. Šā likuma izpratnē no fiziskās personas īpašumā esoša augoša meža atsavināšanas izciršanai un tajā iegūto kokmateriālu atsavināšanas ienākumam ir pielīdzināms arī ienākums, kas gūts, pārdodot zarus, kuri paredzēti šķeldošanai un iegūti ārpus meža zemes, attīrot īpašumā esošās lauksaimniecības zemes no krūmiem, vai mežā, izstrādājot cirsmu.
@@ -106,3 +110,4 @@ c) galvenajam uzņēmumam un vienam tā apakšuzņēmumam vai vairākiem šādie
 2) gadījumos, kad visas uzņēmuma akcijas vai kapitāla daļas nedod to īpašniekiem vienādas tiesības un priekšrocības, ja vienlaikus tiek izpildīti abi šādi noteikumi:
 a) vienam uzņēmumu grupas dalībniekam vai vairākiem šādiem dalībniekiem pieder vismaz 90 procenti no visu šā uzņēmuma izlaisto akciju vai kapitāla daļu tirgus vērtības,
 b) vienam uzņēmumu grupas dalībniekam vai vairākiem šādiem dalībniekiem ir vismaz 90 procenti no visām šā uzņēmuma akcionāru (daļu īpašnieku) balsīm, kuras var tikt saskaitītas katrā balsošanā.
+22. Šā panta trešās daļas 20.⁵ punkta izpratnē par ienākumu neuzskata dzēstās vai samazinātās nodokļu saistības (parādus) un ar tām saistītās dzēstās vai samazinātās nokavējuma naudas un soda naudas.

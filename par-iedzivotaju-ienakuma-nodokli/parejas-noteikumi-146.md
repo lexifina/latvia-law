@@ -1,0 +1,1 @@
+146. Dividendēm, dividendēm pielīdzināmajam ienākumam un nosacītajām dividendēm, kas radušās, veicot mikrouzņēmumu nodokļa maksātāja saimnieciskās darbības ienākumu (peļņas) sadali, ja šis saimnieciskās darbības ienākums (peļņa) radies līdz 2020. gada 31. decembrim, nepiemēro šā likuma 9. panta pirmās daļas 2.¹ punktā noteikto atbrīvojumu.

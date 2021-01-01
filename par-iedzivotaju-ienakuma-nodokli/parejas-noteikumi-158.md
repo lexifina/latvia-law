@@ -1,0 +1,1 @@
+158. Nodokļa maksātājs, lai saņemtu nodokļa pārmaksas automātisku atmaksu 2023. gadā par 2022. gadu, Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmā šā likuma 20.¹ panta ceturtajā daļā noteikto informāciju sniedz līdz 2023. gada 30. septembrim.

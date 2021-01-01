@@ -27,4 +27,4 @@ b) pārsniedz maksātāja plānoto zudumu normu, kas aprēķināta, pamatojoties
 11. Šā panta noteikumus, izņemot otro daļu, nepiemēro maksātājam, kurš ir izvēlējies maksāt mikrouzņēmumu nodokli saskaņā ar Mikrouzņēmumu nodokļa likumu.
 12. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumus, kas radušies maksātājam - mikrouzņēmuma īpašniekam, kad tas bija mikrouzņēmumu nodokļa maksātājs, nedrīkst pārnest uz nākamajiem taksācijas gadiem, nosakot saimnieciskās darbības apliekamo ienākumu.
 13. Saimnieciskās darbības izdevumi, kas attiecas uz taksācijas periodiem, kuros maksātājs bija mikrouzņēmumu nodokļa maksātājs, netiek ņemti vērā, nosakot ar iedzīvotāju ienākuma nodokli apliekamo ienākumu no saimnieciskās darbības.
-14. Maksātājs, kas veic saimniecisko darbību un saimnieciskās darbības ienākumu nosaka saskaņā ar šo pantu, vienlaikus nevar būt patentmaksas vai mikrouzņēmumu nodokļa maksātājs.
+14. Maksātājs, kas veic saimniecisko darbību un saimnieciskās darbības ienākumu nosaka saskaņā ar šo pantu, vienlaikus nevar būt samazinātās patentmaksas vai mikrouzņēmumu nodokļa maksātājs.

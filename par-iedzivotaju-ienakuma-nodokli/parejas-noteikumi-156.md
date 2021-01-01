@@ -1,0 +1,1 @@
+156. Šā likuma 19. panta 4.² daļa, 20.¹ pants, 28. panta 19. punkts, 29.¹ panta ceturtā daļa un 32.¹ panta ceturtā daļa piemērojama nodokļa pārmaksām, kuras nosaka rezumējošā kārtībā, aprēķinot nodokli par 2022. taksācijas gadu un turpmākajiem gadiem.

@@ -1,0 +1,1 @@
+172. Ja autoratlīdzības līgums ir noslēgts līdz 2020. gada 31. decembrim un samaksa atbilstoši noslēgtajam autoratlīdzības līgumam tiek izmaksāta 2021. taksācijas gadā, maksātājam 2021. taksācijas gadā attiecībā uz ienākumu no minētā autoratlīdzības līguma piemēro šā likuma normas redakcijā, kas bija spēkā 2020. gada 31. decembrī.

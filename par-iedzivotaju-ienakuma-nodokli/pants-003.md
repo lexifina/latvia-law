@@ -32,11 +32,12 @@
 a) procentu ienākumu no Latvijas vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts un pašvaldību vērtspapīriem,
 b) procentu ienākumu, procentiem pielīdzināmo ienākumu, arī ar procentu ienākumu saistīto ienākumu no publiskā apgrozībā esošiem finanšu instrumentiem;
 12) samaksa par intelektuālo īpašumu:
-a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,
+a) autoratlīdzība (autortiesību un blakustiesību atlīdzība) par literatūras, zinātnes vai mākslas darbu radīšanu un atlīdzība par atklājumu, izgudrojumu un rūpniecisko paraugu radīšanu, ņemot vērā nosacīto izdevumu normu saskaņā ar šā likuma 10. panta pirmās daļas 4. punktu,
 b) maksājumi par pārējiem intelektuālā īpašuma veidiem;
 13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs - juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
 14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem;
 14¹) pensijai pielīdzināms ienākums;
+14²) valsts fondētās pensijas kapitāls, kuru valsts fondēto pensiju shēmas dalībnieka nāves gadījumā manto un kurš tiek aprēķināts mantiniekam pirms mantinieka saistību dzēšanas pret sociālās apdrošināšanas speciālo budžetu un valsts pamatbudžetu, kas izriet no sociālās apdrošināšanas pakalpojumu, valsts sociālo pabalstu un izdienas pensiju pārmaksām saskaņā ar likumu "Par valsts sociālo apdrošināšanu", ja mantinieks izvēlējies to saņemt ar pārskaitījumu uz maksājumu kontu kredītiestādē;
 15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem vai iemaksām privātā pensiju fonda pensiju plānā saskaņā ar Solidaritātes nodokļa likumu un izmaksāts pensiju plānu dalībniekiem;
 16) (izslēgts ar 15.12.2011. likumu);
 17) nekustamā īpašuma vērtības pieaugums vai tā daļa, kura iegūta, beidzoties nomas līgumam, un kuru nodrošināja iznomātajā īpašumā nomnieka veiktie rekonstrukcijas, restaurācijas, renovācijas, uzlabošanas vai citi kapitālie ieguldījumi, ja minēto pieaugumu vai tā daļu maksātājs nav kompensējis nomniekam;

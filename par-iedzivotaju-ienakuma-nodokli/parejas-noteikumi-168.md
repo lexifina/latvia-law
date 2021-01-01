@@ -1,0 +1,1 @@
+168. Ja, iesniedzot autoratlīdzības saņēmēja 2021. gada deklarāciju, uz tās pamata maksātājam veidojas nodokļa piemaksa, maksātājs trūkstošo nodokļa summu piemaksā rezumējošā kārtībā līdz 2022. gada 23. jūnijam.

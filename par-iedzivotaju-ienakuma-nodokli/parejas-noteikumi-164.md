@@ -1,0 +1,3 @@
+164. No šā likuma pārejas noteikumu 163. punktā minētajiem maksātāja ienākumiem, kurus izmaksā komersanti, individuālie uzņēmumi (arī zemnieku vai zvejnieku saimniecības), kooperatīvās sabiedrības, nerezidentu pastāvīgās pārstāvniecības, iestādes, organizācijas, biedrības, nodibinājumi un fiziskās personas, kuras reģistrētas kā saimnieciskās darbības veicējas, ietur nodokli izmaksas vietā un iemaksā to vienotajā nodokļu kontā ne vēlāk kā ienākuma izmaksas mēnesim sekojošā mēneša 23. datumā, piemērojot šādu likmi:
+1) ieņēmumiem līdz 25 000 euro - 25 procenti;
+2) ieņēmumiem, kas pārsniedz 25 000 euro - 40 procenti.
