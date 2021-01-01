@@ -1,0 +1,1 @@
+8.³ Nosakot vecumu, no kura ir tiesības uz vecuma pensiju priekšlaicīgi vai uz pensiju ar atvieglotiem noteikumiem, ņem vērā šo pārejas noteikumu 8.¹ punktā noteikto vecuma pensijas piešķiršanai nepieciešamo vecumu attiecīgajā kalendāra gadā.

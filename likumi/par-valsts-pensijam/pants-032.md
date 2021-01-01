@@ -1,5 +1,5 @@
 32.pants. Valsts pensijas izmaksāšanas kārtība
-(1) Valsts pensijas izmaksājamas katru mēnesi. Valsts pensija pēc pensijas saņēmēja pieprasījuma pārskaitāma viņa Latvijas Republikas kredītiestādes vai pasta norēķinu sistēmas (PNS) kontā vai piegādājama pensijas saņēmēja dzīvesvietā par maksu, ieturot no pensijas tās piegādes izdevumus saskaņā ar gadskārtējā valsts budžeta likumā noteikto maksu par pensijas, pabalsta vai atlīdzības piegādi.
+(1) Valsts pensijas izmaksājamas par kārtējo mēnesi, bet apgādnieka zaudējuma pensijas - par iepriekšējo mēnesi. Valsts pensija pēc pensijas saņēmēja pieprasījuma pārskaitāma viņa Latvijas Republikas kredītiestādes vai pasta norēķinu sistēmas (PNS) kontā vai piegādājama pensijas saņēmēja dzīvesvietā par maksu, ieturot no pensijas tās piegādes izdevumus saskaņā ar gadskārtējā valsts budžeta likumā noteikto maksu par pensijas, pabalsta vai atlīdzības piegādi.
 (2) Pensijas saņēmējs var pilnvarot citu personu saņemt pensiju.
 (3) (Izslēgta ar 05.08.1999. likumu)
 (4) (Izslēgta ar 20.12.2001. likumu)

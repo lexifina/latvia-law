@@ -1,0 +1,1 @@
+77. Grozījums šā likuma 16. panta pirmās daļas 1. punktā par formulas apzīmējuma "Vi" skaidrojuma otrā un trešā teikuma izslēgšanu, šā likuma 16. panta piektā daļa, grozījums par 24.¹ panta izslēgšanu un grozījums 25. panta otrās daļas 3. punktā saistībā ar pensijas palielināšanu, pievienojot fondētās pensijas kapitālu, stājas spēkā 2022. gada 1. janvārī.
