@@ -1,0 +1,1 @@
+96. Šā likuma 31. panta pirmajā daļā un 32. panta pirmajā, 1.¹ un otrajā daļā noteikto gada pārskatu iesniegšanas termiņu pirmo reizi piemēro 2024. gadā, iesniedzot konsolidēto saimnieciskā gada pārskatu par 2023. gadu.

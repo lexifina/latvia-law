@@ -1,0 +1,1 @@
+93. Grozījumi šā likuma 30. panta trešajā, 3.¹ un 3.² daļā, 31. panta pirmajā daļā un 32. panta pirmajā, 1.¹ un otrajā daļā saistībā ar gada pārskatu iesniegšanas termiņiem un Valsts kontroles revīziju stājas spēkā 2023. gada 1. janvārī.
