@@ -2,7 +2,7 @@
 (1) Tiesnesim piešķir izdienas pensiju 65 procentu apmērā no vidējās mēneša darba samaksas un par katru izdienas stāža gadu, kas pārsniedz 20 gadus, to palielina par diviem procentiem no šā likuma 5.pantā minētās darba samaksas.
 (2) Tiesnesim, kurš neatkarīgi no vecuma atbrīvots no amata veselības stāvokļa dēļ atbilstoši Veselības un darbspējas ekspertīzes ārstu komisijas atzinumam, izdienas pensiju piešķir 40 procentu apmērā no vidējās mēneša darba samaksas, kas noteikta saskaņā ar šā likuma 5.pantu, un par katru izdienas stāža gadu, kas pārsniedz 20 gadus, to palielina par diviem procentiem no šā likuma 5.pantā minētās darba samaksas.
 (3) Maksimālais izdienas pensijas apmērs nedrīkst pārsniegt 80 procentus no šā likuma 5.pantā minētās darba samaksas.
-(4) Minimālais izdienas pensijas apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru.
+(4) Minimālais izdienas pensijas apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru, kāds noteikts Valsts sociālo pabalstu likuma 13. panta pirmās daļas 1. punktā minētajām personām.
 (5) Izdienas pensiju izmaksā no valsts pamatbudžeta līdzekļiem, kas piešķirti Labklājības ministrijai.
 (6) Persona, kurai izdienas pensija šajā likumā noteiktajos gadījumos piešķirta pirms tā vecuma sasniegšanas, kurš dod tiesības uz vecuma pensiju, vecuma pensija tiek piešķirta saskaņā ar likumu "Par valsts pensijām". Pēc vecuma pensijas piešķiršanas izdienas pensiju samazina par piešķirtās vecuma pensijas apmēru.
 (7) Ja izdienas pensiju piešķir personai, kurai jau ir piešķirta vecuma pensija, aprēķināto izdienas pensiju samazina par personai piešķirtās vecuma pensijas apmēru.
