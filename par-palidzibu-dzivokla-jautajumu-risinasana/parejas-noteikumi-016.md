@@ -1,0 +1,1 @@
+16. Grozījumi šajā likumā attiecībā uz vārdu "dzīvokļa pabalsts" aizstāšanu ar vārdiem "mājokļa pabalsts", 3. panta 5. punkta un 25. panta izteikšanu jaunā redakcijā, kā arī 25.² panta otrās daļas papildināšanu ar 3. punktu stājas spēkā 2021. gada 1. aprīlī.
