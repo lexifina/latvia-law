@@ -11,4 +11,4 @@
 3) iznīcinot neaktuālos datus pēc tiem noteiktā glabāšanas termiņa beigām.
 (3) Vienotajā valsts arhīvu informācijas sistēmā ievadāmos datus iegūst elektroniski tiešsaistes datu pārraides režīmā vai dokumentu apriti reglamentējošos normatīvajos aktos noteiktajā kārtībā.
 (4) Vienotās valsts arhīvu informācijas sistēmas dati par nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem, kurus glabā Latvijas Nacionālajā arhīvā, institūciju arhīvos vai akreditētajos privātajos arhīvos, ir pieejami bez maksas tiešsaistē Latvijas Nacionālā arhīva portālā, ja to pieejamība netiek ierobežota atbilstoši šā likuma un citu normatīvo aktu noteikumiem.
-(5) Vienotās valsts arhīvu informācijas sistēmas darbību un tās administrēšanu nodrošina Kultūras informācijas sistēmu centrs.
+(5) (Izslēgta no 01.01.2021. ar 10.03.2016. likumu. Sk. Pārejas noteikumu 11. punktu)
