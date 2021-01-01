@@ -1,1 +1,1 @@
-22. Līdz 2020. gada 31. decembrim bezdarbnieka pabalsta izmaksu aptur (šā likuma 10. panta pirmās daļas 2. punkts), ja bezdarbnieks iegūst darba ņēmēja vai pašnodarbinātā statusu saskaņā ar likumu "Par valsts sociālo apdrošināšanu" uz laiku līdz 120 dienām.
+22. Līdz 2021. gada 31. decembrim bezdarbnieka pabalsta izmaksu aptur (šā likuma 10. panta pirmās daļas 2. punkts), ja bezdarbnieks iegūst darba ņēmēja vai pašnodarbinātā statusu saskaņā ar likumu "Par valsts sociālo apdrošināšanu" uz laiku līdz 120 dienām.
