@@ -6,7 +6,7 @@
 (3) Šā panta pirmās daļas nosacījumi, kā arī otrās daļas nosacījumi, ja nodokļu maksātājs ir pieprasījis pārmaksātās nodokļu summas atmaksu, nav piemērojami nodokļu maksātājiem, kuriem ir nokavētie nodokļu maksājumi, nokavēto nodokļu un ar tiem saistīto maksājumu apmērā.
 (3¹) (Izslēgta ar 14.04.2011. likumu)
 (3²) (Izslēgta ar 14.04.2011. likumu)
-(4) Nodokļu administrācija šā panta pirmajā un otrajā daļā minētajā gadījumā pārmaksātās nodokļu summas bez nodokļu maksātāja iesnieguma vispirms novirza nokavēto nodokļu un ar tiem saistīto maksājumu segšanai, vienlaikus proporcionāli sedzot pamatparādu, soda naudu un nokavējuma naudu.
+(4) Nodokļu administrācija šā panta pirmajā un otrajā daļā minētajā gadījumā pārmaksātās nodokļu summas bez nodokļu maksātāja iesnieguma vispirms novirza nokavēto nodokļu un ar tiem saistīto maksājumu segšanai, vienlaikus proporcionāli sedzot pamatparādu, soda naudu un nokavējuma naudu, bet nokavētos šā likuma 23.¹ panta pirmajā daļā noteiktos maksājumus sedzot saskaņā ar šā likuma 23.¹ pantā noteikto kārtību un Ministru kabineta noteikto nodokļu, nodevu, citu valsts noteikto maksājumu un ar tiem saistīto maksājumu novirzīšanas un ieskaitīšanas kārtību.
 (5) Ja konkrētā nodokļa likums paredz veikt nodokļu revīziju (auditu), lai atmaksātu pārmaksāto nodokli, nodokļa pārmaksa atmaksājama daļā:
 1) kuras pamatotība apstiprinājusies nodokļu revīzijas (audita) rezultātā;
 2) kurā nodokļu revīzija (audits) turpinās, ja pēc atmaksāšanas iespējamā nodokļa parāda saistība tiek pastiprināta ar galvojumu vai kredītiestādes garantiju, vai nodrošināta ar ķīlu.
