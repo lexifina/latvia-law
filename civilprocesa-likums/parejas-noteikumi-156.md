@@ -1,0 +1,1 @@
+156. Līdz 2020. gada 31. decembrim tiesā iesniegtos pieteikumus par autortiesībām un blakustiesībām un datubāzu veidotāju tiesībām (sui generis) izskata tā tiesa, kurā pieteikumi iesniegti. Šajās lietās apelācijas kārtībā pārsūdzēto nolēmumu izskata Rīgas apgabaltiesa.

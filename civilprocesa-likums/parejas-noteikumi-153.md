@@ -1,0 +1,1 @@
+153. Līdz 2020. gada 31. decembrim tiesā iesniegtos pieteikumus, kuru izskatīšana ir piekritīga Ekonomisko lietu tiesai, izskata tā tiesa, kurā pieteikumi iesniegti. Šajās lietās apelācijas kārtībā pārsūdzēto nolēmumu izskata Rīgas apgabaltiesa.

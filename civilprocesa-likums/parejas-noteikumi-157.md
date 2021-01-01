@@ -1,0 +1,1 @@
+157. Apelācijas instances tiesa, atceļot rajona (pilsētas) tiesas spriedumu lietā par autortiesībām un blakustiesībām un datubāzu veidotāju tiesībām (sui generis), lietu nodod jaunai izskatīšanai Rīgas pilsētas Vidzemes priekšpilsētas tiesā.

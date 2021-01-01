@@ -1,0 +1,1 @@
+158. Kasācijas instances tiesa, atceļot spriedumu lietā par autortiesībām un blakustiesībām un datubāzu veidotāju tiesībām (sui generis), lietu nodod jaunai izskatīšanai Rīgas pilsētas Vidzemes priekšpilsētas tiesā vai Rīgas apgabaltiesā.
