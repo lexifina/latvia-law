@@ -19,6 +19,7 @@
 2) kravas transporta kaste vai furgons, ja attiecīgā automobiļa pasažiera sēdvietu skaits pārsniedz četras vietas;
 3) autobuss ar pasažieru sēdvietu skaitu līdz 16 vietām;
 4) vieglais, kravas vai autobuss speciālais dzīvojamais.
+(5¹) Par šā likuma 4. panta trešajā vai ceturtajā daļā minēto transportlīdzekli, kurš papildus ir aprīkots ar gāzes kā degvielas barošanas iekārtu, transportlīdzekļa ekspluatācijas nodokli maksā 90 procentu apmērā.
 (6) Ministru kabinets nosaka kārtību, kādā piemērojami šajā pantā paredzētie transportlīdzekļa ekspluatācijas nodokļa atvieglojumi.
 (7) Ja saskaņā ar šā panta pirmo, otro, trešo, ceturto, 4.¹ daļu vai piekto daļu var piemērot transportlīdzekļa ekspluatācijas nodokļa atvieglojumu, bet šā nodokļa maksājums par iepriekšējiem kalendārajiem gadiem nav veikts, tad, maksājot nodokli par iepriekšējiem kalendārajiem gadiem, par tiem nodokļa atvieglojumu nepiemēro.
 (8) Transportlīdzeklim, kuru lieto pasažieru vai kravas komercpārvadājumiem, transportlīdzekļa ekspluatācijas nodokļa atvieglojumu nepiemēro.
