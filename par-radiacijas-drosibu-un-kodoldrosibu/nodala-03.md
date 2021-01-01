@@ -1,2 +1,2 @@
 III nodaļa
-Licencēšana un reģistrēšana
+Paziņošana, reģistrēšana un licencēšana
