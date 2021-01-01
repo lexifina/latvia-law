@@ -1,10 +1,10 @@
 3.pants. Nodokļa maksātāji
 (1) Nodokļa maksātājs ir persona, kura:
-1) ir saņēmusi vai tai saskaņā ar vides aizsardzības vai zemes dzīļu izmantošanas normatīvajiem aktiem bija pienākums saņemt vides aizsardzības normatīvajos aktos noteikto atļauju, licenci vai C kategorijas piesārņojošas darbības apliecinājumu un kura Latvijas Republikas teritorijā, kontinentālajā šelfā vai ekskluzīvajā ekonomiskajā zonā:
+1) ir saņēmusi vai kurai saskaņā ar vides aizsardzības vai zemes dzīļu izmantošanas normatīvajiem aktiem bija pienākums saņemt vides aizsardzības normatīvajos aktos noteikto atļauju, licenci vai reģistrēt C kategorijas piesārņojošu darbību un kura Latvijas Republikas teritorijā, kontinentālajā šelfā vai ekskluzīvajā ekonomiskajā zonā:
 a) iegūst ar nodokli apliekamus dabas resursus,
 b) realizē ar nodokli apliekamus dabas resursus, kas iegūti tādā saimnieciskajā darbībā, kura neattiecas uz derīgo izrakteņu ieguvi no zemes dzīlēm,
 c) izmanto zemes dzīļu derīgās īpašības, iesūknējot ģeoloģiskajās struktūrās dabasgāzi,
-d) emitē vidē ar nodokli apliekamas piesārņojošas vielas vai apglabā atkritumus,
+d) emitē vidē ar nodokli apliekamas piesārņojošas vielas, apglabā atkritumus atkritumu poligonā, sadedzina atkritumus atkritumu sadedzināšanas vai līdzsadedzināšanas iekārtā,
 e) (izslēgts ar 15.12.2016. likumu);
 f) lieto ūdens resursus elektroenerģijas ražošanai hidroelektrostacijā;
 1¹) (izslēgts ar 15.12.2016. likumu);
