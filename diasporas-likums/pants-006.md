@@ -1,5 +1,5 @@
 6. pants. Valsts pārvaldes institūciju kompetence diasporas politikas jomā
-(1) Diasporas politiku, iesaistot diasporas locekļus, diasporas organizācijas un citas fiziskās un juridiskās personas saskaņā ar Valsts pārvaldes iekārtas likumu, atbilstoši savai kompetencei īsteno Ārlietu ministrija, Ekonomikas ministrija, Izglītības un zinātnes ministrija, Kultūras ministrija, Labklājības ministrija, Vides aizsardzības un reģionālās attīstības ministrija, Iekšlietu ministrija, Veselības ministrija, Nacionālā elektronisko plašsaziņas līdzekļu padome, plānošanas reģioni, pašvaldības un citas valsts pārvaldes institūcijas, veicot šajā likumā un citos normatīvajos aktos noteiktos uzdevumus.
+(1) Diasporas politiku, iesaistot diasporas locekļus, diasporas organizācijas un citas fiziskās un juridiskās personas saskaņā ar Valsts pārvaldes iekārtas likumu, atbilstoši savai kompetencei īsteno Ārlietu ministrija, Ekonomikas ministrija, Izglītības un zinātnes ministrija, Kultūras ministrija, Labklājības ministrija, Vides aizsardzības un reģionālās attīstības ministrija, Iekšlietu ministrija, Veselības ministrija, Sabiedrisko elektronisko plašsaziņas līdzekļu padome, plānošanas reģioni, pašvaldības un citas valsts pārvaldes institūcijas, veicot šajā likumā un citos normatīvajos aktos noteiktos uzdevumus.
 (2) Ministriju kompetence diasporas politikas jomā:
 1) Ārlietu ministrija:
 a) nodrošina vienotas diasporas politikas izstrādi un koordinētu īstenošanu, tādējādi uzturot pasākumu sistēmu darbam ar diasporu,
@@ -47,7 +47,7 @@ b) savas kompetences ietvaros pārrauga plānošanas reģionu un pašvaldību da
 a) veicina to, ka diasporai ir pieejama informācija par Latvijas pilsonības iegūšanas un atjaunošanas kārtību,
 b) nodrošina diasporas locekļiem iespēju papildus dzīvesvietas adresei ārvalstī norādīt arī vienu adresi Latvijā;
 8) Veselības ministrija nodrošina diasporas locekļiem iespēju veikt brīvprātīgas iemaksas, lai iegūtu tiesības saņemt veselības aprūpes pakalpojumus valsts obligātās veselības apdrošināšanas ietvaros.
-(3) Nacionālā elektronisko plašsaziņas līdzekļu padome:
+(3) Sabiedrisko elektronisko plašsaziņas līdzekļu padome:
 1) veicina ar diasporu saistītu norišu atspoguļošanu sabiedriskajā pasūtījumā;
 2) veicina sabiedrisko elektronisko plašsaziņas līdzekļu programmu un pakalpojumu pieejamību diasporai.
 (4) Plānošanas reģioni savas kompetences ietvaros plāno un īsteno reģionālos diasporas atbalsta pasākumus, kā arī izveido reģionālo remigrācijas koordinatoru tīklu, kas:
