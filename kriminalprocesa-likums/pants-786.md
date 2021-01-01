@@ -3,7 +3,7 @@
 1) nav atsūtīts īpašas formas apliecinājums vai tas ir nepilnīgs vai neatbilst nolēmuma saturam;
 2) izpildot nolēmumu par mantiska rakstura piedziņu, tiks pārkāpts dubultās sodīšanas nepieļaujamības (ne bis in idem) princips;
 3) ir pamats uzskatīt, ka sods noteikts personas rases, reliģiskās piederības, tautības, dzimuma vai politisko uzskatu dēļ;
-4) nolēmums par mantiska rakstura piedziņu attiecas uz nodarījumu, kas pēc Latvijas likuma nav noziedzīgs;
+4) nolēmums par mantiska rakstura piedziņu attiecas uz nodarījumu, kas saskaņā ar Latvijas normatīvajiem aktiem nav sodāms;
 5) pastāv šā likuma 8.nodaļā paredzētā kriminālprocesuālā imunitāte;
 6) soda izpildīšana Latvijā nav iespējama;
 7) soda izpildīšanai ir iestājies noilgums un nolēmums par mantiska rakstura piedziņu attiecas uz nodarījumu, kas ir Latvijas jurisdikcijā;

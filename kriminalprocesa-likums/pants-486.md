@@ -1,5 +1,5 @@
 486.pants. Tiesas rīcība pēc krimināllietas saņemšanas
-(1) Pēc krimināllietas saņemšanas tiesā pārbauda, vai:
+(1) Pēc krimināllietas saņemšanas tiesā ne vēlāk kā triju darba dienu laikā pārbauda, vai:
 1) krimināllieta ir piekritīga šai tiesai;
 2) krimināllietai pievienota apsūdzība;
 3) apsūdzētajam izsniegta apsūdzības kopija;

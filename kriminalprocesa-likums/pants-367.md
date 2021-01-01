@@ -7,7 +7,7 @@
 5) summas, kas izlietotas lietisko pierādījumu glabāšanai, pārsūtīšanai, realizācijai un iznīcināšanai;
 6) summas, kas izlietotas ekspertīzes izdarīšanai;
 7) summas, kas izlietotas mantas aizsardzībai;
-7¹) izdevumi, kas radušies administratīvā pārkāpuma lietā, kurā pieņemts lēmums par administratīvā pārkāpuma lietvedības izbeigšanu, materiālus nododot izmeklēšanas iestādei, vai pieņemtais nolēmums ir atcelts sakarā ar kriminālprocesa uzsākšanu vai zaudējis spēku sakarā ar personas saukšanu pie kriminālatbildības;
+7¹) izdevumi, kas radušies administratīvā pārkāpuma lietā, kurā pieņemts lēmums par administratīvā pārkāpuma procesa izbeigšanu, materiālus nododot izmeklēšanas iestādei, vai pieņemtais nolēmums ir atcelts sakarā ar kriminālprocesa uzsākšanu vai zaudējis spēku sakarā ar personas saukšanu pie kriminālatbildības;
 7²) izdevumi, kas saistīti ar alkohola koncentrācijas, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmes konstatēšanai veiktajām pārbaudēm;
 7³) izdevumi, kas saistīti ar ārvalsts izdotās personas pārņemšanu;
 8) citi izdevumi, kas radušies kriminālprocesā.

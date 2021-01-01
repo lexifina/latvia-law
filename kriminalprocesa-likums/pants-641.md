@@ -1,2 +1,2 @@
 641.pants. Nosacītas notiesāšanas atcelšana vai pārbaudes laika pagarināšana
-Rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas, pamatojoties uz Valsts probācijas dienesta iesniegumu, Krimināllikumā noteiktajos gadījumos var pieņemt lēmumu par spriedumā noteiktā soda izpildīšanu nosacīti notiesātajam vai par pārbaudes termiņa pagarināšanu līdz vienam gadam. Iesniegumu izskata tiesas sēdē, nepieprasot krimināllietu.
+Rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas, pamatojoties uz Valsts probācijas dienesta iesniegumu, Krimināllikumā noteiktajos gadījumos var pieņemt lēmumu par spriedumā noteiktā soda izpildīšanu nosacīti notiesātajam vai par pārbaudes termiņa pagarināšanu līdz vienam gadam. Iesniegumu izskata, nepieprasot krimināllietu.

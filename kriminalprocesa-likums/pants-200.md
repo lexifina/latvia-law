@@ -3,7 +3,7 @@
 (2) Lēmumā par ekspertīzes noteikšanu norāda:
 1) ekspertīzes noteikšanas iemeslus un pamatu;
 2) apstākļus, kuri attiecas uz izpētāmo objektu;
-3) ekspertīžu iestādi vai tā eksperta vārdu un uzvārdu, kuram uzdots izdarīt ekspertīzi;
+3) ekspertīžu iestādi vai tā eksperta vārdu un uzvārdu, kuram uzdots izdarīt ekspertīzi, ja eksperts nestrādā tiesu ekspertīžu iestādē;
 4) ekspertam izvirzīto uzdevumu un risināmos jautājumus;
 5) ekspertam nodotos materiālus.
 (3) Pakļaujot ekspertīzei dzīvu cilvēku, lēmumā norāda viņa personas datus.

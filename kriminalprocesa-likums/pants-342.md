@@ -5,6 +5,6 @@
 (4) Amatpersonai, kura izskata sūdzību, ir pienākums savas kompetences ietvaros nekavējoties veikt pasākumus, lai atjaunotu personām to pārkāptās tiesības un likumiskās intereses.
 (5) Ja sūdzības termiņš nokavēts un nav atjaunots, sūdzība netiek izskatīta un par to paziņo iesniedzējam.
 (5¹) Ja sūdzības saturs attiecībā uz jau izskatītā sūdzībā norādītajiem tiesiskajiem vai faktiskajiem apstākļiem pēc būtības nav mainījies, sūdzība netiek izskatīta un par to paziņo iesniedzējam.
-(6) Augstāka līmeņa tiesas tiesnesis sūdzību izskata slēgtā tiesas sēdē, klātesot sūdzības iesniedzējam un viņa aizstāvim vai pārstāvim. Tiesas sēdē var piedalīties persona, kuras rīcība vai lēmums pārsūdzēts, vai tās pārstāvis. Minēto personu neierašanās nav šķērslis sūdzības izskatīšanai. Lēmums nav pārsūdzams.
+(6) Ja likumā nav noteikts citādi, augstāka līmeņa tiesas tiesnesis sūdzību izskata rakstveida procesā. Lēmums nav pārsūdzams.
 (6¹) Augstāka līmeņa tiesas tiesnesis sūdzību par izmeklēšanas tiesneša lēmumu izskata rakstveida procesā. Ja nepieciešams, tiesnesis pieprasa lietas materiālus. Lēmums nav pārsūdzams.
 (7) Apelācijas un kasācijas sūdzības un protestus izskata šā likuma desmitajā sadaļā noteiktajā kārtībā un termiņos.

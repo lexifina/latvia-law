@@ -1,5 +1,5 @@
 488.pants. Krimināllietas iztiesāšanas laiks
-(1) Tiesnesis ne vēlāk kā triju darba dienu laikā pēc krimināllietas saņemšanas savā tiesvedībā pieņem lēmumu par krimināllietas iztiesāšanas laiku un vietu. Lēmumu uzraksta rezolūcijas veidā.
+(1) Tiesnesis pēc krimināllietas saņemšanas savā tiesvedībā pieņem lēmumu par krimināllietas iztiesāšanas laiku un vietu, izņemot šā likuma 489. pantā noteiktajā gadījumā. Lēmumu uzraksta rezolūcijas veidā.
 (2) Krimināllietas iztiesāšanu tiesa uzsāk, cik drīz vien iespējams.
 (3) Ja apsūdzētajam piemērots drošības līdzeklis, kas saistīts ar brīvības atņemšanu, krimināllietas iztiesāšanu uzsāk ne vēlāk kā četru nedēļu laikā pēc tās saņemšanas.
 (4) Ja nepilngadīgajam apsūdzētajam piemērots drošības līdzeklis, kas saistīts ar brīvības atņemšanu, krimināllietas iztiesāšanu uzsāk ne vēlāk kā triju nedēļu laikā pēc tās saņemšanas.

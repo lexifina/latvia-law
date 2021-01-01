@@ -3,4 +3,4 @@
 1) brīdinājumu;
 2) piespiedu naudu;
 3) izraidīšanu no tiesas sēžu zāles.
-(2) Advokātam un prokuroram var piemērot tikai brīdinājumu, bet pārējos gadījumos par viņu pārkāpumu informē attiecīgi Zvērinātu advokātu padomi vai Ģenerālprokuratūru.
+(2) Advokātam un prokuroram nevar piemērot izraidīšanu no tiesas sēžu zāles. Par viņu pārkāpumu informē attiecīgi Zvērinātu advokātu padomi vai Ģenerālprokuratūru.

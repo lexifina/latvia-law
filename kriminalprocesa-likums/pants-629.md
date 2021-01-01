@@ -6,3 +6,4 @@
 (3) Slēgtā tiesas sēdē uzklausa procesa virzītāju, prokuroru, pārējās uzaicinātās un ieradušās personas, viņu pārstāvjus vai aizstāvjus.
 (4) Tiesas sēdē tiesas procesā iesaistītajām personām ir vienādas tiesības pieteikt noraidījumus vai lūgumus, iesniegt pierādījumus, iesniegt tiesai rakstveida paskaidrojumus, kā arī piedalīties citu jautājumu izskatīšanā, kuri radušies tiesas procesa gaitā.
 (5) (Izslēgta ar 20.06.2018. likumu)
+(6) Pēc procesa dalībnieku paskaidrojumu uzklausīšanas tiesa pieņem lēmumu. Ja tiesa atzīst, ka šajā tiesas sēdē nav iespējams pieņemt lēmumu, tā nosaka datumu, kad lēmums būs sastādīts un pieejams tiesas kancelejā. Lēmumu sastāda ne vēlāk kā 10 dienu laikā.
