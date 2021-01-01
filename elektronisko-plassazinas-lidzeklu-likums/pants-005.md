@@ -1,4 +1,2 @@
-5.pants. Sabiedriskie elektroniskie plašsaziņas līdzekļi
-(1) Sabiedriskie elektroniskie plašsaziņas līdzekļi ir valsts kapitālsabiedrības, kas izveidotas un darbojas saskaņā ar šo likumu, Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumu, Komerclikumu un citiem normatīvajiem aktiem, kā arī statūtiem, kurus apstiprina Nacionālā elektronisko plašsaziņas līdzekļu padome (turpmāk arī - Padome).
-(2) Sabiedrisko elektronisko plašsaziņas līdzekļu pamatkapitālu veido valsts ieguldītā manta. Nacionālā elektronisko plašsaziņas līdzekļu padome ir valsts kapitāla daļu turētāja attiecīgajā kapitālsabiedrībā un veic tās dalībnieku sapulces funkcijas. Padome par kapitāla daļu turēšanu atlīdzību no sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem nesaņem.
-(3) Sabiedrisko elektronisko plašsaziņas līdzekļu galvenais uzdevums ir sabiedriskā pasūtījuma programmu veidošana un izplatīšana.
+5. pants. Sabiedriskie elektroniskie plašsaziņas līdzekļi
+Sabiedriskie elektroniskie plašsaziņas līdzekļi ir elektroniskie plašsaziņas līdzekļi, kuru galvenais uzdevums ir sabiedriskā pasūtījuma programmu veidošana un izplatīšana un pakalpojumu sniegšana. Sabiedrisko plašsaziņas līdzekļu tiesisko statusu un to pārvaldību nosaka Sabiedrisko elektronisko plašsaziņas līdzekļu un to pārvaldības likums.
