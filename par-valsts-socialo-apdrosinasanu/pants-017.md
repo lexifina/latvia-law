@@ -1,2 +1,2 @@
 17.pants. Soda naudas un nokavējuma naudas izlietošanas kārtība
-Soda naudu, kas aprēķināta Valsts ieņēmumu dienesta veikto pārbaužu rezultātā, un nokavējuma naudu Valsts kase ieskaita katrā speciālajā budžetā atbilstoši gadskārtējā valsts budžeta likumā noteiktajam šā speciālā budžeta ieņēmumu īpatsvaram.
+Soda naudu, kas aprēķināta Valsts ieņēmumu dienesta veikto pārbaužu rezultātā, un nokavējuma naudu iemaksā vienotajā nodokļu kontā un to attiecināšanu starp budžetiem un ieskaitīšanu speciālajos budžetos nodrošina atbilstoši šā likuma 22. pantam.
