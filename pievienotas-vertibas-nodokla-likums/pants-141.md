@@ -1,6 +1,6 @@
-141.pants. Īpašs nodokļa piemērošanas režīms kokmateriālu piegādei un ar to saistītiem pakalpojumiem
+141. pants. Īpašs nodokļa piemērošanas režīms kokmateriālu piegādēm un ar kokmateriāliem saistītajiem pakalpojumiem
 (1) Nodokli par šā panta trešajā daļā minēto kokmateriālu piegādi, kas veikta iekšzemē, valsts budžetā maksā kokmateriālu saņēmējs, ja kokmateriālu piegādātājs un kokmateriālu saņēmējs ir reģistrēti nodokļa maksātāji.
-(2) Nodokli par šā panta ceturtajā daļā minētajiem pakalpojumiem, kas iekšzemē sniegti darījumos, kuri saistīti ar šā panta trešajā daļā minēto kokmateriālu piegādi, valsts budžetā maksā pakalpojumu saņēmējs, ja pakalpojumu sniedzējs un pakalpojumu saņēmējs ir reģistrēti nodokļa maksātāji.
+(2) Nodokli par šā panta ceturtajā daļā minētajiem ar kokmateriāliem saistītajiem pakalpojumiem, kas sniegti iekšzemē, valsts budžetā maksā pakalpojumu saņēmējs, ja pakalpojumu sniedzējs un pakalpojumu saņēmējs ir reģistrēti nodokļa maksātāji.
 (3) Šā panta pirmajā daļā minēto kārtību piemēro šādu kokmateriālu piegādei:
 1) nocirsti un atzaroti, sagarumoti vai nesagarumoti, mizoti vai nemizoti, garenvirzienā sašķelti vai nesašķelti apaļkoki, kuri sastāv no viena elementa bez mākslīgiem savienojumiem un kuru garums ir lielāks par vienu metru, bet tievgaļa diametrs nav mazāks par trim centimetriem;
 2) jebkurā garumā sazāģēti, ēvelēti vai neēvelēti zāģmateriāli, kuri sastāv no viena elementa bez mākslīgiem savienojumiem un ir biezāki par sešiem milimetriem;
@@ -16,6 +16,6 @@
 6) ar kokmateriālu piegādi saistītie tirgus izpētes (mārketinga) un starpniecības pakalpojumi.
 (5) Kokmateriālu piegādātājs izraksta kokmateriālu saņēmējam nodokļa rēķinu, kurā piegādāto kokmateriālu vērtību norāda bez nodokļa.
 (6) Kokmateriālu saņēmējs samaksā kokmateriālu piegādātājam nodokļa rēķinā norādīto kokmateriālu vērtību.
-(7) Ar kokmateriālu piegādi saistīta pakalpojuma sniedzējs izraksta pakalpojuma saņēmējam nodokļa rēķinu, kurā sniegtā pakalpojuma vērtību norāda bez nodokļa.
-(8) Ar kokmateriālu piegādi saistīta pakalpojuma saņēmējs samaksā pakalpojuma sniedzējam nodokļa rēķinā norādīto pakalpojuma vērtību.
-(9) Kokmateriālu saņēmējs par saņemtajām precēm un ar kokmateriālu piegādi saistīta pakalpojuma saņēmējs par saņemto pakalpojumu maksā, izmantojot bezskaidras naudas norēķinus.
+(7) Šā panta otrajā daļā minētais pakalpojumu sniedzējs izraksta pakalpojumu saņēmējam nodokļa rēķinu, kurā sniegtā pakalpojuma vērtību norāda bez nodokļa.
+(8) Šā panta otrajā daļā minētais pakalpojumu saņēmējs samaksā pakalpojumu sniedzējam nodokļa rēķinā norādīto pakalpojuma vērtību.
+(9) Kokmateriālu saņēmējs par saņemtajām precēm un šā panta otrajā daļā minētais pakalpojumu saņēmējs par saņemtajiem pakalpojumiem maksā, izmantojot bezskaidras naudas norēķinus.

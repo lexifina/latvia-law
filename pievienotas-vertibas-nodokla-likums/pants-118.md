@@ -1,8 +1,8 @@
 118.pants. Nodokļa deklarācijas un paziņojuma par nodokļa samaksu iesniegšanas termiņi
-(1) Ja reģistrēts nodokļa maksātājs deklarāciju un tās pielikumus iesniedz Valsts ieņēmumu dienestam, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, deklarācijas iesniegšanas termiņš ir 20 dienas pēc taksācijas perioda beigām.
+(1) Reģistrēts nodokļa maksātājs deklarāciju un tās pielikumus iesniedz Valsts ieņēmumu dienestam 20 dienu laikā pēc taksācijas perioda beigām, ja šajā likumā nav noteikts citādi.
 (2) (Izslēgta ar 12.06.2014. likumu)
 (3) (Izslēgta ar 12.06.2014. likumu)
-(4) Fiskālais pārstāvis nodokļa deklarāciju un tās pielikumus šā panta pirmajā daļā noteiktajā termiņā iesniedz Valsts ieņēmumu dienestam, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu.
+(4) (Izslēgta ar 24.11.2020. likumu)
 (5) Reģistrēts nodokļa maksātājs iesniedz Valsts ieņēmumu dienestam deklarāciju par taksācijas gadu līdz nākamā taksācijas gada 1.maijam.
 (6) Reģistrēts nodokļa maksātājs iesniedz Valsts ieņēmumu dienestam pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā par katru kalendāra mēnesi šā panta pirmajā daļā noteiktajā termiņā, ja tas:
 1) veic preču piegādi Eiropas Savienības teritorijā vai citas dalībvalsts nodokļa maksātājam citā dalībvalstī;

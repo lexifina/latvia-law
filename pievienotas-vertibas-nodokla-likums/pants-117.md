@@ -13,7 +13,7 @@
 1) veikta preču piegāde Eiropas Savienības teritorijā;
 2) citas dalībvalsts nodokļa maksātājam citā dalībvalstī sniegts ar nodokli apliekams pakalpojums, kura sniegšanas vietu nosaka saskaņā ar šā likuma 19. panta pirmo daļu;
 3) veikta preču piegāde uz noliktavu citā dalībvalstī saskaņā ar šā likuma 8.¹ pantu.
-(8) Nereģistrēts nodokļa maksātājs, kā arī persona, kura nav nodokļa maksātājs, informē Valsts ieņēmumu dienestu par nodokļa samaksu valsts budžetā (tai skaitā par jauna transportlīdzekļa iegādi no citas dalībvalsts jebkuras personas, par zaudētajiem parādiem), iesniedzot paziņojumu par nodokļa samaksu.
+(8) Persona iesniedz Valsts ieņēmumu dienestam paziņojumu par nodokļa samaksu, ja valsts budžetā ir maksājams nodoklis, kas nav uzrādāms nodokļa deklarācijā.
 (9) Veidlapas paraugu šā panta astotajā daļā minētajam paziņojumam par nodokļa samaksu un šā paziņojuma aizpildīšanas kārtību nosaka Ministru kabinets.
 (10) Tiesu izpildītājs par valsts budžetā iemaksāto nodokli no mantas pārdošanas tiesu izpildītāja rīkotā izsolē informē Valsts ieņēmumu dienestu, iesniedzot šā panta astotajā daļā minēto paziņojumu.
 (11) PVN grupa šā likuma 116.panta otrajā daļā minētos deklarācijas pielikumus, izņemot deklarāciju par taksācijas gadu, iesniedz par katru PVN grupas dalībnieku atsevišķi.

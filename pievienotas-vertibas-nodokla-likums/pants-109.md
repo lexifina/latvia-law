@@ -1,18 +1,7 @@
-109.pants. Pārmaksātā nodokļa atmaksāšanas kārtība
-(1) Valsts ieņēmumu dienests, veicot nodokļu administrēšanas pasākumus, pārceļ apstiprināto pārmaksāto nodokļa summu uz nākamo taksācijas periodu līdz taksācijas gada beigām, sedzot nākamajos taksācijas periodos valsts budžetā maksājamo nodokļa summu, 30 dienu laikā pēc:
-1) šā likuma 118.pantā noteiktā nodokļa deklarācijas iesniegšanas termiņa;
-2) nodokļa deklarācijas iesniegšanas dienas, ja nodokļa deklarācija ir iesniegta pēc šā likuma 118.pantā noteiktā nodokļa deklarācijas iesniegšanas termiņa;
+109. pants. Pārmaksātā nodokļa atmaksāšana
+(1) Valsts ieņēmumu dienests, veicot nodokļu administrēšanas pasākumus, atmaksā apstiprināto pārmaksāto nodokļa summu par taksācijas periodu 30 dienu laikā pēc:
+1) šā likuma 118. pantā noteiktā nodokļa deklarācijas iesniegšanas termiņa;
+2) nodokļa deklarācijas iesniegšanas dienas, ja nodokļa deklarācija ir iesniegta pēc šā likuma 118. pantā noteiktā nodokļa deklarācijas iesniegšanas termiņa;
 3) precizētās nodokļa deklarācijas iesniegšanas dienas, ja iesniegta precizēta nodokļa deklarācija.
-(2) Ja reģistrētam nodokļa maksātājam ir pievienotās vērtības nodokļa parāds vai citu nodokļu, nodevu vai citu valsts noteikto maksājumu parāds, Valsts ieņēmumu dienests pārmaksāto nodokļa summu pirms tās pārcelšanas uz nākamo taksācijas periodu novirza likumā "Par nodokļiem un nodevām" noteiktajā kārtībā kārtējo nodokļu maksājumu un nokavēto nodokļu maksājumu veikšanai.
-(3) Ja reģistrētam nodokļa maksātājam pēc šā panta otrajā daļā minētās pārmaksātās nodokļa summas novirzīšanas joprojām ir pārmaksātā nodokļa summa, to pārceļ uz nākamajiem taksācijas periodiem atbilstoši šā panta pirmajā daļā noteiktajam.
-(4) Valsts ieņēmumu dienests šā panta trešajā daļā minēto pārmaksu atmaksā reģistrētā nodokļa maksātāja norādītajā bankas kontā 10 dienu laikā pēc tam, kad Valsts ieņēmumu dienests, ievērojot šā panta pirmajā daļā noteikto termiņu, ir apstiprinājis taksācijas gada pēdējā taksācijas periodā deklarēto pārmaksāto nodokļa summu.
-(5) Pārmaksāto nodokļa summu, kas izveidojusies taksācijas periodā, Valsts ieņēmumu dienests atmaksā reģistrēta nodokļa maksātāja norādītajā bankas kontā, ievērojot šā panta pirmajā daļā noteikto termiņu, ja tiek īstenots kāds no šādiem nosacījumiem:
-1) reģistrētā nodokļu maksātāja ar nodokļa 0 procentu likmi apliekamo darījumu un to darījumu apjoms, kuru veikšanas vieta nav iekšzeme, ir vismaz 90 procenti no kopējās ar nodokli apliekamo darījumu vērtības;
-2) pārmaksātā nodokļa summa pārsniedz 1500 euro, un reģistrētā nodokļa maksātāja ar nodokļa 0 procentu likmi vai nodokļa samazināto likmi apliekamo darījumu apjoms vai to darījumu apjoms, kuru veikšanas vieta nav iekšzeme, ir vismaz 20 procenti no kopējās ar nodokli apliekamo darījumu vērtības;
-3) pārmaksātā nodokļa summa, kas izveidojusies par pamatlīdzekļiem, pārsniedz 150 euro, un reģistrētais nodokļa maksātājs ir pieprasījis šīs pārmaksātās nodokļa summas atmaksu;
-4) pārmaksātā nodokļa summa pārsniedz 1 500 euro un ir izveidojusies par iegādātajām precēm un saņemtajiem pakalpojumiem šā likuma 141., 142., 143., 143.¹, 143.², 143.³ un 143.⁴ pantā minēto darījumu nodrošināšanai;
-5) pārmaksātā nodokļa summa pārsniedz 5000 euro.
-(6) Pēc reģistrētā nodokļa maksātāja izslēgšanas no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra nodokļu administrācija mēneša laikā pārmaksāto nodokļa summu novirza nodokļa parādu, citu nodokļu, nodevu vai citu valsts noteikto maksājumu parādu segšanai.
-(7) Personai, kura ir izslēgta no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, pēc tās pieprasījuma, bet ne vēlāk kā četrus mēnešus pēc tam, kad pieņemts lēmums par tās izslēgšanu no minētā reģistra, pārmaksāto nodokļa summu atmaksā šīs personas norādītajā bankas kontā, ja pēc pārmaksātās nodokļa summas novirzīšanas joprojām ir pārmaksātā nodokļa summa.
-(8) Ja persona, kura ir izslēgta no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra, četru mēnešu laikā pēc tam, kad pieņemts lēmums par tās izslēgšanu no minētā reģistra, nav iesniegusi pieprasījumu par pārmaksātās nodokļa summas atmaksāšanu, Valsts ieņēmumu dienests to dzēš.
-(9) Valsts ieņēmumu dienests pārmaksāto nodokļa summu, kas radusies PVN grupai, atmaksā galvenajam uzņēmumam.
+(2) Valsts ieņēmumu dienests pirms apstiprinātās pārmaksātās nodokļa summas atmaksāšanas sedz personas Valsts ieņēmumu dienesta administrētos nodokļus, nodevas, citus valsts noteiktos maksājumus un ar tiem saistītos maksājumus likumā "Par nodokļiem un nodevām" noteiktajā kārtībā.
+(3) Valsts ieņēmumu dienests pārmaksāto nodokļa summu, kas radusies PVN grupai, atmaksā galvenajam uzņēmumam.

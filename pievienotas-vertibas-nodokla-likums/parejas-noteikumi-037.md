@@ -1,0 +1,1 @@
+37. Ja līdz 2020. gada 31. martam pārmaksātās nodokļa summas apstiprināšanas termiņš tika pagarināts saskaņā ar šā likuma 110. pantu, Valsts ieņēmumu dienests atmaksā apstiprināto pārmaksāto summu ne vēlāk kā nākamajā darbdienā pēc pārmaksātās nodokļa summas pamatotības apstiprināšanas.
