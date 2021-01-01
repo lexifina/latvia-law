@@ -12,20 +12,18 @@ c) izdošanas datums,
 d) derīguma termiņš,
 e) izdevējvalsts un izdevējiestāde;
 7) dzīvesvietas adrese;
+7¹) vēlēšanu apgabals;
 8) adrese ārvalstī, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
-8¹) adrese ieslodzījuma vietā, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
-9) ziņas par vēlēšanu iecirkni:
+8¹) (izslēgts ar 11.06.2020. likumu);
+9) ziņas par vēlēšanu iecirkni, kurā vēlētājs nobalsojis:
 a) numurs,
-b) adrese;
-c) nosaukums;
-10) kārtas numurs vēlēšanu iecirkņa vēlētāju sarakstā;
+b) adrese,
+c) nosaukums,
+d) vēlētāja balsošanas reģistrācijas datums un laiks,
+e) atzīme par balsošanu, izmantojot reģistrācijas aploksni;
+10) (izslēgts ar 11.06.2020. likumu);
 11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā;
-12) ziņas par kandidēšanu republikas pilsētas un novada domes vēlēšanās:
-a) kandidāta pieteikšanas datums,
-b) saraksta iesniedzējs - reģistrēta politiskā partija vai reģistrētu politisko partiju reģistrēta apvienība, vai divas vai vairākas reģistrētas politiskās partijas, kuras nav apvienojušās reģistrētā politisko partiju apvienībā, vai vēlētāju apvienības,
-c) saraksta nosaukums,
-d) pašvaldības administratīvā teritorija, kurā kandidē;
-13) ziņas par kandidēšanu Eiropas Parlamenta vēlēšanās:
-a) kandidāta pieteikšanas datums,
-b) saraksta iesniedzējs - reģistrēta politiskā organizācija (partija) vai reģistrēta politisko organizāciju (partiju) apvienība.
+12) (izslēgts ar 11.06.2020. likumu);
+13) (izslēgts ar 11.06.2020. likumu);
+14) vēlēšanu (balsošanas) nosaukums.
 (2) Iekļaujot ziņas Reģistrā vai aktualizējot tās, papildus norāda ziņu iekļaušanas vai aktualizēšanas datumu un iemeslu.

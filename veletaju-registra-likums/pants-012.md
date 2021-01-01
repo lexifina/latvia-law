@@ -1,5 +1,5 @@
-12.pants. (1) Pārvalde ne vēlāk kā 75 dienas pirms vēlēšanām katram vēlēšanu iecirknim sagatavo sākotnējo vēlētāju sarakstu.
-(2) Iecirkņa vēlētāju sarakstā iekļauj visus vēlētājus, kuri deklarējuši dzīvesvietu attiecīgajam vēlēšanu iecirknim piederīgajās adresēs vai kuriem šajās iecirknim piederīgajās adresēs bijusi pēdējā reģistrētā dzīvesvietas adrese.
-(3) Vēlētājus, kuri reģistrējuši savu dzīvesvietu ārvalstīs, iekļauj ārvalstīs dzīvojošo vēlētāju sarakstā.
-(4) Republikas pilsētas un novada domes vēlēšanām iecirkņa vēlētāju sarakstā iekļauj tikai tos vēlētājus, kuri ir reģistrēti dzīvesvietā attiecīgajam vēlēšanu iecirknim piederīgajās adresēs.
-(5) Ja republikas pilsētas un novada domes vēlēšanas notiek vienlaikus ar Eiropas Parlamenta vēlēšanām, vēlētājus, kuriem ir tiesības piedalīties abās vēlēšanās, iekļauj tā vēlēšanu iecirkņa sarakstā, kuram piederīgajās adresēs vēlētāji reģistrēti dzīvesvietā atbilstoši Pilsētas domes, novada domes un pagasta padomes vēlēšanu likuma nosacījumiem.
+12.pants. (1) Pārvalde ne vēlāk kā 75 dienas pirms vēlēšanām katram vēlēšanu apgabalam sagatavo sākotnējo vēlētāju elektronisko sarakstu.
+(2) Apgabala vēlētāju elektroniskajā sarakstā iekļauj visus vēlētājus, kuri deklarējuši dzīvesvietu attiecīgajam vēlēšanu apgabalam piederīgajās adresēs vai kuriem šajās apgabalam piederīgajās adresēs bijusi pēdējā reģistrētā dzīvesvietas adrese.
+(3) Vēlētājus, kuri reģistrējuši savu dzīvesvietu ārvalstīs, republikas pilsētas un novada domes vēlēšanās, iekļauj ārvalstīs dzīvojošo vēlētāju elektroniskajā sarakstā.
+(4) Republikas pilsētas un novada domes vēlēšanām apgabala vēlētāju elektroniskajā sarakstā iekļauj tikai tos vēlētājus, kuri ir reģistrēti dzīvesvietā attiecīgajam vēlēšanu apgabalam piederīgajās adresēs.
+(5) Ja republikas pilsētas un novada domes vēlēšanas notiek vienlaikus ar Eiropas Parlamenta vēlēšanām, vēlētājus, kuriem ir tiesības piedalīties abās vēlēšanās, iekļauj tā vēlēšanu apgabala sarakstā, kuram piederīgajās adresēs vēlētāji reģistrēti dzīvesvietā atbilstoši Republikas pilsētas domes un novada domes vēlēšanu likuma nosacījumiem.
