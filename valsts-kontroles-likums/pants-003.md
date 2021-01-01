@@ -1,5 +1,6 @@
 3.pants. Valsts kontrole:
 1) katru gadu iesniedz Saeimai atzinumu un revīzijas ziņojumu par saimnieciskā gada pārskatu līdz pārskata gadam sekojošā saimnieciskā gada 15. oktobrim;
+1¹) Saeimas vēlēšanu gadā iesniedz Saeimai atzinumu un revīzijas ziņojumu par saimnieciskā gada pārskatu līdz pārskata gadam sekojošā saimnieciskā gada 15. novembrim;
 2) katru gadu sniedz atzinumus par ministriju un citu centrālo valsts iestāžu gada pārskatu sagatavošanas pareizību. Ja pārskats nav iesniegts Valsts kontrolei tās norādītajā termiņā, Valsts kontrole sniedz atzinumu ne vēlāk kā 60 dienu laikā no attiecīgā pārskata saņemšanas dienas;
 3) iesniedz Saeimai un Ministru kabinetam ziņojumu:
 a) par revīzijām tajās revidējamās vienībās, kurām sniegti Valsts kontroles atzinumi ar piezīmēm, negatīvi atzinumi vai atteikts sniegt atzinumu,
