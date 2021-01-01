@@ -19,4 +19,4 @@ j) ja kandidāts ir citas Eiropas Savienības dalībvalsts pilsonis, - kandidāt
 (5) Ja par kandidātu ir pieteikta persona, kura saraksta iesniegšanas dienā ieņem kādu no šā likuma 10. pantā minētajiem amatiem, kandidātu sarakstam jāpievieno attiecīgās personas parakstīts paziņojums, ka ievēlēšanas gadījumā tā mēneša laikā izbeigs attiecīgā amata (dienesta) pildīšanu.
 (6) Ja kandidātu saraksta nosaukums sakrīt ar kādas reģistrētas politiskās partijas vai reģistrētu politisko partiju reģistrētas apvienības nosaukumu, kandidātu sarakstam pievienojams šīs politiskās partijas vai politisko partiju apvienības lēmējinstitūcijas pilnvarojums saraksta iesniedzējiem iesniegt kandidātu sarakstu attiecīgās domes vēlēšanām.
 (7) Ja apvienotu kandidātu sarakstu ir iesniegušas vairākas politiskās partijas, kuras nav apvienojušās reģistrētā politisko partiju apvienībā, kandidātu sarakstam pievienojams visu attiecīgo politisko partiju lēmējinstitūciju pilnvarojums.
-(8) Republikas pilsētas domes un novada domes deputātu kandidātu sarakstam jāpievieno arī bankas dokuments par šā likuma 18.pantā noteiktās drošības naudas iemaksu.
+(8) (Izslēgta ar 11.06.2020. likumu)

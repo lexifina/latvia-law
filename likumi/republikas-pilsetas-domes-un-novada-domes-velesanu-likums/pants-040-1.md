@@ -1,8 +1,4 @@
-40.¹ pants. (1) Pēc iepriekšējās balsu skaitīšanas pabeigšanas vēlēšanu iecirkņa komisija paraksta balsu skaitīšanas protokola pirmo daļu. Pēc tam vēlēšanu iecirkņa komisija var izsludināt pārtraukumu. Ja tiek izsludināts pārtraukums, pirms tā izsludināšanas vienā sainī iesaiņo:
-1) visas nodotās derīgās vēlēšanu zīmes;
-2) visas vēlēšanu aploksnes ar nederīgajām vēlēšanu zīmēm;
-3) vienu balsu skaitīšanas protokola eksemplāru;
-4) vēlētāju sarakstus.
-(2) Saini aizzīmogo ar vēlēšanu iecirkņa komisijas zīmogu. Klātesošajiem pilnvarotajiem novērotājiem arī ir tiesības aizzīmogot šo saini ar saviem zīmogiem vai parakstīties uz tā, par ko izdarāma atsauce vēlēšanu gaitas protokolā.
-(3) Iesaiņoto vēlēšanu materiālu glabāšanu un uzraudzību pārtraukuma laikā nodrošina Centrālās vēlēšanu komisijas noteiktajā kārtībā.
-(4) Atsākot darbu pēc pārtraukuma, vēlēšanu iecirkņa komisija atklātā sēdē Centrālās vēlēšanu komisijas noteiktajā kārtībā atkārtoti saskaita katra saraksta vēlēšanu zīmes.
+40.¹ pants. (1) Pēc tam kad saskaitītas par katru kandidātu sarakstu nodotās balsis, vēlēšanu iecirkņa komisija izdrukā un paraksta balsu skaitīšanas protokola daļu, kur norādītas vismaz ziņas par balsotāju skaitu, vēlēšanu aplokšņu uzskaiti, vēlēšanu kastēs atrasto vēlēšanu aplokšņu skaitu un saturu, kā arī par katru kandidātu sarakstu nodoto derīgo vēlēšanu zīmju skaitu.
+(2) (Izslēgta ar 11.06.2020. likumu)
+(3) (Izslēgta ar 11.06.2020. likumu)
+(4) (Izslēgta ar 11.06.2020. likumu)

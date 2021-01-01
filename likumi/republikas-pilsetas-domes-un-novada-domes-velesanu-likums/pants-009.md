@@ -1,6 +1,6 @@
 9. pants. (1) Domes vēlēšanām nevar pieteikt par kandidātiem un domē nevar ievēlēt personas:
 1) kuras izcieš sodu brīvības atņemšanas vietās;
-2) kuras likumā paredzētajā kārtībā atzītas par rīcības nespējīgām;
+2) kurām likumā paredzētajā kārtībā tiesa ir nodibinājusi aizgādnību;
 3) kuras ir sodītas par smagu vai sevišķi smagu noziegumu, izņemot personas, kuras ir reabilitētas vai kurām sodāmība dzēsta vai noņemta;
 4) kuras Krimināllikumā paredzētā nodarījuma izdarīšanas laikā atradušās nepieskaitāmības stāvoklī, ierobežotas pieskaitāmības stāvoklī vai arī pēc noziedzīgā nodarījuma izdarīšanas saslimušas ar psihisku slimību, kas tām atņēmusi iespēju saprast savu rīcību vai to vadīt, un kurām sakarā ar to piemērots medicīniska rakstura piespiedu līdzeklis vai arī lieta izbeigta bez šāda piespiedu līdzekļa piemērošanas;
 5) kuras pēc 1991.gada 13.janvāra darbojušās PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās;

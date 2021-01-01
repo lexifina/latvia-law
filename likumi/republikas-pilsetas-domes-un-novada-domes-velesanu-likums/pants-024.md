@@ -3,9 +3,10 @@
 (3) Ja arī tad netiek pieteikts nepieciešamais kandidātu skaits, attiecīgajā administratīvajā teritorijā izveido pagaidu administrāciju likumā noteiktajā kārtībā.
 (4) Republikas pilsētas un novada vēlēšanu komisija nodrošina kandidātu sarakstu nodrukāšanu uz atsevišķām veidlapām - vēlēšanu zīmēm. Vēlēšanu zīmē norāda:
 1) tās domes nosaukumu, kurā vēlēšanas notiek;
+1¹) kandidātu saraksta numuru;
 2) kandidātu saraksta nosaukumu;
 3) pieteikto kandidātu kārtas numuru, vārdu un uzvārdu.
 (5) Vēlēšanu zīmē pretī kandidāta uzvārdam ir vieta vēlētāja atzīmes izdarīšanai.
 (6) Republikas pilsētas un novada vēlēšanu komisija ne vēlāk kā piecas dienas pirms vēlēšanu dienas izsūta visām iecirkņu komisijām vēlēšanu aploksnes un vēlēšanu zīmes. Vēlēšanu zīmes izsūtāmas tādā skaitā, lai katrs vēlētājs var saņemt vienu vēlēšanu zīmi par attiecīgajā vēlēšanu apgabalā reģistrētajiem kandidātu sarakstiem. Vēlēšanu aplokšņu izgatavošanu un sadali republikas pilsētu un novadu vēlēšanu komisijām nodrošina Centrālā vēlēšanu komisija tās noteiktajā kārtībā.
-(7) Ja domes vēlēšanām reģistrēti divi vai vairāk kandidātu saraksti, vēlēšanu komisija ne vēlāk kā septiņas dienas pirms vēlēšanu dienas izlozējot nosaka secību, kādā sakārtojamas vēlēšanu zīmes izsniegšanai vēlētājiem. Vēlēšanu zīmes tiek sakārtotas izlozes noteiktajā secībā, taču netiek numurētas.
-(8) Vēlēšanu zīmes, aploksnes un vēlētāju saraksti, sākot ar vēlēšanu pirmo dienu, glabājami Centrālās vēlēšanu komisijas noteiktajā kārtībā.
+(7) Vēlēšanu komisija numurē kandidātu sarakstus, izlozes kārtībā nosakot to numurus. Izloze notiek sarakstu reģistrēšanas secībā. Vēlēšanu zīmes izsniegšanai vēlētājiem tiek sakārtotas izlozes noteiktajā secībā.
+(8) Vēlēšanu zīmes, aploksnes, vēlētāju saraksti, vēlēšanu kastes un citi vēlēšanu materiāli, sākot ar vēlēšanu pirmo dienu līdz to nodošanai republikas pilsētas vai novada vēlēšanu komisijai, Centrālās vēlēšanu komisijas noteiktajā kārtībā glabājami ēkā, kurā atrodas vēlēšanu iecirknis, nodrošinot attiecīgās telpas fizisko vai tehnisko apsardzi.

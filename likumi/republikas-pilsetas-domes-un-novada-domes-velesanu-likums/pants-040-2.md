@@ -4,5 +4,5 @@
 a) pretī viņa uzvārdam tam paredzētajā vietā izdarīta atzīme "+",
 b) viņa vārds vai uzvārds svītrots,
 c) nav izdarītas atzīmes.
-(2) Balsu skaitīšanas galīgos rezultātus vēlēšanu iecirkņa komisija atzīmē balsu skaitīšanas protokola otrajā daļā.
+(2) Balsu skaitīšanas rezultātus vēlēšanu iecirkņa komisija atzīmē balsu skaitīšanas protokolā.
 (3) Domstarpības par vēlētāju izdarītajām atzīmēm vēlēšanu zīmēs vēlēšanu iecirkņa komisija izšķir ar balsu vairākumu. Balsu skaitam sadaloties vienādi, izšķirošā ir vēlēšanu iecirkņa komisijas priekšsēdētāja balss.
