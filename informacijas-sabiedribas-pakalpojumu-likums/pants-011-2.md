@@ -1,0 +1,3 @@
+11.² pants. Ekonomikas ministrijas pienākumi
+(1) Ekonomikas ministrija izskata šā likuma 11.¹ panta pirmajā daļā minēto iesniegumu un, ja biedrība vai nodibinājums atbilst regulas Nr. 2019/1150 14. panta 3. punkta prasībām, ziņas par biedrību vai nodibinājumu ieraksta komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvības reģistrā (turpmāk - reģistrs).
+(2) Ekonomikas ministrija izveido un uztur reģistru. Reģistrā ieraksta ziņas par biedrībām vai nodibinājumiem, kuri var pārstāvēt komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju intereses. Regulas Nr. 2019/1150 14. panta 5. punktā noteikto informāciju par reģistrā esošajām biedrībām un nodibinājumiem Ekonomikas ministrija sniedz Eiropas Komisijai.
