@@ -1,0 +1,1 @@
+42. Mikrouzņēmums iesniedz Valsts ieņēmumu dienestam mikrouzņēmumu nodokļa 2020. gada ceturtā ceturkšņa deklarāciju Ministru kabineta 2014. gada 8. aprīļa noteikumos Nr. 190 "Noteikumi par mikrouzņēmumu nodokļa deklarāciju un tās aizpildīšanas kārtību" noteiktajā kārtībā.

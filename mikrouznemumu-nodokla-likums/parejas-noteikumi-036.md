@@ -1,0 +1,1 @@
+36. Jau reģistrētais mikrouzņēmumu nodokļa maksātājs - sabiedrība ar ierobežotu atbildību - zaudē mikrouzņēmumu nodokļa maksātāja statusu ar 2022. gada 1. janvāri un kļūst par uzņēmumu ienākuma nodokļa maksātāju.

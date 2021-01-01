@@ -1,0 +1,1 @@
+43. Mikrouzņēmumu nodokļa maksātāja valsts budžetā iemaksātos mikrouzņēmumu nodokļa ieņēmumus par 2020. gada ceturto ceturksni Valsts ieņēmumu dienests attiecina katru darbdienu atbilstoši šā likuma 8. panta pirmajā, otrajā un trešajā daļā noteiktajam sadalījumam (redakcijā, kas bija spēkā 2020. gada 31. decembrī).

@@ -1,0 +1,1 @@
+37. Mikrouzņēmumu nodokļa maksātājam 2021. gadā ir tiesības mainīt mikrouzņēmumu nodokļa maksātāja statusu un kļūt attiecīgi par uzņēmumu ienākuma nodokļa maksātāju vai iedzīvotāju ienākuma nodokļa maksātāju ar nākamā ceturkšņa pirmo datumu, līdz kārtējā ceturkšņa pēdējā mēneša piecpadsmitajam datumam iesniedzot pieteikumu Valsts ieņēmumu dienestam.
