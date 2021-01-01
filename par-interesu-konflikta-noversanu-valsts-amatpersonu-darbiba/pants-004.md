@@ -12,7 +12,7 @@
 10) Korupcijas novēršanas un apkarošanas biroja priekšnieks, viņa vietnieki, centrālā aparāta nodaļu vadītāji un viņu vietnieki, teritoriālo nodaļu vadītāji un izmeklētāji;
 11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšnieks un viņa vietnieks;
 12) tiesībsargs un viņa vietnieks;
-13) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas padomes loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
+13) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
 14) pašvaldības domes priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks, kā arī pagasta vai pilsētas pārvaldes vadītājs novada pašvaldībā;
 15) pašvaldības domes deputāts;
 16) publiskas personas iestādes vadītājs un viņa vietnieks;
