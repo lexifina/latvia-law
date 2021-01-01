@@ -1,0 +1,6 @@
+9. pants. Sabiedriskā pasūtījuma sastāvs
+(1) Sabiedriskais pasūtījums ir sabiedrības demokrātiskajām, sociālajām un kultūras vajadzībām un interesēm atbilstošs plašs un daudzveidīgs informatīva, analītiska, izglītojoša, izklaidējoša, iesaistoša un kultūras satura un pakalpojumu kopums.
+(2) Sabiedriskais pasūtījums aptver visas sabiedriskā elektroniskā plašsaziņas līdzekļa darbības satura veidošanā, vadībā, izplatīšanā, pieejamības nodrošināšanā, arhivēšanā, kā arī tehnoloģiju nodrošināšanā un infrastruktūras uzturēšanā.
+(3) Ar sabiedrisko pasūtījumu tiek īstenots sabiedriskā elektroniskā plašsaziņas līdzekļa vispārējais mērķis un vidējā termiņa darbības stratēģija, kas izstrādāta atbilstoši Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumam un šim likumam, kā arī sabiedriskā pasūtījuma gada plāns, kas izstrādāts un apstiprināts atbilstoši šim likumam.
+(4) Sabiedriskā elektroniskā plašsaziņas līdzekļa vidējā termiņa darbības stratēģiju un sabiedriskā pasūtījuma gada plānu veido saskaņā ar šā likuma 3. pantā noteiktajiem sabiedrisko elektronisko plašsaziņas līdzekļu darbības pamatprincipiem.
+(5) Redakcionālās neatkarības nodrošināšanai konkrēti sabiedriskā elektroniskā plašsaziņas līdzekļa raidījumi un programmu plāni paši par sevi nav uzskatāmi par atsevišķu sabiedriskā pasūtījuma priekšmetu.

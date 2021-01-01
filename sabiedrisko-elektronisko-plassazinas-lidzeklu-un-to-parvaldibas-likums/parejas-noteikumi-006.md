@@ -1,0 +1,1 @@
+6. Sešu mēnešu laikā pēc tam, kad atbilstoši šā likuma prasībām ir izveidota Sabiedrisko elektronisko plašsaziņas līdzekļu padome pilnā sastāvā, tā iesniedz Saeimas Cilvēktiesību un sabiedrisko lietu komisijai koncepciju par apvienota sabiedriskā elektroniskā plašsaziņas līdzekļa izveidošanu un darbību.

@@ -1,0 +1,9 @@
+20. pants. Sabiedrisko elektronisko plašsaziņas līdzekļu ombuda ievēlēšana un neatkarības garantijas
+(1) Sabiedrisko elektronisko plašsaziņas līdzekļu ombudu uz pieciem gadiem ievēlē Sabiedrisko elektronisko plašsaziņas līdzekļu padome, kandidatūras iepriekš saskaņojot ar sabiedrisko elektronisko plašsaziņas līdzekļu ētikas padomēm.
+(2) Par sabiedrisko elektronisko plašsaziņas līdzekļu ombudu var ievēlēt personu, kurai ir nevainojama reputācija, augstākā izglītība un vismaz piecus gadus ilga profesionālā pieredze masu informācijas līdzekļu jomā vai vismaz piecus gadus ilga akadēmiskā darba pieredze atbilstošā nozarē.
+(3) Sabiedrisko elektronisko plašsaziņas līdzekļu ombudu izraugās atklātā konkursā. Konkursa nolikumu apstiprina Sabiedrisko elektronisko plašsaziņas līdzekļu padome.
+(4) Uz sabiedrisko elektronisko plašsaziņas līdzekļu ombudu attiecas tie paši ierobežojumi, kas šā likuma 5. panta sestajā daļā noteikti sabiedriskā elektroniskā plašsaziņas līdzekļa valdes loceklim.
+(5) Sabiedrisko elektronisko plašsaziņas līdzekļu ombudu Sabiedrisko elektronisko plašsaziņas līdzekļu padome var pirms šā panta pirmajā daļā minētā termiņa atbrīvot no amata tikai tad, ja par to nobalso vismaz divas trešdaļas padomes locekļu un ir saņemta sabiedrisko elektronisko plašsaziņas līdzekļu ētikas padomju piekrišana.
+(6) Sabiedrisko elektronisko plašsaziņas līdzekļu ombuda darbs ir viņa pamatdarbs.
+(7) Sabiedrisko elektronisko plašsaziņas līdzekļu ombuds savu funkciju izpildē ir neatkarīgs no Sabiedrisko elektronisko plašsaziņas līdzekļu padomes un sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem.
+(8) Sabiedrisko elektronisko plašsaziņas līdzekļu ombuda darbību nodrošina Sabiedrisko elektronisko plašsaziņas līdzekļu padome no sabiedrisko elektronisko plašsaziņas līdzekļu budžetiem Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumā noteiktajā apjomā un kārtībā.

@@ -1,0 +1,4 @@
+23. pants. Sabiedrisko elektronisko plašsaziņas līdzekļu atbalsts Latvijas filmu nozarei
+(1) Latvijas Televīzija nodrošina Latvijas nacionālā audiovizuālā mantojuma pieejamību sabiedrībai, iepērkot nacionālās filmas, demonstrējot tās savu programmu un pakalpojumu ietvaros un veicot citus pasākumus Latvijas filmu nozares atbalstīšanai saskaņā ar šo nozari regulējošiem tiesību aktiem.
+(2) Latvijas Televīzija Latvijas nacionālā audiovizuālā mantojuma jautājumos sadarbojas ar valsts tiešās pārvaldes iestādi "Nacionālais kino centrs".
+(3) Valsts tiešās pārvaldes iestāde "Nacionālais kino centrs" un Latvijas Televīzija noslēdz vienošanos par kārtību, kādā Latvijas Televīzija tai piešķirtā budžeta ietvaros pilda savu pienākumu iesaistīties nacionālo filmu kopražošanā un iepirkšanā. Vienošanās termiņš ir trīs gadi, un tā ik reizi slēdzama ne vēlāk kā četrus mēnešus pirms nākamā perioda sākuma.

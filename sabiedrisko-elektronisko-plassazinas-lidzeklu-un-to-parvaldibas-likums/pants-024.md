@@ -1,0 +1,2 @@
+24. pants. Sabiedriskie elektroniskie plašsaziņas līdzekļi kā agrāko sabiedrisko raidorganizāciju tiesību un saistību pārņēmēji
+Sabiedriskie elektroniskie plašsaziņas līdzekļi ir Latvijas Radiofona, bijušās Latvijas PSR Valsts televīzijas un radioraidījumu komitejas, Latvijas Republikas Valsts televīzijas un radioraidījumu komitejas, valsts uzņēmumu "Latvijas Radio" un "Latvijas Televīzija", kā arī valsts bezpeļņas sabiedrības ar ierobežotu atbildību "Latvijas Radio" un valsts bezpeļņas sabiedrības ar ierobežotu atbildību "Latvijas Televīzija" tiesību un saistību pārņēmēji.

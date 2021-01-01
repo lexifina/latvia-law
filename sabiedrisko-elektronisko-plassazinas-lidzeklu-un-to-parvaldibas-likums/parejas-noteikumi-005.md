@@ -1,0 +1,1 @@
+5. Pēc Sabiedrisko elektronisko plašsaziņas līdzekļu padomes pilnīgas izveidošanas Nacionālā elektronisko plašsaziņas līdzekļu padome nekavējoties nodod tai lietvedību, kas saistīta ar sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem, to pārvaldību un sabiedrisko pasūtījumu.

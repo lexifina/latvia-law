@@ -1,0 +1,1 @@
+7. Šā likuma 7. pantā noteiktie ierobežojumi komerciālu paziņojumu izvietošanai sabiedrisko elektronisko plašsaziņas līdzekļu programmās un pakalpojumos, arī interneta vidē, nav attiecināmi uz raidījumiem, kas izplatīti līdz 2020. gada 31. decembrim.
