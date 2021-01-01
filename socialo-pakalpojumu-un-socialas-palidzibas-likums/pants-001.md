@@ -9,14 +9,14 @@ Likumā ir lietoti šādi termini:
 7) klients - persona, kas saņem sociālos pakalpojumus vai sociālo palīdzību;
 8) krīzes centrs - sociālā institūcija, kurā tiek sniegta īslaicīga psiholoģiska un cita veida palīdzība krīzes situācijā nonākušām personām;
 9) naktspatversme - sociālā institūcija, kas personām bez noteiktas dzīvesvietas vai krīzes situācijā nonākušām personām nodrošina naktsmītni, vakariņas un personiskās higiēnas iespējas;
-10) pabalsts garantētā minimālā ienākumu līmeņa nodrošināšanai - naudas un mantiskais pabalsts vai naudas vai mantiskais pabalsts, ko piešķir ģimenēm vai atsevišķi dzīvojošām personām, kuras objektīvu apstākļu dēļ negūst pietiekamus ienākumus un kuras atzītas par trūcīgām. Šis pabalsts nodrošina katram ģimenes loceklim garantēto minimālo ienākumu līmeni;
+10) (izslēgts ar 24.11.2020. likumu);
 11) pamatvajadzības - ēdiens, apģērbs, mājoklis, veselības aprūpe, obligātā izglītība;
 12) patversme - sociālā institūcija, kas personām bez noteiktas dzīvesvietas vai krīzes situācijā nonākušām personām nodrošina īslaicīgas uzturēšanās iespējas, uzturu, personiskās higiēnas iespējas un sociālā darba speciālistu pakalpojumus;
 13) profesionālā rehabilitācija - pasākumu kopums, kas pēc individualizētas funkcionālo traucējumu izvērtēšanas un profesionālās piemērotības noteikšanas personām darbspējīgā vecumā nodrošina jaunas profesijas, profesionālo zināšanu vai prasmju apguvi vai atjaunošanu, tai skaitā profesionālās izglītības programmu apgūšanu pamata un vidējās izglītības pakāpē un multidisciplinārus pakalpojumus integrācijai darba tirgū;
 14) psihosociālā palīdzība - sociālā darba virziens, kura nolūks ir palīdzēt indivīdam un ģimenei risināt starppersonu un sociālās vides problēmas, sniedzot psiholoģisku un sociālu atbalstu;
 15) servisa dzīvoklis - dzīvoklis, kas tiek izīrēts un ir pielāgots personai ar smagiem funkcionālajiem traucējumiem, lai palielinātu personas iespējas dzīvot patstāvīgi un aprūpēt sevi;
 16) sociālā darba speciālists - persona, kurai ir šajā likumā noteiktā izglītība un kura veic sociālā darbinieka, karitatīvā sociālā darbinieka, sociālā aprūpētāja, sociālā rehabilitētāja vai sociālās palīdzības organizatora profesionālos pienākumus;
-17) sociālā palīdzība - naudas vai mantiskais pabalsts, kura piešķiršana balstās uz materiālo resursu novērtēšanu personām (ģimenēm), kurām trūkst līdzekļu pamatvajadzību apmierināšanai;
+17) (izslēgts ar 24.11.2020. likumu);
 18) sociālais dienests - pašvaldības izveidota iestāde, kas sniedz sociālo palīdzību, organizē un sniedz sociālos pakalpojumus pašvaldības iedzīvotājiem;
 19) sociālais darbs - profesionāla darbība, lai palīdzētu personām, ģimenēm, personu grupām un sabiedrībai kopumā veicināt vai atjaunot savu spēju sociāli funkcionēt, kā arī radīt šai funkcionēšanai labvēlīgus apstākļus;
 20) sociālās aprūpes pakalpojums - pasākumu kopums, kas vērsts uz to personu pamatvajadzību apmierināšanu, kurām ir objektīvas grūtības aprūpēt sevi vecuma vai funkcionālo traucējumu dēļ, un ietver sevī pakalpojumus personas dzīvesvietā un ilgstošas sociālās aprūpes institūcijās;
@@ -38,4 +38,6 @@ Likumā ir lietoti šādi termini:
 36) profesionālās piemērotības noteikšana - pasākums, kura laikā izvērtē personas interesi par profesionālās darbības jomām un konkrētām profesijām, vēlmi un motivāciju mācīties, iepriekšējās zināšanas un pieredzi, kā arī veselības stāvokļa, intelektuālo spēju un individuālo īpašību atbilstību personas izraudzītajai profesijai;
 37) apgādnieks - persona, kurai saskaņā ar likumu vai tiesas nolēmumu ir pienākums rūpēties par savu laulāto, bērniem vai vecākiem;
 38) sociālās rehabilitācijas centrs - sociālās rehabilitācijas institūcija, kurā personām ar funkcionāliem traucējumiem, no psihoaktīvām vielām atkarīgām personām, personām pēc brīvības atņemšanas soda izciešanas un citām personām ar sociālās funkcionēšanas problēmām nodrošina sociālās funkcionēšanas spēju atjaunošanai nepieciešamo sociālo rehabilitāciju;
-39) krīzes situācija - situācija, kurā ģimene (persona) katastrofas vai citu no ģimenes (personas) gribas neatkarīgu apstākļu dēļ pati saviem spēkiem nespēj nodrošināt savas pamatvajadzības un tai ir nepieciešama psihosociāla vai materiāla palīdzība.
+39) krīzes situācija - situācija, kurā katastrofas vai citu ārēju notikumu dēļ personai vairs nav iespēju izmantot ierastos problēmu risināšanas veidus, pati saviem spēkiem tā nespēj pārvarēt šo notikumu radītās sekas un tai ir nepieciešama psihosociāla vai materiāla palīdzība;
+40) mājsaimniecība - vairākas personas, kuras dzīvo vienā mājoklī un kopīgi sedz izdevumus, vai viena persona, kura saimnieko atsevišķi;
+41) sociālā funkcionēšana - personas spēja darboties dažādās dzīves jomās un pildīt atbilstošas sociālās lomas, kuras nemitīgi tiek pakļautas apkārtējās vides ietekmei un ietver sabiedrības gaidas un objektīvās prasības.

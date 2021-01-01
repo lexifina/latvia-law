@@ -1,3 +1,4 @@
-33.pants. Ģimenes (personas) atzīšana par trūcīgu
-(1) Ministru kabinets nosaka ienākumu un materiālā stāvokļa līmeni, kuru nepārsniedzot ģimene, kas sastāv no laulātajiem, personām, kurām ir kopēji izdevumi pamatvajadzību nodrošināšanai un kuras mitinās vienā mājoklī, vai atsevišķi dzīvojoša persona tiek atzīta par trūcīgu, un kārtību, kādā ģimene (persona) tiek atzīta par trūcīgu.
-(2) Pašvaldība saistošajos noteikumos var noteikt labvēlīgākus nosacījumus ģimenes (personas) atzīšanai par trūcīgu.
+33. pants. Minimālo ienākumu sliekšņi sociālās palīdzības sniegšanai
+(1) (Atzīta par spēkā neesošu ar Satversmes tiesas 05.10.2023. spriedumu)
+(2) Trūcīgas mājsaimniecības ienākumu slieksnis ir 272 euro pirmajai vai vienīgajai personai mājsaimniecībā un 190 euro pārējām personām mājsaimniecībā.
+(3) Maznodrošinātas mājsaimniecības ienākumu slieksni katra pašvaldība ir tiesīga noteikt ne augstāku par 436 euro pirmajai vai vienīgajai personai mājsaimniecībā un 305 euro pārējām personām mājsaimniecībā, bet ne zemāku par šā panta otrajā daļā noteikto trūcīgas mājsaimniecības ienākumu slieksni.

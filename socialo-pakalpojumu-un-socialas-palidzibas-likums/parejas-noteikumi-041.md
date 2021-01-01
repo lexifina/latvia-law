@@ -1,0 +1,1 @@
+41. Pašvaldības sociālā dienesta izziņa par atbilstību trūcīgas vai maznodrošinātas ģimenes (personas) statusam, kas izsniegta līdz 2020. gada 31. decembrim, ir spēkā līdz izziņā norādītā termiņa beigām, bet ne ilgāk kā līdz 2021. gada 30. novembrim, un šajā laikā tā ir pamats valsts un pašvaldības normatīvajos aktos noteikto pabalstu un atvieglojumu saņemšanai.

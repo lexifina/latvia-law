@@ -1,6 +1,5 @@
-5.pants. Sociālās palīdzības sniegšanas pamatprincipi
-(1) Sociālo palīdzību klientam sniedz, pamatojoties uz viņa materiālo resursu - ienākumu un īpašuma novērtējumu, individuāli paredzot katra klienta līdzdarbību.
-(2) Līdz 2011.gada 31.decembrim, novērtējot klienta materiālos resursus, par ienākumiem neuzskata bērna kopšanas pabalstu, piemaksu pie bērna kopšanas pabalsta vai vecāku pabalstu par dvīņiem vai vairākiem vienās dzemdībās dzimušiem bērniem, pirmos 50 latus no vecāku pabalsta, piemaksu pie ģimenes valsts pabalsta par bērnu invalīdu, bērna invalīda kopšanas pabalstu, pabalstu invalīdam, kuram nepieciešama kopšana, pabalstu ar celiakiju slimam bērnam, pabalstu transporta izdevumu kompensēšanai invalīdam, kuram ir apgrūtināta pārvietošanās, bērna piedzimšanas pabalstu, apbedīšanas pabalstu, bezdarbnieka stipendiju profesionālās apmācības, pārkvalifikācijas vai kvalifikācijas paaugstināšanas laikā, kā arī neformālās izglītības ieguves laikā.
-(3) Novērtējot klienta materiālos resursus:
-1) ņem vērā ienākumus, kas veidojas pēc nodokļu samaksas;
-2) par ienākumiem neuzskata ģimenes valsts pabalstu un piemaksas pie šā pabalsta, bērna invalīda kopšanas pabalstu, pabalstu invalīdam, kuram nepieciešama kopšana, pabalstu par asistenta izmantošanu, pabalstu transporta izdevumu kompensēšanai invalīdam, kuram ir apgrūtināta pārvietošanās, pabalstu ar celiakiju slimam bērnam, pabalstus bērna piedzimšanas un personas nāves gadījumā, kā arī šajā likumā noteiktos pašvaldības sociālās palīdzības pabalstus.
+5. pants. Sociālās palīdzības sniegšanas pamatprincipi
+(1) Sociālo palīdzību klientam sniedz, pamatojoties uz viņa materiālo resursu - ienākumu un īpašuma - izvērtējumu, individuāli paredzot katra klienta līdzdarbību, izņemot krīzes situāciju.
+(2) Izvērtējot mājsaimniecības materiālos resursus, ņem vērā ienākumus, kas veidojas pēc nodokļu samaksas.
+(3) Uz sociālās palīdzības pabalstiem nevar vērst piedziņu.
+(4) Šā likuma 35. panta pirmajā un otrajā daļā noteiktos sociālās palīdzības pabalstus pašvaldība izmaksā no pašvaldības budžeta līdzekļiem.
