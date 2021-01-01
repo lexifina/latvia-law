@@ -3,7 +3,7 @@
 (2) Atlīdzība par darbspēju zaudējumu apdrošinātajai personai tiek izmaksāta par katru mēnesi, sākot ar darbspēju zaudējuma noteikšanas dienu, ņemot vērā apdrošinātās personas darbspēju zaudējumu un mēneša vidējo apdrošināšanas iemaksu algu. Apdrošinātās personas darbspēju zaudējumu un uz to attiecināmo laika periodu nosaka VDEĀVK.
 (3) Nosakot atlīdzību par darbspēju zaudējumu, tiek ņemta vērā mēneša vidējā apdrošināšanas iemaksu alga, kas tiek aprēķināta par laika posmu pirms dienas, kad:
 1) noticis nelaimes gadījums darbā vai noteikts darbspēju zaudējums;
-2) konstatēta arodslimība vai kad pirms šīs arodslimības konstatēšanas iestājusies pārejoša darba nespēja.
+2) konstatēta arodslimība.
 (4) Atkarībā no VDEĀVK noteiktā darbspēju zaudējuma apdrošinātajai personai nosaka atlīdzību par darbspēju zaudējumu; šīs atlīdzības apmērs tiek noteikts procentos no apdrošinātās personas mēneša vidējās apdrošināšanas iemaksu algas šādos apmēros:
 1) 80 procenti - ja darbspēju zaudējums ir 100 procenti;
 2) līdz 80 procentiem - ja darbspēju zaudējums ir 80-99 procenti;
