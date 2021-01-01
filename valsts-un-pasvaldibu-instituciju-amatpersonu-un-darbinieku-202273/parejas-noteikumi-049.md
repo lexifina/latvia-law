@@ -1,0 +1,1 @@
+49. No 2021. gada 1. janvāra līdz 2021. gada 31. decembrim valsts kontroliera un Valsts kontroles padomes locekļu bāzes mēnešalgas apmērs ir Valsts kancelejas publicētais bāzes mēnešalgas apmērs 2020. gadam (976 euro).

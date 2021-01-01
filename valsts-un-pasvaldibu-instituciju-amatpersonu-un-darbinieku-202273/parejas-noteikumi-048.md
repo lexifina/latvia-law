@@ -1,0 +1,1 @@
+48. No 2021. gada 1. janvāra līdz 2021. gada 31. decembrim, nosakot Ministru prezidenta, ministru un parlamentāro sekretāru mēnešalgu, bāzes mēnešalgas apmērs ir Centrālās statistikas pārvaldes oficiālajā statistikas paziņojumā publicētais valstī strādājošo 2018. gada mēneša vidējās darba samaksas apmērs (1004 euro).
