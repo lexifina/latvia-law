@@ -20,9 +20,5 @@
 17) trūcīgās personas, kas par tādām atzītas saskaņā ar normatīvajiem aktiem par kārtību, kādā ģimene vai atsevišķi dzīvojoša persona atzīstama par trūcīgu;
 18) Neatliekamās medicīniskās palīdzības dienesta darbinieki;
 19) patvēruma meklētāji.
-(3) Šā panta otrā daļa neattiecas uz pacienta līdzmaksājumiem par ambulatorajai ārstēšanai paredzētajām zālēm un medicīniskajām ierīcēm saskaņā ar normatīvajiem aktiem par ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību, izņemot šādas personu grupas:
-1) bērnus vecumā līdz 18 gadiem;
-2) trūcīgās personas, kas par tādām atzītas saskaņā ar normatīvajiem aktiem par kārtību, kādā ģimene vai atsevišķi dzīvojoša persona atzīstama par trūcīgu;
-3) patvēruma meklētājus;
-4) grūtnieces un sievietes pēcdzemdību periodā līdz 70 dienām.
+(3) Šā panta otrā daļa neattiecas uz maksājumu par ambulatorajai ārstēšanai paredzētajām zālēm un medicīniskajām ierīcēm saskaņā ar normatīvajiem aktiem par ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību.
 (4) Ministru kabinets nosaka kārtību, kādā pacients veic līdzmaksājumu par valsts apmaksātajiem veselības aprūpes pakalpojumiem, līdzmaksājuma apmēru, kā arī līdzmaksājumu kopsummu par saņemtajiem veselības aprūpes pakalpojumiem.
