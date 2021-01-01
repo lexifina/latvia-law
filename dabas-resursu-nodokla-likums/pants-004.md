@@ -2,7 +2,7 @@
 (1) Ar nodokli apliek:
 1) dabas resursus atbilstoši šā likuma 1. un 2.pielikumam, kā arī parka vīngliemežu (Helix pomatia L.) vākšanu tālākai saimnieciskai izmantošanai;
 2) zemes dzīļu derīgo īpašību izmantošanu, iesūknējot ģeoloģiskajās struktūrās dabasgāzi;
-3) atkritumu apglabāšanu un piesārņojošu vielu emisiju vidē atbilstoši šā likuma 14.¹ pantam un 3., 4. un 5.pielikumam;
+3) atkritumu apglabāšanu atkritumu poligonā, atkritumu sadedzināšanu atkritumu sadedzināšanas vai līdzsadedzināšanas iekārtā un piesārņojošu vielu emisiju vidē atbilstoši šā likuma 14.¹ pantam un 3., 4. un 5.pielikumam;
 4) (izslēgts ar 15.12.2016. likumu);
 5) videi kaitīgas preces atbilstoši šā likuma 6.pielikumam;
 6) preču un izstrādājumu iepakojumu (turpmāk arī - iepakojums) un vienreiz lietojamos galda traukus un piederumus atbilstoši šā likuma 24.pantam un 7.pielikumam. Ar nodokli apliek arī to iepakojumu, ko pakalpojumu sniedzējs pievieno izstrādājumiem un kas pēc pakalpojuma sniegšanas nonāk pie pakalpojuma saņēmēja;
