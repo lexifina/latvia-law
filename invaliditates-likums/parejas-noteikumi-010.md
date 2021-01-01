@@ -1,0 +1,1 @@
+10. Šā likuma 1. panta 11. un 12. punkts, 12. panta pirmās daļas 4.¹ un 4.² punkts un 2.³, 2.⁴, 5.², 6.¹, 6.² un astotā daļa, kā arī grozījumi 12. panta pirmās daļas 3., 3.¹ punktā un otrajā un 5.¹ daļā stājas spēkā 2021. gada 1. jūlijā.
