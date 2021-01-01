@@ -9,4 +9,6 @@ Likumā ir lietoti šādi termini:
 7) mājokļa pielāgošana - personas ar invaliditāti vai kopā ar šo personu dzīvojošo tās ģimenes locekļu īpašumā, kopīpašumā vai lietošanā esošās dzīvojamās telpas un palīgtelpas aprīkošana ar nepieciešamajām palīgierīcēm (tehniskajiem palīglīdzekļiem) un pielāgošana personas ar invaliditāti vajadzībām;
 8) persona ar invaliditāti - persona, kurai šajā likumā paredzētajā kārtībā ir noteikta invaliditāte;
 9) persona ar prognozējamu invaliditāti - persona, kurai šajā likumā paredzētajā kārtībā ir noteikta prognozējama invaliditāte;
-10) surdotulks - persona, kas zīmju valodā nodrošina personai ar dzirdes invaliditāti saskarsmi ar citām personām, arī profesionālās pamatizglītības, profesionālās vidējās izglītības vai augstākās izglītības iestādē, kur persona ar dzirdes invaliditāti apgūst izglītības programmu.
+10) surdotulks - persona, kas zīmju valodā nodrošina personai ar dzirdes invaliditāti saskarsmi ar citām personām, arī profesionālās pamatizglītības, profesionālās vidējās izglītības vai augstākās izglītības iestādē, kur persona ar dzirdes invaliditāti apgūst izglītības programmu;
+11) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 10. punktu);
+12) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 10. punktu).
