@@ -1,0 +1,1 @@
+12. Iesniedzot publicēšanai grozījumus tajos saistošajos noteikumos, kuri nav pieejami tīmekļa vietnē www.likumi.lv, vienlaikus iesniedz grozīto saistošo noteikumu konsolidēto redakciju rediģējamā formātā, kurā ietverti arī publicēšanai iesniegtie grozījumi.

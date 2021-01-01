@@ -1,3 +1,6 @@
-13.pants. Oficiālās publikācijas nodrošināšanas izmaksas
-(1) Oficiālās publikācijas un tās pieejamības nodrošināšanas izmaksas sedz no maksas par oficiālo publikāciju, kuru maksā informācijas iesniedzējs, ja likumā vai Ministru kabineta noteikumos nav paredzēts citādi. Ministru kabinets nosaka maksas apmēru par oficiālo publikāciju, maksas iekasēšanas kārtību un atvieglojumus.
-(2) Par oficiālo publikāciju nemaksā tie informācijas iesniedzēji, kuri iesniedz publicēšanai šā likuma 4., 5., 6. un 7.pantā un 10.panta otrajā daļā minēto informāciju, kā arī no valsts budžeta finansētās valsts iestādes, kuras iesniedz publicēšanai tādus tiesību aktus, kuru publicēšanu oficiālajā izdevumā paredz ārējie normatīvie akti.
+13. pants. Oficiālās publikācijas un tiesiskās informācijas nodrošināšanas izmaksas
+(1) Oficiālās publikācijas un tiesiskās informācijas nodrošināšanas izmaksas sedz no:
+1) valsts budžeta dotācijas;
+2) oficiālā izdevuma izdevēja pašu ieņēmumiem no saimnieciskās darbības;
+3) citiem normatīvajos aktos paredzētiem finanšu avotiem.
+(2) Maksu par šā likuma 14. panta otrās daļas 4. un 7. punktā minētajiem pakalpojumiem nosaka oficiālā izdevuma izdevēja izpildinstitūcija, nepārsniedzot šo pakalpojumu sniegšanas pašizmaksu.

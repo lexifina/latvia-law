@@ -1,0 +1,1 @@
+11. Grozījums šā likuma 3. panta pirmajā daļā par visu pašvaldību saistošo noteikumu publicēšanu oficiālajā izdevumā "Latvijas Vēstnesis" stājas spēkā 2022. gada 1. janvārī. Ministru kabinets līdz 2021. gada 1. jūnijam iesniedz Saeimai nepieciešamos likumprojektus, lai nodrošinātu pašvaldību darbību regulējošo normatīvo aktu atbilstību šai prasībai.
