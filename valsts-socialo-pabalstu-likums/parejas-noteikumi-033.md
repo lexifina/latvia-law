@@ -1,0 +1,4 @@
+33. Valsts sociālā nodrošinājuma pabalstu šā likuma 13. panta pirmajā daļā minētajām personām Valsts sociālās apdrošināšanas aģentūra piešķir, pārrēķina un izmaksā šādā kārtībā:
+1) par periodu no 2021. gada 1. janvāra līdz 2021. gada 30. aprīlim pabalstu piešķir un izmaksā tādā apmērā, kādu to noteica normatīvais regulējums līdz 2020. gada 31. decembrim;
+2) par periodu no 2021. gada 1. janvāra līdz 2021. gada 30. aprīlim veic pabalsta pārrēķinu atbilstoši šā likuma 13. panta 1.¹, 1.², 1.³, 1.⁴ vai 1.⁵ daļā noteiktajiem apmēriem un nodrošina pabalsta starpības izmaksu ne vēlāk kā līdz 2021. gada 1. jūnijam;
+3) personai, kurai 2021. gada maijā saskaņā ar šā punkta 2. apakšpunktu izmaksājamās pabalsta starpības kopējais apmērs ir mazāks par personai 2021. gada aprīlī piešķirtā pabalsta apmēru, ne vēlāk kā līdz 2021. gada 1. jūnijam izmaksā vienreizēju piemaksu, lai sasniegtu personai 2021. gada aprīlī piešķirtā pabalsta apmēru.

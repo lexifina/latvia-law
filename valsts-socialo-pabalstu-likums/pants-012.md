@@ -1,5 +1,5 @@
-12.pants. Pabalsts transporta izdevumu kompensēšanai invalīdiem, kuriem ir apgrūtināta pārvietošanās
-(1) Pabalstu transporta izdevumu kompensēšanai piešķir personai, kurai pašai vai kuras bērnam likumā un citos normatīvajos aktos paredzētajā kārtībā ir noteikta invaliditāte un izsniegts atzinums par medicīnisko indikāciju noteikšanu speciāli pielāgota vieglā automobiļa iegādei un pabalsta saņemšanai.
-(2) Tiesības saņemt šo pabalstu rodas no dienas, kad invalīdam izsniegts Veselības un darbspēju ekspertīzes ārstu valsts komisijas atzinums.
+12.pants. Pabalsts transporta izdevumu kompensēšanai personām ar invaliditāti, kurām ir apgrūtināta pārvietošanās
+(1) Pabalstu transporta izdevumu kompensēšanai personai ar invaliditāti, kurai ir apgrūtināta pārvietošanās, piešķir personai, kurai pašai vai kuras bērnam normatīvajos aktos paredzētajā kārtībā ir noteikta invaliditāte un Valsts komisija ir izsniegusi atzinumu par medicīniskajām indikācijām vieglā automobiļa speciālai pielāgošanai un pabalsta saņemšanai transporta izdevumu kompensēšanai. Ministru kabinets nosaka kritērijus atzinuma izsniegšanai.
+(2) Tiesības saņemt šo pabalstu rodas no dienas, kad personai ar invaliditāti izsniegts Veselības un darbspēju ekspertīzes ārstu valsts komisijas atzinums.
 (3) Pabalstu izmaksā divas reizes gadā par katru pilnu sešu mēnešu periodu, skaitot no dienas, kad izsniegts šā panta otrajā daļā minētais atzinums.
 (4) Šā pabalsta izmaksu izbeidz, kad beidzas termiņš, uz kādu noteikta invaliditāte. Ja pēdējo sešu mēnešu periods, par kuru izmaksājams pabalsts, sakarā ar invaliditātes termiņa izbeigšanos ir nepilns, pabalstu par šo periodu izmaksā pilnā apmērā kā par sešu mēnešu periodu.

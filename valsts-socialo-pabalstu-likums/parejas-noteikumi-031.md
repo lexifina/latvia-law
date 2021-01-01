@@ -1,0 +1,1 @@
+31. Grozījumi par šā likuma 11. panta pirmās un otrās daļas izteikšanu jaunā redakcijā un 17. panta otrās daļas papildināšanu ar teikumu un grozījums par 20. panta piektās daļas izslēgšanu stājas spēkā 2021. gada 1. jūlijā.

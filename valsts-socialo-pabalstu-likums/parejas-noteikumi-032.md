@@ -1,0 +1,1 @@
+32. Ģimenes valsts pabalstu par periodu no 2021. gada 1. janvāra šā likuma 6. panta 2.¹ daļā minētajām personām Valsts sociālās apdrošināšanas aģentūra aprēķina un pabalsta starpību izmaksā ne vēlāk kā līdz 2021. gada 1. aprīlim.

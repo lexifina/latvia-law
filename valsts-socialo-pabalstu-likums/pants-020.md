@@ -1,6 +1,6 @@
 20.pants. Regulāri izmaksājamo valsts sociālo pabalstu izmaksas pārtraukšana
 (1) Regulāri izmaksājamo valsts sociālo pabalstu izmaksu pārtrauc:
-1) uz laiku, kamēr pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, atrodas pilnā valsts apgādībā;
+1) uz laiku, kamēr pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, atrodas ieslodzījuma vietā vai ievietots ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā un viņa uzturēšanos tajā pilnībā vai daļēji apmaksā valsts;
 2) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī. Šis nosacījums neattiecas uz šā likuma 10. pantā minētā pabalsta izmaksu, ja aizbildnis un bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī;
 3) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, ir miris vai saņemta informācija vai dokumenti par viņa bezvēsts prombūtni;
 4) ja pabalsta saņēmējs labprātīgi atsakās no turpmākās pabalsta saņemšanas.
@@ -12,6 +12,6 @@
 (4) Šā likuma 11. pantā minēto pabalstu izmaksu pārtrauc gadījumos, kad:
 1) ar bāriņtiesas lēmumu izbeigta bērna uzturēšanās audžuģimenē;
 2) beidzas līgumā noteiktais termiņš;
-3) atlīdzības saņēmējs normatīvajos aktos par audžuģimenēm noteiktajā kārtībā ieguvis specializētās krīzes audžuģimenes statusu vai specializētās audžuģimenes statusu un audžuģimenē ievietots bērns.
+3) atlīdzības saņēmējs normatīvajos aktos par audžuģimenēm noteiktajā kārtībā ieguvis specializētās audžuģimenes statusu un tajā kā specializētajā audžuģimenē ievietots bērns.
 (5) Šā likuma 12.¹ pantā minētā pabalsta izmaksu pārtrauc arī gadījumos, kad persona ievietota ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā un izdevumus par personas uzturēšanos tajā pilnībā vai daļēji apmaksā valsts vai pašvaldība.
-(6) Šā likuma 13.pantā minētā pabalsta izmaksu pārtrauc arī gadījumos, kad personai rodas tiesības saņemt valsts pensiju (izņemot apgādnieka zaudējuma pensiju invalīdam) vai apdrošināšanas atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību.
+(6) Šā likuma 13.pantā minētā pabalsta izmaksu pārtrauc arī gadījumos, kad personai rodas tiesības saņemt valsts pensiju (izņemot apgādnieka zaudējuma pensiju personai ar invaliditāti) vai apdrošināšanas atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību.
