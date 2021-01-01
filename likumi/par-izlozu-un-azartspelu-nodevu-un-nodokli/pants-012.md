@@ -1,4 +1,9 @@
-12. pants. Ienākumi no izložu un azartspēļu nodevas [maksa par attiecīgo licenci] tiek ieskaitīti valsts pamatbudžetā.
-Ienākumi no azartspēļu nodokļa, izņemot šā panta trešajā daļā noteikto, 95 procentu apmērā ieskaitāmi valsts pamatbudžetā, bet 5 procentu apmērā - tās pašvaldības budžetā, kuras teritorijā tiek organizēta azartspēle.
-Ienākumi no azartspēļu nodokļa par šā likuma 3. panta piektajā daļā minēto objektu ieskaitāmi valsts pamatbudžetā.
-Ienākumi no valsts mēroga izložu nodokļa ieskaitāmi valsts pamatbudžetā, bet no vietējā mēroga izložu nodokļa - tās pašvaldības budžetā, kuras teritorijā tiek organizēta izloze.
+12. pants. Izložu un azartspēļu nodevas ieņēmumi 100 procentu apmērā tiek ieskaitīti valsts pamatbudžetā.
+Izložu nodokļa ieņēmumus par valsts mēroga izložu (arī momentloteriju) organizēšanu 100 procentu apmērā attiecina uz valsts pamatbudžeta ieņēmumiem.
+Azartspēļu nodokļa ieņēmumus par šā likuma 3. panta piektajā daļā minēto objektu 100 procentu apmērā attiecina uz valsts pamatbudžeta ieņēmumiem.
+Izložu nodokļa ieņēmumus par vietēja mēroga izložu (arī momentloteriju) organizēšanu un azartspēļu nodokļa ieņēmumus (izņemot azartspēļu nodokļa ieņēmumus par šā likuma 3. panta piektajā daļā minēto objektu) Valsts ieņēmumu dienests atbilstoši šā panta piektajai un sestajai daļai sadala pa pašvaldību budžetiem un attiecina uz valsts pamatbudžeta ieņēmumiem.
+Valsts ieņēmumu dienests divu darba dienu laikā pēc šā likuma 10. panta septītajā daļā noteiktā izložu un azartspēļu nodokļa samaksas termiņa sadala un attiecina nodokļa ieņēmumus šādi:
+1) izložu nodokļa ieņēmumus par vietēja mēroga izložu (arī momentloteriju) organizēšanu 100 procentu apmērā ieskaita tās pašvaldības budžetā, kuras teritorijā tika organizēta izloze (arī momentloterija);
+2) azartspēļu nodokļa ieņēmumus (izņemot azartspēļu nodokļa ieņēmumus par šā likuma 3. panta piektajā daļā minēto objektu) piecu procentu apmērā ieskaita tās pašvaldības budžetā, kuras teritorijā tika organizēta azartspēle, bet 95 procentu apmērā attiecina uz valsts pamatbudžeta ieņēmumiem.
+Valsts ieņēmumu dienests, veicot šā panta piektajā daļā noteikto nodokļa ieņēmumu sadali atbilstoši izložu un azartspēļu organizētāja faktiski veiktajiem nodokļu maksājumiem un saskaņā ar šā likuma 10. panta sestajā daļā minēto pārskatu, uz konkrēto pašvaldību attiecina samaksāto nodokļa summu, tikai pamatojoties uz tā pārskata informāciju, par kuru veikts attiecīgais maksājums, kā arī ievērojot uz konkrēto pašvaldību attiecināmās daļas īpatsvaru procentos no kopējās pārskatā norādītās nodokļa summas.
+Soda naudu par šā likuma pārkāpumiem un nokavējuma naudu, kas saistīta ar izložu un azartspēļu nodokli, Valsts ieņēmumu dienests attiecina uz valsts pamatbudžeta ieņēmumiem.

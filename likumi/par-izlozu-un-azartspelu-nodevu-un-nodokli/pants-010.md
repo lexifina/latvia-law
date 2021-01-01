@@ -3,6 +3,8 @@ Azartspēļu nodoklis par veiksmes spēli pa tālruni maksājams katru mēnesi a
 Azartspēļu nodoklis - 15 procenti no totalizatora vai derību organizēšanas ieņēmumiem maksājams katru mēnesi atbilstoši totalizatora vai derību organizēšanas ieņēmumiem attiecīgajā mēnesī.
 Azartspēļu nodoklis par azartspēlēm, kuras organizē, izmantojot telekomunikācijas, maksājams katru mēnesi no šā mēneša azartspēļu organizēšanas ieņēmumiem.
 Izložu nodoklis maksājams katru mēnesi atbilstoši biļešu realizācijas ieņēmumiem.
-Izložu un azartspēļu nodokli maksā par iepriekšējo mēnesi līdz nākamā mēneša 15.datumam (ieskaitot).
-Izložu un azartspēļu organizētāji 15 dienu laikā pēc ceturkšņa beigām iesniedz Valsts ieņēmumu dienestam izložu un azartspēļu nodokļa pārskatu par aprēķināto izložu un azartspēļu nodokli pārskata ceturksnī. Pārskata veidlapas un iesniegšanas kārtību apstiprina Ministru kabinets.
+Izložu un azartspēļu organizētāji 15 dienu laikā pēc pārskata mēneša beigām, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, iesniedz Valsts ieņēmumu dienestam izložu un azartspēļu nodokļa pārskatu par aprēķināto izložu un azartspēļu nodokli par pārskata mēnesi. Pārskatu veidlapu paraugus un to aizpildīšanas kārtību nosaka Ministru kabinets.
+Izložu un azartspēļu nodokli maksā par pārskata mēnesi līdz nākamā mēneša 23. datumam, iemaksājot vienotajā nodokļu kontā (likuma "Par nodokļiem un nodevām" izpratnē).
 Azartspēļu nodoklis par bingo maksājams katru mēnesi atbilstoši bingo organizēšanas ieņēmumiem.
+Izložu un azartspēļu nodevu iemaksā valsts budžetā valsts nodevas administrācijas norādītajā budžeta kontā.
+Soda naudu par šā likuma pārkāpumiem un nokavējuma naudu, kas saistīta ar izložu un azartspēļu nodokli, izložu un azartspēļu organizētājs iemaksā vienotajā nodokļu kontā.
