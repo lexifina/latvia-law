@@ -1,2 +1,0 @@
-39.¹ pants. Nepamatoti izmaksāto sociālās palīdzības pabalstu atgūšana
-Pašvaldības sociālais dienests pieņem lēmumu par nepamatoti izmaksāto sociālās palīdzības pabalstu atgūšanu, ja tas konstatē, ka attiecīgais pabalsts ir nepamatoti izmaksāts klienta vainas dēļ, klientam sniedzot nepatiesu vai nepilnīgu informāciju vai nepaziņojot par pārmaiņām, kas varētu ietekmēt tiesības uz šo pabalstu vai tā apmēru. Lēmumu izpilda tiesu izpildītājs Administratīvā procesa likumā noteiktajā kārtībā, pamatojoties uz pašvaldības sociālā dienesta izpildrīkojumu.
