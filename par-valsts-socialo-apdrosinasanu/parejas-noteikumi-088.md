@@ -1,0 +1,1 @@
+88. Ja pašnodarbinātais ir iesniedzis Valsts ieņēmumu dienestam apliecinājumu par nākamā ceturkšņa plānotajiem ienākumiem, pašnodarbinātais veic obligātās iemaksas pensiju apdrošināšanai 10 procentu apmērā no šā likuma 14. panta otrajā daļā noteiktā objekta.

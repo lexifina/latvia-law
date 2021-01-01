@@ -1,0 +1,3 @@
+78. Par periodu no 2021. gada 1. jūlija līdz 2021. gada 31. decembrim pašnodarbinātie veic obligātās iemaksas pensiju apdrošināšanai vismaz 10 procentu apmērā un, ja pašnodarbinātā ienākumi mēnesī:
+1) sasniedz vai pārsniedz Ministru kabineta noteikto minimālo darba algu, papildus šā likuma 14. panta otrajā daļā noteiktajam obligāto iemaksu objektam reizi ceturksnī veic obligātās iemaksas valsts pensiju apdrošināšanai no brīvi izraudzītā obligāto iemaksu objekta un faktisko ienākumu starpības;
+2) nesasniedz Ministru kabineta noteikto minimālo darba algu, reizi ceturksnī veic obligātās iemaksas valsts pensiju apdrošināšanai no ienākuma.

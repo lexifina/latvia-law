@@ -1,0 +1,1 @@
+85. Ministru kabinets līdz 2021. gada 1. jūlijam izstrādā un iesniedz Saeimai likumprojektu "Grozījumi likumā "Par valsts sociālo apdrošināšanu"" par pašnodarbināto sociālo apdrošināšanu no 2022. gada 1. janvāra.

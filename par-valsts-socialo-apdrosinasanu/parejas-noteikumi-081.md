@@ -1,0 +1,1 @@
+81. Par periodu no 2021. gada 1. jūlija līdz 2021. gada 31. decembrim Aģentūra atbilstoši pašnodarbinātā faktiski veiktajām obligātajām iemaksām pensiju apdrošināšanai, piemērojot obligāto iemaksu likmi pensiju apdrošināšanai, reģistrē personas obligāto iemaksu objektu pensiju apdrošināšanai un pensijas kapitālu.

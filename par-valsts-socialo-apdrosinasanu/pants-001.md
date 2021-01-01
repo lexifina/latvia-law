@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) darba devējs - juridiskā vai fiziskā persona, tiesībspējīga personālsabiedrība, citas Eiropas Savienības dalībvalsts, Šveices Konfederācijas vai Eiropas Ekonomikas zonas dalībvalsts (turpmāk - cita dalībvalsts) nodokļu maksātājs vai citas dalībvalsts komersanta filiāle (pastāvīgā pārstāvniecība), vai personāla nomnieks, kas izmanto tāda mikrouzņēmuma pakalpojumus, kurš sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, kā arī iekšzemes nodokļu maksātājs - ārvalsts nodokļu maksātāja iznomāta personāla nomnieks, kas pats nodarbina darba ņēmēju vai apmaksā darba ņēmēja darbu;
 2) darba ņēmējs:
-a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā, izņemot mikrouzņēmuma darbinieku,
+a) persona, kas uz darba līguma pamata par nolīgto darba samaksu veic noteiktu darbu darba devēja vadībā,
 b) (izslēgts ar 27.10.2005. likumu),
 c) Saeimas deputāts, pašvaldības deputāts, Ministru kabineta loceklis, komercsabiedrības valdes, padomes loceklis, prokūrists, kontrolieris, Valsts probācijas dienesta brīvprātīgais probācijas darbinieks, kā arī cita persona, kura ieņem amatu, kas dod tiesības uz atlīdzību, ja atlīdzība ir faktiski noteikta,
 d) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un nav reģistrējusies kā saimnieciskajā darbībā gūtā ienākuma nodokļa maksātāja,
@@ -10,7 +10,7 @@ e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes 
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli,
 h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā,
-i) mikrouzņēmuma darbinieks,
+i) (izslēgts ar 27.11.2020. likumu),
 j) persona, kuru Latvijas Republikā nodarbina ārvalsts nodokļu maksātājs, kuram Latvijas Republikā ir pastāvīgā pārstāvniecība, kā arī persona, kuru iekšzemes nodokļu maksātājam iznomā ārvalsts nodokļu maksātājs - personāla iznomātājs,
 k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm,
 l) mikrouzņēmuma, kas sniedz darbaspēka nodrošināšanas pakalpojumus likuma "Par iedzīvotāju ienākuma nodokli" 17.² panta izpratnē, darbinieks,
@@ -34,6 +34,7 @@ i) zemnieku (zvejnieku) saimniecības īpašnieks, kas, nebūdams darba tiesiska
 j) persona, kuras pastāvīgā dzīvesvieta ir Latvijas Republikā un kuras darbu apmaksā no Latvijas Republikai piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finanšu institūciju aizdevuma līdzekļiem,
 k) zvērināts tiesu izpildītājs,
 l) individuālais komersants, tai skaitā individuālais komersants, kurš vada transportlīdzekli pasažieru komercpārvadājumos ar taksometru vai vieglo automobili;
+m) mikrouzņēmumu nodokļa maksātājs;
 4) iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka:
 a) persona, kuru Latvijas Republikas teritorijā nodarbina darba devējs - ārvalstu nodokļu maksātājs, ja šīs personas pastāvīgā dzīvesvieta ir Latvijas Republikā,
 b) persona, kuru nodarbina citas dalībvalsts darba devējs un kurai saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulas (EK) Nr. 883/2004 par sociālās nodrošināšanas sistēmu koordinēšanu (turpmāk - regula) 11., 12., 13., 14., 15. un 16.pantu piemēro Latvijas Republikas normatīvos aktus;

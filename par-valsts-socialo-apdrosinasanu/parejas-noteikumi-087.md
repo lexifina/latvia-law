@@ -1,0 +1,1 @@
+87. Ja pašnodarbinātais nav iesniedzis Valsts ieņēmumu dienestam apliecinājumu par nākamā ceturkšņa plānotajiem ienākumiem, Aģentūra aprēķina minimālās obligātās iemaksas, kas papildus jāveic pašnodarbinātajam, un līdz 2022. gada 20. martam paziņo par šīm iemaksām Valsts ieņēmumu dienestam.

@@ -6,4 +6,5 @@
 (4) Iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka un ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka reģistrējas Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā Ministru kabineta noteiktajā kārtībā 10 dienu laikā no statusa iegūšanas dienas.
 (5) Valsts ieņēmumu dienestam ir tiesības reģistrēt sociāli apdrošinātās personas (darba ņēmēja) statusa zaudēšanu. Kārtību, kādā Valsts ieņēmumu dienests reģistrē sociāli apdrošinātās personas statusa zaudēšanu, nosaka Ministru kabinets.
 (6) Darba ņēmējs tiek reģistrēts kā sociāli apdrošināta persona ar datumu, ko norādījis darba devējs, taču ne agrāk kā 60 dienas pirms dienas, kad darba devējs iesniedzis ziņas par darba ņēmēja statusu. Ministru kabinets nosaka gadījumus, kad darba ņēmējs tiek reģistrēts kā sociāli apdrošināta persona ar datumu, ko norādījis darba devējs.
+(6¹) Šā panta sestajā daļā noteikto maksimālo termiņu darba ņēmēja ziņu iesniegšanai nepiemēro darba ņēmējam, kas atbilst šā likuma 1. panta 2. punkta "m" apakšpunktam, vai gadījumā, kad obligātās iemaksas tiek pārnestas saskaņā ar šā likuma 21.³ pantu.
 (7) Darba ņēmēja statusa iegūšanas un zaudēšanas datumi netiek laboti un precizēti.
