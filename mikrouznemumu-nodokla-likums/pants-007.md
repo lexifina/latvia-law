@@ -1,8 +1,8 @@
 7.pants. Mikrouzņēmumu nodokļa deklarēšana un maksāšana
 (1) Mikrouzņēmumu nodokli par taksācijas perioda apgrozījumu mikrouzņēmums maksā četras reizes gadā par katra ceturkšņa apgrozījumu.
-(2) Mikrouzņēmums iesniedz Valsts ieņēmumu dienestam mikrouzņēmumu nodokļa ceturkšņa deklarāciju līdz ceturksnim sekojošā mēneša piecpadsmitajam datumam.
+(2) Mikrouzņēmums iesniedz Valsts ieņēmumu dienestam mikrouzņēmumu nodokļa ceturkšņa deklarāciju līdz ceturksnim sekojošā mēneša piecpadsmitajam datumam, tajā norādot ceturkšņa apgrozījumu sadalījumā pa ceturkšņa mēnešiem un no tā aprēķināto mikrouzņēmumu nodokli. Mikrouzņēmums iesniedz Valsts ieņēmumu dienestam mikrouzņēmumu nodokļa ceturkšņa deklarāciju tikai par to pārskata ceturksni, kurā mikrouzņēmumam ir bijis apgrozījums (arī tad, ja mikrouzņēmumam apgrozījums ir bijis vienā vai divos pārskata ceturkšņa mēnešos).
 (2¹) (Izslēgta ar 20.12.2016. likumu)
-(3) Mikrouzņēmums maksā mikrouzņēmumu nodokli līdz ceturksnim sekojošā mēneša piecpadsmitajam datumam Valsts ieņēmumu dienesta mājaslapā internetā norādītajos valsts budžeta ieņēmumu kontos.
-(4) Mikrouzņēmumu nodokļa deklarācijas veidlapas paraugu un aizpildīšanas kārtību nosaka Ministru kabinets.
+(3) Mikrouzņēmums maksā mikrouzņēmumu nodokli līdz ceturksnim sekojošā mēneša 23. datumam, iemaksājot to vienotajā nodokļu kontā.
+(4) (Izslēgta ar 26.11.2020. likumu)
 (5) Mikrouzņēmumam ir tiesības ne vairāk kā divas reizes precizēt mikrouzņēmumu nodokļa deklarāciju par pārskata ceturksni mēneša laikā pēc šā panta otrajā daļā noteiktās dienas.
-(6) Pēc šā panta piektajā daļā noteiktā termiņa izbeigšanās mikrouzņēmumam ir tiesības iesniegt tikai tādus mikrouzņēmumu nodokļa deklarācijas precizējumus, kuri palielina maksājamā nodokļa apmēru, bet nav tiesību samazināt vai palielināt mikrouzņēmuma darbinieka ienākumu no mikrouzņēmuma vai izslēgt mikrouzņēmumu nodokļa deklarācijā norādītu mikrouzņēmuma darbinieku, vai iekļaut mikrouzņēmumu nodokļa deklarācijā jaunu mikrouzņēmuma darbinieku. Mikrouzņēmumu nodokļa summai, ko mikrouzņēmums šajā gadījumā papildus iemaksā budžetā, nepiemēro šā likuma 9.panta otrās daļas nosacījumus.
+(6) Pēc šā panta piektajā daļā noteiktā termiņa beigām mikrouzņēmumam ir tiesības iesniegt tikai tādus mikrouzņēmumu nodokļa deklarācijas precizējumus, kuri palielina maksājamā nodokļa apmēru.
