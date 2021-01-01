@@ -9,4 +9,4 @@
 (6) Operators katru gadu līdz 31. janvārim nosūta Centram pārskatu par izmaiņām, kas saistītas ar jonizējošā starojuma avotiem un darbībām ar tiem, kā arī par personālsastāva izmaiņām un citām pārmaiņām, kuras ietekmējušas radiācijas drošību un kodoldrošību iepriekšējā kalendāra gadā. Pārskatu neiesniedz, ja minētās izmaiņas nav notikušas.
 (7) (Izslēgta ar 29.05.2014. likumu)
 (8) Ministru kabinets nosaka kārtību, kādā aizpildāms un iesniedzams pārskats par darbībām ar jonizējošā starojuma avotiem, kā arī apstiprina šā pārskata saturu.
-(9) (Daļa stājas spēkā 01.01.2021. un iekļauta likuma redakcijā uz 01.01.2021. Sk. Pārejas noteikumu 11. punktu)
+(9) Operators iesniedz pārskatu elektroniski un pēc elektroniskās reģistrēšanās sniedz informāciju tiešsaistes režīmā Valsts vides dienesta informācijas sistēmā.

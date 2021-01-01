@@ -1,0 +1,3 @@
+10.¹ pants. Īpatnējās radioaktivitātes pārbaudes attiecībā uz radionuklīda cēzijs ¹³⁷Cs satura kontroli koksnē un koksnes sadedzināšanas pelnos
+(1) Ja koksnes kurināmā radioloģiskās pārbaudes rezultātā konstatē neatbilstību Ministru kabineta noteiktajām prasībām aizsardzībai pret jonizējošo starojumu koksnes kurināmajā, koksnes kurināmā īpašnieks sedz ar koksnes kurināmā radioloģiskajām pārbaudēm saistītās izmaksas.
+(2) Ja koksnes sadedzināšanas pelnu radioloģiskās pārbaudes rezultātā konstatē koksnes sadedzināšanas pelnu neatbilstību Ministru kabineta noteiktajām prasībām aizsardzībai pret jonizējošo starojumu koksnes sadedzināšanas pelnos, koksnes sadedzināšanas iekārtas operators sedz ar koksnes sadedzināšanas pelnu radioloģiskajām pārbaudēm saistītās izmaksas.
