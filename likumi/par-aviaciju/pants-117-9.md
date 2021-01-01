@@ -1,0 +1,4 @@
+117.⁹ pants. Militāro bezpilota gaisa kuģu lidojumi
+Lidojumi ar militāro bezpilota gaisa kuģi tiek veikti, ievērojot šā likuma 117.¹ panta pirmās un otrās daļas nosacījumus.
+Šā likuma prasības netiek attiecinātas uz lidojumiem ar militāro bezpilota gaisa kuģi, kurš veic lidojumus šim nolūkam speciāli izveidotos gaisa telpas struktūras elementos, kas izveidoti saskaņā ar normatīvo aktu par gaisa telpas pārvaldības kārtību, gaisa telpas struktūru un tās mainīšanas kārtību.
+Militāro bezpilota gaisa kuģu lidojumus ārpus šim nolūkam speciāli izveidotiem gaisa telpas struktūras elementiem veic saskaņā ar normatīvo aktu par bezpilota gaisa kuģu lidojumiem Latvijas Republikas gaisa telpā. Šajā gadījumā Nacionālie bruņotie spēki nodrošina salīdzināmu lidojuma drošuma un drošības, kā arī uzraudzības līmeni.

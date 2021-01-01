@@ -1,0 +1,2 @@
+Vienpadsmitā¹ nodaļa
+BEZPILOTA GAISA KUĢI UN TO SISTĒMAS

@@ -1,4 +1,4 @@
-6.pants. Aviācijas departamenta, Civilās aviācijas aģentūras, Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja un Valsts robežsardzes kompetence
+6. pants. Aviācijas departamenta, Civilās aviācijas aģentūras, Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja, Valsts robežsardzes, Valsts policijas un Militārās policijas kompetence
 Aviācijas departaments:
 1) izstrādā civilās aviācijas perspektīvās attīstības programmu un koncepciju projektus;
 2) (izslēgts ar 23.11.2017. likumu);
@@ -27,7 +27,8 @@ Civilās aviācijas aģentūra:
 16) sagatavo normatīvos aktus, kuri regulē civilās aviācijas darbību;
 17) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzības un gaisa kuģu meklēšanas un glābšanas jomā;
 18) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām funkcionālo gaisa telpas bloku izveidē un uzraudzībā;
-19) nodrošina incidentu izmeklēšanu gadījumos, kad to neveic Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs atbilstoši šā panta trešās daļas 1.punktam.
+19) nodrošina incidentu izmeklēšanu gadījumos, kad to neveic Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs atbilstoši šā panta trešās daļas 1.punktam;
+20) veic bezpilota gaisa kuģu lidojumu drošuma uzraudzību.
 Transporta nelaimes gadījumu un incidentu izmeklēšanas birojs:
 1) izmeklē civilās aviācijas nelaimes gadījumus, nopietnus incidentus un, ja tas nepieciešams lidojumu drošības uzlabošanai, arī incidentus, nenosakot personas vainu un atbildību;
 2) izstrādā drošuma rekomendācijas civilās aviācijas nelaimes gadījumu, nopietnu incidentu un incidentu cēloņu novēršanai turpmākajā civilās aviācijas darbībā un kontrolē šo lidojumu drošuma rekomendāciju ievērošanu;
@@ -38,4 +39,9 @@ Civilās aviācijas aģentūra var izdot administratīvos aktus par aizliegumu v
 Civilās aviācijas aģentūra Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt izpletņlēcēju desantēšanas, ultravieglo gaisa kuģu ekspluatācijas uzraudzību, ultravieglo gaisa kuģu pilotu un tehniskās apkopes personāla sertificēšanu un motoparaplānu un motodeltaplānu reģistrāciju.
 Valsts robežsardze:
 1) pārbauda vispārējās nozīmes aviācijas gaisa kuģu lidojumu veikšanai nepieciešamo dokumentāciju un civilās aviācijas gaisa kuģa apkalpes atbilstību lidojumu veikšanai;
+1¹) veic bezpilota gaisa kuģu lidojumu kontroli infrastruktūras objektos, kuri tiek izmantoti Valsts robežsardzes vajadzībām, un gaisa telpas struktūras elementos, kuri izveidoti Valsts robežsardzes vajadzībām;
 2) veic administratīvā pārkāpuma procesu savas kompetences ietvaros par pārkāpumiem civilās aviācijas jomā.
+Valsts policija:
+1) veic bezpilota gaisa kuģu lidojumu kontroli saistībā ar sabiedriskās kārtības un drošības ievērošanu;
+2) atbilstoši kompetencei veic administratīvā pārkāpuma procesu par pārkāpumiem civilās aviācijas drošības un bezpilota gaisa kuģu jomā.
+Militārā policija atbilstoši kompetencei veic administratīvā pārkāpuma procesu par pārkāpumiem bezpilota gaisa kuģu jomā militārajos objektos, kurus izmanto Nacionālie bruņotie spēki Nacionālo bruņoto spēku likumā noteikto uzdevumu pildīšanai, un gaisa telpas struktūras elementos, kuri izveidoti Nacionālo bruņoto spēku vajadzībām.

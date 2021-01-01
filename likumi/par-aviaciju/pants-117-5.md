@@ -1,0 +1,12 @@
+117.⁵ pants. Bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistrs
+Civilās aviācijas aģentūra izveido un uztur bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistru. Reģistrā ietver informāciju par:
+1) atvērtās, specifiskās un sertificētās bezpilota gaisa kuģu kategorijas bezpilota gaisa kuģu sistēmu ekspluatantiem un bezpilota gaisa kuģiem, kuri pakļauti sertificēšanai, regulas Nr. 2019/947 14. panta izpratnē;
+2) bezpilota gaisa kuģiem, kuri tiek izmantoti lidojumiem atvērtajā un specifiskajā kategorijā;
+3) tālvadības pilotiem;
+4) gaisa kuģu modeļu klubiem un apvienībām.
+Bezpilota gaisa kuģu sistēmu ekspluatantam, bezpilota gaisa kuģa īpašniekam, tālvadības pilotam, gaisa kuģu modeļu klubam vai apvienībai ir pienākums sniegt un atjaunot bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistrā ietverto informāciju šajā likumā un Ministru kabineta noteikumos par bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistru noteiktajā kārtībā.
+Ministru kabinets nosaka:
+1) bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistra izveidošanas, uzturēšanas, pieejamības, savietojamības un darbības kārtību;
+2) kārtību, kādā atvērtās, specifiskās un sertificētās bezpilota gaisa kuģu kategorijas bezpilota gaisa kuģu sistēmu ekspluatanti, gaisa kuģu modeļu klubi vai apvienības sniedz un atjauno bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistrā ietverto informāciju;
+3) kārtību, kādā sniedz un atjauno informāciju par bezpilota gaisa kuģiem, kuri pakļauti sertificēšanai, un bezpilota gaisa kuģiem, kuri tiek izmantoti atvērtās un specifiskās kategorijas lidojumiem;
+4) kārtību, kādā atvērtās, specifiskās un sertificētās bezpilota gaisa kuģu kategorijas bezpilota gaisa kuģu sistēmu ekspluatanti, gaisa kuģu modeļu klubi vai apvienības, bezpilota gaisa kuģi, kuri pakļauti sertificēšanai, un bezpilota gaisa kuģi, kuri tiek izmantoti atvērtās un specifiskās kategorijas lidojumiem, tiek izslēgti no bezpilota gaisa kuģu, bezpilota gaisa kuģu sistēmu ekspluatantu, tālvadības pilotu un gaisa kuģu modeļu klubu un apvienību reģistra.
