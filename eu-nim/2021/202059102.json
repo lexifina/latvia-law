@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2020. gada 21. decembra likums \"Grozījumi Darba likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "247A",
+  "official_journal_page": null,
+  "official_journal_date": "2020-12-21",
+  "entry_into_force": "2021-01-04",
+  "notification_date": "2020-12-30",
+  "commission_reference": "MNE(2020)59102",
+  "nim_celex": "72018L0957LVA_202059102",
+  "nim_id": "202059102",
+  "transposes_celex": [
+    "32018L0957"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3cdf07cf-1886-4212-b7e8-36708a285c6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
