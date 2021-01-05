@@ -15,5 +15,5 @@
 4) ceturtais un turpmākie periodi - 10 kalendāra gadi, sākot ar 2021. gada 1. janvāri.
 (6) Valsts vides dienests siltumnīcefekta gāzu emisijas atļaujas nosacījumus saskaņo ar attiecīgās iekārtas A vai B kategorijas atļaujas nosacījumiem.
 (7) Ministru kabinets nosaka:
-1) kādai jābūt siltumnīcefekta gāzu emisijas atļaujas iesnieguma veidlapai un atļaujas veidlapai, kā arī kārtību, kādā pieprasāma un izsniedzama siltumnīcefekta gāzu emisijas atļauja;
+1) iesniegumā siltumnīcefekta gāzu emisijas atļaujas saņemšanai iekļaujamo informāciju, kā arī kārtību, kādā pieprasāma un izsniedzama siltumnīcefekta gāzu emisijas atļauja;
 2) nosacījumus un kārtību, kādā atsevišķas iekārtas uz laiku var atbrīvot no prasības saņemt siltumnīcefekta gāzu emisijas atļauju.

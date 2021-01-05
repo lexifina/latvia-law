@@ -3,7 +3,7 @@
 (2) (Izslēgta ar 09.06.2016. likumu)
 (3) (Izslēgta ar 09.06.2016. likumu)
 (3¹) (Izslēgta ar 09.06.2016. likumu)
-(4) Četrus mēnešus pēc šā likuma 32.² panta 1.¹ daļas 4.punktā minētā perioda sākuma valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" nodrošina, ka tiek dzēstas tās emisijas kvotas, kurām beidzies derīguma termiņš un kuras nav nodotas vai dzēstas atbilstoši šā likuma nosacījumiem. Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" nodrošina, ka emisijas reģistrā atvērtajos personu kontos dzēstās emisijas kvotas tiek aizstātas ar konkrētajā periodā derīgām emisijas kvotām.
+(4) (Izslēgta ar 10.12.2020. likumu)
 (5) Emisijas kvotas īpašnieks var būt jebkura fiziskā vai juridiskā persona (turpmāk arī - persona). Persona, kurai pieder emisijas kvota, drīkst bez ierobežojumiem pārskaitīt to citai personai.
 (6) Pēc emisijas kvotu īpašnieka pieprasījuma valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" emisijas reģistrā atceļ attiecīgo emisijas kvotu daudzumu.
 (7) Šā panta pirmās daļas nosacījumu izpildei Latvijā ir derīgas arī emisijas kvotas, kuras izdevusi Eiropas Savienības dalībvalsts kompetentā institūcija vai citas valsts kompetentā institūcija, ja attiecīgās valsts izsniegtās emisijas kvotas ir atzinusi Eiropas Komisija.

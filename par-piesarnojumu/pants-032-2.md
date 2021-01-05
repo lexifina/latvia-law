@@ -5,7 +5,9 @@
 2) otrais periods - no 2008.gada 1.janvāra līdz 2012.gada 31.decembrim;
 3) trešais periods - no 2013.gada 1.janvāra līdz 2020.gada 31.decembrim;
 4) turpmākie periodi - katri nākamie 10 kalendārie gadi, sākot ar 2021.gada 1.janvāri.
-(2) Emisijas kvota derīga tā perioda laikā, uz kuru tā izsniegta.
+(2) Emisijas kvotas derīgums ir atkarīgs no perioda, kurā tā izsniegta:
+1) šā panta 1.¹ daļas 3. punktā noteiktajā periodā izsniegtās kvotas ir beztermiņa;
+2) šā panta 1.¹ daļas 4. punktā noteiktajā periodā izsniegtās kvotas ir beztermiņa, un tām tiek norādīts, kurā Eiropas Savienības emisijas kvotu tirdzniecības sistēmas 10 gadu periodā tās tikušas izsniegtas. Šīs emisijas kvotas ir derīgas emisijas kvotu nodošanai par to emisiju apjomu, kas radīts, sākot ar minētā perioda pirmo gadu.
 (3) Līdz 2012.gada 1.janvārim operators saņem emisijas kvotas bez maksas. Sākot ar 2012.gada 1.janvāri, gaisa kuģu operatoriem un, sākot ar 2013.gada 1.janvāri, operatoriem emisijas kvotas, izņemot bez maksas piešķirtās emisijas kvotas, izsola. Gaisa kuģu operatoriem tiek izsolīti 15 procenti emisijas kvotu no tā apjoma, kas piešķirams Eiropas Savienības gaisa kuģu operatoriem, ņemot vērā nosacījumus, kuri regulē Eiropas Savienības emisijas kvotu tirdzniecības sistēmas emisijas kvotu izsolīšanas jomu.
 (3¹) Finanšu līdzekļus, kas iegūti, izsolot šā panta trešajā daļā minētās emisijas kvotas (turpmāk - izsoļu ieņēmumi), ieskaita Valsts kasē atvērtajā valsts pamatbudžeta ieņēmumu kontā atbilstoši valsts budžeta ieņēmumu klasifikācijai.
 (3²) Valsts pamatbudžetā kārtējam gadam un ilgtermiņa saistībās turpmākajiem gadiem finansējumu šā panta 4.⁴ daļā minētajiem mērķiem paredz kā dotāciju no vispārējiem ieņēmumiem atsevišķā Vides aizsardzības un reģionālās attīstības ministrijas budžeta programmā (apakšprogrammā) atbilstoši iepriekšējos gados iegūto un neizlietoto izsoļu ieņēmumu apmēram.
