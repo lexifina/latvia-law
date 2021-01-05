@@ -1,0 +1,3 @@
+14. pants. Jaunsargu instruktoru palīgi
+(1) Jaunsargs, kurš ir vismaz 16 gadus vecs un, apgūstot jaunsargu interešu izglītības programmu, ir sasniedzis Jaunsardzes centra direktora noteikto sagatavotības līmeni, jaunsargu instruktora vadībā un uzraudzībā kā jaunsargu instruktora palīgs var sniegt atbalstu interešu izglītības programmas īstenošanā Jaunsardzē vai valsts aizsardzības mācības īstenošanā.
+(2) Ja jaunsargs darbojas kā jaunsargu instruktoru palīgs, viņš Jaunsardzē var darboties līdz vidējās izglītības iegūšanai vai līdz brīdim, kad ir sasniedzis 21 gada vecumu, - atkarībā no tā, kurš nosacījums iestājas pirmais.

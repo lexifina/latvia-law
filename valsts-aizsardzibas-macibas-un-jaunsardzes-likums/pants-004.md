@@ -1,0 +1,3 @@
+4. pants. Valsts aizsardzības mācības priekšmeta apguve
+(1) Valsts aizsardzības mācības priekšmeta apguve vidējās izglītības programmās ir obligāta. Valsts aizsardzības mācības priekšmetu vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības iestādēs apgūst divu secīgu mācību gadu laikā. Neklātienes un tālmācības izglītības ieguves formā tiek īstenota daļēja valsts aizsardzības mācības priekšmeta apguve.
+(2) Izglītojamiem, kuri savas reliģiskās vai filozofiskās pārliecības vai citu objektīvu apstākļu dēļ nevar apgūt kādu valsts aizsardzības mācības priekšmeta daļu, jaunsargu instruktors mācību saturu un mācību procesu pielāgo individuāli, nodrošinot citu valsts aizsardzības mācības priekšmeta tēmu apguvi.

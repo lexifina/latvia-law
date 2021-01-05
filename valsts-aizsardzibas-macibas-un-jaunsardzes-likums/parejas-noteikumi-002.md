@@ -1,0 +1,1 @@
+2. Šā likuma 4. panta pirmā daļa stājas spēkā 2024. gada 1. septembrī. Līdz 2024. gada 31. augustam valsts aizsardzības mācību vidējās izglītības programmā īsteno kā specializēto kursu veselības, drošības un fiziskās aktivitātes mācību jomā.
