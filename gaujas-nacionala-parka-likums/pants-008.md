@@ -1,11 +1,15 @@
 8.pants
 (1) Dabas lieguma zona ir izveidota, lai saglabātu Gaujas senielejai un Gaujas pieteku ielejām raksturīgo dabisko ainavu ar mazpārveidotas dabas biotopu un cilvēku darbības ietekmētu biotopu mozaīku, kā arī saglabātu šajā teritorijā koncentrētos valsts un vietējās nozīmes ģeoloģiskos un ģeomorfoloģiskos dabas pieminekļus un citus dabas pieminekļus.
-(2) Meža resursu saimnieciskā izmantošana dabas lieguma zonā notiek saskaņā ar meža apsaimniekošanas plānu. Meža apsaimniekošanas plāna saturu, izstrādes un apstiprināšanas kārtību nosaka parka individuālajos aizsardzības un izmantošanas noteikumos. Meža apsaimniekošanas plānu apstiprina parka direktors.
+(2) Mežsaimnieciskā darbība dabas lieguma zonā notiek saskaņā ar meža apsaimniekošanas plānu. Šā plāna saturu, izstrādes un apstiprināšanas kārtību nosaka parka individuālajos aizsardzības un izmantošanas noteikumos. Meža apsaimniekošanas plānu apstiprina pārvalde.
+(2¹) Dabas lieguma zonā bez meža apsaimniekošanas plāna atļauta:
+1) tādu bīstamo koku ciršana, kuri apdraud cilvēku dzīvību un veselību, tuvumā esošās ēkas un infrastruktūras objektus (nocirstos kokus pēc iespējas atstājot mežaudzē);
+2) koku ciršana meža ugunsdrošības pasākumu veikšanai un avāriju, stihisku nelaimju vai katastrofu seku likvidēšanai;
+3) kaitēkļu bojāto koku ciršana sanitārajā cirtē (izņemot īpaši aizsargājamo sugu dzīvotnēs un īpaši aizsargājamos biotopos), ja notikusi kaitēkļu masveida savairošanās, pēc Valsts meža dienesta sanitārā atzinuma un pārvaldes pozitīva atzinuma saņemšanas. Pārvalde atzinumu sniedz 10 darbdienu laikā pēc Valsts meža dienesta pieprasījuma saņemšanas;
+4) koku ciršana citā cirtē sugu un biotopu aizsardzībai un saglabāšanai, kultūras pieminekļu saglabāšanai, mākslīgi izveidoto mežaudžu ilglaicīgai rekonstrukcijai, ainavas kvalitātes uzlabošanai, skatu punktu ierīkošanai un uzturēšanai pēc pārvaldes pozitīva atzinuma saņemšanas;
+5) meža nekoksnes vērtību ieguve;
+6) meža atjaunošana un jaunaudzes kopšana. Mežu sējot vai stādot atjauno ar koku sugām, kas noteiktas parka individuālajos aizsardzības un izmantošanas noteikumos.
 (3) Dabas lieguma zonā aizliegts:
-1) iegūt koksni valsts un pašvaldību īpašumā esošajos mežos, izņemot:
-a) tādu bīstamo koku ciršanu un novākšanu, kuri apdraud cilvēku dzīvību un veselību, tuvumā esošās ēkas un infrastruktūras objektus,
-b) koku ciršanu meža ugunsdrošības pasākumu veikšanai un avāriju, stihisku nelaimju vai katastrofu seku likvidēšanai,
-c) koku ciršanu citā cirtē sugu un biotopu aizsardzībai un saglabāšanai, kultūras pieminekļu saglabāšanai, mākslīgi izveidoto mežaudžu ilglaicīgai rekonstrukcijai, ainavas kvalitātes uzlabošanai, skatu punktu ierīkošanai un uzturēšanai;
+1) veikt mežsaimniecisko darbību valsts un pašvaldību īpašumā esošajos mežos, izņemot šā panta 2.¹ daļā atļautās darbības;
 2) sagatavot kokmateriālus kailcirtēs;
 3) nosusināt purvus;
 4) bojāt, iznīcināt, uzart vai kultivēt palieņu, terašu un meža pļavas;
