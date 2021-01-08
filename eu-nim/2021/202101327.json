@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 7. janvāra likums \"Grozījumi Pievienotās vērtības nodokļa likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "5A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-07",
+  "entry_into_force": "2021-01-08",
+  "notification_date": "2021-02-17",
+  "commission_reference": "MNE(2021)01327",
+  "nim_celex": "72020L2020LVA_202101327",
+  "nim_id": "202101327",
+  "transposes_celex": [
+    "32020L2020"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/08966175-1aa8-42f0-8e96-4130ed9c0ccf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
