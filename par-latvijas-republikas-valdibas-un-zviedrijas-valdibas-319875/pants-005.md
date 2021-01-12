@@ -1,0 +1,1 @@
+5. pants. Līdz ar Vienošanās spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās Padomes 1992. gada 28. oktobra lēmums " Par līguma starp Latvijas Republikas valdību un Zviedrijas Karalistes valdību par ieguldījumu veicināšanu un savstarpējo aizsardzību ratificēšanu " (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48. nr.).

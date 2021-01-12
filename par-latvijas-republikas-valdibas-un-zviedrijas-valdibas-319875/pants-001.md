@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdības un Zviedrijas valdības vienošanās par Līguma starp Latvijas Republikas valdību un Zviedrijas Karalistes valdību par ieguldījumu veicināšanu un savstarpējo aizsardzību izbeigšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
