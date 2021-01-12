@@ -1,4 +1,4 @@
-23. pants. (1) Reģistrētie kandidātu saraksti publicējami Centrālās vēlēšanu komisijas mājaslapā internetā un oficiālajā izdevumā "Latvijas Vēstnesis", kā arī izliekami visos attiecīgās pašvaldības administratīvajā teritorijā izveidotajos vēlēšanu iecirkņos.
+23. pants. (1) Reģistrētie kandidātu saraksti publicējami Centrālās vēlēšanu komisijas tīmekļvietnē un oficiālajā izdevumā "Latvijas Vēstnesis", kā arī izliekami visos attiecīgās pašvaldības administratīvajā teritorijā izveidotajos vēlēšanu iecirkņos.
 (2) (Izslēgta ar 11.06.2020. likumu)
 (3) Kandidātu saraksti jāizliek ne vēlāk kā piecas dienas pirms vēlēšanu dienas, un tajos jānorāda katra kandidāta vārds, uzvārds, dzimšanas gads, reģistrētā dzīvesvieta Latvijā (republikas pilsēta vai novads), izglītība, pamatdarba vieta un ieņemamais amats, citas valsts pilsonība (pavalstniecība), ja tāda ir.
 (4) Vēlētājiem redzamā vietā izliekamas priekšvēlēšanu programmas. Katrā vēlēšanu iecirknī jābūt pieejamām šajā likumā paredzētajām ziņām par ikvienu kandidātu, izņemot viņa personas kodu vai vēlētāja kodu.
