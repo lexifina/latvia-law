@@ -1,0 +1,1 @@
+4.² pants. Saskaņā ar Konvencijas 40. pantu attiecībā uz gaisa kuģa priekšmetiem atbilstoši Konvencijai ir attiecīgi regulējamas un reģistrējamas tādas personas tiesības, kurai par labu attiecībā uz konkrēto gaisa kuģi saskaņā ar tiesas vai iestādes lēmumu ir ierakstīta aizlieguma vai ķīlas atzīme gaisa kuģu reģistrā.

@@ -1,0 +1,1 @@
+6. pants. Šā likuma 4.¹, 4.² un 4.³ pantā minētās deklarācijas stājas spēkā Konvencijas 57. pantā un Protokola XXXIII pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".
