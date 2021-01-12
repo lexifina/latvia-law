@@ -1,0 +1,1 @@
+176. Grozījumi šā likuma 12. pantā par tā papildināšanu ar trīspadsmito, četrpadsmito, piecpadsmito, sešpadsmito, septiņpadsmito, astoņpadsmito un deviņpadsmito daļu, kā arī grozījums šā likuma 30. pantā par tā papildināšanu ar 10. punktu ir piemērojami, sākot no 2021. gada 1. janvāra.

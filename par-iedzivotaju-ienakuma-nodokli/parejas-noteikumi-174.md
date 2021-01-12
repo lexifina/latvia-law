@@ -1,0 +1,1 @@
+174. Šā likuma 12. pantā noteikto regulējumu (par ārvalsts pensijas neapliekamā apmēra piemērošanu remigrējušu diasporas locekļu no ārvalstīm saņemtajam pensijas ienākumam) piemēro arī pirms tā spēkā stāšanās Latvijā reģistrētu nodokļu rezidentu, kuri ir remigrējuši diasporas locekļi, no ārvalstīm saņemtajam pensijas ienākumam (tai skaitā Repatriācijas likuma izpratnē).

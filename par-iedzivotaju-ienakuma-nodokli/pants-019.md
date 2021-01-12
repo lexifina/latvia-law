@@ -28,7 +28,8 @@
 5) ārvalstīs gūtā ienākuma apmēru, veidu un samaksāto nodokli;
 6) ka persona, kas ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvusi vairāk nekā 75 procentus no saviem kopējiem ienākumiem un ka tā vai tās laulātais nav izmantojuši šajā likumā noteiktajiem nodokļa atvieglojumiem un attaisnotajiem izdevumiem analoģiskus atskaitījumus savā rezidences valstī;
 7) ienākumam pielīdzinātā aizdevuma atmaksu aizdevējam, kā arī ar aizdevumu saistīto procentu maksājumu samaksu;
-8) ka ārvalstī ir samaksāts uzņēmumu ienākuma nodoklis vai ārvalstī no dividendēm, dividendēm pielīdzināma ienākuma vai nosacītajām dividendēm ir ieturēts iedzīvotāju ienākuma nodoklis.
+8) ka ārvalstī ir samaksāts uzņēmumu ienākuma nodoklis vai ārvalstī no dividendēm, dividendēm pielīdzināma ienākuma vai nosacītajām dividendēm ir ieturēts iedzīvotāju ienākuma nodoklis;
+9) iesniegumu par maksātāja tiesībām uz ārvalsts pensijas neapliekamā apmēra piemērošanu taksācijas gadā, kurā uzrādīts ārvalsts pensijas apmērs.
 6.¹ (Izslēgta ar 13.05.2010. likumu)
 7. (Izslēgta ar 01.12.2009. likumu)
 8. Zemnieku saimniecība, ja tā bez lauksaimnieciskās ražošanas veic arī citu saimniecisko darbību, var aprēķināt kopējos ienākumus (sedzot lauksaimnieciskos zaudējumus no citiem ienākumiem). Šajā gadījumā nepiemēro 9.panta pirmās daļas 1.punktu.
