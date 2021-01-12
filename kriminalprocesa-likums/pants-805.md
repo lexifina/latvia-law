@@ -6,4 +6,5 @@
 1) alternatīvajai sankcijai pēc iespējas jāatbilst nolēmumā par alternatīvo sankciju noteiktajam;
 2) alternatīvās sankcijas ilgums un tiesību ierobežojums nedrīkst pārsniegt Krimināllikumā noteikto maksimālo sodu vai probācijas pasākumu par tādu pašu nodarījumu, kā arī nedrīkst būt bargāks vai smagāks par nolēmumā noteikto alternatīvo sankciju;
 3) Krimināllikumā noteiktajai soda minimālajai robežai nav nozīmes.
+(4¹) Ja Eiropas Savienības dalībvalstī piemērotā sabiedriskā darba ilgums noteikts mēnešos, tiesa to nosaka stundās, par vienu mēnesi rēķinot 20 sabiedriskā darba stundas.
 (5) Tiesa ar Tieslietu ministrijas starpniecību informē attiecīgo Eiropas Savienības dalībvalsti par šā panta ceturtajā daļā pieņemto lēmumu.

@@ -1,0 +1,1 @@
+76. Grozījumi šā likuma 421. panta otrajā daļā, 634. panta ceturtās daļas 3. un 6. punktā, 644.¹ un 646. pantā attiecībā uz probācijas uzraudzību kā pamatsodu un termina "piespiedu darbs" aizstāšanu ar terminu "sabiedriskais darbs" stājas spēkā 2022. gada 1. janvārī.
