@@ -7,7 +7,8 @@ b) dati, kas norādīti transportlīdzekļa īpašnieka īpašuma tiesības apli
 c) dati, kas norādīti tranzīta numura kartē, ja transportlīdzeklim izsniegta tranzīta numura karte,
 d) dati, kas norādīti izmēģinājuma numura kartē, ja transportlīdzeklim izsniegta izmēģinājuma numura karte,
 e) dati, kas norādīti transportlīdzekļu tirdzniecībai paredzētā reģistrā, ja tirdzniecības uzņēmumam (komersantam) izsniegtas tirdzniecības numura zīmes,
-f) dati, kas norādīti transportlīdzeklim izsniegtā licences kartītē pasažieru komercpārvadājumiem ar vieglo transportlīdzekli.
+f) dati, kas norādīti transportlīdzeklim izsniegtā licences kartītē pasažieru komercpārvadājumiem ar vieglo automobili;
+g) dati, kas norādīti par transportlīdzekli, kuram izsniegtas taksometra numura zīmes.
 (2) Apdrošināšanas līgumā norāda:
 1) šā panta pirmās daļas 2.punkta "a" apakšpunktā minētās transportlīdzekļa reģistrācijas apliecības numuru vai šā panta pirmās daļas 2.punkta "c", "d" vai "e" apakšpunktā minēto dokumentu un tā numuru;
 2) šā panta pirmās daļas 2.punkta "b" apakšpunktā minētā dokumenta veidu, izsniegšanas datumu un numuru, ja šāds numurs ir.

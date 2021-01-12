@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2021. gada 1. septembrim iesniedz Saeimai izvērtējumu par šā likuma 14. pantā noteikto tiesisko regulējumu attiecībā uz apdrošināšanas prēmijas maksājuma samazinājumu un iespējamo šā maksājuma samazinājuma pakāpenisku atcelšanu un turpmāko risinājumu.

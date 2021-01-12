@@ -1,0 +1,1 @@
+21. Šā likuma 3.¹, 41.¹ un 41.² pants stājas spēkā 2021. gada 1. februārī, bet grozījumi šā likuma 9. panta pirmajā daļā (par ievaddaļas izteikšanu jaunā redakcijā un pirmās daļas 3. punkta izslēgšanu) un 9. panta 1.¹ daļa - 2021. gada 1. jūlijā.
