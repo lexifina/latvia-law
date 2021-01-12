@@ -1,0 +1,1 @@
+3. pants. Vienošanās stājas spēkā tās 13. panta pirmajā daļā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar šo likumu izsludināma Vienošanās latviešu un angļu valodā.

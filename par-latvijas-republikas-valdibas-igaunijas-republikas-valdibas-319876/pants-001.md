@@ -1,0 +1,1 @@
+1. pants. 2019. gada 24. oktobrī parakstītā Latvijas Republikas valdības, Igaunijas Republikas valdības un Lietuvas Republikas valdības vienošanās par Baltijas gaisa telpas novērošanas tīkla un kontroles sistēmas konfigurāciju (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
