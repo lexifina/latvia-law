@@ -6,6 +6,7 @@
 4) transportlīdzeklim izsniegta tranzīta numura karte. Šādā gadījumā standartlīgumu slēdz uz tranzīta numura kartē norādīto derīguma termiņu;
 5) transportlīdzeklim izsniegta izmēģinājuma numura karte. Šādā gadījumā standartlīgumu slēdz uz izmēģinājuma numura kartē norādīto derīguma termiņu, nepārsniedzot 12 mēnešus;
 6) tirdzniecības uzņēmumam (komersantam) izsniegtas tirdzniecības numura zīmes. Šādā gadījumā standartlīgumu slēdz uz tirdzniecības numura zīmes derīguma termiņu, nepārsniedzot 12 mēnešus.
+(1¹) (Daļa stājas spēkā 01.07.2021. un iekļauta likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 21. punktu)
 (2) Robežapdrošināšanas līgumu slēdz uz laiku no viena mēneša līdz 12 mēnešiem.
 (3) Starptautisko apdrošināšanas līgumu (Zaļo karti) slēdz uz laiku no 15 dienām līdz 12 mēnešiem.
 (4) Apdrošināšanas līgums stājas spēkā tā noslēgšanas brīdī vai apdrošināšanas līgumā noteiktajā laikā, bet ne vēlāk kā triju mēnešu laikā pēc tā noslēgšanas. Ja apdrošināšanas līgums stājas spēkā līdz pulksten 12.00, tad, aprēķinot šā līguma termiņa beigas, tā spēkā stāšanās diena ieskaitāma, bet, ja apdrošināšanas līgums noslēgts pulksten 12.00 vai vēlāk, - nav ieskaitāma.
