@@ -7,6 +7,7 @@
 1) nodalījuma kārtas numuru un datumu;
 2) ieraksta kārtas numuru, izmantojot vienlaidus ierakstu numerāciju no pirmā dalībnieku reģistra nodalījuma;
 3) daļu kārtas numurus;
+3¹) daļu kategoriju, ja sabiedrībai ir vairākas daļu kategorijas;
 4) ziņas par dalībniekiem:
 a) fiziskajai personai - vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un adresi, kurā tā sasniedzama,
 b) juridiskajai personai un personālsabiedrībai - nosaukumu, reģistrācijas numuru un juridisko adresi;
@@ -28,3 +29,4 @@ b) juridiskajai personai un personālsabiedrībai - nosaukumu, reģistrācijas n
 (10) Ja dalībnieks daļu atsavina, ierakstu dalībnieku reģistra nodalījumā ar savu parakstu apliecina arī daļas atsavinātājs un ieguvējs. Daļas atsavinātāja un ieguvēja paraksti apliecināmi notariāli.
 (11) Ar dalībnieku reģistru ir tiesīgi iepazīties dalībnieki, valdes un padomes locekļi, revidents, kā arī kompetentas publiskas iestādes.
 (12) Dalībniekam ir tiesības saņemt valdes priekšsēdētāja vai valdes pilnvarota valdes locekļa apliecinātu sabiedrības dalībnieku reģistra izrakstu par sev piederošajām daļām sabiedrībā vai pēdējā reģistra nodalījuma kopiju.
+(13) Ja sabiedrība ir piešķīrusi personai tiesības iegūt sabiedrības daļas, valde nodrošina šādu piešķirto tiesību un to turētāju uzskaiti, norādot arī iegūstamo daļu skaitu un iegūšanas nosacījumus. Ar šo informāciju ir tiesīgi iepazīties dalībnieki, personas, kurām ir piešķirtas tiesības iegūt sabiedrības daļas, valdes un padomes locekļi, kompetentas publiskas iestādes, kā arī citas personas, kurām ir tiesiskā interese.
