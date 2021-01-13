@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 7. janvāra noteikumi Nr. 17 \"Noteikumi par gaisa piesārņojuma ierobežošanu no sadedzināšanas iekārtām\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2021/8.15",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-12",
+  "entry_into_force": "2021-01-13",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)01159",
+  "nim_celex": "72015L2193LVA_202101159",
+  "nim_id": "202101159",
+  "transposes_celex": [
+    "32015L2193"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c8f0f8b3-a76e-4f31-8cb2-02cf11ce826a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
