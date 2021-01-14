@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada ziemas sesija",
+ "sede": 7,
+ "datums": "2021-01-14",
+ "ieraksts": {
+  "dkp_id": "bf0f62ce-fea6-41f4-a9e5-9c45a3f4ceca",
+  "lastmodtime": "\"AAAAAAHX0x0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Ilze Grīnhofa#Edgars Korčagins#Rolands Irklis",
+  "CANDIDATERESULT": "17:78#25:70#53:42",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.01.2021 11:41:55",
+  "VOTEMOTIVE": "Par valsts kontroliera iecelšanu (537/Lm13)",
+  "VOTING_ID": "47286968-8c79-4b26-9f50-6180a8607345",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada ziemas sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/64d9a5e2-444f-4ee3-b6e3-ea98528e2668/download/13.saeimas-2021.gada-ziemas-sesija-7-vote.xml",
+  "sha256": "8df5b5522097b75ed931f5014ca733191269c57685579efbb49577e54075a93e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
