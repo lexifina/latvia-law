@@ -1,1 +1,1 @@
-9. pants. Vēlēšanu komisijas locekļu kandidātu pieteikšanas termiņu nosaka attiecīgā dome. Republikas pilsētas dome attiecīgu paziņojumu publicē oficiālajā izdevumā "Latvijas Vēstnesis", bet novada dome to izliek redzamā vietā pie domes un pilsētas vai pagasta pārvaldes ēkām.
+9. pants. Vēlēšanu komisijas locekļu kandidātu pieteikšanas termiņu nosaka attiecīgā dome. Valstspilsētas pašvaldības dome attiecīgu paziņojumu publicē oficiālajā izdevumā "Latvijas Vēstnesis", bet novada dome to izliek redzamā vietā pie domes un pilsētas vai pagasta pārvaldes ēkām.
