@@ -1,1 +1,0 @@
-Novada vēlēšanu komisijā, ko izveido 2009.gada 6.jūnijā paredzētajām domes vēlēšanām, var ievēlēt arī personas, kuras ir pēc 2005.gada pašvaldību vēlēšanām izveidotās pilsētas, rajona, novada vai pagasta vēlēšanu komisijas locekļi.
