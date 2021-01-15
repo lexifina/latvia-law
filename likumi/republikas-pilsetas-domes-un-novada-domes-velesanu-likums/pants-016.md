@@ -1,4 +1,4 @@
-16.pants. (1) Novada domes deputātu kandidātu saraksts, ja to iesniedz vēlētāju apvienība, jāparaksta ne mazāk kā 20 vēlētājiem, kuri vēlēšanu izsludināšanas dienā ir reģistrēti dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā.
-(2) Kandidātu sarakstus drīkst parakstīt tikai tie vēlētāji, kuri nav ietverti kādā no attiecīgās domes vēlēšanām iesniegtajiem kandidātu sarakstiem. Ja kāds vēlētājs ir pārkāpis šo noteikumu, viņa kandidatūra attiecīgajā kandidātu sarakstā svītrojama.
-(3) Parakstot kandidātu sarakstu, tajā norādāms vēlētāja vārds, uzvārds, personas kods un reģistrētā dzīvesvieta. Katrs vēlētājs drīkst parakstīt tikai vienu kandidātu sarakstu. Ja vēlētājs parakstījis vairākus sarakstus, viņa paraksts svītrojams visos sarakstos.
+16.pants. (1) (Izslēgta ar 17.06.2020. likumu)
+(2) (Izslēgta ar 17.06.2020. likumu)
+(3) (Izslēgta ar 17.06.2020. likumu)
 (4) Politiskās partijas vai politisko partiju apvienības iesniedzamo sarakstu paraksta attiecīgās politiskās partijas vai politisko partiju apvienības lēmējinstitūcijas pilnvarota persona. Ja kandidātu sarakstu iesniedz divas vai vairākas politiskās partijas, to paraksta visu attiecīgo politisko partiju lēmējinstitūciju pilnvarotas personas.

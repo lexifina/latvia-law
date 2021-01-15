@@ -1,10 +1,10 @@
-22. pants. (1) Kandidātu saraksti, kas iesniegti, ievērojot šā likuma prasības, tiek reģistrēti attiecīgās republikas pilsētas vai novada vēlēšanu komisijā.
+22. pants. (1) Kandidātu saraksti, kas iesniegti, ievērojot šā likuma prasības, tiek reģistrēti attiecīgās pašvaldības vēlēšanu komisijā.
 (2) Reģistrētie kandidātu saraksti nav atsaucami, un grozījumus tajos var izdarīt tikai komisija, kas šo sarakstu reģistrējusi, kādā no šādiem veidiem:
 1) svītrojot pieteikto kandidātu, ja:
 a) kandidāts neatbilst šā likuma 8.panta pirmās un otrās daļas prasībām,
 b) uz kandidātu attiecas šā likuma 9.panta ierobežojumi,
 c) viena un tā pati persona pieteikta dažādu nosaukumu kandidātu sarakstos vai kandidātu sarakstā arī citas pašvaldības domes vēlēšanām (15. pants),
-d) kandidāts kā vēlētājs parakstījis kādu kandidātu sarakstu (16.pants),
+d) (izslēgts ar 17.06.2020. likumu),
 e) kandidāts miris,
 f) kandidāts ir Eiropas Parlamenta deputāts un nav iesniedzis vēlēšanu komisijai dokumentus, kas apstiprina faktu par atkāpšanos no Eiropas Parlamenta deputāta mandāta (mandāta nolikšanu);
 2) izdarot tehniska rakstura labojumus.

@@ -1,4 +1,4 @@
-41. pants. (1) Republikas pilsētas un novada vēlēšanu komisijas vēlēšanu rezultātus aprēķina pēc protokoliem, ko tās saņēmušas no vēlēšanu iecirkņu komisijām.
+41. pants. (1) Pašvaldības vēlēšanu komisijas vēlēšanu rezultātus aprēķina pēc protokoliem, ko tās saņēmušas no vēlēšanu iecirkņu komisijām.
 (2) Deputātu vietu sadalē pašvaldībā nepiedalās tie kandidātu saraksti, kuri šīs pašvaldības vēlēšanās saņēmuši mazāk nekā piecus procentus no nodoto balsu kopskaita. Par nodoto balsu kopskaitu (vēlēšanās piedalījušos vēlētāju kopskaitu) uzskatāms derīgo vēlēšanu aplokšņu skaits.
 (3) Lai sadalītu domes deputātu vietas starp kandidātu sarakstiem, piemēro šādu kārtību:
 1) nosaka par katru kandidātu sarakstu nodoto derīgo vēlēšanu zīmju skaitu;

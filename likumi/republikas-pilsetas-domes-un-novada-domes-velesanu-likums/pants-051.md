@@ -1,3 +1,3 @@
-51. pants. (1) Vēlētāju apvienību vēlēšanu kampaņu aizliegts finansēt no valsts budžeta un pašvaldību budžetiem, kā arī no valsts un pašvaldību kapitālsabiedrību līdzekļiem.
-(2) Vēlētāju apvienību vēlēšanu kampaņu aizliegts finansēt no anonīmiem ziedojumiem.
-(3) Politiskajām partijām, to apvienībām un vēlētāju apvienībām aizliegts organizēt, veidot un nodibināt tādas līgumiskās attiecības, kas deputātam pēc ievēlēšanas nosaka vai var noteikt finansiālas vai citādas mantiskas saistības pret attiecīgo līgumslēdzēju vai trešo personu.
+51. pants. (1) (Izslēgta ar 17.06.2020. likumu)
+(2) (Izslēgta ar 17.06.2020. likumu)
+(3) Politiskajām partijām, to apvienībām aizliegts organizēt, veidot un nodibināt tādas līgumiskās attiecības, kas deputātam pēc ievēlēšanas nosaka vai var noteikt finansiālas vai citādas mantiskas saistības pret attiecīgo līgumslēdzēju vai trešo personu.

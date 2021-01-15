@@ -5,7 +5,7 @@
 a) kandidāta vārds, uzvārds, dzimšanas gads, datums un mēnesis, dzimums, ja vēlas, - arī tautība,
 b) personas kods,
 c) ārvalsts pilsonība (pavalstniecība), ja tāda ir,
-d) reģistrētā dzīvesvieta Latvijā (republikas pilsēta vai novads),
+d) reģistrētā dzīvesvieta Latvijā (valstspilsētas pašvaldība vai novads),
 e) darbavietas un ieņemamie amati (arī amati politiskajās partijās, reliģiskajās organizācijās, arodbiedrībās, biedrībās un nodibinājumos) vai - ja darbavietas nav - nodarbošanās, statuss,
 f) kādas izglītības iestādes beidzis (kurā gadā, kādā specialitātē vai programmā),
 g) pašnovērtējums par latviešu valodas prasmi,

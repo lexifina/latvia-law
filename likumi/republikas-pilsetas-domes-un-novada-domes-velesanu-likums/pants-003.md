@@ -1,1 +1,1 @@
-3. pants. Katras republikas pilsētas un novada pašvaldības administratīvā teritorija veido atsevišķu vēlēšanu apgabalu.
+3. pants. Katras pašvaldības administratīvā teritorija veido atsevišķu vēlēšanu apgabalu.

@@ -6,5 +6,5 @@
 5) kuras pēc 1991.gada 13.janvāra darbojušās PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās;
 6) kuras ir vai ir bijušas PSRS, Latvijas PSR vai ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieki;
 7) (izslēgts ar 09.05.2002. likumu);
-8) kuras ir sodītas ar aizliegumu kandidēt Saeimas, Eiropas Parlamenta, republikas pilsētas domes un novada domes vēlēšanās, izņemot personas, kuras ir reabilitētas vai kurām sodāmība dzēsta vai noņemta.
+8) kuras ir sodītas ar aizliegumu kandidēt Saeimas, Eiropas Parlamenta, pašvaldības domes vēlēšanās, izņemot personas, kuras ir reabilitētas vai kurām sodāmība dzēsta vai noņemta.
 (2) Domes vēlēšanām Latvijas Republikā nevar pieteikt par kandidātu un domē nevar ievēlēt Eiropas Savienības pilsoni, kuram tiesības kandidēt un tikt ievēlētam ir liegtas ar tiesas spriedumu Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir.
