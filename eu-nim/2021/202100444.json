@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 14. janvāra likums \"Grozījumi Ķīmisko vielu likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "12A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-18",
+  "entry_into_force": "2021-01-19",
+  "notification_date": "2021-01-20",
+  "commission_reference": "MNE(2021)00444",
+  "nim_celex": "72018L0851LVA_202100444",
+  "nim_id": "202100444",
+  "transposes_celex": [
+    "32018L0851"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/abf34006-decb-4eb3-8920-72d0d7f1f7d9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
