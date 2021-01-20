@@ -1,5 +1,5 @@
 785.pants. Nolēmuma par mantiska rakstura piedziņu izpildīšanas pamats
-(1) Pamats Eiropas Savienības dalībvalstī pieņemta nolēmuma par naudas sodu (juridiskajām personām - naudas piedziņu), šajā pašā nolēmumā noteikto kompensāciju cietušajam, procesuālo izdevumu atlīdzību un maksājumu cietušo atbalsta fondam vai organizācijai (turpmāk - nolēmums par mantiska rakstura piedziņu) izpildīšanai ir:
+(1) Pamats, lai izpildītu Eiropas Savienības dalībvalstī pieņemtu nolēmumu par naudas sodu (juridiskajām personām - naudas piedziņu), kā arī nolēmumu, ar kuru noteikta kompensācija cietušajam, procesuālo izdevumu atlīdzība un maksājums cietušo atbalsta fondam vai organizācijai (turpmāk - nolēmums par mantiska rakstura piedziņu), ir:
 1) Eiropas Savienības dalībvalsts kompetentās iestādes nolēmums par mantiska rakstura piedziņu vai apliecināta tā kopija un īpašas formas apliecinājums;
 2) fakts, ka personai, uz kuru attiecas mantiska rakstura piedziņa, Latvijā ir dzīvesvieta (juridiskajai personai - reģistrēta juridiskā adrese) vai pieder īpašums, vai ir citi ienākumi;
 3) Latvijas tiesas nolēmums par Latvijā izpildāmās mantiska rakstura piedziņas noteikšanu;

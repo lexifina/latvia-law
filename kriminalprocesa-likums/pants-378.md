@@ -6,6 +6,7 @@
 4) personai, kura saucama pie kriminālatbildības, ir kriminālprocesuālā imunitāte un nav saņemta kompetentas institūcijas atļauja uzsākt kriminālvajāšanu;
 5) ir citi šajā likumā noteikti gadījumi.
 (1¹) Ja kriminālprocesa pareizai izlemšanai būtisks pierādījums ir tiesas nolēmums kādā citā nepabeigtā procesā, procesa virzītājs kriminālprocesu var apturēt līdz laikam, kad spēkā stājas nolēmums tajā procesā.
+(1²) Ja kriminālprocesā nepieciešams saņemt Eiropas Prokuratūras Pastāvīgās palātas lēmumu, procesa virzītājs kriminālprocesu var apturēt līdz laikam, kad saņemts Eiropas Prokuratūras Pastāvīgās palātas lēmums.
 (2) Ja krimināllietā ar vairākiem aizdomās turētajiem vai apsūdzētajiem kriminālprocess tiek apturēts pret vienu vai vairākiem no tiem, attiecībā uz pārējiem aizdomās turētajiem un apsūdzētajiem kriminālprocesu var turpināt, vienlaikus izlemjot jautājumu par krimināllietas sadalīšanu šajā likumā noteiktajā kārtībā.
 (3) Kriminālprocesu atjauno, ja zudis kriminālprocesa apturēšanas iemesls.
 (4) Lēmumu par kriminālprocesa apturēšanu vai par tā atjaunošanu var uzrakstīt arī rezolūcijas veidā. Lēmums par kriminālprocesa apturēšanu vai lēmums par kriminālprocesa atjaunošanu nav pārsūdzams.

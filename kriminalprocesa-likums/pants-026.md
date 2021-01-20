@@ -9,6 +9,7 @@
 6) ekspertam, kas nestrādā ekspertīžu iestādē, ja procesa virzītājs uzdevis viņam veikt ekspertīzi;
 7) revidentam procesa virzītāja uzdevumā;
 8) izmeklētāja tiešajam priekšniekam;
+8¹) virsprokuroram;
 9) amatā augstākam prokuroram;
 10) izmeklēšanas tiesnesim;
 11) apsūdzības uzturētājam.

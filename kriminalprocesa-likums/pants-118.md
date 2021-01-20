@@ -5,4 +5,4 @@
 (4) Tādas personas statuss, kuras diplomātisko imunitāti apliecina ar ārvalsts izsniegtu diplomātisko pasi vai citu personu identificējošu dokumentu, noskaidrojams ar Ārlietu ministrijas starpniecību.
 (5) Diplomātiskās pārstāvniecības telpas, pārstāvniecības vadītāja rezidence, diplomātiskās pārstāvniecības arhīvi, dokumenti un oficiālā sarakste ir neaizskarami neatkarīgi no to atrašanās vietas.
 (6) Personu, kura bauda diplomātisko imunitāti, var saukt pie kriminālatbildības un tai drīkst uzlikt kriminālprocesuālos pienākumus vienīgi ar nosūtītājvalsts rakstveidā izteiktu piekrišanu.
-(7) Lūgumu atļaut ārvalsts diplomāta saukšanu pie kriminālatbildības ģenerālprokurors iesniedz Ārlietu ministrijai tālākai izlemšanai diplomātiskā ceļā.
+(7) Lūgumu atļaut ārvalsts diplomāta saukšanu pie kriminālatbildības ģenerālprokurors vai Eiropas galvenais prokurors iesniedz Ārlietu ministrijai tālākai izlemšanai diplomātiskā ceļā.

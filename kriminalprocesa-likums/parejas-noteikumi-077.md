@@ -1,0 +1,1 @@
+77. Kriminālprocesus, kuri ir uzsākti laikā no 2017. gada 20. novembra līdz Eiropas Prokuratūras darbības uzsākšanas dienai par noziedzīgiem nodarījumiem, kas saskaņā ar regulu Nr. 2017/1939 ir Eiropas Prokuratūras kompetencē, procesa virzītājs turpina šajā likumā noteiktajā kārtībā, ja vien Eiropas Prokuratūra neīsteno pārņemšanas tiesības.

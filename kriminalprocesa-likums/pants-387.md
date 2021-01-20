@@ -13,4 +13,4 @@
 (11) Konkrētu noziedzīgu nodarījumu institucionālo piekritību nosaka ģenerālprokurors.
 (12) Ja konkrēta noziedzīga nodarījuma izmeklēšana ir piekritīga vairāk nekā vienai izmeklēšanas iestādei, to izmeklē iestāde, kura pirmā uzsākusi kriminālprocesu.
 (13) Ja kāda izmeklēšanas iestāde saņem ziņu par notiekošu vai notikušu smagu vai sevišķi smagu noziegumu, kura izmeklēšana neietilpst tās kompetencē, bet pierādījumu fiksēšanai vai nozieguma izdarītāja aizturēšanai nepieciešams veikt neatliekamas izmeklēšanas darbības, tā uzsāk kriminālprocesu, informē par to attiecīgo kompetento izmeklēšanas iestādi, veic neatliekamās izmeklēšanas darbības un nodod uzsāktā kriminālprocesa materiālus pēc piekritības.
-(14) Izmeklēšanas iestāžu strīdus par noziedzīgu nodarījumu piekritību izšķir ģenerālprokurors.
+(14) Izmeklēšanas iestāžu strīdus par noziedzīgu nodarījumu piekritību, kā arī regulā Nr. 2017/1939 noteiktajos gadījumos izmeklēšanas iestāžu un Eiropas Prokuratūras strīdus par noziedzīgu nodarījumu piekritību, izšķir ģenerālprokurors.

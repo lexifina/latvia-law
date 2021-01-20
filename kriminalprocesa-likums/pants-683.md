@@ -4,3 +4,4 @@
 (3) Ierosinājumu izskata 10 dienu laikā, bet neatliekamos gadījumos - nekavējoties pēc tā saņemšanas Ģenerālprokuratūrā un par rezultātiem informē procesa virzītāju vai tiesu, kas vērsās ar ierosinājumu lūgt ārvalstij personas izdošanu. Izskatīšanas termiņu var pagarināt ģenerālprokurors, un par to tiek informēts procesa virzītājs vai tiesa, kas vērsās ar ierosinājumu lūgt ārvalstij personas izdošanu.
 (4) Ja ir pamats pieprasīt personas izdošanu, Ģenerālprokuratūra sagatavo un nosūta lūgumu ārvalstij.
 (5) Ģenerālprokuratūra var iesniegt ārvalstij personas izdošanas lūgumu arī pēc savas iniciatīvas.
+(6) Ģenerālprokuratūra, saņemot informāciju no Eiropas Savienības dalībvalsts par trešās valsts lūgumu izdot Latvijas pilsoni, lemj par iespēju uzsākt kriminālprocesu un pieņemt lēmumu par Eiropas apcietinājuma ordera izdošanu, ja ir konstatēti nosacījumi tā pieņemšanai.

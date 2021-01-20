@@ -15,11 +15,12 @@
 5) ja lūguma izpildē ir jāiegulda nesamērīgi lieli iestādes darba resursi.
 (4) Lēmumu par atļauju iepazīties ar krimināllietas materiāliem vai to daļu vai par atteikumu iepazīties ar krimināllietas materiāliem 30 dienu laikā pieņem:
 1) izmeklēšanas iestādes vadītājs vai viņa pilnvarota amatpersona - ja kriminālprocess pabeigts izmeklēšanas iestādē;
-2) virsprokurors - ja kriminālprocess pabeigts prokuratūrā;
+2) virsprokurors vai Eiropas prokurors - ja kriminālprocess pabeigts prokuratūrā;
 3) tiesnesis - ja kriminālprocess pabeigts tiesā.
 (5) Lēmumu par atļauju iepazīties ar krimināllietas materiāliem vai to daļu var uzrakstīt rezolūcijas veidā. Par atteikumu iepazīties ar krimināllietas materiāliem vai to daļu pieņem motivētu lēmumu.
 (6) Šā panta ceturtajā daļā minēto lēmumu var pārsūdzēt 10 dienu laikā. Sūdzību 30 dienu laikā rakstveidā izskata:
 1) prokuratūras, kuras prokurors veica izmeklēšanas uzraudzību, virsprokurors - ja lēmums pieņemts izmeklēšanas iestādē;
 2) amatā augstāks prokurors - ja lēmums pieņemts prokuratūrā;
 3) augstāka līmeņa tiesas tiesnesis - ja lēmums pieņemts tiesā.
+(6¹) Eiropas prokurora lēmums par atļauju iepazīties ar krimināllietas materiāliem vai to daļu vai par atteikumu iepazīties ar krimināllietas materiāliem nav pārsūdzams.
 (7) Atļaujot iepazīties ar krimināllietas materiāliem, žurnālistu rakstveidā brīdina par aizliegumu izgatavot krimināllietas materiālu kopijas vai norakstus vai pavairot tos citādā veidā, nodot trešo personu rīcībā vai citādi izplatīt no krimināllietas materiāliem izrietošu nepublicējamu informāciju, kā arī par atbildību par šā aizlieguma pārkāpšanu. Žurnālistiem var atļaut nokopēt atsevišķus krimināllietas materiālus, ja tie nesatur īpašu kategoriju personas datus, profesionālo noslēpumu, komercnoslēpumu vai jebkādu citu ar personu pamattiesību aizsardzību saistītu informāciju.
