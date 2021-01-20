@@ -9,3 +9,4 @@
 2) jāievēro ražotnes izvietojums, topogrāfiskie, ģeoloģiskie, meteoroloģiskie un hidroloģiskie apstākļi, citu tuvāko ražotņu, maģistrālo autoceļu, dzelzceļa, cauruļvadu, kā arī īpaši aizsargājamo dabas objektu un teritoriju izvietojums.
 (7) Prasības, kādas jāievēro, veicot darbības ar biocīdiem, nosaka Ministru kabinets.
 (8) Lai veiktu ar dezinfekcijas, dezinsekcijas un deratizācijas pakalpojumu sniegšanu saistītu komercdarbību, šo pakalpojumu sniedzējs Ministru kabineta noteiktajā kārtībā paziņo par darbības uzsākšanu Veselības inspekcijai.
+(9) Darbību veicējs, ja tas ir izstrādājuma piegādātājs atbilstoši regulas 1907/2006 3. panta 33. punktā minētajai definīcijai, sniedz informāciju Eiropas Ķimikāliju aģentūrai saskaņā ar regulas 1907/2006 33. panta 1. punktu.
