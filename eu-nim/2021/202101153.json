@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 22. janvāra rīkojums Nr. 45 \"Par Atkritumu apsaimniekošanas valsts plānu 2021.–2028. gadam\".",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2021/19.2",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-27",
+  "entry_into_force": "2021-01-21",
+  "notification_date": "2021-02-04",
+  "commission_reference": "MNE(2021)01153",
+  "nim_celex": "71999L0031LVA_202101153",
+  "nim_id": "202101153",
+  "transposes_celex": [
+    "31999L0031"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd0d4df4-c0b9-41ac-8753-01a88e634910",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
