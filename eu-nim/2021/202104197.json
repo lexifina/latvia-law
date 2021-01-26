@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 21. janvāra noteikumi Nr. 45 \"Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-25",
+  "entry_into_force": "2021-01-26",
+  "notification_date": "2021-06-15",
+  "commission_reference": "MNE(2021)04197",
+  "nim_celex": "72019L1929LVA_202104197",
+  "nim_id": "202104197",
+  "transposes_celex": [
+    "32019L1929"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bec1a6b1-d008-11eb-ac72-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
