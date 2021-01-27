@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 21. janvāra noteikumi Nr. 47 \"Īslaicīgu profesionālo pakalpojumu sniegšanas kārtība Latvijas Republikā reglamentētā profesijā\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2021-01-26",
+  "entry_into_force": "2021-01-27",
+  "notification_date": "2022-11-24",
+  "commission_reference": "MNE(2022)07284",
+  "nim_celex": "72013L0055LVA_202207284",
+  "nim_id": "202207284",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40865bfd-b69c-41ac-9403-d1dd7178b58f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
