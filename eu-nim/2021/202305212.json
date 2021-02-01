@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 28. janvāra noteikumi Nr. 65 \"Darbību ar jonizējošā starojuma avotiem paziņošanas, reģistrēšanas un licencēšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "21",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-01",
+  "entry_into_force": "2021-02-01",
+  "notification_date": "2023-09-28",
+  "commission_reference": "MNE(2023)05212",
+  "nim_celex": "72011L0070LVA_202305212",
+  "nim_id": "202305212",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/dbb807ab-f119-401f-af92-90b9eb5eb391",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
