@@ -8,5 +8,5 @@
 2) piegādāt citai akcīzes preču noliktavai Latvijas Republikā vai citā dalībvalstī;
 3) izvest no Latvijas Republikas uz citu dalībvalsti;
 4) izvest no Latvijas Republikas uz ārvalsti, kas nav dalībvalsts.
-(4) Ja 14.panta otrajā daļā un 18.panta trešajā un piektajā daļā minētie naftas produkti netiek iezīmēti (marķēti), par tiem aprēķina un samaksā nodokli pēc 14.panta pirmajā daļā noteiktās likmes.
+(4) Ja 14.panta otrajā daļā un 18.panta trešajā un piektajā daļā minētie naftas produkti netiek iezīmēti (marķēti), par tiem aprēķina un samaksā nodokli pēc 14.panta pirmajā vai piektajā daļā noteiktās likmes.
 (5) Naftas produktu iezīmēšanas (marķēšanas) kārtību un to aprites kārtību nosaka Ministru kabinets.
