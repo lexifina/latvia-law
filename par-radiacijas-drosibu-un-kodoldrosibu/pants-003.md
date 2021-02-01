@@ -4,7 +4,7 @@
 2) sasniegtais pozitīvais rezultāts pārsniedz negatīvo ietekmi vai zaudējumus, ko rada darbības ar jonizējošā starojuma avotiem;
 3) ņemot vērā ekonomiskos un sociālos faktorus, kā arī tehnisko līdzekļu iespējas, izraudzīti optimāli radiācijas drošības pasākumi, lai apstarošanas līmenis būtu saprātīgi zems un nepārsniegtu noteiktos dozu limitus;
 4) operators ir apdrošinājis civiltiesisko atbildību par savas darbības vai bezdarbības dēļ nodarītu kaitējumu trešās personas dzīvībai un veselībai vai tās mantai vai videi;
-5) darbības ar jonizējošā starojuma avotiem veic pēc licences saņemšanas vai darbību reģistrēšanas, izņemot Ministru kabineta noteikumos paredzētos gadījumus.
+5) darbības ar jonizējošā starojuma avotiem veic pēc darbību paziņošanas, reģistrācijas apliecības vai licences saņemšanas, izņemot normatīvajos aktos paredzētos gadījumus.
 (2) Aizliegts kodoliekārtu un radioaktīvo atkritumu apglabāšanas objektu vai radioaktīvo atkritumu pārvaldības objektu izvietot īpaši aizsargājamā dabas teritorijā, apdzīvotā vietā vai tiešā apdzīvotas vietas tuvumā.
 (3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar Ministru kabineta noteikumiem par aizsardzību pret jonizējošo starojumu.
 (4) Preces ražotājs, importētājs un izplatītājs nodrošina, ka jonizējošā starojuma līmenis precē, kas tiek laista tirgū, piedāvāta vai pārdota, atbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu un nerada draudus cilvēka veselībai.
