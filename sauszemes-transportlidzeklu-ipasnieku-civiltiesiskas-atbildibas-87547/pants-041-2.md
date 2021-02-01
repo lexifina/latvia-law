@@ -1,0 +1,2 @@
+41.² pants. Ārpus Eiropas Ekonomikas zonas valsts vai Šveices Konfederācijas speciālās militārās tehnikas nodarītu zaudējumu atlīdzināšana
+Ja speciālā militārā tehnika ceļu satiksmes negadījuma rezultātā nodara zaudējumus trešajai personai ārpus Eiropas Ekonomikas zonas valsts vai Šveices Konfederācijas, Aizsardzības ministrija šai personai nodrošina zaudējumu atlīdzināšanu atbilstoši Latvijas Republikai saistošos starptautiskajos līgumos noteiktajai kārtībai.
