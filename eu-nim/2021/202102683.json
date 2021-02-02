@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 21. janvāra likums \"Grozījumi Dzīvokļa īpašuma likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-01",
+  "entry_into_force": "2021-02-02",
+  "notification_date": "2021-04-15",
+  "commission_reference": "MNE(2021)02683",
+  "nim_celex": "72018L0844LVA_202102683",
+  "nim_id": "202102683",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5568a6ee-c04b-4dc6-9e0e-fd2e35993c5a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
