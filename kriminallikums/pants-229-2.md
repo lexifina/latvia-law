@@ -1,2 +1,2 @@
-229.² pants. Personas atbrīvošana no kriminālatbildības par valstij piederošu senlietu nelikumīgu iegūšanu, glabāšanu, pārvietošanu un pārsūtīšanu
-Persona, kura labprātīgi nodevusi nelikumīgi iegūtas, glabātas, pārvietotas vai pārsūtītas valstij piederošas senlietas, tiek atbrīvota no kriminālatbildības par valstij piederošu senlietu nelikumīgu iegūšanu, glabāšanu, pārvietošanu un pārsūtīšanu.
+229.² pants. Personas atbrīvošana no kriminālatbildības par senlietu nelikumīgu iegūšanu, glabāšanu, pārvietošanu un pārsūtīšanu
+Persona, kas labprātīgi nodevusi nelikumīgi iegūtu, glabātu, pārvietotu vai pārsūtītu Latvijas Republikas aizsardzībā esošu senlietu, kura neatrodas muzeja krājumā, vai citas valsts aizsardzībā esošu senlietu, tiek atbrīvota no kriminālatbildības par Latvijas Republikas aizsardzībā esošas senlietas, kura neatrodas muzeja krājumā, vai citas valsts aizsardzībā esošas senlietas nelikumīgu iegūšanu, glabāšanu, pārvietošanu vai pārsūtīšanu.
