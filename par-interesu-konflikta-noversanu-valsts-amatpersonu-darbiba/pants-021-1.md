@@ -1,2 +1,0 @@
-21.¹ pants. Informēšana par citu amatpersonu interešu konfliktiem
-Par amatpersonai zināmiem interešu konfliktiem, kuros iesaistītas citas attiecīgās institūcijas valsts amatpersonas, tā sniedz informāciju šīs institūcijas vadītājam vai Korupcijas novēršanas un apkarošanas birojam, bet valsts drošības iestādēs strādājošās valsts amatpersonas minēto informāciju sniedz Satversmes aizsardzības biroja direktoram.

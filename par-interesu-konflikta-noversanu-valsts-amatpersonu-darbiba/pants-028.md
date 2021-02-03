@@ -1,5 +1,5 @@
 28.pants. Deklarāciju un faktu pārbaude
-(1) Valsts ieņēmumu dienestam, Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta otrajā, trešajā un ceturtajā daļā paredzētajai valsts amatpersonu deklarāciju iesniegšanas piekritībai ir pienākums šajā likumā noteiktajos gadījumos pārbaudīt, vai deklarācija ir:
+(1) Valsts ieņēmumu dienestam, Satversmes aizsardzības birojam un Ministru prezidentam vai viņa pilnvarotai personai atbilstoši šā likuma 23.panta otrajā, 2.¹, trešajā un ceturtajā daļā paredzētajai valsts amatpersonu deklarāciju iesniegšanas piekritībai ir pienākums šajā likumā noteiktajos gadījumos pārbaudīt, vai deklarācija ir:
 1) iesniegta un aizpildīta noteiktajā kārtībā;
 2) iesniegta noteiktajā termiņā.
 (1¹) (Izslēgta ar 08.05.2003. likumu)

@@ -10,7 +10,7 @@
 8) Centrālās vēlēšanu komisijas priekšsēdētājs, viņa vietnieks un Centrālās vēlēšanu komisijas sekretārs;
 9) Satversmes aizsardzības biroja direktors un viņa vietnieks;
 10) Korupcijas novēršanas un apkarošanas biroja priekšnieks, viņa vietnieki, centrālā aparāta nodaļu vadītāji un viņu vietnieki, teritoriālo nodaļu vadītāji un izmeklētāji;
-11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta priekšnieks un viņa vietnieks;
+11) Finanšu izlūkošanas dienesta priekšnieks un viņa vietnieks;
 12) tiesībsargs un viņa vietnieks;
 13) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko elektronisko plašsaziņas līdzekļu padomes loceklis, Sabiedrisko pakalpojumu regulēšanas komisijas loceklis, Finanšu un kapitāla tirgus komisijas padomes loceklis;
 14) pašvaldības domes priekšsēdētājs un viņa vietnieks, pašvaldības izpilddirektors un viņa vietnieks, kā arī pagasta vai pilsētas pārvaldes vadītājs novada pašvaldībā;
@@ -30,7 +30,7 @@
 27) Rūpnieciskā īpašuma apelācijas padomes priekšsēdētājs un loceklis.
 (2) Par valsts amatpersonām uzskatāmas arī personas, kurām, pildot amata pienākumus publiskas personas institūcijās, saskaņā ar normatīvajiem aktiem ir tiesības:
 1) izdot administratīvos aktus;
-2) veikt uzraudzības, kontroles, izziņas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā;
+2) veikt uzraudzības, kontroles, izmeklēšanas vai sodīšanas funkcijas attiecībā uz personām, kas neatrodas to tiešā vai netiešā pakļautībā;
 3) pieņemt vai sagatavot lēmumus par publiskas personas mantas iegūšanu, tās nodošanu citu personu īpašumā, lietošanā vai valdījumā, atsavināšanu citām personām vai apgrūtināšanu ar lietu vai saistību tiesībām, kā arī finanšu līdzekļu sadalīšanu.
 (2¹) Par valsts amatpersonām uzskatāmas arī personas, kuras, pildot amata pienākumus valsts drošības iestādēs, veic vismaz vienu no šādām darbībām:
 1) izlūkošanu;
