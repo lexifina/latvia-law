@@ -1,1 +1,0 @@
-8. Grozījumi šā likuma 10.pantā par otrās daļas izteikšanu jaunā redakcijā un panta papildināšanu ar trešo un ceturto daļu stājas spēkā vienlaikus ar atbilstošiem grozījumiem Parlamentārās izmeklēšanas komisiju likumā.
