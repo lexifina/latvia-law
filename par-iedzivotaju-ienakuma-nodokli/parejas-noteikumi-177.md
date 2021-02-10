@@ -1,0 +1,1 @@
+177. Grozījums šā likuma 9. panta pirmās daļas 43. punkta "e" apakšpunktā par tā papildināšanu ar izņēmumu attiecībā uz aizdevumiem, kurus izsniedz šā likuma 8.¹ panta septiņpadsmitajā daļā minētā persona, kas ir kapitālsabiedrība, ir piemērojams, sākot no 2021. gada 12. janvāra.
