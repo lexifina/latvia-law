@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Grozījumi Enerģētikas likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-01",
+  "entry_into_force": "2021-02-15",
+  "notification_date": "2021-03-31",
+  "commission_reference": "MNE(2021)02388",
+  "nim_celex": "72019L0692LVA_202102388",
+  "nim_id": "202102388",
+  "transposes_celex": [
+    "32019L0692"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/05b5a273-96a2-11eb-b85c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
