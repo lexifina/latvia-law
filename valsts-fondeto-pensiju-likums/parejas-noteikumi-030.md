@@ -1,0 +1,1 @@
+30. Grozījums šā likuma 7. panta pirmās daļas 2. punktā, kas paredz, ka dzīvības apdrošināšanas (mūža pensijas) līgumā tiek noteikts mūža pensijas mēneša apmērs, kas tiek izmaksāts visā mūža pensijas izmaksas periodā, un apdrošināšanas sabiedrība par tā apmēru informē Aģentūru, stājas spēkā 2023. gada 1. janvārī.
