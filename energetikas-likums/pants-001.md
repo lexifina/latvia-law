@@ -12,6 +12,7 @@ Likumā ir lietoti šādi termini:
 8) energoapgādes komersanta objekts - energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas, cauruļvadu sistēma, cauruļvadi un to piederumi), kuru tieši izmanto energoapgādei;
 9) energoapgādes komersants - licencēts vai reģistrēts komersants, kas nodarbojas ar energoapgādi;
 10) energoresursi - apzinātie kurināmā krājumi un enerģijas avoti, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
+10¹) enerģētiskā nabadzība - mājsaimniecības lietotāja nespēja uzturēt mājoklī atbilstošu temperatūru vai izmantot energoapgādes komersantu sniegtos pakalpojumus, vai norēķināties par tiem zemas energoefektivitātes dēļ vai tādēļ, ka maksai par šiem pakalpojumiem ir augsts īpatsvars mājsaimniecības ienākumos;
 11) enerģija - prece ar noteiktu vērtību - iegūtā elektroenerģija vai siltumenerģija, kā arī dabasgāze (tostarp sašķidrinātā dabasgāze un biometāns);
 12) enerģijas lietotājs - fiziskā vai juridiskā persona, kas no energoapgādes komersantiem pērk un savām vajadzībām patērē konkrētā veida enerģiju vai kurināmo vai lieto to energoapgādē vai cita veida komercdarbībā;
 13) enerģijas pārvade - energoapgādes veids, kas ietver enerģijas transportēšanu pa augsta sprieguma tīkliem vai augsta spiediena cauruļvadiem (izņemot transportēšanu pa sākumposma cauruļvadiem), lai piegādātu to attiecīgai sadales sistēmai vai tieši lietotājiem, izņemot enerģijas tirdzniecību;
@@ -52,7 +53,7 @@ Likumā ir lietoti šādi termini:
 43) sistēma - pārvades un sadales tīkli vai cauruļvadu sistēma, dabasgāzes krātuves un sašķidrinātās dabasgāzes iekārtas, palīgobjekti, priekšmeti un cita manta, kas nepieciešama enerģijas pārvadei, uzglabāšanai un sadalei un kas ir energoapgādes komersanta īpašumā vai lietošanā (ieskaitot iekārtas, kas nepieciešamas palīgpakalpojumu sniegšanai);
 44) sistēmas lietotājs - fiziskā vai juridiskā persona, kas izmanto enerģijas pārvades vai sadales sistēmas vai dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumus;
 45) sistēmas operators - energoapgādes komersants, kas sniedz enerģijas pārvades vai sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumus;
-46) starpvalstu savienojums - enerģijas pārvades līnija, kas saista atsevišķās valstīs izvietotas pārvades sistēmas;
+46) starpsavienojums - dabasgāzes pārvades līnija, kas šķērso Latvijas Republikas robežu, savienojot Latvijas dabasgāzes pārvades sistēmu ar citas Eiropas Savienības dalībvalsts dabasgāzes pārvades sistēmu, vai dabasgāzes pārvades līnija starp Latvijas Republiku un trešo valsti līdz Latvijas Republikas teritorijai vai teritoriālajai jūrai;
 47) tiešā līnija - dabasgāzes vads, kas sasaista nošķirtu dabasgāzes (tostarp biometāna) ražošanas objektu vai dabasgāzes krātuvi ar nošķirtu lietotāju;
 48) tīkls - līniju un iekārtu kopums, kas nepieciešams elektroenerģijas transportēšanai. Ielu apgaismojuma tīkls ir atsevišķs, ar uzskaites mēraparātu tehniski nodalīts līniju vai iekārtu kopums, ko izmanto ielu, laukumu un citu publiskai lietošanai paredzētu teritoriju apgaismošanai un kas netiek izmantots elektroenerģijas transportēšanai un sadalei citiem enerģijas lietotājiem;
 49) tirgotājs - komersants (tai skaitā ārvalsts komersanta filiāle), kura komercdarbība ir enerģijas tirdzniecība;

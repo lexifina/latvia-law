@@ -10,7 +10,10 @@
 2) ar ieguldījumu saistītais risks ir tāds, ka ieguldījums netiktu veikts, ja nebūtu piešķirta atkāpe;
 3) dabasgāzes apgādes sistēmas objekti ir tādas personas īpašumā, kura vismaz juridiski ir nošķirta no to sistēmu operatoriem, kurās tie tiks ierīkoti;
 4) dabasgāzes apgādes sistēmas objektu lietotāji maksā par to lietošanu;
-5) atkāpes piešķiršana nekaitē dabasgāzes iekšējā tirgus konkurencei vai efektīvai funkcionēšanai vai tās sistēmas efektīvai funkcionēšanai, kurai dabasgāzes apgādes sistēmas objekts ir pieslēgts.
+5) atkāpe piešķirta, lai efektīvi funkcionētu dabasgāzes iekšējais tirgus un regulētās sistēmas, kurām infrastruktūra ir pieslēgta, un nekaitē konkurencei attiecīgajos dabasgāzes tirgos, kurus varētu ietekmēt minētie ieguldījumi, kā arī nekaitē Eiropas Savienības dalībvalstu piegādes drošumam.
+(3¹) Pirms regulators pieņem lēmumu par atkāpes piešķiršanu saskaņā ar šā panta trešo daļu, tas apspriežas ar:
+1) tās Eiropas Savienības dalībvalsts regulatīvo iestādi, kuras dabasgāzes tirgu var ietekmēt jaunais dabasgāzes apgādes sistēmas objekts;
+2) tās trešās valsts attiecīgo iestādi, ar kuru Latvijas Republikai ir attiecīgais starpsavienojums. Regulators var pieņemt lēmumu par atkāpes piešķiršanu, ja trešās valsts attiecīgā iestāde nav sniegusi atbildi triju mēnešu laikā pēc regulatora pieprasījuma nosūtīšanas dienas.
 (4) Regulators lēmumu par atkāpes piešķiršanu, kā arī ar lēmumu saistīto informāciju nosūta Eiropas Komisijai izvērtēšanai.
 (5) Regulators mēneša laikā pēc tam, kad saņemts Eiropas Komisijas lēmums, kurā pieprasīts grozīt vai atcelt šā panta ceturtajā daļā minēto regulatora lēmumu, pieņem vienu no šādiem lēmumiem un informē par to Eiropas Komisiju:
 1) atceļ lēmumu par atkāpes piešķiršanu un izdod jaunu lēmumu, ievērojot Eiropas Komisijas lēmumā norādītos apsvērumus lēmuma grozīšanai;

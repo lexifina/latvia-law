@@ -1,0 +1,2 @@
+XVII nodaļa
+Enerģētiskā nabadzība
