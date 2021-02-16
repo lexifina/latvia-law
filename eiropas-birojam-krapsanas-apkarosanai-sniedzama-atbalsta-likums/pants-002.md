@@ -1,0 +1,2 @@
+2. pants. Likuma mērķis
+Likuma mērķis ir nodrošināt efektīvu atbalstu Eiropas Birojam krāpšanas apkarošanai (turpmāk - birojs) tā veiktā administratīvajā izmeklēšanā saskaņā ar regulu Nr. 883/2013 un Padomes 1996. gada 11. novembra regulu (Euratom, EK) Nr. 2185/96 par pārbaudēm un apskatēm uz vietas, ko Komisija veic, lai aizsargātu Eiropas Kopienu finanšu intereses pret krāpšanu un citām nelikumībām (turpmāk - regula Nr. 2185/96).
