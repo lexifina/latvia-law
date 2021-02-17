@@ -15,6 +15,7 @@ e) izdevējvalsts un izdevējiestāde;
 7¹) vēlēšanu apgabals;
 8) adrese ārvalstī, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
 8¹) (izslēgts ar 11.06.2020. likumu);
+8²) elektroniskā pasta adrese, uz kuru nosūtāma tīmekļvietnes adrese, kurā ir pieejami balsošanas materiāli, ja vēlētājs pašvaldības domes vēlēšanās pieteicies balsot pa pastu;
 9) ziņas par vēlēšanu iecirkni, kurā vēlētājs nobalsojis:
 a) numurs,
 b) adrese,
