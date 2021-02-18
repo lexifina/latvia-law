@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 11. februāra noteikumi Nr. 103 \"Noteikumi par atbalsta programmu viena dzīvokļa dzīvojamo māju un divu dzīvokļu dzīvojamo māju atjaunošanai un energoefektivitātes paaugstināšanai\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "33",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-17",
+  "entry_into_force": "2021-02-18",
+  "notification_date": "2025-12-29",
+  "commission_reference": "MNE(2025)07351",
+  "nim_celex": "72023L1791LVA_202507351",
+  "nim_id": "202507351",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c364be46-84bf-47b2-814c-0641631e4590",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
