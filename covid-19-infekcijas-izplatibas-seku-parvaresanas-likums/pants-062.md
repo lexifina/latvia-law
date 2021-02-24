@@ -1,0 +1,1 @@
+62. pants. Lai mazinātu Covid-19 infekcijas izplatības radīto negatīvo ietekmi un spriedzi ģimenēs ar bērniem, personām, kuras audzina bērnu, laikposmā no 2021. gada 1. marta līdz sakarā ar Covid-19 izplatību izsludinātās ārkārtējās situācijas beigām tiek nodrošināts vienreizējs atbalsts (turpmāk - atbalsts) 500 euro apmērā par katru bērnu.
