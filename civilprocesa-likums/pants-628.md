@@ -2,9 +2,11 @@
 (1) No naudas, kas saņemta par pārdoto ar ķīlu apgrūtinātu nekustamo īpašumu, vispirms sedzami sprieduma izpildes izdevumi, kas saistīti ar nekustamā īpašuma pārdošanu, pēc tam apmierināmi prasījumi šādā secībā:
 1) to darbinieku prasījumi par darba algu izmaksu, kuri saistīti ar nekustamā īpašuma uzturēšanu, un ar viņu darba algām saistītie sociālās apdrošināšanas maksājumi;
 2) prasījumi par nodokļu maksājumiem, kas maksājami par šo nekustamo īpašumu;
+2¹) prasījumi par maksājumiem par pārvaldīšanas darbībām daudzdzīvokļu dzīvojamā mājā (pārvaldīšanas izdevumi), par maksājumiem par mājas uzturēšanai nepieciešamajiem pakalpojumiem (komunālie pakalpojumi) un maksājumiem dzīvokļu īpašnieku kopības uzkrājumu fondā (uzkrājumi), kas maksājami par šo nekustamo īpašumu;
 3) zemesgrāmatā ierakstītās reālnastas, kurām pienācis samaksas termiņš;
 4) ar šā nekustamā īpašuma ķīlu nodrošinātie prasījumi pēc to pirmtiesības;
-5) pārējie prasījumi šajā likumā noteiktajā secībā.
+5) pārējie prasījumi šajā likumā noteiktajā secībā, tostarp šīs daļas 2.¹ punktā norādītie prasījumi to neapmierinātajā daļā.
+(1¹) Apmierinot prasījumus šā panta pirmās daļas 2.¹ punktā noteiktajā kārtībā, tie sedzami apmērā, kas kopumā nepārsniedz 5 procentus no naudas, kas saņemta par šo nekustamo īpašumu.
 (2) Apmierinot hipotekāros prasījumus pēc to pirmtiesības, vienlaikus apmierināmi arī to blakus prasījumi - procenti par pēdējiem trim gadiem līdz izsoles noslēguma dienai, piespriestie tiesas izdevumi un ar lietas vešanu saistītie izdevumi, nepārsniedzot zemesgrāmatā ierakstītās hipotēkas summu. Atlikušajā ar nekustamā īpašuma ķīlu (hipotēku) nenodrošinātajā daļā prasījums apmierināms šā likuma 622.pantā noteiktajā kārtībā.
 (2¹) Ja hipotekārais kreditors nav pievienojies piedziņai (621.panta piektā daļa), nauda zemesgrāmatā norādītās hipotēkas summas apmērā vai hipotekārā kreditora paziņojumā norādītajā apmērā, ja tāds saņemts (600.panta ceturtā daļa), ņemot vērā attiecīgā hipotekārā prasījuma pirmtiesību, ieskaitāma tā tiesu izpildītāja depozīta kontā, kurš rīkoja izsoli, un uzglabājama līdz izpildu dokumentu saņemšanai.
 (3) Ja izsolē ir pārdots nekustamais īpašums, attiecībā uz kuru zemesgrāmatā ierakstīta ķīlas tiesības atzīme, nauda prasījuma apmērā atbilstoši prasījuma prioritātei ieskaitāma tiesu izpildītāja depozīta kontā un uzglabājama līdz nodrošinātās prasības izskatīšanai tiesā.

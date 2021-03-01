@@ -1,0 +1,1 @@
+163. Prasībās, kas celtas pēc 2021. gada 28. februāra, tiesa, taisot spriedumu un piemērojot šā likuma 195. panta otro daļu, spriedumā atsevišķi norāda prasījuma apmierināšanas kārtību par laika periodu līdz 2022. gada 31. decembrim un laika periodu no 2023. gada 1. janvāra.

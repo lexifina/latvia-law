@@ -1,6 +1,6 @@
 133.pants. Prasības pieteikuma atstāšana bez virzības
 (1) Tiesnesis atstāj prasības pieteikumu bez virzības, ja:
-1) prasības pieteikumā nav visu šā likuma 128.panta otrajā vai ceturtajā daļā noteikto rekvizītu;
+1) prasības pieteikumā nav visu šā likuma 128. panta otrajā, ceturtajā vai piektajā daļā noteikto rekvizītu;
 2) prasības pieteikumam nav pievienoti šā likuma 129.pantā noteiktie dokumenti;
 3) prasības pieteikums vienkāršotās procedūras lietā nav noformēts atbilstoši šā likuma 250.²⁰ pantā noteiktajam.
 (2) Par prasības pieteikuma atstāšanu bez virzības tiesnesis pieņem motivētu lēmumu, nosūta to prasītājam un nosaka termiņu trūkumu novēršanai. Šis termiņš nevar būt īsāks par 20 dienām, skaitot no lēmuma nosūtīšanas dienas. Tiesneša lēmumu var pārsūdzēt šajā likumā noteiktajā kārtībā. Pārsūdzības termiņš skaitāms no dienas, kad lēmums izsniegts prasītājam.

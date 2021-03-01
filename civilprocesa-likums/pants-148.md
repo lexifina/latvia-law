@@ -3,6 +3,7 @@
 (1¹) Ja prasības pieteikums un tam pievienoto dokumentu noraksti (129.panta trešā un ceturtā daļa) pēc lietas ierosināšanas nosūtāmi atbildētājam saskaņā ar šā likuma 56.² pantu, rakstveida paskaidrojuma iesniegšanas termiņš ir 30 dienas, skaitot no dienas, kad prasības pieteikums izsniegts atbildētājam.
 (1²) Prasītājam paziņo par prasības pieteikuma un tam pievienoto dokumentu norakstu nosūtīšanu atbildētājam.
 (1³) Tiesa prasītājam un atbildētājam nosūta informāciju par iespēju risināt strīdu, izmantojot mediāciju, un par pienākumu noteiktajā termiņā paziņot tiesai, ja viņi piekrīt izmantot mediāciju.
+(1⁴) Tiesa prasītājam un atbildētājam nosūta informāciju par tiesas ierosinājumu nodot lietu izskatīšanai citai tiesai saskaņā ar šā likuma 32.¹ pantu un par pienākumu noteiktajā termiņā paziņot tiesai, ja lietas nodošana izskatīšanai citai tiesai radīs būtiskus šķēršļus prasītājam vai atbildētājam ierasties uz tiesas sēdi.
 (2) Paskaidrojumā atbildētājs norāda:
 1) vai viņš atzīst prasību pilnīgi vai kādā tās daļā;
 2) savus iebildumus pret prasību un to pamatojumu;

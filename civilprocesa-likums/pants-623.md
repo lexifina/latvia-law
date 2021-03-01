@@ -5,5 +5,5 @@
 3) prasījumi personisku aizskārumu dēļ, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 4) prasījumi par fiziskās personas labā apmierinātu kaitējuma kompensācijas pieteikumu krimināllietā.
 (2) Ja uzturlīdzekļi tiek maksāti saskaņā ar Uzturlīdzekļu garantiju fonda administrācijas lēmumu un piedzītā uzturlīdzekļu summa:
-1) nenodrošina minimālo uzturlīdzekļu apmēru, kādu, pamatojoties uz Civillikuma 179.panta piekto daļu, noteicis Ministru kabinets, piedzītos uzturlīdzekļus ieskaita Uzturlīdzekļu garantiju fondā;
-2) nodrošina minimālo uzturlīdzekļu apmēru, kādu, pamatojoties uz Civillikuma 179.panta piekto daļu, noteicis Ministru kabinets, tad uzturlīdzekļus tādā apmērā, kādu, pamatojoties uz Civillikuma 179.panta piekto daļu, noteicis Ministru kabinets, izmaksā iesniedzējam, bet atlikušo summu ieskaita Uzturlīdzekļu garantiju fondā līdz pilnīgai parāda dzēšanai.
+1) nenodrošina uzturlīdzekļu apmēru, kāds tiek izmaksāts no Uzturlīdzekļu garantiju fonda, piedzītos uzturlīdzekļus ieskaita Uzturlīdzekļu garantiju fondā;
+2) nodrošina uzturlīdzekļu apmēru, kāds tiek izmaksāts no Uzturlīdzekļu garantiju fonda, tad uzturlīdzekļus šādā apmērā izmaksā iesniedzējam, bet atlikušo summu ieskaita Uzturlīdzekļu garantiju fondā līdz pilnīgai parāda dzēšanai.
