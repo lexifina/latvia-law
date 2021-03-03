@@ -29,5 +29,6 @@
 25) Izglītības un zinātnes ministrijai;
 26) valsts sabiedrībai ar ierobežotu atbildību "Nacionālais rehabilitācijas centrs "Vaivari"";
 27) valsts sabiedrības ar ierobežotu atbildību "Paula Stradiņa Klīniskā universitātes slimnīca" Aroda un radiācijas medicīnas centram;
-28) Nacionālajiem bruņotajiem spēkiem.
+28) Nacionālajiem bruņotajiem spēkiem;
+29) Sabiedrības integrācijas fonda sekretariātam.
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.
