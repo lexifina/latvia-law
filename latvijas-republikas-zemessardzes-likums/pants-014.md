@@ -8,8 +8,11 @@
 (4) Par zemessargu nevar būt persona:
 1) kura ir atvaļināta no militārā vai cita valsts dienesta par disciplīnas pārkāpumiem;
 2) kura tiek turēta aizdomās vai apsūdzēta noziedzīga nodarījuma izdarīšanā;
-3) kura sodīta par tīšu noziedzīgu nodarījumu, par valsts noslēpuma izpaušanu aiz neuzmanības, nonāvēšanu aiz neuzmanības, miesas bojājumu nodarīšanu aiz neuzmanības vai militārā dienesta mantas iznīcināšanu vai bojāšanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+3) kura sodīta par tīšu noziedzīgu nodarījumu vai par valsts noslēpuma izpaušanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas, izņemot šā panta piektajā daļā minēto gadījumu;
 3¹) kura sodīta par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, izņemot šīs daļas 3. punktā minēto noziedzīgo nodarījumu, ja sodāmība nav noņemta vai nav dzēsta likumā noteiktajā kārtībā;
-3²) kura par šīs daļas 3. punktā minēto noziedzīgo nodarījumu notiesāta, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata.
+3²) kura par šīs daļas 3. punktā minēto noziedzīgo nodarījumu notiesāta, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata, izņemot šā panta piektajā daļā minēto gadījumu.
 4) kura atrodas narkologa vai psihiatra uzskaitē, kurai ir hroniski psihiski traucējumi vai tiem pielīdzināti stāvokļi vai kurai nodibināta aizgādnība;
-5) kura ir bijusi PSRS, Latvijas PSR, ir vai ir bijusi kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs.
+5) kura ir bijusi PSRS, Latvijas PSR, ir vai ir bijusi kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
+6) kuras uzņemšana Zemessardzē neatbilst nacionālās drošības interesēm saskaņā ar Militārās izlūkošanas un drošības dienesta atzinumu.
+(5) Aizsardzības ministra izveidota komisija var atļaut šā panta ceturtās daļas 3. vai 3.² punktā minētās personas uzņemšanu Zemessardzē, ja šī persona nav izdarījusi tīšu smagu vai sevišķi smagu noziegumu un sodāmība ir dzēsta vai noņemta vai pēc nolēmuma par kriminālprocesa izbeigšanu uz nereabilitējoša pamata ir pagājuši ne mazāk kā pieci gadi.
+(6) Ministru kabinets nosaka kārtību, kādā aizsardzības ministra izveidota komisija izvērtē jautājumu par šā panta piektajā daļā minētās atļaujas sniegšanu.
