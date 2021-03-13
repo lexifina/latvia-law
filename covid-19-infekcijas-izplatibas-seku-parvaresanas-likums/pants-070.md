@@ -1,0 +1,2 @@
+70. pants. (1) Valsts sociālās apdrošināšanas aģentūra vienreizējo pabalstu izmaksā 2021. gada aprīlī un piegādā vienreizējā pabalsta saņēmēja norādītajā dzīvesvietā bez maksas vai pārskaita uz kredītiestādes vai pasta norēķinu sistēmas (PNS) kontu, kurā vienreizējā pabalsta saņēmējam tiek ieskaitīta šā likuma 68. pantā minētā pensija vai pabalsts.
+(2) Vienreizējo pabalstu finansē no valsts pamatbudžeta.
