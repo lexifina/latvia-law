@@ -469,7 +469,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 35.1. Saulkrastu pagasts
 35.2. Saulkrastu pilsēta
 35.3. Sējas pagasts
-35.4. Skultes pagasts
+35.4. (atzīts par spēkā neesošu no 16.03.2021. ar Satversmes tiesas 12.03.2021. spriedumu)
 36. Siguldas novads (Sigulda)36.1. Allažu pagasts
 36.2. Inčukalna pagasts
 36.3. Krimuldas pagasts
