@@ -1,1 +1,1 @@
-26. Ir gada kopsapulces un ārkārtas kopsapulces. Ārkārtas kopsapulces sasauc pēc vajadzības, to sasaukšanu var pieprasīt arī ne mazāk kā desmitā daļa no visiem zvērinātiem advokātiem.
+26. Latvijas Zvērinātu advokātu padome sasauc gada kopsapulces un ārkārtas kopsapulces. Ārkārtas kopsapulci sasauc pēc vajadzības, tās sasaukšanu var pieprasīt arī ne mazāk kā desmitā daļa no visiem zvērinātiem advokātiem. Gada kopsapulci un ārkārtas kopsapulci var organizēt neklātienes formā, ja objektīvu iemeslu dēļ nav iespējams sasaukt klātienes kopsapulci.

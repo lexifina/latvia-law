@@ -1,1 +1,1 @@
-93. Pirmajos sešos mēnešos pēc uzņemšanas zvērinātu advokātu palīgi nevar vest lietas tiesās un pirmstiesas izmeklēšanas iestādēs. Šajā laikā zvērinātu advokātu palīgi sagatavojas advokāta pienākumu veikšanai, darbojoties patrona vadībā un izpildot atsevišķus uzdevumus patrona uzraudzībā.
+93. Pirmajā gadā pēc uzņemšanas zvērinātu advokātu palīgi nevar vest lietas tiesās un pirmstiesas izmeklēšanas iestādēs. Šajā laikā zvērinātu advokātu palīgi sagatavojas advokāta pienākumu veikšanai, darbojoties patrona vadībā un izpildot atsevišķus uzdevumus patrona uzraudzībā.

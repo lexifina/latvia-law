@@ -1,0 +1,1 @@
+59.¹ Zvērinātiem advokātiem, tostarp tiem, kuru darbība apturēta vai kuri atstādināti, ir pienākums celt savu kvalifikāciju. Kvalifikācijas celšanai katram zvērinātam advokātam viena kalendāra gada laikā jāvelta ne mazāk kā 16 akadēmiskās stundas. Latvijas Zvērinātu advokātu padome nosaka kvalifikācijas celšanas kārtību.

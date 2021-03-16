@@ -1,5 +1,5 @@
 16. No zvērinātu advokātu skaita izslēdz personas:
-1) kuras tiesa atzinusi par maksātnespējīgiem parādniekiem;
+1) (izslēgts ar 18.02.2021. likumu);
 2) pār kurām nodibināta aizgādnība;
 3) pret kurām kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts uz nereabilitējoša pamata;
 4) kuras sodītas par tīša noziedzīga nodarījuma izdarīšanu, neatkarīgi no sodāmības dzēšanas vai noņemšanas;

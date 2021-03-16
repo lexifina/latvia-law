@@ -1,0 +1,1 @@
+49.¹ Advokātam ir pienākums nodrošināt savlaicīgu juridisko palīdzību, sniedzot to bez neattaisnotas novilcināšanas. Ja advokāts nevar piedalīties tiesas sēdē, viņš nodrošina, ka viņa vietā juridiskās palīdzības sniegšanai ierodas cits advokāts, iepriekš par to vienojoties ar klientu un informējot tiesu.

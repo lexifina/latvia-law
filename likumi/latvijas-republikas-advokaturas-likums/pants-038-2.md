@@ -1,0 +1,1 @@
+38.² Zvērināti advokāti, kuru darbība apturēta sakarā ar atrašanos tiešās vai pastarpinātās valsts pārvaldes iestādes, atvasinātas publiskas personas, citas valsts iestādes vai valsts (pašvaldības) kapitālsabiedrības dienestā vai kuri atstādināti no zvērinātu advokātu pienākumu pildīšanas, nav tiesīgi darboties Latvijas Zvērinātu advokātu kolēģijas institūcijās.

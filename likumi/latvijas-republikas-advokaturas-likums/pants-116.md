@@ -1,2 +1,7 @@
-116. Zvērināti advokāti praktizē individuāli vai arī sadarbībā vienīgi ar citiem zvērinātiem advokātiem.
-Zvērināti advokāti var izveidot zvērinātu advokātu birojus, kurus reģistrē Latvijas Zvērinātu advokātu padomē.
+116. Zvērināti advokāti praktizē individuāli vai sadarbībā ar citiem zvērinātiem advokātiem.
+Zvērināti advokāti var izveidot zvērinātu advokātu biroju profesionālās darbības veikšanai, kurā uz nenoteiktu laiku var praktizēt viens vai vairāki zvērināti advokāti.
+Zvērinātu advokātu biroju veido kā personālsabiedrību vai sabiedrību ar ierobežotu atbildību un Komerclikumā noteiktajā kārtībā reģistrē komercreģistrā. Šādām sabiedrībām piemēro Komerclikuma noteikumus, ciktāl šajā likumā nav noteikts citādi.
+Zvērinātu advokātu biroja biedrs vai dalībnieks var būt tikai zvērināts advokāts. Zvērināts advokāts var būt tikai viena zvērinātu advokātu biroja biedrs vai dalībnieks.
+Par zvērinātu advokātu biroja valdes un padomes locekli var būt tikai zvērināts advokāts, kurš ir attiecīgā zvērinātu advokātu biroja biedrs vai dalībnieks.
+Zvērināti advokāti un zvērinātu advokātu palīgi veic valsts sociālās apdrošināšanas obligātās iemaksas saskaņā ar likumu "Par valsts sociālo apdrošināšanu".
+Ja zvērinātu advokātu birojs juridiskās palīdzības sniegšanai piesaista zvērinātu advokātu, kurš nav attiecīgā biroja biedrs vai dalībnieks, tostarp citā birojā praktizējošu zvērinātu advokātu, šī persona no zvērinātu advokātu biroja saņem ieņēmumus tikai par advokātu birojam sniegto juridisko palīdzību. Šāda zvērināta advokāta ieņēmumi tiek aplikti ar nodokļiem atbilstoši to saņēmēja izvēlētajai darbības formai.

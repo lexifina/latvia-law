@@ -1,1 +1,1 @@
-82. Par zvērināta advokāta sodīšanu disciplinārlietu komisija pēc lēmuma spēkā stāšanās paziņo sūdzības iesniedzējam, Latvijas Zvērinātu advokātu padomei un tieslietu ministram. Zvērināta advokāta izslēgšanu Latvijas Zvērinātu advokātu padome izsludina arī oficiālajā laikrakstā.
+82. Par zvērināta advokāta sodīšanu disciplinārlietu komisija pēc lēmuma spēkā stāšanās paziņo sūdzības iesniedzējam, Latvijas Zvērinātu advokātu padomei un tieslietu ministram. Zvērināta advokāta izslēgšanu Latvijas Zvērinātu advokātu padome izsludina arī oficiālajā izdevumā "Latvijas Vēstnesis".

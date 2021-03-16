@@ -1,2 +1,2 @@
 22. Latvijas Zvērinātu advokātu kolēģijas līdzekļus veido summas, kas tiek maksātas Latvijas Zvērinātu advokātu padomes noteiktajā kārtībā un apmērā par dalību Latvijas Zvērinātu advokātu kolēģijā.
-Latvijas Zvērinātu advokātu padome ir tiesīga noteikt maksājumu par dalību Latvijas Zvērinātu advokātu kolēģijā zvērinātam advokātam vai viņa palīgam, kura darbība Latvijas Zvērinātu advokātu kolēģijā apturēta. Šādu maksājumu nenosaka, ja zvērināta advokāta vai viņa palīga darbības apturēšanas iemesls ir darbs šā likuma 16.¹ pantā minētajās institūcijās.
+Latvijas Zvērinātu advokātu padome ir tiesīga noteikt maksājumu par dalību Latvijas Zvērinātu advokātu kolēģijā zvērinātam advokātam vai viņa palīgam, kura darbība Latvijas Zvērinātu advokātu kolēģijā apturēta.

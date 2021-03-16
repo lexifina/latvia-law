@@ -1,0 +1,1 @@
+16. Ministru kabinets līdz 2021. gada 30. aprīlim izdara grozījumus Ministru kabineta 2009. gada 10. marta noteikumos Nr. 227 "Zvērināta advokāta eksāmena kārtība" un Ministru kabineta 2004. gada 20. jūlija noteikumos Nr. 609 "Noteikumi par advokāta eksāmena maksu" atbilstoši grozījumiem šā likuma 41.² pantā un 73. panta trešajā daļā.

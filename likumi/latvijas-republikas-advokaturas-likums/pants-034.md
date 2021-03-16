@@ -1,6 +1,6 @@
 34. Latvijas Zvērinātu advokātu padome:
 1) pieņem lēmumu par uzņemšanu un ieskaitīšanu zvērinātu advokātu un zvērinātu advokātu palīgu skaitā un lemj par izslēgšanu, atstādināšanu vai atskaitīšanu no zvērinātu advokātu un zvērinātu advokātu palīgu skaita, kā arī par atsevišķu zvērinātu advokātu un zvērinātu advokātu palīgu darbības apturēšanu;
-2) ved zvērinātu advokātu un zvērinātu advokātu palīgu, kā arī tiesas darbības teritorijā praktizējošo zvērinātu advokātu vecāko sarakstus un nodrošina šo sarakstu publisku pieejamību;
+2) ved zvērinātu advokātu un zvērinātu advokātu palīgu, kā arī tiesas darbības teritorijā praktizējošo zvērinātu advokātu vecāko sarakstus un zvērinātu advokātu biroju sarakstus, un nodrošina šo sarakstu publisku pieejamību;
 3) pārzina Latvijas Zvērinātu advokātu kolēģijas organizācijas lietas;
 4) uzrauga zvērinātu advokātu un zvērinātu advokātu palīgu darbību, izskata par viņiem iesniegtās sūdzības un ziņojumus, kā arī ierosina disciplinārlietas;
 5) pārzina zvērinātu advokātu palīgu sagatavošanu;
@@ -15,4 +15,5 @@
 14) nosaka kārtību, kādā zvērinātu advokātu vecākie organizē tiesas darbības teritorijā praktizējošo advokātu darbu, kā arī nosaka valsts nodrošinātās aizstāvības un pārstāvības veikšanai kriminālprocesā nepieciešamo advokātu dežūru grafiku sastādīšanas kārtību;
 15) nodrošina advokātu darba organizēšanu aizstāvības un pārstāvības veikšanai kriminālprocesā pēc procesa virzītāja pieprasījuma, kā arī likumā noteiktajos gadījumos valsts nodrošinātās juridiskās palīdzības sniegšanai;
 16) administrē tiesas darbības teritorijas zvērinātu advokātu vecākajiem no valsts budžeta līdzekļiem piešķirto finansējumu šā likuma 12.panta trešajā daļā minētajos Ministru kabineta noteikumos paredzētajā kārtībā;
-17) nosaka tiesas darbības teritorijā praktizējošo zvērinātu advokātu vecākā izraudzīšanas kārtību.
+17) nosaka tiesas darbības teritorijā praktizējošo zvērinātu advokātu vecākā izraudzīšanas kārtību;
+18) šajā likumā noteiktajos gadījumos un kārtībā pārbauda zvērinātu advokātu biroju atbilstību šā likuma prasībām un izsniedz piekrišanu to dibināšanai un izmaiņu veikšanai komercreģistra ierakstos un dokumentos.

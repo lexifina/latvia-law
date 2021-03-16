@@ -1,0 +1,1 @@
+116.³ Zvērinātu advokātu birojs savā nosaukumā papildus lieto apzīmējumu "zvērinātu advokātu birojs" vai abreviatūru "ZAB". Tikai zvērinātu advokātu birojiem ir tiesības savā nosaukumā lietot minēto apzīmējumu un tā abreviatūru.

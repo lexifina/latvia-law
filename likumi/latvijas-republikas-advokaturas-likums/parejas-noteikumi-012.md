@@ -1,0 +1,1 @@
+12. Grozījumi šā likuma 14. panta pirmās daļas 4. punktā, kas noteic, ka par zvērinātiem advokātiem var uzņemt personas, kas ieguvušas maģistra grādu, piemērojami personām, kuras tiek uzņemtas zvērinātu advokātu skaitā pēc šo grozījumu spēkā stāšanās.

@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 114. pantā attiecībā uz zvērinātu advokātu un zvērinātu advokātu palīgu profesionālās darbības apdrošināšanu stājas spēkā 2021. gada 30. aprīlī. Latvijas Zvērinātu advokātu padome apdrošināšanas līgumu par visu advokātu profesionālās darbības riska apdrošināšanu (grupas apdrošināšanas līgums) slēdz līdz 2021. gada 30. augustam.
