@@ -1,4 +1,6 @@
 22.pants. Vietējās pašvaldības attīstības programma
 (1) Vietējās pašvaldības attīstības programmu izstrādā saskaņā ar vietējās pašvaldības ilgtspējīgas attīstības stratēģiju, izvērtējot nacionālā un reģionālā līmeņa teritorijas attīstības plānošanas dokumentus, kā arī blakus esošo vietējo pašvaldību teritorijas attīstības plānošanas dokumentus.
 (2) Vietējās pašvaldības attīstības programmā ietver pašreizējās situācijas analīzi, tendences un prognozes, kā arī informāciju par attīstības programmas izstrādes procesu un nosaka vidēja termiņa prioritātes, rīcības un investīciju plānu, attīstības programmas īstenošanai nepieciešamo resursu apjomu un attīstības programmas īstenošanas uzraudzības kārtību.
+(2¹) Vietējās pašvaldības attīstības programmas investīciju plānā iekļauj attīstības projektus, kuru ieviešanas izmaksas ir 50 000 euro vai vairāk. Investīciju plānā iekļauj arī tādus attīstības projektus, kurus plānots īstenot vairākām pašvaldībām kopīgi, ja kopējās projekta izmaksas ir 50 000 euro vai vairāk.
+(2²) Vietējā pašvaldība ikgadējā pārskatā iekļauj informāciju par tās veiktajiem ieguldījumiem šā panta 2.¹ daļā minēto attīstības projektu ieviešanā.
 (3) Vietējās pašvaldības attīstības programmu apstiprina ar pašvaldības domes lēmumu.

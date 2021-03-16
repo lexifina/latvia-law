@@ -1,0 +1,1 @@
+17. Šā likuma grozījumi par 25. panta pirmās daļas otrā teikuma izslēgšanu, otrās daļas izteikšanu jaunā redakcijā un panta papildināšanu ar 2.¹ daļu un par 29. panta ceturtā teikuma izteikšanu jaunā redakcijā stājas spēkā 2022. gada 1. janvārī.

@@ -4,6 +4,7 @@
 2) apstiprina nacionālā līmeņa tematiskos plānojumus;
 3) nosaka reģionālā līmeņa teritorijas attīstības plānošanas dokumentu saturu, izstrādes, ieviešanas un uzraudzības kārtību;
 4) nosaka vietējā līmeņa teritorijas attīstības plānošanas dokumentu saturu, izstrādes un publiskās apspriešanas kārtību, lokālplānojuma un detālplānojuma finansēšanas kārtību un līgumā par lokālplānojuma vai detālplānojuma izstrādi un finansēšanu iekļaujamos nosacījumus;
+4¹) nosaka kritērijus un kārtību detālplānojumu pārskatīšanai;
 5) nosaka prasības teritorijas attīstības plānošanas dokumentu izstrādātājiem;
 6) nosaka vispārīgās prasības vietējā līmeņa teritorijas attīstības plānošanai, teritorijas izmantošanai un apbūvei;
 7) nosaka teritorijas izmantošanas veidu klasifikāciju;
