@@ -6,7 +6,8 @@
 4) atteikt profesionālās kvalifikācijas atzīšanu, tai skaitā profesionālās kvalifikācijas atzīšanu attiecībā uz daļu no reglamentētās profesijas profesionālajām darbībām;
 5) izdot atļauju īslaicīgu profesionālo pakalpojumu sniegšanai;
 6) pārbaudīt īslaicīgu profesionālo pakalpojumu sniedzēja kvalifikāciju saskaņā ar šā likuma 42. pantu;
-7) atteikt atļaujas izdošanu īslaicīgu profesionālo pakalpojumu sniegšanai.
+7) atteikt atļaujas izdošanu īslaicīgu profesionālo pakalpojumu sniegšanai;
+8) anulēt atļauju īslaicīgu profesionālo pakalpojumu sniegšanai, ja īslaicīgu pakalpojumu sniedzēja profesionālā darbība Latvijā neatbilst šā likuma 42. panta pirmajā daļā noteiktajiem īslaicīgu pakalpojumu raksturlielumiem.
 (2) Šajā pantā minētās institūcijas sadarbojas ar šā likuma 56.pantā minētajām institūcijām un nodrošina informācijas apmaiņu ar attiecīgajām ārvalstu un Eiropas Savienības kompetentajām institūcijām, lai nodrošinātu izglītības un profesionālās kvalifikācijas prasību koordināciju Latvijas Republikā un ārvalstīs un profesionālās kvalifikācijas savstarpēju atzīšanu.
 (2¹) Šajā pantā minētās institūcijas Ministru kabineta noteiktajā kārtībā sadarbojas ar Akadēmiskās informācijas centru un sniedz informāciju par personām ar profesionālo kvalifikāciju, kurām Latvijas Republikā ir ierobežotas vai liegtas tiesības veikt profesionālo darbību reglamentētajā profesijā, kā arī saņem no citas Eiropas Savienības dalībvalsts informāciju par personām ar profesionālo kvalifikāciju, kurām ir ierobežotas vai liegtas tiesības veikt profesionālo darbību reglamentētajā profesijā.
 (2²) Šā panta pirmajā daļā minētās institūcijas sadarbojas ar Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu atbildīgajām institūcijām reglamentēto profesiju un profesionālās kvalifikācijas atzīšanas jomā, izmantojot Iekšējā tirgus informācijas sistēmu.
