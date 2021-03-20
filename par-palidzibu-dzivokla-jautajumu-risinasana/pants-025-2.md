@@ -3,7 +3,7 @@
 (2) Dzīvokļa pabalstu bez vecāku gādības palikušam bērnam piešķir šādu ar dzīvojamās telpas lietošanu saistītu izdevumu segšanai:
 1) izdevumiem par dzīvojamās telpas lietošanu (īres maksa, nepieciešamie izdevumi par obligāti veicamajām pārvaldīšanas darbībām);
 2) izdevumiem par pakalpojumiem, kas saistīti ar dzīvojamās telpas lietošanu (siltumenerģija apkures un karstā ūdens nodrošināšanai, elektroenerģija, patērētais ūdens, dabasgāze, kanalizācijas vai asenizācijas nodrošināšana, sadzīves atkritumu apsaimniekošana), ja tie nav ietverti īres maksā vai nepieciešamajos izdevumos par obligāti veicamajām pārvaldīšanas darbībām;
-3) (punkts stājas spēkā 01.04.2021. un iekļauts likuma redakcijā uz 01.04.2021. Sk. Pārejas noteikumu 16. punktu).
+3) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 16. punktu).
 (3) Bez vecāku gādības palicis bērns nav tiesīgs vienlaikus saņemt gan dzīvokļa pabalstu bez vecāku gādības palikušam bērnam, gan šā likuma 3. panta 1., 2. un 5. punktā paredzēto palīdzību.
 (4) (Izslēgta ar 30.03.2017. likumu)
 (5) Pašvaldības domes saistošajos noteikumos paredz kārtību, kādā izmaksājams mājokļa pabalsts bez vecāku gādības palikušam bērnam. Šā pabalsta apmēru pašvaldība nosaka, ievērojot Sociālo pakalpojumu un sociālās palīdzības likumā noteiktos mājokļa pabalsta aprēķināšanas noteikumus. Piešķirot mājokļa pabalstu bez vecāku gādības palikušam bērnam, pašvaldība nevērtē šā bērna ienākumus un materiālo stāvokli.
