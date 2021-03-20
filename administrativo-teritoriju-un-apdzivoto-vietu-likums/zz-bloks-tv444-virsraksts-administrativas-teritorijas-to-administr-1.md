@@ -17,6 +17,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 8.9. Klintaines pagasts
 8.10. Kokneses pagasts
 8.11. Kokneses pilsēta
+(apakšpunkts stājas spēkā 01.07.2021. Sk. Pārejas noteikumu 26. punktu)
 8.12. Mazzalves pagasts
 8.13. Neretas pagasts
 8.14. Pilskalnes pagasts
@@ -72,7 +73,9 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 10.26. Vecsalienas pagasts
 10.27. Višķu pagasts
 11. Ādažu novads (Ādaži)11.1. Ādažu pagasts
-11.2. Carnikavas pagasts
+11.2. Ādažu pilsēta
+(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
+11.3. Carnikavas pagasts
 12. Balvu novads (Balvi)12.1. Baltinavas pagasts
 12.2. Balvu pagasts
 12.3. Balvu pilsēta
@@ -103,6 +106,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 13.7. Gailīšu pagasts
 13.8. Iecavas pagasts
 13.9. Iecavas pilsēta
+(apakšpunkts stājas spēkā 01.07.2021. Sk. Pārejas noteikumu 26. punktu)
 13.10. Īslīces pagasts
 13.11. Kurmenes pagasts
 13.12. Mežotnes pagasts
@@ -295,6 +299,8 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 22.3. Baložu pilsēta
 22.4. Daugmales pagasts
 22.5. Ķekavas pagasts
+22.6. Ķekavas pilsēta
+(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
 23. Limbažu novads (Limbaži)23.1. Ainažu pagasts
 23.2. Ainažu pilsēta
 23.3. Alojas pagasts
@@ -308,11 +314,12 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 23.11. Pāles pagasts
 23.12. Salacgrīvas pagasts
 23.13. Salacgrīvas pilsēta
-23.14. Staiceles pagasts
-23.15. Staiceles pilsēta
-23.16. Umurgas pagasts
-23.17. Vidrižu pagasts
-23.18. Viļķenes pagasts
+23.14. Skultes pagasts
+23.15. Staiceles pagasts
+23.16. Staiceles pilsēta
+23.17. Umurgas pagasts
+23.18. Vidrižu pagasts
+23.19. Viļķenes pagasts
 24. Līvānu novads (Līvāni)24.1. Jersikas pagasts
 24.2. Līvānu pilsēta
 24.3. Rožupes pagasts
@@ -368,7 +375,9 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 26.22. Vestienas pagasts
 27. Mārupes novads (Mārupe)27.1. Babītes pagasts
 27.2. Mārupes pagasts
-27.3. Salas pagasts
+27.3. Mārupes pilsēta
+(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
+27.4. Salas pagasts
 28. Ogres novads (Ogre)28.1. Birzgales pagasts
 28.2. Ikšķiles pilsēta
 28.3. Jumpravas pagasts
