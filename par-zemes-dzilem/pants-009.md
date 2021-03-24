@@ -9,3 +9,4 @@
 7) kūdras ieguvei - uz laiku līdz 75 gadiem. Licences darbības laikā Valsts vides dienests ne retāk kā reizi 25 gados pārskata licences nosacījumus un, ja nepieciešams, to atjauno vai papildina.
 (2) Publiskas personas zemi zemes dzīļu izmantošanai var iznomāt uz šā panta pirmajā daļā minēto termiņu.
 (3) Līgumu par funkcionāli nepieciešamās zemes vienības vai tās daļas iznomāšanu ar šā likuma 8. panta pirmās daļas 6. punktā minēto subjektu noslēdz uz termiņu, kurš nav ilgāks par zemes dzīļu izmantošanas licences termiņu.
+(4) Ja ogļūdeņražu izpētes veikšanai ir piemērojams ietekmes uz vidi novērtējums un bez tā nevar uzsākt izpētes darbus, izpētes termiņa sākums ir nosakāms pēc ietekmes uz vidi novērtējuma.

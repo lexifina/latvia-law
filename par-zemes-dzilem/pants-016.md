@@ -4,6 +4,7 @@
 (3) Zemes dzīļu izmantošanas licenci vai bieži sastopamo derīgo izrakteņu ieguves atļauju tās izsniedzējs atceļ, ja licences vai atļaujas adresāts:
 1) gada laikā no zemes dzīļu izmantošanas licences (izņemot licenci derīgo izrakteņu ieguvei) spēkā stāšanās dienas nav uzsācis zemes dzīļu izmantošanu;
 2) triju gadu laikā no attiecīgās licences vai atļaujas spēkā stāšanās dienas nav uzsācis derīgo izrakteņu ieguvi (izņemot ogļūdeņražu ieguvi);
+2¹) nemaksā zemes īpašniekam šā likuma 12.¹ panta otrajā un piektajā daļā vai 12.² panta otrajā daļā paredzētos maksājumus vai normatīvajos aktos paredzētos nodokļus vai nodevas vai nesniedz šajā likumā noteikto informāciju zemes īpašniekam, vai spēku zaudē šā likuma 12.² panta trešajā daļā minētais finanšu nodrošinājums;
 3) izmanto zemes dzīles tādā veidā, kāds nav noteikts zemes dzīļu izmantošanas licencē;
 4) atkārtoti pārkāpj normatīvo aktu prasības attiecībā uz zemes dzīļu izmantošanu un aizsardzību vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas nosacījumus.
 (4) Valsts vides dienesta lēmumu par zemes dzīļu izmantošanas licences atcelšanu var apstrīdēt Vides pārraudzības valsts birojā. Vides pārraudzības valsts biroja lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.

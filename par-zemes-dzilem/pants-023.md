@@ -6,5 +6,8 @@
 (4) Ģeoloģiskās informācijas sistēmas saturu un izmantošanas noteikumus reglamentē Ministru kabinets.
 (5) Ierobežotas pieejamības informācijas statuss (izņemot šā panta trešajā un sestajā daļā minēto gadījumu) ir ģeoloģiskajai informācijai un paraugiem, kas iegūti:
 1) ogļūdeņražu meklēšanā, izpētē un ieguvē uz sauszemes, - 10 gadus no informācijas nodošanas centram;
-2) ogļūdeņražu meklēšanā, izpētē un ieguvē jūrā, - visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku.
+2) ogļūdeņražu meklēšanā, izpētē un ieguvē jūrā, - visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku;
+3) kristāliskā pamatklintāja iežu ieguvē, - visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku;
+4) kristāliskā pamatklintāja iežu ģeoloģiskajā izpētē, izņemot gadījumus, kad veikta valsts nozīmes ģeoloģiskā izpēte, - visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku.
 (6) Ģeoloģiskajai informācijai, kas nav minēta šā panta piektajā daļā, ierobežotas pieejamības informācijas statuss (izņemot šā panta trešajā daļā minēto gadījumu) ir pieci gadi, ja informācijas īpašnieks to norādījis, nododot valstij ģeoloģisko informāciju.
+(7) Valsts pasūtītajā valsts nozīmes ģeoloģiskajā izpētē iegūtā informācija ir vispārpieejama.

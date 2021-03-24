@@ -1,6 +1,6 @@
 8.pants. Zemes dzīļu izmantotāji
 (1) Zemes dzīles izmanto:
-1) zemes īpašnieks vai tiesiskais valdītājs;
+1) zemes īpašnieks;
 2) zemes īpašnieka pilnvarotā persona;
 3) persona, kas ar zemes īpašnieku vai pilnvaroto personu noslēgusi līgumu, kurā norādīts zemes dzīļu izmantošanas veids. Šis līgums ir obligāts priekšnoteikums zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas saņemšanai. Ja Ministru kabineta noteiktajos gadījumos zemes dzīļu izmantošanas licenci izsniedz zemes dzīļu izmantošanai visā Latvijas Republikas teritorijā, līgumu ar zemes īpašnieku vai pilnvaroto personu noslēdz pirms zemes dzīļu izmantošanas uzsākšanas;
 4) iekšzemes publiskajos ūdeņos - persona, kurai izsniegta zemes dzīļu izmantošanas licence vai dabas resursu lietošanas atļauja;
