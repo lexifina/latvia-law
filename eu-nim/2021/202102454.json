@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2020. gada 15. septembra noteikumi Nr. 576 \"Prasības aizsardzībai pret jonizējošo starojumu, ko izraisa radionuklīda cēzija 137 saturs koksnē, kas ievesta Latvijā no citas valsts\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "181",
+  "official_journal_page": null,
+  "official_journal_date": "2020-09-17",
+  "entry_into_force": "2021-03-31",
+  "notification_date": "2021-04-06",
+  "commission_reference": "MNE(2021)02454",
+  "nim_celex": "72013L0059LVA_202102454",
+  "nim_id": "202102454",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff90e12e-dc6d-4d56-939a-2ddf476b575b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
