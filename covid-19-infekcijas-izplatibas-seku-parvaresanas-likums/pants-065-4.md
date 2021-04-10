@@ -1,0 +1,1 @@
+65.⁴ pants. Bāriņtiesa, aizstāvot bērna personiskās intereses attiecībās ar vecākiem, lemj par šā likuma 63.¹ pantā minētā atbalsta izmaksāšanu pašam bērnam, ja viņš ir sasniedzis 15 gadu vecumu un viņa vecāks nav saņēmis šā likuma 63.¹ pantā minēto atbalstu. Bāriņtiesa nekavējoties informē Valsts sociālās apdrošināšanas aģentūru par saņemto iesniegumu un pieņemto lēmumu.
