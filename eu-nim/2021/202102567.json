@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 8. aprīļa noteikumi Nr. 216 \"Grozījumi Ministru kabineta 2016. gada 28. jūnija noteikumos Nr. 419 \"Noteikumi par informācijas apmaiņas un uzraudzības kārtību Iekšējā tirgus informācijas sistēmas ietvaros, informācijas apmaiņā iesaistīto iestāžu atbildību un Eiropas profesionālās kartes izdošanas kārtību\"\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-11",
+  "entry_into_force": "2021-04-12",
+  "notification_date": "2021-04-12",
+  "commission_reference": "MNE(2021)02567",
+  "nim_celex": "72013L0055LVA_202102567",
+  "nim_id": "202102567",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/be047b96-d43b-44e8-86b4-0338469a3f0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
