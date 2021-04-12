@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 8. aprīļa noteikumi Nr. 219 \"Grozījumi Ministru kabineta 2009. gada 3. novembra noteikumos Nr. 1290 \"Noteikumi par gaisa kvalitāti\"\".",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-11",
+  "entry_into_force": "2021-04-12",
+  "notification_date": "2021-04-14",
+  "commission_reference": "MNE(2021)02636",
+  "nim_celex": "72008L0050LVA_202102636",
+  "nim_id": "202102636",
+  "transposes_celex": [
+    "32008L0050"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14991b6f-6844-4deb-b993-eaa02f742766",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
