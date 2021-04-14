@@ -1,0 +1,9 @@
+13.² pants. Nacionālā krājuma pārvaldība un izmantošana valsts muzejā - atvasinātā publiskā personā - un pašvaldības muzejā - biedrībā (nodibinājumā)
+(1) Valsts vai pašvaldības īpašumā esošs muzeja krājums vai muzeja priekšmets var tikt bez maksas nodots akreditēta valsts muzeja - atvasinātas publiskas personas - vai akreditēta pašvaldības muzeja - biedrības (nodibinājuma) - valdījumā šā likuma 7. pantā noteikto pamatfunkciju un misijas īstenošanai, noslēdzot par to valsts muzeja - atvasinātas publiskas personas - gadījumā deleģējuma līgumu, savukārt pašvaldības muzeja - biedrības (nodibinājuma) - gadījumā administratīvo līgumu (turpmāk - līgums).
+(2) Līgumu par muzeja krājuma vai muzeja priekšmetu nodošanu šā panta pirmajā daļā minētajam muzejam slēdz uz termiņu, kas nepārsniedz attiecīgā muzeja akreditācijas termiņu.
+(3) Līgumā nosaka:
+1) pienākumu komplektēt, dokumentēt, saglabāt valdījumā nodoto muzeja krājumu un nodrošināt tā pieejamību;
+2) ar valdījumā nodoto muzeja krājumu saistītā valsts vai pašvaldības budžeta finansējuma apjomu, izmantošanas mērķi un kārtību, kādā iesniedzams pārskats par saņemtā valsts vai pašvaldības finansējuma izmantošanu;
+3) nodoto muzeja krājuma priekšmetu apjomu, raksturojot to saglabātības pakāpi.
+(4) Valsts muzejs - atvasināta publiska persona - un pašvaldības muzejs - biedrība (nodibinājums) - papildina tā valdījumā esošo muzeja krājumu atbilstoši savai misijai un muzeja krājuma komplektēšanas politikai.
+(5) Ja šā panta pirmajā daļā minētais muzejs izbeidz savu darbību vai tiek reorganizēts, par tam nodotā muzeja krājuma vai muzeja priekšmetu nodošanu valdījumā citam akreditētam muzejam lemj attiecībā uz valsts muzeju - atvasinātu publisku personu - ministrija, kuras institucionālā pārraudzībā ir muzejs, bet attiecībā uz pašvaldības (pašvaldību) muzeju - biedrību (nodibinājumu) - tā dibinātājs, konsultējoties ar Muzeju padomi.
