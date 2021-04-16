@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 8. aprīļa noteikumi Nr. 222 \"Ēku energoefektivitātes aprēķina metodes un ēku energosertifikācijas noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "72",
+  "official_journal_page": null,
+  "official_journal_date": "2021-04-15",
+  "entry_into_force": "2021-04-16",
+  "notification_date": "2025-12-29",
+  "commission_reference": "MNE(2025)07334",
+  "nim_celex": "72023L1791LVA_202507334",
+  "nim_id": "202507334",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bc3659b5-ee41-4702-a1a1-a0a7409e77b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
