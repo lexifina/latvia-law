@@ -1,2 +1,2 @@
 XII nodaļa
-Atbildība par normatīvo aktu pārkāpumiem
+Azartspēļu un izložu organizēšanas licenču darbības apturēšana, anulēšana un azartspēļu pakalpojumu sniegšanas licences anulēšana

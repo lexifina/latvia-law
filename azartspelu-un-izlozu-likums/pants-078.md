@@ -1,2 +1,0 @@
-78.pants. Izsniegtās licences interaktīvo izložu organizēšanai anulēšana
-Izložu un azartspēļu uzraudzības inspekcijai ir tiesības anulēt izsniegto licenci interaktīvo izložu organizēšanai, ja ir iestājies kāds no šā likuma 87.panta pirmajā daļā minētajiem nosacījumiem, kā arī tad, ja interaktīvās izlozes organizētājs savstarpējos norēķinos ar dalībniekiem izmanto kontu vai kontus, par kuriem nav informējis Valsts ieņēmumu dienestu vai Izložu un azartspēļu uzraudzības inspekciju.

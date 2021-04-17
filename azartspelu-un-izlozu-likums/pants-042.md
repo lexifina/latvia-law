@@ -10,3 +10,4 @@
 (7) Šā panta sestajā daļā minētajā gadījumā pašvaldības izsniegtā atļauja atvērt kazino, spēļu zāli, bingo zāli, totalizatoru vai derību likmju pieņemšanas vietu un organizēt attiecīgās azartspēles konkrētajās telpās zaudē spēku pēc pieciem gadiem, skaitot no attiecīgā domes lēmuma spēkā stāšanās dienas.
 (8) Par šā panta sestajā daļā minēto lēmumu pašvaldība paziņo azartspēļu organizatoram un Izložu un azartspēļu uzraudzības inspekcijai.
 (9) Ja pašvaldības dome azartspēļu organizētājam ir atteikusi šajā pantā minētās pašvaldības atļaujas izsniegšanu, bet azartspēļu organizētājs pašvaldības domes lēmumu ir pārsūdzējis un likumīgā spēkā stājies tiesas nolēmums, ar kuru uzdots atļauju izsniegt un pašvaldībai vairs nav jāizdara lietderības apsvērumi, pašvaldība azartspēļu organizētājam izdod attiecīgo pašvaldības atļauju.
+(10) Pašvaldībai ir tiesības izdot saistošos noteikumus, ar kuriem tiek noteiktas vietas un teritorijas, kurās azartspēles nav atļauts organizēt.
