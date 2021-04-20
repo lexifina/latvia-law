@@ -1,0 +1,1 @@
+45. Šā likuma 13. panta sestā daļa attiecināma uz ienākumu, kas no to tiešās līdzdalības akciju atsavināšanas, kuru turēšanas periods atsavināšanas brīdī ir vismaz 36 mēneši, gūts, sākot ar 2022. gada 1. janvāri.
