@@ -11,7 +11,7 @@
 5) par sūdzības par izsoles atzīšanu par spēkā neesošu noraidīšanu, ja šāda sūdzība ir iesniegta.
 (6) Noraidot pieteikumu, tiesa atzīst izsoli par spēkā neesošu.
 (7) Pēc ieguvēja lūguma tiesa lemj par viņa ievešanu iegūtā nekustamā īpašuma valdījumā.
-(8) Pēc tās bankas lūguma, kuras izsniegtā pieprasījuma garantijas vēstule izmantota pirkuma summas samaksai, tiesa lemj par ķīlas tiesības nodibināšanu uz pārdoto nekustamo īpašumu.
+(8) Apmierinot pieteikumu par izsoles akta apstiprināšanu un nekustamā īpašuma nostiprināšanu uz ieguvēja vārda gadījumos, kad pirkuma summas samaksai izmantota kredītiestādes pieprasījuma garantijas vēstule, tiesa uz kredītiestādes lūguma pamata vienlaikus ar nekustamā īpašuma nostiprināšanu uz ieguvēja vārda nostiprina arī hipotēku par labu kredītiestādei, kas izsniegusi attiecīgo garantiju.
 (9) Lēmumu, ar kuru apstiprināts izsoles akts vai apmierināts pieteikums par nekustamā īpašuma nostiprināšanu uz nosolītāja, līdzīpašnieka vai kreditora vārda (615. panta piektā daļa), kā arī lēmumu par ieguvēja ievešanu nekustamā īpašuma valdījumā tiesa sastāda rezolūcijas veidā, izņemot gadījumu, kad lietā iesniegta sūdzība par izsoles atzīšanu par spēkā neesošu.
 (10) Par tiesas lēmumu var iesniegt blakus sūdzību apgabaltiesā.
 (11) Pēc tam, kad stājies spēkā tiesas lēmums, ar kuru apmierināts pieteikums par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda, tiesu izpildītājs šā likuma 611.panta otrās daļas 4.punktā vai 615.panta ceturtās daļas 2.punktā minēto valsts un kancelejas nodevu, kāda normatīvajos aktos noteikta īpašuma tiesību nostiprināšanai zemesgrāmatā, iemaksā valsts budžetā un paziņo par to ieguvējam un attiecīgajai rajona (pilsētas) tiesai.

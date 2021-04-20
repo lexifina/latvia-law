@@ -1,0 +1,2 @@
+43.³ pants. Tiesas izdevumu un drošības naudas iemaksāšana neatbilstošā valsts budžeta kontā
+Ja tiesas izdevumi vai drošības nauda ir iemaksāta neatbilstošā Tiesu administrācijas, Valsts ieņēmumu dienesta vai Augstākās tiesas kontā Valsts kasē, tad šos tiesas izdevumus un drošības naudu Tiesu administrācija, Valsts ieņēmumu dienests vai Augstākā tiesa pārskaita atbilstošā kontā, pamatojoties uz tā tiesneša lēmumu rezolūcijas veidā, kurš to ir konstatējis.

@@ -10,4 +10,4 @@
 7¹) ar lietas izskatīšanu saistītie izdevumi, kas radušies sakarā ar tiesu izpildītāja pieteikuma par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda iesniegšanu tiesā;
 8) citi piespiedu izpildes darbību veikšanai nepieciešamie izdevumi.
 (2) (Izslēgta no 01.01.2012. ar 31.10.2002. likumu)
-(3) Nosakot ar prasības nodrošināšanu saistītos izdevumus, piemērojami noteikumi par sprieduma izpildes izdevumiem, ciktāl šīs darbības veicis tiesu izpildītājs.
+(3) Nosakot ar prasības nodrošināšanu vai pagaidu aizsardzību saistītos izdevumus, piemērojami noteikumi par sprieduma izpildes izdevumiem, ciktāl šīs darbības veicis tiesu izpildītājs.

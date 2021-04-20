@@ -11,6 +11,7 @@
 9) ja izpildu lietā, kas izriet no aizgādības un saskarsmes tiesībām, piedzinējs atkārtoti neierodas tiesu izpildītāja noteiktajā laikā, lai saņemtu vai satiktos ar bērnu;
 10) ja parādniekam saistībā ar nolēmumu nepildīšanu lietā, kas izriet no aizgādības vai saskarsmes tiesībām, pārtrauktas aizgādības tiesības;
 11) ja tiesu izpildītājs saskaņā ar šā likuma 620.²⁷ pantu konstatē, ka nolēmuma izpilde nav iespējama.
+12) ja parādnieks ir miris un gada laikā no izpildu lietvedības apturēšanas nav uzsākta viņa mantojuma lieta.
 (2) Šā panta pirmās daļas 2., 3. un 4.punktā minētajos gadījumos tiesu izpildītājs sastāda attiecīgu aktu.
 (2¹) Ja izpildu lietā par periodisku maksājumu piedziņu pilnībā tiek segts parāds un sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.
 (2²) Ja izpildu lietā, kas izriet no saskarsmes tiesībām, tiesu izpildītājs konstatējis, ka tiesas nolēmums tiek pildīts, kā arī ir segti sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.

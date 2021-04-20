@@ -1,0 +1,1 @@
+165. Ministru kabinets līdz 2021. gada 30. jūnijam izdod noteikumus par tiesas noteiktā pagaidu aizsardzības līdzekļa - pienākums atbildētājam apgūt sociālās rehabilitācijas kursu vardarbīgas uzvedības mazināšanai - apjomu, saņemšanas, apmaksas un izpildes, pārtraukšanas un izbeigšanas kārtību.

@@ -1,3 +1,2 @@
-74.nodaļa
-Tiesas piespriestās mantas piespiedu nodošana un
-ar tiesas spriedumu uzlikto darbību izpildīšana
+74. nodaļa
+Tiesas piespriestās mantas piespiedu nodošana un ar tiesas nolēmumu uzlikto darbību izpildīšana

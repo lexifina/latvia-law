@@ -4,7 +4,7 @@
 2) aizlieguma atzīmes ierakstīšana attiecīgās kustamas mantas reģistrā vai citā publiskā reģistrā;
 3) prasības nodrošināšanas atzīmes ierakstīšana zemesgrāmatā vai kuģu reģistrā;
 4) kuģa arests;
-5) aizliegums atbildētājam veikt noteiktas darbības;
+5) aizliegums atbildētājam veikt noteiktas darbības vai pienākums atbildētājam noteiktā termiņā veikt noteiktas darbības;
 6) to maksājumu apķīlāšana, kuri pienākas no trešajām personām, tajā skaitā naudas līdzekļi kredītiestādēs un citās finanšu institūcijās;
 7) izpildu darbības atlikšana (arī aizliegums tiesu izpildītājam nodot naudu vai mantu piedzinējam vai parādniekam vai mantas pārdošanas apturēšana).
 (2) Nodrošinot prasību ar aizlieguma atzīmes ierakstīšanu attiecīgās kustamas mantas reģistrā vai citā publiskā reģistrā, lēmumā norāda, kāda veida aizliegums ierakstāms.

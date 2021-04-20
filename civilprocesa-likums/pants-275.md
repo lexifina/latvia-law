@@ -1,9 +1,4 @@
 275.pants. Tiesas spriedums
 (1) Ja tiesa atzinusi, ka persona, izlaidīgi vai izšķērdīgi dzīvojot vai pārmērīgi lietojot alkoholu vai citas apreibinošās vielas, draud novest sevi vai savu ģimeni trūkumā vai nabadzībā, tiesa ar spriedumu atņem šai personai tiesības pārvaldīt savu mantu, ierobežo tās rīcību rīkoties ar šo mantu un nodibina attiecīgajai personai aizgādnību. Ja tiesa, pamatojoties uz pierādījumiem, konstatē, ka personai ierobežojama rīcībspēja, tā taisa spriedumu, kurā norāda rīcībspējas ierobežojumu un aizgādņa kopīgu rīcību ar aizgādnībā esošo vai aizgādņa patstāvīgu rīcību.
 (2) Pēc sprieduma stāšanās likumīgā spēkā tiesa tā norakstu nosūta bāriņtiesai - aizgādņa iecelšanai, kā arī prokuroram un personai, kuras rīcībspēja ierobežota. Tiesa nosūta informāciju par spriedumu arī Iedzīvotāju reģistram un, ja nepieciešams, sprieduma norakstu atzīmes ierakstīšanai zemesgrāmatā, kustamas mantas reģistrā vai citā attiecīgā publiskā reģistrā.
-(3) Pēc sprieduma stāšanās likumīgā spēkā tiesa nosūta publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, kurā norāda:
-1) tās tiesas nosaukumu, kura taisījusi spriedumu;
-2) tās personas vārdu, uzvārdu un personas kodu, attiecībā uz kuru taisīts spriedums;
-3) to, ka šī persona atzīta par personu ar rīcībspējas ierobežojumu;
-4) sprieduma rezolutīvo daļu;
-5) sprieduma spēkā stāšanās dienu.
+(3) (Izslēgta ar 25.03.2021. likumu)

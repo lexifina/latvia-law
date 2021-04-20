@@ -1,5 +1,5 @@
 33.pants. Tiesāšanās izdevumi
-(1) Tiesāšanās izdevumi ir tiesas izdevumi un ar lietas vešanu saistītie izdevumi.
+(1) Tiesāšanās izdevumi ir tiesas izdevumi, drošības nauda un ar lietas vešanu saistītie izdevumi.
 (2) Tiesas izdevumi ir:
 1) valsts nodeva;
 2) kancelejas nodeva;
