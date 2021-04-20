@@ -1,3 +1,3 @@
 58. pants. Braukšanas kārtības krustojumos pārkāpšana
-(1) Par ceļa nedošanu gājējiem vai transportlīdzekļu vadītājiem, kuriem ir priekšroka, piemēro naudas sodu velosipēda vadītājam no divām līdz sešām naudas soda vienībām, bet cita transportlīdzekļa vadītājam - no trim līdz četrpadsmit naudas soda vienībām.
+(1) Par ceļa nedošanu gājējiem vai transportlīdzekļu vadītājiem, kuriem ir priekšroka, piemēro naudas sodu velosipēda vai elektroskrejriteņa vadītājam no divām līdz sešām naudas soda vienībām, bet cita transportlīdzekļa vadītājam - no trim līdz četrpadsmit naudas soda vienībām.
 (2) Par iebraukšanu krustojumā vai brauktuvju krustošanās vietā, ja izveidojies sastrēgums, kas vadītāju piespiež apturēt transportlīdzekli krustojumā vai brauktuvju krustošanās vietā un traucē braukt citiem transportlīdzekļiem, piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.

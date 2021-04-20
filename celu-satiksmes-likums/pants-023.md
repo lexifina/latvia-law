@@ -4,7 +4,7 @@
 2) A1 - motocikli, kuru motora darba tilpums nepārsniedz 125 kubikcentimetrus, jauda nepārsniedz 11 kilovatus un jaudas attiecība pret svaru nepārsniedz 0,1 kilovatu uz kilogramu, kā arī tricikli, kuru jauda nepārsniedz 15 kilovatus;
 3) A2 - motocikli, kuru jauda nepārsniedz 35 kilovatus, jaudas attiecība pret svaru nepārsniedz 0,2 kilovatus uz kilogramu un kuri nav atvasināti no transportlīdzekļiem, kuru jauda ir vairāk nekā divas reizes lielāka;
 4) A - motocikli, kā arī tādi tricikli, kuru jauda pārsniedz 15 kilovatus;
-5) B1 - kvadricikli;
+5) B1 - kvadricikli, kuru jauda nepārsniedz 15 kilovatus;
 6) B - mehāniskie transportlīdzekļi, izņemot A kategorijas motociklus, kuru pilna masa nepārsniedz 3500 kilogramus un kuri ir konstruēti un paredzēti ne vairāk kā astoņu pasažieru pārvadāšanai, neskaitot vadītāju, kā arī šādas kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz 750 kilogramus. Ir atļauts arī šīs kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz 750 kilogramus, ja šā savienojuma pilna masa nepārsniedz 4250 kilogramus;
 7) C1 - mehāniskie transportlīdzekļi, kuri neietilpst D1 vai D kategorijā, kuru pilna masa pārsniedz 3500 kilogramus, bet nepārsniedz 7500 kilogramus un kuri ir konstruēti un paredzēti ne vairāk kā astoņu pasažieru pārvadāšanai, neskaitot vadītāju, kā arī šādas kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz 750 kilogramus;
 8) C - mehāniskie transportlīdzekļi, kuri neietilpst D1 vai D kategorijā, kuru pilna masa pārsniedz 3500 kilogramus un kuri ir konstruēti un paredzēti ne vairāk kā astoņu pasažieru pārvadāšanai, neskaitot vadītāju, kā arī šādas kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz 750 kilogramus;

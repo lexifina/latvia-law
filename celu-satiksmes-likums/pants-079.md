@@ -7,5 +7,6 @@
 (6) Par tādu bērnu pārvadāšanu, kuru augums nepārsniedz 150 cm, ja:
 1) bērns atrodas vieglā automobiļa priekšējā sēdeklī, kas nav aprīkots ar drošības jostu;
 2) transportlīdzeklī, kas aprīkots ar drošības jostām, bērns neatrodas viņa vecumam un svaram piemērotā bērnu sēdeklītī vai uz paliktņa, kas uzstādīts atbilstoši tā izgatavotāja norādījumiem, un nav piesprādzēts ar drošības jostu;
-3) bērns tiek pārvadāts ar divriteņu mopēdu, motociklu, triciklu, kvadriciklu vai sniega motociklu, izņemot gadījumu, kad bērns var noturēt līdzsvaru un aizsniegt kāju atbalstus vai sēž viņa vecumam un svaram atbilstošā sēdeklītī, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
+3) bērns tiek pārvadāts ar divriteņu mopēdu, motociklu, triciklu, kvadriciklu vai sniega motociklu, izņemot gadījumu, kad bērns var noturēt līdzsvaru un aizsniegt kāju atbalstus vai sēž viņa vecumam un svaram atbilstošā sēdeklītī, -
+piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
 (7) Par starptautisko pasažieru pārvadājumu veikšanu, pārkāpjot noteikumus, kas ietverti starptautiskajos līgumos par pasažieru pārvadājumiem, piemēro naudas sodu transportlīdzekļa vadītājam no četrpadsmit līdz divdesmit astoņām naudas soda vienībām.

@@ -1,2 +1,2 @@
-68. pants. Velosipēdu vadītājiem noteikto papildu prasību pārkāpšana
-Par to noteikumu pārkāpšanu, kuri paredz papildu prasības velosipēdu vadītājiem, piemēro brīdinājumu vai naudas sodu velosipēda vadītājam no divām līdz sešām naudas soda vienībām.
+68. pants. Velosipēdu vai elektroskrejriteņu vadītājiem noteikto papildu prasību pārkāpšana
+Par to noteikumu pārkāpšanu, kuri paredz papildu prasības velosipēdu vai elektroskrejriteņu vadītājiem, piemēro brīdinājumu vai naudas sodu velosipēda vai elektroskrejriteņa vadītājam no divām līdz sešām naudas soda vienībām.

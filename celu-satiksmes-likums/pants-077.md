@@ -1,3 +1,3 @@
 77. pants. Norādījuma ceļa zīmju prasību pārkāpšana
-(1) Par tās prasības neizpildīšanu, kura noteikta ar 513., 514., 515., 516., 517. vai 518. ceļa zīmi, piemēro naudas sodu velosipēda vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - sešu naudas soda vienību apmērā.
-(2) Par tās prasības neizpildīšanu, kura noteikta ar 501., 503. vai 504. ceļa zīmi (par braukšanu pretējā virzienā pa vienvirziena ceļu), piemēro naudas sodu velosipēda vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - vienpadsmit naudas soda vienību apmērā.
+(1) Par tās prasības neizpildīšanu, kura noteikta ar 513., 514., 515., 516., 517. vai 518. ceļa zīmi, piemēro naudas sodu velosipēda vai elektroskrejriteņa vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - sešu naudas soda vienību apmērā.
+(2) Par tās prasības neizpildīšanu, kura noteikta ar 501., 503. vai 504. ceļa zīmi (par braukšanu pretējā virzienā pa vienvirziena ceļu), piemēro naudas sodu velosipēda vai elektroskrejriteņa vadītājam divu naudas soda vienību apmērā, bet cita transportlīdzekļa vadītājam - vienpadsmit naudas soda vienību apmērā.

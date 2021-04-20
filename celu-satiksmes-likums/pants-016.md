@@ -15,7 +15,8 @@
 1) tramvaju, trolejbusu un specializēto tūristu transportlīdzekļu tehniskā stāvokļa kontroli, ko nodrošina pašvaldības. Pašvaldības dome izdod noteikumus, kuros nosaka attiecīgās kontroles institūcijas, to kompetenci un tehniskā stāvokļa kontroles īstenošanas kārtību;
 2) mopēdiem un bezceļu transportlīdzekļiem, kas īslaicīgi piedalās ceļu satiksmē;
 3) transportlīdzekļiem, kas reģistrēti ārvalstīs un kas ceļu satiksmē piedalās ar tranzīta numura zīmēm;
-4) speciālo militāro tehniku.
+4) speciālo militāro tehniku;
+5) transportlīdzekļiem, kurus tirdzniecības uzņēmums (komersants) aprīkojis ar tirdzniecības numura zīmēm un izmanto ceļu satiksmē normatīvajos aktos par transportlīdzekļu tirdzniecību noteiktajā kārtībā.
 (6³) Ja, veicot transportlīdzekļa tehnisko kontroli uz ceļiem, tiek konstatēta transportlīdzekļa tehniskā stāvokļa neatbilstība normatīvo aktu prasībām, attiecīgā atļauja piedalīties ceļu satiksmē šā panta septītajā daļā minētajos Ministru kabineta noteikumos paredzētajos gadījumos un noteiktajā kārtībā tiek anulēta.
 (7) Kārtību, kādā tiek veikta transportlīdzekļu valsts tehniskā apskate un transportlīdzekļu tehniskā kontrole uz ceļiem, nosaka Ministru kabinets. Prasības attiecībā uz transportlīdzekļu tehnisko stāvokli, kā arī šo prasību izpildes novērtēšanas kritērijus nosaka Ministru kabinets.
 (8) Lēmuma par atļauju piedalīties ceļu satiksmē apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
