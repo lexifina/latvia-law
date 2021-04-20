@@ -1,3 +1,3 @@
 23.pants. Papildinājumi laulības reģistrā
-(1) Laulības reģistra ierakstu papildina ar ziņām par laulības šķiršanu, laulības atzīšanu par neesošu, laulātā vārda, uzvārda, tautības ieraksta, personas koda, valstiskās piederības vai dzimuma maiņu.
+(1) Laulības reģistra ierakstu papildina ar ziņām par laulības šķiršanu, laulības atzīšanu par neesošu, laulātā tautības ieraksta, personas koda vai valstiskās piederības maiņu.
 (2) Laulības reģistra ierakstu papildina, pamatojoties uz tiesas spriedumu, ārvalsts tiesas sprieduma norakstu, kas atbilst nosacījumiem, pēc kuriem var konstatēt tā autentiskumu, kā arī uz Padomes regulas (EK) Nr. 2201/2003 par jurisdikciju un sprieduma atzīšanu un izpildi laulības lietās un lietās par vecāku atbildību un par regulas (EK) Nr. 1347/2000 atcelšanu 39.pantā minēto apliecību, pievienojot normatīvos aktos noteiktajā kārtībā apliecinātu attiecīgo dokumentu tulkojumu valsts valodā, un uz notāra paziņojumu par laulības šķiršanu.
