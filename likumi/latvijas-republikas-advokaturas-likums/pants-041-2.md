@@ -1,2 +1,2 @@
-41.² Advokāta eksāmena maksu nosaka Ministru kabinets. Iemaksāto eksāmena naudu izmaksā kā atlīdzību eksāmena komisijas locekļiem un izlieto eksāmena organizēšanas izdevumu segšanai.
-Zvērināta advokāta eksāmena kārtību un jomas, kurās tiek pārbaudītas zvērināta advokāta amata pretendenta zināšanas un prasmes, kā arī to vērtēšanas kārtību nosaka Ministru kabinets.
+41.² Zvērināta advokāta eksāmena maksas apmēru, arī ja persona daļēji atbrīvojama no tā kārtošanas, nosaka Ministru kabinets. No zvērināta advokāta eksāmena maksas sedz ar eksāmena organizēšanu saistītos izdevumus un izmaksā atlīdzību eksāmena komisijas locekļiem.
+Zvērināta advokāta eksāmena kārtību un jomas, kurās tiek pārbaudītas zvērināta advokāta amata pretendenta zināšanas un prasmes, arī ja persona daļēji atbrīvojama no tā kārtošanas, kā arī zvērināta advokāta eksāmena vērtēšanas kārtību nosaka Ministru kabinets.
