@@ -17,4 +17,4 @@
 4) pedagogu prēmijām un naudas balvām un izglītojamo materiālajai stimulēšanai, un pedagogu, kas īsteno profesionālās pamatizglītības, profesionālās vidējās izglītības vai profesionālās ievirzes izglītības programmas sportā, mūzikā un mākslā valsts vai pašvaldību izglītības iestādēs, darba samaksai.
 (8) Valsts un pašvaldības izglītības iestāžu sniegto maksas pakalpojumu un citu pašu ieņēmumu naudas atlikumi saimnieciskā gada beigās paliek attiecīgās valsts vai pašvaldības izglītības iestādes rīcībā nākamajam saimnieciskajam gadam, un tie nav novirzāmi citiem mērķiem.
 (9) Augstskolu un koledžu finansēšanas kārtību nosaka Augstskolu likums.
-(10) (Desmitā daļa stājas spēkā 01.09.2021. un iekļauta likuma redakcijā uz 01.09.2021. Sk. Pārejas noteikumu 78. punktu)
+(10) (Desmitā daļa stājas spēkā 01.09.2022. un iekļauta likuma redakcijā uz 01.09.2022. Sk. Pārejas noteikumu 78. punktu)

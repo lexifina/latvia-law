@@ -33,7 +33,7 @@ Ministru kabinets:
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
-24¹) (punkts stājas spēkā 01.09.2021. un iekļauts likuma redakcijā uz 01.09.2021. Sk. Pārejas noteikumu 78. punktu);
+24¹) (punkts stājas spēkā 01.09.2022. un iekļauts likuma redakcijā uz 01.09.2022. Sk. Pārejas noteikumu 78. punktu);
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
@@ -50,7 +50,7 @@ Ministru kabinets:
 37) nosaka pedagogu profesionālās darbības kvalitātes novērtēšanas virzienus, pedagogu profesionālās darbības kvalitātes pakāpju aprakstu un kārtību, kādā organizē pedagogu profesionālās darbības kvalitātes novērtēšanu;
 38) nosaka izglītojamo audzināšanas, arī valstiskās un tikumiskās audzināšanas, vadlīnijas izglītības iestādēs, izņemot augstskolas, tajā skaitā reglamentē Latvijas valsts simbolu - valsts karoga, valsts himnas un valsts ģerboņa - lietošanas noteikumus izglītības iestādē un tās rīkotajos pasākumos neatkarīgi no izglītības iestādes juridiskā statusa, ņemot vērā normatīvo aktu prasības. Izglītības iestāde drīkst lietot lielo valsts ģerboni valstiskās audzināšanas ietvaros. Ministru kabinets nosaka pasākumus, kādi rīkojami valsts svētku atzīmēšanai izglītības iestādēs, izņemot augstskolas;
 39) nosaka kārtību, kādā izvērtējama informācijas, tajā skaitā mācību līdzekļu un materiālu, kā arī mācību un audzināšanas metožu atbilstība šā likuma mērķī ietvertās izglītojamā tikumiskās attīstības nodrošināšanai, kā arī šīs izvērtēšanas kritērijus;
-40) nosaka kārtību, kādā piešķir valsts sociālo atbalstu tiem vispārējās pamatizglītības un vispārējās vidējās izglītības programmu īstenošanā iesaistītajiem pedagogiem, kuri pašvaldības vispārējās izglītības iestādes reorganizācijas vai likvidācijas gadījumā zaudē pedagoga darbu, kā arī nosaka institūciju, kas administrē valsts sociālā atbalsta izmaksu un tās pārtraukšanu;
+40) (zaudējis spēku ar 01.01.2021. Sk. Pārejas noteikumu 62. punktu);
 41) nosaka kvalitātes kritērijus minimāli pieļaujamo izglītojamo skaitu un kritērijus maksimāli pieļaujamā izglītojamo skaita noteikšanai klasē vai klašu grupā vidējās izglītības pakāpē pašvaldību, valsts augstskolu un privātajās vispārējās izglītības iestādēs. Minētos kritērijus izglītības iestādes dibinātājs ņem vērā, nosakot maksimāli pieļaujamo izglītojamo skaitu klasē vai klašu grupā;
 42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā minimāli pieļaujamo izglītojamo skaitu vidējās izglītības pakāpē, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītības iestāde neatbilst Ministru kabineta noteiktajiem kvalitātes kritērijiem;
 43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā;
