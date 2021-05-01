@@ -6,7 +6,7 @@ Likumā ir lietoti šādi termini:
 4) arhīvs:
 a) dokumentu kopums, ko neatkarīgi no dokumentu rašanās datuma, formas, vides un informācijas nesēja uzkrāj, glabā un izmanto to arhīviskās vērtības dēļ,
 b) publisko vai privāto tiesību juridiskā persona vai tās struktūrvienība, kura likumā noteiktajā kārtībā veic arhīva dokumentu uzkrāšanu, saglabāšanu un nodrošina to pieejamību;
-5) depozitārā glabāšana - nacionālajā dokumentārajā mantojumā iekļautu privātpersonu dokumentu terminēta glabāšana Latvijas Nacionālajā arhīvā;
+5) depozitārā glabāšana - privātpersonu vai institūciju dokumentu ar arhīvisko vērtību terminēta glabāšana Latvijas Nacionālajā arhīvā;
 6) dokumenta iznīcināšana - neatgriezeniska informācijas vai tās nesēja likvidēšana;
 7) dokumenta izvērtēšana - dokumentu kopuma vai dokumenta analīze, kas veicama, ievērojot šā likuma prasības, lai noteiktu, vai dokumentam ir arhīviskā vērtība, un dokumenta glabāšanas termiņu;
 8) dokuments - informācija, kas radusies, saņemta vai pārvērsta citā formā uz jebkura informācijas nesēja, ierosinot, turpinot, mainot vai izbeidzot kādu darbību, un kas apliecina šo darbību;
@@ -14,7 +14,7 @@ b) publisko vai privāto tiesību juridiskā persona vai tās struktūrvienība,
 10) dokumentu pārvaldība - vadības joma, kas nodrošina publisku dokumentu radīšanu, saņemšanu, reģistrēšanu, klasifikāciju, sistematizāciju, izvērtēšanu, kontroli, glabāšanu un pieejamību līdz nodošanai glabāšanā institūcijas arhīvā, kā arī to dokumentu iznīcināšanu, kuriem nav arhīviskās vērtības;
 11) dokumentu pieejamība - normatīvajos aktos noteiktas tiesības, kā arī uzziņu sistēmas nodrošinātas iespējas un līdzekļi informācijas meklēšanai, ieguvei un izmantošanai;
 12) dokumentu saglabāšana - procesi un darbības dokumentu tehniskai un intelektuālai saglabāšanai, tai skaitā preventīvā aizsardzība, konservācija un pārnešana uz jauna informācijas nesēja;
-13) dokumentu sistēma - strukturizēts datu kopums, kas satur datus par publisko dokumentu radīšanu, saņemšanu, reģistrēšanu, glabāšanu, izmantošanu un iznīcināšanu;
+13) (izslēgts ar 25.03.2021. likumu);
 14) dokumentu uzkrāšana - mērķtiecīga arhīva dokumentu kopuma papildināšana;
 15) iegūts dokuments - šajā likumā noteiktajā kārtībā elektroniskā formā pārvērsts dokuments glabāšanai elektroniskā vidē;
 16) institūcija - ikviena institūcija vai privātpersona, kurai ar ārēju normatīvo aktu vai publisko tiesību līgumu noteiktas valsts varas pilnvaras (tai skaitā Valsts prezidents, Saeima, Ministru kabinets, Valsts kontrole, tiesībsargs, Latvijas Banka, pašvaldība un cita atvasināta publisko tiesību juridiskā persona, tiešās vai pastarpinātās pārvaldes iestāde, Centrālā zemes komisija, Centrālā vēlēšanu komisija, prokuratūra, tiesa, notārs, tiesu izpildītājs), kapitālsabiedrība, kurā publiskai personai pieder kapitāla daļas vai akcijas, vienas vai vairāku publisku personu kapitālsabiedrības izšķirošajā ietekmē esoša kapitālsabiedrība, kā arī biedrība vai nodibinājums, kurā publiska persona ir biedrs vai dibinātājs;

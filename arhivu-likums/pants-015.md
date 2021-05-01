@@ -6,7 +6,8 @@
 2) nododot dokumentus citai institūcijai, institūcijas vadītājs rakstveidā saskaņo ar Latvijas Nacionālo arhīvu šo dokumentu turpmākās glabāšanas vietu;
 3) nododot privātos dokumentus citas personas īpašumā vai valdījumā, šo dokumentu īpašnieks rakstveidā par to informē Latvijas Nacionālo arhīvu;
 4) privāto dokumentu kopums nav dalāms; aizliegts atsavināt privāto dokumentu kopuma atsevišķus dokumentus;
-5) privātais dokuments ir pieejams un izmantojams, ja šā likuma 14.panta otrajā daļā minētajā līgumā nav noteikts citādi.
+5) privātais dokuments ir pieejams un izmantojams, ja šā likuma 14.panta otrajā daļā minētajā līgumā nav noteikts citādi;
+6) aizliegts labot personas datus arhīva dokumentos.
 (4) Latvijas Nacionālais arhīvs var sniegt palīdzību nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma sakārtošanā, kā arī piešķirt budžeta līdzekļus nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai.
 (5) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta īpašnieks atsavina attiecīgo privāto dokumentu kopumu vai privāto dokumentu, Latvijas Nacionālajam arhīvam ir pirmpirkuma tiesības vai tiesības izgatavot dokumentu kopijas. Atsavināšanas gadījumā īpašnieks atlīdzina atsavināmā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai piešķirtos budžeta līdzekļus.
 (6) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšana ir apdraudēta vai ir redzamas bojājuma pazīmes, Latvijas Nacionālais arhīvs ir tiesīgs noteikt šā dokumentu kopuma vai dokumenta īpašniekam saistošus dokumentu kopuma vai dokumenta saglabāšanas pasākumus vai izteikt priekšlikumu par privāto dokumentu kopuma vai privātā dokumenta atsavināšanu pret atlīdzību.

@@ -10,4 +10,5 @@
 2) dokumentam ir būtiski bojājumi un to nav iespējams atjaunot vai izmantot;
 3) tiek atrasti vairāki dokumenta eksemplāri vai beidzas dokumenta glabāšanas termiņš;
 4) izvērtēšanas rezultātā ir secināts, ka dokuments zaudējis arhīvisko vērtību;
-5) privātā dokumenta īpašnieks atsavina sev piederošu privāto dokumentu, izņemot gadījumu, kad saskaņā ar šā likuma 15.panta piekto daļu Latvijas Nacionālais arhīvs izmanto pirmpirkuma tiesības uz atsavināmo dokumentu vai beidzies privātā dokumenta īpašnieka un Latvijas Nacionālā arhīva noslēgtā līguma termiņš.
+5) privātā dokumenta īpašnieks atsavina sev piederošu privāto dokumentu, izņemot gadījumu, kad saskaņā ar šā likuma 15.panta piekto daļu Latvijas Nacionālais arhīvs izmanto pirmpirkuma tiesības uz atsavināmo dokumentu vai beidzies privātā dokumenta īpašnieka un Latvijas Nacionālā arhīva noslēgtā līguma termiņš;
+6) konstatēts, ka dokuments ir iegūts prettiesiskā ceļā.
