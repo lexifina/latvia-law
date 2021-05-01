@@ -6,7 +6,7 @@
 (2³) Pašvaldība, sedzot pirmsskolas izglītības programmas izmaksas šā panta 2.¹ daļā noteiktajos gadījumos, turpina segt šīs izmaksas privātajai izglītības iestādei, ja izglītojamam rakstveidā piedāvāta vieta pašvaldības izglītības iestādē, kurā viņš ir reģistrēts uzņemšanai, bet šā izglītojamā likumīgais pārstāvis no piedāvātās vietas ir atteicies un izglītojamais turpina apgūt pirmsskolas izglītības programmu privātajā izglītības iestādē.
 (2⁴) Pašvaldība saistošajos noteikumos nosaka kārtību, kādā tā nodrošina šā panta 2.¹ un 2.³ daļā noteikto izmaksu segšanu, kā arī nosacījumus lielāka atbalsta apjoma noteikšanai atbilstoši pašvaldības budžeta iespējām.
 (2⁵) (Izslēgta ar 23.11.2020. likumu)
-(3) Republikas pilsētas pašvaldība un novada pašvaldība:
+(3) Pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē vispārējās izglītības iestādes, tai skaitā speciālās izglītības iestādes un klases, kā arī pirmsskolas izglītības grupas bērniem ar speciālām vajadzībām un interešu izglītības iestādes, bet, saskaņojot ar attiecīgās nozares ministriju un Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē profesionālās ievirzes izglītības iestādes;
 2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā speciālo izglītības iestāžu, profesionālās izglītības iestāžu, interešu izglītības iestāžu, profesionālās ievirzes izglītības iestāžu sportā vadītājus, saskaņojot ar Izglītības un zinātnes ministriju, bet profesionālās ievirzes izglītības iestāžu mākslā vai kultūrā vadītājus - saskaņojot ar attiecīgās nozares ministriju;
 3) nosaka kārtību, kādā tās padotībā esošās izglītības iestādes finansējamas no budžeta;
