@@ -1,0 +1,1 @@
+58. Šo pārejas noteikumu 48. punkta 3. un 4. apakšpunktā norādītos studiju virzienus un licencētās studiju programmas Eiropas Savienības oficiālajās valodās augstskolas un koledžas pēc 2021. gada 1. maija turpina īstenot līdz akreditācijas lēmumā norādītajam termiņam.

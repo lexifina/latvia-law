@@ -1,0 +1,1 @@
+56. Grozījumi šā likuma 58. pantā, kas paredz valodu lietojumu, kārtojot profesionālās kvalifikācijas eksāmenus, kā arī izstrādājot un aizstāvot bakalaura, maģistra un doktora grāda iegūšanai nepieciešamos darbus un diplomdarbus, stājas spēkā vienlaikus ar grozījumiem Izglītības likuma 9. pantā par šā panta ceturtās un piektās daļas izslēgšanu.
