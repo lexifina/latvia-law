@@ -9,7 +9,7 @@
 7) pie Ģenerālprokuratūras un Tiesībsarga biroja ēkas;
 8) pie Nacionālo bruņoto spēku Apvienotā štāba ēkas;
 9) pie Latvijas Bankas centrālās ēkas un pie Latvijas Bankas filiāļu ēkām;
-10) pie republikas pilsētu un novadu domju ēkām;
+10) pie pašvaldību domju ēkām;
 11) robežšķērsošanas vietās;
 11¹) vietās, kur valsts galvenie autoceļi šķērso iekšējo robežu;
 12) pie Latvijas diplomātisko un konsulāro pārstāvniecību ēkām, ja tas ir tehniski iespējams un nav pretrunā ar uzņemošās valsts normatīvajiem aktiem un diplomātiskā protokola tradīcijām;
