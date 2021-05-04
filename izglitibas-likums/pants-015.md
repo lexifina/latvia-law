@@ -20,6 +20,11 @@ Izglītības un zinātnes ministrija:
 16) (izslēgts ar 04.03.2010. likumu);
 17) organizē elektronisko mācību resursu un izglītības standartiem atbilstošu mācību līdzekļu izstrādi;
 18) kontrolē valsts finansēto izglītības iestāžu mācību procesa rezultātus, izstrādā un īsteno pasākumus mācību procesa kvalitātes uzlabošanai;
+18¹) plāno, izvirza un pilnveido izglītības kvalitātes mērķus, ietverot tos izglītības attīstības pamatnostādnēs un rīcības plānos, kā arī veido izglītības kvalitātes nodrošināšanas un monitoringa politiku;
+18²) veic izglītības kvalitātes monitoringu, apkopo un uzkrāj datus par izglītības kvalitāti, analizē un novērtē izglītības iestāžu sniegumu, koordinē un organizē pētniecību, informē par rezultātiem;
+18³) identificē un novērtē riskus, izstrādā un apstiprina izglītības kvalitātes pilnveides vadlīnijas;
+18⁴) ievieš un attīsta izglītības kvalitātes vērtēšanas un analīzes digitālos rīkus;
+18⁵) sagatavo ikgadēju izglītības kvalitātes novērtējuma ziņojumu un iesniedz to apstiprināšanai Ministru kabinetam. Ziņojumā ietver visu izglītības pakāpju un pieaugušo izglītības procesa, satura, vides un pārvaldības kvalitātes izvērtējumu;
 19) (izslēgts ar 04.03.2010. likumu);
 20) (izslēgts ar 11.05.2000. likumu);
 21) (izslēgts ar 15.03.2012. likumu);
@@ -27,6 +32,6 @@ Izglītības un zinātnes ministrija:
 23) iesniedz Ministru kabinetam priekšlikumus par valsts izglītības iestāžu un izglītības atbalsta iestāžu dibināšanu, reorganizēšanu vai likvidēšanu, saskaņojot ar attiecīgajām pašvaldībām;
 24) (izslēgts no 01.09.2018. ar 18.06.2015. likumu. Sk. Pārejas noteikumu 43.punktu);
 25) pieņem darbā un atbrīvo no darba Izglītības un zinātnes ministrijas padotībā esošo izglītības iestāžu (izņemot augstskolu) vadītājus;
-26) ierosina pašvaldību izglītības iestāžu vadītāju un valsts augstskolu vidējās izglītības iestāžu vadītāju atbrīvošanu no darba. Saskaņo pašvaldību izglītības pārvalžu vadītāju pieņemšanu darbā un atbrīvošanu no darba;
+26) ierosina pašvaldību izglītības iestāžu vadītāju un valsts augstskolu vidējās izglītības iestāžu vadītāju atbrīvošanu no darba;
 27) (izslēgts ar 18.06.2015. likumu);
 28) izstrādā izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm.

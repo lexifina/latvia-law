@@ -9,6 +9,7 @@ Likumā ir lietoti šādi termini:
 5) izglītības atbalsta iestāde - valsts, pašvaldību un citu juridisko vai fizisko personu dibināta iestāde, kas nodrošina metodisko, psiholoģisko, zinātnisko, informatīvo un citu intelektuālo atbalstu pedagogiem, izglītojamajiem, izglītojamo vecākiem un izglītības iestādēm;
 6) izglītības dokuments - dokuments, kas apliecina personas iegūto izglītību atbilstoši noteiktai izglītības pakāpei, veidam un programmai vai šīs izglītības daļēju apgūšanu;
 7) izglītības iestāde - valsts, pašvaldību, valsts augstskolu vai citu juridisko vai fizisko personu dibināta iestāde, kuras uzdevums ir izglītības programmu īstenošana, vai komercsabiedrība, kuram izglītības programmu īstenošana ir viens no darbības veidiem;
+7¹) izglītības kvalitāte - izglītības process, saturs, vide un pārvaldība, kas ikvienam nodrošina iekļaujošu izglītību un iespēju sasniegt augstvērtīgus rezultātus atbilstoši sabiedrības izvirzītajiem un valsts noteiktajiem mērķiem;
 8) izglītības pakāpe - nobeigts izglītības posms, kas ietver organizētu un secīgi īstenotu izglītības ieguvi;
 9) izglītības pārvaldes iestāde - valsts vai pašvaldības iestāde vai pašvaldības struktūrvienība, kas pilda izglītības pārvaldes funkcijas;
 10) izglītības programmas akreditācija - tiesību iegūšana izglītības iestādei vai citai šajā likumā noteiktai institūcijai izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi. Akreditācijas gaitā vērtē attiecīgās izglītības programmas īstenošanas kvalitāti;

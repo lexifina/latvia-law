@@ -1,0 +1,3 @@
+4.¹ pants. Valsts sistēma izglītības kvalitātes nodrošināšanai
+(1) Valsts sistēma izglītības kvalitātes nodrošināšanai ir sistematizēts politikas, vadlīniju, procedūru, darbību un resursu kopums, lai plānotu, sasniegtu, uzturētu, uzraudzītu un pastāvīgi pilnveidotu izglītības kvalitāti.
+(2) Valsts veido sistēmu izglītības kvalitātes nodrošināšanai un nosaka izglītības iestāžu, to dibinātāju, valsts un pašvaldību iestāžu tiesības un pienākumus, kā arī atbildību par izglītības kvalitāti. Izglītības iestādes dibinātājs un izglītības procesa īstenotājs nodrošina izglītības kvalitāti izglītības iestādē.

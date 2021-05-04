@@ -10,6 +10,8 @@ Ministru kabinets:
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
 7¹) apstiprina valsts izglītības iestāžu (izņemot valsts augstskolu - atvasināto publisko personu) nolikumus;
 8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
+8¹) (punkts stājas spēkā 01.08.2021. un iekļauts likuma redakcijā 01.08.2021. Sk. Pārejas noteikumu 94. punktu);
+8²) apstiprina ikgadēju izglītības kvalitātes novērtējuma ziņojumu;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
 11) nosaka izglītības programmu licencēšanas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
@@ -38,7 +40,7 @@ Ministru kabinets:
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
 28) nosaka institūciju, kas licencē izglītības programmas;
-29) nosaka institūciju, kas akreditē izglītības programmas un izglītības iestādes;
+29) (izslēgts ar 08.04.2021. likumu);
 30) nosaka Valsts izglītības informācijas sistēmas saturu un uzturēšanas un aktualizācijas kārtību;
 31) nosaka kārtību, kādā valsts finansē pieaugušo neformālās izglītības programmas, tālākizglītības programmas un profesionālās kompetences pilnveidi, kā arī kritērijus attiecīga finansējuma saņemšanai;
 32) nosaka pedagogu profesionālās kompetences pilnveides kārtību;
@@ -55,4 +57,5 @@ Ministru kabinets:
 42) nosaka kritērijus un kārtību, kādā valsts, tai skaitā ņemot vērā minimāli pieļaujamo izglītojamo skaitu vidējās izglītības pakāpē, piedalās pašvaldību, valsts augstskolu un privāto vispārējās izglītības iestāžu vispārējās izglītības programmu īstenošanā iesaistīto pedagogu darba samaksas finansēšanā, ja izglītības iestāde neatbilst Ministru kabineta noteiktajiem kvalitātes kritērijiem;
 43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā;
 44) nosaka kārtību, kādā aprēķina, piešķir un izlieto valsts budžetā paredzētos līdzekļus to izglītojamo ēdināšanai, kuri klātienē apgūst pamatizglītības programmas 1., 2., 3. un 4. klasē, un šo valsts budžeta līdzekļu apmēru vienam izglītojamam dienā;
-45) nosaka attālināto mācību organizēšanas un īstenošanas kārtību.
+45) nosaka attālināto mācību organizēšanas un īstenošanas kārtību;
+46) nosaka kārtību, kādā izglītības iestāžu dibinātāji novērtē izglītības iestāžu vadītāju profesionālo darbību.

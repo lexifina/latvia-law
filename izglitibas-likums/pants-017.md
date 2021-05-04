@@ -8,7 +8,10 @@
 (2⁵) (Izslēgta ar 23.11.2020. likumu)
 (3) Pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē vispārējās izglītības iestādes, tai skaitā speciālās izglītības iestādes un klases, kā arī pirmsskolas izglītības grupas bērniem ar speciālām vajadzībām un interešu izglītības iestādes, bet, saskaņojot ar attiecīgās nozares ministriju un Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē profesionālās ievirzes izglītības iestādes;
-2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā speciālo izglītības iestāžu, profesionālās izglītības iestāžu, interešu izglītības iestāžu, profesionālās ievirzes izglītības iestāžu sportā vadītājus, saskaņojot ar Izglītības un zinātnes ministriju, bet profesionālās ievirzes izglītības iestāžu mākslā vai kultūrā vadītājus - saskaņojot ar attiecīgās nozares ministriju;
+1¹) saskaņā ar Ministru kabineta apstiprinātajās izglītības attīstības pamatnostādnēs noteiktajiem mērķiem izstrādā izglītības attīstības stratēģiju, sniedz atbalstu izglītības iestāžu darbības kvalitātes nodrošināšanai, apkopo un analizē informāciju par izglītības (izņemot augstāko izglītību) kvalitāti savā teritorijā;
+1²) nodrošina pieejamu un kvalitatīvu izglītību savā teritorijā atbilstoši valsts noteiktajiem mērķiem un personas vajadzībām;
+1³) organizē metodisko, zinātnisko, informatīvo un citāda veida intelektuālo atbalstu izglītojamiem, pedagogiem, izglītojamo vecākiem un izglītības iestādēm (izņemot augstskolas un koledžas) izglītības kvalitātes nodrošināšanai;
+2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā speciālo izglītības iestāžu, profesionālās izglītības iestāžu, interešu izglītības iestāžu un profesionālās ievirzes izglītības iestāžu, vadītājus;
 3) nosaka kārtību, kādā tās padotībā esošās izglītības iestādes finansējamas no budžeta;
 4) uz savstarpēju līgumu pamata piedalās valsts un citu pašvaldību izglītības iestāžu finansēšanā;
 5) uz savstarpēju līgumu pamata var piedalīties privāto izglītības iestāžu finansēšanā;
