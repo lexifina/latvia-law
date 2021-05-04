@@ -1,8 +1,8 @@
 3. pants. Deputāta pilnvaru izbeigšanās pirms termiņa
 Deputāta pilnvaras izbeidzas pirms termiņa:
 1) ar brīdi, kad dome ir pieņēmusi lēmumu par deputāta pilnvaru izbeigšanos sakarā ar deputāta personisku rakstveida iesniegumu par savu pilnvaru nolikšanu;
-2) ar dienu, kad likumīgā spēkā ir stājies deputātu notiesājošs tiesas spriedums vai deputāts likumā noteiktajā kārtībā atzīts par rīcības nespējīgu;
-3) ar dienu, kad likumīgā spēkā stājies tiesas spriedums, ar kuru konstatēts fakts, ka deputāts ir ievēlēts, pārkāpjot Republikas pilsētas domes un novada domes vēlēšanu likumā noteiktos ierobežojumus;
+2) ar dienu, kad likumīgā spēkā ir stājies deputātu notiesājošs tiesas spriedums vai spēkā stājies tiesas nolēmums, ar kuru tiesa deputātam ir nodibinājusi aizgādnību;
+3) ar dienu, kad likumīgā spēkā stājies tiesas spriedums, ar kuru konstatēts fakts, ka deputāts ir ievēlēts, pārkāpjot Pašvaldības domes vēlēšanu likumā noteiktos ierobežojumus;
 4) ar dienu, kad likumā noteiktajā kārtībā ir konstatēts fakts, ka deputāts nepieder pie Latvijas vai Eiropas Savienības pilsoņu kopuma;
 5) ar brīdi, kad dome, kuras sastāvā deputāts ievēlēts, ir anulējusi deputāta pilnvaras šā likuma 4. pantā paredzētajā gadījumā;
 6) citos likumā paredzētajos gadījumos.

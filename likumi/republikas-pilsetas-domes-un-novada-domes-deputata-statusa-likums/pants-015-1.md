@@ -1,5 +1,5 @@
 15.¹ pants. Pabalsts pašvaldības domes vai padomes priekšsēdētājam vai viņa vietniekam
-Tiesības saņemt ikmēneša pabalstu divu minimālo mēnešalgu apmērā (turpmāk - pabalsts) ir personai, kura pēc 1990.gada 4.maija bijusi pilsētas domes, vēlētas rajona padomes, novada domes vai pagasta padomes:
+Tiesības saņemt ikmēneša pabalstu divu minimālo mēnešalgu apmērā (turpmāk - pabalsts) ir personai, kura laika posmā no 1990. gada 4. maija līdz 2021. gada 30. jūnijam bijusi pilsētas domes, vēlētas rajona padomes, novada domes vai pagasta padomes:
 1) priekšsēdētājs divus sasaukumus vienā pašvaldībā;
 2) priekšsēdētājs vienā pašvaldībā vienu sasaukumu un priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, šajā pašvaldībā citu sasaukumu;
 3) priekšsēdētāja vietnieks, kurš ieņēmis algotu amatu, vienā pašvaldībā divus sasaukumus;
