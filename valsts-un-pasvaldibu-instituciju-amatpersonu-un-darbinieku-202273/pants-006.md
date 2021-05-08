@@ -20,8 +20,8 @@
 13) Centrālās zemes komisijas priekšsēdētājam - 0,80;
 14) Augstākās izglītības padomes priekšsēdētājam - 2,33;
 15) Augstākās izglītības padomes loceklim - 0,22;
-16) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam - 2,78;
-17) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes loceklim - 2,31.
+16) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam - 4,48;
+17) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes loceklim - 4,2.
 (3) Šā panta otrās daļas 12. un 15.punktā minētās amatpersonas mēnešalgu saņem proporcionāli nostrādātajam laikam.
 (4) Ministru kabineta loceklis saņem piemaksu 50 procentu apmērā no viņam noteiktās mēnešalgas, ja papildus saviem tiešajiem amata pienākumiem aizvieto prombūtnē esošu Ministru kabineta locekli, kā arī aizvieto Ministru kabineta locekli, kurš beidzis pildīt savus pienākumus, pirms cita persona apstiprināta attiecīgā Ministru kabineta locekļa amatā.
 (5) Ministru prezidenta reprezentācijas izdevumi mēnesī nepārsniedz 95 procentus un ministra reprezentācijas izdevumi mēnesī nepārsniedz 90 procentus no gadskārtējā valsts budžeta likumā noteiktajiem Valsts prezidenta reprezentācijas izdevumiem mēnesī.
