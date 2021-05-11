@@ -1,0 +1,1 @@
+41. Šā likuma grozījums 18. panta otrajā daļā par skaitļa "10" aizstāšanu ar vārdu "astoņiem", kā arī grozījums par 18. panta sestās daļas izteikšanu jaunā redakcijā attiecas uz apraides atļaujām, kas tiek izsniegtas pēc šo grozījumu spēkā stāšanās.

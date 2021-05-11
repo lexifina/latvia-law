@@ -4,10 +4,10 @@
 2) darbojas neregulāri, tādējādi nepildot apraides atļaujas vai retranslācijas atļaujas pamatnosacījumus, izņemot gadījumus, kad tas notiek tehnisku iemeslu dēļ un ne ilgāk kā trīs mēnešus;
 3) nav samaksājis valsts nodevu attiecīgi šā likuma 15. panta devītajā daļā vai 19. panta otrās daļas otrajā teikumā minētajā gadījumā.
 (2) Nacionālajai elektronisko plašsaziņas līdzekļu padomei ir tiesības uz laiku līdz septiņām dienām apturēt elektroniskā plašsaziņas līdzekļa darbību, ja tas gada laikā atkārtoti:
-1) pārkāpis šo likumu;
+1) būtiski pārkāpis elektronisko plašsaziņas līdzekļu nozari regulējošus normatīvos aktus;
 2) izplatījis programmu, kas neatbilst apraides atļaujas vai retranslācijas atļaujas pamatnosacījumiem.
 (3) Nacionālā elektronisko plašsaziņas līdzekļu padome anulē apraides atļauju vai retranslācijas atļauju, ja elektroniskais plašsaziņas līdzeklis:
-1) trīs reizes gada laikā ir administratīvi sodīts par būtisku šā likuma pārkāpumu;
+1) trīs reizes gada laikā sodīts par būtiskiem elektronisko plašsaziņas līdzekļu nozari regulējošu normatīvo aktu pārkāpumiem;
 2) gada laikā no dienas, kad Padome pieņēmusi lēmumu par elektroniskā plašsaziņas līdzekļa darbības apturēšanu, ir izdarījis būtiskus šā panta otrās daļas 1. un 2.punktā minētos pārkāpumus;
 3) būtiski pārkāpis apraides vai retranslācijas atļaujā ietvertos noteikumus;
 4) neievēro šā likuma 18.panta astotās daļas noteikumus un šis pārkāpums ir būtisks;
