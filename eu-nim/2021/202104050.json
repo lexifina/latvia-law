@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 29. aprīļa likums \"Grozījumi Finanšu instrumentu tirgus likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84B",
+  "official_journal_page": null,
+  "official_journal_date": "2021-05-04",
+  "entry_into_force": "2021-05-18",
+  "notification_date": "2021-06-08",
+  "commission_reference": "MNE(2021)04050",
+  "nim_celex": "72019L0878LVA_202104050",
+  "nim_id": "202104050",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4be55664-ca99-11eb-84ce-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
