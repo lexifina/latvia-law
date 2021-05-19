@@ -2,7 +2,7 @@
 1) Finanšu un kapitāla tirgus komisijas likumā, šajā likumā un citos normatīvajos aktos noteikto Finanšu un kapitāla tirgus komisijas funkciju un pienākumu veikšanai paredzētos pasākumus un tiem nepieciešamos resursus;
 2) plānotos uzraudzības pasākumus, kas piemērojami:
 a) kredītiestādēm, kurās veikto šā likuma 101.³ panta 4.¹ daļas 5. un 6.punktā minēto stresa testu rezultāti vai kuru novērtējums, ko veikusi Finanšu un kapitāla tirgus komisija saskaņā ar šā likuma 101.³ pantu, norāda uz riskiem, kas būtiski apdraud attiecīgās kredītiestādes finanšu stabilitāti, vai uz šā likuma, tieši piemērojamo Eiropas Savienības tiesību aktu vai Finanšu un kapitāla tirgus komisijas izdoto normatīvo noteikumu prasību pārkāpumiem;
-b) kredītiestādēm, kas rada sistēmisku risku finanšu sistēmai;
+b) (izslēgts ar 29.04.2021. likumu);
 c) citām kredītiestādēm pēc Finanšu un kapitāla tirgus komisijas ieskatiem;
 3) kredītiestādes, kurām paredzēts noteikt pastiprinātu uzraudzību, un tām piemērojamos pasākumus;
 4) kredītiestāžu klātienes pārbaužu plānu, atsevišķi norādot plānotās klātienes pārbaudes kredītiestāžu filiālēs citās dalībvalstīs, kredītiestāžu meitas sabiedrībās un kredītiestādes mātes sabiedrībā, kas ir finanšu pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība, vai šādas finanšu pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības citā meitas sabiedrībā.

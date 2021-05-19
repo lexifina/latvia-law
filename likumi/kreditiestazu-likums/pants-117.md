@@ -4,7 +4,7 @@
 3) pilnvarnieks veic kredītiestādes pārvaldīšanu.
 (2) Ja lēmumā par pilnvarnieka iecelšanu ir noteiktas viņa tiesības atbilstoši šā panta pirmajai daļai sasaukt kredītiestādes akcionāru vai dalībnieku sapulci, padomes un valdes sēdi un piedalīties tajā, tad kredītiestādes attiecīgās pārvaldes institūcijas lēmums nav pieņemts, ja pret to iebilst pilnvarnieks.
 (3) Ja Finanšu un kapitāla tirgus komisija lemj par kredītiestādes padomes, valdes un prokūrista darbības apturēšanu un aizlieguma noteikšanu kredītiestādei rīkoties ar savu mantu, kā arī ar tās valdījumā vai turējumā esošo trešajām personām piederošo mantu, tad šīs tiesības atbilstoši šā panta pirmās daļas 3.punktam iegūst pilnvarnieks. Pilnvarnieka iecelšana neierobežo Komerclikumā noteiktās akcionāru tiesības.
-(3¹) Ja pilnvarniekam Finanšu un kapitāla tirgus komisijas pieņemtajā lēmumā par pilnvarnieka iecelšanu ir noteiktas pilnvaras pārstāvēt kredītiestādi, tad šādu lēmumu Finanšu un kapitāla tirgus komisija publicē savā mājaslapā internetā.
+(3¹) Ja pilnvarniekam Finanšu un kapitāla tirgus komisijas pieņemtajā lēmumā par pilnvarnieka iecelšanu ir noteiktas pilnvaras pārstāvēt kredītiestādi, tad šādu lēmumu Finanšu un kapitāla tirgus komisija publicē savā tīmekļvietnē.
 (4) Pilnvarnieks savu uzdevumu veikšanai ir tiesīgs:
 1) izdot saistošus rīkojumus visām kredītiestādes struktūrvienībām un tās darbiniekiem;
 2) neievērot kredītiestādes statūtos, nolikumos un noteikumos (politikas, procedūru aprakstos un citos darbības instrumentos) norādītos ierobežojumus;

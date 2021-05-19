@@ -16,3 +16,13 @@
 8) dalībvalsts iestādēm, kas veic to personu uzraudzību, kuras dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas kredītiestādēs, apdrošināšanas vai pārapdrošināšanas komersantos un citās finanšu iestādēs.
 (5¹) Finanšu un kapitāla tirgus komisija paziņo Eiropas Banku iestādei par valsts iestādēm un struktūrvienībām, kuras var saņemt ierobežotas pieejamības informāciju pārraudzības vai uzraudzības funkciju izpildei vai kuras saskaņā ar normatīvajiem aktiem ir atbildīgas par tiesību aktu pārkāpumu atklāšanu un izmeklēšanu komercdarbības jomā.
 (6) Šā panta noteikumi neaizliedz Finanšu un kapitāla tirgus komisijai apmainīties ar ierobežotas pieejamības informāciju ar dalībvalstu centrālajām bankām un citām institūcijām, kas ir atbildīgas par maksājumu sistēmu pārraudzīšanu, ja šādas informācijas sniegšana tām nepieciešama savu likumā noteikto funkciju veikšanai un Eiropas Sistēmisko risku kolēģijai.
+(7) Šā panta noteikumi neaizliedz Finanšu un kapitāla tirgus komisijai sniegt ierobežotas pieejamības informāciju šādām starptautiskām institūcijām:
+1) Starptautiskajam Valūtas fondam un Pasaules Bankai - finanšu sektora novērtēšanas programmai paredzēto izvērtējumu veikšanai;
+2) Starptautisko norēķinu bankai - kvantitatīvās ietekmes pētījumu veikšanai;
+3) Finanšu stabilitātes padomei - tās funkciju izpildei.
+(8) Finanšu un kapitāla tirgus komisija šā panta septītajā daļā minētajām institūcijām ierobežotas pieejamības informāciju sniedz, ja ir saņemts motivēts pieprasījums un ir ievēroti šādi nosacījumi:
+1) pieprasījums ir pienācīgi pamatots, ņemot vērā konkrētos uzdevumus, ko pieprasītāja institūcija veic saskaņā ar tās darbību regulējošiem tiesību aktiem;
+2) pieprasījums ir pietiekami precīzs attiecībā uz pieprasītās informācijas saturu un apjomu un tās izpaušanas vai nosūtīšanas līdzekļiem;
+3) ir sniegts apliecinājums, ka pieprasītā informācija ir nepieciešama konkrētu pieprasītājas institūcijas uzdevumu veikšanai un nepārsniedz šai institūcijai ar tiesību aktiem piešķirto uzdevumu apjomu;
+4) ir sniegts apliecinājums, ka informācija būs pieejama tikai tām personām, kuras ir iesaistītas uzdevuma izpildē, un tām ir saistošas informācijas aizsardzības prasības.
+(9) Pēc pieprasījuma izvērtēšanas Finanšu un kapitāla tirgus komisija šā panta septītajā daļā minētajām institūcijām nosūta tikai apkopotu vai anonimizētu informāciju.

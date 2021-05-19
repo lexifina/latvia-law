@@ -98,7 +98,10 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 64) sistēmiski nozīmīga iestāde - tāda Eiropas Savienības mātes finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes kredītiestāde vai kredītiestāde, kuras darbības pārtraukšana vai traucējumi var radīt sistēmisku risku;
 65) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
 66) mazāk nozīmīgā uzraudzītā kredītiestāde - mazāk nozīmīgā uzraudzītā iestāde Eiropas Centrālās bankas 2014. gada 16. aprīļa regulas Nr. 468/2014, ar ko izveido vienotā uzraudzības mehānisma pamatstruktūru Eiropas Centrālās bankas sadarbībai ar nacionālajām kompetentajām un norīkotajām iestādēm (VUM pamatregula) (ECB/2014/17) (turpmāk - regula Nr. 468/2014) 2. panta 7. punkta izpratnē;
-67) nozīmīgā uzraudzītā kredītiestāde - nozīmīgā uzraudzītā iestāde regulas Nr. 468/2014 2. panta 16. punkta izpratnē.
+67) nozīmīgā uzraudzītā kredītiestāde - nozīmīgā uzraudzītā iestāde regulas Nr. 468/2014 2. panta 16. punkta izpratnē;
+68) ārpakalpojums - jebkura līgumiska vienošanās starp kredītiestādi un ārpakalpojuma sniedzēju, kas paredz šim ārpakalpojuma sniedzējam pienākumu veikt noteiktu procesu, pakalpojumu vai citu darbību, ko citādi veiktu pati kredītiestāde;
+69) ārvalsts grupa - grupa, kuras mātes sabiedrība ir reģistrēta ārvalstī;
+70) dzimumneitrāla atalgojuma politika - atalgojuma politika, kas balstīta uz vienādu darba samaksu sievietēm un vīriešiem par vienādu darbu vai vienādi vērtīgu darbu.
 (2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
 1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
 2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;
@@ -113,7 +116,12 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 11) finanšu iestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 26.apakšpunkta izpratnē;
 12) finanšu pārvaldītājsabiedrība - ES regulas Nr. 575/2013 4.panta 1.punkta 20.apakšpunkta izpratnē;
 13) ciešas attiecības - ES regulas Nr. 575/2013 4.panta 1.punkta 38.apakšpunkta izpratnē;
-14) atgūstamās vērtības samazinājuma risks - ES regulas Nr. 575/2013 4.panta 1.punkta 53.apakšpunkta izpratnē.
+14) atgūstamās vērtības samazinājuma risks - ES regulas Nr. 575/2013 4.panta 1.punkta 53.apakšpunkta izpratnē;
+15) Eiropas Savienības mātes iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 29. apakšpunkta izpratnē;
+16) grupa - ES regulas Nr. 575/2013 4. panta 1. punkta 138. apakšpunkta izpratnē;
+17) pirmā līmeņa kapitāls - ES regulas Nr. 575/2013 25. panta izpratnē;
+18) globāla sistēmiski nozīmīga iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 133. apakšpunkta izpratnē;
+19) ārvalsts globāla sistēmiski nozīmīga iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 134. apakšpunkta izpratnē.
 (3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem likumā ir lietoti termini, kas atbilst šādiem ES regulā Nr. 575/2013 lietotajiem terminiem:
 1) mātes sabiedrība - terminam "mātesuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 15.apakšpunkta izpratnē;
 2) meitas sabiedrība - terminam "meitasuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 16.apakšpunkta izpratnē;
@@ -122,3 +130,4 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 5) iesaistītā valsts - terminam "uzņēmēja dalībvalsts" ES regulas Nr. 575/2013 4.panta 1.punkta 44.apakšpunkta izpratnē;
 6) uzraudzības institūcija - terminam "kompetentā iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 40.apakšpunkta izpratnē;
 7) konsolidētās uzraudzības institūcija - terminam "konsolidētās uzraudzības iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 41.apakšpunkta izpratnē.
+(4) Likumā lietotais termins "jaukta finanšu pārvaldītājsabiedrība" atbilst Finanšu konglomerātu likumā lietotajam terminam.

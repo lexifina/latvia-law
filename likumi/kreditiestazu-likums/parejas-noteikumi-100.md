@@ -1,0 +1,1 @@
+100. Iesniegumu Finanšu un kapitāla tirgus komisijai, kas iesniegts līdz 2021. gada 30. jūnijam un attiecas uz plānoto ārpakalpojumu, Finanšu un kapitāla tirgus komisija izskata saskaņā ar tiem šā likuma 10.¹ panta noteikumiem, kas bija spēkā iesnieguma iesniegšanas dienā.
