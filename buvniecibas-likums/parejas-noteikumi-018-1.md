@@ -1,0 +1,1 @@
+18.¹ Ja būvvalde būvatļauju publiskas ēkas atjaunošanai ir izdevusi līdz dienai, kad stājas spēkā grozījumi šā likuma 6.¹ panta pirmās daļas 1. punkta "a" apakšpunktā, un būvatļaujā ir izdarīta atzīme par būvdarbu uzsākšanas nosacījumu izpildi, šā objekta būvdarbu kontroli (tai skaitā pieņemšanu ekspluatācijā) veic būvvalde.

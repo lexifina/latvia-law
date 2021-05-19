@@ -1,0 +1,1 @@
+7.¹ Līdz grozījumu izdarīšanai normatīvajos aktos šajā likumā lietotais jēdziens "būvprojekts" atbilst jēdzienam "būvniecības ieceres dokumentācija" un jēdzienam "būvniecības ieceres dokumenti", bet jēdziens "ārtelpas labiekārtojuma elements" - jēdzienam "atsevišķs labiekārtojuma elements".
