@@ -1,0 +1,1 @@
+72. Šā likuma 111.¹ pantā minētā pārvaldītājsabiedrība, kura veica darbību 2019. gada 27. jūnijā un turpina darbību šā panta spēkā stāšanās dienā, saņem atļauju minētā panta noteiktajā kārtībā sešu mēnešu laikā no 111.¹ panta spēkā stāšanās dienas.
