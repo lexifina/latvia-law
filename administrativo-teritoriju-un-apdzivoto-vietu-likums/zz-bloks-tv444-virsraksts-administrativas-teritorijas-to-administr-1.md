@@ -429,7 +429,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 31.12. Lūznavas pagasts
 31.13. Mākoņkalna pagasts
 31.14. Maltas pagasts
-31.15. Murmastienes pagasts
+31.15. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
 31.16. Nagļu pagasts
 31.17. Nautrēnu pagasts
 31.18. Ozolaines pagasts
@@ -443,8 +443,8 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 31.26. Vērēmu pagasts
 31.27. Dekšāres pagasts
 31.28. Sokolku pagasts
-31.29. Varakļānu pagasts
-31.30. Varakļānu pilsēta
+31.29. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
+31.30. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
 31.31. Viļānu pagasts
 31.32. Viļānu pilsēta
 32. Ropažu novads (Ulbroka)32.1. Garkalnes pagasts
