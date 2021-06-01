@@ -1,5 +1,5 @@
 3.pants. Militārpersonu izdienas stāža aprēķināšana
-Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
+(1) Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
 1) obligātā aktīvā militārā dienesta (Latvijas Republikas un citu valstu bruņotajos spēkos) laiku un laiku, kas aizvadīts alternatīvajā dienestā, ar kuru aizstāts obligātais aktīvais militārais dienests;
 2) ierindas dienesta laiku Zemessardzē līdz 2002.gada 30.jūnijam, profesionālā dienesta laiku, aktīvā militārā dienesta laiku Aizsardzības ministrijas pakļautībā un pārziņā bijušajās militārajās struktūrvienībās un Saeimas un Valsts prezidenta drošības dienestā (Latvijas Republikas Augstākās padomes apsardzes dienestā, Latvijas Republikas Drošības dienestā), kā arī mācību laiku militārajās izglītības iestādēs un militārajam dienestam pakļauto personu militāro mācību laiku;
 3) dienesta laiku Latvijas Republikas Iekšlietu ministrijas sistēmā;
@@ -8,3 +8,4 @@ Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
 6) apdrošināšanas stāžu saskaņā ar likumu "Par valsts pensijām" pirms aktīvā militārā vai ierindas dienesta militārpersonām, kuras dienestu Aizsardzības ministrijas pakļautībā vai pārziņā esošajās militārajās struktūrvienībās uzsākušas pirms šā likuma spēkā stāšanās un tajās nodienējušas, tai skaitā obligātajā aktīvajā militārajā dienestā Latvijas Republikas bruņotajos spēkos, vismaz trīs gadus, bet militārpersonām, kuras dienestu uzsākušas pēc šā likuma spēkā stāšanās dienas, - ja nodienēti, tai skaitā obligātajā aktīvajā militārajā dienestā Latvijas Republikas bruņotajos spēkos, 15 gadi:
 a) 80 procentu apjomā,
 b) 100 procentu apjomā, ja pirms aktīvā militārā vai ierindas dienesta nodienēti ne mazāk kā pieci gadi ārrindas dienestā Zemessardzē.
+(2) Militārpersonai, kura atvaļināta no dienesta šā likuma 2. panta trešajā daļā minēto iemeslu dēļ un no jauna pieņemta aktīvajā dienestā, izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita arī izdienas stāžu, kas gūts pirms atvaļināšanas šā likuma 2. panta trešajā daļā minēto iemeslu dēļ.
