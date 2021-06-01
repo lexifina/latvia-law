@@ -1,0 +1,1 @@
+8. Uz personām, kuras līdz 2021. gada 31. maijam ir notiesātas vai kurām sods noteikts ar prokurora priekšrakstu par sodu par noziedzīgiem nodarījumiem saistībā ar narkotisko vielu, psihotropo vielu vai prekursoru nelikumīgu apriti, neattiecas šā likuma 2. pielikuma grozījumi, kuri stājas spēkā 2021. gada 1. jūnijā.
