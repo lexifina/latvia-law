@@ -1,1 +1,0 @@
-Kritēriji nelikumīgā apritē esošu narkotisko un psihotropo vielu un zāļu, kā arī vielu, kas var tikt izmantotas narkotisko un psihotropo vielu nelikumīgai izgatavošanai (prekursori), iedalījumu apmēriem
