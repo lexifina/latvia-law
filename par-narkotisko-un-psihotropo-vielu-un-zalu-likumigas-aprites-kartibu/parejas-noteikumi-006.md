@@ -1,0 +1,3 @@
+6. Ministru kabinets līdz 2021. gada 1. jūlijam izdod šā likuma 36. panta trešajā daļā un 37.¹ pantā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 30. jūnijam piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2009. gada 15. decembra noteikumi Nr. 1456 "Kārtība, kādā persona, kas nodarbojas ar veterinārmedicīnisko praksi, veic darbības ar narkotiskajām un psihotropajām zālēm";
+2) Ministru kabineta 2010. gada 10. augusta noteikumi Nr. 757 "Īpašās veterinārās receptes izrakstīšanas un uzglabāšanas kārtība".

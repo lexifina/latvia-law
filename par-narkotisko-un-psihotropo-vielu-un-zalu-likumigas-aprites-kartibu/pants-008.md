@@ -1,1 +1,1 @@
-8.pants. Attiecībā uz II un III sarakstā iekļautajām vielām un zālēm piemērojami tie paši nosacījumi, kādi izvirzīti medicīnā un veterinārijā izmantojamām vielām un zālēm tiktāl, ciktāl tas nav pretrunā ar šo likumu.
+8.pants. Attiecībā uz II un III sarakstā iekļautajām vielām un zālēm piemērojami tie paši nosacījumi, kādi izvirzīti medicīnā un veterinārmedicīnā izmantojamām vielām un zālēm tiktāl, ciktāl tas nav pretrunā ar šo likumu.

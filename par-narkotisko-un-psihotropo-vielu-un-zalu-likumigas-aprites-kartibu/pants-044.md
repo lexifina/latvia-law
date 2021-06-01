@@ -7,4 +7,4 @@
 6) izvērtē prekursoru izplatīšanas atbilstību normatīvo aktu prasībām;
 7) ja nepieciešams, saskaņā ar normatīvajiem aktiem aptur prekursoru izplatīšanu vai fiziskās vai juridiskās personas komercdarbību līdz apstākļu galīgai noskaidrošanai.
 (2) (Izslēgta ar 06.06.2019. likumu)
-(3) Pārtikas un veterinārais dienests uzrauga un kontrolē veterinārmedicīniskās aprūpes uzņēmumus un personas, kuras nodarbojas ar veterinārmedicīnisko praksi (praktizējošie veterinārārsti un veterinārmedicīniskās aprūpes komersanti, veterinārās aptiekas) un veic darbības ar II un III sarakstā iekļautajām vielām un zālēm.
+(3) Pārtikas un veterinārais dienests uzrauga un kontrolē veterinārmedicīniskās prakses iestādes un praktizējošos veterinārārstus, kas veic darbības ar II un III sarakstā iekļautajām vielām un zālēm.

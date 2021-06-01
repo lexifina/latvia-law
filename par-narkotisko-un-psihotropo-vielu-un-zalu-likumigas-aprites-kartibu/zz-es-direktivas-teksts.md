@@ -1,1 +1,4 @@
-Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2017. gada 15. novembra direktīvas (ES) 2017/2103, ar ko groza Padomes pamatlēmumu 2004/757/TI, lai narkotiskās vielas definīcijā iekļautu jaunas psihoaktīvas vielas, un atceļ Padomes lēmumu 2005/387/TI.
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2017. gada 15. novembra direktīvas (ES) 2017/2103, ar ko groza Padomes pamatlēmumu 2004/757/TI, lai narkotiskās vielas definīcijā iekļautu jaunas psihoaktīvas vielas, un atceļ Padomes lēmumu 2005/387/TI;
+2) Komisijas 2018. gada 13. decembra deleģētās direktīvas (ES) 2019/369, ar ko groza Padomes pamatlēmuma 2004/757/TI pielikumu attiecībā uz jaunu psihoaktīvu vielu iekļaušanu narkotiskās vielas definīcijā;
+3) Komisijas 2020. gada 2. septembra deleģētās direktīvas (ES) 2020/1687, ar kuru attiecībā uz jaunās psihoaktīvās vielas N,N-dietil-2-[[4-(1-metiletoksi)fenil]metil]-5-nitro-1H-benzimidazol-1-etānamīna (izotonitazēna) iekļaušanu "narkotiskās vielas" definīcijā groza Padomes pamatlēmuma 2004/757/TI pielikumu.

@@ -1,2 +1,2 @@
 II nodaļa
-Narkotisko un psihotropo vielu klasifikācija
+Narkotisko un psihotropo vielu, kā arī prekursoru klasifikācija
