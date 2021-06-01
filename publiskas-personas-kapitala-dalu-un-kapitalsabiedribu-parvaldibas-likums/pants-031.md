@@ -4,7 +4,7 @@
 (3) Iespējamie valdes un padomes locekļu kandidāti tiek atlasīti, organizējot publisku kandidātu pieteikšanās procedūru. Atlasot valdes vai padomes locekļus akciju sabiedrībā un sabiedrībā ar ierobežotu atbildību, ja tās atbilst šā likuma 78. panta otrās daļas prasībām, nominēšanas procesā papildus piesaista personāla atlases konsultantu.
 (4) Par valdes vai padomes locekļa kandidātu nedrīkst izvirzīt personu:
 1) kurai nav augstākās izglītības;
-2) kura ir bijusi sodīta par tīšu noziedzīgu nodarījumu, neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+2) kura ir sodīta par tīšu noziedzīgu nodarījumu, ja sodāmība par to nav noņemta vai dzēsta;
 3) kurai, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, ir atņemtas tiesības veikt noteiktu vai visu veidu komercdarbību vai citu profesionālo darbību;
 4) par kuru ir pasludināts maksātnespējas process;
 5) kura ir vai pēdējo 24 mēnešu laikā līdz pieteikumu iesniegšanas gala termiņa datumam publiskas kandidātu pieteikšanās procedūras ietvaros ir bijusi politiskās partijas vai politisko partiju apvienības amatpersona.
