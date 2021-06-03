@@ -1,0 +1,2 @@
+4. pants. (1) Jaunievēlēto Varakļānu novada domi un jaunievēlēto Rēzeknes novada domi uz pirmo sēdi sasauc likumā noteiktajā kārtībā 2021. gada 1. oktobrī.
+(2) Jaunievēlētās Varakļānu novada domes un jaunievēlētās Rēzeknes novada domes pilnvaras izbeidzas ar brīdi, kad uz pirmo sēdi sanāk 2025. gada pašvaldību vēlēšanās ievēlētā attiecīgā novada dome. Likumā noteiktajos gadījumos domes pilnvaras var tikt izbeigtas arī pirms šā termiņa.

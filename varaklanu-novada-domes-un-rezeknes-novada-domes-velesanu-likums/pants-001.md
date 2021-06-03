@@ -1,0 +1,1 @@
+1. pants. Šis likums nosaka kārtību, kādā Varakļānu novadā un Rēzeknes novadā organizējamas 2021. gada pašvaldību vēlēšanas, ieceļama pagaidu administrācija un sasaucama jaunievēlētās pašvaldības domes pirmā sēde.

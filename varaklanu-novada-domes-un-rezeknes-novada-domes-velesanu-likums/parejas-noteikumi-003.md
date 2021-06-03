@@ -1,0 +1,1 @@
+3. Par 2021. gada 5. jūnija Rēzeknes novada domes vēlēšanu izdevumiem, kas radušies laika posmā no 2021. gada 6. februāra līdz 2021. gada 5. jūnijam, politiskajām organizācijām (partijām) jāiesniedz Korupcijas novēršanas un apkarošanas birojam vēlēšanu ieņēmumu un izdevumu deklarācija atbilstoši Politisko organizāciju (partiju) finansēšanas likumā noteiktajam.

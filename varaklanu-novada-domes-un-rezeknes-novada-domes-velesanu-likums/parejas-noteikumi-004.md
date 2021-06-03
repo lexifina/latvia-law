@@ -1,0 +1,1 @@
+4. Elektroniskais plašsaziņas līdzeklis priekšvēlēšanu papildu aģitācijas raidlaika izcenojumus nosūta Nacionālajai elektronisko plašsaziņas līdzekļu padomei publiskošanai ne vēlāk kā triju darbdienu laikā no vēlēšanu izsludināšanas dienas.
