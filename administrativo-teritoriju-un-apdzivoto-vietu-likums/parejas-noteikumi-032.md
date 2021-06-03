@@ -1,0 +1,1 @@
+32. Madonas novadā 2021. gadā pašvaldības vēlēšanās iepriekšējās balsošanas dienas ir 3. un 4. jūnijs. Iecirkņu darba laiks iepriekšējās balsošanas dienās ir šāds: ceturtdien - no pulksten 16.00 līdz 20.00, piektdien - no pulksten 11.00 līdz 20.00.

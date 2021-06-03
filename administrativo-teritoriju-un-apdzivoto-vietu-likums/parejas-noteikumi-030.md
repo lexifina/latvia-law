@@ -1,0 +1,1 @@
+30. Varakļānu novada pašvaldībai konsultatīvos nolūkos līdz 2021. gada 1. oktobrim organizējama publiskā apspriešana par Varakļānu novada apvienošanos ar apkārtējiem novadiem administratīvi teritoriālās reformas mērķu sasniegšanai.

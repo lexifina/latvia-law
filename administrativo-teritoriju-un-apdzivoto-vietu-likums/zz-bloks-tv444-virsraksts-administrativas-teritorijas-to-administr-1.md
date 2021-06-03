@@ -429,24 +429,21 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 31.12. Lūznavas pagasts
 31.13. Mākoņkalna pagasts
 31.14. Maltas pagasts
-31.15. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
-31.16. Nagļu pagasts
-31.17. Nautrēnu pagasts
-31.18. Ozolaines pagasts
-31.19. Ozolmuižas pagasts
-31.20. Pušas pagasts
-31.21. Rikavas pagasts
-31.22. Sakstagala pagasts
-31.23. Silmalas pagasts
-31.24. Stoļerovas pagasts
-31.25. Stružānu pagasts
-31.26. Vērēmu pagasts
-31.27. Dekšāres pagasts
-31.28. Sokolku pagasts
-31.29. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
-31.30. (atzīts par spēkā neesošu no 28.05.2021. ar Satversmes tiesas 28.05.2021. spriedumu)
-31.31. Viļānu pagasts
-31.32. Viļānu pilsēta
+31.15. Nagļu pagasts
+31.16. Nautrēnu pagasts
+31.17. Ozolaines pagasts
+31.18. Ozolmuižas pagasts
+31.19. Pušas pagasts
+31.20. Rikavas pagasts
+31.21. Sakstagala pagasts
+31.22. Silmalas pagasts
+31.23. Stoļerovas pagasts
+31.24. Stružānu pagasts
+31.25. Vērēmu pagasts
+31.26. Dekšāres pagasts
+31.27. Sokolku pagasts
+31.28. Viļānu pagasts
+31.29. Viļānu pilsēta
 32. Ropažu novads (Ulbroka)32.1. Garkalnes pagasts
 32.2. Ropažu pagasts
 32.3. Stopiņu pagasts
@@ -598,3 +595,6 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 42.11. Vārves pagasts
 42.12. Ziru pagasts
 42.13. Zlēku pagasts
+43. Varakļānu novads (Varakļāni)43.1. Murmastienes pagasts
+43.2. Varakļānu pagasts
+43.3. Varakļānu pilsēta
