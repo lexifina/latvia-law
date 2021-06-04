@@ -1,0 +1,1 @@
+5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 31. decembrim ir piemērojami Ministru kabineta 2005. gada 6. decembra noteikumi Nr. 918 "Apcietināto un notiesāto personu apsekošanas kārtība ieslodzījuma vietās, lai konstatētu, vai tās ir lietojušas alkoholu, narkotiskas vai psihotropas vielas", ciktāl tie nav pretrunā ar šo likumu.
