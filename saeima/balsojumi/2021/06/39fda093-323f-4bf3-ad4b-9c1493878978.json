@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada pavasara sesija",
+ "sede": 37,
+ "datums": "2021-06-08",
+ "ieraksts": {
+  "dkp_id": "7c1f987f-0f3a-4aee-9a98-4cf09328a3d1",
+  "lastmodtime": "\"AAAAAAHb5/c=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Inese Voika#Gundars Daudze#Ieva Krapāne",
+  "CANDIDATERESULT": "68:11#6:73#5:74",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.06.2021 16:06:05",
+  "VOTEMOTIVE": "Saeimas sekretāra biedra vēlēšanas",
+  "VOTING_ID": "39fda093-323f-4bf3-ad4b-9c1493878978",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada pavasara sesija-37-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/3030c4aa-7a5a-42ea-937d-51fc8badda7d/download/13.saeimas-2021.gada-pavasara-sesija-37-vote.xml",
+  "sha256": "b1c1e68dd510c856080b2fb971e406ee141a347525344c0062474aecdc2bcbd9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
