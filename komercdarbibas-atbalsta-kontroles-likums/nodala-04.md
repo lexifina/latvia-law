@@ -1,2 +1,3 @@
 IV nodaļa
-Nelikumīga komercdarbības atbalsta atgūšana
+Nelikumīga un nesaderīga komercdarbības atbalsta atgūšana
+saskaņā ar Eiropas Komisijas pieņemtu lēmumu

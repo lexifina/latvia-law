@@ -1,6 +1,13 @@
-9.pants. Komercdarbības atbalsta uzraudzības institūcijas
+9. pants. Komercdarbības atbalsta uzraudzības institūcijas
 (1) Finanšu ministrija:
-1) veic plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu, izņemot to plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt atbalstu darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē. Šis nosacījums attiecas arī uz plānotajiem grozījumiem esošajās atbalsta programmās vai individuālajos atbalsta projektos;
-2) ar Latvijas pārstāvniecības Eiropas Savienībā starpniecību nosūta Eiropas Komisijai ar atbalsta programmas vai individuālā atbalsta projekta paziņojumu saistīto informāciju;
-3) gatavo ikgadējo pārskatu par komercdarbībai sniegto atbalstu, izņemot atbalstu, kas sniegts darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē.
-(2) Zemkopības ministrija veic plānoto atbalsta programmu vai individuālo atbalsta projektu paziņojumu sākotnējo izvērtēšanu darbībām ar lauksaimniecības produktiem, kas minēti Līguma par Eiropas Savienības darbību I pielikumā, kā arī zvejniecības, akvakultūras un mežsaimniecības nozarē.
+1) veic plānoto atbalsta programmu vai ad-hoc atbalsta projektu, vai to plānoto grozījumu sākotnējo izvērtēšanu, izņemot:
+a) to plānoto atbalsta programmu vai ad-hoc atbalsta projektu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt komercdarbības atbalstu šā panta otrajā daļā noteiktajās nozarēs,
+b) to ad-hoc atbalsta projektu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt de minimis atbalstu saskaņā ar Komisijas regulu Nr. 1407/2013, ja tiek ievēroti šā likuma 10. panta trešās daļas nosacījumi,
+c) to ad-hoc atbalsta projektu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt komercdarbības atbalstu kā atlīdzības maksājumu (kompensāciju) jebkādā veidā par pakalpojuma ar vispārēju tautsaimniecisku nozīmi sniegšanu, ja tiek ievēroti šā likuma 10. panta ceturtās daļas nosacījumi;
+2) ar Latvijas pārstāvniecības Eiropas Savienībā starpniecību nosūta Eiropas Komisijai ar atbalsta programmas vai ad-hoc atbalsta projekta paziņojumu saistīto informāciju, izņemot gadījumu, kad komercdarbības atbalstu plānots sniegt šā panta otrajā daļā noteiktajās nozarēs;
+3) gatavo ikgadējo pārskatu par komercdarbībai sniegto atbalstu, izņemot komercdarbības atbalstu šā panta otrajā daļā noteiktajās nozarēs;
+4) sniedz konsultatīvu palīdzību komercdarbības atbalsta kontroles jomā, izņemot par komercdarbības atbalstu šā panta otrajā daļā noteiktajās nozarēs;
+5) nodrošina de minimis atbalsta uzskaites sistēmas administrēšanu;
+6) izmantojot Eiropas Komisijas sadarbības platformu dalībvalstīm, organizē informācijas apriti ar Eiropas Komisiju komercdarbības atbalsta jautājumos.
+(2) Zemkopības ministrija veic plānoto atbalsta programmu vai ad-hoc atbalsta projektu, vai to plānoto grozījumu sākotnējo izvērtēšanu zvejniecības, akvakultūras, lauksaimniecības un mežsaimniecības nozarē, izņemot tādu ad-hoc atbalsta projektu sākotnējo izvērtēšanu, kuru ietvaros tiek plānots sniegt de minimis atbalstu saskaņā ar Komisijas regulu Nr. 1408/2013 vai Komisijas regulu Nr. 717/2014, ja tiek ievēroti šā likuma 10. panta trešās daļas nosacījumi.
+(3) Atbalsta sniedzējs uzrauga atbalsta programmas, individuālā atbalsta projektus un ad-hoc atbalsta projektus to ieviešanas laikā un pēc atbalsta programmu, individuālā atbalsta un ad-hoc atbalsta projektu īstenošanas, nodrošinot komercdarbības atbalsta nosacījumu ievērošanu.

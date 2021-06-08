@@ -1,5 +1,5 @@
 15.pants. Prasības rūpniecības nozares kapitālsabiedrībām
-(1) Rūpniecības nozares kapitālsabiedrība ir kapitālsabiedrība, kuras galvenā darbības joma ir rūpniecība, kas veido vismaz 50 procentus no gada kopējā apgrozījuma. Rūpniecības nozare ietver darbības, kas iekļautas Eiropas Savienības saimniecisko darbību statistiskās klasifikācijas (NACE 1.redakcija) D sadaļā - Apstrādes rūpniecība (apakšsadaļas no DA līdz DN ieskaitot).
+(1) Rūpniecības nozares kapitālsabiedrība ir kapitālsabiedrība, kuras galvenā darbības joma ir rūpniecība, kas veido vismaz 50 procentus no gada kopējā apgrozījuma. Rūpniecības nozare ietver darbības, kas iekļautas Eiropas Savienības saimniecisko darbību statistiskās klasifikācijas (NACE 2. redakcija) C sadaļā - Apstrādes rūpniecība.
 (2) Valsts vai pašvaldības kontrolē esoša rūpniecības nozares kapitālsabiedrība, kuras neto apgrozījums iepriekšējā pārskata gadā pārsniedzis 250 miljonus euro, katru gadu ne vēlāk kā līdz 15.augustam Finanšu ministrijai iesniedz:
 1) gada pārskatu;
 2) akcionāru vai dalībnieku sapulču protokolus;
