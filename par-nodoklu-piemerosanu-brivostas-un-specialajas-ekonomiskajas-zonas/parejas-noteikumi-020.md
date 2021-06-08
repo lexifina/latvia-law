@@ -1,0 +1,1 @@
+20. Šā likuma 2.¹ panta otrās daļas nosacījumi attiecas uz zonas kapitālsabiedrību un licencēto kapitālsabiedrību līgumiem par ieguldījumu veikšanu vai paredzamo algu izmaksu veikšanu zonas vai brīvostas teritorijā, kuri ar zonas pārvaldi vai brīvostas pārvaldi tiek slēgti, sākot ar dienu, kad stājas spēkā 2.¹ panta otrā daļa.

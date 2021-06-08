@@ -11,7 +11,7 @@ a) zonas kapitālsabiedrības vai licencētas kapitālsabiedrības pārvaldes in
 b) darījuma sarunas un līgumu noslēgšana ārpus speciālās ekonomiskās zonas vai brīvostas teritorijas,
 c) preču tranzīts no speciālās ekonomiskās zonas vai brīvostas teritorijas vai uz to,
 d) citas darbības, kurām nav preču-naudas (arī ieskaita) darījuma izpildes rakstura.
-(2¹) Atļauju piemērot tiešo nodokļu atvieglojumus var piešķirt Rēzeknes speciālās ekonomiskās zonas un Latgales speciālās ekonomiskās zonas kapitālsabiedrībai, kura atbilst šā panta otrajā daļā minētajiem nosacījumiem un ir izvēlējusies šā likuma 1. panta otrās daļas 6. punkta "a" vai "b" apakšpunktā minēto attiecināmo izmaksu veidu.
+(2¹) Atļauju piemērot tiešo nodokļu atvieglojumus var piešķirt Rēzeknes speciālās ekonomiskās zonas kapitālsabiedrībai, Latgales speciālās ekonomiskās zonas kapitālsabiedrībai un Liepājas speciālās ekonomiskās zonas kapitālsabiedrībai, kura atbilst šā panta otrās daļas nosacījumiem un ir izvēlējusies šā likuma 1. panta otrās daļas 6. punkta "a" vai "b" apakšpunktā minēto attiecināmo izmaksu veidu.
 (3) Atļauja piemērot tiešo nodokļu atvieglojumus zaudē spēku, ja ir vismaz viens no šādiem nosacījumiem:
 1) izbeidzies speciālās ekonomiskās zonas darbības termiņš vai likvidēta brīvosta;
 2) izbeidzies šīs atļaujas derīguma termiņš;
@@ -47,6 +47,14 @@ d) ieguldījumi attiecināmi uz atjaunojamiem enerģijas avotiem vai augstas efe
 2) dzērienu ražošana (NACE kods: C11), izņemot bezalkohola dzērienu ražošanu; minerālūdeņu un pudelēs iepildītu citu ūdeņu ražošana (NACE kods: 11.07);
 3) tabakas izstrādājumu ražošana (NACE kods: C12);
 4) mazumtirdzniecība (NACE kods: G), izņemot saražoto produktu mazumtirdzniecību ražošanas teritorijās Rēzeknes speciālajā ekonomiskajā zonā;
+5) finanšu un apdrošināšanas darbības (NACE kods: K);
+6) azartspēles un derības (NACE kods: R92);
+7) pārējo individuālo pakalpojumu sniegšana (NACE kods: S96).
+(4³) Atļauju piemērot tiešo nodokļu atvieglojumus par šā likuma 1. panta otrās daļas 4.¹ un 12. punktā noteikto Liepājas speciālās ekonomiskās zonas pārvalde papildus šā panta ceturtajā daļā minētajam nepiešķir kapitālsabiedrībām, kas īsteno ieguldījumu projektu šādās nozarēs:
+1) tabakas audzēšana (NACE kods: A01.15);
+2) dzērienu ražošana (NACE kods: C11), izņemot bezalkohola dzērienu ražošanu; minerālūdeņu un pudelēs iepildītu citu ūdeņu ražošana (NACE kods: 11.07);
+3) tabakas izstrādājumu ražošana (NACE kods: C12);
+4) mazumtirdzniecība (NACE kods: G), izņemot saražoto produktu mazumtirdzniecību ražošanas teritorijās Liepājas speciālajā ekonomiskajā zonā;
 5) finanšu un apdrošināšanas darbības (NACE kods: K);
 6) azartspēles un derības (NACE kods: R92);
 7) pārējo individuālo pakalpojumu sniegšana (NACE kods: S96).

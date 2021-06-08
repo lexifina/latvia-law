@@ -1,0 +1,1 @@
+22. Satiksmes ministrija nodrošina Komisijas regulas Nr. 651/2014 11. pantā noteiktās paziņošanas prasības izpildi saistībā ar valsts atbalsta tiešo nodokļu veidā par sākotnējo ieguldījumu rezultātā jaunizveidotajām darba vietām attiecināšanu uz Liepājas speciālo ekonomisko zonu.
