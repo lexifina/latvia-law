@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada pavasara sesija",
+ "sede": 29,
+ "datums": "2021-06-10",
+ "ieraksts": {
+  "dkp_id": "1ef19d76-53b1-4a82-ba5b-e865ed6b6d8a",
+  "lastmodtime": "",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "",
+  "VOTEISCANDIDATE": "",
+  "VOTEWITHSIGNS": "",
+  "NAME": "Aldis#Jānis#Valērijs#Arvils#Uldis#Krista#Dagmāra#Māris#Iveta#Raimonds#Aigars#Aldis#Mārtiņš#Uldis#Jānis#Jānis#Boriss#Anda#Gundars#Sergejs#Jānis#Vjačeslavs#Jānis#Ilmārs#Raivis#Krišjānis#Aldis#Inga#Kaspars#Jānis#Ilze#Janīna#Ritvars#Andrejs#Juris#Nikolajs#Artuss#Ojārs Ēriks#Aleksandrs#Andrejs#Ivans#Rihards#Rihards#Ieva#Armands#Līva#Jānis#Edgars#Māris#Janīna#Janīna#Ainars#Atis#Inese#Viesturs#Regīna#Eva#Linda#Māris#Māris#Ināra#Romāns#Ralfs#Vladimirs#Vitālijs#Evija#Ramona#Igors#Juris#Ēriks#Ivars#Juris#Ivans#Inguna#Sandis#Artūrs#Dace#Andris#Karina#Jūlija#Didzis#Edvīns#Mārtiņš#Ilga#Ļubova#Edgars#Edmunds#Vita Anda#Jānis#Jānis#Viktors#Jānis#Inese#Jānis#Atis#Evita#Gatis#Ivars#Reinis#Normunds",
+  "SURNAME": "Adamovičs#Ādamsons#Agešins#Ašeradens#Augulis#Baumane#Beitnere-Le Galla#Beļaunieks#Benhena-Bēkena#Bergmanis#Bikše#Blumbergs#Bondars#Budriķis#Butāns#Cielēns#Cilevičs#Čakša#Daudze#Dolgopolovs#Dombrava#Dombrovskis#Dūklavs#Dūrītis#Dzintars#Feldmans#Gobzems#Goldberga#Ģirģens#Iesalnieks#Indriksone#Jalinska#Jansons#Judins#Jurašs#Kabanovs#Kaimiņš#Kalniņš#Kiršteins#Klementjevs#Klementjevs#Kols#Kozlovskis#Krapāne#Krauze#Kreituse#Krišāns#Kucins#Kučinskis#Kursīte#Kursīte-Pakule#Latkovskis#Lejiņš#Lībiņa-Egnere#Liepkalns#Ločmele#Mārtuža#Medne#Mičerevskis#Možvillo#Mūrniece#Naudiņš#Nemiro#Nikonovs#Orlovs#Papule#Petraviča#Pimenovs#Pūce#Pucens#Puga#Rancāns#Ribakovs#Rībena#Riekstiņš#Rubiks#Rukšāne-Ščipčinska#Skride#Sprūde#Stepaņenko#Šmits#Šnore#Šteins#Šuplinska#Švecova#Tavars#Teirumnieks#Tērauda#Tutins#Urbanovičs#Valainis#Vitenbergs#Voika#Vucāns#Zakatistovs#Zālīte-Grosa#Zamurs#Zariņš#Znotiņš#Žunna",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "JV#SASKAŅA#SASKAŅA#JV#ZZS#AP!#JK#JK# #ZZS#AP!# #AP!#JK#JK#JK#SASKAŅA# #ZZS#SASKAŅA#NA# #ZZS#AP!#NA#JK# #SASKAŅA#KPV LV#NA#NA#ZZS#NA#JV#JK#SASKAŅA# #JV#NA#SASKAŅA#SASKAŅA#NA#JV#KPV LV#ZZS#JK#SASKAŅA#SASKAŅA#ZZS# #NA#JV#JV#JV#AP!#SASKAŅA#JK#JK# #KPV LV#NA#NA#KPV LV#SASKAŅA#SASKAŅA# #KPV LV#SASKAŅA#AP!#KPV LV# #JK#SASKAŅA# #JK#SASKAŅA#AP!#AP!# # # #NA#AP!# # #ZZS#NA#AP!#SASKAŅA#SASKAŅA#ZZS# #AP!#ZZS# #JK#AP!#SASKAŅA#JK#JK",
+  "RESULT": "Pret#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Nebalsoja#Par#Atturas#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Par#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Pret#Pret#Par#Atturas#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Pret#Par#Atturas#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Par#Pret#Pret#Nebalsoja#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "10.06.2021 16:11:35",
+  "VOTEMOTIVE": "9. priekšlikums. Grozījumi Publisku izklaides un svētku pasākumu drošības likumā (500/Lp13), 2.lasījums",
+  "VOTING_ID": "",
+  "VOTERESULT_ABSTAIN": "3",
+  "VOTERESULT_AGAINST": "43",
+  "VOTERESULT_FOR": "8",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada pavasara sesija-29-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c5a58823-8369-46ca-8902-e4ba0451c420/download/13.saeimas-2021.gada-pavasara-sesija-29-vote.xml",
+  "sha256": "ce6215f5c7727ee102ca1e38c5fb6b5c8c325bcef97777e7e2df4e5ae968ebec",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
