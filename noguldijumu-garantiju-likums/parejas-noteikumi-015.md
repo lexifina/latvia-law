@@ -1,0 +1,1 @@
+15. Noguldītāji, kuriem 2014. gada 14. jūnijā bija tiesības saņemt garantēto atlīdzību saistībā ar noguldījumu nepieejamības iestāšanos noguldījumu piesaistītājā, bet kuri to nav saņēmuši, jo bija nepilngadīgi, zaudē prasījuma tiesības pret noguldījumu garantiju fondu par garantētās atlīdzības izmaksu 2029. gada 31. decembrī.
