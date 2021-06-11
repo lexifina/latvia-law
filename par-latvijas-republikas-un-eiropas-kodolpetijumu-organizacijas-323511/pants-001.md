@@ -1,0 +1,1 @@
+1. pants. 2021. gada 14. aprīlī parakstītais Latvijas Republikas un Eiropas Kodolpētījumu organizācijas (CERN) līgums par CERN asociētās dalībvalsts statusa piešķiršanu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
