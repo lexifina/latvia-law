@@ -1,6 +1,7 @@
 26.⁸ pants. Sagatavošanās strīda izskatīšanai
 (1) Saņemot iesniegumu par strīda izskatīšanu, iesnieguma kopija nekavējoties, bet ne vēlāk kā 10 darbdienu laikā nosūtāma pārdevējam vai pakalpojuma sniedzējam.
 (2) Pārdevējs vai pakalpojuma sniedzējs 15 dienu laikā no šā panta pirmajā daļā minētā iesnieguma kopijas saņemšanas dienas sniedz atbildi par patērētāja iesniegumā minēto informāciju un informē par iespējamo strīda risinājumu (ja tāds ir) vai sniedz pamatojumu prasījuma izpildes atteikumam.
-(3) Nekavējoties, bet ne vēlāk kā 10 darbdienu laikā no pārdevēja vai pakalpojuma sniedzēja atbildes saņemšanas dienas atbildes kopija nosūtāma patērētājam.
+(3) Nekavējoties, bet ne vēlāk kā 10 darbdienu laikā no pārdevēja vai pakalpojuma sniedzēja atbildes saņemšanas dienas atbildes kopija nosūtāma patērētājam, ja pārdevējs vai pakalpojuma sniedzējs tajā ir piedāvājis strīda risinājumu
 (4) Ja patērētāju apmierina pārdevēja vai pakalpojuma sniedzēja piedāvātais strīda risinājums, strīds ir uzskatāms par atrisinātu.
 (5) Ja patērētāju neapmierina pārdevēja vai pakalpojuma sniedzēja piedāvātais strīda risinājums vai ja pārdevējs vai pakalpojuma sniedzējs noteiktajā termiņā nav sniedzis atbildi, strīda puses tiek informētas par strīda izskatīšanas nodošanu Komisijai.
+(6) Ja Patērētāju tiesību aizsardzības centrs ir saņēmis patērētāja iesniegumu, kurā lūgts strīdu izskatīt Komisijā, Patērētāju tiesību aizsardzības centrs sākotnēji sniedz palīdzību strīda risināšanā. Ja Patērētāju tiesību aizsardzības centra sniegtā palīdzība nav nodrošinājusi rezultātu, strīda puses tiek informētas par strīda izskatīšanas nodošanu Komisijai.

@@ -19,3 +19,4 @@ c) sniedz palīdzību patērētājiem, veicot ar kreditēšanas līgumiem saist�
 a) kuru nodarbina kredīta devējs vai kredīta starpnieks un kura kontaktējas ar patērētājiem vai veic darbības, uz kurām attiecas patērētāja kreditēšanu regulējošie normatīvie akti,
 b) kura strādā kredīta starpnieka pārstāvja labā un kontaktējas ar patērētājiem, veicot darbības, uz kurām attiecas patērētāja kreditēšanu regulējošie normatīvie akti,
 c) kura tieši vada vai uzrauga šā punkta "a" un "b" apakšpunktā minētās fiziskās personas.
+13) tiešsaistes saskarne - Eiropas Parlamenta un Padomes 2017. gada 12. decembra regulas (ES) 2017/2394 par sadarbību starp valstu iestādēm, kas atbild par tiesību aktu izpildi patērētāju tiesību aizsardzības jomā, un ar ko atceļ regulu (EK) Nr. 2006/2004 (turpmāk - regula Nr. 2017/2394) 3. panta 15. punktā minētā tiešsaistes saskarne.

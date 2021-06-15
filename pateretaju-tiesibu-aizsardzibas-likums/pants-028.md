@@ -5,7 +5,7 @@
 3) attiecīgi samazina preces cenu;
 4) atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu.
 (2) Vispirms patērētājs ir tiesīgs prasīt, lai pārdevējs vai pakalpojuma sniedzējs bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai bez atlīdzības apmaina preci pret tādu, ar kuru būtu nodrošināta atbilstība līguma noteikumiem, izņemot gadījumu, kad tas nav iespējams vai ir nesamērīgi.
-(3) Preces neatbilstības novēršana vai apmaiņa uzskatāma par nesamērīgu, ja tā rada pārdevējam vai pakalpojuma sniedzējam izmaksas, kas nav samērīgas ar citu šā panta pirmajā daļā minēto alternatīvo līdzekli, ņemot vērā:
+(3) Preces neatbilstības novēršana vai apmaiņa uzskatāma par nesamērīgu, ja tā rada pārdevējam vai pakalpojuma sniedzējam izmaksas, kas nav samērīgas ar citu šā panta otrajā daļā minēto alternatīvo līdzekli, ņemot vērā:
 1) preces vērtību bez neatbilstības;
 2) neatbilstības nozīmību;
 3) to, vai alternatīvā līdzekļa izmantošana nerada patērētājam būtiskas neērtības.
