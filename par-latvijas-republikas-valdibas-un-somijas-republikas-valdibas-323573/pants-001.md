@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdības un Somijas Republikas valdības vienošanās par Līguma starp Latvijas Republikas valdību un Somijas Republikas valdību par ieguldījumu veicināšanu un aizsardzību denonsēšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.
