@@ -1,8 +1,6 @@
 9.pants. Mobilizācijas plānošanas, sagatavošanas un īstenošanas reglamentēšana
 Lai reglamentētu mobilizācijas plānošanu, sagatavošanu un īstenošanu, Ministru kabinets izdod šādus noteikumus:
-1) par civilās trauksmes un apziņošanas sistēmu, nosakot:
-a) civilās trauksmes un apziņošanas sistēmas mērķi un uzdevumus,
-b) valsts un pašvaldību institūciju pienākumus sistēmas darbības nodrošināšanā;
+1) (izslēgts ar 20.05.2021. likumu);
 2) par mobilizējamo civilās aizsardzības formējumu veidošanas kārtību un finansējumu, nosakot:
 a) mobilizējamos civilās aizsardzības formējumus, to uzdevumus un materiāltehniskā nodrošinājuma paraugnormas, kā arī ministriju kompetenci civilās aizsardzības formējumu materiāltehniskajā nodrošinājumā,
 b) mācību nodrošinājumu un organizāciju,
