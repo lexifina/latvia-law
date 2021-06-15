@@ -5,4 +5,7 @@
 3) ir Latvijas Republikā saņēmusi licenci dabasgāzes pārvadei, sadalei, uzglabāšanai vai tai pieder sašķidrinātās dabasgāzes iekārta, kas savienota ar pārvades sistēmu;
 4) ir elektroenerģijas vai siltumenerģijas ražotājs, kura uzstādītā faktiskā jauda pārsniedz 50 megavatus;
 5) ir siltumenerģijas pārvades un sadales operators, kuram pieder siltumtīkli vismaz 100 kilometru garumā;
-6) ir Latvijas Republikā saņēmusi licenci elektroenerģijas pārvadei.
+6) ir Latvijas Republikā saņēmusi licenci elektroenerģijas pārvadei;
+7) ir Latvijas Republikā esošas meža zemes vismaz 10 000 hektāru platībā īpašniece;
+8) ir Latvijas Republikā esošas lauksaimniecības zemes vismaz 4000 hektāru platībā īpašniece;
+9) ir saņēmusi Aizsardzības ministrijas izsniegtu speciālo atļauju (licenci) komercdarbībai ar stratēģiskas nozīmes precēm vai militārā ražotāja sertifikātu, un tai ir spēkā esošs stratēģiskās partnerības līgums ar Aizsardzības ministriju.
