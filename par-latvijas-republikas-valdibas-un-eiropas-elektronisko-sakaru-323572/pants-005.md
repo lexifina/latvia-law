@@ -1,0 +1,1 @@
+5. pants. Līdz ar Līguma spēkā stāšanos spēku zaudē likums " Par Mītnes līgumu starp Latvijas Republikas valdību un Eiropas Elektronisko sakaru regulatoru iestādes biroju " (Latvijas Vēstnesis, 2011, 99. nr.).

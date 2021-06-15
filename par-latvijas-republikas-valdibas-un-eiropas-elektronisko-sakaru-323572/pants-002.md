@@ -1,0 +1,7 @@
+2. pants. (1) Līgumā paredzēto saistību izpildi koordinē Satiksmes ministrija.
+(2) Finanšu ministrija sadarbībā ar Ārlietu ministriju ir atbildīga par Līguma 5. panta 2., 3. un 4. punktā un 12. panta 2. punktā minēto saistību, 12. panta 3. un 4. punktā minēto saistību daļā par fiskālo privilēģiju nodrošināšanu Eiropas Elektronisko sakaru regulatoru iestādes atbalsta aģentūras (turpmāk - BEREC birojs) darbiniekiem ar diplomātisku statusu un 13. panta 4. un 5. punktā minēto saistību daļā par fiskālo privilēģiju nodrošināšanu BEREC biroja norīkotajiem ekspertiem ar diplomātisko statusu izpildes nodrošināšanu.
+(3) Finanšu ministrija ir atbildīga par Līguma 5. panta 1. un 5. punktā, 6. pantā, 8. panta 3. punktā, 10. panta 2. punktā, 12. panta 1. punkta "ii" apakšpunktā, 5. un 6. punktā un 13. panta 1., 6. un 7. punktā minēto saistību un 15. pantā minēto saistību daļā par atbrīvojumiem no valsts nodokļiem izpildes nodrošināšanu.
+(4) Finanšu ministrija sadarbībā ar Satiksmes ministriju ir atbildīga par Līguma 8. panta 1. punktā minēto saistību izpildes nodrošināšanu.
+(5) Ārlietu ministrija ir atbildīga par Līguma 8. panta 2. punktā, 9. un 16. pantā minēto saistību izpildes nodrošināšanu.
+(6) Satiksmes ministrija ir atbildīga par Līguma 12. panta 3. un 4. punktā, 13. panta 4. un 5. punktā un 19. pantā minēto saistību izpildes nodrošināšanu.
+(7) Izglītības un zinātnes ministrija ir atbildīga par Līguma 21. pantā minēto saistību izpildes nodrošināšanu.

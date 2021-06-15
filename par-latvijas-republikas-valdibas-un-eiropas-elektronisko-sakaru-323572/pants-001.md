@@ -1,0 +1,1 @@
+1. pants. 2020. gada 21. decembrī Rīgā parakstītais Latvijas Republikas valdības un Eiropas Elektronisko sakaru regulatoru iestādes atbalsta aģentūras mītnes līgums (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
