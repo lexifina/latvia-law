@@ -1,0 +1,2 @@
+1.¹ pants. (1) Par līguma 3. panta 2. punktā minētajām precēm, kas ievestas privātās izglītības iestādes "Latvijas Starptautiskā skola" lietošanai, samaksāto muitas maksājumu (ievedmuitas nodokli, pievienotās vērtības nodokli, akcīzes nodokli) un dabas resursu nodokļa summu izglītības iestādei kompensē no valsts budžeta.
+(2) Ministru kabinets nosaka šā panta pirmajā daļā paredzētās kompensācijas izmaksai iesniedzamos dokumentus, to iesniegšanas kārtību un termiņus, kā arī kompensācijas izmaksāšanas kārtību.
