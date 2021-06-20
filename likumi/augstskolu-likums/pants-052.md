@@ -7,4 +7,5 @@
 3) aprīkojuma iegādei;
 4) akadēmiskā un vispārējā augstskolas un koledžas personāla un studējošo materiālajai stimulēšanai, kā arī personāla darba samaksai.
 (3) Šā panta pirmajā daļā minētajiem studējošajiem tiek piešķirtas stipendijas Ministru kabineta noteiktajā kārtībā.
+(3¹) Studējošajam līdz 25 gadu vecumam, kurš studē Latvijā pilna laika studijās klātienē pirmā līmeņa profesionālās augstākās izglītības programmā, bakalaura studiju programmā vai profesionālajā studiju programmā, ir tiesības saņemt stipendiju sociālajam atbalstam (turpmāk - sociālā stipendija), ja studējošais atbilst Ministru kabineta noteiktajām prasībām. Sociālo stipendiju piešķir no valsts budžeta līdzekļiem. Ministru kabinets nosaka studējošo kategorijas, kurām piešķir sociālo stipendiju, sociālās stipendijas piešķiršanas nosacījumus, tostarp ņemot vērā studējošā sekmju līmeni un ienākumus, kā arī sociālās stipendijas apmēru un tās piešķiršanas kārtību.
 (4) Augstskolas senāts vai koledžas padome nosaka no valsts budžeta līdzekļiem finansēto studiju vietu sadalījuma kārtību augstskolas vai koledžas studiju programmās studējošajiem.
