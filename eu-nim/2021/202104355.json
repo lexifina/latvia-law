@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 27. maija likums \"Grozījumi Kredītiestāžu likumā\". Latvijas Vēstnesis, 110, 09.06.2021.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2021/110.5",
+  "official_journal_page": "2",
+  "official_journal_date": "2021-06-08",
+  "entry_into_force": "2021-06-22",
+  "notification_date": "2021-06-22",
+  "commission_reference": "MNE(2021)04355",
+  "nim_celex": "72019L2162LVA_202104355",
+  "nim_id": "202104355",
+  "transposes_celex": [
+    "32019L2162"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee38367c-d585-11eb-895a-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
