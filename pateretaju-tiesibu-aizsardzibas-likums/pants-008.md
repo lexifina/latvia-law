@@ -4,7 +4,8 @@
 1) kapitālsabiedrību, kura uzskatāma par kredītiestādi saskaņā ar normatīvajiem aktiem, kas regulē kredītiestāžu darbību;
 2) ražotāju, pārdevēju vai pakalpojuma sniedzēju, kas piedāvā norēķināties par preču vai pakalpojumu iegādi atlikta maksājuma, aizdevuma vai citas tamlīdzīgas finansiālas vienošanās veidā, nepiesaistot trešās personas finansējumu;
 3) komersantu, kurš saskaņā ar līgumu, kas noslēgts starp ražotāju, pārdevēju vai pakalpojuma sniedzēju, preču vai pakalpojumu iegādei piedāvā slēgt tikai tādus patērētāja kreditēšanas līgumus, saskaņā ar kuriem netiek maksāti procenti vai citi papildu maksājumi;
-4) krājaizdevu sabiedrību.
+4) krājaizdevu sabiedrību;
+5) pārvaldnieku atbilstoši Segto obligāciju likumam.
 (1²) Par speciālās atļaujas (licences) izsniegšanu patērētāja kreditēšanas pakalpojumu sniegšanai, kā arī par kreditēšanas pakalpojumu sniedzēja darbības uzraudzību kapitālsabiedrība maksā valsts nodevu.
 (1³) Speciālā atļauja (licence) tiek izsniegta uz nenoteiktu laiku. Speciālās atļaujas (licences) izsniegšanas, anulēšanas un darbības apturēšanas kārtību, prasības, kādām jāatbilst kapitālsabiedrībai, lai tā varētu saņemt speciālo atļauju (licenci), tajā skaitā prasības par pamatkapitālu, kā arī prasības attiecībā uz kapitālsabiedrības padomes un valdes locekļiem, valsts nodevas apmēru par speciālās atļaujas (licences) izsniegšanu un ikgadējās valsts nodevas apmēru par kreditēšanas pakalpojumu sniedzēja darbības uzraudzību un maksāšanas kārtību nosaka Ministru kabinets.
 (1⁴) Par patērētāju kreditēšanas pakalpojumiem uzskatāmi arī tādi pakalpojumi, kuru ietvaros no patērētāja tiek pieņemta patērētāja lieta pārdošanai vai glabāšanai un samaksa par lietu tiek veikta lietas nodošanas brīdī, ja līgumā paredzētas patērētāja tiesības atkāpties no līguma, par to paredzot maksu.
