@@ -1,0 +1,3 @@
+76. pants. Prasījumu apmierināšanas kārtība
+(1) Seguma portfeļa likvidācijā saskaņā ar šā likuma 69. pantu un emitenta maksātnespējas procesā ieguldītāju prasījumi un segto obligāciju kreditoru prasījumi pret emitentu un segto obligāciju sabiedrību ir savstarpēji vienas kārtas prasījumi un ieguldītāju prasījumiem nav īpašas priekšrocības salīdzinājumā ar segto obligāciju kreditoru prasījumiem.
+(2) Emitenta maksātnespējas procesā šā likuma 77. panta trešajā daļā minētie ieguldītāju un segto obligāciju kreditoru prasījumi ir vienas kārtas prasījumi ar pārējo likumīgo kreditoru prasījumiem saskaņā ar Kredītiestāžu likuma 139.³ panta 1. punktu.

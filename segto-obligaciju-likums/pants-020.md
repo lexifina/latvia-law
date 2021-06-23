@@ -1,0 +1,3 @@
+20. pants. Ziņu iekļaušana Kredītu reģistrā un kredītinformācijas biroju datubāzēs
+(1) Ziņas par seguma aktīvos ietvertajiem prasījumiem Kredītu reģistrā iekļauj pārvaldnieks saskaņā ar Kredītu reģistra likumu. Ja pārvaldnieks nav Kredītu reģistra dalībnieks, ziņas Kredītu reģistrā iekļauj segto obligāciju sabiedrība.
+(2) Ja attiecīgais prasījums izriet no aizdevuma (kredīta), kas sniegts saskaņā ar patērētāja kreditēšanas līgumu atbilstoši Patērētāju tiesību aizsardzības likumam, pārvaldnieks kā kredītinformācijas lietotājs ziņas kredītinformācijas birojiem par parādu vai saistībām sniedz saskaņā ar normatīvajiem aktiem, kas nosaka šādu ziņu sniegšanu.

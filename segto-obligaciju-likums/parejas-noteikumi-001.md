@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Hipotekāro ķīlu zīmju likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 21. nr.; 2000, 13. nr.; 2001, 16. nr.; 2002, 22. nr.; 2006, 21. nr.).

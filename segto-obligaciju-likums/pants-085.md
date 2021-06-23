@@ -1,0 +1,5 @@
+85. pants. Segto obligāciju programmas īstenošanas uzraudzība pārrobežu programmā
+(1) Pārrobežu programmā Komisijai ir šajā likumā noteiktās uzraudzības funkcijas un pilnvaras, ja attiecīgās segto obligāciju programmas īstenošana ir atļauta (reģistrēta) Latvijā.
+(2) Dalībvalsts segto obligāciju programmas uzraudzības iestāde ir tiesīga veikt dalībvalsts normatīvajos aktos noteiktās segto obligāciju programmas uzraudzības darbības Latvijā attiecībā uz dalībvalstī atļautas (reģistrētas) segto obligāciju programmas seguma portfeļa daļu, kas atrodas Latvijā, un Latvijā reģistrētu segto obligāciju sabiedrību, kura saskaņā ar attiecīgajā dalībvalstī atļautu (reģistrētu) segto obligāciju programmu seguma portfelī iekļauj seguma aktīvus Latvijā vai to daļu.
+(3) Dalībvalsts segto obligāciju programmas uzraudzības iestāde informē Komisiju par plānoto segto obligāciju programmas uzraudzības darbību veikšanu Latvijā šā panta otrajā daļā minētajos gadījumos.
+(4) Komisija un citas dalībvalsts segto obligāciju programmas uzraudzības iestāde konsultējas un sadarbojas jautājumos, kas saitīti ar pārrobežu programmas uzraudzību.

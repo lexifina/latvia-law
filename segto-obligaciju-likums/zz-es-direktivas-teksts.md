@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 27. novembra direktīvas (ES) 2019/2162 par segto obligāciju emisiju un segto obligāciju publisko uzraudzību un ar ko groza direktīvas 2009/65/EK un 2014/59/ES.

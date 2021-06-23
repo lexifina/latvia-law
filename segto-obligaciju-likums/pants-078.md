@@ -1,0 +1,3 @@
+78. pants. Atsevišķu tiesību normu nepiemērošana emitentam
+(1) Normatīvie akti, kas ierobežo, aptur, groza, izbeidz vai samazina emitenta saistības emitenta maksātnespējas procesā vai likvidācijā, noregulējumā vai reorganizācijas pasākumos nav piemērojami emitenta saistībām, kas izriet no segtajām obligācijām.
+(2) Jebkādi normatīvajos aktos noteiktie ierobežojumi, kas ir piemērojami emitenta darbībām saistībā ar seguma aktīvu pārvaldīšanu, nav piemērojami emitenta maksātnespējas procesa vai likvidācijas, noregulējuma vai reorganizācijas pasākumu piemērošanas laikā, izņemot šā likuma 71. panta pirmajā un otrajā daļā noteiktajā gadījumā.

@@ -1,0 +1,12 @@
+55. pants. Virsnodrošināšanas līmenis
+(1) Emitents nodrošina, ka seguma aktīvos iekļauto no aizdevumiem (kredītiem) izrietošo prasījumu kopējā atlikusī pamatsumma un atvasinātā instrumenta vērtība nav mazāka par 105 procentiem no kopējās segto obligāciju neatmaksātās nominālvērtības (turpmāk - likumiskā virsnodrošināšana), izņemot šā panta sestajā daļā noteikto.
+(2) Komisija jebkurā laikā ir tiesīga pieprasīt, lai emitents nodrošina augstāka līmeņa virsnodrošināšanu, nekā noteikts šā panta pirmajā daļā, ja seguma portfelis nav pietiekams, lai aizsargātu ieguldītāju un segto obligāciju kreditoru intereses (turpmāk - obligātā virsnodrošināšana).
+(3) Segto obligāciju programmas noteikumos var paredzēt, ka emitents nodrošina augstāka līmeņa virsnodrošināšanu nekā likumiskā virsnodrošināšana un obligātā virsnodrošināšana (turpmāk - līgumiskā virsnodrošināšana).
+(4) Brīvprātīga virsnodrošināšana ir virsnodrošināšana, kas pārsniedz likumisko virsnodrošināšanu, obligāto virsnodrošināšanu un līgumisko virsnodrošināšanu.
+(5) Virsnodrošināšanas aprēķinam var ņemt vērā visu veidu seguma aktīvus, kas minēti šā likuma 54. panta otrajā daļā.
+(6) Uz segtajām obligācijām, kurām kā seguma aktīvi izmantoti prasījumi, kuri izriet no aizdevumiem (kredītiem) publiskas personas kontrolētajām kapitālsabiedrībām vai kurus minētās kapitālsabiedrības garantē un ietver portfelī kā primāros aktīvus, attiecina likumiskās virsnodrošināšanas līmeni ne mazāk kā 110 procentu apjomā, ievērojot visus šādus nosacījumus:
+1) publiskas personas kontrolēta kapitālsabiedrība sniedz sabiedriskos pakalpojumus, pamatojoties uz atļauju (licenci) vai reģistrāciju, kas izsniegta vai veikta saskaņā ar ārējos normatīvajos aktos noteikto, koncesijas līgumu, deleģēšanas līgumu vai cita veida pilnvarojumu, ko piešķir valsts vai pašvaldību iestāde;
+2) publiskas personas kontrolētai kapitālsabiedrībai:
+a) ir tiesības saņemt dotācijas, lai nodrošinātu savu finansiālo stabilitāti un maksātspēju attiecībā uz sabiedrisko pakalpojumu sniegšanu,
+b) kārtība, kādā nosakāma dividendēs izmaksājamās peļņas daļa, ir noteikta saskaņā ar Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumu.
+(7) Sabiedriskie pakalpojumi šā panta izpratnē ir likumā "Par sabiedrisko pakalpojumu regulatoriem" minētie sabiedriskie pakalpojumi, ārstniecības, gaisa satiksmes, sabiedriskā transporta un transporta kustības drošības pakalpojumi, ja tos sniedz publiskas personas kontrolēta kapitālsabiedrība.

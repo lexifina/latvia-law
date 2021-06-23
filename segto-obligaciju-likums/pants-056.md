@@ -1,0 +1,13 @@
+56. pants. Atvasināto instrumentu izmantošana
+(1) Emitents var pārvaldīt tirgus riskus, tostarp procentu likmju risku un ārvalstu valūtas risku, kas skar seguma aktīvus, izmantojot atvasinātos instrumentus. Atvasināto instrumentu līgumus slēdz tikai nolūkā ierobežot minētos riskus.
+(2) Emitents noslēdz atvasināto instrumentu līgumu vai nodrošina, ka segto obligāciju sabiedrība noslēdz šo līgumu, ievērojot šādas prasības:
+1) atvasināto instrumentu izmantošana tiek pielāgota riska līmenim un, kad attiecīgais risks vairs nepastāv, atvasināto instrumentu līgumu var izbeigt;
+2) atvasināto instrumentu darījumi ir pietiekami dokumentēti;
+3) emitenta maksātnespējas process vai likvidācija, noregulējums vai reorganizācijas pasākumi nav pamats atvasināto instrumentu līguma izbeigšanai vai tā tūlītējai saistību izpildei, taču maksājumu saistību neizpildi saskaņā ar attiecīgo atvasināto instrumentu līgumu var uzskatīt par pamatotu iemeslu, lai izbeigtu šādu līgumu;
+4) netiek pieļauts ieskaits prasījumiem, kas izriet no citiem ar emitentu noslēgtajiem atvasināto instrumentu līgumiem;
+5) seguma aktīvus neizmanto kā nodrošinājumu, lai nodrošinātu saistības saskaņā ar atvasināto instrumentu līgumu;
+6) atvasināto instrumentu līgums ietver noteikumus, kas paredz pienākumu otrai līgumslēdzējpusei sniegt pietiekamu nodrošinājumu gadījumam, ja tās kredītspēja samazinās līdz nepieņemamam līmenim. Atbilstoši šiem noteikumiem līgumslēdzējs nodrošina pietiekamu nodrošinājumu vai šāds līgumslēdzējs tiek aizvietots.
+(3) Šā panta otrās daļas 5. punkts neierobežo emitentu nodrošināt segto obligāciju sabiedrībai papildu nepieciešamos līdzekļus tāda nodrošinājuma sniegšanai, kāds nepieciešams atvasināto instrumentu līguma noslēgšanai.
+(4) Ja šā panta otrās daļas 6. punktā minētais pienākums netiek izpildīts, emitents noslēdz jaunu līgumu vai nodrošina šāda līguma noslēgšanu atbilstoši šā panta otrajā daļā noteiktajam, lai sasniegtu minētajā daļā noteikto mērķi.
+(5) Emitents nodrošina un iesniedz rakstveida apliecinājumu Komisijai, ka atvasināto instrumentu izmantošana atbilst šā panta otrās daļas prasībām. Apliecinājums ietver riska ierobežošanas kritērijus darījumu pušu izvēlei, lai nodrošinātu to kredītspēju un sekmētu iespējami augstu segto obligāciju kredītreitingu, kā arī apliecinājumu par šo kritēriju izpildi. Apliecinājumam pievieno atvasināto instrumentu līgumu.
+(6) Nododot segto obligāciju programmas, no atvasinātajiem instrumentiem izrietošās saistības, tiesības un pienākumus nodod jaunajam emitentam kopā ar seguma aktīviem, bet šādu līgumu nevar izbeigt, pamatojoties uz segto obligāciju programmas nodošanu.

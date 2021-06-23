@@ -1,0 +1,3 @@
+30. pants. Segto obligāciju sabiedrības pienākums atklāt informāciju
+(1) Ja emitents nevar atklāt šā likuma 44. panta pirmajā daļā minēto informāciju sakarā ar to, ka ir pasludināts emitenta maksātnespējas process, uzsākta tā likvidācija, piemērots noregulējums vai reorganizācijas pasākumi, informāciju atklāj segto obligāciju sabiedrība, izņemot gadījumu, kad segto obligāciju programmu nodod jaunam emitentam.
+(2) Segto obligāciju sabiedrība gada pārskatu kopā ar zvērināta revidenta ziņojumu (ja tāds ir nepieciešams saskaņā ar normatīvajiem aktiem) nekavējoties pēc tā apstiprināšanas publicē savā tīmekļvietnē vai norāda citu atbilstošu informācijas nesēju vai vietu, kur šī informācija tiek publiskota.

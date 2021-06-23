@@ -1,0 +1,8 @@
+14. pants. Segto obligāciju sabiedrības reorganizācija un darbības izbeigšana
+(1) Segto obligāciju sabiedrības reorganizācija, tās uzņēmuma pāreja vai jebkāda cita rīcība ar segto obligāciju sabiedrību vai tās uzņēmumu, kas samazinātu iespēju izpildīt tās sniegto galvojumu vai kā dēļ nebūtu iespējams izpildīt šo galvojumu, nav atļauta, ja šī rīcība kaitētu ieguldītāju vai segto obligāciju kreditoru interesēm.
+(2) Segto obligāciju sabiedrība tiek likvidēta, ja:
+1) segto obligāciju programma ir izpildīta;
+2) segto obligāciju sabiedrībai vairs nav seguma aktīvu un tiesību uz jauniem seguma aktīviem saskaņā ar seguma portfeļa pārvaldīšanas līgumu.
+(3) Ja par segto obligāciju sabiedrības darbības izbeigšanu vai likvidāciju lemj cita iestāde vai tiesa saskaņā ar citiem normatīvajiem aktiem, segto obligāciju sabiedrības likvidēšana pieļaujama tikai tad, ja ir ievērots šā panta pirmajā daļā noteiktais, izņemot gadījumus, kad uzsākts process par piespiedu ietekmēšanas līdzekļu piemērošanu juridiskajai personai saskaņā ar Krimināllikumu un Kriminālprocesa likumu.
+(4) Šā panta pirmajā un otrajā daļā minētajos gadījumos nepieciešama Komisijas piekrišana. Ja par segto obligāciju sabiedrības darbības izbeigšanu lemj tiesa, tā pirms lēmuma pieņemšanas uzklausa Komisiju. Ja par segto obligāciju sabiedrības darbības izbeigšanu lemj cita iestāde, tai pirms lēmuma pieņemšanas nepieciešams saņemt Komisijas piekrišanu.
+(5) Latvijas Republikas Uzņēmumu reģistrs izslēdz segto obligāciju sabiedrību no komercreģistra pēc tam, kad ir saņemta Komisijas rakstveida piekrišana segto obligāciju sabiedrības likvidācijai vai attiecīgs tiesas nolēmums.

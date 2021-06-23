@@ -1,0 +1,2 @@
+19. pants. Personas datu apstrāde seguma aktīvu atsavināšanā
+Lai izmantotu šajā likumā noteiktās tiesības un izpildītu pienākumus, emitents vai atsavinātājs nodod segto obligāciju sabiedrībai ar seguma aktīviem saistītos personas datus, attiecībā uz kuriem tas rīkojas kā datu pārzinis un kurus tas apstrādā saistībā ar to, ka izsniedzis aizdevumu (kredītu), no kura izrietošās prasījuma tiesības ietilpst seguma aktīvos, un kuriem tas veic kredītriska pārvaldību. Segto obligāciju sabiedrība kļūst par saņemto personas datu pārzini bez datu subjekta piekrišanas.
