@@ -1,2 +1,2 @@
-139.pants. (1) Izmaksu un parādu segšanas kārtību nosaka likvidators, ievērojot šā likuma 139.¹, 139.², 139.³, 139.⁴, 139.⁵, 139.⁶ un 139.⁷ panta noteikumus.
+139.pants. (1) Izmaksu un parādu segšanas kārtību nosaka likvidators, ievērojot šā likuma 139.², 139.³, 139.⁴, 139.⁵, 139.⁶ un 139.⁷ panta noteikumus.
 (2) Kredītiestādes likvidācijas (arī pašlikvidācijas) procesā kreditoriem netiek veikta izmaksa par noguldījumiem, kuru noguldītājs kā klients nav identificēts atbilstoši Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma prasībām vai kamēr nav pabeigta klienta identifikācija un izpēte.

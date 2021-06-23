@@ -1,1 +1,0 @@
-56.¹ pants. Kredītiestādei, kuru konkursa kārtībā izvēlējusies Finanšu un kapitāla tirgus komisija, no likvidējamās kredītiestādes pilnā apmērā jāpārņem no tās emitētajām hipotekārajām ķīlu zīmēm izrietošās saistības pret šo ķīlu zīmju turētājiem kopā ar aktīviem, kas iekļauti hipotekāro ķīlu zīmju seguma reģistrā.

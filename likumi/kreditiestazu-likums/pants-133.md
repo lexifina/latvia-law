@@ -2,7 +2,7 @@
 1) datumu, kad pieņemts lēmums par pašlikvidāciju vai tiesas nolēmums, un datumu, ar kuru kredītiestāde atzīta par likvidējamu;
 2) termiņu, līdz kuram piesakāmas kreditoru un citu personu prasības un citas pretenzijas;
 3) likvidatora vārdu, uzvārdu (nosaukumu un pilnvarotā pārstāvja vārdu, uzvārdu, ja likvidators ir juridiskā persona), darbības vietu un tālruņa numuru.
-(2) Šā panta pirmās daļas 2. punktā minētais termiņš ir trīs mēneši. Termiņa tecējums sākas ar dienu, kad paziņojums publicēts oficiālajā izdevumā "Latvijas Vēstnesis".
+(2) Šā panta pirmās daļas 2. punktā minētais termiņš ir trīs mēneši, izņemot segto obligāciju kreditoru prasījumus, kurus saskaņā ar Segto obligāciju likumu piesaka neatkarīgi no minētā termiņa. Termiņa tecējums sākas ar dienu, kad paziņojums publicēts oficiālajā izdevumā "Latvijas Vēstnesis".
 (3) Kredītiestādes likvidators nodrošina vārda "likvidējamā" lietošanu visos kredītiestādes rekvizītos.
 (4) Uz tiesas ieceltu kredītiestādes likvidatoru attiecināmi šā likuma XI nodaļas noteikumi, izņemot 160.pantu un 166.pantu, kā arī attiecināmas šā likuma 172. un 172.¹ pantā administratoram noteiktās tiesības, pienākumi un pilnvaras.
 (5) Uz akcionāru sapulces ievēlētu kredītiestādes likvidatoru attiecināmi šā likuma XI nodaļas noteikumi, izņemot 155.pantu, 156.panta otro daļu, 157.panta otro un trešo daļu, 160.pantu, 166., 167., 168. un 169.pantu, kā arī attiecināmas šā likuma 172. un 172.¹ pantā administratoram noteiktās tiesības, pienākumi un pilnvaras.
