@@ -1,2 +1,2 @@
 II nodaļa
-Civilstāvokļa aktu reģistrācijas informācijas sistēma
+Civilstāvokļa aktu reģistru datu apstrāde
