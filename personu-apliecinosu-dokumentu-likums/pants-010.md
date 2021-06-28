@@ -8,7 +8,7 @@
 (7) Šā panta ceturtajā, piektajā vai sestajā daļā minētā pilnvara nav nepieciešama, ja:
 1) neviens no Latvijas pilsoņa vai nepilsoņa likumiskajiem pārstāvjiem nav Latvijas pilsonis vai nepilsonis, Savienības pilsonis vai bezvalstnieks;
 2) Latvijas pilsoņa vai nepilsoņa likumiskais pārstāvis šādu pilnvaru nav tiesīgs dot (piemēram, viņam atņemtas aizgādības tiesības) vai nav sasniedzams, vai atsakās dot piekrišanu un bāriņtiesa ir piekritusi bērna izceļošanai no valsts.
-(8) Par 14 gadiem jaunākas personas personu apliecinošu dokumentu neizsniedz, ja:
+(8) Par 14 gadiem jaunāka Latvijas pilsoņa vai nepilsoņa personu apliecinošu dokumentu neizsniedz, ja:
 1) ir saņemts tās likumiskā pārstāvja iesniegums ar lūgumu neizsniegt personu apliecinošu dokumentu, - līdz laikam, kad tiesā iesniegts šā panta astotās daļas 2. punktā minētais lūgums, bet ne ilgāk kā mēnesi no iesnieguma saņemšanas dienas;
 2) ir saņemts dokuments, kas apliecina, ka tiesai iesniegts lūgums pieņemt lēmumu, ar kuru noteikts aizliegums bērnu izvest no valsts, - līdz dienai, kad stājas spēkā tiesas lēmums par aizliegumu bērnu izvest no valsts vai par atteikumu šādu aizliegumu noteikt;
 3) ir pieņemts tiesas lēmums par aizliegumu attiecīgajai personai izbraukt no valsts vai izbraukt no valsts līdz tiesvedības procesa pabeigšanai ar galīgo nolēmumu lietā;
