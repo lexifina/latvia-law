@@ -1,0 +1,1 @@
+22. pants. Ārvalstu valdībām, kā arī starptautiskajām valdību organizācijām un nevalstiskajām organizācijām Pārvalde Reģistrā iekļauto informāciju sniedz saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem vai - īpašos gadījumos, kad šādi līgumi nav noslēgti, - ārlietu ministra un iekšlietu ministra savstarpēji saskaņotā kārtībā.

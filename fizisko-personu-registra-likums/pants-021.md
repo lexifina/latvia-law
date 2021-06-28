@@ -1,0 +1,1 @@
+21. pants. Saeimas Administrācijai, valsts pārvaldes iestādēm un privātpersonām, kurām deleģētas valsts pārvaldes funkcijas, kā arī tiesām un prokuratūrai ir tiesības saņemt no Reģistra šā likuma 11. panta pirmajā daļā noteiktās ziņas atbilstoši minēto institūciju un privātpersonu kompetencei.

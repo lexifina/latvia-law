@@ -1,0 +1,1 @@
+7. Ziņas par šā likuma 4. panta pirmās daļas 2. punkta "e" apakšpunktā minēto personu Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstīs sāk Reģistrā iekļaut ne vēlāk kā 2022. gada 1. jūlijā.

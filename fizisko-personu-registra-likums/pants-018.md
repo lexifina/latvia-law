@@ -1,0 +1,1 @@
+18. pants. Šā likuma 11. panta pirmās daļas 29. punktā minētās ziņas var pieprasīt un saņemt tikai adoptētais pēc pilngadības sasniegšanas. Līdz adoptētā pilngadībai šīs ziņas var pieprasīt un saņemt adoptētāji.

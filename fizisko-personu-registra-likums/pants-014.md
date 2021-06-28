@@ -1,0 +1,4 @@
+14. pants. (1) Šā likuma 4. panta pirmajā daļā minēto personu pienākums ir sniegt ziņas par sevi iekļaušanai Reģistrā. Ziņas par nepilngadīgu bērnu vai bērnu, kurš atrodas ārpusģimenes aprūpē vai aizgādnībā, sniedz attiecīgās personas likumiskais pārstāvis.
+(2) Šā likuma 4. panta pirmās daļas 1. punktā minētās personas sniedz ziņas par saviem jaundzimušajiem, nedzīvi dzimušajiem un dzemdībās mirušajiem bērniem divu mēnešu laikā pēc bērna piedzimšanas.
+(3) Šā likuma 4. panta pirmās daļas 1. punktā un 2. punkta "a" apakšpunktā minētās personas paziņo Pārvaldei savas dzīvesvietas adresi ārvalstīs, kā arī citas izmaiņas Reģistrā iekļautajās ziņās par sevi, saviem nepilngadīgajiem bērniem un par personām, kas atrodas to aizbildnībā vai aizgādnībā, ja šīs izmaiņas izdarītas ārvalstu institūcijās.
+(4) Nepilngadīgam bērnam vecumā no 15 līdz 18 gadiem un personai, kurai ir ierobežota rīcībspēja, ir tiesības sniegt šā panta pirmajā un trešajā daļā norādītās ziņas par sevi.

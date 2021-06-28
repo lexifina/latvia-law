@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Iedzīvotāju reģistra likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 19. nr.; 2002, 7., 21. nr.; 2005, 22. nr.; 2007, 15. nr.; Latvijas Vēstnesis, 2010, 78. nr.; 2011, 21. nr.; 2013, 6., 101., 211. nr.; 2016, 2. nr.).

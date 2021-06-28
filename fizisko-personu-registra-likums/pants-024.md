@@ -1,0 +1,1 @@
+24. pants. Par informācijas saņemšanu no Reģistra maksājama valsts nodeva. Ministru kabinets nosaka valsts nodevas apmēru, samaksas kārtību, atvieglojumus un atbrīvojumus, kā arī gadījumus, kuros valsts nodevu neatmaksā.
