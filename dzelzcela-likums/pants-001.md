@@ -41,8 +41,8 @@ Likumā ir lietoti šādi termini:
 39) kustības grafiks - datu kopums, ar kuru definē visu plānoto vilcienu kustību attiecīgajā dzelzceļa infrastruktūrā tajā laikposmā, kurā šis datu kopums ir spēkā;
 40) stāvēšanas ceļi - rezerves ceļi, kas ir īpaši paredzēti dzelzceļa transportlīdzekļu pagaidu novietošanai norīkojumu starplaikā;
 41) apjomīga apkope - darbi, kuri nav regulāri ikdienas pasākumi un kuru dēļ ritošā sastāva vienība nevar piedalīties satiksmē;
-42) maksas aprēķināšanas shēma - publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja izstrādāti un apstiprināti maksas aprēķināšanas noteikumi, kas tiek piemēroti visiem pārvadātājiem attiecīgajā tīklā;
-43) maksas iekasēšanas shēma - publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja izstrādāti un apstiprināti maksas iekasēšanas noteikumi, kas tiek piemēroti visiem pārvadātājiem attiecīgajā tīklā;
+42) maksas aprēķināšanas shēma - publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja izstrādāti un apstiprināti maksas aprēķināšanas noteikumi, kas tiek piemēroti visiem pārvadātājiem un manevru darbu veicējiem attiecīgajā tīklā;
+43) maksas iekasēšanas shēma - publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja izstrādāti un apstiprināti maksas iekasēšanas noteikumi, kas tiek piemēroti visiem pārvadātājiem un manevru darbu veicējiem attiecīgajā tīklā;
 44) jaudas sadales shēma - publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicēja izstrādāti un apstiprināti jaudas sadales noteikumi, kas tiek piemēroti visiem pārvadātājiem attiecīgajā tīklā;
 45) dzelzceļa infrastruktūras atjaunošana - ar kapitālizdevumiem saistīti lieli dzelzceļa infrastruktūras nomaiņas darbi, kas nemaina tās vispārējos darbības rādītājus;
 46) dzelzceļa infrastruktūras modernizācija - ar kapitālizdevumiem saistīti lieli dzelzceļa infrastruktūras izmaiņu darbi, kas uzlabo tās vispārējos darbības rādītājus;

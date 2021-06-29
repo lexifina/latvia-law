@@ -1,5 +1,5 @@
 17.pants. Darbības ierobežojumi dzelzceļa zemes nodalījuma joslā
-(1) Dzelzceļa zemes nodalījuma joslā citas juridiskās un fiziskās personas jebkāda veida darbību drīkst veikt tikai ar dzelzceļa infrastruktūras pārvaldītāja atļauju un tā kontrolē.
+(1) Dzelzceļa zemes nodalījuma joslā citas juridiskās un fiziskās personas jebkāda veida darbību drīkst veikt tikai ar dzelzceļa infrastruktūras pārvaldītāja atļauju un tā kontrolē. Šā likuma 15. panta 1.¹ daļā minētajā dzelzceļa zemes nodalījuma joslā publiskās lietošanas dzelzceļa infrastruktūras pārvaldītājs atļauju citām juridiskajām un fiziskajām personām veikt jebkāda veida darbību, kas nav saistīta ar publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja funkciju veikšanu, saskaņo ar zemes īpašnieku.
 (2) Ja sakarā ar juridiskajām un fiziskajām personām atļautajiem būvdarbiem, rekonstrukcijas darbiem un remontdarbiem vai citu darbību rodas nepieciešamība veikt dzelzceļa infrastruktūras objektu pārbūvi, to veic un finansē ieinteresētā puse.
 (3) Jebkura komunikāciju izvietošana, pārvietošana un rekonstrukcija dzelzceļa zemes nodalījuma joslā nedrīkst pasliktināt dzelzceļa infrastruktūras objektu ekspluatācijas kvalitāti un satiksmes drošību.
 (4) Dzelzceļa zemes nodalījuma joslā esošās komunikācijas uztur kārtībā to īpašnieks.
