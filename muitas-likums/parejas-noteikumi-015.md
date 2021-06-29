@@ -1,0 +1,1 @@
+15. Grozījums šā likuma 14. pantā par otrās daļas 2. punkta izslēgšanu, 14.¹, 14.², 14.³, 14.⁴, 14.⁵ un 14.⁶ pants, kā arī grozījums 29. panta piecpadsmitajā daļā par vārdu "vai par viltotu vai pirātisku preču" izslēgšanu stājas spēkā 2021. gada 1. septembrī.
