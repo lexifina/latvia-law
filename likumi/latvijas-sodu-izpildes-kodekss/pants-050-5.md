@@ -18,19 +18,20 @@ Notiesāto no soda izciešanas režīma augstākās pakāpes ar izvērtēšanas 
 Sievietes, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), soda izciešanu uzsāk soda izciešanas režīma zemākajā pakāpē. Pēc ievietošanas cietumā viņām šajā pakāpē jāizcieš ne mazāk kā septiņi gadi. Ja notiesātā pirmstiesas apcietinājumā un soda izpildes vietā izcietusi vismaz septiņus gadus no piespriestā soda un atbilst šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem, viņu ar izvērtēšanas komisijas lēmumu var pārvietot no soda izciešanas režīma zemākās pakāpes uz soda izciešanas režīma augstāko pakāpi. No soda izciešanas režīma augstākās pakāpes notiesāto var atbrīvot no soda izciešanas nosacīti pirms termiņa likumā noteiktajā kārtībā.
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma augstākajā pakāpē, ir tiesības:
 1) izmantot gadā astoņas ilglaicīgas satikšanās - no divdesmit četrām līdz četrdesmit astoņām stundām un astoņas īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
-2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
+2) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 3) izmantot telefonsarunas bez skaita ierobežojuma;
-4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā;
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9., 10. un 11. punktā;
 5) (izslēgts ar 13.12.2012. likumu).
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma zemākajā pakāpē, ir tiesības:
 1) izmantot gadā piecas ilglaicīgas satikšanās - no divpadsmit līdz divdesmit četrām stundām un četras īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
-2) dienas kārtībā paredzētajā laikā iepirkties cietuma veikalā par naudas summu, kas nepārsniedz trīs ceturtdaļas no Ministru kabineta noteiktās minimālās mēnešalgas;
+2) dienas kārtībā paredzētajā laikā iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 3) izmantot telefonsarunas bez skaita ierobežojuma;
-4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8. un 9.punktā.
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta devītās daļas 5., 6., 7., 8., 9. un 10. punktā.
 (Devītā daļa izslēgta ar 29.11.2012. likumu)
 Ar īslaicīgu brīvības atņemšanu notiesātajiem ir tiesības:
 1) izmantot vismaz stundu ilgu īslaicīgo satikšanos ne retāk kā reizi mēnesī, bet ne mazāk kā vienu īslaicīgo satikšanos soda izpildes laikā, ja tas ir īsāks par mēnesi;
-2) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
+2) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 3) izmantot telefonsarunas bez skaita ierobežojuma;
-4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9. un 10.punktā.
-Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības sazināties ar radiniekiem, laulāto un citām personām ar videozvanu divas reizes mēnesī uz laiku līdz 15 minūtēm bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9., 10. un 11. punktā.
+Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības divas reizes mēnesī izmantot videosaziņas iespēju uz laiku līdz 15 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+Papildus šajā pantā minētajām tiesībām vājdzirdīgajiem un nedzirdīgajiem notiesātajiem ir tiesības izmantot videosaziņas iespējas bez skaita ierobežojuma uz laiku līdz 30 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.

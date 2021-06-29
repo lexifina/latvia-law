@@ -7,4 +7,4 @@ Nosacīti atbrīvotajam ir pienākums:
 5) saņemt Valsts probācijas dienesta atļauju izbraukšanai ārpus dzīvesvietas uz laiku, kas ilgāks par 15 dienām. Šis punkts neattiecas uz nosacīti atbrīvoto, kuram noteikta elektroniskā uzraudzība;
 6) iesniegt Valsts probācijas dienesta amatpersonai informāciju par noteikto pienākumu izpildi;
 7) iesniegt Valsts probācijas dienesta amatpersonai informāciju par iztikas avotiem.
-Neizciestās soda daļas laikā ierodoties Valsts probācijas dienestā, nosacīti atbrīvotais nedrīkst atrasties alkohola, narkotisko, toksisko vai psihotropo vielu reibumā.
+Neizciestās soda daļas laikā ierodoties Valsts probācijas dienestā, nosacīti atbrīvotais nedrīkst atrasties alkohola, narkotisko vai citu apreibinošo vielu ietekmē vai reibumā.

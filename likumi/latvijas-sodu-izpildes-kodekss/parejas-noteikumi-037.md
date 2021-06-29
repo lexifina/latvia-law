@@ -1,0 +1,1 @@
+37. Šā kodeksa grozījumi, kas skar kriminālsoda - piespiedu darbs - nosaukuma maiņu un izpildes kārtību, kā arī grozījumi, kas skar probācijas uzraudzības kā pamatsoda izpildes kārtību, un šā kodeksa 138.¹¹ pants stājas spēkā 2022. gada 1. janvārī.

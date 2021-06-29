@@ -7,10 +7,11 @@ Uz notiesātajiem, kuri sasnieguši astoņpadsmit gadu vecumu un saskaņā ar š
 Nepilngadīgajam notiesātajam atļauts:
 1) izmantot gadā 15 ilgstošās satikšanās ar tuviem radiniekiem no 36 līdz 48 stundām;
 2) izmantot gadā 12 īslaicīgās satikšanās no pusotras stundas līdz divām stundām;
-3) iepirkties iestādes veikalā bez naudas summas ierobežojuma;
+3) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā audzināšanas iestādes nepilngadīgajiem teritorijā;
 4) izmantot telefonsarunas bez to skaita ierobežojuma;
 5) (izslēgts ar 13.12.2012. likumu);
-6) sazināties ar radiniekiem un citām personām ar videozvanu reizi mēnesī uz laiku līdz 30 minūtēm bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+6) vienu reizi mēnesī izmantot videosaziņas iespēju uz laiku līdz 30 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
 Mācību process audzināšanas iestādēs nepilngadīgajiem tuvināts vispārējās izglītības iestādes prasībām, un to regulē tieslietu ministra apstiprināta instrukcija, kas saskaņota ar izglītības un zinātnes ministru.
 Audzināšanas iestādes nepilngadīgajiem priekšnieks nodrošina nepilngadīgam notiesātajam iespēju atstāt iestādes teritoriju uz laiku, kas nepieciešams eksāmenu kārtošanai vispārējās vai profesionālās izglītības iestādē. Šajā laikā audzināšanas iestāde nodrošina nepilngadīgā notiesātā uzraudzību.
 Nepilngadīgajam notiesātajam, kurš cietis no prettiesiskām darbībām, tiek nodrošināta iespēja saņemt palīdzību atbilstoši normatīvajiem aktiem par palīdzību bērniem, kuri cietuši no prettiesiskām darbībām.
+Papildus šajā pantā minētajām tiesībām vājdzirdīgajiem un nedzirdīgajiem nepilngadīgajiem notiesātajiem ir tiesības izmantot videosaziņas iespējas bez skaita ierobežojuma uz laiku līdz 30 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.

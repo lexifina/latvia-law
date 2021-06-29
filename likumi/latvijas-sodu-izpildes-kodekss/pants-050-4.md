@@ -8,33 +8,39 @@ Notiesātie ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums) soda
 Notiesātajiem, kuri sodu izcieš slēgtā cietuma soda izciešanas režīma augstākajā pakāpē, ir tiesības:
 1) izmantot gadā sešas ilgstošas satikšanās - no divpadsmit līdz divdesmit četrām stundām un sešas īslaicīgas satikšanās - no vienas stundas līdz divām stundām;
 2) (izslēgts ar 11.11.2004. likumu);
-3) iepirkties cietuma veikalā par naudas summu vienas Ministru kabineta noteiktās minimālās mēnešalgas apmērā;
+3) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 4) izmantot trīs telefonsarunas mēnesī;
 5) lietot personisko televizoru un radiouztvērēju (bez balss ieraksta iespējām);
 6) no rīta celšanās laika līdz naktsmieram atrasties noteiktā iecirknī ārpus kameras;
-7) valkāt personisko apģērbu vai noteikta veida apģērbu;
+7) valkāt personisko apģērbu vai brīvības atņemšanas iestādes administrācijas nodrošināto apģērbu;
 8) nēsāt īsi apgrieztus matus;
-9) dienas kārtībā paredzētajā laikā patstāvīgi apmeklēt cietuma medicīnas daļu, veikalu, ēdnīcu un bibliotēku;
-10) piedalīties sporta, kultūras un reliģiskos pasākumos.
+9) dienas kārtībā paredzētajā laikā patstāvīgi apmeklēt cietuma medicīnas daļu, komersanta izveidoto pastāvīgo tirdzniecības vietu brīvības atņemšanas iestādes teritorijā, ēdnīcu un bibliotēku;
+10) piedalīties sporta, kultūras un reliģiskos pasākumos;
+11) apmeklēt dievkalpojumus cietuma kapelā un tikties ar garīdznieku vienatnē.
 Notiesātajiem, kuri sodu izcieš slēgtā cietuma soda izciešanas režīma vidējā pakāpē, ir tiesības:
 1) izmantot gadā četras ilgstošas satikšanās - no astoņām līdz sešpadsmit stundām un sešas īslaicīgas satikšanās - no vienas stundas līdz divām stundām;
 2) (izslēgts ar 11.11.2004. likumu);
-3) iepirkties cietuma veikalā par naudas summu, kas nepārsniedz trīs ceturtdaļas no Ministru kabineta noteiktās minimālās mēnešalgas;
+3) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 4) izmantot divas telefonsarunas mēnesī;
-5) izmantot tiesības, kas noteiktas šā panta septītās daļas 5. - 10.punktā.
+5) izmantot tiesības, kas noteiktas šā panta septītās daļas 5. - 11. punktā.
 Notiesātajiem, kuri sodu izcieš slēgtā cietuma soda izciešanas režīma zemākajā pakāpē, ir tiesības:
 1) izmantot gadā trīs ilgstošas satikšanās - no sešām līdz divpadsmit stundām un četras īslaicīgas satikšanās - no vienas stundas līdz divām stundām;
 2) (izslēgts ar 11.11.2004. likumu);
-3) ar cietuma darbinieku starpniecību iepirkties cietuma veikalā četras reizes mēnesī par kopējo naudas summu, kas nepārsniedz pusi no Ministru kabineta noteiktās minimālās mēnešalgas;
+3) ar cietuma darbinieku starpniecību četras reizes mēnesī iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 4) izmantot vienu telefonsarunu mēnesī;
 5) izmantot pastaigas vai piedalīties sporta spēlēs svaigā gaisā ne mazāk kā vienu stundu dienā;
 6) ar cietuma darbinieku starpniecību saņemt (apmainīt) grāmatas cietuma bibliotēkā;
-7) dienas kārtībā paredzētajā laikā skatīties televīzijas pārraides ārpus kameras iekārtotā telpā cietuma darbinieku klātbūtnē;
+7) dienas kārtībā paredzētajā laikā skatīties televīzijas pārraides ārpus kameras iekārtotā telpā cietuma darbinieku klātbūtnē vai ar cietuma priekšnieka atļauju lietot personisko televizoru kamerā;
 8) apmeklēt cietuma kapelā dievkalpojumus un tikties ar garīdznieku vienatnē;
-9) ar administrācijas atļauju valkāt personisko apģērbu.
-Šajā pantā minētās tiesības valkāt personisko apģērbu, patstāvīgi apmeklēt cietuma medicīnas daļu, veikalu, ēdnīcu un bibliotēku, piedalīties pasākumos ārpus atsevišķā cietuma bloka neattiecas uz notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību.
-Papildus šajā pantā minētajām tiesībām notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību, ir tiesības sazināties ar radiniekiem un citām personām ar videozvanu bez brīvības atņemšanas iestādes pārstāvja klātbūtnes:
-1) izciešot sodu soda izciešanas režīma augstākajā pakāpē, - tiesības uz stundu ilgu videozvanu trīs reizes mēnesī;
-2) izciešot sodu soda izciešanas režīma vidējā pakāpē, - tiesības uz stundu ilgu videozvanu divas reizes mēnesī;
-3) izciešot sodu soda izciešanas režīma zemākajā pakāpē, - tiesības uz stundu ilgu videozvanu vienu reizi mēnesī.
-Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības sazināties ar radiniekiem, laulāto un citām personām ar videozvanu divas reizes mēnesī uz laiku līdz 15 minūtēm bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+9) valkāt personisko apģērbu vai brīvības atņemšanas iestādes administrācijas nodrošināto apģērbu;
+10) piedalīties kultūras un reliģiskos pasākumos dienas kārtībā paredzētajā laikā.
+Šajā pantā minētās tiesības valkāt personisko apģērbu, patstāvīgi apmeklēt cietuma medicīnas daļu, komersanta izveidoto pastāvīgo tirdzniecības vietu brīvības atņemšanas iestādes teritorijā, ēdnīcu un bibliotēku, piedalīties pasākumos ārpus atsevišķā cietuma bloka neattiecas uz notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību.
+Papildus šajā pantā minētajām tiesībām notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību, ir tiesības izmantot videosaziņas iespēju saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes:
+1) soda izciešanas režīma augstākajā pakāpē - stundu ilgu videosaziņu trīs reizes mēnesī;
+2) soda izciešanas režīma vidējā pakāpē - stundu ilgu videosaziņu divas reizes mēnesī;
+3) soda izciešanas režīma zemākajā pakāpē - stundu ilgu videosaziņu vienu reizi mēnesī.
+Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības divas reizes mēnesī izmantot videosaziņas iespēju uz laiku līdz 15 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+Papildus šajā pantā minētajām tiesībām vājdzirdīgajiem un nedzirdīgajiem notiesātajiem ir tiesības izmantot videosaziņas iespēju saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes:
+1) soda izciešanas režīma augstākajā pakāpē - videosaziņu uz laiku līdz 30 minūtēm trīs reizes mēnesī;
+2) soda izciešanas režīma vidējā pakāpē - videosaziņu uz laiku līdz 30 minūtēm divas reizes mēnesī;
+3) soda izciešanas režīma zemākajā pakāpē - videosaziņu uz laiku līdz 30 minūtēm vienu reizi mēnesī.

@@ -16,3 +16,4 @@ Ar šā panta piektajā daļā minētās komisijas lēmumu uz visu mūžu noties
 2) nepiedalās resocializācijas procesā;
 3) ir iesniedzis iesniegumu ar attiecīgu lūgumu.
 Komisijas lēmumu uz visu mūžu notiesātais var apstrīdēt Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieka lēmums nav pārsūdzams.
+Uz visu mūžu notiesātais, kurš ticis nosacīti atbrīvots pirms termiņa un par kuru tiesa ir pieņēmusi lēmumu par pirmstermiņa uzraudzības laika aizstāšanu ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), uzsāk izciest sodu slēgtā cietuma soda izciešanas režīma zemākajā pakāpē, kurā izcieš sodu notiesātie, kas nav notiesāti uz visu mūžu.
