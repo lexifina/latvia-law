@@ -3,12 +3,12 @@
 (2) Nesaistītā persona priekšvēlēšanu aģitācijai drīkst izmantot līdzekļus, kas nepārsniedz 15 minimālās mēnešalgas. Minimālā mēnešalga šā likuma izpratnē ir minimālās mēnešalgas apmērs, kāds bija noteikts attiecīgā kalendārā gada 1.janvārī.
 (3) Šā panta otrajā daļā minēto līdzekļu apmēru, ko nesaistītā persona drīkst izmantot priekšvēlēšanu aģitācijai, veido attiecīgās personas izdevumi priekšvēlēšanu aģitācijas periodā neatkarīgi no datuma, kad izrakstīts darījumu apliecinošs dokuments (rēķins, līgums vai cits dokuments), saņemts vai veikts maksājums par:
 1) reklāmas izvietošanu:
-a) sabiedriskā elektroniskā plašsaziņas līdzekļa televīzijas programmās un raidījumos,
-b) sabiedriskā elektroniskā plašsaziņas līdzekļa radio programmās un raidījumos,
+a) (izslēgts ar 10.06.2021. likumu),
+b) (izslēgts ar 10.06.2021. likumu),
 c) komerciālā elektroniskā plašsaziņas līdzekļa televīzijas programmās un raidījumos,
 d) komerciālā elektroniskā plašsaziņas līdzekļa radio programmās un raidījumos,
 e) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētajos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un plaši izplatīti visā valsts teritorijā,
-f) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētajos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un kuru tirāžas lielākā daļa tiek izplatīta vienas republikas pilsētas vai novada teritorijā,
+f) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētajos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un kuru tirāžas lielākā daļa tiek izplatīta vienas pašvaldības teritorijā,
 g) internetā, izņemot nesaistītās personas mājaslapu,
 h) telpās un publiskajās vietās (laukumos, skvēros, ielās, uz tiltiem un citās tamlīdzīgās vietās) neatkarīgi no īpašuma piederības;
 2) pasta (arī elektroniskā pasta) pakalpojumu izmantošanu, lai ar tā palīdzību nosūtītu priekšvēlēšanu aģitācijas materiālus;
