@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 18. februāra noteikumi Nr. 113 \"Atkritumu un to pārvadājumu uzskaites kārtība\". Latvijas Vēstnesis, 37, 23.02.2021.",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "37",
+  "official_journal_page": null,
+  "official_journal_date": "2021-02-22",
+  "entry_into_force": "2021-06-30",
+  "notification_date": "2021-03-02",
+  "commission_reference": "MNE(2021)01553",
+  "nim_celex": "72018L0850LVA_202101553",
+  "nim_id": "202101553",
+  "transposes_celex": [
+    "32018L0850"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/236e6e21-8ac0-46b1-958e-d4811e5af03e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
