@@ -15,9 +15,9 @@ d) kuru virsbūves krāsa, kas norādīta transportlīdzekļu un to vadītāju v
 e) kuri aprīkoti tādu pasažieru (bērnu) pārvadāšanai, kuru augums nepārsniedz 150 centimetrus;
 4) braucienu no objekta saskaņā ar pārvadātāja vai apvienības noteiktu vienu tarifu nolīgšanai, vienam kilometram un vienai minūtei;
 5) norēķinu ar pasažieri par braucienu no objekta ar fiksētā tirdzniecības vietā iegādātu Valsts ieņēmumu dienesta vienotajā datu bāzē (reģistrā) reģistrētas nodokļu un citu maksājumu reģistrēšanas elektroniskās ierīces vai iekārtas izsniegtu priekšapmaksu apliecinošu dokumentu, darījumu reģistrējot taksometra skaitītājā.
-(4) Pārvadātāja vai apvienības dalībnieka atbilstību šā panta trešās daļas prasībām izvērtē plānošanas reģions vai republikas pilsētas pašvaldība, izsniedzot licences kartīti ar speciālu atzīmi. Šī licences kartīte vienlaikus dod tiesības veikt pasažieru komercpārvadājumus ar taksometru plānošanas reģiona vai republikas pilsētas teritorijā, kurā izsniegta speciālā atļauja (licence).
+(4) Pārvadātāja vai apvienības dalībnieka atbilstību šā panta trešās daļas prasībām izvērtē plānošanas reģions vai šā likuma 35. panta pirmajā daļā minēto valstspilsētu pašvaldības, izsniedzot licences kartīti ar speciālu atzīmi. Šī licences kartīte vienlaikus dod tiesības veikt pasažieru komercpārvadājumus ar taksometru plānošanas reģiona vai valstspilsētas administratīvajā teritorijā, kurā izsniegta speciālā atļauja (licence).
 (5) Piekļuvi objekta publiskiem mērķiem paredzētajai teritorijai kontrolē objekta īpašnieks vai valdītājs.
-(6) Plānošanas reģions un republikas pilsētas pašvaldība var anulēt autotransporta līdzeklim izsniegto šā panta ceturtajā daļā minēto licences kartīti, ja konstatēti šā panta trešās daļas prasību pārkāpumi.
+(6) Plānošanas reģions un valstspilsētas pašvaldība var anulēt autotransporta līdzeklim izsniegto šā panta ceturtajā daļā minēto licences kartīti, ja konstatēti šā panta trešās daļas prasību pārkāpumi.
 (7) Ministru kabinets nosaka:
 1) kārtību, kādā izsniedz un anulē šā panta ceturtajā daļā minēto licences kartīti;
 2) kārtību, kādā organizē un kontrolē pasažieru komercpārvadājumus ar taksometru objekta publiskiem mērķiem paredzētajā teritorijā ar ierobežotu piekļuvi, un kārtību, kādā veicama ar minētajiem pārvadājumiem saistītās informācijas apmaiņa.

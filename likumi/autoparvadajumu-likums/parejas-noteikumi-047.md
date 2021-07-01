@@ -1,0 +1,1 @@
+47. Speciālā atļauja (licence) un licences kartīte pasažieru pārvadājumiem ar taksometru, kuru līdz 2021. gada 30. jūnijam izsniegusi Valmieras pilsētas pašvaldība vai Jēkabpils pilsētas pašvaldība, ir spēkā līdz tās derīguma termiņa beigām pasažieru komercpārvadājumiem ar taksometru attiecīgajā plānošanas reģionā.
