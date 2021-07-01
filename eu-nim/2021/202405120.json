@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2021. gada 3. jūnija lēmums Nr. 1/8 \"Sistēmas pieslēguma noteikumi elektroenerģijas sadales sistēmai\"",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "108",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-07",
+  "entry_into_force": "2021-07-01",
+  "notification_date": "2024-11-25",
+  "commission_reference": "MNE(2024)05120",
+  "nim_celex": "72023L2413LVA_202405120",
+  "nim_id": "202405120",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a648e5cf-74f0-4066-b259-7a033a7c52c0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
