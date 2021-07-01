@@ -7,7 +7,7 @@
 a) kandidāta vārds, uzvārds, dzimšanas gads, dzimums, ja vēlas, - arī tautība, ģimenes stāvoklis,
 b) personas kods,
 c) ārvalsts pilsonība (pavalstniecība), ja tāda ir,
-d) dzīvesvieta (republikas pilsēta vai novads),
+d) dzīvesvieta (pašvaldības administratīvā teritorija),
 e) darbavietas un ieņemamie amati (arī amati politiskajās partijās, reliģiskajās organizācijās, arodbiedrībās, biedrībās un nodibinājumos) vai - ja darbavietas nav - nodarbošanās, statuss,
 f) kādas izglītības iestādes beidzis un kurā gadā, kāda izglītības pakāpe iegūta un kādā specialitātē,
 g) (izslēgts ar 06.02.2014. likumu),

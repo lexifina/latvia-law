@@ -15,6 +15,6 @@ d) kandidāts miris;
 6) pēc 1991.gada 13.janvāra darbojies PSKP (LKP), Latvijas PSR Darbaļaužu internacionālajā frontē, Darba kolektīvu apvienotajā padomē, Kara un darba veterānu organizācijā, Vislatvijas sabiedrības glābšanas komitejā vai tās reģionālajās komitejās, - apliecina attiecīgās tiesas spriedums;
 7) (izslēgts ar 09.05.2002. likumu);
 8) ir miris, - apliecina Pilsonības un migrācijas lietu pārvalde;
-9) saskaņā ar tiesas spriedumu nav tiesīgs kandidēt Saeimas, Eiropas Parlamenta, republikas pilsētas domes un novada domes vēlēšanās, - apliecina Iekšlietu ministrijas Informācijas centrs.
+9) saskaņā ar tiesas spriedumu nav tiesīgs kandidēt Saeimas, Eiropas Parlamenta, pašvaldības domes vēlēšanās, - apliecina Iekšlietu ministrijas Informācijas centrs.
 (4) Šā panta trešajā daļā minētajām iestādēm attiecīgās ziņas rakstveidā jāiesniedz Centrālajai vēlēšanu komisijai pēc tās pieprasījuma bez maksas piecu dienu laikā.
 (5) Ja Centrālā vēlēšanu komisija informāciju par to, ka pieteiktajam kandidātam nav tiesību kandidēt Saeimas vēlēšanās, saņem vēlāk nekā 50.dienā pirms vēlēšanām un nav iespējams izgatavot jaunas attiecīgā kandidātu saraksta vēlēšanu zīmes, vēlētājiem izsniedzamas sagatavotās attiecīgā kandidātu saraksta vēlēšanu zīmes ar šā kandidāta vārdu un uzvārdu. Balsu skaitīšanā un vēlēšanu rezultātu aprēķināšanā par attiecīgo personu nodotās balsis netiek ņemtas vērā.
