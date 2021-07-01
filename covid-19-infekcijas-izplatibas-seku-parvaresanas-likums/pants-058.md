@@ -1,1 +1,1 @@
-58. pants. Covid-19 infekcijas izplatīšanās vai tās draudu gadījumā Ministru kabinets, lai nodrošinātu ekonomisko stabilitāti, saskaņojot ar Saeimas Budžeta un finanšu (nodokļu) un atbildīgo Saeimas nozares komisiju, paredz pasākumus valsts tautsaimniecības atjaunošanai, veselības nozares stiprināšanai un sabiedrības ekonomiskās situācijas uzlabošanai.
+58. pants. (Zaudējis spēku ar 01.07.2021. Sk. Pārejas noteikumu 7. punktu)
