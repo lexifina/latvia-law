@@ -1,6 +1,6 @@
 25.¹ pants. Audžuģimeņu informācijas sistēma
 (1) Informāciju par audžuģimenē ievietotajiem bērniem un audžuģimenēm bāriņtiesas reģistrē Audžuģimeņu informācijas sistēmā, kas ir valsts informācijas sistēmas "Integrētā iekšlietu informācijas sistēma" sastāvdaļa.
-(2) Audžuģimeņu informācijas sistēmas mērķis ir nodrošināt audžuģimeņu un audžuģimenēs ievietoto bērnu uzskaiti, lai veicinātu audžuģimenē ievietoto bērnu personisko un mantisko interešu aizstāvību.
+(2) Audžuģimeņu informācijas sistēmas mērķis ir nodrošināt audžuģimeņu un audžuģimenēs ievietoto bērnu uzskaiti, lai veicinātu audžuģimenē ievietoto bērnu personisko un mantisko interešu aizsardzību.
 (3) Tiesības saņemt un izmantot Audžuģimeņu informācijas sistēmā iekļauto informāciju, tai skaitā personas datus, normatīvajos aktos noteikto funkciju izpildei ir arī šādām institūcijām un personām:
 1) Valsts bērnu tiesību aizsardzības inspekcijai, lai nodrošinātu bāriņtiesu darba uzraudzību audžuģimenēs ievietoto bērnu tiesību aizsardzības jomā;
 2) Pilsonības un migrācijas lietu pārvaldei, lai nodrošinātu audžuģimeņu statusu raksturojošās informācijas aktualizēšanu Iedzīvotāju reģistrā;
