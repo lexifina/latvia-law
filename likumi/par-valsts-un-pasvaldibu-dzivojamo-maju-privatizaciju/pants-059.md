@@ -8,7 +8,7 @@
 6) nodot valsts dzīvojamās mājas dzīvokļu īpašnieku pārvaldīšanā un apsaimniekošanā;
 7) glabāt informāciju par dzīvojamo māju privatizāciju un nodrošināt tās pieejamību pašvaldībām un citām valsts un pašvaldību institūcijām pēc to pieprasījuma.
 (2) Valsts dzīvojamo māju privatizāciju veicošajai institūcijai ir tiesības:
-1) pieprasīt un saņemt no republikas pilsētu un novadu dzīvojamo māju privatizācijas komisijām, no valsts un pašvaldību iestādēm, kā arī no kapitālsabiedrībām informāciju, kas saistīta ar privatizāciju;
+1) pieprasīt un saņemt no pašvaldību dzīvojamo māju privatizācijas komisijām, no valsts un pašvaldību iestādēm, kā arī no kapitālsabiedrībām informāciju, kas saistīta ar privatizāciju;
 2) veikt citas šajā likumā vai Ministru kabineta noteikumos paredzētās funkcijas;
 3) piedalīties privatizēto dzīvojamo māju pārvaldīšanas un apsaimniekošanas organizēšanā;
 4) sniegt maksas pakalpojumus savas kompetences ietvaros;
