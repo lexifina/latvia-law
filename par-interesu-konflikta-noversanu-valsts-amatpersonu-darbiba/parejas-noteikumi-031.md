@@ -1,0 +1,1 @@
+31. Šā likuma 4. panta pirmās daļas 5. punktā minētajām amatpersonām, kas valsts amatpersonas amatu savieno ar citu amatu laikā, kad stājas spēkā šā likuma grozījumi par 7. panta sestās daļas ievaddaļas papildināšanu ar vārdiem un skaitli "pirmās daļas 5. punktā" un 8.¹ panta divpadsmitā daļa, ir pienākums līdz 2021. gada 31. jūlijam izpildīt šā likuma 8.¹ panta noteikumus.
