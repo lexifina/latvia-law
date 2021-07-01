@@ -1,0 +1,1 @@
+17. Ziņas par vairākām papildu adresēm, kuras persona norādījusi, deklarējot dzīvesvietu, līdz 2021. gada 30. jūnijam, ir spēkā līdz dienai, kad ir anulētas ziņas par attiecīgo papildu adresi vai persona norāda jaunu papildu adresi atbilstoši šā likuma 8. panta nosacījumiem, bet ne ilgāk kā līdz 2022. gada 30. jūnijam.
