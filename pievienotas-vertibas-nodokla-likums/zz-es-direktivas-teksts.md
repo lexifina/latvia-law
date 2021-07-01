@@ -18,7 +18,7 @@
 17) Padomes 2017. gada 5. decembra direktīvas (ES) 2017/2455, ar ko groza direktīvu 2006/112/EK un direktīvu 2009/132/EK attiecībā uz konkrētām pievienotās vērtības nodokļa saistībām pakalpojumu sniegšanā un preču tālpārdošanā;
 18) Padomes 2018. gada 22. jūnija direktīvas (ES) 2018/912, ar ko attiecībā uz minimālās pamatlikmes ievērošanas pienākumu groza direktīvu 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu;
 19) Padomes 2018. gada 4. decembra direktīvas (ES) 2018/1910, ar ko groza direktīvu 2006/112/EK attiecībā uz atsevišķu pievienotās vērtības nodokļa sistēmas noteikumu saskaņošanu un vienkāršošanu tirdzniecībā starp dalībvalstīm;
-20) Padomes 2019. gada 18. februāra direktīvas (ES) 2019/475, ar ko groza direktīvas 2006/112/EK un 2008/118/EK attiecībā uz Itālijas pašvaldības Campione d'Italia un Lugāno ezera Itālijas ūdeņu iekļaušanu Savienības muitas teritorijā un direktīvas 2008/118/EK teritoriālajā piemērošanā.
-21) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. 15.10.2020. grozījumu);
-22) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. 15.10.2020. grozījumu);
+20) Padomes 2019. gada 18. februāra direktīvas (ES) 2019/475, ar ko groza direktīvas 2006/112/EK un 2008/118/EK attiecībā uz Itālijas pašvaldības Campione d'Italia un Lugāno ezera Itālijas ūdeņu iekļaušanu Savienības muitas teritorijā un direktīvas 2008/118/EK teritoriālajā piemērošanā;
+21) Padomes 2017. gada 5. decembra direktīvas (ES) 2017/2455, ar ko groza direktīvu 2006/112/EK un direktīvu 2009/132/EK attiecībā uz konkrētām pievienotās vērtības nodokļa saistībām pakalpojumu sniegšanā un preču tālpārdošanā;
+22) Padomes 2019. gada 21. novembra direktīvas (ES) 2019/1995, ar ko attiecībā uz noteikumiem par preču tālpārdošanu un konkrētām preču piegādēm iekšzemē groza direktīvu 2006/112/EK;
 23) Padomes 2020. gada 7. decembra direktīvas (ES) 2020/2020, ar ko, reaģējot uz Covid-19 pandēmiju, groza direktīvu 2006/112/EK attiecībā uz pagaidu pasākumiem saistībā ar pievienotās vērtības nodokli, kas piemērojams Covid-19 vakcīnām un in vitro diagnostikas medicīniskajām ierīcēm.

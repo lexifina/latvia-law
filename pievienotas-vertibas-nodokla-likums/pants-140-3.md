@@ -1,0 +1,41 @@
+140.³ pants. Savienības režīms jeb īpašs nodokļa režīms preču tālpārdošanai Eiropas Savienībā, preču piegādēm dalībvalstī, kuras veiktas ar šādas piegādes veicinošas elektroniskas saskarnes palīdzību, un pakalpojumiem, ko sniedz nodokļa maksātāji, kuri veic saimniecisko darbību Eiropas Savienībā, bet ne patēriņa dalībvalstī
+(1) Šā panta izpratnē:
+1) savienības režīms ir Padomes 2011. gada 15. marta Īstenošanas regulas (ES) Nr. 282/2011, ar ko nosaka īstenošanas pasākumus direktīvai 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu (pārstrādāta versija) 57.a panta 2. punktā (Padomes 2019. gada 21. novembra Īstenošanas regulas (ES) Nr. 2019/2026, ar ko groza Īstenošanas regulu (ES) Nr. 282/2011 attiecībā uz preču piegādi vai pakalpojumu sniegšanu, ko veicina elektroniskas saskarnes, un uz īpašiem režīmiem nodokļa maksātājiem, kas sniedz pakalpojumus personām, kuras nav nodokļa maksātājas, un kas veic preču tālpārdošanu un konkrētas preču piegādes iekšzemē redakcijā) minētais režīms;
+2) nodokļa maksātājs, kas neveic saimniecisko darbību patēriņa dalībvalstī, ir nodokļa maksātājs, kuram Eiropas Savienībā ir saimnieciskās darbības mītnes vieta vai pastāvīgā iestāde, bet patēriņa dalībvalsts teritorijā nav saimnieciskās darbības mītnes vietas un pastāvīgās iestādes;
+3) identifikācijas dalībvalsts ir viena no šīm dalībvalstīm:
+a) dalībvalsts, kurā nodokļa maksātājam ir saimnieciskās darbības mītnes vieta,
+b) dalībvalsts, kurā nodokļa maksātājam ir pastāvīgā iestāde, - ja nodokļa maksātāja saimnieciskās darbības mītnes vieta ir ārpus Eiropas Savienības,
+c) dalībvalsts, kurā atrodas nodokļa maksātāja pastāvīgā iestāde un kuru tas ir norādījis kā dalībvalsti, kurā tas izmanto savienības režīmu, - ja nodokļa maksātājs neveic saimniecisko darbību Eiropas Savienībā, bet tam Eiropas Savienībā ir vairākas pastāvīgās iestādes. Nodokļa maksātāja izvēle attiecībā uz identifikācijas dalībvalsti ir saistoša šim nodokļa maksātājam attiecīgajā kalendāra gadā un vismaz divos nākamajos kalendāra gados,
+d) dalībvalsts, kurā sākas preču nosūtīšana vai transportēšana, - ja nodokļa maksātājam Eiropas Savienībā nav saimnieciskās darbības mītnes vietas un pastāvīgās iestādes. Nodokļa maksātāja izvēle attiecībā uz identifikācijas dalībvalsti ir saistoša šim nodokļa maksātājam attiecīgajā kalendāra gadā un vismaz divos nākamajos kalendāra gados,
+e) dalībvalsts, kuru nodokļa maksātājs ir norādījis kā dalībvalsti, kurā tas izmanto savienības režīmu, - ja ir vairāk nekā viena dalībvalsts, kurā sākas preču nosūtīšana vai transportēšana. Nodokļa maksātāja izvēle attiecībā uz identifikācijas dalībvalsti ir saistoša šim nodokļa maksātājam attiecīgajā kalendāra gadā un vismaz divos nākamajos kalendāra gados;
+4) patēriņa dalībvalsts ir viena no šīm dalībvalstīm:
+a) dalībvalsts, attiecībā uz kuru uzskata, ka tajā notiek pakalpojumu sniegšana saskaņā ar pakalpojuma sniegšanas vietas noteikšanas noteikumiem,
+b) dalībvalsts, kurā beidzas preču nosūtīšana vai transportēšana preču saņēmējam, - ja notiek preču tālpārdošana Eiropas Savienības teritorijā,
+c) dalībvalsts, kurā sākas un beidzas preču nosūtīšana vai transportēšana, - ja preču piegādi veic šā likuma 6. panta sestajā daļā minētais nodokļa maksātājs.
+(2) Savienības režīmu ir tiesības piemērot visām Eiropas Savienībā piegādātajām precēm un visiem Eiropas Savienībā sniegtajiem pakalpojumiem, ko sniedz šādi nodokļa maksātāji:
+1) nodokļa maksātājs, kas veic preču tālpārdošanu Eiropas Savienības teritorijā;
+2) nodokļa maksātājs, kas veicina preču piegādi šā likuma 6. panta sestās daļas izpratnē, ja preču nosūtīšana vai transportēšana sākas un beidzas vienā dalībvalstī;
+3) nodokļa maksātājs, kas neveic saimniecisko darbību patēriņa dalībvalstī un sniedz pakalpojumus personai, kura nav nodokļa maksātājs.
+(3) Ja šā panta otrajā daļā minētais nodokļa maksātājs kā identifikācijas dalībvalsti savienības režīma izmantošanai izvēlas iekšzemi, tas, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, iesniedz Valsts ieņēmumu dienestam iesniegumu, tādējādi paziņojot, kad sāk izmantot šo režīmu.
+(4) Šā panta otrajā daļā minētais nodokļa maksātājs iesniegumā reģistrācijai Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā savienības režīma izmantošanai norāda šādus identifikācijas datus:
+1) fiziskā persona - vārdu un uzvārdu; juridiskā persona - nosaukumu;
+2) adresi;
+3) elektronisko adresi un tīmekļa vietni;
+4) attiecīgās valsts nodokļa maksātāja reģistrācijas numuru, ja tāds ir.
+(5) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta otrajā daļā minētā nodokļa maksātāja reģistrācijas iesnieguma saņemšanas pieņem lēmumu par reģistrāciju savienības režīma reģistrā un, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, to paziņo ne vēlāk kā nākamajā dienā pēc lēmuma pieņemšanas.
+(6) Valsts ieņēmumu dienests savienības režīma izmantošanai piešķir reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā vai - attiecībā uz reģistrētu nodokļa maksātāju - izmanto tam jau piešķirto reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā par darbībām, saistībā ar kurām nodokļa piemērošanas nolūkā šis nodokļa maksātājs ir reģistrēts iekšzemē.
+(7) Valsts ieņēmumu dienests izslēdz nodokļa maksātāju no savienības režīma reģistra, ja iestājas vismaz viens no šādiem apstākļiem:
+1) nodokļa maksātājs, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, paziņo, ka vairs nepiegādā preces un nesniedz pakalpojumus, uz kuriem attiecas savienības režīms;
+2) ir citas pazīmes, kas liek uzskatīt, ka nodokļa maksātāja darbība, par kuru uzliek nodokli un uz kuru attiecas savienības režīms, ir beigusies;
+3) nodokļa maksātājs vairs neatbilst nosacījumiem, kuru īstenošana nepieciešama savienības režīma izmantošanai;
+4) nodokļa maksātājs pastāvīgi neievēro noteikumus attiecībā uz savienības režīmu.
+(8) Šā panta otrajā daļā minētais nodokļa maksātājs līdz taksācijas periodam sekojošā mēneša beigām iesniedz Valsts ieņēmumu dienestam, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, par katru ceturksni nodokļa deklarāciju par darījumiem, uz kuriem attiecas savienības režīms. Minēto nodokļa deklarāciju nodokļa maksātājs iesniedz arī tad, ja attiecīgos darījumus nav veicis.
+(9) Nodokli, kas aprēķināts par taksācijas periodu, šā panta otrajā daļā minētais nodokļa maksātājs iemaksā valsts budžetā līdz taksācijas periodam, par kuru iesniegta nodokļa deklarācija, sekojošā mēneša beigām.
+(10) Šā panta otrajā daļā minētajam nodokļa maksātājam nodokļa summu par iekšzemē iegādātajām precēm un saņemtajiem pakalpojumiem savienības režīma ietvaros veicamo darījumu nodrošināšanai atmaksā no valsts budžeta, piemērojot šā likuma 113. pantā noteikto kārtību.
+(11) Ja šā panta otrajā daļā minētais nodokļa maksātājs iekšzemē veic arī darbības, uz kurām neattiecas savienības režīms un saistībā ar kurām nodokļa piemērošanas nolūkā ir jābūt reģistrētam Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā, tas nodokļa summu par precēm un pakalpojumiem savu darījumu nodrošināšanai atskaita nodokļa deklarācijā, kas iesniedzama saskaņā ar šā likuma 117. pantu.
+(12) Šā panta otrajā daļā minētajam nodokļa maksātājam ir pienākums:
+1) izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, paziņot par savas darbības izmaiņām, kuru dēļ vairs netiek īstenoti attiecīgie nosacījumi, lai tas varētu izmantot savienības režīmu, kā arī paziņot to, kad viņš beidz izmantot minēto režīmu, un paziņot par citām izmaiņām reģistrācijas datos;
+2) nodrošināt detalizētu uzskaiti par darījumiem, uz kuriem attiecas savienības režīms;
+3) lai pierādītu nodokļa aprēķinu pareizību, glabāt uzskaites datus 10 gadus pēc tā gada 31. decembra, kad veikti darījumi;
+4) izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, pēc Valsts ieņēmumu dienesta pieprasījuma iesniegt uzskaiti par katru atsevišķu darījumu veidu.
+(13) Ministru kabinets nosaka kārtību, kādā šā panta pirmās daļas 2. punktā minētais nodokļa maksātājs sagatavo un aizpilda nodokļa deklarāciju par taksācijas periodā veiktajiem darījumiem, uz kuriem attiecas savienības režīms, un veic tajā labojumus, kā arī nosaka nodokļa deklarācijā norādāmo informāciju.

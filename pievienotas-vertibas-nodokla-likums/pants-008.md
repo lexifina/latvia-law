@@ -1,7 +1,7 @@
 8.pants. Preču piegādei Eiropas Savienības teritorijā par atlīdzību pielīdzināmie darījumi
 (1) Par preču piegādi Eiropas Savienības teritorijā par atlīdzību uzskata kustamas lietas - iekšzemes nodokļa maksātāja saimnieciskajā darbībā izmantojamo aktīvu daļas - nosūtīšanu vai transportēšanu no iekšzemes uz galamērķi citā dalībvalstī savas saimnieciskās darbības nodrošināšanai šajā dalībvalstī, ja šo pārvietošanu veic pats iekšzemes nodokļa maksātājs vai cita persona viņa vārdā.
 (2) Par šā panta pirmajā daļā minēto preču pārvietošanu no iekšzemes uz galamērķi citā dalībvalstī neuzskata preču nosūtīšanu vai transportēšanu uz citu dalībvalsti saistībā ar kādu no šādiem darījumiem:
-1) tālpārdošanai paredzētu preču piegādi saskaņā ar šā likuma 13.panta pirmo daļu;
+1) tālpārdošanai paredzētu preču piegādi saskaņā ar šā likuma 13.¹ panta pirmo daļu;
 2) montāžai vai uzstādīšanai paredzētu preču piegādi, ja šo preču montāžu vai uzstādīšanu veic piegādātājs vai cita persona viņa vārdā;
 3) preču piegādi, ko nodokļa maksātājs veic uz kuģa, gaisakuģa vai vilcienā, pasažieru pārvadājumos Eiropas Savienības teritorijā;
 4) gāzes piegādi uz citu dalībvalsti, izmantojot dabasgāzes sistēmu, kas atrodas Eiropas Savienības teritorijā, vai jebkādus tīklus, kas ir pieslēgti šai sistēmai, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas piegādi pa siltumenerģijas vai dzesēšanas tīkliem;

@@ -1,7 +1,8 @@
 127.pants. Pienākums izsniegt nodokļa rēķinu
 (1) Ja šajā likumā nav noteikts citādi, reģistrēts nodokļa maksātājs izraksta nodokļa rēķinu vai nodrošina, ka trešā persona viņa vārdā vai preču vai pakalpojumu saņēmējs izraksta nodokļa rēķinu par:
 1) jebkurām veiktajām preču piegādēm un sniegtajiem pakalpojumiem;
-2) avansa maksājumu, ko tas saņēmis pirms veiktās preču piegādes vai pakalpojumu sniegšanas, izņemot saņemto avansa maksājumu par preču piegādi Eiropas Savienības teritorijā.
+2) avansa maksājumu, ko tas saņēmis pirms veiktās preču piegādes vai pakalpojumu sniegšanas, izņemot saņemto avansa maksājumu par preču piegādi Eiropas Savienības teritorijā;
+3) preču piegādēm, kas veiktas saskaņā ar šā likuma 13.¹ panta pirmo daļu, izņemot gadījumus, kad preču piegādātājs izmanto šā likuma 140.³ pantā noteikto īpašo nodokļa režīmu.
 (2) Reģistrētam nodokļa maksātājam nav pienākuma izrakstīt nodokļa rēķinu par šādiem darījumiem:
 1) šā likuma 52.panta pirmās daļas 20., 21. un 22.punktā minētajiem pakalpojumiem;
 2) iekšzemē veiktām citām ar nodokli neapliekamām preču piegādēm un sniegtiem pakalpojumiem, kas nav minēti šīs daļas 1.punktā.

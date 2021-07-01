@@ -2,8 +2,8 @@
 (1) Ar nodokli neapliek šā likuma 52.panta pirmajā daļā minēto preču importu.
 (2) Ar nodokli neapliek gāzes importu, kas transportēta, izmantojot dabasgāzes sistēmu vai tīklus, kuri pieslēgti šai sistēmai, vai gāzes transportkuģus, un ko iesūknē kādā dabasgāzes sistēmā vai maģistrālo cauruļvadu tīklā, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas importu pa siltumapgādes vai dzesēšanas tīkliem.
 (3) Ar nodokli neapliek preču importu, kas netiek aplikts ar muitas nodokli saskaņā ar Padomes 2009.gada 16.novembra regulu (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), izņemot šīs regulas 23.pantā minētos preču sūtījumus.
-(4) Ar nodokli neapliek preču sūtījumus, kas minēti Padomes 2009.gada 16.novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (kodificēta versija), 23.pantā, ja sūtījuma vērtība nepārsniedz 22 euro.
-(5) Ar nodokli neapliek preču importu komerciālā nolūkā, ja to kopējā vērtība nepārsniedz 22 euro.
+(4) (Izslēgta ar 15.10.2020. likumu)
+(5) (Izslēgta ar 15.10.2020. likumu)
 (6) (Izslēgta ar 19.09.2013. likumu)
 (7) Ar nodokli neapliek preču importu, ko veic:
 1) Eiropas Savienības institūcijas vai to pārstāvniecības Eiropas Savienības teritorijā, Eiropas Atomenerģijas kopiena, Eiropas Centrālā banka, Eiropas Investīciju banka vai ar Eiropas Savienības tiesību aktiem izveidotās struktūras, kurām piemēro 1965.gada 8.aprīļa Protokolu par privilēģijām un imunitāti Eiropas Savienībā, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti minētajā protokolā un tā īstenošanas līgumos vai mītnes līgumos;
@@ -30,3 +30,4 @@ b) ceļotāja personiskajām vajadzībām nepieciešamo zāļu vērtību,
 c) šā panta piecpadsmitajā daļā norādīto preču vērtību;
 4) vienas preces vērtība nav dalāma.
 (15) Ar nodokli neapliek tabakas izstrādājumus, alkoholiskos dzērienus un degvielu, ko ceļotājs ieved personīgajā bagāžā, ievērojot likuma "Par akcīzes nodokli" nosacījumus un šo preču daudzuma ierobežojumus.
+(16) Ar nodokli neapliek to preču importu, kuram piemēro šā likuma 140.⁴ pantā noteikto importa režīmu, ja, vēlākais, importa deklarācijas iesniegšanas brīdī Valsts ieņēmumu dienesta rīcībā ir preču piegādātāja vai šā likuma 140.⁴ pantā minētā starpnieka (kas rīkojas preču piegādātāja interesēs) reģistrācijas numurs Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā šā likuma 140.⁴ pantā noteiktā importa režīma izmantošanai.

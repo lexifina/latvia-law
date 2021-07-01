@@ -1,7 +1,7 @@
 60.pants. Noteikumi citas dalībvalsts nodokļa maksātāja reģistrācijai Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā
 (1) Ja citas dalībvalsts nodokļa maksātājs piegādā preces personai, kura nav nodokļa maksātājs vai ir nereģistrēts nodokļa maksātājs, un šīs preces iekšzemē montē vai uzstāda, tad šis citas dalībvalsts nodokļa maksātājs pirms darījuma veikšanas reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā neatkarīgi no montēto vai uzstādīto preču vērtības.
 (2) Preču tālpārdošanas darījumos citas dalībvalsts nodokļa maksātājs reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā:
-1) 30 dienu laikā no brīža, kad preču piegāžu kopējā vērtība iepriekšējā vai kārtējā kalendāra gadā ir sasniegusi vai pārsniegusi 35 000 euro;
+1) 30 dienu laikā no brīža, kad preču piegāžu kopējā vērtība iepriekšējā vai kārtējā kalendāra gadā ir sasniegusi vai pārsniegusi 10 000 euro;
 2) pirms darījuma veikšanas, ja piegādā preces, kurām iekšzemē piemēro akcīzes nodokli, neatkarīgi no piegādāto akcīzes preču vērtības.
 (3) Preču tālpārdošanas darījumos citas dalībvalsts nodokļa maksātājam ir tiesības reģistrēties Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā arī pirms šā panta otrās daļas 1.punktā minētā reģistrācijas sliekšņa sasniegšanas.
 (4) Ja citas dalībvalsts nodokļa maksātāja pastāvīgā iestāde iekšzemē iesaistās šīs personas preču piegādē vai pakalpojumu sniegšanā iekšzemē, tā pirms šo darījumu veikšanas reģistrējas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.
