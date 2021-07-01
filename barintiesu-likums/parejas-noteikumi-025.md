@@ -1,0 +1,1 @@
+25. Grozījumi šā likuma 5. panta 1.¹ daļā un 49.² pants par bāriņtiesu funkcionālās pārraudzības īstenošanu bāriņtiesas lietās par bērna ārpusģimenes aprūpi piemērojami, sākot ar 2023. gada 1. janvāri.

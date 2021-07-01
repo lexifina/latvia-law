@@ -1,0 +1,1 @@
+31. Grozījums šā likuma 17. panta 5.¹ punktā par bāriņtiesas pienākumu informēt Valsts bērnu tiesību aizsardzības inspekciju par atkārtotu aizgādības tiesību pārtraukšanu vecākam stājas spēkā 2023. gada 1. janvārī.

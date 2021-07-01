@@ -1,0 +1,1 @@
+24. Grozījumi šā likuma 5. panta 1.¹ daļā un 49.² pants par bāriņtiesu funkcionālās pārraudzības īstenošanu bāriņtiesas lietās par aizgādības tiesību pārtraukšanu, atņemšanu un par pārtraukto aizgādības tiesību atjaunošanu piemērojami, sākot ar 2022. gada 1. janvāri.

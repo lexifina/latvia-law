@@ -5,8 +5,9 @@ Bāriņtiesa:
 2) izskata iesniegumus un sūdzības, to skaitā iesniegumus un sūdzības par vecāka, aizbildņa, aizgādņa vai audžuģimenes rīcību;
 3) piedalās lietas izskatīšanā tiesā un sniedz atzinumu, ja likums nosaka vai tiesa atzīst bāriņtiesas piedalīšanos lietas izskatīšanā par nepieciešamu;
 3¹) sniedz tiesai informāciju, kurai ir nozīme lietā par personas rīcībspējas ierobežošanu, pagaidu aizgādnības nodibināšanu un rīcībspējas ierobežojuma pārskatīšanu (piemēram, dokumentus par personas viedokli attiecībā uz rīcībspējas ierobežošanu, par dzīves apstākļu pārbaudi, par citu personu viedokli, par ziņām no sociālā dienesta, ārstējošā ārsta, ārstniecības, sociālās aprūpes un rehabilitācijas iestādes, par kredītiestādē veiktajiem darījumiem un kontu atlikumiem);
-4) sadarbojas ar citām bāriņtiesām, ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijām, veselības aprūpes un izglītības iestādēm, sociālajiem dienestiem, policijas iestādēm, Valsts probācijas dienestu un tiesu izpildītājiem, lai nodrošinātu bērna vai aizgādnībā esošās personas tiesību un interešu aizstāvību;
+4) sadarbojas ar citām bāriņtiesām, Valsts bērnu tiesību aizsardzības inspekciju, ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijām, veselības aprūpes un izglītības iestādēm, sociālajiem dienestiem, policijas iestādēm, Valsts probācijas dienestu un tiesu izpildītājiem, lai nodrošinātu bērna vai aizgādnībā esošās personas tiesību un interešu aizsardzību;
 5) informē pašvaldības sociālo dienestu vai citu atbildīgo institūciju par ģimenēm, kurās netiek pietiekami nodrošināta bērna attīstība un audzināšana un kurām nepieciešama palīdzība;
+5¹) (punkts stājas stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 31. punktu)
 6) neizpauž informāciju, kas jebkādā veidā varētu kaitēt bērnam vai aizgādnībā esošajai personai;
 7) sniedz palīdzību bērnam vai aizgādnībā esošajai personai, kura pēc palīdzības vērsusies bāriņtiesā;
 7¹) uzklausa aizgādnībā esošo personu ikvienā jautājumā, kas skar šīs personas intereses;

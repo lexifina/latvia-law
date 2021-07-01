@@ -1,4 +1,4 @@
-18.pants. Bērna personisko interešu aizstāvība
+18.pants. Bērna personisko interešu aizsardzība
 Bāriņtiesa, aizstāvot bērna personiskās intereses attiecībās ar vecākiem, aizbildņiem un citām personām:
 1) lemj par atļaujas došanu stāties laulībā pirms 18 gadu vecuma sasniegšanas, ja šādu atļauju nav devis neviens no vecākiem vai aizbildnis;
 2) lemj par pilngadības piešķiršanu pirms 18 gadu vecuma sasniegšanas;

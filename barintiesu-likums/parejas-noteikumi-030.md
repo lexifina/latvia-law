@@ -1,0 +1,1 @@
+30. Grozījumi šā likuma 15.¹ panta pirmās daļas 2. punktā, kas nosaka izglītības prasības bāriņtiesas priekšsēdētāja palīgam un bāriņtiesas locekļa palīgam, piemērojami, sākot ar 2024. gada 1. oktobri.
