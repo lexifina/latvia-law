@@ -10,5 +10,5 @@ Likumā ir lietoti šādi termini:
 8) persona ar invaliditāti - persona, kurai šajā likumā paredzētajā kārtībā ir noteikta invaliditāte;
 9) persona ar prognozējamu invaliditāti - persona, kurai šajā likumā paredzētajā kārtībā ir noteikta prognozējama invaliditāte;
 10) surdotulks - persona, kas zīmju valodā nodrošina personai ar dzirdes invaliditāti saskarsmi ar citām personām, arī profesionālās pamatizglītības, profesionālās vidējās izglītības vai augstākās izglītības iestādē, kur persona ar dzirdes invaliditāti apgūst izglītības programmu;
-11) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 10. punktu);
-12) (punkts stājas spēkā 01.07.2021. un iekļauts likuma redakcijā uz 01.07.2021. Sk. Pārejas noteikumu 10. punktu).
+11) pavadonis - fiziskā persona, kas pavada un palīdz nokļūt no mājokļa uz izvēlēto galamērķi un atpakaļ personai ar invaliditāti, kurai ir būtiski pārvietošanās traucējumi un kura nesaņem asistenta pakalpojumu pašvaldībā;
+12) aprūpes pakalpojums - pasākumu kopums personai no 5 līdz 18 gadu vecumam ar invaliditāti un izteiktiem un smagiem funkcionēšanas ierobežojumiem. Šis pakalpojums ietver aprūpi, uzraudzību, pašaprūpes spēju attīstību un saturīgu brīvā laika pavadīšanu personas dzīvesvietā.
