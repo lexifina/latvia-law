@@ -1,0 +1,1 @@
+3. Ministru kabinets pirmo ziņojumu Valsts prezidentam un Saeimai par paveikto likuma mērķa sasniegšanā un Latviešu vēsturisko zemju un kultūrtelpu attīstības plāna īstenošanā iesniedz līdz 2023. gada 30. jūnijam.

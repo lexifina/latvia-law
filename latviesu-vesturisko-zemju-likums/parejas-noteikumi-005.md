@@ -1,0 +1,1 @@
+5. Šā likuma 1. pielikuma 1.3.2. apakšpunkts (par Ādažu pilsētas statusu), 1.7.4. apakšpunkts (par Ķekavas pilsētas statusu) un 1.10.3. apakšpunkts (par Mārupes pilsētas statusu) stājas spēkā 2022. gada 1. jūlijā.
