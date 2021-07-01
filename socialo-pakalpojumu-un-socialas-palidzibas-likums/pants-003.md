@@ -7,7 +7,7 @@ a) ieguvuši pastāvīgās uzturēšanās tiesības,
 b) ir tiesīgi uzturēties Latvijas Republikā un ir uzturējušies Latvijas Republikā vismaz trīs mēnešus,
 c) uzturējušies Latvijas Republikā vismaz sešus mēnešus, ja uzturēšanās mērķis ir bijis darba tiesisko attiecību nodibināšana Latvijas Republikā un ir pierādījumi, ka viņi turpina meklēt darbu, ko apliecina viņu reģistrācija Nodarbinātības valsts aģentūrā;
 4) šīs daļas 1., 2. un 3.punktā minēto personu ģimenes locekļiem.
-(1¹) Tiesības saņemt šajā likumā minēto pabalstu garantētā minimālā ienākumu līmeņa nodrošināšanai, patversmes un naktspatversmes pakalpojumus, kā arī sociālā dienesta informāciju un konsultācijas ir personām, kuras uzturas Latvijas Republikā un kurām piešķirts alternatīvais statuss, kā arī šo personu ģimenes locekļiem, kuri uzturas Latvijas Republikā. Pašvaldības sociālais dienests ir tiesīgs piešķirt dzīvokļa pabalstu personai, kurai piešķirts alternatīvais statuss, tādā kārtībā un apmērā, kāds noteikts attiecīgās pašvaldības iedzīvotājiem.
+(1¹) Tiesības saņemt šajā likumā minētos pamata sociālās palīdzības pabalstus, patversmes un naktspatversmes pakalpojumus, kā arī sociālā dienesta informāciju un konsultācijas ir personām, kuras uzturas Latvijas Republikā un kurām piešķirts alternatīvais statuss, kā arī šo personu ģimenes locekļiem, kuri uzturas Latvijas Republikā.
 (1²) Bērniem, kas ieguvuši alternatīvo statusu, ir tiesības saņemt sociālās aprūpes pakalpojumus un šā likuma 13.panta pirmajā daļā noteiktos sociālās rehabilitācijas pakalpojumus.
 (2) Sociālo pakalpojumu un sociālās palīdzības saņemšanas kārtību nosaka Ministru kabinets un pašvaldību domes.
 (3) Kārtību, kādā saņemami pašvaldību sniegtie sociālie pakalpojumi, nosaka pašvaldību saistošajos noteikumos.
