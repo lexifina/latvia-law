@@ -1,0 +1,1 @@
+24. Šā likuma 64. panta otrajā daļā minētā kārtība, kādā iesniedzama ar elektronisko zīmogu apliecināta lēmuma (dokumenta) datne no Būvniecības informācijas sistēmas, attiecas uz lēmumu (dokumentu), ko būvvalde izdevusi, sākot ar 2020. gada 1. janvāri.

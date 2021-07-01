@@ -3,7 +3,7 @@
 1¹) kredītiestāde, kurai par labu nostiprināma ķīlas tiesība zemesgrāmatā, - par hipotēkas un ar to saistīto tiesību aprobežojumu nostiprināšanu kredītiestādes darbību reglamentējošos normatīvajos aktos noteiktajos kredītiestādes uzņēmumu pārejas gadījumos;
 2) zvērināts tiesu izpildītājs - par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;
 3) maksātnespējas procesa administrators - par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;
-4) valsts vai pašvaldības iestāde, ja nostiprinājuma lūgums pamatots ar šo iestāžu izdotu dokumentu, izņemot nostiprinājuma lūgumu par valstij vai pašvaldībai piederošiem un piekrītošiem zemes gabaliem, uz kuriem atrodas publiskās lietošanas transporta infrastruktūras objekti, un zemes gabaliem, kuri atrodas ostas teritorijā;
+4) valsts vai pašvaldības iestāde, tai skaitā arī institūcija, kuras kompetencē ir nekustamā īpašuma atsavināšana sabiedrības vajadzībām, vai tās pilnvarota persona, ja nostiprinājuma lūgumu iesniedz pilnvarotās personas likumiskais pārstāvis, izņemot nostiprinājuma lūgumu par valstij vai pašvaldībai piederošiem un piekrītošiem zemes gabaliem, uz kuriem atrodas publiskās lietošanas transporta infrastruktūras objekti, un zemes gabaliem, kuri atrodas ostas teritorijā;
 5) zvērināts notārs, ja nostiprinājuma pamatā ir šā zvērināta notāra taisīts notariāls akts.
 Nostiprinājuma lūgumu normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā:
 1) var iesniegt šā likuma 60. panta otrajā daļā minētās personas, ja izpildīti šā likuma 60. panta otrās daļas nosacījumi;

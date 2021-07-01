@@ -1,0 +1,1 @@
+22. Īpašnieks iesniegumu par tam piederošas ēkas (būves) dzēšanu, pamatojoties uz dokumentu, kas apliecina ēkas (būves) neesību, ja ēka (būve) nav vienīgais nekustamā īpašuma objekts un minētais dokuments izdots līdz 2020. gada 31. martam, iesniedz Valsts zemes dienestam. Valsts zemes dienests iesniegumu elektroniski nosūta attiecīgajai rajona (pilsētas) tiesai.
