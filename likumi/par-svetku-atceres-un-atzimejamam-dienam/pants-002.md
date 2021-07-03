@@ -1,7 +1,9 @@
 2. Noteikt par atceres un atzīmējamām dienām:
 20. janvāri - 1991. gada barikāžu aizstāvju atceres dienu;
 26. janvāri - Latvijas Republikas starptautiskās (de jure) atzīšanas dienu;
+2. martu - Nacionālo partizānu bruņotās pretošanās atceres dienu;
 8. martu - Starptautisko sieviešu dienu;
+17. martu - Nacionālās pretošanās kustības piemiņas dienu;
 25. martu - Komunistiskā genocīda upuru piemiņas dienu;
 27. aprīli - Latgales kongresa dienu;
 8. maiju - Nacisma sagrāves dienu un Otrā pasaules kara upuru piemiņas dienu;
@@ -23,7 +25,9 @@ septembra otro svētdienu - Tēva dienu;
 22. septembri - Baltu vienības dienu;
 1. oktobri - Starptautisko senioru dienu;
 oktobra pirmo svētdienu - Skolotāju dienu;
+15. oktobri - Valsts valodas dienu;
 7. novembri - Robežsargu dienu;
 11. novembri - Lāčplēša dienu;
+21. novembri - 2013. gada 21. novembra traģēdijas atceres dienu;
 5. decembri - Policijas darbinieku dienu;
 Decembra pirmo svētdienu - pret latviešu tautu vērstā totalitārā komunistiskā režīma genocīda upuru piemiņas dienu.
