@@ -4,4 +4,4 @@
 3) propagandēja Latvijas Republikas neatkarības atjaunošanas ideju, izplatot nelegālo presi, uzsaukumus vai citus izdevumus, kā arī atklāti vēršoties pret okupācijas režīmu, tā iedibināto kārtību un ideoloģiju.
 (2) Par nacionālās pretošanās kustības dalībniekiem atzīstami arī Latvijas pilsoņi un Latvijas iedzīvotāji, kuri Latvijas teritorijā laika posmā no 1961.gada 1.janvāra līdz 1990.gada 4.maijam par savu politisko darbību vai pārliecību tika:
 1) notiesāti un ir reabilitēti;
-2) piespiedu kārtā nepamatoti ievietoti ārstniecības iestādēs, kur viņiem piemēroja medicīniska rakstura piespiedu līdzekļus, par ko Reabilitācijas un specdienestu lietu prokuratūra veikusi pārbaudi un sniegusi atzinumu Tieslietu ministrijai.
+2) piespiedu kārtā nepamatoti ievietoti ārstniecības iestādēs, kur viņiem piemēroja medicīniska rakstura piespiedu līdzekļus, par ko Latvijas Republikas prokuratūra veikusi pārbaudi un sniegusi atzinumu pašvaldībai.
