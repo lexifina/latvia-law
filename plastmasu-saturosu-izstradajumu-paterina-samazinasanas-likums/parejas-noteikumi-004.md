@@ -1,0 +1,1 @@
+4. Šā likuma 7. panta pirmajā daļā minētās marķēšanas prasības nepiemēro izstrādājumiem, kas laisti tirgū līdz 2021. gada 2. jūlijam un ko var dokumentāri pamatot ar preču piegādes dokumentiem vai muitas deklarācijām, kas noformētas atbilstoši muitas procedūrai - laišana brīvā apgrozībā, ko glabā 10 gadus un uzrāda kompetentajām iestādēm pēc pieprasījuma.

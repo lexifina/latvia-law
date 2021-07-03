@@ -1,0 +1,1 @@
+6. Šā likuma 14. panta pirmās daļas 1. punktā un otrajā daļā minēto datu apkopošanas prasību nepiemēro līdz 2021. gada 31. decembrim, un šā likuma 14. panta pirmās daļas 2. un 3. punktā un trešajā daļā minēto datu apkopošanas prasību nepiemēro līdz 2022. gada 31. decembrim.

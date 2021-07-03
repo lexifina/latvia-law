@@ -1,0 +1,1 @@
+2. Šā likuma 6. panta pirmajā daļā minēto prasību nepiemēro līdz 2029. gada 31. decembrim. Laika posmā no 2025. gada 1. janvāra līdz 2029. gada 31. decembrim ražotāji drīkst laist tirgū dzērienu iepakojumus, kuru galvenā sastāvdaļa ir polietilēntereftalāts, kas satur vismaz 25 procentus pārstrādātas plastmasas.

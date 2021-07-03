@@ -1,0 +1,1 @@
+1. Šā likuma 4. panta pirmajā un otrajā daļā minēto aizliegumu nepiemēro, ja izstrādājumi laisti tirgū līdz 2021. gada 2. jūlijam un to var dokumentāri pamatot ar preču piegādes dokumentiem vai muitas deklarācijām, kas noformētas atbilstoši muitas procedūrai - laišana brīvā apgrozībā, ko glabā 10 gadus un uzrāda kompetentajām iestādēm pēc to pieprasījuma.

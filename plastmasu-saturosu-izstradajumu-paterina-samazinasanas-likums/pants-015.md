@@ -1,0 +1,3 @@
+15. pants. Atbildīgo institūciju ziņošanas pienākums
+(1) Valsts vides dienests, pamatojoties uz ražotāju un ražotāja paplašinātās atbildības sistēmas komersantu iesniegtajiem pārskatiem (šā likuma 10. panta otrā daļa un 14. panta pirmā, otrā un trešā daļa), katru gadu sagatavo ziņojumu par vienreizlietojamiem plastmasu saturošiem izstrādājumiem, plastmasu saturošiem zvejas rīkiem un to apsaimniekošanu.
+(2) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" šā panta pirmajā daļā minēto ziņojumu ievieto Eiropas Komisijas datubāzē 18 mēnešu laikā pēc pārskata gada beigām.

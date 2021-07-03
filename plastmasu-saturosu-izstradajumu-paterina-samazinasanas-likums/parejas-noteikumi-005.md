@@ -1,0 +1,1 @@
+5. Līdz 2024. gada 30. decembrim nepiemēro šā likuma 10. panta prasības, bet līdz 2023. gada 4. janvārim nepiemēro šā likuma 10. panta prasības attiecībā uz tabakas izstrādājumiem ar filtriem un filtriem, kas paredzēti lietošanai kopā ar tabakas izstrādājumiem un no akcīzes preču noliktavas tiek nodoti patēriņam.
