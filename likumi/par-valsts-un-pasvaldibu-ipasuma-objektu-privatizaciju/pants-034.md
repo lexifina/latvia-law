@@ -6,7 +6,7 @@
 4) termiņš, līdz kuram šā likuma 35. pantā minētās personas var iesniegt pieteikumu par pirmpirkuma tiesību realizēšanu;
 5) vieta, kur iesniedzami šā panta pirmās daļas 3. un 4. punktā minētie dokumenti un saņemama informācija par objektu;
 6) termiņš, līdz kuram piesakāmas kreditoru prasības un citas pretenzijas pret privatizējamo kapitālsabiedrību.
-2. Šā panta pirmās daļas 3.punktā minētais termiņš nedrīkst būt īsāks par divām nedēļām. Republikas pilsētas dome vai novada dome ir tiesīga šo termiņu pagarināt vai atjaunot.
+2. Šā panta pirmās daļas 3.punktā minētais termiņš nedrīkst būt īsāks par divām nedēļām. Pašvaldības dome ir tiesīga šo termiņu pagarināt vai atjaunot.
 3. Šā panta pirmās daļas 4. punktā minētais termiņš ir viens mēnesis.
 4. Šā panta pirmās daļas 6.punktā minētais termiņš ir divi mēneši.
 5. Šajā pantā minēto termiņu sākums skaitāms no dienas, kad šā panta pirmajā daļā minētais paziņojums publicēts oficiālajā izdevumā "Latvijas Vēstnesis".
