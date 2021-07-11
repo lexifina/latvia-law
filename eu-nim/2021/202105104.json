@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 10. jūnija likums \"Grozījumi Apdrošināšanas un pārapdrošināšanas likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121B",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-27",
+  "entry_into_force": "2021-07-11",
+  "notification_date": "2021-07-12",
+  "commission_reference": "MNE(2021)05104",
+  "nim_celex": "72019L2177LVA_202105104",
+  "nim_id": "202105104",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e62a2e21-e609-11eb-a1a5-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
