@@ -5,4 +5,4 @@
 3) vienu vai vairākas pretenzijas;
 4) zīmējumus, ja aprakstā vai pretenzijās ir atsauces uz tiem;
 5) kopsavilkumu.
-(2) Patenta pieteikuma paraugu un saturu nosaka Ministru kabinets.
+(2) Patenta pieteikuma saturu nosaka Ministru kabinets.

@@ -1,3 +1,3 @@
 44.pants. Termiņu pagarināšana
-(1) Patentu valde ir tiesīga pagarināt šajā likumā noteiktos termiņus uz laiku, kas nepārsniedz trīs mēnešus, ja šāds lūgums Patentu valdē saņemts pirms attiecīgā termiņa beigām un ir samaksāta maksa par termiņa pagarināšanu.
+(1) Patentu valde šajā likumā noteiktos termiņus atbilžu sniegšanai uz Patentu valdes paziņojumiem ir tiesīga pagarināt vienu reizi uz laiku, kas nepārsniedz trīs mēnešus, ja šāds lūgums Patentu valdē saņemts pirms attiecīgā termiņa beigām un ir veikta samaksa par termiņa pagarināšanu.
 (2) Šā panta pirmā daļa neattiecas uz termiņiem, kas noteikti šā likuma 6.panta pirmajā daļā, 28.panta piektajā un sestajā daļā, 29.panta pirmajā un trešajā daļā, 39.pantā, 43.panta pirmajā daļā, 45.panta otrajā daļā, 46.panta otrajā daļā, 71.panta otrajā un trešajā daļā, 76.panta pirmajā daļā minētās regulas 7.pantā un otrajā daļā minētās regulas 7.pantā.

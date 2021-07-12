@@ -8,6 +8,6 @@
 5) ziņas par prioritāti;
 6) patenta pretenzijas.
 (3) Paziņojumu par patenta piešķiršanu publicē vienlaikus ar patenta pieteikuma publicēšanu, ja lēmums par patenta piešķiršanu pieņemts pirms šā likuma 35.panta pirmajā un ceturtajā daļā minētā termiņa beigām.
-(4) Patentu reģistrē patentu reģistrā vienlaikus ar paziņojuma par patenta piešķiršanu publicēšanu Patentu valdes oficiālajā izdevumā. Patentu valde patenta īpašniekam izsniedz patentu, kura paraugu nosaka Ministru kabinets.
+(4) Patentu reģistrē vienlaikus ar paziņojuma par patenta piešķiršanu publicēšanu Patentu valdes oficiālajā izdevumā. Patentu valde patenta īpašniekam izsniedz patentu.
 (5) Patentu nepiešķir, ja pieteicējs noteiktajā termiņā nav saskaņā ar šā panta pirmo daļu samaksājis maksu par patenta publikāciju un reģistrāciju patentu reģistrā.
 (6) Patenta īpašnieks nekavējoties paziņo Patentu valdei par grozījumiem vai konstatētajām kļūdām ziņās, kas attiecas uz patenta piešķiršanu, par īpašnieka vārda (nosaukuma) maiņu vai par pārstāvja maiņu. Ja samaksāta noteiktā maksa, Patentu valde pieļaujamos grozījumus iekļauj patentu reģistrā, paziņojumu par izdarītajiem grozījumiem publicē savā oficiālajā izdevumā un nosūta patenta īpašniekam. Ziņu iekļaušana reģistrā par pārstāvja iecelšanu un atcelšanu, grozījumi ziņās par pārstāvi, kā arī Patentu valdes pieļauto kļūdu labojumi tiek izdarīti bez maksas.
