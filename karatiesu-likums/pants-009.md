@@ -1,3 +1,4 @@
-9.pants. Advokātu norīkošana darbam karatiesās
+9.pants. Advokātu sagatavošana un norīkošana darbam karatiesās
 (1) Latvijas Zvērinātu advokātu padome sadarbībā ar Aizsardzības ministriju no advokātu vidus sagatavo kvalificētus advokātus darbam ar karatiesām piekritīgām lietām. Advokātu apmācība notiek saskaņā ar Aizsardzības ministrijas un Tieslietu ministrijas izstrādāto programmu, izmantojot Latvijas Nacionālās aizsardzības akadēmijas materiāltehnisko bāzi.
-(2) Latvijas Zvērinātu advokātu padome izveido un uztur to advokātu reģistru, kuri pēc tam, kad paziņots tieslietu ministra rīkojums par karatiesu darbības uzsākšanu, veic advokātu funkcijas karatiesām piekritīgās lietās.
+(2) Latvijas Zvērinātu advokātu padome izveido un uztur to advokātu reģistru, kuri pēc tam, kad paziņots tieslietu ministra rīkojums par karatiesu darbības uzsākšanu, veic advokātu funkcijas karatiesām piekritīgās lietās. Karatiesu advokātu reģistru aktualizē Latvijas Zvērinātu advokātu padome ne retāk kā reizi divos gados.
+(3) Karatiesu advokātu reģistrā iekļauj zvērinātu advokātu, kurš ir sagatavots darbam karatiesās atbilstoši šā panta pirmajai daļai un kurš ir rakstveidā piekritis pildīt karatiesas advokāta pienākumus karatiesu darbības uzsākšanas gadījumā.

@@ -1,4 +1,5 @@
-8.pants. Prokuroru norīkošana darbam karatiesās
-(1) Ģenerālprokuratūra sadarbībā ar Aizsardzības ministriju no prokuratūras iestāžu prokuroru vidus sagatavo kvalificētus prokurorus darbam ar karatiesām piekritīgām lietām. Prokuroru apmācība notiek saskaņā ar Aizsardzības ministrijas un Tieslietu ministrijas izstrādāto programmu, izmantojot Latvijas Nacionālās aizsardzības akadēmijas materiāltehnisko bāzi.
-(2) Ģenerālprokuratūra izveido un uztur to prokuroru reģistru, kuriem pēc tam, kad paziņots tieslietu ministra rīkojums par karatiesu darbības uzsākšanu, jāveic prokuroru funkcijas karatiesām piekritīgās lietās.
+8.pants. Prokuroru sagatavošana un norīkošana darbam karatiesās
+(1) Ģenerālprokuratūra sadarbībā ar Aizsardzības ministriju no prokuratūras struktūrvienību prokuroru vidus sagatavo kvalificētus prokurorus darbam ar karatiesām piekritīgām lietām. Prokuroru apmācība notiek saskaņā ar Aizsardzības ministrijas un Tieslietu ministrijas izstrādāto programmu, izmantojot Latvijas Nacionālās aizsardzības akadēmijas materiāltehnisko bāzi.
+(2) Ģenerālprokuratūra izveido un uztur to prokuroru reģistru, kuriem pēc tam, kad paziņots tieslietu ministra rīkojums par karatiesu darbības uzsākšanu, jāveic prokuroru funkcijas karatiesām piekritīgās lietās. Karatiesu prokuroru reģistru aktualizē Ģenerālprokuratūra ne retāk kā reizi divos gados.
+(2¹) Karatiesu prokuroru reģistrā iekļauj prokuroru, kurš ir sagatavots darbam karatiesās atbilstoši šā panta pirmajai daļai un kurš ir rakstveidā piekritis pildīt karatiesas prokurora pienākumus karatiesu darbības uzsākšanas gadījumā.
 (3) Ģenerālprokurors nosaka kārtību, kādā nodrošināma šā panta otrajā daļā minēto prokuroru darbība, kā arī šo prokuroru darbības teritoriju atbilstoši karatiesu darbības teritorijai.
