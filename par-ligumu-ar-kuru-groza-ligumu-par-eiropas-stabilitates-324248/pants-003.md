@@ -1,0 +1,1 @@
+3. pants. Līgums stājas spēkā tā 5. panta 1. punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Līgums latviešu valodā.
