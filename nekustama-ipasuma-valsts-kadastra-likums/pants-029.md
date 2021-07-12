@@ -1,5 +1,6 @@
 29.pants. (1) Zemes kadastrālo uzmērīšanu veic sertificētas personas, kuru civiltiesiskā atbildība par profesionālo darbību ir apdrošināta.
-(2) Sertifikātu zemes kadastrālajam uzmērītājam izsniedz vai atsaka izsniegt, sertifikāta darbību aptur vai atjauno, sertifikāta darbības termiņu pagarina vai atsaka to pagarināt un sertifikātu anulē Ministru kabineta pilnvarota sertificēšanas institūcija.
+(2) Sertifikātu zemes kadastrālajam uzmērītājam izsniedz vai atsaka izsniegt, sertifikāta darbību aptur vai atjauno, sertifikāta darbības termiņu pagarina vai atsaka to pagarināt un sertifikātu anulē, kā arī sertificēto personu darbības uzraudzību veic un sertificēto personu kvalifikācijas celšanu nodrošina Ministru kabineta pilnvarota sertificēšanas institūcija.
+(2¹) (Daļa stājas spēkā 01.01.2022. un iekļauta likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 42. punktu)
 (3) (Izslēgta ar 23.11.2016. likumu)
 (4) Sertifikāta izsniegšanas un reģistrēšanas, sertifikāta darbības apturēšanas un atjaunošanas, sertifikāta darbības termiņa pagarināšanas un sertifikāta anulēšanas kārtību, sertificēto personu darbības uzraudzības kārtību, civiltiesiskās atbildības apdrošināšanas kārtību un apdrošināšanas līguma minimālo apmēru nosaka Ministru kabinets.
 (4¹) Ministru kabinets apstiprina maksas pakalpojumu cenrādi par zemes kadastrālās uzmērīšanas veicēju sertifikāciju, sertifikāta darbības termiņa pagarināšanu un sertificēto personu darbības uzraudzību.

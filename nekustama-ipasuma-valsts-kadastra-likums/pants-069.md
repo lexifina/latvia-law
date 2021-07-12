@@ -1,3 +1,4 @@
 69.pants. (1) Kadastrālo vērtību bāzes izstrādē ievēro valstī atzītās nekustamā īpašuma vērtēšanas standartos noteiktās vērtēšanas metodes-darījumu salīdzināšanas metodi, ienākumu kapitalizācijas metodi un izmaksu metodi.
 (2) Informāciju par nekustamā īpašuma tirgus darījumiem izmanto vismaz par diviem pēdējiem gadiem.
-(3) Kadastrālo vērtību bāzi izstrādā atbilstoši situācijai nekustamā īpašuma tirgū, kāda tā bija pusotru gadu pirms kadastrālo vērtību bāzes piemērošanas kadastrālo vērtību aprēķinam (situācija attiecīgā gada 1.jūlijā).
+(3) Kadastrālo vērtību bāzi izstrādā atbilstoši situācijai nekustamā īpašuma tirgū, kāda tā bija divus ar pusi gadus pirms kadastrālo vērtību bāzes piemērošanas kadastrālo vērtību aprēķinam (situācija līdz attiecīgā gada 1. jūlijam).
+(4) Valsts zemes dienests kadastrālo vērtību bāzes izstrādes laikā un pēc tās apstiprināšanas Ministru kabinetā publicē atbilstoši izstrādes procesā esošai vai apstiprinātai kadastrālo vērtību bāzei aprēķinātās kadastrālās vērtības, kādas tās varētu būt to spēkā stāšanās brīdī.
