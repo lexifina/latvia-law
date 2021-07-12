@@ -9,7 +9,7 @@
 1) darījuma attiecību mērķi;
 2) klienta plānoto un veikto darījumu regularitāti;
 3) darījuma attiecību ilgumu un darījumu regularitāti;
-4) klienta plānoto un veikto darījumu apjomu.
+4) klienta plānoto un veikto darījumu, tai skaitā noguldījumu, apjomu.
 (3) Likuma subjekts, veicot klienta izpēti, ņem vērā vismaz šādus risku paaugstinošus faktorus:
 1) darījuma attiecības notiek neparastos apstākļos;
 2) klients vai tā patiesais labuma guvējs ir saistīts ar paaugstināta riska jurisdikciju, proti:

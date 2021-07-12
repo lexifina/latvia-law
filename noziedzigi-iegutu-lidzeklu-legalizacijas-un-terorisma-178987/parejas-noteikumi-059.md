@@ -1,0 +1,1 @@
+59. Līdz dienai, kad stājas spēkā attiecīgie grozījumi citos normatīvajos aktos, tajos lietotais termins "juridiska veidojuma dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs" atbilst šajā likumā lietotajam terminam "juridiska veidojuma vai juridiskās personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs".

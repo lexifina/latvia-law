@@ -20,6 +20,8 @@
 10) 1988.gada 10.marta Protokola par prettiesisku darbību pret nostiprinātu platformu drošību kontinentālajā šelfā apkarošanu 2.pantā minētās darbības;
 11) ceļošanu terorisma nolūkā;
 12) iesaistīšanos teroristu grupā, tās organizēšanu vai vadīšanu;
-13) personas vervēšanu, apmācīšanu vai apmācīšanos terorismam.
+13) personas vervēšanu, apmācīšanu vai apmācīšanos terorismam;
+14) terorisma attaisnošanu, aicinājumu uz terorismu vai terorisma draudus;
+15) 2005. gada 13. aprīļa Starptautiskās konvencijas par kodolterorisma apkarošanu 2. pantā minētās darbības.
 (4) Terorisma finansēšana ir arī jebkādā veidā iegūtu finanšu līdzekļu vai mantas tieša vai netieša vākšana vai nodošana teroristu grupas vai atsevišķa terorista rīcībā.
 (5) Masveida iznīcināšanas ieroču izgatavošanas, glabāšanas, pārvietošanas, lietošanas vai izplatīšanas (turpmāk - proliferācija) finansēšana ir jebkādā veidā iegūtu finanšu līdzekļu vai citas mantas tieša vai netieša vākšana vai nodošana ar mērķi tos izmantot vai zinot, ka tie tiks pilnīgi vai daļēji izmantoti, lai finansētu proliferāciju (turpmāk - proliferācijas finansēšana).

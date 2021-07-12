@@ -10,7 +10,7 @@ b) kas ir koncerns Gada pārskatu un konsolidēto gada pārskatu likuma izpratn�
 3) darījuma attiecības - likuma subjekta un klienta attiecības, kuras rodas, likuma subjektam veicot saimniecisko vai profesionālo darbību, un kurām to nodibināšanas brīdī ir ilgstošs mērķis;
 3¹) gadījuma rakstura darījums - darījums starp likuma subjektu un klientu, nenodibinot darījuma attiecības šā likuma izpratnē;
 4) klients - juridiskā vai fiziskā persona vai juridisks veidojums, vai šādu personu apvienība, vai veidojumu apvienība, kuram likuma subjekts sniedz pakalpojumu vai pārdod preci;
-5) patiesais labuma guvējs - fiziskā persona, kura ir klienta - juridiskās personas - īpašnieks vai kura kontrolē klientu, vai kuras vārdā, labā, interesēs tiek nodibinātas darījuma attiecības vai tiek veikts gadījuma rakstura darījums, un tā ir vismaz:
+5) patiesais labuma guvējs - fiziskā persona, kura ir klienta - juridiskās personas vai juridiska veidojuma - īpašnieks vai kura kontrolē klientu, vai kuras vārdā, labā, interesēs tiek nodibinātas darījuma attiecības vai tiek veikts gadījuma rakstura darījums, un tā ir vismaz:
 a) attiecībā uz juridiskajām personām - fiziskā persona, kurai tiešas vai netiešas līdzdalības veidā pieder vairāk nekā 25 procenti no juridiskās personas kapitāla daļām vai balsstiesīgajām akcijām vai kura to tiešā vai netiešā veidā kontrolē,
 b) attiecībā uz juridiskiem veidojumiem - fiziskā persona, kurai pieder vai kuras interesēs ir izveidots vai darbojas juridisks veidojums vai kura tiešā vai netiešā veidā īsteno kontroli pār to, tostarp kura ir šāda veidojuma dibinātājs, pilnvarnieks vai pārraudzītājs (pārvaldnieks);
 6) kredītiestāde - Latvijas Republikā, citā dalībvalstī vai trešajā valstī reģistrēta kredītiestāde vai dalībvalsts, trešās valsts kredītiestādes filiāle vai pārstāvniecība;
@@ -31,13 +31,13 @@ j) alternatīvo ieguldījumu fondu pārvaldnieks,
 k) pārapdrošināšanas pakalpojumu sniedzējs,
 l) finanšu līzinga pakalpojumu sniedzējs,
 m) persona, kura nodarbojas ar patērētāju kreditēšanu un kurai Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai;
-8) juridisks veidojums - personu apvienība, kurai ir patstāvīga tiesībspēja un rīcībspēja, kā arī veidojums, kurš nav juridiskā persona, bet kuram ir patstāvīga tiesībspēja un rīcībspēja un kura struktūrā var ietilpt dibinātājs, pilnvarotais, pārraudzītājs (pārvaldnieks) vai tiem līdzvērtīgi statusi, un labuma guvējs - ja vēl nav noteikta fiziskā persona, kura gūst labumu, - persona, kuras interesēs ir izveidots vai darbojas juridisks veidojums, jebkura cita fiziskā persona, kura faktiski īsteno galējo kontroli pār juridisku veidojumu, izmantojot īpašumtiesības vai citus līdzekļus;
+8) juridisks veidojums - veidojums, kurš nav juridiskā persona, bet kuram ir patstāvīga tiesībspēja un rīcībspēja un kura struktūrā var ietilpt dibinātājs, pilnvarotais, pārraudzītājs (pārvaldnieks) vai tiem līdzvērtīgi statusi, un labuma guvējs - ja vēl nav noteikta fiziskā persona, kura gūst labumu, - persona, kuras interesēs ir izveidots vai darbojas juridisks veidojums, jebkura cita fiziskā persona, kura faktiski īsteno galējo kontroli pār juridisku veidojumu, izmantojot īpašumtiesības vai citus līdzekļus;
 8¹) augstākā vadība - valde, ja to izveido, vai valdes īpaši iecelts valdes loceklis, amatpersona vai darbinieks, kam ir pietiekamas zināšanas par likuma subjekta pakļautību noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas riskiem un pietiekami augsta līmeņa amats, lai pieņemtu lēmumus, kas skar likuma subjekta pakļautību minētajiem riskiem;
 9) (izslēgts ar 26.10.2017. likumu);
-10) juridiska veidojuma dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - juridiskā vai fiziskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
-a) palīdz dibināt juridisku veidojumu,
-b) pilda komersanta vai cita juridiska veidojuma direktora, sekretāra vai personālsabiedrības biedra pienākumus, kā arī veic citus līdzīgus pienākumus vai nodrošina, ka tos pilda cita persona,
-c) nodrošina juridisku veidojumu ar juridisko adresi, adresi pasta sūtījumu saņemšanai, darījuma norises vietas adresi, kā arī sniedz citus līdzīgus pakalpojumus,
+10) juridiska veidojuma vai juridiskas personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - juridiskā vai fiziskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
+a) palīdz dibināt juridisku veidojumu vai juridisku personu,
+b) pilda komersanta vai cita juridiska veidojuma, vai juridiskas personas direktora, sekretāra vai personālsabiedrības biedra pienākumus, kā arī veic citus līdzīgus pienākumus vai nodrošina, ka tos pilda cita persona,
+c) nodrošina juridisku veidojumu vai juridisku personu ar juridisko adresi, adresi pasta sūtījumu saņemšanai, darījuma norises vietas adresi, kā arī sniedz citus līdzīgus pakalpojumus,
 d) pilda uzticības personas pienākumus saskaņā ar tiešu pilnvarojumu vai līdzīgu juridisku dokumentu vai nodrošina, ka šos pienākumus pilda cita persona,
 e) pārstāv tādas komercsabiedrības akcionāru vai dalībnieku, kuras finanšu instrumenti nav iekļauti regulētā tirgū un uz kuru attiecas informācijas atklāšanas prasības saskaņā ar Eiropas Savienības tiesību aktiem vai tiem līdzvērtīgiem starptautiskiem standartiem, vai nodrošina, ka šo darbību veic cita persona;
 11) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;

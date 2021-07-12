@@ -2,7 +2,7 @@
 (1) Likuma subjekts veic klienta izpēti:
 1) pirms darījuma attiecību uzsākšanas;
 2) pirms gadījuma rakstura darījuma, ja:
-a) darījuma apjoms vai vairāku šķietami saistītu darījumu kopējā summa ir 15 000 euro vai lielāka vai ir ārvalstu valūtā, kas saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu darījuma veikšanas dienas sākumā ir ekvivalenta 15 000 euro vai pārsniedz šo summu,
+a) klienta darījuma apjoms vai vairāku šķietami saistītu darījumu kopējā summa ir 15 000 euro vai lielāka vai ir ārvalstu valūtā, kas saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu darījuma veikšanas dienas sākumā ir ekvivalenta 15 000 euro vai pārsniedz šo summu,
 b) tiek veikts līdzekļu pārvedums, tostarp arī kredīta pārvedums, tiešā debeta pārvedums, bezkonta naudas pārvedums vai pārvedums, kas veikts ar maksājumu karti, elektroniskās naudas instrumentu, mobilo telefonu, digitālo vai citu informācijas tehnoloģijas ierīci un pārsniedz 1000 euro,
 c) tiek veikts ārvalstu valūtas skaidras naudas pirkšanas vai pārdošanas darījums, kura apmērs vai vairāku šķietami saistītu darījumu kopējā summa pārsniedz 1500 euro;
 3) ja likuma subjekts nodarbojas ar preču tirdzniecību, kā arī ar starpniecību vai cita veida pakalpojumu sniegšanu gadījuma rakstura darījuma ietvaros un ja maksājums tiek veikts skaidrā naudā vai skaidra nauda par šo darījumu tiek iemaksāta kredītiestādē pārdevēja kontā 10 000 euro vai lielākā apmērā vai ārvalstu valūtā, kas saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu darījuma veikšanas dienas sākumā ir ekvivalenta 10 000 euro vai pārsniedz šo summu, neatkarīgi no tā, vai šo darījumu veic kā vienu operāciju vai kā vairākas savstarpēji saistītas operācijas;

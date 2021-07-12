@@ -1,0 +1,1 @@
+62. Sūdzības par Finanšu izlūkošanas dienesta izdotajiem rīkojumiem, kuras īpaši pilnvarotie prokurori saņēmuši līdz grozījumu šā likuma 34. pantā, kas maina sūdzības iesniegšanas kārtību, spēkā stāšanās dienai, izskata īpaši pilnvarotie prokurori un ģenerālprokurors atbilstoši šā likuma regulējumam, kas bija spēkā sūdzības iesniegšanas brīdī.

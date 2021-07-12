@@ -1,0 +1,1 @@
+58. Grozījumi attiecībā uz šā likuma IV un IV¹ nodaļas izslēgšanu, kā arī šā likuma IV² nodaļa un grozījumi šā likuma 36. panta pirmajā daļā, 43. pantā, 47.¹ panta piektajā daļā, 55. panta sestajā daļā, 62. panta sestajā daļā un 51. panta pirmās daļas 18. punkts stājas spēkā 2021. gada 1. oktobrī.

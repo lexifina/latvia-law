@@ -20,8 +20,8 @@ a) nekustamā īpašuma, uzņēmuma pirkšanu vai pārdošanu,
 b) klienta naudas, finanšu instrumentu un citu līdzekļu pārvaldīšanu,
 c) visu veidu kontu atvēršanu vai pārvaldīšanu kredītiestādēs vai finanšu iestādēs,
 d) juridisku veidojumu dibināšanu, vadību vai darbības nodrošināšanu, kā arī attiecībā uz juridiska veidojuma dibināšanai, vadīšanai vai pārvaldīšanai nepieciešamo ieguldījumu veikšanu;
-3) juridiska veidojuma dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējus;
-4) personas, kas darbojas kā aģenti vai starpnieki darījumos ar nekustamo īpašumu, tostarp gadījumos, kad tie rīkojas kā nekustamā īpašuma nomas starpnieki attiecībā uz darījumiem, kuriem ikmēneša nomas maksa ir vismaz 10 000 euro;
+3) juridiska veidojuma vai juridiskās personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējus;
+4) nekustamā īpašuma darījumu starpniekus;
 5) citas juridiskās vai fiziskās personas, kas nodarbojas ar transportlīdzekļu, dārgmetālu, dārgakmeņu, to izstrādājumu un cita veida preču tirdzniecību, kā arī ar starpniecību minētajos darījumos vai cita veida pakalpojumu sniegšanu, ja maksājumu veic skaidrā naudā vai skaidru naudu par šo darījumu iemaksā kredītiestādē pārdevēja kontā 10 000 euro vai lielākā apmērā vai ārvalstu valūtā, kas saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu darījuma veikšanas dienas sākumā ir ekvivalenta 10 000 euro vai pārsniedz šo summu, neatkarīgi no tā, vai šo darījumu veic kā vienu operāciju vai kā vairākas savstarpēji saistītas operācijas;
 6) citas iestādes, kuras nav minētas šā likuma 45. panta pirmās daļas 1. punktā un kuras sniedz šādus pakalpojumus:
 a) kreditēšanu, tai skaitā finanšu līzingu, ja pakalpojumu sniegšanai nav nepieciešama licencēšana,

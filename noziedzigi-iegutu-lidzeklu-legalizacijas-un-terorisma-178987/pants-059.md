@@ -1,5 +1,5 @@
 59.pants. Finanšu izlūkošanas dienesta Konsultatīvās padomes uzdevums
-Lai sekmētu Finanšu izlūkošanas dienesta darbību un koordinētu tā sadarbību ar pirmstiesas izmeklēšanas iestādēm, prokuratūru, tiesu un šā likuma subjektiem, tiek izveidota Finanšu izlūkošanas dienesta Konsultatīvā padome (turpmāk - Konsultatīvā padome), kurai ir šādi uzdevumi:
+Lai sekmētu Finanšu izlūkošanas dienesta darbību un koordinētu tā sadarbību ar izmeklēšanas iestādēm, prokuratūru, tiesu un šā likuma subjektiem, tiek izveidota Finanšu izlūkošanas dienesta Konsultatīvā padome (turpmāk - Konsultatīvā padome), kurai ir šādi uzdevumi:
 1) koordinēt valsts institūciju, likuma subjektu un to uzraudzības un kontroles institūciju sadarbību šā likuma prasību izpildē;
 2) izstrādāt ieteikumus Finanšu izlūkošanas dienestam šajā likumā paredzēto pienākumu veikšanai;
 3) sagatavot un iesniegt Finanšu izlūkošanas dienestam ieteikumus par sliekšņa deklarācijas satura grozīšanu;
