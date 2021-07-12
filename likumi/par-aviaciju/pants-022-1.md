@@ -1,0 +1,2 @@
+22.¹ pants. Rīcība ar gaisa kuģa priekšmetu tiesiskās aizsardzības vai maksātnespējas procesā
+Tiesiskās aizsardzības vai maksātnespējas procesā, ja parādniekam saskaņā ar 2001. gada 16. novembra Konvencijas par starptautiskajām garantijām attiecībā uz pārvietojamām iekārtām Protokola par jautājumiem, kas attiecas uz gaisa kuģu iekārtām I panta "n" apakšpunktu galveno interešu centrs ir Latvijas Republikā, ar gaisa kuģa priekšmetu rīkojas atbilstoši minētā protokola XI panta A variantam, ievērojot nosacījumu, ka gaidīšanas periods nedrīkst pārsniegt 60 kalendāra dienas.
