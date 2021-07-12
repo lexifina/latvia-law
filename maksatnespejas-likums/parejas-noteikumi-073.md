@@ -1,0 +1,1 @@
+73. Grozījumi šā likuma 155. panta pirmajā, otrajā un trešajā daļā un 161. panta 1. punktā par kreditoru prasījumu segšanai novirzāmo ienākumu apmēru attiecas uz fiziskās personas maksātnespējas procesiem, kas pasludināti pēc šo grozījumu spēkā stāšanās.

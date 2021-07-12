@@ -12,5 +12,6 @@
 2) kārtējie nodokļu un nodevu maksājumi;
 3) kārtējie uzturlīdzekļu maksājumi;
 4) likumiskie maksājumi un maksājumi, kas izriet no tiem līgumiem, kuri tiek turpināti vai šajā likumā noteiktajā kārtībā noslēgti pēc fiziskās personas maksātnespējas procesa pasludināšanas (piemēram, administratīvie sodi, īres maksa, maksa par komunālajiem pakalpojumiem utt.);
-5) izdevumi, kas saistīti ar trešajām personām piederošās mantas uzturēšanu līdz tās nodošanai šīm personām.
+5) izdevumi, kas saistīti ar trešajām personām piederošās mantas uzturēšanu līdz tās nodošanai šīm personām;
+6) sprieduma izpildes izdevumi, ciktāl tie nav segti saskaņā ar Civilprocesa likumu.
 (5) Fiziskās personas maksātnespējas procesa netiešās izmaksas tiek segtas no parādnieka līdzekļiem, ko viņš ir tiesīgs paturēt sev uzturēšanas izmaksu segšanai.

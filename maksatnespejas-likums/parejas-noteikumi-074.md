@@ -1,0 +1,1 @@
+74. Grozījums šā likuma 172. panta ceturtās daļas 6. punktā attiecībā uz sprieduma izpildes izdevumu, ciktāl tie nav segti saskaņā ar Civilprocesa likumu, noteikšanu par fiziskās personas maksātnespējas procesa netiešajām izmaksām piemērojams fiziskās personas maksātnespējas procesos, kas uzsākti pēc šo grozījumu spēkā stāšanās.
