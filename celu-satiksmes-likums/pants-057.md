@@ -37,7 +37,7 @@ piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību 
 5) uz tiltiem, estakādēm, ceļa pārvadiem vai zem tiem;
 6) vietās, kur attālums starp brauktuves nepārtraukto ceļa apzīmējuma līniju, sadalošo joslu vai pretējo brauktuves malu un apturētu transportlīdzekli ir mazāks par trim metriem;
 7) uz gājēju pārejām, vietās, kur brauktuvi šķērso velosipēdu ceļš, gājēju un velosipēdu ceļš vai kopīgs gājēju un velosipēdu ceļš, vai tuvāk par pieciem metriem no šīm vietām;
-8) brauktuvju krustošanās vietā vai tuvāk par pieciem metriem no šķērsojamās brauktuves malas;
+8) krustojumā vai tuvāk par pieciem metriem no tā;
 9) tuvāk par 25 metriem pirms un 10 metriem aiz 541., 542. vai 543. ceļa zīmes;
 10) uz ieskrējiena vai bremzēšanas joslām;
 11) 326. ceļa zīmes darbības zonā;
