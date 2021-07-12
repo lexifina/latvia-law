@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 15. jūnija likums \"Grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121B",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-28",
+  "entry_into_force": "2021-07-12",
+  "notification_date": "2021-07-20",
+  "commission_reference": "MNE(2021)05264",
+  "nim_celex": "72019L2177LVA_202105264",
+  "nim_id": "202105264",
+  "transposes_celex": [
+    "32019L2177"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e845b79f-edf7-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
