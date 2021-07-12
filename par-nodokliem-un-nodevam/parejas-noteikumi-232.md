@@ -1,0 +1,1 @@
+232. Grozījumi šā likuma 22.² pantā stājas spēkā vienlaikus ar grozījumiem Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā attiecībā uz informācijas sniegšanu par aizdomīgiem darījumiem, izmantojot Finanšu izlūkošanas dienesta Finanšu izlūkošanas datu saņemšanas un analīzes sistēmu.
