@@ -1,0 +1,1 @@
+8. Nodevas maksātājs, kurš piemērojis šo pārejas noteikumu 3. punktu, nav tiesīgs uz kopējo pakalpojumu cenu attiecināt saimnieciskās darbības ieņēmumu konta izveides izmaksas, par kurām ir samazināts nodevas maksājums.

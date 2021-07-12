@@ -1,0 +1,1 @@
+7. Nodevas maksātājs ir tiesīgs nākamā taksācijas perioda nodevas maksājumus samazināt par saimnieciskās darbības ieņēmumu konta izveides faktisko izmaksu summas daļu, kas pārsniedz saskaņā ar šā likuma 5. panta septīto daļu noteikto nodevas summu, ievērojot šo pārejas noteikumu 3., 4. un 5. punktu.

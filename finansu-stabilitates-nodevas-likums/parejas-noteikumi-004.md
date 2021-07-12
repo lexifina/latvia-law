@@ -1,0 +1,1 @@
+4. Piemērojot pārejas noteikumu 3. punktu, nodevas maksātājs Finanšu un kapitāla tirgus komisijai iesniedz plānoto saimnieciskās darbības ieņēmumu konta izveides izmaksu aprēķinu un to segšanas grafiku.
