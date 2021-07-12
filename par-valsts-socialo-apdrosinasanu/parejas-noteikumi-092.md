@@ -1,0 +1,1 @@
+92. Saimnieciskās darbības veicēji, kuri līdz 2020. gada 31. decembrim ir veikuši patentmaksu par 2021. gadu, saimnieciskās darbības periodā, par kuru veikta patentmaksa, ir sociāli apdrošināmi saskaņā ar šā likuma normām, kas bija spēkā 2020. gada 31. decembrī.
