@@ -10,7 +10,7 @@ Ministru kabinets:
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
 7¹) apstiprina valsts izglītības iestāžu (izņemot valsts augstskolu - atvasināto publisko personu) nolikumus;
 8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
-8¹) (punkts stājas spēkā 01.08.2021. un iekļauts likuma redakcijā 01.08.2021. Sk. Pārejas noteikumu 94. punktu);
+8¹) nosaka prasības sistēmiskai izglītības kvalitātes nodrošināšanai;
 8²) apstiprina ikgadēju izglītības kvalitātes novērtējuma ziņojumu;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
