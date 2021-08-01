@@ -13,7 +13,7 @@ Par katru pieteikumu Uzņēmumu reģistra valsts notārs lemj atsevišķi un lē
 (Piektā daļa izslēgta ar 23.03.2017. likumu)
 (Sestā un septītā daļa izslēgta ar 05.06.2003. likumu.)
 (Astotā daļa izslēgta ar 23.03.2017. likumu)
-Uzņēmumu reģistrs ne vēlāk kā septiņu dienu laikā no šā panta ceturtajā daļā minētā lēmuma pieņemšanas dienas publicē oficiālajā izdevumā "Latvijas Vēstnesis" par uzņēmumu (uzņēmējsabiedrību) līdzekļiem Uzņēmumu reģistra žurnālā ierakstītās ziņas, ja tās nav jau publicētas uz citu likumu pamata.
+Uzņēmumu reģistrs septiņu dienu laikā no šā panta ceturtajā daļā minētā lēmuma pieņemšanas dienas oficiālajā izdevumā "Latvijas Vēstnesis" publicē Uzņēmumu reģistra žurnālā ierakstītās ziņas, ja tās nav jau publicētas uz citu likumu pamata.
 Visus reģistrējamos grozījumus uzņēmumi (uzņēmējsabiedrības) piesaka Uzņēmumu reģistrā 15 dienu laikā no lēmuma pieņemšanas dienas. Grozījumi ir spēkā pret trešajām personām ar brīdi, kad tie reģistrēti Uzņēmumu reģistrā.
 Ja Uzņēmumu reģistra žurnālā ierakstītās ziņas ir publicētas, tās var izmantot kā oficiālus avotus.
 Darījumu attiecībās ar uzņēmumu (uzņēmējsabiedrību) vai tā filiāli noteicošais ir publikācija un ieraksts, ko par attiecīgo uzņēmumu (uzņēmējsabiedrību) vai tā filiāli izdarījis Uzņēmumu reģistra valsts notārs.

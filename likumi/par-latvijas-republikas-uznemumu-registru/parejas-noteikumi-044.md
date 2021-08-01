@@ -1,0 +1,1 @@
+44. Reģistrācijas lietas publiskajā daļā iekļauj tikai tos šā likuma 4.¹⁵ panta pirmās daļas 3. punkta "a" apakšpunktā minētos valsts notāru lēmumus par ieraksta izdarīšanu un dokumenta pievienošanu reģistrācijas lietai, kas pieņemti, sākot ar 2021. gada 1. augustu.
