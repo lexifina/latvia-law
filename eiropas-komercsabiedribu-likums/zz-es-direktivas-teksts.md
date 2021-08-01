@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1151, ar ko groza direktīvu (ES) 2017/1132 attiecībā uz digitālo rīku un procesu izmantošanu sabiedrību tiesībās.

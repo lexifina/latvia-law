@@ -1,0 +1,1 @@
+Šā likuma 4. panta ceturtās daļas otrā teikuma, sestās daļas otrā teikuma un 5. panta trešās daļas trešā teikuma jaunā redakcija, kā arī grozījums šā likuma 4. panta piektajā daļā stājas spēkā 2023. gada 1. jūlijā.
