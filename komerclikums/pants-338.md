@@ -13,4 +13,4 @@
 9) reorganizācijas procesā veicamās darbības un to veikšanas termiņus.
 (3) Ja visas pievienojamās vai sadalāmās sabiedrības kapitāla daļas (akcijas) pieder iegūstošajai sabiedrībai, līgumā nenorāda šā panta otrās daļas 2., 3., 4. un 5.punktā minētās ziņas.
 (4) Ja līgums paredz atliekošus nosacījumus un tie neiestājas triju gadu laikā no līguma noslēgšanas dienas, katra reorganizācijas procesā iesaistītā sabiedrība drīkst vienpusēji atkāpties no līguma, paziņojot par to pārējām līgumslēdzējām pusēm ne vēlāk kā sešus mēnešus iepriekš, ja līgums neparedz īsāku paziņošanas termiņu.
-(5) Katra reorganizācijas procesā iesaistītā sabiedrība iesniedz komercreģistra iestādei paziņojumu par reorganizāciju, pievienojot līguma projektu. Oficiālajā izdevumā "Latvijas Vēstnesis" izsludina līguma projekta un tā grozījumu reģistrācijas datumu un tās komercreģistra lietas numuru, kurā līguma projekts atrodas.
+(5) Katra reorganizācijas procesā iesaistītā sabiedrība iesniedz komercreģistra iestādei paziņojumu par reorganizāciju, pievienojot līguma projektu.

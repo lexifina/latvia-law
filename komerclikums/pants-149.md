@@ -8,6 +8,6 @@
 4) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);
 5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Ja līdz sabiedrības ierakstīšanai komercreģistrā mainās tās firma, rakstveida piekrišana atkārtoti nav jāiesniedz;
 6) (izslēgts ar 15.04.2010. likumu);
-7) valdes paziņojumu par sabiedrības juridisko adresi, pievienojot nekustamā īpašuma (ēkas vai dzīvokļa īpašuma) īpašnieka izsniegtu piekrišanu sabiedrības juridiskās adreses reģistrācijai attiecīgajā ēkā vai dzīvokļa īpašumā. Piekrišanā norāda nekustamā īpašuma kadastra numuru, īpašnieka vārdu, uzvārdu un personas kodu vai nosaukumu (firmu) un reģistrācijas numuru. Ja valdes paziņojumu paraksta persona, kurai pieder juridiskajā adresē norādītais nekustamais īpašums, piekrišana nav jāiesniedz;
+7) valdes paziņojumu par sabiedrības juridisko adresi, tai skaitā norādot nekustamā īpašuma objekta (ēkas, dzīvokļa īpašuma vai telpas) kadastra apzīmējumu, un apliecinājumu, ka sabiedrība ir sasniedzama un tai ir tiesisks pamats atrasties norādītajā juridiskajā adresē;
 8) (izslēgts ar 16.03.2006. likumu);
 9) dalībnieku reģistra pirmo nodalījumu.

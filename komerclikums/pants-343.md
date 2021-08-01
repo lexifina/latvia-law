@@ -1,5 +1,5 @@
 343.pants. Lēmums par reorganizāciju
-(1) Līguma projektu izskata un lēmumu par reorganizāciju pieņem katras reorganizācijas procesā iesaistītās sabiedrības dalībnieku sapulce, kuru notur ne agrāk kā mēnesi pēc tam, kad saskaņā ar šā likuma 338.panta piekto daļu izsludinātas ziņas par līguma projektu.
+(1) Līguma projektu izskata un lēmumu par reorganizāciju pieņem katras reorganizācijas procesā iesaistītās sabiedrības dalībnieku sapulce, kuru notur ne agrāk kā mēnesi pēc tam, kad saskaņā ar šā likuma 11. pantu izsludināts līguma projekts.
 (2) Ja sakarā ar reorganizāciju izdarāmi kapitālsabiedrības statūtu vai personālsabiedrības līguma grozījumi, lēmumu par to pieņem vienlaikus ar lēmumu par reorganizāciju.
 (3) Ne mazāk kā mēnesi līdz dienai, kad paredzēta dalībnieku sapulce par līguma apstiprināšanu, visiem dalībniekiem jādod iespēja sabiedrības juridiskajā adresē iepazīties ar:
 1) līguma projektu;

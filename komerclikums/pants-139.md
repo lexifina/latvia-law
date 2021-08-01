@@ -1,3 +1,3 @@
 139.pants. Sabiedrības juridiskā adrese
-(1) Sabiedrības juridiskā adrese ir adrese, kurā atrodas sabiedrības vadība (sabiedrības sēdeklis). Juridiskās adreses maiņas gadījumā valde iesniedz pieteikumu komercreģistra iestādei attiecīga ieraksta izdarīšanai.
-(2) Pieteikumam pievieno nekustamā īpašuma (ēkas vai dzīvokļa īpašuma) īpašnieka izsniegtu piekrišanu sabiedrības juridiskās adreses reģistrācijai attiecīgajā ēkā vai dzīvokļa īpašumā. Piekrišanā norāda nekustamā īpašuma kadastra numuru, īpašnieka vārdu, uzvārdu un personas kodu vai nosaukumu (firmu) un reģistrācijas numuru. Ja pieteikumu paraksta persona, kurai pieder juridiskajā adresē norādītais nekustamais īpašums, piekrišana nav jāiesniedz.
+(1) Sabiedrības juridiskā adrese ir adrese, kura ierakstīta komercreģistrā. Juridiskās adreses maiņas gadījumā valde iesniedz pieteikumu komercreģistra iestādei attiecīga ieraksta izdarīšanai.
+(2) Pieteikumā valde norāda sabiedrības juridisko adresi, tai skaitā nekustamā īpašuma objekta (ēkas, dzīvokļa īpašuma vai telpas) kadastra apzīmējumu, un apliecina, ka sabiedrība ir sasniedzama un tai ir tiesisks pamats atrasties norādītajā juridiskajā adresē.

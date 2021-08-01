@@ -1,5 +1,5 @@
 354.¹ pants. Paziņojums iegūstošās sabiedrības dalībniekiem par reorganizāciju
-(1) Iegūstošās sabiedrības valde 15 dienu laikā no dienas, kad ziņas par reorganizācijas līguma projektu ir izsludinātas saskaņā ar šā likuma 338.panta piekto daļu, visiem dalībniekiem nosūta paziņojumu par valdes nodomu slēgt reorganizācijas līgumu un valdes lēmuma projektu par reorganizāciju.
+(1) Iegūstošās sabiedrības valde 15 dienu laikā no dienas, kad reorganizācijas līguma projekts ir izsludināts saskaņā ar šā likuma 11. pantu, visiem dalībniekiem nosūta paziņojumu par valdes nodomu slēgt reorganizācijas līgumu un valdes lēmuma projektu par reorganizāciju.
 (2) Ja sabiedrībai ir uzrādītāja akcijas, akcionāriem adresēto paziņojumu publicē oficiālajā izdevumā "Latvijas Vēstnesis" un vēl vismaz vienā laikrakstā.
 (3) Paziņojumā dalībniekiem norāda:
 1) sabiedrības firmu, reģistrācijas numuru un juridisko adresi;

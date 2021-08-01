@@ -24,13 +24,17 @@
 7) juridiskā adrese;
 8) ja kapitālsabiedrība nodibināta uz noteiktu laiku, - laiks, uz kādu tā nodibināta;
 9) filiāles firma, ja tā atšķiras no kapitālsabiedrības firmas, un tās juridiskā adrese.
-(4) Par ārvalsts komersanta filiāli komercreģistrā ierakstāmas šādas ziņas:
+(4) Par ārvalsts komersanta filiāli, izņemot šā panta 4.¹ daļā minēto, komercreģistrā ierakstāmas šādas ziņas:
 1) filiāles firma, ja tā atšķiras no ārvalsts komersanta firmas, un ārvalsts komersanta firma;
 2) filiāles juridiskā adrese un ārvalsts komersanta atrašanās vieta (juridiskā adrese);
 3) reģistrs, kurā ārvalsts komersants ir ierakstīts, un reģistrācijas numurs, ja komersanta atrašanās vietas valsts likums paredz komersanta ierakstīšanu reģistrā;
 4) ārvalsts komersanta veids;
 5) ārvalsts komersanta pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu, ja ārvalsts komersants ir kapitālsabiedrība un šīs ziņas ir ierakstītas tās valsts reģistrā, kurā ierakstīts ārvalsts komersants.
-(5) Papildus šā panta pirmajā, otrajā, trešajā un ceturtajā daļā minētajām ziņām komercreģistrā ierakstāmas šādas ziņas:
+(4¹) Par Eiropas Savienības dalībvalsts, Īslandes Republikas, Norvēģijas Karalistes un Lihtenšteinas Firstistes (turpmāk šajā daļā - dalībvalsts) kapitālsabiedrības filiāli komercreģistrā ierakstāmas šādas ziņas:
+1) filiāles firma, ja tā atšķiras no dalībvalsts kapitālsabiedrības firmas, un dalībvalsts kapitālsabiedrības firma;
+2) filiāles juridiskā adrese;
+3) to personu vārds, uzvārds, personas kods (ja personai nav personas koda - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un pilnvarojuma apjoms, kuras pilnvarotas pārstāvēt dalībvalsts kapitālsabiedrību darbībās, kas saistītas ar filiāli.
+(5) Papildus šajā pantā minētajām ziņām komercreģistrā ierakstāmas šādas ziņas:
 1) prokūrista vārds, uzvārds un personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi), kā arī norāde uz kopprokūru vai filiāles prokūru, ja tāda izdota, norāde uz šā likuma 34.panta otrajā daļā minēto tiesību piešķiršanu, ja tādas piešķirtas, kā arī prokūrista tiesības pārstāvēt komercsabiedrību atsevišķi vai kopīgi ar vienu vai vairākiem valdes locekļiem vai personālsabiedrības biedriem;
 2) to personu vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un pilnvarojuma apjoms, kuras pilnvarotas pārstāvēt komersantu (ārvalsts komersantu) darbībās, kas saistītas ar filiāli;
 3) ziņas par komersanta (ārvalsts komersanta) reorganizāciju;
@@ -42,4 +46,4 @@
 7¹) ziņas par aizgādnības nodibināšanu individuālajam komersantam vai personālsabiedrību pārstāvēttiesīgajam biedram, ja tiesa ierobežojusi attiecīgās personas rīcībspēju;
 8) katra ieraksta izdarīšanas datums.
 (6) Komercreģistrā ieraksta citas ziņas, ja to tieši paredz likums.
-(7) Ierakstot komercreģistrā komersantu, tam piešķir individuālu reģistrācijas numuru.
+(7) Ierakstot komercreģistrā komersantu, tā filiāli Latvijā vai ārvalsts komersanta un dalībvalsts kapitālsabiedrības filiāli Latvijā, tam piešķir individuālu reģistrācijas numuru.

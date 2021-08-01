@@ -4,4 +4,4 @@
 2) tā savas saimnieciskās darbības veikšanai vienlaikus nodarbina vairāk nekā piecus darbiniekus.
 (2) Fiziskā persona var pieteikt sevi ierakstīšanai komercreģistrā kā komersantu arī tad, ja nepastāv šā panta pirmajā daļā minētie apstākļi.
 (3) Pamats individuālā komersanta ierakstīšanai komercreģistrā ir fiziskās personas pieteikums komercreģistra iestādei.
-(4) Pieteikumam pievieno nekustamā īpašuma (ēkas vai dzīvokļa īpašuma) īpašnieka izsniegtu piekrišanu individuālā komersanta juridiskās adreses reģistrācijai attiecīgajā ēkā vai dzīvokļa īpašumā. Piekrišanā norāda nekustamā īpašuma kadastra numuru, īpašnieka vārdu, uzvārdu un personas kodu vai nosaukumu (firmu) un reģistrācijas numuru. Ja pieteikumu paraksta persona, kurai pieder juridiskajā adresē norādītais nekustamais īpašums, piekrišana nav jāiesniedz.
+(4) Pieteikumā norāda individuālā komersanta juridisko adresi, tai skaitā nekustamā īpašuma objekta (ēkas, dzīvokļa īpašuma vai telpas) kadastra apzīmējumu, un apliecina, ka individuālais komersants ir sasniedzams un tam ir tiesisks pamats atrasties norādītajā juridiskajā adresē.

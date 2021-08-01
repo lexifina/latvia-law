@@ -1,0 +1,6 @@
+25.¹ pants. Dalībvalsts kapitālsabiedrības filiāle
+(1) Attiecībā uz dalībvalsts kapitālsabiedrības filiāli piemērojami šā likuma noteikumi, ciktāl šajā pantā nav noteikts citādi.
+(2) Dalībvalsts kapitālsabiedrības filiāles atvēršana, izmaiņas ziņās par filiāli un filiāles izslēgšana no komercreģistra piesakāma ierakstīšanai komercreģistrā, pamatojoties uz dalībvalsts kapitālsabiedrības pieteikumu.
+(3) Pieteikumam par dalībvalsts kapitālsabiedrības filiāles ierakstīšanu komercreģistrā pievieno šā likuma 25. panta trešās daļas 2. un 4. punktā minētos dokumentus. Pieteikumā norāda dalībvalsts komersanta filiāles juridisko adresi, tai skaitā nekustamā īpašuma objekta (ēkas, dzīvokļa īpašuma vai telpas) kadastra apzīmējumu, un apliecina, ka dalībvalsts komersanta filiāle ir sasniedzama un tai ir tiesisks pamats atrasties norādītajā juridiskajā adresē.
+(4) Šā likuma 25. panta sestajā daļā minēto gada pārskatu var neiesniegt, ja tas ir pieejams attiecīgās dalībvalsts reģistra iestādē.
+(5) Ja no dalībvalsts reģistra iestādes, kas ved reģistru, kurā kapitālsabiedrība ierakstīta, reģistru savstarpējās savienojamības sistēmā ir saņemtas ziņas par to, ka kapitālsabiedrība izslēgta no attiecīgā reģistra, komercreģistra iestāde nekavējoties izdara komercreģistrā ierakstu par kapitālsabiedrības filiāles izslēgšanu.

@@ -1,5 +1,4 @@
-11.pants. Komercreģistra ierakstu izsludināšana
-(1) Visus komercreģistra ierakstus izsludina oficiālajā izdevumā "Latvijas Vēstnesis", vienlaikus tos publicējot elektroniski. Tāpat izsludina ziņas par dibināšanas dokumentiem un to grozījumiem, par reorganizācijas līguma projektu un tā grozījumiem, norādot reģistrācijas datumu un tās komercreģistra lietas numuru, kurā dokumenti atrodas.
-(2) Komercreģistra ierakstus un ziņas publicēšanai iesniedz komercreģistra iestādes amatpersona triju dienu laikā (neieskaitot brīvdienas un svētku dienas) no ieraksta izdarīšanas dienas. Komercreģistra ierakstus un ziņas publicē uz attiecīgā komersanta rēķina, ja likumā nav noteikta cita publicēšanas izdevumu segšanas kārtība.
-(3) Izmaksu apmēru un iekasēšanas kārtību nosaka Ministru kabinets. Ja komercreģistrā ir izdarīts ieraksts par jaunu šā likuma 185.¹ panta pirmās daļas noteikumiem atbilstošu sabiedrību ar ierobežotu atbildību, maksa par šāda ieraksta izsludināšanu nedrīkst pārsniegt attiecīgā ieraksta izsludināšanas pašizmaksu.
-(4) (Zaudējusi spēku ar 01.05.2012. Sk. Pārejas noteikumu 17.punktu)
+11. pants. Komercreģistra ierakstu izsludināšana
+(1) Visus komercreģistra ierakstus izsludina, komercreģistra iestādei nodrošinot to pirmreizēju publisku pieejamību tiešsaistē. Tāpat izsludina reģistrācijas lietai pievienotos dokumentus.
+(2) Ieraksts uzskatāms par izsludinātu nākamajā dienā pēc tā izdarīšanas. Dokumenti uzskatāmi par izsludinātiem nākamajā dienā pēc to pievienošanas reģistrācijas lietai.
+(3) (Daļa stājas spēkā 01.07.2023. un iekļauta likuma redakcijā uz 01.07.2023. Sk. Pārejas noteikumu 61. punktu)
