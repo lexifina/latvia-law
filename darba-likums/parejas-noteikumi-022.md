@@ -1,0 +1,1 @@
+22. Ja darba līgums darbiniekam, kurš atzīts par personu ar invaliditāti, tiek uzteikts šā likuma 101. panta pirmās daļas 8., 9. vai 11. punktā noteiktajos gadījumos, uzteikuma termiņš ir trīs mēneši, ja darba tiesiskās attiecības ar attiecīgo darbinieku ir nodibinātas līdz 2021. gada 31. jūlijam.

@@ -4,6 +4,7 @@
 1) kuri pie attiecīgā darba devēja nostrādājuši ilgāku laiku;
 2) kuri pie attiecīgā darba devēja cietuši nelaimes gadījumā darbā vai saslimuši ar arodslimību;
 3) kuri audzina bērnu vecumā līdz 14 gadiem vai bērnu ar invaliditāti vecumā līdz 18 gadiem;
+3¹) kuru kā vecāku aprūpē ir tāda pilngadīga persona ar invaliditāti no bērnības, kurai nepieciešama īpaša kopšana;
 4) kuriem ir divi vai vairāki apgādājamie;
 5) kuru ģimenes locekļiem nav pastāvīga ienākuma;
 6) kuri ir personas ar invaliditāti vai slimo ar staru slimību;

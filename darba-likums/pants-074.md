@@ -5,7 +5,8 @@
 3) pamatojoties uz attiecīgu darba devēja rīkojumu, darba laika ietvaros piedalās profesionālajā apmācībā vai kvalifikācijas paaugstināšanā;
 4) ne ilgāk kā divas darba dienas neveic darbu sakarā ar laulātā, vecāku, bērna vai cita tuva ģimenes locekļa nāvi;
 5) ne ilgāk kā vienu darba dienu neveic darbu sakarā ar pārcelšanos uz citu dzīvesvietu tajā pašā apdzīvotajā vietā pēc darba devēja iniciatīvas vai - ne ilgāk kā divas darba dienas - sakarā ar pārcelšanos uz citu dzīvesvietu citā apdzīvotajā vietā;
-6) pamatojoties uz izsaukumu, ierodas izziņas iestādē, prokuratūrā vai tiesā;
+6) pamatojoties uz izsaukumu, ierodas izmeklēšanas iestādē, prokuratūrā vai tiesā;
+6¹) kā liecinieks vai cietušais administratīvā pārkāpuma procesā piedalās procesuālajā darbībā;
 7) piedalās tādu nepārvaramas varas, nejauša notikuma vai citu ārkārtējo apstākļu izraisītu seku novēršanā, kuras apdraud vai var apdraudēt sabiedrisko drošību vai kārtību;
 8) neveic darbu svētku dienā, kas iekrīt darbiniekam noteiktajā darba dienā;
 9) (izslēgts ar 04.03.2010. likumu);
