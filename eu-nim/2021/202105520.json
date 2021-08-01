@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 6. jūlija likums \"Grozījumi Eiropas kooperatīvo sabiedrību likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-07-08",
+  "entry_into_force": "2021-08-01",
+  "notification_date": "2021-07-27",
+  "commission_reference": "MNE(2021)05520",
+  "nim_celex": "72019L1151LVA_202105520",
+  "nim_id": "202105520",
+  "transposes_celex": [
+    "32019L1151"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e8874c9f-f10a-11eb-a71c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
