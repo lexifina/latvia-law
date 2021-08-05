@@ -1,5 +1,5 @@
 318.pants. Dienesta stāvokļa ļaunprātīga izmantošana
-(1) Par valsts amatpersonas izdarītām tīšām darbībām, ļaunprātīgi izmantojot dienesta stāvokli, ja šīs darbības radījušas būtisku kaitējumu valsts varai vai pārvaldības kārtībai vai ar likumu aizsargātām personas interesēm, -
+(1) Par valsts amatpersonas izdarītām tīšām darbībām, ļaunprātīgi izmantojot dienesta stāvokli, ja šīs darbības radījušas būtisku kaitējumu, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarītas mantkārīgā nolūkā, -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.

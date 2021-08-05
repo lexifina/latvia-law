@@ -1,0 +1,1 @@
+26. Grozījumi šā likuma 41. panta pirmajā daļā, 139. panta otrās daļas sankcijā, 139.¹ panta pirmās un otrās daļas sankcijā, 141. panta 2.¹ daļas sankcijā, 195.² panta 2.¹ daļas sankcijā, 221.⁶ panta sankcijā un 239.¹ panta pirmās daļas sankcijā par pamatsodu - sabiedriskais darbs un probācijas uzraudzība - stājas spēkā 2022. gada 1. janvārī.
