@@ -1,0 +1,2 @@
+11.¹ pants. Atsevišķas dzīvojamās mājas dzīvokļu īpašnieku tiesības ierosināt būvniecību un veikt remontdarbus
+Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, atsevišķā dzīvojamā mājā veikt remontdarbus vai ierosināt būvniecību, ciktāl tā neskar citu atsevišķo dzīvojamo māju vai zemesgabalu un nemaina kopīpašumā esošo domājamo daļu, var tie dzīvokļu īpašnieki, kuriem piederošie atsevišķie īpašumi atrodas šajā dzīvojamā mājā.
