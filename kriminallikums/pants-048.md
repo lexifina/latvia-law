@@ -13,7 +13,7 @@
 11) noziedzīgais nodarījums izdarīts mantkārīgu tieksmju dēļ;
 12) noziedzīgais nodarījums izdarīts alkohola, narkotisko, psihotropo, toksisko vai citu apreibinošu vielu ietekmē;
 13) noziedzīgo nodarījumu izdarījusī persona nolūkā panākt soda samazināšanu ir sniegusi apzināti nepatiesas ziņas par citas personas izdarītu noziedzīgo nodarījumu;
-14) noziedzīgs nodarījums izdarīts rasistisku, nacionālu, etnisku vai reliģisku motīvu dēļ;
+14) noziedzīgs nodarījums izdarīts rasistisku, nacionālu, etnisku vai reliģisku motīvu vai sociālā naida dēļ;
 15) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, vai noziedzīgs nodarījums pret tikumību un dzimumneaizskaramību izdarīts pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis pastāvīgās intīmās attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība;
 16) noziedzīgs nodarījums, kas saistīts ar vardarbību vai vardarbības piedraudējumu, vai tīšs noziedzīgs nodarījums pret personas veselību vai tikumību un dzimumneaizskaramību izdarīts nepilngadīgā klātbūtnē;
 17) noziedzīgu nodarījumu izdarījusī persona sniegusi apzināti nepatiesu liecību.

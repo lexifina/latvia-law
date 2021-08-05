@@ -1,5 +1,5 @@
 319.pants. Valsts amatpersonas bezdarbība
-(1) Par valsts amatpersonas pienākumu nepildīšanu, tas ir, ja valsts amatpersona tīši vai aiz nolaidības neizdara darbības, kuras tai pēc likuma vai uzlikta uzdevuma jāizdara, lai novērstu kaitējumu valsts varai vai pārvaldības kārtībai vai ar likumu aizsargātām personas interesēm, un ja ar to valsts varai, pārvaldības kārtībai vai ar likumu aizsargātām personas interesēm radīts būtisks kaitējums, -
+(1) Par valsts amatpersonas pienākumu nepildīšanu, tas ir, ja valsts amatpersona tīši vai aiz nolaidības neizdara darbības, kuras tai pēc likuma vai uzlikta uzdevuma jāizdara, un ja ar to radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
 (2) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarītas mantkārīgā nolūkā, -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
