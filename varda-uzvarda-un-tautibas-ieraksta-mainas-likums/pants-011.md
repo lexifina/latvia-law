@@ -1,5 +1,0 @@
-11.pants. Civilstāvokļa aktu reģistru un citu reģistru papildināšana
-(1) Pamatojoties uz spēkā stājušos lēmumu par atļauju mainīt vārdu vai uzvārdu (vārdu un uzvārdu) vai tautības ierakstu, nodaļa Civilstāvokļa aktu likumā noteiktajā kārtībā septiņu dienu laikā papildina civilstāvokļa aktu reģistrus un civilstāvokļa aktu reģistru otros eksemplārus.
-(2) Ja papildināmie civilstāvokļa aktu reģistri atrodas ārvalsts teritorijā, nodaļa paziņojumu par vārda vai uzvārda (vārda un uzvārda) vai tautības ieraksta maiņu septiņu dienu laikā nosūta uz šo valsti ar Ārlietu ministrijas Konsulārā departamenta starpniecību.
-(3) Ja personas laulība likumā noteiktajā kārtībā noslēgta pie garīdznieka, nodaļa septiņu dienu laikā no dienas, kad vārds vai uzvārds (vārds un uzvārds) mainīts, nosūta paziņojumu par vārda vai uzvārda (vārda un uzvārda) maiņu šim garīdzniekam.
-(4) Nodaļa ne vēlāk kā septiņu dienu laikā no dienas, kad vārds vai uzvārds (vārds un uzvārds) vai tautības ieraksts mainīts, paziņo par šo maiņu Sodu reģistram un Pilsonības un migrācijas lietu pārvaldes Iedzīvotāju reģistram.
