@@ -3,7 +3,8 @@
 2) kāda saistība un kādā apmērā ir izpildāma, kā arī norādi uz to, ka ar notariālā izpildu akta izsniegšanas brīdi kreditoram ir tiesības saņemt no parādnieka līdz notariālā izpildu akta izpildei likumiskos procentus no piedzenamās un nesamaksātās parāda pamatsummas;
 3) kā labā tiek taisīts notariālais izpildu akts (vārdu, uzvārdu, personas kodu, dzīvesvietu vai juridiskās personas nosaukumu, juridisko adresi un reģistrācijas numuru);
 4) personu, pret kuru vērsta piedziņa (vārdu, uzvārdu, personas kodu, dzīvesvietu vai juridiskās personas nosaukumu, juridisko adresi un reģistrācijas numuru);
-5) izdevumus par notariālā izpildu akta taisīšanu, kas piedzenami no parādnieka.
+5) izdevumus par notariālā izpildu akta taisīšanu, kas piedzenami no parādnieka;
+6) atzīmi par divu mēnešu termiņu saistības labprātīgai izpildei un notariālā izpildu akta iesniegšanu zvērinātam tiesu izpildītājam pēc minētā termiņa iestāšanās, ja notariālajā izpildu aktā noteikts personas pienākums atbrīvot nomāto, īrēto vai patapināto īpašumu pirms līgumā noteiktā termiņa beigām.
 Notariālo izpildu aktu izsniedz kreditoram, un tā izsniegšana nav pārsūdzama tiesā.
 Ja izpilde izdarāma dažādās vietās vai akts taisīts par labu vairākiem kreditoriem vai vērsts pret vairākiem parādniekiem, zvērināts notārs pēc kreditora lūguma izsniedz vairākus notariālos izpildu aktus. Ja tiek izsniegti vairāki notariālie izpildu akti, katrā no tiem precīzi norāda izpildes vietu (tiesas apgabalu) vai to saistības daļu, kura pēc šā notariālā izpildu akta izpildāma, bet solidārās piedziņas gadījumā - arī parādnieku, pret kuru vēršama piedziņa pēc šā notariālā izpildu akta.
 Notariālā izpildu akta paraugu apstiprina Ministru kabinets.
