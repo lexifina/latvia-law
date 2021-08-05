@@ -11,5 +11,5 @@ a) informācijas pieprasījumu kredītinformācijas birojam, ko veicis kredītin
 b) informācijas pieprasījumu, ko kredītinformācijas birojs veicis Valsts ieņēmumu dienestam,
 c) gadījumu, kad informācija saņemta no Valsts ieņēmumu dienesta,
 d) gadījumu, kad saņemtā informācija nodota kredītinformācijas lietotājam;
-6) nodrošināt Fizisko personu datu aizsardzības likuma 15.pantā noteikto datu subjekta tiesību ievērošanu attiecībā uz personas datiem, ko Valsts ieņēmumu dienests ir sniedzis kredītinformācijas birojam;
-7) nodrošināt Fizisko personu datu aizsardzības likuma 9.panta pirmajā daļā noteiktās informācijas sniegšanu datu subjektam.
+6) (izslēgts ar 06.07.2021. likumu);
+7) (izslēgts ar 06.07.2021 likumu).

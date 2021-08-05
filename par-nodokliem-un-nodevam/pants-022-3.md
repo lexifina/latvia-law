@@ -8,5 +8,5 @@
 4) pieprasījuma noguldījuma kontu un maksājumu kontu kopējo kredīta apgrozījuma summu iepriekšējā gadā.
 (1³) Informācija par pieprasījuma noguldījuma kontu un maksājumu kontu atlikumiem un to apgrozījumu sniedzama euro. Ja darījumi pieprasījuma noguldījuma kontos un maksājumu kontos veikti ārvalsts valūtā, veikto darījumu summas pārrēķina no attiecīgās ārvalsts valūtas uz euro pēc Eiropas Centrālās bankas publicētā euro atsauces kursa, kurš ir spēkā kalendāra gada pēdējās dienas sākumā.
 (2) Ministru kabinets nosaka kārtību, kādā Valsts ieņēmumu dienestam sniedzama šā panta pirmajā daļā minētā informācija.
-(3) No kredītiestādes un maksājumu pakalpojumu sniedzēja, kas sniedz ar maksājumu kontu saistītu pakalpojumu, šajā pantā noteiktajā kārtībā saņemto informāciju par fizisko personu Valsts ieņēmumu dienests glabā piecus gadus.
+(3) No kredītiestādes un maksājumu pakalpojumu sniedzēja, šajā pantā noteiktajā kārtībā saņemto informāciju par fizisko personu Valsts ieņēmumu dienests glabā piecus gadus.
 (4) Valsts ieņēmumu dienests veic nepieciešamos administratīvos, tehniskos un organizatoriskos pasākumus un nodrošina šajā pantā noteiktajā kārtībā saņemtās informācijas aizsardzību, lai novērstu neatļautu piekļūšanu šai informācijai, kā arī novērstu neatļautu tās grozīšanu, izplatīšanu vai iznīcināšanu.
