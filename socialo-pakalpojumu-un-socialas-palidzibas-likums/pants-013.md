@@ -12,7 +12,7 @@
 9) atbalstu profesionāla sociālā darba ieviešanai un attīstībai pašvaldībās. Atbalsta veidu, apjomu un nosacījumus tā saņemšanai nosaka Ministru kabinets;
 10) (izslēgts ar 18.12.2008. likumu);
 11) vardarbību veikušu personu sociālās rehabilitācijas pakalpojumus. Sociālās rehabilitācijas pakalpojumu veidu, apjomu, saturu, pakalpojumu saņemšanas nosacījumus un piešķiršanas kārtību nosaka Ministru kabinets;
-12) psihosociālo rehabilitāciju personām ar onkoloģisku slimību un to tuviniekiem, kā arī paliatīvā aprūpē esošiem bērniem un viņu ģimenes locekļiem. Pakalpojuma veidu, apjomu, saturu, saņemšanas, piešķiršanas, finansēšanas, pārtraukšanas un izbeigšanas nosacījumus un kārtību nosaka Ministru kabinets;
+12) psihosociālo rehabilitāciju personām ar onkoloģisku slimību un to tuviniekiem, kā arī paliatīvā aprūpē esošiem bērniem (nepieciešamības gadījumā turpinot pakalpojuma sniegšanu līdz 24 gadu vecumam) un viņu ģimenes locekļiem. Pakalpojuma veidu, apjomu, saturu, saņemšanas, piešķiršanas, finansēšanas, pārtraukšanas un izbeigšanas nosacījumus un kārtību nosaka Ministru kabinets;
 13) atbalstu pašvaldībām, kuras nodrošina sociālos pakalpojumus dzīvesvietā šā likuma 9.¹ panta pirmās daļas 1., 2., 3. un 4.punktā minētajām personām, kuras nesaņem valsts vai pašvaldības finansētus ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju pakalpojumus. Ministru kabinets nosaka valsts atbalsta apmēru, kritērijus tā noteikšanai un valsts atbalsta piešķiršanas kārtību.
 (1¹) (Izslēgta ar 24.11.2020. likumu)
 (1²) Valsts nodrošina vardarbības rezultātā cietušo bērnu sociālo rehabilitāciju. Līdz personas vecuma noskaidrošanai sociālā rehabilitācija tiek nodrošināta arī tām vardarbības rezultātā cietušajām personām, par kuru nepilngadību pastāv šaubas.
