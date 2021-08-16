@@ -1,0 +1,1 @@
+69. Persona, kuru laikā līdz 2021. gada 15. augustam Ministru kabinets apstiprinājis augstskolas rektora amatā uz pirmo pilnvaru termiņu, ir tiesīga kandidēt uz otro rektora pilnvaru termiņu šajā augstskolā atbilstoši šā likuma 17. panta sestajā daļā noteiktajam.

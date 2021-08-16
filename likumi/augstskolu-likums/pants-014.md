@@ -1,9 +1,9 @@
-14.pants. Satversmes sapulces kompetence
-(1) Satversmes sapulce:
-1) pieņem un groza augstskolas satversmi;
-2) ievēlē un atceļ rektoru;
-3) noklausās rektora pārskatu;
-4) ievēlē senātu vai apstiprina tā ievēlēšanas atbilstību augstskolas satversmei;
-5) ievēlē akadēmisko šķīrējtiesu;
-6) apstiprina senāta un akadēmiskās šķīrējtiesas nolikumus.
-(2) Pārējos satversmes sapulces uzdevumus nosaka augstskolas satversme.
+14. pants. Satversmes sapulces kompetence
+Satversmes sapulce:
+1) apstiprina augstskolas satversmi un tās grozījumus;
+2) ievēlē amatā rektoru;
+3) var rosināt rektora atcelšanu no amata;
+4) noklausās rektora sagatavoto ikgadējo pārskatu par augstskolas darbību;
+5) ievēlē senāta locekļus no akadēmiskā un vispārējā personāla vidus;
+6) var atsaukt senāta locekļus;
+7) ievēlē akadēmisko šķīrējtiesu.

@@ -1,0 +1,1 @@
+81. Izglītības un zinātnes ministrija izstrādā un līdz 2021. gada 31. decembrim iesniedz izskatīšanai Ministru kabinetā informatīvo ziņojumu par augstākās izglītības finansēšanas modeļa pilnveidi, ievērojot augstskolu stratēģisko specializāciju.

@@ -1,4 +1,4 @@
-20.pants. Augstskolas struktūrvienības
-(1) Augstskolas struktūru nosaka saskaņā ar augstskolas satversmi.
-(2) Augstskolas struktūrvienības uzdevumus, funkcijas un tiesības nosaka struktūrvienības nolikums, kuru apstiprina augstskolas senāts. Augstskolas struktūrvienībām ir tiesības atvērt apakškontus. Apakškontu atvēršanu un šo kontu līdzekļu izlietošanu regulē citi likumi un normatīvie akti, kā arī augstskolas senāta apstiprināti noteikumi. Struktūrvienību apakškonti tiek veidoti, lai struktūrvienības varētu patstāvīgi izmantot finanšu līdzekļus un mērķfinansējumu. Struktūrvienību finanšu līdzekļus nedrīkst izmantot citiem mērķiem augstskolā bez struktūrvienības vadītāja piekrišanas.
-(3) Izglītības un zinātniskā darba veikšanai augstskolas var veidot struktūrvienības - katedras, profesoru grupas, fakultātes (nodaļas), zinātniskās un mācību laboratorijas, institūtus u.c. Organizatoriskā, saimnieciskā un apkalpojošā darba veikšanai augstskolai ir tiesības veidot arī citas struktūrvienības. Augstskolas struktūrvienībām nav juridiskās personas statusa.
+20. pants. Augstskolas struktūrvienības
+(1) Augstskolas struktūra tiek veidota saskaņā ar augstskolas satversmi.
+(2) Augstskolas struktūrvienības uzdevumus, funkcijas un tiesības nosaka struktūrvienības nolikums, kuru apstiprina augstskolas rektors.
+(3) Izglītības un zinātniskā darba veikšanai augstskola var veidot akadēmiskās struktūrvienības - katedras, profesoru grupas, fakultātes (nodaļas), zinātniskās un mācību laboratorijas, institūtus u. c. Organizatoriskā, saimnieciskā un apkalpojošā darba veikšanai augstskolai ir tiesības veidot arī citas struktūrvienības.

@@ -1,10 +1,11 @@
-13.pants. Satversmes sapulce
-(1) Satversmes sapulci ievēlē, aizklāti balsojot, no:
-1) akadēmiskā personāla;
-2) studējošajiem;
-3) vispārējā augstskolas personāla.
-(2) Pārstāvju ievēlēšanas kārtību, skaitu un pilnvaru laiku nosaka augstskolas satversme.
-(3) Akadēmiskā personāla pārstāvju īpatsvars satversmes sapulcē nedrīkst būt mazāks par 60 procentiem un studējošo īpatsvars - ne mazāks par 20 procentiem.
-(4) Saskaņā ar augstskolas tradīcijām satversmes sapulces nosaukuma vietā var lietot tādus nosaukumus kā konvents, akadēmiskā sapulce u.c.
-(5) Satversmes sapulce ievēlē priekšsēdētāju, vietnieku (vietniekus) un sekretāru.
-(6) Sasaukt satversmes sapulci var rektors vai senāts. Jaundibinātā augstskolā satversmes sapulci sasauc rektora vietas izpildītājs.
+13. pants. Satversmes sapulce
+(1) Augstskolas satversmes sapulce ir augstskolas akadēmiskā, vispārējā personāla un studējošo pārstāvības institūcija.
+(2) Satversmes sapulci atbilstoši augstskolas satversmē noteiktajam personāla pārstāvības principam kopskaitā līdz 200 personām uz trim gadiem ievēlē vispārīgās vēlēšanās. Satversmes sapulci ievēlē, aizklāti balsojot, ja vien satversme neparedz citu balsošanas kārtību.
+(3) Augstskolas personāla pārstāvības principus, pēc kuriem augstskolā tiek noteikts satversmes sapulces locekļu skaits, nosaka augstskolas satversmē.
+(4) Satversmes sapulces vēlēšanu organizēšanai no augstskolas akadēmiskā, vispārējā personāla un studējošo pārstāvjiem tiek izveidota satversmes sapulces vēlēšanu komisija. Satversmes sapulces vēlēšanu komisijas izveides nosacījumus un kārtību, skaitlisko sastāvu, pienākumus, kā arī vēlēšanu procesa norises un uzraudzības kārtību regulē augstskolas satversmes sapulces vēlēšanu komisijas nolikums. Šo nolikumu izstrādā augstskolas senāts, bet apstiprina augstskolas senāts un padome.
+(5) Akadēmiskā personāla pārstāvju īpatsvars satversmes sapulcē nedrīkst būt mazāks par 60 procentiem un studējošo īpatsvars - mazāks par 20 procentiem, lai pēc iespējas būtu nodrošināta visos studiju līmeņos studējošo pārstāvība. Studējošo pārstāvjus ievēlē studējošo pašpārvalde tās noteiktajā kārtībā.
+(6) Saskaņā ar augstskolas tradīcijām satversmes sapulces nosaukuma vietā var lietot tādus nosaukumus kā konvents, akadēmiskā sapulce u. c.
+(7) Satversmes sapulce ievēlē savu priekšsēdētāju, viņa vietnieku (vietniekus) un sekretāru.
+(8) Satversmes sapulci sasauc tās priekšsēdētājs. Rosināt satversmes sapulces sasaukšanu var arī padome, viena trešdaļa satversmes sapulces locekļu, senāts vai rektors. Pēc šāda rosinājuma saņemšanas satversmes sapulces priekšsēdētājs 30 dienu laikā sasauc satversmes sapulci un to izziņo ne vēlāk kā nedēļu pirms sēdes. Jaundibinātā augstskolā jaunievēlēto satversmes sapulci sasauc rektora pienākumu izpildītājs.
+(9) Ja satversmes sapulces loceklis savā darbībā ir pārkāpis likumu vai ir būtiski apdraudēta viņa reputācija un tas var kaitēt augstskolas darbībai, tad satversmes sapulces priekšsēdētājs var rosināt šā locekļa atsaukšanu augstskolas satversmē noteiktajā kārtībā.
+(10) Ja satversmes sapulce nav lemtspējīga, tās funkcijas satversmē noteiktajā kārtībā uz laiku līdz jaunas satversmes sapulces ievēlēšanai pilda senāts. Satversmes sapulce nav lemtspējīga, ja tā divu mēnešu laikā no sēdes sasaukšanas dienas nav pieņēmusi lēmumu par šā likuma 14. panta 1., 2., 5. vai 7. punktā noteiktajiem jautājumiem. Šādā gadījumā nekavējoties tiek rīkotas jaunas satversmes sapulces vēlēšanas.

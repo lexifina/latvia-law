@@ -1,0 +1,1 @@
+76. Ministru kabinets līdz 2021. gada 31. augustam izstrādā un iesniedz Saeimai nepieciešamos grozījumus šajā likumā, Izglītības likumā un Profesionālās izglītības likumā, kuri nosaka koledžu institucionālās darbības regulējumu profesionālās izglītības sistēmā.

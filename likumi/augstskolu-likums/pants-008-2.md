@@ -6,6 +6,7 @@
 4) datumu, kad pieņemts lēmums par augstskolas dibināšanu vai filiāles atvēršanu;
 5) augstskolas juridisko statusu;
 6) augstskolas satversmes vai filiāles nolikuma apstiprināšanas datumu;
+6¹) augstskolas tipu;
 7) augstskolas vai filiāles īstenoto studiju programmu nosaukumus un atbildīgo par attiecīgās programmas īstenošanu (studiju programmas direktoru);
 8) ziņas par augstskolā vai filiālē akreditētajiem studiju virzieniem un tiem atbilstošajām akreditētajām studiju programmām;
 9) ziņas par augstskolas vai filiāles akreditāciju;

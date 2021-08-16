@@ -1,0 +1,1 @@
+80. Izglītības un zinātnes ministrija izstrādā informatīvo ziņojumu par valsts augstskolu institucionālās attīstības un konsolidācijas plānu un līdz 2022. gada 31. martam iesniedz to izskatīšanai Ministru kabinetā.

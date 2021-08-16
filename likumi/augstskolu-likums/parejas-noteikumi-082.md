@@ -1,0 +1,1 @@
+82. Izglītības un zinātnes ministrija līdz 2021. gada 31. augustam sagatavo un iesniedz izskatīšanai Ministru kabinetā priekšlikumu par finansējumu augstskolu iekšējās pārvaldības modeļa ieviešanai un attīstības stratēģiju izstrādei Eiropas Savienības 2014.-2020. gada plānošanas perioda Sociālā fonda finansējuma ietvaros.

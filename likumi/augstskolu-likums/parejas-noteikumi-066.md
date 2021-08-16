@@ -1,0 +1,1 @@
+66. Privātpersonu dibinātās augstskolas nodrošina savu satversmju atbilstību šā likuma noteikumiem ne vēlāk kā līdz 2022. gada 31. maijam un iesniedz tās informācijai Izglītības un zinātnes ministrijā.

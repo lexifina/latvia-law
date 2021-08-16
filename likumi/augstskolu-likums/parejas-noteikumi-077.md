@@ -1,0 +1,1 @@
+77. Ministru kabinets līdz 2021. gada 31. decembrim izstrādā un iesniedz Saeimai zinātnes universitāšu likuma projektu, kas citstarp paredz papildu finansēšanas nosacījumus, lai sekmētu zinātnes universitāšu iekļaušanos pasaules reitingu 500 vadošajās pozīcijās.

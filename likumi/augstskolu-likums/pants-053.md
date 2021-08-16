@@ -4,5 +4,5 @@
 (3) Studējošo pašpārvalde:
 1) aizstāv un pārstāv studējošo intereses akadēmiskās, materiālās un kultūras dzīves jautājumos augstskolā un citās valsts institūcijās;
 2) reprezentē augstskolas studējošos Latvijā un ārvalstīs;
-3) nosaka kārtību, kādā studējošie tiek ievēlēti augstskolas koleģiālajās institūcijās.
+3) nosaka kritērijus un kārtību, kādā studējošie tiek ievēlēti augstskolas senātā, fakultātes domē, satversmes sapulcē, akadēmiskajā šķīrējtiesā un citās augstskolas institūcijās, ja augstskolas satversmē tādas paredzētas un ja tajās ir paredzēta studējošo pārstāvība.
 (4) Augstskolas un koledžas vadības institūciju pienākums ir atbalstīt un sekmēt studējošo pašpārvaldes darbību. Studējošo pašpārvaldi no augstskolas vai koledžas budžeta finansē apmērā, kas nav mazāks par vienu divsimto daļu no augstskolas vai koledžas gada budžeta. Šos līdzekļus studējošo pašpārvalde izmanto šā panta trešajā daļā minēto funkciju veikšanai.

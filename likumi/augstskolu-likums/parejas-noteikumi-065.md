@@ -1,0 +1,1 @@
+65. Tās valsts augstskolu satversmes, kas bija spēkā 2021. gada 15. augustā, paliek spēkā līdz 2022. gada 31. maijam, bet Latvijas Nacionālās aizsardzības akadēmijas satversme - līdz jaunās satversmes apstiprināšanai Ministru kabinetā, un tās ir spēkā tiktāl, ciktāl nav pretrunā ar šā likuma noteikumiem.

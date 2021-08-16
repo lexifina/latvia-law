@@ -1,3 +1,4 @@
-21.pants. Augstskolas dibinātās iestādes, komercsabiedrības, biedrības un nodibinājumi
+21.pants. Augstskolas dibinātās iestādes, komercsabiedrības, biedrības un nodibinājumi, un apvienības
 (1) Augstskolas var dibināt komercsabiedrības un būt par to dalībnieku, kā arī dibināt biedrības un nodibinājumus un būt par to biedru vai dibinātāju.
-(2) Valsts dibinātās augstskolas ar senāta lēmumu satversmē noteikto mērķu īstenošanai var dibināt arī iestādes, to skaitā - publiskās aģentūras.
+(2) Valsts dibinātās augstskolas ar padomes lēmumu satversmē noteikto mērķu īstenošanai var dibināt arī iestādes, to skaitā - publiskās aģentūras.
+(3) Augstskola var uz laiku brīvprātīgi kopā ar citām, tostarp starptautiskajām un ārvalstu, institūcijām, kas var būt citas augstskolas, organizācijas, uzņēmumi vai citas personas, izveidot apvienības - konsorcijus - un būt par to dalībnieku, lai īstenotu kopējus stratēģiskos mērķus un kopēju, savstarpēji koordinētu, visiem apvienības dalībniekiem nozīmīgu rīcības plānu vai apvienotu resursus kopēja mērķa sasniegšanai. Iesaistoties konsorcijā, augstskola saglabā tās juridisko statusu un tipu. Konsorcija pārvaldības modelis tiek noteikts konsorcija dibināšanas līgumā.

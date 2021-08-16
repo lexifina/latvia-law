@@ -1,3 +1,11 @@
 11.pants. Augstskolas un koledžas reorganizācija vai likvidācija
 (1) Lēmumu par augstskolas vai koledžas reorganizāciju vai likvidāciju pieņem tās dibinātājs.
 (2) Lēmumu par valsts augstskolas un valsts koledžas reorganizāciju vai likvidāciju pieņem Ministru kabinets pēc izglītības un zinātnes ministra vai attiecīgās nozares ministra ierosinājuma. Ministru kabineta rīkojuma projektam par augstskolas vai koledžas reorganizāciju vai likvidāciju pievienojams Augstākās izglītības padomes atzinums. Ja Ministru kabineta rīkojuma projektu iesniedz attiecīgās nozares ministrs, šis projekts ir jāsaskaņo arī ar izglītības un zinātnes ministru.
+(3) Valsts dibinātu augstskolu reorganizē:
+1) pievienojot to citai augstskolai, - pievienojamā augstskola beidz pastāvēt, integrējoties esošajā citas augstskolas struktūrā;
+2) nododot to citai augstskolai, - reorganizējamā augstskola turpina pastāvēt citas augstskolas iestādes (atsevišķas struktūrvienības) statusā;
+3) nododot to citai augstskolai, - reorganizējamā augstskola turpina pastāvēt citas augstskolas dibinātas kapitālsabiedrības vai nodibinājuma statusā;
+4) apvienojot to ar vienu vai vairākām citām augstskolām, - uz reorganizējamo augstskolu bāzes tiek izveidota jauna augstskola.
+(4) Ja Ministru kabinets pieņem lēmumu par valsts augstskolu reorganizāciju, tās apvienojot, vai par valsts augstskolas pievienošanu citai valsts augstskolai, šā mērķa sasniegšanai var veidot augstskolu apvienību, kura darbojas noteiktu laiku (no viena gada līdz pieciem gadiem) un noteiktajā termiņā nodrošina reorganizāciju apvienošanas vai pievienošanas veidā. Dibinātājs nosaka reorganizācijas rezultātā izveidojamās augstskolas tipu.
+(5) Valsts augstskolu apvienības izveides gadījumā apvienībā iekļauto augstskolu padomes darbību izbeidz. Augstskolu apvienībai ir viena padome, kuru izveido atbilstoši Ministru kabineta rīkojumam par reorganizācijas noteikumiem un kurai ir šā likuma 14.² pantā valsts augstskolas padomei noteiktā kompetence.
+(6) Augstskolu apvienības padome tiek izveidota uz apvienības darbības laiku.

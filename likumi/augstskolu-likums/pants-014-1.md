@@ -1,0 +1,34 @@
+14.¹ pants. Valsts augstskolas padome
+(1) Valsts augstskolas padome ir koleģiāla valsts augstskolas augstākā lēmējinstitūcija, kas ir atbildīga par valsts augstskolas ilgtspējīgu attīstību, stratēģisko un finanšu uzraudzību, kā arī nodrošina valsts augstskolas darbību atbilstoši tās attīstības stratēģijā noteiktajiem mērķiem.
+(2) Valsts augstskolas padome aizsargā valsts augstskolas autonomiju, kā arī respektē akadēmiskā personāla un studējošo akadēmisko brīvību un veicina tās īstenošanu.
+(3) Valsts augstskolas padome darbojas saskaņā ar valsts augstskolas satversmē noteikto kārtību un padomes apstiprināto nolikumu.
+(4) Zinātnes universitātes padomi veido 11 locekļi, no kuriem:
+1) piecus - augstskolas satversmē noteiktajā kārtībā izraudzītus - izvirza senāts;
+2) vienu - ar augstskolas darbību nesaistītu izcilu akadēmiskās vides pārstāvi - izvirza Valsts prezidents;
+3) piecus sabiedrības pārstāvjus saskaņā ar Ministru kabineta noteikto kārtību, iesaistot atlases procesā sabiedrību (tai skaitā augstskolu absolventu organizācijas, profilam atbilstošās nozares asociācijas un darba devējus, akadēmisko, pētniecības un radošo organizāciju pārstāvjus, personas ar starptautiski nozīmīgiem sasniegumiem zinātnē, mākslās vai uzņēmējdarbībā, nozaru ministriju un pašvaldību pārstāvjus), izraugās ministrija, kuras pārraudzībā ir augstskola, un izvirza Ministru kabinets.
+(5) Zinātnes universitātes padomes veidošanas procesā padomes locekļu kandidātu virzītāji, savstarpēji konsultējoties, nodrošina to, ka padomes locekļu vairākumam ir zinātnes doktora grāds.
+(6) Mākslu un kultūras universitātes padomi veido pieci locekļi, no kuriem:
+1) divus - augstskolas satversmē noteiktajā kārtībā izraudzītus - izvirza senāts;
+2) vienu - ar augstskolas darbību nesaistītu izcilu kultūras vai mākslas nozares pārstāvi - izvirza Valsts prezidents;
+3) divus sabiedrības pārstāvjus saskaņā ar Ministru kabineta noteikto kārtību, iesaistot atlases procesā sabiedrību (tai skaitā augstskolu absolventu organizācijas, profilam atbilstošās nozares asociācijas un darba devējus, akadēmisko, pētniecības un radošo organizāciju pārstāvjus, personas ar starptautiski nozīmīgiem sasniegumiem zinātnē, mākslās vai uzņēmējdarbībā, nozaru ministriju un pašvaldību pārstāvjus), izraugās ministrija, kuras pārraudzībā ir augstskola, un izvirza Ministru kabinets.
+(7) Lietišķo zinātņu universitātes padomi veido septiņi locekļi, no kuriem:
+1) trīs - augstskolas satversmē noteiktajā kārtībā izraudzītus - izvirza senāts;
+2) vienu - ar augstskolas darbību nesaistītu izcilu nozares pārstāvi - izvirza Valsts prezidents;
+3) trīs sabiedrības pārstāvjus saskaņā ar Ministru kabineta noteikto kārtību, iesaistot atlases procesā sabiedrību (tai skaitā augstskolu absolventu organizācijas, profilam atbilstošās nozares asociācijas un darba devējus, akadēmisko, pētniecības un radošo organizāciju pārstāvjus, personas ar starptautiski nozīmīgiem sasniegumiem zinātnē, mākslās vai uzņēmējdarbībā, nozaru ministriju un pašvaldību pārstāvjus), izraugās ministrija, kuras pārraudzībā ir augstskola, un izvirza Ministru kabinets.
+(8) Lietišķo zinātņu augstskolas padomi veido pieci locekļi, no kuriem:
+1) divus - augstskolas satversmē noteiktajā kārtībā izraudzītus - izvirza senāts;
+2) vienu - ar augstskolas darbību nesaistītu izcilu nozares pārstāvi - izvirza Valsts prezidents;
+3) divus sabiedrības pārstāvjus saskaņā ar Ministru kabineta noteikto kārtību, iesaistot atlases procesā sabiedrību (tai skaitā augstskolas absolventu organizācijas, profilam atbilstošās nozares asociācijas un darba devējus, akadēmisko, pētniecības un radošo organizāciju pārstāvjus, personas ar starptautiski nozīmīgiem sasniegumiem zinātnē, mākslās vai uzņēmējdarbībā, nozaru ministriju un pašvaldību pārstāvjus), izraugās ministrija, kuras pārraudzībā ir augstskola, un izvirza Ministru kabinets.
+(9) Ministru kabinets attiecībā uz tā virzītajiem valsts augstskolas padomes locekļu kandidātiem nosaka:
+1) padomes locekļu kandidātu atlases komisijas izveidošanas kārtību un sastāvu;
+2) padomes locekļiem izvirzāmās prasības un viņu novērtēšanas kārtību, ievērojot, ka virza kandidātus, kuriem ir nevainojama reputācija, un atlases procesā tiek ievēlētas personas, kurām ir profesionālās kompetences tādās jomās kā, piemēram, finanses, risku vadība, stratēģiskā attīstība, kultūra, māksla vai starptautiskā sadarbība, un kuras kopumā nodrošina katras augstskolas stratēģiskajai vadībai nepieciešamās kompetences;
+3) kārtību, kādā dokumentējama un publiskojama informācija par nominācijas procesa norisi un rezultātiem;
+4) padomes locekļu izvirzīšanas un atsaukšanas kārtību.
+(10) Valsts augstskolas padomes loceklis nav un pēdējo 12 mēnešu laikā pirms tam, kad sāk pildīt valsts augstskolas padomes locekļa amata pienākumus, nav bijis Saeimas deputāts, Ministru kabineta loceklis vai parlamentārais sekretārs.
+(11) Pirmreizēji apstiprinātie Ministru kabineta un Valsts prezidenta izvirzītie valsts augstskolas padomes locekļi pēdējos 12 mēnešus pirms stāšanās šajā amatā nav piederējuši pie attiecīgās augstskolas personāla.
+(12) Valsts augstskolas padomes loceklis nevar vienlaikus ieņemt senāta locekļa, rektora, prorektora, dekāna vai prodekāna amatu.
+(13) Valsts augstskolas padomes locekļus ieceļ uz četru gadu termiņu un ne vairāk kā divas reizes.
+(14) Ja valsts augstskolas padomes loceklis ir zaudējis izvirzītāja uzticību, pārkāpis likumu, rīkojies necienīgi valsts augstskolas padomes locekļa statusam un nav pienācīgi pildījis savus pienākumus, tad viņa izvirzītājs - senāts, Valsts prezidents vai Ministru kabinets - ir tiesīgs viņu atsaukt no amata.
+(15) Valsts augstskolas padomes locekļi no sava vidus ievēlē padomes priekšsēdētāju. Par valsts augstskolas padomes priekšsēdētāju pirmreizēji ievēlē Valsts prezidenta vai Ministru kabineta virzītu padomes locekli. Padomes priekšsēdētāju ievēlē uz laiku līdz četriem gadiem un ne vairāk kā divas reizes.
+(16) Padomes locekļu amata atlīdzība tiek noteikta saskaņā ar augstskolas akadēmiskā personāla vidējo atalgojuma līmeni - padomes locekļa mēneša atalgojumu pielīdzina iepriekšējā gada akadēmiskā personāla vidējā līmeņa atalgojumam, un padomes priekšsēdētājam tiek noteikts 1,5 reizes lielāks atalgojums nekā padomes locekļiem.
+(17) Šā panta noteikumi neattiecas uz Latvijas Nacionālo aizsardzības akadēmiju. Latvijas Nacionālās aizsardzības akadēmijas padome ir šīs augstskolas koleģiāla augstākā lēmējinstitūcija, kas ir atbildīga par augstskolas ilgtspējīgu attīstību un stratēģisko uzraudzību, lai nodrošinātu Nacionālo bruņoto spēku kaujas gatavību un augstskolas darbības atbilstību Valsts aizsardzības koncepcijā un Latvijas Nacionālās aizsardzības akadēmijas attīstības stratēģijā noteiktajiem mērķiem. Latvijas Nacionālās aizsardzības akadēmijas padomes izveides principus un darbību nosaka Ministru kabinets, bet sastāvu apstiprina aizsardzības ministrs.

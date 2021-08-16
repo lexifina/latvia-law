@@ -1,0 +1,1 @@
+71. Tādas augstskolas dibinātājs, kura reģistrēta Izglītības iestāžu reģistrā līdz 2021. gada 15. augustam, līdz 2021. gada 31. augustam nosaka attiecīgās augstskolas tipu, ņemot vērā šā likuma 3.¹, 3.², 3.³ vai 3.⁴ panta noteikumus.

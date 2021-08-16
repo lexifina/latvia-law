@@ -1,0 +1,11 @@
+3.³ pants. Lietišķo zinātņu universitāte un tās darbības mērķi
+(1) Lietišķo zinātņu universitāte ir augstākās izglītības, pētniecības un kultūras institūcija, kura atbilstoši augstākās izglītības standartiem īsteno bakalaura un maģistra līmeņa augstākās izglītības programmas. Zinātnes doktora studiju programmas tiek veidotas, ja augstskola konkrētajā studiju virzienā uzrāda starptautiska līmeņa prasībām atbilstošus pētniecības rezultātus vai veido kopīgas doktora studiju programmas ar citu partnerinstitūciju.
+(2) Lietišķo zinātņu universitātes darbības mērķi atbilstoši tās dibinātāja noteiktai stratēģiskajai specializācijai ir šādi:
+1) attīstīt studiju, pētniecības un mūžizglītības programmas, kas atbilstoši darba tirgus prasībām nodrošina tautsaimniecības, valsts un sabiedrības attīstības nākotnes vajadzībām nepieciešamos cilvēkresursus, kā arī veicināt izglītības procesā iesaistīto personu izaugsmi par uzņēmīgiem, radošiem, atbildīgiem un konkurētspējīgiem sabiedrības locekļiem;
+2) veikt lietišķos pētījumus, kā arī ar inovācijām un mūžizglītības procesiem nodrošināt zināšanu un tehnoloģiju pārnesi attiecīgās tautsaimniecības nozarēs, veicinot to iespēju dinamiski piemēroties ārējās vides pārmaiņām.
+(3) Lietišķo zinātņu universitāte savu mērķu sasniegšanai:
+1) īsteno studiju programmas vismaz divos studiju virzienos, kā arī veic starptautiski atzītu zinātnisko darbību, kas aprobēta ar starptautiski atzītām (citētām) zinātniskajām publikācijām, zinātniski recenzētām monogrāfijām, intelektuālā īpašuma objektiem (piemēram, patents, augu šķirne), vismaz divās zinātnes nozarēs;
+2) nodrošina, ka vismaz 60 procentiem vēlētā akadēmiskā personāla ir zinātnes doktora grāds;
+3) ja universitātē atvērta doktora studiju programma, - nodrošina, ka katru gadu doktora studiju programmās tiek aizstāvēti promocijas darbi un piešķirti zinātnes doktora grādi;
+4) aktīvi sadarbojas ar industrijām, veicina dažādu veidu sadarbības platformu attīstību, kā arī iegulda savus resursus ar inovāciju vai tehnoloģiju pārnesi saistītos uzņēmumos;
+5) ir reģistrēta zinātnisko institūciju reģistrā un zinātnisko institūciju darbības starptautiskajā novērtējumā ieguvusi vismaz triju ballu novērtējumu stratēģiskās specializācijas jomās.

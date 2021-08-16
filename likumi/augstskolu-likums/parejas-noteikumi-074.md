@@ -1,0 +1,1 @@
+74. Ministru kabinets līdz 2022. gada 31. decembrim izstrādā un iesniedz Saeimai likumprojektu par grozījumiem šajā likumā, nosakot, ka no 2024. gada tiek ieviesta cikliska augstskolu akreditācija, kas pakāpeniski aizstāj līdzšinējo augstskolas vai koledžas akreditāciju un studiju virziena akreditāciju.

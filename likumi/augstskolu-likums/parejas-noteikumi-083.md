@@ -1,0 +1,1 @@
+83. Ministru kabinets līdz 2021. gada 31. oktobrim izdara grozījumus Ministru kabineta 2018. gada 11. decembra noteikumos Nr. 794 "Augstskolu un koledžu akreditācijas noteikumi" atbilstoši grozījumiem šā likuma 9. panta pirmajā daļā.

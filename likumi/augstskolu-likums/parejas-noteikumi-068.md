@@ -1,0 +1,1 @@
+68. Laikā no 2021. gada 16. augusta līdz 2022. gada 31. maijam valsts augstskolās nerīko rektora vēlēšanas. Ja šajā laikā valsts augstskolas rektora pilnvaru termiņš beidzas, viņš saglabā rektora amatu uz laiku līdz jauna rektora ievēlēšanai un pilda rektora pienākumus atbilstoši šā likuma 17.¹ panta noteikumiem, kas stājas spēkā 2021. gada 16. augustā.
