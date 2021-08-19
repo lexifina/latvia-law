@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada 19.augusta 2.ārkārtas sesija",
+ "sede": 1,
+ "datums": "2021-08-19",
+ "ieraksts": {
+  "dkp_id": "cfb5851e-021e-48bd-bd68-c5b57b8f4bbd",
+  "lastmodtime": "",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "",
+  "VOTEISCANDIDATE": "",
+  "VOTEWITHSIGNS": "",
+  "NAME": "Aldis#Jānis#Valērijs#Arvils#Uldis#Ainars#Krista#Dagmāra#Iveta#Raimonds#Aigars#Aldis#Mārtiņš#Uldis#Jānis#Jānis#Boriss#Anda#Gundars#Sergejs#Jānis#Vjačeslavs#Jānis#Ilmārs#Raivis#Krišjānis#Aivars#Aldis#Inga#Kaspars#Jānis#Ilze#Janīna#Ritvars#Andrejs#Juris#Nikolajs#Artuss#Ojārs Ēriks#Aleksandrs#Andrejs#Ivans#Rihards#Rihards#Ieva#Armands#Līva#Jānis#Edgars#Māris#Janīna#Janīna#Ainars#Atis#Inese#Viesturs#Regīna#Eva#Linda#Māris#Māris#Ināra#Romāns#Ralfs#Vladimirs#Vitālijs#Evija#Ramona#Igors#Juris#Ēriks#Ivars#Juris#Ivans#Inguna#Sandis#Artūrs#Dace#Andris#Karina#Jūlija#Didzis#Edvīns#Mārtiņš#Ilga#Ļubova#Edgars#Edmunds#Vita Anda#Jānis#Jānis#Viktors#Inese#Jānis#Atis#Evita#Gatis#Ivars#Reinis#Normunds",
+  "SURNAME": "Adamovičs#Ādamsons#Agešins#Ašeradens#Augulis#Bašķis#Baumane#Beitnere-Le Galla#Benhena-Bēkena#Bergmanis#Bikše#Blumbergs#Bondars#Budriķis#Butāns#Cielēns#Cilevičs#Čakša#Daudze#Dolgopolovs#Dombrava#Dombrovskis#Dūklavs#Dūrītis#Dzintars#Feldmans#Geidāns#Gobzems#Goldberga#Ģirģens#Iesalnieks#Indriksone#Jalinska#Jansons#Judins#Jurašs#Kabanovs#Kaimiņš#Kalniņš#Kiršteins#Klementjevs#Klementjevs#Kols#Kozlovskis#Krapāne#Krauze#Kreituse#Krišāns#Kucins#Kučinskis#Kursīte#Kursīte-Pakule#Latkovskis#Lejiņš#Lībiņa-Egnere#Liepkalns#Ločmele#Mārtuža#Medne#Mičerevskis#Možvillo#Mūrniece#Naudiņš#Nemiro#Nikonovs#Orlovs#Papule#Petraviča#Pimenovs#Pūce#Pucens#Puga#Rancāns#Ribakovs#Rībena#Riekstiņš#Rubiks#Rukšāne-Ščipčinska#Skride#Sprūde#Stepaņenko#Šmits#Šnore#Šteins#Šuplinska#Švecova#Tavars#Teirumnieks#Tērauda#Tutins#Urbanovičs#Valainis#Voika#Vucāns#Zakatistovs#Zālīte-Grosa#Zamurs#Zariņš#Znotiņš#Žunna",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "JV#SASKAŅA#SASKAŅA#JV#ZZS#JK#AP!#JK# #ZZS#AP!# #AP!#JK#JK#JK#SASKAŅA# #ZZS#SASKAŅA#NA# #ZZS#AP!#NA#JK# # #SASKAŅA#KPV LV#NA#NA#ZZS#NA#JV#JK#SASKAŅA# #JV#NA#SASKAŅA#SASKAŅA#NA#JV#KPV LV#ZZS#JK#SASKAŅA#SASKAŅA#ZZS# #NA#JV#JV#JV#AP!#SASKAŅA#JK#JK# #KPV LV#NA#NA#KPV LV#SASKAŅA#SASKAŅA# #KPV LV#SASKAŅA#AP!#KPV LV# #JK#SASKAŅA# #JK#SASKAŅA#AP!#AP!# # # #NA#AP!# # #ZZS#NA#AP!#SASKAŅA#SASKAŅA#ZZS#AP!#ZZS# #JK#AP!#SASKAŅA#JK#JK",
+  "RESULT": "Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.08.2021 12:52:15",
+  "VOTEMOTIVE": "Grozījums Publiskas personas mantas atsavināšanas likumā (1139/Lp13), 1.lasījums",
+  "VOTING_ID": "",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada 19.augusta 2.ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/92b13241-e63c-4935-ad1c-9b85584bd9a4/download/13.saeimas-2021.gada-19.augusta-2.rkrtas-sesija-1-vote.xml",
+  "sha256": "7073030ab710482b1fc7d2dfcaf98c65061efe5de808baabc805d49d43c3bdcd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
