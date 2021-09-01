@@ -7,7 +7,7 @@ Ministru kabinets:
 3²) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pašvaldību izglītības iestādēm bērnu no piecu gadu vecuma izglītošanā nodarbināto pirmsskolas izglītības pedagogu darba samaksai;
 3³) nosaka kārtību, kādā valsts finansē darba samaksu pedagogiem, kuri privātajās izglītības iestādēs īsteno bērniem no piecu gadu vecuma līdz pamatizglītības ieguves uzsākšanai paredzētās pirmsskolas izglītības programmas.
 4) (izslēgts ar 16.06.2009. likumu);
-5) nosaka kritērijus un kārtību, kādā tiek piešķirts un anulēts ģimnāzijas un valsts ģimnāzijas statuss;
+5) nosaka kritērijus un kārtību, kādā tiek piešķirts un anulēts valsts ģimnāzijas statuss;
 6) nosaka kritērijus, pēc kuriem pedagoģiski medicīniskā komisija sniedz atzinumu par izglītojamam ar speciālām vajadzībām atbilstošāko izglītības programmu;
 7) nosaka kritērijus un kārtību, kādā speciālajām izglītības iestādēm tiek piešķirts speciālās izglītības attīstības centra statuss;
 8) nosaka valsts un pašvaldību pedagoģiski medicīnisko komisiju kompetenci un profesionālās prasības komisijas locekļiem;
