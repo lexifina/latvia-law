@@ -10,9 +10,9 @@
 3) (izslēgts ar 13.12.2012. likumu);
 4) (izslēgts ar 13.12.2012. likumu);
 5) tiesībsargam - 4,05;
-6) Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam - 2,78;
-7) Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētāja vietniekam - 2,64;
-8) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklim - 2,31;
+6) Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētājam - 4,48;
+7) Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētāja vietniekam - 4,34;
+8) Nacionālās elektronisko plašsaziņas līdzekļu padomes loceklim - 4,2;
 9) Centrālās vēlēšanu komisijas priekšsēdētājam - 3,32;
 10) Centrālās vēlēšanu komisijas priekšsēdētāja vietniekam - 2,82;
 11) Centrālās vēlēšanu komisijas sekretāram - 2,82;
