@@ -1,0 +1,2 @@
+14.⁶ pants. Informācijas paziņošana par precēm, par kurām ir aizdomas, ka ar tām tiek pārkāptas intelektuālā īpašuma tiesības
+Valsts ieņēmumu dienests informāciju preču deklarētājam vai valdītājam regulas Nr. 608/2013 17. panta 3. punktā, 18. panta 3. punktā un 26. panta 3. punktā minētajos gadījumos saistībā ar precēm, kuras piegādā pasta sūtījumos, kā arī lēmumus, kuri attiecas uz šādām precēm, paziņo uz adresi, kura norādīta kā sūtījuma piegādes adrese.
