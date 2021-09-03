@@ -6,6 +6,7 @@
 (2¹) Uz valsts vārda Vides aizsardzības un reģionālās attīstības ministrijas personā zemesgrāmatā ierakstāmās un zemesgrāmatā ierakstītās valsts meža zemes apsaimniekošana un aizsardzība ir Dabas aizsardzības pārvaldes kompetencē.
 (2²) Koku ciršanas tiesības un īpašuma tiesības uz nocirstajiem kokiem militārajos objektos Aizsardzības ministrija var nodot akciju sabiedrībai "Latvijas valsts meži".
 (2³) Koku ciršanas tiesības un īpašuma tiesības uz nocirstajiem kokiem dzelzceļa infrastruktūras objektu un ar dzelzceļa būvniecību saistītas infrastruktūras būvniecības procesā Satiksmes ministrija var nodot akciju sabiedrībai "Latvijas valsts meži".
+(2⁴) Koku ciršanas tiesības un īpašuma tiesības uz nocirstajiem kokiem valsts robežas joslā, patrulēšanas joslā un robežzīmju uzraudzības joslā Iekšlietu ministrija var nodot akciju sabiedrībai "Latvijas valsts meži".
 (3) Akciju sabiedrības "Latvijas valsts meži" kapitāla daļu turētāji nosaka Meža politikā formulēto mērķu sasniegšanu raksturojošos rādītājus un uzrauga to sasniegšanu akciju sabiedrības "Latvijas valsts meži" darbībā.
 (4) Ne retāk kā reizi piecos gados vai pēc Ministru kabineta pieprasījuma konkrētas situācijas izvērtēšanai Zemkopības ministrija sagatavo Ministru kabinetam ziņojumu par Meža politikā formulēto mērķu sasniegšanu. Ziņojumā ietverama informācija par:
 1) meža kā kapitāla novērtējumu un tā izmaiņām;
