@@ -1,0 +1,1 @@
+10. Līdz tiek pabeigta valsts robežas iekārtošana, Ministru kabinets katru gadu līdz 1. decembrim sniedz Saeimai detalizētu ziņojumu par valsts robežas iekārtošanas gaitu, izlietotajiem finanšu līdzekļiem un atsavinātajiem koksnes resursiem.

@@ -8,14 +8,14 @@
 1) pastāvīgās caurlaides;
 2) terminētās caurlaides.
 (3) Pastāvīgo caurlaidi izsniedz personai, kurai pierobežas joslā pieder nekustamais īpašums.
-(4) Terminēto caurlaidi izsniedz personai, kura vēlas uzturēties pierobežas joslā. Terminēto caurlaidi izsniedz uz laiku, kuru nepieciešams uzturēties pierobežas joslā, bet ne ilgāk kā uz vienu gadu. Komersants ir tiesīgs iesniegt iesniegumu par terminētās caurlaides izsniegšanu darbiniekiem un personām, ar kurām noslēgts uzņēmuma līgums, ja to uzturēšanās pierobežas joslā ir saistīta ar darba pienākumu veikšanu.
+(4) Terminēto caurlaidi izsniedz personai, kura vēlas uzturēties pierobežas joslā vai patrulēšanas joslā un robežzīmju uzraudzības joslā. Terminēto caurlaidi izsniedz uz laiku, kādā nepieciešams uzturēties patrulēšanas joslā un robežzīmju uzraudzības joslā vai pierobežas joslā, bet ne ilgāk kā uz vienu gadu. Darba devējs ir tiesīgs iesniegt iesniegumu par terminētās caurlaides izsniegšanu darbiniekiem un personām, ar kurām noslēgts uzņēmuma līgums, ja to uzturēšanās pierobežas joslā ir saistīta ar darba pienākumu veikšanu.
 (5) Valsts robežsardzes amatpersona, kas ir tiesīga pieņemt lēmumu par speciālās caurlaides izsniegšanu, ir tiesīga arī atteikt terminētās caurlaides izsniegšanu vai izsniegt to uz īsāku laiku, nekā norādīts iesniegumā par terminētās caurlaides izsniegšanu, šādos gadījumos:
-1) attiecīgajā pierobežas joslā ir noteikta pastiprināta robežkontrole;
-2) attiecīgajā pierobežas joslā ir izsludināta ārkārtējā situācija vai izņēmuma stāvoklis;
+1) attiecīgajā pierobežas joslā vai patrulēšanas joslā un robežzīmju uzraudzības joslā ir noteikta pastiprināta robežkontrole;
+2) attiecīgajā pierobežas joslā vai patrulēšanas joslā un robežzīmju uzraudzības joslā ir izsludināta ārkārtējā situācija vai izņēmuma stāvoklis;
 3) persona, kas pieprasa speciālo caurlaidi, ar spēkā stājušos nolēmumu ir atzīta par vainīgu tāda noziedzīga nodarījuma izdarīšanā, kas saistīts ar cilvēku tirdzniecību, terorismu, spiegošanu, personu nelikumīgu pārvietošanu pāri valsts robežai, kontrabandu, nelikumīgām darbībām ar narkotiskajām vai psihotropajām vielām, ieročiem, sprāgstvielām, spridzināšanas ietaisēm vai radioaktīvajām vielām, kā arī ar nelikumīgu valsts robežas šķērsošanu;
-4) konstatēts, ka iesniegumā terminētās caurlaides saņemšanai norādītie iemesli vai pieprasītais termiņš neatbilst personas uzturēšanās pierobežas joslā faktiskajiem apstākļiem;
+4) konstatēts, ka iesniegumā terminētās caurlaides saņemšanai norādītie iemesli vai pieprasītais termiņš neatbilst personas uzturēšanās pierobežas joslā vai patrulēšanas joslā un robežzīmju uzraudzības joslā faktiskajiem apstākļiem;
 5) persona, kas pieprasa speciālo caurlaidi, ir administratīvi sodīta par kontrabandu vai ar akcīzes nodokli apliekamo preču aprites noteikumu pārkāpumiem;
 6) Valsts robežsardzei ir informācija, kas dod pamatu uzskatīt, ka persona apdraud sabiedrisko kārtību vai valsts drošību.
 (6) Valsts robežsardzes amatpersona, kas ir tiesīga pieņemt lēmumu par speciālās caurlaides izsniegšanu, var anulēt terminēto caurlaidi, ja ir konstatēti šā panta piektās daļas 3., 4., 5. un 6.punktā minētie apstākļi.
 (7) Speciālo caurlaižu izsniegšanas un anulēšanas kārtību un šo caurlaižu paraugus nosaka Ministru kabinets.
-(8) Personai, kurai anulē terminēto caurlaidi, ir pienākums atstāt pierobežas joslu 24 stundu laikā pēc lēmuma paziņošanas. Lēmuma par terminētās caurlaides anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā izpildi.
+(8) Personai, kurai anulē terminēto caurlaidi, ir pienākums atstāt pierobežas joslu vai patrulēšanas joslu un robežzīmju uzraudzības joslu 24 stundu laikā pēc lēmuma paziņošanas. Lēmuma par terminētās caurlaides anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā izpildi.

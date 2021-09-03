@@ -1,2 +1,2 @@
 36. pants. Valsts robežas drošību reglamentējošo noteikumu pārkāpšana
-Par valsts robežas, valsts robežas joslas, pierobežas joslas, pierobežas vai robežšķērsošanas vietas režīma pārkāpšanu piemēro brīdinājumu vai naudas sodu līdz simt naudas soda vienībām.
+Par valsts robežas, valsts robežas joslas, patrulēšanas joslas, pierobežas joslas, pierobežas vai robežšķērsošanas vietas režīma pārkāpšanu piemēro brīdinājumu vai naudas sodu līdz simt naudas soda vienībām.

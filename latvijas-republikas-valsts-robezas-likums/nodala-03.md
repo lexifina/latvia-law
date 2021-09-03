@@ -1,2 +1,2 @@
 III nodaļa
-Valsts robežas joslas, pierobežas joslas un pierobežas režīms
+Valsts robežas joslas, patrulēšanas joslas, pierobežas joslas un pierobežas režīms
