@@ -10,5 +10,6 @@
 8) administrators nesamaksā viņam piemēroto šā likuma 31.⁷ panta pirmās daļas 1. vai 2. punktā noteikto naudas sodu šā likuma 31.⁷ panta piektajā daļā noteiktajā termiņā;
 9) administratora nāves gadījumā;
 10) stājies spēkā kompetentas institūcijas lēmums par administratora saukšanu pie administratīvās atbildības, piemērojot administratīvo sodu - tiesību atņemšana ieņemt jebkuru amatu komercsabiedrībā;
-11) konstatē kādu no šā likuma 13. panta otrajā daļā noteiktajiem ierobežojumiem.
+11) konstatē kādu no šā likuma 13. panta otrajā daļā noteiktajiem ierobežojumiem;
+12) administratoram piemērota Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma 78. panta pirmās daļas 4. punktā minētā sankcija par darbības pārtraukšanu.
 (2) Ministru kabinets nosaka kārtību, kādā administrators tiek atcelts no amata.

@@ -9,7 +9,9 @@
 4²) kura ir atcelta no administratora amata saskaņā ar šā likuma 17.² panta pirmās daļas 5. vai 6. punktu, ja no atcelšanas vai sertifikāta izbeigšanas dienas nav pagājuši pieci gadi;
 5) kurai, pamatojoties uz lēmumu administratīvā pārkāpuma lietā, ir piemērots administratīvais sods - tiesību atņemšana ieņemt jebkuru amatu komercsabiedrībā;
 6) kuru tiesa ir atcēlusi no tiesiskās aizsardzības procesa, konstatējot šīs personas pilnvaru ļaunprātīgu izmantošanu, ja nav pagājuši pieci gadi no dienas, kad attiecīgais tiesas nolēmums stājies spēkā;
-7) kurai atbilstoši tās mītnes valsts noteiktajam tiesiskajam regulējumam ir liegtas tiesības ieņemt tiesiskās aizsardzības procesa uzraugošās personas amatam līdzīgus amatus.
+7) kurai atbilstoši tās mītnes valsts noteiktajam tiesiskajam regulējumam ir liegtas tiesības ieņemt tiesiskās aizsardzības procesa uzraugošās personas amatam līdzīgus amatus;
+8) kurai piemērota Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma 78. panta pirmās daļas 4. punktā minētā sankcija par darbības pārtraukšanu, ja no tās piemērošanas nav pagājuši pieci gadi;
+9) kurai piemērota Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma 78. panta pirmās daļas 4. punktā minētā sankcija par darbības apturēšanu.
 (3) Par tiesiskās aizsardzības procesa uzraugošo personu konkrētā tiesiskās aizsardzības procesā nevar būt persona, kura atbilst vismaz vienam no turpmāk norādītajiem kritērijiem:
 1) ir piedalījusies parādnieka tiesiskās aizsardzības procesa pasākumu plāna izstrādē;
 2) ir sniegusi zvērināta revidenta atzinumu par tiesiskās aizsardzības procesa pasākumu plānu;

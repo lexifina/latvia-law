@@ -1,0 +1,1 @@
+81. Kvalifikācijas pilnveides pasākumi, kurus administrators apmeklējis no pēdējā kvalifikācijas perioda sākuma līdz dienai, kad stājas spēkā šā likuma noteikumi par kvalifikācijas eksāmena kārtošanu saskaņā ar šo pārejas noteikumu 75. un 76. punktu, ir ņemami vērā, izlemjot jautājumu par kvalifikācijas eksāmena kārtošanas priekšnosacījumu izpildi.

@@ -1,0 +1,1 @@
+77. Šo pārejas noteikumu 75. un 76. punktā minēto kvalifikācijas eksāmenu kārto arī tie administratori, kuru amata darbība noteiktā kvalifikācijas eksāmena kārtošanas laikā ir apturēta vai kuri ir atstādināti no amata darbības veikšanas.
