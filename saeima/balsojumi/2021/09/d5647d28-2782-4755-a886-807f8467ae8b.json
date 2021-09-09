@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 1,
+ "datums": "2021-09-09",
+ "ieraksts": {
+  "dkp_id": "e6aa2a03-b21d-4e5e-93ca-e7f9cb995c1d",
+  "lastmodtime": "\"AAAAAAHdgOw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Regīna#Aivars#Vita Anda#Juris#Ivars#Jānis#Ralfs#Evita#Edgars#Eva#Vladimirs#Didzis#Jānis#Vjačeslavs#Ainars#Gatis#Karina#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Kaspars#Arvils#Ieva#Ilga#Māris#Ilmārs#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris #Viesturs#Māris#Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Jānis#Ivans#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Ainars#Krišjānis#Jānis#Ramona#Ivars#Anda#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna#Aldis#Juris",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Ločmele#Geidāns#Tērauda#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Dombrovskis#Latkovskis#Zamurs#Sprūde#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Krapāne#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Dombrava#Bondars#Tavars#Valainis#Judins#Bikše#Urbanovičs#Klementjevs#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Bašķis#Feldmans#Tutins#Petraviča#Zariņš#Čakša#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "JV#AP!#NA#NA#AP!#AP!#SASKAŅA # #AP!#AP!# #JK#Neatkarīgie#JK#SASKAŅA #JK#SASKAŅA # #JK# #JV#AP!# # #SASKAŅA #JK#SASKAŅA #JV#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# #SASKAŅA # #JK# #JV#Neatkarīgie# #Neatkarīgie#AP!# # #JV#SASKAŅA #JV#Neatkarīgie#SASKAŅA # #AP!#ZZS#NA#AP!#ZZS#ZZS#JV#AP!#SASKAŅA #SASKAŅA #ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#JK#SASKAŅA #Neatkarīgie#SASKAŅA # #ZZS#NA#AP!#JK#SASKAŅA #NA# #JK",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Par#Par#Par#Par#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "09.09.2021 09:41:22",
+  "VOTEMOTIVE": "Par valsts pasūtījuma saņemšanu “SRC Brasa” ārpus IUB konkursa procedūras (67/P13)",
+  "VOTING_ID": "d5647d28-2782-4755-a886-807f8467ae8b",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "51",
+  "VOTERESULT_FOR": "31",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "20",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/903a7e90-0014-4e6d-b874-5a53c9f6009e/download/13.saeimas-2021.gada-rudens-sesija-1-vote.xml",
+  "sha256": "cc2f8f493f9c0d2ca14882401779578e6c1207da152d486288ec80ee20eb0b9f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
