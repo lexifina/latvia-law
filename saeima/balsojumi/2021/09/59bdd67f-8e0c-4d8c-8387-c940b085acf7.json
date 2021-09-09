@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 2,
+ "datums": "2021-09-09",
+ "ieraksts": {
+  "dkp_id": "8b4350c5-7693-4bf3-9c39-d0713c5b3eb2",
+  "lastmodtime": "\"AAAAAAHd3NU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Regīna#Aivars#Vita Anda#Juris#Ivars#Jānis#Ralfs#Evita#Edgars#Eva#Vladimirs#Didzis#Jānis#Vjačeslavs#Ainars#Gatis#Karina#Artuss#Jānis#Normunds#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Kaspars#Arvils#Ieva#Ilga#Māris#Ilmārs#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Ēriks#Andrejs#Māris #Viesturs#Māris#Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Jānis#Ivans#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Ainars#Krišjānis#Jānis#Ramona#Ivars#Anda#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna#Juris",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Geidāns#Tērauda#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Dombrovskis#Latkovskis#Zamurs#Sprūde#Kaimiņš#Krišāns#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Krapāne#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Pucens#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Dombrava#Bondars#Tavars#Valainis#Judins#Bikše#Urbanovičs#Klementjevs#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Bašķis#Feldmans#Tutins#Petraviča#Zariņš#Čakša#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule#Jurašs",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "JV#AP!#NA#NA#AP!#AP!#NA#SASKAŅA # #AP!#AP!# #JK#Neatkarīgie#JK#SASKAŅA #JK#SASKAŅA # #JK# #JV#AP!# # #SASKAŅA #JK#JV#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# #SASKAŅA # #JK# #JV#Neatkarīgie# #Neatkarīgie#AP!# # #JV#SASKAŅA #JV#Neatkarīgie#SASKAŅA # #AP!#ZZS#NA#AP!#ZZS#ZZS#JV#AP!#SASKAŅA #SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#JK#SASKAŅA #Neatkarīgie#SASKAŅA # #ZZS#NA#AP!#JK#SASKAŅA #NA#JK",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Par#Pret#Pret#Par#Pret#Par#Pret#Nebalsoja#Pret#Nebalsoja#Par#Pret#Par#Pret#Pret#Par#Pret#Nebalsoja#Pret#Atturas#Pret#Pret#Atturas#Pret#Par#Par#Pret#Par#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Par#Nebalsoja#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Nebalsoja#Pret#Par#Nebalsoja#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Nebalsoja#Par#Nebalsoja#Pret#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "09.09.2021 15:14:57",
+  "VOTEMOTIVE": " Par izslēgšanu no darba kārtības. Par deputāta Alda Gobzema izslēgšanu no sešām Saeimas sēdēm (739/Lm13)",
+  "VOTING_ID": "59bdd67f-8e0c-4d8c-8387-c940b085acf7",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "47",
+  "VOTERESULT_FOR": "23",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d696eba6-9123-4bfe-a60f-3dea3230f06b/download/13.saeimas-2021.gada-rudens-sesija-2-vote.xml",
+  "sha256": "68977bf96fc8e2b4b99d2181c1619f320032748dc92a7acc78650242a211fcfa",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
