@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 7. septembra noteikumi Nr. 606 \"Ministru kabineta kārtības rullis\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "173A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-09-08",
+  "entry_into_force": "2021-09-09",
+  "notification_date": "2026-08-11",
+  "commission_reference": "MNE(2026)06342",
+  "nim_celex": "72024L1275LVA_202606342",
+  "nim_id": "202606342",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/68763bac-67b5-461c-af5c-25ce346d93f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
