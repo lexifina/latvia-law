@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 7. septembra noteikumi Nr. 617 \"Tiesību akta projekta sākotnējās ietekmes izvērtēšanas kārtība\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "173A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-09-08",
+  "entry_into_force": "2021-09-09",
+  "notification_date": "2026-01-22",
+  "commission_reference": "MNE(2026)00716",
+  "nim_celex": "72023L1791LVA_202600716",
+  "nim_id": "202600716",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0214e70a-373a-49fd-ab4a-049c634fa6a2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
