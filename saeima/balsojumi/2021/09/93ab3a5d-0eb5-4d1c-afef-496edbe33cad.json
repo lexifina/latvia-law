@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 1,
+ "datums": "2021-09-09",
+ "ieraksts": {
+  "dkp_id": "c2a2165b-798f-49b7-9554-059a07862487",
+  "lastmodtime": "\"AAAAAAHddXA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Vita Anda#Juris#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Ainars#Gatis#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Arvils#Ieva#Ilga#Māris#Ilmārs#Jūlija#Atis#Ojārs Ēriks#Valērijs#Aldis#Andrejs#Māris #Viesturs#Māris#Mārtiņš#Edgars#Andrejs#Aigars#Jānis#Ivans#Jānis#Vitālijs#Ritvars#Raimonds#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Ivars#Anda#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna#Aldis#Juris",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Tērauda#Pūce#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Latkovskis#Zamurs#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ašeradens#Krapāne#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Kalniņš#Agešins#Adamovičs#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Bondars#Tavars#Judins#Bikše#Urbanovičs#Klementjevs#Vucāns#Orlovs#Jansons#Bergmanis#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Zariņš#Čakša#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule#Gobzems#Jurašs",
+  "VOTEDEPSUFFIX": "############################################################################",
+  "FRACTION": "JV#AP!#NA#NA#AP!#AP!#AP!#AP!# #JK#JK#SASKAŅA #JK#SASKAŅA #JK#JV#AP!# #SASKAŅA #JK#SASKAŅA #JV#JV# # #NA#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# #SASKAŅA # #JK#JV#Neatkarīgie# #Neatkarīgie#AP!# # #JV#SASKAŅA #JV#SASKAŅA # #AP!#ZZS#AP!#ZZS#JV#AP!#SASKAŅA #SASKAŅA #ZZS#SASKAŅA #NA#ZZS#JK#JK#ZZS#JK#SASKAŅA #SASKAŅA # #ZZS#NA#AP!#JK#SASKAŅA #NA# #JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "09.09.2021 09:02:25",
+  "VOTEMOTIVE": "Par Saeimas deputāta Ainara Bašķa iecelšanu Aizsardzības, iekšlietu un korupcijas novēršanas komisijā (728/Lm13)",
+  "VOTING_ID": "93ab3a5d-0eb5-4d1c-afef-496edbe33cad",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "71",
+  "VOTERESULT_REGISTERED": "77",
+  "VOTE_NUMBER": "18",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/903a7e90-0014-4e6d-b874-5a53c9f6009e/download/13.saeimas-2021.gada-rudens-sesija-1-vote.xml",
+  "sha256": "cc2f8f493f9c0d2ca14882401779578e6c1207da152d486288ec80ee20eb0b9f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
