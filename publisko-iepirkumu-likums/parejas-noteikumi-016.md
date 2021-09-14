@@ -1,0 +1,1 @@
+16. Ar 2026. gada 1. janvāri par tīru autotransporta līdzekli atbilstoši šā likuma 1. panta 32.¹ punkta "a" apakšpunktam tiek uzskatīts tāds M1, M2 vai N1 kategorijas autotransporta līdzeklis, kura izpūtēja emisijas ir nulle CO2 g/km.

@@ -1,0 +1,1 @@
+18. Šā likuma 54. panta ceturtajā, piektajā, sestajā un septītajā daļā minētās prasības piemērojamas iepirkumiem vai iepirkuma procedūrām, kuras izsludinātas, vai, ja iepirkums vai iepirkuma procedūra nav izsludināma, lēmums par iepirkuma vai iepirkuma procedūras uzsākšanu pieņemts, sākot ar dienu, kad stājās spēkā šīs tiesību normas.

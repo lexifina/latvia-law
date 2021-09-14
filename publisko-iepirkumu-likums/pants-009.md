@@ -7,7 +7,7 @@
 2) prasības pretendentiem, ņemot vērā šā likuma 13., 44., 45. un 46. pantu;
 3) gadījumus, kad pretendenti tiek izslēgti atbilstoši šā panta astotās daļas noteikumiem, vai atsauci uz pretendentu izslēgšanu atbilstoši šā panta astotajai daļai;
 4) prasības piedāvājuma nodrošinājumam, ja tāds paredzēts, un saistību izpildes nodrošinājumam, ja tāds paredzēts, ņemot vērā šā likuma 50. pantu;
-5) piedāvājuma izvērtēšanas kritērijus, ņemot vērā šā likuma 19. un 51. pantu;
+5) piedāvājuma izvērtēšanas kritērijus, ņemot vērā šā likuma 19., 51. un 54. pantu;
 6) informācijas aizsardzības noteikumus, ja tādi nepieciešami, ņemot vērā šā likuma 14. panta pirmo daļu;
 7) iepirkuma līguma slēgšanas kārtību;
 8) citus noteikumus.
