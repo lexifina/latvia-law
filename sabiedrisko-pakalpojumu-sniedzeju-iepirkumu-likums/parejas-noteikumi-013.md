@@ -1,0 +1,1 @@
+13. Šā likuma 21. panta ceturtajā, piektajā un sestajā daļā minētās prasības piemērojamas iepirkuma procedūrām, kuras izsludinātas, vai, ja iepirkuma procedūra nav izsludināma, lēmums par iepirkuma procedūras uzsākšanu pieņemts, sākot ar dienu, kad stājās spēkā šīs tiesību normas.
