@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 2. septembra likums \"Grozījumi Publisko iepirkumu likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "176A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-09-13",
+  "entry_into_force": "2021-09-14",
+  "notification_date": "2021-11-10",
+  "commission_reference": "MNE(2021)07446",
+  "nim_celex": "72019L1161LVA_202107446",
+  "nim_id": "202107446",
+  "transposes_celex": [
+    "32019L1161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1aa2fd7c-422c-4f65-ae4a-cc026d4a4003",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
