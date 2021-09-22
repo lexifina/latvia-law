@@ -1,0 +1,9 @@
+48. Pašvaldību papildu izdevumus par piemaksām pašvaldības dibinātās institūcijās un institūcijās, ar kurām noslēgts līgums par šo pārejas noteikumu 47. punktā minēto pakalpojumu sniegšanu, 50 procentu apmērā no pašvaldību faktiskajiem papildu izdevumiem sedz no valsts budžeta programmas "Līdzekļi neparedzētiem gadījumiem", ievērojot šādus nosacījumus:
+1) lai saņemtu mērķdotāciju, līdz pārskata mēnesim sekojošā mēneša desmitajam datumam atbilstoši normatīvajiem aktiem par kārtību, kādā Valsts kase nodrošina elektronisko informācijas apmaiņu, izmantojot Valsts kases informācijas sistēmu "Ministriju, centrālo valsts iestāžu un pašvaldību budžeta pārskatu informācijas sistēma", attiecīgā pašvaldība iesniedz pārskatu un tajā iekļauj šādas ziņas:
+a) pašvaldības izmaksātais finansējums par piemaksām pašvaldības dibinātās institūcijās un institūcijās, ar kurām noslēgts līgums par šo pārejas noteikumu 47. punktā minēto pakalpojumu sniegšanu,
+b) institūciju skaits, Covid-19 pozitīvo klientu skaits un aprūpē iesaistīto personu skaits, kuras saņēmušas piemaksu,
+c) pašvaldības konts Valsts kasē vai kredītiestādē mērķdotācijas saņemšanai un izdevumu veikšanai;
+2) Labklājības ministrija:
+a) 10 darbdienu laikā pēc pārskata izvērtēšanas un atzīšanas par atbilstošu veic mērķdotācijas maksājumu pašvaldībai,
+b) ir tiesīga izlases kārtībā veikt mērķdotācijas izlietojuma kontroli, pieprasot no pašvaldības papildu informāciju,
+c) ja konstatē kļūdas pārskatā vai pārkāpumus piemaksu piešķiršanā un izmaksā, pārtrauc mērķdotācijas izmaksu līdz pārskata precizēšanai vai pārkāpumu novēršanai; pēc pārskata precizēšanas vai pārkāpumu novēršanas izdara pārrēķinu un veic maksājumus par iepriekšējo periodu, bet nepamatoti izmaksātos līdzekļus ietur no nākamajā mēnesī pašvaldībai paredzētajiem līdzekļiem.
