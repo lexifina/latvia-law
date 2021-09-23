@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 6,
+ "datums": "2021-09-23",
+ "ieraksts": {
+  "dkp_id": "c0e5074d-95cb-4396-b9af-761e668509d2",
+  "lastmodtime": "\"AAAAAAHfkks=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Regīna#Ivans#Aivars#Vita Anda#Juris#Ivars#Jānis#Evita#Edgars#Vladimirs#Didzis#Jānis#Vjačeslavs#Ainars#Gatis#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Boriss#Ļubova#Sandis#Kaspars#Arvils#Ilga#Māris#Ilmārs#Atis#Ojārs Ēriks#Valērijs#Ēriks#Andrejs#Māris #Viesturs#Māris#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Jānis#Ivans#Jānis#Vitālijs#Ritvars#Raimonds#Reinis#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Ramona#Līva#Ivars#Anda#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna#Juris",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Geidāns#Tērauda#Pūce#Puga#Butāns#Zālīte-Grosa#Kucins#Nikonovs#Šmits#Cielēns#Dombrovskis#Latkovskis#Zamurs#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Švecova#Riekstiņš#Ģirģens#Ašeradens#Šuplinska#Možvillo#Dūrītis#Zakatistovs#Kalniņš#Agešins#Pucens#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Bondars#Tavars#Valainis#Judins#Bikše#Urbanovičs#Klementjevs#Vucāns#Orlovs#Jansons#Bergmanis#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Petraviča#Kreituse#Zariņš#Čakša#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule#Jurašs",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "JV#JK#AP!#NA#NA#AP!#AP!#NA#SASKAŅA #SASKAŅA # #AP!#AP!# #JK#JK#SASKAŅA #SASKAŅA # #JK# #JV#AP!# #SASKAŅA #JK#SASKAŅA #JV#JV# #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# #SASKAŅA # #JK# #JV# #Neatkarīgie#AP!# #JV#SASKAŅA # #SASKAŅA # #AP!#ZZS#AP!#ZZS#ZZS#JV#AP!#SASKAŅA #SASKAŅA #ZZS#SASKAŅA #NA#ZZS#JK#JK#JK#ZZS#JK#SASKAŅA #Neatkarīgie#JK#SASKAŅA # #ZZS#NA#AP!#JK#SASKAŅA #NA#JK",
+  "RESULT": "Pret#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Pret#Pret#Par#Nebalsoja#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Par#Pret#Atturas#Nebalsoja#Par#Pret#Par#Pret#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Pret#Par#Pret#Nebalsoja#Pret#Pret#Par#Par#Nebalsoja#Pret#Pret#Par#Nebalsoja#Pret#Par#Pret#Nebalsoja#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Par#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Pret#Pret#Atturas#Nebalsoja#Par#Pret#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.09.2021 12:29:51",
+  "VOTEMOTIVE": "Grozījums likumā “Par Latvijas Republikas Augstākās padomes deputātu tiesisko stāvokli un pensijām” (594/Lp13), 1.lasījums",
+  "VOTING_ID": "6fec9c5b-2439-47ec-989e-1b15626970ba",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "39",
+  "VOTERESULT_FOR": "25",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "48",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/788ec410-7264-4697-8a93-424a42515a8a/download/13.saeimas-2021.gada-rudens-sesija-6-vote.xml",
+  "sha256": "0e1e9853f349066ecf60c3acc1fedca2a25d5ed1da9b870928073d49340a2682",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
