@@ -1,1 +1,3 @@
-1.pants. Likuma mērķis ir noteikt atšķirīgas attieksmes aizliegumu privātajā un publiskajā jomā attiecībā uz fizisko personu, kura vēlas veikt vai veic patstāvīgu darbību par atlīdzību (turpmāk - saimnieciskās darbības veicējs).
+1. pants. Likuma mērķis ir noteikt atšķirīgas attieksmes aizliegumu attiecībā uz:
+1) fizisko personu, kura neveic saimniecisko darbību, vai fizisko personu, kura ārpus savas saimnieciskās darbības publiski piedāvā preci vai pakalpojumu citai fiziskajai personai par atlīdzību vai pērk preci vai pakalpojumu no citas fiziskās personas par atlīdzību;
+2) fizisko personu, kura veiks vai veic saimniecisko darbību par atlīdzību (turpmāk 1. un 2. punktā minētā persona - tiesiska darījuma dalībnieks).

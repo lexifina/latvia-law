@@ -1,1 +1,1 @@
-7.pants. Ja atšķirīgas attieksmes aizliegums vai aizliegums radīt nelabvēlīgas sekas tiek pārkāpts, saimnieciskās darbības veicējs saskaņā ar Tiesībsarga likumu var saņemt tiesisko atbalstu, kā arī vērsties tiesā likumā noteiktajā kārtībā.
+7. pants. Ja atšķirīgas attieksmes aizliegums vai aizliegums radīt nelabvēlīgas sekas tiek pārkāpts, tiesiska darījuma dalībnieks saskaņā ar Tiesībsarga likumu var saņemt tiesisko atbalstu, kā arī vērsties tiesā likumā noteiktajā kārtībā.
