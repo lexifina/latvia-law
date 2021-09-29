@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Fizisko personu - saimnieciskās darbības veicēju - diskriminācijas aizlieguma likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "187A",
+  "official_journal_page": null,
+  "official_journal_date": "2021-09-28",
+  "entry_into_force": "2021-09-29",
+  "notification_date": "2021-09-30",
+  "commission_reference": "MNE(2021)06830",
+  "nim_celex": "72004L0113LVA_202106830",
+  "nim_id": "202106830",
+  "transposes_celex": [
+    "32004L0113"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1addabdc-2291-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
