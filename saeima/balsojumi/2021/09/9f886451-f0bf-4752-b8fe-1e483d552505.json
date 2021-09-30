@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 8,
+ "datums": "2021-09-30",
+ "ieraksts": {
+  "dkp_id": "c0cbba7e-8019-4a56-a3df-40b6e53be3b1",
+  "lastmodtime": "\"AAAAAAHgZbE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Dace#Andris#Romāns#Ivans#Aivars#Juris#Ivars#Jānis#Evita#Edgars#Vjačeslavs#Ainars#Karina#Jānis#Normunds#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Ļubova#Sandis#Kaspars#Ieva#Rihards#Ilga#Māris#Ilmārs#Ojārs Ēriks#Valērijs#Andrejs#Māris #Viesturs#Māris#Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Līva#Ivars#Anda#Janīna#Aleksandrs#Linda#Artūrs#Janīna#Juris",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Pūce#Puga#Butāns#Zālīte-Grosa#Kucins#Dombrovskis#Latkovskis#Sprūde#Krišāns#Žunna#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Švecova#Riekstiņš#Ģirģens#Krapāne#Kols#Šuplinska#Možvillo#Dūrītis#Kalniņš#Agešins#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Dombrava#Bondars#Tavars#Valainis#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Kreituse#Zariņš#Čakša#Jalinska#Kiršteins#Medne#Rubiks#Kursīte-Pakule#Jurašs",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "JV#AP!#NA#AP!#AP!#NA#SASKAŅA # #AP!# #JK#JK#SASKAŅA # #JV#Neatkarīgie#SASKAŅA #JK#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# #JK# #Neatkarīgie#NA# #Neatkarīgie#AP!#JV#SASKAŅA #SASKAŅA # #AP!#ZZS#NA#AP!#ZZS#ZZS#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#JK#ZZS#JK#SASKAŅA #JK#SASKAŅA # #ZZS#NA#JK#SASKAŅA #NA#JK",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.09.2021 11:04:00",
+  "VOTEMOTIVE": "Grozījums likumā “Par Konvenciju par Eiropas Savienības dalībvalstu savstarpēju palīdzību krimināllietās, ko Padome pieņēmusi saskaņā ar Līguma par Eiropas Savienību 34. pantu, Padomes Deklarāciju par Konvencijas 10. panta ... (1122/Lp13), 1.lasījums",
+  "VOTING_ID": "9f886451-f0bf-4752-b8fe-1e483d552505",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b04baf19-15ee-4650-b218-b52dc1936dba/download/13.saeimas-2021.gada-rudens-sesija-8-vote.xml",
+  "sha256": "fe3200498be259a812dbc6f6ac9dce7af62d7daa810527e6930d92bf1f0cf02b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
