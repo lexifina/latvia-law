@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2021.gada rudens sesija",
+ "sede": 8,
+ "datums": "2021-09-30",
+ "ieraksts": {
+  "dkp_id": "79d048b6-da7d-4381-99c0-815baf888e39",
+  "lastmodtime": "\"AAAAAAHgdh8=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Dace#Andris#Romāns#Regīna#Ivans#Aivars#Juris#Ivars#Jānis#Ralfs#Evita#Edgars#Eva#Vladimirs#Didzis#Vjačeslavs#Ainars#Karina#Artuss#Jānis#Normunds#Inga#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Ļubova#Sandis#Inguna#Arvils#Ieva#Rihards#Ilga#Māris#Ilmārs#Atis#Ojārs Ēriks#Valērijs#Andrejs#Māris #Viesturs#Māris#Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Ramona#Līva#Ivars#Anda#Aleksandrs#Linda#Artūrs#Janīna#Juris",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Geidāns#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Dombrovskis#Latkovskis#Sprūde#Kaimiņš#Krišāns#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Švecova#Riekstiņš#Rībena#Ašeradens#Krapāne#Kols#Šuplinska#Možvillo#Dūrītis#Zakatistovs#Kalniņš#Agešins#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Dombrava#Bondars#Tavars#Valainis#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Petraviča#Kreituse#Zariņš#Čakša#Kiršteins#Medne#Rubiks#Kursīte-Pakule#Jurašs",
+  "VOTEDEPSUFFIX": "##################################################################################",
+  "FRACTION": "JV#AP!#NA#AP!#AP!#NA#SASKAŅA #SASKAŅA # #AP!# #JK#Neatkarīgie#JK#SASKAŅA #JK#SASKAŅA # # #JV#Neatkarīgie# #SASKAŅA #JK#SASKAŅA #JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#JK# # #JK# #JV#Neatkarīgie#NA# #Neatkarīgie#AP!# #JV#SASKAŅA #SASKAŅA # #AP!#ZZS#NA#AP!#ZZS#ZZS#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #JK#JK#JK#ZZS#JK#SASKAŅA #Neatkarīgie#JK#SASKAŅA # #NA#JK#SASKAŅA #NA#JK",
+  "RESULT": "Par#Par#Pret#Par#Par#Pret#Par#Par#Nebalsoja#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Nebalsoja#Pret#Nebalsoja#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Nebalsoja#Nebalsoja#Pret#Pret#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.09.2021 12:05:24",
+  "VOTEMOTIVE": "Labas gribas atlīdzinājuma Latvijas ebreju kopienai likums (1159/Lp13), 1.lasījums",
+  "VOTING_ID": "4e3811c9-ebd3-492d-b7c3-02cfe23573e6",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "13",
+  "VOTERESULT_FOR": "61",
+  "VOTERESULT_REGISTERED": "83",
+  "VOTE_NUMBER": "34",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2021.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b04baf19-15ee-4650-b218-b52dc1936dba/download/13.saeimas-2021.gada-rudens-sesija-8-vote.xml",
+  "sha256": "fe3200498be259a812dbc6f6ac9dce7af62d7daa810527e6930d92bf1f0cf02b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
