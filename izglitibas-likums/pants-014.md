@@ -8,7 +8,7 @@ Ministru kabinets:
 5) nosaka obligāto izglītības vecumu sasniegušo bērnu uzskaites kārtību;
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
-7¹) apstiprina valsts izglītības iestāžu (izņemot valsts augstskolu - atvasināto publisko personu) nolikumus;
+7¹) (izslēgts no 01.10.2021. ar 08.04.2021. likumu. Sk. Pārejas noteikumu 93. punktu);
 8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 8¹) nosaka prasības sistēmiskai izglītības kvalitātes nodrošināšanai;
 8²) apstiprina ikgadēju izglītības kvalitātes novērtējuma ziņojumu;
