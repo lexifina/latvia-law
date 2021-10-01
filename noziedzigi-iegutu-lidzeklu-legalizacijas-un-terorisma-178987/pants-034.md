@@ -1,4 +1,7 @@
-34.pants. Finanšu izlūkošanas dienesta rīkojumu apstrīdēšanas kārtība
-(1) Šajā likumā noteiktajos gadījumos un kārtībā Finanšu izlūkošanas dienesta izdotos rīkojumus likuma subjekts vai valsts informācijas sistēmas pārzinis un personas, kuru līdzekļi tiek iesaldēti, vai šo personu pilnvaroti pārstāvji var apstrīdēt īpaši pilnvarotam prokuroram šajā likumā noteiktajos termiņos.
-(1¹) (Izslēgta ar 13.08.2014. likumu)
-(2) Īpaši pilnvarota prokurora lēmumu šā panta pirmajā daļā minētās personas var apstrīdēt ģenerālprokuroram, kura lēmums ir galīgs.
+34. pants. Finanšu izlūkošanas dienesta rīkojumu apstrīdēšanas kārtība
+(1) Šajā likumā noteiktajos gadījumos un kārtībā Finanšu izlūkošanas dienesta izdotos rīkojumus likuma subjekts vai valsts informācijas sistēmas pārzinis un personas, kuru līdzekļi tiek iesaldēti, var apstrīdēt izmeklēšanas tiesnesim pēc likuma subjekta vai valsts informācijas sistēmas pārziņa atrašanās vietas šajā likumā noteiktajos termiņos.
+(2) Sūdzības iesniedzējs sūdzību adresē tiesai, bet iesniedz Finanšu izlūkošanas dienestam, kas to kopā ar materiāliem, kuri bija par pamatu apstrīdētā rīkojuma pieņemšanai, triju darbdienu laikā nosūta tiesai. Sūdzības iesniegšana neaptur rīkojuma izpildi. Finanšu izlūkošanas dienests likumā noteiktajos gadījumos, nosūtot informāciju izmeklēšanas iestādēm, par to paziņo tiesai.
+(3) Tiesnesis sūdzību par Finanšu izlūkošanas dienesta rīkojumu izskata un lēmumu pieņem rakstveida procesā 30 dienu laikā pēc sūdzības saņemšanas tiesā.
+(4) Tiesnesis, izskatot sūdzību, pārbauda rīkojuma atbilstību šajā likumā noteiktajam. Materiālus, kas bija par pamatu apstrīdētā rīkojuma pieņemšanai, pārbauda un izvērtē tikai tiesnesis.
+(5) Ja sūdzības izskatīšanas laikā tiesnesis konstatē, ka iesniegtā sūdzība neatbilst šā likuma prasībām vai saistībā ar Finanšu izlūkošanas dienesta izdoto rīkojumu uzsākts kriminālprocess un līdzekļiem uzlikts arests, sūdzību atstāj bez izskatīšanas.
+(6) Tiesneša lēmumu un materiālus nosūta Finanšu izlūkošanas dienestam. Sūdzības iesniedzējam nosūta lēmuma norakstu. Lēmums nav pārsūdzams.

@@ -18,7 +18,7 @@
 15) uzturēt Finanšu izlūkošanas dienesta mājaslapā internetā vispārīga rakstura informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma un proliferācijas finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
 16) sniegt uzraudzības un kontroles institūcijām detalizētu informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma un proliferācijas finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
 17) koordinēt sadarbības koordinācijas grupu saskaņā ar šā likuma 55. pantu;
-18) (punkts stājas spēkā 01.10.2021. un iekļauts likuma redakcijā uz 01.10.2021. Sk. Pārejas noteikumu 58. punktu).
+18) nekavējoties nosūtīt Valsts ieņēmumu dienestam likuma subjekta ziņojumu par aizdomīgu darījumu nodokļu jomā (ja minētajā ziņojumā ir ietverta norāde par ziņojuma iesniegšanu Valsts ieņēmumu dienestam) un sliekšņa deklarāciju nodokļu jomā.
 (2) Finanšu izlūkošanas dienestam ir šādas tiesības:
 1) šajā likumā noteiktajos gadījumos dot rīkojumu likuma subjektam iesaldēt darījumu vai noteikta veida debeta operācijas klienta kontā;
 2) šajā likumā noteiktajos gadījumos dot rīkojumu valsts informācijas sistēmas pārzinim vai vērsties zemesgrāmatu nodaļā ar lūgumu veikt pasākumus, lai nepieļautu līdzekļu pārreģistrāciju;
