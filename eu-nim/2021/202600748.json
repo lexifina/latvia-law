@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2021. gada 30. septembra lēmums Nr. 1/10 “Sistēmas pieslēguma noteikumi elektroenerģijas pārvades sistēmai”",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": null,
+  "official_journal_reference": "2021/192.7",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-05",
+  "entry_into_force": "2021-10-07",
+  "notification_date": "2026-01-26",
+  "commission_reference": "MNE(2026)00748",
+  "nim_celex": "72023L1791LVA_202600748",
+  "nim_id": "202600748",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/77cfb296-8050-4725-aeb8-1f45b0450960",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
