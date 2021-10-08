@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2019. gada 8. janvāra noteikumos Nr. 1 \"Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "194",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-07",
+  "entry_into_force": "2021-10-08",
+  "notification_date": "2021-10-12",
+  "commission_reference": "MNE(2021)06996",
+  "nim_celex": "72010L0063LVA_202106996",
+  "nim_id": "202106996",
+  "transposes_celex": [
+    "32010L0063"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/70955ce5-2d90-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
