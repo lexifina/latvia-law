@@ -1,3 +1,2 @@
 18.pants. Rīcība apdraudējuma gadījumā
-(1) Ja publiska pasākuma apmeklētājiem un dalībniekiem ir izteikti draudi vai citādi apdraudēta viņu drošība, par sabiedrisko kārtību un drošību atbildīgā persona nekavējoties par to informē Valsts policijas vai pašvaldības policijas teritoriālo iestādi un organizē pasākuma dalībnieku evakuāciju, kā arī norobežo apdraudējuma vietu.
-(2) Ja pēc situācijas novērtēšanas draudi nav guvuši apstiprinājumu, pasākuma organizators ir tiesīgs pieņemt lēmumu par publiska pasākuma turpināšanu, ņemot vērā Valsts policijas vai pašvaldības policijas darbinieku sniegto informāciju.
+(Izslēgts ar 16.09.2021. likumu, kas stājas spēkā 11.10.2021.)
