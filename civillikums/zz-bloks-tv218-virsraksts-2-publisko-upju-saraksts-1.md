@@ -1,1 +1,0 @@
-II PIELIKUMS (1115.pantam)
