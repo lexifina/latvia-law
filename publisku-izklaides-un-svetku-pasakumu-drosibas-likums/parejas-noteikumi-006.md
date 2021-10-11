@@ -1,0 +1,1 @@
+6. Grozījumi šā likuma 6. panta otrās daļas 4. punktā un 11. panta trešajā daļā attiecībā uz divu gadu pieredzi, kas nepieciešama par sabiedrisko kārtību un drošību atbildīgajai personai, stājas spēkā 2022. gada 1. janvārī.

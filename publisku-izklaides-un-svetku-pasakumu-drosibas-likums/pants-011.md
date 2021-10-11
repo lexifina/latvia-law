@@ -1,8 +1,16 @@
 11. pants. Par sabiedrisko kārtību un drošību atbildīgās personas tiesības un pienākumi
-(1) Par sabiedrisko kārtību un drošību atbildīgajai personai ir šādas tiesības un pienākumi:
-1) publiska pasākuma laikā uzturēties tā norises vietā;
-2) pieprasīt, lai publiska pasākuma apmeklētāji un dalībnieki ievēro sabiedrisko kārtību;
-3) organizēt kontroli, lai nodrošinātu to, ka attiecīgajā pasākumā netiek ienesti priekšmeti, kurus varētu izmantot vardarbīgai rīcībai, psihotropas, narkotiskas vielas un citas pasākuma organizatora noteiktas lietas, kā arī lai sporta pasākumus neapmeklē personas, kurām atbilstoši normatīvajiem aktiem noteikts sporta pasākumu apmeklēšanas liegums;
-4) nekavējoties ziņot Valsts policijai vai pašvaldības policijai, ja pasākuma laikā tiek izdarīts noziedzīgs nodarījums vai sākas masu nekārtības, un informēt pasākuma organizatoru par nepieciešamību pārtraukt attiecīgo pasākumu, ja šie likumpārkāpumi var apdraudēt tā turpmāko norisi;
-5) uzraudzīt, lai publiska pasākuma vietā un laikā netiktu izmantotas iekārtas un būves, kā arī organizētas atrakcijas, attiecībā uz kurām nav saņemta par tehnisko drošību atbildīgās personas rakstveida piekrišana.
-(2) (Izslēgta no 01.07.2020. ar 04.06.2020. likumu, kas stākas spēkā 29.06.2020. Sk. Pārejas noteikumu 5. punktu)
+(1) Par sabiedrisko kārtību un drošību atbildīgajai personai ir šādas tiesības:
+1) pieprasīt, lai publiska pasākuma dalībnieki un apmeklētāji ievēro sabiedrisko kārtību;
+2) apdraudējuma situācijā iesaistīt kārtības uzturētājus Valsts policijas, Valsts drošības dienesta, Valsts ugunsdzēsības un glābšanas dienesta, Valsts robežsardzes vai Neatliekamās medicīniskās palīdzības dienesta norādījumu izpildē.
+(2) Par sabiedrisko kārtību un drošību atbildīgajai personai ir šādi pienākumi:
+1) publiska pasākuma laikā uzturēties tā norises vietā un būt sasniedzamai, lai atbilstoši kompetencei nodrošinātu sabiedrisko kārtību un drošību;
+2) publiska pasākuma laikā organizēt un kontrolēt sabiedriskās kārtības un drošības prasību ievērošanu atbilstoši pasākuma drošības plānam;
+3) pieprasīt, lai publiska pasākuma dalībnieks vai apmeklētājs izbeidz prettiesiskas darbības, kas apdraud sabiedrisko kārtību un drošību, vai atkarībā no attiecīgās personas veiktajām darbībām lūgt to atstāt pasākuma norises vietu, kā arī izraidīt šo personu no pasākuma norises vietas, ja tā nepakļaujas lūgumam un turpina pārkāpt sabiedriskās kārtības un drošības prasības;
+4) organizēt kontroli, lai nodrošinātu, ka attiecīgā publiskā pasākuma norises vietā netiek ienesti priekšmeti, kuri nepārprotami ir izmantojami vardarbīgai rīcībai, psihotropas, narkotiskas vielas un citas pasākuma organizatora noteiktas vielas un priekšmeti, kā arī sporta pasākumu neapmeklē personas, kurām atbilstoši normatīvajiem aktiem noteikts sporta pasākumu apmeklēšanas liegums;
+5) informēt kārtības uzturētājus un brīvprātīgos darbiniekus par pasākuma drošības plānā noteiktajām drošības prasībām un rīcību apdraudējuma situācijā;
+6) nekavējoties ziņot Valsts policijai vai pašvaldības policijai, ja publiska pasākuma laikā tiek izdarīts noziedzīgs nodarījums vai sākas masu nekārtības, vai ir apdraudēta pasākuma dalībnieku un apmeklētāju dzīvība, veselība vai drošība, un informēt pasākuma organizatoru par nepieciešamību atcelt vai uz laiku apturēt attiecīgo pasākumu, ja attiecīgie likumpārkāpumi var apdraudēt pasākuma turpmāko norisi un pasākuma dalībnieku un apmeklētāju dzīvību, veselību vai drošību;
+7) uzraudzīt, lai publiska pasākuma vietā un laikā netiktu izmantotas iekārtas un būves, kā arī organizētas atrakcijas, attiecībā uz kurām nav saņemta par tehnisko drošību atbildīgās personas rakstveida atļauja;
+8) apdraudējuma situācijā rīkoties atbilstoši pasākuma drošības plānam (ja tāds ir) un izpildīt Valsts policijas, pašvaldības policijas, Valsts drošības dienesta, Valsts ugunsdzēsības un glābšanas dienesta, Valsts robežsardzes vai Neatliekamās medicīniskās palīdzības dienesta norādījumus;
+9) izveidot operatīvās vadības centru, ja publiska pasākuma norises laikā sniedzamās informācijas (norādījumu) nodošanu un pieņemšanu tās apjoma dēļ nespēs nodrošināt par sabiedrisko kārtību un drošību atbildīgā persona;
+10) ja Valsts policija, Valsts drošības dienests, Valsts ugunsdzēsības un glābšanas dienests vai Valsts robežsardze izveido operatīvās vadības centru, piedalīties tā darbībā un nodrošināt minētās iestādes ar to pieprasīto informāciju par pasākuma drošības plāna izpildi.
+(3) Par sabiedrisko kārtību un drošību atbildīgā persona paaugstināta riska pasākumā var būt tikai tāda persona, kurai ir vismaz divu gadu pieredze fiziskās drošības pasākumu plānošanā vai īstenošanā.

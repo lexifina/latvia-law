@@ -10,6 +10,7 @@
 7) pārtraukt jebkuras atrakcijas un iekārtu izmantošanu, ja šī persona uzskata, ka attiecīgās atrakcijas vai iekārtas un būves var apdraudēt cilvēku dzīvību vai veselību;
 8) pārtraukt iekārtu un būvju izmantošanu, ja to darbības laukumā nav nodrošināta sabiedriskā kārtība;
 9) pārbaudīt, vai personālam, kas apkalpo iekārtas un būves, ir tiesības to darīt, un uzraudzīt, lai personāls pasākuma laikā nebūtu alkohola, psihotropo, narkotisko vai citu apreibinošu vielu ietekmē;
-10) ziņot pasākuma organizatoram par publiska pasākuma laikā konstatētajiem pārkāpumiem vai iekārtu un būvju izmantošanas pārtraukšanu.
+10) ziņot pasākuma organizatoram par publiska pasākuma laikā konstatētajiem pārkāpumiem vai iekārtu un būvju izmantošanas pārtraukšanu;
+11) apdraudējuma situācijā rīkoties atbilstoši pasākuma drošības plānam (ja tāds ir) un izpildīt Valsts policijas, pašvaldības policijas, Valsts drošības dienesta, Valsts ugunsdzēsības un glābšanas dienesta, Valsts robežsardzes vai Neatliekamās medicīniskās palīdzības dienesta norādījumus.
 (3) Par tehnisko drošību atbildīgā persona publiskā pasākumā var būt tikai tāda persona, kurai attiecīgo pienākumu veikšanai ir atbilstošas zināšanas, iemaņas un pieredze.
 (4) (Izslēgta no 01.07.2020. ar 04.06.2020. likumu, kas stākas spēkā 29.06.2020. Sk. Pārejas noteikumu 5. punktu)
