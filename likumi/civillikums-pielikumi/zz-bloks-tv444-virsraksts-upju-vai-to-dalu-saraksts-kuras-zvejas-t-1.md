@@ -19,7 +19,7 @@ Irbe - visā garumā;
 9.
 Lielupe un tās atzarojumi - visā garumā;
 10.
-Mērsraga kanāls (Engures ezera kanāls) - visā garumā;
+Mērsraga kanāls - visā garumā;
 11.
 Mīlgrāvis - visā garumā;
 12.
