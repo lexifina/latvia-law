@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2021. gada 12. oktobra noteikumi Nr. 684 \"Grozījumi Ministru kabineta 2011. gada 27. decembra noteikumos Nr. 1032 \"Atkritumu poligonu ierīkošanas, atkritumu poligonu un izgāztuvju apsaimniekošanas, slēgšanas un rekultivācijas noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "200",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-15",
+  "entry_into_force": "2021-10-16",
+  "notification_date": "2021-10-20",
+  "commission_reference": "MNE(2021)07138",
+  "nim_celex": "72018L0850LVA_202107138",
+  "nim_id": "202107138",
+  "transposes_celex": [
+    "32018L0850"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71ae91b4-3357-11ec-bd8e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
