@@ -11,4 +11,4 @@
 9) atteikties apstiprināt uz laiku līdz pieciem gadiem jebkuru prospektu, ko sagatavojis konkrēts emitents vai publiskā piedāvājuma izteicējs, ja minētais emitents vai publiskā piedāvājuma izteicējs atkārtoti un būtiski pārkāpis šā likuma un Regulas Nr. 2017/1129 noteikumus.
 (2) (Izslēgta 12.12.2019. likumu)
 (3) (Izslēgta 12.12.2019. likumu)
-(4) Komisijai ir tiesības nodot atklātībai informāciju par veiktajiem pasākumiem un pieņemtajām sankcijām pret emitentu vai publiskā piedāvājuma izteicēju par šā likuma C sadaļas prasību pārkāpšanu, izņemot gadījumus, kad šāda informācijas atklāšana var radīt nopietnus traucējumus finanšu tirgū vai izraisīt nesamērīgu kaitējumu iesaistītajām pusēm.
+(4) Komisijai ir tiesības nodot atklātībai informāciju par veiktajiem uzraudzības pasākumiem, piemērotajām sankcijām un administratīvajiem pasākumiem pret emitentu vai publiskā piedāvājuma izteicēju par šā likuma C sadaļas prasību pārkāpšanu, izņemot gadījumus, kad šāda informācijas atklāšana var radīt nopietnus traucējumus finanšu tirgū vai izraisīt nesamērīgu kaitējumu iesaistītajām pusēm.

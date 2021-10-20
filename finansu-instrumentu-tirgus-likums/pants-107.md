@@ -9,7 +9,7 @@ b) grāmatvedības politikas un grāmatvedības uzskaites, tai skaitā finanšu 
 c) vadības informācijas sistēmas aprakstu,
 d) informācijas sistēmas aizsardzības noteikumus, tai skaitā finanšu instrumentu un ar finanšu instrumentu darījumiem saistīto naudas līdzekļu uzskaites datu bāzes aizsardzības noteikumus,
 e) iekšējā audita sistēmas aprakstu,
-f) noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas iekšējās kontroles procedūru aprakstu, kas ietver arī klientu identificēšanas un saimnieciskās darbības pārzināšanas kārtības aprakstu,
+f) noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas iekšējās kontroles procedūru aprakstu, kas ietver arī klientu identificēšanas un saimnieciskās darbības pārzināšanas kārtības aprakstu,
 g) būtisku darbības risku pārvaldīšanas politiku un procedūru aprakstus,
 h) sabiedrības darbības atbilstības politikas un procedūras aprakstus,
 i) (izslēgts ar 21.06.2018. likumu);

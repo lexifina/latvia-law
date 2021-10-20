@@ -18,4 +18,4 @@
 4) veikt pārbaudes, lai kontrolētu atbilstību šā likuma D sadaļas II nodaļas prasībām, kā arī, ja nepieciešams, saskaņā ar normatīvo aktu prasībām vērsties attiecīgajā tiesu iestādē vai sadarboties ar citām iestādēm.
 (3) (Izslēgta ar 12.12.2019. likumu)
 (4) (Izslēgta ar 12.12.2019. likumu)
-(5) Komisijai ir tiesības publicēt informāciju par veiktajiem pasākumiem un pieņemtajām sankcijām pret emitentu vai personu, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, par normatīvo aktu prasību pārkāpšanu, izņemot gadījumus, kad šāda informācijas atklāšana var radīt nopietnus traucējumus finanšu tirgū vai izraisīt nesamērīgu kaitējumu iesaistītajām personām.
+(5) Komisijai ir tiesības publicēt informāciju par veiktajiem uzraudzības pasākumiem, piemērotajām sankcijām un administratīvajiem pasākumiem pret emitentu vai personu, kas lūdz pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, par normatīvo aktu prasību pārkāpšanu, izņemot gadījumus, kad šāda informācijas atklāšana var radīt nopietnus traucējumus finanšu tirgū vai izraisīt nesamērīgu kaitējumu iesaistītajām personām.

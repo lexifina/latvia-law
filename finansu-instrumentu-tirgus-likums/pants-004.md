@@ -19,7 +19,7 @@
 9) uzlikt par pienākumu ieguldījumu brokeru sabiedrībai pārskatīt procedūras, lai pastiprinātu pasākumus, kurus tā ieviesusi šā likuma 123.¹ panta un 124.panta pirmās daļas 11.punkta prasību īstenošanai;
 10) pieprasīt ieguldījumu brokeru sabiedrībai, lai tā piemēro speciālu uzkrājumu politiku vai aktīvu atzīšanas politiku saistībā ar pašu kapitālu;
 11) noteikt ieguldījumu brokeru sabiedrības un centrālā vērtspapīru depozitārija valdes vai padomes loceklim vai citai par pārkāpumu atbildīgajai fiziskajai personai pagaidu aizliegumu veikt tai noteiktos pienākumus ieguldījumu brokeru sabiedrībā vai centrālajā vērtspapīru depozitārijā;
-12) pieprasīt, lai ieguldījumu brokeru sabiedrība vai par pārkāpumu atbildīgā persona nekavējoties pārtrauc šā likuma 148.panta piecpadsmitajā daļā minētās darbības;
+12) pieprasīt, lai ieguldījumu brokeru sabiedrība vai par pārkāpumu atbildīgā persona nekavējoties pārtrauc šā likuma 148. panta piecpadsmitajā un 15.² daļā minētās darbības;
 12¹) pieprasīt, lai centrālais vērtspapīru depozitārijs vai par pārkāpumu atbildīgā persona nekavējoties izbeidz Regulas Nr. 909/2014 63. panta 1. punktā minēto pārkāpumu;
 13) sniegt publisku paziņojumu, kurā norādīta par pārkāpumu atbildīgā fiziskā vai juridiskā persona un pārkāpuma būtība.
-(5) Pieņemot lēmumu par sankciju piemērošanu personām, kuras pārkāpušas finanšu un kapitāla tirgu regulējošos normatīvos aktus, Komisija ņem vērā jebkādas pārkāpuma potenciālās sistēmiskās sekas.
+(5) Pieņemot lēmumu par sankciju un administratīvo pasākumu piemērošanu personām, kuras pārkāpušas finanšu un kapitāla tirgu regulējošos normatīvos aktus, Komisija ņem vērā jebkādas pārkāpuma potenciālās sistēmiskās sekas.

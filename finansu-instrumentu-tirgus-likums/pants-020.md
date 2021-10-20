@@ -1,6 +1,6 @@
 20.pants. Prospekta apstiprināšana un atbildība par tajā iekļauto informāciju
 (1) Prospektu apstiprina emitenta akcionāru (dalībnieku) sapulce vai tās pilnvarota pārvaldes institūcija vai amatpersona.
-(2) Par emisijas prospekta saturu ir atbildīga emitenta pārvaldes institūcija, publiskā piedāvājuma izteicējs un galvotājs (ja tāds ir).
+(2) Par prospekta saturu ir atbildīga emitenta pārvaldes institūcija, publiskā piedāvājuma izteicējs un galvotājs (ja tāds ir).
 (3) Prospektā norāda par šajā prospektā iekļautās informācijas patiesumu atbildīgo personu vārdu, uzvārdu un amatu vai juridisko personu nosaukumu, juridisko adresi un reģistrācijas numuru. Prospektā iekļauj arī katras šādas personas paziņojumu par to, ka, pēc šīs personas rīcībā esošajām ziņām, prospektā iekļautā informācija atbilst patiesajiem apstākļiem, kā arī par to, ka netiek noklusēti fakti, kas varētu ietekmēt prospektā iekļautās informācijas nozīmi.
 (4) Ja persona nav atbildīga par visu prospektā iekļauto informāciju, prospektā norāda, par kuru tā daļu attiecīgā persona ir atbildīga.
 (5) Ieguldītājs, ceļot prasību tiesā vispārējā kārtībā, var pieprasīt zaudējumu atlīdzināšanu no prospektā norādītajām personām, kuras ir atbildīgas par prospektā iekļautās informācijas patiesumu, ja prospektā iekļautas nepatiesas vai nepilnīgas informācijas dēļ tas cietis zaudējumus.
