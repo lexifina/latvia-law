@@ -6,7 +6,7 @@
 4) maksājumu iestāde;
 5) Eiropas Centrālā banka, Latvijas Banka vai citas valsts centrālā banka, kad tā veic darbības, kas nav monetārās politikas īstenošanas darbības vai citas publiskas personas darbības;
 6) tiešās pārvaldes iestāde vai atvasināta publiska persona, kad tā veic darbības, kas nav publiskas personas darbības;
-7) dalībvalstī licencēta maksājumu iestāde, kas šā likuma 31. pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
+7) dalībvalstī licencēta iestāde, kas šā likuma 31. pantā noteiktajā kārtībā uzsākusi darbību Latvijā;
 8) krājaizdevu sabiedrība.
 (2¹) Elektronisko naudu var emitēt:
 1) kredītiestāde;

@@ -30,4 +30,4 @@ b) labdarības nolūkos vai biļešu (tai skaitā transporta, izklaides, autost�
 (3) Komisija viena mēneša laikā izvērtē šā panta otrajā daļā noteiktajā kārtībā iesniegto informāciju un to, vai personas darbība ir atzīstama par ierobežotu tīklu. Komisija savu lēmumu paziņo šā panta otrajā daļā minētajai personai.
 (4) Komersants, kurš sniedz šā panta pirmās daļas 11. punktā norādītos pakalpojumus, par to paziņo Komisijai, kā arī turpmāk līdz kārtējā gada 31. janvārim iesniedz izvērstu ziņojumu, kas apliecina, ka personas darbība atbilst ierobežojumiem, kas minēti šā panta pirmās daļas 11. punktā.
 (5) Komisija nosūta Eiropas Banku iestādei informāciju par šā panta otrajā un ceturtajā daļā noteiktajā kārtībā paziņotajām darbībām.
-(6) To personu darbības aprakstu, kuras ir paziņojušas par savu darbību atbilstoši šā panta otrajai un ceturtajai daļai, publicē Komisijas mājaslapā internetā.
+(6) To personu darbības aprakstu, kuras ir paziņojušas par savu darbību atbilstoši šā panta otrajai un ceturtajai daļai, publicē Komisijas tīmekļvietnē.

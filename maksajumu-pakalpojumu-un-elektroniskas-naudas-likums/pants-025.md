@@ -10,5 +10,5 @@
 9) personai, kurai ir būtiska līdzdalība iestādē, iestājies tai piederošo akciju vai daļu balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus;
 10) iestāde vairs neatbilst licences piešķiršanas nosacījumiem.
 (2) Iestādes licence netiek atjaunota, ja Komisija to ir anulējusi.
-(3) Informācija par anulēto iestādes licenci publicējama Komisijas mājaslapā internetā.
+(3) Informācija par anulēto iestādes licenci publicējama Komisijas tīmekļvietnē.
 (4) Ja Komisija pieņem lēmumu par iestādes licences anulēšanu, tad šā lēmuma pārsūdzēšana neaptur tā darbību.

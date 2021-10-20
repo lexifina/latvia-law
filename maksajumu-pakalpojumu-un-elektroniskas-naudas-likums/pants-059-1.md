@@ -1,0 +1,3 @@
+59.¹ pants. (1) Maksājumu pakalpojumu sniedzējs nodrošina, lai Eiropas Komisijas izstrādātā informatīvā brošūra par patērētāju tiesībām maksājumu pakalpojumu jomā patērētājam būtu viegli pieejama to attiecīgajās tīmekļvietnēs, ja tādas ir, un papīra formā to filiālēs, pie to pārstāvjiem un ārpakalpojumu sniedzējiem, ja tādi ir.
+(2) Maksājumu pakalpojumu sniedzējs informatīvajā brošūrā esošo informāciju patērētājam nodrošina bez maksas.
+(3) Attiecībā uz personām ar invaliditāti šā panta noteikumus piemēro, izmantojot attiecīgus alternatīvus līdzekļus, kas nodrošinātu to, ka brošūrā iekļautā informācija ir pieejama šīm personām saprotamā veidā.

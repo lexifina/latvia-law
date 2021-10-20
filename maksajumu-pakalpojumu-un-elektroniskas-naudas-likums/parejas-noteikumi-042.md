@@ -1,0 +1,1 @@
+42. Šā likuma 1. panta 42. un 43. punkts, 2. panta pirmās daļas jaunā redakcija, grozījumi 3. panta pirmās daļas 5. punktā un otrajā daļā, II² nodaļa, 39.¹ panta 5. punkts un 55.¹ panta pirmās daļas jaunā redakcija stājas spēkā vienlaikus ar Latvijas Bankas likumu.
