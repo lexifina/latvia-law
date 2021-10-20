@@ -1,0 +1,10 @@
+20.¹ pants. Rīcība ar aizdomīgiem pasta sūtījumiem
+(1) Muitas iestāde universālā pasta pakalpojuma sniedzēja pasta sūtījumu šķirošanas vietā, konstatējot Pasta likumā noteiktos aizdomīgus pasta sūtījumus:
+1) informē pasta komersantu, ka ir nepieciešams apturēt aizdomīga pasta sūtījuma nosūtīšanu adresātam;
+2) izņem aizdomīgu pasta sūtījumu un nogādā to Valsts ieņēmumu dienestā uzglabāšanai;
+3) uzaicina aizdomīga pasta sūtījuma adresātu 30 dienu laikā ierasties muitas iestādē šā sūtījuma atvēršanai, uzaicinājumu uz sūtījumā norādīto adresi nosūtot personai, kura norādīta kā sūtījuma saņēmējs.
+(2) Muitas iestāde atver aizdomīgu pasta sūtījumu tā adresāta klātbūtnē un pārbauda šā sūtījuma saturu.
+(3) Ja šā panta otrajā daļā minētajā pārbaudē konstatē, ka aizdomīgā pasta sūtījumā atrodas narkotiskās vai psihotropās vielas, šo vielu izgatavošanai paredzētie izejmateriāli (prekursori), jaunas psihoaktīvas vielas vai tās saturoši izstrādājumi, muitas iestāde rīkojas Kriminālprocesa likumā noteiktajā kārtībā.
+(4) Ja šā panta otrajā daļā minētajā pārbaudē aizdomīgā pasta sūtījumā nekonstatē narkotiskās vai psihotropās vielas, šo vielu izgatavošanai paredzētos izejmateriālus (prekursorus), jaunas psihoaktīvas vielas, tās saturošus izstrādājumus vai citas brīvai apritei aizliegtas vielas un priekšmetus, muitas iestāde izsniedz pasta sūtījumu tā adresātam un informē par to universālā pasta pakalpojuma sniedzēju.
+(5) Ja pasta sūtījuma adresāts šā panta pirmās daļas 3. punktā minētajā termiņā neierodas muitas iestādē, lai atvērtu sūtījumu, Valsts ieņēmumu dienests iznīcina aizdomīgu pasta sūtījumu. Šādu sūtījumu uzskata par konfiscētu.
+(6) Ja muitas iestāde konstatē, ka aizdomīgs pasta sūtījums nesatur šā panta ceturtajā daļā minētās vielas, bet ir aizdomas, ka sūtījumā ir brīvai apritei aizliegtas vielas vai priekšmeti, muitas iestāde neizsniedz pasta sūtījumu tā adresātam un par to nekavējoties informē kompetento iestādi.
