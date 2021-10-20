@@ -14,7 +14,7 @@ d) valsts kompetentas iestādes izsniegts dokuments, kas apliecina, ka uz atbild
 8) ar kredītiestādi noslēgtā līguma par atsevišķa naudas konta atvēršanu kopiju, kurā norādīts, ka kontā esošie naudas līdzekļi ir apdrošināšanas vai pārapdrošināšanas brokera darbības rezultātā iegūtie naudas līdzekļi saskaņā ar šā likuma 31. panta prasībām, un ziņas par procedūru, kādā tiks nodrošināta no klientiem saņemto līdzekļu ieskaitīšana atsevišķā naudas kontā kredītiestādē. Šā punkta prasības attiecas uz apdrošināšanas vai pārapdrošināšanas brokeriem, kas plāno saņemt prēmijas vai citus maksājumus saskaņā ar noslēgto apdrošināšanas vai pārapdrošināšanas līgumu;
 9) ziņas par procedūru, kādā apdrošināšanas vai pārapdrošināšanas brokeris nodrošina šā likuma 16. panta prasību izpildi;
 10) ziņas par informācijas sistēmas aizsardzības procedūru;
-11) ziņas par procedūru noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas normatīvo aktu prasību izpildei, ja tiek reģistrēts apdrošināšanas vai pārapdrošināšanas brokeris, kas izplata dzīvības apdrošināšanu;
+11) ziņas par procedūru noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas normatīvo aktu prasību izpildei, ja tiek reģistrēts apdrošināšanas vai pārapdrošināšanas brokeris, kas izplata dzīvības apdrošināšanu;
 12) ziņas par procedūru, kādā apdrošināšanas vai pārapdrošināšanas brokeris izskata klientu sūdzības;
 13) ziņas par apdrošināšanas vai pārapdrošināšanas brokera organizatorisko struktūru, kā arī par valdes un atbildīgās personas pilnvaru un pienākumu sadali apdrošināšanas vai pārapdrošināšanas izplatīšanai;
 14) ziņas par procedūru, kādā tiek nodrošināta šā likuma 13. panta prasību izpilde;
