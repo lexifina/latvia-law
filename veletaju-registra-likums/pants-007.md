@@ -1,1 +1,1 @@
-7. pants. Centrālā vēlēšanu komisija 90 dienas pirms vēlēšanām iesniedz Pārvaldei ziņas par visiem izveidotajiem vēlēšanu iecirkņiem, norādot katra vēlēšanu iecirkņa vēlēšanu apgabalu, numuru, nosaukumu un adresi, kā arī triju dienu laikā informē Pārvaldi par visām izmaiņām šajās ziņās.
+7. pants. Centrālā vēlēšanu komisija 50 dienas pirms vēlēšanām iesniedz Pārvaldei ziņas par visiem izveidotajiem vēlēšanu iecirkņiem, norādot katra vēlēšanu iecirkņa vēlēšanu apgabalu, numuru, nosaukumu un adresi, kā arī triju dienu laikā informē Pārvaldi par visām izmaiņām šajās ziņās.
