@@ -1,6 +1,6 @@
 24.pants. Aizliegumi attiecībā uz pasta sūtījumu saturu
 (1) Pasta sūtījumos aizliegts pārsūtīt šādus priekšmetus vai vielas:
-1) narkotiskās vai psihotropās vielas;
+1) narkotiskās vai psihotropās vielas, šo vielu izgatavošanai paredzētos izejmateriālus (prekursorus), jaunas psihoaktīvas vielas vai tās saturošus izstrādājumus;
 2) pornogrāfiska vai erotiska rakstura materiālus, kuros aprakstīta vai attēlota bērnu seksuāla izmantošana (bērnu pornogrāfija), cilvēku seksuālas darbības ar dzīvniekiem, nekrofilija vai pornogrāfiska rakstura vardarbība;
 3) priekšmetus vai vielas, kuru ievešana vai apgrozība saņemšanas valstīs ir aizliegta;
 4) priekšmetus vai vielas, kuru izvešana no Latvijas Republikas vai apgrozība Latvijas Republikā ir aizliegta;

@@ -1,6 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) adresāts - pasta sūtījuma adresē norādītā privātpersona vai publiskas personas institūcija, kurai jāpiegādā pasta sūtījums;
+1¹) aizdomīgs pasta sūtījums - pārrobežu pasta sūtījums, par kuru ir aizdomas, ka tas satur narkotiskās vai psihotropās vielas, šo vielu izgatavošanai paredzētos izejmateriālus (prekursorus), jaunas psihoaktīvas vielas vai tās saturošus izstrādājumus;
 2) apdrošināts pasta sūtījums - reģistrēts pasta sūtījums, kura saturs ir apdrošināts par deklarētu vērtību pret zudumu, nolaupīšanu vai sabojāšanu un par kuru sūtītājam izsniedz kvīti;
 3) (izslēgts ar 20.06.2018. likumu);
 4) elektroniski saņemts sūtījums - adresēts sūtījums, ko pasta komersantam nodod elektroniskā veidā tā noformēšanai par vēstuļu korespondences sūtījumu un tālākai nosūtīšanai;
