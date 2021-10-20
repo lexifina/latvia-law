@@ -1,1 +1,4 @@
-29.pants. Latvijas Bankas valdes izdoto administratīvo aktu var apstrīdēt Latvijas Bankas padomē Administratīvā procesa likumā noteiktajā kārtībā un termiņā.
+29. pants. (1) Latvijas Bankas padome var izveidot komiteju, kuru pilnvaro pieņemt lēmumus par šajā likumā noteikto sankciju piemērošanu.
+(2) Latvijas Bankas padome nosaka šā panta pirmajā daļā minētās komitejas sastāvu. Komiteja ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse komitejas locekļu, un lēmumus pieņem ar sēdes dalībnieku balsu vairākumu. Ja balsu skaits sadalās vienādi, izšķiroša ir sēdes vadītāja balss. Latvijas Banka nosaka komitejas darba organizāciju.
+(3) Šā panta pirmajā daļā minētās komitejas izdoto administratīvo aktu var apstrīdēt Latvijas Bankas padomē Administratīvā procesa likumā noteiktajā kārtībā.
+(4) Saskaņā ar šo likumu Latvijas Bankas padomes izdoto administratīvo aktu var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa triju tiesnešu sastāvā lietu izskata kā pirmās instances tiesa. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
