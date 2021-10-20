@@ -1,0 +1,9 @@
+48.² pants. (1) Ja nav iespējams pārliecināties, ka ziņas par personu ir iekļautas vēlētāju reģistrā un tajā jau nav izdarīta atzīme par šīs personas piedalīšanos vēlēšanās, balsošana notiek ar reģistrācijas aploksni un attiecīgos vēlētājus ieraksta atsevišķā balsotāju sarakstā.
+(2) Vēlētājs vienatnē izdara šā likuma 23. pantā noteiktās darbības, aizlīmēto vēlēšanu aploksni ievieto reģistrācijas aploksnē, uz kuras iecirkņa komisija norādījusi viņa vārdu, uzvārdu un kārtas numuru balsotāju sarakstā, reģistrācijas aploksni aizlīmē un nodod iecirkņa komisijai, kas to apzīmogo ar attiecīgās iecirkņa komisijas zīmogu un iemet aizzīmogotā vēlēšanu kastē.
+(3) Tiklīdz iespējams pārliecināties, ka ziņas par personu iekļautas vēlētāju reģistrā un tajā nav izdarīta atzīme par personas piedalīšanos vēlēšanās, iecirkņa komisija, netraucējot balsošanu, pārbauda šīs ziņas pēc atsevišķajiem balsotāju sarakstiem, vēlētāju reģistrā izdara atzīmi par vēlētāja piedalīšanos vēlēšanās un balsotāju sarakstos atzīmē, vai personas balss ir līdzskaitāma.
+(4) Iecirkņa komisija pēc vēlēšanu beigām atver vēlēšanu kastes un sašķiro reģistrācijas aploksnes divās grupās - derīgās un nederīgās aploksnes. Reģistrācijas aploksne ir nederīga, ja:
+1) uz tās nav norādīts vēlētāja vārds, uzvārds un kārtas numurs balsotāju sarakstā;
+2) tā nav apzīmogota ar attiecīgās iecirkņa komisijas zīmogu;
+3) attiecīgā persona nav atrodama vēlētāju reģistrā;
+4) pēc vēlētāju reģistra ziņām, attiecīgā persona jau ir balsojusi.
+(5) Nederīgās reģistrācijas aploksnes saskaita un neatvērtas iesaiņo. Derīgās reģistrācijas aploksnes iecirkņa komisija atver un balsis skaita atbilstoši šā likuma IV nodaļā noteiktajai kārtībai.

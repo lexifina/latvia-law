@@ -1,3 +1,3 @@
 47. pants. (1) Iecirkņa komisija balsu skaitīšanu veic šā likuma IV nodaļā noteiktajā kārtībā.
-(2) Iecirkņa komisija atver tikai tās pasta aploksnes, kuras tā saņēmusi līdz balsu skaitīšanas uzsākšanai attiecīgajā iecirknī. Derīgās vēlēšanu aploksnes tiek uzglabātas neatvērtas līdz balsošanas kastu atvēršanai.
-(3) Pēc tam, kad ir atvērta balsošanai iecirknī izmantotā balsošanas kaste un konstatēts tajā atrasto derīgo vēlēšanu aplokšņu skaits, pirms šo aplokšņu atvēršanas tām pievienojamas pa pastu saņemtās derīgās vēlēšanu aploksnes.
+(2) Iecirkņa komisija saņemtās pasta aploksnes reģistrē un uzglabā neatvērtas līdz balsu skaitīšanas uzsākšanai. Pa pastu saņemto aplokšņu atvēršanu un skaitīšanu iecirkņa komisija uzsāk tikai pēc tam, kad beigusies balsošana visos ārvalstīs izveidotajos vēlēšanu iecirkņos.
+(3) Pa pastu saņemtās vēlēšanu aploksnes skaita atsevišķi, sagatavojot atsevišķu balsu skaitīšanas protokolu.
