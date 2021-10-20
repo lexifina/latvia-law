@@ -1,0 +1,1 @@
+11. Ministru kabinets līdz 2022. gada 1. janvārim izdod šā likuma 11. panta trešajā daļā minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai ir spēkā Ministru kabineta 2016. gada 23. februāra noteikumi Nr. 108 "Kārtība, kādā ārvalstu karakuģi ienāk un uzturas Latvijas Republikas teritoriālajā jūrā, iekšējos ūdeņos un ostās un iziet no tām".
