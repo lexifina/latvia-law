@@ -12,3 +12,4 @@
 (8) Komisijai ir tiesības pieņemt lēmumu par pilnvarnieka iecelšanu pensiju fondā, nododot tam pilnībā vai daļēji pensiju fonda pārvaldi, ja tas nepieciešams pensiju plānu dalībnieku un papildpensijas saņēmēju likumisko interešu aizsardzībai.
 (9) Komisijas pārstāvis ir tiesīgs pārbaudīt pensiju fonda darbību un dokumentus tā galvenajā birojā un filiālēs un bez balsstiesībām piedalīties pensiju fonda pārvaldes institūciju sēdēs.
 (10) Komisijai ir tiesības ierosināt pensiju fonda valdes un padomes (ja tāda izveidota) sēdes vai kapitālsabiedrības akcionāru vai dalībnieku sapulces sasaukšanu un noteikt izskatāmos jautājumus.
+(11) Komisijai ir tiesības pieprasīt no pensiju fonda informāciju un noteikt tās saturu, kā arī sagatavošanas un iesniegšanas kārtību, lai nodrošinātu informācijas apmaiņu ar šā likuma 49. panta trešajā daļā minētajām institūcijām un iestādēm, ņemot vērā pieprasītās informācijas raksturu.
