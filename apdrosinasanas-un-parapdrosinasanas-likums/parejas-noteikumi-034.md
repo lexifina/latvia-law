@@ -1,0 +1,1 @@
+34. Šo pārejas noteikumu 10., 14., 16., 17., 18., 19., 20. un 21. punktā noteikto Finanšu un kapitāla tirgus komisijas uzdevumu izpildi pēc Latvijas Bankas likuma stāšanās spēkā nodrošina Latvijas Banka.

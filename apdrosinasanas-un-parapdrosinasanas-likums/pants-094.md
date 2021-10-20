@@ -1,4 +1,5 @@
 94.pants. (1) Ja netiek pildītas šā likuma prasības, Komisija ir tiesīga uzlikt apdrošinātājam vai pārapdrošinātājam soda naudu līdz 142 000 euro.
+(1¹) Par apdrošināšanas vai pārapdrošināšanas darbības veikšanu bez apdrošināšanas vai pārapdrošināšanas licences saņemšanas Komisija ir tiesīga izteikt brīdinājumu vai uzlikt personai soda naudu līdz 142 000 euro.
 (2) Ja netiek pildīti Apdrošināšanas līguma likuma 8. panta otrās daļas, 32. panta pirmās un otrās daļas un 59. panta pirmās, otrās, trešās un ceturtās daļas noteikumi, Komisija ir tiesīga uzlikt apdrošinātājam soda naudu līdz 14 200 euro.
 (3) (Izslēgta ar 26.10.2017. likumu, kas stājas spēkā 09.11.2017.)
 (3¹) Komisija, piemērojot šā likuma 93.¹ pantu, atbilstoši ES Regulas Nr. 1286/2014 24. pantam par regulas pārkāpumiem ir tiesīga:

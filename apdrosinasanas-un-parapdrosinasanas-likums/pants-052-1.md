@@ -1,0 +1,9 @@
+52.¹ pants. (1) Ja Komisija konstatē, ka apdrošinātājs vai pārapdrošinātājs neievēro šā likuma, Eiropas Savienības tieši piemērojamo tiesību aktu vai citu apdrošinātāju vai pārapdrošinātāju darbību regulējošu normatīvo aktu prasības vai apdrošinātāja vai pārapdrošinātāja darbība apdraud minēto prasību izpildi, Komisija, pieņemot lēmumu, ir tiesīga piemērot šādus uzraudzības pasākumus:
+1) pieprasīt, lai apdrošinātājs vai pārapdrošinātājs nekavējoties veic nepieciešamās darbības attiecīgās situācijas novēršanai un iesniedz Komisijai tās noteiktajā termiņā pasākumu plānu konstatētā pārkāpuma novēršanai;
+2) dot apdrošinātājam vai pārapdrošinātājam saistošus norādījumus, kas nepieciešami šādas situācijas novēršanai.
+(2) Komisija ir tiesīga atbilstoši ES Regulas Nr. 1286/2014 24. pantam par šīs regulas pārkāpumiem piemērot šādus uzraudzības pasākumus:
+1) aizliegt apdrošināšanas ieguldījumu produkta izplatīšanu;
+2) uzlikt par pienākumu apturēt apdrošināšanas ieguldījumu produkta izplatīšanu;
+3) aizliegt sniegt pamatinformācijas dokumentu, kas neatbilst ES Regulas Nr. 1286/2014 6., 7., 8. vai 10. pantā noteiktajām prasībām, un pieņemt lēmumu, ar kuru uzdod publicēt jaunu, šai regulai atbilstošu pamatinformācijas dokumentu;
+4) uzlikt par pienākumu personai, kas ir apdrošināšanas ieguldījumu produkta izveidotājs vai sniedz konsultācijas par apdrošināšanas ieguldījumu produktu vai to pārdod, informēt klientu, kurš nav profesionāls klients un kura tiesības un intereses tika skartas, par piemēroto sankciju vai uzraudzības pasākumu un par to, kur klients var iesniegt sūdzību vai var vērsties, lai uzsāktu ārpustiesas strīdu izskatīšanu, kā arī par viņa tiesībām ar prasību vērsties tiesā.
+(3) Ja Komisijas izdotais administratīvais akts par šā panta otrajā daļā minēto uzraudzības pasākumu piemērošanu tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību.

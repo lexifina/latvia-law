@@ -1,2 +1,2 @@
 VI nodaļa
-Komisijas uzraudzības darbības
+Apdrošināšanas un pārapdrošināšanas darbības uzraudzība

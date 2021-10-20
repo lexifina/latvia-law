@@ -5,4 +5,4 @@
 1) apdrošināšanas pārvaldītājsabiedrības vai jauktas finanšu pārvaldītājsabiedrības galvenais birojs atrodas citā dalībvalstī un Komisija neveic grupas uzraudzību;
 2) apdrošināšanas vai pārapdrošināšanas sabiedrības galvenais birojs atrodas Latvijas Republikā, bet Komisija neveic grupas uzraudzību.
 (3) Komisija ir tiesīga saskaņot ar grupas uzraudzības procesā iesaistītajām uzraudzības iestādēm atbilstoši šā panta pirmās daļas 1. un 2.punktā noteiktajam konstatēto apstākļu novēršanas izpildi.
-(4) Šā likuma 93. panta un 94. panta pirmās, piektās un sestās daļas noteikumi attiecas arī uz apdrošināšanas pārvaldītājsabiedrību vai jauktu finanšu pārvaldītājsabiedrību, ja apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība nepilda šā likuma F sadaļā minētās prasības.
+(4) Šā likuma 52.¹ panta pirmās daļas, 93. panta un 94. panta pirmās, piektās un sestās daļas noteikumi attiecas arī uz apdrošināšanas pārvaldītājsabiedrību vai jauktu finanšu pārvaldītājsabiedrību, ja apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība nepilda šā likuma F sadaļā minētās prasības.

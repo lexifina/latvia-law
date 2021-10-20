@@ -8,3 +8,4 @@ a) īpašās normas, kas attiecas uz obligāto apdrošināšanu,
 b) noteikumus, kas obligāti iekļaujami apdrošināšanas polisē;
 2) Latvijas Republikā ir pieņemti normatīvie akti, kas regulē apdrošināšanas pakalpojumu sniegšanu, un pievieno paziņojumam šo normatīvo aktu tekstu.
 (6) Lai nodrošinātu dalībvalstīs vienotu, efektīvu un konstruktīvu uzraudzības praksi un vienveidīgu un konsekventu tieši piemērojamo Eiropas Savienības tiesību aktu piemērošanu, Komisijai, ņemot vērā Eiropas finanšu uzraudzības sistēmas pārrobežu darbības raksturu, ir tiesības noteikt apdrošināšanas un pārapdrošināšanas jomu regulējošās prasības, kas izriet no EAAPI pieņemtajiem lēmumiem, pamatnostādnēm un ieteikumiem.
+(7) Komisija nosaka tai iesniedzamo informāciju un dokumentus, kas nepieciešami apdrošināšanas sabiedrības, ārvalsts apdrošinātāja filiāles un pārapdrošināšanas sabiedrības uzraudzības veikšanai, tajā skaitā šajā likumā paredzēto atļauju un saskaņojumu saņemšanai.
