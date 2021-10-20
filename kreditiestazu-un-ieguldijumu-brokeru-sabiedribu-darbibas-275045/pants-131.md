@@ -1,4 +1,4 @@
-131.pants. (1) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana neaptur tā darbību. Finanšu un kapitāla tirgus komisijas administratīvais akts par krīzes vadības pasākumu piemērošanu ir nekavējoties izpildāms.
+131.pants. (1) Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta apstrīdēšana un pārsūdzēšana neaptur tā darbību. Finanšu un kapitāla tirgus komisijas administratīvais akts par krīzes vadības pasākumu piemērošanu ir nekavējoties izpildāms.
 (2) Finanšu un kapitāla tirgus komisijas administratīvo aktu var pārsūdzēt Administratīvajā apgabaltiesā. Administratīvā apgabaltiesa lietu izskata ārpus kārtas.
 (3) Pieteicējs norāda pieteikuma pamatojumu. Pierādīšanas pienākums ir administratīvā procesa dalībniekiem.
 (4) Par Administratīvās apgabaltiesas nolēmumu var iesniegt kasācijas sūdzību. Augstākā tiesa lietu izskata ārpus kārtas.
