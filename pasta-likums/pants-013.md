@@ -5,7 +5,7 @@
 3) nodrošināt lietotāju datu aizsardzību saskaņā ar normatīvajiem aktiem datu aizsardzības jomā;
 4) izpildīt vispārējās atļaujas noteikumus;
 5) samaksāt saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem" valsts nodevu par sabiedrisko pakalpojumu regulēšanu;
-6) samaksāt valsts nodevu tīro izmaksu kompensēšanai saskaņā ar šā likuma 31.² panta pirmo daļu;
+6) (izslēgts ar 21.10.2021. likumu);
 7) nodrošināt pasta sūtījumu noslēpumu un glabātās informācijas konfidencialitāti;
 8) nodrošināt publiski pieejamu informāciju par sniegto pasta pakalpojumu tarifiem un pasta sūtījumu piegādes nosacījumiem;
 9) sniegt informāciju par pasta pakalpojumu rādītājiem šajā likumā noteiktajām institūcijām, kas nodrošina valsts pārvaldi un uzraudzību pasta nozarē;

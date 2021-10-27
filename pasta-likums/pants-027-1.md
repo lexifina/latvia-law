@@ -1,5 +1,5 @@
 27.¹ pants. Universālā pasta pakalpojuma saistību noteikšana
-(1) Pasta komersantam, kurš šajā likumā noteiktajā kārtībā izraudzīts par universālā pasta pakalpojuma sniedzēju, Regulators nosaka universālā pasta pakalpojuma saistības, kuras paredz skaidri formulētas, nediskriminējošas un proporcionālas prasības. Lai stimulētu efektīvu universālā pasta pakalpojuma sniegšanu, universālā pasta pakalpojuma saistības paredz vismaz šādus nosacījumus:
+(1) Pasta komersantam, kurš šajā likumā noteiktajā kārtībā izraudzīts par universālā pasta pakalpojuma sniedzēju, Regulators nosaka universālā pasta pakalpojuma saistības, kuras ietver pienākumu sniegt šā likuma 27. panta pirmajā daļā noteiktos pakalpojumus, uzskaitot tos katru atsevišķi, kā arī paredz skaidri formulētas, nediskriminējošas un proporcionālas prasības. Lai stimulētu efektīvu universālā pasta pakalpojuma sniegšanu, universālā pasta pakalpojuma saistības paredz vismaz šādus nosacījumus:
 1) kvalitātes prasības attiecībā uz pasta sūtījumu savākšanu, šķirošanu, pārvadāšanu un piegādi (biežumu, ātrumu, regularitāti);
 2) kvalitātes prasības attiecībā uz pasta pakalpojumu sniegšanas vietu un vēstuļu kastīšu izvietojumu un skaitu;
 2¹) kvalitātes prasības abonēto preses izdevumu piegādes pakalpojumiem atbilstoši pakalpojuma specifikai, nepieciešamības gadījumā nosakot atšķirīgas kvalitātes prasības;

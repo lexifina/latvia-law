@@ -1,0 +1,1 @@
+27. Regulators līdz 2022. gada 31. martam izdod šā likuma 30. panta trešajā daļā minēto metodiku. Līdz šā likuma 30. panta trešajā daļā minētās metodikas spēkā stāšanās dienai piemēro Regulatora 2013. gada 11. oktobra lēmumu Nr. 1/29 "Universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķināšanas un noteikšanas metodika", ciktāl tas nav pretrunā ar šo likumu.

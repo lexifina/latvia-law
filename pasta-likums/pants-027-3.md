@@ -1,8 +1,0 @@
-27.³ pants. Universālajam pasta pakalpojumam pielīdzināms pakalpojums
-(1) Pasta pakalpojumu, kurš nav universālais pasta pakalpojums un kuru sniedz visā Latvijas Republikas teritorijā vai tās daļā, var uzskatīt par pielīdzināmu universālajam pasta pakalpojumam vai tā daļai, ja, vērtējot šo pakalpojumu pēc būtības un pēc sniegtā pakalpojuma pazīmēm, no lietotāju viedokļa šis pasta pakalpojums neatbilst šā likuma 20.pantā noteiktajiem eksprespastu un šā likuma 21.pantā noteiktajiem kurjerpastu raksturojošiem kritērijiem, bet atbilst vismaz vienai no šādām universālā pasta pakalpojuma vai tā daļas pazīmēm:
-1) tiek savākti un piegādāti vēstuļu korespondences sūtījumi, kuru svars nepārsniedz divus kilogramus;
-2) tiek savāktas un piegādātas iekšzemes pasta pakas, kuru svars nepārsniedz 10 kilogramus;
-3) tiek piegādātas no trešajām valstīm saņemtās pasta pakas, kuru svars nepārsniedz 10 kilogramus;
-4) tiek piegādātas no citām Eiropas Savienības valstīm saņemtās pasta pakas, kuru svars nepārsniedz 20 kilogramus.
-(2) Ja pasta komersants neveic pasta paku svara uzskaiti un tā sniegtie pasta pakalpojumi neatbilst šā panta pirmajā daļā minētajiem kritērijiem, par universālajam pasta pakalpojumam pielīdzināmiem pakalpojumiem uzskata visu šā pasta komersanta veikto pasta paku savākšanu un piegādi.
-(3) Universālā pasta pakalpojuma sniedzējs un visi komersanti, kuri sniedz universālajam pasta pakalpojumam pielīdzināmus pakalpojumus, atbilstoši šajā likumā noteiktajam nodrošina atsevišķu iekšējās grāmatvedības uzskaiti universālā pasta pakalpojuma un universālajam pasta pakalpojumam pielīdzināmo pakalpojumu sniegšanai. Šī atsevišķā uzskaite iekšēji nodalāma no pārējās grāmatvedības uzskaites.

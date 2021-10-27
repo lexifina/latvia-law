@@ -39,7 +39,7 @@ Likumā ir lietoti šādi termini:
 34) sūtītājs - privātpersona vai publiskas personas institūcija, kura uz pasta sūtījuma norādījusi sevi par pasta sūtījuma nosūtītāju;
 35) šķirošana - savākto pasta sūtījumu šķirošana pēc pasta komersanta noteiktajiem parametriem, sagatavojot tos tālākai piegādei adresātiem;
 36) (izslēgts ar 20.06.2018. likumu);
-37) universālais pasta pakalpojums - minimālais noteiktas kvalitātes pasta pakalpojumu kopums, kas pieejams visiem lietotājiem visā Latvijas Republikas teritorijā neatkarīgi no to ģeogrāfiskās atrašanās vietas;
+37) universālais pasta pakalpojums - minimālais noteiktas kvalitātes pasta pakalpojumu kopums ar vispārēju tautsaimniecisku nozīmi, kas pieejams visiem lietotājiem visā Latvijas Republikas teritorijā neatkarīgi no to ģeogrāfiskās atrašanās vietas;
 37¹) universālā pasta pakalpojuma sniedzējs - šajā likumā noteiktajā kārtībā izraudzīts pasta komersants, kas atbilstoši noteiktajām universālā pasta pakalpojuma saistībām sniedz universālo pasta pakalpojumu visā Latvijas Republikas teritorijā;
 38) (izslēgts ar 20.06.2018. likumu);
 39) vēstuļu kastīte - atsevišķa īpaši pasta sūtījumu ievietošanai izgatavota un publiskā vietā novietota kaste, kurā sūtītāji ievieto vienkāršus vēstuļu korespondences sūtījumus to nosūtīšanai adresātam;
