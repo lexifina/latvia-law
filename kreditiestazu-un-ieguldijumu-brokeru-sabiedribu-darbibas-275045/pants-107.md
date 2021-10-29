@@ -7,7 +7,7 @@
 5) izlemj par nepieciešamību izveidot grupas noregulējuma plānu un vienojas par minētā noregulējuma plāna piemērošanu;
 6) koordinē sabiedrības informēšanu par grupas noregulējuma stratēģiju un plāniem;
 7) koordinē grupas noregulējumam nepieciešamo finansēšanas mehānismu izmantošanu;
-8) nosaka prasību minimumu grupai konsolidētā un meitas sabiedrību līmenī;
+8) nosaka minimālo pašu kapitāla un atbilstošo saistību prasību grupai konsolidētā un meitas sabiedrību līmenī;
 9) apspriež citus jautājumus saistībā ar grupas noregulējumu.
 (3) Noregulējuma kolēģijas sastāvā ietilpst:
 1) grupas līmeņa noregulējuma iestāde;
@@ -18,7 +18,7 @@
 6) kompetentās ministrijas;
 7) iestādes, kas ir atbildīgas par noguldījumu garantiju sistēmu dalībvalstīs, kuru noregulējuma iestādes ir noregulējuma kolēģijas locekles;
 8) Eiropas Banku iestāde (bez balsstiesībām lēmumu pieņemšanā noregulējuma kolēģijas darbības ietvaros);
-9) to ārvalstu noregulējuma iestādes, kurās mātes sabiedrībai vai iestādei, kas veic komercdarbību dalībvalstīs, ir meitas iestāde vai nozīmīga filiāle, ja grupas līmeņa noregulējuma iestāde atzinusi, ka tām ir noteiktas informācijas neizpaušanas prasības, kas ir līdzvērtīgas šā likuma prasībām.
+9) to ārvalstu noregulējuma iestādes, kurās mātes sabiedrībai vai iestādei, kas veic komercdarbību dalībvalstīs, ir meitas sabiedrība vai nozīmīga filiāle, ja grupas līmeņa noregulējuma iestāde atzinusi, ka tām ir noteiktas informācijas neizpaušanas prasības, kas ir līdzvērtīgas šā likuma prasībām.
 (4) Ja Finanšu un kapitāla tirgus komisija ir grupas līmeņa noregulējuma iestāde, tā ir noregulējuma kolēģijas priekšsēdētāja un tai ir šādas tiesības:
 1) pēc iepriekšējas apspriešanās ar citām noregulējuma iestādēm izvirzīt rakstveida noteikumus un procedūras noregulējuma kolēģijas darbībai;
 2) koordinēt visas noregulējuma kolēģijas darbības;

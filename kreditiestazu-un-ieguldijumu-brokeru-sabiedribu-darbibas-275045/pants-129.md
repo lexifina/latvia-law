@@ -1,4 +1,4 @@
-129.pants. (1) Par šā likuma 5., 7., 12., 30. un 103.panta pārkāpumu Finanšu un kapitāla tirgus komisija ir tiesīga piemērot šādas sankcijas:
+129.pants. (1) Par šā likuma 5., 7., 12., 18.¹, 30., 65., 76. un 103. panta pārkāpumu Finanšu un kapitāla tirgus komisija ir tiesīga piemērot šādas sankcijas:
 1) sniegt publisku paziņojumu, kurā norāda atbildīgo fizisko personu, iestādi, finanšu sabiedrību, Latvijas Republikā reģistrētu Eiropas Savienības mātes sabiedrību vai citu juridisko personu un pārkāpuma būtību;
 2) (izslēgts ar 23.09.2021. likumu);
 3) (izslēgts ar 23.09.2021. likumu);

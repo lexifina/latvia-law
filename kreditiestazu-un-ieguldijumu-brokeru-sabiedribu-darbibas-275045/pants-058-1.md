@@ -1,0 +1,10 @@
+58.¹ pants. (1) Tādu atbilstīgo saistību pārdevējs, kuras atbilst visiem Regulas Nr. 575/2013 72.a pantā minētajiem nosacījumiem (izņemot nosacījumus attiecībā uz minētās regulas 72.a panta 1. punktu un 72.b panta 3., 4. un 5. punktu), šādas saistības pārdod privātam klientam tikai tad, ja ir izpildīti visi šādi nosacījumi:
+1) pārdevējs ir veicis piemērotības pārbaudi saskaņā ar Finanšu instrumentu tirgus likuma 126.² pantu;
+2) pārdevējs, pamatojoties uz šīs daļas 1. punktā minēto pārbaudi, ir pārliecinājies, ka šādas atbilstīgās saistības ir piemērotas attiecīgajam privātajam klientam;
+3) pārdevējs piemērotību dokumentē saskaņā ar Finanšu instrumentu tirgus likuma 128. panta vienpadsmito, 11.¹ un 11.² daļu.
+(2) Ja šā panta pirmajā daļā minētie nosacījumi ir izpildīti un attiecīgā privātā klienta finanšu portfelis pirkuma brīdī nepārsniedz 500 000 euro, pārdevējs, pamatojoties uz informāciju, ko privātais klients sniedz saskaņā ar šā panta trešo daļu, nodrošina, ka iegādes laikā ir izpildīti abi šādi nosacījumi:
+1) privātais klients neiegulda kopējo summu, kas pārsniedz 10 procentus no finanšu instrumentu portfeļa saistībām, kas minētas šā panta pirmajā daļā;
+2) sākotnējo ieguldījumu apjoms, kas ieguldīts vienā vai vairākos saistību instrumentos, kuri minēti šā panta pirmajā daļā, ir vismaz 10 000 euro.
+(3) Privātais klients pārdevējam sniedz patiesu informāciju par savu finanšu instrumentu portfeli, tostarp par jebkādiem šā panta pirmajā daļā minētajiem ieguldījumiem saistībās.
+(4) Šā panta otrās un trešās daļas noteikumiem atbilstošs privātā klienta finanšu instrumentu portfelis ietver skaidras naudas noguldījumus un finanšu instrumentus, bet tajā neietilpst nekādi finanšu instrumenti, kas izmantojami kā nodrošinājums.
+(5) Latvijas Republikā reģistrētas iestādes vai finanšu sabiedrības, uz kurām attiecas šā likuma 60.² pantā minētā prasība un kuru kopējo aktīvu vērtība nepārsniedz 50 miljardus euro, ievēro tikai šā panta otrās daļas 2. punktā minēto noteikumu.

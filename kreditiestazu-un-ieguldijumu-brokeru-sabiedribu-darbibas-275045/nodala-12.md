@@ -1,2 +1,2 @@
 XII nodaļa
-Kapitāla instrumentu norakstīšana un konvertēšana
+Kapitāla instrumentu un atbilstīgo saistību norakstīšana un konvertēšana

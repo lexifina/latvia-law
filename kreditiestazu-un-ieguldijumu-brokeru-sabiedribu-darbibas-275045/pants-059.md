@@ -1,9 +1,8 @@
-59.pants. (1) Iestāde pastāvīgi nodrošina minimālo pašu kapitāla un atbilstīgo saistību prasības izpildi. Minimālo pašu kapitāla un atbilstīgo saistību prasību aprēķina kā pašu kapitāla un atbilstīgo saistību kopsummu, kas izteikta kā procentuālā daļa no iestādes saistību, kapitāla un rezervju kopsummas, ievērojot, ka atvasināto instrumentu saistības iekļauj saistību kopsummā, pilnībā atzīstot līgumā par atvasinātajiem instrumentiem paredzētās līgumslēdzēja puses (darījuma partnera) ieskaita tiesības.
-(2) Atbilstīgās saistības iekļauj šā panta pirmajā daļā minētajā pašu kapitāla un atbilstīgo saistību kopsummā tikai tad, ja tiek ievēroti visi šādi nosacījumi:
-1) tās ir emitētas vai piesaistītas un pilnībā apmaksātas;
-2) tās nav radušās attiecībā uz iestādi, un iestāde tās nenodrošina vai negarantē;
-3) iestāde nav finansējusi to iegādi;
-4) to izpildei atlikušais termiņš ir vismaz viens gads. Ja īpašniekam ir tiesības uz pirmstermiņa atmaksu, saistību izpildes termiņš ir pirmā diena, kad šādas tiesības rodas;
-5) tās neizriet no atvasinātā instrumenta;
-6) tās neizriet no noguldījuma, kuram paredzēta pirmās vai otrās kārtas prioritāte maksātnespējas procesa kreditoru prasījumu apmierināšanas kārtībā.
-(3) Ja saistības regulē ārvalsts tiesību akti, Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt, lai iestāde pierāda, ka ikviens Finanšu un kapitāla tirgus komisijas lēmums norakstīt vai konvertēt minētās saistības atbilst ārvalsts tiesību aktos paredzētajām līdzvērtīgām darbībām attiecībā uz saistību norakstīšanu vai konvertēšanu, ņemot vērā saistības regulējošā līguma noteikumus, starptautiskos nolīgumus par noregulējuma procedūru atzīšanu un citu saistošo normatīvo aktu noteikumus. Ja Finanšu un kapitāla tirgus komisija nav guvusi pārliecību, ka ikviens tās lēmums atbilst ārvalsts tiesību aktos paredzētajām līdzvērtīgām darbībām attiecībā uz saistību norakstīšanu vai konvertēšanu, saistības neiekļauj minimālās pašu kapitāla un atbilstīgo saistību prasības izpildes aprēķinā.
+59. pants. (1) Iestādes un finanšu sabiedrības pastāvīgi nodrošina minimālās pašu kapitāla un atbilstīgo saistību prasības izpildi saskaņā ar šo pantu un šā likuma 59.¹, 60., 60.¹, 60.², 61., 62., 63., 63.¹, 63.², 63.³, 64. un 65. pantu.
+(2) Minimālo pašu kapitāla un atbilstīgo saistību prasību aprēķina saskaņā ar šā likuma 60. pantu kā pašu kapitāla un atbilstīgo saistību summu un izsaka procentos no:
+1) iestādes un finanšu sabiedrības kopējās riska darījumu vērtības, ko aprēķina saskaņā ar Regulas Nr. 575/2013 92. panta 3. punktu;
+2) iestādes un finanšu sabiedrības kopējās riska darījumu vērtības mēra, ko aprēķina saskaņā ar Regulas Nr. 575/2013 429. un 429.a pantu.
+(3) Finanšu un kapitāla tirgus komisija atbrīvo hipotekāro kredītu iestādes, kuras tiek finansētas ar segtām obligācijām un kurām saskaņā ar Latvijas Republikas tiesību aktiem nav atļauts pieņemt noguldījumus, no minimālās pašu kapitāla un atbilstīgo saistību prasības, ja ir izpildīti šādi nosacījumi:
+1) iestādes tiks likvidētas Kredītiestāžu likumā vai Finanšu instrumentu tirgus likumā, vai šā likuma 48., 50. vai 52. pantā noteiktajā kārtībā;
+2) šīs daļas 1. punktā minētā nosacījuma izpilde nodrošina, ka iestāžu kreditori, tostarp segto obligāciju turētāji, sedz zaudējumus tādā apmērā, kas atbilst noregulējuma mērķiem.
+(4) Hipotekāro kredītu iestādes, kas atbrīvotas no minimālās pašu kapitāla un atbilstīgo saistību prasības, neietilpst šā likuma 60.² panta pirmajā daļā minētajā konsolidācijā.

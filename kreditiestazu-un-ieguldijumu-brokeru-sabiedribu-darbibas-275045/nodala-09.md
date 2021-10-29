@@ -1,2 +1,2 @@
 IX nodaļa
-Uzņēmuma pārdošanas noregulējuma instruments
+Uzņēmuma pārdošanas instruments

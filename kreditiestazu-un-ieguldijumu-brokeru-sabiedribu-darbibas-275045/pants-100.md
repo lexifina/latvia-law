@@ -1,5 +1,5 @@
 100.pants. (1) Veicot šā likuma 98.pantā minētās darbības, Finanšu un kapitāla tirgus komisija:
-1) nenodod tādus aktīvus, ar kuriem ir nodrošinātas saistības, ja vien nenodod arī minētās saistības un ienākumus, kas gūti no nodrošinājuma;
+1) nodod tādus aktīvus, ar kuriem ir nodrošinātas saistības, ja vien nodod arī minētās saistības un ienākumus, kas gūti no nodrošinājuma;
 2) nenodod nodrošinātās saistības, ja vien nenodod arī ienākumus, kas gūti no nodrošinājuma;
 3) nenodod ienākumus no nodrošinājuma, ja vien nenodod arī nodrošinātās saistības;
 4) negroza vai neizbeidz nodrošinājuma līgumus, ja grozīšanas vai izbeigšanas dēļ saistības vairs nebūtu nodrošinātas.

@@ -1,13 +1,7 @@
-65.pants. (1) Finanšu un kapitāla tirgus komisija ir tiesīga pilnībā atbrīvot Latvijas Republikā reģistrētu Eiropas Savienības mātes iestādi no minimālās pašu kapitāla un atbilstīgo saistību prasības ievērošanas individuāli, ja vienlaikus ir ievērotas šādas prasības:
-1) Latvijas Republikā reģistrētas Eiropas Savienības mātes iestāde ievēro saskaņā ar šā likuma 61.panta pirmo daļu noteikto minimālo prasību konsolidācijas līmenī;
-2) Finanšu un kapitāla tirgus komisija ir pilnībā atbrīvojusi Latvijas Republikā reģistrētu Eiropas Savienības mātes iestādi no kapitāla prasību ievērošanas individuāli saskaņā ar Regulas Nr. 575/2013 7.panta 3.punktu.
-(2) Finanšu un kapitāla tirgus komisija kā Latvijas Republikā reģistrētas meitas sabiedrības noregulējuma iestāde ir tiesīga pilnībā atbrīvot minēto meitas sabiedrību no šā likuma 59.panta pirmajā daļā noteikto prasību ievērošanas individuāli, ja vienlaikus tiek ievēroti šādi nosacījumi:
-1) gan meitas sabiedrība, gan tās mātes sabiedrība ir licencēta Latvijas Republikā, un to uzraudzību veic Finanšu un kapitāla tirgus komisija;
-2) meitas sabiedrība ir iekļauta mātes sabiedrības konsolidācijas grupā, savukārt mātes sabiedrība ir pakļauta konsolidētajai uzraudzībai;
-3) Latvijas Republikā reģistrētas meitas sabiedrības mātes iestāde, kas reģistrēta Latvijas Republikā un kas nav Eiropas Savienības mātes iestāde, subkonsolidēti ievēro šā likuma 59.panta pirmajā daļā noteikto minimālo pašu kapitāla un atbilstīgo saistību prasību;
-4) nepastāv un nav paredzami nekādi būtiski praktiski vai juridiski šķēršļi, kas varētu kavēt mātes sabiedrību veikt tūlītēju pašu kapitāla pārvešanu vai saistību atmaksāšanu meitas sabiedrībai;
-5) vai nu mātes sabiedrība izpilda Finanšu un kapitāla tirgus komisijas prasības attiecībā uz meitas sabiedrības pārvaldību un ar Finanšu un kapitāla tirgus komisijas piekrišanu ir paziņojusi, ka garantē meitas sabiedrības saistības, vai arī meitas sabiedrības riski nav būtiski;
-6) meitas sabiedrības risku novērtēšanas un kontroles procedūras ir tādas pašas kā mātes sabiedrības risku novērtēšanas un kontroles procedūras;
-7) mātes sabiedrībai ir vairāk nekā 50 procentu balsstiesību meitas sabiedrībā, vai mātes sabiedrībai ir tiesības iecelt vai atcelt lielāko daļu meitas sabiedrības padomes vai valdes locekļu;
-8) Finanšu un kapitāla tirgus komisija kā Latvijas Republikā reģistrētas meitas sabiedrības uzraudzības institūcija ir pilnībā to atbrīvojusi no individuālo kapitāla prasību ievērošanas saskaņā ar Regulas Nr. 575/2013 7.panta 1.punktu.
-(3) Lēmumi, kas pieņemti saskaņā ar šā likuma prasībām par minimālās pašu kapitāla un atbilstīgo saistību prasības noteikšanu, var paredzēt, ka minimālo pašu kapitāla un atbilstīgo saistību prasību konsolidācijas līmenī vai individuāli izpilda, daļēji izmantojot līgumiskus iekšējās rekapitalizācijas instrumentus.
+65. pants. (1) Visus gadījumus, kad netiek ievērota šā likuma 60.² vai 61. pantā noteiktā minimālā pašu kapitāla un atbilstīgo saistību prasība, Finanšu un kapitāla tirgus komisija risina, izmantojot vismaz vienu no šādiem līdzekļiem:
+1) īstenojot tiesības risināt vai novērst noregulējamības šķēršļus saskaņā ar šā likuma 20., 21. un 22. pantu;
+2) īstenojot šā likuma 18.¹ pantā minētās tiesības;
+3) īstenojot pasākumus, kas minēti Kredītiestāžu likuma 36.³ panta ceturtajā daļā, 101.³ panta 4.⁴, 4.⁵, 4.⁶ daļā un 4.⁷ daļas 2. punktā;
+4) īstenojot agrīnas intervences pasākumus saskaņā ar šā likuma 33. pantu;
+5) piemērojot sankcijas saskaņā ar šā likuma 129. panta pirmo daļu vai administratīvos pasākumus saskaņā ar 129. panta otro daļu.
+(2) Finanšu un kapitāla tirgus komisija saskaņā ar šā likuma 39., 39.¹ vai 40. pantu var veikt novērtējumu par to, vai iestādes un finanšu sabiedrības kļūst vai, iespējams, kļūs maksātnespējīgas.

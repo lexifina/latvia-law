@@ -1,7 +1,8 @@
 11.pants. (1) Pēc tam, kad Finanšu un kapitāla tirgus komisija ir konsultējusies ar noregulējuma iestādēm to dalībvalstu teritorijās, kurās atrodas nozīmīgas filiāles, tā izstrādā noregulējuma plānu katrai iestādei, kura neietilpst grupā, uz kuru attiecas konsolidētā uzraudzība. Noregulējuma plānā tiek paredzētas noregulējuma darbības, kuras noregulējuma iestāde var veikt, ja iestāde atbilst noregulējuma veikšanas nosacījumiem. Finanšu un kapitāla tirgus komisija sniedz iestādei informāciju par šā panta sestās daļas 1. punktā minēto kopsavilkumu.
 (2) Noregulējuma plānā paredz vairākus variantus, kā arī to, ka maksātnespējas gadījums var būt ļoti specifisks vai ka tas var rasties visa finanšu sektora nestabilitātes gadījumā. Noregulējuma plānu izstrādā, tajā neparedzot valsts atbalstu un ārkārtas likviditātes palīdzību.
 (3) Noregulējuma plānā iestāde norāda aktīvus, kurus kvalificē kā nodrošinājumu, piesakoties dalībvalsts centrālās bankas palīdzībai.
-(4) Iestādēm ir pienākums sniegt Finanšu un kapitāla tirgus komisijai nepieciešamo informāciju par noregulējuma plānu izstrādi un aktualizēšanu. Noregulējuma plānu pārskata reizi gadā un aktualizē katru reizi, kad iestādes juridiskajā formā vai organizatoriskajā struktūrā, komercdarbībā vai finanšu stāvoklī notikušas būtiskas izmaiņas, kuras varētu būtiski ietekmēt plāna efektivitāti vai kuru dēļ noregulējuma plānā nepieciešamas izmaiņas.
+(4) Noregulējuma plānu pārskata reizi gadā un aktualizē katru reizi, kad iestādes juridiskajā formā vai organizatoriskajā struktūrā, komercdarbībā vai finanšu stāvoklī notikušas būtiskas izmaiņas, kuras varētu būtiski ietekmēt plāna efektivitāti vai kuru dēļ noregulējuma plānā nepieciešamas izmaiņas.
+(4¹) Pēc noregulējuma darbības piemērošanas vai šā likuma 53. pantā minēto tiesību īstenošanas Finanšu un kapitāla tirgus komisija pārskata noregulējuma plānu.
 (5) Iestāde nekavējoties informē Finanšu un kapitāla tirgus komisiju par jebkādām izmaiņām, kas rada nepieciešamību izdarīt grozījumus noregulējuma plānā.
 (6) Noregulējuma plānā tiek paredzēta iespēja noregulējuma instrumentu un noregulējuma tiesību piemērošanai attiecībā uz iestādi. Noregulējuma plānā iekļauj:
 1) plāna galveno elementu kopsavilkumu;
@@ -15,13 +16,14 @@
 9) Finanšu un kapitāla tirgus komisijas skaidrojumu par noregulējuma finansēšanas iespējām, nesniedzot valsts atbalstu un ārkārtas likviditātes palīdzību;
 10) detalizētu aprakstu par dažādām noregulējuma stratēģijām, ko varētu piemērot iespējamo risinājuma variantu gadījumos, un izpildes grafikus;
 11) aprakstu par iestādes svarīgām savstarpējām saistībām ar citām iestādēm;
-12) aprakstu par iespējām saglabāt piekļuvi maksājumiem un klīringa pakalpojumu infrastruktūrām, kā arī citām infrastruktūrām un klientu pozīciju pārnesamības novērtējumu;
+12) aprakstu par iespējām saglabāt piekļuvi maksājumiem un tīrvērtes pakalpojumu infrastruktūrām, kā arī citām infrastruktūrām un klientu pozīciju pārnesamības novērtējumu;
 13) analīzi par plāna ietekmi uz iestādes darbiniekiem, tostarp jebkādu saistīto izmaksu novērtējumu, un aprakstu par procedūrām, kas paredzētas apspriedēm ar darbiniekiem noregulējuma gaitā;
 14) plānu saziņai ar plašsaziņas līdzekļiem un sabiedrību;
-15) minimālo pašu kapitāla un atbilstīgo saistību prasības apmēru un termiņu minētā apmēra sasniegšanai;
-16) pašu kapitāla un līgumisko iekšējās rekapitalizācijas instrumentu minimālo apmēru, ja tādi paredzēti, un termiņu minētā apmēra sasniegšanai;
+15) šā likuma 60.² un 61. pantā minētās minimālās pašu kapitāla un atbilstīgo saistību prasības un termiņu minēto prasību sasniegšanai;
+16) termiņu, kādu šā likuma 59.¹ panta septītās, astotās, devītās, desmitās, vienpadsmitās, divpadsmitās, trīspadsmitās vai četrpadsmitās daļas prasību izpildei ir noteikusi Finanšu un kapitāla tirgus komisija;
 17) aprakstu par pasākumiem iestādes operacionālo procesu nepārtrauktas darbības nodrošināšanai;
 18) iestādes viedokli par noregulējuma plānu, ja tāds saņemts.
+(6¹) Nosakot šā panta sestās daļas 15. un 16. punktā minētos termiņus, Finanšu un kapitāla tirgus komisija ņem vērā termiņu, kādā nodrošināma Kredītiestāžu likuma 101.¹⁷ panta prasību izpilde.
 (7) Finanšu un kapitāla tirgus komisijai ir tiesības prasīt, lai iestāde un finanšu sabiedrība uztur detalizētu finanšu līgumu dokumentāciju. Finanšu un kapitāla tirgus komisija ir tiesīga noteikt termiņu, kurā iestāde un finanšu sabiedrība uzrāda ar finanšu līgumiem saistīto dokumentāciju. Finanšu un kapitāla tirgus komisija var noteikt atšķirīgus termiņus dažādiem finanšu līgumu veidiem.
 (7¹) Ja Finanšu un kapitāla tirgus komisijas izstrādātajā iestādes noregulējuma plānā paredzēta iekšējās rekapitalizācijas instrumenta piemērošana, iestāde identificē tādus iestādes vai finanšu sabiedrības klientus - komercsabiedrības, kas pārsniedz Regulas Nr. 651/2014 I pielikumā noteikto mazā un vidējā uzņēmuma gada apgrozījuma kritēriju.
 (8) Finanšu un kapitāla tirgus komisija nekavējoties nosūta noregulējuma plānu iesaistītajām citu dalībvalstu noregulējuma iestādēm.
