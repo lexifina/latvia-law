@@ -1,1 +1,1 @@
-7.pants. Viens un tas pats dalībnieks var darboties kā centrālais darījumu starpnieks, norēķinu aģents vai klīringa centrs vai veikt daļu no šo dalībnieku uzdevumiem vai visus šo dalībnieku uzdevumus, ja tāda iespēja paredzēta sistēmas noteikumos.
+7.pants. Viens un tas pats dalībnieks var darboties kā centrālais darījumu partneris, norēķinu aģents vai tīrvērtes centrs vai veikt daļu no šo dalībnieku uzdevumiem vai visus šo dalībnieku uzdevumus, ja tāda iespēja paredzēta sistēmas noteikumos.

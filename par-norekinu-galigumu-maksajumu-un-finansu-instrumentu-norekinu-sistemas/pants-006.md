@@ -1,2 +1,0 @@
-6.pants. (1) Komisija par dalībnieku šā likuma 1.panta pirmās daļas 6.punkta izpratnē var noteikt arī netiešo dalībnieku, ja šādu lēmumu pamato sistēmiskais risks.
-(2) Ja šā panta pirmajā daļā paredzētajā gadījumā netiešais dalībnieks noteikts par dalībnieku, tas neatbrīvo no atbildības par saistību izpildi to dalībnieku, ar kura starpniecību netiešais dalībnieks nodod sistēmai izpildei pārveduma rīkojumus.
