@@ -79,7 +79,7 @@ c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta
 50) kompetentas institūcijas - valsts pārvaldes institūcijas, tiesas, likvidatori, administratori un citas institūcijas vai personas, kuras atbilstoši savām likumos noteiktajām pilnvarām lemj par reorganizācijas pasākumiem vai likvidāciju, veic reorganizācijas pasākumus vai likvidāciju vai uzrauga reorganizācijas pasākumu vai likvidācijas norisi;
 51) reorganizācijas pasākumi - tiesiska rakstura darbības, kas varētu ietekmēt trešo personu tiesības un kas tiek veiktas, lai saglabātu vai atjaunotu kredītiestādes, tai skaitā tās filiāles, maksātspēju;
 52) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
-53) prasījumu un saistību neto ieskaits - pirms parādnieka likvidācijas uzsākšanas vai likumā noteiktajā kārtībā atzītas maksātnespējas iestāšanās starp parādnieku un kreditoru uz rakstveida līguma pamata nodibinātas tiesiskas attiecības no savstarpējiem līgumiem izrietošo prasījumu un saistību izteikšanai vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un jāizpilda tikai viena saistība;
+53) (izslēgts ar 30.09.2021. likumu);
 54) prasījumu un saistību dzēšana - prasījumu un saistību savstarpēja izteikšana vienā prasībā vai saistībā tā, ka tiek celta tikai viena prasība un izpildāma tikai viena saistība;
 55) (izslēgts ar 16.05.2013. likumu);
 56) ārvalsts valūta - jebkura valūta, izņemot euro;
@@ -130,4 +130,4 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 5) iesaistītā valsts - terminam "uzņēmēja dalībvalsts" ES regulas Nr. 575/2013 4.panta 1.punkta 44.apakšpunkta izpratnē;
 6) uzraudzības institūcija - terminam "kompetentā iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 40.apakšpunkta izpratnē;
 7) konsolidētās uzraudzības institūcija - terminam "konsolidētās uzraudzības iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 41.apakšpunkta izpratnē.
-(4) Likumā lietotais termins "jaukta finanšu pārvaldītājsabiedrība" atbilst Finanšu konglomerātu likumā lietotajam terminam.
+(4) Likumā lietotais termins "jaukta finanšu pārvaldītājsabiedrība" atbilst Finanšu konglomerātu likumā lietotajam terminam, bet termins "izslēdzošais ieskaits" -- Kvalificētajiem finanšu darījumiem piemērojamā izslēdzošā ieskaita likumā lietotajam terminam.
