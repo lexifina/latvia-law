@@ -13,3 +13,6 @@
 5) Latvijas un citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu publiskās apgrozības parāda vērtspapīriem;
 6) aizņēmumiem, kuri tieši vai netieši saņemti no valsts finansēšanas, ārējās tirdzniecības kreditēšanas vai garantēšanas organizācijas, kas ir tādas valsts rezidents, ar kuru Latvija ir noslēgusi konvenciju par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu, ja attiecīgā konvencija ir stājusies spēkā, vai kas ir īpaši norādīta konkrētajā konvencijā par nodokļu dubultās uzlikšanas un nodokļu nemaksāšanas novēršanu;
 7) aizņēmumiem, kas saņemti nacionālās nozīmes ilgtermiņa publiskās infrastruktūras projekta finansēšanai Latvijā.
+(6) Šā panta piektās daļas 1. punktā noteikto ir tiesības piemērot arī attiecībā uz procentu maksājumiem, kas veikti kredītiestādei piederošai segto obligāciju sabiedrībai, kura izveidota un darbojas saskaņā ar Segto obligāciju likumu.
+(7) Šā panta pirmo, trešo un ceturto daļu nepiemēro Latvijas kredītiestādei vai citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts kredītiestādes Latvijā reģistrētai pastāvīgajai pārstāvniecībai.
+(8) Šā panta septītā daļa ir piemērojama arī kredītiestādei piederošai segto obligāciju sabiedrībai, kas izveidota un darbojas saskaņā ar Segto obligāciju likumu.
