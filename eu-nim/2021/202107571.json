@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 30. septembra likums \"Grozījumi likumā \"Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "200",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-15",
+  "entry_into_force": "2021-10-29",
+  "notification_date": "2021-11-12",
+  "commission_reference": "MNE(2021)07571",
+  "nim_celex": "72019L0879LVA_202107571",
+  "nim_id": "202107571",
+  "transposes_celex": [
+    "32019L0879"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2f98a33c-4b72-11ec-91ac-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
