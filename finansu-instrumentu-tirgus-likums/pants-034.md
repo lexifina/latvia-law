@@ -9,5 +9,6 @@
 7) regulētā tirgus organizētājs nav uzsācis darbību 12 mēnešu laikā kopš licences izsniegšanas dienas;
 8) regulētā tirgus organizētājs nav veicis licencē norādīto darbību ilgāk par sešiem mēnešiem;
 9) tiek konstatēts, ka regulētā tirgus organizētājs vairs neatbilst šajā likumā noteiktajām prasībām licences saņemšanai;
-10) tiek konstatēts, ka regulētā tirgus organizētāja akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.
+10) tiek konstatēts, ka regulētā tirgus organizētāja akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus;
+11) pieņemts lēmums neveikt noregulējuma darbību attiecībā uz regulētā tirgus organizētāju.
 (2) Komisija informē Eiropas Vērtspapīru un tirgu iestādi, ka licence regulētā tirgus organizēšanai ir anulēta.
