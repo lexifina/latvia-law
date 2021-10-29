@@ -1,0 +1,1 @@
+1. pants. 2021. gada 1. aprīlī parakstītais Uzņemošās valsts līgums starp Latvijas Republikas valdību un Ziemeļu dimensijas Kultūras partnerības sekretariātu (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
