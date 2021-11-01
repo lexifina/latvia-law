@@ -1,0 +1,1 @@
+63. Uz šā likuma pamata līdz Latvijas Bankas likuma spēkā stāšanās dienai izdotie Finanšu un kapitāla tirgus komisijas normatīvie noteikumi un ieteikumi piemērojami līdz dienai, kad stājas spēkā attiecīgie Latvijas Bankas noteikumi un ieteikumi, bet ne ilgāk kā līdz 2024. gada 31. decembrim.
