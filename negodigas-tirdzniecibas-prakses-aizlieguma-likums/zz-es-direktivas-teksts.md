@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/633 par negodīgu tirdzniecības praksi starpuzņēmumu attiecībās lauksaimniecības un pārtikas piegādes ķēdē.
