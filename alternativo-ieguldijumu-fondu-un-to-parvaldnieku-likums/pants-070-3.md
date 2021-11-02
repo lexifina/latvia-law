@@ -1,0 +1,2 @@
+70.³ pants. Trešo personu veikta pirmsizplatīšana
+Latvijā licencēta pārvaldnieka vārdā veikt pirmsizplatīšanu ir tiesīga tikai tāda trešā persona, kas ir dalībvalstī licencēta ieguldījumu brokeru sabiedrība, kredītiestāde, ieguldījumu pārvaldes sabiedrība, fonda pārvaldnieks vai piesaistītais aģents Finanšu instrumentu tirgus likuma izpratnē. Uz trešo personu, kas veic pirmsizplatīšanu, attiecas šā likuma 70.¹ un 70.² pantā noteiktais.

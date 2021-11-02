@@ -10,7 +10,7 @@ c) fonda vērtības un ieguldījumu daļas cenas noteikšana,
 d) fonda darbību regulējošo prasību ievērošanas uzraudzība,
 e) fonda ienākumu sadale,
 f) ieguldījumu daļu emisija un atpakaļpirkšana,
-g) līgumsaistību norēķinu izpilde,
+g) no līgumiem izrietošo saistību norēķinu izpilde,
 h) ar fonda līdzekļiem saistīto darījumu uzskaites kārtošana,
 i) fonda ieguldījumu daļu turētāju reģistra kārtošana;
 2) ieguldījumu daļu izplatīšana;
