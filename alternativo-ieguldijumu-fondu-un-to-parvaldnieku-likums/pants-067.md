@@ -7,5 +7,9 @@
 (6) Pārvaldnieks drīkst sākt fonda ieguldījumu daļu izplatīšanu citā dalībvalstī no Komisijas paziņojuma saņemšanas dienas.
 (7) Pārvaldnieks nodrošina ieguldījumu daļu izplatīšanu tikai profesionālajiem ieguldītājiem pārvaldnieka uzņēmējas dalībvalsts normatīvajos aktos noteiktajā kārtībā un uzraudzībā.
 (8) Šā panta trešajā daļā minēto paziņojumu un ceturtajā daļā minēto apliecinājumu sagatavo valodā, ko lieto starptautisko finanšu jomā.
-(9) Ja pārvaldnieka iesniegtajā informācijā paredzami grozījumi, to iesniegšanai Komisijā un izskatīšanai piemēro šā likuma 66.panta septītajā, astotajā un devītajā daļā noteikto kārtību.
-(10) Ja grozījumi dokumentos neietekmē fonda un pārvaldnieka darbību atbilstoši šā likuma prasībām, Komisija informē pārvaldnieka un fonda uzraudzības institūciju par izdarītajiem grozījumiem šā panta ceturtajā un piektajā daļā noteiktajā kārtībā.
+(9) Pārvaldnieks rakstveidā paziņo Komisijai par grozījumiem šā panta trešajā daļā minētajā informācijā un dokumentos:
+1) vismaz 30 dienas pirms grozījumu izdarīšanas;
+2) nekavējoties, ja grozījumi bijuši neplānoti un par to izdarīšanu nav paziņots Komisijai.
+(10) Informāciju un dokumentus, kas sniegti saskaņā ar šā panta devītās daļas 1. punktu, Komisija izskata 15 darbdienu laikā. Ja informācijas un dokumentu izskatīšanas gaitā tiek konstatēts, ka plānoto grozījumu dēļ pārvaldnieka veiktā fonda pārvalde vai pats pārvaldnieks vairs neatbildīs šā likuma prasībām, Komisija par to paziņo pārvaldniekam un informē pārvaldnieka uzņēmējas dalībvalsts uzraudzības institūciju.
+(11) Komisija nekavējoties informē pārvaldnieka uzņēmējas dalībvalsts uzraudzības institūciju par sankcijām un uzraudzības pasākumiem, kas piemēroti pārvaldniekam sakarā ar to, ka neatkarīgi no šā panta desmitajā daļā minētā Komisijas paziņojuma saņemšanas informācijā un dokumentos ir izdarīti grozījumi, kuru dēļ pārvaldnieka veiktā fonda pārvalde vai pats pārvaldnieks vairs neatbilst šā likuma prasībām.
+(12) Ja šā panta trešajā daļā minētajā informācijā un dokumentos grozījumi ir izdarīti, bet tie neietekmē pārvaldnieka veiktās fonda pārvaldes vai paša pārvaldnieka atbilstību šā likuma prasībām, Komisija 30 dienu laikā informē pārvaldnieka uzņēmējas dalībvalsts uzraudzības institūciju par izdarītajiem grozījumiem.
