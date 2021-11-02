@@ -14,4 +14,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 13) Komisijas 2010.gada 1.jūlija direktīvas 2010/43/ES, ar ko īsteno Eiropas Parlamenta un Padomes direktīvu 2009/65/EK attiecībā uz organizatoriskajām prasībām, interešu konfliktiem, profesionālo ētiku, riska pārvaldību un starp depozitāriju un pārvaldības sabiedrību noslēdzamās vienošanās saturu;
 14) (izslēgts ar 25.10.2018. likumu);
 15) Eiropas Parlamenta un Padomes 2014. gada 23. jūlija direktīvas 2014/91/ES, ar ko groza direktīvu 2009/65/EK par normatīvo un administratīvo aktu koordināciju attiecībā uz pārvedamu vērtspapīru kolektīvo ieguldījumu uzņēmumiem (PVKIU) attiecībā uz depozitārija funkcijām, atlīdzības politikas nostādnēm un sankcijām (Dokuments attiecas uz EEZ);
-16) Eiropas Parlamenta un Padomes 2017. gada 17. maija direktīvas (ES) 2017/828, ar ko groza direktīvu 2007/36/EK attiecībā uz akcionāru ilgtermiņa iesaistīšanas veicināšanu.
+16) Eiropas Parlamenta un Padomes 2017. gada 17. maija direktīvas (ES) 2017/828, ar ko groza direktīvu 2007/36/EK attiecībā uz akcionāru ilgtermiņa iesaistīšanas veicināšanu;
+17) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1160, ar ko direktīvas 2009/65/EK un 2011/61/ES groza attiecībā uz kolektīvo ieguldījumu uzņēmumu pārrobežu izplatīšanu.
