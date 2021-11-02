@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 30. septembra likums \"Grozījumi Alternatīvo ieguldījumu fondu un to pārvaldnieku likumā\". Latvijas Vēstnesis, 202, 19.10.2021.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2021/202.1",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-19",
+  "entry_into_force": "2021-11-02",
+  "notification_date": "2021-11-10",
+  "commission_reference": "MNE(2021)07498",
+  "nim_celex": "72019L1160LVA_202107498",
+  "nim_id": "202107498",
+  "transposes_celex": [
+    "32019L1160"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/021f3796-438e-11ec-89db-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
