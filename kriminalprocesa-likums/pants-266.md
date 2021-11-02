@@ -10,4 +10,4 @@
 8) aizturētā sniegto paskaidrojumu.
 (2) Aizturēto iepazīstina ar protokolu, viņam izskaidro aizturētās personas tiesības, un par to viņš parakstās protokolā.
 (3) Izmeklēšanas iestāde aizturēšanas protokolu nekavējoties nodod procesa virzītājam, bet aizturēšanas protokola kopiju 24 stundu laikā nosūta prokuroram.
-(4) Aizturēšanas protokolā izdara atzīmes par turpmākajām darbībām- aizturētā atbrīvošanu vai drošības līdzekļa piemērošanu.
+(4) (Izslēgta ar 07.10.2021. likumu)

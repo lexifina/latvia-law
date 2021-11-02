@@ -7,4 +7,4 @@
 3) prokurors lēmumu pieņēmis interešu konflikta situācijā;
 4) persona ar pretlikumīgu darbību ietekmējusi liecinošās personas sniegt nepatiesas liecības vai citādi viltojusi pierādījumus;
 5) atklāti jauni apstākļi, kuri prokuroram nebija zināmi lēmuma pieņemšanas brīdī un kuri apstiprina, ka persona faktiski izdarījusi smagu vai sevišķi smagu noziegumu, kas šo apstākļu nezināšanas rezultātā kļūdaini kvalificēts kā kriminālpārkāpums vai mazāk smags noziegums.
-(4) Informāciju par kriminālprocesa izbeigšanu, nosacīti atbrīvojot no kriminālatbildības, saglabā Iekšlietu ministrijas Informācijas centrs.
+(4) (Izslēgta ar 07.10.2021. likumu)

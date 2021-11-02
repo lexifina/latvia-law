@@ -23,14 +23,14 @@
 4) nolēmuma rezolutīvo daļu;
 5) laiku, kad nolēmums stājas spēkā, vai norādi, ka nolēmums izpildāms nekavējoties;
 6) kādā daļā nolēmums izpildāms;
-7) tās personas vārdu, uzvārdu, personas kodu un dzīvesvietas adresi, pret kuru veicama piedziņa vai kuras manta konfiscējama, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
-8) tā cietušā vārdu, uzvārdu, personas kodu un dzīvesvietas adresi, kā arī kredītiestādes (finanšu iestādes) konta numuru un rekvizītus, kura kaitējuma kompensācija ir apmierināta, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi, kā arī tās norādīto kredītiestādes (finanšu iestādes) konta numuru un rekvizītus;
+7) to personu identificējošos datus, pret kuru veicama piedziņa vai kuras manta konfiscējama, šīs personas dzīvesvietas adresi, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+8) to cietušo identificējošos datus un dzīvesvietas adresi, kā arī kredītiestādes (finanšu iestādes) konta numuru un rekvizītus, kura kaitējuma kompensācija ir apmierināta, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi, kā arī tās norādīto kredītiestādes (finanšu iestādes) konta numuru un rekvizītus;
 9) informāciju par cietušā pieteikto kaitējuma kompensāciju kriminālprocesā, kas nav pabeigts;
 10) informāciju par to, ka nolēmums nodots izpildei vienlaikus vairākiem zvērinātiem tiesu izpildītājiem;
 11) izpildraksta izsniegšanas laiku.
 (8) Ja vienā spriedumā ietverti vairāki šā panta pirmajā daļā minētie nolēmumi, tiesa katra nolēmuma izpildei izraksta atsevišķu izpildrakstu.
 (9) Prokurora lēmuma vai priekšraksta izrakstu nosūta izpildei kopā ar pavadrakstu un lēmuma vai protokola par aresta uzlikšanu mantai izrakstu, ja šāds protokols ir sastādīts. Pavadrakstā norāda:
-1) tās personas vārdu, uzvārdu, personas kodu un dzīvesvietas adresi, pret kuru veicama piedziņa vai kuras manta konfiscējama, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
+1) to personu identificējošos datus un dzīvesvietas adresi, pret kuru veicama piedziņa vai kuras manta konfiscējama, bet juridiskajai personai - tās nosaukumu, reģistrācijas numuru un juridisko adresi;
 2) informāciju par to, ka nolēmums nodots izpildei vienlaikus vairākiem zvērinātiem tiesu izpildītājiem;
 3) laiku, kad prokurora lēmums vai priekšraksts stājas spēkā.
 (10) Tiesa, šajā pantā noteiktajos gadījumos nosūtot zvērinātam tiesu izpildītājam izpildei izpildrakstu par kaitējuma kompensācijas piedziņu cietušā labā, par to informē cietušo.

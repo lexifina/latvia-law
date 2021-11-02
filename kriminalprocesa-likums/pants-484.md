@@ -1,21 +1,15 @@
-484.pants. Tiesas sēdes gaitas fiksēšana tiesas sēdes protokolā
+484.pants. Tiesas sēdes gaitas fiksēšana rakstveidā
 (1) Tiesas sēdes protokolu raksta tiesas sēdes sekretārs, bet paraksta tiesas sēdes priekšsēdētājs un sekretārs.
-(2) Uzsākot lietas iztiesāšanu, tiesas sēdes protokolā norāda:
-1) tiesas sēdes vietu un laiku (arī tiesas sēdes sākumu un beigas);
-2) tiesas sastāvu, tiesas sēdes sekretāru, kā arī tulku, ja viņš piedalās tiesas sēdē;
-3) apsūdzētā vārdu un uzvārdu, noziedzīgu nodarījumu saskaņā ar apsūdzību;
-3¹) juridiskās personas, pret kuru uzsākts process par piespiedu ietekmēšanas līdzekļa piemērošanu, nosaukumu un reģistrācijas numuru;
-4) prokurora, aizstāvja vārdu un uzvārdu, ja viņi piedalās tiesas sēdē;
-5) cietušā, viņa pārstāvja vārdu un uzvārdu, ja viņi piedalās tiesas sēdē;
-6) tiesai pieteikto lūgumu būtību, ja tādi ir pieteikti, un attiecībā uz tiem tiesas pieņemto lēmumu saturu.
-(3) Pēc tiesas izmeklēšanas uzsākšanas protokolā fiksē arī:
+(2) (Izslēgta ar 07.10.2021. likumu)
+(3) Pēc tiesas izmeklēšanas uzsākšanas protokolā papildus fiksē:
 1) apsūdzētā attieksmi pret apsūdzību;
 2) ieradušos liecinieku, ekspertu un citu procesā iesaistīto personu vārdu un uzvārdu;
 3) tiesas rīkojumus un lēmumus, kas nav pieņemti atsevišķu procesuālo dokumentu veidā;
+3¹) iebildumus pret tiesas sēdes priekšsēdētāja rīcību;
 4) ziņas par lietisko pierādījumu vai dokumentu pārbaudi;
 5) (izslēgts ar 30.03.2017. likumu);
 6) protokola pieejamības dienu.
-(4) Ja tiesas sēdes gaita netiek fiksēta, izmantojot skaņu un attēlu ierakstus vai citus tehniskos līdzekļus, tiesas sēdes protokolā ieraksta arī apsūdzētā, cietušā, liecinieka, ekspertu, kriminālprocesā aizskartā mantas īpašnieka, kura mantai uzlikts arests, liecības un citu procesā iesaistīto personu paskaidrojumus, tiesas debašu runas, replikas, apsūdzētā pēdējo vārdu.
+(4) Liecības, kuras sniedz apsūdzētais, cietušais, liecinieks, eksperts, kriminālprocesā aizskartais mantas īpašnieks, kura mantai uzlikts arests, un citu procesā iesaistīto personu paskaidrojumi, tiesas debašu runas, replikas un apsūdzētā pēdējais vārds tiek ierakstīti tiesas sēdes protokolā.
 (5) Ārpus tiesas sēžu zāles veikto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.
 (6) Labojumus protokolā atrunā pirms tiesas sēdes sekretāra paraksta. Līdz galam neaizpildītās rindas un citas brīvās vietas protokolā aizsvītro.
 (7) Protokola saturu nedrīkst dzēst, aizkrāsot vai citādā veidā labot, piemērojot mehānisku iedarbību.

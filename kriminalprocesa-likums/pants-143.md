@@ -5,7 +5,7 @@
 2) darbības norises vietu un datumu;
 3) laiku, kad darbība sākta;
 4) procesuālās darbības veicēja amatu, vārdu un uzvārdu;
-5) tās personas vārdu, uzvārdu un personas kodu, kura piedalās izmeklēšanas darbībā, bet advokātam - vārdu, uzvārdu, praktizēšanas vietu un procesuālo statusu;
+5) to personu identificējošos datus, kura piedalās izmeklēšanas darbībā, bet advokātam - vārdu, uzvārdu, praktizēšanas vietu un procesuālo statusu;
 6) personas informēšanu par tās tiesībām un pienākumiem, likumā paredzētajos gadījumos - brīdināšanu par atbildību par pienākumu nepildīšanu.
 (2) Ierakstā fiksē visu izmeklēšanas darbības gaitu, kā arī laiku, kad šī darbība pabeigta. Nav pieļaujams daļējs ieraksts.
 (2¹) Izmeklēšanas darbībās, kas aptver plašu teritoriju vai telpas vai kas veicamas ilgā laika periodā, ierakstu var veikt daļēji, tajā fiksējot tikai ar izmeklējamo noziedzīgo nodarījumu iespējami saistīto informāciju un faktus.

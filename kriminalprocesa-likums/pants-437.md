@@ -2,7 +2,7 @@
 (1) Vienošanās protokolā norāda:
 1) darbības norises vietu un datumu;
 2) procesuālās darbības veicēja amatu, vārdu un uzvārdu;
-3) apsūdzētā, apsūdzētā - nepilngadīgās personas pārstāvja vārdu, uzvārdu un personas kodu, bet, ja tāda nav, - dzimšanas gadu un datumu, kā arī aizstāvja vārdu, uzvārdu un prakses vietu;
+3) apsūdzētā, apsūdzētā - nepilngadīgās personas pārstāvi identificējošos datus, kā arī aizstāvja vārdu, uzvārdu un prakses vietu;
 4) noziedzīga nodarījuma izdarīšanas vietu, laiku un īsu tā aprakstu;
 5) noziedzīga nodarījuma kvalifikāciju;
 6) ar noziedzīgu nodarījumu radītā kaitējuma apmēru un vienošanos par tā atlīdzināšanu;

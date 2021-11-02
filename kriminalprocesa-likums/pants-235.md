@@ -1,11 +1,12 @@
-235.pants. Lietisko pierādījumu un dokumentu pievienošana lietai un glabāšana
-(1) Izmeklēšanas darbību gaitā iegūtās lietas un dokumentus, ja ir pamats uzskatīt, ka turpmākajā kriminālprocesā tiem varētu būt pierādījumu nozīme, procesa virzītājs reģistrē krimināllietā esošajā lietisko pierādījumu un dokumentu sarakstā.
-(2) Lietas un dokumentus, kuri iegūti izmeklēšanas darbību gaitā, pret parakstu atdod to īpašniekam vai likumīgajam valdītājam, izdarot par to atzīmi lietisko pierādījumu un dokumentu sarakstā, ja pastāv viens no šādiem apstākļiem:
+235. pants. Lietu un dokumentu pievienošana krimināllietai un glabāšana
+(1) Izmeklēšanas darbību gaitā iegūtās lietas un dokumentus procesa virzītājs reģistrē krimināllietā esošajā lietu un dokumentu sarakstā.
+(2) Lietas un dokumentus, kuri iegūti izmeklēšanas darbību gaitā, pret parakstu atdod to īpašniekam vai likumīgajam valdītājam, izdarot par to atzīmi lietu un dokumentu sarakstā, ja pastāv viens no šādiem apstākļiem:
 1) turpmākajā procesā konstatēts, ka attiecīgajām lietām un dokumentiem nav pierādījumu nozīmes kriminālprocesā;
 2) ar attiecīgajām lietām un dokumentiem veiktas nepieciešamās izmeklēšanas darbības un to atdošana īpašniekam vai likumīgajam valdītājam nekaitē turpmākajam kriminālprocesam.
+(2¹) Rīcība ar arestēto mantu notiek šā likuma 28. nodaļā noteiktajā kārtībā.
 (3) Atdodot izmeklēšanas darbību gaitā iegūtās lietas vai dokumentus īpašniekam vai likumīgajam valdītājam pēc tam, kad veiktas nepieciešamās izmeklēšanas darbības, krimināllietā, ja nepieciešams, saglabā attiecīgo lietu paraugus vai dokumentu kopijas.
 (4) Ja dokumentu oriģinālu atdošana to īpašniekam vai likumīgajam valdītājam var kaitēt turpmākajam kriminālprocesam vai ir pamatotas aizdomas, ka tie pēc atdošanas varētu tikt izmantoti prettiesisku mērķu sasniegšanai, dokumentu īpašniekam vai likumīgajam valdītājam nodod dokumentu kopijas, bet dokumentu oriģinālus pievieno lietas materiāliem un uzglabā kopā ar lietu visu tās glabāšanas laiku.
 (5) Valsts arhīvu fonda pastāvīgi glabājamo dokumentu oriģināli izmeklēšanas darbību gaitā tiek izņemti tikai dokumentu tehniskās vai rokraksta ekspertīzes izdarīšanai, bet pārējos gadījumos lietas materiāliem pievienojamas apliecinātas to kopijas.
 (6) Ja izmeklēšanas darbību gaitā iegūtajām lietām un dokumentiem ir cita nozīme kriminālprocesā, procesa virzītājs par rīcību ar attiecīgajām lietām un dokumentiem lemj, ievērojot šā likuma prasības. Lietas, kuru apgrozība aizliegta ar likumu, atpakaļ neatdod.
 (7) To lietisko pierādījumu glabāšanas vietu un kārtību, kurus nevar atdot īpašniekam vai likumīgajam valdītājam un kurus nevar uzglabāt kopā ar pārējiem krimināllietas materiāliem, nosaka Ministru kabinets.
-(8) Nododot krimināllietas materiālus citam procesa virzītājam, lietiskos pierādījumus var atstāt glabāšanā pirmā procesa virzītāja lietisko pierādījumu glabāšanai noteiktajā vietā.
+(8) Nododot krimināllietas materiālus citam procesa virzītājam, lietiskos pierādījumus var atstāt glabāšanā pirmā procesa virzītāja lietisko pierādījumu glabāšanai noteiktajā vietā. Pirmstiesas procesā līdz izmeklēšanas pabeigšanai procesa virzītājs krimināllietā esošajā lietu un dokumentu sarakstā veic atzīmi par izmeklēšanas darbību gaitā iegūto lietu un dokumentu statusu kriminālprocesā.

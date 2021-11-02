@@ -1,5 +1,5 @@
 366.pants. Mantas aresta atcelšana
-(1) Procesa virzītājs pieņem lēmumu par mantas aresta atcelšanu un par to nekavējoties paziņo personām, kuru mantai bija uzlikts arests vai kuru glabāšanā bija nodota arestētā manta. Lēmums par aresta atcelšanu jāpieņem, ja:
+(1) Procesa virzītājs pieņem lēmumu par mantas aresta atcelšanu un par to nekavējoties paziņo personām, kuru mantai bija uzlikts arests vai kuru glabāšanā bija nodota arestētā manta. Izmeklēšanas laikā līdz tās pabeigšanai izmeklētājs lēmumu pieņem ar uzraugošā prokurora piekrišanu. Lēmums par aresta atcelšanu jāpieņem, ja:
 1) tiesa pieņem attaisnojošu spriedumu;
 2) (izslēgts ar 22.06.2017. likumu);
 3) procesa virzītājs izbeidz kriminālprocesu ar reabilitējošu lēmumu;

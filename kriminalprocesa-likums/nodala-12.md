@@ -1,1 +1,1 @@
-12.nodaļa. Rīcība ar lietiskajiem pierādījumiem un dokumentiem
+12. nodaļa. Rīcība ar lietām un dokumentiem

@@ -5,4 +5,4 @@
 3) nav nepieciešams aizturētajam piemērot ar brīvības atņemšanu saistītu drošības līdzekli;
 4) beidzies likumā noteiktais aizturēšanas termiņš;
 5) izmeklēšanas tiesnesis nav piemērojis ar brīvības atņemšanu saistītu drošības līdzekli.
-(2) Atbrīvojot aizturēto, viņam izsniedz aizturēšanas protokola kopiju, kurā norādīts atbrīvošanas pamats un datums.
+(2) Par aizturētā atbrīvošanu sagatavo protokolu, kurā norāda atbrīvošanas pamatu, datumu un laiku. Atbrīvojot aizturēto, viņam izsniedz aizturēšanas un atbrīvošanas protokola kopiju.

@@ -10,3 +10,4 @@
 (7¹) Ja attiecībā uz mantu, kurai tiek uzlikts arests, ir reģistrēta hipotēka vai komercķīla, procesa virzītājs par pieņemto lēmumu informē hipotekāro kreditoru vai komercķīlas ņēmēju. Saņemot informāciju par aresta uzlikšanu mantai, hipotekārajam kreditoram vai komercķīlas ņēmējam ir tiesības iesniegt dokumentus par mantas izcelsmi.
 (8) Nav atļauts uzlikt arestu pirmās nepieciešamības priekšmetiem, ko lieto persona, kuras mantai tiek uzlikts arests, tās ģimenes locekļi un viņu apgādībā esošas personas. Šādu priekšmetu sarakstu nosaka šā likuma 1.pielikums. Šajā daļā noteiktais aizliegums neattiecas uz noziedzīgi iegūtu mantu vai citu ar noziedzīgo nodarījumu saistītu mantu.
 (9) Lēmuma kopiju nosūta vai izsniedz personai, kuras mantai tiek uzlikts arests.
+(10) Arestēto mantu procesa virzītājs reģistrē krimināllietā esošajā lietu un dokumentu sarakstā.

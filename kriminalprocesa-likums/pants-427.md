@@ -1,6 +1,6 @@
 427. pants. Lēmums par krimināllietas nodošanu tiesai paātrinātā procesa kārtībā
 (1) Lēmumā par krimināllietas nodošanu tiesai paātrinātā procesa kārtībā prokurors norāda:
-1) personu, kurai ir tiesības uz aizstāvību (vārds, uzvārds, personas kods, paziņotā dzīvesvieta un darbavieta);
+1) personu, kurai ir tiesības uz aizstāvību (identificējošie dati, paziņotā dzīvesvieta un darbavieta);
 2) par kāda noziedzīga nodarījuma izdarīšanu persona tiek apsūdzēta un nodota tiesai;
 3) noziedzīga nodarījuma kvalifikāciju;
 4) tiesā izmantojamos pierādījumus;

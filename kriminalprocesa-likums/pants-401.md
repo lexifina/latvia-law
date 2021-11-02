@@ -7,7 +7,7 @@
 (2) Lēmumā izmeklētājs norāda:
 1) (izslēgts ar 20.06.2018. likumu);
 2) noziedzīga nodarījuma kvalifikāciju;
-3) pie kriminālatbildības saucamās personas vārdu, uzvārdu, personas kodu un paziņoto dzīvesvietu;
+3) pie kriminālatbildības saucamo personu identificējošos datus un paziņoto dzīvesvietu;
 4) pierādījumu uzskaitījumu;
 5) procesuālos izdevumus.
 (3) (Izslēgta ar 12.03.2009. likumu)

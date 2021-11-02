@@ -1,5 +1,5 @@
 362.pants. Protokols par aresta uzlikšanu mantai
-(1) Par aresta uzlikšanu mantai raksta protokolu. Protokols par aresta uzlikšanu mantai nav jāraksta, ja lēmumu par mantas arestu, nosūtot lēmuma izrakstu, uzdots izpildīt saskaņā ar šā likuma 361.¹ panta pirmās daļas 2., 3. un 4. punktu un nav nepieciešams aprakstīt mantas individuālās pazīmes.
+(1) Par aresta uzlikšanu mantai raksta protokolu. Protokols par aresta uzlikšanu mantai nav jāraksta, ja lēmumu par mantas arestu, nosūtot lēmuma izrakstu, uzdots izpildīt saskaņā ar šā likuma 361.¹ panta pirmās daļas 2., 3. un 4. punktu un nav nepieciešams aprakstīt mantas individuālās pazīmes vai ja arests tiek uzlikts virtuālajai valūtai.
 (2) Protokolā fiksē:
 1) katru lietu, kurai uzlikts arests, norādot tās nosaukumu, marku, svaru, nodiluma pakāpi, kā arī citas individuālās pazīmes;
 2) ja arestu uzliek visai mantai, - arī lietas, kurām arests netiek uzlikts;
