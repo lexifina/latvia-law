@@ -1,0 +1,5 @@
+54. Laikposmā no 2021. gada 1. novembra līdz 2021. gada 31. decembrim:
+1) tiesības uz slimības palīdzības pabalstu ir šo pārejas noteikumu 48. punkta 1. un 2. apakšpunktā minētajai personai, ja tai ir sadarbspējīgs vakcinācijas vai pārslimošanas sertifikāts vai tā ir saņēmusi klīniskās universitātes slimnīcas speciālista vai speciālistu konsilija atzinumu par nepieciešamību atlikt personas vakcināciju pret Covid-19 (turpmāk - atzinums par nepieciešamību atlikt personas vakcināciju pret Covid-19);
+2) slimības palīdzības pabalstu personai izmaksā par iepriekšējo mēnesi vai noslēgto periodu;
+3) slimības palīdzības pabalstu persona pieprasa 10 darba dienu laikā no dienas, kad karantīnas dēļ slēgta pirmsskolas izglītības grupa vai iestāde vai uzsākta mācību procesa organizēšana attālināti, vai no dienas, kad dienas aprūpes centra vai dienas centra pakalpojumi vairs nav pieejami, bet ne vēlāk kā līdz 2022. gada 31. janvārim;
+4) piemērojams šo pārejas noteikumu 50., 51. un 53. punktā noteiktais.

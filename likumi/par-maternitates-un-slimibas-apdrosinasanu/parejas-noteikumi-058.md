@@ -1,0 +1,1 @@
+58. Laikposmā no 2021. gada 6. novembra līdz 2021. gada 31. decembrim šā likuma 13. panta pirmajā daļā noteiktajā periodā neieskaita darbnespējas dienas, par kurām šo pārejas noteikumu 55. punktā minētajai personai ir izsniegta darbnespējas lapa sakarā ar saslimšanu ar Covid-19 vai atrašanos mājas karantīnā.
