@@ -1,0 +1,1 @@
+245.³ Zvērināts notārs tikai savā saimnieciskajā darbībā lieto zvērināta notāra biroja nosaukumu, kurā papildus lieto apzīmējumu "zvērināta notāra birojs" vai abreviatūru "ZNB". Tikai zvērinātu notāru birojiem ir tiesības savā nosaukumā lietot minēto apzīmējumu un tā abreviatūru.

@@ -1,1 +1,1 @@
-37. Tieslietu ministrs var atļaut vai arī uzdot zvērinātam notāram noteiktās nedēļas vai mēneša dienās ierasties savu pienākumu pildīšanai tuvākās apkaimes pilsētās vai ciemos, kur nav zvērināta notāra.
+37. Tieslietu ministrs var atļaut vai arī uzdot zvērinātam notāram noteiktās nedēļas vai mēneša dienās ierasties savu pienākumu pildīšanai tuvākās apkaimes apdzīvotajās vietās, kur nav zvērināta notāra.

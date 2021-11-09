@@ -1,1 +1,1 @@
-136. Rakstveida paziņojumu var nodot adresātam personiski vai nosūtīt pa pastu ierakstītā vēstulē, saņemot pasta apliecinājumu par tā izsniegšanu.
+136. Rakstveida paziņojumu var nodot adresātam personiski, nosūtīt uz oficiālo elektronisko adresi, ja personai ir aktivizēts oficiālās elektroniskās adreses konts, vai nosūtīt pa pastu ierakstītā vēstulē, saņemot pasta apliecinājumu par tā izsniegšanu.

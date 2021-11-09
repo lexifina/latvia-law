@@ -12,5 +12,6 @@
 9¹) izsniedz ziņas no mantojumu reģistra un publisko testamentu reģistra;
 10) uztur Notāru informācijas sistēmu, tai skaitā nodrošina šajā likumā noteikto reģistru darbību, izmanto sistēmas un reģistru datus šajā likumā noteikto Latvijas Zvērinātu notāru padomes pienākumu veikšanai;
 11) Ministru kabineta noteiktajā kārtībā izsniedz ziņas par nākotnes pilnvarojumiem;
-12) veic citus pienākumus, kas noteikti normatīvajos aktos vai ko uzdevusi Latvijas Zvērinātu notāru kolēģija.
-13) kārto zvērinātu notāru personālvadības jautājumus, kas saistīti ar zvērinātu notāru atvaļinājumiem, slimībām, komandējumiem un citu attaisnotu prombūtni.
+12) veic citus pienākumus, kas noteikti normatīvajos aktos vai ko uzdevusi Latvijas Zvērinātu notāru kolēģija;
+13) kārto zvērinātu notāru personālvadības jautājumus, kas saistīti ar zvērinātu notāru atvaļinājumiem, slimībām, komandējumiem un citu attaisnotu prombūtni;
+14) šajā likumā noteiktajos gadījumos un kārtībā pārbauda zvērināta notāra biroja atbilstību šā likuma prasībām un izsniedz piekrišanu šā biroja reģistrācijai un izmaiņu veikšanai komercreģistra ierakstos un dokumentos.

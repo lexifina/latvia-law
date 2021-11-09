@@ -1,1 +1,1 @@
-34. Zvērināts notārs piesūta visiem tiesu priekšsēdētājiem, zemesgrāmatu nodaļu priekšniekiem un tieslietu ministram sava paraksta un zīmoga nospieduma, kā arī sava palīga paraksta paraugu.
+34. Zvērināts notārs nosūta Latvijas Zvērinātu notāru padomei, visiem tiesu priekšsēdētājiem un tieslietu ministram sava paraksta un zīmoga nospieduma, kā arī sava palīga paraksta paraugu.
