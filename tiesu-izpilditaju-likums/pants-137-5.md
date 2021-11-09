@@ -1,0 +1,2 @@
+137.⁵ pants. (1) Zvērinātu tiesu izpildītāju biroja pamatkapitāla daļas ir aizliegts ieķīlāt vai citādi apgrūtināt ar lietu tiesībām. Uz zvērināta tiesu izpildītāja biroja pamatkapitāla daļām nevar vērst piedziņu, un zvērināta tiesu izpildītāja nāves gadījumā tās neietilpst mantojuma masā.
+(2) Mantinieki iegūst tiesības saņemt tikai to, kas pienāktos mirušajam zvērinātam tiesu izpildītājam (mantojuma atstājējam) pie galīgās norēķināšanās, ja sabiedrība tiktu izbeigta mantojuma atklāšanās brīdī.

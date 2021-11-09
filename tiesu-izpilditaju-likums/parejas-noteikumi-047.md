@@ -1,0 +1,1 @@
+47. Grozījumi šā likuma 74. pantā par tā 2.¹ daļas papildināšanu ar nosacījumu par mantojuma inventāra saraksta sastādīšanu pēc mantojuma aizgādņa lūguma un panta papildināšanu ar 2.² daļu stājas spēkā 2022. gada 1. janvārī.

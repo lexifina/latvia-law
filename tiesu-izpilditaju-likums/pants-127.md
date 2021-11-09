@@ -16,4 +16,5 @@
 15) nodrošina statistikas pārskatu sagatavošanu par nolēmumu izpildi un izpildu dokumentu izpildes ilgumu:
 a) civillietās,
 b) krimināllietās daļā par mantiskām piedziņām,
-c) administratīvo pārkāpumu lietās daļā par mantiskām piedziņām.
+c) administratīvo pārkāpumu lietās daļā par mantiskām piedziņām;
+16) šajā likumā noteiktajos gadījumos un kārtībā pārbauda zvērinātu tiesu izpildītāju biroju atbilstību šā likuma prasībām un izsniedz piekrišanu šo biroju dibināšanai un izmaiņu veikšanai komercreģistra ierakstos un dokumentos.
