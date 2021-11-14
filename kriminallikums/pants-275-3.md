@@ -1,0 +1,2 @@
+275.³ pants. Viltota sadarbspējīga sertifikāta ieguvēja, glabātāja un izmantotāja atbrīvošana no kriminālatbildības
+Personu, kura ieguvusi, glabājusi vai izmantojusi viltotu sadarbspējīgu vakcinācijas, testēšanas vai pārslimošanas sertifikātu, var atbrīvot no kriminālatbildības, ja tā pēc noziedzīgo darbību izdarīšanas labprātīgi paziņo par notikušo un aktīvi veicina noziedzīgā nodarījuma atklāšanu un izmeklēšanu.
