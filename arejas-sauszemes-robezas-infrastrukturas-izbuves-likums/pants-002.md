@@ -1,0 +1,1 @@
+2. pants. Ārējās robežas infrastruktūras izbūvei nepieciešamo teritoriju nosaka Valsts robežsardze sadarbībā ar Nodrošinājuma valsts aģentūru. Ārējās robežas infrastruktūras izbūvei nepieciešamo zemes kadastrālo uzmērīšanu organizē Nodrošinājuma valsts aģentūra. Nodrošinājuma valsts aģentūra sagatavo un izsniedz darba uzdevumu mērniekam vai komersantam, kas nodarbina mērnieku.

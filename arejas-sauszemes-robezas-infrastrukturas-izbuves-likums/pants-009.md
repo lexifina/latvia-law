@@ -1,0 +1,1 @@
+9. pants. Lai nodrošinātu ārējās robežas infrastruktūras izbūvi, visi nepieciešamie darbi, tai skaitā projektēšana, būvdarbi un ar tiem saistītie pakalpojumi, tiek iegādāti, nepiemērojot publisko iepirkumu regulējumu.
