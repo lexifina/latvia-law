@@ -1,0 +1,1 @@
+45. Šā likuma grozījums par 21.⁸ panta papildināšanu ar 2.¹ daļu piemērojams tām tīmekļvietnēm, attiecībā uz kurām Nacionālā elektronisko plašsaziņas līdzekļu padome lēmumu par piekļuves ierobežošanu pieņēmusi pēc šā grozījuma spēkā stāšanās.
