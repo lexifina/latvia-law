@@ -1,0 +1,1 @@
+4. pants. Vienošanās stājas spēkā tajā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis", publicējot Vienošanos angļu valodā un tās tulkojumu latviešu valodā.

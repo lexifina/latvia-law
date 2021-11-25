@@ -1,0 +1,1 @@
+1. pants. Denonsēt 1994. gada 24. janvārī Londonā parakstīto Līgumu starp Latvijas Republikas valdību un Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes valdību par ieguldījumu veicināšanu un aizsardzību (turpmāk - Līgums) (Latvijas Vēstnesis, 1995, 19. nr.).
