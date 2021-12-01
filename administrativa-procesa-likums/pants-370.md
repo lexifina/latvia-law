@@ -1,7 +1,7 @@
 370.pants. Adresātam uzliktā piespiedu nauda
 (1) Ja administratīvais akts uzliek adresātam pienākumu izpildīt noteiktu darbību vai atturēties no noteiktas darbības un viņš šo pienākumu nepilda, adresātam var uzlikt piespiedu naudu.
 (2) Piespiedu naudu var uzlikt atkārtoti, līdz adresāts izpilda vai pārtrauc attiecīgo darbību. Atkārtoti piespiedu naudu var uzlikt ne agrāk kā septiņas dienas pēc iepriekšējās reizes, ja adresāts šo septiņu dienu laikā joprojām nav izpildījis vai nav pārtraucis attiecīgo darbību.
-(3) Minimālā piespiedu nauda ir 50 euro, maksimālā piespiedu nauda fiziskajai personai ir 5000 euro, bet juridiskajai personai - 10 000 euro. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13. pants), kā arī adresāta mantisko stāvokli.
+(3) Minimālā piespiedu nauda fiziskajai personai ir 50 euro, bet juridiskajai personai - 100 euro, maksimālā piespiedu nauda fiziskajai personai ir 5000 euro, bet juridiskajai personai - 10 000 euro. Nosakot piespiedu naudas summu, izpildiestāde ievēro samērīguma principu (13. pants), kā arī adresāta mantisko stāvokli.
 (4) Piespiedu naudu uzliek ar izpildiestādes izpildrīkojumu. Izpildrīkojumā ietver:
 1) tās izpildiestādes nosaukumu, kas izdevusi izpildrīkojumu par piespiedu naudu;
 2) norādi, kurš administratīvais akts izpildāms;

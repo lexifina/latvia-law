@@ -3,5 +3,5 @@
 (2) Ja spriedums pārsūdzēts kādā daļā, nepārsūdzētajā daļā tas stājas spēkā, kad beidzies termiņš tā pārsūdzēšanai.
 (3) Administratīvā procesa dalībniekam, kā arī viņa tiesību pārņēmējam pēc sprieduma stāšanās spēkā nav tiesību no jauna iesniegt tiesā pieteikumu par to pašu priekšmetu uz tā paša pamata, kā arī citā procesā apstrīdēt tiesas nodibinātos faktus.
 (4) Spēkā stājies spriedums ir obligāti izpildāms, un to var atcelt tikai likumā noteiktajos gadījumos un kārtībā.
-(5) Pēc pieteicēja lūguma tiesa izsniedz viņam sprieduma norakstu ar uzrakstu par tā stāšanos spēkā.
+(5) Pēc pieteicēja lūguma tiesa izsniedz viņam sprieduma atvasinājumu ar uzrakstu par tā stāšanos spēkā.
 (6) Ja tiesas spriedums nav pārsūdzams, tas stājas spēkā tā pasludināšanas dienā.

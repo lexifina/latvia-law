@@ -1,7 +1,7 @@
 292.pants. Apelācijas sūdzības saturs
 (1) Apelācijas sūdzībā norāda:
 1) tās tiesas nosaukumu, kurai adresēta sūdzība;
-2) sūdzības iesniedzēja, kā arī viņa pilnvarota pārstāvja, ja apelācijas sūdzību iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietu vai citu adresi, kurā persona ir sasniedzama (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi);
+2) sūdzības iesniedzēja, kā arī viņa pilnvarota pārstāvja, ja apelācijas sūdzību iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietas vai citu adresi, kurā persona ir sasniedzama (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi). Ja sūdzības iesniedzējs vai viņa pilnvarotais pārstāvis piekrīt saziņai ar tiesu izmantot e-lietas portālu, ietver norādi par e-lietas portālu kā saziņas veidu;
 2¹) sūdzības iesniedzēja (viņa pārstāvja) tālruņa numuru vai elektroniskā pasta adresi, ja viņš piekrīt saziņai ar tiesu izmantot attiecīgo saziņas līdzekli;
 3) (izslēgts ar 02.02.2017. likumu);
 4) spriedumu, par kuru iesniedz sūdzību;
@@ -15,4 +15,4 @@
 (1¹) Ja spriedumā ietverts lēmums, par kuru var iesniegt blakus sūdzību apelācijas instances tiesai, un procesa dalībnieks vēlas to pārsūdzēt, iebildumus pret šo lēmumu ietver apelācijas sūdzībā, izņemot gadījumu, kad procesa dalībnieks pārsūdz tikai spriedumā ietverto lēmumu.
 (2) Apelācijas sūdzību paraksta iesniedzējs vai viņa pilnvarots pārstāvis.
 (3) (Izslēgta ar 01.11.2012. likumu)
-(4) Ja apelācijas sūdzībā ietvertais pamatojums ir apjomīgs, tiesnesis var lūgt sūdzības iesniedzējam iesniegt tās kopsavilkumu.
+(4) Ja apelācijas sūdzībā ietvertais pamatojums ir apjomīgs, Administratīvās apgabaltiesas tiesnesis var lūgt sūdzības iesniedzējam iesniegt tās kopsavilkumu.

@@ -1,7 +1,7 @@
 318.pants. Blakus sūdzības saturs
 (1) Blakus sūdzībā norāda:
 1) tās tiesas nosaukumu, kurai adresēta sūdzība;
-2) sūdzības iesniedzēja, kā arī viņa pilnvarota pārstāvja, ja blakus sūdzību iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietu vai citu adresi, kurā persona ir sasniedzama (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi);
+2) sūdzības iesniedzēja, kā arī viņa pilnvarota pārstāvja, ja blakus sūdzību iesniedz pārstāvis, vārdu, uzvārdu un dzīvesvietas vai citu adresi, kurā persona ir sasniedzama (juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi). Ja sūdzības iesniedzējs vai viņa pilnvarotais pārstāvis piekrīt saziņai ar tiesu izmantot e-lietas portālu, ietver norādi par e-lietas portālu kā saziņas veidu;
 2¹) sūdzības iesniedzēja (viņa pārstāvja) tālruņa numuru vai elektroniskā pasta adresi, ja viņš piekrīt saziņai ar tiesu izmantot attiecīgo saziņas līdzekli;
 3) (izslēgts ar 02.02.2017. likumu);
 4) lēmumu, par kuru iesniedz sūdzību;

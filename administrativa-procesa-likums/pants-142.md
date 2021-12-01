@@ -1,2 +1,2 @@
-142.pants. Izraidīšana no sēžu zāles
-Ja administratīvā procesa dalībnieks, liecinieks, eksperts vai tulks traucē kārtību atkārtoti, viņu ar tiesas lēmumu var izraidīt no sēžu zāles. Citas klātesošās personas, kuras traucē kārtību, var izraidīt ar tiesas sēdes priekšsēdētāja rīkojumu arī bez iepriekšēja brīdinājuma.
+142. pants. Izraidīšana no sēžu zāles
+Ja administratīvā procesa dalībnieks, liecinieks, eksperts vai tulks traucē kārtību (tostarp uzvedas klaji aizskaroši un izaicinoši) atkārtoti, viņu ar tiesas lēmumu var izraidīt no sēžu zāles. Citas klātesošās personas, kuras traucē kārtību (tostarp uzvedas klaji aizskaroši un izaicinoši), var izraidīt ar tiesas sēdes priekšsēdētāja rīkojumu arī bez iepriekšēja brīdinājuma.

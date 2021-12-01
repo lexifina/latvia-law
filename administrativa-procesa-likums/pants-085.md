@@ -5,5 +5,5 @@
 2) administratīvais akts izdots ar kādu citu nosacījumu un šis nosacījums nav vispār izpildīts, nav pienācīgi izpildīts vai nav laikus izpildīts;
 3) (izslēgts ar 02.02.2017. likumu);
 4) mainījušies lietas faktiskie vai tiesiskie apstākļi, kuriem pastāvot administratīvā akta izdošanas brīdī iestāde varētu šādu administratīvo aktu neizdot, un administratīvā akta palikšana spēkā skar būtiskas sabiedrības intereses.
-(3) Ja administratīvo aktu atceļ saskaņā ar šā panta otrās daļas 4.punktu, attiecīgā publisko tiesību juridiskā persona saskaņā ar šā likuma 8.nodaļu atlīdzina adresātam zaudējumus un personisko kaitējumu, kas tam radies sakarā ar administratīvā akta atcelšanu.
+(3) Ja administratīvo aktu atceļ saskaņā ar šā panta otrās daļas 4.punktu, attiecīgā publisko tiesību juridiskā persona saskaņā ar šā likuma 8.nodaļu atlīdzina adresātam zaudējumus un nemantisko kaitējumu, kas tam radies sakarā ar administratīvā akta atcelšanu.
 (4) Iestāde, ievērojot šā panta noteikumus, var atcelt vai grozīt arī tiesisku administratīvo līgumu, izņemot izlīgumu.

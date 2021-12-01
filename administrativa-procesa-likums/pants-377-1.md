@@ -7,6 +7,6 @@
 3) nolēmuma taisīšanas laiku;
 4) nolēmuma rezolutīvo daļu;
 5) laiku, kad nolēmums stājas likumīgā spēkā, vai norādi, ka nolēmums izpildāms nekavējoties;
-6) izpildu raksta izsniegšanas laiku;
+6) (izslēgts ar 11.11.2021. likumu);
 7) ziņas par publisko tiesību subjektu un privātpersonu (fiziskajai personai - vārdu, uzvārdu, personas kodu un dzīvesvietu, bet juridiskajai personai - nosaukumu, reģistrācijas numuru un juridisko adresi).
-(4) Izpildu rakstu paraksta tiesnesis, un to apstiprina ar tiesas zīmogu.
+(4) Izpildu rakstu paraksta tiesnesis.

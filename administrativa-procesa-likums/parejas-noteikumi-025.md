@@ -1,0 +1,1 @@
+25. Grozījumi šā likuma 21. panta otrās daļas otrajā teikumā par tiesas tiesībām iecelt sevišķo aizbildni un šā likuma 21. panta 2.¹ un 2.² daļa stājas spēkā 2023. gada 1. janvārī. Ministru kabinets līdz 2022. gada 31. decembrim izdod šā likuma 21. panta 2.² daļā minētos noteikumus.

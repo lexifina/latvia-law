@@ -1,4 +1,4 @@
 234.pants. Rakstveida pierādījuma pārbaude
-(1) Lietā esošo rakstveida pierādījumu vai tā apskates protokolu nolasa tiesas sēdē vai uzrāda administratīvā procesa dalībniekiem, bet, ja nepieciešams, - arī ekspertiem un lieciniekiem.
+(1) Lietā esošo rakstveida pierādījumu vai tā apskates protokolu uzrāda administratīvā procesa dalībniekiem, bet, ja nepieciešams, - arī ekspertiem un lieciniekiem.
 (2) Jautājumu par rakstveida pierādījuma pievienošanu lietai izlemj tiesa pēc tam, kad tā iepazīstinājusi administratīvā procesa dalībniekus ar šā pierādījuma saturu un uzklausījusi viņu viedokli.
-(3) Personisko korespondenci var nolasīt atklātā tiesas sēdē tikai ar to personu piekrišanu, starp kurām notikusi sarakstīšanās. Ja šādas piekrišanas nav vai attiecīgās personas mirušas, minētos pierādījumus nolasa un pārbauda slēgtā tiesas sēdē.
+(3) Personisko korespondenci var pārbaudīt atklātā tiesas sēdē tikai ar to personu piekrišanu, starp kurām notikusi sarakstīšanās. Ja šādas piekrišanas nav vai attiecīgās personas mirušas, minētos pierādījumus pārbauda slēgtā tiesas sēdē.

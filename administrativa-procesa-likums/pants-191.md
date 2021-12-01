@@ -10,10 +10,10 @@
 8) pieteikumu iesniegusi persona, kurai nav tiesību iesniegt pieteikumu;
 9) pieteikums iesniegts vairāk nekā trīs gadus pēc administratīvā akta spēkā stāšanās dienas vai trīs gadus pēc dienas, kad pieteicējam kļuvis zināms vai vajadzēja uzzināt par iestādes konkrēto faktisko rīcību. Šajā punktā minētie termiņi nav atjaunojami;
 10) tiesa nav atjaunojusi nokavēto procesuālo termiņu pieteikuma iesniegšanai;
-11) tiesai atkārtoti iesniegts tāds pieteikums, kura pieņemšanu tiesnesis (tiesa) jau atteicis, pamatojoties uz šīs daļas 1., 2., 3., 8., 9., 10., 12. vai 13. punktu, vai kura izskatīšana atteikta, pamatojoties uz šā likuma 191.¹ pantu, vai par kuru izbeigta tiesvedība, pamatojoties uz šā likuma 282. panta pirmās daļas 1., 2., 3., 8., 9. vai 10. punktu;
-12) pieteikums iesniegts par administratīvā akta atzīšanu par prettiesisku vai tā izdošanas procesā pieļauta procesuālā pārkāpuma konstatēšanu, bet tas neatbilst šā likuma 184. panta otrajā daļā minētajiem attiecīgā pieteikuma pieļaujamības priekšnoteikumiem;
+11) tiesai atkārtoti iesniegts tāds pieteikums, kura pieņemšanu tiesnesis (tiesa) jau atteicis, pamatojoties uz šīs daļas 1., 2., 3., 8., 9. vai 10. punktu, vai kura izskatīšana atteikta, pamatojoties uz šā likuma 191.¹ pantu, vai par kuru izbeigta tiesvedība, pamatojoties uz šā likuma 282. panta 1., 2., 3., 8. vai 9. punktu;
+12) (izslēgts ar 11.11.2021. likumu);
 13) pieteicējs atteicies no pieteikuma, pirms tiesnesis ir pieņēmis lēmumu par pieteikuma pieņemšanu un lietas ierosināšanu.
 (2) Par atteikšanos pieņemt pieteikumu tiesnesis pieņem motivētu lēmumu. Iesniegto pieteikumu pieteicējam izsniedz pēc lēmuma stāšanās spēkā.
-(3) Par lēmumu atteikties pieņemt pieteikumu var iesniegt blakus sūdzību. Par lēmumu atteikties pieņemt pieteikumu, pamatojoties uz šā likuma 191. panta pirmās daļas 1., 8. vai 12. punktu, blakus sūdzību iesniedz Augstākās tiesas Administratīvo lietu departamentam. Blakus sūdzību par vairākiem viena nolēmuma ietvaros pieņemtiem lēmumiem, kuriem ir atšķirīga pārsūdzības kārtība, iesniedz Augstākās tiesas Administratīvo lietu departamentam. Blakus sūdzības iesniegšanas termiņu skaita no dienas, kad pieteicējs saņēmis šā lēmuma norakstu.
+(3) Par lēmumu atteikties pieņemt pieteikumu var iesniegt blakus sūdzību. Blakus sūdzības iesniegšanas termiņu skaita no dienas, kad pieteicējs saņēmis šo lēmumu.
 (4) Tiesneša atteikums pieņemt pieteikumu uz šā panta pirmās daļas 5.-7.punktā pamata nav šķērslis tāda paša pieteikuma iesniegšanai tiesā tad, kad būs novērsti esošie trūkumi.
 (5) Ja lieta, par kuru iesniegts pieteikums, nav piekritīga šai tiesai, tā pieteikumu pārsūta piekritīgajai tiesai.

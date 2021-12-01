@@ -1,7 +1,8 @@
 137.pants. Protokola saturs
-(1) Tiesas sēdes protokolā norāda:
+(1) Pilnajā tiesas sēdes protokolā norāda:
 1) tiesas sēdes norises laiku (gadu, datumu, mēnesi) un vietu;
 2) tās tiesas nosaukumu, kura izskata lietu, tiesas sastāvu un tiesas sēdes sekretāru;
+2¹) to, ka tiesas sēdes gaitu fiksē, izmantojot tehniskos līdzekļus;
 3) tiesas sēdes atklāšanas laiku;
 4) lietas nosaukumu;
 5) ziņas par administratīvā procesa dalībnieku, liecinieku, ekspertu un tulku ierašanos;
@@ -15,12 +16,13 @@
 13) ziņas par tiesas aiziešanu sprieduma taisīšanai vai lēmuma pieņemšanai;
 14) ziņas par tiesas sprieduma vai atsevišķa procesuāla dokumenta veidā pieņemta tiesas lēmuma nolasīšanu;
 15) ziņas par sprieduma (lēmuma) saturu, pārsūdzēšanas kārtības un termiņa izskaidrošanu;
-16) ziņas par to, kad administratīvā procesa dalībnieki var iepazīties ar tiesas sēdes protokolu un pilnu sprieduma (lēmuma) tekstu;
+16) ziņas par to, kad administratīvā procesa dalībnieki var iepazīties ar tiesas sēdes protokolu, skaņu ierakstu un pilnu sprieduma (lēmuma) tekstu;
 17) tiesas sēdes slēgšanas laiku;
 18) tiesas sēdes protokola parakstīšanas laiku.
 (2) Tiesas sēdes protokolu paraksta tiesas sēdes priekšsēdētājs un sekretārs.
-(3) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šajā pantā minētajām prasībām.
+(2¹) Saīsinātajā tiesas sēdes protokolā norāda šā panta pirmās daļas 1., 2., 2.¹, 3., 4., 5., 6., 7., 10., 13., 14., 15., 16., 17. un 18. punktā minēto informāciju.
+(3) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam vai tādas tiesas sēdes protokolam, kas noteikta atsevišķas procesuālās darbības veikšanai vai procesuālā jautājuma izlemšanai, jāatbilst šajā pantā minētajām prasībām, ciktāl tās attiecas uz attiecīgo procesuālo darbību vai procesuālo jautājumu.
 (4) (Izslēgta ar 15.01.2004. likumu)
 (5) Ja tiesas sēdē tiek pārbaudīta valsts noslēpumu saturoša informācija, tiesas sēdes protokolā izdara atzīmi par laiku, kad tiesa uzsāka un pabeidza pārbaudīt valsts noslēpumu saturošo informāciju. Ja likumā nav noteikts citādi, protokolā nefiksē attiecīgās informācijas pārbaudi.
 (6) Uz Augstākās tiesas Administratīvo lietu departamenta kā kasācijas instances tiesas sēdes protokolu neattiecas šā panta pirmās daļas 8., 11., 12. un 15.punkta nosacījumi.
-(7) Ja tiesas sēdes gaita tiek fiksēta, izmantojot tehniskos līdzekļus, tiesas sēdes protokolā var nenorādīt šā panta pirmās daļas 8., 9., 11. un 12.punktā noteiktās ziņas.
+(7) (Izslēgta ar 11.11.2021. likumu)

@@ -5,5 +5,5 @@
 3) izskatot lietu, pārkāptas procesuālo tiesību normas par tiesvedības valodu;
 4) tiesas spriedums nosaka to personu tiesības un pienākumus, kuras nav pieaicinātas lietā kā administratīvā procesa dalībnieki;
 5) lietā nav pilna tiesas sprieduma;
-6) mutvārdu procesā izskatītā lietā nav tiesas sēdes protokola vai tiesas sēdes ieraksta.
+6) mutvārdu procesā izskatītā lietā tiesas sēdes protokolā vai tiesas sēdes ierakstā nav fiksētas būtiskas procesuālās darbības, lēmumi, paskaidrojumi vai liecības.
 (2) (Izslēgta ar 01.11.2012. likumu)

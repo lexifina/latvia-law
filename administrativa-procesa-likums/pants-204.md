@@ -9,7 +9,7 @@
 7) pieprasa rakstveida un lietiskos pierādījumus šā likuma 169. un 173.panta noteiktajā kārtībā;
 8) izlemj jautājumu, vai lieta ir izskatāma mutvārdu procesā;
 9) nosaka atbildētāju vai izlemj jautājumu par tā aizstāšanu, ja pieteikumā atbildētājs nav norādīts vai norādīts nepareizi;
-10) izlemj jautājumu par pienākuma uzlikšanu atbildētājam iesniegt savam paskaidrojumam pievienotos dokumentus un pierādījumus ar tik norakstiem, cik lietā ir pieteicēju un trešo personu;
+10) (izslēgts ar 11.11.2021. likumu);
 11) pilda citas nepieciešamās procesuālās darbības.
 (2) Lietā, kas izskatāma rakstveida procesā, tiesnesis procesa dalībniekiem nosaka saprātīgu termiņu, līdz kuram iesniedzami papildu paskaidrojumi, cita rakstura iesniegumi vai lūgumi, kā arī pierādījumi.
 (3) Ja nepieciešams, tiesnesis var aicināt vienlaikus ierasties administratīvā procesa dalībniekus un viņu pārstāvjus, lai iztaujātu viņus par lietas būtību, iebildumiem pret pieteikumu, izskaidrotu viņu procesuālās tiesības un pienākumus, kā arī izlemtu citus ar lietas sagatavošanu saistītus jautājumus.

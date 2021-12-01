@@ -1,7 +1,8 @@
 125. pants. Valsts nodevas atmaksāšana
-(1) Valsts nodevu, kas samaksāta par pieteikumu, atmaksā pilnīgi, ja tiesnesis atsakās pieņemt pieteikumu vai atstāj pieteikumu bez izskatīšanas, pamatojoties uz to, ka:
+(1) Valsts nodevu, kas samaksāta par pieteikumu, atmaksā pilnīgi, ja pieteikumu atsakās pieņemt vai to atstāj bez izskatīšanas, vai izbeidz tiesvedību lietā, pamatojoties uz to, ka:
 1) pieteikumu iesniegusi persona, kurai tiesa noteikusi tādu rīcībspējas ierobežojumu, kas neļauj tai patstāvīgi īstenot administratīvi procesuālās tiesības un pienākumus;
-2) pieteicējs nav ievērojis likumā noteikto lietas ārpustiesas izskatīšanas kārtību, jo ņēmis vērā iestādes kļūdainu norādi par pārsūdzības kārtību.
+2) pieteicējs nav ievērojis likumā noteikto lietas ārpustiesas izskatīšanas kārtību, jo ņēmis vērā iestādes kļūdainu norādi par pārsūdzības kārtību vai iestādes lēmumā nav bijusi norādīta apstrīdēšanas kārtība;
+3) lieta nav izskatāma administratīvā procesa kārtībā vai pieteicējam nav subjektīvo tiesību iesniegt pieteikumu, taču pieteicējs pieteikumu iesniedzis, jo iestāde lēmumā kļūdaini norādījusi, ka pieteicējam ir tiesības pārsūdzēt lēmumu.
 (2) Valsts nodevu, kas samaksāta par apelācijas sūdzību, atmaksā pilnīgi:
 1) ja tiesnesis atsakās pieņemt apelācijas sūdzību vai tiesa izbeidz apelācijas tiesvedību, pamatojoties uz to, ka pieteicējs vai trešā persona ir iesniegusi apelācijas sūdzību par spriedumu, kas nav pārsūdzams, jo ņēmusi vērā tiesas kļūdainu norādi par sprieduma pārsūdzības kārtību;
 2) ja apelācijas instances tiesa atceļ pirmās instances tiesas spriedumu šā likuma 303. pantā paredzētajā gadījumā;
