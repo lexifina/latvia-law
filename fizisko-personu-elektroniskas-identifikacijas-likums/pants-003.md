@@ -5,3 +5,4 @@
 1) ja tā veikta ar kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas līdzekli un atbilst šā likuma prasībām;
 2) ja tā veikta gadījumā, kad elektroniskās identifikācijas pakalpojuma sniedzējs un elektroniskā pakalpojuma sniedzējs rakstveidā vienojušies par elektronisko identifikāciju un elektroniskās identifikācijas veidu, neizmantojot kvalificētu vai kvalificētu paaugstinātas drošības elektronisko identifikāciju;
 3) ja tā veikta gadījumā, kad elektroniskā pakalpojuma sniedzējs un fiziskā persona rakstveidā vienojušies par fiziskās personas identitātes pārbaudi elektroniskajā vidē, neizmantojot kvalificētu vai kvalificētu paaugstinātas drošības elektronisko identifikāciju.
+(4) (Daļa stājas spēkā 01.02.2023. un iekļauta likuma redakcijā uz 01.02.2023. Sk. Pārejas noteikumu 8. punktu)
