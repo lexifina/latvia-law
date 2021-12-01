@@ -33,7 +33,7 @@ Ministru kabinets:
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
 21¹) nosaka izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm;
 22) nosaka pedagogu darba slodzes lielumu;
-23) nosaka stipendiju saņemšanas kārtību un stipendiju minimālo apmēru augstākās izglītības programmās izglītojamajiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamajiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
+23) nosaka stipendiju veidus, stipendiju saņemšanas kritērijus un kārtību, kā arī stipendiju minimālo un maksimālo apmēru augstākās izglītības programmās izglītojamiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu finansēšanas kārtību;
 24¹) (punkts stājas spēkā 01.09.2022. un iekļauts likuma redakcijā uz 01.09.2022. Sk. Pārejas noteikumu 78. punktu);
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
