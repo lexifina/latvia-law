@@ -1,0 +1,1 @@
+7. Šā likuma 21. panta nosacījumi par Eiropas Komisijai paziņoto elektroniskās identifikācijas līdzekļu izmantošanu tāda elektroniskā pakalpojuma pieprasīšanai un saņemšanai, ko publiska persona sniedz, pildot tai noteiktās funkcijas un uzdevumus, tiek piemēroti ne vēlāk kā no 2023. gada 1. janvāra.

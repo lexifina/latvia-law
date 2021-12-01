@@ -1,0 +1,2 @@
+V nodaļa
+Nacionālā elektroniskās identifikācijas līdzekļa paziņošana un piekļuve elektroniskajiem pakalpojumiem ar Eiropas Komisijai paziņotiem elektroniskās identifikācijas līdzekļiem

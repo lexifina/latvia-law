@@ -1,0 +1,1 @@
+5. Šā likuma 20. panta pirmajā daļā minētais paziņošanas pienākums neattiecas uz tiem nacionālajiem elektroniskās identifikācijas līdzekļiem, kuri paziņoti Eiropas Komisijai līdz 2021. gada 30. novembrim.

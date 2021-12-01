@@ -10,4 +10,4 @@ a) ka tikai kvalificēts vai kvalificēts paaugstinātas drošības elektronisk�
 b) izmaiņu reģistrēšanu pie tās esošajos personas elektroniskajos identifikācijas datos un šo izmaiņu kontroli un uzraudzību,
 c) ka tehnoloģiskās izmaiņas reģistrē un veic tās uzraudzībā;
 7) tā nodrošina, ka tās pārziņā esošie personas elektroniskie identifikācijas dati neļauj radīt fiziskās personas pārziņā esošo personas identifikācijas datu kopiju;
-8) tā nodrošina personas elektronisko identifikācijas datu atbilstību elektroniskās identifikācijas brīdī Iedzīvotāju reģistrā esošajiem fiziskās personas datiem.
+8) tā nodrošina pārbaudi attiecībā uz personas elektronisko identifikācijas datu atbilstību Fizisko personu reģistrā esošajiem fiziskās personas datiem, kas nav vecāki par 24 stundām pirms elektroniskās identifikācijas veikšanas.

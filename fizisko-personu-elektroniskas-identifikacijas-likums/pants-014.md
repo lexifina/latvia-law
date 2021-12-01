@@ -1,6 +1,6 @@
 14.pants. Kvalificēta vai kvalificēta paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzēja pienākumi
-Kvalificēts vai kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs (attiecībā uz kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas pakalpojumu):
-1) nodrošina elektroniskā pakalpojuma sniedzējam iespēju elektroniskā pakalpojuma sniegšanai bez maksas izmantot elektroniskās identifikācijas pakalpojuma sniedzēja elektroniskās identifikācijas pakalpojumu;
+(1) Kvalificēts vai kvalificēts paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzējs (attiecībā uz kvalificētu vai kvalificētu paaugstinātas drošības elektroniskās identifikācijas pakalpojumu):
+1) nodrošina elektroniskā pakalpojuma sniedzējam iespēju tāda elektroniskā pakalpojuma sniegšanai, ko publiska persona sniedz, pildot tai noteiktās funkcijas un uzdevumus, bez maksas izmantot elektroniskās identifikācijas pakalpojuma sniedzēja elektroniskās identifikācijas pakalpojumu;
 2) izvērtējot iespējamos riskus, elektroniskās identifikācijas pakalpojuma sniegšanai lieto informācijas sistēmas, iekārtas un procedūras, kas garantē pienācīgu elektroniskās identifikācijas pakalpojuma drošību;
 3) veic nepieciešamos pasākumus, lai garantētu personas elektronisko identifikācijas datu aizsardzību pret nelikumīgu apstrādi un izmantošanu;
 4) nodrošina elektroniskās identifikācijas līdzekļa aizsardzību pret viltošanu līdz tā izsniegšanai personai;
@@ -24,4 +24,7 @@ f) gadījumiem, kad elektroniskās identifikācijas līdzekļa darbība izbeidza
 14) normatīvajos aktos noteiktajā kārtībā sniedz tiesas, prokuratūras un izmeklēšanas iestādēm informāciju par izsniegto un darbību izbeigušo elektroniskās identifikācijas līdzekli, personas elektroniskajiem identifikācijas datiem, autentifikācijas apliecinājumiem un neveiksmīgiem autentifikācijas mēģinājumiem;
 15) atbilstoši normatīvajiem aktiem, kas attiecas uz elektroniskās identifikācijas pakalpojuma sniegšanu, izmantošanu un personas datu aizsardzību, sniedz informāciju uzraudzības institūcijai;
 16) informē datu subjektu par paredzēto personas datu apstrādi un ievēro normatīvos aktus, kas regulē informācijas sistēmu drošību un personas datu aizsardzību;
-17) nekavējoties informē uzraudzības institūciju, personas datu uzraudzības iestādi un personu par jebkādu tās datu aizsardzības un drošības pārkāpumu, kas ietekmē elektroniskās identifikācijas pakalpojuma sniedzēju un tā apstrādātos personas datus.
+17) nekavējoties informē uzraudzības institūciju, personas datu uzraudzības iestādi un personu par jebkādu tās datu aizsardzības un drošības pārkāpumu, kas ietekmē elektroniskās identifikācijas pakalpojuma sniedzēju un tā apstrādātos personas datus;
+18) nodrošina personu konsultēšanu un elektroniskās identifikācijas pakalpojuma saņemšanas diennakts atbalstu;
+19) savā tīmekļvietnē nodrošina elektronisko pakalpojumu sniedzējiem informāciju par gadījumiem, kad elektroniskās identifikācijas pakalpojuma darbība ir traucēta, ja elektroniskās identifikācijas pakalpojuma pieejamība ir mazāka par normatīvajos aktos par kvalificēta un kvalificēta paaugstinātas drošības elektroniskās identifikācijas pakalpojuma sniedzēja tehniskajām un organizatoriskajām prasībām noteikto pakalpojuma pieejamības laiku.
+(2) Nacionālā elektroniskās identifikācijas pakalpojuma sniedzējs nodrošina elektroniskā pakalpojuma sniedzējam un fiziskajai personai iespēju bez maksas izmantot nacionālā elektroniskās identifikācijas līdzekļa pakalpojumu.
