@@ -6,4 +6,4 @@
 (5) Ar tiesas atļauju lietas dalībnieki var uzdot jautājumus lieciniekam. Pirmais jautājumus uzdod lietas dalībnieks, pēc kura lūguma liecinieks izsaukts, pēc tam - citi lietas dalībnieki.
 (6) Tiesnesis var uzdot jautājumus lieciniekam jebkurā viņa nopratināšanas brīdī. Liecinieka nopratināšanas laikā jautājumus var uzdot arī lietas dalībniekiem.
 (7) Tiesa var nopratināt liecinieku otrreiz tajā pašā vai citā tiesas sēdē, kā arī konfrontēt lieciniekus.
-(8) Ja apstākļi, kuru noskaidrošanai liecinieki izsaukti, ir noskaidroti, tiesa ar lietas dalībnieku piekrišanu var nenopratināt ieradušos lieciniekus, pieņemot par to attiecīgu lēmumu. Lietas dalībnieku piekrišanu fiksē atsevišķā tiesas sagatavotā apliecinājumā, kuru paraksta katrs lietas dalībnieks.
+(8) Ja apstākļi, kuru noskaidrošanai liecinieki izsaukti, ir noskaidroti, tiesa ar lietas dalībnieku piekrišanu var nenopratināt ieradušos lieciniekus, pieņemot par to attiecīgu lēmumu.

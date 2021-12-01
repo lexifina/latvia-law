@@ -14,6 +14,6 @@ b) ziņas par nekustamā īpašuma stāvokli un līgumiem, kas noslēgti attiec�
 (3) Aprakstot tehnoloģiski savstarpēji saistītu iekārtu un ēku kopumu, norāda arī to, kurās ēkās tas atrodas, aizņemto ēku lielumu, sastāvu, darba telpu skaitu, darbgaldu un citu iekārtu skaitu.
 (4) Aprakstot nekustamo īpašumu, piemērojami arī šā likuma 576. un 577.panta noteikumi.
 (5) Parādnieks iesniedz dokumentus un plānus, ar kuriem noteikta aprakstāmā nekustamā īpašuma platība un parādnieka tiesības uz šo īpašumu, kā arī tiesu izpildītājam paziņo, kas ir nekustamā īpašuma faktiskais valdītājs un pārvaldnieks.
-(6) Tiesu izpildītājs pēc ieinteresēto personu lūguma un uz to rēķina var pieprasīt no rajona (pilsētas) tiesas to dokumentu norakstus, kuri attiecas uz aprakstāmo nekustamo īpašumu.
+(6) Tiesu izpildītājs pēc ieinteresēto personu lūguma un uz to rēķina var pieprasīt no rajona (pilsētas) tiesas tos dokumentus, kuri attiecas uz aprakstāmo nekustamo īpašumu.
 (7) Šā panta piektajā un sestajā daļā norādīto dokumentu nesaņemšana neaptur apraksti.
 (8) Ja parādnieks vai piedzinējs nav piedalījies nekustamā īpašuma aprakstē, tiesu izpildītājs aprakstes aktu tiem nosūta triju dienu laikā pēc aprakstes.

@@ -1,0 +1,1 @@
+171. No 2021. gada 1. decembra tiesas vai tiesneša nolēmumu, ko pieņem atsevišķa procesuāla dokumenta veidā, paraksta ar drošu elektronisko parakstu, izņemot gadījumu, kad tas nav iespējams tehnisku iemeslu dēļ.

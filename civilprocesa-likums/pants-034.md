@@ -16,15 +16,18 @@ f) vairāk par 711 435 euro, - 8715 euro plus 0,6 procenti no prasības summas, 
 7) par prasības nodrošinājuma pieteikumu vai pagaidu aizsardzības pieteikumu - 70 euro;
 7¹) par pieteikumu Eiropas kontu apķīlāšanas rīkojumam saskaņā ar Eiropas Parlamenta un Padomes 2014.gada 15.maija regulu Nr. 655/2014, ar ko izveido Eiropas kontu apķīlāšanas procedūru, lai atvieglotu pārrobežu parādu piedziņu civillietās un komerclietās (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 655/2014) - 0,5 procenti no prasības summas, bet ne mazāk par 70 euro;
 8) par pierādījumu nodrošināšanas pieteikumu, ja tas iesniegts pirms prasības celšanas, - 30 euro;
-9) par pieteikumu par bezstrīdus piespiedu izpildīšanu, par pieteikumu Eiropas maksājuma rīkojumam saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 12.decembra regulu (EK) Nr. 1896/2006, ar ko izveido Eiropas maksājuma rīkojuma procedūru (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1896/2006), vai par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā - 2 procenti no parāda summas vai atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības, bet ne vairāk par 500 euro;
+9) par pieteikumu Eiropas maksājuma rīkojumam saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 12.decembra regulu (EK) Nr. 1896/2006, ar ko izveido Eiropas maksājuma rīkojuma procedūru (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1896/2006), vai par nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā - 2 procenti no parāda summas vai atdodamās vai labprātīgā izsolē pārdodamās mantas vērtības, bet ne vairāk par 500 euro;
 9¹) par pieteikumu par saistību piespiedu izpildīšanu brīdinājuma kārtībā - 2 procenti no parāda summas;
+9²) par pieteikumu par bezstrīdus piespiedu izpildīšanu - 2 procenti no parāda summas vai atdodamās mantas vērtības, bet ne vairāk par 500 euro, bet, ja bezstrīdus piespiedu izpildīšana pieļaujama par saistību, kam nav mantiska rakstura vai kas nav jānovērtē, - 45 euro;
 10) par pieteikumu par izpildu raksta izdošanu uz pastāvīgās šķīrējtiesas sprieduma pamata vai ārvalsts šķīrējtiesas nolēmuma atzīšanu un izpildīšanu - 1 procents no parāda summas, bet ne vairāk par 285 euro;
 11) par pieteikumu par tiesvedības atjaunošanu un lietas jaunu izskatīšanu lietā, kurā taisīts aizmugurisks spriedums, - tādā pašā apmērā kā par prasības pieteikumu;
 12) par prasības pieteikumu par kopīgas mantas dalīšanu - tādā pašā apmērā kā par prasības pieteikumu vispārējā kārtībā;
 13) par sūdzībām tiesiskās aizsardzības procesa lietās, par sūdzībām maksātnespējas procesa lietās sakarā ar kreditoru sapulces lēmumu, par sūdzībām par Maksātnespējas kontroles dienesta lēmumiem, kā arī par Eiropas Parlamenta un Padomes 2015. gada 20. maija regulas (ES) Nr. 2015/848 par maksātnespējas procedūrām (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 2015/848) 46. un 51. pantā noteikto darbību veikšanu - 25 euro;
 14) (izslēgts ar 25.03.2021. likumu);
 15) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 70 euro;
-16) par pieteikumu par puses procesuālo tiesību pārņemšanu, ja šāds pieteikums tiesā iesniegts pēc tam, kad lietā spēkā stājies gala nolēmums, - 30 euro.
+16) par pieteikumu par puses procesuālo tiesību pārņemšanu, ja šāds pieteikums tiesā iesniegts pēc tam, kad lietā spēkā stājies gala nolēmums, - 30 euro;
+17) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. 15.06.2021. likumu);
+18) par pieteikumu par izpildu raksta dublikāta izdošanu - 15 euro.
 (2) (Ievaddaļa izslēgta no 01.01.2012. ar 04.08.2011. likumu)
 1) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 2) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);

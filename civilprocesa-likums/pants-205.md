@@ -9,3 +9,4 @@
 7) lietās, kurās sevišķu apstākļu dēļ sprieduma izpildīšanas novilcināšana var radīt ievērojamus zaudējumus piedzinējam vai arī pati piedziņa var kļūt neiespējama;
 8) lietās, kas izriet no aizgādības un saskarsmes tiesībām.
 (2) Sprieduma tūlītēja izpildīšana šā panta pirmās daļas 7.punktā paredzētajā gadījumā pieļaujama, vienīgi pieprasot no piedzinēja pienācīgu nodrošinājumu gadījumam, ja apelācijas instances tiesa spriedumu grozītu.
+(3) Šā panta pirmās daļas 1. un 8. punktā paredzētajos gadījumos tiesa arī pēc savas iniciatīvas var noteikt, ka spriedums pilnīgi vai noteiktā daļā izpildāms nekavējoties.

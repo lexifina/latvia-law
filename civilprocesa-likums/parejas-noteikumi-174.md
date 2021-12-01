@@ -1,0 +1,1 @@
+174. Līdz šā likuma 39. panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2009. gada 1. septembra noteikumi Nr. 983 "Ar lietas izskatīšanu saistīto izdevumu aprēķināšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.

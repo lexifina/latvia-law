@@ -1,0 +1,1 @@
+172. Lietas materiāliem pievienojamos dokumentus, kas iesniegti tiesā no 2021. gada 1. decembra papīra formā, tiesa pārvērš elektroniskā formā. Tiesa līdz 2023. gada 30. novembrim iesniegtos dokumentus var nepārvērst elektroniskā formā, ja ir liels papīra formas dokumentu apjoms vai ja tas nav iespējams tehnisku iemeslu dēļ.

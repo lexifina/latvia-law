@@ -1,0 +1,1 @@
+173. Līdz 2026. gada 31. decembrim šā likuma 48.³ nodaļu, kā arī grozījumus šā likuma 613. pantā un 74.² nodaļā nepiemēro gadījumos, kad ievešana valdījumā ir veicama tādā nekustamajā īpašumā, par kura lietošanu līdz 2021. gada 30. aprīlim ir noslēgts dzīvojamās telpas īres līgums un tas nav ierakstīts zemesgrāmatā.

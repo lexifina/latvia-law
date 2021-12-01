@@ -5,4 +5,4 @@
 (4) Tiesa, taisot spriedumu, visus nolēmumus pieņem ar balsu vairākumu. Spriedumu paraksta visi tiesneši.
 (5) Lietā, kuru tiesnesis izskata vienpersoniski, spriedumu paraksta tiesnesis.
 (6) Pēc sprieduma parakstīšanas to grozīt vai mainīt nav atļauts.
-(7) Spriedumā dzēsumi un aizkrāsojumi nav pieļaujami, bet labojumi un pierakstījumi atrunājami pirms visu tiesnešu parakstiem.
+(7) (Izslēgta ar 11.11.2021. likumu)

@@ -18,4 +18,4 @@
 (6) Spriedumā par tiesiskās aizsardzības procesa īstenošanu tiesa norāda ieķīlātās mantas sarakstu, uz kuru līdz tiesiskās aizsardzības procesa izbeigšanai attiecināmi ierobežojumi nodrošinātajiem kreditoriem īstenot savas tiesības.
 (7) Noraidot tiesiskās aizsardzības procesa pieteikumu, tiesa vienlaikus izbeidz tiesiskās aizsardzības procesu un piedzen no tiesiskās aizsardzības procesa pieteikuma iesniedzēja tiesas izdevumus.
 (8) Tiesas spriedums tiesiskās aizsardzības procesa lietā nav pārsūdzams, izņemot spriedumu, ar kuru noraidīts tiesiskās aizsardzības procesa pieteikums. Spriedumu, ar kuru noraidīts tiesiskās aizsardzības procesa pieteikums, var pārsūdzēt apelācijas kārtībā, ja pastāv kāds no šā likuma 440.² pantā noteiktajiem apelācijas tiesvedības ierosināšanas pamatiem.
-(9) Sprieduma norakstu izsniedz tiesiskās aizsardzības procesa pieteikuma iesniedzējam un uzraugošajai personai, kā arī nosūta atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
+(9) Spriedumu izsniedz tiesiskās aizsardzības procesa pieteikuma iesniedzējam un uzraugošajai personai, kā arī nosūta atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.

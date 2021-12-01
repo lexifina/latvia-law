@@ -6,7 +6,7 @@
 4) izdevumi sakarā ar parādnieka mantas glabāšanu, pārvadāšanu vai iznīcināšanu;
 5) ceļa izdevumi nokļūšanai sprieduma izpildes vietā;
 6) samaksa ekspertam;
-7) samaksa par mantas izsoles sludinājuma, uzaicinājuma un citu izpildes gaitā nepieciešamo sludinājumu publicēšanu;
+7) izdevumi par izsoles organizēšanu elektronisko izsoļu vietnē;
 7¹) ar lietas izskatīšanu saistītie izdevumi, kas radušies sakarā ar tiesu izpildītāja pieteikuma par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda iesniegšanu tiesā;
 8) citi piespiedu izpildes darbību veikšanai nepieciešamie izdevumi.
 (2) (Izslēgta no 01.01.2012. ar 31.10.2002. likumu)

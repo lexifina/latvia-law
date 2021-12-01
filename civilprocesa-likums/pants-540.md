@@ -1,12 +1,12 @@
 540.pants. Izpildu dokumenti
 Izpildu dokumenti ir:
-1) izpildu raksti, kas izsniegti, pamatojoties uz tiesas spriedumiem un tiesas vai tiesneša lēmumiem civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām, un krimināllietās, tiesas lēmumiem par izlīgumu apstiprināšanu, pastāvīgās šķīrējtiesas nolēmumiem, darba strīdu komisijas lēmumiem, regulatora lēmumiem par strīda vai domstarpību izskatīšanu, ārvalstu tiesu un ārvalstu šķīrējtiesu nolēmumiem, saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtajiem Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas aktiem;
-2) institūciju un amatpersonu lēmumi administratīvo pārkāpumu un likumu pārkāpumu lietās;
-2¹) tiesas vai tiesnešu nolēmumi administratīvo pārkāpumu lietās;
+1) izpildu raksti, kas sagatavoti, pamatojoties uz tiesas spriedumiem un tiesas vai tiesneša lēmumiem civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām, un krimināllietās, tiesas lēmumiem par izlīgumu apstiprināšanu, pastāvīgās šķīrējtiesas nolēmumiem, darba strīdu komisijas lēmumiem, regulatora lēmumiem par strīda vai domstarpību izskatīšanu, ārvalstu tiesu un ārvalstu šķīrējtiesu nolēmumiem, saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtajiem Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas aktiem;
+2) institūciju un amatpersonu lēmumi administratīvā pārkāpuma procesā un likumu pārkāpumu lietās;
+2¹) tiesas vai tiesnešu nolēmumi administratīvā pārkāpuma procesā;
 2²) prokurora lēmuma vai priekšraksta izraksts krimināllietās daļā par mantiskajām piedziņām;
 3) uz administratīvā akta pamata izdotie izpildrīkojumi (šā likuma 539.panta otrās daļas 2.punkts);
 4) tiesneša lēmumi par saistību bezstrīdus piespiedu izpildīšanu, saistību piespiedu izpildīšanu brīdinājuma kārtībā vai nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā;
-5) tiesas lēmumi par procesuālo sankciju piemērošanu - naudas sodu uzlikšanu;
+5) tiesas vai tiesneša lēmumi par procesuālo sankciju - naudas soda vai piespiedu naudas - piemērošanu;
 6) notāru, advokātu un tiesu izpildītāju izrakstītie rēķini;
 7) ārvalsts tiesas vai kompetentās iestādes izsniegts Eiropas izpildes rīkojums saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 805/2004;
 7¹) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41.panta 1.punktu;

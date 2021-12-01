@@ -1,4 +1,4 @@
-472.pants. Sprieduma taisīšana
+472. pants. Sprieduma taisīšanas kārtība
 (1) Pēc lietas dalībnieku paskaidrojumiem un prokurora atzinuma tiesa aiziet apspriedē, lai taisītu spriedumu.
 (2) Ja, izskatot lietu triju tiesnešu sastāvā, tiesa nenonāk pie vienota viedokļa vai visi tiesneši uzskata, ka lieta izskatāma paplašinātā sastāvā, tiesa pieņem lēmumu par lietas nodošanu izskatīšanai paplašinātā Augstākās tiesas sastāvā.
 (3) Izskatot lietu paplašinātā sastāvā, spriedumu taisa ar balsu vairākumu un to paraksta visi tiesneši.

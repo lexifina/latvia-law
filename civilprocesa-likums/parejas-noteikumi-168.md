@@ -1,0 +1,1 @@
+168. Līdz 2021. gada 30. novembrim izsniegtajiem papīra formas izpildu rakstiem vai izpildu rakstiem, kas parakstīti ar drošu elektronisko parakstu, piemēro noteikumus, kas noteikti pārējiem izpildu dokumentiem, kā arī noteikumus, kas attiecās uz izpildu rakstiem un bija spēkā līdz 2021. gada 30. novembrim.

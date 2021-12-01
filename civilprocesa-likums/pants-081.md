@@ -1,2 +1,2 @@
 81.pants. Tiesas lēmums par trešās personas pieaicināšanu vai pielaišanu piedalīties lietā
-Trešā persona tiek pieaicināta vai pielaista piedalīties lietā saskaņā ar tiesas lēmumu. Lēmums, ar kuru apmierināts vai noraidīts lūgums par trešās personas pieaicināšanu vai iestāšanos lietā, nav pārsūdzams. Lēmums tiek nosūtīts ierakstītā pasta sūtījumā.
+Trešā persona tiek pieaicināta vai pielaista piedalīties lietā saskaņā ar tiesas lēmumu. Lēmums, ar kuru apmierināts vai noraidīts lūgums par trešās personas pieaicināšanu vai iestāšanos lietā, nav pārsūdzams. Lēmums trešajai personai tiek nosūtīts uz oficiālo elektronisko adresi vai ierakstītā pasta sūtījumā.

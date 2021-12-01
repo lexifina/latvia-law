@@ -18,6 +18,7 @@
 5) tiesas spriešanas interesēs;
 6) ja nepieciešams aizsargāt ierobežotas pieejamības informāciju lietās par zaudējumu atlīdzināšanu par konkurences tiesību pārkāpumiem.
 (3¹) Tiesa rakstveidā brīdina personas, kuras piedalās tādas lietas izskatīšanā, kuras materiālos ir iekļauts valsts noslēpuma objekts vai komercnoslēpums, un kurām ir tiesības iepazīties ar lietas materiāliem, par pienākumu glabāt valsts noslēpumu vai komercnoslēpumu un par atbildību, kas paredzēta par valsts noslēpuma vai komercnoslēpuma izpaušanu. Valsts noslēpumu vai komercnoslēpumu saturošu dokumentu atvasinājumu izgatavošana nav pieļaujama.
+(3²) Ja tiesai objektīvās patiesības noskaidrošanai ir nepieciešams pārbaudīt ziņas, kas ir valsts noslēpuma objekts, šo ziņu pārbaudē piedalās personas, kurām tiesa nav ierobežojusi tiesības iepazīties ar lietas materiāliem, kas satur valsts noslēpumu, un, ja nepieciešams, citas personas, kurām ir speciālā atļauja pieejai valsts noslēpumam.
 (4) Slēgtā tiesas sēdē piedalās lietas dalībnieki, bet, ja nepieciešams, - arī eksperti un tulki.
 (5) Ja neviens lietas dalībnieks neiebilst, ar tiesas sēdes priekšsēdētāja atļauju slēgtā tiesas sēdē var piedalīties personas, kam to darīt ir īpašs iemesls.
 (6) Lietu slēgtā tiesas sēdē izskata, ievērojot visus tiesvedības noteikumus.

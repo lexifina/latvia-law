@@ -1,5 +1,5 @@
 341.⁵ pants. Tiesas darbības, kas veicamas, un jautājumi, kas izlemjami, pēc tam, kad pieņemts lēmums par tiesiskās aizsardzības procesa lietas ierosināšanu
-(1) Tiesas lēmuma par tiesiskās aizsardzības procesa lietas ierosināšanu norakstu nekavējoties nosūta:
+(1) Tiesas lēmumu par tiesiskās aizsardzības procesa lietas ierosināšanu nekavējoties nosūta:
 1) atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā;
 2) Finanšu un kapitāla tirgus komisijai, ja lēmums pieņemts par finanšu un kapitāla tirgus dalībnieku, kura darbību saskaņā ar normatīvo aktu prasībām uzrauga Finanšu un kapitāla tirgus komisija;
 3) Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktās procedūras administratoram, ja Latvijā lieta ierosināta pēc pieteikuma par Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 2. punktā noteiktās maksātnespējas procedūras uzsākšanu.
@@ -10,4 +10,4 @@
 (4) (Izslēgta ar 01.06.2017. likumu)
 (5) Ja nav panākta Maksātnespējas likuma 35.¹ pantā noteiktā vienošanās par uzraugošās personas amata kandidātu, tiesnesis pieņem lēmumu par uzraugošās personas iecelšanu, izvēloties to Maksātnespējas likuma 42. panta trešajā daļā noteiktā kreditoru vairākuma izvirzīto uzraugošās personas amata kandidātu, kurš vislabāk var nodrošināt tiesiskās aizsardzības procesa uzraudzību. Lēmumā tiesnesis norāda termiņu uzraugošās personas atzinuma sniegšanai, un tas nedrīkst būt garāks par 15 dienām no dienas, kad pieņemts lēmums par uzraugošās personas iecelšanu.
 (6) Konstatējis, ka tiesiskās aizsardzības procesa pasākumu plānā norādītajam uzraugošās personas amata kandidātam vai visiem uzraugošās personas amata kandidātiem, ko izvirzījis Maksātnespējas likuma 42. panta trešajā daļā noteiktais kreditoru vairākums, pastāv ierobežojumi uzraugošās personas pienākumu pildīšanai attiecīgajā tiesiskās aizsardzības procesā, tiesnesis pieņem lēmumu par atteikumu iecelt uzraugošo personu un nosūta uzaicinājumu parādniekam iesniegt ziņas par jaunu uzraugošās personas amata kandidātu, ko izvirzījis Maksātnespējas likuma 42. panta trešajā daļā noteiktais kreditoru vairākums. Tiesnesis lemj par uzraugošās personas amata kandidāta iecelšanu par uzraugošo personu šā panta trešajā vai piektajā daļā noteiktajā kārtībā.
-(7) Lēmuma par uzraugošās personas iecelšanu norakstu nosūta uzraugošajai personai un atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.
+(7) Lēmumu par uzraugošās personas iecelšanu nosūta uzraugošajai personai un atbildīgajai iestādei, kas veic ierakstus maksātnespējas reģistrā.

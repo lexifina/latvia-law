@@ -15,4 +15,6 @@ Sevišķā tiesāšanas kārtībā tiesa izskata lietas:
 11) par tiesiskās aizsardzības procesu un maksātnespējas procesu;
 12) par kredītiestāžu likvidāciju vai maksātnespēju;
 13) par streika vai streika pieteikuma atzīšanu par nelikumīgu;
-14) par lokauta vai lokauta pieteikuma atzīšanu par nelikumīgu.
+14) par lokauta vai lokauta pieteikuma atzīšanu par nelikumīgu;
+15) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. 15.06.2021. likumu);
+16) par nekustamā īpašuma ieguvēja ievešanu valdījumā.

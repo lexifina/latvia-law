@@ -1,4 +1,4 @@
-372.pants. Kredītiestādes maksātnespējas pieteikuma un likvidācijas pieteikuma iesniegšana un reģistrācija
-(1) Kredītiestādes maksātnespējas pieteikumu vai likvidācijas pieteikumu tiesai var iesniegt Finansu un kapitāla tirgus komisijas pārstāvis, bet šā likuma 367.panta trešajā daļā paredzētajā gadījumā - pieteicējs vai viņa pārstāvis.
-(2) Saņemot pieteikumu, pārbaudāma iesniedzēja personība. Ja nav iespējams to pārbaudīt vai iesniedzējam nav attiecīga pilnvarojuma, pieteikumu nepieņem.
-(3) Kredītiestādes maksātnespējas pieteikums un likvidācijas pieteikums reģistrējams atsevišķā reģistrā, kurā parakstās pieteikuma iesniedzējs un saņēmējs.
+372. pants. Kredītiestādes maksātnespējas pieteikuma un likvidācijas pieteikuma iesniegšana un reģistrācija
+(1) Kredītiestādes maksātnespējas pieteikumu vai likvidācijas pieteikumu tiesai var iesniegt Finanšu un kapitāla tirgus komisijas pārstāvis, bet šā likuma 367. panta trešajā daļā paredzētajā gadījumā - pieteicējs vai viņa pārstāvis. Kredītiestādes maksātnespējas pieteikumu vai likvidācijas pieteikumu iesniedz klātienē papīra formā vai tiešsaistes sistēmā.
+(2) Saņēmusi kredītiestādes maksātnespējas pieteikumu vai likvidācijas pieteikumu, tiesa pārbauda pieteikuma iesniedzēja personību. Ja nav iespējams pārbaudīt klātienē papīra formā iesniegta pieteikuma iesniedzēja personību vai pieteikuma iesniedzējam nav attiecīga pilnvarojuma, pieteikumu nepieņem.
+(3) Kredītiestādes maksātnespējas pieteikumu un likvidācijas pieteikumu reģistrē atsevišķā reģistrā, kurā parakstās pieteikuma iesniedzējs un saņēmējs. Ja kredītiestādes maksātnespējas pieteikums vai likvidācijas pieteikums saņemts tiešsaistes sistēmā, ierakstu reģistrā veic saņēmējs.

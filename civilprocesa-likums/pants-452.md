@@ -1,4 +1,4 @@
-452.pants. Procesuālo tiesību normas pārkāpums
+452.pants. Procesuālo tiesību normu pārkāpums
 (1) Tiesa ir pieļāvusi procesuālās tiesību normas pārkāpumu, ja tiesvedības laikā nav nodrošinājusi likumam atbilstošu procesuālo kārtību vai personu procesuālo tiesību ievērošanu, attiecīgo tiesību normu nepiemērojot vai nepareizi iztulkojot.
 (2) Procesuālo tiesību normas pārkāpums var būt pamats sprieduma pārsūdzēšanai kasācijas kārtībā, ja tas novedis vai varēja novest pie lietas nepareizas izspriešanas.
 (3) Par procesuālo tiesību normas pārkāpumu, kas varēja novest pie lietas nepareizas izspriešanas, katrā ziņā uzskatāms tas, ka:

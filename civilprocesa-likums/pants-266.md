@@ -1,6 +1,6 @@
 266.pants. Lietas sagatavošana iztiesāšanai un pieteikuma izskatīšana
 (1) Lietu par personas rīcībspējas ierobežojumu noteikšanu un aizgādnības nodibināšanu garīga rakstura vai citu veselības traucējumu dēļ tiesa izskata, piedaloties bāriņtiesas pārstāvim un prokuroram.
 (2) Bāriņtiesas pārstāvis piedalās, iesniedzot pierādījumus, kuriem ir nozīme lietā. Bāriņtiesas pārstāvim ir tiesības iepazīties ar lietas materiāliem, piedalīties pierādījumu pārbaudīšanā un pieteikt lūgumus.
-(3) Tiesas pienākums ir aicināt uz tiesas sēdi personu, par kuras rīcībspējas ierobežošanu izskata lietu. Pieteikuma noraksts nosūtāms personai, kurai ierosināts ierobežot rīcībspēju un nodibināt aizgādnību, izņemot gadījumu, kad šī persona pati ir pieteikuma iesniedzēja, nosakot tai laiku, ne ilgāku par 30 dienām, paskaidrojumu iesniegšanai.
+(3) Tiesas pienākums ir aicināt uz tiesas sēdi personu, par kuras rīcībspējas ierobežošanu izskata lietu. Pieteikums nosūtāms personai, kurai ierosināts ierobežot rīcībspēju un nodibināt aizgādnību, izņemot gadījumu, kad šī persona pati ir pieteikuma iesniedzēja, nosakot tai laiku, ne ilgāku par 30 dienām, paskaidrojuma iesniegšanai.
 (4) Izskatot lietu, tiesa pēc savas iniciatīvas pieprasa izziņu no ārstniecības iestādes un citus personas rīcībspējas ierobežojuma apjoma noteikšanai nepieciešamos pierādījumus no pieteicēja un iestādēm.
 (5) Tiesa, sagatavojot lietu iztiesāšanai, var sasaukt sagatavošanās sēdi un nepietiekamu pierādījumu gadījumā noteikt papildu ekspertīzes veikšanu vai pieprasīt citus pierādījumus.

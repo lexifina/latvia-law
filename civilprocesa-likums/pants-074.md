@@ -1,7 +1,7 @@
 74.pants. Puses, to tiesības un pienākumi
 (1) Civilprocesā par pusēm - prasītāju un atbildētāju - var būt jebkura fiziskā vai juridiskā persona.
 (2) Pusēm ir šādas civilprocesuālās tiesības:
-1) iepazīties ar lietas materiāliem, izdarīt no tiem izrakstus un izgatavot kopijas;
+1) iepazīties ar lietas materiāliem un izgatavot to atvasinājumus;
 2) piedalīties tiesas sēdē;
 3) pieteikt noraidījumus;
 4) iesniegt pierādījumus;
@@ -11,7 +11,7 @@
 8) izteikt savus argumentus un apsvērumus;
 9) celt iebildumus pret citu lietas dalībnieku lūgumiem, argumentiem un apsvērumiem;
 10) pārsūdzēt tiesas spriedumus un lēmumus;
-11) saņemt spriedumu, lēmumu un citu lietā esošo dokumentu norakstus, kā arī izmantot citas procesuālās tiesības, kuras tām piešķirtas ar šo likumu.
+11) saņemt spriedumu, lēmumu un citus lietā esošos dokumentus vai to atvasinājumus, kā arī izmantot citas procesuālās tiesības, kuras tām piešķirtas ar šo likumu.
 (3) Prasītājs turklāt ir tiesīgs:
 1) pilnīgi vai daļēji atteikties no prasības;
 2) samazināt prasījumu apmēru;

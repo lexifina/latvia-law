@@ -1,5 +1,5 @@
 459.pants. Kasācijas sūdzības atstāšana bez virzības
-(1) Ja kasācijas sūdzībai nav pievienoti visi nepieciešamie noraksti vai likumā paredzētajos gadījumos nav pievienots noteiktā kārtībā apliecināts kasācijas sūdzības un tai pievienoto dokumentu norakstu tulkojums, tiesnesis pieņem lēmumu atstāt kasācijas sūdzību bez virzības un nosaka termiņu trūkumu novēršanai.
+(1) Ja likumā paredzētajos gadījumos nav pievienots noteiktā kārtībā apliecināts kasācijas sūdzības un tai pievienoto dokumentu tulkojums, tiesnesis pieņem lēmumu atstāt kasācijas sūdzību bez virzības un nosaka termiņu trūkumu novēršanai.
 (2) Ja iesniedzējs noteiktā termiņā novērš lēmumā norādītos trūkumus, kasācijas sūdzība uzskatāma par iesniegtu dienā, kad tā pirmoreiz iesniegta tiesai.
 (3) Ja iesniedzējs noteiktā termiņā lēmumā norādītos trūkumus nav novērsis, kasācijas sūdzība uzskatāma par neiesniegtu un atdodama iesniedzējam, neatmaksājot drošības naudu.
 (4) Par tiesneša lēmumu, ar kuru kasācijas sūdzība atdota iesniedzējam, var iesniegt blakus sūdzību.

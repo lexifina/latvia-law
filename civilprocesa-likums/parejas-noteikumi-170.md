@@ -1,0 +1,1 @@
+170. No 2021. gada 1. decembra attiecībā uz dokumentu, kas izveidots vai pievienots tiešsaistes sistēmā, šajā likumā noteiktā prasība pēc paraksta ir izpildīta, ja dokuments ir parakstīts ar elektronisko parakstu Eiropas Parlamenta un Padomes regulas Nr. 910/2014 3. panta 10. punkta izpratnē.

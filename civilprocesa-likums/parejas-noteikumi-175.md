@@ -1,0 +1,1 @@
+175. Līdz šā likuma 39. panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai ar tiesas dokumentu atvasinājumu izgatavošanu saistīto izdevumu apmēru nosaka, piemērojot Ministru kabineta 2013. gada 19. februāra noteikumu Nr. 96 "Noteikumi par tiesas sniegtajiem maksas pakalpojumiem" 2. pielikuma 2. punktu.

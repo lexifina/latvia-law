@@ -1,3 +1,0 @@
-620.⁸ pants. Strīdi un sūdzības sakarā ar ievešanu nekustamā īpašuma valdījumā
-(1) Tā valdītāja iebildumi, no kura nekustamais īpašums pārgājis uz ieguvēju, kā arī trešo personu iebildumi pret izsolē iegūtā nekustamā īpašuma nodošanu neaptur ievešanu valdījumā. Agrākais valdītājs un trešās personas savas tiesības var pierādīt, tikai ceļot prasību tiesā.
-(2) Sūdzība, ko tiesā iesniedz trešā persona, kuras valdījumā nododamais nekustamais īpašums atrodas, aptur ievešanu valdījumā līdz sūdzības izskatīšanai. Sūdzības apmierināšana nekavē nekustamā īpašuma ieguvēju celt vispārējā kārtībā prasību pret nekustamā īpašuma valdītāju.

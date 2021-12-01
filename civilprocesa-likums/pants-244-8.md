@@ -3,7 +3,7 @@
 1) tiesības iepazīties ar lūgumu par saskarsmes personas pieaicināšanu piedalīties lietā;
 2) tiesības piedalīties tiesas sēdē;
 3) tiesības izteikt piekrišanu tam vai iebildumus pret to, ka tai ar nolēmumu tiek uzlikti pienākumi;
-4) tiesības saņemt tiesas sprieduma vai lēmuma norakstu;
+4) tiesības saņemt tiesas spriedumu vai lēmumu;
 5) pienākums pēc tiesas aicinājuma ierasties tiesā;
 6) pienākums savlaicīgi rakstveidā paziņot par iemesliem, kuru dēļ nevar ierasties uz tiesas sēdi, iesniedzot par to pierādījumus;
 7) pārsūdzēt tiesas spriedumu un lēmumu daļā, kas attiecas uz saskarsmes personu.

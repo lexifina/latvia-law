@@ -3,3 +3,4 @@
 (2) Hipotekārajam kreditoram ir tiesības piedalīties nekustamā īpašuma aprakstē, saņemt aprakstes aktu un par saviem līdzekļiem publicēt sludinājumus par izsoli, par to paziņojot tiesu izpildītājam.
 (3) Hipotekārajam kreditoram un piedzinējam ir tiesības piedalīties solīšanā, iemaksājot šā likuma 607.panta pirmajā daļā noteikto nodrošinājumu.
 (4) Piedzinējs, iesniedzot pieteikumu tiesu izpildītājam, var lūgt atlikt izsoli vai izsniegt izpildu dokumentu, pēc kura piedziņa nav izdarīta vai izdarīta nepilnīgi, ja šāds piedzinēja lūgums saņemts ne vēlāk kā septiņas dienas pirms izsoles sludinājumā norādītā izsoles noslēguma datuma.
+(5) Hipotekārais kreditors, uz kuru attiecināmas sankcijas, nevar izmantot šajā un citos šā likuma pantos tam noteiktās tiesības, ciktāl šīs tiesības nav savienojamas ar ierobežojumiem, kas noteikti ar sankcijām. Minētais nav šķērslis amata darbību veikšanai izpildu lietā.

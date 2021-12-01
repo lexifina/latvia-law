@@ -6,11 +6,11 @@
 4) tiesas lēmumi par izlīguma apstiprināšanu;
 5) pastāvīgās šķīrējtiesas nolēmumi;
 6) ārvalstu tiesu vai kompetento iestāžu un ārvalstu šķīrējtiesu nolēmumi likumā paredzētajos gadījumos;
-7) tiesas lēmumi par procesuālo sankciju piemērošanu - naudas sodu uzlikšanu;
+7) tiesas vai tiesneša lēmumi par procesuālo sankciju - naudas soda vai piespiedu naudas - piemērošanu;
 8) darba strīdu komisiju lēmumi;
 9) valsts sabiedrisko pakalpojumu regulēšanas iestādes (turpmāk - regulators) lēmumi par strīda vai domstarpību izskatīšanu.
 (2) Tiesas spriedumu izpildei noteiktajā kārtībā, ja likumā nav noteikts citādi, izpildāmi arī:
-1) institūciju un amatpersonu lēmumi administratīvo pārkāpumu un likumu pārkāpumu lietās likumā noteiktajos gadījumos;
+1) institūciju un amatpersonu lēmumi administratīvā pārkāpuma procesā un likumu pārkāpumu lietās likumā noteiktajos gadījumos;
 2) uz naudas maksājumu vērsti ar valsts varu apveltītu iestāžu un amatpersonu izdoti administratīvie akti;
 3) tiesu sistēmai piederīgo personu (notāri, advokāti, tiesu izpildītāji) nolēmumi par amata atlīdzību, atlīdzību par sniegto juridisko palīdzību un par izdevumiem, kas saistīti ar sniegtajiem pakalpojumiem, un valsts nodevu;
 4) saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtie Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas akti.

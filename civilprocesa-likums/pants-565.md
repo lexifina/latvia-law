@@ -18,4 +18,5 @@
 (3) Izpildu dokumentu piedzinējam izsniedz, ja ir segti sprieduma izpildes izdevumi, izņemot gadījumu, kad sprieduma izpildes izdevumus saskaņā ar šā likuma noteikumiem maksā piedzinējs. Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.
 (4) Izpildu dokumenta izsniegšana atpakaļ piedzinējam nav šķērslis šā dokumenta jaunai iesniegšanai izpildei likumā noteiktajā termiņā.
 (5) Izpildu dokumentu, pēc kura izpilde izdarāma valsts ienākumos, tiesu izpildītājs izsniedz Valsts ieņēmumu dienestam.
-(6) (Izslēgta ar 05.02.2009. likumu.)
+(6) (Izslēgta ar 05.02.2009. likumu)
+(7) Izpildu rakstu piedzinējam neizsniedz, bet pievieno tam atzīmi par izpildu lietas pabeigšanas iemeslu un piedzīto summu. Tiesu izpildītāja izdarītās atzīmes ir neatņemama izpildu raksta sastāvdaļa.

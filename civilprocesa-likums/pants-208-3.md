@@ -1,2 +1,2 @@
-208.³ pants. Aizmuguriska sprieduma noraksta nosūtīšana atbildētājam
-Aizmuguriska sprieduma norakstu nosūta atbildētājam ierakstītā pasta sūtījumā.
+208.³ pants. Aizmuguriska sprieduma nosūtīšana atbildētājam
+Aizmugurisku spriedumu nosūta atbildētājam uz oficiālo elektronisko adresi vai ierakstītā pasta sūtījumā.

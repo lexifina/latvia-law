@@ -5,6 +5,6 @@ Tiesa aptur tiesvedību, ja:
 3) puse vai trešā persona smagas slimības, vecuma vai invaliditātes dēļ vispār nespēj piedalīties lietas izskatīšanā;
 4) tā pieņem lēmumu par pieteikuma iesniegšanu Satversmes tiesai vai arī Satversmes tiesa ir ierosinājusi lietu sakarā ar puses vai trešās personas iesniegto konstitucionālo sūdzību;
 4¹) tā pieņem lēmumu par jautājuma uzdošanu Eiropas Savienības Tiesai prejudiciāla nolēmuma pieņemšanai;
-5) lietas izskatīšana nav iespējama, iekams nav izšķirta cita lieta, kas jāizskata civilā, kriminālā vai administratīvā kārtībā;
+5) lietas izskatīšana nav iespējama, iekams nav izšķirta cita lieta, kas izskatāma civilprocesa, kriminālprocesa, administratīvā procesa vai administratīvā pārkāpuma procesa kārtībā;
 6) (izslēgts ar 08.09.2011. likumu);
 7) Konkurences padome izskata lietu par konkurences tiesību pārkāpumu, kas saistīta ar prasījumu par zaudējumu atlīdzināšanu.

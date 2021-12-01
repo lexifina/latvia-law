@@ -7,4 +7,4 @@
 4) tas, ka tiesa nav pārbaudījusi prasījuma pamatotību;
 5) priekšlikums parādniekam 14 dienu laikā no brīdinājuma izsniegšanas dienas samaksāt pieteikumā norādīto summu, paziņojot par to tiesai, vai iesniegt tiesā iebildumus;
 6) tas, ka brīdinājumā norādītā saistība tiks nodota piespiedu izpildei, ja noteikto 14 dienu laikā nebūs iesniegti iebildumi vai pierādījumi par samaksu.
-(3) Brīdinājumu paraksta tiesnesis. Ja brīdinājums sagatavots elektroniski, tas ir saistošs bez paraksta.
+(3) Brīdinājumu apliecina ar kvalificētu elektronisko zīmogu Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 910/2014) 3. panta 27. punkta izpratnē.

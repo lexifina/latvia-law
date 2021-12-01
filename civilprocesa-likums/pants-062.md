@@ -1,5 +1,5 @@
 62.pants. Protokola saturs
-(1) Tiesas sēdes protokolā norāda:
+(1) Ja tiesas sēdes gaita netiek fiksēta, izmantojot tehniskos līdzekļus, tiesas sēdes protokolā norāda:
 1) gadu, datumu, mēnesi un tiesas sēdes vietu;
 2) tās tiesas nosaukumu, kura izskata lietu, tiesas sastāvu, tiesas sēdes sekretāru, advokātu un prokuroru, kuri piedalās lietā;
 3) to, ka tiesas sēdes gaitu fiksē ar tehniskajiem līdzekļiem;
@@ -16,6 +16,6 @@
 14) ziņas par to, kad lietas dalībnieki var iepazīties ar tiesas sēdes protokolu, skaņu ierakstu un sprieduma tekstu;
 15) tiesas sēdes slēgšanas laiku;
 16) tiesas sēdes protokola parakstīšanas laiku.
-(2) Par prasītāja atteikšanos no prasības, kā arī par to, ka atbildētājs ir atzinis prasību un lietas dalībnieki atzinuši juridiskos faktus, izdara atzīmi tiesas sēdes protokolā, un attiecīgi prasītājs, atbildētājs vai abas puses to apliecina, parakstoties atsevišķā tiesas sagatavotā apliecinājumā.
+(2) Par prasītāja atteikšanos no prasības, kā arī par to, ka atbildētājs ir atzinis prasību un lietas dalībnieki atzinuši juridiskos faktus, izdara atzīmi tiesas sēdes protokolā.
 (3) Tiesas sēdes protokolu paraksta tiesas sēdes priekšsēdētājs un tiesas sēdes sekretārs.
 (4) Ārpus tiesas sēdes izpildīto atsevišķo procesuālo darbību protokolam jāatbilst šā panta prasībām.

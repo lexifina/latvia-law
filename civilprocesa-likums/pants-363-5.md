@@ -6,7 +6,7 @@
 3) pamatojumu uzsākt Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 2.punktā noteikto maksātnespējas procedūru pret parādnieku;
 4) informāciju par to, vai citā Eiropas Savienības dalībvalstī (turpmāk - dalībvalsts) pret parādnieku ir uzsākta Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 2.punktā noteiktā maksātnespējas procedūra.
 (3) Eiropas Parlamenta un Padomes regulas Nr. 2015/848 37. panta 1. punkta "a" apakšpunktā minētā persona maksātnespējas procesa pieteikumam pievieno:
-1) tiesas nolēmuma par Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 1.punktā noteiktās maksātnespējas procedūras uzsākšanu pret parādnieku norakstu un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā;
-2) tiesas nolēmuma vai cita apliecinājuma par administratora iecelšanu Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3.panta 1.punktā noteiktajā maksātnespējas procedūrā norakstu un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā;
+1) tiesas nolēmumu par Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktās maksātnespējas procedūras uzsākšanu pret parādnieku un noteiktajā kārtībā apliecinātu tā tulkojumu valsts valodā;
+2) tiesas nolēmumu vai citu apliecinājumu par administratora iecelšanu Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktajā maksātnespējas procedūrā un noteiktajā kārtībā apliecinātu tā tulkojumu valsts valodā;
 3) dokumentus, kas apliecina, ka parādnieks Latvijā veic vai triju mēnešu laikposmā pirms pieteikuma iesniegšanas ir veicis saimniecisko darbību Eiropas Parlamenta un Padomes regulas Nr. 2015/848 2. panta 10. punkta izpratnē;
-4) dokumentus, kas apliecina valsts nodevas un citu tiesas izdevumu, kā arī maksātnespējas procesa depozīta samaksu.
+4) dokumentu, kas apliecina maksātnespējas procesa depozīta samaksu.

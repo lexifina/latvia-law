@@ -1,5 +1,5 @@
 284.pants. Paziņojums par pazudušu personu
-(1) Pēc pieteikuma pieņemšanas tiesnesis pieņem lēmumu par paziņojuma publicēšanu oficiālajā izdevumā "Latvijas Vēstnesis" uz pieteicēja rēķina.
+(1) Pēc pieteikuma pieņemšanas tiesnesis pieņem lēmumu par paziņojuma publicēšanu oficiālajā izdevumā "Latvijas Vēstnesis".
 (2) Paziņojumā norāda:
 1) tās tiesas nosaukumu, kura saņēmusi pieteikumu;
 2) tās personas vārdu, uzvārdu un dzimšanas gadu, kuru ierosināts izsludināt par mirušu, kā arī citas pieteikumā norādītās ziņas par to;

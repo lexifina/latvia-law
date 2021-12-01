@@ -14,6 +14,7 @@
 11) prasības par kapitālsabiedrības dalībnieku (akcionāru) sapulces lēmumiem;
 12) pieteikumus par kredītiestāžu likvidāciju un maksātnespēju.
 (1²) Ja izskatāmā lieta ietver prasījumu, kas ir savstarpēji saistīts ar prasījumu lietā, kura ir piekritīga Ekonomisko lietu tiesai, vai arī rajona (pilsētas) tiesā saņemta pretprasība, kas ir piekritīga Ekonomisko lietu tiesai, lietu izskata Ekonomisko lietu tiesa.
+(1³) Ja izskatāmā lieta ietver prasījumu, kas ir savstarpēji saistīts ar prasījumu lietā, kura ir piekritīga gan Ekonomisko lietu tiesai, gan Rīgas pilsētas Vidzemes priekšpilsētas tiesai saskaņā ar šā panta pirmās daļas trešajā teikumā noteikto piekritību, vai arī kādā no šīm tiesām saņemta pretprasība, kas ir piekritīga otrai tiesai, lietu izskata Rīgas pilsētas Vidzemes priekšpilsētas tiesa.
 (2) Apgabaltiesa kā apelācijas instance izskata lietas apelācijas kārtībā.
 (2¹) Apelācijas kārtībā pārsūdzētu Ekonomisko lietu tiesas nolēmumu izskata Rīgas apgabaltiesa.
 (3) Augstākā tiesa kā kasācijas instance izskata lietas kasācijas kārtībā.

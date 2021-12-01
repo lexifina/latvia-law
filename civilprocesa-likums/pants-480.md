@@ -1,4 +1,4 @@
-480.pants. Pieteikuma iesniegšanas termiņa aprēķināšana
+480. pants. Pieteikuma iesniegšanas termiņš
 Pieteikuma iesniegšanas termiņu aprēķina:
 1) šā likuma 479.panta 1.punktā norādītajiem apstākļiem - no šo apstākļu atklāšanas dienas;
 2) šā likuma 479.panta 2. un 3.punktā norādītajos gadījumos - no dienas, kad likumīgā spēkā stājies spriedums krimināllietā;

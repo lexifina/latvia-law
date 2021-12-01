@@ -1,0 +1,1 @@
+169. Papīra formas izpildu raksta nozaudēšanas gadījumā vai līdz 2021. gada 30. novembrim neizsniegta izpildu raksta pieprasīšanas gadījumā tiesa pēc piedzinēja pieteikuma izsniedz izpildu rakstu, kas parakstīts ar drošu elektronisko parakstu, atbilstoši kārtībai, kāda bija spēkā līdz 2021. gada 30. novembrim.
