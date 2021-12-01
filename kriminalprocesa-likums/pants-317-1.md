@@ -1,0 +1,12 @@
+317.¹ pants. Lietvedība elektroniskajā krimināllietā
+(1) Kriminālprocesa lietvedību kārto un visus ar šo procesu saistītos dokumentus augšupielādē vai veido un glabā elektroniskajā krimināllietā (turpmāk - e-krimināllieta).
+(2) E-krimināllieta sastāv no Kriminālprocesa informācijas sistēmas, kuras pārzinis un turētājs ir Iekšlietu ministrijas Informācijas centrs, no Prokuratūras informācijas sistēmas, kuras pārzinis un turētājs ir Latvijas Republikas Prokuratūra, no tiesu informatīvās sistēmas un e-lietas portāla, kuru pārzinis un turētājs ir Tiesu administrācija.
+(3) Papīra formā iegūtos vai sagatavotos ar šo procesu saistītos dokumentus pārvērš elektroniskā formā, tos apliecinot ar elektronisko parakstu Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk - regula Nr. 910/2014) 3. panta 10. punkta izpratnē, ievērojot šādus noteikumus:
+1) ir nodrošināts oriģinālā dokumenta satura attēlojums un atbilstība tam noteiktajā datu glabāšanas laikā;
+2) ir nodrošināta satura lasīšana elektroniski un, ja nepieciešams, atvasinājuma veidošana papīra formā;
+3) pārvērstais dokuments tiek aizsargāts pret papildinājumiem, izmaiņām vai neatļautu piekļūšanu vai iznīcināšanu.
+(4) Šā panta trešajā daļā minētos papīra formas dokumentus nodod procesa virzītājam un tos glabā līdz galīgā nolēmuma spēkā stāšanās dienai. Dokumenta glabāšanas un iznīcināšanas process notiek iestādes vadītāja noteiktajā kārtībā.
+(5) Šā panta trešajā daļā noteiktajā kārtībā elektroniskā formā pārvērstajam dokumentam ir tāds pats juridiskais spēks kā oriģinālajam dokumentam.
+(6) Dokumentus, kas veidoti vai augšupielādēti e-krimināllietā, drīkst dzēst vai izmaiņas tajos drīkst veikt tikai uz lēmuma pamata un saskaņā ar šā likuma normām.
+(7) Šajā likumā noteiktās prasības par dokumenta parakstīšanu vai apliecinājuma veikšanu ir izpildītas, ja dokumenti vai apliecinājumi izveidoti e-krimināllietas sistēmā un parakstīti ar elektronisko parakstu regulas Nr. 910/2014 3. panta 10. punkta izpratnē vai papīra dokumenta formā veiktais paraksts vai apliecinājums ir pārvērsts atbilstoši šā panta trešās daļas noteikumiem.
+(8) Valsts noslēpumu saturošus objektus apkopo atsevišķā sējumā, neievadot e-krimināllietā. E-krimināllietā par to izdara atzīmi.
