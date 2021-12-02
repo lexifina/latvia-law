@@ -1,0 +1,1 @@
+17. Saskaņā ar šā likuma 4.² panta pirmo daļu Valsts ieņēmumu dienests pieņem lēmumu par nodokļu samaksas termiņa pagarinājumu tikai pēc tam, kad Eiropas Komisija pieņēmusi lēmumu par minētajā pantā paredzētā komercdarbības atbalsta saderību ar Eiropas Savienības iekšējo tirgu.

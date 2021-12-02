@@ -1,3 +1,4 @@
 14. pants. (1) Valsts un pašvaldību iestādes, kā arī atvasinātas publiskas personas un publiskas personas kontrolētas kapitālsabiedrības, brīvostas un speciālās ekonomiskās zonas līdz 2021. gada 30. jūnijam atbrīvo komersantus un citus saimnieciskās darbības veicējus, biedrības un nodibinājumus, kurus ietekmējusi saistībā ar Covid-19 izplatību noteiktā ārkārtējā situācija, no publiskas personas mantas un publiskas personas kontrolētas kapitālsabiedrības mantas nomas maksas vai lemj par nomas maksas samazinājumu, kā arī nepiemēro kavējuma procentus un līgumsodus, ja samaksa tiek kavēta, izņemot maksu par patērētajiem pakalpojumiem - elektroenerģiju, siltumenerģiju, ūdensapgādi un citiem īpašuma uzturēšanas pakalpojumiem.
-(2) Ministru kabinets nosaka kārtību, kādā ir piemērojami šā panta pirmajā daļā noteiktie pasākumi.
+(1¹) Šā panta pirmajā daļā minēto atbalstu piemēro arī no 2021. gada 11. oktobra līdz 2021. gada 31. decembrim.
+(2) Ministru kabinets nosaka kārtību, kādā ir piemērojami šā panta pirmajā un 1.¹ daļā noteiktie pasākumi.
 (3) Izmaksas, kas rodas, piešķirot šajā pantā paredzēto atbalstu, iznomātājam netiek tieši kompensētas no valsts budžeta.
