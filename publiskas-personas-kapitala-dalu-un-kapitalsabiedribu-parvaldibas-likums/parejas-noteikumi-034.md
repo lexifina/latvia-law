@@ -1,0 +1,1 @@
+34. Publiskas personas kapitāla daļu turētājs nodrošina, ka publiskas personas kapitālsabiedrība noslēdz apdrošināšanas līgumus, kuri atbilst attiecīgi šā likuma 79. panta devītajā daļā un 117. panta piektajā daļā noteiktajam, un tie apdrošināšanas līgumi, kuri neatbilst minētajām prasībām, tiek izbeigti vai grozīti ne vēlāk kā līdz 2022. gada 1. martam.

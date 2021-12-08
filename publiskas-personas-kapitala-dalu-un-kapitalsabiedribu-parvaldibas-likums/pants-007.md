@@ -3,3 +3,4 @@
 (2) Lēmumu par publiskas personas līdzdalības saglabāšanu kapitālsabiedrībās pieņem attiecīgās publiskās personas augstākā lēmējinstitūcija. Lēmumā ietver:
 1) vērtējumu attiecībā uz atbilstību šā likuma 4.panta nosacījumiem;
 2) vispārējo stratēģisko mērķi.
+(3) Publiskai personai ir pienākums ne retāk kā reizi piecos gados pārvērtēt vispārējo stratēģisko mērķi publiskas personas kapitālsabiedrībai, kuras kapitāla daļas vai akcijas nav atsavināmas.
