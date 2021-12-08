@@ -1,0 +1,1 @@
+4. pants. Protokola 4. pantā minētajām brīvības atņemšanas vietām ir pienākums nodrošināt Protokola 2. pantā minētās Spīdzināšanas un citu nežēlīgas, necilvēcīgas vai pazemojošas izturēšanās vai sodīšanas veidu novēršanas apakškomitejas ekspertiem to pienākumu izpildei nepieciešamās tiesības, kas minētas Protokola 12. un 14. pantā.

@@ -1,0 +1,1 @@
+1. pants. 2002. gada 18. decembra Konvencijas pret spīdzināšanu un citiem nežēlīgas, necilvēcīgas vai pazemojošas izturēšanās vai sodīšanas veidiem Fakultatīvais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
