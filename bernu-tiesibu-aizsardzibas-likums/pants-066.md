@@ -1,5 +1,5 @@
 66.pants. Pašvaldību kompetence bērna tiesību aizsardzībā
-(1) Novada pašvaldība un republikas pilsētas pašvaldība analizē stāvokli bērna tiesību ievērošanas jomā, izstrādā un īsteno bērna tiesību aizsardzības programmu novada vai republikas pilsētas administratīvajā teritorijā.
+(1) Pašvaldība analizē stāvokli bērna tiesību ievērošanas jomā, izstrādā un īsteno bērna tiesību aizsardzības programmu pašvaldības administratīvajā teritorijā.
 (2) Pašvaldība atbilstoši likumam:
 1) sniedz palīdzību un atbalstu ģimenēm, kurās ir bērni, garantējot ikvienam pašvaldības teritorijā dzīvojošam bērnam pajumti, siltumu, apģērbu un vecumam un veselības stāvoklim atbilstošu uzturu;
 2) nodrošina ārpusģimenes aprūpi tiem bērniem, kuriem uz laiku vai pastāvīgi nav savas ģimenes vai kurus viņu pašu interesēs nedrīkst atstāt šajā ģimenē;

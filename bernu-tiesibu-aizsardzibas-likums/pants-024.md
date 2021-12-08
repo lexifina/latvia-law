@@ -5,3 +5,4 @@
 (4) Par vecāku pienākumu nepildīšanu vai aizgādības tiesību ļaunprātīgu izmantošanu, bērna fizisku sodīšanu, kā arī cietsirdīgu izturēšanos pret viņu vecāki saucami pie likumā noteiktās atbildības.
 (5) Vecāku gribas izpausmēm attiecībā uz bērnu var noteikt ierobežojumus neatkarīgi no viņu uzskatiem un reliģiskās pārliecības, ja ir konstatēts, ka tās fiziski vai garīgi varētu kaitēt bērna turpmākajai attīstībai.
 (6) Vecākiem vai personai, kuras aprūpē vai uzraudzībā bērns nodots (turpmāk - persona, kura atbildīga par bērna uzraudzību), ir pienākums neatstāt bērnu līdz septiņu gadu vecumam bez pieaugušā vai vismaz 13 gadus vecas personas klātbūtnes.
+(7) Vecākiem ir pienākums sadarboties ar sociālo dienestu un izmantot piedāvātās ģimenes atbalsta un palīdzības programmas, ja ir konstatēta vardarbība vai citi bērnu tiesību pārkāpumi bērna aprūpē. Par atteikšanos no sadarbības sociālais dienests informē bāriņtiesu.
