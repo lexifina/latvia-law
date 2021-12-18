@@ -1,0 +1,1 @@
+18. Par laikposmu no 2021. gada 1. jūlija līdz šā likuma 8.² panta spēkā stāšanās dienai darba devējam 30 kalendāra dienu laikā ir tiesības iesniegt Valsts ieņēmumu dienestam ziņas par kalendāra dienām, kurās darbinieks atradās dīkstāvē, kas radusies darbinieka vainas dēļ, vai kurās darba ņēmējs bija atstādināts no darba bez darba algas saglabāšanas.
