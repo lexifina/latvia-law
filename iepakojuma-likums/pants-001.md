@@ -7,7 +7,7 @@
 1⁵) depozīta iepakojuma pārdevējs - persona, kura piedāvā vai pārdod dzērienus depozīta iepakojumā galalietotājiem;
 1⁶) depozīta sistēma - izlietotā dzērienu depozīta iepakojuma pieņemšana no galalietotāja, šķirošana, pārvadāšana, uzglabāšana, pārstrāde vai sagatavošana atkārtotai izmantošanai atbilstoši tā sākotnējam uzdevumam, kā arī minēto darbību plānošana un organizēšana;
 1⁷) depozīta sistēmas operators - komersants, kura dibinātāji un dalībnieki ir depozīta iepakotāji un biedrības, kuru biedri ir depozīta iepakotāji, un kurš, pamatojoties uz līgumu ar Valsts vides dienestu, nodrošina depozīta sistēmas darbību visā Latvijas teritorijā atbilstoši normatīvo aktu prasībām;
-1⁸) depozīta maksa - maksa, kuru galalietotājs samaksā par depozīta iepakojumu dzērienu iegādes brīdī;
+1⁸) depozīta maksa - naudas summa, kuru galalietotājs brīdī, kad iegādājas dzērienu depozīta iepakojumā, iemaksā kā drošības naudu par depozīta iepakojuma atpakaļatdošanu un kuru tam atmaksā depozīta iepakojuma nodošanas brīdī;
 1⁹) depozīta iepakojuma apsaimniekošanas maksa - maksa, kas sedz attiecināmos izdevumus par depozīta iepakojuma pieņemšanu, šķirošanu, uzglabāšanu, uzskaiti un depozīta iepakojuma pieņemšanas vietas uzturēšanu;
 1¹⁰) depozīta sistēmas dalības maksa - maksa, kuru depozīta sistēmas operatoram maksā depozīta iepakotājs par dalību depozīta sistēmā;
 2) (izslēgts ar 21.04.2005. likumu);
