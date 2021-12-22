@@ -1,0 +1,1 @@
+29. Grozījums šā likuma 2. pantā, 35. panta pirmās daļas 4. punktā un 48. panta pirmajā daļā, kā arī grozījums par likuma papildināšanu ar X¹ nodaļu attiecībā uz Nacionālo bruņoto spēku darbību farmācijas jomā un ārstniecības līdzekļu apriti Nacionālajos bruņotajos spēkos stājas spēkā 2022. gada 1. aprīlī.

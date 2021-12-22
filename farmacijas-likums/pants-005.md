@@ -16,7 +16,7 @@
 15) kārtību, kādā tiek vērtēta zāļu (izņemot veterināro zāļu) klīniskās izpētes atbilstība labas klīniskās prakses prasībām;
 16) aptieku un aptieku filiāļu (izņemot veterināro aptieku) izvietojuma kritērijus;
 17) farmaceitu un farmaceitu asistentu reģistrēšanas kārtību;
-18) kārtību, kādā veterinārmedicīniskās aprūpes iestādes un praktizējošie veterinārārsti iegādājas, uzglabā, uzskaita un izlieto zāles;
+18) prasības un kārtību, kādā veterinārmedicīniskās prakses iestādes iegādājas, uzglabā, uzskaita, lieto un iznīcina zāles;
 19) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu farmaceitiskajai un veterinārfarmaceitiskajai darbībai, un kārtību, kādā tā iekasējama;
 20) ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību;
 21) kārtību, kādā vāc un apkopo informāciju un veido statistiku veterināro zāļu aprites jomā;

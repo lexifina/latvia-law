@@ -1,0 +1,1 @@
+31. Līdz šā likuma 5. panta 18. punktā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 31. maijam piemērojami Ministru kabineta 2011. gada 5. aprīļa noteikumi Nr. 258 "Kārtība, kādā veterinārmedicīniskās aprūpes iestāde un praktizējošs veterinārārsts iegādājas, uzglabā, uzskaita un izlieto zāles", ciktāl tie nav pretrunā ar šo likumu.

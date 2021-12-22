@@ -1,0 +1,1 @@
+30. Veselības inspekcija līdz 2022. gada 2. maijam pārbauda Nacionālo bruņoto spēku ārstniecības līdzekļu noliktavu un izsniedz pārbaudes aktu, ja Nacionālo bruņoto spēku noliktava atbilst farmācijas jomu regulējošo normatīvo aktu prasībām.

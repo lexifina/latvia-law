@@ -1,2 +1,2 @@
-17.pants. (1) Atļauts izplatīt tikai Latvijas Republikā reģistrētās un Latvijas zāļu reģistrā vai Latvijas veterināro zāļu reģistrā iekļautās zāles, izņemot šā likuma 10.panta 7.punktā, 12.panta 7. un 10.punktā un 20.pantā minētos gadījumus. Zāļu viltošana, viltotu zāļu ražošana un izplatīšana ir aizliegta.
+17.pants. (1) Atļauts izplatīt tikai Latvijas Republikā reģistrētās un Latvijas zāļu reģistrā vai Latvijas veterināro zāļu reģistrā iekļautās zāles, izņemot šā likuma 10. panta 7. un 7.¹ punktā, 12.panta 7. un 10.punktā un 20.pantā minētos gadījumus. Zāļu viltošana, viltotu zāļu ražošana un izplatīšana ir aizliegta.
 (2) Eiropas Zāļu novērtēšanas aģentūras centralizētajā zāļu reģistrācijas procedūrā reģistrētās zāles drīkst izplatīt bez šo zāļu reģistrācijas.

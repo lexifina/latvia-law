@@ -1,1 +1,1 @@
-54.pants. Zāļu ražotājam vai importētājam ir atļauts izplatīt saražotās zāles zāļu ražotājiem vai importētājiem, licencētām zāļu lieltirgotavām, licencētām aptiekām, ārstniecības iestādēm un veterinārmedicīnas iestādēm.
+54.pants. Zāļu ražotājam vai importētājam ir atļauts izplatīt saražotās zāles zāļu ražotājiem vai importētājiem, licencētām zāļu lieltirgotavām, licencētām aptiekām, ārstniecības iestādēm un veterinārmedicīniskās prakses iestādēm.

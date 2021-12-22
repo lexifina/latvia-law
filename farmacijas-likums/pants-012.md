@@ -1,7 +1,7 @@
 12.pants. (1) Pārtikas un veterinārais dienests savas kompetences ietvaros pilda šādas funkcijas:
 1) novērtē, klasificē un reģistrē veterinārās zāles;
 2) veido un aktualizē Latvijas Republikas veterināro zāļu reģistru, piešķir veterināro zāļu reģistrācijas numurus un kodus, veido un uztur datubāzi par novērotajām veterināro zāļu izraisītajām blakusparādībām, par veterināro zāļu klīnisko izpēti un lietošanas novērojumiem;
-3) organizē informācijas vākšanu, apkopo informāciju un veido statistiku veterināro zāļu aprites jomā, izmantojot veterināro zāļu ražotāju, importētāju, izplatītāju, praktizējošu veterinārārstu un veterinārmedicīniskās aprūpes iestāžu sniegto informāciju;
+3) organizē informācijas vākšanu, apkopo informāciju un veido statistiku veterināro zāļu aprites jomā, izmantojot veterināro zāļu ražotāju, importētāju, izplatītāju, praktizējošu veterinārārstu un veterinārmedicīniskās prakses iestāžu sniegto informāciju;
 4) nodrošina veterināro zāļu kvalitātes kontroli;
 5) nodrošina sadarbību ar citu valstu kompetentajām institūcijām veterināro zāļu novērtēšanas, reģistrēšanas un kontroles jomā;
 6) izsniedz veterināro zāļu, kā arī klīniskajiem pētījumiem paredzēto veterināro zāļu ievešanas, izvešanas un izplatīšanas atļaujas, izņemot veterināro narkotisko un psihotropo zāļu ievešanas, izvešanas un izplatīšanas atļaujas;
