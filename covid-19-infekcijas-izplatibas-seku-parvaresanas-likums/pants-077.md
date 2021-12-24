@@ -1,0 +1,10 @@
+77. pants. (1) Laikposmā no 2022. gada 1. janvāra līdz 2022. gada 31. maijam pašvaldības, aprēķinot šādiem mājsaimniecību veidiem Sociālo pakalpojumu un sociālās palīdzības likuma 35. panta pirmās daļas 2. punktā noteiktā mājokļa pabalsta apmēru, garantētā minimālā ienākuma sliekšņu summai piemēro šādu koeficientu:
+1) atsevišķi dzīvojošai pensijas vecuma personai vai atsevišķi dzīvojošai personai ar invaliditāti - koeficientu 2,5 vai pašvaldības noteikto koeficientu, ja tas ir lielāks par šajā punktā noteikto;
+2) mājsaimniecībai, kurā ir tikai pensijas vecuma personas vai personas ar invaliditāti, - koeficientu 2 vai pašvaldības noteikto koeficientu, ja tas ir lielāks par šajā punktā noteikto.
+(2) Lai daļēji kompensētu izdevumus mājokļa pabalstam, valsts nodrošina mērķdotāciju pašvaldībām 50 procentu apmērā no faktiskajiem izdevumiem mājokļa pabalsta izmaksu nodrošināšanai, kas radušies laikposmā no 2022. gada 1. janvāra līdz 2022. gada 31. maijam.
+(3) Pašvaldība, lai saņemtu šā panta otrajā daļā paredzēto mērķdotāciju, līdz pārskata mēnesim sekojošā mēneša piecpadsmitajam datumam iesniedz Labklājības ministrijai pārskatu par mērķdotācijas izlietojumu mājokļa pabalstam.
+(4) Labklājības ministrija:
+1) 10 darbdienu laikā pēc pārskata par mērķdotācijas izlietojumu mājokļa pabalstam izvērtēšanas un atzīšanas par atbilstošu veic mērķdotācijas maksājumu pašvaldībai;
+2) ir tiesīga izlases kārtībā kontrolēt mērķdotācijas izlietojumu mājokļa pabalstam, pieprasot no pašvaldības papildu informāciju;
+3) konstatējot kļūdas pārskatā par mērķdotācijas izlietojumu mājokļa pabalstam vai pārkāpumus mājokļa pabalsta piešķiršanā un izmaksā, pārtrauc mērķdotācijas izmaksu līdz pārskata par mērķdotācijas izlietojumu mājokļa pabalstam precizēšanai vai pārkāpumu novēršanai;
+4) pēc pārskata par mērķdotācijas izlietojumu mājokļa pabalstam precizēšanas vai pārkāpumu novēršanas izdara pārrēķinu un veic maksājumu par iepriekšējo periodu vai ietur nepamatoti izmaksātos līdzekļus no nākamajā mēnesī pašvaldībai paredzētajiem līdzekļiem.
