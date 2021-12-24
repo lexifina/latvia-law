@@ -38,3 +38,4 @@
 (6) Šā panta pirmajā daļā minētās atļaujas nav nepieciešamas:
 1) dalīti savāktu sadzīves atkritumu un dalīti savāktu sadzīves bīstamo atkritumu, tai skaitā pārnēsājamo bateriju un akumulatoru, savākšanas punktiem, kas izvietoti tirdzniecības vietās;
 2) atkritumu radītājam vai valdītājam tā valdījumā esošo atkritumu savākšanai un īslaicīgai uzglabāšanai pirms šo atkritumu nodošanas atkritumu apsaimniekotājam.
+(7) Šā panta pirmās daļas 2. punktā minētā atļauja nav nepieciešama izlietotā dzērienu depozīta iepakojuma pārvadāšanai līdz depozīta iepakojuma uzskaites centram.
