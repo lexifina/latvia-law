@@ -1,0 +1,1 @@
+69. Laika periodā no 2021. gada 1. decembra līdz 2022. gada 30. aprīlim šā likuma 32.² panta 4.⁸ daļā paredzēto kompensāciju elektroenerģijas galalietotājiem piemēro 50 procentu apmērā no elektroenerģijas sistēmas pakalpojuma izmaksām.
