@@ -1,5 +1,5 @@
 41.pants. Naudas sods
-(1) Naudas sods ir naudas summa, ko tiesa vai prokurors uzliek samaksāt valsts labā 30 dienu laikā šajā pantā noteiktajos apmēros kā pamatsodu, bet tiesa - arī kā papildsodu.
+(1) Naudas sods kā pamatsods vai papildsods ir naudas summa, ko tiesa vai prokurors uzliek samaksāt valsts labā 30 dienu laikā šajā pantā noteiktajos apmēros.
 (2) Naudas sods kā pamatsods atbilstoši noziedzīga nodarījuma kaitīgumam un vainīgā mantiskajam stāvoklim nosakāms:
 1) par kriminālpārkāpumu - vienas līdz simt Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
 2) par mazāk smagu noziegumu - trīs līdz tūkstoš Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
