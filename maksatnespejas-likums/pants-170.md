@@ -6,7 +6,7 @@
 1) atlīdzību pieaicinātajiem speciālistiem atbilstoši viņu sniegto pakalpojumu būtībai, apjomam un vērtībai pakalpojumu sniegšanas laikā, bet ne lielāku kā atlīdzība par analoģiskiem pakalpojumiem līdzīgās sfērās;
 2) izdevumus parādnieka mantas uzturēšanai maksātnespējas procesā;
 3) izdevumus sludinājumu ievietošanai, izsoļu organizēšanai, norēķinu konta atvēršanai, apkalpošanai un slēgšanai, izdevumus par notāra un pasta pakalpojumiem;
-4) izdevumus, kas saistīti ar lietu nodošanu arhīvā;
+4) (izslēgts no 01.01.2022. ar 15.06.2021. likumu. Sk. Pārejas noteikumu 72. punktu);
 5) komandējumu izdevumus, kas tiek aprēķināti saskaņā ar normatīvajiem aktiem par izdevumiem, kuri saistīti ar komandējumiem un darba braucieniem;
 6) izdevumus to līgumu izpildes turpināšanai, kuri nav izbeigti likumā noteiktajos gadījumos, kā arī to līgumu izpildei, kurus juridiskās personas maksātnespējas procesa laikā administrators noslēdzis ar trešajām personām;
 7) izdevumus, kas saistīti ar parādnieka likvidāciju, ieskaitot videi bīstamo atkritumu izvešanu, pārstrādi un apglabāšanu;
