@@ -1,0 +1,1 @@
+5. Līdz dienai, kad stājas spēkā šā likuma 40. panta otrā daļa, ārpakalpojuma grāmatveža profesionālās civiltiesiskās atbildības apdrošināšanas minimālais atbildības limits nedrīkst būt mazāks par 3000 euro.

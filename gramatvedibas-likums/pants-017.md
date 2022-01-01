@@ -1,0 +1,2 @@
+17. pants. Papildu noteikums par pārskata gada slēguma inventarizāciju
+Pārskata gada slēguma inventarizāciju drīkst veikt triju mēnešu laikā pirms pārskata gada beigu dienas vai mēneša laikā pēc tās, pārrēķinot inventarizācijas dienā konstatētos atlikumus atbilstoši grāmatvedības datiem pārskata gada pēdējā dienā. Inventarizācijas rezultātus ieraksta grāmatvedības reģistros līdz gada pārskata parakstīšanas datumam.

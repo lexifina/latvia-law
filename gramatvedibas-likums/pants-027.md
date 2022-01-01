@@ -1,0 +1,6 @@
+27. pants. Grāmatvedības dokumentu glabāšanas vispārīgie noteikumi
+(1) Grāmatvedības dokumenti papīra formā glabājami Latvijas Republikas teritorijā. Grāmatvedības dokumenti elektroniskā formā glabājami Latvijas Republikas vai citas Eiropas Savienības dalībvalsts teritorijā atbilstoši Eiropas Parlamenta un Padomes 2018. gada 14. novembra regulā (ES) Nr. 2018/1807 par satvaru nepersondatu brīvai apritei Eiropas Savienībā noteiktajām prasībām.
+(2) Uzņēmums grāmatvedības dokumentus sistemātiski sakārto un glabā uzņēmuma arhīvā uzņēmuma vadītāja noteiktajā kārtībā.
+(3) Grāmatvedības dokumentus līdz to nodošanai glabāšanai uzņēmuma arhīvā sistematizē (grupē, komplektē) un glabā uzņēmuma vadītāja noteiktajā kārtībā vienā vai vairākās glabāšanas vietās.
+(4) Uzņēmuma grāmatvedības dokumentus fiziskās un juridiskās personas drīkst izmantot tikai ar uzņēmuma vadītāja atļauju. Šos dokumentus drīkst izņemt no uzņēmuma tikai likumā noteiktajos gadījumos un kārtībā.
+(5) Ja uzņēmums tiek reorganizēts vai tā darbība tiek izbeigta, turpmāko uzņēmuma grāmatvedības dokumentu glabāšanas kārtību nosaka likvidācijas komisija (likvidators) vai uzņēmuma vadītājs pēc saskaņošanas ar Latvijas Nacionālo arhīvu.

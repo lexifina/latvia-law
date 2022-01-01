@@ -1,0 +1,2 @@
+42. pants. Grāmatvedības kārtošanas noteikumu neievērošana, gada pārskata un konsolidētā gada pārskata neiesniegšana
+Par grāmatvedības kārtošanas noteikumu neievērošanu, gada pārskata un konsolidētā gada pārskata neiesniegšanu Valsts ieņēmumu dienestam vai Korupcijas novēršanas un apkarošanas birojam noteiktajos termiņos vai normatīvajiem aktiem neatbilstoša gada pārskata un konsolidētā gada pārskata iesniegšanu piemēro brīdinājumu vai naudas sodu līdz četrsimt naudas soda vienībām.

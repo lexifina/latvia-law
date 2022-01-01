@@ -1,0 +1,7 @@
+3. pants. Likuma subjekti
+(1) Likums attiecas uz:
+1) Latvijas Republikā reģistrētajām komercsabiedrībām, kooperatīvajām sabiedrībām, ārvalstu komersantu filiālēm un nerezidentu (ārvalstu komersantu) pastāvīgajām pārstāvniecībām, biedrībām, nodibinājumiem, arodbiedrībām un to apvienībām, politiskajām organizācijām (partijām) un to apvienībām, reliģiskajām organizācijām un to iestādēm;
+2) Latvijas Republikā reģistrētajām Eiropas ekonomisko interešu grupām, Eiropas kooperatīvajām sabiedrībām, Eiropas komercsabiedrībām, Eiropas politiskajām partijām un Eiropas politiskajiem fondiem;
+3) iestādēm, kuras tiek finansētas no valsts budžeta vai pašvaldību budžetiem, valsts vai pašvaldību aģentūrām, citām publiskajām personām un iestādēm, patstāvīgajām iestādēm;
+4) individuālajiem komersantiem, individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, citām fiziskajām personām, kas veic saimniecisko darbību, un to apvienībām.
+(2) Ar šajā likumā lietoto terminu "uzņēmums" saprot visus šā panta pirmajā daļā minētos likuma subjektus.
