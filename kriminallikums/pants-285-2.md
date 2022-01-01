@@ -1,5 +1,5 @@
 285.² pants. Ļaunprātīga nodrošināšana ar iespēju likumīgi iegūt tiesības uzturēties Latvijas Republikā, citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā
 (1) Par ļaunprātīgu personas nodrošināšanu ar iespēju likumīgi iegūt tiesības uzturēties Latvijas Republikā, citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā -
-soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu.
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
 (2) Par ļaunprātīgu personas nodrošināšanu ar iespēju likumīgi iegūt tiesības uzturēties Latvijas Republikā, citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā, ja tas izdarīts mantkārīgā nolūkā vai ja šāda iespēja nodrošināta divām vai vairākām personām, vai ja to izdarījusi personu grupa, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.

@@ -6,8 +6,8 @@
 (4) Nosacīti atbrīvojot no kriminālatbildības, prokurors personai ar tās piekrišanu var uzlikt par pienākumu:
 1) atvainoties cietušajam;
 2) noteiktā termiņā novērst radīto kaitējumu;
-2¹) nemainīt dzīvesvietu bez Valsts probācijas dienesta piekrišanas;
-3) periodiski reģistrēties Valsts probācijas dienestā un piedalīties probācijas programmās saskaņā ar Valsts probācijas dienesta norādījumiem;
+2¹) nemainīt dzīvesvietu bez soda izpildes iestādes piekrišanas;
+3) periodiski reģistrēties soda izpildes iestādē un piedalīties probācijas programmās saskaņā ar soda izpildes iestādes norādījumiem;
 3¹) informēt par dzīvesvietas maiņu;
 4) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
 5) ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības.

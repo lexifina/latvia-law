@@ -1,0 +1,1 @@
+25. Pamatsodu - probācijas uzraudzība - sāk piemērot ar 2022. gada 1. janvāri pilngadīgām personām, kuras izdarījušas šā likuma 126., 130., 130.¹, 174., 248.², 253.² un 340. pantā paredzēto noziedzīgo nodarījumu pēc 2021. gada 31. decembra, un nepilngadīgajiem, kuri izdarījuši jebkuru šā likuma sevišķajā daļā paredzēto noziedzīgo nodarījumu pēc 2021. gada 31. decembra.

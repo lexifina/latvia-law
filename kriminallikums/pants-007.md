@@ -4,4 +4,4 @@
 (3) Mazāk smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par trim mēnešiem, bet ne ilgāku par trim gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par astoņiem gadiem.
 (4) Smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par trim gadiem, bet ne ilgāku par astoņiem gadiem, kā arī nodarījums, kurš izdarīts aiz neuzmanības un par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par astoņiem gadiem.
 (5) Sevišķi smags noziegums ir tīšs nodarījums, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par astoņiem gadiem, vai mūža ieslodzījums.
-(6) Ja par noziegumu šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par pieciem gadiem, tad par attiecīgo noziegumu tajā var paredzēt arī vieglāka soda veidu.
+(6) Ja par noziegumu šajā likumā paredzēta brīvības atņemšana uz laiku, ne ilgāku par pieciem gadiem, tad par attiecīgo noziegumu tajā paredz arī vieglāka soda veidu.
