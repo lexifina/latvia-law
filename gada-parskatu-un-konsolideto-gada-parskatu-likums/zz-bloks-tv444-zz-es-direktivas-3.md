@@ -1,7 +1,8 @@
 Peļņas vai zaudējumu aprēķina shēma vertikālā formā (klasificēta pēc izdevumu funkcijas)
 1. Neto apgrozījums:
 a) no lauksaimnieciskās darbības,
-b) no citiem pamatdarbības veidiem.
+b) no sniegtajiem būvniecības pakalpojumiem,
+c) no citiem pamatdarbības veidiem.
 2. Pārdotās produkcijas ražošanas pašizmaksa, pārdoto preču vai sniegto pakalpojumu iegādes izmaksas.
 3. Bruto peļņa vai zaudējumi.
 4. Pārdošanas izmaksas.
