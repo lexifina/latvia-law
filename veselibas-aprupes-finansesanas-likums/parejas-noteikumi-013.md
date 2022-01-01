@@ -1,1 +1,1 @@
-13. Ministru kabinets izstrādā un līdz 2021. gada 30. aprīlim iesniedz Saeimai likumprojektu par vienota valsts apmaksāto veselības aprūpes pakalpojumu apjoma un visaptverošas valsts obligātās veselības apdrošināšanas ieviešanu.
+13. Ministru kabinets izstrādā un līdz 2022. gada 1. oktobrim iesniedz Saeimai likumprojektu par vienota valsts apmaksāto veselības aprūpes pakalpojumu apjoma un visaptverošas valsts obligātās veselības apdrošināšanas ieviešanu.
