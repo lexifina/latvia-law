@@ -15,3 +15,4 @@
 1) savas darbības rezultātā radušos zaudējumu segšanai;
 2) dzīvojamās mājas īpašnieka neizpildītu saistību izpildei (parādu segšanai u.tml.).
 (7) (Izslēgta ar 19.12.2013. likumu)
+(8) Ja dzīvojamā māja atrodas uz citai personai piederošas zemes un maksājumi par likumiskās zemes lietošanas tiesībām tiek veikti ar pārvaldnieka starpniecību, pārvaldnieka pienākums ir no dzīvojamās mājas īpašnieka saņemto maksājumu nekavējoties pārskaitīt zemes īpašniekam tieši dzīvojamās mājas īpašnieka samaksātajā apmērā, kā arī glabāt iekasēto maksu par zemes lietošanas tiesībām, ja zemes īpašnieks nav sasniedzams.

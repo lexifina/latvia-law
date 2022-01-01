@@ -15,7 +15,7 @@ a) pārvaldīšanas darba plāna, tajā skaitā uzturēšanai nepieciešamo pas�
 b) attiecīgā gada budžeta projekta sagatavošana,
 c) finanšu uzskaites organizēšana;
 3) dzīvojamās mājas lietas (turpmāk - mājas lieta) vešana;
-4) līguma par piesaistītā zemesgabala lietošanu slēgšana ar zemesgabala īpašnieku;
+4) nodrošināt zemes gabala uzturēšanu atbilstoši normatīvo aktu prasībām, ja dzīvojamā māja atrodas uz citai personai piederošas zemes;
 5) informācijas sniegšana valsts un pašvaldību institūcijām.
 (3) Citas pārvaldīšanas darbības ir darbības, kas saistītas ar dzīvojamās mājas pārvaldīšanu un tiek veiktas atbilstoši dzīvojamās mājas īpašnieka gribai un maksātspējai. Pie tām pieder ar dzīvojamās mājas uzlabošanu un attīstīšanu un šim nolūkam nepieciešamo pasākumu ilgtermiņa plāna sagatavošanu saistītās darbības.
 (4) Viendzīvokļa mājas īpašniekam nav saistoši šā panta otrās daļas 2.punkta noteikumi.
