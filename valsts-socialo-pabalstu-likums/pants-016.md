@@ -1,5 +1,5 @@
 16.pants. Valsts sociālo pabalstu piešķiršana
-(1) Šā likuma 6., 7., 7.¹, 8., 8.¹, 8.² un 12. pantā noteiktos pabalstus par bērnu Ministru kabineta noteiktajā kārtībā piešķir vienam no bērna vecākiem.
+(1) Šā likuma 6., 7., 7.¹, 8., 8.¹, 8.² un 12. pantā noteiktos pabalstus par bērnu Ministru kabineta noteiktajā kārtībā piešķir vienam no bērna vecākiem. Šā likuma 6. pantā noteikto pabalstu var piešķirt laulātajam, kurš nav bērna vecāks, ja bērna vecāks, kurš saņem šā likuma 6. pantā noteikto pabalstu, iesniedz Valsts sociālās apdrošināšanas aģentūrai iesniegumu par atteikšanos no minētā pabalsta saņemšanas un laulātais, kurš nav bērna vecāks, iesniedz iesniegumu šā likuma 6. pantā noteiktā pabalsta saņemšanai par sava laulātā bērnu.
 (2) Aizbildnim šā likuma 6., 7., 7.¹, 8. un 12. pantā noteiktos pabalstus piešķir, ja:
 1) bērna vecākiem ir pārtrauktas vai atņemtas bērna aizgādības tiesības;
 2) bērna vecāki ir miruši vai atrodas bezvēsts prombūtnē;

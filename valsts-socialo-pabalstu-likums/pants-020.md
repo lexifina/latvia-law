@@ -4,6 +4,10 @@
 2) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī. Šis nosacījums neattiecas uz šā likuma 10. pantā minētā pabalsta izmaksu, ja aizbildnis un bērns, par kuru tiek maksāts pabalsts, izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī;
 3) ja pabalsta saņēmējs vai bērns, par kuru tiek maksāts pabalsts, ir miris vai saņemta informācija vai dokumenti par viņa bezvēsts prombūtni;
 4) ja pabalsta saņēmējs labprātīgi atsakās no turpmākās pabalsta saņemšanas.
+(1¹) Šā likuma 16. panta pirmās daļas otrajā teikumā minētā pabalsta izmaksu laulātajam, kurš nav bērna vecāks, pārtrauc arī tad, ja:
+1) Valsts sociālās apdrošināšanas aģentūrā saņemts tā laulātā iesniegums par ģimenes valsts pabalsta piešķiršanu, kurš ir bērna vecāks;
+2) ir miris laulātais, kurš ir bērna vecāks;
+3) laulātajam, kurš ir bērna vecāks, ir pārtrauktas vai atņemtas tā bērna aizgādības tiesības, par kuru laulātajam ir bijis piešķirts ģimenes valsts pabalsts.
 (2) Šā likuma 6., 6.¹, 7., 7.¹, 8.², 9. un 10.pantā minēto pabalstu izmaksu pārtrauc arī tad, ja:
 1) bērns ievietots valsts, pašvaldības vai privātā bērnu aprūpes un audzināšanas iestādē un atrodas pilnā tās apgādībā vai nodots audzināšanā audžuģimenei;
 2) bērna personisko interešu aizstāvībai pieņemts bāriņtiesas īpašs lēmums par pabalsta izmaksas pārtraukšanu personai, kura bērnu faktiski nekopj un neaudzina.

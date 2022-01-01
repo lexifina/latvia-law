@@ -1,0 +1,1 @@
+35. Ģimenes valsts pabalstu par laika periodu līdz 2021. gada 31. decembrim Valsts sociālās apdrošināšanas aģentūra piešķir un izmaksā tādā apmērā un kārtībā, kādu to noteica normatīvais regulējums, kas bija spēkā līdz 2021. gada 31. decembrim.
