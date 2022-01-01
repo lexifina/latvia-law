@@ -1,6 +1,6 @@
 3. pants. Ar nodokli apliekamais objekts
 1. Ar nodokli tiek aplikts iekšzemes nodokļa maksātāja taksācijas perioda (kalendārā gada) apliekamo ienākumu apjoms. Algas nodokļa objekts ir maksātāja mēneša apliekamie ienākumi. Ar nodokli apliek mikrouzņēmuma ieņēmumu daļu atbilstoši Mikrouzņēmumu nodokļa likumam.
-1.¹ Personai, kas atbilstoši Mikrouzņēmumu nodokļa likumam ir mikrouzņēmuma īpašnieks vai mikrouzņēmuma darbinieks, ar nodokli apliekamo objektu nosaka Mikrouzņēmumu nodokļa likums.
+1.¹ Personai, kas atbilstoši Mikrouzņēmumu nodokļa likumam ir mikrouzņēmumu nodokļa maksātājs, ar nodokli apliekamo objektu nosaka Mikrouzņēmumu nodokļa likums.
 2. Iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja - mēneša) apliekamais ienākums, ja šā panta 2.⁴ daļā nav noteikts citādi, ir viņa gada (mēneša) ienākums, izņemot šā likuma 9.pantā minētos neapliekamos ienākumus, no kura tiek atskaitīti:
 1) šā likuma 10.pantā noteiktie attaisnotie izdevumi;
 2) maksātāja gada diferencētais neapliekamais minimums (Valsts ieņēmumu dienesta prognozētais mēneša neapliekamais minimums vai maksātāja prognozētais mēneša neapliekamais minimums);

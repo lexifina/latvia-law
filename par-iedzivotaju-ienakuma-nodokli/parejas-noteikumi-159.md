@@ -1,1 +1,1 @@
-159. No aplikšanas ar nodokli 2021. taksācijas gadā atbrīvo ar attālinātā darba veikšanu saistītos darbinieka izdevumus, kurus atbilstoši Darba likumam sedz darba devējs, ja to kopējais apmērs mēnesī par pilnas slodzes darbu nepārsniedz 30 euro.
+159. No aplikšanas ar nodokli 2021. un 2022. taksācijas gadā atbrīvo ar attālinātā darba veikšanu saistītos darbinieka izdevumus, kurus atbilstoši Darba likumam sedz darba devējs, ja to kopējais apmērs mēnesī par pilnas slodzes darbu nepārsniedz 30 euro.

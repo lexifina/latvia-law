@@ -19,7 +19,7 @@
 7.¹ Šā likuma 3. panta trešās daļas 3. punktā un 12. punkta "a" apakšpunktā minētajam ienākumam tiek piemērota 23 procentu likme.
 8. Šā likuma 3. panta trešās daļas 12. punkta "b" apakšpunktā minētajam ienākumam tiek piemērota piecu procentu likme.
 9. (Izslēgta ar 27.11.2020. likumu)
-10. Mikrouzņēmuma darbinieka vai mikrouzņēmuma īpašnieka ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.
+10. Mikrouzņēmumu nodokļa maksātāja ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.
 11. Ja maksātājs guvis ienākumu saskaņā ar šā likuma 8.¹ pantu un aizdevuma izsniegšanas dienā ir aizdevēja darbinieks, valdes vai padomes loceklis, attiecīgajam ienākumam papildus šā panta otrajā daļā noteiktajai likmei piemēro 22 procentu papildu likmi.
 12. Sezonas laukstrādnieku ienākuma nodokļa likme ir 15 procenti, bet ne mazāka kā 0,70 euro katrā nodarbinātības dienā.
 13. Uz personālsabiedrības biedru attiecināmajai alternatīvo ieguldījumu fonda (kas ir nodibināts kā komandītsabiedrība) un ārvalsts personālsabiedrības (ja ārvalsts personālsabiedrība nav ārvalsts uzņēmumu ienākuma nodokļa vai tam pielīdzināma nodokļa maksātāja) ar nodokli apliekamā ienākuma daļai, kas ir ienākums no kapitāla, kā arī ienākums no kapitāla pieauguma, piemēro attiecīgo šā panta piektajā daļā minēto likmi.
@@ -29,7 +29,7 @@
 17. Nodokļa likme, ja maksātājs ienākuma izmaksātājam nav iesniedzis algas nodokļa grāmatiņu, ir 23 procenti, ja šā panta sešpadsmitajā, astoņpadsmitajā vai divdesmitajā daļā nav noteikts citādi. No maksātāja mēneša ienākuma šā likuma 3. panta otrās daļas 1. punktā minētos atskaitāmos izdevumus atskaita tā, kā tas saskaņā ar šā panta piecpadsmito daļu noteikts maksātāja mēneša ienākuma daļai, kas pārsniedz 1667 euro mēnesī. Šā likuma 10. panta pirmās daļas 4. punktā minētos izdevumus no ienākuma atskaita pirms nodokļa aprēķināšanas.
 18. Nodokļa likmi 20 procentu apmērā taksācijas gada laikā piemēro šā likuma 8. panta trešās daļas 8. punktā minētajam ienākumam.
 19. Šā panta septiņpadsmitajā, astoņpadsmitajā, divdesmitajā un divdesmit ceturtajā daļā minētos ienākumus iekļauj taksācijas gada kopējā apliekamajā ienākumā un tiem rezumējošā kārtībā piemēro šā panta otrajā daļā noteiktās likmes.
-19.¹ Nodokļa likme, kas rezumējošā kārtībā jāmaksā profesionālam sportistam, kurš par tādu atzīts Sporta likuma 19. panta izpratnē, no taksācijas gada kopējā algotā darba ienākuma no profesionālā sporta, ir 20 procenti.
+19.¹ Nodokļa likme, kas taksācijas gada laikā un rezumējošā kārtībā jāpiemēro profesionālam sportistam, kurš par tādu atzīts Sporta likuma 19. panta izpratnē, no taksācijas gada kopējā algotā darba ienākuma no profesionālā sporta, ir 20 procenti.
 20. Šā panta trešajā daļā noteiktās nodokļa likmes ienākuma izmaksātājs taksācijas gada laikā piemēro šādiem kalendāra mēneša laikā izmaksātajiem ienākumiem:
 1) Valsts sociālās apdrošināšanas aģentūras izmaksātajam pārejošas darba nespējas pabalstam;
 2) piešķirtajai pensijai (ieskaitot piemaksu pie pensijas par apdrošināšanas stāžu, kas uzkrāts līdz 1995. gada 31. decembrim) vai pārrēķinātajai pensijai pēc 1996. gada 1. janvāra atbilstoši likumam "Par valsts pensijām", vai izdienas pensijai, vai speciālajai valsts pensijai atbilstoši Latvijas Republikas normatīvajiem aktiem, vai pensijai atbilstoši ārvalsts normatīvajiem aktiem, vai noslēgtajam mūža pensijas apdrošināšanas līgumam (ar uzkrāto fondētās pensijas kapitālu atbilstoši Valsts fondēto pensiju likumam).
