@@ -7,6 +7,6 @@ Apsardzes sertifikātu aizliegts izsniegt personai:
 5) kurai kriminālprocesā piemērots apsūdzētā statuss par šā panta 1.punktā paredzētā noziedzīgā nodarījuma izdarīšanu;
 6) kura administratīvi sodīta par alkoholisko dzērienu, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmē izdarītiem pārkāpumiem, par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai, no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes, par sīko huligānismu, par maznozīmīga miesas bojājuma tīšu nodarīšanu vai par ļaunprātīgu nepakļaušanos policijas darbinieka, robežsarga vai zemessarga, kā arī karavīra likumīgajam rīkojumam vai prasībai, - ja nav pagājis gads pēc administratīvā soda izpildes;
 7) kurai pēdējā gada laikā anulēts apsardzes sertifikāts;
-8) kurai diagnosticēti psihiski traucējumi, alkohola, narkotisko, psihotropo vai toksisko vielu atkarība vai uzvedības traucējumi;
+8) kurai diagnosticētas medicīniskās pretindikācijas, kas dod pamatu apšaubīt tās spēju veikt apsardzes darbību;
 9) kura nav sasniegusi 18 gadu vecumu;
 10) kurai nav nepieciešamo valsts valodas prasmju.
