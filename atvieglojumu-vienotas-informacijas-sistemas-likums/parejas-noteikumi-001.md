@@ -1,0 +1,1 @@
+1. Atvieglojuma devējam, kas no valsts vai pašvaldības budžeta piešķir vai administrē atvieglojumu, kā arī atvieglojuma pakalpojumu sniedzējam atvieglojumu vienotās informācijas sistēmas lietošana ir obligāta, sākot ar 2024. gada 1. novembri.
