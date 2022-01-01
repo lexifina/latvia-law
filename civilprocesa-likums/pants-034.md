@@ -26,7 +26,7 @@ f) vairāk par 711 435 euro, - 8715 euro plus 0,6 procenti no prasības summas, 
 14) (izslēgts ar 25.03.2021. likumu);
 15) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 70 euro;
 16) par pieteikumu par puses procesuālo tiesību pārņemšanu, ja šāds pieteikums tiesā iesniegts pēc tam, kad lietā spēkā stājies gala nolēmums, - 30 euro;
-17) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. 15.06.2021. likumu);
+17) par pieteikumu par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu - 70 euro;
 18) par pieteikumu par izpildu raksta dublikāta izdošanu - 15 euro.
 (2) (Ievaddaļa izslēgta no 01.01.2012. ar 04.08.2011. likumu)
 1) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);

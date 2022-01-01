@@ -17,8 +17,11 @@ c) tiesa šā likuma 341.⁵ panta otrās daļas 2.punktā minētajā gadījumā
 12) šā likuma 560.panta pirmās daļas 9.punktā paredzētajā gadījumā - līdz bērna atrašanās vietas noskaidrošanai;
 13) šā likuma 560.panta 2.¹ daļā paredzētajā gadījumā - līdz brīdim, kad saņemts Valsts ieņēmumu dienesta paziņojums, ka saskaņā ar tās dalībvalsts iestādes sniegto informāciju, kura lūgusi savstarpēju palīdzību prasījumu piedziņā, kļuvis izpildāms sūdzības izskatīšanas procedūrā pieņemtais nolēmums par prasījuma apstrīdēšanu vai piespiedu izpildi;
 14) šā likuma 560.panta pirmās daļas 10.punktā minētajā gadījumā - līdz brīdim, kad spēkā stājies bāriņtiesas lēmums vai saņemts bāriņtiesas izvērtējums;
-15) šā likuma 560.panta 2.² daļā paredzētajā gadījumā - līdz brīdim, kad saņemts Valsts darba inspekcijas paziņojums, ka saskaņā ar pieprasījuma iesniedzējas dalībvalsts sniegto informāciju kļuvis izpildāms sūdzības izskatīšanas procedūrā pieņemtais nolēmums par lēmuma apstrīdēšanu vai pārsūdzēšanu.
-16) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. 15.06.2021. likumu);
+15) šā likuma 560.panta 2.² daļā paredzētajā gadījumā - līdz brīdim, kad saņemts Valsts darba inspekcijas paziņojums, ka saskaņā ar pieprasījuma iesniedzējas dalībvalsts sniegto informāciju kļuvis izpildāms sūdzības izskatīšanas procedūrā pieņemtais nolēmums par lēmuma apstrīdēšanu vai pārsūdzēšanu;
+16) šā likuma 560. panta pirmās daļas 11. punktā paredzētajos gadījumos - līdz dienai, kad:
+a) maksātnespējas reģistrā izdarīts ieraksts par pieteikuma par fiziskās personas atbrīvošanu no parādsaistībām izskatīšanas rezultātu un fiziskā persona nav atbrīvota no parādsaistībām,
+b) beidzies termiņš pieteikuma iesniegšanai par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu, ja maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām,
+c) stājies spēkā tiesas spriedums, ar kuru atceļ fiziskās personas atbrīvošanu no parādsaistībām;
 17) šā likuma 560. panta pirmās daļas 12. punktā paredzētajā gadījumā - līdz uz piedzinēju attiecināmo sankciju atcelšanai.
 (2) Laikā, kad izpildu lietvedība ir apturēta, tiesu izpildītājs piespiedu izpildes darbības neveic. Tiesu izpildītājs uz izpildu lietvedības apturēšanas laiku atsauc izdoto rīkojumu darbību, saglabājot reģistrētās aizlieguma un piedziņas atzīmes.
 (2¹) Tiesu izpildītājs šā likuma 560. panta pirmās daļas 7. un 8. punktā minētajos gadījumos paziņo mantas glabātājam par pienākumu nodot administratoram mantu, kuras pārdošana nav uzsākta. Reģistrētās aizlieguma un piedziņas atzīmes dzēšamas, ja:

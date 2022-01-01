@@ -10,7 +10,7 @@
 8) parādniekam pasludināts fiziskās personas maksātnespējas process;
 9) lietā par bērna nogādāšanu atpakaļ uz valsti, kurā ir viņa dzīvesvieta, vai lietā, kas izriet no aizgādības tiesībām, bāriņtiesai nav iespējams noskaidrot bērna dienas režīmu vai bērnu nav iespējams sastapt;
 10) akts par nolēmuma nepildīšanu lietā, kas izriet no saskarsmes tiesībām, nosūtīts bāriņtiesai;
-11) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. 15.06.2021. likumu);
+11) ir saņemts zvērināta notāra paziņojums par pieteikuma par fiziskās personas atbrīvošanu no parādsaistībām pieņemšanu, kurā ietvertas parādsaistības, par kuru piedziņu ievesta izpildu lieta;
 12) uz piedzinēju attiecināmas sankcijas, ar kurām noteiktie ierobežojumi nav savienojami ar attiecīgā nolēmuma izpildi.
 (2) Ja likumā noteiktajā kārtībā ir pieņemts lēmums par uzņēmuma vai uzņēmējsabiedrības privatizāciju, izpildu lietvedība pēc privatizāciju veicošās iestādes lūguma apturama, izņemot izpildu lietvedību par zaudējumu atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību.
 (2¹) Ja parādnieks, kura parāds tiek piedzīts, pamatojoties uz vienoto instrumentu, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, ir apstrīdējis vai pārsūdzējis prasījumu pieprasījuma iesniedzējā dalībvalstī vai iesniedzis sūdzību par pieprasījuma iesniedzējā dalībvalstī veiktajām piespiedu izpildes darbībām un dalībvalsts iestādē ir uzsākta sūdzības izskatīšanas procedūra, izpildu lietvedība pēc Valsts ieņēmumu dienesta lūguma ir apturama attiecībā uz apstrīdēto vai pārsūdzēto prasījuma daļu un saskaņā ar tās dalībvalsts iestādes pieprasījumu, kura lūgusi savstarpēju palīdzību prasījumu piedziņā.

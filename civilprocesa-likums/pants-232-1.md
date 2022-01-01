@@ -1,0 +1,2 @@
+232.¹ pants. Sūdzību par zvērināta notāra darbību piekritība tiesai un iesniegšanas kārtība
+Sūdzību par zvērināta notāra darbību, izpildot amata pienākumus, kā arī sūdzību par atteikšanos izpildīt šos pienākumus persona, kuras tiesības skartas, iesniedz rajona (pilsētas) tiesā pēc zvērināta notāra prakses vietas adreses 30 dienu laikā no dienas, kad zvērināts notārs izpildījis darbību, par kuru iesniegta sūdzība, vai kad viņš atteicies izpildīt šādu darbību.
