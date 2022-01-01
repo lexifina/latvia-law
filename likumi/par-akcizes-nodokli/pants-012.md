@@ -15,3 +15,11 @@ b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 til
 (3) Ministru kabinets nosaka kārtību, kādā Valsts ieņēmumu dienests izsniedz sertifikātu, kas apliecina patstāvīgas mazās alus darītavas statusu, atsaka piešķirt patstāvīgas mazās alus darītavas statusu, anulē patstāvīgas mazās alus darītavas statusa piešķiršanas sertifikātu un piemēro šā panta otrajā daļā noteikto akcīzes nodokļa likmi.
 (4) Par vienā kalendāra gadā mazo alkoholisko dzērienu darītavu saražotajiem pārējiem alkoholiskajiem dzērieniem par 1000 litriem absolūtā spirta piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 5. punktā noteiktās likmes.
 (5) Citās dalībvalstīs saražotajiem un kalendāra gadā no tām ievestajiem pārējiem alkoholiskajiem dzērieniem par 1000 litriem absolūtā spirta piemēro šā panta ceturtajā daļā noteikto likmi, ja akcīzes nodokļa maksātājs pierāda (akcīzes nodokļa deklarācijai pievienojot attiecīgus dokumentus), ka saņemtie pārējie alkoholiskie dzērieni saražoti citas dalībvalsts mazajā alkoholisko dzērienu darītavā.
+(6) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(7) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(8) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(9) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(10) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(11) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(12) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
+(13) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 135. punktu)
