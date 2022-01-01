@@ -1,6 +1,6 @@
 18.⁷ pants. Uzņēmumu reģistram iesniedzamie dokumenti maksātnespējas reģistra vešanai
 Ziņas, uz kuru pamata izdarāmi jauni ieraksti maksātnespējas reģistrā, kā arī Maksātnespējas likumā noteiktie dokumenti iesniedzami Uzņēmumu reģistram ne vēlāk kā piecu dienu laikā no attiecīgā lēmuma pieņemšanas dienas vai attiecīgo izmaiņu rašanās brīža, ja citos normatīvajos aktos nav noteikts citādi.
-Ierakstu maksātnespējas reģistrā izdara, pamatojoties uz administratora pieteikumu, likvidatora pieteikumu, ja tas Maksātnespējas likumā un citos normatīvajos aktos paredzētajos gadījumos pilda administratora pienākumus vai tiesas nolēmumu.
+Ierakstu maksātnespējas reģistrā izdara, pamatojoties uz administratora pieteikumu, likvidatora pieteikumu, ja tas Maksātnespējas likumā un citos normatīvajos aktos paredzētajos gadījumos pilda administratora pienākumus vai tiesas nolēmumu. Fiziskās personas atbrīvošanas no parādsaistībām ietvaros maksātnespējas reģistrā ierakstu izdara, pamatojoties uz tiesas spriedumu vai zvērināta notāra paziņojumu.
 Ieraksta izdarīšanai maksātnespējas reģistrā iesniedz pieteikumu, kurā norāda:
 1) parādnieka reģistrācijas numuru un nosaukumu, ja parādnieks ir juridiskā persona;
 2) parādnieka vārdu, uzvārdu, personas kodu (ja personai nav personas koda, - dzimšanas datumu, personu apliecinoša dokumenta numuru, izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), ja parādnieks ir fiziskā persona;
