@@ -1,0 +1,5 @@
+17. pants. Pieteikuma izskatīšanas atlikšana
+(1) Ja zvērināts notārs konstatē, ka parādnieks ir izpildījis šā likuma 11. panta trešajā daļā noteiktos pienākumus un nepastāv citi šķēršļi parādnieka atbrīvošanai no parādsaistībām, taču ir neatrisināti kreditoru iebildumi, kuru pamatā ir strīds par tiesībām, zvērināts notārs atliek pieteikuma izskatīšanu un nosaka termiņu, ne garāku par diviem mēnešiem, kādā kreditors ceļ prasību tiesā un iesniedz zvērinātam notāram tiesas lēmumu par tiesvedības ierosināšanu.
+(2) Pieteikuma izskatīšana tiek atlikta līdz brīdim, kad tiesā ir izlemta lieta, kas ierosināta uz kreditora pieteikuma pamata.
+(3) Ja šā panta pirmajā daļā noteiktajā termiņā kreditors neiesniedz tiesas lēmumu par tiesvedības ierosināšanu, zvērināts notārs izskata pieteikumu šā likuma 16. pantā noteiktajā kārtībā, balstoties uz pieteikumā minētajām ziņām.
+(4) Zvērināts notārs izskata pieteikumu saskaņā ar šā likuma 16. pantu pēc tam, kad parādnieks vai kreditors iesniedzis tiesas nolēmumu par kreditora prasību.

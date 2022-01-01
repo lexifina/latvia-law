@@ -1,0 +1,15 @@
+20. pants. Pienākumi un ierobežojumi, kas izriet no fiziskās personas atbrīvošanas no parādsaistībām
+(1) Pēc tam, kad maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām, parādniekam ir šādi pienākumi:
+1) turpināt pildīt saistības, no kurām viņš nav atbrīvots;
+2) triju mēnešu laikā apmeklēt sākotnējo konsultāciju sociālajā dienestā, lai konstatētu, vai viņš ir sociālā dienesta klients Sociālo pakalpojumu un sociālās palīdzības likuma izpratnē;
+3) ja parādniekam nav darba tiesisko attiecību vai tām līdzvērtīgu attiecību vai viņš neveic patstāvīgu saimniecisko darbību un ja tas ir objektīvi iespējams, nekavējoties uzsākt darba tiesiskās attiecības vai tām līdzvērtīgas attiecības, patstāvīgu saimniecisko darbību vai reģistrēties Nodarbinātības valsts aģentūrā.
+(2) Sociālais dienests, nosūtot elektronisku paziņojumu, informē zvērinātu notāru, kurš taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām, par to, ka attiecīgā persona ir apmeklējusi šā panta pirmās daļas 2. punktā minēto konsultāciju, - piecu darbdienu laikā pēc apmeklējuma.
+(3) Parādnieks triju mēnešu laikā zvērinātam notāram, kurš taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām, iesniedz vienu no šādiem apliecinājumiem:
+1) izziņu par darba tiesisko attiecību vai tām līdzvērtīgu attiecību esību, norādot to termiņu;
+2) dokumentāru apliecinājumu par reģistrēšanos kā komersantam Latvijas Republikas Uzņēmumu reģistra vestā reģistrā vai kā saimnieciskās darbības veicējam Valsts ieņēmumu dienesta nodokļu maksātāju reģistrā;
+3) dokumentus, kas objektīvi pamato darbnespēju visā triju mēnešu periodā no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām;
+4) Nodarbinātības valsts aģentūras lēmumu par bezdarbnieka statusa piešķiršanu.
+(4) Šā panta pirmās daļas 3. punktā noteiktā pienākuma nav un trešajā daļā minētie apliecinājumi nav jāiesniedz personai, kura saņem vecuma pensiju likuma "Par valsts pensijām" izpratnē vai ir sasniegusi likuma "Par valsts pensijām" 11. panta pirmajā daļā minēto vecumu.
+(5) Divus gadus no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām, attiecīgajai fiziskajai personai ir aizliegts uzņemties saistības, kas atbilst šā likuma 5. panta pirmās daļas 3. punktā minētajām saistībām.
+(6) Divus gadus no dienas, kad maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām, ir aizliegts ar attiecīgo fizisko personu nodibināt no patērētāja kreditēšanas līguma izrietošas saistības.
+(7) Ja šajā pantā noteikto pienākumu pildīšanas un noteikto ierobežojumu ievērošanas laikā fiziskā persona nomirst, statuss - fiziskā persona, kas atbrīvota no parādsaistībām, - nezūd, ja vien netiek konstatēts pamats atcelt fiziskās personas atbrīvošanu no parādsaistībām.
