@@ -4,7 +4,7 @@
 2) pieprasīt un saņemt no valsts un pašvaldību institūcijām bez maksas to rīcībā esošo juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju par parādnieku un parādnieka pārstāvjiem, tajā skaitā izmantojot Sistēmu;
 3) pieprasīt un saņemt no citām kompetentām personām un institūcijām to rīcībā esošo informāciju, kas saistīta ar juridiskās personas maksātnespējas procesa un fiziskās personas maksātnespējas procesa norisi, tajā skaitā izmantojot Sistēmu;
 4) iepazīties ar parādnieka finansiālo stāvokli un visiem dokumentiem, kā arī pieprasīt un saņemt visus dokumentus;
-5) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 72. punktu).
+5) bez maksas nodot glabāšanā valsts arhīvam parādnieka dokumentus.
 (2) Administratoram, attiecībā uz kuru tiek veiktas šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības, ir šādas tiesības:
 1) būt klāt procesuālo darbību izpildes laikā, izteikt piezīmes un lūgumus;
 2) ierosināt, lai sniedzamajām ziņām vai kādai to daļai nosaka ierobežotas pieejamības informācijas statusu;
