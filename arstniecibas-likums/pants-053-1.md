@@ -1,7 +1,1 @@
-53.¹ pants. (1) Ārstniecības personai piemērojamas darba tiesiskās attiecības regulējošo normatīvo aktu normas, ciktāl šajā likumā nav noteikts citādi.
-(2) Lai nodrošinātu ārstniecības pieejamību, pēc ārstniecības personas vai ārstniecības iestādes iniciatīvas ārstniecības personai virsstundu darbs nedrīkst pārsniegt vidēji 16 stundas septiņu dienu periodā, un to aprēķina pārskata periodā, kas nepārsniedz četrus mēnešus, ja tiek ievēroti darba drošības un veselības aizsardzības vispārīgie principi.
-(3) Virsstundu darbs pieļaujams ar ārstniecības personas piekrišanu, izņemot Darba likumā noteiktos izņēmuma gadījumus.
-(4) Ārstniecības personu aizliegts sodīt vai citādi tieši vai netieši radīt tai nelabvēlīgas sekas, ja attiecīgā persona nepiekrīt šā panta otrajā daļā minētā virsstundu darba noteikšanai.
-(5) Ja ārstniecības personai noteikts šā panta otrajā daļā minētais virsstundu darbs, tad ne retāk kā ik pēc četriem mēnešiem ārstniecības iestādei nepieciešams saņemt attiecīgās personas rakstveida piekrišanu šā panta otrajā daļā minētā virsstundu darba noteikšanai.
-(6) Ārstniecības iestāde veic to ārstniecības personu uzskaiti, kurām noteikts šā panta otrajā daļā minētais virsstundu darbs, un nodrošina šīs informācijas pieejamību Valsts darba inspekcijai.
-(7) Šā panta noteikumi attiecināmi arī uz neatliekamās medicīniskās palīdzības brigādes personu, kas nav ārstniecības persona.
+53.¹ pants.
