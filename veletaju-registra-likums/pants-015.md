@@ -8,5 +8,5 @@
 6) vēlētājs zaudējis Eiropas Savienības pilsonību;
 7) zudis tiesiskais pamats vēlētāja reģistrācijai Fizisko personu reģistrā;
 8) vēlētājs mainījis personas kodu.
-(3) Iekšlietu ministrijas Informācijas centrs saskaņā ar Sodu reģistrā iekļauto informāciju atbilstoši attiecīgajam vēlēšanu likumam aktualizē Reģistrā iekļautās ziņas, ja vēlētājs izcieš sodu brīvības atņemšanas vietā.
+(3) Ieslodzījuma vietu pārvalde saskaņā ar Ieslodzīto informācijas sistēmā iekļauto informāciju atbilstoši attiecīgajam vēlēšanu likumam aktualizē Reģistrā iekļautās ziņas, ja vēlētājs izcieš sodu brīvības atņemšanas vietā.
 (4) Reģistrā iekļautās ziņas saskaņā ar šā panta pirmo, otro un trešo daļu aktualizē līdz pulksten 18 septītajā dienā pirms vēlēšanām.
