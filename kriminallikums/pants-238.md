@@ -1,5 +1,5 @@
 238.pants. Ražošanas drošības un tehniskās disciplīnas noteikumu pārkāpšana
 (1) Par ražošanas drošības vai tehniskās disciplīnas noteikumu pārkāpšanu celtniecības darbos vai darbos, kas saistīti ar spridzināšanu, vai ar eksploziju apdraudētos uzņēmumos (uzņēmējsabiedrībās), ja tā izraisījusi smagas sekas, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
 (2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi persona, kura ir atbildīga par ražošanas drošības vai tehniskās disciplīnas noteikumu ievērošanu, vai par šā panta pirmajā daļā paredzētajām darbībām, ja tās izraisījušas divu vai vairāku cilvēku nāvi, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem, atņemot tiesības uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz desmit gadiem.

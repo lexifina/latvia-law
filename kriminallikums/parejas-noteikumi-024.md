@@ -1,0 +1,1 @@
+24. Soda veida - piespiedu darbs - jaunais nosaukums "sabiedriskais darbs" ir izmantojams, pieņemot nolēmumus par soda piemērošanu arī par tādiem noziedzīgiem nodarījumiem, kas izdarīti līdz 2021. gada 31. decembrim.

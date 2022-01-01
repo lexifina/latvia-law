@@ -1,0 +1,1 @@
+12.¹ Sākot ar 2022. gada 1. janvāri, šo pārejas noteikumu 12. punktā minētajām personām, kuras vēl nav notiesātas, papildsoda - policijas kontrole - vietā piemēro papildsodu - probācijas uzraudzība -, divas policijas kontroles dienas rēķinot kā vienu probācijas uzraudzības dienu.

@@ -1,0 +1,6 @@
+66.¹ pants. Brīvības atņemšanas piemērošana
+(1) Brīvības atņemšana ir nepilngadīgā ievietošana audzināšanas iestādē un ietver nepilngadīgā vecumam, psiholoģiskajām īpašībām un attīstības līmenim piemērotu kriminālsodu izpildi reglamentējošā likumā noteiktu sociālās uzvedības korekcijas un sociālās rehabilitācijas līdzekļu un uzvedības noteikumu kopumu.
+(2) Brīvības atņemšanas laiks nedrīkst pārsniegt desmit gadus - par sevišķi smagiem noziegumiem; piecus gadus - par smagiem noziegumiem, kas saistīti ar vardarbību vai vardarbības piedraudējumu vai izraisījuši smagas sekas; divus gadus - par citiem smagiem noziegumiem.
+(3) Par kriminālpārkāpumiem un mazāk smagiem noziegumiem brīvības atņemšanu nepiemēro.
+(4) Ja persona pirms astoņpadsmit gadu vecuma sasniegšanas izdarījusi noziedzīgu nodarījumu, par ko šā likuma sevišķās daļas attiecīgā panta sankcijā noteikta piemērojamā brīvības atņemšanas soda minimālā robeža, tiesa var piespriest sodu, kas ir zemāks par šo minimālo robežu, arī gadījumos, ja tā atzinusi, ka noziedzīgais nodarījums izdarīts atbildību pastiprinošos apstākļos.
+(5) Brīvības atņemšanu nepilngadīgajam vienmēr piemēro kopā ar papildsodu - probācijas uzraudzību, arī gadījumos, kad šis papildsods nav paredzēts šā likuma sevišķās daļas attiecīgā panta sankcijā.

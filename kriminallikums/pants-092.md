@@ -1,3 +1,3 @@
 92.pants. Parakstu vākšanas, vēlēšanu un tautas nobalsošanas dokumentu viltošana, nepareiza balsu saskaitīšana un aizklātas balsošanas pārkāpšana
 Par parakstu vākšanas dokumentu viltošanu likuma vai tautas nobalsošanas ierosināšanai vai Eiropas pilsoņu iniciatīvas atbalstīšanai vai par vēlēšanu vai tautas nobalsošanas dokumentu viltošanu vai balsu apzināti nepareizu saskaitīšanu, kā arī par apzinātu aizklātas balsošanas pārkāpšanu, ko izdarījusi valsts amatpersona vai vēlēšanu komisijas loceklis, -
-soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar piespiedu darbu, vai ar naudas sodu, atņemot tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
+soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, atņemot tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
