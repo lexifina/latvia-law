@@ -1,0 +1,2 @@
+7.³ pants. Iesnieguma iesniegšanas kārtība Valsts ieņēmumu dienestam
+Nodokļu maksātājs, izņemot fizisko personu, kura neveic saimniecisko darbību, iesniedz Valsts ieņēmumu dienestam iesniegumu, izmantojot Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmu, ja konkrētajā nodokļu jomu reglamentējošā normatīvajā aktā iesniegumam nav noteikta cita iesniegšanas kārtība. Ja iesniegums Valsts ieņēmumu dienestam ir iesniegts, izmantojot Valsts ieņēmumu dienesta elektroniskās deklarēšanas sistēmu, tam ir juridisks spēks arī tad, ja tas nesatur rekvizītu "paraksts".
