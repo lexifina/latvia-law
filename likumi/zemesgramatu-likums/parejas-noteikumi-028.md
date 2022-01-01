@@ -1,0 +1,1 @@
+28. Ministru kabinets līdz 2022. gada 1. janvārim izdara grozījumus 2009. gada 27. oktobra noteikumos Nr. 1250 "Noteikumi par valsts nodevu par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā" un valsts nodevu par īpašuma tiesību nostiprināšanu zemesgrāmatā par katru nekustamo īpašumu nosaka ne vairāk kā 50 000 euro apmērā.
