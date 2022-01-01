@@ -1,0 +1,1 @@
+141. Grozījumi šā likuma 20. pantā un šā likuma informatīvās atsauces uz Eiropas Savienības direktīvām papildināšana ar 17. punktu saistībā ar akcīzes nodokļa atbrīvojuma piemērošanu akcīzes precēm, kuras tiek piegādātas jebkuras tādas dalībvalsts bruņotajiem spēkiem, kas nav dalībvalsts, kurā nodoklis ir iekasējams, stājas spēkā 2022. gada 1. jūlijā.

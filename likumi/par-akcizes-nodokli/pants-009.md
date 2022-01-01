@@ -4,3 +4,4 @@
 (3) Reģistrētam saņēmējam un īslaicīgi reģistrētam saņēmējam nav tiesību uzglabāt, nosūtīt vai veikt citas darbības ar akcīzes precēm, piemērojot tām atlikto nodokļa maksāšanu.
 (4) Pirms reģistrēta saņēmēja darbības uzsākšanas iesniedzams šā likuma 31.pantā noteiktais vispārējais nodrošinājums. Lai īslaicīgi reģistrēts saņēmējs varētu veikt darbības ar akcīzes precēm, pirms tam iesniedzams šā likuma 31.pantā noteiktais vienreizējais nodrošinājums.
 (5) Reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs uzskaita, reģistrē un atbild par visām akcīzes precēm, kuras tas saņem.
+(6) Ja reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs ieved Latvijas Republikā ar akcīzes nodokļa markām marķējamas akcīzes preces, tām ievešanas brīdī jābūt marķētām ar akcīzes nodokļa markām atbilstoši šā likuma 27. panta pirmajā daļā noteiktajam.

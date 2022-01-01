@@ -1,3 +1,3 @@
-4.¹ pants. Ar nodokli apliekamais elektroniskajās cigaretēs izmantojamais šķidrums un elektroniskajās cigaretēs izmantojamā šķidruma sagatavošanas sastāvdaļas
-(1) Ar nodokli apliek vienreizējās un daudzkārt lietojamās elektroniskajās cigaretēs izmantojamo šķidrumu.
-(2) Ar nodokli apliek elektroniskajās cigaretēs izmantojamā šķidruma sagatavošanas sastāvdaļas (piemēram, propilēnglikolu, aromatizatorus, augu izcelsmes glicerīnu, nikotīna ekstraktus un citas vielas), kuras izmanto, lai sagatavotu elektroniskajās cigaretēs izmantojamo šķidrumu.
+4.¹ pants. Ar nodokli apliekamais elektroniskajās smēķēšanas ierīcēs izmantojamais šķidrums un elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļas
+(1) Ar nodokli apliek vienreizējās un daudzkārt lietojamās elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu.
+(2) Ar nodokli apliek elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļas (piemēram, propilēnglikolu, aromatizatorus, augu izcelsmes glicerīnu, nikotīna ekstraktus un citas vielas), kuras izmanto, lai sagatavotu elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu.

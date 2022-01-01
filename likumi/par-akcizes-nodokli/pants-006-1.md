@@ -5,7 +5,7 @@
 2) izmanto divējādi atbilstoši šā likuma 5. panta 3.¹ daļā minētajiem nosacījumiem;
 3) izmanto mineraloģiskiem procesiem, kas atbilst Eiropas Parlamenta un Padomes 2006. gada 20. decembra regulas (EK) Nr. 1893/2006, ar ko izveido NACE 2. red. saimniecisko darbību statistisko klasifikāciju, kā arī groza Padomes regulu (EEK) Nr. 3037/90 un dažas EK regulas par īpašām statistikas jomām (Dokuments attiecas uz EEZ) (turpmāk - regula Nr. 1893/2006) I pielikuma C sadaļas "Apstrādes rūpniecība" 23. nodaļā "Nemetālisko minerālu izstrādājumu ražošana" minētajām saimnieciskajām darbībām.
 (3) (Izslēgta ar 06.02.2020. likumu)
-(4) Šā panta otrās daļas 1. punkts attiecas arī uz dabasgāzi, kuru vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators un dabasgāzes sadales sistēmas operators izlieto dabasgāzes pārvades, uzglabāšanas vai sadales sistēmas tehnoloģiskajām vajadzībām.
+(4) Šā panta otrās daļas 1. punkts attiecas arī uz dabasgāzi, kura tiek izmantota vienotā dabasgāzes pārvades un uzglabāšanas sistēmā un dabasgāzes sadales sistēmā dabasgāzes pārvades, uzglabāšanas vai sadales sistēmas tehnoloģisko vajadzību nodrošināšanai.
 (5) Ministru kabinets nosaka kārtību, kādā:
 1) ar nodokli apliek šā panta pirmajā daļā minēto dabasgāzi;
 2) ar nodokli neapliek šā panta otrajā daļā minēto dabasgāzi;

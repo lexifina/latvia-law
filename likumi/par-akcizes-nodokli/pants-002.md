@@ -1,20 +1,25 @@
 2.pants. Likuma darbības joma
 (1) Šis likums nosaka kārtību, kādā akcīzes preces apliek ar akcīzes nodokli (turpmāk - nodoklis), un tas attiecas uz akcīzes precēm neatkarīgi no to izcelsmes, ar kurām Latvijas Republikā tiek veiktas likumā noteiktās darbības.
-(2) Šā likuma 8.panta piektā daļa, 20.panta otrās daļas 1.punkta "a" apakšpunkts, 25.panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa, 26., 31. un 32.pants neattiecas uz darbībām ar elektroniskajās cigaretēs izmantojamo šķidrumu, elektroniskajās cigaretēs izmantojamā šķidruma sagatavošanas sastāvdaļām, tabakas aizstājējproduktiem, bezalkoholiskajiem dzērieniem un kafiju. Šā likuma 2. panta sestā un septītā daļa, 8. pants, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. pants, izņemot tā septiņpadsmito un astoņpadsmito daļu, 26. pants, izņemot tā 1.² daļu, 31. un 32. pants neattiecas uz darbībām ar dabasgāzi. Šā likuma 2.panta sestā un septītā daļa, 8., 20., 25., 26., 27., 31. un 32.pants neattiecas uz darbībām ar uztura bagātinātājiem, kuri satur spirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību.
+(2) Atsevišķi šā likuma nosacījumi neattiecas uz darbībām ar:
+1) bezalkoholiskajiem dzērieniem un kafiju - šā likuma 8. panta piektā daļa, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa un 26., 31. un 32. pants;
+2) dabasgāzi - šā likuma 2. panta sestā un septītā daļa, 8. pants, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. pants, izņemot tā septiņpadsmito un astoņpadsmito daļu, 26. pants, izņemot tā 1.² daļu, un 31. un 32. pants;
+3) uztura bagātinātājiem, kuri satur etilspirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību, - šā likuma 2. panta sestā un septītā daļa un 8., 20., 25., 26., 27., 31. un 32. pants;
+4) elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu, elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām un tabakas aizstājējproduktiem - šā likuma 8. panta piektā daļa, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa un 31. un 32. pants.
 (2¹) Šā likuma nosacījumi (tajā skaitā par nodokļa samaksu, dokumentu iesniegšanu un citi) neattiecas uz tādu akcīzes preču uzglabāšanu, pārvietošanu un iznīcināšanu, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta.
-(3) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm attiecina arī uz šādām teritorijām:
+(3) Šā likuma nosacījumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm attiecina arī uz šādām valstīm vai teritorijām:
 1) Monako firstisti (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Francijas Republikā vai paredzēti tai);
 2) Jungholcu un Mitelbergu (Mazajā Valzertālē) (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Vācijas Federatīvajā Republikā vai paredzēti tai);
-3) Menas salu (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Lielbritānijas un Ziemeļīrijas Apvienotajā Karalistē vai paredzēti tai);
+3) (izslēgts ar 21.10.2021. likumu)
 4) Sanmarīno (darījumus ar šo teritoriju uzskata par darījumiem, kuri uzsākti Itālijas Republikā vai paredzēti tai);
-5) Apvienotās Karalistes Akrotiri un Dhekelia suverēno bāzu teritorijām (darījumus ar šīm teritorijām uzskata par darījumiem, kuri uzsākti Kiprā vai paredzēti tai).
+5) Apvienotās Karalistes Akrotiri un Dhekelia suverēno bāzu teritorijām (darījumus ar šīm teritorijām uzskata par darījumiem, kuri uzsākti Kiprā vai paredzēti tai);
+6) Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes muitas teritoriju Ziemeļīrijā saskaņā ar Līguma par Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes izstāšanos no Eiropas Savienības un Eiropas Atomenerģijas kopienas Protokola par Īriju/Ziemeļīriju 8. pantu."
 (3¹) Šā likuma noteikumus par akcīzes preču pārvietošanu no citām dalībvalstīm vai uz citām dalībvalstīm neattiecina uz šādām teritorijām:
 1) Vācijas Federatīvajā Republikā - uz Helgolandes salu un Bizingenas teritoriju;
 2) Itālijas Republikā - uz Livinjo;
 3) Spānijas Karalistē - uz Seūtu, Melilju un Kanāriju salām;
 4) Francijas Republikā - uz Francijas Republikas aizjūras departamentiem, tajā skaitā Majotu;
 5) Somijas Republikā - uz Ālandu salām;
-6) Lielbritānijas un Ziemeļīrijas Apvienotajā Karalistē un Francijas Republikā - uz Normandijas salām.
+6) (izslēgts ar 21.10.2021. likumu).
 (4) Šā likuma nosacījumi par akcīzes preču uzglabāšanu, atlikto nodokļa maksāšanu, pārvietošanu, nosūtīšanu, saņemšanu, ražošanu, apstrādi, pārstrādi, fasēšanu, naftas produktu sajaukšanu, akcīzes nodokļa marku, speciālās atļaujas (licences) un nodrošinājuma nepieciešamību neattiecas uz akcīzes precēm, kuras ieved Savienības muitas teritorijā pagaidu glabāšanā, brīvās zonās vai brīvās noliktavās vai kurām piemēro Padomes regulas Nr. 952/2013 210.pantā minētās īpašas procedūras.
 (5) (Izslēgta ar 01.12.2009. likumu)
 (6) Speciāla atļauja (licence) nepieciešama šādām konkrētām darbībām ar akcīzes precēm:
@@ -36,3 +41,5 @@
 1) speciālas atļaujas (licences) darbībām ar dabasgāzi izsniegšanas, pārreģistrācijas, anulēšanas un izmantošanas kārtību, kā arī valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju;
 2) kārtību, kādā vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators un dabasgāzes sadales sistēmas operators sniedz Valsts ieņēmumu dienestam informāciju par dabasgāzes aprites rādītājiem.
 (8) Nelabvēlīga lēmuma apstrīdēšana vai pārsūdzēšana saistībā ar tādu licenču vai atsevišķu to nosacījumu, atļauju, apliecību, sertifikātu vai izziņu pārreģistrāciju, apturēšanu vai anulēšanu, kuras paredzētas uz likuma pamata izdotajos normatīvajos aktos, neaptur šā lēmuma darbību.
+(9) Labvēlīgu lēmumu par speciālās atļaujas (licences) izsniegšanu vai pārreģistrāciju rakstveidā neizsniedz, bet izsniedz speciālo atļauju (licenci). Lēmumu par speciālās atļaujas (licences) anulēšanu, ja tas pieņemts, pamatojoties uz nodokļu maksātāja iesniegumu, rakstveidā neizsniedz, bet nosūta nodokļu maksātājam paziņojumu par pieņemto lēmumu.
+(10) Persona ar Valsts ieņēmumu dienestu sazinās elektroniski, izmantojot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmu, ja šajā likumā un citos likumos nav noteikts citādi.

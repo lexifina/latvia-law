@@ -13,4 +13,6 @@ Likumā iekļautas tiesību normas, kas izriet no šādām direktīvām:
 12) Padomes 2011.gada 21.jūnija direktīvas Nr.2011/64/ES par tabakas izstrādājumiem piemērotā akcīzes nodokļa struktūru un likmēm (kodificēta redakcija);
 13) Padomes 2013.gada 17.decembra direktīvas 2013/61/ES, ar ko direktīvu 2006/112/EK un direktīvu 2008/118/EK groza attiecībā uz Francijas tālākajiem reģioniem un īpaši Majotu;
 14) Eiropas Parlamenta un Padomes 2014.gada 3.aprīļa direktīvas 2014/40/ES par dalībvalstu normatīvo un administratīvo aktu tuvināšanu attiecībā uz tabakas un saistīto izstrādājumu ražošanu, noformēšanu un pārdošanu un ar ko atceļ direktīvu 2001/37/EK (Dokuments attiecas uz EEZ);
-15) Padomes 2019. gada 18. februāra direktīvas (ES) 2019/475, ar ko groza direktīvas 2006/112/EK un 2008/118/EK attiecībā uz Itālijas pašvaldības Campione d'Italia un Lugāno ezera Itālijas ūdeņu iekļaušanu Savienības muitas teritorijā un direktīvas 2008/118/EK teritoriālajā piemērošanā.
+15) Padomes 2019. gada 18. februāra direktīvas (ES) 2019/475, ar ko groza direktīvas 2006/112/EK un 2008/118/EK attiecībā uz Itālijas pašvaldības Campione d'Italia un Lugāno ezera Itālijas ūdeņu iekļaušanu Savienības muitas teritorijā un direktīvas 2008/118/EK teritoriālajā piemērošanā;
+16) Padomes 2020. gada 29. jūlija direktīva (ES) 2020/1151, ar ko groza direktīvu 92/83/EEK par to, kā saskaņojams akcīzes nodoklis spirtam un alkoholiskajiem dzērieniem;
+17) (punkts stājas spēkā 01.07.2022. un iekļauts likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 141. punktu).

@@ -20,4 +20,4 @@
 1.9. zemākie alkiltretbutilēteri [metiltretbutilēteris (MTBE) un etiltretbutilēteris (ETBE)];
 1.10. gatavi antidetonatori un citādas gatavās piedevas minerāleļļām, ko izmanto tādām pašām vajadzībām kā minerāleļļas;
 1.11. lietošanai gatavās saistvielas, ķīmiskie produkti (arī produkti, kas satur dabīgu produktu maisījumus), kas nav minēti vai iekļauti citur;
-1.12. eļļas atkritumi, kuri ietilpst Kombinētās nomenklatūras 2710.preču pozīcijā.
+1.12. (izslēgts ar 21.10.2021. likumu).

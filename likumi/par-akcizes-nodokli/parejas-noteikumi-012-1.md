@@ -3,7 +3,7 @@
 a) reģistrēts saņēmējs,
 b) persona, kas saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu vai tabakas izstrādājumu, vai naftas produktu vairumtirdzniecībai,
 c) persona, kas saņēmusi speciālo atļauju (licenci) alkoholisko dzērienu vai naftas produktu mazumtirdzniecībai;
-2) uzskaitē esošo alkoholisko dzērienu un tabakas izstrādājumu akcīzes nodokļa marku krājumus, ja par attiecīgajām akcīzes precēm nodoklis atbilstoši saņemtajām akcīzes nodokļa markām samaksāts saskaņā ar šā likuma 23.panta četrpadsmito daļu:
+2) uzskaitē esošo alkoholisko dzērienu un tabakas izstrādājumu akcīzes nodokļa marku krājumus, ja par attiecīgajām akcīzes precēm nodoklis atbilstoši saņemtajām akcīzes nodokļa markām samaksāts:
 a) apstiprināts noliktavas turētājs,
 b) importētājs, ja ar attiecīgajām akcīzes nodokļa markām marķēt paredzētajām vai marķētajām akcīzes precēm nav piemērota muitas procedūra - laišana brīvā apgrozībā,
 c) reģistrēts saņēmējs un īslaicīgi reģistrēts saņēmējs, ja ar attiecīgajām akcīzes nodokļa markām marķētās akcīzes preces nav saņemtas Latvijas Republikā;

@@ -21,7 +21,7 @@ a) viens litrs alkoholiskā dzēriena ar spirta saturu virs 22 tilpumprocentiem 
 b) divi litri alkoholiskā dzēriena ar spirta saturu līdz 22 tilpumprocentiem, izņemot negāzēto vīnu un alu,
 c) šā panta ceturtās daļas 2.punkta "a" un "b" apakšpunktā minētie alkoholiskie dzērieni jebkurā kombinācijā, ja procentu daļa, ko izmanto no individuāli noteiktajiem daudzumiem, kopā nepārsniedz 100 procentus. Katrs šā panta ceturtās daļas 2.punkta "a" un "b" apakšpunktā norādītais daudzums atsevišķi veido 100 procentus no attiecīgajā apakšpunktā norādītā alkoholiskā dzēriena daudzuma,
 d) četri litri negāzētā vīna un 16 litri alus;
-3) bezalkoholiskos dzērienus, kafiju, elektroniskajās cigaretēs izmantojamo šķidrumu, elektroniskajās cigaretēs izmantojamā šķidruma sagatavošanas sastāvdaļas un tabakas aizstājējproduktus, ievērojot Pievienotās vērtības nodokļa likumā noteiktos nosacījumus un ierobežojumus preču vērtībai;
+3) bezalkoholiskos dzērienus, kafiju, elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu, elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļas un tabakas aizstājējproduktus, ievērojot Pievienotās vērtības nodokļa likumā noteiktos nosacījumus un ierobežojumus preču vērtībai;
 4) degvielu, kas atrodas:
 a) transportlīdzekļa degvielas standarttvertnē,
 b) degvielas pārvietojamās tvertnēs - ne vairāk kā 10 litru vienam transportlīdzeklim.

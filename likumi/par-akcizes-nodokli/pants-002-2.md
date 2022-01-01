@@ -5,4 +5,4 @@
 2.1.3. naftas produkti ar svina saturu vairāk nekā 0,013 g/l, kuriem pievienots etilspirts vai etilspirta atvasinājums ETBE (atsevišķi vai kopā ar etilspirtu);
 2.2. gatavi antidetonatori (uz svina savienojuma bāzes un citādi) un citādas gatavās piedevas minerāleļļām, ko izmanto tādām pašām vajadzībām kā minerāleļļas;
 2.3. lietošanai gatavās saistvielas, ķīmiskie produkti (arī produkti, kas satur dabīgu produktu maisījumus), kas nav minēti vai iekļauti citur;
-2.4. eļļas atkritumi, kuri ietilpst Kombinētās nomenklatūras 2710.preču pozīcijā.
+2.4. (izslēgts ar 21.10.2021. likumu).
