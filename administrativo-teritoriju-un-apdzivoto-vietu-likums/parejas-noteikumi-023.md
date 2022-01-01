@@ -1,1 +1,0 @@
-23. Ministru kabinets līdz 2021. gada 1. janvārim izstrādā likumprojektu par administratīvo reģionu izveidi Vidzemē, Latgalē, Kurzemē, Zemgalē un Rīgas reģionā valsts un pašvaldību kopīgu funkciju realizēšanai.

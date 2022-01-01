@@ -1,0 +1,1 @@
+38. Pēc 2029. gada pašvaldību vēlēšanām jaunizveidotās pašvaldības apvieno pašvaldību saimnieciskā gada budžetus un ne vēlāk kā mēneša laikā pēc jaunievēlētās pašvaldības domes pirmās sēdes tos apstiprina.

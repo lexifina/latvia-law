@@ -1,1 +1,1 @@
-31. Ministru kabinets, izvērtējot Saeimas 2019. gada 21. marta paziņojumā "Par administratīvi teritoriālās reformas turpināšanu" noteiktā mērķa sasniegšanas scenārijus, līdz 2022. gada 1. janvārim iesniedz Saeimai priekšlikumus par Varakļānu novada administratīvo teritoriju.
+31. Ministru kabinets, izvērtējot Saeimas 2019. gada 21. marta paziņojumā "Par administratīvi teritoriālās reformas turpināšanu" noteiktā mērķa sasniegšanas scenārijus, līdz 2023. gada 1. janvārim iesniedz Saeimai priekšlikumus par Varakļānu novada administratīvo teritoriju.
