@@ -8,4 +8,4 @@ a) savstarpējo norēķinu atlikumu summas (piemēro 77.panta nosacījumus),
 b) ieņēmumu vai izmaksu summas (piemēro 78.panta nosacījumus),
 c) līdzekļu (aktīvu) bilances vērtības palielinājuma vai samazinājuma summas (piemēro 79.panta nosacījumus);
 5) nosaka mazākumakcionāru līdzdalības daļu konsolidācijā iesaistīto meitas sabiedrību pašu kapitālā un pārskata gada peļņā vai zaudējumos (piemēro 80.panta nosacījumus).
-(2) Konsolidēto finanšu pārskatu pamato ar aprēķiniem un tabulām, kuru sagatavošanā ievēro likumā "Par grāmatvedību" attaisnojuma dokumentiem un grāmatvedības reģistriem noteiktās prasības. Minēto dokumentu - aprēķinu un tabulu - glabāšanas laiks ir 10 gadi.
+(2) Konsolidēto finanšu pārskatu pamato ar aprēķiniem un tabulām, kuru sagatavošanā ievēro Grāmatvedības likumā attaisnojuma dokumentiem un grāmatvedības reģistriem noteiktās prasības. Minēto dokumentu - aprēķinu un tabulu - glabāšanas laiks ir 10 gadi.

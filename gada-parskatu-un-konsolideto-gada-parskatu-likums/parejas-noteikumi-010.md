@@ -1,0 +1,1 @@
+10. Uzņēmumu reģistrs par šā likuma 97. panta pirmajā, otrajā un ceturtajā daļā minētajiem dokumentiem, kas saņemti līdz 2021. gada 31. decembrim, publicē oficiālajā izdevumā "Latvijas Vēstnesis" paziņojumu, ka attiecīgie gada pārskati vai konsolidētie gada pārskati un tiem pievienoto dokumentu kopijas elektroniskā veidā ir pieejamas Uzņēmumu reģistrā.
