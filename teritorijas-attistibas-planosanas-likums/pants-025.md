@@ -1,7 +1,7 @@
 25.pants. Vietējās pašvaldības teritorijas plānojuma un lokālplānojuma pieņemšana un stāšanās spēkā
-(1) Vietējās pašvaldības teritorijas plānojumu un lokālplānojumu apstiprina ar pašvaldības saistošajiem noteikumiem. Tie stājas spēkā nākamajā dienā pēc attiecīga paziņojuma publicēšanas oficiālajā izdevumā "Latvijas Vēstnesis".
-(2) Paziņojumu par saistošo noteikumu pieņemšanu vietējā pašvaldība divu nedēļu laikā pēc saistošo noteikumu apstiprināšanas publicē oficiālajā izdevumā "Latvijas Vēstnesis", vietējā laikrakstā un ievieto pašvaldības mājaslapā internetā. Lēmumu par saistošo noteikumu apstiprināšanu un tam pievienotos dokumentus vietējā pašvaldība ievieto savā mājaslapā internetā.
-(2¹) (Daļa stājas spēkā 01.01.2022. un iekļauta likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 17. punktu)
+(1) Vietējās pašvaldības teritorijas plānojumu un lokālplānojumu apstiprina ar pašvaldības saistošajiem noteikumiem.
+(2) Saistošajos noteikumos ietver hipersaiti ar unikālo identifikatoru uz valsts vienotajā ģeotelpiskās informācijas portālā (turpmāk - ģeoportāls) pieejamo apstiprinātā plānojuma interaktīvo grafisko daļu. Ģeoportālā pieejamā teritorijas plānojuma vai lokālplānojuma interaktīvā grafiskā daļa ir pašvaldības saistošo noteikumu neatņemama sastāvdaļa.
+(2¹) Vietējā pašvaldība divu nedēļu laikā pēc šā panta pirmajā daļā minēto saistošo noteikumu pieņemšanas nosūta tos izsludināšanai oficiālajā izdevumā "Latvijas Vēstnesis", izmantojot teritorijas attīstības plānošanas informācijas sistēmu. Saistošie noteikumi stājas spēkā nākamajā dienā pēc to izsludināšanas.
 (3) (Izslēgta ar 18.02.2021. likumu)
 (4) Šajā pantā minētie saistošie noteikumi nav īstenojami tikmēr, kamēr nav pabeigtas šā likuma 27.panta trešajā daļā minētās darbības.
 (5) Līdz šajā pantā minēto saistošo noteikumu īstenošanas uzsākšanai pašvaldība piemēro saistošos noteikumus, ar kuriem tika apstiprināts iepriekšējais teritorijas plānojums, lokālplānojums vai to grozījumi.
