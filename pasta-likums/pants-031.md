@@ -1,6 +1,3 @@
-31.pants. Tīro izmaksu kompensācijas nosacījumi
-(1) Tīrās izmaksas kompensē saskaņā ar šā likuma 31.¹ pantā norādīto kārtību.
-(2) Tīrās izmaksas kompensē, ja universālā pasta pakalpojuma sniedzējs pierāda, ka tas ir pakļauts netaisnīgam apgrūtinājumam un universālā pasta pakalpojuma saistību izpilde rada zaudējumus.
-(3) Tīrās izmaksas nekompensē, ja universālā pasta pakalpojuma saistību izpilde rada papildu ieguvumu un tas pārsniedz aprēķināto tīro izmaksu apmēru.
-(4) Šā panta trešajā daļā minēto papildu ieguvumu veido nemateriālie un tirgus ieguvumi - universālā pasta pakalpojuma sniedzēja ieņēmumi no citiem universālajā pasta pakalpojumā neietvertiem sniegtajiem pakalpojumiem, ja šādus ieņēmumus iespējams gūt, tikai sniedzot universālo pasta pakalpojumu. Papildu ieguvumu aprēķinā iekļauj tādus ieņēmumus no citiem sniegtajiem pakalpojumiem, kuri atbilst Regulatora izdotajā universālā pasta pakalpojuma saistību izpildes tīro izmaksu aprēķināšanas un noteikšanas metodikā ietvertajiem kritērijiem, un par iegūto vērtību samazina tīrās izmaksas.
-(5) Universālā pasta pakalpojuma sniedzējam nekompensē to tīro izmaksu daļu, kura radusies universālajā pasta pakalpojumā ietverto pakalpojumu tarifu atlaižu un īpašo tarifu piemērošanas dēļ.
+31. pants. Tīro izmaksu kompensācijas nosacījumi
+(1) Regulatora apstiprinātās tīrās izmaksas pilnā apmērā kompensē no valsts budžeta, ievērojot valsts atbalsta nosacījumus attiecībā uz kompensāciju par sabiedriskajiem pakalpojumiem dažiem uzņēmumiem, kuriem uzticēts sniegt pakalpojumus ar vispārēju tautsaimniecisku nozīmi. Satiksmes ministrija nodrošina kompensācijas izmaksu no gadskārtējā valsts budžeta likumā šim mērķim piešķirtajiem valsts budžeta līdzekļiem.
+(2) Ministru kabinets nosaka termiņus un kārtību, kādā universālā pasta pakalpojuma sniedzējs pieprasa tīro izmaksu kompensēšanu no valsts budžeta, kā arī nosaka šo izmaksu kompensēšanas termiņus un kārtību.
