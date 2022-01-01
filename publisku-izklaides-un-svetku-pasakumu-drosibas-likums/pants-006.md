@@ -14,7 +14,7 @@
 1) to līgumu kopijas, kurus pasākuma organizators noslēdzis ar kārtības uzturētājiem, personām, kas atbildīgas par publiskā pasākuma tehnisko drošību, kā arī sabiedrisko kārtību un drošību, uzrādot oriģinālus;
 2) detalizētu pasākuma plānu;
 3) likumā noteiktajā kārtībā saskaņotu paaugstināta riska pasākuma drošības plānu;
-4) (daļa stājas spēkā 01.01.2022. un iekļauta likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 6. punktu);
+4) ja plānotais publiskais pasākums ir paaugstināta riska pasākums, tā organizatora apliecinājumu tam, ka par sabiedrisko kārtību un drošību atbildīgajai personai ir vismaz divu gadu pieredze fiziskās drošības pasākumu plānošanā vai īstenošanā;
 5) pasākuma norises vietas īpašnieka rakstveida piekrišanu pasākuma rīkošanai, ja viņš nav pasākuma organizators.
 (2¹) Ja plānotais publiskais pasākums paredz sporta sacensības, pasākuma organizators papildus šā panta otrajā daļā minētajiem dokumentiem iesniegumam pievieno sporta sacensību nolikumu.
 (2²) Ja plānotais publiskais pasākums paredz sacensības autosportā, motosportā vai ūdens motosportā, pasākuma organizators papildus šā panta otrajā un 2.¹ daļā minētajiem dokumentiem iesniegumam pievieno Sporta likumā noteiktajā kārtībā attiecīgajā sporta veidā atzītās sporta federācijas izsniegtu sacensību norises vietas (trases) licences un attiecīgajā sporta veidā licencēta atbilstošas kategorijas galvenā tiesneša licences kopijas, uzrādot oriģinālu, vai notariāli apliecinātas kopijas.
