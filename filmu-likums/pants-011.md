@@ -1,2 +1,4 @@
-11.pants. Līdzfinansējums ārvalstu filmu uzņemšanai Latvijā
-Ar mērķi piesaistīt ārvalstu finansējumu filmu nozarei un citām nozarēm Nacionālais kino centrs administrē un konkursa kārtībā sadala valsts budžeta līdzfinansējumu ārvalstu filmu uzņemšanai Latvijā. Valsts budžeta līdzfinansējuma piešķiršanas kārtību nosaka Ministru kabinets.
+11. pants. Līdzfinansējums ārvalstu filmu uzņemšanai Latvijā
+(1) Lai piesaistītu ārvalstu finansējumu filmu nozarei un citām saistītajām nozarēm, Latvijas Investīciju un attīstības aģentūra administrē un konkursa kārtībā sadala valsts budžeta līdzfinansējumu ārvalstu filmu uzņemšanai Latvijā.
+(2) Latvijas Investīciju un attīstības aģentūrai ir tiesības noslēgt civiltiesisku līgumu ar filmu producentu par nosacījumu izpildi valsts līdzfinansējuma saņemšanai, ja saistībā ar ārvalstu filmu uzņemšanu Latvijā tiek prognozēts nodokļu ieņēmumu palielinājums valsts budžetā.
+(3) Ministru kabinets nosaka kārtību, kādā ārvalstu filmu uzņemšanai Latvijā tiek piešķirts valsts budžeta līdzfinansējums, un valsts budžeta līdzfinansējuma piešķiršanas kritērijus, tai skaitā kritērijus, atbilstoši kuriem nosaka uz filmu uzņemšanu Latvijā attiecināmās izmaksas.
