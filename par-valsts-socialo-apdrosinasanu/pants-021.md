@@ -4,6 +4,7 @@
 (2¹) Ja darba devējs nav veicis šajā likumā noteiktās sociālās apdrošināšanas iemaksas, persona, par kuru darba devējam tās bija jāveic un kura ir sasniegusi vecumu, kas dod tiesības saņemt valsts vecuma pensiju, var veikt sociālās apdrošināšanas iemaksas pensiju apdrošināšanai. Ministru kabinets reglamentē noteikumus, termiņus un kārtību, kādā persona veic sociālās apdrošināšanas iemaksas pensiju apdrošināšanai.
 (3) Pašnodarbinātais veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 23.datumam.
 (3¹) (Izslēgta no 01.07.2021. ar 27.11.2020. likumu. Sk. Pārejas noteikumu 75. punktu)
+(3²) Pašnodarbinātais šā likuma 14.¹ panta trešajā daļā minētās obligātās iemaksas no lauksaimnieciskās ražošanas ienākuma vai ienākuma no intelektuālā īpašuma par gadu veic līdz nākamā gada 23. janvārim.
 (4) Iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka un ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 23.datumam.
 (5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
 (6) (Izslēgta ar 20.06.2001. likumu)

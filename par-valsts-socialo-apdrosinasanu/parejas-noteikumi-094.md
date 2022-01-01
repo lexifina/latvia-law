@@ -1,0 +1,1 @@
+94. Līdz 2022. gada 1. februārim pašnodarbinātajam ir tiesības precizēt ziņojumu par obligāto iemaksu objektu un obligātajām iemaksām no lauksaimnieciskās ražošanas ienākuma vai ienākuma no intelektuālā īpašuma par periodu no 2021. gada 1. jūlija līdz 2021. gada 30. septembrim.

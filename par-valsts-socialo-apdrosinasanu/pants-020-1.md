@@ -8,4 +8,4 @@
 (5) Sezonas laukstrādnieku ienākuma izmaksātājs (darba devējs) nav tiesīgs precizēt iesniegto informāciju par sezonas laukstrādnieka ienākuma nodokļa maksātāja ienākumiem un aprēķināto sezonas laukstrādnieku ienākuma nodokli.
 (6) Pašnodarbinātajam iekšzemes darba ņēmējam pie darba devēja ārvalstnieka un ārvalstu darba ņēmējam pie darba devēja ārvalstnieka ir tiesības mēneša laikā pēc dienas, kas tam noteikta obligāto iemaksu veikšanai, vienu reizi precizēt obligāto iemaksu objektu un obligātās iemaksas par pārskata ceturksni.
 (6¹) Pašnodarbinātajam ir tiesības 10 darbdienu laikā pēc Valsts ieņēmumu dienesta pieprasījuma saskaņā ar pārbaudē konstatēto vienu reizi precizēt obligāto iemaksu objektu un obligātās iemaksas par pārskata ceturksni.
-(7) Autoratlīdzības (autortiesību un blakustiesību atlīdzības) izmaksātājs precizē autoratlīdzības (autortiesību un blakustiesību atlīdzības) un obligātās iemaksas no autoratlīdzībām (autortiesību un blakustiesību atlīdzībām) par iepriekšējo mēnesi pirms pārskata mēneša.
+(7) (Izslēgta ar 08.12.2021. likumu)
