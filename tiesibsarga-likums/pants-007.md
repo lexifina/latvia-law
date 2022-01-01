@@ -7,4 +7,4 @@
 5) kurai ir zināšanas un praktiskā darba pieredze cilvēktiesību vai tiesību aizsardzības jomā;
 6) kura atbilstoši likuma prasībām ir tiesīga saņemt speciālo atļauju pieejai valsts noslēpumam.
 (2) Tiesībsarga pilnvaru termiņš ir pieci gadi no dienas, kad viņš atbilstoši šā likuma 6. pantam devis zvērestu (svinīgo solījumu).
-(3) (Daļa stājas spēkā 01.01.2022. un iekļauta likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 9. punktu)
+(3) Viena un tā pati persona var būt par tiesībsargu ne vairāk kā divus termiņus pēc kārtas.
