@@ -1,0 +1,1 @@
+39. Šā likuma 52. panta pirmās daļas 26. punkts ir piemērojams pakalpojumam, par kuru pienākas atlīdzība par likumiskās zemes lietošanas tiesībām zemes un būves īpašnieku savstarpējās tiesiskajās attiecībās ar 2022. gada 1. janvāri neatkarīgi no zemes īpašnieka statusa.

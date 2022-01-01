@@ -45,7 +45,8 @@ e) pakalpojumus (ieskaitot starpniecību), kas attiecas uz ieguldījumiem kapit�
 24) nekustamā īpašuma pārdošanu, izņemot nelietota nekustamā īpašuma pārdošanu un apbūves zemes pārdošanu;
 25) šādus iedzīvotājiem sniegtos pakalpojumus:
 a) dzīvojamo telpu īri (izņemot viesu izmitināšanas pakalpojumus viesu izmitināšanas mītnēs - viesnīcās, moteļos, viesu mājās, lauku tūrismam izmantojamās mājās, kempingos, tūristu mītnēs),
-b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu).
+b) (izslēgts no 01.07.2016. ar 30.11.2015. likumu);
+26) pakalpojumu, par kuru ēkas vai būves īpašniekam pienākas maksāt atlīdzību par likumiskās zemes lietošanas tiesībām, kad ēka vai būve ir uzskatāma par patstāvīgu īpašuma objektu atbilstoši normatīvajam regulējumam civiltiesību jomā.
 (2) Atbrīvojumu no nodokļa šā panta pirmās daļas 17.punktā minētajiem pakalpojumiem piemēro arī personas, kas nav publiskas personas, ja, sniedzot šos pakalpojumus, sistemātiski netiek gūta peļņa. Ja peļņa tiek gūta, atbrīvojumu piemēro gadījumos, kad gūto peļņu novirza vai iegulda šo pakalpojumu sniegšanas pilnveidošanai.
 (3) Ar nodokli neapliek preču piegādi, ja reģistrēts nodokļa maksātājs par attiecīgajām precēm nav atskaitījis priekšnodokli un preces tika iegādātas vai izmantotas šā panta pirmajā daļā minēto darījumu nodrošināšanai vai valsts pārvaldes uzdevumu veikšanai.
 (3¹) Ar nodokli neapliek preču piegādes, par kuru iegādi vai izmantošanu reģistrēts nodokļa maksātājs nav atskaitījis priekšnodokli, jo tās tika paredzētas citiem mērķiem, nevis ar nodokli apliekamo darījumu nodrošināšanai (tai skaitā par luksusa precēm, precēm reģistrēta nodokļa maksātāja, tā personāla vai citu personu privātajām vajadzībām un izklaidei).
