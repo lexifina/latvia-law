@@ -3,6 +3,7 @@
 (2) Ikviens grozījums, kas attiecas uz apropriācijas apjomu, mērķiem vai termiņiem, izdarāms saskaņā ar šā likuma noteikumiem.
 (3) Speciālajam budžetam ir apropriācija, kas pieļauj tikai tādus izdevumus, kuri nepārsniedz saimnieciskā gada faktisko ieņēmumu apmērus un līdzekļu atlikumus saimnieciskā gada sākumā un aizņēmumu no valsts pamatbudžeta.
 (4) Visas apropriācijas zaudē spēku saimnieciskā gada beigās.
+(4¹) Kārtību, kādā izmanto gadskārtējā valsts budžeta likumā paredzēto apropriāciju valsts un pašvaldību vienoto klientu apkalpošanas centru tīkla izveidei, uzturēšanai un publisko pakalpojumu sistēmas pilnveidei, nosaka Ministru kabinets.
 (5) (Izslēgta ar 01.12.2009. likumu)
 (6) (Izslēgta ar 01.12.2009. likumu)
 (7) (Izslēgta ar 01.12.2009. likumu)
