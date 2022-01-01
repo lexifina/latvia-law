@@ -1,0 +1,1 @@
+41. Grozījumi attiecībā uz šā likuma 39. panta trešās daļas 3. punkta, 90. panta un 117. panta piektās daļas 4. punkta izteikšanu jaunā redakcijā saistībā ar vārdu par atkārtoti lietojama iepakojuma depozīta sistēmu aizstāšanu ar normatīvajos aktos iepakojuma jomā lietoto terminoloģiju stājas spēkā ar 2022. gada 1. februāri.
