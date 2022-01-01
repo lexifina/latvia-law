@@ -1,0 +1,4 @@
+17.¹ pants. Slēgtais kopīgais klienta izpētes rīks
+(1) Lai pilnvērtīgi veiktu klienta izpēti un darījumu uzraudzību un pārbaudītu klienta sniegto datu patiesumu, ievērojot būtiskas sabiedrības intereses noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas efektīvai novēršanai un ņemot vērā šo nelikumīgo darbību radītos apdraudējumus demokrātiskai sabiedrībai un sabiedrības drošībai, šā likuma subjektiem un citiem Eiropas Savienības dalībvalstu likuma subjektiem šā likuma mērķu īstenošanai ir tiesības izmantot slēgto kopīgo klienta izpētes rīku, kuru nodrošina kopīgs ārpakalpojuma sniedzējs.
+(2) Lai sniegtu slēgtā kopīgā klienta izpētes rīka pakalpojumus likuma subjektiem, kas nav vienas grupas sastāvā, attiecīgajam pakalpojumu sniedzējam nepieciešams saņemt licenci.
+(3) Licencējamais slēgtā kopīgā klienta izpētes rīka pakalpojuma sniedzējs apdrošina savas saimnieciskās darbības civiltiesisko atbildību.
