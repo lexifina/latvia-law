@@ -6,7 +6,8 @@
 4) lietas izpētes izbeigšanu;
 5) tirgus dalībnieku apvienošanos;
 6) paziņoto vienošanos;
-7) Reklāmas likuma pārkāpumiem.
+7) Reklāmas likuma pārkāpumiem;
+8) iesniegumu un sūdzību izskatīšanu.
 (2) Šā panta pirmajā daļā minētos Konkurences padomes lēmumus, izņemot lēmumus par lietas ierosināšanu un lēmuma pieņemšanas termiņa pagarināšanu, procesa dalībnieks var pārsūdzēt Administratīvajā apgabaltiesā viena mēneša laikā no šo lēmumu spēkā stāšanās dienas. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
 (3) (Izslēgta ar 12.05.2016. likumu)
 (4) (Izslēgta ar 12.05.2016. likumu)
