@@ -1,3 +1,4 @@
 26.² pants. Valsts dalība dzīvojamās telpas atbrīvošanas pabalsta finansiālajā nodrošināšanā
 (1) Valsts piešķir pašvaldībām mērķdotāciju dzīvojamās telpas atbrīvošanas pabalsta izmaksu nodrošināšanai atbilstoši gadskārtējā valsts budžetā paredzētajiem līdzekļiem. Mērķdotācija pašvaldībām tiek piešķirta 50 procentu apmērā no attiecīgās pašvaldības faktiskajiem izdevumiem dzīvojamās telpas atbrīvošanas pabalsta izmaksu nodrošināšanai.
+(1¹) Mērķdotācija pašvaldībām tiek piešķirta 100 procentu apmērā no attiecīgās pašvaldības faktiskajiem izdevumiem dzīvojamās telpas atbrīvošanas pabalsta izmaksu nodrošināšanai, ja atbrīvošanas pabalsts tiek izmaksāts šā likuma 26.¹ panta pirmās daļas 4. punktā minētajām personām.
 (2) Kārtību, kādā valsts piešķir pašvaldībām mērķdotāciju dzīvojamās telpas atbrīvošanas pabalsta izmaksu nodrošināšanai, nosaka Ministru kabinets.

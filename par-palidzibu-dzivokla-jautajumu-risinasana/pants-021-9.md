@@ -1,0 +1,3 @@
+21.⁹ pants. Sociālā dzīvokļa īres maksa un ar dzīvokļa lietošanu saistītie maksājumi
+(1) Sociālā dzīvokļa īres maksu nosaka attiecīgā pašvaldības dome vai tās deleģēta institūcija. Sociālā dzīvokļa īres maksa ir zemāka par īres maksu, kas noteikta attiecīgās kategorijas pašvaldības īpašumā esošiem vai tās nomātiem dzīvokļiem, kurus izīrē, ievērojot šā likuma III nodaļas noteikumus. Ar sociālā dzīvokļa lietošanu saistītos maksājumus daļēji vai pilnībā sedz pašvaldība.
+(2) Kārtību, kādā tiek noteikta sociālo dzīvokļu īres maksa un tā ar dzīvokļa lietošanu saistīto maksājumu daļa, kuru sedz pašvaldība, nosaka pašvaldības domes saistošie noteikumi.

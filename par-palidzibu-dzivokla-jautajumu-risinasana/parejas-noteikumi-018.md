@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 26.¹ panta pirmās daļas 1., 2. un 3. punktā, kas stājas spēkā 2022. gada 1. janvārī, attiecas arī uz personām, kuras pēc 2022. gada 1. janvāra ar tiesas nolēmumu tiek izliktas no īrētās dzīvojamās telpas likuma "Par dzīvojamo telpu īri" 28.², 28.⁴ un 28.⁵ pantā paredzētajos gadījumos.
