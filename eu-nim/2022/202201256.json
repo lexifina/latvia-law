@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2021. gada 21. oktobra likums \"Grozījumi likumā \"Par akcīzes nodokli\"\". Latvijas Vēstnesis, 214, 04.11.2021.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2021/214.1",
+  "official_journal_page": null,
+  "official_journal_date": "2021-11-04",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2022-02-25",
+  "commission_reference": "MNE(2022)01256",
+  "nim_celex": "72019L2235LVA_202201256",
+  "nim_id": "202201256",
+  "transposes_celex": [
+    "32019L2235"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/470bb319-9df5-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
