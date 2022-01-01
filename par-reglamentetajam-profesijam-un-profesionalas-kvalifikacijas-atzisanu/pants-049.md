@@ -2,7 +2,7 @@
 (1) Latvijas Republikā atzīst diplomus, sertifikātus un citus profesionālo kvalifikāciju apliecinošus dokumentus, kas ir atzīti Eiropas Savienībā un atbilst prasībām, kuras noteiktas šajā likumā un Ministru kabineta noteikumos par izglītības programmu minimālajām prasībām profesionālās kvalifikācijas iegūšanai šādās profesijās:
 1) ārsts;
 2) zobārsts;
-3) māsa (medicīnas māsa);
+3) māsa (vispārējās aprūpes māsa);
 4) vecmāte;
 5) veterinārārsts;
 6) farmaceits.

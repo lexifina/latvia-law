@@ -3,7 +3,7 @@
 1) ārsts;
 2) zobārsts;
 3) farmaceits;
-4) māsa (medicīnas māsa);
+4) māsa (vispārējās aprūpes māsa);
 5) vecmāte.
 (2) Veselības aprūpes jomā reglamentētās profesijas, kurās kvalifikācijas prasības nosaka akreditētas izglītības programmas un likumā noteiktajos gadījumos - profesionālās sertifikācijas noteikumi, ir šādas:
 1) ārsta palīgs (feldšeris);
