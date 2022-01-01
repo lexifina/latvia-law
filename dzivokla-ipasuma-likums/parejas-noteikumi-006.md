@@ -1,0 +1,1 @@
+6. Šā likuma 10. panta pirmās daļas 5. punktā paredzētā likumiskā lietošanas maksa par zemes lietošanas tiesībām (stājas spēkā 2022. gada 1. janvārī) zemes īpašniekam par 2022. gada pirmo ceturksni samaksājama līdz 2022. gada 31. martam, ja vien ar zemes īpašnieku nav noslēgta vienošanās par citu samaksas kārtību.
