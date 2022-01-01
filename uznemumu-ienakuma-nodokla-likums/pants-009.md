@@ -19,7 +19,7 @@ b) debitora - fiziskās personas - bankrota procedūras pabeigšanu;
 9) parāda summa saskaņā ar tiesas nolēmumu atbilst parādnieka tiesiskās aizsardzības procesā vai ārpustiesas tiesiskās aizsardzības procesā tiesiskās aizsardzības procesa pasākumu plānā noteiktajam proporcionālam pamatparāda, līgumsoda vai procentu dzēšanas vai samazinājuma apmēram;
 10) parāda summa nav atgūta no debitora, kura darbība ir apturēta, pamatojoties uz nodokļu administrācijas lēmumu, un tas ir izslēgts no komercreģistra;
 11) debitors - fiziskā persona - ir miris;
-12) (punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 46. punktu).
+12) debitors ir atbrīvots no parāda samaksas Fiziskās personas atbrīvošanas no parādsaistībām likumā noteiktajā kārtībā.
 (4) Šā panta pirmā daļa nav piemērojama attiecībā uz neatgūto zaudētā parāda pievienotās vērtības nodokļa summu, par kuru nav samazināta valsts budžetā maksājamā pievienotās vērtības nodokļa summa saskaņā ar normatīvajiem aktiem, kas regulē pievienotās vērtības nodokļa piemērošanu.
 (5) Nodokļa maksātājs ir tiesīgs samazināt taksācijas perioda ar uzņēmumu ienākuma nodokli apliekamo bāzi (vai pārskata gada pēdējā taksācijas perioda ar uzņēmumu ienākuma nodokli apliekamo bāzi) par:
 1) tādu atgūtā parāda summu, kura ir bijusi iekļauta zaudējumos (izdevumos) vai par kuru izveidots speciālais uzkrājums nedrošiem parādiem, ja šī summa ir iekļauta ar uzņēmumu ienākuma nodokli apliekamajā bāzē kādā no iepriekšējo pārskata gadu taksācijas periodiem;
