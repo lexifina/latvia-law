@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grāmatvedības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "121B",
+  "official_journal_page": null,
+  "official_journal_date": "2021-06-28",
+  "entry_into_force": "2022-01-01",
+  "notification_date": "2026-03-17",
+  "commission_reference": "MNE(2026)01810",
+  "nim_celex": "72023L2864LVA_202601810",
+  "nim_id": "202601810",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d0ace045-2fa7-4792-b9bf-fff1541b5472",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
