@@ -7,4 +7,5 @@
 3) prasības attiecībā uz apsardzes darbinieka kvalifikācijas pārbaudījumu un kārtību, kādā persona to kārto;
 4) kārtību, kādā fiziskajai personai izsniedzams apsardzes sertifikāts, tā dublikāts un atkārtots sertifikāts un pagarināms apsardzes sertifikāta derīguma termiņš;
 5) apsardzes sertifikāta paraugu;
-6) kārtību un apmēru, kādā maksājama valsts nodeva par apsardzes darbinieka kvalifikācijas pārbaudījuma kārtošanu, apsardzes sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu un apsardzes sertifikāta derīguma termiņa pagarināšanu.
+6) kārtību un apmēru, kādā maksājama valsts nodeva par apsardzes darbinieka kvalifikācijas pārbaudījuma kārtošanu, apsardzes sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu un apsardzes sertifikāta derīguma termiņa pagarināšanu;
+7) medicīniskās pretindikācijas un kārtību, kādā izvērtē medicīnisko pretindikāciju esību.
