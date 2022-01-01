@@ -17,7 +17,7 @@ c) no pašvaldības budžeta finansētas institūcijas, kuras gūst ienākumus n
 8) reliģiskās organizācijas, arodbiedrības un politiskās partijas;
 9) Finanšu un kapitāla tirgus komisija.
 (3) Par ienākumu, ko gūst šā panta otrās daļas 5. un 6. punktā minētās personas, attiecīgi iedzīvotāju ienākuma nodokli vai uzņēmumu ienākuma nodokli maksā ieguldījumu fonda vai alternatīvo ieguldījumu fonda ieguldītājs un privātā pensiju fonda pensiju plāna dalībnieks.
-(3.¹) (Daļa stājas spēkā 01.01.2022. un iekļauta likuma redakcijā uz 01.01.2022. Sk. Pārejas noteikumu 42. punktu)
+(3¹) Neatkarīgi no šā panta otrās daļas 5. un 6. punkta noteikumiem privātie pensiju fondi, ieguldījumu fondi un alternatīvie ieguldījumu fondi maksā uzņēmumu ienākuma nodokli atbilstoši šā likuma 4. panta otrās daļas 2. punkta "k" apakšpunktam un piektajai daļai, ja attiecībā uz tiem piemērojama šā likuma 7.¹ panta divpadsmitā daļa.
 (4) Sabiedrība ar ierobežotu atbildību, individuālais uzņēmums, kā arī zemnieka vai zvejnieka saimniecība, kas reģistrēta kā mikrouzņēmumu nodokļa maksātājs, uzņēmumu ienākuma nodokli ietver kopīgajā mikrouzņēmumu nodoklī saskaņā ar Mikrouzņēmumu nodokļa likumu.
 (5) Mikrouzņēmumu nodokļa maksātājs, kas līdz pārskata gada 15. decembrim iesniedzis Valsts ieņēmumu dienestam iesniegumu par mikrouzņēmumu nodokļa maksātāja statusa izbeigšanu, ar nākamo pārskata gadu sāk maksāt uzņēmumu ienākuma nodokli saskaņā ar šā likuma prasībām.
 (6) Tonnāžas nodokļa maksātājs ir iekšzemes uzņēmums (uzņēmējsabiedrība), kuram Valsts ieņēmumu dienests piešķīris tonnāžas nodokļa maksātāja statusu un:
