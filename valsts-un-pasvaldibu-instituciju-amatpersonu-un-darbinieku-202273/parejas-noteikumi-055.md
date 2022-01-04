@@ -1,0 +1,1 @@
+55. Grozījumi par šā likuma 2. panta pirmās daļas 19. punkta, 4. panta piecpadsmitās daļas, 13.² panta, 17. panta 1.² daļas un devītās daļas 8. punkta izslēgšanu un grozījumi šā likuma 4. panta pirmajā un desmitajā daļā stājas spēkā 2023. gada 1. janvārī.

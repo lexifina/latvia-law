@@ -21,4 +21,4 @@
 (12) Iekšlietu ministrijas sistēmas iestāžu amatpersonām ar speciālajām dienesta pakāpēm, kurām noteikts pienākums veikt izmeklēšanu īpaši sarežģītās, smagu vai sevišķi smagu starpreģionāla vai starptautiska rakstura noziegumu lietās, un Korupcijas novēršanas un apkarošanas biroja amatpersonām, kuras ir iesaistītas izmeklēšanas darbību veikšanā minētā veida lietās, maksimālo mēnešalgas apmēru nosaka atbilstoši rajona (republikas pilsētas) prokurora mēnešalgai.
 (13) Konkurences padomes amatpersonu (darbinieku) mēnešalgu nosaka, ņemot vērā bāzes mēnešalgas apmēru.
 (14) Datu valsts inspekcijas amatpersonu (darbinieku) mēnešalgu nosaka, ņemot vērā bāzes mēnešalgas apmēru.
-(15) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta amatpersonu (darbinieku) mēnešalgu nosaka, ņemot vērā finanšu un apdrošināšanas jomas bāzes mēnešalgas apmēru.
+(15) Finanšu izlūkošanas dienesta amatpersonu (darbinieku) mēnešalgu nosaka, ņemot vērā finanšu un apdrošināšanas jomas bāzes mēnešalgas apmēru.

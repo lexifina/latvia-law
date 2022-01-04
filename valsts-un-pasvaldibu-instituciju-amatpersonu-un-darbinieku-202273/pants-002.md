@@ -10,7 +10,7 @@
 8) Sabiedrisko pakalpojumu regulēšanas komisija;
 9) Nacionālā elektronisko plašsaziņas līdzekļu padome;
 10) Augstākās izglītības padome;
-11) Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests;
+11) Finanšu izlūkošanas dienests;
 12) tiešās pārvaldes iestādes;
 13) pastarpinātās pārvaldes iestādes;
 14) pašvaldības;

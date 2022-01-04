@@ -108,7 +108,7 @@
 28.2. Operatīvā darbība
 Šajā apakšsaimē ietilpst amati, kuru pildītāji vāc informāciju un pierādījumus par noziedzīgām darbībām, kā arī aiztur noziedzniekus.
 28.3. Noziedzīgi iegūtu līdzekļu legalizācijas novēršana
-Šajā apakšsaimē ietilpst Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienesta darbinieki, kuri veic likumā noteiktos pienākumus noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanai.
+Šajā apakšsaimē ietilpst Finanšu izlūkošanas dienesta darbinieki, kuri veic likumā noteiktos pienākumus noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanai.
 28.4. Pašvaldības policija
 Šajā apakšsaimē ietilpst pašvaldības policijas darbinieki, kuri ikdienā veic likumā "Par policiju" noteiktos uzdevumus.
 29. Pedagoģiskās darbības atbalsts
