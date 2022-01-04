@@ -2,8 +2,8 @@
 (1) Komercsabiedrība piecu darba dienu laikā no dienas, kad tā atbilst kādam no šā likuma 37. pantā minētajiem nosacījumiem:
 1) iesniedz komercreģistra iestādei paziņojumu par savu atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem;
 2) izdara akcionāru vai dalībnieku reģistrā ierakstu par kapitālsabiedrības statusu;
-3) informē attiecīgās kapitālsabiedrības dalībniekus vai akcionārus un personas, kuras izmanto netiešo līdzdalību (balsstiesības), vai personālsabiedrības biedrus par tās atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem;
-4) informē Ministru kabineta noteikto institūciju par tās dalībniekiem, akcionāriem un personām, kuras izmanto netiešo līdzdalību (balsstiesības), vai par biedriem, kā arī patiesajiem labuma guvējiem - fiziskajām personām, kurām tieši vai netieši ir būtiska līdzdalība šajā komercsabiedrībā.
+3) informē attiecīgās kapitālsabiedrības dalībniekus vai akcionārus un personas, kuras izmanto netiešo līdzdalību, vai personālsabiedrības biedrus par tās atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem;
+4) informē Ministru kabineta noteikto institūciju par tās dalībniekiem, akcionāriem un personām, kuras izmanto netiešo līdzdalību, vai par biedriem, kā arī patiesajiem labuma guvējiem - fiziskajām personām, kurām tieši vai netieši ir būtiska līdzdalība šajā komercsabiedrībā.
 (2) Komercreģistra iestāde informāciju par komercsabiedrības atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem publicē komercreģistra iestādes mājaslapā internetā.
 (2¹) Ja komercsabiedrība nav izpildījusi šā panta pirmās daļas 1. punktā minētās prasības, šā panta ceturtajā daļā norādītā institūcija nosūta komercreģistra iestādei reģistrēšanai un publicēšanai informāciju par komercsabiedrības atbilstību nacionālajai drošībai nozīmīgas komercsabiedrības nosacījumiem.
 (3) Ja patiesā labuma guvēji ir:
