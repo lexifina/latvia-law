@@ -1,5 +1,5 @@
 1.pants. Likumā lietotie termini
-Likumā ir lietoti šādi termini:
+(1) Likumā ir lietoti šādi termini:
 1) apdrošināšanas atlīdzība - naudas summa, ko izmaksā, vai pakalpojums, par kuru veic samaksu zaudējumu atlīdzināšanai;
 2) apdrošināšanas gadījums - ceļu satiksmes negadījums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa;
 3) apdrošināšanas līgums - vienošanās, saskaņā ar kuru transportlīdzekļa īpašnieks uzņemas saistības maksāt apdrošināšanas prēmiju noteiktajā termiņā un apmērā, kā arī izpildīt citas noteiktās saistības, bet apdrošinātājs uzņemas saistības izmaksāt apdrošināšanas atlīdzību, iestājoties apdrošināšanas gadījumam;
@@ -22,3 +22,4 @@ b) tramvajs, kas ir reģistrējams vietējā pašvaldībā;
 13) transportlīdzekļa īpašnieks - fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis vai uz kuras vārda reģistrēts transportlīdzeklis;
 14) transportlīdzekļa tiesīgais lietotājs - fiziskā vai juridiskā persona, kura nav transportlīdzekļa īpašnieks, bet uz pilnvaras, īres līguma vai cita tiesiska pamata lieto transportlīdzekli ceļu satiksmē;
 15) trešā persona - jebkura fiziskā vai juridiskā persona, kurai ceļu satiksmes negadījuma dēļ ir nodarīti zaudējumi un pienākas apdrošināšanas atlīdzība. Šā likuma 31.panta piektajā un septītajā daļā minētajos gadījumos par trešo personu uzskatāms ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieks vai tiesīgais lietotājs.
+(2) Likumā lietotie termini "speciālā militārā tehnika" un "speciālās militārās tehnikas piekabe" atbilst Ceļu satiksmes likumā lietotajiem terminiem.
