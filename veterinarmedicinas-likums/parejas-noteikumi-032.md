@@ -1,0 +1,1 @@
+32. Līdz šā likuma 25. panta 6. punktā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 30. jūnijam piemērojami Ministru kabineta 2011. gada 21. jūnija noteikumi Nr. 491 "Mājas (istabas) dzīvnieku reģistrācijas kārtība", ciktāl tie nav pretrunā ar šo likumu.
