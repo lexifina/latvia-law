@@ -1,0 +1,1 @@
+30. Šā likuma 44. panta 4.² daļā minētajiem karavīriem, kuri no 2015. gada 1. janvāra līdz minētās panta daļas spēkā stāšanās dienai ir atmaksājuši mācību izdevumus vai to daļu un ir no jauna nodienējuši ne mazāk kā piecus gadus, atmaksā viņu samaksātos mācību izdevumus.

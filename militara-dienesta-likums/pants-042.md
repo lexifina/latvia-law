@@ -4,5 +4,7 @@
 2) beidzoties profesionālā dienesta līguma termiņam, ja līgumu nepagarina;
 3) izbeidzot profesionālā dienesta līgumu pirms termiņa.
 (2) Ja karavīrs ir sasniedzis militārā dienesta rezervei noteikto maksimālo vecumu vai ir atzīts par nederīgu militārajam dienestam veselības stāvokļa dēļ, vai viņam ir atņemta dienesta pakāpe, viņu atvaļina, noņemot no militārā dienesta uzskaites.
-(3) Pārējos atvaļināšanas gadījumos karavīru atvaļina militārā dienesta rezervē.
+(3) Pārējos atvaļināšanas gadījumos karavīru:
+1) atvaļina militārā dienesta rezervē;
+2) uzņem Zemessardzē, ja karavīrs pirms atvaļināšanas izteicis šādu vēlmi un atbilst prasībām, kas Latvijas Republikas Zemessardzes likumā noteiktas uzņemšanai Zemessardzē.
 (4) Mirušo, bojā gājušo vai bez vēsts pazudušo karavīru izslēdz no personālsastāva.
