@@ -33,7 +33,7 @@
 14) meža atjaunošanas izmaksas 25 procentu apmērā, ja ir noslēgta vienošanās attiecīgi ar meža īpašnieku vai tiesisko valdītāju par meža atjaunošanu un meža atjaunošanas izmaksas netiks iekļautas saimnieciskās darbības izdevumos;
 14¹) ar kokmateriālu sagatavošanu un atsavināšanu saistītās izmaksas 50 procentu apmērā no kokmateriālu atsavināšanas ieņēmumiem, ja šīs izmaksas netiek dokumentāri pamatotas;
 15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
-3.¹ Ar saimniecisko darbību saistītie izdevumi tiek piemēroti apmērā, kas nepārsniedz 80 procentus no fiziskās personas kopējiem saimnieciskās darbības ieņēmumiem.
+3.¹ (Atzīta par spēkā neesošu ar Satversmes tiesas 07.01.2022. spriedumu)
 3.² Saimnieciskās darbības izdevumu veidi, kuri ar saimniecisko darbību saistītajos izdevumos ir iekļaujami pilnā apmērā:
 1) darba alga un darba devēja valsts sociālās apdrošināšanas obligātās iemaksas, tai skaitā solidaritātes nodoklis, ko saimnieciskās darbības veicējs maksā par saviem darbiniekiem;
 2) nekustamā īpašuma nodoklis;
