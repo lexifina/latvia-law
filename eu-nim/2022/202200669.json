@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 11. janvāra noteikumi Nr. 28 \"Noteikumi par kārtību, kādā iesniedzami ziņojumi par plastmasu saturošiem izstrādājumiem, un kritērijiem šo izstrādājumu klasifikācijai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "10",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-14",
+  "entry_into_force": "2022-01-15",
+  "notification_date": "2022-02-01",
+  "commission_reference": "MNE(2022)00669",
+  "nim_celex": "72019L0904LVA_202200669",
+  "nim_id": "202200669",
+  "transposes_celex": [
+    "32019L0904"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/834e1982-87fa-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
