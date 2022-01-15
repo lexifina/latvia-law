@@ -9,6 +9,6 @@ Ir šādi palīdzības veidi:
 6) vienreizēja pabalsta piešķiršana dzīvojamās telpas vai dzīvojamās mājas remontam (26.pants);
 7) vienreizēja dzīvojamās telpas atbrīvošanas pabalsta piešķiršana (26.¹ pants);
 8) dzīvojamās telpas remonts (27.pants);
-9) palīdzība dzīvojamās telpas iegādei vai būvniecībai (27.¹ pants);
+9) palīdzība dzīvojamās telpas īrei, iegādei vai būvniecībai (27.¹ pants);
 10) palīdzība dzīvojamās mājas renovācijai, restaurācijai un mājokļa un vides pieejamības nodrošināšanai (27.² pants);
 11) palīdzība speciālista nodrošināšanai ar dzīvojamo telpu (21.¹-21.⁴ pants).

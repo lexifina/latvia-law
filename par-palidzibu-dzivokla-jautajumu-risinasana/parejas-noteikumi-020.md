@@ -1,0 +1,1 @@
+20. Persona, kura līdz 2022. gada 14. janvārim (likuma "Par sociālajiem dzīvokļiem un sociālajām dzīvojamām mājām" spēka zaudēšanas brīdim) pašvaldības saistošajos noteikumos noteiktajā kārtībā ir atzīta par tiesīgu īrēt sociālo dzīvokli saskaņā ar likuma "Par sociālajiem dzīvokļiem un sociālajām dzīvojamām mājām" 5. panta 1.¹ daļas nosacījumiem, saglabā piešķirto statusu.

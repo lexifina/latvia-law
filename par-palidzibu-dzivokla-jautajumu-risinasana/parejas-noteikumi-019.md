@@ -1,0 +1,1 @@
+19. Ar 2022. gada 15. janvāri spēku zaudē likums "Par sociālajiem dzīvokļiem un sociālajām dzīvojamām mājām" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 15. nr.; 2008, 24. nr.; Latvijas Vēstnesis, 2010, 15. nr.; 2018, 210. nr.).
