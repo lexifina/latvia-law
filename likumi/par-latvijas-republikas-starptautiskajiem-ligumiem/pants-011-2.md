@@ -1,1 +1,2 @@
 11.² pants. Valsts valodas centrs nodrošina starptautisko līgumu tulkošanu un atveidošanu.
+Ja tāda starptautiskā līguma tulkojumā, kurš apstiprināts ar likumu un kura viena no autentiskajām valodām nav latviešu valoda, ir konstatēta kļūda, lēmumu par tulkojuma precizējumu pieņem Saeimas Ārlietu komisija, pamatojoties uz Ministru kabineta iesniegto tulkojuma precizējumu. Lēmumu par attiecīgā starptautiskā līguma tulkojuma precizējumu Saeimas Ārlietu komisija nosūta publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis" un informācijai Valsts prezidenta kancelejai.
