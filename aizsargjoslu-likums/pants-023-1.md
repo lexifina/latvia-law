@@ -4,3 +4,4 @@
 2) nodrošinātu, ka netiek apdraudēta valsts funkciju un uzdevumu izpilde valsts aizsardzības objektos.
 (2) Aizsargjoslām ap valsts aizsardzības objektiem minimālais platums ir 25 metri, skaitot no valsts aizsardzības objekta ārējām robežām, maksimālais platums - 600 metru.
 (3) To valsts aizsardzības objektu sarakstu, ap kuriem tiek veidotas aizsargjoslas, un aizsargjoslas platumu ap katru valsts aizsardzības objektu nosaka Ministru kabinets.
+(4) Aizliegums bez Aizsardzības ministrijas piekrišanas atsavināt nekustamo īpašumu, kas atrodas aizsargjoslā ap valsts aizsardzības objektu, ierakstāms zemesgrāmatā bez īpašnieka piekrišanas, pamatojoties uz Aizsardzības ministrijas nostiprinājuma lūgumu.

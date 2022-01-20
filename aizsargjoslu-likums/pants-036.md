@@ -14,7 +14,9 @@ c) pārbūvētas esošās ēkas vai būves, nepārsniedzot esošo būvapjomu, be
 3) ēku un būvju celtniecība vai paplašināšana ir paredzēta vietējās pašvaldības teritorijas plānojumā un notiek pilsētas teritorijā un šīs darbības ir saskaņotas ar attiecīgo Valsts vides dienesta reģionālo vides pārvaldi;
 4) ēku un būvju celtniecība vai paplašināšana notiek šā likuma 67.pantā noteiktajā kārtībā apstiprinātajās un vietējās pašvaldības teritorijas plānojumā noteiktajās ciema robežās vietās, kur bijusi iepriekšējā apbūve, minētās darbības ir paredzētas vietējās pašvaldības teritorijas plānojumā un saskaņotas ar attiecīgo Valsts vides dienesta reģionālo vides pārvaldi;
 5) tiek veikta krastu nostiprināšana esošo būvju un infrastruktūras aizsardzībai;
-6) tiek veikta mehānisko transportlīdzekļu stāvlaukumu un glābšanas staciju būvniecība un tiem nepieciešamo pievedceļu un teritorijas labiekārtošanai nepieciešamo mazēku būvniecība.
+6) tiek veikta mehānisko transportlīdzekļu stāvlaukumu un glābšanas staciju būvniecība un tiem nepieciešamo pievedceļu un teritorijas labiekārtošanai nepieciešamo mazēku būvniecība;
+7) tiek veikta ielu un autoceļu būvniecība vai pārbūve, lai nodrošinātu piekļuvi esošām dzīvojamām ēkām, ja nepastāv citas piekļuves iespējas;
+8) tiek veikta ārējo inženiertīklu būvniecība esošās apbūves vai šajā pantā atļautās apbūves vajadzībām.
 (2¹) Šā panta otrajā daļā minētās darbības veic, ja:
 1) veikts paredzētās darbības ietekmes uz vidi sākotnējais izvērtējums un saņemts Vides pārraudzības valsts biroja atzinums par noslēguma ziņojumu, novērtējuma ziņojumu vai izdoti tehniskie noteikumi saskaņā ar likuma "Par ietekmes uz vidi novērtējumu" prasībām;
 2) attiecīgā apbūve paredzēta vietējās pašvaldības teritorijas plānojumā.
