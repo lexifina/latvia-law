@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 18. janvāra noteikumi Nr. 44 \"Noteikumi par darba drošības un veselības aizsardzības prasībām un medicīnisko aprūpi uz kuģiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "14",
+  "official_journal_page": null,
+  "official_journal_date": "2022-01-20",
+  "entry_into_force": "2022-01-21",
+  "notification_date": "2022-01-24",
+  "commission_reference": "MNE(2022)00489",
+  "nim_celex": "72019L1834LVA_202200489",
+  "nim_id": "202200489",
+  "transposes_celex": [
+    "32019L1834"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/62ebfaab-801a-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
