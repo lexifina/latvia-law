@@ -1,0 +1,1 @@
+19. Grozījums šā likuma 14. panta 1.¹ daļā par skaitļu un vārdu "2021. gada 31. decembrim" aizstāšanu ar vārdiem "saistībā ar Covid-19 izplatību noteiktās ārkārtējās situācijas beigām" piemērojams, sākot ar 2022. gada 1. janvāri.

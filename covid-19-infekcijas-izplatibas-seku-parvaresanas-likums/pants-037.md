@@ -1,4 +1,4 @@
-37. pants. (1) Līdz 2021. gada 31. decembrim biedrības vai kooperatīvās sabiedrības biedram ir tiesības piedalīties un balsot biedru kopsapulcē attālināti.
+37. pants. (1) Biedrības vai kooperatīvās sabiedrības biedram ir tiesības piedalīties un balsot biedru kopsapulcē attālināti.
 (2) Paziņojumā par biedru kopsapulces sasaukšanu norāda kārtību un termiņus, kādos biedri var izmantot tiesības balsot pirms biedru kopsapulces vai piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus.
 (3) Biedram ir tiesības rakstveidā (tai skaitā izmantojot elektroniskos saziņas līdzekļus) balsot pirms biedru kopsapulces, ja ir izpildīti šādi nosacījumi:
 1) balsojums tiek nodots tādā veidā, kas ļauj biedrībai vai kooperatīvajai sabiedrībai biedru identificēt;
@@ -11,4 +11,4 @@
 (8) Ja biedrs piedalās un balso biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, biedrība vai kooperatīvā sabiedrība nodrošina biedru kopsapulces gaitas ierakstīšanu un fiksēšanu datu nesējos un attiecīgo sapulces materiālu glabāšanu. Tiesības iepazīties ar sapulces materiāliem ir biedriem, valdes un padomes locekļiem, revidentam un kompetentajām institūcijām.
 (9) (Izslēgta ar 18.12.2020. likumu)
 (10) Attiecībā uz politisko partiju biedru sapulču, kā arī ievēlēto pārstāvju sapulču norisi un politisko partiju apvienību sapulču norisi pēc analoģijas piemērojami šā panta noteikumi.
-(11) Līdz 2021. gada 31. decembrim kapitālsabiedrības valdei pēc savas iniciatīvas vai pēc to dalībnieku (akcionāru) pieprasījuma, kuri kopā pārstāv vismaz 20 procentus no kapitālsabiedrības pamatkapitāla, ir tiesības noteikt, ka dalībnieku (akcionāru) sapulce notiek tikai elektroniski un dalībnieki (akcionāri) piedalās un balso, izmantojot elektroniskos saziņas līdzekļus. Šajā gadījumā valde nosaka prasības attiecībā uz dalībnieku (akcionāru) identifikāciju un kārtību, kādā dalībnieki (akcionāri) piedalās un balso dalībnieku (akcionāru) sapulcē.
+(11) (Izslēgta ar 20.01.2022. likumu)
