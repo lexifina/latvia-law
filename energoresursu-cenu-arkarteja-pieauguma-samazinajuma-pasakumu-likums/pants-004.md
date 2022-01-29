@@ -1,0 +1,5 @@
+4. pants. Elektroenerģijas sistēmas pakalpojuma maksas samazinājums
+(1) Elektroenerģijas galalietotājiem piemēro elektroenerģijas sistēmas pakalpojuma maksas samazinājumu, ieskaitot pievienotās vērtības nodokli, pilnā apmērā. Samazinājumu nepiemēro maksai par reaktīvo enerģiju, elektroenerģijas ražotāju jaudas maksai un pārrēķiniem, kas tiek veikti sistēmas lietotāju pārkāpumu gadījumos. Elektroenerģijas sistēmas operatora negūtie sistēmas pakalpojuma maksas ieņēmumi ar pievienotās vērtības nodokli tiek kompensēti pilnā apmērā no valsts budžeta līdzekļiem.
+(2) Elektroenerģijas sistēmas pakalpojumu maksas samazinājums tiek piemērots galalietotāju maksājumiem par sistēmas pakalpojumiem laikposmā no 2022. gada 1. janvāra līdz 2022. gada 30. aprīlim.
+(3) Šā panta pirmā daļa netiek piemērota elektroenerģijas galalietotājam, ja galalietotājs ir arī elektroenerģijas sistēmas operators.
+(4) Elektroenerģijas sistēmas pakalpojuma maksu kompensē saskaņā ar Ministru kabineta noteikumiem par elektroenerģijas tirdzniecību un lietošanu, kas izdoti uz Elektroenerģijas tirgus likuma pamata.

@@ -1,0 +1,4 @@
+5. pants. Maksas samazinājums par obligātā iepirkuma un jaudas komponentēm
+(1) Elektroenerģijas galalietotājiem piemēro obligātā iepirkuma un jaudas komponentes maksas samazinājumu, ieskaitot pievienotās vērtības nodokli, pilnā apmērā. Samazinājumu nepiemēro pārrēķiniem, kas tiek veikti sistēmas galalietotāju pārkāpumu gadījumos. Elektroenerģijas publiskā tirgotāja negūtie ieņēmumi par obligātā iepirkuma un jaudas komponentes maksas samazinājumu tiek kompensēti no valsts budžeta līdzekļiem.
+(2) Obligātā iepirkuma un jaudas komponentes maksas samazinājums tiek piemērots galalietotāju obligātā iepirkuma un jaudas komponentes maksājumiem laikposmā no 2022. gada 1. janvāra līdz 2022. gada 30. aprīlim.
+(3) Obligātā iepirkuma un jaudas komponentes maksu kompensē saskaņā ar Ministru kabineta noteikumiem par elektroenerģijas tirdzniecību un lietošanu, kas izdoti uz Elektroenerģijas tirgus likuma un likuma "Par sabiedrisko pakalpojumu regulatoriem" pamata.

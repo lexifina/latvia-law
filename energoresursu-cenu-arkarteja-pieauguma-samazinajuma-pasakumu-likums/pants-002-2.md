@@ -1,0 +1,1 @@
+2. Šā likuma 10. panta pirmās daļas 1. punkta "b" apakšpunktā un otrās daļas 2. punktā minētajai personai Valsts sociālās apdrošināšanas aģentūra vai Aizsardzības ministrija, uzsākot atbalsta 20 euro izmaksu 2022. gada martā, izmaksā atbalstu par 2022. gada janvāri, februāri un martu.

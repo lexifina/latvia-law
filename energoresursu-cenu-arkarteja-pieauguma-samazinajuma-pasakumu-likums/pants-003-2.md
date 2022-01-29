@@ -1,0 +1,1 @@
+3. Ja pašvaldība līdz 2022. gada 27. janvārim mājsaimniecībai ir piešķīrusi mājokļa pabalstu par 2022. gada janvāri, piemērojot koeficientu, kas ir mazāks par 1,5, pašvaldība pārrēķina pabalstu atbilstoši šā likuma 13. panta pirmajā daļā noteiktajam un izmaksā starpību līdz 2022. gada 28. februārim.

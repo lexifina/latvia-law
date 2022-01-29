@@ -1,0 +1,6 @@
+1. pants. Likumā lietotie termini
+(1) Likumā lietotie termini, kas nosaka elektroenerģijas sistēmas pakalpojuma un obligātā iepirkuma komponentes maksas kompensēšanu, atbilst Enerģētikas likumā un Elektroenerģijas tirgus likumā lietotajiem terminiem.
+(2) Likumā lietotie termini, kas nosaka dabasgāzes tirdzniecības pakalpojuma maksas kompensāciju, atbilst Enerģētikas likumā lietotajiem terminiem.
+(3) Likumā lietotie termini, kas nosaka centralizētās siltumapgādes pakalpojuma maksas kompensāciju, atbilst Enerģētikas likumā un likumā "Par sabiedrisko pakalpojumu regulatoriem" lietotajiem terminiem.
+(4) Likumā lietotie termini, kas nosaka mājokļa pabalsta piešķiršanu mājsaimniecībām, atbilst Sociālo pakalpojumu un sociālās palīdzības likumā lietotajiem terminiem.
+(5) Likumā lietotie termini, kas nosaka atbalsta piešķiršanu un izmaksu valsts sociālās apdrošināšanas pensiju, speciālo valsts pensiju, izdienas pensiju, darba negadījumu atlīdzību, maternitātes pabalstu, valsts sociālo pabalstu saņēmējiem, personām, kurām piešķirts bēgļa vai alternatīvais statuss, kā arī citām šā likuma 8. panta otrajā daļā minētajām personu kategorijām, atbilst attiecīgo jomu regulējošos normatīvajos aktos lietotajiem terminiem.

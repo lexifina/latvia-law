@@ -1,0 +1,5 @@
+12. pants. Atbalsta izmaksas atvieglojumi un lēmuma par atbalstu apstrīdēšanas un pārsūdzēšanas kārtība
+(1) Atbalsts 20 euro mēnesī un atbalsts 50 euro mēnesī ir pielīdzināms likuma "Par iedzīvotāju ienākuma nodokli" 9. panta pirmās daļas 16. punktā minētajai kompensācijai, kas netiek ietverta gada apliekamajā ienākumā un netiek aplikta ar iedzīvotāju ienākuma nodokli.
+(2) Atbalsts 20 euro mēnesī un atbalsts 50 euro mēnesī nav pakļauts ieturējumu veikšanai un parādu piedziņai.
+(3) Pašvaldības sociālais dienests, novērtējot mājsaimniecības materiālos resursus sociālās palīdzības piešķiršanai, neņem vērā personai izmaksāto atbalstu 20 euro mēnesī un atbalstu 50 euro mēnesī.
+(4) Valsts sociālās apdrošināšanas aģentūras lēmums tiek noteikts attiecībā uz atbalstu 20 euro mēnesī un atbalstu 50 euro mēnesī vai faktiskās rīcības apstrīdēšanu un pārsūdzēšanu saskaņā ar Valsts sociālo pabalstu likumu.
