@@ -4,4 +4,4 @@
 1²) šā likuma 24. panta ceturtajā daļā minētajā gadījumā attiecībā uz veikto zemes vienības vai zemes vienības daļas robežu izvērtēšanu un atjaunošanu zemes kadastrālais uzmērītājs iesniedz zemes kadastrālās uzmērīšanas dokumentus;
 2) valsts institūcija vai vietējā pašvaldība normatīvajos aktos noteiktajos gadījumos ziņas par kadastra objektiem vai kadastra subjektiem sniedz elektroniskā veidā, tai skaitā no valsts vai pašvaldības informācijas sistēmām;
 3) valsts institūcija vai vietējā pašvaldība normatīvajos aktos noteiktajos gadījumos ziņas sniedz dokumentu veidā, izņemot šā panta 1. un 1.¹ punktā minētos gadījumus;
-4) (punkts stājas spēkā 01.02.2022. un iekļauts likuma redakcijā uz 01.02.2022. Sk. Pārejas noteikumu 43. punktu).
+4) šā likuma 57.² pantā minētajā gadījumā Valsts zemes dienests iegūst ziņas par kadastra objektu.
