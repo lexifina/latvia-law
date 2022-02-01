@@ -1,6 +1,6 @@
 23. pants. Operatīvā uzskaite
 (1) Operatīvās darbības subjekti ir tiesīgi vākt, sistematizēt, analizēt, uzglabāt un uzskaitīt publiski pieejamo un slepeno informāciju par personām, faktiem, notikumiem un lietām (pasīvā uzskaites forma), kas nepieciešama un kam ir nozīme operatīvās darbības un kriminālprocesa uzdevumu veikšanai.
-(1¹) (Daļa stājas spēkā 01.02.2022. un iekļauta likuma redakcijā uz 01.02.2022. Sk. Pārejas noteikumu 9. punktu)
+(1¹) Šā panta pirmajā daļā minēto informāciju, ciktāl to pieļauj attiecīgās informācijas aizsardzība, var iekļaut Kriminālizlūkošanas atbalsta informācijas sistēmā. Kriminālizlūkošanas atbalsta informācijas sistēmā iekļaujamās informācijas apjomu, informācijas iekļaušanas un dzēšanas kārtību un nosacījumus, institūcijas, kurām ir piešķirama piekļuve šajā sistēmā iekļautajai informācijai, kā arī šajā sistēmā iekļautās informācijas glabāšanas termiņus nosaka Ministru kabinets.
 (2) Iekļaut personas operatīvajā uzskaitē (aktīvā uzskaites forma) ir atļauts tikai tad, ja attiecībā uz tām tiek veikta operatīvā izstrāde.
 (3) Operatīvajā uzskaitē iekļauto personu tiesības un brīvības var ierobežot tikai Kriminālprocesa likumā vai citos likumos noteiktajos gadījumos un kārtībā.
 (4) Ja ziņas, uz kuru pamata persona iekļauta operatīvajā uzskaitē, nav apstiprinājušās, šī persona no uzskaites noņemama. Operatīvās uzskaites lietas (operatīvās pārbaudes un operatīvās izstrādes lietas) izbeidzamas, ja:
