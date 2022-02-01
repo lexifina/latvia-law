@@ -7,7 +7,7 @@
 1) ja mainās ar nodokli apliekamo un neapliekamo darījumu proporcija par taksācijas gadu un šajā likumā nav noteikts citādi;
 2) ja ir veikta jebkāda maksājamā nodokļa vai atskaitītā priekšnodokļa korekcija saskaņā ar šajā likumā noteiktajām prasībām;
 3) ja ir veikti šā likuma 38.panta otrajā un trešajā daļā minētie darījumi;
-4) ja atkārtoti lietojamam iepakojumam piemēro depozīta sistēmu saskaņā ar normatīvajiem aktiem iepakojuma jomā.
+4) ja saskaņā ar šā likuma 39. panta trešās daļas 3. punktu darījuma ar nodokli apliekamajā vērtībā neiekļāva maksu par dzērienu atkārtoti lietojamo iepakojumu, kam piemēro depozīta sistēmu.
 (6) Šā panta piektajā daļā minētajos gadījumos nodokļa gada deklarāciju iesniedz arī tad, ja reģistrēts nodokļa maksātājs ir darbojies nepilnu gadu.
 (7) Reģistrēts nodokļa maksātājs pārskatu par preču piegādēm un sniegtajiem pakalpojumiem Eiropas Savienības teritorijā iesniedz, ja izpildīts kaut viens no šiem nosacījumiem:
 1) veikta preču piegāde Eiropas Savienības teritorijā;
