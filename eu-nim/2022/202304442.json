@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Trauksmes celšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "24B",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-03",
+  "entry_into_force": "2022-02-04",
+  "notification_date": "2023-08-04",
+  "commission_reference": "MNE(2023)04442",
+  "nim_celex": "72019L1937LVA_202304442",
+  "nim_id": "202304442",
+  "transposes_celex": [
+    "32019L1937"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7fbef31-9655-4b43-b69a-0eb4f52765d1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
