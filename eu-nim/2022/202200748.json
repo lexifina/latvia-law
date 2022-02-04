@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 1. februāra noteikumi Nr. 86 \"Grozījumi Ministru kabineta 2007. gada 13. februāra noteikumos Nr. 120 \"Labības sēklaudzēšanas un sēklu tirdzniecības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "24",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-03",
+  "entry_into_force": "2022-02-04",
+  "notification_date": "2022-02-03",
+  "commission_reference": "MNE(2022)00748",
+  "nim_celex": "72021L2171LVA_202200748",
+  "nim_id": "202200748",
+  "transposes_celex": [
+    "32021L2171"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01e38a1d-87f1-11ec-8c40-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
