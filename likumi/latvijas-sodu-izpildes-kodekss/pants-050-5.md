@@ -12,10 +12,10 @@ Daļēji slēgtajā cietumā sodu izcieš:
 9) notiesātie, kas pārvietoti no atklātajiem cietumiem sakarā ar rupjiem vai sistemātiskiem disciplīnas pārkāpumiem;
 10) notiesātie, kas pārvietoti no audzināšanas iestādes nepilngadīgajiem pēc pilngadības sasniegšanas, ja viņi sodīti par smaga vai sevišķi smaga nozieguma izdarīšanu.
 Daļēji slēgtajos cietumos tiek nodrošināta notiesāto apsardze un pastāvīga uzraudzība. Notiesātie soda izciešanas režīma zemākajā pakāpē sodu izcieš slēgtās kamerās.
-Pēc ievietošanas cietumā notiesātajam ne mazāk kā viena ceturtdaļa no piespriestā soda laika jāizcieš soda izciešanas režīma zemākajā pakāpē. Ne mazāk kā viena ceturtdaļa no piespriestā soda viņam jāizcieš soda izciešanas režīma augstākajā pakāpē.
-Ja notiesātais pirmstiesas apcietinājumā un soda izpildes vietā izcietis vienu ceturtdaļu no piespriestā soda un atbilst šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem, viņu ar izvērtēšanas komisijas lēmumu var pārvietot no soda izciešanas režīma zemākās pakāpes uz soda izciešanas režīma augstāko pakāpi.
-Notiesāto no soda izciešanas režīma augstākās pakāpes ar izvērtēšanas komisijas lēmumu var pārvietot uz atklāto cietumu, ja notiesātais atbilst šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem, vai atbrīvot no soda izciešanas nosacīti pirms termiņa likumā noteiktajā kārtībā.
-Sievietes, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), soda izciešanu uzsāk soda izciešanas režīma zemākajā pakāpē. Pēc ievietošanas cietumā viņām šajā pakāpē jāizcieš ne mazāk kā septiņi gadi. Ja notiesātā pirmstiesas apcietinājumā un soda izpildes vietā izcietusi vismaz septiņus gadus no piespriestā soda un atbilst šā kodeksa 50.³ panta ceturtajā daļā minētajiem nosacījumiem, viņu ar izvērtēšanas komisijas lēmumu var pārvietot no soda izciešanas režīma zemākās pakāpes uz soda izciešanas režīma augstāko pakāpi. No soda izciešanas režīma augstākās pakāpes notiesāto var atbrīvot no soda izciešanas nosacīti pirms termiņa likumā noteiktajā kārtībā.
+Notiesātajam ne mazāk kā viena ceturtdaļa no piespriestā soda jāizcieš soda izciešanas režīma zemākajā pakāpē. Soda daļā, kas jāizcieš soda izciešanas režīma zemākajā pakāpē, tiek ieskaitīts apcietinājumā pavadītais laiks. Ne mazāk kā viena ceturtdaļa no piespriestā soda viņam jāizcieš soda izciešanas režīma augstākajā pakāpē.
+(Ceturtā daļa izslēgta ar 27.01.2022. likumu)
+Notiesāto no soda izciešanas režīma augstākās pakāpes var pārvietot uz atklāto cietumu vai atbrīvot no soda izciešanas nosacīti pirms termiņa likumā noteiktajā kārtībā.
+Sievietes, kas notiesātas ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), soda izciešanu uzsāk soda izciešanas režīma zemākajā pakāpē. Pēc ievietošanas cietumā viņām šajā pakāpē jāizcieš ne mazāk kā septiņi gadi. Soda daļā, kas jāizcieš soda izciešanas režīma zemākajā pakāpē, tiek ieskaitīts apcietinājumā pavadītais laiks. Notiesāto no soda izciešanas režīma augstākās pakāpes var atbrīvot no soda izciešanas nosacīti pirms termiņa likumā noteiktajā kārtībā.
 Notiesātajiem, kuri sodu izcieš daļēji slēgtā cietuma soda izciešanas režīma augstākajā pakāpē, ir tiesības:
 1) izmantot gadā astoņas ilglaicīgas satikšanās - no divdesmit četrām līdz četrdesmit astoņām stundām un astoņas īslaicīgas satikšanās - no pusotras stundas līdz divām stundām;
 2) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
@@ -33,5 +33,5 @@ Ar īslaicīgu brīvības atņemšanu notiesātajiem ir tiesības:
 2) iepirkties komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
 3) izmantot telefonsarunas bez skaita ierobežojuma;
 4) izmantot tiesības, kas paredzētas šā kodeksa 50.⁴ panta septītās daļas 5., 6., 7., 8., 9., 10. un 11. punktā.
-Papildus šajā pantā minētajām tiesībām notiesātajiem ārvalsts pilsoņiem un notiesātajiem, kuru pastāvīgā dzīvesvieta nav Latvija, ir tiesības divas reizes mēnesī izmantot videosaziņas iespēju uz laiku līdz 15 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
-Papildus šajā pantā minētajām tiesībām vājdzirdīgajiem un nedzirdīgajiem notiesātajiem ir tiesības izmantot videosaziņas iespējas bez skaita ierobežojuma uz laiku līdz 30 minūtēm saziņai ar radiniekiem, laulāto un citām personām bez brīvības atņemšanas iestādes pārstāvja klātbūtnes.
+(Vienpadsmitā daļa izslēgta ar 27.01.2022. likumu)
+(Divpadsmitā daļa izslēgta ar 27.01.2022. likumu)

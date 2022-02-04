@@ -7,9 +7,9 @@ Brīvības atņemšanas iestādes priekšnieks neatļauj notiesātajam īslaicī
 4) brīvības atņemšanas iestādes ārsta atzinumā nav norādes, kas apliecina veselības aprūpes pakalpojuma saņemšanas nepieciešamību;
 5) notiesātais slimo ar bīstamu infekcijas slimību tās aktīvajā formā vai slimību akūtajā stadijā un nav pabeidzis ārstēšanās kursu saskaņā ar ārsta atzinumu;
 6) notiesātais ir izdarījis tīšu noziegumu neizciestās soda daļas laikā, ja viņš iepriekš ticis nosacīti pirms termiņa atbrīvots no brīvības atņemšanas soda izciešanas;
-7) notiesātais iepriekš neattaisnojošu iemeslu dēļ nav atgriezies brīvības atņemšanas iestādē šā kodeksa 49.³ un 78.⁴ pantā minētajā atļaujā norādītajā laikā;
+7) notiesātais iepriekš neattaisnojošu iemeslu dēļ nav atgriezies brīvības atņemšanas iestādē šā kodeksa 49.⁷ un 78.⁴ pantā minētajā atļaujā norādītajā laikā;
 8) notiesātais vēlas saņemt veselības aprūpes pakalpojumu ārpus Latvijas Republikas teritorijas;
 9) notiesātā atrašanās ārpus brīvības atņemšanas iestādes var apdraudēt sabiedrības drošību.
-Lemjot par atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju veselības aprūpes pakalpojumu saņemšanai, šā panta otrās daļas 6. punktu neattiecina uz notiesāto, kas sodu izcieš atklātajā cietumā.
+Lemjot par atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju veselības aprūpes pakalpojumu saņemšanai, šā panta otrās daļas 6. punktu neattiecina uz notiesāto, kas sodu izcieš atklātajā cietumā. Lemjot par šā kodeksa 78.⁴ pantā minētās atļaujas došanu uz mūžu notiesātajam, brīvības atņemšanas iestādes priekšnieks papildus šajā pantā minētajiem kritērijiem ņem vērā uz mūžu notiesātā izdarītā noziedzīgā nodarījuma veidu un smagumu, kā arī piespriestā soda ilgumu un izciestā soda daļu.
 Par brīvības atņemšanas iestādes priekšnieka atteikumu dot atļauju īslaicīgi atstāt brīvības atņemšanas iestādes teritoriju veselības aprūpes pakalpojuma saņemšanai notiesātais var iesniegt sūdzību Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieks izskata iesniegto sūdzību viena mēneša laikā, un viņa pieņemtais lēmums nav pārsūdzams.
 Šā panta otrās daļas 6. punktā minēto neņem vērā attiecībā uz notiesātajiem, kas sodu izcieš atklātajos cietumos.

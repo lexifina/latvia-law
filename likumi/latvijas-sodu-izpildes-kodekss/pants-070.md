@@ -4,12 +4,12 @@ Par soda izciešanas režīma prasību pārkāpšanu notiesātajiem var uzlikt �
 1¹) aizliegt izmantot personisko televizoru vai radiouztvērēju (bez balss ieraksta iespējām) uz laiku līdz vienam mēnesim un likt to nodot glabāšanā brīvības atņemšanas iestādes noliktavā vai atdot personām, kas to nodevušas lietošanā notiesātajam;
 2) izteikt rājienu;
 3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus un tabakas izstrādājumus komersanta izveidotajā pastāvīgajā tirdzniecības vietā brīvības atņemšanas iestādes teritorijā;
-4) notiesātajiem, kas izcieš sodu slēgtajā cietumā, aizliegt kārtējo telefonsarunu;
-4¹) notiesātajiem, kas izcieš sodu daļēji slēgtajā cietumā, aizliegt telefonsarunas uz laiku līdz 10 dienām;
-4²) notiesātajiem ar brīvības atņemšanu uz visu mūžu (mūža ieslodzījums), kuri sodu izcieš atsevišķā slēgtā cietuma blokā ar pastiprinātu uzraudzību, aizliegt kārtējo videosaziņas iespēju;
+4) (izslēgts ar 27.01.2022. likumu);
+4¹) notiesātajiem, kas sodu izcieš soda izciešanas režīma zemākajā pakāpē, aizliegt telefonsarunas uz laiku līdz 10 dienām;
+4²) uz mūžu notiesātajiem, kas sodu izcieš atsevišķajā nodaļā, aizliegt kārtējo videosaziņas iespēju;
 5) aizliegt kārtējo satikšanos;
 6) notiesātos, kas sodu izcieš cietumos, ievietot soda izolatorā līdz četrpadsmit diennaktīm;
-7) notiesātos, kas sodu izcieš audzināšanas iestādēs nepilngadīgajiem, ievietot disciplinārajā izolatorā līdz desmit diennaktīm.
+7) notiesātos, kas sodu izcieš audzināšanas iestādēs nepilngadīgajiem, ievietot disciplinārajā izolatorā līdz trim diennaktīm.
 Sievietes, kuras ir cietumā kopā ar zīdaiņiem, un grūtnieces nedrīkst ievietot soda izolatorā.
 Ievietot soda izolatorā var tikai notiesātos, kuri izdarījuši rupjus vai sistemātiskus soda izciešanas režīma pārkāpumus.
 Par rupjiem soda izciešanas režīma pārkāpumiem uzskatāma:
@@ -38,5 +38,5 @@ Par soda izciešanas režīma prasību pārkāpšanu notiesātajiem, kas iesaist
 2) izteikt rājienu;
 3) aizliegt uz laiku līdz vienam mēnesim pirkt pārtikas produktus un tabakas izstrādājumus brīvības atņemšanas iestādes veikalā;
 4) aizliegt kārtējo radinieku un citu personu apmeklējumu;
-5) ievietot soda izolatorā līdz 14 diennaktīm vai disciplinārajā izolatorā līdz 10 diennaktīm;
+5) ievietot soda izolatorā līdz 14 diennaktīm vai disciplinārajā izolatorā līdz trim diennaktīm;
 6) atcelt iepriekš piešķirto pamudinājumu.

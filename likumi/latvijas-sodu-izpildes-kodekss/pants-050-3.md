@@ -1,5 +1,5 @@
 50.³ pants. Soda izpildes režīma noteikšana
-Notiesātie slēgtajos cietumos sodu izcieš trijās režīma pakāpēs - zemākajā, vidējā un augstākajā, bet daļēji slēgtajos cietumos - divās režīma pakāpēs - zemākajā un augstākajā. Notiesātajiem atklātajos cietumos un nepilngadīgajiem audzināšanas iestādēs soda izpildes režīma pakāpes nenosaka.
+Notiesātie slēgtajos cietumos un daļēji slēgtajos cietumos sodu izcieš divās soda izciešanas režīma pakāpēs - zemākajā un augstākajā. Notiesātajiem atklātajos cietumos un nepilngadīgajiem audzināšanas iestādēs soda izpildes režīma pakāpes nenosaka.
 Soda izpildes režīmu slēgtajos cietumos un daļēji slēgtajos cietumos nosaka šis kodekss, kas paredz soda izpildes režīma:
 1) pakāpenisku mīkstināšanu, lai sagatavotu notiesāto atbrīvošanai un veicinātu viņa iekļaušanos dzīvē pēc soda izciešanas;
 2) pastiprināšanu, lai nodrošinātu likuma prasībām atbilstošu notiesātā uzvedību.
@@ -9,3 +9,5 @@ Notiesāto par atsevišķu rupju soda izciešanas režīma pārkāpumu vai siste
 Šajā pantā noteiktais par soda izciešanas režīma pakāpenisku mīkstināšanu, pastiprināšanu vai notiesātā pārvietošanu neattiecas uz notiesātajiem ar īslaicīgu brīvības atņemšanu.
 Ja notiesāto soda izciešanas laikā notiesā ar brīvības atņemšanas sodu par cita noziedzīga nodarījuma izdarīšanu vai tiesa nosaka galīgo sodu, brīvības atņemšanas iestādes veids un soda izciešanas režīms par jauna noziedzīga nodarījuma izdarīšanu nosakāms no jauna atbilstoši šajā kodeksā paredzētajai kārtībai.
 Šā panta septītajā daļā minētajos gadījumos brīvības atņemšanas iestādes veids un soda izciešanas režīms tiek noteikts atbilstoši smagākajam izdarītajam noziedzīgajam nodarījumam, ņemot vērā visus tiesas nolēmumus, saskaņā ar kuriem notiesātais sodu vēl nav izcietis vai saskaņā ar kuriem notiesātajam ir noteikts galīgais sods.
+Ja personu notiesā par vairākiem noziedzīgiem nodarījumiem, brīvības atņemšanas iestādes veids un soda izciešanas režīms tiek noteikts atbilstoši smagākajam izdarītajam noziedzīgajam nodarījumam, ņemot vērā visus tiesas nolēmumus, saskaņā ar kuriem notiesātais sodu vēl nav izcietis vai saskaņā ar kuriem notiesātajam ir noteikts galīgais sods.
+Notiesātajam, kurš ticis atbrīvots nosacīti pirms termiņa un par kuru tiesa ir pieņēmusi lēmumu par pirmstermiņa uzraudzības laika aizstāšanu ar brīvības atņemšanu, brīvības atņemšanas iestādes veidu un soda izciešanas režīmu nosaka no jauna atbilstoši smagākajam izdarītajam noziedzīgajam nodarījumam, ņemot vērā visus tiesas nolēmumus, saskaņā ar kuriem notiesātais sodu vēl nav izcietis.
