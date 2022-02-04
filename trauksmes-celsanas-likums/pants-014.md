@@ -1,0 +1,2 @@
+14. pants. Valsts nodrošinātā juridiskā palīdzība trauksmes cēlējam
+Valsts nodrošināto juridisko palīdzību, pamatojoties uz trauksmes cēlēja iesniegtajiem dokumentiem, kā arī, ja nepieciešams, no trauksmes cēlēju kontaktpunkta saņemto atzinumu, trauksmes cēlējam pēc viņa lūguma sniedz saskaņā ar Valsts nodrošinātās juridiskās palīdzības likumu, nevērtējot personas īpašuma stāvokli un ienākumu līmeni, ja pirmšķietami trauksmes celšana ir atbildusi šā likuma prasībām un tās dēļ trauksmes cēlējam radušās nelabvēlīgas sekas.

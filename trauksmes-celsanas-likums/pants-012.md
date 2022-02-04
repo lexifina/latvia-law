@@ -1,0 +1,3 @@
+12. pants. Trauksmes cēlēja ziņojumā minētās personas identitātes aizsardzība
+(1) Aizliegts izpaust informāciju, kas atklāj tās fiziskās vai juridiskās personas identitāti, par kuru ziņojis trauksmes cēlējs. Minēto informāciju var sniegt tikai personai vai institūcijai, kurai tā nepieciešama trauksmes cēlēja ziņojuma vai uz tā pamata ierosinātas pārkāpuma lietas izskatīšanai vai trauksmes cēlēja, viņa radinieka vai saistītās personas aizsardzībai.
+(2) Šā panta pirmajā daļā noteiktais aizliegums neattiecas uz gadījumiem, kad trauksmes cēlējs, viņa radinieks vai saistītā persona šo informāciju izpauž savu tiesību vai tiesisko interešu aizsardzības nolūkā.

@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 23. oktobra direktīvas (ES) 2019/1937 par to personu aizsardzību, kuras ziņo par Savienības tiesību aktu pārkāpumiem.

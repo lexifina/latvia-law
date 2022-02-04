@@ -1,0 +1,2 @@
+19. pants. Administratīvā atbildība par trauksmes celšanas traucēšanu
+Par trauksmes celšanas traucēšanu vai mēģinājumu to traucēt, tostarp trauksmes cēlēja ziņojuma iesniegšanas vai izskatīšanas traucēšanu, piemēro naudas sodu fiziskajai personai no trim līdz septiņdesmit naudas soda vienībām, amatpersonai - no četrām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - no septiņām līdz tūkstoš četrsimt naudas soda vienībām.

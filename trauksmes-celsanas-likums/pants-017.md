@@ -1,0 +1,2 @@
+17. pants. Administratīvā atbildība par nelabvēlīgu seku radīšanu
+Par nelabvēlīgu seku radīšanu trauksmes cēlējam, viņa radiniekam vai saistītajai personai piemēro naudas sodu - fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, amatpersonai - no astoņām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz divtūkstoš astoņsimt naudas soda vienībām.

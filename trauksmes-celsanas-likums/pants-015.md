@@ -1,0 +1,2 @@
+15. pants. Trauksmes cēlēja, viņa radinieka un saistītās personas atbrīvošana no juridiskās atbildības
+Par trauksmes celšanu atbilstoši šā likuma prasībām, tostarp par normatīvajos aktos noteiktu tādu neizpaužamu ziņu izpaušanu, kuras nav valsts noslēpums, trauksmes cēlējam, viņa radiniekam un saistītajai personai neiestājas juridiskā atbildība, tostarp civiltiesiskā atbildība un kriminālatbildība.

@@ -1,0 +1,4 @@
+2. pants. Likuma mērķis un darbības joma
+(1) Likuma mērķis ir veicināt, lai sabiedrības interesēs tiek celta trauksme par pārkāpumiem, un nodrošināt trauksmes celšanas mehānismu izveidi un darbību, kā arī trauksmes cēlēju pienācīgu aizsardzību.
+(2) Likumu piemēro tiktāl, ciktāl tas nav pretrunā ar pārkāpumu ziņošanas kārtību, ko paredz speciālie normatīvie akti, tostarp Eiropas Savienības tiesību akti finanšu un kapitāla tirgus jomā, kā arī nelikumīgi iegūtu līdzekļu legalizēšanas un terorisma un proliferācijas finansēšanas novēršanas, transporta drošības un vides aizsardzības jomā. Ministru kabinets izdod noteikumus, kuros norādīti Eiropas Savienības tiesību akti, kas paredz citu pārkāpumu ziņošanas kārtību šajā pantā minētajās jomās.
+(3) No šajā likumā noteiktajām trauksmes cēlēja tiesībām un aizsardzības garantijām nevar atteikties, un tās nevar ierobežot.

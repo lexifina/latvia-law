@@ -1,0 +1,2 @@
+16. pants. Atbrīvošana no valsts nodevas un lietas ārpustiesas izskatīšanas kārtības administratīvajā procesā
+Trauksmes cēlējs, viņa radinieks un saistītā persona, ja tas nepieciešams aizsardzībai pret trauksmes celšanas dēļ radītajām nelabvēlīgajām sekām, ir atbrīvoti no pienākuma ievērot lietas ārpustiesas izskatīšanas kārtību administratīvajā procesā, kā arī, ja pieteikums ir saistīts ar trauksmes celšanas dēļ radītu nelabvēlīgu seku novēršanu, ir atbrīvoti no valsts nodevas administratīvajā procesā tiesā.
