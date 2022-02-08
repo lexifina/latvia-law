@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022.gada 1.februāra instrukcija Nr. 1 “Kārtība, kādā izstrādā un aktualizē institūcijas darbības stratēģiju un novērtē tās ieviešanu”",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "25",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-04",
+  "entry_into_force": "2022-02-08",
+  "notification_date": "2026-05-28",
+  "commission_reference": "MNE(2026)03347",
+  "nim_celex": "72024L1500LVA_202603347",
+  "nim_id": "202603347",
+  "transposes_celex": [
+    "32024L1500"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/000897ec-2588-48b9-a8b8-86ae117c4805",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
