@@ -1,0 +1,1 @@
+4. Šā likuma 8. panta 4.¹ daļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem Sabiedriskā labuma organizāciju likumā par sabiedriskā labuma organizācijām noteiktajiem saimnieciskās darbības ierobežojumiem.
