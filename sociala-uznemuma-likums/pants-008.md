@@ -8,5 +8,6 @@
 (2) Pašvaldība ir tiesīga piešķirt sociālajam uzņēmumam nekustamā īpašuma nodokļa atvieglojumus atbilstoši likumā "Par nekustamā īpašuma nodokli" noteiktajai kārtībai.
 (3) Publiskas personas kustamo mantu var nodot bez atlīdzības sociālā uzņēmuma īpašumā atbilstoši Publiskas personas mantas atsavināšanas likumā noteiktajai kārtībai.
 (4) Publiska persona, publiskas personas kapitālsabiedrība, kapitālsabiedrība, kurā publiskas personas daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus, kā arī kapitālsabiedrība, kurā vienas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus, ir tiesīga nodot tai piederošo mantu sociālajam uzņēmumam bezatlīdzības lietošanā atbilstoši Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumā noteiktajai kārtībai.
+(4¹) (Daļa stājas spēkā 17.05.2022. un iekļauta likuma redakcijā uz 17.05.2022. Sk. Pārejas noteikumu 4. punktu)
 (5) Sociālais uzņēmums statūtos noteikto mērķu sasniegšanai ir tiesīgs piesaistīt brīvprātīgā darba veicējus darbībām, kas nav saistītas ar uzņēmuma pārvaldi un grāmatvedību, kā arī uzņēmuma pamatfunkcijām.
 (6) Komercdarbības atbalsta piešķiršanas kārtību un nosacījumus nosaka Ministru kabinets.
