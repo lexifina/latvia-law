@@ -5,3 +5,4 @@
 1) izglītot jaunatni valsts aizsardzības jomā;
 2) veicināt jaunatnes pilsonisko apziņu un patriotismu;
 3) īstenot sadarbību ar biedrībām, nodibinājumiem un jaunatnes organizācijām valsts aizsardzības mācības un Jaunsardzes kustības organizēšanas jautājumos.
+(4) Ministru kabinets nosaka kārtību, kādā nodrošina Jaunsardzes centra organizētajās nodarbībās un pasākumos drošību.
