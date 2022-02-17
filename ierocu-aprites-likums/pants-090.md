@@ -6,7 +6,8 @@
 4) beidzies licences derīguma termiņš vai licence anulēta;
 5) šaujamieroča vai lielas enerģijas pneimatiskā ieroča, vai gāzes ieroča un signālieroča īpašnieks miris vai ir bezvēsts prombūtnē;
 6) juridiskā persona, kurai reģistrēti ieroči, tiek likvidēta vai pārtrauc darbību;
-7) to nosaka tiesas nolēmums.
+7) to nosaka tiesas nolēmums;
+8) nepieciešams noskaidrot apstākļus, ja reģistrācijai iesniegtajam šaujamierocim, tā būtiskajai sastāvdaļai vai lielas enerģijas pneimatiskajam ierocim nesakrīt normatīvajos aktos par ieroču un munīcijas apriti noteiktie dati, kurus Valsts policija pārbauda, veicot šaujamieroča, tā būtiskās sastāvdaļas vai lielas enerģijas pneimatiskā ieroča reģistrāciju.
 (2) Ja persona tiek turēta aizdomās par noziedzīga nodarījuma izdarīšanu vai saukta pie administratīvās atbildības par šā likuma 23. panta 7. punktā minēto administratīvo pārkāpumu, Valsts policija ir tiesīga uz laiku izņemt ieroci, munīciju un to sastāvdaļas, kā arī ieroča atļauju un glabāt to, kamēr nav pieņemts lēmums par atļaujas anulēšanu vai tās darbības apturēšanu vai personu attaisnojošs nolēmums.
 (3) Valsts policijai ir tiesības uz laiku izņemt un glabāt ieroci un munīciju, ja persona cietusi ceļu satiksmes negadījumā un nav spējīga nodrošināt to tālāku pārvadāšanu vai nēsāšanu vai ir pamatotas aizdomas, ka personai iestājušās medicīniskās pretindikācijas, kā arī citos gadījumos, lai novērstu iespēju ieroci vai munīciju pazaudēt, nolaupīt vai izmantot ļaunprātīgi.
 (4) Mirušā ieroču īpašnieka radinieki vai personas, kuras dzīvo attiecīgajā ieroču atļaujā norādītajā adresē un gāzes ieroču un signālieroču glabāšanas adresē, nodrošina, lai Valsts policija varētu izņemt ieročus un munīciju.

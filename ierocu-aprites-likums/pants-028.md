@@ -1,5 +1,9 @@
-28. pants. Kvalifikācijas pārbaudījums pirms pirmreizējas šaujamieroča iegādes
-(1) Pirms šaujamieroča (izņemot medību šaujamieroci) vai lielas enerģijas pneimatiskā ieroča pirmreizējas iegādes fiziskā persona nokārto kvalifikācijas pārbaudījumu par ieroču un munīcijas aprites kārtību un apliecina prasmi rīkoties ar ieroci. Kvalifikācijas pārbaudījuma saturu un norises kārtību nosaka Ministru kabinets.
-(2) Šā panta pirmajā daļā minēto kvalifikācijas pārbaudījumu atkārtoti kārto personas, kurām ieroča (izņemot medību šaujamieroci) glabāšanas atļauja vai nēsāšanas atļauja anulēta par ieroča vai munīcijas iegādāšanās, reģistrēšanas, glabāšanas, nēsāšanas, pārvadāšanas vai realizēšanas noteikumu pārkāpumiem.
+28. pants. Kvalifikācijas pārbaudījums
+(1) Kvalifikācijas pārbaudījumu par ieroču un munīcijas aprites kārtību un prasmēm rīkoties ar ieroci kārto šā panta otrajā daļā noteiktās fiziskās personas. Kvalifikācijas pārbaudījuma saturu un norises kārtību nosaka Ministru kabinets.
+(2) Kvalifikācijas pārbaudījumu par ieroču un munīcijas aprites kārtību un prasmēm rīkoties ar ieroci kārto:
+1) fiziskās personas pirms šaujamieroča (izņemot medībām klasificētu šaujamieroci) vai lielas enerģijas pneimatiskā ieroča (izņemot medībām klasificētu lielas enerģijas pneimatisko ieroci) pirmreizējas iegādes;
+2) fiziskās personas, kurām ieroča (izņemot medībām klasificētu šaujamieroci) glabāšanas atļauja vai nēsāšanas atļauja anulēta par ieroča vai munīcijas iegādāšanās, reģistrēšanas, glabāšanas, nēsāšanas, pārvadāšanas vai realizēšanas noteikumu pārkāpumiem;
+3) fiziskās personas, kurām saskaņā ar juridiskās personas darbību ir pieejami ieroči un munīcija (izņemot fiziskās personas, kurām pieejami salūtieroči (akustiskie ieroči) darbībai kultūras jomā vai vēstures notikumu atveidošanai), pirms pieejas atļaušanas;
+4) individuālais komersants un komersanta amatpersonas un darbinieki, ieroču komersanta un juridiskās personas amatpersonas un darbinieki, kuriem saskaņā ar darba pienākumiem pieejami ieroči, to munīcija un sastāvdaļas, pirms pieejas atļaušanas.
 (3) Par kvalifikācijas pārbaudījuma kārtošanu, kā arī par kvalifikācijas pārbaudījuma apliecības dublikāta izsniegšanu maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.
-(4) Valsts policija reģistrē Licenču un sertifikātu reģistrā ziņas par personām, kuras nokārtojušas šā panta pirmajā un otrajā daļā minēto kvalifikācijas pārbaudījumu.
+(4) Valsts policija reģistrē Licenču un sertifikātu reģistrā ziņas par personām, kuras nokārtojušas šā panta otrajā daļā minēto kvalifikācijas pārbaudījumu.

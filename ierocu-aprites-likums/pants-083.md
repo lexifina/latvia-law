@@ -3,7 +3,7 @@
 1) izgatavotos, iegādātos un realizētos šaujamieročus, to būtiskās sastāvdaļas, munīciju, kā arī iegādāto un realizēto šaujampulveri;
 2) izgatavotos, iegādātos un realizētos lielas enerģijas pneimatiskos ieročus;
 3) izgatavotos, iegādātos un realizētos gāzes ieročus un signālieročus;
-4) remonta laikā nomainītās šaujamieroču būtiskās sastāvdaļas;
+4) remonta laikā nomainītās šaujamieroču būtiskās sastāvdaļas, kā arī remontā nodotos vai saņemtos šaujamieročus vai lielas enerģijas pneimatiskos ieročus;
 5) dezaktivētus šaujamieročus un lielas enerģijas pneimatiskos ieročus, kā arī dezaktivētu šaujamieroču realizēšanu;
 6) šaujamieročus, kuri pārveidoti par salūtieročiem (akustiskajiem ieročiem);
 7) glabāšanai pieņemtos šaujamieročus, munīciju, šaujampulveri.
