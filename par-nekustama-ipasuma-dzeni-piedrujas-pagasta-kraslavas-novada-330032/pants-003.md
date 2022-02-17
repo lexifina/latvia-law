@@ -1,0 +1,1 @@
+3. pants. Iekšlietu ministrija šā likuma 1. panta pirmajā daļā minētā nekustamā īpašuma sastāvā esošo zemes gabala daļu normatīvajos aktos noteiktajā kārtībā ieraksta zemesgrāmatā uz valsts vārda Iekšlietu ministrijas personā.
