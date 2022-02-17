@@ -1,2 +1,2 @@
-35. pants. Valsts policijas materiāltehniskā apgāde
-Normas, pēc kādām Valsts policija nodrošināma ar tehniku, sakaru līdzekļiem, bruņojumu, speciālajiem līdzekļiem, ekipējumu, datortehniku un programmnodrošinājumu, transportlīdzekļiem un to ekspluatācijai nepieciešamajiem līdzekļiem, nosaka Ministru kabinets.
+35. pants. Valsts policijas apgāde
+Valsts policija tai paredzēto uzdevumu izpildei tiek nodrošināta ar materiāltehniskajiem līdzekļiem, bruņojumu, speciālajiem līdzekļiem, kā arī dienesta suņiem un zirgiem. Normas Valsts policijas darbinieku apgādei ar materiāltehniskajiem līdzekļiem un bruņojumu, to veidus, kā arī normas Valsts policijas struktūrvienību apgādei ar speciālajiem līdzekļiem, dienesta suņiem un zirgiem nosaka Valsts policijas priekšnieks.

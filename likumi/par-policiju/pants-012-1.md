@@ -4,7 +4,7 @@ Policijas lēmumā par nošķiršanu norāda:
 2) lēmuma sastādītāja amatu, vārdu un uzvārdu;
 3) personas, kas rada draudus, vārdu, uzvārdu, personas kodu, dzīvesvietas adresi, korespondences adresi un iespējamās uzturēšanās vietas adresi;
 4) aizsargājamās personas vārdu, uzvārdu, personas kodu vai dzimšanas datumu un dzīvesvietas adresi;
-5) aizsargājamās personas vai tās likumiskā pārstāvja pieteikuma policijai īsu saturu;
+5) vardarbības draudu riska izvērtējumu;
 6) personai, kas rada draudus, uzliktos tiesiskos pienākumus un laiku, kad beidzas to izpildes termiņš;
 7) lēmuma pamatojumu (faktu konstatējumu un tiesību normu, saskaņā ar kuru lēmums pieņemts);
 8) ziņas par lēmumam pievienotajiem dokumentiem;
