@@ -1,0 +1,1 @@
+3. pants. Saprašanās memorands stājas spēkā tā 15. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ".
