@@ -3,7 +3,8 @@
 1) kaitēt Latvijas valsts suverenitātei un drošībai;
 2) apdraudēt Latvijā veikta operatīvās darbības procesa vai kriminālprocesa mērķa sasniegšanu;
 3) apdraudēt personas dzīvību, veselību vai citas likumiskās intereses.
-(1¹) Ja nav konstatēts neviens no šā panta pirmajā daļā minētajiem atteikuma iemesliem, Pasažieru informācijas nodaļa saņemto pieprasījumu nekavējoties, bet ne vēlāk kā triju darbdienu laikā iesniedz izvērtēšanai rajona (pilsētas) tiesā pēc iestādes atrašanās vietas.
+(1¹) Ja nav konstatēts neviens no šā panta pirmajā daļā minētajiem atteikuma iemesliem un pasažieru datu pieprasījums neattiecas uz šā likuma 14.¹ panta pirmajā vai otrajā daļā minēto gadījumu, Pasažieru informācijas nodaļa saņemto pieprasījumu nekavējoties, bet ne vēlāk kā triju darbdienu laikā iesniedz izvērtēšanai rajona (pilsētas) tiesā pēc iestādes atrašanās vietas.
+(1²) Ja pieprasījums attiecas uz šā likuma 14.¹ panta pirmajā vai otrajā daļā minēto gadījumu, Pasažieru informācijas nodaļa rīkojas atbilstoši šā likuma 14.¹ pantā noteiktajam.
 (2) Tiesnesis pārliecinās, vai pieprasījumā ir norādīta šā likuma 11. pantā minētā informācija, izvērtē tajā ietverto pamatojumu un lemj par piekrišanu datu izsniegšanai.
 (3) Tiesnesis papildus izvērtē turpmāk minētos apstākļus un nedod piekrišanu pieprasīto pasažieru datu izsniegšanai, ja:
 1) pieprasīto pasažieru datu izsniegšana ir acīmredzami nesamērīga ar norādīto mērķi vai nepiemērota tā sasniegšanai;
