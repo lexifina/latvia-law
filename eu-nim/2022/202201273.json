@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 22. februāra noteikumi Nr. 136 \"Kārtība, kādā autoceļu lietošanas nodevas elektroniskās iekasēšanas sistēmas pakalpojumu sniedzējus reģistrē, uzrauga un izslēdz no reģistra\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-24",
+  "entry_into_force": "2022-02-25",
+  "notification_date": "2022-02-28",
+  "commission_reference": "MNE(2022)01273",
+  "nim_celex": "72019L0520LVA_202201273",
+  "nim_id": "202201273",
+  "transposes_celex": [
+    "32019L0520"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e3718b32-cc4a-41c5-b924-1deb2d9f8d97",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
