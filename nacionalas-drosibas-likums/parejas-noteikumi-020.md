@@ -1,0 +1,1 @@
+20. Personām, kuras saskaņā ar šā likuma 3.¹ panta pirmās daļas 1. punktu uzsāk dienēt Ukrainas dienestā, nekavējoties jāreģistrējas Nacionālo bruņoto spēku rezerves uzskaites struktūrvienībā, norādot vārdu, uzvārdu, personas kodu un dienesta veidu.
