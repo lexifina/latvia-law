@@ -1,0 +1,1 @@
+1. pants. 2021. gada 18. oktobrī Luksemburgā parakstītais Nolīgums par gaisa transportu starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Kataras Valsti, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
