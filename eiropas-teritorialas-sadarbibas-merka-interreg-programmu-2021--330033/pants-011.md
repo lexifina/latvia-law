@@ -1,0 +1,4 @@
+11. pants. Uzraudzības komiteja
+(1) Attiecīgās programmas uzraudzības komiteju izveido atbilstoši Interreg regulas 28. un 29. pantā noteiktajam.
+(2) Uzraudzības komiteja pilda Interreg regulas 22. un 30. pantā noteiktās funkcijas, kā arī apstiprina programmas īstenošanas nolikumu, kas nosaka projektu iesniegumu sagatavošanas un iesniegšanas kārtību un nosacījumus, projektu iesniegumu vērtēšanas kārtību un kritērijus, projektu iesniegumu atlases kārtību atbilstoši Interreg regulas 22. panta 2. punktā noteiktajam, projektu īstenošanas un kontroles kārtību, kā arī programmas izmaksu attiecināmību un kas ir saistošs attiecīgās programmas vadības nodrošināšanā iesaistītajām institūcijām, projektu iesniegumu iesniedzējiem un finansējuma saņēmējiem.
+(3) Uzraudzības komitejas pieņemtie lēmumi ir saistoši programmas vadības nodrošināšanā iesaistītajām institūcijām.

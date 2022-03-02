@@ -1,0 +1,5 @@
+10. pants. Revīzijas iestādes tiesības un pienākumi
+(1) Revīzijas iestādes pienākums ir pildīt Interreg regulas 48. un 49. pantā noteiktās funkcijas.
+(2) Revīzijas iestāde atbilstoši Interreg regulas 48. pantā noteiktajam vada revidentu grupu, kuras sastāvā ir pārstāvji no katras attiecīgās programmas partnervalsts. Vides aizsardzības un reģionālās attīstības ministrija deleģē Latvijas Republikas pārstāvjus revidentu grupai, kas veic revidentu grupas funkcijas Latvijas Republikas teritorijā.
+(3) Revīzijas iestādei un revidentu grupas pārstāvjiem ir tiesības pieprasīt un saņemt no attiecīgās programmas vadības nodrošināšanā iesaistītajām institūcijām un finansējuma saņēmēja to rīcībā esošo informāciju, kas nepieciešama revīzijas iestādes pienākumu izpildei.
+(4) Revīzijas iestādei un Latvijas Republikas pārstāvjiem revidentu grupā ir tiesības pieprasīt un saņemt pieeju valsts informācijas sistēmu datiem tādā apjomā, kādu paredz attiecīgo sistēmu regulējošie normatīvie akti un kāds nepieciešams revīzijas iestādes pienākumu izpildei.

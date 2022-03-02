@@ -1,0 +1,4 @@
+17. pants. Programmas finansējuma par neatbilstoši veiktajiem izdevumiem atgūšana
+(1) Programmas finansējumu par neatbilstoši veiktajiem izdevumiem atgūst atbilstoši kārtībai, kuru nosaka attiecīgā programma vai vienošanās par programmas īstenošanu, kas noslēgta starp vadošo iestādi un programmas partnervalstīm, vai programmas uzraudzības komitejā apstiprinātie dokumenti.
+(2) Programmas finansējumu no fiziskās personas, privāto tiesību juridiskās personas vai šādu personu apvienības vai programmas partnervalsts publisko tiesību juridiskās personas atgūst civiltiesiskā kārtībā.
+(3) Programmas finansējumu no Latvijas Republikā reģistrēta finansējuma saņēmēja, kas ir tiešās vai pastarpinātās pārvaldes iestāde, atvasināta publiska persona vai cita iestāde, atgūst atbilstoši kārtībai, kāda noteikta saskaņā ar šā likuma 14. panta 1. punktu.

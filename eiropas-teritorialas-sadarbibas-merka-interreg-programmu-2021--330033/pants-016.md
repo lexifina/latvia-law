@@ -1,0 +1,6 @@
+16. pants. Ar projekta īstenošanu saistīto strīdu risināšana
+(1) Ja vadošā iestāde atrodas Latvijas Republikā, strīdus, kas attiecas uz civiltiesiskā līguma vai vienošanās par projekta īstenošanu izpildi, tostarp piešķirtā programmas finansējuma izmaksāšanu, izmaksāšanas turpināšanu vai atgūšanu, risina:
+1) civiltiesiskā kārtībā, ja finansējuma saņēmējs ir fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība vai programmas partnervalsts publisko tiesību juridiskā persona;
+2) Valsts pārvaldes iekārtas likumā noteiktajā kārtībā apstrīdot vadošās iestādes lēmumu kā pārvaldes lēmumu tās tiešās pārvaldes iestādes vadītājam, kuras ietvaros izveidota vadošā iestāde, ja finansējuma saņēmējs ir Latvijas Republikas tiešās vai pastarpinātās pārvaldes iestāde, atvasināta publiska persona vai cita iestāde. Pārvaldes lēmums, kuru pieņēmis tās tiešās pārvaldes iestādes vadītājs, kuras ietvaros izveidota vadošā iestāde, nav pārsūdzams tiesā.
+(2) Ja vadošā iestāde neatrodas Latvijas Republikā, strīdus, kas attiecas uz līguma par projekta īstenošanu izpildi, tostarp programmas finansējuma izmaksāšanu, izmaksāšanas turpināšanu vai atgūšanu, risina atbilstoši noslēgtajam līgumam par projekta īstenošanu.
+(3) Finanšu kontroles procesa ietvaros sagatavotie dokumenti un pieņemtie lēmumi nav izskatāmi administratīvā procesa kārtībā.

@@ -1,0 +1,20 @@
+7. pants. Nacionālās atbildīgās iestādes tiesības un pienākumi
+(1) Nacionālajai atbildīgajai iestādei ir šādi pienākumi:
+1) sadarbībā ar attiecīgās programmas partnervalstīm nodrošināt līdzdalību programmas izstrādē, vienojoties par tās valodu, programmas iesniegšanu apstiprināšanai Ministru kabinetā, līdzdalību programmas grozījumu izdarīšanā, tās ieviešanā, uzraudzībā un izvērtēšanā, kā arī finanšu kontroles un revīzijas veikšanā;
+2) attiecībā uz šā likuma 3. panta pirmās daļas 2., 9. un 10. punktā minētajām programmām papildus šā panta pirmās daļas 1. punktā minētajam pienākumam nodrošināt arī programmu iesniegšanu apstiprināšanai Eiropas Komisijā un nodrošināt sarunu procesu ar Eiropas Komisiju un attiecīgās programmas partnervalstīm par programmas apstiprināšanu;
+3) atbilstoši Interreg regulas 16. panta 5. punktā noteiktajam rakstveidā apstiprināt Latvijas Republikas piekrišanu katras programmas saturam;
+4) nodrošināt vienošanās starp programmas partnervalstīm un vadošo iestādi par attiecīgās programmas īstenošanu parakstīšanu un izpildi, ja par to ir vienojušās programmas partnervalstis;
+5) atbilstoši Interreg regulas 29. pantā noteiktajam apstiprināt Latvijas Republikas pārstāvjus dalībai programmas uzraudzības komitejā un piedalīties šīs komitejas darbā;
+6) izveidot nacionālo apakškomiteju un nodrošināt tās darbību;
+7) nodrošināt valsts budžeta līdzfinansējuma plānošanu un maksājumu veikšanu programmas tehniskās palīdzības budžetam vai programmas īstenošanai;
+8) nodrošināt valsts budžeta līdzfinansējuma plānošanu, piešķiršanu un maksājumu veikšanu Latvijas Republikā reģistrētiem finansējuma saņēmējiem atbilstoši kārtībai, kāda noteikta saskaņā ar šā likuma 14. panta 3. punktu;
+9) noteikt programmas nacionālā kontaktpunkta funkciju izpildītāju Latvijas Republikā, ja par to ir vienojušās visas attiecīgās programmas partnervalstis;
+10) sniegt programmu vadības nodrošināšanā iesaistītajām institūcijām informāciju, ja ir aizdomas par krāpšanu attiecīgās programmas ieviešanā, kā arī informēt Eiropas Komisiju par konstatētajām neatbilstībām programmu ieviešanā Latvijas Republikā;
+11) pēc pieprasījuma sniegt programmu vadības nodrošināšanā iesaistītajām institūcijām informāciju, kas nepieciešama programmu vadības nodrošināšanai, tostarp informāciju par Latvijas Republikā reģistrētu projektu iesniegumu iesniedzēju atbilstību dalībai projektā atbilstoši attiecīgajā programmā noteiktajiem projekta partnera atbilstības kritērijiem;
+12) veicināt Latvijas Republikā reģistrētu potenciālo finansējuma saņēmēju dalību programmās, sniedzot informāciju par tām, kā arī publicēt informāciju par apstiprinātajiem projektiem, kuros piedalās Latvijas Republikā reģistrēti finansējuma saņēmēji, atbilstoši kārtībai, kāda noteikta saskaņā ar šā likuma 14. panta 2. punktu;
+13) reģistrēt de minimis atbalsta uzskaites sistēmā de minimis atbalsta piešķīrumu Latvijas Republikā reģistrētiem finansējuma saņēmējiem, izņemot šā likuma 3. panta pirmās daļas 2., 9. un 10. punktā minētās programmas.
+(2) Nacionālajai atbildīgajai iestādei ir šādas tiesības:
+1) konsultēties ar nacionālo apakškomiteju par Latvijas Republikā reģistrētu projektu iesniegumu iesniedzēju programmas ietvaros iesniegto projektu iesniegumu atbilstību nacionālajiem un reģionālajiem plānošanas dokumentiem un to prioritātēm, kā arī projektu plānoto aktivitāšu pārklāšanās risku vai papildinātību ar citu finanšu instrumentu finansēto projektu aktivitātēm;
+2) pieprasīt un saņemt informāciju no citām programmu vadības nodrošināšanā iesaistītajām institūcijām un programmu finansējuma saņēmējiem, lai nodrošinātu ar programmu vadības nodrošināšanu un kontroli saistīto lēmumu pieņemšanu;
+3) ierosināt programmas vadības nodrošināšanā iesaistītajām institūcijām veikt projekta īstenošanas pārbaudes vai citus kontroles pasākumus;
+4) pieprasīt un saņemt pieeju valsts informācijas sistēmu datiem tādā apjomā, kādu paredz attiecīgo sistēmu regulējošie normatīvie akti un kāds nepieciešams nacionālās atbildīgās iestādes pienākumu izpildei.
