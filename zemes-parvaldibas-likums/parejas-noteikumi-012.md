@@ -1,0 +1,1 @@
+12. Šā likuma 15. panta devītajā daļā noteikto prasību attiecībā uz grāmatvedības uzskaiti par jūras piekrastes ūdeņiem un jūras piekrastes sauszemes daļu nepiemēro līdz jūras piekrastes joslas pirmreizējai reģistrācijai Nekustamā īpašuma valsts kadastra informācijas sistēmā un gada laikā pēc tās.
