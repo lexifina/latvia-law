@@ -1,0 +1,1 @@
+1. pants. 2021. gada 12. oktobrī Kijevā parakstītais Kopējās aviācijas telpas nolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Ukrainu, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
