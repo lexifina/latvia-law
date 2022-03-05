@@ -1,0 +1,2 @@
+1. pants. Likuma mērķis
+Likuma mērķis ir atbalsta sniegšana Ukrainas pilsoņiem un viņu ģimenes locekļiem, kuri izceļo no Ukrainas vai kuri nevar atgriezties Ukrainā Krievijas Federācijas izraisītā bruņotā konflikta dēļ šā bruņotā konflikta norises laikā (turpmāk - Ukrainas civiliedzīvotāji), kā arī vispārēja atbalsta sniegšana Ukrainas sabiedrībai. Šajā likumā paredzētais atbalsts tiek sniegts bruņotā konflikta norises laikā.

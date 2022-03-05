@@ -1,0 +1,3 @@
+16. pants. Izņēmumi attiecībā uz darba pienākumu veikšanai nepieciešamajām valsts valodas zināšanām
+(1) Darba devējam ir tiesības nodarbināt Ukrainas civiliedzīvotāju arī bez valsts valodas zināšanām tiktāl, ciktāl tas netraucē darba pienākumu pildīšanu.
+(2) Ārstniecības iestāde var nodarbināt ārstniecības personas, kuras ir Ukrainas civiliedzīvotāji, ja tās var nodrošināt ārstniecības personas profesionālās darbības veikšanai nepieciešamo saziņu (piemēram, ar tulka palīdzību), tostarp sniegt pacientiem informāciju saprotamā veidā, kā arī saziņu ar ārstniecības personām, ārstniecības atbalsta personām un personālu ārstniecības iestādē.
