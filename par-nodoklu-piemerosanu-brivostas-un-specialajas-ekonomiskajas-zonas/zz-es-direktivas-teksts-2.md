@@ -46,7 +46,7 @@ NACE - vispārējās ekonomiskās darbības klasifikācija;
 CPA - Eiropas Savienības Preču statistiskā klasifikācija pēc saimniecības nozarēm.
 17. Apliecinājums, ka ieguldījumi paliks attiecīgajā apgabalā vismaz piecus gadus (vai mazo vai vidējo kapitālsabiedrību gadījumā - trīs gadus) kopš to veikšanas.
 18. Kapitālsabiedrības apliecinājums, ka uz kapitālsabiedrību neattiecas nelikumīgi piešķirta atbalsta atgūšanas rīkojums saskaņā ar iepriekšēju Eiropas Komisijas lēmumu.
-19. Informācija, ka kapitālsabiedrība neatbilst grūtībās nonākušas kapitālsabiedrības statusam saskaņā ar Komisijas regulas Nr. 651/2014 2.panta 18.punktu.
+19. Informācija, ka kapitālsabiedrība neatbilst grūtībās nonākušas kapitālsabiedrības statusam saskaņā ar Komisijas regulas Nr. 651/2014 2. panta 18. punktu, izņemot kapitālsabiedrības, kuras 2019. gada 31. decembrī nebija nonākušas grūtībās, taču kļuva par grūtībās nonākušām kapitālsabiedrībām laikposmā no 2020. gada 1. janvāra līdz 2021. gada 31. decembrim un turpina tādas būt pēc 2021. gada 31. decembra.
 20. Apliecinājums, ka kapitālsabiedrība nav uzsākusi un neuzsāks darbus pie projekta pirms līguma par ieguldījuma veikšanu spēkā stāšanās.
 21. Ja nodokļu atvieglojumus šā likuma ietvaros plānots apvienot ar citu atbalstu ieguldījumiem, kapitālsabiedrības apliecinājums, ka ieguldījumu veikšana nav uzsākta.
 22. Apliecinājums, ka kapitālsabiedrība pēdējo divu gadu laikā pirms pieteikuma iesniegšanas līguma par ieguldījumu veikšanu slēgšanai nav veikusi pārcelšanu uz attiecīgo zonas vai brīvostas teritoriju, kurā tiks veikts sākotnējais ieguldījums, kuram pieprasīts atbalsts, un apņemas to nedarīt divus gadus pēc tam, kad ir pabeigts sākotnējais ieguldījums, kuram tiek pieprasīts atbalsts.
