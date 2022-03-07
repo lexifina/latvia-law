@@ -1,6 +1,6 @@
 43.pants. Nodokļa 0 procentu likmes piemērošana preču piegādēm
 (1) Nodokļa 0 procentu likmi piemēro preču eksportam.
-(2) Nodokļa 0 procentu likmi piemēro preču eksporta ietvaros fiskālajam pārstāvim nosūtītajām precēm, ja šīs preces ir nosūtītas nolūkā tās eksportēt tālāk un novietotas muitas noliktavā vai akcīzes preču noliktavā.
+(2) Nodokļa 0 procentu likmi piemēro preču eksporta ietvaros fiskālajam pārstāvim nosūtītajām precēm, ja šīs preces ir nosūtītas nolūkā tās eksportēt tālāk un novietotas normatīvajos aktos muitas jomā noteiktajā vietā vai akcīzes preču noliktavā.
 (3) Nodokļa 0 procentu likmi piemēro šādu preču piegādei muitas noliktavās un brīvajās zonās:
 1) tādu preču piegādei, kuras ievestas Eiropas Savienības teritorijā no trešajām valstīm vai trešajām teritorijām un nav izlaistas brīvam apgrozījumam;
 2) tādu preču piegādei, kurām citā dalībvalstī ir uzsākta eksporta procedūra un kuras ievestas iekšzemē tālākai eksportēšanai.

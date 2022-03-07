@@ -1,2 +1,2 @@
 52.² pants. Ar nodokli neapliekamie preču tālpārdošanas darījumi
-Ja uzskatāms, ka nodokļa maksātājs, kas veic preču piegādi, preces ir saņēmis un piegādājis saskaņā ar šā likuma 6. panta sestās daļas nosacījumiem, šādu darījumu ar nodokli neapliek.
+Ar nodokli neapliek preču piegādi nodokļa maksātājam, par kuru saskaņā ar šā likuma 6. panta sestās daļas nosacījumiem uzskatāms, ka tas pats saņēmis un piegādājis preces personai, kas nav nodokļa maksātājs.

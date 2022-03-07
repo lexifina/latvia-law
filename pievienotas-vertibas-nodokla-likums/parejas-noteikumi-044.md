@@ -1,0 +1,1 @@
+44. Grozījumi attiecībā uz šā likuma 50. panta piektās daļas papildināšanu ar 3. punktu, sestās daļas ievaddaļas izteikšanu jaunā redakcijā un 53. panta septītās daļas papildināšanu ar 7. punktu stājas spēkā 2022. gada 1. jūlijā.

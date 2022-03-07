@@ -4,7 +4,7 @@ Likumā ir lietoti šādi termini:
 a) līdz 2009.gada 31.decembrim un pēc 2009.gada 31.decembra ir pagarināta vai pārreģistrēta,
 b) pēc 2009.gada 31.decembra, bet ir mainīts zemesgabala lietošanas mērķis, kas neparedz apbūves veikšanu;
 2) atlīdzība - preču vai pakalpojumu vērtība naudas izteiksmē, kuru preču piegādātājs vai pakalpojumu sniedzējs saņem vai kura tam būtu jāsaņem kā samaksa no preču vai pakalpojumu saņēmēja vai citas personas par preču piegādi vai pakalpojumu sniegšanu, bez pievienotās vērtības nodokļa (turpmāk - nodoklis) neatkarīgi no tā, vai samaksa izdarīta pilnībā vai daļēji;
-3) dalībvalsts teritorija - konkrētās Eiropas Savienības dalībvalsts (turpmāk - dalībvalsts) teritorija, kurai piemēro Līguma par Eiropas Savienību 52.pantu un Līguma par Eiropas Savienības darbību 355.pantu, izņemot trešās teritorijas, kā arī Monako Firstistes, Menas salas un Apvienotās Karalistes Akrotiri (Akrotiri) un Dekelijas (Dhekelia) suverēnās bāzu teritorijas, kuras nodokļa piemērošanas nolūkā tiek uzskatītas par attiecīgi Francijas, Apvienotās Karalistes vai Kipras teritoriju;
+3) dalībvalsts teritorija - konkrētās Eiropas Savienības dalībvalsts (turpmāk - dalībvalsts) teritorija, kurai piemēro Līguma par Eiropas Savienību 52. pantu un Līguma par Eiropas Savienības darbību 355. pantu, izņemot trešās teritorijas, kā arī Monako Firstistes un Apvienotās Karalistes Akrotiri (Akrotiri) un Dekelijas (Dhekelia) suverēnās bāzu teritorijas, kuras nodokļa piemērošanas nolūkā tiek uzskatītas par attiecīgi Francijas vai Kipras teritoriju;
 4) Eiropas Savienības teritorija - dalībvalstu teritoriju kopums;
 4¹) elektroniski sniegti pakalpojumi - Padomes 2011.gada 15.marta Īstenošanas regulas (ES) Nr. 282/2011, ar ko nosaka īstenošanas pasākumus direktīvai 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu (pārstrādātā versija), 7.pantā minētie pakalpojumi, tai skaitā:
 a) tīmekļa vietņu apkalpošana, tīmekļa resursu nodrošināšana, programmu un iekārtu uzturēšana no attāluma,
@@ -15,8 +15,8 @@ e) tālmācība;
 5) fiskālais pārstāvis - reģistrēts nodokļa maksātājs, kurš, pamatojoties uz rakstveida līgumu, maksā nodokli valsts budžetā un pārstāv citas dalībvalsts nodokļa maksātāju vai trešās valsts vai trešās teritorijas nodokļa maksātāju (attiecībā uz akcīzes precēm ievērojot arī akcīzes nodokli un akcīzes preču apriti reglamentējošus normatīvos aktus) šādos darījumos:
 a) veicot preču importu ar turpmāku šo preču piegādi citas dalībvalsts reģistrētam nodokļa maksātājam,
 b) veicot preču importu ar turpmāku šo preču piegādi iekšzemē,
-c) saņemot preces iekšzemē, ja šīs preces saņemtas nolūkā tās eksportēt tālāk un novietotas muitas noliktavā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu,
-d) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces iegādātas nolūkā tās eksportēt tālāk un novietotas muitas noliktavā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu;
+c) saņemot preces iekšzemē, ja šīs preces saņemtas nolūkā tās eksportēt tālāk un novietotas normatīvajos aktos muitas jomā noteiktajā vietā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu,
+d) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces iegādātas nolūkā tās eksportēt tālāk un novietotas normatīvajos aktos muitas jomā noteiktajā vietā vai akcīzes preču noliktavā, un veicot šo preču tālāko eksportēšanu;
 e) veicot preču iegādi Eiropas Savienības teritorijā, ja šīs preces faktiski saņemtas iekšzemē nolūkā tās piegādāt uz citu dalībvalsti;
 6) iekšzeme - Latvijas Republikas teritorija;
 7) izsoles cena - vērtība, kas saskaņā ar Civilprocesa likumu atbilst pilnai nosolītajai cenai, augstākajai nosolītajai cenai vai izsoles sākumcenai gadījumos, kad izsole pasludināta par nenotikušu;
@@ -59,7 +59,7 @@ b) elektroenerģiju, gāzi, siltumenerģiju, apkuri, ūdeni, tvaiku un dzesēša
 a) precēm - summa, kas nav mazāka par attiecīgo preču vai līdzīgu preču pirkuma cenu, vai, ja pirkuma cenas nav, pašizmaksa, ko nosaka piegādes laikā,
 b) pakalpojumiem - summa, kas nav mazāka par visām izmaksām, ko radījusi pakalpojuma sniegšana;
 28) trešās teritorijas:
-a) šādas Eiropas Savienības teritorijas, kas ir Eiropas Savienības muitas teritorijas daļas, - Atosa kalns, Kanāriju salas, Francijas teritorijas, kas minētas Līguma par Eiropas Savienības darbību 349. pantā un 355. panta 1. punktā, Ālandu salas, Normandijas salas, Kampjone Itālijā (Campione d'Italia), Lugāno ezera Itālijas ūdeņi,
+a) šādas Eiropas Savienības teritorijas, kas ir Eiropas Savienības muitas teritorijas daļas, - Atosa kalns, Kanāriju salas, Francijas teritorijas, kas minētas Līguma par Eiropas Savienības darbību 349. pantā un 355. panta 1. punktā, Ālandu salas, Kampjone Itālijā (Campione d'Italia), Lugāno ezera Itālijas ūdeņi,
 b) šādas Eiropas Savienības teritorijas, kas nav Eiropas Savienības muitas teritorijas daļas, - Helgolandes sala, Bizingenas teritorija, Seūta, Melilja, Livinjo;
 29) trešās valstis - tādas valstis vai teritorijas, kurām nepiemēro Līgumu par Eiropas Savienību un Līgumu par Eiropas Savienības darbību;
 30) elektronisko sakaru pakalpojumi - Padomes 2011.gada 15.marta Īstenošanas regulas (ES) Nr. 282/2011, ar ko nosaka īstenošanas pasākumus direktīvai 2006/112/EK par kopējo pievienotās vērtības nodokļa sistēmu (pārstrādātā versija), 6.a pantā (Padomes 2013.gada 7.oktobra Īstenošanas regulas (ES) Nr. 1042/2013, ar ko groza Īstenošanas regulu (ES) Nr. 282/2011 attiecībā uz pakalpojumu sniegšanas vietu, redakcijā) minētie pakalpojumi;
