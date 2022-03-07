@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 10. februāra likums \"Grozījumi Pievienotās vērtības nodokļa likumā\". Latvijas Vēstnesis, 36A, 21.02.2022.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2022/36A.2",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-21",
+  "entry_into_force": "2022-03-07",
+  "notification_date": "2022-02-25",
+  "commission_reference": "MNE(2022)01259",
+  "nim_celex": "72021L1159LVA_202201259",
+  "nim_id": "202201259",
+  "transposes_celex": [
+    "32021L1159"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/adcaa1c6-9dfc-11ec-83e1-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
