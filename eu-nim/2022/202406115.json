@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 1. marta noteikumi Nr. 150 \"Emisijas kvotu izsolīšanas instrumenta finansēto projektu atklāta konkursa \"Siltumnīcefekta gāzu emisiju samazināšana mājsaimniecībās – atbalsts atjaunojamo energoresursu izmantošanai\" nolikums\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "47",
+  "official_journal_page": null,
+  "official_journal_date": "2022-03-08",
+  "entry_into_force": "2022-03-09",
+  "notification_date": "2024-12-29",
+  "commission_reference": "MNE(2024)06115",
+  "nim_celex": "72024L1275LVA_202406115",
+  "nim_id": "202406115",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/93b7ed8e-3d1e-4d01-83a2-1d22a1958212",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
