@@ -1,0 +1,4 @@
+5.¹ pants. Dzīvniekiem noteikto veselības prasību izpildes nodrošināšana un dzīvnieku reģistrēšana
+(1) Ukrainas civiliedzīvotājiem atļauts ieceļot Latvijas Republikā ar dzīvniekiem un atļauts ievest dzīvniekus no Ukrainas arī tad, ja nav nodrošināta dzīvnieku veselības jomu regulējošos normatīvajos aktos noteikto prasību izpilde.
+(2) Lai attiecībā uz Latvijas Republikā ievestajiem dzīvniekiem nodrošinātu obligāto veselības prasību izpildi un dzīvnieku reģistrēšanu, Komisija pieņem Ukrainas civiliedzīvotāju pieteikumus par šo prasību izpildei nepieciešamā atbalsta saņemšanu.
+(3) Ministru kabinets nosaka kārtību, kādā šā panta pirmajā daļā minētos dzīvniekus reģistrē un attiecībā uz tiem nodrošina obligāto veselības prasību izpildi, kā arī nosaka dzīvniekiem noteikto obligāto veselības prasību izpildes nodrošināšanai veicamo pasākumu apmaksas maksimālo apmēru.

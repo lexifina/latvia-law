@@ -1,4 +1,3 @@
 6. pants. Izmitināšanas vietas pienākumi
-Izmitināšanas vieta informē sadarbības teritorijas civilās aizsardzības komisiju par Ukrainas civiliedzīvotājiem:
-1) kuriem ir nepieciešams papildu atbalsts, piemēram, grūtniecēm, ģimenēm ar bērniem līdz divu gadu vecumam;
-2) kuriem ir funkcionāli traucējumi - acīmredzami kustību traucējumi, garīga rakstura traucējumi, aprūpes vajadzības, specifiskas veselības aprūpes un citas vajadzības, lai nodrošinātu tūlītēju nepieciešamo atbalstu un aprūpi.
+(1) Ja Ukrainas civiliedzīvotājam nepieciešams papildu atbalsts (piemēram, grūtniecēm, ģimenēm ar bērniem līdz divu gadu vecumam vai saistībā ar funkcionāliem traucējumiem - acīmredzamiem kustību traucējumiem, garīga rakstura traucējumiem, aprūpes vajadzībām, specifiskām veselības aprūpes un citām vajadzībām), viņš par to informē izmitināšanas vietu, lai tiktu nodrošināts tūlītējs nepieciešamais atbalsts un aprūpe. Izmitināšanas vieta par saņemto lūgumu informē šā likuma 2. panta pirmajā, otrajā vai trešajā daļā minēto institūciju.
+(2) Izmitināšanas vieta informē Pārtikas un veterināro dienestu par Ukrainas civiliedzīvotājiem, kuri ieradušies Latvijā kopā ar dzīvnieku.

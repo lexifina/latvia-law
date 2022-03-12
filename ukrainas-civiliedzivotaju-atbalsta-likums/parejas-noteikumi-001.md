@@ -1,0 +1,1 @@
+1. Valsts šā likuma 7. panta pirmajā un trešajā daļā, 12. panta pirmajā daļā un 13. panta pirmās daļas 1. punktā noteikto atbalstu, kā arī Ukrainas civiliedzīvotājiem sniegtos veselības aprūpes pakalpojumus apmaksā, sākot ar 2022. gada 24. februāri.
