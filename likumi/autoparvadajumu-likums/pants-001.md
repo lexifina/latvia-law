@@ -4,7 +4,7 @@ Likumā ir lietoti šādi termini:
 2) autobuss - autotransporta līdzeklis, kas paredzēts pasažieru (deviņu un vairāk cilvēku, neieskaitot šoferi) pārvadāšanai;
 3) autoosta - no brauktuves nodalīta teritorija ar būvēm, kas paredzētas autotransporta kustības organizēšanai, autotransporta līdzekļu un pasažieru apkalpošanai vai apmaiņai maršrutos;
 4) autopārvadājums - jebkura autotransporta līdzekļa pārvietošanās pa ceļu, pārvadājot pasažierus vai kravu;
-5) pārvadājumu vadītājs - pārvadātāja pilnvarota fiziskā persona, kas vada pārvadājumu operācijas;
+5) (izslēgts ar 10.03.2022. likumu);
 6) autotransporta līdzeklis - transportlīdzeklis ar motoru (izņemot traktorus un pašgājējas mašīnas), kuru lieto pasažieru vai kravas pārvadāšanai pa bezsliežu ceļiem. Piekabes un puspiekabes tiek uzskatītas par autotransporta līdzekļa daļu;
 7) autovadītājs - persona, kas uz tiesiska pamata vada autotransporta līdzekli;
 8) ātri bojājošās kravas - lauksaimniecības un zivju produkti, kā arī cita krava, kuru pārvadājot jāievēro īpašs temperatūras režīms un kura jāpārvadā ar specializētiem autotransporta līdzekļiem;
@@ -22,6 +22,7 @@ b) tiek pārvadāts viens vai vairāki konteineri vai maināmas virsbūves, kuru
 17) kravas valdītājs - persona, kas uz tiesiska pamata rīkojas ar kravu savā vārdā neatkarīgi no tā, vai krava ir tās īpašums;
 18) kustības saraksts - pārvadājuma veikšanas režīms, kurā noteikta autobusa (autotransporta līdzekļa) pārvietošanās, apstāšanās un stāvēšana maršruta reisā (reisos), kā arī pārvadājuma izpildes laiki un izpildes dienas;
 18¹) licences kartīte - noteiktas formas dokuments vai ieraksts valsts informācijas sistēmā, kas apliecina, ka pārvadātājs ar konkrēto autotransporta līdzekli var veikt dokumentā vai ierakstā norādītā veida komercpārvadājumus;
+18²) līgumslēdzējs vai apakšuzņēmējs - uzņēmums, kas noslēdzis līgumu ar kravas autopārvadātāju par transporta pakalpojumu un nav nosūtītājs vai ekspeditors;
 19) maršrutu apkalpes vietas - autoosta, pasažieru apmaiņas vieta un pietura;
 20) maršruts - iepriekš izraudzīts autotransporta līdzekļa kustības ceļš starp diviem kustības galapunktiem;
 21) nosūtītājs - persona, kas nodod kravu pārvadāšanai. Nosūtītājs un saņēmējs var būt viena un tā pati persona;

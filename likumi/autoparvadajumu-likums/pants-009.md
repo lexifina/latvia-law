@@ -1,5 +1,5 @@
 9. pants. Pavadzīmes saturs
-(1) Ja citos normatīvajos aktos nav noteikts citādi, pavadzīmi noformē vismaz trijos eksemplāros un tos paraksta nosūtītājs un pārvadātājs. Pirmo pavadzīmes eksemplāru izsniedz nosūtītājam, otro - saņēmējam, bet trešais pavadzīmes eksemplārs paliek pie pārvadātāja.
+(1) Ja citos normatīvajos aktos nav noteikts citādi, pavadzīmi noformē vismaz trijos eksemplāros un tos paraksta nosūtītājs un pārvadātājs. Pirmo pavadzīmes eksemplāru izsniedz nosūtītājam, otro - saņēmējam, bet trešais pavadzīmes eksemplārs paliek pie pārvadātāja. Pavadzīmes sagatavošana vairākos eksemplāros ir attiecināma tikai uz papīra formā sagatavotajām pavadzīmēm.
 (2) Pavadzīmi sagatavo nosūtītājs. Ja nosūtītājs vai pārvadātājs to vēlas, pavadzīmi var rakstīt katram autotransporta līdzeklim vai katra veida kravai, vai katrai kravas daļai (partijai) atsevišķi.
 (3) Pavadzīmē ietveramas šādas ziņas:
 1) pavadzīmes izrakstīšanas vieta un datums;

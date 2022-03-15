@@ -2,7 +2,7 @@
 (1) Pasažieru pārvadājumi tiek veikti ar autotransporta līdzekļiem (autobusiem, vieglajiem automobiļiem u.c.), kuri paredzēti šim mērķim.
 (2) Pasažieru komercpārvadājumus ar taksometru veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili.
 (3) (Izslēgta ar 02.12.2004. likumu)
-(4) Pasažieru komercpārvadājumus ar vieglo automobili veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili, kurā ir ne vairāk kā četras pasažieru sēdvietas.
+(4) Pasažieru komercpārvadājumus ar vieglo automobili veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili.
 (5) Pasažieru komercpārvadājumus ar taksometru un vieglo automobili veic ar autotransporta līdzekli, kas atbilst šādām vides aizsardzības prasībām:
 1) tas pirmo reizi reģistrēts līdz 2008. gada 31. decembrim, un tā motora tilpums nepārsniedz 2000 kubikcentimetrus;
 2) tas pirmo reizi reģistrēts pēc 2009. gada 1. janvāra, un tā radīto oglekļa dioksīda (CO2) izmešu maksimālais daudzums gramos uz vienu kilometru nepārsniedz:
