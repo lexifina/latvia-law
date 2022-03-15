@@ -1,0 +1,1 @@
+40. Šā likuma noteikumi ir piemērojami digitālā satura vai digitālā pakalpojuma piegādēm, kas tiek veiktas, sākot ar 2022. gada 15. martu, izņemot šā likuma 16.⁵ un 33. pantu, kas ir piemērojami līgumiem, kuri noslēgti, sākot ar 2022. gada 15. martu.

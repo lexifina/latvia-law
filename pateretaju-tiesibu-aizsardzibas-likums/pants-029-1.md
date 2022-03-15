@@ -1,0 +1,15 @@
+29.¹ pants. Patērētāja tiesības neatbilstoša digitālā satura vai digitālā pakalpojuma gadījumā
+(1) Patērētājs, kuram piegādāts līguma noteikumiem neatbilstošs digitālais saturs vai digitālais pakalpojums, ir tiesīgs pieprasīt, lai pārdevējs vai pakalpojuma sniedzējs veic vienu no šādām darbībām:
+1) novērš digitālā satura vai digitālā pakalpojuma neatbilstību;
+2) samērīgi samazina cenu;
+3) atceļ līgumu un atmaksā patērētājam par digitālo saturu vai digitālo pakalpojumu samaksāto naudas summu.
+(2) Patērētājs ir tiesīgs pieprasīt digitālā satura vai digitālā pakalpojuma neatbilstības novēršanu, izņemot gadījumus, kad tas nav iespējams vai pārdevējam vai pakalpojuma sniedzējam tas radītu izmaksas, kas būtu nesamērīgas, ņemot vērā visus apstākļus konkrētajā gadījumā, tai skaitā digitālā satura vai digitālā pakalpojuma vērtību, kāda tā būtu, ja nepastāvētu neatbilstība, un neatbilstības nozīmību.
+(3) Pārdevējs vai pakalpojuma sniedzējs bez atlīdzības un neradot būtiskas neērtības patērētājam novērš digitālā satura vai digitālā pakalpojuma neatbilstību saprātīgā termiņā, sākot no brīža, kad patērētājs ir informējis pārdevēju vai pakalpojuma sniedzēju par neatbilstību, ņemot vērā digitālā satura vai digitālā pakalpojuma raksturu un mērķi, kādam patērētājs digitālo saturu vai digitālo pakalpojumu ir iegādājies.
+(4) Patērētājam ir tiesības vai nu uz cenas proporcionālu samazinājumu saskaņā ar šā panta piekto daļu, ja digitālais saturs vai digitālais pakalpojums tika iegādāts par maksu, vai uz līguma atcelšanu saskaņā ar šā panta sesto daļu šādos gadījumos:
+1) digitālā satura vai digitālā pakalpojuma neatbilstības novēršana ir neiespējama vai nesamērīga saskaņā ar šā panta otro daļu;
+2) pārdevējs vai pakalpojuma sniedzējs nav nodrošinājis digitālā satura vai digitālā pakalpojuma atbilstību saskaņā ar šā panta trešo daļu;
+3) kaut arī pārdevējs vai pakalpojuma sniedzējs ir mēģinājis novērst digitālā satura vai digitālā pakalpojuma neatbilstību, tā pastāv;
+4) neatbilstība ir tik nozīmīga, ka tā attaisno tūlītēju cenas samazinājumu vai līguma atcelšanu;
+5) pārdevējs vai pakalpojuma sniedzējs ir paziņojis vai no apstākļiem skaidri izriet, ka pārdevējs saprātīgā termiņā vai neradot būtiskas neērtības patērētājam nenovērsīs digitālā satura vai digitālā pakalpojuma neatbilstību.
+(5) Cenas samazinājums ir proporcionāls patērētājam piegādātā digitālā satura vai digitālā pakalpojuma vērtības samazinājumam salīdzinājumā ar vērtību, kāda digitālajam saturam vai digitālajam pakalpojumam būtu, ja tas atbilstu līguma noteikumiem. Ja līgumā ir paredzēts, ka digitālo saturu vai digitālo pakalpojumu piegādā noteiktā laikposmā par maksu, cenas samazinājumu piemēro laikposmam, kurā digitālais saturs vai digitālais pakalpojums nav bijis atbilstošs.
+(6) Ja digitālo saturu vai digitālo pakalpojumu piegādā par maksu, patērētājs ir tiesīgs prasīt līguma atcelšanu tikai tad, ja neatbilstība ir nozīmīga. Pārdevējam vai pakalpojuma sniedzējam ir pienākums pierādīt, ka neatbilstība ir maznozīmīga.

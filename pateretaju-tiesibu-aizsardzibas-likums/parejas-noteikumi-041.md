@@ -1,0 +1,1 @@
+41. Grozījumi šā likuma 10. pantā par pirmās daļas izteikšanu jaunā redakcijā un otrās daļas papildināšanu pēc vārdiem "tās sniegšanas kārtību" ar vārdiem "informācijas sniegšanas prasības tiešsaistes tirdzniecības vietām", kā arī 12. panta trīspadsmitā, četrpadsmitā un piecpadsmitā daļa stājas spēkā 2022. gada 28. maijā.
