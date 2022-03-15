@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 22. februāra noteikumi Nr. 129 \"Grozījumi Ministru kabineta 2014. gada 20. maija noteikumos Nr. 255 \"Noteikumi par distances līgumu\"\".",
+  "type_of_act": "Ministru kabineta instrukcija",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "39",
+  "official_journal_page": null,
+  "official_journal_date": "2022-02-24",
+  "entry_into_force": "2022-03-15",
+  "notification_date": "2022-09-16",
+  "commission_reference": "MNE(2022)06198",
+  "nim_celex": "72019L2161LVA_202206198",
+  "nim_id": "202206198",
+  "transposes_celex": [
+    "32019L2161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/de238c76-44ec-4faf-9021-b8feeeb3d18e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
