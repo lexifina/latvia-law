@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 17. februāra likums \"Grozījumi Patērētāju tiesību aizsardzības likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "43",
+  "official_journal_page": null,
+  "official_journal_date": "2022-03-02",
+  "entry_into_force": "2022-03-15",
+  "notification_date": "2022-05-27",
+  "commission_reference": "MNE(2022)03415",
+  "nim_celex": "72019L2161LVA_202203415",
+  "nim_id": "202203415",
+  "transposes_celex": [
+    "32019L2161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/672962b0-e310-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
