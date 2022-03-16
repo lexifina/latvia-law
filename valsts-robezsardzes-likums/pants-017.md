@@ -19,4 +19,4 @@
 (7) Robežsargs:
 1) sniedzot atbalstu citai valsts vai pašvaldības institūcijai tās uzdevumu izpildē vai pārtraucot vai novēršot noziedzīgu nodarījumu, kura izmeklēšana nav Robežsardzes kompetencē, ieroci pielieto un izmanto atbilstoši likumam "Par policiju";
 2) pildot dienesta pienākumus ārpus Latvijas Republikas, ieroci pielieto un izmanto saskaņā ar starptautisko tiesību normām.
-(8) Robežsargs, kurš iecelts profesionālā dienesta karavīra amatā vai iekļauts Nacionālo bruņoto spēku sastāvā, ieroci pielieto un izmanto saskaņā ar Militārā dienesta likumu un starptautisko tiesību normām.
+(8) Robežsargs, kurš iekļauts Nacionālo bruņoto spēku sastāvā, ieroci pielieto un izmanto saskaņā ar Militārā dienesta likumu un starptautisko tiesību normām.

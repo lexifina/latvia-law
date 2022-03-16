@@ -17,5 +17,5 @@
 (6) Robežsargs:
 1) sniedzot atbalstu citai valsts vai pašvaldības institūcijai tās uzdevumu izpildē vai pārtraucot vai novēršot noziedzīgu nodarījumu, kura izmeklēšana nav Robežsardzes kompetencē, lieto fizisko spēku, speciālos cīņas paņēmienus un speciālos līdzekļus, kā arī izmanto dienesta suņus atbilstoši likumam "Par policiju";
 2) pildot dienesta pienākumus ārpus Latvijas Republikas, lieto fizisko spēku, speciālos cīņas paņēmienus un speciālos līdzekļus saskaņā ar starptautisko tiesību normām.
-(7) Robežsargs, kurš iecelts profesionālā dienesta karavīra amatā vai iekļauts Nacionālo bruņoto spēku sastāvā, lieto fizisko spēku, speciālos cīņas paņēmienus un speciālos līdzekļus saskaņā ar Militārā dienesta likumu un starptautisko tiesību normām.
+(7) Robežsargs, kurš iekļauts Nacionālo bruņoto spēku sastāvā, lieto fizisko spēku, speciālos cīņas paņēmienus un speciālos līdzekļus saskaņā ar Militārā dienesta likumu un starptautisko tiesību normām.
 (8) Speciālo līdzekļu veidus un to lietošanas kārtību nosaka Ministru kabinets.

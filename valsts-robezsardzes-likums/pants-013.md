@@ -1,5 +1,0 @@
-13. pants. Robežsarga iecelšana profesionālā dienesta karavīra amatā
-(1) Pēc Robežsardzes priekšnieka ierosinājuma, saskaņojot ar iekšlietu ministru un aizsardzības ministru, uz noteiktu laiku, bet ne ilgāk kā uz pieciem gadiem robežsargu var iecelt profesionālā dienesta karavīra amatā un ieskaitīt Nacionālo bruņoto spēku vienības personālsastāvā. Robežsargu profesionālā dienesta karavīra amatā ieceļ Nacionālo bruņoto spēku komandieris.
-(2) Ministru kabinets nosaka kārtību, kādā robežsargs, kurš ieņem profesionālā dienesta karavīra amatu, pilda pienākumus, kā arī atlīdzības noteikšanas, formas tērpa un atšķirības zīmju valkāšanas, veselības stāvokļa pārbaudes, izdienas aprēķināšanas un disciplinārsodīšanas kārtību.
-(3) Robežsargu var iecelt profesionālā dienesta karavīra amatā ar viņa piekrišanu. Šajā laikā robežsargs saglabā robežsarga statusu un viņam ir tiesības atgriezties dienestā Robežsardzē iepriekšējā vai līdzvērtīgā amatā.
-(4) Kamēr robežsargs ieņem profesionālā dienesta karavīra amatu, viņš ir dienestā Robežsardzē, bet neieņem tajā noteiktu amatu.
