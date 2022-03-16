@@ -5,4 +5,5 @@ Izdienas stāžā, kas dod tiesības uz izdienas pensiju, ieskaita:
 3) laiku, kas nodienēts Iekšlietu ministrijas sistēmas iestādēs;
 4) laiku, kas nostrādāts Latvijas Republikas prokuratūras iestādēs prokurora amatos (vai prokuratūras atestēto darbinieku amatos, kādi bija noteikti prokuratūras iestādēs līdz 1994.gada 1.oktobrim) vai tiesā tiesneša amatos, ja Birojā amatpersona nostrādājusi vismaz 10 gadus vai Biroja priekšnieka amatā vismaz piecus gadus;
 5) laiku, kas nostrādāts Biroja darbinieka statusā, veicot korupcijas apkarošanas funkcijas;
-6) 80 procentus no nostrādātā laika valsts institūcijās amatpersonas statusā, ja Birojā amatpersona nostrādājusi vismaz 15 gadus.
+6) 80 procentus no nostrādātā laika valsts institūcijās amatpersonas statusā, ja Birojā amatpersona nostrādājusi vismaz 15 gadus;
+7) aktīvā militārā dienesta laiku Aizsardzības ministrijas pakļautībā un pārziņā bijušajās struktūrvienībās un Saeimas un Valsts prezidenta drošības dienestā (Latvijas Republikas Augstākās padomes apsardzes dienestā, Latvijas Republikas Drošības dienestā).
