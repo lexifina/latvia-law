@@ -1,2 +1,5 @@
 9.pants. Piekļuve oficiālās elektroniskās adreses kontam
-Oficiālās elektroniskās adreses konta lietotājs oficiālās elektroniskās adreses kontam piekļūst, izmantojot oficiālo elektronisko adrešu informācijas sistēmā pieejamos kvalificētus personas elektroniskās identifikācijas līdzekļus.
+Oficiālās elektroniskās adreses konta lietotājs oficiālās elektroniskās adreses kontam piekļūst vienā no šādiem veidiem:
+1) valsts pārvaldes pakalpojumu portālā www.latvija.lv, izmantojot oficiālo elektronisko adrešu informācijas sistēmā pieejamos kvalificētus personas elektroniskās identifikācijas līdzekļus vai Eiropas Komisijai paziņotajās elektroniskās identifikācijas shēmās iekļautos elektroniskās identifikācijas līdzekļus, kas atbilst augstam uzticamības līmenim atbilstoši Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulai (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK;
+2) ar programmsaskarni, izmantojot oficiālo elektronisko adrešu informācijas sistēmas pārziņa noteiktos starpsistēmu autorizācijas līdzekļus;
+3) valsts un pašvaldību vienoto klientu apkalpošanas centru pakalpojumu vadības atbalsta risinājumā www.parvaldiba.lv, izmantojot tā pārziņa noteiktos identifikācijas līdzekļus.

@@ -1,0 +1,1 @@
+6. Šā likuma 5. panta pirmās daļas 4. punktā minētās personas oficiālo elektronisko adresi izveido no 2022. gada 1. aprīļa, un minētajām personām prasību par oficiālās elektroniskās adreses obligātu izmantošanu piemēro no 2022. gada 1. maija.
