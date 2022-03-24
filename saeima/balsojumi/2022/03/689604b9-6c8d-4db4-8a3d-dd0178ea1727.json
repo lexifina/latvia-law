@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada ziemas sesija",
+ "sede": 27,
+ "datums": "2022-03-24",
+ "ieraksts": {
+  "dkp_id": "082b2b6b-3169-4109-ad56-f6182954340e",
+  "lastmodtime": "\"AAAAAAHnVLU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Andris#Romāns#Ivans#Aivars#Vita Anda#Juris#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Kārlis#Vjačeslavs#Ainars#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Armands#Jānis#Jānis#Inese#Juris#Sandis#Kaspars#Ieva#Rihards#Ilga#Māris#Ilmārs#Atis#Zenta#Valērijs#Aldis#Ēriks#Viesturs#Jānis#Mārtiņš#Edgars#Aigars#Ivans#Vitālijs#Ritvars#Sergejs#Reinis#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Līva#Anda#Janīna#Krista#Linda#Artūrs",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Skride#Naudiņš#Ribakovs#Geidāns#Tērauda#Pūce#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Krauze#Iesalnieks#Dūklavs#Voika#Rancāns#Riekstiņš#Ģirģens#Akuratere#Kols#Šuplinska#Možvillo#Dūrītis#Zakatistovs#Tretjaka#Agešins#Adamovičs#Pucens#Liepkalns#Dombrava#Bondars#Tavars#Bikše#Klementjevs#Orlovs#Jansons#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Kreituse#Čakša#Jalinska#Baumane#Medne#Rubiks",
+  "VOTEDEPSUFFIX": "################################################################",
+  "FRACTION": "JV#AP!#NA#AP!# #SASKAŅA # #AP!#AP!# #JK#JK#SASKAŅA #JK#SASKAŅA #JK#JV# #JV# #SASKAŅA #JK#SASKAŅA #JV#JV# # #ZZS#NA#ZZS#AP!#JK#JK# #JK#NA# #Neatkarīgie#AP!# #SASKAŅA #SASKAŅA #JV# #AP!#NA#AP!#ZZS#AP!#SASKAŅA #SASKAŅA #NA#SASKAŅA #JK#JK#JK#ZZS#JK#SASKAŅA #JK# #ZZS#AP!#JK#SASKAŅA ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.03.2022 13:37:46",
+  "VOTEMOTIVE": "Eiropas Savienības fondu 2021.–2027.gada plānošanas perioda vadības likums (1325/Lp13), 2.lasījums",
+  "VOTING_ID": "689604b9-6c8d-4db4-8a3d-dd0178ea1727",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "63",
+  "VOTERESULT_REGISTERED": "65",
+  "VOTE_NUMBER": "44",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada ziemas sesija-27-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f6245fad-ff83-4dd6-a0ec-18738db1063a/download/13.saeimas-2022.gada-ziemas-sesija-27-vote.xml",
+  "sha256": "6c4fc0a937e81c356fa4673f1f2bd6c65e2161385ffa9aec3f4b354a87e7aaf7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
