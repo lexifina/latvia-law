@@ -1,1 +1,1 @@
-8.³ pants. Laikposmā no 2022. gada 21. februāra līdz 2022. gada 21. martam Valsts sociālās apdrošināšanas aģentūra lēmumu par slimības pabalsta piešķiršanu pieņem 30 dienu laikā pēc pabalsta piešķiršanai nepieciešamo dokumentu un citas informācijas saņemšanas.
+8.³ pants. Laikposmā no 2022. gada 21. februāra līdz 2022. gada 22. aprīlim Valsts sociālās apdrošināšanas aģentūra lēmumu par slimības pabalsta piešķiršanu pieņem 30 dienu laikā pēc pabalsta piešķiršanai nepieciešamo dokumentu un citas informācijas saņemšanas.
