@@ -38,7 +38,7 @@ g) tā rīcībā ir nonākusi cita informācija, kas var būtiski ietekmēt nepa
 7) saskaņot ar bāriņtiesu nepavadītā bērna izceļošanu no valsts;
 8) informēt bāriņtiesu par nepavadīta bērna dzīvesvietas maiņu.
 (16) Ārkārtas aizbildnim ir tiesības:
-1) saņemt šā likuma 18. panta pirmajā daļā noteikto atbalstu;
+1) saņemt šā likuma 19. pantā noteikto atbalstu;
 2) saņemt pašvaldības sociālos pakalpojumus nepavadīta bērna sociālās situācijas uzlabošanai;
 3) vērsties bāriņtiesā, kas pieņēmusi lēmumu par ārkārtas aizbildnības nodibināšanu un ārkārtas aizbildņa iecelšanu nepavadītam bērnam, ja ārkārtas aizbildnim un nepavadītam bērnam rodas domstarpības.
 (17) Bāriņtiesas pienākumi ārkārtas aizbildnības uzraudzībā ir šādi:

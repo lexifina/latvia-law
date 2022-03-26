@@ -1,3 +1,4 @@
-15. pants. Ukrainas civiliedzīvotāju nodarbinātība izglītībā
+15. pants. Ukrainas civiliedzīvotāju nodarbinātība izglītībā un sportā
 (1) Ukrainas civiliedzīvotāji ir tiesīgi strādāt par pedagogu, neņemot vērā normatīvajos aktos pedagoga profesijai noteiktās prasības, ja viņi piedalās tikai nepilngadīgu Ukrainas civiliedzīvotāju izglītības procesa īstenošanā.
 (2) Ukrainas civiliedzīvotāji ir tiesīgi sniegt bērna uzraudzības pakalpojumus, neņemot vērā normatīvajos aktos noteiktās prasības bērna uzraudzības pakalpojumu sniedzējiem, ja šie pakalpojumi tiek sniegti tikai attiecībā uz nepilngadīgiem Ukrainas civiliedzīvotājiem.
+(3) Ukrainas civiliedzīvotāji ir tiesīgi strādāt par sporta speciālistiem (treneriem), neņemot vērā Latvijas Republikas normatīvajos aktos sporta speciālistam noteiktās prasības, ja viņi piedalās tikai nepilngadīgu Ukrainas civiliedzīvotāju izglītības procesa īstenošanā.

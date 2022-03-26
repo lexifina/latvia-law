@@ -1,0 +1,1 @@
+5. Šā likuma 2. panta pirmajā, otrajā un trešajā daļā un 3. panta pirmajā daļā minētās institūcijas ne vēlāk kā līdz 2022. gada 28. martam uzsāk ziņu iekļaušanu Fizisko personu reģistrā par Ukrainas civiliedzīvotājiem, kuri vēlas saņemt atbalstu vai ilgtermiņa vīzu.

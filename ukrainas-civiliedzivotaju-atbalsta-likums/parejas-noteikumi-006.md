@@ -1,0 +1,1 @@
+6. Pilsonības un migrācijas lietu pārvalde līdz 2022. gada 4. aprīlim iekļauj Fizisko personu reģistrā ziņas par Ukrainas civiliedzīvotājiem, kas tajā nav iekļauti līdz 2022. gada 27. martam, saskaņā ar šā likuma pārejas noteikumu 5. punktu.
