@@ -17,5 +17,5 @@
 (1⁶) Ja personai ir tiesības vienlaikus saņemt vairākus šā panta pirmās daļas 1., 2. un 3. punktā minētos pabalstus, personai piešķir apmēra ziņā lielāko pabalstu.
 (2) Personai, kura saņem citas valsts pensiju, kas nesasniedz valsts sociālā nodrošinājuma pabalsta apmēru, piešķiramo valsts sociālā nodrošinājuma pabalstu samazina par summu, kas atbilst citas valsts piešķirtās pensijas apmēram.
 (3) Personai, kura saņem citas valsts pensiju, kas ir vienāda ar valsts sociālā nodrošinājuma pabalsta apmēru vai to pārsniedz, valsts sociālā nodrošinājuma pabalstu nepiešķir.
-(4) Ja pabalsta saņēmējs izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī, valsts sociālā nodrošinājuma pabalsta izmaksu izbeidz, pirms izbraukšanas izmaksājot pabalstu par nākamajiem diviem mēnešiem.
+(4) Ja pabalsta saņēmējs izbrauc no Latvijas Republikas uz pastāvīgu dzīvi ārvalstī, valsts sociālā nodrošinājuma pabalsta izmaksu izbeidz, izmaksājot personai pabalstu par diviem mēnešiem, aprēķinā piemērojot tādu pabalsta apmēru, uz kādu personai bija tiesības izbraukšanas dienā.
 (5) Šā panta pirmajā daļā minētajai personai valsts sociālā nodrošinājuma pabalstu pārskata atbilstoši likumā "Par sociālo drošību" noteiktajai minimālo ienākumu sliekšņu pārskatīšanas kārtībai.
