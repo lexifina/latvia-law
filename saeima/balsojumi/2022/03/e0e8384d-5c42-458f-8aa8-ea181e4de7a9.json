@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada ziemas sesija",
+ "sede": 29,
+ "datums": "2022-03-31",
+ "ieraksts": {
+  "dkp_id": "d4865f15-74c6-4507-9877-14af9ec104dd",
+  "lastmodtime": "\"AAAAAAHofBY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Romāns#Regīna#Ivans#Aivars#Vita Anda#Juris#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Didzis#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Boriss#Sandis#Kaspars#Ieva#Arvils#Ieva#Rihards#Ilga#Māris#Ilmārs#Atis#Valērijs#Aldis#Andrejs#Viesturs#Māris#Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Ainars#Gundars#Krišjānis#Jānis#Ramona#Līva#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Naudiņš#Ločmele#Ribakovs#Geidāns#Tērauda#Pūce#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Cilevičs#Riekstiņš#Ģirģens#Akuratere#Ašeradens#Krapāne#Kols#Šuplinska#Možvillo#Dūrītis#Zakatistovs#Agešins#Adamovičs#Klementjevs#Liepkalns#Kučinskis#Dombrava#Bondars#Tavars#Valainis#Judins#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Bašķis#Daudze#Feldmans#Tutins#Petraviča#Kreituse#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#NA#NA#AP!# #SASKAŅA #SASKAŅA # #AP!#AP!# #Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA # #Konservatīvie#JV# #JV#AP!# #SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# #SASKAŅA #Konservatīvie# #Konservatīvie#JV#Neatkarīgie#NA# #Neatkarīgie#AP!# #SASKAŅA #JV#SASKAŅA #AP!#ZZS#NA#AP!#ZZS#ZZS#JV#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #Konservatīvie#Konservatīvie#ZZS#Konservatīvie#SASKAŅA #Neatkarīgie#Konservatīvie#ZZS#NA#AP!#Konservatīvie#SASKAŅA #NA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "31.03.2022 15:21:40",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi Sporta likumā (1388/Lp13), 1.lasījums",
+  "VOTING_ID": "e0e8384d-5c42-458f-8aa8-ea181e4de7a9",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "42",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada ziemas sesija-29-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/8c09d9d9-edf6-41a2-b2ae-3bb95ae61e25/download/13.saeimas-2022.gada-ziemas-sesija-29-vote.xml",
+  "sha256": "eeb3e8dfee320185a63a55bc50e91abea9a33e0e67f5d10c0bc6aa772053ad5b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
