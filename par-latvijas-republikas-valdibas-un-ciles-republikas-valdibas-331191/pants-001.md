@@ -1,0 +1,1 @@
+1. pants. 2021. gada 6. decembrī Bogotā parakstītais Latvijas Republikas valdības un Čīles Republikas valdības nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
