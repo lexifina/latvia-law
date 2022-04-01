@@ -9,3 +9,4 @@
 (2) Ministru kabinets nosaka:
 1) ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas pakalpojuma sniegšanā iesaistītā personāla skaitu un kvalifikāciju;
 2) klienta aprūpes līmenim atbilstošu pakalpojumu finansēšanas kārtību.
+(3) Labklājības ministrijas valdījumā esošos valsts nekustamos īpašumus, kuri nepieciešami šajā pantā minēto valsts finansēto ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju pakalpojumu nodrošināšanai, pārvalda valsts sabiedrība ar ierobežotu atbildību "Šampētera nams". Ja nepieciešams, valsts sabiedrība ar ierobežotu atbildību "Šampētera nams" izvēlas arī citus pakalpojumu sniedzējus publiskos iepirkumus regulējošos normatīvajos aktos noteiktajā kārtībā. Īstenojot uzdevumu izpildi, valsts sabiedrība ar ierobežotu atbildību "Šampētera nams" atrodas Labklājības ministrijas funkcionālā pārraudzībā un nodrošina piešķirto valsts budžeta līdzekļu racionālu izlietojumu un kontroli.

@@ -1,5 +1,5 @@
 27.¹ pants. Grupu mājas (dzīvokļa), pusceļa mājas, servisa dzīvokļa un sociālās rehabilitācijas centra pakalpojumi
-(1) Grupu mājā (dzīvoklī) nodrošina mājokli un individuālu atbalstu sociālo problēmu risināšanā un, ja nepieciešams, sociālo aprūpi personām ar garīga rakstura traucējumiem, kurām ir objektīvas grūtības dzīvot patstāvīgi, bet nav nepieciešama atrašanās ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā.
+(1) Grupu mājā (dzīvoklī) nodrošina mājokli un individuālu atbalstu sociālo problēmu risināšanā un, ja nepieciešams, sociālo aprūpi personām ar garīga rakstura traucējumiem, kurām ir objektīvas grūtības dzīvot patstāvīgi, bet nav nepieciešama atrašanās ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijā. Citus personai nepieciešamos sociālos pakalpojumus un sociālo palīdzību nodrošina pašvaldība, kura pieņēmusi lēmumu par grupu mājas (dzīvokļa) pakalpojuma piešķiršanu.
 (2) Pusceļa mājā sniedz sociālās rehabilitācijas pakalpojumus:
 1) personām ar garīga rakstura traucējumiem, lai tās apgūtu patstāvīgai dzīvei vai dzīvei grupu mājā (dzīvoklī) nepieciešamās iemaņas;
 2) personām ar citiem funkcionāliem traucējumiem, lai tās apgūtu vai nostiprinātu patstāvīgai dzīvei nepieciešamās iemaņas.

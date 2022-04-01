@@ -1,6 +1,6 @@
 25.pants. Nodrošināšana ar tehniskajiem palīglīdzekļiem
 (1) Tehnisko palīglīdzekļu pakalpojumus ir tiesības saņemt šādām personām ar ilgstošiem vai nepārejošiem organisma funkciju traucējumiem vai anatomiskiem defektiem, ja tās saņēmušas ārstniecības personas atzinumu par šāda pakalpojuma nepieciešamību:
-1) visu grupu invalīdiem un bērniem invalīdiem līdz 18 gadu vecumam;
+1) personām ar invaliditāti;
 2) personām, kurām tehniskais palīglīdzeklis nepieciešams, lai samazinātu vai novērstu funkcionālo mazspēju;
 3) personām ar prognozējamu invaliditāti, kurām šāda pakalpojuma nepieciešamība noteikta individuālajā rehabilitācijas plānā;
 4) personām ar anatomiskiem defektiem - protēzi vai ortopēdiskos apavus.
