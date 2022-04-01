@@ -1,1 +1,1 @@
-68.⁶ pants. (Pants stājas spēkā 01.04.2022. un iekļautas likuma redakcijā uz 01.04.2022. Sk. Pārejas noteikumu 29. punktu)
+68.⁶ pants. Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava iegādājas zāles tikai no zāļu lieltirgotavām un vispārēja tipa aptiekām.

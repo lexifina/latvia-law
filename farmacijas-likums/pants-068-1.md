@@ -1,1 +1,1 @@
-68.¹ pants. (Pants stājas spēkā 01.04.2022. un iekļautas likuma redakcijā uz 01.04.2022. Sk. Pārejas noteikumu 29. punktu)
+68.¹ pants. Lai nodrošinātu Nacionālo bruņoto spēku uzdevumu izpildi, ārstniecības līdzekļu apriti Nacionālajos bruņotajos spēkos nodrošina Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava.

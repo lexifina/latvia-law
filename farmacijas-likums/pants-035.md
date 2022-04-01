@@ -2,7 +2,7 @@
 1) fasēt zāles atbilstoši tehnisko normatīvu prasībām;
 2) izgatavot zāles pēc ārsta vai praktizējoša veterinārārsta izrakstītas receptes un ārstniecības iestādes vai veterinārmedicīniskās prakses iestādes rakstveida pieprasījuma saņemšanas;
 3) izsniegt zāles pēc ārsta vai praktizējoša veterinārārsta receptes vai veterinārmedicīniskās prakses iestādei - pēc praktizējoša veterinārārsta rakstveida pieprasījuma saņemšanas;
-4) izplatīt medikamentus ārstniecības iestādēm un sociālās aprūpes institūcijām;
+4) izplatīt medikamentus ārstniecības iestādēm un sociālās aprūpes institūcijām, kā arī Nacionālo bruņoto spēku ārstniecības līdzekļu noliktavai;
 5) izplatīt medikamentus fiziskajām personām.
 (2) Šā panta pirmās daļas 1. un 2.punktā minētās darbības nav atļautas aptieku filiālēs, kurās nav farmaceita.
 (3) Slēgta tipa jeb ārstniecības iestāžu aptiekās atļauts:

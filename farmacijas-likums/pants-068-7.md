@@ -1,1 +1,1 @@
-68.⁷ pants. (Pants stājas spēkā 01.04.2022. un iekļautas likuma redakcijā uz 01.04.2022. Sk. Pārejas noteikumu 29. punktu)
+68.⁷ pants. Lai nodrošinātu medicīnisko palīdzību Nacionālo bruņoto spēku karavīriem, Nacionālie bruņotie spēki, dodoties piedalīties militārajās mācībās ārzemēs vai starptautiskajā operācijā, saskaņā ar Nacionālo bruņoto spēku komandiera apstiprinātu sarakstu ir tiesīgi pārvest pāri valsts robežai ārstniecības līdzekļus.

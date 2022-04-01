@@ -1,1 +1,1 @@
-68.² pants. (Pants stājas spēkā 01.04.2022. un iekļautas likuma redakcijā uz 01.04.2022. Sk. Pārejas noteikumu 29. punktu)
+68.² pants. Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava iegādājas, uzglabā un nodod bezatlīdzības lietošanā ārstniecības līdzekļus Nacionālo bruņoto spēku vajadzībām.
