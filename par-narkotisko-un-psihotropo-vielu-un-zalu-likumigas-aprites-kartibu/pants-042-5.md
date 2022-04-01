@@ -1,0 +1,1 @@
+42.⁵ pants. Lai nodrošinātu Nacionālo bruņoto spēku uzdevumu izpildi, Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava zāles, kuru sastāvā ir II un III sarakstā iekļautās vielas, iegādājas tikai no zāļu lieltirgotavām un vispārēja tipa aptiekām.

@@ -1,0 +1,1 @@
+42.⁷ pants. Lai nodrošinātu medicīnisko palīdzību Nacionālo bruņoto spēku karavīriem, Nacionālie bruņotie spēki, dodoties piedalīties militārajās mācībās ārzemēs vai starptautiskajā operācijā, saskaņā ar Nacionālo bruņoto spēku komandiera apstiprinātu sarakstu ir tiesīgi pārvest pāri valsts robežai zāles, kuru sastāvā ir II un III sarakstā iekļautās vielas.

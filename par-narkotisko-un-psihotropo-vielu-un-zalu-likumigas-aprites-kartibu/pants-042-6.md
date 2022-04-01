@@ -1,0 +1,1 @@
+42.⁶ pants. Ministru kabinets nosaka prasības un kārtību, kādā Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava iegādājas, saņem, uzglabā, nodod bezatlīdzības lietošanā, uzskaita un iznīcina zāles, kuru sastāvā ir II un III sarakstā iekļautās vielas.

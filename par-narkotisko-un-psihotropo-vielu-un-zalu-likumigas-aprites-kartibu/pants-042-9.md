@@ -1,0 +1,1 @@
+42.⁹ pants. Ministru kabinets nosaka kārtību, kādā Nacionālo bruņoto spēku ārstniecības līdzekļu noliktava sniedz Zāļu valsts aģentūrai un Veselības inspekcijai informāciju par to zāļu izlietojumu, kuru sastāvā ir II un III sarakstā iekļautās vielas.
