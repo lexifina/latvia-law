@@ -15,4 +15,5 @@
 12) medījamie dzīvnieki - savvaļas sugu zīdītāji un putni, tai skaitā migrējošie, kurus medī saskaņā ar medības reglamentējošiem normatīvajiem aktiem, un šo sugu dzīvnieki, kurus tur iežogotās platībās savvaļai līdzīgos apstākļos;
 13) mednieka sezonas karte - dokuments, kas konkrētajā medību sezonā dod tiesības medīt ar medību šaujamieročiem un medību rīkiem;
 14) mednieks - persona, kura šajā likumā noteiktajā kārtībā ir saņēmusi mednieka apliecību;
-15) nelimitētie medījamie dzīvnieki - dzīvnieki, kuru medīšanai netiek noteikts pieļaujamais nomedīšanas apjoms.
+15) nelimitētie medījamie dzīvnieki - dzīvnieki, kuru medīšanai netiek noteikts pieļaujamais nomedīšanas apjoms;
+16) diennakts tumšais laiks - laikposms, kas sākas divas stundas pēc saulrieta un beidzas divas stundas pirms saullēkta.

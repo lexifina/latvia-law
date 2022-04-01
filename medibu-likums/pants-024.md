@@ -1,6 +1,6 @@
 24.pants. Par nelikumīgām medībām atzīst:
 1) medīšanu tādā termiņā un kārtībā, kas neatbilst medības reglamentējošos normatīvajos aktos noteiktajiem termiņiem un kārtībai;
-2) atrašanos ar lietošanai sagatavotu šaujamieroci vai medību rīku medību platībā bez saskaņojuma ar medību tiesību lietotāju, kā arī platībās, kurās medīt aizliegts, izņemot šā likuma 29.panta piektās daļas 3.punktā minētos gadījumus;
+2) atrašanos ar lietošanai sagatavotu šaujamieroci vai medību rīku medību platībā bez saskaņojuma ar medību tiesību lietotāju, kā arī platībās, kurās medīt aizliegts, izņemot šā likuma 3. panta trešās daļas 3. punkta "c" apakšpunktā un 29.panta piektās daļas 3.punktā minētos gadījumus;
 3) medīšanu ar šaujamieroci, ja normatīvajos aktos noteiktajā kārtībā nav iegūta vai ir atņemta mednieka apliecība, mednieka sezonas karte vai medību šaujamieroča glabāšanas atļauja, kā arī limitēto medījamo dzīvnieku medīšanu bez medību atļaujas;
 4) medījamo dzīvnieku medīšanu ar medību rīkiem, ja normatīvajos aktos noteiktajā kārtībā nav iegūta vai ir atņemta mednieka apliecība un mednieka sezonas karte, kā arī medību rīku neatļautu lietošanu;
 5) limitētā medījamā dzīvnieka pārvietošanu no vietas, kur tas nomedīts, vai ievainota limitētā medījamā dzīvnieka izsekošanu, ja nav aizpildīta medību atļauja;
@@ -10,8 +10,8 @@
 9) medīšanu, izmantojot šādus aizliegtus medību līdzekļus, rīkus, metodes un paņēmienus:
 a) "putnu" līmi, aklus vai sakropļotus dzīvniekus kā ēsmu,
 b) skaņu ierakstus,
-c) mākslīgus gaismas avotus, izņemot meža cūku, lapsu un jenotsuņu medības,
-d) nakts redzamības tēmēkļus ar elektronisko palielinājumu vai attēla pārveidošanu, izņemot meža cūku, lapsu un jenotsuņu medības,
+c) mākslīgus gaismas avotus diennakts tumšajā laikā, izņemot meža cūku, lapsu un jenotsuņu medības,
+d) nakts redzamības tēmēkļus ar elektronisko palielinājumu vai attēla pārveidošanu diennakts tumšajā laikā, izņemot meža cūku, lapsu un jenotsuņu medības,
 e) spoguļus un citas apžilbinošas ierīces,
 f) lāzertipa tēmēkļus,
 g) tīklus, kas darbojas neselektīvi saskaņā ar lietošanas nosacījumiem vai izmantošanas apstākļiem,
@@ -20,7 +20,7 @@ i) arbaletus, lokus,
 j) pusautomātiskus šaujamieročus, kuru patrontelpas un magazīnas (patronu padošanas mehānisma) kopējā ietilpība ir lielāka par trim patronām, izņemot meža cūku, lapsu un jenotsuņu medības,
 k) lidaparātus, motorizētus braucošus sauszemes un ūdens transportlīdzekļus,
 l) ieročus, kas nav klasificēti kā medību šaujamieroči,
-m) siltumu uztverošos (termālos) tēmēkļus;
+m) siltumu uztverošos (termālos) tēmēkļus diennakts tumšajā laikā, izņemot meža cūku, lapsu un jenotsuņu medības;
 10) medīšanu, izmantojot šādus aizliegtus vispārbīstamus medību līdzekļus, rīkus, metodes un paņēmienus:
 a) ķerambedres, cilpas, āķus, asu priekšmetu uzstādīšanu uz dzīvnieku takām,
 b) elektriskas vai elektroniskas ierīces, kas spēj apdullināt vai nogalināt dzīvnieku,
