@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 22. marta noteikumi Nr. 194 \"Grozījumi Ministru kabineta 2012. gada 15. maija noteikumos Nr. 339 \"Noteikumi par ostu formalitātēm\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "64",
+  "official_journal_page": null,
+  "official_journal_date": "2022-03-31",
+  "entry_into_force": "2022-04-01",
+  "notification_date": "2022-03-31",
+  "commission_reference": "MNE(2022)02192",
+  "nim_celex": "72019L0883LVA_202202192",
+  "nim_id": "202202192",
+  "transposes_celex": [
+    "32019L0883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d117bb11-b3f7-11ec-9d96-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
