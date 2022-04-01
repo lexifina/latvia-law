@@ -1,0 +1,1 @@
+34. Profesionālās vidējās izglītības iestādes, kuras līdz 2022. gada 31. martam īsteno akreditētas vispārējās pamatizglītības vai vispārējās vidējās izglītības programmas, ir tiesīgas turpināt tās īstenot līdz iestādes akreditācijai, kas tiek veikta atbilstoši šā likuma 30.¹ pantā noteiktajam.

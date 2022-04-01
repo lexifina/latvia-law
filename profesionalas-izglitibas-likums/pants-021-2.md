@@ -1,0 +1,3 @@
+21.² pants. Profesionālās izglītības programmu absolventu reģistrs
+(1) Profesionālās izglītības programmu absolventu reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa. Profesionālās izglītības programmu absolventu reģistrā ieraksta ziņas par profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās tālākizglītības programmu absolventu iegūto profesionālo kvalifikāciju.
+(2) Datus profesionālās izglītības programmu absolventu reģistrā par šā panta pirmajā daļā minēto profesionālās izglītības programmu absolventu iegūto profesionālo kvalifikāciju sniedz profesionālās izglītības iestādes. Par reģistram sniegto datu precizitāti un atbilstību īstenībai ir atbildīgs izglītības iestādes vadītājs.

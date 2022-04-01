@@ -1,0 +1,1 @@
+35. Šā likuma 21.¹ panta piektajā daļā minēto profesionālās izglītības programmu absolventu iekļaušanās darba tirgū par pirmajiem diviem gadiem pēc absolvēšanas izvērtējumu Izglītības un zinātnes ministrija sadarbībā ar Ekonomikas ministriju publisko līdz 2024. gada 31. decembrim.

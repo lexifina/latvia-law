@@ -1,0 +1,1 @@
+33. Ministru kabinets līdz 2023. gada 31. decembrim pieņem lēmumu par Rīgas 3. arodskolas turpmāko statusu, nodrošinot izglītojamiem iespējas turpināt izglītību atbilstošā izglītības programmā. Arodskola ir tiesīga turpināt īstenot licencētās un akreditētās profesionālās izglītības programmas līdz 2023. gada 31. decembrim.

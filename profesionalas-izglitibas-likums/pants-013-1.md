@@ -1,0 +1,6 @@
+13.¹ pants. Nozares eksaminācijas centrs
+(1) Nozares eksaminācijas centru reģistrē un akreditē, ievērojot Ministru kabineta prasības un kārtību.
+(2) Nozares eksaminācijas centrs organizē un īsteno vienotu profesionālās kvalifikācijas eksāmenu un ārpus formālās izglītības sistēmas apgūtās kompetences novērtēšanu.
+(3) Nozares eksaminācijas centrs veic profesionālās kvalifikācijas eksaminācijas norises dokumentu sagatavošanu un uzskaiti.
+(4) Nozares eksaminācijas centru akreditē uz sešiem gadiem. To reģistrē un tā akreditāciju organizē Izglītības kvalitātes valsts dienests Ministru kabineta noteiktajā kārtībā. Lēmumu par nozares eksaminācijas centra akreditāciju pieņem sešu mēnešu laikā no attiecīga iesnieguma iesniegšanas dienas. Nozares eksaminācijas centra akreditācijas ietvaros sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets.
+(5) Informācija par akreditētajiem nozares eksaminācijas centriem, kuriem ir tiesības izsniegt valsts atzītus profesionālo kvalifikāciju apliecinošus dokumentus, kā arī profesionālo kvalifikāciju saraksts, kurās šie eksaminācijas centri ir tiesīgi izsniegt valsts atzītus profesionālo kvalifikāciju apliecinošus dokumentus, pieejams Valsts izglītības informācijas sistēmā.

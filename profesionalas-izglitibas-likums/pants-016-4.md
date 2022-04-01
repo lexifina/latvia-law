@@ -1,0 +1,8 @@
+16.⁴ pants. Profesionālā vidusskola un tās darbības mērķi
+(1) Profesionālā vidusskola ir profesionālās vidējās izglītības iestāde, kura īsteno profesionālās vidējās izglītības programmas, kas dod iespēju iegūt trešā un ceturtā līmeņa profesionālo kvalifikāciju.
+(2) Profesionālā vidusskola ir tiesīga īstenot arī profesionālās tālākizglītības un profesionālās pilnveides programmas tajās profesionālajās kvalifikācijās, kurās profesionālā vidusskola īsteno atbilstošas profesionālās izglītības programmas. Profesionālā vidusskola, kura īsteno profesionālās vidējās izglītības programmas izglītības tematiskajā jomā "Mākslas", ir tiesīga īstenot arī profesionālās ievirzes programmas.
+(3) Profesionālās vidusskolas darbības mērķi atbilstoši tās dibinātāja apstiprinātai stratēģijai ir šādi:
+1) īstenot dibinātāja noteiktajās nozarēs izglītības programmas, kas nodrošina tautsaimniecības vajadzībām nepieciešamos speciālistus, kā arī veicināt izglītības procesā iesaistīto personu izaugsmi par uzņēmīgiem, radošiem, atbildīgiem un konkurētspējīgiem sabiedrības locekļiem;
+2) sadarbībā ar nozares uzņēmumiem nodrošināt prakses iespējas profesionālās izglītības programmas apguvē;
+3) profesionālajai vidusskolai, kura īsteno profesionālās vidējās izglītības programmas izglītības tematiskajā jomā "Mākslas", papildus veikt metodisko darbu izglītības tematiskajā jomā "Mākslas" reģiona profesionālās ievirzes izglītības iestādēm.
+(4) Profesionālā vidusskola ir tiesīga organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās profesionālā vidusskola īsteno atbilstošas profesionālās izglītības programmas.

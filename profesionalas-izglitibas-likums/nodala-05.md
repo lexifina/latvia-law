@@ -1,2 +1,2 @@
 V nodaļa
-Profesionālās izglītības saturs
+Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma

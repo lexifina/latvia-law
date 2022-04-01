@@ -1,23 +1,31 @@
 1.pants. Likumā lietotie termini
 (1) Likumā lietotie termini atbilst Izglītības likumā lietotajiem terminiem, ja šajā likumā nav noteikts citādi.
 (2) Likumā ir lietoti šādi termini:
-1) arodizglītība - daļēja vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt otrā līmeņa profesionālo kvalifikāciju;
-2) centralizēts eksāmens - pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts eksāmens, lai novērtētu izglītojamo mācību sasniegumus profesionālās izglītības vai profesionālās kvalifikācijas ieguvei;
-2¹) eksaminācijas centrs - Ministru kabineta noteiktajā kārtībā akreditēta komercsabiedrība vai biedrība, kura neīsteno izglītības programmas, bet kurā atbilstoši tās darbībai noteiktā preču ražošanas, sadales vai pakalpojumu jomā kārtojami eksāmeni profesionālās kvalifikācijas ieguvei šā likuma 6.panta trešajā un septītajā daļā paredzētajos gadījumos;
-2²) kvalifikācijas prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas (profesionālo iemaņu un prasmju) apguves noslēdzošā daļa pirms valsts pārbaudījuma profesionālās kvalifikācijas iegūšanai;
-2³) mācību prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas apguve izglītības iestādē vai ārpus tās, izņemot kvalifikācijas praksi;
-2⁴) modulis - profesionālās kvalifikācijas sastāvdaļa, tā pamatā ir sasniedzamie mācīšanās rezultāti kā novērtējams un pierādāms zināšanu, prasmju un kompetenču kopums;
-2⁵) moduļa programma - profesionālās izglītības programmas sastāvdaļa, kas ietver moduļa mērķus un uzdevumus, moduļa sasniedzamos rezultātus, moduļa saturu, satura apguves plānojumu, iegūtās izglītības vērtēšanas kritērijus un kārtību, kā arī programmas īstenošanai nepieciešamo metožu un līdzekļu uzskaitījumu;
-2⁶) modulārā profesionālās izglītības programma - profesionālās izglītības programma, kuras profesionālo saturu atkarībā no izglītības programmai izvirzītā mērķa veido moduļu kopums un kuras apguves rezultātā var iegūt profesionālo kvalifikāciju;
-3) praktikants - izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas mācību praksē iestādē, pie komersanta vai biedrībā;
-4) profesija - fiziskās personas nodarbošanās veids preču ražošanas, sadales vai pakalpojumu sfērā, arī izglītībā, kultūrā un mākslā, kam nepieciešama noteikta sagatavotība (izglītība);
-5) profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt ceturtā vai piektā līmeņa profesionālo kvalifikāciju;
-6) profesionālā pamatizglītība - pamata pakāpes profesionālā izglītība, kas dod iespēju iegūt pirmā līmeņa profesionālo kvalifikāciju;
+1) arodizglītība - vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā līmeņa profesionālo kvalifikāciju;
+2) (izslēgts ar 03.03.2022. likumu);
+2¹) nozares eksaminācijas centrs - institūcija, kurā var tikt kārtoti eksāmeni profesionālās kvalifikācijas ieguvei attiecīgajā nozarē;
+2²) (izslēgts ar 03.03.2022. likumu);
+2³) prakse - attiecīgās profesionālās izglītības programmas praktiskās daļas profesionālo kompetenču apguve izglītības iestādē vai darba vidē;
+2⁴) modulis - profesionālās izglītības programmas patstāvīga sastāvdaļa, tā pamatā ir sasniedzamie mācīšanās rezultāti kā novērtējams un pierādāms zināšanu, prasmju, profesionālās patstāvības un atbildības kopums;
+2⁵) (izslēgts ar 03.03.2022. likumu);
+2⁶) modulārā profesionālās izglītības programma - profesionālās izglītības programma, kuras profesionālo saturu atkarībā no izglītības programmai izvirzītā mērķa veido moduļu kopums un kuras apguves rezultātā var iegūt profesionālo kvalifikāciju vai profesionālās kvalifikācijas daļu;
+3) praktikants - izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas praksē izglītības iestādē vai darba vidē;
+4) (izslēgts ar 03.03.2022. likumu);
+5) profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piektā, sestā, septītā vai astotā līmeņa profesionālo kvalifikāciju;
+5¹) profesionālās kvalifikācijas eksāmens - valsts pārbaudījums, kurā personai, iegūstot pietiekamu vērtējumu, piešķir attiecīga līmeņa profesionālo kvalifikāciju, ko apliecina valsts atzīts profesionālās kvalifikācijas dokuments;
+6) profesionālā pamatizglītība - pamatizglītības pakāpes profesionālā izglītība, kas dod iespēju iegūt otrā līmeņa profesionālo kvalifikāciju;
 7) profesionālā pieredze - iepriekšēja darbošanās attiecīgajā profesijā Latvijas Republikā, kā arī ārvalstī;
-8) profesionālā vidējā izglītība - vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā līmeņa profesionālo kvalifikāciju;
-8¹) profesionālā kompetence - profesionālās darbības veikšanai nepieciešamo zināšanu, prasmju un atbildības kopums noteiktā darba situācijā;
-9) profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu;
-10) pirmā līmeņa profesionālā augstākā izglītība (koledžas izglītība) - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt ceturto profesionālās kvalifikācijas līmeni;
-11) otrā līmeņa profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piekto profesionālās kvalifikācijas līmeni;
-12) profesionālā tālākizglītība - profesionālās izglītības īpašs veids, kas pieaugušajiem ar iepriekšēju izglītību un profesionālo pieredzi dod iespēju iegūt noteikta līmeņa profesionālo kvalifikāciju;
-13) profesionālā pilnveide - profesionālās izglītības īpašs veids, kas personām neatkarīgi no vecuma un iepriekšējās izglītības vai profesionālās kvalifikācijas dod iespēju apgūt darba tirgus prasībām atbilstošas sistematizētas profesionālās zināšanas un prasmes.
+8) profesionālā vidējā izglītība - vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā vai ceturtā līmeņa profesionālo kvalifikāciju;
+8¹) profesionālā kompetence - profesionālās darbības veikšanai nepieciešamo zināšanu, prasmju, profesionālās patstāvības un atbildības kopums;
+8²) profesionālās izglītības iestādes akreditācija - valsts īstenots regulārs profesionālās izglītības iestādes darbības kvalitātes un atbilstības noteiktam profesionālās izglītības iestādes statusam izvērtējums;
+8³) profesionālās izglītības programmas licencēšana - izglītības programmas kvalitātes izvērtējums un tiesību piešķiršana izglītības iestādei īstenot noteiktu izglītības programmu;
+9) profesionālās kvalifikācijas līmenis - Latvijas kvalifikāciju ietvarstruktūrai atbilstoša teorētiskā un praktiskā sagatavotība, kuru raksturo attiecīgajā līmenī sasniedzamie mācīšanās rezultāti, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu;
+10) pirmā cikla profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt sestā līmeņa profesionālo kvalifikāciju;
+10¹) īsā cikla profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piektā līmeņa profesionālo kvalifikāciju. Īsā cikla profesionālā augstākā izglītība ir daļa no pirmā cikla profesionālās augstākās izglītības;
+11) otrā cikla profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt septītā līmeņa profesionālo kvalifikāciju;
+11¹) trešā cikla profesionālā augstākā izglītība - augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt astotā līmeņa profesionālo kvalifikāciju;
+12) profesionālā tālākizglītība - profesionālās izglītības īpašs veids, kas personām ar iepriekšēju profesionālo pieredzi un izglītības programmas prasībām atbilstošu izglītību dod iespēju iegūt noteikta līmeņa profesionālo kvalifikāciju, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju ieguvei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos;
+13) profesionālā pilnveide - profesionālās izglītības īpašs veids, kas dod iespēju pilnveidot profesionālo kompetenci kvalifikācijai, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju pilnveidei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos;
+14) sasniedzamo mācīšanās rezultātu vienība - profesionālās kvalifikācijas daļa, kas ir atsevišķi pārbaudāms un novērtējams saskaņotu zināšanu, prasmju, attieksmes, profesionālās patstāvības un atbildības kopums;
+15) profesionālā kvalifikācija - formalizēta vērtēšanas un atzīšanas procesa rezultāts atbilstoši profesijas standartā noteiktām attiecīgajām profesionālās kvalifikācijas prasībām, ko apstiprina valsts atzīts profesionālās kvalifikācijas dokuments;
+16) profesionālās kvalifikācijas dokuments - valsts atzīts dokuments, kas apliecina personas profesionālo kvalifikāciju vai tās daļu.

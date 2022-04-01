@@ -1,2 +1,3 @@
 24.² pants. Nozares kvalifikāciju struktūra
-Nozares kvalifikāciju struktūra ir nozares profesiju vispārīgs raksturojums, kā arī nozares profesijās ietilpstošo specializāciju un saistīto profesiju pārskats, kurā norādīti profesionālās kvalifikācijas līmeņi profesijām un specializācijām.
+(1) Nozares kvalifikāciju struktūra ir nozares profesionālo kvalifikāciju vispārīgs raksturojums, kurā iekļauts saistīto profesionālo kvalifikāciju un specializāciju pārskats, kā arī nozares kvalifikāciju karte.
+(2) Nozares kvalifikāciju struktūru izstrādā un aktualizē Ministru kabineta noteikta institūcija, saskaņojot ar nozares ekspertu padomi un Nacionālās trīspusējās sadarbības padomes Profesionālās izglītības un nodarbinātības trīspusējās sadarbības apakšpadomi Ministru kabineta noteiktajā kārtībā.

@@ -1,0 +1,1 @@
+36. Šā likuma 25. panta piektā daļa par tiesībām īstenot profesionālās pilnveides izglītības programmas bez papildu licencēšanas un sestā daļa par tiesībām īstenot profesionālās tālākizglītības programmas bez papildu licencēšanas stājas spēkā 2023. gada 1. janvārī.

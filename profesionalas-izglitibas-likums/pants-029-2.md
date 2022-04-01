@@ -1,0 +1,2 @@
+29.² pants. Profesionālās kvalifikācijas vai tās daļas atzīšana
+Profesionālās izglītības iestāde novērtē personas iepriekšējā izglītībā vai profesionālajā pieredzē iegūto kompetenci un, ja tā atbilst attiecīgajā profesionālās izglītības programmā sasniedzamajiem mācīšanās rezultātiem vai profesionālās kvalifikācijas prasībām, kas ietvertas profesijas standartā, atzīst to, un nodrošina iespēju turpināt izglītību vai iegūt profesionālo kvalifikāciju atbilstoši Ministru kabineta noteiktajiem kritērijiem un kārtībai.

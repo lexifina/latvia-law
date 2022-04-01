@@ -1,0 +1,1 @@
+27. Ministru kabinets līdz 2022. gada 30. jūnijam izstrādā un iesniedz Saeimai nepieciešamos grozījumus Izglītības likumā, Vispārējās izglītības likumā un Augstskolu likumā, lai tos saskaņotu ar šajā likumā izdarītajiem grozījumiem.
