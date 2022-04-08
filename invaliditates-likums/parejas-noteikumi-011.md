@@ -1,0 +1,1 @@
+11. Grozījums šā likuma 1. panta 7. punktā par termina "mājokļa pielāgošana" izslēgšanu un grozījums šā likuma 12. panta pirmajā daļā par 9. punkta, kas paredz iespēju saņemt atbalstu viena mājokļa pielāgošanai, izslēgšanu stājas spēkā 2022. gada 1. maijā.

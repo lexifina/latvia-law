@@ -15,20 +15,24 @@
 11) biedrībai "Latvijas Neredzīgo biedrība";
 12) Pilsonības un migrācijas lietu pārvaldei;
 13) Valsts ieņēmumu dienestam;
-14) aizsargātā lietotāja tirdzniecības pakalpojuma sniedzējam;
+14) (izslēgts ar 24.03.2022. likumu);
 15) Iekšlietu ministrijas Informācijas centram;
 16) valsts sabiedrībai ar ierobežotu atbildību "Autotransporta direkcija";
 17) Nacionālajam veselības dienestam;
 18) Latvijas Transportlīdzekļu apdrošinātāju birojam;
 19) Valsts probācijas dienestam;
 20) Centrālajai finanšu un līgumu aģentūrai;
-21) Uzturlīdzekļu garantiju fondam;
+21) Uzturlīdzekļu garantiju fonda administrācijai;
 22) pašvaldībām un to izveidotajām institūcijām, kuras nodrošina pakalpojumus vai nodokļu un nodevu atlaides personām ar invaliditāti;
 23) bāriņtiesām;
-24) elektroenerģijas sadales sistēmas operatoram;
+24) (izslēgts ar 24.03.2022. likumu);
 25) Izglītības un zinātnes ministrijai;
 26) valsts sabiedrībai ar ierobežotu atbildību "Nacionālais rehabilitācijas centrs "Vaivari"";
 27) valsts sabiedrības ar ierobežotu atbildību "Paula Stradiņa Klīniskā universitātes slimnīca" Aroda un radiācijas medicīnas centram;
 28) Nacionālajiem bruņotajiem spēkiem;
-29) Sabiedrības integrācijas fonda sekretariātam.
+29) Sabiedrības integrācijas fonda sekretariātam
+30) Būvniecības valsts kontroles birojam;
+31) izmeklēšanas iestādēm un prokuratūrām;
+32) Slimību profilakses un kontroles centram;
+33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikumu 12. punktu).
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.

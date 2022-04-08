@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 3.¹ panta pirmās daļas otrajā teikumā, otrajā daļā un trešās daļas 1. punktā, kā arī grozījums par šā likuma 7. panta piektās daļas izteikšanu jaunā redakcijā stājas spēkā 2022. gada 1. jūlijā.
