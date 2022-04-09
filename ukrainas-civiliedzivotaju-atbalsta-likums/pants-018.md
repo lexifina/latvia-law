@@ -34,7 +34,7 @@ d) nepavadīts bērns ir aizbēdzis,
 e) izveidojusies konfliktsituācija starp nepavadītu bērnu un ārkārtas aizbildni,
 f) nepavadīts bērns ir miris,
 g) tā rīcībā ir nonākusi cita informācija, kas var būtiski ietekmēt nepavadīta bērna turpmāko aprūpi;
-6) noslēgt vienošanos ar atbalsta centru par atbalsta saņemšanu;
+6) (izslēgts ar 07.04.2022. likumu);
 7) saskaņot ar bāriņtiesu nepavadītā bērna izceļošanu no valsts;
 8) informēt bāriņtiesu par nepavadīta bērna dzīvesvietas maiņu.
 (16) Ārkārtas aizbildnim ir tiesības:

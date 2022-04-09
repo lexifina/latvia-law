@@ -1,0 +1,1 @@
+8. Pašvaldības pārskatu par izdevumiem, kas saistīti ar Ukrainas civiliedzīvotājiem sniegto atbalstu, par 2022. gada februāri un martu iesniedz līdz 2022. gada 10. aprīlim šā likuma 13. panta otrajā daļā noteiktajā kārtībā.
