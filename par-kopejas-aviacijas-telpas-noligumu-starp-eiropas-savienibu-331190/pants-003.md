@@ -1,0 +1,1 @@
+3. pants. Nolīgums stājas spēkā tā 30. panta 3. punktā noteiktajā laikā un kārtībā un provizoriski piemērojams tā 30. panta 5. punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ". Līdz ar likumu izsludināms Nolīgums latviešu valodā.
