@@ -1,0 +1,1 @@
+1. pants. 1968. gada 7. jūnija Eiropas konvencija par diplomātisko aģentu vai konsulāro amatpersonu veiktās dokumentu legalizācijas prasības atcelšanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
