@@ -10,6 +10,7 @@
 8) pildīt dzīvokļu īpašnieku kopības pieņemtos lēmumus;
 9) ievērot dzīvokļu īpašnieku kopības noteiktos dzīvokļu īpašumu lietošanas tiesību aprobežojumus;
 10) atsavinot dzīvokļa īpašumu, informēt dzīvokļa īpašuma ieguvēju par tām dzīvokļa īpašnieka neizpildītajām saistībām, kuras attiecas uz dzīvokļa īpašuma lietošanu;
-11) iesniegt dzīvokļa īpašuma tiesības apliecinošu dokumentu dzīvojamās mājas pārvaldniekam vai personai, kura atbilstoši pārvaldīšanas līguma noteikumiem kārto mājas lietu.
-(2) Pienākums norēķināties par šā panta pirmās daļas 2., 3. un 5.punktā norādītajiem maksājumiem attiecībā uz izsoles rezultātā iegūtu dzīvokļa īpašumu dzīvokļa īpašuma ieguvējam ir ar dienu, kad stājies spēkā tiesas nolēmums par izsoles akta apstiprināšanu.
+11) iesniegt dzīvokļa īpašuma tiesības apliecinošu dokumentu dzīvojamās mājas pārvaldniekam vai personai, kura atbilstoši pārvaldīšanas līguma noteikumiem kārto mājas lietu;
+12) atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram nodrošināt finansējumu dzīvokļu īpašnieku kopības saistību izpildei pret trešām personām.
+(2) Pienākums norēķināties par šā panta pirmās daļas 2., 3., 5. un 12. punktā norādītajiem maksājumiem attiecībā uz izsoles rezultātā iegūtu dzīvokļa īpašumu dzīvokļa īpašuma ieguvējam ir ar dienu, kad stājies spēkā tiesas nolēmums par izsoles akta apstiprināšanu.
 (3) Dzīvokļa īpašuma atsavināšanas gadījumā darījuma dalībnieki nekavējoties rakstveidā paziņo dzīvojamās mājas pārvaldniekam par dzīvokļa īpašnieka maiņu. Dzīvokļa īpašuma ieguvējs pēc darījuma noslēgšanas iesniedz īpašuma tiesības apliecinošu dokumentu dzīvojamās mājas pārvaldniekam vai personai, kura atbilstoši pārvaldīšanas līguma noteikumiem kārto mājas lietu.

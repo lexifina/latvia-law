@@ -1,0 +1,1 @@
+7. Dzīvokļu īpašnieku kopībai, kas veic saimniecisko darbību vai nodarbina fizisko personu, kas nav reģistrēta kā saimnieciskās darbības veicējs, ir pienākums sešu mēnešu laikā no šā likuma 15.³ panta spēkā stāšanās dienas reģistrēties Valsts ieņēmumu dienestā kā nodokļu maksātājam.

@@ -1,5 +1,5 @@
 16.pants. Dzīvokļu īpašnieku kopības kompetence
-(1) Dzīvokļu īpašnieku kopība ir tiesīga izlemt ikvienu jautājumu, kas attiecas uz kopīpašumā esošo daļu. Dzīvokļu īpašnieku kopība, noslēdzot attiecīgu līgumu, var pilnvarot citu personu izlemt kopības kompetencē esošu jautājumu, izņemot šā panta otrajā daļā minētos jautājumus.
+(1) Dzīvokļu īpašnieku kopība ir tiesīga izlemt ikvienu jautājumu, kas attiecas uz kopīpašumā esošo daļu. Dzīvokļu īpašnieku kopība, noslēdzot attiecīgu līgumu, var pilnvarot pārvaldnieku vai dzīvokļu īpašnieku kopības pilnvaroto personu izlemt kopības kompetencē esošu jautājumu, izņemot šā panta otrajā daļā minētos jautājumus.
 (2) Vienīgi dzīvokļu īpašnieku kopība ir tiesīga pieņemt lēmumu par:
 1) kopīpašumā esošās daļas pārgrozīšanu (palielināšanu, samazināšanu);
 2) kopīpašumā esošās daļas lietošanas kārtības noteikšanu dzīvokļu īpašnieku starpā;

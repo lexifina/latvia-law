@@ -1,0 +1,1 @@
+8. Līdz brīdim, kad stājas spēkā grozījumi normatīvajos aktos, kas nosaka nodokļu maksātāju reģistrāciju Valsts ieņēmumu dienestā, Valsts ieņēmumu dienests reģistrē dzīvokļu īpašnieku kopības nodokļu maksātāju reģistrā vispārējā kārtībā.
