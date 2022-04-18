@@ -9,7 +9,7 @@
 7) plānotais pasākuma apmeklētāju un dalībnieku skaits;
 8) pasākumā izmantojamās bīstamās iekārtas;
 9) pasākuma netraucētai un drošai norisei nepieciešamais valsts un pašvaldību iestāžu atbalsts;
-10) pasākumā izmantojamie šā likuma 4.¹ panta pirmās daļas 4. punktā minētie simboli, ja tādus paredzēts izmantot.
+10) pasākumā izmantojamie šā likuma 4.¹ panta pirmās daļas 4. un 4.² punktā minētie simboli, ja tādus paredzēts izmantot.
 (2) Iesniegumam pievieno:
 1) to līgumu kopijas, kurus pasākuma organizators noslēdzis ar kārtības uzturētājiem, personām, kas atbildīgas par publiskā pasākuma tehnisko drošību, kā arī sabiedrisko kārtību un drošību, uzrādot oriģinālus;
 2) detalizētu pasākuma plānu;
