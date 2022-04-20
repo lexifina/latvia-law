@@ -1,0 +1,1 @@
+52. Līdz 2022. gada 30. decembrim pašvaldība un tās izvēlētais sadzīves atkritumu apsaimniekotājs veic grozījumus līgumos par sadzīves atkritumu apsaimniekošanu attiecībā uz nešķiroto sadzīves atkritumu un bioloģisko atkritumu maksas apmēru saskaņā ar šā likuma 39. un 39.¹ pantā paredzēto maksas noteikšanas kārtību.
