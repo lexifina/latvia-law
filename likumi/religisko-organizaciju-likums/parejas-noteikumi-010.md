@@ -1,0 +1,1 @@
+10. Grozījumi šā likuma 9.¹ pantā par reģistra ierakstu papildināšanu ar ierakstu par nodaļu un ierakstu par draudzes piederību pie reliģiskās savienības (baznīcas), diecēzes vai nodaļas ir piemērojami, sākot ar 2024. gada 1. martu.

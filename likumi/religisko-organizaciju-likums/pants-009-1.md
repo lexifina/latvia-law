@@ -1,15 +1,16 @@
 9.¹ pants. Reģistrā iekļaujamās ziņas
 (1) Reģistrā iekļauj šādas ziņas par reliģisko organizāciju:
 1) nosaukumu;
-2) tiesisko formu [draudze, reliģiskā savienība (baznīca), diecēze];
+2) tiesisko formu (draudze, reliģiskā savienība (baznīca), diecēze, nodaļa);
 3) konfesionālo piederību;
+3¹) ziņas par reliģisko savienību (baznīcu), diecēzi vai nodaļu, kuras sastāvā ir draudze;
 4) darbības mērķi;
 5) datumu, kad pieņemts lēmums par dibināšanu;
 6) darbības teritoriju;
 7) juridisko adresi (vadības atrašanās vietu);
 8) vadības institūcijas locekļu vārdu, uzvārdu, personas kodu, kā arī amatpersonas, kuras ir tiesīgas pārstāvēt reliģisko organizāciju;
 9) reģistrācijas numuru (vienoto vienpadsmitzīmju reģistrācijas kodu);
-10) reģistrācijas termiņu un pārreģistrācijas termiņus;
+10) (izslēgts ar 24.03.2022. likumu);
 11) ziņas par darbības izbeigšanu, darbības atjaunošanu, izslēgšanu no reģistra, maksātnespēju un reorganizāciju;
 12) ziņas par administratora iecelšanu maksātnespējas lietā, norādot administratora vārdu, uzvārdu, personas kodu un prakses vietas adresi;
 13) ieraksta izdarīšanas datumu;

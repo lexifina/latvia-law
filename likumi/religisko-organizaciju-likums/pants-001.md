@@ -7,4 +7,5 @@ Likumā ir lietoti šādi termini:
 5) rituāla priekšmeti - priekšmeti un lietas, kas nepieciešamas reliģiskās organizācijas reliģiskās darbības veikšanai un tās nodrošināšanai;
 6) kristīgās ticības mācība - noteiktu kristīgo konfesiju uzskatu, dogmu un priekšstatu sistēma;
 7) ticības mācība - noteiktu reliģisko uzskatu, dogmu un priekšstatu sistēma;
-8) kapelāni - garīgais personāls, kas veic amata pienākumus soda izciešanas vietās, Nacionālo bruņoto spēku formējumos un citur, kur nav pieejama parastā garīdznieka aprūpe.
+8) kapelāni - garīgais personāls, kas veic amata pienākumus soda izciešanas vietās, Nacionālo bruņoto spēku formējumos un citur, kur nav pieejama parastā garīdznieka aprūpe;
+9) reliģisko organizāciju kalpojošais personāls (turpmāk - kalpojošais personāls) - fiziskās personas, kas nav garīgais personāls vai reliģisko organizāciju darbinieki un kas uz labas gribas pamata un aicinājuma vadīti bez atlīdzības piedalās reliģisko organizāciju darbības mērķu īstenošanā.

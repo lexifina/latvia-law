@@ -1,4 +1,0 @@
-9.² pants. Reliģiskās organizācijas vai tās iestādes reģistrācijas apliecība
-(1) Pēc reliģiskās organizācijas vai tās iestādes ierakstīšanas reģistrā un reliģiskās organizācijas vai tās iestādes rakstveida pieprasījuma saņemšanas reģistra iestāde tai par maksu izsniedz reģistrācijas apliecību, ko paraksta un ar zīmogu apliecina reģistra iestādes amatpersona.
-(2) Reliģiskās organizācijas reģistrācijas apliecībā ieraksta reliģiskās organizācijas nosaukumu, tiesisko formu, konfesionālo piederību, reģistrācijas numuru, reģistrācijas vietu, reģistrācijas datumu un reģistrācijas termiņu.
-(3) Reliģiskās organizācijas iestādes reģistrācijas apliecībā ieraksta reliģiskās organizācijas iestādes nosaukumu, tiesisko formu, iestādes dibinātāju, reģistrācijas numuru, reģistrācijas vietu un reģistrācijas datumu.

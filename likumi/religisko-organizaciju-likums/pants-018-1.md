@@ -1,0 +1,8 @@
+18.¹ pants. Reliģiskās organizācijas darbības izbeigšana, pamatojoties uz reģistra iestādes lēmumu
+(1) Reliģiskās organizācijas darbību var izbeigt, pamatojoties uz reģistra iestādes lēmumu, ja:
+1) reliģiskās organizācijas vadības institūcijām ilgāk par sešiem mēnešiem nav pārstāvības tiesību un reliģiskā organizācija sešu mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu;
+2) reliģiskā organizācija nav sasniedzama tās juridiskajā adresē un sešu mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu;
+3) reliģiskā organizācija nav izpildījusi šā likuma 14. panta septītajā daļā noteikto un viena mēneša laikā pēc atkārtota rakstveida brīdinājuma saņemšanas nav iesniegusi Tieslietu ministrijai šā likuma 14. panta septītajā daļā minēto pārskatu par savu darbību, un Tieslietu ministrija ir informējusi par to reģistra iestādi.
+(2) Reģistra iestādes lēmums par reliģiskās organizācijas darbības izbeigšanu stājas spēkā brīdī, kad tas ir paziņots adresātam. Reģistra iestāde izdara ierakstu reģistrā par reliģiskās organizācijas darbības izbeigšanu pēc tam, kad reģistra iestādes lēmums par reliģiskās organizācijas darbības izbeigšanu ir kļuvis neapstrīdams.
+(3) Ja reliģiskā organizācija pieder pie valstī reģistrētās reliģiskās savienības (baznīcas), diecēzes vai nodaļas, reģistra iestāde rakstveida brīdinājumu par reliģiskās organizācijas darbības izbeigšanu nosūta arī reliģiskās savienības (baznīcas), diecēzes vai nodaļas vadībai.
+(4) Ja reliģiskās organizācijas darbība izbeigta, pamatojoties uz reģistra iestādes lēmumu, reliģiskās organizācijas likvidācija notiek reliģiskās organizācijas statūtos (satversmē, nolikumā) noteiktajā kārtībā.
