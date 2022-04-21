@@ -1,0 +1,4 @@
+23.³ pants. Lēmums par pakalpojuma pēc pieprasījuma darbības pārtraukšanu, ja nav iespējams identificēt pakalpojuma pēc pieprasījuma sniedzēju
+(1) Ja Nacionālā elektronisko plašsaziņas līdzekļu padome ir identificējusi Latvijas jurisdikcijā esošu pakalpojumu pēc pieprasījuma, kura sniedzēju nav iespējams noskaidrot, tai ir tiesības pieņemt lēmumu (vispārīgo administratīvo aktu), ar kuru tiek ierobežota piekļuve tām Latvijā pieejamām tīmekļvietnēm, kurās tiek sniegti Latvijas jurisdikcijā esoši pakalpojumi pēc pieprasījuma, kuru sniedzēju nav iespējams identificēt, un liegt piekļuvi šīm tīmekļvietnēm uz laiku līdz 24 mēnešiem.
+(2) Lēmuma darbības laikā pakalpojuma pēc pieprasījuma sniedzējiem ir tiesības iesniegt Padomei paziņojumu par pakalpojuma pēc pieprasījuma sniegšanu, ievērojot šā likuma 22. pantā noteikto kārtību.
+(3) Pakalpojuma pēc pieprasījuma darbības pārtraukšanai piemērojama šā likuma 23.¹ un 23.² pantā noteiktā kārtība.
