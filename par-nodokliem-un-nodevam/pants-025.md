@@ -9,5 +9,5 @@
 7) nodokļu maksātājam - ja nodokļu maksātājs normatīvajos aktos paredzētajos gadījumos ir izslēgts no Uzņēmumu reģistra reģistriem un, ja to paredz Komerclikums, iestājas kreditoru prasījumu tiesību noilgums.
 (2) Kapitalizētos nodokļu maksājumu pamatparādus, kā arī ar tiem saistītās soda naudas un nokavējuma naudas, izņemot nekustamā īpašuma nodokļa parādus, Finanšu ministrija dzēš pēc kapitalizāciju veicošās institūcijas priekšlikuma Ministru kabineta noteiktajā kārtībā.
 (3) Pašvaldību budžetos ieskaitāmā nekustamā īpašuma nodokļa parādus, kā arī ar tiem saistītās nokavējuma naudas un soda naudas šā panta pirmajā daļā noteiktajos gadījumos dzēš attiecīgās pašvaldības. Kapitalizēto nekustamā īpašuma nodokļa maksājuma pamatparādu, kā arī ar to saistīto soda naudu un nokavējuma naudu pašvaldības dzēš Ministru kabineta noteiktajā kārtībā.
-(4) Valsts ieņēmumu dienests vai attiecīgās pašvaldības reizi ceturksnī publicē savā mājaslapā internetā informāciju par nodokļu parādu dzēšanu, ja normatīvajos aktos nav noteikts citādi.
+(4) Valsts ieņēmumu dienests vai attiecīgās pašvaldības reizi ceturksnī publicē savā tīmekļvietnē informāciju par nodokļu parādu dzēšanu, ja normatīvajos aktos nav noteikts citādi.
 (5) (Izslēgta ar 11.06.2009. likumu.)
