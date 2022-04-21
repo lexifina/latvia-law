@@ -29,7 +29,7 @@ d) biedrība, kuras visi biedri ir šā punkta "a", "b" vai "c" apakšpunktā mi
 e) sabiedrisko pakalpojumu sniedzējs Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma izpratnē;
 16) juridiskā persona kā publiskais partneris - privāto tiesību juridiskā persona, kas vienlaikus atbilst šā punkta "a" apakšpunktam un "b" vai "c" apakšpunktam:
 a) tā ir nodibināta vai darbojas, lai nodrošinātu sabiedrības vajadzības, kurām nav komerciāla vai rūpnieciska rakstura,
-b) tā atrodas valsts, atvasinātas publiskas personas vai arī tādas juridiskās personas, kas atbilst šajā punktā minētajiem kritērijiem, padotībā vai izšķirošā ietekmē (šī ietekme izpaužas kā balsstiesību vairākums pārraudzības vai izpildinstitūcijas locekļu ievēlēšanā vai vadības iecelšanā),
+b) tā ir valsts vai atvasinātas publiskas personas padotībā vai valsts vai atvasināta publiska persona, vai cita šajā punktā minētajiem kritērijiem atbilstoša privāto tiesību juridiskā persona uzrauga šādas privāto tiesību juridiskās personas pārvaldību, tostarp attiecībā uz šādu privāto tiesību juridisko personu īsteno izšķirošo ietekmi Koncernu likuma izpratnē,
 c) tās darbību vairāk par 50 procentiem finansē valsts, atvasināta publiska persona vai arī tāda privāto tiesību juridiskā persona, kas atbilst šajā punktā minētajiem kritērijiem;
 17) sabiedrības vajadzības, kurām nav komerciāla vai rūpnieciska rakstura, - vajadzības, kas nav saistītas ar tiešu preču un pakalpojumu pieejamību tirgū un kas ir svarīgas sabiedrības interešu nodrošināšanai;
 18) publiskā partnera pārstāvis:
