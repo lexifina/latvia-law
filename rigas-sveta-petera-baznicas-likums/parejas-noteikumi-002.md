@@ -1,0 +1,1 @@
+2. Nodibinājums viena gada laikā pēc nekustamā īpašuma nodošanas un pieņemšanas akta parakstīšanas iesniedz Kultūras ministrijai saskaņošanai nekustamā īpašuma saglabāšanas, atjaunošanas un izmantošanas koncepciju.

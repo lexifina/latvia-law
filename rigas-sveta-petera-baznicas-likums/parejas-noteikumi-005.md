@@ -1,0 +1,1 @@
+5. Nekustamā īpašuma apsaimniekošanas un atjaunošanas laikā kopš 1941. gada ar tā izpēti, atjaunošanu un uzturēšanu saistītu uzkrāto dokumentāciju izvērtē Nacionālā kultūras mantojuma pārvalde sadarbībā ar Latvijas Nacionālo arhīvu un nosaka tās turpmāko glabāšanas vietu.
