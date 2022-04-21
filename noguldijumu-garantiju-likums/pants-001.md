@@ -11,7 +11,7 @@ c) pamatsumma ir atmaksājama nominālvērtībā tikai saskaņā ar konkrētu ga
 6) noguldījumu nepieejamība - noguldījumu piesaistītāja nespēja izmaksāt noguldījumus, ja ir iestājies vismaz viens šajā punktā minētais apstāklis vai vairāki šādi apstākļi neatkarīgi no to iestāšanās secības:
 a) tiesa pasludinājusi noguldījumu piesaistītāju par maksātnespējīgu,
 b) Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) ir anulējusi atļauju (licenci) kredītiestādes vai krājaizdevu sabiedrības darbībai,
-c) Komisija ir konstatējusi, ka noguldījumu piesaistītājs nespēj izmaksāt noguldītājam noguldījumu, un pieņēmusi lēmumu par noguldījumu nepieejamības iestāšanos;
+c) Komisija ir konstatējusi, ka noguldījumu piesaistītājs tā finansiālā stāvokļa pasliktināšanās dēļ nespēj izmaksāt noguldītājam noguldījumu, un pieņēmusi lēmumu par noguldījumu nepieejamības iestāšanos;
 7) noguldītājs - persona vai - kopīgā noguldījuma gadījumā - katra no personām, kurām ir noguldījums noguldījumu piesaistītājā;
 8) noguldījumu garantiju fonds - mantas kopums, kuru veido noguldījumu piesaistītāju veiktie maksājumi un kura pārvaldīšanu nodrošina Komisija;
 9) mērķapjoms - noguldījumu garantiju fondā pieejamo līdzekļu summa, kas uzkrājama šajā likumā noteiktajā kārtībā;

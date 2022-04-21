@@ -1,2 +1,2 @@
 III nodaļa
-Garantētās atlīdzības izmaksas
+Noguldījumu garantiju fonda līdzekļu izmantošana
