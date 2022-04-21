@@ -1,0 +1,1 @@
+47. Piemērojot šā likuma 9. panta pirmās daļas 1. punktu, parādiem, kuriem izveidots uzkrājums līdz 2021. gada 31. decembrim, periods nodokļu bāzes palielināšanai ir 60 mēneši no uzkrājuma izveidošanas dienas.

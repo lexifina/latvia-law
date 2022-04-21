@@ -4,7 +4,7 @@
 1) nodokļa maksātāja izdevumus dalībnieku vai darbinieku atpūtai, izklaides pasākumiem un citus labumus dalībniekiem un darbiniekiem, ja šie labumi nav bijuši iekļauti fiziskās personas ar iedzīvotāju ienākuma nodokli apliekamajā ienākumā, izņemot gadījumu, kad likumā "Par iedzīvotāju ienākuma nodokli" šim ienākuma veidam ir noteikts atbrīvojums;
 2) peļņas, apgrozījuma vai cita bāzes lieluma samazinājumu, kuru nodokļa maksātājs veic pēc savas iniciatīvas vai dalībnieka rīkojuma;
 3) nodokļa maksātāja izdevumus dāvinājumiem, dāvinājumos pārvērstiem kredītiem un aizdevumiem (izņemot ienākumam pielīdzinātos aizdevumus, par kuriem aprēķināts iedzīvotāju ienākuma nodoklis);
-4) ziedojumus, izņemot šā likuma 12. panta pirmās daļas 1. un 2. punktā minētos gadījumus;
+4) ziedojumus, izņemot šā likuma 12. panta pirmajā daļā minētos gadījumus;
 5) to aktīvu iegādes izdevumus, kuri iegādāti, sākot ar 2018. gada 1. janvāri, un tiek izmantoti mērķiem, kas nav saistīti ar saimnieciskās darbības nodrošināšanu, un šo aktīvu uzturēšanas izdevumus;
 6) to aktīvu nolietojuma vērtību, kuri iegādāti līdz 2017. gada 31. decembrim un tiek izmantoti mērķiem, kas nav saistīti ar saimnieciskās darbības nodrošināšanu, vai šo aktīvu vērtības samazinājumu un uzturēšanas izdevumus;
 7) reprezentācijas izdevumus un personāla ilgtspējas pasākumu izdevumus, kas kopā pārskata gadā pārsniedz piecus procentus no iepriekšējā pārskata gada kopējās darba ņēmējiem aprēķinātās bruto darba samaksas, par kuru samaksāti valsts sociālās apdrošināšanas maksājumi;
