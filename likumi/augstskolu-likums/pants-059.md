@@ -2,7 +2,7 @@
 (1) Atbilstoši valsts akreditētai studiju programmai augstskolā var iegūt akadēmisko izglītību un šādus grādus:
 1) akadēmisko bakalaura grādu;
 2) akadēmisko maģistra grādu;
-3) zinātnisko doktora grādu.
+3) zinātnes doktora grādu.
 (1¹) Atbilstoši valsts akreditētai studiju programmai augstskolā var iegūt šādu profesionālo augstāko izglītību:
 1) pirmā līmeņa profesionālo augstāko izglītību un ceturtā līmeņa profesionālo kvalifikāciju;
 2) otrā līmeņa profesionālo augstāko izglītību:

@@ -1,5 +1,5 @@
 55.² pants. Studiju programmas licencēšana
-(1) Ikvienas studiju programmas īstenošanas uzsākšanai saņemama studiju programmas licence. Viena mēneša laikā pēc studiju programmas licences izsniegšanas Akadēmiskās informācijas centrs studiju programmu ieraksta izglītības programmu reģistrā. Gada laikā pēc studiju programmas licencēšanas augstskola vai koledža sāk īstenot attiecīgo studiju programmu.
+(1) Pirms katras studiju programmas īstenošanas attiecīgo studiju programmu licencē. Pēc studiju programmas licencēšanas Akadēmiskās informācijas centrs informāciju par studiju programmu ieraksta izglītības programmu reģistrā. Gada laikā pēc studiju programmas licencēšanas augstskola vai koledža sāk īstenot attiecīgo studiju programmu.
 (2) Studiju programmu licencēšanu organizē Akadēmiskās informācijas centrs. Studiju programmas licencēšanas izdevumus sedz augstskola vai koledža no tās budžeta līdzekļiem. Studiju programmu licencēšanas procesa maksas pakalpojumu cenrādi nosaka Ministru kabinets.
 (3) Studiju kvalitātes komisija ir koleģiāla lēmējinstitūcija, kuras sastāvā ir septiņi eksperti ar pieredzi augstākās izglītības organizēšanā un nodrošināšanā. Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu.
 (4) Lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu Studiju kvalitātes komisija pieņem četru mēnešu laikā no dienas, kad saņemts augstskolas vai koledžas iesniegums par attiecīgās studiju programmas licencēšanu.
@@ -13,7 +13,7 @@
 7) studiju programmas atbilstība studiju virzienam, kurā to plānots iekļaut.
 (6) Ja studiju programma atbilst visām šā panta piektajā daļā noteiktajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu.
 (7) Ja studiju programma neatbilst kādai no šā panta piektajā daļā minētajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu. Ja Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu, augstskola vai koledža ir tiesīga iesniegt iesniegumu par attiecīgajam studiju virzienam atbilstošas studiju programmas licencēšanu tikai pēc tam, kad ir novērsusi Studiju kvalitātes komisijas konstatētos trūkumus.
-(8) Studiju kvalitātes komisija lēmumu par studiju programmas licences atņemšanu var pieņemt, ja:
+(8) Studiju kvalitātes komisija lēmumu par studiju programmas licencēšanas atcelšanu var pieņemt, ja:
 1) sniegtas faktiskajiem apstākļiem neatbilstošas ziņas;
 2) augstskola vai koledža gada laikā pēc studiju programmas licencēšanas nav sākusi īstenot licencēto studiju programmu;
 3) augstskolas vai koledžas darbībā konstatēti ar licencēto studiju programmu saistīti normatīvo aktu pārkāpumi;
@@ -27,4 +27,4 @@
 (9) Studiju kvalitātes komisijas lēmumu var apstrīdēt Apelācijas komisijā, un Apelācijas komisijas lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
 (10) Apelācijas komisijas sastāvā ir četri eksperti, no tiem divi ir augstākās izglītības eksperti un divi - eksperti ar augstāko izglītību tiesību zinātnēs un profesionālo pieredzi administratīvajā procesā.
 (11) Studiju kvalitātes komisijas un Apelācijas komisijas tehnisko un organizatorisko darbību studiju programmu licencēšanā nodrošina Akadēmiskās informācijas centrs.
-(12) Ministru kabinets nosaka studiju programmu licencēšanas kārtību, studiju programmas licences paraugu, Studiju kvalitātes komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā un Apelācijas komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā.
+(12) Ministru kabinets nosaka studiju programmu licencēšanas kārtību, Studiju kvalitātes komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā un Apelācijas komisijas izveidošanas nosacījumus (tai skaitā prasības ekspertiem), kārtību, tiesības un pienākumus studiju programmu licencēšanā.

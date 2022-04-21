@@ -1,0 +1,9 @@
+46.² pants. Augstākās izglītības programmu absolventu monitorings
+(1) Izglītības un zinātnes ministrija veic augstākās izglītības programmu absolventu nodarbinātības, ienākumu un ekonomiskās aktivitātes monitoringu.
+(2) Augstākās izglītības programmu absolventu monitoringam nepieciešamos datus iegūst no valsts informācijas sistēmām, tostarp Izglītības un zinātnes ministrijas, Nodarbinātības valsts aģentūras un Valsts ieņēmumu dienesta, Pilsonības un migrācijas lietu pārvaldes pārziņā esošām informācijas sistēmām. Datu apstrādi veic Centrālā statistikas pārvalde.
+(3) Papildus šā panta pirmajā daļā minētajai informācijai augstākās izglītības programmu absolventu monitoringam nepieciešamos datus iegūst, veicot absolventu aptaujas un pētījumus. Lai nodrošinātu zinātniski pamatotus metodoloģijā balstītus pētījumus, tai skaitā starptautiski salīdzinošus pētījumus, Ministru kabineta noteiktajā apjomā un kārtībā Izglītības un zinātnes ministrija pieprasa un Valsts ieņēmumu dienests sniedz elektroniskās deklarēšanas sistēmā esošo fizisko personu kontaktinformāciju.
+(4) Ministru kabinets nosaka:
+1) augstākās izglītības programmu absolventu monitoringā iekļaujamo datu saturu un apjomu un iegūto datu glabāšanas termiņu;
+2) kārtību, kādā Centrālajai statistikas pārvaldei tiek sniegti augstākās izglītības programmu absolventu monitoringam nepieciešamie dati no šā panta otrajā daļā minētajām valsts informācijas sistēmām;
+3) kārtību, kādā apkopotus un nepersonificētus augstākās izglītības programmu absolventu monitoringa ikgadējos datus, kas iegūti no valsts informācijas sistēmām, Centrālā statistikas pārvalde sagatavo un iesniedz Izglītības un zinātnes ministrijai;
+4) kārtību un apjomu, kādā aprēķina šā panta trešajā daļā un šīs daļas 2. un 3. punktā minētā uzdevuma veikšanai nepieciešamo finansējumu un finansē šā uzdevuma veikšanu

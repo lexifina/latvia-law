@@ -1,13 +1,5 @@
 87.pants. Akadēmiskā personāla reģistrs
-(1) Akadēmiskā personāla reģistrā ieraksta ziņas par personām, kuras ieņem akadēmiskos amatus augstskolās un koledžās. Akadēmiskā personāla reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa, un to ved tam pilnvarota Ministru kabineta noteiktas institūcijas amatpersona (turpmāk - akadēmiskā personāla reģistra atbildīgā amatpersona).
-(2) Akadēmiskā personāla reģistrā par personu ierakstāmas šādas ziņas:
-1) personas vārds un uzvārds;
-2) personas kods;
-3) tā akadēmiskā amata nosaukums, kurā persona ievēlēta;
-4) tās augstskolas vai koledžas nosaukums, kurā šī persona ieņem akadēmisko amatu (norādot, ja amatu ieņem filiālē);
-5) struktūrvienības nosaukums, ja tāds ir;
-6) akadēmiskā amata pildīšanas sākuma termiņš attiecīgajā augstskolā un koledžā;
-7) akadēmiskajam amatam atbilstošās zinātnes nozares, apakšnozares un izglītības programmu grupas nosaukums.
-(3) Ziņas akadēmiskā personāla reģistram par savu akadēmisko personālu iesniedz augstskolas un koledžas. Augstskolas rektors vai koledžas direktors atbild par reģistram iesniegto ziņu precizitāti un atbilstību īstenībai.
-(4) Atjaunotu informāciju par izmaiņām šā panta otrajā daļā pieprasītajās ziņās augstskola vai koledža iesniedz akadēmiskā personāla reģistram ne vēlāk kā nedēļu pēc izmaiņām, ievadot to akadēmiskā personāla reģistrā elektroniski.
-(5) Šā panta otrās daļas 1., 3., 4., 5., 6. un 7.punktā minētās ziņas akadēmiskā personāla reģistra atbildīgā amatpersona publicē internetā ne vēlāk kā divu nedēļu laikā no šo izmaiņu saņemšanas.
+(1) Akadēmiskā personāla reģistrā iekļauj datus par personām, kuras ieņem akadēmiskos amatus augstskolās un koledžās, un par personām, kuras ir nodarbinātas kā viesprofesori, asociētie viesprofesori, viesdocenti, vieslektori, viesasistenti, vadošie viespētnieki un viespētnieki. Akadēmiskā personāla reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa.
+(2) Akadēmiskā personāla reģistrā iekļaujamos datus par šā panta pirmajā daļā minētajām personām, kā arī datu ievadīšanas un papildināšanas kārtību un termiņus nosaka Ministru kabinets.
+(3) Akadēmiskā personāla reģistrā iekļaujamos datus par šā panta pirmajā daļā minētajām personām augstskolas un koledžas sniedz elektroniski tiešsaistes datu pārraides režīmā. Augstskolas rektors un koledžas direktors ir atbildīgs par reģistram sniegto datu precizitāti, aktualitāti un atbilstību īstenībai.
+(4) Akadēmiskā personāla reģistrā iekļautie dati ir publiski pieejami tīmekļvietnē, ja to pieejamība nav ierobežota fizisko personu datu aizsardzību regulējošos normatīvajos aktos.

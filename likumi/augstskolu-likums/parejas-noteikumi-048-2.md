@@ -1,0 +1,1 @@
+48.² Rīgas Stradiņa universitātes studiju virziena "Veselības aprūpe" akreditācijas termiņš - 2023. gada 8. maijs - tiek pagarināts līdz brīdim, kad tiek pieņemts lēmums par šā studiju virziena jaunu akreditāciju vai lēmums par atteikumu to akreditēt, bet ne ilgāk kā līdz 2024. gada 7. maijam.

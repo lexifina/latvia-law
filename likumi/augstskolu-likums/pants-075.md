@@ -1,11 +1,7 @@
-75.pants. Informācija par augstskolas un koledžas darbību
-(1) (Izslēgta ar 08.06.2021. likumu)
-(2) Augstskola un koledža Ministru kabineta noteiktajā kārtībā un termiņā iesniedz Izglītības un zinātnes ministrijai informāciju par savu darbību, ietverot tajā datus par:
-1) augstskolas un koledžas struktūru;
-2) studējošo un pārējā augstskolas un koledžas personāla skaitu un sastāvu;
-3) studiju iespējām un uzņemto studentu skaitu un sastāvu;
-4) studiju kursu, studiju moduļu, studiju programmu piedāvājumu, kā arī informāciju par studiju virzieniem;
-5) valsts budžeta līdzekļu sadalījumu un izlietojumu;
-6) saimniecisko darbību, pašu ieņēmumiem un to izlietojumu;
-7) starptautiskajiem sakariem;
-8) (izslēgts ar 23.11.2016. likumu).
+75. pants. Izglītības un zinātnes ministrijai iesniedzamā informācija par augstskolas darbību
+(1) Augstskola iesniedz Izglītības un zinātnes ministrijai šādu informāciju par savu darbību:
+1) informāciju, kas nepieciešama augstskolas akreditācijas procesā, lai izvērtētu tās atbilstību dibinātāja noteiktajam augstskolas tipam;
+2) informāciju par to valsts augstskolai noteikto uzdevumu izpildi, kurus paredz valsts augstskolas un tās dibinātāja noslēgtais sadarbības un finansēšanas līgums;
+3) informāciju par augstskolas stratēģiskās specializācijas īstenošanu augstskolas attīstības stratēģijas ieviešanas periodā;
+4) citu informāciju, kas nepieciešama Izglītības un zinātnes ministrijas kompetencē esošo jautājumu risināšanai, tostarp izglītības kvalitātes monitoringam un attīstības finansējuma plānošanai.
+(2) Izglītības un zinātnes ministrijai iesniedzamās informācijas apjomu, iesniegšanas termiņus un kārtību, kā arī publiskojamo datu apjomu un publiskošanas kārtību nosaka Ministru kabinets.
