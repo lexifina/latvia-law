@@ -1,0 +1,1 @@
+59. Energoapgādes drošuma rezerves 2023. gadā ir nodrošināmas 1,8-2,2 teravatstundu apjomā atkarībā no pieejamā sašķidrinātās dabasgāzes kuģu piedāvājuma. Energoapgādes drošuma rezervju iegādi un uzglabāšanu Inčukalna pazemes gāzes krātuvē valsts vārdā organizē akciju sabiedrība "Latvenergo" un nodrošina to iesūknēšanu Inčukalna pazemes gāzes krātuvē līdz 2023. gada 1. janvārim.

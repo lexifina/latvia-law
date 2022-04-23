@@ -1,0 +1,1 @@
+61. Apropriāciju šo pārejas noteikumu 60. punktā minētajam mērķim atļauts palielināt, ja Ministru kabinets ir pieņēmis lēmumu un Saeimas Budžeta un finanšu (nodokļu) komisija piecu darbdienu laikā no attiecīgās informācijas saņemšanas ir to izskatījusi un nav iebildusi pret apropriācijas palielinājumu.
