@@ -1,1 +1,1 @@
-8.pants. Pulcēšanās vieta un gājiena maršruts jāizraugās tā, lai pēc iespējas mazāk traucētu transporta un gājēju kustību.
+8. pants. Pulcēšanās vieta un gājiena maršruts jāizraugās tā, lai plānotais pasākums nenotiktu tuvāk par 200 metriem no jebkura Latvijas teritorijā esoša padomju armiju vai tās karavīru uzvaru un piemiņu slavinoša pieminekļa un pēc iespējas mazāk traucētu transporta un gājēju kustību.
