@@ -18,6 +18,7 @@ zemkopības ministrs;
 Ārlietu ministrijas valsts sekretārs;
 Jūrniecības savienības pārstāvis;
 Aizsardzības ministrijas pārstāvis;
-šā likuma 7. panta 1.² daļā minētās valsts kapitālsabiedrības pārstāvis.
+pa vienam pārstāvim no katras tās kapitālsabiedrības, kura īsteno ostas pārvaldes funkcijas Rīgas ostā un Ventspils ostā;
+Latvijas Stividorkompāniju asociācijas pārstāvis.
 (3) Pārstāvji Latvijas Ostu, tranzīta un loģistikas padomē tiek deleģēti ar attiecīgās institūcijas vadītāja lēmumu un par to tiek informēts Ministru prezidents.
 (4) Latvijas Ostu, tranzīta un loģistikas padomes nolikumu apstiprina Ministru prezidents.

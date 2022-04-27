@@ -1,2 +1,2 @@
 5. pants. Ostu darbību reglamentējošie dokumenti
-Ostas darbojas, pamatojoties uz likumiem, Latvijas Republikas apstiprinātajiem starptautiskajiem līgumiem, Ministru kabineta izdotajiem aktiem, attiecīgās ostas pārvaldes nolikumu un ostas noteikumiem.
+Ostas darbojas, pamatojoties uz Latvijai saistošiem starptautiskajiem līgumiem, likumiem, Ministru kabineta izdotiem normatīvajiem aktiem un attiecīgās ostas noteikumiem. Mazo ostu darbību reglamentē arī ostu pārvalžu nolikumi.

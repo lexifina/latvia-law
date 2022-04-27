@@ -5,4 +5,5 @@ Latvijas Ostu, tranzīta un loģistikas padomes galvenie uzdevumi ir šādi:
 3) sekmēt un atbalstīt Latvijas ostu, tranzīta un loģistikas sektora atpazīstamību starptautiskā biznesa vidē un atbalstīt Latvijas ostu dalību starptautiskās izstādēs un konferencēs;
 4) sniegt atzinumu par priekšlikumiem atsavināt nekustamo īpašumu ostās valsts vai sabiedriskajām vajadzībām;
 5) apstiprināt ostu attīstības fonda līdzekļu izlietojumu;
-6) veicināt Latvijas ostu, tranzīta un loģistikas sektora attīstību, koordinējot iesaistīto pušu sadarbību un risinot kopējas aktuālas problēmas.
+6) veicināt Latvijas ostu, tranzīta un loģistikas sektora attīstību, koordinējot iesaistīto pušu sadarbību un risinot kopējas aktuālas problēmas;
+7) apstiprināt Latvijas ostu attīstības programmu, kurā ietvertie attīstības mērķi, darbības virzieni un nosacījumi kalpo par pamatu katras ostas attīstības un plānošanas dokumentu izstrādē.

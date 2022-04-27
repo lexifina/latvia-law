@@ -1,0 +1,2 @@
+15.² pants. Kārtība, kādā maksā ostas maksas un ostas regulētās maksas par pakalpojumiem
+Ostas maksas un ostas regulētās maksas par pakalpojumiem kuģa īpašnieks vai operators pilnā apmērā un atbilstoši ostas pārvaldes noteiktajai maksāšanas kārtībai samaksā līdz kuģa iziešanai no ostas. Kuģa īpašnieks vai operators, vai to pilnvarots kuģa aģents un ostas pārvalde vai komersants, kas sniedz attiecīgo pakalpojumu, var savstarpēji vienoties par citu attiecīgās maksas samaksas kārtību.

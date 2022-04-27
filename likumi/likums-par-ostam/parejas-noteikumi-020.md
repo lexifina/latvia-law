@@ -1,0 +1,1 @@
+20. Ministru kabinets ne vēlāk kā līdz 2022. gada 31. decembrim pieņem lēmumu par Rīgas brīvostas pārvaldes likvidāciju un Rīgas brīvostas pārvaldes mantas un aktīvu ieguldīšanu jaunizveidotās kapitālsabiedrības pamatkapitālā Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumā noteiktajā kārtībā.
