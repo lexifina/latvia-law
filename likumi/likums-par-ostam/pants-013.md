@@ -12,4 +12,5 @@
 10) pasažieru maksu.
 (2) Ostas pārvalde var apvienot ostas maksas, ievērojot šā likuma 14.pantā minētos nosacījumus.
 (3) Ostas maksas un tarifus nosaka ostas pārvalde un publicē laikrakstā "Latvijas Vēstnesis". Ostas maksas paaugstinājumi stājas spēkā četrdesmit piecas dienas pēc to publicēšanas.
+(3¹) (Daļa stājas spēkā 01.10.2022. un iekļauta likuma redakcijā uz 01.10.2022. Sk. Pārejas noteikumu 23. punktu)
 (4) No ārvalstu karakuģiem netiek iekasētas ostas maksas, izņemot ledus maksu, loču maksu un sanitāro maksu, ja tiek izmantoti attiecīgie pakalpojumi.
