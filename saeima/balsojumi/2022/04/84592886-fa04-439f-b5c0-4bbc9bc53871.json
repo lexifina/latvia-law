@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 3,
+ "datums": "2022-04-28",
+ "ieraksts": {
+  "dkp_id": "0ab54478-9b30-41ab-881b-69f5ef0e6ae6",
+  "lastmodtime": "\"AAAAAAHrYxQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Regīna#Ivans#Aivars#Ivars#Jānis#Evita#Edgars#Eva#Jānis#Kārlis#Ainars#Gatis#Karina#Artuss#Normunds#Inga#Rihards#Iveta#Janīna#Uldis#Armands#Jānis#Nikolajs#Raivis#Sandis#Kaspars#Inguna#Ieva#Arvils#Ieva#Rihards#Māris#Ilmārs#Jūlija#Atis#Valērijs#Aldis#Ēriks#Andrejs#Māris #Viesturs#Māris#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Ivans#Ināra#Vitālijs#Ritvars#Sergejs#Reinis#Dagmāra#Ainars#Gundars#Jānis#Ramona#Līva#Anda#Janīna#Linda#Artūrs#Janīna#Aldis",
+  "SURNAME": "Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Geidāns#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Cielēns#Šadurskis#Latkovskis#Zamurs#Sprūde#Kaimiņš#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Krauze#Iesalnieks#Kabanovs#Dzintars#Riekstiņš#Ģirģens#Rībena#Akuratere#Ašeradens#Krapāne#Kols#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Agešins#Adamovičs#Pucens#Klementjevs#Mičerevskis#Liepkalns#Kučinskis#Bondars#Tavars#Valainis#Judins#Bikše#Klementjevs#Mūrniece#Orlovs#Jansons#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Tutins#Petraviča#Kreituse#Čakša#Jalinska#Medne#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "######################################################################",
+  "FRACTION": "AP!#NA#NA#AP!#AP!# #SASKAŅA #SASKAŅA # # #Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#Konservatīvie#JV#JV#AP!#Neatkarīgie# #Konservatīvie#SASKAŅA #JV# # #ZZS#ZZS#NA#SASKAŅA #NA#Konservatīvie# # #Konservatīvie#JV#Neatkarīgie#NA#Neatkarīgie#AP!# # #SASKAŅA #JV# #SASKAŅA # #AP!#ZZS#AP!#ZZS#ZZS#JV#AP!#SASKAŅA #NA#SASKAŅA #NA#SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#ZZS#SASKAŅA #Neatkarīgie#Konservatīvie# #ZZS#Konservatīvie#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.04.2022 13:49:38",
+  "VOTEMOTIVE": "Par Latvijas Nacionālo bruņoto spēku karavīru dalību Apvienoto Nāciju Organizācijas starptautiskajā operācijā “United Nations Truce Supervision Organization” (UNTSO) (908/Lm13)",
+  "VOTING_ID": "84592886-fa04-439f-b5c0-4bbc9bc53871",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "71",
+  "VOTE_NUMBER": "41",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-3-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cfc92601-5c2a-471a-8756-883272b67da7/download/13.saeimas-2022.gada-pavasara-sesija-3-vote.xml",
+  "sha256": "8b9e9e0f235b74462ac6d86086e63065f88e5decb24ce67f9eb6a5dceaed62e3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
