@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 3,
+ "datums": "2022-04-28",
+ "ieraksts": {
+  "dkp_id": "8ad7913e-29e4-4285-9829-031b9d777f4e",
+  "lastmodtime": "\"AAAAAAHrGlw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Ilze#Dace#Andris#Regīna#Ivans#Aivars#Vita Anda#Ivars#Jānis#Evita#Edgars#Eva#Jānis#Kārlis#Ainars#Gatis#Karina#Artuss#Normunds#Inga#Rihards#Iveta#Janīna#Jānis#Inese#Nikolajs#Igors#Raivis#Ļubova#Sandis#Kaspars#Inguna#Ieva#Arvils#Rihards#Māris#Ilmārs#Jūlija#Atis#Valērijs#Aldis#Ēriks#Viesturs#Māris#Mārtiņš#Edgars#Andrejs#Aigars#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Ainars#Ramona#Līva#Anda#Linda#Artūrs#Janīna#Aldis",
+  "SURNAME": "Lejiņš#Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Ločmele#Ribakovs#Geidāns#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Cielēns#Šadurskis#Latkovskis#Zamurs#Sprūde#Kaimiņš#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Iesalnieks#Voika#Kabanovs#Pimenovs#Dzintars#Švecova#Riekstiņš#Ģirģens#Rībena#Akuratere#Ašeradens#Kols#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Agešins#Adamovičs#Pucens#Liepkalns#Kučinskis#Bondars#Tavars#Judins#Bikše#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Bašķis#Petraviča#Kreituse#Čakša#Medne#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "#################################################################",
+  "FRACTION": "JV#AP!#NA#AP!#AP!#SASKAŅA #SASKAŅA # #AP!# #Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#Konservatīvie#JV#JV#AP!#Neatkarīgie# #Konservatīvie#SASKAŅA #JV# # #NA#AP!#SASKAŅA #SASKAŅA #NA# #Konservatīvie# # #Konservatīvie#JV#NA#Neatkarīgie#AP!# # #SASKAŅA #JV# #AP!#ZZS#AP!#ZZS#JV#AP!#SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #Konservatīvie#Konservatīvie#Neatkarīgie#Konservatīvie# #Konservatīvie#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.04.2022 11:04:27",
+  "VOTEMOTIVE": "Grozījumi Ieguldījumu pārvaldes sabiedrību likumā (1199/Lp13), 3.lasījums",
+  "VOTING_ID": "f355b746-686a-4086-824e-0e5ed4fc0b25",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "59",
+  "VOTERESULT_REGISTERED": "66",
+  "VOTE_NUMBER": "20",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-3-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cfc92601-5c2a-471a-8756-883272b67da7/download/13.saeimas-2022.gada-pavasara-sesija-3-vote.xml",
+  "sha256": "8b9e9e0f235b74462ac6d86086e63065f88e5decb24ce67f9eb6a5dceaed62e3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
