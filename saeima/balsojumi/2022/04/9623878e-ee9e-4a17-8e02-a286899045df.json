@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 3,
+ "datums": "2022-04-28",
+ "ieraksts": {
+  "dkp_id": "38af1dde-2f85-4d4e-b5da-cde89601c207",
+  "lastmodtime": "\"AAAAAAHrR54=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Mārtiņš#Ilze#Dace#Andris#Romāns#Ivans#Aivars#Jānis#Evita#Edgars#Eva#Jānis#Kārlis#Ainars#Gatis#Karina#Normunds#Inga#Rihards#Iveta#Janīna#Uldis#Jānis#Raivis#Sandis#Kaspars#Ieva#Arvils#Rihards#Māris#Ilmārs#Jūlija#Atis#Valērijs#Aldis#Viesturs#Māris#Mārtiņš#Viktors#Andrejs#Aigars#Ivans#Ināra#Vitālijs#Ritvars#Sergejs#Reinis#Dagmāra#Ainars#Jānis#Līva#Anda#Linda#Janīna#Aldis",
+  "SURNAME": "Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ribakovs#Geidāns#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Cielēns#Šadurskis#Latkovskis#Zamurs#Sprūde#Žunna#Goldberga#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Iesalnieks#Dzintars#Riekstiņš#Ģirģens#Akuratere#Ašeradens#Kols#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Agešins#Adamovičs#Liepkalns#Kučinskis#Bondars#Valainis#Judins#Bikše#Klementjevs#Mūrniece#Orlovs#Jansons#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Tutins#Kreituse#Čakša#Medne#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "######################################################",
+  "FRACTION": "AP!#NA#AP!#AP!# #SASKAŅA # #Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#Konservatīvie#JV#JV#AP!#Neatkarīgie#Konservatīvie#SASKAŅA #JV# # #ZZS#NA#NA#Konservatīvie# #Konservatīvie#JV#NA#Neatkarīgie#AP!# # #SASKAŅA #JV#AP!#ZZS#AP!#ZZS#JV#AP!#SASKAŅA #NA#SASKAŅA #NA#SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie# #Konservatīvie#NA#Neatkarīgie",
+  "RESULT": "Pret#Par#Pret#Pret#Nebalsoja#Atturas#Pret#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Atturas#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret#Pret#Nebalsoja#Par#Pret#Nebalsoja#Pret#Atturas#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Atturas#Pret#Atturas#Pret#Nebalsoja#Pret#Pret#Pret#Atturas#Pret#Pret#Pret#Nebalsoja#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "28.04.2022 13:36:14",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.17. Grozījumi Enerģētikas likumā (1368/Lp13), 2.lasījums",
+  "VOTING_ID": "9623878e-ee9e-4a17-8e02-a286899045df",
+  "VOTERESULT_ABSTAIN": "7",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "3",
+  "VOTERESULT_REGISTERED": "55",
+  "VOTE_NUMBER": "32",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-3-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cfc92601-5c2a-471a-8756-883272b67da7/download/13.saeimas-2022.gada-pavasara-sesija-3-vote.xml",
+  "sha256": "8b9e9e0f235b74462ac6d86086e63065f88e5decb24ce67f9eb6a5dceaed62e3",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
