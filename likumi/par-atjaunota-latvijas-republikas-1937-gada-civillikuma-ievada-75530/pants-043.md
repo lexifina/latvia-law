@@ -1,0 +1,3 @@
+43. pants.
+Kopīpašuma dalīšanas lietās, kuras nav izskatītas tiesā pēc būtības līdz 2022. gada 30. aprīlim, piemērojami Civillikuma 1075. panta pirmās, otrās un trešās daļas noteikumi, kas stājas spēkā 2022. gada 1. maijā. Pirms tam tiesa saskaņā ar Civilprocesa likuma 8. pantu noskaidro lietas dalībnieku viedokli par to dalīšanas veidu piemērošanu, kas izriet no minētajām normām.
+Civillikuma 1074.¹ panta otrā un trešā daļa, ciktāl tās paredz pārdošanu izsolē kopīpašnieku starpā (slēgtā izsolē), un 1075. panta ceturtā daļa stājas spēkā vienlaikus ar grozījumiem Civilprocesa likumā par izsolēm kopīpašnieku starpā.
