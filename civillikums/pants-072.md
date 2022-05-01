@@ -1,1 +1,1 @@
-72. Pieņemams, ka laulība ir izirusi, ja laulātie vismaz trīs gadus dzīvo šķirti.
+72. Pieņemams, ka laulība ir izirusi, ja laulātie vismaz gadu dzīvo šķirti.
