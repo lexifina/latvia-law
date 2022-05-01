@@ -1,0 +1,1 @@
+27. pants. Laulības šķiršanas lietās, kuras nav izskatītas tiesā pēc būtības līdz 2022. gada 30. aprīlim, piemērojami Civillikuma 72., 74. un 76. panta noteikumi, kas stājas spēkā 2022. gada 1. maijā.
