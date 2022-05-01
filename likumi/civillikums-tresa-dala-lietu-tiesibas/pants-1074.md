@@ -1,1 +1,2 @@
 1074. Nevienu kopīpašnieku nevar piespiest palikt kopīpašumā, ja vien tā nodibināšanas noteikumi nerunā tam pretim; turpretim katrs kopīpašnieks var katrā laikā prasīt dalīšanu.
+Kopīpašnieks, kurš ieguvis domājamās daļas nekustamā īpašumā, kurā ietilpst ēka ar dzīvojamām telpām, pamatojoties uz darījumu vai tiesas lēmumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda, var prasīt tiesā kopīpašuma dalīšanu agrāk nekā piecus gadus no īpašuma tiesību nostiprināšanas zemes grāmatā tikai tad, ja tam ir svarīgs iemesls.
