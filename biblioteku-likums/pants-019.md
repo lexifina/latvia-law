@@ -8,6 +8,7 @@
 1) bibliotēkām saņemot izdevuma obligātos eksemplārus likumā noteiktajā kārtībā;
 2) civiltiesisku darījumu rezultātā;
 3) saņemot ziedojumus un dāvinājumus.
+(6¹) Nacionālajā bibliotēku krājumā aizliegts iekļaut tādus iespieddarbus un citus dokumentus, kuri iegūti prettiesiskā ceļā, tostarp nozagti citā valstī vai izvesti, pārkāpjot tās valsts tiesību aktus, kura klasificējusi, definējusi vai īpaši atzinusi tos par kultūras vērtību atbilstoši Latvijas Republikas starptautiskajām saistībām. Pirms iespieddarba vai cita dokumenta iekļaušanas Nacionālajā bibliotēku krājumā bibliotēka pēc iespējas publiski pieejamos zagtu kultūras priekšmetu reģistros pārbauda, vai šis iespieddarbs vai cits dokuments nav iegūts prettiesiskā ceļā.
 (7) Reti izmantotos Nacionālā bibliotēku krājuma iespieddarbus un citus dokumentus nodod glabāšanā depozītbibliotēkām.
 (8) Aizliegts izvietot Nacionālo bibliotēku krājumu ēkās un telpās, kuras neatbilst Ministru kabineta noteikumiem par bibliotēkas darbībai nepieciešamo materiālo un tehnisko pamatu un Nacionālo bibliotēku krājumu.
 (9) Ministru kabinets izdod noteikumus par Nacionālo bibliotēku krājumu, kuros nosaka krājuma veidošanas, papildināšanas, uzturēšanas, uzskaites, saglabāšanas, kā arī krājumā esošo seniespiedumu, reto grāmatu, rokrakstu un citu kultūras pieminekļu restaurācijas un konservācijas kārtību.

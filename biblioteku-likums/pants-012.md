@@ -9,4 +9,4 @@
 7) tā sniedz konsultatīvu un metodisko palīdzību visām attiecīgās administratīvās teritorijas bibliotēkām un popularizē to darbu;
 8) tā veic depozītbibliotēkas funkcijas;
 9) tā nodrošina bibliotēku lietotājus ar valsts un attiecīgās administratīvās teritorijas pašvaldību institūciju sagatavoto un publicēto informāciju.
-(2) Novadu domes un republikas pilsētas dome, savstarpēji vienojoties un ņemot vērā Latvijas Bibliotēku padomes ieteikumus, izvirza vienu no attiecīgajā teritorijā esošajām bibliotēkām reģiona galvenās bibliotēkas statusam, nosakot tās uzdevumus un nodrošinot tās darbībai nepieciešamos finanšu līdzekļus.
+(2) Novadu domes un valstspilsētas dome, savstarpēji vienojoties un ņemot vērā Latvijas Bibliotēku padomes ieteikumus, izvirza vienu no attiecīgajā teritorijā esošajām bibliotēkām reģiona galvenās bibliotēkas statusam, nosakot tās uzdevumus un nodrošinot tās darbībai nepieciešamos finanšu līdzekļus.
