@@ -1,1 +1,0 @@
-59. Šā likuma 74.¹ pantā minētās tiesības akcionārs var izmantot, ja Komisijas administratīvais akts, kurā tā konstatē, ka personai saskaņā ar šā likuma 66. panta ceturtās daļas 1. punkta noteikumiem ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, izdots ne agrāk kā nākamajā dienā pēc 74.¹ panta spēkā stāšanās.

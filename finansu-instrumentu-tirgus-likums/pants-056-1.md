@@ -9,6 +9,6 @@
 7) akcionāru vienošanās, kas ir zināmas kapitālsabiedrībai un var radīt ierobežojumus akcionāriem piederošo akciju vai balsstiesību nodošanai citām personām, arī nosacījumus, kuri paredz šādas nodošanas iepriekšēju apstiprināšanu;
 8) noteikumus, kas reglamentē valdes locekļu ievēlēšanu, izmaiņas valdes sastāvā un statūtu grozīšanu;
 9) valdes locekļu pilnvaras, tai skaitā pilnvaras emitēt vai atpirkt akcijas;
-10) visas būtiskās vienošanās un līgumus, kurus noslēgusi mērķa sabiedrība un kuros paredzēts, ka kontroles veida maiņas gadījumā tie stājas spēkā, kuriem beidzas termiņš vai kuri tiek grozīti, un to spēkā stāšanās, izbeigšanās vai grozīšanas sekas. Ja šādas informācijas izpaušana nopietni kaitētu komercsabiedrībai, Komisija ir tiesīga pēc sabiedrības lūguma atļaut minēto informāciju neizpaust;
+10) visus tādus nozīmīgos līgumus un to būtību, kurus noslēgusi kapitālsabiedrība un kuri stājas spēkā, tiek grozīti vai izbeigti, ja akciju atpirkšanas piedāvājuma rezultātā mainās kontrole kapitālsabiedrībā. Ja informācijas izpaušana var kaitēt kapitālsabiedrībai, Komisija pēc kapitālsabiedrības lūguma var atļaut šādu informāciju nenorādīt;
 11) visas vienošanās starp kapitālsabiedrību un tās valdes locekļiem, kuras paredz kompensāciju gadījumos, kad viņi atkāpjas no amata, viņus atbrīvo bez pamatota iemesla vai viņi tiek atbrīvoti pēc akciju atpirkšanas piedāvājuma izteikšanas.
 (2) Par šā panta pirmajā daļā minēto informāciju valde sniedz ziņojumu arī kārtējā akcionāru sapulcē.

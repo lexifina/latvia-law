@@ -8,7 +8,7 @@
 (1¹) Komisijai ir tiesības par šā panta pirmās daļas ievaddaļā minētajiem pārkāpumiem piemērot administratīvu pasākumu - pieprasīt, lai par pārkāpumu atbildīgā persona nekavējoties izbeidz attiecīgo darbību un turpmāk atturas no šādas darbības atkārtošanas.
 (2) Par nepatiesas vai maldinošas regulētās informācijas izplatīšanu Komisijai ir tiesības emitentam vai personai, kas lūgusi pārvedamu vērtspapīru iekļaušanu regulētajā tirgū, izteikt brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
 (3) (Izslēgta no 03.07.2016. ar 26.05.2016. likumu, kas stājas spēkā 29.06.2016. Sk. Pārejas noteikumu 55.pantu)
-(4) Ja persona, kurai saskaņā ar šā likuma 66.panta noteikumiem ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, to noteiktajā kārtībā neizdara, Komisijai ir tiesības uzlikt personai soda naudu līdz 700 000 euro.
+(4) (Izslēgta ar 31.03.2022. likumu)
 (5) Par citiem šā likuma un saskaņā ar to izdoto normatīvo aktu pārkāpumiem Komisijai ir tiesības izteikt normatīvos aktus pārkāpušajai personai brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
 (6) (Izslēgta ar 08.11.2012. likumu)
 (7) (Izslēgta no 03.07.2016. ar 26.05.2016. likumu, kas stājas spēkā 29.06.2016. Sk. Pārejas noteikumu 55.pantu)

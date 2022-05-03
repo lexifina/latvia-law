@@ -1,2 +1,0 @@
-65. pants. Šīs nodaļas darbības joma
-Šīs nodaļas noteikumi par obligātā un brīvprātīgā akciju atpirkšanas piedāvājuma (turpmāk abi kopā - akciju atpirkšanas piedāvājums) un galīgās akciju atpirkšanas izpildi un obligātā akciju atpirkšanas piedāvājuma neizteikšanas sekām attiecas uz personām, kuras izsaka vai kurām ir pienākums izteikt mērķa sabiedrības akciju atpirkšanas piedāvājumu, un personām, kuras veic galīgo akciju atpirkšanu.

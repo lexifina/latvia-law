@@ -1,3 +1,3 @@
 61.pants. Paziņošanas pienākums, ņemot vērā balsstiesību īpatsvaru
 (1) Persona paziņo par savu balsstiesību īpatsvaru, kad akciju iegūšanas, atsavināšanas, pamatkapitāla palielināšanas vai samazināšanas vai kādu citu notikumu rezultātā tas sasniedz, pārsniedz vai kļūst mazāks par 5, 10, 15, 20, 25, 30, 50 vai 75 procentiem.
-(2) Ja akciju sabiedrībai Latvijas Republika ir izcelsmes dalībvalsts, persona paziņo arī par savu balsstiesību īpatsvaru, kad akciju iegūšanas, atsavināšanas, pamatkapitāla palielināšanas vai samazināšanas vai kādu citu notikumu rezultātā tas sasniedz, pārsniedz vai kļūst mazāks par 90 vai 95 procentiem.
+(2) Ja akciju sabiedrībai Latvijas Republika ir izcelsmes dalībvalsts, persona paziņo arī par savu balsstiesību īpatsvaru, kad akciju iegūšanas, atsavināšanas, pamatkapitāla palielināšanas vai samazināšanas vai kādu citu notikumu rezultātā tas sasniedz, pārsniedz vai kļūst mazāks par 90 procentiem.

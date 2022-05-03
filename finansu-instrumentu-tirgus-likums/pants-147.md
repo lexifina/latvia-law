@@ -2,7 +2,7 @@
 (1) Komisija informē Eiropas Komisiju par:
 1) licences izsniegšanu ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanai tādai ieguldījumu brokeru sabiedrībai, kura ir ārvalstī reģistrētas sabiedrības meitas sabiedrība;
 2) gadījumiem, kad, iegūstot būtisku līdzdalību, Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība kļūst par ārvalstī reģistrētas sabiedrības meitas sabiedrību;
-3) akciju atpirkšanas piedāvājumiem, kas izteikti par mērķa sabiedrībām, kuru akcijas ir laistas publiskajā apgrozībā Latvijā.
+3) (izslēgts ar 31.03.2022. likumu).
 (2) Šā panta pirmās daļas 1. un 2.punktā minētajos gadījumos Komisija nosūta Eiropas Komisijai arī informāciju par tā koncerna struktūru, kurā ietilpst attiecīgā ieguldījumu brokeru sabiedrība.
 (3) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, ko kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, sagatavo un izplata šajā likumā noteiktajā kārtībā, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.
 (4) Komisija informē Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi par:
