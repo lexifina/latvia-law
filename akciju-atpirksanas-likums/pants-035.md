@@ -1,0 +1,4 @@
+35. pants. Informācijas atklāšana par galīgās akciju atpirkšanas dokumentu saņemšanu
+(1) Pēc tam kad Komisijai ir iesniegti dokumenti, lai saņemtu atļauju veikt galīgo akciju atpirkšanu, tā ne vēlāk kā nākamajā darbdienā ievieto savā tīmekļvietnē un paziņo regulētā tirgus organizētājam un sabiedrībai šā likuma 22. panta 1., 2., 11. un 13. punktā minēto informāciju.
+(2) Sabiedrība šā panta pirmajā daļā minēto informāciju nekavējoties nosūta oficiālajai regulētās informācijas centralizētās glabāšanas sistēmai. Ja galīgā akciju atpirkšana attiecas uz regulētajā tirgū neiekļautām akcijām, sabiedrība nekavējoties veidā, kāds paredzēts paziņošanai par akcionāru sapulces sasaukšanu, pārsūta šā panta pirmajā daļā minēto informāciju akcionāriem, kuriem pieder regulētajā tirgū neiekļautās akcijas.
+(3) Regulētā tirgus organizētājs šā panta pirmajā daļā minēto informāciju nekavējoties ievieto savā tīmekļvietnē.

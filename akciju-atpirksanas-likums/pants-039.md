@@ -1,0 +1,5 @@
+39. pants. Akciju atsavināšana par labu personai, kas veic galīgo akciju atpirkšanu
+(1) Nākamajā darbdienā pēc galīgās akciju atpirkšanas ieraksta datuma persona, kas veic galīgo akciju atpirkšanu, centrālā vērtspapīru depozitārija naudas kontā ieskaita akciju atpirkšanai nepieciešamos finanšu līdzekļus.
+(2) Regulētajā tirgū iekļauto akciju atpirkšanu veic atbilstoši kārtībai, kādu noteicis centrālais vērtspapīru depozitārijs.
+(3) Atlīdzību tiem akcionāriem, kuru akcijas galīgās akciju atpirkšanas ieraksta datuma norēķinu dienas beigās atrodas centrālā vērtspapīru depozitārija sākotnējā reģistrā, ieskaita centrālā vērtspapīru depozitārija sākotnējā reģistra naudas kontā.
+(4) To akciju apmaksu, kuras nav iekļautas regulētajā tirgū, veic atbilstoši prospektā noteiktajai kārtībai. Grozījumus sabiedrības akcionāru reģistrā veic pēc galīgās akciju atpirkšanas noslēgšanās, pamatojoties uz dokumentiem, kas apliecina akciju apmaksu. Galīgā akciju atpirkšana noslēdzas, kad piedāvātājs ir veicis norēķinus par iegūtajām akcijām.

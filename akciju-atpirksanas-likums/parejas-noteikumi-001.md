@@ -1,0 +1,1 @@
+1. Ja persona vai personas, kuras rīkojas saskaņoti, iegūst 30 procentus no sabiedrības akcijām mantošanas rezultātā līdz šā likuma spēkā stāšanās dienai, obligāto piedāvājumu var neizteikt divus gadus no dienas, kad mantotās akcijas iegrāmatotas finanšu instrumentu kontā vai reģistrētas akcionāru reģistrā.

@@ -1,0 +1,5 @@
+45. pants. Komisijas lēmuma apstrīdēšana un pārsūdzēšana
+(1) Komisijas lēmumu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
+(2) Šā likuma 25. panta pirmajā daļā minētā Komisijas lēmuma par atļauju vai atteikumu izteikt piedāvājumu apstrīdēšana vai pārsūdzēšana neaptur šā lēmuma darbību.
+(3) Informāciju par Komisijas lēmuma pārsūdzēšanu tā nekavējoties ievieto savā tīmekļvietnē un nosūta sabiedrībai, regulētā tirgus organizētājam, kā arī centrālajam vērtspapīru depozitārijam, ja lēmuma pārsūdzēšana attiecas uz jau izteiktu piedāvājumu.
+(4) Šā panta trešajā daļā minēto informāciju regulētā tirgus organizētājs nekavējoties ievieto savā tīmekļvietnē, sabiedrība nekavējoties nosūta oficiālajai regulētās informācijas centralizētās glabāšanas sistēmai, bet centrālais vērtspapīru depozitārijs nekavējoties nosūta visiem centrālā vērtspapīru depozitārija dalībniekiem, kuru kontos centrālajā vērtspapīru depozitārijā ir iegrāmatotas sabiedrības akcijas.

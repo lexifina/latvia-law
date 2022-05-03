@@ -1,0 +1,1 @@
+3. Šā likuma 12. pantā minētās tiesības akcionārs var izmantot, ja Komisijas lēmums, kurā tā konstatē, ka personai saskaņā ar šā likuma 4. panta pirmajā daļā noteikto ir pienākums izteikt obligāto akciju atpirkšanas piedāvājumu, izdots ne agrāk kā 2017. gada 4. oktobrī.

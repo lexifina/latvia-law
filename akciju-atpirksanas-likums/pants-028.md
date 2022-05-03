@@ -1,0 +1,4 @@
+28. pants. Sabiedrības viedoklis par piedāvājumu
+(1) Sabiedrības valde 10 dienu laikā pēc tam, kad regulētā tirgus organizētāja tīmekļvietnē publicēts prospekts par piedāvājuma izteikšanu, nosūta oficiālajai regulētās informācijas centralizētās glabāšanas sistēmai un regulētā tirgus organizētājam viedokli par piedāvājumu, īpaši skaidrojot piedāvājuma ietekmi uz šā likuma 22. panta 16. un 17. punktā noteikto. Regulētā tirgus organizētājs informāciju par sabiedrības valdes viedokli ievieto savā tīmekļvietnē.
+(2) Sabiedrības valde pirms sava viedokļa publiskošanas noskaidro sabiedrības darbinieku vai viņu pārstāvju viedokli par piedāvājuma iespējamo ietekmi uz nodarbinātību.
+(3) Ja sabiedrības darbinieki vai viņu pārstāvji līdz valdes viedokļa publiskošanai iesniedz atsevišķu viedokli, sabiedrības valde šo viedokli pievieno savam sagatavotajam viedoklim.

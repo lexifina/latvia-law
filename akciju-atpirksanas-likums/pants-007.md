@@ -1,0 +1,6 @@
+7. pants. Ierobežojumi piedāvājuma noteikumu neievērošanas gadījumā
+(1) Ja personai vai personām, kuras rīkojas saskaņoti, atbilstoši šā likuma 4. pantā noteiktajam iestājies pienākums izteikt obligāto piedāvājumu, tās nevar izmantot tieši vai netieši iegūtās balsstiesības, ja šajā nodaļā paredzētajā kārtībā neizsaka obligāto piedāvājumu.
+(2) Akcionāru sapulcē kopējo lemttiesīgo akciju skaitu aprēķina, no visu balsstiesīgo akciju skaita atņemot to akciju skaitu, no kurām izrietošo balsstiesību izmantošana ir aizliegta.
+(3) Akcionāru sapulces lēmums, kas pieņemts, izmantojot balsstiesības pretēji šā panta pirmajā daļā noteiktajam, nav spēkā, un uz šāda lēmuma pamata nedrīkst lūgt izdarīt ierakstus publiskajos reģistros.
+(4) Tiesa, izskatot lietu par akcionāru sapulces lēmuma atzīšanu par spēkā neesošu, pieaicina piedalīties Komisiju, lai tā atbilstoši kompetencei sniegtu atzinumu lietā un aizstāvētu akcionāru tiesības.
+(5) Šā panta pirmajā daļā minēto balsstiesību izmantošanu persona var atsākt pēc piedāvājuma noslēgšanās vai balsstiesību daudzuma samazināšanas zem šā likuma 4. panta pirmajā daļā noteiktā sliekšņa. Par piedāvājuma noslēgšanos uzskata brīdi, kad piedāvātājs veicis norēķinus par iegūtajām akcijām.

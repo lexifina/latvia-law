@@ -1,0 +1,6 @@
+12. pants. Citas akcijas atpirkšanas cenas apstiprināšana
+(1) Komisija pēc piedāvātāja lūguma obligātajā piedāvājumā var apstiprināt akcijas atpirkšanas cenu, kas atšķiras no atbilstoši šā likuma 9. pantam noteiktās cenas, ja iestājies kāds no šādiem apstākļiem:
+1) nevienu no šā likuma 9. pantā minētajām akcijas atpirkšanas cenas noteikšanas metodēm nevar piemērot;
+2) pastāv no piedāvātāja rīcības neatkarīgi ārkārtas apstākļi, kas atstājuši ilgtermiņa ietekmi uz sabiedrības akcijas vērtību, un akcijas atpirkšanas cena, kas noteikta atbilstoši šā likuma 9. pantam, neatbilst šā likuma 8. panta pirmajā daļā paredzētajam.
+(2) Šā panta pirmajā daļā minētajā gadījumā piedāvātājs iesniedz Komisijai neatkarīga eksperta sagatavotu akcijas vērtības aprēķinu atbilstoši Starptautiskās vērtēšanas standartu padomes apstiprinātiem starptautiskajiem vērtēšanas standartiem. Šā panta pirmās daļas 2. punktā minētajā gadījumā piedāvātājs Komisijai papildus iesniedz pierādījumus par ārkārtas apstākļiem, kuru dēļ akciju atpirkšanas cenu nosaka, neievērojot šā likuma 9. pantā ietvertos akcijas cenas noteikšanas principus.
+(3) Ja Komisija secina, ka nepastāv šā panta pirmajā daļā minētie apstākļi citas akcijas cenas apstiprināšanai, Komisija rīkojas atbilstoši šā likuma 25. panta otrajā daļā noteiktajam.

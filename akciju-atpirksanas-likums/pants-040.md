@@ -1,0 +1,8 @@
+40. pants. Akcionāra pieprasījums kontrolējošai personai atpirkt akcijas
+(1) Ja persona tieši vai netieši ieguvusi vismaz 90 procentus no sabiedrības balsstiesībām, katrs no pārējiem sabiedrības akcionāriem var prasīt, lai šī persona atpērk tam piederošās akcijas.
+(2) Ja akcionārs prasa akciju atpirkšanu triju mēnešu laikā no šā likuma 17. pantā minētā piedāvājuma termiņa beigām, akcijas atpirkšanas cenu nosaka atbilstoši šā likuma 33. panta otrajā un trešajā daļā noteiktajam. Citos gadījumos akcijas atpirkšanas cena nedrīkst būt zemāka par šā likuma 9. panta pirmajā daļā noteikto augstāko darījuma cenu, šā likuma 10. pantā noteikto akcijas vidējo svērto cenu un šā likuma 11. pantā noteikto akcijas bilances vērtību. Akcijas cenu nosaka atbilstoši šā likuma 8. panta pirmajā daļā, 9. panta ceturtajā daļā un 10. un 11. pantā noteiktajam. Akcijas cenas noteikšanas periodu rēķina no pieprasījuma izteikšanas dienas.
+(3) Ja persona nav Finanšu instrumentu tirgus likumā noteiktajā kārtībā paziņojusi par 90 procentu balsstiesību iegūšanu, sabiedrības akcionāri var prasīt akciju atpirkšanu par cenu, kas bija augstākā periodā, kad tikusi kavēta paziņojuma par 90 procentu balsstiesību iegūšanu iesniegšana.
+(4) Šajā pantā minētās tiesības akcionārs nevar īstenot, ja:
+1) sabiedrībai uzsākts tiesiskās aizsardzības process vai pasludināts maksātnespējas process;
+2) vismaz 90 procenti no sabiedrības balsstiesībām tieši vai netieši iegūti brīdī, kad sabiedrības akcijas tiek iekļautas regulētajā tirgū.
+(5) Šā panta pirmajā daļā minētā persona norēķinus ar akcionāru veic mēneša laikā no pieprasījuma saņemšanas dienas.
