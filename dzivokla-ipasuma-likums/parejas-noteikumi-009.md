@@ -1,0 +1,1 @@
+9. No 2022. gada 1. maija pilnvarojuma dokumentus, kas iesniegti Būvniecības informācijas sistēmā, papildus apliecina ar pamatdarbības informācijas sistēmas izveidotu kvalificētu elektronisko zīmogu regulas Nr. 910/2014 3. panta 27. punkta izpratnē un laika zīmogu regulas Nr. 910/2014 3. panta 33. punkta izpratnē.

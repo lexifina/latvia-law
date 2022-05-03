@@ -1,0 +1,2 @@
+20.¹ pants. Dzīvokļu īpašnieku kopības lēmumu pieņemšanas procesā nepieciešamie dzīvokļu īpašnieku dati
+Dzīvokļa īpašnieku identificējošos datus (fiziskajai personai - vārdu, uzvārdu, personas kodu; juridiskajai personai - nosaukumu, reģistrācijas numuru), kā arī datus par dzīvokļa īpašniekam piederošā dzīvokļa īpašuma atsevišķā īpašuma adresi un domājamām daļām un kadastra numuru dzīvokļu īpašnieku kopības lēmumu pieņemšanai Būvniecības informācijas sistēmā nodrošina bez maksas, izmantojot valsts informācijas sistēmas.
