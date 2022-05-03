@@ -1,0 +1,2 @@
+13.¹ pants. Militārās agresijas un kara noziegumu slavinošu simbolu izmantošana publiskā vietā
+Par militārās agresijas un kara noziegumu slavinošu simbolu izmantošanu publiskā vietā, izņemot gadījumus, kad nav mērķa šos noziegumus attaisnot vai slavināt, piemēro brīdinājumu vai naudas sodu fiziskajai personai līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai - līdz piecsimt astoņdesmit naudas soda vienībām.
