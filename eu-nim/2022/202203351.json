@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 31. marta likums \"Grozījumi Finanšu instrumentu tirgus likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2022/75A.7",
+  "official_journal_page": null,
+  "official_journal_date": "2022-04-19",
+  "entry_into_force": "2022-05-03",
+  "notification_date": "2022-05-26",
+  "commission_reference": "MNE(2022)03351",
+  "nim_celex": "72021L0338LVA_202203351",
+  "nim_id": "202203351",
+  "transposes_celex": [
+    "32021L0338"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fad2b1bc-e045-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
