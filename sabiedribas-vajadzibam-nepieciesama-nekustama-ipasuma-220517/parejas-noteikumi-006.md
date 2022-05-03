@@ -1,0 +1,1 @@
+6. Šā likuma 22. panta ceturtajā daļā minēto atlīdzības daļu institūcija izmaksā arī gadījumos, kad nekustamais īpašums sabiedrības vajadzībām jau ir atsavināts un nekustamā īpašuma, kura atsavināšana ir uzsākta pēc 2017. gada 1. jūlija, bijušais īpašnieks ir iesniedzis institūcijai iesniegumu par šīs atlīdzības daļas izmaksu.

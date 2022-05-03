@@ -1,0 +1,1 @@
+39. pants. Ja sabiedrības vajadzībām nepieciešama zeme, uz kuru tiesības persona ieguvusi zemes reformas ietvaros un kura zemesgrāmatā vēl nav ierakstīta, institūcija to atsavina, ievērojot šā likuma I, II, III, IV un V nodaļā noteikto, ciktāl šajā nodaļā nav noteikts citādi.

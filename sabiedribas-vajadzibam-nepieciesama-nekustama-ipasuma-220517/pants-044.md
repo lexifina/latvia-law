@@ -1,0 +1,1 @@
+44. pants. Atlīdzību šā likuma 41. pantā minētajos gadījumos veido sabiedrības vajadzībām nepieciešamās zemes tirgus vērtība un zaudējumu atlīdzība par atlikušās zemes daļas vērtības samazinājumu un izmaiņām tās lietošanā.

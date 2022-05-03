@@ -1,0 +1,1 @@
+46. pants. Ja institūcija konstatē, ka zemes lietotājs vai tiesiskais valdītājs ir miris, tā rīkojas, ievērojot šā likuma 17.¹ pantā noteikto kārtību, kā arī šajā nodaļā minēto, un ieraksta sabiedrības vajadzībām nepieciešamo zemi zemesgrāmatā uz valsts vai pašvaldības vārda.
