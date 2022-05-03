@@ -1,0 +1,1 @@
+28. Lai iegūtu piekļuves tiesības katrai mājas lietai Būvniecības informācijas sistēmā, pārvaldnieks, kas dzīvojamo māju pārvalda uz pārvaldīšanas līguma pamata, līdz 2023. gada 28. februārim iesniedz reģistra amatpersonai noslēgto pārvaldīšanas līgumu vai apliecinājumu, ka pārvaldnieku reģistrā esošā informācija ir aktuāla.

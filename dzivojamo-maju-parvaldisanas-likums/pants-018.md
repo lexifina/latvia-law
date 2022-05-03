@@ -4,3 +4,4 @@
 (3) Pārvaldnieku reģistrā nav jāreģistrējas viendzīvokļa mājas pārvaldītājam, kā arī daudzdzīvokļu mājas īpašniekam, kas atbilstoši šā likuma noteikumiem pats pārvalda sev piederošu dzīvojamo māju, kuras kopējā platība ir mazāka par 1500 kvadrātmetriem.
 (4) Ikvienam ir tiesības iepazīties ar reģistra ierakstiem un reģistram iesniegtajiem dokumentiem.
 (5) Reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamos dokumentus un to iesniegšanas termiņus, pakalpojumu veidus, kā arī par reģistra vešanu atbildīgo amatpersonu nosaka Ministru kabinets.
+(6) Reģistram iesniedzamie iesniegumi parakstāmi, izmantojot elektroniskajā pakalpojumā pieejamos elektroniskās identifikācijas un parakstīšanas rīkus.

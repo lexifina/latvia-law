@@ -9,12 +9,13 @@ b) siltumenerģijas, arī dabasgāzes, piegāde, ūdensapgādes un kanalizācija
 c) elektroenerģijas nodrošināšana dzīvojamās mājas kopīpašumā esošajai daļai (arī kopīpašumā esošo iekārtu darbības nodrošināšanai),
 d) dzīvojamās mājas, tajā esošo iekārtu un komunikāciju apsekošana, tehniskā apkope un kārtējais remonts,
 e) dzīvojamai mājai kā vides objektam izvirzīto prasību izpildes nodrošināšana,
-f) dzīvojamās mājas energoefektivitātes uzlabošanas pasākumu nodrošināšana;
+f) dzīvojamās mājas energoefektivitātes uzlabošanas pasākumu nodrošināšana,
+g) ugunsdrošības prasību izpildes nodrošināšana;
 2) pārvaldīšanas darba plānošana, organizēšana un pārraudzība, tajā skaitā:
 a) pārvaldīšanas darba plāna, tajā skaitā uzturēšanai nepieciešamo pasākumu plāna, sagatavošana,
 b) attiecīgā gada budžeta projekta sagatavošana,
 c) finanšu uzskaites organizēšana;
-3) dzīvojamās mājas lietas (turpmāk - mājas lieta) vešana;
+3) dzīvojamās mājas lietas (turpmāk - mājas lieta) kārtošana;
 4) nodrošināt zemes gabala uzturēšanu atbilstoši normatīvo aktu prasībām, ja dzīvojamā māja atrodas uz citai personai piederošas zemes;
 5) informācijas sniegšana valsts un pašvaldību institūcijām.
 (3) Citas pārvaldīšanas darbības ir darbības, kas saistītas ar dzīvojamās mājas pārvaldīšanu un tiek veiktas atbilstoši dzīvojamās mājas īpašnieka gribai un maksātspējai. Pie tām pieder ar dzīvojamās mājas uzlabošanu un attīstīšanu un šim nolūkam nepieciešamo pasākumu ilgtermiņa plāna sagatavošanu saistītās darbības.
