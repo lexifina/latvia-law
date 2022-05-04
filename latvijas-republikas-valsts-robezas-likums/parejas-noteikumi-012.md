@@ -1,0 +1,1 @@
+12. Šā likuma 9.³ pants stājas spēkā pēc tam, kad ieceļošanas un izceļošanas sistēma uzsāk darbību atbilstoši regulas Nr. 2017/2226 66. pantam. Iekšlietu ministrija pēc tam, kad Eiropas Komisija pieņēmusi lēmumu par ieceļošanas un izceļošanas sistēmas darbības uzsākšanu, nosūta attiecīgu paziņojumu publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis".
