@@ -1,0 +1,4 @@
+6. pants. Kolektīvās finansēšanas pakalpojumu sniedzēja darbības atļaujas izsniegšanas un atteikuma kārtība
+(1) Komisija ar lēmumu piešķir vai atsakās piešķirt kolektīvās finansēšanas pakalpojumu sniedzēja darbības atļauju Regulā Nr. 2020/1503 noteiktajā kārtībā un termiņā.
+(2) Komisijai, izskatot kolektīvās finansēšanas pakalpojumu sniedzēja darbības atļaujas saņemšanai iesniegtos dokumentus un informāciju, ir tiesības pieprasīt, lai kolektīvās finansēšanas pakalpojumu sniedzējs izdara tajos labojumus vai iesniedz papildu dokumentus un informāciju, kas Komisijai nepieciešama, lai tā varētu pārliecināties par kolektīvās finansēšanas pakalpojumu sniedzēja pārdomātu un piesardzīgu darbību, kā arī šajā likumā, Regulā Nr. 2020/1503 un citos Eiropas Savienības tieši piemērojamos tiesību aktos kolektīvās finansēšanas pakalpojumu jomā noteikto prasību izpildi.
+(3) Ja Komisija pieņem šā panta pirmajā daļā minēto lēmumu, šā lēmuma pārsūdzēšana neaptur tā darbību.
