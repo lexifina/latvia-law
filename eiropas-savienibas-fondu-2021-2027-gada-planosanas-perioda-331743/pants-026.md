@@ -1,0 +1,5 @@
+26. pants. Lēmums par aizliegumu uz laiku piedalīties projektu iesniegumu atlasē
+Sadarbības iestāde ir tiesīga pieņemt lēmumu, ar kuru nosaka aizliegumu fiziskajai vai juridiskajai personai vai personai, kura ir attiecīgās juridiskās personas valdes vai padomes loceklis vai prokūrists, vai persona, kura ir pilnvarota pārstāvēt projekta iesniedzēju ar filiāli saistītās darbībās, piedalīties projektu iesniegumu atlasē uz laiku, kas nepārsniedz trīs gadus no lēmuma spēkā stāšanās dienas, ja šī persona:
+1) apzināti sniegusi nepatiesu informāciju, kas ir būtiska projekta iesnieguma novērtēšanai;
+2) īstenojot projektu, apzināti sniegusi sadarbības iestādei nepatiesu informāciju vai citādi ļaunprātīgi rīkojusies saistībā ar projekta īstenošanu, kas bijis par pamatu neatbilstoši veikto izdevumu ieturēšanai vai atgūšanai, un sadarbības iestāde ir izmantojusi tiesības vienpusēji atkāpties no līguma par projekta īstenošanu;
+3) radījusi mākslīgus apstākļus vai apzināti sniegusi faktiskajiem apstākļiem būtiski neatbilstošu informāciju, lai gūtu priekšrocības salīdzinājumā ar citiem projektu iesniedzējiem vai lai sadarbības iestāde pieņemtu tai labvēlīgu lēmumu.

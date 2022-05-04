@@ -1,0 +1,4 @@
+3. pants. Likuma darbības joma
+(1) Likums nosaka Eiropas Savienības fondu vadībā iesaistīto institūciju un finansējuma saņēmēja tiesības un pienākumus, iesaistīto institūciju lēmumu pieņemšanas, apstrīdēšanas un pārsūdzēšanas kārtību, kā arī nosacījumus Eiropas Savienības fondu finansējuma piešķiršanai un valsts budžeta līdzfinansējuma likmes apmēru.
+(2) Šā likuma III nodaļa neattiecas uz finanšu instrumentiem. Citus šā likuma noteikumus, īstenojot finanšu instrumentus, piemēro, ciktāl regula Nr. 2021/1060 nenosaka citādi.
+(3) Vides aizsardzības un reģionālās attīstības ministrija kā attiecīgās nozares ministrija nodrošina metodisko vadību ieguldījumu plānošanai un veikšanai teritoriju attīstībā un teritoriālo rīku izmantošanas koordināciju, kā arī uzrauga un novērtē šos ieguldījumus teritorijās.

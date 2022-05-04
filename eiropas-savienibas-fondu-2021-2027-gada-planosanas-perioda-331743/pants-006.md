@@ -1,0 +1,2 @@
+6. pants. Valsts budžeta līdzfinansējuma likme
+Valsts budžeta līdzfinansējuma likme, apstiprinot projektu, nav augstāka par minimāli nepieciešamo, ar kuru var nodrošināt specifiskā atbalsta mērķa īstenošanas nosacījumos noteikto nacionālā līdzfinansējuma likmi, ja valsts budžeta līdzfinansējums paredzēts minētajos specifiskā atbalsta mērķa īstenošanas nosacījumos. Valsts budžeta līdzfinansējuma maksimālo apmēru, apstiprinot projektu, rēķina pret projekta kopējiem attiecināmajiem izdevumiem.

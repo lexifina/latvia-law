@@ -1,0 +1,18 @@
+22. pants. Projekta iesniedzēja izslēgšanas noteikumi
+(1) Sadarbības iestāde noraida projekta iesniegumu, ja uz projekta iesniedzēju - fizisko vai juridisko personu - attiecināms jebkurš no šādiem gadījumiem:
+1) projekta iesniedzējs vai persona, kura ir projekta iesniedzēja valdes vai padomes loceklis vai prokūrists, vai persona, kura ir pilnvarota pārstāvēt projekta iesniedzēju ar filiāli saistītās darbībās, ar tādu prokurora priekšrakstu par sodu vai tiesas spriedumu, kas stājies spēkā un kļuvis neapstrīdams un nepārsūdzams, ir atzīta par vainīgu jebkurā no šādiem noziedzīgiem nodarījumiem:
+a) noziedzīgas organizācijas izveidošana, vadīšana, iesaistīšanās tajā vai tās sastāvā ietilpstošā organizētā grupā vai citā noziedzīgā formējumā vai piedalīšanās šādas organizācijas izdarītos noziedzīgos nodarījumos,
+b) kukuļņemšana, kukuļdošana, kukuļa piesavināšanās, starpniecība kukuļošanā, neatļauta labuma pieņemšana vai komerciāla uzpirkšana, prettiesiska labuma pieprasīšana, pieņemšana vai došana, tirgošanās ar ietekmi,
+c) krāpšana, piesavināšanās vai noziedzīgi iegūtu līdzekļu legalizēšana,
+d) izvairīšanās no nodokļu un tiem pielīdzināto maksājumu samaksas,
+e) terorisms, terorisma finansēšana, teroristu grupas izveide vai organizēšana, ceļošana terorisma nolūkā, terorisma attaisnošana, aicinājums uz terorismu, terorisma draudi vai personas vervēšana un apmācība terora aktu veikšanai,
+f) cilvēku tirdzniecība;
+2) projekta iesniedzējs ar tādu attiecīgā jomā kompetentas institūcijas lēmumu, prokurora priekšrakstu par sodu vai tiesas spriedumu, kas stājies spēkā un kļuvis neapstrīdams un nepārsūdzams, ir atzīts par vainīgu un sodīts par pārkāpumu, kas izpaužas kā:
+a) vienas vai vairāku personu nodarbināšana, ja tām nav nepieciešamās darba atļaujas vai ja tās nav tiesīgas uzturēties Eiropas Savienības dalībvalstī,
+b) personas nodarbināšana bez rakstveidā noslēgta darba līguma, nodokļu normatīvajos aktos noteiktajā termiņā neiesniedzot par šo personu informatīvo deklarāciju par darbiniekiem, kas iesniedzama par personām, kuras uzsāk darbu;
+3) projekta iesniedzējs ar tādu attiecīgā jomā kompetentas institūcijas lēmumu vai tiesas spriedumu, kas stājies spēkā un kļuvis neapstrīdams un nepārsūdzams, ir atzīts par vainīgu konkurences tiesību pārkāpumā, kas izpaužas kā vertikālā vienošanās, kuras mērķis ir ierobežot pircēja iespēju noteikt tālākpārdošanas cenu, vai horizontālā karteļa vienošanās, izņemot gadījumu, kad attiecīgā institūcija, konstatējot konkurences tiesību pārkāpumu, par sadarbību iecietības programmas ietvaros projekta iesniedzēju ir atbrīvojusi no naudas soda vai naudas sodu samazinājusi;
+4) ir pasludināts projekta iesniedzēja maksātnespējas process, ierosināta tiesiskās aizsardzības procesa lieta vai tiek īstenots tiesiskās aizsardzības process, apturēta vai pārtraukta projekta iesniedzēja saimnieciskā darbība vai projekta iesniedzējs tiek likvidēts;
+5) stājies spēkā šā likuma 26. pantā minētais sadarbības iestādes lēmums par aizliegumu dalībai projektu iesniegumu atlasē.
+(2) Sadarbības iestāde neizslēdz projekta iesniedzēju no dalības projektu iesniegumu atlasē, ja no dienas, kad kļuvis neapstrīdams un nepārsūdzams:
+1) tiesas spriedums, prokurora priekšraksts par sodu vai citas kompetentas institūcijas pieņemtais lēmums saistībā ar šā panta pirmās daļas 1. punktā un 2. punkta "a" apakšpunktā minētajiem pārkāpumiem, līdz projekta iesnieguma iesniegšanas dienai ir pagājuši trīs gadi;
+2) tiesas spriedums vai citas attiecīgā jomā kompetentas institūcijas pieņemtais lēmums saistībā ar šā panta pirmās daļas 2. punkta "b" apakšpunktā un 3. punktā minētajiem pārkāpumiem, līdz projekta iesnieguma iesniegšanas dienai ir pagājuši 12 mēneši.

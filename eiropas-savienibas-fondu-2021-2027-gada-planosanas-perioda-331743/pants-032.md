@@ -1,0 +1,2 @@
+32. pants. Termiņš, kādā var sniegt iebildumus strīdā par piešķirtajiem finanšu līdzekļiem
+Ja strīds attiecas uz piešķirto finanšu līdzekļu izmaksāšanu, izmaksāšanas turpināšanu vai atgūšanu, finansējuma saņēmējs iebildumus var iesniegt sadarbības iestādē vai - šā likuma 31. pantā minētajā gadījumā - vadošajā iestādē viena mēneša laikā no sadarbības iestādes lēmuma spēkā stāšanās. Pēc finansējuma saņēmēja motivēta lūguma vai citu objektīvu apstākļu dēļ sadarbības iestāde var minēto termiņu pagarināt.

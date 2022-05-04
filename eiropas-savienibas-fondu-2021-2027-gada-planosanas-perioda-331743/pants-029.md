@@ -1,0 +1,2 @@
+29. pants. Projekta iesnieguma precizēšana
+Atklātas projektu iesniegumu atlases ietvaros projekta iesniegums pēc iesniegšanas līdz lēmuma pieņemšanai par tā apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu nav precizējams. Ierobežotas projektu iesniegumu atlases ietvaros sadarbības iestāde saskaņā ar sadarbības iestādes noteiktu kārtību nodrošina konsultatīvo atbalstu projekta iesnieguma sagatavošanā, nemainot projekta iesnieguma būtību.
