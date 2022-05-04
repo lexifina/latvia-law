@@ -1,6 +1,7 @@
 6.pants
 Par noziedzīga nodarījuma izdarīšanā aizdomās turēto personu reģistrā papildus šā likuma 4. un 5.pantā minētajām ziņām iekļaujamas šādas ziņas:
 1) datums, kad persona atzīta par aizdomās turēto, kā arī tās iestādes nosaukums, kura pieņēmusi lēmumu par personas atzīšanu par aizdomās turēto;
+1¹) Krimināllikuma pants, daļa un punkts, uz kuru pamatojoties persona atzīta par aizdomās turēto;
 2) datums, kad atcelts lēmums par personas atzīšanu par aizdomās turēto, un tās iestādes nosaukums, kura minēto lēmumu pieņēmusi;
 3) drošības līdzekļa veids, tā piemērošanas, grozīšanas vai atcelšanas datums un tās iestādes nosaukums, kura attiecīgo lēmumu pieņēmusi;
 4) ja drošības līdzeklis nav saistīts ar brīvības atņemšanu, ar tā piemērošanu saistītās ziņas:
@@ -12,7 +13,10 @@ e) dzīvesvietas vai pagaidu uzturēšanās vietas adrese, ja piemērots drošī
 f) pastāvīgās dzīvesvietas vai pagaidu uzturēšanās vietas adrese, kuru aizliegts mainīt, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
 g) tās personas dati, ar kuru aizliegts tikties, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
 h) vietas vai iestādes (veids vai adrese), kuras aizliegts apmeklēt, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
-i) diennakts laiks, kurā jāatrodas savā dzīvesvietā, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā;
+i) diennakts laiks, kurā jāatrodas savā dzīvesvietā, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
+j) Valsts policijas struktūrvienība, kuras lietvedībā atrodas personas uzraudzības lieta, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
+k) datums, no kura persona atrodas uzraudzībā Valsts policijas struktūrvienībā, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā,
+l) datums, līdz kuram persona atrodas uzraudzībā Valsts policijas struktūrvienībā, ja piemērots drošības līdzeklis - nodošana policijas uzraudzībā;
 5) ziņas par tāda drošības līdzekļa piemērošanu, kas saistīts ar brīvības atņemšanu:
 a) datums, kad persona ievietota vai pārvietota ieslodzījuma vietā, kā arī tās ieslodzījuma vietas nosaukums, kurā persona ievietota vai uz kuru pārvietota,
 b) tās iestādes nosaukums, kura pieņēmusi lēmumu par personas atbrīvošanu no ieslodzījuma vietas,

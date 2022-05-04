@@ -8,8 +8,8 @@
 6) Valsts kase;
 7) Pilsonības un migrācijas lietu pārvalde;
 8) Valsts prezidenta kanceleja;
-9) institūcijas vai amatpersonas, kuras sastāda protokolu par administratīvo pārkāpumu;
-10) institūcijas vai amatpersonas, kuras ir tiesīgas izskatīt administratīvo pārkāpumu lietas;
+9) (izslēgts ar 21.04.2022. likumu);
+10) institūcijas vai amatpersonas, kuras ir tiesīgas veikt administratīvā pārkāpuma procesu;
 11) citas valsts un pašvaldību iestādes, kuru rīcībā ir reģistra veidošanai nepieciešamā informācija.
 (2) Šā panta pirmajā daļā minētās iestādes ir atbildīgas par ziņu savlaicīgu sniegšanu reģistram un šo ziņu atbilstību apliecinošiem dokumentiem, ja tādi ir.
 (3) Ministru kabinets nosaka kārtību un apjomu, kādā šā panta pirmajā daļā minētās iestādes sniedz ziņas Iekšlietu ministrijas Informācijas centram.

@@ -1,0 +1,1 @@
+9. Grozījumi šā likuma 16. panta pirmajā un otrajā daļā un IV nodaļas nosaukumā, šā likuma 17. panta pirmās, otrās un trešās daļas un 19. panta pirmās daļas 8. punkta jaunā redakcija, kā arī šā likuma 19. panta 2.¹ daļa un 21.¹ pants stājas spēkā 2022. gada 28. jūnijā.

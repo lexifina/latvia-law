@@ -1,8 +1,8 @@
 11.pants
-Par juridisko personu, kurai piemērots piespiedu ietekmēšanas līdzeklis, reģistrā iekļaujamas šādas ziņas:
-1) nosaukums;
-2) reģistrācijas numurs;
-3) juridiskā adrese;
+Par juridisko personu, kurai piemērots piespiedu ietekmēšanas līdzeklis, papildus šā likuma 8.¹ pantā minētajām ziņām reģistrā iekļaujamas šādas ziņas:
+1) (izslēgts ar 21.04.2022. likumu);
+2) (izslēgts ar 21.04.2022. likumu);
+3) (izslēgts ar 21.04.2022. likumu);
 4) datums, kad pasludināts tiesas nolēmums, kas stājies spēkā, un tās tiesas nosaukums, kura attiecīgo tiesas nolēmumu pasludinājusi;
 5) datums, kad sastādīts prokurora priekšraksts par piespiedu ietekmēšanas līdzekli, kas stājies spēkā, un tās prokuratūras struktūrvienības nosaukums, kura sastādījusi prokurora priekšrakstu par piespiedu ietekmēšanas līdzekli;
 6) Krimināllikuma pants, daļa un punkts, uz kura pamata juridiskajai personai piespiedu ietekmēšanas līdzeklis piemērots;

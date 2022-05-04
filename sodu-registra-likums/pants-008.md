@@ -1,4 +1,4 @@
-8.pants
-Par personu, pret kuru notiek process medicīniska rakstura piespiedu līdzekļa noteikšanai, reģistrā papildus šā likuma 4., 5., 6. un 7.pantā minētajām ziņām iekļaujamas šādas ziņas:
-1) datums, kad pieņemts lēmums turpināt procesu medicīniska rakstura piespiedu līdzekļa noteikšanai, tās iestādes nosaukums, kura attiecīgo lēmumu pieņēmusi, tās prokuratūras struktūrvienības nosaukums, kurai krimināllietas materiāli nodoti;
-2) datums, kad pieņemts lēmums par krimināllietas nodošanu tiesai medicīniska rakstura piespiedu līdzekļa noteikšanai, tās prokuratūras struktūrvienības nosaukums, kura minēto lēmumu pieņēmusi, tās tiesas nosaukums, kurai krimināllieta nodota.
+8. pants
+Par personu, pret kuru notiek process medicīniska rakstura piespiedu līdzekļa noteikšanai, reģistrā papildus šā likuma 4., 5., 6. un 7. pantā minētajām ziņām iekļaujamas šādas ziņas:
+1) datums, kad pieņemts lēmums turpināt procesu medicīniska rakstura piespiedu līdzekļa noteikšanai, tās iestādes nosaukums, kura minēto lēmumu pieņēmusi, Kriminālprocesa likuma pants, daļa un punkts, uz kuru pamatojoties iestāde nosūtījusi krimināllietas materiālus prokuratūrai, kā arī tās prokuratūras struktūrvienības nosaukums, kurai nodoti krimināllietas materiāli;
+2) datums, kad pieņemts lēmums par krimināllietas nosūtīšanu tiesai medicīniska rakstura piespiedu līdzekļa noteikšanai, tās prokuratūras struktūrvienības nosaukums, kura minēto lēmumu pieņēmusi, Kriminālprocesa likuma pants, daļa un punkts, uz kuru pamatojoties prokuratūra nosūtījusi krimināllietas materiālus tiesai, kā arī tās tiesas nosaukums, kurai nosūtīta krimināllieta.

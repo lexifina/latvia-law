@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/884, ar ko groza Padomes pamatlēmumu 2009/315/TI attiecībā uz informācijas apmaiņu par trešo valstu valstspiederīgajiem un attiecībā uz Eiropas Sodāmības reģistru informācijas sistēmu (ECRIS) un ar ko aizstāj Padomes lēmumu 2009/316/TI.
