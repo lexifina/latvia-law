@@ -1,0 +1,1 @@
+28. Personas, kuras šā likuma 322. pantā paredzēto noziedzīgo nodarījumu izdarījušas līdz dienai, kad stājies spēkā grozījums par šā panta izslēgšanu, saucamas pie kriminālatbildības un sodāmas saskaņā ar tām šā likuma normām, kuras bija spēkā attiecīgā nodarījuma izdarīšanas laikā.

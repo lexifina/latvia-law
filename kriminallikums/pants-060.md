@@ -1,2 +1,2 @@
 60.pants. Soda samazināšana izņēmuma gadījumos
-Ja notiesātā persona palīdzējusi atklāt citas personas izdarītu noziegumu, kas ir tikpat smags, smagāks vai bīstamāks par šīs personas pašas izdarīto noziedzīgo nodarījumu, tiesa, ar kuras spriedumu šī persona ir notiesāta, var samazināt spriedumā noteikto sodu, bet piespriesto mūža ieslodzījumu aizstāt ar brīvības atņemšanu uz divdesmit gadiem.
+Ja notiesātais palīdzējis atklāt citas personas izdarītu noziegumu, kas ir tikpat smags, smagāks vai bīstamāks par viņa paša izdarīto noziedzīgo nodarījumu, un šī cita persona par šo noziegumu saukta pie kriminālatbildības, tiesa var samazināt spriedumā noteikto sodu, bet piespriesto mūža ieslodzījumu aizstāt ar brīvības atņemšanu uz divdesmit gadiem.

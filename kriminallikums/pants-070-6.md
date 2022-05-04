@@ -5,7 +5,7 @@
 2) par mazāk smagu noziegumu - desmit līdz piecdesmit tūkstošu Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
 3) par smagu noziegumu - divdesmit līdz septiņdesmit piecu tūkstošu Latvijas Republikā noteikto minimālo mēnešalgu apmērā;
 4) par sevišķi smagu noziegumu - trīsdesmit līdz simt tūkstošu Latvijas Republikā noteikto minimālo mēnešalgu apmērā.
-(1²) Nolēmuma taisīšanas brīdī naudas piedziņas summu nolēmumā norāda Latvijas Republikas naudas vienībās. Prokurors priekšrakstā par piespiedu ietekmēšanas līdzekli var piemērot ne vairāk kā pusi no šajā pantā paredzētā maksimālā naudas piedziņas apmēra, ievērojot Latvijas Republikā noteikto minimālo mēnešalgas apmēru brīdī, kad minētais priekšraksts sastādīts.
+(1²) Nolēmuma taisīšanas brīdī naudas piedziņas summu nolēmumā norāda Latvijas Republikas naudas vienībās.
 (2) Naudas piedziņa, kas uzlikta juridiskajai personai, maksājama no šīs personas līdzekļiem.
 (3) Naudas piedziņas samaksu attiecīgi tiesa vai prokurors var sadalīt termiņos vai atlikt uz laiku, kas nav ilgāks par vienu gadu no dienas, kad nolēmums vai priekšraksts par piespiedu ietekmēšanas līdzekli stājies likumīgā spēkā.
 (4) Ja naudas piedziņa nav samaksāta, piespiedu ietekmēšanas līdzeklis tiek izpildīts piespiedu kārtā.
