@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 5,
+ "datums": "2022-05-05",
+ "ieraksts": {
+  "dkp_id": "2d644635-86ba-49bd-82db-e4ae6f992c55",
+  "lastmodtime": "\"AAAAAAHsXGU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Ilze#Dace#Andris#Romāns#Regīna#Ivans#Aivars#Vita Anda#Juris#Ivars#Jānis#Ralfs#Edgars#Eva#Didzis#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Jānis#Normunds#Inga#Rihards#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Boriss#Ļubova#Sandis#Kaspars#Inguna#Ieva#Arvils#Ieva#Rihards#Ilga#Māris#Ilmārs#Jūlija#Atis#Zenta#Valērijs#Aldis#Ēriks#Andrejs#Māris #Jānis#Mārtiņš#Edgars#Viktors#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Gundars#Krišjānis#Jānis#Ramona#Līva#Janīna#Aleksandrs#Krista#Linda#Artūrs#Aldis",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Indriksone#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Geidāns#Tērauda#Pūce#Puga#Butāns#Nemiro#Kucins#Mārtuža#Šmits#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Krišāns#Žunna#Goldberga#Kozlovskis#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Cilevičs#Švecova#Riekstiņš#Ģirģens#Rībena#Akuratere#Ašeradens#Krapāne#Kols#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Adamovičs#Pucens#Klementjevs#Mičerevskis#Dombrava#Bondars#Tavars#Valainis#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Daudze#Feldmans#Tutins#Petraviča#Kreituse#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Gobzems",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#NA#NA#AP!#AP!# #SASKAŅA #SASKAŅA # #AP!#AP!# #Konservatīvie#Neatkarīgie#SASKAŅA #Konservatīvie# #Konservatīvie#JV# #JV#AP!#Neatkarīgie#SASKAŅA #Konservatīvie#SASKAŅA #JV# #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#SASKAŅA # #Konservatīvie# # #Konservatīvie#JV#Neatkarīgie#NA# #Neatkarīgie#AP!# # #SASKAŅA #SASKAŅA #JV# #SASKAŅA # #NA#AP!#ZZS#ZZS#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #NA#ZZS#SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#ZZS#Konservatīvie#SASKAŅA #Neatkarīgie#Konservatīvie#ZZS#NA#AP!#Konservatīvie#SASKAŅA #Neatkarīgie",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Nebalsoja#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Pret#Par#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Par#Atturas#Par#Pret#Nebalsoja#Par#Atturas#Nebalsoja#Par#Pret#Par#Par#Pret#Pret#Nebalsoja#Atturas#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Nebalsoja#Par#Pret#Par#Par#Pret#Par#Nebalsoja#Pret#Par#Nebalsoja#Pret#Pret#Pret#Par#Pret#Par#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "05.05.2022 12:13:40",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Alkoholisko dzērienu aprites likumā (1456/Lp13), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "2efbce55-7d52-4edc-8858-3db6052cfa4c",
+  "VOTERESULT_ABSTAIN": "3",
+  "VOTERESULT_AGAINST": "42",
+  "VOTERESULT_FOR": "26",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "42",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e5cde47c-1f11-408c-a726-d9edd89823df/download/13.saeimas-2022.gada-pavasara-sesija-5-vote.xml",
+  "sha256": "f0f096daed9922095a893c81160a20305db4a772591c18de6149f79c2e466754",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
