@@ -8,7 +8,7 @@ c) pieredze komercdarbības jomā (šādu informāciju neprasa pašvaldībām un
 (2) Līgumus par licencētu komercdarbību Brīvostā noslēdz par konkrētiem darbības veidiem. Līgumu var noslēgt par vairākiem darbības veidiem.
 (3) Kapitālsabiedrība, kura pretendē uz līguma noslēgšanu un atļaujas saņemšanu, iesniedz izskatīšanai Ostas valdē šādus dokumentus:
 1) iesniegumu;
-2) kapitālsabiedrības apliecinātu Uzņēmumu reģistra izsniegtas reģistrācijas apliecības kopiju;
+2) (izslēgts ar 05.05.2022. likumu);
 3) kapitālsabiedrības apliecinātu statūtu kopiju;
 4) zvērinātu auditoru (revidentu) apstiprinātu gada pārskatu par pēdējiem diviem gadiem (vai - ar Ostas valdes piekrišanu - saīsināta pārskata norakstu);
 5) darbības programmu, ietverot investīciju programmu;
