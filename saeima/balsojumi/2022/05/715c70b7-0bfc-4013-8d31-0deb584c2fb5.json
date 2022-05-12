@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 7,
+ "datums": "2022-05-12",
+ "ieraksts": {
+  "dkp_id": "cdb9011c-b33a-4598-98c9-ba64f4bae232",
+  "lastmodtime": "\"AAAAAAHtNi4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Uldis#Mārtiņš#Ilze#Dace#Andris#Regīna#Ivans#Aivars#Vita Anda#Juris#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Kārlis#Gatis#Karina#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Inese#Igors#Raivis#Juris#Sandis#Kaspars#Inguna#Ieva#Ilga#Māris#Ilmārs#Zenta#Valērijs#Aldis#Viesturs#Jānis#Mārtiņš#Andrejs#Jānis#Ivans#Ināra#Jānis#Vitālijs#Sergejs#Reinis#Dagmāra#Ainars#Jānis#Ramona#Līva#Krista#Linda#Artūrs#Janīna#Aldis",
+  "SURNAME": "Budriķis#Šteins#Indriksone#Rukšāne-Ščipčinska#Skride#Ločmele#Ribakovs#Geidāns#Tērauda#Pūce#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Šadurskis#Zamurs#Sprūde#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Voika#Pimenovs#Dzintars#Rancāns#Riekstiņš#Ģirģens#Rībena#Akuratere#Šuplinska#Možvillo#Dūrītis#Tretjaka#Agešins#Adamovičs#Liepkalns#Dombrava#Bondars#Judins#Urbanovičs#Klementjevs#Mūrniece#Vucāns#Orlovs#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Tutins#Petraviča#Kreituse#Baumane#Medne#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "##############################################################",
+  "FRACTION": "Konservatīvie#AP!#NA#AP!#AP!#SASKAŅA #SASKAŅA # #AP!#AP!#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA #Konservatīvie#JV#AP!#Neatkarīgie#SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #NA#NA#AP!#SASKAŅA #NA#Konservatīvie#Konservatīvie# # #Konservatīvie# #Neatkarīgie#AP!#SASKAŅA #SASKAŅA #JV#AP!#NA#AP!#JV#SASKAŅA #SASKAŅA #NA#ZZS#SASKAŅA #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#SASKAŅA #Neatkarīgie#Konservatīvie#AP!#Konservatīvie#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Pret#Pret#Atturas#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Nebalsoja#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Atturas#Atturas#Pret#Par#Atturas#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Par#Pret#Pret#Pret#Par#Atturas#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.05.2022 13:35:20",
+  "VOTEMOTIVE": "Par likumprojekta Grozījums Ukrainas civiliedzīvotāju atbalsta likumā (1470/Lp13), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "715c70b7-0bfc-4013-8d31-0deb584c2fb5",
+  "VOTERESULT_ABSTAIN": "5",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "18",
+  "VOTERESULT_REGISTERED": "63",
+  "VOTE_NUMBER": "28",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/0a59a3e7-7a20-4145-a600-368eee2d4984/download/13.saeimas-2022.gada-pavasara-sesija-7-vote.xml",
+  "sha256": "f86e7694fa1561cc992e614500315ffb626281f02946c83bd1e96a9ce02dcd54",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
