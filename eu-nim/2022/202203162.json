@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 10. maija noteikumi Nr. 285 \"Grozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu bīstamu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "91",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-12",
+  "entry_into_force": "2022-05-13",
+  "notification_date": "2022-05-17",
+  "commission_reference": "MNE(2022)03162",
+  "nim_celex": "72021L1979LVA_202203162",
+  "nim_id": "202203162",
+  "transposes_celex": [
+    "32021L1979"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4c0592e-d80e-11ec-a95f-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
