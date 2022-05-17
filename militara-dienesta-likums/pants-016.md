@@ -4,8 +4,9 @@
 2) pieņemti profesionālajā dienestā;
 3) (izslēgts ar 29.03.2007. likumu);
 4) (izslēgts ar 07.02.2013. likumu);
-5) pieņemti darbā štatā paredzētajos civilajos amatos.
-(2) Militārajā dienestā nevar iesaukt un nevar pieņemt Latvijas pilsoni:
+5) pieņemti darbā štatā paredzētajos civilajos amatos;
+6) pieņemti darbā militāro darbinieku amatos.
+(2) Militārajā dienestā nevar pieņemt Latvijas pilsoni:
 1) kas ir sodīts par tīšu noziedzīgu nodarījumu vai par valsts noslēpuma izpaušanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas, izņemot šā panta 2.² daļā minēto gadījumu;
 2) kas kriminālprocesā ir atzīts par aizdomās turēto vai apsūdzēto;
 3) kas par šīs daļas 1. punktā minētu noziedzīgu nodarījumu notiesāts, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata, izņemot šā panta 2.² daļā minēto gadījumu;
