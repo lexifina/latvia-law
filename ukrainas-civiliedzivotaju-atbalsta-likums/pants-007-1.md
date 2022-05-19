@@ -1,0 +1,21 @@
+7.¹ pants. Atlīdzība par Ukrainas civiliedzīvotāju izmitināšanu
+(1) Fiziskā persona, kura sev piederošā mājoklī bez maksas izmitina vienu vai vairākus Ukrainas civiliedzīvotājus (turpmāk - izmitinātājs), ir tiesīga saņemt atlīdzību ar izmitināšanu saistītu papildu izmaksu kompensēšanai. Izmitinātājs ir tiesīgs saņemt atlīdzību 100 euro mēnesī par pirmo izmitināto personu un 50 euro mēnesī par katru nākamo izmitināto personu, bet ne vairāk kā 300 euro mēnesī par vienā mājoklī izmitinātām personām un ne ilgāk kā 90 dienas. Atlīdzību izmitinātājs var saņemt neatkarīgi no tā, vai viņš pats uzturas šajā mājoklī.
+(2) Lai saņemtu atlīdzību, izmitinātājs vai viņa pilnvarota persona iesniedz pieteikumu atlīdzības saņemšanai (turpmāk - atlīdzības pieteikums) tai pašvaldībai, kuras administratīvajā teritorijā atrodas mājoklis. Pieteikumu iesniedz 14 dienu laikā no dienas, kad mājoklī izmitināts Ukrainas civiliedzīvotājs, un tajā iekļaujamas vismaz šādas ziņas:
+1) iesniedzēja vārds, uzvārds, personas kods, kontaktinformācija, kredītiestādes maksājuma vai pasta norēķinu sistēmas konts, kurā ieskaitāma atlīdzība;
+2) mājokļa adrese, paredzētais izmitināšanas periods, ne ilgāks kā 90 dienas;
+3) mājokļa piederību apliecinošs dokuments;
+4) katra izmitinātā Ukrainas civiliedzīvotāja vārds, uzvārds un personas kods;
+5) apliecinājums par to, ka mājoklis ir dzīvošanai derīgs likuma "Par palīdzību dzīvokļa jautājumu risināšanā" 16. panta trešās daļas izpratnē un atrašanās tajā neapdraud cilvēku drošību un veselību.
+(3) Pašvaldība pēc atlīdzības pieteikuma saņemšanas pieņem lēmumu piešķirt izmitinātājam atlīdzību vai atteikt tās piešķiršanu. Pašvaldība ieskaita izmitinātājam piešķirto atlīdzību par kārtējo mēnesi proporcionāli faktiskajam izmitināšanas dienu skaitam līdz nākamā mēneša desmitajam datumam izmitinātāja norādītajā kredītiestādes maksājumu vai pasta norēķinu sistēmas kontā. Šā panta pirmajā daļā minētais konkrētā Ukrainas civiliedzīvotāja 90 dienu izmitināšanas periods, par kuru izmitinātājs ir tiesīgs saņemt atlīdzību, tiek fiksēts atbilstoši izmitinātāja atlīdzības pieteikumā norādītajam Ukrainas civiliedzīvotāja izmitināšanas datumam, bet ne agrāk kā no 2022. gada 1. maija.
+(4) Ja Ukrainas civiliedzīvotāju izmitināšana mājoklī tiek izbeigta pirms šā panta otrās daļas 2. punktā minētā perioda beigām, izmitinātājam ir pienākums ne vēlāk kā piecu darbdienu laikā rakstveidā informēt par to pašvaldību.
+(5) Pašvaldība atsaka atlīdzības piešķiršanu izmitinātājam, ja, izskatot atlīdzības pieteikumu, konstatē kādu no šādiem faktiem:
+1) Ukrainas civiliedzīvotājs, par kura izmitināšanu iesniedzējs ir pieteicies saņemt atlīdzību, saņem šā likuma 12. pantā minēto primāri sniedzamo atbalstu - izmitināšanu;
+2) Ukrainas civiliedzīvotājs, par kura izmitināšanu iesniedzējs ir pieteicies saņemt atlīdzību, saņem Sociālo pakalpojumu un sociālās palīdzības likumā paredzēto mājokļa pabalstu par šā panta otrās daļas 2. punktā minēto periodu;
+3) Ukrainas civiliedzīvotājs jau iepriekš izmitināts fiziskās personas mājoklī, un par viņa izmitināšanu jau izmaksāta atlīdzība šā panta pirmajā daļā noteiktajā apmērā.
+(6) Pašvaldība pieņem lēmumu pārtraukt izmitinātājam piešķirtās atlīdzības izmaksu, ja tā ir konstatējusi, ka mājoklis, kurā tiek izmitināts Ukrainas civiliedzīvotājs, nav dzīvošanai derīgs likuma "Par palīdzību dzīvokļa jautājumu risināšanā" 16. panta trešās daļas izpratnē vai atrašanās tajā apdraud cilvēku drošību un veselību.
+(7) Atlīdzība izmitinātājam:
+1) ir pielīdzināma likuma "Par iedzīvotāju ienākuma nodokli" 9. panta pirmās daļas 16. punktā minētajai kompensācijai, kas netiek ietverta gada apliekamajā ienākumā un netiek aplikta ar iedzīvotāju ienākuma nodokli;
+2) nav pakļauta ieturējumu veikšanai un parādu piedziņai;
+3) nav pieskaitāma faktiskajiem ienākumiem, no kuriem sedzami kreditoru prasījumi fiziskās personas saistību dzēšanas plāna izpildes laikā maksātnespējas procesa ietvaros;
+4) netiek ņemta vērā ienākumos, novērtējot izmitinātāja mājsaimniecības materiālo situāciju sociālās palīdzības un trūcīgas vai maznodrošinātas mājsaimniecības statusa piešķiršanai.
+(8) Pašvaldība viena gada laikā pēc tam, kad atlīdzība par izmitināšanu ir izmaksāta, var lemt par tās atgūšanu pilnā apmērā, ja konstatē, ka izmitinātājs ir sniedzis nepatiesu informāciju.

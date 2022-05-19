@@ -1,0 +1,1 @@
+11. Grozījums šā likuma 12. panta pirmajā daļā par pārtikas nodrošināšanu Ukrainas civiliedzīvotājiem līdz 30 dienām stājas spēkā 2022. gada 23. maijā un neattiecas uz tiem Ukrainas civiliedzīvotājiem, par kuru ēdināšanu jau ir noslēgti līgumi līdz šo grozījumu spēkā stāšanās dienai.

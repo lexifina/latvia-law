@@ -1,0 +1,1 @@
+13. Šā likuma 7.¹ panta trešās daļas pēdējais teikums attiecas arī uz fizisko personu, kura sev piederošā mājoklī bez maksas izmitinājusi Ukrainas civiliedzīvotāju līdz 2022. gada 1. maijam, turpina izmitināšanu pēc šā datuma un 14 dienu laikā no šā likuma 7.¹ panta spēkā stāšanās dienas ir attiecīgajai pašvaldībai iesniegusi pieteikumu atlīdzības saņemšanai.
