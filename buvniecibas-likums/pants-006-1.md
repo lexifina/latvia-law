@@ -7,7 +7,7 @@ c) (izslēgts ar 15.04.2021. likumu);
 1¹) pilda šajā likumā un citos būvniecības jomas normatīvajos aktos noteiktās būvvaldes funkcijas attiecībā uz:
 a) Aizsardzības ministrijas, tās padotības iestādes vai Nacionālo bruņoto spēku vajadzībām nepieciešamo būvju būvniecību Aizsardzības ministrijas valdījumā vai turējumā esošā nekustamajā īpašumā,
 b) būvju būvniecību Latvijas Republikas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā;
-c) Iekšlietu ministrijas vai tās padotības iestādes vajadzībām nepieciešamo būvju būvniecību valsts robežas joslā, patrulēšanas joslā un robežzīmju uzraudzības joslā;
+c) Iekšlietu ministrijas vai tās padotības iestādes vajadzībām nepieciešamo būvju būvniecību, kas pilnībā vai daļēji tiek veikta valsts robežas joslā, patrulēšanas joslā un robežzīmju uzraudzības joslā;
 2) nodrošina ekspluatācijas uzraudzību publiskām ēkām un šīs daļas 1.¹ punktā noteiktajām būvēm;
 3) nodrošina būvniecības informācijas sistēmā iekļautās informācijas pieejamību;
 4) (izslēgts ar 15.04.2021. likumu);
