@@ -1,0 +1,4 @@
+18. pants. Lēmuma apstrīdēšana un pārsūdzēšana
+(1) Partnerorganizācijas pretendents šā likuma 16. un 17. pantā minēto sadarbības iestādes lēmumu mēneša laikā no tā spēkā stāšanās dienas var apstrīdēt vadošajā iestādē. Vadošās iestādes izdoto administratīvo aktu par apstrīdēto sadarbības iestādes lēmumu var pārsūdzēt, iesniedzot pieteikumu attiecīgās Administratīvās rajona tiesas tiesu namā. Šā likuma 15. panta otrajā daļā minētais vadošās iestādes lēmums par apstrīdēto sadarbības iestādes lēmumu nav pārsūdzams.
+(2) Sadarbības iestādes atzinumu par šā likuma 16. panta ceturtajā daļā minētajā lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā pašā kārtībā un termiņā kā lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums.
+(3) Pārsūdzot lēmumu, pieteicējs tiesā var prasīt tikai šā lēmuma atzīšanu par prettiesisku, bet nevar prasīt labvēlīga administratīvā akta izdošanu.

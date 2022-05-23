@@ -1,0 +1,10 @@
+14. pants. Partnerorganizācijas pretendentu iesniegumu partnerorganizāciju atlasei noraidīšanas nosacījumi
+Sadarbības iestāde noraida iesniegumu partnerorganizāciju atlasei, ja uz partnerorganizācijas pretendentu - biedrību, nodibinājumu vai reliģisko organizāciju - attiecināms jebkurš no šādiem nosacījumiem:
+1) persona, kura ir partnerorganizācijas pretendenta valdes loceklis, patiesais labuma guvējs vai persona, kura ir pilnvarota pārstāvēt partnerorganizācijas pretendentu darbībās, kas saistītas ar tās filiāli vai struktūrvienību, ar galīgo nolēmumu, no kura spēkā stāšanās dienas līdz iesnieguma iesniegšanas dienai nav pagājuši trīs gadi, ir atzīta par vainīgu jebkurā no šādiem noziedzīgiem nodarījumiem:
+a) kukuļņemšana, kukuļdošana, kukuļa piesavināšanās, starpniecība kukuļošanā, neatļauta labuma pieņemšana,
+b) krāpšana, piesavināšanās vai noziedzīgi iegūtu līdzekļu legalizēšana,
+c) izvairīšanās no nodokļu un tiem pielīdzināto maksājumu nomaksas;
+2) partnerorganizācijas pretendentam ir piemērots piespiedu ietekmēšanas līdzeklis par kādu no šā panta 1. punktā minētajiem noziedzīgiem nodarījumiem, un no galīgā nolēmuma spēkā stāšanās dienas līdz iesnieguma iesniegšanas dienai nav pagājuši trīs gadi;
+3) ir pasludināts partnerorganizācijas pretendenta maksātnespējas process, ierosināta tiesiskās aizsardzības procesa lieta vai tiek īstenots tiesiskās aizsardzības process, apturēta vai pārtraukta partnerorganizācijas pretendenta saimnieciskā darbība vai partnerorganizācijas pretendents tiek likvidēts;
+4) uz partnerorganizācijas pretendentu vai personu, kura ir partnerorganizācijas pretendenta valdes loceklis, patiesais labuma guvējs vai persona, kura ir pilnvarota pārstāvēt partnerorganizācijas pretendentu darbībās, kas saistītas ar tās filiāli vai struktūrvienību, attiecas Starptautisko un Latvijas Republikas nacionālo sankciju likumā noteiktie ierobežojumi;
+5) stājies spēkā šā likuma 17. pantā minētais sadarbības iestādes lēmums par aizliegumu dalībai partnerorganizāciju atlasē.

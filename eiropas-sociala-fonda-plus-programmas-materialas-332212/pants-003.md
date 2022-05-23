@@ -1,0 +1,2 @@
+3. pants. Programmas vadība
+Programmas vadība ir plānošanas dokumentu sagatavošana, saskaņošana un apstiprināšana, programmas vadības sistēmas izveide un darbības nodrošināšana, partnerorganizāciju atlases noteikumu izstrāde un atlase, programmas vadības sistēmas un atbalsta uzraudzība, novērtēšana un revīzija, programmas ietvaros veikto izdevumu apstiprināšana, pārskatu sagatavošana un iesniegšana Eiropas Komisijai, programmas informācijas sistēmas izstrāde un uzturēšana, kā arī sabiedrības informēšana par programmas atbalstu.

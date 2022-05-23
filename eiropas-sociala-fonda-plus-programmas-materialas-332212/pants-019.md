@@ -1,0 +1,3 @@
+19. pants. Lēmuma pieņemšanas termiņš
+(1) Sadarbības iestāde lēmumu par tiesību būt par partnerorganizāciju piešķiršanu, piešķiršanu ar nosacījumu vai noraidīšanu pieņem triju mēnešu laikā pēc iesniegumu partnerorganizāciju atlasei iesniegšanas termiņa beigu datuma.
+(2) Ja objektīvu iemeslu dēļ šā panta pirmajā daļā noteikto termiņu nav iespējams ievērot, sadarbības iestāde to var pagarināt uz laiku, ne ilgāku par sešiem mēnešiem no iesniegumu partnerorganizāciju atlasei iesniegšanas termiņa beigu datuma, par to paziņojot partnerorganizācijas pretendentam. Lēmums par termiņa pagarināšanu ir apstrīdams vadošajā iestādē, bet nav pārsūdzams.

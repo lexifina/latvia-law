@@ -1,0 +1,2 @@
+23. pants. Strīdu risināšanas kārtība, ja partnerorganizācija ir biedrība, nodibinājums vai reliģiskā organizācija
+Ja partnerorganizācija ir biedrība, nodibinājums vai reliģiskā organizācija, strīdu par līguma par pārtikas un pamata materiālās palīdzības preču uzglabāšanas, izdalīšanas un papildpasākumu nodrošināšanas izpildi, tai skaitā piešķirto finanšu līdzekļu izmaksāšanu, izmaksas turpināšanu vai atgūšanu, risina civiltiesiskā kārtībā.
