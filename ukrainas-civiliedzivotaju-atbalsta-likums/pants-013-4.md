@@ -1,0 +1,2 @@
+13.⁴ pants. Papildu izmitināšanas iespējas pašvaldībās
+Ukrainas civiliedzīvotājus pašvaldība, tai skaitā nodrošinot primāro atbalstu, var izmitināt tai piederošās dzīvojamās ēkās vai ēkās, kuru galvenais saskaņā ar būvju klasifikatoru noteiktais lietošanas veids ir "1211 - Viesnīcas un tām līdzīga lietojuma ēkas" (turpmāk - ēkas), veicot tajās nepieciešamos uzlabojumus. Informāciju par ēkām izvērtē un par nepieciešamo atbalsta apmēru uzlabojumu veikšanai ēkās lemj Ministru kabineta izveidota komisija.
