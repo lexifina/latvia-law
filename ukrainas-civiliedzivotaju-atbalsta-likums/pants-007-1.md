@@ -1,7 +1,7 @@
 7.¹ pants. Atlīdzība par Ukrainas civiliedzīvotāju izmitināšanu
-(1) Fiziskā persona, kura sev piederošā mājoklī bez maksas izmitina vienu vai vairākus Ukrainas civiliedzīvotājus (turpmāk - izmitinātājs), ir tiesīga saņemt atlīdzību ar izmitināšanu saistītu papildu izmaksu kompensēšanai. Izmitinātājs ir tiesīgs saņemt atlīdzību 100 euro mēnesī par pirmo izmitināto personu un 50 euro mēnesī par katru nākamo izmitināto personu, bet ne vairāk kā 300 euro mēnesī par vienā mājoklī izmitinātām personām un ne ilgāk kā 90 dienas. Atlīdzību izmitinātājs var saņemt neatkarīgi no tā, vai viņš pats uzturas šajā mājoklī.
+(1) Fiziskā vai juridiskā persona, kura sev piederošā mājoklī bez maksas izmitina vienu vai vairākus Ukrainas civiliedzīvotājus (turpmāk - izmitinātājs), ir tiesīga saņemt atlīdzību ar izmitināšanu saistītu papildu izmaksu kompensēšanai. Izmitinātājs ir tiesīgs saņemt atlīdzību 100 euro mēnesī par pirmo izmitināto personu un 50 euro mēnesī par katru nākamo izmitināto personu, bet ne vairāk kā 300 euro mēnesī par vienā mājoklī izmitinātām personām un ne ilgāk kā 90 dienas. Atlīdzību izmitinātājs var saņemt neatkarīgi no tā, vai viņš pats uzturas šajā mājoklī.
 (2) Lai saņemtu atlīdzību, izmitinātājs vai viņa pilnvarota persona iesniedz pieteikumu atlīdzības saņemšanai (turpmāk - atlīdzības pieteikums) tai pašvaldībai, kuras administratīvajā teritorijā atrodas mājoklis. Pieteikumu iesniedz 14 dienu laikā no dienas, kad mājoklī izmitināts Ukrainas civiliedzīvotājs, un tajā iekļaujamas vismaz šādas ziņas:
-1) iesniedzēja vārds, uzvārds, personas kods, kontaktinformācija, kredītiestādes maksājuma vai pasta norēķinu sistēmas konts, kurā ieskaitāma atlīdzība;
+1) iesniedzēja vārds, uzvārds, personas kods (fiziskajai personai) vai nosaukums un reģistrācijas numurs (juridiskajai personai), kontaktinformācija, kredītiestādes maksājuma vai pasta norēķinu sistēmas konts, kurā ieskaitāma atlīdzība;
 2) mājokļa adrese, paredzētais izmitināšanas periods, ne ilgāks kā 90 dienas;
 3) mājokļa piederību apliecinošs dokuments;
 4) katra izmitinātā Ukrainas civiliedzīvotāja vārds, uzvārds un personas kods;
@@ -11,7 +11,7 @@
 (5) Pašvaldība atsaka atlīdzības piešķiršanu izmitinātājam, ja, izskatot atlīdzības pieteikumu, konstatē kādu no šādiem faktiem:
 1) Ukrainas civiliedzīvotājs, par kura izmitināšanu iesniedzējs ir pieteicies saņemt atlīdzību, saņem šā likuma 12. pantā minēto primāri sniedzamo atbalstu - izmitināšanu;
 2) Ukrainas civiliedzīvotājs, par kura izmitināšanu iesniedzējs ir pieteicies saņemt atlīdzību, saņem Sociālo pakalpojumu un sociālās palīdzības likumā paredzēto mājokļa pabalstu par šā panta otrās daļas 2. punktā minēto periodu;
-3) Ukrainas civiliedzīvotājs jau iepriekš izmitināts fiziskās personas mājoklī, un par viņa izmitināšanu jau izmaksāta atlīdzība šā panta pirmajā daļā noteiktajā apmērā.
+3) Ukrainas civiliedzīvotājs jau iepriekš izmitināts fiziskās vai juridiskās personas mājoklī, un par viņa izmitināšanu jau izmaksāta atlīdzība šā panta pirmajā daļā noteiktajā apmērā.
 (6) Pašvaldība pieņem lēmumu pārtraukt izmitinātājam piešķirtās atlīdzības izmaksu, ja tā ir konstatējusi, ka mājoklis, kurā tiek izmitināts Ukrainas civiliedzīvotājs, nav dzīvošanai derīgs likuma "Par palīdzību dzīvokļa jautājumu risināšanā" 16. panta trešās daļas izpratnē vai atrašanās tajā apdraud cilvēku drošību un veselību.
 (7) Atlīdzība izmitinātājam:
 1) ir pielīdzināma likuma "Par iedzīvotāju ienākuma nodokli" 9. panta pirmās daļas 16. punktā minētajai kompensācijai, kas netiek ietverta gada apliekamajā ienākumā un netiek aplikta ar iedzīvotāju ienākuma nodokli;

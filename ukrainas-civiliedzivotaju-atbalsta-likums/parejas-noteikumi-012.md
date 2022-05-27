@@ -1,1 +1,0 @@
-12. Ukrainas civiliedzīvotāji, kuri jau ir pieteikušies uz primāri sniedzamo atbalstu - pārtiku - un to saņem, turpina to saņemt līdz 2022. gada 23. maijam arī tad, ja konkrētā atbalsta ilgums kopumā pārsniedz 30 dienas.

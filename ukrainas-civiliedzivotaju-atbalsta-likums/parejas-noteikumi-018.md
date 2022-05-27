@@ -1,0 +1,1 @@
+18. Ukrainas civiliedzīvotājiem, kuri primāri sniedzamajam atbalstam ir pieteikušies līdz 2022. gada 24. maijam (ieskaitot), valsts to nodrošina papildus līdz 30 dienām, taču kopējais valsts nodrošinātais primāri sniedzamais atbalsts nevar pārsniegt 120 dienas.
