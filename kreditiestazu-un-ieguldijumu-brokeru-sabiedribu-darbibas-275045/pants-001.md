@@ -30,7 +30,7 @@ b) noregulējuma iestāžu veiktas noregulējuma instrumentu piemērošanas un n
 21) grupas sabiedrība - juridiskā persona, kas ietilpst grupā;
 22) iekšējās rekapitalizācijas instruments - mehānisms, ar kura palīdzību noregulējuma iestāde īsteno norakstīšanas vai konvertēšanas tiesības attiecībā uz noregulējamās iestādes saistībām;
 22¹) iekšēji rekapitalizējamas saistības - iestādes vai šā likuma 2. panta otrās daļas 2., 3. vai 4. punktā minētās finanšu sabiedrības (turpmāk arī - iestāde vai finanšu sabiedrība) saistības un kapitāla instrumenti, kas nav kvalificējami kā pirmā līmeņa pamata kapitāla instrumenti, pirmā līmeņa papildu kapitāla instrumenti vai otrā līmeņa kapitāla instrumenti un kas nav izslēgti no iekšējās rekapitalizācijas instrumenta piemērošanas jomas;
-23) iestāde - kredītiestāde vai ieguldījumu brokeru sabiedrība, kura atbilst Finanšu instrumentu tirgus likuma 120. panta pirmās daļas 3. punkta prasībām;
+23) iestāde - kredītiestāde vai ieguldījumu brokeru sabiedrība, kura atbilst Ieguldījumu brokeru sabiedrību likuma 6. panta pirmās daļas 1. vai 2. punkta prasībām;
 24) izbeigšanas tiesības - tiesības izbeigt līgumu, paātrināt saistību izpildi, savstarpēji dzēst vai savstarpēji ieskaitīt saistības vai jebkurš līdzīgs noteikums, ar ko aptur, groza vai dzēš līgumslēdzējas puses saistības, vai noteikums, kas novērš saistību rašanos saskaņā ar līgumu;
 25) īpašumtiesību instrumenti - akcijas, instrumenti, kas rada īpašumtiesības, instrumenti, kurus var konvertēt akcijās un īpašumtiesību instrumentos, kuri dod tiesības iegādāties akcijas vai īpašumtiesību instrumentus, un instrumenti, kas apliecina no tiem izrietošās īpašumtiesības;
 26) konvertācijas koeficients - rādītājs, kas nosaka to akciju vai citu īpašumtiesību instrumentu skaitu, kuros tiks konvertētas noteiktas kategorijas saistības, pamatojoties uz vienu attiecīgās kategorijas instrumentu vai precizētu parāda prasījuma vērtības vienību;
@@ -64,7 +64,7 @@ b) kredītiestādes, kuras ir pastāvīgi radniecīgas centrālajai iestādei, u
 40) noregulējums - noregulējuma instrumenta piemērošana, lai sasniegtu vienu vai vairākus šajā likumā minētos noregulējuma mērķus;
 41) nozīmīga filiāle - filiāle, kuras darbība dalībvalstī atzīstama par finanšu tirgū nozīmīgu;
 42) pagaidu iestādes instruments - mehānisms, ar kura palīdzību noregulējamās iestādes emitētas akcijas vai citus īpašumtiesību instrumentus vai noregulējamās iestādes aktīvus, tiesības vai saistības nodod pagaidu iestādei;
-43) parāda instrumenti - obligācijas un citi pārvedami vērtspapīri, instrumenti, ar ko rada vai atzīst parādu, un instrumenti, kuri dod tiesības iegādāties parāda instrumentus, tai skaitā Kredītiestāžu likuma 139.³ pantā un Finanšu instrumentu tirgus likuma 154. pantā minētie prasījumi, kas izriet no emitētiem parādu vērtspapīriem;
+43) parāda instrumenti - obligācijas un citi pārvedami vērtspapīri, instrumenti, ar ko rada vai atzīst parādu, un instrumenti, kuri dod tiesības iegādāties parāda instrumentus, tai skaitā Kredītiestāžu likuma 139.³ pantā un Ieguldījumu brokeru sabiedrību likuma 82. pantā minētie prasījumi, kas izriet no emitētiem parādu vērtspapīriem;
 44) pārrobežu grupa - grupa, kas sastāv no grupas sabiedrībām, kuras veic komercdarbību vairāk nekā vienā dalībvalstī;
 44¹) pirmā līmeņa pamata kapitāls - kapitāls, kas aprēķināts saskaņā ar Regulas Nr. 575/2013 50. pantu;
 45) saņēmējs - sabiedrība, kurai no noregulējamās iestādes tiek nodotas akcijas, citi īpašumtiesību instrumenti, parāda instrumenti, aktīvi, tiesības vai saistības, vai jebkāda to kombinācija;

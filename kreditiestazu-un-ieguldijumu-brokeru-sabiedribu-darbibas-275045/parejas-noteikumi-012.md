@@ -1,0 +1,1 @@
+12. Ievērojot šo pārejas noteikumu 6., 7. un 8. punktu, Finanšu un kapitāla tirgus komisija var pārskatīt vai nu pārejas termiņu, vai jebkuru plānoto minimālo pašu kapitāla un atbilstīgo saistību prasību, kas paziņota saskaņā ar šo pārejas noteikumu 10. punktu.
