@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) lauksaimniecība - tautsaimniecības nozare, kura nodrošina lauksaimniecības produktu ražošanu un ar to saistīto pakalpojumu sniegšanu;
-2) lauku attīstība - nelauksaimniecisko produktu ražošana lauku teritorijā, kā arī ar ūdens un zemes resursu izmantošanu saistīto pakalpojumu sniegšana un lauku ainavas saglabāšana;
+2) lauku attīstība - komplekss ilgtspējīgu darbību kopums lauku teritorijas ekonomikas, cilvēku dzīves kvalitātes, mobilitātes un publisko pakalpojumu pieejamības uzlabošanai, kā arī līdzsvarotai dabas resursu apsaimniekošanai un lauku ainavas saglabāšanai;
 3) (zaudējis spēku 01.05.2004.; sk. Pārejas noteikumus);
 4) (zaudējis spēku 01.05.2004.; sk. Pārejas noteikumus);
 5) (izslēgts ar 30.04.2009. likumu);

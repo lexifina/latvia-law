@@ -7,7 +7,7 @@
 2) kredītu un nodokļu politika;
 2¹) risku vadības politika;
 3) tirgus intervence;
-4) kvotu piemērošana;
+4) (izslēgts ar 05.05.2022. likumu);
 5) ārējās tirdzniecības režīma piemērošana;
-6) ražotāju grupu atbalstīšana;
+6) ražotāju grupu, ražotāju organizāciju, ražotāju organizāciju apvienību un starpnozaru organizāciju atzīšana, darbības uzraudzība un atbalstīšana;
 7) citi veidi, kas izriet no Latvijas starptautiskajām saistībām.

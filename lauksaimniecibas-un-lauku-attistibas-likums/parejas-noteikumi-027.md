@@ -1,0 +1,5 @@
+27. Šā likuma 9. panta jaunā redakcija stājas spēkā 2023. gada 1. janvārī. Līdz šā likuma 9. panta jaunajā redakcijā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 31. decembrim piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2017. gada 10. oktobra noteikumi Nr. 621 "Noteikumi par augļu un dārzeņu ražotāju organizācijām";
+2) Ministru kabineta 2014. gada 9. decembra noteikumi Nr. 753 "Zvejas un akvakultūras produktu ražotāju grupu atzīšanas kritēriji, kā arī ražotāju grupu darbības nosacījumi un tās kontroles kārtība";
+3) Ministru kabineta 2013. gada 5. februāra noteikumi Nr. 80 "Piena un piena produktu ražotāju organizāciju atzīšanas un to darbības uzraudzības kārtība";
+4) Ministru kabineta 2008. gada 4. novembra noteikumi Nr. 921 "Noteikumi par augļu un dārzeņu ražotāju grupu atzīšanu, to darbības nosacījumiem un kontroli, kā arī kārtību, kādā piešķir, administrē un uzrauga valsts un Eiropas Savienības atbalstu augļu un dārzeņu ražotāju grupām".
