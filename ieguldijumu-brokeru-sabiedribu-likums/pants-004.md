@@ -1,0 +1,6 @@
+4. pants. Ieguldījumu brokeru sabiedrības tiesības sniegt ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus
+(1) Ieguldījumu brokeru sabiedrība ir tiesīga uzsākt ieguldījumu pakalpojumu sniegšanu tikai pēc tam, kad Komisijā saņēmusi licenci ieguldījumu pakalpojumu sniegšanai (turpmāk - licence). Komisija licenci izsniedz uz nenoteiktu laiku.
+(2) Finanšu instrumentu tirgus likuma 3. panta piektās daļas 1. punktā minētos ieguldījumu blakuspakalpojumus ir tiesības sniegt tikai tad, ja saņemta licence. Licencē norāda, kurus ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumus ieguldījumu brokeru sabiedrība ir tiesīga sniegt.
+(3) Dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība ir tiesīga uzsākt ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu Latvijas Republikā šā likuma 17. pantā noteiktajā kārtībā.
+(4) Ieguldījumu brokeru sabiedrība nedrīkst veikt komercdarbību, kas nav saistīta ar ieguldījumu pakalpojumu, ieguldījumu blakuspakalpojumu, citu finanšu pakalpojumu sniegšanu vai apdrošināšanas brokera - juridiskās personas - profesionālo darbību.
+(5) Tikai kapitālsabiedrībai, kas saņēmusi licenci, ir tiesības firmā izmantot vārdkopu "ieguldījumu brokeru sabiedrība" vai tās saīsinājumu "IBS".

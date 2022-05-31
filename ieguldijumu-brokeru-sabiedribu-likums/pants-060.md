@@ -1,0 +1,17 @@
+60. pants. Uzraugu kolēģijas
+(1) Komisija saskaņā ar šā likuma 59. panta pirmo daļu, ja nepieciešams, izveido uzraugu kolēģiju un:
+1) vada uzraugu kolēģijas sanāksmes un pieņem lēmumus, tai skaitā informē visus uzraugu kolēģijas dalībniekus par kolēģijas sanāksmju organizēšanu;
+2) informē par galvenajiem izskatāmajiem jautājumiem un plānotajiem pasākumiem;
+3) rakstveidā informē visus uzraugu kolēģijas dalībniekus par sanāksmēs pieņemtajiem lēmumiem vai veiktajiem pasākumiem;
+4) nodrošina pieņemto lēmumu atbilstību šā panta ceturtajā daļā minēto uzraudzības institūciju plānotajiem vai koordinētajiem uzraudzības pasākumiem.
+(2) Komisija saskaņā ar šā panta pirmo daļu nodrošina:
+1) šā likuma 59. panta sestās daļas prasību ievērošanu;
+2) informācijas pieprasījumu koordinēšanu, kas nepieciešama konsolidētas uzraudzības pasākumu veikšanai saskaņā ar Regulas Nr. 2019/2033 7. pantu;
+3) informācijas pieprasījumu koordinēšanu, ja vairākām vienā grupā ietilpstošu ieguldījumu brokeru sabiedrību uzraudzības institūcijām ir nepieciešams pieprasīt no tīrvērtes dalībnieka mītnes dalībvalsts uzraudzības institūcijas vai atbilstīga centrālo darījumu partnera uzraudzības institūcijas informāciju par drošības rezerves modeli un parametriem, kas izmantoti attiecīgo ieguldījumu brokeru sabiedrību drošības rezerves prasību aprēķināšanai;
+4) informācijas apmaiņu starp visām uzraugu kolēģijas uzraudzības institūcijām, Eiropas Banku iestādi saskaņā ar Regulas Nr. 1093/2010 21. pantu un Eiropas Vērtspapīru un tirgu iestādi saskaņā ar Eiropas Parlamenta un Padomes 2010. gada 24. novembra regulas (ES) Nr. 1095/2010, ar ko izveido Eiropas Uzraudzības iestādi (Eiropas Vērtspapīru un tirgu iestādi), groza lēmumu Nr. 716/2009/EK un atceļ Komisijas lēmumu 2009/77/EK 21. pantu;
+5) sadarbību ar attiecīgajām ārvalstu uzraudzības institūcijām, arī lai piemērotu Regulas Nr. 2019/2033 23. panta 1. punkta "c" apakšpunkta un 2. punkta prasības un ar atbilstīgu centrālo darījumu partneru uzraudzības institūcijām apmainītos ar informāciju par drošības rezerves modeli un atjauninātu to;
+6) uzraudzības pienākumu deleģēšanu un tās efektivitātes palielināšanu, novēršot uzraudzības prasību dublēšanos.
+(3) Ja nepieciešams, Komisija izveido uzraugu kolēģiju arī tad, ja meitas sabiedrība tādai ieguldījumu brokeru sabiedrību grupai, kuras mātes sabiedrība ir Eiropas Savienības ieguldījumu brokeru sabiedrība, Eiropas Savienības mātes ieguldījumu pārvaldītājsabiedrība vai Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība, atrodas ārvalstī.
+(4) Uzraugu kolēģiju veido uzraudzības institūcijas, kuras atbild par tādas ieguldījumu brokeru sabiedrības uzraudzību, kuras mātes sabiedrība ir Eiropas Savienības ieguldījumu brokeru sabiedrība, Eiropas Savienības mātes ieguldījumu pārvaldītājsabiedrība vai Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība un, ja nepieciešams, ārvalsts uzraudzības institūcijas, ja šīs ārvalsts normatīvie akti pēc visu uzraugu kolēģiju veidojošo uzraudzības institūciju atzinuma paredz šā likuma 41. panta sestās, septītās, astotās un devītās daļas, 83. panta ceturtās daļas prasībām līdzvērtīgas prasības.
+(5) Komisija veido uzraugu kolēģiju, noslēdzot sadarbības līgumu ar iesaistītajām uzraudzības institūcijām.
+(6) Komisija ir tiesīga ar uzraugu kolēģijas darbību saistīto domstarpību izšķiršanai vērsties Eiropas Banku iestādē saskaņā ar Regulas Nr. 1093/2010 19. pantu.

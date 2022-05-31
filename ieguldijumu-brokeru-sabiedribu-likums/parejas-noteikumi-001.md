@@ -1,0 +1,1 @@
+1. Ārvalsts grupa, kurā ietilpst vairāk nekā viena dalībvalsts kredītiestāde vai ieguldījumu brokeru sabiedrība un kuras kopējā aktīvu vērtība Eiropas Savienībā 2019. gada 27. jūnijā bija vismaz 40 miljardi euro, un kura turpina darbību šā likuma spēkā stāšanās dienā, atbilstoši šā likuma 21. panta prasībām līdz 2023. gada 30. decembrim izveido mātes sabiedrību Eiropas Savienībā.

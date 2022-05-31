@@ -1,0 +1,3 @@
+28. pants. Paziņošanas pienākums, samazinot un izbeidzot būtisku līdzdalību
+(1) Ja persona vēlas izbeigt būtisku līdzdalību ieguldījumu brokeru sabiedrībā, tā par šādu lēmumu iepriekš rakstveidā paziņo Komisijai. Paziņojumā persona norāda tai paliekošo attiecīgās kapitālsabiedrības pamatkapitāla daļu vai balsstiesīgo akciju vai daļu apmēru procentos.
+(2) Ja persona vēlas samazināt būtisku līdzdalību zem 20, 33 vai 50 procentiem no ieguldījumu brokeru sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai ja attiecīgā kapitālsabiedrība pārstāj būt šīs personas meitas sabiedrība, persona par šādu lēmumu iepriekš rakstveidā paziņo Komisijai.

@@ -1,0 +1,2 @@
+XI nodaļa
+Ieguldījumu pārvaldītājsabiedrības, jauktas finanšu pārvaldītājsabiedrības un jauktas pārvaldītājsabiedrības uzraudzība

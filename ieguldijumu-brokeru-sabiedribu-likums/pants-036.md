@@ -1,0 +1,4 @@
+36. pants. Prasības attiecībā uz atalgojuma politiku un praksi komercdarbības atbalsta saņemšanas gadījumā
+(1) Ieguldījumu brokeru sabiedrība, kura saņem komercdarbības atbalstu Komercdarbības atbalsta kontroles likuma izpratnē (turpmāk - komercdarbības atbalsts), pārskata savu atalgojuma politiku un praksi, nosakot atalgojuma ierobežojumus, lai nodrošinātu efektīvu risku pārvaldīšanu un ilgtermiņa attīstību.
+(2) Ieguldījumu brokeru sabiedrība, kura saņem komercdarbības atbalstu, nosaka procentuālus ierobežojumus savu neto ieņēmumu apmēram, kuru drīkst izmantot atalgojuma mainīgās daļas piešķiršanai un izmaksai, lai nodrošinātu stabilai ieguldījumu brokeru sabiedrības darbībai atbilstoša pašu kapitāla apmēra uzturēšanu un savlaicīgu komercdarbības atbalsta izbeigšanu.
+(3) Ieguldījumu brokeru sabiedrība, kura saņem komercdarbības atbalstu, tās padomes un valdes locekļiem neizmaksā atalgojuma mainīgo daļu.

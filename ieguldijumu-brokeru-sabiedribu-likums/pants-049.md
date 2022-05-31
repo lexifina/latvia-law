@@ -1,0 +1,4 @@
+49. pants. Uzraudzība pār Latvijas Republikā licencētu ieguldījumu brokeru sabiedrību, kura sniedz ieguldījumu pakalpojumus dalībvalstī
+(1) Komisija informē attiecīgās dalībvalsts uzraudzības institūciju pirms iekšējās pārbaudes veikšanas tādas Latvijas Republikā licencētas ieguldījumu brokeru sabiedrības filiālē, kura šajā dalībvalstī sniedz ieguldījumu pakalpojumus.
+(2) Dalībvalsts uzraudzības institūcija ir tiesīga pēc savas iniciatīvas, kā arī pēc Komisijas lūguma veikt iekšējo pārbaudi Latvijas Republikā licencētas ieguldījumu brokeru sabiedrības filiālē, kas darbojas tās teritorijā.
+(3) Par licences anulēšanu tādām Latvijas Republikā licencētām ieguldījumu brokeru sabiedrībām, kuru filiāles darbojas dalībvalstīs vai kuras sniedz ieguldījumu pakalpojumus dalībvalstīs, neatverot filiāli, Komisija nekavējoties informē attiecīgo dalībvalstu uzraudzības institūcijas.

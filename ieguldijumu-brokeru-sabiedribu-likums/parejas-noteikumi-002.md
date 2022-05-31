@@ -1,0 +1,1 @@
+2. Šā likuma 66. pantā minētā pārvaldītājsabiedrība, kura veica darbību 2019. gada 27. jūnijā un turpina darbību šā likuma spēkā stāšanās dienā, saņem atļauju minētajā pantā noteiktajā kārtībā sešu mēnešu laikā no šā likuma spēkā stāšanās dienas.

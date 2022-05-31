@@ -1,0 +1,17 @@
+21. pants. Ārvalsts grupas ieguldījumu brokeru sabiedrība
+(1) Ieguldījumu brokeru sabiedrība, kas ietilpst ārvalsts grupā, kuras aktīvu kopējā vērtība Eiropas Savienībā ir vismaz 40 miljardi euro, var saņemt licenci, veikt reģistrāciju komercreģistrā un darboties Latvijas Republikā tikai tad, ja ir izpildīts vismaz viens no šādiem nosacījumiem:
+1) ieguldījumu brokeru sabiedrība ir vienīgā ārvalsts grupas kredītiestāde vai ieguldījumu brokeru sabiedrība Eiropas Savienībā;
+2) ieguldījumu brokeru sabiedrībai ir reģistrēta mātes sabiedrība Eiropas Savienībā;
+3) ieguldījumu brokeru sabiedrība ir mātes sabiedrība Eiropas Savienībā reģistrētai kredītiestādei vai ieguldījumu brokeru sabiedrībai.
+(2) Ārvalsts grupas aktīvu kopējo vērtību Eiropas Savienībā veido šāda summa:
+1) katras ārvalsts grupas kredītiestādes un ieguldījumu brokeru sabiedrības aktīvu vērtības kopsumma Eiropas Savienībā, pamatojoties uz konsolidēto finanšu pārskatu datiem vai, ja nav pieejami konsolidēti dati, pamatojoties uz individuālo finanšu pārskatu;
+2) aktīvu vērtības kopsumma katrai ārvalsts grupas filiālei, kura ir saņēmusi atļauju darboties Eiropas Savienībā kā kredītiestāde vai ieguldījumu brokeru sabiedrība.
+(3) Ja ieguldījumu brokeru sabiedrība ietilpst ārvalsts grupā un šajā grupā ietilpst arī dalībvalsts kredītiestāde vai ieguldījumu brokeru sabiedrība, ārvalsts grupai ir pienākums veidot vienu mātes sabiedrību Eiropas Savienībā. Komisija var atļaut veidot otru mātes sabiedrību Eiropas Savienībā, ja tā veic ieguldījumu brokeru sabiedrības konsolidētu uzraudzību atbilstoši šā likuma X un XI nodaļai un ir izpildīts viens no šādiem nosacījumiem:
+1) vienas mātes sabiedrības izveide Eiropas Savienībā nenodrošinātu prasību nodalīt darbības, kā to paredz tās ārvalsts normatīvie akti vai uzraudzības institūcija, kurā atrodas galvenā ārvalsts grupas mātesuzņēmuma vadība;
+2) vienas mātes sabiedrības izveide Eiropas Savienībā mazinātu noregulējuma efektivitāti salīdzinājumā ar divu mātes sabiedrību izveidi Eiropas Savienībā.
+(4) Šā panta trešajā daļā minētajā gadījumā ieguldījumu brokeru sabiedrības mātes sabiedrība var būt dalībvalstī reģistrēta kredītiestāde vai pārvaldītājsabiedrība, kurai piešķirta atļauja atbilstoši šā likuma 66. panta otrās daļas prasībām. Mātes sabiedrība var būt ieguldījumu brokeru sabiedrība, ja ārvalsts grupā neietilpst neviena dalībvalsts kredītiestāde vai Komisija atļauj veidot otru mātes sabiedrību Eiropas Savienībā saistībā ar ieguldījumu pakalpojumu sniegšanu.
+(5) Komisija sniedz Eiropas Banku iestādei šādu informāciju par ārvalsts grupu, kas darbojas Latvijas Republikas teritorijā:
+1) nosaukums un kopējā aktīvu vērtība - par kredītiestādi un ieguldījumu brokeru sabiedrību, kura pieder pie kādas ārvalsts grupas;
+2) nosaukums, kopējā aktīvu vērtība un darbības veids - par filiāli, kura Latvijas Republikā darbojas kā kredītiestāde vai ieguldījumu brokeru sabiedrība;
+3) nosaukums - par kredītiestādi un ieguldījumu brokeru sabiedrības mātes sabiedrību, kura licencēta Latvijas Republikā, kā arī tās ārvalsts grupas nosaukums, pie kuras tā pieder.
+(6) Komisija sadarbojas ar attiecīgajā ārvalsts ieguldījumu brokeru sabiedrības filiālē ietilpstošās ārvalsts grupas ārvalsts uzraudzības institūciju, Eiropas Vērtspapīru un tirgu iestādi un Eiropas Banku iestādi, lai nodrošinātu, ka visām ārvalsts grupas darbībām Eiropas Savienībā tiek piemērota visaptveroša uzraudzība saskaņā ar šo likumu, Finanšu instrumentu tirgus likumu, Regulu Nr. 575/2013, Regulu Nr. 600/2014 un Regulu Nr. 2019/2033.
