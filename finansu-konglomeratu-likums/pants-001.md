@@ -1,6 +1,6 @@
 1.pants. Likumā ir lietoti šādi termini:
 1) regulētā komercsabiedrība - dalībvalstī licencēta kredītiestāde, apdrošināšanas sabiedrība, pārapdrošināšanas sabiedrība, alternatīvo ieguldījumu fondu pārvaldnieks, ieguldījumu pārvaldes sabiedrība vai ieguldījumu brokeru sabiedrība;
-2) sektoru noteikumi - normatīvie akti, kas nosaka regulēto komercsabiedrību uzraudzību;
+2) sektora noteikumi - tiesību normas, kas ietvertas regulēto komercsabiedrību uzraudzību regulējošos normatīvajos aktos un tieši piemērojamos Eiropas Savienības tiesību aktos;
 3) finanšu sektors - sektors, kuru veido kredītiestāžu sektorā, apdrošināšanas sektorā un ieguldījumu pakalpojumu sektorā ietilpstošas komercsabiedrības un jauktas finanšu pārvaldītājsabiedrības neatkarīgi no tā, vai minētās komercsabiedrības atrodas vienā vai vairākās valstīs;
 4) kredītiestāžu sektors - sektors, kurā darbojas viena vai vairākas šādas komercsabiedrības:
 a) kredītiestāde,

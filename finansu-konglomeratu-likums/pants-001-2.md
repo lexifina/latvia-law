@@ -1,0 +1,1 @@
+1. Šā likuma grozījumi par vārdu "Finanšu un kapitāla tirgus komisija" (attiecīgā locījumā) aizstāšanu ar vārdiem "Latvijas Banka" (attiecīgā locījumā) visā likumā un vārdu "un kapitāla" izslēgšanu 2. pantā stājas spēkā 2023. gada 1. janvārī.
