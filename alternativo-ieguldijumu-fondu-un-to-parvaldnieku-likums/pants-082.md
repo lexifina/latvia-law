@@ -1,6 +1,6 @@
 82.pants. Maksājumi Komisijas darbības finansēšanai
 (1) Pārvaldnieks veic Komisijas darbības finansēšanai maksājumus šādā apmērā:
-1) licencēts pārvaldnieks - līdz 0,033 procentiem ieskaitot no tā pārvaldē esošo fondu vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 3557 euro gadā;
+1) licencēts pārvaldnieks - 4000 euro gadā un papildu 0,0025 līdz 0,0125 procentus no tā pārvaldē esošo fondu vidējā aktīvu apmēra ceturksnī;
 2) reģistrēts pārvaldnieks - 900 euro gadā;
 3) licencēts ārējais pārvaldnieks, kuram ir atļauts sniegt šā likuma 5.panta septītajā un astotajā daļā minētos ieguldījumu pakalpojumus, - līdz vienam procentam no pārvaldnieka sniegto ieguldījumu pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 711 euro gadā;
 4) reģistrēts pārvaldnieks, kurš pārvalda Eiropas riska kapitāla fondu vai Eiropas sociālās uzņēmējdarbības fondu, papildus šā panta pirmās daļas 2. punktā minētajam maksājumam - 1900 euro gadā.

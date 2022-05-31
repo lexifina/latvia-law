@@ -1,6 +1,5 @@
-18.pants. Papildpakalpojumu sniegšana
-(1) Ja pārvaldnieks vēlas sniegt jaunu papildpakalpojumu, šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus vai atteikties no kāda papildpakalpojuma vai šā likuma 5.panta septītajā un astotajā daļā minētā pakalpojuma sniegšanas, tas iesniedz Komisijai attiecīgu iesniegumu.
-(2) Ja pārvaldnieks vēlas uzsākt jauna papildpakalpojuma vai šā likuma 5.panta septītajā un astotajā daļā minētā pakalpojuma sniegšanu, tas vienlaikus ar iesniegumu Komisijai iesniedz:
-1) papildinājumus darbības plānā;
-2) grozījumus pārvaldnieka iekšējās darba organizācijas aprakstos, kas ir nepieciešami, lai nodrošinātu minēto pakalpojumu sniegšanu atbilstoši šā likuma prasībām.
-(3) Lēmumu par atļauju sniegt papildpakalpojumu vai šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus Komisija pieņem 15 darbdienu laikā pēc visu šajā likumā minēto dokumentu saņemšanas.
+18. pants. Grozījumi pārvaldnieka licencē
+(1) Ja pārvaldnieks vēlas, lai tam izsniegtajā licencē norādītie pakalpojumi vai papildpakalpojumi tiktu papildināti ar jauniem, vai vēlas atteikties no kāda licencē norādītā pakalpojuma vai papildpakalpojuma sniegšanas, tas vienlaikus ar attiecīgu iesniegumu Komisijai iesniedz:
+1) papildinājumus darbības plānā un grozījumus pārvaldnieka iekšējās kontroles sistēmas politikās un procedūrās, kas nepieciešami, lai nodrošinātu attiecīgo papildpakalpojumu sniegšanu atbilstoši šā likuma prasībām;
+2) dokumentus atbilstoši Finanšu instrumentu tirgus likuma 103. panta prasībām, ja pārvaldnieks vēlas uzsākt šā likuma 5. panta septītajā un astotajā daļā minētā pakalpojuma sniegšanu.
+(2) Lēmumu par grozījumiem pārvaldnieka licencē Komisija pieņem viena mēneša laikā pēc visu šajā pantā minēto atbilstoši normatīvajos aktos noteiktajām prasībām sagatavoto un noformēto dokumentu saņemšanas.
