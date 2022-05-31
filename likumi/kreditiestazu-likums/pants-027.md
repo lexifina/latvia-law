@@ -13,5 +13,6 @@
 1) kredītiestāde ir saņēmusi atļauju sākt pašlikvidācijas procesu;
 2) kredītiestāde ir saņēmusi atļauju tās reorganizācijai un tādēļ tai vairs nav nepieciešama licence (atļauja) kredītiestādes darbībai;
 3) tiesa ir pieņēmusi spriedumu, ar kuru pasludina kredītiestādi par maksātnespējīgu.
+(1²) Finanšu un kapitāla tirgus komisija ir tiesīga anulēt kredītiestādes licenci (atļauju), kas izsniegta saskaņā ar šā likuma 11.² pantu, ja piecus gadus pēc kārtas nav iestājušies šā likuma 11.² panta pirmajā daļā minētie nosacījumi.
 (2) Anulētā vai spēku zaudējusī kredītiestādes licence (atļauja) netiek atjaunota.
 (3) Lēmuma par kredītiestādes licences (atļaujas) anulēšanu apstrīdēšana Administratīvajā pārskatīšanas padomē vai pārsūdzēšana Eiropas Savienības Tiesā saskaņā ar ES regulu Nr. 1024/2013 neaptur lēmuma darbību, izņemot ES regulas Nr. 1024/2013 24. pantā noteikto gadījumu.

@@ -26,7 +26,7 @@ o) elektroniskās naudas emisija;
 9) klients - persona, kurai kredītiestāde sniedz finanšu pakalpojumus;
 10) (izslēgts ar 24.04.2014. likumu);
 11) (izslēgts ar 24.04.2014. likumu);
-11¹) dalībvalsts mātes kredītiestāde - kredītiestāde, kas ir dalībvalsts mātes iestāde Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - ES regula Nr. 575/2013) 4.panta 1.punkta 28.apakšpunkta izpratnē;
+11¹) dalībvalsts mātes kredītiestāde - kredītiestāde, kas ir dalībvalsts mātes iestāde Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - ES regula Nr. 575/2013) 4.panta 1.punkta 28.apakšpunkta izpratnē;
 11²) (izslēgts ar 24.04.2014. likumu);
 11³) Eiropas Savienības mātes kredītiestāde - kredītiestāde, kas ir Eiropas Savienības mātes iestāde ES regulas Nr. 575/2013 4.panta 1.punkta 29.apakšpunkta izpratnē;
 11⁴) (izslēgts ar 24.04.2014. likumu);
