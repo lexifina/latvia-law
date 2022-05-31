@@ -1,3 +1,0 @@
-117.pants. Vadības ziņojums par ieguldījumu brokeru sabiedrības gada pārskatu
-(1) Ziņojumā tiek ietverts ieguldījumu brokeru sabiedrības finanšu stāvokļa un attīstības raksturojums. Ja gada pārskatā atspoguļotos ieguldījumu brokeru sabiedrības darbības rezultātus ir būtiski ietekmējuši īpaši apstākļi vai arī gada pārskatu nevar uzskatīt par pietiekamu, papildu informācija tiek sniegta atsevišķā ziņojuma punktā.
-(2) Ziņojumā sniedzamas arī ziņas par svarīgiem notikumiem, ja tādi bijuši pēc pārskata gada beigām, par ieguldījumu brokeru sabiedrības paredzamo attīstību un svarīgiem attīstības pasākumiem.

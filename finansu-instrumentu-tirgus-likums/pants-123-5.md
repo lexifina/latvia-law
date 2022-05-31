@@ -1,4 +1,0 @@
-123.⁵ pants. Regulā Nr. 575/2013 paredzēto izvēles iespēju piemērošana, pārskatu un ziņojumu sniegšanas kārtība, makroprudenciālo vai sistēmisko risku izvērtējums un rīcība
-(1) Regulā Nr. 575/2013 paredzēto izvēles iespēju attiecībā uz prudenciālo prasību un pārejas periodu noteikšanu šīs regulas noteikumu piemērošanai nosaka Komisija.
-(2) Komisija ir tiesīga noteikt ar atsevišķiem notikumiem saistītu ziņojumu sniegšanas, pārskatu sagatavošanas un iesniegšanas noteikumus, kā arī ieguldījumu brokeru sabiedrību uzraudzībai nepieciešamās informācijas sagatavošanas, sniegšanas kārtību un nepieciešamo atļauju saņemšanas kārtību, ja to nav noteikusi Eiropas Komisija.
-(3) Komisija, ievērojot Regulu Nr. 575/2013, var noteikt tajā paredzētajās jomās stingrākas regulējošās prasības nekā šajā regulā noteiktās.

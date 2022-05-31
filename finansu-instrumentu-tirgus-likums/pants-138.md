@@ -1,5 +1,5 @@
 138. pants. Komisijas tiesības uzraudzības īstenošanā
-(1) Komisija papildus Finanšu un kapitāla tirgus komisijas likumā, šajā likumā un tieši piemērojamos Eiropas Savienības tiesību aktos noteiktajām tiesībām attiecībā uz ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu, regulētā tirgus organizētāja darbību, datu ziņošanas pakalpojumu sniegšanu un šā likuma XII⁴ nodaļā noteiktajām prasībām ir tiesīga piemērot šādus uzraudzības pasākumus:
+(1) Komisija papildus Finanšu un kapitāla tirgus komisijas likumā, Ieguldījumu brokeru sabiedrību likumā, šajā likumā un tieši piemērojamos Eiropas Savienības tiesību aktos noteiktajām tiesībām attiecībā uz ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu, regulētā tirgus organizētāja darbību un šā likuma XII⁴ nodaļā noteiktajām prasībām ir tiesīga piemērot šādus uzraudzības pasākumus:
 1) (izslēgts ar 31.03.2022. likumu);
 2) (izslēgts ar 31.03.2022. likumu);
 3) (izslēgts ar 31.03.2022. likumu);
@@ -11,7 +11,7 @@
 9) (izslēgts ar 31.03.2022. likumu);
 10) (izslēgts ar 31.03.2022. likumu);
 11) pieprasīt, lai finanšu instrumentu tirgus dalībnieki izbeidz jebkādas darbības, kas ir pretrunā ar šā likuma un Regulas Nr. 600/2014 prasībām;
-12) veikt jebkāda veida pasākumus, lai nodrošinātu to ieguldījumu brokeru sabiedrību, kredītiestāžu, regulētā tirgus organizētāju un citu personu darbības atbilstību, uz kurām attiecas šā likuma vai Regulas Nr. 600/2014 prasības;
+12) veikt jebkāda veida pasākumus, lai nodrošinātu to ieguldījumu brokeru sabiedrību, kredītiestāžu, regulētā tirgus organizētāju un citu personu, tai skaitā apstiprinātu publicēšanas struktūru un apstiprinātu ziņošanas sistēmu, darbības atbilstību, uz kurām attiecas šā likuma vai Regulas Nr. 600/2014 prasības;
 13) apturēt finanšu instrumentu tirdzniecību;
 14) pieprasīt, lai finanšu instrumenti tiek izslēgti no tirdzniecības vietas;
 15) pieprasīt jebkurai personai, lai tā veic atbilstošus pasākumus pozīcijas vai riska darījuma apjoma samazināšanai;
@@ -19,7 +19,7 @@
 17) (izslēgts ar 31.03.2022. likumu);
 18) (izslēgts ar 31.03.2022. likumu);
 19) apturēt finanšu instrumentu vai strukturēto noguldījumu reklamēšanu, izplatīšanu vai pārdošanu saskaņā ar Regulas Nr. 600/2014 40., 41. vai 42. pantā noteikto;
-20) apturēt finanšu instrumentu vai strukturēto noguldījumu reklamēšanu, izplatīšanu vai pārdošanu, ja ieguldījumu brokeru sabiedrība vai kredītiestāde nav izstrādājusi vai īstenojusi efektīvu produktu apstiprināšanas procesu vai kā citādi nav ievērojusi šā likuma 124. panta pirmās daļas 13. punkta un 127. panta vienpadsmitās daļas prasības;
+20) apturēt finanšu instrumentu vai strukturēto noguldījumu reklamēšanu, izplatīšanu vai pārdošanu, ja ieguldījumu brokeru sabiedrība vai kredītiestāde nav izstrādājusi vai īstenojusi efektīvu produktu apstiprināšanas procesu, nav nodrošinājusi visus nepieciešamos un samērīgos administratīvos un organizatoriskos pasākumus, lai novērstu šā likuma 127. pantā minēto interešu konfliktu negatīvo ietekmi uz klientu interesēm, vai kā citādi nav ievērojusi šā likuma 127. panta vienpadsmitās daļas prasības;
 21) pieprasīt, lai tiek atcelts no amata ieguldījumu brokeru sabiedrības, kredītiestādes vai regulētā tirgus organizētāja valdes vai padomes loceklis;
 22) dot finanšu instrumentu tirgus dalībnieku pārvaldes institūcijām, to vadītājiem un locekļiem saistošus rakstveida norādījumus, kas nepieciešami, lai novērstu situācijas, kurās tiek pārkāptas šā likuma vai tieši piemērojamo Eiropas Savienības tiesību aktu normas.
 (2) Komisija var piemērot šā panta pirmās daļas 15. un 16. punktā noteiktos uzraudzības pasākumus arī tad, ja tie nepieciešami citas dalībvalsts uzraudzības institūcijas uzraudzības mērķa sasniegšanai.

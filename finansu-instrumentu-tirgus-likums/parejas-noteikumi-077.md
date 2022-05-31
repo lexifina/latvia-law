@@ -1,0 +1,1 @@
+77. Šā likuma 1. panta sestā daļa, grozījumi 133.¹⁶ panta devītajā daļā, 133.¹⁶ panta vienpadsmitās daļas 3. punkts, grozījumi 133.¹⁶ pantā par trīspadsmitās daļas papildināšanu ar teikumu un četrpadsmitajā daļā, kā arī 133.¹⁷ panta otrās daļas jaunā redakcija un grozījums 133.¹⁷ panta piektajā daļā stājas spēkā 2022. gada 22. novembrī.

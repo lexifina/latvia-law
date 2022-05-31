@@ -1,4 +1,0 @@
-123.¹ pants. Ieguldījumu brokeru sabiedrības kapitāls risku segšanai
-(1) Papildus Regulā Nr. 575/2013 noteiktajām pašu kapitāla prasībām ieguldījumu brokeru sabiedrība novērtē savai darbībai piemītošo un varbūtējo risku segšanai nepieciešamo kapitālu un nodrošina, lai tās darbībai piemītošo un varbūtējo risku segšanai nepieciešamais kapitāls būtu pietiekams, kā arī nosaka šā kapitāla elementus un struktūru.
-(2) Ieguldījumu brokeru sabiedrība izstrādā savas darbības raksturam, apjomam un sarežģītībai piemērotu visaptverošu, pamatotu un efektīvu stratēģiju un procedūras un veic nepieciešamos pasākumus nepārtrauktai kapitāla novērtēšanai un pietiekama kapitāla uzturēšanai.
-(3) Ieguldījumu brokeru sabiedrība regulāri pārskata šā panta otrajā daļā minēto stratēģiju un procedūras, lai nodrošinātu, ka tās aizvien ir visaptverošas un samērīgas ar ieguldījumu brokeru sabiedrības darbības veidu, apjomu un sarežģītību.

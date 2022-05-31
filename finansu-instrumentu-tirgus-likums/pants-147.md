@@ -7,7 +7,7 @@
 (3) Komisija informē Eiropas Komisiju, kā arī pārējās dalībvalstis par tiem starpperiodu finanšu pārskatiem, ko kapitālsabiedrība, kuras akcijas ir iekļautas regulētajā tirgū, sagatavo un izplata šajā likumā noteiktajā kārtībā, un par šā likuma 62.panta ceturtās daļas prasību piemērošanu.
 (4) Komisija informē Eiropas Komisiju un Eiropas Vērtspapīru un tirgu iestādi par:
 1) gadījumiem, kas minēti šā likuma 64.³ panta trešajā daļā;
-2) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu un 140.panta otro un piekto daļu;
+2) darbībām, ko tā veikusi saskaņā ar šā likuma 40.¹ panta otro daļu;
 3) gadījumiem, kad tā saskaņā ar šā likuma 63.panta pirmajā daļā noteikto atzīst par līdzvērtīgu tādu informāciju, ko emitents, kura juridiskā adrese ir ārvalstī, sniedz saskaņā ar savas valsts normatīvo aktu prasībām;
 4) vispārēja rakstura grūtībām, ar kādām, sniedzot ieguldījumu pakalpojumus vai uzsākot ieguldījumu pakalpojumu sniegšanu ārvalstīs, saskaras ieguldījumu brokeru sabiedrības, kuras Komisijā saņēmušas licenci ieguldījumu pakalpojumu vai ieguldījumu blakuspakalpojumu sniegšanai.
 (5) Komisija informē Eiropas Vērtspapīru un tirgu iestādi par:
@@ -16,5 +16,5 @@
 3) sankcijām, administratīvajiem pasākumiem un uzraudzības pasākumiem, kurus Komisija par šā likuma normu pārkāpumiem ir piemērojusi tirgus dalībniekiem. Ja Komisija publisko informāciju par tirgus dalībniekam piemērotu sankciju, administratīvo pasākumu vai uzraudzības pasākumu, tā nekavējoties informē par to Eiropas Vērtspapīru un tirgu iestādi. Reizi gadā Komisija nosūta šai iestādei apkopojumu par visiem tirgus dalībniekiem gada laikā piemērotajām sankcijām, administratīvajiem pasākumiem un uzraudzības pasākumiem;
 4) jebkuriem citiem faktiem, kas Eiropas Vērtspapīru un tirgu iestādei nepieciešami savu pienākumu pildīšanai.
 (6) Komisijai ir tiesības informēt Eiropas Vērtspapīru un tirgu iestādi par gadījumiem, kad citas dalībvalsts uzraudzības iestāde nesniedz informāciju pēc motivēta Komisijas pieprasījuma vai nesniedz informāciju atbilstošā (saprātīgā) termiņā, vai, neraugoties uz Komisijas pieprasījumu, atsaka Komisijai iespēju šīs dalībvalsts teritorijā veikt pārbaudi vai pārbaudē piedalīties Komisijas pilnvarotiem pārstāvjiem, vai neatbild uz šādu pieprasījumu atbilstošā (saprātīgā) termiņā.
-(7) Komisija informē Eiropas Banku iestādi par lēmumiem, kas pieņemti sakarā ar šā likuma 148. panta piecpadsmitajā un 15.² daļā minētajiem pārkāpumiem, un to pārsūdzības procesa gaitu.
+(7) (Izslēgta ar 28.04.2022. likumu)
 (8) Komisija informē Eiropas Komisiju, Eiropas Banku iestādi un Eiropas Vērtspapīru un tirgu iestādi par normatīvajiem aktiem, kas reglamentē ieguldījumu brokeru sabiedrību dibināšanu un darbību Latvijas Republikā.

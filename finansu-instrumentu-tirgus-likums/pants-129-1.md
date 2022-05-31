@@ -18,6 +18,6 @@
 (8) Ieguldījumu brokeru sabiedrība un kredītiestāde izveido atbilstošu organizatorisku struktūru, lai mazinātu klienta finanšu instrumentu vai ar tiem saistīto tiesību zaudējuma vai samazinājuma risku, kas var rasties aktīvu nepareizas izmantošanas, krāpšanas, sliktas pārvaldes, neatbilstošas uzskaites vai nolaidības dēļ.
 (9) Komisija var atļaut ieguldījumu brokeru sabiedrībai, kura izpilda ieguldītāju rīkojumus par darījumiem ar finanšu instrumentiem, turēt finanšu instrumentus savā vārdā (uzņemties savā vārdā saistības un risku, kas izriet no finanšu instrumentu pozīcijām), ja vienlaikus ir izpildīti šādi nosacījumi:
 1) šādu finanšu instrumentu pozīciju iemesls ir vienīgi ieguldījumu brokeru sabiedrības nespēja savstarpēji savietot ieguldītāju rīkojumus;
-2) šādu finanšu instrumentu pozīciju kopējā tirgus vērtība nepārsniedz 15 procentus no ieguldījumu brokeru sabiedrības sākotnējā kapitāla;
+2) šādu finanšu instrumentu pozīciju kopējā tirgus vērtība nepārsniedz 15 procentus no ieguldījumu brokeru sabiedrības sākotnējā kapitāla, kas noteikts Ieguldījumu brokeru sabiedrību likumā;
 3) ieguldījumu brokeru sabiedrība izpilda Regulas (ES) Nr. 575/2013 92., 93., 94. un 95.pantā un Ceturtajā daļā noteiktās prasības;
 4) šādām finanšu instrumentu pozīcijām ir gadījuma un pagaidu raksturs, un tās pastāv vienīgi uz laiku, kas vajadzīgs, lai veiktu minēto darījumu ar finanšu instrumentiem.

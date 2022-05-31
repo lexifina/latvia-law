@@ -1,7 +1,7 @@
 1. pants. Likumā lietotie termini
 (1) Likumā ir lietoti šādi termini:
 1) kategorija - viena veida finanšu instrumenti, kuros nostiprinātas viena un tā paša veida tiesības ar vienādiem šo tiesību īstenošanas noteikumiem;
-2) ieguldījumu brokeru sabiedrība - kapitālsabiedrība, kas regulāri un profesionāli sniedz ieguldījumu pakalpojumus;
+2) ieguldījumu brokeru sabiedrība - ieguldījumu brokeru sabiedrība Ieguldījumu brokeru sabiedrību likuma izpratnē;
 3) dalībvalsts - Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;
 4) izcelsmes dalībvalsts - dalībvalsts saskaņā ar šā likuma 3.¹ panta prasībām;
 5) dalībvalsts uzraudzības institūcija - institūcija, kurai dalībvalsts deleģējusi ieguldījumu pakalpojumu sniegšanas uzraudzības funkciju neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šo funkciju tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts paziņojusi Eiropas Komisijai;
@@ -17,26 +17,21 @@
 15) (izslēgts ar 31.03.2022. likumu);
 16) centrālais vērtspapīru depozitārijs - kapitālsabiedrība Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/ES un regulā (ES) Nr. 236/2012 (turpmāk - Regula Nr. 909/2014) 2. panta 1. punkta 1. apakšpunkta izpratnē;
 17) centrālā vērtspapīru depozitārija dalībnieks - dalībnieks likuma "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" 1. panta pirmās daļas 6. punkta izpratnē;
-18) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, regulētā tirgus organizētāji, centrālie vērtspapīru depozitāriji, datu ziņošanas pakalpojumu sniedzēji, ārvalsts ieguldījumu brokeru sabiedrības, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, un citas personas, kuras veic šajā likumā regulētās darbības;
+18) finanšu instrumentu tirgus dalībnieki - kredītiestādes, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, ieguldījumu brokeru sabiedrības, emitenti, ieguldītāji, sabiedrības, kuras saskaņā ar likumu ir tiesīgas pārvaldīt kopējo ieguldījumu uzņēmumus, regulētā tirgus organizētāji, centrālie vērtspapīru depozitāriji, ārvalsts ieguldījumu brokeru sabiedrības, kuras sniedz ieguldījumu pakalpojumus vai ieguldījumu blakuspakalpojumus, un citas personas, kuras veic šajā likumā regulētās darbības;
 19) būtiska līdzdalība - personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai dod iespēju būtiski ietekmēt komercsabiedrības finanšu un darbības politiku;
 20) kontrole - personai ir kontrole pār komercsabiedrību, ja:
 a) šai personai komercsabiedrībā ir izšķirošā ietekme uz līdzdalības pamata,
 b) šai personai komercsabiedrībā ir izšķirošā ietekme uz koncerna līguma pamata,
 c) starp šo personu un komercsabiedrību pastāv citas attiecības - analogas šā punkta "a" vai "b" apakšpunktā minētajām attiecībām;
 21) nozīmīga līdzdalība - tieši vai netieši iegūta līdzdalība, kas aptver piecus un vairāk procentus no emitenta balsstiesīgā kapitāla;
-22) Eiropas Savienības mātes ieguldījumu brokeru sabiedrība - ieguldījumu brokeru sabiedrība, kas ir Eiropas Savienības mātes iestāde Eiropas Parlamenta un Padomes 2013. gada 26. jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - Regula Nr. 575/2013) 4. panta 1. punkta 29. apakšpunkta izpratnē;
-23) Latvijas Republikas mātes ieguldījumu brokeru sabiedrība - Latvijas Republikā reģistrēta ieguldījumu brokeru sabiedrība, kurai ir meitas sabiedrība - ieguldījumu brokeru sabiedrība, cita finanšu iestāde vai kredītiestāde - vai kurai ir dalība ieguldījumu brokeru sabiedrībā, citā finanšu iestādē vai kredītiestādē, bet kura pati nav citas Latvijas Republikā reģistrētas licencētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
+22) (izslēgts ar 28.04.2022. likumu);
+23) (izslēgts ar 28.04.2022. likumu);
 24) Latvijas Republikas mātes finanšu pārvaldītājsabiedrība - Latvijas Republikā reģistrēta finanšu pārvaldītājsabiedrība, kura nav Latvijas Republikā reģistrētas ieguldījumu brokeru sabiedrības vai kredītiestādes meitas sabiedrība vai citas Latvijas Republikā reģistrētas finanšu pārvaldītājsabiedrības meitas sabiedrība;
 25) ciešas attiecības - divu vai vairāku personu savstarpēja saistība:
 a) dalības veidā - personai tiešā vai kontroles veidā ir 20 vai vairāk procentu balsstiesību komercsabiedrībā vai persona tiešā vai kontroles veidā ieguvusi līdzdalību, kas aptver 20 vai vairāk procentu no komercsabiedrības pamatkapitāla,
 b) kontroles veidā,
 c) ja tās ir saistītas ar vienu un to pašu personu kontroles veidā;
-26) sākotnējais kapitāls - kapitāls, kuru veido viens vai vairāki šādi elementi, kas atbilst Regulas Nr. 575/2013 prasībām attiecībā uz pirmā līmeņa pamata kapitāla elementiem:
-a) akcijas, kā arī citi kapitāla instrumenti un to emisijas uzcenojums,
-b) iepriekšējo gadu nesadalītā peļņa vai zaudējumi,
-c) citi uzkrātie ienākumi, kas uzrādīti kopējo ienākumu pārskatā,
-d) pārējās rezerves,
-e) kārtējā darbības gada peļņa;
+26) (izslēgts ar 28.04.2022. likumu);
 27) sākotnējais reģistrs - saraksts, kurā iekļautas personas, kurām pieder viena vai vairāku emitentu emitētie finanšu instrumenti (turpmāk arī - finanšu instrumentu īpašnieki) un kuras finanšu instrumentus ieguvušas sākotnējās izvietošanas rezultātā vai pēc finanšu instrumentu laišanas publiskajā apgrozībā sev piederošo finanšu instrumentu uzskaiti nav pārvietojušas no sākotnējā reģistra uz sev piederošo finanšu instrumentu kontu;
 28) (izslēgts ar 12.12.2019. likumu);
 29) depozitārie sertifikāti - pārvedami vērtspapīri, kas tirgojami kapitāla tirgū un apliecina īpašumtiesības uz tāda emitenta vērtspapīriem, kura juridiskā adrese ir citā valstī, un vienlaikus iekļauti tirdzniecībai regulētajā tirgū un tos var tirgot atsevišķi no šāda emitenta vērtspapīriem;
@@ -136,7 +131,7 @@ e) starptautiska finanšu institūcija, kuru izveidojušas divas vai vairākas d
 f) Eiropas Investīciju banka;
 99) valsts parāds - parāda instruments, ko emitē valsts emitents;
 100) pastāvīgs informācijas nesējs - jebkurš instruments, kas klientam sniedz iespēju uzglabāt viņam personīgi adresētu informāciju tā, lai šī informācija būtu pieejama turpmākai izmantošanai laikposmā, kas atbilst informācijas mērķim, un ļauj nemainītā veidā uzrādīt uzglabāto informāciju;
-101) datu ziņošanas pakalpojumu sniedzēji - apstiprināta publicēšanas struktūra, KDL nodrošinātājs vai apstiprināta ziņošanas sistēma;
+101) (izslēgts 28.04.2022. likumu);
 102) naudas tirgus instrumenti - finanšu instrumenti, kurus parasti tirgo naudas tirgū: valsts parādzīmes, noguldījumu sertifikāti un komercsabiedrību parādzīmes, izņemot maksāšanas līdzekļus;
 103) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
 104) filiāle - teritoriāli vai citādi nošķirta ieguldījumu brokeru sabiedrības vai kredītiestādes struktūrvienība, kurai nav juridiskās personas statusa un kura darbojas ieguldījumu brokeru sabiedrības vai kredītiestādes vārdā. Visas struktūrvienības, kuras vienā dalībvalstī ir izveidojusi ieguldījumu brokeru sabiedrība vai kredītiestāde, kas atrodas citā dalībvalstī, uzskatāmas par vienu filiāli;
@@ -151,10 +146,11 @@ f) Eiropas Investīciju banka;
 1) finanšu iestāde - finanšu iestāde Regulas Nr. 575/2013 4. panta 1. punkta 26. apakšpunkta izpratnē;
 2) finanšu pārvaldītājsabiedrība - finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 20. apakšpunkta izpratnē;
 3) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 30. apakšpunkta izpratnē;
-4) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - Eiropas Savienības mātes finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 31. apakšpunkta izpratnē;
-5) pašu kapitāls - pašu kapitāls Regulas Nr. 575/2013 4. panta 1. punkta 118. apakšpunkta izpratnē;
+4) (izslēgts ar 28.04.2022. likumu);
+5) pašu kapitāls - pašu kapitāls, kas attiecīgajam finanšu tirgus dalībniekam noteikts saskaņā ar tā darbību regulējošo normatīvo aktu prasībām;
 6) kapitāla vērtspapīri - pašu kapitāla vērtspapīri Regulas Nr. 2017/1129 2. panta "b" punkta izpratnē;
 7) publiskais piedāvājums - vērtspapīru publiskais piedāvājums Regulas Nr. 2017/1129 2. panta "d" punkta izpratnē;
 8) publiskā piedāvājuma izteicējs - piedāvātājs Regulas Nr. 2017/1129 2. panta "i" punkta izpratnē.
 (4) Likumā lietotais termins "saistītā puse" atbilst Komisijas 2008. gada 3. novembra regulas (EK) Nr. 1126/2008, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002 pielikumā minētajā 24. SGS "Informācijas atklāšana par saistītajām pusēm" lietotajam terminam.
 (5) Piemērojot šā likuma tiesību normas, kurās ir ietverti šā panta pirmajā daļā minētie termini, ievēro Komisijas 2016. gada 25. aprīļa deleģēto regulu (ES) 2017/565, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES attiecībā uz ieguldījumu brokeru sabiedrību organizatoriskām prasībām un darbības nosacījumiem un jēdzienu definīcijām minētās direktīvas mērķiem (turpmāk - Regula Nr. 2017/565) un Komisijas 2017. gada 28. augusta deleģēto regulu (ES) 2017/2294, ar ko deleģēto regulu (ES) 2017/565 groza attiecībā uz sistemātisko internalizētāju definīcijas konkretizēšanu direktīvas 2014/65/ES vajadzībām.
+(6) (Daļa stājas spēkā 22.11.2022. un iekļauta likuma redakcijā uz 22.11.2022. Sk. Pārejas noteikumu 77. punktu)

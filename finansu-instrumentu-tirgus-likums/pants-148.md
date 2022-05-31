@@ -13,7 +13,7 @@
 (6) (Izslēgta ar 08.11.2012. likumu)
 (7) (Izslēgta no 03.07.2016. ar 26.05.2016. likumu, kas stājas spēkā 29.06.2016. Sk. Pārejas noteikumu 55.pantu)
 (7¹) Par paziņojuma par korporatīvo pārvaldību nesagatavošanu saskaņā ar šā likuma 56.² panta prasībām vai tā nepublicēšanu šā likuma 56.² pantā noteiktajā kārtībā Komisijai ir tiesības emitentam izteikt brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
-(8) Par šā likuma noteikumu, kas regulē ieguldījumu brokeru sabiedrības, kredītiestādes, regulētā tirgus organizētāja, datu ziņošanas pakalpojumu sniedzēja, ārvalstu ieguldījumu brokeru sabiedrības filiāles darbību, kā arī par šā likuma XII ⁴ nodaļas noteikumu, Regulas Nr. 600/2014 un Komisijas izdoto normatīvo noteikumu vai pieņemto lēmumu pārkāpumiem Komisija ir tiesīga piemērot šādas sankcijas:
+(8) Par šā likuma noteikumu, kas regulē ieguldījumu brokeru sabiedrības, kredītiestādes, regulētā tirgus organizētāja, apstiprinātas publicēšanas struktūras, apstiprinātas ziņošanas sistēmas, ārvalstu ieguldījumu brokeru sabiedrības filiāles darbību, kā arī par šā likuma XII ⁴ nodaļas noteikumu, Regulas Nr. 600/2014 un Komisijas izdoto normatīvo noteikumu vai pieņemto lēmumu pārkāpumiem Komisija ir tiesīga piemērot šādas sankcijas:
 1) izteikt brīdinājumu;
 2) izteikt publisku paziņojumu, norādot par pārkāpumu atbildīgo fizisko vai juridisko personu un pārkāpuma būtību;
 3) (izslēgts ar 23.09.2021. likumu);
@@ -23,7 +23,7 @@
 7) uzlikt amatpersonai, darbiniekam vai personai, kura pārkāpuma izdarīšanas laikā ir atbildīga par noteiktas darbības veikšanu ieguldījumu brokeru sabiedrības vai kredītiestādes uzdevumā vai interesēs, soda naudu līdz 5 000 000 euro;
 8) kā alternatīvu uzlikt šīs daļas 6. un 7. punktā minētajām personām soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
 (8¹) Šā panta astotajā daļā paredzētās sankcijas vai 8.² daļā paredzētos administratīvos pasākumus Komisija ir tiesīga piemērot arī tad, ja:
-1) ieguldījumu pakalpojumi, regulētā tirgus organizētāja darbība un datu ziņošanas pakalpojumi tiek sniegti vai šā likuma XII⁴ nodaļā noteiktā darbība tiek veikta bez attiecīgas licences vai atļaujas;
+1) ieguldījumu pakalpojumi, regulētā tirgus organizētāja darbība, apstiprinātas publicēšanas struktūras un apstiprinātas ziņošanas sistēmas pakalpojumi tiek sniegti vai šā likuma XII⁴ nodaļā noteiktā darbība tiek veikta bez attiecīgas licences vai atļaujas;
 2) netiek ievēroti šā likuma 138. panta pirmajā daļā noteiktie uzraudzības pasākumi, ko piemērojusi Komisija.
 (8²) Komisijai ir tiesības par šā panta astotās daļas ievaddaļā minēto noteikumu un Komisijas izdoto normatīvo noteikumu vai pieņemto lēmumu pārkāpumiem piemērot šādus administratīvus pasākumus:
 1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona nekavējoties izbeidz attiecīgo darbību;
@@ -35,14 +35,8 @@
 (12) (Izslēgta ar 24.04.2014. likumu)
 (13) Ja finanšu instrumentu tirgus dalībnieks vai šā likuma 4.¹ panta trešajā un ceturtajā daļā minētā cita persona nepilda šā likuma 4.¹ panta prasības, Komisijai ir tiesības izteikt šai personai brīdinājumu vai uzlikt soda naudu līdz 14 200 euro.
 (14) Ja finanšu instrumentu tirgus dalībnieks vai cita persona, kurai ir saistoši tieši piemērojamie Eiropas Savienības institūciju izdotie tiesību akti finanšu instrumentu tirgus jomā (ja šajā likumā nav noteikts citādi), tos neievēro, Komisijai ir tiesības izteikt attiecīgajai personai brīdinājumu vai uzlikt soda naudu. Juridiskajām personām uzliek soda naudu līdz 142 300 euro, fiziskajām personām - līdz 57 000 euro.
-(15) Ja ieguldījumu brokeru sabiedrība neievēro šā likuma 122.² panta un 124.panta pirmās daļas 11.punkta, Kredītiestāžu likuma 35.²⁶, 35.²⁷ vai 35.²⁸ panta vai Regulas Nr. 575/2013 28., 52. vai 63.panta prasības attiecībā uz maksājumiem pašu kapitālā iekļauto instrumentu turētājiem, Regulas Nr. 575/2013 99.panta 1.punkta, 101.panta, 394.panta 1.punkta, 395.panta, 405.panta, 415.panta 1. un 2.punkta, 430.panta 1.punkta, 431.panta 1., 2. un 3.punkta vai 451.panta 1.punkta prasības, atkārtoti vai ilgstoši nepilda Regulas Nr. 575/2013 412.panta prasības vai arī ieguldījumu brokeru sabiedrības valdes un padomes loceklis neatbilst šā likuma 106.¹ panta prasībām, Komisija ir tiesīga piemērot šādas sankcijas:
-1) izteikt publisku paziņojumu, norādot par pārkāpumu atbildīgo fizisko vai juridisko personu un pārkāpuma būtību;
-2) (izslēgts ar 23.09.2021. likumu);
-3) (izslēgts ar 23.09.2021. likumu);
-4) uzlikt juridiskajai personai soda naudu līdz 10 procentiem no iepriekšējā finanšu gada neto ienākumu summas, kas atbilst summai, kuru saskaņā ar Regulu Nr. 575/2013 izmanto, lai aprēķinātu operacionālā riska pašu kapitāla prasību saskaņā ar pamatrādītāja pieeju. Ja 10 procenti no iepriekšējā finanšu gada neto ienākumu summas, kas aprēķināta saskaņā ar šā punkta pirmajā teikumā noteikto, ir mazāk par 142 300 euro, tad Komisija ir tiesīga uzlikt soda naudu līdz 142 300 euro. Ja juridiskā persona ir mātes sabiedrības meitas sabiedrība, iepriekšējā finanšu gada neto ienākumu summa atbilst summai, kuru saskaņā ar Regulu Nr. 575/2013 izmanto, lai aprēķinātu operacionālā riska pašu kapitāla prasību saskaņā ar pamatrādītāja pieeju, pamatojoties uz galējās mātes sabiedrības iepriekšējā finanšu gada konsolidētajos finanšu pārskatos uzrādīto;
-5) uzlikt par pārkāpumu atbildīgajai fiziskajai personai soda naudu līdz 5 000 000 euro;
-6) kā alternatīvu šīs daļas 4. vai 5. punktā minētajām personām uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
-(15¹) Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteiktās sankcijas.
+(15) (Izslēgta ar 28.04.2022. likumu)
+(15¹) (Izslēgta ar 28.04.2022. likumu)
 (15²) Ja ieguldījumu brokeru sabiedrība vai ieguldījumu brokeru sabiedrības valdes vai padomes loceklis neievēro šā panta piecpadsmitās daļas ievaddaļā noteiktās prasības vai neatbilst minētajām prasībām, Komisijai ir tiesības piemērot šādus administratīvos pasākumus:
 1) pieprasīt, lai ieguldījumu brokeru sabiedrība vai par pārkāpumu atbildīgā persona nekavējoties izbeidz attiecīgo darbību;
 2) noteikt pagaidu aizliegumu ieguldījumu brokeru sabiedrības valdes vai padomes loceklim vai citai fiziskajai personai, kura ir atbildīga par pārkāpumu, veikt tai noteiktos pienākumus ieguldījumu brokeru sabiedrībā.

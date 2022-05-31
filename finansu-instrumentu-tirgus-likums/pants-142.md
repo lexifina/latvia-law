@@ -1,2 +1,0 @@
-142.pants. Konsolidētā uzraudzība
-Komisija veic Latvijas Republikas mātes ieguldījumu brokeru sabiedrības un Latvijas Republikā reģistrētas Eiropas Savienības mātes ieguldījumu brokeru sabiedrības konsolidēto uzraudzību, pēc analoģijas ieguldījumu brokeru sabiedrību konsolidētajai uzraudzībai piemērojot Kredītiestāžu likuma VII¹ nodaļas noteikumus par Latvijas Republikas mātes kredītiestādes un Latvijas Republikā reģistrētas Eiropas Savienības mātes kredītiestādes konsolidēto uzraudzību.
