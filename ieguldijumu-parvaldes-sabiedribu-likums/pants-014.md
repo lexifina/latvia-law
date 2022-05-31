@@ -15,6 +15,7 @@
 (3) Sabiedrība, identificējot interešu konfliktu veidus, ņem vērā:
 1) sabiedrības intereses, tai skaitā intereses, kas izriet no sabiedrības piederības pie kādas grupas vai no pakalpojumu un darbību izpildes, kā arī klientu intereses un sabiedrības pienākumus pret fondu;
 2) divu vai vairāku pārvaldīto fondu intereses.
+(3¹) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. Pārejas noteikumu 46. punktu)
 (4) Lai nodrošinātu šā panta pirmās daļas prasību izpildi, sabiedrība atbilstoši tās lielumam un organizācijai, kā arī darījumu specifikai, apjomam un sarežģītībai izstrādā interešu konfliktu novēršanas politiku. Ja sabiedrība ietilpst komercsabiedrību grupā, interešu konfliktu novēršanas politika paredz arī tādu interešu konfliktu novēršanu, kuri var rasties citas grupā ietilpstošas komercsabiedrības darbības vai struktūras dēļ.
 (5) Sabiedrība interešu konfliktu novēršanas politikā:
 1) identificē apstākļus, kuri izraisa vai var izraisīt interešu konfliktu, kas rada būtisku apdraudējumu vai kaitējumu fondam vai viena vai vairāku klientu interesēm sakarā ar pārvaldes pakalpojumiem, ko sniedz sabiedrība vai trešā persona sabiedrības vārdā;
