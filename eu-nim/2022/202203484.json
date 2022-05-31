@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 28. aprīļa likums \"Grozījumi Ieguldījumu pārvaldes sabiedrību likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2022/94.5",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-17",
+  "entry_into_force": "2022-05-31",
+  "notification_date": "2022-06-01",
+  "commission_reference": "MNE(2022)03484",
+  "nim_celex": "72021L2261LVA_202203484",
+  "nim_id": "202203484",
+  "transposes_celex": [
+    "32021L2261"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2c5f4e3c-a213-4fbe-991e-14a849402239",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
