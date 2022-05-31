@@ -22,8 +22,8 @@ c) iekšējās kontroles procedūras;
 3) pirms līguma par pakalpojuma sniegšanu noslēgšanas, kā arī visā līguma darbības laikā nodrošina, lai klientam būtu pietiekama informācija, kas ļauj izvērtēt sniegtā pakalpojuma būtību un ar to saistītos finanšu riskus;
 4) pirms līguma noslēgšanas informē klientu par tiem līgumā paredzētajiem strīdus gadījumiem, kuri tiks izskatīti ārpustiesas ceļā, un šādu strīdu izskatīšanas kārtību;
 5) piedalās ieguldītāju aizsardzības sistēmā atbilstoši to regulējošajiem normatīvajiem aktiem;
-6) ievēro un izpilda citas prasības, kas saskaņā ar Finanšu instrumentu tirgus likuma XII nodaļu ir noteiktas ieguldījumu brokeru sabiedrībām, kuras veic ieguldītāju finanšu instrumentu individuālu pārvaldīšanu saskaņā ar ieguldītāju pilnvarojumu, sniedz konsultācijas par ieguldījumiem finanšu instrumentos un veic finanšu instrumentu turēšanu;
-7) ievēro un izpilda Finanšu instrumentu tirgus likumā ieguldījumu brokeru sabiedrībai noteiktās prasības attiecībā uz ārpakalpojumu deleģēšanu;
+6) ievēro un izpilda citas ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanas prasības, kas saskaņā ar Finanšu instrumentu tirgus likuma XII nodaļu un Ieguldījumu brokeru sabiedrību likuma IV nodaļu ir noteiktas ieguldījumu brokeru sabiedrībām, kuras sniedz šādus ieguldījumu pakalpojumus un ieguldījumu blakuspakalpojumu - portfeļa pārvaldību, ieguldījumu konsultācijas vai finanšu instrumentu turēšanu;
+7) ievēro un izpilda Ieguldījumu brokeru sabiedrību likumā ieguldījumu brokeru sabiedrībai noteiktās prasības attiecībā uz ārpakalpojumu deleģēšanu;
 8) nodrošina amatpersonu un darbinieku atalgojuma politiku un praksi, kas atbilst piesardzīgai un efektīvai risku pārvaldīšanai un veicina to, bet neveicina risku uzņemšanos virs sabiedrības noteiktā pieļaujamā risku uzņemšanās līmeņa.
 (3) Sabiedrība, ciktāl tas nepieciešams klienta interešu nodrošināšanai un aizsardzībai, atbilstoši klientam sniegtā pakalpojuma raksturam un apjomam pieprasa no klienta informāciju par:
 1) klienta pieredzi un zināšanām par pakalpojuma sniegšanas gaitā slēdzamajiem darījumiem;
