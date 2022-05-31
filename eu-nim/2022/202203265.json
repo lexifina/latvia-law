@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ieguldījumu brokeru sabiedrību likums.",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2022/94.1",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-17",
+  "entry_into_force": "2022-05-31",
+  "notification_date": "2022-05-24",
+  "commission_reference": "MNE(2022)03265",
+  "nim_celex": "72019L0878LVA_202203265",
+  "nim_id": "202203265",
+  "transposes_celex": [
+    "32019L0878"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1498a45f-e100-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
