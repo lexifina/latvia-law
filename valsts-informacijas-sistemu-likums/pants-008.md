@@ -1,6 +1,6 @@
-8.pants. Valsts informācijas sistēmas turētāja funkcijas
-Valsts informācijas sistēmas turētājs saskaņā ar normatīvajiem aktiem nodrošina un atbild par:
-1) datu vākšanu, reģistrēšanu, ievadīšanu, apstrādi, glabāšanu, izmantošanu, pārraidīšanu, publicēšanu, atbilstību iesniegtajiem datiem, aktualizēšanu, labošanu, kā arī datu kvalitāti valsts informācijas sistēmā;
+8.pants. Valsts informācijas sistēmas pārziņa funkcijas
+Valsts informācijas sistēmas pārzinis saskaņā ar normatīvajiem aktiem nodrošina un atbild par:
+1) datu vākšanu, reģistrēšanu, ievadīšanu, apstrādi, glabāšanu, izmantošanu, pārraidīšanu, publicēšanu, atbilstību iesniegtajiem datiem, aktualizēšanu, labošanu valsts informācijas sistēmā, kā arī datu kvalitāti valsts informācijas sistēmā vismaz šādā minimālajā apjomā - datu saskaņotība un salīdzināmība, izmantojot vienotus klasifikatorus un identifikatorus, kā arī pieejamība un skaidrība, aprakstot un darot pieejamus metadatus;
 2) datu ieguves avotu norādi, ja dati nav iegūti tieši no datu subjekta;
 3) datu lietošanu un to apmaiņu starp valsts informācijas sistēmām elektroniskā veidā;
 4) piekļūšanu apritē esošajai informācijai elektroniskā veidā, ja vien ar likumu nav noteikts citādi;

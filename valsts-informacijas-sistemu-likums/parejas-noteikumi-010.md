@@ -1,0 +1,1 @@
+10. Šā likuma grozījums par tā papildināšanu ar 18. pantu par valsts platformu izmantošanu stājas spēkā 2022. gada 1. decembrī. Ministru kabinets līdz 2022. gada 30. novembrim izdod šā likuma 18. panta ceturtajā un piektajā daļā minētos noteikumus.
