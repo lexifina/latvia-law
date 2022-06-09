@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2007. gada 10. jūlija noteikumos Nr.482 “Ceļu drošības auditoru sertificēšanas kārtība”",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2022/110.4",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-08",
+  "entry_into_force": "2022-06-09",
+  "notification_date": "2022-06-10",
+  "commission_reference": "MNE(2022)03694",
+  "nim_celex": "72019L1936LVA_202203694",
+  "nim_id": "202203694",
+  "transposes_celex": [
+    "32019L1936"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cc1e18e5-ee0e-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
