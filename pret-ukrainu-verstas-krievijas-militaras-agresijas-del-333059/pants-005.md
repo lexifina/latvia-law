@@ -1,0 +1,8 @@
+5. pants. Atbalsta finansēšana
+(1) Šajā likumā noteikto atbalsta pasākumu īstenošanai tiek izmantots:
+1) valsts budžeta finansējums, kas akciju sabiedrībai "Attīstības finanšu institūcija Altum" ir piešķirts saskaņā ar Covid-19 infekcijas izplatības seku pārvarēšanas likumu, ja Ministru kabinets ir pieņēmis attiecīgu lēmumu un Saeimas Budžeta un finanšu (nodokļu) komisija piecu darbdienu laikā no attiecīgās informācijas saņemšanas dienas ir to izskatījusi un nav pret to iebildusi;
+2) Covid-19 infekcijas izplatības seku pārvarēšanai krīzes aizdevumu programmas ietvaros atmaksātais finansējums;
+3) īstermiņa eksporta kredīta garantiju programmas ietvaros atmaksātais finansējums.
+(2) Lai nodrošinātu atbalsta pasākumu īstenošanu alternatīvo ieguldījumu fonda ietvaros, finanšu ministram ir tiesības palielināt likumā "Par valsts budžetu 2022. gadam" noteikto apropriāciju budžeta resora "74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmā 02.00.00 "Līdzekļi neparedzētiem gadījumiem" ne vairāk kā 25 000 000 euro apmērā, kā arī veikt nepieciešamo apropriācijas pārdali ministrijai vai citai centrālajai valsts iestādei likumā noteiktās apropriācijas ietvaros starp programmām, apakšprogrammām un izdevumu kodiem atbilstoši ekonomiskajām kategorijām.
+(3) Apropriāciju minētajam mērķim atļauts palielināt, ja Ministru kabinets ir pieņēmis lēmumu un Saeimas Budžeta un finanšu (nodokļu) komisija piecu darbdienu laikā no attiecīgās informācijas saņemšanas dienas ir to izskatījusi un nav iebildusi pret apropriācijas palielinājumu.
+(4) Šā likuma ietvaros paredzētais finansējums tiek izmantots līdz atbalsta pasākumu īstenošanas termiņa beigām.
