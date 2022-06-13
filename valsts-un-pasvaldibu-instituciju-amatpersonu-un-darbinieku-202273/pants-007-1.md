@@ -1,3 +1,4 @@
 7.¹ pants. Valsts tiešās pārvaldes iestāžu amatpersonu (darbinieku) mēnešalga
 (1) Valsts tiešās pārvaldes iestāžu amatpersonu (darbinieku) mēnešalgas apmēru un tās noteikšanas kārtību, ņemot vērā amatam atbilstošo mēnešalgu grupu, reglamentē Ministru kabinets. Amatam atbilstošo mēnešalgu grupu nosaka, pamatojoties uz amatu saimi un līmeni. Amatu saimi un līmeni nosaka atbilstoši Ministru kabineta noteiktajam valsts un pašvaldību institūciju amatu katalogam.
 (2) (Izslēgta no 01.02.2013. ar 15.11.2012. likumu)
+(3) Ja Diplomātiskā un konsulārā dienesta likuma 15. panta trešajā daļā minētais diplomāts, sākot pildīt diplomāta pienākumus, saņem slimības pabalstu un tā apmērs ir mazāks par diplomāta mēnešalgu, jo valsts apdrošināšanas obligātās iemaksas par diplomātu veiktas minimālā apmērā, viņam no atalgojumam piešķirtajiem līdzekļiem kompensē šo starpību, bet ne ilgāk par četriem mēnešiem.

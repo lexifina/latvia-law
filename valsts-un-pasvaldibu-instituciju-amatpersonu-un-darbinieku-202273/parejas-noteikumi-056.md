@@ -1,0 +1,1 @@
+56. Šā likuma grozījums par 2. panta piektās daļas papildināšanu pēc vārdiem "Likums neattiecas uz zemessargiem" ar vārdiem "Eiropas Elektronisko sakaru regulatoru iestādes atbalsta aģentūras Atbalsta sekretariāta darbiniekiem" stājas spēkā 2022. gada 1. jūnijā.
