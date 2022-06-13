@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 19. maija likums \"Grozījumi Informācijas atklātības likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "103A",
+  "official_journal_page": null,
+  "official_journal_date": "2022-05-30",
+  "entry_into_force": "2022-06-13",
+  "notification_date": "2023-02-06",
+  "commission_reference": "MNE(2023)00913",
+  "nim_celex": "72019L1024LVA_202300913",
+  "nim_id": "202300913",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c4dbabf-a927-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
