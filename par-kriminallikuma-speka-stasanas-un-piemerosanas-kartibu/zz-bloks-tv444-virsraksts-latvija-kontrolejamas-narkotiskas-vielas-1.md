@@ -69,6 +69,9 @@ viminols
 (α-[[bis(1-metilpropil)amino]metil]-1-[(2-hlorofenil)metil]-1H-pirol-2-metanols
 0,1 g
 1 g
+10)brorfīns2244737-98-01-{1-[1-(4-bromfenil)etil]
+piperidin-4-il}-1,3-dihidro-2H-benzimidazol-2-ons
+0,01 g1 g
 6. Morfināna atvasinājumi:
 Nr.
 p.k.
@@ -202,16 +205,23 @@ un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots indo
 2)
 acetilfentanili
 N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(1-fenetilpiperidin-4-il)-N-fenilacetamīda, ja izpildīts viens vai vairāki šādi nosacījumi:
-a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, alkilgrupām, hidroksilgrupām vai alkoksigrupām;
+a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem;
 b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
 c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
-d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar neaizvietotu(-ām) vai aizvietotu(-ām) alkilgrupu(-ām), alkenilgrupu, metoksigrupu vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
-e) aizvietojot etilēngrupu ar metilēngrupu;
-f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu fenilgrupu vai estergrupu;
+d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar jebkuru aizvietotāju vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
+e) aizvietojot etilēngrupu ar metilēngrupu vai propilēngrupu;
+f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu alkilgrupu, fenilgrupu, ētergrupu vai estergrupu;
 g) nomainot N-(1-fenetilpiperidin-4-il)grupā esošo benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
-h) nomainot N-fenilgrupas benzola gredzenu ar citu piesātinātu, no benzola gredzena atšķirīgu ciklu, kas var būt aizvietots
+h) nomainot N-fenilgrupas benzola gredzenu ar citu piesātinātu, no benzola gredzena atšķirīgu ciklu, kas var būt aizvietots,
+un iepriekš minēto savienojumu piperidīna slāpekļa oksīdi
 0,001 g
 1 g
+3)benzimidazoli
+Jebkurš savienojums, kas atvasināts no benzimidazola:
+a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
+b) papildus aizvietojot ūdeņraža atomu pie imidazola cikla oglekļa atoma ar neaizvietotu vai aizvietotu (hetero)arilgrupu vai neaizvietotu vai aizvietotu benzilgrupu, vai neaizvietotu vai aizvietotu aroilgrupu;
+c) papildus neaizvietojot vai aizvietojot ūdeņraža atomus benzimidazola benzola gredzenā
+0,001 g1 g
 9. Vielas ar psihotropu iedarbību:
 Nr.
 p.k.
@@ -381,7 +391,7 @@ d) jebkurā no iepriekš minētajiem savienojumiem aizvietojot ūdeņraža atomu
 0,02 g
 1 g
 3)
-amfetamīni
+amfetamīni (izņemot selegilīnu)
 1-fenilpropān-2-amīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
 a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
 b) nomainot "a" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
@@ -423,7 +433,7 @@ pašizgatavots preparāts no efedrīna, kas satur efedronu
 1 ml
 50 ml
 7)
-piperazīni
+piperazīni (izņemot trazodonu un vortioksetīnu)
 Jebkurš savienojums, kas atvasināts no piperazīna:
 a) aizvietojot ūdeņraža atomu pie viena slāpekļa atoma ar neaizvietotu vai aizvietotu fenilgrupu, neaizvietotu vai aizvietotu benzilgrupu vai cikloheksilgrupu;
 b) neaizvietojot vai aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar neaizvietotu vai aizvietotu metilgrupu
@@ -440,7 +450,7 @@ c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu v
 1 g
 9)
 1-arilcikloheksilamīni un (1-arilcikloheksil)metānamīni
-1-arilcikloheksilamīni (izņemot ketamīnu) un (1-arilcikloheksil)metānamīni, kuros arilgrupa ir neaizvietots vai aizvietots benzola vai tiofēna cikls, viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā un cikloheksāna cikls ir neaizvietots vai aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
+1-arilcikloheksilamīni un (1-arilcikloheksil)metānamīni, kuros arilgrupa ir neaizvietots vai aizvietots benzola vai tiofēna cikls, viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu vai slāpekļa atoms iekļauts ciklā un cikloheksāna cikls ir neaizvietots vai aizvietots ar karbonilgrupu, hidroksilgrupu, alkoksigrupu vai alkilgrupu
 0,001 g
 1 g
 10)
@@ -480,13 +490,7 @@ c) papildus "a" vai "b" apakšpunktā minētajos vai abos minētajos savienojumo
 0,003 g
 1 g
 15)
-benzimidazoli
-Jebkurš savienojums, kas atvasināts no benzimidazola:
-a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
-b) papildus aizvietojot ūdeņraža atomu pie imidazola cikla oglekļa atoma ar neaizvietotu vai aizvietotu (hetero)arilgrupu vai neaizvietotu vai aizvietotu aroilgrupu;
-c) papildus neaizvietojot vai aizvietojot ūdeņraža atomus benzimidazola benzola gredzenā
-0,003 g
-1 g
+(Izslēgts ar 02.06.2022. likumu, kas stājas spēkā 15.06.2022.)
 16)
 difeniletānamīni
 1,2-difeniletān-1-amīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
@@ -600,7 +604,7 @@ piesūcināts papīrs (marka)
 3 gab.
 10 gab.
 7)
-vielu maisījums, kas satur 8. punkta 2. apakšpunktā minēto vielu jebkurā daudzumā
+vielu maisījums, kas satur 8. punkta 2. un 3. apakšpunktā minēto vielu jebkurā daudzumā
 0,001 g
 1 g
 III. II saraksts (ļoti bīstamās narkotiskās vielas un tām pielīdzinātās psihotropās vielas, kuras atļauts izmantot medicīniskiem un zinātniskiem mērķiem)
@@ -789,8 +793,8 @@ etokseridīns
 36)
 etonitazēns
 911-65-9
-0,2 g
-10 g
+0,001 g
+1 g
 37)
 fenadoksons
 467-84-5
@@ -1336,6 +1340,7 @@ estazolāms
 29975-16-4
 0,02 g
 10 g
+16¹)eszopiklons138729-47-20,06 g5 g
 17)
 ethlorvinols
 113-18-8
@@ -1381,6 +1386,7 @@ fenobarbitāls
 50-06-6
 0,6 g
 10 g
+25¹)flualprazolāms28910-91-00,001 g1 g
 26)
 fludiazepāms
 3900-31-0
@@ -1411,6 +1417,7 @@ kamazepāms
 36104-80-0
 0,6 g
 10 g
+31¹)ketamīns6740-88-10,6 g10 g
 32)
 ketazolāms
 27223-35-4
@@ -1431,6 +1438,7 @@ klonazepāms
 1622-61-3
 0,06 g
 5 g
+35¹)klonazolāms33887-02-40,001 g1 g
 36)
 klorazepāts
 23887-31-2
@@ -1561,6 +1569,7 @@ prazepāms
 2955-38-6
 0,6 g
 10 g
+61¹)pregabalīns148553-50-80,6 g6 g
 62)
 propanidīds
 1421-14-3
@@ -1571,6 +1580,7 @@ pseidoefedrīns
 90-82-4
 0,6 g
 10 g
+63¹)remimazolāms308242-62-80,6 g10 g
 64)
 sekbutabarbitāls
 125-40-6
