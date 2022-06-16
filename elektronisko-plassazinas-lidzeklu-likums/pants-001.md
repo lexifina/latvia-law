@@ -23,6 +23,7 @@ Likumā ir lietoti šādi termini:
 16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā vai lietotāja veidotā video par samaksu vai citu atlīdzību;
 17) programma - elektroniskā plašsaziņas līdzekļa veidots raidījums vai raidījumu kopums ar kopēju nosaukumu;
 17¹) programmas pamata audiovaloda - valoda, kas noteikta Nacionālās elektronisko plašsaziņas līdzekļu padomes izsniegtās apraides atļaujas darbības pamatnosacījumos un kas nodrošināma neatkarīgi no televīzijas programmas izplatīšanas veida;
+17²) programmas izziņošana sabiedrībai - jebkura darbība, ar kuru programma vai tās fiksācija tiek padarīta pieejama sabiedrībai;
 18) programmu izplatīšana - programmu nogādāšana līdz raidīšanas tehniskajiem līdzekļiem un raidīšana publiskai uztveršanai atklāta vai aizsargāta pakalpojuma veidā, izmantojot publiskos elektronisko sakaru tīklus;
 19) publiska uztveršana - iespēja uztvert elektroniskā plašsaziņas līdzekļa izplatīto programmu vai raidījumu katalogu bez atlīdzības vai par atlīdzību jebkurā vietā attiecīgās programmas izplatīšanas publisko elektronisko sakaru tīkla aptveršanas zonā;
 20) radio veikala skatlogs - radio veikals, kura ilgums pārsniedz 15 minūtes;
