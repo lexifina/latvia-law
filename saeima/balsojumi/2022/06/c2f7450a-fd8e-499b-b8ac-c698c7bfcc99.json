@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 18,
+ "datums": "2022-06-16",
+ "ieraksts": {
+  "dkp_id": "19422435-f31a-4863-8811-89ae1cc1bee1",
+  "lastmodtime": "\"AAAAAAH0Khw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Dace#Andris#Romāns#Regīna#Ivans#Vita Anda#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Uldis#Jānis#Jānis#Inese#Marija#Nikolajs#Igors#Juris#Evija#Jānis#Alīna#Boriss#Ļubova#Sandis#Kaspars#Ieva#Arvils#Ieva#Ilga#Māris#Ilmārs#Jūlija#Zenta#Valērijs#Viesturs#Jānis#Normunds#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Jānis#Ivans#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Jānis#Līva#Anda#Janīna#Krista#Linda#Artūrs#Janīna#Aldis",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Tērauda#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pimenovs#Rancāns#Papule#Vitenbergs#Gendele#Cilevičs#Švecova#Riekstiņš#Ģirģens#Akuratere#Ašeradens#Krapāne#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Tretjaka#Agešins#Liepkalns#Dombrava#Dzintars#Bondars#Tavars#Valainis#Judins#Bikše#Urbanovičs#Klementjevs#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Tutins#Kreituse#Čakša#Jalinska#Baumane#Medne#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "################################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#NA#AP!#AP!# #SASKAŅA #SASKAŅA #AP!#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA #Konservatīvie#JV# #JV#AP!#Neatkarīgie# #SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #Konservatīvie# # # #SASKAŅA # #Konservatīvie# #Konservatīvie#JV#Neatkarīgie# #Neatkarīgie#AP!# #SASKAŅA #SASKAŅA #AP!#NA# #AP!#ZZS#ZZS#JV#AP!#SASKAŅA #SASKAŅA #NA#SASKAŅA #NA#ZZS#SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie# #ZZS#AP!#Konservatīvie#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "16.06.2022 15:41:00",
+  "VOTEMOTIVE": "Par nekustamā īpašuma Rūsiņa ielā 1, Rīgā, daļas atsavināšanu sabiedrības vajadzībām – projekta “Eiropas standarta platuma 1435 mm dzelzceļa līnijas izbūve “Rail Baltica” koridorā caur Igauniju, Latviju un Lietuvu” īstenošanai (938/Lp13), 3.lasījums",
+  "VOTING_ID": "c2f7450a-fd8e-499b-b8ac-c698c7bfcc99",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "74",
+  "VOTERESULT_REGISTERED": "81",
+  "VOTE_NUMBER": "61",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-18-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d8802d24-6206-4d2d-8c93-8525b7fd94ca/download/13.saeimas-2022.gada-pavasara-sesija-18-vote.xml",
+  "sha256": "8891558632a8dcc3a977654b387a1f377332c0798128b4134b97ff215f54b733",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
