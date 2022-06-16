@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada pavasara sesija",
+ "sede": 18,
+ "datums": "2022-06-16",
+ "ieraksts": {
+  "dkp_id": "d35edf45-f41c-45ab-8a80-f016c7b212fc",
+  "lastmodtime": "\"AAAAAAH0sm4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Mārtiņš#Edvīns#Dace#Andris#Romāns#Regīna#Ivans#Vita Anda#Juris#Ivars#Edgars#Vladimirs#Didzis#Kārlis#Vjačeslavs#Gatis#Karina#Artuss#Jānis#Inga#Inese#Rihards#Iveta#Janīna#Uldis#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Evija#Jānis#Alīna#Boriss#Ļubova#Kaspars#Inguna#Arvils#Ilga#Māris#Ilmārs#Jūlija#Zenta#Valērijs#Andrejs#Viesturs#Jānis#Normunds#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Ivans#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Jānis#Anda#Janīna#Krista#Artūrs#Janīna#Aldis",
+  "SURNAME": "Šteins#Šnore#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Tērauda#Pūce#Puga#Kucins#Nikonovs#Šmits#Šadurskis#Dombrovskis#Zamurs#Sprūde#Kaimiņš#Krišāns#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Papule#Vitenbergs#Gendele#Cilevičs#Švecova#Ģirģens#Rībena#Ašeradens#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Tretjaka#Agešins#Klementjevs#Liepkalns#Dombrava#Dzintars#Bondars#Tavars#Valainis#Judins#Bikše#Klementjevs#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Tutins#Čakša#Jalinska#Baumane#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "###################################################################",
+  "FRACTION": "AP!#NA#AP!#AP!# #SASKAŅA #SASKAŅA #AP!#AP!# #SASKAŅA #SASKAŅA # #JV# #AP!#Neatkarīgie# #SASKAŅA #SASKAŅA #JV#JV# # #ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA # # # #SASKAŅA # # # #JV# #Neatkarīgie#AP!# #SASKAŅA #SASKAŅA #SASKAŅA #AP!#NA# #AP!#ZZS#ZZS#JV#AP!#SASKAŅA #NA#SASKAŅA #NA#ZZS#SASKAŅA #Konservatīvie#SASKAŅA # #ZZS#AP!#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "16.06.2022 18:48:39",
+  "VOTEMOTIVE": "Par deputāta Jāņa Dūklava ievēlēšanu Nacionālās drošības komisijā (976/Lm13)",
+  "VOTING_ID": "7a9e0c56-0b23-421f-8eca-b5ee1e4539ef",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "51",
+  "VOTERESULT_REGISTERED": "68",
+  "VOTE_NUMBER": "96",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada pavasara sesija-18-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d8802d24-6206-4d2d-8c93-8525b7fd94ca/download/13.saeimas-2022.gada-pavasara-sesija-18-vote.xml",
+  "sha256": "8891558632a8dcc3a977654b387a1f377332c0798128b4134b97ff215f54b733",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
