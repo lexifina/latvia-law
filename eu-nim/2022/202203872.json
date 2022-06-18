@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 14. jūnija noteikumi Nr. 345 \"Grozījumi Ministru kabineta 2008. gada 25. novembra noteikumos Nr. 972 \"Ceļu drošības audita noteikumi\"\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "117",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-17",
+  "entry_into_force": "2022-06-18",
+  "notification_date": "2022-06-21",
+  "commission_reference": "MNE(2022)03872",
+  "nim_celex": "72019L1936LVA_202203872",
+  "nim_id": "202203872",
+  "transposes_celex": [
+    "32019L1936"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e62722d9-f38f-11ec-a534-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
