@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2023. gada 31. decembrim izstrādā un Saeimai iesniedz nepieciešamos šā likuma grozījumus attiecībā uz audzinoša rakstura piespiedu līdzekļa - ievietošana sociālās korekcijas izglītības iestādē - piemērošanu un izpildi.
