@@ -1,0 +1,1 @@
+22. Ja šā likuma 38. panta 1.¹ daļas spēkā stāšanās brīdī Krievijai vai Baltkrievijai piederīgā persona ir personālsabiedrības biedrs vai šā biedra patiesais labuma guvējs ir Krievijai un Baltkrievijai piederīgā persona, tad ar šīs normas spēkā stāšanās brīdi attiecīgais personālsabiedrības biedrs nav tiesīgs pārstāvēt personālsabiedrību un kārtot tās lietvedību.
