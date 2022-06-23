@@ -1,0 +1,1 @@
+2. Šā likuma 5. panta piektajā daļā noteiktais termiņš neattiecas uz šā likuma 4. panta pirmajā daļā minētā objekta pazemes daļas demontāžu un atbrīvotās teritorijas sakārtošanu. Pazemes daļas demontāža un atbrīvotās teritorijas sakārtošanas darbi īstenojami līdz 2023. gada 30. jūnijam.

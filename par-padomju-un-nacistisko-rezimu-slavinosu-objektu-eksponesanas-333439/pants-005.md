@@ -1,0 +1,6 @@
+5. pants. Objekta demontāžas noteikumi
+(1) Izvērtējot objekta atbilstību šā likuma 3. pantā noteiktajiem kritērijiem, tiek noskaidrots tā tapšanas laiks, uzstādīšanas mērķis un ideoloģiskais vēstījums, novietojums (ietekme uz publisko vidi), kā arī tā oriģinālo detaļu vai fragmentu mākslinieciskā vērtība, arhitektoniskā kvalitāte vai tā kultūrvēsturiskā vai izglītojošā nozīme. Pirms objekta demontāžas tiek veikta tā fotofiksācija un objekts tiek dokumentēts. Ja demontējamā objekta oriģinālajām detaļām vai fragmentiem ir mākslinieciska vērtība, arhitektoniska kvalitāte vai kultūrvēsturiska vai izglītojoša nozīme, objekts pirms tā demontāžas dokumentējams, izmantojot trīsdimensionālo lāzerskenēšanu.
+(2) Šā likuma 4. pantā minēto objektu dokumentēšanu un demontāžu veic tā pašvaldība, kuras administratīvajā teritorijā attiecīgais objekts atrodas.
+(3) Ar objekta demontāžu šā likuma izpratnē saprotama objekta nojaukšana vai novākšana (ja attiecīgais objekts nav būve) tādā veidā, ka attiecīgais objekts vairs nepastāv, kā arī atbrīvotās teritorijas sakopšana.
+(4) Par šā likuma 4. panta trešajā daļā minēto objektu demontāžas uzsākšanu pašvaldības informē Latvijas Okupācijas muzeju un Nacionālo kultūras mantojuma pārvaldi.
+(5) Šā likuma 4. pantā minēto objektu demontāžu pašvaldības īsteno ne vēlāk kā līdz 2022. gada 15. novembrim.

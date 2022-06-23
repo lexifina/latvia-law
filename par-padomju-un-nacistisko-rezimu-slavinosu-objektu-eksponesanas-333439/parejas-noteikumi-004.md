@@ -1,0 +1,1 @@
+4. Šā likuma 9. panta otrajā daļā noteiktā valsts pārvaldes uzdevuma veikšanai Latvijas Okupācijas muzejam 2022. gadā piešķir papildu finansējumu no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".

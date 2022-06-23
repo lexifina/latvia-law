@@ -1,0 +1,5 @@
+9. pants. Demontēto objektu oriģinālo detaļu un fragmentu iekļaušana Latvijas Okupācijas muzeja krājumā
+(1) Demontēto objektu oriģinālās detaļas vai fragmentus, kam ir mākslinieciska vērtība, arhitektoniska kvalitāte vai kultūrvēsturiska vai izglītojoša nozīme, iekļauj Latvijas Okupācijas muzeja krājumā. Lēmumu par demontēto objektu oriģinālo detaļu vai fragmentu iekļaušanu muzeja krājumā pieņem muzeja direktors, pamatojoties uz muzeja krājuma komisijas atzinumu un konsultējoties ar Nacionālo kultūras mantojuma pārvaldi. Latvijas Okupācijas muzejam tiek nodoti arī demontēto objektu dokumentēšanas rezultāti.
+(2) Ar šo likumu Latvijas Okupācijas muzejam tiek noteikts valsts pārvaldes uzdevums nodrošināt muzeja krājumā iekļauto demontēto objektu oriģinālo detaļu un fragmentu uzturēšanu, saglabāšanu, pieejamību, izpēti un sabiedrības izglītošanu atbilstoši muzeja darbību regulējošu normatīvo aktu noteikumiem.
+(3) Latvijas Okupācijas muzejs var deponēt tā krājumā esošas demontēto objektu oriģinālās detaļas vai fragmentus valsts, pašvaldības vai privātam akreditētam muzejam.
+(4) Šā panta otrajā daļā noteiktā uzdevuma izpildi finansē no valsts budžeta līdzekļiem.

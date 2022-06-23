@@ -1,0 +1,1 @@
+3. Šā likuma 5. panta pirmajā daļā noteiktajai objektu izvērtēšanai un dokumentēšanai, izmantojot trīsdimensionālo lāzerskenēšanu, Nacionālajai kultūras mantojuma pārvaldei finansējumu piešķir no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem".

@@ -1,0 +1,1 @@
+5. Publiskajā ārtelpā, publiskajā būvē vai publiskas personas iekštelpā izvietotie pieminekļi, piemiņas zīmes, piemiņas plāksnes, piemiņas vietas līdz šajā likumā noteikto ar objektu demontāžu saistīto darbību uzsākšanai netiek pārvietoti, demontēti vai iznīcināti.
