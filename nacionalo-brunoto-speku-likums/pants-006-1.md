@@ -12,8 +12,9 @@
 10) organizē Latvijas Republiku un Nacionālos bruņotos spēkus reprezentējošas militārās ceremonijas un nodrošina godasardzi;
 11) veic militāro izlūkošanu operacionālajā un taktiskajā līmenī;
 12) nodrošina Ziemeļatlantijas līguma organizācijas un Eiropas Savienības dalībvalstu bruņotos spēkus uzņemošās valsts atbalstu;
-13) veic citus Valsts aizsardzības plānā noteiktos valsts apdraudējuma situāciju novēršanas un pārvarēšanas pasākumus.
-14) veic aizsardzības ministra vai Nacionālo bruņoto spēku komandiera noteikto objektu aizsardzību (apsardzi).
+13) veic citus Valsts aizsardzības plānā noteiktos valsts apdraudējuma situāciju novēršanas un pārvarēšanas pasākumus;
+14) veic aizsardzības ministra vai Nacionālo bruņoto spēku komandiera noteikto objektu aizsardzību (apsardzi);
+15) īsteno aktīvās kiberaizsardzības operācijas.
 (2) Militārā policija papildus šā panta pirmajā daļā noteiktajiem pasākumiem veic šādus pasākumus:
 1) Valsts prezidenta noteiktajā kārtībā nodrošina Valsts prezidenta, viņa ģimenes locekļu, jaunievēlētā Valsts prezidenta (laikā no ievēlēšanas līdz svinīgā solījuma došanai), personas, kas ieņēma Valsts prezidenta amatu, Valsts prezidenta kancelejas un Valsts prezidenta rezidences aizsardzību (apsardzi);
 2) Ministru kabineta noteiktajā kārtībā nodrošina Valsts prezidenta uzaicināto ārvalstu un starptautisko organizāciju pārstāvju aizsardzību (apsardzi);
