@@ -1,0 +1,1 @@
+81. Piemērotais drošības līdzeklis - ievietošana sociālās korekcijas izglītības iestādē - ir atceļams 2022. gada 1. jūlijā. Procesa virzītājs šajā likumā noteiktajā kārtībā ir tiesīgs lemt par cita drošības līdzekļa piemērošanu nepilngadīgajam.
