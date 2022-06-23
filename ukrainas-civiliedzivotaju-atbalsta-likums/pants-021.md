@@ -1,0 +1,3 @@
+21. pants. Izņēmums attiecībā uz Ukrainā reģistrētu transportlīdzekļu reģistrēšanu un transportlīdzekļa vadīšanas tiesību iegūšanu
+(1) Ukrainas civiliedzīvotājs, par kuru ir iekļautas ziņas Fizisko personu reģistrā, saskaņā ar mehānisko transportlīdzekļu īpašuma, turējuma un lietošanas tiesību iegūšanu, kā arī transportlīdzekļu īpašnieku, turētāju un lietotāju atbildību reglamentējošo normatīvo aktu prasībām uz laiku līdz trim gadiem Latvijā var reģistrēt Ukrainā reģistrētu transportlīdzekli bez atbilstības apliecinājuma (atbilstības novērtēšanas).
+(2) Ukrainas civiliedzīvotājiem attiecībā uz transportlīdzekļu vadīšanas tiesību iegūšanu netiek piemērots Ceļu satiksmes likuma 22. panta pirmās daļas 1. punktā noteiktais.
