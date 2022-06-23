@@ -1,4 +1,6 @@
-4.pants. Konkurences padomes juridiskais statuss
-(1) Konkurences padome ir tiešās pārvaldes iestāde, kas darbojas saskaņā ar šo likumu un citiem normatīvajiem aktiem. Konkurences padomi izveido Ministru kabinets, un tā ir Ekonomikas ministrijas padotībā, kuru realizē pārraudzības formā.
-(2) (Izslēgta ar 22.04.2004. likumu.)
-(3) Konkurences padomes darbību finansē no valsts budžeta.
+4. pants. Konkurences padomes juridiskais statuss
+(1) Konkurences padome ir Ministru kabineta pārraudzībā esoša tiešās pārvaldes iestāde, kas darbojas saskaņā ar šo likumu un citiem normatīvajiem aktiem. Konkurences padomi izveido Ministru kabinets, un tās institucionālā pārraudzība tiek īstenota ar ekonomikas ministra starpniecību.
+(2) Pārraudzība neattiecas uz Konkurences padomei noteikto uzdevumu un tiesību īstenošanu, kā arī Konkurences padomes iekšējās organizācijas jautājumiem, tostarp starpresoru vienošanās slēgšanu, iekšējo normatīvo aktu izdošanu, uzziņas sagatavošanu un lēmumiem, kuri attiecas uz šajā iestādē nodarbinātajiem (piemēram, lēmumiem par nodarbināto pieņemšanu amatā un atbrīvošanu no tā, pārcelšanu un tās saskaņošanu, nosūtīšanu komandējumā, disciplinārlietu ierosināšanu, izskatīšanu un disciplinārsodu piemērošanu).
+(3) Konkurences padome atbilstoši kompetencei patstāvīgi pieņem lēmumus un veic tai likumā noteiktos uzdevumus, un tā savā darbībā ir neatkarīga.
+(4) Konkurences padomes darbību finansē no valsts budžeta. Konkurences padomi finansē tādā veidā, lai nodrošinātu tās neatkarību un efektīvu Līguma par Eiropas Savienības darbību 101. un 102. panta piemērošanu.
+(5) Konkurences padomei ir zīmogs ar papildinātā mazā valsts ģerboņa attēlu un pilnu Konkurences padomes nosaukumu.

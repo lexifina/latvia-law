@@ -1,0 +1,1 @@
+23. Šā likuma 5.¹ pants, kas paredz prasības padomes priekšsēdētāja un padomes locekļa amata pretendentiem, neattiecas uz personām, kuras sākušas pildīt padomes priekšsēdētāja vai padomes locekļa amata pienākumus līdz šo prasību spēkā stāšanās dienai.

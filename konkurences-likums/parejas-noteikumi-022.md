@@ -1,0 +1,1 @@
+22. Šā likuma 5. panta 2.¹, 2.², 2.³ daļa un 5.¹ pants neattiecas uz šo pārejas noteikumu 19. punktā minētā uzdevuma izpildi. Konkurences padomes divu papildu padomes locekļu amata pretendentu atlasi nodrošina saskaņā ar Valsts civildienesta likumā noteikto vispārējo ierēdņa amata pretendentu atlases kārtību.

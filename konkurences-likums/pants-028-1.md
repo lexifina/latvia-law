@@ -1,0 +1,3 @@
+28.¹ pants. Paziņošana Eiropas Komisijai par lietu izpētes uzsākšanu vai izbeigšanu par iespējamo Eiropas Savienības konkurences tiesību pārkāpumu
+(1) Konkurences padome saistībā ar lietu izpētes uzsākšanu par Līguma par Eiropas Savienības darbību 101. un 102. pantā minētajiem pārkāpumiem informē Eiropas Komisiju Padomes regulas Nr. 1/2003 11. panta 3. punktā noteiktajā kārtībā.
+(2) Ja Konkurences padome izbeidz lietu izpēti par iespējamo Eiropas Savienības konkurences tiesību pārkāpumu pēc tam, kad Eiropas Komisija ir informēta atbilstoši šā panta pirmajā daļā noteiktajam, Konkurences padome par to informē Eiropas Komisiju.

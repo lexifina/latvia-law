@@ -1,0 +1,4 @@
+41. pants. Lēmuma izpilde
+(1) Ja Konkurences padome atzīst šā likuma 37. pantā minēto pieprasījumu par pamatotu, tā uz pieprasījuma iesniedzēja iestādes izdota vienotā instrumenta pamata uzsāk šīs iestādes lēmuma izpildi Latvijas teritorijā.
+(2) Ja šā panta pirmajā daļā minētais lēmums netiek labprātīgi izpildīts, Konkurences padome uz pieprasījuma iesniedzēja iestādes izdota vienotā instrumenta pamata izdod izpildrīkojumu par kavētā naudas soda vai periodiskā soda maksājuma piespiedu piedziņu un nodod piespiedu izpildei tiesu izpildītājam. Piespiedu izpildi tiesu izpildītājs veic normatīvajos aktos noteiktajā kārtībā.
+(3) Konkurences padome pārskaita pieprasījuma iesniedzēja iestādei tiesu izpildītāja piedzīto naudas maksājumu pēc tam, kad ir segtas ar palīdzības pieprasījuma izpildi saistītās šā likuma 40. panta otrajā daļā minētās izmaksas.
