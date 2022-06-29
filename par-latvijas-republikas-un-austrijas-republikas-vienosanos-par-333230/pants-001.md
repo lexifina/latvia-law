@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas un Austrijas Republikas vienošanās par Līguma starp Latvijas Republiku un Austrijas Republiku par ieguldījumu veicināšanu un to aizsardzību denonsēšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

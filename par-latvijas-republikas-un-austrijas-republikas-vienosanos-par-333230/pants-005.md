@@ -1,0 +1,1 @@
+5. pants. Līdz ar Vienošanās spēkā stāšanos spēku zaudē likums " Par Latvijas Republikas un Austrijas Republikas līgumu par ieguldījumu veicināšanu un aizsardzību " (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 23. nr.).
