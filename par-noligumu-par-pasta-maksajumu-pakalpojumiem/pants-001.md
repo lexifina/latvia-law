@@ -1,0 +1,1 @@
+1. pants. 2021. gada 26. augustā parakstītais Pasaules Pasta savienības Nolīgums par pasta maksājumu pakalpojumiem un tā Noslēguma protokols (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
