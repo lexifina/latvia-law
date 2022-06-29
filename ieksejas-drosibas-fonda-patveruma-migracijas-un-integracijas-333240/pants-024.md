@@ -1,0 +1,9 @@
+24. pants. Strīdu risināšanas kārtība, ja finansējuma saņēmējs ir tiešās vai pastarpinātās pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde
+(1) Ja finansējuma saņēmējam, kurš ir tiešās vai pastarpinātās pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde, vienošanās par projekta īstenošanu izpildes gaitā rodas domstarpības ar deleģēto iestādi par vienošanās ietvaros tās pieņemto lēmumu par piešķirto finanšu līdzekļu izmaksāšanu vai izmaksu turpināšanu vai citu lēmumu un vienošanās nav panākta savstarpēju sarunu ceļā, finansējuma saņēmējs to var apstrīdēt, iesniedzot attiecīgu iesniegumu vadošajai iestādei.
+(2) Vadošā iestāde izvērtē šā panta pirmajā daļā minēto finansējuma saņēmēja iesniegumu un viena mēneša laikā no iesnieguma saņemšanas dienas pieņem vienu no šādiem lēmumiem:
+1) atstāt deleģētās iestādes lēmumu negrozītu;
+2) atcelt deleģētās iestādes lēmumu pilnībā vai kādā daļā un, ja nepieciešams, uzdot deleģētajai iestādei atkārtoti izskatīt finansējuma saņēmēja iebildumus, ņemot vērā vadošās iestādes norādījumus;
+3) izdot satura ziņā citādu lēmumu.
+(3) Ja objektīvu iemeslu dēļ šā panta otrajā daļā noteikto termiņu nav iespējams ievērot, vadošā iestāde to var pagarināt uz laiku, kas nepieciešams papildu informācijas saņemšanai un izvērtēšanai, par to paziņojot iesniedzējam.
+(4) Informāciju, kas nepieciešama, lai pieņemtu šā panta otrajā daļā minēto lēmumu, vadošā iestāde iegūst Administratīvā procesa likumā noteiktajā kārtībā.
+(5) Ja finansējuma saņēmējam, kurš ir tiešās vai pastarpinātās pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde, vienošanās par projekta īstenošanu izpildes gaitā rodas domstarpības ar vadošo iestādi par vienošanās ietvaros tās pieņemto lēmumu par piešķirto finanšu līdzekļu izmaksāšanu vai izmaksu turpināšanu vai citu lēmumu, puses situāciju risina, savstarpēji vienojoties. Ja vienošanās nav panākta, vadošās iestādes pieņemtais lēmums nav pārsūdzams.

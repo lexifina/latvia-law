@@ -1,0 +1,2 @@
+4. pants. Fondu vadība
+Fondu vadība ir nepieciešamo plānošanas dokumentu sagatavošana, saskaņošana un apstiprināšana, fondu pārvaldības un kontroles sistēmas izveide, projektu iesniegumu vērtēšanas kritēriju izstrāde, projektu iesniegumu atlase, projektu līgumu slēgšana, projektu kontrole, revīzija, uzraudzība un izvērtēšana, projektu ietvaros veikto izdevumu apstiprināšana, pārskatu sagatavošana un iesniegšana Eiropas Komisijai, fondu vadības informācijas sistēmas izstrāde un uzturēšana.

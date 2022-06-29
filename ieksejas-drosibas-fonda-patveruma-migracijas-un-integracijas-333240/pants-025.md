@@ -1,0 +1,2 @@
+25. pants. Termiņš, kādā var iesniegt iebildumus strīdā par piešķirtajiem finanšu līdzekļiem
+Ja strīds attiecas uz piešķirto finanšu līdzekļu izmaksāšanu, izmaksu turpināšanu vai atgūšanu, finansējuma saņēmējs iebildumus var iesniegt vadošajai iestādei vai deleģētajai iestādei viena mēneša laikā no attiecīgās iestādes lēmuma spēkā stāšanās dienas. Pēc finansējuma saņēmēja motivēta lūguma saņemšanas vai citu objektīvu apstākļu dēļ vadošā iestāde vai deleģētā iestāde var minēto termiņu pagarināt.

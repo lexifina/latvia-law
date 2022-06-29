@@ -1,0 +1,18 @@
+15. pants. Projektu iesniegumu noraidīšanas nosacījumi
+(1) Vadošā iestāde vai deleģētā iestāde noraida projekta iesniegumu, ja uz projekta iesniedzēju vai sadarbības partneri attiecināms jebkurš no šādiem nosacījumiem:
+1) projekta iesniedzēja vai sadarbības partnera valdes vai padomes loceklis vai prokūrists, vai persona, kura ir pilnvarota pārstāvēt projekta iesniedzēju vai sadarbības partneri ar tā filiāli saistītajās darbībās, ar prokurora priekšrakstu par sodu vai tiesas spriedumu, kas stājies spēkā un kļuvis neapstrīdams un nepārsūdzams, ir atzīta par vainīgu jebkurā no šādiem noziedzīgiem nodarījumiem:
+a) noziedzīgas organizācijas izveidošana, vadīšana, iesaistīšanās tajā vai tās sastāvā ietilpstošā organizētā grupā vai citā noziedzīgā formējumā vai piedalīšanās šādas organizācijas izdarītos noziedzīgos nodarījumos,
+b) kukuļņemšana, kukuļdošana, kukuļa piesavināšanās, starpniecība kukuļošanā, neatļauta labuma pieņemšana vai komerciāla uzpirkšana, prettiesiska labuma pieprasīšana, pieņemšana vai došana, tirgošanās ar ietekmi,
+c) krāpšana, piesavināšanās vai noziedzīgi iegūtu līdzekļu legalizēšana,
+d) izvairīšanās no nodokļu un tiem pielīdzināto maksājumu samaksas,
+e) terorisms, terorisma finansēšana, teroristu grupas izveide vai organizēšana, ceļošana terorisma nolūkā, terorisma attaisnošana, aicinājums uz terorismu, terorisma draudi vai personas vervēšana un apmācība terora aktu veikšanai,
+f) cilvēku tirdzniecība;
+2) projekta iesniedzējs vai sadarbības partneris ar attiecīgā jomā kompetentas institūcijas lēmumu, kas stājies spēkā, ir sodīts par jebkuru no šādiem pārkāpumiem:
+a) vienas vai vairāku personu nodarbināšana, ja tām nav nepieciešamās darba atļaujas vai tās nav tiesīgas uzturēties Eiropas Savienības dalībvalstī,
+b) personas nodarbināšana bez rakstveidā noslēgta darba līguma, nodokļu normatīvajos aktos noteiktajā termiņā neiesniedzot informatīvo deklarāciju par darbiniekiem, kas iesniedzama par personām, kuras uzsāk darbu;
+3) projekta iesniedzējam vai sadarbības partnerim ar attiecīgā jomā kompetentas institūcijas lēmumu, kas stājies spēkā un kļuvis neapstrīdams un nepārsūdzams, ir piemērots sods par konkurences tiesību pārkāpumu, kas izpaužas kā vertikāla vienošanās, kuras mērķis ir ierobežot pircēja iespēju noteikt tālākpārdošanas cenu, vai horizontāla karteļa vienošanās, izņemot gadījumu, kad attiecīgā institūcija, konstatējot konkurences tiesību pārkāpumu, par sadarbību iecietības programmas ietvaros projekta iesniedzēju vai sadarbības partneri ir atbrīvojusi no naudas soda vai naudas sodu samazinājusi;
+4) ir pasludināts projekta iesniedzēja vai sadarbības partnera maksātnespējas process, ierosināta tiesiskās aizsardzības procesa lieta vai tiek īstenots tiesiskās aizsardzības process, ir apturēta vai pārtraukta projekta iesniedzēja vai sadarbības partnera saimnieciskā darbība, vai projekta iesniedzējs vai sadarbības partneris tiek likvidēts;
+5) ir stājies spēkā šā likuma 20. pantā minētais vadošās iestādes vai deleģētās iestādes lēmums par aizliegumu piedalīties attiecīgajā projektu iesniegumu atlasē.
+(2) Vadošā iestāde neizslēdz projekta iesniedzēju vai sadarbības partneri no dalības projektu iesniegumu atlasē, ja:
+1) saistībā ar šā panta pirmās daļas 1. punktā minētajiem noziedzīgiem nodarījumiem un 2. punktā minētajiem pārkāpumiem līdz projekta iesnieguma iesniegšanas dienai sodāmība ir dzēsta vai noņemta;
+2) no attiecīgā jomā kompetentas institūcijas pieņemtajā lēmumā noteiktā soda izpildes dienas saistībā ar šā panta pirmās daļas 3. punktā minētajiem pārkāpumiem līdz projekta iesnieguma iesniegšanas dienai ir pagājuši 12 mēneši.

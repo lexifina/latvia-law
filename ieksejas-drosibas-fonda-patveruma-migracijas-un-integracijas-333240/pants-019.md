@@ -1,0 +1,3 @@
+19. pants. Lēmuma pieņemšanas termiņš
+(1) Vadošā iestāde vai deleģētā iestāde lēmumu par projekta iesnieguma apstiprināšanu un projekta līguma noslēgšanu, apstiprināšanu ar nosacījumu vai noraidīšanu pieņem triju mēnešu laikā pēc attiecīgajā projektu iesniegumu atlasē noteiktā projektu iesniegumu iesniegšanas termiņa beigām.
+(2) Ja objektīvu iemeslu dēļ šā panta pirmajā daļā noteikto termiņu nav iespējams ievērot, vadošā iestāde vai deleģētā iestāde to var pagarināt uz laiku, ne ilgāku par sešiem mēnešiem pēc projekta iesniegumu iesniegšanas termiņa beigām, par to paziņojot projekta iesniedzējam. Lēmums par termiņa pagarināšanu ir apstrīdams vadošajā iestādē, bet nav pārsūdzams.
