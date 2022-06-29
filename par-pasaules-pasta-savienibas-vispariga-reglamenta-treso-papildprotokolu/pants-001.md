@@ -1,0 +1,1 @@
+1. pants. 2021. gada 26. augustā parakstītais Pasaules Pasta savienības Vispārīgā reglamenta Trešais papildprotokols (turpmāk - Vispārīgā reglamenta Trešais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
