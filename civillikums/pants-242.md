@@ -3,7 +3,7 @@
 2) personas, kuru intereses acīm redzami runā pretim svarīgām aizbilstamā interesēm;
 3) tās bāriņtiesas locekļi, kura uzrauga attiecīgo aizbildnību;
 4) nepilngadīgas personas;
-5) personas, kuras sodītas par noziedzīgiem nodarījumiem, kas saistīti ar vardarbību vai vardarbības piedraudējumu, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+5) personas, kuras sodītas par noziedzīgiem nodarījumiem, kas saistīti ar vardarbību vai vardarbības piedraudējumu, - līdz dienai, kad sodāmība dzēsta vai noņemta;
 6) personas, kuras sodītas par noziedzīgiem nodarījumiem pret tikumību un dzimumneaizskaramību, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
 7) personas, kuras atceltas no aizbildņa pienākumu pildīšanas nekārtīgas aizbildņa pienākumu izpildīšanas dēļ;
 8) personas, kurām atņemts audžuģimenes vai viesģimenes statuss, jo tās nav pildījušas pienākumus atbilstoši bērna interesēm;
