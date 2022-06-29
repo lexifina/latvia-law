@@ -1,0 +1,1 @@
+3. pants. Konstitūcijas Vienpadsmitais papildprotokols stājas spēkā tā XVIII pantā noteiktajā laikā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Konstitūcijas Vienpadsmitais papildprotokols angļu valodā un tā tulkojums latviešu valodā.

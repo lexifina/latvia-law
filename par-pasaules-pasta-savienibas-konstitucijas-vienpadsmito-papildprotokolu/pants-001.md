@@ -1,0 +1,1 @@
+1. pants. 2021. gada 26. augustā parakstītais Pasaules Pasta savienības konstitūcijas Vienpadsmitais papildprotokols (turpmāk - Konstitūcijas Vienpadsmitais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
