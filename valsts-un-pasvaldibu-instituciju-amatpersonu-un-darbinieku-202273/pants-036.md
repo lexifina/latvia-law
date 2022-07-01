@@ -13,7 +13,7 @@
 4) veselības apdrošināšanas un apdrošināšanas pret nelaimes gadījumiem izdevumi, kā arī transportēšanas izdevumi attiecīgās personas vai tās ģimenes locekļu smagas slimības vai nāves gadījumā;
 5) bērnu skolas un pirmsskolas izdevumi;
 6) ceļa izdevumi (arī attiecīgie ģimenes locekļu izdevumi), dodoties atvaļinājumā uz Latviju un atgriežoties dienesta vietā;
-7) ceļa izdevumi no pastāvīgās dienesta vietas ārvalstīs un atpakaļ uz dienesta vietu sakarā ar ierašanos uz ģimenes locekļa (laulātā, bērna, vecāku, vecvecāku, adoptētāja vai adoptētā, brāļa vai māsas) vai apgādājamā bērēm.
+7) ceļa izdevumi no pastāvīgās dienesta vietas ārvalstīs un atpakaļ uz dienesta vietu sakarā ar ierašanos uz ģimenes locekļa (laulātā, bērna, mazbērna, vecāku, vecvecāku, adoptētāja vai adoptētā, brāļa, māsas, pusbrāļa vai pusmāsas) vai apgādājamā bērēm.
 (3) Šā panta pirmajā un otrajā daļā minēto pabalstu un kompensāciju apmērus un izmaksas kārtību atbilstoši ārvalstī esošās dienesta vietas specifiskajiem apstākļiem nosaka Ministru kabinets.
 (4) Pašvaldības dome nosaka amatpersonu (darbinieku) amatus, kuriem tā var piemērot šā panta pirmajā un otrajā daļā minētos pabalstus un kompensācijas pašas noteiktajā apmērā un kārtībā.
 (5) Diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam), kuru dienesta vietā apdraud karadarbība, vardarbība, nemieri vai dabas katastrofas, Ārlietu ministrija var noteikt piemaksu līdz 50 procentiem no to pabalstu apmēra, kuri šim diplomātam, diplomātiskā un konsulārā dienesta amatpersonai (darbiniekam) tiek izmaksāti saskaņā ar šā panta pirmās daļas 1., 2. un 3.punktu, un kompensēt zaudējumus, ko diplomāts, diplomātiskā un konsulārā dienesta amatpersona (darbinieks) cieta minēto apstākļu dēļ.
@@ -26,5 +26,5 @@
 2) izdevumus, kas saistīti ar dzīvojamās telpas īri un komunālajiem pakalpojumiem.
 (10) Šā panta astotajā un devītajā daļā noteiktā pabalsta, kompensācijas un sedzamo izdevumu apmēru, kā arī kārtību, kādā tiek segti ar Iekšlietu ministrijas sistēmas iestādes amatpersonas uzturēšanos ārvalstī saistītie izdevumi, nosaka Ministru kabinets.
 (11) Ministru kabinets nosaka:
-1) kārtību, kādā šā panta pirmajā daļā minētās amatpersonas (darbiniekus), izņemot prokuroru, norīko dienestā (darbā) starptautiskajā organizācijā vai tās dalībvalsts institūcijā ārvalstīs;
+1) kārtību, kādā šā panta pirmajā daļā minētās amatpersonas (darbiniekus), izņemot prokuroru, norīko dienestā (darbā) starptautiskajā organizācijā vai tās dalībvalsts institūcijā ārvalstīs, kā arī informāciju, kas sniedzama amatpersonai (darbiniekam);
 2) attiecīgās šā panta pirmajā daļā minēto amatpersonu (darbinieku) atlīdzības piešķiršanas kārtību un nosacījumus, ciktāl citos likumos nav noteikts citādi.
