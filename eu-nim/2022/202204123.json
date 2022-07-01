@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 21. jūnija noteikumi Nr. 372 \"Grozījumi Ministru kabineta 2011. gada 22. marta noteikumos Nr. 219 \"Kārtība, kādā diplomāti, diplomātiskā un konsulārā dienesta amatpersonas (darbinieki), specializētie atašeji, sakaru virsnieki, karavīri, tiešās pārvaldes iestādes amatpersonas (darbinieki) un valsts drošības iestādes amatpersonas (darbinieki) tiek norīkoti dienestā (darbā) starptautiskajās organizācijās ārvalstīs, un atlīdzības piešķiršanas kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "123",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-29",
+  "entry_into_force": "2022-07-01",
+  "notification_date": "2022-07-01",
+  "commission_reference": "MNE(2022)04123",
+  "nim_celex": "72019L1152LVA_202204123",
+  "nim_id": "202204123",
+  "transposes_celex": [
+    "32019L1152"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c63a95b0-3da0-4e42-bc19-bc91daf12c65",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
