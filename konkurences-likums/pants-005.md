@@ -6,7 +6,7 @@
 (2³) Šā panta 2.¹ daļā minētā pretendentu vērtēšanas komisija ir tiesīga pieprasīt no kompetentajām institūcijām informāciju un dokumentus, kas pamato šā likuma 5.¹ un 5.² pantā paredzētās prasības un ierobežojumus, lai ieņemtu padomes priekšsēdētāja un padomes locekļa amatu.
 (3) (Izslēgta ar 16.11.2021. likumu)
 (4) (Izslēgta ar 09.06.2022. likumu)
-(5) Konkurences padomes sēdes ir slēgtas, ja netiek pieņemts cits lēmums. Tās sasauc pēc padomes priekšsēdētāja vai visu padomes locekļu pieprasījuma. Konkurences padome ir tiesīga pieņemt lēmumu vai slēgt administratīvo līgumu, ja par to nobalso ne mazāk kā divi šīs padomes locekļi.
+(5) Konkurences padomes sēdes ir slēgtas, ja netiek pieņemts cits lēmums. Tās sasauc pēc padomes priekšsēdētāja vai visu padomes locekļu pieprasījuma. Konkurences padome ir tiesīga pieņemt lēmumu vai slēgt administratīvo līgumu, ja par to nobalso ne mazāk kā trīs šīs padomes locekļi.
 (6) Konkurences padomes sēdes tiek protokolētas. Sēdes protokolu paraksta visi padomes locekļi, kas piedalījušies sēdē. Padomes loceklis, parakstot protokolu, var tajā ierakstīt savu viedokli par izskatīto jautājumu vai izdarīt atzīmi par sava viedokļa pamatojuma pievienošanu protokolam rakstveidā.
 (6¹) Padome apstiprina:
 1) iestādes vidēja termiņa darbības stratēģiju;
