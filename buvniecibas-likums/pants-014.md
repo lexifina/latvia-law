@@ -2,7 +2,7 @@
 (1) Persona ierosina būvniecību un iesniedz būvniecības ieceres realizācijai nepieciešamo informāciju un dokumentus būvvaldei vai institūcijai, kura pilda būvvaldes funkcijas, izmantojot būvniecības informācijas sistēmu. Būvniecības ieceres realizācijai nepieciešamos tehniskos vai īpašos noteikumus, kā arī saskaņojumus vai atļaujas valsts un pašvaldību institūcijas un ārējo inženiertīklu īpašnieki vai tiesiskie valdītāji izdod būvniecības informācijas sistēmā.
 (1¹) Valsts un pašvaldību institūcijas un ārējo inženiertīklu īpašnieki vai tiesiskie valdītāji tehniskos vai īpašos noteikumus izdod strukturētu datu veidā vai augšupielādē būvniecības informācijas sistēmā.
 (1²) Būvniecības ieceres realizācijai nepieciešamās atļaujas vai saskaņojumus valsts un pašvaldību institūcijas un ārējo inženiertīklu īpašnieki vai tiesiskie valdītāji izdod strukturētu datu veidā vai augšupielādē būvniecības informācijas sistēmā.
-(1³) (Daļa stājas spēkā 01.07.2022. un iekļauta likuma redakcijā uz 01.07.2022. Sk. Pārejas noteikumu 27. punktu)
+(1³) Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, izskata būvprojektu un izdara atbilstošas atzīmes vispārīgajos būvnoteikumos noteiktajos termiņos.
 (2) Par būvniecības ieceri pašvaldības noteikta institūcija vai amatpersona vai institūcija, kura pilda būvvaldes funkcijas, triju darba dienu laikā no attiecīgās būvniecības ieceres iesnieguma saņemšanas dienas publicē informāciju būvniecības informācijas sistēmā. Publikācijā norāda:
 1) būvniecības ieceres realizācijas vietu;
 2) iecerētās būves galveno lietošanas veidu.
