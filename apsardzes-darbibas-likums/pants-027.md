@@ -1,3 +1,2 @@
-27. pants. Apsardzes darbība bez reģistrācijas vai speciālās atļaujas (licences)
-(1) Par apsardzes darbības veikšanu bez iekšējās drošības dienesta reģistrācijas piemēro naudas sodu fiziskajai personai vai valdes loceklim no piecdesmit līdz trīssimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz pieciem gadiem vai bez tā.
-(2) Par apsardzes darbības veikšanu bez speciālās atļaujas (licences) piemēro naudas sodu fiziskajai personai vai valdes loceklim no sešdesmit līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz pieciem gadiem vai bez tā.
+27. pants. Apsardzes darbība bez reģistrācijas
+Par apsardzes darbības veikšanu bez reģistrācijas piemēro naudas sodu fiziskajai personai vai valdes loceklim no sešdesmit līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz pieciem gadiem vai bez tā.

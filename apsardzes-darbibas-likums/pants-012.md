@@ -1,8 +1,10 @@
-12.pants. Iekšējās drošības dienesta reģistrācijas anulēšana
-(1) Iestādes, komersanta vai organizācijas iekšējās drošības dienesta reģistrāciju anulē, ja:
-1) iekšējās drošības dienesta darbība ir vērsta pret valsti vai sabiedrības likumīgajām interesēm;
-2) iekšējās drošības dienests pārkāpj vai nepilda šā likuma vai citu normatīvo aktu prasības;
-3) iestāde, komersants vai organizācija sniegusi Valsts policijai nepatiesas ziņas, lai reģistrētu iekšējās drošības dienestu, vai tādas sniegusi tai savas darbības laikā;
-4) to nosaka cits likums vai tiesas nolēmums;
-5) iekšējās drošības dienests neatbilst šā likuma 11.pantā paredzētajiem nosacījumiem.
-(2) Lēmumu par iestādes, komersanta vai organizācijas iekšējās drošības dienesta reģistrācijas anulēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šā lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+12. pants. Iekšējās drošības dienesta izslēgšana no reģistra
+(1) Iekšējās drošības dienestu var izslēgt no reģistra, ja:
+1) tā darbība ir vērsta pret valsti vai sabiedrības likumīgajām interesēm;
+2) tas pārkāpj vai nepilda šā likuma vai citu normatīvo aktu prasības;
+3) iestāde, komersants vai organizācija normatīvajos aktos noteiktajā kārtībā un termiņā nav iekļāvusi attiecīgās ziņas reģistrā;
+4) saņemts iestādes, komersanta vai organizācijas iesniegums par tās iekšējās drošības dienesta izslēgšanu no reģistra;
+5) tas neatbilst šā likuma 11. pantā minētajiem nosacījumiem;
+6) to nosaka cits likums vai tiesas nolēmums;
+7) nav samaksāta ikgadējā valsts nodeva.
+(2) Lēmumu par iekšējās drošības dienesta izslēgšanu no reģistra var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Šā lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

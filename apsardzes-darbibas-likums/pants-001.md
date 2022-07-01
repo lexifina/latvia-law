@@ -6,5 +6,5 @@ Likumā ir lietoti šādi termini:
 4) apsardzes pakalpojumi - apsardzes darbība, kuru veic apsardzes komersants, pamatojoties uz rakstveida līgumu, kas noslēgts ar apsardzes pakalpojuma pasūtītāju;
 5) apsardzes sertifikāts - dokuments, kas apliecina fiziskās personas profesionālo kompetenci apsardzes darbības jomā;
 6) apsardzes tehniskā sistēma - apsardzes un ugunsdrošības signalizācijas, videonovērošanas, mehānisko vai elektronisko iekārtu kopums, kas darbojas vienotā sistēmā, lai novērstu prettiesiskus vai citādus apsargājamā objekta apdraudējumus;
-7) apsardzes komersants - komersants, kas saņēmis speciālo atļauju (licenci) apsardzes darbības veikšanai;
+7) apsardzes komersants - komersants, kas reģistrēts apsardzes darbības reģistrā (turpmāk - reģistrs) apsardzes darbības veikšanai;
 8) iekšējās drošības dienests - iestādes, komersanta vai organizācijas struktūrvienība, kas nodrošina tās apsardzi, iekšējo kārtību un drošību.

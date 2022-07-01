@@ -1,8 +1,8 @@
 13.pants. Iekšējās drošības dienesta darbība
-(1) Iestādei, komersantam un organizācijai, kas reģistrējusi iekšējās drošības dienestu Valsts policijā, ir pienākums:
+(1) Iestādei, komersantam un organizācijai, kurai ir reģistrā reģistrēts iekšējās drošības dienests, ir pienākums:
 1) noslēdzot darba līgumu ar apsardzes darbinieku, izsniegt viņam nodarbinātā apliecību. Nodarbinātā apliecībā norāda iestādes, komersanta vai organizācijas nosaukumu, darbinieka vārdu, uzvārdu vai darba atļaujas numuru (Latvijā nodarbinātajiem ārzemniekiem), darba līguma datumu un numuru, kā arī darba tiesisko attiecību sākuma datumu, ja tas nesakrīt ar darba līguma noslēgšanas datumu. Nodarbinātā apliecībā ir iestādes, komersanta vai organizācijas zīmogs, kā arī darbinieka fotogrāfija;
 2) atbilstoši darba aizsardzības normatīvajiem aktiem nodrošināt apsardzes darbinieku drošību un veselības aizsardzību darbā.
-(2) Iestādei, komersantam un organizācijai, kas reģistrējusi iekšējās drošības dienestu Valsts policijā, ir tiesības apsardzes darbības nodrošināšanai ar Valsts policijas atļauju iegādāties un glabāt šaujamieročus, kā arī iegādāties un glabāt gāzes ieročus un signālieročus, un speciālos līdzekļus Ieroču aprites likumā noteiktajā kārtībā.
+(2) Iestādei, komersantam un organizācijai, kurai ir reģistrā reģistrēts iekšējās drošības dienests, ir tiesības apsardzes darbības nodrošināšanai ar Valsts policijas atļauju iegādāties un glabāt šaujamieročus, kā arī iegādāties un glabāt gāzes ieročus un signālieročus, un speciālos līdzekļus Ieroču aprites likumā noteiktajā kārtībā.
 (3) Veicot apsardzes darbību, iekšējās drošības dienestam ir pienākums novērtēt iespējamos riskus apsargājamam objektam, veikt nepieciešamos pasākumus, lai novērstu iespējamos apdraudējumus apsargājamā objekta drošībai, kā arī pret apsargājamo objektu vērstus likumpārkāpumus.
 (4) Apsardzes darbības nodrošināšanai iekšējās drošības dienestam ir tiesības:
 1) radiosakaru nodrošināšanai noteiktā kārtībā izmantot radiofrekvences;
