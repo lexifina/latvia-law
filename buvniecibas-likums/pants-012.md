@@ -13,12 +13,8 @@
 (3²) Izskatot būvprojektu, būvvalde vērtē un pārbauda tajā ietverto risinājumu atbilstību normatīvo aktu prasībām, ievērojot šā panta 3.¹ daļā noteikto kompetenci attiecībā uz būvniecības principu un tehniskajām prasībām.
 (3³) Būvdarbu laikā būvvalde pārbauda patvaļīgas būvniecības vai patvaļīgas ekspluatācijas esamību, speciālajos būvnoteikumos noteiktās būvdarbu veikšanas dokumentācijas esamību, kā arī veic šā likuma 18. panta ceturtajā daļā noteiktās darbības un pārbauda būvizstrādājumu atbilstību apliecinošo dokumentu esamību un atbilstību normatīvo aktu prasībām, ciktāl tas attiecas uz dokumenta formu un saturu, un vērtē konservācijas vai iepriekšējā stāvokļa atjaunošanas nepieciešamību.
 (3⁴) Pieņemot būvi ekspluatācijā, būvvalde pārbauda atbilstību būvatļaujā ietvertajiem nosacījumiem (ciktāl tie nav pārbaudīti, izpildot projektēšanas un būvdarbu uzsākšanas nosacījumus), patvaļīgas būvniecības esamību un speciālajos būvnoteikumos noteikto dokumentu, tai skaitā pozitīvu atzinumu (ja tādi nepieciešami saskaņā ar normatīvajiem aktiem), esamību.
-(4) Atkarībā no būvniecības ieceres būvvalde pieņem lēmumu šādos termiņos:
-1) viena mēneša laikā - par šā likuma 14.panta trešās daļas 1.punktā minēto jautājumu;
-2) 14 dienu laikā - par šā likuma 14.panta trešās daļas 2.punktā minēto jautājumu;
-2¹) 14 dienu laikā - par šā likuma 16.panta 2.² daļā un 17.panta 2.¹ daļā minēto jautājumu, kā arī par izmaiņām būvatļaujā gadījumos, kad mainās būvatļaujas adresāts, būvdarbu vadītājs, būvuzraugs vai autoruzraugs;
-3) (izslēgts ar 14.02.2019. likumu).
-(5) Būvvalde atzīmi par projektēšanas nosacījumu izpildi būvniecības informācijas sistēmā izdara 15 darba dienu laikā, bet atzīmi par būvdarbu uzsākšanas nosacījumu izpildi - piecu darba dienu laikā no dienas, kad būvniecības informācijas sistēmā iesniegti dati, kas apliecina visu attiecīgo nosacījumu izpildi.
+(4) (Izslēgta no 01.07.2022. ar 15.04.2021. likumu. Sk. Pārejas noteikumu 27. punktu)
+(5) (Izslēgta no 01.07.2022. ar 15.04.2021. likumu. Sk. Pārejas noteikumu 27. punktu)
 (6) Šajā pantā noteiktās funkcijas būvvalde neveic attiecībā uz būvniecības procesiem vai to daļām, kas atbilstoši šim likumam ir citas institūcijas, kura pilda būvvaldes funkcijas, kompetencē. Būvvaldes tiesības iesaistīties un kārtību, kādā būvvalde ir tiesīga iesaistīties būvniecības administratīvajā procesā, kas ir citas institūcijas, kura pilda būvvaldes funkcijas, kompetencē, nosaka vispārīgie būvnoteikumi.
 (7) Būvvalde būvniecības un ekspluatācijas kontroles ietvaros nepieciešamās procesuālās darbības atspoguļo un lēmumus izdod būvniecības informācijas sistēmā, ievērojot šā panta astoto daļu.
 (8) Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, neizmantojot būvniecības informācijas sistēmu, var:
