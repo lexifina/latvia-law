@@ -1,8 +1,8 @@
 3.¹ pants. Invaliditātes informatīvā sistēma
-(1) Invaliditātes informatīvā sistēma (turpmāk - informācijas sistēma) ir valsts informācijas sistēma, kurā iekļauj datus par prognozējamas invaliditātes un invaliditātes ekspertīzēm, kā arī par personām ar prognozējamu invaliditāti un personām ar invaliditāti, tostarp personas datus. Informācijas sistēmas pārzinis ir Veselības un darbspēju ekspertīzes ārstu valsts komisija.
-(2) Informācijas sistēmas mērķis ir nodrošināt personu ar prognozējamu invaliditāti un personu ar invaliditāti uzskaiti, kas nepieciešama sociālās drošības sistēmas maksājumu un citu valsts noteikto atvieglojumu piešķiršanai, palīdzības sniegšanai personām ar invaliditāti, invaliditātes riska un invaliditātes seku mazināšanai, kā arī veidot statistiku, lai plānotu, izstrādātu un novērtētu valsts politiku invaliditātes jomā un nodrošinātu citu Veselības un darbspēju ekspertīzes ārstu valsts komisijas funkciju izpildi.
+(1) Invaliditātes informatīvā sistēma (turpmāk - informācijas sistēma) ir valsts informācijas sistēma, kurā iekļauj datus par prognozējamas invaliditātes un invaliditātes ekspertīzēm, kā arī par personām ar prognozējamu invaliditāti un personām ar invaliditāti, tostarp personas datus. Informācijas sistēmas pārzinis ir tiešās valsts pārvaldes iestāde "Veselības un darbspēju ekspertīzes ārstu valsts komisija" (turpmāk - Valsts komisija).
+(2) Informācijas sistēmas mērķis ir nodrošināt personu ar prognozējamu invaliditāti un personu ar invaliditāti uzskaiti, kas nepieciešama sociālās drošības sistēmas maksājumu un citu valsts noteikto atvieglojumu piešķiršanai, palīdzības sniegšanai personām ar invaliditāti, invaliditātes riska un invaliditātes seku mazināšanai, kā arī veidot statistiku, lai plānotu, izstrādātu un novērtētu valsts politiku invaliditātes jomā un nodrošinātu citu Valsts komisijas funkciju izpildi.
 (3) Tiesības apstrādāt informācijas sistēmā iekļauto informāciju saistībā ar prognozējamu invaliditāti un invaliditāti, tostarp personas datus, ir šādām institūcijām un personām to darbību reglamentējošos normatīvajos aktos noteikto funkciju vai deleģēto uzdevumu izpildei:
-1) Veselības un darbspēju ekspertīzes ārstu valsts komisijai;
+1) Valsts komisijai;
 2) Labklājības ministrijai;
 3) Valsts sociālās apdrošināšanas aģentūrai;
 4) Valsts darba inspekcijai;
@@ -34,5 +34,5 @@
 30) Būvniecības valsts kontroles birojam;
 31) izmeklēšanas iestādēm un prokuratūrām;
 32) Slimību profilakses un kontroles centram;
-33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikumu 12. punktu).
+33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikuu 12. punktu).
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.

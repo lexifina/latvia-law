@@ -9,4 +9,4 @@
 6) tai Latvijas Republikā ir piešķirts cilvēku tirdzniecības upura statuss.
 (3) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic, ievērojot konfidencialitāti, personas datu aizsardzības prasības un atšķirīgas attieksmes aizliegumu.
 (4) Izdevumus, kas saistīti ar prognozējamas invaliditātes un invaliditātes ekspertīzi, sedz no valsts budžeta.
-(5) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic un prognozējamu invaliditāti vai invaliditāti nosaka tiešās valsts pārvaldes iestādē "Veselības un darbspēju ekspertīzes ārstu valsts komisija" (turpmāk - Valsts komisija).
+(5) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic un prognozējamu invaliditāti vai invaliditāti nosaka Valsts komisija pēc personas iesnieguma saņemšanas. Iesnieguma veidlapas paraugu un veidlapā norādāmo informāciju nosaka Ministru kabinets.
