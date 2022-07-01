@@ -1,6 +1,6 @@
 9.pants. Pretendentu atbilstības ierēdņa amatam pārbaude
 (1) Pretendentu atbilstību vakantajam ierēdņa amatam izvērtē pretendentu un ierēdņu vērtēšanas komisija, kuru izveido:
-1) konkursam uz iestādes vadītāja amatu - attiecīgais ministrs. Personu sarakstu, kuras var tikt iekļautas pretendentu un ierēdņu vērtēšanas komisijā, apstiprina Ministru kabinets pēc attiecīgā ministra ieteikuma;
+1) konkursam uz iestādes vadītāja amatu - attiecīgais ministrs;
 2) konkursam uz pārējiem ierēdņu amatiem - attiecīgās iestādes vadītājs.
 (2) Pretendentu atbilstību vakantā ierēdņa amata aprakstā izvirzītajām prasībām izvērtē, ievērojot attiecīgā ierēdņa amata pārbaudes kritērijus, kurus nosaka:
 1) iestādes vadītāja amatam - ministrs, saskaņojot tos ar Valsts kanceleju;

@@ -1,0 +1,1 @@
+23. Ierēdņi, kuri līdz 2022. gada 30. jūnijam pārcelti citā ierēdņa amatā, kurā noteikta zemāka mēnešalga par iepriekšējo, turpina saņemt iepriekšējā amata mēnešalgu, normatīvajos aktos noteiktās pastāvīgās piemaksas, kas saistītas ar dienestu, un sociālās garantijas, kā arī saglabā specializētajā civildienestā noteikto dienesta pakāpi.
