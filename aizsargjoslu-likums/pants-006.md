@@ -7,4 +7,4 @@ b) ja ciemu robežas ir apstiprinātas šā likuma 67.pantā paredzētajā kārt
 2) jūras aizsargjosla, kas aptver pludmali un zemūdens šelfa daļu no vienlaidu dabiskās sauszemes veģetācijas sākuma līdz 10 metru izobatai;
 3) ierobežotas saimnieciskās darbības josla līdz 5 kilometru platumā, kas tiek noteikta, ņemot vērā dabiskos apstākļus.
 (3) Vietās, kur ir stāvs jūras pamatkrasts, aizsargjoslu platumu nosaka no pamatkrasta augšējās krants.
-(4) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslas noteikšanas metodikas projektu izstrādā Vides aizsardzības un reģionālās attīstības ministrija.
+(4) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslas noteikšanas, kā arī īpaši aizsargājamo biotopu iekļaušanas, izmaiņu un izslēgšanas metodikas projektu izstrādā Vides aizsardzības un reģionālās attīstības ministrija.
