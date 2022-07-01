@@ -1,0 +1,1 @@
+Mēnešalgu grupas un intervāli
