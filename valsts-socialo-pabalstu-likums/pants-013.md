@@ -1,6 +1,6 @@
 13.pants. Valsts sociālā nodrošinājuma pabalsts
 (1) Valsts sociālā nodrošinājuma pabalstu piešķir personai, kurai nav tiesību saņemt valsts pensiju (izņemot apgādnieka zaudējuma pensiju personai ar invaliditāti) vai apdrošināšanas atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību, ja persona:
-1) nav nodarbināta (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu") un ir sasniegusi vecumu, kāds saskaņā ar likumu "Par valsts pensijām" noteikts personai, lai tā iegūtu tiesības uz vecuma pensiju. Šīm personām valsts sociālā nodrošinājuma pabalstu piešķir uz mūžu;
+1) sasniegusi vecumu, kāds saskaņā ar likumu "Par valsts pensijām" noteikts personai, lai tā iegūtu tiesības uz vecuma pensiju. Šīm personām valsts sociālā nodrošinājuma pabalstu piešķir uz mūžu;
 2) atzīta par personu ar invaliditāti un pārsniegusi 18 gadu vecumu. Šīm personām valsts sociālā nodrošinājuma pabalstu piešķir uz noteikto invaliditātes laiku;
 3) nav sasniegusi pilngadību, ir zaudējusi vienu vai abus apgādniekus un nav stājusies laulībā. Šajā gadījumā valsts sociālā nodrošinājuma pabalstu piešķir līdz pilngadības sasniegšanai. Pabalsta izmaksu turpina, ja šajā punktā minētā persona pēc pilngadības sasniegšanas mācās vispārējās izglītības vai profesionālās izglītības iestādē un nav vecāka par 20 gadiem vai studē augstskolā dienas nodaļā (pilna laika klātienē) un nav vecāka par 24 gadiem.
 (1¹) Šā panta pirmās daļas 1. punktā minētajai personai valsts sociālā nodrošinājuma pabalsts ir 109 euro.
