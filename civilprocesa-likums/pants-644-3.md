@@ -6,5 +6,6 @@
 (4¹) Rajona (pilsētas) tiesa, kuras darbības teritorijā izpildāms ārvalsts tiesas nolēmums, par kuru izsniegts Padomes regulas Nr. 4/2009 20.panta 1.punkta "b" apakšpunktā minētais izraksts, pēc parādnieka pieteikuma saņemšanas, pamatojoties uz minētās regulas 21.panta 2.punktu, var atteikt nolēmuma izpildi.
 (4²) Rajona (pilsētas) tiesa, kuras darbības teritorijā izpildāms ārvalsts tiesas nolēmums, par kuru izsniegta Eiropas Parlamenta un Padomes regulas Nr. 1215/2012 53. vai 60.pantā minētā apliecība, pēc parādnieka pieteikuma saņemšanas, pamatojoties uz minētās regulas 46.pantu, var atteikt nolēmuma izpildi.
 (4³) Rajona (pilsētas) tiesa, kuras darbības teritorijā veicama ar ārvalsts tiesas nolēmumu noteiktā aizsardzības pasākuma izpildes kontrole, pēc personas pieteikuma saņemšanas, pamatojoties uz Padomes regulas Nr. 606/2013 13.pantu, var atteikt nolēmuma izpildi.
+(4⁴) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu)
 (5) Šā panta pirmajā, otrajā, trešajā, ceturtajā, 4.¹, 4.² un 4.³ daļā minētais pieteikums tiek izskatīts tiesas sēdē, iepriekš par to paziņojot lietas dalībniekiem. Šo personu neierašanās nav šķērslis pieteikuma izskatīšanai.
 (6) Par tiesas lēmumu var iesniegt blakus sūdzību.

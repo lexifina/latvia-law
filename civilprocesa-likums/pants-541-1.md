@@ -9,6 +9,8 @@
 (4⁴) Eiropas Parlamenta un Padomes regulas Nr. 1215/2012 53. un 60.pantā minēto apliecību tiesa izraksta pēc lietas dalībnieka lūguma, kad spriedums vai lēmums stājies likumīgā spēkā, bet gadījumos, kad spriedums vai lēmums izpildāms nekavējoties, - tūlīt pēc sprieduma pasludināšanas vai lēmuma pieņemšanas.
 (4⁵) Eiropas Parlamenta un Padomes 2013.gada 12.jūnija regulas (ES) Nr. 606/2013 par aizsardzības pasākumu savstarpēju atzīšanu civillietās (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 606/2013) 5.pantā minēto apliecību tiesa izraksta pēc prasītāja lūguma, kad lēmums pieņemts. Par šajā daļā minētās apliecības izsniegšanu tiesa informē atbildētāju saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 606/2013 8.pantu. Tiesa pēc prasītāja lūguma veic šajā daļā minētās apliecības transliterāciju un tulkojumu, pamatojoties uz Eiropas Parlamenta un Padomes regulas Nr. 606/2013 5.panta 3.punktu.
 (4⁶) Eiropas Parlamenta un Padomes regulas Nr. 606/2013 14.pantā minēto apliecību tiesa izraksta pēc lietas dalībnieka lūguma.
+(4⁷) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu)
+(4⁸) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu)
 (5) Šā panta pirmajā, otrajā, trešajā, ceturtajā daļā, 4.¹, 4.³, 4.⁴, 4.⁵ un 4.⁶ daļā minētos dokumentus izsniedz tiesa, kurā tajā laikā atrodas lieta.
 (6) Par atteikšanos izsniegt šā panta pirmajā, otrajā un 4.⁵ daļā minētos dokumentus tiesa pieņem motivētu lēmumu.
 (7) Par tiesas lēmumu atteikt izsniegt šā panta pirmajā, otrajā un 4.⁵ daļā minētos dokumentus var iesniegt blakus sūdzību.
