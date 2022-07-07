@@ -7,14 +7,14 @@
 5) atcelts tiesas nolēmums vai attiecīgas institūcijas vai amatpersonas lēmums, uz kura pamata izsniegts izpildu dokuments;
 6) atjaunots apelācijas, kasācijas vai blakus sūdzības iesniegšanas termiņš par tiesas nolēmumu, uz kura pamata izsniegts izpildu dokuments;
 7) atteikta ārvalsts tiesas vai kompetentās iestādes nolēmuma izpilde (644.³ pants);
-8) ārvalsts tiesa vai kompetentā iestāde atsauc izsniegto Eiropas izpildes rīkojumu saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 805/2004;
+8) ārvalsts tiesa vai kompetentā iestāde atsauc izsniegto Eiropas Savienības izpildu dokumentu;
 9) pieņemts tiesas nolēmums par tiesiskās aizsardzības procesa izbeigšanu sakarā ar tiesiskās aizsardzības procesa pasākumu plāna izpildi;
-9¹) atteikta lēmuma par bērna atgriešanos valstī, kurā ir viņa dzīvesvieta, vai ārvalsts tiesas vai iestādes izsniegtā šā likuma 540.panta 8.punktā norādītā izpildu dokumenta izpilde;
-9²) atteikta ārvalsts nolēmuma lietā, kas izriet no saskarsmes vai aizgādības tiesībām, vai šā likuma 540.panta 7.¹ punktā norādītā izpildu dokumenta izpilde;
+9¹) atteikta lēmuma par bērna atgriešanos valstī, kurā ir viņa dzīvesvieta, izpilde;
+9²) (izslēgts ar 16.06.2022. likumu);
 10) pieņemts tiesas nolēmums par fiziskās personas saistību dzēšanas procedūras izbeigšanu, atbrīvojot fizisko personu no tās parāda saistībām, vai pieņemts tiesas nolēmums par bankrota procedūras izbeigšanu, ja nav iesniegti kreditoru prasījumi Maksātnespējas likumā noteiktajā kārtībā, vienlaikus izbeidzot fiziskās personas maksātnespējas procesu;
 11) ārvalsts iestāde atsauc palīdzības pieprasījumu par nodokļa, nodevas, ar piedziņu saistīto izmaksu vai citu obligāto maksājumu piedziņu;
 12) saņemts Valsts darba inspekcijas paziņojums, ka saskaņā ar pieprasījuma iesniedzējas dalībvalsts sniegto informāciju atcelts Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts kompetentās iestādes lēmums par administratīvā naudas soda uzlikšanu, kas saistīts ar pārkāpumiem darbinieku nosūtīšanas jomā;
-13) tiesa vai ārvalsts tiesa atsauc izsniegto Eiropas kontu apķīlāšanas rīkojumu vai atsaka tā izpildi saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 655/2014;
+13) (izslēgta ar 16.06.2022. likumu);
 14) maksātnespējas reģistrā izdarīts ieraksts par pieteikuma par fiziskās personas atbrīvošanu no parādsaistībām izskatīšanas rezultātu, fiziskā persona atbrīvota no parādsaistībām un ir beidzies noteiktais termiņš pieteikuma iesniegšanai par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu.
 (2) Izpildu lietvedība par piespriesto naudas summu piedziņu no juridiskajām personām, personālsabiedrībām, individuālajiem komersantiem, ārvalstī reģistrētām personām, kas veic pastāvīgu saimniecisko darbību Latvijā, un lauksaimniecības produktu ražotājiem izbeidzama pēc administratora pieteikuma, ja parādniekam likumā noteiktajā kārtībā pasludināta maksātnespēja. Šajā gadījumā tiesu izpildītājs pabeidz uzsākto mantas pārdošanu, ja tā jau ir izsludināta vai manta nodota tirdzniecības uzņēmumam pārdošanai, ja vien administrators nav pieprasījis atcelt izsludinātās izsoles, lai nodrošinātu mantas pārdošanu lietu kopības sastāvā. No pārdošanā saņemtās naudas tiesu izpildītājs ietur sprieduma izpildes izdevumus, bet pārējo naudu nodod administratoram kreditoru prasījumu segšanai atbilstoši Maksātnespējas likumā noteiktajai kārtībai, ievērojot nodrošinātā kreditora tiesības. Tiesu izpildītājs paziņo mantas glabātājam par pienākumu nodot administratoram mantu, kuras pārdošana nav uzsākta.
 (3) Šā panta pirmās daļas 3. un 4.punktā paredzētajos gadījumos tiesu izpildītājs var izbeigt izpildu lietvedību arī pēc savas iniciatīvas.
@@ -24,3 +24,4 @@
 (5) Izbeigto izpildu lietvedību nevar uzsākt no jauna.
 (6) Ja ārvalsts tiesa vai kompetentā iestāde labo Eiropas izpildes rīkojumu, kas izsniegts, pamatojoties uz Eiropas Parlamenta un Padomes regulu Nr. 805/2004, nolēmuma izpilde atceltajā daļā izbeidzama un izpilde turpināma atbilstoši labotajam Eiropas izpildes rīkojumam.
 (7) Ja tiesa, ārvalsts tiesa vai kompetentā iestāde groza Eiropas kontu apķīlāšanas rīkojumu, pamatojoties uz Eiropas Parlamenta un Padomes regulu Nr. 655/2014, nolēmuma izpilde atceltajā daļā izbeidzama un izpilde turpināma atbilstoši grozītajam Eiropas kontu apķīlāšanas rīkojumam.
+(8) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu)

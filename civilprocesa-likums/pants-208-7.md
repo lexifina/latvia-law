@@ -1,5 +1,5 @@
 208.⁷ pants. Tiesneša rīcība pēc pieteikuma pieņemšanas
-(1) Atzinis, ka pieteikums atbilst šā likuma 208.⁵ panta prasībām, tiesnesis paziņo par pieteikumu prasītājam un trešajām personām un nosūta viņiem pieteikumu un tam pievienotos dokumentus.
+(1) Atzinis, ka pieteikums atbilst šā likuma 208.⁵ panta prasībām, tiesnesis paziņo par pieteikumu prasītājam un trešajām personām un nosūta viņiem pieteikumu. Atkarībā no lietas apstākļiem un rakstura prasītājam un trešajām personām var nosūtīt arī prasības pieteikumam pievienotos dokumentus.
 (2) Tiesnesis izskata pieteikumu septiņu dienu laikā pēc tā saņemšanas un pieņem vienu no šādiem lēmumiem:
 1) par tiesvedības atjaunošanu un lietas izskatīšanu no jauna, ja atzīst, ka lietas izskatīšana bez atbildētāja piedalīšanās un viņa pieteikto pierādījumu pārbaudes novedusi vai varējusi novest pie lietas nepareizas izspriešanas;
 2) par pieteikuma noraidīšanu, ja atzīst, ka lietas izskatīšanai no jauna nav šā panta otrās daļas 1.punktā norādītā pamata.

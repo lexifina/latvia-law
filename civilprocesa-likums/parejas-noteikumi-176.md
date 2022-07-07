@@ -1,0 +1,1 @@
+176. Attiecībā uz ārvalsts tiesas nolēmuma, par kuru izdota apliecība saskaņā ar Padomes regulas Nr. 2201/2003 41. panta 1. punktu vai 42. panta 1. punktu, izpildes atlikšanu vai atteikumu būtisku apstākļu maiņas gadījumā piemēro tās šā likuma normas, kas bija spēkā līdz 2022. gada 31. jūlijam.

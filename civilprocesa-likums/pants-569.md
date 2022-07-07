@@ -5,6 +5,6 @@
 3) par piedziņu valsts ienākumos.
 (1¹) Ja bērna vai parādnieka un bērna atrašanās vieta nav zināma, tiesnesis pēc tiesu izpildītāja lūguma pieņem lēmumu par minēto personu meklēšanu ar policijas palīdzību šādos gadījumos:
 1) lietās par bērna nogādāšanu atpakaļ uz valsti, kurā ir viņa dzīvesvieta;
-2) kad ir saņemts šā likuma 540.panta 8.punktā minētais izpildu dokuments;
+2) kad ir saņemts Eiropas Savienības izpildu dokuments par bērna nogādāšanu atpakaļ uz valsti, kurā ir viņa dzīvesvieta;
 3) lietās, kas izriet no aizgādības tiesībām.
 (2) Pēc policijas iestādes iesnieguma tiesa pieņem lēmumu par meklēšanas izdevumu piedziņu no parādnieka.

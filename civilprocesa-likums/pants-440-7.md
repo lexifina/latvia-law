@@ -1,4 +1,4 @@
 440.⁷ pants. Pirmās instances tiesas rīcība pēc apelācijas sūdzības saņemšanas
-(1) Pirmās instances tiesas tiesnesis, pārliecinājies, ka apelācijas sūdzība atbilst šā likuma 416., 440.² panta un 440.⁴ panta prasībām, nekavējoties paziņo par šo sūdzību pārējiem lietas dalībniekiem un nosūta viņiem sūdzību un tai pievienotos dokumentus.
+(1) Pirmās instances tiesas tiesnesis, pārliecinājies, ka apelācijas sūdzība atbilst šā likuma 416., 440.² un 440.⁴ panta prasībām, nekavējoties paziņo par šo sūdzību pārējiem lietas dalībniekiem un nosūta viņiem sūdzību. Atkarībā no lietas apstākļiem un rakstura pārējiem lietas dalībniekiem var nosūtīt arī sūdzībai pievienotos dokumentus.
 (2) Pirmās instances tiesas tiesnesis, nosūtot pārējiem lietas dalībniekiem apelācijas sūdzību un tai pievienotos dokumentus, informē viņus, ka rakstveida paskaidrojumi iesniedzami pēc tam, kad apelācijas instance lietas dalībniekiem nosūtījusi paziņojumu par apelācijas tiesvedības ierosināšanu.
 (3) Pēc apelācijas sūdzības iesniegšanas termiņa beigām pirmās instances tiesas tiesnesis nekavējoties nosūta lietu ar apelācijas sūdzību un tai pievienotajiem dokumentiem apelācijas instances tiesai.

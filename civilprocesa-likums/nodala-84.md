@@ -1,2 +1,2 @@
 84.nodaļa
-Starptautiskā civilprocesuālā sadarbība pierādījumu iegūšanā saskaņā ar Padomes 2001.gada 28.maija regulu (EK) Nr. 1206/2001 par sadarbību starp dalībvalstu tiesām pierādījumu iegūšanā civillietās un komerclietās
+Starptautiskā civilprocesuālā sadarbība pierādījumu iegūšanā saskaņā ar Eiropas Parlamenta un Padomes 2020. gada 25. novembra regulu (ES) 2020/1783 par sadarbību starp dalībvalstu tiesām pierādījumu iegūšanā civillietās un komerclietās (pierādījumu iegūšana)

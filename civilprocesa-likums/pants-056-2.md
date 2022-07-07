@@ -1,6 +1,6 @@
 56.² pants. Tiesas dokumentu piegādāšana un izsniegšana personai, kuras dzīvesvieta vai atrašanās vieta nav Latvijā
 (1) Personai, kuras dzīvesvieta, atrašanās vieta vai juridiskā adrese nav Latvijā un kuras adrese ir zināma, tiesas dokumentus piegādā:
-1) Eiropas Parlamenta un Padomes 2007.gada 13.novembra regulā (EK) Nr. 1393/2007 par tiesas un ārpustiesas civillietu vai komerclietu dokumentu izsniegšanu dalībvalstīs (dokumentu izsniegšana), un ar ko atceļ Padomes regulu (EK) Nr. 1348/2000 (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1393/2007) (81.nodaļa) paredzētajā kārtībā;
+1) Eiropas Parlamenta un Padomes 2020. gada 25. novembra regulā (ES) 2020/1784 par tiesas un ārpustiesas civillietu vai komerclietu dokumentu izsniegšanu dalībvalstīs (dokumentu izsniegšana) (turpmāk - Eiropas Parlamenta un Padomes regula (ES) 2020/1784) (81. nodaļa) paredzētajā kārtībā;
 2) Eiropas Parlamenta un Padomes 2007.gada 11.jūlija regulas (EK) Nr. 861/2007, ar ko izveido Eiropas procedūru maza apmēra prasībām (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 861/2007), 13.pantā paredzētajā kārtībā;
 3) Latvijai saistošos starptautiskajos līgumos (82.nodaļa) paredzētajā kārtībā;
 4) šā likuma 83.nodaļā paredzētajā kārtībā;

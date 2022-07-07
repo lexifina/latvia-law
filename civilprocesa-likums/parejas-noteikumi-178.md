@@ -1,0 +1,1 @@
+178. Grozījums šā likuma 400. panta pirmās daļas 4. punktā par protestētiem vekseļiem, kuri nav izdoti notariālā akta formā, šā likuma 539. panta otrās daļas 6. punkts un 540. panta 16.¹ punkts stājas spēkā 2022. gada 1. oktobrī.

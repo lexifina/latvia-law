@@ -1,7 +1,7 @@
 539.pants. Tiesu un citu institūciju nolēmumi, kas jāizpilda
 (1) Šajā likumā noteiktajā tiesas spriedumu izpildes kārtībā izpildāmi šādi tiesu nolēmumi, tiesnešu lēmumi vai citu institūciju nolēmumi:
 1) tiesas spriedumi un tiesas vai tiesneša lēmumi civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām;
-2) tiesas nolēmumi un prokurora lēmumi vai priekšraksti krimināllietās daļā par mantiskajām piedziņām;
+2) tiesas nolēmumi un procesa virzītāja lēmumi vai prokurora priekšraksti krimināllietās daļā par mantiskajām piedziņām;
 3) tiesneša vai tiesas lēmumi lietās par administratīvajiem pārkāpumiem daļā par mantiskajām piedziņām;
 4) tiesas lēmumi par izlīguma apstiprināšanu;
 5) pastāvīgās šķīrējtiesas nolēmumi;
@@ -15,4 +15,5 @@
 3) tiesu sistēmai piederīgo personu (notāri, advokāti, tiesu izpildītāji) nolēmumi par amata atlīdzību, atlīdzību par sniegto juridisko palīdzību un par izdevumiem, kas saistīti ar sniegtajiem pakalpojumiem, un valsts nodevu;
 4) saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtie Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas akti.
 5) Notariāta likuma D¹ sadaļā noteiktajā kārtībā taisīti notariālie akti.
-(3) (Izslēgta no 01.03.2016. ar 04.02.2016. likumu. Sk. Pārejas noteikumu 113. punktu)
+6) (punkts stājas spēkā 01.10.2022. un iekļauts likuma redakcijā uz 01.10.2022. Sk. pārejas noteikumu 178. punktu)
+(3) (Izslēgta no 01.03.2016. ar 04.02.2016. likumu. Sk. pārejas noteikumu 113. punktu)
