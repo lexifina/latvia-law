@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 5. jūlija noteikumi Nr. 408 \"Grozījumi Ministru kabineta 2009. gada 17. februāra noteikumos Nr. 152 \"Lopbarības augu sēklaudzēšanas un sēklu tirdzniecības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-07",
+  "entry_into_force": "2022-07-08",
+  "notification_date": "2022-08-23",
+  "commission_reference": "MNE(2022)05457",
+  "nim_celex": "72021L0971LVA_202205457",
+  "nim_id": "202205457",
+  "transposes_celex": [
+    "32021L0971"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e50ea4fb-2510-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
