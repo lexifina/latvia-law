@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada 14.jūlija 2. ārkārtas sesija",
+ "sede": 1,
+ "datums": "2022-07-14",
+ "ieraksts": {
+  "dkp_id": "d1f17b83-645f-4bee-9ff9-ffa957beb7a3",
+  "lastmodtime": "\"AAAAAAH1tKw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Edvīns#Andris#Romāns#Ivans#Vita Anda#Ivars#Jānis#Edgars#Eva#Vladimirs#Didzis#Jānis#Vjačeslavs#Ainars#Gatis#Karina#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Armands#Jānis#Jānis#Inese#Nikolajs#Igors#Raivis#Juris#Evija#Jānis#Alīna#Boriss#Ļubova#Sandis#Inguna#Ieva#Arvils#Rihards#Ilga#Māris#Ilmārs#Jūlija#Atis#Zenta#Valērijs#Andrejs#Viesturs#Māris#Normunds#Edgars#Viktors#Andrejs#Aigars#Jānis#Ivans#Vitālijs#Ritvars#Raimonds#Sergejs#Dagmāra#Ainars#Krišjānis#Jānis#Līva#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Šnore#Skride#Naudiņš#Ribakovs#Tērauda#Puga#Butāns#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Dombrovskis#Latkovskis#Zamurs#Sprūde#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Krauze#Iesalnieks#Dūklavs#Voika#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Gendele#Cilevičs#Švecova#Riekstiņš#Rībena#Akuratere#Ašeradens#Kols#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Klementjevs#Liepkalns#Kučinskis#Dzintars#Tavars#Valainis#Judins#Bikše#Urbanovičs#Klementjevs#Orlovs#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Bašķis#Feldmans#Tutins#Kreituse#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "###########################################################################",
+  "FRACTION": "JV#Konservatīvie#NA#AP!# #SASKAŅA #AP!# #Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA # #Konservatīvie# #JV#AP!#Neatkarīgie#SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #NA#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# # #JV#SASKAŅA # #Konservatīvie# #Konservatīvie#JV#NA# #Neatkarīgie#AP!# # #SASKAŅA #SASKAŅA #SASKAŅA #AP!# #NA# #ZZS#JV#AP!#SASKAŅA #SASKAŅA #SASKAŅA #NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#ZZS#NA#AP!#Konservatīvie#SASKAŅA #NA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.07.2022 15:19:28",
+  "VOTEMOTIVE": "Par Kateržinas Krejčī (Katerina Krejci) atzīšanu par Latvijas pilsoni (1550/Lp13), 1.lasījums",
+  "VOTING_ID": "62b37077-8e0c-4f9a-8552-dc6385da959f",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "76",
+  "VOTE_NUMBER": "10",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada 14.jūlija 2. ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d7854d0f-e650-4d3a-954d-afc363ca1dac/download/13.saeimas-2022.gada-14.jlija-2.-rkrtas-sesija-1-vote.xml",
+  "sha256": "6ff1342ae36ab3e7219d4af629a44df7912f86b82eec3480ab6f353dfd03fe00",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
