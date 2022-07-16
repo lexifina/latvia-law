@@ -1,0 +1,1 @@
+17. Mēslošanas līdzekļu un substrātu ražotājs un ievedējs šā likuma 5. panta pirmās daļas 2. punktā minētās ziņas par 2022. gadā tirdzniecībai ražotajiem vai ievestajiem mēslošanas līdzekļiem ar marķējumu "EK mēslošanas līdzeklis" iesniedz dienestam līdz 2023. gada 31. janvārim.

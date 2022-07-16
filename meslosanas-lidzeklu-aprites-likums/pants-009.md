@@ -6,10 +6,10 @@
 4) izsniedz atļaujas mēslošanas līdzekļu un substrātu ievešanai vai tirdzniecībai saskaņā ar šā likuma 8.pantu;
 5) uzrauga un kontrolē mēslošanas līdzekļu un substrātu apriti;
 6) ņem analīzēm mēslošanas līdzekļu un substrātu bezmaksas kontrolparaugus mēslošanas līdzekļa un substrāta atbilstības novērtēšanai. Kontrolparaugus ņem nepieciešamajā daudzumā saskaņā ar normatīvajiem aktiem par mēslošanas līdzekļiem un substrātiem;
-7) veic to mēslošanas līdzekļu uzraudzību, kontroli un uzskaiti, kuriem ir EK marķējums, saskaņā ar regulu Nr. 2003/2003, kā arī saņem detonācijas testus vai to kopijas visu tipu amonija nitrāta mēslošanas līdzekļiem ar augstu slāpekļa saturu, kurus laiž tirgū ar EK marķējumu;
-8) rakstveidā informē Zemkopības ministriju, ja mēslošanas līdzeklis, kuram ir EK marķējums, neatbilst regulas Nr. 2003/2003 prasībām, kas attiecas uz mēslošanas līdzekļa tipu un deklarēto barības vielu saturu, vai ir iemesls uzskatīt, ka tas var radīt risku cilvēku, dzīvnieku vai augu veselībai vai videi;
+7) īsteno ES mēslošanas līdzekļu ar CE zīmi uzraudzību, kontroli un veic to uzskaiti, tai skaitā ir tirgus uzraudzības iestāde saskaņā ar regulas 2019/1020 10. panta 2. punktu un veic regulas 2019/1009 38., 40. un 41. pantā noteiktās funkcijas;
+8) (izslēgts ar 09.06.2022. likumu);
 9) par trešajās valstīs ražotajiem mēslošanas līdzekļiem un substrātiem, kuriem viens no aprites posmiem ir ievešana, sniedz Valsts ieņēmumu dienestam šādu informāciju:
-a) piecu darbdienu laikā - par uzskaitei pieteiktajiem mēslošanas līdzekļiem ar EK marķējumu, paziņotajiem mēslošanas līdzekļiem un substrātiem, kā arī ražotāja reģistrētajiem mēslošanas līdzekļiem un substrātiem,
+a) piecu darbdienu laikā - par uzskaitei pieteiktajiem ES mēslošanas līdzekļiem ar CE zīmi, paziņotajiem mēslošanas līdzekļiem un substrātiem, kā arī ražotāja reģistrētajiem mēslošanas līdzekļiem un substrātiem,
 b) katru mēnesi līdz piektajam datumam - par iepriekšējā mēnesī reģistrētajiem mēslošanas līdzekļiem un substrātiem, par tiem mēslošanas līdzekļiem un substrātiem, kuriem izsniegta šā likuma 8.panta otrajā daļā minētā atļauja, kā arī par mēslošanas līdzekļiem un substrātiem, kuriem anulēta reģistrācijas apliecība;
 10) norādot identificēšanai nepieciešamās ziņas, no Valsts ieņēmumu dienesta var pieprasīt informāciju par mēslošanas līdzekļiem un substrātiem, kuriem piemērota muitas procedūra - laišana brīvā apgrozībā;
 11) ievieto savā tīmekļvietnē mēslošanas līdzekļu sarakstu, kurā norādīts kālija nitrāts, nātrija nitrāts, kalcija nitrāts, kalcija amonija nitrāts un mēslošanas līdzekļi, kuros amonija nitrāta slāpekļa saturs ir 16 procentu vai vairāk no mēslošanas līdzekļa masas.

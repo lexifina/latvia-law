@@ -5,12 +5,10 @@
 3) (izslēgts ar 17.06.2010. likumu);
 4) (izslēgts ar 17.10.2013. likumu);
 5) mēslošanas līdzekļiem un substrātiem, kuriem piemēro kādu no muitas procedūrām, izņemot tos mēslošanas līdzekļus un substrātus, kuriem piemēro muitas procedūru - laišana brīvā apgrozībā.
-(2) Uz mēslošanas līdzekļiem, kuriem ir marķējums "EK mēslošanas līdzeklis" (turpmāk - EK marķējums), attiecas šā likuma noteikumi par:
-1) nevēlamo piemaisījumu maksimāli pieļaujamo koncentrāciju mēslošanas līdzekļos (4.panta pirmās daļas 1.punkta "d" apakšpunkts);
-2) mēslošanas līdzekļu uzraudzību, kontroli un uzskaiti, kā arī detonācijas testu vai to kopiju saņemšanu un informācijas sniegšanu (4.panta pirmās daļas 1.punkta "f" apakšpunkts, 4.panta trešā daļa, 8. panta pirmā daļa, 9.panta pirmās daļas 7., 8., 9. un 10.punkts un otrās daļas 1. un 2. punkts, 17. pants);
-3) mēslošanas līdzekļu kvalitātes atbilstības novērtēšanas kārtību, veicot uzraudzību un kontroli (4.panta pirmās daļas 1.punkta "g" apakšpunkts);
-4) mēslošanas līdzekļu kontroles paraugu ņemšanu, kā arī paraugu ņemšanas un sagatavošanas kārtību (4.panta pirmās daļas 2.punkts);
-5) neatbilstības gadījumu paziņošanu Eiropas Komisijai (4.panta otrā daļa);
-6) darbību veicēja pienākumiem (5.panta pirmā, otrā, trešā, ceturtā, sestā, septītā, astotā, devītā un desmitā daļa);
-7) rīcību ar nekvalitatīviem mēslošanas līdzekļiem (7.pants);
-8) valsts uzraudzības un kontroles izdevumu segšanu (14.pants).
+(2) Uz ES mēslošanas līdzekļiem ar CE zīmi attiecas šā likuma noteikumi par:
+1) mēslošanas līdzekļu uzraudzību, kontroli, uzskaiti, informācijas sniegšanu un neatbilstības gadījumu paziņošanu Eiropas Komisijai (4. panta pirmās daļas 1. punkta "f" apakšpunkts un trešā daļa, 8. panta pirmā daļa, 9. panta pirmās daļas 7., 9., 10. un 11. punkts un otrās daļas 1., 2. un 6. punkts, kā arī 17. pants);
+2) mēslošanas līdzekļu kvalitātes atbilstības novērtēšanas kārtību, īstenojot uzraudzību un kontroli (4. panta pirmās daļas 1. punkta "g" apakšpunkts);
+3) mēslošanas līdzekļu kontroles paraugu ņemšanu, kā arī paraugu ņemšanas un sagatavošanas kārtību (4. panta pirmās daļas 2. punkts);
+4) darbību veicēja pienākumiem (5. panta pirmā, otrā, piektā, sestā, septītā, astotā, devītā un desmitā daļa);
+5) rīcību ar nekvalitatīviem mēslošanas līdzekļiem (7. pants un 9. panta pirmās daļas 7. punkts);
+6) valsts uzraudzības un kontroles izdevumu segšanu (14. pants).
