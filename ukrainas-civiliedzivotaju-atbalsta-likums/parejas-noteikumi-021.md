@@ -1,0 +1,1 @@
+21. Pašvaldība nedrīkst pieņemt šā likuma 12. panta 1.³ daļā norādīto lēmumu par Ukrainas civiliedzīvotāju izmitināšanu līdz 60 dienām attiecībā uz tiem Ukrainas civiliedzīvotājiem, kuri ir izmitināti pirms šīs daļas spēkā stāšanās dienas.

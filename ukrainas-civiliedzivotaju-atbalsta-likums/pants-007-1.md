@@ -6,10 +6,11 @@
 2) ir persona ar invaliditāti vai atbilstoši šā likuma 7.² panta ceturtajā daļā noteiktajam tai ir Valsts komisijas izsniegts atzinums par īpašas kopšanas nepieciešamību;
 3) nodrošina šīs daļas 1. un 2. punktā minētās personas aprūpi;
 4) ir pensijas vecumā atbilstoši Latvijā noteiktajam pensionēšanās vecumam;
-5) Latvijā iegūst izglītību klātienē pirmsskolas, pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē vai ir pilna laika studējošais augstākās izglītības iestādē;
-6) ir sieviete grūtniecības un dzemdību atvaļinājuma laikā;
-7) ir viens no bērna vecākiem bērna kopšanas periodā;
-8) nodrošina pirmsskolas vecuma bērna kopšanu, aprūpi un bērnam nav iespējas apmeklēt pirmsskolas izglītības iestādi.
+5) Latvijā iegūst izglītību klātienē pirmsskolas, pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē vai pāriet uz mācībām nākamajā izglītības pakāpē, iegūst izglītību augstākās izglītības iestādē vai turpina izglītības ieguvi Ukrainā tālmācībā vai attālināti pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē;
+6) ir sieviete, kura stājusies grūtniecības uzskaitē;
+7) ir viens no bērna vecākiem vai ārkārtas aizbildnis, kurš kopj bērnu līdz divu gadu vecumam;
+8) nodrošina pirmsskolas vecuma bērna kopšanu, aprūpi un bērnam nav iespējas apmeklēt pirmsskolas izglītības iestādi;
+9) ir bērns pirmsskolas vecumā, kuram nav iespējas apmeklēt pirmsskolas izglītības iestādi.
 (1³) Lai saņemtu atlīdzību par izmitināšanas periodu, kas pārsniedz šā panta pirmajā daļā minētās 120 dienas, izmitinātājs vai tā pilnvarota persona šā panta otrajā daļā noteiktajā kārtībā iesniedz jaunu pieteikumu, papildus pievienojot dokumentus, kas apliecina izmitināmā Ukrainas civiliedzīvotāja atbilstību kādai no šā panta 1.² daļā minētajām personu grupām.
 (2) Lai saņemtu atlīdzību, izmitinātājs vai viņa pilnvarota persona iesniedz pieteikumu atlīdzības saņemšanai (turpmāk - atlīdzības pieteikums) tai pašvaldībai, kuras administratīvajā teritorijā atrodas mājoklis. Pieteikumu iesniedz 14 dienu laikā no dienas, kad mājoklī izmitināts Ukrainas civiliedzīvotājs, un tajā iekļaujamas vismaz šādas ziņas:
 1) iesniedzēja vārds, uzvārds, personas kods (fiziskajai personai) vai nosaukums un reģistrācijas numurs (juridiskajai personai), kontaktinformācija, kredītiestādes maksājuma vai pasta norēķinu sistēmas konts, kurā ieskaitāma atlīdzība;
