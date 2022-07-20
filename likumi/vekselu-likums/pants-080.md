@@ -1,3 +1,4 @@
-80. Notārs, kuram protesta izdarīšanai iesniegts vekselis, mutiski vai rakstiski uzaicina tās personas, uz kurām protests attiecas, izpildīt savu saistību pēc vekseļa.
+80. Notārs, kuram protesta izdarīšanai iesniegts vekselis, rakstiski uzaicina tās personas, uz kurām protests attiecas, izpildīt savu saistību pēc vekseļa, uzaicinājumu nosūtot uz deklarēto dzīvesvietas adresi, juridisko adresi vai oficiālo elektronisko adresi, ja personai ir aktivizēts oficiālās elektroniskās adreses konts. Uzaicinājumu nosūta arī uz vienkāršā vekseļa turētāja norādīto uz vienkāršā vekseļa pamata atbildīgās personas adresi, ja tā atšķiras no iepriekš norādītajām adresēm.
 Ja saistība pēc vekseļa nav nokārtota,*) tad notāram jāsastāda protesta akts. Protesta aktu noformē atbilstoši Ministru kabineta apstiprinātajam paraugam.
 Elektroniskā vekseļa protesta aktu sastāda kā elektronisku dokumentu atbilstoši šā likuma un elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām.
+Protesta akts par notariālā akta formā izdotu vienkāršo vekseli ir izpildu dokuments, kuru izpilda Civilprocesa likumā noteiktajā tiesas spriedumu izpildes kārtībā.

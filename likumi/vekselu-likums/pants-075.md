@@ -1,5 +1,5 @@
-75. Vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu noteiktā termiņā un vietā.
-Ja vienkāršā vekseļa devējs kāda iemesla dēļ nespēj pats parakstīt vekseli, tad pēc viņa lūguma to var parakstīt cita persona. Tādā gadījumā uz vekseļa jābūt notāra apliecinājumam, ka vekselis parakstīts pēc vekseļa devēja lūguma.
+75. Vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu līdz 15 000 euro (piecpadsmit tūkstošiem euro) noteiktā termiņā un vietā.
+(Otrā daļa izslēgta ar 16.06.2022. likumu)
 Vienkāršā vekselī jābūt:
 1) apzīmējumam, kas izteic, ka akts ir vekselis. Apzīmējumu izsaka akta tekstā valodā, kurā akts uzrakstīts;
 2) norādei, ka vekseli var izdot tikai vienai personai, kas ir pirmais vekseļa ņēmējs;
@@ -12,3 +12,5 @@ Vienkāršā vekselī jābūt:
 9) vekseļa izrakstīšanas datumam (cipariem);
 10) vekseļa devēja parakstam. Parakstot vekseli, nedrīkst lietot faksimilzīmogu;
 11) atzīmei par valsts nodevas samaksu (valsts nodevas apmērs, bankas dienas spiedogs, bankas darbinieka paraksts).
+(Ceturtā daļa stājas spēkā 01.10.2022. un iekļauta likuma redakcijā uz 01.10.2022. Sk. pārejas noteikumu 5. punktu)
+Ja vienkāršais vekselis tiek izdots notariālā akta formā, visa korespondence, kas tiek nosūtīta uz notariālajā aktā norādīto adresi, tiek uzskatīta par saņemtu.

@@ -9,4 +9,4 @@
 8) tratas izrakstīšanas datumam (cipariem);
 9) trasanta parakstam. Parakstot tratu, nedrīkst lietot faksimilzīmogu;
 10) atzīmei par valsts nodevas samaksu (valsts nodevas apmērs, bankas dienas spiedogs, bankas darbinieka paraksts).
-Ja trasants kāda iemesla dēļ nespēj pats parakstīt tratu, tad pēc viņa lūguma to var parakstīt cita persona. Tādā gadījumā uz tratas jābūt notāra apliecinājumam, ka trata parakstīta pēc trasanta lūguma.
+(Otrā daļa izslēgta ar 16.06.2022. likumu)

@@ -1,0 +1,1 @@
+6. Atbildību pēc vienkāršā vekseļa, ko izdevusi vai kur par indosantu, galvinieku vai starpnieku uzstājusies fiziskā persona līdz 2022. gada 30. septembrim un kur vienkāršais vekselis neatbilst šā likuma 75. panta ceturtajā daļā noteiktajām formas prasībām, no 2022. gada 1. oktobra var prasīt tikai tiesas ceļā.
