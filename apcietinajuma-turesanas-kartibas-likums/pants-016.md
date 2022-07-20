@@ -1,2 +1,2 @@
 16.pants. Apcietināto sieviešu turēšanas īpatnības izmeklēšanas cietumā
-Pēc apcietinātās sievietes lūguma un ar bāriņtiesas piekrišanu izmeklēšanas cietumā var iemitināt arī viņas bērnus, kuri nav vecāki par trim gadiem.
+Pēc apcietinātās sievietes lūguma un ar bāriņtiesas piekrišanu izmeklēšanas cietumā var iemitināt arī viņas bērnus, kuri nav vecāki par trim gadiem. Laikposmā, kamēr bāriņtiesa pieņem attiecīgo lēmumu, bērns uzturas kopā ar māti izmeklēšanas cietumā, bet ne ilgāk par vienu mēnesi no dienas, kad bērns uzņemts izmeklēšanas cietumā.

@@ -1,0 +1,2 @@
+6.¹ pants. Informācijas nosūtīšana Valsts robežsardzei
+Ja attiecībā uz apcietināto ir stājies spēkā tiesas spriedums citā krimināllietā, saskaņā ar kuru apcietinātais pēc pamatsoda izciešanas ir izraidāms no Latvijas Republikas, izmeklēšanas cietuma administrācija 30 dienu laikā pēc apcietinātā ievietošanas izmeklēšanas cietumā par to rakstveidā informē Valsts robežsardzi atbilstoši normatīvajam aktam par ārzemnieka piespiedu izraidīšanu, izceļošanas dokumentu un tā izsniegšanu. Apcietinātais tiek izraidīts Imigrācijas likumā noteiktajā kārtībā.

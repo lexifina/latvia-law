@@ -9,4 +9,5 @@ Apcietinātajam ir pienākums:
 7) uzturēt kārtību izmeklēšanas cietuma telpās un ievērot personisko higiēnu;
 8) lietot cietuma ārstniecības personas noteiktos medikamentus ārstniecības personas klātbūtnē;
 9) pakļauties šajā likumā un citos normatīvajos aktos noteiktajai apcietinātā un tā sevišķo pazīmju fotoattēlu iegūšanas kārtībai;
-10) samaksāt par Ieslodzījuma vietu pārvaldes sniegtajiem maksas pakalpojumiem.
+10) samaksāt par Ieslodzījuma vietu pārvaldes sniegtajiem maksas pakalpojumiem;
+11) segt izdevumus par saraksti, izņemot šajā likumā paredzētos gadījumus.

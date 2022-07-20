@@ -4,7 +4,7 @@
 1) izmantot tiesības uz tikšanos;
 2) iegādāties pārtikas produktus un tabakas izstrādājumus;
 3) nosūtīt vēstules privātpersonām vai saņemt vēstules no tām;
-4) izmantot tiesības uz telefonsarunām;
+4) izmantot tiesības uz telefonsarunām vai videosaziņu;
 5) lietot galda spēles;
 6) smēķēt.
 (3) Nepilngadīgajiem apcietinātajiem, kas ievietoti soda izolatorā, atļauj saraksti ar radiniekiem un laulāto.

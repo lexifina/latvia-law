@@ -1,5 +1,7 @@
-20.pants. Apcietināto iespēja saņemt, sūtīt un izmantot naudas pārvedumus
-(1) Naudu, kas apcietinātajam atsūtīta ar pārvedumu vai iemaksāta izmeklēšanas cietuma kasē, viņam neizsniedz, bet ieskaita izmeklēšanas cietuma depozīta kontā Valsts kasē un uzskaita apcietinātā personiskās naudas uzskaites kartē.
-(2) Apcietinātais savas personiskās naudas uzskaites kartē esošo naudu pārskaitījumu veidā ar izmeklēšanas cietuma darbinieku starpniecību var izmantot pārtikas produktu un pirmās nepieciešamības priekšmetu iegādei izmeklēšanas cietuma veikalā.
-(3) Naudas pārvedumus apcietinātais drīkst sūtīt tikai ar procesa virzītāja atļauju.
-(4) Apcietinātā naudu izmeklēšanas cietumā uzglabā, pārsūta un apcietinātajam izmaksā euro. Citā valūtā saņemto naudu pārrēķina euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu tās dienas sākumā, kad nauda saņemta izmeklēšanas cietumā.
+20. pants. Apcietināto nauda
+(1) Naudu, ko apcietinātais saņem ar pārvedumu vai kas iemaksāta izmeklēšanas cietuma kasē, viņam neizsniedz, bet ieskaita Ieslodzījuma vietu pārvaldes ieslodzījuma vietām Valsts kasē atvērtajā kontā vai izmeklēšanas cietuma kasē.
+(2) Izmeklēšanas cietumā par apcietinātā personiskās naudas uzskaiti atbildīgā persona, pamatojoties uz apcietinātā iesniegumu, veic naudas pārvedumus no apcietinātā personiskās naudas uzskaites kartē esošajiem līdzekļiem un norēķinās par komersanta izveidotajā pastāvīgajā tirdzniecības vietā izmeklēšanas cietuma teritorijā reģistrētajiem apcietinātā pirkumiem.
+(3) Naudas pārvedumus apcietinātais drīkst veikt tikai ar procesa virzītāja atļauju.
+(4) Apcietinātā naudu uzglabā Ieslodzījuma vietu pārvaldes ieslodzījuma vietām Valsts kasē atvērtajā kontā vai izmeklēšanas cietuma kasē un uzskaita apcietinātā personiskās naudas uzskaites kartē. Naudas pārvedumus veic un naudu apcietinātajam izmaksā euro. Citā valūtā saņemto naudu pārrēķina euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu tās dienas sākumā, kad nauda saņemta Ieslodzījuma vietu pārvaldes ieslodzījuma vietām Valsts kasē atvērtajā kontā vai izmeklēšanas cietuma kasē.
+(5) Apcietinātā personiskās naudas uzskaites kartē esošo līdzekļu uzskaiti, izlietošanas organizēšanu vai kontroli Ieslodzījuma vietu pārvalde nodrošina elektroniskā veidā.
+(6) Ieslodzījuma vietu pārvalde tās rīcībā esošās ziņas par apcietinātā personiskās naudas apgrozījumu un personiskās naudas uzskaites kartē esošajiem līdzekļiem sniedz pēc valsts institūcijas vai amatpersonas pieprasījuma.
