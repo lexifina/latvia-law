@@ -1,0 +1,2 @@
+53. pants. Kompetence administratīvo pārkāpumu procesā
+Administratīvā pārkāpuma procesu par šā likuma 51. un 52. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts policija vai attiecīgā Iestāde amatpersonas formas tērpa un atšķirības zīmju aprites jomā - Valsts robežsardze, Valsts ugunsdzēsības un glābšanas dienests vai Ieslodzījuma vietu pārvalde. Administratīvā pārkāpuma lietu izskata Valsts policija.

@@ -1,0 +1,2 @@
+51. pants. Amatpersonas formas tērpa un atšķirības zīmju izgatavošanas prettiesiska pasūtīšana, izgatavošana, iegāde un realizācija
+Par amatpersonas formas tērpa vai atšķirības zīmju izgatavošanas prettiesisku pasūtīšanu vai prettiesisku izgatavošanu, iegādi vai realizāciju piemēro naudas sodu fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai - līdz četrtūkstoš naudas soda vienībām.
