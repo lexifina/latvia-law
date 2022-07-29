@@ -1,0 +1,3 @@
+27. pants. Ārkārtas situāciju valsts elektronisko sakaru tīkla un valsts elektronisko sakaru pakalpojumu centra lietošana
+(1) Ministru kabinets nosaka ārkārtas situāciju valsts elektronisko sakaru tīkla nodrošināšanas un lietošanas kārtību, kā arī apstiprina to institūciju sarakstu, kuras izmanto ārkārtas situāciju valsts elektronisko sakaru tīklu.
+(2) Ministru kabinets nosaka valsts elektronisko sakaru pakalpojumu centra lietošanas un centrā pieejamo pakalpojumu sniegšanas kārtību, kārtību, kādā centrā izvietojamas un uzturamas informācijas sistēmas un ar tām saistītie tehnoloģiskie risinājumi, kā arī kārtību, kādā nosaka centrā izvietojamo informācijas sistēmu un ar tām saistīto tehnoloģisko risinājumu sarakstu.

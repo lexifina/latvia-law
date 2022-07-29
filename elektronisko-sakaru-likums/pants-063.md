@@ -1,0 +1,12 @@
+63. pants. Numerācijas lietošanas tiesības
+(1) Regulators nosaka kārtību un nosacījumus numerācijas lietošanas tiesību pieprasīšanai, piešķiršanai un anulēšanai, to termiņa pagarināšanai un to tālāknodošanai. Tālāknodošana nozīmē, ka elektronisko sakaru komersants tam piešķirtās numerācijas lietošanas tiesības pilnībā vai daļēji nodod citam elektronisko sakaru komersantam. Elektronisko sakaru komersants ir tiesīgs nodot numerācijas lietošanas tiesības uz numuriem, kuri nav nodoti lietošanā galalietotājiem.
+(2) Regulators piešķir elektronisko sakaru komersantam numerācijas lietošanas tiesības uz nacionālajā numerācijas plānā noteiktajiem numuriem. Regulators lēmumu par numerācijas lietošanas tiesībām pieņem triju nedēļu laikā no elektronisko sakaru komersanta pieprasījuma saņemšanas dienas. Ja Regulators piešķir numerācijas lietošanas tiesības konkursa vai izsoles rezultātā, tas lēmumu pieņem ne vēlāk kā sešu nedēļu laikā no pieprasījuma saņemšanas dienas un minētās tiesības piešķir konkursa vai izsoles uzvarētājam. Regulators nosaka kārtību, kādā rīko konkursu vai izsoli numerācijas lietošanas tiesību piešķiršanai, kā arī prasības izsoles dalībniekiem un pretendentiem un numerācijas lietošanas tiesību izmantošanas nosacījumus.
+(3) Regulators ar lēmumu izsludina pieteikšanos uz numerācijas lietošanas tiesību iegūšanu konkursa vai izsoles rezultātā. Regulators lēmumā nosaka numerācijas lietošanas tiesību piešķiršanas procesu (konkurss vai izsole), konkursa vai izsoles priekšmetu, specifiskos lietošanas tiesību nosacījumus, specifiskās prasības konkursa vai izsoles dalībniekiem un uzvarētājam, kā arī specifisko informāciju par konkrēto konkursu vai izsoli un piemērojamiem nosacījumiem.
+(4) Ja elektronisko sakaru komersantam ir piešķirtas numerācijas lietošanas tiesības, Regulators var noteikt šādus specifiskus lietošanas tiesību nosacījumus:
+1) prasības attiecībā uz numerācijas efektīvu izmantošanu;
+2) numerācijas lietošanas tiesību izmantošanas termiņu atbilstoši numuru izmantošanas mērķim un paredzamajiem ieguldījumiem;
+3) prasības attiecībā uz numerācijas lietošanas tiesību tālāknodošanu;
+4) saistības elektronisko sakaru komersantam, kurš numerācijas lietošanas tiesības saņēmis konkursa vai izsoles rezultātā;
+5) prasības, kas izriet no starptautiskajiem numerācijas lietošanas līgumiem;
+6) prasības attiecībā uz numuru eksteritoriālu izmantošanu.
+(5) Regulators informē BEREC par piešķirtajām numerācijas lietošanas tiesībām uz numuriem, kurus var izmantot eksteritoriāli Eiropas Savienībā.

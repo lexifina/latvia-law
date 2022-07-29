@@ -1,0 +1,4 @@
+35. pants. Īpašie nosacījumi
+(1) Elektronisko sakaru komersants, pastāvot vienādiem apstākļiem, nosaka galalietotājiem vienādus nosacījumus neatkarīgi no galalietotāja valstspiederības, dzīvesvietas vai komercdarbības vietas. Elektronisko sakaru komersants, piemērojot atšķirīgus nosacījumus, tos objektīvi pamato.
+(2) Šajā nodaļā minētās patērētāju tiesības (izņemot tiesības, kas saistītas ar starppersonu sakaru pakalpojumu, neizmantojot numerāciju) attiecas arī uz mikrosabiedrību, mazu sabiedrību, nodibinājumu un biedrību, ja vien tie nav skaidri pauduši atteikšanos no šiem noteikumiem.
+(3) Lai galalietotājs, kas ir mikrosabiedrība, maza sabiedrība, nodibinājums vai biedrība, varētu izmantot patērētāja tiesības, tas pēc elektronisko sakaru komersanta pieprasījuma iesniedz pierādījumus tam, ka ir mikrosabiedrība, maza sabiedrība, nodibinājums vai biedrība.

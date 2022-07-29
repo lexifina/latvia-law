@@ -1,0 +1,5 @@
+56. pants. Kaitīgie radiotraucējumi
+(1) Radioiekārtas uzstāda un izmanto tā, lai neradītu kaitīgos radiotraucējumus. Par kaitīgo radiotraucējumu radīšanu tiek uzskatīta arī jūras un gaisa kuģniecības ārkārtas situāciju, avārijas un briesmu signālu iekārtu izmantošana, ja tā neatbilst minēto iekārtu lietošanas noteikumiem.
+(2) Valsts akciju sabiedrība "Elektroniskie sakari" izskata pieteikumus par kaitīgajiem radiotraucējumiem radio un televīzijas programmu uztveršanā un radiosakaru darbībā un noskaidro to cēloņus.
+(3) Valsts akciju sabiedrība "Elektroniskie sakari" aizliedz vai ierobežo radioiekārtas lietošanu, lai novērstu kaitīgos radiotraucējumus vai šādu radiotraucējumu rašanos.
+(4) Ja radioiekārtas lietošana vai tās radītie kaitīgie radiotraucējumi var izraisīt valsts drošības, sabiedriskās kārtības, kā arī kuģošanas un gaisa satiksmes drošības apdraudējumu, tad radioiekārtas lietošanas pārtraukšanu pēc valsts akciju sabiedrības "Elektroniskie sakari" pieprasījuma atbilstoši kompetencei nekavējoties nodrošina Valsts policija vai Militārā policija, vai valsts drošības iestāde.

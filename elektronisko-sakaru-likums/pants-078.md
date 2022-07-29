@@ -1,0 +1,6 @@
+78. pants. Elektronisko sakaru komersants, kas darbojas tikai vairumtirdzniecības tirgos
+(1) Regulators izvērtē, vai elektronisko sakaru komersants ar būtisku ietekmi tirgū, kurš nesniedz mazumtirdzniecības pakalpojumu, atbilst šādiem kritērijiem:
+1) elektronisko sakaru komersants, tā struktūrvienības, mātes un meitas komersants darbojas un plāno darboties tikai elektronisko sakaru vairumtirdzniecības tirgos un neveic darbības elektronisko sakaru pakalpojumu mazumtirdzniecības tirgos;
+2) elektronisko sakaru komersants nav noslēdzis ar citu elektronisko sakaru komersantu, kas darbojas elektronisko sakaru pakalpojumu mazumtirdzniecības tirgū, ekskluzīvu līgumu par vairumtirdzniecības pakalpojuma izmantošanu mazumtirdzniecības pakalpojuma sniegšanā.
+(2) Ja Regulators konstatē abu šā panta pirmajā daļā minēto kritēriju pastāvēšanu, tas, ņemot vērā tirgus analīzes rezultātus, var piemērot elektronisko sakaru komersantam ar būtisku ietekmi tirgū vienlīdzīgas attieksmes pienākumu, piekļuves pienākumu un tarifu regulēšanas un izmaksu aprēķināšanas saistības.
+(3) Ja Regulators konstatē, ka elektronisko sakaru komersants ar būtisku ietekmi tirgū vairs neatbilst šā panta pirmajā daļā noteiktajiem kritērijiem vai ir radušās vai var rasties konkurences problēmas, Regulators veic konkrētā tirgus analīzi un pārskata noteiktās speciālās prasības.

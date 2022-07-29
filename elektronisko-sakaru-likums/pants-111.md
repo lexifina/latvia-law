@@ -1,0 +1,3 @@
+111. pants. Veselības inspekcijas tiesības
+(1) Elektronisko sakaru komersantam ir pienākums nodrošināt Veselības inspekcijas pilnvarotam pārstāvim piekļuvi elektronisko sakaru komersanta elektronisko sakaru tīkla pieslēguma punktiem, lai tas varētu pārliecināties, ka Patērētāju tiesību aizsardzības likumā noteiktajos gadījumos un kārtībā Veselības inspekcijas pieņemtais lēmums par tiešsaistes saskarnes ierobežošanu elektronisko sakaru tīklā tiek pildīts.
+(2) Ja elektronisko sakaru komersants pēc šā panta pirmajā daļā noteiktā lēmuma saņemšanas normatīvajos aktos noteiktajā termiņā nav nodrošinājis lēmuma izpildi, tad lēmuma izpildi var nodrošināt piespiedu kārtā bez atsevišķa rakstveida brīdinājuma par administratīvā akta piespiedu izpildi.

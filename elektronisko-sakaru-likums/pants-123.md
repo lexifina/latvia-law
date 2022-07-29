@@ -1,0 +1,2 @@
+123. pants. Ierobežotas radiofrekvenču joslas vai numerācijas lietošanas tiesību nosacījumu vai specifisko lietošanas tiesību nosacījumu nepildīšana
+Par ierobežotas radiofrekvenču joslas vai numerācijas lietošanas tiesību nosacījumu vai specifisko lietošanas tiesību nosacījumu nepildīšanu vai pārkāpšanu piemēro brīdinājumu vai naudas sodu juridiskajām personām no piecdesmit sešām līdz divtūkstoš astoņsimt naudas soda vienībām.

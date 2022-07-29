@@ -1,0 +1,1 @@
+9. Elektronisko sakaru komersants mēneša laikā no šā likuma spēkā stāšanās dienas iesniedz Regulatoram informāciju par esošās aktīvās infrastruktūras kopīgu izmantošanu. Regulators, saņemot šo informāciju, ir tiesīgs uzsākt padziļinātu vērtēšanu un pieņemt lēmumu saskaņā ar šā likuma 68. pantu.

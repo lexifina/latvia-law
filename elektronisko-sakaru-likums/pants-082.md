@@ -1,0 +1,5 @@
+82. pants. Vienlīdzīgas attieksmes pienākums
+Vienlīdzīgas attieksmes pienākums ietver šādus pienākumus:
+1) sniegt elektronisko sakaru pakalpojumus ar līdzvērtīgiem nosacījumiem, tai skaitā attiecībā uz cenu, pakalpojuma līmeni un tām pašām, līdzvērtīgām vai citām aizvietojamām sistēmām, līdzvērtīgos apstākļos citam elektronisko sakaru komersantam, kurš nodrošina līdzvērtīgus elektronisko sakaru pakalpojumus;
+2) sniegt citam elektronisko sakaru komersantam līdzvērtīgu elektronisko sakaru pakalpojumu, nodrošinot līdzvērtīgu piekļuvi un informāciju tādā pašā kvalitātē un ar tiem pašiem nosacījumiem un termiņiem, ar kādiem un kādos šis elektronisko sakaru komersants sniedz elektronisko sakaru pakalpojumu, nodrošina piekļuvi un informāciju sev vai savam saistītajam komersantam;
+3) sniegt citam elektronisko sakaru komersantam līdzvērtīgu elektronisko sakaru pakalpojumu, nodrošināt līdzvērtīgu piekļuvi un informāciju tādā pašā kvalitātē un ar tiem pašiem nosacījumiem un termiņiem, ar kādiem un kādos šā elektronisko sakaru komersanta saistītais komersants sniedz elektronisko sakaru pakalpojumu, nodrošina piekļuvi un informāciju.

@@ -1,0 +1,1 @@
+7. Līdz šā likuma 60. pantā paredzēto Regulatora noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 30. septembrim piemērojami Ministru kabineta 2015. gada 30. jūnija noteikumi Nr. 367 "Nacionālais numerācijas plāns", ciktāl tie nav pretrunā ar šo likumu.

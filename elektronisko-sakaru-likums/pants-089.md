@@ -1,0 +1,15 @@
+89. pants. Funkcionālā nošķiršana
+(1) Regulators ir tiesīgs noteikt vertikāli integrētam elektronisko sakaru komersantam pienākumu nodot neatkarīgai vienībai (elektronisko sakaru komersantam, struktūrvienībai) ar atsevišķu piekļuves produktu vairumtirdzniecības nodrošināšanu saistītas darbības (turpmāk - funkcionālā nošķiršana), ja tas secina, ka, nosakot speciālās prasības, tirgū nav izdevies izveidot efektīvu konkurenci, un vienlaikus konstatē būtiskas un pastāvīgas konkurences problēmas vai tirgus darbības traucējumus saistībā ar atsevišķu piekļuves produktu nodrošināšanu vairumtirdzniecības tirgos. Neatkarīgā vienība nodrošina piekļuves produktus un elektronisko sakaru pakalpojumus visiem elektronisko sakaru komersantiem (tai skaitā citiem elektronisko sakaru komersantiem mātes komersantā) ar vienādiem nosacījumiem un termiņiem, cenu un elektronisko sakaru pakalpojumu līmeni un ar to pašu sistēmu un procesu palīdzību.
+(2) Regulators pirms funkcionālās nošķiršanas pienākuma noteikšanas veic publisko konsultāciju un konsultāciju Eiropas Savienības līmenī. Regulators iesniedz Eiropas Komisijai lēmuma projektu par funkcionālo nošķiršanu, kurā ietverta šāda informācija:
+1) pamatojums Regulatora secinājumiem saskaņā ar šā panta pirmo daļu;
+2) novērtējums, ka pieņemamā laikposmā nav izredžu vai nav pietiekami lielu izredžu izveidot infrastruktūras konkurenci;
+3) analīze par gaidāmo ietekmi uz Regulatoru, elektronisko sakaru komersantu, neatkarīgās vienības darbaspēku, elektronisko sakaru nozari kopumā un stimuliem veikt ieguldījumus elektronisko sakaru nozarē, kā arī uz sociālo un teritoriālo līdzvērtību, citām ieinteresētajām pusēm, jo īpaši norādot gaidāmo ietekmi uz infrastruktūras konkurenci un iespējamo ietekmi uz patērētājiem;
+4) pamatojums, kāpēc šis pienākums būtu visefektīvākais līdzeklis konstatēto konkurences problēmu vai tirgus nepilnību novēršanai;
+5) nošķiršanas būtība un pakāpe, kā arī neatkarīgās vienības juridiskais statuss;
+6) neatkarīgās vienības aktīvi, tās sniegtie elektronisko sakaru pakalpojumi vai nodrošinātie produkti;
+7) pārvaldes kārtība, kas nodrošina neatkarīgās vienības personāla neatkarību un struktūru;
+8) prasība pildīt Regulatora noteiktās saistības;
+9) prasība nodrošināt procedūru caurskatāmību, jo īpaši attiecībā uz citiem elektronisko sakaru komersantiem;
+10) uzraudzības programma, kuras mērķis ir nodrošināt Regulatora noteikto saistību izpildi un kura ietver arī gada pārskata publiskošanu.
+(3) Pēc tam kad Eiropas Komisijai paziņots lēmuma projekts par funkcionālo nošķiršanu, kā arī pēc tā pieņemšanas Regulators veic ar konkrēto tirgu saistīto citu tirgu koordinētu analīzi un, pamatojoties uz šo analīzi, pārskata elektronisko sakaru komersantam piemērotās speciālās prasības.
+(4) Regulators elektronisko sakaru komersantam, kam uzlikts funkcionālās nošķiršanas pienākums, var piemērot jebkuru speciālo prasību kādā no konkrētajiem tirgiem, kurā tas atzīts par elektronisko sakaru komersantu ar būtisku ietekmi tirgū, vai citu Eiropas Komisijai paziņotu pienākumu.

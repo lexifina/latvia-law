@@ -1,0 +1,2 @@
+81. pants. Pienākums nodrošināt piekļuvi fiziskajai infrastruktūrai
+Pienākums nodrošināt piekļuvi fiziskajai infrastruktūrai ietver elektronisko sakaru komersantam ar būtisku ietekmi tirgū saistības nodrošināt piekļuvi fiziskajai infrastruktūrai un ļaut to izmantot citiem elektronisko sakaru komersantiem. Regulators var noteikt pienākumu nodrošināt piekļuvi fiziskajai infrastruktūrai neatkarīgi no tā, vai tās elementi ir daļa no konkrētā tirgus definīcijas.

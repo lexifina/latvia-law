@@ -1,0 +1,2 @@
+60. pants. Nacionālais numerācijas plāns
+Regulators nosaka nacionālo numerācijas plānu, kurā noteikta numura un identifikācijas kodu struktūra un formāts to identifikācijai un maršrutēšanai, numura sastādīšanas procedūras, numuru un identifikācijas kodu lietošanas mērķi un veidi, kā arī numuri un identifikācijas kodi, attiecībā uz kuriem numerācijas lietošanas tiesības piešķir konkursa vai izsoles rezultātā.

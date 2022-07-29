@@ -1,0 +1,5 @@
+104. pants. Datu valsts inspekcijas tiesības
+(1) Lai veiktu normatīvajos aktos noteikto uzraudzību elektronisko sakaru, personas datu aizsardzības un informācijas sabiedrības pakalpojumu aprites jomā, Datu valsts inspekcijai ir tiesības pieprasīt un elektronisko sakaru komersantiem ir pienākums sniegt noslodzes datus.
+(2) Datu valsts inspekcijai ir tiesības pieprasīt un elektronisko sakaru komersantiem ir pienākums sniegt statistisko informāciju par šā likuma 99. panta pirmajā daļā minēto institūciju pieprasījumiem saņemt saglabājamos datus un par šo datu izsniegšanu, nenorādot institūciju, kura datus pieprasījusi.
+(3) Elektronisko sakaru komersantam nav pienākuma veikt papildu pasākumus šajā pantā minētās informācijas iegūšanai, ja, sniedzot elektronisko sakaru pakalpojumu, elektronisko sakaru komersanta tehniskās iekārtas to neģenerē, neapstrādā un nereģistrē.
+(4) Ministru kabinets nosaka kārtību, kādā Datu valsts inspekcija pieprasa un elektronisko sakaru komersants nodod noslodzes datus.

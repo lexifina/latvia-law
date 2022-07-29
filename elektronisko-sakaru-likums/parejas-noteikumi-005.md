@@ -1,0 +1,1 @@
+5. Šā likuma 47. panta otro un trešo daļu nepiemēro attiecībā uz tā ierobežotas radiofrekvenču joslas lietošanas tiesību termiņa pagarinājumu, kurš iestājas divu gadu laikā no šā likuma spēkā stāšanās dienas.

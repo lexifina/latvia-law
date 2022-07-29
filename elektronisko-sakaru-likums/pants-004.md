@@ -1,0 +1,14 @@
+4. pants. Satiksmes ministrijas kompetence
+(1) Satiksmes ministrija ir elektronisko sakaru nozares vadošā (augstākā) iestāde.
+(2) Satiksmes ministrija atbilstoši kompetencei elektronisko sakaru nozarē nodrošina:
+1) ārkārtas situāciju valsts elektronisko sakaru tīkla izveidošanu atbilstoši valsts drošības un aizsardzības jomā pieņemtajiem lēmumiem, kā arī tā uzturēšanu, darbību un uzraudzību;
+2) ārkārtas situāciju valsts elektronisko sakaru tīkla pieslēgumu starptautisko organizāciju un citu juridisko personu tīkliem valsts funkciju īstenošanai;
+3) valsts elektronisko sakaru pakalpojumu centra izveidošanu atbilstoši valsts vienotās informācijas un komunikācijas tehnoloģiju arhitektūras jomā pieņemtajiem lēmumiem, kā arī tā uzturēšanu un darbību;
+4) platjoslas pieejamības ģeogrāfiskās informācijas sistēmas izveidošanu, kā arī tās uzturēšanu un darbību;
+5) interneta protokola sestās versijas, kā arī atsevišķa lokālā interneta reģistra ieviešanu, izveidi un darbību valsts un pašvaldību institūcijām;
+6) Transeiropas telemātikas pakalpojumus starp administrācijām (TESTA-ng), kas ietver elektronisko sakaru fizisko infrastruktūru un savienojumus, kā arī saistītos elektronisko sakaru pakalpojumus, lai nodrošinātu datu apmaiņas platformu starp Eiropas Savienības dalībvalstu publiskās pārvaldes institūcijām un Eiropas Savienības institūcijām Latvijas Republikas teritorijā.
+(3) Par augstākā līmeņa domēna ".lv" reģistra un elektroniskās numurēšanas sistēmas uzturētāju uzskatāms tiesību subjekts, kuru apstiprinājusi starptautiskā organizācija, kas apstiprina augstākā līmeņa domēnu reģistra uzturētājus, - Interneta vārdu un numuru piešķires korporācija - un kuru normatīvajos aktos noteiktajā kārtībā atzinusi Satiksmes ministrija. Ministru kabinets nosaka augstākā līmeņa domēna ".lv" reģistra un elektroniskās numurēšanas sistēmas uzturētājam izvirzāmās prasības, kā arī tā atzīšanas kārtību. Augstākā līmeņa domēna ".lv" reģistra un elektroniskās numurēšanas sistēmas uzturētājam izvirzīto prasību izpildi uzrauga Satiksmes ministrija.
+(4) Ministru kabinets nosaka kārtību, kādā valsts un pašvaldību institūcijas piesakās uz neatkarīgas interneta protokola sestās versijas adresi un to saņem, kā arī lokālā interneta reģistra darbības nodrošināšanas, uzturēšanas un finansēšanas kārtību.
+(5) Satiksmes ministrijai ir tiesības pieprasīt un saņemt no elektronisko sakaru komersanta un valsts pārvaldes institūcijas Satiksmes ministrijas funkciju izpildei nepieciešamo informāciju, arī tādu informāciju, kas ietver komercnoslēpumu.
+(6) Satiksmes ministrijas izdotos administratīvos aktus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Administratīvo aktu pārsūdzēšana neaptur to darbību.
+(7) Satiksmes ministrija nosaka elektronisko sakaru infrastruktūras attīstības politiku un īsteno elektronisko sakaru infrastruktūras attīstības projektus, tai skaitā Eiropas Savienības fondu finansētos projektus.

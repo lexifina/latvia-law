@@ -1,0 +1,3 @@
+41. pants. Detalizācijas rēķins
+(1) Regulators nosaka noteikumus par rēķina detalizācijas pamatlīmeni, lai patērētājiem nodrošinātu iespēju pārraudzīt un kontrolēt izdevumus, un par rēķina saņemšanas iespējām.
+(2) Elektronisko sakaru komersants pēc patērētāja pieprasījuma bez maksas nodrošina galalietotājam rēķinu ar detalizācijas pamatlīmeni. Elektronisko sakaru komersants var nodrošināt rēķinu ar plašāku informāciju, nekā ir noteicis Regulators. Ja elektronisko sakaru komersants pēc patērētāja pieprasījuma nodrošina rēķinu ar informāciju, kas pārsniedz detalizācijas pamatlīmeni, tas var piemērot uz izmaksām balstītu maksu par šādu pakalpojumu.
