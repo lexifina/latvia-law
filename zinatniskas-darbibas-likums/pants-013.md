@@ -3,8 +3,8 @@
 (2) Ministru kabinets:
 1) nosaka valsts zinātnes un tehnoloģiju attīstības, kā arī inovācijas politiku;
 2) (izslēgts ar 13.06.2019. likumu);
-3) apstiprina prioritāros zinātņu virzienus un valsts pētījumu programmas;
-3¹) nosaka Latvijas zinātnes nozares un apakšnozares;
+3) apstiprina valsts pētījumu programmas;
+3¹) nosaka Latvijas zinātnes nozaru grupas, zinātnes nozares un apakšnozares;
 4) veic citas šajā likumā noteiktās darbības.
 (3) Izglītības un zinātnes ministrija:
 1) izstrādā valsts zinātnes un tehnoloģijas attīstības politiku;

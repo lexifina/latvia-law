@@ -5,5 +5,5 @@
 2) zinātnisko pētījumu programmu plānošana un īstenošana;
 3) zinātniskās ekspertīzes nodrošināšana publiskā un privātā sektora vajadzībām;
 4) starptautiskās zinātniskās sadarbības veicināšana un koordinēšana.
-(3) Latvijas Zinātnes padomes direktoru, kas ir starptautiski atzīts zinātnieks ar pieredzi zinātniskās institūcijas vai tās struktūrvienības, vai Latvijas Zinātnes padomei līdzvērtīgas organizācijas vadītāja amatā, konkursa kārtībā uz pieciem gadiem amatā ieceļ un no amata atbrīvo izglītības un zinātnes ministrs. Viena un tā pati persona par Latvijas Zinātnes padomes direktoru var būt ne ilgāk kā divus termiņus pēc kārtas.
+(3) Latvijas Zinātnes padomes direktoru, kas ir starptautiski atzīts zinātnieks ar pieredzi zinātniskās institūcijas vai tās struktūrvienības, vai Latvijas Zinātnes padomei līdzvērtīgas organizācijas vadītāja amatā, uz pieciem gadiem amatā ieceļ un no amata atbrīvo izglītības un zinātnes ministrs. Viena un tā pati persona par Latvijas Zinātnes padomes direktoru var būt ne ilgāk kā divus termiņus pēc kārtas.
 (4) Latvijas Zinātnes padomes pieņemtos lēmumus var pārsūdzēt tiesā likumā noteiktajā kārtībā.
