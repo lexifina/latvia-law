@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Darba likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "128",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-06",
+  "entry_into_force": "2022-08-01",
+  "notification_date": "2022-07-22",
+  "commission_reference": "MNE(2022)04714",
+  "nim_celex": "72014L0067LVA_202204714",
+  "nim_id": "202204714",
+  "transposes_celex": [
+    "32014L0067"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/262db75b-69aa-450f-8c70-fcd0a8d8a6a4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
