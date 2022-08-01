@@ -1,8 +1,11 @@
 5.pants. Konkurences padomes sastāvs un darbība
 (1) Konkurences padomes lēmējinstitūcija ir padome, kas Konkurences padomes vārdā pieņem lēmumus un slēdz administratīvos līgumus konkurences lietās. Konkurences padomes sastāvā ir struktūrvienības, kas nodrošina tās darbību, pildot sekretariāta un ekspertu funkcijas, sagatavojot lietas materiālus, dokumentus un lēmumu projektus izskatīšanai padomes sēdēs, pārstāvot Konkurences padomi tiesā un īstenojot Konkurences padomes pieņemto lēmumu izpildi.
 (2) Konkurences padomes priekšsēdētāju, kas ir arī padomes priekšsēdētājs, un četrus padomes locekļus pēc ekonomikas ministra ieteikuma amatā uz pieciem gadiem apstiprina Ministru kabinets. Viena un tā pati persona var būt par padomes priekšsēdētāju vai padomes locekli ne vairāk kā divus termiņus pēc kārtas.
-(2¹) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. Pārejas noteikumu 21. punktu)
-(2²) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. Pārejas noteikumu 21. punktu)
+(2¹) Padomes priekšsēdētāja un padomes locekļa amata pretendentus izraugās atklātā konkursā. Pretendentu atlasi veic pretendentu vērtēšanas komisija, kuras sastāvu nosaka Ministru kabinets. Pretendentu vērtēšanas komisijas sekretariāta funkcijas veic Valsts kanceleja.
+(2²) Ministru kabinets nosaka padomes priekšsēdētāja un padomes locekļu amata pretendentu:
+1) pieteikšanās nosacījumus un kārtību;
+2) atlases kritērijus un novērtēšanas kārtību;
+3) vērtēšanas komisijas izveides, darbības un lēmumu pieņemšanas kārtību.
 (2³) Šā panta 2.¹ daļā minētā pretendentu vērtēšanas komisija ir tiesīga pieprasīt no kompetentajām institūcijām informāciju un dokumentus, kas pamato šā likuma 5.¹ un 5.² pantā paredzētās prasības un ierobežojumus, lai ieņemtu padomes priekšsēdētāja un padomes locekļa amatu.
 (3) (Izslēgta ar 16.11.2021. likumu)
 (4) (Izslēgta ar 09.06.2022. likumu)
