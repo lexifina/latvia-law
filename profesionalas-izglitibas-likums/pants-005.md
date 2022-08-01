@@ -1,7 +1,10 @@
-5.pants. Profesionālās kvalifikācijas līmeņi
-Profesionālās kvalifikācijas līmeņi ir šādi:
-1) pirmais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt vienkāršus uzdevumus noteiktā praktiskās darbības sfērā (atbilst otrajam Latvijas kvalifikāciju ietvarstruktūras līmenim);
-2) otrais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju patstāvīgi veikt kvalificētu izpildītāja darbu (atbilst trešajam Latvijas kvalifikāciju ietvarstruktūras līmenim);
-3) trešais profesionālās kvalifikācijas līmenis - paaugstināta teorētiskā sagatavotība un profesionālā meistarība, kas dod iespēju veikt noteiktus izpildītāja pienākumus, kuros ietilpst arī izpildāmā darba plānošana un organizēšana (atbilst ceturtajam Latvijas kvalifikāciju ietvarstruktūras līmenim);
-4) ceturtais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt sarežģītu izpildītāja darbu, kā arī organizēt un vadīt citu speciālistu darbu (atbilst piektajam Latvijas kvalifikāciju ietvarstruktūras līmenim);
-5) piektais profesionālās kvalifikācijas līmenis - noteiktas nozares speciālista augstākā kvalifikācija, kas dod iespēju plānot un veikt arī zinātniskās pētniecības darbu attiecīgajā nozarē (atbilst sestajam un septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim).
+5. pants. Profesionālās kvalifikācijas līmeņi Latvijas kvalifikāciju ietvarstruktūrā
+Profesionālās kvalifikācijas līmeņi atbilst tāda paša līmeņa Latvijas kvalifikāciju ietvarstruktūras līmenim un ir šādi:
+1) pirmais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt elementārus praktiskus uzdevumus speciālista uzraudzībā;
+2) otrais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju daļēji patstāvīgi veikt vienkāršus uzdevumus noteiktā praktiskās darbības jomā;
+3) trešais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju patstāvīgi veikt kvalificētu izpildītāja darbu;
+4) ceturtais profesionālās kvalifikācijas līmenis - paaugstināta teorētiskā sagatavotība un profesionālā meistarība, kas dod iespēju veikt noteiktus izpildītāja pienākumus, kuros ietilpst arī izpildāmā darba plānošana un organizēšana;
+5) piektais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt sarežģītu izpildītāja darbu, kā arī organizēt un vadīt citu speciālistu darbu;
+6) sestais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība patstāvīgu lēmumu pieņemšanai un problēmu risināšanai nozarē vai profesijā mainīgos apstākļos, izmantojot specializētas zināšanas profesionālās darbības jomā;
+7) septītais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība augsti kvalificētas profesionālas darbības veikšanai neprognozējamos apstākļos, sarežģītu profesionālu problēmu formulēšanai un kritiskai analīzei, izmantojot padziļinātas un plašas zināšanas profesionālās darbības jomā, kā arī patstāvīgu lēmumu pieņemšanai, integrējot dažādu jomu zināšanas un dodot ieguldījumu profesionālās darbības metožu attīstībā;
+8) astotais profesionālās kvalifikācijas līmenis - teorētiskā un praktiskā sagatavotība patstāvīgai ideju izvirzīšanai, kritiskai analīzei, sintēzei un izvērtēšanai, radot jaunas zināšanas vai izpratni par esošām zināšanām un to lietošanu praksē, risinot nozīmīgus inovāciju vai jaunrades uzdevumus profesionālās darbības jomā.
