@@ -1,3 +1,6 @@
 46.pants. Pārbaudes noteikšana
 (1) Noslēdzot darba līgumu, var noteikt pārbaudi, lai noskaidrotu, vai darbinieks atbilst viņam uzticētā darba veikšanai. Ja pārbaudes noteikšana nav norādīta darba līgumā, tas uzskatāms par noslēgtu bez pārbaudes. Pārbaudi nenosaka personām, kuras ir jaunākas par 18 gadiem.
-(2) Pārbaudes termiņš nedrīkst būt ilgāks par trim mēnešiem. Minētajā termiņā neieskaita pārejošas darbnespējas laiku un citu laiku, kad darbinieks nav veicis darbu attaisnojošu iemeslu dēļ.
+(2) Pārbaudes termiņš nedrīkst būt ilgāks par trim mēnešiem. Nesamazinot darbinieku kopējo aizsardzības līmeni, darba koplīgumā, kas noslēgts ar darbinieku arodbiedrību, var vienoties par pārbaudes termiņa noteikšanu, kas ir ilgāks par trim mēnešiem, bet nepārsniedz sešus mēnešus.
+(3) Ja pārbaudi nosaka darba līgumā, kas noslēgts uz noteiktu laiku līdz sešiem mēnešiem, pārbaudes termiņš nedrīkst būt ilgāks par vienu mēnesi, bet, ja līgums noslēgts uz laiku līdz vienam gadam, - par diviem mēnešiem. Nesamazinot darbinieku kopējo aizsardzības līmeni, darba koplīgumā, kas noslēgts ar darbinieku arodbiedrību, var vienoties par pārbaudes termiņa noteikšanu, kas ir ilgāks par iepriekš minēto termiņu, bet nepārsniedz trīs mēnešus.
+(4) Pārbaudes termiņā neieskaita pārejošas darbnespējas laiku un citu laiku, kad darbinieks nav veicis darbu attaisnojošu iemeslu dēļ.
+(5) Ja noslēgta darba līguma termiņš atbilstoši šā likuma 45. panta noteikumiem tiek pagarināts uz noteiktu laiku, pārbaudi atkārtoti nenosaka.

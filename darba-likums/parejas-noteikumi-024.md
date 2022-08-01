@@ -1,0 +1,1 @@
+24. Grozījumi šā likuma 46. pantā, kas paredz, ka pārbaudes termiņš noteikts īsāks par trim mēnešiem, ja līgums ir noslēgts uz noteiktu laiku, un grozījumi, kas ar darba koplīgumu paredz pārbaudes laika noteikšanu, kurš ir ilgāks par likumā noteikto termiņu, piemērojami tām darba tiesiskajām attiecībām, kuras nodibinātas pēc šo grozījumu spēkā stāšanās.

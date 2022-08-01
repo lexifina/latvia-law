@@ -1,0 +1,1 @@
+25. Ja bērns ir piedzimis līdz 2022. gada 31. jūlijam, piešķirot šā likuma 155. panta pirmajā daļā paredzēto atvaļinājumu, tiek piemērota šā likuma 155. panta pirmās daļas redakcija, kas bija spēkā līdz 2022. gada 31. jūlijam.

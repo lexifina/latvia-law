@@ -1,5 +1,6 @@
 155.pants. Atvaļinājums bērna tēvam, adoptētājiem vai citai personai
-(1) Bērna tēvam ir tiesības uz 10 kalendāra dienas ilgu atvaļinājumu. Atvaļinājumu bērna tēvam piešķir tūlīt pēc bērna piedzimšanas, bet ne vēlāk kā divu mēnešu laikā pēc bērna piedzimšanas.
+(1) Bērna tēvam ir tiesības uz 10 darba dienas ilgu atvaļinājumu. Atvaļinājumu bērna tēvam piešķir tūlīt pēc bērna piedzimšanas, bet ne vēlāk kā sešu mēnešu laikā pēc bērna piedzimšanas.
+(1¹) Ja bērna paternitāte nav atzīta (noteikta) vai bērna tēvs ir miris, vai bērna tēvam ir pārtrauktas aizgādības tiesības, tad citai personai, kas nav bērna māte, ir tiesības uz 10 darba dienas ilgu atvaļinājumu, lai pēc bērna mātes lūguma iesaistītos bērna aprūpē. Šādu atvaļinājumu piešķir tūlīt pēc bērna piedzimšanas, bet ne vēlāk kā sešu mēnešu laikā pēc bērna piedzimšanas.
 (2) Ja māte dzemdībās vai laikā līdz 42.pēcdzemdību perioda dienai mirusi vai arī likumā noteiktajā kārtībā līdz 42.pēcdzemdību perioda dienai atteikusies no bērna kopšanas un audzināšanas, bērna tēvam piešķir atvaļinājumu uz laiku līdz bērna 70.dzīvības dienai. Minētais atvaļinājums piešķirams arī citai personai, kura faktiski kopj bērnu.
 (3) Ja māte nevar kopt bērnu laikā līdz 42.pēcdzemdību perioda dienai saslimšanas, traumas vai citu ar veselību saistītu iemeslu dēļ, tēvam vai citai personai, kura faktiski kopj bērnu, piešķir atvaļinājumu uz tām dienām, kurās māte pati nav spējīga bērnu kopt.
 (4) (Izslēgta ar 22.01.2004. likumu)

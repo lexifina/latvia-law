@@ -30,4 +30,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 29) Eiropas Parlamenta un Padomes 2014. gada 16. aprīļa direktīvas 2014/54/ES par pasākumiem, ar ko veicina darba ņēmējiem piešķirto tiesību īstenošanu darba ņēmēju pārvietošanās brīvības jomā;
 30) Eiropas Parlamenta un Padomes 2016. gada 11. maija direktīvas 2016/801 par nosacījumiem attiecībā uz trešo valstu valstspiederīgo ieceļošanu un uzturēšanos pētniecības, studiju, stažēšanās, brīvprātīga darba, skolēnu apmaiņas programmu vai izglītības projektu un viesaukles darba nolūkā;
 31) Eiropas Parlamenta un Padomes 2018. gada 28. jūnija direktīvas (ES) 2018/957, ar ko groza direktīvu 96/71/EK par darba ņēmēju norīkošanu darbā pakalpojumu sniegšanas jomā;
-32) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1152 par pārredzamiem un paredzamiem darba nosacījumiem Eiropas Savienībā.
+32) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1152 par pārredzamiem un paredzamiem darba nosacījumiem Eiropas Savienībā;
+33) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1158 par darba un privātās dzīves līdzsvaru vecākiem un aprūpētājiem un ar ko atceļ Padomes direktīvu 2010/18/ES.

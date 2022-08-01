@@ -1,0 +1,1 @@
+23. Ja darba tiesiskās attiecības ar darbinieku ir nodibinātas līdz 2022. gada 31. jūlijam, darba devējs nodrošina nepieciešamās papildu informācijas sniegšanu vai darba līguma noformēšanu atbilstoši grozījumiem šā likuma 40. un 53. pantā, kas paredz darba devējam pienākumu sniegt darbiniekam noteikta veida informāciju, ja to pieprasa darbinieks.

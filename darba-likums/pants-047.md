@@ -1,3 +1,4 @@
 47.pants. Pārbaudes sekas
 (1) Pārbaudes laikā darba devējam un darbiniekam ir tiesības rakstveidā uzteikt darba līgumu trīs dienas iepriekš. Darba devējam, uzteicot darba līgumu pārbaudes laikā, nav pienākums norādīt šāda uzteikuma iemeslu.
 (2) Ja nolīgtais pārbaudes termiņš ir beidzies un darbinieks turpina veikt darbu, atzīstams, ka viņš pārbaudi ir izturējis.
+(3) Darbinieks, kurš veic tādu darbu, kura darba grafiks nav pilnībā vai lielākoties paredzams, pēc pārbaudes termiņa beigām var prasīt darba devējam pārcelt viņu tādā darbā, kura darba grafiks ir pilnībā vai lielākoties paredzams, ja uzņēmumā pastāv šāda iespēja un darbinieks pie darba devēja ir nepārtraukti nodarbināts vismaz sešus mēnešus. Saņemot šādu pieprasījumu, darba devējam ir pienākums sniegt darbiniekam pamatotu atbildi rakstveidā viena mēneša laikā no pieprasījuma saņemšanas dienas.

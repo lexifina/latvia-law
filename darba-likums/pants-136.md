@@ -5,7 +5,7 @@
 1) ja to prasa sabiedrības visneatliekamākās vajadzības;
 2) lai novērstu nepārvaramas varas, nejauša notikuma vai citu ārkārtēju apstākļu izraisītas sekas, kas nelabvēlīgi ietekmē vai var ietekmēt parasto darba gaitu uzņēmumā;
 3) steidzama, iepriekš neparedzēta darba pabeigšanai noteiktā laikā.
-(4) Ja šā panta trešajā daļā minētajos gadījumos virsstundu darbs turpinās ilgāk par sešām dienām pēc kārtas, darba devējam ir nepieciešama Valsts darba inspekcijas atļauja turpmākajam virsstundu darbam, izņemot gadījumus, kad līdzīgu darbu atkārtošanās nav paredzama.
+(4) Ja šā panta trešajā daļā minētajos gadījumos virsstundu darbs turpinās ilgāk par sešām dienām pēc kārtas, darba devējam ir nepieciešama Valsts darba inspekcijas atļauja turpmākajam virsstundu darbam, izņemot gadījumus, kad līdzīgu darbu atkārtošanās nav paredzama vai Ministru kabinets ir izsludinājis ārkārtējo situāciju vai izņēmuma stāvokli.
 (5) Virsstundu darbs nedrīkst pārsniegt vidēji astoņas stundas septiņu dienu periodā, ko aprēķina pārskata periodā, kas nepārsniedz četrus mēnešus.
 (6) Aizliegts nodarbināt virsstundu darbā personas, kas ir jaunākas par 18 gadiem.
 (7) Grūtnieci, sievieti pēcdzemdību periodā līdz vienam gadam un sievieti, kas baro bērnu ar krūti, visā barošanas laikā, bet ne ilgāk kā līdz bērna divu gadu vecumam, var nodarbināt virsstundu darbā, ja viņa devusi rakstveida piekrišanu.
