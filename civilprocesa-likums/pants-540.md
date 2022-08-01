@@ -23,5 +23,5 @@ Izpildu dokumenti ir:
 17) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Eiropas Parlamenta un Padomes 2012.gada 12.decembra regulas (ES) Nr. 1215/2012 par jurisdikciju un spriedumu atzīšanu un izpildi civillietās un komerclietās (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1215/2012) 53. vai 60.pantu;
 18) Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts kompetentās iestādes lēmuma izraksts par administratīvā naudas soda uzlikšanu, kas saistīts ar pārkāpumiem darbinieku nosūtīšanas jomā un saņemts Iekšējā tirgus informācijas sistēmā (IMI);
 19) tiesas, arī ārvalsts tiesas, izdota Eiropas kontu apķīlāšanas rīkojuma A daļa saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 655/2014 19.panta 1.punkta "a" apakšpunktu;
-20) (punkts stājas spēkā 01.08.2022. un iekļauts likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu);
+20) ārvalsts tiesas vai kompetentās iestādes izsniegta apliecība saskaņā ar Padomes regulas (ES) 2019/1111 36. panta 1. punkta "b" vai "c" apakšpunktu, 47. panta 1. punkta "a" vai "b" apakšpunktu vai 66. panta 1. punkta "b" apakšpunktu;;
 21) Eiropas Savienības dalībvalsts konkurences iestādes izdots izpildrīkojums (vienotais instruments Konkurences likuma 38. panta otrās daļas izpratnē), kas attiecas uz lēmumu par naudas sodu vai periodisko soda maksājumu izpildi.

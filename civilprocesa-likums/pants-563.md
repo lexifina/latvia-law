@@ -24,4 +24,4 @@
 (5) Izbeigto izpildu lietvedību nevar uzsākt no jauna.
 (6) Ja ārvalsts tiesa vai kompetentā iestāde labo Eiropas izpildes rīkojumu, kas izsniegts, pamatojoties uz Eiropas Parlamenta un Padomes regulu Nr. 805/2004, nolēmuma izpilde atceltajā daļā izbeidzama un izpilde turpināma atbilstoši labotajam Eiropas izpildes rīkojumam.
 (7) Ja tiesa, ārvalsts tiesa vai kompetentā iestāde groza Eiropas kontu apķīlāšanas rīkojumu, pamatojoties uz Eiropas Parlamenta un Padomes regulu Nr. 655/2014, nolēmuma izpilde atceltajā daļā izbeidzama un izpilde turpināma atbilstoši grozītajam Eiropas kontu apķīlāšanas rīkojumam.
-(8) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. pārejas noteikumu 177. punktu)
+(8) Ja ārvalsts tiesa groza apliecību, kas izdota saskaņā ar Padomes regulas (ES) 2019/1111 47. pantu, nolēmuma izpilde atceltajā daļā izbeidzama un izpilde turpināma atbilstoši apliecībai, ko ārvalsts tiesa izdevusi saskaņā ar Padomes regulas (ES) 2019/1111 49. pantu.
