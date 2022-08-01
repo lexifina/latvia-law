@@ -53,4 +53,6 @@ b) kuri reģistrēti vienā dalībvalstī un kurus apvieno jaunizveidotā fondā
 41) ieguldījumu pārvaldes sabiedrība (turpmāk arī - pārvaldes sabiedrība vai sabiedrība) - komercsabiedrība, kuras pamatdarbība ir ieguldījumu fondu pārvalde vai valsts fondēto pensiju shēmas līdzekļu pārvalde;
 42) naudas tirgus fonds - ieguldījumu fonds, kuram piemēro Eiropas Parlamenta un Padomes 2017. gada 14. jūnija regulā (ES) 2017/1131 par naudas tirgus fondiem (Dokuments attiecas uz EEZ) (turpmāk - Regula Nr. 2017/1131) noteiktās prasības.
 (2) Ar šajā likumā lietoto terminu "finanšu instrumenti" saprot finanšu instrumentus, uz kuriem attiecas Finanšu instrumentu tirgus likums.
-(3) (Daļa stājas spēkā 01.08.2022. un iekļauta likuma redakcijā uz 01.08.2022. Sk. Pārejas noteikumu 46. punktu)
+(3) Šādi termini atbilst Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulā (ES) 2019/2088 par informācijas atklāšanu, kas saistīta ar ilgtspēju, finanšu pakalpojumu nozarē (turpmāk - Regula Nr. 2019/2088) lietotajiem terminiem:
+1) ilgtspējas risks - terminam "ilgtspējas risks" Regulas Nr. 2019/2088 2. panta 22. punkta izpratnē;
+2) ilgtspējas faktori - terminam "ilgtspējas faktori" Regulas Nr. 2019/2088 2. panta 24. punkta izpratnē.

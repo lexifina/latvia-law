@@ -1,7 +1,7 @@
 13.pants. Sabiedrības darbības vispārīgie noteikumi
 (1) Sabiedrība tai izsniegtās licences darbības laikā ievēro un izpilda šādas prasības:
 1) nodrošina, lai tiktu ievērotas sabiedrības darbību regulējošās prasības atbilstoši šim likumam un Komisijas normatīvajiem noteikumiem;
-2) nodrošina tās pārvaldes pakalpojumu raksturam, apjomam un sarežģītībai piemērotas visaptverošas un efektīvas iekšējās kontroles sistēmas izveidi un darbību, šajā sistēmā ietverot šādus pamatelementus:
+2) nodrošina tās pārvaldes pakalpojumu raksturam, apjomam un sarežģītībai piemērotas visaptverošas un efektīvas iekšējās kontroles sistēmas izveidi un darbību, ņemot vērā ilgtspējas riskus, šajā sistēmā ietverot šādus pamatelementus:
 a) sabiedrības lielumam un darbības riskiem atbilstošu organizatorisko struktūru ar skaidri norādītiem padomes un amatpersonu pienākumiem un pilnvaru sadalījumu attiecībā uz darījumu veikšanu un kontroli, kā arī precīzi noteiktiem un sadalītiem sabiedrības struktūrvienību uzdevumiem un struktūrvienību vadītāju pienākumiem,
 b) sabiedrības darbībai piemītošo un varbūtējo risku identificēšanas, pārvaldīšanas, uzraudzības un ziņošanas sistēmu,
 c) iekšējās kontroles procedūras;
