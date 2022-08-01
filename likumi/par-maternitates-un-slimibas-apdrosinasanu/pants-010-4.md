@@ -12,3 +12,4 @@ c) kā pašnodarbinātais bērna kopšanas dēļ negūst ienākumus;
 2) bērna kopšanai līdz pusotra gada vecumam.
 (5) Izraudzīto izmaksas periodu par vienu un to pašu bērnu nav tiesību mainīt, izņemot gadījumu, kad saskaņā ar bāriņtiesas lēmumu bērns tiek nodots ārpusģimenes aprūpē.
 (6) Sievietēm, kurām maternitātes pabalsts piešķirts saskaņā ar šā likuma 5. panta septīto daļu vai 8. pantu, ir tiesības uz vecāku pabalstu par bērnu, kas piedzimis šajā grūtniecībā.
+(7) Vecāku pabalsta izmaksas periodu pagarina par noteiktā grūtniecības atvaļinājuma periodu, ja bērns dzimis pirms grūtniecības atvaļinājuma noteikšanas termiņa.
