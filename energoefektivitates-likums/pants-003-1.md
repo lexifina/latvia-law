@@ -1,0 +1,3 @@
+3.¹ pants. Princips "energoefektivitāte pirmajā vietā"
+(1) Pieņemot lēmumus, kas saistīti ar nozares attīstības plānošanu, politiku noteikšanu un investīciju apstiprināšanu, piemēro principu "energoefektivitāte pirmajā vietā", kura ietvaros izvērtē, vai minētajos lēmumos noteikto mērķu sasniegšanu var nodrošināt ar alternatīviem, energoefektīvākiem līdzekļiem. Minētajā izvērtēšanā ņem vērā izmaksu efektivitāti, tehnisko vai funkcionālo iespējamību un ietekmi uz vidi. Ekonomikas ministrija izstrādā metodiskos norādījumus principa "energoefektivitāte pirmajā vietā" piemērošanai.
+(2) Energoefektivitāti uzlabojošu produktu ražotāji un pakalpojumu sniedzēji, tostarp iekārtu uzstādītāji, ievēro labas ražošanas un pakalpojumu sniegšanas praksi.

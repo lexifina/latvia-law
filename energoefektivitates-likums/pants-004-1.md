@@ -1,10 +1,10 @@
 4.¹ pants. Atbildīgās iestādes uzdevumi
-(1) Būvniecības valsts kontroles birojs (turpmāk - atbildīgā iestāde) apkopo un katru gadu līdz 1. martam iesniedz atbildīgajai ministrijai informāciju par valstī īstenotajiem energoefektivitātes politikas pasākumiem un to rezultātā iegūto enerģijas ietaupījumu.
+(1) Būvniecības valsts kontroles birojs (turpmāk - atbildīgā iestāde) apkopo un katru gadu līdz 1. martam iesniedz atbildīgajai ministrijai informāciju par energoefektivitātes monitoringa ietvaros iegūto enerģijas ietaupījumu.
 (2) Atbildīgā iestāde savā tīmekļa vietnē informē par:
-1) iespējām galapatērētājos, tostarp mazos un vidējos uzņēmumos un valsts un pašvaldību sektorā, ieviest energoaudita veikšanas un energopārvaldības sistēmas;
+1) energoaudita veikšanu un energopārvaldības sistēmas vai papildinātās vides pārvaldības sistēmas ieviešanu;
 2) neatkarīgu starpnieku (atjaunošanas projekta vadītāju) darbības iespējām energoefektivitātes pakalpojumu tirgū;
 3) energoefektivitātes pakalpojumu sniedzējiem pieejamiem finanšu avotiem;
-4) pašvaldībām un valsts iestādēm, kuras ieviesušas energopārvaldības sistēmu, publicējot un regulāri atjaunojot attiecīgu sarakstu.
+4) valsts iestādēm, pašvaldībām un citām atvasinātām publiskām personām, kuras ieviesušas vai sertificējušas energopārvaldības sistēmu, un reizi gadā atjauno attiecīgo sarakstu.
 (3) Atbildīgā iestāde savā tīmekļa vietnē publicē:
 1) metodiskos ieteikumus energopārvaldības sistēmas ieviešanai;
 2) metodiskos ieteikumus energoefektivitātes pakalpojuma līguma izstrādāšanai;
