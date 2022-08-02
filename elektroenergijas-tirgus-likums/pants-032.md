@@ -7,5 +7,5 @@
 (2) (Izslēgta ar 17.12.2014. likumu)
 (3) Elektroenerģijas tirgotāji un šā panta pirmās daļas 2.punktā minētie sadales sistēmas operatori savos mājsaimniecību lietotājiem izteiktajos tirdzniecības pakalpojuma piedāvājumos iekļauj universālā pakalpojuma piedāvājumu. Tā nosacījumus un izteikšanas veidu nosaka Ministru kabinets.
 (4) Regulators nosaka, kādu informāciju un cik lielā apjomā tirgotājs ietver galalietotājam izsniedzamajos rēķinos un informatīvajos materiālos.
-(5) Kārtību, kādā lietotājiem piegādā elektroenerģiju un pārtrauc tās piegādi, tirgotāju, sistēmas operatoru un lietotāju tiesības un pienākumus elektroenerģijas piegādē un lietošanā, kā arī norēķinos par saņemtajiem pakalpojumiem un tirgotāju maiņas kārtību nosaka Ministru kabinets.
+(5) Kārtību, kādā lietotājiem piegādā elektroenerģiju un pārtrauc tās piegādi, tirgotāju, sistēmas operatoru, elektroenerģijas ražotāju un lietotāju tiesības un pienākumus elektroenerģijas piegādē, ražošanā un lietošanā, kā arī norēķinos par saņemtajiem pakalpojumiem un tirgotāju maiņas kārtību nosaka Ministru kabinets.
 (6) (Izslēgta no 01.04.2014. ar 06.11.2013. likumu)

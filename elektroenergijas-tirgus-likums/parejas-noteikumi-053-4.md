@@ -1,0 +1,1 @@
+53.⁴ Elektroenerģijas neto uzskaites sistēmu un elektroenerģijas neto norēķinu sistēmu piemēro arī norēķiniem par no atjaunojamiem energoresursiem iegūtas elektroenerģijas aktīvā lietotāja objektos saražoto un patērēto elektroenerģiju un atbilstošām šo pārejas noteikumu 53. punktā minētajām elektroenerģijas obligātā iepirkuma izmaksām.
