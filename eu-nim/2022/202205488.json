@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Energoefektivitātes likumā",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "137A",
+  "official_journal_page": null,
+  "official_journal_date": "2022-07-19",
+  "entry_into_force": "2022-08-02",
+  "notification_date": "2022-08-24",
+  "commission_reference": "MNE(2022)05488",
+  "nim_celex": "72018L2002LVA_202205488",
+  "nim_id": "202205488",
+  "transposes_celex": [
+    "32018L2002"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6a0afc9a-2511-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
