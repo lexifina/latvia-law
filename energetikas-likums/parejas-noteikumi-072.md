@@ -1,0 +1,1 @@
+72. Lai veicinātu Latvijas enerģētisko neatkarību, Ministru kabinets izvērtē un līdz 2023. gada 31. decembrim iesniedz Saeimai ziņojumu par nacionālo kodolenerģijas programmu. Izstrādājot nacionālo kodolenerģijas programmu, ņem vērā ģeopolitisko situāciju, energoresursu izmaksas un pieejamību.

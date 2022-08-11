@@ -6,7 +6,9 @@
 (3) Dabasgāzes piegādi saistītajiem lietotājiem nodrošina publiskais tirgotājs Ministru kabineta noteiktajā kārtībā par regulatora noteiktu dabasgāzes cenu vai, ja saņemta regulatora atļauja, par dabasgāzes cenu, ko noteicis publiskais tirgotājs, saskaņā ar regulatora noteikto dabasgāzes cenas aprēķināšanas metodiku.
 (4) Latvijas teritorijā darbojas viens publiskais tirgotājs, un tam ir šādi pienākumi:
 1) piegādāt dabasgāzi visiem saistītajiem lietotājiem visā Latvijas teritorijā;
-2) pildīt pēdējā garantētā piegādātāja pienākumus pret saistītajiem lietotājiem.
+2) pildīt pēdējā garantētā piegādātāja pienākumus pret saistītajiem lietotājiem;
+3) nodrošināt, lai ne vēlāk kā līdz katra gada 31. augustam saistīto lietotāju patēriņam nepieciešamais dabasgāzes apjoms laikposmam no attiecīgā gada 1. oktobra līdz nākamā gada 30. aprīlim tiek uzglabāts Inčukalna pazemes gāzes krātuvē.
+(4¹) Ja saskaņā ar šā panta piektajā daļā noteikto kārtību izvēlētais publiskais tirgotājs nepilda šā panta ceturtās daļas 3. punktā minēto pienākumu, šajā likumā un citos normatīvajos aktos noteiktos publiskā tirgotāja pienākumus pilda akciju sabiedrība "Latvenergo".
 (5) Kārtību, kādā izvēlas publisko tirgotāju, nosaka Ministru kabinets.
 (6) Regulators nosaka, kādu informāciju un kādā apjomā dabasgāzes tirgotājs un publiskais tirgotājs ietver galalietotājam izsniedzamajos rēķinos un informatīvajos materiālos.
 (7) Kārtību, kādā lietotājiem piegādā dabasgāzi un pārtrauc tās piegādi, dabasgāzes sistēmas drošas lietošanas prasības, tirgotāja, publiskā tirgotāja, sistēmas operatora, lietotāja un gazificētā objekta īpašnieka tiesības un pienākumus dabasgāzes piegādē un lietošanā, kārtību, kādā veicami norēķini par saņemtajiem pakalpojumiem, nokavējuma procentu apmēru, tirgotāju maiņas kārtību un lietotāju apgādi dabasgāzes piegādes traucējumu gadījumā, kā arī sašķidrinātās dabasgāzes pakalpojuma sniegšanas kārtību nosaka Ministru kabinets.

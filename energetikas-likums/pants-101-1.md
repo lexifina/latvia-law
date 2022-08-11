@@ -5,4 +5,5 @@ Regulators ir tiesīgs vienotajam dabasgāzes pārvades un uzglabāšanas sistē
 3) nesniedz regulatoram informāciju tā noteiktajā laikā un kārtībā vai sniedz nepatiesu informāciju;
 4) neievēro Eiropas Parlamenta un Padomes regulas Nr. 1227/2011 par enerģijas vairumtirgus integritāti un pārredzamību prasības;
 5) nenodala savu iekšējo grāmatvedību, neiesniedz regulatoram bilanci, peļņas vai zaudējumu aprēķinu un naudas plūsmas pārskatu vai pārkāpj šķērssubsīdiju aizliegumu;
-6) nenodrošina atbilstību šajā likumā noteiktajām vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora sertificēšanas prasībām, tostarp neievēro šajā likumā noteiktos sertificēšanas prasību ieviešanas termiņus.
+6) nenodrošina atbilstību šajā likumā noteiktajām vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora sertificēšanas prasībām, tostarp neievēro šajā likumā noteiktos sertificēšanas prasību ieviešanas termiņus;
+7) nenodrošina dabasgāzes pārvades sistēmas attīstības 10 gadu plāna izstrādi atbilstoši regulatora prasībām un šajā plānā paredzēto jaunu pārvades infrastruktūras objektu plānošanu, būvniecību un nodošanu ekspluatācijā.

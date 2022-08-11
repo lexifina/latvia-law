@@ -5,4 +5,5 @@ Regulators ir tiesīgs dabasgāzes sadales sistēmas operatoram uzlikt soda naud
 3) nenodrošina tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem;
 4) neievēro sadales sistēmas operatora neatkarības prasības, tostarp prasību izstrādāt atbilstības programmu un sniegt ziņojumu par pasākumiem, kas veikti, lai to ievērotu;
 5) nesniedz regulatoram informāciju tā noteiktajā laikā un kārtībā vai sniedz nepatiesu informāciju;
-6) nenodala savu iekšējo grāmatvedību, neiesniedz regulatoram bilanci, peļņas vai zaudējumu aprēķinu un naudas plūsmas pārskatu vai pārkāpj šķērssubsīdiju aizliegumu.
+6) nenodala savu iekšējo grāmatvedību, neiesniedz regulatoram bilanci, peļņas vai zaudējumu aprēķinu un naudas plūsmas pārskatu vai pārkāpj šķērssubsīdiju aizliegumu;
+7) nenodrošina dabasgāzes sadales sistēmas attīstības 10 gadu plāna izstrādi atbilstoši regulatora prasībām un šajā plānā paredzēto jaunu sadales infrastruktūras objektu plānošanu, būvniecību un nodošanu ekspluatācijā.

@@ -1,0 +1,1 @@
+71. Ja mājsaimniecības lietotājam nav spēkā esoša tirdzniecības līguma ar dabasgāzes tirgotāju par galalietotāja apgādi ar dabasgāzi no 2023. gada 1. maija, dabasgāzes piegādi šim galalietotājam nodrošina pašreizējais tirgotājs saskaņā ar universālā pakalpojuma nosacījumiem. Galalietotājam ir pienākums atbilstoši norēķināties par saņemtajiem pakalpojumiem.
