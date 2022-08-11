@@ -1,0 +1,1 @@
+90. Ministru kabinets sešu mēnešu laikā pēc tam, kad stājas spēkā grozījumi šā likuma 55.¹ pantā par kopīgo studiju programmu izveidošanu un īstenošanu, ievērojot Eiropas augstākās izglītības telpai kopīgos principus, izdod tajā minētos noteikumus.

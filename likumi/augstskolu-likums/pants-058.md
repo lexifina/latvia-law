@@ -1,7 +1,7 @@
 58.pants. Studiju gala pārbaudījumi un valsts pārbaudījumi
 (1) Akadēmiskajām bakalaura un maģistra studiju programmām jānoslēdzas ar gala pārbaudījumiem, kuru sastāvdaļa ir bakalaura vai maģistra darba izstrādāšana un aizstāvēšana.
 (2) Augstākās profesionālās izglītības studijas beidzas ar valsts pārbaudījumu, kura sastāvdaļa var būt diplomdarba (diplomprojekta) un bakalaura (maģistra) darba izstrādāšana un aizstāvēšana vai arī diplomdarba (diplomprojekta) vai bakalaura (maģistra) darba izstrādāšana un aizstāvēšana.
-(3) Pārbaudījumi noris kompleksi, galvenokārt rakstveidā. Augstskolas uzglabā šos materiālus.
+(3) Pārbaudījumi noris kompleksi, galvenokārt rakstveidā. Augstskolas uzglabā šos materiālus. Aizstāvēto kvalifikācijas, bakalaura, maģistra un promocijas darbu oriģinālus augstskola uzglabā ne mazāk kā 10 gadus, bet to elektroniskās versijas - pastāvīgi.
 (4) Ministru kabinets var noteikt, ka valsts pārbaudījuma sastāvdaļa atsevišķās otrā līmeņa profesionālās augstākās izglītības studiju programmās ir valsts eksāmens. Valsts eksāmena satura pamatvirzienus, kas izriet no profesijas standarta, valsts eksāmena organizēšanas, norises, finansēšanas, vērtēšanas, komisijas izveidošanas un tās darbības kārtību, kā arī par valsts eksāmenu atbildīgo institūciju nosaka Ministru kabinets.
 (5) Valsts eksāmena uzdevums ir noteikt studējošā zināšanas, prasmes un kompetences atbilstoši otrā līmeņa profesionālās augstākās izglītības studiju programmas un attiecīgās profesijas standarta vai profesionālās kvalifikācijas prasībām.
 (6) Ministru kabinets, nosakot otrā līmeņa profesionālās augstākās izglītības studiju programmas, kurās valsts pārbaudījuma sastāvdaļa ir valsts eksāmens, ievēro šādus nosacījumus:
