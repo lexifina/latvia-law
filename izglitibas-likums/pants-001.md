@@ -10,10 +10,11 @@ Likumā ir lietoti šādi termini:
 6) izglītības dokuments - dokuments, kas apliecina personas iegūto izglītību atbilstoši noteiktai izglītības pakāpei, veidam un programmai vai šīs izglītības daļēju apgūšanu;
 7) izglītības iestāde - valsts, pašvaldību, valsts augstskolu vai citu juridisko vai fizisko personu dibināta iestāde, kuras uzdevums ir izglītības programmu īstenošana, vai komercsabiedrība, kuram izglītības programmu īstenošana ir viens no darbības veidiem;
 7¹) izglītības kvalitāte - izglītības process, saturs, vide un pārvaldība, kas ikvienam nodrošina iekļaujošu izglītību un iespēju sasniegt augstvērtīgus rezultātus atbilstoši sabiedrības izvirzītajiem un valsts noteiktajiem mērķiem;
+7²) izglītības iestādes akreditācija - regulāra izglītības iestādes darbības kvalitātes izvērtēšana un tiesību piešķiršana izglītības iestādei izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi;
 8) izglītības pakāpe - nobeigts izglītības posms, kas ietver organizētu un secīgi īstenotu izglītības ieguvi;
 9) izglītības pārvaldes iestāde - valsts vai pašvaldības iestāde vai pašvaldības struktūrvienība, kas pilda izglītības pārvaldes funkcijas;
-10) izglītības programmas akreditācija - tiesību iegūšana izglītības iestādei vai citai šajā likumā noteiktai institūcijai izsniegt valsts atzītu izglītības dokumentu par konkrētai izglītības programmai atbilstošas izglītības ieguvi. Akreditācijas gaitā vērtē attiecīgās izglītības programmas īstenošanas kvalitāti;
-11) izglītības programmas licencēšana - tiesību piešķiršana izglītības iestādei vai citai šajā likumā noteiktai institūcijai īstenot noteiktu izglītības programmu;
+10) (izslēgts ar 14.07.2022. likumu);
+11) izglītības programmas licencēšana - izglītības programmas kvalitātes izvērtēšana un tiesību piešķiršana izglītības iestādei īstenot noteiktu izglītības programmu;
 12) izglītojamais - bērns, skolēns, audzēknis, students vai klausītājs, kas apgūst izglītības programmu izglītības iestādē vai pie privātpraksē strādājoša pedagoga;
 12¹) karjera - izglītības, darba un privātās dzīves mijiedarbība cilvēka mūža laikā;
 12²) karjeras izglītība - izglītības procesā integrēti pasākumi, lai nodrošinātu izglītojamo karjeras vadības prasmju apguvi un attīstīšanu, kas ietver savu interešu, spēju un iespēju apzināšanos tālākās izglītības un profesionālās karjeras virziena izvēlei;

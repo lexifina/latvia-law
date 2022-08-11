@@ -1,10 +1,8 @@
-11.² pants. Ārvalstīs izsniegto izglītības dokumentu reģistrs
-(1) Ārvalstīs izsniegto izglītības dokumentu reģistrā ieraksta ziņas par katru ārvalstī izsniegto izglītības dokumentu (izņemot neformālo izglītību apliecinošus dokumentus) un ārvalstī iegūto akadēmisko grādu apliecinošu dokumentu, ja Akadēmiskās informācijas centrs, pamatojoties uz šā likuma 11.¹ pantu, veicis tā ekspertīzi un izsniedzis izziņu par to, kādam Latvijas izglītības dokumentam vai akadēmiskajam grādam tas atbilst vai ir pielīdzināms.
-(2) Ārvalstīs izsniegto izglītības dokumentu reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa, un to kārto Akadēmiskās informācijas centrs.
-(3) Ārvalstīs izsniegto izglītības dokumentu reģistrā ierakstāmas šādas ziņas:
-1) tās personas, kurai ārvalstī izsniegts izglītības dokuments vai ārvalstī iegūto akadēmisko grādu apliecinošs dokuments, vārds, uzvārds, personas kods vai, ja tāds nav piešķirts, - cita personu identificējoša informācija;
-2) ārvalstī izsniegta izglītības dokumenta vai ārvalstī iegūto akadēmisko grādu apliecinoša dokumenta izdevējs, izsniegšanas datums un cita informācija par šo dokumentu;
-3) informācija par to, kādam Latvijā izsniedzamajam izglītības dokumentam vai Latvijā piešķiramajam akadēmiskajam grādam atbilst vai ir pielīdzināms šai personai ārvalstī izsniegtais izglītības dokuments vai ārvalstī iegūto akadēmisko grādu apliecinošais dokuments un kādam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilst minētajā dokumentā norādītā izglītība vai akadēmiskais grāds.
-(4) Ja ārvalstī izsniegtais izglītības dokuments vai iegūtais akadēmiskais grāds neatbilst neviena Latvijā izsniedzama izglītības dokumenta vai Latvijā piešķirama akadēmiskā grāda prasībām, Akadēmiskās informācijas centrs Ārvalstīs izsniegto izglītības dokumentu reģistrā papildus šā panta trešās daļas 1. un 2. punktā minētajām ziņām iekļauj ziņas par to, kādi papildu nosacījumi izpildāmi, lai ārvalstī izsniegto izglītības dokumentu vai ārvalstī iegūto akadēmisko grādu varētu pielīdzināt kādam no Latvijā izsniedzamajiem izglītības dokumentiem vai Latvijā piešķiramajiem akadēmiskajiem grādiem.
-(5) Ārvalstīs izsniegto izglītības dokumentu reģistra dati ir pieejami normatīvajos aktos noteiktajos gadījumos.
-(6) Kārtību, kādā ziņas iekļaujamas Ārvalstīs izsniegto izglītības dokumentu reģistrā, kā arī kārtību, kādā nodrošināma tajā iekļauto datu pieejamība, nosaka Ministru kabinets.
+11.² pants. Ārvalstīs izsniegto izglītības dokumentu ekspertīzes izziņu reģistrs
+(1) Ārvalstīs izsniegto izglītības dokumentu ekspertīzes izziņu reģistrā ieraksta ziņas par šā likuma 11.¹ panta piektajā daļā minēto izziņu, ja Akadēmiskās informācijas centrs vai augstskola, pamatojoties uz šā likuma 11.¹ pantu, ir veikusi ekspertīzi.
+(2) Ārvalstīs izsniegto izglītības dokumentu ekspertīzes izziņu reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa, un to kārto un augstskolas ierakstīto ziņu pārraudzību veic Akadēmiskās informācijas centrs.
+(3) Ārvalstīs izsniegto izglītības dokumentu ekspertīzes izziņu reģistrā ietver šādas ziņas:
+1) tās personas, kurai ārvalstī izsniegts izglītības dokuments, vārds, uzvārds, personas kods vai, ja tāds nav piešķirts, - cita personu identificējoša informācija;
+2) ārvalstī izsniegta izglītības dokumenta, kura kopija iesniegta ekspertīzei, izsniegšanas datums un cita informācija par šo dokumentu;
+3) šā likuma 11.¹ panta piektajā daļā minētā izziņa.
+(4) Kārtību, kādā ziņas iekļaujamas Ārvalstīs izsniegto izglītības dokumentu ekspertīzes izziņu reģistrā, kā arī kārtību, kādā nodrošināma tajā iekļauto datu pieejamība, nosaka Ministru kabinets.

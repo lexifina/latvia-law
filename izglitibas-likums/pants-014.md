@@ -9,12 +9,12 @@ Ministru kabinets:
 6) apstiprina Latvijas Nacionālās aizsardzības akadēmijas satversmi un privātpersonu dibināto augstskolu satversmes;
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
 7¹) (izslēgts no 01.10.2021. ar 08.04.2021. likumu. Sk. Pārejas noteikumu 93. punktu);
-8) nosaka izglītības iestāžu un citu šajā likumā noteiktu institūciju reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
+8) nosaka izglītības iestāžu reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
 8¹) nosaka prasības sistēmiskai izglītības kvalitātes nodrošināšanai;
 8²) apstiprina ikgadēju izglītības kvalitātes novērtējuma ziņojumu;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
-11) nosaka izglītības programmu licencēšanas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
+11) nosaka izglītības programmu licencēšanas un licencēšanas anulēšanas kārtību;
 12) apstiprina pedagogu profesiju un amatu sarakstu;
 12¹) nosaka kārtību un kritērijus izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai, tajā skaitā ārkārtas novērtēšanai un novērtēšanas anulēšanai;
 12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
@@ -44,7 +44,7 @@ Ministru kabinets:
 30) nosaka Valsts izglītības informācijas sistēmas saturu un uzturēšanas un aktualizācijas kārtību;
 31) nosaka kārtību, kādā valsts finansē pieaugušo neformālās izglītības programmas, tālākizglītības programmas un profesionālās kompetences pilnveidi, kā arī kritērijus attiecīga finansējuma saņemšanai;
 32) nosaka pedagogu profesionālās kompetences pilnveides kārtību;
-33) nosaka kārtību, kādā notiek valsts pārbaudījumi akreditētās izglītības programmās (izņemot augstākās izglītības programmas);
+33) nosaka kārtību, kādā notiek valsts pārbaudījumi akreditēto izglītības iestāžu īstenotajās izglītības programmās;
 34) nosaka atbalsta pasākumus darba devējiem darbinieku papildu izglītošanā, tai skaitā kritērijus šāda atbalsta saņemšanai un atbalsta pasākumu īstenošanas kārtību;
 35) nosaka kārtību, kādā izglītības iestāde informē izglītojamo vecākus (personas, kas realizē aizgādību), pašvaldības vai valsts iestādes, ja izglītojamais bez attaisnojoša iemesla neapmeklē izglītības iestādi;
 36) nosaka metodiku, pēc kuras pašvaldība nosaka vienam izglītojamajam nepieciešamās vidējās izmaksas pirmsskolas izglītības programmā (no pusotra gada vecuma līdz pamatizglītības ieguves uzsākšanai) pašvaldības izglītības iestādēs, un kārtību, kādā pašvaldība atbilstoši tās noteiktajām vienam izglītojamajam nepieciešamajām vidējām izmaksām attiecīgās pašvaldības izglītības iestādēs sedz pirmsskolas izglītības programmas izmaksas privātajai izglītības iestādei;

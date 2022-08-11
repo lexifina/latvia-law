@@ -9,8 +9,8 @@
 5) uz laiku, kamēr izglītības iestādes dibinātājs nav izskatījis attiecīgo jautājumu un pieņēmis lēmumu, apturēt amatpersonu rīkojumus un atstādināt amatpersonas no pienākumu pildīšanas gadījumos, kad ir apdraudēta izglītojamo veselība vai dzīvība, kā arī citos likuma pārkāpumu gadījumos. Izglītības kvalitātes valsts dienesta lēmuma par amatpersonas vai pedagoga atstādināšanu no pienākumu pildīšanas pārsūdzēšana neaptur tā izpildi;
 6) izsniedz sertifikātus pedagoga privātprakses uzsākšanai, kā arī pagarina tā termiņu vai anulē to Ministru kabineta noteiktajā kārtībā;
 7) Ministru kabineta noteiktā kārtībā:
-a) akreditē vispārējās izglītības iestādes un profesionālās izglītības iestādes (izņemot augstskolas un koledžas) un izglītības programmas (izņemot studiju programmas),
-b) novērtē vispārējās izglītības iestāžu un profesionālās izglītības iestāžu (izņemot augstskolu un koledžu) vadītāju profesionālo darbību, izvērtējot izglītības iestādes pārvaldības kvalitāti;
+a) akreditē vispārējās izglītības iestādes un profesionālās izglītības iestādes (izņemot augstskolas un koledžas),
+b) novērtē izglītības iestāžu (izņemot augstskolu un koledžu) vadītāju profesionālo darbību, izvērtējot izglītības iestādes pārvaldības kvalitāti;
 8) izstrādā vadlīnijas vispārējās un profesionālās izglītības (izņemot augstāko profesionālo izglītību) kvalitātes nodrošināšanai, sniedz ieteikumus izglītības kvalitātes pilnveidei, kā arī organizē izglītības kvalitātes datu ieguvi un analīzi;
 9) sagatavo ikgadēju izglītības (izņemot augstāko izglītību) kvalitātes izvērtējumu un iesniedz to Izglītības un zinātnes ministrijai.
 (4) Izglītības kvalitātes valsts dienesta vadītājam un viņa pilnvarotām dienesta amatpersonām ir tiesības:
