@@ -14,7 +14,7 @@ d) izglītības kritērijus studiju rezultātu sasniegšanai un novērtēšanai,
 7) novērtē programmas un apakšprogrammas izmaksas;
 8) ietver pamatojumu tam, ka studiju programma un apakšprogramma atbilst augstskolas vai koledžas attīstības stratēģijai un pieejamiem resursiem.
 (1¹) Augstskolu īstenotās studiju programmas atbilst Latvijas izglītības klasifikācijai.
-(2) Akadēmiskās studiju programmas (bakalaura, maģistra un doktora studiju programmas) paredzamas ne mazāk kā 250 pilna laika studējošajiem. Akadēmiskās studiju programmas (bakalaura, maģistra un doktora studiju programmas), kuras paredzētas mazāk nekā 250 pilna laika studējošajiem, var tikt īstenotas un šo programmu obligātās un ierobežotās izvēles daļas īstenošanā var piedalīties mazāk nekā pieci augstskolas profesori un asociētie profesori, ja saņemts attiecīgs Augstākās izglītības padomes atzinums.
+(2) (Izslēgta ar 14.07.2022. likumu)
 (3) Studiju programmu var izstrādāt un iesniegt apstiprināšanai atbilstoši attiecīgās augstskolas senāta vai koledžas padomes noteiktajai kārtībai.
 (4) Studiju programmas apstiprina augstskolas senāts vai koledžas padome. Pirms apstiprināšanas organizējama neatkarīga programmu ekspertīze, kurā ietver studiju programmas un apakšprogrammas īstenošanas lietderības pamatojumu, norādot arī studiju programmas būtiskās atšķirības no līdzīgām tajā pašā augstskolā vai koledžā īstenotām tā paša līmeņa un tā paša studiju virziena studiju programmām.
 (5) Ar senāta vai koledžas padomes lēmumu par jaunas studiju programmas ieviešanu tiek apstiprināts atbildīgais par attiecīgās programmas īstenošanu (studiju programmas direktors), kā arī noteikts šīs programmas finanšu un tehniskais nodrošinājums.
