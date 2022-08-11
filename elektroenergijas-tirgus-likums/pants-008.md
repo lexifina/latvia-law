@@ -1,6 +1,6 @@
 8.pants. Sistēmas operatora darbības regulēšana un elektroenerģijas sistēmas īpašnieka darbības uzraudzība
 (1) Sistēmas operatora darbību regulē regulators šajā likumā, Enerģētikas likumā un likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajā kārtībā. Šajā likumā noteikto elektroenerģijas sistēmas īpašnieka pienākumu izpildi uzrauga regulators.
-(2) Regulators nosaka vienotus sistēmas pieslēguma noteikumus elektroenerģijas ražotājiem un lietotājiem, kā arī pieslēguma maksas noteikšanas metodiku.
+(2) Regulators nosaka sistēmas pieslēguma noteikumus elektroenerģijas ražotājiem un lietotājiem, kā arī pieslēguma maksas noteikšanas metodiku šā likuma 9. panta 2.¹ daļā minētajiem pieslēgumiem.
 (3) Regulators uzrauga:
 1) rīcību un metodes, ko sistēmas operators vai tirgus operators izmanto sistēmas sastrēgumu vadībai un pārslodzes novēršanai;
 2) sistēmas operatora laika patēriņu pieslēgumu ierīkošanai un remontdarbu veikšanai;

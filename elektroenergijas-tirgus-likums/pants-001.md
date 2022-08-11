@@ -14,7 +14,7 @@
 8) elektroenerģijas biržas reglaments - elektroenerģijas biržas dalībniekam saistoši elektroenerģijas biržas darbības noteikumi un kārtība;
 8¹) elektroenerģijas kopīgošana - aktīvā lietotāja saražotās un sistēmā nodotās elektroenerģijas nodošana citiem galalietotājiem, tajā skaitā aktīvajiem lietotājiem, vai elektroenerģijas energokopienā saražotās un sistēmā nodotās elektroenerģijas nodošana elektroenerģijas energokopienas biedriem vai daļu turētājiem;
 9) elektroenerģijas pārvade - elektroenerģijas transportēšana, kas neietver elektroenerģijas tirdzniecību, savstarpēji savienotā augstsprieguma sistēmā, lai elektroenerģiju piegādātu enerģijas lietotājiem;
-10) elektroenerģijas ražotājs - fiziskā vai juridiskā persona, kura ražo elektroenerģiju;
+10) elektroenerģijas ražotājs - fiziskā vai juridiskā persona, kura ražo elektroenerģiju vai izmanto elektroenerģijas uzkrātuvi, lai nodotu elektroenerģiju sistēmā;
 11) elektroenerģijas sadale - elektroenerģijas transportēšana, kas neietver elektroenerģijas tirdzniecību, vidēja un zema sprieguma sadales sistēmā, lai to piegādātu enerģijas lietotājiem;
 12) elektroenerģijas sistēmas dalībnieki - elektroenerģijas ražotāji, pārvades sistēmas operators, sadales sistēmas operatori un galalietotāji;
 13) elektroenerģijas sistēmas īpašnieks - komersants, kurš ietilpst vertikāli integrēta elektroapgādes komersanta sastāvā un kura īpašumā ir elektroenerģijas pārvades sistēma;
@@ -23,8 +23,9 @@
 16) elektroenerģijas tirdzniecība - komercdarbība, kas ietver elektroenerģijas iepirkšanu pārdošanai un elektroenerģijas pārdošanu enerģijas lietotājiem;
 17) elektroenerģijas tirgotājs - komersants (ārvalstu komersanta filiāle), kura komercdarbība ir elektroenerģijas tirdzniecība, tajā skaitā agregatora pakalpojumu sniegšana;
 18) elektroenerģijas tirgus dalībnieki - elektroenerģijas ražotāji, tirgotāji, agregatori un galalietotāji, kas darbojas elektroenerģijas tirgū saskaņā ar brīvprātīgas līdzdalības principu;
-18¹) izcelsmes apliecinājums - elektronisks dokuments, ar kuru elektroenerģijas lietotājiem pierāda, ka attiecīgais elektroenerģijas daudzums ir saražots no atjaunojamiem energoresursiem vai augstas efektivitātes koģenerācijā;
-18²) izolētas darbības tests - pārvades sistēmas darbības testēšana simulētos darbības apstākļos ierobežotā periodā, lai pārbaudītu pārvades sistēmas spēju strādāt no trešo valstu pārvades sistēmām izolētā režīmā;
+18¹) elektroenerģijas uzkrātuve - ietaise vai ietaišu kopums, kurā notiek enerģijas uzkrāšana vēlākai izmantošanai;
+18²) izcelsmes apliecinājums - elektronisks dokuments, ar kuru elektroenerģijas lietotājiem pierāda, ka attiecīgais elektroenerģijas daudzums ir saražots no atjaunojamiem energoresursiem vai augstas efektivitātes koģenerācijā;
+18³) izolētas darbības tests - pārvades sistēmas darbības testēšana simulētos darbības apstākļos ierobežotā periodā, lai pārbaudītu pārvades sistēmas spēju strādāt no trešo valstu pārvades sistēmām izolētā režīmā;
 19) koģenerācija - tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
 19¹) neapliecinātās elektroenerģijas izcelsmes sastāvs - elektroenerģijas daudzums, kuru aprēķina, ņemot vērā valstī saražoto, importēto un eksportēto elektroenerģiju, un par kuru nav izsniegti izcelsmes apliecinājumi, sadalījumā pa ražošanā izmantotajiem energoresursiem;
 20) netiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā pārvadīt elektroenerģiju no viena tirdzniecības apgabala uz citu apgabalu;
@@ -34,6 +35,7 @@
 23) pieprasījuma reakcija - elektroenerģijas lietošanas profila īslaicīgas izmaiņas, kuras lietotājs apņēmies brīvprātīgi veikt, samazinot elektroenerģijas patēriņu gadījumos, kas noteikti ar agregatoru noslēgtajā līgumā, piemēram, brīžos ar augstu elektroenerģijas pieprasījumu vai augstu tirgus cenu vai tīkla pārslodzes gadījumos;
 24) pieprasījuma reakcijas pakalpojums - vairāku (dažādu) lietotāju pieprasījuma reakcijas dēļ neizlietotās elektroenerģijas apjoma apkopošana, lai pārdotu šo elektroenerģiju biržā, citiem elektroenerģijas tirgus dalībniekiem vai sistēmas operatoram;
 25) publiskais tirgotājs - elektroenerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
+25¹) saules vai vēja elektrostacijas iekšējā līnija - elektrolīnija, kas savstarpēji savieno viena elektroenerģijas ražotāja vairākos nekustamajos īpašumos izvietotas saules vai vēja elektrostacijas elektroenerģijas ražošanas iekārtas;
 26) sistēmas pakalpojums - elektroenerģijas pārvade vai sadale, kas nodrošina elektroenerģijas plūsmas no ražotājiem līdz lietotājiem;
 27) starpvalstu savienojums - elektrolīnija, kas sasaista atsevišķās valstīs izvietotas pārvades sistēmas;
 28) tiešā izsole - starpvalstu savienojumu sastrēgumu vadības un pārslodzes novēršanas metode, ar kuru elektroenerģijas tirgus dalībnieks iegūst tiesības noteiktā apjomā lietot elektroenerģijas pārvades sistēmas operatora izsolīto starpvalstu savienojuma jaudu;
