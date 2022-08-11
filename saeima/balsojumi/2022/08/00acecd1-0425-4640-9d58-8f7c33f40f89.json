@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada 11.augusta 3. ārkārtas sesija",
+ "sede": 1,
+ "datums": "2022-08-11",
+ "ieraksts": {
+  "dkp_id": "f8ae0d0b-c2e7-4600-92c2-b839386ff34d",
+  "lastmodtime": "\"AAAAAAH2F/Y=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Mārtiņš#Edvīns#Andris#Regīna#Ivans#Juris#Ivars#Jānis#Ralfs#Evita#Edgars#Eva#Vladimirs#Didzis#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Jānis#Normunds#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Marija#Nikolajs#Igors#Raivis#Juris#Evija#Jānis#Alīna#Ļubova#Sandis#Kaspars#Inguna#Ieva#Arvils#Ieva#Rihards#Māris#Jūlija#Atis#Zenta#Valērijs#Andrejs#Viesturs#Jānis#Normunds#Mārtiņš#Edgars#Andrejs#Aigars#Ivans#Ināra#Jānis#Ritvars#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Ainārs#Jānis#Ramona#Līva#Anda#Aleksandrs#Krista#Linda#Aldis",
+  "SURNAME": "Lejiņš#Šteins#Šnore#Skride#Ločmele#Ribakovs#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Šmits#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Krišāns#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Golubeva#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Gendele#Švecova#Riekstiņš#Ģirģens#Rībena#Akuratere#Ašeradens#Krapāne#Kols#Možvillo#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Klementjevs#Liepkalns#Dombrava#Dzintars#Bondars#Tavars#Judins#Bikše#Klementjevs#Mūrniece#Vucāns#Jansons#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Tutins#Petraviča#Kreituse#Čakša#Kiršteins#Baumane#Medne#Gobzems",
+  "VOTEDEPSUFFIX": "##############################################################################",
+  "FRACTION": "JV#AP!#NA#AP!#SASKAŅA #SASKAŅA #AP!# #Konservatīvie#Neatkarīgie#Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA # #Konservatīvie#JV# #JV#AP!#Neatkarīgie#SASKAŅA #Konservatīvie#JV#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# # #JV# #Konservatīvie# # #Konservatīvie#JV#Neatkarīgie#NA#Neatkarīgie# # #SASKAŅA #SASKAŅA #SASKAŅA #AP!#NA#NA#AP!# #JV#AP!#SASKAŅA #NA#ZZS#NA#SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie# #SASKAŅA #Neatkarīgie#Konservatīvie# #NA#AP!#Konservatīvie#Neatkarīgie",
+  "RESULT": "Pret#Pret#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Nebalsoja#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "11.08.2022 16:03:49",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likumā (1565/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "00acecd1-0425-4640-9d58-8f7c33f40f89",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "48",
+  "VOTERESULT_FOR": "28",
+  "VOTERESULT_REGISTERED": "79",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada 11.augusta 3. ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cbabe6c2-de01-4123-8b5a-e8a15529f4ea/download/13.saeimas-2022.gada-11.augusta-3.-rkrtas-sesija-1-vote.xml",
+  "sha256": "cfe0e96b32c793292051629276584bcb57ce275f83ce516b4e566cb853d6ccbc",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
