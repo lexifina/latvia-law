@@ -14,4 +14,5 @@ Dabasgāzes pārvades sistēmas operatoram papildus šā likuma 15.pantā noteik
 12) organizēt avāriju lokalizāciju un likvidāciju dabasgāzes pārvades sistēmā, kā arī veikt preventīvas darbības;
 13) uzturēt kontaktus ar trešajām personām (sistēmas lietotājiem un pretendentiem) un regulatoru;
 14) iekasēt visus maksājumus, kas ir saistīti ar dabasgāzes pārvades sistēmu (tostarp piekļuves maksu, balansēšanas maksu un maksu par palīgpakalpojumiem);
-15) nodrošināt tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem un tirgus dalībniekiem.
+15) nodrošināt tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem un tirgus dalībniekiem;
+16) nodrošināt savstarpēji savienotajā sistēmā ievadāmās gāzes uzskaiti un kvalitātes kontroli.

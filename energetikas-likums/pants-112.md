@@ -17,4 +17,6 @@ Vienotajam dabasgāzes pārvades un uzglabāšanas sistēmas operatoram papildus
 15) uzturēt kontaktus ar trešajām personām (sistēmas lietotājiem un pretendentiem) un regulatoru;
 16) pārstāvēt dabasgāzes pārvades sistēmas operatoru gāzes pārvades sistēmu operatoru Eiropas tīklā;
 17) iekasēt visus maksājumus, kas ir saistīti ar dabasgāzes pārvades un uzglabāšanas sistēmu (tostarp piekļuves maksu, balansēšanas maksu un maksu par palīgpakalpojumiem);
-18) nodrošināt tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem un tirgus dalībniekiem.
+18) nodrošināt tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem un tirgus dalībniekiem;
+19) nodrošināt savstarpēji savienotajā sistēmā ievadāmās gāzes uzskaiti un kvalitātes kontroli;
+20) nodrošināt dabasgāzes piegādes ceļu dažādošanas infrastruktūru Latvijas teritorijā un dabasgāzes krājumu pieejamību, lai ierobežotu riskus saistībā ar jaudu nepieejamību vienotās dabasgāzes pārvades ieejas-izejas sistēmas savienojumos ar trešajām valstīm.

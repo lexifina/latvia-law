@@ -4,10 +4,12 @@ Likumā ir lietoti šādi termini:
 2) autonomais ražotājs - komersants, energoapgādes komersants vai fiziskā persona, kas ražo elektroenerģiju, siltumenerģiju vai dzesēšanai nepieciešamo enerģiju nolūkā patērēt to paša vajadzībām vai lokālās siltumapgādes vai aukstumapgādes vajadzībām;
 3) balansēšana - sistēmas operatora organizēts process, kas nodrošina ikbrīža līdzsvaru starp sistēmā ievadīto enerģiju un no sistēmas izvadīto enerģiju;
 4) bioloģiskais šķidrais kurināmais - no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos;
-4¹) centralizētā aukstumapgādes sistēma - aukstuma avotu, pārvades un sadales aukstumapgādes tīklu un dzesēšanai nepieciešamās enerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē dzesēšanai nepieciešamo enerģiju;
-4²) centralizētā siltumapgādes sistēma - siltumavotu, pārvades un sadales siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju;
+4¹) biometāns - gāzveida kurināmais, kura sastāvā ir vismaz 90 procenti (masas procenti) no biomasas ražota metāna;
+4²) centralizētā aukstumapgādes sistēma - aukstuma avotu, pārvades un sadales aukstumapgādes tīklu un dzesēšanai nepieciešamās enerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē dzesēšanai nepieciešamo enerģiju;
+4³) centralizētā siltumapgādes sistēma - siltumavotu, pārvades un sadales siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju;
 5) dabasgāzes krātuve - virszemes vai pazemes objekts, kuru izmanto dabasgāzes (tostarp sašķidrinātās dabasgāzes) uzglabāšanai, izņemot ražošanā izmantotās daļas un iekārtas, ko izmanto tikai pārvades sistēmu operatori;
-6) drošības rezerves - naftas produktu rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 72.panta prasībām, un dabasgāzes rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 64.panta pirmās daļas 3.punktā noteikto kārtību;
+5¹) dabasgāzes stratēģiskās rezerves - dabasgāzes rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 64. panta pirmās daļas 3. punktā noteikto kārtību;
+6) drošības rezerves - naftas produktu rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 72.panta prasībām;
 7) energoapgāde - enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes (tostarp sašķidrinātās dabasgāzes un biometāna) iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
 7¹) energoapgādes drošuma rezerves - dabasgāzes rezerves, kas ir valsts īpašums un ko Latvija uztur noteiktā apjomā Inčukalna pazemes gāzes krātuvē saskaņā ar šā likuma 82.¹ panta prasībām, lai nodrošinātu nepārtrauktu apgādi ar dabasgāzi un novērstu enerģētikas krīzes iestāšanos;
 8) energoapgādes komersanta objekts - energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas, cauruļvadu sistēma, cauruļvadi un to piederumi), kuru tieši izmanto energoapgādei;
@@ -24,6 +26,7 @@ Likumā ir lietoti šādi termini:
 18) galalietotājs - enerģijas lietotājs, kurš pērk enerģiju izlietošanai paša vajadzībām (galapatēriņam);
 19) gazificētā objekta īpašnieks - persona, kura ir ieguvusi gazificētā objekta īpašuma tiesības un atbilst Civillikumā vai Nekustamā īpašuma valsts kadastra likumā definētajam īpašnieka jēdzienam;
 20) gazificēts objekts - dabasgāzes apgādes sistēmai pieslēgta būve vai tās daļa, kā arī iekārta;
+20¹) (punkts stājas spēkā 01.07.2023. un iekļauts likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 73. punktu);
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, tirdzniecības vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 22) Inčukalna pazemes gāzes krātuve - pazemes un virszemes objekts, kuru izmanto dabasgāzes uzglabāšanai un kurš atrodas Krimuldas, Inčukalna un Sējas novadā;
 22¹) individuālā aukstumapgādes sistēma - atsevišķas ēkas aukstumapgādes sistēma, kas sastāv no dzesēšanas iekārtas, kura dzesē visu ēku, vai dzesēšanas iekārtām, kuras izmanto atsevišķu telpu dzesēšanai ēkā;
@@ -59,6 +62,7 @@ Likumā ir lietoti šādi termini:
 48) tīkls - līniju un iekārtu kopums, kas nepieciešams elektroenerģijas transportēšanai. Ielu apgaismojuma tīkls ir atsevišķs, ar uzskaites mēraparātu tehniski nodalīts līniju vai iekārtu kopums, ko izmanto ielu, laukumu un citu publiskai lietošanai paredzētu teritoriju apgaismošanai un kas netiek izmantots elektroenerģijas transportēšanai un sadalei citiem enerģijas lietotājiem;
 49) tirgotājs - komersants (tai skaitā ārvalsts komersanta filiāle), kura komercdarbība ir enerģijas tirdzniecība;
 50) tirgus dalībnieks - dabasgāzes ražotājs, sistēmas operators, tirgotājs vai galalietotājs, kas darbojas dabasgāzes tirgū saskaņā ar brīvprātīgas līdzdalības principu;
+50¹) (punkts stājas spēkā 01.05.2023. un iekļauts likuma redakcijā uz 01.05.2023. Sk. pārejas noteikumu 70. punktu);
 51) vertikāli integrēts komersants - energoapgādes komersants vai koncerns, kuru tieši vai netieši kontrolē viena un tā pati persona vai vienas un tās pašas personas un kurš sniedz vismaz vienu no enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumiem un vienlaikus nodarbojas ar enerģijas ražošanu vai tirdzniecību;
 52) vietējie energoresursi - Latvijā apzinātie atjaunojamie energoresursi un kurināmā krājumi, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 53) vispārējās atļaujas noteikumi - specifiskas enerģijas ražošanas un tirdzniecības prasības enerģijas ražotājam vai enerģijas tirgotājam;
