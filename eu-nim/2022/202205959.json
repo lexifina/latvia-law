@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 9. augusta Ministru kabineta noteikumi Nr. 473 \"Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "473",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-11",
+  "entry_into_force": "2022-08-12",
+  "notification_date": "2022-09-08",
+  "commission_reference": "MNE(2022)05959",
+  "nim_celex": "72020L2088LVA_202205959",
+  "nim_id": "202205959",
+  "transposes_celex": [
+    "32020L2088"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c7df3d00-66ab-4a1c-a37f-ac83d8ad467e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
