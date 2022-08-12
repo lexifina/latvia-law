@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 9. augusta noteikumi Nr. 477 \"Grozījumi Ministru kabineta 2021. gada 21. janvāra noteikumos Nr. 47 \"Īslaicīgu profesionālo pakalpojumu sniegšanas kārtība Latvijas Republikā reglamentētā profesijā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-11",
+  "entry_into_force": "2022-08-12",
+  "notification_date": "2022-08-24",
+  "commission_reference": "MNE(2022)05477",
+  "nim_celex": "72013L0055LVA_202205477",
+  "nim_id": "202205477",
+  "transposes_celex": [
+    "32013L0055"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1daebacf-2513-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
