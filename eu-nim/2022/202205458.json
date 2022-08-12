@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 9. augusta noteikumi Nr. 498 \"Grozījumi Ministru kabineta 2007. gada 13. februāra noteikumos Nr. 120 \"Labības sēklaudzēšanas un sēklu tirdzniecības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-11",
+  "entry_into_force": "2022-08-12",
+  "notification_date": "2022-08-23",
+  "commission_reference": "MNE(2022)05458",
+  "nim_celex": "72021L0971LVA_202205458",
+  "nim_id": "202205458",
+  "transposes_celex": [
+    "32021L0971"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d4cea409-2510-11ed-8fa0-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
