@@ -1,0 +1,1 @@
+6. Elektroenerģijas tirgotājs laikposmā no 2022. gada 1. oktobra līdz 2023. gada 30. aprīlim mājsaimniecību lietotājiem, kuri patērē elektroenerģiju virs 500 kilovatstundām, nodrošina ikmēneša norēķinu informāciju par faktisko elektroenerģijas patēriņu.
