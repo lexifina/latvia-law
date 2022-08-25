@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2022. gada 18. augusta lēmums Nr. 1/10 \"Numerācijas lietošanas tiesību noteikumi\".",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "163",
+  "official_journal_page": null,
+  "official_journal_date": "2022-08-24",
+  "entry_into_force": "2022-08-25",
+  "notification_date": "2022-09-20",
+  "commission_reference": "MNE(2022)06234",
+  "nim_celex": "72018L1972LVA_202206234",
+  "nim_id": "202206234",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/723ee4bd-3b20-11ed-9c68-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
