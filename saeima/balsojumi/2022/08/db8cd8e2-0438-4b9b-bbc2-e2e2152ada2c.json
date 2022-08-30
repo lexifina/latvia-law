@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada 30.augusta 3. ārkārtas sesija",
+ "sede": 1,
+ "datums": "2022-08-30",
+ "ieraksts": {
+  "dkp_id": "48885ebb-23b8-485d-80b1-617a8a8a8d5b",
+  "lastmodtime": "\"AAAAAAH2jFc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Romāns#Regīna#Vita Anda#Ivars#Jānis#Ralfs#Edgars#Eva#Vladimirs#Kārlis#Vjačeslavs#Ainars#Gatis#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Jānis#Nikolajs#Igors#Juris#Evija#Alīna#Sandis#Kaspars#Inguna#Ieva#Arvils#Ieva#Rihards#Māris#Atis#Zenta#Andrejs#Viesturs#Jānis#Normunds#Mārtiņš#Edgars#Aigars#Ivans#Ināra#Jānis#Ritvars#Raimonds#Sergejs#Dagmāra#Ainars#Krišjānis#Ainārs#Jānis#Līva#Linda#Artūrs#Janīna#Aldis",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Naudiņš#Ločmele#Tērauda#Puga#Butāns#Nemiro#Kucins#Mārtuža#Nikonovs#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Dūklavs#Kabanovs#Pimenovs#Rancāns#Papule#Gendele#Riekstiņš#Ģirģens#Rībena#Akuratere#Ašeradens#Krapāne#Kols#Možvillo#Zakatistovs#Tretjaka#Klementjevs#Liepkalns#Dombrava#Dzintars#Bondars#Tavars#Bikše#Klementjevs#Mūrniece#Vucāns#Jansons#Bergmanis#Dolgopolovs#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Tutins#Kreituse#Medne#Rubiks#Kursīte-Pakule#Gobzems",
+  "VOTEDEPSUFFIX": "###############################################################",
+  "FRACTION": "JV#Konservatīvie#AP!# #SASKAŅA #AP!# #Konservatīvie#Neatkarīgie#SASKAŅA #Konservatīvie#SASKAŅA #JV# #JV#AP!#SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #NA#NA#ZZS#SASKAŅA #SASKAŅA #Konservatīvie# #JV#Konservatīvie# # #Konservatīvie#JV#Neatkarīgie#NA#Neatkarīgie# #SASKAŅA #SASKAŅA #AP!#NA#NA#AP!# #AP!#SASKAŅA #NA#ZZS#NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie# #SASKAŅA #Konservatīvie#Konservatīvie#SASKAŅA #NA#Neatkarīgie",
+  "RESULT": "Pret#Pret#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Par#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Par#Nebalsoja#Nebalsoja#Pret#Par#Pret#Par#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.08.2022 16:13:54",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.2. Grozījums Personu apliecinošu dokumentu likumā (1568/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "db8cd8e2-0438-4b9b-bbc2-e2e2152ada2c",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "47",
+  "VOTERESULT_FOR": "5",
+  "VOTERESULT_REGISTERED": "64",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada 30.augusta 3. ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/eb7c67d9-3f18-4b25-89e5-911f211d0c09/download/13.saeimas-2022.gada-30.augusta-3.-arkartas-sesija-1-vote.xml",
+  "sha256": "1bc03a4c9edca8fe14a3c2e2516d8d10a6ce44d3a936fdaef3cb3a8749de1307",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
