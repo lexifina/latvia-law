@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 31. augusta rīkojums Nr. 583 \"Par Vides politikas pamatnostādnēm 2021.–2027. gadam\".",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "172",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-06",
+  "entry_into_force": "2022-08-31",
+  "notification_date": "2022-11-22",
+  "commission_reference": "MNE(2022)07231",
+  "nim_celex": "72013L0059LVA_202207231",
+  "nim_id": "202207231",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/597e5f0a-6c9e-11ed-9887-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
