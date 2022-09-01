@@ -1,1 +1,1 @@
-4. Mājokļa pabalstu, kas piešķirts par laikposmu no 2022. gada 1. septembra līdz 2023. gada 30. aprīlim, pārrēķina pēc 2022./2023. gada apkures sezonas beigām, bet ne vēlāk kā līdz 2023. gada 30. jūnijam.
+4. Mājokļa pabalstu, kas piešķirts par laikposmu no 2022. gada 1. oktobra līdz 2023. gada 31. maijam, pārrēķina pēc 2022./2023. gada apkures sezonas beigām, bet ne vēlāk kā līdz 2023. gada 30. jūnijam.

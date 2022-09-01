@@ -1,0 +1,1 @@
+7. Ministru kabinets mēneša laikā izstrādā energoresursu cenu ārkārtēja pieauguma samazinājuma atbalsta pasākumus mājsaimniecībai, kura mājokli apkurina, izmantojot propāna gāzi, par laikposmu no 2022. gada 1. maija līdz 2023. gada 30. aprīlim.
