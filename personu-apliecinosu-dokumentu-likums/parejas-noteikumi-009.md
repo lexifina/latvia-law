@@ -1,0 +1,1 @@
+9. Ja Latvijas Republikā izsniegtam Latvijas pilsoņa, Latvijas nepilsoņa vai bezvalstnieka personu apliecinošam dokumentam beidzies derīguma termiņš laikposmā no 2020. gada 1. marta, tas uzskatāms par derīgu personu apliecinošu dokumentu personas identitātes apliecināšanai klātienē Latvijas Republikā līdz 2023. gada 30. aprīlim, ja dokuments nav kļuvis nederīgs citu iemeslu dēļ.
