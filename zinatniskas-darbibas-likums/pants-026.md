@@ -3,7 +3,7 @@
 1) vadošais pētnieks;
 2) pētnieks;
 3) zinātniskais asistents.
-(2) Personas akadēmiskajos amatos ievēlē uz sešiem gadiem atklāta konkursa rezultātā zinātniskā institūta nolikumā vai komercsabiedrības statūtos noteiktajā kārtībā. Konkursu izsludina, vismaz mēnesi iepriekš publicējot paziņojumu oficiālajā izdevumā "Latvijas Vēstnesis".
+(2) Personas akadēmiskajos amatos ievēlē uz sešiem gadiem atklāta konkursa rezultātā zinātniskā institūta nolikumā vai komercsabiedrības statūtos noteiktajā kārtībā. Konkursu izsludina, vismaz mēnesi iepriekš publicējot paziņojumu Nacionālajā zinātniskās darbības informācijas sistēmā un Nodarbinātības valsts aģentūras vakanču portālā.
 (3) Vadošā pētnieka amatā var ievēlēt personas ar zinātnes doktora grādu. Pētnieka amatā var ievēlēt personas ar zinātnes doktora vai maģistra grādu.
 (4) Akadēmiskajā amatā ievēlētā persona slēdz darba līgumu ar zinātnisko institūciju.
 (5) Uz akadēmiskajos amatos ievēlētajām personām neattiecas Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums.

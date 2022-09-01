@@ -9,7 +9,7 @@
 6) zinātnisko institūciju zinātniskās darbības pārskatus;
 7) zinātnisko institūciju darbības starptautisko novērtējumu datubāzi;
 8) zinātnisko iekārtu un programmatūras datubāzi;
-9) (punkts stājas spēkā 01.09.2022.un iekļauts likuma redakcijā uz 01.09.2022. Sk. pārejas noteikumu 39. punktu)
+9) ziņas par konkursiem uz zinātnisko institūtu direktora amatu un konkursiem uz akadēmiskajiem amatiem zinātniskajās institūcijās.
 (3) Zinātniskās darbības projektu administrēšanas informācijas sistēma ietver:
 1) ziņas par izsludinātajiem zinātniskās darbības projektu konkursiem;
 2) zinātniskās darbības projektu pieteikumus;
