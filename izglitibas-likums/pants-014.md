@@ -34,8 +34,8 @@ Ministru kabinets:
 21¹) nosaka izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm;
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju veidus, stipendiju saņemšanas kritērijus un kārtību, kā arī stipendiju minimālo un maksimālo apmēru augstākās izglītības programmās izglītojamiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
-24) nosaka interešu izglītības programmu finansēšanas kārtību;
-24¹) (punkts stājas spēkā 01.09.2022. un iekļauts likuma redakcijā uz 01.09.2022. Sk. Pārejas noteikumu 78. punktu);
+24) nosaka interešu izglītības programmu un valsts nozīmes interešu izglītības iestāžu finansēšanas kārtību;
+24¹) nosaka kritērijus un kārtību, kādā interešu izglītības iestādēm tiek piešķirts un anulēts valsts nozīmes interešu izglītības iestādes statuss;
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
