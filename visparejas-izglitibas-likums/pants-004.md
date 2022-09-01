@@ -14,7 +14,7 @@ Ministru kabinets:
 8¹) nosaka valsts un pašvaldību pedagoģiski medicīnisko komisiju informācijas sistēmas saturu, tās izveidošanas, uzturēšanas un aktualizācijas kārtību;
 9) nosaka kārtību, kādā izglītojamie atbrīvojami no noteiktajiem valsts pārbaudījumiem;
 10) (izslēgts ar 16.06.2005. likumu);
-11) nosaka valsts vispārējās izglītības standartus un mācību priekšmetu standartus;
+11) nosaka valsts vispārējās izglītības standartus;
 11¹) nosaka vispārējās izglītības mācību jomu nosaukumus;
 12) katru mācību gadu atbilstoši valsts vispārējās izglītības standartiem nosaka valsts pārbaudes darbu norises laiku un kārtību;
 12¹) nosaka kārtību, kādā svešvalodas centralizēto eksāmenu vispārējās vidējās izglītības programmā aizstāj ar starptautiskas testēšanas institūcijas pārbaudījumu svešvalodā, un apstiprina starptautisko testēšanas institūciju sarakstu, nosaka šo testēšanas institūciju izdotajos dokumentos norādīto pārbaudījumu vērtējumu atbilstību svešvalodas centralizētā eksāmena vērtējumam;
