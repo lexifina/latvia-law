@@ -1,6 +1,6 @@
 6. pants. Valsts aizsardzības mācības priekšmeta īstenošanai nepieciešamā izglītība un profesionālā kvalifikācija
 (1) Valsts aizsardzības mācības priekšmetu ir tiesīgs īstenot jaunsargu instruktors.
-(2) Par jaunsargu instruktoru, kura amata pienākumos ietilpst valsts aizsardzības mācības priekšmeta īstenošana, var būt persona, kas atbilst šādām izglītības un kvalifikācijas prasībām:
+(2) Par jaunsargu instruktoru, kura amata pienākumos ietilpst valsts aizsardzības mācības priekšmeta īstenošana, var būt profesionālā dienesta karavīrs, zemessargs, rezerves karavīrs vai Latvijas pilsonis, kurš pilda dienestu Iekšlietu ministrijas sistēmas iestādē vai pašvaldības policijā. Jaunsargu instruktors atbilst šādām izglītības un kvalifikācijas prasībām:
 1) ir ieguvis vai iegūst augstāko izglītību un pedagoga profesionālo kvalifikāciju;
 2) atbilst Bērnu tiesību aizsardzības likuma 72. panta piektajā un sestajā daļā noteiktajām prasībām, kā arī ir apguvis un papildina speciālās zināšanas bērnu tiesību aizsardzības jomā;
 3) ir apguvis vai apgūst aizsardzības ministra noteiktos kursus, kas nepieciešami valsts aizsardzības mācības priekšmeta īstenošanai;
