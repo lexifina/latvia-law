@@ -1,4 +1,7 @@
 4.pants. Baznīcas galva
 (1) Baznīcas galva pārstāv Baznīcu attiecībās ar valsti.
 (2) Baznīcas galva Baznīcas statūtos noteiktajos gadījumos un kārtībā var rakstveidā pilnvarot citas personas darboties Baznīcas vārdā attiecībās ar valsti.
-(3) Par Baznīcas galvu, metropolītiem, bīskapiem un šo amatu kandidātiem drīkst būt tikai Baznīcas garīdznieki un Latvijas pilsoņi, kuru pastāvīgā dzīvesvieta ne mazāk kā pēdējos 10 gadus ir Latvijā.
+(3) Par Baznīcas galvu, metropolītiem, arhibīskapiem, bīskapiem un šo amatu kandidātiem drīkst būt tikai Baznīcas garīdznieki un Latvijas pilsoņi, kuru pastāvīgā dzīvesvieta ne mazāk kā pēdējos 10 gadus ir Latvijā.
+(4) Par Baznīcas galvas, metropolītu, arhibīskapu un bīskapu iecelšanu amatā Baznīca rakstveidā informē Valsts prezidenta kanceleju. Baznīca rakstveidā informē arī par Baznīcas galvas, metropolītu, arhibīskapu un bīskapu atcelšanu no amata.
+(5) Pamatojoties uz Baznīcas sniegto informāciju un amatā ieceltās personas iesniegumu, Valsts prezidenta kanceleja oficiālajā izdevumā "Latvijas Vēstnesis" attiecīgi paziņo par Baznīcas galvas, metropolīta, arhibīskapa un bīskapa stāšanos amatā, kā arī nosūta šo informāciju institūcijai, kas ar likumu ir pilnvarota kārtot reliģisko organizāciju un to iestāžu reģistru.
+(6) Pamatojoties uz Baznīcas sniegto informāciju, Valsts prezidenta kanceleja oficiālajā izdevumā "Latvijas Vēstnesis" attiecīgi paziņo par Baznīcas galvas, metropolīta, arhibīskapa un bīskapa atcelšanu no amata, kā arī nosūta šo informāciju institūcijai, kas ar likumu ir pilnvarota kārtot reliģisko organizāciju un to iestāžu reģistru.

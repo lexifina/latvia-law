@@ -1,0 +1,1 @@
+5. Baznīca līdz 2022. gada 1. oktobrim paziņo Valsts prezidenta kancelejai par amatā esošo Baznīcas galvu, metropolītiem, arhibīskapiem un bīskapiem. Valsts prezidenta kanceleja nekavējoties attiecīgo informāciju publicē oficiālajā izdevumā "Latvijas Vēstnesis".

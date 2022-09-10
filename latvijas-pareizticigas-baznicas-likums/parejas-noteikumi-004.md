@@ -1,0 +1,1 @@
+4. Līdz 2022. gada 31. oktobrim Baznīca saskaņo savus statūtus ar šā likuma grozījumiem par Baznīcas statusu, izdarot statūtos attiecīgus grozījumus, apstiprinot tos jaunā redakcijā un iesniedzot reģistrācijai Reliģisko organizāciju likumā noteiktajā kārtībā.
