@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 1,
+ "datums": "2022-09-15",
+ "ieraksts": {
+  "dkp_id": "2a27df19-4095-4ce6-996d-8d3f591e55ec",
+  "lastmodtime": "\"AAAAAAH4jPw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Dace#Andris#Ivans#Vita Anda#Juris#Ivars#Jānis#Ralfs#Evita#Eva#Vladimirs#Didzis#Jānis#Kārlis#Vjačeslavs#Ainars#Karina#Artuss#Jānis#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Uldis#Armands#Jānis#Jānis#Inese#Marija#Nikolajs#Igors#Raivis#Juris#Evija#Alīna#Ļubova#Sandis#Kaspars#Inguna#Ieva#Rihards#Ilga#Māris#Ilmārs#Jūlija#Atis#Zenta#Valērijs#Ēriks#Andrejs#Viesturs#Māris#Jānis#Normunds#Mārtiņš#Edgars#Viktors#Andrejs#Aigars#Ivans#Ināra#Jānis#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Ainārs#Jānis#Ramona#Līva#Anda#Aleksandrs#Krista#Linda#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Rukšāne-Ščipčinska#Skride#Ribakovs#Tērauda#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Mārtuža#Nikonovs#Šmits#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Sprūde#Kaimiņš#Krišāns#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Augulis#Krauze#Iesalnieks#Dūklavs#Voika#Golubeva#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Gendele#Švecova#Riekstiņš#Ģirģens#Rībena#Akuratere#Kols#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Pucens#Klementjevs#Liepkalns#Kučinskis#Dombrava#Dzintars#Bondars#Tavars#Valainis#Judins#Bikše#Klementjevs#Mūrniece#Vucāns#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Tutins#Petraviča#Kreituse#Čakša#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#NA#AP!#AP!#SASKAŅA #AP!#AP!# #Konservatīvie#Neatkarīgie#Konservatīvie#Konservatīvie#SASKAŅA # #Konservatīvie#JV# #JV#Neatkarīgie# #SASKAŅA #Konservatīvie#SASKAŅA #JV#JV# # #NA#ZZS#ZZS#NA#ZZS#AP!#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# #JV# #Konservatīvie# # #Konservatīvie#NA# #Neatkarīgie#AP!# # #SASKAŅA #SASKAŅA # #SASKAŅA #AP!# #NA#NA#AP!# #ZZS#JV#AP!#SASKAŅA #NA#ZZS#SASKAŅA #NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie# #SASKAŅA #Neatkarīgie#Konservatīvie# #NA#AP!#Konservatīvie#SASKAŅA #NA",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Atturas#Par#Pret#Pret#Par#Par#Atturas#Pret#Pret#Pret#Par#Pret#Par#Nebalsoja#Pret#Pret#Pret#Nebalsoja#Pret#Par#Pret#Par#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Nebalsoja#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.09.2022 11:49:43",
+  "VOTEMOTIVE": "Par neuzticības izteikšanu satiksmes ministram Tālim Linkaitam (979/Lm13)",
+  "VOTING_ID": "d4fafac2-cebc-4fc5-a2b4-f566bda6410f",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "51",
+  "VOTERESULT_FOR": "28",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "86",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c0d24361-b3e3-4492-8260-89dd2ae4f5ca/download/13.saeimas-2022.gada-rudens-sesija-1-vote.xml",
+  "sha256": "17638b1524aa3f11e76740a8a66cefb78d6a0a5c33e6af1a50348df3269cdcfd",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
