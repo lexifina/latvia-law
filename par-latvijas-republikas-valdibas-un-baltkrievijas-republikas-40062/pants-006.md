@@ -1,0 +1,1 @@
+6. pants. Šā likuma 1. pantā minētā Līguma un tā pielikuma darbība tiek apturēta no 2022. gada 10. oktobra līdz brīdim, kad Baltkrievijas Republika izbeidz starptautisko tiesību pārkāpumus attiecībā uz Ukrainu un pilnībā atlīdzina Ukrainai par jau izdarītajiem starptautisko tiesību pārkāpumiem.
