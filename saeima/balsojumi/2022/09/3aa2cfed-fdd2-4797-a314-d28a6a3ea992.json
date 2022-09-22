@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 5,
+ "datums": "2022-09-22",
+ "ieraksts": {
+  "dkp_id": "b7137745-cfb5-452d-b3c3-b3065a3151b1",
+  "lastmodtime": "\"AAAAAAH6VTo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Edvīns#Dace#Romāns#Regīna#Vita Anda#Ivars#Jānis#Evita#Edgars#Eva#Vladimirs#Jānis#Kārlis#Vjačeslavs#Gatis#Jānis#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Jānis#Inese#Marija#Igors#Raivis#Juris#Evija#Jānis#Alīna#Ļubova#Sandis#Inguna#Ieva#Arvils#Rihards#Ilga#Ilmārs#Jūlija#Zenta#Valērijs#Viesturs#Māris#Jānis#Normunds#Mārtiņš#Edgars#Andrejs#Aigars#Ivans#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Ainārs#Ramona#Līva#Krista",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Šnore#Rukšāne-Ščipčinska#Naudiņš#Ločmele#Tērauda#Puga#Butāns#Zālīte-Grosa#Kucins#Mārtuža#Nikonovs#Cielēns#Šadurskis#Dombrovskis#Zamurs#Krišāns#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Dūklavs#Voika#Golubeva#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Gendele#Švecova#Riekstiņš#Rībena#Akuratere#Ašeradens#Kols#Šuplinska#Dūrītis#Stepaņenko#Tretjaka#Agešins#Liepkalns#Kučinskis#Dombrava#Dzintars#Bondars#Tavars#Judins#Bikše#Klementjevs#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Petraviča#Kreituse#Baumane",
+  "VOTEDEPSUFFIX": "###################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#NA#AP!# #SASKAŅA #AP!# #Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#SASKAŅA #Konservatīvie#JV# #AP!#SASKAŅA #SASKAŅA #JV#JV# # #NA#NA#ZZS#AP!#AP!#SASKAŅA #NA#Konservatīvie# # #JV# #Konservatīvie# #Konservatīvie#JV#NA# #AP!# #SASKAŅA #SASKAŅA #AP!# #NA#NA#AP!# #JV#AP!#SASKAŅA #NA#SASKAŅA #NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie# #Neatkarīgie#Konservatīvie#AP!",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.09.2022 11:03:57",
+  "VOTEMOTIVE": "Grozījums likumā “Par nekustamā īpašuma nodokli” (1262/Lp13), 3.lasījums",
+  "VOTING_ID": "3aa2cfed-fdd2-4797-a314-d28a6a3ea992",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "63",
+  "VOTERESULT_REGISTERED": "68",
+  "VOTE_NUMBER": "24",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/ec9752d6-5467-4c35-8449-ff4a1300f0b2/download/13.saeimas-2022.gada-rudens-sesija-5-vote.xml",
+  "sha256": "67e2695e78172ac46623d932ad58e5b1493077b315d2280e1a388e9376ccdd05",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
