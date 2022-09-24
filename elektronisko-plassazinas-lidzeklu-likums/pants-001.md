@@ -18,7 +18,9 @@ Likumā ir lietoti šādi termini:
 12⁴) meitas uzņēmums - uzņēmums, kuru kontrolē mātes uzņēmums, tostarp jebkurš galvenā mātes uzņēmuma meitas uzņēmums;
 13) neatkarīgais producents - privātpersona, kas nav elektroniskais plašsaziņas līdzeklis, bet veido filmas, reklāmu, atsevišķus radio, televīzijas raidījumus;
 14) pašreklāma - paziņojumi, kurus elektroniskais plašsaziņas līdzeklis izplata savā programmā vai raidījumu katalogā, informējot par savu vai citu tās pašas elektronisko plašsaziņas līdzekļu sabiedrību grupas programmu vai raidījumiem, vai par atvasinātiem darbiem, kas tieši iegūti no programmas vai raidījumiem;
-14¹) patiesais labuma guvējs - fiziskā persona, kas atbilst Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā lietotajam terminam "patiesais labuma guvējs";
+14¹) patiesais labuma guvējs - fiziskā persona, kura ir klienta - juridiskās personas vai juridiska veidojuma - īpašnieks vai kura kontrolē klientu, vai kuras vārdā, labā, interesēs tiek nodibinātas darījuma attiecības vai tiek veikts gadījuma rakstura darījums, un tā ir vismaz:
+a) attiecībā uz juridiskajām personām - fiziskā persona, kurai tiešas vai netiešas līdzdalības veidā pieder vairāk nekā pieci procenti no juridiskās personas kapitāla daļām vai balsstiesīgajām akcijām vai kura to tiešā vai netiešā veidā kontrolē,
+b) attiecībā uz juridiskiem veidojumiem - fiziskā persona, kurai pieder vai kuras interesēs ir izveidots vai darbojas juridisks veidojums vai kura tiešā vai netiešā veidā īsteno kontroli pār to, tostarp kura ir šāda veidojuma dibinātājs, pilnvarnieks vai pārraudzītājs (pārvaldnieks);
 15) privātpersona - fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība;
 16) produktu izvietošana - jebkurš audio un audiovizuāls komerciāls paziņojums, kurā iekļauti produkti, pakalpojumi vai to preču zīmes, vai atsauces uz attiecīgajiem produktiem, pakalpojumiem vai to preču zīmēm un kurš tiek demonstrēts raidījumā vai lietotāja veidotā video par samaksu vai citu atlīdzību;
 17) programma - elektroniskā plašsaziņas līdzekļa veidots raidījums vai raidījumu kopums ar kopēju nosaukumu;

@@ -1,0 +1,1 @@
+46. Līdz 2022. gada 31. oktobrim elektroniskie plašsaziņas līdzekļi aktualizē informāciju par to patiesajiem labuma guvējiem un iesniedz šo informāciju Nacionālajai elektronisko plašsaziņas līdzekļu padomei.

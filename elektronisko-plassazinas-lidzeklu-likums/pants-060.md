@@ -2,6 +2,7 @@
 (1) Nacionālā elektronisko plašsaziņas līdzekļu padome:
 1) kārto izsniegto apraides atļauju un retranslācijas atļauju reģistru;
 2) vāc, apkopo un analizē informāciju par elektronisko plašsaziņas līdzekļu darbību un attīstību;
+2¹) apkopo un uztur Latvijā retranslējamo audio un audiovizuālo programmu sarakstu;
 3) sadarbojas ar citu valstu institūcijām, kas risina elektronisko plašsaziņas līdzekļu darbības un attīstības jautājumus, un ar Eiropas Komisiju;
 4) pasūta elektronisko plašsaziņas līdzekļu jomas funkciju nodrošināšanai nepieciešamos socioloģiskos un citus pētījumus par nozares darbību un attīstību;
 5) uzklausa, analizē un apkopo skatītāju un klausītāju ierosinājumus, sūdzības un citu informāciju par elektronisko plašsaziņas līdzekļu darbību;
