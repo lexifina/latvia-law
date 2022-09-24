@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 20. septembra noteikumi Nr. 578 \"Grozījumi Ministru kabineta 2015. gada 9. jūnija noteikumos Nr. 294 \"Noteikumi par Latvijas būvnormatīvu LBN 261-15 \"Ēku iekšējā elektroinstalācija\"\"\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "185",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-23",
+  "entry_into_force": "2022-09-24",
+  "notification_date": "2022-09-29",
+  "commission_reference": "MNE(2022)06399",
+  "nim_celex": "72018L0844LVA_202206399",
+  "nim_id": "202206399",
+  "transposes_celex": [
+    "32018L0844"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7fe82c22-42fb-11ed-92ed-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
