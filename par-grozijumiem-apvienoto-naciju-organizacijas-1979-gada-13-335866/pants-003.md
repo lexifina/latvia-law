@@ -1,0 +1,1 @@
+3. pants. Protokola grozījumi stājas spēkā Konvencijas izpildinstitūcijas divdesmit septītās sanāksmes lēmuma Nr. 2009/1 3. pantā un lēmuma Nr. 2009/2 3. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ".
