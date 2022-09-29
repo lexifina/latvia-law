@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 7,
+ "datums": "2022-09-29",
+ "ieraksts": {
+  "dkp_id": "0d7cd712-05e5-4e60-aabf-acd76dd78d02",
+  "lastmodtime": "\"AAAAAAH7+5g=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Dace#Andris#Romāns#Regīna#Ivans#Juris#Ivars#Jānis#Ralfs#Evita#Eva#Vladimirs#Didzis#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Normunds#Inga#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Jānis#Marija#Nikolajs#Igors#Raivis#Juris#Evija#Jānis#Alīna#Boriss#Ļubova#Sandis#Kaspars#Ieva#Arvils#Ieva#Rihards#Ilga#Māris#Ilmārs#Jūlija#Atis#Zenta#Valērijs#Andrejs#Māris#Jānis#Normunds#Mārtiņš#Edgars#Andrejs#Aigars#Ināra#Vitālijs#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Ainārs#Jānis#Ramona#Līva#Anda#Janīna#Aleksandrs#Krista#Linda#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Rukšāne-Ščipčinska#Skride#Naudiņš#Ločmele#Ribakovs#Pūce#Puga#Butāns#Nemiro#Zālīte-Grosa#Mārtuža#Nikonovs#Šmits#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Žunna#Goldberga#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Dūklavs#Golubeva#Kabanovs#Pimenovs#Dzintars#Rancāns#Papule#Vitenbergs#Gendele#Cilevičs#Švecova#Riekstiņš#Ģirģens#Akuratere#Ašeradens#Krapāne#Kols#Šuplinska#Možvillo#Dūrītis#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Klementjevs#Kučinskis#Dombrava#Dzintars#Bondars#Tavars#Judins#Bikše#Mūrniece#Orlovs#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Tutins#Petraviča#Kreituse#Čakša#Jalinska#Kiršteins#Baumane#Medne#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#AP!#AP!# #SASKAŅA #SASKAŅA #AP!# #Konservatīvie#Neatkarīgie#Konservatīvie#Konservatīvie#SASKAŅA # #Konservatīvie#JV# #JV#AP!#Neatkarīgie#Konservatīvie#SASKAŅA #JV#JV# # #NA#NA#ZZS#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# # #JV#SASKAŅA # #Konservatīvie# #Konservatīvie#JV#Neatkarīgie#NA# #Neatkarīgie#AP!# # #SASKAŅA #SASKAŅA #SASKAŅA # #NA#NA#AP!# #JV#AP!#NA#SASKAŅA #NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie# #SASKAŅA #Neatkarīgie#Konservatīvie# #ZZS#NA#AP!#Konservatīvie#SASKAŅA #NA",
+  "RESULT": "Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Atturas#Pret#Atturas#Pret#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Atturas#Atturas#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Nebalsoja#Pret#Pret#Atturas#Atturas#Pret#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "29.09.2022 15:09:17",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.21. Grozījumi Izglītības likumā (1519/Lp13), 3.lasījums",
+  "VOTING_ID": "7abf88a5-a930-4da4-b9da-a9d9a5f8f195",
+  "VOTERESULT_ABSTAIN": "12",
+  "VOTERESULT_AGAINST": "62",
+  "VOTERESULT_FOR": "0",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "49",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cbe2705e-86a8-4d6d-afa5-943329f5d57e/download/13.saeimas-2022.gada-rudens-sesija-7-vote.xml",
+  "sha256": "ce87397ce6772fd28f8f051818237cf9999127b11ebd255af65a64663daa8cb8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
