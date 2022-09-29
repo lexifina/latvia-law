@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 7,
+ "datums": "2022-09-29",
+ "ieraksts": {
+  "dkp_id": "31dc9489-222b-4ecc-8914-db85fea38076",
+  "lastmodtime": "\"AAAAAAH8Jis=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Dace#Andris#Vita Anda#Juris#Jānis#Evita#Eva#Vladimirs#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Normunds#Inese#Rihards#Iveta#Edmunds#Jānis#Marija#Nikolajs#Igors#Raivis#Juris#Jānis#Alīna#Boriss#Ļubova#Sandis#Kaspars#Ieva#Arvils#Ieva#Rihards#Ilga#Māris#Jūlija#Atis#Zenta#Valērijs#Andrejs#Jānis#Normunds#Mārtiņš#Edgars#Andrejs#Ināra#Ritvars#Raimonds#Sergejs#Reinis#Dagmāra#Ainars#Krišjānis#Ainārs#Jānis#Ramona#Līva#Anda#Krista#Linda#Artūrs#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Rukšāne-Ščipčinska#Skride#Tērauda#Pūce#Butāns#Zālīte-Grosa#Mārtuža#Nikonovs#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Teirumnieks#Iesalnieks#Golubeva#Kabanovs#Pimenovs#Dzintars#Rancāns#Vitenbergs#Gendele#Cilevičs#Švecova#Riekstiņš#Ģirģens#Akuratere#Ašeradens#Krapāne#Kols#Šuplinska#Možvillo#Stepaņenko#Zakatistovs#Tretjaka#Agešins#Klementjevs#Dombrava#Dzintars#Bondars#Tavars#Judins#Mūrniece#Jansons#Bergmanis#Dolgopolovs#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Vilciņš#Tutins#Petraviča#Kreituse#Čakša#Baumane#Medne#Rubiks#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "#################################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#AP!#AP!#AP!#Konservatīvie#Konservatīvie#Konservatīvie#SASKAŅA #Konservatīvie#JV# #JV#AP!#Neatkarīgie#Konservatīvie#JV#JV# #NA#NA#AP!#SASKAŅA #SASKAŅA #NA#Konservatīvie# #JV#SASKAŅA # #Konservatīvie# #Konservatīvie#JV#Neatkarīgie#NA# #Neatkarīgie# # #SASKAŅA #SASKAŅA #SASKAŅA #NA#NA#AP!# #JV#NA#NA# #SASKAŅA #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie# #SASKAŅA #Neatkarīgie#Konservatīvie# #AP!#Konservatīvie#SASKAŅA #NA",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Nebalsoja#Par#Pret#Pret#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Pret#Par#Pret#Pret#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Par#Par#Pret#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "29.09.2022 17:06:08",
+  "VOTEMOTIVE": "Par likumprojekta Komunistiskā totalitārā režīma un rusifikācijas nosaukumu pārdēvēšanas likums (1656/Lp13), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "6a74ba17-251f-4257-bced-79677e8faa12",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "13",
+  "VOTERESULT_FOR": "48",
+  "VOTERESULT_REGISTERED": "66",
+  "VOTE_NUMBER": "58",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cbe2705e-86a8-4d6d-afa5-943329f5d57e/download/13.saeimas-2022.gada-rudens-sesija-7-vote.xml",
+  "sha256": "ce87397ce6772fd28f8f051818237cf9999127b11ebd255af65a64663daa8cb8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
