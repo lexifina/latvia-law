@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 13,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 7,
+ "datums": "2022-09-29",
+ "ieraksts": {
+  "dkp_id": "925997a4-2a8d-4ce9-a309-6949f027362d",
+  "lastmodtime": "\"AAAAAAH8kuE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Atis#Uldis#Mārtiņš#Dace#Andris#Romāns#Vita Anda#Juris#Ivars#Jānis#Evita#Eva#Jānis#Kārlis#Vjačeslavs#Ainars#Gatis#Karina#Normunds#Inese#Rihards#Iveta#Janīna#Edmunds#Jānis#Jānis#Marija#Raivis#Juris#Evija#Jānis#Alīna#Sandis#Ieva#Arvils#Rihards#Ilga#Ilmārs#Atis#Jānis#Mārtiņš#Aigars#Ināra#Ritvars#Reinis#Dagmāra#Ainars#Krišjānis#Ramona#Līva#Anda#Aleksandrs#Krista#Linda#Janīna",
+  "SURNAME": "Lejiņš#Budriķis#Šteins#Rukšāne-Ščipčinska#Skride#Naudiņš#Tērauda#Pūce#Puga#Butāns#Zālīte-Grosa#Mārtuža#Cielēns#Šadurskis#Dombrovskis#Latkovskis#Zamurs#Sprūde#Žunna#Lībiņa-Egnere#Kozlovskis#Benhena-Bēkena#Kursīte#Teirumnieks#Iesalnieks#Dūklavs#Golubeva#Dzintars#Rancāns#Papule#Vitenbergs#Gendele#Riekstiņš#Akuratere#Ašeradens#Kols#Šuplinska#Dūrītis#Zakatistovs#Dombrava#Bondars#Bikše#Mūrniece#Jansons#Znotiņš#Beitnere-Le Galla#Bašķis#Feldmans#Petraviča#Kreituse#Čakša#Kiršteins#Baumane#Medne#Kursīte-Pakule",
+  "VOTEDEPSUFFIX": "######################################################",
+  "FRACTION": "JV#Konservatīvie#AP!#AP!#AP!# #AP!#AP!# #Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie#JV# #JV#AP!#Neatkarīgie#Konservatīvie#JV#JV# # #NA#NA#ZZS#AP!#NA#Konservatīvie# # #JV#Konservatīvie#Konservatīvie#JV#NA# #AP!# #NA#AP!#AP!#NA#NA#Konservatīvie#Konservatīvie#Konservatīvie#Konservatīvie#Neatkarīgie#Konservatīvie# #NA#AP!#Konservatīvie#NA",
+  "RESULT": "Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "29.09.2022 19:24:44",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.14. Grozījumi likumā “Par ietekmes uz vidi novērtējumu” (1482/Lp13), 2.lasījums, steidzams",
+  "VOTING_ID": "c7cd621b-d4c8-474e-ab88-7b8dbff218a4",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "50",
+  "VOTERESULT_REGISTERED": "55",
+  "VOTE_NUMBER": "89",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "13.Saeimas 2022.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cbe2705e-86a8-4d6d-afa5-943329f5d57e/download/13.saeimas-2022.gada-rudens-sesija-7-vote.xml",
+  "sha256": "ce87397ce6772fd28f8f051818237cf9999127b11ebd255af65a64663daa8cb8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
