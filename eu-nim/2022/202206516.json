@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2022.gada 15.septembra  lēmums Nr. 1/22 \"Vispārējās atļaujas un reģistrācijas noteikumi elektronisko sakaru nozarē\"\"",
+  "type_of_act": "SPRK noteikumi",
+  "official_journal": null,
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-21",
+  "entry_into_force": "2022-10-01",
+  "notification_date": "2022-10-07",
+  "commission_reference": "MNE(2022)06516",
+  "nim_celex": "72018L1972LVA_202206516",
+  "nim_id": "202206516",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4922007-4bc7-11ed-92ed-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
