@@ -11,6 +11,6 @@ Vienkāršā vekselī jābūt:
 8) vekseļa izrakstīšanas vietas pilnai adresei. Ja nav norādīta vekseļa izrakstīšanas vieta, par tādu tiek uzskatīta izrakstītāja dzīves vieta;
 9) vekseļa izrakstīšanas datumam (cipariem);
 10) vekseļa devēja parakstam. Parakstot vekseli, nedrīkst lietot faksimilzīmogu;
-11) atzīmei par valsts nodevas samaksu (valsts nodevas apmērs, bankas dienas spiedogs, bankas darbinieka paraksts).
-(Ceturtā daļa stājas spēkā 01.10.2022. un iekļauta likuma redakcijā uz 01.10.2022. Sk. pārejas noteikumu 5. punktu)
+11) (izslēgts no 01.10.2022. ar 16.06.2022. likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu).
+Ja vienkāršā vekseļa devējs, indosants, galvinieks, starpnieks vai cita uz vienkāršā vekseļa pamata atbildīgā persona ir fiziskā persona, vienkāršais vekselis izdodams notariālā akta formā.
 Ja vienkāršais vekselis tiek izdots notariālā akta formā, visa korespondence, kas tiek nosūtīta uz notariālajā aktā norādīto adresi, tiek uzskatīta par saņemtu.
