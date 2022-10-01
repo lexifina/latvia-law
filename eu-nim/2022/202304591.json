@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2022. gada 15. septembra lēmums Nr. 1/21 \"Piekļuves pamatpiedāvājuma noteikumi\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "183",
+  "official_journal_page": null,
+  "official_journal_date": "2022-09-21",
+  "entry_into_force": "2022-10-01",
+  "notification_date": "2023-08-15",
+  "commission_reference": "MNE(2023)04591",
+  "nim_celex": "72018L1972LVA_202304591",
+  "nim_id": "202304591",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee9e4edf-6411-4cb8-86d1-7834c1d9910e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
