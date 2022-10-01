@@ -5,7 +5,7 @@
 3) maksu par atkritumu un piesārņoto ūdeņu pieņemšanu;
 4) maksu par ostas velkoņu un citu peldošo līdzekļu izmantošanu;
 5) maksu par ugunsdzēsēju pakalpojumiem.
-(2) Ostas maksas pakalpojumu tarifu robežlīmeņi stājas spēkā četrdesmit piecas dienas pēc to publicēšanas laikrakstā "Latvijas Vēstnesis".
+(2) Ostas maksas pakalpojumu tarifu robežlīmeņus ostas pārvalde publicē oficiālajā izdevumā "Latvijas Vēstnesis" un ostas pārvaldes tīmekļvietnē. Ostas maksas pakalpojumu tarifu robežlīmeņi stājas spēkā ne agrāk kā divus mēnešus pēc to publicēšanas oficiālajā izdevumā "Latvijas Vēstnesis".
 (3) Latvijas ostās tiek noteikta maksa par navigācijas pakalpojumiem. To iekasē Latvijas Jūras administrācija. Maksas apmēru un iekasēšanas kārtību regulē tie Ministru kabineta noteikumi, kuri nosaka Latvijas Jūras administrācijas valsts pārvaldes uzdevumu ietvaros sniegto maksas pakalpojumu cenrādi.
 (4) (Izslēgta ar 12.07.2010. likumu)
 (5) (Izslēgta ar 12.07.2010. likumu)
