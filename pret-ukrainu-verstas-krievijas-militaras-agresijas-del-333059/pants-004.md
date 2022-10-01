@@ -1,2 +1,3 @@
 4. pants. Atbalsta piešķiršanas un administrēšanas nosacījumi un kārtība
-Ministru kabinets nosaka nosacījumus un kārtību šajā likumā noteiktā atbalsta piešķiršanai un administrēšanai.
+(1) Šā likuma 2. panta pirmajā un otrajā daļā paredzētajam atbalstam Ministru kabinets nosaka pieejamo finansējumu, šajā likumā noteiktā atbalsta piešķiršanas un administrēšanas nosacījumus un kārtību, kā arī neatbalstāmās nozares un darbības.
+(2) Šā likuma 2. panta 2.¹ daļā paredzētajam atbalstam Ministru kabinets nosaka tā piešķiršanas nosacījumus aizdevumu un kapitāla atlaides veidā, kārtību, kādā īsteno šajos noteikumos ietverto aizdevumu programmu, tostarp veic projektu atlasi, aizdevumu programmas īstenošanai pieejamo finansējumu, atbalstāmo darbību un izmaksu attiecināmības nosacījumus, kā arī atbalsta uzskaiti un neatbalstāmās nozares un darbības.
