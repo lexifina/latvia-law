@@ -1,0 +1,1 @@
+53. Grozījums par šā likuma 21. panta pirmās daļas izteikšanu jaunā redakcijā, kas paredz sadzīves atkritumu apglabāšanu tikai attiecīgā atkritumu apsaimniekošanas reģiona sadzīves atkritumu poligonā, stājas spēkā 2024. gada 1. janvārī.

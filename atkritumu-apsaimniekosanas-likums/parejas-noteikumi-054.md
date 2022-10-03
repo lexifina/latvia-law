@@ -1,0 +1,1 @@
+54. Līgums par pašvaldības administratīvajā teritorijā savākto sadzīves atkritumu apglabāšanu, ko pašvaldība līdz 2022. gada 31. oktobrim noslēgusi ar tāda sadzīves atkritumu poligona apsaimniekotāju, kurā netiek turpināta atkritumu apglabāšana pēc 2023. gada 31. decembra, ir spēkā līdz attiecīgajā līgumā noteiktā termiņa beigām un nav pagarināms.
