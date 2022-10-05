@@ -1,3 +1,1 @@
-26.¹ Vēja elektrostaciju būvniecība, ja to:
-1) skaits ir 15 elektrostaciju un vairāk;
-2) kopējā jauda ir 15 megavatu un vairāk.
+26.¹ Vēja elektrostaciju būvniecība, ja to kopējā jauda ir 50 megavatu un vairāk, izņemot tādu vēja elektrostaciju būvniecību, kurai piemērojams sākotnējais izvērtējums saskaņā ar Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likumu.
