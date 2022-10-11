@@ -1,0 +1,1 @@
+4. pants. Ar šā likuma spēkā stāšanos spēku zaudē likums " Par 2016. gada Pasaules Pasta konvenciju " (Latvijas Vēstnesis, 2018, 210. nr.), likums " Par Pasaules Pasta konvencijas Papildprotokolu " (Latvijas Vēstnesis, 2019, 191. nr.) un likums " Par Pasaules Pasta konvencijas Otro papildprotokolu " (Latvijas Vēstnesis, 2020, 223. nr.).

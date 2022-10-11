@@ -1,0 +1,1 @@
+1. pants. 2021. gada 26. augustā parakstītā Pasaules Pasta konvencija (turpmāk - Konvencija) un Konvencijas Noslēguma protokols (turpmāk - Noslēguma protokols) ar šo likumu tiek pieņemti un apstiprināti.

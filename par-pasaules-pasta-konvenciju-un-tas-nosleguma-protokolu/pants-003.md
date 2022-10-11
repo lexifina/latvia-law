@@ -1,0 +1,1 @@
+3. pants. Konvencija un Noslēguma protokols stājas spēkā Konvencijas 41. pantā noteiktajā laikā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ". Līdz ar likumu izsludināma Konvencija un Noslēguma protokols angļu valodā un to tulkojums latviešu valodā.
