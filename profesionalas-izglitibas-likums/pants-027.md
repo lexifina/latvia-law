@@ -8,8 +8,9 @@
 1) pirmā, otrā vai trešā līmeņa profesionālo kvalifikāciju, bez iepriekšējās izglītības ierobežojuma;
 2) ceturtā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi arodizglītību vai vidējo izglītību;
 3) piektā un sestā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vidējo izglītību;
-4) septītā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vismaz sestā līmeņa Latvijas kvalifikāciju ietvarstruktūras izglītību un izpildījusi noteiktās profesionālās kvalifikācijas prasības.
+4) septītā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vismaz sestā līmeņa Latvijas kvalifikāciju ietvarstruktūras augstāko izglītību un izpildījusi noteiktās profesionālās kvalifikācijas prasības;
+5) astotā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vismaz septītā līmeņa Latvijas kvalifikāciju ietvarstruktūras augstāko izglītību un izpildījusi noteiktās profesionālās kvalifikācijas prasības.
 (7) (Izslēgta ar 03.03.2022. likumu)
 (8) (Izslēgta ar 03.03.2022. likumu)
 (9) Prasības uzņemšanai profesionālās ievirzes izglītības programmā tiek noteiktas attiecīgajā profesionālās ievirzes izglītības programmā.
-(10) Personai, ja tai ir atbilstoša kompetence, ir tiesības būt uzņemtai profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības, kā arī profesionālās ievirzes izglītības programmas vēlākajos mācību posmos. Ministru kabinets nosaka kārtību, kādā uzsākamas mācības vēlākos posmos profesionālās pamatizglītības, arodizglītības, profesionālās vidējās un profesionālās ievirzes izglītības programmās.
+(10) Personai, ja tai ir atbilstoša kompetence, ir tiesības būt uzņemtai profesionālās izglītības programmas, izņemot studiju programmas un profesionālās pilnveides izglītības programmas, vēlākajos mācību posmos. Ministru kabinets nosaka kārtību, kādā uzsākamas mācības vēlākos posmos profesionālās izglītības programmās, izņemot studiju programmās un profesionālās pilnveides izglītības programmās.

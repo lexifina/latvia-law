@@ -1,0 +1,1 @@
+45. Koledža līdz 2023. gada 31. decembrim izveido koledžas domi atbilstoši šā likuma 17.² pantā noteiktajam. Līdz koledžas domes izveidei, bet ne ilgāk kā līdz 2023. gada 31. decembrim koledžas padome pilda koledžas domes funkcijas.

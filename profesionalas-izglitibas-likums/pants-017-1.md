@@ -1,5 +1,5 @@
 17.¹ pants. Profesionālās izglītības iestādes konvents
-(1) Valsts un pašvaldību profesionālās izglītības iestādēs, kuras īsteno profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības programmas, izveido koleģiālu padomdevēju institūciju - konventu, kura mērķis ir veicināt profesionālās izglītības iestādes attīstību atbilstoši darba tirgus prasībām.
+(1) Profesionālās izglītības iestādēs izveido koleģiālu padomdevēju institūciju - konventu, kura mērķis ir veicināt profesionālās izglītības iestādes attīstību atbilstoši darba tirgus prasībām.
 (2) Konventu izveido un tā nolikumu izdod profesionālās izglītības iestādes vadītājs, nosakot konventa funkcijas, uzdevumus, sastāvu un darba organizāciju.
 (3) Konventa sastāvā ir ne mazāk kā pieci padomnieki. Konventa sastāvā iekļauj profesionālās izglītības iestādes vadītāju, tās ministrijas pārstāvi, kuras padotībā ir profesionālās izglītības iestāde, kā arī attiecīgās pašvaldības, darba devēju un to apvienību pārstāvjus. Konventa sastāvā var iekļaut attiecīgā plānošanas reģiona pārstāvi, kā arī attiecīgās profesionālās izglītības iestādes darbinieku pārstāvi un citus ieinteresēto institūciju pārstāvjus. Konventa priekšsēdētājs ir darba devēju vai attiecīgās pašvaldības pārstāvis.
 (4) Konventa lēmumiem ir ieteikuma raksturs.

@@ -1,2 +1,2 @@
 IV nodaļa
-Profesionālās izglītības iestādes pedagogi un izglītojamie
+Profesionālās izglītības iestādes personāls un izglītojamie

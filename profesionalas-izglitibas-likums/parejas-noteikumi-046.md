@@ -1,0 +1,1 @@
+46. Persona, kura laikā līdz 2022. gada 31. decembrim iecelta koledžas direktora amatā, turpina pildīt amata pienākumus līdz darba līgumā noteiktā termiņa beigām, bet ne ilgāk kā līdz 2027. gada 31. decembrim. Pēc minētā termiņa beigām persona ir tiesīga kandidēt uz otro koledžas direktora pilnvaru termiņu šajā koledžā.
