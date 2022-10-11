@@ -1,0 +1,1 @@
+99. Juridiskās un fiziskās personas, kuras līdz 2023. gada 31. maijam saņēmušas pašvaldības licenci pieaugušo neformālās izglītības programmas īstenošanai, ir tiesīgas turpināt attiecīgās izglītības programmas īstenošanu ne ilgāk kā līdz 2024. gada 31. maijam.

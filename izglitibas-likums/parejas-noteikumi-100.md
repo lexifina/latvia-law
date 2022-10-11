@@ -1,0 +1,1 @@
+100. Izglītības iestādes, kuras ir reģistrētas Izglītības iestāžu reģistrā, bet nav akreditētas, un kuras līdz 2023. gada 31. maijam ir uzsākušas pieaugušo neformālās izglītības programmu īstenošanu, ir tiesīgas turpināt attiecīgo izglītības programmu īstenošanu bez atļaujas ne ilgāk kā līdz 2024. gada 31. maijam.

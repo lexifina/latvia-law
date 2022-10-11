@@ -16,5 +16,5 @@
 3) iestādes aprīkojuma iegādei;
 4) pedagogu prēmijām un naudas balvām un izglītojamo materiālajai stimulēšanai, un pedagogu, kas īsteno profesionālās pamatizglītības, profesionālās vidējās izglītības vai profesionālās ievirzes izglītības programmas sportā, mūzikā un mākslā valsts vai pašvaldību izglītības iestādēs, darba samaksai.
 (8) Valsts un pašvaldības izglītības iestāžu sniegto maksas pakalpojumu un citu pašu ieņēmumu naudas atlikumi saimnieciskā gada beigās paliek attiecīgās valsts vai pašvaldības izglītības iestādes rīcībā nākamajam saimnieciskajam gadam, un tie nav novirzāmi citiem mērķiem.
-(9) Augstskolu un koledžu finansēšanas kārtību nosaka Augstskolu likums.
+(9) Augstskolu finansēšanas kārtību nosaka Augstskolu likums.
 (10) Valsts nozīmes interešu izglītības iestādes saņem papildu valsts budžeta finansējumu šā likuma 19.¹ panta pirmajā daļā noteikto funkciju veikšanai.

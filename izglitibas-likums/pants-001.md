@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) akadēmiskā izglītība - zinātņu teorētisko pamatu studijas un to rezultāts;
 1¹) attālinātas mācības - klātienes izglītības procesa daļa, kurā izglītojamie mācās, tai skaitā izmantojot informācijas un komunikācijas tehnoloģijas, fiziski neatrodoties vienā telpā vai mācību vietā kopā ar pedagogu;
-2) augstākā izglītība - izglītības pakāpe, kurā pēc vidējās izglītības iegūšanas notiek zinātnē vai mākslā, vai arī zinātnē un mākslā sakņota personības attīstība izraudzītajā akadēmisko vai profesionālo, vai arī akadēmisko un profesionālo studiju virzienā, sagatavošanās zinātniskai vai profesionālai darbībai;
+2) augstākā izglītība - izglītības pakāpe, kurā iegūst akadēmisko kvalifikāciju atbilstoši piektajam, sestajam, septītajam un astotajam Latvijas kvalifikāciju ietvarstruktūras līmenim;
 2¹) formālā izglītība - sistēma, kas ietver pamatizglītības, vidējās izglītības un augstākās izglītības pakāpes, kuru programmu apguvi apliecina valsts atzīts izglītības vai profesionālās kvalifikācijas dokuments, kā arī izglītības un profesionālās kvalifikācijas dokuments;
 3) interešu izglītība - personas individuālo izglītības vajadzību un vēlmju īstenošana neatkarīgi no vecuma un iepriekš iegūtās izglītības;
 4) izglītība - sistematizētu zināšanu un prasmju apguves un attieksmju veidošanas process un tā rezultāts. Izglītības process ietver mācību un audzināšanas darbību. Izglītības rezultāts ir personas zināšanu, prasmju un attieksmju kopums;

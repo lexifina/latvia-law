@@ -11,6 +11,7 @@
 7) Ministru kabineta noteiktā kārtībā:
 a) akreditē vispārējās izglītības iestādes un profesionālās izglītības iestādes (izņemot augstskolas un koledžas),
 b) novērtē izglītības iestāžu (izņemot augstskolu un koledžu) vadītāju profesionālo darbību, izvērtējot izglītības iestādes pārvaldības kvalitāti;
+c) novērtē augstskolu un koledžu akreditācijas procesā to darbības kvalitāti profesionālās vidējās izglītības, profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu īstenošanā un informē par tās rezultātiem Akadēmiskās informācijas centru;
 8) izstrādā vadlīnijas vispārējās un profesionālās izglītības (izņemot augstāko profesionālo izglītību) kvalitātes nodrošināšanai, sniedz ieteikumus izglītības kvalitātes pilnveidei, kā arī organizē izglītības kvalitātes datu ieguvi un analīzi;
 9) sagatavo ikgadēju izglītības (izņemot augstāko izglītību) kvalitātes izvērtējumu un iesniedz to Izglītības un zinātnes ministrijai.
 (4) Izglītības kvalitātes valsts dienesta vadītājam un viņa pilnvarotām dienesta amatpersonām ir tiesības:

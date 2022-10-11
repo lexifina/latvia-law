@@ -15,6 +15,7 @@ Ministru kabinets:
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
 11) nosaka izglītības programmu licencēšanas un licencēšanas anulēšanas kārtību;
+11¹) nosaka kārtību, kādā tiek izsniegtas atļaujas neformālās izglītības programmu īstenošanai;
 12) apstiprina pedagogu profesiju un amatu sarakstu;
 12¹) nosaka kārtību un kritērijus izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju profesionālās darbības novērtēšanai, tajā skaitā ārkārtas novērtēšanai un novērtēšanas anulēšanai;
 12²) nosaka kārtību un vērtēšanas nosacījumus valsts un pašvaldību izglītības iestāžu (izņemot augstskolas un koledžas) vadītāju un pašvaldību izglītības pārvalžu vadītāju amatu pretendentu atlasei;
@@ -39,10 +40,10 @@ Ministru kabinets:
 25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
-28) nosaka institūciju, kas licencē izglītības programmas;
+28) nosaka institūciju, kas licencē izglītības programmas, izņemot interešu izglītības programmas;
 29) (izslēgts ar 08.04.2021. likumu);
 30) nosaka Valsts izglītības informācijas sistēmas saturu un uzturēšanas un aktualizācijas kārtību;
-31) nosaka kārtību, kādā valsts finansē pieaugušo neformālās izglītības programmas, tālākizglītības programmas un profesionālās kompetences pilnveidi, kā arī kritērijus attiecīga finansējuma saņemšanai;
+31) nosaka kārtību, kādā valsts finansē neformālās izglītības programmas, tālākizglītības programmas un profesionālās kompetences pilnveidi pieaugušo izglītībā, kā arī kritērijus attiecīga finansējuma saņemšanai;
 32) nosaka pedagogu profesionālās kompetences pilnveides kārtību;
 33) nosaka kārtību, kādā notiek valsts pārbaudījumi akreditēto izglītības iestāžu īstenotajās izglītības programmās;
 34) nosaka atbalsta pasākumus darba devējiem darbinieku papildu izglītošanā, tai skaitā kritērijus šāda atbalsta saņemšanai un atbalsta pasākumu īstenošanas kārtību;

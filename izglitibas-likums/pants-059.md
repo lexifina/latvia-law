@@ -9,4 +9,4 @@
 2) sniedzot maksas pakalpojumus iestādes nolikumā vai satversmē noteiktajos gadījumos;
 3) no citiem ieņēmumiem.
 (5) Izglītības atbalsta iestādes finansē to dibinātāji.
-(6) Valsts finansiāli atbalsta un pašvaldība tās noteiktajā kārtībā un atbilstoši tās noteiktajiem kritērijiem var finansiāli atbalstīt pieaugušo izglītību, finansējot pieaugušo neformālās izglītības programmas, kā arī atbalstot darba devējus darbinieku papildu izglītošanā.
+(6) Valsts finansiāli atbalsta un pašvaldība tās noteiktajā kārtībā un atbilstoši tās noteiktajiem kritērijiem var finansiāli atbalstīt pieaugušo izglītību, finansējot neformālās izglītības programmas, kā arī atbalstot darba devējus darbinieku papildu izglītošanā.
