@@ -1,0 +1,1 @@
+2. Metodiskā kultūras centra vadītājs un kultūras centra vadītājs, kura izglītība neatbilst šā likuma 6. panta otrās un trešās daļas prasībām, bet kuram 2026. gada 31. decembrī līdz valsts noteiktā pensijas vecuma sasniegšanai atlikuši pieci gadi vai mazāk, ir tiesīgs turpināt darbu šajā amatā līdz tā gada beigām, kurā sasniedz valsts noteikto pensijas vecumu.

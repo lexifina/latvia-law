@@ -1,0 +1,1 @@
+4. Ministru kabinets ne vēlāk kā līdz 2023. gada 30. jūnijam izdara grozījumus Ministru kabineta 2017. gada 30. maija noteikumos Nr. 291 "Noteikumi par oficiālās statistikas apkopošanu kultūras jomā" atbilstoši šā likuma 5. pantam.

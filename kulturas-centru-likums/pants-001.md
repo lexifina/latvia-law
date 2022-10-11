@@ -1,0 +1,3 @@
+1. pants. Likuma mērķis un darbības joma
+(1) Likuma mērķis ir ar kultūras centru starpniecību veicināt kvalitatīvu kultūras pakalpojumu pieejamību visai Latvijas sabiedrībai, Latvijas kultūrvēsturiskās vides, kultūrtelpu un nemateriālā kultūras mantojuma saglabāšanu un ilgtspējīgu attīstību, nacionālās identitātes stiprināšanu, mūžizglītības pieejamību, jaunu kultūras pakalpojumu un produktu veidošanos, kā arī kvalitatīvu kultūras procesu, kurā nodrošināta iespēja līdzdarboties visai sabiedrībai.
+(2) Likums nosaka pašvaldību dibināto kultūras centru juridisko statusu, funkcijas, darbību un citus ar kultūras centru darbību saistītus jautājumus.

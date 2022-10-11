@@ -1,0 +1,1 @@
+1. Metodiskā kultūras centra vadītājs un kultūras centra vadītājs, kura izglītība vai darba pieredze neatbilst šā likuma 6. panta otrās un trešās daļas prasībām, ir tiesīgs turpināt darbu šajā amatā līdz 2026. gada 31. decembrim.

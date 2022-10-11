@@ -1,0 +1,1 @@
+3. Pašvaldība līdz 2023. gada 31. decembrim atbilstoši šā likuma 2. panta otrajā daļā noteiktajam nodrošina vismaz vienam savā administratīvajā teritorijā esošam kultūras centram metodiskā kultūras centra statusu.
