@@ -1,8 +1,8 @@
-44.pants. Augstskolās un koledžās studējošie
+44.pants. Augstskolās studējošie
 (1) Augstskolās studējošie ir:
 1) bakalaura studiju programmu studenti;
-2) profesionālo studiju programmu studenti;
+2) profesionālo augstākās izglītības programmu (profesionālo studiju programmu) studenti;
 3) maģistra studiju programmu studenti (maģistranti);
 4) rezidenti medicīnā;
 5) doktoranti.
-(2) Koledžās studējošie ir profesionālo studiju programmu studenti.
+(2) (Izslēgta ar 15.09.2022. likumu)

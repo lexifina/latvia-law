@@ -1,24 +1,19 @@
-59. pants. Studijās iegūstamie grādi, profesionālā kvalifikācija un izsniedzamie diplomi
-(1) Atbilstoši valsts akreditētai studiju programmai augstskolā var iegūt akadēmisko izglītību un šādus grādus:
-1) akadēmisko bakalaura grādu;
-2) akadēmisko maģistra grādu;
-3) zinātnes doktora grādu.
-(1¹) Atbilstoši valsts akreditētai studiju programmai augstskolā var iegūt šādu profesionālo augstāko izglītību:
-1) pirmā līmeņa profesionālo augstāko izglītību un ceturtā līmeņa profesionālo kvalifikāciju;
-2) otrā līmeņa profesionālo augstāko izglītību:
-a) piektā līmeņa profesionālo kvalifikāciju,
-b) profesionālo bakalaura grādu un piektā līmeņa profesionālo kvalifikāciju,
-c) profesionālo maģistra grādu vai profesionālo maģistra grādu un piektā līmeņa profesionālo kvalifikāciju;
-3) profesionālo doktora grādu mākslās.
-(1²) Atbilstoši valsts akreditētai studiju programmai koledžā var iegūt pirmā līmeņa profesionālo augstāko izglītību un ceturtā līmeņa profesionālo kvalifikāciju.
-(2) Pēc akreditētas studiju programmas apguves izsniedz šādus valstiski atzītus diplomus:
-1) pēc pirmā līmeņa profesionālās augstākās izglītības programmas apguves - pirmā līmeņa profesionālās augstākās izglītības diplomu;
-2) pēc akadēmiskā bakalaura vai akadēmiskā maģistra studiju programmas apguves - bakalaura vai maģistra diplomu;
-3) pēc otrā līmeņa profesionālās augstākās izglītības programmas apguves izsniedz:
-a) profesionālās augstākās izglītības diplomu vai profesionālās kvalifikācijas diplomu,
-b) profesionālā bakalaura un profesionālās kvalifikācijas diplomu,
-c) profesionālā maģistra un profesionālās kvalifikācijas diplomu vai profesionālā maģistra diplomu;
-4) pēc akadēmiskās doktora studiju programmas apguves - doktora diplomu;
-5) pēc profesionālās doktora studiju programmas mākslās apguves - profesionālā doktora diplomu mākslās.
+59. pants. Studijās iegūstamais grāds, profesionālā kvalifikācija un izsniedzamais diploms
+(1) Apgūstot akreditētu attiecīgā cikla augstākās izglītības programmu, var iegūt:
+1) īsā cikla profesionālo augstāko izglītību un piektā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts īsā cikla profesionālās augstākās izglītības un profesionālās kvalifikācijas diploms;
+2) pirmā cikla augstāko izglītību:
+a) bakalaura grādu, par ko tiek izsniegts bakalaura diploms,
+b) bakalaura grādu un sestā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts bakalaura un profesionālās kvalifikācijas diploms,
+c) sestā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts profesionālās kvalifikācijas diploms;
+3) otrā cikla augstāko izglītību:
+a) maģistra grādu, par ko tiek izsniegts maģistra diploms,
+b) maģistra grādu un septītā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts maģistra un profesionālās kvalifikācijas diploms,
+c) septītā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts profesionālās kvalifikācijas diploms;
+4) trešā cikla augstāko izglītību:
+a) zinātnes doktora grādu, par ko tiek izsniegts zinātnes doktora diploms,
+b) profesionālo doktora grādu mākslās, par ko tiek izsniegts profesionālā doktora diploms mākslās.
+(1¹) (Izslēgta ar 15.09.2022. likumu)
+(1²) (Izslēgta ar 15.09.2022. likumu)
+(2) (Izslēgta ar 15.09.2022. likumu)
 (3) Zinātniskās kvalifikācijas iegūšana augstskolās notiek saskaņā ar Zinātniskās darbības likumu.
-(4) Kārtību, kādā pēc personas iesnieguma grādi un profesionālās kvalifikācijas, kas Latvijā iegūtas pirms šobrīd spēkā esošā grādu un profesionālo kvalifikāciju piešķiršanas regulējuma spēkā stāšanās, pielīdzināmas šajā likumā noteiktajiem grādiem un profesionālajām kvalifikācijām, un šīs pielīdzināšanas nosacījumus reglamentē Ministru kabinets. Grādu un profesionālo kvalifikāciju, kas iegūta Latvijā pirms spēkā esošā grādu un profesionālo kvalifikāciju piešķiršanas regulējuma spēkā stāšanās, šajā likumā noteiktajiem grādiem un profesionālajām kvalifikācijām pielīdzina Akadēmiskās informācijas centrs. Minētā grādu un profesionālo kvalifikāciju pielīdzināšana ir maksas pakalpojums saskaņā ar Ministru kabineta apstiprinātu maksas pakalpojumu cenrādi. Galvenie nosacījumi grādu un profesionālo kvalifikāciju pielīdzināšanai ir studiju ilgums pilna laika studijās un tiesību apjoms, ko grādi vai profesionālās kvalifikācijas deva laikā, kad to spēkā esamību paredzēja augstāko izglītību reglamentējoši normatīvie akti.
+(4) Kārtību, kādā pēc personas iesnieguma grādi un profesionālās kvalifikācijas, kas Latvijā iegūtas pirms tiesiskā regulējuma, kurš stājās spēkā 2000. gada 26. decembrī, pielīdzināmas šajā likumā noteiktajiem grādiem un profesionālajām kvalifikācijām, un šīs pielīdzināšanas nosacījumus reglamentē Ministru kabinets un pielīdzināšanu veic Akadēmiskās informācijas centrs. Minētā grādu un profesionālo kvalifikāciju pielīdzināšana ir maksas pakalpojums saskaņā ar Ministru kabineta apstiprinātu maksas pakalpojumu cenrādi. Galvenie nosacījumi grādu un profesionālo kvalifikāciju pielīdzināšanai ir studiju ilgums pilna laika studijās un tiesību apjoms, ko grādi vai profesionālās kvalifikācijas deva laikā, kad to spēkā esamību paredzēja augstāko izglītību reglamentējoši normatīvie akti.

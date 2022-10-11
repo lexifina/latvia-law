@@ -1,0 +1,1 @@
+93. Augstskola atbilstoši grozījumiem šā likuma 1. panta 8. punktā par termina "kredītpunkts" izteikšanu jaunā redakcijā nodrošina pāreju uz šā likuma 1. panta 9. un 10. punktā un 57. panta otrajā, trešajā, ceturtajā un piektajā daļā noteikto kredītpunktu apjomu līdz 2024. gada 31. decembrim.

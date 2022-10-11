@@ -1,5 +1,5 @@
 56.¹ pants. Studiju kurss
-(1) Augstskolas un koledžas nosaka kārtību, kādā izstrādājami un iekļaujami studiju programmās studiju kursi, lai nodrošinātu studiju programmas kopējo studiju rezultātu sasniegšanu. Studiju kursa aprakstu sagatavo un apstiprina augstskolas un koledžas noteiktajā kārtībā.
+(1) Augstskolas nosaka kārtību, kādā izstrādājami un iekļaujami studiju programmās studiju kursi, lai nodrošinātu studiju programmas kopējo studiju rezultātu sasniegšanu. Studiju kursa aprakstu sagatavo un apstiprina augstskolas noteiktajā kārtībā.
 (2) Studiju kursa apraksts:
 1) definē prasības studiju kursa apguves uzsākšanai;
 2) nosaka studiju kursa īstenošanas mērķi un plānotos studiju rezultātus;

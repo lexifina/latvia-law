@@ -1,2 +1,2 @@
 VI nodaļa
-Studijas augstskolā
+Studijas studiju programmās

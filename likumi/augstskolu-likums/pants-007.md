@@ -1,10 +1,10 @@
-7.pants. Augstskolu un koledžu juridiskais statuss un atribūtika
+7.pants. Augstskolu juridiskais statuss un atribūtika
 (1) Valsts dibinātās augstskolas (izņemot Latvijas Nacionālo aizsardzības akadēmiju) ir atvasinātas publiskas personas.
-(2) Latvijas Nacionālā aizsardzības akadēmija un valsts dibinātās koledžas ir valsts iestādes. Dibinot koledžas, Ministru kabinets nodod tās Izglītības un zinātnes ministrijas pārraudzībā, bet Iekšlietu ministrijas sistēmā esošās koledžas - attiecīgi Iekšlietu ministrijas sistēmas iestāžu padotībā. Ministru kabinets var nodot koledžu Kultūras ministrijas vai Labklājības ministrijas padotībā.
+(2) Latvijas Nacionālā aizsardzības akadēmija ir valsts iestāde.
 (2¹) Latvijas Nacionālā aizsardzības akadēmija ir Nacionālo bruņoto spēku sastāvdaļa. Jautājumos, kuri neskar Nacionālo bruņoto spēku komandiera kompetenci, Latvijas Nacionālā aizsardzības akadēmija ir aizsardzības ministra pārraudzībā. Attiecībā uz šo augstskolu Ministru kabinets:
 1) nosaka Latvijas Nacionālās aizsardzības akadēmijas un tās pārvaldes institūciju - padomes, senāta, rektora un akadēmiskās šķīrējtiesas - kompetenci, ciktāl tā atšķiras no šajā likumā noteiktās, šīs augstskolas rektora iecelšanas, apstiprināšanas un atbrīvošanas kārtību, prasības attiecībā uz šīs augstskolas akadēmiskā personāla kvalifikāciju, akadēmiskā personāla, kas nav profesionālā dienesta karavīri, atalgojuma noteikšanas kārtību, administratīvo aktu un faktiskās rīcības apstrīdēšanas kārtību, kā arī šīs augstskolas finansēšanas kārtību;
 2) ir tiesīgs, ja to prasa šīs augstskolas militārā vai profesionālā specifika, paredzēt citu kārtību studējošo skaita noteikšanai, studējošo un akadēmiskā personāla komplektēšanai, studiju līgumu slēgšanai, studiju programmu ekspertīzei pirms apstiprināšanas un studējošo pašpārvaldes finansēšanai, kā arī atšķirīgas prasības rektora kvalifikācijai un ierobežojumus šajā likumā noteiktajām studējošo un studējošo pašpārvaldes tiesībām.
-(2²) Ministru kabinets nosaka Iekšlietu ministrijas sistēmā esošo koledžu un tajās studējošo pašpārvaldes finansēšanas un akadēmiskā personāla (izņemot amatpersonas ar speciālajām dienesta pakāpēm) atlīdzības noteikšanas kārtību.
-(3) Privātpersonu dibinātās augstskolas un koledžas ir komercsabiedrības vai nodibinājumi, kas darbojas saskaņā ar Komerclikumu vai Biedrību un nodibinājumu likumu, ciktāl tas nav pretrunā ar šo likumu.
+(2²) (Izslēgta ar 15.09.2022. likumu)
+(3) Privātpersonu dibinātās augstskolas ir komercsabiedrības vai nodibinājumi, kas darbojas saskaņā ar Komerclikumu vai Biedrību un nodibinājumu likumu, ciktāl tas nav pretrunā ar šo likumu.
 (4) Valstiski atzītā diplomā izmanto valsts ģerboņa attēlu, un šāda diploma paraugu nosaka Ministru kabinets.
 (5) Augstskolai ir zīmogs ar augstskolas pilnu nosaukumu. Augstskolai ir tiesības zīmogā izmantot arī augstskolas vēsturiski izveidojušos simboliku.

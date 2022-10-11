@@ -1,0 +1,1 @@
+95. Ministru kabinets sešu mēnešu laikā pēc tam, kad stājas spēkā grozījumi šā likuma 27. pantā par tā papildināšanu ar sesto daļu attiecībā uz kompetences atzīšanu akadēmiskā personāla amata pretendentam, kuram nav doktora grāda, izdod šajā daļā minētos noteikumus.
