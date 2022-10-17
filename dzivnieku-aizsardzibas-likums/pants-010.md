@@ -23,7 +23,7 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 7) dzīvnieku labturības prasības dzīvnieku patversmēs un dzīvnieku viesnīcās, kā arī dzīvnieku veterinārmedicīniskās aprūpes iestādēs;
 8) dzīvnieku pārvadāšanas kārtību, labturības prasības dzīvnieku pārvadāšanai transportlīdzeklī, kā arī kārtību, kādā izsniedz un reģistrē dzīvnieku pārvadātāja atļauju un atļauju transportlīdzeklim dzīvnieku pārvadāšanai;
 9) (izslēgts ar 08.03.2012. likumu);
-10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās, kažokzvēru fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;
+10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;
 11) kritērijus un kārtību, kādā suni atzīst par bīstamu, nosaka turpmāko rīcību ar to un prasības bīstama suņa turēšanai;
 12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;
 13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
