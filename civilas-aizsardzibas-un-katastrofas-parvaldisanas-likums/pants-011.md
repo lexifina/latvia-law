@@ -17,7 +17,7 @@
 (4) Ja pašvaldības domes priekšsēdētājs ir iecelts par sadarbības teritorijas civilās aizsardzības komisijas priekšsēdētāju, viņš nodrošina, ka sadarbībā ar valsts un pašvaldību institūcijām, juridiskajām un fiziskajām personām:
 1) tiek izstrādāts, ar Valsts ugunsdzēsības un glābšanas dienestu saskaņots un katras pašvaldības domei apstiprināšanai iesniegts sadarbības teritorijas civilās aizsardzības komisijas nolikums;
 2) tiek noteikts un katras pašvaldības domei apstiprināšanai iesniegts sadarbības teritorijas civilās aizsardzības komisijas sastāvs;
-3) tiek izstrādāts un katras pašvaldības domei apstiprināšanai iesniegts sadarbības teritorijas civilās aizsardzības plāna projekts, kas aptver šā likuma 6.panta pirmās daļas 9.punktā minētās katastrofas un šā panta pirmās daļas 5.punktā minētos uzdevumus.
+3) tiek izstrādāts un iesniegts apstiprināšanai katrā pašvaldības domē sadarbības teritorijas civilās aizsardzības plāna projekts.
 (5) Civilās aizsardzības uzdevumu izpildi pašvaldības institūcijā nodrošina un vada pašvaldības institūcijas vadītājs.
 (6) Pašvaldības institūcijas vadītāja uzdevumi ir šādi:
 1) plānot un īstenot pašvaldības institūcijas nepārtrauktas darbības nodrošināšanai katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību;
