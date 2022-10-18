@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 11. oktobra noteikumi Nr. 635 \"Ierobežoto radiofrekvenču joslu noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201",
+  "official_journal_page": null,
+  "official_journal_date": "2022-10-17",
+  "entry_into_force": "2022-10-18",
+  "notification_date": "2023-01-13",
+  "commission_reference": "MNE(2023)00397",
+  "nim_celex": "72018L1972LVA_202300397",
+  "nim_id": "202300397",
+  "transposes_celex": [
+    "32018L1972"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0e46f7bd-989e-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
