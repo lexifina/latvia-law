@@ -1,0 +1,3 @@
+23. pants. Projekta iesnieguma precizēšana
+(1) Atklātas projektu atlases ietvaros iesniegtais projekta iesniegums pēc tā iesniegšanas līdz dienai, kad pieņemts lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu, nav precizējams.
+(2) Ierobežotas projektu atlases ietvaros iesniegto projekta iesniegumu pēc tā iesniegšanas līdz dienai, kad pieņemts lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu, var precizēt, iepriekš saskaņojot ar Nacionālo koordinācijas centru. Nacionālais koordinācijas centrs ir tiesīgs nesaskaņot projekta iesnieguma precizēšanu, ja projekta iesniegums iepriekš jau ticis precizēts vai ja no projektu iesniegumu iesniegšanas termiņa beigām ir pagājušas vismaz 30 dienas.

@@ -1,0 +1,2 @@
+25. pants. Strīdu risināšanas kārtība, ja finansējuma saņēmējs ir privāto tiesību juridiskā persona vai tiesībspējīga personālsabiedrība
+Ja finansējuma saņēmējs ir privāto tiesību juridiskā persona vai tiesībspējīga personālsabiedrība, tad strīdus, kas attiecas uz projekta līguma izpildi, tai skaitā piešķirto finanšu līdzekļu izmaksāšanu, izmaksu turpināšanu vai līdzekļu atgūšanu, risina civiltiesiskā kārtībā.

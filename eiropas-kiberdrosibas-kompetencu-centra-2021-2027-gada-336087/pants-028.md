@@ -1,0 +1,3 @@
+28. pants. Tiesības iepazīties ar projekta lietu
+(1) Projekta iesnieguma iesniedzējam jebkurā procesa stadijā ir tiesības iepazīties ar tā iesniegtā projekta lietu. Projekta iesnieguma iesniedzējam ir tiesības iepazīties ar iesniegtā projekta iesnieguma vērtēšanas materiāliem (tai skaitā ekspertu atzinumiem, vērtēšanas komisijas protokoliem un lēmumiem) tikai pēc tam, kad stājies spēkā lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.
+(2) Nacionālais koordinācijas centrs un aģentūra šā panta pirmajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc pieprasījuma saņemšanas.

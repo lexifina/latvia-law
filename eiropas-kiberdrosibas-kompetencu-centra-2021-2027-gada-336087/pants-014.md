@@ -1,0 +1,2 @@
+14. pants. Lēmuma par kopienas dalībnieka reģistrāciju, reģistrācijas atteikumu vai izslēgšanu no kopienas dalībnieku reģistra apstrīdēšanas un pārsūdzēšanas kārtība
+Šā likuma 11. panta otrajā daļā vai 12. panta pirmajā daļā minēto Nacionālā koordinācijas centra lēmumu, ja tas ir administratīvais akts, var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Ja minētais Nacionālā koordinācijas centra lēmums nav administratīvais akts, tas ir apstrīdams, bet nav pārsūdzams.

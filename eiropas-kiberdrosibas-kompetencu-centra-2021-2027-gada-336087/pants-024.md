@@ -1,0 +1,2 @@
+24. pants. Aģentūras lēmumu apstrīdēšana un pārsūdzēšana
+Projekta iesnieguma iesniedzējs var apstrīdēt šā likuma 19. panta pirmajā vai otrajā daļā minēto aģentūras lēmumu, iesniedzot attiecīgu iesniegumu Nacionālā koordinācijas centra vadītājam. Nacionālā koordinācijas centra izdoto administratīvo aktu par apstrīdēto aģentūras lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Ja Nacionālā koordinācijas centra pieņemtais lēmums par apstrīdēto aģentūras lēmumu nav administratīvais akts, tas ir apstrīdams, bet nav pārsūdzams.
