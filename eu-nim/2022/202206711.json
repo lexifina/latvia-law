@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2022. gada 11. oktobra Ministru kabineta noteikumi Nr. 630\nGrozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu bīstamu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2022/201.5",
+  "official_journal_page": null,
+  "official_journal_date": "2022-10-17",
+  "entry_into_force": "2022-10-18",
+  "notification_date": "2022-10-19",
+  "commission_reference": "MNE(2022)06711",
+  "nim_celex": "72022L0281LVA_202206711",
+  "nim_id": "202206711",
+  "transposes_celex": [
+    "32022L0281"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/afcdc51b-5384-11ed-92ed-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
