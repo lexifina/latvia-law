@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 18. oktobra noteikumi Nr. 644 \"Grozījumi Ministru kabineta 2015. gada 30. jūnija noteikumos Nr. 332 \"Noteikumi par Latvijas būvnormatīvu LBN 221-15 \"Ēku iekšējais ūdensvads un kanalizācija\"\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "204",
+  "official_journal_page": null,
+  "official_journal_date": "2022-10-20",
+  "entry_into_force": "2022-10-21",
+  "notification_date": "2023-05-18",
+  "commission_reference": "MNE(2023)02826",
+  "nim_celex": "72020L2184LVA_202302826",
+  "nim_id": "202302826",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa51b3a5-f86f-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
