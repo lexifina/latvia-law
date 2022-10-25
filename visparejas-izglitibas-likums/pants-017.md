@@ -8,3 +8,4 @@
 6) izglītojamā mācību sasniegumu vērtēšanas kārtība;
 7) izglītības programmas īstenošanai nepieciešamā personāla, finanšu un materiālo līdzekļu izvērtējums un pamatojums.
 (2) Vispārējās izglītības programmas var izstrādāt to īstenotāji, ievērojot izglītības programmu klasifikāciju.
+(3) Vispārējās izglītības programmas apguvē tās īstenotāji izglītojamiem nodrošina sistēmisku atbalstu sociāli emocionālās kompetences attīstīšanai.

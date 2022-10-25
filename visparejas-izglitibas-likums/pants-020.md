@@ -7,4 +7,4 @@
 5) psiholoģisko sagatavošanu pamatizglītības ieguves uzsākšanai;
 6) valsts valodas lietošanas pamatiemaņu apguvi.
 (2) Pirmsskolas izglītības programmu apgūst bērni līdz septiņu gadu vecumam.
-(3) Izglītības iestādes, kuras īsteno pirmsskolas izglītības programmas, sniedz atbalstu latviešu valodas apguvei izglītojamiem, kuriem tas nepieciešams, tai skaitā izglītojamiem, kuriem tā nav dzimtā valoda.
+(3) Izglītības iestādes, kuras īsteno pirmsskolas izglītības programmas, sniedz individualizētu un personalizētu atbalstu valsts valodas prasmes apguvei izglītojamiem, kuriem tas nepieciešams.

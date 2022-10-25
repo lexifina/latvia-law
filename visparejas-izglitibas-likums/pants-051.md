@@ -1,5 +1,5 @@
 51.pants. Speciālās izglītības iestādes un klases
-(1) Izglītojamie ar speciālām vajadzībām speciālās izglītības programmas var apgūt vispārizglītojošās klasēs, vispārizglītojošo iestāžu speciālajās klasēs vai grupās vai speciālās izglītības iestādēs.
+(1) Izglītojamie ar speciālām vajadzībām speciālās izglītības programmas var apgūt vispārizglītojošās klasēs, vispārizglītojošo iestāžu speciālajās klasēs vai grupās vai speciālās izglītības iestādēs. Izglītojamie ar speciālajām vajadzībām speciālās izglītības programmas var apgūt arī tehnikumā un profesionālajā vidusskolā, kas īsteno vispārējās izglītības programmas sadarbībā ar Ieslodzījuma vietu pārvaldi.
 (2) Ir šādas speciālās izglītības iestādes:
 1) (izslēgts ar 21.06.2018. likumu);
 2) pašvaldību speciālās izglītības iestādes;
