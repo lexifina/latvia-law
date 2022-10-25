@@ -1,0 +1,1 @@
+107. Ministru kabinets līdz 2022. gada 31. decembrim izdara grozījumus Ministru kabineta 2019. gada 25. jūnija noteikumos Nr. 276 "Valsts izglītības informācijas sistēmas noteikumi" atbilstoši grozījumiem šā likuma 30. pantā par tā papildināšanu ar septīto un astoto daļu un 48. pantā par tā papildināšanu ar septīto un astoto daļu.

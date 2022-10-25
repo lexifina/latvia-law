@@ -1,0 +1,2 @@
+47.³ pants. Mazākumtautību valodas un kultūrvēstures interešu izglītības programmas
+Pašvaldība nodrošina iespēju mazākumtautību izglītojamiem, kuri tās administratīvajā teritorijā esošajās vispārējās izglītības iestādēs apgūst pirmsskolas izglītības programmu vai pamatizglītības programmu, bez maksas apgūt arī mazākumtautību izglītības saturu mazākumtautību valodas un kultūrvēstures interešu izglītības programmās. Lai nodrošinātu mazākumtautību izglītojamiem iespēju apgūt šīs programmas, pašvaldība var deleģēt šādu programmu īstenošanu privātpersonai.

@@ -1,0 +1,1 @@
+106. Izglītības iestādes nodrošina pirmsskolas izglītības un pamatizglītības programmu atbilstību valsts pirmsskolas izglītības vadlīnijām un valsts pamatizglītības standartam, ja nepieciešams, licencējot jaunas izglītības programmas, līdz 2025. gada 31. augustam.

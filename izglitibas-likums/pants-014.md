@@ -59,4 +59,6 @@ Ministru kabinets:
 43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā;
 44) nosaka kārtību, kādā aprēķina, piešķir un izlieto valsts budžetā paredzētos līdzekļus to izglītojamo ēdināšanai, kuri klātienē apgūst pamatizglītības programmas 1., 2., 3. un 4. klasē, un šo valsts budžeta līdzekļu apmēru vienam izglītojamam dienā;
 45) nosaka attālināto mācību organizēšanas un īstenošanas kārtību;
-46) nosaka kārtību, kādā izglītības iestāžu dibinātāji novērtē izglītības iestāžu vadītāju profesionālo darbību.
+46) nosaka kārtību, kādā izglītības iestāžu dibinātāji novērtē izglītības iestāžu vadītāju profesionālo darbību;
+47) nosaka mazākumtautību valodas un kultūrvēstures interešu izglītības programmas paraugu un tās īstenošanas vadlīnijas;
+48) nosaka kritērijus un kārtību, kādā valsts piedalās mazākumtautību valodas un kultūrvēstures interešu izglītības programmas īstenošanā iesaistīto pedagogu darba samaksas un mācību līdzekļu iegādes finansēšanā.

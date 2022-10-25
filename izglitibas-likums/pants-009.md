@@ -3,7 +3,7 @@
 (1¹) Privātajās izglītības iestādēs vispārējo izglītību un profesionālo izglītību pamatizglītības un vidējās izglītības pakāpē iegūst valsts valodā.
 (2) Citā valodā izglītību var iegūt:
 1) izglītības iestādēs, kuras īsteno izglītības programmas saskaņā ar Latvijas Republikas divpusējiem vai daudzpusējiem starptautiskajiem līgumiem;
-2) izglītības iestādēs, kuras īsteno mazākumtautību izglītības programmas pirmsskolas izglītības un pamatizglītības pakāpē, ievērojot šā likuma 41. panta noteikumus;
+2) (izslēgts ar 29.09.2022. likumu);
 2¹) izglītības iestādēs, kurās vispārējās izglītības programmu mācību priekšmetus pilnībā vai daļēji īsteno svešvalodā, lai nodrošinātu citu Eiropas Savienības oficiālo valodu apguvi, ievērojot attiecīgā valsts izglītības standarta nosacījumus;
 3) citos likumos paredzētās izglītības iestādēs.
 (2¹) Izglītības iestādēs, kuras īsteno speciālās izglītības programmas izglītojamajiem ar dzirdes traucējumiem, kā arī citās izglītības iestādēs, kurās tiek nodrošināta atbilstoša mācību vide izglītības ieguvei latviešu zīmju valodā, izglītību var iegūt latviešu zīmju valodā.

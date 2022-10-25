@@ -7,7 +7,7 @@
 5) interešu izglītības programmas;
 6) neformālās izglītības programmas.
 (2) Izglītības programmu īpašie veidi ir:
-1) mazākumtautību izglītības programmas;
+1) (izslēgts ar 29.09.2022. likumu);
 2) speciālās izglītības programmas;
 3) sociālās korekcijas izglītības programmas;
 4) (izslēgts ar 15.09.2022. likumu);
