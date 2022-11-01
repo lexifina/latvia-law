@@ -1,0 +1,3 @@
+18.¹ pants. Aizsargjoslu izveidošana un atlīdzība par zemes lietošanas tiesību aprobežojumu
+(1) Jaunas valsts publiskās lietošanas dzelzceļa infrastruktūras objekta būvniecības (ierīkošanas) vai pārbūves gadījumā, ja šai dzelzceļa infrastruktūrai un ar to saistītajiem objektiem ir noteikts nacionālo interešu objekta statuss, objekta īpašniekam vai valdītājam ir tiesības aizsargjoslu saskaņošanas procedūru aizstāt ar zemes īpašnieka vai tiesiskā valdītāja informēšanu par plānoto aizsargjoslu ne vēlāk kā līdz objekta nodošanai ekspluatācijā.
+(2) Par jaunu īpašuma lietošanas aprobežojumu noteikšanu nekustamā īpašuma īpašniekam pienākas vienreizēja atlīdzība. Atlīdzības aprēķināšanas un izmaksāšanas kārtību nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+62. Līdz šā likuma 36. panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. decembrim piemērojami Ministru kabineta 2010. gada 3. augusta noteikumi Nr. 724 "Dzelzceļa tehniskās ekspluatācijas noteikumi", ciktāl tie nav pretrunā ar šo likumu.

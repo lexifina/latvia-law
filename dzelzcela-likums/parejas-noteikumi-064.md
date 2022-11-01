@@ -1,0 +1,1 @@
+64. Līdz 2022. gada 31. decembrim Satiksmes ministrija sadarbībā ar Zemkopības ministriju iesniedz Ministru kabinetam kopīgu ziņojumu, kurā izvērtēts dzelzceļa pārbrauktuvju slēgšanas kārtības tiesiskais regulējums, iespējamie tā pilnveidojumi, kā arī ietekme uz lauksaimniecības attīstību.
