@@ -18,6 +18,7 @@
 (2) Militārā policija papildus šā panta pirmajā daļā noteiktajiem pasākumiem veic šādus pasākumus:
 1) Valsts prezidenta noteiktajā kārtībā nodrošina Valsts prezidenta, viņa ģimenes locekļu, jaunievēlētā Valsts prezidenta (laikā no ievēlēšanas līdz svinīgā solījuma došanai), personas, kas ieņēma Valsts prezidenta amatu, Valsts prezidenta kancelejas un Valsts prezidenta rezidences aizsardzību (apsardzi);
 2) Ministru kabineta noteiktajā kārtībā nodrošina Valsts prezidenta uzaicināto ārvalstu un starptautisko organizāciju pārstāvju aizsardzību (apsardzi);
+2¹) pēc Latvijas Bankas pieprasījuma, pamatojoties uz vienošanos starp Latvijas Banku un Nacionālajiem bruņotajiem spēkiem, iesaistās Latvijas Bankas objektu fiziskās drošības nodrošināšanā, pavadot un apsargājot skaidrās naudas pārvadājumus un veicot nekustamā īpašuma apsardzi, ja nepieciešams, uzdevuma izpildē iesaistot citu Nacionālo bruņoto spēku vienību karavīrus vai Latvijas Republikas Zemessardzes zemessargus. Ar šajā punktā minēto pasākumu veikšanu saistītās izmaksas Nacionālajiem bruņotajiem spēkiem sedz Latvijas Banka;
 3) aizsardzības ministra noteiktajā kārtībā:
 a) veic Aizsardzības ministrijas un Nacionālo bruņoto spēku komandiera uzaicināto ārvalstu amatpersonu un starptautisko organizāciju pārstāvju aizsardzību (apsardzi),
 b) veic aizsardzības ministra un Nacionālo bruņoto spēku komandiera noteikto amatpersonu aizsardzību (apsardzi),
