@@ -1,11 +1,11 @@
 7.¹ pants. Valsts budžeta finansējums
 (1) Politiskajai organizācijai (partijai), par kuru pēdējās Saeimas vēlēšanās nobalsojuši vairāk nekā divi procenti vēlētāju, piešķir valsts budžeta finansējumu kalendāra gada laikā:
-1) 4,50 euro apmērā par katru iegūto balsi pēdējās Saeimas vēlēšanās;
-2) 0,50 euro apmērā par katru iegūto balsi pēdējās pašvaldības domes vēlēšanās;
-3) 0,50 euro par katru iegūto balsi pēdējās Eiropas Parlamenta vēlēšanās.
-(2) Politiskajai organizācijai (partijai), par kuru pēdējās Saeimas vēlēšanās nobalsojuši vairāk nekā pieci procenti vēlētāju, papildus šā panta pirmajā daļā minētajam piešķir valsts budžeta finansējumu kalendāra gada laikā 100 000 euro apmērā.
+1) 0,9 procentus no minimālās mēnešalgas par katru iegūto balsi pēdējās Saeimas vēlēšanās;
+2) 0,1 procentu no minimālās mēnešalgas par katru iegūto balsi pēdējās pašvaldības domes vēlēšanās;
+3) 0,1 procentu no minimālās mēnešalgas par katru iegūto balsi pēdējās Eiropas Parlamenta vēlēšanās.
+(2) Politiskajai organizācijai (partijai), par kuru pēdējās Saeimas vēlēšanās nobalsojuši vairāk nekā pieci procenti vēlētāju, neatkarīgi no šā panta pirmajā daļā minētā finansējuma piešķir valsts budžeta finansējumu kalendāra gada laikā 200 minimālo mēnešalgu apmērā.
 (3) Valsts budžeta finansējumu piešķir uz četriem gadiem un izmaksā, sākot ar nākamo kalendāra gadu pēc Saeimas vēlēšanām. Maksājumus veic divas reizes gadā - līdz 15. janvārim un līdz 15. jūlijam. Pēc Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanām Korupcijas novēršanas un apkarošanas birojs pārrēķina šā panta pirmās daļas 2. un 3. punktā paredzēto valsts budžeta finansējumu, ievērojot Saeimas, pašvaldības domes vai Eiropas Parlamenta vēlēšanu rezultātus, un to izmaksā, sākot ar nākamo kalendāra gadu.
 (4) Ja notiek Saeimas ārkārtas vēlēšanas, valsts budžeta finansējumu piešķir uz jaunievēlētās Saeimas pilnvaru laiku, šajā termiņā ieskaitot arī pēdējo tā kalendāra gada ceturksni, kurā attiecīgās Saeimas pilnvaras beidzas. Valsts budžeta finansējuma izmaksu uzsāk ar nākamo kalendāra gada ceturksni pēc balsu skaitīšanas rezultātu apstiprināšanas un maksājumus veic šā panta otrajā daļā noteiktajā termiņā.
 (5) Politiskā organizācija (partija) kalendāra gada laikā piešķirto, bet neizlietoto valsts budžeta finansējumu var izlietot triju nākamo kalendāra gadu laikā. Ja politiskā organizācija (partija) neizlieto kalendāra gadā piešķirto budžeta finansējumu triju nākamo kalendāra gadu laikā, tā neizlietoto valsts budžeta finansējuma daļu ieskaita atpakaļ valsts budžetā līdz nākamā gada 15. janvārim.
-(6) Kopējais vienai politiskajai organizācijai (partijai) piešķirtais valsts budžeta finansējuma apmērs viena kalendāra gada laikā nedrīkst pārsniegt 800 000 euro.
+(6) Kopējais vienai politiskajai organizācijai (partijai) piešķirtais valsts budžeta finansējuma apmērs viena kalendāra gada laikā nedrīkst pārsniegt 1600 minimālās mēnešalgas.
 (7) Šā panta pirmās daļas 2. punktā paredzētais valsts budžeta finansējums netiek piešķirts par balsīm, kas nodotas par kandidātu sarakstu, kuru Republikas pilsētas domes un novada domes vēlēšanu likumā paredzētajā kārtībā iesniegušas vēlētāju apvienības vai divas vai vairākas reģistrētas politiskās partijas, kuras nav apvienojušās reģistrētā politisko organizāciju (partiju) apvienībā.
