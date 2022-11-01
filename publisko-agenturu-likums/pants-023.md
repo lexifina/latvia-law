@@ -11,5 +11,5 @@
 6) pašvaldības piešķirtā finansējuma nepieciešamības pamatojumu turpmākajam plānošanas periodam;
 7) stratēģijas aktualizēšanas un īstenošanas novērtēšanas kārtību;
 8) citus jautājumus, kurus pašvaldības domes priekšsēdētājs vai pašvaldības aģentūras direktors uzskata par būtiskiem.
-(5) Pašvaldības aģentūras vidēja termiņa darbības stratēģija ir publiski pieejama attiecīgās pašvaldības mājaslapā internetā.
+(5) Pašvaldības aģentūras vidēja termiņa darbības stratēģija ir publiski pieejama attiecīgās pašvaldības tīmekļvietnē.
 (6) Darba plānu kārtējam gadam pašvaldības aģentūra izstrādā atbilstoši vidēja termiņa darbības stratēģijai un budžetam, nosakot gada laikā sasniedzamos rezultātus un šo rezultātu sasniegšanai veicamos pasākumus.

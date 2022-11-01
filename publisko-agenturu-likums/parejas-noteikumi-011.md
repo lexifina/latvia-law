@@ -1,0 +1,1 @@
+11. Valsts aģentūras direktoru, kurš nav valsts civildienesta ierēdnis un turpina pildīt direktora pienākumus pēc 2022. gada 31. oktobra, ar 2022. gada 1. novembri ieceļ valsts civildienesta ierēdņa amatā, ja viņš atbilst valsts civildienesta ierēdnim noteiktajām obligātajām prasībām.

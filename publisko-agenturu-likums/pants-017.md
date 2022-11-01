@@ -4,4 +4,4 @@
 (3) Pašvaldības aģentūra, ievērojot Valsts pārvaldes iekārtas likumā noteiktos sadarbības ietvara pamatprincipus, sniedz pakalpojumus citām valsts un pašvaldību iestādēm un privātpersonām, kas īsteno pārvaldes uzdevumus, bez maksas, ja tas neprasa pašvaldības aģentūrai papildu resursus datu apstrādei un analīzei.
 (4) Pašvaldības aģentūras sniegtos pakalpojumus nosaka un to cenrādi apstiprina ar pašvaldības saistošajiem noteikumiem.
 (5) Pašvaldības aģentūras sniegto pakalpojumu izcenojumi stājas spēkā likumā "Par pašvaldībām" noteiktajā kārtībā.
-(6) Informācija par pašvaldības aģentūras sniegto pakalpojumu izcenojumiem un atbrīvojumiem no maksas publicējama attiecīgās pašvaldības mājaslapā internetā.
+(6) Informācija par pašvaldības aģentūras sniegto pakalpojumu izcenojumiem un atbrīvojumiem no maksas publicējama attiecīgās pašvaldības tīmekļvietnē.

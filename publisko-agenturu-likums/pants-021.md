@@ -6,5 +6,5 @@
 4) sniedz pašvaldības domei un tās pilnvarotajai amatpersonai nepieciešamo informāciju un priekšlikumus pašvaldības aģentūras darbības jautājumos;
 5) veic citus uzdevumus, kas noteikti pašvaldības darbību reglamentējošos normatīvajos aktos.
 (2) Pašvaldības aģentūras direktors ir atbildīgs par pašvaldības aģentūras finanšu līdzekļu racionālu izlietošanu atbilstoši veicamajiem pārvaldes uzdevumiem.
-(3) Uz pašvaldības aģentūras direktora amatu izsludina atklātu konkursu attiecīgās pašvaldības administratīvās teritorijas laikrakstā un pašvaldības mājaslapā internetā.
-(4) Pašvaldības aģentūras direktoru amatā apstiprina pašvaldības dome uz pieciem gadiem. Novērtējot pašvaldības aģentūras darbības rezultātus, pašvaldības aģentūras direktoru var apstiprināt amatā atkārtoti vai atbrīvot no amata pirms noteiktā termiņa.
+(3) Uz pašvaldības aģentūras direktora amatu izsludina atklātu konkursu attiecīgās pašvaldības administratīvās teritorijas laikrakstā un pašvaldības tīmekļvietnē.
+(4) Pašvaldības aģentūras direktoru amatā ieceļ pašvaldības dome uz pieciem gadiem. Novērtējot pašvaldības aģentūras darbības rezultātus, pašvaldības aģentūras direktoru var iecelt amatā atkārtoti vai atbrīvot no tā pirms noteiktā termiņa.

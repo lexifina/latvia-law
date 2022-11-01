@@ -1,0 +1,4 @@
+29.¹ pants. Valsts un pašvaldību kopīgi izveidotas aģentūras izveidošana, reorganizēšana un likvidēšana
+(1) Valsts un pašvaldības kopīgi izveidotu aģentūru izveido, reorganizē un likvidē Ministru kabinets, pamatojoties uz likumu vai pēc Ministru kabineta un attiecīgās pašvaldības iniciatīvas, ievērojot Valsts pārvaldes iekārtas likuma 15. panta prasības.
+(2) Izveidojot, reorganizējot vai likvidējot valsts un pašvaldības kopīgi izveidotu aģentūru, Ministru kabinets un attiecīgā pašvaldība izvērtē tās izveidošanas, reorganizēšanas vai likvidēšanas nepieciešamību, pamatojoties uz šā likuma 3. panta trešajā daļā minētajiem apsvērumiem.
+(3) Ja valsts un pašvaldības kopīgi izveidota aģentūra tiek reorganizēta vai likvidēta, sagatavo tās slēguma bilanci, norādot mantas vērtību un saistību un prasību apjomu, kas pāriet valstij un attiecīgajai pašvaldībai, pamatojoties uz inventarizācijas un grāmatvedības uzskaites datiem.
