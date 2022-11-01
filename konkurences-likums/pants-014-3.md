@@ -5,4 +5,4 @@
 1) kura pārstāvji bija tirgus dalībnieku apvienības lēmējinstitūcijas locekļi, nepārsniedzot 10 procentus no tā kopējā apgrozījuma pasaulē pēdējā finanšu gadā;
 2) kurš darbojas tirgū, kurā tika konstatēts tirgus dalībnieku apvienības pārkāpums, nepārsniedzot 10 procentus no tā kopējā apgrozījuma pasaulē pēdējā finanšu gadā.
 (4) Konkurences padomes lēmums par naudas soda uzlikšanu saskaņā ar šā panta trešo daļu nav izpildāms pret tirgus dalībnieku apvienības dalībnieku, kurš pierāda, ka nav īstenojis vienošanos un vai nu nav zinājis par tās esību, vai pirms izmeklēšanas sākuma aktīvi distancējies no tās.
-(5) (Daļa stājas spēkā 01.11.2022. un iekļauta likuma redakcijā uz 01.11.2022. Sk. Pārejas noteikumu 24. punktu)
+(5) Ministru kabinets izdod noteikumus par naudas soda apmēra noteikšanas kārtību, kuros paredz finanšu gada neto apgrozījuma aprēķināšanas īpatnības un naudas soda apmēra aprēķināšanas kārtību, ņemot vērā attiecīgā pārkāpuma smagumu un ilgumu, atbildību mīkstinošos un pastiprinošos apstākļus, kā arī nosakot gadījumus, kad ir tiesības samazināt naudas sodu.
