@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 1,
+ "datums": "2022-11-01",
+ "ieraksts": {
+  "dkp_id": "b5e9093e-0a19-4ce1-bad9-f38ac87d2f83",
+  "lastmodtime": "\"AAAAAAIADfE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Svetlana Čulkova#Armands Krauze",
+  "CANDIDATERESULT": "12:87#87:12",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.11.2022 18:20:04",
+  "VOTEMOTIVE": "Saeimas sekretāra vēlēšanas",
+  "VOTING_ID": "19adca37-afa8-46ac-90de-eaac2128615c",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e2b911b3-f6dd-4bf1-944a-52b5cd1d14a5/download/14.saeimas-2022.gada-rudens-sesija-1-vote.xml",
+  "sha256": "f8b01ab5c697a5b19f8fa50a96d90908c5cc272d38c5ee27ff96b7105589d0af",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
