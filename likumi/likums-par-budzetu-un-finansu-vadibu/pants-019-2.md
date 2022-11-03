@@ -1,2 +1,2 @@
-19.² pants. Valsts aizdevumu iekļaušana gadskārtējā valsts budžeta likuma projektā
-Kārtību, kādā ministrijas un citas centrālās valsts iestādes iekļauj gadskārtējā valsts budžeta likuma projektā valsts aizdevumu pieprasījumus, nosaka Ministru kabinets.
+19.² pants. Valsts aizdevumu iekļaušana valsts budžeta likumprojektā
+Kārtību, kādā ministrijas un citas centrālās valsts iestādes iekļauj valsts budžeta likumprojektā valsts aizdevumu pieprasījumus, nosaka Ministru kabinets.

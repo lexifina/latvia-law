@@ -1,1 +1,0 @@
-65. Grozījumi šajā likumā par I nodaļas papildināšanu ar terminu "Ietvara likumprojektu pakete" un tā skaidrojumu, grozījumi III nodaļas nosaukumā, grozījumi 16.pantā par tā izteikšanu jaunā redakcijā, kā arī grozījumi 16.² pantā attiecībā uz ietvara likumprojektu paketi stājas spēkā vienlaikus ar attiecīgajiem grozījumiem Saeimas kārtības rullī.

@@ -1,8 +1,8 @@
 5. pants. Valsts budžets
-(1) Visi maksājumi, kas saskaņā ar likumu vai citu normatīvo aktu vai līgumu ieskaitāmi valsts budžeta ieņēmumos, ir valsts budžeta līdzekļi, kurus saskaņā ar gadskārtējā valsts budžeta likumā noteiktu apropriāciju var apropriēt valsts mērķim.
+(1) Visi maksājumi, kas saskaņā ar likumu vai citu normatīvo aktu vai līgumu ieskaitāmi valsts budžeta ieņēmumos, ir valsts budžeta līdzekļi, kurus saskaņā ar valsts budžeta likumā noteiktu apropriāciju var apropriēt valsts mērķim.
 (2) Valsts budžeta līdzekļi ir arī maksājumi par valsts kapitāla izmantošanu, kurus katru gadu veic valsts uzņēmumi, kā arī uzņēmējsabiedrības, kurās ir valsts kapitāla daļa. Ministru kabinets nosaka apmēru un kārtību, kādā maksājumi par valsts kapitāla izmantošanu tiek veikti un ieskaitīti valsts budžetā.
-(3) Valsts budžeta līdzekļus var piešķirt vai saņemt vienīgi ar gadskārtējā valsts budžeta likumā paredzētu apropriāciju.
-(4) Valsts budžeta izdevumi sastāv no apropriācijām, kas noteiktas konkrētām valsts vajadzībām saskaņā ar gadskārtējo valsts budžeta likumu.
+(3) Valsts budžeta līdzekļus var piešķirt vai saņemt vienīgi ar valsts budžeta likumā paredzētu apropriāciju.
+(4) Valsts budžeta izdevumi sastāv no apropriācijām, kas noteiktas konkrētām valsts vajadzībām saskaņā ar valsts budžeta likumu.
 (5) Valsts budžeta finansiālā bilance ir valsts budžeta ieņēmumu un izdevumu starpība. Valsts budžetam ir finansiālais pārpalikums, ja valsts budžeta finansiālā bilance ir pozitīva jeb valsts budžeta ieņēmumi ir lielāki par izdevumiem. Valsts budžetam ir finansiālais deficīts, ja valsts budžeta finansiālā bilance ir negatīva jeb valsts budžeta ieņēmumi ir mazāki par izdevumiem.
 (6) Valsts budžeta aizdevumi ir valsts budžeta līdzekļi, kas nodoti juridiskajām personām un rada tiesības rīkoties ar tiem un pienākumu atdot saņemto aizdevumu, kā arī aizdevumi no valsts budžeta pārņemto saistību pildīšanai saskaņā ar izsniegtajiem valsts galvojumiem.
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.

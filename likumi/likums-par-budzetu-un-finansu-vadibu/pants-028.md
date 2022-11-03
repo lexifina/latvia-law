@@ -1,2 +1,3 @@
 28.pants. Latvijas Stabilitātes programma
-Ministru kabinets saskaņā ar Padomes 1997.gada 7.jūlija regulu (EK) Nr. 1466/97 par budžeta stāvokļa uzraudzības un ekonomikas politikas uzraudzības un koordinācijas stiprināšanu līdz kārtējā gada 15.aprīlim iesniedz Saeimai Latvijas Stabilitātes programmu.
+(1) Ministru kabinets saskaņā ar Padomes 1997.gada 7.jūlija regulu (EK) Nr. 1466/97 par budžeta stāvokļa uzraudzības un ekonomikas politikas uzraudzības un koordinācijas stiprināšanu līdz kārtējā gada 15.aprīlim iesniedz Saeimai Latvijas Stabilitātes programmu.
+(2) Finanšu ministrs Saeimas sēdē ziņo par Latvijas Stabilitātes programmu, ziņojumā ietverot informāciju par makroekonomiskās attīstības scenāriju, fiskālās politikas stratēģiju un fiskālās politikas vidēja termiņa mērķiem, kā arī par iespējamiem valsts budžeta prioritārajiem attīstības virzieniem.

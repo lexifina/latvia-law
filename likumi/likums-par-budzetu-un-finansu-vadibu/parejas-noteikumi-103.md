@@ -1,0 +1,1 @@
+103. Kapitālsabiedrības, kurās ieguldīta valsts vai pašvaldības kapitāla daļa, un no valsts budžeta daļēji finansētas atvasinātas publiskas personas (to iestādes), kurām ir atvērti konti Valsts kasē naudas līdzekļiem, kuri nav saņemti no valsts budžeta, tos slēdz līdz 2023. gada 30. jūnijam.

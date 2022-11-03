@@ -1,5 +1,5 @@
 44. pants. Dotācijas un mērķdotācijas pašvaldību budžetiem
 (1) Pašvaldību budžetiem piešķiramo valsts budžeta dotāciju un mērķdotāciju struktūru nosaka īpaši likumi.
-(2) Pašvaldību budžetiem piešķiramās valsts budžeta dotācijas, mērķdotācijas un transferti no valsts budžeta tiek noteikti gadskārtējā valsts budžeta likumā.
-(3) Dotācijas, arī ar vispārējo finansiālo palīdzību saistītās dotācijas un mērķdotācijas, ar gadskārtējo valsts budžeta likumu var piešķirt tādu pasākumu veikšanai, kuros valstij un pašvaldībām ir kopējas intereses.
+(2) Pašvaldību budžetiem piešķiramās valsts budžeta dotācijas, mērķdotācijas un transferti no valsts budžeta tiek noteikti valsts budžeta likumā.
+(3) Dotācijas, arī ar vispārējo finansiālo palīdzību saistītās dotācijas un mērķdotācijas, ar valsts budžeta likumu var piešķirt tādu pasākumu veikšanai, kuros valstij un pašvaldībām ir kopējas intereses.
 (4) Ja pēc valsts budžeta un pašvaldību budžetu apstiprināšanas Saeima pieņem likumus vai Ministru kabinets - lēmumus, kuri atļauj samazināt pašvaldību budžetu izdevumus vai palielināt to ieņēmumus, tad var tikt izdarīti grozījumi pašvaldībām piešķirto dotāciju vai mērķdotāciju apmēros.
