@@ -1,0 +1,1 @@
+4. Šā likuma 31. panta 3.¹ daļa stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.

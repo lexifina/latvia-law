@@ -1,0 +1,1 @@
+5. Šā likuma grozījumi par vārda "Komisija" (attiecīgā locījumā) aizstāšanu ar vārdiem "Latvijas Banka" (attiecīgā locījumā), grozījumi par vārdu "normatīvie noteikumi" (attiecīgā locījumā) aizstāšanu ar vārdu "noteikumi" (attiecīgā locījumā) un grozījums šā likuma 1. panta pirmās daļas 17. punktā stājas spēkā 2023. gada 1. janvārī.
