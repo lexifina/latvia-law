@@ -1,0 +1,4 @@
+261.² pants. Aizliegums veikt izmaiņas Latvijas Republikas Uzņēmumu reģistra vestajos reģistros
+(1) Aizliegums veikt izmaiņas Latvijas Republikas Uzņēmumu reģistra vestajos reģistros bez procesa virzītāja atļaujas ir ar procesa virzītāja lēmumu noteikta aizlieguma atzīmes ierakstīšana Latvijas Republikas Uzņēmumu reģistra vestajos reģistros juridiskās personas reorganizācijai, likvidācijai, amatpersonu, dalībnieku un akcionāru maiņai vai komercķīlas reģistrācijai, pārjaunošanai un grozīšanai procesā par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai. Procesa virzītājs var pieņemt lēmumu arī par citas aizlieguma atzīmes ierakstīšanu Latvijas Republikas Uzņēmumu reģistra vestajos reģistros, norādot konkrētu aizlieguma veidu.
+(2) Procesa virzītājs var noteikt vienu vai vairākus šā panta pirmajā daļā minētos aizliegumus.
+(3) Lēmumu nosūta izpildei Latvijas Republikas Uzņēmumu reģistram.

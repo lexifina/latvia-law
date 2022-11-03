@@ -6,3 +6,4 @@
 4) grozīt nolēmumu;
 5) izbeigt kasācijas tiesvedību.
 (2) Ja kasācijas instances tiesa konstatē tādu būtisku šā likuma pārkāpumu, kuru apelācijas instances tiesa nevar novērst, tā atceļ abu instanču tiesu nolēmumus un nosūta lietu jaunai izskatīšanai pirmās instances tiesā.
+(3) Tiesnesis, kuram, lietu izskatot paplašinātā sastāvā, bijis atšķirīgs viedoklis par tiesību normu piemērošanas jautājumiem, piecu darbdienu laikā pēc lēmuma pieņemšanas ir tiesīgs rakstveidā izteikt savas atsevišķās domas, kas pievienojamas lietai un ir publiski pieejamas.

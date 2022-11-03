@@ -1,6 +1,7 @@
 418.pants. Sekas kriminālprocesa izbeigšanai, nosacīti atbrīvojot no kriminālatbildības
 (1) Lēmums par kriminālprocesa izbeigšanu pilnā apjomā stājas spēkā pēc pārbaudes laika izbeigšanās un noteikto pienākumu izpildes.
 (2) Ja persona izpilda uzliktos pienākumus un pārbaudes laikā neizdara jaunu tīšu noziedzīgu nodarījumu, uzskatāms, ka kriminālprocess pret to ir izbeigts un par to pašu nodarījumu pret šo personu nevar tikt atjaunots, izņemot šajā likumā īpaši paredzētos gadījumus.
+(2¹) Ja persona izpilda uzliktos pienākumus un pārbaudes laikā neizdara jaunu tīšu noziedzīgu nodarījumu, iemaksātā garantijas nauda ar prokurora lēmumu atdodama tās devējam.
 (3) Kriminālprocesu par to pašu nodarījumu attiecībā uz personu, pret kuru tas bija izbeigts, nosacīti atbrīvojot no kriminālatbildības, var atjaunot vienīgi šādos gadījumos:
 1) persona nav izpildījusi tai uzliktos pienākumus;
 2) pārbaudes laikā persona izdarījusi jaunu tīšu noziedzīgu nodarījumu;

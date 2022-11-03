@@ -6,3 +6,4 @@
 4) rīcība ar noziedzīgi iegūtu mantu.
 (2) Ja tiesa atzīst, ka mantas saistība ar noziedzīgu nodarījumu nav pierādīta vai mantas izcelsme nav noziedzīga, tā pieņem lēmumu izbeigt procesu par noziedzīgi iegūtu mantu.
 (3) Ja tiesa pieņem lēmumu izbeigt procesu par noziedzīgi iegūtu mantu tādā kriminālprocesā, kas izbeigts uz personu nereabilitējoša pamata, tā papildus šā panta pirmajā daļā minētajam izlemj arī par mantas aresta atcelšanu.
+(4) Ja krimināllieta, no kuras izdalīti materiāli, nodota tiesai, tiesa pieņem lēmumu izbeigt procesu par noziedzīgi iegūtu mantu.

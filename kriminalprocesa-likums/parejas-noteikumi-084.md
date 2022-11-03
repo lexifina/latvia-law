@@ -1,0 +1,1 @@
+84. Ministru kabinets līdz 2022. gada 31. decembrim izstrādā un iesniedz Saeimai likumprojektu, kas paredz regulējumu publiskā reģistrā reģistrētas mantas labticīgā ieguvēja mantisko interešu aizsardzībai gadījumos, kad noziedzīgi iegūta manta tiek atdota īpašniekam vai likumīgajam valdītājam.

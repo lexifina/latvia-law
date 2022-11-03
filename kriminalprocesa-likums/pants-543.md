@@ -8,12 +8,12 @@
 4) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
 5) pārbaudes laika termiņu nosacītas notiesāšanas gadījumā;
 6) drošības līdzekli;
-7) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru;
+7) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no sprieduma spēkā stāšanās dienas - un pienākumu iesniegt tiesai dokumentus par kaitējuma kompensācijas atlīdzināšanu;
 8) kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu, ja tas nav izdarīts agrāk;
 9) rīcību ar lietiskajiem pierādījumiem un dokumentiem;
 10) procesuālo izdevumu atlīdzību;
 11) advokāta darba samaksas piedziņu no apsūdzētā vai par viņa atbrīvošanu no samaksas;
 12) (izslēgts ar 12.03.2009. likumu);
-13) iespēju spriedumu pārsūdzēt kasācijas kārtībā un tās termiņu.
+13) iespēju spriedumu pārsūdzēt apelācijas instances tiesā un pārsūdzības termiņu.
 (3¹) Sprieduma rezolutīvajā daļā tiesa papildus norāda informāciju par soda izpildes iestādi un ierašanās termiņu.
 (4) Tiesa, taisot spriedumu, var precizēt vienošanās protokolā paredzēto soda mēru, ja ir pieļauta kļūda, nosakot galīgo sodu, vai ja tas saistīts ar laika tecējumu no vienošanās noslēgšanas dienas līdz iztiesāšanas dienai. Precizējums nedrīkst pasliktināt apsūdzētā stāvokli.

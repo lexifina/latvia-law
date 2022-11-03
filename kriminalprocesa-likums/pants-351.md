@@ -5,3 +5,4 @@
 (4) Pie kriminālatbildības saucamās personas nenoskaidrošana nav šķērslis kompensācijas pieteikuma iesniegšanai.
 (4¹) Kompensācijas pieteikumu izskata neatkarīgi no cietušā klātbūtnes.
 (5) Cietušajam ir tiesības atsaukt iesniegto kompensācijas pieteikumu jebkurā kriminālprocesa stadijā līdz brīdim, kad tiesa aiziet taisīt spriedumu. Cietušā atteikšanās no kompensācijas nevar būt par pamatu apsūdzības atcelšanai, grozīšanai vai attaisnojošam spriedumam.
+(6) Prokurors, pabeidzot kriminālprocesu uz personu nereabilitējoša pamata, var noteikt, kā arī piedzīt kompensāciju valsts vai pašvaldības interesēs, ja šajā likumā noteiktajā kārtībā nav iesniegts kompensācijas pieteikums.

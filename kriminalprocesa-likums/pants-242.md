@@ -4,3 +4,4 @@
 2) ievietošanu ārstniecības iestādē ekspertīzes izdarīšanai;
 3) piespiedu atvešanu.
 (2) Arī drošības līdzekļi ir procesuālie piespiedu līdzekļi. Tos var piemērot tikai aizdomās turētajam un apsūdzētajam.
+(3) Nodrošinājuma līdzekļi juridiskajai personai ir procesuālie piespiedu līdzekļi.

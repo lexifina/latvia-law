@@ -4,13 +4,13 @@
 2) par kāda noziedzīga nodarījuma izdarīšanu persona tiek apsūdzēta un lieta nodota tiesai;
 3) noziedzīga nodarījuma kvalifikāciju;
 4) (izslēgts ar 12.03.2009. likumu);
-5) apsūdzētās personas liecību;
+5) apsūdzētās personas attieksmi pret apsūdzību;
 6) tiesā izmantojamo pierādījumu uzskaitījumu par katru apsūdzēto un par katru noziedzīgu nodarījumu;
 7) piemēroto drošības līdzekli un tā beigu termiņu;
 8) cietušo personu un kompensācijas apmēru;
 9) mantai uzlikto arestu;
 10) apsūdzētā atbildību pastiprinošos un mīkstinošos apstākļus;
-11) krimināllietas lapu skaitu;
+11) (izslēgts ar 06.10.2022. likumu);
 12) procesuālos izdevumus.
 (2) Lēmumam pievieno lietisko pierādījumu un dokumentu sarakstu un to personu sarakstu, kuru liecības iekļautas tiesā izmantojamo pierādījumu uzskaitījumā. Personu adreses norāda tikai sarakstā, kuru nosūta tiesai.
 (3) Lēmumu kopā ar krimināllietas materiāliem prokurors nekavējoties nosūta tiesai.

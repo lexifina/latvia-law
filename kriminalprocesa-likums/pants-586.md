@@ -6,3 +6,4 @@
 (5) Gadījumos, kad sūdzības iesniedzējs, viņa aizstāvis vai pārstāvis nav ieradies, par sūdzības pamatojumu ziņo tiesnesis.
 (6) Pēc tam tiesa var uzklausīt citas personas, kurām paziņots par tiesas sēdi un kuru tiesības un intereses aizskar kasācijas sūdzība vai protests.
 (7) Pēc paskaidrojumu uzklausīšanas prokurors izsaka savu viedokli par tiem. Tad tiesa vēlreiz uzklausa apsūdzēto vai viņa aizstāvi un apspriežu istabā pieņem lēmumu.
+(8) Ja tiesa, izskatot lietu, atzīst, ka lieta izskatāma paplašinātā sastāvā, tā pieņem lēmumu par lietas nodošanu izskatīšanai paplašinātā sastāvā.

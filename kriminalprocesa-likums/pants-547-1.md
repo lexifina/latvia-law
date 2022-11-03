@@ -1,3 +1,4 @@
 547.¹ pants. Tiesvedība procesā par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai
 (1) Ja process piespiedu ietekmēšanas līdzekļa piemērošanai izdalīts atsevišķā lietvedībā vai uzsākts, pamatojoties uz šā likuma 439.panta 3.¹ daļu, tiesvedība notiek, ievērojot lietas izskatīšanas kārtību pirmās instances tiesā, ciktāl šā likuma 51.nodaļā nav noteikts citādi.
 (2) Ja juridiskajai personai nav pārstāvja vai pārstāvja ierašanos tiesā nav iespējams nodrošināt, iztiesāšana var notikt bez juridiskās personas pārstāvja. Krimināllietu tiesa var iztiesāt, ja tiesas sēdē piedalās aizstāvis.
+(3) Ja iztiesāšanas laikā ir mainījušies šā likuma 439.¹ panta pirmās daļas 1., 2. un 3. punktā minētie apstākļi, prokurors pieņem lēmumu par piespiedu ietekmēšanas līdzekļa piemērošanas procesā konstatēto apstākļu maiņu, ko nosūta juridiskajai personai un iesniedz tiesai. Lēmums nav pārsūdzams.

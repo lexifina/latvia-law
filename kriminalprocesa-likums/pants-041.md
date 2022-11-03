@@ -9,7 +9,7 @@
 7) (izslēgts ar 12.03.2009. likumu);
 8) (izslēgts ar 12.03.2009. likumu);
 9) (izslēgts ar 12.03.2009. likumu);
-10) lemt par personas, kurai ir tiesības uz aizstāvību, lūgumu atbrīvot no samaksas par advokāta palīdzības izmantošanu.
+10) (izslēgts ar 06.10.2022. likumu).
 (2) Pirmās instances tiesā līdz lietas iztiesāšanas uzsākšanai izmeklēšanas tiesnesim ir pienākums lemt par:
 1) apsūdzētā pieteikumu attiecībā uz drošības līdzekļu grozīšanu vai atcelšanu;
 2) prokurora ierosinājumu attiecībā uz drošības līdzekļa izraudzīšanu vai grozīšanu;

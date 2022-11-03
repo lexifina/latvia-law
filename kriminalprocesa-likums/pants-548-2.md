@@ -4,4 +4,4 @@
 2) lēmumu par lietas nosūtīšanu prokuroram pārkāpumu novēršanai;
 3) lēmumu par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai;
 4) lēmumu par lietas iztiesāšanu vispārējā kārtībā, ja juridiskā persona atsakās no vienošanās.
-(2) Tiesas nolēmums ir pārsūdzams tikai kasācijas kārtībā.
+(2) Tiesas nolēmums ir pārsūdzams apelācijas instances tiesā par vienošanās procesa kārtības pārkāpumiem vai Krimināllikuma normu pārkāpumiem.

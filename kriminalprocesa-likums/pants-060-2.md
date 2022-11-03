@@ -10,10 +10,11 @@
 8) klusēt, sniegt liecību vai atteikties liecināt;
 9) likumā noteiktajos gadījumos, termiņos un kārtībā pārsūdzēt procesuālos lēmumus;
 10) pieprasīt informāciju par kriminālprocesa virzību, par amatpersonām, kuras veic vai ir veikušas konkrēto kriminālprocesu, par personai piemērotajiem tiesību ierobežojumiem un to termiņiem;
-11) lūgt, lai nomaina aizstāvi, ja pastāv likumā noteiktie šķēršļi viņa līdzdalībai.
+11) lūgt, lai nomaina aizstāvi, ja pastāv likumā noteiktie šķēršļi viņa līdzdalībai;
+12) likumā paredzētajos gadījumos iepazīties ar lietas materiāliem.
 (2) Liecības nesniegšana nav vērtējama kā traucēšana noskaidrot patiesību lietā un izvairīšanās no pirmstiesas procesa un tiesas.
 (3) Papildus tiesībām, kas noteiktas šā panta pirmajā daļā, aizturētajam, kā arī aizdomās turētajam vai apsūdzētajam, kuram piemēro ar brīvības atņemšanu saistītu drošības līdzekli, ir šādas tiesības:
-1) iepazīties ar tiem lietas materiāliem, ar kuriem pamatots ierosinājums piemērot ar brīvības atņemšanu saistītu drošības līdzekli, ciktāl šāda piekļuve neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanu;
+1) iepazīties ar tiem lietas materiāliem, ar kuriem pamatots ierosinājums piemērot ar brīvības atņemšanu saistītu drošības līdzekli;
 2) pieprasīt, lai par aizturēšanu vai apcietināšanu paziņo viņa tuviniekam, mācību iestādei, darba devējam, kā arī sazināties ar vienu no tiem, ciktāl šāda sazināšanās neapdraud citu personu pamattiesības, sabiedrības intereses un netraucē kriminālprocesa mērķa sasniegšanai. Ārvalstniekam ir tiesības pieprasīt, lai par aizturēšanu vai apcietināšanu tiktu informēta viņa valsts diplomātiskā vai konsulārā pārstāvniecība, kā arī ar to sazināties;
 3) saņemt informāciju par tiesībām uz neatliekamo medicīnisko palīdzību un veselības aprūpi atbilstoši normatīvajiem aktiem;
 4) saņemt informāciju par maksimālo stundu vai mēnešu skaitu, uz kādu personai var tikt ierobežota brīvība pirmstiesas procesā.
@@ -24,4 +25,5 @@
 4) saņemt individuālu novērtējumu;
 5) tiesības uz brīvības atņemšanai alternatīvu procesuālo piespiedu līdzekļu primāru piemērošanu;
 6) tiesības uz īpašu apiešanos ar brīvības atņemšanu saistīta piespiedu līdzekļa piemērošanas laikā.
+(3²) Procesa virzītājs nodrošina šā panta trešās daļas 1. punktā noteiktās tiesības, nepieļaujot lietas materiālos minēto personu pamattiesību apdraudējumu, nodrošinot sabiedrības interešu aizsardzību un neapdraudot kriminālprocesa mērķa sasniegšanu.
 (4) Personai, tiklīdz tā ieguvusi tiesības uz aizstāvību, nekavējoties rakstveidā izsniedz un, ja nepieciešams, izskaidro informāciju par šā panta pirmajā, trešajā un 3.¹ daļā noteiktajām tiesībām. To, ka informācija ir izsniegta un, ja nepieciešams, tiesības izskaidrotas, persona apliecina ar savu parakstu.

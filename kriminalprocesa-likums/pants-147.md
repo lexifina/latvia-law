@@ -9,3 +9,4 @@
 2) pratināmais atsakās liecināt;
 3) lietu izskata tiesā nopratinātās personas prombūtnē.
 (7) Ja personai noteikta speciālā procesuālā aizsardzība, tās pratināšanā ievēro šā likuma 308.panta noteikumus.
+(8) Ja pratināšanā piedalās saskaņā ar šā likuma 146. panta piekto daļu aicinātā persona, kurai ir tiesības uz aizstāvību, šai personai ir tiesības uzdot jautājumus pratināšanas laikā, ievērojot procesa virzītāja noteikto pratināšanas kārtību. Izmeklēšanas darbības veicējs visus uzdotos jautājumus un sniegtās atbildes norāda nopratināšanas protokolā un ir tiesīgs noraidīt jautājumus, kas nav būtiski vai neattiecas uz lietu.

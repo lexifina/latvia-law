@@ -1,5 +1,5 @@
 93.pants. Juridiskās personas pārstāvis procesā par piespiedu ietekmēšanas līdzekļa piemērošanu
-(1) Lai nodrošinātu juridiskās personas tiesības un intereses procesā par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai sakarā ar tās interesēs izdarītu fiziskās personas noziedzīgu nodarījumu, kriminālprocesā var piedalīties juridiskās personas pārstāvis.
+(1) Lai nodrošinātu juridiskās personas tiesības un intereses procesā par piespiedu ietekmēšanas līdzekļa piemērošanu juridiskajai personai sakarā ar tās interesēs, šīs personas labā vai tās nepienācīgas pārraudzības vai kontroles rezultātā izdarītu fiziskās personas noziedzīgu nodarījumu, kriminālprocesā var piedalīties juridiskās personas pārstāvis.
 (2) Par juridiskās personas pārstāvi var būt:
 1) fiziskā persona saskaņā ar pilnvarām, kas noteiktas juridiskās personas darbību regulējošajos dokumentos;
 2) fiziskā persona uz īpaši šim nolūkam izdotas pilnvaras pamata.

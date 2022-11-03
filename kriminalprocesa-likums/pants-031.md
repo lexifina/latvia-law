@@ -12,3 +12,4 @@
 4) veikt izmeklēšanas darbību, par to iepriekš informējot procesa virzītāju;
 5) dot norādījumus un atcelt savā pakļautībā esošo amatpersonu nepamatoti un nelikumīgi pieņemtos lēmumus;
 6) pārsūdzēt prokurora lēmumu un dotos norādījumus, atdodot krimināllietu atpakaļ izmeklēšanas iestādei izmeklēšanas turpināšanai.
+(4) Kriminālprocesos, kuros Eiropas Prokuratūra īsteno savu kompetenci, izmeklētāja tiešajam priekšniekam ir visas šajā pantā paredzētās pilnvaras, izņemot tiesības pārņemt kriminālprocesa vadīšanu, atcelt savā pakļautībā esošo amatpersonu pieņemtos lēmumus, kā arī viņam nav pilnvaru dot norādījumus.

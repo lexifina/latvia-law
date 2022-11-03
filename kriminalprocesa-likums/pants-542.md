@@ -4,4 +4,4 @@
 2) (izslēgts ar 11.06.2020. likumu);
 3) notiesājošu spriedumu;
 4) (izslēgts ar 27.09.2018. likumu).
-(2) Tiesas nolēmums ir pārsūdzams tikai kasācijas kārtībā.
+(2) Tiesas nolēmums ir pārsūdzams tikai apelācijas instances tiesā par vienošanās procesa kārtības pārkāpumiem vai Krimināllikuma normu pārkāpumiem.

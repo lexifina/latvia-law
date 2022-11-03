@@ -9,6 +9,6 @@ Apsūdzētajam vienošanās procesā ir tiesības:
 7) sniegt paskaidrojumus par vienošanās gaitu;
 7¹) iesniegt iebildumus pret lietas iztiesāšanu rakstveida procesā;
 8) atteikties no noslēgtās vienošanās līdz brīdim, kad tiesa dodas uz apspriežu istabu, lai pieņemtu nolēmumu;
-9) pārsūdzēt nolēmumu;
+9) pārsūdzēt nolēmumu apelācijas instances tiesā par vienošanās procesa kārtības pārkāpumiem vai Krimināllikuma normu pārkāpumiem;
 10) iepazīties ar tiesas sēdes protokolu;
 11) saņemt aizstāvja juridisko palīdzību.

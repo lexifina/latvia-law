@@ -1,4 +1,4 @@
-262.pants. Ar brīvības atņemšanu nesaistīta drošības līdzekļa piemērošanas lēmuma pārsūdzēšana
+262.pants. Ar brīvības atņemšanu nesaistīta drošības līdzekļa un nodrošinājuma līdzekļa juridiskajai personai piemērošanas lēmuma pārsūdzēšana
 (1) Pirmstiesas procesā var pārsūdzēt procesa virzītāja pieņemto lēmumu par:
 1) aizliegumu tuvoties noteiktai personai vai vietai;
 2) noteiktas nodarbošanās aizliegumu;
@@ -11,3 +11,4 @@
 (3) Izmeklēšanas tiesnesis sūdzību izskata rakstveida procesā triju darba dienu laikā. Ja nepieciešams, tiesnesis pieprasa lietas materiālus un procesa virzītāja vai sūdzības iesniedzēja paskaidrojumus.
 (4) Izmeklēšanas tiesnesis ar savu lēmumu var noraidīt sūdzību vai uzdot procesa virzītājam triju darba dienu laikā grozīt piemēroto drošības līdzekli vai tā noteikumus, vai noteikt drošības naudas apmēru.
 (5) Izmeklēšanas tiesneša pieņemtā lēmuma kopiju nosūta procesa virzītājam, personai, kurai piemērots attiecīgais drošības līdzeklis, un sūdzības iesniedzējam. Lēmums nav pārsūdzams.
+(6) Juridiskās personas pārstāvim vai aizstāvim ir tiesības pārsūdzēt procesa virzītāja pieņemto lēmumu par nodrošinājuma līdzekļa piemērošanu juridiskajai personai procesā par piespiedu ietekmēšanas līdzekļa piemērošanu. Izmeklēšanas tiesnesim sūdzību var iesniegt septiņu dienu laikā pēc tam, kad saņemta lēmuma par nodrošinājuma līdzekļa piemērošanu kopija. Izmeklēšanas tiesnesis sūdzību izskata šā panta trešajā, ceturtajā un piektajā daļā noteiktajā kārtībā.

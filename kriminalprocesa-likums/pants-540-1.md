@@ -11,4 +11,4 @@
 3) notiesājošu spriedumu;
 4) (izslēgts ar 27.09.2018. likumu).
 (6) Tiesa notiesājošu spriedumu taisa, ievērojot sprieduma taisīšanas nosacījumus, kādi noteikti lietas iztiesāšanai mutvārdos vienošanās procesā.
-(7) Šā panta piektās daļas kārtībā pieņemtais tiesas nolēmums ir pārsūdzams tikai kasācijas kārtībā.
+(7) Šā panta piektajā daļā noteiktajā kārtībā pieņemtais tiesas nolēmums ir pārsūdzams tikai apelācijas instances tiesā par vienošanās procesa kārtības pārkāpumiem vai Krimināllikuma normu pārkāpumiem.
