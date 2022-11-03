@@ -1,0 +1,1 @@
+26. Līdz jaunas krasta kāpu aizsargjoslas noteikšanai vietējās pašvaldības teritorijas ciemu plānojumos atbilstoši šā likuma 33. panta pirmajai daļai, 67. pantam un 6. panta ceturtajā daļā minētajai metodikai par īpaši aizsargājamo biotopu iekļaušanu, to izmaiņām un izslēgšanu ir spēkā krasta kāpu aizsargjosla, kas noteikta spēkā esošajos teritorijas plānojumos.
