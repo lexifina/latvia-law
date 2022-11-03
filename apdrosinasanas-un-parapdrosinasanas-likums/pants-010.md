@@ -2,7 +2,7 @@
 1) veic apdrošināšanu Komisijas izsniegtajās licencēs norādītajos apdrošināšanas veidos;
 2) izplata apdrošināšanas vai pārapdrošināšanas pakalpojumus citam apdrošinātājam, dalībvalsts apdrošinātājam, ārvalsts apdrošinātājam, pārapdrošinātājam un dalībvalsts pārapdrošinātājam. Ārvalsts apdrošinātājam var izplatīt apdrošināšanas pakalpojumus saskaņā ar šā panta trešās daļas noteikumiem;
 3) veic komercdarbību, kas ir tieši saistīta ar apdrošināšanu;
-4) kas saņēmusi dzīvības apdrošināšanas licenci, veic pensiju plāna dalībnieku piesaistīšanu privātajam pensiju fondam.
+4) kas saņēmusi dzīvības apdrošināšanas licenci, veic pensiju plāna dalībnieku piesaistīšanu privātajam pensiju fondam, reģistrē un izplata PEPP plānu.
 (2) Apdrošināšanas komersants nedrīkst:
 1) veikt cita veida komercdarbību, izņemot likumā paredzētos gadījumus;
 2) izplatīt nepatiesu, maldinošu reklāmu par savu darbību;

@@ -1,0 +1,1 @@
+38. Šā likuma grozījums par 1. panta papildināšanu ar trešo daļu, grozījumi 2. panta trešajā daļā un 10. panta pirmās daļas 4. punktā un grozījums par 16. panta papildināšanu ar piekto daļu stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.

@@ -4,3 +4,4 @@
 2) saņēmusi licenci nelaimes gadījumu un veselības apdrošināšanai, prasīt un saņemt licenci dzīvības apdrošināšanai.
 (3) Ja apdrošināšanas sabiedrība saskaņā ar šā panta otro daļu veic dzīvības un nedzīvības apdrošināšanu, tā katru apdrošināšanu veic atsevišķi atbilstoši šā likuma 17.panta prasībām.
 (4) Dzīvības un nedzīvības apdrošināšanas sabiedrības, kuras ir savstarpēji finansiāli, komerciāli vai administratīvi saistītas, nedrīkst slēgt savstarpējus līgumus vai veikt citus pasākumus, kas var ietekmēt izdevumu un ienākumu sadalījumu, kā arī nevēlami ietekmēt minēto apdrošināšanas sabiedrību finanses.
+(5) Apdrošināšanas sabiedrība, kura veic dzīvības apdrošināšanu, ir tiesīga reģistrēt un izplatīt PEPP plānu saskaņā ar Regulu Nr. 2019/1238 un Privāto pensiju fondu likuma III¹ nodaļu.
