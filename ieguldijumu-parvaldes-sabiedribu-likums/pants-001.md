@@ -14,7 +14,7 @@
 12) naudas tirgus instrumenti - likvīdas parādsaistības, kuras var precīzi novērtēt jebkurā laikā un kuras parasti tirgo naudas tirgū;
 13) (izslēgts ar 30.03.2017. likumu);
 14) atvasinātie finanšu instrumenti - finanšu instrumenti, kuru vērtība mainās atkarībā no noteiktās procentu likmes, vērtspapīru cenas, ārvalstu valūtas kursa, cenu vai likmju indeksa, kredītreitinga vai līdzīga mainīga lieluma pārmaiņām un kuru ietekmē viens vai vairāki finanšu riski, kas piemīt atvasinātā finanšu instrumenta pamatā esošajam primārajam finanšu instrumentam, tiek pārvesti starp darījumā iesaistītajām personām. Atvasinātā finanšu instrumenta iegūšanai nav nepieciešams sākotnējais ieguldījums vai ir nepieciešams neliels sākotnējais ieguldījums, salīdzinot ar citiem līgumiem, kas ir līdzīgā veidā atkarīgi no tirgus apstākļu pārmaiņām, turklāt ar līguma izpildi saistītie norēķini notiek nākotnē;
-15) pārvaldes pakalpojumi - ieguldījumu fondu pārvalde, valsts fondēto pensiju shēmas līdzekļu un privāto pensiju fondu izveidoto pensiju plānu līdzekļu pārvaldīšana;
+15) pārvaldes pakalpojumi - ieguldījumu fondu pārvalde, valsts fondēto pensiju shēmas līdzekļu, privāto pensiju fondu izveidoto pensiju plānu līdzekļu un Pan-Eiropas privāto pensiju produkta pārvaldīšana;
 16) pārvaldes sabiedrības izcelsmes valsts - valsts, kurā ieguldījumu pārvaldes sabiedrība ir reģistrēta (kurā pārvaldes sabiedrībai ir juridiskā adrese);
 17) pārvaldes sabiedrības uzņēmējvalsts - valsts, kuras teritorijā pārvaldes sabiedrībai ir filiāle vai kuras teritorijā pārvaldes sabiedrība sniedz pārvaldes pakalpojumus;
 18) kontrole - personas kontrole pār komercsabiedrību, ja:

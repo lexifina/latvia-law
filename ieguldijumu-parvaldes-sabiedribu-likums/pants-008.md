@@ -14,5 +14,5 @@
 1) kredītiestāde, kas saņēmusi licenci kredītiestādes darbībai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī, kura ietilpst Desmit valstu grupā;
 2) dalībvalstī reģistrēta apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle, kas saņēmusi licenci apdrošināšanas veikšanai.
 (8) (Izslēgta ar 28.04.2022. likumu)
-(9) Pašu kapitālu un tā aprēķināšanas kārtību nosaka Regula Nr. 575/2013.
+(9) Pašu kapitāls ir Regulas Nr. 575/2013 4. panta 1. punkta 118. apakšpunktā minētais kapitāls, sabiedrībai nodrošinot, ka vismaz 75 procentus no pirmā līmeņa kapitāla veido Regulas Nr. 575/2013 50. pantā minētais pirmā līmeņa pamata kapitāls un otrā līmeņa kapitāls nepārsniedz vienu trešdaļu no pirmā līmeņa kapitāla.
 (10) (Izslēgta ar 19.09.2013. likumu)

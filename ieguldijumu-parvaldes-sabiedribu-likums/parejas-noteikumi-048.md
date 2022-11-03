@@ -1,0 +1,1 @@
+48. Grozījums par šā likuma 1. panta pirmās daļas 15. punkta izteikšanu jaunā redakcijā un šā likuma 5. panta 3.¹ daļa stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.
