@@ -4,7 +4,7 @@
 (3) Ārējā pārvaldnieka minimālais sākotnējais kapitāls ir vismaz 125 000 euro.
 (4) Ja pārvaldnieka pārvaldē esošo fondu ieguldījumu portfeļu apmērs pārsniedz 250 miljonus euro, pārvaldnieks nodrošina papildu pašu kapitālu, kura apmērs ir 0,02 procenti no summas, par kādu pārvaldīšanā esošo līdzekļu vērtība pārsniedz 250 miljonus euro. Šajā daļā noteiktās prasības neattiecas uz pārvaldnieku, kura pašu kapitāla apmērs ir 10 miljoni euro vai lielāks.
 (5) Nosakot pārvaldnieka pašu kapitāla atbilstību šā likuma prasībām, par pārvaldē esošo fondu ieguldījumu portfeļiem uzskata pārvaldnieka pārvaldīto fondu aktīvus, ieskaitot to fondu aktīvus, kuru pārvaldes pakalpojumus tas deleģējis saskaņā ar šā likuma 28.panta prasībām, bet neieskaitot fondu aktīvus, ko tas saņēmis pārvaldīšanā no cita pārvaldnieka.
-(6) Pašu kapitālu un tā aprēķināšanas kārtību nosaka Regula Nr. 575/2013.
+(6) Pašu kapitāls ir Regulas Nr. 575/2013 4. panta 1. punkta 118. apakšpunktā minētais kapitāls, pārvaldniekam nodrošinot, ka vismaz 75 procentus no pirmā līmeņa kapitāla veido Regulas Nr. 575/2013 50. pantā minētais pirmā līmeņa pamata kapitāls un otrā līmeņa kapitāls nepārsniedz vienu trešdaļu no pirmā līmeņa kapitāla.
 (7) Pārvaldnieka pašu kapitāls nedrīkst būt mazāks par lielāko no šādiem lielumiem:
 1) par minimālā sākotnējā kapitāla un atbilstoši šā panta ceturtās daļas prasībām aprēķinātā papildu pašu kapitāla kopsummu;
 2) summu, kas noteikta Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulas (ES) 2019/2033 par prudenciālajām prasībām ieguldījumu brokeru sabiedrībām un ar ko groza regulas (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 un (ES) Nr. 806/2014 13. pantā.

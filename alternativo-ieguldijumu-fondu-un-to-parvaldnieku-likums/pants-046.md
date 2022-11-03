@@ -10,7 +10,7 @@
 (9) Līdzekļus, kas iegūti, palielinot pamatkapitālu, fonds nodod pārvaldniekam to ieguldīšanai saskaņā ar fonda darbības noteikumiem.
 (10) Katra minimālās nominālvērtības balsstiesīgā akcija dod tiesības uz vienu balsi akcionāru sapulcē. Ja akcionāru sapulce izlemj jautājumu, kas skar atvērtā fonda konkrēta apakšfonda akcionāru intereses, tiesības balsot ir tikai šā apakšfonda akcionāriem.
 (11) Fonda dibinātāji papildus Komerclikumā noteiktajām prasībām fonda statūtos iekļauj:
-1) informāciju par fonda veidu, darbības termiņu un mērķi. Slēgtā fonda darbības laiks nedrīkst pārsniegt 10 gadus;
+1) informāciju par fonda veidu, darbības termiņu un mērķi. Slēgtā fonda darbības laiks nedrīkst pārsniegt statūtos norādīto darbības termiņu;
 2) informāciju par fonda pārvaldes vispārīgajiem principiem un kārtību;
 3) lēmumu pieņemšanas kārtību, īpaši norādot lēmumu pieņemšanas kompetenci un kārtību, kādā drīkst rīkoties ar fonda mantu;
 4) pamatkapitāla palielināšanas un samazināšanas nosacījumus;

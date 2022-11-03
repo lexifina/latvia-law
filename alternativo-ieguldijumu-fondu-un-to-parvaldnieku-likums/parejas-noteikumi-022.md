@@ -1,0 +1,1 @@
+22. Šā likuma 5. panta vienpadsmitā daļa un grozījums par 16. panta sestās daļas izteikšanu jaunā redakcijā stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.

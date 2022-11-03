@@ -1,0 +1,1 @@
+23. Grozījumi šā likuma 8. panta sestajā daļā, 9. panta piektajā daļā, 22. panta otrās daļas 1. punktā, 29. panta pirmajā daļā, 56. panta desmitajā daļā, 57. panta astotajā daļā, 60.¹ panta septītās daļas jaunā redakcija un grozījumi 90.¹ panta pirmajā un otrajā daļā stājas spēkā 2024. gada 1. janvārī.

@@ -5,7 +5,7 @@
 (2) Šā panta pirmajā daļā minēto paziņojumu un 67.panta ceturtajā daļā paredzēto apliecinājumu iesniedz valodā, ko lieto starptautisko finanšu jomā. Šā likuma 66.panta trešajā daļā minētos dokumentus, kuri Komisijai iesniedzami saskaņā ar šā panta pirmo daļu, iesniedz valsts valodā vai valodā, ko lieto starptautisko finanšu jomā.
 (3) Dalībvalstī licencēts pārvaldnieks drīkst sākt fonda ieguldījumu daļu izplatīšanu Latvijā no dalībvalstī licencētā pārvaldnieka uzraudzības institūcijas paziņojuma saņemšanas dienas.
 (4) Dalībvalstī licencēts pārvaldnieks, kas plāno tādiem ieguldītājiem, kuri nav profesionāli ieguldītāji, Latvijā izplatīt dalībvalstu fondu ieguldījumu daļas, nodrošina vajadzīgos pasākumus, lai Latvijā:
-1) pieņemtu un apstrādātu ieguldījumu daļu pirkšanas, atpakaļpirkšanas un atpakaļpieņemšanas pieteikumus un veiktu ar tiem saistītos norēķinus atbilstoši fonda dibināšanas dokumentu nosacījumiem;
+1) pieņemtu un apstrādātu ieguldījumu daļu pirkšanas, atpakaļpirkšanas un atpakaļpieņemšanas pieteikumus un veiktu ar tiem saistītos norēķinus atbilstoši fonda dibināšanas dokumentu un darbības noteikumiem;
 2) sniegtu ieguldītājiem informāciju par ieguldījumu daļu pirkšanas, atpakaļpirkšanas un atpakaļpieņemšanas pieteikumu iesniegšanu un ar tiem saistītajiem norēķiniem;
 3) palīdzētu apstrādāt informāciju par ieguldītāju īstenotajām tiesībām, kuras izriet no ieguldījuma fondā Latvijā;
 4) nodrošinātu ieguldītājiem pieeju šā likuma 58. pantā minētajai informācijai un dokumentu kopijām;
