@@ -11,6 +11,6 @@
 3¹) (izslēgts ar 07.04.2022. likumu);
 4) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
 5) periodiski ierasties soda izpildes iestādē un apmeklēt šīs iestādes norādīto speciālistu, lai veiktu atkarības diagnostiku, un pildīt speciālista norādījumus, tai skaitā ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības;
-6) (punkts stājas spēkā 03.11.2022. un iekļauts likuma redakcijā uz 03.11.2022. Sk. 07.04.2022. likuma Pārejas noteikumu).
-(4¹) (Daļa stājas spēkā 03.11.2022. un iekļauta likuma redakcijā uz 03.11.2022. Sk. 07.04.2022. likuma Pārejas noteikumu)
-(5) Ja persona, kura nosacīti atbrīvota no kriminālatbildības, pārbaudes laikā izdara jaunu tīšu noziedzīgu nodarījumu vai neizpilda uzliktos pienākumus vai izlīguma nosacījumus, tās kriminālvajāšana tiek turpināta.
+6) noteiktā termiņā iemaksāt garantijas naudu.
+(4¹) Garantijas naudas apmēru prokurors nosaka, ievērojot noziedzīgā nodarījuma raksturu un ar to radīto kaitējumu, personas mantisko stāvokli, kā arī likumā paredzētā soda veidu un mēru.
+(5) Ja persona, kura nosacīti atbrīvota no kriminālatbildības, pārbaudes laikā izdara jaunu tīšu noziedzīgu nodarījumu vai neizpilda uzliktos pienākumus vai izlīguma nosacījumus, tās kriminālvajāšana tiek turpināta. Šādos gadījumos iemaksātā garantijas nauda ieskaitāma valsts budžetā.
