@@ -1,5 +1,5 @@
 3. pants. Likuma darbības jomas izņēmumi
-(1) Šis likums neattiecas uz valsts fondēto pensiju shēmu izplatīšanu saskaņā ar Valsts fondēto pensiju likumu un pensiju plānu izplatīšanu saskaņā ar likumu "Par privātajiem pensiju fondiem".
+(1) Šis likums neattiecas uz valsts fondēto pensiju shēmu izplatīšanu saskaņā ar Valsts fondēto pensiju likumu un pensiju plānu izplatīšanu saskaņā ar Privāto pensiju fondu likumu.
 (2) Šis likums, izņemot tā 5. panta trešo daļu un 37. panta otro daļu, neattiecas uz apdrošināšanas papildpakalpojuma starpniekiem, kuri nodarbojas ar apdrošināšanas izplatīšanu, ja vienlaikus ir izpildīti šādi nosacījumi:
 1) apdrošināšana ir vienīgi papildinājums piedāvātajai precei vai pakalpojumam un paredz vienu no šādiem gadījumiem:
 a) tādu zaudējumu segšanu, kuri ir saistīti ar piedāvātās preces defektu, bojājumu vai zudumu vai ar piedāvātā pakalpojuma neizmantošanas risku,

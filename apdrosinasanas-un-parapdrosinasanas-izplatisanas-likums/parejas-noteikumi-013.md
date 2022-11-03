@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 1. panta pirmās daļas 8. punktā, šā likuma 1. panta 1.¹ daļa un 4.¹ pants stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.
