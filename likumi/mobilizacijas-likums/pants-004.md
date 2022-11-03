@@ -15,7 +15,8 @@
 12) starptautisko sadarbību mobilizācijas plānošanas un sagatavošanas jautājumos;
 13) aizsardzības industrijas attīstības atbalsta politikas izstrādi;
 14) aizsardzības industrijas attīstības atbalsta reglamentējošo normatīvo aktu izstrādi;
-15) aizsardzības industrijas attīstības atbalsta pasākumu sagatavošanu un īstenošanu.
+15) aizsardzības industrijas attīstības atbalsta pasākumu sagatavošanu un īstenošanu;
+16) zemessargu pakļaušanu paaugstinātas gatavības režīmam.
 (3) Mobilizācijas īstenošana ietver:
 1) valsts un pašvaldību institūciju pārkārtošanu darbam valsts apdraudējuma gadījumā;
 2) Nacionālo bruņoto spēku un civilās aizsardzības formējumu mobilizāciju;
