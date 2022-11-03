@@ -1,0 +1,1 @@
+114. Šā likuma 2. panta ceturtā daļa stājas spēkā vienlaikus ar grozījumiem Privāto pensiju fondu likumā, kuri attiecas uz Pan-Eiropas privāto pensiju produkta reģistrāciju un izplatīšanu Latvijas Republikā.
