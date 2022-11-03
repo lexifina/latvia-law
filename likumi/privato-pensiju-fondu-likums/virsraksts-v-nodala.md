@@ -1,0 +1,2 @@
+V¹ nodaļa
+Atbildība

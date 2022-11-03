@@ -15,3 +15,4 @@
 1) aizliegt pensiju fondam brīvi rīkoties ar saviem aktīviem un uzņemties jaunas saistības;
 2) noteikt, ka visas pensiju fonda veicamās izmaksas vai to daļa obligāti iepriekš saskaņojamas ar Komisiju;
 3) anulēt pensiju fondam izsniegto licenci.
+(11) PEPP sniedzēja pašu kapitāls ir ne mazāks par 400 000 euro.

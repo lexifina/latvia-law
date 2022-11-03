@@ -1,5 +1,5 @@
 3. pants. Privātā pensiju fonda darbības principi
-(1) Pensiju fonds saskaņā ar šo likumu un pensiju plāniem uzkrāj un iegulda pensiju plānu dalībnieku pašu veiktās un viņu labā veiktās naudas līdzekļu iemaksas, lai nodrošinātu viņiem papildpensiju.
+(1) Pensiju fonds un PEPP sniedzējs saskaņā ar šo likumu, pensiju plāniem un PEPP plāniem uzkrāj un iegulda pensiju plānu dalībnieku, PEPP noguldītāju pašu veiktās un viņu labā veiktās naudas līdzekļu iemaksas, lai nodrošinātu viņiem papildpensiju.
 (2) Pensiju fonds attiecībā uz pensiju plāna veidu, kuram tas ir saistoši, savā darbībā nodrošina vienlīdzīgu risku un ieguvumu sadalījumu starp paaudzēm.
 (3) Pensiju fonds drīkst emitēt tikai vārda akcijas. Pensiju fonda akcijas nedrīkst laist publiskajā apgrozībā.
 (4) Pensiju fonds drīkst veikt tikai šajā likumā paredzētās darbības.

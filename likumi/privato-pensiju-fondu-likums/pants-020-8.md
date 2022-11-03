@@ -1,0 +1,2 @@
+20.⁸ pants. Papildu prasības PEPP sniedzējam vai PEPP izplatītājam
+Papildus šajā nodaļā noteiktajām prasībām PEPP sniedzējam vai PEPP izplatītājam un attiecībā uz to uzraudzību piemēro šā likuma 17. panta sesto un septīto daļu, 18., 24. pantu, 25. panta vienpadsmito daļu, 26. pantu, 27. panta pirmās daļas 1. un 3. punktu, trešo, ceturto, piekto, sesto, septīto, astoto un devīto daļu, 35.¹ pantu, 39. panta trešo, ceturto, piekto un sesto daļu, 40. pantu, 41. panta 6.², 6.³, 6.⁴ un septīto daļu, 49. pantu.
