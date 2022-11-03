@@ -1,0 +1,1 @@
+18. Šā likuma 34. panta piecpadsmitajā daļā noteiktā kompensācija attiecināma arī uz zemessargu, kurš ieguvis vismaz vidējo izglītību, sekmīgi pabeidzis Zemessardzes vada komandiera pienākumu izpildītāja kursu, zemessargam ir piešķirta leitnanta dienesta pakāpe un viņš ir iecelts virsnieka amatā no 2020. gada 1. septembra.

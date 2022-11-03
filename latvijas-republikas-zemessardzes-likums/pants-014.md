@@ -1,5 +1,5 @@
 14.pants. Uzņemšana Zemessardzē
-(1) Zemessardzē uz brīvprātības pamata uzņem tos Latvijas pilsoņus vecumā no 18 līdz 55 gadiem:
+(1) Zemessardzē uz brīvprātības pamata uzņem tos Latvijas pilsoņus vecumā no 18 gadiem:
 1) kuri atbilst aizsardzības ministra noteiktajām prasībām attiecībā uz veselības stāvokli, fizisko sagatavotību un valsts valodas zināšanām, kā arī morālajām un psiholoģiskajām īpašībām;
 2) kuri nepilda profesionālo dienestu vai dienestu Iekšlietu ministrijas sistēmas iestādēs vai Ieslodzījuma vietu pārvaldē, valsts drošības iestādē, pašvaldības policijā, ostas policijā, prokuratūrā, Korupcijas novēršanas un apkarošanas birojā, Valsts ieņēmumu dienesta nodokļu un muitas policijā, Valsts ieņēmumu dienesta Iekšējās drošības pārvaldē vai Latvijas Bankas Aizsardzības pārvaldē;
 3) kuriem likumā nav noteikti ierobežojumi amatu savienošanai ar dienestu Zemessardzē.
@@ -15,4 +15,5 @@
 5) kura ir bijusi PSRS, Latvijas PSR, ir vai ir bijusi kādas ārvalsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 6) kuras uzņemšana Zemessardzē neatbilst nacionālās drošības interesēm saskaņā ar Militārās izlūkošanas un drošības dienesta atzinumu.
 (5) Aizsardzības ministra izveidota komisija var atļaut šā panta ceturtās daļas 3. vai 3.² punktā minētās personas uzņemšanu Zemessardzē, ja šī persona nav izdarījusi tīšu sevišķi smagu noziegumu un sodāmība ir dzēsta vai noņemta vai pēc nolēmuma par kriminālprocesa izbeigšanu uz nereabilitējoša pamata ir pagājuši ne mazāk kā pieci gadi.
+(5¹) Aizsardzības ministra izveidota komisija Ministru kabineta noteiktajā kārtībā var atļaut Latvijas pilsoņa, kas ir atvaļināts no militārā vai cita valsts dienesta vai izslēgts no Zemessardzes par disciplīnas pārkāpumiem, uzņemšanu dienestā Zemessardzē, bet ne agrāk kā piecus gadus pēc atvaļināšanas vai izslēgšanas dienas.
 (6) Ministru kabinets nosaka kārtību, kādā aizsardzības ministra izveidota komisija izvērtē jautājumu par šā panta piektajā daļā minētās atļaujas sniegšanu.

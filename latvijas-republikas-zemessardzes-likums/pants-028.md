@@ -1,3 +1,2 @@
-28.pants. Maksimālais vecums dienestam Zemessardzē
-(1) Maksimālais vecums dienestam Zemessardzē ir 60 gadi.
-(2) Atsevišķos gadījumos, ņemot vērā valsts aizsardzības vajadzības, Zemessardzes komandieris zemessargam, kurš sasniedzis šā panta pirmajā daļā dienestam Zemessardzē noteikto maksimālo vecumu un atbilst šā likuma prasībām, var pagarināt dienestu Zemessardzē uz laiku, kas nepārsniedz piecus gadus.
+28. pants. Maksimālais vecums dienestam Zemessardzē
+Maksimālais vecums dienestam Zemessardzē ir 65 gadi, izņemot zemessargus speciālistus, zemessargus instruktorus speciālistus un zemessargus virsniekus speciālistus. Ja zemessarga speciālista, zemessarga instruktora speciālista un zemessarga virsnieka speciālista veselība un fiziskā sagatavotība atbilst noteiktajām prasībām, viņš var turpināt dienestu Zemessardzē pēc 65 gadu vecuma sasniegšanas.
