@@ -1,0 +1,1 @@
+16. Šā likuma 3.¹ un 3.² pantā noteikto prasību par elektroniskā paraksta apliecināšanu ar kvalificētu elektronisko zīmogu regulas Nr. 910/2014 3. panta 27. punkta izpratnē un laika zīmogu regulas Nr. 910/2014 3. panta 33. punkta izpratnē sāk piemērot ar 2023. gada 1. janvāri.

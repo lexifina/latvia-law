@@ -1,0 +1,4 @@
+16.² pants. Centralizētā koplietošanas informācijas un komunikācijas tehnoloģiju risinājumu kopuma izmantošana
+(1) Valsts probācijas dienesta informācijas sistēmā iekļaujamo informāciju var apstrādāt, izmantojot risinājumu kopumu, kas nodrošina kriminālprocesa, administratīvā pārkāpuma procesa, administratīvā procesa, civilprocesa, procesa par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un nolēmuma izpildes procesa īstenošanu un procesos apstrādājamo datu pieejamību elektroniskajā vidē (turpmāk - e-lieta).
+(2) Valsts probācijas dienests, nodrošinot noteikto funkciju izpildi, saziņā ar probācijas klientu, valsts un pašvaldības iestādēm, fiziskajām un juridiskajām personām informāciju var nodot un saņemt, izmantojot e-lietas koplietošanas risinājumus.
+(3) Valsts probācijas dienesta funkciju izpildē iesaistītās fiziskās un juridiskās personas, kā arī probācijas klienti dokumentus var iesniegt un saņemt e-lietas portālā.

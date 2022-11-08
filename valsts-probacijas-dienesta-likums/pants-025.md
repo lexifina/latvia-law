@@ -3,7 +3,9 @@
 1) pieprasīt, lai probācijas klients uzrāda personu apliecinošu dokumentu;
 2) uzaicināt probācijas klientu ierasties Valsts probācijas dienesta struktūrvienībā;
 3) fotografēt probācijas klientu;
-4) iegūt informāciju par probācijas klientu.
+4) iegūt informāciju par probācijas klientu;
+5) organizēt informatīvus un izglītojošus pasākumus probācijas klienta ģimenes locekļiem un atbalsta personām;
+6) sniegt starpinstitūciju sanāksmes dalībniekiem informāciju par probācijas klientu un cietušo.
 (1¹) Valsts probācijas dienesta ierēdņiem funkciju izpildē ir šādas tiesības:
 1) saņemt informāciju par probācijas klienta sodāmībām, to skaitā par dzēstajām sodāmībām;
 2) saņemt informāciju par kriminālprocesa uzsākšanu pret probācijas klientu, par probācijas klientam piemērotajiem drošības līdzekļiem, probācijas klienta meklēšanu un dalību personu vai sabiedrības drošību apdraudējušajos notikumos;
@@ -34,13 +36,16 @@ e) atļauju nepilngadīgajam probācijas klientam šķērsot valsts robežu sask
 (1²) Šā likuma 18.² panta pirmajā daļā minētā uzdevuma izpildes ietvaros Valsts probācijas dienesta ierēdņiem un darbiniekiem ir tiesības par bijušajiem probācijas klientiem saņemt un apstrādāt šādus datus:
 1) šā panta 1.¹ daļas 1. un 2. punktā minēto informāciju;
 2) ziņas par personas nāvi.
-(2) Valsts probācijas dienesta ierēdņiem, uzraugot šā likuma 11.panta pirmajā daļā noteiktās personas, papildus šā panta pirmajā un 1.¹ daļā noteiktajam ir šādas tiesības:
+(2) Valsts probācijas dienesta ierēdņiem, uzraugot šā likuma 6. panta 5., 7., 9. un 10. punktā noteiktās personas, papildus šā panta pirmajā un 1.¹ daļā noteiktajam ir šādas tiesības:
 1) kontrolēt, kā probācijas klients saskaņā ar uzraudzības plānu pilda viņam izvirzītās prasības;
 2) apmeklēt probācijas klientu viņa dzīvesvietā bez iepriekšēja brīdinājuma;
 3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja atbilstoši kriminālsodu izpildi reglamentējošiem normatīvajiem aktiem probācijas klientam noteikts pienākums - aizliegums atstāt dzīvesvietu noteiktā diennakts laikā;
 4) saņemt informāciju par probācijas klienta iztikas avotiem;
 5) noteikt vai pilnīgi vai daļēji atcelt nosacīti notiesātajiem un nosacīti pirms termiņa no soda izciešanas atbrīvotajiem, kā arī personām, kurām ir piemērots papildsods - probācijas uzraudzība -, kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi;
-6) saņemt informāciju par nepilngadīgā probācijas klienta vecāku vai personas, kas viņus aizstāj, sodāmību.
+6) saņemt informāciju par nepilngadīgā probācijas klienta vecāku vai personas, kas viņus aizstāj, sodāmību un informāciju no nepilngadīgā probācijas klienta vecākiem par viņu veselību un atkarību izraisošu vielu lietošanu;
+7) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu);
+8) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu);
+9) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu).
 (2¹) Valsts probācijas dienesta ierēdņiem, īstenojot nosacīti pirms termiņa no soda izciešanas atbrīvotu personu elektronisko uzraudzību, papildus šā panta pirmajā, 1.¹ un otrajā daļā noteiktajam ir šādas tiesības:
 1) uzstādīt elektroniskās ierīces probācijas klienta dzīvesvietā;
 2) piestiprināt vai noņemt probācijas klientam elektronisko ierīci;
@@ -55,5 +60,10 @@ e) atļauju nepilngadīgajam probācijas klientam šķērsot valsts robežu sask
 11) bez probācijas klienta piekrišanas tikties ar viņa iespējamās dzīvesvietas īpašnieku, lai noskaidrotu šīs dzīvesvietas pastāvīgumu;
 12) bez probācijas klienta piekrišanas tikties ar viņa iespējamo darba devēju, lai noskaidrotu plānotās nodarbinātības paredzēto ietekmi uz elektroniskās uzraudzības īstenošanu.
 (3) Ja probācijas klients ir nepilngadīgs, viņa piekrišana šā panta 1.¹ daļas 6. un 7.punktā minētajos gadījumos nav nepieciešama.
-(4) Sagatavojot izvērtēšanas ziņojumu, Valsts probācijas dienesta ierēdņiem papildus šā panta pirmajā un 1.¹ daļā minētajām tiesībām ir arī šā panta otrās daļas 4.punktā minētās tiesības. Vērtējot elektroniskās uzraudzības piemērošanu probācijas klientam, Valsts probācijas dienesta ierēdņiem papildus ir šā panta 2.¹ daļas 8., 9., 10., 11. un 12. punktā minētās tiesības.
+(4) Sagatavojot izvērtēšanas ziņojumu, Valsts probācijas dienesta ierēdņiem papildus šā panta pirmajā un 1.¹ daļā minētajām tiesībām ir arī šā panta otrās daļas 4., 6. un 7. punktā minētās tiesības. Vērtējot elektroniskās uzraudzības piemērošanu probācijas klientam, Valsts probācijas dienesta ierēdņiem papildus ir šā panta 2.¹ daļas 8., 9., 10., 11. un 12. punktā minētās tiesības.
 (5) Valsts probācijas dienesta ierēdņiem un darbiniekiem ir tiesības Ministru kabineta noteiktajā kārtībā pārbaudīt probācijas klientu, lai konstatētu, vai viņš ir lietojis alkoholu, narkotiskās, toksiskās vai psihotropās vielas.
+(6) Valsts probācijas dienesta ierēdņiem un darbiniekiem, īstenojot šā likuma 6. panta 1., 2., 3., 4., 5., 7., 9. un 10. punktā noteiktās funkcijas un 10. panta otrajā daļā noteikto uzdevumu, ir tiesības veikt audioierakstu un videoierakstu, iepriekš informējot probācijas klientu un citas personas par šāda ieraksta veikšanu.
+(7) Valsts probācijas dienesta ierēdņiem un darbiniekiem, īstenojot šā likuma 6. panta 6. punktā noteikto funkciju, audioierakstu un videoierakstu ir tiesības veikt ar probācijas klienta un citu personu piekrišanu.
+(8) Audioieraksts un videoieraksts, kas veikts, īstenojot šā likuma 6. panta 1., 3., 4., 5., 7., 9. un 10. punktā noteiktās funkcijas, tiek glabāts Valsts probācijas dienesta informācijas sistēmā. Audioieraksta un videoieraksta glabāšanu nodrošina atbilstoši šā likuma 16. panta trešajā daļā minētajos Ministru kabineta noteikumos paredzētajai kārtībai.
+(9) Audioieraksts un videoieraksts, kas veikts, īstenojot šā likuma 6. panta 2. un 6. punktā noteiktās funkcijas un 10. panta otrajā daļā noteikto uzdevumu, Valsts probācijas dienesta informācijas sistēmā tiek glabāts sešus mēnešus no tā veikšanas dienas vai dzēsts nekavējoties pēc personas piekrišanas atsaukšanas, ja šāds ieraksts tika veikts, īstenojot šā likuma 6. panta 6. punktā noteikto funkciju.
+(10) Valsts probācijas dienesta ierēdņiem, īstenojot šā likuma 6. panta 3., 4., 5., 7., 9. un 10. punktā noteiktās funkcijas, ir tiesības veikt pārrunas ar probācijas klientu bez likumisko pārstāvju klātbūtnes.

@@ -4,8 +4,11 @@
 1) ir izteikusi vēlēšanos būt par brīvprātīgā darba veicēju;
 2) ir sasniegusi 18 gadu vecumu un kurai nav nodibināta aizgādnība;
 3) prot valsts valodu;
-4) ir saņēmusi Valsts probācijas dienesta vadītāja pilnvarotas personas rakstveida atzinumu, ka spēj veikt līgumā par brīvprātīgo darbu paredzamos uzdevumus;
-5) ir noslēgusi ar Valsts probācijas dienestu līgumu par brīvprātīgo darbu.
+4) (izslēgts ar 13.10.2022. likumu);
+5) ir noslēgusi ar Valsts probācijas dienestu līgumu par brīvprātīgo darbu;
+6) nav probācijas klients;
+7) nav sodīta par noziedzīgiem nodarījumiem pret tikumību un dzimumneaizskaramību - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+8) nav sodīta par tīšu smagu vai sevišķi smagu noziegumu - neatkarīgi no sodāmības dzēšanas vai noņemšanas, izņemot gadījumu, kad pēc sodāmības dzēšanas vai noņemšanas Valsts probācijas dienests izvērtējis, vai tas nekaitē sabiedrības interesēm, un atļāvis šai personai veikt brīvprātīgo darbu.
 (3) Ministru kabinets nosaka kārtību, kādā brīvprātīgā darba veicējs saņem izdevumu kompensāciju par līgumā noteikto uzdevumu izpildi, un izdevumu kompensācijas apmēru.
 (4) Brīvprātīgā darba veicējs drīkst būt starpnieks izlīguma procesā, ja:
 1) viņam ir pietiekamas zināšanas un prasmes izlīguma procesa organizēšanā un vadīšanā;

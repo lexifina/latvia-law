@@ -1,0 +1,1 @@
+17. Grozījumi šā likuma 18.² pantā par tā pirmās un trešās daļas izteikšanu jaunā redakcijā, kas nosaka Valsts probācijas dienesta darbības rezultātu izpēti un publiskošanu, stājas spēkā 2023. gada 1. jūlijā.

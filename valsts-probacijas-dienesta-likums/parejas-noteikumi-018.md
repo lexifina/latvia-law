@@ -1,0 +1,1 @@
+18. Grozījumi šā likuma 19. pantā par tā papildināšanu ar 1.¹ daļu, kā arī grozījumi šā likuma 20. un 21. pantā attiecībā uz Valsts probācijas dienesta konsultatīvo padomju sastāvu stājas spēkā 2023. gada 1. janvārī.

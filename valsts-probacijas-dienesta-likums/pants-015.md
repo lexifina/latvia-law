@@ -8,4 +8,4 @@
 2) sniegt informāciju par aizskarto cietušā tiesību vai likumisko interešu atjaunošanu vai tās iespēju.
 (3¹) Ja saņemts šā panta pirmajā daļā minētais pieprasījums un probācijas klients atsakās no pārrunām ar Valsts probācijas dienestu vai pārrunas ar attiecīgo klientu nav iespējamas, Valsts probācijas dienests nosūta izvērtēšanas ziņojuma pieprasītājam Valsts probācijas dienesta rīcībā esošo informāciju, ja tādu bija iespējams iegūt no citiem informācijas avotiem.
 (4) Izvērtēšanas ziņojuma sastādīšanas kārtību, tajā iekļaujamās informācijas apjomu un tā sniegšanas kārtību nosaka Ministru kabinets.
-(5) Izvērtēšanas ziņojuma sastādīšanas gaitā izmanto probācijas klienta riska un vajadzību novērtējumu.
+(5) Izvērtēšanas ziņojuma sastādīšanas gaitā izmanto probācijas klienta riska un vajadzību novērtējumu vai atbalsta vajadzību un resursu novērtējumu.
