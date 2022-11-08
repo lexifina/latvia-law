@@ -1,0 +1,1 @@
+36. Šā likuma 10. panta pirmās daļas 1.², 1.³, 2.² punkts, 2.¹ un 2.² daļa, 11. panta 5.⁵ daļas 2. punkta "b" apakšpunkta jaunā redakcija, 11.⁴ pants un grozījums šā likuma 12. panta otrās daļas 4. punkta "d" apakšpunktā stājas spēkā 2024. gada 1. jūlijā.
