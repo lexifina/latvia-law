@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 2. novembra noteikumi Nr. 686 \"Noteikumi par ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem, no biomasas kurināmā ražotās elektroenerģijas kritērijiem un kārtību, kādā pamatojama, apliecināma un uzraugāma atbilstība minētajiem kritērijiem\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "216",
+  "official_journal_page": null,
+  "official_journal_date": "2022-11-07",
+  "entry_into_force": "2022-11-08",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08228",
+  "nim_celex": "72024L1788LVA_202608228",
+  "nim_id": "202608228",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/96a6db79-328d-49d9-96fa-113b17676aa4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
