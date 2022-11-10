@@ -1,1 +1,1 @@
-3.pants. Zemes īpašniekam vai tiesiskajam valdītājam ir tiesības veikt zemes meliorāciju, ievērojot normatīvajos aktos par meliorācijas sistēmas būvniecību noteiktās prasības, un pienākums ekspluatēt un uzturēt meliorācijas sistēmu atbilstoši attiecīgu normatīvo aktu prasībām.
+3.pants. Zemes īpašniekam vai tiesiskajam valdītājam ir tiesības veikt meliorāciju, ievērojot normatīvajos aktos par meliorācijas sistēmas būvniecību noteiktās prasības, un pienākums ekspluatēt un uzturēt meliorācijas sistēmu atbilstoši attiecīgu normatīvo aktu prasībām.

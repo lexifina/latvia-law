@@ -1,6 +1,6 @@
 1.pants. Likumā ir lietoti šādi termini:
-1) zemes meliorācija - zemes uzlabošana, kas mazina klimatisko apstākļu nelabvēlīgo ietekmi un nodrošina dabas resursu ilgtspējīgu izmantošanu;
-2) meliorācijas sistēma - specializētu būvju un ierīču kopums zemes ūdens režīma regulēšanai;
+1) meliorācija - zemes uzlabošanas pasākumu kopums, kas mazina klimatisko apstākļu nelabvēlīgo ietekmi un konkrētā teritorijā maina grunts hidroloģiskos apstākļus, kā arī nodrošina infrastruktūras un teritoriju aizsardzību pret applūšanu;
+2) meliorācijas sistēma - meliorācijas kadastrā reģistrēts būvju un ierīču kopums zemes ūdens režīma regulēšanai noteiktā platībā;
 3) valsts meliorācijas sistēma - valstij piederoša meliorācijas sistēma, kuras ekspluatāciju un uzturēšanu īsteno valsts;
 4) valsts nozīmes meliorācijas sistēma - meliorācijas sistēma, kura atbilst normatīvajos aktos noteiktajiem kritērijiem un parametriem un kuras ekspluatāciju un uzturēšanu nodrošina valsts;
 5) pašvaldības meliorācijas sistēma - pašvaldībai piederoša meliorācijas sistēma, kuras ekspluatāciju un uzturēšanu nodrošina pašvaldība;
