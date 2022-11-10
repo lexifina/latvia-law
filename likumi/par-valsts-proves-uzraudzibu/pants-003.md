@@ -1,1 +1,1 @@
-3.pants. Latvijas Republikā dārgmetālu izstrādājumus zīmogo ar proves zīmogiem, kuros norādītā prove atbilst Konvencijā par dārgmetālu izstrādājumu pārbaudi un zīmogošanu noteiktajām provēm un standartā LVS EN 29202:2000 "Rotaslietas - Dārgmetālu sakausējumu tīrība" noteiktajām provēm.
+3.pants. Latvijas Republikā dārgmetālu izstrādājumus zīmogo ar proves zīmogiem, kuros norādītā prove atbilst Konvencijā par dārgmetālu izstrādājumu pārbaudi un zīmogošanu noteiktajām provēm.
