@@ -1,0 +1,1 @@
+25. Biedrības un nodibinājumi, kuri līdz ar grozījumu šā likuma 37. pantā spēkā stāšanos atbilst nacionālajai drošībai nozīmīgas biedrības vai nodibinājuma nosacījumiem, mēneša laikā pēc attiecīgo grozījumu spēkā stāšanās izpilda šā likuma 39. panta pirmajā daļā noteiktos pienākumus.
