@@ -1,0 +1,1 @@
+114. Ministru kabinets līdz 2023. gada 31. decembrim izstrādā un iesniedz Saeimai likumprojektu par nepieciešamajiem grozījumiem attiecībā uz vardarbības izskaušanu un nepieļaušanu izglītības iestādē un iekļaujošas izglītības īstenošanu.

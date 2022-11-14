@@ -1,3 +1,3 @@
-10.¹ pants. Izglītība un tikumība
-(1) Izglītības sistēma nodrošina izglītojamā tikumisko audzināšanu, kas atbilst Latvijas Republikas Satversmē ietvertajām un aizsargātajām vērtībām, īpaši tādām kā laulība un ģimene.
-(2) Izglītības iestāde, izņemot augstskolas, aizsargā izglītojamo no tādas informācijas un metodēm izglītības un audzināšanas procesā, kas neatbilst šā likuma mērķī ietvertajai izglītojamā tikumiskās attīstības nodrošināšanai.
+10.¹ pants. Tikumiskās, estētiskās, intelektuālās un fiziskās attīstības nodrošināšana izglītības procesā
+(1) Izglītības sistēma nodrošina izglītojamā tikumisko, estētisko, intelektuālo un fizisko attīstību, kas atbilst Latvijas Republikas Satversmē ietvertajām un aizsargātajām vērtībām, īpaši tādām kā dzīvība, cilvēka cieņa, brīvība, ģimene, laulība, darbs, daba, kultūra, latviešu valoda un Latvijas valsts.
+(2) Izglītības iestāde, izņemot augstskolas, aizsargā izglītojamo no tādas informācijas un tādu mācību līdzekļu un materiālu, kā arī tādu metožu izmantošanas izglītības un audzināšanas procesā, kas neatbilst šā likuma mērķī ietvertajai izglītojamā tikumiskās, estētiskās, intelektuālās un fiziskās attīstības nodrošināšanai, lai sekmētu zinīgas, prasmīgas un audzinātas personības veidošanos.

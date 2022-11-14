@@ -10,7 +10,7 @@ Ministru kabinets:
 7) dibina, reorganizē un likvidē valsts izglītības iestādes un valsts izglītības atbalsta iestādes pēc izglītības un zinātnes ministra vai citu ministru priekšlikuma;
 7¹) (izslēgts no 01.10.2021. ar 08.04.2021. likumu. Sk. Pārejas noteikumu 93. punktu);
 8) nosaka izglītības iestāžu reģistrācijas un akreditācijas, tajā skaitā ārkārtas akreditācijas un akreditācijas anulēšanas, kārtību;
-8¹) nosaka prasības sistēmiskai izglītības kvalitātes nodrošināšanai;
+8¹) nosaka prasības sistēmiskai izglītības kvalitātes nodrošināšanai, kā arī pašvaldības izglītības pārvaldes iestādes pārskata par izglītības kvalitāti attiecīgajā pašvaldībā struktūru un iesniegšanas kārtību;
 8²) apstiprina ikgadēju izglītības kvalitātes novērtējuma ziņojumu;
 9) (izslēgts ar 16.06.2009. likumu);
 10) reglamentē augstskolu akreditācijas noteikumus un kārtību;
@@ -31,7 +31,7 @@ Ministru kabinets:
 19) nosaka valsts izglītības standartus, kuros ietverti šo standartu prasībām atbilstoši izglītības programmu paraugi, izņemot profesionālās izglītības programmu paraugus un akadēmiskās izglītības programmu paraugus;
 20) nosaka izglītības programmu īstenošanas izmaksu minimumu uz vienu izglītojamo;
 20¹) nosaka kārtību, kādā izglītības iestāde (izņemot augstskolas un koledžas) nodrošina bibliotekāros un informācijas pakalpojumus;
-21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmās palīdzības pieejamība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
+21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmā palīdzība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
 21¹) nosaka izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm;
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju veidus, stipendiju saņemšanas kritērijus un kārtību, kā arī stipendiju minimālo un maksimālo apmēru augstākās izglītības programmās izglītojamiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;

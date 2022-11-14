@@ -1,0 +1,1 @@
+111. Izglītības un zinātnes ministrija sadarbībā ar Labklājības ministriju un Veselības ministriju izstrādā informatīvo ziņojumu par šā likuma 3. pantā minēto iekļaujošās izglītības attīstību visās izglītības pakāpēs līdz 2023. gada 14. aprīlim un iesniedz to izskatīšanai Ministru kabinetam.
