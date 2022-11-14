@@ -3,7 +3,7 @@
 (3) Pirms vēlēšanu kastes tiek atvērtas, vēlēšanu iecirkņa komisija balsu skaitīšanas protokolā ieraksta ziņas par saņemtajām, izlietotajām un pāri palikušajām vēlēšanu aploksnēm, balsotāju skaitu iecirknī un vēlētāju atrašanās vietās. Balsošanā neizmantotās apzīmogotās vēlēšanu aploksnes dzēš.
 (4) Pēc šā panta otrajā daļā minēto ziņu ierakstīšanas balsu skaitīšanas protokolā un balsu skaitīšanā neizmantoto materiālu un vēlēšanu aplokšņu iesaiņošanas atver vēlēšanu kastes. Vēlēšanu kastes atver pa vienai un saskaita vēlēšanu aploksnes.
 (5) No katras vēlēšanu kastes izņemtās vēlēšanu aploksnes, tās neatverot, sašķiro derīgajās un nederīgajās vēlēšanu aploksnēs.
-(6) Par nederīgām uzskatāmas saplēstas vēlēšanu aploksnes un tās vēlēšanu aploksnes, kuras nav apzīmogotas ar attiecīgās vēlēšanu iecirkņa komisijas zīmogu.
+(6) Par nederīgām uzskatāmas saplēstas vēlēšanu aploksnes un tās vēlēšanu aploksnes, kuras nav apzīmogotas ar attiecīgās vēlēšanu komisijas zīmogu, izņemot šā likuma 33.² pantā noteiktajā kārtībā atsūtītās pasta vēlēšanu aploksnes.
 (7) Nederīgās vēlēšanu aploksnes saskaita un neatvērtas iesaiņo, norādot, ka sainī atrodas nederīgās vēlēšanu aploksnes, kā arī to skaitu. Nederīgo vēlēšanu aplokšņu kopskaits ierakstāms balsu skaitīšanas protokolā.
 (8) No katras vēlēšanu kastes izņemto derīgo vēlēšanu aplokšņu skaitam jābūt vienādam ar attiecīgo vēlētāju skaitu vai mazākam par to.
 (9) Ja vēlēšanu kastē ir vēlēšanu zīmes, kas neatrodas vēlēšanu aploksnēs, tās dzēšamas un iesaiņojamas Centrālās vēlēšanu komisijas noteiktajā kārtībā.
