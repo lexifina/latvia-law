@@ -1,0 +1,1 @@
+1. Šā likuma 5. pantā paredzētais maksimālais būvdarbu termiņš attiecas arī uz tām Rail Baltica projekta ietvaros būvējamo būvju būvatļaujām, kas izdotas divu gadu laikā pirms šā likuma spēkā stāšanās.

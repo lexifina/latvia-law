@@ -1,0 +1,1 @@
+2. Šā likuma 6. pantā paredzētais topogrāfiskā plāna derīguma termiņš attiecas arī uz tiem Rail Baltica projektam sagatavotajiem topogrāfiskajiem plāniem, kas reģistrēti vietējās pašvaldības datubāzē divu gadu laikā pirms šā likuma spēkā stāšanās.
