@@ -3,7 +3,7 @@
 1) apstiprina valsts zemes politiku;
 2) izdod noteikumus, kuros paredz veidu, kādā atlīdzināmi zaudējumi, kas radušies sakarā ar nekustamā īpašuma tiesību aprobežojumiem, nodrošinot piekļuvi iekšzemes publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām, atlīdzības apmēru, aprēķināšanas un samaksas kārtību;
 3) (izslēgts ar 27.09.2018. likumu);
-4) izdod noteikumus par zemes konsolidācijas ierosināšanas un finansēšanas kārtību, par zemes konsolidācijas projekta saturu, izstrādes un īstenošanas kārtību, kā arī par kārtību, kādā nosaka zemes gabalu relatīvo novērtējumu zemes konsolidācijas vajadzībām;
+4) (izslēgts ar 20.10.2022. likumu);
 5) izdod noteikumus par kārtību, kādā Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrē un aktualizē informāciju par jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem;
 6) izdod noteikumus par degradēto teritoriju un augsnes degradācijas kritērijiem un to klasifikāciju, kā arī par kārtību, kādā konstatē un novērtē degradētās teritorijas un augsnes degradāciju, nosaka augsnes degradācijas novēršanas pasākumus un uzrauga to īstenošanu;
 7) izdod noteikumus par Augšņu informācijas sistēmas izveidošanu un par augsnes kartēšanas, zemes kvalitātes vērtēšanas un iegūtās informācijas uzturēšanas un aktualizēšanas kārtību;
