@@ -43,7 +43,7 @@
 10) (izslēgts ar 15.12.2011. likumu);
 11) atmaksājamais pārmaksātais sociālais nodoklis (valsts sociālās apdrošināšanas obligātās iemaksas);
 12) dividendes, dividendēm pielīdzināms ienākums un nosacītās dividendes;
-13) procentu ienākums;
+13) procentu ienākums, izņemot procentu ienākumu, kas izmaksāts ieguldījumu kontā. Procentu ienākumiem, kas izmaksāti ieguldījumu kontā, tiek piemērots šā likuma 11.⁹ panta vienpadsmitās daļas 6. punkts;
 14) stipendijas, izņemot stipendijas, kuras saskaņā ar šā likuma 9.panta pirmās daļas 8.punktu nav apliekamas ar nodokli;
 15) papildpensijas kapitāls, kas veidojies no darba devēja veiktajām iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem vai iemaksām privātā pensiju fonda pensiju plānā saskaņā ar Solidaritātes nodokļa likumu un izmaksāts pensiju plānu dalībniekiem;
 16) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;

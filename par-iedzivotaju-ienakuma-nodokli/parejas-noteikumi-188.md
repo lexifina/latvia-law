@@ -1,0 +1,1 @@
+188. Šā likuma 9. panta pirmās daļas 35.⁷ punkts un 16.¹ panta septiņpadsmitā daļa attiecināma uz to fiziskās personas maksātnespējas procesa ietvaros atsavināto kapitāla aktīvu, kas atsavināts pēc šo normu spēkā stāšanās dienas.

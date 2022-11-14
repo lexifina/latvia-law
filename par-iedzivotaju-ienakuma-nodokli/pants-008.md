@@ -52,7 +52,7 @@
 20²) ienākumam pielīdzināmi aizdevumi;
 20³) samazinātu aizdevuma procentu maksājumu radītais ienākums;
 20⁴) izložu un azartspēļu laimesti, ja šā likuma 9. panta pirmās daļas 5. punktā nav noteikts citādi;
-20⁵) ienākumi, kas radušies samazinātu vai dzēstu saistību rezultātā, izņemot šā likuma 9. panta pirmās daļas 8.³, 35.¹, 35.², 35.³, 35.⁴, 35.⁵ un 45. punktā minētos ienākumus;
+20⁵) ienākumi, kas radušies samazinātu vai dzēstu saistību rezultātā, izņemot šā likuma 9. panta pirmās daļas 8.³, 35.¹, 35.², 35.³, 35.⁴, 35.⁵, 35.⁶ un 45. punktā minētos ienākumus;
 21) citi ienākumi, kas nav minēti šā likuma 9.pantā.
 4. Šā panta otrā daļa neattiecas uz ienākumiem, ko fiziskā persona gūst uz tādu darba attiecību pamata, kas paredz šo personu nodarbināt uz starptautiskos pārvadājumos izmantojama kuģa. Par taksācijas gada mēnesi, kurā persona ir nodarbināta (darba attiecībās) uz starptautiskos pārvadājumos izmantojama kuģa, minētās personas ienākumi, par kuriem maksājams algas nodoklis, ir uz darba attiecību pamata gūtā ienākuma daļa šādā apmērā:
 1) virsniekiem - Ministru kabineta noteikto 2,5 mēneša minimālo darba algu apmērā;

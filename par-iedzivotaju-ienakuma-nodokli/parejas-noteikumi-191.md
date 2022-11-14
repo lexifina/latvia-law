@@ -1,0 +1,1 @@
+191. Grozījumus šā likuma 11. pantā attiecībā uz 3.², 3.³ un 3.⁴ daļas izslēgšanu, grozījumu 11. panta 3.⁵ un devītajā daļā, grozījumu 11.¹ panta astotajā daļā un grozījumu 19. panta devītajā daļā piemēro, sākot ar 2022. gada 1. janvāri.

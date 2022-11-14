@@ -34,21 +34,17 @@
 14¹) ar kokmateriālu sagatavošanu un atsavināšanu saistītās izmaksas 50 procentu apmērā no kokmateriālu atsavināšanas ieņēmumiem, ja šīs izmaksas netiek dokumentāri pamatotas;
 15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
 3.¹ (Atzīta par spēkā neesošu ar Satversmes tiesas 07.01.2022. spriedumu)
-3.² Saimnieciskās darbības izdevumu veidi, kuri ar saimniecisko darbību saistītajos izdevumos ir iekļaujami pilnā apmērā:
-1) darba alga un darba devēja valsts sociālās apdrošināšanas obligātās iemaksas, tai skaitā solidaritātes nodoklis, ko saimnieciskās darbības veicējs maksā par saviem darbiniekiem;
-2) nekustamā īpašuma nodoklis;
-3) pamatlīdzekļu nolietojums, ko aprēķina saskaņā ar šā likuma 11.⁵ pantu un Ministru kabineta noteikumos noteikto kārtību;
-4) kompensācijas īrniekiem par dzīvojamo telpu atbrīvošanu un īres līguma laušanu sakarā ar dzīvojamās telpas kapitālremontu vai telpu pārbūvi saimnieciskās darbības veikšanai.
-3.³ Šā panta 3.¹ daļā noteikto saimnieciskās darbības izdevumu ierobežojuma apmēru nepiemēro maksātājiem par pirmo taksācijas gadu, kurā reģistrēta saimnieciskā darbība, un par nākamo taksācijas gadu, kā arī par gadu, kurā izbeigta saimnieciskā darbība vai pabeigts likvidācijas process.
-3.⁴ Saimnieciskās darbības izdevumu ierobežojuma apmēra noteikšanai atbilstoši šā panta 3.¹ daļai saimnieciskās darbības ieņēmumos tiek ņemtas vērā arī summas, kas saņemtas valsts atbalsta lauksaimniecībai vai Eiropas Savienības atbalsta lauksaimniecībai un lauku attīstībai ietvaros.
-3.⁵ Nosacītie izdevumi, kas saistīti ar samaksas par intelektuālo īpašumu (izņemot ienākumus, kurus izmaksā kolektīvā pārvaldījuma organizācija) gūšanu, kā arī literatūras, zinātnes vai mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un izpildītāju izdevumi, kuri saistīti ar šo darbu radīšanu, izdošanu, izpildīšanu vai citādu izmantošanu un par kuriem autori un izpildītāji saņem atlīdzību, ja šie maksātāji negūst cita veida saimnieciskās darbības ieņēmumus, par noteiktiem autoru darbu un izpildījumu veidiem ir 25 vai 50 procentu apmērā no saimnieciskās darbības ieņēmumiem. Minēto autoru darbu un izpildījumu veidus un nosacīto izdevumu piemērošanas apmēru atkarībā no autora darba vai izpildījuma veida nosaka Ministru kabinets. Ja maksātāja saimnieciskās darbības faktiskie izdevumi ir lielāki, viņš ir tiesīgs piemērot saimnieciskās darbības izdevumus uz attaisnojuma dokumentu pamata (šajā gadījumā nepiemēro nosacīto izdevumu normu 25 vai 50 procentu apmērā no saimnieciskās darbības ieņēmumiem), ņemot vērā šā panta 3.¹, 3.² un 3.³ daļas nosacījumus.
+3.² (Izslēgta ar 20.10.2022. likumu)
+3.³ (Izslēgta ar 20.10.2022. likumu)
+3.⁴ (Izslēgta ar 20.10.2022. likumu)
+3.⁵ Nosacītie izdevumi, kas saistīti ar samaksas par intelektuālo īpašumu (izņemot ienākumus, kurus izmaksā kolektīvā pārvaldījuma organizācija) gūšanu, kā arī literatūras, zinātnes vai mākslas darbu, atklājumu, izgudrojumu un rūpniecisko paraugu autoru un izpildītāju izdevumi, kuri saistīti ar šo darbu radīšanu, izdošanu, izpildīšanu vai citādu izmantošanu un par kuriem autori un izpildītāji saņem atlīdzību, ja šie maksātāji negūst cita veida saimnieciskās darbības ieņēmumus, par noteiktiem autoru darbu un izpildījumu veidiem ir 25 vai 50 procentu apmērā no saimnieciskās darbības ieņēmumiem. Minēto autoru darbu un izpildījumu veidus un nosacīto izdevumu piemērošanas apmēru atkarībā no autora darba vai izpildījuma veida nosaka Ministru kabinets. Ja maksātāja saimnieciskās darbības faktiskie izdevumi ir lielāki, viņš ir tiesīgs piemērot saimnieciskās darbības izdevumus uz attaisnojuma dokumentu pamata (šajā gadījumā nepiemēro nosacīto izdevumu normu 25 vai 50 procentu apmērā no saimnieciskās darbības ieņēmumiem).
 3.⁶ Ja samaksu par intelektuālo īpašumu izmaksā kolektīvā pārvaldījuma organizācija, minēto ienākumu neietver maksātāja saimnieciskās darbības ienākumos.
 4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas saskaņā ar Uzņēmumu ienākuma nodokļa likumu tiek uzskatīti par ar saimniecisko darbību nesaistītiem izdevumiem.
 5. (Izslēgta ar 19.12.2006. likumu.)
 6. Apliekamajā ienākumā netiek ietverti lauksaimniecības produkti (pašpatēriņš), ko savām vajadzībām izlietojis maksātājs un viņa ģimenes locekļi, kā arī personas, kuras ar maksātāju ir radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei.
 7. (Izslēgta ar 22.09.2011. likumu)
 8. (Izslēgta ar 13.05.2010. likumu)
-9. Maksātāja taksācijas gada saimnieciskās darbības zaudējumi sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma, nepārsniedzot šā panta 3.¹ daļā noteikto saimnieciskās darbības izdevumu ierobežojumu.
+9. Maksātāja taksācijas gada saimnieciskās darbības zaudējumi sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma.
 9.¹ Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumus, kas radušies maksātājam - mikrouzņēmuma īpašniekam, kad tas bija mikrouzņēmumu nodokļa maksātājs, nedrīkst pārnest uz nākamajiem taksācijas gadiem, nosakot saimnieciskās darbības apliekamo ienākumu.
 10. (Izslēgta ar 06.11.2013. likumu)
 11. (Izslēgta ar 01.12.2009. likumu)

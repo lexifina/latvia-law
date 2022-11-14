@@ -17,6 +17,11 @@
 3) šā likuma 11. panta divpadsmitajā daļā minētajam ienākumam.
 7. Šā likuma 3. panta trešās daļas 7.¹ punktā minētajam ienākumam, ja šā ienākuma izmaksātājs atbilstoši šā likuma 17. panta divpadsmitajai un 12.² daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota trīs procentu likme no izmaksātās atlīdzības apmēra.
 7.¹ Šā likuma 3. panta trešās daļas 3. punktā un 12. punkta "a" apakšpunktā minētajam ienākumam tiek piemērota 23 procentu likme.
+7.² Šā likuma 3. panta trešās daļas 11. punktā minētajam ienākumam, no kura šā ienākuma izmaksātājs - Latvijas rezidents - atbilstoši šā likuma 17. panta divpadsmitajai daļai ietur nodokli ienākuma izmaksas vietā, tiek piemērota piecu procentu likme, ja ir izpildīti visi turpmāk minētie nosacījumi:
+1) izmaksa ir veikta ar ieguldījumu pakalpojumu sniedzēja, tai skaitā centrālā vērtspapīru depozitārija, starpniecību par tādu finanšu instrumentu, kura emisijas organizētājs ir ieguldījumu pakalpojumu sniedzējs, kuru uzrauga atvasināta publiska persona, kas regulē un uzrauga finanšu tirgus un to dalībniekus;
+2) saņēmējs ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, kurš nav saimnieciskās darbības veicējs;
+3) attiecīgais finanšu instruments nav iekļauts publiskajā apgrozībā.
+7.³ Šā panta 7.² daļas 2. punkta piemērošanai ienākuma saņēmēja rezidence tiek noteikta, pamatojoties uz klienta paša apliecinājumu, kas sniegts ieguldījumu pakalpojumu sniedzējam vai ar centrālā vērtspapīru depozitārija starpniecību, saskaņā ar pienācīgas pārbaudes procedūru automātiskās informācijas apmaiņai par finanšu kontiem.
 8. Šā likuma 3. panta trešās daļas 12. punkta "b" apakšpunktā minētajam ienākumam tiek piemērota piecu procentu likme.
 9. (Izslēgta ar 27.11.2020. likumu)
 10. Mikrouzņēmumu nodokļa maksātāja ienākumam piemēro nodokļa likmi atbilstoši Mikrouzņēmumu nodokļa likumam.

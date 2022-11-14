@@ -21,7 +21,7 @@ b) pārsniedz maksātāja plānoto zudumu normu, kas aprēķināta, pamatojoties
 6. (Izslēgta ar 01.12.2009. likumu)
 6.¹ (Atzīta par spēkā neesošu ar Satversmes tiesas 07.01.2022. spriedumu)
 7. Ja maksātājs gūst ienākumu no lauksaimnieciskās ražošanas vai lauku tūrisma pakalpojumu sniegšanas, tas samazina saimnieciskās darbības ienākumu par šā likuma 9.panta pirmās daļas 1.punktā minēto neapliekamo ienākumu no lauksaimnieciskās ražošanas vai lauku tūrisma pakalpojumu sniegšanas. Ja maksātājs gūst ienākumu no lauksaimnieciskās ražošanas vai lauku tūrisma pakalpojumiem un citiem saimnieciskās darbības veidiem, tas samazina saimnieciskās darbības ienākumu par šā likuma 9.panta pirmās daļas 1.punktā minēto neapliekamo ienākumu no lauksaimnieciskās ražošanas vai lauku tūrisma pakalpojumu sniegšanas proporcionāli lauksaimnieciskās ražošanas vai lauku tūrisma pakalpojumu sniegšanas ieņēmumiem kopējos saimnieciskās darbības ieņēmumos.
-8. Maksātāja taksācijas gada saimnieciskās darbības zaudējumi pēc šajā pantā noteikto korekciju veikšanas sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma, ievērojot šā panta 6.¹ daļā noteikto ar nodokli apliekamā ienākuma noteikšanas kārtību.
+8. Maksātāja taksācijas gada saimnieciskās darbības zaudējumi pēc šajā pantā noteikto korekciju veikšanas sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības apliekamā ienākuma.
 9. (Izslēgta ar 01.12.2009. likumu)
 10. Maksātājs, kas uzsācis kārtot grāmatvedību divkāršā ieraksta sistēmā, to dara vismaz piecus taksācijas gadus pēc kārtas.
 11. Šā panta noteikumus, izņemot otro daļu, nepiemēro maksātājam, kurš ir izvēlējies maksāt mikrouzņēmumu nodokli saskaņā ar Mikrouzņēmumu nodokļa likumu.
