@@ -1,0 +1,1 @@
+1. pants. Tallinā un Rīgā parakstītais Latvijas Republikas valdības un Igaunijas Republikas valdības līgums par solidaritātes pasākumiem gāzes piegādes drošības aizsardzībai (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
