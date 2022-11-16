@@ -1,0 +1,1 @@
+1. pants. 2022. gadā Rīgā un Viļņā parakstītais Latvijas Republikas valdības un Lietuvas Republikas valdības līgums par solidaritātes pasākumiem gāzes piegādes drošības aizsardzībai (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
