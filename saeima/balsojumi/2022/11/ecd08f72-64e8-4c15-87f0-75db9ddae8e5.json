@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 4,
+ "datums": "2022-11-17",
+ "ieraksts": {
+  "dkp_id": "7a6b5d6b-c6b5-40f2-b74e-dbc2eca11cd3",
+  "lastmodtime": "\"AAAAAAIAL0k=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Edgars#Skaidrīte#Anna#Edmunds#Atis#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Inese#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Zanda#Jānis#Evika#Nauris#Arvils#Rihards#Andrejs#Irma#Harijs#Augusts#Aiva#Ainārs#Līga#Nataļja#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Anda#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Rinkēvičs#Ābrama#Rancāne#Cepurītis#Deksnis#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Lībiņa-Egnere#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Siliņa#Puntulis#Ašeradens#Kols#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Šlesers#Kļaviņa#Marčenko-Jodko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Čakša#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##############################################################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#PRO#AS#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#JV#JV#NA#ZZS#ZZS#AS#LPV#AS#ST!#LPV#PRO#JV#NA#JV#NA#PRO#JV#NA#JV#NA#JV#NA#JV#JV#ZZS#ZZS#AS#LPV#ZZS#ST!#LPV#JV#AS#JV#ST!#ST!#AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ZZS#ST!#AS#PRO#PRO#PRO# #LPV#JV#AS#LPV#LPV#PRO#JV#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.11.2022 09:05:44",
+  "VOTEMOTIVE": "Par Jekaterinas Dorošķevičas 14. Saeimas deputātes pilnvaru apstiprināšanu (11/Lm14)",
+  "VOTING_ID": "ecd08f72-64e8-4c15-87f0-75db9ddae8e5",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "93",
+  "VOTERESULT_REGISTERED": "95",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/3c0eb5ab-f3cb-4d6a-afd7-6125b7fc4941/download/14.saeimas-2022.gada-rudens-sesija-4-vote.xml",
+  "sha256": "c2bb75a4920eea61536c3e75e2bdba01cfa1b0aad063adf40f4356e4fdbc23b7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
