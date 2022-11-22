@@ -131,7 +131,7 @@ e) starptautiska finanšu institūcija, kuru izveidojušas divas vai vairākas d
 f) Eiropas Investīciju banka;
 99) valsts parāds - parāda instruments, ko emitē valsts emitents;
 100) pastāvīgs informācijas nesējs - jebkurš instruments, kas klientam sniedz iespēju uzglabāt viņam personīgi adresētu informāciju tā, lai šī informācija būtu pieejama turpmākai izmantošanai laikposmā, kas atbilst informācijas mērķim, un ļauj nemainītā veidā uzrādīt uzglabāto informāciju;
-101) (izslēgts 28.04.2022. likumu);
+101) (izslēgts ar 28.04.2022. likumu);
 102) naudas tirgus instrumenti - finanšu instrumenti, kurus parasti tirgo naudas tirgū: valsts parādzīmes, noguldījumu sertifikāti un komercsabiedrību parādzīmes, izņemot maksāšanas līdzekļus;
 103) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
 104) filiāle - teritoriāli vai citādi nošķirta ieguldījumu brokeru sabiedrības vai kredītiestādes struktūrvienība, kurai nav juridiskās personas statusa un kura darbojas ieguldījumu brokeru sabiedrības vai kredītiestādes vārdā. Visas struktūrvienības, kuras vienā dalībvalstī ir izveidojusi ieguldījumu brokeru sabiedrība vai kredītiestāde, kas atrodas citā dalībvalstī, uzskatāmas par vienu filiāli;
@@ -153,4 +153,4 @@ f) Eiropas Investīciju banka;
 8) publiskā piedāvājuma izteicējs - piedāvātājs Regulas Nr. 2017/1129 2. panta "i" punkta izpratnē.
 (4) Likumā lietotais termins "saistītā puse" atbilst Komisijas 2008. gada 3. novembra regulas (EK) Nr. 1126/2008, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002 pielikumā minētajā 24. SGS "Informācijas atklāšana par saistītajām pusēm" lietotajam terminam.
 (5) Piemērojot šā likuma tiesību normas, kurās ir ietverti šā panta pirmajā daļā minētie termini, ievēro Komisijas 2016. gada 25. aprīļa deleģēto regulu (ES) 2017/565, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2014/65/ES attiecībā uz ieguldījumu brokeru sabiedrību organizatoriskām prasībām un darbības nosacījumiem un jēdzienu definīcijām minētās direktīvas mērķiem (turpmāk - Regula Nr. 2017/565) un Komisijas 2017. gada 28. augusta deleģēto regulu (ES) 2017/2294, ar ko deleģēto regulu (ES) 2017/565 groza attiecībā uz sistemātisko internalizētāju definīcijas konkretizēšanu direktīvas 2014/65/ES vajadzībām.
-(6) (Daļa stājas spēkā 22.11.2022. un iekļauta likuma redakcijā uz 22.11.2022. Sk. Pārejas noteikumu 77. punktu)
+(6) Likumā lietotais termins "ilgtspējas faktori" atbilst Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulas (ES) 2019/2088 par informācijas atklāšanu, kas saistīta ar ilgtspēju, finanšu pakalpojumu nozarē 2. panta 24. punktā lietotajam terminam.
