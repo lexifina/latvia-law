@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 7,
+ "datums": "2022-11-24",
+ "ieraksts": {
+  "dkp_id": "80fce1bc-aa1c-4278-aa91-882543521a56",
+  "lastmodtime": "\"AAAAAAIAr2I=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Edgars#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Inese#Jekaterina#Rihards#Edmunds#Armands#Andris#Ričards#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Zanda#Evika#Nauris#Raimonds#Arvils#Rihards#Andrejs#Irma#Harijs#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Rinkēvičs#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Lībiņa-Egnere#Dorošķeviča#Kozlovskis#Teirumnieks#Krauze#Kulbergs#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Siliņa#Puntulis#Čudars#Ašeradens#Kols#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#################################################################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#JV#ST!#JV#NA#ZZS#AS#LPV#AS#ST!#LPV#PRO#JV#NA#JV#NA#PRO#JV#JV#NA#JV#JV#NA#JV#JV#ZZS#ZZS#AS#LPV#ZZS#ST!#ST!#LPV#JV#AS#JV#ST!#ST!#AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ZZS#ST!#AS#PRO#PRO#PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO#JV#NA#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Pret#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Par#Par#Par#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Pret#Par#Pret#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.11.2022 13:36:28",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi Valsts pārvaldes iekārtas likumā (10/Lp14), 1.lasījums",
+  "VOTING_ID": "5136e3de-0aa5-4fea-a529-30d4c4a90155",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "45",
+  "VOTERESULT_FOR": "51",
+  "VOTERESULT_REGISTERED": "98",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": "Deputāts Didzis Šmits iesniegumā raksta, ka ir kļūdījies balsojumā. Viņa balsojums ir \"PAR\". Deputāts Andris Kulbergs iesniegumā raksta, ka ir bijusi tehniska kļūme. Viņa balsojums ir \"PAR\". "
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cd973430-c0f0-4919-9a69-f8ad0c2f99b0/download/14.saeimas-2022.gada-rudens-sesija-7-vote.xml",
+  "sha256": "0f4d94991f5160382cd71976b09b2304066bd1c2033168b72aa38f2be1f195f6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
