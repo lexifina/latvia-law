@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 7,
+ "datums": "2022-11-24",
+ "ieraksts": {
+  "dkp_id": "9d66c2e8-1c83-4225-8e73-6dc2ee15254f",
+  "lastmodtime": "\"AAAAAAIAna0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Edgars#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Inese#Jekaterina#Rihards#Edmunds#Andris#Ričards#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Jana#Zanda#Jānis#Evika#Nauris#Raimonds#Arvils#Rihards#Andrejs#Irma#Harijs#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Rinkēvičs#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Lībiņa-Egnere#Dorošķeviča#Kozlovskis#Teirumnieks#Kulbergs#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Siliņa#Puntulis#Čudars#Ašeradens#Kols#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "################################################################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#JV#ST!#JV#NA#AS#LPV#AS#ST!#LPV#PRO#JV#NA#JV#PRO#JV#NA#JV#NA#JV#JV#NA#JV#JV#ZZS#ZZS#AS#LPV#ZZS#ST!#ST!#LPV#JV#AS#JV#ST!#ST!#AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ZZS#ST!#AS#PRO#PRO#PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO#JV#NA#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Pret#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Par#Pret#Nebalsoja#Par#Par#Par#Par#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Pret#Par#Pret#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.11.2022 16:21:33",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi Ministru kabineta iekārtas likumā (11/Lp14), 1.lasījums",
+  "VOTING_ID": "322da8cd-4dee-4703-833d-4ca8bc967760",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "43",
+  "VOTERESULT_FOR": "53",
+  "VOTERESULT_REGISTERED": "97",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cd973430-c0f0-4919-9a69-f8ad0c2f99b0/download/14.saeimas-2022.gada-rudens-sesija-7-vote.xml",
+  "sha256": "0f4d94991f5160382cd71976b09b2304066bd1c2033168b72aa38f2be1f195f6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
