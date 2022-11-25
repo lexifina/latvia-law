@@ -1,0 +1,1 @@
+46.¹ pants. Eiropas Parlamenta deputāts, kas notiesāts par noziedzīgu nodarījumu, zaudē savu mandātu, un viņa vietā stājas nākamais kandidāts no tā paša kandidātu saraksta, no kura bija ievēlēts iepriekšējais deputāts.
