@@ -1,6 +1,6 @@
 243.pants. Automatizētas datu apstrādes sistēmas darbības traucēšana un nelikumīga rīcība ar šajā sistēmā iekļauto informāciju
 (1) Par automatizētā datu apstrādes sistēmā esošās informācijas neatļautu grozīšanu, bojāšanu, iznīcināšanu, pasliktināšanu vai aizklāšanu vai apzināti nepatiesas informācijas ievadīšanu automatizētā datu apstrādes sistēmā, ja ar to radīts būtisks kaitējums, -
-soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
 (2) Par automatizētas datu apstrādes sistēmas darbības apzinātu traucēšanu, ievadot, pārnesot, bojājot, izdzēšot, pasliktinot, izmainot vai aizklājot informāciju, ja ar to tiek bojāta vai iznīcināta aizsardzības sistēma un radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
 (3) Par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts mantkārīgā nolūkā, -
