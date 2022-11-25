@@ -1,5 +1,5 @@
-265.pants. Transportlīdzekļa reģistrācijas dokumenta, agregāta un reģistrācijas numura zīmes nelikumīga izgatavošana, realizēšana, izsniegšana, viltošana, iznīcināšana un nolaupīšana
-(1) Par transportlīdzekļa reģistrācijas dokumenta, agregāta vai reģistrācijas numura zīmes nelikumīgu izgatavošanu, realizēšanu, izsniegšanu, viltošanu vai iznīcināšanu -
+265. pants. Transportlīdzekļa reģistrācijas dokumenta, agregāta un reģistrācijas numura zīmes nelikumīga izgatavošana, realizēšana, izsniegšana, viltošana, iznīcināšana, nolaupīšana un viltojuma izmantošana
+(1) Par transportlīdzekļa reģistrācijas dokumenta, agregāta vai reģistrācijas numura zīmes nelikumīgu izgatavošanu, realizēšanu, izsniegšanu, viltošanu, iznīcināšanu vai viltotas reģistrācijas numura zīmes izmantošanu -
 soda ar brīvības atņemšanu uz laiku līdz vienam gadam vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
 (2) Par transportlīdzekļa reģistrācijas dokumenta vai reģistrācijas numura zīmes nolaupīšanu -
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
