@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2022. gada 28. novembra lēmums Nr. 1/41 \"Elektroenerģijas sadales sistēmas pakalpojumu tarifu aprēķināšanas metodika\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "232",
+  "official_journal_page": null,
+  "official_journal_date": "2022-11-30",
+  "entry_into_force": "2022-12-01",
+  "notification_date": "2025-12-19",
+  "commission_reference": "MNE(2025)07167",
+  "nim_celex": "72023L1791LVA_202507167",
+  "nim_id": "202507167",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ec576b94-870d-4e88-b3dc-bac3db86262a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
