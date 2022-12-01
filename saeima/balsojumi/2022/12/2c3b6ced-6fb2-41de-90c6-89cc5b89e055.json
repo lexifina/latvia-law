@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 8,
+ "datums": "2022-12-01",
+ "ieraksts": {
+  "dkp_id": "1370d5d8-982d-45c7-a379-e4147285482d",
+  "lastmodtime": "\"AAAAAAIBgfc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Edgars#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Inese#Jekaterina#Rihards#Edmunds#Armands#Andris#Ričards#Ingmārs#Viktors#Edmunds#Andris#Artūrs#Agnese#Raivis#Jana#Zanda#Jānis#Evika#Nauris#Raimonds#Arvils#Rihards#Andrejs#Irma#Harijs#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Rinkēvičs#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Lībiņa-Egnere#Dorošķeviča#Kozlovskis#Teirumnieks#Krauze#Kulbergs#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Butāns#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Siliņa#Puntulis#Čudars#Ašeradens#Kols#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#############################################################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#PRO#AS#JV#ZZS#ST!#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#JV#ST!#JV#NA#ZZS#AS#LPV#AS#ST!#LPV#PRO#NA#JV#NA#PRO#JV#NA#JV#NA#JV#JV#NA#JV#JV#ZZS#ZZS#AS#LPV#ZZS#ST!#ST!#LPV#AS#JV#ST!#ST!#AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ZZS#ST!#AS#PRO#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#JV#NA#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.12.2022 13:54:42",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi likumā “Par iedzīvotāju ienākuma nodokli” (34/Lp14), 1.lasījums",
+  "VOTING_ID": "2c3b6ced-6fb2-41de-90c6-89cc5b89e055",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "89",
+  "VOTERESULT_REGISTERED": "94",
+  "VOTE_NUMBER": "39",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4a244c3c-eb71-4a7f-8268-dc8b29c8924b/download/14.saeimas-2022.gada-rudens-sesija-8-vote.xml",
+  "sha256": "3f496bb77640c256308c7d03b7c14e478ffa24f516e447697138fb80f8d2950f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
