@@ -5,4 +5,5 @@
 4) nekustamā īpašuma objekta apgrūtinājuma robežu iezīmēšanu un platības aprēķināšanu zemes kadastrālās uzmērīšanas dokumentos;
 5) nekustamā īpašuma lietu un citu kadastra dokumentu glabāšanas kārtību;
 6) termiņu, kādā veicama būves kadastrālā uzmērīšana un zemes un būvju kadastrālās uzmērīšanas dokumenti iesniedzami reģistrācijai Kadastra informācijas sistēmā;
-7) kadastrālās uzmērīšanas datu un dokumentu labošanas kārtību.
+7) kadastrālās uzmērīšanas datu un dokumentu labošanas kārtību;
+8) gadījumus, kad var neveikt kadastrālo uzmērīšanu.
