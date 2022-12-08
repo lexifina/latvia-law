@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 9,
+ "datums": "2022-12-08",
+ "ieraksts": {
+  "dkp_id": "9053a0e6-d9bf-4cc9-be63-c405a0e6431d",
+  "lastmodtime": "\"AAAAAAICXow=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Edgars#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Inese#Jekaterina#Rihards#Edmunds#Uldis#Ričards#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Jānis#Evika#Nauris#Raimonds#Arvils#Rihards#Andrejs#Irma#Harijs#Augusts#Aiva#Līga#Dmitrijs#Nataļja#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Mārtiņš#Daiga#Jānis#Uģis#Agita#Kristaps#Česlavs#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Anita#Gunārs#Raimonds#Edgars#Kaspars#Jānis#Lauris#Vilis#Atis#Anda#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Rinkēvičs#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Lībiņa-Egnere#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Vitenbergs#Siliņa#Puntulis#Čudars#Ašeradens#Kols#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Grevcova#Felss#Mieriņa#Grasbergs#Mitrevics#Zariņa-Stūre#Krištopans#Batņa#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Bergmanis#Zelderis#Briškens#Patmalnieks#Lizbovskis#Krištopans#Švinka#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#PRO#AS#JV#ZZS#ST!#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#JV#ST!#JV#NA#ZZS#LPV#AS#ST!#LPV#PRO#JV#NA#JV#NA#PRO#NA#JV#NA#JV#JV#NA#JV#JV#ZZS#ZZS#AS#ZZS#ST!#ST!#LPV#JV#AS#JV#ST!#ST!#JV#ZZS#NA#NA#JV#LPV#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#AS#PRO#PRO#JV#AS#LPV#PRO#JV#NA#JV#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Pret#Pret#Nebalsoja#Pret#Par#Pret#Par#Par#Par#Par#Par#Atturas#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.12.2022 15:57:11",
+  "VOTEMOTIVE": "Par 23 257 Latvijas pilsoņu kolektīvā iesnieguma “Par visu ģimeņu tiesisko aizsardzību” turpmāko virzību (25/Lm14)",
+  "VOTING_ID": "14b6606e-7dc9-4b56-a8fb-d518752146d4",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "32",
+  "VOTERESULT_FOR": "50",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "37",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-9-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/3e024870-b902-4a7a-bcff-86037612dc29/download/14.saeimas-2022.gada-rudens-sesija-9-vote.xml",
+  "sha256": "aa664ea94166160bf4599dcb43de41cffde97f35b59f89ad7e5720ad074a0e37",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
