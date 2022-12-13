@@ -1,6 +1,6 @@
 32.pants. Amatpersonu hierarhija
 (1) Valsts pārvaldē amatpersonas iekļautas vienotā hierarhiskā sistēmā, kurā viena amatpersona ir padota citai amatpersonai. Amatpersona darbojas savas kompetences ietvaros un savus pienākumus pilda un tiesības īsteno patstāvīgi.
-(2) Ministru kabineta loceklis ir augstākā amatpersona attiecībā uz viņa padotībā esošo iestāžu amatpersonām. Nākamās augstākās amatpersonas ir parlamentārais sekretārs un valsts sekretārs.
+(2) Ministru kabineta loceklis ir augstākā amatpersona attiecībā uz viņa padotībā esošo iestāžu amatpersonām. Nākamās augstākās amatpersonas ir parlamentārais sekretārs, ministra biedrs un valsts sekretārs.
 (3) Tiešās pārvaldes amatpersona ir augstāka pārvaldes amatpersona attiecībā uz visu tai padoto hierarhiski zemāku līmeņu tiešās pārvaldes amatpersonām.
 (4) Pastarpinātās pārvaldes amatpersona ir augstāka pārvaldes amatpersona attiecībā uz visu tai padoto hierarhiski zemāku līmeņu pastarpinātās pārvaldes amatpersonām.
 (5) Ja normatīvajā aktā nav noteikts citādi, amatpersonu padotību vienas publiskās personas ietvaros īsteno pakļautības formā.
