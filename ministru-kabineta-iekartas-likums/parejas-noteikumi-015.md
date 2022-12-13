@@ -1,0 +1,1 @@
+15. Līdz dienai, kad stājas spēkā attiecīgi grozījumi citos normatīvajos aktos, klimata un enerģētikas ministrs, ievērojot Valsts pārvaldes iekārtas likumā noteikto, īsteno ekonomikas ministra un vides aizsardzības un reģionālās attīstības ministra kompetences klimata un enerģētikas jomās.

@@ -7,6 +7,7 @@
 5) finanšu ministrs;
 6) iekšlietu ministrs;
 7) izglītības un zinātnes ministrs;
+7¹) klimata un enerģētikas ministrs;
 8) kultūras ministrs;
 9) labklājības ministrs;
 10) (izslēgts ar 16.12.2010. likumu);

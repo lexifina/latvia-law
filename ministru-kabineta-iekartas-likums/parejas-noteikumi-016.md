@@ -1,0 +1,1 @@
+16. Līdz dienai, kad stājas spēkā attiecīgi grozījumi citos normatīvajos aktos, tajos lietotie termini "Vides aizsardzības un reģionālās attīstības ministrija" un "Ekonomikas ministrija" atbilst terminam "Klimata un enerģētikas ministrija", ņemot vērā šo pārejas noteikumu 15. punktā minētās funkcijas un kompetences.
