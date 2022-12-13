@@ -1,0 +1,1 @@
+27. Ukrainas civiliedzīvotāji, kuriem Latvijas Republikā izsniegtas ilgtermiņa vīzas vai kuriem izsniegto uzturēšanās atļauju derīguma termiņš ir beidzies, sākot no 2023. gada 1. janvāra ir tiesīgi pieprasīt termiņuzturēšanās atļauju uz diviem gadiem atbilstoši šā likuma 3. panta otrajā daļā noteiktajam.

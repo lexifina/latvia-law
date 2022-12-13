@@ -1,10 +1,10 @@
 12. pants. Primārā atbalsta sniegšanas nosacījumi
 (1) Valsts nodrošina Ukrainas civiliedzīvotājiem primāri sniedzamo atbalstu - izmitināšanu - līdz 60 vai līdz 120 dienām, kā arī pārtiku līdz 30 dienām, ievērojot šā panta 1.¹ daļā noteikto atbalsta sniegšanas termiņu un 1.³ daļā noteiktos nosacījumus izmitināšanas ilguma noteikšanai. Primāri sniedzamo atbalstu valsts nodrošina tiem Ukrainas civiliedzīvotājiem, kuri nav izmitināti šā likuma 7.¹ pantā noteiktajā kārtībā.
-(1¹) Primāri sniedzamais atbalsts ir terminēts atbalsta pasākums, kurš tiek īstenots ne ilgāk kā līdz 2022. gada 31. decembrim.
-(1²) Valsts turpina nodrošināt izmitināšanu, bet ne ilgāk kā līdz 2022. gada 31. decembrim tiem Ukrainas civiliedzīvotājiem, kuriem tā nepieciešama arī pēc šā panta pirmajā daļā minētā 60 vai 120 dienu perioda, ja persona atbalsta pagarināšanas pieteikuma brīdī:
-1) bet ne vēlāk kā 30 dienu laikā pēc šā punkta spēkā stāšanās dienas Valsts komisijai ir iesniegusi nepieciešamos dokumentus invaliditātes ekspertīzes veikšanai vai atzinuma saņemšanai par īpašas kopšanas nepieciešamību. Valsts komisija ir tiesīga sniegt datus par dokumentu saņemšanu pašvaldībai;
+(1¹) Primāri sniedzamais atbalsts ir terminēts atbalsta pasākums, kurš tiek īstenots ne ilgāk kā līdz 2023. gada 30. jūnijam.
+(1²) Valsts turpina nodrošināt izmitināšanu, bet ne ilgāk kā līdz 2023. gada 30. jūnijam tiem Ukrainas civiliedzīvotājiem, kuriem tā nepieciešama arī pēc šā panta pirmajā daļā minētā 60 vai 120 dienu perioda, ja persona atbalsta pagarināšanas pieteikuma brīdī:
+1) (izslēgts ar 08.12.2022. likumu);
 2) ir persona ar invaliditāti vai atbilstoši šā likuma 7.² panta ceturtajā daļā noteiktajam tai ir Valsts komisijas izsniegts atzinums par īpašas kopšanas nepieciešamību;
-3) nodrošina šīs daļas 1. un 2. punktā minētās personas aprūpi;
+3) nodrošina šīs daļas 2. punktā minētās personas aprūpi;
 4) ir pensijas vecumā atbilstoši Latvijā noteiktajam pensionēšanās vecumam;
 5) Latvijā iegūst izglītību klātienē pirmsskolas, pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē vai pāriet uz mācībām nākamajā izglītības pakāpē, iegūst izglītību augstākās izglītības iestādē vai turpina izglītības ieguvi Ukrainā tālmācībā vai attālināti pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē;
 6) ir sieviete, kas stājusies grūtniecības uzskaitē;
