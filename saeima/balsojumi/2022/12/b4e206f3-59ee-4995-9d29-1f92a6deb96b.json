@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 10,
+ "datums": "2022-12-15",
+ "ieraksts": {
+  "dkp_id": "3b38df3a-dd2e-4651-8286-395d7ab20ede",
+  "lastmodtime": "\"AAAAAAIDu5Y=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Viktorija#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Atis#Jānis#Viktorija#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Raimonds#Edgars#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Baire#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Labucis#Dombrava#Pleškāne#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Bergmanis#Zelderis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "###########################################################################################",
+  "FRACTION": "ST!#NA# #PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#ZZS# #PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#ZZS#AS#LPV#AS#LPV#PRO#JV#NA#JV#NA#PRO# # # # #NA#JV# #JV#ZZS# #ZZS#AS#LPV#ZZS#ST!#LPV#AS#JV#ST!# #ST!#AS#JV#ZZS#NA#NA# #JV#LPV# #NA#ST!# #AS#ZZS#AS#JV#ZZS#ZZS#ZZS# #AS#PRO#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#NA#JV#PRO#JV#JV#AS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.12.2022 15:44:02",
+  "VOTEMOTIVE": "Par deputāta Ata Labuča ievēlēšanu Tautsaimniecības, agrārās, vides un reģionālās politikas komisijā (70/Lm14)",
+  "VOTING_ID": "b4e206f3-59ee-4995-9d29-1f92a6deb96b",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "92",
+  "VOTERESULT_REGISTERED": "92",
+  "VOTE_NUMBER": "55",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-10-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/6d36618d-fcda-456c-bf07-4d0ced0cd759/download/14.saeimas-2022.gada-rudens-sesija-10-vote.xml",
+  "sha256": "cd21ad6bf763103574e4942bdbaf6389696a699d7e1a97b74b18711980d5e86e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
