@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2022.gada rudens sesija",
+ "sede": 10,
+ "datums": "2022-12-15",
+ "ieraksts": {
+  "dkp_id": "5f38f6d4-0185-490f-9f21-7c5357943efa",
+  "lastmodtime": "\"AAAAAAIDdzk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Jekaterina#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Viktorija#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Edmunds#Aiva#Ainārs#Līga#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Atis#Jānis#Viktorija#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Raimonds#Edgars#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Jānis#Antoņina#Inga#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Dorošķeviča#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Baire#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Jurēvics#Vīksna#Šlesers#Kļaviņa#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Labucis#Dombrava#Pleškāne#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Bergmanis#Zelderis#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Skrastiņš#Ņenaševa#Bērziņa#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "##################################################################################",
+  "FRACTION": "ST!#NA# #PRO#JV#PRO#AS#JV#ST!#JV#LPV#ST!#ZZS# #PRO#ZZS#JV#ST!#NA#ZZS#ZZS#AS#LPV#AS#LPV#PRO#JV#NA#JV#NA# # # # #NA#JV# #JV# #AS#LPV#ZZS#ST!#LPV#AS#JV#ST!# #ST!#AS#JV#ZZS#NA#NA# #JV#LPV# #NA#ST!# #AS#ZZS#AS#JV#ZZS#ZZS#ZZS# #AS#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#JV#PRO#JV#AS# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.12.2022 15:35:39",
+  "VOTEMOTIVE": "Par Saeimas deputāta Jāņa Dombravas atsaukšanu no Pilsonības, migrācijas un sabiedrības saliedētības komisijas (54/Lm14)",
+  "VOTING_ID": "e215074f-ee65-40dc-b2ed-e502eea5d473",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "80",
+  "VOTERESULT_REGISTERED": "83",
+  "VOTE_NUMBER": "39",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2022.gada rudens sesija-10-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/6d36618d-fcda-456c-bf07-4d0ced0cd759/download/14.saeimas-2022.gada-rudens-sesija-10-vote.xml",
+  "sha256": "cd21ad6bf763103574e4942bdbaf6389696a699d7e1a97b74b18711980d5e86e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
