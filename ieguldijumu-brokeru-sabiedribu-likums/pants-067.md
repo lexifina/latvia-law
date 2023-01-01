@@ -1,5 +1,5 @@
 67. pants. Sankciju veidi
-Komisija var piemērot šādas sankcijas:
+Latvijas Banka var piemērot šādas sankcijas:
 1) brīdinājumu;
 2) publisku paziņojumu;
 3) naudas sodu;
