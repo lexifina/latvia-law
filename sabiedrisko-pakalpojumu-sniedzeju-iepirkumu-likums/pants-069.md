@@ -2,6 +2,6 @@
 (1) Sabiedrisko pakalpojumu sniedzējs, nosūtot piegādātājam rakstveida paziņojumu, ir tiesīgs pirms termiņa vienpusēji atkāpties no iepirkuma līguma iepirkuma līgumā paredzētajos gadījumos un šādos gadījumos:
 1) iepirkuma līgumā ir izdarīti būtiski grozījumi, kas nav pieļaujami saskaņā ar šā likuma 66. panta pirmo daļu;
 2) iepirkuma līgums nav noslēgts atbilstoši iepirkuma procedūras dokumentos paredzētajiem noteikumiem vai ir mainīti būtiski iepirkuma procedūras dokumentos iekļautā iepirkuma līguma projekta noteikumi;
-3) iepirkuma līguma slēgšanas tiesību piešķiršanas brīdī piegādātājs atbilda kādam no šā likuma 48. panta pirmajā daļā minētajiem izslēgšanas gadījumiem un bija izslēdzams no iepirkuma procedūras;
+3) iepirkuma līguma slēgšanas tiesību piešķiršanas brīdī piegādātājs atbilda kādam no šā likuma 48. panta otrajā daļā minētajiem izslēgšanas iemesliem un bija izslēdzams no iepirkuma procedūras;
 4) iepirkuma līguma slēgšanas tiesības piegādātājam nevajadzēja piešķirt Līgumā par Eiropas Savienību, Līgumā par Eiropas Savienības darbību un šajā likumā noteikto pienākumu būtiska pārkāpuma dēļ, kuru Līguma par Eiropas Savienības darbību 258. pantā noteiktajā procedūrā konstatējusi Eiropas Savienības Tiesa.
 (2) Ja iepirkuma līgumu izbeidz pirms termiņa šā panta pirmajā daļā minētajos gadījumos, sabiedrisko pakalpojumu sniedzējs veic samaksu par piegādātāja faktiski veiktajiem būvdarbiem un piegādēm un sniegtajiem pakalpojumiem. Sabiedrisko pakalpojumu sniedzējs un piegādātājs vienojas par samaksas apmēru un izmaksas kārtību.
