@@ -5,7 +5,7 @@
 a) iekšlietu ministrs,
 b) tieslietu ministrs,
 c) Latvijas Banka,
-d) Finanšu un kapitāla tirgus komisija,
+d) (izslēgts no 01.01.2023. ar 23.09.2021. likumu. Sk. Pārejas noteikumu 64. punktu),
 e) Finanšu nozares asociācija,
 f) Latvijas Apdrošinātāju asociācija,
 g) Latvijas Zvērinātu revidentu asociācija,
