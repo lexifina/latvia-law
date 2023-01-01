@@ -1,1 +1,1 @@
-9.pants. Finanšu un kapitāla tirgus komisija publicē informāciju par kompensācijas izmaksas kārtību un termiņiem laikrakstā "Latvijas Vēstnesis" un vismaz vienā dienas laikrakstā.
+9. pants. Latvijas Banka informāciju par kompensācijas izmaksas kārtību un termiņiem publicē oficiālajā izdevumā "Latvijas Vēstnesis", kā arī ievieto savā tīmekļvietnē.

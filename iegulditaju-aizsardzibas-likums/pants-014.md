@@ -1,3 +1,3 @@
-14.pants. (1) Ja sistēmas dalībnieks neveic šajā likumā noteiktos maksājumus, Finanšu un kapitāla tirgus komisija aprēķina soda naudu viena procenta apmērā no nesamaksātās summas par katru nokavējuma dienu.
-(2) Ja sistēmas dalībnieks nokavējis noteikto maksājuma termiņu vairāk nekā 30 dienas, Finanšu un kapitāla tirgus komisijai ir tiesības lemt par speciālās atļaujas (licences) ieguldījumu pakalpojumu sniegšanai apturēšanu.
-(3) Ja pēc iepriekš minētajiem pasākumiem maksājumu nevar iekasēt, Finanšu un kapitāla tirgus komisijai ir tiesības lemt par speciālās atļaujas (licences) ieguldījumu pakalpojumu sniegšanai anulēšanu, par to 12 mēnešus iepriekš informējot sistēmas dalībnieku.
+14.pants. (1) Ja sistēmas dalībnieks neveic šajā likumā noteiktos maksājumus, Latvijas Banka aprēķina soda naudu viena procenta apmērā no nesamaksātās summas par katru nokavējuma dienu.
+(2) Ja sistēmas dalībnieks nokavējis noteikto maksājuma termiņu vairāk nekā 30 dienas, Latvijas Bankai ir tiesības lemt par speciālās atļaujas (licences) ieguldījumu pakalpojumu sniegšanai apturēšanu.
+(3) Ja pēc iepriekš minētajiem pasākumiem maksājumu nevar iekasēt, Latvijas Bankai ir tiesības lemt par speciālās atļaujas (licences) ieguldījumu pakalpojumu sniegšanai anulēšanu, par to 12 mēnešus iepriekš informējot sistēmas dalībnieku.
