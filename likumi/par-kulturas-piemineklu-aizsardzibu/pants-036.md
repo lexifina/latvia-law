@@ -1,2 +1,2 @@
 36. pants. Kompetence administratīvo pārkāpumu procesā
-Administratīvā pārkāpuma procesu par šā likuma 32., 33., 34. un 35. pantā minētajiem pārkāpumiem veic Nacionālā kultūras mantojuma pārvalde.
+Administratīvā pārkāpuma procesu par šā likuma 32., 33., 34. un 35. pantā minētajiem pārkāpumiem attiecībā uz valsts un reģiona nozīmes kultūras pieminekļiem veic Nacionālā kultūras mantojuma pārvalde, bet attiecībā uz vietējās nozīmes kultūras pieminekļiem - tās pašvaldības būvvalde, kuras administratīvajā teritorijā atrodas attiecīgais valsts aizsargājamais kultūras piemineklis.
