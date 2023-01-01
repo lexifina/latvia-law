@@ -1,5 +1,5 @@
 75.pants. Atsauces dalībvalsts noteikšana
-(1) Ja ārvalsts pārvaldnieks plāno pārvaldīt vienu vai vairākus dalībvalsts fondus, kuru dibināšanas vieta ir Latvija, un neplāno to ieguldījumu daļas izplatīt dalībvalstīs atbilstoši šā likuma 78. un 79.pantam, tad pārvaldnieka atsauces dalībvalsts ir Latvija un Komisija ir atbildīga par licences izsniegšanu alternatīvo ieguldījumu fondu pārvaldnieka darbībai un tā uzraudzību.
+(1) Ja ārvalsts pārvaldnieks plāno pārvaldīt vienu vai vairākus dalībvalsts fondus, kuru dibināšanas vieta ir Latvija, un neplāno to ieguldījumu daļas izplatīt dalībvalstīs atbilstoši šā likuma 78. un 79.pantam, tad pārvaldnieka atsauces dalībvalsts ir Latvija un Latvijas Banka ir atbildīga par licences izsniegšanu alternatīvo ieguldījumu fondu pārvaldnieka darbībai un tā uzraudzību.
 (2) Ja ārvalsts pārvaldnieks plāno pārvaldīt vairākus dalībvalstu fondus, kuru dibināšanas vieta ir dažādās dalībvalstīs, tai skaitā Latvijā, un neplāno šo fondu ieguldījumu daļas izplatīt dalībvalstīs atbilstoši šā likuma 78. un 79.pantam, tad par atsauces dalībvalsti uzskata vienu no šīm dalībvalstīm:
 1) dalībvalsti, kurā dibināta lielākā daļa fondu;
 2) dalībvalsti, kurā tiek pārvaldīts lielākais fondu aktīvu apmērs.

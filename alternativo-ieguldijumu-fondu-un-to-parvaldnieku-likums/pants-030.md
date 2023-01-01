@@ -4,8 +4,8 @@
 (3) Fondu var dibināt kā atvērtu vai slēgtu fondu. Fondu var dibināt kā fondu ar apakšfondiem.
 (4) Atvērtais fonds ir tāds fonds, kura pārvaldniekam ir pienākums, ja fonda ieguldītāji to pieprasa, mēneša laikā veikt ieguldījumu daļu atpakaļpirkšanu. Atvērtā fonda pārvaldnieks ir atbrīvots no pienākuma veikt ieguldījumu daļu atpakaļpirkšanu, ja ieguldījumu daļas tiek tirgotas regulētajā tirgū un fonda pārvaldnieks veic nepieciešamos pasākumus, lai nodrošinātu, ka ieguldījumu daļas tirgus cena būtiski neatšķiras no fonda daļas vērtības.
 (5) Slēgtais fonds ir tāds fonds, kura pārvaldniekam ir aizliegta ieguldījumu daļu atpakaļpirkšana.
-(6) Fonds drīkst sākt darbību tikai pēc tā reģistrācijas Komisijā.
-(7) Kritērijus kopējo ieguldījumu uzņēmumu atzīšanai par fondu nosaka Komisijas normatīvie noteikumi.
+(6) Fonds drīkst sākt darbību tikai pēc tā reģistrācijas Latvijas Bankā.
+(7) Kritērijus kopējo ieguldījumu uzņēmumu atzīšanai par fondu nosaka Latvijas Bankas noteikumi.
 (8) Fondu ieguldījumu stratēģijas ir noteiktas Regulā Nr. 231/2013.
 (9) Fonda manta ir fonda vai tā apakšfondu (ja fonds ir dibināts kā fonds ar apakšfondiem) ieguldītāju kopmanta, un tā turama, iegrāmatojama un pārvaldāma šķirti no ārējā pārvaldnieka, citu tā pārvaldē esošo fondu vai to apakšfondu (ja fonds ir dibināts kā fonds ar apakšfondiem), kā arī turētājbankas mantas. Fonda (ja fonds ir dibināts kā fonds ar apakšfondiem) manta ir apakšfondu kopmanta. Šādam fondam nevar būt mantas, kas neietilpst kādā no apakšfondiem.
 (10) Fonda ieguldītājam nav tiesību prasīt fonda mantas dalīšanu. Šādu tiesību nav arī ieguldītāja ieķīlātās mantas ķīlas ņēmējam, kreditoram vai administratoram ieguldītāja - juridiskās vai fiziskās personas - maksātnespējas procesa ietvaros.

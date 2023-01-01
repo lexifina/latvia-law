@@ -1,2 +1,2 @@
 XII nodaļa.
-Uzraudzība un Komisijas tiesības un pienākumi
+Uzraudzība un Latvijas Bankas tiesības un pienākumi

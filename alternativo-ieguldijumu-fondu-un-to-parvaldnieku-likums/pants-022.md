@@ -1,6 +1,6 @@
 22.pants. Vispārīgās prasības pārvaldnieka darbībai
 (1) Pārvaldnieks tam izsniegtās licences darbības laikā ievēro un izpilda šādas prasības:
-1) nodrošina, lai tiktu ievērotas pārvaldnieka un fonda darbību regulējošās prasības atbilstoši šim likumam, tieši piemērojamiem Eiropas Savienības tiesību aktiem un Komisijas normatīvajiem noteikumiem;
+1) nodrošina, lai tiktu ievērotas pārvaldnieka un fonda darbību regulējošās prasības atbilstoši šim likumam, tieši piemērojamiem Eiropas Savienības tiesību aktiem un Latvijas Bankas noteikumiem;
 2) sniedzot fonda pārvaldes pakalpojumus, rīkojas kā godīgs, gādīgs un rūpīgs saimnieks un nodrošina, lai pakalpojumi tiktu sniegti ar pienācīgu profesionalitāti un rūpību fonda un tā ieguldītāju interesēs, neapdraudot finanšu tirgus stabilitāti un integritāti;
 3) veic visus nepieciešamos pasākumus, lai identificētu un novērstu interešu konfliktus, kas var rasties pakalpojumu sniegšanas laikā, un, ja tos nav iespējams novērst, nodrošina to pārvaldīšanu, ievērojot fonda un tā ieguldītāju intereses, kā arī vienlīdzīgu attieksmi pret pārvaldītajiem fondiem;
 4) nodrošina vienlīdzīgu un taisnīgu attieksmi pret fonda ieguldītājiem, neviena fonda ieguldītāju intereses nevērtējot augstāk par cita fonda ieguldītāju interesēm, ja vien šāda atšķirīga attieksme nav paredzēta attiecīgā fonda dibināšanas dokumentā vai fonda darbības noteikumos.
