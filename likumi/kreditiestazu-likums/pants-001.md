@@ -57,7 +57,7 @@ o) elektroniskās naudas emisija;
 31) (izslēgts ar 01.11.2018. likumu);
 32) kreditors - valsts, pašvaldība, fiziskā vai juridiskā persona vai ar līgumu saistīta fizisko vai juridisko personu grupa, kurai ir prasījuma tiesība pret kredītiestādi;
 33) nodrošinātais kreditors - kreditors, kura prasījuma tiesība (prasījums) pret kredītiestādi ir nodrošināta ar rokas ķīlu, komercķīlu, zemesgrāmatā vai kuģu reģistrā ierakstītu hipotēku;
-34) likvidators - kredītiestādes akcionāru sapulces ievēlēta persona (pašlikvidācijas gadījumā) vai pēc Finanšu un kapitāla tirgus komisijas ieteikuma tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
+34) likvidators - kredītiestādes akcionāru sapulces ievēlēta persona (pašlikvidācijas gadījumā) vai pēc Latvijas Bankas ieteikuma tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 35) maksātnespējas procesa administrators (turpmāk arī - administrators) - tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 36) ieinteresētās personas attiecībā uz kredītiestādi ir:
 a) kredītiestādes akcionāri, padomes un valdes locekļi, iekšējā audita dienesta vadītājs, risku direktors, par darbības atbilstības kontroli atbildīgā persona un sabiedrības kontrolieris, kā arī šo personu laulātie, vecāki un bērni;
