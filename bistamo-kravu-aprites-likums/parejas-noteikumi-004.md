@@ -1,0 +1,3 @@
+4. Ministru kabinets līdz 2023. gada 30. jūnijam izdod šā likuma 10.¹ panta otrajā daļā un 11. panta piektajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 30. jūnijam ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2006. gada 21. februāra noteikumi Nr. 156 "Noteikumi par drošības konsultantu (padomnieku) norīkošanu, to profesionālo kvalifikāciju un darbību bīstamo kravu pārvadājumu jomā";
+2) Ministru kabineta 2008. gada 26. februāra noteikumi Nr. 123 "Bīstamo izstrādājumu un bīstamo kravu gaisa pārvadājumu veikšanas kārtība".
