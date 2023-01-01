@@ -16,7 +16,7 @@ c) Iekšlietu ministrijas vai tās padotības iestādes vajadzībām nepiecieša
 7) (izslēgts ar 15.04.2021. likumu);
 8) izskata iesniegumus un sūdzības par būtiskiem normatīvo aktu pārkāpumiem būvniecības procesā vai arī gadījumos, kad būve ir radījusi vai var radīt bīstamību vai būtisku kaitējumu personu dzīvībai, veselībai, īpašumam vai videi. Birojā nevar apstrīdēt valsts un pašvaldību institūciju administratīvos aktus, kuri izdoti saskaņā ar šo likumu;
 9) nodrošina būvniecības pārraudzībai un kontrolei nepieciešamās būvniecības informācijas sistēmas darbību.
-(1¹) (Daļa stājas spēkā 01.01.2023. un iekļauta likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 26. punktu)
+(1¹) Birojs būvniecības un ekspluatācijas kontroli Latvijas Republikas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā un būvvaldes funkcijas attiecībā uz tādu elektropārvades līniju būvniecības ieceri, kurai atbilstoši Teritorijas attīstības plānošanas likumam noteikts nacionālo interešu objekta statuss, veic par maksu.
 (2) Attiecībā uz šā panta pirmās daļas 1. punktā minētajām būvēm birojs pilda šā likuma 12. panta 3.³ un 3.⁴ daļā noteiktās būvvaldes funkcijas, kā arī nodrošina šā likuma 18. pantā noteikto darbību izpildi. Publisku ēku ekspluatācijas kontroli birojs veic šā likuma 21. pantā noteiktajā kārtībā.
 (3) Pildot šajā likumā noteiktās funkcijas, birojam ir tiesības pieprasīt un bez maksas saņemt informāciju un dokumentus.
 (4) Kārtību, kādā birojs piešķir patstāvīgās prakses tiesības šā likuma 13.panta trešās daļas 5.punktā noteiktajā specialitātē, kā arī veic patstāvīgās prakses uzraudzību, nosaka Ministru kabineta noteikumi par būvspeciālistu kompetences novērtēšanu un patstāvīgās prakses uzraudzību.
