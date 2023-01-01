@@ -4,7 +4,8 @@
 1) (izslēgts ar 23.11.2016. likumu);
 2) (izslēgts ar 23.11.2016. likumu);
 3) preču pārvadājumiem un sabiedriskajiem pasažieru pārvadājumiem, tajā skaitā dzelzceļa transportā un pilsētu sabiedriskajos pasažieru pārvadājumos;
-4) mājsaimniecību lietotāji.
+4) mājsaimniecību lietotāji;
+5) elektroenerģijas ražošanai, lai tiešā veidā nodrošinātu elektroenerģijas ražošanas procesu.
 (3) Ievērojot šā panta ceturtās daļas nosacījumus, no nodokļa ir atbrīvota elektroenerģija, kas piegādāta citu Eiropas Savienības dalībvalstu (turpmāk - dalībvalsts) vai citu ārvalstu pārstāvjiem vai organizācijām:
 1) saistībā ar diplomātiskajām vai konsulārajām attiecībām;
 2) starptautiskajām organizācijām, kas par tādām atzītas to valstu iestādēs, kurās šīs organizācijas atrodas, kā arī šo organizāciju biedriem saskaņā ar starptautiskajām šo organizāciju dibināšanas konvencijām vai to mītnes zemes nolīgumiem;
