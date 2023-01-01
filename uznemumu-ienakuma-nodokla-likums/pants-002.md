@@ -15,7 +15,7 @@ c) no pašvaldības budžeta finansētas institūcijas, kuras gūst ienākumus n
 6) ieguldījumu fondi un alternatīvo ieguldījumu fondi;
 7) biedrības, nodibinājumi, ja to dibināšanas atklāts vai slēpts mērķis nav peļņas vai kapitāla pieauguma gūšana to biedriem;
 8) reliģiskās organizācijas, arodbiedrības un politiskās partijas;
-9) Finanšu un kapitāla tirgus komisija.
+9) (izslēgts ar 23.09.2021. likumu).
 (3) Par ienākumu, ko gūst šā panta otrās daļas 5. un 6. punktā minētās personas, attiecīgi iedzīvotāju ienākuma nodokli vai uzņēmumu ienākuma nodokli maksā ieguldījumu fonda vai alternatīvo ieguldījumu fonda ieguldītājs un privātā pensiju fonda pensiju plāna dalībnieks.
 (3¹) Neatkarīgi no šā panta otrās daļas 5. un 6. punkta noteikumiem privātie pensiju fondi, ieguldījumu fondi un alternatīvie ieguldījumu fondi maksā uzņēmumu ienākuma nodokli atbilstoši šā likuma 4. panta otrās daļas 2. punkta "k" apakšpunktam un piektajai daļai, ja attiecībā uz tiem piemērojama šā likuma 7.¹ panta divpadsmitā daļa.
 (4) Sabiedrība ar ierobežotu atbildību, individuālais uzņēmums, kā arī zemnieka vai zvejnieka saimniecība, kas reģistrēta kā mikrouzņēmumu nodokļa maksātājs, uzņēmumu ienākuma nodokli ietver kopīgajā mikrouzņēmumu nodoklī saskaņā ar Mikrouzņēmumu nodokļa likumu.
