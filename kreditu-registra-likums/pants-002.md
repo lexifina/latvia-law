@@ -2,9 +2,9 @@
 1) sniegt ieguldījumu Latvijas finanšu stabilitātes veicināšanā, nodrošinot:
 a) reģistra dalībniekam un Valsts kasei papildu iespējas novērtēt sava klienta, iespējamā klienta, klienta galvinieka un iespējamā klienta galvinieka kredītspēju,
 b) ierobežotam reģistra dalībniekam papildu iespējas novērtēt sava klienta un klienta galvinieka kredītspēju,
-c) Finanšu un kapitāla tirgus komisijai papildu iespējas saņemt finanšu tirgus dalībnieku uzraudzībai nepieciešamās ziņas,
-d) Latvijas Bankai papildu iespējas saņemt finanšu statistikai nepieciešamās ziņas,
-e) Finanšu un kapitāla tirgus komisijai un Latvijas Bankai papildu iespējas saņemt makroekonomiskajai analīzei nepieciešamās ziņas;
+c) Latvijas Bankai papildu iespējas saņemt finanšu tirgus dalībnieku uzraudzībai, finanšu statistikai un makroekonomiskajai analīzei nepieciešamās ziņas;
+d) (izslēgts no 01.01.2023. ar 23.09.2021. likumu);
+e) (izslēgts no 01.01.2023. ar 23.09.2021. likumu);
 2) sniegt ieguldījumu atbildīgas patērētāja kreditēšanas, kā arī atbildīgas un godprātīgas aizņemšanās veicināšanā, nodrošinot:
 a) patērētāja kreditoram papildu iespējas novērtēt patērētāja kredītspēju,
 b) reģistra dalībniekam papildu iespējas novērtēt to, vai attiecīgā reģistra dalībnieka klients un iespējamais klients ir patērētājs Patērētāju tiesību aizsardzības likuma izpratnē;
