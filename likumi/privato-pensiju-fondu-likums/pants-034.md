@@ -9,10 +9,10 @@
 5) informāciju par pensijas izmaksu prognozēm līdz ar atrunu, ka šīs prognozes var atšķirties no saņemamās papildpensijas faktiskā apmēra;
 6) atbilstoši attiecīgā pensiju plāna noteikumiem uzkrātās individuālās papildpensijas apmēru;
 7) saskaņā ar attiecīgā pensiju plāna noteikumiem darba devēja pensiju plāna dalībnieka labā veikto un paša pensiju plāna dalībnieka veikto iemaksu apmēru par vismaz pēdējo 12 mēnešu periodu;
-8) pēdējo 12 mēnešu periodā uz pensiju plāna dalībnieku attiecināto atskaitījumu apmēru, kurā ietverti atskaitījumi pensiju fondam, līdzekļu turētājam, līdzekļu pārvaldītājam, Komisijai un pārējie attaisnotie atskaitījumi;
+8) pēdējo 12 mēnešu periodā uz pensiju plāna dalībnieku attiecināto atskaitījumu apmēru, kurā ietverti atskaitījumi pensiju fondam, līdzekļu turētājam, līdzekļu pārvaldītājam, Latvijas Bankai un pārējie attaisnotie atskaitījumi;
 9) informāciju par attiecīgajā pensiju plānā uzkrātās papildpensijas kopējo apmēru;
 10) pārskatā par papildpensiju norādītās informācijas izmaiņas salīdzinājumā ar iepriekšējo gadu.
-(4) Komisija nosaka kārtību, kādā sagatavojama informācija par pensiju izmaksu prognozēm.
+(4) Latvijas Banka nosaka kārtību, kādā sagatavojama informācija par pensiju izmaksu prognozēm.
 (5) Papildus šā panta trešajā daļā noteiktajam pārskatā par papildpensiju norāda, kur un kā var iegūt informāciju par:
 1) attiecīgā pensiju plāna noteikumiem, kas noderīga pensiju plāna dalībniekam;
 2) pensiju fonda un attiecīgā pensiju plāna gada pārskatu un ieguldījumu politiku;

@@ -3,7 +3,7 @@
 1) pensiju fonda gada pārskatu un attiecīgā pensiju plāna gada pārskatu;
 2) attiecīgā pensiju plāna ieguldījumu politikas aprakstu;
 3) pārskatā par papildpensiju iekļauto informāciju par pieņēmumiem, kas izmantoti pensiju izmaksu prognozēm.
-(2) Pensiju fonds piecu darbdienu laikā pēc tam, kad saņemta Komisijas rakstveida piekrišana grozījumu izdarīšanai pensiju plānā, par to informē attiecīgā pensiju plāna dalībniekus un papildpensijas saņēmējus, izņemot šā likuma 12. panta desmitajā daļā noteiktos gadījumus, kad pensiju fonds attiecīgā pensiju plāna dalībniekus un papildpensijas saņēmējus informē par izdarītajiem grozījumiem septiņu dienu laikā pēc to apstiprināšanas pensiju fonda valdē.
+(2) Pensiju fonds piecu darbdienu laikā pēc tam, kad saņemta Latvijas Bankas rakstveida piekrišana grozījumu izdarīšanai pensiju plānā, par to informē attiecīgā pensiju plāna dalībniekus un papildpensijas saņēmējus, izņemot šā likuma 12. panta desmitajā daļā noteiktos gadījumus, kad pensiju fonds attiecīgā pensiju plāna dalībniekus un papildpensijas saņēmējus informē par izdarītajiem grozījumiem septiņu dienu laikā pēc to apstiprināšanas pensiju fonda valdē.
 (3) Pensiju fonds vai citas dalībvalsts pensiju fonds, kas ir tiesīgs sniegt pakalpojumus Latvijā, atbilstoši pensiju plānā noteiktajām prasībām pensiju plāna dalībniekam un papildpensijas saņēmējam sniedz vismaz šādu detalizētu informāciju:
 1) pilns pensiju fonda firmas nosaukums, reģistrācijas valsts vai valsts, kurā pensiju fonds ir tiesīgs sniegt savus pakalpojumus, kā arī institūcija, kas veic pensiju fonda uzraudzību;
 2) pensiju plāna dalībnieka, papildpensijas saņēmēja un pensiju fonda tiesības un pienākumi;
@@ -21,7 +21,7 @@
 1) pensiju plāna dalībnieka labā veiktās iemaksas;
 2) pensiju plāna dalībniekam izmaksātā papildpensija vai pēc pensiju plāna dalībnieka rīkojuma pārskaitītais papildpensijas kapitāls vai tā daļa;
 3) papildpensijas kapitāls;
-4) uz dalībnieku attiecināto atskaitījumu kopsumma, kurā ietverti atskaitījumi pensiju fondam, līdzekļu pārvaldītājam, līdzekļu turētājam, Komisijai un pārējie attaisnotie atskaitījumi;
+4) uz dalībnieku attiecināto atskaitījumu kopsumma, kurā ietverti atskaitījumi pensiju fondam, līdzekļu pārvaldītājam, līdzekļu turētājam, Latvijas Bankai un pārējie attaisnotie atskaitījumi;
 5) pensiju fonda gada pārskatu pārbaudījušā zvērināta revidenta vārds un uzvārds vai zvērinātu revidentu komercsabiedrības firma;
 6) vai revidenta ziņojumā par gada pārskata revīziju iekļautais atzinums par finanšu pārskatu ir bez iebildēm, ar iebildēm vai negatīvs, vai arī tajā ir iekļauts paziņojums par atteikumu sniegt atzinumu;
 7) kur pensiju plāna dalībnieks var iepazīties ar pensiju fonda un attiecīgā pensiju plāna gada pārskatu.
