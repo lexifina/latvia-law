@@ -12,6 +12,7 @@
 10) mikrouzņēmumu nodokli;
 11) subsidētās elektroenerģijas nodokli;
 12) uzņēmējdarbības riska valsts nodevu;
+12¹) finanšu stabilitātes nodevu;
 13) valsts nodevu par numerācijas lietošanas tiesībām;
 14) patentmaksu;
 15) maksājumus par valsts kapitāla izmantošanu;
@@ -21,7 +22,7 @@
 (4) Persona, kas sniegusi pakalpojumu vai devusi nodrošinājumu, par kuru maksājama valsts nodeva, iepriekšējā mēnesī skaidrā naudā iekasētās valsts nodevu summas, neieskaitot tās savā norēķinu kontā, ieskaita valsts budžetā vai pašvaldības budžetā līdz nākamā mēneša 15.datumam, ja normatīvajos aktos nav noteikts īsāks termiņš.
 (5) Šā likuma 8. panta 3. punktā noteikto nodokļa maksājumu, pašvaldības budžetā iemaksājamo valsts nodevas maksājumu un pašvaldību nodevas maksājumu iemaksā pašvaldības budžetā nodokļu administrācijas vai pašvaldību nodevu administrācijas norādītajos budžeta kontos un atzīst par saņemtu pašvaldības budžetā dienā, kad pašvaldības budžets ir saņēmis attiecīgi tam piekritīgo nodokļa vai nodevas maksājumu.
 (6) Šā likuma 8. panta 13. un 14. punktā noteikto nodokļu maksājumu iemaksā valsts budžetā nodokļu administrācijas norādītajos budžeta kontos.
-(7) Valsts nodevas (izņemot uzņēmējdarbības riska valsts nodevu un valsts nodevu par numerācijas lietošanas tiesībām) maksājumu iemaksā valsts budžetā attiecīgās valsts nodevas administrācijas norādītajos budžeta kontos.
+(7) Valsts nodevas (izņemot uzņēmējdarbības riska valsts nodevu, finanšu stabilitātes nodevu un valsts nodevu par numerācijas lietošanas tiesībām) maksājumu iemaksā valsts budžetā attiecīgās valsts nodevas administrācijas norādītajos budžeta kontos.
 (8) Vienotajā nodokļu kontā saņemtie maksājumi (izņemot Ministru kabineta noteiktos gadījumus) tiek novirzīti šā panta pirmajā daļā minēto maksājumu saistību segšanai to samaksas termiņa iestāšanās dienā atbilstoši nodokļu deklarācijas iesniegšanas termiņam vai atbilstoši maksājuma termiņam, ja valsts budžeta maksājums noteikts ar citu dokumentu, kas nav nodokļu deklarācija.
 (9) Ministru kabinets nosaka izņēmuma gadījumus šā panta astotajā daļā noteiktajai kārtībai, kādā vienotajā nodokļu kontā saņemtie maksājumi tiek novirzīti šā panta pirmajā daļā minēto maksājumu saistību segšanai.
 (10) Ministru kabinets nosaka kārtību, kādā Valsts ieņēmumu dienests administrē nodokļu maksātāja vienotajā nodokļu kontā ieskaitītos maksājumus, kārtību, kādā tos novirza konkrēta nodokļa, nodevas, citu valsts noteikto maksājumu un ar tiem saistīto maksājumu saistību segšanai, un maksājumu veikšanas kārtību vienotajā nodokļu kontā.
