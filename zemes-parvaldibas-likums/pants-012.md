@@ -1,4 +1,3 @@
-12.pants. Zemes konsolidācijas projekta īstenošana
-(1) Zemes konsolidācijas projekta īstenošanu atbilstoši savai kompetencei nodrošina Valsts zemes dienests.
-(2) Apstiprināts zemes konsolidācijas projekts ir pamats zemes konsolidācijas projekta īstenošanai.
-(3) Zemes konsolidācijas projekts uzskatāms par īstenotu ar brīdi, kad zemes konsolidācijas projektā izveidotie zemes gabali ir ierakstīti zemesgrāmatā.
+12. pants. Zemes konsolidācijas īstenošana
+(1) Zemes konsolidācijai izstrādātais zemes ierīcības projekts uzskatāms par īstenotu, kad šajā projektā projektētie zemes gabali ir ierakstīti zemesgrāmatā. Ja zemes robežu pārkārtošanā iesaistīti vairāk nekā četri zemes īpašniekiem piederoši zemes gabali, zemes konsolidācijai izstrādātais zemes ierīcības projekts īstenojams sešu gadu laikā. Pārējos gadījumos šis projekts īstenojams normatīvajos aktos zemes ierīcības jomā noteiktajos termiņos.
+(2) Par zemes robežu pārkārtošanu zemes konsolidācijas ietvaros zemes īpašnieki vienojas, noslēdzot līgumu par zemes maiņu.

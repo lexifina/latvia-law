@@ -1,13 +1,6 @@
-9.pants. Zemes konsolidācijas vispārīgie nosacījumi
-(1) Zemes konsolidācijā ir šādi posmi:
-1) zemes konsolidācijas ierosināšana (zemes konsolidācijas pieprasījuma iesniegšana, izvērtēšana, zemes konsolidācijas projekta perspektīvās teritorijas noteikšana, sākotnējās pārrunas ar zemes konsolidācijas projekta perspektīvajā teritorijā iekļautās zemes īpašniekiem vai, ja tādu nav, ar tās tiesiskajiem valdītājiem, kā arī ar citām ieinteresētajām personām, līgumu slēgšana ar zemes īpašniekiem vai, ja tādu nav, ar tās tiesiskajiem valdītājiem par dalību zemes konsolidācijā un lēmuma pieņemšana par zemes konsolidācijas projekta izstrādes uzsākšanu);
-2) zemes konsolidācijas projekta izstrāde (zemes novērtēšana, pārrunas ar zemes konsolidācijas projektā iekļautās zemes īpašniekiem vai, ja tādu nav, ar tās tiesiskajiem valdītājiem, zemes konsolidācijas projekta sagatavošana, saskaņošana un apstiprināšana);
-3) zemes konsolidācijas projekta īstenošana (zemes kadastrālā uzmērīšana atbilstoši apstiprinātajam zemes konsolidācijas projektam, kadastrālās uzmērīšanas datu reģistrācija Nekustamā īpašuma valsts kadastra informācijas sistēmā, zemes maiņas un pirkuma līgumu slēgšana atbilstoši apstiprinātajam zemes konsolidācijas projektam, īpašuma tiesību nostiprināšana zemesgrāmatā).
-(2) Zemes konsolidāciju atbilstoši normatīvajos aktos noteiktajai kompetencei nodrošina Valsts zemes dienests, vietējā pašvaldība, zemes ierīcības darbiem sertificēta persona (turpmāk - zemes ierīkotājs) un zemes kadastrālajai uzmērīšanai sertificēta persona.
-(3) Zemes konsolidācijas ierosināšanu finansē no valsts budžeta līdzekļiem, izņemot zemes konsolidācijas pieprasījuma iesniegšanas izmaksas, ko sedz no zemes konsolidācijas ierosinātāja finanšu līdzekļiem.
-(4) Zemes konsolidācijas projekta izstrādi un ieviešanu finansē:
-1) no privātpersonu finanšu līdzekļiem, vietējās pašvaldības vai valsts budžeta līdzekļiem, ja zemes konsolidāciju ierosinājušas privātpersonas;
-2) no vietējās pašvaldības budžeta līdzekļiem, ja zemes konsolidāciju ierosinājusi vietējā pašvaldība;
-3) no valsts budžeta vai valsts kapitālsabiedrības finanšu līdzekļiem, ja zemes konsolidāciju ierosinājusi valsts pārvaldes iestāde vai valsts kapitālsabiedrība.
-(5) Zemes konsolidācijas projekta izstrādi un ieviešanu var finansēt, apvienojot privātpersonu finanšu līdzekļus, vietējās pašvaldības budžeta un valsts budžeta līdzekļus.
-(6) Ja ar zemes konsolidācijas projektā iekļauto zemi tiek veikti darījumi, kas nav saistīti ar zemes konsolidāciju, zemes īpašuma tiesību pārņēmējam ir saistošs iepriekšējā zemes īpašnieka noslēgtais līgums par dalību zemes konsolidācijā.
+9. pants. Zemes konsolidācijas vispārīgie nosacījumi
+(1) Zemes konsolidāciju īsteno lauku apvidos, pārkārtojot zemes robežas, tai skaitā likvidējot starpgabalus, un izstrādājot zemes ierīcības projektu atbilstoši normatīvajiem aktiem zemes ierīcības jomā, ciktāl šis likums nenosaka citādi.
+(2) Zemes konsolidācijā ir šādi posmi:
+1) zemes robežu pārkārtošanas projekta izstrādāšana;
+2) zemes konsolidācijas apstiprināšana;
+3) zemes konsolidācijas īstenošana.
