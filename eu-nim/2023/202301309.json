@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2022. gada 13. jūnija noteikumi Nr. 208 \"Statistisko datu par klientu maksājumiem sagatavošanas un iesniegšanas noteikumi\"",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2022/117.32",
+  "official_journal_page": null,
+  "official_journal_date": "2022-06-17",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2023-02-27",
+  "commission_reference": "MNE(2023)01309",
+  "nim_celex": "72015L2366LVA_202301309",
+  "nim_id": "202301309",
+  "transposes_celex": [
+    "32015L2366"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7fa11b32-b99a-11ed-8912-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
