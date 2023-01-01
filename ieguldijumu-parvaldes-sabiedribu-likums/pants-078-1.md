@@ -1,18 +1,16 @@
-78.¹ pants. Finansējums Komisijas uzraudzības funkciju nodrošināšanai
-(1) Sabiedrība maksā Komisijai par sabiedrības darbības uzraudzību šādā apmērā un kārtībā:
-1) līdz 0,033 procentiem no sabiedrības pārvaldījumā esošo ieguldījumu fondu vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 3557 euro gadā;
-2) ja sabiedrība sniedz šā likuma 5.panta otrajā vai trešajā daļā minēto ieguldījumu pakalpojumu, - līdz vienam procentam no sabiedrības sniegto ieguldījumu pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 711 euro gadā.
-(2) Citā dalībvalstī licencēta sabiedrība, kas reģistrējusi ieguldījumu fondu Latvijā, maksā Komisijai par Latvijā reģistrētā ieguldījumu fonda darbības uzraudzību līdz 0,013 procentiem no šo ieguldījumu fondu vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 1422 euro gadā.
-(3) Papildus šā panta pirmajā un otrajā daļā minētajiem maksājumiem sabiedrība un dalībvalstī licencēta sabiedrība maksā Komisijai:
+78.¹ pants. Maksājumi Latvijas Bankai
+(1) Sabiedrība maksā Latvijas Bankai:
+1) līdz 0,132 procentiem no sabiedrības pārvaldījumā esošo ieguldījumu fondu vidējās aktīvu vērtības gadā, kas aprēķināta, pamatojoties uz attiecīgā gada katra ceturkšņa beigu aktīvu vērtību, bet ne mazāk par 3557 euro gadā;
+2) ja sabiedrība sniedz šā likuma 5. panta otrajā un trešajā daļā minēto ieguldījumu pakalpojumu, - līdz vienam procentam no sabiedrības sniegto ieguldījumu pakalpojumu bruto ieņēmumiem, bet ne mazāk par 711 euro gadā;
+3) līdz 0,005 procentiem gadā no sabiedrības pārvaldījumā esošo valsts fondēto pensiju shēmas ieguldījumu plānu vidējās aktīvu vērtības gadā, kas aprēķināta, pamatojoties uz attiecīgā gada katra ceturkšņa beigu aktīvu vērtību.
+(2) Citā dalībvalstī licencēta sabiedrība, kas reģistrējusi ieguldījumu fondu Latvijā, maksā Latvijas Bankai līdz 0,052 procentiem no šā ieguldījumu fonda vidējās aktīvu vērtības gadā, kas aprēķināta, pamatojoties uz attiecīgā gada katra ceturkšņa beigu aktīvu vērtību, bet ne mazāk par 1422 euro gadā.
+(3) Papildus šā panta pirmajā un otrajā daļā minētajiem maksājumiem sabiedrība un dalībvalstī licencēta sabiedrība maksā Latvijas Bankai:
 1) par ieguldījumu fonda reģistrācijai iesniegto dokumentu izskatīšanu - 1422 euro;
-2) par reģistrācijai iesniegto ieguldījumu fonda prospekta vai pārvaldes nolikuma grozījumu izskatīšanu - 426 euro.
-(4) Dalībvalstī licencētas sabiedrības filiāle, kas reģistrēta Latvijā, maksā Komisijai par filiāles darbības uzraudzību šādā kārtībā:
-1) līdz vienam procentam no filiāles Latvijā sniegto ieguldījumu fondu pārvaldes pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 2134 euro gadā;
-2) līdz vienam procentam no filiāles šā likuma 5.panta otrajā un trešajā daļā minēto ieguldījumu pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 711 euro gadā.
-(5) Komisija izdod normatīvos noteikumus par šā panta pirmajā, otrajā, ceturtajā un vienpadsmitajā daļā minēto maksājumu aprēķināšanas un pārskatu iesniegšanas kārtību.
-(6) Šā panta pirmajā, otrajā, ceturtajā un vienpadsmitajā daļā minētos maksājumus veic līdz ceturksnim sekojošā mēneša trīsdesmitajam datumam.
-(7) Šā panta trešajā daļā minēto maksājumu apliecinošus dokumentus sabiedrība un dalībvalstī licencēta sabiedrība iesniedz Komisijai vienlaikus ar ieguldījumu fonda reģistrācijai vai ieguldījumu fonda prospekta vai pārvaldes nolikuma grozījumu reģistrācijai iesniegtajiem dokumentiem.
-(8) Par šajā pantā minēto maksājumu nokavētu pārskaitījumu vai pārskaitījumu nepilnā apmērā aprēķina nokavējuma naudu par katru nokavēto maksājuma dienu 0,05 procentu apmērā no nesamaksātās summas.
-(9) Šajā pantā minētos maksājumus ieskaita Komisijas kontā Latvijas Bankā.
-(10) Attiecībā uz grozījumiem, kas izdarīti atbilstoši šā likuma 28.panta astotajai daļai un 56.panta septītajai daļai, netiek piemērots šā panta trešās daļas 2.punktā noteiktais maksājums.
-(11) Ja ieguldījumu pārvaldes sabiedrība veic ieguldījumu fondu un alternatīvo ieguldījumu fondu pārvaldi, tā maksā Komisijai līdz 0,033 procentiem no tās pārvaldē esošo ieguldījumu fondu un alternatīvo ieguldījumu fondu vidējā aktīvu apmēra ceturksnī, bet ne mazāk par 3557 euro gadā.
+2) par reģistrācijai iesniegto ieguldījumu fonda prospekta vai pārvaldes nolikuma grozījumu izskatīšanu - 426 euro;
+3) par katru pārvaldībā esošu valsts fondēto pensiju shēmas ieguldījumu plānu attiecīgā gada 31. decembrī - 2000 euro gadā.
+(4) Dalībvalstī licencētas sabiedrības filiāle, kas reģistrēta Latvijā, maksā Latvijas Bankai:
+1) līdz vienam procentam no filiāles Latvijā sniegto ieguldījumu fondu pārvaldes pakalpojumu bruto ieņēmumiem, bet ne mazāk par 2134 euro gadā;
+2) līdz vienam procentam no filiāles šā likuma 5. panta otrajā un trešajā daļā minēto ieguldījumu pakalpojumu bruto ieņēmumiem, bet ne mazāk par 711 euro gadā;
+3) līdz 0,005 procentiem gadā no filiāles pārvaldījumā esošo valsts fondēto pensiju shēmas ieguldījumu plānu vidējās aktīvu vērtības gadā, kas aprēķināta, pamatojoties uz attiecīgā gada katra ceturkšņa beigu aktīvu vērtību.
+(5) Attiecībā uz grozījumiem, kas izdarīti atbilstoši šā likuma 28. panta astotajai daļai un 56. panta septītajai daļai, netiek piemērots šā panta trešās daļas 2. punktā noteiktais maksājums.
+(6) Ja ieguldījumu pārvaldes sabiedrība veic ieguldījumu fondu un alternatīvo ieguldījumu fondu pārvaldi, tā maksā Latvijas Bankai līdz 0,132 procentiem no tās pārvaldē esošo ieguldījumu fondu un alternatīvo ieguldījumu fondu vidējās aktīvu vērtības gadā, kas aprēķināta, pamatojoties uz attiecīgā gada katra ceturkšņa beigu aktīvu vērtību, bet ne mazāk par 3557 euro gadā.
