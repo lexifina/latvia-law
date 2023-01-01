@@ -1,3 +1,3 @@
 IV nodaļa
-Finanšu un kapitāla tirgus komisijas sadarbība un
+Latvijas Bankas sadarbība un
 informācijas apmaiņa ar uzraudzības institūcijām
