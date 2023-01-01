@@ -1,8 +1,8 @@
 27. pants. Pensiju fonda vai PEPP sniedzēja valdes pienākumi attiecībā uz pensiju plāna vai PEPP plāna aktīvu ieguldīšanu
 (1) Pensiju fonda vai PEPP sniedzēja valdei ir pienākums:
-1) saskaņā ar attiecīgā pensiju plāna vai PEPP plāna ieguldīšanas noteikumiem sagatavot un iesniegt Komisijai informāciju par attiecīgā pensiju plāna vai PEPP plāna ieguldījumu politiku;
-2) ne retāk kā reizi trijos gados izvērtēt noteikto ieguldījumu politiku un iesniegt Komisijai turpmāk īstenojamās pensiju plāna ieguldījumu politikas detalizētu aprakstu;
-3) triju darbdienu laikā iesniegt Komisijai informāciju par izmaiņām pensiju plāna vai PEPP plāna ieguldījumu politikā.
+1) saskaņā ar attiecīgā pensiju plāna vai PEPP plāna ieguldīšanas noteikumiem sagatavot un iesniegt Latvijas Bankai informāciju par attiecīgā pensiju plāna vai PEPP plāna ieguldījumu politiku;
+2) ne retāk kā reizi trijos gados izvērtēt noteikto ieguldījumu politiku un iesniegt Latvijas Bankai turpmāk īstenojamās pensiju plāna ieguldījumu politikas detalizētu aprakstu;
+3) triju darbdienu laikā iesniegt Latvijas Bankai informāciju par izmaiņām pensiju plāna vai PEPP plāna ieguldījumu politikā.
 (2) Pensiju plāna ieguldījumu politikā ietverami pensiju plāna aktīvu ieguldīšanas principi, ar ieguldījumiem saistīto risku noteikšanas metodes un risku pārvaldīšanas sistēma. Par ieguldījumu politiku norāda vismaz šādu informāciju:
 1) ieguldījumu politikas mērķi un nosacījumi;
 2) aktīvu izvietošanas stratēģija (ilgtermiņa aktīvu sadalījums pa galvenajām ieguldījumu kategorijām);
@@ -25,6 +25,6 @@
 (4) Pensiju fonda vai PEPP sniedzēja valde pensiju plāna dalībniekiem vai PEPP noguldītājiem un pensiju fonda vai PEPP sniedzēja akcionāriem vai dalībniekiem nodrošina brīvu pieeju informācijai par ieguldījumu politiku, kā arī minēto informāciju ievieto tīmekļvietnē.
 (5) Pensiju fonds vai PEPP sniedzējs un līdzekļu pārvaldītājs nav tiesīgi paši apsaimniekot nekustamo īpašumu.
 (6) Pensiju fonds vai PEPP sniedzējs vismaz reizi gadā veic stresa testu, kurā izvērtē un dokumentē iespējamos attīstības scenārijus. Stresa testam izmanto jutīguma testus un scenāriju analīzi. Jutīguma testus veic, lai noteiktu nelabvēlīgu atsevišķa faktora izmaiņu ietekmi uz pensiju plāna vai PEPP plāna ieguldījumu portfeli. Scenāriju analīzi veic, lai noteiktu vairāku faktoru nelabvēlīgu ietekmi uz pensiju plāna vai PEPP plāna ieguldījumu portfeli, konstatējot attiecīgu notikumu vai izmaiņu cēloni.
-(7) Pensiju fonda vai PEPP sniedzēja valde apstiprina stresa testa rezultātus un stresa testā konstatēto nelabvēlīgo notikumu vai izmaiņu iestāšanās gadījumā pieņem lēmumu par veicamajām darbībām. Pensiju fonda vai PEPP sniedzēja valdes apstiprinātu analīzi un lēmumu par veicamajām darbībām iesniedz Komisijai.
-(8) Komisijai ir tiesības noteikt papildu prasības un kārtību, kādā veicams stresa tests, kā arī noteikt iespējamos testējamos faktorus un scenārijus.
-(9) Papildus šā panta astotajā daļā noteiktajām tiesībām Komisijai ir tiesības pieprasīt, lai pensiju fonds vai PEPP sniedzējs veic ārpuskārtas stresa testu un iesniedz tai šā testa rezultātus.
+(7) Pensiju fonda vai PEPP sniedzēja valde apstiprina stresa testa rezultātus un stresa testā konstatēto nelabvēlīgo notikumu vai izmaiņu iestāšanās gadījumā pieņem lēmumu par veicamajām darbībām. Pensiju fonda vai PEPP sniedzēja valdes apstiprinātu analīzi un lēmumu par veicamajām darbībām iesniedz Latvijas Bankai.
+(8) Latvijas Bankai ir tiesības noteikt papildu prasības un kārtību, kādā veicams stresa tests, kā arī noteikt iespējamos testējamos faktorus un scenārijus.
+(9) Papildus šā panta astotajā daļā noteiktajām tiesībām Latvijas Bankai ir tiesības pieprasīt, lai pensiju fonds vai PEPP sniedzējs veic ārpuskārtas stresa testu un iesniedz tai šā testa rezultātus.

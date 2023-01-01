@@ -1,6 +1,6 @@
 20.² pants. PEPP plāna izplatīšana
 (1) PEPP sniedzēja reģistrētu PEPP plānu ir tiesīgs izplatīt PEPP sniedzējs, kā arī apdrošināšanas starpnieks un ieguldījumu brokeru sabiedrība, kura nav PEPP sniedzējs šā likuma 20.¹ panta pirmās daļas izpratnē, bet kura ir tiesīga sniegt vismaz ieguldījumu konsultācijas (turpmāk - PEPP izplatītājs).
-(2) PEPP sniedzējs pirms PEPP plāna nodošanas PEPP izplatītājam vai mainot izplatītāju par to paziņo Komisijai.
+(2) PEPP sniedzējs pirms PEPP plāna nodošanas PEPP izplatītājam vai mainot izplatītāju par to paziņo Latvijas Bankai.
 (3) PEPP sniedzējs nodrošina, ka PEPP klientiem sniedzamā informācija par PEPP plānu, tostarp PEPP pamatinformācijas dokuments un reklāmas materiāli, tiek sagatavota un noformēta atbilstoši Regulai Nr. 2019/1238 un Regulai Nr. 2021/473.
 (4) Lai izplatītu PEPP plānu, PEPP sniedzēji un PEPP izplatītāji ievēro šādus noteikumus:
 1) PEPP sniedzējs attiecībā uz savu reģistrēto PEPP plānu izplatīšanu un PEPP izplatītājs, kas izplata PEPP sniedzēja reģistrētu PEPP plānu, ievēro Ieguldījumu brokeru sabiedrību likuma 31. panta pirmās daļas 16. punktā un Finanšu instrumentu tirgus likuma 126.² pantā, izņemot tā pirmo, desmito, vienpadsmito un divpadsmito daļu, 127. pantā un 128. pantā, izņemot tā vienpadsmito un divpadsmito daļu, paredzētos noteikumus un tieši piemērojamos Eiropas Savienības tiesību aktus;

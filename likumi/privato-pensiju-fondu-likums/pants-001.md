@@ -24,7 +24,7 @@
 22) pensiju plāna komiteja - pensiju plāna kontroles institūcija, kas kontrolē attiecīgā pensiju plāna pārvaldību un izpildi atbilstoši kolektīvās dalības līguma noteikumiem;
 23) pensiju plāns - sistematizētu noteikumu kopums, saskaņā ar kuru pensiju fondā tiek uzkrāta papildpensija, ieguldīti un izmaksāti uzkrātie līdzekļi;
 24) potenciālais pensiju plāna dalībnieks - fiziskā persona, kura ir tiesīga kļūt par pensiju plāna dalībnieku;
-25) privātais pensiju fonds - pensiju fonds, kas ir Latvijas Republikas Uzņēmumu reģistra komercreģistrā ierakstīta kapitālsabiedrība, kuras vadība (sabiedrības sēdeklis) atrodas Latvijas Republikā un kurai Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) šajā likumā noteiktajā kārtībā ir izsniegusi licenci pensiju fonda darbībai (turpmāk - licence);
+25) privātais pensiju fonds - pensiju fonds, kas ir Latvijas Republikas Uzņēmumu reģistra komercreģistrā ierakstīta kapitālsabiedrība, kuras vadība (sabiedrības sēdeklis) atrodas Latvijas Republikā un kurai Latvijas Banka šajā likumā noteiktajā kārtībā ir izsniegusi licenci pensiju fonda darbībai (turpmāk - licence);
 26) riska profils - risku līmenis, kas aptver visus riskus, kam pakļauta pensiju fonda darbība, ņemot vērā to iedarbības pakāpi;
 27) saistītās personas - divas vai vairākas personas, ja tās atbilst vismaz vienai likumā "Par nodokļiem un nodevām" minētai saistītu personu pazīmei;
 28) saņēmējs pensiju fonds - pensiju fonds, kurš visas vai daļu no pensiju plāna saistībām, tehniskajām rezervēm un citas tiesības un pienākumus saistībā ar darba devēja iemaksām, kā arī attiecīgos aktīvus vai tiem līdzvērtīgu naudas summu nodod pensiju fondam, kas ir reģistrēts vai licencēts citā dalībvalstī;
