@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2022. gada 20. decembra noteikumi Nr. 816 \"Publisko elektronisko iepirkumu noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "250",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-27",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2026-07-07",
+  "commission_reference": "MNE(2026)05176",
+  "nim_celex": "72023L1791LVA_202605176",
+  "nim_id": "202605176",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0d5b8068-0809-4828-a61d-d7a25cf94ee2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
