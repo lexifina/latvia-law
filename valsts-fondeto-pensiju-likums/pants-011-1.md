@@ -1,5 +1,5 @@
 11.¹ pants. Fondēto pensiju shēmas līdzekļu pārvaldīšanas pakalpojumu reklāma un ieguldījumu plānu piedāvāšana
-(1) Jebkāda fondēto pensiju shēmas līdzekļu pārvaldīšanas un ar to saistīto pakalpojumu publiska sludināšana (reklāma) jebkurā veidā var notikt tikai atbilstoši Komisijā reģistrētam ieguldījumu plāna prospektam.
+(1) Jebkāda fondēto pensiju shēmas līdzekļu pārvaldīšanas un ar to saistīto pakalpojumu publiska sludināšana (reklāma) jebkurā veidā var notikt tikai atbilstoši Latvijas Bankā reģistrētam ieguldījumu plāna prospektam.
 (2) Ievietojot sludinājumus vai publiski paziņojot ieguldījumu plāna noteikumus, ieguldījumu plāna reklāmā norāda:
 1) ieguldījumu plāna nosaukumu;
 2) pārvaldošās sabiedrības nosaukumu, juridisko adresi un izpildinstitūcijas atrašanās vietu;
