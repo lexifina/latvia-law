@@ -8,5 +8,7 @@
 (4) Šā panta trešo daļu nepiemēro:
 1) ja īpašums tiek atsavināts, veicot maksātnespējas procesu vai izpildot tiesas nolēmumu par noziedzīgi iegūtas mantas konfiskāciju;
 2) gadījumos, kad nodokļa administrācija veic bezstrīda piedziņu, vēršot to uz parādnieka mantu atbilstoši likumam "Par nodokļiem un nodevām";
-3) ja apbūves tiesība izbeidzas līdz ar zemesgrāmatās reģistrētās apbūves tiesības termiņa notecējumu.
+3) ja apbūves tiesība izbeidzas līdz ar zemesgrāmatās reģistrētās apbūves tiesības termiņa notecējumu;
+4) ja zeme tiek atsavināta saskaņā ar Piespiedu dalītā īpašuma privatizētajās daudzdzīvokļu mājās izbeigšanas likumu;
+5) ja īpašums tiek atsavināts Sabiedrības vajadzībām nepieciešamā nekustamā īpašuma atsavināšanas likumā noteiktajā kārtībā.
 (5) Par pašvaldības neinformēšanu saskaņā ar šā likuma 7.panta otro daļu no nodokļa maksātāja piedzen nekustamā īpašuma nodokļa summu, kas maksājama par periodu no nekustamā īpašuma nodokļa maksāšanas pienākuma rašanās dienas, un soda naudu 30 procentu apmērā no nodokļa summas.
