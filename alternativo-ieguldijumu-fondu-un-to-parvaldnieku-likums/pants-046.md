@@ -2,7 +2,7 @@
 (1) Ja atvērtais fonds dibināts kā akciju sabiedrība, tā pārvaldniekam ir pienākums pēc akcionāra pieprasījuma ne vēlāk kā mēneša laikā veikt akciju atpakaļpirkšanu. Šāda fonda pamatkapitāls mainās atkarībā no akciju emisijas un dzēšanas apmēra.
 (2) Ja slēgtais fonds dibināts kā akciju sabiedrība, tā pārvaldniekam aizliegta akciju atpakaļpirkšana un akcijas tiek dzēstas fonda darbības termiņa beigās vai fonda darbības noteikumos minētajos gadījumos.
 (3) Uz fondu attiecas Komerclikuma noteikumi par pamatkapitāla palielināšanu un samazināšanu, ciktāl šajā likumā nav noteikts citādi.
-(4) Dibinot fondu, statūtos noteikto pamatkapitālu samaksā pilnībā līdz fonda reģistrācijai Komisijā.
+(4) Dibinot fondu, statūtos noteikto pamatkapitālu samaksā pilnībā līdz fonda reģistrācijai Latvijas Bankā.
 (5) Atvērtā fonda akciju emisijas laiks un emitējamo akciju skaits nav ierobežots, ja vien fonda statūti un fonda darbības noteikumi neparedz maksimālo fonda pamatkapitāla lielumu. Ja pamatkapitāls tiek palielināts, līdzšinējam akcionāram nav pirmtiesību iegādāties jaunās akcijas. Atvērtā fonda statūtos var nenorādīt pamatkapitāla lielumu un akciju skaitu.
 (6) Slēgtā fonda pamatkapitālu drīkst palielināt, tikai pamatojoties uz akcionāru sapulces lēmumu. Ja pamatkapitāls tiek palielināts, parakstīties uz jaunajām akcijām ir tiesības tikai esošajiem akcionāriem proporcionāli tiem piederošo akciju nominālvērtību summai. Citi ieguldītāji ir tiesīgi parakstīties uz jaunajām akcijām, ja esošie akcionāri nav izmantojuši savas tiesības noteiktajā termiņā un šādas tiesības tiem ir saskaņā ar pamatkapitāla palielināšanas noteikumiem.
 (7) Par akcijām nedrīkst maksāt pa daļām vai maksāt ar mantisko ieguldījumu. Parakstoties uz akcijām, par tām samaksā pilnā apmērā.
@@ -17,7 +17,7 @@
 5) atvērtā fonda akciju atpakaļpirkšanas kārtību un akciju atpakaļpirkšanas apturēšanas nosacījumus un kārtību;
 6) dividenžu aprēķināšanas un izmaksas kārtību;
 7) fonda reorganizācijas un likvidācijas kārtību.
-(12) Statūtus vai grozījumus statūtos fonda dibinātāji vai pārvaldnieks iesniedz saskaņošanai Komisijā pirms tam, kad izsludināts paziņojums par akcionāru sapulces sasaukšanu. Komisija minētos statūtus vai grozījumus statūtos izskata 10 darbdienu laikā un sniedz savu saskaņojumu vai pieņem lēmumu atteikt statūtu vai to grozījumu saskaņojumu.
+(12) Statūtus vai grozījumus statūtos fonda dibinātāji vai pārvaldnieks iesniedz saskaņošanai Latvijas Bankā pirms tam, kad izsludināts paziņojums par akcionāru sapulces sasaukšanu. Latvijas Banka minētos statūtus vai grozījumus statūtos izskata 10 darbdienu laikā un sniedz savu saskaņojumu vai pieņem lēmumu atteikt statūtu vai to grozījumu saskaņojumu.
 (13) Ja institūcijai, kas sasauc akcionāru sapulci, pēc tam, kad izsludināts paziņojums par akcionāru sapulces sasaukšanu, tiek iesniegti papildu jautājumi par statūtu grozījumiem, kas paredz izmaiņas šā panta vienpadsmitajā daļā minētajā informācijā, šos papildu jautājumus nedrīkst iekļaut jau izsludinātajā akcionāru sapulces darba kārtībā.
 (14) Akcionāru sapulce papildus Komerclikumā noteiktajām tiesībām pieņem lēmumu par:
 1) ieguldījumu politikas, mērķa un stratēģijas apstiprināšanu;

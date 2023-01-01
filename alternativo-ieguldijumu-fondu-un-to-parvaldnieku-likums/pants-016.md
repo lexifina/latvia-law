@@ -9,7 +9,7 @@
 1) par minimālā sākotnējā kapitāla un atbilstoši šā panta ceturtās daļas prasībām aprēķinātā papildu pašu kapitāla kopsummu;
 2) summu, kas noteikta Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulas (ES) 2019/2033 par prudenciālajām prasībām ieguldījumu brokeru sabiedrībām un ar ko groza regulas (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 un (ES) Nr. 806/2014 13. pantā.
 (8) (Izslēgta ar 28.04.2022. likumu)
-(9) Pārvaldnieks, kas saņēmis Komisijas atļauju, drīkst nodrošināt līdz 50 procentiem no šā panta ceturtajā daļā minētā papildu pašu kapitāla ar tāda paša apmēra garantiju, kuru izsniegusi:
+(9) Pārvaldnieks, kas saņēmis Latvijas Bankas atļauju, drīkst nodrošināt līdz 50 procentiem no šā panta ceturtajā daļā minētā papildu pašu kapitāla ar tāda paša apmēra garantiju, kuru izsniegusi:
 1) kredītiestāde, kas saņēmusi licenci kredītiestādes darbībai dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī, kura ietilpst Desmit valstu grupā;
 2) dalībvalstī reģistrēta apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle, kas saņēmusi licenci apdrošināšanas veikšanai.
 (10) Ar pārvaldnieka darbību saistīto iespējamo profesionālās atbildības risku segšanai pārvaldnieks ievēro vienu no šādām prasībām:
