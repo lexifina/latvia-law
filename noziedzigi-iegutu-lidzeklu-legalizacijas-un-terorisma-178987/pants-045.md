@@ -1,11 +1,11 @@
 45.pants. Likuma subjektu uzraudzības un kontroles institūcijas
 (1) Likuma subjektus šā likuma prasību izpildē uzrauga un kontrolē šādas institūcijas:
-1) kredītiestādes, elektroniskās naudas iestādes, apdrošināšanas sabiedrības, ciktāl tās veic dzīvības apdrošināšanas vai citas ar līdzekļu uzkrāšanu saistītas apdrošināšanas darbības, privātos pensiju fondus, apdrošināšanas starpniekus, ciktāl tie sniedz dzīvības apdrošināšanas vai citus ar līdzekļu uzkrāšanu saistītus apdrošināšanas pakalpojumus, ieguldījumu brokeru sabiedrības, alternatīvo ieguldījumu fondu pārvaldniekus, ieguldījumu pārvaldes sabiedrības, krājaizdevu sabiedrības, pārapdrošināšanas pakalpojumu sniedzējus un maksājumu iestādes - Finanšu un kapitāla tirgus komisija;
+1) kredītiestādes, elektroniskās naudas iestādes, apdrošināšanas sabiedrības, ciktāl tās veic dzīvības apdrošināšanas vai citas ar līdzekļu uzkrāšanu saistītas apdrošināšanas darbības, privātos pensiju fondus, apdrošināšanas starpniekus, ciktāl tie sniedz dzīvības apdrošināšanas vai citus ar līdzekļu uzkrāšanu saistītus apdrošināšanas pakalpojumus, ieguldījumu brokeru sabiedrības, alternatīvo ieguldījumu fondu pārvaldniekus, ieguldījumu pārvaldes sabiedrības, krājaizdevu sabiedrības, pārapdrošināšanas pakalpojumu sniedzējus, maksājumu iestādes un kapitālsabiedrības, kas nodarbojas ar ārvalstu valūtas skaidrās naudas pirkšanu un pārdošanu, - Latvijas Banka;
 2) zvērinātus advokātus - Latvijas Zvērinātu advokātu padome;
 3) zvērinātus notārus - Latvijas Zvērinātu notāru padome;
 4) zvērinātus revidentus un zvērinātu revidentu komercsabiedrības - Latvijas Zvērinātu revidentu asociācija un Valsts ieņēmumu dienests daļā par sankciju piemērošanu;
 5) (izslēgts no 25.06.2019. ar 26.10.2017. likumu. Sk. Pārejas noteikumu 28. punktu);
-6) kapitālsabiedrības, kas saņēmušas Latvijas Bankas licenci ārvalstu valūtas skaidrās naudas pirkšanai un pārdošanai, - Latvijas Banka;
+6) (izslēgts no 01.01.2023. ar 23.09.2021. likumu. Sk. Pārejas noteikumu 64. punktu);
 7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
 8) (izslēgts ar 01.12.2009. likumu);
 9) (izslēgts ar 10.12.2009. likumu);
