@@ -9,9 +9,9 @@
 5) 15 kvadrātmetriem - piecvietīgā kamerā.
 (4) Katram aizturētajam nodrošina:
 1) atsevišķu guļamvietu;
-2) gultas piederumus (matraci un segu);
-3) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 5. punktu);
-4) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 5. punktu).
+2) gultas matraci;
+3) segu un spilvenu, ja aizturēšanas laiks ietver naktsmieru;
+4) dvieli, ja aizturētajam nav sava dvieļa un tas nepieciešams lietošanai.
 (5) Kamerā ierīko:
 1) ūdensvadam pieslēgtu sanitāro mezglu, kas no pārējās telpas ir norobežots ar konstrukciju, kura nodrošina, ka aizturētais sanitārā mezgla apmeklēšanas laikā ir aizklāts citu personu skatam tādā mērā, lai garantētu viņa privātuma aizsardzību;
 2) pie grīdas piestiprinātu solu;
