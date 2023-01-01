@@ -15,7 +15,7 @@
 6) ar probācijas klienta piekrišanu tikties ar viņa darba devēju vai izglītības iestādes pārstāvi;
 7) ar probācijas klienta piekrišanu tikties ar viņa ģimenes locekļiem;
 8) pēc pieprasījuma saņemt pilnus tiesas nolēmumus par probācijas klientu neatkarīgi no tā, vai krimināllieta skatīta atklātā vai slēgtā tiesas sēdē;
-9) saņemt informāciju par cietušā vārdu, uzvārdu, dzimšanas datiem un dzīvesvietu, kā arī sazināties ar cietušo, lai iegūtu informāciju izvērtēšanas ziņojuma sastādīšanai, izlīguma organizēšanai un vadīšanai, prokurora uzlikto pienākumu izpildes kontrolei vai pienākumu noteikšanai uzraudzības ietvaros, kā arī probācijas klienta parādsaistību jautājuma risināšanai uzraudzības ietvaros;
+9) saņemt informāciju par cietušā vārdu, uzvārdu, dzimšanas datiem un dzīvesvietu, kā arī sazināties ar cietušo, lai iegūtu informāciju izvērtēšanas ziņojuma sagatavošanai, izlīguma organizēšanai un vadīšanai, prokurora uzlikto pienākumu izpildes kontrolei vai pienākumu noteikšanai uzraudzības vai probācijas novērošanas ietvaros, kā arī probācijas klienta parādsaistību jautājuma risināšanai uzraudzības vai probācijas novērošanas ietvaros;
 10) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst.7.00 līdz 23.00;
 11) iepazīties ar tās notiesātās personas lietas materiāliem, kura atrodas brīvības atņemšanas iestādē un ir pieteikusies dalībai probācijas programmā;
 12) pieprasīt un saņemt no brīvības atņemšanas iestādes informāciju par veicamo un veikto resocializācijas darbu ar notiesāto;
@@ -39,13 +39,13 @@ e) atļauju nepilngadīgajam probācijas klientam šķērsot valsts robežu sask
 (2) Valsts probācijas dienesta ierēdņiem, uzraugot šā likuma 6. panta 5., 7., 9. un 10. punktā noteiktās personas, papildus šā panta pirmajā un 1.¹ daļā noteiktajam ir šādas tiesības:
 1) kontrolēt, kā probācijas klients saskaņā ar uzraudzības plānu pilda viņam izvirzītās prasības;
 2) apmeklēt probācijas klientu viņa dzīvesvietā bez iepriekšēja brīdinājuma;
-3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja atbilstoši kriminālsodu izpildi reglamentējošiem normatīvajiem aktiem probācijas klientam noteikts pienākums - aizliegums atstāt dzīvesvietu noteiktā diennakts laikā;
+3) apmeklēt probācijas klientu viņa dzīvesvietā laikā no plkst. 23.00 līdz 7.00, ja atbilstoši kriminālsodu vai probācijas novērošanas izpildi reglamentējošiem normatīvajiem aktiem probācijas klientam noteikts pienākums - aizliegums atstāt dzīvesvietu noteiktā diennakts laikā;
 4) saņemt informāciju par probācijas klienta iztikas avotiem;
-5) noteikt vai pilnīgi vai daļēji atcelt nosacīti notiesātajiem un nosacīti pirms termiņa no soda izciešanas atbrīvotajiem, kā arī personām, kurām ir piemērots papildsods - probācijas uzraudzība -, kriminālsodu izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi;
+5) noteikt vai pilnīgi vai daļēji atcelt nosacīti notiesātajiem un nosacīti pirms termiņa no soda izciešanas atbrīvotajiem, kā arī personām, kurām ir piemērots kriminālsods - probācijas uzraudzība - vai audzinoša rakstura piespiedu līdzeklis - probācijas novērošana -, kriminālsodu vai probācijas novērošanas izpildi reglamentējošos normatīvajos aktos paredzētos pienākumus un kontrolēt to izpildi;
 6) saņemt informāciju par nepilngadīgā probācijas klienta vecāku vai personas, kas viņus aizstāj, sodāmību un informāciju no nepilngadīgā probācijas klienta vecākiem par viņu veselību un atkarību izraisošu vielu lietošanu;
-7) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu);
-8) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu);
-9) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. pārejas noteikumu 19. punktu).
+7) saņemt informāciju par nepilngadīgam probācijas klientam, kuram ir piemērots audzinoša rakstura piespiedu līdzeklis - probācijas novērošana -, sniegtajiem sociālās uzvedības korekcijas un sociālās rehabilitācijas pakalpojumiem;
+8) sniegt informāciju par nepilngadīgā probācijas klienta, kuram ir piemērots audzinoša rakstura piespiedu līdzeklis - probācijas novērošana -, vārdu, uzvārdu, dzimšanas datiem, likumiskajiem pārstāvjiem, apstākļiem, kas veicinājuši noziedzīga nodarījuma izdarīšanu, un resursiem, kas veicina probācijas klienta iekļaušanos sabiedrībā, pakalpojuma sniedzējam, lai nodrošinātu nepilngadīgā probācijas klienta sociālās uzvedības korekcijas un sociālās rehabilitācijas pakalpojumus;
+9) kontrolēt, kā probācijas klients, kuram piemērota probācijas novērošana, un viņa vecāki vai citi likumiskie pārstāvji pilda probācijas pasākumu plānā noteiktos pasākumus.
 (2¹) Valsts probācijas dienesta ierēdņiem, īstenojot nosacīti pirms termiņa no soda izciešanas atbrīvotu personu elektronisko uzraudzību, papildus šā panta pirmajā, 1.¹ un otrajā daļā noteiktajam ir šādas tiesības:
 1) uzstādīt elektroniskās ierīces probācijas klienta dzīvesvietā;
 2) piestiprināt vai noņemt probācijas klientam elektronisko ierīci;
