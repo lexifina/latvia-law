@@ -3,6 +3,8 @@
 1) pasūtītāja nosaukumu, adresi un citu informāciju par pasūtītāju, kas iekļaujama paziņojumā par līgumu;
 2) iepirkuma identifikācijas numuru;
 3) iepirkuma priekšmeta aprakstu, bet konkursa dialoga gadījumā - vajadzību un prasību raksturojumu;
+3¹) informāciju par iepirkumā aizsargājamas informācijas veidu un klasifikācijas pakāpi, ja iepirkumā ir paredzēts izmantot aizsargājamu informāciju;
+3²) informāciju par industriālās drošības sertifikāta un speciālās atļaujas kategoriju, ja iepirkumā ir paredzēts izmantot valsts noslēpumu vai informāciju, kas aizsargājama kā valsts noslēpums;
 4) pieteikumu iesniegšanas vietu, datumu un laiku;
 5) prasības attiecībā uz pieteikuma noformējumu un iesniegšanu, kā arī informāciju par valodu vai valodām, kādās pieteikums iesniedzams;
 6) šā likuma 44.panta noteikumus vai atsauci uz šā likuma 44.pantu, kā arī iesniedzamo informāciju, kas nepieciešama, lai piegādātāju novērtētu saskaņā ar minētajiem noteikumiem;
@@ -16,6 +18,7 @@
 4) slēgtā konkursā un konkursa dialogā - norādi par piedāvājumu atvēršanas datumu, laiku un vietu, bet sarunu procedūrā, publicējot paziņojumu par līgumu, - norādi par sarunu uzsākšanas vietu un laiku, kā arī informāciju par sarunās apspriežamajiem piedāvājuma aspektiem;
 5) informāciju par piedāvājuma nodrošinājumu, ja tāds paredzēts, tā apmēru, termiņu un iespējamo veidu un izmaksāšanas nosacījumiem saskaņā ar šā likuma 27.pantu;
 6) tehniskās specifikācijas (19.pants) un citus nepieciešamos dokumentus vai norādi uz tīmekļvietnes adresi, kur ir pieejami šie dokumenti, ja pasūtītājs nodrošina brīvu un tiešu elektronisko pieeju iepirkuma procedūras dokumentiem un visiem papildus nepieciešamajiem dokumentiem;
+6¹) kārtību, kādā piegādātājs piekļūst iepirkuma dokumentos ietvertajai aizsargājamai informācijai, veic tās apstrādi un sagatavo piedāvājumu;
 7) ja nepieciešams, līguma izpildes noteikumus galvenokārt saistībā ar informācijas aizsardzību (21.pants), līguma izpildes drošību (22.pants), apakšuzņēmēju līgumu slēgšanu (23.pants), kā arī sociālajiem apstākļiem vai vides aizsardzības prasībām (24.pants);
 8) ja nepieciešams, norādi uz jebkādiem papildu dokumentiem, kas iesniedzami, lai pārbaudītu saskaņā ar pasūtītāja noteiktajām, paziņojumā par līgumu vai kandidātu atlases nolikumā ietvertajām prasībām iesniegtos apliecinājumus vai papildinātu tajos ietverto informāciju. Šos papildu dokumentus pieprasa, ievērojot šā likuma 14. un 15.panta noteikumus;
 9) norādi par piedāvājuma izvēles kritēriju un vērtēšanas kritēriju īpatsvaru vai nozīmīguma secību (26.pants), ja tie nav minēti paziņojumā par līgumu vai kandidātu atlases nolikumā;

@@ -1,4 +1,4 @@
 10.pants. Konfidencialitāte
-(1) Pasūtītājs ir tiesīgs izvirzīt nosacījumus tās informācijas aizsardzībai, kuru tas nodevis piegādātājiem kopā ar tehniskajām specifikācijām, kā arī iepirkuma procedūras laikā. Šos nosacījumus pasūtītājs ir tiesīgs attiecināt arī uz piegādātāju apakšuzņēmējiem.
+(1) Pasūtītājs ir tiesīgs izvirzīt piegādātājiem nosacījumus informācijas aizsardzībai iepirkuma procedūras norises un līguma izpildes ietvaros. Šādus nosacījumus pasūtītājs ir tiesīgs attiecināt arī uz piegādātāju apakšuzņēmējiem.
 (2) Ja likumā nav noteikts citādi, pasūtītājs neatklāj informāciju, kuru tam kā komercnoslēpumu saskaņā ar normatīvajiem aktiem komercdarbības jomā nodevuši citi piegādātāji.
 (3) Piegādātāja pieteikums un piedāvājums, kā arī dokumenti, ar kuriem piegādātājs atbilstoši šā likuma noteikumiem papildina vai izskaidro pieteikumā vai piedāvājumā ietverto informāciju, nav vispārpieejama informācija un šie dokumenti nav uzrādāmi vai izsniedzami personām, kas nav saistītas ar pieteikumu un piedāvājumu izvērtēšanu, izņemot personas, kurām saskaņā ar normatīvajiem aktiem ir tiesības iepazīties ar šiem dokumentiem un saņemt tos amata pienākumu izpildei.

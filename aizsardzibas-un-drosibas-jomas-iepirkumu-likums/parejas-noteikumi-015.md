@@ -1,0 +1,1 @@
+15. Veicot šā likuma 57. pantā paredzēto iepirkuma līguma izpildē iesaistītā personāla un apakšuzņēmēju nomaiņu un jauna personāla un apakšuzņēmēju piesaisti, piemērojams regulējums, kas ir spēkā pārbaudes veikšanas dienā.
