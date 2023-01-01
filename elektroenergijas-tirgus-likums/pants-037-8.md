@@ -1,0 +1,7 @@
+37.⁸ pants. Elektroenerģijas kopīgošana
+(1) Elektroenerģijas kopīgošanu nodrošina elektroenerģijas energokopiena vai no atjaunojamiem energoresursiem iegūtas elektroenerģijas aktīvie lietotāji, kas rīkojas kopīgi, atbilstoši ar elektroenerģijas tirgotāju noslēgtajam līgumam.
+(2) Elektroenerģijas kopīgošana notiek viena tirdzniecības intervāla ietvaros. Tūlītēji nepatērētā elektroenerģija nav uzkrājama kopīgošanai citā tirdzniecības intervālā, bet ir pārdodama elektroenerģijas tirgotājam par vienošanās cenu.
+(3) Sistēmas dalībnieku objekti, kas piedalās elektroenerģijas kopīgošanā, vienlaikus nevar piedalīties neto uzskaites sistēmā, neto norēķinu sistēmā, kā arī elektroenerģijas izcelsmes apliecinājumu sistēmā.
+(4) Elektroenerģijas kopīgošana neskar iesaistīto pušu tiesības un pienākumus, kas tām pastāv kā galalietotājiem, ražotājiem, tirgotājiem vai agregatoriem.
+(5) Pārvades un sadales sistēmas elektroenerģijas kopīgošanai izmanto par šajā likumā un likumā "Par sabiedrisko pakalpojumu regulatoriem" noteiktajiem sistēmas pakalpojumu tarifiem.
+(6) Elektroenerģijas kopīgošanas nosacījumus un kārtību, kārtību, kādā īstenojama informācijas apmaiņa starp tirgus dalībniekiem un sistēmas operatoriem, līgumā starp elektroenerģijas energokopienu vai no atjaunojamiem energoresursiem iegūtas enerģijas aktīvajiem lietotājiem, kas rīkojas kopīgi, un elektroenerģijas tirgotāju ietveramo informāciju nosaka Ministru kabinets.
