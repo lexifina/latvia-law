@@ -10,10 +10,10 @@ c) pamatsumma ir atmaksājama nominālvērtībā tikai saskaņā ar konkrētu ga
 5) noguldījumu piesaistītājs - Latvijā reģistrēta kredītiestāde, krājaizdevu sabiedrība, ārvalstī reģistrētas kredītiestādes filiāle Latvijā, Eiropas Savienības dalībvalstī (turpmāk - dalībvalsts) reģistrētas kredītiestādes filiāle Latvijā, kas normatīvajos aktos noteiktajā kārtībā piedalās noguldījumu garantiju fondā;
 6) noguldījumu nepieejamība - noguldījumu piesaistītāja nespēja izmaksāt noguldījumus, ja ir iestājies vismaz viens šajā punktā minētais apstāklis vai vairāki šādi apstākļi neatkarīgi no to iestāšanās secības:
 a) tiesa pasludinājusi noguldījumu piesaistītāju par maksātnespējīgu,
-b) Finanšu un kapitāla tirgus komisija (turpmāk - Komisija) ir anulējusi atļauju (licenci) kredītiestādes vai krājaizdevu sabiedrības darbībai,
-c) Komisija ir konstatējusi, ka noguldījumu piesaistītājs tā finansiālā stāvokļa pasliktināšanās dēļ nespēj izmaksāt noguldītājam noguldījumu, un pieņēmusi lēmumu par noguldījumu nepieejamības iestāšanos;
+b) kredītiestādei vai krājaizdevu sabiedrībai anulēta licence (atļauja) kredītiestādes vai krājaizdevu sabiedrības darbībai,
+c) Latvijas Banka ir konstatējusi, ka noguldījumu piesaistītājs tā finansiālā stāvokļa pasliktināšanās dēļ nespēj izmaksāt noguldītājam noguldījumu, un pieņēmusi lēmumu par noguldījumu nepieejamības iestāšanos;
 7) noguldītājs - persona vai - kopīgā noguldījuma gadījumā - katra no personām, kurām ir noguldījums noguldījumu piesaistītājā;
-8) noguldījumu garantiju fonds - mantas kopums, kuru veido noguldījumu piesaistītāju veiktie maksājumi un kura pārvaldīšanu nodrošina Komisija;
+8) noguldījumu garantiju fonds - mantas kopums, kuru veido noguldījumu piesaistītāju veiktie maksājumi un kura pārvaldīšanu nodrošina Latvijas Banka;
 9) mērķapjoms - noguldījumu garantiju fondā pieejamo līdzekļu summa, kas uzkrājama šajā likumā noteiktajā kārtībā;
 10) pieejami finanšu līdzekļi - nauda, noguldījumi un zema riska aktīvi, kurus iespējams realizēt septiņās darbdienās;
 11) maksājumu saistības - noguldījumu piesaistītāja maksājumu saistības pret noguldījumu garantiju fondu, kas pilnībā nodrošinātas ar zema riska aktīviem, ja uz nodrošinājumu neattiecas nekāds trešo personu apgrūtinājums.
