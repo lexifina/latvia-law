@@ -1,5 +1,5 @@
 27.pants. Regulētā tirgus organizētāja pienākumi un tiesības
-(1) Regulētā tirgus organizētājs atbilstoši likumam, Komisijas normatīvajiem noteikumiem, kā arī saviem statūtiem un noteikumiem organizē regulēto tirgu un sniedz pakalpojumus, kas saistīti ar finanšu instrumentu publisko apgrozību.
+(1) Regulētā tirgus organizētājs atbilstoši likumam, Latvijas Bankas noteikumiem, kā arī saviem statūtiem un noteikumiem organizē regulēto tirgu un sniedz pakalpojumus, kas saistīti ar finanšu instrumentu publisko apgrozību.
 (2) Regulētā tirgus organizētājs ir visiem finanšu instrumentu tirgus dalībniekiem atklāta un pieejama organizācija, kura nodrošina katra tā organizētā regulētā tirgus atklātumu un labas vadības principiem atbilstošu darbību.
 (2¹) Regulētā tirgus organizētājs veic nepieciešamos pasākumus, lai:
 1) identificētu un pārvaldītu iespējamos interešu konfliktus starp regulētā tirgus organizētāja vai tā akcionāru interesēm un pienākumu nodrošināt regulētā tirgus stabilu darbību, kā arī novērstu šāda interešu konflikta nelabvēlīgo ietekmi uz regulētā tirgus darbību vai tā biedru vai dalībnieku interesēm, īpaši tad, ja šādi interešu konflikti var kaitēt regulētā tirgus organizētāja tiesībām veikt tirgus uzraudzības funkciju;
@@ -33,4 +33,4 @@
 (12) Regulētā tirgus organizētājs katra kalendāra gada pirmo triju darba dienu laikā publicē attiecīgā kalendāra gada finanšu instrumentu tirdzniecības dienu kalendāru savā mājas lapā internetā.
 (13) Regulētā tirgus organizētājs nedrīkst izpildīt klienta rīkojumu, veicot darījumu savā vārdā, vai iesaistīties sapārotā tirdzniecībā nevienā no regulētajiem tirgiem, kurus tas organizē.
 (14) Detalizētākas prasības šā panta piemērošanai nosaka Komisijas 2016. gada 24. maija deleģētā regula (ES) 2017/568, ar ko Eiropas Parlamenta un Padomes direktīvu 2014/65/ES papildina ar regulatīvajiem tehniskajiem standartiem par finanšu instrumentu pielaišanu tirdzniecībā regulētajos tirgos.
-(15) Ja regulētais tirgus ir juridiskā persona, kuru vada vai organizē regulētā tirgus organizētājs, kas pats nav regulētais tirgus, šajā likumā noteikto pienākumu sadalījumu starp šiem subjektiem katrā individuālā gadījumā nosaka Komisija.
+(15) Ja regulētais tirgus ir juridiskā persona, kuru vada vai organizē regulētā tirgus organizētājs, kas pats nav regulētais tirgus, šajā likumā noteikto pienākumu sadalījumu starp šiem subjektiem katrā individuālā gadījumā nosaka Latvijas Banka.

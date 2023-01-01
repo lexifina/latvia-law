@@ -16,7 +16,7 @@
 4) Ķīnas Tautas Republikas vispārpieņemtos grāmatvedības principus;
 5) Kanādas vispārpieņemtos grāmatvedības principus;
 6) Korejas Republikas vispārpieņemtos grāmatvedības principus.
-(4²) Emitents, kura juridiskā adrese ir ārvalstī, paziņojumu par datumu, kurā tas pāriet uz starptautiskajiem finanšu pārskatu standartiem, izplata šā likuma 64.² pantā noteiktajā kārtībā, un Komisija prasību par līdzvērtības atzīšanu attiecībā uz šo emitentu atceļ ar šajā paziņojumā minēto datumu.
+(4²) Emitents, kura juridiskā adrese ir ārvalstī, paziņojumu par datumu, kurā tas pāriet uz starptautiskajiem finanšu pārskatu standartiem, izplata šā likuma 64.² pantā noteiktajā kārtībā, un Latvijas Banka prasību par līdzvērtības atzīšanu attiecībā uz šo emitentu atceļ ar šajā paziņojumā minēto datumu.
 (4³) Gadījumos, kad emitenta juridiskā adrese ir ārvalstī un tas neizmanto starptautiskos finanšu pārskatu standartus vai līdzvērtīgus starptautiskos finanšu pārskatu standartus, sagatavotais konsolidētais gada pārskats uzskatāms par atbilstošu šā likuma 56.panta otrās daļas prasībām, ja tas ietver informāciju par:
 1) dividenžu aprēķinu un spēju izmaksāt dividendes. Šī prasība attiecas uz akciju emitentiem;
 2) emitenta likviditāti un minimālā kapitāla prasībām, ja šādas prasības attiecīgās ārvalsts normatīvajos aktos ir noteiktas.
@@ -34,5 +34,5 @@
 1) meitas sabiedrība, kas ir ieguldījumu pārvaldes sabiedrība vai ieguldījumu brokeru sabiedrība, brīvi un neatkarīgi no tās mātes sabiedrības izmanto balsstiesības, kas izriet no tās pārvaldīšanā esošajiem finanšu instrumentiem;
 2) jebkāda interešu konflikta gadījumā meitas sabiedrība, kas ir ieguldījumu pārvaldes sabiedrība vai ieguldījumu brokeru sabiedrība, balso neatkarīgi no mātes sabiedrības vai tās kontrolētas komercsabiedrības interesēm.
 (13) Šā panta divpadsmitajā daļā minētā mātes sabiedrība ievēro šā likuma 61.⁶ panta septītās daļas 1.punkta un devītās daļas prasības, kā arī sniedz apliecinājumu tam, ka mātes sabiedrība attiecībā uz katru tās meitas ieguldījumu pārvaldes sabiedrību vai meitas ieguldījumu brokeru sabiedrību ir izpildījusi šā panta divpadsmitajā daļā minētos nosacījumus.
-(14) Šā panta divpadsmitajā daļā minētā mātes sabiedrība pierāda Komisijai, ka ir izpildījusi šā likuma 61.¹ panta 6.⁵ daļā noteikto pienākumu.
+(14) Šā panta divpadsmitajā daļā minētā mātes sabiedrība pierāda Latvijas Bankai, ka ir izpildījusi šā likuma 61.¹ panta 6.⁵ daļā noteikto pienākumu.
 (15) Ja emitenta juridiskā adrese ir ārvalstī un šīs ārvalsts normatīvajos aktos ir noteikts pienākums publicēt starpperiodu pārskatus un finanšu informāciju par pirmajiem trim, sešiem un deviņiem pārskata gada mēnešiem, uzskatāms, ka šāda prasība ir līdzvērtīga šā likuma 57.panta pirmās daļas un 57.² panta pirmās daļas prasībām.

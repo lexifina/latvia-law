@@ -9,6 +9,6 @@
 2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī ir atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;
 3) pret kuru ierosinātā krimināllieta par tīša noziedzīga nodarījuma izdarīšanu ir izbeigta sakarā ar noilgumu vai amnestiju;
 4) kura saukta pie kriminālatbildības, bet pret kuru krimināllieta izbeigta uz nereabilitējoša pamata;
-5) kura apzināti sniegusi Komisijai nepatiesas ziņas par sevi, iesniedzot dokumentus, lai saņemtu licenci jebkādas darbības veikšanai finanšu un kapitāla tirgū.
+5) kura apzināti sniegusi Latvijas Bankai nepatiesas ziņas par sevi, iesniedzot dokumentus, lai saņemtu licenci jebkādas darbības veikšanai finanšu tirgū.
 (3) Ja persona jau pilda pārvaldes institūcijas locekļa pienākumus citā regulētā tirgus organizētājā, kas šā likuma vai dalībvalsts normatīvā akta kārtībā saņēmis licenci regulētā tirgus organizēšanai, tā ir uzskatāma par atbilstošu šā panta pirmās daļas prasībām.
-(4) Komisija nosaka prasības regulētā tirgus organizētāja valdes un padomes locekļiem attiecībā uz viņu funkcijām iekšējās kontroles sistēmas jomā.
+(4) Latvijas Banka nosaka prasības regulētā tirgus organizētāja valdes un padomes locekļiem attiecībā uz viņu funkcijām iekšējās kontroles sistēmas jomā.

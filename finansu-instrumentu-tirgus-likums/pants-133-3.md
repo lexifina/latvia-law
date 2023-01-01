@@ -1,6 +1,6 @@
 133.³ pants. Daudzpusējās tirdzniecības sistēmas biedri vai dalībnieki
 (1) DT sistēmas biedrs vai dalībnieks ir persona, kas saskaņā ar šā likuma 133.⁴ panta ceturtajā daļā minētajiem noteikumiem ir tiesīga veikt darījumus šajā sistēmā.
 (2) Par DT sistēmas biedru vai dalībnieku var kļūt:
-1) ieguldījumu brokeru sabiedrība, kurai Komisija izsniegusi licenci ieguldījumu pakalpojumu sniegšanai, vai kredītiestāde, kurai Komisija izsniegusi licenci kredītiestādes darbībai un kura šajā likumā noteiktajā kārtībā uzsākusi ieguldījumu pakalpojumu sniegšanu;
+1) ieguldījumu brokeru sabiedrība, kurai Latvijas Banka izsniegusi licenci ieguldījumu pakalpojumu sniegšanai, vai kredītiestāde, kurai Latvijas Banka izsniegusi licenci kredītiestādes darbībai un kura šajā likumā noteiktajā kārtībā uzsākusi ieguldījumu pakalpojumu sniegšanu;
 2) citas dalībvalsts ieguldījumu brokeru sabiedrība vai kredītiestāde, kura savā reģistrācijas valstī ir saņēmusi licenci ieguldījumu pakalpojumu sniegšanai.
 (3) DT sistēmas organizētājs ir tiesīgs piešķirt biedra vai dalībnieka statusu arī personai, kura nav minēta šā panta otrajā daļā, bet kura saskaņā ar sistēmas organizētāja apstiprinātajiem kritērijiem ir piemērota un atbilstoša un kurai ir pietiekams prasmju un kompetences līmenis attiecībā uz tirdzniecību DT sistēmā, un kurai ir pietiekami resursi un organizatoriskā struktūra, lai veiktu DT sistēmas biedra vai dalībnieka pienākumus un garantētu pienācīgus norēķinus par darījumiem.

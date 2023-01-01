@@ -1,6 +1,6 @@
 131.¹ pants. Pieeja informācijai par klienta finanšu instrumentiem un naudas līdzekļiem
 (1) Papildus šā likuma 131. pantā noteiktajam ieguldījumu brokeru sabiedrības un kredītiestādes informāciju, kas attiecas uz klienta finanšu instrumentiem un naudas līdzekļiem, dara brīvi pieejamu:
-1) Komisijai;
+1) Latvijas Bankai;
 2) ieceltiem maksātnespējas procesa administratoriem.
 (2) Šā panta pirmajā daļā minētā informācija ietver:
 1) iekšējos uzskaites ierakstus un uzskaites dokumentus, kas pienācīgi atspoguļo katra klienta uzdevumā turēto naudas līdzekļu un finanšu instrumentu atlikumus;

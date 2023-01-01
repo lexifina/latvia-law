@@ -1,2 +1,2 @@
 129.² pants. Zvērināta revidenta ziņojums par klientu naudas līdzekļu un finanšu instrumentu turēšanu
-Ieguldījumu brokeru sabiedrība un kredītiestāde nodrošina, ka zvērināts revidents vismaz reizi gadā pārbauda, vai tās veiktie pasākumi ir pietiekami, lai izpildītu šā likuma 125.¹, 125.², 125.³, 129. un 129.¹ pantā noteiktās prasības. Zvērināts revidents iesniedz Komisijai rakstveida ziņojumu par šajā pantā minēto pārbaudi.
+Ieguldījumu brokeru sabiedrība un kredītiestāde nodrošina, ka zvērināts revidents vismaz reizi gadā pārbauda, vai tās veiktie pasākumi ir pietiekami, lai izpildītu šā likuma 125.¹, 125.², 125.³, 129. un 129.¹ pantā noteiktās prasības. Zvērināts revidents iesniedz Latvijas Bankai rakstveida ziņojumu par šajā pantā minēto pārbaudi.

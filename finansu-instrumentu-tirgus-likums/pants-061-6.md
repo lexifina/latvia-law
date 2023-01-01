@@ -15,7 +15,7 @@
 2) apliecinājumu, ka attiecībā pret katru savu meitas sabiedrību mātes sabiedrība ir izpildījusi šā panta sestajā daļā minētos nosacījumus.
 (8) Mātes sabiedrība pastāvīgi atjauno šā panta septītās daļas 1.punktā minēto sarakstu un par to informē emitenta izcelsmes dalībvalsts kompetento institūciju.
 (9) Ja mātes sabiedrība vēlas piemērot šā panta pirmās un ceturtās daļas prasības tikai finanšu instrumentiem, kas minēti šā likuma 60.panta pirmās daļas 3.punktā, tā attiecīgā emitenta izcelsmes dalībvalsts kompetentajai institūcijai nosūta tikai šā panta septītās daļas 1.punktā minēto sarakstu.
-(10) Pēc Komisijas pieprasījuma mātes sabiedrības pienākums ir pierādīt, ka:
+(10) Pēc Latvijas Bankas pieprasījuma mātes sabiedrības pienākums ir pierādīt, ka:
 1) mātes sabiedrības un meitas sabiedrības organizatoriskā struktūra ir tāda, ka meitas sabiedrībai ir iespējams izmantot no tās pārvaldīšanā esošajām akcijām izrietošās balsstiesības neatkarīgi no mātes sabiedrības;
 2) personas, kas pieņem lēmumus par balsstiesību izmantošanu, rīkojas neatkarīgi;
 3) ja mātes sabiedrība ir meitas sabiedrības klients vai arī pārvalda tādus pašus finanšu instrumentus, kādus pārvalda meitas sabiedrība, mātes sabiedrība un meitas sabiedrība ir noslēgusi rakstveida vienošanos, ka abas puses attiecībā uz balsstiesību izmantošanu akcionāru sapulcēs rīkojas neatkarīgi.

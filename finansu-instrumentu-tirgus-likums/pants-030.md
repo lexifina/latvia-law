@@ -1,5 +1,5 @@
 30.pants. Licences saņemšanai iesniedzamie dokumenti
-(1) Lai saņemtu licenci, regulētā tirgus organizētājs iesniedz Komisijai iesniegumu, kuram pievieno:
+(1) Lai saņemtu licenci, regulētā tirgus organizētājs iesniedz Latvijas Bankai iesniegumu, kuram pievieno:
 1) dokumentus, kuros ir ziņas par regulētā tirgus organizētāja valdes un padomes locekļiem:
 a) paziņojumu, kurā ietverta šā panta otrajā daļā minētā informācija,
 b) pases vai cita likumā noteikta personu identificējoša dokumenta tās lapas kopiju, kurā norādīti personu identificējošie dati [vārds, uzvārds, pilsonība, personas kods (ja tāds ir) vai dzimšanas gads un datums],
@@ -26,7 +26,7 @@ b) juridiskajām personām - firmu, juridisko adresi, reģistrācijas numuru un 
 8) vai attiecīgā persona bijusi vadītājs komercsabiedrībā, kas atzīta par maksātnespējīgu;
 9) vai attiecīgajai personai bijušas atņemtas tiesības veikt komercdarbību;
 10) iepriekšējās darbavietas pēdējo 10 gadu laikā un darba pienākumu aprakstu.
-(3) Komisijai ir tiesības pieprasīt, lai kapitālsabiedrība precizē iesniegtos dokumentus un informāciju.
-(4) Ja līdz lēmuma pieņemšanai par licences izsniegšanu notiek izmaiņas šā panta pirmajā daļā norādītajā informācijā vai dokumentos tiek izdarīti grozījumi, kapitālsabiedrības pienākums ir nekavējoties iesniegt Komisijai jauno informāciju vai attiecīgo dokumentu pilnu tekstu ar izdarītajiem grozījumiem.
-(5) Grozījumus licences saņemšanai iesniegtajos dokumentos regulētā tirgus organizētājs pēc licences saņemšanas iesniedz Komisijai ne vēlāk kā septiņu dienu laikā pēc grozījumu pieņemšanas dienas vai pēc dienas, kad attiecīgā informācija kļuva tam zināma.
-(6) Komisija var atteikties apstiprināt grozījumus dokumentos, ja paredzamās izmaiņas apdraud finansiāli stabilu, piesardzīgu un normatīvajiem aktiem atbilstošu regulētā tirgus organizētāja darbību.
+(3) Latvijas Bankai ir tiesības pieprasīt, lai kapitālsabiedrība precizē iesniegtos dokumentus un informāciju.
+(4) Ja līdz lēmuma pieņemšanai par licences izsniegšanu notiek izmaiņas šā panta pirmajā daļā norādītajā informācijā vai dokumentos tiek izdarīti grozījumi, kapitālsabiedrības pienākums ir nekavējoties iesniegt Latvijas Bankai jauno informāciju vai attiecīgo dokumentu pilnu tekstu ar izdarītajiem grozījumiem.
+(5) Grozījumus licences saņemšanai iesniegtajos dokumentos regulētā tirgus organizētājs pēc licences saņemšanas iesniedz Latvijas Bankai ne vēlāk kā septiņu dienu laikā pēc grozījumu pieņemšanas dienas vai pēc dienas, kad attiecīgā informācija kļuva tam zināma.
+(6) Latvijas Banka var atteikties apstiprināt grozījumus dokumentos, ja paredzamās izmaiņas apdraud finansiāli stabilu, piesardzīgu un normatīvajiem aktiem atbilstošu regulētā tirgus organizētāja darbību.
