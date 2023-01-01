@@ -1,0 +1,2 @@
+15.¹ pants. (1) Regulā Nr. 2016/867 noteikto kredītu un kredītriska mikrodatu sniedzējam ir tiesības saņemt reģistrā iekļautās ziņas Latvijas Bankas nodrošinātajā regulas Nr. 2016/867 10. panta 1. punktā un 11. pantā paredzētajā atgriezeniskajā saitē.
+(2) Latvijas Banka, ievērojot Eiropas Savienības, tai skaitā Eiropas Centrālās bankas, tiesību aktus, nosaka prasības un kārtību, kādā tā nodrošina regulas Nr. 2016/867 10. panta 1. punktā un 11. pantā paredzēto atgriezenisko saiti.
