@@ -1,2 +1,2 @@
 VI nodaļa
-Sistēmas noteikumi
+Sistēmas noteikšana un paziņošana

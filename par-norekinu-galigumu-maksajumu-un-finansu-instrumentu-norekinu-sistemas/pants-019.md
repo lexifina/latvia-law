@@ -1,2 +1,1 @@
-19.pants. (1) Komisija nosaka tās sistēmas, kuras darbojas saskaņā ar Latvijas Republikas likumiem un atbilst šā likuma mērķim un kurām piemērojamas šā likuma normas.
-(2) Par sistēmām, kuras neuztur centrālās bankas, Komisija pēc sistēmas uzturētāja pieteikuma saņemšanas nosūta dokumentus Latvijas Bankai, lai saņemtu atzinumu par sistēmas un tās noteikumu atbilstību šā likuma prasībām, un pēc attiecīgā atzinuma saņemšanas pieņem lēmumu.
+19. pants. Latvijas Banka nosaka, vai sistēma, kura, ievērojot dalībnieku vienošanos, darbojas saskaņā ar Latvijas Republikas likumiem, atbilst sistēmai, kurai piemērojams šis likums.

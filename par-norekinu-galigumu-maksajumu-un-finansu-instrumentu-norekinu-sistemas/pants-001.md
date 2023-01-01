@@ -4,7 +4,7 @@ a) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot sistēmas uztu
 b) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts) likums,
 c) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Vērtspapīru un tirgu iestādi;
 2) iestāde - institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:
-a) tā ir Latvijas Republikā vai citā dalībvalstī reģistrēta banka, filiāle, ārvalsts bankas filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
+a) tā ir Latvijas Republikā vai citā dalībvalstī reģistrēta kredītiestāde, filiāle, ārvalsts kredītiestādes filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
 b) tā ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, filiāle vai ārvalsts ieguldījumu brokeru sabiedrības filiāle,
 c) tā ir valsts pārvaldes institūcija vai valsts vai pašvaldības kapitālsabiedrība;
 d) (izslēgts ar 03.03.2011. likumu);
@@ -16,7 +16,7 @@ d) (izslēgts ar 03.03.2011. likumu);
 8) sistēmas uzturētājs (operators) - institūcija, kas ir atbildīga par sistēmas darbības nodrošināšanu;
 9) sistēmiskais risks - risks, ka viena sistēmas dalībnieka nespēja izpildīt savas saistības izraisīs citu dalībnieku vai finanšu iestāžu nespēju noteiktajā laikā izpildīt savas saistības. Šāda situācija var radīt ievērojamas likviditātes vai kredīta problēmas, bet tas savukārt var apdraudēt finanšu tirgus stabilitāti;
 10) pārveduma rīkojums - norādījums, kas atbilst vienam no šādiem nosacījumiem:
-a) dalībnieka norādījums par naudas summas nodošanu saņēmēja rīcībā ar grāmatvedības ierakstu bankas, centrālās bankas, centrālā darījumu partnera vai norēķinu aģenta kontā vai norādījums pieņemt maksājumu vai izpildīt maksājuma saistības saskaņā ar sistēmas noteikumiem,
+a) dalībnieka norādījums par naudas summas nodošanu saņēmēja rīcībā ar grāmatvedības ierakstu kredītiestādes, centrālās bankas, centrālā darījumu partnera vai norēķinu aģenta kontā vai norādījums pieņemt maksājumu vai izpildīt maksājuma saistības saskaņā ar sistēmas noteikumiem,
 b) dalībnieka norādījums nodot īpašumtiesības uz finanšu instrumentiem vai tiesības uz finanšu instrumentiem ar ierakstu reģistrā vai citādi;
 11) maksātnespējas procedūra - jebkurš pasākums, tai skaitā maksātnespējas process, ko paredz dalībvalsts vai kādas ārvalsts likumi attiecīgā dalībnieka likvidēšanai, kā arī darbības ierobežošanai vai sanācijai, ja tas ietver finanšu instrumentu vai naudas pārvedumu apturēšanu vai ierobežošanu;
 12) maksātnespējas procedūras sākšana - brīdis, kad dalībvalsts vai kādas ārvalsts attiecīgā tiesu vai administratīvā iestāde pieņēmusi lēmumu vai spriedumu sākt maksātnespējas procedūru;
