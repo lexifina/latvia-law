@@ -1,5 +1,5 @@
 59.¹ pants. Diplomu reģistrs
-(1) Diplomu reģistrā ieraksta ziņas par visiem augstākās izglītības diplomiem, ko izsniedz Augstskolu reģistrā un Izglītības iestāžu reģistra koledžu daļā reģistrētās augstskolas, koledžas un ārvalstu augstskolu filiāles. Diplomu reģistru kārto tam pilnvarota augstskolas vai koledžas amatpersona. Diplomu reģistru kārto elektroniski.
+(1) Diplomu reģistrā ieraksta ziņas par visiem augstākās izglītības diplomiem, kurus izsniedz Izglītības iestāžu reģistrā reģistrētās augstskolas, koledžas un ārvalstu augstskolu filiāles. Diplomu reģistru kārto tam pilnvarota augstskolas vai koledžas amatpersona. Diplomu reģistru kārto elektroniski.
 (2) Diplomu reģistrā par diplomu ierakstāmas šādas ziņas:
 1) diploma nosaukums;
 2) diploma numurs;
