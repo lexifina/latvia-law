@@ -1,1 +1,1 @@
-66.¹ pants. Finanšu un kapitāla tirgus komisija informē Eiropas Banku iestādi par minimālo pašu kapitāla un atbilstīgo saistību prasību, kas saskaņā ar šā likuma 60.² vai 61. pantu ir noteikta tās uzraudzībā esošai iestādei.
+66.¹ pants. Latvijas Banka informē Eiropas Banku iestādi par minimālo pašu kapitāla un atbilstīgo saistību prasību, kas saskaņā ar šā likuma 60.² vai 61. pantu ir noteikta tās uzraudzībā esošai iestādei.

@@ -1,4 +1,4 @@
-57.pants. (1) Ārkārtas gadījumos Finanšu un kapitāla tirgus komisija ir tiesīga saņemt papildu finansējumu no alternatīviem finansēšanas avotiem, ievērojot šādus nosacījumus:
+57.pants. (1) Ārkārtas gadījumos Latvijas Banka ir tiesīga saņemt papildu finansējumu no alternatīviem finansēšanas avotiem, ievērojot šādus nosacījumus:
 1) ir ievērots šā likuma 56.panta pirmās daļas 2.punktā noteiktais 5 procentu ierobežojums;
 2) visas nenodrošinātās saistības, kas nav prioritāras un kas nav atbilstīgie noguldījumi Noguldījumu garantiju likuma izpratnē, ir pilnībā norakstītas vai konvertētas.
 (2) Ja ir ievēroti šā panta pirmajā daļā paredzētie nosacījumi, noregulējuma fonds var veikt iemaksu no līdzekļiem, kas iegūti no noregulējuma fondā veiktajām iemaksām un kas līdz šim vēl nav izmantoti.

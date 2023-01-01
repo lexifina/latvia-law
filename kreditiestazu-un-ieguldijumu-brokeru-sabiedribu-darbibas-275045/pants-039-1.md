@@ -1,1 +1,1 @@
-39.¹ pants. Finanšu un kapitāla tirgus komisija var veikt noregulējuma darbību attiecībā uz centrālo iestādi un visām tai pastāvīgi radniecīgajām iestādēm, kas pieder pie tās pašas noregulējamās grupas, ja minētā noregulējamā grupa atbilst šā likuma 39. panta pirmās daļas nosacījumiem.
+39.¹ pants. Latvijas Banka var veikt noregulējuma darbību attiecībā uz centrālo iestādi un visām tai pastāvīgi radniecīgajām iestādēm, kas pieder pie tās pašas noregulējamās grupas, ja minētā noregulējamā grupa atbilst šā likuma 39. panta pirmās daļas nosacījumiem.

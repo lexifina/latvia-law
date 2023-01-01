@@ -1,5 +1,5 @@
-13.pants. (1) Finanšu un kapitāla tirgus komisija kopā ar meitas sabiedrību noregulējuma iestādēm, iepriekš konsultējoties ar nozīmīgo filiāļu noregulējuma iestādēm, ciktāl tas attiecas uz konkrēto nozīmīgo filiāli, izstrādā grupas noregulējuma plānu.
-(2) Finanšu un kapitāla tirgus komisijai ir tiesības iesaistīt grupas noregulējuma plāna izstrādē un uzturēšanā ārvalstu noregulējuma iestādes, kuru atrašanās valsts teritorijā grupa ir reģistrējusi meitas sabiedrības vai finanšu pārvaldītājsabiedrības, vai nozīmīgas filiāles.
+13.pants. (1) Latvijas Banka kopā ar meitas sabiedrību noregulējuma iestādēm, iepriekš konsultējoties ar nozīmīgo filiāļu noregulējuma iestādēm, ciktāl tas attiecas uz konkrēto nozīmīgo filiāli, izstrādā grupas noregulējuma plānu.
+(2) Latvijas Bankai ir tiesības iesaistīt grupas noregulējuma plāna izstrādē un uzturēšanā ārvalstu noregulējuma iestādes, kuru atrašanās valsts teritorijā grupa ir reģistrējusi meitas sabiedrības vai finanšu pārvaldītājsabiedrības, vai nozīmīgas filiāles.
 (3) Grupas noregulējuma plānā nosaka noregulējuma pasākumus, kas veicami attiecībā uz:
 1) Latvijas Republikā reģistrētu Eiropas Savienības mātes sabiedrību;
 2) grupas sastāvā esošām meitas sabiedrībām, kas komercdarbību veic dalībvalstī;

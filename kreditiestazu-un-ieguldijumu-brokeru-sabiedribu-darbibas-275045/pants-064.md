@@ -1,4 +1,4 @@
-64. pants. (1) Iestādes vai finanšu sabiedrības, uz kurām attiecas šā likuma 59. panta pirmajā daļā minētā minimālā pašu kapitāla un atbilstīgo saistību prasība, iesniedz Finanšu un kapitāla tirgus komisijai pārskatus par:
+64. pants. (1) Iestādes vai finanšu sabiedrības, uz kurām attiecas šā likuma 59. panta pirmajā daļā minētā minimālā pašu kapitāla un atbilstīgo saistību prasība, iesniedz Latvijas Bankai pārskatus par:
 1) pašu kapitāla apjomu atbilstoši šā likuma 61. panta sestās daļas 2. punkta nosacījumiem un atbilstīgo saistību apjomu. Pašu kapitāla un atbilstīgo saistību apjomus, kas izteikti saskaņā ar šā likuma 59. panta otro daļu, norāda pēc atskaitījumiem saskaņā ar Regulas Nr. 575/2013 72.e, 72.f, 72.g, 72.h, 72.i un 72.j pantu;
 2) citu iekšēji rekapitalizējamu saistību apjomu;
 3) šīs daļas 1. un 2. punktā minētajiem posteņiem, norādot:
@@ -9,7 +9,7 @@ c) vai tos reglamentē trešās valsts tiesību akti (ja tas tā ir, norāda att
 (3) Šā panta pirmajā daļā minētās iestādes un finanšu sabiedrības iesniedz:
 1) vismaz reizi pusgadā - šā panta pirmās daļas 1. punktā minēto informāciju;
 2) vismaz reizi gadā - šā panta pirmās daļas 2. un 3. punktā minēto informāciju.
-(4) Finanšu un kapitāla tirgus komisija var pieprasīt, lai šā panta pirmajā daļā minētās iestādes un finanšu sabiedrības šā panta pirmajā daļā noteikto informāciju iesniedz biežāk.
+(4) Latvijas Banka var pieprasīt, lai šā panta pirmajā daļā minētās iestādes un finanšu sabiedrības šā panta pirmajā daļā noteikto informāciju iesniedz biežāk.
 (5) Šā panta pirmajā daļā minētās iestādes un sabiedrības vismaz reizi gadā publisko šādu informāciju:
 1) attiecīgā gadījumā - šā likuma 61. panta sestās daļas 2. punkta nosacījumiem atbilstoša pašu kapitāla apjoms un atbilstīgo saistību apjoms;
 2) šīs daļas 1. punktā minēto posteņu sastāvs, tostarp termiņa profils un prioritāte maksātnespējas procesā;

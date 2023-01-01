@@ -1,4 +1,4 @@
-86.pants. (1) Papildus šā likuma 85.pantā noteiktajām tiesībām Finanšu un kapitāla tirgus komisijai ir šādas tiesības:
+86.pants. (1) Papildus šā likuma 85.pantā noteiktajām tiesībām Latvijas Bankai ir šādas tiesības:
 1) noteikt, ka nodošana piemērojama bez kādām saistībām vai apgrūtinājumiem, kas ietekmē nododamos finanšu instrumentus, tiesības, aktīvus vai saistības;
 2) atcelt tiesības papildus iegādāties akcijas vai citus īpašumtiesību instrumentus;
 3) pieprasīt, lai izslēdz iestādes vērtspapīrus no regulētā tirgus vai aptur to tirdzniecību, kā noteikts Finanšu instrumentu tirgus likumā;

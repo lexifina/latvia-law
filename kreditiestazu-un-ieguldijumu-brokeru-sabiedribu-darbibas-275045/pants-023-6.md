@@ -1,1 +1,1 @@
-23.⁶ pants. Finanšu un kapitāla tirgus komisija, izmantojot šā likuma 60. panta sešpadsmitajā daļā minētās tiesības attiecībā uz noregulējamām vienībām, nosūta vienotajai noregulējuma valdei pieprasījumu, kas izvērtēts atbilstoši šajā likumā noteiktajām prasībām.
+23.⁶ pants. Latvijas Banka, izmantojot šā likuma 60. panta sešpadsmitajā daļā minētās tiesības attiecībā uz noregulējamām vienībām, nosūta vienotajai noregulējuma valdei pieprasījumu, kas izvērtēts atbilstoši šajā likumā noteiktajām prasībām.
