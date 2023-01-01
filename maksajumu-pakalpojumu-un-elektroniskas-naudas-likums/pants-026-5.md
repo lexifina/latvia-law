@@ -1,0 +1,1 @@
+26.⁵ pants. Latvijas Banka nosaka valūtu tirdzniecības prasības un kārtību, kādā izveidojama valūtu tirdzniecības vieta un veicama valūtu tirdzniecība, kā arī kārtību, kādā veicamas valūtu tirdzniecības sabiedrību pārbaudes.

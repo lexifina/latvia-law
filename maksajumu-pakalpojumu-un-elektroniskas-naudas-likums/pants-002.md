@@ -1,4 +1,4 @@
-2.pants. (1) Šis likums nosaka maksājumu pakalpojumu sniedzēju un maksājumu pakalpojumu izmantotāju, elektroniskās naudas emitentu un elektroniskās naudas turētāju tiesības, pienākumus un atbildību, prasības maksājumu pakalpojumu sniegšanai, elektroniskās naudas emisijai, izplatīšanai un atpirkšanai, kā arī reglamentē maksājumu iestāžu un elektroniskās naudas iestāžu tiesisko statusu, darbību un atbildību.
+2.pants. (1) Šis likums nosaka maksājumu pakalpojumu sniedzēju, maksājumu pakalpojumu izmantotāju, elektroniskās naudas emitentu, elektroniskās naudas turētāju, valūtu tirdzniecības sabiedrību un maksājumu sistēmu tiesības, pienākumus un atbildību, prasības maksājumu pakalpojumu sniegšanai, elektroniskās naudas emisijai, izplatīšanai un atpirkšanai, kā arī reglamentē maksājumu iestāžu, elektroniskās naudas iestāžu, valūtu tirdzniecības sabiedrību un maksājumu sistēmu tiesisko statusu, darbību un atbildību.
 (2) Maksājumu pakalpojumus var sniegt:
 1) kredītiestāde;
 2) elektroniskās naudas iestāde;

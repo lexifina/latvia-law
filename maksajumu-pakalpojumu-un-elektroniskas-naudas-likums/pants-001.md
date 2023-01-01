@@ -77,5 +77,5 @@ b) dod maksājuma rīkojumu, ja tai nav maksājumu konta;
 39) sākotnējais kapitāls - kapitāls, kuru veido viens vai vairāki no Regulas Nr. 575/2013 26. panta 1. punkta "a", "b", "c", "d" un "e" apakšpunktā minētajiem elementiem;
 40) mītnes dalībvalsts - piederības dalībvalsts, proti, Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts), kurā atrodas maksājumu pakalpojumu sniedzēja juridiskā adrese vai galvenais birojs, ja saskaņā ar savas valsts tiesību aktiem maksājumu pakalpojumu sniedzējam nav juridiskās adreses;
 41) iesaistītā dalībvalsts - uzņēmēja dalībvalsts, kura nav mītnes dalībvalsts un kurā maksājumu pakalpojumu sniedzējam ir pārstāvis vai filiāle vai kurā tas sniedz maksājumu pakalpojumus;
-42) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 42. punktu);
-43) (punkts stājas spēkā 01.01.2023. un iekļauts likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 42. punktu).
+42) valūtu tirdzniecība - ārvalstu valūtu skaidrās naudas pirkšana un pārdošana komercdarbības veidā;
+43) valūtu tirdzniecības sabiedrība - Eiropas Savienības vai Eiropas Ekonomikas zonas valstī reģistrēta kapitālsabiedrība, izņemot kredītiestādi, kura nodarbojas ar valūtu tirdzniecību un ir reģistrēta šā likuma 26.³ pantā noteiktajā kārtībā.

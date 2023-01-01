@@ -1,0 +1,1 @@
+26.⁸ pants. Ja valūtu tirdzniecības sabiedrības darbības laikā tiek izdarīti būtiski grozījumi šā likuma 26.³ panta ceturtajā daļā minētajos dokumentos vai šie dokumenti izdoti no jauna, valūtu tirdzniecības sabiedrībai ir pienākums par to informēt Latvijas Banku, iesniedzot minētos dokumentus 10 dienu laikā no dienas, kad tajos izdarīti grozījumi vai dokumenti izdoti no jauna.

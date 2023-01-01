@@ -1,2 +1,2 @@
-104.³ pants. (1) Maksājumu pakalpojumu sniedzējs divreiz gadā - līdz 31. janvārim un līdz 31. jūlijam - iesniedz Komisijai statistikas datus par krāpšanu un citām prettiesiskām darbībām iepriekšējā pusgadā, kas saistītas ar maksāšanas līdzekļu izmantošanu iepriekšējā pusgadā.
-(2) Komisija izdod normatīvos noteikumus par kārtību, kādā maksājumu pakalpojumu sniedzēji iesniedz statistikas datus par krāpšanu un prettiesiskām darbībām, kas saistītas ar maksāšanas līdzekļu izmantošanu.
+104.³ pants. (1) Maksājumu pakalpojumu sniedzējs divreiz gadā - līdz 31. janvārim un līdz 31. jūlijam - iesniedz Latvijas Bankai statistikas datus par krāpšanu un citām prettiesiskām darbībām iepriekšējā pusgadā, kas saistītas ar maksāšanas līdzekļu izmantošanu iepriekšējā pusgadā.
+(2) Latvijas Banka izdod noteikumus par kārtību, kādā maksājumu pakalpojumu sniedzēji iesniedz statistikas datus par krāpšanu un prettiesiskām darbībām, kas saistītas ar maksāšanas līdzekļu izmantošanu.

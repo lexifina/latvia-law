@@ -1,5 +1,5 @@
-10.pants. (1) Licencētās iestādes, to pārstāvjus un filiāles, kā arī ārvalsts elektroniskās naudas iestāžu filiāles, kuras saņēmušas licenci Latvijā, reģistrē licencēto iestāžu reģistrā, ko uztur Komisija.
+10.pants. (1) Licencētās iestādes, to pārstāvjus un filiāles, kā arī ārvalsts elektroniskās naudas iestāžu filiāles, kuras saņēmušas licenci Latvijā, reģistrē licencēto iestāžu reģistrā, ko uztur Latvijas Banka.
 (2) Licencēto iestāžu reģistrā norāda elektroniskās naudas iestādes vai ārvalsts elektroniskās naudas iestādes filiāles, kura saņēmusi licenci Latvijā, tiesības emitēt elektronisko naudu, kā arī maksājumu pakalpojumus, kurus šā panta pirmajā daļā minētās personas ir tiesīgas sniegt.
-(3) Iestādes, kuru darbības uzsākšanai nav nepieciešama licence, to pārstāvjus un filiāles reģistrē iestāžu reģistrā, ko uztur Komisija.
-(4) Komisija nosūta Eiropas Komisijai informāciju par šā panta trešajā daļā minēto iestāžu, to pārstāvju un filiāļu skaitu par situāciju kalendāra gada 31.decembrī, papildus norādot to veikto maksājumu kopējo apmēru attiecīgā kalendāra gada 12 mēnešos un apgrozībā esošās emitētās elektroniskās naudas apmēru.
-(5) Komisija nekavējoties ziņo Eiropas Banku iestādei par izmaiņām, kas tiek veiktas šā panta pirmajā un trešajā daļā minētajos reģistros.
+(3) Iestādes, kuru darbības uzsākšanai nav nepieciešama licence, to pārstāvjus un filiāles reģistrē iestāžu reģistrā, ko uztur Latvijas Banka.
+(4) Latvijas Banka nosūta Eiropas Komisijai informāciju par šā panta trešajā daļā minēto iestāžu, to pārstāvju un filiāļu skaitu par situāciju kalendāra gada 31.decembrī, papildus norādot to veikto maksājumu kopējo apmēru attiecīgā kalendāra gada 12 mēnešos un apgrozībā esošās emitētās elektroniskās naudas apmēru.
+(5) Latvijas Banka nekavējoties ziņo Eiropas Banku iestādei par izmaiņām, kas tiek veiktas šā panta pirmajā un trešajā daļā minētajos reģistros.

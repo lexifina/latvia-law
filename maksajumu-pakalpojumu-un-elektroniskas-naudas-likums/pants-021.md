@@ -5,5 +5,5 @@
 4) pret kuru uzsāktais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts, atbrīvojot no kriminālatbildības, ja ar nodarījumu nav radīts tāds kaitējums, lai piespriestu kriminālsodu, vai ja panākts izlīgums ar cietušo vai viņa pārstāvi;
 5) pret kuru uzsāktais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts, ja tā būtiski palīdzējusi atklāt smagu vai sevišķi smagu noziegumu, kas ir smagāks vai bīstamāks par pašas šīs personas izdarīto noziedzīgo nodarījumu;
 6) pret kuru uzsāktais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts, nosacīti atbrīvojot no kriminālatbildības.
-(2) Iestādes kompetentajai pārvaldes institūcijai ir pienākums pašai vai pēc Komisijas pieprasījuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja uz tām var attiecināt šā panta pirmajā daļā minētos ierobežojumus.
-(3) Ja Komisija pieņem lēmumu par šā panta pirmajā daļā minēto personu atsaukšanu no amata tām noteikto ierobežojumu neievērošanas dēļ, tad Komisijas lēmuma pārsūdzēšana neaptur tā darbību.
+(2) Iestādes kompetentajai pārvaldes institūcijai ir pienākums pašai vai pēc Latvijas Bankas pieprasījuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja uz tām var attiecināt šā panta pirmajā daļā minētos ierobežojumus.
+(3) Ja Latvijas Banka pieņem lēmumu par šā panta pirmajā daļā minēto personu atsaukšanu no amata tām noteikto ierobežojumu neievērošanas dēļ, tad Latvijas Bankas lēmuma pārsūdzēšana neaptur tā darbību.

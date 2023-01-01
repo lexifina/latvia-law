@@ -1,3 +1,3 @@
-60.³ pants. (1) Maksājumu pakalpojumu sniedzējs patērētājam paredzētajā līgumā un jebkādas citas informācijas sniegšanā izmanto standartizētos terminus, ko Komisija noteikusi saskaņā ar šā likuma 60.¹ panta pirmo daļu.
+60.³ pants. (1) Maksājumu pakalpojumu sniedzējs patērētājam paredzētajā līgumā un jebkādas citas informācijas sniegšanā izmanto standartizētos terminus, ko Latvijas Banka noteikusi saskaņā ar šā likuma 60.¹ panta pirmo daļu.
 (2) Ja maksājumu pakalpojumu sniedzēja izmantotais zīmolvārds, kas apzīmē sniegto pakalpojumu, ir nepārprotami sasaistāms ar attiecīgu standartizētajā terminu sarakstā ietvertu pakalpojumu, to var izmantot patērētājam paredzētajā līgumā un jebkādas citas informācijas sniegšanā.
 (3) Pakalpojumu cenrādī un pakalpojumu maksas pārskatā maksājumu pakalpojumu sniedzējs var papildus standartizētajiem terminiem izmantot zīmolvārdus kā attiecīgo pakalpojumu papildu apzīmējumus.

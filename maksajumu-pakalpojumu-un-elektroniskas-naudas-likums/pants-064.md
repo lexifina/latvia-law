@@ -1,7 +1,7 @@
 64.pants. Maksājumu pakalpojumu sniedzējs maksājuma pakalpojuma izmantotājam standartlīgumā sniedz šādu informāciju:
 1) par maksājumu pakalpojumu sniedzēju:
 a) maksājumu pakalpojumu sniedzēja nosaukumu, juridisko adresi, elektroniskā pasta adresi un citas adreses, kas izmantojamas saziņai ar maksājumu pakalpojumu sniedzēju, kā arī maksājumu pakalpojumu sniedzēja pārstāvja vai filiāles juridisko adresi Latvijā, ja maksājumu pakalpojumi tiek sniegti ar pārstāvja vai filiāles starpniecību. Ja Latvijā dibināts un reģistrēts maksājumu pakalpojumu sniedzējs sniedz maksājumu pakalpojumus citā dalībvalstī, - arī tā pārstāvja vai filiāles juridisko adresi dalībvalstī, kurā tiek piedāvāti maksājumu pakalpojumi,
-b) norādi uz Komisiju vai maksājumu pakalpojumu sniedzēja uzraudzības institūciju, kā arī norādi uz šā likuma 10.pantā paredzēto reģistru, kurā attiecīgais maksājumu pakalpojumu sniedzējs ir reģistrēts;
+b) norādi uz Latvijas Banku vai maksājumu pakalpojumu sniedzēja uzraudzības institūciju, kā arī norādi uz šā likuma 10.pantā paredzēto reģistru, kurā attiecīgais maksājumu pakalpojumu sniedzējs ir reģistrēts;
 2) par maksājumu pakalpojumu izmantošanu:
 a) sniedzamā maksājuma pakalpojuma aprakstu,
 b) norādi uz informāciju vai unikālu identifikatoru, ko maksājuma pakalpojuma izmantotājs iesniedz, lai maksājuma rīkojums tiktu pienācīgi izpildīts,

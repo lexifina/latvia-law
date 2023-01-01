@@ -5,7 +5,7 @@
 4) faktisko vai atsauces valūtas kursu, ko piemēros maksājumam, ja tiks veikta valūtas maiņa.
 (1¹) Maksājumu ierosināšanas pakalpojumu sniedzējs pirms maksājuma ierosināšanas sniedz vai dara pieejamu maksātājam šādu informāciju:
 1) maksājumu ierosināšanas pakalpojumu sniedzēja nosaukumu, juridisko adresi, elektroniskā pasta adresi un citu informāciju, kas izmantojama saziņai ar maksājumu ierosināšanas pakalpojumu sniedzēju, kā arī maksājumu ierosināšanas pakalpojumu sniedzēja pārstāvja vai filiāles juridisko adresi Latvijā, ja maksājumu pakalpojumi tiek sniegti ar pārstāvja vai filiāles starpniecību;
-2) norādi uz Komisiju vai maksājumu ierosināšanas pakalpojumu sniedzēja uzraudzības institūciju un to kontaktinformāciju.
+2) norādi uz Latvijas Banku vai maksājumu ierosināšanas pakalpojumu sniedzēja uzraudzības institūciju un to kontaktinformāciju.
 (2) Maksājumu pakalpojumu sniedzējs maksājuma pakalpojuma izmantotājam viegli pieejamā veidā dara pieejamu arī citu šā likuma 64.pantā noteikto informāciju, ja tā attiecas uz maksājuma pakalpojumu un ir maksājumu pakalpojumu sniedzēja rīcībā.
 (3) Maksājumu ierosināšanas pakalpojumu sniedzējs uzreiz pēc maksājuma ierosināšanas sniedz vai dara pieejamu maksātājam un, ja nepieciešams, maksājuma saņēmējam šādu informāciju:
 1) apstiprinājumu par maksājuma rīkojuma veiksmīgu ierosināšanu, kas saņemts no maksātāja kontu apkalpojošā maksājumu pakalpojumu sniedzēja;

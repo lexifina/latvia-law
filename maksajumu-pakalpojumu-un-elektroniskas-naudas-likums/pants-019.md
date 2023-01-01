@@ -8,4 +8,4 @@
 7) balsstiesības, kuras izriet no trešās personas vārdā un konkrētās personas labā turētām akcijām;
 8) balsstiesības, kuras konkrētā persona var realizēt kā pilnvarnieks, ja tā ir tiesīga izmantot balsstiesības pēc saviem ieskatiem un ja nav saņēmusi īpašus norādījumus;
 9) balsstiesības, kuras izriet no jebkurā citā netiešā veidā konkrētās personas iegūtajām akcijām.
-(2) Persona, kura vēlas iegūt, ir ieguvusi, vēlas palielināt vai netiešā ceļā palielinājusi būtisku līdzdalību iestādē, pēc Komisijas pieprasījuma iesniedz tai informāciju, kas ļauj pārliecināties par attiecīgās personas atbilstību šā likuma 15.panta pirmās daļas prasībām.
+(2) Persona, kura vēlas iegūt, ir ieguvusi, vēlas palielināt vai netiešā ceļā palielinājusi būtisku līdzdalību iestādē, pēc Latvijas Bankas pieprasījuma iesniedz tai informāciju, kas ļauj pārliecināties par attiecīgās personas atbilstību šā likuma 15.panta pirmās daļas prasībām.

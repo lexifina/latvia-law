@@ -1,0 +1,5 @@
+26.⁷ pants. (1) Pirms akcionāra vai dalībnieka (līdz fiziskajai personai, kura ir patiesais labuma guvējs Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē), padomes (ja tāda ir izveidota) priekšsēdētāja, padomes locekļa, valdes priekšsēdētāja, valdes locekļa vai prokūrista maiņas valūtu tirdzniecības sabiedrība informē par to Latvijas Banku, lai tā varētu pārliecināties par minēto personu atbilstību šā likuma prasībām.
+(2) Latvijas Banka nosaka iesniedzamo informāciju un dokumentus attiecībā uz šā panta pirmajā daļā minēto personu maiņu un šīs informācijas un dokumentu iesniegšanas kārtību.
+(3) Latvijas Bankai 30 dienu laikā no dienas, kad tā no valūtu tirdzniecības sabiedrības saņēmusi informāciju un dokumentus par šā panta pirmajā daļā minēto personu maiņu, ir tiesības iebilst pret to, ja:
+1) attiecīgās maiņas rezultātā valūtu tirdzniecības sabiedrība vairs neatbilst šā likuma 26.³ panta otrās daļas prasībām;
+2) valūtu tirdzniecības sabiedrība nesniedz vai atsakās sniegt informāciju, kas noteikta atbilstoši šā panta otrajai daļai.
