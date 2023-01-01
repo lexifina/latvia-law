@@ -4,7 +4,7 @@
 1) dalībvalsts centrālajā bankā, ja tā sniedz šādu pakalpojumu;
 2) Latvijā reģistrētā kredītiestādē vai dalībvalstī reģistrētā kredītiestādē;
 3) ārvalstī reģistrētā kredītiestādē;
-4) komercsabiedrībā, kura darbojas ārvalsts finanšu un kapitāla tirgū un uz kuru attiecas Latvijā pieņemtajām prasībām līdzvērtīga uzraudzība ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanā.
+4) komercsabiedrībā, kura darbojas ārvalsts finanšu tirgū un uz kuru attiecas Latvijā pieņemtajām prasībām līdzvērtīga uzraudzība ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanā.
 (3) Turētājbanka, piesaistot fonda finanšu instrumentu vai citu fonda aktīvu turēšanai trešo personu, ievēro šādus nosacījumus:
 1) prasmīgi, rūpīgi un uzcītīgi izvēlas trešo personu un visu laiku, kamēr pie tās tiek turēti finanšu instrumenti vai citi fonda aktīvi, prasmīgi, rūpīgi un uzcītīgi periodiski pārbauda un regulāri uzrauga, kā trešā persona izpilda tai uzticētos pienākumus;
 2) regulāri pārliecinās, ka trešajai personai ir atbilstoša organizatoriskā struktūra un pietiekama pieredze finanšu instrumentu vai citu aktīvu turēšanā;
