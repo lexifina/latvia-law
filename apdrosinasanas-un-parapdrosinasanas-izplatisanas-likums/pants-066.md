@@ -1,2 +1,0 @@
-66. pants. Sankciju un uzraudzības pasākumu efektīva piemērošana
-Pieņemot lēmumu par sankciju vai uzraudzības pasākumu piemērošanu personām, kuras pārkāpušas finanšu un kapitāla tirgu regulējošus normatīvos aktus, un par soda naudas apmēru, Komisija ņem vērā visus apstākļus, ieskaitot Finanšu un kapitāla tirgus komisijas likumā noteiktos apstākļus, kā arī pasākumus, ko veikusi persona, lai novērstu pārkāpuma atkārtošanos, un iespējamās pārkāpuma sistemātiskas izdarīšanas sekas, kā arī izvērtē piemērojamo sankciju samērīgumu, efektivitāti un atturošo raksturu.
