@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1158 par darba un privātās dzīves līdzsvaru vecākiem un aprūpētājiem un ar ko atceļ Padomes direktīvu 2010/18/ES.
