@@ -12,4 +12,4 @@
 1) procesa virzītājam - atbilstoši Kriminālprocesa likumam;
 2) operatīvās darbības subjektiem - atbilstoši to darbību reglamentējošiem normatīvajiem aktiem;
 3) Korupcijas novēršanas un apkarošanas birojam;
-4) parlamentārās izmeklēšanas komisijām, revīzijas palātām un citām par izmeklēšanu atbildīgām struktūrām, ja tām normatīvajos aktos noteiktajā kārtībā ir piešķirtas pilnvaras izmeklēt vai pārbaudīt Finanšu un kapitāla tirgus komisijas darbību. Ja informācijas izcelsme ir citā dalībvalstī, to neizpauž bez nepārprotamas to kompetento iestāžu piekrišanas, kuras to ir izpaudušas, un izpauž vienīgi tādiem nolūkiem, kādiem minētās iestādes devušas savu piekrišanu.
+4) parlamentārās izmeklēšanas komisijām, revīzijas palātām un citām par izmeklēšanu atbildīgām struktūrām, ja tām normatīvajos aktos noteiktajā kārtībā ir piešķirtas pilnvaras izmeklēt vai pārbaudīt Latvijas Bankas darbību. Ja informācijas izcelsme ir citā dalībvalstī, to neizpauž bez nepārprotamas to kompetento iestāžu piekrišanas, kuras to ir izpaudušas, un izpauž vienīgi tādiem nolūkiem, kādiem minētās iestādes devušas savu piekrišanu.
