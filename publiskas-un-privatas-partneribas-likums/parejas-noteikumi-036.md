@@ -1,0 +1,1 @@
+36. Publiskais partneris vai publiskā partnera pārstāvis līgumu reģistra ierakstu veido par tādu koncesijas līgumu, kas noslēgts, sākot ar 2023. gada 1. janvāri, kā arī par spēkā esošajiem publiskās un privātās partnerības līgumiem.

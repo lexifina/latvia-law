@@ -6,7 +6,7 @@
 4) ja Maksātnespējas likumā noteiktajā kārtībā ir pieņemts lēmums par privātā partnera bankrota procedūras uzsākšanu;
 5) ja publiskās un privātās partnerības līgumā ir izdarīti būtiski grozījumi, kas nav pieļaujami saskaņā ar šā likuma 63. panta pirmo daļu;
 6) ja publiskās un privātās partnerības līgums nav noslēgts atbilstoši publiskās un privātās partnerības procedūras dokumentos paredzētajiem noteikumiem vai ir mainīti publiskās un privātās partnerības procedūras dokumentos iekļautā publiskās un privātās partnerības līguma projekta būtiski noteikumi;
-7) ja publiskās un privātās partnerības līguma slēgšanas tiesību piešķiršanas brīdī privātais partneris bija atbildis kādam no šā likuma 37. panta pirmajā daļā minētajiem izslēgšanas gadījumiem un bija izslēdzams no iepirkuma procedūras;
+7) ja publiskās un privātās partnerības līguma slēgšanas tiesību piešķiršanas brīdī privātais partneris bija atbildis kādam no šā likuma 37. panta otrajā daļā minētajiem izslēgšanas iemesliem un bija izslēdzams no iepirkuma procedūras;
 8) ja publiskās un privātās partnerības līguma slēgšanas tiesībām privātajam partnerim nevajadzēja tikt piešķirtām Līgumā par Eiropas Savienību, Līgumā par Eiropas Savienības darbību un šajā likumā paredzēto pienākumu būtiska pārkāpuma dēļ, ko Līguma par Eiropas Savienības darbību 258. pantā noteiktajā procedūrā konstatējusi Eiropas Savienības Tiesa.
 (2) Privātajam partnerim ir tiesības vienpusēji atkāpties no publiskās un privātās partnerības līguma pirms termiņa, nosūtot publiskajam partnerim rakstveida paziņojumu, šādos gadījumos:
 1) līgumā paredzētajos līguma pārkāpumu gadījumos;

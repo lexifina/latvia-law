@@ -6,7 +6,7 @@
 4) kompensācijas izmaksas kārtību, izbeidzot publiskās un privātās partnerības līgumu pirms termiņa;
 5) mērķsabiedrības izveidošanas kārtību un kārtību, kādā ar mērķsabiedrību slēdz publiskās un privātās partnerības līgumu;
 6) informācijas apmaiņas līguma slēgšanas un finansētāja iejaukšanās tiesību īstenošanas kārtību;
-7) publiskās un privātās partnerības līgumu reģistrācijas kārtību un pieejamību;
+7) (izslēgts ar 05.05.2022. likumu);
 8) noteikumus darbībām ar privātajam partnerim nodotajiem publiskā partnera resursiem.
 (2) Koncesiju jomā likums nosaka:
 1) likuma piemērošanas izņēmumus;
