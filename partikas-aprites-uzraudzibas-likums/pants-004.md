@@ -1,6 +1,6 @@
 4.pants. (1) Latvijā atļauta tikai kvalitātes un obligātajām nekaitīguma prasībām atbilstošas pārtikas aprite.
 (2) Obligātās nekaitīguma prasības, kuru ievērošana nodrošina pārtikas produkta, pārtikas aprites vai ar to saistītā pakalpojuma nekaitīgumu cilvēka veselībai, dzīvībai vai videi, nosaka Ministru kabinets.
-(3) Pārtikai, kas paredzēta atsevišķām patērētāju grupām, Ministru kabinets var noteikt īpašas prasības.
+(3) (Izslēgta no 01.01.2023. ar 27.04.2017. likumu, kas stājas spēkā 24.05.2017. Sk. Pārejas noteikumu 26. punktu)
 (4) Atsevišķām pārtikas produktu grupām Ministru kabinets nosaka kvalitātes un klasifikācijas prasības un kārtību, kādā novērtējama attiecīgo produktu atbilstība šīm prasībām.
 (5) (Izslēgta ar 17.11.2005. likumu)
 (6) (Izslēgta ar 23.10.2014. likumu)
