@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2022. gada 15. decembra lēmums Nr. 1/43 “Grozījumi Sabiedrisko pakalpojumu regulēšanas komisijas 2022. gada 14. aprīļa lēmumā Nr. 1/5 “Sistēmas pieslēguma noteikumi elektroenerģijas ražotājiem\"\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": null,
+  "official_journal_reference": "2022/245.26",
+  "official_journal_page": null,
+  "official_journal_date": "2022-12-19",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2026-01-26",
+  "commission_reference": "MNE(2026)00745",
+  "nim_celex": "72023L1791LVA_202600745",
+  "nim_id": "202600745",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a79c512b-8e65-40a3-9d20-821b74042383",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
