@@ -1,6 +1,6 @@
 40. pants. Iepirkuma procedūras dokumentēšana un iepirkuma procedūras dokumentu glabāšana
 (1) Pasūtītājs nodrošina katra iepirkuma procedūras posma dokumentēšanu un šā likuma 9. un 10. pantā minēto iepirkumu dokumentēšanu, kā arī dokumentē iepirkuma procedūru, kas noris, izmantojot elektroniskos līdzekļus.
 (2) Iepirkuma procedūras ziņojums (turpmāk - ziņojums) ir pārskats, kas atspoguļo iepirkuma procedūras norisi. Ziņojumu sagatavo un publicē pircēja profilā par katru iepirkuma procedūru pēc tam, kad pieņemts lēmums par iepirkuma procedūras rezultātiem, ievērojot Ministru kabineta noteikto kārtību un saturu.
-(3) Protokoli, kas atspoguļo iepirkuma norisi, ziņojums, iepirkuma procedūras dokumenti, izņemot piedāvājumus un pieteikumus, ir vispārpieejama informācija.
+(3) Protokoli, kas atspoguļo iepirkuma norisi, ziņojums, šā likuma 18. panta 2.¹ daļā minētais apspriedes ziņojums, iepirkuma procedūras dokumenti, izņemot piedāvājumus un pieteikumus, ir vispārpieejama informācija.
 (4) Pasūtītājs nodrošina šā panta trešajā daļā minēto dokumentu izsniegšanu triju darbdienu laikā pēc attiecīga pieprasījuma saņemšanas dienas. Pasūtītājs neizsniedz protokolus, izņemot piedāvājumu atvēršanas sanāksmes protokolu, kamēr notiek pieteikumu vai piedāvājumu vērtēšana.
 (5) Pasūtītājs visus šā panta trešajā daļā minēto dokumentu oriģinālus, kā arī pieteikumu un piedāvājumu oriģinālus glabā 10 gadus pēc iepirkuma līguma noslēgšanas, vispārīgās vienošanās noslēgšanas vai dinamiskās iepirkumu sistēmas izveides.

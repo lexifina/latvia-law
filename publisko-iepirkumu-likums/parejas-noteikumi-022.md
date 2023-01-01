@@ -1,0 +1,1 @@
+22. Šo pārejas noteikumu 19. punkts neattiecas uz noteikumiem, kas iekļauti šā likuma 9. panta astoņpadsmitajā daļā, 39. panta ceturtajā daļā, 60. panta desmitās daļas 2. punktā, 66. panta 4. un 5. punktā, 68. panta ceturtajā daļā.

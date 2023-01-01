@@ -12,3 +12,6 @@
 (11) Pasūtītājs noraida pretendenta piedāvājumu atklātā vai slēgtā konkursā, ja pretendenta piedāvātā līgumcena pārsniedz jebkuru no šādām vērtībām:
 1) iepirkuma procedūras dokumentos pasūtītāja norādīto līgumcenu, ja tā noteikta kā piedāvājuma atbilstības prasība;
 2) 150 procentus no iepirkuma procedūras dokumentos norādītās paredzamās līgumcenas.
+(12) Pasūtītājs pieņem lēmumu pārtraukt iepirkuma procedūru, ja atklātā konkursā, slēgtā konkursā vai konkursa procedūrā ar sarunām pieteikumu vai piedāvājumu ir iesniedzis tikai viens kandidāts vai pretendents, izņemot gadījumus, kad:
+1) pasūtītājs pirms iepirkuma procedūras izsludināšanas ir rīkojis šā likuma 18. panta 2.¹ daļas prasībām atbilstošu apspriedi ar piegādātājiem;
+2) iepirkuma procedūras pārtraukšana apdraud sabiedrības drošības vai veselības aizsardzības intereses. Šādā gadījumā pasūtītājs iepirkuma procedūras ziņojumā ietver pamatojumu tam, kādas sabiedrības drošības un veselības aizsardzības intereses tiktu apdraudētas, rīkojot atkārtotu iepirkumu.

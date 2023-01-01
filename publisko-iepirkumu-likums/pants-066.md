@@ -9,4 +9,6 @@
 (2) Iepirkumu uzraudzības birojam ir šādas tiesības:
 1) pieprasīt un bez maksas saņemt pilnu informāciju par jebkuru iepirkumu un noslēgto līgumu;
 2) sadarboties ar ārvalstu institūcijām un nevalstiskajām organizācijām;
-3) pieaicināt neatkarīgus iepirkumu lietpratējus un ekspertus.
+3) pieaicināt neatkarīgus iepirkumu lietpratējus un ekspertus;
+4) pieaicināt kompetentās institūcijas atzinumu sniegšanai;
+5) pieprasīt, lai pasūtītājs sniedz informāciju par tā veikto tirgus izpēti, ja tas nepieciešams iesniegumu izskatīšanai vai atzinuma sniegšanai, veicot iepirkuma procedūras pirmspārbaudes.

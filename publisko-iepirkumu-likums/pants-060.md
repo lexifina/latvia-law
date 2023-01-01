@@ -22,13 +22,14 @@
 2) 15 dienas pēc šā likuma 37. panta otrajā daļā minētās informācijas nosūtīšanas dienas, ja kaut vienam pretendentam tā nosūtīta pa pastu, un papildus viena darbdiena.
 (8) Ja šā panta septītās daļas 1. punktā minētā desmitā diena un 2. punktā minētā piecpadsmitā diena ir sestdiena, svētdiena vai likumā noteikta svētku diena, nogaidīšanas termiņš pagarināms par vienu darbdienu.
 (9) Iepirkuma līgumu vai vispārīgo vienošanos var slēgt, neievērojot šā panta sesto daļu, ja:
-1) vienīgajam pretendentam ir piešķirtas iepirkuma līguma slēgšanas tiesības un nav kandidātu, kas būtu tiesīgi iesniegt iesniegumu šā likuma 68. pantā noteiktajā kārtībā;
+1) vienīgajam pretendentam ir piešķirtas iepirkuma līguma slēgšanas tiesības un nav kandidātu, kas būtu tiesīgi iesniegt iesniegumu šā likuma 68. panta otrajā daļā noteiktajā kārtībā;
 2) tiek rīkots šā likuma 2. pielikumā noteikto sociālo un citu īpašu pakalpojumu iepirkums pasūtītājam neparedzamu ārkārtas apstākļu dēļ;
 3) tiek piemērota sarunu procedūra;
 4) līgumu slēdz vispārīgās vienošanās ietvaros saskaņā ar šā likuma 56. vai 59. pantu;
 5) līgumu slēdz dinamiskās iepirkumu sistēmas ietvaros saskaņā ar šā likuma 57. pantu.
 (10) Pasūtītājs ne vēlāk kā 10 darbdienu laikā pēc dienas, kad stājas spēkā iepirkuma līgums, vispārīgā vienošanās vai to grozījumi, savā pircēja profilā, ievērojot normatīvajos aktos noteiktās komercnoslēpuma aizsardzības prasības un nodrošinot pieejamību visā iepirkuma līguma vai vispārīgās vienošanās darbības laikā, bet ne mazāku par šā likuma 40. panta piektajā daļā iepirkuma dokumentācijai noteikto glabāšanas laiku, ievieto:
 1) iepirkuma līgumu vai vispārīgo vienošanos;
-2) uz vispārīgās vienošanās pamata noslēgtu iepirkuma līgumu;
+2) uz vispārīgās vienošanās pamata vai dinamiskās iepirkumu sistēmas ietvaros noslēgtu iepirkuma līgumu. Ja iepirkuma līgumi vispārīgās vienošanās vai dinamiskās iepirkumu sistēmas ietvaros slēgti elektroniskā vidē saskaņā ar dinamiskās iepirkumu sistēmas izveidošanas vai vispārīgās vienošanās noteikumiem un glabājas valsts elektroniskās informācijas sistēmā, iepirkuma līgumu vai tā grozījumus var neievietot pircēja profilā;
 3) ja iepirkuma līgumu veido publiski pieejami un ar autortiesībām aizsargāti tipveida līguma noteikumi, - norādi uz šiem tipveida līguma noteikumiem, kā arī dokumentus, kuri ir iepirkuma līguma sastāvdaļa un ar kuriem groza vai papildina attiecīgos tipveida līguma noteikumus;
 4) šīs daļas 1., 2. un 3. punktā minēto dokumentu grozījumus un šā likuma 61. panta otrajā un trešajā daļā minēto grozījumu pamatojumu.
+(11) Ja iepirkumu veic centralizēto iepirkumu institūcija, tā vienojas ar pasūtītājiem, kuru vajadzībām tiek veikts iepirkums, par to, kurš savā pircēja profilā ievieto šā panta desmitajā daļā minētos dokumentus. Ja pasūtītāji nevienojas ar centralizēto iepirkumu institūciju, šā panta desmitajā daļā minētos dokumentus savā pircēja profilā ievieto centralizēto iepirkumu institūcija.
