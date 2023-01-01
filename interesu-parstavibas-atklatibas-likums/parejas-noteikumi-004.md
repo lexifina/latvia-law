@@ -1,0 +1,1 @@
+4. Šā likuma 7. pantā minēto ziņojumu Ministru kabinets pirmo reizi iesniedz Saeimai 2024. gadā, bet ziņojumā par 2025. gadu iekļauj arī izvērtējumu par nepieciešamību paredzēt administratīvo atbildību attiecībā uz šajā likumā minēto pienākumu neizpildi.

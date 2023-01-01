@@ -1,0 +1,10 @@
+4. pants. Interešu pārstāvības deklarēšanas sistēma
+(1) Ziņas par interešu pārstāvības aktivitātēm publicē publiskās varas pārstāvji interešu pārstāvības deklarēšanas sistēmā (turpmāk - sistēma), kuru uztur reģistra iestāde. Ziņas tiek publicētas sistēmā ne vēlāk kā divu nedēļu laikā pēc interešu pārstāvības aktivitātes.
+(2) Sistēmā publicē ziņas par notikušām tikšanās reizēm un sanāksmēm (piemēram, darba grupām, komisiju un komiteju sēdēm), norādot vismaz datumu, saziņas formu, dalībniekus un apspriestos jautājumus, privātpersonu, kuras labā tiek veikta interešu pārstāvība, ziņas par protokola sastādīšanu (tā sastādīšanas gadījumā pievieno protokolu vai norāda tīmekļvietnes adresi, kurā pieejams protokols), kā arī citas Ministru kabineta noteiktas ziņas. Ziņu publicēšanu sistēmā par tikšanās reizēm un sanāksmēm, kurās piedalās vismaz divi publiskās varas pārstāvji, nodrošina tas publiskās varas pārstāvis, kurš ir tikšanās vai sanāksmes organizētājs.
+(3) Ja šā panta otrajā daļā minēto ziņu publicēšana sistēmā apdraud valsts drošību vai rada citādu nesamērīgu kaitējumu sabiedrības interesēm, publiskās varas pārstāvis tās nepublicē, bet nodrošina šo ziņu iekļaušanu atsevišķā dokumentā.
+(4) Sistēmā nepublicē ziņas par sanāksmēm, kurās tiek veikta interešu pārstāvība, ja tās ir izveidotas uz normatīva akta vai cita tiesību akta pamata un to norise tiek fiksēta protokolā vai videoierakstā.
+(5) Sistēmā publicētās ziņas ir publiski pieejamas bez maksas.
+(6) Interešu pārstāvis ir tiesīgs iesniegt publiskās varas pārstāvim sūdzību par publiskās varas pārstāvja pēdējo 12 mēnešu laikā publicētajām ziņām sistēmā, ciktāl tās attiecas uz konkrēto interešu pārstāvi un ir kļūdainas vai nepilnīgas. Publiskās varas pārstāvim ir pienākums izskatīt šādu sūdzību Administratīvā procesa likumā noteiktajā kārtībā.
+(7) Ministru kabinets nosaka:
+1) citas sistēmā publicējamās ziņas, kā arī šo ziņu publicēšanas apjomu;
+2) kārtību, kādā publiskās varas pārstāvim tiek nodrošināta piekļuve sistēmai.
