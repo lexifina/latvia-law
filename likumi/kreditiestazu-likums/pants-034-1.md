@@ -3,4 +3,4 @@
 2) kredītiestādes darbībai piemītošo un varbūtējo risku identificēšanas, pārvaldīšanas, uzraudzības un ziņošanas sistēmu;
 3) iekšējās kontroles procedūras;
 4) atalgojuma sistēmu, tai skaitā dzimumneitrālu atalgojuma politiku.
-(2) Finanšu un kapitāla tirgus komisija nosaka prasības kredītiestādes iekšējās kontroles sistēmas izveidei.
+(2) Latvijas Banka nosaka prasības kredītiestādes iekšējās kontroles sistēmas izveidei.

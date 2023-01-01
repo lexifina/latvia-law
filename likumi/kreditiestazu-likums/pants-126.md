@@ -3,4 +3,4 @@
 2) saskaņā ar tiesas nolēmumu;
 3) maksātnespējas gadījumā.
 (2) Aizliegts likvidēt kredītiestādi, lai veiktu tās reorganizāciju.
-(3) Aizliegta kredītiestādes reorganizācija, pārreģistrējot to par citu, ar kredītiestāžu darbību nesaistītu komercsabiedrību bez Finanšu un kapitāla tirgus komisijas rakstveida atļaujas, kuru Finanšu un kapitāla tirgus komisija izsniedz, ja kredītiestāde ir izpildījusi visas kredītiestādes grāmatvedības reģistros fiksētās saistības pret noguldītājiem.
+(3) Aizliegta kredītiestādes reorganizācija, pārreģistrējot to par citu, ar kredītiestāžu darbību nesaistītu komercsabiedrību bez Latvijas Bankas rakstveida atļaujas, kuru Latvijas Banka izsniedz, ja kredītiestāde ir izpildījusi visas kredītiestādes grāmatvedības reģistros fiksētās saistības pret noguldītājiem.

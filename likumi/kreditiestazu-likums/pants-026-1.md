@@ -7,5 +7,5 @@
 2) iestādēs, kuras ietilpst vienā un tajā pašā ES regulas Nr. 575/2013 113.panta 7.punkta nosacījumiem atbilstošā institucionālās aizsardzības shēmā;
 3) sabiedrībās (tai skaitā tādās, kas nav finanšu iestādes), kurās kredītiestādei ir būtiska līdzdalība.
 (4) Šā panta izpratnē par padomes vai valdes locekļa amata vietu netiek uzskatītas padomes vai valdes locekļa amata vietas biedrībās, nodibinājumos un citās organizācijās, kuru darbībai nav peļņas gūšanas rakstura.
-(5) Finanšu un kapitāla tirgus komisija var dot atļauju kredītiestādes padomes vai valdes loceklim ieņemt vienu papildu padomes locekļa amata vietu.
-(6) Finanšu un kapitāla tirgus komisija regulāri sniedz Eiropas Banku iestādei informāciju par saskaņā ar šā panta piekto daļu dotajām atļaujām.
+(5) Latvijas Banka var dot atļauju kredītiestādes padomes vai valdes loceklim ieņemt vienu papildu padomes locekļa amata vietu.
+(6) Latvijas Banka regulāri sniedz Eiropas Banku iestādei informāciju par saskaņā ar šā panta piekto daļu dotajām atļaujām.

@@ -20,7 +20,7 @@ b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievēroš
 (10) Pirms ziņu sniegšanas šā panta astotajā daļā noteiktajos gadījumos kredītiestāde pārliecinās par attiecīgo ziņu aizsardzību pret izpaušanu.
 (11) Gadījumos, kad kredītiestādes klients publiski izplatījis ziņas par savu sadarbību ar kredītiestādi, kas neatbilst kredītiestādes rīcībā esošajai informācijai, vai žurnālistiskās darbības ietvaros informāciju par kredītiestādes sadarbību ar klientu publiski izplatījis Latvijā vai citā valstī reģistrētā masu informācijas līdzeklī, kredītiestāde ir tiesīga publiski atklāt tās rīcībā esošās neizpaužamās ziņas par attiecīgo personu, sniedzot skaidrojošu atbildi saistībā ar izplatītajām ziņām vai informāciju (turpmāk - skaidrojoša atbilde) tās izvēlētā formā, ja ir ievēroti visi šādi nosacījumi:
 1) attiecīgās ziņas vai informācija bez kredītiestādes skaidrojošas atbildes sniegšanas var apdraudēt stabilu kredītiestādes darbību vai kaitēt kredītiestādes reputācijai;
-2) pirms kredītiestāde sniedz skaidrojošo atbildi, tā informē Finanšu un kapitāla tirgus komisiju par skaidrojošās atbildes saturu;
+2) pirms kredītiestāde sniedz skaidrojošo atbildi, tā informē Latvijas Banku par skaidrojošās atbildes saturu;
 3) lēmumu sniegt skaidrojošo atbildi pieņem kredītiestādes valde vai tās pilnvarots valdes loceklis;
 4) skaidrojošajā atbildē personas datus vai informāciju par darījumiem neatklāj vairāk, kā tie jau ir publiski izplatīti;
 5) skaidrojošā atbilde tiek sniegta tiktāl, ciktāl tā attiecas uz jautājumiem, saistībā ar kuriem publiski izplatītas attiecīgās ziņas vai informācija attiecīgajā masu informācijas līdzeklī, un tādā apjomā, kāds nepieciešams, lai sabiedrībai nodrošinātu objektīvu informāciju par konkrēto situāciju;

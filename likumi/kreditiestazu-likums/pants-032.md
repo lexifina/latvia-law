@@ -1,2 +1,2 @@
-32.pants. (1) Kredītiestāde nekavējoties, tiklīdz par to uzzinājusi, rakstveidā paziņo Finanšu un kapitāla tirgus komisijai par ikvienas personas būtiskas līdzdalības iegūšanu, palielināšanu vai samazināšanu. Paziņojumā norāda attiecīgās personas līdzdalības apmēru procentos no kredītiestādes pamatkapitāla vai balsstiesīgo akciju skaita vai informāciju par būtiskās līdzdalības izbeigšanu.
-(2) (Izslēgta ar 26.02.2009. likumu.)
+32.pants. (1) Kredītiestāde nekavējoties, tiklīdz par to uzzinājusi, rakstveidā paziņo Latvijas Bankai par ikvienas personas būtiskas līdzdalības iegūšanu, palielināšanu vai samazināšanu. Paziņojumā norāda attiecīgās personas līdzdalības apmēru procentos no kredītiestādes pamatkapitāla vai balsstiesīgo akciju skaita vai informāciju par būtiskās līdzdalības izbeigšanu.
+(2) (Izslēgta ar 26.02.2009. likumu)

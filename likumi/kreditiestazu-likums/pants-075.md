@@ -1,1 +1,1 @@
-75.pants. Kredītiestāde kārto grāmatvedību saskaņā ar likumu "Par grāmatvedību" un Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem, kuriem jāatbilst Latvijas Republikas likumiem un starptautiskajiem grāmatvedības standartiem.
+75.pants. Kredītiestāde kārto grāmatvedību saskaņā ar likumu "Par grāmatvedību" un Latvijas Bankas noteikumiem, kuriem jāatbilst Latvijas Republikas likumiem un starptautiskajiem grāmatvedības standartiem.

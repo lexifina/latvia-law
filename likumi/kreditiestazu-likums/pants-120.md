@@ -1,2 +1,2 @@
-120.pants. (1) Pilnvarniekam ir pienākums Finanšu un kapitāla tirgus komisijas noteiktajos termiņos sniegt tai pārskatu par savu darbību un nekavējoties ziņot Finanšu un kapitāla tirgus komisijai par atklātajiem faktiem, kas var ietekmēt kredītiestādes finansiālo stāvokli.
+120.pants. (1) Pilnvarniekam ir pienākums Latvijas Bankas noteiktajos termiņos sniegt tai pārskatu par savu darbību un nekavējoties ziņot Latvijas Bankai par atklātajiem faktiem, kas var ietekmēt kredītiestādes finansiālo stāvokli.
 (2) Pilnvarnieks, izpildot savus uzdevumus, rūpējas par valsts tautsaimniecības interesēm, Latvijas kredītiestāžu sektora drošību un stabilitāti un noguldītāju interešu aizsardzību, kā arī par kredītiestādes rūpīgu un piesardzīgu vadību.

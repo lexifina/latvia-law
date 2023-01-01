@@ -1,1 +1,1 @@
-123.pants. Par šā likuma VIII nodaļā minēto darbību veikšanu Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana neaptur tā izpildi.
+123.pants. Par šā likuma VIII nodaļā minēto darbību veikšanu Latvijas Bankas izdotā administratīvā akta apstrīdēšana un pārsūdzēšana neaptur tā izpildi.

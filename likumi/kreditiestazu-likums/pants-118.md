@@ -1,2 +1,2 @@
-118.pants. (1) Finanšu un kapitāla tirgus komisija izmaksā pilnvarniekam atalgojumu un sedz viņa uzdevumu veikšanai nepieciešamos izdevumus lēmumā par pilnvarnieka iecelšanu noteiktajā apmērā. Šajā daļā noteiktās izmaksas kredītiestāde kompensē Finanšu un kapitāla tirgus komisijai tās noteiktajā termiņā.
+118.pants. (1) Latvijas Banka izmaksā pilnvarniekam atalgojumu un sedz viņa uzdevumu veikšanai nepieciešamos izdevumus lēmumā par pilnvarnieka iecelšanu noteiktajā apmērā. Šajā daļā noteiktās izmaksas kredītiestāde kompensē Latvijas Bankai tās noteiktajā termiņā.
 (2) Pilnvarniekam par viņa uzdevumu veikšanu nav tiesību saņemt jebkāda veida atlīdzību vai ienākumus papildus lēmumā par pilnvarnieka iecelšanu noteiktajam.
