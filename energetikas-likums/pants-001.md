@@ -1,5 +1,5 @@
 1.pants
-Likumā ir lietoti šādi termini:
+(1) Likumā ir lietoti šādi termini:
 1) atjaunojamie energoresursi - vēja, saules, ģeotermālā, viļņu, paisuma un bēguma, ūdens enerģija, kā arī aerotermālā enerģija (siltumenerģija, kura uzkrājas gaisā), ģeotermālā enerģija (siltumenerģija, kura atrodas zem cietzemes virsmas) un hidrotermālā enerģija (siltumenerģija, kura atrodas virszemes ūdeņos), atkritumu poligonu un notekūdeņu attīrīšanas iekārtu gāzes, biogāze un biomasa;
 2) autonomais ražotājs - komersants, energoapgādes komersants vai fiziskā persona, kas ražo elektroenerģiju, siltumenerģiju vai dzesēšanai nepieciešamo enerģiju nolūkā patērēt to paša vajadzībām vai lokālās siltumapgādes vai aukstumapgādes vajadzībām;
 3) balansēšana - sistēmas operatora organizēts process, kas nodrošina ikbrīža līdzsvaru starp sistēmā ievadīto enerģiju un no sistēmas izvadīto enerģiju;
@@ -67,3 +67,4 @@ Likumā ir lietoti šādi termini:
 52) vietējie energoresursi - Latvijā apzinātie atjaunojamie energoresursi un kurināmā krājumi, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 53) vispārējās atļaujas noteikumi - specifiskas enerģijas ražošanas un tirdzniecības prasības enerģijas ražotājam vai enerģijas tirgotājam;
 54) vienotā dabasgāzes pārvades ieejas-izejas sistēma - vairākas tieši savienotas Eiropas Savienības dalībvalstu dabasgāzes pārvades sistēmas, kuru starpsavienojuma punktos netiek veikta jaudas rezervēšana.
+(2) Šajā likumā termini "aktīvais lietotājs" un "pieprasījuma reakcijas pakalpojums" lietoti Elektroenerģijas tirgus likuma izpratnē.
