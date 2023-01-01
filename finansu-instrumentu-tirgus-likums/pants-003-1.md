@@ -1,7 +1,7 @@
 3.¹ pants. Izcelsmes dalībvalsts noteikšana
 (1) Attiecībā uz ieguldījumu brokeru sabiedrībām izcelsmes dalībvalsts ir dalībvalsts, kurā ieguldījumu brokeru sabiedrība reģistrēta un saņēmusi licenci ieguldījumu pakalpojumu sniegšanai.
 (2) (Izslēgta ar 12.12.2019. likumu)
-(2¹) Paziņojumiem par izcelsmes dalībvalsti izmantojamās veidlapas paraugu apstiprina Finanšu un kapitāla tirgus komisija.
+(2¹) Paziņojumiem par izcelsmes dalībvalsti izmantojamās veidlapas paraugu apstiprina Latvijas Banka.
 (3) (Izslēgta ar 12.12.2019. likumu)
 (4) Attiecībā uz akciju emitentiem un tādu parāda vērtspapīru emitentiem, kuru parāda vērtspapīru vienas vienības nominālvērtība ir mazāka par 1000 euro un kuru pienākums ir sniegt regulēto informāciju, izcelsmes dalībvalsts ir:
 1) dalībvalsts, kurā ir emitenta juridiskā adrese, ja tas ir reģistrēts dalībvalstī;
@@ -11,8 +11,8 @@
 (6) Ja uz emitentu neattiecas šā panta ceturtā daļa, emitenta izcelsmes dalībvalsts pēc tā izvēles ir dalībvalsts, kurā ir emitenta juridiskā adrese, vai viena no tām dalībvalstīm, kuru regulētajos tirgos ir iekļauti emitenta pārvedami vērtspapīri.
 (7) Šā panta sestajā daļā minētais emitents var izvēlēties tikai vienu izcelsmes dalībvalsti un nedrīkst to mainīt trīs gadus, ja vien šā emitenta pārvedami vērtspapīri nav izslēgti no regulētā tirgus šajā dalībvalstī vai šo triju gadu laikā uz emitentu nevar attiecināt dalībvalsts noteikšanu saskaņā ar šā panta ceturto daļu.
 (7¹) Informāciju par savu izcelsmes dalībvalsts izvēli emitents nekavējoties, ievērojot šā likuma 64.² pantā regulētās informācijas izplatīšanai un pieejamībai noteikto kārtību, paziņo:
-1) Finanšu un kapitāla tirgus komisijai, ja tā ir emitenta izcelsmes dalībvalsts kompetentā institūcija un emitenta juridiskā adrese ir Latvijā, un uzņēmēju dalībvalstu kompetentajām institūcijām;
-2) Finanšu un kapitāla tirgus komisijai, ja emitenta juridiskā adrese ir Latvijā, izcelsmes dalībvalsts kompetentajai institūcijai un uzņēmēju dalībvalstu kompetentajām institūcijām.
+1) Latvijas Bankai, ja tā ir emitenta izcelsmes dalībvalsts kompetentā institūcija un emitenta juridiskā adrese ir Latvijā, un uzņēmēju dalībvalstu kompetentajām institūcijām;
+2) Latvijas Bankai, ja emitenta juridiskā adrese ir Latvijā, izcelsmes dalībvalsts kompetentajai institūcijai un uzņēmēju dalībvalstu kompetentajām institūcijām.
 (7²) Ja emitents, kurš izcelsmes dalībvalsti nosaka atbilstoši šā panta ceturtās daļas 2.punktam vai šā panta sestajai daļai, triju mēnešu laikā, kopš pirmo reizi tā pārvedami vērtspapīri ir iekļauti regulētajā tirgū, par izcelsmes dalībvalsts izvēli attiecīgajām kompetentajām institūcijām nepaziņo, par šāda emitenta izcelsmes dalībvalsti uzskata dalībvalsti, kurā emitenta pārvedami vērtspapīri ir iekļauti regulētajā tirgū. Ja emitenta pārvedami vērtspapīri ir iekļauti regulētajā tirgū vairākās dalībvalstīs, tad par izcelsmes dalībvalsti ir uzskatāmas visas minētās dalībvalstis līdz dienai, kad emitents no tām izvēlas vienu izcelsmes dalībvalsti un par to nekavējoties informē kompetentās institūcijas.
 (7³) Emitents, kura pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kuram izcelsmes dalībvalsti nosaka atbilstoši šā panta ceturtās daļas 2.punktam vai šā panta sestajai daļai un kurš par izcelsmes dalībvalsts izvēli informējis kompetentās institūcijas līdz 2015.gada 27.novembrim, neinformē kompetentās institūcijas saskaņā ar šā panta 7.¹ daļu, ja vien pēc 2015.gada 27.novembra neizvēlas citu izcelsmes dalībvalsti.
 (8) Attiecībā uz regulēto tirgu izcelsmes dalībvalsts ir dalībvalsts, kurā regulētais tirgus ir reģistrēts, vai, ja saskaņā ar attiecīgās dalībvalsts tiesību aktiem tam nav juridiskās adreses, - dalībvalsts, kurā atrodas regulētā tirgus galvenais birojs.

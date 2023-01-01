@@ -1,5 +1,5 @@
-138. pants. Komisijas tiesības uzraudzības īstenošanā
-(1) Komisija papildus Finanšu un kapitāla tirgus komisijas likumā, Ieguldījumu brokeru sabiedrību likumā, šajā likumā un tieši piemērojamos Eiropas Savienības tiesību aktos noteiktajām tiesībām attiecībā uz ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu, regulētā tirgus organizētāja darbību un šā likuma XII⁴ nodaļā noteiktajām prasībām ir tiesīga piemērot šādus uzraudzības pasākumus:
+138. pants. Latvijas Bankas tiesības uzraudzības īstenošanā
+(1) Latvijas Banka papildus Latvijas Bankas likumā, Ieguldījumu brokeru sabiedrību likumā, šajā likumā un tieši piemērojamos Eiropas Savienības tiesību aktos noteiktajām tiesībām attiecībā uz ieguldījumu pakalpojumu un ieguldījumu blakuspakalpojumu sniegšanu, regulētā tirgus organizētāja darbību un šā likuma XII⁴ nodaļā noteiktajām prasībām ir tiesīga piemērot šādus uzraudzības pasākumus:
 1) (izslēgts ar 31.03.2022. likumu);
 2) (izslēgts ar 31.03.2022. likumu);
 3) (izslēgts ar 31.03.2022. likumu);
@@ -22,17 +22,17 @@
 20) apturēt finanšu instrumentu vai strukturēto noguldījumu reklamēšanu, izplatīšanu vai pārdošanu, ja ieguldījumu brokeru sabiedrība vai kredītiestāde nav izstrādājusi vai īstenojusi efektīvu produktu apstiprināšanas procesu, nav nodrošinājusi visus nepieciešamos un samērīgos administratīvos un organizatoriskos pasākumus, lai novērstu šā likuma 127. pantā minēto interešu konfliktu negatīvo ietekmi uz klientu interesēm, vai kā citādi nav ievērojusi šā likuma 127. panta vienpadsmitās daļas prasības;
 21) pieprasīt, lai tiek atcelts no amata ieguldījumu brokeru sabiedrības, kredītiestādes vai regulētā tirgus organizētāja valdes vai padomes loceklis;
 22) dot finanšu instrumentu tirgus dalībnieku pārvaldes institūcijām, to vadītājiem un locekļiem saistošus rakstveida norādījumus, kas nepieciešami, lai novērstu situācijas, kurās tiek pārkāptas šā likuma vai tieši piemērojamo Eiropas Savienības tiesību aktu normas.
-(2) Komisija var piemērot šā panta pirmās daļas 15. un 16. punktā noteiktos uzraudzības pasākumus arī tad, ja tie nepieciešami citas dalībvalsts uzraudzības institūcijas uzraudzības mērķa sasniegšanai.
-(3) Komisija ir tiesīga atbilstoši Regulas Nr. 1286/2014 24. pantā noteiktajam par šīs regulas pārkāpumiem piemērot šādus uzraudzības pasākumus:
+(2) Latvijas Banka var piemērot šā panta pirmās daļas 15. un 16. punktā noteiktos uzraudzības pasākumus arī tad, ja tie nepieciešami citas dalībvalsts uzraudzības institūcijas uzraudzības mērķa sasniegšanai.
+(3) Latvijas Banka ir tiesīga atbilstoši Regulas Nr. 1286/2014 24. pantā noteiktajam par šīs regulas pārkāpumiem piemērot šādus uzraudzības pasākumus:
 1) aizliegt komplektētu privāto ieguldījumu produktu izplatīšanu;
 2) uzlikt par pienākumu uz laiku apturēt komplektētu privāto ieguldījumu produktu izplatīšanu;
 3) aizliegt sniegt pamatinformācijas dokumentu, kas neatbilst Regulas Nr. 1286/2014 6., 7., 8. vai 10. pantā noteiktajam, un pieņemt lēmumu, ar kuru uzdod publicēt jaunu šai regulai atbilstošu pamatinformācijas dokumentu;
 4) uzlikt par pienākumu personai, kas ir komplektēta privāto ieguldījumu produkta izveidotājs vai sniedz konsultācijas par šo produktu, vai to pārdod, informēt savu privāto klientu, kura tiesības un intereses ir aizskartas, par piemēroto sankciju vai uzraudzības pasākumu un to, kur klients var iesniegt sūdzību vai vērsties, lai uzsāktu ārpustiesas strīdu risināšanu, kā arī par viņa tiesībām ar prasību vērsties tiesā.
-(4) Īstenojot uzraudzību, Komisija ir tiesīga:
-1) pieprasīt no jebkuras personas informāciju par tās darbību finanšu un kapitāla tirgū, kā arī uzaicināt jebkuru personu ierasties Komisijā un sniegt informāciju klātienē;
-2) iepazīties ar Komisijas uzdevumu un funkciju veikšanai nepieciešamajiem dokumentiem vai citiem datiem jebkādā formā un saņemt to kopijas;
+(4) Īstenojot uzraudzību, Latvijas Banka ir tiesīga:
+1) pieprasīt no jebkuras personas informāciju par tās darbību finanšu tirgū, kā arī uzaicināt jebkuru personu ierasties Latvijas Bankā un sniegt informāciju klātienē;
+2) iepazīties ar Latvijas Bankas uzdevumu un funkciju veikšanai nepieciešamajiem dokumentiem vai citiem datiem jebkādā formā un saņemt to kopijas;
 3) veikt šā likuma 139. panta pirmajā daļā minētās pārbaudes;
-4) pieprasīt un saņemt no finanšu un kapitāla tirgus dalībniekiem telefonsarunu izdrukas, elektroniskās saziņas ierakstus un citu veidu datu pārraides ierakstus;
+4) pieprasīt un saņemt no finanšu tirgus dalībniekiem telefonsarunu izdrukas, elektroniskās saziņas ierakstus un citu veidu datu pārraides ierakstus;
 5) pieprasīt, lai ieguldījumu brokeru sabiedrību, regulēto tirgu un datu ziņošanas pakalpojumu sniedzēju revidenti sniedz informāciju;
 6) vērsties tiesībaizsardzības iestādēs ar pieteikumu par kriminālprocesa uzsākšanu;
 7) pilnvarot revidentus vai speciālistus veikt pārbaudes;
