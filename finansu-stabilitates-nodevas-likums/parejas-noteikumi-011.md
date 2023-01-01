@@ -1,0 +1,1 @@
+11. Nodevas maksātājs šā likuma 5. panta septītajā daļā minēto nodevas taksācijas perioda deklarāciju par 2022. gadu iesniedz Valsts ieņēmumu dienestam saskaņā ar Ministru kabineta 2011. gada 24. maija noteikumu Nr. 396 "Noteikumi par finanšu stabilitātes nodevas taksācijas perioda deklarāciju un tās aizpildīšanas kārtību" pielikumu.
