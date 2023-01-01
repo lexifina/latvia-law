@@ -1,5 +1,5 @@
 24. Komisija līdz 2021.gada 1.janvārim reizi gadā sniedz EAAPI šādu informāciju:
-1) apdrošināšanas produktu, kas ietver ilgtermiņa garantijas, pieejamība finanšu un kapitāla tirgū un apdrošināšanas vai pārapdrošināšanas sabiedrību kā ilgtermiņa ieguldītāju rīcība;
+1) apdrošināšanas produktu, kas ietver ilgtermiņa garantijas, pieejamība finanšu tirgū un apdrošināšanas vai pārapdrošināšanas sabiedrību kā ilgtermiņa ieguldītāju rīcība;
 2) to apdrošināšanas vai pārapdrošināšanas sabiedrību skaits, kuras izmanto atbilstības korekciju, svārstīguma korekciju, šā likuma 141.panta piektajā daļā noteikto termiņa pagarinājumu un šo pārejas noteikumu 10. vai 14.punktā minēto pārejas korekciju vai pārejas perioda atskaitījumu;
 3) atbilstības korekcijas, svārstīguma korekcijas, kapitāla vērtspapīru riska apakšmoduļa simetriskās korekcijas un šo pārejas noteikumu 10. vai 14.punktā minēto pārejas pasākumu ietekme uz apdrošināšanas vai pārapdrošināšanas sabiedrības finansiālo stāvokli - valsts līmenī anonīmā veidā par katru sabiedrību;
 4) atbilstības korekcijas, svārstīguma korekcijas un kapitāla vērtspapīru riska apakšmoduļa simetriskās korekcijas iedarbība uz apdrošināšanas un pārapdrošināšanas sabiedrību īstenoto ieguldīšanas pieeju un informācija par to, vai minētie pasākumi izraisa kapitāla prasību nevēlamu samazināšanu;

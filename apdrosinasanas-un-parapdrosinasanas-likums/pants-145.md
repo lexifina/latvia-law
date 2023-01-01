@@ -6,4 +6,4 @@
 4) no apdrošināšanas vai pārapdrošināšanas izrietošo saistību izpildes, maksātspējas kapitāla prasības izpildes un minimālā kapitāla prasības izpildes nodrošināšanai nepieciešamos plānotos finanšu avotus;
 5) cedētās pārapdrošināšanas un retrocesijas programmu;
 6) veicamos pasākumus un to izpildes termiņus.
-(3) Ja Komisija ir pieprasījusi, lai apdrošināšanas vai pārapdrošināšanas sabiedrība izstrādā šā likuma 141.panta otrajā daļā un 142.panta otrajā daļā noteikto plānu, tā nepieņem lēmumu par šā likuma 47.panta trešajā daļā noteiktās atļaujas izsniegšanu, kamēr uzskata, ka ir apdraudētas apdrošināto tiesības vai pārapdrošināšanas sabiedrības līgumsaistību izpilde.
+(3) Ja Latvijas Banka ir pieprasījusi, lai apdrošināšanas vai pārapdrošināšanas sabiedrība izstrādā šā likuma 141.panta otrajā daļā un 142.panta otrajā daļā noteikto plānu, tā nepieņem lēmumu par šā likuma 47.panta trešajā daļā noteiktās atļaujas izsniegšanu, kamēr uzskata, ka ir apdraudētas apdrošināto tiesības vai pārapdrošināšanas sabiedrības līgumsaistību izpilde.

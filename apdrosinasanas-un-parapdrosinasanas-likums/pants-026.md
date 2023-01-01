@@ -1,4 +1,4 @@
-26.pants. (1) Lai saņemtu pārapdrošināšanas licenci, pārapdrošināšanas sabiedrība Komisijai iesniedz:
+26.pants. (1) Lai saņemtu pārapdrošināšanas licenci, pārapdrošināšanas sabiedrība Latvijas Bankai iesniedz:
 1) iesniegumu par pārapdrošināšanas licences saņemšanu;
 2) šā likuma 27.pantā noteikto darbības plānu;
 3) kredītiestādes izsniegtu dokumentu, kas apliecina naudas iemaksu minimālās kapitāla prasības absolūti minimālās vērtības apmērā;
@@ -20,7 +20,7 @@ n) neparastu un aizdomīgu finanšu darījumu identifikācijas politiku un proce
 o) retrocesijas politiku un procedūru,
 p) ieguldījumu veidošanas politiku un procedūru;
 5) dokumentu, kurā apraksta un skaidro, kā pārapdrošināšanas sabiedrības ieguldījumu stratēģijā saskaņā ar šā likuma 138.¹ pantu tiek iekļauta akcionāra tiesību izmantošana akciju sabiedrības pārvaldē, ja ieguldījumu veidošanas politika paredz, ka pārapdrošināšanas sabiedrība, kura vēlas veikt dzīvības pārapdrošināšanu, iegulda savus aktīvus tādas akciju sabiedrības akcijās, kuras juridiskā adrese ir dalībvalstī un kuras akcijas iekļautas dalībvalsts regulētajā tirgū.
-(2) Lai saņemtu pārapdrošināšanas licenci citam pārapdrošināšanas veidam, pārapdrošināšanas sabiedrība Komisijai iesniedz:
+(2) Lai saņemtu pārapdrošināšanas licenci citam pārapdrošināšanas veidam, pārapdrošināšanas sabiedrība Latvijas Bankai iesniedz:
 1) iesniegumu par pārapdrošināšanas licences saņemšanu citam pārapdrošināšanas veidam;
 2) jaunā pārapdrošināšanas veida ieviešanai nepieciešamo papildu izdevumu aprēķinu un informāciju par to segšanai nepieciešamo līdzekļu avotiem;
 3) šā likuma 27.pantā noteikto darbības plānu.

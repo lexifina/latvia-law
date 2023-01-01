@@ -1,1 +1,1 @@
-178.pants. Komisija informē Eiropas Komisiju un EAAPI par būtiskām problēmām, ar kurām saskaras apdrošināšanas vai pārapdrošināšanas sabiedrības, uzsākot vai veicot apdrošināšanu vai pārapdrošināšanu ārvalstīs.
+178.pants. Latvijas Banka informē Eiropas Komisiju un EAAPI par būtiskām problēmām, ar kurām saskaras apdrošināšanas vai pārapdrošināšanas sabiedrības, uzsākot vai veicot apdrošināšanu vai pārapdrošināšanu ārvalstīs.

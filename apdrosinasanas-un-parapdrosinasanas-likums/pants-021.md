@@ -6,12 +6,12 @@
 5) pierāda, ka spēs nodrošināt šā likuma 116.pantā noteiktās maksātspējas kapitāla prasības izpildi;
 6) pierāda, ka apdrošināšanas sabiedrības pārvaldības sistēma atbilst šā likuma VII un VIII nodaļas prasībām;
 7) ir iesniegusi šā likuma 22.panta pirmajā daļā norādīto iesniegumu un tam pievienojamos dokumentus;
-8) Komisija nav konstatējusi šā likuma 31.panta pirmajā daļā minēto apstākļu iestāšanos.
+8) Latvijas Banka nav konstatējusi šā likuma 31.panta pirmajā daļā minēto apstākļu iestāšanos.
 (2) Apdrošināšanas licenci citam apdrošināšanas veidam izsniedz, ja apdrošināšanas sabiedrība atbilst šādām prasībām:
 1) pierāda, ka izpilda šā likuma 117.pantā noteikto minimālo kapitāla prasību;
 2) pierāda, ka izpilda šā likuma 116.pantā noteikto maksātspējas kapitāla prasību;
 3) ir iesniegusi šā likuma 22.panta otrajā daļā norādīto iesniegumu un tam pievienojamos dokumentus;
-4) Komisija nav konstatējusi šā likuma 31.panta pirmajā daļā minēto apstākļu iestāšanos.
+4) Latvijas Banka nav konstatējusi šā likuma 31.panta pirmajā daļā minēto apstākļu iestāšanos.
 (3) Ja apdrošināšanas sabiedrība, kas veic dzīvības apdrošināšanu, vēlas saņemt licenci šā likuma 19.panta pirmās daļas 1. vai 2.punktā noteiktajā nedzīvības apdrošināšanas veidā, apdrošināšanas licenci izsniedz, ja šī sabiedrība:
 1) nodrošina izmantojamo pamata pašu kapitālu dzīvības apdrošināšanas sabiedrībām noteiktās minimālās kapitāla prasības absolūti minimālās vērtības un nedzīvības apdrošināšanas sabiedrībām noteiktās minimālās kapitāla prasības absolūti minimālās vērtības summu, kā noteikts šā likuma 130.panta trešajā daļā;
 2) pierāda, ka turpmāk spēs uzturēt izmantojamo pamata pašu kapitālu tādā apmērā, lai izpildītu minimālās kapitāla prasības, kā noteikts šā likuma 18.panta pirmajā un otrajā daļā.

@@ -1,2 +1,2 @@
 48.pants. (1) Apdrošināšanas līgumus citam apdrošināšanas komersantam nodod kopā ar tiem atbilstošajiem tehnisko rezervju segumam izmantotajiem aktīviem.
-(2) Ja apdrošināšanas līgumi tiek nodoti bez tiem atbilstošajiem tehnisko rezervju segumam izmantotajiem aktīviem, apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle, kas pārņem šos līgumus, iesniedz Komisijai tehnisko rezervju seguma atjaunošanas plānu.
+(2) Ja apdrošināšanas līgumi tiek nodoti bez tiem atbilstošajiem tehnisko rezervju segumam izmantotajiem aktīviem, apdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle, kas pārņem šos līgumus, iesniedz Latvijas Bankai tehnisko rezervju seguma atjaunošanas plānu.

@@ -1,2 +1,2 @@
 XX nodaļa
-Komisijas kā uzņēmējas dalībvalsts uzraudzības iestādes kompetence
+Latvijas Bankas kā uzņēmējas dalībvalsts uzraudzības iestādes kompetence

@@ -1,4 +1,4 @@
 28.pants. (1) Latvijas Republikā var dibināt sabiedrību īpašam nolūkam.
 (2) Par īpašam nolūkam dibinātu sabiedrību uzskatāma komercsabiedrība, kura nav apdrošināšanas vai pārapdrošināšanas komersants, bet kura uzņemas apdrošināšanas vai pārapdrošināšanas komersanta riskus un savu pakļautību šādiem riskiem pilnībā finansē ar aizņēmumiem vai ar kādu citu finansēšanas mehānismu, ja šāda aizņēmuma ņemšana vai cits finansēšanas mehānisms ir pakļauts attiecīgās komercsabiedrības pārapdrošināšanas saistībām.
-(3) Īpašam nolūkam dibināta sabiedrība var uzsākt savu darbību Latvijas Republikā tikai pēc Komisijas izsniegtas licences saņemšanas.
+(3) Īpašam nolūkam dibināta sabiedrība var uzsākt savu darbību Latvijas Republikā tikai pēc Latvijas Bankas izsniegtas licences saņemšanas.
 (4) Prasības šā panta trešajā daļā noteiktās licences saņemšanai, kā arī īpašam nolūkam dibinātas sabiedrības darbību regulējošās prasības nosaka ES Regula Nr. 2015/35.

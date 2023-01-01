@@ -1,4 +1,4 @@
-19.pants. (1) Komisija izsniedz apdrošināšanas licences šādiem nedzīvības apdrošināšanas veidiem:
+19.pants. (1) Latvijas Banka izsniedz apdrošināšanas licences šādiem nedzīvības apdrošināšanas veidiem:
 1) nelaimes gadījumu apdrošināšanai;
 2) veselības apdrošināšanai (apdrošināšanai pret slimībām);
 3) sauszemes transporta (izņemot dzelzceļa transportu) apdrošināšanai;
@@ -17,7 +17,7 @@
 16) dažādu finansiālo zaudējumu apdrošināšanai;
 17) juridisko izdevumu apdrošināšanai;
 18) palīdzības apdrošināšanai.
-(2) Komisija izsniedz apdrošināšanas licences šādiem dzīvības apdrošināšanas veidiem:
+(2) Latvijas Banka izsniedz apdrošināšanas licences šādiem dzīvības apdrošināšanas veidiem:
 1) dzīvības apdrošināšanai;
 2) laulības un bērna piedzimšanas apdrošināšanai;
 3) tirgum piesaistītajai dzīvības apdrošināšanai;
@@ -33,4 +33,4 @@
 3) apdrošināšanu, kas paredz apdrošināšanas atlīdzības izmaksu līgumā noteiktajos gadījumos regulāru maksājumu veidā līdz apdrošinātā nāvei vai līgumā noteiktā termiņa beigām;
 4) apdrošināšanu, kas paredz apdrošināšanas sabiedrības vai ārvalsts apdrošinātāja filiāles saistību izpildi apdrošināšanas termiņa beigās par vienreizējiem vai periodiskiem apdrošināšanas prēmiju maksājumiem.
 (5) Pēc apdrošināšanas sabiedrības pieprasījuma, saņemot apdrošināšanas licenci, tajā norāda riskus, kurus apdrošināšanas sabiedrība ir tiesīga apdrošināt.
-(6) Komisija, izvērtējot apdrošināšanas sabiedrības akcionāru atbilstību šā likuma prasībām un šā likuma 23.pantā minētajā dokumentā ietverto informāciju, apdrošināšanas licencē apdrošināto interešu aizsardzības nolūkā ir tiesīga noteikt apdrošināšanas pakalpojumu sniegšanas nosacījumus.
+(6) Latvijas Banka, izvērtējot apdrošināšanas sabiedrības akcionāru atbilstību šā likuma prasībām un šā likuma 23.pantā minētajā dokumentā ietverto informāciju, apdrošināšanas licencē apdrošināto interešu aizsardzības nolūkā ir tiesīga noteikt apdrošināšanas pakalpojumu sniegšanas nosacījumus.

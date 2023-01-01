@@ -1,4 +1,4 @@
-93.pants. Ja Komisija konstatē, ka apdrošinātājs vai pārapdrošinātājs neievēro šā likuma, Eiropas Savienības tieši piemērojamo tiesību aktu vai citu apdrošinātāju vai pārapdrošinātāju darbību regulējošo normatīvo aktu prasības vai apdrošinātāja vai pārapdrošinātāja darbība apdraud minēto prasību izpildi, Komisija, pieņemot lēmumu, ir tiesīga:
+93.pants. Ja Latvijas Banka konstatē, ka apdrošinātājs vai pārapdrošinātājs neievēro šā likuma, Eiropas Savienības tieši piemērojamo tiesību aktu vai citu apdrošinātāju vai pārapdrošinātāju darbību regulējošo normatīvo aktu prasības vai apdrošinātāja vai pārapdrošinātāja darbība apdraud minēto prasību izpildi, Latvijas Banka, pieņemot lēmumu, ir tiesīga:
 1) (izslēgts ar 23.09.2021. likumu);
 2) piemērot šādas sankcijas:
 a) brīdināt apdrošinātāju vai pārapdrošinātāju,

@@ -1,4 +1,4 @@
-24.pants. (1) Komisija izsniedz pārapdrošināšanas licenci šādiem pārapdrošināšanas veidiem:
+24.pants. (1) Latvijas Banka izsniedz pārapdrošināšanas licenci šādiem pārapdrošināšanas veidiem:
 1) dzīvības apdrošināšanas risku pārapdrošināšanai;
 2) nedzīvības apdrošināšanas risku pārapdrošināšanai;
 3) dzīvības apdrošināšanas risku un nedzīvības apdrošināšanas risku pārapdrošināšanai.

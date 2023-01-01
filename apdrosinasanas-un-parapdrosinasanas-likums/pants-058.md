@@ -4,10 +4,10 @@
 3) tai ir nevainojama reputācija;
 4) tai nav atņemtas un nav bijušas atņemtas tiesības veikt komercdarbību.
 (2) Šā panta pirmajā daļā minētajai personai ir nevainojama reputācija, ja tā neatbilst šā likuma 59.panta pirmajai daļai un nav konstatēti tādi apstākļi, kas nav savienojami ar šā panta pirmajā daļā minēto amata pienākumu veikšanu.
-(3) Pirms šā panta pirmajā daļā minētās personas sāk pildīt amata pienākumus, apdrošināšanas vai pārapdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle par to informē Komisiju.
-(4) Apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja pienākums ir pašam vai pēc Komisijas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minēto personu, ja tiek konstatēts, ka:
+(3) Pirms šā panta pirmajā daļā minētās personas sāk pildīt amata pienākumus, apdrošināšanas vai pārapdrošināšanas sabiedrība vai ārvalsts apdrošinātāja filiāle par to informē Latvijas Banku.
+(4) Apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja pienākums ir pašam vai pēc Latvijas Bankas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minēto personu, ja tiek konstatēts, ka:
 1) tā neatbilst amatam;
 2) tās rīcība ir kaitējusi apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja filiāles finansiālajai stabilitātei vai radījusi situāciju, kas var apdraudēt apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja filiāles finansiālo stabilitāti vai apdrošinājuma ņēmēju intereses;
 3) tā neievēro apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja filiāles izstrādāto politiku un procedūras;
 4) tā neatbilst šā panta pirmās daļas prasībām vai uz to ir attiecināmi 59.panta nosacījumi.
-(5) Ja Komisijas pieņemtais lēmums par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību.
+(5) Ja Latvijas Bankas pieņemtais lēmums par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību.

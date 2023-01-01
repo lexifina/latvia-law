@@ -1,6 +1,6 @@
-171.pants. (1) Ārvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pašu kapitāls maksātspējas kapitāla prasības apmērā. Izmantojamā pašu kapitāla aprēķināšanas kārtību nosaka Komisija.
+171.pants. (1) Ārvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pašu kapitāls maksātspējas kapitāla prasības apmērā. Izmantojamā pašu kapitāla aprēķināšanas kārtību nosaka Latvijas Banka.
 (2) Ārvalsts apdrošinātāja filiāle aprēķina maksātspējas kapitāla prasību un minimālo kapitāla prasību saskaņā ar šā likuma XV nodaļā noteikto. Aprēķinot maksātspējas kapitāla prasību un minimālo kapitāla prasību, ņem vērā tikai ārvalsts apdrošinātāja filiāles veiktos darījumus.
-(3) Ārvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pamata pašu kapitāls minimālās kapitāla prasības apmērā. Izmantojamā pamata pašu kapitāla aprēķināšanas kārtību nosaka Komisija.
+(3) Ārvalsts apdrošinātāja filiāles rīcībā pastāvīgi ir izmantojamais pamata pašu kapitāls minimālās kapitāla prasības apmērā. Izmantojamā pamata pašu kapitāla aprēķināšanas kārtību nosaka Latvijas Banka.
 (4) Ārvalsts apdrošinātāja filiāles minimālās kapitāla prasības absolūti minimālā vērtība ir 50 procentu apmērā no šā likuma 130.panta trešajā daļā minētās minimālās prasības absolūti minimālās vērtības.
 (5) Drošības naudas apmēru, ko ārvalsts apdrošinātāja filiāle nogulda saskaņā ar šā likuma 164.panta otrās daļas 1.punkta "e" apakšpunktu, ņem vērā, aprēķinot ārvalsts apdrošinātāja filiāles izmantojamo pašu kapitālu, lai segtu minimālo kapitāla prasību.
 (6) Ārvalsts apdrošinātāja filiāle aktīvus maksātspējas kapitāla prasības apmērā iegulda dalībvalstīs, tai skaitā aktīvus minimālās kapitāla prasības apmērā - Latvijas Republikā.

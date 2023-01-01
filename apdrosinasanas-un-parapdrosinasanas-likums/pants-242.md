@@ -1,1 +1,1 @@
-242.pants. Ja atbilstoši šā likuma 241.pantā noteiktajam tiek atzīts, ka ārvalsts uzraudzības režīms ir līdzvērtīgs šajā likumā noteiktajam, Komisija, sadarbojoties ar ārvalsts uzraudzības iestādi, piemēro šā likuma XXXII nodaļas prasības.
+242.pants. Ja atbilstoši šā likuma 241.pantā noteiktajam tiek atzīts, ka ārvalsts uzraudzības režīms ir līdzvērtīgs šajā likumā noteiktajam, Latvijas Banka, sadarbojoties ar ārvalsts uzraudzības iestādi, piemēro šā likuma XXXII nodaļas prasības.

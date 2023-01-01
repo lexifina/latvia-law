@@ -1,2 +1,2 @@
-260.pants. (1) Komisija ir tiesīga iesniegt tiesā maksātnespējas pieteikumu, ja apdrošināšanas sabiedrība tās likvidācijas gadījumā nespēj pienācīgi izpildīt savas parādsaistības, kurām iestājies izpildes termiņš.
-(2) Kompetentas iestādes, pirms tiek pieņemti lēmumi vai veiktas darbības, kas saistītas ar maksātnespējas procesu, ja maksātnespējas procesā ir iesaistīta apdrošināšanas sabiedrība, par attiecīgajiem lēmumiem vai darbībām informē Komisiju.
+260.pants. (1) Latvijas Banka ir tiesīga iesniegt tiesā maksātnespējas pieteikumu, ja apdrošināšanas sabiedrība tās likvidācijas gadījumā nespēj pienācīgi izpildīt savas parādsaistības, kurām iestājies izpildes termiņš.
+(2) Kompetentas iestādes, pirms tiek pieņemti lēmumi vai veiktas darbības, kas saistītas ar maksātnespējas procesu, ja maksātnespējas procesā ir iesaistīta apdrošināšanas sabiedrība, par attiecīgajiem lēmumiem vai darbībām informē Latvijas Banku.

@@ -11,4 +11,4 @@
 6) operacionālo risku.
 (6) Šā panta piektās daļas 6.punktā minētais operacionālais risks ietver tiesisko nedrošību, bet neietver riskus, kuri izriet no apdrošināšanas vai pārapdrošināšanas sabiedrības pieņemtiem stratēģiskiem lēmumiem, kā arī tās reputācijas risku.
 (7) Aprēķinot maksātspējas kapitāla prasību, apdrošināšanas vai pārapdrošināšanas sabiedrība ņem vērā riska mazināšanas metožu ietekmi, ja kredītrisks un cita veida riski, kuri izriet no šādu metožu izmantošanas, ir attiecīgi iekļauti maksātspējas kapitāla prasības aprēķinā.
-(8) Maksātspējas kapitāla prasības aprēķināšanas kārtību saskaņā ar standarta formulu nosaka Komisija un ES Regula Nr. 2015/35.
+(8) Maksātspējas kapitāla prasības aprēķināšanas kārtību saskaņā ar standarta formulu nosaka Latvijas Banka un ES Regula Nr. 2015/35.

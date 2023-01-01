@@ -1,1 +1,1 @@
-43.pants. Komisija ir tiesīga pieprasīt apdrošināšanas vai pārapdrošināšanas sabiedrības piesaistītam neatkarīgam ekspertam - aktuāram, zvērinātam revidentam vai citam ekspertam - informāciju par attiecīgajai sabiedrībai sniegto eksperta viedokli vai tā veikto šīs sabiedrības pārbaudi.
+43.pants. Latvijas Banka ir tiesīga pieprasīt apdrošināšanas vai pārapdrošināšanas sabiedrības piesaistītam neatkarīgam ekspertam - aktuāram, zvērinātam revidentam vai citam ekspertam - informāciju par attiecīgajai sabiedrībai sniegto eksperta viedokli vai tā veikto šīs sabiedrības pārbaudi.

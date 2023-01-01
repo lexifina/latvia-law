@@ -2,6 +2,6 @@
 (2) Ja tiek saņemta grupas uzraudzības iestādes atļauja, tad apdrošināšanas vai pārapdrošināšanas dalības sabiedrība, apdrošināšanas pārvaldītājsabiedrība vai jaukta finanšu pārvaldītājsabiedrība var sagatavot vienotu ziņojumu par maksātspēju un finansiālo stāvokli, kurā iekļauj:
 1) informāciju grupas līmenī;
 2) atsevišķi identificējamu informāciju par ikvienu grupas meitas sabiedrību.
-(3) Pirms šā panta otrajā daļā minētās atļaujas izsniegšanas Komisija, ja tā ir grupas uzraudzības iestāde, apspriežas ar uzraugu kolēģijas locekļiem un izvērtē citu uzraugu kolēģijā ietilpstošo uzraudzības iestāžu viedokļus, to skaitā iebildumus.
-(4) Ja šā panta otrajā daļā minētajā ziņojumā nav iekļauta informācija par meitas sabiedrību, kuru pieprasa sniegt Komisija, kas ir licencējusi meitas sabiedrību, un ja neiekļautā informācija ir būtiska, Komisija pieprasa attiecīgajai meitas sabiedrībai atklāt nepieciešamo papildu informāciju.
-(5) Komisija nosaka prasības attiecībā uz šā panta pirmajā daļā minētās informācijas publiskošanu.
+(3) Pirms šā panta otrajā daļā minētās atļaujas izsniegšanas Latvijas Banka, ja tā ir grupas uzraudzības iestāde, apspriežas ar uzraugu kolēģijas locekļiem un izvērtē citu uzraugu kolēģijā ietilpstošo uzraudzības iestāžu viedokļus, to skaitā iebildumus.
+(4) Ja šā panta otrajā daļā minētajā ziņojumā nav iekļauta informācija par meitas sabiedrību, kuru pieprasa sniegt Latvijas Banka, kas ir licencējusi meitas sabiedrību, un ja neiekļautā informācija ir būtiska, Latvijas Banka pieprasa attiecīgajai meitas sabiedrībai atklāt nepieciešamo papildu informāciju.
+(5) Latvijas Banka nosaka prasības attiecībā uz šā panta pirmajā daļā minētās informācijas publiskošanu.

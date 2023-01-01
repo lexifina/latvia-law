@@ -1,1 +1,1 @@
-93.² pants. Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā Komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteiktās sankcijas.
+93.² pants. Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā Latvijas Banka piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteiktās sankcijas.

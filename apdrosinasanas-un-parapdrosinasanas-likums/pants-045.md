@@ -1,1 +1,1 @@
-45.pants. Komisija nosaka minimālo laika intervālu šā likuma 44.pantā minēto elementu regulārai izvērtēšanai apdrošināšanas vai pārapdrošināšanas sabiedrībā un grupas uzraudzībai pakļautajā sabiedrībā, kā arī šo sabiedrību darbības pārbaužu veikšanai.
+45.pants. Latvijas Banka nosaka minimālo laika intervālu šā likuma 44.pantā minēto elementu regulārai izvērtēšanai apdrošināšanas vai pārapdrošināšanas sabiedrībā un grupas uzraudzībai pakļautajā sabiedrībā, kā arī šo sabiedrību darbības pārbaužu veikšanai.

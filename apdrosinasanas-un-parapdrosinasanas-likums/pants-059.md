@@ -3,5 +3,5 @@
 2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;
 3) pret kuru ierosinātais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu ir izbeigts sakarā ar noilgumu vai amnestiju;
 4) kura saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, bet kriminālprocess pret to izbeigts uz nereabilitējoša pamata.
-(2) Apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja pienākums ir pašam vai pēc Komisijas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja uz tām var attiecināt šā panta pirmās daļas nosacījumus.
-(3) Ja Komisijas pieņemtais lēmums par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību.
+(2) Apdrošināšanas vai pārapdrošināšanas sabiedrības vai ārvalsts apdrošinātāja pienākums ir pašam vai pēc Latvijas Bankas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja uz tām var attiecināt šā panta pirmās daļas nosacījumus.
+(3) Ja Latvijas Bankas pieņemtais lēmums par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību.

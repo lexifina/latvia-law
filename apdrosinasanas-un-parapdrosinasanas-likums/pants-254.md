@@ -3,4 +3,4 @@
 2) nodot nedzīvības apdrošināšanas līgumus un veikt visas nepieciešamās tiesiskās darbības, ievērojot šā likuma 47., 48., 50. un 51.pantā noteikto kārtību;
 3) izbeigt nedzīvības apdrošināšanas līgumus, neieturot no izmaksājamās apdrošināšanas prēmijas izdevumus, kas saistīti ar apdrošināšanas līguma noslēgšanu.
 (2) Apdrošināšanas līgumi, kuru termiņš beidzas triju mēnešu laikā pēc tam, kad pieņemts lēmums par darbības izbeigšanu, nav izbeidzami, izņemot gadījumus, kad šāds līgums tiek izbeigts pēc apdrošinājuma ņēmēja iniciatīvas.
-(3) Komisija ir tiesīga likvidējamai apdrošināšanas sabiedrībai (likvidatoram) uzlikt par pienākumu nodot visus apdrošināšanas līgumus vai daļu no tiem.
+(3) Latvijas Banka ir tiesīga likvidējamai apdrošināšanas sabiedrībai (likvidatoram) uzlikt par pienākumu nodot visus apdrošināšanas līgumus vai daļu no tiem.

@@ -1,3 +1,3 @@
-33.pants. (1) Komisija veic uz nākotni vērstu un uz risku ietekmes novērtēšanu balstītu apdrošināšanas un pārapdrošināšanas darbības uzraudzību, savlaicīgi piemērojot uzraudzības pasākumus un ievērojot proporcionalitātes principu.
-(2) Komisija veic nepārtrauktu apdrošināšanas un pārapdrošināšanas darbības uzraudzību, novērtējot šīs darbības atbilstību šajā likumā un citos Latvijas Republikas normatīvajos aktos noteiktajām prasībām.
-(3) Komisija šajā likumā un citos Latvijas Republikas normatīvajos aktos noteiktās prasības apdrošināšanas vai pārapdrošināšanas sabiedrībām piemēro, ievērojot proporcionalitātes principu.
+33.pants. (1) Latvijas Banka veic uz nākotni vērstu un uz risku ietekmes novērtēšanu balstītu apdrošināšanas un pārapdrošināšanas darbības uzraudzību, savlaicīgi piemērojot uzraudzības pasākumus un ievērojot proporcionalitātes principu.
+(2) Latvijas Banka veic nepārtrauktu apdrošināšanas un pārapdrošināšanas darbības uzraudzību, novērtējot šīs darbības atbilstību šajā likumā un citos Latvijas Republikas normatīvajos aktos noteiktajām prasībām.
+(3) Latvijas Banka šajā likumā un citos Latvijas Republikas normatīvajos aktos noteiktās prasības apdrošināšanas vai pārapdrošināšanas sabiedrībām piemēro, ievērojot proporcionalitātes principu.

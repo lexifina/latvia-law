@@ -8,7 +8,7 @@
 3) iekšējā audita politiku un procedūru;
 4) ārpakalpojumu saņemšanas politiku un procedūru, ja attiecīgā sabiedrība izmanto ārpakalpojumu sniedzēju pakalpojumus.
 (3) Apdrošināšanas vai pārapdrošināšanas sabiedrības valde ir atbildīga par šā panta otrajā daļā noteikto politiku un procedūru ieviešanu un ievērošanu.
-(4) Apdrošināšanas vai pārapdrošināšanas sabiedrība šā panta otrajā daļā noteiktās politikas un procedūras rakstveidā iesniedz Komisijai 10 dienu laikā pēc to apstiprināšanas, kā arī informē Komisiju par visām izmaiņām tajās.
+(4) Apdrošināšanas vai pārapdrošināšanas sabiedrība šā panta otrajā daļā noteiktās politikas un procedūras rakstveidā iesniedz Latvijas Bankai 10 dienu laikā pēc to apstiprināšanas, kā arī informē Latvijas Banku par visām izmaiņām tajās.
 (5) Vismaz reizi gadā apdrošināšanas vai pārapdrošināšanas sabiedrība izvērtē šā panta otrajā daļā noteikto politiku un procedūru ievērošanu un to atbilstību attiecīgās sabiedrības darbībai. Apdrošināšanas vai pārapdrošināšanas sabiedrības pienākums ir nekavējoties pilnveidot attiecīgo politiku vai procedūru, ja ir notikušas būtiskas izmaiņas šīs sabiedrības darbībā.
-(6) Komisija nosaka minimālās prasības attiecībā uz apdrošināšanas vai pārapdrošināšanas sabiedrības pārvaldības sistēmas izveidi un darbību.
+(6) Latvijas Banka nosaka minimālās prasības attiecībā uz apdrošināšanas vai pārapdrošināšanas sabiedrības pārvaldības sistēmas izveidi un darbību.
 (7) Prasības šajā pantā minēto sistēmu elementiem nosaka ES Regula Nr. 2015/35.
