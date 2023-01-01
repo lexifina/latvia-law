@@ -6,4 +6,4 @@
 (2) Prospekta projektā vai piedāvājumā, ar kuru tiek iepazīstināts potenciālais ieguldītājs, aizliegts ietvert informāciju, kuru ieguldītājs var izmantot lēmumu pieņemšanai par ieguldījuma veikšanu. Prospekta projektā vai piedāvājumā norāda, ka:
 1) tas nav piedāvājums vai uzaicinājums parakstīties uz fonda ieguldījumu daļām;
 2) nevar paļauties uz tajā sniegto informāciju, jo tā ir nepilnīga un var mainīties.
-(3) Latvijā licencētam pārvaldniekam, pirms sākt pirmsizplatīšanu, nav pienākuma paziņot Komisijai par pirmsizplatīšanas materiālu saturu vai to adresātiem vai izpildīt jebkādus citus nosacījumus, kas nav minēti šajā nodaļā.
+(3) Latvijā licencētam pārvaldniekam, pirms sākt pirmsizplatīšanu, nav pienākuma paziņot Latvijas Bankai par pirmsizplatīšanas materiālu saturu vai to adresātiem vai izpildīt jebkādus citus nosacījumus, kas nav minēti šajā nodaļā.
