@@ -1,0 +1,1 @@
+32.² pants. Probācijas novērošanas laikā Valsts probācijas dienests piesaista pakalpojumus, kas ir nepieciešami, lai nodrošinātu bērna sociālās uzvedības korekciju un sociālo rehabilitāciju, un finansē šādu pakalpojumu izmaksas.
