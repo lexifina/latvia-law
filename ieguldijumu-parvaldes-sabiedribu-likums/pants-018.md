@@ -4,4 +4,4 @@ Sabiedrības tiesības pārvaldīt ieguldījumu fondu izbeidzas:
 2) līdz ar licences anulēšanu;
 3) (izslēgts ar 09.07.2013. likumu);
 4) līdz ar fonda likvidācijas pabeigšanu, ja to veic pati sabiedrība;
-5) ar brīdi, kad Komisija ieceļ fonda likvidatoru saskaņā ar šā likuma 35.panta sesto daļu.
+5) ar brīdi, kad Latvijas Banka ieceļ fonda likvidatoru saskaņā ar šā likuma 35.panta sesto daļu.

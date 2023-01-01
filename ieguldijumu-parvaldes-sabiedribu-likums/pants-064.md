@@ -1,7 +1,7 @@
 64.pants. Ieguldījumi fonda ieguldījumu apliecībās (daļās)
 (1) Fonda līdzekļus drīkst ieguldīt dalībvalstī reģistrēta ieguldījumu fonda vai tam pielīdzināma tāda kopējo ieguldījumu uzņēmuma ieguldījumu apliecībās vai daļās, kura darbības regulējums ir analoģisks šā likuma prasībām.
 (2) Fonda līdzekļus drīkst ieguldīt ārvalsts ieguldījumu fonda vai tam pielīdzināma kopējo ieguldījumu uzņēmuma apliecībās vai daļās, ja ieguldījumu fonds vai tam pielīdzināms kopējo ieguldījumu uzņēmums atbilst šādām prasībām:
-1) tas ir reģistrēts ārvalstī, kuras tiesiskais regulējums paredz šādu uzņēmumu uzraudzību, kas ir līdzvērtīga šajā likumā noteiktajai uzraudzībai, un attiecīgās ārvalsts uzraudzības institūcija sadarbojas ar Komisiju;
+1) tas ir reģistrēts ārvalstī, kuras tiesiskais regulējums paredz šādu uzņēmumu uzraudzību, kas ir līdzvērtīga šajā likumā noteiktajai uzraudzībai, un attiecīgās ārvalsts uzraudzības institūcija sadarbojas ar Latvijas Banku;
 2) tā darbību regulējošās prasības, tai skaitā ieguldītāju aizsardzība, ieguldījumu un darījumu ierobežojumi, ir analoģiskas šā likuma noteikumiem par ieguldījumu fondu darbību;
 3) tas sagatavo un publisko pusgada un gada pārskatus, lai būtu iespējams novērtēt tā aktīvus, saistības, ienākumus un darbību pārskata periodā.
 (3) Fonda līdzekļus drīkst ieguldīt šā panta pirmajā un otrajā daļā minēto fondu un kopējo ieguldījumu uzņēmumu apliecībās (daļās), ja fonda vai kopējo ieguldījumu uzņēmuma [kura ieguldījumu apliecības (daļas) paredzēts iegādāties] prospektā, pārvaldes nolikumā vai tiem pielīdzināmā dokumentā ir noteikts, ka ieguldījumi citos fondos vai kopējo ieguldījumu uzņēmumos nedrīkst pārsniegt 10 procentus no fonda vai kopējo ieguldījumu uzņēmuma aktīviem.

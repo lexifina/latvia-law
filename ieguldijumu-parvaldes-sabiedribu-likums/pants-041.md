@@ -1,5 +1,5 @@
 41. pants. Fonda mantas turēšana turētājbankā
-(1) Sabiedrība atver atsevišķu kontu turētājbankā katram tās pārvaldē esošajam fondam. Par fonda identifikācijas datiem, atverot kontu turētājbankā, tiek uzskatīts fonda nosaukums un Komisijas piešķirtais reģistrācijas numurs.
+(1) Sabiedrība atver atsevišķu kontu turētājbankā katram tās pārvaldē esošajam fondam. Par fonda identifikācijas datiem, atverot kontu turētājbankā, tiek uzskatīts fonda nosaukums un Latvijas Bankas piešķirtais reģistrācijas numurs.
 (2) Ienākumi no fonda mantas un ienākumi no ieguldījumu apliecību emisijas ieskaitāmi attiecīgā fonda kontā turētājbankā.
 (3) Turētājbanka drīkst veikt maksājumus no fonda konta tikai uz sabiedrības rīkojuma pamata saskaņā ar likumu, fonda prospektu, fonda pārvaldes nolikumu un turētājbankas līgumu.
 (4) Turētājbanka nodrošina, ka visi fonda naudas līdzekļi ir uzskaitīti un visi fonda ieguldītāju vai to vārdā veiktie maksājumi par fonda ieguldījumu apliecību iegādi saņemti un iegrāmatoti vienā vai vairākos fonda naudas kontos:

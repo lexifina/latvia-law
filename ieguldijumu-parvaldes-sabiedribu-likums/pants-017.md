@@ -6,6 +6,6 @@
 3) turētājbankas firmu un valdes atrašanās vietu.
 (3) Sabiedrība, kuras tiesības pārvaldīt ieguldījumu fondu ir izbeigušās citādi, nevis ar fonda pārvaldes tiesību nodošanu citai sabiedrībai, nekavējoties nodod turētājbankai visus ar fonda pārvaldi saistītos dokumentus.
 (4) Turētājbankai, kurai pārgājušas ieguldījumu fonda pārvaldes tiesības, ir visas sabiedrības tiesības, izņemot tiesības emitēt tās pārvaldē esošā fonda ieguldījumu apliecības un veikt apliecību atpakaļpirkšanu.
-(5) Triju mēnešu laikā no fonda pārvaldes tiesību pārejas dienas turētājbanka nodod fonda pārvaldes tiesības citai sabiedrībai. Komisija var šo termiņu pagarināt līdz sešiem mēnešiem.
-(6) Fonda pārvaldes tiesības nodot citai sabiedrībai drīkst tikai ar Komisijas atļauju.
+(5) Triju mēnešu laikā no fonda pārvaldes tiesību pārejas dienas turētājbanka nodod fonda pārvaldes tiesības citai sabiedrībai. Latvijas Banka var šo termiņu pagarināt līdz sešiem mēnešiem.
+(6) Fonda pārvaldes tiesības nodot citai sabiedrībai drīkst tikai ar Latvijas Bankas atļauju.
 (7) Ja šā panta piektajā daļā noteiktajos termiņos turētājbanka nenodod fonda pārvaldes tiesības citai sabiedrībai, turētājbanka veic fonda likvidāciju.

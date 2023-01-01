@@ -23,11 +23,11 @@ e) veicama ieguldījumu apliecību emisija, atpakaļpirkšana un atpakaļpieņem
 10) fondam piekritīgu maksājumu veidu sarakstu un aprēķināšanas kārtību;
 11) kārtību, kādā sniedzami publiski paziņojumi un publiski pieejamā informācija;
 12) nolikuma grozīšanas kārtību.
-(4) Nolikumā drīkst ietvert arī citus noteikumus, kas nav pretrunā ar likumu vai Komisijas noteikumiem.
-(5) Ja nolikumā tiek izdarīti grozījumi, sabiedrība iesniedz Komisijai iesniegumu par nolikuma grozījumu reģistrāciju. Iesniegumam pievieno:
+(4) Nolikumā drīkst ietvert arī citus noteikumus, kas nav pretrunā ar likumu vai Latvijas Bankas noteikumiem.
+(5) Ja nolikumā tiek izdarīti grozījumi, sabiedrība iesniedz Latvijas Bankai iesniegumu par nolikuma grozījumu reģistrāciju. Iesniegumam pievieno:
 1) attiecīgās sabiedrības pārvaldes institūcijas lēmumu par nolikuma grozījumu apstiprināšanu;
-2) nolikuma grozījumus un fonda nolikuma tekstu, kurā ir iekļauti grozījumi. Nolikuma grozījumus un nolikuma tekstu sabiedrība iesniedz Komisijai vienā no šā likuma 23.panta otrajā daļā minētajiem veidiem.
+2) nolikuma grozījumus un fonda nolikuma tekstu, kurā ir iekļauti grozījumi. Nolikuma grozījumus un nolikuma tekstu sabiedrība iesniedz Latvijas Bankai vienā no šā likuma 23.panta otrajā daļā minētajiem veidiem.
 3) (izslēgts ar 11.03.2010. likumu)
-(6) Komisija izskata iesniegtos grozījumus un 15 darbdienu laikā reģistrē grozījumus, ja tie atbilst šā likuma prasībām un nav pretrunā ar fonda ieguldītāju likumīgajām interesēm.
-(7) Grozījumi nolikumā stājas spēkā ne agrāk kā 10 dienas pēc to reģistrācijas Komisijā vai citā Komisijas noteiktajā termiņā, kas nevar būt ilgāks par trim mēnešiem no grozījumu reģistrācijas dienas un tiek noteikts, ievērojot nolikuma grozījumu saturu un fonda ieguldītāju intereses.
-(8) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kas tiek sniegta saskaņā ar šā panta trešās daļas 2.punktu, sabiedrība izdara attiecīgus grozījumus nolikumā, tos iepriekš nereģistrējot Komisijā, bet atbilstoši šā panta piektās daļas 2.punktam iesniedzot Komisijai pilnu nolikuma tekstu. Šādi grozījumi nolikumā stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.
+(6) Latvijas Banka izskata iesniegtos grozījumus un 15 darbdienu laikā reģistrē grozījumus, ja tie atbilst šā likuma prasībām un nav pretrunā ar fonda ieguldītāju likumīgajām interesēm.
+(7) Grozījumi nolikumā stājas spēkā ne agrāk kā 10 dienas pēc to reģistrācijas Latvijas Bankā vai citā Latvijas Bankas noteiktajā termiņā, kas nevar būt ilgāks par trim mēnešiem no grozījumu reģistrācijas dienas un tiek noteikts, ievērojot nolikuma grozījumu saturu un fonda ieguldītāju intereses.
+(8) Ja sabiedrība vēlas izdarīt grozījumus informācijā, kas tiek sniegta saskaņā ar šā panta trešās daļas 2.punktu, sabiedrība izdara attiecīgus grozījumus nolikumā, tos iepriekš nereģistrējot Latvijas Bankā, bet atbilstoši šā panta piektās daļas 2.punktam iesniedzot Latvijas Bankai pilnu nolikuma tekstu. Šādi grozījumi nolikumā stājas spēkā pēc to apstiprināšanas sabiedrības pārvaldes institūcijā.

@@ -6,7 +6,7 @@
 4) fonda ieguldījumu apliecību izplatītāja firma un izplatīšanas vietu adreses;
 5) fonda zvērināta revidenta vārds un uzvārds vai zvērinātu revidentu komercsabiedrības firma;
 6) fonda dibināšanas datums un darbības termiņš (ja tāds paredzēts);
-7) atzīme par fonda reģistrāciju Komisijā;
+7) atzīme par fonda reģistrāciju Latvijas Bankā;
 8) atzīme par fonda prospektā izdarītajiem grozījumiem un to spēkā stāšanās datums;
 9) tās vietas adrese, kur var saņemt fonda prospektu, ieguldītājiem paredzēto pamatinformāciju un fonda pārvaldes nolikumu (ja tas nav pievienots fonda prospektam), fonda gada vai pusgada pārskatus, kā arī ziņas par fonda vērtību un ieguldījumu apliecību pārdošanas un atpakaļpirkšanas cenu.
 (2) Fonda prospektā ir satura rādītājs un lietoto terminu un saīsinājumu skaidrojums.
