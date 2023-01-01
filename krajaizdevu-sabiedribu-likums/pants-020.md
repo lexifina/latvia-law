@@ -1,6 +1,6 @@
 20.pants. Krājaizdevu sabiedrības darbību regulējošās prasības
 (1) Krājaizdevu sabiedrības pašu kapitāla attiecība pret aktīvu un ārpusbilances posteņu kopsummu (kapitāla pietiekamība) nedrīkst būt mazāka par 10 procentiem.
-(2) Krājaizdevu sabiedrība savus aktīvus izvieto tā, lai jebkurā brīdī tiktu nodrošināta tās kreditoru juridiski pamatotu prasību apmierināšana. Likviditātes prasības nosaka Komisijas izdotie normatīvie noteikumi.
+(2) Krājaizdevu sabiedrība savus aktīvus izvieto tā, lai jebkurā brīdī tiktu nodrošināta tās kreditoru juridiski pamatotu prasību apmierināšana. Likviditātes prasības nosaka Latvijas Bankas izdotie noteikumi.
 (3) (Izslēgta ar 04.12.2008. likumu.)
 (4) Krājaizdevu sabiedrība ir tiesīga veikt ieguldījumus Latvijas Republikas valsts emitētajos vērtspapīros, valsts kapitālsabiedrību emitētajos parāda vērtspapīros un Latvijas Republikā reģistrēto kredītiestāžu emitētajās hipotekārajās ķīlu zīmēs.
 (5) Krājaizdevu sabiedrība nav tiesīga dibināt komercsabiedrības, kā arī izdarīt ieguldījumus citu komercsabiedrību pamatkapitālā.
@@ -11,4 +11,4 @@
 (10) Kopējais krājaizdevu sabiedrības, valdes un revīzijas komisijas locekļiem vai viņu laulātajiem, vecākiem vai bērniem izsniegto kredītu apjoms nedrīkst pārsniegt 15 procentus no krājaizdevu sabiedrības pašu kapitāla, izņemot gadījumus, kad šīm personām izsniegtie kredīti nodrošināti ar viņu pajām vai noguldījumiem krājaizdevu sabiedrībā.
 (11) Kredīti, kuri katrs atsevišķi vai kopumā pārsniedz 1400 euro un tiek piešķirti krājaizdevu sabiedrības, kredītkomitejas priekšsēdētājam vai kādam no valdes, kredītkomitejas un revīzijas komisijas locekļiem, piešķirami ar vienbalsīgi pieņemtu krājaizdevu sabiedrības valdes lēmumu.
 (12) Krājaizdevu sabiedrības ārvalstu valūtu atklātā pozīcija atsevišķā ārvalstu valūtā nedrīkst pārsniegt 10 procentus un kopumā visās ārvalstu valūtās 20 procentus no pašu kapitāla.
-(13) Komisija izdod normatīvos noteikumus par krājaizdevu sabiedrības darbību regulējošo prasību rādītāju aprēķināšanu un aktīvu un ārpusbilances saistību novērtēšanu.
+(13) Latvijas Banka izdod noteikumus par krājaizdevu sabiedrības darbību regulējošo prasību rādītāju aprēķināšanu un aktīvu un ārpusbilances saistību novērtēšanu.

@@ -1,7 +1,7 @@
 19.pants. Krājaizdevu sabiedrības darbības noteikumi
-(1) Krājaizdevu sabiedrība pēc reģistrācijas Latvijas Republikas Uzņēmumu reģistrā ir tiesīga veikt savos statūtos un Komisijas izsniegtajā speciālajā atļaujā (licencē) noteikto darbību.
+(1) Krājaizdevu sabiedrība pēc reģistrācijas Latvijas Republikas Uzņēmumu reģistrā ir tiesīga veikt savos statūtos un Latvijas Bankas izsniegtajā speciālajā atļaujā (licencē) noteikto darbību.
 (2) Krājaizdevu sabiedrība pieņem noguldījumus tikai no saviem biedriem.
-(2¹) Krājaizdevu sabiedrība nodrošina noguldītāju un to noguldījumu apmēra (ar uzkrātajiem procentiem) elektroniska reģistra vešanu un to iesniedz Komisijai pēc tās pieprasījuma.
+(2¹) Krājaizdevu sabiedrība nodrošina noguldītāju un to noguldījumu apmēra (ar uzkrātajiem procentiem) elektroniska reģistra vešanu un to iesniedz Latvijas Bankai pēc tās pieprasījuma.
 (3) Krājaizdevu sabiedrība izsniedz aizdevumus tikai saviem biedriem - fiziskajām personām un šā likuma 5.panta piektās daļas 1.punktā minētajām personām atbilstoši kopsapulces (pārstāvju sapulces) apstiprinātajiem kredītpolitikas noteikumiem.
 (4) Krājaizdevu sabiedrības kredītpolitikā nosaka:
 1) mērķus, kādiem izsniedzami aizdevumi;
