@@ -11,7 +11,11 @@ c) lauksaimniecībā izmantojamās zemes augšņu kartēšanu,
 d) augšņu apsaimniekošanas procesu plānošanu un uzskaiti;
 4) pilda references laboratorijas funkcijas augšņu jomā;
 5) (punkts stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. Pārejas noteikumu 28. punktu).
-(2) Kārtību, kādā iegūstama un apkopojama informācija par lauksaimniecībā izmantojamās zemes auglības līmeni un tā pārmaiņām, nosaka Ministru kabinets.
+(2) Ministru kabinets nosaka kārtību, kādā:
+1) iegūst un apkopo informāciju par lauksaimniecībā izmantojamās zemes auglības līmeni un tā pārmaiņām, kā arī atzīst augšņu agroķīmiskās izpētes pakalpojumu sniedzējus;
+2) iegūst un apkopo informāciju par oglekļa monitoringu lauksaimniecībā izmantojamā zemē;
+3) uztur un izmanto Kultūraugu uzraudzības valsts informācijas sistēmas Lauksaimniecībā izmantojamās zemes pārvaldības sistēmu;
+4) īsteno augšņu references laboratorijas funkcijas un atzīst citu laboratoriju tiesības veikt analīzes augšņu agroķīmiskās izpētes vajadzībām.
 (3) (Izslēgta ar 30.10.2014. likumu)
 (4) (Izslēgta ar 30.10.2014. likumu)
 (5) Lauksaimniecībā izmantojamā zemē pieļaujama kokaugu stādījumu ierīkošana, ja tā atbilst teritorijas attīstības plānošanas dokumentu prasībām un ja:

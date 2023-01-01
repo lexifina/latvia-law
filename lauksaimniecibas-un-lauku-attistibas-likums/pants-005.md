@@ -17,5 +17,5 @@
 (12) Lēmumu par valsts atbalsta piešķiršanu atceļ Padomes 1999.gada 22.marta regulas Nr. 659/1999, ar ko nosaka sīki izstrādātus noteikumus EK līguma 93.panta piemērošanai, 15.pantā noteiktajā termiņā, ja Eiropas Komisija pieņem Eiropas Kopienas dibināšanas līguma 88.panta otrajā daļā noteikto lēmumu. Lēmuma par valsts atbalsta atgūšanu apstrīdēšana neaptur tā darbību.
 (13) Par valsts un Eiropas Savienības atbalsta iesnieguma apstiprināšanu, noraidīšanu, maksājuma piešķiršanu vai atteikumu piešķirt maksājumu, kā arī par nepamatoti izmaksātā atbalsta atgūšanu pieņemtā lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
 (14) Valsts un Eiropas Savienības atbalsta iesnieguma lieta ir ierobežotas pieejamības informācija.
-(15) (Daļa stājas spēkā 01.01.2023. un iekļauta likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 26. punktu)
-(16) (Daļa stājas spēkā 01.01.2023. un iekļauta likuma redakcijā uz 01.01.2023. Sk. Pārejas noteikumu 26. punktu)
+(15) Eiropas Savienības atbalsta lauksaimniecībai un lauku attīstībai saņemšanas nosacījumu izpildes kontroles kārtību vides, klimata pārmaiņu, sabiedrības veselības, augu veselības, dzīvnieku labturības, sociālajā un darbaspēka tiesību jomā nosaka Ministru kabinets.
+(16) Kārtību, kādā nosaka un piemēro atbalsta samazinājumu par Eiropas Savienības atbalsta lauksaimniecībai un lauku attīstībai saņemšanas nosacījumu neizpildi, kā arī atbalsta samazinājuma likmes un atbalsta samazinājuma piemērošanas izņēmumus, atbalsta atteikšanas un atmaksas kārtību nosaka Ministru kabinets.
