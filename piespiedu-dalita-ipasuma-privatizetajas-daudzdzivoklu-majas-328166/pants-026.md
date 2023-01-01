@@ -1,0 +1,2 @@
+26. pants. Tiesības iepazīties ar zvērināta tiesu izpildītāja lietas materiāliem un pieprasīt dokumentu atvasinājumus no tās
+Ar zvērināta tiesu izpildītāja lietas materiāliem par piespiedu dalītā īpašuma izbeigšanu var iepazīties un dokumentu atvasinājumus var pieprasīt zemesgabala īpašnieki, daudzdzīvokļu dzīvojamās mājas dzīvokļu īpašnieki, kā arī minētās mājas pārvaldnieks un šā likuma 5. panta pirmajā daļā minētā pilnvarotā persona.

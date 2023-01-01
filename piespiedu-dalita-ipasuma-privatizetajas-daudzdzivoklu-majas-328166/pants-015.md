@@ -1,0 +1,6 @@
+15. pants. Līgumi atsavināšanas cenas samaksai
+(1) Uz dzīvokļu īpašnieku kopības lēmuma pamata var slēgt līgumus daudzdzīvokļu dzīvojamās mājas dzīvokļu īpašnieku vārdā, lai iegūtu finansējumu atsavināšanas cenas samaksai.
+(2) Lēmums par līguma slēgšanu ir pieņemts, ja par to nobalsojuši dzīvokļu īpašnieki, kuriem pieder vairāk nekā puse no visiem daudzdzīvokļu dzīvojamā mājā esošiem dzīvokļu īpašumiem.
+(3) Saistības, kas izriet no šā panta pirmajā daļā minētajiem līgumiem, ir dalītas, un katra dzīvokļa īpašnieka saistības daļa atbilst tā dzīvokļa īpašuma sastāvā ietilpstošās kopīpašuma domājamās daļas apmēram.
+(4) Par saistībām, kas izriet no šā panta pirmajā daļā minētajiem līgumiem, neatbild tie dzīvokļu īpašnieki, kuri ir iemaksājuši savā dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram atbilstošās atsavināšanas cenas daļu zvērināta tiesu izpildītāja depozīta kontā.
+(5) Saistību, kas izriet no šā panta pirmajā daļā minētajiem līgumiem, pilnīgas izpildes termiņš nevar būt īsāks par trim gadiem attiecībā uz tām personām, kuras nav piekritušas šādu līgumu slēgšanai. Šādos gadījumos saistību izpildes apmērs katru gadu nosakāms proporcionāli to izpildes kopējam termiņam.

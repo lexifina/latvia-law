@@ -1,0 +1,12 @@
+12. pants. Zvērināta tiesu izpildītāja darbības, pieņemot lēmumu par atsavināšanas tiesības izmantošanu
+(1) Zvērināts tiesu izpildītājs, piedaloties dzīvokļu īpašnieku kopsapulcē, sastāda aktu par kopsapulces balsojumu par atsavināšanas tiesības izmantošanu, kurā norāda:
+1) tos dzīvokļu īpašniekus vai to pilnvarotās personas, kas piedalījušās dzīvokļu īpašnieku kopsapulcē, norādot fiziskās personas vārdu, uzvārdu, personas kodu un dzīvesvietas adresi vai juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi, pārstāvi un pārstāvības pamatu;
+2) katra dzīvokļa īpašnieka balsojumu.
+(2) Aktu par kopsapulces balsojumu par atsavināšanas tiesības izmantošanu paraksta zvērināts tiesu izpildītājs, dzīvokļu īpašnieku kopsapulces vadītājs un protokolētājs.
+(3) Ja dzīvokļu īpašnieku kopsapulces vadītājs vai protokolētājs atsakās parakstīt šā panta pirmajā daļā minēto aktu, par to izdarāma atzīme aktā, norādot atteikšanās iemeslus, ja tādi darīti zināmi. Atteikšanās parakstīt aktu neietekmē tā spēku.
+(4) Pēc dzīvokļu īpašnieku kopsapulces zvērināts tiesu izpildītājs 10 dienu laikā sastāda aktu par atsavināšanas tiesības izmantošanu, kurā norāda:
+1) tos dzīvokļu īpašniekus vai to pilnvarotās personas, kas piedalījušās balsošanā par atsavināšanas tiesības izmantošanu, norādot fiziskās personas vārdu, uzvārdu, personas kodu un dzīvesvietas adresi vai juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi, pārstāvi un pārstāvības pamatu;
+2) katra dzīvokļa īpašnieka balsojumu, atsevišķi norādot tos dzīvokļu īpašniekus, kuri balsojuši par atsavināšanas tiesības izmantošanu pirms dzīvokļu īpašnieku kopsapulces norises dienas šā likuma 11. panta sestajā daļā noteiktajā kārtībā;
+3) dzīvokļu īpašnieku kopības lēmumu atsavināšanas tiesības izmantošanas jautājumā, norādot "par" un "pret" balsu sadalījumu;
+4) ja pieņemts lēmums "par" atsavināšanas tiesības izmantošanu, ņemot vērā šā likuma 8. panta otrās daļas 9. punktā minēto datumu, līdz kuram samaksājama atsavināšanas cena, un zvērināta tiesu izpildītāja depozīta konta, uz kuru pārskaitāms maksājums, rekvizītus.
+(5) Kad parakstīts akts par atsavināšanas tiesības izmantošanu, zvērināts tiesu izpildītājs par pieņemto lēmumu paziņo zemesgabala īpašniekam un daudzdzīvokļu dzīvojamās mājas dzīvokļu īpašniekiem. Ja pieņemts lēmums "par" atsavināšanas tiesības izmantošanu, paziņojumā ietver šā panta ceturtās daļas 4. punktā minēto informāciju.
