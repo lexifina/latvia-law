@@ -1,0 +1,6 @@
+31. pants. Deputātu tiesības sasaukt domes ārkārtas sēdi
+(1) Ja domes priekšsēdētājs un domes priekšsēdētāja vietnieks tiek aizkavēti pildīt savus pienākumus, ir atlaisti, atbrīvoti vai atkāpušies no amata un nepieciešams nodrošināt pašvaldības darba nepārtrauktību, vismaz trešdaļa domes deputātu var sasaukt domes ārkārtas sēdi, paziņojot par to deputātiem pašvaldības darba reglamentā noteiktajā kārtībā.
+(2) Paziņojumā par domes ārkārtas sēdes sasaukšanu norāda domes sēdes darba kārtību, ierosināto jautājumu steidzamības pamatojumu, sēdes norises laiku un vietu un tam pievieno domes lēmuma projektu. Paziņojumu nosūta arī vides aizsardzības un reģionālās attīstības ministram.
+(3) Domes ārkārtas sēdi sasauc ne vēlāk kā triju darbdienu laikā pēc tās paziņošanas.
+(4) Domes ārkārtas sēdi vada un tajā pieņemtos lēmumus paraksta deputāts, kurš pirmais parakstījis paziņojumu par domes ārkārtas sēdes sasaukšanu.
+(5) Dome ir tiesīga izvērtēt domes ārkārtas sēdes steidzamības pamatojumu un lemt par jautājuma izslēgšanu no domes sēdes darba kārtības, ja dome norādīto steidzamības pamatojumu atzīst par nepietiekamu. Dome var lemt par jautājuma izslēgšanu no domes sēdes darba kārtības arī tad, ja paziņojumā par domes ārkārtas sēdes ierosināšanu nav norādīts ierosinātā jautājuma steidzamības pamatojums.

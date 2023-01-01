@@ -1,0 +1,6 @@
+29. pants. Domes ārkārtas sēdes sasaukšana
+(1) Domes priekšsēdētājs domes ārkārtas sēdi sasauc pēc savas iniciatīvas vai pēc šā likuma 30. panta pirmajā daļā minēto subjektu pieprasījuma.
+(2) Sasaucot domes ārkārtas sēdi, tiek noteikta sēdes darba kārtība, ierosinātā jautājuma steidzamības pamatojums, norādot sekas, kas iestāsies, ja jautājums netiks risināts steidzami, kā arī sēdes norises laiks un vieta un pievienots domes lēmuma projekts. Domes ārkārtas sēdē neskata pašvaldības budžetu un tā grozījumus.
+(3) Domes lēmumu projekti, atzinumi par tiem un citi izziņas materiāli, kas noteikti pašvaldības darba reglamentā, ir pieejami visiem domes deputātiem ne vēlāk kā trīs stundas pirms domes ārkārtas sēdes.
+(4) Dome ir tiesīga lemt par jautājuma izslēgšanu no domes ārkārtas sēdes darba kārtības, ja dome tās priekšsēdētāja norādīto ierosinātā jautājuma steidzamības pamatojumu atzīst par nepietiekamu. Dome var lemt par jautājuma izslēgšanu no domes ārkārtas sēdes darba kārtības arī tad, ja domes priekšsēdētājs nav norādījis ierosinātā jautājuma steidzamības pamatojumu.
+(5) Paziņojumu par domes ārkārtas sēdes darba kārtību, norises laiku un vietu publicē pašvaldības oficiālajā tīmekļvietnē.

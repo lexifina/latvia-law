@@ -1,0 +1,6 @@
+54. pants. Publiskā apspriešana
+(1) Lai veicinātu iedzīvotāju līdzdalību vietējas nozīmes jautājumu lemšanā un ievērotu iedzīvotāju intereses, pašvaldība rīko publisko apspriešanu tās autonomās kompetences jautājumos.
+(2) Publisko apspriešanu rīko pēc pašvaldības administratīvās teritorijas iedzīvotāju, iedzīvotāju padomes, domes vai domes priekšsēdētāja iniciatīvas un pamatojoties uz domes lēmumu. Ja publisko apspriešanu ierosina iedzīvotāji, pašvaldība var noteikt minimālo iedzīvotāju skaitu, kāds nepieciešams šādai apspriešanai.
+(3) Publiskā apspriešana organizējama, ņemot vērā šajā likumā un citos likumos un Ministru kabineta noteikumos paredzēto par sabiedrības līdzdalības kārtību pašvaldības attīstības plānošanas procesā. Izdevumus, kas saistīti ar publiskās apspriešanas organizēšanu, sedz no pašvaldības budžeta.
+(4) Ierosinājumu par publiskās apspriešanas rīkošanu paraksta tā iesniedzējs un pievieno jautājumu vai dokumenta projektu, kas nododams apspriešanai. Ja publisko apspriešanu ierosina dome, attiecīgo dokumenta projektu pievieno domes lēmumam.
+(5) Publisko apspriešanu nerīko par pašvaldības budžetu, pašvaldības pakalpojumu maksu, nodokļu vai nodevu likmēm, pašvaldības amatpersonu iecelšanu amatā un atbrīvošanu no tā, par pašvaldības iekšējās darba organizācijas jautājumiem, kā arī par jautājumiem, kas ir citu institūciju kompetencē.

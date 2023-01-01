@@ -1,0 +1,6 @@
+53. pants. Konsultatīvās padomes un komisijas
+(1) Lai iesaistītu sabiedrību atsevišķu pašvaldības funkciju vai uzdevumu pildīšanā, pašvaldība var izveidot konsultatīvās padomes un komisijas. Konsultatīvās padomes vai komisijas sastāvā var iekļaut domes deputātus.
+(2) Konsultatīvās padomes vai komisijas izveidošanas nepieciešamību, kā arī kompetenci, sastāvu un darba organizāciju nosaka likums, domes lēmums vai domes pieņemts nolikums.
+(3) Par darbu konsultatīvajā padomē vai komisijā var noteikt atlīdzību atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam, un to sedz no pašvaldības budžeta.
+(4) Attiecībā uz konsultatīvo padomju un komisiju sēdēm piemērojamas šā likuma 41. panta pirmās daļas prasības. Konsultatīvo padomju un komisiju sēdes tiek protokolētas, protokoli tiek publicēti pašvaldības oficiālajā tīmekļvietnē.
+(5) Informāciju par konsultatīvās padomes vai komisijas, izņemot komisijas, kura tiek izveidota uz citu likumu pamata, sēdes norises laiku un darba kārtību ne vēlāk kā trīs darbdienas pirms tās norises vai, ja minēto termiņu nav iespējams ievērot, nekavējoties pēc sēdes sasaukšanas publicē pašvaldības oficiālajā tīmekļvietnē, ievērojot likumā noteiktos informācijas pieejamības ierobežojumus.

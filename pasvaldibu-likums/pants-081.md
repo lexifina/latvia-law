@@ -1,0 +1,6 @@
+81. pants. Pašvaldību kopīga komisija
+(1) Pašvaldību uzdevumu vai autonomo funkciju izpildes nodrošināšanai pašvaldības var izveidot kopīgu komisiju. Lēmumu par kopīgas komisijas izveidošanu pieņem katras komisiju veidojošās pašvaldības dome.
+(2) Pašvaldību kopīgā komisija (turpmāk - kopīgā komisija) darbojas saskaņā ar nolikumu, kuru apstiprina katras komisiju veidojošās pašvaldības dome. Nolikums nosaka kopīgās komisijas kompetenci, finansēšanas, uzraudzības un likvidēšanas kārtību, kā arī kārtību, kādā notiek pašvaldības izstāšanās no kopīgās komisijas vai iestāšanās tajā, un citus kopīgās komisijas darbības jautājumus.
+(3) Publisko un privāto tiesību jomā kopīgā komisija darbojas kopīgo komisiju veidojošo publisko tiesību juridisko personu vārdā.
+(4) Kopīgo komisiju var pilnvarot pieņemt lēmumus atbilstoši tās kompetencei. Ja pašvaldības nolikumā vai citā ārējā normatīvajā aktā nav noteikts kopīgās komisijas administratīvā akta vai faktiskās rīcības apstrīdēšanas pienākums, šīs komisijas administratīvos aktus un faktisko rīcību var pārsūdzēt administratīvajā tiesā.
+(5) Par kopīgās komisijas nodarītajiem zaudējumiem publisko vai privāto tiesību jomā atbild kopīgo komisiju veidojošās pašvaldības proporcionāli to skaitam, ja pašvaldības nevienojas citādi.

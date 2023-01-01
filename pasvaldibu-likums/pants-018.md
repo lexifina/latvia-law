@@ -1,0 +1,2 @@
+18. pants. Domes priekšsēdētāja un priekšsēdētāja vietnieka tiesības atkāpties no amata
+Domes priekšsēdētājs vai priekšsēdētāja vietnieks var atkāpties no amata, rakstveidā paziņojot par to domei. Šādā gadījumā domes priekšsēdētājs vai priekšsēdētāja vietnieks turpina pildīt pienākumus līdz nākamajai domes sēdei, kad viņa pilnvaras izbeidzas neatkarīgi no tā, vai šajā sēdē tiek ievēlēts jauns domes priekšsēdētājs vai priekšsēdētāja vietnieks.

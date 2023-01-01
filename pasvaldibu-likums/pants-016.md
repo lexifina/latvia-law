@@ -1,0 +1,3 @@
+16. pants. Ierobežojumi amatu ieņemšanai domē
+(1) Par domes priekšsēdētāja vai priekšsēdētāja vietnieka amata kandidātu neizvirza domes deputātu, kuram Kriminālprocesa likumā noteiktajā kārtībā piemērots procesuālais piespiedu līdzeklis (drošības līdzeklis) - noteiktas nodarbošanās aizliegums, kas liedz pildīt domes priekšsēdētāja vai priekšsēdētāja vietnieka amata pienākumus.
+(2) Ikvienam domes deputātam ir tiesības tikt ievēlētam domes institūcijās un amatos, ja ārējos normatīvajos aktos nav noteikti ierobežojumi vai kriminālprocesā nav piemērots procesuālais piespiedu līdzeklis (drošības līdzeklis) - noteiktas nodarbošanās aizliegums, kas liedz pildīt attiecīgā amata pienākumus.

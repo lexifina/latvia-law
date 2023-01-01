@@ -1,0 +1,4 @@
+78. pants. Sadarbības veidi
+(1) Pašvaldības sadarbojas, ievērojot Valsts pārvaldes iekārtas likumā noteikto.
+(2) Pašvaldībām ir tiesības veidot kopīgas biedrības, iestādes un komisijas, kā arī iestāties tajās.
+(3) Pašvaldības un pašvaldību biedrības var sadarboties ar citu valstu pašvaldībām, to apvienībām un citām ārvalstu institūcijām, ja šāda sadarbība nav pretrunā ar normatīvajiem aktiem, starptautiskajām saistībām un atbilst vienotai valsts ārpolitikai. Pašvaldības pirms sadarbības uzsākšanas ar ārvalstu pašvaldībām, pašvaldību biedrībām un citām ārvalstu institūcijām konsultējas ar Ārlietu ministriju, ja to lūdz Ārlietu ministrija vienotas valsts ārpolitikas īstenošanai. Pašvaldībai vai pašvaldību biedrībai ir pienākums informēt Ārlietu ministriju par noslēgto sadarbības līgumu ar ārvalstu pašvaldību, pašvaldību apvienību un citām ārvalstu institūcijām.

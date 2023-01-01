@@ -1,0 +1,1 @@
+5. Dome līdz 2023. gada 30. jūnijam ieceļ pašvaldības izpilddirektora vietnieku, ievērojot šā likuma 21. pantā noteikto kārtību, ja izpilddirektora vietnieka amats ir paredzēts pašvaldības nolikumā. Ja pašvaldībā jau ir izpilddirektora vietnieks, viņa iecelšana amatā tiek izvērtēta pārejas noteikumu 4. punktā noteiktajā kārtībā.

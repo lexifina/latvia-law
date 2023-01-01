@@ -1,0 +1,5 @@
+28. pants. Domes kārtējās sēdes sasaukšana
+(1) Domes priekšsēdētājs domes kārtējo sēdi sasauc atbilstoši nepieciešamībai, bet ne retāk kā reizi mēnesī, nosakot sēdes darba kārtību, norises laiku un vietu. Šā likuma 33. panta pirmajā daļā noteiktajos gadījumos norāda, ka domes sēde notiks attālināti.
+(2) Domes deputātiem paziņo domes kārtējās sēdes darba kārtību, norises laiku un vietu pašvaldības darba reglamentā noteiktajā kārtībā. Domes lēmumu projekti, atzinumi par tiem un citi izziņas materiāli, kas noteikti pašvaldības darba reglamentā, ir pieejami domes deputātiem ne vēlāk kā trīs darbdienas pirms domes kārtējās sēdes.
+(3) Paziņojumu par domes kārtējās sēdes darba kārtību, norises laiku un vietu ne vēlāk kā trīs darbdienas pirms sēdes izliek apmeklētājiem pieejamā vietā un publicē pašvaldības oficiālajā tīmekļvietnē.
+(4) Domes lēmumu projekti ir publiski pieejami pašvaldības nolikumā noteiktajā kārtībā ne vēlāk kā trīs darbdienas pirms domes kārtējās sēdes, izņemot domes lēmumu projektus, kas ir iekļauti domes sēdes darba kārtībā pēc šā termiņa, kā arī lēmuma projektus, kas skar šā likuma 27. panta ceturtajā daļā minētos jautājumus.

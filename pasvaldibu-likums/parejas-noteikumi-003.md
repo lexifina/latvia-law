@@ -1,0 +1,1 @@
+3. Attiecībā uz pašvaldības administrācijas darbiniekiem, ar kuriem darba tiesiskās attiecības nodibinātas līdz 2022. gada 31. decembrim, šā likuma 20. panta sestā, septītā, astotā un devītā daļa ir piemērojama no 2024. gada 1. janvāra.

@@ -1,0 +1,12 @@
+20. pants. Pašvaldības administrācija
+(1) Pašvaldības administrācija ir pastarpinātā pārvalde, kuru dome izveido pašvaldībai noteikto funkciju un uzdevumu izpildes nodrošināšanai. Pašvaldības administrāciju veido pašvaldības iestādes un amatpersonas. Pašvaldības administrācijas struktūru nosaka pašvaldības nolikumā.
+(2) Dome izveido centrālo pārvaldi - pašvaldības iestādi, kas nodrošina domes un komiteju organizatorisko un tehnisko apkalpošanu un pilda citas pašvaldības nolikumā noteiktās funkcijas.
+(3) Pašvaldības administrācijas darbinieku atlīdzību nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam.
+(4) Nomainoties domei, pašvaldības administrācijas darbinieku darba attiecības netiek pārtrauktas.
+(5) Pašvaldības darbiniekus, kas ir valsts amatpersonas atbilstoši likumam "Par interešu konflikta novēršanu valsts amatpersonu darbībā", izraugās atklātā konkursā. Amata kandidātu vērtēšanas kārtību un kritērijus, tostarp kandidāta izglītības, iepriekšējās darba pieredzes un kompetences prasības, nosaka attiecīgās iestādes vadītājs, bet iestādes vadītājam - izpilddirektors. Konkursā pieņemtie lēmumi ir pašvaldības lēmumi privāto tiesību jomā.
+(6) Lai nodrošinātu labu pārvaldību, it īpaši pašvaldības uzdevumu efektīvu izpildi un sabiedrības uzticību konkrētās pašvaldības darbam, kā arī lai veicinātu darbinieka kvalifikācijas izaugsmi, darbinieku, neizsludinot atklātu konkursu un motivējot pārcelšanas pieļaujamību un lietderību, var pārcelt jebkurā citā pašvaldības amatā atbilstoši viņa spējām un kvalifikācijai uz noteiktu vai nenoteiktu laiku tajā pašā vai citā iestādē, izvērtējot darbinieka viedokli. Pārcelšanas pamatojums var būt arī darbinieka motivēts lūgums.
+(7) Šā panta sestajā daļā minētā pārcelšana citā amatā notiek:
+1) vienojoties par grozījumiem darba līgumā vai
+2) ja darbinieks pārcelšanai nepiekrīt, - pašvaldībai vienpusēji grozot darba līguma noteikumus par veicamo darbu, izņemot gadījumu, kad pašvaldība Darba likumā noteiktajā kārtībā ir uzteikusi darba līgumu sakarā ar tajā piedāvātajiem grozījumiem.
+(8) Ja darbinieku pārceļ citā amatā, pamatojoties uz šā panta sesto daļu, viņam nosaka mēnešalgu, kas nav zemāka par iepriekšējo, izņemot gadījumu, kad pārcelšanas pamatā ir darbinieka motivēts lūgums.
+(9) Darbiniekam ir tiesības pārsūdzēt pašvaldības lēmumu vienpusēji grozīt darba līguma noteikumus rajona (pilsētas) tiesā tādā pašā kārtībā un termiņos, kāda Darba likumā noteikta darba devēja uzteikuma pārsūdzēšanai.

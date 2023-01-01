@@ -1,0 +1,1 @@
+11. Ministru kabinets līdz 2023. gada 31. decembrim izdod šā likuma 82. panta ceturtajā daļā minētos noteikumus. Pašvaldību un ministriju sarunu rīkošanai 2023. gadā piemērojami Ministru kabineta 2004. gada 6. jūlija noteikumi Nr. 585 "Kārtība, kādā Ministru kabinets saskaņo ar pašvaldībām jautājumus, kas skar pašvaldību intereses", ciktāl tie nav pretrunā ar šo likumu.

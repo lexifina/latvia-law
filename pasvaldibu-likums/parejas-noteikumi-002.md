@@ -1,0 +1,1 @@
+2. Šā likuma 4. panta pirmās daļas 21. punkts daļā par pašvaldības pienākumu nodrošināt atskurbināšanas pakalpojumu pieejamību un 14. punkts daļā par pienākumu izveidot un finansēt pašvaldības policiju stājas spēkā 2024. gada 1. janvārī.

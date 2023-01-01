@@ -1,0 +1,4 @@
+59. pants. Līdzdalības budžets
+(1) Pašvaldība līdzdalības budžetu izmanto, lai veicinātu pašvaldības administratīvās teritorijas iedzīvotāju iesaisti teritorijas attīstības jautājumu izlemšanā, ievērojot šā likuma prasības. Par līdzdalības budžeta izlietojumu lemj pašvaldības administratīvās teritorijas iedzīvotāji.
+(2) Dome gadskārtējā pašvaldības budžetā paredz finansējumu līdzdalības budžetam vismaz 0,5 procentu apmērā no pašvaldības vidējiem viena gada iedzīvotāju ienākuma nodokļa un nekustamā īpašuma nodokļa faktiskajiem ieņēmumiem, kas tiek aprēķināti par pēdējiem trim gadiem.
+(3) Līdzdalības budžetu iedala līdzdalības budžeta plānošanas vienībās (teritorijās), kuras nosaka pašvaldības attīstības programmā. Līdzdalības budžeta plānošanas vienība (teritorija) var būt visa pašvaldības administratīvā teritorija.

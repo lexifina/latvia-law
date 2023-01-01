@@ -1,0 +1,7 @@
+37. pants. Domes lēmumu pieņemšana
+(1) Domes lēmums ir pieņemts, ja par to nobalso vairāk nekā puse klātesošo domes deputātu un ja likumā nav noteikts citādi.
+(2) Ja par lēmuma projektu nav saņemts nepieciešamais balsu skaits, lēmuma projekts ir noraidīts. Šādā gadījumā lēmuma projektu var iesniegt atkārtoti, ievērojot šā likuma 36. pantā noteikto.
+(3) Dome nav tiesīga grozīt lēmuma projektu, kuru iesniedz šā likuma 30. panta pirmās daļas 2. vai 3. punktā minētais subjekts, izņemot gadījumu, kad priekšlikumu grozīt lēmuma projektu iesniedz šis subjekts vai tā pilnvarots pārstāvis.
+(4) Deputāts ir uzskatāms par klātesošu balsošanā, ja viņš ir balsojis "par", "pret" vai "atturas".
+(5) Domes sēdes vadītājs paraksta domes lēmumu piecu darbdienu laikā no lēmuma pieņemšanas dienas. Ja domes sēdes vadītājs ir prombūtnē, domes lēmumu paraksta viņa pienākumu izpildītājs.
+(6) Domes sēdes vadītājam ir tiesības atteikties parakstīt domes lēmumu. Šādā gadījumā domes priekšsēdētājam ir pienākums sasaukt domes ārkārtas sēdi, kurā attiecīgais lēmums tiek izskatīts atkārtoti. Domes priekšsēdētājam un domes priekšsēdētāja vietniekam nav atļauts izmantot tiesības atteikties parakstīt domes lēmumu attiecībā uz domes lēmumu, ar kuru tiek atcelts domes priekšsēdētāja vai domes priekšsēdētāja vietnieka rīkojums, iecelts amatā vai atbrīvots no tā domes priekšsēdētājs vai domes priekšsēdētāja vietnieks.

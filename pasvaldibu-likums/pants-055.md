@@ -1,0 +1,8 @@
+55. pants. Publiskās apspriešanas norise
+(1) Publiskās apspriešanas ilgums ir vismaz 30 dienas. Pašvaldība sagatavo paziņojumu par publisko apspriešanu, norādot apspriežamo jautājumu, tā pamatojumu un apspriešanas termiņu, un ne vēlāk kā trīs darbdienas pirms publiskās apspriešanas sākuma nosūta paziņojumu publicēšanai oficiālajā izdevumā "Latvijas Vēstnesis".
+(2) Publiskajai apspriešanai nodotais dokuments un ar to saistītie pašvaldības lēmumi ir publiski pieejami visā publiskās apspriešanas laikā un vismaz vēl gadu pēc publiskās apspriešanas kopsavilkuma apstiprināšanas.
+(3) Dome nosaka kārtību, kādā tiek nodrošināta šā panta pirmajā un otrajā daļā minētās informācijas publiska pieejamība klātienē centrālās pārvaldes ēkā, pašvaldības oficiālajā tīmekļvietnē, ievērojot Ministru kabineta prasības informācijas ievietošanai tīmekļvietnē, un citās pašvaldības noteiktajās vietās.
+(4) Publiskās apspriešanas dalībniekam ir tiesības mutvārdos vai rakstveidā paust savu viedokli par apspriešanai nodoto jautājumu.
+(5) Pašvaldībai ir pienākums apkopot paustos viedokļus un sagatavot kopsavilkumu par publiskās apspriešanas rezultātiem, norādot arī vērā neņemto viedokļu noraidīšanas iemeslus. Dome vai tās pilnvarota pašvaldības institūcija apstiprina kopsavilkumu un triju darbdienu laikā to publisko šā panta trešajā daļā noteiktajā kārtībā.
+(6) Dome mēneša laikā pēc publiskās apspriešanas kopsavilkuma apstiprināšanas lemj par publiskajai apspriešanai nodoto dokumentu.
+(7) Atkārtotu publisko apspriešanu par publiskajai apspriešanai nodotu dokumentu var rīkot ne agrāk kā gadu pēc šīs publiskās apspriešanas kopsavilkuma apstiprināšanas.

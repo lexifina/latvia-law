@@ -1,0 +1,4 @@
+74. pants. Pašvaldības gada pārskats, konsolidētais gada pārskats un gada publiskais pārskats
+(1) Dome nodrošina pašvaldības gada pārskata, konsolidētā gada pārskata un gada publiskā pārskata sagatavošanu un pieejamību atbilstoši ārējo normatīvo aktu prasībām.
+(2) Dome nodrošina finanšu revīziju par gada pārskatu vai konsolidēto gada pārskatu. Gada pārskata vai konsolidētā gada pārskata revīzijai dome lemj par revīzijas pakalpojuma līguma slēgšanu ar zvērinātu revidentu vai zvērinātu revidentu komercsabiedrību un izdevumus par pakalpojumu sedz no pašvaldības budžetā paredzētajiem līdzekļiem.
+(3) Šā panta otrajā daļā minētās revīzijas apjomā atbilstoši Valsts kontroles norādījumiem iekļauj arī citus ar pašvaldības finanšu izlietojumu un rīcību saistītus jautājumus, ja par tiem Valsts kontrole ir informējusi Latvijas Zvērinātu revidentu asociāciju līdz pārskata gada 30. martam.
