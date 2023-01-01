@@ -1,1 +1,1 @@
-417. Manta, kas paliek pēc juridisku personu izbeigšanās, izņemot peļņas sabiedrības, pielīdzināma bezmantinieku mantai un piekrīt valstij, ja likums, viņu dibināšanas akts vai statūti nenosaka citādi.
+417. Manta, kas paliek pēc juridisku personu izbeigšanās, izņemot peļņas sabiedrības, pielīdzināma bezmantinieku mantai un piekrīt valstij, ja likums, viņu dibināšanas akts vai statūti nenosaka citādi. Likumā noteiktos gadījumos bezīpašnieka lieta piekrīt pašvaldībai.
