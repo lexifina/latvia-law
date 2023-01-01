@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "193",
+  "official_journal_page": null,
+  "official_journal_date": "2021-10-06",
+  "entry_into_force": "2023-01-01",
+  "notification_date": "2026-03-10",
+  "commission_reference": "MNE(2026)01665",
+  "nim_celex": "72014L0065LVA_202601665",
+  "nim_id": "202601665",
+  "transposes_celex": [
+    "32014L0065"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c782e53f-c33f-47d8-8471-2c4c29b99de4",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
