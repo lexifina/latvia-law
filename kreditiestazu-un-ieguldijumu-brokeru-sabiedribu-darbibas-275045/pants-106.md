@@ -1,4 +1,4 @@
-106.pants. Saskaņā ar šo likumu pieņemot lēmumus vai veicot tādas darbības un pasākumus, kas var ietekmēt vēl vienu vai vairākas citas dalībvalstis, Finanšu un kapitāla tirgus komisija ievēro šādas vispārējās prasības un principus:
+106.pants. Saskaņā ar šo likumu pieņemot lēmumus vai veicot tādas darbības un pasākumus, kas var ietekmēt vēl vienu vai vairākas citas dalībvalstis, Latvijas Banka ievēro šādas vispārējās prasības un principus:
 1) lēmumu pieņemšanas efektivitāte un noregulējuma izmaksu samazināšana;
 2) savlaicīga rīcība un, ja nepieciešams, rīcība steidzamības kārtībā;
 3) savstarpēja sadarbība, lai nodrošinātu, ka lēmumi tiek pieņemti un pasākumi tiek veikti koordinēti un efektīvi;

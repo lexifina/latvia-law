@@ -3,7 +3,7 @@
 (3) Nolīguma neesamība neietekmē:
 1) grupas finansiālā atbalsta sniegšanu jebkurai grupas sabiedrībai, kas nonākusi finansiālās grūtībās, ja iestāde nolemj to sniegt, vērtējot katru atsevišķo gadījumu saskaņā ar grupas politiku, un ja tas nerada risku visai grupai kopumā;
 2) grupas darbību dalībvalstī.
-(4) Neatkarīgi no nolīguma par grupas iekšējo finansiālo atbalstu Finanšu un kapitāla tirgus komisija ir tiesīga atbilstoši Kredītiestāžu likumam finanšu stabilitātes apsvērumu dēļ uzlikt ierobežojumus grupas iekšējiem darījumiem vai uzlikt par pienākumu nodalīt grupas daļas vai darbības, kas tiek veiktas grupas iekšienē.
+(4) Neatkarīgi no nolīguma par grupas iekšējo finansiālo atbalstu Latvijas Banka ir tiesīga atbilstoši Kredītiestāžu likumam finanšu stabilitātes apsvērumu dēļ uzlikt ierobežojumus grupas iekšējiem darījumiem vai uzlikt par pienākumu nodalīt grupas daļas vai darbības, kas tiek veiktas grupas iekšienē.
 (5) Nolīgums par grupas iekšējo finansiālo atbalstu var:
 1) attiekties uz vienu vai vairākām grupas meitas sabiedrībām un paredzēt mātes sabiedrības finansiālo atbalstu meitas sabiedrībām, meitas sabiedrību finansiālo atbalstu mātes sabiedrībai, finansiālo atbalstu starp grupas meitas sabiedrībām, kas ir nolīguma puses;
 2) paredzēt finansiālo atbalstu, sniedzot aizdevumu, garantijas, aktīvus to izmantošanai par nodrošinājumu vai jebkādu minēto finansiālā atbalsta veidu kopumu vienā vai vairākos darījumos, tostarp darījumos starp atbalsta saņēmēju un trešo pusi.

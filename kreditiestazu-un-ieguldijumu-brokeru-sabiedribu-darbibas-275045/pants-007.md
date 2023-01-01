@@ -1,6 +1,6 @@
-7.pants. (1) Ja Latvijas Republikā reģistrēta iestāde ir Eiropas Savienības mātes sabiedrība, tā izstrādā un iesniedz Finanšu un kapitāla tirgus komisijai grupas darbības atjaunošanas plānu. Grupas darbības atjaunošanas plāns ietver darbības atjaunošanas plānu visai Latvijas Republikā reģistrētas Eiropas Savienības mātes sabiedrības grupai kopumā. Grupas darbības atjaunošanas plānā nosaka pasākumus, kuru īstenošanu var pieprasīt Latvijas Republikā reģistrētas Eiropas Savienības mātes sabiedrības un katras atsevišķās meitas sabiedrības līmenī.
-(2) Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt, lai meitas sabiedrības izstrādā un iesniedz individuālus darbības atjaunošanas plānus.
-(3) Finanšu un kapitāla tirgus komisija nosūta grupas darbības atjaunošanas plānu:
+7.pants. (1) Ja Latvijas Republikā reģistrēta iestāde ir Eiropas Savienības mātes sabiedrība, tā izstrādā un iesniedz Latvijas Bankai grupas darbības atjaunošanas plānu. Grupas darbības atjaunošanas plāns ietver darbības atjaunošanas plānu visai Latvijas Republikā reģistrētas Eiropas Savienības mātes sabiedrības grupai kopumā. Grupas darbības atjaunošanas plānā nosaka pasākumus, kuru īstenošanu var pieprasīt Latvijas Republikā reģistrētas Eiropas Savienības mātes sabiedrības un katras atsevišķās meitas sabiedrības līmenī.
+(2) Latvijas Banka ir tiesīga pieprasīt, lai meitas sabiedrības izstrādā un iesniedz individuālus darbības atjaunošanas plānus.
+(3) Latvijas Banka nosūta grupas darbības atjaunošanas plānu:
 1) grupas sabiedrību un uzraugu kolēģijas uzraudzības institūcijām;
 2) uzraudzības institūcijām tajās dalībvalstīs, kur atrodas nozīmīgas filiāles, ciktāl darbības atjaunošanas plāns attiecas uz minēto filiāli;
 3) meitas sabiedrību noregulējuma iestādēm.

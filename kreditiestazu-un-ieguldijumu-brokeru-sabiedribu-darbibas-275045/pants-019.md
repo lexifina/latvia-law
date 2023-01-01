@@ -1,1 +1,1 @@
-19.pants. Finanšu un kapitāla tirgus komisija kā citas dalībvalsts Eiropas Savienības mātes sabiedrības meitas sabiedrības noregulējuma iestāde piedalās citas dalībvalsts Eiropas Savienības mātes sabiedrības grupas noregulējuma novērtējumā saskaņā ar šā likuma 15., 16. un 20.pantu.
+19.pants. Latvijas Banka kā citas dalībvalsts Eiropas Savienības mātes sabiedrības meitas sabiedrības noregulējuma iestāde piedalās citas dalībvalsts Eiropas Savienības mātes sabiedrības grupas noregulējuma novērtējumā saskaņā ar šā likuma 15., 16. un 20.pantu.

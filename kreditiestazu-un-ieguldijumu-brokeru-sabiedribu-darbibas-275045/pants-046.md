@@ -1,6 +1,6 @@
 46.pants. (1) Vērtējums pamatojas uz piesardzīgiem pieņēmumiem, kā arī uz saistību neizpildes risku un zaudējumu apmēru. Vērtējumā netiek iekļauts pieņēmums, ka iestādei vai finanšu sabiedrībai varētu tikt sniegts valsts atbalsts un ārkārtas likviditātes palīdzība.
 (2) Vērtējumā ņem vērā, ka gadījumā, ja tiek piemērots jebkāds noregulējuma instruments:
-1) Finanšu un kapitāla tirgus komisija un noregulējuma fonds var no noregulējamās iestādes saņemt atlīdzinājumu par visiem saprātīgajiem izdevumiem saskaņā ar šā likuma 43.panta piektajā daļā minēto;
+1) Latvijas Banka un noregulējuma fonds var no noregulējamās iestādes saņemt atlīdzinājumu par visiem saprātīgajiem izdevumiem saskaņā ar šā likuma 43.panta piektajā daļā minēto;
 2) noregulējuma fonds var iekasēt procentu maksājumus vai maksu par aizdevumiem vai garantijām, kas sniegtas noregulējamai iestādei.
 (3) Vērtējumu papildina ar šādu informāciju, kas atspoguļota iestādes vai finanšu sabiedrības grāmatvedības uzskaitē un attaisnojuma dokumentos:
 1) atjaunināto bilanci un pārskatu par iestādes vai finanšu sabiedrības finansiālo stāvokli;
