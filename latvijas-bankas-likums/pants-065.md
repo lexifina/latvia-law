@@ -1,0 +1,1 @@
+65. pants. Latvijas Banka statistiskos datus iegūst tieši no statistisko datu sniedzējiem vai netieši no administratīvajiem datu avotiem (reģistriem, datubāzēm, informācijas sistēmām un citiem informācijas avotiem).

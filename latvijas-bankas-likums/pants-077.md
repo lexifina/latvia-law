@@ -1,0 +1,16 @@
+77. pants. (1) Šā likuma 76. panta pirmajā daļā minēto ierobežotas pieejamības informāciju izplata tikai pārskata vai apkopojuma veidā, kas neļauj tieši vai netieši identificēt naudas apstrādātāju, finanšu tirgus dalībnieku, tā klientu vai citu personu vai iegūt informāciju par iekšējām procedūrām un pasākumiem, kas tiek īstenoti attiecīgo Latvijas Bankas uzdevumu izpildes nodrošināšanai. Informāciju par ārkārtas likviditātes aizdevuma piešķiršanas nosacījumiem Latvijas Banka ir tiesīga sniegt finanšu tirgus dalībniekam, kas lūdz piešķirt ārkārtas likviditātes aizdevumu.
+(2) Latvijas Banka informāciju, kuru tā ieguvusi, pildot šā likuma D sadaļā minētos uzdevumus, kā arī citu informāciju, kas ļauj identificēt finanšu tirgus dalībnieku vai tā klientu, ir tiesīga izpaust finanšu tirgus dalībnieku darbību regulējošos likumos noteiktajiem tiesību subjektiem šajos likumos minētajos gadījumos un kārtībā.
+(3) Citu šā likuma 76. panta pirmajā daļā minēto ierobežotas pieejamības informāciju Latvijas Banka ir tiesīga sniegt tādā veidā, kas ļauj tieši vai netieši identificēt naudas apstrādātāju, finanšu tirgus dalībnieku, tā klientu vai citu personu vai iegūt informāciju par iekšējām procedūrām un pasākumiem, kas tiek īstenoti attiecīgo Latvijas Bankas uzdevumu izpildes nodrošināšanai, šādos gadījumos:
+1) tiesai - naudas apstrādātāja vai finanšu tirgus dalībnieka maksātnespējas vai likvidācijas lietā pēc naudas apstrādātāja vai finanšu tirgus dalībnieka maksātnespējas vai likvidācijas pasludināšanas;
+2) izmeklēšanas iestādei, prokuratūrai un tiesai - ja šāda informācija nepieciešama krimināllietā;
+3) operatīvās darbības subjektam - atbilstoši Operatīvās darbības likumam;
+4) Valsts ieņēmumu dienestam - ja šāda informācija nepieciešama tā uzdevumu izpildei;
+5) Finanšu izlūkošanas dienestam - ja šāda informācija nepieciešama tā uzdevumu izpildei;
+6) parlamentārās izmeklēšanas komisijai - ja šāda informācija nepieciešama tās darbībai;
+7) Eiropas Centrālajai bankai un Eiropas Savienības dalībvalstu centrālajām bankām - ja šāda informācija nepieciešama Eiropas Centrālo banku sistēmas uzdevumu izpildei;
+8) Eiropas Savienības un Eiropas Savienības dalībvalstu institūcijām, tostarp Eiropas Savienības un Eiropas Savienības dalībvalstu izveidotajām koleģiālajām institūcijām un institucionālajām vienībām, kuru kompetencē ir finanšu tirgus dalībnieku, finanšu tirgu un infrastruktūras uzraudzība vai finanšu sistēmas stabilitātes veicināšana, un Eiropas Stabilitātes mehānismam - ja šāda informācija nepieciešama to uzdevumu izpildei;
+9) Eiropas Savienības dalībvalsts institūcijai vai institucionālajai vienībai, kas ir atbildīga par maksājumu sistēmu pārraudzību, - ja šāda informācija nepieciešama to uzdevumu izpildei;
+10) starptautiskajām organizācijām - ja šāda informācija nepieciešama to uzdevumu izpildei;
+11) revīzijas iestādēm - ja šāda informācija nepieciešama šā likuma 84. pantā minēto uzdevumu izpildei;
+12) citiem tiesību subjektiem - ja saņemta informācijas sniedzēja rakstveida piekrišana.
+(4) Latvijas Banka ir tiesīga izpaust šā likuma 76. panta pirmajā daļā minēto ierobežotas pieejamības informāciju, ja tas nepieciešams Latvijas Bankas uzdevumu izpildei. Lēmumu par šādas ierobežotas pieejamības informācijas izsniegšanu pieņem Latvijas Bankas padome.

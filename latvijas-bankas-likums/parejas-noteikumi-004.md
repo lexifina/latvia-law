@@ -1,0 +1,1 @@
+4. Latvijas Banka ir Finanšu un kapitāla tirgus komisijas mantas, finanšu līdzekļu, tiesību un saistību pārņēmēja saskaņā ar Latvijas Bankas padomes apstiprināto plānu Finanšu un kapitāla tirgus komisijas pievienošanai Latvijas Bankai.

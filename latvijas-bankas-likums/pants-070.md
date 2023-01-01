@@ -1,0 +1,3 @@
+70. pants. (1) Statistiskos datus, kuri netieši ļauj identificēt statistisko datu sniedzēju vai jebkuru citu personu, drīkst izmantot pētnieciskajam darbam, kas vērsts uz situācijas izpēti, analīzi, konceptuālu priekšlikumu izstrādi vai ietekmes izvērtēšanu.
+(2) Latvijas Banka nosaka prasības šā panta pirmajā daļā minēto statistisko datu saņemšanai un izmantošanai pētnieciskajam darbam un kārtību, kādā tā pētnieciskā darba vajadzībām nodrošina vai atsaka piekļuvi statistiskajiem datiem, kuri netieši ļauj identificēt statistisko datu sniedzēju vai jebkuru citu personu.
+(3) Personām, kas saņēmušas šā panta pirmajā daļā noteiktos statistiskos datus, aizliegts tos izpaust trešām personām vai izmantot neatbilstoši mērķim, kādam šie statistiskie dati pieprasīti un izsniegti.

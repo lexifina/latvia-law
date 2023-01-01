@@ -1,0 +1,1 @@
+30. pants. Latvijas Banka veic makroekonomisko analīzi, pētot un analizējot finanšu tirgus un tautsaimniecības attīstību Latvijā, citās Eiropas Savienības dalībvalstīs un ārvalstīs, kā arī veic zinātnisko un pētniecisko darbību ekonomikas un finanšu jomā.

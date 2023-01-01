@@ -1,0 +1,8 @@
+38. pants. (1) Latvijas Banka atbilstoši Statūtiem un Eiropas Centrālās bankas tiesību aktiem organizē euro banknošu izgatavošanu un piegādi, kā arī emitē euro banknotes.
+(2) Latvijas Banka organizē euro apgrozības monētu, tostarp euro piemiņas monētu, un kolekcijas monētu dizaina izveidi, izgatavošanu un piegādi, kā arī emitē tās, ievērojot Eiropas Savienības tiesību aktus un Eiropas Centrālās bankas apstiprinātu euro monētu emisijas daudzumu. Latvijas Banka informē sabiedrību par tās emitētajām euro monētām, informāciju publiskojot Latvijas Bankas tīmekļvietnē.
+(3) Latvijas Banka euro banknotes un monētas apstrādā, aizstāj un izņem no apgrozības atbilstoši Eiropas Savienības, tostarp Eiropas Centrālās bankas, tiesību aktiem.
+(4) Latvijas Banka izsniedz kredītiestādēm un pieņem no tām euro banknotes un monētas un sniedz citus saistītus pakalpojumus saskaņā ar Eiropas Savienības, tostarp Eiropas Centrālās bankas, tiesību aktiem un ievērojot Latvijas Bankas izvirzītos nosacījumus, kas ietverami līgumā. Latvijas Bankas padome var pilnvarot Latvijas Bankas padomes locekli vai darbinieku pieņemt lēmumus attiecībā uz euro banknošu un monētu izsniegšanu un pieņemšanu un citu saistītu pakalpojumu sniegšanu kredītiestādēm.
+(5) Veicinot euro skaidrās naudas pieejamību Latvijā, Latvijas Banka:
+1) monitorē, analizē un prognozē skaidrās naudas apriti Latvijā;
+2) reizi gadā sagatavo pārskatu par skaidrās naudas apriti un pieejamību Latvijā;
+3) sadarbībā ar skaidrās naudas apritē Latvijā iesaistītajiem tiesību subjektiem izstrādā un īsteno pasākumus pietiekamas euro skaidrās naudas aprites nodrošināšanai Latvijā.

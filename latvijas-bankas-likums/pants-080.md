@@ -1,0 +1,10 @@
+80. pants. (1) Lai nodrošinātu Latvijas Bankas objektu fizisko drošību, Latvijas Bankas darbinieks, kas nodrošina fizisko drošību, pildot darba pienākumus, atbilstoši kompetencei ir tiesīgs:
+1) pārbaudīt personu apliecinošus dokumentus personām, kuras vēlas iekļūt vai atrodas Latvijas Bankas objektā, kā arī lūgt, lai Latvijas Bankas objektā esoša fiziskā persona labprātīgi uzrāda personiskās mantas, transportlīdzekli vai kravu un tās atbilstību apstiprinošus dokumentus;
+2) pieprasīt, lai fiziskā persona ievēro Latvijas Bankas objektā noteikto kārtību un izbeidz prettiesisku darbību vai citu rīcību, kas apdraud Latvijas Bankas objektu drošību vai traucē darbiniekam, kas nodrošina fizisko drošību, pildīt savus darba pienākumus, vai atkarībā no fiziskās personas veiktajām darbībām lūgt attiecīgo fizisko personu atstāt Latvijas Bankas objektu vai izraidīt to no Latvijas Bankas objekta, ja fiziskā persona nepakļaujas lūgumam un turpina pārkāpt Latvijas Bankas objektā noteikto kārtību;
+3) aizturēt fizisko personu, par kuru ir aizdomas, ka tā izdarījusi likumpārkāpumu, un nekavējoties nodot to Valsts policijai;
+4) glabāt un nēsāt darba pienākumu veikšanai izsniegtos speciālos līdzekļus;
+5) lietot fizisku spēku un izmantot un pielietot darba pienākumu veikšanai izsniegtos speciālos līdzekļus atbilstoši likumam "Par policiju";
+6) nēsāt dienesta šaujamieročus;
+7) izmantot un pielietot dienesta šaujamieročus atbilstoši likumam "Par policiju";
+8) veikt bezpilota gaisa kuģa vai tāda cita veida lidaparāta, kurš nav kvalificējams kā gaisa kuģis, piespiedu nosēdināšanu vai iznīcināšanu, pielietojot gaisa telpas lietotājus neietekmējošus šaujamieročus, kas pielādēti ar tādiem elementiem, kuri nav paredzēti letālu seku radīšanai (piemēram, gumijas lodēm), vai speciālos līdzekļus un pēc iespējas veicot pasākumus, lai mazinātu iespējamu apdraudējumu personām.
+(2) Latvijas Banka izdod iekšējo normatīvo aktu, kas nosaka Latvijas Bankas valdījumā esošo ieroču, munīcijas un speciālo līdzekļu glabāšanas, nēsāšanas, pārvadāšanas, pārsūtīšanas, treniņšaušanas un remonta kārtību.

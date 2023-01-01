@@ -1,0 +1,4 @@
+79. pants. (1) Latvijas Banka nodrošina Latvijas Bankas objektu fizisko drošību.
+(2) Latvijas Bankas objekti ir Latvijas Bankas kustamā manta un banknotes un monētas, nekustamais īpašums, Latvijas Bankas padomes loceklis, darbinieks un Latvijas Bankas nekustamajā īpašumā esoša fiziskā persona, kā arī cita fiziskā persona un objekts, kura aizsardzību pret fiziskiem apdraudējumiem nepieciešams nodrošināt Latvijas Bankas rīkotā pasākuma un veiktā skaidrās naudas pārvadājuma ietvaros.
+(3) Lai nodrošinātu Latvijas Bankas objektu fizisko drošību, Latvijas Banka ir tiesīga iegādāties, glabāt, atsavināt un savā darbībā izmantot un pielietot ieročus, tostarp visu kategoriju šaujamieročus, lielas enerģijas pneimatiskos ieročus, to munīciju, kā arī speciālos līdzekļus.
+(4) Latvijas Banka skaidrās naudas pārvadājuma un nekustamā īpašuma fiziskās drošības nodrošināšanā ir tiesīga iesaistīt Nacionālos bruņotos spēkus, ievērojot Nacionālo bruņoto spēku likumā noteiktās prasības.

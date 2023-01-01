@@ -1,0 +1,2 @@
+18. pants. (1) Latvijas Bankas finanšu pārskatu sagatavošanu, Latvijas Bankas iekšējās kontroles sistēmas darbību, Latvijas Bankas iekšējā audita un Latvijas Bankas ārējo revidentu darbību pārrauga revīzijas komiteja vismaz triju locekļu sastāvā, un minēto locekļu vairākums ir neatkarīgi savu profesionālo pienākumu izpildē. Revīzijas komitejas locekļus apstiprina Latvijas Bankas padome.
+(2) Latvijas Bankas padome apstiprina iekšējo normatīvo aktu, kurā nosaka revīzijas komitejas darba organizāciju.

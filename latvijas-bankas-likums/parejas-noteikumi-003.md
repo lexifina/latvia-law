@@ -1,0 +1,1 @@
+3. Latvijas Bankas un Finanšu un kapitāla tirgus komisijas līdz šā likuma spēkā stāšanās dienai izdotie ārējie normatīvie akti, vadlīnijas un ieteikumi piemērojami līdz dienai, kad stājas spēkā attiecīgie Latvijas Bankas ārējie normatīvie akti, vadlīnijas vai ieteikumi, bet ne ilgāk kā līdz 2024. gada 31. decembrim.

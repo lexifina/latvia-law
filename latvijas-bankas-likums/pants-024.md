@@ -1,0 +1,3 @@
+24. pants. (1) Latvijas Bankas uzraudzītais finanšu tirgus dalībnieks atbilstoši attiecīgā finanšu tirgus dalībnieka darbību regulējošajam likumam veic maksājumus Latvijas Bankai, lai segtu Latvijas Bankas izdevumus, kas tieši vai netieši saistīti ar finanšu tirgus un tā dalībnieku darbības regulēšanu un uzraudzību, noregulējuma piemērošanu un kompensāciju izmaksas sistēmu nodrošināšanu.
+(2) Latvijas Banka nosaka Latvijas Bankas uzraudzīto finanšu tirgus dalībnieku maksājumu apmēru, kā arī šo maksājumu aprēķināšanas un veikšanas kārtību.
+(3) Par nokavētu vai nepilnīgu maksājumu attiecīgais Latvijas Bankas uzraudzītais finanšu tirgus dalībnieks maksā Latvijas Bankai nokavējuma naudu par katru nokavēto maksājuma dienu 0,05 procentu apmērā no nesamaksātās summas.

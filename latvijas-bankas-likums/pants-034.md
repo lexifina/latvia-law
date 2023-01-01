@@ -1,0 +1,1 @@
+34. pants. Īpašos gadījumos Latvijas Banka ir tiesīga pret atbilstošu nodrošinājumu piešķirt ārkārtas likviditātes aizdevumu maksātspējīgam Eiropas Centrālās bankas un Latvijas Bankas uzraudzītam finanšu tirgus dalībniekam ar īslaicīgām likviditātes problēmām, lai novērstu ķēdes reakciju uz pārējiem finanšu tirgus dalībniekiem vai būtiskus satricinājumus finanšu tirgū.

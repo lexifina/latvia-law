@@ -1,0 +1,1 @@
+9. Tām Finanšu un kapitāla tirgus komisijas amatpersonām un darbiniekiem, kuriem 2022. gada 31. decembrī ir spēkā esoša speciālā atļauja pieejai valsts noslēpumam un kuri ar 2023. gada 1. janvāri tiek pārcelti darbā Latvijas Bankā, attiecīgā speciālā atļauja pieejai valsts noslēpumam paliek spēkā līdz tajā norādītajam termiņam, bet ne ilgāk kā līdz 2023. gada 31. decembrim.

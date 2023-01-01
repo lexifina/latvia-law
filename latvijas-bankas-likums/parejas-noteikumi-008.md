@@ -1,0 +1,1 @@
+8. Šā likuma 13. panta trešajā daļā ietverto regulējumu ierobežojumam attiecībā uz Latvijas Bankas padomes locekļu pārvēlēšanu amatā - viena un tā pati persona var būt par Latvijas Bankas padomes locekli ne vairāk kā divus termiņus pēc kārtas - piemēro tiem Latvijas Bankas padomes locekļiem, kurus Saeima ievēlē amatā pēc šā likuma stāšanās spēkā.

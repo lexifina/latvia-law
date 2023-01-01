@@ -1,0 +1,1 @@
+44. pants. Makrouzraudzības politikas galvenais mērķis ir veicināt finanšu sistēmas stabilitāti kopumā, tostarp stiprinot finanšu sistēmas noturību pret satricinājumiem un ierobežojot sistēmisko risku veidošanos, tādējādi nodrošinot ilgtspējīgu finanšu sistēmas pienesumu tautsaimniecībai.

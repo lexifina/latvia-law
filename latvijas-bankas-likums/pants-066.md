@@ -1,0 +1,3 @@
+66. pants. (1) Statistisko datu sniedzējam ir pienākums sagatavot un sniegt Latvijas Bankai patiesus statistiskos datus atbilstoši šā likuma 63. panta otrās daļas prasībām un kārtībai vai pēc Latvijas Bankas pamatota pieprasījuma.
+(2) Latvijas Banka statistisko datu pieprasījumā norāda pieprasījuma tiesisko pamatu, statistisko datu apjomu, izsniegšanas veidu un šajā likumā noteiktās statistisko datu un statistiskās informācijas aizsardzības prasības.
+(3) Statistisko datu sniedzējam ir tiesības vērsties Latvijas Bankā ar pamatotu pieprasījumu un iepazīties ar statistiskajiem datiem, kas par viņu ir savākti un glabājas Latvijas Bankas informācijas sistēmās, kā arī lūgt, lai tos precizē.

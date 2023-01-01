@@ -1,0 +1,2 @@
+22. pants. (1) Latvijas Bankas finanšu pārskata gads sākas 1. janvārī un beidzas 31. decembrī.
+(2) Latvijas Banka sagatavo finanšu pārskatus atbilstoši Eiropas Centrālo banku sistēmai saistošajiem Eiropas Centrālās bankas tiesību aktiem par grāmatvedību un finanšu pārskatiem. Latvijas Banka, ievērojot Eiropas Centrālās bankas tiesību aktus, izdod iekšējo normatīvo aktu, kurā nosaka papildu prasības finanšu pārskatu sagatavošanai. Finanšu pārskatus un gada pārskatu apstiprina Latvijas Bankas padome.

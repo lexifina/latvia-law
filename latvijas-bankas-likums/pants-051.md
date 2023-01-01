@@ -1,0 +1,2 @@
+51. pants. (1) Latvijas Banka reizi ceturksnī savā tīmekļvietnē publicē apkopotu informāciju par situāciju finanšu tirgū iepriekšējā ceturksnī.
+(2) Latvijas Banka sniedz Finanšu ministrijai informāciju par Latvijas Bankas uzraudzītu finanšu tirgus dalībnieku atbilstoši Latvijas Bankas uzraudzīto finanšu tirgus dalībnieku darbību regulējošiem normatīvajiem aktiem, kā arī nekavējoties informē Finanšu ministriju par finanšu sistēmas būtisku apdraudējumu.
