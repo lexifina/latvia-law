@@ -3,6 +3,7 @@
 (2) Ar nekustamā īpašuma nodokli neapliek:
 1) pašvaldības nekustamo īpašumu, kuru lieto pašvaldības dome, kā arī tās izveidotās iestādes, kuras tiek finansētas no pašvaldības budžeta līdzekļiem un atrodas šīs pašvaldības administratīvajā teritorijā, kā arī citām personām iznomāto vai valdījumā nodoto pašvaldības nekustamo īpašumu, kurš tiek izmantots medicīnas vai sociālās aprūpes pakalpojumu sniegšanai, un nekustamo īpašumu, kas radīts, īstenojot privātās un publiskās partnerības projektu, un tiek lietots pašvaldības funkciju izpildes nodrošināšanai, kā arī sociālās dzīvojamās mājas un sociālos dzīvokļus;
 1¹) (izslēgts ar 23.11.2000. likumu);
+1²) (punkts stājas spēkā 01.01.2024. un iekļauts likuma redakcijā uz 01.01.2024.. Sk. pārejas noteikumu 76. punktu);
 2) ārvalstij piederošo nekustamo īpašumu, kurš tiek izmantots tās diplomātisko vai konsulāro pārstāvniecību vajadzībām, ja Latvijas Republika saskaņā ar attiecīgās ārvalsts likumiem bauda tādas pašas tiesības attiecībā uz Latvijai piederošo nekustamo īpašumu šajā ārvalstī;
 2¹) līdz 2006.gada 31.decembrim - koplietošanas satiksmes ceļus, ielas, gaisa un ūdens navigācijas būves un publiskos ūdeņus;
 3) no 2007.gada 1.janvāra - publiskos ūdeņus un zemi zem koplietošanas šosejām, ceļiem, pazemes ceļiem, tuneļiem, ielām, dzelzceļa sliežu ceļiem, pilsētas sliežu ceļiem, tiltiem, estakādēm;
