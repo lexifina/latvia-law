@@ -8,7 +8,7 @@ c) valsts kompetentas iestādes izsniegts dokuments, kas apliecina, ka uz atbild
 2) apdrošināšanas aģenta firma (vārds un uzvārds - fiziskajai personai, kura Valsts ieņēmumu dienesta nodokļu maksātāju reģistrā reģistrēta kā saimnieciskās darbības veicējs), reģistrācijas numurs, juridiskā adrese (saimnieciskās darbības vietas adrese), tālruņa numurs, elektroniskā pasta adrese un tīmekļvietnes adrese, kur nodrošināta publiska pieejamība šajā likumā noteiktajai informācijai;
 3) to akcionāru vai dalībnieku saraksts, kuriem apdrošināšanas aģentā ir būtiska līdzdalība, norādot līdzdalības apjomu;
 4) to personu saraksts, ar kurām apdrošināšanas aģentam ir ciešas attiecības;
-5) apliecinājums, ka šīs daļas 3. un 4. punktā minētā būtiskā līdzdalība un ciešās attiecības neierobežo Komisijas iespējas veikt uzraudzības funkcijas;
+5) apliecinājums, ka šīs daļas 3. un 4. punktā minētā būtiskā līdzdalība un ciešās attiecības neierobežo Latvijas Bankas iespējas veikt uzraudzības funkcijas;
 6) ar kredītiestādi noslēgtā līguma par atsevišķa naudas konta atvēršanu kopija, kurā norādīts, ka kontā esošie naudas līdzekļi ir apdrošināšanas aģenta darbības rezultātā iegūtie naudas līdzekļi saskaņā ar šā likuma 31. panta prasībām, un ziņas par procedūru, kādā tiks nodrošināta no klientiem saņemto līdzekļu ieskaitīšana atsevišķā naudas kontā kredītiestādē. Šā punkta prasības attiecas uz apdrošināšanas aģentiem, kas plāno saņemt apdrošināšanas prēmijas vai citus maksājumus saskaņā ar noslēgto apdrošināšanas līgumu;
 7) ziņas par procedūru, kādā apdrošināšanas aģents nodrošina šā likuma 16. panta prasību izpildi;
 8) ziņas par informācijas sistēmas aizsardzības procedūru;

@@ -1,5 +1,5 @@
 6. pants. Apdrošināšanas un pārapdrošināšanas brokeru reģistrā, apdrošināšanas aģentu reģistrā un apdrošināšanas papildpakalpojuma starpnieku reģistrā ierakstāmās personas
-(1) Komisija apdrošināšanas un pārapdrošināšanas brokeru reģistrā ieraksta:
+(1) Latvijas Banka apdrošināšanas un pārapdrošināšanas brokeru reģistrā ieraksta:
 1) Uzņēmumu reģistra komercreģistrā ierakstītu kapitālsabiedrību;
 2) ārvalsts apdrošināšanas vai pārapdrošināšanas brokera filiāli.
 (2) Apdrošināšanas komersants vai ārvalsts apdrošinātāja filiāle ieraksta apdrošināšanas aģentu reģistrā šādas personas:

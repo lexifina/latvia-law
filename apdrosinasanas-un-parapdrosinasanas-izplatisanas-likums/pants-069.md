@@ -1,9 +1,9 @@
 69. pants. Ziņošana par iespējamiem un faktiskiem šā likuma pārkāpumiem
-(1) Par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem ikviena persona var ziņot Komisijai.
-(2) Komisija izveido un uztur efektīvu un uzticamu ziņošanas sistēmu, kas ietver vismaz šādus elementus:
+(1) Par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Latvijas Bankas noteikumu un Regulas Nr. 1286/2014 pārkāpumiem ikviena persona var ziņot Latvijas Bankai.
+(2) Latvijas Banka izveido un uztur efektīvu un uzticamu ziņošanas sistēmu, kas ietver vismaz šādus elementus:
 1) kārtību, kādā tiek saņemti ziņojumi par pārkāpumiem un kādā veicama turpmākā rīcība;
 2) saskaņā ar normatīvajiem aktiem par fizisko personu datu aizsardzību - tādas personas datu aizsardzību, kura ziņo par pārkāpumu, kā arī tādas fiziskās personas datu aizsardzību, kura tiek turēta aizdomās par pārkāpuma izdarīšanu;
 3) noteikumus par tās personas konfidencialitātes nodrošināšanu, kura ziņo par pārkāpumu, izņemot gadījumu, kad šādu ziņu izpaušanu paredz Latvijas Republikas tiesību akti.
-(3) Kārtību, kādā tiek ziņots par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Komisijas normatīvo noteikumu un Regulas Nr. 1286/2014 pārkāpumiem un kādā Komisijas ziņošanas sistēmā saņemtie ziņojumi tiek apstrādāti, nosaka Komisijas normatīvie noteikumi.
+(3) Kārtību, kādā tiek ziņots par iespējamiem un faktiskiem šā likuma, uz šā likuma pamata izdoto Latvijas Bankas noteikumu un Regulas Nr. 1286/2014 pārkāpumiem un kādā Latvijas Bankas ziņošanas sistēmā saņemtie ziņojumi tiek apstrādāti, nosaka Latvijas Bankas normatīvie noteikumi.
 (4) Ziņošana, kuru saskaņā ar šā panta pirmo daļu veic apdrošināšanas vai pārapdrošināšanas izplatītāja un ārvalsts apdrošināšanas starpnieka filiāles darbinieks, nav uzskatāma par līgumā un jebkurā normatīvajā aktā noteiktā informācijas izpaušanas aizlieguma pārkāpumu, un persona nav atbildīga par šādu ziņošanu. Pret personām, kuras ziņo par pārkāpumiem, nedrīkst vērst diskriminējošas vai citas netaisnīgas darbības.
 (5) Apdrošināšanas izplatītājs un ārvalsts apdrošināšanas starpnieka filiāle, kas sniedz rekomendācijas par apdrošināšanas ieguldījumu produktu, to izstrādā vai pārdod, izstrādā iekšējo procedūru, kas ietver kārtību, kādā darbinieki tam ziņo par Regulas Nr. 1286/2014 pārkāpumiem apdrošināšanas izplatītājā vai ārvalsts apdrošināšanas starpnieka filiālē.

@@ -7,4 +7,4 @@
 (2) Apdrošināšanas komersants vai ārvalsts apdrošinātāja filiāle veic izmaiņas apdrošināšanas aģentu reģistrā piecu dienu laikā pēc šā likuma 11. panta ceturtajā daļā minētās informācijas saņemšanas.
 (3) Apdrošināšanas komersants vai ārvalsts apdrošinātāja filiāle ir atbildīga par apdrošināšanas aģentu reģistrā ierakstīto ziņu pareizību un pilnīgumu.
 (4) Apdrošināšanas aģentu reģistrs ir publiski pieejams, tam ir publiska ticamība, un jebkurai personai ir tiesības iepazīties ar to apdrošināšanas komersanta vai ārvalsts apdrošinātāja filiāles tīmekļvietnē.
-(5) Komisija publicē savā mājaslapā to apdrošināšanas komersantu un ārvalsts apdrošinātāju filiāļu sarakstu, kuri uztur apdrošināšanas aģentu reģistru, ar norādi uz apdrošināšanas komersantu un ārvalsts apdrošinātāju filiāļu tīmekļvietnēm, kurās pieejams apdrošināšanas aģentu reģistrs.
+(5) Latvijas Banka publicē savā mājaslapā to apdrošināšanas komersantu un ārvalsts apdrošinātāju filiāļu sarakstu, kuri uztur apdrošināšanas aģentu reģistru, ar norādi uz apdrošināšanas komersantu un ārvalsts apdrošinātāju filiāļu tīmekļvietnēm, kurās pieejams apdrošināšanas aģentu reģistrs.
