@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 10. janvāra noteikumi Nr. 3 \"Nacionālais radiofrekvenču plāns\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "9",
+  "official_journal_page": null,
+  "official_journal_date": "2023-01-12",
+  "entry_into_force": "2023-01-13",
+  "notification_date": "2024-04-23",
+  "commission_reference": "MNE(2024)01892",
+  "nim_celex": "72014L0053LVA_202401892",
+  "nim_id": "202401892",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f4a22985-1178-494b-ab08-d88abf328797",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
