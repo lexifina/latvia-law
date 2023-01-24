@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 17. janvāra Ministru kabineta noteikumi Nr. 26 \"Grozījumi Ministru kabineta 2011. gada 15. februāra noteikumos Nr. 132 \"Rotaļlietu drošuma noteikumi\"\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "16",
+  "official_journal_page": null,
+  "official_journal_date": "2023-01-23",
+  "entry_into_force": "2023-01-24",
+  "notification_date": "2023-01-23",
+  "commission_reference": "MNE(2023)00528",
+  "nim_celex": "72021L0903LVA_202300528",
+  "nim_id": "202300528",
+  "transposes_celex": [
+    "32021L0903"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6eaef5ef-9e22-11ed-b508-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
