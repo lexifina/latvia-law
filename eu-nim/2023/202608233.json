@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2023. gada 1. februāra lēmums Nr. 1/1 \"Noteikumi par dabasgāzes sadales sistēmas attīstības plānu\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "26",
+  "official_journal_page": null,
+  "official_journal_date": "2023-02-06",
+  "entry_into_force": "2023-02-07",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08233",
+  "nim_celex": "72024L1788LVA_202608233",
+  "nim_id": "202608233",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e7b63798-7a8c-4b7b-9501-eb573fdc7bc9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
