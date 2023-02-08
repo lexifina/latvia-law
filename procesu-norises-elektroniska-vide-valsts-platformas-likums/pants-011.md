@@ -7,6 +7,7 @@
 4) ģenerālprokurors.
 (3) Tieslietu ministrs ir E-lietas uzraudzības padomes priekšsēdētājs.
 (4) E-lietas uzraudzības padomes sēdē bez balsstiesībām ar padomdevēja tiesībām var piedalīties finanšu ministrs.
+(4¹) E-lietas uzraudzības padomes loceklis vai finanšu ministrs dalībai E-lietas uzraudzības padomes sēdē var norīkot citu personu. Pirms E-lietas uzraudzības padomes sēdes E-lietas uzraudzības padomes loceklis vai finanšu ministrs iesniedz Tieslietu ministrijai informāciju par norīkoto personu.
 (5) Pēc E-lietas uzraudzības padomes priekšsēdētāja uzaicinājuma padomes sēdē var piedalīties arī citu valsts institūciju amatpersonas un darbinieki, nevalstisko organizāciju pārstāvji, eksperti un citi speciālisti.
 (6) Ministru kabinets:
 1) nosaka E-lietas uzraudzības padomes funkcijas un darba organizāciju;
