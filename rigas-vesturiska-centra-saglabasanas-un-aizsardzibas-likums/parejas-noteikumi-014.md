@@ -1,0 +1,1 @@
+14. Pēc tam, kad stājas spēkā šā likuma grozījumi attiecībā uz Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas plānojumu, Rīgas dome veic nepieciešamos pasākumus, lai jauns Rīgas vēsturiskā centra plānojums tiktu izstrādāts un apstiprināts ne vēlāk kā līdz 2028. gada 31. decembrim.

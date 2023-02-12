@@ -3,4 +3,4 @@
 2) kultūrvēsturiskā vide - cilvēces attīstības gaitā apzinātas darbības rezultātā radīta vieta, ja tai vai atsevišķiem tās elementiem ir vēsturiska, zinātniska, mākslinieciska, ainaviska vai citāda saglabājama kultūras vērtība;
 3) kultūrvēsturiskās vides pārveidošana - jebkura tehniska, būvnieciska, saimnieciska darbība, kuras rezultātā tiek fiziski mainīta kultūrvēsturiskā vide (tās funkcija, forma, krāsa, atsevišķas detaļas, materiāls), kā arī cita kultūras vērtība;
 4) publiskā ārtelpa - ielas, bulvāri, laukumi, parki, skvēri, krastmalas, kvartālu telpa, pagalmi, kas bez ierobežojumiem pieejami sabiedrībai neatkarīgi no tā, kā īpašumā tie atrodas;
-5) Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas plānojums - teritorijas plānošanas dokuments vai plānošanas dokumentu kopums, kurš izstrādāts šajā likumā un citos normatīvajos aktos noteiktajā kārtībā.
+5) Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas plānojums - teritorijas attīstības plānošanas dokuments, kas izstrādāts šajā likumā un citos normatīvajos aktos noteiktajā kārtībā un nosaka prasības Rīgas vēsturiskā centra un tā aizsardzības zonas teritorijas izmantošanai un apbūvei.
