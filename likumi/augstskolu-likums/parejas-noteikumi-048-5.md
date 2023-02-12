@@ -1,0 +1,1 @@
+48.⁵ Ventspils Augstskolas studiju virziena "Informācijas tehnoloģijas, datortehnika, elektronika, telekomunikācijas, datorvadība un datorzinātne" akreditācijas termiņš - 2023. gada 24. aprīlis - tiek pagarināts līdz brīdim, kad tiek pieņemts lēmums par šā studiju virziena jaunu akreditāciju vai lēmums par atteikumu to akreditēt, bet ne ilgāk kā līdz 2023. gada 31. decembrim.
