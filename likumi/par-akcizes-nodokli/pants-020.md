@@ -19,13 +19,13 @@ b) dokumentu, kas noteikts Padomes 2011.gada 15.marta Īstenošanas regulas (ES)
 2) akcīzes preču noliktavām Latvijas Republikā, ievērojot šādus nosacījumus:
 a) akcīzes preču nosūtītājs izmanto dokumentu, kas noteikts regulas Nr. 282/2011 II pielikumā un kas apliecina, ka minētās akcīzes preces ir atbrīvotas no akcīzes nodokļa,
 b) akcīzes preču nosūtītājs noformē attaisnojuma dokumentu atbilstoši normatīvajiem aktiem par akcīzes preču apriti,
-c) par akcīzes preču iegādi tiek veikti bezskaidras naudas norēķini,
+c) (izslēgts ar 13.10.2022. likumu),
 d) (izslēgts ar 23.11.2016. likumu).
 (3) Šā panta pirmajā daļā minētajiem subjektiem citās dalībvalstīs ir atļauts saņemt akcīzes preces no Latvijas Republikas, piemērojot tām atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.pantu.
 (4) Ja šā panta pirmajā daļā minētie subjekti, kas atrodas Latvijas Republikā, iegādājas akcīzes preces Latvijas Republikā, nodokli atmaksā Ministru kabineta noteiktajā kārtībā, ievērojot šā panta sestajā, septītajā, astotajā, devītajā un desmitajā daļā noteikto.
 (5) No nodokļa ir atbrīvotas akcīzes preces, kas šā panta pirmajā daļā minēto subjektu vajadzībām tiek ievestas Latvijas Republikā laišanai brīvā apgrozībā saskaņā ar normatīvajiem aktiem muitas jomā no ārvalsts, kura nav dalībvalsts, vai no šā likuma 2.panta 3.¹ daļā minētās teritorijas, ievērojot šādus nosacījumus:
 1) akcīzes preču nosūtītājs izmanto dokumentu, kas noteikts regulas Nr. 282/2011 II pielikumā un kas apliecina, ka minētās akcīzes preces ir atbrīvotas no akcīzes nodokļa;
-2) par akcīzes preču iegādi tiek veikti bezskaidras naudas norēķini;
+2) (izslēgts ar 13.10.2022. likumu);
 3) (izslēgts ar 23.11.2016. likumu).
 (6) Šajā pantā noteikto nodokļa atbrīvojumu vai atmaksu piemēro par šādu maksimālo akcīzes preču daudzumu:
 1) degviela - 250 litri mēnesī uz katru transportlīdzekli, kas reģistrēts Latvijas Republikā uz šā panta pirmās daļas 1., 2., 3., 4., 5. un 7. punktā minētā subjekta vārda, kā arī uz šā panta pirmās daļas 6., 6.¹ un 8. punktā minētās civilpersonas vārda;

@@ -1,0 +1,10 @@
+11.¹ pants. Nosūtītājs tālpārdošanā
+(1) Nosūtītājam tālpārdošanā ir nepieciešama speciālā atļauja (licence) alkoholisko dzērienu mazumtirdzniecībai atbilstoši šā likuma 2. panta sestās daļas 5. punktam.
+(2) Nosūtītājs tālpārdošanā atsevišķi uzskaita, reģistrē akcīzes preces, kuras tiek nosūtītas uz citas dalībvalsts teritoriju saskaņā ar šā likuma 26.¹ panta pirmo daļu, un atbild par visām šīm precēm.
+(3) Nosūtītājs tālpārdošanā, kas veic alkoholisko dzērienu tālpārdošanu, ievēro Alkoholisko dzērienu aprites likumā noteiktās prasības par tīmekļvietnes vai mobilās lietotnes reģistrāciju alkoholisko dzērienu mazumtirdzniecībai ar distances līgumu.
+(4) Citas dalībvalsts nosūtītājs tālpārdošanā, kas veic patstāvīgu saimniecisko darbību citas dalībvalsts teritorijā, atbild par nodokļa samaksu Latvijas Republikā un ievēro citas šajā likumā noteiktās prasības attiecībā uz tām akcīzes precēm, kuras tas saskaņā ar šā likuma 26.¹ panta otro daļu nosūta vai cita persona viņa uzdevumā tieši vai netieši nosūta vai ved uz Latvijas Republiku, ja citas dalībvalsts nosūtītājs tālpārdošanā nav iecēlis nodokļa maksātāja pārstāvi Latvijas Republikā.
+(5) Citas dalībvalsts nosūtītājs tālpārdošanā ievēro šādas prasības:
+1) pirms akcīzes preču nosūtīšanas reģistrējas Valsts ieņēmumu dienestā kā nodokļu maksātājs un, ja veic darbības ar alkoholiskajiem dzērieniem, iesniedz šā likuma 31. pantā noteikto vispārējo nodrošinājumu, izmantojot drošības naudu;
+2) veic piegādāto akcīzes preču uzskaiti (ietverot piegādes datumu, akcīzes preču veidu, daudzumu atbilstoši šajā likumā noteiktajai nodokļa likmei un aprēķināto nodokli).
+(6) Citas dalībvalsts nosūtītājam tālpārdošanā ir tiesības iecelt šā likuma 11.² pantā minēto nodokļa maksātāja pārstāvi Latvijas Republikā, kurš citas dalībvalsts nosūtītāja tālpārdošanā vietā atbild par nodokļa samaksu Latvijas Republikā un citu šajā likumā noteikto prasību izpildi.
+(7) Ja citas dalībvalsts nosūtītāja tālpārdošanā ieceltais nodokļa maksātāja pārstāvis Latvijas Republikā nesamaksā nodokli saskaņā ar šo likumu, par nodokļa samaksu Latvijas Republikā atbild citas dalībvalsts nosūtītājs tālpārdošanā.

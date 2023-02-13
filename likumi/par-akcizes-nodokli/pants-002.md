@@ -1,8 +1,17 @@
 2.pants. Likuma darbības joma
 (1) Šis likums nosaka kārtību, kādā akcīzes preces apliek ar akcīzes nodokli (turpmāk - nodoklis), un tas attiecas uz akcīzes precēm neatkarīgi no to izcelsmes, ar kurām Latvijas Republikā tiek veiktas likumā noteiktās darbības.
+(1¹) Akcīzes preces apliek ar nodokli šādos gadījumos:
+1) preces ražo vai ieved, vai saņem no citas dalībvalsts;
+2) preces importē vai nelikumīgi ieved.
+(1²) Nodoklis kļūst iekasējams brīdī, kad preces nodod patēriņam Latvijas Republikā.
+(1³) Akcīzes preču nodošana patēriņam nozīmē:
+1) akcīzes preču novirzīšanu, arī nelikumīgu novirzīšanu, no atliktās nodokļa maksāšanas režīma;
+2) tādu akcīzes preču uzglabāšanu, arī pārkāpumu gadījumos, nepiemērojot atliktās nodokļa maksāšanas režīmu, par kurām nav iekasēts nodoklis saskaņā ar šo likumu;
+3) akcīzes preču ražošanu, arī pārstrādi un nelikumīgu ražošanu vai pārstrādi, nepiemērojot atliktās nodokļa maksāšanas režīmu;
+4) akcīzes preču importu, izņemot gadījumu, ja attiecīgajām akcīzes precēm uzreiz pēc importa piemēro atliktās nodokļa maksāšanas režīmu, vai akcīzes preču nelikumīgu ievešanu, izņemot gadījumus, kad saskaņā ar Padomes regulas Nr. 952/2013 124. panta 1. punkta "e", "f", "g" un "k" apakšpunktu tika dzēsts muitas parāds. Ja muitas parāds ir dzēsts saskaņā ar Padomes regulas Nr. 952/2013 124. panta 1. punkta "e" apakšpunktu, piemēro šā likuma 33. panta septīto daļu.
 (2) Atsevišķi šā likuma nosacījumi neattiecas uz darbībām ar:
 1) bezalkoholiskajiem dzērieniem un kafiju - šā likuma 8. panta piektā daļa, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa un 26., 31. un 32. pants;
-2) dabasgāzi - šā likuma 2. panta sestā un septītā daļa, 8. pants, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. pants, izņemot tā septiņpadsmito un astoņpadsmito daļu, 26. pants, izņemot tā 1.² daļu, un 31. un 32. pants;
+2) dabasgāzi - šā likuma 2. panta sestā un septītā daļa, 8. panta piektā daļa, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. pants, izņemot tā septiņpadsmito un astoņpadsmito daļu, 26. pants, izņemot tā vienpadsmito daļu, un 31. un 32. pants;
 3) uztura bagātinātājiem, kuri satur etilspirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību, - šā likuma 2. panta sestā un septītā daļa un 8., 20., 25., 26., 27., 31. un 32. pants;
 4) elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu, elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām un tabakas aizstājējproduktiem - šā likuma 8. panta piektā daļa, 20. panta otrās daļas 1. punkta "a" apakšpunkts, 25. panta pirmā, otrā, trešā, ceturtā, piektā, sestā, septītā, astotā, devītā un desmitā daļa un 31. un 32. pants.
 (2¹) Šā likuma nosacījumi (tajā skaitā par nodokļa samaksu, dokumentu iesniegšanu un citi) neattiecas uz tādu akcīzes preču uzglabāšanu, pārvietošanu un iznīcināšanu, kuras ir lietiskais pierādījums vai arestētā manta kriminālprocesā, izņemtā manta administratīvo pārkāpumu lietā vai valstij piekritīgā manta.
@@ -20,7 +29,12 @@
 4) Francijas Republikā - uz Francijas Republikas aizjūras departamentiem, tajā skaitā Majotu;
 5) Somijas Republikā - uz Ālandu salām;
 6) (izslēgts ar 21.10.2021. likumu).
-(4) Šā likuma nosacījumi par akcīzes preču uzglabāšanu, atlikto nodokļa maksāšanu, pārvietošanu, nosūtīšanu, saņemšanu, ražošanu, apstrādi, pārstrādi, fasēšanu, naftas produktu sajaukšanu, akcīzes nodokļa marku, speciālās atļaujas (licences) un nodrošinājuma nepieciešamību neattiecas uz akcīzes precēm, kuras ieved Savienības muitas teritorijā pagaidu glabāšanā, brīvās zonās vai brīvās noliktavās vai kurām piemēro Padomes regulas Nr. 952/2013 210.pantā minētās īpašas procedūras.
+(4) Šā likuma nosacījumi par akcīzes preču uzglabāšanu, atlikto nodokļa maksāšanu, pārvietošanu, nosūtīšanu, saņemšanu, ražošanu, apstrādi, pārstrādi, fasēšanu, naftas produktu sajaukšanu, akcīzes nodokļa marku, speciālās atļaujas (licences) un nodrošinājuma nepieciešamību neattiecas uz akcīzes precēm, kuras ieved Savienības muitas teritorijā pagaidu glabāšanā, brīvās zonās vai brīvās noliktavās vai kurām piemēro Padomes regulas Nr. 952/2013 210.pantā minētās īpašas procedūras, vai kurām ir ārpussavienības preču statuss saskaņā ar Padomes regulas Nr. 952/2013 5. panta 24. punktā noteikto definīciju.
+(4¹) Nosacījumi, kas noteikti saskaņā ar Padomes regulu Nr. 952/2013, attiecībā uz akcīzes preču ievešanu Savienības teritorijā vai uz izvešanu no Savienības teritorijas attiecas arī uz šādām teritorijām:
+1) Kanāriju salas;
+2) Francijas teritorijas, kas minētas Līguma par Eiropas Savienības darbību 349. pantā un 355. panta 1. punktā;
+3) Ālandu salas;
+4) Normandijas salas.
 (5) (Izslēgta ar 01.12.2009. likumu)
 (6) Speciāla atļauja (licence) nepieciešama šādām konkrētām darbībām ar akcīzes precēm:
 1) apstiprināta noliktavas turētāja darbībai;
@@ -35,7 +49,8 @@
 (7) Ministru kabinets nosaka akcīzes preču aprites kārtību, tajā skaitā:
 1) licences izsniegšanas, pārreģistrācijas, anulēšanas, apturēšanas un izmantošanas kārtību, kā arī kārtību, kādā izsniedz atļauju akcīzes preču atlikumu pārvietošanai, realizācijai vai iznīcināšanai, valsts nodevas likmi un maksāšanas kārtību par speciālās atļaujas (licences) izsniegšanu un pārreģistrāciju;
 2) citas prasības apstiprināta noliktavas turētāja, reģistrēta nosūtītāja un reģistrēta saņēmēja darbībai;
-3) prasības importētāja, īslaicīgi reģistrēta saņēmēja un pārsūtītājtirgotāja darbībai;
+3) prasības importētāja un īslaicīgi reģistrēta saņēmēja darbībai;
+3¹) prasības sertificēta nosūtītāja, īslaicīgi sertificēta nosūtītāja, sertificēta saņēmēja un īslaicīgi sertificēta saņēmēja darbībai;
 4) citas prasības saskaņā ar šo likumu.
 (7¹) Ministru kabinets nosaka dabasgāzes aprites kārtību, tajā skaitā:
 1) speciālas atļaujas (licences) darbībām ar dabasgāzi izsniegšanas, pārreģistrācijas, anulēšanas un izmantošanas kārtību, kā arī valsts nodevas likmi un maksāšanas kārtību par speciālas atļaujas (licences) izsniegšanu un pārreģistrāciju;

@@ -1,0 +1,3 @@
+145. Ministru kabinets līdz 2023. gada 31. decembrim izdod šā likuma 25. panta devītajā daļā, 26. panta septītajā un septiņpadsmitajā daļā un 26.¹ panta sestajā daļā minētos noteikumus. Līdz minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2010. gada 30. marta noteikumi Nr. 307 "Akcīzes preču elektroniskā administratīvā dokumenta aprites un kontroles kārtība";
+2) Ministru kabineta 2022. gada 11. janvāra noteikumi Nr. 9 "Kārtība, kādā par akcīzes precēm samaksāto akcīzes nodokli pārskaita nodokļu parādu segšanai vai turpmākajiem nodokļu maksājumiem vai atmaksā".

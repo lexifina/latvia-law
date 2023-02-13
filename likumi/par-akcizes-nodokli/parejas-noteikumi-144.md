@@ -1,0 +1,1 @@
+144. Lai nodrošinātu šo pārejas noteikumu 143. punktā minētās prasības izpildi, Ministru kabineta 2010. gada 12. oktobra noteikumi Nr. 957 "Vienkāršoto akcīzes preču pavaddokumentu aprites un kontroles kārtība" ir piemērojami līdz 2023. gada 31. decembrim.
