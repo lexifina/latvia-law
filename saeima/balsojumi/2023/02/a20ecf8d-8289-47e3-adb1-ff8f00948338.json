@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada ziemas sesija",
+ "sede": 14,
+ "datums": "2023-02-17",
+ "ieraksts": {
+  "dkp_id": "39eaee27-caec-4d1a-9a7b-4a68f114c169",
+  "lastmodtime": "\"AAAAAAIKCb4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Andris#Ričards#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Viktorija#Zanda#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Česlavs#Atis#Jānis#Viktorija#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Kaspars#Ramona#Jānis#Linda#Vilis#Atis#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Kulbergs#Šlesers#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Baire#Kalniņa-Lukaševica#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Pleškāne#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Briškens#Petraviča#Patmalnieks#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "##############################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ST!#JV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#AS#LPV#AS#ST!#LPV#PRO#JV#NA#JV#NA#PRO#JV#JV#AS#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#LPV#ZZS#ST!#LPV#AS#JV#ST!#NA#ST!#AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#AS#JV#NA#ST!#NA#AS#ZZS#AS#JV#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#PRO#LPV#JV#LPV#LPV#PRO#NA#JV#ZZS#PRO#JV#JV#AS#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.02.2023 09:10:04",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījums likumā “Par sociālo drošību” (132/Lp14), 1.lasījums",
+  "VOTING_ID": "a20ecf8d-8289-47e3-adb1-ff8f00948338",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "95",
+  "VOTERESULT_REGISTERED": "95",
+  "VOTE_NUMBER": "12",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada ziemas sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/73fab396-6914-40f0-b40f-8ff570f41c54/download/14.saeimas-2023.gada-ziemas-sesija-14-vote.xml",
+  "sha256": "5af555026561913c0249f1ef31865511b9644c18102d0cd813d2b9693db37c50",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
