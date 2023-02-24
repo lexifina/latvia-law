@@ -1,1 +1,0 @@
-6. No 2021. gada 1. janvāra līdz 2023. gada 30. aprīlim personai, kura sasniegusi 15 gadu vecumu un kurai izsniegta tikai pase, ir pienākums saņemt arī personas apliecību. Šo pārejas noteikumu 5. punkta otrajā teikumā minētajām personām pienākums saņemt personas apliecību ir no 2021. gada 1. janvāra līdz 2030. gada 31. decembrim.

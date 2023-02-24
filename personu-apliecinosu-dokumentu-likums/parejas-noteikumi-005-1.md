@@ -1,1 +1,0 @@
-5.¹ Līdz 2024. gada 31. decembrim šā likuma 9. panta pirmo daļu (kas stājas spēkā no 2023. gada 1. janvāra) nepiemēro attiecībā uz personu, kura Fizisko personu reģistra likumā noteiktajā kārtībā ir sniegusi ziņas par savu dzīvesvietu ārvalstī.
