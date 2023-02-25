@@ -1,0 +1,1 @@
+1. pants. 2022. gada 11. oktobrī Rīgā parakstītais Latvijas Republikas valdības un Japānas valdības nolīgums par darba un brīvdienu shēmu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
