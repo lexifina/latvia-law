@@ -1,0 +1,1 @@
+6. pants. Līdz ar Vienošanās spēkā stāšanos spēku zaudē Augstākās Padomes 1992. gada 28. oktobra lēmums " Par Latvijas Republikas valdības un Norvēģijas Karalistes valdības līguma par savstarpējo ieguldījumu veicināšanu un aizsardzību ratificēšanu " (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48. nr.).

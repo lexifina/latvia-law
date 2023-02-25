@@ -1,0 +1,1 @@
+1. pants. Latvijas Republikas valdības un Norvēģijas Karalistes valdības vienošanās par Latvijas Republikas valdības un Norvēģijas Karalistes valdības līguma par savstarpējo ieguldījumu veicināšanu un aizsardzību izbeigšanu (turpmāk - Vienošanās) ar šo likumu tiek pieņemta un apstiprināta.

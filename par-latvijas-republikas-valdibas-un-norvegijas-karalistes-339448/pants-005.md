@@ -1,0 +1,1 @@
+5. pants. Vienošanās spēkā stāšanās neietekmē tiesvedībā esošās lietas, kas uzsāktas, pamatojoties uz līgumu starp Norvēģijas Karalistes valdību un Latvijas Republikas valdību par savstarpējo ieguldījumu veicināšanu un aizsardzību. Iesāktajās tiesvedībās ir iespējams iecelt jaunus tiesnešu sastāvus, ja tas nepieciešams.
