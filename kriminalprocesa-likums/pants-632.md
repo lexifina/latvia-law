@@ -2,7 +2,7 @@
 (1) Pirmās instances tiesas spriedums stājas spēkā, kad beidzies termiņš tā pārsūdzēšanai apelācijas vai kasācijas kārtībā un spriedums nav pārsūdzēts. Saīsinātais spriedums stājas spēkā pēc tam, kad beidzies termiņš lūguma iesniegšanai par pilna sprieduma sastādīšanu un lūgums nav iesniegts.
 (2) Apelācijas instances tiesas spriedums stājas spēkā, kad beidzies termiņš tā pārsūdzēšanai kasācijas kārtībā un spriedums nav pārsūdzēts. Ja kasācijas sūdzība vai protests ir iesniegts, spriedums stājas spēkā dienā, kad kasācijas instances tiesa ir izskatījusi lietu, ja tā spriedumu nav atcēlusi vai ir atteikusies pārbaudīt nolēmuma tiesiskumu.
 (3) Ja lietā ir vairāki apsūdzētie un ja spriedums pārsūdzēts kaut vai attiecībā uz vienu no viņiem, spriedums nestājas spēkā attiecībā uz visiem apsūdzētajiem, ja šajā likumā nav noteikts citādi.
-(3¹) (Daļa stājas spēkā 01.03.2023. un iekļauta likuma redakcijā uz 01.03.2023. Sk. pārejas noteikumu 85. punktu)
-(3²) (Daļa stājas spēkā 01.03.2023. un iekļauta likuma redakcijā uz 01.03.2023. Sk. pārejas noteikumu 85. punktu)
+(3¹) Ja kasācijas instances tiesa atceļ pirmās instances vai apelācijas instances tiesas nolēmumu daļā un nosūta krimināllietu jaunai izskatīšanai, tad nolēmums daļā attiecībā uz personu, par kuru tas nav atcelts, stājas spēkā.
+(3²) Pirmās instances vai apelācijas instances tiesas nolēmums, kas nav pārsūdzēts daļā par mantas aresta vai konfiskācijas atcelšanu, daļā par rīcību ar mantu stājas spēkā.
 (4) Notiesājošā spriedumā ietvertais tiesas lēmums par drošības līdzekli un par kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu stājas spēkā uzreiz pēc sprieduma pasludināšanas.
 (5) Ja pirmās instances tiesas vai apelācijas instances tiesas spriedumu ir pārsūdzējis kriminālprocesā aizskartais mantas īpašnieks daļā par mantu vai ir iesniegts prokurora protests daļā par rīcību ar noziedzīgi iegūtu mantu, tad pārējā daļā spriedums stājas spēkā.
