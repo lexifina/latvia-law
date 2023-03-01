@@ -1,0 +1,1 @@
+100. Ekonomikas ministrija līdz 2023. gada 1. aprīlim iesniedz Saeimai ziņojumu par veiktajām darbībām un pieņemtajiem lēmumiem saistībā ar pārejas noteikumu 89. punktā paredzēto Saeimai iesniegto informāciju par elektroenerģijas izlietojumu elektrostacijas vajadzībām (pašpatēriņu).

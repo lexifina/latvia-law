@@ -1,0 +1,1 @@
+101. Grozījumi šā likuma 16. panta trešajā daļā, 28. panta piektajā daļā, 28.¹ panta ceturtajā daļā, 30. panta trešajā daļā, 30.¹ panta ceturtajā daļā, 30.² panta un 33. panta otrās daļas 4. punkta izslēgšana, 33. panta papildināšana ar sesto un septīto daļu, kā arī grozījumi 37.⁶ panta sestajā daļā un 37.⁷ panta sestajā daļā stājas spēkā 2023. gada 1. maijā.

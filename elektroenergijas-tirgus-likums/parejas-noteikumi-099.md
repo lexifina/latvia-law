@@ -1,0 +1,1 @@
+99. Sadales sistēmas operators pārceļ mājsaimniecības lietotāja 2023. gada 28. februārī izveidojušos neto uzskaites sistēmā uzkrāto saražotās elektroenerģijas apjomu uz nākamā gada elektroenerģijas norēķinu periodu, kas sākas 2023. gada 1. martā un beidzas 2024. gada 29. februārī.

@@ -6,6 +6,6 @@
 2) elektroenerģija objektos tiek ražota, izmantojot atjaunojamos energoresursus;
 3) visus neto norēķinu sistēmā ietvertos sistēmas lietotāja objektus apkalpo viens elektroenerģijas tirgotājs un viens sistēmas operators.
 (4) No atjaunojamiem energoresursiem iegūtas elektroenerģijas aktīvais lietotājs ir atbildīgs par to, lai elektroenerģija tā objektos tiktu ražota, izmantojot tikai atjaunojamos energoresursus.
-(5) Par elektroenerģijas neto norēķinu sistēmas lietotāja elektroenerģijas patēriņu atbilstoši šā likuma 28. panta piektajai daļai un 30. panta trešajai daļai ir uzskatāms no sistēmas saņemtais elektroenerģijas daudzums, kas pārsniedz sistēmā nodoto elektroenerģijas daudzumu. Elektroenerģijas neto norēķinu sistēmu nepiemēro norēķiniem par saņemtajiem sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem.
+(5) Elektroenerģijas neto norēķinu sistēmu nepiemēro norēķiniem par saņemtajiem sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem, izņemot gadījumu, kad to pieprasa aktīvais lietotājs.
 (6) Elektroenerģijas tirgotāji savos tirdzniecības pakalpojuma piedāvājumos iekļauj elektroenerģijas neto norēķinu sistēmas piedāvājumu.
 (7) Neto norēķinu sistēmas piemērošanas nosacījumus un kārtību nosaka Ministru kabinets.
