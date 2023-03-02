@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 9. februāra likums \"Grozījumi Negodīgas komercprakses aizlieguma likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "34",
+  "official_journal_page": null,
+  "official_journal_date": "2023-02-16",
+  "entry_into_force": "2023-03-02",
+  "notification_date": "2023-02-20",
+  "commission_reference": "MNE(2023)01224",
+  "nim_celex": "72019L2161LVA_202301224",
+  "nim_id": "202301224",
+  "transposes_celex": [
+    "32019L2161"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9f451852-b41d-11ed-8912-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
