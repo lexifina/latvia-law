@@ -2,7 +2,7 @@
 (1) Patentu valde kārto profesionālo patentpilnvarnieku sarakstu.
 (2) Profesionālo patentpilnvarnieku sarakstā iekļauj datus par fiziskajām personām, ja attiecīgā persona atbilst šādām prasībām:
 1) tā ir Latvijas vai citas Eiropas Savienības dalībvalsts pilsonis;
-2) tā prot valsts valodu un tai ir vismaz divu svešvalodu zināšanas, kas pietiekamas profesionālai sadarbībai ar Latvijas un ārvalstu personām un institūcijām;
+2) tā prot valsts valodu augstākajā līmenī un tai ir vismaz divu svešvalodu zināšanas, kas pietiekamas profesionālai sadarbībai ar Latvijas un ārvalstu personām un institūcijām;
 3) tai ir akadēmiskā vai otrā līmeņa augstākā profesionālā izglītība (ārvalstu augstākās izglītības iestāžu izsniegtajiem diplomiem attiecīgajās specialitātēs jābūt atzītiem Latvijā);
 4) tai rūpnieciskā īpašuma aizsardzības jomā ir vismaz četru gadu darba pieredze, kurā ieskaita atbilstošu darbu starptautiskajās, reģionālajās vai nacionālajās rūpnieciskā īpašuma iestādēs. Darbībai rūpnieciskā īpašuma aizsardzības jomā jābūt sistemātiskai, un tajā neieskaita ilgstošus atvaļinājumus un darbības pārtraukumus;
 5) tā ir nokārtojusi profesionālo patentpilnvarnieku kvalifikācijas eksāmenu;

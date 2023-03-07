@@ -1,5 +1,5 @@
 120.pants. Profesionālo patentpilnvarnieku profesionālā organizācija
-(1) Latvijas profesionālo patentpilnvarnieku profesionālās organizācijas funkcijas īsteno biedrība "Latvijas Patentpilnvaroto asociācija" (turpmāk - Patentpilnvarnieku asociācija).
+(1) Latvijas profesionālo patentpilnvarnieku profesionālās organizācijas funkcijas īsteno biedrība "Latvijas profesionālo patentpilnvarnieku asociācija" (turpmāk - Patentpilnvarnieku asociācija).
 (2) Patentpilnvarnieku asociācijā pēc profesijas principa apvienojas fiziskās personas, lai rūpētos par savas profesijas prestižu, veicinātu profesionālo patentpilnvarnieku kvalifikācijas paaugstināšanu, profesionālo izaugsmi, pieredzes apgūšanu, profesionālo standartu un ētikas normu ievērošanu un izpildītu šajā likumā un citos normatīvajos aktos, kā arī savos statūtos noteiktos uzdevumus.
 (3) Patentpilnvarnieku asociācija likumā noteiktajā kārtībā veic šādus uzdevumus:
 1) deleģē pārstāvjus profesionālo patentpilnvarnieku kvalifikācijas eksāmena komisijā;

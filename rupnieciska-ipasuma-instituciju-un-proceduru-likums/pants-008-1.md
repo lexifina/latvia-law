@@ -1,0 +1,2 @@
+8.¹ pants. Rūpnieciskā īpašuma objekta reģistrācijas apliecība
+Pēc rūpnieciskā īpašuma objekta reģistrācijas Patentu valde tā īpašniekam izsniedz patentu, papildu aizsardzības sertifikātu, preču zīmes, kolektīvās zīmes, sertifikācijas zīmes vai attiecīgā gadījumā - dizainparauga reģistrācijas apliecību. Reģistrācijas apliecībā norāda ziņas, kas atbilstoši rūpnieciskā īpašuma normatīvajam aktam ir ietvertas reģistrā objekta reģistrācijas brīdī.

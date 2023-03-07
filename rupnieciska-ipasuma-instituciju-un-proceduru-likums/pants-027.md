@@ -9,7 +9,7 @@
 (2) Apelācijas padomes locekļa amata pretendentus izraugās konkursa kārtībā. Pretendentu atlases procedūru veic Apelācijas padomes locekļa amata pretendentu atlases komisija (turpmāk - Atlases komisija) piecu cilvēku sastāvā, kuru ieceļ tieslietu ministrs. Atlases komisijas sastāvā iekļauj:
 1) Tieslietu ministrijas pārstāvi;
 2) Patentu valdes pārstāvi;
-3) Rīgas pilsētas Vidzemes priekšpilsētas tiesas tiesnesi;
+3) Rīgas pilsētas tiesas tiesnesi;
 4) profesionālo patentpilnvarnieku profesionālās organizācijas pārstāvi;
 5) augstskolu akadēmiskā personāla pārstāvi.
 (3) Atlases komisijas priekšsēdētājs ir Tieslietu ministrijas pārstāvis.

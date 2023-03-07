@@ -1,0 +1,4 @@
+98.¹ pants. Apelācijas padomes lēmuma pārsūdzēšana
+(1) Ja apelācijas iesniegums pilnībā vai daļēji noraidīts, apelācijas iesnieguma iesniedzējs sūdzību par Apelācijas padomes lēmumu, izņemot šā likuma 98. panta pirmās daļas 1. punktā minētajā gadījumā, var iesniegt mēneša laikā no lēmuma paziņošanas dienas Rīgas pilsētas tiesā Civilprocesa likumā noteiktajā kārtībā.
+(2) Ja apelācijas iesniegums pilnībā vai daļēji apmierināts, Patentu valde sūdzību par Apelācijas padomes lēmumu, izņemot šā likuma 98. panta pirmās daļas 2. punktā minētajā gadījumā, var iesniegt mēneša laikā no lēmuma paziņošanas dienas Rīgas pilsētas tiesā Civilprocesa likumā noteiktajā kārtībā.
+(3) Ja tiesa pieņem šā panta pirmajā un otrajā daļā minēto sūdzību un ierosina lietu, Apelācijas padome nosūta Rīgas pilsētas tiesai tās rīcībā esošos lietas dalībnieku paskaidrojumus un rakstveida pierādījumus.

@@ -5,7 +5,7 @@
 1) lēmuma pieņemšanas vietu un datumu;
 2) Apelācijas padomes pilnu nosaukumu un lietas izskatīšanas sastāvu;
 3) lietas dalībniekus;
-4) izskatāmās lietas raksturu (apelācijas lieta, iebilduma lieta) un apelācijas vai iebilduma iesnieguma priekšmetu;
+4) izskatāmās lietas raksturu (apelācijas, iebilduma, atzīšanas par spēkā neesošu vai atcelšanas lieta) un apelācijas, iebilduma, atzīšanas par spēkā neesošu vai atcelšanas iesnieguma priekšmetu;
 5) jautājumus, par kuriem pieņemts lēmums;
 6) lēmuma motīvus;
 7) lietas izskatīšanas sastāva, Apelācijas padomes priekšsēdētāja vai lietas izskatīšanas sastāva priekšsēdētāja nolēmumu;

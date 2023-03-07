@@ -3,9 +3,9 @@
 1) sniegt pakalpojumus rūpnieciskā īpašuma jomā tajā specializācijā, atbilstoši kurai viņš iekļauts profesionālo patentpilnvarnieku sarakstā;
 2) pārstāvēt personas un sniegt tām ar rūpnieciskā īpašuma aizsardzību saistītu palīdzību, ja tās vēršas Patentu valdē vai Apelācijas padomē, citās valsts un pašvaldību institūcijās, tiesā vai sadarbojas ar citām privātpersonām;
 3) vākt pierādījumus, tajā skaitā pieprasīt nepieciešamos dokumentus no valsts un pašvaldību institūcijām un privātpersonām;
-4) iepazīties ar valsts un pašvaldību institūciju un tiesu nolēmumiem, normatīvajiem aktiem, administratīvajiem aktiem un citu palīdzības sniegšanai nepieciešamo informāciju, kā arī saņemt šo dokumentu norakstus;
+4) iepazīties ar valsts un pašvaldību institūciju un tiesu nolēmumiem, normatīvajiem aktiem, administratīvajiem aktiem un citu palīdzības sniegšanai nepieciešamo informāciju, kā arī saņemt šo dokumentu atvasinājumus;
 5) kārtot pārstāvamo personu vārdā rūpnieciskā īpašuma normatīvajos aktos paredzētos ar rūpnieciskā īpašuma aizsardzību saistītos maksājumus Patentu valdē un Apelācijas padomē, tiesā un starptautiskajās organizācijās;
-6) veikt ar rūpnieciskā īpašuma aizsardzību saistītu dokumentu tulkojumus un normatīvajos aktos noteiktajā kārtībā apliecināt šādus tulkojumus, dokumentu norakstus un izrakstus, kuri iesniedzami Patentu valdei, Apelācijas padomei, tiesām, starptautiskajām organizācijām vai citām personām;
+6) veikt ar rūpnieciskā īpašuma aizsardzību saistītu dokumentu tulkojumus un normatīvajos aktos noteiktajā kārtībā apliecināt šādus tulkojumus, dokumentu atvasinājumus, kuri iesniedzami Patentu valdei, Apelācijas padomei, tiesām, starptautiskajām organizācijām vai citām personām;
 7) sniegt citus pakalpojumus, kuri atbilst viņa profesionālajai kvalifikācijai;
 8) sniedzot pakalpojumus un pārstāvot personas, brīvi izvēlēties likumīgus līdzekļus un metodes.
 (2) Profesionālajam patentpilnvarniekam, sniedzot pakalpojumus un pārstāvot personas, ir pienākums:

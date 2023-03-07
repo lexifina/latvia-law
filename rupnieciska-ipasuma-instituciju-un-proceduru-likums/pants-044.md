@@ -1,6 +1,6 @@
 44.pants. Procesuālie termiņi darbībām Apelācijas padomē
 (1) Procesuālās darbības Apelācijas padomē izpilda šajā likumā vai citā rūpnieciskā īpašuma normatīvajā aktā noteiktajos termiņos. Ja procesuālais termiņš nav noteikts normatīvajā aktā, to nosaka Apelācijas padome.
 (2) Apelācijas padomes noteiktajam termiņam jābūt tādam, lai procesuālo darbību varētu izpildīt, nenovilcinot lietas izskatīšanu. Ja nav pamatota iemesla citāda termiņa noteikšanai, Apelācijas padome nosaka divu mēnešu termiņu.
-(3) Ja noteiktā termiņā nav samaksāta apelācijas iesnieguma vai iebilduma iesnieguma iesniegšanas maksa vai maksa par procesuālo darbību Apelācijas padomē, to samaksai nosaka viena mēneša termiņu, ja rūpnieciskā īpašuma normatīvajā aktā nav noteikts citādi.
+(3) Ja noteiktā termiņā nav samaksāta apelācijas, iebilduma, atzīšanas par spēkā neesošu vai atcelšanas iesnieguma iesniegšanas maksa vai maksa par procesuālo darbību Apelācijas padomē, to samaksai nosaka viena mēneša termiņu, ja rūpnieciskā īpašuma normatīvajā aktā nav noteikts citādi.
 (4) Uzklausot lietas dalībnieku un pamatojot iemeslu, Apelācijas padome ir tiesīga noteikt saprātīgu termiņu, kas atšķiras no šā panta otrajā vai trešajā daļā paredzētā termiņa, bet ne ilgāku par trim mēnešiem.
 (5) Ja citādi nav noteikts rūpnieciskā īpašuma normatīvajā aktā vai Apelācijas padomes dokumentā, ar kuru termiņš noteikts, termiņš procesuālo darbību izpildei Apelācijas padomē sākas nākamajā dienā pēc datuma, kurā attiecīgais Apelācijas padomes dokuments uzskatāms par paziņotu saskaņā ar Paziņošanas likuma normām.
