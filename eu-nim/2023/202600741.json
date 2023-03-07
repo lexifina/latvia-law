@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2023. gada 2. marta lēmums Nr. 1/3 “Grozījumi Sabiedrisko pakalpojumu regulēšanas komisijas2013. gada 26. jūnija lēmumā Nr. 1/4 “Tīkla kodekss elektroenerģijas nozarē””",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "46",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-06",
+  "entry_into_force": "2023-03-07",
+  "notification_date": "2026-10-27",
+  "commission_reference": "MNE(2026)00741",
+  "nim_celex": "72023L1791LVA_202600741",
+  "nim_id": "202600741",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/14eb62ec-b85e-4abb-9c2a-0cf1cac72d2f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
