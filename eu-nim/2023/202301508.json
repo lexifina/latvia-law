@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Preču zīmju likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "37A",
+  "official_journal_page": null,
+  "official_journal_date": "2023-02-21",
+  "entry_into_force": "2023-03-07",
+  "notification_date": "2023-03-07",
+  "commission_reference": "MNE(2023)01508",
+  "nim_celex": "72015L2436LVA_202301508",
+  "nim_id": "202301508",
+  "transposes_celex": [
+    "32015L2436"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/badb78a3-bf1f-11ed-8912-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
