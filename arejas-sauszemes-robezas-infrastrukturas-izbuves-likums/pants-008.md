@@ -1,9 +1,15 @@
-8. pants. (1) Nodrošinājuma valsts aģentūra ir atbildīga par ārējās robežas infrastruktūras izbūvē iesaistīto institūciju darbu operatīvu koordinēšanu.
-(2) Ārējās robežas infrastruktūras izbūvi organizē un nodrošina valsts akciju sabiedrība "Valsts nekustamie īpašumi".
+8. pants. (1) Nodrošinājuma valsts aģentūra ir atbildīga par ārējās robežas infrastruktūras izbūvē iesaistīto institūciju darbu operatīvu koordinēšanu. Valsts robežsardze ir atbildīga par tehnoloģiskās infrastruktūras izbūvē un ieviešanā iesaistīto institūciju darbu operatīvu koordinēšanu.
+(2) Ārējās robežas infrastruktūras, izņemot tehnoloģisko infrastruktūru, izbūvi organizē un nodrošina valsts akciju sabiedrība "Valsts nekustamie īpašumi".
 (3) Valsts akciju sabiedrība "Valsts nekustamie īpašumi":
-1) vada, īsteno un uzrauga visus ārējās robežas infrastruktūras izbūves darbus;
-2) veic ārējās robežas infrastruktūras izbūvei nepieciešamos iepirkumus, slēdz iepirkuma līgumus;
+1) vada, īsteno un uzrauga visus ārējās robežas infrastruktūras, izņemot tehnoloģisko infrastruktūru, izbūves darbus;
+2) veic ārējās robežas infrastruktūras, izņemot tehnoloģisko infrastruktūru, izbūvei nepieciešamos iepirkumus, slēdz iepirkuma līgumus;
 3) ne retāk kā reizi mēnesī sniedz šā likuma 10. pantā minētajai komitejai pārskatu (ziņojumu) par šā panta otrajā un trešajā daļā minēto pienākumu veikšanu.
-(4) Valsts akciju sabiedrībai "Valsts nekustamie īpašumi" ir tiesības piesaistīt ekspertus ārējās robežas infrastruktūras izbūves nodrošināšanai.
+(3¹) Tehnoloģiskās infrastruktūras izbūvi un ieviešanu organizē un nodrošina valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs".
+(3²) Valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs":
+1) vada, īsteno un uzrauga visus tehnoloģiskās infrastruktūras izbūves un ieviešanas darbus;
+2) veic tehnoloģiskās infrastruktūras izbūvei un ieviešanai nepieciešamos iepirkumus un slēdz iepirkuma līgumus;
+3) ne retāk kā reizi mēnesī sniedz šā likuma 10. pantā minētajai komitejai pārskatu (ziņojumu) par šā panta 3.¹ un šajā daļā minēto pienākumu veikšanu.
+(4) Valsts akciju sabiedrībai "Valsts nekustamie īpašumi" un valsts akciju sabiedrībai "Latvijas Valsts radio un televīzijas centrs" ir tiesības piesaistīt ekspertus ārējās robežas infrastruktūras izbūves nodrošināšanai.
 (5) Ārējās robežas infrastruktūras izbūvei izdotas būvatļaujas apstrīdēšana vai pārsūdzēšana neaptur būvniecību.
 (6) Valsts akciju sabiedrība "Valsts nekustamie īpašumi" šā panta otrajā un trešajā daļā minēto pienākumu veikšanu uzsāk tikai pēc tam, kad Nodrošinājuma valsts aģentūra sadarbībā ar Valsts robežsardzi ir definējusi un iesniegusi valsts akciju sabiedrībai "Valsts nekustamie īpašumi" tehniskās specifikācijas izstrādei nepieciešamās lietotāja prasības, ko valsts akciju sabiedrība "Valsts nekustamie īpašumi" atzinusi par pietiekamām ārējās robežas infrastruktūras izbūvei, un citu būvniecības ieceres īstenošanai nepieciešamo dokumentāciju, tai skaitā izpilddokumentāciju par jau veiktajiem darbiem.
+(7) Valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs" šā panta 3.¹ un 3.² daļā minēto pienākumu veikšanu uzsāk tikai pēc tam, kad Valsts robežsardze sadarbībā ar Nodrošinājuma valsts aģentūru ir noteikusi valsts robežas joslas posmus, kuros nepieciešama tehnoloģiskā infrastruktūra, definējusi un iesniegusi valsts akciju sabiedrībai "Latvijas Valsts radio un televīzijas centrs" tehniskās prasības tehnoloģiskajai infrastruktūrai un informāciju par tās novietojumu dabā, un valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs" to atzinusi par derīgu tehnoloģiskās infrastruktūras izbūvei.
