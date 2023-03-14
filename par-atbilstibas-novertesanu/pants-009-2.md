@@ -1,0 +1,2 @@
+9.² pants. (1) Tirgus uzraudzības iestādes funkcijas noteiktā jomā veic iestāde, kurai šāda atbildība paredzēta saskaņā ar normatīvo aktu. Tirgus uzraudzības iestādes atbilstoši regulai Nr. 2019/1020 kontrolē preču atbilstību noteiktajām prasībām gan klātienes, gan distances, tajā skaitā tiešsaistes, tirdzniecībā.
+(2) Tirgus uzraudzības iestāžu darbību koordinē un to savstarpēju sadarbību sekmē Tirgus uzraudzības padome.

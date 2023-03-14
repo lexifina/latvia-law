@@ -1,1 +1,2 @@
-4.pants. Šis likums attiecas uz visām personām, kas pretendē uz atbilstības novērtēšanu.
+4.pants. (1) Šis likums attiecas uz visām personām, kas pretendē uz atbilstības novērtēšanu.
+(2) Šā likuma III¹ nodaļu piemēro nepārtikas precēm, kurām attiecībā uz personu veselību un drošību, darba aizsardzību, patērētāju tiesību, vides, sabiedriskās kārtības un citu sabiedrības interešu aizsardzību ir noteiktas prasības normatīvajos aktos, tajā skaitā prasības, kas tajos noteiktas vai tieši piemērojamas saskaņā ar Eiropas Savienības tiesību aktiem, kuri uzskaitīti regulas Nr. 2019/1020 1. pielikumā Eiropas Savienības saskaņošanas tiesību aktu sarakstā, kā arī saskaņā ar Eiropas Savienības tiesību aktiem par preču piekļūstamības prasībām.

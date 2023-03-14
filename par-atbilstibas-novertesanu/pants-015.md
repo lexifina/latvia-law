@@ -1,1 +1,1 @@
-15.pants. Nacionālās akreditācijas institūcijas pieņemtos lēmumus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību.
+15. pants. Nacionālās akreditācijas institūcijas pieņemtos akreditācijas lēmumus var apstrīdēt, iesniedzot attiecīgu iesniegumu nacionālajai akreditācijas institūcijai. Nacionālās akreditācijas institūcijas pieņemtos lēmumus par apstrīdētajiem akreditācijas lēmumiem var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma apstrīdēšana un pārsūdzēšana neaptur tā darbību.

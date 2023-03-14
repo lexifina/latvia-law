@@ -1,7 +1,7 @@
 14.pants. (1) Nacionālās akreditācijas institūcijas galvenās funkcijas ir:
 1) novērtēt un akreditēt atbilstības novērtēšanas institūcijas, kā arī uzraudzīt šo institūciju darbību, ievērojot Latvijas nacionālos standartus, normatīvos aktus, Eiropas vai starptautiskos standartus, kā arī savstarpējos atzīšanas līgumos ar starptautiskajām akreditācijas organizācijām noteiktās prasības;
 2) tehniski nodrošināt Latvijas Nacionālās akreditācijas padomes darbu;
-3) organizēt prasmes pārbaudes un koordinēt starplaboratoriju salīdzinošās programmas saskaņā ar Latvijas, Eiropas Savienības un starptautiskajām prasībām par starplaboratoriju salīdzināšanu;
+3) (izslēgts ar 16.02.2023. likumu);
 4) sadarboties ar citu valstu nacionālajām akreditācijas institūcijām;
 5) pārstāvēt Latviju starptautiskajās akreditācijas organizācijās;
 6) izveidot un uzturēt akreditēto atbilstības novērtēšanas institūciju sarakstu savā mājaslapā internetā;

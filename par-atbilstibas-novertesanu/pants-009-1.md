@@ -1,0 +1,1 @@
+9.¹ pants. Saimnieciskās darbības veicējam ir pienākums piedāvāt tirgū tikai tādu preci, kas atbilst šā likuma 4. panta otrajā daļā minētajos normatīvajos aktos noteiktajām prasībām (turpmāk - noteiktās prasības).

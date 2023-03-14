@@ -1,6 +1,7 @@
-16.pants. (1) Savstarpējo atzīšanu piemēro, ievērojot kārtību, kas noteikta Eiropas Parlamenta un Padomes 2008.gada 9.jūlija regulā (EK) Nr. 764/2008, ar ko nosaka procedūras, lai dažus valstu tehniskos noteikumus piemērotu citā dalībvalstī likumīgi tirgotiem produktiem, un ar ko atceļ lēmumu Nr. 3052/95/EK [turpmāk - regula (EK) Nr. 764/2008].
+16.pants. (1) Savstarpējo atzīšanu piemēro, ievērojot kārtību, kas noteikta Eiropas Parlamenta un Padomes 2019. gada 19. marta regulā (ES) 2019/515 par citā dalībvalstī likumīgi tirgotu preču savstarpēju atzīšanu un regulas (EK) Nr. 764/2008 atcelšanu (turpmāk - regula Nr. 2019/515).
 (2) Savstarpējo atzīšanu piemēro:
 1) tehniskajiem noteikumiem, standartiem un specifikācijām;
 2) atbilstības novērtēšanas procedūrām, testēšanas procedūrām, testēšanas pārskatiem un akreditācijas sistēmām;
 3) atbilstības novērtēšanas procedūru rezultātiem, arī testēšanas rezultātiem, atbilstības sertifikātiem un atbilstības vai inspicēšanas zīmēm.
-(3) Tiešās vai pastarpinātās pārvaldes iestāde, kas pieņem regulas (EK) Nr. 764/2008 2.pantā minēto lēmumu, vai šīs iestādes pilnvarota persona, kas veic pārvaldes uzdevumu saskaņā ar ārējo normatīvo aktu vai uz deleģēšanas līguma pamata, ievēro regulas (EK) Nr. 764/2008 otrajā nodaļā noteiktās prasības, ja vien lēmums netiek pieņemts šīs regulas 3.pantā minētajos gadījumos.
+(3) (Izslēgta ar 16.02.2023. likumu)
+(4) Būtiskās prasības nepārtikas precēm, uz kurām neattiecas Eiropas Savienības saskaņotie tiesību akti, pēc atbildīgās ministrijas priekšlikuma nosaka Ministru kabinets.

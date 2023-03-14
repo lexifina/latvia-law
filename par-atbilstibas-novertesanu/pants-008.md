@@ -1,2 +1,3 @@
 8.pants. (1) Atbilstības novērtēšanas institūciju paziņošanas komisija (turpmāk - paziņošanas komisija) paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā.
 (2) Kārtību, kādā izveido paziņošanas komisiju, kā arī kārtību, kādā šī komisija pieņem lēmumu un paziņo Eiropas Komisijai par atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā, nosaka Ministru kabinets.
+(3) Ministru kabinets nosaka profesionālās civiltiesiskās atbildības apdrošināšanas minimālo limitu, kā arī atlīdzināmo zaudējumu veidus Eiropas Komisijai paziņotajām atbilstības novērtēšanas institūcijām, kas veic atbilstības novērtēšanu reglamentētajā sfērā.
