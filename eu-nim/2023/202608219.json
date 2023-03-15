@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2023. gada 9. marta lēmums Nr. 1/4 \"Dabasgāzes pārvades sistēmas pieslēguma noteikumi dabasgāzes sadales sistēmas operatoriem, biometāna ražotājiem, sašķidrinātās dabasgāzes termināļa operatoriem un dabasgāzes lietotājiem",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-14",
+  "entry_into_force": "2023-03-15",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08219",
+  "nim_celex": "72024L1788LVA_202608219",
+  "nim_id": "202608219",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/71955332-f001-412d-9325-4d0feeccc3dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
