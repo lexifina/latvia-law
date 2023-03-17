@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu bīstamu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2023/54.10",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-16",
+  "entry_into_force": "2023-03-17",
+  "notification_date": "2023-03-21",
+  "commission_reference": "MNE(2023)01828",
+  "nim_celex": "72022L1631LVA_202301828",
+  "nim_id": "202301828",
+  "transposes_celex": [
+    "32022L1631"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f3686e3-ca16-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
