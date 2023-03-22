@@ -1,0 +1,1 @@
+30. Līdz 2023. gada 16. martam uz šā likuma 14. panta pirmās daļas vai 17. panta pirmās daļas pamata izsniegto atļauju īslaicīgu profesionālo pakalpojumu sniegšanai derīguma termiņš tiek pagarināts par vienu gadu, bet kopumā nepārsniedzot šā likuma 14. panta pirmajā daļā un 17. panta trešajā daļā noteikto divu gadu termiņu.
