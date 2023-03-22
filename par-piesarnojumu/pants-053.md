@@ -1,5 +1,5 @@
 53.pants. Siltumnīcefekta gāzu emisiju un oglekļa dioksīda piesaistes uzraudzība un kontrole, kā arī ziņošana
-(1) Vides aizsardzības un reģionālās attīstības ministrija saskaņā ar Regulu Nr. 2018/1999 un Konvencijas līgumslēdzēju pušu, Kioto protokola un Parīzes nolīguma līgumslēdzēju pušu pieņemtajiem lēmumiem, sadarbojoties ar attiecīgajām nozaru ministrijām, institūcijām un komersantiem:
+(1) Klimata un enerģētikas ministrija saskaņā ar Regulu Nr. 2018/1999 un Konvencijas līgumslēdzēju pušu, Kioto protokola un Parīzes nolīguma līgumslēdzēju pušu pieņemtajiem lēmumiem, sadarbojoties ar attiecīgajām nozaru ministrijām, institūcijām un komersantiem:
 1) veic siltumnīcefekta gāzu emisiju un oglekļa dioksīda piesaistes monitoringu šā likuma 2. un 4.pielikumā minētajām darbībām;
 2) sagatavo un iesniedz Eiropas Komisijai un Konvencijas sekretariātam periodiskus ziņojumus par siltumnīcefekta gāzu emisijām un oglekļa dioksīda piesaisti;
 3) sagatavo un iesniedz Eiropas Komisijai vai Konvencijas sekretariātam citus Regulā Nr. 2018/1999 noteiktos datus, informāciju un ziņojumus.
