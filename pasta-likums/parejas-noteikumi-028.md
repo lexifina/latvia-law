@@ -1,0 +1,1 @@
+28. 2023. gadā preses izdevēji universālā pasta pakalpojuma sniedzējam apmaksā abonēto preses izdevumu piegādes pakalpojumus saskaņā ar Regulatora apstiprinātajiem tarifiem, kas bija spēkā līgumu slēgšanas brīdī un norādīti ar universālā pasta pakalpojuma sniedzēju 2022. gadā noslēgtajos līgumos par abonēto preses izdevumu piegādi 2023. gadā.
