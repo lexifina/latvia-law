@@ -1,0 +1,1 @@
+9. 2023. gadā šā likuma 5. panta otrās daļas 2. punktā tiek noteikts valsts budžeta līdzekļu piešķīrums 2,5 procentu apmērā no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no akcīzes nodokļa par tabakas izstrādājumiem.

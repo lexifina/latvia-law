@@ -5,7 +5,7 @@
 3) ienākumi no Fonda saimnieciskās darbības.
 (2) Valsts budžeta līdzekļu piešķīrums kārtējam gadam ir:
 1) 3 procenti no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no akcīzes nodokļa par alkoholiskajiem dzērieniem;
-2) 2 procenti no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no akcīzes nodokļa par tabakas izstrādājumiem;
+2) trīs procenti no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no akcīzes nodokļa par tabakas izstrādājumiem;
 3) 1,37 procenti no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no izložu nodokļa;
 4) 2,21 procents no plānotajiem kārtējā gada valsts budžeta ieņēmumiem no azartspēļu nodokļa.
 (3) No valsts budžeta piešķirtie līdzekļi glabājas Valsts kasē.
