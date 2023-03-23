@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada ziemas sesija",
+ "sede": 27,
+ "datums": "2023-03-23",
+ "ieraksts": {
+  "dkp_id": "70d494bb-1dd3-43ad-9bb4-ab420a24963f",
+  "lastmodtime": "\"AAAAAAIQpI0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Atis#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Armands#Andris#Ingmārs#Edmunds#Hosams#Artūrs#Agnese#Raivis#Jana#Viktorija#Zanda#Andrejs#Ilze#Jānis#Andrejs#Ingrīda#Irma#Edmunds#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Viktorija#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Deksnis#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Līdaka#Zivtiņš#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Baire#Kalniņa-Lukaševica#Svilāns#Vergina#Reirs#Ceļapīters#Circene#Kalniņa#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#AS#ZZS#ST!#JV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#ZZS#AS#AS#LPV#JV#NA#JV#NA#PRO#JV#JV#AS#JV#JV#JV#JV#JV#JV#ZZS#AS#LPV#ZZS#ST!#AS#JV#ST!#NA# #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#ST!#NA#AS#ZZS#AS#JV#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#NA#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Pret#Atturas#Atturas#Pret#Pret#Atturas#Pret#Pret#Pret#Par#Pret#Pret#Atturas#Pret#Par#Pret#Pret#Pret#Pret#Atturas#Par#Par#Par#Pret#Par#Atturas#Atturas#Pret#Atturas#Pret#Pret#Atturas#Atturas#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Atturas#Par#Par#Pret#Atturas#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Pret#Par#Atturas#Nebalsoja#Pret#Pret#Par#Par#Pret#Pret#Atturas#Par#Par#Atturas#Par#Par#Par#Atturas#Atturas#Pret#Nebalsoja#Pret#Pret#Pret#Par#Pret#Atturas#Par#Par#Pret#Atturas#Pret#Atturas#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.03.2023 11:58:33",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.16. Grozījumi Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likumā (48/Lp14), 2.lasījums",
+  "VOTING_ID": "9cbcd383-1faf-43cd-9f94-e3952512059d",
+  "VOTERESULT_ABSTAIN": "20",
+  "VOTERESULT_AGAINST": "42",
+  "VOTERESULT_FOR": "20",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "19",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada ziemas sesija-27-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d8d82885-00c2-40ce-a263-a0565aa2d67f/download/14.saeimas-2023.gada-ziemas-sesija-27-vote.xml",
+  "sha256": "50d12559fcce5a3805f7c025192e4675f7caa239df2456c0a33829754de8cce6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
