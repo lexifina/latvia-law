@@ -8,5 +8,5 @@
 6) (maksātāja) algas nodokli no šā likuma 8.panta otrajā daļā minētajiem ienākumiem zaudējumu atlīdzinājuma ietvaros - valsts pārvaldes iestāde, pašvaldības iestāde, cita atvasināta publisko tiesību juridiskā persona vai iestāde ar patstāvīgu budžetu, kas uz iestādes lēmuma vai tiesas nolēmuma pamata saskaņā ar Valsts pārvaldes iestāžu nodarīto zaudējumu atlīdzināšanas likumu izmaksā attiecīgi no valsts budžeta, pašvaldības budžeta, citas atvasinātas publisko tiesību juridiskās personas budžeta vai iestādes ar patstāvīgu budžetu līdzekļiem zaudējumu atlīdzinājumu, kas ir saistīts ar esošām vai bijušām darba (dienesta) attiecībām;
 7) (maksātāja) sezonas laukstrādnieku ienākuma nodokli - sezonas laukstrādnieku ienākuma izmaksātājs.
 2. Maksātājs, izņemot personas, kas minētas šā likuma 20.pantā, maksā nodokli atbilstoši deklarācijai rezumējošā kārtībā. Taksācijas gada laikā tiek izdarīti nodokļa avansa maksājumi.
-3. Avansa maksājumu apmēru maksātājam, kas gūst ienākumus no saimnieciskās darbības, no kuras ienākumiem jāmaksā iedzīvotāju ienākuma nodoklis, nosaka saskaņā ar šā likuma 18.pantu.
+3. (Izslēgta ar 23.03.2023. likumu)
 4. Fiziskajai personai - nerezidentam, iegūstot rezidenta statusu, nerezidenta statusā aprēķinātais un budžetā iemaksātais nodoklis ir galīgais nodoklis.

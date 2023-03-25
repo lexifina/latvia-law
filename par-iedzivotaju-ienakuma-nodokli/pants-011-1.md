@@ -12,7 +12,7 @@ b) pārsniedz maksātāja plānoto zudumu normu, kas aprēķināta, pamatojoties
 5) maksātāja ārvalstīs samaksāto iedzīvotāju ienākuma nodokļa (vai tam atbilstoša nodokļa) summu;
 6) maksājumu summu par prettiesisku dabas resursu ieguvi vai lietošanu;
 7) darbinieku labā izdarītajām darba devēja iemaksām privātajos pensiju fondos atbilstoši licencētiem pensiju plāniem un iemaksātajām apdrošināšanas prēmiju summām par darbinieku dzīvības apdrošināšanu (ar līdzekļu uzkrāšanu) saskaņā ar šā likuma 8. panta piekto daļu, ja nodokļa maksātājam taksācijas perioda pēdējā dienā nodokļu parāda kopsumma pārsniedz 150 euro, izņemot nodokļu maksājumus, kuru maksāšanas termiņi ir pagarināti saskaņā ar likumu "Par nodokļiem un nodevām";
-8) maksātāja iedzīvotāju ienākuma nodokli (arī iedzīvotāju ienākuma nodokļa avansa maksājumiem), ja tā samaksa veikta no saimnieciskajai darbībai nodalītajiem līdzekļiem;
+8) (izslēgts ar 23.03.2023. likumu);
 9) apdrošināšanas prēmijas maksājumiem, kas veikti apdrošināšanas sabiedrībām, kuras izveidotas un darbojas ārpus Eiropas Savienības un Eiropas Ekonomikas zonas valstīm vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstīm;
 10) darbinieku labā privātajos pensiju fondos izdarītajām iemaksām, ja tās iemaksātas pensiju fondos, kas izveidoti un darbojas ārpus Eiropas Savienības un Eiropas Ekonomikas zonas valstīm vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstīm;
 11) (izslēgts ar 28.07.2017. likumu).
