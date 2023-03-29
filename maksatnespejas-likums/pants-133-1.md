@@ -1,0 +1,3 @@
+133.¹ pants. Parādnieka pienākums iesniegt fiziskās personas maksātnespējas procesa pieteikumu
+(1) Ja parādnieks vienlaikus ir individuālais komersants vai individuālā (ģimenes) uzņēmuma, zemnieku saimniecības vai zvejnieku saimniecības īpašnieks, parādniekam ir pienākums iesniegt fiziskās personas maksātnespējas procesa pieteikumu šā likuma 133. panta pirmās daļas 7. punktā minētajos gadījumos.
+(2) Šā panta pirmajā daļā minētajā gadījumā ņem vērā tikai tos prasījumus, kas ir radušies no individuālā komersanta, individuālā (ģimenes) uzņēmuma, zemnieku saimniecības vai zvejnieku saimniecības darbībām.

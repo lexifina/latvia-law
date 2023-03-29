@@ -12,4 +12,5 @@ Pēc fiziskās personas maksātnespējas procesa pasludināšanas un bankrota pr
 10) organizē parādnieka mantas pārdošanu;
 11) (izslēgts ar 25.09.2014. likumu);
 12) pārstāv parādnieku ar fiziskās personas maksātnespējas procesu saistītajos jautājumos;
-13) pēc parādnieka lūguma un abpusējas vienošanās sniedz konsultāciju saistību dzēšanas plāna projekta sagatavošanā.
+13) pēc parādnieka lūguma un abpusējas vienošanās sniedz konsultāciju saistību dzēšanas plāna projekta sagatavošanā;
+14) ja nepieciešams un gadījumā, ja parādnieks vienlaikus ir individuālais komersants, individuālā (ģimenes) uzņēmuma, zemnieku saimniecības vai zvejnieku saimniecības īpašnieks vai saimnieciskās darbības veicējs, veic šā likuma 63. panta pirmās daļas 2. punktā, 64. panta pirmās daļas 1., 2. un 3. punktā, 65. panta 2. punktā un 67. panta 2. punktā noteiktās darbības saistībā ar parādnieka saimniecisko darbību.

@@ -1,7 +1,7 @@
 175.pants. Maksātnespējas kontroles dienesta lēmumi, to apstrīdēšana un pārsūdzēšana
 (1) Maksātnespējas kontroles dienests pieņem lēmumus par:
 1) maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanu;
-2) administratora rīcību maksātnespējas procesā vai pildot tam šajā likumā noteiktos vispārējos pienākumus, kā arī par tiesiskā pienākuma uzlikšanu pārkāpuma konstatēšanas gadījumā;
+2) administratora rīcību maksātnespējas procesā un tiesiskās aizsardzības procesa uzraugošās personas rīcību tiesiskās aizsardzības procesā vai pildot tam šajā likumā noteiktos vispārējos pienākumus, kā arī par tiesiskā pienākuma uzlikšanu pārkāpuma konstatēšanas gadījumā;
 3) administratora iecelšanu amatā, atbrīvošanu, atcelšanu un atstādināšanu no amata, kā arī administratora amata darbības apturēšanu;
 4) administratora kvalifikācijas eksāmena kārtošanas termiņa pagarināšanu;
 5) šā likuma 62. un 129.pantā minētā depozīta izmaksāšanu;

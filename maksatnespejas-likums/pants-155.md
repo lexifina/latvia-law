@@ -8,4 +8,5 @@
 1) viens gads no saistību dzēšanas procedūras pasludināšanas dienas, ja parādnieka kopējās saistības pēc bankrota procedūras pabeigšanas nepārsniedz 30 000 euro;
 2) divi gadi no saistību dzēšanas procedūras pasludināšanas dienas, ja parādnieka kopējās saistības pēc bankrota procedūras pabeigšanas ir no 30 001 euro līdz 150 000 euro;
 3) trīs gadi no saistību dzēšanas procedūras pasludināšanas dienas, ja parādnieka kopējās saistības pēc bankrota procedūras pabeigšanas pārsniedz 150 000 euro.
-(5) Par parādnieka saistībām uzskatāms tikai pamatparāds, neskaitot soda naudas, līgumsodu vai nokavējuma procentus. Pie parādnieka saistībām pieskaitāmi nolīgtie, nesamaksātie lietošanas procenti līdz maksātnespējas pasludināšanai, tomēr ne vairāk kā sešu procentu apmērā gadā.
+(4¹) Tiesa var pagarināt saistību dzēšanas procedūras termiņu šā likuma 162. panta sestajā daļā noteiktajā kārtībā un gadījumos.
+(5) Par parādnieka saistībām uzskatāms tikai pamatparāds, neskaitot soda naudas, līgumsodu vai nokavējuma procentus. Pie parādnieka saistībām pieskaitāmi nolīgtie, nesamaksātie lietošanas procenti līdz maksātnespējas pasludināšanai, tomēr ne vairāk kā sešu procentu apmērā gadā. Par parādnieka saistībām ir uzskatāmi arī procenti un nokavējuma nauda, kas izriet no prasījumiem, kas minēti Komercdarbības atbalsta kontroles likuma IV un V nodaļā.

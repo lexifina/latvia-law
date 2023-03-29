@@ -8,6 +8,8 @@
 (2) Tiesiskās aizsardzības procesa pasākumu plānā kreditoru grupas ietvaros un katram kreditoru prasījuma veidam (pamatparādam, līgumsodam vai procentiem) var paredzēt tikai proporcionālu pamatparāda, līgumsoda vai procentu dzēšanu vai samazināšanu.
 (3) Ieskaits ir pieļaujams, ja parādnieka prasījuma tiesības pret kreditoru ir radušās vismaz trīs mēnešus pirms tiesas lēmuma par tiesiskās aizsardzības procesa lietas ierosināšanu.
 (4) Tiesiskās aizsardzības procesā piemērojamās metodes var attiecināt uz darbinieka darba samaksas prasījumiem, ja tam piekrīt attiecīgais darbinieks. Parādnieka darbiniekam tiesiskās aizsardzības procesā nav piemērojams kreditora statuss.
+(4¹) Ja ir izveidota darbinieku arodbiedrība vai ievēlēti darbinieku pilnvaroti pārstāvji, tad tiesiskās aizsardzības procesā piemērojamās metodes, kas paredz atlaist vismaz 25 procentus darbinieku, ir izmantojamas, ja tam piekrīt darbinieku pārstāvji.
+(4²) Tiesiskās aizsardzības procesā piemērojamās metodes nav izmantojamas attiecībā uz prasījumiem, kas minēti Komercdarbības atbalsta kontroles likuma IV un V nodaļā.
 (5) Nodokļu prasījumiem bez nodokļu administrācijas piekrišanas nav atļauta:
 1) nodokļu pamatparāda dzēšana vai samazināšana;
 2) nodokļu pamatparāda samaksas sadalīšana termiņos, termiņa pagarināšana vai termiņa atlikšana uz laiku, ilgāku par sešiem mēnešiem;
@@ -17,3 +19,5 @@
 (6) Tiesiskās aizsardzības procesā ir aizliegts piemērot tādas metodes, kuras ierobežo kreditoru tiesības vairāk, nekā tas nepieciešams tiesiskās aizsardzības procesa pasākumu plāna sekmīgai īstenošanai un šajā likumā minētā tiesiskās aizsardzības procesa mērķa sasniegšanai.
 (7) Tiesiskās aizsardzības procesa metodes nav piemērojamas attiecībā uz tiesiskās aizsardzības procesa izdevumiem, kā arī administratīvo pārkāpumu procesā piemērotajiem un Krimināllikumā paredzētajiem sodiem.
 (8) Šā panta otrajā daļā noteiktais proporcionalitātes princips nav attiecināms uz nodokļu un darbinieku darba samaksas prasījumiem, kā arī uz kompensāciju par radīto kaitējumu, ja nav saņemta attiecīgā kreditora vai darbinieka piekrišana.
+(9) Šā panta otrajā daļā noteikto proporcionalitātes principu var neattiecināt uz kreditoriem, kuru prasījums nesasniedz vienu procentu no visu kreditoru prasījumu summas, vai kreditoriem, kuru preci vai sniegto pakalpojumu objektīvi nav iespējams aizstāt.
+(10) Ja, piemērojot šā panta astoto vai devīto daļu, uz attiecīgo kreditoru netiek pilnībā attiecinātas tiesiskās aizsardzības procesā piemērojamās metodes, tad attiecīgajam kreditoram nav piemērojams kreditora statuss.

@@ -1,4 +1,4 @@
-50.pants. Tiesiskās aizsardzības procesa uzraugošās personas darbības tiesiskās aizsardzības procesa laikā
+50. pants. Tiesiskās aizsardzības procesa uzraugošās personas, ja tāda iecelta, darbības tiesiskās aizsardzības procesa laikā
 (1) Lai nodrošinātu tiesiskās aizsardzības procesa likumīgu un efektīvu norisi, tiesiskās aizsardzības procesa uzraugošā persona veic parādnieka darbības uzraudzību atbilstoši tiesiskās aizsardzības procesa mērķim, tiesiskās aizsardzības procesa pasākumu plānam un normatīvo aktu prasībām.
 (2) Tiesiskās aizsardzības procesa uzraugošā persona:
 1) piecu dienu laikā pēc tam, kad pasludināts nolēmums par tiesiskās aizsardzības procesa īstenošanu, iesniedz atbildīgajai iestādei, kas kārto maksātnespējas reģistru, apstiprinātu tiesiskās aizsardzības procesa pasākumu plānu;
@@ -10,7 +10,7 @@
 1) pieprasīt un saņemt no parādnieka un viņa pārstāvjiem tiesiskās aizsardzības procesā nepieciešamo informāciju;
 2) pieprasīt un saņemt no citām kompetentām personām un institūcijām to rīcībā esošo informāciju, kas saistīta ar tiesiskās aizsardzības procesa norisi;
 3) iepazīties ar parādnieka finansiālo stāvokli un visiem dokumentiem, kā arī pieprasīt un saņemt visus dokumentus;
-4) elektroniskā veidā iesniegt Maksātnespējas kontroles dienestam ziņas par savu izglītību un kvalifikāciju publiskošanai tīmekļvietnē. Ziņu iesniedzējs nodrošina, lai publicēšanai iesniegtās ziņas būtu sagatavotas atbilstoši normatīvajos aktos noteiktajām dokumentu noformēšanas prasībām un atbilstu valsts noslēpuma, ierobežotas pieejamības informācijas, kā arī fizisko personu datu aizsardzības prasībām.
+4) elektroniskā veidā iesniegt Maksātnespējas kontroles dienestam ziņas par savu izglītību un kvalifikāciju publiskošanai tīmekļvietnē, izņemot gadījumu, kad attiecīgajā tiesiskās aizsardzības procesā jau ir sniegtas šādas ziņas, pamatojoties uz šā likuma 37.¹ panta trešās daļas 4. punktu. Ziņu iesniedzējs nodrošina, lai publicēšanai iesniegtās ziņas būtu sagatavotas atbilstoši normatīvajos aktos noteiktajām dokumentu noformēšanas prasībām un atbilstu valsts noslēpuma, ierobežotas pieejamības informācijas, kā arī fizisko personu datu aizsardzības prasībām.
 (4) Tiesiskās aizsardzības procesa uzraugošajai personai, attiecībā uz kuru tiek veiktas šā likuma 174.² panta pirmās daļas 9.punktā noteiktās procesuālās darbības, ir šādas tiesības:
 1) būt klāt procesuālo darbību izpildes laikā, izteikt piezīmes un lūgumus;
 2) ierosināt, lai sniedzamajai informācijai vai kādai tās daļai nosaka ierobežotas pieejamības informācijas statusu;

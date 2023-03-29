@@ -1,0 +1,1 @@
+84. Grozījums šā likuma 67. pantā par tā papildināšanu ar 16. punktu daļā par administratora tiesībām lūgt tiesu izbeigt tiesvedību prasībās par parādnieka kā citas sabiedrības dalībnieka izslēgšanu, kas celtas saskaņā ar Komerclikuma 136.¹ pantu, stājas spēkā 2023. gada 1. jūlijā.

@@ -1,5 +1,9 @@
 12.³ pants. Tiesiskās aizsardzības procesa uzraugošajai personai izvirzītās prasības un ierobežojumi
-(1) Par tiesiskās aizsardzības procesa uzraugošo personu var būt rīcībspējīga fiziskā persona, kurai ir tiesības uzturēties un tikt nodarbinātai Latvijā visu tiesiskās aizsardzības procesa norises laiku un uz kuru neattiecas šajā likumā noteiktie ierobežojumi.
+(1) Par tiesiskās aizsardzības procesa uzraugošo personu var būt:
+1) administrators, kuram ir augstākā izglītība ekonomikas, vadības vai finanšu jomā;
+2) zvērināts revidents;
+3) rīcībspējīga fiziskā persona, kurai ir tiesības uzturēties un tikt nodarbinātai Latvijā visu tiesiskās aizsardzības procesa norises laiku un uz kuru neattiecas šajā likumā noteiktie ierobežojumi, un kurai ir augstākā izglītība ekonomikas, vadības vai finanšu jomā.
+(1¹) Administrators, kuram nav augstākās izglītības ekonomikas, vadības vai finanšu jomā, par tiesiskās aizsardzības procesa uzraugošo personu var būt, ja tiek pieaicināts finanšu jomas speciālists, kuram ir augstākā izglītība attiecīgajā jomā.
 (2) Par tiesiskās aizsardzības procesa uzraugošo personu nevar būt persona:
 1) kura sodīta par tīša noziedzīga nodarījuma izdarīšanu vai pret kuru izbeigts kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu uz personu nereabilitējoša pamata;
 2) kurai pasludināts fiziskās personas maksātnespējas process, un no tā izbeigšanas dienas nav pagājuši pieci gadi;
@@ -13,9 +17,9 @@
 8) kurai piemērota Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma 78. panta pirmās daļas 4. punktā minētā sankcija par darbības pārtraukšanu, ja no tās piemērošanas nav pagājuši pieci gadi;
 9) kurai piemērota Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma 78. panta pirmās daļas 4. punktā minētā sankcija par darbības apturēšanu.
 (3) Par tiesiskās aizsardzības procesa uzraugošo personu konkrētā tiesiskās aizsardzības procesā nevar būt persona, kura atbilst vismaz vienam no turpmāk norādītajiem kritērijiem:
-1) ir piedalījusies parādnieka tiesiskās aizsardzības procesa pasākumu plāna izstrādē;
+1) (izslēgts ar 16.03.2023. likumu);
 2) ir sniegusi zvērināta revidenta atzinumu par tiesiskās aizsardzības procesa pasākumu plānu;
 3) ir uzskatāma par ieinteresēto personu attiecībā uz tiesiskās aizsardzības procesa subjektu saskaņā ar šā likuma 72.panta noteikumiem;
 4) ir aizdomās turētais vai apsūdzētais kriminālprocesā, kas saistīts ar tās rīcību konkrētajā tiesiskās aizsardzības procesā.
 (4) Administratoru, zvērinātu advokātu, zvērinātu tiesu izpildītāju, zvērinātu revidentu un citu par tiesiskās aizsardzības procesa uzraugošo personu iecelto reglamentēto profesiju pārstāvju darbību, tiesības un pienākumus konkrētā tiesiskās aizsardzības procesā regulē tiesiskās aizsardzības procesa uzraugošās personas darbību reglamentējošās normas. Administratoriem, zvērinātiem advokātiem, zvērinātiem tiesu izpildītājiem, zvērinātiem revidentiem un citiem reglamentēto profesiju pārstāvjiem, pildot tiesiskās aizsardzības procesa uzraugošās personas pienākumus, nav tiesību izmantot attiecīgajos savu profesionālo darbību regulējošos normatīvajos aktos noteiktās speciālās tiesības un priekšrocības, kuras paredz vai garantē attiecīgie normatīvie akti.
-(5) Ja uz tiesiskās aizsardzības procesa uzraugošo personu attiecas kāds no šā likuma 20.pantā noteiktajiem ierobežojumiem, tā par to nekavējoties informē kreditorus.
+(5) Ja uz tiesiskās aizsardzības procesa uzraugošo personu attiecas kāds no šā likuma 20.pantā noteiktajiem ierobežojumiem, tā par to nekavējoties informē parādnieku vai kreditorus, ja tiesiskās aizsardzības procesa uzraugošā persona iecelta pēc kreditoru pieprasījuma.

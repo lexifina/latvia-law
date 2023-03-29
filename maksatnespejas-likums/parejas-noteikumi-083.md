@@ -1,0 +1,1 @@
+83. Ministru kabinets līdz 2023. gada 15. septembrim izdod šā likuma 12.⁵ panta sestajā daļā un 12.⁸ panta piektajā daļā minētos noteikumus, kā arī izstrādā grozījumus 2015. gada 24. februāra noteikumos Nr. 88 "Kārtība, kādā iemaksā un izmaksā depozītu juridiskās un fiziskās personas maksātnespējas procesā".

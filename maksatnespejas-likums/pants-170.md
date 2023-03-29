@@ -1,6 +1,6 @@
 170.pants. Juridiskās personas maksātnespējas procesa izdevumi
 (1) Ar juridiskās personas maksātnespējas procesa nodrošināšanu saistītie šā procesa izdevumi, izņemot izdevumus, kas saistīti ar mantu, kura kalpo par nodrošinājumu, kā arī parādnieka saimnieciskās darbības turpināšanas pilnā vai ierobežotā apmērā nodrošināšanu, ja kreditoru sapulce tos nav atzinusi par pamatotiem, nedrīkst pārsniegt:
-1) piecu procentu apmēru no mantas novērtējuma, ja ir sastādīts mantas pārdošanas plāns;
+1) juridiskās personas maksātnespējas procesa depozīta apmēru un piecu procentu apmēru no mantas novērtējuma, ja ir sastādīts mantas pārdošanas plāns;
 2) juridiskās personas maksātnespējas procesa depozīta apmēru, ja ir sastādīts ziņojums par mantas neesamību.
 (2) Juridiskās personas maksātnespējas procesa izdevumos iekļauj:
 1) atlīdzību pieaicinātajiem speciālistiem atbilstoši viņu sniegto pakalpojumu būtībai, apjomam un vērtībai pakalpojumu sniegšanas laikā, bet ne lielāku kā atlīdzība par analoģiskiem pakalpojumiem līdzīgās sfērās;

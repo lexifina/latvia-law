@@ -1,3 +1,5 @@
 54.pants. Tiesiskās aizsardzības procesa uzraugošā persona ārpustiesas tiesiskās aizsardzības procesā
-(1) Tiesiskās aizsardzības procesa uzraugošo personu ārpustiesas tiesiskās aizsardzības procesā ieceļ tiesa saskaņā ar šā likuma 42.panta trešajā daļā noteiktā kreditoru vairākuma, tiesiskās aizsardzības procesa uzraugošās personas un parādnieka vienošanos.
+(1) Tiesiskās aizsardzības procesa uzraugošo personu ārpustiesas tiesiskās aizsardzības procesā ieceļ tiesa saskaņā ar:
+1) parādnieka ieteikumu, ja parādnieks lūdz apstiprināt ārpustiesas tiesiskās aizsardzības procesa pasākumu plānu šā likuma 42. panta 3.¹ daļā noteiktajā kārtībā;
+2) šā likuma 42. panta trešajā daļā noteiktā kreditoru vairākuma, tiesiskās aizsardzības procesa uzraugošās personas un parādnieka vienošanos, ja šā likuma 42. panta trešajā daļā noteiktais kreditoru vairākums ir pieprasījis tiesiskās aizsardzības procesa uzraugošās personas iecelšanu.
 (2) Šā likuma 42.panta trešajā daļā noteiktā kreditoru vairākuma vienošanās ar tiesiskās aizsardzības procesa uzraugošo personu un parādnieku par tiesiskās aizsardzības procesa uzraugošās personas izvēli (53.panta pirmās daļas 3.punkts) uzskatāma par panāktu, ja ārpustiesas tiesiskās aizsardzības procesa pasākumu plānu ir saskaņojis šā likuma 42.panta trešajā daļā noteiktais kreditoru vairākums.

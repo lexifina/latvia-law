@@ -7,4 +7,5 @@
 4) parādnieka paredzamais mēneša ienākumu apmērs, lai segtu parādnieka uzturēšanas izmaksas;
 5) parādnieka ienākumu apmērs, kas nepieciešams viņa mājokļa īrei vai lietojuma procentu maksājumiem nodrošinātajam kreditoram, ja parādnieks ir vienojies ar viņu par vienīgā mājokļa saglabāšanu;
 6) parādnieka paredzamais mēneša ienākumu apmērs, kas tiks novirzīts saistību dzēšanas plāna izpildei;
-7) kreditoriem, kuri savus prasījumus ir iesnieguši šā likuma 141.panta pirmajā daļā noteiktajā kārtībā, izmaksājamās summas apmērs un izmaksas grafiks saistību dzēšanas procedūrā.
+7) kreditoriem, kuri savus prasījumus ir iesnieguši šā likuma 141.panta pirmajā daļā noteiktajā kārtībā, izmaksājamās summas apmērs un izmaksas grafiks saistību dzēšanas procedūrā;
+8) kārtība, kādā tiks izmaksātas tās summas, kas nesasniedz piecus procentus no tiem kreditoriem izmaksājamām summām, kuri savus prasījumus ir iesnieguši šā likuma 141. panta pirmajā daļā noteiktajā kārtībā.

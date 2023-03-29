@@ -1,3 +1,2 @@
-123.pants. Tiesības izmantot fiziskās personas maksātnespējas procesu
-(1) Fiziskajai personai, kurai kā individuālajam komersantam ir izbeigts juridiskās personas maksātnespējas process, ir tiesības vērsties tiesā ar pieteikumu par fiziskās personas maksātnespējas procesu.
-(2) Šā panta pirmajā daļā minētās tiesības ir arī fiziskajai personai, kas ir bijusi komplementārs personālsabiedrībā, kurai ir izbeigts juridiskās personas maksātnespējas process, kā arī fiziskajai personai, kas ir bijusi dibinātājs vai dalībnieks zemnieku vai zvejnieku saimniecībā, kurai ir izbeigts juridiskās personas maksātnespējas process.
+123. pants. Tiesības izmantot fiziskās personas maksātnespējas procesu
+Fiziskajai personai, kas ir bijusi komplementārs personālsabiedrībā, kurai izbeigts juridiskās personas maksātnespējas process, ir tiesības vērsties tiesā ar pieteikumu par fiziskās personas maksātnespējas procesu.

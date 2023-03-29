@@ -1,0 +1,1 @@
+86. Šā likuma 133. panta 1.¹ daļa nav piemērojama gadījumā, ja līdz 2023. gada 15. septembrim ir ticis pasludināts individuālā komersanta, individuālā (ģimenes) uzņēmuma, zemnieku saimniecības vai zvejnieku saimniecības juridiskās personas maksātnespējas process vai saimnieciskās darbības veicēja fiziskās personas maksātnespējas process.

@@ -13,5 +13,6 @@
 8) administrators juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā pilda ar administratora pienākumiem saistītas darbības, kurās viņš pats, viņa laulātais vai personas, kas ir ar administratoru radniecības vai svainības attiecībās līdz otrajai pakāpei, vai viņa darījumu partneri ir vai varētu būt personiski vai mantiski ieinteresēti;
 9) administrators pilda ar administratora pienākumiem saistītas darbības attiecībā uz tādu kreditoru vai parādnieku, kura dalībnieks, akcionārs, biedrs, pārraudzības, kontroles vai izpildinstitūcijas loceklis ir viņš pats, viņa laulātais vai personas, kas ir ar administratoru radniecības vai svainības attiecībās līdz otrajai pakāpei;
 10) administrators pēdējo divu gadu laikā pirms viņa iecelšanas konkrētā maksātnespējas procesā ir lēmis par parādnieka prasījumu citā juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā, kurā administrators pildījis administratora pienākumus;
-11) administrators jau ir pildījis administratora pienākumus šā parādnieka maksātnespējas procesā.
+11) administrators jau ir pildījis administratora pienākumus šā parādnieka maksātnespējas procesā;
+12) administrators objektīvi nespēj nodrošināt procesa norisi tā sarežģītības vai pārrobežu elementa dēļ.
 (2) Ja uz administratoru attiecas kāds no šā panta pirmajā daļā minētajiem gadījumiem, viņš nekavējoties informē par to tiesu un Maksātnespējas kontroles dienestu.

@@ -7,3 +7,4 @@
 (6) (Izslēgta ar 19.02.2015. likumu)
 (7) Tiesa izbeidz bankrota procedūru, vienlaikus izbeidzot fiziskās personas maksātnespējas procesu, ja parādnieks ir miris.
 (8) Pieteikumu par bankrota procedūras izbeigšanu šā panta septītajā daļā minētajā gadījumā iesniedz administrators.
+(9) Tiesa izbeidz bankrota procedūru, vienlaikus izbeidzot fiziskās personas maksātnespējas procesu, ja parādnieka individuālajam komersantam, individuālajam (ģimenes) uzņēmumam, zemnieku saimniecībai vai zvejnieku saimniecībai ir pasludināts tiesiskās aizsardzības process ārpustiesas tiesiskās aizsardzības procesā.
