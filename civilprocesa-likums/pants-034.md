@@ -8,7 +8,7 @@ d) no 28 458 euro līdz 142 287 euro, - 1200 euro plus 1,6 procenti no prasības
 e) no 142 288 euro līdz 711 435 euro, - 3025 euro plus 1 procents no prasības summas, kas pārsniedz 142 287 euro,
 f) vairāk par 711 435 euro, - 8715 euro plus 0,6 procenti no prasības summas, kas pārsniedz 711 435 euro;
 2) par prasības pieteikumu laulības šķiršanas lietā - 145 euro, bet par prasības pieteikumu laulības šķiršanas lietā ar personu, kas noteiktā kārtībā atzīta par bezvēsts promesošu, vai ar personu, kas notiesāta ar brīvības atņemšanu uz laiku, kas nav mazāks par trim gadiem, - 15 euro;
-3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 45 euro, par kreditora iesniegto juridiskās personas maksātnespējas procesa pieteikumu - 355 euro, par parādnieka iesniegto juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu - 70 euro, par tiesiskās aizsardzības procesa pieteikumu - 145 euro, par kredītiestāžu maksātnespējas vai likvidācijas pieteikumu - 355 euro;
+3) par pieteikumu sevišķās tiesāšanas kārtības lietās - 45 euro, par kreditora iesniegto juridiskās personas vai fiziskās personas, kura vienlaikus ir individuālais komersants, individuālā (ģimenes) uzņēmuma, zemnieku saimniecības, zvejnieku saimniecības īpašnieks vai saimnieciskās darbības veicējs, maksātnespējas procesa pieteikumu - 355 euro, par parādnieka iesniegto juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu - 70 euro, par tiesiskās aizsardzības procesa pieteikumu - 145 euro, par kredītiestāžu maksātnespējas vai likvidācijas pieteikumu - 355 euro;
 4) par citām prasībām, kam nav mantiska rakstura vai kas nav jānovērtē, - 70 euro;
 4¹) par prasības pieteikumu par šķīrējtiesas līguma atzīšanu par spēkā neesošu - 500 euro;
 5) par pieteikumu par autortiesību un blakustiesību, datubāzu aizsardzības (sui generis), preču zīmju, sertifikācijas zīmju un ģeogrāfiskās izcelsmes norāžu, patentu, dizainparaugu, augu šķirņu, pusvadītāju izstrādājumu topogrāfiju (turpmāk - intelektuālā īpašuma tiesības) pārkāpumiem un aizsardzību, par pieteikumu lietās par komercnoslēpuma aizsardzību pret nelikumīgu iegūšanu, izmantošanu un izpaušanu, kā arī par pieteikumu lietās, par kurām strīds izskatīts Rūpnieciskā īpašuma Apelācijas padomē, - 215 euro;
@@ -26,8 +26,9 @@ f) vairāk par 711 435 euro, - 8715 euro plus 0,6 procenti no prasības summas, 
 14) (izslēgts ar 25.03.2021. likumu);
 15) par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda - 70 euro;
 16) par pieteikumu par puses procesuālo tiesību pārņemšanu, ja šāds pieteikums tiesā iesniegts pēc tam, kad lietā spēkā stājies gala nolēmums, - 30 euro;
-17) par pieteikumu par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu - 70 euro;
-18) par pieteikumu par izpildu raksta dublikāta izdošanu - 15 euro.
+17) par pieteikumu par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu Fiziskās personas atbrīvošanas no parādsaistībām likumā minētajos gadījumos - 70 euro;
+18) par pieteikumu par izpildu raksta dublikāta izdošanu - 15 euro;
+19) par pieteikumu par parādnieka atbrīvošanas no saistībām atcelšanu fiziskās personas maksātnespējas procesa lietā - 70 euro.
 (2) (Ievaddaļa izslēgta no 01.01.2012. ar 04.08.2011. likumu)
 1) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 2) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);

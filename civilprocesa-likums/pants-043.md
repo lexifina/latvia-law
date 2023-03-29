@@ -2,7 +2,7 @@
 (1) No tiesas izdevumu samaksas valsts ienākumos atbrīvoti:
 1) prasītāji - prasībās par darba samaksas piedziņu un citiem darbinieku prasījumiem, kas izriet no darba tiesiskajām attiecībām vai ir ar tām saistīti;
 1¹) prasītāji - prasībās, kas izriet no vienošanās par darba veikšanu, ja prasītājs ir persona, kas izcieš sodu ieslodzījuma vietā;
-1²) pieteikuma iesniedzēji - par juridiskās personas maksātnespējas pieteikumu, ja tiesas nolēmuma par darba samaksas piedziņu izpilde šajā likumā noteiktajā kārtībā atzīta par neiespējamu;
+1²) pieteikuma iesniedzēji - par juridiskās personas vai fiziskās personas maksātnespējas procesa pieteikumu, ja tiesas nolēmuma par darba samaksas piedziņu izpilde šajā likumā noteiktajā kārtībā atzīta par neiespējamu;
 2) prasītāji - prasībās, kas izriet no personiskiem aizskārumiem, kuru rezultātā radies sakropļojums vai cits veselības bojājums vai iestājusies personas nāve;
 3) prasītāji - prasībās par uzturlīdzekļu piedziņu bērnam vai vecākam, kā arī prasībās par paternitātes noteikšanu, ja prasība celta vienlaikus ar prasību par uzturlīdzekļu piedziņu bērnam;
 3¹) pieteikuma iesniedzēji - par ārvalsts nolēmuma par uzturlīdzekļu piedziņu bērnam vai vecākam atzīšanu vai atzīšanu un izpildīšanu;
@@ -22,7 +22,7 @@
 14) Valsts sociālās apdrošināšanas aģentūra - lietās par finanšu līdzekļu atgūšanu valsts budžetā daļā par sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu pārmaksu un sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu izmaksu sakarā ar ceļu satiksmes negadījumiem;
 15) pieteikuma iesniedzēji - par pagaidu aizsardzību pret vardarbību;
 16) puse, kas lietā saņem valsts nodrošināto juridisko palīdzību;
-16¹) puse, kas atzīta par trauksmes cēlēju vai ir viņa radinieks Trauksmes celšanas likuma izpratnē;
+16¹) puse, kas atzīta par trauksmes cēlēju vai ir viņa radinieks vai saistītā persona Trauksmes celšanas likuma izpratnē;
 17) pieteikuma iesniedzēji - par adopcijas apstiprināšanu;
 18) zvērināts notārs - lietās par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu, ja zvērināts notārs taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām;
 19) sūdzības iesniedzēji - par zvērināta notāra atteikumu apliecināt pieteikumu par fiziskās personas atbrīvošanu no parādsaistībām, kā arī par atteikumu atbrīvot fizisko personu no parādsaistībām.

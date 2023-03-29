@@ -4,6 +4,7 @@
 2) uzraugošās personas atcelšanu, nosakot termiņu dokumentu un mantas pieņemšanas un nodošanas akta sastādīšanai un dokumentu un mantas nodošanai;
 3) jauna uzraugošās personas amata kandidāta iecelšanu par uzraugošo personu, ja iepriekšējā uzraugošā persona atcelta no attiecīgā tiesiskās aizsardzības procesa;
 3¹) uzraugošās personas maiņu;
+3²) uzraugošās personas iecelšanu tiesiskās aizsardzības procesa pasākumu plāna īstenošanas uzraudzībai, ja uzraugošā persona iepriekš nav bijusi iecelta tiesiskās aizsardzības procesa pasākumu plāna īstenošanas uzraudzībai;
 4) Eiropas Parlamenta un Padomes regulas Nr. 2015/848 51. pantā noteikto darbību veikšanu;
 5) tiesiskās aizsardzības procesa izbeigšanu.
 (2) Uzraugošo personu var atcelt tiesa pēc savas iniciatīvas, ja tā, izskatot pieteikumu tiesiskās aizsardzības procesa lietā, konstatē, ka uzraugošā persona neievēro normatīvo aktu prasības vai nepilda tiesas nolēmumu, vai neatbilst Maksātnespējas likuma prasībām.

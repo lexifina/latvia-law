@@ -1,5 +1,5 @@
 363.⁹ pants. Jautājuma par maksātnespējas procesa pieteikuma pieņemšanu un lietas ierosināšanu izlemšana
-(1) Ne vēlāk kā nākamajā dienā pēc maksātnespējas procesa pieteikuma saņemšanas tiesnesis pieņem lēmumu:
+(1) Piecu dienu laikā pēc maksātnespējas procesa pieteikuma saņemšanas tiesnesis pieņem lēmumu:
 1) par maksātnespējas procesa pieteikuma atstāšanu bez virzības;
 2) par atteikšanos pieņemt maksātnespējas procesa pieteikumu;
 3) par maksātnespējas procesa pieteikuma pieņemšanu un lietas ierosināšanu.

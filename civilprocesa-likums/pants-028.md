@@ -1,5 +1,6 @@
 28.pants. Piekritība pēc prasītāja izvēles
 (1) Prasību, kas radusies sakarā ar juridiskās personas filiāles vai pārstāvniecības darbību, var celt tiesā arī pēc filiāles vai pārstāvniecības juridiskās adreses.
+(1¹) Prasību par saistību izpildi pret komercsabiedrību, kura pārrobežu pārveidošanas ceļā reorganizējusies uz citu dalībvalsti, divu gadu laikā pēc reorganizācijas spēkā stāšanās var celt arī pēc komercsabiedrības pēdējās juridiskās adreses Latvijā.
 (2) Prasību par uzturlīdzekļu piedziņu bērnam vai vecākam vai paternitātes noteikšanu prasītājs var celt arī pēc savas deklarētās dzīvesvietas.
 (3) Prasību, kas izriet no personiskiem aizskārumiem (Civillikuma 1635., 2347.-2353.pants), prasītājs var celt arī pēc savas deklarētās dzīvesvietas vai pēc aizskāruma nodarīšanas vietas.
 (4) Prasību par fiziskās vai juridiskās personas mantai nodarītajiem zaudējumiem var celt arī pēc to nodarīšanas vietas.

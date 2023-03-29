@@ -6,7 +6,7 @@
 4) maksātnespējas pieteikumam pievienotos dokumentus.
 (2) Maksātnespējas pieteikumam pievieno:
 1) kredītiestādes padomes, valdes un revīzijas institūciju priekšsēdētāju un locekļu un kredītiestādes pārstāvju sarakstu (vārds, uzvārds, personas kods un adrese);
-2) kredītiestādes pēdējo bilanci, kas sagatavota atbilstoši Finanšu un kapitāla tirgus komisijas norādījumiem par gada pārskata sagatavošanu;
+2) kredītiestādes pēdējo bilanci, kas sagatavota atbilstoši Latvijas Bankas norādījumiem par gada pārskata sagatavošanu;
 3) dokumentus, kas apstiprina kredītiestādes faktiskās maksātnespējas vai tās iestāšanās iespējas apstākļus;
 4) kredītiestādes valdījumā vai turējumā esošās trešajām personām piederošās mantas sarakstu, izņemot noguldījumus un procentus par tiem;
-5) Finanšu un kapitāla tirgus komisijas lēmumu par atteikumu iesniegt tiesai maksātnespējas pieteikumu.
+5) Latvijas Bankas lēmumu par atteikumu iesniegt tiesai maksātnespējas pieteikumu.

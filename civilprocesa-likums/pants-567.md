@@ -9,7 +9,7 @@
 4) gadījumos, kad piedziņa izdarāma valsts ienākumos;
 5) gadījumos, kad persona no tiesas izdevumu samaksas atbrīvota ar tiesas lēmumu, - pilnībā vai daļēji atbilstoši tiesas lēmumam;
 6) gadījumos, kad piedziņa izdarāma atbilstoši vienotajam instrumentam, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī, izņemot gadījumus, kad Valsts ieņēmumu dienests ir vienojies ar dalībvalsts iestādi, kura lūgusi savstarpēju palīdzību prasījumu piedziņā, par izpildes izmaksu īpašu atlīdzināšanas kārtību;
-7) kas ir trauksmes cēlēji un viņu radinieki ar šādu statusu celtajās prasībās, arī pieteikumos par prasības nodrošināšanu vai pagaidu aizsardzību.
+7) kas ir trauksmes cēlēji un viņu radinieki vai saistītās personas ar šādu statusu celtajās prasībās, arī pieteikumos par prasības nodrošināšanu vai pagaidu aizsardzību.
 (3) Gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, zvērinātam tiesu izpildītājam no valsts budžeta līdzekļiem tiek izmaksāta kompensācija ar izpildu darbību veikšanu saistīto izdevumu segšanai.
 (4) Izpildu darbību veikšanai nepieciešamo izdevumu apmēru un to maksāšanas kārtību, kā arī kompensācijas apmēra noteikšanas un izmaksas kārtību gadījumos, kad piedzinējs ir atbrīvots no sprieduma izpildes izdevumu samaksas, nosaka Ministru kabinets.
 (4¹) Ja, piedzenot kaitējuma kompensāciju šā panta otrās daļas 2.¹ punktā minētajā gadījumā, no parādnieka piedzītās summas nepietiek, lai segtu sprieduma izpildes izdevumus pilnā apmērā, amata atlīdzība takses apmērā un izpildu darbību veikšanai nepieciešamie izdevumi nesegtajā daļā tiesu izpildītājam tiek segti no valsts budžeta līdzekļiem Ministru kabineta noteiktajā kārtībā.

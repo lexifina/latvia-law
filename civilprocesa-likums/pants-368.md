@@ -5,4 +5,4 @@
 3) (izslēgts ar 11.11.2021. likumu);
 4) faktiskās maksātnespējas apstākļus un pierādījumus, kas šos apstākļus apstiprina;
 5) maksātnespējas pieteikumam pievienotos dokumentus.
-(2) Maksātnespējas pieteikumam pievieno dokumentus, kas apstiprina kredītiestādes faktisko maksātnespēju, kā arī Finanšu un kapitāla tirgus komisijas lēmumu par atteikumu iesniegt tiesai maksātnespējas pieteikumu.
+(2) Maksātnespējas pieteikumam pievieno dokumentus, kas apstiprina kredītiestādes faktisko maksātnespēju, kā arī Latvijas Bankas lēmumu par atteikumu iesniegt tiesai maksātnespējas pieteikumu.

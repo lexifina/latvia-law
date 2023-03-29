@@ -1,11 +1,11 @@
 379.pants. Jautājumi, kas tiesai izlemjami pēc kredītiestādes maksātnespējas pasludināšanas
 (1) Pēc kredītiestādes maksātnespējas pasludināšanas uz attiecīgu pieteikumu pamata tiesa lemj par:
-1) sanācijas atcelšanu;
-2) bankrota procedūras uzsākšanu un pabeigšanu;
+1) (izslēgts ar 16.03.2023. likumu);
+2) (izslēgts ar 16.03.2023. likumu);
 3) maksātnespējas procesa izdevumiem;
 4) parādu segšanas kārtību un termiņiem;
-5) maksātnespējas procesa izbeigšanu;
-6) vairāku administratoru iecelšanu;
+5) maksātnespējas procesa pabeigšanu un administratora pārskata apstiprināšanu;
+6) (izslēgts ar 16.03.2023. likumu);
 7) administratora atkāpšanās pieņemšanu vai viņa atcelšanu un cita administratora iecelšanu.
 (2) Tiesa izskata arī sūdzības par administratora rīcību un izlemj citus ar maksātnespējas procesu saistītos jautājumus.
 (3) Tiesa sakarā ar šajā pantā minēto jautājumu izskatīšanu var pieprasīt, lai administrators iesniedz savas darbības pārskatu vai citu informāciju.

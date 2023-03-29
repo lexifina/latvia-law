@@ -1,5 +1,5 @@
-370. pants. Finanšu un kapitāla tirgus komisijas pieteikuma par kredītiestādes maksātnespēju saturs
-(1) Maksātnespējas pieteikumā, kuru iesniedz Finanšu un kapitāla tirgus komisija, norāda:
+370. pants. Latvijas Bankas pieteikuma par kredītiestādes maksātnespēju saturs
+(1) Maksātnespējas pieteikumā, kuru iesniedz Latvijas Banka, norāda:
 1) (izslēgts ar 11.11.2021. likumu);
 2) (izslēgts ar 11.11.2021. likumu);
 3) (izslēgts ar 11.11.2021. likumu);

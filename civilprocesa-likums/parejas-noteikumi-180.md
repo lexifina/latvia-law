@@ -1,0 +1,1 @@
+180. Grozījums šā likuma 223. pantā par tā papildināšanu ar 10. punktu daļā par tiesvedības izbeigšanu lietā, ja parādnieka maksātnespējas procesa administrators iesniedzis lūgumu prasībā par šā parādnieka izslēgšanu no citas sabiedrības, kas celta saskaņā ar Komerclikuma 136.¹ pantu, stājas spēkā 2023. gada 1. jūlijā.

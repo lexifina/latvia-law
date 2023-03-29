@@ -1,5 +1,6 @@
 374.pants. Tiesneša darbības, sagatavojot kredītiestādes maksātnespējas lietu izskatīšanai
-(1) Ierosinot kredītiestādes maksātnespējas lietu, ar tiesneša lēmumu ieceļ Finanšu un kapitāla tirgus komisijas ieteiktu kredītiestādes administratoru.
+(1) Ierosinot kredītiestādes maksātnespējas lietu, ar tiesneša lēmumu ieceļ Latvijas Bankas ieteiktu kredītiestādes administratoru.
+(1¹) (Daļa stājas spēkā 01.09.2023. un iekļauta likuma redakcijā uz 01.09.2023. Sk. pārejas noteikumu 181. punktu)
 (2) Par administratoru nevar iecelt personu, uz kuru attiecas Kredītiestāžu likumā noteiktie ierobežojumi.
 (3) Ieceļot administratoru, viņam uzdod:
 1) sagatavot to personu sarakstu, kuru piedalīšanās maksātnespējas procesā ir obligāta;

@@ -1,6 +1,6 @@
 387.pants. Lēmums par administratora vai likvidatora atkāpšanās pieņemšanu vai viņa atcelšanu
 (1) Tiesa pieņem administratora vai likvidatora atkāpšanos, ja viņš iesniedz motivētu iesniegumu, kuram pievienots viņa darbības pārskats.
-(2) Administratoru vai likvidatoru var atcelt tiesa pēc Finanšu un kapitāla tirgus komisijas pieteikuma. Pieteikumam pievienojams Finanšu un kapitāla tirgus komisijas lēmums par neuzticības izteikšanu administratoram vai likvidatoram sakarā ar kādu no šādiem apstākļiem:
+(2) Administratoru vai likvidatoru var atcelt tiesa pēc Latvijas Bankas pieteikuma. Pieteikumam pievienojams Latvijas Bankas lēmums par neuzticības izteikšanu administratoram vai likvidatoram sakarā ar kādu no šādiem apstākļiem:
 1) administrators vai likvidators neatbilst Kredītiestāžu likuma 131.panta pirmās daļas vai 131.¹ panta pirmās daļas noteikumiem vai atklājas kāds no 132. vai 132.¹ pantā minētajiem apstākļiem;
 2) administrators vai likvidators nav kompetents;
 3) administrators vai likvidators ļaunprātīgi izmanto savas pilnvaras.

@@ -5,5 +5,5 @@
 2) viņiem ir pienākums sniegt tiesai un administratoram vai likvidatoram nepieciešamo informāciju;
 3) ja mainās kontaktinformācija saziņai ar tiesu, viņiem triju dienu laikā jāpaziņo tiesai un administratoram vai likvidatoram aktuālā kontaktinformācija saziņai ar tiesu;
 4) pienākumu neizpildīšanas gadījumā viņus var saukt pie likumā noteiktās atbildības.
-(2¹) Pēc sprieduma pasludināšanas tiesa par to informē Finanšu un kapitāla tirgus komisiju, nodrošinot, lai komisija saņemtu attiecīgo informāciju sprieduma pasludināšanas dienā. Finanšu un kapitāla tirgus komisijas informēšanas kārtību nosaka tieslietu ministrs.
+(2¹) Pēc sprieduma pasludināšanas tiesa par to informē Latvijas Banku, nodrošinot, lai Latvijas Banka saņemtu attiecīgo informāciju sprieduma pasludināšanas dienā. Latvijas Bankas informēšanas kārtību nosaka tieslietu ministrs.
 (3) Pēc administratora vai likvidatora lūguma tiesa pieņem lēmumu par mantas atbrīvošanu no apķīlājuma un tās nodošanu administratoram vai likvidatoram.

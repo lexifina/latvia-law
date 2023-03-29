@@ -6,4 +6,4 @@
 4) kredītiestādes pārstāvjus un personas, kuru piedalīšanās kredītiestādes likvidācijā ir obligāta;
 5) apstākļus, kuru dēļ kredītiestādei anulēta tās darbībai izsniegtā licence, un pierādījumus, kas šos apstākļus apstiprina;
 6) pieteikumam pievienotos dokumentus.
-(2) Likvidācijas pieteikumam pievieno Finanšu un kapitāla tirgus komisijas lēmumu par kredītiestādes darbībai izsniegtās licences anulēšanu un dokumentus, kas apstiprina apstākļus, kuru dēļ kredītiestādei anulēta tās darbībai izsniegtā licence.
+(2) Likvidācijas pieteikumam pievieno Eiropas Centrālās bankas lēmumu par kredītiestādes darbībai izsniegtās licences anulēšanu un dokumentus, kas apstiprina apstākļus, kuru dēļ kredītiestādei anulēta tās darbībai izsniegtā licence.
