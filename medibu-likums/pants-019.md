@@ -5,5 +5,5 @@
 3) staltbriežu buļļu medībām - ne mazāk kā 2000 hektāru, ieskaitot tikai meža masīvus vai to daļas un atsevišķus meža gabalus (pudurus), krūmājus un purvus;
 4) aļņu medībām - ne mazāk kā 2500 hektāru, ieskaitot tikai meža masīvus vai to daļas un atsevišķus meža gabalus (pudurus), krūmājus un purvus.
 (2) (Izslēgta ar 20.06.2013. likumu)
-(3) Ja medību iecirknis neatbilst šā panta pirmajā daļā noteiktajām prasībām, medību tiesību lietotāji var slēgt savstarpējus līgumus par limitēto medījamo dzīvnieku medīšanas organizēšanu blakus esošajos medību iecirkņos. Limitēto medījamo sugu dzīvnieku pieļaujamo nomedīšanas apjomu nosaka līgumā norādītajai kopējai medību platībai.
+(3) Ja medību iecirknis neatbilst šā panta pirmajā daļā noteiktajām prasībām, medību tiesību lietotāji var slēgt savstarpējus līgumus par limitēto medījamo dzīvnieku medīšanas organizēšanu blakus esošajos medību iecirkņos. Līguma neatņemama sastāvdaļa ir savstarpēja vienošanās par sadarbības līguma pušu medību iecirkņu kopējām robežām. Limitēto medījamo sugu dzīvnieku pieļaujamo nomedīšanas apjomu nosaka līgumā norādītajai kopējai medību platībai.
 (4) (Izslēgta ar 20.06.2013. likumu)
