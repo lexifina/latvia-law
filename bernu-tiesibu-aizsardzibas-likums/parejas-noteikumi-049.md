@@ -1,0 +1,1 @@
+49. Persona, kuru bāriņtiesa iecēlusi par aizbildni līdz 2023. gada 31. martam, apgūst mācību programmu aizbildņiem, ja aizbildnis izteicis šādu vēlmi vai bāriņtiesa, izvērtējot aizbildņa rīcību bērna personisko un mantisko tiesību un interešu nodrošināšanā, ir konstatējusi šādu nepieciešamību.
