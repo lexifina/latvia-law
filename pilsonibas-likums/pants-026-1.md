@@ -1,1 +1,3 @@
 26.¹ pants. Latvijas pilsonības iegūšanas vai zaudēšanas procesa norises un ziņu reģistrācija
+Ziņas par personām, attiecībā uz kurām tiek lemts par Latvijas pilsonības iegūšanu vai zaudēšanu, kā arī Latvijas pilsonības iegūšanas vai zaudēšanas procesa norisi reģistrē valsts informācijas sistēmā. Ministru kabinets nosaka valsts informācijas sistēmā iekļaujamo ziņu apjomu, iekļaušanas un dzēšanas kārtību un ziņu glabāšanas termiņus, kā arī institūcijas, kurām piešķirama piekļuve valsts informācijas sistēmā iekļautajām ziņām, un apjomu, kādā tā piešķirama.
+(21.04.2022. likuma redakcijā, kas stājas spēkā 23.04.2022. Pants stājas spēkā 01.04.2023. Sk. pārejas noteikumu 15. punktu)
