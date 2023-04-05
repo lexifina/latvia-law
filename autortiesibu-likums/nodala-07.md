@@ -1,2 +1,2 @@
 VII nodaļa
-Darba izmantošanas tiesības
+Autora mantisko tiesību atsavināšana un darba izmantošanas tiesības

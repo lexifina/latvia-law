@@ -1,0 +1,6 @@
+21.² pants. Darba izmantošana tekstizracei un datizracei pētniecības mērķiem
+(1) Ievērojot šā likuma 18. panta otrās daļas noteikumus, pētniecības organizācijai un kultūras mantojuma iestādei atļauts reproducēt likumīgi pieejamus darbus, lai veiktu tekstizraci un datizraci pētniecības mērķiem.
+(2) Pētniecības organizācija šā likuma izpratnē ir augstākās izglītības institūcija, tostarp tās bibliotēka, zinātniska institūcija vai jebkāda cita institūcija, kuras galvenais uzdevums ir veikt pētniecību vai īstenot izglītojošu darbību, kas ietver arī pētniecību, un kura negūst peļņu vai visu gūto peļņu iegulda pētniecībā, vai arī darbojas sabiedrības interesēs, ko atzinusi valsts. Uzņēmumam, kuram pētniecības organizācijā ir izšķiroša ietekme, nav piekļuves priekšrocību tās radītajiem pētniecības rezultātiem.
+(3) Pētniecības mērķiem izgatavotās darbu kopijas glabā, nodrošinot atbilstošu drošības līmeni, tik ilgi, cik tas nepieciešams pētniecības mērķiem, tostarp pētījuma rezultātu pārbaudei.
+(4) Autortiesību subjektiem ir tiesības veikt pasākumus drošības un integritātes nodrošināšanai attiecībā uz datu tīkliem un datubāzēm, kuras izmanto darbu uzglabāšanai, šim mērķim atbilstošā apjomā.
+(5) Šā panta noteikumi neattiecas uz datorprogrammām.

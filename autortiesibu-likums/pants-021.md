@@ -1,3 +1,7 @@
-21.pants. Darba izmantošana izglītības un pētniecības mērķiem
-(1) Obligāti norādot izmantotā darba nosaukumu un autora vārdu, kā arī ievērojot šā likuma 18.panta otrās daļas noteikumus, atļauts izziņotus vai publicētus darbus vai to fragmentus izmantot izglītības standartiem atbilstošās mācību grāmatās, radio un televīzijas raidījumos, audiovizuālos darbos, vizuālos uzskates līdzekļos un tamlīdzīgi, kas tiek speciāli radīti un izmantoti izglītības un pētniecības iestādēs nepastarpinātā mācību un pētniecības procesā to darbības mērķim atbilstošā apjomā nekomerciālos nolūkos.
-(2) Šā panta noteikumi neattiecas uz datorprogrammām.
+21. pants. Darba izmantošana izglītības un pētniecības mērķiem
+(1) Norādot izmantotā darba nosaukumu, avotu un autora vārdu, kā arī ievērojot šā likuma 18. panta otrās daļas noteikumus, nekomerciālā nolūkā atļauts izmantot izziņotus darbus vai to fragmentus, izmantošanas mērķim atbilstošā apjomā:
+1) ilustrēšanas mērķim mācību procesā, ja šāda izmantošana notiek izglītības iestādē vai citā vietā, kurā īsteno izglītības programmu, vai drošā elektroniskā vidē, kas pieejama tikai izglītojamiem un personām, kas īsteno izglītības programmu;
+2) pētniecības mērķiem.
+(2) Izmantošana ilustrēšanas mērķim šā likuma izpratnē ir tāda darbu vai to fragmentu izmantošana, kas atbalsta, bagātina vai papildina mācību procesu.
+(3) Droša elektroniskā vide šā likuma izpratnē ir digitāla vide mācību vajadzībām, kurā tiek nodrošināta izglītojamo un personu, kas īsteno izglītības programmu, autentifikācija.
+(4) Par šā panta pirmās daļas 1. punktā norādītās darbu vai to fragmentu izmantošanas vietu, ja to īsteno drošā elektroniskā vidē, uzskata Eiropas Savienības dalībvalsti vai Eiropas Ekonomikas zonas valsti, kurā dibināta attiecīgā izglītības iestāde. Par šā panta pirmās daļas 1. punktā norādītās darbu vai to fragmentu izmantošanas vietu uzskata Latviju, ja izglītības iestāde, kas dibināta ārpus Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts, darbojas Latvijā un īsteno mācību priekšmeta "Latvijas mācība" programmu.

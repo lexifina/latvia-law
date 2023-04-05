@@ -1,0 +1,6 @@
+62.⁸ pants. Informācijas sniegšana
+(1) Vismaz sešus mēnešus pirms tam, kad kultūras mantojuma iestāde sāk darbu un blakustiesību objektu izmantošanu, tā nosūta Eiropas Savienības aģentūrai "Eiropas Savienības Intelektuālā īpašuma birojs" ievietošanai tiešsaistes portālā informāciju par:
+1) komerciālā apritē nepieejamiem darbiem vai blakustiesību objektiem, kurus kultūras mantojuma iestāde plāno izmantot;
+2) veidu, kā autortiesību un blakustiesību subjekti var iebilst pret to, ka tiek sākta darbu vai blakustiesību objektu izmantošana, un pieprasīt izmantošanas pārtraukšanu;
+3) noslēgto licences līgumu, tostarp par tā pusēm, darbības teritoriju un paredzētajiem darbu vai blakustiesību objektu izmantošanas veidiem.
+(2) Lai nodrošinātu nozaru specifikai atbilstošu informāciju autortiesību un blakustiesību subjektiem, kultūras mantojuma iestāde un kolektīvā pārvaldījuma organizācija veic papildu publicitātes pasākumus. Ja ir pamats uzskatīt, ka minētie publicitātes pasākumi būs efektīvāki citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai trešajā valstī, šos publicitātes pasākumus veic konkrētajā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai trešajā valstī.

@@ -1,0 +1,5 @@
+56.⁵ pants. Tiešsaistes satura kopīgošanas pakalpojumu sniedzēja pienākums sniegt informāciju
+(1) Tiešsaistes satura kopīgošanas pakalpojumu sniedzējam pēc autortiesību vai blakustiesību subjekta vai tā pārstāvja pieprasījuma ir pienākums sniegt tam informāciju par:
+1) šā likuma 56.² panta trešajā daļā minētās sadarbības īstenošanu, tostarp informāciju par īstenotajiem pasākumiem un rīkiem, lai nodrošinātu, ka sabiedrībai nav pieejami tādi darbi vai blakustiesību objekti, kuru izmantošanai nav saņemta atļauja;
+2) ar licences līgumu starp tiešsaistes satura kopīgošanas pakalpojumu sniedzēju un autortiesību vai blakustiesību subjektu aptverto darbu vai blakustiesību objektu izmantošanu, tostarp izmantojuma intensitāti un ieņēmumiem.
+(2) Tiešsaistes satura kopīgošanas pakalpojumu sniedzējam ir pienākums pakalpojumu sniegšanas noteikumos informēt lietotājus par to iespējām izmantot darbus un blakustiesību objektus, pamatojoties uz šajā likumā paredzētajiem autora vai blakustiesību subjekta mantisko tiesību ierobežojumiem.

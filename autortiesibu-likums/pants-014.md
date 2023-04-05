@@ -6,4 +6,5 @@
 4) vārdu - tiesības pieprasīt, lai viņa vārds būtu pienācīgi norādīts visās kopijās un jebkurā ar viņa darbu saistītā publiskā pasākumā, vai pieprasīt pseidonīma lietošanu vai anonimitāti;
 5) darba neaizskaramību - tiesības atļaut vai aizliegt izdarīt jebkādus pārveidojumus, grozījumus un papildinājumus gan pašā darbā, gan tā nosaukumā;
 6) pretdarbību (arī uz vienpusēju atkāpšanos no līguma, neatlīdzinot zaudējumus) jebkurai sava darba izkropļošanai, sagrozīšanai vai citādai pārveidošanai, kā arī tādai autora tiesību aizskaršanai, kas var kaitēt autora godam vai cieņai.
+(1¹) Datorprogrammas autors, pamatojoties uz savām personiskajām tiesībām, nevar aizliegt datorprogrammas pārveidošanu, grozīšanu un papildināšanu, ja vien šāda izmantošana nekaitē autora godam un cieņai, kā arī nevar īstenot savas personiskās tiesības uz darba atsaukšanu.
 (2) Neviena no šā panta pirmajā daļā minētajām tiesībām autora dzīves laikā nevar pāriet citai personai.

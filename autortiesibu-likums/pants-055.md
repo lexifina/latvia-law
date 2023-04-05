@@ -4,4 +4,5 @@
 (2¹) Fonogrammas producenta tiesības ir spēkā 50 gadus pēc tam, kad izdarīta fiksācija. Ja šajā laikā fonogramma ir likumīgi publicēta vai, ja tā nav publicēta, likumīgi publiskota, aizsardzības termiņš ir spēkā 70 gadus pēc publicēšanas vai publiskošanas dienas.
 (3) Raidorganizācijas tiesības ir spēkā 50 gadus pēc raidījuma pirmās pārraides.
 (3¹) Šā panta pirmajā, otrajā, 2.¹ un trešajā daļā noteiktie aizsardzības termiņi ir spēkā arī tādā gadījumā, ja tiesību subjekts nav Eiropas Savienības pilsonis, bet vismaz viena Eiropas Savienības dalībvalsts tam nodrošina aizsardzību. Šāds aizsardzības termiņš izbeidzas dienā, kad beidzas aizsardzība, ko piešķīrusi valsts, kuras pilsonis ir tiesību subjekts, bet nevar būt ilgāks par šā panta pirmajā, otrajā, 2.¹ un trešajā daļā noteikto termiņu, ja vien Latvijai saistoši starptautiskie līgumi nenosaka citādi.
+(3²) Preses izdevēja tiesības ir spēkā divus gadus pēc preses izdevuma publiskošanas.
 (4) Šajā pantā paredzētais blakustiesību termiņš sākas tā gada 1.janvārī, kas seko pēc tiesību rašanās brīža (juridiskā fakta), un beidzas tā gada 31.decembrī, kurā izbeidzas šajā pantā minētie termiņi.
