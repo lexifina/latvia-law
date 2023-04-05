@@ -1,10 +1,10 @@
 8.pants
-(1) Darbinieku prasījumu garantiju fonda līdzekļu turētājs un rīkotājs ir Maksātnespējas administrācija, kas organizē finanšu līdzekļu uzskaiti un to izmaksu darbinieku prasījumu apmierināšanai.
-(2) Maksātnespējas administrācija saskaņā ar šo likumu veic šādus uzdevumus:
-1) pieņem un izskata maksātnespējīgo darba devēju administratoru iesniegumus par darbinieku prasījumu apmierināšanu un apstiprina no darbinieku prasījumu garantiju fonda līdzekļiem izmaksājamās summas;
+(1) Darbinieku prasījumu garantiju fonda līdzekļu turētājs un rīkotājs ir Maksātnespējas kontroles dienests, kas organizē finanšu līdzekļu uzskaiti un to izmaksu darbinieku prasījumu apmierināšanai.
+(2) Maksātnespējas kontroles dienests saskaņā ar šo likumu veic šādus uzdevumus:
+1) izmantojot Elektronisko maksātnespējas uzskaites sistēmu, izņemot kredītiestādes maksātnespējas procesu, pieņem un izskata maksātnespējīgo darba devēju administratoru iesniegumus par darbinieku prasījumu apmierināšanu un apstiprina no darbinieku prasījumu garantiju fonda līdzekļiem izmaksājamās summas;
 2) apmierina darbinieku prasījumus;
 3) (izslēgts ar 15.12.2011. likumu);
 4) (izslēgts ar 15.12.2011. likumu);
 5) realizē kreditora tiesības pret maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanai izmaksāto līdzekļu apmērā likumā paredzētajā kārtībā;
-6) izmanto Kriminālprocesa likumā noteiktās procesuālās tiesības un par kriminālprocesa norisi atbildīgajām valsts institūcijām iesniedz iesniegumu par darbinieku prasījumu garantiju fondam radītā kaitējuma kompensāciju no šā fonda izmaksāto naudas līdzekļu apmērā, ja Maksātnespējas administrācija ir atzīta par cietušo konkrētā kriminālprocesā.
+6) izmanto Kriminālprocesa likumā noteiktās procesuālās tiesības un par kriminālprocesa norisi atbildīgajām valsts institūcijām iesniedz iesniegumu par darbinieku prasījumu garantiju fondam radītā kaitējuma kompensāciju no šā fonda izmaksāto naudas līdzekļu apmērā, ja Maksātnespējas kontroles dienests ir atzīts par cietušo konkrētā kriminālprocesā.
 (3) Darbinieku prasījumu garantiju fonda līdzekļu atlikumu izlieto darbinieku prasījumu apmierināšanai nākamajos saimnieciskajos gados.

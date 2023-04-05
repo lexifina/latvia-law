@@ -1,3 +1,4 @@
-2.pants
-(1) Šā likuma izpratnē darba devēja maksātnespējas gadījums iestājas dienā, kad tiesa darba devējam pasludinājusi juridiskās personas maksātnespējas procesu vai pasludinājusi kredītiestādes maksātnespēju.
-(2) Šā likuma izpratnē pārrobežu maksātnespējas process ir maksātnespējas procedūra, kas uzsākta saskaņā ar Padomes 2000.gada 29.maija regulu (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk - Padomes regula Nr. 1346/2000).
+2. pants
+(1) Šā likuma izpratnē darba devēja maksātnespējas gadījums iestājas dienā, kad tiesa darba devējam pasludinājusi fiziskās personas maksātnespējas procesu, juridiskās personas maksātnespējas procesu vai pasludinājusi kredītiestādes maksātnespēju.
+(2) Šā likuma izpratnē pārrobežu maksātnespējas process ir maksātnespējas procedūra, kas uzsākta saskaņā ar Eiropas Parlamenta un Padomes 2015. gada 20. maija regulu (ES) 2015/848 par maksātnespējas procedūrām (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 2015/848).
+(3) Šā likuma noteikumus piemēro arī tad, ja uz darba devēju attiecināms fiziskās personas maksātnespējas process. Šādos gadījumos citos normatīvajos aktos noteikto fiziskās personas maksātnespējas procesa regulējumu piemēro pēc analoģijas ar šajā likumā un Maksātnespējas likumā ietverto juridiskās personas maksātnespējas procesa regulējumu, ciktāl tas attiecināms un ja šajā likumā nav noteikts citādi.

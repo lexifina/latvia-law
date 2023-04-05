@@ -1,0 +1,1 @@
+13. Grozījumi šā likuma 5. panta 2.¹ daļā par darba tiesisko attiecību izbeigšanas perioda sākuma noteikšanu un 5. panta papildināšanu ar 2.² un 2.³ daļu piemērojami juridiskās personas maksātnespējas procesos, kas uzsākti pēc 2023. gada 14. septembra.
