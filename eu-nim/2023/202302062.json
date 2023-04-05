@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Autortiesību likumā",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2023/67.2",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-04",
+  "entry_into_force": "2023-04-05",
+  "notification_date": "2023-04-05",
+  "commission_reference": "MNE(2023)02062",
+  "nim_celex": "72019L0790LVA_202302062",
+  "nim_id": "202302062",
+  "transposes_celex": [
+    "32019L0790"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9d80795-d849-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
