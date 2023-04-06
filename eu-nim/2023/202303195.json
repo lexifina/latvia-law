@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 4. aprīļa noteikumi Nr. 165 \"Grozījumi Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 790 \"Sociālās rehabilitācijas pakalpojumu sniegšanas kārtība no vardarbības cietušām un vardarbību veikušām pilngadīgām personām\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68A",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-05",
+  "entry_into_force": "2023-04-06",
+  "notification_date": "2023-06-06",
+  "commission_reference": "MNE(2023)03195",
+  "nim_celex": "72012L0029LVA_202303195",
+  "nim_id": "202303195",
+  "transposes_celex": [
+    "32012L0029"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c531fd62-0697-11ee-b12e-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
