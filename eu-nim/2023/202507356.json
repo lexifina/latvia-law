@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 4. aprīļa noteikumi Nr. 169 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 2.2.3. specifiskā atbalsta mērķa \"Uzlabot dabas aizsardzību un bioloģisko daudzveidību, \"zaļo\" infrastruktūru, it īpaši pilsētvidē, un samazināt piesārņojumu\" 2.2.3.6. pasākuma \"Gaisa piesārņojumu mazinošu pasākumu īstenošana, uzlabojot mājsaimniecību siltumapgādes sistēmas\" īstenošanas noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2023-04-06",
+  "entry_into_force": "2023-04-07",
+  "notification_date": "2025-12-29",
+  "commission_reference": "MNE(2025)07356",
+  "nim_celex": "72023L1791LVA_202507356",
+  "nim_id": "202507356",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2252a1af-a3dd-479e-b3c3-6c87df471bf5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
