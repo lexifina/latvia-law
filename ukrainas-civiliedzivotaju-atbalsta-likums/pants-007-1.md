@@ -3,7 +3,7 @@
 (1¹) Atlīdzība par Ukrainas civiliedzīvotāju izmitināšanu ir terminēts atbalsta pasākums, kurš tiek īstenots ne ilgāk kā līdz 2023. gada 30. jūnijam.
 (1²) Izmitinātājam ir tiesības saņemt atlīdzību arī par izmitināšanas periodu, kas pārsniedz šā panta pirmajā daļā minētās 120 dienas, bet ne ilgāk kā līdz 2023. gada 30. jūnijam, ja izmitināmā persona šā panta otrajā daļā minētā pieteikuma iesniegšanas brīdī:
 1) (izslēgts ar 08.12.2022. likumu);
-2) ir persona ar invaliditāti vai atbilstoši šā likuma 7.² panta ceturtajā daļā noteiktajam tai ir Valsts komisijas izsniegts atzinums par īpašas kopšanas nepieciešamību;
+2) ir persona ar invaliditāti;
 3) nodrošina šīs daļas 2. punktā minētās personas aprūpi;
 4) ir pensijas vecumā atbilstoši Latvijā noteiktajam pensionēšanās vecumam;
 5) Latvijā iegūst izglītību klātienē pirmsskolas, pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē vai pāriet uz mācībām nākamajā izglītības pakāpē, iegūst izglītību augstākās izglītības iestādē vai turpina izglītības ieguvi Ukrainā tālmācībā vai attālināti pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē;

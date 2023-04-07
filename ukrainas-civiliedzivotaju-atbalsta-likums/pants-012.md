@@ -3,14 +3,16 @@
 (1¹) Primāri sniedzamais atbalsts ir terminēts atbalsta pasākums, kurš tiek īstenots ne ilgāk kā līdz 2023. gada 30. jūnijam.
 (1²) Valsts turpina nodrošināt izmitināšanu, bet ne ilgāk kā līdz 2023. gada 30. jūnijam tiem Ukrainas civiliedzīvotājiem, kuriem tā nepieciešama arī pēc šā panta pirmajā daļā minētā 60 vai 120 dienu perioda, ja persona atbalsta pagarināšanas pieteikuma brīdī:
 1) (izslēgts ar 08.12.2022. likumu);
-2) ir persona ar invaliditāti vai atbilstoši šā likuma 7.² panta ceturtajā daļā noteiktajam tai ir Valsts komisijas izsniegts atzinums par īpašas kopšanas nepieciešamību;
+2) ir persona ar invaliditāti;
 3) nodrošina šīs daļas 2. punktā minētās personas aprūpi;
 4) ir pensijas vecumā atbilstoši Latvijā noteiktajam pensionēšanās vecumam;
 5) Latvijā iegūst izglītību klātienē pirmsskolas, pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē vai pāriet uz mācībām nākamajā izglītības pakāpē, iegūst izglītību augstākās izglītības iestādē vai turpina izglītības ieguvi Ukrainā tālmācībā vai attālināti pamatizglītības, vispārējās vidējās vai profesionālās vidējās izglītības iestādē;
 6) ir sieviete, kas stājusies grūtniecības uzskaitē;
 7) ir viens no bērna vecākiem vai ārkārtas aizbildnis, kurš kopj bērnu līdz divu gadu vecumam;
 8) nodrošina pirmsskolas vecuma bērna kopšanu, aprūpi un bērnam nav iespējas apmeklēt pirmsskolas izglītības iestādi;
-9) ir bērns pirmsskolas vecumā, kuram nav iespējas apmeklēt pirmsskolas izglītības iestādi.
+9) ir bērns pirmsskolas vecumā, kuram nav iespējas apmeklēt pirmsskolas izglītības iestādi;
+10) ir persona, kura valsts apmaksātās medicīniskās transportēšanas ietvaros pārvesta no Ukrainas ārstniecības iestādes uz stacionāro ārstniecības iestādi Latvijā un saņem veselības aprūpes pakalpojumus atbilstoši medicīniskās transportēšanas mērķim.
 (1³) Valsts nodrošina šā panta pirmajā daļā noteikto primāri sniedzamo atbalstu - izmitināšanu - līdz 120 dienām, bet, ja nav iespējams to nodrošināt attiecīgajā pašvaldībā, tad primāri sniedzamo atbalstu - izmitināšanu - nodrošina līdz 60 dienām. Pašvaldība var pieņemt lēmumu par attiecīgā Ukrainas civiliedzīvotāja izmitināšanu līdz 60 dienām tikai tad, ja attiecīgajā pašvaldībā ir sasniegti 80 procenti no faktiski iespējamā izmitināto Ukrainas civiliedzīvotāju skaita un nav iespējams nodrošināt attiecīgā Ukrainas civiliedzīvotāja izmitināšanu citā pašvaldībā. Izdevumus par Ukrainas civiliedzīvotājiem nodrošināto izmitināšanu pašvaldībai sedz, ņemot vērā izvēlēto izmitināšanas ilgumu, nepārsniedzot Ministru kabineta noteikto maksimālo apmēru. Pašvaldība pirms lēmuma pieņemšanas par Ukrainas civiliedzīvotāja izmitināšanu līdz 60 dienām, ņemot vērā attiecīgajā pašvaldībā faktiski izmitināto Ukrainas civiliedzīvotāju skaitu, attiecīgās pašvaldības atrašanās vietu, iespējamās izmitināšanas izmaksas atbilstoši faktiskajai īres tirgus situācijai attiecīgajā pašvaldībā, nodarbinātības, izglītības un sociālā atbalsta iespējas attiecīgajā pašvaldībā un attiecīgā Ukrainas civiliedzīvotāja atbilstību kādai no šā panta 1.² daļā minētajām personu grupām, sākotnēji izvērtē iespējas piedāvāt attiecīgajam Ukrainas civiliedzīvotājam izmitināšanu citā pašvaldībā. Ja pašvaldība ir pieņēmusi lēmumu par attiecīgā Ukrainas civiliedzīvotāja izmitināšanu līdz 60 dienām, tad viņš nevar saņemt primāro atbalstu - izmitināšanu - līdz 120 dienām.
+(1⁴) Šā panta 1.² daļas 10. punktā minētajām personām pārtiku nodrošina visu izmitināšanas periodu, bet ne ilgāk kā līdz 2023. gada 30. jūnijam.
 (2) (Izslēgta ar 24.03.2022. likumu)
 (3) Kārtību, kādā organizē personām primāri sniedzamā atbalsta nodrošināšanu, nosaka Ministru kabinets.
