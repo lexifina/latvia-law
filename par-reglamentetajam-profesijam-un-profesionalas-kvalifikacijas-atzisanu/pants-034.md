@@ -15,7 +15,8 @@ g) veterinārārsts;
 3) advokāta prakses tiesību atzīšanā, ja Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas dalībvalsts advokāts vēlas Latvijas Republikā praktizēt ar savas mītnes valsts profesionālo nosaukumu;
 4) (izslēgts ar 11.04.2019. likumu);
 5) (izslēgts ar 12.11.2015. likumu);
-6) (izslēgts ar 21.06.2018. likumu).
+6) (izslēgts ar 21.06.2018. likumu);
+7) profesionālā patentpilnvarnieka profesijai.
 (2) Ja pretendenta mītnes valsts nav pievienojusies šā panta pirmajā daļā minētajiem starptautiskajiem līgumiem, pretendenta profesionālo kvalifikāciju atzīst tikai tad, ja viņa izglītība un profesionālā pieredze līmeņa, satura un ilguma ziņā būtiski neatšķiras no Latvijas Republikā attiecīgajai profesijai noteiktajām prasībām.
 (3) (Izslēgta ar 17.07.2008. likumu)
 (4) (Izslēgta ar 17.07.2008. likumu)

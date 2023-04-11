@@ -1,0 +1,3 @@
+53.¹ pants. Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu profesionālo patentpilnvarnieku kvalifikācijas atzīšana Latvijas Republikā
+(1) Latvijas Republikā atzīst Eiropas Savienības dalībvalsts un Eiropas Ekonomikas zonas valsts profesionālā patentpilnvarnieka kvalifikāciju, kas apliecināta ar attiecīgās valsts kompetentu institūciju izsniegtajiem dokumentiem par tiesībām darboties par profesionālo patentpilnvarnieku šajā valstī.
+(2) Profesionālā patentpilnvarnieka kvalifikācijas atzīšanu šā panta pirmās daļas izpratnē veic Patentu valde saskaņā ar Rūpnieciskā īpašuma institūciju un procedūru likumu.

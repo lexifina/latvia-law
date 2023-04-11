@@ -5,6 +5,7 @@
 3) nodrošināt iespēju Latvijas Republikā iegūto profesionālo kvalifikāciju atzīt ārvalstīs un ārvalstīs iegūto profesionālo kvalifikāciju atzīt Latvijas Republikā;
 4) veicināt personu brīvu pārvietošanos Eiropas Savienības dalībvalstīs un Eiropas Brīvās tirdzniecības asociācijas dalībvalstīs.
 (2) Likums nosaka reglamentētās profesijas, kā arī pamatprasības, kas jāievēro Latvijas Republikā un ārvalstīs iegūtās kvalifikācijas atzīšanā šajās profesijās.
+(2¹) Likums nosaka kārtību, kādā novērtē to prasību samērīgumu, ar kurām nosaka jaunas reglamentētās profesijas vai veic grozījumus attiecībā uz prasībām patstāvīgas profesionālās darbības uzsākšanai vai veikšanai reglamentētajās profesijās.
 (3) Likuma noteikumi par izglītībai un profesionālajai kvalifikācijai izvirzāmajām prasībām attiecas uz fiziskajām personām, kuras vēlas uzsākt darbu reglamentētajās profesijās vai darboties tajās patstāvīgi kā pašnodarbinātas personas vai darbinieki.
 (4) Uz Latvijas pilsoņiem un nepilsoņiem, kuri izglītību un profesionālo kvalifikāciju ieguvuši ārvalstīs, attiecas šā likuma noteikumi par attiecīgajās ārvalstīs iegūtās profesionālās kvalifikācijas atzīšanu Eiropas Savienības dalībvalstu pilsoņiem.
 (5) Uz bezvalstniekiem, kas saņēmuši ārvalstīs izsniegtus bezvalstnieka ceļošanas dokumentus, kā arī uz bēgļiem un personām, kurām piešķirts alternatīvais statuss, attiecas šā likuma noteikumi par profesionālās kvalifikācijas atzīšanu.
