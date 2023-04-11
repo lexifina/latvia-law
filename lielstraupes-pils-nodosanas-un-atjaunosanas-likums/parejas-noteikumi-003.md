@@ -1,0 +1,1 @@
+3. Cēsu novada pašvaldība gada laikā pēc Lielstraupes pils nodošanas un pieņemšanas akta parakstīšanas iesniedz Kultūras ministrijai saskaņošanai Lielstraupes pils saglabāšanas, atjaunošanas un izmantošanas koncepciju.

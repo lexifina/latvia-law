@@ -1,0 +1,3 @@
+8. pants. Likumā noteikto uzdevumu īstenošanas uzraudzība
+(1) Kultūras ministrija nodrošina šajā likumā Cēsu novada pašvaldībai noteikto uzdevumu īstenošanas uzraudzību.
+(2) Kultūras ministrija Lielstraupes pils komplekso atjaunošanas darbu laikā - 15 gadus no Lielstraupes pils saglabāšanas, atjaunošanas un izmantošanas koncepcijas saskaņošanas brīža - nodrošina komercdarbības atbalsta kontroles nosacījumu ievērošanu attiecībā uz šā likuma 4. pantā minētajiem nekustamajiem īpašumiem, pamatojoties uz Cēsu novada pašvaldības iesniegto informāciju par to izmantošanu. Cēsu novada pašvaldība nodrošina komercdarbības atbalsta kontroles nosacījumu ievērošanu attiecībā uz tās publisko resursu piešķiršanu Lielstraupes pils atjaunošanai un izmantošanai.

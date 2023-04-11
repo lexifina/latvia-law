@@ -1,0 +1,1 @@
+2. Cēsu novada pašvaldība šā likuma 4. pantā minētos nekustamos īpašumus normatīvajos aktos noteiktajā kārtībā ieraksta zemesgrāmatā uz sava vārda viena mēneša laikā no nodošanas un pieņemšanas akta parakstīšanas.

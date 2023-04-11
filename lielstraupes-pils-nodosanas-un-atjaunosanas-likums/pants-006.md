@@ -1,0 +1,4 @@
+6. pants. Lielstraupes pils saglabāšana un izmantošana
+(1) Lielstraupes pils un ar to tieši saistītās saglabājamās kultūrvēsturiskās vērtības ir uzturamas pienācīgā estētiskā, sanitārā, tehniskā un ugunsdrošā stāvoklī, savlaicīgi veicot kopšanas un neatliekamas uzturēšanas pasākumus. Lielstraupes pils ekspluatācijas (izmantošanas) slodzei jābūt sabalansētai, neradot pils saglabājamo vērtību paātrinātu nolietošanos.
+(2) Nav pieļaujamas darbības, kas apdraud un mazina Lielstraupes pils un ar to tieši saistīto saglabājamo kultūrvēsturisko vērtību saglabāšanu ilgtermiņā.
+(3) Lielstraupes pili prioritāri izmanto kultūras, izglītības un zinātnes mērķiem, tostarp kā koncertu, teātra izrāžu, izstāžu, kultūras vērtību popularizēšanas un ar to saistītu izglītojošu pasākumu norises vietu. Pieļaujama Lielstraupes pils izmantošana arī tūrisma un citiem mērķiem, ja tas nekaitē kultūras piemineklim, nemazina tā vēsturisko, zinātnisko un māksliniecisko vērtību.
