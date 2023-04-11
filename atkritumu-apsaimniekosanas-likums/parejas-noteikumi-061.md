@@ -1,0 +1,1 @@
+61. Pašvaldības līdz 2023. gada 31. decembrim pārskata un, ja nepieciešams, precizē saistošos noteikumus par atkritumu apsaimniekošanu savā administratīvajā teritorijā atbilstoši šā likuma 8. panta pirmās daļas 3. punktam.

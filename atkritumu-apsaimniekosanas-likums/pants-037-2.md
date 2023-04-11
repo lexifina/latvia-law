@@ -1,0 +1,7 @@
+37.² pants. (1) Riepu ražotājs sedz visas šā likuma 37.¹ panta pirmajā un otrajā daļā minēto pasākumu - nolietoto riepu savākšanas, pieņemšanas, pārvadāšanas, sagatavošanas atkārtotai izmantošanai, pārstrādes un reģenerācijas - izmaksas.
+(2) Riepu ražotājs riepu tirdzniecības vai nomaiņas vietās nodrošina nolietoto riepu pieņemšanu bez maksas vismaz tādā pašā apmērā, kādā persona iegādājusies riepas šajā riepu tirdzniecības vai nomaiņas vietā. Riepu ražotājs riepu tirdzniecības vai nomaiņas vietā, kā arī interneta tirdzniecības vietnē, kur riepas tiek piedāvātas tirdzniecībai, ievieto informāciju par kārtību, kādā tas nodrošina nolietoto riepu pieņemšanu atbilstoši šā likuma prasībām.
+(3) Riepu ražotājs nodrošina, ka tiek segtas visas ar visu veidu riepu savākšanu, pieņemšanu, pārvadāšanu, sagatavošanu atkārtotai izmantošanai, pārstrādi un reģenerāciju saistīto sabiedrības informēšanas pasākumu izmaksas.
+(4) Videi kaitīgu preču atkritumu apsaimniekotājs nodrošina, ka tā tīmekļvietnē tiek publicēta informācija par:
+1) tiem riepu ražotājiem, kuri pievienojušies attiecīgajai ražotāju paplašinātās atbildības sistēmai;
+2) nolietoto riepu pieņemšanas vietām un nolietoto riepu pieņemšanas kārtību.
+(5) Ja riepu ražotājs šā likuma 37.¹ panta pirmajā daļā noteiktos pasākumus veic pats, tas šā panta ceturtās daļas 2. punktā minēto informāciju izvieto riepu tirdzniecības vietā un interneta tirdzniecības vietnē.

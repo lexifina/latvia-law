@@ -1,0 +1,1 @@
+59. Līdz nešķirotu sadzīves atkritumu apstrādes tarifa un sadzīves atkritumu apglabāšanas tarifa noteikšanai saskaņā ar šā likuma 40. panta otro daļu nodrošināms tas, ka līgums, kas pirms attiecīgā atkritumu apsaimniekošanas reģionālā centra izveides noslēgts par šā likuma 40.¹ panta pirmajā daļā minēto ārpakalpojumu, atbilst šā likuma 40.¹ panta otrajai daļai.
