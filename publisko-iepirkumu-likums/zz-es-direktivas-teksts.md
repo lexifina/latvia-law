@@ -6,4 +6,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 5) Eiropas Parlamenta un Padomes 2012. gada 25. oktobra direktīvas 2012/27/ES par energoefektivitāti, ar ko groza direktīvas 2009/125/EK un 2010/30/ES un atceļ direktīvas 2004/8/EK un 2006/32/EK;
 6) Eiropas Parlamenta un Padomes 2014. gada 26. februāra direktīvas 2014/24/ES par publisko iepirkumu un ar ko atceļ direktīvu 2004/18/EK;
 7) Eiropas Parlamenta un Padomes 2014. gada 16. aprīļa direktīvas 2014/55/ES par elektroniskajiem rēķiniem publiskā iepirkuma procedūrās;
-8) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas 2019/1161, ar ko groza direktīvu 2009/33/EK par "tīro" un energoefektīvo autotransporta līdzekļu izmantošanas veicināšanu.
+8) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas 2019/1161, ar ko groza direktīvu 2009/33/EK par "tīro" un energoefektīvo autotransporta līdzekļu izmantošanas veicināšanu;
+9) Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/882 par produktu un pakalpojumu piekļūstamības prasībām.

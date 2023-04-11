@@ -1,0 +1,1 @@
+23. Šā likuma 20. panta 9.¹ daļa stājas spēkā 2025. gada 28. jūnijā. Šā likuma 20. panta 9.¹ daļas prasības neattiecas uz iepirkumiem un iepirkuma procedūrām, kuras izsludinātas vai par kurām, ja iepirkums vai iepirkuma procedūra nav izsludināma, lēmums par iepirkuma vai iepirkuma procedūras uzsākšanu pieņemts līdz 2025. gada 27. jūnijam.
