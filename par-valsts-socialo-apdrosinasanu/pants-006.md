@@ -22,7 +22,8 @@
 11) personas, kuras veic algotos pagaidu sabiedriskos darbus;
 12) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
 13) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais;
-14) personas, kuras piedalās Nodarbinātības valsts aģentūras organizētajā pasākumā "Darbam nepieciešamo iemaņu attīstība".
+14) personas, kuras piedalās Nodarbinātības valsts aģentūras organizētajā pasākumā "Darbam nepieciešamo iemaņu attīstība";
+15) personas, kuras pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (5) Papildus šā panta pirmajā daļā minētajām personām apdrošināšanai pret bezdarbu ir pakļautas:
 1) (izslēgts ar 26.04.2007. likumu);
 2) personas, kuras kopj bērnu, kas nav sasniedzis pusotra gada vecumu un saņem bērna kopšanas pabalstu;
@@ -32,19 +33,22 @@
 6) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 7) personas, kuru laulātais (kam piešķirts diplomātiskais rangs saskaņā ar Diplomātiskā un konsulārā dienesta likumu) pilda diplomātisko un konsulāro dienestu ārvalstīs un kuras uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais;
 8) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
-9) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais.
+9) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais;
+10) personas, kuras pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (5¹) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām invaliditātes apdrošināšanai ir pakļautas personas, kuras:
 1) saņem maternitātes vai paternitātes pabalstu;
 2) kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
 3) kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu;
 4) saņem atlīdzību par adoptējamā bērna aprūpi;
-5) saņem atlīdzību par audžuģimenes pienākumu pildīšanu.
+5) saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
+6) pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (5²) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām:
 1) darba ņēmēji un pašnodarbinātie, kuri saņem dīkstāves pabalstu, dīkstāves palīdzības pabalstu, atbalstu par dīkstāvi, vecāku pabalsta turpinājumu vai slimības palīdzības pabalstu, ir sociāli apdrošināti pabalsta periodā attiecīgi tiem apdrošināšanas veidiem, kuriem viņi ir sociāli apdrošināti kā darba ņēmēji vai pašnodarbinātie;
 2) pensiju apdrošināšanai ir pakļautas personas, kuras saņem bezdarbnieka palīdzības pabalstu un jaunā speciālista pabalstu.
 (5³) Obligātās iemaksas par šā panta 5.² daļā minētajām personām netiek veiktas, bet attiecīgie periodi tiek pielīdzināti apdrošināšanas periodam:
 1) šā panta 5.² daļas 1. punktā minētajām personām, nosakot tām tiesības uz sociālās apdrošināšanas pabalstiem, apdrošināšanas atlīdzību un valsts pensiju, kā arī tiek ņemti vērā valsts pensijas un bezdarbnieka pabalsta apdrošināšanas stāža aprēķinā;
 2) šā panta 5.² daļas 2. punktā minētajām personām, nosakot tām tiesības uz vecuma un apgādnieka zaudējuma pensiju un aprēķinot šo pensiju apdrošināšanas stāžu.
+(5⁴) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām maternitātes, paternitātes un slimības apdrošināšanai un vecāku apdrošināšanai ir pakļautas personas, kuras pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (6) Ārvalstu darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, invaliditātes apdrošināšanai, veselības apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai.
 (7) Zemnieku (zvejnieku) saimniecību īpašnieki, kuri, nebūdami darba tiesiskajās attiecībās ar savas zemnieku (zvejnieku) saimniecības pārvaldes institūciju, veic šīs zemnieku (zvejnieku) saimniecības vadības funkciju, ja šajā zemnieku (zvejnieku) saimniecībā likumā noteiktajā kārtībā nav iecelts (ievēlēts) pārvaldnieks (direktors), un kuri ir sasnieguši vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai kuriem ir piešķirta valsts vecuma pensija (tai skaitā priekšlaicīgi), vai kuri ir personas ar I vai II grupas invaliditāti, nav obligāti sociāli apdrošināmās personas.
 (8) Iekšzemes darba ņēmēji pie darba devēja - ārvalstnieka ir pakļauti pensiju apdrošināšanai, apdrošināšanai pret bezdarbu, invaliditātes apdrošināšanai, veselības apdrošināšanai, maternitātes un slimības apdrošināšanai, vecāku apdrošināšanai un darba negadījumu apdrošināšanai.

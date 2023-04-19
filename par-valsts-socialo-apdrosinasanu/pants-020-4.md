@@ -15,7 +15,8 @@
 8) personu, kuru nodarbina darba devējs, kas reģistrēts Sociālo pakalpojumu sniedzēju reģistrā;
 9) personu, kura ir pakļauta sociālās atstumtības riskam un kuru nodarbina darba devējs, kam piešķirts sociālā uzņēmuma statuss;
 10) personu, kura sniedz valsts finansētu pavadoņa (bērnam līdz 18 gadu vecumam) vai asistenta pakalpojumu vai pašvaldības finansētu aprūpes pakalpojumu bērnam līdz 18 gadu vecumam, vai Eiropas Savienības politiku instrumentu projekta ietvaros finansētu aprūpes pakalpojumu bērnam līdz 18 gadu vecumam;
-11) laiku, kurā pašnodarbinātajam ir pārtraukta saimnieciskā darbība.
+11) laiku, kurā pašnodarbinātajam ir pārtraukta saimnieciskā darbība;
+12) personu, kura pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (5) Šajā pantā noteikto minimālo obligāto iemaksu objektu nepiemēro proporcionāli par tām taksācijas gada kalendāra dienām, kurās darba ņēmējs atrodas atvaļinājumā bez darba algas saglabāšanas, bērna kopšanas atvaļinājumā, un par tām kalendāra dienām, kurās darba ņēmējam (bērna tēvam) ir piešķirts atvaļinājums sakarā ar bērna piedzimšanu, kurās darba ņēmējs atrodas atvaļinājumā bez darba algas saglabāšanas, kas piešķirts darba ņēmējam, kura aprūpē un uzraudzībā pirms adopcijas apstiprināšanas tiesā ar bāriņtiesas lēmumu nodots aprūpējamais bērns, kā arī par pārejošas darbnespējas, grūtniecības un dzemdību atvaļinājuma kalendāra dienām, par kurām maksātājam ir izsniegta darbnespējas lapa.
 (6) Šajā pantā noteikto minimālo obligāto iemaksu objektu nepiemēro sezonas laukstrādnieku ienākuma nodokļa maksātājam, iekšzemes darba ņēmējam pie darba devēja ārvalstnieka un ārvalstu darba ņēmējam pie darba devēja ārvalstnieka.
 (7) Valsts sociālās apdrošināšanas aģentūra triju mēnešu laikā pēc ceturkšņa beigām aprēķina minimālās obligātās iemaksas, kas papildus jāveic darba devējam un pašnodarbinātajam, un līdz trešā mēneša 20. datumam paziņo par šīm iemaksām Valsts ieņēmumu dienestam.
