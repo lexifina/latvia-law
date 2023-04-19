@@ -1,5 +1,5 @@
 26. pants. Disciplinārsoda dzēšana vai atcelšana
-(1) Disciplinārsods (izņemot pazemināšanu amatā vai atvaļināšanu no dienesta pirms noteiktā laika) profesionālā dienesta karavīram tiek dzēsts sešus mēnešus pēc disciplinārsoda izpildes.
+(1) Disciplinārsods (izņemot pazemināšanu amatā vai atvaļināšanu no dienesta pirms noteiktā laika) karavīram tiek dzēsts sešus mēnešus pēc disciplinārsoda izpildes.
 (2) Disciplinārsods (izņemot pazemināšanu amatā vai izslēgšanu no Zemessardzes) zemessargam tiek dzēsts sešus mēnešus pēc disciplinārsoda izpildes.
 (3) Profesionālā dienesta karavīru vai zemessargu, kurš pazemināts amatā, var atjaunot iepriekšējā amatā vai tam līdzvērtīgā amatā ne agrāk kā pēc gada.
 (4) Komandieris (priekšnieks), kas piemērojis disciplinārsodu, vai sodītā karavīra vai zemessarga tiešie komandieri (priekšnieki), kuru disciplinārā vara ir augstāka par sodu piemērojušā komandiera (priekšnieka) disciplināro varu, var atcelt disciplinārsodu. Attiecīgais komandieris (priekšnieks) ar rakstveida pavēli var atcelt disciplinārsodu pirms termiņa (bet ne agrāk kā 60 dienas pēc disciplinārsoda piemērošanas), ja ir pārliecināts, ka karavīrs vai zemessargs ir apzinājies piemēroto sodu, tas viņu ir ietekmējis un viņš ar savu uzvedību pierādījis, ka ir labojies.

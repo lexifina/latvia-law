@@ -8,6 +8,7 @@
 (5) Apelācijas komisija ir tiesīga:
 1) noraidīt iesniegumā izteikto lūgumu un atstāt spēkā komandiera (priekšnieka) piemēroto disciplinārsodu;
 2) apmierināt iesniegumā izteikto lūgumu un pilnīgi atcelt piemēroto disciplinārsodu;
-3) daļēji apmierināt iesniegumā izteikto lūgumu un piemērot vieglāku disciplinārsodu par to, kas karavīram vai zemessargam piemērots.
-(6) Karavīram un zemessargam ir tiesības Apelācijas komisijas lēmumu pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
-(7) Ja Apelācijas komisija izmanto šā panta piektās daļas 2. un 3. punktā minētās tiesības, tā vienlaikus ar lēmumu var pieņemt blakus lēmumu, kurā norāda konstatētos trūkumus un pasākumus to novēršanai.
+3) daļēji apmierināt iesniegumā izteikto lūgumu un piemērot vieglāku disciplinārsodu par to, kas karavīram vai zemessargam piemērots;
+4) pilnīgi atcelt piemēroto disciplinārsodu un izteikt aizrādījumu.
+(6) Karavīram un zemessargam ir tiesības Apelācijas komisijas lēmumu, izņemot lēmumu, ar kuru Apelācijas komisija izsaka aizrādījumu, pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
+(7) Ja Apelācijas komisija izmanto šā panta piektās daļas 2., 3. un 4. punktā minētās tiesības, tā vienlaikus ar lēmumu var pieņemt blakus lēmumu, kurā norāda konstatētos trūkumus un pasākumus to novēršanai.

@@ -8,6 +8,7 @@
 6) mēnešalgas samazināšanu līdz 20 procentiem uz laiku, kas nav ilgāks par sešiem mēnešiem, - kareivju, instruktoru un virsnieku sastāvam;
 7) pazemināšanu amatā - kareivju, instruktoru un virsnieku sastāvam;
 8) miera laikā - atvaļināšanu no aktīvā dienesta pirms noteiktā laika - kareivju, instruktoru un virsnieku sastāvam.
+(1¹) Šā panta pirmās daļas 5., 6., 7. un 8. punktā minēto disciplinārsodu nepiemēro valsts aizsardzības dienesta karavīram.
 (2) Par militārās disciplīnas pārkāpumu zemessargu, instruktoru un virsnieku sastāva zemessargiem var piemērot šādus disciplinārsodus:
 1) rājienu;
 2) brīdinājumu par neatbilstību ieņemamam amatam;
