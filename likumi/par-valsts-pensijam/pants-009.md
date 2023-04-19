@@ -22,4 +22,5 @@ b) pašnodarbinātais, kurš veicis apdrošināšanas iemaksas;
 7) laiks, kurā persona saņem bērna invalīda kopšanas pabalstu;
 8) laiks, kurā persona veic algotus pagaidu sabiedriskos darbus;
 9) laiks, kurā persona saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
-10) laiks, kurā persona uzturas attiecīgajā ārvalstī kā Eiropas Savienības Aģentūras tiesu iestāžu sadarbībai krimināllietās (Eurojust) pārstāvja vai sakaru virsnieka laulātais.
+10) laiks, kurā persona uzturas attiecīgajā ārvalstī kā Eiropas Savienības Aģentūras tiesu iestāžu sadarbībai krimināllietās (Eurojust) pārstāvja vai sakaru virsnieka laulātais;
+11) laiks, kurā persona pilda valsts aizsardzības dienestu.
