@@ -1,6 +1,7 @@
 66.pants. Kārtība, kādā rezerves karavīri iesaucami uz kārtējām un pārbaudes militārajām mācībām
 (1) Rezerves karavīru var iesaukt uz kārtējām vai pārbaudes militārajām mācībām Nacionālo bruņoto spēku vienībās. Militāro mācību laiku, vietu un dalībnieku skaitu nosaka Nacionālo bruņoto spēku komandieris.
 (1¹) Nacionālo bruņoto spēku komandieris vienu reizi gadā pēc rezerves karavīra motivēta lūguma var pārcelt rezerves karavīram plānotās pārbaudes militārās mācības uz citu laiku, ja atklājušies no rezerves karavīra gribas neatkarīgi un nenovēršami apstākļi, kurus Nacionālo bruņoto spēku komandieris ir atzinis par attaisnojošiem.
+(1²) No valsts aizsardzības militārā dienesta atvaļināto rezerves karavīru piecus gadus pēc valsts aizsardzības militārā dienesta pabeigšanas var iesaukt uz kārtējām militārajām mācībām reizi gadā uz laiku līdz septiņām dienām. Pēc piecu gadu notecējuma no valsts aizsardzības dienesta atvaļināto rezerves karavīru var iesaukt uz militārajām mācībām atbilstoši šā panta trešajā, ceturtajā, piektajā un 5.¹ daļā noteiktajam.
 (2) Militāro mācību laikā rezerves karavīrs pilda aktīvo dienestu, viņam ir karavīra statuss, un mācību laiks tiek ieskaitīts viņa izdienas stāžā.
 (3) Rezerves karavīru var iesaukt militārajās mācībās uz laiku:
 1) virsnieku sastāva karavīru - kopumā līdz deviņiem mēnešiem, viena gada laikā - līdz 60 dienām;

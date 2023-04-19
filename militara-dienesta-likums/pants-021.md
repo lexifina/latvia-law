@@ -1,5 +1,5 @@
 21.pants. Amatā iecelšanas vispārīgie noteikumi
-(1) Profesionālā dienesta karavīru ieceļ amatā pēc profesionālā dienesta līguma noslēgšanas vai atbilstoši atestācijas rezultātiem.
+(1) Profesionālā dienesta karavīru ieceļ amatā pēc profesionālā dienesta līguma noslēgšanas vai atbilstoši atestācijas rezultātiem. Valsts aizsardzības dienesta karavīru ieceļ amatā atbilstoši viņa sagatavotībai.
 (2) Šā likuma 19.panta septītajā daļā minēto karavīru ieskaita vienības personālsastāvā un uz militārās apmācības laiku ieceļ par amata pagaidu izpildītāju.
 (3) Karavīram var uzdot pildīt prombūtnē esoša vai atstādināta karavīra amata pienākumus vai vakantu amatu uz laiku. Tiesības uzdot karavīram amata pagaidu izpildi ir vienības komandierim (priekšniekam) vai augstākam komandierim (priekšniekam).
 (3¹) Valsts aizsardzības interesēs karavīram var uzdot pildīt akreditācijas valstī nerezidējoša aizsardzības atašeja amatu uz laiku līdz trim gadiem, saglabājot viņa esošo amatu. Karavīra atbilstību atašeja amatam nosaka Augstākā atestācijas komisija. Uzdot karavīram minētā amata izpildi ir tiesīgs aizsardzības ministrs, ievērojot Diplomātiskā un konsulārā dienesta likumā noteikto kārtību.
