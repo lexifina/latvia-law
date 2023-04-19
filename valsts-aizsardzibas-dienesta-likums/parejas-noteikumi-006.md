@@ -1,0 +1,1 @@
+6. Ministru kabinets līdz 2024. gada 1. janvārim izdod šā likuma 6. panta ceturtās daļas 1. punktā minētos noteikumus. Līdz 2024. gada 1. jūlijam iesaucamo veselības pārbaudi veic Nacionālo bruņoto spēku ārstniecības iestāde aizsardzības ministra noteiktajā kārtībā atbilstoši aizsardzības ministra noteiktajām veselības stāvokļa prasībām.

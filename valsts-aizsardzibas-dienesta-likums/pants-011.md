@@ -1,0 +1,3 @@
+11. pants. Paziņošana par nosūtīšanu uz valsts aizsardzības dienesta vietu
+(1) Aizsardzības ministrija nodrošina valsts aizsardzības militārajā dienestā vai alternatīvajā dienestā iesauktā pilsoņa savlaicīgu ierašanos dienesta vietā, pret parakstu izsniedzot viņam lēmumu par iesaukšanu valsts aizsardzības dienestā vai nosūtot to uz oficiālo elektronisko adresi vai deklarēto dzīvesvietas adresi ne vēlāk kā trīs mēnešus pirms datuma, kad viņam jāierodas dienesta vietā.
+(2) Šā panta pirmajā daļā minētā administratīvā akta piespiedu izpildi nodrošina Militārā policija Administratīvā procesa likumā noteiktajā kārtībā.

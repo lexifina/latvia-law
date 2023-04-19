@@ -1,0 +1,1 @@
+8. Līdz 2027. gadam valsts aizsardzības dienestā neiesauc pilsoņus, kuri pastāvīgi dzīvo ārvalstīs un normatīvajos aktos noteiktajā kārtībā savu dzīvesvietas adresi ārvalstīs ir paziņojuši Pilsonības un migrācijas lietu pārvaldei.

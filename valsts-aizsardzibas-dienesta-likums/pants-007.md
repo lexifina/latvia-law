@@ -1,0 +1,6 @@
+7. pants. Lēmums attiecībā uz iesaucamo
+(1) Aizsardzības ministrija pēc tam, kad ir izvērtēta iesaucamā atbilstība valsts aizsardzības dienestam attiecībā uz katru iesaucamo, pieņem vienu no šādiem lēmumiem:
+1) iesaukt valsts aizsardzības militārajā dienestā, norādot dienesta pildīšanas vietu un ierašanās laiku dienesta uzsākšanai;
+2) atlikt valsts aizsardzības dienestu, norādot iemeslu un termiņu, uz kādu tas tiek atlikts;
+3) neiesaukt valsts aizsardzības dienestā un noņemt no valsts aizsardzības dienesta uzskaites, ja iesaucamais neatbilst valsts aizsardzības dienestam noteiktajām prasībām.
+(2) Ja ir saņemts iesaucamā pieteikums alternatīvā dienesta pildīšanai, Aizsardzības ministrija to nosūta kontroles komisijai lēmuma pieņemšanai. Kontroles komisija, pieņemot lēmumu par iesaukšanu alternatīvajā dienestā, norāda alternatīvā dienesta pildīšanas vietu. Ja kontroles komisija iesaucamā pieteikumu alternatīvā dienesta pildīšanai ir noraidījusi, Aizsardzības ministrija nodrošina šā panta pirmās daļas 1. punktā norādītā lēmuma izpildi.

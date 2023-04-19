@@ -1,0 +1,4 @@
+5. pants. Valsts aizsardzības dienesta iesaukšanas kontroles komisija
+(1) Ministru kabinets izveido valsts aizsardzības dienesta iesaukšanas kontroles komisiju (turpmāk - kontroles komisija). Kontroles komisijas locekļi uz šīs komisijas darbības laiku tiek atbrīvoti no pienākumu pildīšanas pamatdarba vietā, saglabājot atlīdzību. Vismaz pusi no kontroles komisijas sastāva veido personas, kuras nav nodarbinātas Nacionālajos bruņotajos spēkos, Aizsardzības ministrijā un tās padotībā esošajās iestādēs.
+(2) Kontroles komisija kontrolē un pārskata Aizsardzības ministrijas pieņemtos lēmumus, kā arī pieņem lēmumus par iesaukšanu alternatīvajā dienestā.
+(3) Ministru kabinets nosaka kārtību, kādā šā panta pirmajā daļā minētā komisija kontrolē un pārskata Aizsardzības ministrijas pieņemtos lēmumus, izskata personu sūdzības par šiem lēmumiem, kā arī pieņem lēmumus par iesaukšanu alternatīvajā dienestā.

@@ -1,0 +1,1 @@
+3. Šā likuma 4. un 5. panta, 6. panta pirmās daļas un 7. panta izpildei Aizsardzības ministrija veic organizatoriskos pasākumus, kas nepieciešami jaunās funkcijas nodrošināšanai, un ar 2023. gada 1. jūliju papildus esošajām amata vietām ministrijas struktūrā esošo valsts budžeta līdzekļu ietvaros izveido valsts aizsardzības dienesta struktūrvienību.

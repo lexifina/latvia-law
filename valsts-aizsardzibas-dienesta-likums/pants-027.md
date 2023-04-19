@@ -1,0 +1,6 @@
+27. pants. Atbrīvošana no darba (amata) pienākumu pildīšanas un mācībām (studijām)
+(1) Darba devējs vai izglītības iestāde atbrīvo no darba (amata) pienākumu pildīšanas vai mācībām (studijām):
+1) iesaucamo pārbaužu veikšanai pirms valsts aizsardzības dienesta uzsākšanas Aizsardzības ministrijas pavēstē norādītajā laikā;
+2) valsts aizsardzības dienesta karavīru un alternatīvā dienesta veicēju valsts aizsardzības dienesta izpildes laikā.
+(2) Darba devējs darbiniekam, kurš atbrīvots no darba (amata) pienākumu pildīšanas, saglabā iepriekšējo darbu (amatu) vai nodrošina līdzīgu vai līdzvērtīgu darbu (amatu) ar darbiniekam ne mazāk labvēlīgiem darba apstākļiem un nodarbinātības noteikumiem. Valsts aizsardzības dienesta izpildes laiks nav ieskaitāms laikā, kas dod tiesības uz ikgadējo apmaksāto atvaļinājumu. Izglītības iestāde pilsonim, kurš atbrīvots no mācībām (studijām), saglabā tiesības turpināt mācības (studijas) ar tiem pašiem nosacījumiem, kādi bija pirms iesaukšanas.
+(3) Darba devējs darbiniekam, kurš atbrīvots no darba (amata) pienākumu pildīšanas sakarā ar dalību pārbaudēs, lai noteiktu viņa atbilstību valsts aizsardzības dienestam, izmaksā Darba likuma 74. panta trešajā daļā paredzēto atlīdzību.
