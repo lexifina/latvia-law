@@ -14,7 +14,7 @@
 2) izbeidzot profesionālā dienesta līgumu pirms termiņa vienības (apakšvienības) likvidēšanas (reorganizēšanas, karavīru skaita samazināšanas) dēļ, un karavīrs atsakās no piedāvātā
 amata, - pēdējo divu nedēļu mēnešalgas apmērā.
 (6) Atvaļinot karavīru no aktīvā dienesta citu iemeslu dēļ, viņam izmaksā mēnešalgu un piemaksas līdz atvaļināšanas dienai.
-(7) Karavīram, kurš pirms atvaļināšanās no aktīvā dienesta piedalījies starptautiskajā operācijā vai bijis iesaistīts ātrās reaģēšanas spēkos ārpus Latvijas teritorijas, šā panta piektās daļas 1.punktā paredzēto atvaļināšanas pabalstu izmaksā, ņemot vērā pēdējā mēneša mēnešalgu un piemaksas, kādas viņam bija noteiktas pamatdienesta vietā Latvijā.
+(7) Karavīram, kurš pirms atvaļināšanās no aktīvā dienesta piedalījies starptautiskajā operācijā, piedalījies Nacionālās drošības likuma 11. panta piektajā daļā minētajā speciālajā operācijā ārvalstīs vai bijis iesaistīts ātrās reaģēšanas spēkos ārpus Latvijas teritorijas, šā panta piektās daļas 1.punktā paredzēto atvaļināšanas pabalstu izmaksā, ņemot vērā pēdējā mēneša mēnešalgu un piemaksas, kādas viņam bija noteiktas pamatdienesta vietā Latvijā.
 (8) (Izslēgta ar 16.06.2011. likumu)
 (9) Atlaišanas pabalstu vienas mēnešalgas apmērā izmaksā:
 1) (izslēgts ar 16.11.2021. likumu);
