@@ -5,6 +5,7 @@
 2) zemessargi;
 3) civilie darbinieki;
 3¹) militārie darbinieki;
-4) uz kārtējām vai pārbaudes militārajām mācībām iesauktie rezerves karavīri.
+4) uz kārtējām vai pārbaudes militārajām mācībām iesauktie rezerves karavīri;
+5) valsts aizsardzības dienesta karavīri.
 (2¹) (Izslēgta ar 11.03.2010. likumu)
 (3) Personālsastāva komplektēšanu un militārā dienesta gaitu reglamentē speciāls likums.
