@@ -1,0 +1,1 @@
+51. Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, uzņemot izglītojamos vispārējās vidējās izglītības programmā 2023./2024. mācību gadam, ar dibinātāja atļauju ir tiesīgas īstenot pasākumus, lai padziļināti izvērtētu izglītojamo zināšanas un prasmes mācību priekšmetos, kuros izglītojamie kārtojuši centralizētos eksāmenus.
