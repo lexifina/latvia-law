@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 1,
+ "datums": "2023-04-27",
+ "ieraksts": {
+  "dkp_id": "337c5ac6-586c-4cc8-a442-486ddbbb7193",
+  "lastmodtime": "\"AAAAAAITxyE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Andris#Ingmārs#Viktors#Edmunds#Agnese#Raivis#Jana#Viktorija#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Līga#Dmitrijs#Nataļja#Oļegs#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Atis#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Kaspars#Gundars#Jānis#Lauris#Linda#Vilis#Aleksandrs#Jānis#Līga#Antoņina#Inga#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Kulbergs#Līdaka#Pučka#Zivtiņš#Krasta#Dzintars#Simanovska#Baire#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Labucis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Briškens#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#NA#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#AS#AS#ST!#LPV#JV#NA#PRO#JV#AS#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#ZZS#ST!#ST!#LPV#JV#ST!#NA# #AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#JV#NA#ST!#AS#ZZS#AS#JV#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#JV#AS#LPV#LPV#NA#JV#ZZS#PRO#JV#AS#AS",
+  "RESULT": "Par#Pret#Pret#Par#Pret#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Par#Pret#Par#Par#Pret#Nebalsoja#Par#Pret#Atturas#Par#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Par#Par#Par#Par#Pret#Par#Pret#Par#Nebalsoja#Pret#Par#Pret#Nebalsoja#Pret#Par#Pret#Par#Pret#Atturas#Par#Pret#Par#Pret#Pret#Par#Par#Atturas#Par#Pret#Par#Par#Par#Pret#Pret#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "27.04.2023 18:31:42",
+  "VOTEMOTIVE": " Par priekšlikumu iesniegšanas termiņu /15.09.2023/. Grozījumi Bāriņtiesu likumā (170/Lp14), 1.lasījums",
+  "VOTING_ID": "19597d3f-fb20-4464-8eba-27658211e149",
+  "VOTERESULT_ABSTAIN": "3",
+  "VOTERESULT_AGAINST": "37",
+  "VOTERESULT_FOR": "39",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "40",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e858731c-4dd3-4465-8a77-d2bb84d28da7/download/14.saeimas-2023.gada-pavasara-sesija-1-vote.xml",
+  "sha256": "7aa8c4093a2dd5be04fc8ab87a08b04b8ca9496ece5d51bbb1e54d54656f07f8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
