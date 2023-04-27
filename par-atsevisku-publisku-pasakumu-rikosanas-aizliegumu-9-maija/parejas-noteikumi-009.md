@@ -1,0 +1,1 @@
+Pašvaldība anulē atļauju publiska pasākuma rīkošanai tās administratīvajā teritorijā 9. maijā, ja tāda izsniegta līdz šā likuma spēkā stāšanās dienai, un atmaksā atļaujas saņēmējam nodevu par publisku pasākumu rīkošanu publiskās vietās.

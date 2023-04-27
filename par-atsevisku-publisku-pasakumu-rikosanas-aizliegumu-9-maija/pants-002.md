@@ -1,0 +1,1 @@
+2. pants. Ar šo likumu tiek noteikts, ka 9. maijā visā Latvijas teritorijā publiskajā ārtelpā aizliegts rīkot publiskus izklaides un svētku pasākumus, sapulces, gājienus un piketus (turpmāk - publiski pasākumi), izņemot tādus publiskus pasākumus, kuri atbilst šā likuma 1. pantā noteiktajam mērķim.

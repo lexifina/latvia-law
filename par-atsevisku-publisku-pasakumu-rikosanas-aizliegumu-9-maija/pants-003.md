@@ -1,0 +1,1 @@
+3. pants. Ja publiskais pasākums neatbilst šā likuma 1. pantā noteiktajam mērķim un tā rīkošanai atbilstoši normatīvo aktu prasībām nepieciešama pašvaldības atļauja, pašvaldība attiecīgo atļauju neizsniedz.
