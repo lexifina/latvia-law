@@ -1,5 +1,5 @@
 9.¹ pants. Komersanta piemērotība industriālās drošības sertifikāta saņemšanai
-(1) Industriālās drošības sertifikāts apliecina komersanta gatavību un spēju veikt darbu ar valsts noslēpuma objektu un nodrošināt valsts noslēpuma objekta aizsardzību.
+(1) Industriālās drošības sertifikāts apliecina komersanta gatavību un spēju veikt darbu ar konfidenciāla, slepena un sevišķi slepena valsts noslēpuma objektu un nodrošināt tā aizsardzību.
 (2) Industriālās drošības sertifikātu var izsniegt komersantam:
 1) kurš ir reģistrēts Latvijas Republikas Uzņēmumu reģistrā;
 2) kurš ir dibināts vismaz pirms diviem gadiem un veic komercdarbību;

@@ -1,5 +1,5 @@
 4.pants. Informācijas atzīšana par valsts noslēpumu
-(1) Informācijas un citu par valsts noslēpumu atzīstamo objektu sarakstu, to apjomu un saturu nosaka Ministru kabinets, ievērojot šajā likumā noteiktos principus un informācijas klasifikācijas noteikumus, kā arī Nacionālās drošības padomes un Satversmes aizsardzības biroja priekšlikumus. Ministru kabineta apstiprinātais informācijas un citu par valsts noslēpumu atzīstamo objektu saraksts, kā arī turpmākie grozījumi tajā ir uzskatāmi par atklātiem dokumentiem.
+(1) Informācijas un citu par konfidenciālu, slepenu un sevišķi slepenu valsts noslēpumu atzīstamo objektu sarakstu, to apjomu un saturu nosaka Ministru kabinets, ievērojot šajā likumā noteiktos principus un informācijas klasifikācijas noteikumus, kā arī Nacionālās drošības padomes un Satversmes aizsardzības biroja priekšlikumus. Ministru kabineta apstiprinātais informācijas un citu par valsts noslēpumu atzīstamo objektu saraksts, kā arī turpmākie grozījumi tajā ir uzskatāmi par atklātiem dokumentiem.
 (2) Par valsts noslēpumu var atzīt informāciju:
 1) par valsts militāro potenciālu, aizsardzības stratēģiju un taktiku, aizsardzības un mobilizācijas plāniem;
 2) par valsts drošības un aizsardzības iestāžu bruņojuma, sakaru un informācijas sistēmām, materiāltehnisko nodrošinājumu un tā iegādi;
@@ -18,3 +18,4 @@
 15) kuru Latvija ir saņēmusi no ārvalstīm vai radījusi saskaņā ar noslēgtu starptautisko līgumu.
 (3) Ja publiski pieejamas informācijas, objektu un projektu izstrādāšanas un darbības nodrošināšanai nepieciešams izmantot par valsts noslēpumu atzīto informāciju un objektus, tad publiskai izmantošanai tos sagatavo vispārēju statistisku datu veidā vai citā netiešā formā un izsniedz tikai atļautajā apjomā un izmanto tikai tādiem mērķiem, kuru dēļ atļauta to izsniegšana.
 (4) Ir aizliegta informācijas un citu par valsts noslēpumu atzīstamo objektu sarakstā iekļautās slepenās informācijas un objektu statusa un apjoma patvaļīga paplašināšana un attiecināšana uz informāciju un objektiem, kas ir bijuši un ir publiski izmantojami un pieejami.
+(5) Personai ir tiesības iepazīties ar institūcijas vadītāja noteikto informācijas dienesta vajadzībām sarakstu, kurā iekļauj informācijas veidus, tēmas, atsevišķus dokumentus un to veidus.
