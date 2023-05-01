@@ -45,9 +45,9 @@
 31) palīgpakalpojumi - visi pakalpojumi (tostarp balansēšana, jaukšana un inerto gāzu ievadīšana), kas nepieciešami, lai piekļūtu pārvades un sadales tīkliem vai cauruļvadu sistēmai, dabasgāzes krātuvēm, sašķidrinātās dabasgāzes iekārtām vai izmantotu tās, izņemot tādus objektus un iekārtas, kuras izmanto tikai pārvades sistēmu operatori;
 32) pārvades sistēma - enerģijas pārvades tīkls vai cauruļvadu sistēma ar visiem pārvades funkciju veikšanai nepieciešamajiem energoapgādes komersanta objektiem, kurus izmanto enerģijas transportēšanai;
 33) pārvades sistēmas īpašnieks - komersants, kura īpašumā ir enerģijas pārvades sistēma;
-34) publiskais tirgotājs - enerģijas tirgotājs, kuram šajā likumā un citos normatīvajos aktos ir noteikti īpaši pienākumi un prasības publiskā tirgotāja pienākumu izpildes nodrošināšanai;
+34) (izslēgts no 01.05.2023. ar 14.07.2022. likumu. Sk. pārejas nteikumu 70. punktu);
 35) sadales sistēma - enerģijas sadales tīkls vai cauruļvadu sistēma ar visiem sadales funkciju veikšanai nepieciešamajiem energoapgādes komersanta objektiem, kurus izmanto enerģijas transportēšanai no pārvades sistēmas līdz lietotāja energoapgādes sistēmas piederības robežai;
-36) saistītais lietotājs - dabasgāzes lietotājs, kurš pērk dabasgāzi par regulētu cenu;
+36) (izslēgts no 01.05.2023. ar 14.07.2022. likumu. Sk. pārejas nteikumu 70. punktu);
 37) saistītā kapitālsabiedrība - kapitālsabiedrība, kurā saskaņā ar Koncernu likumu energoapgādes komersantam ir izšķirošā ietekme vai kurai ir izšķirošā ietekme energoapgādes komersantā, vai kapitālsabiedrība, kurā izšķirošā ietekme ir citai kapitālsabiedrībai, kam vienlaikus ir izšķirošā ietekme energoapgādes komersantā;
 38) sākumposma cauruļvadu sistēma - cauruļvads vai cauruļvadu sistēma, ko izmanto dabasgāzes ražošanas projektā vai dabasgāzes transportēšanai no viena vai vairākiem šādiem projektiem uz pārstrādes uzņēmumu vai termināli, vai pēdējo piekrastes termināli;
 39) sašķidrinātās dabasgāzes iekārta - terminālis, ko izmanto dabasgāzes šķidrināšanai vai sašķidrinātās dabasgāzes saņemšanai, izkraušanai un pārvēršanai gāzveida stāvoklī, kā arī tam piederošās iekārtas un pagaidu glabātavas, kas nepieciešamas sašķidrinātās dabasgāzes uzglabāšanai un atkārtotai pārvēršanai gāzveida stāvoklī, kā arī turpmākai piegādei uz dabasgāzes pārvades sistēmu vai enerģijas lietotājam;
@@ -62,7 +62,7 @@
 48) tīkls - līniju un iekārtu kopums, kas nepieciešams elektroenerģijas transportēšanai. Ielu apgaismojuma tīkls ir atsevišķs, ar uzskaites mēraparātu tehniski nodalīts līniju vai iekārtu kopums, ko izmanto ielu, laukumu un citu publiskai lietošanai paredzētu teritoriju apgaismošanai un kas netiek izmantots elektroenerģijas transportēšanai un sadalei citiem enerģijas lietotājiem;
 49) tirgotājs - komersants (tai skaitā ārvalsts komersanta filiāle), kura komercdarbība ir enerģijas tirdzniecība;
 50) tirgus dalībnieks - dabasgāzes ražotājs, sistēmas operators, tirgotājs vai galalietotājs, kas darbojas dabasgāzes tirgū saskaņā ar brīvprātīgas līdzdalības principu;
-50¹) (punkts stājas spēkā 01.05.2023. un iekļauts likuma redakcijā uz 01.05.2023. Sk. pārejas noteikumu 70. punktu);
+50¹) universālais pakalpojums - garantētas tiesības uz dabasgāzes piegādi noteiktā kvalitātē par viegli un skaidri salīdzināmu un pārskatāmu cenu;
 51) vertikāli integrēts komersants - energoapgādes komersants vai koncerns, kuru tieši vai netieši kontrolē viena un tā pati persona vai vienas un tās pašas personas un kurš sniedz vismaz vienu no enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumiem un vienlaikus nodarbojas ar enerģijas ražošanu vai tirdzniecību;
 52) vietējie energoresursi - Latvijā apzinātie atjaunojamie energoresursi un kurināmā krājumi, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 53) vispārējās atļaujas noteikumi - specifiskas enerģijas ražošanas un tirdzniecības prasības enerģijas ražotājam vai enerģijas tirgotājam;
