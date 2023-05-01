@@ -5,7 +5,7 @@
 2) elektroenerģija mājsaimniecībā tiek ražota, izmantojot atjaunojamos energoresursus;
 3) elektroenerģija mājsaimniecībā tiek ražota un patērēta viena sistēmas pieslēguma ietvaros.
 (3) Mājsaimniecības lietotājs ir atbildīgs par to, lai elektroenerģija tā objektos tiktu ražota, izmantojot tikai atjaunojamos energoresursus.
-(4) Par elektroenerģijas neto uzskaites sistēmas lietotāja elektroenerģijas patēriņu atbilstoši šā likuma 28. panta piektajai daļai un 30. panta trešajai daļai ir uzskatāms no sistēmas saņemtais elektroenerģijas daudzums, kas pārsniedz sistēmā nodoto elektroenerģijas daudzumu. Elektroenerģijas neto uzskaites sistēmu nepiemēro norēķiniem par saņemtajiem sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem.
+(4) Elektroenerģijas neto uzskaites sistēmu nepiemēro norēķiniem par saņemtajiem sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem.
 (5) Mājsaimniecības lietotājam ir vienreizējas tiesības pāriet no elektroenerģijas neto uzskaites sistēmas uz elektroenerģijas neto norēķinu sistēmu.
 (6) Sistēmas operators, kura sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju, ir tiesīgs neto uzskaites sistēmas lietotājiem piemērot maksu par neto uzskaites sistēmas administrēšanu, lai kompensētu ar elektroenerģijas neto uzskaites sistēmas darbību saistītās izmaksas. Sistēmas operatora aprēķināto maksu apstiprina regulators.
 (7) Neto uzskaites sistēmas piemērošanas kārtību nosaka Ministru kabinets.
