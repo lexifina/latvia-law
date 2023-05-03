@@ -1,0 +1,1 @@
+9. Ministru kabinets līdz 2023. gada 31. decembrim nodrošina zemes zem Brīvības pieminekļa un Rīgas Brāļu kapu pārņemšanu valsts īpašumā, reģistrējot zemesgrāmatā uz valsts vārda Kultūras ministrijas personā.
