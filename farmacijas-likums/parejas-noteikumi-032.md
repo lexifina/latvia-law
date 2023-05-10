@@ -1,0 +1,1 @@
+32. Zāļu klīniskās pārbaudes drīkst veikt, ja zāļu klīniskās pārbaudes sponsoram ir spēkā esošs civiltiesiskās atbildības apdrošināšanas līgums, kas noslēgts pirms 26.³ panta spēkā stāšanās dienas, līdz attiecīgajā līgumā norādītā termiņa beigām.

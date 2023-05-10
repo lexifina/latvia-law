@@ -1,2 +1,2 @@
 IV nodaļa
-Zāļu un farmaceitisko produktu novērtēšana un reģistrācija
+Zāļu klīniskie pētījumi, zāļu novērtēšana un reģistrēšana

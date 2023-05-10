@@ -5,7 +5,7 @@
 4) reglamentē atsevišķu zāļu vai zāļu grupu izgatavošanas, uzglabāšanas, kontroles un izplatīšanas nosacījumus;
 5) gādā, lai tiktu izsniegtas Ministru kabineta noteikumos paredzētās speciālās atļaujas (licences);
 6) (zaudējis spēku 02.01.2000. Skat. Pārejas noteikumus);
-7) apstiprina zāļu klīniskās izpētes ētikas komiteju paraugnolikumu un šo komiteju personālsastāvu;
+7) apstiprina zāļu klīnisko pētījumu ētikas komitejas personālsastāvu;
 8) (izslēgts ar 15.12.2005. likumu);
 9) (izslēgts ar 15.12.2005. likumu);
 10) (izslēgts ar 15.12.2005. likumu).

@@ -4,7 +4,7 @@
 3) zāļu ražošanas, marķēšanas, reģistrēšanas, kontroles, izplatīšanas, ievešanas un izvešanas kārtību;
 4) zāļu (izņemot veterināro zāļu) cenu veidošanas principus;
 5) zāļu reklamēšanas kārtību;
-6) zāļu klīniskās izpētes un lietošanas novērojumu veikšanas kārtību, kā arī veterināro zāļu lietošanas izraisīto blakusparādību uzraudzības kārtību;
+6) zāļu klīniskās izpētes veikšanas kārtību, kā arī veterināro zāļu lietošanas izraisīto blakusparādību uzraudzības kārtību;
 7) kārtību, kādā ārstniecības iestādes un sociālās aprūpes institūcijas iegādājas, uzglabā un izlieto zāles;
 8) minimālā zāļu sortimenta noteikšanas kārtību vispārēja (atvērta) tipa aptiekām;
 9) (izslēgts ar 19.03.1998. likumu);
@@ -13,7 +13,7 @@
 12) zāļu lietošanas instrukcijai izvirzāmās prasības;
 13) kārtību, kādā zāļu ražotājiem tiek izsniegts labas ražošanas prakses sertifikāts;
 14) kārtību, kādā tiek vērtēta zāļu (izņemot veterināro zāļu) izplatīšanas atbilstība labas izplatīšanas prakses prasībām;
-15) kārtību, kādā tiek vērtēta zāļu (izņemot veterināro zāļu) klīniskās izpētes atbilstība labas klīniskās prakses prasībām;
+15) prasības un kārtību attiecībā uz zāļu klīniskajiem pētījumiem, tajā skaitā zāļu klīniskajām pārbaudēm un maziejaukšanās klīniskajām pārbaudēm, kā arī beziejaukšanās pētījumiem, un šo pētījumu uzraudzību, tajā skaitā labas klīniskās prakses inspekcijām;
 16) aptieku un aptieku filiāļu (izņemot veterināro aptieku) izvietojuma kritērijus;
 17) farmaceitu un farmaceitu asistentu reģistrēšanas kārtību;
 18) prasības un kārtību, kādā veterinārmedicīniskās prakses iestādes iegādājas, uzglabā, uzskaita, lieto un iznīcina zāles;
@@ -24,4 +24,5 @@
 23) aktīvo vielu importēšanas un izplatīšanas prasības un kārtību un aktīvo vielu importētāju, ražotāju un izplatītāju reģistrēšanas kārtību;
 24) farmakovigilances kārtību;
 25) zāļu pieejamības analīzei nepieciešamo zāļu vairumtirdzniecības realizācijas datu izplatīšanas kārtību un apjomu;
-26) aptiekās izplatāmos pārtikas produktus.
+26) aptiekās izplatāmos pārtikas produktus;
+27) zāļu klīnisko pētījumu ētikas komitejas personālsastāvam izvirzāmās prasības un šīs komitejas darbības nosacījumus.

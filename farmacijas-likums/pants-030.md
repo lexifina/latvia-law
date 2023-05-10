@@ -1,1 +1,1 @@
-30.pants. Zāļu valsts aģentūra un Pārtikas un veterinārais dienests atbilstoši savai kompetencei izsniedz atļaujas un uzrauga zāļu un veterināro zāļu klīnisko pētījumu veikšanu.
+30. pants. Zāļu valsts aģentūra un Pārtikas un veterinārais dienests atbilstoši kompetencei izsniedz atļaujas zāļu klīniskajām pārbaudēm vai veterināro zāļu gadījumā - zāļu klīniskajai izpētei un veic zāļu klīnisko pārbaužu vai veterināro zāļu klīniskās izpētes uzraudzību.
