@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 9. maija noteikumi Nr. 234 \"Grozījumi Ministru kabineta 2015. gada 15. decembra noteikumos Nr. 736 \"Noteikumi par dabīgo minerālūdeni un avota ūdeni\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "234",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-12",
+  "entry_into_force": "2023-05-13",
+  "notification_date": "2023-05-18",
+  "commission_reference": "MNE(2023)02830",
+  "nim_celex": "72020L2184LVA_202302830",
+  "nim_id": "202302830",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/adf9d41d-f870-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
