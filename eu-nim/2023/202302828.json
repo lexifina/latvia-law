@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 9. maija noteikumi Nr. 233 \"Pārtikas uzņēmumā izmantojamā dzeramā ūdens obligātās nekaitīguma un kvalitātes prasības, monitoringa un kontroles kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "90",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-12",
+  "entry_into_force": "2023-05-13",
+  "notification_date": "2023-05-18",
+  "commission_reference": "MNE(2023)02828",
+  "nim_celex": "72020L2184LVA_202302828",
+  "nim_id": "202302828",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f60663be-f871-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
