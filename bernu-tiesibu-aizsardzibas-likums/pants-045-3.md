@@ -7,7 +7,7 @@
 4) nosūta laulātos vai personu pie psihologa, lai saņemtu atzinumu par piemērotību viesģimenes statusa iegūšanai;
 5) pieprasa informāciju par Sodu reģistrā iekļautajām ziņām par laulātajiem vai personu.
 (2¹) Par viesģimeni nedrīkst būt persona:
-1) kura sodīta par tīšu noziedzīgu nodarījumu, kas saistīts ar vardarbību vai vardarbības piedraudējumu, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
+1) kura sodīta par tīšu noziedzīgu nodarījumu, kas saistīts ar vardarbību vai vardarbības piedraudējumu, - līdz dienai, kad sodāmība dzēsta vai noņemta;
 2) kura sodīta par noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
 3) kura atcelta no aizbildņa pienākumu pildīšanas nekārtīgas to izpildes dēļ;
 4) kurai atņemts audžuģimenes vai viesģimenes statuss, jo persona nav pildījusi pienākumus atbilstoši bērna interesēm;
