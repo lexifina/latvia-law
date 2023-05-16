@@ -1,0 +1,29 @@
+5.¹ pants. Skaidras naudas deklarācija un skaidras naudas informācijas atklāšanas deklarācija par nepavadītu skaidru naudu, šķērsojot valsts iekšējo robežu
+(1) Fiziskā persona, kura, šķērsojot valsts iekšējo robežu, ieved Latvijas Republikā vai izved no tās skaidru naudu 10 000 euro apmērā vai vairāk, pirms skaidras naudas izvešanas no Latvijas Republikas vai pēc skaidras naudas ievešanas Latvijas Republikā pēc kompetentās iestādes amatpersonas pieprasījuma aizpilda skaidras naudas deklarāciju, tajā sniegto ziņu patiesumu apliecina ar parakstu un iesniedz deklarāciju attiecīgajai kompetentās iestādes amatpersonai.
+(2) Kompetentās iestādes amatpersona ir tiesīga pieprasīt, lai nepavadītas skaidras naudas nosūtītājs vai saņēmējs vai to pārstāvis aizpilda skaidras naudas informācijas atklāšanas deklarāciju par nepavadītu skaidru naudu, kuru ieved Latvijas Republikā vai izved no tās, šķērsojot valsts iekšējo robežu, ja nepavadītas skaidras naudas apmērs ir 10 000 euro vai vairāk. Attiecīgajai personai ir pienākums aizpildīt skaidras naudas informācijas atklāšanas deklarāciju, apliecināt tajā sniegto ziņu patiesumu ar parakstu un iesniegt deklarāciju kompetentajai iestādei 30 dienu laikā no pieprasījuma brīža.
+(3) Persona šā panta pirmajā daļā minētajā skaidras naudas deklarācijā un šā panta otrajā daļā minētajā skaidras naudas informācijas atklāšanas deklarācijā norāda šādu informāciju:
+1) vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru;
+2) skaidras naudas veidu un summu vai vērtību;
+3) skaidras naudas ekonomisko iegūšanas veidu;
+4) paredzēto skaidras naudas izmantošanas veidu;
+5) pārvadājuma maršrutu (tikai skaidras naudas deklarācijā);
+6) ziņas par transportlīdzekli (transporta veids) (tikai skaidras naudas deklarācijā).
+(4) Ja skaidras naudas īpašnieks ir cita fiziskā vai juridiskā persona, šā panta pirmajā daļā minētajā skaidras naudas deklarācijā vai šā panta otrajā daļā minētajā skaidras naudas informācijas atklāšanas deklarācijā norāda šādu informāciju:
+1) savu vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru;
+2) skaidras naudas īpašnieka vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru, ja īpašnieks ir fiziskā persona, vai, ja īpašnieks ir juridiskā persona, - nosaukumu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), reģistrācijas numuru, kā arī pievienotās vērtības nodokļa (turpmāk - PVN) maksātāja identifikācijas numuru, ja tas ir pieejams;
+3) ja informācija ir pieejama, - skaidras naudas saņēmēja vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru, ja saņēmējs ir fiziskā persona, vai, ja saņēmējs ir juridiskā persona, - nosaukumu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), reģistrācijas numuru, kā arī PVN maksātāja identifikācijas numuru, ja tas ir pieejams;
+4) skaidras naudas veidu un summu vai vērtību;
+5) skaidras naudas ekonomisko iegūšanas veidu;
+6) paredzēto skaidras naudas izmantošanas veidu.
+(5) Skaidras naudas nosūtītājs šā panta otrajā daļā minētajā skaidras naudas informācijas atklāšanas deklarācijā norāda šādu informāciju:
+1) ja skaidras naudas nosūtītājs ir fiziskā persona, - savu vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru, bet, ja skaidras naudas nosūtītājs ir juridiskā persona, - nosaukumu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), reģistrācijas numuru, kā arī PVN maksātāja identifikācijas numuru, ja tas ir pieejams;
+2) skaidras naudas veidu un summu vai vērtību;
+3) skaidras naudas ekonomisko iegūšanas veidu;
+4) paredzēto skaidras naudas izmantošanas veidu.
+(6) Skaidras naudas saņēmējs šā panta otrajā daļā minētajā skaidras naudas informācijas atklāšanas deklarācijā norāda šādu informāciju:
+1) ja skaidras naudas saņēmējs ir fiziskā persona, - vārdu, uzvārdu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), dzimšanas datumu un vietu, valstspiederību un personu apliecinoša dokumenta numuru, bet, ja skaidras naudas saņēmējs ir juridiskā persona, - nosaukumu, kontaktinformāciju (adresi, tālruņa numuru, elektroniskā pasta adresi), reģistrācijas numuru, kā arī PVN maksātāja identifikācijas numuru, ja tas ir pieejams;
+2) skaidras naudas veidu un summu vai vērtību;
+3) skaidras naudas ekonomisko iegūšanas veidu;
+4) paredzēto skaidras naudas izmantošanas veidu.
+(7) Ja šā panta pirmajā daļā minētajā skaidras naudas deklarācijā norādītā informācija ir nepatiesa vai nepilnīga, skaidras naudas deklarēšanas pienākums nav izpildīts un skaidrā nauda, ko persona ieved Latvijas Republikā vai izved no tās, nav deklarēta. Ja šā panta otrajā daļā minētā skaidras naudas informācijas atklāšanas deklarācija nav iesniegta noteiktajā termiņā vai tajā sniegtā informācija ir nepatiesa vai nepilnīga, vai skaidra nauda nav darīta pieejama kontrolei, uzskatāms, ka pienākums atklāt informāciju par nepavadītu skaidru naudu nav izpildīts.
+(8) Kompetentā iestāde šā panta pirmajā daļā minētās skaidras naudas deklarācijas veidlapas paraugu un šā panta otrajā daļā minētās skaidras naudas informācijas atklāšanas deklarācijas veidlapas paraugu publicē savā tīmekļvietnē.
