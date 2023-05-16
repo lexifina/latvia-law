@@ -1,4 +1,5 @@
-4. pants. Ārvalstu valūtas pārrēķinam piemērojamais kurss
+4. pants. Noteikumi skaidras naudas vērtības noteikšanai
 (1) Deklarējamo skaidro naudu pārrēķina euro, piemērojot Eiropas Centrālās bankas katra mēneša priekšpēdējā trešdienā publicēto euro atsauces kursu. Eiropas Centrālās bankas katra mēneša priekšpēdējā trešdienā publicēto euro atsauces kursu Valsts ieņēmumu dienests publisko savā tīmekļvietnē. Ja minētajā dienā valūtas maiņas kurss netiek publicēts, piemēro jaunāko publicēto valūtas maiņas kursu.
 (2) Ja attiecībā uz konkrēto ārvalstu valūtu nav Eiropas Centrālās bankas publicētā euro atsauces kursa, izmanto pasaules finanšu tirgus atzīta finanšu informācijas sniedzēja periodiskajā izdevumā vai tā tīmekļvietnē publicēto jaunāko valūtas tirgus kursu attiecībā pret euro.
 (3) Šā panta pirmajā daļā noteikto valūtas maiņas kursu piemēro visu nākamo mēnesi, sākot no tā pirmās dienas.
+(4) Regulas Nr. 2018/1672 2. panta 1. punkta "a" apakšpunkta "iii" punktā minētās deklarējamās skaidrās naudas vērtību nosaka likumā "Par valsts proves uzraudzību" minētā Latvijas proves iestāde un likumā "Par kultūras pieminekļu aizsardzību" noteiktā iestāde, kas īsteno valsts kontroli kultūras pieminekļu aizsardzībā un veic kultūras mantojuma apzināšanu, izpēti un pieminekļu uzskaiti.
