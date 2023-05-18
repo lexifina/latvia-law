@@ -1,1 +1,0 @@
-10.¹ Līdz 2023. gada 1. jūnijam pašvaldības normatīvajā aktā par teritorijas attīstības plānošanas dokumentu izstrādi noteiktajā kārtībā nodrošina šo pārejas noteikumu 10. punktā noteiktajā kārtībā apstiprināto detālplānojumu atbilstību šā likuma 29. pantam.
