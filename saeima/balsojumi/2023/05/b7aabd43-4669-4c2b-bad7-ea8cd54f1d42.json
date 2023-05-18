@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 7,
+ "datums": "2023-05-18",
+ "ieraksts": {
+  "dkp_id": "43c11ba4-97d5-4a0e-9930-7944da193f49",
+  "lastmodtime": "\"AAAAAAIVCKk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Mārtiņš#Mārcis#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Armands#Ričards#Viktors#Andris#Hosams#Artūrs#Agnese#Raivis#Viktorija#Zanda#Andrejs#Ilze#Rihards#Andrejs#Ingrīda#Harijs#Augusts#Aiva#Ainārs#Dmitrijs#Nataļja#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kristaps#Česlavs#Atis#Jānis#Normunds#Edgars#Linda#Andrejs#Anita#Igors#Edgars#Leila#Gundars#Jānis#Lauris#Linda#Atis#Līga#Antoņina#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Daģis#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Krauze#Šlesers#Pučka#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Baire#Kalniņa-Lukaševica#Svilāns#Vergina#Kols#Ceļapīters#Circene#Rokpelnis#Brigmanis#Vīksna#Šlesers#Kovaļenko#Marčenko-Jodko#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Krištopans#Batņa#Labucis#Dombrava#Dzintars#Tavars#Matisone#Judins#Brakovska#Judins#Zelderis#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#JV#LPV#ZZS#NA#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#LPV#ST!#PRO#JV#NA#JV#NA#JV#JV#AS#JV#NA#JV#JV#ZZS#ZZS#AS#LPV#ST!#ST!#JV#ST!#NA# #AS#JV#ZZS#NA#NA#JV#LPV#AS#JV#NA#NA#AS#AS#JV#ZZS#ST!#PRO#PRO#ZZS#JV#AS#LPV#PRO#ZZS#PRO#JV#JV#AS#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.05.2023 13:36:33",
+  "VOTEMOTIVE": "Grozījumi Uzturlīdzekļu garantiju fonda likumā (176/Lp14), 1.lasījums",
+  "VOTING_ID": "b7aabd43-4669-4c2b-bad7-ea8cd54f1d42",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "40",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/af13badf-a53a-473b-850b-d333cd981ba3/download/14.saeimas-2023.gada-pavasara-sesija-7-vote.xml",
+  "sha256": "bf3c05da731764d67894646d342d8a3ad961d057fa685f5dbddcf1333238e68b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
