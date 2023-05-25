@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 11,
+ "datums": "2023-05-25",
+ "ieraksts": {
+  "dkp_id": "cc16704c-428c-448a-b4e3-2887d5c49e1c",
+  "lastmodtime": "\"AAAAAAIV+Iw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārcis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Uldis#Andris#Ingmārs#Viktors#Edmunds#Andris#Artūrs#Agnese#Raivis#Jana#Viktorija#Andrejs#Ilze#Andrejs#Ingrīda#Harijs#Edmunds#Augusts#Aiva#Līga#Nataļja#Oļegs#Dāvis Mārtiņš#Jefimijs#Ģirts#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Česlavs#Atis#Jānis#Normunds#Edgars#Viktors#Linda#Andrejs#Anita#Igors#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Jānis#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Jencītis#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Augulis#Kulbergs#Līdaka#Pučka#Zivtiņš#Sprūds#Butāns#Krasta#Dzintars#Simanovska#Baire#Svilāns#Vergina#Ceļapīters#Circene#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Marčenko-Jodko#Burovs#Daugavietis#Klementjevs#Lapiņš#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Dzintars#Tavars#Valainis#Matisone#Judins#Brakovska#Judins#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Skrastiņš#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#ST!#LPV#PRO#ZZS#JV#JV#ST!#JV#ZZS#AS#AS#ST!#LPV#PRO#NA#JV#NA#PRO#JV#AS#JV#JV#JV#ZZS#JV#ZZS#AS#ZZS#ST!#LPV#JV#ST!#NA#AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#AS#JV#NA#NA#AS#ZZS#AS#JV#ZZS#ST!#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#JV#JV#JV#AS",
+  "RESULT": "Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Atturas#Pret#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Par#Pret#Par#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Par#Nebalsoja#Pret#Pret#Par#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.05.2023 13:36:53",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Priekšvēlēšanu aģitācijas likumā (93/Lp14), 2.lasījums",
+  "VOTING_ID": "0d47a94d-b498-4077-8573-587c4fab7d71",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "45",
+  "VOTERESULT_FOR": "24",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "26",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/253c169a-a454-45e3-ab65-2e2828e9e9d4/download/14.saeimas-2023.gada-pavasara-sesija-11-vote.xml",
+  "sha256": "46e310596d1c2a0021453a8a434a9a63335caa5dfd2b3bf62eee103db04c3b10",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
