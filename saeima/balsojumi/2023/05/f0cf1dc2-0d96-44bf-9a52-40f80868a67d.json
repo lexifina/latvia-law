@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 11,
+ "datums": "2023-05-25",
+ "ieraksts": {
+  "dkp_id": "f00e6524-b946-496b-a0a7-e34fd1c0b404",
+  "lastmodtime": "\"AAAAAAIVynk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārcis#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Andris#Ingmārs#Viktors#Edmunds#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Viktorija#Zanda#Andrejs#Ilze#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Česlavs#Atis#Jānis#Viktorija#Normunds#Edgars#Viktors#Linda#Andrejs#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Jencītis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Kulbergs#Līdaka#Pučka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Baire#Kalniņa-Lukaševica#Svilāns#Vergina#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Pleškāne#Dzintars#Tavars#Valainis#Matisone#Judins#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#ST!#LPV#ST!#ZZS#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#AS#AS#ST!#LPV#PRO#JV#NA#JV#NA#PRO#JV#JV#AS#JV#JV#JV#JV#ZZS#JV#ZZS#AS#LPV#ZZS#ST!#LPV#AS#JV#ST!#NA# #AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#AS#JV#NA#ST!#NA#AS#ZZS#AS#JV#ZZS#ZZS#ST!#AS#PRO#PRO#PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO#NA#JV#JV#JV#AS#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.05.2023 11:35:09",
+  "VOTEMOTIVE": "Grozījums likumā “Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ģimenes tiesību daļas spēkā stāšanās laiku un piemērošanas kārtību” (236/Lp14), 2.lasījums",
+  "VOTING_ID": "f0cf1dc2-0d96-44bf-9a52-40f80868a67d",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "85",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/253c169a-a454-45e3-ab65-2e2828e9e9d4/download/14.saeimas-2023.gada-pavasara-sesija-11-vote.xml",
+  "sha256": "46e310596d1c2a0021453a8a434a9a63335caa5dfd2b3bf62eee103db04c3b10",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
