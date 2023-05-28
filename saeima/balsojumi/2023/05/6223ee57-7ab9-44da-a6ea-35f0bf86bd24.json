@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 16,
+ "datums": "2023-05-28",
+ "ieraksts": {
+  "dkp_id": "0bcf26d9-cb95-4841-891e-7082edb70700",
+  "lastmodtime": "\"AAAAAAIWmsg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Aleksejs#Jurģis#Inese#Rihards#Armands#Ričards#Edmunds#Hosams#Artūrs#Agnese#Raivis#Zanda#Andrejs#Rihards#Ingrīda#Irma#Edmunds#Aiva#Ainārs#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Glorija#Daiga#Jānis#Gatis#Agita#Kristaps#Česlavs#Atis#Viktorija#Edgars#Gunārs#Igors#Raimonds#Kaspars#Jānis#Lauris#Linda#Vilis#Jānis#Antoņina#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Rosļikovs#Klotiņš#Kalniņa#Kozlovskis#Krauze#Šlesers#Zivtiņš#Abu Meri#Butāns#Krasta#Dzintars#Kalniņa-Lukaševica#Svilāns#Kols#Circene#Kalniņa#Jurēvics#Vīksna#Šlesers#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Grevcova#Mieriņa#Grasbergs#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Tavars#Kūtris#Judins#Bergmanis#Briškens#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Skrastiņš#Ņenaševa#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "#######################################################",
+  "FRACTION": "ST!#NA#NA#JV#PRO#JV#ST!#JV#ST!#NA#JV#JV#ZZS#LPV#LPV#JV#NA#JV#NA#JV#AS#NA#JV#JV#JV#AS#LPV#ST!#ST!#LPV#AS#JV#ST!#NA# #ZZS#NA#JV#JV#LPV#AS#JV#ST!#AS#ZZS#ST!#AS#PRO#JV#AS#LPV#LPV#JV#PRO#AS#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Atturas#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.05.2023 23:53:07",
+  "VOTEMOTIVE": "Grozījumi likumā “Par svētku, atceres un atzīmējamām dienām”, 1.lasījums",
+  "VOTING_ID": "6223ee57-7ab9-44da-a6ea-35f0bf86bd24",
+  "VOTERESULT_ABSTAIN": "4",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "56",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-16-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/ddccc1ad-ca86-41d9-ad31-09de89dd6cc2/download/14.saeimas-2023.gada-pavasara-sesija-16-vote.xml",
+  "sha256": "b200fbdefd4634dea3bdda7e16e9d76928b96c69395acb7ce7b46763313fb573",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
