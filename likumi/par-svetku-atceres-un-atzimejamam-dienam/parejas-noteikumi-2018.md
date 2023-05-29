@@ -1,1 +1,0 @@
-Uzdot Ministru kabinetam līdz 2018. gada 31. decembrim izvērtēt spēkā esošo regulējumu par svētku, atceres un atzīmējamām dienām un izstrādāt priekšlikumus par to, kā turpmāk būtu nosakāmas un kādos normatīvajos aktos iekļaujamas svētku, atceres, atzīmējamās un citas svinamās dienas.
