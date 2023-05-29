@@ -1,0 +1,1 @@
+29. Šā likuma grozījumi par 5. panta pirmās daļas papildināšanu ar 4.¹ punktu, grozījums par 13. panta trešās daļas 4. punkta izslēgšanu un grozījums ceturtās un piektās daļas ievaddaļā, kā arī 9.¹ daļas izteikšanu jaunā redakcijā, paredzot, ka būvspeciālista patstāvīgas prakses uzraudzība tiek veikta, pamatojoties uz risku analīzi, stājas spēkā 2024. gada 1. janvārī.

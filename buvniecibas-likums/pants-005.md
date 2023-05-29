@@ -21,6 +21,8 @@ h) būves konservācijas kārtību,
 i) būves novietojuma uzmērījumu veikšanas kārtību un kārtību, kādā būve pieņemama ekspluatācijā,
 j) būvdarbu garantijas termiņus pēc būves pieņemšanas ekspluatācijā;
 3) izdod būvnormatīvus, kuros nosaka tehniskās prasības attiecībā uz būvēm un to elementiem un vides pieejamības prasības attiecībā uz būvēm;
+3¹) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025.. Sk. pārejas noteikumu 31. punktu);
+3²) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025.. Sk. pārejas noteikumu 31. punktu);
 4) izdod būvspeciālistu kompetences novērtēšanas un patstāvīgās prakses uzraudzības noteikumus, kuros nosaka:
 a) nosacījumus, ar kādiem fiziskajām personām izsniedz, reģistrē un anulē sertifikātu patstāvīgai praksei arhitektūras, būvniecības un elektroenerģētikas jomā, kā arī sertifikāta izsniegšanas, reģistrēšanas un anulēšanas, darbības apturēšanas un atjaunošanas kārtību,
 b) cik ilga praktiskā darba pieredze arhitektūras un būvniecības jomā nepieciešama, lai pretendētu uz sertifikātu patstāvīgai praksei arhitektūras un būvniecības jomā,
@@ -29,6 +31,7 @@ d) patstāvīgās prakses uzraudzības kārtību,
 e) maksas pakalpojumu apmēru, maksāšanas kārtību un saņemto līdzekļu izmantošanas kārtību,
 f) kompetences pārbaudes iestādes pilnvaras,
 g) būvspeciālistu reģistrā iekļaujamo ziņu apjomu un pārbaudes kārtību;
+4¹) (punkts stājas spēkā 01.01.2024. un iekļauts likuma redakcijā uz 01.01.2024.. Sk. pārejas noteikumu 29. punktu);
 5) izdod noteikumus, kuros nosaka:
 a) būvinspektoriem izvirzāmās prasības, būvinspektoru reģistrācijas kārtību un kārtību, kādā būvinspektorus izslēdz no reģistra,
 b) būvinspektoru reģistra datu saturu,
@@ -47,7 +50,7 @@ d) nosacījumus lēmuma par klasifikācijas dokumenta piešķiršanu grozīšana
 e) klasifikācijas iestādes pilnvaras,
 f) informācijas par būvkomersantu klasifikāciju izvietošanas, uzturēšanas, aktualizācijas un pārbaudes kārtību;
 13) nosaka būvniecības ieceres publiskās apspriešanas kārtību;
-14) nosaka publisko būvdarbu līgumā un publisko pakalpojumu līgumā par projektēšanu, projekta ekspertīzi un būvuzraudzības veikšanu obligāti ietveramos nosacījumus un to saturu.
+14) nosaka publisko būvdarbu līgumā obligāti ietveramos nosacījumus un to saturu.
 (2) Šā panta pirmās daļas 2.punktā minētos noteikumus izdod attiecībā uz:
 1) ēkām;
 2) autoceļiem un ielām;

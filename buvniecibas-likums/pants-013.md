@@ -10,6 +10,7 @@
 3) būvdarbu vadīšana;
 4) būvuzraudzība;
 5) būvekspertīze.
+(3¹) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā būvdarbu vadīšanas specialitātē dod tiesības veikt arī būvju būvdarbu būvuzraudzību būvprakses sertifikātā noteiktajā darbības jomā.
 (4) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā šā panta trešās daļas 3. un 4.punktā minētajās specialitātēs var iegūt persona, kas:
 1) ieguvusi pirmā līmeņa profesionālo augstāko izglītību būvniecības vai saistītā inženierzinātņu studiju programmā;
 2) apguvusi patstāvīgai praksei nepieciešamās zināšanas un prasmes;
