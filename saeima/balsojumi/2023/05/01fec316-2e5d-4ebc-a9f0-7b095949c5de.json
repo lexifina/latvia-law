@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada pavasara sesija",
+ "sede": 13,
+ "datums": "2023-05-31",
+ "ieraksts": {
+  "dkp_id": "68c149a1-54ac-4096-9b59-371e02ceff6b",
+  "lastmodtime": "\"AAAAAAIWrqs=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Uldis Pīlēns#Edgars Rinkēvičs#Elīna Pinto",
+  "CANDIDATERESULT": "25:62#42:45#10:77",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "31.05.2023 12:31:01",
+  "VOTEMOTIVE": "Valsts prezidenta vēlēšanas",
+  "VOTING_ID": "01fec316-2e5d-4ebc-a9f0-7b095949c5de",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada pavasara sesija-13-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4f4776ca-f6e4-41ea-b7af-79dfe60c15ca/download/14.saeimas-2023.gada-pavasara-sesija-13-vote.xml",
+  "sha256": "73c3511a934805e3c9d240dd4456947251eb80add7ee5657d6dac179a8827c48",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
