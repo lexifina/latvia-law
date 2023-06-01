@@ -1,0 +1,1 @@
+79. Grozījumi šā likuma 347. panta pirmās daļas 7. punktā un 359. panta trešās daļas 5. punktā par akcionāru reģistra nodalījuma pievienošanu pieteikumam, kā arī grozījumi 359. panta trešās daļas 6. punktā par centrālā vērtspapīru depozitārija izsniegta apliecinājuma par dematerializēto akciju iegrāmatošanu piemērojami ar 2023. gada 1. jūliju.

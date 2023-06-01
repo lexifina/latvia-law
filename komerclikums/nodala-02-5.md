@@ -1,2 +1,2 @@
 2.nodaļa
-Sadalīšanas īpašie noteikumi
+Pārveidošanas īpašie noteikumi

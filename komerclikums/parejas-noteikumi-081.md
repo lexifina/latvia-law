@@ -1,0 +1,1 @@
+81. Grozījumi par šā likuma 291. panta izteikšanu jaunā redakcijā, kā arī grozījumi šā likuma 292. panta pirmajā daļā un 294. panta pirmajā daļā par padomes uzdevumiem stājas spēkā 2023. gada 1. jūlijā.

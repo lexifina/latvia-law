@@ -1,2 +1,3 @@
-361.pants. Reorganizācijas līguma saturs
-Ja iegūstošā sabiedrība ir personālsabiedrība, reorganizācijas līgumā papildus šā likuma 338.panta otrajā daļā minētajām ziņām norādāms katra pievienojamās vai sadalāmās sabiedrības dalībnieka statuss iegūstošajā sabiedrībā (komplementārs vai komandīts), kā arī viņa daļas apmērs.
+361. pants. Personālsabiedrības lēmums par reorganizāciju
+(1) Lēmums par reorganizāciju ir pieņemts, ja par to nobalso visi biedri.
+(2) Sabiedrības līgumā var paredzēt, ka lēmums par reorganizāciju ir pieņemts, ja par to nobalso ne mazāk kā divas trešdaļas biedru.

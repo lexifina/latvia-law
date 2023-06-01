@@ -1,3 +1,2 @@
 2.nodaļa
-Sabiedrība ar ierobežotu atbildību kā
-reorganizācijā iesaistītā sabiedrība
+Kapitālsabiedrība kā reorganizācijā iesaistītā sabiedrība

@@ -1,0 +1,1 @@
+83. Šā likuma 4.³ pants, kā arī grozījumi 224. panta otrajā daļā, 305. panta otrajā daļā un 319. panta ceturtajā daļā par fiziskajai personai dalībvalstī noteiktajiem komercdarbības ierobežojumiem stājas spēkā 2023. gada 1. augustā.

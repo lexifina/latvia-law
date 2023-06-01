@@ -1,0 +1,1 @@
+82. Grozījumi šā likuma 4.² panta pirmajā daļā, 210. panta pirmajā daļā, 268. panta pirmajā daļā, 276. panta trešajā daļā, 280. panta otrajā daļā un 284. panta ceturtajā daļā, kā arī grozījums par šā likuma 184. panta izslēgšanu stājas spēkā 2023. gada 1. jūlijā.

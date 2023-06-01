@@ -5,6 +5,6 @@
 2) šīs sabiedrības atkarīgās sabiedrības valdes loceklis vai persona, kurai ir tiesības pārstāvēt šo atkarīgo sabiedrību;
 3) (izslēgts ar 22.04.2004. likumu).
 (3) Statūti var paredzēt stingrākus ierobežojumus padomes loceklim.
-(4) Minimālais padomes locekļu skaits ir trīs, bet, ja sabiedrības akcijas atrodas publiskā apgrozībā, - minimālais padomes locekļu skaits ir pieci.
+(4) Minimālais padomes locekļu skaits ir trīs.
 (5) Maksimālais padomes locekļu skaits ir divdesmit.
 (6) Padomes loceklis nevar uzticēt savu pienākumu pildīšanu citai personai.

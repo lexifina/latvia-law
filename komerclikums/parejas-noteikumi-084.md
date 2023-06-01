@@ -1,0 +1,1 @@
+84. Grozījumi šā likuma 236.¹ panta otrajā daļā par vārda "reģistrāciju" izslēgšanu, 236.² panta trešās daļas 4. punktā par vārda "otrās" aizstāšanu ar vārdu "šīs daļas", 238.¹ panta nosaukumā un tekstā par vārda "vārda" aizstāšanu ar vārdu "reģistrētas" un 238.² panta otrās daļas otrā un trešā teikuma izslēgšanu stājas spēkā 2023. gada 1. jūlijā.

@@ -1,6 +1,5 @@
-357.pants. Lēmums par pārveidošanu
-(1) Lēmumā par reorganizāciju norādāmas šā likuma 338.panta otrajā daļā minētās ziņas, papildus norādot iegūstošās sabiedrības veidu.
-(2) Lēmuma projektam kā pielikums tiek pievienots iegūstošās sabiedrības statūtu vai sabiedrības līguma (ja iegūstošā sabiedrība ir personālsabiedrība) projekts.
-(3) Lēmums aizstāj šā likuma 338.pantā minēto reorganizācijas līgumu, un uz to attiecināmi šā likuma 338. - 343.panta noteikumi.
-(4) Līdz ar lēmumu par pārveidošanu tiek apstiprināti iegūstošās sabiedrības statūti vai sabiedrības līgums, ja iegūstošā sabiedrība ir personālsabiedrība.
-(5) Ja sabiedrība tiek pārveidota par sabiedrību ar ierobežotu atbildību vai akciju sabiedrību, vienlaikus ar lēmuma pieņemšanu tiek ievēlēta iegūstošās sabiedrības valde un padome, ja tāda saskaņā ar likumu vai statūtiem ir nepieciešama.
+357. pants. Iegūstošās sabiedrības valde un padome
+(1) Ja personālsabiedrība tiek pārveidota par kapitālsabiedrību, vienlaikus ar lēmuma par reorganizāciju pieņemšanu tiek ievēlēta iegūstošās sabiedrības valde un padome, ja tāda saskaņā ar likumu vai statūtiem ir nepieciešama.
+(2) Ja kapitālsabiedrība tiek pārveidota par cita veida kapitālsabiedrību, uzskatāms, ka pārveidojamās sabiedrības valdes un padomes locekļi ir ievēlēti par iegūstošās sabiedrības valdes un padomes locekļiem, ja vien lēmumā nav noteikts citādi.
+(3) Ja iegūstošā sabiedrība ir sabiedrība ar ierobežotu atbildību, uzskatāms, ka pārveidojamās sabiedrības valdes vai padomes loceklis iegūstošajā sabiedrībā ir ievēlēts uz nenoteiktu laiku, ja iegūstošās sabiedrības statūtos vai lēmumā par reorganizāciju nav noteikts citādi.
+(4) Ja iegūstošā sabiedrība ir akciju sabiedrība un pārveidojamās sabiedrības valdes vai padomes loceklis ir ievēlēts uz nenoteiktu laiku, viņa pilnvaras iegūstošajā sabiedrībā izbeidzas likumā vai statūtos noteiktajā termiņā, skaitot no reorganizācijas spēkā stāšanās brīža.

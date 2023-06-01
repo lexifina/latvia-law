@@ -1,8 +1,9 @@
-353.pants. Atlīdzība
-(1) Pievienojamās, sadalāmās vai pārveidojamās sabiedrības dalībnieks, kurš nepiekrīt reorganizācijai, ir tiesīgs divu mēnešu laikā no reorganizācijas spēkā stāšanās brīža pieprasīt, lai iegūstošā sabiedrība atpērk viņa daļas par naudu (atlīdzību).
-(2) Atlīdzību var prasīt arī sadalīšanas rezultātā jaunizveidotās sabiedrības dalībnieks, kurš balsojis pret statūtu apstiprināšanu.
-(3) Šā panta pirmajā un otrajā daļā minēto tiesību nav dalībniekam, kurš nav ierakstīts šā likuma 343.panta devītajā daļā minētajā sarakstā un 355.panta piektajā daļā minētajā protokolā.
-(4) Atlīdzības apmēram jābūt vienādam ar summu, kuru dalībnieks iegūtu, sadalot pievienojamās vai sadalāmās sabiedrības mantu likvidācijas gadījumā, ja tāda notiktu brīdī, kad tika pieņemts lēmums par reorganizāciju.
+353. pants. Atlīdzība
+(1) Pievienojamās, sadalāmās vai pārveidojamās sabiedrības dalībnieks, kurš nepiekrīt reorganizācijai, ir tiesīgs pieprasīt, lai iegūstošā sabiedrība atpērk tā daļas iegūstošajā sabiedrībā par taisnīgu un pamatotu atlīdzību, kuras apmērs noteikts reorganizācijas līgumā.
+(2) Tiesības uz atlīdzību ir dalībniekam, kurš dalībnieku sapulcē balso pret reorganizāciju un kurš ierakstīts šā likuma 343. panta piektajā daļā minētajā protokolā.
+(3) Dalībnieks viena mēneša laikā pēc lēmuma par reorganizāciju pieņemšanas ir tiesīgs rakstveidā iesniegt sabiedrībai pieprasījumu par daļu atpirkšanu.
+(4) Sabiedrība nodrošina, ka dalībnieks šā panta trešajā daļā minēto pieprasījumu var iesniegt, izmantojot elektroniskos saziņas līdzekļus.
 (5) Attiecībā uz atlīdzību netiek piemēroti likumā noteiktie ierobežojumi par kārtību, kādā sabiedrība var iegūt savas daļas.
-(6) No reorganizācijas spēkā stāšanās brīža iegūstošā sabiedrība maksā likumiskos procentus par paredzētajā apmērā un termiņā neizdarītajām atlīdzības izmaksām.
-(7) Ja pievienojamās vai sadalāmās sabiedrības dalībnieks, kurš nepiekrīt reorganizācijai, nepieprasa atlīdzību, viņš divu mēnešu laikā var atsavināt savas daļas neatkarīgi no lēmumā, statūtos vai likumā paredzētajiem ierobežojumiem.
+(6) Iegūstošā sabiedrība izmaksā dalībniekam atlīdzību divu mēnešu laikā no reorganizācijas spēkā stāšanās brīža, ja reorganizācijas līgumā nav noteikts īsāks termiņš.
+(7) Iegūstošā sabiedrība maksā likumiskos procentus par paredzētajā apmērā un termiņā neizdarītajām atlīdzības izmaksām.
+(8) Dalībnieks, kurš pieprasījis sabiedrībai atpirkt tā daļas, ir tiesīgs viena mēneša laikā pēc pieprasījuma iesniegšanas apstrīdēt atlīdzības apmēru un prasīt, lai tiktu noteikta vienreizēja papildu samaksa.

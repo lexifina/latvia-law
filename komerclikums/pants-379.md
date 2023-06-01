@@ -1,5 +1,3 @@
-379.pants. Priekšrocību akciju turētāju un obligacionāru interešu aizsardzība
-(1) Iegūstošajā akciju sabiedrībā tiek saglabātas pievienojamās vai sadalāmās akciju sabiedrības priekšrocību akciju turētāju un obligacionāru tiesības.
-(1¹) Līdz lēmuma par reorganizāciju pieņemšanai obligacionāri var pieņemt lēmumu par to tiesību grozīšanu, kuras viņiem piešķir iegūstošā sabiedrība. Minētais lēmums ir pieņemts, ja par to nobalso ne mazāk kā trīs ceturtdaļas no katras obligāciju kategorijas obligacionāriem, ja statūtos nav noteikts lielāks balsu skaits.
-(2) Ja iegūstošā sabiedrība nav akciju sabiedrība, pievienojamās vai sadalāmās akciju sabiedrības priekšrocību akciju turētāji un obligacionāri iegūst iegūstošās sabiedrības daļas, pamatojoties uz tādiem pašiem noteikumiem kā pārējie pievienojamās vai sadalāmās sabiedrības akcionāri.
-(3) Priekšrocību akciju turētāji un obligacionāri, kuri nepiekrīt lēmumam par reorganizāciju, var pieprasīt atlīdzību saskaņā ar šā likuma 353.panta noteikumiem.
+379. pants. Darbinieku viedoklis par prospektu
+(1) Darbinieku pārstāvji (ja tādu nav, - darbinieki) ir tiesīgi ne vēlāk kā divas nedēļas līdz dienai, kad paredzēta dalībnieku sapulce par lēmuma par reorganizāciju pieņemšanu, sniegt sabiedrībai rakstveida viedokli par prospektā iekļautajām ziņām, kas skar darbiniekus.
+(2) Ja sabiedrība saņem darbinieku pārstāvju (ja tādu nav, - darbinieku) viedokli, valde par to nekavējoties informē dalībniekus un šā likuma 342. pantā noteiktajā kārtībā nodrošina dalībniekiem pieeju viedoklim.

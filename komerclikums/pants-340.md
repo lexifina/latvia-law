@@ -1,5 +1,5 @@
-340.pants. Revidenta pārbaude
-(1) Reorganizācijas procesā iesaistīto sabiedrību līguma projektu pārbauda zvērināts revidents. Reorganizācijas procesā iesaistītās sabiedrības var ievēlēt kopīgu revidentu.
-(2) (Izslēgta ar 15.04.2010. likumu)
-(3) Reorganizācijas līgumu revidents nepārbauda, ja tam piekrīt visi dalībnieki vai biedri. Revidentam nav jāpārbauda līguma projekts pievienojamā vai sadalāmajā sabiedrībā, ja visas pievienojamās vai sadalāmās sabiedrības kapitāla daļas (akcijas) pieder iegūstošajai sabiedrībai.
-(4) Sabiedrības, kuras piedalās reorganizācijas procesā, nodrošina revidentam pieeju visiem dokumentiem un informācijai, kam ir nozīme revidenta pienākumu veikšanā.
+340. pants. Revidenta pārbaude
+(1) Reorganizācijā iesaistītajā sabiedrībā līgumu vai līguma projektu pārbauda zvērināts revidents vai zvērinātu revidentu komercsabiedrība (turpmāk - revidents). Visās iesaistītajās sabiedrībās līgumu vai līguma projektu var pārbaudīt kopīgs revidents.
+(2) Reorganizācijas līgumu vai līguma projektu revidents nepārbauda, ja tam piekrīt visi dalībnieki.
+(3) Sabiedrības, kuras piedalās reorganizācijas procesā, nodrošina revidentam pieeju visiem dokumentiem un informācijai, kam ir nozīme revidenta pienākumu veikšanā.
+(4) Revidents atbild par zaudējumiem, kas, veicot pārbaudi, radušies viņa vainas dēļ.

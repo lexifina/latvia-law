@@ -1,3 +1,5 @@
-369.pants. Lēmums par reorganizāciju, ja reorganizācijā iesaistīta sabiedrība ar ierobežotu atbildību
-(1) Lēmums par reorganizāciju ir pieņemts, ja par to nobalso ne mazāk kā divas trešdaļas no dalībnieku sapulcē pārstāvētajām balsīm (ja statūtos nav noteikts, ka ir nepieciešams lielāks balsu skaits, lai pieņemtu lēmumu par reorganizāciju).
-(2) Nosakot pārstāvības normu, netiek ņemtas vērā daļas, ko ieguvusi pati sabiedrība.
+369. pants. Priekšrocību akciju turētāju un obligacionāru interešu aizsardzība
+(1) Iegūstošajā akciju sabiedrībā tiek saglabātas pievienojamās vai sadalāmās akciju sabiedrības priekšrocību akciju turētāju un obligacionāru tiesības.
+(2) Ja iegūstošā sabiedrība nav akciju sabiedrība, pievienojamās, sadalāmās vai pārveidojamās sabiedrības priekšrocību akciju turētāji un obligacionāri piedalās pārstāvības normas noteikšanā un lēmuma pieņemšanā par reorganizāciju ar tādām pašām tiesībām kā pārējie akcionāri. Uz tiem attiecināmi šā likuma noteikumi par lēmumu pieņemšanu atsevišķās akciju kategorijās.
+(3) Priekšrocību akciju turētāji un obligacionāri, kuri šā panta otrajā daļā minētajā gadījumā nepiekrīt lēmumam par reorganizāciju, var pieprasīt atlīdzību saskaņā ar šā likuma 353. panta noteikumiem.
+(4) Ja iegūstošā sabiedrība nav akciju sabiedrība, pievienojamās, sadalāmās vai pārveidojamās akciju sabiedrības priekšrocību akciju turētāji un obligacionāri iegūst iegūstošās sabiedrības daļas, pamatojoties uz tādiem pašiem noteikumiem kā pārējie pievienojamās, sadalāmās vai pārveidojamās sabiedrības akcionāri.

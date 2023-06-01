@@ -1,3 +1,3 @@
-370.pants. Iegūstošās sabiedrības pamatkapitāla palielināšana apvienošanas vai sadalīšanas procesa rezultātā
-(1) Apvienošanas vai sadalīšanas procesa rezultātā palielinot iegūstošās sabiedrības pamatkapitālu, tās dalībniekiem nav pirmtiesību uz jaunajām, apmaiņai paredzētajām daļām.
-(2) Papildus šā likuma 202.pantā noteiktajiem dokumentiem, kas iesniedzami komercreģistra iestādei sakarā ar pamatkapitāla palielināšanu, pieteikumam pievieno reorganizācijas līgumu un katras reorganizācijā iesaistītās sabiedrības dalībnieku sapulces protokola izrakstu un lēmumu par reorganizāciju.
+370. pants. Reorganizācijas ierobežojumi
+(1) Sabiedrību ar ierobežotu atbildību, kura atbilst šā likuma 185.¹ panta pirmajā daļā minētajām pazīmēm, nedrīkst reorganizēt.
+(2) Ja iegūstošā sabiedrība ir sabiedrība ar ierobežotu atbildību, tās pamatkapitāls nedrīkst būt mazāks par šā likuma 185. pantā noteikto.

@@ -1,2 +1,2 @@
-386.pants. Ieraksts komercreģistrā par pārrobežu apvienošanu
-Ja ieraksts par iegūstošo kapitālsabiedrību tiek izdarīts citas dalībvalsts komercreģistrā, ierakstu par pievienojamo kapitālsabiedrību komercreģistrā izdara, kad komercreģistra iestāde ir saņēmusi informāciju no citas dalībvalsts komercreģistra iestādes par attiecīga ieraksta izdarīšanu.
+386. pants. Pieteikums iegūstošās sabiedrības ierakstīšanai komercreģistrā
+Ja iegūstošo sabiedrību ir paredzēts reģistrēt Latvijā, pārrobežu reorganizācijā iesaistītā sabiedrība papildus šā likuma 385. pantā minētajam pieteikumam iesniedz šā likuma 78. vai 149. pantā minēto pieteikumu par iegūstošās sabiedrības ierakstīšanu komercreģistrā. Pievienojamās sabiedrības iesniedz komercreģistra iestādei kopīgu pieteikumu par iegūstošās sabiedrības ierakstīšanu komercreģistrā.

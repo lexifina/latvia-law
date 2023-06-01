@@ -1,5 +1,11 @@
-371.pants. Daļu nodošana reorganizācijas gadījumā
-(1) Iegūstošā sabiedrība pievienojamās vai sadalāmās sabiedrības dalībniekiem apmaiņai pirmām kārtām nodod tai piederošās savas daļas.
-(2) Iegūstošās sabiedrības daļas netiek apmainītas pret pievienojamās vai sadalāmās sabiedrības daļām, ja:
-1) pievienojamās vai sadalāmās sabiedrības daļas pieder iegūstošajai sabiedrībai vai trešajai personai, kura rīkojas savā vārdā, bet iegūstošās sabiedrības labā;
-2) pievienojamās vai sadalāmās sabiedrības daļas pieder pašai pievienojamajai vai sadalāmajai sabiedrībai vai trešajai personai, kura rīkojas savā vārdā, bet pievienojamās vai sadalāmās sabiedrības labā.
+371. pants. Reorganizācijas dokumenti
+(1) Ja visas pievienojamās sabiedrības kapitāla daļas (akcijas) pieder iegūstošajai sabiedrībai:
+1) līgumā nenorāda šā likuma 338. panta otrās daļas 2., 3., 4., 5., 6. un 7. punktā minētās ziņas;
+2) pievienojamai sabiedrībai nav jāsagatavo prospekts;
+3) revidentam nav jāpārbauda līgums vai līguma projekts pievienojamajā sabiedrībā.
+(2) Ja vienam dalībniekam tieši vai netieši pieder visas pievienojamās sabiedrības un iegūstošās sabiedrības kapitāla daļas (akcijas) un reorganizācijas rezultātā iegūstošā sabiedrība neizlaiž jaunas kapitāla daļas (akcijas), piemēro šā panta pirmo daļu. Papildus minētajam šādā gadījumā revidentam nav jāpārbauda reorganizācijas līgums vai līguma projekts iegūstošajā sabiedrībā.
+(3) Ja visas iegūstošās sabiedrības kapitāla daļas (akcijas) iegūst sadalāmās sabiedrības dalībnieki, sadalāmajai sabiedrībai nav jāsagatavo prospekts un revidentam nav jāpārbauda līgums vai līguma projekts sadalāmajā sabiedrībā.
+(4) Ja nodalīšanas ceļā tiek dibināta jauna sabiedrība un par tās vienīgo dalībnieku kļūst sadalāmā sabiedrība:
+1) līgumā nenorāda šā likuma 338. panta otrās daļas 2., 3., 4., 5., 6. un 7. punktā minētās ziņas;
+2) sadalāmajai sabiedrībai nav jāsagatavo prospekts;
+3) revidentam nav jāpārbauda līgums vai līguma projekts sadalāmajā sabiedrībā.

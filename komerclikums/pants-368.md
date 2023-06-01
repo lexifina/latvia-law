@@ -1,0 +1,4 @@
+368. pants. Akcionāru tiesības uz reorganizācijas dokumentu pieejamību
+(1) Papildus šā likuma 342. pantā noteiktajam akciju sabiedrība nodrošina iespēju akcionāriem iepazīties ar reorganizācijas dokumentiem sabiedrības juridiskajā adresē un tiesības bez maksas saņemt šo dokumentu kopijas vai izrakstus.
+(2) Ja akciju sabiedrība nodrošina reorganizācijas dokumentu pieejamību bez maksas savā tīmekļvietnē, tai nav jānodrošina akcionāriem iespēja iepazīties ar attiecīgajiem dokumentiem sabiedrības juridiskajā adresē.
+(3) Akciju sabiedrībai nav pienākuma nodrošināt akcionāriem iespēju saņemt bez maksas reorganizācijas dokumentu kopijas, ja attiecīgos dokumentus var lejupielādēt un izdrukāt bez maksas no sabiedrības tīmekļvietnes ne vēlāk kā vienu mēnesi līdz dienai, kad paredzēts pieņemt lēmumu par reorganizāciju.

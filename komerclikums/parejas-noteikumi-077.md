@@ -1,0 +1,1 @@
+77. Reorganizācijas procesam, kurā šā likuma 338. pantā minētais pieteikums par reorganizācijas uzsākšanu un tam pievienojamais līguma projekts iesniegts komercreģistra iestādei līdz 2023. gada 31. maijam, piemērojami šā likuma noteikumi par reorganizāciju, kas bija spēkā minētā pieteikuma iesniegšanas brīdī.

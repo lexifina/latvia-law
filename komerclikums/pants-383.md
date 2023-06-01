@@ -1,3 +1,2 @@
-383.pants. Pirmsapvienošanas apliecība
-(1) Ja iegūstošo kapitālsabiedrību paredzēts reģistrēt citā dalībvalstī, Latvijā reģistrēta pievienojamā kapitālsabiedrība komercreģistra iestādei iesniedz pieteikumu apliecinājuma saņemšanai par to, ka pievienojamā kapitālsabiedrība ir veikusi visas nepieciešamās darbības pārrobežu apvienošanas pabeigšanai.
-(2) Pieteikumam pievieno šā likuma 347.panta pirmās daļas 1., 2., 3., 4., 5., 6., 7. un 8.punktā minētos dokumentus. Pieteikumā kapitālsabiedrība apliecina, ka ir nodrošināti vai apmierināti to kreditoru prasījumi, kuri pieteikuši savus prasījumus noteiktā termiņā, un ka lēmums par reorganizāciju nav apstrīdēts tiesā vai ka attiecīgā prasība nav apmierināta.
+383. pants. Darbinieku līdzdalība
+Ja iegūstošā kapitālsabiedrība ir reģistrēta vai to paredzēts reģistrēt Latvijā un vismaz vienā no pārrobežu reorganizācijā iesaistītajām kapitālsabiedrībām ir spēkā darbinieku līdzdalības noteikumi, tad darbinieku līdzdalībai tiek piemēroti normatīvie akti, kas regulē darbinieku iesaistīšanu lēmumu pieņemšanā kapitālsabiedrību pārrobežu reorganizācijas gadījumā.

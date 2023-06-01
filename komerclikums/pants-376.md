@@ -1,3 +1,8 @@
-376.pants. Piemaksu apmērs
-(1) Līgumā paredzētās piemaksas, kuras iegūstošā akciju sabiedrība izmaksā pievienojamās, sadalāmās vai pārveidojamās sabiedrības dalībniekiem, nedrīkst kopapjomā pārsniegt 10 procentus no apmaiņai piedāvāto akciju nominālvērtību summas.
-(2) Ja noteikts pārāk zems kapitāla daļu apmaiņas koeficients, pievienojamās, sadalāmās vai pārveidojamās sabiedrības dalībnieks var prasīt no iegūstošās sabiedrības vienreizēju izmaksu, kas var pārsniegt šā panta pirmajā daļā noteikto apmēru.
+376. pants. Pārrobežu reorganizācijas līgums
+Pārrobežu reorganizācijas līgumā (turpmāk - līgums) papildus šā likuma 338. panta otrajā daļā minētajām ziņām norāda:
+1) pārrobežu reorganizācijā iesaistīto sabiedrību un jaundibināmās sabiedrības (ja tāda ir) veidu;
+2) ziņas par to, ka pārrobežu reorganizācijā iesaistītajām kapitālsabiedrībām ir spēkā darbinieku līdzdalības noteikumi, ja tādi piemērojami;
+3) ziņas par kreditoriem pieejamiem nodrošinājuma līdzekļiem;
+4) ja veic pārrobežu apvienošanu vai sadalīšanu, - ziņas par iegūstošajai sabiedrībai nododamās mantas sastāvā ietilpstošo aktīvu un saistību novērtēšanu;
+5) datumu, kad apstiprināts sabiedrības saimnieciskās darbības pārskats, uz kuru balstīti pārrobežu apvienošanas vai sadalīšanas noteikumi;
+6) ziņas par to, vai pārveidojamā sabiedrība ir saņēmusi valsts atbalstu vai subsīdijas piecu gadu laikā pirms lēmuma par reorganizāciju pieņemšanas.

@@ -1,7 +1,7 @@
 161.pants. Dividendes
 (1) (Izslēgta ar 14.02.2002. likumu)
 (1¹) Dividendes nosaka ar dalībnieku sapulces lēmumu.
-(2) Dividendes izmaksā dalībniekam proporcionāli viņam piederošo daļu nominālvērtību summai.
+(2) Dividendes izmaksā dalībniekam proporcionāli viņam piederošo daļu nominālvērtību summai, ja statūtos nav paredzēta citāda dividenžu sadales kārtība.
 (3) Dividendes aprēķināmas un izmaksājamas par pilnībā apmaksātām daļām.
 (4) Dividendes nedrīkst noteikt, aprēķināt un izmaksāt, ja no gada pārskata vai šā likuma 161.¹ pantā minētā saimnieciskās darbības pārskata izriet, ka sabiedrības pašu kapitāls ir mazāks par pamatkapitālu.
 (5) Dividendes izmaksājamas tikai naudā, pamatojoties uz lēmumu par peļņas sadali.

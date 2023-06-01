@@ -1,5 +1,5 @@
 304.pants. Valdes sastāvs
-(1) Valdes sastāvā var būt viens vai vairāki valdes locekļi. Ja sabiedrības akcijas atrodas publiskā apgrozībā, minimālais valdes locekļu skaits ir trīs.
+(1) Valdes sastāvā var būt viens vai vairāki valdes locekļi.
 (2) Par valdes locekli var būt tikai rīcībspējīga fiziskā persona.
 (3) Par valdes locekli nevar būt:
 1) šīs sabiedrības padomes loceklis;

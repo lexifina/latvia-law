@@ -1,0 +1,1 @@
+80. Ja akciju sabiedrība, kura komercreģistrā reģistrēta līdz 2023. gada 30. jūnijam, nav iesniegusi šo pārejas noteikumu 66. punktā minētos dokumentus, tā, sākot ar 2024. gada 1. janvāri, vienlaikus ar šā likuma 347. pantā minēto pieteikumu par ieraksta par reorganizāciju izdarīšanu iesniedz komercreģistra iestādei šo pārejas noteikumu 66. punktā minētos dokumentus.

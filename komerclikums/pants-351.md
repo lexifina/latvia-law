@@ -1,4 +1,9 @@
-351.pants. Reorganizācijas procesā iesaistīto sabiedrību atbildība
-(1) Iegūstošā sabiedrība atbild par visām pievienojamās un pārveidojamās sabiedrības saistībām.
-(2) Par sadalāmās sabiedrības saistībām, kas radušās līdz reorganizācijas spēkā stāšanās brīdim, atbild solidāri visas sadalīšanā iesaistītās sabiedrības, ieskaitot jaundibinātās sabiedrības. Solidāro parādnieku savstarpējās attiecībās par saistīto subjektu uzskatāma tikai tā persona, kuras saistības paredzētas līgumā.
-(3) Ja kādas sadalīšanā iesaistītās sabiedrības saistības nav noteiktas līgumā, tā atbild solidāri līdz ar citām sadalīšanā iesaistītajām sabiedrībām par sadalāmās sabiedrības saistībām, kuras radušās līdz reorganizācijas spēkā stāšanās brīdim un kuru izpildes termiņš iestājas piecu gadu laikā no reorganizācijas spēkā stāšanās brīža.
+351. pants. Kreditoru aizsardzība
+(1) Šā likuma 347. pantā minētajam pieteikumam pievieno paziņojumu kreditoriem, kurā tie uzaicināmi pieteikt savus prasījumus. Paziņojumā norāda:
+1) reorganizācijā iesaistīto sabiedrību firmas un reģistrācijas numurus;
+2) reorganizācijas veidu;
+3) kreditoru prasījumu pieteikšanas termiņu, kurš nedrīkst būt īsāks par vienu mēnesi no paziņojuma publicēšanas dienas.
+(2) Komercreģistra iestāde pēc tam, kad komercreģistrā izdarīts ieraksts par reorganizāciju, savā tīmekļvietnē publicē šā panta pirmajā daļā minēto paziņojumu kreditoriem.
+(3) Sabiedrība triju mēnešu laikā pēc reorganizācijas stāšanās spēkā nodrošina tā kreditora prasījumu, kuram līdz lēmuma par reorganizāciju pieņemšanai bija prasījuma tiesības pret sabiedrību, ja kreditors prasījumu pieteicis noteiktajā termiņā un pierādījis, ka reorganizācija apdraud tā prasījuma apmierināšanu. Sabiedrības sniegtajam nodrošinājumam jābūt samērīgam, ievērojot sabiedrības finansiālo stāvokli un citu sabiedrības kreditoru intereses.
+(4) Nodrošinātais kreditors var prasīt nodrošinājumu tikai parāda nenodrošinātās daļas apmērā.
+(5) Kreditoram ir tiesības celt tiesā prasību par nodrošinājumu, ja sabiedrība nav nodrošinājusi kreditora prasījumu vai sniegtais nodrošinājums nav atbilstošs. Prasība ceļama viena mēneša laikā no dienas, kad sabiedrība nodrošinājusi kreditora prasījumu, vai, ja sabiedrība nav sniegusi nodrošinājumu, - viena mēneša laikā pēc šā panta trešajā daļā norādītā termiņa notecējuma.

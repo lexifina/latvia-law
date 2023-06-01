@@ -1,2 +1,2 @@
 1.nodaļa
-Apvienošanas īpašie noteikumi
+Sadalīšanas īpašie noteikumi

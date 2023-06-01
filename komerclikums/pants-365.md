@@ -1,3 +1,3 @@
-365.pants. Dalībnieku mazākuma aizsardzība
-(1) Ja iegūstošā sabiedrība ir personālsabiedrība, reorganizācijā iesaistītās sabiedrības dalībnieks, kurš balsojis pret reorganizāciju vai nav piedalījies balsošanā, kļūst par iegūstošās sabiedrības komandītu.
-(2) Ja iegūstošā sabiedrība ir personālsabiedrība, atlīdzību var prasīt biedrs, kurš izstājas no sabiedrības.
+365. pants. Daļu (akciju) nodošana reorganizācijas gadījumā
+(1) Iegūstošā sabiedrība pievienojamās vai sadalāmās sabiedrības dalībniekiem apmaiņai pirmām kārtām nodod tai piederošās savas kapitāla daļas (akcijas).
+(2) Pievienojamās vai sadalāmās sabiedrības kapitāla daļas (akcijas), kas piederējušas iegūstošajai sabiedrībai vai pašai pievienojamajai vai sadalāmajai sabiedrībai, vai personai, kura darbojas savā vārdā, bet attiecīgi pievienojamās, sadalāmās vai iegūstošās sabiedrības labā, netiek apmainītas un ir dzēšamas, izņemot gadījumus, kad sadalāmā sabiedrība nodalīšanas rezultātā kļūst par iegūstošās sabiedrības vienīgo dalībnieku.

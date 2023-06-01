@@ -1,5 +1,4 @@
-377.pants. Mantiskā ieguldījuma novērtēšana, ja iegūstošā sabiedrība ir akciju sabiedrība
-(1) Ja iegūstošā sabiedrība ir akciju sabiedrība, kurai reorganizācijas rezultātā jāpalielina pamatkapitāls vai kura tiek dibināta kā jauna sabiedrība, jāveic katras pievienojamās sabiedrības mantas vai sadalāmās sabiedrības attiecīgās mantas daļas novērtējums, lai noteiktu tās pietiekamību iegūstošās sabiedrības pamatkapitāla palielināšanai vai tās dibināšanai.
-(2) Novērtēšanu veic un rakstveida atzinumu sastāda persona, kura pārbaudījusi reorganizācijas līgumu attiecīgajā sabiedrībā. Šā likuma 340.panta trešajā daļā minētajā gadījumā novērtēšanu veic un rakstveida atzinumu sniedz persona, kura iekļauta mantiskā ieguldījuma vērtētāju sarakstā.
-(3) Visiem attiecīgās sabiedrības dalībniekiem, kā arī iegūstošās sabiedrības dalībniekiem ir tiesības iepazīties ar atzinumu par mantiskā ieguldījuma novērtējumu šā likuma 343.panta trešajā un piektajā daļā noteiktajā kārtībā.
-(4) Atzinums pievienojams komercreģistra iestādei iesniedzamajam pieteikumam par reorganizāciju.
+377. pants. Dalībnieku, kreditoru un darbinieku viedoklis par līgumu vai līguma projektu
+(1) Šā likuma 338. panta ceturtajā daļā minētajam pieteikumam pievieno paziņojumu dalībniekiem, kreditoriem un darbinieku pārstāvjiem (ja tādu nav, - darbiniekiem), kurā tie uzaicināmi sniegt viedokli par līgumu vai līguma projektu. Paziņojumā norāda viedokļa sniegšanas vietu un laiku, kas nedrīkst būt vēlāks kā piecas darba dienas līdz dienai, kad paredzēta dalībnieku sapulce par lēmuma par reorganizāciju pieņemšanu.
+(2) Komercreģistra iestāde publicē šā panta pirmajā daļā minēto paziņojumu savā tīmekļvietnē.
+(3) Ja sabiedrība saņem dalībnieku, kreditoru vai darbinieku pārstāvju (ja tādu nav, - darbinieku) viedokli, valde par to nekavējoties informē dalībniekus un šā likuma 342. pantā noteiktajā kārtībā nodrošina dalībniekiem pieeju viedoklim.
