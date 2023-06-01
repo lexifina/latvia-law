@@ -2,4 +2,4 @@
 (1) Ja Eiropas komercsabiedrību vai Eiropas kooperatīvo sabiedrību izveido apvienošanas ceļā, speciālajā sarunu grupā iekļauj papildu pārstāvjus no katras dalībvalsts, lai šajā sarunu grupā būtu vismaz viens katras dibinātājas sabiedrības vai reorganizējamās sabiedrības pārstāvis. Speciālajā sarunu grupā neiekļauj papildu pārstāvjus, ja līdz ar viņu iekļaušanu attiecīgie darbinieki tiktu pārstāvēti divreiz.
 (2) Papildu pārstāvju skaits nedrīkst pārsniegt 20 procentus no tādas sarunu grupas locekļu skaita, kura ievēlēta saskaņā ar šā likuma 5.panta otro daļu.
 (3) Ja dibinātāju sabiedrību vai reorganizējamo sabiedrību skaits pārsniedz papildu vietu skaitu speciālajā sarunu grupā, šīs vietas tiek piešķirtas dažādās dalībvalstīs reģistrēto dibinātāju sabiedrību vai reorganizējamo sabiedrību darbinieku pārstāvjiem, sākot ar to dibinātāju sabiedrību vai reorganizējamo sabiedrību darbinieku pārstāvjiem, kurās ir nodarbināti vairāk darbinieku.
-(4) Šā panta noteikumus piemēro arī kapitālsabiedrību pārrobežu apvienošanas gadījumā.
+(4) Šā panta noteikumus piemēro arī kapitālsabiedrību pārrobežu apvienošanas un sadalīšanas gadījumā.
