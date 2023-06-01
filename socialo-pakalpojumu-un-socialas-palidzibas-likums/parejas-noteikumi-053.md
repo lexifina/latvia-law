@@ -1,0 +1,1 @@
+53. Grozījums par šā likuma 13. panta nosaukuma izteikšanu jaunā redakcijā un šā panta astotā, devītā un desmitā daļa, kā arī grozījums par šā likuma 33. panta izteikšanu jaunā redakcijā stājas spēkā 2023. gada 1. jūlijā.
