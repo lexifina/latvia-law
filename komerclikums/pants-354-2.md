@@ -1,3 +1,0 @@
-354.² pants. Iegūstošās sabiedrības dalībnieka tiesības sasaukt dalībnieku sapulci
-(1) Iegūstošās sabiedrības dalībniekiem, kuri pārstāv ne mazāk par vienu divdesmitdaļu no sabiedrības pamatkapitāla, šā likuma 354.¹ panta trešās daļas 5.punktā norādītajā termiņā ir tiesības pieprasīt dalībnieku sapulces sasaukšanu saskaņā ar šā likuma 213. vai 273.panta noteikumiem, lai izskatītu reorganizācijas līguma projektu un pieņemtu lēmumu par reorganizāciju.
-(2) Ja iegūstošās sabiedrības dalībnieki, kuri pārstāv ne mazāk par vienu divdesmitdaļu sabiedrības pamatkapitāla, pieprasa sasaukt dalībnieku sapulci, šā likuma 354.³ panta noteikumus nepiemēro.
