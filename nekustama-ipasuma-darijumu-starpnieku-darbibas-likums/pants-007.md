@@ -1,7 +1,7 @@
 7. pants. Nekustamā īpašuma darījumu starpnieku reģistrācija
 (1) Persona, kura vēlas uzsākt starpniecības pakalpojumu sniegšanu, iesniedz Ekonomikas ministrijai iesniegumu, norādot vai pievienojot šādu informāciju un dokumentus:
 1) iesniegumā norāda šādu informāciju:
-a) fiziskās personas vārdu, uzvārdu un personas kodu vai juridiskās personas nosaukumu un reģistrācijas numuru,
+a) fiziskās personas vārdu, uzvārdu un personas kodu vai juridiskās personas vai personālsabiedrības nosaukumu (firmu), reģistrācijas numuru un tās fiziskās personas vārdu un uzvārdu, kura juridiskās personas vai personālsabiedrības vārdā sniedz nekustamā īpašuma darījumu starpniecības pakalpojumus,
 b) laiku, kad paredzēts sākt starpniecības pakalpojumu sniegšanu;
 2) iesniegumam pievieno šādus dokumentus:
 a) profesionālās darbības civiltiesiskās atbildības apdrošināšanas polises kopiju,

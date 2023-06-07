@@ -1,0 +1,1 @@
+4. Grozījums šā likuma 12. panta pirmajā daļā attiecībā uz nekustamā īpašuma darījumu starpnieka pienākumu sniegt informāciju par iepriekšējā kalendāra gadā apmeklētajiem kvalifikācijas celšanas pasākumiem stājas spēkā 2024. gada 1. jūlijā.

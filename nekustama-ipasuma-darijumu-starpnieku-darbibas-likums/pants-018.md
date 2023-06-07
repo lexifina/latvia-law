@@ -1,0 +1,2 @@
+18. pants. Nekustamā īpašuma darījumu starpniecības pakalpojumu sniegšana bez reģistrācijas
+Par nekustamā īpašuma darījumu starpniecības pakalpojumu sniegšanu bez reģistrācijas nekustamā īpašuma darījumu starpnieku reģistrā piemēro brīdinājumu vai naudas sodu nekustamā īpašuma darījumu starpniekam fiziskajai personai - līdz simt naudas soda vienībām, bet juridiskajai personai - līdz tūkstoš sešsimt naudas soda vienībām.
