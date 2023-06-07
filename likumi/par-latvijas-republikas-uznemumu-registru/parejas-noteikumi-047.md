@@ -1,0 +1,1 @@
+47. Šā likuma 4. panta 3.² punkts, grozījums šā likuma 4. panta 5.¹³ punktā par uzdevumu Uzņēmumu reģistram reģistrēt un saglabāt reģistru savstarpējās savienojamības sistēmā saņemtos un nosūtītos ziņojumus, šā likuma 4.¹⁸ un 4.¹⁹ pants stājas spēkā 2023. gada 1. augustā.

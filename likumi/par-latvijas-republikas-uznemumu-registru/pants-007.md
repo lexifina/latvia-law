@@ -15,6 +15,6 @@ Reģistrējot uzņēmuma (uzņēmējsabiedrības) filiāli, jāievēro visi šā
 Personas, kuras paraksta reģistrācijas pieteikumu vai iesniedz dokumentus Uzņēmumu reģistram, likumos noteiktajā kārtībā atbild par iesniegto dokumentu un tajos ietverto ziņu pareizību. Persona, kura iesniedz dokumentus Uzņēmumu reģistram vai saņem dokumentus no Uzņēmumu reģistra, uzrāda pasi vai citu personu apliecinošu dokumentu.
 (Devītā daļa izslēgta ar 23.03.2017. likumu)
 (Desmitā daļa izslēgta ar 23.03.2017. likumu)
-Pieteikumā Uzņēmumu reģistram persona var norādīt adresi, kurā tā ir sasniedzama. Ja personai saskaņā ar Iedzīvotāju reģistra ziņām nav deklarētās dzīvesvietas vai norādītās adreses ārvalstī, persona pieteikumā Uzņēmumu reģistram norāda adresi, kurā tā ir sasniedzama.
+Pieteikumā Uzņēmumu reģistram persona var norādīt adresi, kurā tā ir sasniedzama. Ja personai saskaņā ar Fizisko personu reģistra ziņām nav deklarētās dzīvesvietas vai norādītās adreses ārvalstī, persona pieteikumā Uzņēmumu reģistram norāda adresi, kurā tā ir sasniedzama.
 Katram reģistrācijas numuram Uzņēmumu reģistra žurnālā atbilst lieta (dokumentu krājums) ar tādu pašu numuru.
 Kooperatīvās sabiedrības reģistrācijai un grozījumiem nav piemērojamas šā panta prasības par pienākumu iesniegt personas paraksta paraugu.

@@ -1,0 +1,1 @@
+48. Grozījumu šā likuma 4.¹⁵ panta pirmās daļas 3. punkta "a" apakšpunktā par akcionāru reģistra nodalījuma un akciju sabiedrības paziņojuma par akcionāra līdzdalības iegūšanu, palielināšanos vai samazināšanos iekļaušanu reģistrācijas lietas publiskajā daļā piemēro no 2023. gada 1. jūlija.
