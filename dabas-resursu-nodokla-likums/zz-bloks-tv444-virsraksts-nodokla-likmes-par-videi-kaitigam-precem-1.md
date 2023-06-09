@@ -8,7 +8,8 @@ Nr.p. k.Preces veidsMērvienībaLikme laikposmā no 2014.gada 1.janvāra līdz 2
 2.2.elektriskie akumulatori
 Ni-Cd un Fe-Nikg4,004,00
 2.3.galvaniskie elementi un galvaniskās baterijaskg1111
-2.4.citi elektriskie akumulatorikg17,0317,03
+2.4.elektriskie akumulatori fotoelementu paneļu saražotās strāvas uzkrāšanaikg-17,03
+2.5.citi elektriskie akumulatorikg17,0317,03
 3.Ozona slāni noārdošās vielas (freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)kg onp2,222,22
 4.Visu veidu riepaskg0,330,66
 5.Eļļas filtrigab.0,330,33
@@ -36,6 +37,8 @@ Nr. p. k.Preces veidsLikme
 1.1. kategorija. Temperatūras maiņas iekārtas2,50
 2.2. kategorija. Ekrāni, monitori un iekārtas ar ekrānu, kura virsmas laukums ir lielāks par 100 cm²3,50
 3.3. kategorija. Spuldzes8,58
-4.4. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm), tai skaitā mājsaimniecības preces, IT un telesakaru iekārtas, patērētāju iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, tirdzniecības automāti, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2. un 3.kategorijā ietilpstošās iekārtas)3,00
+4.4. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm):
+4.1. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm), tai skaitā mājsaimniecības preces, informācijas tehnoloģiju un telesakaru iekārtas, patērētāju iekārtas, gaismekļi, skaņu vai attēlu demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot 1., 2. un 3. kategorijā ietilpstošās iekārtas un fotoelementu paneļus)3,00
+4.2. kategorija. Fotoelementu paneļi un invertori3,00
 5.5. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm), tai skaitā mājsaimniecības preces, plaša patēriņa audiovizuālas iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2., 3. un 6.kategorijā ietilpstošās iekārtas)3,00
 6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)3,50
