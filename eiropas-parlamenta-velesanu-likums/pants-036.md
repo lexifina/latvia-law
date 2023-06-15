@@ -1,4 +1,4 @@
-36.pants. (1) Par balsu skaitīšanu vēlēšanu iecirkņa komisija raksta balsu skaitīšanas protokolu divos eksemplāros. Pilnvarotajiem novērotājiem pēc balsu skaitīšanas pabeigšanas arī ir tiesības iepazīties ar balsu skaitīšanas protokolu.
+36.pants. (1) Par balsu skaitīšanu vēlēšanu iecirkņa komisija sagatavo balsu skaitīšanas protokolu. Pilnvarotajiem novērotājiem pēc balsu skaitīšanas pabeigšanas arī ir tiesības iepazīties ar balsu skaitīšanas protokolu.
 1) (izslēgts ar 31.10.2013. likumu);
 2) (izslēgts ar 31.10.2013. likumu).
 (2) Pirms vēlēšanu kastes tiek atvērtas, vēlēšanu iecirkņa komisija konstatē saņemto, izlietoto un pāri palikušo vēlēšanu aplokšņu skaitu, balsotāju skaitu iecirknī un vēlētāju atrašanās vietās. Balsošanā neizmantotās apzīmogotās vēlēšanu aploksnes dzēš.

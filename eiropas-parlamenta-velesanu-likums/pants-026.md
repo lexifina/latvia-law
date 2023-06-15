@@ -1,1 +1,1 @@
-26.pants. Vēlēšanu dienā pēc pulksten 8 vakarā vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri ieradušies vēlēšanu telpās pirms pulksten 8 vakarā. Pēc tam vēlēšanu telpas slēdz.
+26. pants. Vēlēšanu dienā pēc pulksten 20.00 vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri ieradušies vēlēšanu telpās pirms pulksten 20.00. Pēc tam vēlēšanu telpas slēdz.
