@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 13. jūnija noteikumi Nr. 299 \"Grozījumi Ministru kabineta 2018. gada 17. jūlija noteikumos Nr. 429 \"Noteikumi par transportlīdzekļu sastāvdaļām un materiāliem, kuri drīkst saturēt svinu, dzīvsudrabu, kadmiju vai sešvērtīgā hroma savienojumus\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2023/115.3",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-15",
+  "entry_into_force": "2023-06-16",
+  "notification_date": "2023-06-16",
+  "commission_reference": "MNE(2023)03462",
+  "nim_celex": "72023L0544LVA_202303462",
+  "nim_id": "202303462",
+  "transposes_celex": [
+    "32023L0544"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01b71362-13f3-11ee-806b-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
