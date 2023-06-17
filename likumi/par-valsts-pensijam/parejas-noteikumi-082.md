@@ -1,0 +1,1 @@
+82. Grozījums šā likuma 11. panta sestajā daļā, 23. panta devītajā daļā, 32. panta 12. daļā par pensijas izmaksu personai, kura pastāvīgi dzīvo ārpus Latvijas, kā arī grozījums par 38. panta nosaukuma izteikšanu jaunā redakcijā, likuma 12. panta 2.³ daļa, 38. panta otrā, trešā, ceturtā daļa un pārejas noteikumu 83. punkts stājas spēkā 2023. gada 1. novembrī.
