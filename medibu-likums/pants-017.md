@@ -4,4 +4,4 @@
 (2) Ministru kabinets nosaka:
 1) medību iecirkņu izveidošanas un reģistrēšanas kārtību, kā arī kritērijus medību platību atzīšanai par vienlaidu medību platību;
 2) medību tiesību apriti, nosakot to nodošanas kārtību un minimālo termiņu, šo tiesību īstenošanas, kā arī atcelšanas kārtību;
-3) kārtību, kādā nosaka maksu par medību tiesību izmantošanu valstij piekrītošās vai piederošās medību platībās.
+3) kārtību, kādā nosaka maksu un maksas atvieglojumus par medību tiesību izmantošanu valstij piekrītošās vai piederošās medību platībās.
