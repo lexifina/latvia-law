@@ -1,6 +1,7 @@
 8.pants. Īpaši aizsargājamo sugu, biotopu un migrējošo putnu sugu aizsardzība
 (1) Īpaši aizsargājamo sugu un biotopu veidu sarakstos iekļauj apdraudētas, izzūdošas vai retas sugas un biotopu veidus vai sugas, kas apdzīvo specifiskus biotopus. Īpaši aizsargājamās sugas un biotopi atrodas īpašā valsts aizsardzībā, un informācija par tiem tiek iekļauta šā likuma 4.panta 19.punktā minētajā reģistrā.
 (2) Īpaši aizsargājamo sugu un biotopu labvēlīgas aizsardzības nodrošināšanai to dzīvotnēs var noteikt mikroliegumus atbilstoši mikroliegumu izveidošanas kārtībai.
+(2¹) Militāro poligonu teritorijā neveido jaunus mikroliegumus.
 (3) Institūcija, kas ir atbildīga par mikroliegumu noteikšanu saskaņā ar mikroliegumu aizsardzības un apsaimniekošanas noteikumiem, par mikroliegumu noteikšanu informē zemes īpašniekus vai lietotājus.
 (4) Šā likuma normas attiecināmas arī uz sastopamajām migrējošo putnu sugām, kuras nav ietvertas īpaši aizsargājamo sugu sarakstos.
 (5) Informācija par šā likuma 5.panta 16.punktā minētajā sarakstā iekļauto īpaši aizsargājamās dabas teritorijās esošo īpaši aizsargājamo sugu dzīvotnēm un īpaši aizsargājamo biotopu atrašanās vietām uzskatāma par ierobežotas pieejamības informāciju. Ierobežotas pieejamības informācijas statuss tiek noteikts uz laiku, kamēr īpaši aizsargājamā suga vai īpaši aizsargājamais biotops iekļauts minētajā sarakstā, un šī informācija ir pieejama saskaņā ar Informācijas atklātības likumu.
