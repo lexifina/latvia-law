@@ -20,3 +20,4 @@ c) ja izmaiņas paredzētas šā likuma 1.pielikumā minētajā objektā, kuram 
 2) plānošanas dokumentiem, kas saistīti tikai ar ārkārtas situācijām;
 3) plānošanas dokumentiem finanšu vai budžeta jomā.
 (7) Ministru kabinets, izdodot atsevišķu rīkojumu, var nepiemērot ietekmes novērtējumu paredzētajām darbībām, kas saistītas ar valsts aizsardzību, ja ietekmes novērtējuma procedūras piemērošana var nelabvēlīgi ietekmēt attiecīgo paredzēto darbību mērķu sasniegšanu.
+(8) Militāro poligonu infrastruktūras izbūvei nepiemēro ietekmes sākotnējo izvērtējumu un ietekmes uz vidi novērtējumu, izņemot Eiropas nozīmes aizsargājamās dabas teritorijas (Natura 2000).
