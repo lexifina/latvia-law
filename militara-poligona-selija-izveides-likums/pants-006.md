@@ -1,0 +1,2 @@
+6. pants. Valsts zemes valdītāja maiņa
+Ministru kabinets izdod rīkojumu par militārā poligona teritorijā esošās valsts zemes valdītāja maiņu, nosakot, ka par valdītāju kļūst Aizsardzības ministrija. Ministru kabinets izdod rīkojumu arī par tās valsts zemes nodošanu Aizsardzības ministrijas valdījumā, uz kuras atrodas citu personu lietojumā vai valdījumā esošas, bet zemesgrāmatā neierakstītas būves vai būves, kuru piederība nav noskaidrota, ņemot vērā Nekustamā īpašuma valsts kadastra informācijas sistēmas datus.

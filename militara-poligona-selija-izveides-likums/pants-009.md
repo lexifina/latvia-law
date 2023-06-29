@@ -1,0 +1,2 @@
+9. pants. Derīgo izrakteņu ieguvei izsniegto atļauju anulēšana
+Militārā poligona teritorijā akciju sabiedrībai "Latvijas valsts meži" izsniegtās bieži sastopamo derīgo izrakteņu ieguves atļaujas, licences un limitus anulē. Akciju sabiedrībai "Latvijas valsts meži" nav pienākuma militārā poligona teritorijā veikt derīgo izrakteņu ieguves vietas rekultivāciju atbilstoši derīgo izrakteņu ieguves projektam.

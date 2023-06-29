@@ -1,0 +1,3 @@
+3. pants. Nacionālo interešu objekta statuss
+(1) Militārajam poligonam "Sēlija" (turpmāk - militārais poligons) tiek noteikts nacionālo interešu objekta statuss.
+(2) Valsts un pašvaldību iestādes, kā arī citas institūcijas visus iesniegumus un jautājumus, kas saistīti ar militārā poligona infrastruktūras izbūvi un ar to saistīto darbu nodrošināšanu un veikšanu, tajā skaitā ar apliecinājumiem koku ciršanai, militārā poligona iekārtošanai nepieciešamā nekustamā īpašuma atsavināšanu, kā arī militārā poligona infrastruktūras būvju nodošanu ekspluatācijā, izskata un lēmumus pieņem prioritārā kārtībā pēc iespējas īsākā termiņā.

@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2023. gada 11. jūlijam izdod šā likuma 2. pantā minētos noteikumus par militārā poligona izveidi, nosaka tā robežas, tā teritorijā ietilpstošos nekustamos īpašumus un tos nekustamos īpašumus, uz kuriem tiek nodibināts servitūts.
