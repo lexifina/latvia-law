@@ -1,5 +1,5 @@
 37.pants. Valsts ieņēmumu dienesta amatpersonu nodokļu jautājumos pieņemto lēmumu apstrīdēšanas un pārsūdzēšanas kārtība
-(1) Nodokļu maksātājam, kurš saņēmis Valsts ieņēmumu dienesta amatpersonas kontroles (pārbaudes, revīzijas) rezultātā pieņemto lēmumu, lēmumu par pārmaksāto nodokļu summu atmaksāšanu, viena mēneša laikā no tā spēkā stāšanās dienas ir tiesības apstrīdēt Valsts ieņēmumu dienesta ģenerāldirektoram.
+(1) Nodokļu maksātājam, kurš saņēmis Valsts ieņēmumu dienesta amatpersonas nodokļu administrācijas pārbaudes rezultātā pieņemto lēmumu, lēmumu par pārmaksāto nodokļu summu atmaksāšanu, viena mēneša laikā no tā spēkā stāšanās dienas ir tiesības apstrīdēt Valsts ieņēmumu dienesta ģenerāldirektoram.
 (2) Nodokļu maksātājs, apstrīdot lēmumu, ir tiesīgs:
 1) prasīt atcelt lēmumu pilnīgi vai kādā tā daļā;
 2) ierosināt noslēgt vienošanās līgumu šajā likumā noteiktajā kārtībā.

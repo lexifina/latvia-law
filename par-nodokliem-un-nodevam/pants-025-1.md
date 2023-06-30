@@ -1,4 +1,5 @@
-25.¹ pants. Nodokļu pārmaksu dzēšana
-Pārmaksātās nodokļu summas, ja nodokļu maksātājs ir likvidēts un izslēgts no nodokļu maksātāju reģistra vai triju gadu laikā no konkrētā nodokļa likumā noteiktā maksāšanas termiņa nav pieprasījis pārmaksātās nodokļa summas atmaksu vai novirzīšanu kārtējo vai nokavēto nodokļu maksājumu segšanai, vai attiecībā uz to Valsts ieņēmumu dienests pieņēmis lēmumu atteikt pārmaksātās nodokļu summas atmaksāšanu un minētais lēmums stājies spēkā un kļuvis neapstrīdams, vai stājies spēkā attiecīgs tiesas nolēmums, dzēš:
-1) valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu pārmaksas - Valsts ieņēmumu dienests;
-2) pašvaldību budžetos ieskaitāmā nekustamā īpašuma nodokļa pārmaksas - attiecīgās pašvaldības.
+25.¹ pants. Nodokļu pārmaksu un nepareizi iemaksāto maksājumu dzēšana
+Valsts ieņēmumu dienests dzēš valsts budžetā pilnīgi vai daļēji ieskaitāmo nodokļu pārmaksas un vienotajā nodokļu kontā nepareizi iemaksāto maksājumu summas, savukārt pašvaldības dzēš pašvaldību budžeta ieņēmumu kontos, kuros ieskaitāmi nekustamā īpašuma nodokļa maksājumi, nekustamā īpašuma nodokļa pārmaksas vai nepareizi iemaksāto maksājumu summas šādos gadījumos:
+1) ja iestājies noilgums pārmaksāto nodokļu summu vai budžeta kontā, kurā ieskaitāmi nodokļu maksājumi, nepareizi iemaksāto maksājumu summu atmaksāšanai vai novirzīšanai kārtējo vai nokavēto nodokļu maksājumu segšanai;
+2) ja juridiskā persona beigusi pastāvēt un nav tās tiesību pārņēmēja vai ja fiziskā persona mirusi un triju gadu laikā no mantojuma atklāšanās dienas mantinieks nav pieprasījis pārmaksātās nodokļa summas atmaksu vai budžeta kontā, kurā ieskaitāmi nodokļu maksājumi, nepareizi iemaksātās summas atmaksu;
+3) ja Valsts ieņēmumu dienests pieņēmis lēmumu atteikt pārmaksātās nodokļu summas atmaksāšanu un minētais lēmums stājies spēkā un kļuvis neapstrīdams vai stājies spēkā attiecīgs tiesas nolēmums.
