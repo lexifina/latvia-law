@@ -21,7 +21,7 @@ d) četriem un vairāk bērniem - līdz 70 procentiem;
 (7) Apdrošinātās personas ģimenes locekļiem, kuriem izmaksā atlīdzību par apgādnieka zaudējumu saskaņā ar šā panta otrās daļas 1. punktu, minētās izmaksas tiek izbeigtas ar dienu, kad apdrošinātā persona būtu sasniegusi vecumu, no kura tai pienāktos vecuma pensija. Šajā gadījumā katrai no šīm personām tiek izmaksāts vienreizējs pabalsts tādas summas apmērā, kas tai pienākas viena gada laikā kā atlīdzība par apgādnieka zaudējumu (ja tiesības uz atlīdzību šajā laika posmā netiek zaudētas).
 (8) Tiesības uz atlīdzību par apgādnieka zaudējumu rodas ar apgādnieka nāves dienu. Šo atlīdzību aprēķina, sākot ar tiesību rašanās dienu, un izmaksā, kad dokumentāri apliecinātas tiesības uz to.
 (9) Ja atlīdzības par apgādnieka zaudējumu apmērs, kas aprēķināts, ņemot vērā apdrošinātās personas mēneša vidējo apdrošināšanas iemaksu algu, nesasniedz šā panta desmitajā daļā noteikto minimālo apmēru katram bērnam, starpība starp šo noteikto minimālo apmēru un katram bērnam aprēķināto atlīdzību par apgādnieka zaudējumu tiek segta no valsts pamatbudžeta, ievērojot šā likuma 13.panta ceturto daļu, un tās izmaksa nodrošināma no gadskārtējā valsts budžeta likumā paredzētās valsts pamatbudžeta dotācijas, kura tiek ieskaitīta darba negadījumu speciālajā budžetā.
-(10) Atlīdzības par apgādnieka zaudējumu minimālais apmērs katram bērnam mēnesī ir:
-1) no dzimšanas līdz septiņu gadu vecuma sasniegšanai - 136 euro;
-2) no septiņu gadu vecuma - 163 euro.
+(10) Atlīdzības par apgādnieka zaudējumu minimālo apmēru katram bērnam nosaka procentuālā apmērā, noapaļotu līdz veseliem euro, no Centrālās statistikas pārvaldes tīmekļvietnē publicētās minimālo ienākumu mediānas uz vienu ekvivalento patērētāju mēnesī (turpmāk - ienākumu mediāna), un tas ir:
+1) bērnam līdz septiņu gadu vecuma sasniegšanai - 25 procentu apmērā no ienākumu mediānas;
+2) bērnam no septiņu gadu vecuma - 30 procentu apmērā no ienākumu mediānas.
 (11) Atlīdzības par apgādnieka zaudējumu minimālo apmēru pārskata atbilstoši likumā "Par sociālo drošību" noteiktajai minimālo ienākumu sliekšņu pārskatīšanas kārtībai.
