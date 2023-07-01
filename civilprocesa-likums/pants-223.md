@@ -8,4 +8,5 @@ Tiesa izbeidz tiesvedību lietā, ja:
 6) puses likumā noteiktajā kārtībā vienojušās par strīda nodošanu izskatīšanai šķīrējtiesā;
 7) mirusi fiziskā persona, kura ir viena no pusēm lietā, un apstrīdētā tiesiskā attiecība nepieļauj tiesību pārņemšanu;
 8) beigusi pastāvēt juridiskā persona, kura ir viena no pusēm lietā, un nav tās tiesību pārņēmēja;
-9) izbeigts fiziskās personas maksātnespējas process un saskaņā ar Maksātnespējas likuma 164.pantu fiziskā persona atbrīvota no attiecīgajām saistībām.
+9) izbeigts fiziskās personas maksātnespējas process un saskaņā ar Maksātnespējas likuma 164.pantu fiziskā persona atbrīvota no attiecīgajām saistībām;
+10) parādnieka maksātnespējas procesa administrators iesniedzis lūgumu prasībā par šā parādnieka izslēgšanu no citas sabiedrības, kas celta saskaņā ar Komerclikuma 136.¹ un 195. pantu.
