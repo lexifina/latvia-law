@@ -1,0 +1,1 @@
+37. Ministru kabinets līdz 2023. gada 15. jūlijam izdod šā likuma 28. pantā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2012. gada 18. decembra noteikumi Nr. 947 "Noteikumi par meža aizsardzības pasākumiem un ārkārtējās situācijas izsludināšanu mežā", ciktāl tie nav pretrunā ar šo likumu.
