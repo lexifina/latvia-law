@@ -18,7 +18,7 @@
 2) kapitālsabiedrības veids;
 3) kapitālsabiedrības valdes locekļu, padomes locekļu (ja kapitālsabiedrībai ir izveidota padome) vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un ieņemamais amats;
 4) valdes locekļu tiesības pārstāvēt kapitālsabiedrību atsevišķi vai kopīgi;
-5) pamatkapitāla lielums, atsevišķi norādot parakstītā un apmaksātā pamatkapitāla lielumu;
+5) apmaksātā pamatkapitāla lielums;
 5¹) akciju sabiedrības nosacītā pamatkapitāla lielums;
 6) (izslēgts ar 14.02.2002. likumu);
 7) juridiskā adrese;
@@ -44,6 +44,7 @@
 6) ziņas par koncerna līguma noslēgšanu, grozīšanu vai izbeigšanu, norādot valdošo un atkarīgo firmu, reģistrācijas numuru un līguma noslēgšanas datumu;
 7) individuālā komersanta vai personālsabiedrību pārstāvēttiesīgā biedra aizbildņa vārds, uzvārds, personas kods (ja personai nav personas koda, - dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi);
 7¹) ziņas par aizgādnības nodibināšanu individuālajam komersantam vai personālsabiedrību pārstāvēttiesīgajam biedram, ja tiesa ierobežojusi attiecīgās personas rīcībspēju;
+7²) centrālā vērtspapīru depozitārija, kurā ir iegrāmatotas akciju sabiedrības dematerializētās akcijas, nosaukums, reģistrācijas numurs un juridiskā adrese;
 8) katra ieraksta izdarīšanas datums.
 (6) Komercreģistrā ieraksta citas ziņas, ja to tieši paredz likums.
 (7) Ierakstot komercreģistrā komersantu, tā filiāli Latvijā vai ārvalsts komersanta un dalībvalsts kapitālsabiedrības filiāli Latvijā, tam piešķir individuālu reģistrācijas numuru.

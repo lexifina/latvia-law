@@ -5,7 +5,7 @@
 3) padomes locekļu ievēlēšana un atsaukšana;
 4) valdes locekļu ievēlēšana un atsaukšana;
 5) gada pārskata un peļņas sadales apstiprināšana;
-6) revidenta, sabiedrības kontroliera un likvidatora ievēlēšana un atsaukšana;
+6) revidenta un likvidatora ievēlēšana un atsaukšana;
 7) lēmuma pieņemšana par prasības celšanu pret valdes locekli, padomes locekli, dibinātāju vai dalībnieku un par sabiedrības pārstāvja iecelšanu lietas vešanai tiesā;
 8) (izslēgts ar 14.02.2002. likumu);
 9) lēmuma pieņemšana par sabiedrības darbības izbeigšanu, turpināšanu, apturēšanu, atjaunošanu vai reorganizāciju, kā arī koncerna līguma noslēgšanu, grozīšanu vai izbeigšanu;

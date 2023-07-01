@@ -4,5 +4,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 3) Eiropas Parlamenta un Padomes 2017. gada 14. jūnija direktīvas (ES) 2017/1132 attiecībā uz sabiedrību tiesību dažiem aspektiem;
 4) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1151, ar ko groza direktīvu (ES) 2017/1132 attiecībā uz digitālo rīku un procesu izmantošanu sabiedrību tiesībās;
 5) Eiropas Parlamenta un Padomes 2019. gada 20. jūnija direktīvas (ES) 2019/1023 par preventīvās pārstrukturēšanas regulējumu, parādsaistību dzēšanu un diskvalifikāciju un ar pārstrukturēšanu, maksātnespēju un parādsaistību dzēšanu saistīto procedūru efektivitātes palielināšanas pasākumiem un ar ko groza direktīvu (ES) 2017/1132 (Direktīva par pārstrukturēšanu un maksātnespēju);
-6) (punkts stājas spēkā 01.07.2023. un iekļauts likuma redakcijā uz 01.07.2023. Sk. 16.06.2022. likumu);
+6) Eiropas Parlamenta un Padomes 2007. gada 11. jūlija direktīvas 2007/36/EK par biržu sarakstos iekļautu sabiedrību akcionāru konkrētu tiesību izmantošanu;
 7) Eiropas Parlamenta un Padomes 2019. gada 27. novembra direktīvas (ES) 2019/2121, ar ko groza direktīvu (ES) 2017/1132 attiecībā uz pārrobežu reorganizāciju, apvienošanos un sadalīšanu.

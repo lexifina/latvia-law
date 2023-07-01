@@ -1,5 +1,3 @@
-238.¹ pants. Akciju mantošana
-(1) Akcijas, kurām nav mantinieku, atbilstoši Civillikuma 416.pantā noteiktajam uzskatāmas par bezmantinieku mantu un piekrīt valstij. Valstij nav balsstiesību, un, nosakot pārstāvības normu, šīs akcijas netiek ņemtas vērā.
-(2) Iegūtās akcijas valsts piedāvā pārdošanai. Valsts vārdā šīs akcijas pārdod zvērināts tiesu izpildītājs. Kārtību, kādā zvērināts tiesu izpildītājs pārņem un atsavina akcijas, kuras valsts ieguvusi kā bezmantinieku mantu, nosaka Ministru kabinets.
-(3) Sabiedrības akcionāriem ir pirmpirkuma tiesības, ja statūtos tas ir paredzēts. Sabiedrības akcionāru pirmpirkuma tiesības izlietojamas šajā likumā noteiktajā kārtībā.
-(4) Ja likumā noteiktajā kārtībā akcijas nav pārdotas, tās pāriet sabiedrībai.
+238.¹ pants. Reģistrētas akcijas labticīga iegūšana
+(1) Reģistrētas akcijas ieguvējs uzskatāms par labticīgu, ja tas akciju ieguvis no akcijas atsavinātāja, kas ierakstīts kā sabiedrības akcionārs komercreģistra iestādē esošā sabiedrības reģistrācijas lietai pievienotā akcionāru reģistra nodalījumā.
+(2) Reģistrētas akcijas ieguvējs nav uzskatāms par labticīgu, ja viņam ir zināms, ka akcija nepieder atsavinātājam, atsavinātājs nav tiesīgs rīkoties ar šo akciju, atsavinātājam noteikts akcijas atsavināšanas aizliegums, vai arī ieguvējam šie fakti nav zināmi viņa rupjas neuzmanības dēļ.

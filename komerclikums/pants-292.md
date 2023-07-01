@@ -2,8 +2,8 @@
 (1) Padomes uzdevumi ir šādi:
 1) ievēlēt un atsaukt valdes locekļus, pastāvīgi uzraudzīt valdes darbību;
 2) uzraudzīt, lai sabiedrības lietas tiktu kārtotas saskaņā ar likumiem, statūtiem un akcionāru sapulces lēmumiem;
-2¹) (punkts stājas spēkā 01.07.2023. un iekļauts likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 81. punktu);
-2²) (punkts stājas spēkā 01.07.2023. un iekļauts likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 81. punktu);
+2¹) apstiprināt sabiedrības vispārīgos darbības principus un attīstības un finanšu mērķus, kā arī uzraudzīt to īstenošanu;
+2²) pārraudzīt iekšējās kontroles un risku pārvaldības sistēmu darbību;
 3) izskatīt sabiedrības gada pārskatu un valdes priekšlikumu par peļņas izlietošanu un sastādīt ziņojumu (174.pants);
 4) pārstāvēt sabiedrību tiesā visās sabiedrības celtajās prasībās pret valdes locekļiem, kā arī valdes locekļu celtajās prasībās pret sabiedrību un pārstāvēt sabiedrību citās tiesiskajās attiecībās ar valdes locekļiem;
 5) apstiprināt darījuma slēgšanu vai dot piekrišanu darījuma slēgšanai starp sabiedrību un valdes vai padomes locekli vai saistīto personu, vai revidentu;
