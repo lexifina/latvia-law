@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Grozījumi Imigrācijas likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "116",
+  "official_journal_page": null,
+  "official_journal_date": "2023-06-16",
+  "entry_into_force": "2023-07-01",
+  "notification_date": "2023-08-29",
+  "commission_reference": "MNE(2023)04762",
+  "nim_celex": "72021L1883LVA_202304762",
+  "nim_id": "202304762",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/436e644c-cc01-427d-be7e-0d43e4e6866c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
