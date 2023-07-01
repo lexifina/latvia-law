@@ -1,0 +1,1 @@
+32. Valsts ieņēmumu dienests līdz 2023. gada 1. augustam nodrošina, ka deklarācijās, kas publiskotas Valsts ieņēmumu dienesta publiskojamā datubāzē, nav pieejama šā likuma 26. panta ceturtās daļas 5. punktā minētā informācija.
