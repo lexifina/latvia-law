@@ -5,6 +5,7 @@
 3) kontrolējot, kā tiek ievēroti noteikumi par ārzemnieku ieceļošanu, uzturēšanos, nodarbinātību, izceļošanu un tranzītu, kā arī preču pārvietošanu pāri valsts robežai, ārpus robežšķērsošanas vietas pārbaudīt transportlīdzekli;
 4) pieprasīt un bez maksas saņemt no valsts un pašvaldību institūcijām un privātpersonām informāciju, dokumentus un citus materiālus, kas nepieciešami Robežsardzes uzdevumu izpildei;
 5) neļaut valsts robežu šķērsot personai, kurai kā drošības līdzeklis piemērots aizliegums izbraukt no valsts;
+5¹) neļaut personai ieceļot valstī tam neparedzētā vietā un laikā (ja nepieciešams, atbilstoši iespējām sniedzot personai primāro nodrošinājumu), ja nepastāv objektīvi pamatoti apstākļi, kuru dēļ tūlītēja ieceļošana ir nepieciešama;
 6) izņemt nederīgu ceļošanas dokumentu un citu dokumentu, kura nepieciešamība noteikta normatīvajos aktos, kas regulē personu ieceļošanas, uzturēšanās un izceļošanas kārtību un ceļu satiksmes jomu;
 7) apsargāt un apsardzes uzraudzībā pārvietot aizturēto, apcietināto vai ar brīvības atņemšanu notiesāto personu.
 (2) Vajājot pārkāpēju, robežsargam ir tiesības:

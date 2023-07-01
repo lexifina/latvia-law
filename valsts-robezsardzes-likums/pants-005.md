@@ -6,7 +6,7 @@
 4) sadarbībā ar Nacionālajiem bruņotajiem spēkiem pierobežā novērš Latvijas Republikas teritorijas apdraudējumu;
 5) novēro valsts robežai piegulošās sauszemes teritorijas, ūdeņus un gaisa telpu;
 6) kontrolē, kā tiek ievēroti noteikumi par ārzemnieku ieceļošanu, uzturēšanos, nodarbinātību, izceļošanu un tranzītu;
-7) novērš preču pārvietošanu pāri valsts robežai ārpus robežšķērsošanas vietām;
+7) novērš personu nelikumīgu valsts robežas šķērsošanu, kā arī preču pārvietošanu pāri valsts robežai ārpus robežšķērsošanas vietām;
 8) plāno tās funkciju īstenošanai nepieciešamo infrastruktūru;
 9) nodrošina valsts robežas uzturēšanu, kā arī valsts robežas joslas, patrulēšanas joslas un robežzīmju uzraudzības joslas iekārtošanu un uzturēšanu;
 10) nodrošina, ka tiek izpildītas Latvijas Republikai saistošos starptautiskajos līgumos noteiktās saistības valsts robežas režīma jautājumos;
