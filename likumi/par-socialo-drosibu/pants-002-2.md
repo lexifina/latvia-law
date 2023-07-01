@@ -1,4 +1,4 @@
 2.² pants. Minimālo ienākumu sliekšņi
 (1) Minimālo ienākumu sliekšņi ir atsevišķai personai vai vienas personas mājsaimniecībā dzīvojošai personai sniegtā atbalsta apmērs sociālās aizsardzības jomā (noapaļots līdz pilniem euro). Minimālo ienākumu sliekšņu apmērus noteic attiecīgus sociālos pakalpojumus reglamentējošos normatīvajos aktos, nosakot šo sliekšņu piemērošanas kritērijus, pakalpojumu piešķiršanas un izmaksas kārtību.
-(2) (Atzīta par spēkā neesošu ar Satversmes tiesas 05.10.2023. spriedumu)
-(3) (Atzīta par spēkā neesošu ar Satversmes tiesas 05.10.2023. spriedumu)
+(2) Minimālo ienākumu slieksnis nav zemāks par 20 procentiem (noapaļots līdz pilniem euro) no Centrālās statistikas pārvaldes tīmekļvietnē publicētās minimālo ienākumu mediānas uz vienu ekvivalento patērētāju mēnesī (turpmāk - ienākumu mediāna). Līdz kārtējā gada 1. februārim Centrālās statistikas pārvalde tīmekļvietnē publicē aktuālo ienākumu mediānu, un tā tiek ņemta par pamatu, nosakot minimālo ienākumu sliekšņa apmēru nākamajam gadam.
+(3) Minimālo ienākumu sliekšņus pārskata vienlaikus katru gadu 1. janvārī, ņemot vērā aktuālo ienākumu mediānu. Ja pārskata gadā aktuālā ienākumu mediāna nemainās vai samazinās, minimālo ienākumu sliekšņi paliek iepriekš noteiktajā apmērā.
