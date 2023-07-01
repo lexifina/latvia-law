@@ -12,5 +12,5 @@
 10) neatbilst šā likuma 2. vai 3.pantā minētajiem nosacījumiem vai tai jau iepriekš ir bijis piešķirts repatrianta statuss;
 11) nav iesniegusi visus nepieciešamos dokumentus;
 12) sniegusi nepatiesas ziņas repatrianta statusa pieprasīšanai;
-13) vai ja pastāv kāds no Imigrācijas likuma 34.panta pirmās daļas nosacījumiem, saskaņā ar kuru ārzemniekam atsaka pastāvīgās uzturēšanās atļaujas izsniegšanu, vai Imigrācijas likuma 2.¹ panta otrās daļas noteikumiem, uz kuru pamata atsaka pastāvīgās uzturēšanās apliecības izsniegšanu.
+13) vai ja pastāv kāds no Imigrācijas likuma 34. panta pirmās daļas nosacījumiem, saskaņā ar kuru ārzemniekam atsaka uzturēšanās atļaujas izsniegšanu, vai Imigrācijas likuma 2.¹ panta otrās daļas noteikumiem, uz kuru pamata atsaka reģistrācijas apliecības izsniegšanu.
 (2) (Izslēgta ar 16.06.2016. likumu)

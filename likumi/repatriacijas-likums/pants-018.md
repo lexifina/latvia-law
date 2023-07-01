@@ -1,2 +1,2 @@
-18.pants. Robežas šķērsošana
-Pamatojoties uz Pārvaldes pieņemto lēmumu par repatrianta statusa un pastāvīgās uzturēšanās atļaujas piešķiršanu, Latvijas Republikas diplomātiskās vai konsulārās pārstāvniecības ārvalstīs repatriantam un viņa ģimenes locekļiem izsniedz vīzu. Minētās personas ir atbrīvotas no valsts nodevas par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem.
+18. pants. Robežas šķērsošana
+Pamatojoties uz Pārvaldes pieņemto lēmumu par repatrianta statusa un reģistrācijas apliecības, pastāvīgās uzturēšanās apliecības vai uzturēšanās atļaujas piešķiršanu, Latvijas Republikas diplomātiskās vai konsulārās pārstāvniecības ārvalstīs repatriantam un viņa ģimenes locekļiem izsniedz vīzu. Minētās personas ir atbrīvotas no valsts nodevas par vīzas pieprasīšanai nepieciešamo dokumentu izskatīšanu un ar to saistītajiem pakalpojumiem.

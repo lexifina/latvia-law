@@ -1,0 +1,1 @@
+11. Iesniegumus par repatrianta statusa un repatrianta ģimenes locekļa statusa piešķiršanu, kas Pārvaldē vai Latvijas Republikas diplomātiskajā vai konsulārajā pārstāvniecībā ārvalstī iesniegti laikposmā no 2023. gada 1. jūlija līdz 2023. gada 31. decembrim, izskata saskaņā ar šā likuma noteikumiem, kādi bija spēkā 2023. gada 1. jūlijā.
