@@ -26,7 +26,7 @@
 18) galalietotājs - enerģijas lietotājs, kurš pērk enerģiju izlietošanai paša vajadzībām (galapatēriņam);
 19) gazificētā objekta īpašnieks - persona, kura ir ieguvusi gazificētā objekta īpašuma tiesības un atbilst Civillikumā vai Nekustamā īpašuma valsts kadastra likumā definētajam īpašnieka jēdzienam;
 20) gazificēts objekts - dabasgāzes apgādes sistēmai pieslēgta būve vai tās daļa, kā arī iekārta;
-20¹) (punkts stājas spēkā 01.07.2023. un iekļauts likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 73. punktu);
+20¹) gāzes izcelsmes apliecinājums - elektronisks dokuments, kuru izmanto vienīgi kā pierādījumu, ka attiecīgais gāzes daudzums ir saražots no atjaunojamiem energoresursiem;
 21) horizontālā integrācija - viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, tirdzniecības vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 22) Inčukalna pazemes gāzes krātuve - pazemes un virszemes objekts, kuru izmanto dabasgāzes uzglabāšanai un kurš atrodas Krimuldas, Inčukalna un Sējas novadā;
 22¹) individuālā aukstumapgādes sistēma - atsevišķas ēkas aukstumapgādes sistēma, kas sastāv no dzesēšanas iekārtas, kura dzesē visu ēku, vai dzesēšanas iekārtām, kuras izmanto atsevišķu telpu dzesēšanai ēkā;
