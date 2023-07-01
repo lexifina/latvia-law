@@ -10,3 +10,4 @@
 2) 70 procentus - ja stāžs ir no 40 līdz 44 gadiem;
 3) 80 procentus - ja stāžs ir 45 gadi un vairāk.
 (5) Ja vecuma pensijas apmēra pārskatīšanai iespējams piemērot vairākus šā panta ceturtajā daļā minētos nosacījumus, pensijas pārskatīšanai piemēro lielākos iemaksu algas pieauguma procentus.
+(6) Pārskatot pensiju vai pensijas daļu, ko izmaksā no valsts pamatbudžeta līdzekļiem līdz vecuma pensijas, invaliditātes pensijas un apgādnieka zaudējuma pensijas minimālajam apmēram, pārskatīto pensiju vai pensijas daļu finansē no valsts pamatbudžeta līdzekļiem, ievērojot šajā pantā minētos nosacījumus.

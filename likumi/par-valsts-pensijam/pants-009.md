@@ -10,7 +10,7 @@ b) pašnodarbinātais, kurš veicis apdrošināšanas iemaksas;
 5) persona, nebūdama darbā slimības dēļ, saņem slimības, maternitātes vai paternitātes pabalstu un par šo personu no invaliditātes, maternitātes un slimības speciālā budžeta izdarītas apdrošināšanas iemaksas;
 6) persona ir brīvprātīgi pievienojusies sociālajai apdrošināšanai un veikusi apdrošināšanas iemaksas attiecīgajam sociālās apdrošināšanas veidam;
 7) apdrošinātā persona saņem vecāku pabalstu saskaņā ar likumu "Par maternitātes un slimības apdrošināšanu" un par šo personu no invaliditātes, maternitātes un slimības speciālā budžeta izdarītas apdrošināšanas iemaksas;
-8) persona saskaņā ar Republikas pilsētas domes un novada domes deputāta statusa likuma 15.¹ pantu saņem pabalstu un par šo personu no pašvaldības budžeta līdzekļiem ir izdarītas apdrošināšanas iemaksas valsts pensiju apdrošināšanai;
+8) persona saskaņā ar Pašvaldības domes deputāta statusa likuma 15.¹ pantu saņem pabalstu un par šo personu no pašvaldības budžeta līdzekļiem ir izdarītas apdrošināšanas iemaksas valsts pensiju apdrošināšanai;
 9) persona ir bijusi apdrošināta Eiropas Savienības pensiju shēmā, ja pensijas kapitāls ir saņemts un ieskaitīts Latvijas valsts pensiju sistēmā.
 (3) Ja apdrošināšanas iemaksas izdarītas no valsts pamatbudžeta, apdrošināšanas stāžu veido arī šādi apdrošināšanas iemaksu periodi:
 1) (izslēgts ar 19.06.2008. likumu);
