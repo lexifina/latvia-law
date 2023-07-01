@@ -1,0 +1,1 @@
+26. Nodokļa maksātājs, kas līdz 2023. gada 30. jūnijam uzņēmumu vieglo transportlīdzekļu nodokli ir samaksājis par visu taksācijas periodu vai daļēji, uzņēmumu vieglo transportlīdzekļu nodokļa starpību, kas veidojas pēc 2023. gada 1. jūlija, samaksā pirms kārtējās tehniskās apskates.

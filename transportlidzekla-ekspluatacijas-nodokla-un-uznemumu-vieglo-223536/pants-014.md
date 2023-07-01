@@ -23,7 +23,7 @@ b) ja šā nodokļa maksātāja īpašumā vai turējumā ir reģistrēti vairā
 (2²) Transportlīdzekli, par kuru vairs nepienākas atbrīvojums no uzņēmumu vieglo transportlīdzekļu nodokļa maksāšanas, nodokļa maksātājs deklarē reģistrā piecu dienu laikā pēc atbrīvojuma zaudēšanas. Šajā gadījumā uzņēmumu vieglo transportlīdzekļu nodokli maksā, sākot ar to attiecīgā taksācijas perioda mēnesi, kurā atbrīvojums zaudēts.
 (2³) Nodokļa maksātājam ir tiesības vienu reizi taksācijas periodā mainīt uzņēmumu vieglo transportlīdzekļu nodokļa piemērošanas kārtību - deklarējot atbrīvojumu vai to, ka vairs nepiemēros atbrīvojumu no nodokļa maksāšanas.
 (3) Šā panta pirmās daļas 5.punktā minēto transportlīdzekļa izmantošanu tikai un vienīgi savas saimnieciskās darbības vajadzībām nodokļa maksātājs pierāda, kārtojot ar saimnieciskās darbības veikšanu saistīto braucienu uzskaiti, kurā norāda:
-1) transportlīdzekļa reģistrācijas numuru, marku, modeli un dzinēja darba tilpumu;
+1) transportlīdzekļa reģistrācijas numuru, marku, modeli un motora maksimālo jaudu;
 2) brauciena maršrutu, datumu, kā arī sākuma un beigu laiku;
 3) odometra rādījumu mēneša pirmajā un pēdējā dienā. Pieļaujamā datu nesakritība starp odometra rādījumu un maršruta kontroles sistēmas fiksētajiem nobrauktajiem kilometriem mēneša laikā ir līdz pieciem procentiem.
 (4) Nodokļa maksātājs šā panta trešās daļas 2.punktā minēto uzskaiti kārto, izmantojot šā panta piektajā daļā minēto maršruta kontroles sistēmu, kura nodrošina ar katru braucienu saistīto datu fiksēšanu un saglabāšanu. Nodokļa maksātāja pienākums ir saglabāt maršruta kontroles sistēmas ierakstu datus (elektroniskā vai izdrukas formā) likumā "Par grāmatvedību" noteiktajos termiņos un pēc pieprasījuma uzrādīt tos Valsts ieņēmumu dienestam.
