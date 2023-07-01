@@ -1,5 +1,5 @@
 211.pants. Dalībnieka balsstiesības
-(1) Dalībniekam balsstiesības dod tikai pilnībā apmaksāta daļa. Katra daļa dalībniekam dod tikai vienu balsi, ja statūtos nav noteikts citādi.
+(1) Katra daļa dalībniekam dod tikai vienu balsi, ja statūtos nav noteikts citādi.
 (2) Dalībniekam nav tiesību piedalīties balsošanā, ja tiek pieņemts lēmums:
 1) par viņa atbrīvošanu no saistībām vai atbildības;
 2) par prasības celšanu pret viņu;

@@ -7,9 +7,9 @@
 5) jaunās emisijas akciju nominālvērtību, pārdošanas cenu un minimālo iemaksu, kas jāizdara, parakstoties uz akcijām;
 6) jaunās emisijas akciju apmaksas veidu (naudā vai ar mantisko ieguldījumu);
 7) to jaunās emisijas akciju kategorijas, skaitu un nominālvērtību summu, kuras apmaksā ar mantisko ieguldījumu, norādot katru mantiskā ieguldījuma priekšmetu un tā vērtību;
-8) jaunās emisijas akciju parakstīšanas un apmaksas termiņus ar tādu aprēķinu, lai katra akcija būtu pilnīgi apmaksāta ne vēlāk kā gada laikā no dienas, kad pieņemts lēmums par pamatkapitāla palielināšanu;
+8) jaunās emisijas akciju parakstīšanas un apmaksas termiņus ar tādu aprēķinu, lai katra akcija būtu pilnīgi apmaksāta ne vēlāk kā sešu mēnešu laikā no dienas, kad pieņemts lēmums par pamatkapitāla palielināšanu;
 9) termiņu, kādā līdzšinējie akcionāri var izmantot pirmtiesības uz jaunās emisijas akcijām, ja viņiem ir šādas tiesības;
 10) vietu un laiku, kur un kad notiks parakstīšanās uz akcijām.
 (2) Pieņemot lēmumu par pamatkapitāla palielināšanu šā likuma 261.¹ pantā minētajā gadījumā, pamatkapitāla palielināšanas noteikumos nenorāda šā panta pirmās daļas 8. un 9. punktā noteiktās ziņas.
 (3) Palielinot pamatkapitālu šā likuma 249.panta ceturtajā daļā minētajā gadījumā, jaunās emisijas akcijas apmaksājamas tikai naudā.
-(4) Palielinot pamatkapitālu šā likuma 249.panta ceturtajā daļā minētajā gadījumā, jaunās emisijas akciju apmaksas termiņš nosakāms ne ilgāks par trim mēnešiem no dienas, kad pieņemts lēmums par pamatkapitāla palielināšanu.
+(4) (Izslēgta ar 16.06.2022. likumu)

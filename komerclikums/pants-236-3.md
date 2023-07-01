@@ -1,0 +1,7 @@
+236.³ pants. Akcionāra paziņošanas pienākums
+(1) Akcionārs, kuram pieder dematerializētās akcijas un kurš ieguvis vairāk nekā piecus procentus no sabiedrības akciju skaita, rakstveidā paziņo sabiedrībai par savu akciju kopējo skaitu un ar šo skaitu saistītajām balsstiesībām divu nedēļu laikā no to akciju iegūšanas dienas, kuras pārsniedz piecus procentus no sabiedrības akciju skaita.
+(2) Atbilstoši šā panta pirmās daļas noteikumiem akcionāram ir pienākums paziņot par katru turpmāko sabiedrības akciju iegūšanu, kas palielina viņa līdzdalību sabiedrībā virs katriem nākamajiem pieciem procentiem no sabiedrības akciju skaita.
+(3) Šā panta pirmās daļas noteikumi attiecīgi piemērojami akcionāra pienākumam paziņot par līdzdalības samazināšanos ikreiz, kad tā samazinās par katriem nākamajiem pieciem procentiem vai arī kļūst mazāka par pieciem procentiem no sabiedrības akciju skaita.
+(4) Līdz šā panta pirmajā un otrajā daļā minētā paziņojuma iesniegšanas brīdim akcionārs nevar izmantot balsstiesības, kas izriet no akcijām, par kuru iegūšanu akcionāram ir pienākums paziņot sabiedrībai. Nosakot pārstāvības normu, minētās akcionāra balsis netiek ņemtas vērā.
+(5) Sabiedrība divu nedēļu laikā pēc šā panta pirmajā, otrajā un trešajā daļā minētā paziņojuma saņemšanas iesniedz to komercreģistra iestādei.
+(6) Šā panta noteikumi nav piemērojami sabiedrībām, kuru akcijas ir iekļautas regulētajā tirgū.

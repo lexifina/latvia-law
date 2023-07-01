@@ -13,7 +13,7 @@ a) sabiedrības ar ierobežotu atbildību dalībnieku sapulces vai akciju sabied
 b) akciju sabiedrības akcionāru sapulces protokola vai tā atvasinājuma, ja pieņemts lēmums par akciju sabiedrības padomes locekļa ievēlēšanu vai atsaukšanu,
 c) kapitālsabiedrības dalībnieku (akcionāru) sapulces protokola vai tā atvasinājuma un kapitālsabiedrības pilna statūtu teksta jaunajā redakcijā, ja pieņemts lēmums par kapitālsabiedrības statūtu grozījumiem,
 d) kapitālsabiedrības dalībnieku (akcionāru) sapulces protokola vai tā atvasinājuma, ja pieņemts lēmums par kapitālsabiedrības likvidatora ievēlēšanu vai atsaukšanu,
-e) sabiedrības ar ierobežotu atbildību dalībnieku reģistra nodalījuma,
+e) kapitālsabiedrības dalībnieku (akcionāru) reģistra nodalījuma,
 f) personas piekrišanas ieņemt kapitālsabiedrības valdes locekļa amatu, izņemot gadījumu, kad valdes locekļa piekrišana ietverta pieteikumā komercreģistra iestādei un viņa paraksts uz pieteikuma apliecināts notariāli,
 g) personas piekrišanas ieņemt komercsabiedrības likvidatora amatu,
 h) visiem akciju sabiedrības padomes sēdes protokoliem vai to atvasinājumiem, ja tas paredzēts akciju sabiedrības statūtos,

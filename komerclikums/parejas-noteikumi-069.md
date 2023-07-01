@@ -1,0 +1,1 @@
+69. Līdz 2023. gada 30. jūnijam komercreģistrā reģistrēta akciju sabiedrība, kura nav iesniegusi šo pārejas noteikumu 66. punktā minētās ziņas vai dokumentus, sākot ar 2024. gada 1. janvāri, vienlaikus ar citām izmaiņām, kas skar statūtu grozījumus vai izmaiņas pamatkapitālā, iesniedz šo pārejas noteikumu 66. punktā minētās ziņas vai dokumentus.

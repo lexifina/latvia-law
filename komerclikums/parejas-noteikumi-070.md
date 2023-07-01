@@ -1,0 +1,1 @@
+70. Ja akciju sabiedrība līdz 2024. gada 1. jūlijam nav iesniegusi šo pārejas noteikumu 66. punktā minētās ziņas un dokumentus, komercreģistra iestāde pieņem lēmumu par sabiedrības darbības izbeigšanu atbilstoši šā likuma 314.¹ pantā noteiktajai kārtībai.

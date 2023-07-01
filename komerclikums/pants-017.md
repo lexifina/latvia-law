@@ -8,4 +8,4 @@
 1) filiāles firmu, ja tā atšķiras no komersanta firmas;
 2) filiāles reģistrācijas numuru komercreģistrā;
 3) filiāles juridisko adresi.
-(3) Ja kapitālsabiedrības rekvizītos norādīts pamatkapitāla lielums, jāmin arī apmaksātā pamatkapitāla lielums.
+(3) (Izslēgta ar 16.06.2022. likumu)

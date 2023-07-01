@@ -13,7 +13,7 @@
 9) citus noteikumus, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar likumu.
 (2) Akciju sabiedrības statūtos papildus šā panta pirmajā daļā minētajām ziņām norāda:
 1) (izslēgts ar 17.12.2020. likumu);
-2) vai akcijas ir vārda vai uzrādītāja akcijas un, ja statūti paredz vārda akciju konversiju par uzrādītāja akcijām un otrādi, - konversijas noteikumus;
-3) vai akcijas ir papīra formā vai dematerializētas un, ja statūti paredz papīra formas akciju konversiju par dematerializētām akcijām un otrādi, - konversijas noteikumus;
+2) vai akcijas ir reģistrētas vai dematerializētas akcijas;
+3) (izslēgts ar 16.06.2022. likumu);
 4) sabiedrības galvenos komercdarbības veidus.
 (3) Dibinot sabiedrību, statūtus paraksta visi dibinātāji, norādot parakstīšanas datumu.

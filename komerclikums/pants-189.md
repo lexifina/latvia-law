@@ -1,6 +1,6 @@
 189.pants. Dalībnieku pirmpirkuma tiesības
 (1) Gadījumā, kad dalībnieka daļas tiek pārdotas, pārējiem dalībniekiem ir pirmpirkuma tiesības, ja statūtos nav noteikts citādi.
-(2) Par daļas pārdošanu daļas pārdevējs vai daļas ieguvējs paziņo katram dalībniekam un valdei, paziņojumam pievienojot noslēgto pirkuma līgumu vai tā attiecīgi apliecinātu kopiju. Ja paziņojumu nosūta daļas ieguvējs, tas nosūtāms vienlaikus arī daļas pārdevējam. Paziņojumu dalībniekam nosūta uz dalībnieku reģistrā norādīto adresi.
+(2) Par daļas pārdošanu daļas pārdevējs vai daļas ieguvējs paziņo katram dalībniekam un valdei, paziņojumam pievienojot noslēgto pirkuma līgumu vai tā attiecīgi apliecinātu kopiju. Ja paziņojumu nosūta daļas ieguvējs, tas nosūtāms vienlaikus arī daļas pārdevējam. Paziņojumu dalībniekam nosūta uz dalībnieku reģistrā norādīto saziņas adresi.
 (3) Pirmpirkuma tiesību izlietošanas termiņš ir viens mēnesis no dienas, kad paziņojums par daļas pārdošanu nosūtīts visiem dalībniekiem, ja statūtos nav noteikts īsāks termiņš. Dalībnieks var rakstveidā atteikties no pirmpirkuma tiesību izlietošanas pirms noteiktā termiņa beigām.
 (4) Par pirmpirkuma tiesību izlietošanu vai atteikšanos tās izlietot dalībnieks paziņo personai, kura nosūtījusi paziņojumu par daļas pārdošanu, un valdei.
 (5) Šā panta trešajā daļā noteiktā termiņa laikā daļas pārdevējam aizliegts rīkoties ar daļu, grozīt pirkuma līguma noteikumus vai veikt citas darbības, kas pasliktinātu pirmpirkumtiesīgā dalībnieka stāvokli gadījumā, ja viņš izlietotu pirmpirkuma tiesības.

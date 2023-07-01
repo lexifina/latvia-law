@@ -11,7 +11,7 @@
 (4) Persona, kura pilnvarota pārstāvēt ārvalsts komersantu darbībās, kas saistītas ar filiāli, ārvalsts komersants vai tā likumiskie pārstāvji iesniedz komercreģistra iestādei pieteikumu par:
 1) komersanta darbības izbeigšanu, tiesiskās aizsardzības vai maksātnespējas procesa, konkursa vai tam pielīdzināma procesa uzsākšanu un pabeigšanu;
 2) komersanta likvidāciju, kā arī reorganizāciju, ja ārvalsts komersants ir sabiedrība;
-3) administratora vai likvidatora iecelšanu, norādot administratora (likvidatora) vārdu, uzvārdu, dzīvesvietu un pilnvarojuma apjomu;
+3) administratora vai likvidatora iecelšanu, norādot administratora (likvidatora) vārdu, uzvārdu, adresi, kurā tas sasniedzams, un pilnvarojuma apjomu;
 4) filiāles izslēgšanu no komercreģistra.
 (4¹) (Izslēgta ar 06.07.2021. likumu)
 (5) Šā panta ceturtajā daļā minētās personas iesniedz komercreģistra iestādei pieteikumu par jebkurām izmaiņām šo personu sastāvā un to pilnvarojuma apjomā.
