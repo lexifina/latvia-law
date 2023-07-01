@@ -76,7 +76,7 @@ d) personai ir kontrole pār komercsabiedrību, un šī persona to faktiski izma
 61) privāts klients - klients, kas nav profesionāls klients;
 62) finanšu analītiķis - ieguldījumu brokeru sabiedrības vai kredītiestādes darbinieks, kas izstrādā ieguldījumu pētījuma saturu;
 63) korporatīvā pārvaldība - pasākumu kopums komercsabiedrības darbības mērķu sasniegšanai un komercsabiedrības darbības kontrolei, kā arī ar komercsabiedrības darbību saistīto risku novērtēšanai un pārvaldīšanai;
-64) ieraksta datums - tās darbdienas datums, pēc kuras līdz akcionāru sapulcei atliek vēl piecas darbdienas un kuras beigās tiek fiksēti attiecīgās akciju sabiedrības akcionāri un tiem piederošais akciju skaits akcionāra dalībai attiecīgajā akcionāru sapulcē, vai emitenta vai piedāvātāja noteikts datums, kurā tiek noteiktas tiesības uz labumiem, kas tiks gūti finanšu instrumentu notikumu rezultātā;
+64) ieraksta datums - emitenta vai piedāvātāja noteikts datums, kurā nosaka tiesības uz labumiem, kas tiks gūti finanšu instrumentu notikumu rezultātā;
 65) brīvais kapitāls - personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;
 66) (izslēgts ar 12.12.2019. likumu);
 67) (izslēgts ar 12.12.2019. likumu);

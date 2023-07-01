@@ -23,7 +23,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 22) Padomes 1986.gada 8.decembra direktīvas 86/635/EEK par banku un citu finanšu iestāžu gada pārskatiem un konsolidētajiem pārskatiem;
 23) (izslēgts ar 21.06.2018. likumu);
 24) Eiropas Parlamenta un Padomes 2007.gada 5.septembra direktīvas 2007/44/EK, ar ko groza Padomes direktīvu 92/49/EEK un direktīvas 2002/83/EK, 2004/39/EK, 2005/68/EK un 2006/48/EK attiecībā uz procedūras noteikumiem un vērtēšanas kritērijiem, kas piemērojami, veicot piesardzīgu novērtējumu par līdzdalības iegūšanu un palielināšanu finanšu nozarē;
-25) Eiropas Parlamenta un Padomes 2007.gada 11.jūlija direktīvas 2007/36/EK par biržu sarakstos iekļautu sabiedrību akcionāru konkrētu tiesību izmantošanu;
+25) (Izslēgts ar 16.06.2022. likumu);
 26) Eiropas Parlamenta un Padomes 2009.gada 16.septembra direktīvas 2009/111/EK, ar ko groza direktīvu 2006/48/EK, direktīvu 2006/49/EK un direktīvu 2007/64/EK attiecībā uz bankām, kuras saistītas ar galvenajām iestādēm, dažiem pašu kapitāla posteņiem, lielajiem riska darījumiem, uzraudzības pasākumiem un krīzes pārvaldību;
 27) (izslēgts ar 21.06.2018. likumu);
 28) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/73/ES, ar ko groza direktīvu 2003/71/EK par prospektu, kurš jāpublicē, publiski piedāvājot vērtspapīrus vai atļaujot to tirdzniecību, un direktīvu 2004/109/EK par atklātības prasību saskaņošanu attiecībā uz informāciju par emitentiem, kuru vērtspapīrus atļauts tirgot regulētajā tirgū;
