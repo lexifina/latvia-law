@@ -8,7 +8,7 @@
 6) parasto komercpilnvarnieku;
 7) personu, kura pilnvarota pārstāvēt ārvalsts komersantu darbībās, kas saistītas ar filiāli;
 8) komercsabiedrības likvidatoru;
-9) sabiedrības kontrolieri;
+9) (izslēgts no 01.07.2023. ar 11.05.2023. likumu. Sk. pārejas noteikumu 82. punktu);
 10) revidentu.
 (1¹) Ja tiesa, pamatojoties uz civilprocesa ietvaros pieņemtu nolēmumu, ierobežojusi pilngadīgas fiziskās personas rīcībspēju (garīga rakstura vai citu veselības traucējumu dēļ vai personas izlaidīgas vai izšķērdīgas dzīves dēļ), attiecīgā fiziskā persona nav tiesīga ieņemt šā panta pirmās daļas 3.-10.punktā minētos amatus.
 (2) Ja fiziskajai personai atņemtas tiesības ieņemt noteiktus amatus vai ja tiesa ierobežojusi tās rīcībspēju, šīs personas pienākums ir nekavējoties pēc attiecīgā nolēmuma spēkā stāšanās par to informēt komersantu, bet, ja komersants ir komercsabiedrība, - arī attiecīgās komercsabiedrības biedrus, dalībniekus vai akcionārus. Ja fiziskajai personai ierobežota rīcībspēja un nodibināta aizgādnība, informēšanas pienākums ir tās aizgādnim, kurš informāciju sniedz nekavējoties, tiklīdz viņš uzzinājis vai viņam vajadzēja uzzināt, ka attiecīgā persona ieņem noteiktu amatu.
