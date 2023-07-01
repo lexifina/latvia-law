@@ -1,4 +1,4 @@
-13.pants. Valsts pienākumi sociālo pakalpojumu sniegšanā
+13. pants. Valsts pienākumi sociālo pakalpojumu un sociālās palīdzības sniegšanā
 (1) Valsts nodrošina atbilstoši gadskārtējā valsts budžeta likumā piešķirtajiem līdzekļiem:
 1) personu ar funkcionāliem traucējumiem, personu ar invaliditāti vai personu ar prognozējamu invaliditāti profesionālās piemērotības noteikšanu un profesionālo rehabilitāciju;
 2) personu ar redzes un dzirdes invaliditāti sociālo rehabilitāciju;
@@ -26,6 +26,15 @@
 (5) Valsts piedalās personām ar garīga rakstura traucējumiem paredzēto grupu māju (dzīvokļu) un pusceļa māju izveidošanas un aprīkošanas finansēšanā to izveidošanas gadā 50 procentu apmērā atbilstoši gadskārtējā valsts budžeta likumā piešķirtajām apropriācijām. Kritērijus grupu māju (dzīvokļu) un pusceļa māju izveidošanas un aprīkošanas izdevumu noteikšanai, kā arī valsts līdzfinansējuma piešķiršanas un līdzfinansēšanas kārtību nosaka Ministru kabinets.
 (6) Valsts piedalās ar uzturēšanos grupu mājā (dzīvoklī) saistīto izdevumu finansēšanā 50 procentu apmērā no vienai personai paredzētajām ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas uzturēšanas izmaksām tām personām ar garīga rakstura traucējumiem, kuras atgriežas no ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijām. Līdzfinansējuma apjomu un piešķiršanas kārtību nosaka Ministru kabinets. Izdevumus, kas saistīti ar uzturēšanos Eiropas reģionālās attīstības fonda nacionālās programmas ietvaros uz valsts ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūciju pamata izveidotajās grupu mājās (dzīvokļos) valsts sedz pilnā apmērā.
 (7) (Daļa stājas spēkā 01.10.2023. un iekļauta likuma redakcijā uz 01.10.2023. Sk. Pārejas noteikumu 29. punktu)
-(8) (Daļa stājas spēkā 01.07.2023. un iekļauta likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 53. punktu)
-(9) (Daļa stājas spēkā 01.07.2023. un iekļauta likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 53. punktu)
-(10) (Daļa stājas spēkā 01.07.2023. un iekļauta likuma redakcijā uz 01.07.2023. Sk. pārejas noteikumu 53. punktu)
+(8) Lai daļēji kompensētu pašvaldību izdevumus par šā likuma 35. panta pirmajā daļā noteikto pamata sociālās palīdzības pabalstu nodrošināšanu, valsts nodrošina mērķdotāciju pašvaldībām izdevumu segšanai 30 procentu apmērā no mājsaimniecībām izmaksātā garantētā minimālā ienākuma pabalsta un mājokļa pabalsta.
+(9) Lai saņemtu mērķdotāciju, pašvaldība līdz pārskata mēnesim sekojošā mēneša desmitajam datumam iesniedz Labklājības ministrijai pārskatu par garantētā minimālā ienākuma pabalsta un mājokļa pabalsta faktiskajām izmaksām (turpmāk - pārskats), tajā iekļaujot šādas ziņas:
+1) pašvaldības izmaksātais finansējums garantētā minimālā ienākuma pabalstam;
+2) to personu un mājsaimniecību skaits, par kurām izmaksāts garantētā minimālā ienākuma pabalsts;
+3) pašvaldības izmaksātais finansējums mājokļa pabalstam;
+4) to personu un mājsaimniecību skaits, par kurām izmaksāts mājokļa pabalsts;
+5) pašvaldības konts Valsts kasē vai kredītiestādē mērķdotācijas saņemšanai un izdevumu veikšanai.
+(10) Labklājības ministrija:
+1) 10 darbdienu laikā izvērtē pārskatu un piecu darbdienu laikā veic mērķdotācijas maksājumu pašvaldībai;
+2) ir tiesīga izlases kārtībā kontrolēt mērķdotācijas izlietojumu garantētā minimālā ienākuma pabalstam un mājokļa pabalstam, pieprasot no pašvaldības papildu informāciju;
+3) ja konstatē kļūdas pārskatā vai pārkāpumus normatīvajos aktos par garantētā minimālā ienākuma pabalsta un mājokļa pabalsta piešķiršanu un izmaksu noteikto nosacījumu piemērošanā, līdz pārskata precizēšanai vai pārkāpumu novēršanai pārtrauc mērķdotācijas izmaksu;
+4) pēc pārskata precizēšanas vai pārkāpumu novēršanas izdara pārrēķinu un veic maksājumu par iepriekšējo periodu vai ietur nepamatoti izmaksātos līdzekļus no nākamajā mēnesī pašvaldībai paredzētajiem līdzekļiem.

@@ -1,4 +1,8 @@
 33. pants. Minimālo ienākumu sliekšņi sociālās palīdzības sniegšanai
-(1) (Atzīta par spēkā neesošu ar Satversmes tiesas 05.10.2023. spriedumu)
-(2) Trūcīgas mājsaimniecības ienākumu slieksnis ir 272 euro pirmajai vai vienīgajai personai mājsaimniecībā un 190 euro pārējām personām mājsaimniecībā.
-(3) Maznodrošinātas mājsaimniecības ienākumu slieksni katra pašvaldība ir tiesīga noteikt ne augstāku par 436 euro pirmajai vai vienīgajai personai mājsaimniecībā un 305 euro pārējām personām mājsaimniecībā, bet ne zemāku par šā panta otrajā daļā noteikto trūcīgas mājsaimniecības ienākumu slieksni.
+(1) Minimālo ienākumu sliekšņus sociālās palīdzības sniegšanai nosaka procentuālā apmērā, noapaļotus līdz veseliem euro, no Centrālās statistikas pārvaldes tīmekļvietnē publicētās minimālo ienākumu mediānas uz vienu ekvivalento patērētāju mēnesī (turpmāk - ienākumu mediāna).
+(2) Garantēto minimālo ienākumu slieksnis ir 20 procenti no ienākumu mediānas.
+(3) Trūcīgas mājsaimniecības ienākumu slieksnis ir 50 procenti no ienākumu mediānas.
+(4) Maznodrošinātas mājsaimniecības ienākumu slieksni katra pašvaldība ir tiesīga noteikt ne augstāku par 80 procentiem no ienākumu mediānas, bet ne zemāku par šā panta trešajā daļā noteikto trūcīgas mājsaimniecības ienākumu slieksni.
+(5) Minimālo ienākumu sliekšņu apmērus mājsaimniecībai aprēķina, piemērojot attiecīgajam ienākumu slieksnim šādus koeficientus:
+1) pirmajai vai vienīgajai personai mājsaimniecībā - koeficientu 1;
+2) pārējām personām mājsaimniecībā - koeficientu 0,7.
