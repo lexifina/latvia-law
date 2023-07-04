@@ -31,7 +31,7 @@ e) konts nav saistīts ar šā panta 11.punktā minēto kontu;
 11) noguldījumu konts, kas atbilst visām šādām prasībām:
 a) kontā tiek ieskaitītas tikai tādas summas, kas paredzētas kredītkartes vai citas atjaunojamas kredītlīnijas debeta atlikuma (klientu parādsaistību) dzēšanai, un pārmaksa klientam netiek atmaksāta nekavējoties,
 b) finanšu iestāde īsteno pasākumus un procedūras, lai novērstu to, ka kontā tiek ieskaitīta pārmaksa, kas pārsniedz summu, kura pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, vai lai nodrošinātu, ka pārmaksa, kas pārsniedz iepriekš minēto summu, klientam tiek atmaksātas 60 dienu laikā, minēto summu aprēķinam piemērojot Ministru kabineta noteiktās kontu pienācīgas pārbaudes procedūras. Šim nolūkam pārmaksas summā netiek ieskaitītas apstrīdēto maksājumu summas, bet tiek ieskaitītas kompensācijas par preču atpakaļatdošanu;
-12) pensiju plāna dalībnieka individuālais konts, kas tiek regulēts atbilstoši likumam "Par privātajiem pensiju fondiem";
+12) pensiju plāna dalībnieka individuālais konts, kas tiek regulēts atbilstoši Privāto pensiju fondu likumam;
 13) valsts fondēto pensiju shēmas dalībnieka konts, kas tiek regulēts saskaņā ar Valsts fondēto pensiju likumu.
 (2) Finanšu iestāde ir tiesīga par izslēgtu kontu atzīt iepriekšpastāvējušu fiziskās personas finanšu kontu (izņemot annuitātes līgumu), kas atbilst visām šādām pazīmēm:
 1) tā ikgadējais konta beigu atlikums nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 1000;

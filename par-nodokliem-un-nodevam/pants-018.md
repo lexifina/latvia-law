@@ -45,7 +45,8 @@ b) kas pieņemts nodokļu kontroles rezultātā,
 c) (izslēgts ar 08.06.2023. likumu),
 d) ar kuru konstatēts muitas maksājumu parāds,
 e) ar kuru atteikta pārmaksātā pievienotās vērtības nodokļa atmaksa;
-35) lai veicinātu normatīvajos aktos noteikto nodokļu maksātāju pienākumu izpildi, komercdarbības vides drošību, godīgu konkurenci un labprātīgu nodokļu (nodevu) saistību izpildi, nodrošināt publiski pieejamu mikrouzņēmumu nodokļa maksātāju vienoto datubāzi (reģistru).
+35) lai veicinātu normatīvajos aktos noteikto nodokļu maksātāju pienākumu izpildi, komercdarbības vides drošību, godīgu konkurenci un labprātīgu nodokļu (nodevu) saistību izpildi, nodrošināt publiski pieejamu mikrouzņēmumu nodokļa maksātāju vienoto datubāzi (reģistru);
+36) lai veicinātu labprātīgu nodokļu saistību izpildi, nodrošināt publiski pieejamu Valsts ieņēmumu dienesta noteikto nodokļu maksātāju reitinga kopējo novērtējumu.
 (1¹) Nodevu administrācijai, izņemot valsts nodevas administrāciju, kas administrē valsts nodevas par darbību veikšanu tiesu iestādēs, ir šā panta pirmās daļas 1., 2., 3., 4., 6. un 9. punktā noteiktie pienākumi. Valsts nodevas administrācijai, tajā skaitā valsts nodevas administrācijai, kas administrē valsts nodevas par darbību veikšanu tiesu iestādēs, ir pienākums veikt valsts budžetā ieskaitāmo valsts nodevu uzskaiti. Kārtību un apjomu, kādā veicama valsts nodevu uzskaite, nosaka Ministru kabinets.
 (2) Ja šā panta pirmās daļas 10.punktā noteikto paziņojumu par nodokļu revīzijas (audita) uzsākšanu nodokļu administrācija nodokļu maksātājam sūta pa pastu, uzskatāms, ka nodokļu maksātājam informācija paziņota septītajā dienā pēc sūtījuma nodošanas pastā.
 (3) Šā panta pirmās daļas 10.punktā noteikto paziņojumu nodokļu maksātājam nodokļu administrācija nesniedz, ja ir pierādījumi, ka nodokļu maksātājs veic darbības, lai izvairītos no nodokļu revīzijas (audita) vai apgrūtinātu to.
@@ -59,3 +60,10 @@ e) ar kuru atteikta pārmaksātā pievienotās vērtības nodokļa atmaksa;
 (7) Šā panta pirmās daļas 24.punktā noteiktās informācijas sniegšana kredītinformācijas birojam ir maksas pakalpojums. Ministru kabinets nosaka kārtību, kādā kredītinformācijas birojs no Valsts ieņēmumu dienesta pieprasa šā panta pirmās daļas 24.punktā noteikto informāciju, pieprasāmās un izsniedzamās informācijas apjomu, tās saturu un sniegšanas kārtību, kā arī pakalpojuma maksas apmēru un maksāšanas kārtību.
 (8) Ministru kabinets nosaka kārtību, kādā fiziskā persona no Valsts ieņēmumu dienesta pieprasa informāciju par tās ienākumiem, kā arī pieprasāmās un izsniedzamās informācijas apjomu, saturu un sniegšanas kārtību.
 (9) Publicējot šā panta pirmās daļas 34. punktā minēto informāciju, norāda juridiskās personas nosaukumu un reģistrācijas numuru, pieņemtā lēmuma spēkā stāšanās datumu, pieņemtā lēmuma būtību un nolemjošo daļu, kā arī informāciju, vai lēmums ir pārsūdzēts tiesā. Informāciju par lēmumu publisko septiņu darbdienu laikā pēc tam, kad attiecīgais lēmums kļuvis neapstrīdams vai ir pārsūdzēts tiesā un tā darbība nav apturēta. Informācija par lēmumu pieejama līdz brīdim, kad lēmums tiek atcelts, bet ne ilgāk kā trīs gadus pēc tā publiskošanas.
+(10) Šā panta pirmās daļas 36. punktā minētais nodokļu maksātāju reitinga kopējais novērtējums ir pieejams par katru komercsabiedrību, ārvalsts komersanta filiāli, Eiropas Savienības dalībvalsts, Islandes Republikas, Norvēģijas Karalistes un Lihtenšteinas Firstistes kapitālsabiedrības filiāli, kā arī par katru zemnieku saimniecību, zvejnieku saimniecību un individuālo uzņēmumu, ja minētie subjekti sastāda gada pārskatu. Nodokļu maksātāju reitinga kopējam novērtējumam ir informatīvs raksturs. Valsts ieņēmumu dienests, nosakot nodokļu maksātāju reitinga kopējo novērtējumu, izmanto šādas nodokļu saistību izpildi raksturojošo rādītāju kopas:
+1) reģistrācijas datu novērtējumu;
+2) deklarāciju un pārskatu iesniegšanas rādītājus;
+3) nodokļu saistību izpildes rādītājus;
+4) nodokļu un muitas administrēšanas pasākumu rezultātus;
+5) darba samaksas novērtējumu;
+6) nodokļu deklarēšanas risku novērtējumu.
