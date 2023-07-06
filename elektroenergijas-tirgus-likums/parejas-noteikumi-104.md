@@ -1,0 +1,1 @@
+104. Ne vēlāk kā piecu gadu laikā pēc pārvades sistēmas operatora elektroenerģijas uzkrātuves ekspluatācijas uzsākšanas regulators atbilstoši šā likuma 16.³ panta ceturtajai daļai izvērtē nepieciešamību pārskatīt 16.³ panta pirmās daļas 2. punktā noteiktajā kārtībā izsniegto atļauju.

@@ -1,0 +1,13 @@
+16.³ pants. Elektroenerģijas uzkrātuves pārvades sistēmā
+(1) Pārvades sistēmas operatoram var piederēt elektroenerģijas uzkrātuve, un tas ir tiesīgs šo uzkrātuvi ekspluatēt, ja ir saņemta regulatora atļauja. Regulators izsniedz atļauju, ja ir saņēmis pārvades sistēmas operatora iesniegumu un šādus dokumentus:
+1) apliecinājumu, ka elektroenerģijas uzkrātuve ir pilnībā integrēta tīkla komponente, vai
+2) atklāta, pārredzama un nediskriminējoša iepirkuma rezultātus, saskaņā ar kuriem konstatēts, ka tirgus dalībnieki nespēj attiecīgo palīgpakalpojumu sniegt nepārtraukti, savlaicīgi un par samērīgu cenu, un apliecinājumu, ka elektroenerģijas uzkrātuve tiks izmantota, lai nodrošinātu pārvades sistēmas drošu, efektīvu un stabilu darbību, un netiks izmantota, lai pirktu vai pārdotu elektroenerģiju elektroenerģijas tirgos.
+(2) Regulators apstiprina pārvades sistēmas operatora izstrādātos iepirkuma nosacījumus.
+(3) Regulators atļauju, kas izsniegta saskaņā ar šā panta pirmo daļu, kā arī ar atļauju saistīto informāciju nosūta Eiropas Komisijai un Energoregulatoru sadarbības aģentūrai.
+(4) Vismaz reizi piecos gados regulators organizē publisku konsultāciju, lai izvērtētu nepieciešamību pārskatīt saskaņā ar šā panta pirmās daļas 2. punktu izsniegto atļauju. Ja regulators konstatē, ka tirgus dalībnieki spēj nodrošināt attiecīgā palīgpakalpojuma sniegšanu nepārtraukti, savlaicīgi un par samērīgu cenu, regulators pieņem lēmumu, ar kuru uzliek par pienākumu pārvades sistēmas operatoram ne vēlāk kā 18 mēnešu laikā pēc lēmuma pieņemšanas izbeigt elektroenerģijas uzkrātuves ekspluatāciju un pārdot šo uzkrātuvi.
+(5) Šā panta ceturtā daļa neattiecas uz elektroenerģijas uzkrātuvi, kuru regulators atzinis par integrētu tīkla komponenti, ja ir ievēroti visi šādi nosacījumi:
+1) elektroenerģijas uzkrātuve pieslēgta pārvades tīklam ne vēlāk kā divu gadu laikā pēc tam, kad saskaņā ar šā panta pirmās daļas 2. punktu izsniegta atļauja;
+2) elektroenerģijas uzkrātuve tiek izmantota tikai pārvades tīkla drošas darbības atjaunošanai, ja šāds atjaunošanas pasākums sākas nekavējoties un beidzas, kad problēmu var novērst ar regulāru pārdispečēšanu;
+3) elektroenerģijas uzkrātuve netiek izmantota, lai pirktu vai pārdotu elektroenerģiju elektroenerģijas tirgos.
+(6) Pamatotās izmaksas, kas saistītas ar elektroenerģijas uzkrātuves iegādi un ekspluatāciju, sedz pārvades sistēmas operators, un tās iekļauj pārvades sistēmas pakalpojumu tarifos.
+(7) Pārvades sistēmas operatoram piederošas elektroenerģijas uzkrātuves izmantošanas noteikumus izstrādā pārvades sistēmas operators un apstiprina regulators.
