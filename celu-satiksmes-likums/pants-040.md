@@ -1,5 +1,5 @@
 40.pants. Uz ceļa vai tā tiešā tuvumā veicamo darbību saskaņošana
-(1) Ja uz ceļa vai tā tiešā tuvumā paredzēts veikt darbības, kas var ietekmēt ceļu satiksmes drošību (rīkot masu vai sporta pasākumus, sniegt tirdzniecības vai citus pakalpojumus, izvietot reklāmas objektus vai informācijas objektus, tirdzniecības, sabiedriskās ēdināšanas vai citu pakalpojumu objektus u.c.), šīs darbības jāsaskaņo Latvijas Valsts ceļos, kā arī jāsaņem ceļa pārvaldītāja (īpašnieka) un zemes īpašnieka atļauja.
+(1) Ja uz ceļa vai tā tiešā tuvumā paredzēts veikt darbības, kas var ietekmēt ceļu satiksmes drošību (rīkot masu vai sporta pasākumus, sniegt tirdzniecības vai citus pakalpojumus, izvietot reklāmas objektus vai informācijas objektus, tirdzniecības, sabiedriskās ēdināšanas vai citu pakalpojumu objektus, veikt darbu uz ceļa u. tml.), attiecībā uz šīm darbībām saņemama ceļa pārvaldītāja (īpašnieka) un zemes īpašnieka atļauja.
 (2) Noteikumus par reklāmas objektu vai informācijas objektu izvietošanu gar ceļiem, kā arī kārtību, kādā saskaņojama reklāmas objektu vai informācijas objektu izvietošana, nosaka Ministru kabinets.
 (3) (Izslēgta ar 09.06.2011. likumu)
 (4) Masu vai sporta pasākumu rīkošana jāsaskaņo arī attiecīgajās teritoriālajās policijas iestādēs.

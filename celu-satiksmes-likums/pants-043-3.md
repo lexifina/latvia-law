@@ -9,7 +9,7 @@ b) uz tramvaja sliežu klātnes vai tās tiešā tuvumā un neļauj braukt tramv
 c) pasažieru sabiedrisko transportlīdzekļu pieturvietā vai stāvvietā vai tās tiešā tuvumā un neļauj iebraukt vai izbraukt pasažieru sabiedriskajam transportlīdzeklim,
 d) tā, ka tas neļauj braukt citiem transportlīdzekļiem vai to braukšanai tiek radīti būtiski traucējumi (citu transportlīdzekļu vadītāji ir spiesti izbraukt no braukšanas joslas, nobraukt no brauktuves vai iebraukt tajā ceļa pusē, kas paredzēta braukšanai pretējā virzienā),
 e) uz gājēju pārejas,
-f) pilnīgi vai daļēji uz ietves un gājēji tā dēļ ir spiesti iziet uz brauktuves,
+f) pilnīgi vai daļēji uz ietves, gājēju ceļa, gājēju un velosipēdu ceļa vai kopīga gājēju un velosipēdu ceļa un gājēji tā dēļ nevar brīvi pārvietoties vai ir spiesti iziet uz brauktuves,
 g) uz dzelzceļa pārbrauktuves;
 h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 5) transportlīdzeklis novietots stāvēšanai apdzīvotās vietās pilnīgi vai daļēji uz brauktuves diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos neapgaismotā ceļa posmā, kur apstāties aizliegts, tam nav iedegtas noteiktās ārējās apgaismes ierīces un tas citiem vadītājiem nav saredzams pietiekamā attālumā;
@@ -22,3 +22,4 @@ h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 (3) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu saskaņā ar ceļa pārvaldītāja vai attiecīga avārijas vai glābšanas dienesta amatpersonas lēmumu var pārvietot piespiedu kārtā īslaicīgu ceļu uzturēšanas (piemēram, sniega novākšanas), remonta vai avārijas seku likvidēšanas darbu vai glābšanas darbu veikšanas gadījumā.
 (3¹) Izdevumus, kas saistīti ar transportlīdzekļa piespiedu pārvietošanu uz speciālu stāvvietu un glabāšanu speciālajā stāvvietā, sedz transportlīdzekļa reģistrācijas apliecībā norādītais turētājs vai, ja turētājs nav norādīts, - transportlīdzekļa īpašnieks (valdītājs) vai viņa pilnvarota persona. Izdevumus sedz pirms transportlīdzekļa izņemšanas no speciālās stāvvietas.
 (4) Transportlīdzekļu piespiedu pārvietošanas kārtību nosaka Ministru kabinets.
+(5) (Daļa stājas spēkā 01.09.2023. un iekļauta likuma redakcijā uz 01.09.2023. Sk. pārejas noteikumu 64. punktu)

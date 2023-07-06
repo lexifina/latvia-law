@@ -19,3 +19,10 @@
 (18) Par norīkojuma došanu lietot transportlīdzekli, kuram ir bojājumi, kuru dēļ aizliegts braukt, vai kuram noteiktajā termiņā nav veikta valsts tehniskā apskate, piemēro naudas sodu personai, kas atbildīga par transportlīdzekļa ekspluatāciju, no četrpadsmit līdz divdesmit astoņām naudas soda vienībām.
 (19) Par braukšanu ar automobili, kura stikli pārklāti ar pārklājumu, kas neatbilst normatīvo aktu prasībām, piemēro naudas sodu transportlīdzekļa vadītājam septiņpadsmit naudas soda vienību apmērā.
 (20) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē, kuram ir nepietiekams normatīvajos aktos noteiktais riepu protektora dziļums vai ir riepu bojājums, kas apdraud satiksmes drošību, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam no trim līdz vienpadsmit naudas soda vienībām, fiziskajai personai, kas atbildīga par transportlīdzekļa ekspluatāciju, - no vienpadsmit līdz divdesmit astoņām naudas soda vienībām, bet juridiskajai personai - no četrpadsmit līdz simt četrdesmit naudas soda vienībām.
+(21) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē:
+1) kura radītais trokšņa līmenis pārsniedz normatīvajos aktos vai izgatavotāja noteikto;
+2) kuram ir trokšņa slāpēšanas sistēmas elementu bojājumi, kas apdraud satiksmes drošību, - piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam no trim līdz desmit naudas soda vienībām.
+(22) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē:
+1) kurš nav aprīkots ar kādu no trokšņa slāpēšanas sistēmas elementiem;
+2) kura trokšņa slāpēšanas sistēmā ievietotas vai uzstādītas sastāvdaļas vai materiāli, kas īslaicīgi nodrošina zemāku trokšņa līmeni;
+3) kuram veikta trokšņa slāpēšanas sistēmas neatļauta pārbūve, - piemēro naudas sodu transportlīdzekļa vadītājam no astoņām līdz septiņpadsmit naudas soda vienībām.

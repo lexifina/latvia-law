@@ -1,2 +1,2 @@
 VI¹ nodaļa
-Inteliģentās transporta sistēmas
+Intelektiskās transporta sistēmas

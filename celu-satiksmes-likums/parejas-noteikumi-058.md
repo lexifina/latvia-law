@@ -1,0 +1,1 @@
+58. Ministru kabinets līdz 2023. gada 31. decembrim izdod noteikumus, kas paredz pašvaldībām tiesības noteikt laikposmu, kad Ministru kabineta noteikumos paredzētajos gadījumos transportlīdzekļos drīkst iekraut un izkraut kravu ceļa zīmes "Josla pasažieru sabiedriskajiem transportlīdzekļiem" darbības zonā.

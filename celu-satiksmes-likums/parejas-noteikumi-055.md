@@ -1,0 +1,1 @@
+55. Šā likuma grozījumi par 16. panta piektās daļas izteikšanu jaunā redakcijā un 5.¹ daļas papildināšanu pēc vārda "kvadriciklam" ar vārdiem "piekabei ar pilnu masu līdz 3500 kilogramiem" stājas spēkā 2025. gada 1. janvārī.

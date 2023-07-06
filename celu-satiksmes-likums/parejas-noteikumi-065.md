@@ -1,0 +1,1 @@
+65. Šā likuma 22. panta pirmās daļas 3.¹ punktā minētā prasība par dalību uzvedības korekcijas programmā piemērojama transportlīdzekļa vadītājam, kurš vēlas atgūt transportlīdzekļu vadīšanas tiesības, sākot no 2023. gada 1. septembra.

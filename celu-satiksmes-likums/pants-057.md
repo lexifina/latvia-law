@@ -4,7 +4,7 @@
 2) uz brauktuves, ja ceļam ir nomale;
 3) nepietiekami tuvu brauktuves malai (tā, ka attālums no brauktuves malas līdz jebkuram brauktuves malai tuvāko transportlīdzekļa sānu elementam pārsniedz 0,5 metrus), ja ceļam nav nomales;
 4) vietās, kur transportlīdzeklis citiem vadītājiem aizsedz luksofora signālus vai ceļa zīmes;
-5) uz ietvēm, gājēju ceļiem, gājēju un velosipēdu ceļiem, kopīgiem gājēju un velosipēdu ceļiem vai velosipēdu ceļiem un velojoslām vietās, kur tas ir aizliegts;
+5) (izslēgts ar 22.06.2023. likumu);
 6) vietās, kur brauktuves mala apzīmēta ar 920. ceļa apzīmējumu, kā arī vietās, kur brauktuves mala vai apmale apzīmēta ar 943. vai 947. ceļa apzīmējumu, -
 piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.
 (2) Par apstāšanos:
@@ -17,7 +17,8 @@ piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju nau
 7) uz ieskrējiena vai bremzēšanas joslām;
 8) 326. ceļa zīmes darbības zonā;
 9) uz tramvaja sliežu ceļa klātnes vai tās tiešā tuvumā, ja tas traucē tramvaja kustību;
-10) tuneļos -
+10) tuneļos;
+11) uz ietvēm, gājēju ceļiem, gājēju un velosipēdu ceļiem, kopīgiem gājēju un velosipēdu ceļiem vai velosipēdu ceļiem un velojoslām vietās, kur tas ir aizliegts, -
 piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
 (3) Par apstāšanos uz dzelzceļa pārbrauktuvēm piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
 (4) Par stāvēšanu:

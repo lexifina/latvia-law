@@ -8,3 +8,5 @@
 (4) (Izslēgta ar 23.11.2016. likumu)
 (5) (Izslēgta ar 23.11.2016. likumu)
 (6) (Izslēgta ar 23.11.2016. likumu)
+(7) Velorikšu izmantošanas noteikumus un kustības maršrutu, izvērtējot tā sabiedrisko nepieciešamību un atbilstību drošības kritērijiem, nosaka attiecīgā pašvaldība.
+(8) Pašvaldība ir tiesīga noteikt koplietošanas transportlīdzekļu izmantošanas noteikumus, ātruma ierobežojuma zonas, novietošanas aizlieguma zonas, izvērtējot to sabiedrisko nepieciešamību un atbilstību drošības kritērijiem.

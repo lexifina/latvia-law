@@ -1,3 +1,3 @@
-7.pants. Ceļu būvniecības, remonta un rekonstrukcijas projektēšana
-(1) Ceļu, to inženierbūvju un dzelzceļa pārbrauktuvju būvniecības, remonta un rekonstrukcijas projektiem jāatbilst spēkā esošajiem likumiem un citiem normatīvajiem aktiem un ceļu satiksmes drošības normatīviem. Projektu atbilstība minētajām prasībām jāapstiprina projektētājam. Projekti jāsaskaņo ar Latvijas Valsts ceļiem.
-(2) Par ekspluatācijā nododamiem ceļu būvniecības, remonta un rekonstrukcijas objektiem saņemams Latvijas Valsts ceļu atzinums par to atbilstību normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā.
+7. pants. Ceļu projektēšana
+(1) Ceļu, tostarp inženierbūvju un dzelzceļa pārbrauktuvju, būvprojekti atbilst spēkā esošajiem likumiem un citiem normatīvajiem aktiem un ceļu satiksmes drošības normatīviem. Projektu atbilstību minētajām prasībām apstiprina projektētājs. Projekti saskaņojami ar Latvijas Valsts ceļiem.
+(2) Par ekspluatācijā nododamu ceļu, tostarp inženierbūvi, saņemams Latvijas Valsts ceļu saskaņojums par tā atbilstību normatīvajiem aktiem un ceļu satiksmes drošības standartiem.
