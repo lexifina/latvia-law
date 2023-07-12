@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 4. jūlija noteikumi Nr. 364 \"Grozījumi Ministru kabineta 2005. gada 6. septembra noteikumos Nr. 674 \"Bīstamo kravu pārvadājumu noteikumi\"\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "131",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-11",
+  "entry_into_force": "2023-07-12",
+  "notification_date": "2023-07-11",
+  "commission_reference": "MNE(2023)03956",
+  "nim_celex": "72022L2407LVA_202303956",
+  "nim_id": "202303956",
+  "transposes_celex": [
+    "32022L2407"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/534108ef-e14a-41f5-b300-2fb364af47ca",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
