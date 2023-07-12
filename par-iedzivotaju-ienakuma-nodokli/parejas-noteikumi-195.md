@@ -1,0 +1,1 @@
+195. Šā likuma 10. panta 5.¹ daļa, grozījumi 12. panta devītajā daļā un 13. panta trešajā daļā, kā arī 15. panta 19.² daļa stājas spēkā 2023. gada 1. janvārī un ir attiecināma uz ienākumiem, kas gūti, sākot ar 2023. gada 1. janvāri.
