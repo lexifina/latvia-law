@@ -1,0 +1,1 @@
+18. Grozījums šā likuma 28. panta pirmās daļas 3. punktā par skaitļu un vārdu "1. panta 27. punktā noteiktajā datu atbilstības pārbaudē" aizstāšanu ar skaitļiem un vārdiem "1. panta 37. punktā noteiktajā nodokļu kontrolē" stājas spēkā vienlaikus ar atbilstošiem grozījumiem likumā "Par nodokļiem un nodevām".

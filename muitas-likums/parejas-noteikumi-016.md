@@ -1,0 +1,1 @@
+16. Grozījums šā likuma 6. panta 4. punktā attiecībā uz šā punkta izslēgšanu, grozījumi 14.⁵ panta 4. punktā attiecībā uz šā punkta izteikšanu jaunā redakcijā, kā arī šā likuma 23.⁴ un 23.⁵ pants stājas spēkā 2023. gada 1. oktobrī.

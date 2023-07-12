@@ -1,7 +1,7 @@
 6.pants. Ministru kabineta kompetence muitas lietās
 Ministru kabinets nosaka:
 1) reģistrācijas un identifikācijas numura (EORI numura) un pagaidu numura piešķiršanas kārtību, kā arī kārtību, kādā veido EORI numura un pagaidu numura struktūru;
-2) papildus aizpildāmās ailes un datu elementus muitas deklarācijā;
+2) papildus aizpildāmos datu elementus muitas deklarācijā;
 3) dabasgāzes un elektroenerģijas deklarēšanas kārtību;
 4) kārtību, kādā nosaka zudumu apmērus muitas uzraudzībā esošajām nefasētajām precēm;
 5) preču uzskaites un identificēšanas kārtību muitas noliktavā;
@@ -18,5 +18,5 @@ Ministru kabinets nosaka:
 16) preču iznīcināšanas kārtību;
 17) kārtību, kādā iesniedz iesniegumu par atteikšanos no precēm par labu valstij, iesniegumā norādāmās ziņas un tam pievienojamos dokumentus;
 18) muitošanas kārtību, apgādājot kuģi (tajā skaitā karakuģi) un gaisa kuģi ar krājumiem, rezerves daļām un aprīkojumu ostās un lidostās, kā arī vietas, kurās atļauts veikt kuģu apgādi Latvijas Republikas teritoriālajos ūdeņos, un īpašus nosacījumus šādas apgādes veikšanai;
-19) kārtību, kādā uz autoceļa izveidotajā robežšķērsošanas vietā aizpilda un iesniedz akcīzes preču pārvietošanas paziņojumu par atsevišķām akcīzes precēm, kuras fiziskā persona pārvieto personīgajā bagāžā, kas par tādu uzskatāma regulas Nr. 1186/2009 41. panta izpratnē, kā arī par komerciālajā mehāniskajā transportlīdzeklī esošās degvielas apjomu, kas nepieciešams transportlīdzekļa darbības nodrošināšanai;
+19) (izslēgts ar 15.06.2023. likumu);
 20) (izslēgts ar 17.06.2020. likumu).
