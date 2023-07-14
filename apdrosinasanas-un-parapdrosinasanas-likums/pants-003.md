@@ -15,8 +15,8 @@ c) transportlīdzekļa, autovadītāja un pasažieru nogādāšanu Latvijas Repu
 9) savstarpējās apdrošināšanas kooperatīvajām sabiedrībām, kuras vienlaikus izpilda šādus nosacījumus:
 a) veic apdrošināšanu tikai šā likuma 19.panta pirmās daļas 1., 2., 3., 4., 5., 6., 7., 8., 9., 16., 17. un 18.punktā minētajos apdrošināšanas veidos,
 b) ar citām savstarpējās apdrošināšanas kooperatīvajām sabiedrībām ir noslēgušas līgumu, kurš paredz pilnīgu pārapdrošināšanu to izdotajām apdrošināšanas polisēm vai saskaņā ar kuru cesionāri uzņemas cedentu saistības, kas izriet no šādām polisēm,
-c) gada bruto ieņēmumi no apdrošināšanas prēmijām nepārsniedz piecus miljonus euro,
-d) bruto tehnisko rezervju apmērs, neatskaitot summas, kas atgūstamas no pārapdrošināšanas līgumiem, nepārsniedz 25 miljonus euro,
-e) grupas, ja savstarpējās apdrošināšanas kooperatīvā sabiedrība ietilpst grupā, bruto tehnisko rezervju apmērs, neatskaitot summas, kas atgūstamas no pārapdrošināšanas līgumiem, nepārsniedz 25 miljonus euro;
+c) gada bruto ieņēmumi no apdrošināšanas prēmijām nepārsniedz 5,4 miljonus euro,
+d) bruto tehnisko rezervju apmērs, neatskaitot summas, kas atgūstamas no pārapdrošināšanas līgumiem, nepārsniedz 26,6 miljonus euro,
+e) grupas, ja savstarpējās apdrošināšanas kooperatīvā sabiedrība ietilpst grupā, bruto tehnisko rezervju apmērs, neatskaitot summas, kas atgūstamas no pārapdrošināšanas līgumiem, nepārsniedz 26,6 miljonus euro;
 10) pārapdrošināšanas pakalpojumiem, ko sniedz vai pilnībā garantē dalībvalsts valdība, ja tā būtisku sabiedrības interešu vārdā rīkojas kā pārapdrošinātājs, kā arī apstākļos, kad atbilstoša pārapdrošināšanas iegūšana tirgū nav iespējama.
 (2) Šā panta pirmās daļas 7.punktā minētie pakalpojumi uzskatāmi par apdrošināšanu, ja tos sniedz apdrošinātājs saskaņā ar noslēgtajiem apdrošināšanas līgumiem.
