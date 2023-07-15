@@ -1,0 +1,1 @@
+116. Ja kredītiestādes likvidācijas (arī pašlikvidācijas) vai maksātnespējas process ir uzsākts līdz šā likuma 133.¹ un 160.¹ panta spēkā stāšanās dienai, tad šā likuma 133.¹ panta ceturtajā daļā un 160.¹ panta ceturtajā daļā noteiktais piecu gadu termiņš kreditora prasījuma tiesību zaudēšanai tiek skaitīts no šā likuma 133.¹ un 160.¹ panta spēkā stāšanās dienas.
