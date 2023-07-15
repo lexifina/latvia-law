@@ -1,0 +1,1 @@
+25.¹ Pamatsodu - probācijas uzraudzība - sāk piemērot ar 2023. gada 15. jūliju pilngadīgām personām, kuras izdarījušas šā likuma 132., 132.¹ un 168.¹ pantā paredzēto noziedzīgo nodarījumu pēc 2023. gada 14. jūlija.
