@@ -1,0 +1,3 @@
+11. pants. Ziņu iekļaušana Kredītu reģistrā un kredītinformācijas biroja datubāzē
+(1) Ja vērtspapīrošanas darījumā ir iesaistīts Kredītu reģistra dalībnieks vai Kredītu reģistra dalībnieks ar ierobežotu statusu, ziņas par vērtspapīrošanas sabiedrības aktīviem Kredītu reģistrā iekļauj Kredītu reģistra likumā noteiktajā kārtībā.
+(2) Ja attiecīgais prasījums izriet no aizdevuma (kredīta), kas sniegts saskaņā ar patērētāja kreditēšanas līgumu atbilstoši Patērētāju tiesību aizsardzības likumam, parādus apkalpojošā sabiedrība kā kredītinformācijas lietotājs ziņas par parādu kredītinformācijas birojam sniedz saskaņā ar normatīvajiem aktiem, kuri to nosaka.

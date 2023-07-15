@@ -1,0 +1,6 @@
+13. pants. Ar aktīviem saistītās tiesības
+(1) Ja līdzēji atsavinājuma līgumā nav vienojušies citādi, aktīvi vērtspapīrošanas sabiedrībai tiek atsavināti un nodoti kopā ar visām spēkā esošajām tiesībām, prasījumiem un augļiem, tostarp tiesībām uz apdrošināšanas atlīdzību, kuru atsavinātājs saistībā ar aktīviem ir tiesīgs saņemt saskaņā ar normatīvajiem aktiem vai noslēgtajiem līgumiem.
+(2) Gadījumos, kad atsavinātie aktīvi ietver tiesības uz apdrošināšanas atlīdzību, iestājoties apdrošināšanas gadījumam, atsavinātāja prasījumi par apdrošināšanas atlīdzības izmaksu ietilpst aktīvos, ja līdzēji atsavinājuma līgumā nav vienojušies citādi.
+(3) Šā panta otrajā daļā minētā apdrošināšanas atlīdzība tiek ieskaitīta aktīvos tādā apmērā, kādā to paredz normatīvie akti apdrošināšanas jomā vai noslēgtie līgumi. Vērtspapīrošanas sabiedrība ir tiesīga atļaut parādniekam un nodrošinājuma devējam pilnībā vai daļēji izlietot apdrošināšanas atlīdzību apdrošināšanas gadījuma seku novēršanai.
+(4) Vērtspapīrošanas sabiedrības vienpusējs paziņojums apdrošinātājam, ka apdrošinātie aktīvi, pamatojoties uz atsavinājuma līgumu, ir pārgājuši vērtspapīrošanas sabiedrībai, dod tiesības šai sabiedrībai saņemt apdrošināšanas atlīdzību, kas attiecas uz šo aktīvu.
+(5) Aktīvu atsavināšana vērtspapīrošanas sabiedrībai nav pamats apdrošināšanas līguma grozīšanai vai izbeigšanai.

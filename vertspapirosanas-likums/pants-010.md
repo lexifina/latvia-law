@@ -1,0 +1,4 @@
+10. pants. Informācijas aizsardzība un datu apstrāde
+(1) Lai izmantotu šajā likumā noteiktās tiesības un izpildītu pienākumus, iniciators vai sākotnējais aizdevējs nodod vērtspapīrošanas sabiedrībai fiziskās personas datus, ar kuriem tas rīkojas kā pārzinis. Vērtspapīrošanas sabiedrība kļūst par saņemto personas datu pārzini bez datu subjekta piekrišanas.
+(2) Šā panta pirmās daļas nosacījumi piemērojami arī attiecībā uz kredītiestādes rīcībā esošām neizpaužamajām ziņām, ja tā ir iniciators vai sākotnējais aizdevējs.
+(3) Latvijas Banka ir tiesīga pieprasīt, lai vērtspapīrošanas sabiedrība, iniciators, sākotnējais aizdevējs, sponsors un iepriekš minēto personu revīzijas pakalpojumu sniedzēji, kā arī jebkuras citas vērtspapīrošanā iesaistītas personas sniedz informāciju, kas nepieciešama šajā likumā un regulā Nr. 2017/2402 noteikto uzraudzības funkciju veikšanai.

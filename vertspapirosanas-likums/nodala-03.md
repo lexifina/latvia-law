@@ -1,0 +1,2 @@
+III nodaļa
+Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi

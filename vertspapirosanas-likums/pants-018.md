@@ -1,0 +1,2 @@
+18. pants. Prasības celšana pret vērtspapīrošanas sabiedrību
+Prasības celšanu pret vērtspapīrošanas sabiedrību reglamentē vērtspapīrošanas darījumu dokumentācijas noteikumi, ievērojot to, ka prasības apmierināšanas gadījumā prasītājs nesaņem vairāk, kā tam pienāktos pēc laidienu prioritātes secības, un to, cik faktiski saskaņā ar vērtspapīrošanas darījumu dokumentācijas noteikumiem tas drīkstētu saņemt, salīdzinot ar citiem ieguldītājiem un kreditoriem. Ieguldītāju prasības celšana ir pieļaujama tikai ar uzticības personas starpniecību, ja tāda iecelta.

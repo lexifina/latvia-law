@@ -1,0 +1,1 @@
+Šā likuma 14. panta pirmā daļa attiecas arī uz vienošanos starp parādnieku un iniciatoru, kas noslēgta pirms šā likuma spēkā stāšanās dienas, ja iniciators pēc aktīvu atsavināšanas vērtspapīrošanas sabiedrībai pats veic parādus apkalpojošās sabiedrības funkcijas.

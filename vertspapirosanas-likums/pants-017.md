@@ -1,0 +1,3 @@
+17. pants. Vērtspapīrošanas sabiedrības ieguldītāju un citu kreditoru prasījumu apmierināšanas kārtība
+(1) Ieguldītāju prasījumi tiek apmierināti, ievērojot vērtspapīrošanas pozīciju laidienu prioritātes secību konkrētajā vērtspapīrošanas darījumā. Vienas vērtspapīrošanas pozīcijas laidiena ieguldītāju prasījumi ir vienas kārtas prasījumi.
+(2) Citu kreditoru prasījumi, tostarp prasījumi, kas izriet no atvasināto finanšu instrumentu līgumiem, tiek apmierināti, ievērojot vērtspapīrošanas darījumu dokumentācijas noteikumus, tostarp noteikumus, kuri nosaka to, kādā kārtā tiek apmierināti ieguldītāju un citu kreditoru prasījumi konkrētajā vērtspapīrošanas darījumā.

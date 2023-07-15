@@ -1,0 +1,2 @@
+22. pants. Atļauja trešai personai pārbaudīt vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām
+Par iesniegto dokumentu izskatīšanu regulas Nr. 2017/2402 28. panta 1. punktā minētās atļaujas izsniegšanai trešām personām, kas pārbauda vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām, Latvijas Bankai maksājama vienreizēja maksa 5000 euro.
