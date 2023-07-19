@@ -6,7 +6,7 @@
 4) emitenta, atsavinātāja un segto obligāciju sabiedrības maksātnespējas procesa īpatnības;
 5) ieguldītāju un segto obligāciju kreditoru tiesības un aizsardzību;
 6) informācijas atklāšanas un publiskošanas prasības;
-7) Finanšu un kapitāla tirgus komisijas (turpmāk - Komisija) segto obligāciju programmu īstenošanas uzraudzību;
+7) Latvijas Bankas segto obligāciju programmu īstenošanas uzraudzību;
 8) pārrobežu programmas īstenošanu.
 (2) Latvijā segto obligāciju programmu īsteno un tās ietvaros emisiju veic kredītiestāde, kura reģistrēta Latvijā un ir saņēmusi licenci (atļauju) kredītiestādes darbības veikšanai, vai ārvalsts kredītiestādes filiāle, kas ir tiesīga sniegt finanšu pakalpojumus Latvijā un šajā likumā noteiktajā kārtībā ir saņēmusi atļauju segto obligāciju programmas īstenošanai.
 (3) Segto obligāciju emisijai piemērojama Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regula (ES) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/ES un regulā (ES) Nr. 236/2012.

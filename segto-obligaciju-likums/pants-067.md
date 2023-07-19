@@ -10,11 +10,11 @@
 (9) Īpašajam administratoram papildus šajā pantā minētajām tiesībām un pienākumiem, kā arī darbībām, kuras tas veic emitenta vietā vai vārdā, ir arī šādas tiesības un pienākumi:
 1) izpildīt, noslēgt, grozīt un izbeigt seguma portfeļa pārvaldīšanai nepieciešamos līgumus, tostarp slēgt seguma aktīvu pārvaldīšanas līgumus, kā arī celt prasības saistībā ar šajā punktā minētajiem līgumiem;
 2) bez īpaša pilnvarojuma segto obligāciju sabiedrības vārdā noslēgt, grozīt un izbeigt darījumus ar seguma aktīviem, kā arī segto obligāciju sabiedrības vārdā un vietā izmantot visas segto obligāciju sabiedrības tiesības, kas saistītas ar seguma aktīviem un to nodrošinājumiem;
-3) sagatavot un iesniegt Komisijai grozījumus segto obligāciju programmas noteikumos;
+3) sagatavot un iesniegt Latvijas Bankai grozījumus segto obligāciju programmas noteikumos;
 4) uzraudzīt un veikt nepieciešamās darbības, lai segto obligāciju programma, seguma portfelis un seguma aktīvi atbilstu normatīvo aktu segto obligāciju jomā un segto obligāciju programmas prasībām;
 5) ņemt aizņēmumus kredītiestādē, ja tas ir nepieciešams segto obligāciju prasījumu izpildei saskaņā ar segto obligāciju programmas noteikumiem, un rīkoties ar seguma aktīviem, lai nodrošinātu šajā punktā minētos aizņēmumus;
 6) pieaicināt speciālistus, lai saņemtu grāmatvedības, audita un juridiskos pakalpojumus, kā arī nodrošinātu īpašā administratora pārstāvību valsts pārvaldes un tiesu iestādēs un saņemtu citus pakalpojumus, kas nepieciešami, lai nodrošinātu šajā likumā noteikto īpašā administratora funkciju izpildi;
-7) reizi ceturksnī, kā arī izbeidzoties pilnvarām iesniegt Komisijai pārskatu par savu darbību atbilstoši šā likuma 73. panta ceturtajai daļai;
+7) reizi ceturksnī, kā arī izbeidzoties pilnvarām iesniegt Latvijas Bankai pārskatu par savu darbību atbilstoši šā likuma 73. panta ceturtajai daļai;
 8) izbeidzoties pilnvarām, nodot dokumentus un citas lietas atbilstoši šā likuma 75. panta sestajai daļai, iepriekš to saskaņojot;
 9) emitenta maksātnespējas procesa vai likvidācijas pasludināšanas gadījumā iesniegt emitenta maksātnespējas procesa administratoram ieguldītāju un segto obligāciju kreditoru sarakstu.
 (10) Emitents, atsavinātājs, segto obligāciju sabiedrība un to piesaistītie ārpakalpojumu sniedzēji saistībā ar segto obligāciju programmas īstenošanu sniedz īpašajam administratoram visu viņu funkciju veikšanai nepieciešamo informāciju, dokumentus un paskaidrojumus.

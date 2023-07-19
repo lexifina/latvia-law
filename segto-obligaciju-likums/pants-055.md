@@ -1,6 +1,6 @@
 55. pants. Virsnodrošināšanas līmenis
 (1) Emitents nodrošina, ka seguma aktīvos iekļauto no aizdevumiem (kredītiem) izrietošo prasījumu kopējā atlikusī pamatsumma un atvasinātā instrumenta vērtība nav mazāka par 105 procentiem no kopējās segto obligāciju neatmaksātās nominālvērtības (turpmāk - likumiskā virsnodrošināšana), izņemot šā panta sestajā daļā noteikto.
-(2) Komisija jebkurā laikā ir tiesīga pieprasīt, lai emitents nodrošina augstāka līmeņa virsnodrošināšanu, nekā noteikts šā panta pirmajā daļā, ja seguma portfelis nav pietiekams, lai aizsargātu ieguldītāju un segto obligāciju kreditoru intereses (turpmāk - obligātā virsnodrošināšana).
+(2) Latvijas Banka jebkurā laikā ir tiesīga pieprasīt, lai emitents nodrošina augstāka līmeņa virsnodrošināšanu, nekā noteikts šā panta pirmajā daļā, ja seguma portfelis nav pietiekams, lai aizsargātu ieguldītāju un segto obligāciju kreditoru intereses (turpmāk - obligātā virsnodrošināšana).
 (3) Segto obligāciju programmas noteikumos var paredzēt, ka emitents nodrošina augstāka līmeņa virsnodrošināšanu nekā likumiskā virsnodrošināšana un obligātā virsnodrošināšana (turpmāk - līgumiskā virsnodrošināšana).
 (4) Brīvprātīga virsnodrošināšana ir virsnodrošināšana, kas pārsniedz likumisko virsnodrošināšanu, obligāto virsnodrošināšanu un līgumisko virsnodrošināšanu.
 (5) Virsnodrošināšanas aprēķinam var ņemt vērā visu veidu seguma aktīvus, kas minēti šā likuma 54. panta otrajā daļā.

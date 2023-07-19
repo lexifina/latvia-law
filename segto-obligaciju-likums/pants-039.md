@@ -1,5 +1,5 @@
 39. pants. Emitentu un segto obligāciju programmu saraksts
-(1) Emitentu un segto obligāciju programmu sarakstu kārto Komisija un publicē to savā tīmekļvietnē.
+(1) Emitentu un segto obligāciju programmu sarakstu kārto Latvijas Banka un publicē to savā tīmekļvietnē.
 (2) Sarakstā norāda informāciju par:
 1) segto obligāciju programmu, ietverot:
 a) nosaukumu,
@@ -17,5 +17,5 @@ j) citas būtiskākās segto obligāciju iezīmes;
 4) segto obligāciju sabiedrību, kas sniedz galvojumu;
 5) seguma portfeļa uzraugu;
 6) ieguldītājiem paredzētās informācijas pieejamības vietu;
-7) Komisijas lēmumu par aizliegumu emitēt jaunas segtās obligācijas.
-(3) Pēc emitenta lūguma Komisija segto obligāciju programmu šā panta pirmajā daļā minētajā sarakstā atzīmē kā pabeigtu un izpildītu, ja ir izpildītas visas emitenta saistības pret ieguldītājiem un segto obligāciju kreditoriem, kas izriet no segto obligāciju programmas. Emitenta pienākums ir iesniegt Komisijai informāciju, kas to apliecina.
+7) Latvijas Bankas lēmumu par aizliegumu emitēt jaunas segtās obligācijas.
+(3) Pēc emitenta lūguma Latvijas Banka segto obligāciju programmu šā panta pirmajā daļā minētajā sarakstā atzīmē kā pabeigtu un izpildītu, ja ir izpildītas visas emitenta saistības pret ieguldītājiem un segto obligāciju kreditoriem, kas izriet no segto obligāciju programmas. Emitenta pienākums ir iesniegt Latvijas Bankai informāciju, kas to apliecina.

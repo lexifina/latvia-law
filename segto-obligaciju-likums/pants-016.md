@@ -1,6 +1,6 @@
 16. pants. Atsavinājuma līguma tiesiskās sekas
 (1) Emitents vai atsavinātājs nodod seguma aktīvus segto obligāciju sabiedrībai saskaņā ar atsavinājuma līgumu.
-(2) Ja saņemta Komisijas atļauja segto obligāciju programmas īstenošanai, seguma aktīvu atsavināšanai saskaņā ar atsavinājuma līgumu nav papildus nepieciešama Kredītiestāžu likumā noteiktā atļauja kredītiestādes uzņēmuma pārejai. Uz seguma aktīvu atsavināšanu neattiecas Komerclikuma noteikums par uzņēmuma nodevēja un uzņēmuma ieguvēja solidāro atbildību.
+(2) Ja saņemta Latvijas Bankas atļauja segto obligāciju programmas īstenošanai, seguma aktīvu atsavināšanai saskaņā ar atsavinājuma līgumu nav papildus nepieciešama Kredītiestāžu likumā noteiktā atļauja kredītiestādes uzņēmuma pārejai. Uz seguma aktīvu atsavināšanu neattiecas Komerclikuma noteikums par uzņēmuma nodevēja un uzņēmuma ieguvēja solidāro atbildību.
 (3) Atsavinājuma līgums starp līdzējiem ir spēkā ar tā noslēgšanas brīdi, ja vien atsavinājuma līgumā nav noteikts citādi.
 (4) Segto obligāciju sabiedrības tiesības uz seguma aktīviem ir spēkā esošas un izmantojamas bez jebkādiem ierobežojumiem un ierunām.
 (5) Segto obligāciju sabiedrības tiesības nodot atpakaļ emitentam vai atsavinātājam seguma aktīvu vai to kopumu, tiesības prasīt atlīdzinājumu vai celt regresa prasību pret emitentu vai atsavinātāju saistībā ar seguma aktīvu neietekmē atsavinājuma līguma spēkā esību.

@@ -9,5 +9,5 @@
 7) aizdevumu (kredītu) īpatsvaru, ja ir notikusi saistību neizpilde saskaņā ar regulas Nr. 575/2013 178. pantu vai ja aizdevumu (kredītu) atmaksa ir kavēta par vairāk nekā 90 dienām;
 8) likviditātes rezervju apjomu;
 9) ārvalstu valūtā denominētu seguma aktīvu īpatsvaru seguma portfelī.
-(2) Komisijai ir tiesības noteikt emitentam prasības par ieguldītājiem atklājamo informāciju, šīs informācijas saturu un apjomu papildus šā panta pirmās daļas prasībām un pārskata struktūru.
+(2) Latvijas Bankai ir tiesības noteikt emitentam prasības par ieguldītājiem atklājamo informāciju, šīs informācijas saturu un apjomu papildus šā panta pirmās daļas prasībām un pārskata struktūru.
 (3) Emitents ieguldītājiem atklājamo informāciju par segto obligāciju programmu publicē savā tīmekļvietnē visā segto obligāciju programmas īstenošanas laikā.

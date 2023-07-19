@@ -1,5 +1,5 @@
-41. pants. Komisijai sniedzamā informācija
-(1) Emitents saistībā ar segto obligāciju programmu reizi ceturksnī sniedz Komisijai vismaz informāciju par:
+41. pants. Latvijas Bankai sniedzamā informācija
+(1) Emitents saistībā ar segto obligāciju programmu reizi ceturksnī sniedz Latvijas Bankai vismaz informāciju par:
 1) seguma portfelī iekļautajiem aktīviem, tostarp:
 a) seguma portfeļa sastāvu atbilstoši šā likuma 47. panta prasībām, tostarp par seguma portfelī iekļautajiem primārajiem aktīviem un aizstājējaktīviem atbilstoši šā likuma 48. un 49. panta prasībām,
 b) atvasināto instrumentu līgumu izmantošanu saskaņā ar šā likuma 56. panta prasībām;
@@ -10,5 +10,5 @@ b) atvasināto instrumentu līgumu izmantošanu saskaņā ar šā likuma 56. pan
 6) pagarināma termiņa struktūrām, ja tās piemēro atbilstoši šā likuma 68. panta prasībām;
 7) stresa testēšanu un tās rezultātiem atbilstoši šā likuma 59. panta prasībām;
 8) segto obligāciju sabiedrības slēgtajiem darījumiem atbilstoši šā likuma 11. panta prasībām, izņemot gadījumu, kad iecelts īpašais administrators.
-(2) Komisijai ir tiesības noteikt iesniedzamo informāciju papildus šā panta pirmajā daļā minētajai, kā arī iesniedzamā pārskata struktūru un iesniegšanas kārtību.
-(3) Emitents nekavējoties informē Komisiju, ja seguma portfelis vairs neatbilst šā likuma vai segto obligāciju programmas prasībām.
+(2) Latvijas Bankai ir tiesības noteikt iesniedzamo informāciju papildus šā panta pirmajā daļā minētajai, kā arī iesniedzamā pārskata struktūru un iesniegšanas kārtību.
+(3) Emitents nekavējoties informē Latvijas Banku, ja seguma portfelis vairs neatbilst šā likuma vai segto obligāciju programmas prasībām.
