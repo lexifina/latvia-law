@@ -1,0 +1,1 @@
+1. pants. 2022. gada 29. septembrī Rīgā parakstītais Protokols, ar kuru groza Latvijas Republikas un Vācijas Federatīvās Republikas 1997. gada 21. februāra līgumu par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem, (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
