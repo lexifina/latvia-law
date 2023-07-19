@@ -1,0 +1,1 @@
+1. pants. 2022. gada 6. decembrī Abudžā parakstītais Latvijas Republikas valdības un Ruandas Republikas valdības divpusējais nolīgums par gaisa satiksmi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
