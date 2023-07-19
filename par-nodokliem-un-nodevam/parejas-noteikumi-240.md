@@ -1,0 +1,1 @@
+240. Grozījumi šā likuma 18. panta pirmās daļas 24. punktā un 22.¹ panta nosaukumā un pirmajā daļā attiecībā uz informācijas sniegšanu par apgādībā esošo personu skaitu stājas spēkā 2025. gada 1. janvārī.
