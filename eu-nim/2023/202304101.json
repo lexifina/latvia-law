@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 13. jūlija noteikumi Nr. 387 \"Grozījumi Ministru kabineta 2014. gada 7. janvāra noteikumos Nr. 16 \"Trokšņa novērtēšanas un pārvaldības kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-19",
+  "entry_into_force": "2023-07-20",
+  "notification_date": "2023-07-20",
+  "commission_reference": "MNE(2023)04101",
+  "nim_celex": "72020L0367LVA_202304101",
+  "nim_id": "202304101",
+  "transposes_celex": [
+    "32020L0367"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b37751cd-40ed-4fef-8652-0cfa70c8f7c1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
