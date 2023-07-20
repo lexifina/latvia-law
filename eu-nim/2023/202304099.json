@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2014. gada 7. janvāra noteikumos Nr. 16 \"Trokšņa novērtēšanas un pārvaldības kārtība\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2023/137.1",
+  "official_journal_page": null,
+  "official_journal_date": "2023-07-19",
+  "entry_into_force": "2023-07-20",
+  "notification_date": "2023-07-20",
+  "commission_reference": "MNE(2023)04099",
+  "nim_celex": "72021L1226LVA_202304099",
+  "nim_id": "202304099",
+  "transposes_celex": [
+    "32021L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5e18a395-8394-4be9-b908-22cf79d53d2f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
