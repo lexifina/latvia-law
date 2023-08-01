@@ -5,7 +5,7 @@ Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdev
 2¹) nodokļu jomu regulējošos normatīvajos aktos noteiktajā kārtībā reģistrējot Uzņēmumu reģistrā reģistrējamos tiesību subjektus kā nodokļu maksātājus, piešķir tiem katram individuālu vienotās euro maksājumu telpas maksājuma saņēmēja identifikatoru;
 3) nepieņemot atsevišķu lēmumu, reģistrē kompetentu iestāžu vai amatpersonu lēmumus un rīkojumus, ar kuriem piemērots nodrošinājuma līdzeklis;
 3¹) nodrošina to, ka tiek izpildīts kriminālprocesā pieņemtais nolēmums, ar kuru personai ir atņemtas tiesības veikt visu veidu komercdarbību, kā arī kriminālprocesā vai administratīvā pārkāpuma procesā pieņemtais nolēmums, ar kuru personai ir atņemtas tiesības ieņemt noteiktus amatus, un nekavējoties ziņo attiecīgajām iestādēm vai amatpersonām, kā arī attiecīgajam komersantam par izpildes nosacījumu pārkāpumiem;
-3²) (punkts stājas spēkā 01.08.2023. un iekļauts likuma redakcijā uz 01.08.2023. Sk. pārejas noteikumu 47. punktu);
+3²) nodrošina, ka fiziskā persona nav tiesīga ieņemt noteiktus amatus komercsabiedrībā, ja tai Eiropas Savienības dalībvalstī, Īslandes Republikā, Norvēģijas Karalistē vai Lihtenšteinas Firstistē (turpmāk šajā nodaļā - dalībvalsts) piemērots komercdarbības ierobežojums;
 4) ziņo attiecīgajām iestādēm par iespējamiem normatīvo aktu pārkāpumiem, sastāda administratīvo pārkāpumu protokolus par konstatētajiem normatīvo aktu pārkāpumiem, izskata administratīvo pārkāpumu lietas un uzliek sodus;
 5) (izslēgts ar 14.11.2019. likumu);
 5¹) (izslēgts ar 07.01.2021. likumu);
@@ -20,6 +20,6 @@ Lai nodrošinātu savu funkciju izpildi, Uzņēmumu reģistrs veic šādus uzdev
 5¹⁰) ieraksta ziņas par publisko personu un iestādi;
 5¹¹) nodrošina reģistrācijas lietu sadalīšanu publiskajā un nepubliskajā daļā;
 5¹²) nolūkā identificēt elektronisko pakalpojumu pieprasītājus saglabā šādu pakalpojumu pieprasītāju un elektronisko pakalpojumu lietotāju identificējošos datus un kontaktinformāciju, kā arī veic elektronisko pakalpojumu lietotāju datu pareizības pārbaudi Pilsonības un migrācijas lietu pārvaldes pārziņā esošajā Fizisko personu reģistrā;
-5¹³) veic ziņu un dokumentu apmaiņu ar ārvalstu reģistriem, izmantojot reģistru savstarpējās savienojamības sistēmu;
+5¹³) veic ziņu un dokumentu apmaiņu ar ārvalstu reģistriem, izmantojot reģistru savstarpējās savienojamības sistēmu, kā arī reģistrē un saglabā tajā saņemtos un nosūtītos ziņojumus;
 5¹⁴) lai nodrošinātu piekļuvi informācijai par dalībvalstīs reģistrēto tiesību subjektu patiesajiem labuma guvējiem un nodrošinātu iespēju sniegt ziņas attiecībā uz klienta izpētes gaitā noskaidroto informāciju par patieso labuma guvēju neatbilstību Uzņēmumu reģistra vestajos reģistros reģistrētajai informācijai par patiesajiem labuma guvējiem, saņem, uztur un nodod reģistru savstarpējās savienojamības sistēmā tiesībaizsardzības institūciju, kā arī Finanšu izlūkošanas dienesta un uzraudzības un kontroles institūciju noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā lietotāju identificējošos datus;
 6) veic citus normatīvajos aktos noteiktos uzdevumus.
