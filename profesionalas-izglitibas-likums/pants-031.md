@@ -14,4 +14,4 @@
 2) notiesātajiem, ja viņi atrodas brīvības atņemšanas vietā.
 (4¹) Par valsts budžeta līdzekļiem vienlaikus var apgūt vienu profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības vai profesionālās augstākās izglītības programmu.
 (5) Privātajās profesionālās izglītības iestādēs maksu par profesionālās izglītības un profesionālās kvalifikācijas ieguvi nosaka to dibinātāji.
-(6) Izglītojamos var apdrošināt pret nelaimes gadījumiem mācību prakses laikā. Ministru kabinets nosaka profesionālās kvalifikācijas, kuras iegūstot izglītojamie obligāti apdrošināmi pret nelaimes gadījumiem mācību prakses laikā, kā arī apdrošinājuma summas minimālo apmēru. Ar apdrošināšanu saistītos izdevumus sedz izglītības iestāde, kurā izglītojamais apgūst attiecīgo izglītības programmu.
+(6) Ministru kabinets nosaka kritērijus un kārtību, kādā profesionālās izglītības iestāžu izglītojamie apdrošināmi pret nelaimes gadījumiem mācību laikā.
