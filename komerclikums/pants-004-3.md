@@ -1,0 +1,2 @@
+4.³ pants. Fiziskajai personai Eiropas Savienības dalībvalstī, Īslandes Republikā, Norvēģijas Karalistē un Lihtenšteinas Firstistē noteiktie komercdarbības ierobežojumi
+Ja fiziskajai personai Eiropas Savienības dalībvalstī, Īslandes Republikā, Norvēģijas Karalistē vai Lihtenšteinas Firstistē (turpmāk - dalībvalsts) ir piemērots komercdarbības ierobežojums, attiecīgā fiziskā persona nav tiesīga ieņemt šā likuma 4.² panta pirmajā daļā minētos amatus.
