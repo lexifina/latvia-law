@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 15. augusta noteikumi Nr. 452 \"Grozījumi Ministru kabineta 2012. gada 21. februāra noteikumos Nr. 122 \"Kārtība, kādā izsniedz, anulē vai uz laiku aptur Eiropas Kopienas atļaujas, Eiropas Kopienas atļauju kopijas un autovadītāja atestātus starptautiskajiem komercpārvadājumiem ar autotransportu Eiropas Savienības teritorijā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "159",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-18",
+  "entry_into_force": "2023-08-19",
+  "notification_date": "2023-08-30",
+  "commission_reference": "MNE(2023)04785",
+  "nim_celex": "72022L0738LVA_202304785",
+  "nim_id": "202304785",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/477f0b72-2dba-4c61-a5a2-7ca96529d207",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
