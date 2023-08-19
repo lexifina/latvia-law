@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 15. augusta noteikumi Nr. 454 \"Grozījumi Ministru kabineta 2005. gada 17. maija noteikumos Nr. 339 \"Kārtība, kādā atļauts veikt pasažieru un kravas pārvadājumus ar citu personu īpašumā esošiem autotransporta līdzekļiem\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "159",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-18",
+  "entry_into_force": "2023-08-19",
+  "notification_date": "2023-08-30",
+  "commission_reference": "MNE(2023)04787",
+  "nim_celex": "72022L0738LVA_202304787",
+  "nim_id": "202304787",
+  "transposes_celex": [
+    "32022L0738"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/72832ef3-b736-451a-aec4-8e8336d85ea2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
