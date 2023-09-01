@@ -21,7 +21,7 @@
 2) tajā kalendāra gadā, kad kapitālsabiedrība reģistrēta Uzņēmumu reģistrā.
 2.¹¹ Sezonas laukstrādnieku ienākuma nodokli maksā par sezonas laukstrādnieku ienākumu saskaņā ar šā likuma 11.¹² pantu.
 2.¹² (Izslēgta ar 27.11.2020. likumu. Sk. Pārejas noteikumu 162. punktu)
-2.¹³ (Daļa stājas spēkā 01.09.2023. un iekļauta likuma redakcijā uz 01.09.2023. Sk. pārejas noteikumu 194. punktu)
+2.¹³ Darba devēja - ārstniecības iestādes - apmaksātā mācību maksa par darbinieka studijām rezidentūrā nav uzskatāma par algota darba ienākumu šā panta otrās daļas izpratnē.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
 2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;
