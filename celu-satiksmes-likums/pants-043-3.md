@@ -22,4 +22,4 @@ h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 (3) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu saskaņā ar ceļa pārvaldītāja vai attiecīga avārijas vai glābšanas dienesta amatpersonas lēmumu var pārvietot piespiedu kārtā īslaicīgu ceļu uzturēšanas (piemēram, sniega novākšanas), remonta vai avārijas seku likvidēšanas darbu vai glābšanas darbu veikšanas gadījumā.
 (3¹) Izdevumus, kas saistīti ar transportlīdzekļa piespiedu pārvietošanu uz speciālu stāvvietu un glabāšanu speciālajā stāvvietā, sedz transportlīdzekļa reģistrācijas apliecībā norādītais turētājs vai, ja turētājs nav norādīts, - transportlīdzekļa īpašnieks (valdītājs) vai viņa pilnvarota persona. Izdevumus sedz pirms transportlīdzekļa izņemšanas no speciālās stāvvietas.
 (4) Transportlīdzekļu piespiedu pārvietošanas kārtību nosaka Ministru kabinets.
-(5) (Daļa stājas spēkā 01.09.2023. un iekļauta likuma redakcijā uz 01.09.2023. Sk. pārejas noteikumu 64. punktu)
+(5) Uz velosipēdu un elektroskrejriteni, kā arī nereģistrētu transportlīdzekli nav attiecināms šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 8. punkts.
