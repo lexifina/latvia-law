@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 8. augusta Ministru kabineta noteikumi Nr. 440 Grozījumi Ministru kabineta 2013. gada 5. februāra noteikumos Nr. 84 \"Noteikumi par atsevišķu bīstamu ķīmisku vielu lietošanas ierobežojumiem elektriskajās un elektroniskajās iekārtās\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "154",
+  "official_journal_page": null,
+  "official_journal_date": "2023-08-11",
+  "entry_into_force": "2023-09-01",
+  "notification_date": "2023-08-29",
+  "commission_reference": "MNE(2023)04753",
+  "nim_celex": "72023L0171LVA_202304753",
+  "nim_id": "202304753",
+  "transposes_celex": [
+    "32023L0171"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9eb6071-b950-4e22-bb8d-92aa56f49b8e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
