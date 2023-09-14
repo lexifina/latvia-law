@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 2,
+ "datums": "2023-09-14",
+ "ieraksts": {
+  "dkp_id": "826a6868-d539-4f6b-bcc2-6c16b9b33027",
+  "lastmodtime": "\"AAAAAAIbaYk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Jekaterina#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Edmunds#Andris#Hosams#Artūrs#Agnese#Viktorija#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Ģirts#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Atis#Jānis#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Jānis#Līga#Antoņina#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Baire#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Lapiņš#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Labucis#Dombrava#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "#########################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#ST!#JV#NA#ZZS#ZZS#AS#LPV#AS#LPV#PRO#JV#NA#JV#JV#AS#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#LPV#ZZS#ST!#ST!# #AS#JV#ST!#NA#AS#JV#ZZS#NA#NA#JV#JV#LPV#JV#NA#NA#AS#ZZS#AS#JV#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#PRO#LPV#JV#AS#LPV#LPV#PRO#JV#ZZS#PRO#JV#JV#AS#AS",
+  "RESULT": "Par#Atturas#Atturas#Pret#Pret#Pret#Atturas#Pret#Atturas#Par#Pret#Par#Par#Atturas#Atturas#Pret#Atturas#Pret#Pret#Par#Pret#Atturas#Atturas#Atturas#Par#Par#Par#Par#Pret#Pret#Atturas#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Atturas#Pret#Par#Atturas#Par#Par#Atturas#Par#Pret#Par#Atturas#Atturas#Pret#Atturas#Atturas#Atturas#Pret#Pret#Par#Pret#Atturas#Atturas#Atturas#Atturas#Par#Pret#Atturas#Atturas#Atturas#Par#Par#Atturas#Pret#Pret#Pret#Par#Pret#Atturas#Par#Par#Pret#Pret#Atturas#Pret#Pret#Pret#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.09.2023 09:09:40",
+  "VOTEMOTIVE": "Par lēmuma projekta Par Mārtiņa Kazāka atbrīvošanu no Latvijas Bankas prezidenta amata (225/Lm14) iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "042d181a-af49-4a20-b3e3-99d699a4442b",
+  "VOTERESULT_ABSTAIN": "32",
+  "VOTERESULT_AGAINST": "36",
+  "VOTERESULT_FOR": "22",
+  "VOTERESULT_REGISTERED": "90",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c5cf1ba3-4534-473c-b785-8400b1eafb74/download/14.saeimas-2023.gada-rudens-sesija-2-vote.xml",
+  "sha256": "83df463d1f686ec44fcf1e9d4fccdd61c962dafbbb4ebcc4a40b433200275b23",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
