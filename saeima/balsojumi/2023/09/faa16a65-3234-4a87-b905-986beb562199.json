@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 3,
+ "datums": "2023-09-15",
+ "ieraksts": {
+  "dkp_id": "49551ab0-35bd-4b46-955f-7125c06d0d34",
+  "lastmodtime": "\"AAAAAAIcey4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Atis#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Edmunds#Andris#Hosams#Artūrs#Agnese#Jana#Viktorija#Zanda#Andrejs#Ilze#Jānis#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Oļegs#Dāvis Mārtiņš#Jefimijs#Ģirts#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Česlavs#Atis#Jānis#Normunds#Edgars#Viktors#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Jānis#Līga#Antoņina#Inga#Uģis#Edvards#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Deksnis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Zivtiņš#Sprūds#Abu Meri#Butāns#Krasta#Simanovska#Baire#Kalniņa-Lukaševica#Svilāns#Vergina#Reirs#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Burovs#Daugavietis#Klementjevs#Lapiņš#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Dzintars#Tavars#Valainis#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns#Brante",
+  "VOTEDEPSUFFIX": "###########################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#AS#JV#ZZS#ST!#JV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#JV#NA#ZZS#ZZS#AS#LPV#AS#LPV#PRO#JV#NA#JV#PRO#JV#JV#AS#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#LPV#ZZS#ST!# #JV#ST!#NA#AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#AS#JV#NA#NA#AS#ZZS#AS#JV#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO#JV#ZZS#PRO#JV#JV#AS#AS",
+  "RESULT": "Pret#Pret#Pret#Par#Par#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Par#Par#Par#Par#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.09.2023 17:10:11",
+  "VOTEMOTIVE": "Uzticības izteikšana Ministru kabinetam",
+  "VOTING_ID": "faa16a65-3234-4a87-b905-986beb562199",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "39",
+  "VOTERESULT_FOR": "53",
+  "VOTERESULT_REGISTERED": "92",
+  "VOTE_NUMBER": "5",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-3-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/63ad7227-a64c-4cbc-88de-ee77a78ef039/download/14.saeimas-2023.gada-rudens-sesija-3-vote.xml",
+  "sha256": "4ce291d27599d9c347f7f4f9a79a6fd6677ef0fb60d3f0770033d36c03539947",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
