@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 5,
+ "datums": "2023-09-20",
+ "ieraksts": {
+  "dkp_id": "3eb353be-c569-48f4-9b3f-75ecbe1b4a73",
+  "lastmodtime": "\"AAAAAAIcvLI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Māris#Jekaterina#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Andris#Artūrs#Agnese#Raivis#Jana#Zanda#Jānis#Ilze#Nauris#Jānis#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Anita#Gunārs#Igors#Leila#Kaspars#Gundars#Jānis#Lauris#Linda#Atis#Jānis#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Sprūds#Butāns#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Vergina#Puntulis#Reirs#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Judins#Rasima#Briškens#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ST!#ZZS#PRO#ZZS#JV#JV#AS#ST!#JV#NA#ZZS#ZZS#AS#LPV#AS#PRO#NA#JV#NA#PRO#JV#NA#JV#NA#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#ZZS#ST!#ST!# #AS#JV#ST!# #JV#ZZS#NA#NA#JV#ZZS#JV#AS#JV#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ST!#PRO#PRO#ZZS#JV#AS#LPV#PRO#JV#PRO#JV#JV#AS",
+  "RESULT": "Par#Pret#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Nebalsoja#Nebalsoja#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.09.2023 16:08:07",
+  "VOTEMOTIVE": "Par Jāņa Grasberga atsaukšanu no 14.Saeimas priekšsēdētāja biedra amata (231/Lm14)",
+  "VOTING_ID": "e091854a-5626-4ea6-a7d3-72222e1e698c",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "23",
+  "VOTERESULT_FOR": "58",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "10",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cf600d19-719c-4489-bb6a-a6720e187b58/download/14.saeimas-2023.gada-rudens-sesija-5-vote.xml",
+  "sha256": "f54fd63c79e6188e81976d245c48860bd703bcfd3599110a974b06b0e248ac7e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
