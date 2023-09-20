@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 5,
+ "datums": "2023-09-20",
+ "ieraksts": {
+  "dkp_id": "302e84d7-b89e-4aaa-b595-bb36ab3b0c10",
+  "lastmodtime": "\"AAAAAAIcoIQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Jekaterina#Rihards#Edmunds#Uldis#Armands#Andris#Ričards#Ingmārs#Andris#Hosams#Artūrs#Agnese#Raivis#Jana#Zanda#Jānis#Ilze#Nauris#Jānis#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kaspars#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Viktors#Linda#Andrejs#Ināra#Anita#Gunārs#Igors#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Atis#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Dorošķeviča#Kozlovskis#Teirumnieks#Augulis#Krauze#Kulbergs#Šlesers#Līdaka#Sprūds#Abu Meri#Butāns#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Vergina#Puntulis#Reirs#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Valainis#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Judins#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "###########################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#ST!#JV#NA#ZZS#ZZS#AS#LPV#AS#PRO#JV#NA#JV#NA#PRO#JV#NA#JV#NA#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#LPV#ZZS#ST!#ST!# #AS#JV#ST!# #AS#JV#ZZS#NA#NA#JV#ZZS#JV#LPV#AS#JV#AS#NA#ST!#AS#ZZS#AS#JV#NA#ZZS#ZZS#ST!#PRO#PRO#ZZS#LPV#JV#AS#LPV#PRO#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Nebalsoja#Pret#Pret#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Pret#Par#Par#Par#Par#Pret#Nebalsoja#Par#Pret#Par#Par#Pret#Nebalsoja#Pret#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Pret#Par#Nebalsoja#Par#Pret#Par#Par#Pret#Pret#Par#Par#Par#Nebalsoja#Pret#Par#Pret#Pret#Nebalsoja#Pret#Par#Pret#Par#Pret#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Pret#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.09.2023 10:12:38",
+  "VOTEMOTIVE": "Par Edvarda Smiltēna atsaukšanu no 14.Saeimas priekšsēdētāja amata (230/Lm14)",
+  "VOTING_ID": "961d96af-3092-47e6-80ce-fc9c4a33bd54",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "25",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "92",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cf600d19-719c-4489-bb6a-a6720e187b58/download/14.saeimas-2023.gada-rudens-sesija-5-vote.xml",
+  "sha256": "f54fd63c79e6188e81976d245c48860bd703bcfd3599110a974b06b0e248ac7e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
