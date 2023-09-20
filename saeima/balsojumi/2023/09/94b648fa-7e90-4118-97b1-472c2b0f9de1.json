@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 5,
+ "datums": "2023-09-20",
+ "ieraksts": {
+  "dkp_id": "1e7e4615-4ba6-429c-a668-c424574964ff",
+  "lastmodtime": "\"AAAAAAIcyTg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.09.2023 17:58:51",
+  "VOTEMOTIVE": "Saeimas sekretāra biedra vēlēšanas",
+  "VOTING_ID": "94b648fa-7e90-4118-97b1-472c2b0f9de1",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cf600d19-719c-4489-bb6a-a6720e187b58/download/14.saeimas-2023.gada-rudens-sesija-5-vote.xml",
+  "sha256": "f54fd63c79e6188e81976d245c48860bd703bcfd3599110a974b06b0e248ac7e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
