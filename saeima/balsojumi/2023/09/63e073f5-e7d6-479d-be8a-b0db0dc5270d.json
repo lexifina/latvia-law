@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 5,
+ "datums": "2023-09-20",
+ "ieraksts": {
+  "dkp_id": "e47a7e3c-1849-4c65-bdcf-577a2ec8705c",
+  "lastmodtime": "\"AAAAAAIcthU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Gunārs Kūtris",
+  "CANDIDATERESULT": "18:60",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "20.09.2023 13:17:30",
+  "VOTEMOTIVE": "Saeimas priekšsēdētāja vēlēšanas",
+  "VOTING_ID": "63e073f5-e7d6-479d-be8a-b0db0dc5270d",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "5",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/cf600d19-719c-4489-bb6a-a6720e187b58/download/14.saeimas-2023.gada-rudens-sesija-5-vote.xml",
+  "sha256": "f54fd63c79e6188e81976d245c48860bd703bcfd3599110a974b06b0e248ac7e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
