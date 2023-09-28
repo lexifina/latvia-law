@@ -2,6 +2,7 @@
 (1) Ministru kabinets līdz attiecīgā gada 15.oktobrim iesniedz Saeimai valsts budžeta likumprojektu (budžeta likumprojektu paketi) nākamajam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu budžeta pieprasījumiem, un valsts budžeta likumprojekta (budžeta likumprojektu paketes) paskaidrojumus.
 (2) (Izslēgta ar 06.10.2022. likumu)
 (3) Saeimas vēlēšanu gadā valsts budžeta likuma (budžeta likumprojektu paketes) projekts iesniedzams Saeimai ne vēlāk kā četrus mēnešus pēc tam, kad jaunievēlētā Saeima izteikusi Ministru kabinetam savu uzticību.
+(3¹) Ja šā panta pirmajā daļā minētajā valsts budžeta likumprojekta (budžeta likumprojektu paketes) iesniegšanas dienā kopš uzticības izteikšanas Ministru kabinetam ir pagājuši mazāk nekā četri mēneši, valsts budžeta likuma (budžeta likumprojektu paketes) projekts iesniedzams Saeimai ne vēlāk kā četrus mēnešus pēc tam, kad Saeima izteikusi Ministru kabinetam savu uzticību.
 (4) Ministru kabinets iesniedz Saeimai pieņemšanai grozījumus valsts budžeta likumā kārtējam saimnieciskajam gadam, priekšlikumus par grozījumiem likumos, lai tie atbilstu grozījumiem valsts budžeta likumā un grozījumu valsts budžeta likumā paskaidrojumu.
 (5) Grozījumu valsts budžeta likumā paskaidrojums ietver:
 1) informāciju par izmaiņām ieņēmumu politikas virzienos, ieņēmumu apmērā un struktūrā;
