@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 26. septembra noteikumi Nr. 547 “Dzeramā ūdens obligātās nekaitīguma un kvalitātes prasības, monitoringa un kontroles kārtība”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-28",
+  "entry_into_force": "2023-09-29",
+  "notification_date": "2023-10-17",
+  "commission_reference": "MNE(2023)05451",
+  "nim_celex": "72020L2184LVA_202305451",
+  "nim_id": "202305451",
+  "transposes_celex": [
+    "32020L2184"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6fd7b67d-2047-4e5e-b0e5-f79d8fac8cff",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
