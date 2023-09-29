@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 26. septembra noteikumi Nr. 539 \"Grozījums Ministru kabineta 2023. gada 7. marta noteikumos Nr. 97 \"Noteikumi par automātisko informācijas apmaiņu par pārdevējiem, kuri gūst ienākumus, izmantojot digitālās platformas\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2023/188.3",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-28",
+  "entry_into_force": "2023-09-29",
+  "notification_date": "2023-09-29",
+  "commission_reference": "MNE(2023)05249",
+  "nim_celex": "72021L0514LVA_202305249",
+  "nim_id": "202305249",
+  "transposes_celex": [
+    "32021L0514"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/312d6995-d7ce-475f-8515-8ef7ce6ed261",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
