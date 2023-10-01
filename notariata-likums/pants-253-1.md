@@ -1,0 +1,1 @@
+253.¹ Ja atbilstoši šā likuma prasībām mantošanas iesniegumam pievienojami dokumenti vai pierādījumi par mantojuma atstājēja miršanas faktu, pēdējo deklarēto dzīvesvietu vai mantošanas iesnieguma iesniedzēja tiesībām mantot, tad iesniedzējs šos dokumentus vai pierādījumus var nepievienot, ja ziņas notārs var iegūt no Fizisko personu reģistra.
