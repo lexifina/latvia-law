@@ -3,7 +3,7 @@ Ministru kabinets nosaka:
 1) reģistrācijas un identifikācijas numura (EORI numura) un pagaidu numura piešķiršanas kārtību, kā arī kārtību, kādā veido EORI numura un pagaidu numura struktūru;
 2) papildus aizpildāmos datu elementus muitas deklarācijā;
 3) dabasgāzes un elektroenerģijas deklarēšanas kārtību;
-4) kārtību, kādā nosaka zudumu apmērus muitas uzraudzībā esošajām nefasētajām precēm;
+4) (izslēgts no 01.10.2023. ar 15.06.2023. likumu. Sk. pārejas noteikumu 16. punktu);
 5) preču uzskaites un identificēšanas kārtību muitas noliktavā;
 6) atsevišķus nosacījumus attiecībā uz muitas procedūras - tranzīts - piemērošanas un noformēšanas kārtību, kā arī kārtību, kādā tranzīta deklarāciju atzīst par nederīgu;
 7) Eiropas Savienības tarifu kvotu pieteikšanas kārtību un kārtību, kādā tās administrē Valsts ieņēmumu dienests;
