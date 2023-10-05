@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 8,
+ "datums": "2023-10-05",
+ "ieraksts": {
+  "dkp_id": "57d394c1-6f0c-45bc-bc12-059cfade218b",
+  "lastmodtime": "\"AAAAAAIfsf0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Rihards#Andrejs#Irma#Harijs#Edmunds#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Kols#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "################################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#NA#ZZS#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#JV#NA#JV#JV#ZZS#JV#AS#ZZS#LPV#ZZS#ST!#ST!# # #JV#ST!# #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#NA#ST!#AS#AS#JV#NA#ZZS#ZZS#ZZS# #ST!#AS#PRO#PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO#NA#JV#ZZS#PRO#JV",
+  "RESULT": "Pret#Pret#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Atturas#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Atturas#Par#Pret#Par#Pret#Pret#Par#Nebalsoja#Par#Pret#Pret#Nebalsoja#Par#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "05.10.2023 11:18:51",
+  "VOTEMOTIVE": "Par Sanitas Osipovas apstiprināšanu par Augstākās tiesas tiesnesi (334/Lm14)",
+  "VOTING_ID": "915de163-9486-4bf0-aea6-2ce7a2538b55",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "41",
+  "VOTERESULT_FOR": "51",
+  "VOTERESULT_REGISTERED": "97",
+  "VOTE_NUMBER": "16",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e829bceb-d51f-49ac-b572-47ed77e94878/download/14.saeimas-2023.gada-rudens-sesija-8-vote.xml",
+  "sha256": "62fb8bf1ba16fce377de0ce22b4aa6c6bf90c44aaaaa33e07c2184109e9e0d13",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
