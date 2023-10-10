@@ -1,0 +1,1 @@
+30. pants. Grozījums Civillikuma 51. pantā attiecībā uz tiesībām noslēgt laulību arī pie dievturu konfesijas garīdznieka, kuram ir konfesijas vadības atļauja, stājas spēkā vienlaikus ar atsevišķu likumu par savstarpējo attiecību noregulēšanu starp valsti un dievturu reliģisko organizāciju.

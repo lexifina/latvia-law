@@ -1,0 +1,1 @@
+29. pants. Pilngadīgs bērns, kuram termiņš paternitātes pieņēmuma apstrīdēšanai tiesā bija ierobežots ar diviem gadiem pēc pilngadības sasniegšanas, ir tiesīgs apstrīdēt paternitātes pieņēmumu divu gadu laikā no dienas, kad stājas spēkā grozījums Civillikuma 149. pantā par paternitātes pieņēmuma apstrīdēšanas termiņa sākuma maiņu.
