@@ -1,5 +1,5 @@
 3. pants. Sakrālā mantojuma finansēšanas programmas līdzekļu sadale
-(1) Priekšlikumu sakrālā mantojuma objekta iekļaušanai sakrālā mantojuma finansēšanas programmā var iesniegt reliģiskā savienība (baznīca) vai reliģiskā organizācija, kura neietilpst nevienā reliģiskajā savienībā (baznīcā). Reliģiskā savienība (baznīca) iesniedz vienu kopīgu priekšlikumu objektu atjaunošanai (arī par baznīcas draudzēm piederošajiem objektiem), norādot objektus prioritārā secībā. Priekšlikumus sakrālā mantojuma objekta iekļaušanai sakrālā mantojuma finansēšanas programmā iesniedz Valsts kultūras pieminekļu aizsardzības inspekcijai līdz kārtējā gada 31. decembrim.
+(1) Priekšlikumu sakrālā mantojuma objekta iekļaušanai sakrālā mantojuma finansēšanas programmā var iesniegt reliģiskā savienība (baznīca) vai reliģiskā organizācija, kura neietilpst nevienā reliģiskajā savienībā (baznīcā). Reliģiskā savienība (baznīca) iesniedz vienu kopīgu priekšlikumu objektu atjaunošanai (arī par baznīcas draudzēm piederošajiem objektiem), norādot objektus prioritārā secībā. Priekšlikumus sakrālā mantojuma objekta iekļaušanai sakrālā mantojuma finansēšanas programmā iesniedz Nacionālā kultūras mantojuma pārvaldei līdz kārtējā gada 31. decembrim.
 (2) Reliģiskā savienība (baznīca) vai reliģiskā organizācija, kura neietilpst nevienā reliģiskajā savienībā (baznīcā), piesakot sakrālā mantojuma objekta iekļaušanu sakrālā mantojuma finansēšanas programmā, iesniedz:
 1) aizpildītu finansējuma pieteikumu, kurā ietverta informācija par pieteikuma iesniedzēju, objektu, tā īpašnieku, veicamo darbu apjomu un raksturu;
 2) apsekojuma aktu, kurā norādīti konstatētie defekti, vai citu dokumentu, kas pēc iespējas detalizēti raksturo situāciju sakrālā mantojuma objektā un apliecina paredzēto darbu nepieciešamību;
@@ -13,7 +13,7 @@
 (3) Pieņemot lēmumu par sakrālā mantojuma objekta iekļaušanu sakrālā mantojuma finansēšanas programmā un nosakot pieejamā finansējuma sadalījumu, ņem vērā šādus kritērijus:
 1) programmai pieteiktā sakrālā mantojuma objekta faktisko stāvokli, tai skaitā nepieciešamību glābt kritiskā stāvoklī esošu sakrālā mantojuma objektu;
 2) sakrālā mantojuma objekta publisko pieejamību;
-3) paredzēto darbu atbilstību normatīvajos aktos noteiktajām un Valsts kultūras pieminekļu aizsardzības inspekcijas saskaņā ar likumu "Par kultūras pieminekļu aizsardzību" izvirzītajām prasībām.
+3) paredzēto darbu atbilstību normatīvajos aktos noteiktajām un Nacionālā kultūras mantojuma pārvaldes saskaņā ar likumu "Par kultūras pieminekļu aizsardzību" izvirzītajām prasībām.
 (4) Pieņemot lēmumu par sakrālā mantojuma objekta iekļaušanu sakrālā mantojuma finansēšanas programmā un nosakot pieejamā finansējuma sadalījumu, papildus šā panta trešajā daļā ietvertajiem kritērijiem:
 1) izvērtē, vai praktiskās konservācijas un restaurācijas risinājumi ir balstīti uz objekta vērtību vispusīgu dokumentēšanu, arhitektoniski māksliniecisko un zinātnisko izpēti un vai konservācijas un restaurācijas darbi ir secīgi plānoti, tiks profesionāli vadīti un uzraudzīti;
 2) izvērtē, kā tiek nodrošināts sakrālā mantojuma objekta autentiskums un saglabāta oriģinālā substance.
