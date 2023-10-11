@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Informācijas par ieņēmumiem un ienākuma nodokļiem atklāšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "187",
+  "official_journal_page": null,
+  "official_journal_date": "2023-09-27",
+  "entry_into_force": "2023-10-11",
+  "notification_date": "2023-10-03",
+  "commission_reference": "MNE(2023)05272",
+  "nim_celex": "72021L2101LVA_202305272",
+  "nim_id": "202305272",
+  "transposes_celex": [
+    "32021L2101"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/81f745cf-f103-4d0b-abc5-f7ffdb1b8284",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
