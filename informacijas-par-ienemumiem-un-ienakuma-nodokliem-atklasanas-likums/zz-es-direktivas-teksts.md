@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2021. gada 24. novembra direktīvas (ES) 2021/2101, ar ko direktīvu 2013/34/ES groza attiecībā uz ienākuma nodokļa informācijas atklāšanu, ko veic konkrēti uzņēmumi un filiāles.

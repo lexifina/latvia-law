@@ -1,0 +1,2 @@
+19. pants. Papildu informācijas sniegšana pārskatā par ienākuma nodokļiem
+Šajā likumā minētās personas, kurām ir pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, šajā pārskatā (attiecīgā gadījumā - koncerna (grupas) līmenī) var sniegt papildu informāciju, lai paskaidrotu jebkādas būtiskas atšķirības starp attiecīgajā pārskata gadā uzkrāto ienākuma nodokļu summu un samaksāto ienākuma nodokļu summu, un, ja nepieciešams, skaidrojumus pamatot ar attiecīgajiem iepriekšējo pārskata gadu datiem.

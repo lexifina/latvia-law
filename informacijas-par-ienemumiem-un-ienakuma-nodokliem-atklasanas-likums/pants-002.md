@@ -1,0 +1,2 @@
+2. pants. Likuma mērķis
+Šā likuma mērķis ir palielināt korporatīvo caurskatāmību un uzlabot publisko kontroli par komercsabiedrību ienākuma nodokļu informāciju, nodrošinot starptautisku koncernu (grupu) un atsevišķu komercsabiedrību publiskus pārskatus par ieņēmumiem, ienākuma nodokļiem un saimniecisko darbību rezidences valstī un sadalījumā pa nodokļu jurisdikcijām neatkarīgi no tā, kur ir reģistrēta starptautiska koncerna (grupas) galvenā mātes sabiedrība.

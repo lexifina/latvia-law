@@ -1,0 +1,2 @@
+14. pants. Aizliegums izvairīties no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem
+Meitas sabiedrībai, kura neatbilst šā likuma 9. pantā noteiktajiem kritērijiem un nosacījumiem, un filiālei, kura neatbilst šā likuma 12. panta ceturtajā un sestajā daļā noteiktajiem kritērijiem un nosacījumiem, ir pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja attiecīgā meitas sabiedrība vai filiāle ir izveidota ar vienīgo mērķi - izvairīties no pārskata par ienākuma nodokļiem publiskošanas.

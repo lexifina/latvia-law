@@ -1,0 +1,7 @@
+13. pants. Atbrīvojums meitas sabiedrībai un filiālei no pienākumiem attiecībā uz pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu
+Šā likuma 9. un 10. panta noteikumus attiecībā uz meitas sabiedrību un 12. panta noteikumus attiecībā uz filiāli par pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu nepiemēro, ja attiecīgā starptautiska koncerna (grupas) galvenā mātes sabiedrība, kas nav Latvijas Republikā reģistrēta komercsabiedrība, vai attiecīgā atsevišķa komercsabiedrība, kas nav Latvijas Republikā reģistrēta komercsabiedrība, pati ir sagatavojusi tādu pārskatu par ienākuma nodokļiem, kurš atbilst šā likuma 15. panta noteikumiem attiecībā uz šajā pārskatā sniedzamo informāciju, un ir ievēroti visi šādi nosacījumi:
+1) pārskats par ienākuma nodokļiem bez maksas ir publiski pieejams cilvēklasāmā formātā:
+a) attiecīgās starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, tīmekļvietnē vai attiecīgās atsevišķas komercsabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, tīmekļvietnē,
+b) vismaz vienā no Eiropas Savienības oficiālajām valodām,
+c) ne vēlāk kā 12 mēnešus pēc tā pārskata gada bilances datuma, par kuru sagatavots šis pārskats par ienākuma nodokļiem;
+2) pārskatā par ienākuma nodokļiem ir norādīts tās meitas sabiedrības vai filiāles nosaukums un juridiskā adrese, kura pārskatu par ienākuma nodokļiem ir iesniegusi publiskošanai saskaņā ar šā likuma 23. pantā noteikto kārtību.

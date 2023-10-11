@@ -1,0 +1,2 @@
+6. pants. Atbrīvojums galvenajai mātes sabiedrībai no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem
+Galvenā mātes sabiedrība ir atbrīvota no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja tā un visas tās radniecīgās sabiedrības, tostarp filiāles, ir reģistrētas Latvijas Republikā vai visu minēto sabiedrību saimnieciskās darbības vieta ir tikai Latvijas Republika un neviena cita nodokļu jurisdikcija.

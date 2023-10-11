@@ -1,0 +1,2 @@
+7. pants. Atbrīvojums atsevišķai komercsabiedrībai no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem
+Atsevišķa komercsabiedrība ir atbrīvota no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja tā, kā arī tās filiāles ir reģistrētas Latvijas Republikā vai tās saimnieciskās darbības vieta ir tikai Latvijas Republika un neviena cita nodokļu jurisdikcija.
