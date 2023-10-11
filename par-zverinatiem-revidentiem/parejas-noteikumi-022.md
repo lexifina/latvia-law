@@ -1,0 +1,1 @@
+22. Šā likuma 31.² panta 10. punkts attiecināms uz revidenta ziņojumu, kuru zvērināts revidents vai zvērinātu revidentu komercsabiedrības atbildīgais zvērināts revidents sagatavo par tādu gada pārskatu un konsolidēto gada pārskatu, kurš sagatavots par pārskata gadu, kas sākas 2024. gada 22. jūnijā vai vēlāk.
