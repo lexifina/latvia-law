@@ -1,0 +1,1 @@
+49. Līdz atbilstoša tehniskā risinājuma izstrādei, bet ne vēlāk kā līdz 2025. gada 2. jūnijam šā likuma 4.¹⁵ panta pirmās daļas 2. punkta "d" un "e" apakšpunktā norādītās ziņas par sankciju subjektiem publicē tikai apkopota saraksta veidā Uzņēmumu reģistra tīmekļvietnē.
