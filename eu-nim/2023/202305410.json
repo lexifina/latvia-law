@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 10. oktobra noteikumi Nr. 570 \"Grozījumi Ministru kabineta 2020. gada 14. jūlija noteikumos Nr. 445 \"Kārtība, kādā iestādes ievieto informāciju internetā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2023-10-12",
+  "entry_into_force": "2023-10-13",
+  "notification_date": "2023-10-13",
+  "commission_reference": "MNE(2023)05410",
+  "nim_celex": "72019L1024LVA_202305410",
+  "nim_id": "202305410",
+  "transposes_celex": [
+    "32019L1024"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/40682241-ace0-4634-ba2c-8938d2c8923c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
