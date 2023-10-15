@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 14. septembra likums \"Grozījumi Civilprocesa likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "190",
+  "official_journal_page": null,
+  "official_journal_date": "2023-10-02",
+  "entry_into_force": "2023-10-15",
+  "notification_date": "2023-10-16",
+  "commission_reference": "MNE(2023)05425",
+  "nim_celex": "72020L1828LVA_202305425",
+  "nim_id": "202305425",
+  "transposes_celex": [
+    "32020L1828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6e1a0204-305c-4ce4-9185-f09153d3e7be",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
