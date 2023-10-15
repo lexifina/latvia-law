@@ -1,0 +1,13 @@
+23.¹ pants. Kvalificētās institūcijas statusa piešķiršana un atņemšana
+(1) Šā likuma 22. pantā minētā biedrība vai cita biedrība, ja viens no tās darbības mērķiem ir aizsargāt patērētāju intereses, tajā skaitā tāda biedrība, kuras sastāvā ir biedri arī no citas Eiropas Savienības dalībvalsts, ja tā vēlas iegūt kvalificētās institūcijas statusu, iesniedz Patērētāju tiesību aizsardzības centram iesniegumu ar lūgumu piešķirt kvalificētās institūcijas statusu pastāvīgi vai konkrētas patērētāju kolektīvās prasības celšanai, apliecinot savu atbilstību šādiem kritērijiem:
+1) tā ir juridiskā persona, kas var pierādīt 12 mēnešus ilgu faktisko sabiedrisko darbību patērētāju interešu aizsardzības jomā pirms tam, kad tā iesniegusi iesniegumu kvalificētās institūcijas statusa piešķiršanai;
+2) tās statūtos noteiktais mērķis ietver patērētāju interešu aizsardzību;
+3) tās darbībai nav peļņas gūšanas rakstura;
+4) tai nav ierosināts maksātnespējas process, un tā nav pasludināta par maksātnespējīgu;
+5) tā ir neatkarīga un to neietekmē ražotāji, pārdevēji vai pakalpojuma sniedzēji un citas personas, kurām ir ekonomiska interese celt pārstāvības prasību;
+6) gadījumā, ja tai finansējumu nodrošina trešās personas, tā ir izstrādājusi procedūras, kas novērš trešo personu ietekmi un interešu konfliktus starp biedrību un tās finansētājiem;
+7) tā publisko (savā tīmekļvietnē, ja tāda ir, vai citur) informāciju, kas apliecina, ka tā atbilst šīs daļas 1. un 5. punktā minētajiem kritērijiem, un informāciju par tās finansējuma avotiem, par tās organizatorisko, vadības un biedru struktūru, par tās statūtos noteikto mērķi un tās darbībām.
+(2) Patērētāju tiesību aizsardzības centrs ne retāk kā reizi piecos gados novērtē, vai kvalificētās institūcijas atbilst šā panta pirmajā daļā minētajiem kritērijiem, kā arī izskata ražotāju, pārdevēju vai pakalpojuma sniedzēju iebildumus par kvalificētās institūcijas atbilstību šā panta pirmajā daļā minētajiem kritērijiem.
+(3) Ja Patērētāju tiesību aizsardzības centrs konstatē vai Eiropas Savienības dalībvalsts vai Eiropas Komisija sniedz informāciju par Latvijas kvalificēto institūciju sarakstā iekļautās kvalificētās institūcijas iespējamo neatbilstību šā panta pirmajā daļā minētajiem kritērijiem, Patērētāju tiesību aizsardzības centrs par to informē kvalificēto institūciju un lūdz to nekavējoties novērst neatbilstības.
+(4) Ja Patērētāju tiesību aizsardzības centra noteiktajā termiņā kvalificētā institūcija nav novērsusi konstatētās neatbilstības, Patērētāju tiesību aizsardzības centrs pieņem lēmumu par kvalificētās institūcijas statusa atņemšanu.
+(5) Patērētāju tiesību aizsardzības centrs lēmumu par kvalificētās institūcijas statusa piešķiršanu vai atņemšanu pieņem Administratīvā procesa likumā noteiktajā kārtībā.

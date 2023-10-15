@@ -30,3 +30,4 @@
 (7) Šā likuma noteikumi, kuri regulē pakalpojuma sniegšanu, tiek piemēroti digitālajam saturam, kas netiek piegādāts materiālajā datu nesējā, ja patērētāju tiesību aizsardzību regulējošās speciālajās normās nav noteikts citādi.
 (8) Šā likuma noteikumus nepiemēro precēm, kuras tiesībaizsardzības iestāde pārdod, izpildot tiesas lēmumu vai citā veidā.
 (9) Šā likuma noteikumi, kas attiecināmi uz digitālo saturu vai digitālo pakalpojumu, izņemot šā likuma 16.³ un 30.² pantu, ir attiecināmi arī uz materiālo datu nesēju, kas darbojas tikai kā digitālā satura nesējs.
+(10) Šā likuma VI⁵ nodaļas noteikumus piemēro patērētāju kolektīvajām prasībām, arī pārrobežu pārkāpumu gadījumos, tostarp tad, ja minētie pārkāpumi izbeigti pirms patērētāju kolektīvās prasības iesniegšanas vai izskatīšanas vai izbeigts administratīvais process par pārkāpuma novēršanu.
