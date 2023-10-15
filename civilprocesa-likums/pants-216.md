@@ -8,4 +8,5 @@ Tiesvedība tiek apturēta:
 6) šā likuma 215.panta 5.punktā paredzētajos gadījumos - līdz tiesas lēmumā noteiktajam termiņam;
 7) (izslēgts ar 08.09.2011. likumu);
 8) šā likuma 215.panta 6.punktā paredzētajos gadījumos - līdz juridiskās personas maksātnespējas procesa vai fiziskās personas maksātnespējas procesa izbeigšanai;
-9) šā likuma 214. panta 7. punktā paredzētajā gadījumā - līdz konkurences iestāde ir pieņēmusi lēmumu vai citā veidā izbeigusi lietu izpēti.
+9) šā likuma 214. panta 7. punktā paredzētajā gadījumā - līdz konkurences iestāde ir pieņēmusi lēmumu vai citā veidā izbeigusi lietu izpēti;
+10) šā likuma 214. panta 8. punktā paredzētajā gadījumā - līdz Patērētāju tiesību aizsardzības centrs ir pieņēmis lēmumu vai citā veidā izbeidzis lietas izpēti.

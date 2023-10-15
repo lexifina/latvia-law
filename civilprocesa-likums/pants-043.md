@@ -25,7 +25,8 @@
 16¹) puse, kas atzīta par trauksmes cēlēju vai ir viņa radinieks vai saistītā persona Trauksmes celšanas likuma izpratnē;
 17) pieteikuma iesniedzēji - par adopcijas apstiprināšanu;
 18) zvērināts notārs - lietās par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu, ja zvērināts notārs taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām;
-19) sūdzības iesniedzēji - par zvērināta notāra atteikumu apliecināt pieteikumu par fiziskās personas atbrīvošanu no parādsaistībām, kā arī par atteikumu atbrīvot fizisko personu no parādsaistībām.
+19) sūdzības iesniedzēji - par zvērināta notāra atteikumu apliecināt pieteikumu par fiziskās personas atbrīvošanu no parādsaistībām, kā arī par atteikumu atbrīvot fizisko personu no parādsaistībām;
+20) prasītāji - patērētāju kolektīvajās prasībās.
 (2) Ja prokurors, tās valsts vai pašvaldību iestādes, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses, atsakās no pieteikuma, kas iesniegts citas personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, tiesas izdevumi jāmaksā saskaņā ar vispārīgiem noteikumiem.
 (3) Puses atbrīvojamas no tiesas izdevumu samaksas valsts ienākumos arī citos likumā paredzētajos gadījumos.
 (4) Tiesa vai tiesnesis, ievērojot fiziskās personas mantisko stāvokli, pilnīgi vai daļēji atbrīvo to no tiesas izdevumu samaksas valsts ienākumos, kā arī atliek valsts ienākumos piespriesto tiesas izdevumu samaksu vai sadala to termiņos.
