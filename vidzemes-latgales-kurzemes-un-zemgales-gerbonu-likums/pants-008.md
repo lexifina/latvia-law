@@ -1,1 +1,1 @@
-8.pants. Privātpersonām ir tiesības lietot ģerboni, garantējot pienācīgu cieņu pret to, izņemot gadījumus, kad ģerboņa lietošana maldina par lietotāja juridisko statusu.
+8.pants. Privātpersonām ir tiesības lietot latviešu vēsturiskās zemes ģerboni, garantējot pienācīgu cieņu pret to, izņemot gadījumus, kad latviešu vēsturiskās zemes ģerboņa lietošana maldina par lietotāja juridisko statusu.

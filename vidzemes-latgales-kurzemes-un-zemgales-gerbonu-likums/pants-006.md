@@ -1,1 +1,1 @@
-6.pants. Ģerbonis var būt veidots jebkādā vizuāli uztveramā formā, kas nodrošina tā atbilstību attiecīgajam ģerboņa aprakstam un likumam pievienotajam attēlam vai kontūrzīmējumam.
+6.pants. Latviešu vēsturiskās zemes ģerbonis var būt veidots jebkādā vizuāli uztveramā formā, kas nodrošina tā atbilstību attiecīgajam latviešu vēsturiskās zemes ģerboņa aprakstam un likumam pievienotajam attēlam vai kontūrzīmējumam.

@@ -1,3 +1,2 @@
-Vidzemes, Latgales, Kurzemes
-un Zemgales ģerboņu likuma
+Latviešu vēsturisko zemju ģerboņu likuma
 2.pielikums

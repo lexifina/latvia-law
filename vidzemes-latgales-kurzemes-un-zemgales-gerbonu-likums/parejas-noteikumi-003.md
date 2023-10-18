@@ -1,0 +1,1 @@
+3. Līdz attiecīgu grozījumu izdarīšanai citos likumos šajā likumā ietvertās norādes uz Vidzemes, Latgales, Kurzemes un Zemgales ģerboņu kopu piemērojamas kā norādes uz šajā likumā noteiktajiem piecu latviešu vēsturisko zemju ģerboņiem.
