@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likumā",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2023/99.4",
+  "official_journal_page": null,
+  "official_journal_date": "2023-05-24",
+  "entry_into_force": "2023-10-23",
+  "notification_date": "2023-05-26",
+  "commission_reference": "MNE(2023)02938",
+  "nim_celex": "72022L2100LVA_202302938",
+  "nim_id": "202302938",
+  "transposes_celex": [
+    "32022L2100"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1d69992a-0113-11ee-87ec-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
