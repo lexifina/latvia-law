@@ -9,4 +9,4 @@
 (5) Jebkurā elektroniskās izsoles posmā pasūtītājs pastāvīgi sniedz visiem pretendentiem ziņas, kas ļauj tiem jebkurā brīdī droši noteikt savu relatīvo vietu. Pasūtītājs ir tiesīgs sniegt arī ziņas par citām piedāvātajām cenām vai vērtībām, ja tas paredzēts iepirkuma procedūras dokumentos. Pasūtītājs ir tiesīgs jebkurā laikā paziņot arī izsoles dalībnieku skaitu konkrētajā elektroniskās izsoles posmā, bet nav tiesīgs izpaust dalībnieku identitāti.
 (6) Pasūtītājs pabeidz elektronisko izsoli, ievērojot uzaicinājumā uz elektronisko izsoli saskaņā ar šā panta otro daļu noteiktos nosacījumus.
 (7) Kad elektroniskā izsole ir pabeigta, pasūtītājs, izmantojot šīs izsoles rezultātus, izvēlas piedāvājumu saskaņā ar noteikto piedāvājuma izvēles kritēriju.
-(8) Pasūtītājs nav tiesīgs izmantot elektronisko izsoli, lai kavētu, ierobežotu vai deformētu konkurenci vai mainītu iepirkuma priekšmetu, kas noteikts paziņojumā par līgumu un iepirkuma procedūras dokumentos.
+(8) Pasūtītājs nav tiesīgs izmantot elektronisko izsoli, lai kavētu, ierobežotu vai deformētu konkurenci vai mainītu iepirkuma priekšmetu, kas noteikts iepirkuma procedūras dokumentos.

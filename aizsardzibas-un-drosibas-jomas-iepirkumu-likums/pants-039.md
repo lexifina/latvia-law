@@ -9,4 +9,4 @@
 (8) Pieteikumu iesniegšanā ievēro šādus noteikumus:
 1) pieteikumus dalībai iepirkuma procedūrā var sūtīt rakstveidā vai paziņot pa tālruni;
 2) ja pieteikumu paziņo pa tālruni, pirms pieteikumu iesniegšanas termiņa beigām iesniedz rakstveida apstiprinājumu;
-3) ja pieteikums nosūtīts pa faksu, pasūtītājs pieprasa, lai pasūtītāja noteiktajā paziņojumā par līgumu norādītajā termiņā piegādātājs apstiprina pieteikumu rakstveidā, nosūtot to pa pastu vai elektroniski vai iesniedzot personiski.
+3) (izslēgts ar 05.10.2023. likumu).
