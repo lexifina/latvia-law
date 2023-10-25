@@ -15,7 +15,7 @@
 4) iepirkuma procedūrā izraudzīto pretendentu (līgumslēdzēju pusi) aizstāj ar citu piegādātāju atbilstoši komerctiesību jomas normatīvo aktu noteikumiem par komersantu reorganizāciju un uzņēmuma pāreju, un šis piegādātājs atbilst paziņojumā par līgumu vai iepirkuma procedūras dokumentos noteiktajām kvalifikācijas prasībām, un uz to neattiecas šā likuma 42. panta otrajā daļā paredzētie izslēgšanas iemesli.
 (4) Līgumcenas pieaugums, ko noteic kā visu secīgi veikto grozījumu naudas vērtības summu, nevar pārsniegt 50 procentus no sākotnējās iepirkuma līguma līgumcenas attiecībā uz katru gadījumu, kas minēts šā panta trešās daļas 2. un 3. punktā.
 (5) Iepirkuma līguma vai vispārīgās vienošanās grozījumi ir pieļaujami, ja iepirkuma līguma vai vispārīgās vienošanās grozījumu vērtība, ko noteic kā visu secīgi veikto grozījumu naudas vērtību summu (neņemot vērā to grozījumu vērtību, kuri izdarīti saskaņā ar šā panta trešās daļas 1., 2. un 3. punktu), vienlaikus nesasniedz:
-1) Ministru kabineta noteiktās līgumcenu robežvērtības, sākot ar kurām paziņojums par līgumu vai paziņojums par sociālajiem un citiem īpašiem pakalpojumiem publicējams Eiropas Savienības Oficiālajā Vēstnesī;
+1) Ministru kabineta noteiktās līgumcenu robežvērtības;
 2) 10 procentus no sākotnējās iepirkuma līguma vai vispārīgās vienošanās līgumcenas publiska piegādes un publiska pakalpojuma līguma gadījumā un 15 procentus no sākotnējās iepirkuma līguma vai vispārīgās vienošanās līgumcenas publiska būvdarbu līguma gadījumā.
 (6) Ja iepirkuma līgumā ir paredzēta līgumcenas indeksācija, šā panta ceturtajā un piektajā daļā minētā sākotnējā iepirkuma līguma līgumcena ir līgumcena, kas indeksēta.
 (7) Pasūtītājs publicē paziņojumu par izmaiņām līguma darbības laikā saskaņā ar šā likuma 33. pantu.

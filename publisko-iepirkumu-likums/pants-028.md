@@ -1,3 +1,3 @@
-28. pants. Paziņojums par līgumu, paziņojums par izmaiņām vai papildu informāciju
+28. pants. Paziņojums par līgumu un grozījumu veikšanu
 (1) Ja pasūtītājs piemēro atklātu vai slēgtu konkursu, konkursa procedūru ar sarunām, inovācijas partnerības procedūru, konkursa dialogu vai plāno izveidot dinamisko iepirkumu sistēmu, tas publicē paziņojumu par līgumu.
-(2) Ja pasūtītājs izdara grozījumus iepirkuma procedūras dokumentos vai šā likuma 10. pantā noteiktajā kārtībā veicamā iepirkuma dokumentos vai pagarina noteiktos pieteikumu vai piedāvājumu iesniegšanas termiņus, tas publicē paziņojumu par izmaiņām vai papildu informāciju.
+(2) Ja pasūtītājs izdara grozījumus iepirkuma procedūras dokumentos vai šā likuma 10. pantā noteiktajā kārtībā veicamā iepirkuma dokumentos, metu konkursa dokumentācijā vai pagarina noteiktos pieteikumu, piedāvājumu vai metu iesniegšanas termiņus, tas atkārtoti publicē paziņojumu, ar kuru izsludināta iepirkuma procedūra, šā likuma 10. pantā noteiktajā kārtībā veicamais iepirkums vai metu konkurss.
