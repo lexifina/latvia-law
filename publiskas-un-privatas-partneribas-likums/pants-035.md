@@ -3,4 +3,4 @@
 (2) Nolikuma grozījumus apstiprina publiskā partnera pārstāvis.
 (3) Grozījumus nolikumā drīkst izdarīt tikai tad, ja nav beidzies šā likuma 39.pantā minētais attiecīgā pieteikuma vai piedāvājuma iesniegšanas termiņš.
 (4) Koncesijas procedūras komisija nolikuma grozījumus nosūta uzraudzības institūcijai, lai saņemtu atzinumu šā likuma 34.pantā noteiktajā kārtībā.
-(5) Ja koncesijas procedūras komisija izdarījusi grozījumus nolikumā vai citos koncesijas procedūras dokumentos, tā informāciju par grozījumiem ievieto pircēja profilā, kur šie dokumenti ir pieejami, ne vēlāk kā dienu pēc tam, kad paziņojums par izmaiņām vai papildu informāciju iesniegts Iepirkumu uzraudzības birojam publicēšanai.
+(5) Ja koncesijas procedūras komisija izdarījusi grozījumus nolikumā vai citos koncesijas procedūras dokumentos, tā informāciju par grozījumiem ievieto pircēja profilā, kur šie dokumenti ir pieejami, ne vēlāk kā dienā, kad atkārtoti publicēts paziņojums, ar kuru izsludināta koncesija.

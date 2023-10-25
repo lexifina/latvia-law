@@ -5,7 +5,7 @@
 1) uzrauga partnerības iepirkuma procedūru un koncesijas procedūru atbilstību normatīvo aktu prasībām;
 2) izskata iesniegumus par šā likuma 17. panta pirmajā un septītajā daļā minēto koncesijas procedūru pārkāpumiem;
 3) izskata administratīvo pārkāpumu lietas publiskās un privātās partnerības jomā un piemēro administratīvos sodus;
-4) publicē šajā likumā noteiktos paziņojumus Iepirkumu uzraudzības biroja tīmekļvietnē, nosūta tos publicēšanai Eiropas Savienības Oficiālajā Vēstnesī, kā arī nosūta Eiropas Komisijai informāciju, kuru tā pieprasa;
+4) nodrošina šajā likumā noteikto paziņojumu publicēšanu Iepirkumu uzraudzības biroja tīmekļvietnē un nosūtīšanu publicēšanai Eiropas Savienības Oficiālajā Vēstnesī, kā arī nosūta Eiropas Komisijai informāciju, kuru tā pieprasa;
 5) veic citas normatīvajos aktos noteiktās funkcijas.
 (3¹) Iepirkumu uzraudzības birojs ir funkcionāli augstākā iestāde attiecībā uz šā panta trešās daļas 2. punktā minētās funkcijas izpildi.
 (3²) Iepirkumu uzraudzības birojs ir tiesīgs pieprasīt un bez maksas saņemt pilnu informāciju par jebkuru publisko un privāto partnerību, līguma slēgšanas tiesību piešķiršanas kārtību un noslēgto līgumu.

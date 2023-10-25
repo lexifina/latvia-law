@@ -1,3 +1,3 @@
 53.¹ pants. Brīvprātīgs paziņojums par koncesijas procedūras rezultātiem
-(1) Šā likuma 3. pantā minētajos gadījumos vai sarunu procedūras gadījumā publiskais partneris vai publiskā partnera pārstāvis var iesniegt publicēšanai brīvprātīgu paziņojumu par koncesijas procedūras rezultātiem.
+(1) Šā likuma 3. pantā minētajos gadījumos vai sarunu procedūras gadījumā publiskais partneris vai publiskā partnera pārstāvis var publicēt brīvprātīgu paziņojumu par koncesijas procedūras rezultātiem.
 (2) Brīvprātīgs paziņojums par koncesijas procedūras rezultātiem tiek publicēts tādēļ, lai ieinteresētās personas varētu apstrīdēt tādas koncesijas procedūras pamatotību, kura kļūdas dēļ veikta, nepiemērojot atbilstošu koncesijas procedūru vai nepublicējot paziņojumu par koncesiju, un vienlaikus lai novērstu šā likuma 31.³ panta pirmajā daļā minētās sekas.

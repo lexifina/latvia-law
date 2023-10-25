@@ -3,7 +3,7 @@
 (2) Iesniegumu par šā panta pirmajā daļā minētajiem pārkāpumiem (izņemot šā panta trešajā daļā minētos gadījumus) Iepirkumu uzraudzības birojam var iesniegt līdz koncesijas līguma noslēgšanai šādos termiņos:
 1) 10 dienu laikā pēc dienas, kad šā likuma 36. panta ceturtajā daļā, 43. panta pirmajā daļā, 45. panta pirmajā daļā vai 53. panta trešajā daļā minētā informācija nosūtīta attiecīgajai personai elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, vai pa faksu vai nodota personiski;
 2) 15 dienu laikā pēc dienas, kad šā likuma 36. panta ceturtajā daļā, 43. panta pirmajā daļā, 45. panta pirmajā daļā vai 53. panta trešajā daļā minētā informācija attiecīgajai personai nosūtīta pa pastu;
-3) 10 dienu laikā pēc dienas, kad šā likuma 53.¹ panta pirmajā daļā minētais paziņojums publicēts Eiropas Savienības Oficiālajā Vēstnesī.
+3) 10 dienu laikā pēc dienas, kad šā likuma 53.¹ panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī.
 (3) Iesniegumu attiecībā uz koncesijas procedūras dokumentos iekļautajām prasībām var iesniegt šādos termiņos:
 1) ne vēlāk kā septiņas dienas pirms tam, kad beidzas piedāvājumu iesniegšanas termiņš, - attiecībā uz konkursa bez pretendentu atlases nolikumā un paziņojumā par koncesiju iekļautajām prasībām;
 2) ne vēlāk kā četras darbdienas pirms tam, kad beidzas pieteikumu iesniegšanas termiņš, - attiecībā uz konkursa ar pretendentu atlasi nolikumā minētajiem atlases noteikumiem un paziņojumā par koncesiju konkursa dialoga dokumentos un paziņojumā par koncesiju iekļautajām prasībām;

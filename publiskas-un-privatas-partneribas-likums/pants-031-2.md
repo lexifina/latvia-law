@@ -6,5 +6,5 @@
 4) koncesijas līgums noslēgts, pārkāpjot šā likuma 29. panta sestajā daļā noteikto aizliegumu slēgt koncesijas līgumu.
 (2) Šā panta pirmās daļas 1. vai 2. punktā minētajā gadījumā koncesijas līgumu neatzīst par spēkā neesošu, negroza vai neatceļ tā noteikumus, nesaīsina koncesijas līguma termiņu, lai arī ir pieļauti likuma pārkāpumi, ja vienlaikus ievēroti šādi nosacījumi:
 1) publiskais partneris vai publiskā partnera pārstāvis ir publicējis šā likuma 53.¹ panta pirmajā daļā minēto paziņojumu;
-2) koncesijas līgums tika noslēgts ne agrāk kā pēc 10 dienām un papildus vienas darbdienas pēc dienas, kad šā likuma 53.¹ panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē;
+2) koncesijas līgums tika noslēgts ne agrāk kā pēc 10 dienām un papildus vienas darbdienas pēc dienas, kad šā likuma 53.¹ panta pirmajā daļā minētais paziņojums publicēts Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī;
 3) ir ievērots šā likuma 29. panta sestajā daļā noteiktais aizliegums slēgt koncesijas līgumu.

@@ -4,7 +4,7 @@
 (3) Pieteikumu attiecībā uz šā likuma 31.² panta pirmajā daļā minētajiem pārkāpumiem var iesniegt šādos termiņos:
 1) sešu mēnešu laikā pēc koncesijas līguma noslēgšanas dienas (izņemot šīs daļas 2. punkta "a" un "b" apakšpunktā minētos gadījumus);
 2) 30 dienu laikā pēc dienas, kad:
-a) Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī, ja līgumcena ir vienāda ar Ministru kabineta noteikto līgumcenas robežvērtību vai lielāka par to, publicēts tāds paziņojums par koncesijas piešķiršanu, kurā ir ietverts pamatojums lēmumam piešķirt tiesības slēgt koncesijas līgumu, nepublicējot paziņojumu par koncesiju,
+a) paziņojums par koncesijas piešķiršanu, kurā ir ietverts pamatojums lēmumam piešķirt tiesības slēgt koncesijas līgumu, nepublicējot paziņojumu par koncesiju, ir publicēts Iepirkumu uzraudzības biroja tīmekļvietnē vai Eiropas Savienības Oficiālajā Vēstnesī,
 b) publiskais partneris vai publiskā partnera pārstāvis ir informējis attiecīgo pretendentu par koncesijas līguma noslēgšanu, norādot tam šā likuma 53. panta trešās daļas 1. vai 2. punktā minēto informāciju vai norādot tā iesniegtā pieteikuma noraidīšanas iemeslus.
 (4) Vienlaikus ar pieteikuma iesniegšanu vai lietas izskatīšanas laikā pieteicējs Administratīvā procesa likumā noteiktajos gadījumos un kārtībā var lūgt, lai tiek piemērots pagaidu noregulējums.
 (5) Administratīvās rajona tiesas spriedumu var pārsūdzēt kasācijas kārtībā Augstākās tiesas Senāta Administratīvo lietu departamentā.
