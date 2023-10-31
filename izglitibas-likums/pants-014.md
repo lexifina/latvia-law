@@ -61,4 +61,5 @@ Ministru kabinets:
 45) nosaka attālināto mācību organizēšanas un īstenošanas kārtību;
 46) nosaka kārtību, kādā izglītības iestāžu dibinātāji novērtē izglītības iestāžu vadītāju profesionālo darbību;
 47) nosaka mazākumtautību valodas un kultūrvēstures interešu izglītības programmas paraugu un tās īstenošanas vadlīnijas;
-48) nosaka kritērijus un kārtību, kādā valsts piedalās mazākumtautību valodas un kultūrvēstures interešu izglītības programmas īstenošanā iesaistīto pedagogu darba samaksas un mācību līdzekļu iegādes finansēšanā.
+48) nosaka kritērijus un kārtību, kādā valsts piedalās mazākumtautību valodas un kultūrvēstures interešu izglītības programmas īstenošanā iesaistīto pedagogu darba samaksas un mācību līdzekļu iegādes finansēšanā;
+49) nosaka kārtību, kādā aprēķina un piešķir valsts budžeta finansējumu kultūrizglītības programmas "Latvijas skolas soma" īstenošanai to izglītības iestāžu dibinātājiem, kuras īsteno klātienes pamatizglītības, vispārējās vidējās izglītības, profesionālās pamatizglītības vai profesionālās vidējās izglītības programmas, kā arī programmas attiecināmās izmaksas un finansējuma izlietošanas nosacījumus.
