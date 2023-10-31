@@ -1,6 +1,6 @@
 20.pants. Personas tiesības uz sociālo aprūpi
 (1) Bāreņiem un bez vecāku gādības palikušiem bērniem ir tiesības uz viņu vajadzībām atbilstošu sociālās aprūpes pakalpojumu.
-(2) Personām, kurām funkcionālo traucējumu dēļ ir objektīvas grūtības sevi aprūpēt, ir tiesības uz nepieciešamās aprūpes līmenim atbilstošu sociālās aprūpes pakalpojumu.
+(2) Personām, kurām funkcionālo traucējumu dēļ ir objektīvas grūtības sevi aprūpēt, ir tiesības uz nepieciešamās aprūpes līmenim atbilstošu sociālās aprūpes pakalpojumu, izņemot šā likuma 13. panta pirmās daļas 12.¹ punktā minētās paliatīvajā aprūpē esošās personas, kurām ir tiesības uz to vajadzībām atbilstošu sociālās aprūpes pakalpojumu.
 (3) Ir šādi aprūpes līmeņi:
 1) pirmais aprūpes līmenis - personas fiziskās vai garīgās spējas ir mēreni ierobežotas. Persona spēj un prot veikt pašaprūpi atbilstoši savām vajadzībām un savam veselības stāvoklim; nepieciešams minimāls personāla atbalsts noteiktu stundu skaitu nedēļā. Sociālās aprūpes pakalpojuma sniedzējs nodrošina ārstniecības personas noteikto klienta uzraudzību;
 2) otrais aprūpes līmenis - personas fiziskās vai garīgās spējas ir mēreni vai smagi ierobežotas. Persona spēj un prot veikt pašaprūpi atbilstoši savām vajadzībām un savam veselības stāvoklim, bet ir iespējama spēju vai prasmju pazemināšanās; nepieciešams neliels personāla atbalsts ikdienā. Sociālās aprūpes pakalpojuma sniedzējs nodrošina ārstniecības personas noteikto klienta uzraudzību un novēro funkcionālo traucējumu izmaiņas;

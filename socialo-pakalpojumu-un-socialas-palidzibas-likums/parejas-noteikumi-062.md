@@ -1,0 +1,1 @@
+62. Grozījums šā likuma 4. panta sestajā daļā par finanšu līdzekļu piešķiršanu noteiktam bērna aprūpē iesaistītam darbiniekam bērna ēdiena, apģērba un citu viņa individuālām interesēm atbilstošu preču un pakalpojumu iegādei stājas spēkā 2024. gada 1. jūlijā.

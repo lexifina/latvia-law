@@ -1,0 +1,1 @@
+57. Eiropas Savienības politiku instrumentu ietvaros izmaksas par šā likuma 15.¹ panta 1.² daļas 1. punktā minētajiem bezdarbniekiem ar invaliditāti vai prognozējamu invaliditāti ir attiecināmas no 2023. gada 1. janvāra.

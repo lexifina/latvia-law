@@ -1,0 +1,3 @@
+59. Šā likuma 13. panta pirmās daļas 14. punktā noteikto pakalpojumu pilngadīgām personām ar garīga rakstura traucējumiem, kurām noteikta invaliditāte, ir tiesības saņemt šādā kārtībā:
+1) no 2023. gada 1. novembra - pilngadīgām personām ar garīga rakstura traucējumiem un I vai II invaliditātes grupu;
+2) no 2026. gada 1. janvāra - papildus šā punkta 1. apakšpunktā noteiktajam arī pilngadīgām personām ar garīga rakstura traucējumiem un III invaliditātes grupu. Līdz 2026. gada 1. janvārim pašvaldība atbalsta personas lēmumu pieņemšanā pakalpojumu minētajām personu grupām var nodrošināt par saviem līdzekļiem.

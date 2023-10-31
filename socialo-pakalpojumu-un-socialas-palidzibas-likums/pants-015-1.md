@@ -7,8 +7,8 @@
 5) (izslēgts ar 08.07.2011. likumu);
 6) sniedz no valsts budžeta finansētu tehnisko palīglīdzekļu pakalpojumu - nodrošina transportlīdzekļa pielāgošanu.
 (1¹) Šā panta pirmās daļas 1. punktā minētajām personām šajā likumā noteiktie sociālās rehabilitācijas pakalpojumi (ja nepieciešams, arī veselības aprūpes pakalpojumi) tiek nodrošināti atbilstoši gadskārtējā valsts budžeta likumā šim mērķim piešķirtajiem līdzekļiem. Ministru kabinets nosaka kārtību, kādā karavīri un zemessargi, kuri atgriezušies no starptautiskajām operācijām vai no dalības Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības ātrās reaģēšanas jūras spēku komponentēs, ja karavīrs pildījis dienesta pienākumus uz kuģa jūrā ne mazāk kā trīs mēnešus, šo karavīru un zemessargu laulātie un bērni, kuri nav sasnieguši 18 gadu vecumu vai nav pabeiguši vidējās izglītības iestādi, kā arī karavīru un zemessargu faktiskie partneri, ar kuriem karavīram un zemessargam ir kopīgi bērni vai mājsaimniecība, saņem sociālās rehabilitācijas pakalpojumus, un šo pakalpojumu finansēšanas kārtību.
-(1²) Aģentūra līdz 2027. gada 31. decembrim Eiropas Savienības politiku instrumentu ietvaros:
-1) nosaka profesionālo piemērotību bezdarbniekiem, kuri bijuši bez darba vismaz 12 mēnešus un saņēmuši Nodarbinātības valsts aģentūras nosūtījumu uz profesionālās piemērotības noteikšanu;
+(1²) Aģentūra līdz 2029. gada 31. decembrim Eiropas Savienības politiku instrumentu ietvaros:
+1) nosaka profesionālo piemērotību tiem bezdarbniekiem ar invaliditāti vai prognozējamu invaliditāti, kuri saņēmuši Nodarbinātības valsts aģentūras nosūtījumu uz profesionālās piemērotības noteikšanu;
 2) sniedz profesionālās rehabilitācijas pakalpojumus personām ar garīga rakstura traucējumiem, kurām nav noteikta invaliditāte vai prognozējama invaliditāte.
 (2) Aģentūras darbību regulē nolikums, kurā iekļauj arī koledžu darbību reglamentējošo normatīvo aktu prasības attiecībā uz koledžas nolikumu.
 (3) Aģentūras pedagogu darba samaksu nosaka normatīvie akti par pedagogu darba samaksu.
