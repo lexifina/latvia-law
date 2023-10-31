@@ -40,4 +40,6 @@ Likumā ir lietoti šādi termini:
 38) sociālās rehabilitācijas centrs - sociālās rehabilitācijas institūcija, kurā personām ar funkcionāliem traucējumiem, no psihoaktīvām vielām atkarīgām personām, personām pēc brīvības atņemšanas soda izciešanas un citām personām ar sociālās funkcionēšanas problēmām nodrošina sociālās funkcionēšanas spēju atjaunošanai nepieciešamo sociālo rehabilitāciju;
 39) krīzes situācija - situācija, kurā katastrofas vai citu ārēju notikumu dēļ personai vairs nav iespēju izmantot ierastos problēmu risināšanas veidus, pati saviem spēkiem tā nespēj pārvarēt šo notikumu radītās sekas un tai ir nepieciešama psihosociāla vai materiāla palīdzība;
 40) mājsaimniecība - vairākas personas, kuras dzīvo vienā mājoklī un kopīgi sedz izdevumus, vai viena persona, kura saimnieko atsevišķi;
-41) sociālā funkcionēšana - personas spēja darboties dažādās dzīves jomās un pildīt atbilstošas sociālās lomas, kuras nemitīgi tiek pakļautas apkārtējās vides ietekmei un ietver sabiedrības gaidas un objektīvās prasības.
+41) sociālā funkcionēšana - personas spēja darboties dažādās dzīves jomās un pildīt atbilstošas sociālās lomas, kuras nemitīgi tiek pakļautas apkārtējās vides ietekmei un ietver sabiedrības gaidas un objektīvās prasības;
+42) (punkts stājas spēkā 01.11.2023. un iekļauts likuma redakcijā uz 01.11.2023. Sk. pārejas noteikumu 58. punktu);
+43) (punkts stājas spēkā 01.11.2023. un iekļāuts likuma redakcijā uz 01.11.2023. Sk. pārejas noteikumu 58. punktu).
