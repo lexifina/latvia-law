@@ -1,0 +1,3 @@
+26.¹ pants. Atbalsta personas lēmumu pieņemšanā pakalpojums
+(1) Atbalsta personas lēmumu pieņemšanā pakalpojuma mērķis ir sniegt atbalstu lēmumu pieņemšanā pilngadīgai personai ar garīga rakstura traucējumiem, neiespaidojot šīs personas gribu, izvēles un lēmumus, lai atbalstāmā persona pati spētu neatkarīgi pieņemt lēmumus.
+(2) Pašvaldībai ir tiesības par saviem līdzekļiem nodrošināt atbalsta personas lēmumu pieņemšanā pakalpojumu papildus šā likuma 13. panta pirmās daļas 14. punktā noteiktajām personām arī citām personu grupām. Pašvaldība attiecīgās personu grupas nosaka saistošajos noteikumos.
