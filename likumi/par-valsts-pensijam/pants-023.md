@@ -17,7 +17,7 @@ AS - apdrošināšanas stāžs;
 ASi - mirušā apgādnieka individuālais apdrošināšanas stāžs (kopējais visās valstīs);
 ASie - apdrošināšanas stāžs, kas būtu uzkrāts no apgādnieka nāves dienas līdz vecuma pensijas piešķiršanai nepieciešamā vecuma sasniegšanai;
 ASL - mirušā apgādnieka uzkrātais apdrošināšanas stāžs, kas noteikts saskaņā ar šo likumu.
-(9) Minimālās apgādnieka zaudējuma pensijas apmēru katram bērnam nosaka procentuālā apmērā (noapaļotu līdz veseliem euro) no ienākumu mediānas, un tas ir:
+(9) Minimālās apgādnieka zaudējuma pensijas apmēru katram bērnam, izņemot gadījumu, kad apgādnieka zaudējuma pensija ir piešķirta saskaņā ar šā likuma 3. panta ceturto daļu, nosaka procentuālā apmērā (noapaļotu līdz veseliem euro) no ienākumu mediānas, un tas ir:
 1) bērnam līdz septiņu gadu vecuma sasniegšanai - 25 procentu apmērā no ienākumu mediānas;
 2) bērnam no septiņu gadu vecuma - 30 procentu apmērā no ienākumu mediānas.
 (10) Minimālās apgādnieka zaudējuma pensijas apmēru pārskata atbilstoši likumā "Par sociālo drošību" noteiktajai minimālo ienākumu sliekšņu pārskatīšanas kārtībai.
