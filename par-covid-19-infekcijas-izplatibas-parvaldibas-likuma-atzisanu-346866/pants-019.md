@@ -1,0 +1,1 @@
+Atzīt par spēku zaudējušu Covid-19 infekcijas izplatības pārvaldības likumu (Latvijas Vēstnesis, 2020, 110.A, 140., 193., 211.A, 247.A nr.; 2021, 58., 63.A, 84.B, 102.B, 139., 215.A, 244.B nr.; 2022, 41.A, 57.A nr.).

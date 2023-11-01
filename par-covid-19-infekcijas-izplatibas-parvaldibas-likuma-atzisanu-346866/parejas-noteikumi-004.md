@@ -1,0 +1,1 @@
+4. Tiesvedību lietās, kuru izskatīšana attiecīgās instances tiesā uzsākta līdz šā likuma spēkā stāšanās brīdim, šīs instances tiesa turpina atbilstoši tiesiskajam regulējumam, kas bija noteikts Covid-19 infekcijas izplatības pārvaldības likumā.

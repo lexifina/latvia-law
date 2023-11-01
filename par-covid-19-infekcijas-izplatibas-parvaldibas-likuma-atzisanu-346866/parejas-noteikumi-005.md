@@ -1,0 +1,1 @@
+5. Līdz šā likuma spēkā stāšanās brīdim uzsāktos administratīvā pārkāpuma procesus par Covid-19 infekcijas izplatības pārvaldības likuma 50. panta pirmajā un trešajā daļā minētajiem administratīvajiem pārkāpumiem turpina saskaņā ar Administratīvās atbildības likumā noteikto kārtību.
