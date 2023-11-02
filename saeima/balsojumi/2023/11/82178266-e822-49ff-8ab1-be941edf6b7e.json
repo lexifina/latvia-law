@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 15,
+ "datums": "2023-11-02",
+ "ieraksts": {
+  "dkp_id": "5ca9ce83-6d86-4be6-989d-4cd1538a81db",
+  "lastmodtime": "\"AAAAAAIi1es=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Gundars#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Līga#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##############################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#NA#ZZS#JV#ZZS#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV#ST!# #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#ST!#AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#JV#AS#LPV#LPV#PRO#NA#JV#ZZS#PRO#JV#AS",
+  "RESULT": "Pret#Pret#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "02.11.2023 11:13:01",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Maksātnespējas likumā (416/Lp14), 1.lasījums iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "82178266-e822-49ff-8ab1-be941edf6b7e",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "42",
+  "VOTERESULT_FOR": "53",
+  "VOTERESULT_REGISTERED": "95",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-15-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/de2c20a8-a803-44a2-a8db-02d6819d0401/download/14.saeimas-2023.gada-rudens-sesija-15-vote.xml",
+  "sha256": "60ac359d2573cd3a6423a901617f27bde234d5472bc0a8818f8b2e69c796dc1f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
