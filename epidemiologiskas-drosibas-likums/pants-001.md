@@ -36,4 +36,5 @@ Likumā ir lietoti šādi termini:
 34) zoonoze - infekcijas slimība, ar kuru slimo gan cilvēki, gan dzīvnieki;
 35) pandēmija - epidēmija, kas skar plašas ģeogrāfiskas teritorijas vai kontinentus;
 36) (izslēgts ar 23.10.2014. likumu);
-37) higiēna - nosacījumu un praktisku pasākumu kopums, kas nepieciešams, lai samazinātu vai likvidētu vides faktoru (fizikālo, ķīmisko, bioloģisko) iespējami kaitīgo iedarbību, garantējot drošu un cilvēka veselībai nekaitīgu vidi un pakalpojumu sniegšanu.
+37) higiēna - nosacījumu un praktisku pasākumu kopums, kas nepieciešams, lai samazinātu vai likvidētu vides faktoru (fizikālo, ķīmisko, bioloģisko) iespējami kaitīgo iedarbību, garantējot drošu un cilvēka veselībai nekaitīgu vidi un pakalpojumu sniegšanu;
+38) (punkts stājas spēkā 01.01.2024. un iekļauts likuma redakcijā uz 01.01.2024. Sk. pārejas noteikumu 13. punktu).
