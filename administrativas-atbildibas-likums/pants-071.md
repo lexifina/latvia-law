@@ -8,7 +8,8 @@
 5) Dabas aizsardzības pārvaldes amatpersonas;
 6) Valsts meža dienesta amatpersonas;
 7) Nacionālo bruņoto spēku Jūras spēku amatpersonas, kuras pilda krasta apsardzes funkcijas;
-8) Nacionālo bruņoto spēku Militārā policija.
+8) Nacionālo bruņoto spēku Militārā policija;
+9) Ieslodzījuma vietu pārvaldes amatpersonas.
 (3) Pēc aizturēšanas amatpersona nekavējoties informē aizturēto personu par tās tiesībām.
 (4) Aizturētajai personai ir tiesības:
 1) uzaicināt aizstāvi;

@@ -6,13 +6,14 @@
 4) Datu valsts inspekcijas;
 5) Ekonomikas ministrijas;
 6) Iepirkumu uzraudzības biroja;
+6¹) Ieslodzījuma vietu pārvaldes;
 7) Izložu un azartspēļu uzraudzības inspekcijas;
 8) Izglītības kvalitātes valsts dienesta;
 9) Korupcijas novēršanas un apkarošanas biroja;
 10) Labklājības ministrijas;
 11) Latvijas Nacionālā arhīva;
 12) Latvijas Republikas Uzņēmumu reģistra;
-13) Maksātnespējas administrācijas;
+13) Maksātnespējas kontroles dienesta;
 14) Militārās policijas;
 15) Nacionālās elektronisko plašsaziņas līdzekļu padomes;
 16) Nacionālās kultūras mantojuma pārvaldes;
