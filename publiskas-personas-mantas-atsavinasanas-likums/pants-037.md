@@ -3,7 +3,7 @@
 2) izsoles izmaksas ir lielākas par mantas vērtību;
 3) sarīkotā izsole ir bijusi nesekmīga (32.panta ceturtā daļa);
 4) nekustamo īpašumu iegūst šā likuma 4.panta ceturtajā daļā minētā persona. Šajā gadījumā pārdošanas cena ir vienāda ar nosacīto cenu (8.pants).
-(2) Sludinājums par publiskas personas mantas pārdošanu publicējams institūcijas, kas organizē nekustamā īpašuma atsavināšanu (9.pants), mājaslapā internetā un attiecīgās pašvaldības teritorijā izdotajā vietējā laikrakstā, ja tāds ir.
+(2) Sludinājums par publiskas personas mantas pārdošanu publicējams tās institūcijas mājaslapā internetā, kas organizē nekustamā īpašuma atsavināšanu (9. pants). Informācijas izvietošanai var izmantot arī citus tās paziņošanas veidus, lai informācija sasniegtu pēc iespējas plašāku atsavināšanas pretendentu loku.
 (3) (Izslēgta ar 13.06.2013. likumu)
 (4) Šā panta otrā daļa tiek piemērota gadījumos, kad saskaņā ar šā likuma noteikumiem tiek rīkota publiskas personas mantas izsole.
 (5) Ja nekustamo īpašumu pārdod par brīvu cenu šā likuma 4.panta ceturtajā daļā minētajām personām, institūcija, kas organizē nekustamā īpašuma atsavināšanu (9.pants), nosūta tām atsavināšanas paziņojumu.
