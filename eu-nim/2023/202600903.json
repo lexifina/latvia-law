@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023.gada 7.novembra noteikumi Nr. 635 \"Elektroenerģijas tirdzniecības un lietošanas noteikumi\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2023/218.6",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-09",
+  "entry_into_force": "2023-11-10",
+  "notification_date": "2026-02-03",
+  "commission_reference": "MNE(2026)00903",
+  "nim_celex": "72018L2001LVA_202600903",
+  "nim_id": "202600903",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3c87f95d-0866-477b-8df3-363641e65eed",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
