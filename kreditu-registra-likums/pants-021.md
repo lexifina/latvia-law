@@ -1,3 +1,3 @@
-21.pants. (1) Latvijas Banka nekavējoties, bet ne vēlāk kā triju darbdienu laikā pēc rakstveida pieprasījuma saņemšanas bez maksas rakstveidā izsniedz šā likuma 19. un 20.pantā minētajām personām attiecīgajos pantos minētās reģistrā iekļautās ziņas.
+21.pants. (1) Latvijas Banka nekavējoties, bet ne vēlāk kā triju darbdienu laikā pēc rakstveida pieprasījuma saņemšanas bez maksas rakstveidā izsniedz šā likuma 20.pantā minētajām personām attiecīgajos pantos minētās reģistrā iekļautās ziņas.
 (2) Ja likumā vai starptautiskajā līgumā paredzēts aizliegums par reģistrā iekļauto ziņu pieprasījumu informēt klientu, klienta galvinieku vai citas personas, ziņu pieprasījumā norādāms šis aizliegums un tā pamats. Latvijas Banka, izsniedzot reģistrā iekļautās ziņas, nedrīkst izpaust ziņas par šādu pieprasījumu.
 (3) Šā likuma 19. un 20.pantā minētās personas ir atbildīgas par to, lai reģistrā iekļautās ziņas tiktu pieprasītas un izmantotas saskaņā ar šā likuma noteikumiem.
