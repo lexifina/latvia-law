@@ -2,7 +2,7 @@
 (1) Iesnieguma par uzturlīdzekļu izmaksu paraugu un iesniegumam pievienojamos dokumentus, kā arī kārtību, kādā Fonda administrācija izskata iesniegumu par uzturlīdzekļu izmaksu, nosaka Ministru kabinets.
 (2) Iesniedzējam izmaksājamo uzturlīdzekļu apmēru aprēķina, skaitot no dienas, kad iesniegums iesniegts Fonda administrācijai, izņemot šā likuma 14. panta otrajā daļā minēto gadījumu.
 (2¹) Uzturlīdzekļus no Fonda neizmaksā par periodu, kurā iesniedzējs ir saņēmis uzturlīdzekļus vismaz tādā apmērā, kāds tiktu izmaksāts no Fonda.
-(2²) No Fonda izmaksājamo uzturlīdzekļu apmēru nosaka Ministru kabinets.
+(2²) No Fonda izmaksājamo uzturlīdzekļu apmēru nosaka Ministru kabinets. Ministru kabinets ne retāk kā reizi trijos gados pārskata no Fonda izmaksājamo uzturlīdzekļu apmēru, ievērojot valsts budžeta iespējas.
 (2³) Fonda administrācijas izmaksāto uzturlīdzekļu apmērs nepārsniedz apmēru, kādu paredz tiesas nolēmums vai vienošanās par uzturlīdzekļiem.
 (3) Pilngadīgai personai, kura iegūst pamatizglītību, vidējo izglītību, arodizglītību vai speciālo izglītību, uzturlīdzekļi no Fonda tiek izmaksāti līdz izglītības iegūšanas brīdim, bet ne ilgāk kā līdz 21 gada vecuma sasniegšanai.
 (3¹) Pilngadīgai personai uzturlīdzekļus no Fonda neizmaksā par periodu, kurā tā gūst ienākumus vismaz Ministru kabineta noteiktās minimālās mēnešalgas apmērā.
