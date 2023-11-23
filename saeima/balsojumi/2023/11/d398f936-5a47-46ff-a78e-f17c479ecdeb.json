@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 23,
+ "datums": "2023-11-23",
+ "ieraksts": {
+  "dkp_id": "b383c73a-de1a-4c4c-ab04-2e19ca601773",
+  "lastmodtime": "\"AAAAAAIm7ks=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Ligita#Viktorija#Zanda#Jānis#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Uģis#Gatis#Česlavs#Atis#Māris#Jānis#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Gundars#Jānis#Lauris#Linda#Vilis#Atis#Jānis#Līga#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Gintere#Baire#Kalniņa-Lukaševica#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Mitrevics#Liepiņš#Batņa#Labucis#Kučinskis#Dombrava#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Skrastiņš#Kozlovska#Smiltēns",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#JV#ZZS#ST!#JV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#NA#ZZS#JV#ZZS#LPV#AS#ST!#LPV#NA#JV#ZZS#JV#JV#NA#JV#ST!#JV#NA#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ST!# # #JV#ST!# #AS#NA#JV#AS#JV#AS#NA#AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#JV#AS#LPV#LPV#PRO#JV#ZZS#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.11.2023 14:03:42",
+  "VOTEMOTIVE": "Grozījums Latvijas Republikas valsts robežas likumā (428/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "d398f936-5a47-46ff-a78e-f17c479ecdeb",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "76",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5bf455a6-bde6-4c14-be5b-42af536cadb0/download/14.saeimas-2023.gada-rudens-sesija-23-vote.xml",
+  "sha256": "b363174022fcffa188ffac366fe458a535133ac709e58880f64dfb6d618248c8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
