@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 23,
+ "datums": "2023-11-23",
+ "ieraksts": {
+  "dkp_id": "d5525cc1-aa18-48c0-8e1c-a1e7a2d55518",
+  "lastmodtime": "\"AAAAAAInLnY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ričards#Ingmārs#Edmunds#Artūrs#Agnese#Ligita#Viktorija#Zanda#Jānis#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Nataļja#Oļegs#Dāvis Mārtiņš#Glorija#Juris#Uģis#Gatis#Česlavs#Atis#Māris#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Leila#Gundars#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Līga#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Butāns#Krasta#Gintere#Baire#Kalniņa-Lukaševica#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Marčenko-Jodko#Burovs#Daugavietis#Grevcova#Viļums#Mitrevics#Liepiņš#Batņa#Labucis#Kučinskis#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Smiltēns",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#PRO#ZZS#JV#JV#NA#ZZS#JV#ZZS#LPV#AS#LPV#NA#JV#ZZS#JV#JV#NA#JV#ST!#JV#NA#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ST!# #JV# #AS#NA#JV#AS#JV#AS#AS#AS#JV#NA#ZZS#ZZS#AS#ST!#PRO#ZZS#JV#AS#LPV#LPV#PRO#NA#JV#ZZS#AS",
+  "RESULT": "Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Nebalsoja#Pret#Atturas#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Atturas#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.11.2023 15:39:35",
+  "VOTEMOTIVE": "Par Kristīnes Saulītes atbrīvošanu no Centrālās vēlēšanu komisijas priekšsēdētāja amata (386/Lm14)",
+  "VOTING_ID": "4fdbb047-bcd7-43ac-8c86-38ba3bca2901",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "56",
+  "VOTERESULT_FOR": "13",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "47",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5bf455a6-bde6-4c14-be5b-42af536cadb0/download/14.saeimas-2023.gada-rudens-sesija-23-vote.xml",
+  "sha256": "b363174022fcffa188ffac366fe458a535133ac709e58880f64dfb6d618248c8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
