@@ -7,7 +7,7 @@
 2) patērētājs ir sniedzis nepatiesu informāciju, un pamatkonts tika atvērts, balstoties uz to;
 3) patērētājs vairs neatbilst šā likuma 97.² panta otrajā daļā noteiktajam;
 4) patērētājs ir atvēris citu maksājumu kontu, kas tam Latvijā ļauj izmantot šā likuma 97.³ pantā minētos pakalpojumus;
-5) turpmākā pamatkonta uzturēšana rada kredītiestādei reputācijas riskus;
+5) (izslēgts ar 09.11.2023. likumu);
 6) kredītiestāde izbeidz attiecīgā maksājuma pakalpojuma sniegšanu visiem saviem klientiem - patērētājiem;
 7) ne mazāk kā sešu mēnešu laikā patērētāja parādsaistības par pamatkonta un tā ietvaros sniegto pakalpojumu izmantošanu pārsniedz pamatkonta atlikumu.
 (4) Kredītiestāde nekavējoties izbeidz standartlīgumu par pamatkontu šā panta otrajā daļā minētajos gadījumos, informējot patērētāju par izbeigšanu un tās pamatu, izņemot gadījumus, kad šādas informācijas atklāšana būtu pretrunā ar valsts drošības vai sabiedriskās kārtības interesēm (tai skaitā normatīvo aktu prasībām noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā).
