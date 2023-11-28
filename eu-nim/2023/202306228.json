@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 26. oktobra likums \"Grozījumi Finanšu instrumentu tirgus likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "221",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-14",
+  "entry_into_force": "2023-11-28",
+  "notification_date": "2023-11-29",
+  "commission_reference": "MNE(2023)06228",
+  "nim_celex": "72022R0858LVA_202306228",
+  "nim_id": "202306228",
+  "transposes_celex": [
+    "32022R0858"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c56b481c-6342-443c-809b-91a1d121300b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
