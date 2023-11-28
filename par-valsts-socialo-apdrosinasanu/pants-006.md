@@ -18,7 +18,7 @@
 7) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 8) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
 9) personas, kuras saņem bērna invalīda kopšanas pabalstu;
-10) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
+10) personas, kuras kopj bērnu un saņem vecāku pabalstu;
 11) personas, kuras veic algotos pagaidu sabiedriskos darbus;
 12) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
 13) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais;
@@ -30,14 +30,14 @@
 3) personas, kuras saņem maternitātes, paternitātes vai slimības pabalstu;
 4) personas, kuras saņem atlīdzību par adoptējamā bērna aprūpi;
 5) personas, kuras atrodas attiecīgajā ārvalstī dienesta pienākumus pildoša karavīra laulātā statusā, izņemot gadījumu, kad karavīrs piedalās starptautiskajā operācijā, militārajās mācībās, manevros vai atrodas komandējumā;
-6) personas, kuras kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
+6) personas, kuras kopj bērnu un saņem vecāku pabalstu;
 7) personas, kuru laulātais (kam piešķirts diplomātiskais rangs saskaņā ar Diplomātiskā un konsulārā dienesta likumu) pilda diplomātisko un konsulāro dienestu ārvalstīs un kuras uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro dienestu pildošas personas laulātais;
 8) personas, kuras saņem atlīdzību par audžuģimenes pienākumu pildīšanu;
 9) personas, kuras uzturas attiecīgajā ārvalstī kā Eirojusta pārstāvja vai sakaru virsnieka laulātais;
 10) personas, kuras pilda valsts aizsardzības dienestu tiešo dienesta pienākumu izpildes laikā.
 (5¹) Papildus šā panta pirmajā, otrajā un trešajā daļā minētajām personām invaliditātes apdrošināšanai ir pakļautas personas, kuras:
 1) saņem maternitātes vai paternitātes pabalstu;
-2) kopj bērnu, kas nav sasniedzis gada vai pusotra gada vecumu, un saņem vecāku pabalstu;
+2) kopj bērnu un saņem vecāku pabalstu;
 3) kopj bērnu, kas nav sasniedzis pusotra gada vecumu, un saņem bērna kopšanas pabalstu;
 4) saņem atlīdzību par adoptējamā bērna aprūpi;
 5) saņem atlīdzību par audžuģimenes pienākumu pildīšanu;

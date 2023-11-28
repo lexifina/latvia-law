@@ -1,6 +1,6 @@
 14.pants. Obligāto iemaksu objekts
 (1) Darba devēja un darba ņēmēja obligāto iemaksu objekts ir visi algotā darbā aprēķinātie ienākumi, no kuriem jāietur iedzīvotāju ienākuma nodoklis, neatskaitot neapliekamo minimumu, nodokļu atvieglojumus un attaisnotos izdevumus, par kuriem nodokļu maksātājam ir tiesības samazināt apliekamo ienākumu.
-(2) Pašnodarbinātā obligāto iemaksu objekts ir brīvi izraudzīti ienākumi no saimnieciskās darbības atbilstoši likumam "Par iedzīvotāju ienākuma nodokli", nepiemērojot saimnieciskās darbības izdevumu atskaitīšanas ierobežojumus. Obligāto iemaksu objekta minimālo apmēru un tā noteikšanas kārtību nosaka Ministru kabinets.
+(2) Pašnodarbinātā obligāto iemaksu objekts ir brīvi izraudzīti ienākumi no saimnieciskās darbības atbilstoši likumam "Par iedzīvotāju ienākuma nodokli". Obligāto iemaksu objekta minimālo apmēru un tā noteikšanas kārtību nosaka Ministru kabinets.
 (2¹) Pašnodarbinātā obligāto iemaksu objektā netiek ietverts valsts atbalsts lauksaimniecībai vai Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai un vienreizējā dotācija bezdarbniekiem biznesa plāna īstenošanai.
 (3) To obligāto iemaksu objektu, kuras veicamas no valsts pamatbudžeta un speciālajiem budžetiem, nosaka Ministru kabinets.
 (4) Iekšzemes darba ņēmēja pie darba devēja - ārvalstnieka un ārvalstu darba ņēmēja pie darba devēja - ārvalstnieka obligāto iemaksu objekts ir saņemtā atlīdzība.

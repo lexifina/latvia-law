@@ -1,0 +1,1 @@
+100. Grozījums šā likuma 20.⁴ panta ceturtās daļas 1. punktā un šā likuma 20.⁴ panta trīspadsmitā daļa par veicamo minimālo obligāto iemaksu kopējā apmēra noteikšanu, līdz kuram Valsts sociālās apdrošināšanas aģentūra par iemaksām var neziņot Valsts ieņēmumu dienestam, attiecināmi uz sociālās apdrošināšanas periodu, sākot ar 2024. gada 1. janvāri.
