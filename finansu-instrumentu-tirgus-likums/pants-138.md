@@ -31,7 +31,7 @@
 (4) Īstenojot uzraudzību, Latvijas Banka ir tiesīga:
 1) pieprasīt no jebkuras personas informāciju par tās darbību finanšu tirgū, kā arī uzaicināt jebkuru personu ierasties Latvijas Bankā un sniegt informāciju klātienē;
 2) iepazīties ar Latvijas Bankas uzdevumu un funkciju veikšanai nepieciešamajiem dokumentiem vai citiem datiem jebkādā formā un saņemt to kopijas;
-3) veikt šā likuma 139. panta pirmajā daļā minētās pārbaudes;
+3) (izslēgts ar 26.10.2023. likumu);
 4) pieprasīt un saņemt no finanšu tirgus dalībniekiem telefonsarunu izdrukas, elektroniskās saziņas ierakstus un citu veidu datu pārraides ierakstus;
 5) pieprasīt, lai ieguldījumu brokeru sabiedrību, regulēto tirgu un datu ziņošanas pakalpojumu sniedzēju revidenti sniedz informāciju;
 6) vērsties tiesībaizsardzības iestādēs ar pieteikumu par kriminālprocesa uzsākšanu;

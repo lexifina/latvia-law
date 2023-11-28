@@ -5,9 +5,7 @@
 3) noteiktu darījumu ar finanšu instrumentiem;
 4) kontā iegrāmatotajiem klientam piederošajiem finanšu instrumentiem.
 (2) Konta izrakstos norāda ieguldījumu brokeru sabiedrību vai kredītiestādi identificējošus datus, klientu identificējošus datus, konta numuru, laikposmu, par kuru atspoguļoti darījumi kontā, konta izraksta izsniegšanas datumu, finanšu instrumentu identificējošus datus (nosaukums, ISIN kods), konta sākuma un beigu bilanci, datumu, kurā finanšu instrumenti iegrāmatoti kontā, katra ar finanšu instrumentiem veiktā darījuma rezultātā iegrāmatoto finanšu instrumentu daudzumu un cenu (ja tāda ir zināma), kontā ieskaitīto un no konta norakstīto finanšu instrumentu kopskaitu laikposmā, par kuru izsniegts konta izraksts.
-(3) Ieguldījumu brokeru sabiedrība vai kredītiestāde nodrošina, ka konta izraksts tiek nosūtīts klientam vismaz reizi gadā, ja tajā ietveramā informācija gada laikā klientam nav sniegta citādi. Izrakstā ietverama šāda informācija:
-1) informācija par klientam piederošajiem finanšu instrumentiem, kas iegrāmatoti kontā tā laikposma beigās, par kuru tiek sniegts izraksts. Ja klienta finanšu instrumentu portfelī konta izraksta sniegšanas dienā ir viens vai vairāki nepabeigti darījumi, informāciju par finanšu instrumentiem atspoguļo, piemērojot darījuma dienas vai norēķinu dienas uzskaites veida datus. Izraudzīto uzskaites veidu konta izrakstos piemēro konsekventi;
-2) norāde, vai klienta finanšu instrumenti ir izmantoti vērtspapīru finansēšanas darījumos, un apmērs, kādā tie izmantoti;
-3) labums, ko klients guvis no viņam piederošo finanšu instrumentu izmantošanas vērtspapīru finansēšanas darījumos, un labuma gūšanas pamatojums.
-(4) Ieguldījumu brokeru sabiedrība vai kredītiestāde, kura veic klienta portfeļa pārvaldību, šajā pantā minēto informāciju var iekļaut pārskatā par ieguldījumu pakalpojumu, ko tā sniedz klientam saskaņā ar šā likuma 128.panta vienpadsmitās daļas noteikumiem.
-(5) Ieguldījumu brokeru sabiedrībā atvērtā klienta naudas konta izrakstā norāda attiecīgos datus, kas par finanšu instrumentu kontu sniedz šajā pantā minētajai informācijai līdzvērtīgu informāciju.
+(3) (Izslēgta ar 26.10.2023. likumu)
+(4) (Izslēgta ar 26.10.2023. likumu)
+(5) (Izslēgta ar 26.10.2023. likumu)
+(6) Papildu prasības šā panta noteikumu piemērošanai nosaka Regula Nr. 2017/565.
