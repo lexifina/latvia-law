@@ -1,0 +1,1 @@
+Akciju sabiedrībai "Latvijas Valsts meži" ir koku ciršanas tiesības un īpašuma tiesības uz nocirstajiem kokiem līdz šā likuma spēkā stāšanās dienai izsniegto apliecinājumu koku ciršanai derīguma termiņa beigām.
