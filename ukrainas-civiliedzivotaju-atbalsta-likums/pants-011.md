@@ -1,3 +1,4 @@
-11. pants. Valsts un pašvaldības tiesības ziedot
+11. pants. Publiskas personas tiesības ziedot
 (1) Valstij piekritīgos transportlīdzekļus var nodot bez atlīdzības (ziedot) Ukrainas valdības īpašumā - vispārējam atbalstam Ukrainas sabiedrībai. Lēmumu par valstij piekritīgo transportlīdzekļu nodošanu katrā konkrētajā gadījumā pieņem Ministru kabinets atbilstoši noteikumiem par kārtību, kādā valsts kustamo mantu nodod bez atlīdzības ārvalstu valdību un starpvalstu organizāciju īpašumā.
-(2) Pašvaldībai, pamatojoties uz domes lēmumu, ir tiesības dāvināt (ziedot) finanšu līdzekļus vai mantu Ukrainas sabiedrības vispārējam atbalstam.
+(2) Pašvaldībai, pamatojoties uz domes lēmumu, ir tiesības dāvināt (ziedot) finanšu līdzekļus vai mantu Ukrainas sabiedrības vispārējam atbalstam. Cita atvasināta publiska persona tās valdījumā esošo valsts kustamo mantu var nodot bez atlīdzības (ziedot) Ukrainas sabiedrības vispārējam atbalstam, pamatojoties uz katrā konkrētajā gadījumā pieņemtu Ministru kabineta lēmumu.
+(3) Saeimas valdījumā esošu valsts kustamo mantu var bez atlīdzības nodot (ziedot) Ukrainas sabiedrības vispārējam atbalstam, pamatojoties uz lēmumu, kas katrā konkrētajā gadījumā pieņemts atbilstoši Saeimas kārtības ruļļa noteikumiem par Saeimas saimniecību.
