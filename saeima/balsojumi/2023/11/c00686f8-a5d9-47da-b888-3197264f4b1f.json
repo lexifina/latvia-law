@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 25,
+ "datums": "2023-11-30",
+ "ieraksts": {
+  "dkp_id": "31b22bc2-747f-45f7-9987-8b1d5863b742",
+  "lastmodtime": "\"AAAAAAInglQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Mārtiņš#Andris#Andris#Andrejs#Ainars#Inese#Didzis#Ģirts Valdis#Ģirts#Agnese#Jana#Ligita#Viktorija#Zanda#Ervins#Ilze#Jānis#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Valdis#Līga#Oļegs#Igors#Dāvis Mārtiņš#Glorija#Mārtiņš#Daiga#Gatis#Agita#Atis#Andrejs#Jānis#Anita#Gunārs#Leila#Gundars#Jānis#Atis#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Zemmers#Kristovskis#Štekerhofs#Krasta#Simanovska#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vergina#Reirs#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Kļaviņa#Burovs#Rajevs#Daugavietis#Grevcova#Felss#Mieriņa#Liepiņš#Zariņa-Stūre#Labucis#Judins#Vucāns#Brakovska#Kūtris#Rasima#Daudze#Patmalnieks#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "####################################################",
+  "FRACTION": "PRO#PRO#JV#PRO#JV#ZZS#JV#ZZS#PRO#ZZS#JV#JV#ZZS#JV#ZZS#JV#PRO#ZZS#JV#JV#PRO#JV#JV#JV# #JV#JV#ZZS#JV#ZZS#ZZS#ZZS# # #JV# #JV#ZZS#JV#JV#JV#JV#ZZS#ZZS#ZZS#PRO#ZZS#JV#PRO#JV#ZZS#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.11.2023 15:49:13",
+  "VOTEMOTIVE": "Par Eiropas Padomes Konvenciju par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un apkarošanu (429/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "c00686f8-a5d9-47da-b888-3197264f4b1f",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "2",
+  "VOTERESULT_FOR": "51",
+  "VOTERESULT_REGISTERED": "53",
+  "VOTE_NUMBER": "9",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-25-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/0555893a-6f45-4d75-9ed6-4ce7cd09a6c9/download/14.saeimas-2023.gada-rudens-sesija-25-vote.xml",
+  "sha256": "7bdda5184777aafded781a09e23994534914b3be856e063da5b94eb229008130",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
