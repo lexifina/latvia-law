@@ -3,4 +3,4 @@
 (2) Par pierobežā plānotiem Nacionālo bruņoto spēku vienību vai tiesībaizsardzības iestāžu vienību manevriem vai mācībām, kurās paredzēts izmantot ieročus, militāro vai cita veida speciālo tehniku vai kuģošanas līdzekļus, minēto manevru vai mācību organizators rakstveidā informē Valsts robežsardzi vismaz divas nedēļas pirms šo manevru vai mācību uzsākšanas.
 (3) Valsts robežsardze ir tiesīga aizliegt vai pārtraukt šā panta otrajā daļā minētos manevrus vai mācības, ja attiecīgajā pierobežas joslā vai ārējai robežai piegulošajā kaimiņvalsts teritorijā:
 1) noteikta pastiprināta robežkontrole;
-2) izsludināta ārkārtējā situācija vai izņēmuma stāvoklis.
+2) izsludināts pastiprināts robežapsardzības sistēmas darbības režīms vai izsludināta ārkārtējā situācija vai izņēmuma stāvoklis.
