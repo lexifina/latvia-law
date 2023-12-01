@@ -9,7 +9,7 @@
 7) iesniedzējs miris;
 8) iesniedzējs atteicies saņemt uzturlīdzekļus no Fonda, iesniedzot Fonda administrācijai attiecīgu iesniegumu;
 9) iesniedzējam pārtrauktas vai atņemtas aizgādības tiesības;
-9¹) (punkts stājas spēkā 01.12.2023. un iekļauts likuma redakcijā uz 01.12.2023. Sk. pārejas noteikumu 15. punktu);
+9¹) bāriņtiesa pieņēmusi lēmumu par ģimenes valsts pabalsta izmaksas pārtraukšanu iesniedzējam;
 10) aizbildnis, kuram tiek izmaksāti uzturlīdzekļi no Fonda, beidzis pildīt aizbildņa pienākumus;
 11) iesniedzējs, kuram uzturlīdzekļi tiek izmaksāti no Fonda šā likuma 11. pantā noteiktajā kārtībā, neaprūpē bērnu;
 12) iesniedzējam vai bērnam nav deklarētas dzīvesvietas Latvijas Republikā;
