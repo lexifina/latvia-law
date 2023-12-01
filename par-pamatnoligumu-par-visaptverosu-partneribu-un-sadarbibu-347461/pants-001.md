@@ -1,0 +1,1 @@
+1. pants. 2022. gada 14. decembrī Briselē parakstītais Pamatnolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Taizemes Karalisti, no otras puses (turpmāk - Nolīgums), ar šo likumu tiek pieņemts un apstiprināts.
