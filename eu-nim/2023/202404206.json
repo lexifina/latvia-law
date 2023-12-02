@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 28. novembra noteikumi Nr. 677 \"Noteikumi par izdevumiem, kas saistīti ar patērētāju kolektīvajām prasībām, un izdevumiem, kuri nav atlīdzināmi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "233",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-01",
+  "entry_into_force": "2023-12-02",
+  "notification_date": "2024-10-07",
+  "commission_reference": "MNE(2024)04206",
+  "nim_celex": "72020L1828LVA_202404206",
+  "nim_id": "202404206",
+  "transposes_celex": [
+    "32020L1828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c6547a28-ae41-4179-8317-e4c02d500e29",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
