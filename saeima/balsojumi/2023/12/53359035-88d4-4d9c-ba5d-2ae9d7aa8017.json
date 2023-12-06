@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 27,
+ "datums": "2023-12-06",
+ "ieraksts": {
+  "dkp_id": "4f10e0c6-e807-431e-820f-8ddbcdbd9883",
+  "lastmodtime": "\"AAAAAAInu/k=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Edgars Korčagins",
+  "CANDIDATERESULT": "90:1",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.12.2023 14:47:20",
+  "VOTEMOTIVE": "Par valsts kontroliera iecelšanu",
+  "VOTING_ID": "53359035-88d4-4d9c-ba5d-2ae9d7aa8017",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-27-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/ae015e50-108c-43aa-aa73-c1f8eff2dd0f/download/14.saeimas-2023.gada-rudens-sesija-27-vote.xml",
+  "sha256": "bf6b21f6228734e4b510f448464e71bf6ba720d629d09d9c845a35a8129b1750",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
