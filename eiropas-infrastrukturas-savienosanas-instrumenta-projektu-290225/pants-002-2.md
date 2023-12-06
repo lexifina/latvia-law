@@ -1,0 +1,1 @@
+2. Šā likuma 11. pantu nepiemēro kopīgajam subjektam vai kopīgā subjekta meitasuzņēmumam, kas izveidots pirms 2021. gada 9. augusta, ja minētā kopīgā subjekta vai kopīgā subjekta meitasuzņēmuma publiskā iepirkuma procedūras tiek īstenotas atbilstoši publisko iepirkumu jomu reglamentējošiem normatīvajiem aktiem, kas ir piemērojami iepirkumam minētajā datumā.

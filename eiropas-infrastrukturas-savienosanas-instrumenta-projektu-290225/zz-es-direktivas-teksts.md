@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2021. gada 7. jūlija Direktīvas (ES) 2021/1187 par pasākumu racionalizēšanu ar mērķi veicināt Eiropas transporta tīkla (TEN-T) ieviešanu.

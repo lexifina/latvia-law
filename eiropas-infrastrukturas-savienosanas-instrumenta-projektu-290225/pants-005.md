@@ -13,5 +13,6 @@ b) sagatavo maksājuma rīkojumus un iesniedz tos maksājumu iestādei, lai atba
 9) sniedz sabiedrībai informāciju par projektiem piešķirtā finansējuma izmantošanu.
 (2) Ministru kabinets nosaka:
 1) kārtību, kādā uzraudzības iestāde sniedz viedokli par finansēšanas līguma projektu un tā grozījumiem, ja projekta īstenošanai piešķirts valsts budžeta līdzfinansējums;
-2) projekta īstenošanas uzraudzības kārtību.
+2) projekta īstenošanas uzraudzības kārtību;
+3) Eiropas transporta tīkla projektu atļauju piešķiršanas procedūru organizēšanas un uzraudzības kārtību.
 (3) Satiksmes ministrija un Ekonomikas ministrija nodrošina, lai funkcijas, kuras tās pilda saskaņā ar šo likumu kā uzraudzības iestādes, tiktu nodalītas no citām to funkcijām, arī no funkcijām, kuras tās pilda kā finansējuma saņēmējas.
