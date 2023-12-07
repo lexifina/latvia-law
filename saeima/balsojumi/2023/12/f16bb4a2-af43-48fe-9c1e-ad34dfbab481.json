@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 29,
+ "datums": "2023-12-07",
+ "ieraksts": {
+  "dkp_id": "efb4ff4c-f421-4602-b4ee-d97640fcd4cb",
+  "lastmodtime": "\"AAAAAAIphSE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Ilze#Mairita#Anna#Edmunds#Zane#Juris#Mārtiņš#Andris#Andris#Andrejs#Ainars#Didzis#Ģirts Valdis#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Jana#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Daiga#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Igors#Gundars#Ramona#Jānis#Lauris#Atis#Jānis#Līga#Uģis",
+  "SURNAME": "Šnore#Indriksone#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Bērziņš#Šuvajevs#Vilks#Latkovskis#Zemmers#Kristovskis#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Simanovska#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Judins#Daudze#Petraviča#Patmalnieks#Lizbovskis#Švinka#Skrastiņš#Kozlovska#Rotbergs",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": "NA#NA#PRO#JV#PRO#JV#ZZS#JV#ZZS#PRO#ZZS#JV#ZZS#JV#ZZS#AS#ST!#LPV#NA#JV#PRO#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#JV#ST!# #AS#JV#ZZS#NA#JV#JV#LPV#AS#JV#AS#ST!#AS#AS#JV#ZZS#ZZS#ST!#ZZS#LPV#JV#AS#PRO#JV#ZZS#JV",
+  "RESULT": "Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "07.12.2023 13:33:20",
+  "VOTEMOTIVE": "Grozījums Publiskas personas mantas atsavināšanas likumā (398/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "f16bb4a2-af43-48fe-9c1e-ad34dfbab481",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "66",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "51",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-29-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b40128f6-0d1e-4937-93ae-29a8af0ce541/download/14.saeimas-2023.gada-rudens-sesija-29-vote.xml",
+  "sha256": "89a64adcffdf578657e9bcc1aea9771a3fea16888a0e15b9c7c7ff17811300b9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
