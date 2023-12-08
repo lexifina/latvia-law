@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Energoapgādes izmaksu valsts atbalsta likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "237",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-07",
+  "entry_into_force": "2023-12-08",
+  "notification_date": "2025-12-30",
+  "commission_reference": "MNE(2025)07408",
+  "nim_celex": "72023L1791LVA_202507408",
+  "nim_id": "202507408",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9cac491d-deb9-4b61-8060-f9f4d0766eb7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
