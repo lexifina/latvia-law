@@ -1,5 +1,5 @@
 11. pants. Atbildīgā iestāde, tās pienākumi un tiesības
-(1) Atbildīgās iestādes funkcijas pilda Ekonomikas ministrija, Finanšu ministrija, Iekšlietu ministrija, Izglītības un zinātnes ministrija, Kultūras ministrija, Labklājības ministrija, Satiksmes ministrija, Tieslietu ministrija, Veselības ministrija, Vides aizsardzības un reģionālās attīstības ministrija un Valsts kanceleja.
+(1) Atbildīgās iestādes funkcijas pilda Ekonomikas ministrija, Finanšu ministrija, Iekšlietu ministrija, Izglītības un zinātnes ministrija, Klimata un enerģētikas ministrija, Kultūras ministrija, Labklājības ministrija, Satiksmes ministrija, Tieslietu ministrija, Veselības ministrija, Vides aizsardzības un reģionālās attīstības ministrija un Valsts kanceleja.
 (2) Atbildīgā iestāde, pildot šā panta trešajā daļā noteiktos pienākumus, atrodas finanšu ministra funkcionālā padotībā, ko īsteno pārraudzības formā. Finanšu ministrs pārraudzību īsteno ar pilnvarotās amatpersonas (vadošās iestādes vadītāja) starpniecību.
 (3) Atbildīgajai iestādei ir šādi pienākumi:
 1) piedalīties plānošanas dokumentu izstrādē;
