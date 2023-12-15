@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 12. decembra noteikumi Nr. 729 \"Noteikumi par finansējuma piešķiršanu kvalificētajai institūcijai kolektīvo prasību celšanai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "242",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-14",
+  "entry_into_force": "2023-12-15",
+  "notification_date": "2024-10-07",
+  "commission_reference": "MNE(2024)04205",
+  "nim_celex": "72020L1828LVA_202404205",
+  "nim_id": "202404205",
+  "transposes_celex": [
+    "32020L1828"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/69e6423f-29f9-4ef2-a5f4-b777b57059e2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
