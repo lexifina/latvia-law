@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2023.gada rudens sesija",
+ "sede": 32,
+ "datums": "2023-12-21",
+ "ieraksts": {
+  "dkp_id": "be297b55-5916-4d38-9371-3c76cf756f4b",
+  "lastmodtime": "\"AAAAAAIwlTA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Didzis#Andris#Andrejs#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ingmārs#Viktors#Edmunds#Agnese#Raivis#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Ingrīda#Edmunds#Augusts#Aiva#Dmitrijs#Nataļja#Dāvis Mārtiņš#Glorija#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Edgars#Linda#Andrejs#Jānis#Anita#Edgars#Igors#Raimonds#Leila#Gundars#Jānis#Lauris#Linda#Jānis#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Līdaka#Pučka#Zivtiņš#Krasta#Dzintars#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Circene#Jurēvics#Brigmanis#Vīksna#Kovaļenko#Marčenko-Jodko#Daugavietis#Grevcova#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Tavars#Matisone#Judins#Vucāns#Brakovska#Putra#Judins#Bergmanis#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Skrastiņš#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##########################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#AS#PRO#ZZS#JV#AS#NA#ZZS#JV#ZZS#AS#ST!#LPV#JV#NA#ZZS#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#JV# #JV#JV#ZZS#AS#ST!#ST!#JV# #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#AS#AS#JV#ZZS#ZZS#AS#ST!#AS#PRO#ZZS#JV#AS#LPV#JV#PRO#JV#AS",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.12.2023 13:35:47",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Par Konvenciju par starptautiskām izstādēm (461/Lp14), 1.lasījums",
+  "VOTING_ID": "ce51ed64-a7cd-4349-a463-7364d2a323a1",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "75",
+  "VOTE_NUMBER": "27",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2023.gada rudens sesija-32-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/6ccbadad-897d-4fd6-ad9d-5846dc7f096e/download/14.saeimas-2023.gada-rudens-sesija-32-vote.xml",
+  "sha256": "1e1b263b934a21f26bf6682779364e77e2d0f02995f8c5db9f9ac257376994de",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
