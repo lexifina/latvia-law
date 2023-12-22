@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 19. decembra noteikumi Nr. 804 \"Eiropas Savienības Kohēzijas politikas programmas 2021.–2027. gadam 4.2.2. specifiskā atbalsta mērķa \"Uzlabot izglītības un mācību sistēmu kvalitāti, iekļautību, efektivitāti un nozīmīgumu darba tirgū, tostarp ar neformālās un ikdienējās mācīšanās validēšanas palīdzību, lai atbalstītu pamatkompetenču, tostarp uzņēmējdarbības un digitālo prasmju, apguvi, un sekmējot duālo mācību sistēmu un māceklības ieviešanu\" 4.2.2.9. pasākuma \"Izglītības procesa individualizācija un starpnozaru sadarbība profesionālās izglītības izcilībai\" pirmās projekta iesniegumu atlases kārtas īstenošanas noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "247",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-21",
+  "entry_into_force": "2023-12-22",
+  "notification_date": "2026-01-05",
+  "commission_reference": "MNE(2026)00043",
+  "nim_celex": "72023L1791LVA_202600043",
+  "nim_id": "202600043",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c59391ba-a1df-43cd-9e24-2e7d0d7b01ec",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
