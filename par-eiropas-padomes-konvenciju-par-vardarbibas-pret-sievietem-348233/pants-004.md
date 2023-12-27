@@ -1,0 +1,1 @@
+4. pants. Saskaņā ar Konvencijas 78. panta otro daļu Latvija saglabā tiesības nepiemērot Konvencijas 55. panta pirmo daļu attiecībā uz Konvencijas 35. pantā paredzētajiem maznozīmīgiem miesas bojājumiem.

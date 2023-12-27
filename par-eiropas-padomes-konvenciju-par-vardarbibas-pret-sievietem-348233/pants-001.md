@@ -1,0 +1,1 @@
+1. pants. Eiropas Padomes 2011. gada 11. maija Konvencija par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un apkarošanu (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
