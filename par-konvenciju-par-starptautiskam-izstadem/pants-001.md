@@ -1,0 +1,1 @@
+1. pants. 1928. gada 22. novembra Konvencija par starptautiskām izstādēm, kura papildināta ar 1948. gada 10. maija, 1966. gada 16. novembra un 1972. gada 30. novembra protokoliem un 1982. gada 24. jūnija un 1988. gada 31. maija grozījumiem (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
