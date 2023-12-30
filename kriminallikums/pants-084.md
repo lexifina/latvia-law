@@ -3,5 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
 (2) Par tādām pašām darbībām, ja ar tām radīts būtisks kaitējums, -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
-(3) Par šā panta otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās vai ja to izdarījusi valsts amatpersona, -
+(3) Par šā panta otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās vai ja to izdarījusi valsts amatpersona vai uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīgs darbinieks, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem.
