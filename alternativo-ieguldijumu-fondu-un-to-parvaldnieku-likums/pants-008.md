@@ -11,4 +11,4 @@
 2) pārvaldnieka sākotnējais kapitāls neatbilst šā likuma prasībām;
 3) pārvaldnieks nav iesniedzis šā panta pirmajā daļā noteikto informāciju un dokumentus.
 (5) Pārvaldnieks nekavējoties informē Latvijas Banku par izmaiņām šā panta pirmajā daļā noteiktajā informācijā un dokumentos, ja šīs izmaiņas veiktas, pirms tiek pieņemts lēmums par reģistrāciju.
-(6) Reģistrētu pārvaldnieku sarakstu Latvijas Banka publicē savā mājaslapā internetā.
+(6) Reģistrētu pārvaldnieku sarakstu Latvijas Banka publicē savā tīmekļvietnē.

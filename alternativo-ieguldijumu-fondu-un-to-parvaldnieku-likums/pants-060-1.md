@@ -19,4 +19,4 @@
 3) informāciju par pilnvaroto padomdevēju (Finanšu instrumentu tirgus likuma 1. panta pirmās daļas 106. punkta izpratnē) pakalpojumu izmantošanu.
 (5) Pārvaldnieks papildus šā panta ceturtajā daļā minētajai informācijai publisko savus balsojumus akciju sabiedrības akcionāru sapulcēs. Pārvaldnieks var neatklāt balsojumus, kuri saskaņā ar iesaistīšanās politiku uzskatāmi par maznozīmīgiem.
 (6) Pārvaldnieks var nepiemērot vienu vai vairākas šā panta prasības. Ja pārvaldnieks nepiemēro kādu no šā panta prasībām, tas sniedz informāciju par to, kura prasība netiek piemērota, un šādas rīcības pamatojumu.
-(7) Pārvaldnieks nodrošina šā panta otrajā, trešajā, ceturtajā, piektajā un sestajā daļā minētās informācijas publisku bezmaksas pieejamību savā mājaslapā internetā. Ja pārvaldniekam nav savas mājaslapas internetā, informāciju publicē pārvaldnieka akcionāra mājaslapā internetā.
+(7) Pārvaldnieks nodrošina šā panta otrajā, trešajā, ceturtajā, piektajā un sestajā daļā minētās informācijas publisku bezmaksas pieejamību savā tīmekļvietnē vai pārvaldnieka akcionāra tīmekļvietnē.
