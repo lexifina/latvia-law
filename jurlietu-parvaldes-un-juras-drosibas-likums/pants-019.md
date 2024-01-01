@@ -10,3 +10,4 @@
 4) prasības ostas vai ostas iekārtas personāla apmācības programmu apstiprināšanai un to apstiprināšanas kārtību;
 5) pamatprasības kuģu un kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības apmācībai, vingrinājumiem un mācībām;
 6) prasības kuģu, kuģošanas kompāniju, ostu un ostas iekārtu aizsardzības prasību izpildē iesaistīto institūciju sadarbībai un informācijas apmaiņai, kā arī sadarbības un informācijas apmaiņas kārtību.
+(6) Informācija, kas saistīta ar kuģu, ostu un ostas iekārtu aizsardzību, ir ierobežotas pieejamības informācija.
