@@ -1,3 +1,4 @@
 5.pants. (1) Reģistrā iekļauj, aktualizē un glabā ziņas par Latvijas pilsoņiem, kuri Eiropas Parlamenta, pašvaldības domes vai Saeimas vēlēšanu (turpmāk - vēlēšanas) dienā ir sasnieguši 18 gadu vecumu un ir reģistrēti Fizisko personu reģistrā.
 (1¹) Reģistrā iekļauj, aktualizē un glabā ziņas par tiem Eiropas Savienības pilsoņiem, kuri nav Latvijas pilsoņi, bet ir reģistrēti Fizisko personu reģistrā un kuri pašvaldības domes vēlēšanu dienā ir sasnieguši 18 gadu vecumu.
 (2) Reģistrā iekļauj, aktualizē un glabā ziņas par Eiropas Savienības pilsoņiem, kuri nav Latvijas pilsoņi un Eiropas Parlamenta vēlēšanu dienā ir sasnieguši 18 gadu vecumu, kuri ir reģistrēti Fizisko personu reģistrā vai pieteikušies Ārlietu ministrijā un attiecībā uz kuriem atbilstoši likumam Centrālā vēlēšanu komisija pieņēmusi lēmumu par viņu iekļaušanu Reģistrā.
+(3) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. punktu)

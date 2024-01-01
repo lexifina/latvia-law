@@ -1,1 +1,0 @@
-Grozījums šā likuma 15. panta trešajā daļā par vārdu "Iekšlietu ministrijas Informācijas centrs saskaņā ar Sodu reģistrā" aizstāšanu ar vārdiem "Ieslodzījuma vietu pārvalde saskaņā ar Ieslodzīto informācijas sistēmā" stājas spēkā 2022. gada 1. janvārī.
