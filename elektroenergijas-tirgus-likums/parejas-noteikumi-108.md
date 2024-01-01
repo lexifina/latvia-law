@@ -1,0 +1,7 @@
+108. No 2024. gada 1. janvāra līdz 2025. gada 31. decembrim šā likuma 20. panta trešajā un ceturtajā daļā minēto tarifu vērtību pamata tarifu vērtību kategorijā novirzes līmenis 12 mēnešu periodā sadales sistēmas pakalpojumu tarifu komponentei, kas nav saistīta ar patērētās elektroenerģijas apjomu, sistēmas pieslēgumiem ar spriegumu līdz 0,4 kilovoltiem nepārsniedz:
+1) mājsaimniecības lietotājiem ar vienfāzes pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 16 ampēri - 2,00 euro mēnesī jeb 24,00 euro gadā, neskaitot pievienotās vērtības nodokli;
+2) mājsaimniecības lietotājiem ar vienfāzes pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 20 ampēri - 2,50 euro mēnesī jeb 30,00 euro gadā, neskaitot pievienotās vērtības nodokli;
+3) mājsaimniecības lietotājiem ar vienfāzes pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 25 ampēri - 3,00 euro mēnesī jeb 36,00 euro gadā, neskaitot pievienotās vērtības nodokli;
+4) mājsaimniecības lietotājiem ar trīsfāžu pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 16 ampēri - 4,00 euro mēnesī jeb 48,00 euro gadā, neskaitot pievienotās vērtības nodokli;
+5) mājsaimniecības lietotājiem ar trīsfāžu pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 20 ampēri - 4,50 euro mēnesī jeb 54,00 euro gadā, neskaitot pievienotās vērtības nodokli;
+6) mājsaimniecības lietotājiem ar trīsfāžu pieslēgumu ar ievadaizsardzības aparāta strāvas lielumu 25 ampēri - 6,00 euro mēnesī jeb 72,00 euro gadā, neskaitot pievienotās vērtības nodokli.

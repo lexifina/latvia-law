@@ -1,0 +1,1 @@
+109. Šā likuma pārejas noteikumu 108. punkta piemērošanas rezultātā radušos pamatotos negūtos ieņēmumus sadales sistēmas operators uzskaita atsevišķi un tos nesedz citi sadales sistēmas lietotāji. Regulators pārbauda šādi radušos pamatoto negūto ieņēmumu apmēru. Ministru kabinets lemj par negūto ieņēmumu segšanas kārtību.
