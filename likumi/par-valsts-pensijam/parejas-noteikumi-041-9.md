@@ -1,0 +1,1 @@
+41.⁹ Šo pārejas noteikumu 41.⁷ punkta ievaddaļā minētajām personām, kurām no 2024. gada 1. janvāra ir tiesības uz piemaksu par apdrošināšanas stāžu, kas uzkrāts līdz 1995. gada 31. decembrim, piemaksu piešķir no 2024. gada 1. janvāra un izmaksā vienlaikus ar 2024. gada aprīlī izmaksājamo pensiju.
