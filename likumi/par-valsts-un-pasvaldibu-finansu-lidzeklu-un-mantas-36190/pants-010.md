@@ -4,5 +4,6 @@
 1) dāvinājums (ziedojums) paredzēts kultūras, mākslas, zinātnes, izglītības, sporta, vides vai veselības aizsardzības, kā arī sociālās palīdzības veicināšanai;
 2) pastāv iespēja kontrolēt dāvinājuma (ziedojuma) izlietošanu;
 3) attiecīgā kapitālsabiedrība dāvināšanas (ziedošanas) brīdī ir samaksājusi valstij vai pašvaldībai visus nodokļus un darbiniekiem izmaksājusi algas;
-4) attiecīgā kapitālsabiedrība iepriekšējā pārskata gadā ir strādājusi ar peļņu.
+4) attiecīgā kapitālsabiedrība iepriekšējā pārskata gadā ir strādājusi ar peļņu;
+5) dāvinājums (ziedojums) neietekmēs attiecīgās kapitālsabiedrības uzņemto saistību izpildi atbilstošajā finanšu gadā, tai skaitā valsts aizdevumu atmaksu.
 (3) Dāvinājums (ziedojums) šā likuma izpratnē ir publiskas personas vai kapitālsabiedrības finanšu līdzekļu vai mantas bezatlīdzības nodošana privātpersonas vai citas kapitālsabiedrības īpašumā, kā arī kapitālsabiedrības finanšu līdzekļu vai mantas bezatlīdzības nodošana publiskas personas īpašumā.
