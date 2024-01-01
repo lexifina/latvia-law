@@ -1,1 +1,1 @@
-37. Šā likuma 5.¹ panta pirmās daļas 15. punktā minētās Valsts bērnu tiesību aizsardzības inspekcijas amatpersonas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2020. gada 31. martam.
+37. Šā likuma 5.¹ panta pirmās daļas 15. punktā minētās Bērnu aizsardzības centra amatpersonas, kuras nav apguvušas speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2020. gada 31. martam.

@@ -22,7 +22,7 @@
 9) Labklājības ministrijai;
 10) ārstniecības personām;
 11) Sociālās integrācijas valsts aģentūrai;
-12) Valsts bērnu tiesību aizsardzības inspekcijai;
+12) Bērnu aizsardzības centram;
 13) Valsts robežsardzei;
 14) Pilsonības un migrācijas lietu pārvaldei;
 15) Valsts sociālās apdrošināšanas aģentūrai;

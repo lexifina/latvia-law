@@ -1,5 +1,5 @@
 52.¹ pants. Atbalsts vardarbībā cietušam bērnam
-(1) Lai sniegtu atbalstu vardarbībā cietušiem bērniem un viņu nevardarbīgajiem tuviniekiem, kā arī lai nodrošinātu iespēju veikt kriminālprocesuālās darbības, tiek īstenota starpinstitucionālās sadarbības programma "Bērna māja", kuru nodrošina Valsts bērnu tiesību aizsardzības inspekcija.
+(1) Lai sniegtu atbalstu vardarbībā cietušiem bērniem un viņu nevardarbīgajiem tuviniekiem, kā arī lai nodrošinātu iespēju veikt kriminālprocesuālās darbības, tiek īstenota starpinstitucionālās sadarbības programma "Bērna māja", kuru nodrošina Bērnu aizsardzības centrs.
 (2) Starpinstitucionālās sadarbības programmai "Bērna māja" ir šādi uzdevumi:
 1) vienuviet nodrošināt vardarbībā cietušā bērna labākajām interesēm atbilstošus intervences pasākumus, tai skaitā bērna vajadzību un risku izvērtēšanu, medicīnisko, psiholoģisko un sociālo atbalstu bērnam un tā nevardarbīgajam tuviniekam;
 2) nodrošināt iespēju veikt kriminālprocesuālās darbības bērniem, kuri cietuši no noziedzīgiem nodarījumiem pret tikumību un dzimumneaizskaramību, kā arī no Krimināllikuma 125. panta otrās daļas 9. punktā, 126. panta otrās daļas 7. punktā, 130. panta trešās daļas 6. punktā un 174. pantā minētajiem noziedzīgajiem nodarījumiem;

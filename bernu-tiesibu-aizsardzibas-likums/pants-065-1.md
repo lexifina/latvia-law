@@ -1,2 +1,2 @@
-65.¹ pants. Valsts bērnu tiesību aizsardzības inspekcijas kompetence
-Valsts bērnu tiesību aizsardzības inspekcija uzrauga un kontrolē normatīvo aktu ievērošanu bērnu tiesību aizsardzības jomā. Valsts bērnu tiesību aizsardzības inspektoriem ir tiesības veikt pārrunas un iztaujāt bērnu bez citu personu klātbūtnes. Valsts bērnu tiesību aizsardzības inspekcija atrodas labklājības ministra pārraudzībā.
+65.¹ pants. Bērnu aizsardzības centra kompetence
+Bērnu aizsardzības centrs ir labklājības ministra pārraudzībā esoša tiešās pārvaldes iestāde, kas sniedz atbalstu bērnu aizsardzības jomā bērniem un šā likuma 5. pantā minētajiem bērna tiesību aizsardzības subjektiem un uzrauga bērnu tiesību un interešu ievērošanu. Bērnu aizsardzības centra vecākajiem ekspertiem ir tiesības veikt pārrunas ar bērnu bez citu personu klātbūtnes, iepriekšējas saskaņošanas un likumiskā pārstāvja piekrišanas.

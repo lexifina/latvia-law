@@ -1,0 +1,1 @@
+54. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos lietotais termins "Valsts bērnu tiesību aizsardzības inspekcija" (attiecīgā locījumā) atbilst šajā likumā lietotajam terminam "Bērnu aizsardzības centrs" (attiecīgā locījumā).
