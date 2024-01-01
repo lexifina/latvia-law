@@ -4,6 +4,7 @@
 (3) Šā panta pirmo daļu nepiemēro, ja tiek izpildīti visi šādi nosacījumi:
 1) pakalpojumu sniedzējs veic saimniecisko darbību tikai vienā dalībvalstī, vai, ja neveic saimniecisko darbību, pakalpojumu sniedzēja deklarētā dzīvesvieta vai pastāvīgās uzturēšanās vieta ir tikai vienā dalībvalstī;
 2) pakalpojumus sniedz personām, kuras nav nodokļa maksātājas un kuras ir reģistrētas jebkurā dalībvalstī, kas nav šīs daļas 1. punktā minētā dalībvalsts, vai kurām tajā ir deklarētā dzīvesvieta vai pastāvīgās uzturēšanās vieta;
-3) šīs daļas 2. punktā minēto sniegto pakalpojumu kopējā vērtība bez nodokļa iepriekšējā vai kārtējā kalendāra gadā nepārsniedz 10 000 euro.
-(4) Ja kalendāra gadā šā panta trešās daļas 3. punktā minētā robežvērtība ir pārsniegta, elektronisko sakaru, apraides un elektroniski sniegta pakalpojuma sniegšanas vietu no robežvērtības pārsniegšanas brīža nosaka atbilstoši šā panta pirmajai daļai.
+3) šīs daļas 2. punktā minēto sniegto pakalpojumu kopējā vērtība bez nodokļa iepriekšējā vai kārtējā kalendāra gadā nepārsniedz 10 000 euro;
+4) šīs daļas 2. punktā minēto sniegto pakalpojumu un šā likuma 13.¹ panta otrās daļas 2. punktā minēto piegādāto preču kopējā vērtība bez nodokļa iepriekšējā vai kārtējā kalendāra gadā nepārsniedz 10 000 euro, ja šīs daļas 1. punktā minētais pakalpojumu sniedzējs sniedz elektronisko sakaru, apraides un elektroniski sniegtus pakalpojumus un veic preču tālpārdošanu Eiropas Savienības teritorijā.
+(4) Ja kalendāra gadā šā panta trešās daļas 3. vai 4. punktā minētā robežvērtība ir pārsniegta, elektronisko sakaru, apraides un elektroniski sniegta pakalpojuma sniegšanas vietu no robežvērtības pārsniegšanas brīža nosaka atbilstoši šā panta pirmajai daļai.
 (5) Šā panta trešajā daļā minētajam pakalpojuma sniedzējam ir tiesības noteikt pakalpojumu sniegšanas vietu saskaņā ar šā panta pirmo daļu, un šī izvēle tam ir saistoša vismaz divus kalendāra gadus.
