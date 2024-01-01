@@ -2,7 +2,7 @@
 1. Darba devēja pienākums ir šajā likumā noteiktajos termiņos un kārtībā:
 1) aprēķināt, ieturēt un iemaksāt budžetā algas nodokli no darbiniekam izmaksātajām summām;
 2) informēt darbinieku un Valsts ieņēmumu dienestu par taksācijas gadā darbiniekam izmaksātajām summām un no tām budžetā iemaksāto algas nodokli;
-3) uzglabāt darba samaksas aprēķināšanu un izmaksu apliecinošus dokumentus likuma "Par grāmatvedību" 10.pantā noteikto termiņu;
+3) uzglabāt darba samaksas aprēķināšanu un izmaksu apliecinošus dokumentus Grāmatvedības likuma 28. pantā noteikto termiņu;
 4) par iedzīvotāju ienākuma nodokļa summām, kas ieturētas vai aprēķinātas no darbinieku darba ienākuma un iemaksājamas budžetā līdz ienākuma izmaksas mēneša 23. datumam, iesniegt ziņojumu Valsts ieņēmumu dienestam termiņā, kāds darba devējam atbilstoši likumam "Par valsts sociālo apdrošināšanu" ir noteikts ziņojuma iesniegšanai par valsts sociālās apdrošināšanas obligātajām iemaksām;
 5) par nerezidentiem ieturēto nodokli no ienākumiem, no kuriem saskaņā ar šā likuma 17.panta divpadsmitās daļas noteikumiem ir jāietur nodoklis izmaksas vietā, iesniegt pārskatu līdz nākamā mēneša 15.datumam;
 6) par katru mēnesi ieturēto un budžetā ieskaitīto nodokli no fizisko personu tāda ienākuma, no kura nodoklis ieturams izmaksas vietā, iesniegt Valsts ieņēmumu dienestam pārskatu līdz nākamā mēneša piecpadsmitajam datumam;
