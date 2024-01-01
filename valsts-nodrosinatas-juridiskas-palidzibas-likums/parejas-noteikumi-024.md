@@ -1,0 +1,1 @@
+24. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos lietotais termins "Juridiskās palīdzības administrācija" (attiecīgā locījumā) atbilst šajā likumā lietotajam terminam "Tiesu administrācija" (attiecīgā locījumā).

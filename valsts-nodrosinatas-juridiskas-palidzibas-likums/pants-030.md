@@ -15,5 +15,5 @@ b) nodrošina, ka juridisko palīdzību sniedz persona, kas atbilst šā panta p
 c) tam nav pasludināts vai uzsākts maksātnespējas vai likvidācijas process,
 d) tam nav nodokļu un valsts sociālās apdrošināšanas obligāto iemaksu parādu,
 e) tā profesionālajā darbībā nav konstatētas pretlikumīgas darbības.
-(2) Šā panta pirmajā daļā minētās personas var sniegt juridisko palīdzību pēc juridiskās palīdzības līguma noslēgšanas ar Juridiskās palīdzības administrāciju.
+(2) Šā panta pirmajā daļā minētās personas var sniegt juridisko palīdzību pēc juridiskās palīdzības līguma noslēgšanas ar Tiesu administrāciju.
 (3) (Izslēgta ar 03.05.2012. likumu)

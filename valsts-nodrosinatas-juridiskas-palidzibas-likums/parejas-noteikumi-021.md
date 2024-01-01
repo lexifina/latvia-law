@@ -1,0 +1,1 @@
+21. Juridiskās palīdzības administrācijā līdz 2023. gada 31. decembrim iesniegto un neizskatīto iesniegumu izskatīšanu nodrošina Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja.

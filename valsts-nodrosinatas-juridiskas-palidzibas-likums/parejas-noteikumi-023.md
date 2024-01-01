@@ -1,0 +1,1 @@
+23. Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja iestājas kā līgumslēdzēja puse līdz 2023. gada 31. decembrim noslēgtajos juridiskās palīdzības līgumos ar juridiskās palīdzības sniedzējiem.

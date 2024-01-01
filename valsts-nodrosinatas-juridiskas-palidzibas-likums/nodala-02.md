@@ -1,2 +1,2 @@
 II nodaļa
-Juridiskās palīdzības administrācija
+Juridiskās palīdzības nodrošināšana
