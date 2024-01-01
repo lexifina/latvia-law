@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 9. novembra likums \"Grozījumi Pievienotās vērtības nodokļa likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "226",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-22",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2023-11-29",
+  "commission_reference": "MNE(2023)06223",
+  "nim_celex": "72020L0284LVA_202306223",
+  "nim_id": "202306223",
+  "transposes_celex": [
+    "32020L0284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/07c5584d-b412-430b-ae09-95228c7f6e7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
