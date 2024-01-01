@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 19. decembra noteikumi Nr. 821 \"Noteikumi par atļaujām jaunas elektroenerģijas ražošanas iekārtas ieviešanai vai elektroenerģijas ražošanas jaudas palielināšanai\".",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "821",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-28",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-02-16",
+  "commission_reference": "MNE(2024)00856",
+  "nim_celex": "72018L2001LVA_202400856",
+  "nim_id": "202400856",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c378745-0678-4896-a212-d251c921ee0a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
