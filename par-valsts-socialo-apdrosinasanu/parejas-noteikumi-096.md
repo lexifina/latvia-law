@@ -1,1 +1,1 @@
-96. Persona, kura saņem ienākumu no intelektuālā īpašuma, veic minimālās obligātās iemaksas valsts pensiju apdrošināšanai 10 procentu apmērā no starpības līdz obligāto iemaksu objekta minimālajam apmēram par periodu no 2022. gada 1. janvāra līdz 2023. gada 31. decembrim.
+96. Persona, kura saņem ienākumu no intelektuālā īpašuma, veic minimālās obligātās iemaksas valsts pensiju apdrošināšanai 10 procentu apmērā no starpības līdz obligāto iemaksu objekta minimālajam apmēram par periodu no 2022. gada 1. janvāra līdz 2024. gada 31. decembrim.
