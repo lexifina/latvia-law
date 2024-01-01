@@ -12,7 +12,7 @@
 2) attiecīgajā teritorijā esošo dabas resursu [tostarp augsnes, zemes dzīļu, ūdens un bioloģiskās daudzveidības (īpaši ņemot vērā aizsargājamās sugas, to dzīvotnes, īpaši aizsargājamos un Eiropas Savienības nozīmes biotopus)] relatīvais daudzums, pieejamība un pietiekamība, kvalitāte un atjaunošanās iespējas;
 3) dabiskās vides absorbcijas spēja, kas vērtējama, pievēršot īpašu uzmanību:
 a) starptautiskas nozīmes mitrājiem, virszemes ūdensobjektu aizsargjoslām un upju grīvām,
-b) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslai un jūras videi,
+b) Baltijas jūras un Rīgas līča piekrastes aizsargjoslai un jūras videi,
 c) ar mežu klātām teritorijām,
 d) īpaši aizsargājamām dabas teritorijām un mikroliegumiem,
 e) aizsargjoslām ap pazemes ūdens ņemšanas vietām,

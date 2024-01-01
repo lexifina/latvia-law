@@ -11,5 +11,14 @@
 9) kapsētu ierīkošana [arī mājas (istabas) dzīvnieku kapsētu ierīkošana];
 10) iekārtu būvniecība tādu dzīvnieku izcelsmes blakusproduktu pārstrādei, kuri nav paredzēti izmantošanai pārtikā;
 11) bīstamo atkritumu šķirošanas laukumi;
-12) ēku un būvju būvniecība, pārbūve, atjaunošana un restaurācija Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā;
-13) grunts novietņu ierīkošana aizsargājamās jūras teritorijās, izņemot aizsargājamās jūras teritorijas "Nida-Pērkone" un "Rīgas līča rietumu piekraste.
+12) ēku un būvju būvniecība, pārbūve, atjaunošana un restaurācija Baltijas jūras un Rīgas līča piekrastes krasta kāpu aizsargjoslā, izņemot:
+a) esošo ēku vai būvju restaurāciju un atjaunošanu, nemainot lietošanas veidu,
+b) esošo ēku vai būvju pārbūvi, nepalielinot būves vai tās daļas apjomu un nemainot lietošanas veidu, ja tām ir nodrošināta piekļuve,
+c) pilsētās un ciemos sezonas būvju novietošanu pludmalē, ja attiecīgajam pludmales posmam ir nodrošināta piekļuve,
+d) pludmales labiekārtojuma elementu un atsevišķu labiekārtojuma elementu ierīkošanu pilsētu un ciemu publiskajā ārtelpā,
+e) ne vairāk kā divus metrus platu gājēju ceļu ar mīksto segumu vai koka dēļu klājumu būvniecību, pārbūvi vai atjaunošanu;
+13) grunts novietņu ierīkošana aizsargājamās jūras teritorijās, izņemot aizsargājamās jūras teritorijas "Nida-Pērkone" un "Rīgas līča rietumu piekraste;
+14) būvju būvniecība bakterioloģiskajā aizsargjoslā ap ūdens ņemšanas vietām, izņemot:
+a) esošo būvju pārbūvi un atjaunošanu vai jaunu būvju būvniecību, ja paredzēta pievienošanās centralizētajai ūdensapgādes sistēmai un centralizētajai kanalizācijas sistēmai,
+b) pirmās grupas būvju būvniecību, pārbūvi un atjaunošanu,
+c) esošo būvju restaurāciju vai nojaukšanu.
