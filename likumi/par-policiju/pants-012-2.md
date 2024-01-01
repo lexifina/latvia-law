@@ -1,0 +1,8 @@
+12.² pants. Lēmums par izceļošanas aizliegumu
+Valsts policijas priekšnieka pilnvarotais darbinieks nekavējoties var pieņemt lēmumu par aizliegumu neaizsargātai personai uz laiku līdz četriem mēnešiem izceļot no Latvijas Republikas, ja konstatēti visi turpmāk minētie apstākļi:
+1) saņemta informācija vai iesniegums, kas liecina par šā likuma 12. panta pirmās daļas 30.¹ punktā minēto nosacījumu esību - neaizsargātas personas dzīvība, veselība vai drošība var tikt apdraudēta;
+2) nepastāv citi alternatīvi personas tiesības un likumiskās intereses mazāk ierobežojoši līdzekļi, ar kuriem būtu iespējams novērst attiecīgo apdraudējumu.
+Valsts policijas priekšnieka pilnvarotā darbinieka lēmums stājas spēkā tā pieņemšanas brīdī. Lēmuma apstrīdēšana neaptur tā darbību.
+Valsts policija par pieņemto lēmumu par aizliegumu neaizsargātai personai izceļot no Latvijas Republikas nekavējoties, bet ne vēlāk kā nākamajā dienā informē Pilsonības un migrācijas lietu pārvaldi.
+Valsts policijas priekšnieks apstrīdēšanas iesniegumu izskata un lēmumu pieņem 10 dienu laikā. Pieteikuma iesniegšana tiesā neaptur lēmuma par aizliegumu neaizsargātai personai izceļot no Latvijas Republikas darbību.
+Ministru kabinets nosaka ziņu apjomu, kas par neaizsargātu personu, attiecībā uz kuru pieņemts lēmums par liegumu izceļot no Latvijas Republikas, un par bērnu, attiecībā uz kuru tiesa ir pieņēmusi lēmumu par aizliegumu viņu izvest no valsts, iekļaujams Personu izceļošanas un izvešanas liegumu reģistrā, kā arī šo ziņu iekļaušanas kārtību, glabāšanas termiņus, dzēšanas kārtību un institūcijas, kurām piešķirama piekļuve reģistrā iekļautajām ziņām.
