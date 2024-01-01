@@ -1,0 +1,1 @@
+66. Pilnvarnieks (pārvaldnieks) šā likuma 18.⁴ panta otrajā daļā noteiktās ziņas par juridiskā veidojuma patieso labuma guvēju iekļaušanai juridisko veidojumu patieso labuma guvēju reģistrā sāk sniegt 2024. gada 2. janvārī.

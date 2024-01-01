@@ -1,0 +1,1 @@
+67. Grozījumi šā likuma 1. panta 2.², 2.³ punktā, 2.⁴ punkts, grozījumi 3. panta pirmās daļas 11. punktā, 11. panta pirmās daļas 7. punktā, 11.² pants, kā arī grozījumi 45. panta otrās daļas 6. punkta "e" apakšpunktā stājas spēkā 2024. gada 1. jūlijā.
