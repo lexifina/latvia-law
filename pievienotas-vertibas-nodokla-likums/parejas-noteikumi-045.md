@@ -1,0 +1,1 @@
+45. Grozījumi attiecībā uz šā likuma 105. panta otrajā daļā noteikto zaudētā parāda vērtību vienam preču vai pakalpojumu saņēmējam ir attiecināmi uz tiem nodokļa rēķiniem, kas izrakstīti, sākot ar 2024. gada 1. janvāri.

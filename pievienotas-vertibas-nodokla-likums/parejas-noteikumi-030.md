@@ -1,1 +1,1 @@
-30. Šā likuma 41. panta pirmās daļas 2. punkta "b" apakšpunkts, 42. panta sešpadsmitā daļa un šā likuma pielikums ir spēkā līdz 2023. gada 31. decembrim.
+30. Šā likuma 42. panta sešpadsmitā daļa, kas paredz nodokļa samazinātās likmes 12 procentu apmērā piemērošanu tādu pārtikas produktu piegādēm, kuri ir šā likuma pielikumā minētie svaigie augļi, ogas un dārzeņi, tostarp mazgāti, mizoti, lobīti, griezti un fasēti, bet nav apstrādāti termiski vai kā citādi (piemēram, saldēti, sālīti, kaltēti), un šā likuma pielikums ir spēkā līdz 2024. gada 31. decembrim.

@@ -38,6 +38,6 @@
 (13) Ja fiziskā persona pērk un patērē siltumenerģiju un koksnes kurināmo saimnieciskās darbības, arī savas profesionālās darbības, vajadzībām, tā paziņo par siltumenerģijas un koksnes kurināmā lietošanas mērķi piegādātājam vai personai, kas nodrošina dzīvojamās mājas pārvaldīšanu.
 (14) Dzīvokļu pārvaldes, namu pārvaldes, namīpašnieki un citas personas, kuras atbilstoši noslēgtajam līgumam no iedzīvotājiem saņem maksu par šā panta vienpadsmitajā un divpadsmitajā daļā piegādātajām precēm kopā ar nodokli un pilnā apmērā to pārskaita reģistrētiem nodokļa maksātājiem, kas piegādājuši šīs preces vai snieguši šos pakalpojumus, izrakstot nodokļa rēķinus iedzīvotājiem, piemēro nodokļa samazināto likmi 12 procentu apmērā.
 (15) (Izslēgta ar 22.11.2017. likumu)
-(16) Nodokļa samazināto likmi piecu procentu apmērā piemēro tādu pārtikas produktu piegādēm, kuri ir šā likuma pielikumā minētie svaigie augļi, ogas un dārzeņi, tostarp mazgāti, mizoti, lobīti, griezti un fasēti, bet nav apstrādāti termiski vai kā citādi (piemēram, saldēti, sālīti, kaltēti).
+(16) Nodokļa samazināto likmi 12 procentu apmērā piemēro tādu pārtikas produktu piegādēm, kuri ir šā likuma pielikumā minētie svaigie augļi, ogas un dārzeņi, tostarp mazgāti, mizoti, lobīti, griezti un fasēti, bet nav apstrādāti termiski vai kā citādi (piemēram, saldēti, sālīti, kaltēti).
 (17) (Zaudējusi spēku ar 01.01.2023. Sk. Pārejas noteikumu 38. punktu)
 (18) (Zaudējusi spēku ar 01.01.2023. Sk. Pārejas noteikumu 38. punktu)
