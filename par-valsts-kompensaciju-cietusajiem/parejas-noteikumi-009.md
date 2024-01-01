@@ -1,0 +1,1 @@
+9. Juridiskās palīdzības administrācijas izdotu un spēkā esošu administratīvo aktu izpildi, nodrošinot pakalpojumu saņemšanu, kā arī to naudas līdzekļu piedziņu, kuri saistīti ar cietušajiem izmaksāto kompensāciju, ar 2024. gada 1. janvāri nodrošina Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja.

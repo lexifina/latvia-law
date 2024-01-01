@@ -1,5 +1,5 @@
-4. pants. Juridiskās palīdzības administrācijas uzdevumi
-(1) Juridiskās palīdzības administrācija:
+4. pants. Tiesu administrācijas uzdevumi valsts kompensācijas nodrošināšanā cietušajiem
+(1) Tiesu administrācija valsts kompensācijas nodrošināšanā cietušajiem:
 1) izmaksā valsts kompensāciju atbilstoši šim likumam;
 2) izveido un uztur valsts kompensācijas reģistru;
 3) nodrošina izmaksātās valsts kompensācijas summas piedziņu no cietušā;

@@ -1,5 +1,5 @@
 8. pants. Valsts kompensācijas pieprasījums un tam pievienojamie dokumenti
-(1) Lai saņemtu valsts kompensāciju, cietušais iesniedz Juridiskās palīdzības administrācijai valsts kompensācijas pieprasījumu - aizpildītu valsts kompensācijas pieprasījuma veidlapu, kuras paraugu apstiprina Ministru kabinets.
+(1) Lai saņemtu valsts kompensāciju, cietušais iesniedz Tiesu administrācijai valsts kompensācijas pieprasījumu - aizpildītu valsts kompensācijas pieprasījuma veidlapu, kuras paraugu apstiprina Ministru kabinets.
 (2) Ja valsts kompensācijas pieprasīšanas brīdī kriminālprocesā nav pieņemts galīgais nolēmums, cietušais valsts kompensācijas pieprasījuma veidlapai pievieno procesa virzītāja izziņu, kurā norādīts:
 1) noziedzīgā nodarījuma izdarīšanas laiks un vieta;
 2) noziedzīgā nodarījuma kvalifikācija, izziņas izsniegšanas brīdī konstatētā noziedzīgā nodarījuma izdarītāja vainas forma, kriminālprocesa uzsākšanas datums un krimināllietas numurs;
@@ -10,4 +10,4 @@
 7) informācija par noziedzīga nodarījuma izdarītāju kriminālprocesā, ja šādas informācijas izpaušana netraucē patiesības noskaidrošanu lietā;
 8) to personu skaits, kuras atzītas par cietušajiem tajā pašā kriminālprocesā sakarā ar iestājušos personas nāvi, un informācija par šīm personām (vārds, uzvārds, personas kods, kriminālprocesā norādītā personas dzīvesvietas adrese, kontaktinformācija, kā arī datums, kad persona atzīta par cietušo).
 (3) Ja kriminālprocess ir pabeigts vai stājies spēkā procesa virzītāja lēmums par kriminālprocesa izbeigšanu personu nereabilitējošu apstākļu dēļ, cietušais valsts kompensācijas pieprasījuma veidlapai pievieno spēkā stājušos galīgo procesa virzītāja nolēmumu. Ja tiesas spriedumā vai procesa virzītāja galīgajā nolēmumā cietušajam kriminālprocesuālajā vai civilprocesuālajā kārtībā noteiktais atlīdzinājums par noziedzīga nodarījuma rezultātā radīto kaitējumu nav izpildīts vai izpildīts nepilnīgi, procesa virzītāja galīgajam nolēmumam pievieno izpildu dokumentu vai informē, kuram zvērinātam tiesu izpildītājam tas iesniegts piespiedu izpildei.
-(4) Cietušais Juridiskās palīdzības administrācijā var bez maksas saņemt valsts kompensācijas pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu.
+(4) Cietušais Tiesu administrācijā var bez maksas saņemt valsts kompensācijas pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu.
