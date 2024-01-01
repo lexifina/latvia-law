@@ -1,0 +1,1 @@
+47. Šā likuma grozījumi par 12. panta otrās daļas izslēgšanu un trešās daļas izteikšanu jaunā redakcijā un 1. pielikuma 19. punkts attiecībā uz nodokļa likmi par ogļūdeņražu ieguvi stājas spēkā vienlaikus ar grozījumiem likumā "Par zemes dzīlēm", kas paredz atteikties no dabas resursu lietošanas atļaujas un izslēgt valsts nodevu par ogļūdeņražu ieguvi.

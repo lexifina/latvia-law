@@ -4,5 +4,5 @@
 (3) Nodokļa maksātājs nodrošina iegūto un izmantoto dabas resursu un piesārņojuma apjoma uzskaiti.
 (4) Nodokli par dabas resursu ieguvi un lietošanu limitos noteiktajos apjomos aprēķina saskaņā ar šā likuma pielikumos noteiktajām likmēm.
 (5) Ja nodokļa maksātājs taksācijas periodā dabas resursus ieguvis vai lietojis mazāk par noteikto limitu, bet nevar pierādīt faktisko apjomu, nodokli maksā par limitam atbilstošu dabas resursu ieguves vai piesārņojuma veidu un apjomu.
-(6) Ja nodokļa maksātājs taksācijas periodā nav ieguvis dabas resursus, to norāda uzskaites dokumentos un taksācijas perioda beigās par to informē reģionālo vides pārvaldi. Šajā gadījumā nodoklis par attiecīgo taksācijas periodu nav jāmaksā.
+(6) Ja nodokļa maksātājs taksācijas periodā nav ieguvis dabas resursus, to norāda pārskatā par aprēķināto dabas resursu nodokli.
 (7) Nodokli aprēķina un maksā par bieži sastopamo derīgo izrakteņu ieguves atļaujā vai zemes dzīļu izmantošanas licencē iekļautajiem derīgajiem izrakteņiem un par derīgo izrakteņu ieguves procesā iegūtajiem blakusproduktiem, kuru ieguve nav iekļauta bieži sastopamo derīgo izrakteņu ieguves atļaujā vai zemes dzīļu izmantošanas licencē, bet par kuriem nodoklis ir jāmaksā atbilstoši šā likuma 1.pielikumam.

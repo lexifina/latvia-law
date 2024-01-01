@@ -1,0 +1,1 @@
+44. Šā likuma 3. panta pirmās daļas 2. punkta "f" apakšpunkta, 4. panta pirmās daļas 13. punkta, 26.² panta un 27. panta pirmās daļas noteikumus šo pārejas noteikumu 43. punktā minētajā redakcijā attiecībā uz dabas resursu nodokļa piemērošanu mitrajām salvetēm, baloniem un plastmasu saturošiem zvejas rīkiem piemēro no 2025. gada 1. janvāra.

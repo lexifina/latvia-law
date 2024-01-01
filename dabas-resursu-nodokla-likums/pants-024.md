@@ -15,6 +15,9 @@
 (4) Nodokļa maksātājs, kurš maksā nodokli par iepakojumu un kuram atbilstoši vides aizsardzības normatīvajiem aktiem nav jāveic izlietotā iepakojuma pārstrāde un reģenerācija, nodokli aprēķina atbilstoši šā likuma 7.pielikumā noteiktajām nodokļa likmēm par katru iepakojuma materiāla veida svara vienību vai, ja nevar nodrošināt iepakojuma materiāla veida un svara pamatošanu ar uzskaites dokumentiem, - 120 euro gadā.
 (5) Plastmasas iepirkumu maisiņiem šā likuma 4.panta piektajā daļā minētajā gadījumā piemēro šādu nodokļa likmi:
 1) vieglās plastmasas iepirkumu maisiņiem - 4,80 euro par vienu kilogramu;
-2) plastmasas iepirkumu maisiņiem, kuru materiāla biezums ir lielāks par 50 mikroniem - 1,50 euro par vienu kilogramu.
+2) plastmasas iepirkumu maisiņiem, kuru materiāla biezums ir vienāds ar 50 mikroniem vai lielāks, - 1,50 euro par vienu kilogramu.
 (6) Iepakojumam un vienreiz lietojamiem galda traukiem un piederumiem, uz kuriem nav norādīta normatīvajos aktos noteiktā informācija (marķējums), piemēro nodokļa likmi, kas noteikta šā likuma 7.pielikuma 2.punktā iepakojumam un vienreiz lietojamiem galda traukiem un piederumiem no plastmasas (polimēru) izejmateriāliem.
-(7) Šā likuma 7.pielikumā noteiktās nodokļa likmes iepakojumam no kompozītmateriāliem (laminātiem) piemēro atbilstoši materiālam, kas svara ziņā ir pārākumā.
+(7) Nodokļa maksātājs, kurš maksā nodokli par kompozīta iepakojumu un citu no vairākiem materiāliem sastāvošu iepakojumu:
+1) uzskaita katru iepakojumā ietverto materiāla veidu. Ja materiāla veids iepakojuma vienībā nepārsniedz piecus procentus no iepakojuma vienības kopējās masas, to var pieskaitīt pie materiāla veida, kas svara ziņā ir pārākumā;
+2) piemēro šā likuma 7. pielikumā noteiktās nodokļa likmes par katru iepakojumā ietverto materiāla veidu, izņemot kompozīta kartona iepakojumu, kas paredzēts pārtikai un dzērieniem (turpmāk - kompozīta kartona iepakojums).
+(8) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. punktu)

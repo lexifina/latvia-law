@@ -1,2 +1,2 @@
-14.¹ pants. Nodokļa aprēķināšana par daļiņu PM10 emisiju gaisā, veicot beramkravu pārkraušanu atvērtos termināļos vai citās atvērtās pārkraušanas vietās
-Persona, kas veic beramkravu pārkraušanu atvērtos termināļos vai citās atvērtās pārkraušanas vietās, nodokli par daļiņu PM10 emisiju gaisā aprēķina atbilstoši limitā noteiktajam apjomam, piemērojot šā likuma 4.pielikumā noteikto nodokļa likmi divdesmitkāršā apmērā.
+14.¹ pants. Nodokļa aprēķināšana par daļiņu PM emisiju gaisā, veicot beramkravu pārkraušanu atvērtos termināļos vai citās atvērtās pārkraušanas vietās
+Persona, kas veic beramkravu pārkraušanu atvērtos termināļos vai citās atvērtās pārkraušanas vietās, nodokli par daļiņu PM emisiju gaisā aprēķina atbilstoši limitā noteiktajam apjomam, piemērojot šā likuma 4.pielikumā noteikto nodokļa likmi divdesmitkāršā apmērā.

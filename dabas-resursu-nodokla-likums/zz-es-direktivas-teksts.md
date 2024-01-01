@@ -12,5 +12,6 @@
 11) Eiropas Parlamenta un Padomes 2008.gada 19.novembra direktīvas 2008/98/EK par atkritumiem un par dažu direktīvu atcelšanu;
 12) Eiropas Parlamenta un Padomes 2015.gada 29.aprīļa direktīvas 2015/720/ES, ar ko groza direktīvu 94/62/EK attiecībā uz vieglās plastmasas iepirkumu maisiņu patēriņa samazināšanu (Dokuments attiecas uz EEZ);
 13) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija direktīvas 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem (EEIA) (Dokuments attiecas uz EEZ);
-14) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/851/ES, ar ko groza direktīvu 2008/98 par atkritumiem (Dokuments attiecas uz EEZ).
+14) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/851/ES, ar ko groza direktīvu 2008/98 par atkritumiem (Dokuments attiecas uz EEZ);
+15) Eiropas Parlamenta un Padomes 1994. gada 30. maija direktīvas 94/22/EK par atļauju piešķiršanas un izmantošanas noteikumiem ogļūdeņražu meklēšanai, izpētei un ieguvei.
 2. Tiesību normas saskaņotas ar Eiropas Komisiju un Eiropas Savienības dalībvalstīm atbilstoši Eiropas Parlamenta un Padomes 1998.gada 22.jūnija direktīvai 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā, un Eiropas Parlamenta un Padomes 1998.gada 20.jūlija direktīvai 98/48/EK, ar kuru groza direktīvu 98/34/EK, ar ko nosaka informācijas sniegšanas kārtību tehnisko standartu un noteikumu jomā.

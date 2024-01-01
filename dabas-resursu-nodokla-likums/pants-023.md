@@ -10,3 +10,8 @@
 2) videi kaitīgu preču svara noteikšanas metodes, ja nodokļa maksātāja rīcībā nav nepieciešamo videi kaitīgu preču svaru apliecinošu uzskaites dokumentu;
 3) kārtību, kādā nosaka personu, kura drīkst veikt videi kaitīgu preču atkritumu apsaimniekošanas sistēmu auditu;
 4) videi kaitīgu preču atkritumu apsaimniekošanas sistēmu auditēšanas kārtību.
+(7) Riepām, ar kurām ir aprīkoti šā likuma 3. panta pirmās daļas 5. punktā norādītie transportlīdzekļi, piemēro šādas nodokļa likmes:
+1) par riepām, ar kurām aprīkots L kategorijas transportlīdzeklis, - 10 euro par vienu transportlīdzekli;
+2) par riepām, ar kurām aprīkots M2, N2 un O3 kategorijas transportlīdzeklis, - 100 euro par vienu transportlīdzekli;
+3) par riepām, ar kurām aprīkots M3, N3 un O4 kategorijas transportlīdzeklis, - 170 euro par vienu transportlīdzekli;
+4) par riepām, ar kurām aprīkots O1 un O2 kategorijas transportlīdzeklis, - 20 euro par vienu transportlīdzekli.
