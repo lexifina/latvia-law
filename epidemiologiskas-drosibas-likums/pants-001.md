@@ -37,4 +37,4 @@ Likumā ir lietoti šādi termini:
 35) pandēmija - epidēmija, kas skar plašas ģeogrāfiskas teritorijas vai kontinentus;
 36) (izslēgts ar 23.10.2014. likumu);
 37) higiēna - nosacījumu un praktisku pasākumu kopums, kas nepieciešams, lai samazinātu vai likvidētu vides faktoru (fizikālo, ķīmisko, bioloģisko) iespējami kaitīgo iedarbību, garantējot drošu un cilvēka veselībai nekaitīgu vidi un pakalpojumu sniegšanu;
-38) (punkts stājas spēkā 01.01.2024. un iekļauts likuma redakcijā uz 01.01.2024. Sk. pārejas noteikumu 13. punktu).
+38) sadarbspējīgs sertifikāts - Eiropas Savienībā vienots digitāls vai papīra formas apliecinājums tam, ka persona ir pilnībā vakcinēta vai ir pārslimojusi Covid-19 vai personai ir veikts Covid-19 tests un tā rezultāts ir negatīvs.

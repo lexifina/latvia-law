@@ -7,5 +7,5 @@
 (3) Atvasinātām publiskām personām, iestādēm, komersantiem, pašnodarbinātajiem, kā arī citām juridiskajām un fiziskajām personām, kuras darbojas starptautiskā tūrisma jomā un veic pasažieru pārvadājumus, ceļojumu organizēšanas laikā ir pienākums pilnīgi un objektīvi informēt klientus par:
 1) veselības riska faktoriem teritorijās, kuras tie vēlas apmeklēt, kā arī par infekcijas slimību izplatības draudiem un individuālajiem piesardzības pasākumiem, ieskaitot vakcināciju;
 2) medicīniskās palīdzības un konsultācijas saņemšanas iespējām pirms ceļojuma un ceļojuma laikā.
-(4) (Daļa stājas spēkā 01.01.2024. un iekļauta likuma redakcijā uz 01.01.2024. Sk. pārejas noteikumu 13. punktu)
-(5) (Daļa stājas spēkā 01.01.2024. un iekļauta likuma redakcijā uz 01.01.2024. Sk. pārejas noteikumu 13. punktu)
+(4) Personām, kuras ir vakcinētas pret Covid-19, to pārslimojušas vai kurām veiktie Covid-19 testi ir negatīvi, ir tiesības pēc pieprasījuma Ministru kabineta noteiktajā kārtībā saņemt sadarbspējīgu sertifikātu, kas apliecina vakcinācijas vai pārslimošanas faktu vai informāciju par veiktā testa rezultātu, ja tas ir nepieciešams saistībā ar starptautisko tūrismu un, ieceļojot konkrētajā valstī, tiek pieprasīta šāda sertifikāta uzrādīšana.
+(5) Ministru kabinets nosaka kārtību, kādā pieprasa, sagatavo, izsniedz, aptur, anulē, atjauno, pārbauda un izmanto šā panta ceturtajā daļā minētos sadarbspējīgos sertifikātus, kā arī sertifikātā iekļaujamās informācijas apjomu.

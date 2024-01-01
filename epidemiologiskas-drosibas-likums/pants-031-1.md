@@ -1,0 +1,10 @@
+31.¹ pants. Vakcinācijas informācijas sistēma
+(1) Vakcinācijas informācijas sistēma (Vienotais vakcinācijas tīkls (ViVaT)) ir valsts informācijas sistēma, kas izveidota, lai nodrošinātu sabiedrības intereses veselības jomā, organizējot vakcināciju, tostarp organizējot iepriekšēju pieteikšanos vakcinācijai, veidojot vakcinējamo personu sarakstus un centralizēti vadot vakcinējamo personu rindas.
+(2) Nacionālais veselības dienests ir vakcinācijas informācijas sistēmas pārzinis, kas normatīvajos aktos noteikto uzdevumu īstenošanai veic datu apstrādi, kā arī organizē un vada vakcinācijas informācijas sistēmas darbību atbilstoši tai paredzētajiem izmantošanas mērķiem - vakcinācijas organizēšanai, veikšanai un rindu vadībai.
+(3) Vakcinācijas informācijas sistēmā tiek iekļauta un apstrādāta šāda informācija:
+1) personu un tās likumisko pārstāvi identificējoša informācija, kontaktinformācija;
+2) epidemioloģiski nozīmīga informācija par personas veselību un informācija par vakcināciju.
+(4) Ministru kabinets nosaka vakcinācijas informācijas sistēmā iekļaujamo informāciju, tās apjomu, saņemšanas, iekļaušanas un apstrādes kārtību, glabāšanas termiņu un piekļuves noteikumus, institūcijas, kuras saņems, iekļaus un apstrādās datus vakcinācijas informācijas sistēmā šā panta otrajā daļā norādītajiem mērķiem, kā arī kārtību, kādā iegūst informāciju no šā panta piektajā daļā minētajām informācijas sistēmām, to apstrādā un glabā.
+(5) Vakcinācijas informācijas sistēma šā panta otrajā daļā norādītajiem mērķiem informāciju saņem no:
+1) Nacionālā veselības dienesta informācijas sistēmas - identificējošu informāciju;
+2) Vienotās veselības nozares elektroniskās informācijas sistēmas - informāciju par personu testēšanu attiecībā uz Covid-19, bērna līdz 14 gadu vecumam likumisko pārstāvi un likumiskā pārstāvja vai pacienta pilnvarotu personu identificējošu informāciju, delegātus (personas, kuras ir pilnvarotas apstrādāt identificējošu informāciju veselības informācijas sistēmā pacienta vietā) identificējošu informāciju, lai personas varētu pieteikties vakcinācijai.
