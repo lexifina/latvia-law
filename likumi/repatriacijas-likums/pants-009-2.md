@@ -1,4 +1,0 @@
-9.² pants. Uzturēšanās atļaujas izsniegšana
-(1) Ārzemniekam - repatrianta ģimenes loceklim - ir tiesības ieceļot Latvijas Republikā saskaņā ar šā likuma noteikumiem, ja viņš ieceļo vienlaikus ar repatriantu vai divu gadu laikā no dienas, kad stājies spēkā lēmums par repatrianta statusa piešķiršanu, un ja repatriants pirms repatrianta statusa pieprasīšanas pastāvīgi dzīvojis un uzturējies ārvalstī vismaz piecus gadus.
-(2) Ārzemnieks, iesniedzot šā likuma 9. panta pirmajā vai otrajā daļā minētos dokumentus, vienlaikus iesniedz arī reģistrācijas apliecības vai termiņuzturēšanās atļaujas pieprasīšanai nepieciešamos dokumentus atbilstoši Imigrācijas likumā noteiktajām prasībām.
-(3) Repatrianta ģimenes loceklim, kurš neizmanto tiesības ieceļot Latvijas Republikā šā panta pirmajā daļā noteiktajā kārtībā, ir tiesības pieprasīt uzturēšanās atļauju, ievērojot Imigrācijas likumā noteikto kārtību.
