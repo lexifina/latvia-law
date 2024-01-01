@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 23. novembra likums \"Grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "231",
+  "official_journal_page": null,
+  "official_journal_date": "2023-11-29",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2023-12-15",
+  "commission_reference": "MNE(2023)06570",
+  "nim_celex": "72018L0843LVA_202306570",
+  "nim_id": "202306570",
+  "transposes_celex": [
+    "32018L0843"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d2e234c2-27b3-40d1-9059-aff152d350ba",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
