@@ -1,18 +1,78 @@
-1. Nodokļa likmes par videi kaitīgām precēm, izņemot elektriskās un elektroniskās iekārtas, kas noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā
-Nr.p. k.Preces veidsMērvienībaLikme laikposmā no 2014.gada 1.janvāra līdz 2016.gada 31.decembrim
-(euro)Likme no 2017.gada 1.janvāra
+1. Nodokļa likmes par videi kaitīgām precēm, izņemot elektriskās un elektroniskās iekārtas, kas noteiktas Atkritumu apsaimniekošanas likuma 1. panta 22. punktā
+Nr.
+p. k.
+Preces veids
+Mērvienība
+Likme laikposmā no 2014. gada 1. janvāra līdz 2016. gada 31. decembrim
 (euro)
-1.Smēreļļaskg0,170,17
-2.Elektriskie akumulatori un galvaniskie strāvas avoti (arī tādi, kas iestrādāti ierīcēs un transportlīdzekļos):
-2.1.elektriskie akumulatori, svinakg0,740,74
-2.2.elektriskie akumulatori
-Ni-Cd un Fe-Nikg4,004,00
-2.3.galvaniskie elementi un galvaniskās baterijaskg1111
-2.4.elektriskie akumulatori fotoelementu paneļu saražotās strāvas uzkrāšanaikg-17,03
-2.5.citi elektriskie akumulatorikg17,0317,03
-3.Ozona slāni noārdošās vielas (freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)kg onp2,222,22
-4.Visu veidu riepaskg0,330,66
-5.Eļļas filtrigab.0,330,33
+Likme no 2017. gada 1. janvāra
+(euro)
+Likme no 2024. gada 1. janvāra
+(euro)
+1.
+Smēreļļas
+kg
+0,17
+0,17
+0,17
+2.
+Elektriskie akumulatori un galvaniskie strāvas avoti (arī tādi, kas iestrādāti ierīcēs un transportlīdzekļos):
+2.1.
+elektriskie akumulatori, svina
+kg
+0,74
+0,74
+0,74
+2.2.
+elektriskie akumulatori,
+Ni-Cd un Fe-Ni
+kg
+4,00
+4,00
+4,00
+2.3.
+galvaniskie elementi un galvaniskās baterijas
+kg
+11
+11
+11
+2.4.
+elektriskie akumulatori fotoelementu paneļu saražotās strāvas uzkrāšanai
+kg
+-
+17,03
+17,03
+2.5.
+citi elektriskie akumulatori
+kg
+17,03
+17,03
+17,03
+2.6.
+akumulatori vai baterijas, kas paredzētas ceļu satiksmē izmantojamu elektroautomobiļu vai hibrīdautomobiļu vilces nodrošināšanai
+kg
+-
+-
+0,25
+3.
+Ozona slāni noārdošās vielas
+(freoni, haloni un citas) (onp - ozona noārdīšanas potenciāls)
+kg onp
+2,22
+2,22
+2,22
+4.
+Visu veidu riepas
+kg
+0,33
+0,66
+0,66
+5.
+Eļļas filtri
+gab.
+0,33
+0,33
+0,33
 2. Nodokļa likmes par elektriskajām un elektroniskajām iekārtām, kas noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā, līdz 2018.gada 30.jūnijam
 Nr.p. k.Preces veidsLikme
 (euro) par 1 kg

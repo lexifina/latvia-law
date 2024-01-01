@@ -23,7 +23,7 @@ tonna
 15,00
 15,00
 3.
-Daļiņas PM10
+Daļiņas PM
 tonna
 75,00
 105,00
