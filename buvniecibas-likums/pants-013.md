@@ -8,14 +8,14 @@
 1) inženierizpēte;
 2) projektēšana;
 3) būvdarbu vadīšana;
-4) būvuzraudzība;
+4) (izslēgts no 01.01.2024. ar 27.04.2023. likumu);
 5) būvekspertīze.
 (3¹) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā būvdarbu vadīšanas specialitātē dod tiesības veikt arī būvju būvdarbu būvuzraudzību būvprakses sertifikātā noteiktajā darbības jomā.
-(4) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā šā panta trešās daļas 3. un 4.punktā minētajās specialitātēs var iegūt persona, kas:
+(4) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā šā panta trešās daļas 3. punktā minētajās specialitātēs var iegūt persona, kas:
 1) ieguvusi pirmā līmeņa profesionālo augstāko izglītību būvniecības vai saistītā inženierzinātņu studiju programmā;
 2) apguvusi patstāvīgai praksei nepieciešamās zināšanas un prasmes;
 3) normatīvajos aktos noteiktajā kārtībā saņēmusi būvprakses sertifikātu.
-(5) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā šā panta trešās daļas 1., 2., 3., 4. un 5.punktā minētajās specialitātēs var iegūt persona, kas:
+(5) Patstāvīgās prakses tiesības būvniecības jomā reglamentētā profesijā šā panta trešās daļas 1., 2., 3. un 5.punktā minētajās specialitātēs var iegūt persona, kas:
 1) ieguvusi otrā līmeņa profesionālo augstāko izglītību būvniecības vai saistītā inženierzinātņu studiju programmā;
 2) apguvusi patstāvīgai praksei nepieciešamās zināšanas un prasmes;
 3) normatīvajos aktos noteiktajā kārtībā saņēmusi būvprakses sertifikātu.
@@ -23,10 +23,7 @@
 (7) Būvspeciālisti regulāri paaugstina savu profesionālo kvalifikāciju.
 (8) Informāciju par arhitekta prakses sertifikātu un būvprakses sertifikātu normatīvajos aktos noteiktajā kārtībā iekļauj būvspeciālistu reģistrā.
 (9) Personām patstāvīgās prakses tiesību iegūšanai arhitektūras jomā reglamentētā profesijā vai būvniecības jomā reglamentētā profesijā šajā likumā noteiktajās specialitātēs nepieciešamo sertifikātu piešķir bez termiņa ierobežojuma. Normatīvajos aktos paredzētajos gadījumos būvspeciālista kompetences novērtēšana veicama atkārtoti.
-(9¹) Kompetences pārbaudes iestādes patstāvīgās prakses uzraudzības ietvaros Ministru kabineta noteiktajā kārtībā ne retāk kā reizi piecos gados pārbauda:
-1) būvspeciālista patstāvīgo praksi;
-2) būvspeciālista iesniegto informāciju par izglītību un apgūtajām profesionālās pilnveides programmām vai citiem kompetenci paaugstinošiem pasākumiem sertifikātā norādītajā jomā;
-3) sūdzībās un iesniegumos norādītos, kā arī citos veidos iestādes rīcībā nonākušos faktus par iespējamiem būvspeciālista pārkāpumiem.
+(9¹) Kompetences pārbaudes iestādes patstāvīgās prakses uzraudzības ietvaros Ministru kabineta noteiktajā kārtībā plānveidīgi, pamatojoties uz risku analīzi un saņemtajām ziņām par iespējamiem pārkāpumiem būvspeciālista patstāvīgajā praksē, izvērtē būvspeciālista sniegto pakalpojumu atbilstību normatīvo aktu prasībām, kā arī pārbauda būvspeciālista patstāvīgās prakses un profesionālās pilnveides pasākumu atbilstību normatīvo aktu prasībām.
 (10) Būvspeciālistiem ir pienākums apdrošināt savu profesionālo atbildību par būvniecības procesā to darbības vai bezdarbības rezultātā nodarīto kaitējumu citu būvniecības dalībnieku un trešo personu dzīvībai, veselībai vai mantai, kā arī videi.
 (11) Šajā likumā noteiktās darbības projektēšanas un būvniecības procesā būvspeciālisti veic uz rakstveida līguma pamata.
 (12) Patstāvīgās prakses tiesības šā panta trešās daļas 3. punktā minētajās specialitātēs ir:

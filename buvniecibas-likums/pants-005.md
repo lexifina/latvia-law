@@ -31,7 +31,7 @@ d) patstāvīgās prakses uzraudzības kārtību,
 e) maksas pakalpojumu apmēru, maksāšanas kārtību un saņemto līdzekļu izmantošanas kārtību,
 f) kompetences pārbaudes iestādes pilnvaras,
 g) būvspeciālistu reģistrā iekļaujamo ziņu apjomu un pārbaudes kārtību;
-4¹) (punkts stājas spēkā 01.01.2024. un iekļauts likuma redakcijā uz 01.01.2024.. Sk. pārejas noteikumu 29. punktu);
+4¹) izdod noteikumus par kārtību, kādā kompetences pārbaudes iestāde veic būvinspektoru darbības uzraudzību;
 5) izdod noteikumus, kuros nosaka:
 a) būvinspektoriem izvirzāmās prasības, būvinspektoru reģistrācijas kārtību un kārtību, kādā būvinspektorus izslēdz no reģistra,
 b) būvinspektoru reģistra datu saturu,
