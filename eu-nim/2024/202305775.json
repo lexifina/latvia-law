@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 10. oktobra noteikumi Nr. 573 \"Grozījumi Ministru kabineta 2010. gada 28. decembra noteikumos Nr. 1229 \"Noteikumi par šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "198",
+  "official_journal_page": null,
+  "official_journal_date": "2023-10-12",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2023-11-08",
+  "commission_reference": "MNE(2023)05775",
+  "nim_celex": "72023L1438LVA_202305775",
+  "nim_id": "202305775",
+  "transposes_celex": [
+    "32023L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f0208ad4-af7d-429f-8f52-9298599840ae",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
