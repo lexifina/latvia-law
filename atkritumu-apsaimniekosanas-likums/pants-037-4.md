@@ -1,0 +1,2 @@
+37.⁴ pants. (1) Tekstilizstrādājumu ražotājs nodrošina, ka tiek segtas visas šā likuma 37.³ panta pirmajā un otrajā daļā minēto pasākumu - tekstilizstrādājumu atkritumu savākšanas, pieņemšanas, pārvadāšanas, sagatavošanas atkārtotai izmantošanai, pārstrādes un reģenerācijas - izmaksas.
+(2) Tekstilizstrādājumu ražotājs nodrošina, ka tiek segtas visas ar tekstilizstrādājumu atkritumu savākšanu, pieņemšanu, sagatavošanu atkārtotai izmantošanai, pārstrādi un reģenerāciju saistīto sabiedrības informēšanas pasākumu izmaksas.
