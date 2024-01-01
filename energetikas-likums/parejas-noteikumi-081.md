@@ -1,0 +1,1 @@
+81. Ja laikposmā no 2024. gada 1. janvāra līdz 30. jūnijam drošības rezervju uzkrāšanas fondā trūkst līdzekļu, lai nodrošinātu šajā likumā noteikto uzdevumu izpildi, pārvaldītājs izmaksas sedz no saviem līdzekļiem. Pārvaldītāja izdevumus kompensē no nākotnes ienākumiem drošības rezervju uzkrāšanas fondā.

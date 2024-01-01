@@ -1,0 +1,1 @@
+77. Nesamaksātā valsts nodeva par drošības rezervju uzturēšanu, kas noteikta par periodu līdz 2023. gada 31. decembrim, tiek aprēķināta un samaksāta atbilstoši tam tiesiskajam regulējumam, kāds bija spēkā līdz 2023. gada 31. decembrim. Valsts nodevu par drošības rezervju uzturēšanu administrē Būvniecības valsts kontroles birojs.

@@ -1,0 +1,1 @@
+79. Pārvaldītājs līdz 2024. gada 10. janvārim pārņem no Būvniecības valsts kontroles biroja līgumus ar komersantiem, kuri nodrošina un sniedz drošības rezervju pakalpojumu valsts naftas produktu rezervju izveidei 2024. gadā, un nodrošina to izpildi.

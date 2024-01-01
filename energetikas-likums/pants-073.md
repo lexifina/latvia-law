@@ -1,2 +1,2 @@
-73.pants
-Ministru kabinets nosaka kārtību, kādā energoapgādes komersanti, komersanti, kuri nodrošina un sniedz drošības rezervju pakalpojumu, un komersanti, kuriem Ministru kabineta noteiktajā kārtībā ir izsniegtas licences komercdarbībai ar naftas produktiem, pārdod tiem piederošo kurināmo pēc valsts vai pašvaldības enerģētiskās krīzes centra pieprasījuma izsludinātas enerģētiskās krīzes laikā.
+73. pants
+Ministru kabinets nosaka kārtību, kādā drošības rezerves un naftas produkti, kas pieder komersantiem, kuriem ir izsniegta licence komercdarbībai ar naftas produktiem, izsludinātas enerģētiskās krīzes laikā tiek pārdoti pēc valsts vai pašvaldības enerģētiskās krīzes centra pieprasījuma.
