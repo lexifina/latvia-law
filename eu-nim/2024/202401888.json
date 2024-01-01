@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2023. gada 19. decembra noteikumi Nr. 754 \"Atbilstības novērtēšanas institūciju novērtēšanas, akreditācijas un uzraudzības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "246",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-20",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2024-04-23",
+  "commission_reference": "MNE(2024)01888",
+  "nim_celex": "72014L0053LVA_202401888",
+  "nim_id": "202401888",
+  "transposes_celex": [
+    "32014L0053"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/82c7e4ad-ae59-47af-8964-0157da782bd5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
