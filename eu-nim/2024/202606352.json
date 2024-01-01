@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2023. gada 18. decembra noteikumi Nr. 265 \"Kredītriska pārvaldīšanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "248",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-22",
+  "entry_into_force": "2024-01-01",
+  "notification_date": "2026-08-11",
+  "commission_reference": "MNE(2026)06352",
+  "nim_celex": "72024L1275LVA_202606352",
+  "nim_id": "202606352",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5c104733-4e2f-4125-ad13-afceb2f214dc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
