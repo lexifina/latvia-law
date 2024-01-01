@@ -5,3 +5,4 @@
 1) budžeta iestādēm, no valsts budžeta daļēji finansētām atvasinātām publiskām personām un budžeta nefinansētām iestādēm;
 2) Valsts kasei - papildus šīs daļas 1. punktā minētajam - arī valsts budžeta finanšu uzskaitei;
 3) Valsts ieņēmumu dienestam - papildus šīs daļas 1. punktā minētajam - arī šā dienesta administrēto nodokļu, nodevu un citu tā administrēto uz valsts budžetu attiecināmo maksājumu uzskaitei.
+(4) Ministru kabinets nosaka kārtību un apjomu, kādā valsts budžeta iestādes un budžeta nefinansētas iestādes grāmatvedības uzskaiti kārto Valsts kasē valsts pārvaldes vienotā pakalpojumu centra ietvaros.
