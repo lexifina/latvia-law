@@ -1,0 +1,1 @@
+102. Šo pārejas noteikumu 99., 100. un 101. punkta nosacījumi netiek attiecināti uz tiem studējošajiem valsts augstskolās, kuri imatrikulēti valsts finansētajās studiju vietās pirms līguma par izmēģinājumprojekta īstenošanu spēkā stāšanās.

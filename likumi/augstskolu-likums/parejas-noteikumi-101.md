@@ -1,0 +1,1 @@
+101. Pirms šo pārejas noteikumu 100. punktā minētā līguma noslēgšanas valsts augstskolas padome pēc rektora priekšlikuma un senāta un augstskolas studējošo pašpārvaldes atzinumiem nosaka studiju vietu skaitu, principus, pēc kādiem studiju vietas tiek finansētas no augstskolas budžeta, privātpersonu un piešķirtiem valsts budžeta līdzekļiem, kā arī studiju maksas nosacījumus.

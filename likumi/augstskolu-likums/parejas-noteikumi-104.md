@@ -1,0 +1,1 @@
+104. Ministru kabinets līdz 2025. gada 30. jūnijam iesniedz Saeimai informatīvo ziņojumu par augstskolu institucionālās finansēšanas modeļa izmēģinājumprojekta rezultātiem un turpmāko institucionālā finansēšanas modeļa īstenošanu.

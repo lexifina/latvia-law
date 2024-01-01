@@ -1,0 +1,1 @@
+103. Šā likuma 51., 52. un 78. pantu attiecībā uz valsts augstskolu, ar kuru noslēgts līgums par izmēģinājumprojekta īstenošanu, līguma spēkā esības periodā piemēro tiktāl, ciktāl tas nav pretrunā ar šo pārejas noteikumu 99., 100. un 101. punktu.
