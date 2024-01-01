@@ -1,0 +1,1 @@
+10. pants. Noteikt izlīdzinātos izdevumus 2024. gadā 2 679 995 535 euro, tajā skaitā Eiropas Savienības struktūrfondu un Kohēzijas fonda izlīdzinātos izdevumus 1 619 696 896 euro, kopējās lauksaimniecības politikas un kopējās zivsaimniecības politikas izlīdzinātos izdevumus 701 747 453 euro un valsts parāda apkalpošanas izlīdzinātos izdevumus 358 551 186 euro.

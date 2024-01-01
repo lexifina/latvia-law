@@ -1,0 +1,1 @@
+35. pants. Noteikt valsts budžeta aizdevumu kopējo palielinājumu 135 723 529 euro apmērā, kas neietver šā likuma 36. pantā noteikto pašvaldību aizņēmumu kopējo palielinājumu, ja aizņēmumi tiek ņemti no valsts budžeta.

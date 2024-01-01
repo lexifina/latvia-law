@@ -1,0 +1,1 @@
+11. pants. Noteikt izlīdzinātos izdevumus 2025. gadā 2 793 261 803 euro, tajā skaitā Eiropas Savienības struktūrfondu un Kohēzijas fonda izlīdzinātos izdevumus 1 632 289 520 euro, kopējās lauksaimniecības politikas un kopējās zivsaimniecības politikas izlīdzinātos izdevumus 667 158 597 euro un valsts parāda apkalpošanas izlīdzinātos izdevumus 493 813 686 euro.

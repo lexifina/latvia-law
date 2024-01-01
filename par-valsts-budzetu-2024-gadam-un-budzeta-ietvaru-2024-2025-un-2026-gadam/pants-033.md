@@ -1,0 +1,1 @@
+33. pants. Noteikt maksimālo valsts parādu 2024. gada beigās nominālvērtībā 19 300 000 000 euro, ņemot vērā Valsts kases administrētajiem aizņēmumiem un valsts parāda vērtspapīriem piesaistīto atvasināto finanšu instrumentu valūtas rezultātu.
