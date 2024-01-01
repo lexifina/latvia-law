@@ -1,0 +1,1 @@
+28. Līdz 2025. gada 31. decembrim pašvaldība izvērtē spēkā esošo teritorijas plānojumu un teritorijas plānojumā vai lokālplānojumā nosaka gājēju ceļus pilsētās un ciemos atbilstoši šā likuma 36. panta piektās daļas otrajā teikumā noteiktajam.
