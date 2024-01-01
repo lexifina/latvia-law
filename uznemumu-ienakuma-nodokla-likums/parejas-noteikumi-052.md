@@ -1,0 +1,1 @@
+52. Piemērojot šā likuma 4.¹ panta ceturtās daļas 2. punktu, peļņas apmērs, uz kura pamata tiek aprēķināta nodokļa piemaksa, netiek samazināts par ārkārtas dividendēm, kuras atbilstoši šo pārejas noteikumu 9. punktam nodokļa piemērošanai ir pielīdzinātas peļņas daļai, kura gūta līdz 2017. gada 31. decembrim.
