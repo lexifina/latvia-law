@@ -9,4 +9,6 @@
 7) zudis tiesiskais pamats vēlētāja reģistrācijai Fizisko personu reģistrā;
 8) vēlētājs mainījis personas kodu.
 (3) Ieslodzījuma vietu pārvalde saskaņā ar Ieslodzīto informācijas sistēmā iekļauto informāciju atbilstoši attiecīgajam vēlēšanu likumam aktualizē Reģistrā iekļautās ziņas, ja vēlētājs izcieš sodu brīvības atņemšanas vietā.
-(4) Reģistrā iekļautās ziņas saskaņā ar šā panta pirmo, otro un trešo daļu aktualizē līdz pulksten 18 septītajā dienā pirms vēlēšanām.
+(3¹) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. punktu)
+(4) Eiropas Parlamenta, pašvaldības domes un Saeimas vēlēšanās Reģistrā iekļautās ziņas saskaņā ar šā panta pirmo, otro un trešo daļu aktualizē līdz pulksten 18 septītajā dienā pirms vēlēšanām.
+(5) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. punktu)

@@ -1,0 +1,1 @@
+2. Šā likuma grozījums par 2. panta izteikšanu jaunā redakcijā, 5. panta trešā daļa, 7.¹ pants, 9. panta pirmās daļas 3. punkts un trešā daļa, 12. panta pirmās daļas 3. punkts, 15. panta 3.¹ un piektā daļa un grozījums par 19. panta pirmās daļas izteikšanu jaunā redakcijā stājas spēkā 2025. gada 1. augustā.

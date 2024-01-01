@@ -1,33 +1,27 @@
-6.pants. (1) Reģistrā par vēlētāju iekļaujamas šādas ziņas:
-1) personas kods;
-2) vēlētāja kods;
-2¹) dzimšanas datums;
-3) vārds (vārdi);
-4) uzvārds;
-5) pilsonība;
-6) ziņas par personu apliecinošu dokumentu:
-a) dokumenta veids,
-b) sērija un numurs,
-c) izdošanas datums,
-d) derīguma termiņš,
-e) izdevējvalsts un izdevējiestāde;
-7) dzīvesvietas adrese;
-7¹) vēlēšanu apgabals;
-8) adrese ārvalstī, uz kuru izsūtāmi dokumenti balsošanai pa pastu, ja vēlētājs pieteicies balsot pa pastu;
-8¹) (izslēgts ar 11.06.2020. likumu);
-8²) elektroniskā pasta adrese, uz kuru nosūtāma tīmekļvietnes adrese, kurā ir pieejami balsošanas materiāli, ja vēlētājs Saeimas vēlēšanās vai pašvaldības domes vēlēšanās pieteicies balsot pa pastu;
-8³) atzīme, ka tīmekļvietnes adrese, kurā ir pieejami balsošanas materiāli, nosūtāma uz vēlētāja oficiālo elektronisko adresi, ja vēlētājs Saeimas vēlēšanās vai pašvaldības domes vēlēšanās pieteicies balsot pa pastu;
-8⁴) ārvalsts, no kuras vēlētājs plāno nosūtīt savu balsojumu, ja ir pieteicies balsot pa pastu;
-9) ziņas par vēlēšanu iecirkni, kurā vēlētājs nobalsojis:
-a) numurs,
-b) adrese,
-c) nosaukums,
-d) vēlētāja balsošanas reģistrācijas datums un laiks,
-e) atzīme par balsošanu, izmantojot reģistrācijas aploksni;
-10) (izslēgts ar 11.06.2020. likumu);
-11) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā;
-12) (izslēgts ar 11.06.2020. likumu);
-13) (izslēgts ar 11.06.2020. likumu);
-14) vēlēšanu (balsošanas) nosaukums.
+6.pants. (1) Reģistrā par vēlētāju:
+1) no Fizisko personu reģistra sākotnēji iekļauj šādas ziņas:
+a) personas kods,
+b) vārds (vārdi),
+c) uzvārds,
+d) ar jaucējfunkciju apstrādāts personu apliecinoša dokumenta numurs,
+e) dzimšanas datums,
+f) pilsonība,
+g) dzīvesvietas adrese;
+2) Reģistra darbības laikā iekļauj un aktualizē šādas ziņas:
+a) vārds (vārdi),
+b) uzvārds,
+c) dzimšanas datums,
+d) pilsonība,
+e) dzīvesvietas adrese,
+f) vēlētāja kods,
+g) vēlēšanu apgabals,
+h) atzīme, ka vēlētājs pieteicies balsot pa pastu Eiropas Parlamenta vēlēšanās un balsošanas materiāli ir pieejami vēlētājam, izmantojot Valsts pārvaldes pakalpojumu portālā pieejamo elektronisko pakalpojumu,
+i) elektroniskā pasta adrese, uz kuru nosūtāma tīmekļvietnes adrese, kurā ir pieejami balsošanas materiāli, ja vēlētājs Saeimas vēlēšanās vai pašvaldības domes vēlēšanās pieteicies balsot pa pastu,
+j) atzīme, ka tīmekļvietnes adrese, kurā ir pieejami balsošanas materiāli, nosūtāma uz vēlētāja oficiālo elektronisko adresi, ja vēlētājs Saeimas vēlēšanās vai pašvaldības domes vēlēšanās pieteicies balsot pa pastu,
+k) ārvalsts, no kuras vēlētājs plāno nosūtīt savu balsojumu, ja ir pieteicies balsot pa pastu,
+l) pazīme, ka personai attiecīgās pašvaldības administratīvajā teritorijā pieder likumā noteiktajā kārtībā reģistrēts nekustamais īpašums,
+m) ziņas par vēlēšanu iecirkni, kurā vēlētājs nobalsojis (numurs, adrese, nosaukums, vēlētāja balsošanas reģistrācijas datums un laiks, atzīme par balsošanu, izmantojot reģistrācijas aploksni),
+n) ziņas par iekļaušanu Reģistrā vai izslēgšanu no tā,
+o) vēlēšanu vai pašvaldības referenduma nosaukums.
 (2) Iekļaujot ziņas Reģistrā vai aktualizējot tās, papildus norāda ziņu iekļaušanas vai aktualizēšanas datumu un iemeslu.
 (3) Saeimas vēlēšanas šā likuma izpratnē notiek vienā vēlēšanu apgabalā.
