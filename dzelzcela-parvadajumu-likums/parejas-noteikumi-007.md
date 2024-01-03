@@ -1,0 +1,1 @@
+7. Atbrīvojumi no Eiropas Parlamenta un Padomes 2007. gada 23. oktobra regulas (EK) Nr. 1371/2007 par dzelzceļa pasažieru tiesībām un pienākumiem, kuri saskaņā ar šā likuma 4.¹ panta otro daļu 2019. gada 21. novembra likuma redakcijā bija attiecināti uz iekšzemes dzelzceļa pasažieru un bagāžas pārvadājumiem līdz 2024. gada 3. decembrim, ir piemērojami līdz minētā termiņa beigām.
