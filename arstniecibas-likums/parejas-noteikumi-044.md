@@ -1,0 +1,1 @@
+44. Ministru kabinets līdz 2025. gada 1. jūlijam izdod šā likuma 9.¹ panta otrajā daļā minētos Ministru kabineta noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2010. gada 25. maija noteikumi Nr. 469 "Kārtība, kādā izstrādā, izvērtē, reģistrē un ievieš klīniskās vadlīnijas", ciktāl tie nav pretrunā ar šo likumu.

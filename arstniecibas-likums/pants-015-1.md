@@ -1,0 +1,1 @@
+15.¹ pants. Centrālā medicīnas ētikas komiteja, izskatot uz sociālajām problēmām attiecināmos biomedicīniskā progresa ētikas jautājumus, piemēro maksas pakalpojumu cenrādi. Maksas pakalpojumu cenrādi apstiprina Ministru kabinets.

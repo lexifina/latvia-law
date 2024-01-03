@@ -1,0 +1,1 @@
+69.² pants. Persona, kurai kriminālprocesā noteikts medicīniska rakstura piespiedu līdzeklis, 14 dienu laikā pēc tiesas lēmuma noraksta saņemšanas sazinās ar tiesas lēmumā norādīto ārstniecības iestādi klātienē vai attālināti, lai vienotos par ārstēšanas uzsākšanu, izņemot personu, kura saskaņā ar tiesas lēmumu ārstniecības iestādē tiek nogādāta policijas darbinieka pavadībā.

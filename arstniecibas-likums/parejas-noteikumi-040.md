@@ -1,0 +1,1 @@
+40. Grozījums šā likuma 9. panta pirmajā daļā par vārdu "Ārstniecības personu, ārstniecības atbalsta personu" izslēgšanu, kā arī grozījums par šā panta papildināšanu ar 1.¹ daļu stājas spēkā 2024. gada 1. oktobrī.

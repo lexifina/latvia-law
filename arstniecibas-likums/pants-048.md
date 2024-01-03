@@ -1,1 +1,1 @@
-48.pants. Ārstniecības personas pienākums ir regulāri pilnveidot savu profesionālo kvalifikāciju un izglītoties neatliekamās palīdzības sniegšanā.
+48. pants. Ārstniecības personas pienākums ir regulāri pilnveidot profesionālo kvalifikāciju un izglītoties neatliekamās palīdzības sniegšanā. Ministru kabinets nosaka prasības attiecībā uz tālākizglītību, kā arī apgūtās tālākizglītības novērtēšanas un apstiprināšanas kārtību.

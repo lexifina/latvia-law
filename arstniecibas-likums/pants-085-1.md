@@ -1,0 +1,1 @@
+85.¹ pants. Par cilvēkiem paredzēto medicīnisko ierīču klīnisko pētījumu vai in vitro diagnostikas medicīnisko ierīču veiktspējas pētījumu veikšanas kārtības pārkāpumiem piemēro brīdinājumu vai naudas sodu fiziskajai personai no piecām līdz četrdesmit naudas soda vienībām, bet juridiskajai personai - no piecdesmit līdz četrsimt naudas soda vienībām.

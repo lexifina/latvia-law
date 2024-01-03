@@ -1,4 +1,4 @@
-29.pants. (1) Speciālista prakses tiesības apliecina ārstniecības personas sertifikāts un tās reģistrācija normatīvajos aktos noteiktajā kārtībā. Ārstniecības personu sertifikācijas kārtību nosaka Ministru kabinets.
+29.pants. (1) Speciālista prakses tiesības apliecina ārstniecības personas sertifikāts un personas reģistrācija normatīvajos aktos noteiktajā kārtībā. Ministru kabinets nosaka kārtību, kādā tiek organizēta ārstniecības personu sertifikācija un resertifikācija, sertifikācijas eksāmens un tā norise, kā arī sertifikāta anulēšanas un darbības apturēšanas kārtību.
 (1¹) Ārstniecības personas sertifikācijas procesā lēmumu par sertifikāta piešķiršanu vai atteikumu piešķirt sertifikātu sertifikācijas institūcija pieņem triju mēnešu laikā no iesnieguma saņemšanas dienas. Objektīvu iemeslu dēļ sertifikācijas institūcija var pagarināt lēmuma pieņemšanas termiņu uz laiku, kas nav ilgāks par četriem mēnešiem no iesnieguma saņemšanas dienas, par to paziņojot iesniedzējam.
 (2) Ārstniecības personu sertifikāciju atbilstoši kompetencei veic:
 1) Latvijas Ārstu biedrība - ārstu un zobārstu sertifikāciju;

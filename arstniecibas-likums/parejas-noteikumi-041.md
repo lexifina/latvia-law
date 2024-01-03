@@ -1,0 +1,1 @@
+41. Ministru kabinets līdz 2024. gada 1. oktobrim izdod šā likuma 29. panta pirmajā daļā minētos Ministru kabineta noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2012. gada 18. decembra noteikumi Nr. 943 "Ārstniecības personu sertifikācijas kārtība", ciktāl tie nav pretrunā ar šo likumu.
