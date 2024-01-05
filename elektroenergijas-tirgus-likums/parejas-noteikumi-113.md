@@ -1,0 +1,1 @@
+113. Elektroenerģijas tirgotāji ne vēlāk kā triju mēnešu laikā pēc šā likuma 30.⁵ panta sestajā daļā minēto noteikumu stāšanās spēkā nodrošina šā likuma 30.⁵ panta sestajā daļā noteiktā universālā neto norēķinu sistēmas pakalpojuma iekļaušanu savos elektroenerģijas neto norēķinu sistēmas piedāvājumos.

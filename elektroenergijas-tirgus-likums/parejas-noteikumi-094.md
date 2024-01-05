@@ -1,1 +1,0 @@
-94. Šā likuma 30.⁵ panta sestajā daļā minēto elektroenerģijas neto norēķinu sistēmas piedāvājumu elektroenerģijas tirgotāji nodrošina triju mēnešu laikā pēc šā likuma 30.⁵ panta septītajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienas.

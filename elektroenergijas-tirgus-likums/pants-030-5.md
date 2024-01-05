@@ -7,5 +7,5 @@
 3) visus neto norēķinu sistēmā ietvertos sistēmas lietotāja objektus apkalpo viens elektroenerģijas tirgotājs un viens sistēmas operators.
 (4) No atjaunojamiem energoresursiem iegūtas elektroenerģijas aktīvais lietotājs ir atbildīgs par to, lai elektroenerģija tā objektos tiktu ražota, izmantojot tikai atjaunojamos energoresursus.
 (5) Elektroenerģijas neto norēķinu sistēmu nepiemēro norēķiniem par saņemtajiem sistēmas pakalpojumiem vai citiem normatīvajos aktos noteiktajiem maksājumiem, izņemot gadījumu, kad to pieprasa aktīvais lietotājs.
-(6) Elektroenerģijas tirgotāji savos tirdzniecības pakalpojuma piedāvājumos iekļauj elektroenerģijas neto norēķinu sistēmas piedāvājumu.
+(6) Elektroenerģijas tirgotāji savos elektroenerģijas neto norēķinu sistēmas piedāvājumos iekļauj universālo neto norēķinu sistēmas pakalpojumu. Ministru kabinets nosaka universālā neto norēķinu sistēmas pakalpojuma nosacījumus un pakalpojuma piedāvājuma izteikšanas veidu, tostarp universālā neto norēķinu sistēmas pakalpojuma minimālo cenu un pieļaujamo aktīvā lietotāja saražotās elektroenerģijas pārpalikuma daudzumu 12 mēnešu laikā.
 (7) Neto norēķinu sistēmas piemērošanas nosacījumus un kārtību nosaka Ministru kabinets.
