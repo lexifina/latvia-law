@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2023. gada 21. decembra likums \"Grozījumi Elektroenerģijas tirgus likumā\".",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "3",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-04",
+  "entry_into_force": "2024-01-05",
+  "notification_date": "2024-02-16",
+  "commission_reference": "MNE(2024)00857",
+  "nim_celex": "72018L2001LVA_202400857",
+  "nim_id": "202400857",
+  "transposes_celex": [
+    "32018L2001"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e45d5565-eb9d-44a1-8b1a-eb488c0f5a33",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
