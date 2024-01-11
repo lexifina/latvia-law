@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024.gada 9.janvāra noteikumi Nr.5 \"Grozījumi Ministru kabineta 2013.gada 17.decembra noteikumos Nr.1514 \"Kārtība, kādā reģistrēts nodokļa maksātājs iesniedz pieteikumu pievienotās vērtības nodokļa atmaksas saņemšanai citā Eiropas Savienības dalībvalstī, un kārtība, kādā atmaksā pievienotās vērtības nodokli citas Eiropas Savienības dalībvalsts reģistrētam nodokļa maksātājam\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2024/7.4",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-10",
+  "entry_into_force": "2024-01-11",
+  "notification_date": "2024-01-26",
+  "commission_reference": "MNE(2024)00462",
+  "nim_celex": "72017L2455LVA_202400462",
+  "nim_id": "202400462",
+  "transposes_celex": [
+    "32017L2455"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb243587-0369-4ce0-bee6-4db199435856",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
