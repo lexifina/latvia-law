@@ -1,0 +1,1 @@
+6. Līdz 2026. gada 31. decembrim personai ir tiesības papildus šā likuma 9.¹ un 9.² pantā minētajam izvēlēties arī citu normatīvajos aktos noteiktu iesnieguma iesniegšanas un administratīvā akta saņemšanas veidu.

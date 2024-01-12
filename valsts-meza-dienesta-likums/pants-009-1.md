@@ -1,0 +1,3 @@
+9.¹ pants. Iesnieguma iesniegšana Dienestā
+(1) Iesniegumu administratīvā procesa ierosināšanai Dienestā iesniedz strukturētu datu veidā tiešsaistē Meža valsts reģistrā. Tiešsaistē Meža valsts reģistrā strukturētu datu veidā iesniegtam iesniegumam ir juridisks spēks arī tad, ja tajā nav rekvizīta "paraksts".
+(2) Privātpersona, izmantojot Meža valsts reģistrā izveidotu tiešsaistes pakalpojumu, var pilnvarot citu personu iesniegt iesniegumu strukturētu datu veidā Meža valsts reģistrā un saņemt administratīvos aktus administratīvajā procesā. Pilnvaras Meža valsts reģistrā fiksē strukturētu datu veidā.

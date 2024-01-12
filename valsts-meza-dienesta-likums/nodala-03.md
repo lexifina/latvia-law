@@ -1,2 +1,2 @@
 III nodaļa
-Dienesta amatpersonu lēmumu izpilde un to apstrīdēšanas kārtība
+Iesniegumu iesniegšana Dienestā un Dienesta izdoto administratīvo aktu paziņošana un izpilde

@@ -1,0 +1,4 @@
+9.² pants. Dienesta izdotā administratīvā akta paziņošana
+(1) Dienests izdoto administratīvo aktu, tostarp nelabvēlīgu administratīvo aktu, un citus lēmumus, dokumentus un informāciju personai paziņo tiešsaistē Meža valsts reģistrā, vienlaikus tos nosūtot uz lietotāja oficiālo elektronisko adresi, ja personai ir aktivizēts šīs adreses konts, vai norādīto elektroniskā pasta adresi, ja personai nav aktivizēts oficiālās elektroniskās adreses konts. Ja objektīvu apstākļu dēļ nav iespējama paziņošana tiešsaistē Meža valsts reģistrā, paziņošanai izmanto citus Paziņošanas likumā minētos veidus.
+(2) Dienesta izdoto administratīvo aktu uzglabā Meža valsts reģistrā strukturētu datu veidā.
+(3) Meža valsts reģistrā elektroniski strukturētu datu veidā izveidotam dokumentam ir juridisks spēks arī tad, ja tajā nav rekvizīta "paraksts".
