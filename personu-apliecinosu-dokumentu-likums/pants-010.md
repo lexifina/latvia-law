@@ -12,4 +12,4 @@
 1) ir saņemts tās likumiskā pārstāvja iesniegums ar lūgumu neizsniegt personu apliecinošu dokumentu, - līdz laikam, kad tiesā iesniegts šā panta astotās daļas 2. punktā minētais lūgums, bet ne ilgāk kā mēnesi no iesnieguma saņemšanas dienas;
 2) ir saņemts dokuments, kas apliecina, ka tiesai iesniegts lūgums pieņemt lēmumu, ar kuru noteikts aizliegums bērnu izvest no valsts, - līdz dienai, kad stājas spēkā tiesas lēmums par aizliegumu bērnu izvest no valsts vai par atteikumu šādu aizliegumu noteikt;
 3) ir pieņemts tiesas lēmums par aizliegumu attiecīgajai personai izbraukt no valsts vai izbraukt no valsts līdz tiesvedības procesa pabeigšanai ar galīgo nolēmumu lietā;
-4) iekšlietu ministrs ir pieņēmis lēmumu par aizliegumu personai izceļot no Latvijas Republikas.
+4) iekšlietu ministrs vai Valsts policijas priekšnieka pilnvarots darbinieks ir pieņēmis lēmumu par aizliegumu personai izceļot no Latvijas Republikas.

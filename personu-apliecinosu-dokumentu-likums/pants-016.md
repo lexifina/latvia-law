@@ -9,5 +9,5 @@
 7) beidzies dokumenta derīguma termiņš;
 8) dokumenta vietā izsniegts jauns personu apliecinošs vai pagaidu dokuments;
 9) dokuments nav nodots šā likuma 13.panta otrajā daļā noteiktajā kārtībā;
-10) iekšlietu ministrs ir pieņēmis lēmumu par aizliegumu dokumenta turētājam izceļot no Latvijas Republikas, - uz lēmumā noteikto laiku. Minētais nosacījums neattiecas uz personas apliecību, kura izsniegta uz iekšlietu ministra pieņemtajā lēmumā par aizliegumu izceļot no Latvijas Republikas noteikto laiku.
+10) iekšlietu ministrs vai Valsts policijas priekšnieka pilnvarots darbinieks ir pieņēmis lēmumu par aizliegumu dokumenta turētājam izceļot no Latvijas Republikas, - uz lēmumā noteikto laiku. Minētais nosacījums neattiecas uz personas apliecību, kura izsniegta uz iekšlietu ministra vai Valsts policijas priekšnieka pilnvarota darbinieka pieņemtajā lēmumā par aizliegumu izceļot no Latvijas Republikas noteikto laiku.
 (2) Ministru kabinets nosaka gadījumus, kad ziņas par lietošanai nederīgiem personu apliecinošiem dokumentiem un pagaidu dokumentiem un šo dokumentu neaizpildītām veidlapām iekļaujamas valsts informācijas sistēmā "Nederīgo dokumentu reģistrs", iekļaujamo ziņu apjomu, iekļaušanas kārtību un glabāšanas termiņus, kā arī institūcijas, kurām piešķirama piekļuve reģistrā iekļautajām ziņām, un privātpersonām pieejamo ziņu apjomu.
