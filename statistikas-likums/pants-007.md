@@ -3,7 +3,7 @@
 (2) Statistikas iestāde:
 1) savas kompetences un piešķirto finanšu līdzekļu ietvaros, sadarbojoties ar statistikas lietotājiem, plāno oficiālās statistikas nodrošināšanu;
 2) savlaicīgi nodrošina oficiālās statistikas programmā noteikto oficiālo statistiku;
-3) lemj par atbilstošākā statistikas jomas standarta piemērošanu;
+3) lemj par atbilstošākā statistikas jomas standarta piemērošanu, tai skaitā nosaka respondentus;
 4) nodrošina oficiālo statistiku saskaņā ar statistikas jomas standartiem;
 5) dokumentē un dara zināmas sabiedrībai tās izmaiņas statistikas jomas standartos, kuras ietekmē oficiālās statistikas salīdzināmību;
 6) nosaka datu pārbaudes un kvalitātes novērtēšanas metodes;
@@ -20,3 +20,4 @@
 2) pēc valsts institūcijas lūguma nodrošināt statistikas izstrādes, datu iegūšanas, apstrādes, analīzes un izplatīšanas pakalpojumus, kuri nav iekļauti oficiālās statistikas programmā un kuru nodrošināšana ietver oficiālās statistikas nodrošināšanā neievāktu datu iegūšanu vai papildu datu apstrādi. Šādus pakalpojumus statistikas iestāde nodrošina, ja valsts institūcija kompensē to nodrošināšanas izmaksas Ministru kabineta noteiktajā apmērā, ja vien tas neapdraud statistikas iestādes funkciju pienācīgu izpildi;
 3) nodrošināt starptautiskajām organizācijām statistikas izstrādes, datu iegūšanas, apstrādes, analīzes un izplatīšanas pakalpojumus saskaņā ar starptautiskās organizācijas izteikto piedāvājumu, ja vien tas neapdraud statistikas iestādes funkciju pienācīgu izpildi.
 (4) Ministru kabinets izdod noteikumus, kuros nosaka šā panta trešās daļas 2.punktā minēto pakalpojumu nodrošināšanas izmaksu apmēru.
+(5) Lai veiktu šā panta trešajā daļā, šā likuma 8. panta otrās daļas 1. punktā, 16. pantā un citos normatīvajos aktos noteiktos statistikas nodrošināšanas vai datu apstrādes uzdevumus, statistikas iestādei ir tiesības apstrādāt oficiālās statistikas nodrošināšanas procesā iegūtos datus un saņemt apstrādei jaunus datus saskaņā ar šā likuma 14. un 15. pantu, ievērojot oficiālās statistikas nodrošināšanā piemērojamo statistiskās konfidencialitātes principu.

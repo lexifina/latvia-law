@@ -1,6 +1,6 @@
 17.pants. Datu apstrāde un statistiskā konfidencialitāte
-(1) Datus, kas iegūti saskaņā ar šā likuma 14., 15. un 16.pantu, statistikas iestāde izmanto oficiālās statistikas nodrošināšanai, izņemot šā likuma 25. un 26.pantā noteiktos gadījumus.
-(2) Datus var pārveidot, papildināt vai savienot ar citiem statistikas iestādes rīcībā esošiem datiem, kā arī atkārtoti izmantot citas oficiālās statistikas nodrošināšanai.
+(1) Datus, kas iegūti saskaņā ar šā likuma 14. un 15. pantu, statistikas iestāde izmanto oficiālās statistikas nodrošināšanai un citu likumā noteikto statistikas nodrošināšanas vai datu apstrādes uzdevumu izpildei, izņemot šā likuma 25. un 26. pantā minētos gadījumus.
+(2) Datus var pārveidot, papildināt vai savienot ar citiem statistikas iestādes rīcībā esošajiem datiem, kā arī atkārtoti izmantot likumā noteikto statistikas nodrošināšanas vai datu apstrādes uzdevumu izpildei.
 (3) Statistikas iestādei, izmantojot datus, ir tiesības veidot un uzturēt statistiskos reģistrus oficiālās statistikas nodrošināšanai.
 (4) Statistikas iestāde nosaka datu glabāšanas ilgumu, ņemot vērā oficiālās statistikas nodrošināšanas vajadzības.
 (5) Fiziskās personas datus, kas iegūti oficiālās statistikas nodrošināšanai, anonimizē nekavējoties pēc to iegūšanas, pārbaudes un savienošanas, izņemot gadījumu, kad personas dati joprojām ir nepieciešami oficiālās statistikas nodrošināšanai. Statistikas iestāde nodrošina identificējošo datu atsevišķu un drošu glabāšanu no pārējiem datiem.

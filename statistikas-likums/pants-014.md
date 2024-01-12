@@ -6,3 +6,5 @@
 1) datu pieprasījuma tiesisko pamatu;
 2) statistiskās konfidencialitātes nodrošināšanu;
 3) tās personas pienākumiem un tiesībām, kura viņu intervē, ja oficiālās statistikas apsekojums tiek veikts intervijas veidā.
+(5) Statistikas iestāde fizisko personu un mājsaimniecību apsekojumos respondentiem par datu sniegšanu var paredzēt kompensāciju, lai veicinātu atbildētību.
+(6) Mājsaimniecību apsekojumus statistikas iestāde veic telefoninterviju vai citā attālinātā veidā. Ja nav pieejama kontaktinformācija attālinātai saziņai vai respondentu nevar sasniegt attālināti, apsekojumu veic klātienē.
