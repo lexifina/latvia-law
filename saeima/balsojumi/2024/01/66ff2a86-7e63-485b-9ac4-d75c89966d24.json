@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 2,
+ "datums": "2024-01-18",
+ "ieraksts": {
+  "dkp_id": "a4b204b8-2f67-4622-9712-cc7d236d824c",
+  "lastmodtime": "\"AAAAAAIxgqM=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Didzis#Andris#Andrejs#Māris#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Glorija#Juris#Mārtiņš#Jānis#Uģis#Gatis#Agita#Atis#Māris#Jānis#Edgars#Linda#Jānis#Anita#Gunārs#Edgars#Igors#Leila#Gundars#Jānis#Lauris#Vilis#Atis#Līga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Sprindžuks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Grevcova#Viļums#Felss#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Labucis#Kučinskis#Dombrava#Tavars#Matisone#Vucāns#Brakovska#Kūtris#Putra#Judins#Rasima#Daudze#Patmalnieks#Lizbovskis#Krištopans#Švinka#Kozlovska#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##############################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#AS#PRO#ZZS#AS#ZZS#JV#AS#ZZS#AS#ST!#LPV#NA#JV#NA#ZZS#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!# # #JV#ST!# #AS#JV#NA#NA#JV#JV#JV#AS#NA#AS#AS#ZZS#ZZS#ZZS#AS#ST!#PRO#ZZS#JV#AS#LPV#PRO#ZZS#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.01.2024 10:00:21",
+  "VOTEMOTIVE": "Par 10 186 Latvijas pilsoņu kolektīvā iesnieguma “Par samazinātā PVN 12% apmērā ieviešanu sabiedriskajai ēdināšanai” turpmāko virzību (411/Lm14)",
+  "VOTING_ID": "66ff2a86-7e63-485b-9ac4-d75c89966d24",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "78",
+  "VOTERESULT_REGISTERED": "79",
+  "VOTE_NUMBER": "17",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5c0370b3-a23f-4408-ab44-55cd2318d12f/download/14.saeimas-2024.gada-ziemas-sesija-2-vote.xml",
+  "sha256": "6aab2faf176483cc0d1b4355d6ec56bf2a004cc2ef005c00e6760bc8dc751629",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
