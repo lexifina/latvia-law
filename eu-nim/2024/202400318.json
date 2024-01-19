@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024.gada 16.janvāra noteikumi Nr.39 “Kārtība, kādā Valsts ieņēmumu dienests saņem un sniedz informāciju par pārrobežu maksājumiem un maksājumu saņēmējiem”",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2024/13.6",
+  "official_journal_page": null,
+  "official_journal_date": "2024-01-18",
+  "entry_into_force": "2024-01-19",
+  "notification_date": "2024-01-19",
+  "commission_reference": "MNE(2024)00318",
+  "nim_celex": "72020L0284LVA_202400318",
+  "nim_id": "202400318",
+  "transposes_celex": [
+    "32020L0284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c4b03b59-d78a-417c-ab6b-972a9300bc7d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
