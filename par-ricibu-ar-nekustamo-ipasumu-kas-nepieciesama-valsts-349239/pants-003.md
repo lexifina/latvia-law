@@ -1,0 +1,3 @@
+3. pants.
+(1) Nekustamais īpašums pāriet valsts īpašumā brīvs no visiem apgrūtinājumiem un nastām, tiek dzēstas visas attiecībā uz Nekustamo īpašumu zemesgrāmatā ierakstītās parāda saistības, ķīlas tiesības, prasības nodrošinājuma atzīmes, maksātnespējas atzīmes, procesa virzītāju uzliktie aizliegumi, apgrūtinājumi, kas pieņemti kā īpašuma iegūšanas nosacījumi, lietojuma tiesības, kā arī uz nomas līgumu pamata nostiprinātās tiesības.
+(2) Nostiprinot zemesgrāmatā īpašuma tiesības uz Nekustamo īpašumu, ķīlas tiesību un ar to saistīto aizlieguma atzīmi dzēš bez tās personas piekrišanas, kurai par labu ķīlas tiesība ir nostiprināta. Minētās darbības veic arī tad, ja Nekustamais īpašums ir apgrūtināts ar zemesgrāmatā ierakstītām lietojuma tiesībām un nomas tiesībām.
