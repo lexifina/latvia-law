@@ -1,0 +1,2 @@
+3. pants. Līdz ar Līgumu spēku zaudē Latvijas Republikas Augstākās Padomes 1993. gada 1. jūnija lēmums " Par "Latvijas Republikas un Krievijas Federācijas līguma par tiesisko palīdzību un tiesiskajām attiecībām civillietās, ģimenes lietās un krimināllietās" ratificēšanu " (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 24./25. nr.).
+Likums stājas spēkā nākamajā dienā pēc tā izsludināšanas.

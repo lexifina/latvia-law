@@ -1,0 +1,1 @@
+1. pants. Denonsēt 1993. gada 3. februārī Rīgā parakstīto Latvijas Republikas un Krievijas Federācijas līgumu par tiesisko palīdzību un tiesiskajām attiecībām civillietās, ģimenes lietās un krimināllietās (turpmāk - Līgums).
