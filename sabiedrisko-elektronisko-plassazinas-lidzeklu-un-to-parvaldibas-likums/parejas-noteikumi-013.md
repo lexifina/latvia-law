@@ -1,0 +1,1 @@
+13. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos šajā likumā lietotie termini "Latvijas Radio" un "Latvijas Televīzija" pēc 2025. gada 1. janvāra atbilst šajā likumā noteiktajam terminam "Latvijas Sabiedriskais medijs".
