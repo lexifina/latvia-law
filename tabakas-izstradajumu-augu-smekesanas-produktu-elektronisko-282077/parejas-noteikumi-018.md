@@ -1,0 +1,1 @@
+18. Šā likuma 9. panta piektajā daļā noteiktais aizliegums mazumtirdzniecības vietās izvietot elektroniskās smēķēšanas ierīces ir attiecināms uz elektroniskajām karsēšanas ierīcēm no 2024. gada 1. augusta.

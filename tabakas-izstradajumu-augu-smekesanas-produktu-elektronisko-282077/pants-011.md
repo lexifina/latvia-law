@@ -6,7 +6,7 @@ Ministru kabinets apstiprina Smēķēšanas ierobežošanas valsts komisijas nol
 4) Izglītības un zinātnes ministrijas;
 5) Iekšlietu ministrijas;
 6) Vides aizsardzības un reģionālās attīstības ministrijas;
-7) Tabakas un alkohola kontroles Latvijas nacionālās koalīcijas;
+7) Latvijas Sabiedrības veselības asociācijas;
 8) Latvijas Pašvaldību savienības;
 9) Latvijas Ārstu biedrības;
 10) darba devēju organizācijas;

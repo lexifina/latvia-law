@@ -1,11 +1,13 @@
-3.pants. Ierobežojumi tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un uzpildes tvertņu laišanai tirgū
+3.pants. Ierobežojumi tabakas izstrādājumu, tabakas aizstājējproduktu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un uzpildes tvertņu laišanai tirgū
 (1) Aizliegts laist tirgū:
 1) šņaucamo tabaku un košļājamo tabaku;
 2) tabakas izstrādājumus orālai lietošanai;
 3) tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās cigaretes, uzpildes flakonus un jaunieviestus tabakas izstrādājumus, par kuriem nav iesniegta informācija atbilstoši šā likuma 5.panta pirmajā un otrajā daļā noteiktajam un nav veikta samaksa par sniegtās informācijas apstrādi saskaņā ar Veselības inspekcijas maksas pakalpojumu cenrādi;
-4) tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un jaunieviestus tabakas izstrādājumus, kas neatbilst šā likuma prasībām;
+4) tabakas izstrādājumus, tabakas aizstājējproduktus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un jaunieviestus tabakas izstrādājumus, kas neatbilst šā likuma prasībām;
 5) cigarešu iepakojuma vienības, kurās ir mazāk par 20 cigaretēm;
-6) tinamās tabakas iepakojuma vienības, kurās ir mazāk par 30 gramiem tabakas.
+6) tinamās tabakas iepakojuma vienības, kurās ir mazāk par 30 gramiem tabakas;
+7) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 24. punktu);
+8) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 23. punktu).
 (2) Aizliegts laist tirgū tabakas izstrādājumus, ja:
 1) to sastāvā ir vitamīni vai citas piedevas, kas rada iespaidu, ka tabakas izstrādājums ir labvēlīgs veselībai vai samazina veselības apdraudējumu;
 2) to sastāvā ir kofeīns vai taurīns, vai citas piedevas un stimulējoši savienojumi, kas tiek saistīti ar enerģiju un vitalitāti;
@@ -17,7 +19,8 @@
 (3) Aizliegts laist tirgū cigaretes, ja:
 1) maksimālais darvas emisiju līmenis tajās pārsniedz 10 miligramus vienā cigaretē;
 2) maksimālais nikotīna emisiju līmenis tajās pārsniedz vienu miligramu vienā cigaretē;
-3) maksimālais oglekļa monoksīda emisiju līmenis tajās pārsniedz 10 miligramus vienā cigaretē.
+3) maksimālais oglekļa monoksīda emisiju līmenis tajās pārsniedz 10 miligramus vienā cigaretē;
+4) tās neatbilst degšanas un ugunsdrošības prasībām attiecībā uz pašdziestošām cigaretēm.
 (4) Aizliegts laist tirgū cigaretes, tinamo tabaku un karsējamus tabakas izstrādājumus:
 1) ar raksturīgu aromātu. Aizliegums neattiecas uz piedevām, kas ir būtiskas cigarešu, tinamās tabakas un karsējamu tabakas izstrādājumu ražošanai, ja vien šīs piedevas nerada raksturīgu aromātu un būtiski vai izmērāmi nepalielina izstrādājuma spēju radīt atkarību, toksicitāti vai kancerogēnas, mutagēnas un reproduktīvajai sistēmai toksiskas īpašības;
 2) kuru filtri, papīri, iepakojums, kapsulas satur aromatizētājus vai jebkādus tehniskus elementus, kas var mainīt attiecīgo tabakas izstrādājumu smaržu vai garšu vai to dūmu intensitāti. Filtri, papīri vai kapsulas nesatur tabaku vai nikotīnu.
@@ -29,4 +32,5 @@
 5) nikotīnu saturošā vai nesaturošā šķidrumā tiek izmantotas vienīgi tādas sastāvdaļas, kuras nedz uzkarsētā, nedz neuzkarsētā veidā nerada apdraudējumu cilvēku veselībai. Šis punkts neattiecas uz nikotīnu;
 6) elektroniskās cigaretes normālas lietošanas apstākļos izdala nikotīnu nemainīgās devās;
 7) elektroniskās smēķēšanas ierīces un uzpildes tvertnes ir drošas bērniem un izturīgas pret manipulācijām, aizsargātas pret uzlaušanu un noplūdi, tām ir mehānisms, kas nodrošina uzpildi bez noplūdes. Uzpildes mehānisma tehniskos standartus nosaka Ministru kabinets.
+(5¹) (Daļa stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 24. punktu)
 (6) Izdevumus, kas saistīti ar novērtējumu par to, vai cigaretes, tinamā tabaka vai karsējami tabakas izstrādājumi ir ar raksturīgo aromātu, vai tabakas izstrādājumos ir izmantotas aizliegtas piedevas vai aromatizētāji un vai tabakas izstrādājumi satur piedevas tādā daudzumā, kas ievērojami vai izmērāmi palielina attiecīgā tabakas izstrādājuma toksisko vai atkarību izraisošo ietekmi, vai piedevai piemīt kancerogēnās, mutagēnās un reproduktīvajai sistēmai toksiskās īpašības, sedz ražotāji un importētāji saskaņā ar Veselības inspekcijas maksas pakalpojumu cenrādi. Par tabakas izstrādājumu testēšanu akreditētā laboratorijā pēc Veselības inspekcijas pieprasījuma, pārbaudot aizliegtu piedevu vai aromatizētāju saturu, ražotāji un importētāji veic samaksu attiecīgajai laboratorijai.

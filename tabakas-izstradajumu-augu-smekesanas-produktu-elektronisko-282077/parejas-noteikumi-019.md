@@ -1,0 +1,1 @@
+19. Grozījums par šā likuma 3. panta sestās daļas izteikšanu jaunā redakcijā, 5.¹ pants, kā arī grozījums 7. panta sestajā daļā par pilnvarojumu Ministru kabinetam noteikt noformēšanas un novietošanas prasības uz tabakas aizstājējproduktu iepakojuma vienības vai jebkāda ārēja iepakojuma izvietotiem brīdinājumiem stājas spēkā 2024. gada 1. augustā.

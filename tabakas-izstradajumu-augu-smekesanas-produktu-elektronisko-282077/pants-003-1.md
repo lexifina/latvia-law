@@ -1,0 +1,2 @@
+3.¹ pants. Ierobežojumi tabakas izstrādājumu laišanai brīvā apgrozībā
+Šā likuma 3. panta pirmās daļas 1. un 2. punktā minētās preces, kuras nav atļauts laist tirgū, aizliegts laist brīvā apgrozībā normatīvo aktu muitas jomā izpratnē, izņemot to laišanu brīvā apgrozībā nolūkā piegādāt preces saņēmējam citā dalībvalstī un laist preces brīvā apgrozībā ar daļēju nodošanu patēriņam, ja preces tiek novietotas akcīzes preču noliktavā.

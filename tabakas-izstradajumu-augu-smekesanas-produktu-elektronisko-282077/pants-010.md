@@ -7,7 +7,7 @@
 4) tuvāk par 10 metriem no ieejām ēkās vai būvēs (arī uz ārējām kāpnēm un lieveņiem), kur izvietotas valsts pārvaldes iestādes un kapitālsabiedrības, kurās vairāk nekā 50 procenti kapitāla daļu (akciju) pieder publiskai personai. Šajās vietās izliek informatīvus uzrakstus vai simbolus par smēķēšanas aizliegumu;
 5) sabiedriskā transporta pieturvietu nojumēs un uz peroniem;
 6) daudzdzīvokļu dzīvojamo māju kāpņu telpās, gaiteņos un citās koplietošanas telpās;
-7) uz daudzdzīvokļu dzīvojamo māju balkoniem un lodžijām, ja kāds no mājas iedzīvotājiem pret to pamatoti iebilst;
+7) uz daudzdzīvokļu dzīvojamo māju terasēm, balkoniem un lodžijām, ja kāds no mājas iedzīvotājiem pret to pamatoti iebilst;
 8) darbavietās darba un koplietošanas telpās, izņemot telpu, kas speciāli ierādīta smēķēšanai;
 9) publiskās ēkās, būvēs un publiskās telpās. Šis aizliegums neattiecas uz publiskās ēkās esošajiem dzīvokļiem;
 10) sabiedrisko transportlīdzekļu, taksometru un tādu kuģu, kuri kā pakalpojumu īsteno pasažieru pārvadājumus, salonos, kabīnēs un kajītēs. Tālsatiksmes vilcienos un kuģos, kuri kā pakalpojumu īsteno pasažieru pārvadājumus, var būt atsevišķi vagoni vai kajītes, kas paredzēti smēķētājiem;
@@ -16,7 +16,9 @@
 13) bērnu atpūtas un rotaļu laukumos;
 14) parkos, skvēros un peldvietās, izņemot vietas, kas speciāli ierādītas smēķēšanai;
 15) kafejnīcās, restorānos un citās sabiedriskās ēdināšanas vietās, izņemot vasaras (āra) kafejnīcas, kurās atļauts smēķēt tikai vietās, kas speciāli ierādītas smēķēšanai;
-16) jebkurā citā šajā pantā neminētā publiskā vietā citas personas klātbūtnē, ja šī persona pret to iebilst.
+16) jebkurā citā šajā pantā neminētā publiskā vietā citas personas klātbūtnē, ja šī persona pret to iebilst;
+17) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 22. punktu);
+18) Saeimas un Ministru kabineta ēkās, izņemot telpas, kas speciāli ierādītas smēķēšanai.
 (3) Viesnīcās un citās īslaicīgas apmešanās mītnēs var būt speciāli ierādītas guļamtelpas, kurās ir atļauts smēķēt.
 (4) Kazino un spēļu zālēs atļauts smēķēt tikai telpā, kas speciāli ierādīta smēķēšanai, vai atsevišķi nodalītā telpā, kas paredzēta smēķēšanai un kas ēkas tehniskās inventarizācijas plānā atzīmēta kā konstruktīvi nodalīta telpa, kura paredzēta pamatpakalpojumu saņemšanai un smēķēšanai un ir aprīkota ar nosūces ventilāciju. Šī telpa aizņem ne vairāk kā 50 procentus no kopējās publiskās telpas platības un ir izvietota pēc iespējas tālāk no ieejas. Telpā ir attiecīgs informatīvs uzraksts vai simbols.
 (5) Starptautiskās satiksmes lidostas izlidošanas publiskajās telpās aiz drošības kontroles punktiem var būt ierīkota telpa, kas speciāli ierādīta smēķēšanai.
