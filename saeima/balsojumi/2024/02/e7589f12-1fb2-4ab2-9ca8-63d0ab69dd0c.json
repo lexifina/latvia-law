@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 7,
+ "datums": "2024-02-15",
+ "ieraksts": {
+  "dkp_id": "e300f136-e106-4075-98ec-5f603aa6f3b0",
+  "lastmodtime": "\"AAAAAAIyzZU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Viktorija#Zanda#Ervins#Alīna#Jekaterina#Ilze#Jānis#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Augusts#Aiva#Valdis#Līga#Nataļja#Oļegs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Ramona#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Gendele#Drelinga#Vergina#Reirs#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Marčenko-Jodko#Burovs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "##################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#ZZS#ST!#JV#ST!#ZZS#PRO#ZZS#JV#JV#AS#NA#ZZS#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#JV#PRO#JV#ST!#JV#JV#JV#NA# #JV#JV#ZZS#ZZS#AS#ZZS#ZZS#ST!# #JV#ST!#AS#JV#ZZS#NA#NA#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS#LPV#JV#AS#LPV#PRO# #JV#PRO#JV",
+  "RESULT": "Par#Par#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Par#Atturas#Atturas#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Par#Par#Atturas#Atturas#Pret#Atturas#Par#Atturas#Atturas#Par#Pret#Atturas#Par#Par#Atturas#Atturas#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Atturas#Atturas#Atturas#Par#Par#Par#Par#Atturas#Par#Par#Atturas#Par#Atturas#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.02.2024 09:10:06",
+  "VOTEMOTIVE": "Grozījumi likumā “Par maternitātes un slimības apdrošināšanu” (511/Lp14), nodošana komisijām",
+  "VOTING_ID": "e7589f12-1fb2-4ab2-9ca8-63d0ab69dd0c",
+  "VOTERESULT_ABSTAIN": "42",
+  "VOTERESULT_AGAINST": "3",
+  "VOTERESULT_FOR": "38",
+  "VOTERESULT_REGISTERED": "83",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc94592f-b1ca-4410-9616-04bbd3adba19/download/14.saeimas-2024.gada-ziemas-sesija-7-vote.xml",
+  "sha256": "33473b11ff8ca5bf5f7be87db8983c65895687f3e865ce1744a259ddefbc66dc",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
