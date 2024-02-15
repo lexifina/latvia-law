@@ -1,0 +1,1 @@
+26. Ministru kabinets līdz 2024. gada 30. jūnijam iesniedz Saeimai ziņojumu par ostu pārvaldības reformas īstenošanu atbilstoši šā likuma pārejas noteikumu 15., 16., 17., 18., 19., 20. un 21. punktā noteiktajam un, ja ostu pārvaldes reformas gaitu nepieciešams pilnveidot vai pārskatīt, sagatavo un iesniedz nepieciešamos šā likuma grozījumus.
