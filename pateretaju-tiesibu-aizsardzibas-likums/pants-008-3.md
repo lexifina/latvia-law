@@ -7,4 +7,6 @@
 5) to īsteno pasta vai elektroniskos sūtījumos patērētājam, ja patērētājs nepārprotami iepriekš piekritis tos saņemt;
 6) ar kreditēšanu nesaistītas preces, pakalpojuma, digitālā satura vai digitālā pakalpojuma reklāmā, izņemot reklāmu televīzijā vai radio, persona, kas nav kredīta devējs vai kredīta starpnieks, sniedz informāciju par iespēju apmaksu finansēt ar kreditēšanas līguma starpniecību.
 (2) Šā panta pirmā daļa neattiecas uz kredīta devēja un kredīta starpnieka preču zīmes reklāmu. Kredīta devēja un kredīta starpnieka preču zīmes (tai skaitā sponsorēšanas) reklāma ir aizliegta sabiedriskā pasūtījuma ietvaros radio vai televīzijā īstenotos projektos, kas finansēti no valsts vai pašvaldības budžeta līdzekļiem.
-(3) Šā panta pirmā daļa neattiecas uz Augstskolu likumā noteikto studiju kredītu un studējošo kredītu.
+(3) Šā panta pirmā daļa neattiecas uz:
+1) Augstskolu likumā noteikto studiju kredītu un studējošo kredītu;
+2) kredītu, kura atmaksa nodrošināta ar nekustamā īpašuma hipotēku vai kura mērķis ir iegūt vai saglabāt tiesības uz nekustamo īpašumu, nekustamā īpašuma būvniecība vai energoefektivitātes paaugstināšana.
