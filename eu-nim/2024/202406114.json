@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Rīgas domes 2024. gada 21. februāra saistošie noteikumi Nr. RD-24-260-sn \"Par teritoriālajām zonām siltumapgādes veida izvēlei un prasībām siltumapgādes sistēmas iekārtu izvēlei\"",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "40",
+  "official_journal_page": null,
+  "official_journal_date": "2024-02-26",
+  "entry_into_force": "2024-02-27",
+  "notification_date": "2024-12-29",
+  "commission_reference": "MNE(2024)06114",
+  "nim_celex": "72024L1275LVA_202406114",
+  "nim_id": "202406114",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/19b1a612-c1b6-4a11-bb97-59731256a373",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
