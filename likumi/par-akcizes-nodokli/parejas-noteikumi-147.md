@@ -1,0 +1,3 @@
+147. Līdz dienai, kad atbilstoši šo pārejas noteikumu 146. punktam sāk piemērot šā likuma 12. panta pirmās daļas 1. punktā noteikto nodokļa likmi alum (par 100 litriem), alu apliek ar nodokli:
+1) no 2024. gada 1. marta līdz 2025. gada 28. februārim - 9 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 16,7 euro par 100 litriem alus;
+2) no 2025. gada 1. marta līdz 2026. gada 28. februārim - 9,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 18,1 euro par 100 litriem alus.

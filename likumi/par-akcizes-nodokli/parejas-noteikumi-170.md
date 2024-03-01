@@ -1,0 +1,1 @@
+170. Šā likuma 15. panta pirmās daļas 2. punktā noteikto nodokļa likmi bezalkoholiskajiem dzērieniem (ar cukura saturu no 8 gramiem (ieskaitot) uz 100 mililitriem un enerģijas dzērieniem - 21 euro par 100 litriem) piemēro ar 2026. gada 1. janvāri.

@@ -1,0 +1,1 @@
+168. Šā likuma 14. panta 2.³ daļā noteikto nodokļa likmi naftas produktiem, arī tad, ja tiem pievienota biodīzeļdegviela, kas pilnībā iegūta no biomasas, vai parafinizēta dīzeļdegviela, kas iegūta no biomasas, (324 euro par 1000 litriem) piemēro ar 2026. gada 1. janvāri.

@@ -1,0 +1,1 @@
+146. Šā likuma 12. panta pirmās daļas 1. punktā noteikto nodokļa likmi alum (par 100 litriem) - 10,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 20 euro par 100 litriem alus - piemēro ar 2026. gada 1. martu.

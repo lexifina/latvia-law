@@ -1,15 +1,15 @@
 12.pants. Nodokļa likmes alkoholiskajiem dzērieniem
 (1) Alkoholiskajiem dzērieniem nodokli aprēķina pēc šādām likmēm:
-1) alum (par 100 litriem) - 8,2 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 15,2 euro par 100 litriem alus;
-2) vīnam (par 100 litriem) - 111 euro;
+1) alum (par 100 litriem) - 10,8 euro par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai, bet ne mazāk kā 20 euro par 100 litriem alus;
+2) vīnam (par 100 litriem) - 148 euro;
 3) raudzētajiem dzērieniem (par 100 litriem):
-a) ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot) - 64 euro,
-b) ar absolūtā spirta saturu virs 6 tilpumprocentiem - 111 euro;
+a) ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot) - 85 euro,
+b) ar absolūtā spirta saturu virs 6 tilpumprocentiem - 148 euro;
 4) starpproduktiem (par 100 litriem):
-a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 111 euro,
-b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 185 euro;
-5) pārējiem alkoholiskajiem dzērieniem (par 100 litriem absolūtā spirta) - 1724 euro.
-(2) Par vienā kalendāra gadā patstāvīgā mazā alus ražotāja saražotajiem 10 tūkstošiem hektolitru alus piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 1. punktā noteiktās likmes.
+a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 148 euro,
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 244 euro;
+5) pārējiem alkoholiskajiem dzērieniem (par 100 litriem absolūtā spirta) - 2053 euro.
+(2) Par vienā kalendāra gadā patstāvīgā mazā alus ražotāja saražotajiem 10 tūkstošiem hektolitru alus piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 1. punktā noteiktās likmes par katru absolūtā spirta tilpumprocentu, kas izteikts ar precizitāti līdz vienai desmitdaļai.
 (3) Par vienā kalendāra gadā patstāvīgā vidējā vīna ražotāja saražotajiem 100 hektolitriem vīna vai par mazās alkoholisko dzērienu darītavas, kas ražo vīnu, saražotajiem 150 hektolitriem vīna piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 2. punktā noteiktās likmes.
 (4) Par vienā kalendāra gadā patstāvīgā vidējā raudzēto dzērienu ražotāja saražotajiem 1500 hektolitriem raudzēto dzērienu vai par mazās alkoholisko dzērienu darītavas, kas ražo raudzētos dzērienus, saražotajiem 150 hektolitriem raudzēto dzērienu piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 3. punktā noteiktās likmes.
 (5) Par vienā kalendāra gadā patstāvīgā vidējā starpproduktu ražotāja saražotajiem 80 hektolitriem starpproduktu vai par mazās alkoholisko dzērienu darītavas, kas ražo starpproduktus, saražotajiem 10 hektolitriem starpproduktu piemēro likmi 50 procentu apmērā no šā panta pirmās daļas 4. punktā noteiktās likmes.

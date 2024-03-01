@@ -1,0 +1,1 @@
+164. Šā likuma 13.¹ pantā noteikto nodokļa likmi elektroniskajās smēķēšanas ierīcēs izmantojamam šķidrumam un elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām (0,35 euro par 1 mililitru šķidruma) piemēro ar 2026. gada 1. janvāri.
