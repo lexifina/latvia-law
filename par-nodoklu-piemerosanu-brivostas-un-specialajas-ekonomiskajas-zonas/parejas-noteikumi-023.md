@@ -1,0 +1,1 @@
+23. Piemērojot šā likuma 3. panta devīto daļu līdz dienai, kad atbilstoši likuma "Par akcīzes nodokli" pārejas noteikumu 168. punktam sāk piemērot minētā likuma 14. panta 2.³ daļā noteikto likmi, ņem vērā likuma "Par akcīzes nodokli" pārejas noteikumu 169. punktā noteikto.
