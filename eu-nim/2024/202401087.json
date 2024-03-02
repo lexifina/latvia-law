@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 26. februāra noteikumi Nr. 274 \"Noteikumi par finanšu konglomerāta kapitāla pietiekamības aprēķināšanas kārtību un papildu uzraudzībai nepieciešamās informācijas sniegšanas kārtību\".",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "44",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-01",
+  "entry_into_force": "2024-03-02",
+  "notification_date": "2024-03-04",
+  "commission_reference": "MNE(2024)01087",
+  "nim_celex": "72002L0087LVA_202401087",
+  "nim_id": "202401087",
+  "transposes_celex": [
+    "32002L0087"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/da850171-5ad8-4e48-bcd7-87e80f2ff146",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
