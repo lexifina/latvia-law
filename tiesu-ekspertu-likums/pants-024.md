@@ -5,7 +5,7 @@
 (2) Tiesu ekspertu padome var apturēt tiesu eksperta sertifikāta darbību uz laiku, ne ilgāku par diviem gadiem, ja:
 1) tiesu eksperts ir apsūdzētais vai aizdomās turētais kriminālprocesā par tīša noziedzīga nodarījuma izdarīšanu;
 2) pret tiesu ekspertu ir ierosināta disciplinārlieta;
-3) tiesu eksperts nav izpildījis šā likuma 14.panta otrās daļas 3.punktā noteikto.
+3) tiesu eksperts nav izpildījis šā likuma 14.panta otrās daļas 11. punktā noteikto.
 (3) Tiesu ekspertu padome lemj par tiesu eksperta sertifikāta darbības atjaunošanu, ja ir zudis tiesu eksperta sertifikāta darbības apturēšanas pamats un nav pārsniegts šā panta pirmajā un otrajā daļā noteiktais tiesu eksperta sertifikāta apturēšanas ilgums. Lēmumu pieņem, pamatojoties uz tiesu eksperta iesniegumu.
 (4) Tiesu ekspertu padome izbeidz tiesu eksperta sertifikāta darbību, ja:
 1) uz tiesu ekspertu ir attiecināms šā likuma 6.panta trešās daļas 2., 3., 4., 5. vai 7.punkts;
