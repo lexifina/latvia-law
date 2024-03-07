@@ -24,16 +24,18 @@ d) citas darbības, kurām nav preču-naudas (arī ieskaita) darījuma izpildes 
 (4) Atļauju piemērot tiešo nodokļu atvieglojumus par šā likuma 1. panta otrās daļas 12. punktā noteikto zonas pārvalde vai brīvostas pārvalde nepiešķir šādām kapitālsabiedrībām:
 1) Komisijas regulas Nr. 651/2014 2. panta 45. punktā minētās transporta nozares kapitālsabiedrībām un saistītajai transporta infrastruktūrai, kā noteikts Komisijas regulas Nr. 651/2014 13. panta "b" apakšpunktā;
 2) Komisijas regulas Nr. 651/2014 2. panta 43. punktā minētās tērauda nozares kapitālsabiedrībām, kā noteikts Komisijas regulas Nr. 651/2014 13. panta "a" apakšpunktā;
-3) Komisijas regulas Nr. 651/2014 2. panta 44. punktā minētās sintētisko šķiedru nozares kapitālsabiedrībām, kā noteikts Komisijas regulas Nr. 651/2014 13. panta "a" apakšpunktā;
+3) (izslēgts ar 29.02.2024. likumu);
 4) Komisijas regulas Nr. 651/2014 2. panta 8., 9., 10. un 11. punktā minētās lauksaimniecības nozares kapitālsabiedrībām, kā noteikts Komisijas regulas Nr. 651/2014 1. panta 3. punkta "b" un "c" apakšpunktā;
 5) Komisijas regulas Nr. 651/2014 1. panta 3. punkta "a" apakšpunktā minētās zvejniecības un akvakultūras nozares kapitālsabiedrībām;
 6) Komisijas regulas Nr. 651/2014 2. panta 13. punktā minētās ogļu rūpniecības nozares kapitālsabiedrībām, kā noteikts Komisijas regulas Nr. 651/2014 13. panta "a" apakšpunktā;
-7) Komisijas regulas Nr. 651/2014 13. panta "a" apakšpunktā un šā likuma 7. pielikuma 1. punktā minētās kuģu būves nozares kapitālsabiedrībām;
-8) Komisijas regulas Nr. 651/2014 13. panta "b" apakšpunktā minētās enerģijas ražošanas un sadales nozares kapitālsabiedrībām un Komisijas regulas Nr. 651/2014 2. panta 130. punktā minētajai energoinfrastruktūrai, izņemot zonas kapitālsabiedrības vai licencētas kapitālsabiedrības, kas ieguldījumu izmaksu aprēķinā ir ietvērušas enerģiju ražojošo iekārtu izmaksas, un tās atbilst visiem šādiem nosacījumiem:
+6¹) Komisijas regulas Nr. 651/2014 2. panta 43.a punktā minētās lignīta rūpniecības nozares kapitālsabiedrībām, kā noteikts Komisijas regulas Nr. 651/2014 13. panta "a" apakšpunktā;
+7) (izslēgts ar 29.02.2024. likumu);
+8) Komisijas regulas Nr. 651/2014 13. panta "b" apakšpunktā minētās enerģijas ražošanas, akumulēšanas, pārvades un sadales nozares kapitālsabiedrībām un Komisijas regulas Nr. 651/2014 2. panta 130. punktā minētajai energoinfrastruktūrai, izņemot zonas kapitālsabiedrības vai licencētas kapitālsabiedrības, kas ieguldījumu izmaksu aprēķinā ir ietvērušas enerģiju ražojošo iekārtu izmaksas, un tās atbilst visiem šādiem nosacījumiem:
 a) ieguldījumu projekta galvenais mērķis nav vērsts uz enerģijas ražošanu un tirdzniecību,
 b) sākotnējie ieguldījumi enerģiju ražojošās iekārtās ir plānoti mazākā apjomā attiecībā pret visiem veicamajiem sākotnējiem ieguldījumiem projekta ietvaros. Enerģiju ražojošo iekārtu izmaksas attiecināmas ne vairāk kā 30 procentu apmērā no kopējās ieguldījumu vērtības projektā,
 c) enerģija saražota zonas kapitālsabiedrības vai licencētas kapitālsabiedrības pašpatēriņam, un enerģijas ražošanas jaudai ir jābūt pielāgotai zonas kapitālsabiedrības vai licencētas kapitālsabiedrības ražošanas vai pakalpojumu nodrošināšanai,
-d) ieguldījumi attiecināmi uz atjaunojamiem enerģijas avotiem vai augstas efektivitātes koģenerāciju.
+d) ieguldījumi attiecināmi uz atjaunojamiem enerģijas avotiem vai augstas efektivitātes koģenerāciju;
+9) Komisijas regulas Nr. 651/2014 13. panta "b" apakšpunktā minētās platjoslas nozares kapitālsabiedrībām.
 (4¹) Atļauju piemērot tiešo nodokļu atvieglojumus par šā likuma 1. panta otrās daļas 4.¹ un 12. punktā noteikto Latgales speciālās ekonomiskās zonas pārvalde papildus šā panta ceturtajā daļā minētajam nepiešķir kapitālsabiedrībām, kas īsteno ieguldījumu projektu šādās nozarēs:
 1) tabakas audzēšana (NACE kods: A01.15);
 2) dzērienu ražošana (NACE kods: C11), izņemot bezalkohola dzērienu ražošanu; minerālūdeņu un pudelēs iepildītu citu ūdeņu ražošana (NACE kods: 11.07);

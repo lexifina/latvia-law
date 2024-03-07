@@ -1,52 +1,29 @@
-1. Kapitālsabiedrības nosaukums, reģistrācijas numurs, nodokļu maksātāja reģistrācijas numurs, kontaktinformācija.
-2. Zonas pārvalde vai brīvostas pārvalde, kurai pieteikums iesniegts.
-3. Statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā tiks veikti ieguldījumi.
-4. Ieguldījuma projekta nosaukums.
-5. Plānoto sākotnējo ieguldījumu apraksts, norādot, vai ieguldījumi plānoti saistībā ar:
+1. Zonas kapitālsabiedrības nosaukums, reģistrācijas numurs, nodokļu maksātāja reģistrācijas numurs un kontaktinformācija.
+2. Zonas pārvalde, kurai pieteikums iesniegts.
+3. Statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā tiks veikti sākotnējie ieguldījumi.
+4. Ieguldījumu projekta nosaukums.
+5. Plānoto sākotnējo ieguldījumu apraksts, norādot, vai sākotnējie ieguldījumi plānoti saistībā ar:
 a) jaunas kapitālsabiedrības izveidi,
 b) esošas kapitālsabiedrības ražošanas vai pakalpojumu jaudas pieaugumu,
 c) esošas kapitālsabiedrības produkcijas daudzveidošanu ar produktiem, kuri kapitālsabiedrībā iepriekš nav ražoti,
 d) esošas kapitālsabiedrības ražošanas procesu būtisku maiņu.
-6. Plānoto sākotnējo ieguldījumu apmērs (euro).
-7. Plānoto sākotnējo ieguldījumu sākuma datums.
-8. Plānoto sākotnējo ieguldījumu beigu datums.
-9. Attiecībā uz kapitālsabiedrības citiem uzsāktajiem sākotnējo ieguldījumu projektiem, kuru īstenošanai saņem atbalstu, tai skaitā de minimis atbalstu, norāda šādu informāciju:
+6. Plānotais jaunizveidoto darba vietu skaits.
+7. Paredzamais algu izmaksu apmērs (euro).
+8. Paredzamais algu izmaksu sākuma un beigu datums.
+9. Attiecībā uz zonas kapitālsabiedrības pēdējo triju gadu laikā veiktajām attiecināmo izmaksu (sākotnējo ieguldījumu vai paredzamo algu izmaksu) summām tajā pašā vai līdzīgā darbībā, par kurām zonas kapitālsabiedrība saņēmusi atbalstu, kā arī plānotajām attiecināmo izmaksu summām sniedz šādu informāciju:
 a) projekta nosaukums,
-b) statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā tiks veikti ieguldījumi,
-c) ieguldījumu objekti un to saistība ar plānotajiem ieguldījumiem nodokļu atvieglojumu saņemšanai,
+b) statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā veiktas attiecināmo izmaksu summas,
+c) ieguldījumu objekti un to saistība ar plānotajām attiecināmo izmaksu summām nodokļu atvieglojumu saņemšanai,
 d) piemērotā maksimālā atbalsta procentu likme,
-e) ieguldījumu apmērs (euro),
-f) ieguldījumu veikšanas sākuma un beigu termiņš,
-g) atbalsta sniegšanas juridiskais pamats (likums, Ministru Kabineta noteikumi u. c.),
-h) atbalsta sniedzējas institūcijas lēmuma datums par atbalsta piešķiršanu.
-10. Attiecībā uz kapitālsabiedrības citiem plānotajiem sākotnējo ieguldījumu projektiem, kuru īstenošanai plānots saņemt atbalstu, tai skaitā de minimis atbalstu, sniedz šādu informāciju:
-a) projekta nosaukums,
-b) statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā tiks veikti ieguldījumi,
-c) ieguldījumu objekti un to saistība ar plānotajiem ieguldījumiem nodokļu atvieglojumu saņemšanai,
-d) piemērotā maksimālā atbalsta procentu likme,
-e) ieguldījumu apmērs (euro),
-f) ieguldījumu veikšanas sākuma un beigu termiņš,
-g) atbalsta sniegšanas juridiskais pamats (likums, Ministru Kabineta noteikumi u. c.),
-h) atbalsta sniedzējas institūcijas lēmuma datums par atbalsta piešķiršanu.
-11. Attiecībā uz kapitālsabiedrības citiem pēdējo triju gadu laikā veiktajiem un pabeigtajiem sākotnējo ieguldījumu projektiem, kuru īstenošanai saņemts atbalsts, tai skaitā de minimis atbalsts, sniedz šādu informāciju:
-a) projekta nosaukums,
-b) statistiski teritoriālo vienību klasifikācijas (NUTS) III līmeņa reģions, kurā tika veikti ieguldījumi,
-c) ieguldījumu objekti un to saistība ar plānotajiem ieguldījumiem nodokļu atvieglojumu saņemšanai,
-d) piemērotā maksimālā atbalsta procentu likme,
-e) ieguldījumu apmērs (euro),
-f) ieguldījumu veikšanas sākuma un beigu termiņš,
-g) atbalsta sniegšanas juridiskais pamats (likums, Ministru Kabineta noteikumi u. c.).
-12. Ja kapitālsabiedrība sniedz šā pielikuma 9., 10. un 11.punktā norādīto informāciju, norādāms, vai kapitālsabiedrības īstenotie un plānotie sākotnējo ieguldījumu projekti nav kvalificējami kā vienots ieguldījumu projekts atbilstoši šā likuma 8.¹ panta otrajā daļā noteiktajam.
-13. Plānotais atbalsta procents nodokļu atvieglojumu piemērošanai (noteikts saskaņā ar šā likuma 8.panta pirmo daļu, 8.¹ panta trešo daļu vai 8.² panta pirmo un otro daļu).
-14. Kapitālsabiedrības statuss projekta pieteikuma iesniegšanas brīdī atbilstoši Komisijas regulas Nr. 651/2014 I pielikumā noteiktajam (liela, vidēja vai maza kapitālsabiedrība).
-15. Kapitālsabiedrības apliecinājums, ka tā nodrošinās finansiālo ieguldījumu vismaz 25 procentu apmērā no līgumā par ieguldījumu veikšanu paredzētajām kopējām ieguldījumu projekta izmaksām, par kurām nav saņemts valsts atbalsts, tas ir, finansējumu vismaz 25 procentu apmērā no pašas saimnieciskajiem resursiem vai ārējiem finanšu resursiem, par kuriem nav saņemts nekāds publiskais atbalsts, tai skaitā nav saņemts valsts vai pašvaldības galvojums vai valsts vai pašvaldības aizdevums ar atvieglotiem nosacījumiem.
-16. Ņemot vērā šā likuma 5. panta ceturtajā daļā un 4.¹ daļā noteiktos nozaru ierobežojumus, ieguldījumu projekta ietvaros ražotie produkti vai sniegtie pakalpojumi nosakāmi atbilstoši PRODCOM/NACE/CPA (CPA - pakalpojumu projektu gadījumā) klasifikācijām, kur:
-PRODCOM - ieguves un apstrādes rūpniecības produktu klasifikācija;
-NACE - vispārējās ekonomiskās darbības klasifikācija;
-CPA - Eiropas Savienības Preču statistiskā klasifikācija pēc saimniecības nozarēm.
-17. Apliecinājums, ka ieguldījumi paliks attiecīgajā apgabalā vismaz piecus gadus (vai mazo vai vidējo kapitālsabiedrību gadījumā - trīs gadus) kopš to veikšanas.
-18. Kapitālsabiedrības apliecinājums, ka uz kapitālsabiedrību neattiecas nelikumīgi piešķirta atbalsta atgūšanas rīkojums saskaņā ar iepriekšēju Eiropas Komisijas lēmumu.
-19. Informācija, ka kapitālsabiedrība neatbilst grūtībās nonākušas kapitālsabiedrības statusam saskaņā ar Komisijas regulas Nr. 651/2014 2. panta 18. punktu, izņemot kapitālsabiedrības, kuras 2019. gada 31. decembrī nebija nonākušas grūtībās, taču kļuva par grūtībās nonākušām kapitālsabiedrībām laikposmā no 2020. gada 1. janvāra līdz 2021. gada 31. decembrim un turpina tādas būt pēc 2021. gada 31. decembra.
-20. Apliecinājums, ka kapitālsabiedrība nav uzsākusi un neuzsāks darbus pie projekta pirms līguma par ieguldījuma veikšanu spēkā stāšanās.
-21. Ja nodokļu atvieglojumus šā likuma ietvaros plānots apvienot ar citu atbalstu ieguldījumiem, kapitālsabiedrības apliecinājums, ka ieguldījumu veikšana nav uzsākta.
-22. Apliecinājums, ka kapitālsabiedrība pēdējo divu gadu laikā pirms pieteikuma iesniegšanas līguma par ieguldījumu veikšanu slēgšanai nav veikusi pārcelšanu uz attiecīgo zonas vai brīvostas teritoriju, kurā tiks veikts sākotnējais ieguldījums, kuram pieprasīts atbalsts, un apņemas to nedarīt divus gadus pēc tam, kad ir pabeigts sākotnējais ieguldījums, kuram tiek pieprasīts atbalsts.
+e) attiecināmo izmaksu summa (euro),
+f) attiecināmo izmaksu veikšanas sākuma un beigu termiņš,
+g) atbalsta sniegšanas juridiskais pamats (likums, Ministru kabineta noteikumi u. c.).
+10. Plānotais atbalsta procents nodokļu atvieglojumu piemērošanai par paredzamajām algu izmaksām (noteikts saskaņā ar šā likuma 8. panta pirmo un otro daļu, 8.¹ panta trešo daļu un 8.² panta ceturto daļu).
+11. Zonas kapitālsabiedrības statuss projekta pieteikuma iesniegšanas brīdī atbilstoši Komisijas regulas Nr. 651/2014 I pielikumā noteiktajam (liela, vidēja vai maza kapitālsabiedrība).
+12. Zonas kapitālsabiedrības apliecinājums, ka ieguldījumu projekts radīs darbinieku skaita tīru pieaugumu Komisijas regulas Nr. 651/2014 2. panta 32. punkta izpratnē salīdzinājumā ar vidējo rādītāju iepriekšējos 12 mēnešos un ka darba vietu kapitālsabiedrība nodrošina triju gadu laikā pēc sākotnējo ieguldījumu pabeigšanas, ievērojot, ka saskaņā ar Komisijas regulas Nr. 651/2014 14. panta 9. punktu no radīto darba vietu skaita atņem attiecīgajā periodā zaudētās darba vietas, kas izteiktas gada darbaspēka vienībās. Nodarbinātā deklarētā dzīvesvieta attiecībā uz Rēzeknes speciālās ekonomiskās zonas un Latgales speciālās ekonomiskās zonas kapitālsabiedrību ir Latgales plānošanas reģionā, bet attiecībā uz Liepājas speciālās ekonomiskās zonas kapitālsabiedrību - Kurzemes plānošanas reģionā ietilpstošajā Liepājas valstspilsētas pašvaldībā, Dienvidkurzemes novadā vai Kuldīgas novada Alsungas pagastā, un darba vieta lielā kapitālsabiedrībā tiks saglabāta vismaz piecus gadus, bet mazās vai vidējās kapitālsabiedrībās - vismaz trīs gadus no dienas, kad attiecīgā darba vieta pirmo reizi ir nodrošināta.
+13. Zonas kapitālsabiedrības apliecinājums, ka tā nodrošinās finansiālo ieguldījumu vismaz 25 procentu apmērā no līgumā par paredzamo algu izmaksu veikšanu kopējām paredzamajām algu izmaksām ieguldījumu projekta ietvaros, par kurām nav saņemts valsts atbalsts, tas ir, finansējumu vismaz 25 procentu apmērā no pašas saimnieciskajiem resursiem vai ārējiem finanšu resursiem, par kuriem nav saņemts nekāds publiskais atbalsts, tai skaitā nav saņemts valsts vai pašvaldības galvojums vai valsts vai pašvaldības aizdevums ar atvieglotiem nosacījumiem.
+14. Zonas kapitālsabiedrības apliecinājums, ka darbi pie projekta atbilstoši šā likuma 1. panta otrās daļas 12. punktā noteiktajam tiks uzsākti tikai pēc tam, kad stājies spēkā līgums par paredzamo algu izmaksu veikšanu.
+15. Ņemot vērā šā likuma 5. panta ceturtajā daļā, 4.¹ un 4.² daļā zonas kapitālsabiedrībām noteiktos saimnieciskās darbības veidu ierobežojumus, ieguldījumu projekta ietvaros paredzamās algu izmaksas ir nosakāmas zonas kapitālsabiedrībām ar saimnieciskās darbības veidu atbilstoši NACE - vispārējās ekonomiskās darbības klasifikācijai. Zonas kapitālsabiedrība norāda atbilstošu savas saimnieciskās darbības kodu.
+16. Zonas kapitālsabiedrības apliecinājums, ka uz to neattiecas nelikumīga un nesaderīga valsts atbalsta atgūšanas rīkojums saskaņā ar iepriekšēju Eiropas Komisijas lēmumu.
+17. Informācija, ka zonas kapitālsabiedrība neatbilst grūtībās nonākušas zonas kapitālsabiedrības statusam saskaņā ar Komisijas regulas Nr. 651/2014 2. panta 18. punktu, izņemot kapitālsabiedrības, kuras 2019. gada 31. decembrī nebija nonākušas grūtībās, taču kļuva par grūtībās nonākušām kapitālsabiedrībām laikposmā no 2020. gada 1. janvāra līdz 2021. gada 31. decembrim un turpina tādas būt pēc 2021. gada 31. decembra.
+18. Apliecinājums, ka zonas kapitālsabiedrība pēdējo divu gadu laikā pirms pieteikuma iesniegšanas līguma par paredzamo algu izmaksu veikšanu slēgšanai nav veikusi pārcelšanu uz attiecīgo zonas teritoriju, kurā tiks veiktas paredzamās algu izmaksas, kurām pieprasīts atbalsts, un apņemas to nedarīt divus gadus pēc tam, kad pabeigts sākotnējais ieguldījums.
