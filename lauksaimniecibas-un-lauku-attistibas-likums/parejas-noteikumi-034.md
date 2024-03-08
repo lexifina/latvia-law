@@ -1,0 +1,1 @@
+34. Ministru kabinets līdz 2025. gada 1. martam izvērtē šo pārejas noteikumu 31. punktā noteiktā lauksaimniecības un lopbarības produktu ievešanas (importēšanas) aizlieguma ietekmi uz tautsaimniecību un atbilstību sabiedrības interesēm un iesniedz Saeimai ziņojumu par izvērtējumu, kā arī, ja nepieciešams, iesniedz Saeimai grozījumus attiecīgos normatīvajos aktos.
