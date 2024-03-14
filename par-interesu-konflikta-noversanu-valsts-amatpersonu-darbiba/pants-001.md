@@ -16,4 +16,5 @@ d) kapitālsabiedrība, kurā vienas publiskas personas vai vairāku publisku pe
 a) publiskas personas iestādes vadītājs (ministrijā - valsts sekretārs). Saeima, Saeimas Prezidijs vai Saeimas priekšsēdētājs attiecībā uz Saeimas deputātu nav institūcijas vadītājs, augstāka amatpersona, iestāde vai koleģiāla institūcija,
 b) publiskas personas kapitālsabiedrības valde,
 c) tādas kapitālsabiedrības valde, kurā publiskas personas daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā publiskai personai ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam,
-d) tādas kapitālsabiedrības valde, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam.
+d) tādas kapitālsabiedrības valde, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam;
+10) patiesais labuma guvējs - fiziskā persona, kas par patieso labuma guvēju uzskatāma Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.
