@@ -1,2 +1,2 @@
 VI nodaļa
-Konkurences tiesību piemērošana civilprasībās
+Konkurences tiesību un Digitālo tirgu akta piemērošana civilprasībās

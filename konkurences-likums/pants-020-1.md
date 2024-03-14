@@ -1,4 +1,4 @@
-20.¹ pants. Šā likuma un Eiropas Savienības konkurences tiesību pārkāpumu lietu izskatīšana
-(1) Tiesa, kura pieņēmusi pieteikumu un ierosinājusi lietu par šā likuma un Eiropas Savienības konkurences tiesību pārkāpumu, septiņu dienu laikā pēc lietas ierosināšanas nosūta Konkurences padomei prasības pieteikuma un lēmuma par lietas ierosināšanu norakstu (kopiju).
+20.¹ pants. Šā likuma, Eiropas Savienības konkurences tiesību un Digitālo tirgu akta pārkāpumu lietu izskatīšana
+(1) Tiesa, kura pieņēmusi pieteikumu un ierosinājusi lietu par šā likuma, Eiropas Savienības konkurences tiesību vai Digitālo tirgu akta pārkāpumu, septiņu dienu laikā pēc lietas ierosināšanas nosūta Konkurences padomei prasības pieteikuma un lēmuma par lietas ierosināšanu norakstu (kopiju).
 (2) Konkurences padome var pēc savas vai tiesas iniciatīvas sniegt atzinumu lietā par Eiropas Savienības konkurences tiesību piemērošanas aspektiem. Konkurences padomei ir tiesības pirms atzinuma sniegšanas iepazīties ar lietas materiāliem.
-(3) Tiesa septiņu dienu laikā pēc pilna sprieduma taisīšanas lietā par Eiropas Savienības konkurences tiesību pārkāpumu nosūta sprieduma norakstu (kopiju) Konkurences padomei un Eiropas Komisijai, bet lietā par šā likuma pārkāpumu - Konkurences padomei.
+(3) Tiesa septiņu dienu laikā pēc pilna sprieduma taisīšanas lietā par Eiropas Savienības konkurences tiesību vai Digitālo tirgu akta pārkāpumu nosūta sprieduma norakstu (kopiju) Konkurences padomei un Eiropas Komisijai, bet lietā par šā likuma pārkāpumu - Konkurences padomei.
