@@ -6,12 +6,13 @@
 3) politiski represētās personas, nacionālās pretošanās kustības dalībnieki un Černobiļas atomelektrostacijas avārijas rezultātā cietušās personas, kā arī tās seku likvidācijā cietušās personas;
 4) personas, kuras slimo ar tuberkulozi, un personas, kurām veic izmeklējumus tuberkulozes noteikšanai;
 5) psihiski slimas personas, saņemot psihiatrisko ārstēšanu;
+5¹) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 14. punktu);
 6) personas, saņemot hroniskās hemodialīzes, hemodiafiltrācijas un peritoneālās dialīzes procedūras visā ārstniecības procesa laikā;
 7) personas, kuras saņem veselības aprūpes pakalpojumus Ministru kabineta noteikto infekcijas slimību gadījumos;
 8) personas, kurām neatliekamo medicīnisko palīdzību sniedz neatliekamās medicīniskās palīdzības brigāde;
 9) personas, kuras saņem pakalpojumus ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijās, kas reģistrētas sociālo pakalpojumu sniedzēju reģistrā;
 10) personas, kurām ģimenes ārsts veic vispārējo veselības pārbaudi un imūnprofilaksi atbilstoši vakcinācijas kalendāram, kā arī veic profilaktiskās apskates un izmeklējumus valsts organizētā vēža skrīninga ietvaros;
-11) personas, kurām vakcinācijas kalendāra ietvaros veic vakcināciju, stinguma krampju neatliekamo profilaksi, pēcekspozīcijas imunizāciju pret trakumsērgu, kā arī vakcināciju pret gripu atbilstoši normatīvajiem aktiem par ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību;
+11) personas, kurām veic vakcināciju ar Nacionālā veselības dienesta (turpmāk - dienests) centralizēti iepirktām vai ziedojuma veidā saņemtām vakcīnām, stinguma krampju neatliekamo profilaksi un pēcekspozīcijas imunizāciju pret trakumsērgu;
 12) personas, kuras saņem ilgstošu plaušu mākslīgo ventilāciju mājas apstākļos;
 13) orgānu donori;
 14) personas, kuras saņem veselības aprūpi mājās vai paliatīvo aprūpi stacionārajā ārstniecības iestādē Ministru kabineta noteiktajā apjomā, kā arī paliatīvo aprūpi, ko sniedz ģimenes ārsts mājas vizītes laikā;

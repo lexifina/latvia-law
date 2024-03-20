@@ -5,5 +5,5 @@
 veselības apdrošināšanas iemaksa = veselības apdrošināšanas iemaksa gadam × 1/12 × kārtējā kalendāra gadā atlikušo pilno mēnešu skaits (ieskaitot kārtējo mēnesi).
 (4) Attiecīgajā kalendāra gadā veikto veselības apdrošināšanas iemaksu atmaksā, ja veselības apdrošināšanas iemaksu veicējs atbilst kādam no šā likuma 11. panta pirmās daļas 1. punkta, otrās vai trešās daļas nosacījumiem. Atmaksājamo summu aprēķina saskaņā ar šādu formulu:
 atmaksājamā summa = veselības apdrošināšanas iemaksa gadam x 1/12 x kārtējā kalendāra gadā atlikušo pilno mēnešu skaits.
-(5) Attiecīgajā kalendāra gadā veikto veselības apdrošināšanas iemaksu atmaksā Nacionālais veselības dienests pēc veselības apdrošināšanas iemaksu veicēja pieprasījuma saņemšanas.
-(6) Veselības apdrošināšanas iemaksas administrē Nacionālais veselības dienests (turpmāk - dienests). Ministru kabinets nosaka kārtību, kādā veicamas un atmaksājamas veselības apdrošināšanas iemaksas.
+(5) Attiecīgajā kalendāra gadā veikto veselības apdrošināšanas iemaksu atmaksā dienests pēc veselības apdrošināšanas iemaksu veicēja pieprasījuma saņemšanas.
+(6) Veselības apdrošināšanas iemaksas administrē dienests. Ministru kabinets nosaka kārtību, kādā veicamas un atmaksājamas veselības apdrošināšanas iemaksas.
