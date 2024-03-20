@@ -1,8 +1,10 @@
 107.pants. Nodibinājuma likvidācija
 (1) Šā likuma VI nodaļas noteikumi par biedrības likvidāciju attiecīgi piemērojami nodibinājumiem, ciktāl šajā nodaļā nav noteikts citādi.
+(1¹) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 13. punktu)
 (2) Likvidāciju veic valdes locekļi, ja statūtos nav noteikts citādi. Ja likvidāciju veic citas personas, kas nav valdes locekļi, statūtos paredzama šo likvidatoru iecelšanas kārtība.
-(3) Ja nodibinājuma darbība izbeidzas, iestājoties šā likuma 104.panta 2., 2.¹ vai 4.punktā minētajiem apstākļiem, valde iesniedz pieteikumu reģistra iestādei par nodibinājuma darbības izbeigšanu. Pieteikumam pievieno ziņas par likvidatora vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi).
-(4) Ja nodibinājuma darbība izbeidzas, pamatojoties uz tiesas nolēmumu, tiesa nosūta attiecīgo nolēmumu ieraksta izdarīšanai reģistrā. Likvidators triju dienu laikā pēc nolēmuma stāšanās spēkā iesniedz reģistra iestādei šā panta trešās daļas otrajā teikumā minētās ziņas.
-(5) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā vai tiesas nolēmumā un tam nav jāpievieno šā panta trešās daļas otrajā teikumā minētās ziņas.
+(3) Ja nodibinājuma darbība izbeidzas, iestājoties šā likuma 104.panta 2., 2.¹ vai 4.punktā minētajiem apstākļiem, valde iesniedz pieteikumu reģistra iestādei par nodibinājuma darbības izbeigšanu. Pieteikumā norāda ziņas par likvidatora vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi).
+(3¹) Pieteikumam pievieno katra likvidatora rakstveida piekrišanu būt par likvidatoru. Rakstveida piekrišanā likvidators norāda tā nodibinājuma nosaukumu un reģistrācijas numuru, par kura likvidatoru piekrīt kļūt.
+(4) Ja nodibinājuma darbība izbeidzas, pamatojoties uz tiesas nolēmumu, tiesa nosūta attiecīgo nolēmumu ieraksta izdarīšanai reģistrā. Likvidators triju dienu laikā pēc nolēmuma stāšanās spēkā iesniedz reģistra iestādei šā panta trešās daļas otrajā teikumā un 3.¹ daļā minētās ziņas.
+(5) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā vai tiesas nolēmumā un tam nav jāpievieno šā panta 3.¹ daļā minētās ziņas.
 (6) Likvidatoru var atcelt tikai ar tiesas nolēmumu, pamatojoties uz ieinteresētas personas pieteikumu, ja tam ir svarīgi iemesli, vienlaikus ieceļot citu likvidatoru.
 (7) Lēmumu par nodibinājuma darbības turpināšanu pieņem valde vai citas statūtos paredzētās pārvaldes institūcijas.

@@ -1,0 +1,1 @@
+14. Tās biedrības un nodibinājumi, kuri ir ierakstīti biedrību un nodibinājumu reģistrā līdz 2024. gada 30. jūnijam, darbības jomu norāda, iesniedzot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmā gada pārskatu par 2024. gadu.
