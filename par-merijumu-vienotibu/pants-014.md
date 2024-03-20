@@ -12,3 +12,4 @@
 8) organizēt starplaboratoriju salīdzināšanu un piedalīties tajā;
 9) organizēt apmācību metroloģijas jomā.
 (4) Nacionālās metroloģijas institūcijas publisko maksas pakalpojumu cenrādi apstiprina Ministru kabinets.
+(5) Nacionālās metroloģijas institūcijas pieņemtos lēmumus var apstrīdēt, iesniedzot iesniegumu Nacionālās metroloģijas institūcijas vadītājam. Nacionālās metroloģijas institūcijas vadītāja pieņemtos lēmumus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma apstrīdēšana un pārsūdzēšana neaptur tā darbību.
