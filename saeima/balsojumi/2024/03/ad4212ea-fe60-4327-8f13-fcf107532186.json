@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 16,
+ "datums": "2024-03-21",
+ "ieraksts": {
+  "dkp_id": "515b73de-7aa2-4d82-9864-b15401eb1acd",
+  "lastmodtime": "\"AAAAAAI2N4A=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Andris#Andrejs#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Valdis#Ainārs#Līga#Dmitrijs#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Edgars#Igors#Raimonds#Leila#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Līga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Burovs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Putra#Judins#Bergmanis#Rasima#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Kozlovska#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#PRO#ZZS#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#JV#PRO#NA#JV#ST!#JV#NA#JV#JV# #JV#ZZS#JV#ZZS#ZZS#LPV#ZZS#ST!# # #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS#PRO#JV#AS#LPV#PRO# #JV#ZZS#JV#AS",
+  "RESULT": "Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Par#Par#Nebalsoja#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Pret#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.03.2024 15:55:20",
+  "VOTEMOTIVE": "Par neuzticības izteikšanu finanšu ministram Arvilam Ašeradenam (463/Lm14)",
+  "VOTING_ID": "ad4212ea-fe60-4327-8f13-fcf107532186",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "47",
+  "VOTERESULT_FOR": "35",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "31",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-16-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/0b351546-1448-47d8-a5c7-c70a720f2436/download/14.saeimas-2024.gada-ziemas-sesija-16-vote.xml",
+  "sha256": "2dcbd202a3ef7acf49f117f6f47ceec2d1a7e2b60305dee51a77bd96007b7dcf",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
