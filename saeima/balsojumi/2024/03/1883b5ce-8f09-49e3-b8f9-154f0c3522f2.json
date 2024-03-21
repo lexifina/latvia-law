@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 16,
+ "datums": "2024-03-21",
+ "ieraksts": {
+  "dkp_id": "c3b9cc21-4ef0-4ae3-bf64-2a3a6aa2dc9e",
+  "lastmodtime": "\"AAAAAAI1zRE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Andris#Andrejs#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ingmārs#Viktors#Edmunds#Agnese#Ligita#Viktorija#Zanda#Ervins#Alīna#Ilze#Nauris#Andrejs#Irma#Harijs#Edmunds#Augusts#Valdis#Ainārs#Līga#Dmitrijs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Ramona#Jānis#Lauris#Atis#Jānis#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Līdaka#Pučka#Zivtiņš#Krasta#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Gendele#Vergina#Puntulis#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Petraviča#Patmalnieks#Lizbovskis#Švinka#Skrastiņš#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#PRO#ZZS#JV#AS#ST!#NA#ZZS#JV#ZZS#AS#ST!#LPV#JV#ZZS#JV#JV#PRO#JV#JV#NA# #JV#ZZS#JV#ZZS#ZZS#LPV#ZZS#ST!# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#LPV#JV#AS#PRO#JV#JV#AS",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Pret#Par#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.03.2024 11:13:38",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījumi Vispārējās izglītības likumā (550/Lp14), 1.lasījums",
+  "VOTING_ID": "1883b5ce-8f09-49e3-b8f9-154f0c3522f2",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "6",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-16-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/0b351546-1448-47d8-a5c7-c70a720f2436/download/14.saeimas-2024.gada-ziemas-sesija-16-vote.xml",
+  "sha256": "2dcbd202a3ef7acf49f117f6f47ceec2d1a7e2b60305dee51a77bd96007b7dcf",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
