@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024.gada 19.marta noteikumi Nr.178 \"Eiropas transporta tīkla projektu atļauju piešķiršanas procedūru organizēšanas un uzraudzības kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2024/59.4",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-22",
+  "entry_into_force": "2024-03-23",
+  "notification_date": "2024-03-25",
+  "commission_reference": "MNE(2024)01422",
+  "nim_celex": "72021L1187LVA_202401422",
+  "nim_id": "202401422",
+  "transposes_celex": [
+    "32021L1187"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bb3d4273-7534-4724-9c36-de418a181b54",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
