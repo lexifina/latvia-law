@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 17,
+ "datums": "2024-03-27",
+ "ieraksts": {
+  "dkp_id": "c260c78c-bbf3-49c2-b85a-f5808d71fcf9",
+  "lastmodtime": "\"AAAAAAI2U+s=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Didzis#Andris#Andrejs#Ainars#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Atis#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Igors#Raimonds#Edgars#Leila#Jānis#Lauris#Vilis#Atis#Aleksandrs#Jānis#Līga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Šmits#Šuvajevs#Vilks#Latkovskis#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Labucis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Judins#Bergmanis#Zelderis#Rasima#Patmalnieks#Lizbovskis#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#AS#PRO#ZZS#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#AS#ST!#LPV#NA#JV#NA#ZZS#JV#JV#PRO#NA#JV#ST!#JV#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#JV#NA# #AS#AS#JV#NA#ZZS#ZZS#ST!#AS#PRO#PRO#JV#AS#LPV#PRO# #JV#ZZS#JV#AS",
+  "RESULT": "Par#Nebalsoja#Nebalsoja#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Par#Pret#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Nebalsoja#Atturas#Pret#Atturas#Atturas#Atturas#Par#Par#Nebalsoja#Pret#Nebalsoja#Atturas#Pret#Atturas#Pret#Nebalsoja#Atturas#Par#Atturas#Atturas#Nebalsoja#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Atturas#Par#Atturas#Par#Par#Atturas#Pret#Par#Pret#Pret#Atturas#Nebalsoja#Nebalsoja#Pret#Atturas#Par#Atturas#Nebalsoja#Par#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Atturas#Par#Atturas#Atturas#Pret#Pret#Atturas#Nebalsoja#Atturas#Nebalsoja#Atturas#Atturas#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "27.03.2024 09:15:45",
+  "VOTEMOTIVE": " Par iekļaušanu nākamās kārtējās sēdes darba kārtībā. Par 2024. gada 22. marta bruņota terorisma akta nosodīšanu, kas notika koncertzālē “Crocus City Hall”, Krasnogorskā, Maskavas apgabalā, Krievijā (472/Lm14)",
+  "VOTING_ID": "38470200-b28a-4f56-ae46-e70810d258b3",
+  "VOTERESULT_ABSTAIN": "41",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "14",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/93837401-70bd-45ef-9c16-2d42fa52de82/download/14.saeimas-2024.gada-ziemas-sesija-17-vote.xml",
+  "sha256": "e53e6b42e32e0d7d7d1f9448a9bb38f146fe295b157fef752284b7f1c5e08101",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
