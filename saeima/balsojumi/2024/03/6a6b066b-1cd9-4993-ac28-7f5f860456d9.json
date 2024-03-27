@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada ziemas sesija",
+ "sede": 17,
+ "datums": "2024-03-27",
+ "ieraksts": {
+  "dkp_id": "6fe0f2ee-0e16-4781-b70b-0e8b5e8b7f09",
+  "lastmodtime": "\"AAAAAAI2vQs=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Didzis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Edmunds#Artūrs#Agnese#Raivis#Ligita#Viktorija#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Gundars#Lauris#Vilis#Atis#Aleksandrs#Jānis#Līga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šmits#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Zivtiņš#Butāns#Krasta#Dzintars#Gintere#Baire#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Daudze#Lizbovskis#Krištopans#Švinka#Kiršteins#Skrastiņš#Kozlovska#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#JV#ZZS#ST!#JV#ST!#ZZS#AS#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#AS#LPV#NA#JV#NA#ZZS#JV#JV#PRO#NA#JV#ST!#JV#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#AS#LPV#PRO# #JV#ZZS#JV#AS",
+  "RESULT": "Pret#Par#Par#Atturas#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Pret#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Par#Pret#Par#Atturas#Atturas#Par#Atturas#Par#Nebalsoja#Par#Atturas#Par#Pret#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Atturas#Par#Par#Atturas#Atturas#Pret#Atturas#Atturas#Par#Atturas#Nebalsoja#Atturas#Pret#Pret#Atturas#Atturas#Pret#Par#Atturas#Atturas#Par#Par#Atturas#Atturas#Par#Atturas#Par#Par#Pret#Par#Par#Atturas#Par#Atturas#Pret#Par#Pret#Par#Atturas#Atturas#Atturas#Par#Nebalsoja#Atturas#Par#Atturas#Atturas#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "27.03.2024 16:37:26",
+  "VOTEMOTIVE": " Par nodošanu Ārlietu komisijai . Par pasākumiem Latvijas valsts ekonomiskās sadarbības pārtraukšanai ar agresorvalstīm - Krieviju un Baltkrieviju (474/Lm14)",
+  "VOTING_ID": "6a6b066b-1cd9-4993-ac28-7f5f860456d9",
+  "VOTERESULT_ABSTAIN": "42",
+  "VOTERESULT_AGAINST": "14",
+  "VOTERESULT_FOR": "27",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "25",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada ziemas sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/93837401-70bd-45ef-9c16-2d42fa52de82/download/14.saeimas-2024.gada-ziemas-sesija-17-vote.xml",
+  "sha256": "e53e6b42e32e0d7d7d1f9448a9bb38f146fe295b157fef752284b7f1c5e08101",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
