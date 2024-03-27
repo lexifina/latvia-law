@@ -15,4 +15,4 @@
 (3) (Izslēgta ar 17.12.2014. likumu)
 (4) Amatpersonai ir aizliegts organizēt streikus un piedalīties tajos.
 (5) Ieslodzītā pārvešanu uz ārstniecības iestādi veic ar operatīvo transportlīdzekli, ja tas nepieciešams sabiedrības drošības nodrošināšanai vai ieslodzītā veselības stāvokļa dēļ.
-(6) Ķīlnieka sagrābšanas, grautiņu, dedzināšanas, masu nekārtību vai masveida pretošanās amatpersonām novēršanas pārvaldību ieslodzījuma vietā nodrošina Pārvaldes priekšnieka noteikta amatpersona.
+(6) (Izslēgta ar 29.02.2024. likumu)

@@ -4,4 +4,8 @@
 (3) Pārvaldes sastāvā ir centrālais aparāts, Mācību centrs, kā arī brīvības atņemšanas iestādes un izmeklēšanas cietumi (turpmāk - ieslodzījuma vietas).
 (4) Pārvaldei ir operatīvās darbības subjekta tiesības, lai veiktu noziedzīgu nodarījumu profilaksi, novērstu un atklātu tos, noskaidrotu noziedzīgu nodarījumu izdarījušās personas un pierādījumu avotus.
 (5) Pārvalde apkopo informāciju par apcietinātajām un notiesātajām personām, kuras atrodas un atradās ieslodzījuma vietās.
+(5¹) Lai nodrošinātu pētījumu veikšanu, Pārvaldei ir tiesības saņemt un nodot konkrēta pētījuma veicējam informāciju par:
+1) ieslodzīto un bijušo ieslodzīto sodāmību un pārkāpumiem - no Sodu reģistra;
+2) esošajiem un bijušajiem probācijas klientiem - no Valsts probācijas dienesta.
+(5²) Ministru kabinets nosaka kārtību, kādā Pārvalde iegūst, apstrādā un nodod informāciju pētījumu veikšanai, kā arī par fiziskajām personām apstrādājamo datu apjomu un to glabāšanas termiņu.
 (6) Pārvaldes nolikumu apstiprina Ministru kabinets.

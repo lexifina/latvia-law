@@ -1,0 +1,7 @@
+31. pants. Amatpersonu tiesības apdraudējuma situācijās
+(1) Lai novērstu šā likuma 27. panta pirmajā daļā minēto apdraudējuma situāciju sekas, situācijas vadītājam ir tiesības uz laiku līdz 24 stundām:
+1) ierobežot ieslodzījuma vietas apmeklēšanu un likumā noteiktās ieslodzīto tiesības;
+2) apturēt ieslodzīto uzņemšanu, konvojēšanu un pārvešanu uz ārstniecības iestādi ārpus ieslodzījuma vietas plānveida veselības aprūpes pakalpojumu saņemšanai.
+(2) Ja apdraudējuma situācija pastāv ilgāk par 24 stundām, šā panta pirmajā daļā paredzētos ierobežojumus nosaka ar Pārvaldes priekšnieka rīkojumu.
+(3) Apdraudējuma situācijā Pārvaldes priekšnieka noteiktā kārtībā personālu var iesaistīt dienesta (darba) pienākumu izpildē, pārsniedzot Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonu ar speciālajām dienesta pakāpēm dienesta gaitas likumā noteikto maksimālo dienesta pienākumu izpildes laiku vai Darba likumā noteikto maksimālo virsstundu skaitu, bet nepārsniedzot 60 stundas nedēļā (uz šādiem gadījumiem nav attiecināmi Darba likuma 136. panta ceturtās daļas noteikumi).
+(4) Situācijas vadītājs apdraudējuma situācijas pārvaldīšanas laikā var lemt par ieslodzīto pārvietošanu vienas ieslodzījuma vietas ietvaros. Ja tas nepieciešams ieslodzīto veselības vai dzīvības apdraudējuma novēršanai vai citu drošības apsvērumu dēļ, situācijas vadītājs apdraudējuma situācijas pārvaldīšanas laikā ar Pārvaldes priekšnieka mutvārdu saskaņojumu var lemt par ieslodzīto pārvietošanu uz citu ieslodzījuma vietu vai citu vietu.
