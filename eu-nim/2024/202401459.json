@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 25. marta noteikumi Nr. 284 \"Noteikumi par prasībām ieguldījumu fondu ieguldījumu objektiem, darījumiem un noteikta darbības veida fondiem\".",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-27",
+  "entry_into_force": "2024-03-28",
+  "notification_date": "2024-03-27",
+  "commission_reference": "MNE(2024)01459",
+  "nim_celex": "72007L0016LVA_202401459",
+  "nim_id": "202401459",
+  "transposes_celex": [
+    "32007L0016"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1e378b7-7657-406c-b2d0-887c35660dde",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
