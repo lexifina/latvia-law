@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 25. marta noteikumi Nr. 283 \"Publiskošanas prasības ziņojumam par apdrošināšanas vai pārapdrošināšanas sabiedrības maksātspēju un finansiālo stāvokli\".",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-27",
+  "entry_into_force": "2024-03-28",
+  "notification_date": "2024-04-08",
+  "commission_reference": "MNE(2024)01710",
+  "nim_celex": "72009L0138LVA_202401710",
+  "nim_id": "202401710",
+  "transposes_celex": [
+    "32009L0138"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b7596904-5d28-4151-9933-0675584e824c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
