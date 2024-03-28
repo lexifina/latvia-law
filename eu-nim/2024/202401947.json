@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 25. marta noteikumi Nr. 281 \"Apdrošināšanas produkta informācijas dokumenta noformējuma un satura prasības\".",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "62",
+  "official_journal_page": null,
+  "official_journal_date": "2024-03-27",
+  "entry_into_force": "2024-03-28",
+  "notification_date": "2024-04-26",
+  "commission_reference": "MNE(2024)01947",
+  "nim_celex": "72016L0097LVA_202401947",
+  "nim_id": "202401947",
+  "transposes_celex": [
+    "32016L0097"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ffe167e4-9731-4344-a65e-c11f4268d2ea",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
