@@ -1,0 +1,8 @@
+12.¹ pants. Finanšu izlūkošanas dienesta kompetence
+(1) Finanšu izlūkošanas dienests ir kompetentā institūcija starptautisko un nacionālo sankciju izpildes jautājumos tiktāl, ciktāl normatīvie akti nenosaka citādi.
+(2) Finanšu izlūkošanas dienests ir kompetentā institūcija cīņā pret starptautisko un nacionālo sankciju apiešanu vai apiešanas mēģinājumu finanšu ierobežojumu izpildē atbilstoši Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteiktajam.
+(3) Finanšu izlūkošanas dienests analizē starptautisko un nacionālo sankciju jomu regulējošus normatīvos aktus un, ja nepieciešams, sniedz Ārlietu ministrijai priekšlikumus šo normatīvo aktu pilnveidošanai.
+(4) Finanšu izlūkošanas dienests pieņem šā likuma 2. panta otrajā daļā noteiktajām personām saistošus lēmumus par starptautisko un nacionālo sankciju izpildi, ja tā rīcībā ir informācija par personas pienākumu izpildīt sankcijas, bet sankcijas nav izpildītas saskaņā ar normatīvo aktu prasībām.
+(5) Ja tiek atceltas pret personu noteiktās starptautiskās vai nacionālās sankcijas vai mainās sankciju subjekta īpašumtiesības vai kontrole, bet līdzekļi un saimnieciskie resursi nav atbrīvoti, Finanšu izlūkošanas dienestam ir tiesības lemt par līdzekļu un saimniecisko resursu atbrīvošanu no iesaldēšanas pēc savas iniciatīvas vai pēc personas iesnieguma saņemšanas.
+(6) Finanšu izlūkošanas dienests savā tīmekļvietnē publicē informāciju par sankciju subjektiem un tiem iesaldētajiem finanšu līdzekļiem un saimnieciskajiem resursiem Latvijā, kā arī informāciju par starptautisko un nacionālo sankciju subjektiem.
+(7) Finanšu izlūkošanas dienests organizē informatīvus pasākumus un apmācību par sankciju izpildes jautājumiem.

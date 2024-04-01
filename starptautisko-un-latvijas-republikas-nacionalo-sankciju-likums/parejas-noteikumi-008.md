@@ -1,0 +1,1 @@
+8. Latvijas Banka līdz 2024. gada 1. aprīlim izdod noteikumus, kuros noteiktas šā likuma 13. panta ceturtās daļas 3. punktā minētās prasības. Latvijas Bankas un Finanšu un kapitāla tirgus komisijas izdotās atļaujas finanšu darījumu izpildei ir spēkā līdz brīdim, kad Latvijas Banka tās atceļ, bet ne ilgāk kā līdz 2024. gada 31. decembrim.

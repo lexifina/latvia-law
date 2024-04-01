@@ -1,5 +1,5 @@
-4.pants. Starptautisko un nacionālo sankciju veidi
-Latvijā var ieviest vai noteikt šādas starptautiskās vai nacionālās sankcijas:
+4.pants. Nacionālo sankciju veidi
+Latvijā var noteikt šādas nacionālās sankcijas:
 1) finanšu ierobežojumi;
 2) civiltiesiskie ierobežojumi;
 3) ieceļošanas ierobežojumi;
