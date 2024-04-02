@@ -1,0 +1,1 @@
+55.¹ pants. Valsts kustamo mantu - vakcīnas pret Covid-19 infekciju - var pārdot ārvalstu valdībām, nepiemērojot Publiskas personas mantas atsavināšanas likumu. Lēmumu par šo vakcīnu pārdošanu katrā konkrētajā gadījumā pieņem Ministru kabinets. Pārdošanas rezultātā iegūtos līdzekļus ieskaita valsts pamatbudžeta ieņēmumos.
