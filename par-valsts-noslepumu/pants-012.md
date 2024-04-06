@@ -19,8 +19,9 @@
 15) tiesībsargam;
 16) Nacionālās elektronisko plašsaziņas līdzekļu padomes locekļiem;
 17) Centrālās vēlēšanu komisijas priekšsēdētājam;
-18) Finanšu un kapitāla tirgus komisijas padomes locekļiem;
-19) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes locekļiem un sabiedrisko elektronisko plašsaziņas līdzekļu valdes locekļiem.
+18) Latvijas Bankas padomes locekļiem;
+19) Sabiedrisko elektronisko plašsaziņas līdzekļu padomes locekļiem un sabiedrisko elektronisko plašsaziņas līdzekļu valdes locekļiem;
+20) pašvaldības domes priekšsēdētājam un priekšsēdētāja vietniekam.
 (4) Pieeja valsts noslēpumam un tiesības to izmantot savu pienākumu veikšanai ir Saeimas ieceltajām parlamentārās izmeklēšanas komisijām.
 (5) Pieeja valsts noslēpumam un tiesības to izmantot savas kompetences ietvaros ir kriminālprocesa virzītājam (izziņas izdarītājam, prokuroram, tiesnesim), veicot pirmstiesas izmeklēšanu un tiesvedību konkrētā krimināllietā, kas saistīta ar valsts noslēpumu. Personas, kuras piedalās šādas lietas izmeklēšanas un tiesvedības procesā un kurām ir tiesības iepazīties ar visiem lietas materiāliem, tiek rakstveidā brīdinātas par pienākumu glabāt valsts noslēpumu un par atbildību, kas paredzēta par valsts noslēpuma nelikumīgu izpaušanu. Šāda kārtība attiecināma arī uz personām, kuras piedalās tiesvedības procesā civillietā, administratīvajā lietā vai administratīvā pārkāpuma lietā, ja tā ir saistīta ar valsts noslēpumu.
 (6) Valsts noslēpumu aizliegts nelikumīgi izpaust vai izmantot citiem mērķiem kā vienīgi savu amata (dienesta) pienākumu veikšanai vai konkrētu darba uzdevumu pildīšanai.
