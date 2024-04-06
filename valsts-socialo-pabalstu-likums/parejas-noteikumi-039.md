@@ -1,0 +1,1 @@
+39. Grozījums šā likuma 8. panta pirmās daļas 2. punktā attiecībā uz bērna piedzimšanas pabalsta izmaksu aizbildnim vai vienam no audžuģimenes vai specializētās audžuģimenes locekļiem (personai) stājas spēkā 2024. gada 1. jūlijā.

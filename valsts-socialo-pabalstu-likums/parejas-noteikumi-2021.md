@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2021. gada 20. oktobra direktīvas (ES) 2021/1883 par trešo valstu valstspiederīgo ieceļošanas un uzturēšanās nosacījumiem augsti kvalificētas nodarbinātības nolūkā un ar ko atceļ Padomes direktīvu 2009/50/EK.
