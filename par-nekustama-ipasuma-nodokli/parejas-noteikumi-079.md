@@ -1,0 +1,1 @@
+79. Pašvaldības, kuras piemēro šā likuma 3.² panta pirmo daļu 2024. gadā, nodokļa maksāšanas paziņojumu ar precizētu nekustamā īpašuma nodokļa apmēru 2024. gadam nosūta nodokļa maksātājam līdz 2024. gada 15. jūlijam.
