@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 2. aprīļa noteikumi Nr. 215 \"Radioiekārtu atbilstības novērtēšanas, piedāvāšanas tirgū, uzstādīšanas, lietošanas un uzraudzības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "70",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-10",
+  "entry_into_force": "2024-04-11",
+  "notification_date": "2024-04-12",
+  "commission_reference": "MNE(2024)01770",
+  "nim_celex": "72022L2380LVA_202401770",
+  "nim_id": "202401770",
+  "transposes_celex": [
+    "32022L2380"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/821413ae-2848-4212-82f2-1541b10981dd",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
