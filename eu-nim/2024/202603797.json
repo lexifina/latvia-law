@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 16. aprīļa noteikumi Nr. 241 \"Noteikumi par kārtību, kādā apgūstamas speciālās zināšanas bērnu tiesību aizsardzības jomā, šo zināšanu saturu un apjomu\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "75",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-17",
+  "entry_into_force": "2024-04-18",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03797",
+  "nim_celex": "72016L0800LVA_202603797",
+  "nim_id": "202603797",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5069f0a9-3c5a-4dfb-8b7f-173496e72c45",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
