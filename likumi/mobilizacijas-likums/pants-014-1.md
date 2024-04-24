@@ -13,7 +13,7 @@
 11) tiesībsargs;
 12) Latvijas Bankas prezidents, prezidenta vietnieks un padomes loceklis;
 13) valsts kontrolieris un Valsts kontroles padomes loceklis;
-14) Finanšu un kapitāla tirgus komisijas priekšsēdētājs un padomes loceklis;
+14) (izslēgts ar 27.03.2024. likumu);
 15) Nacionālās elektronisko plašsaziņas līdzekļu padomes priekšsēdētājs, priekšsēdētāja vietnieks un padomes loceklis;
 16) Sabiedrisko pakalpojumu regulēšanas komisijas padomes priekšsēdētājs un padomes loceklis;
 17) Satversmes tiesas tiesnesis;
