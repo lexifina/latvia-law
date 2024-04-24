@@ -1,0 +1,2 @@
+3. pants. Valsts pārvaldes institūciju iesaiste aizsardzības industrijas attīstībā
+Valsts pārvaldes institūcijas iesaistās aizsardzības industrijas attīstībā un piegādes drošības principu piemērošanā savas kompetences ietvaros. Valsts pārvaldes institūcijas, kuras ir valsts kapitāla daļu turētājas kapitālsabiedrībās, izvirza ar aizsardzības industrijas attīstību saderīgus mērķus to iekļaušanai kapitālsabiedrību vispārējos stratēģiskajos mērķos.

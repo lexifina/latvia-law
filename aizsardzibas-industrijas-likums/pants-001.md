@@ -1,0 +1,8 @@
+1. pants. Likumā lietotie termini
+Likumā ir lietoti šādi termini:
+1) aizsardzības industrija - komersanti un zinātniskās institūcijas, kas veic militāra vai divējāda lietojuma tehnoloģiju vai produktu izstrādi, ražošanu, remontu vai utilizāciju;
+2) Aizsardzības ministrijas nodrošinājuma projekts - pasākumu kopums, kas saistīts ar noteiktu Nacionālo bruņoto spēku spējas attīstībai nepieciešamu preču, infrastruktūras vai pakalpojumu mērķtiecīgu izpēti, iegādi, ieviešanu, uzturēšanu un modernizēšanu;
+3) darbības drošība un nepārtrauktība - pasākumu kopums, kura ietvaros tiek plānota un īstenota aizsardzības industrijas fiziskās, darba, informatīvās un kibertelpas aizsardzība, lai veicinātu aizsardzības industrijas produkcijas un saistīto pakalpojumu piegādes drošību;
+4) piegādes drošība - garantijas attiecībā uz Nacionālajiem bruņotajiem spēkiem nepieciešamo preču piegādi vai pakalpojumu sniegšanu, kuras ietvaros maksimāli iespējamā apjomā mazina trešo pušu iejaukšanās iespējas un kura nepieciešama, lai nodrošinātu nacionālajos normatīvajos aktos vai Latvijas Republikas starptautisko saistību ietvaros Nacionālajiem bruņotajiem spēkiem noteikto uzdevumu izpildi;
+5) stratēģiskā partnerība - Aizsardzības ministrijas un tās stratēģiskā partnera sadarbības veids, kas paredz aizsardzības industrijas pārstāvju integrāciju valsts aizsardzības sistēmā, papildus nodrošinot mērķtiecīgu to sagatavošanu nepārtrauktam darbam valsts apdraudējuma, tai skaitā ārkārtējās situācijas, izņēmuma stāvokļa un kara, laikā;
+6) stratēģiskais partneris - kapitālsabiedrība, ar kuru ir noslēgts stratēģiskās partnerības līgums.

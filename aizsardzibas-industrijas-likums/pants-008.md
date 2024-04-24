@@ -1,0 +1,3 @@
+8. pants. Piegādes drošības veicināšana un kontrole
+(1) Aizsardzības ministrija veicina Nacionālajiem bruņotajiem spēkiem noteikto valsts aizsardzības uzdevumu un starptautisko saistību izpildei nepieciešamo preču piegādes un pakalpojumu sniegšanas drošību. Aizsardzības ministrijas nodrošinājuma projektu ietvaros piegādes drošība tiek veicināta, izvērtējot to ietekmējošus faktorus, nosakot un izvirzot piegādes drošību veicinošas prasības, kā arī nodrošinot to izpildes kontroli.
+(2) Piegādes drošību ietekmējošus faktorus izvērtē un piegādes drošību veicinošas prasības nosaka, kā arī to izpildi kontrolē Aizsardzības ministrijas izveidota komisija.
