@@ -16,3 +16,4 @@
 1) braukšanas maksu aprēķina saskaņā ar tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzēja norādītu tarifu nolīgšanai, vienam kilometram un vienai minūtei;
 2) tarifus un papildmaksu tīmekļvietnes vai mobilās lietotnes pakalpojuma sniedzējs norāda tīmekļvietnē vai mobilajā lietotnē.
 (6) Braukšanas maksu pasažieru neregulārajos pārvadājumos nosaka pēc pārvadātāja un pasūtītāja savstarpējas vienošanās.
+(7) Pasažieru komercpārvadājuma ar taksometru no starptautiskas nozīmes transporta infrastruktūras objekta (autoosta, dzelzceļa stacija, lidosta, osta) brauciena maksimālo maksu (tarifu), maksimālo papildmaksu un tādu braucienu maksu un darbības zonas, par kuriem norēķinās ar fiksētā tirdzniecības vietā (vai tiešsaistē) iegādātu šā likuma 35.¹ panta trešās daļas 5. punktā minēto priekšapmaksu apliecinošu dokumentu, nosaka Ministru kabinets.

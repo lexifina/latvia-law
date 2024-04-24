@@ -1,0 +1,1 @@
+50. Šā likuma grozījumi par 29. panta otrās un ceturtās daļas izteikšanu jaunā redakcijā stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā "Par nodokļiem un nodevām", kuri paredz Valsts ieņēmumu dienestam tiesības piemērot liegumu izmantot autotransporta līdzekli komercpārvadājumos ar taksometru un vieglo transportlīdzekli.

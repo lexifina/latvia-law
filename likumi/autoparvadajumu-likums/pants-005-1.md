@@ -19,6 +19,7 @@
 16) tīmekļvietnes un mobilās lietotnes pakalpojumu sniedzēju reģistrāciju un reģistrācijas anulēšanu;
 17) pasažieru un kravas pašpārvadājumu sertifikātu izsniegšanu un anulēšanu;
 18) kompetentās iestādes pienākumu veikšanu atbilstoši regulas Nr. 1071/2009 10. pantam;
-19) regulas Nr. 1071/2009 16. pantā noteiktā valsts elektroniskā reģistra uzturēšanu Autopārvadātāju informatīvās datu bāzes ietvaros.
+19) regulas Nr. 1071/2009 16. pantā noteiktā valsts elektroniskā reģistra uzturēšanu Autopārvadātāju informatīvās datu bāzes ietvaros;
+20) valsts kontaktpunktam noteikto pienākumu izpildi attiecībā uz informācijas apmaiņu ar pārējām dalībvalstīm atbilstoši bez transportlīdzekļa vadītājiem nomātu transportlīdzekļu izmantošanu kravu pārvadājumiem regulējošos normatīvajos aktos noteiktajām prasībām.
 (2) Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Autotransporta direkcija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus.
 (3) Autotransporta direkcijai iesniegumus, iesniegumiem pievienotos dokumentus un pilnvaras var iesniegt arī elektroniski, aizpildot speciālu tiešsaistes formu Autotransporta direkcijas tīmekļvietnē www.atd.lv (e-pakalpojums), neizmantojot drošu elektronisko parakstu, norādot elektroniskā pasta adresi saziņai. Identifikācijai izmanto Valsts reģionālās attīstības aģentūras nodrošinātajā vienotās pieteikšanās modulī pieejamos personas identifikācijas līdzekļus.
