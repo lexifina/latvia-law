@@ -1,5 +1,5 @@
 22.pants. Valsts apdraudējums
-(1) Atkarībā no valsts apdraudējuma veida, tā intensitātes un rakstura, kā arī apdraudētās teritorijas lieluma nosaka atbilstošu terorisma draudu līmeni, kā arī likumā noteiktajā kārtībā var izsludināt ārkārtējo situāciju vai izņēmuma stāvokli.
+(1) Atkarībā no valsts apdraudējuma veida, tā intensitātes un rakstura, kā arī apdraudētās teritorijas lieluma nosaka atbilstošu terorisma draudu līmeni, kā arī likumā noteiktajā kārtībā var izsludināt pastiprinātu robežapsardzības sistēmas darbības režīmu, ārkārtējo situāciju vai izņēmuma stāvokli.
 (2) (Izslēgta ar 17.04.2008. likumu)
 (3) (Izslēgta ar 07.03.2013. likumu)
 (4) (Izslēgta ar 07.03.2013. likumu)

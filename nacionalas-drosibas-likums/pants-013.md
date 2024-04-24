@@ -8,4 +8,4 @@
 6) likumā noteiktās kompetences apjomā apsargā un kontrolē Latvijas valsts robežu;
 7) koordinē valsts un pašvaldību institūciju un sabiedrisko organizāciju darbību sabiedriskās kārtības uzturēšanas jautājumos;
 8) prognozē un novērš valsts un sabiedrības drošības, kā arī tautsaimniecības apdraudējumus.
-(2) Pamatojoties uz Drošības policijas priekšnieka ieteikumu, iekšlietu ministrs Ministru kabineta noteiktajā kārtībā izsludina terorisma draudu līmeni.
+(2) Pamatojoties uz Valsts drošības dienesta priekšnieka ieteikumu, iekšlietu ministrs Ministru kabineta noteiktajā kārtībā izsludina terorisma draudu līmeni.

@@ -3,5 +3,5 @@
 (2) Valsts drošības iestāžu kopumu veido:
 1) Satversmes aizsardzības birojs;
 2) Militārās izlūkošanas un drošības dienests;
-3) Drošības policija.
+3) Valsts drošības dienests.
 (3) Valsts drošības iestāžu kompetenci nosaka speciāli likumi.
