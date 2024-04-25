@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada pavasara sesija",
+ "sede": 6,
+ "datums": "2024-04-25",
+ "ieraksts": {
+  "dkp_id": "724ac5e4-4377-4ed7-9c3f-0968d27221e3",
+  "lastmodtime": "\"AAAAAAI4QKU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Mairita#Anna#Juris#Svetlana#Mārtiņš#Aleksejs#Andris#Andris#Andrejs#Inese#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ingmārs#Viktors#Agnese#Jana#Ligita#Zanda#Ervins#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Andrejs#Ingrīda#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Arturs Krišjānis#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Edgars#Leila#Gundars#Jānis#Lauris#Linda#Atis#Jānis#Līga",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Lūse#Rancāne#Jakovins#Čulkova#Daģis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Kalniņa#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Līdaka#Pučka#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Gendele#Drelinga#Vergina#Puntulis#Čudars#Ceļapīters#Circene#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Kariņš#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Zelderis#Rasima#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Kozlovska",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#ZZS#ST!#JV#ST!#ZZS#PRO#ZZS#JV#ST!#NA#ZZS#JV#AS#AS#ST!#JV#PRO#ZZS#JV#PRO#JV#ST!#JV#NA#JV# #JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!#JV#JV#ST!#JV#ZZS#NA#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#PRO#PRO#ZZS#JV#AS#LPV#PRO#JV#ZZS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.04.2024 13:35:24",
+  "VOTEMOTIVE": "Par Nolīgumu saskaņā ar Apvienoto Nāciju Organizācijas Jūras tiesību konvenciju par jūras bioloģiskās daudzveidības saglabāšanu un ilgtspējīgu izmantošanu teritorijās, kas ir ārpus valstu jurisdikcijas (556/Lp14), 1.lasījums",
+  "VOTING_ID": "dbb6f29a-bfd9-492d-b58f-7df3bd314f4c",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "68",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "32",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada pavasara sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/50e05d72-c64d-4b1c-a25b-2af659f2b22d/download/14.saeimas-2024.gada-pavasara-sesija-6-vote.xml",
+  "sha256": "cbd05f545226316b37b9941a6b6a5b4f86e195a94d43a1c7f291f73027cc2ec2",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
