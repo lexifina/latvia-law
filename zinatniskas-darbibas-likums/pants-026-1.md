@@ -1,11 +1,11 @@
 26.¹ pants. Zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistrs
-(1) Personas, kuras ieņem vēlētus akadēmiskos amatus zinātniskajās institūcijās (vadošais pētnieks, pētnieks, zinātniskais asistents), reģistrē zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistrā (turpmāk - akadēmiskajos amatos ievēlēto personu reģistrs).
+(1) Personas, kuras ieņem vēlētus akadēmiskos amatus zinātniskajās institūcijās (vadošais pētnieks, pētnieks, zinātniskais asistents), kā arī personas, kuras ir nodarbinātas kā zinātnisko institūciju vadošo pētnieku, pētnieku un zinātnisko asistentu amata pienākumu izpildītājas, reģistrē zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistrā (turpmāk - akadēmiskajos amatos ievēlēto personu reģistrs). Akadēmiskajos amatos ievēlēto personu reģistrs ir Nacionālās zinātniskās darbības informācijas sistēmas sastāvdaļa.
 (2) Akadēmiskajos amatos ievēlēto personu reģistrā ieraksta šādas ziņas:
 1) personas vārdu un uzvārdu;
 2) personas kodu;
-3) tā akadēmiskā amata nosaukumu, kurā persona ir ievēlēta;
+3) tā akadēmiskā amata nosaukumu, kurā persona ir ievēlēta, vai tā akadēmiskā amata nosaukumu, kuru šī persona izpilda;
 4) amata pienākumu pildīšanas sākuma un beigu datumu;
-5) tās zinātniskās institūcijas nosaukumu, kurā šī persona ieņem akadēmisko amatu;
+5) tās zinātniskās institūcijas nosaukumu, kurā šī persona ieņem akadēmisko amatu, vai tā akadēmiskā amata nosaukumu, kuru šī persona izpilda;
 6) zinātnes doktora grādu un nozari;
 7) personas dzimumu;
 8) personas dzimšanas un miršanas datumu;

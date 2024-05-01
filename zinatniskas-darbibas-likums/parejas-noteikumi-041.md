@@ -1,0 +1,1 @@
+41. Līdz 2026. gada 31. decembrim promocijas darba aizstāvēšana un zinātnes doktora grāda piešķiršana (promocija) notiek saskaņā ar šo likumu, sākot ar 2027. gada 1. janvāri - saskaņā ar Augstskolu likumu.

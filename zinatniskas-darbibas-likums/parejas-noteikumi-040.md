@@ -1,0 +1,1 @@
+40. Grozījumi par šā likuma 1. panta pirmās daļas 8. punkta izslēgšanu, 10. panta pirmās daļas izteikšanu jaunā redakcijā un otrās daļas izslēgšanu, 11. panta izslēgšanu un 16. panta 8.¹ un 11. punkta izslēgšanu stājas spēkā 2027. gada 1. janvārī.

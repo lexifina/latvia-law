@@ -1,5 +1,3 @@
-5.pants. Zinātnieka statuss
-(1) Zinātnieks ir fiziskā persona, kura veic zinātnisko darbību un kura šajā likumā noteiktajā kārtībā ieguvusi zinātnisko kvalifikāciju.
-(2) Zinātnieka statusu nosaka viņa zinātniskā kvalifikācija, personiskie sasniegumi zinātnē un ekspertu vērtējums.
-(3) Zinātnieka statuss nav atkarīgs no viņa zinātniskās specializācijas, kā arī no zinātniskās darbības motīviem vai darba devēja statusa.
-(4) Jaunais zinātnieks ir fiziskā persona, kura veic zinātnisko darbību un kura šajā likumā noteiktajā kārtībā pirmo zinātnisko kvalifikāciju ieguvusi pēdējo 10 gadu laikā.
+5. pants. Zinātnieka statuss
+(1) Zinātnieka statuss ir fiziskajai personai, kurai normatīvajos aktos noteiktajā kārtībā ir piešķirts zinātnes doktora grāds vai ārvalstī izsniegtais izglītības dokuments vai ārvalstī piešķirtais akadēmiskais grāds atbilst vai ir pielīdzināts Latvijā piešķiramam zinātnes doktora grādam un kura veic zinātnisko darbību.
+(2) Jaunais zinātnieks ir fiziskā persona, kurai pēdējo 10 gadu laikā ir piešķirts zinātnes doktora grāds vai minētajā termiņā ārvalstī izsniegtais izglītības dokuments vai ārvalstī piešķirtais akadēmiskais grāds atbilst vai ir pielīdzināts Latvijā piešķiramam zinātnes doktora grādam un kura veic zinātnisko darbību.

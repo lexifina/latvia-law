@@ -3,7 +3,7 @@
 (2) Nacionālā zinātniskās darbības informācijas sistēma ietver:
 1) zinātnisko institūciju reģistru;
 2) zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistru;
-3) Latvijas Zinātnes padomes ekspertu datubāzi un Latvijas Zinātnes padomes eksperta tiesību pieteikuma iesniegšanas un Latvijas Zinātnes padomes komisiju vēlēšanu elektronisko sistēmu;
+3) Latvijas Zinātnes padomes ekspertu datubāzi un Latvijas Zinātnes padomes eksperta tiesību pieteikuma iesniegšanas elektronisko sistēmu;
 4) zinātniskās darbības projektu administrēšanas informācijas sistēmu;
 5) zinātniskās darbības rezultātu datubāzi;
 6) zinātnisko institūciju zinātniskās darbības pārskatus;
