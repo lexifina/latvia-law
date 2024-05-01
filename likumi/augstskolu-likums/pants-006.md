@@ -5,7 +5,7 @@
 2) studiju laikā mainīt studiju programmu, izvēloties to citā augstskolā, fakultātē (nodaļā, institūtā);
 3) klausīties lekcijas citās augstskolās, fakultātēs (nodaļās, institūtos);
 4) sastādīt un apgūt individuālu studiju brīvās izvēles daļu;
-5) nodarboties ar zinātniskās pētniecības darbu un māksliniecisko jaunradi.
+5) nodarboties ar pētniecības darbu un māksliniecisko jaunradi.
 (3) Pētniecības darba brīvība izpaužas akadēmiskā personāla tiesībās izvēlēties zinātniskās darbības tematiku un virzienu.
 (4) Akadēmiskais personāls ir tiesīgs izvēlēties mācību metodes.
 (5) Augstskolu administrācijai ir pienākums garantēt un respektēt šajā pantā paredzētās studējošo un akadēmiskā personāla tiesības, ja tās nav pretrunā ar šā panta pirmās daļas nosacījumiem.

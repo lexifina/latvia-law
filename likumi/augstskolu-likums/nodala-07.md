@@ -1,2 +1,2 @@
 VII nodaļa
-Zinātniskā pētniecība
+Pētniecība

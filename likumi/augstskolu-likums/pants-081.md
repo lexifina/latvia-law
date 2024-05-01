@@ -1,4 +1,4 @@
 81.pants. Starptautiskā sadarbība
 (1) Latvijas Republikas valdība un pašas augstskolas veicina augstskolu starptautisko sadarbību, studējošo un akadēmiskā personāla starpvalstu un starpaugstskolu apmaiņas programmas un starptautiskās augstskolu sadarbības programmas pētniecībā.
-(2) Nosakot augstskolu finansējuma apjomu valsts budžetā, tiek ņemta vērā katras augstskolas piedalīšanās Eiropas starptautiskās sadarbības programmās. Ja daļa no augstskolas mācību vai zinātniskās pētniecības darba uzdevumiem tiek finansēta no starptautiskās augstskolu sadarbības programmām, augstskolas finansējums no valsts budžeta netiek samazināts.
+(2) Nosakot augstskolu finansējuma apjomu valsts budžetā, tiek ņemta vērā katras augstskolas piedalīšanās Eiropas starptautiskās sadarbības programmās. Ja daļa no augstskolas mācību vai pētniecības darba uzdevumiem tiek finansēta no starptautiskās augstskolu sadarbības programmām, augstskolas finansējums no valsts budžeta netiek samazināts.
 (3) Valdības vienošanās jautājumos, kas attiecas uz kādu no augstskolām, ir šai augstskolai saistoša. Sagatavojot šādas vienošanās projektu, vienošanās izpildes noteikumi saskaņojami ar augstskolu.

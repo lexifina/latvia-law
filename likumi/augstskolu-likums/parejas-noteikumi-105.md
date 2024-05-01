@@ -1,0 +1,1 @@
+105. Šā likuma 25.² panta piektajā daļā ietvertais noteikums par to, ka vērtējamai vienībai, kas saturiski saistīta ar doktora studiju programmu, iepriekšējā zinātnisko institūciju darbības starptautiskajā novērtējumā nepieciešams saņemt vismaz trīs balles no piecām, stājas spēkā 2026. gada 1. janvārī.

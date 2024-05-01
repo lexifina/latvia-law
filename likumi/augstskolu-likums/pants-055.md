@@ -3,11 +3,11 @@
 1) nosaka prasības attiecībā uz iepriekšējo izglītību;
 1¹) nosaka, kuram studiju virzienam attiecīgā studiju programma atbilst;
 2) atbilstoši izglītības pakāpei un veidam nosaka:
-a) konkrētās studiju programmas un apakšprogrammas īstenošanas mērķi un studiju programmas noslēgumā plānotos studiju rezultātus, to skaitā paredzētos studiju kursus, studiju moduļus un tiem plānotos studiju rezultātus,
+a) konkrētās studiju programmas un apakšprogrammas īstenošanas mērķi un studiju programmas noslēgumā plānotos studiju rezultātus: akadēmiskajā doktora studiju programmā - plānotos zinātniskās darbības obligātos rezultātus, profesionālajā doktora studiju programmā mākslās - plānotos mākslinieciskās jaunrades darba obligātos rezultātus, kā arī studiju programmā paredzētos studiju kursus, studiju moduļus un tiem plānotos studiju rezultātus,
 b) piedāvājamās izglītības saturu,
 c) studiju programmu un apakšprogrammu obligātās, ierobežotās izvēles un izvēles daļas apjomus un kredītpunktu sadalījumu starp tām,
 d) izglītības kritērijus studiju rezultātu sasniegšanai un novērtēšanai, pārbaudes formas un kārtību;
-3) ietver programmas īstenošanā iesaistītā akadēmiskā personāla uzskaitījumu, tā kvalifikāciju un paredzētos pienākumus. Akadēmisko studiju programmu obligātās daļas un ierobežotās izvēles daļas īstenošanā piedalās kopā ne mazāk kā pieci attiecīgajā augstskolā ievēlēti profesori un asociētie profesori. Akadēmiskās doktora studiju programmas īstenošanā piedalās ne mazāk kā piecas personas ar doktora grādu, no kurām vismaz trīs ir Latvijas Zinātnes padomes apstiprināti eksperti attiecīgajā nozarē. Profesionālās doktora studiju programmas mākslās īstenošanā piedalās ne mazāk kā piecas personas, kurām ir doktora grāds;
+3) ietver programmas īstenošanā iesaistītā akadēmiskā personāla uzskaitījumu, tā kvalifikāciju un paredzētos pienākumus. Akadēmisko studiju programmu obligātās daļas un ierobežotās izvēles daļas īstenošanā piedalās kopā ne mazāk kā pieci attiecīgajā augstskolā ievēlēti profesori un asociētie profesori. Akadēmiskās doktora studiju programmas īstenošanā piedalās ne mazāk kā pieci profesori un asociētie profesori, tostarp ārvalstu, vai personas ar zinātnes doktora grādu. Profesionālās doktora studiju programmas mākslās īstenošanā piedalās ne mazāk kā piecas personas, kurām ir doktora grāds;
 4) ietver programmas īstenošanā iesaistīto struktūrvienību (katedru, profesoru grupu, laboratoriju, institūtu u.c.) uzskaitījumu, norādot to uzdevumus konkrētās programmas īstenošanā;
 5) ietver nepieciešamā palīgpersonāla raksturojumu, norādot tā uzdevumus;
 6) ietver programmas un apakšprogrammas īstenošanai nepieciešamās materiālās bāzes raksturojumu;

@@ -2,7 +2,7 @@
 (1) Augstskolas personālu veido:
 1) akadēmiskais personāls - attiecīgās augstskolas akadēmiskajos amatos ievēlētie darbinieki;
 2) vispārējais augstskolas personāls;
-3) studējošie, to skaitā maģistranti, doktorandi un rezidenti.
+3) studējošie.
 (2) Augstskolas personāla tiesības un pienākums ir sekmēt mācību, studiju, pētniecības un mākslinieciskās jaunrades darba brīvību, veicināt atklātumu augstskolas pārvaldē un tās lietu kārtošanā. Augstskolas personālam darba pienākumi jāpilda tā, lai augstskola spētu īstenot savus uzdevumus, lai netiktu pārkāptas nevienas citas personas tiesības un netiktu traucēta amata vai darba pienākumu izpilde.
 (3) Personālam ir tiesības saskaņā ar augstskolas satversmi noteiktā kārtībā piedalīties augstskolas vadības un pašpārvaldes lēmumu un augstskolas iekšējo normatīvo aktu izstrādāšanā, kā arī tādu lēmumu pieņemšanā, kas skar personāla intereses, piedalīties augstskolas koleģiālo vadības institūciju sēdēs, kā arī tikt uzklausītam.
 (4) Augstskolas personālam ir tiesības piedalīties augstskolas pašpārvaldes institūciju vēlēšanās un tikt ievēlētam tajās.

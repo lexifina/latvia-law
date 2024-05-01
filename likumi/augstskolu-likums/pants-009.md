@@ -1,6 +1,6 @@
 9.pants. Augstskolu akreditācija
 (1) Akreditācija notiek saskaņā ar Ministru kabineta apstiprinātiem akreditācijas noteikumiem, to organizē Akadēmiskās informācijas centrs. Lēmumu par augstskolu akreditāciju sešu mēnešu laikā pieņem Studiju kvalitātes komisija. Akadēmiskās informācijas centrs ievada un aktualizē Valsts izglītības informācijas sistēmā informāciju par augstskolu akreditāciju.
-(1¹) Akadēmiskās informācijas centrs organizē augstskolu akreditācijas procesu par maksu saskaņā ar Ministru kabineta apstiprinātu maksas pakalpojumu cenrādi.
+(1¹) Akadēmiskās informācijas centra organizētais augstskolu akreditācijas process ir maksas pakalpojums. Akadēmiskās informācijas centra sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets.
 (2) Augstskola ir tiesīga izsniegt valstiski atzītus diplomus par attiecīgas studiju programmas apguvi, ja izpildīti šādi nosacījumi:
 1) attiecīgā augstskola ir akreditēta;
 2) attiecīgā studiju programma ir īstenota atbilstoši normatīvo aktu prasībām;

@@ -1,0 +1,1 @@
+106. Grozījumi par šā likuma 46. panta otrās daļas papildināšanu ar jaunu ceturto teikumu, grozījums par šā likuma papildināšanu ar 47.¹ pantu, grozījums par 52. panta trešās daļas izteikšanu jaunā redakcijā, grozījums par 78. panta pirmās daļas papildināšanu ar 1.² punktu un grozījums par 78. panta papildināšanu ar 1.¹ daļu stājas spēkā 2024. gada 1. augustā.

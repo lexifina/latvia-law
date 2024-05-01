@@ -11,3 +11,4 @@
 9) dibināt biedrības, pulciņus un klubus.
 (1¹) (Izslēgta ar 15.09.2022. likumu)
 (2) Augstskolas studējošo intereses attiecībās ar valsts institūcijām pārstāv studējošo pašpārvalde.
+(3) Doktorantam ir tiesības uz studiju pārtraukumu, kas viņa apgūstamās doktora studiju programmas ietvaros kopumā ir ne vairāk kā divi gadi. Studiju pārtraukuma pamatotību un piešķiršanas kārtību nosaka augstskola.
