@@ -1,0 +1,1 @@
+117. Šā likuma 16. panta sestajā daļā minēto elektroenerģijas pārvades sistēmas pakalpojuma tarifa atlaidi pārvades sistēmas operators var piemērot tiem lietotājiem, kuri, sākot ar 2024. gada 1. maiju, iesnieguši pieteikumu tehnisko prasību saņemšanai jauna pieslēguma pie pārvades sistēmas ierīkošanai.
