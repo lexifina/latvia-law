@@ -24,7 +24,7 @@ jūlija otro sestdienu - Jūras svētku dienu;
 septembra otro svētdienu - Tēva dienu;
 22. septembri - Baltu vienības dienu;
 1. oktobri - Starptautisko senioru dienu;
-oktobra pirmo svētdienu - Skolotāju dienu;
+5. oktobri - Skolotāju dienu;
 15. oktobri - Valsts valodas dienu;
 7. novembri - Robežsargu dienu;
 11. novembri - Lāčplēša dienu;
