@@ -1,0 +1,2 @@
+13.¹ pants. (1) Mazumtirdzniecības uzņēmums pārtikas tirdzniecības vietā pārtikas produktam norāda valsti, kurā tas ražots. Attiecīgo valsti norāda rakstveidā vai ar tās karoga attēlu. Ja pārtikas produkts ir ražots Krievijas Federācijā vai Baltkrievijas Republikā, to norāda tikai rakstveidā.
+(2) Ministru kabinets nosaka kritērijus tās valsts identificēšanai, kurā ražots pārtikas produkts, prasības šā panta pirmajā daļā minēto norāžu (rakstveida informācijas vai karoga attēla) noformēšanai un to izvietošanai, kā arī izņēmumus, kad norāžu izvietošana nav obligāta.
