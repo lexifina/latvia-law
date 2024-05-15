@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 9. maija likums \"Grozījums likumā \"Par fizisko personu datu apstrādi kriminālprocesā un administratīvā pārkāpuma procesā\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-14",
+  "entry_into_force": "2024-05-15",
+  "notification_date": "2024-05-15",
+  "commission_reference": "MNE(2024)02173",
+  "nim_celex": "72016L0680LVA_202402173",
+  "nim_id": "202402173",
+  "transposes_celex": [
+    "32016L0680"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4f86d03e-e30b-4bf6-a50e-9c6d429a9f5d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
