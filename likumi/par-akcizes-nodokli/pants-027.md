@@ -10,7 +10,7 @@ b) alu,
 c) alkoholiskos dzērienus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos,
 d) raudzētos dzērienus ar absolūtā spirta saturu līdz 6 tilpumprocentiem (ieskaitot);
 1¹) tabakas izstrādājumus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos, ja tabakas izstrādājumu iepakojuma vienība satur tādu drošības elementu, kas nav akcīzes nodokļa marka, bet ir noteikts saskaņā ar normatīvajiem aktiem par drošības elementiem;
-1²) tabakas lapas;
+1²) (izslēgts no 20.05.2024. ar 25.10.2018. likumu. Sk. Pārejas noteikumu 107. punktu);
 1³) (izslēgts no 01.07.2021. ar 24.11.2020. likumu. Sk. Pārejas noteikumu 128. punktu);
 1⁴) elektroniskajās smēķēšanas ierīcēs izmantojamo šķidrumu, elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļas un tabakas aizstājējproduktus, kurus saskaņā ar normatīvajiem aktiem muitas jomā realizē beznodokļu tirdzniecības veikalos;
 2) alkoholiskos dzērienus, kuri ir atbrīvoti no nodokļa saskaņā ar šā likuma 16., 20. un 21. pantu vai kuriem piemēro nodokli saskaņā ar šā likuma 16. panta ceturto daļu;
