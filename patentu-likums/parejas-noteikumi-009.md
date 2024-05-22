@@ -1,0 +1,1 @@
+9. Prasību par Eiropas patenta pārkāpumu vai tā anulēšanu vai prasību par tāda papildu aizsardzības sertifikāta pārkāpumu vai tā atzīšanu par spēkā neesošu, kurš piešķirts attiecībā uz produktu, kas aizsargāts ar Eiropas patentu, var iesniegt tiesā Civilprocesa likumā noteiktajā kārtībā saskaņā ar Vienotās patentu tiesas izveides nolīguma 83. pantu līdz 2030. gada 31. maijam.
