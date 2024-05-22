@@ -1,0 +1,1 @@
+118. Izglītojamiem, kuri līdz 2025./2026. mācību gadam uzsākuši krievu valodas kā otrās svešvalodas apguvi, izglītības iestāde nodrošina iespēju turpināt tās apguvi līdz pamatizglītības pakāpes noslēgumam, bet ne ilgāk kā līdz 2029./2030. mācību gada beigām.
