@@ -1,2 +1,2 @@
-35. pants. Administratīvā atbildība par ģenētiski modificēto mikroorganismu ierobežotās izmantošanas noteikumu pārkāpšanu
-Par ģenētiski modificēto mikroorganismu ierobežotās izmantošanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz simt naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.
+35. pants. Administratīvā atbildība par ģenētiski modificēto mikroorganismu un ģenētiski modificēto organismu ierobežotās izmantošanas noteikumu pārkāpšanu
+Par ģenētiski modificēto mikroorganismu un ģenētiski modificēto organismu ierobežotās izmantošanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz simt naudas soda vienībām, bet juridiskajai personai - no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.

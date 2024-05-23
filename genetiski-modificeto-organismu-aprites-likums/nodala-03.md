@@ -1,2 +1,2 @@
 III nodaļa
-Ģenētiski modificēto mikroorganismu ierobežotā izmantošana
+Ģenētiski modificēto mikroorganismu un ģenētiski modificēto organismu ierobežotā izmantošana
