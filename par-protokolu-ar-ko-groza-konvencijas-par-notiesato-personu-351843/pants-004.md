@@ -1,0 +1,1 @@
+4. pants. Protokols stājas spēkā tā 4. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Protokols angļu valodā un publicējams tā tulkojums latviešu valodā.

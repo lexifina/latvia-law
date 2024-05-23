@@ -1,0 +1,1 @@
+1. pants. 2017. gada 22. novembra Protokols, ar ko groza 1983. gada 21. marta Eiropas padomes konvencijas par notiesāto personu nodošanu soda izciešanai 1997. gada 18. decembra Papildu protokolu (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
