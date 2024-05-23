@@ -1,0 +1,1 @@
+19. Šā likuma 33. panta otrās daļas 4.¹ punkts, 36.¹ pants (attiecībā uz attālinātu dalību un balsošanu biedru sapulcē) un 43. panta piektās daļas otrā teikuma jaunā redakcija, kā arī grozījums 36. pantā par ceturtās, piektās, sestās un septītās daļas izslēgšanu un grozījums 39. panta trešajā daļā stājas spēkā 2024. gada 1. jūlijā.
