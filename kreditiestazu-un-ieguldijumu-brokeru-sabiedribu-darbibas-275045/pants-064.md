@@ -4,7 +4,7 @@
 3) šīs daļas 1. un 2. punktā minētajiem posteņiem, norādot:
 a) to sastāvu, tostarp termiņa profilu,
 b) to prioritāti maksātnespējas procesā,
-c) vai tos reglamentē trešās valsts tiesību akti (ja tas tā ir, norāda attiecīgo valsti) un vai tie ietver šā likuma 76. panta pirmajā daļā, Regulas Nr. 575/2013 52. panta 1. punkta "p" un "q" apakšpunktā un 63. panta "n" un "o" punktā minētos līguma noteikumus.
+c) vai tos reglamentē ārvalsts tiesību akti (ja tas tā ir, norāda attiecīgo valsti) un vai tie ietver šā likuma 76. panta pirmajā daļā, Regulas Nr. 575/2013 52. panta 1. punkta "p" un "q" apakšpunktā un 63. panta "n" un "o" punktā minētos līguma noteikumus.
 (2) Šā panta pirmās daļas 2. punktā minēto pienākumu ziņot par citu iekšēji rekapitalizējamu saistību apjomiem nepiemēro iestādēm un finanšu sabiedrībām, kuru pašu kapitāla un atbilstīgo saistību apjoms informācijas ziņošanas dienā ir vismaz 150 procentu apmērā no šā likuma 59. panta pirmajā daļā minētās minimālās pašu kapitāla un atbilstīgo saistību prasības un ir aprēķināts saskaņā ar šā panta pirmās daļas 1. punktu.
 (3) Šā panta pirmajā daļā minētās iestādes un finanšu sabiedrības iesniedz:
 1) vismaz reizi pusgadā - šā panta pirmās daļas 1. punktā minēto informāciju;
@@ -15,4 +15,4 @@ c) vai tos reglamentē trešās valsts tiesību akti (ja tas tā ir, norāda att
 2) šīs daļas 1. punktā minēto posteņu sastāvs, tostarp termiņa profils un prioritāte maksātnespējas procesā;
 3) šā likuma 60.² un 61. pantā minētā minimālā pašu kapitāla un atbilstīgo saistību prasība, kas izteikta saskaņā ar šā likuma 59. panta otro daļu.
 (6) Šā panta pirmo un piekto daļu nepiemēro iestādēm un finanšu sabiedrībām, kuru noregulējuma plānā ir paredzēts, ka attiecīgo vienību likvidēs saskaņā ar maksātnespējas procesu.
-(7) Ja ir veiktas noregulējuma darbības vai īstenotas šā likuma 77. pantā minētās norakstīšanas vai konvertēšanas tiesības, tad šā panta piektajā daļā minētās informācijas publiskošanas prasības piemēro no datuma, kas ir šā likuma 66. panta trešajā daļā un pārejas noteikumu 4., 5. un 6. punktā minētais termiņš, līdz kuram izpildāmas šā likuma 60.² vai 61. panta prasības.
+(7) Ja ir veiktas noregulējuma darbības vai īstenotas šā likuma 77. pantā minētās norakstīšanas vai konvertēšanas tiesības, vai noteikts pārejas termiņš saskaņā ar šā likuma 66. panta pirmo daļu, tad šā panta piektajā daļā minētās informācijas publiskošanas prasības piemēro no datuma, kas ir šā likuma 66. panta pirmajā un ceturtajā daļā minētais termiņš.

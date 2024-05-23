@@ -4,4 +4,4 @@
 (4) Ja šā likuma 2. panta otrās daļas 3. un 4. punktā minētā finanšu sabiedrība neatbilst noregulējuma darbības veikšanas nosacījumiem, Latvijas Banka ir tiesīga veikt noregulējuma darbību attiecībā uz minēto sabiedrību, ja ir izpildīti visi šādi nosacījumi:
 1) finanšu sabiedrība ir noregulējamā vienība;
 2) viena vai vairākas finanšu sabiedrības meitas sabiedrības, kas ir iestādes, bet nav noregulējamās vienības, atbilst noregulējuma darbības veikšanas nosacījumiem;
-3) vienas vai vairāku finanšu sabiedrības meitas sabiedrību aktīvi un saistības ir tādas, ka šo meitas sabiedrību iespējamā maksātnespēja apdraud visu noregulējamo grupu, un noregulējuma darbība attiecībā uz finanšu sabiedrību ir nepieciešama, lai noregulētu meitas sabiedrības, kas ir iestādes, vai visu noregulējamo grupu.
+3) vienas vai vairāku finanšu sabiedrības meitas sabiedrību aktīvi un saistības ir tādas, ka šo meitas sabiedrību iespējamās finanšu grūtības apdraud visu noregulējamo grupu, un noregulējuma darbība attiecībā uz finanšu sabiedrību ir nepieciešama, lai noregulētu meitas sabiedrības, kas ir iestādes, vai visu noregulējamo grupu.

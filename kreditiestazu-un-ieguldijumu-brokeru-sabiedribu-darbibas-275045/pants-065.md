@@ -4,4 +4,4 @@
 3) īstenojot pasākumus, kas minēti Kredītiestāžu likuma 36.³ panta ceturtajā daļā, 101.³ panta 4.⁴, 4.⁵, 4.⁶ daļā un 4.⁷ daļas 2. punktā;
 4) īstenojot agrīnas intervences pasākumus saskaņā ar šā likuma 33. pantu;
 5) piemērojot sankcijas saskaņā ar šā likuma 129. panta pirmo daļu vai administratīvos pasākumus saskaņā ar 129. panta otro daļu.
-(2) Latvijas Banka saskaņā ar šā likuma 39., 39.¹ vai 40. pantu var veikt novērtējumu par to, vai iestādes un finanšu sabiedrības kļūst vai, iespējams, kļūs maksātnespējīgas.
+(2) Latvijas Banka saskaņā ar šā likuma 39., 39.¹ vai 40. pantu var veikt novērtējumu par to, vai iestādei un finanšu sabiedrībai ir finanšu grūtības vai, iespējams, tā nonāks finanšu grūtībās.

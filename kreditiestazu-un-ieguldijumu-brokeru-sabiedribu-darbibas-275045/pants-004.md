@@ -1,4 +1,4 @@
-4.pants. (1) Ņemot vērā ietekmi, kādu uz finanšu tirgiem, iestādēm, finansēšanas nosacījumiem vai uz tautsaimniecību varētu radīt iestādes iespējamā maksātnespēja un šīs iestādes komercdarbības raksturs, apmērs, akcionāru vai dalībnieku sastāvs, juridiskā forma, riska profils un nozīmīgums finanšu sistēmā kopumā, Latvijas Banka atbilstoši savai kompetencei ir tiesīga noteikt atvieglojumus šādām prasībām:
+4.pants. (1) Ņemot vērā ietekmi, kādu uz finanšu tirgiem, iestādēm, finansēšanas nosacījumiem vai uz tautsaimniecību varētu radīt iestādes iespējamās finanšu grūtības un šīs iestādes komercdarbības raksturs, apmērs, akcionāru vai dalībnieku sastāvs, juridiskā forma, riska profils un nozīmīgums finanšu sistēmā kopumā, Latvijas Banka atbilstoši savai kompetencei ir tiesīga noteikt atvieglojumus šādām prasībām:
 1) darbības atjaunošanas un noregulējuma plānu saturam un aktualizēšanas biežumam;
 2) no iestādēm pieprasāmās informācijas saturam;
 3) šajā likumā paredzētās noregulējamības izvērtēšanas detalizācijas pakāpei.

@@ -1,4 +1,4 @@
-58.¹ pants. (1) Tādu atbilstīgo saistību pārdevējs, kuras atbilst visiem Regulas Nr. 575/2013 72.a pantā minētajiem nosacījumiem (izņemot nosacījumus attiecībā uz minētās regulas 72.a panta 1. punktu un 72.b panta 3., 4. un 5. punktu), šādas saistības pārdod privātam klientam tikai tad, ja ir izpildīti visi šādi nosacījumi:
+58.¹ pants. (1) Tādu atbilstīgo saistību pārdevējs, kuras atbilst visiem Regulas Nr. 575/2013 72.a pantā minētajiem nosacījumiem (izņemot nosacījumus attiecībā uz minētās regulas 72.a panta 1. punkta "b" apakšpunktu un 72.b panta 3., 4. un 5. punktu), šādas saistības pārdod privātam klientam tikai tad, ja ir izpildīti visi šādi nosacījumi:
 1) pārdevējs ir veicis piemērotības pārbaudi saskaņā ar Finanšu instrumentu tirgus likuma 126.² pantu;
 2) pārdevējs, pamatojoties uz šīs daļas 1. punktā minēto pārbaudi, ir pārliecinājies, ka šādas atbilstīgās saistības ir piemērotas attiecīgajam privātajam klientam;
 3) pārdevējs piemērotību dokumentē saskaņā ar Finanšu instrumentu tirgus likuma 128. panta vienpadsmito, 11.¹ un 11.² daļu.

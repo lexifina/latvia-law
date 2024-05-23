@@ -2,6 +2,7 @@
 (2) Pagaidu iestāde ir juridiskā persona, kas atbilst šādām prasībām:
 1) tajā būtiska līdzdalība ir vienai vai vairākām tiešās vai pastarpinātās pārvaldes iestādēm, un tā atrodas Latvijas Bankas pārraudzībā;
 2) tā ir izveidota, lai saņemtu un turētu dažas vai visas noregulējamās iestādes akcijas vai citus īpašumtiesību instrumentus vai vienas vai vairāku noregulējamo iestāžu aktīvus, tiesības vai saistības, lai turpinātu dažas vai visas noregulējamās iestādes funkcijas, pakalpojumus un darbības.
+(2¹) Pagaidu iestādes dibinātājs ir tiesīgs ieskaitīt pamatkapitāla apmaksai nepieciešamos līdzekļus Latvijas Bankā atvērtā pagaidu kontā. Pēc pagaidu iestādes dibināšanas šī iestāde pārskaita pagaidu kontā esošos līdzekļus uz tās norēķinu kontu Latvijas Bankā vai dalībvalsts kredītiestādē. Pagaidu iestāde ir tiesīga turēt naudas līdzekļus euro kontā Latvijas Bankā saskaņā ar Latvijas Bankas kontu apkalpošanas nosacījumiem, kas paredzēti kontu apkalpošanas līgumā, kuru pagaidu iestāde noslēgusi ar Latvijas Banku.
 (3) Iekšējās rekapitalizācijas instrumenta piemērošana šā likuma 53. panta pirmās daļas 2. punktā minētajam mērķim neietekmē Latvijas Bankas tiesības kontrolēt pagaidu iestādi.
 (4) Piemērojot pagaidu iestādes instrumentu, Latvijas Banka nodrošina, ka pagaidu iestādei nodoto saistību kopējā vērtība nepārsniedz no noregulējamās iestādes vai citiem avotiem iegūto tiesību un aktīvu kopējo vērtību.
 (5) Atlīdzību par noregulējuma instrumentu piemērošanu, ko samaksā pagaidu iestāde, izmaksā:

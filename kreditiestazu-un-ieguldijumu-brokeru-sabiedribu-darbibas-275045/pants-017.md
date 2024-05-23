@@ -1,5 +1,5 @@
-17.pants. (1) Latvijas Banka pēc apspriešanās ar tām noregulējuma iestādēm to dalībvalstu teritorijās, kurās atrodas nozīmīgas filiāles, novērtē, kādā mērā iestādi, kura neietilpst grupā, ir iespējams noregulēt, nesniedzot valsts atbalstu vai Latvijas Bankas atbalstu.
+17.pants. (1) Latvijas Banka pēc apspriešanās ar tām noregulējuma iestādēm to dalībvalstu teritorijās, kurās atrodas nozīmīgas filiāles, ciktāl tas attiecas uz attiecīgo nozīmīgo filiāli, novērtē, kādā mērā iestādi, kura neietilpst grupā, ir iespējams noregulēt, nesniedzot valsts atbalstu vai ārkārtas likviditātes aizdevumu.
 (2) Iestādi uzskata par noregulējamu, ja, piemērojot likvidāciju vai dažādus noregulējuma instrumentus un tiesības, tā maksimāli izvairītos no būtiskas negatīvas ietekmes uz Latvijas Republikas vai citu dalībvalstu finanšu sistēmu, kā arī no plašākas finansiālas nestabilitātes vai sistēmiskas krīzes un tiktu sasniegts mērķis nodrošināt iestādes kritiski svarīgo funkciju nepārtrauktību. Latvijas Banka savlaicīgi informē Eiropas Banku iestādi, ja uzskata, ka iestādes noregulējums nav iespējams.
 (2¹) Latvijas Banka izdod noteikumus, kuros nosaka prasības iestādes noregulējamības novērtējumam.
 (3) (Izslēgta ar 16.02.2017. likumu)
-(4) Noregulējamības novērtējumu atbilstoši šim pantam noregulējuma iestāde veic vienlaikus ar noregulējuma plāna izstrādi un aktualizēšanu.
+(4) Noregulējamības novērtējumu atbilstoši šim pantam Latvijas Banka veic vienlaikus ar noregulējuma plāna izstrādi un aktualizēšanu.

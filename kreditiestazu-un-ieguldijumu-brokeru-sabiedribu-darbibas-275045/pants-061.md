@@ -9,7 +9,7 @@ a) kuras emitē noregulējamai vienībai un kuras noregulējamā vienība pērk 
 b) kas atbilst Regulas Nr. 575/2013 72.a pantā minētajiem atbilstības kritērijiem, izņemot minētās regulas 72.b panta 2. punkta "b", "c", "k", "l" un "m" apakšpunktu un 72.b panta 3., 4. un 5. punktu,
 c) kas maksātnespējas procesā tiek ierindotas pēc saistībām, kuras neatbilst šā punkta "a" apakšpunktā minētajiem nosacījumiem un nav atbilstīgas pašu kapitāla prasībām,
 d) kas ir pakļautas norakstīšanas vai konvertēšanas tiesībām saskaņā ar šā likuma 77., 78., 79. un 80. pantu veidā, kas atbilst noregulējamās grupas noregulējuma stratēģijai - neietekmē noregulējamās vienības kontroli pār meitas sabiedrību,
-e) kuru izpildi tieši vai netieši nefinansē iestāde vai finanšu sabiedrība, uz kuru attiecas šis pants,
+e) kuru iegūšanu tieši vai netieši nefinansē iestāde vai finanšu sabiedrība, uz kuru attiecas šis pants,
 f) kuru reglamentējošie noteikumi nenorāda, ka iestādei vai finanšu sabiedrībai, uz kuru attiecas šis pants (izņemot minētās iestādes vai finanšu sabiedrības maksātnespējas vai likvidācijas gadījumu), saistības attiecīgi atsaucamas, dzēšamas, atpērkamas vai pirms termiņa atmaksājamas, un minētā vienība citā veidā nesniedz šādu norādi,
 g) kuru reglamentējošie noteikumi neparedz turētājam tiesības paātrināt nākotnes grafikā noteikto procentu vai pamatsummas maksājumu (izņemot vienības, uz kuru attiecas šis pants, maksātnespējas vai likvidācijas gadījumu),
 h) par kurām attiecīgi maksājamo procentu vai dividenžu maksājumu līmenis netiek grozīts, pamatojoties uz vienības, uz kuru attiecas šis pants, vai tās mātes sabiedrības kredītspēju;
@@ -38,4 +38,4 @@ b) citu pašu kapitālu, ko emitē vienībām, kuras ietilpst vienā un tajā pa
 5) garantijas nodrošinājums nav apgrūtināts un netiek izmantots kā nodrošinājums, lai segtu jebkādu citu garantiju;
 6) nodrošinājumam ir faktisks termiņš, kas atbilst tādam pašam termiņa nosacījumam kā Regulas Nr. 575/2013 72.c panta 1. punktā minētais nosacījums;
 7) nodrošinājuma pārvešanai no noregulējamās vienības uz attiecīgo meitas sabiedrību nav juridisku, regulatīvu vai operatīvu šķēršļu, tostarp gadījumos, kad noregulējuma darbība tiek veikta attiecībā uz noregulējamo vienību.
-(10) Pēc Latvijas Bankas lūguma noregulējamā vienība rakstveidā sniedz pamatotu atzinumu vai citādi pierāda, ka nav juridisku, regulatīvu vai operatīvu šķēršļu nodrošinājuma pārvešanai no noregulējamās vienības uz attiecīgo meitas sabiedrību.
+(10) Pēc Latvijas Bankas lūguma noregulējamā vienība rakstveidā sniedz neatkarīgu un juridiski pamatotu atzinumu vai citādi pienācīgi pierāda, ka nav juridisku, regulatīvu vai operatīvu šķēršļu nodrošinājuma pārvešanai no noregulējamās vienības uz attiecīgo meitas sabiedrību.
