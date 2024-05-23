@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada pavasara sesija",
+ "sede": 12,
+ "datums": "2024-05-23",
+ "ieraksts": {
+  "dkp_id": "781f992c-3528-4c18-936e-69a563df568e",
+  "lastmodtime": "\"AAAAAAI6LrU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Mairita#Anna#Zane#Juris#Svetlana#Mārtiņš#Andris#Andris#Andrejs#Inese#Māris#Edmunds#Didzis#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Jana#Ligita#Ervins#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Rihards#Andrejs#Ingrīda#Edmunds#Augusts#Aiva#Līga#Dmitrijs#Arturs Krišjānis#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Gatis#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Igors#Jānis#Lauris#Linda#Atis#Jānis#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Indriksone#Lūse#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Bērziņš#Šuvajevs#Vilks#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Simanovska#Gintere#Labanovskis#Gendele#Drelinga#Vergina#Puntulis#Čudars#Kols#Ceļapīters#Circene#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Kovaļenko#Kariņš#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Judins#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##############################################################",
+  "FRACTION": "ST!#NA#PRO#JV#JV#ZZS#ST!#JV#ZZS#PRO#ZZS#JV#AS#NA#ZZS#ZZS#AS#ST!#LPV#NA#JV#PRO#ZZS#PRO#JV#ST!#JV#NA#JV#NA# #JV#JV#ZZS#AS#ZZS#ST!#JV#JV#ST!#AS#JV#ZZS#NA#JV#AS#JV#AS# #AS#AS#JV#ZZS#ZZS#ST!#JV#AS#LPV#PRO#JV#PRO#JV#AS",
+  "RESULT": "Pret#Nebalsoja#Par#Par#Par#Par#Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.05.2024 13:34:05",
+  "VOTEMOTIVE": "Grozījums Publisko iepirkumu likumā (580/Lp14), 1.lasījums",
+  "VOTING_ID": "ce7727e2-df8a-4379-b084-91b05dd18819",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "7",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "63",
+  "VOTE_NUMBER": "25",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada pavasara sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/8be043bd-cc35-4475-ab89-6fa377fcda3d/download/14.saeimas-2024.gada-pavasara-sesija-12-vote.xml",
+  "sha256": "ce9b92c31f0da0efb0f97d38a0dfdca93b86e007a104fc32f38f6f86031a9632",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
