@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 25. aprīļa likums \"Grozījumi Kredītiestāžu un ieguldījumu brokeru sabiedrību darbības atjaunošanas un noregulējuma likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "89",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-09",
+  "entry_into_force": "2024-05-23",
+  "notification_date": "2024-05-29",
+  "commission_reference": "MNE(2024)02356",
+  "nim_celex": "72022R2036LVA_202402356",
+  "nim_id": "202402356",
+  "transposes_celex": [
+    "32022R2036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9e18ee6c-1d76-4965-a968-261345e0de19",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
