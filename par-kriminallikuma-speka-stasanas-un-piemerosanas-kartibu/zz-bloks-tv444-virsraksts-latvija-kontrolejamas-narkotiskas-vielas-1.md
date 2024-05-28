@@ -6,10 +6,11 @@ I. Vispārīgie jautājumi
 3) IV saraksta 18. punktā iekļauto vielu (izņemot katīnu) stereoizomēriem, ja vien tie ir iespējami, un 18., 19. un 20. punktā iekļauto vielu sāļiem, ja vien tie ir iespējami un ja tie nav katīna, sālsskābes un sērskābes sāļi.
 3. Noteiktais vielas daudzums tiek aprēķināts jebkurā zāļu formā, vielu maisījumā, šķidrumā, ekstraktā, uzlējumā un novārījumā neatkarīgi no šīs vielas izgatavošanas procesā radušos piemaisījumu daudzuma, ja likumā nav noteikti izņēmumi.
 4. Ja kāda no II, III vai IV sarakstā iekļautajām vielām pēc ķīmiskās uzbūves atbilst arī I saraksta vielām, uz šo vielu nav attiecināmi I saraksta nosacījumi.
+4.¹ Ja kāda no III sarakstā iekļautajām vielām pēc ķīmiskās uzbūves atbilst arī II saraksta vielām, uz šo vielu nav attiecināmi II saraksta nosacījumi.
 II. I saraksts (aizliegtās sevišķi bīstamās narkotiskās vielas, tām pielīdzinātās psihotropās vielas un augi, kuru nelegāla aprite un ļaunprātīga lietošana apdraud veselību)
 5. Sintētiskie opioīdie analgētiķi:
 Nr.
-p.k.
+p. k.
 Starptautiskais neaizsargātais vielas nosaukums (SNN)/triviālais vielas nosaukums
 Numurs ķīmisko vielu reģistrā Chemical Abstracts Service (turpmāk - CAS Nr.)
 Vielas ķīmiskais nosaukums
@@ -22,56 +23,48 @@ alfacetilmetadols (SNN)
 0,1 g
 1 g
 2)
+bromadols, BDPC
+77239-98-6
+4-(4-bromfenil)-4-(dimetilamino)-1-(2-feniletil) cikloheksanols
+0,001 g
+1 g
+3)
+brorfīns
+2244737-98-0
+1-{1-[1-(4-bromfenil)etil]
+piperidin-4-il}-1,3-dihidro-2H-benzimidazol-2-ons
+0,01 g
+1 g
+4)
+fakseladols
+433265-65-7
+3-[2-[(dimetilamino)metil]cikloheksil]fenols
+0,001 g
+1 g
+5)
 MPPP, dezmetilprodīns
 13147-09-6
 (4-fenil-1-metilpiperidin-4-il)propanoāts
 0,1 g
 1 g
-3)
+6)
 PEPAP
 64-52-8
 4-fenil-1-(2-feniletil)piperidin-4-ilacetāts
 0,1 g
 1 g
-4)
-AH-7921
-55154-30-8
-3,4-dihlor-N-[[1-(dimetilamino)cikloheksil]metil]benzamīds
-0,1 g
-1 g
-5)
-U-47700
-82657-23-6
-3,4-dihlor-N-[(1R,2R)-2-(dimetilamino)cikloheksil]-N-metilbenzamīds
-0,1 g
-1 g
-6)
-U-51754
-121279-74-1
-2-(3,4-dihlorfenil)-N-[2-(dimetilamino)cikloheksil]-N-metilacetamīds
-0,1 g
-1 g
 7)
-3,4-metilēndioksi-U-47700
-nav pieejams
-N-(2-(dimetilamino)cikloheksil)-N-metilbenzo[d][1,3]dioksol-5-karboksamīds
-0,1 g
-1 g
-8)
-furanil UF-17
-nav pieejams
-N-[2-(dimetilamino)cikloheksil]-N-fenil-furān-2-karboksamīds
-0,1 g
-1 g
-9)
 viminols
 21363-18-8
 (α-[[bis(1-metilpropil)amino]metil]-1-[(2-hlorofenil)metil]-1H-pirol-2-metanols
 0,1 g
 1 g
-10)brorfīns2244737-98-01-{1-[1-(4-bromfenil)etil]
-piperidin-4-il}-1,3-dihidro-2H-benzimidazol-2-ons
-0,01 g1 g
+8)
+tiobromadols
+616898-54-5
+4-(4-bromfenil)-4-(dimetilamino)-1-[1-(2-tienil)ethil] cikloheksanols
+0,001 g
+1 g
 6. Morfināna atvasinājumi:
 Nr.
 p.k.
@@ -194,7 +187,7 @@ Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
 indola, azaindolu un indazola-3-karbonilatvasinājumi
-Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-karbonilatvasinājumi, kas aizvietoti pie indola, azaindolu vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
+Indola-3-karbonilatvasinājumi, azaindolu-3-karbonilatvasinājumi un indazola-3-karbonilatvasinājumi, kas aizvietoti vai neaizvietoti pie indola, azaindolu vai indazola cikla slāpekļa atoma stāvoklī 1 ar neaizvietotu vai aizvietotu alkilgrupu un stāvoklī 3 pie karbonilgrupas aizvietoti ar:
 a) neaizvietotu vai aizvietotu alkilgrupu vai cikloalkilgrupu;
 b) neaizvietotu vai aizvietotu aromātisku vai heteroaromātisku ciklu;
 c) neaizvietotu vai aizvietotu alkoksigrupu, ariloksigrupu, heteriloksigrupu;
@@ -208,7 +201,7 @@ N-(1-fenetilpiperidin-4-il)-N-fenilacetamīds un jebkurš savienojums, kas atvas
 a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola gredzenos ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem;
 b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna cikla stāvoklī 2, 3, 5 vai 6 ar neaizvietotu vai aizvietotu alkilgrupu;
 c) aizvietojot vienu vai vairākus etilēngrupas ūdeņraža atomus ar neaizvietotu vai aizvietotu alkilgrupu vai hidroksilgrupu;
-d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar jebkuru aizvietotāju vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus;
+d) aizvietojot vienu vai vairākus ūdeņraža atomus acetilgrupā ar jebkuru aizvietotāju vai iekļaujot oglekļa atomu ciklā, kas var būt aizvietots, tostarp veidojot papildinošus ciklus vai aizvietojot acetilgrupu ar estergrupu, kas var būt aizvietota;
 e) aizvietojot etilēngrupu ar metilēngrupu vai propilēngrupu;
 f) aizvietojot ūdeņraža atomu piperidīna cikla stāvoklī 4 ar aizvietotu vai neaizvietotu alkilgrupu, fenilgrupu, ētergrupu vai estergrupu;
 g) nomainot N-(1-fenetilpiperidin-4-il)grupā esošo benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu struktūru, kas var būt aizvietota;
@@ -222,6 +215,33 @@ a) aizvietojot ūdeņraža atomu pie slāpekļa atoma ar neaizvietotu vai aizvie
 b) papildus aizvietojot ūdeņraža atomu pie imidazola cikla oglekļa atoma ar neaizvietotu vai aizvietotu (hetero)arilgrupu vai neaizvietotu vai aizvietotu benzilgrupu, vai neaizvietotu vai aizvietotu aroilgrupu;
 c) papildus neaizvietojot vai aizvietojot ūdeņraža atomus benzimidazola benzola gredzenā
 0,001 g1 g
+4)4-cinamilpiperazīn-1-karbaldehīdi
+4-cinamilpiperazīn-1-karbaldehīds un jebkurš savienojums, kas atvasināts no 4-cinamilpiperazīn-1-karbaldehīda:
+a) aizvietojot vienu vai vairākus ūdeņraža atomus benzola ciklā;
+b) aizvietojot vienu vai vairākus ūdeņraža atomus piperazīna ciklā ar aizvietotu vai neaizvietotu alkilgrupu;
+c) aizvietojot ūdeņraža atomu pie karbonilgrupas ar neaizvietotu vai aizvietotu alkilgrupu0,001 g1 g
+5)N-[1-(2-feniletil)-2-piperidilidēn] benzēnsulfonamīdi
+N-[1-(2-feniletil)-2-piperidilidēn] benzēnsulfonamīds un jebkurš savienojums, kas atvasināts no N-[1-(2-feniletil)-2-piperidilidēn] benzēnsulfonamīda:
+a) aizvietojot vienu vai vairākus ūdeņraža atomus vienā vai abos benzola ciklos;
+b) aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna ciklā ar aizvietotām vai neaizvietotām alkilgrupām
+0,001 g1 g
+6)N-(2-aminocikloheksil) benzamīdi un N-(2-aminocikloheksil)-2-fenilacetamīdi
+N-(2-aminocikloheksil) benzamīds un N-(2-aminocikloheksil)-2-fenilacetamīds un jebkurš savienojums, kas atvasināts no N-(2-aminocikloheksil) benzamīda un N-(2-aminocikloheksil)-2-fenilacetamīda:
+a) neaizvietojot vai aizvietojot vienu vai abus aminogrupas ūdeņraža atomus vai iekļaujot to ciklā;
+b) neaizvietojot vai aizvietojot ūdeņraža atomu amīdgrupā;
+c) neaizvietojot vai aizvietojot ūdeņraža atomus benzola vai cikloheksāna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem, tostarp veidojot papildinošus ciklus;
+d) nomainot benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu aromātisku struktūru, kas var būt aizvietota0,001 g1 g
+7)N-[(1-aminocikloheksil)metil] benzamīdi
+N-[(1-aminocikloheksil)metil] benzamīds un jebkurš savienojums, kas atvasināts no N-[(1-aminocikloheksil)metil] benzamīda:
+a) aizvietojot vienu vai abus aminogrupas ūdeņraža atomus vai iekļaujot to ciklā;
+b) aizvietojot ūdeņraža atomu amīdgrupā;
+c) neaizvietojot vai aizvietojot ūdeņraža atomus benzola vai cikloheksāna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem, tostarp veidojot papildinošus ciklus;
+d) nomainot benzola gredzenu ar citu ciklisku, no benzola gredzena atšķirīgu aromātisku struktūru, kas var būt aizvietota0,001 g1 g
+8)N-(2-aminocikloheksil)-N-fenilformamīdi
+N-(2-aminocikloheksil)-N-fenilformamīds un jebkurš savienojums, kas atvasināts no N-(2-aminocikloheksil)-N-fenilformamīda:
+a) aizvietojot vienu vai abus aminogrupas ūdeņraža atomus vai iekļaujot to ciklā;
+b) neaizvietojot vai aizvietojot ūdeņraža atomus benzola vai cikloheksāna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem, tostarp veidojot papildinošus ciklus;
+c) aizvietojot ūdeņraža atomu pie karbonilgrupas ar neaizvietotu vai aizvietotu alkilgrupu vai ciklisku struktūru0,001 g1 g
 9. Vielas ar psihotropu iedarbību:
 Nr.
 p.k.
@@ -376,7 +396,7 @@ Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 2,5-dimetoksifeniletānamīni
 2,5-dimetoksifeniletānamīns un jebkurš savienojums, kas atvasināts no 2-(2,5-dimetoksifenil)etānamīna:
 a) aizvietojot ūdeņraža atomu(-us) benzola gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
-b) aizvietojot ūdeņraža atomu(-us) etilēngrupā ar vienu vai vairākām alkilgrupām;
+b) aizvietojot ūdeņraža atomu(-us) etilēngrupā;
 c) aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai iekļaujot slāpekļa atomu ciklā;
 d) jebkurā no iepriekš minētajiem savienojumiem aizvietojot ūdeņraža atomu pie slāpekļa atoma, ja tas ir brīvs, ar neaizvietotu vai aizvietotu hidroksilgrupu vai acilgrupu
 0,02 g
@@ -423,9 +443,11 @@ a)
 2-amino-1-fenilpropan-1-ons un jebkurš savienojums, kas atvasināts no 2-amino-1-fenilpropan-1-ona:
 a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai alkoksigrupu vai iekļaujot slāpekļa atomu ciklā;
 b) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus propanona stāvoklī 3 ar neaizvietotu vai aizvietotu alkilgrupu vai alkoksigrupu, vai aminogrupu;
-c) nomainot "a" vai "b" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola atšķirīgu struktūru, kas var būt aizvietota;
-d) aizvietojot ūdeņraža atomus benzola gredzenā jebkurā "a" vai "b" apakšpunktā minētajā savienojumā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklu;
-e) jebkura iepriekš minētā savienojuma karbonilgrupas vai aminogrupas, vai abu atvasinājumi
+c) neaizvietojot vai aizvietojot ūdeņraža atomus propanona stāvoklī 2 ar neaizvietotu vai aizvietotu alkilgrupu;
+d) veidojoties cikliskai struktūrai starp propanona oglekļa atomiem stāvoklī 2 un stāvoklī 3;
+e) nomainot "a" vai "b" apakšpunktā minētajos savienojumos benzola gredzenu ar citu ciklisku, no benzola atšķirīgu struktūru, kas var būt aizvietota;
+f) aizvietojot ūdeņraža atomus benzola gredzenā jebkurā "a" vai "b" apakšpunktā minētajā savienojumā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklu;
+g) jebkura iepriekš minētā savienojuma karbonilgrupas vai aminogrupas, vai abu atvasinājumi
 0,02 g
 3 g
 b)
@@ -433,7 +455,7 @@ pašizgatavots preparāts no efedrīna, kas satur efedronu
 1 ml
 50 ml
 7)
-piperazīni (izņemot trazodonu un vortioksetīnu)
+piperazīni (izņemot trazodonu, vortioksetīnu un masitiniba mezilātu)
 Jebkurš savienojums, kas atvasināts no piperazīna:
 a) aizvietojot ūdeņraža atomu pie viena slāpekļa atoma ar neaizvietotu vai aizvietotu fenilgrupu, neaizvietotu vai aizvietotu benzilgrupu vai cikloheksilgrupu;
 b) neaizvietojot vai aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar neaizvietotu vai aizvietotu metilgrupu
@@ -616,10 +638,7 @@ CAS Nr.
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-4-anilīnpiperidīns
-23056-29-3
-0,6 g
-10 g
+(izslēgts ar 09.05.2024. likumu)
 2)
 acetildihidrokodeīns
 3861-72-1
@@ -910,6 +929,8 @@ levorfanols
 77-07-6
 0,2 g
 10 g
+59¹
+(apakšpunkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 10. punktu)
 60)
 metadons
 76-99-3
@@ -1021,7 +1042,7 @@ oksikodons
 0,2 g
 10 g
 82)
-oksimorfons
+oksimorfons (izņemot naloksonu)
 76-41-5
 0,2 g
 10 g
@@ -1120,6 +1141,11 @@ tilidīns
 20380-58-9
 0,2 g
 10 g
+101¹)
+tiopentāls
+76-75-5
+0,2 g
+10 g
 102)
 trimeperidīns (promedols)
 64-39-1
@@ -1178,7 +1204,7 @@ flunitrazepāms
 0,01 g
 5 g
 10)
-gammahidroksibutirskābe (GHB)
+hidroksibutirskābe, gamma (GHB)
 591-81-1
 0,6 g
 10 g
@@ -1300,6 +1326,11 @@ bromazepāms
 1812-30-2
 0,4 g
 10 g
+8¹)
+bromazolāms
+71368-80-4
+0,001 g
+1 g
 9)
 brotizolāms
 57801-81-7
@@ -1309,6 +1340,11 @@ brotizolāms
 butobarbitāls
 77-28-1
 0,6 g
+10 g
+10¹)
+butorfanols
+42408-82-2
+0,2 g
 10 g
 11)
 cefedrīns
@@ -1333,6 +1369,11 @@ diazepāms
 15)
 efedrīns
 299-42-3
+0,6 g
+10 g
+15¹)
+esketamīns
+33643-46-8
 0,6 g
 10 g
 16)
@@ -1387,6 +1428,11 @@ fenobarbitāls
 0,6 g
 10 g
 25¹)flualprazolāms28910-91-00,001 g1 g
+25²)
+flubromazepāms
+2647-50-9
+0,05 g
+10 g
 26)
 fludiazepāms
 3900-31-0
@@ -1570,6 +1616,11 @@ prazepāms
 0,6 g
 10 g
 61¹)pregabalīns148553-50-80,6 g6 g
+61²)
+primidons
+125-33-7
+0,6 g
+10 g
 62)
 propanidīds
 1421-14-3
@@ -1596,6 +1647,11 @@ tetrazepāms
 10379-14-3
 0,6 g
 10 g
+66¹)
+tiletamīns
+14176-49-9
+0,6 g
+10 g
 67)
 tofizopāms
 22345-47-7
@@ -1619,6 +1675,11 @@ triheksifenidils
 71)
 vinilbitāls
 2430-49-1
+0,6 g
+10 g
+71¹)
+zolazepāms
+31352-82-6
 0,6 g
 10 g
 72)
@@ -1664,7 +1725,7 @@ piesūcināts papīrs (marka)
 V. IV saraksts (vielas, kas var tikt izmantotas narkotisko vai psihotropo vielu nelikumīgai izgatavošanai, jeb prekursori)
 18. Pirmās kategorijas prekursori:
 Nr.
-p.k.
+p. k.
 Vielas nosaukums
 CAS Nr.
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
@@ -1680,116 +1741,151 @@ alfa-fenilacetoacetonitrils (APAAN)
 10 g
 100 g
 3)
+dietil(fenilacetil)propāndioāts (DEPAPD)
+20320-59-6
+10 g
+100 g
+4)
 efedrīns
 299-42-3
 0,6 g
 10 g
-4)
+5)
 ergometrīns
 60-79-7
 50 g
 1 kg
-5)
+6)
 ergotamīns
 113-15-5
 50 g
 1 kg
-6)
+7)
+etil alfa-fenilacetoacetāts (EAPA)
+5413-05-8
+10 g
+100 g
+8)
+etil 3-(2H-1,3-benzodioksol-5-il)-2-metiloksirān-2-karboksilāts (PMK etilglicidāts)
+28578-16-7
+10 g
+100 g
+9)
 izosafrols (cis + trans)
 120-58-1
 50 g
 1 kg
-7)
+10)
 lizergīnskābe
 82-58-6
 10 g
 100 g
-8)
+11)
+metil 3-okso-2-(3,4-metilēndioksifenil)butanoāts (MAMDPA)
+1369021-80-6
+10 g
+100 g
+12)
 metil-alfa-fenilacetoacetāts (MAPA)
 16648-44-5
 10 g
 100 g
-9)
+13)
 metil-2-metil-3-feniloksirān-2-karboksilāts (BMK metilglicidāts)
 80532-66-7
 10 g
 100 g
-10)
+14)
 metil-3-(1,3-benzodioksol-5-il)-2-metiloksirān-2-karboksilāts (PMK metilglicidāts)
 13605-48-6
 10 g
 100 g
-11)
+15)
 N-acetilantranilskābe
 89-52-1
 50 g
 1 kg
-12)
-N-fenetil-4-piperidinons (NPP)
-39742-60-4
+16)
+N-fenil-1-(2-feniletil)piperidīn-4-amīns (ANPP)
+21409-26-7
 0,6 g
 10 g
-13)
+17)
+N-fenil-N-(piperidīn-4-il)propānamīds (norfentanils)
+1609-66-1
+10 g
+100 g
+18)
+N-fenilpiperidīn-4-amīns (4-AP)
+23056-29-3
+10 g
+100 g
+19)
 norefedrīns
 14838-15-4
 0,6 g
 10 g
-14)
+20)
 piperonāls
 120-57-0
 50 g
 1 kg
-15)
+21)
 pseidoefedrīns
 90-82-4
 0,6 g
 10 g
-16)
+22)
 safrols
 94-59-7
 50 g
 1 kg
-17)
+23)
+terc-butil 4-anilīnpiperidīn-1-karboksilāts (1-boc-4-AP)
+125541-22-2
+10 g
+100 g
+24)
+1-(2-feniletil)piperidīn-4-ons (NPP)
+39742-60-4
+0,6 g
+10 g
+25)
 1-fenil-2-propanons (BMK)
 103-79-7
 10 g
 100 g
-18)
+26)
 2-metil-3-feniloksirān-2-karbonskābe (BMK glicīdskābe)
 25547-51-7
 10 g
 100 g
-19)
+27)
 3-(1,3-benzodioksol-5-il)-2-metiloksirān-2-karbonskābe (PMK glicīdskābe)
 2167189-50-4
 10 g
 100 g
-20)
+28)
 3,4-metilēndioksi-fenil-2-propanons (PMK)
 4676-39-5
 10 g
 100 g
-21)
-4-anilīn-N-fenetilpiperidīns (ANPP)
-21409-26-7
-0,6 g
-10 g
-22)
+29)
 (1R,2S)-(-)-hlorefedrīns
 110925-64-9
 0,6 g
 10 g
-23)
+30)
 (1S,2R)-(+)-hlorefedrīns
 1384199-95-4
 0,6 g
 10 g
-24)
+31)
 (1S,2S)-(+)-hlorpseidoefedrīns
 73393-61-0
 0,6 g
 10 g
-25)
+32)
 (1R,2R)-(-)-hlorpseidoefedrīns
 771434-80-1
 0,6 g
