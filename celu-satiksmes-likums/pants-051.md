@@ -13,7 +13,8 @@ piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam divu naud
 (5) Par transportlīdzekļa vadīšanu, ja nav atbilstošas kategorijas transportlīdzekļu vadīšanas tiesību, nav iegūtas profesionālo vadītāju tiesības vai transportlīdzekļa vadītājs vada transportlīdzekli, kas neatbilst vadītāja apliecībā norādītajam ierobežojuma kodam, piemēro naudas sodu transportlīdzekļa vadītājam no astoņām līdz piecdesmit sešām naudas soda vienībām.
 (6) Par transportlīdzekļa vadīšanu, ja:
 1) nav transportlīdzekļu vadīšanas tiesību (transportlīdzekļu vadīšanas tiesības nav noteiktā kārtībā iegūtas vai ir atņemtas);
-2) ir spēkā transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums, kas piemērots saskaņā ar Administratīvās atbildības likuma 18. pantu, pārkāpumu uzskaites punktu sistēmas ietvaros vai par transportlīdzekļu vadīšanas tiesību atņemšanu ārvalstīs, -
+2) ir spēkā transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums, kas piemērots saskaņā ar Administratīvās atbildības likuma 18. pantu, pārkāpumu uzskaites punktu sistēmas ietvaros vai par transportlīdzekļu vadīšanas tiesību atņemšanu ārvalstīs;
+3) saskaņā ar Administratīvās atbildības likuma 73. pantu piemērots procesuālais piespiedu līdzeklis - transportlīdzekļu vadīšanas tiesību izmantošanas apturēšana, -
 piemēro naudas sodu transportlīdzekļa vadītājam no piecdesmit sešām līdz simt četrpadsmit naudas soda vienībām.
 (6¹) Par velorikšas vadīšanu, ja nav velosipēda vai jebkuras kategorijas transportlīdzekļu vadīšanas tiesību, piemēro naudas sodu velorikšas vadītājam piecu naudas soda vienību apmērā.
 (7) Par transportlīdzekļa vadītāja vai pasažiera vietas atstāšanu bez uzaicinājuma, ja transportlīdzeklis apturēts pēc policijas darbinieka vai robežsarga pieprasījuma, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam vai pasažierim divu naudas soda vienību apmērā.

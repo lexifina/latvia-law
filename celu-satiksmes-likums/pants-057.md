@@ -28,7 +28,8 @@ piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam sešu nau
 4) vietās, kur transportlīdzeklis citiem vadītājiem aizsedz luksofora signālus vai ceļa zīmes;
 5) uz ietvēm, gājēju ceļiem, gājēju un velosipēdu ceļiem, kopīgiem gājēju un velosipēdu ceļiem vai velosipēdu ceļiem un velojoslām vietās, kur tas ir aizliegts;
 6) vietās, kur brauktuves mala apzīmēta ar 920. ceļa apzīmējumu, kā arī vietās, kur brauktuves mala vai apmale apzīmēta ar 943. vai 947. ceļa apzīmējumu;
-7) ārpus apdzīvotām vietām tuvāk par 100 metriem no dzelzceļa pārbrauktuves, bet apdzīvotās vietās tuvāk par 50 metriem no tās -
+7) ārpus apdzīvotām vietām tuvāk par 100 metriem no dzelzceļa pārbrauktuves, bet apdzīvotās vietās tuvāk par 50 metriem no tās;
+8) vietās, kur nav iespējams piebraukt, nepārkāpjot ceļu satiksmes noteikumu prasības, -
 piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
 (5) Par stāvēšanu:
 1) otrajā rindā;

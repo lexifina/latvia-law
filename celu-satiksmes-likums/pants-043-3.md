@@ -12,6 +12,7 @@ e) uz gājēju pārejas,
 f) pilnīgi vai daļēji uz ietves, gājēju ceļa, gājēju un velosipēdu ceļa vai kopīga gājēju un velosipēdu ceļa un gājēji tā dēļ nevar brīvi pārvietoties vai ir spiesti iziet uz brauktuves,
 g) uz dzelzceļa pārbrauktuves;
 h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
+i) uz ātrgaitas ceļa;
 5) transportlīdzeklis novietots stāvēšanai apdzīvotās vietās pilnīgi vai daļēji uz brauktuves diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos neapgaismotā ceļa posmā, kur apstāties aizliegts, tam nav iedegtas noteiktās ārējās apgaismes ierīces un tas citiem vadītājiem nav saredzams pietiekamā attālumā;
 6) transportlīdzeklis novietots stāvēšanai pilnīgi vai daļēji uz brauktuves ārpus apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos un tam nav iedegtas noteiktās ārējās apgaismes ierīces;
 7) transportlīdzeklis Ministru kabineta noteiktajā kārtībā atzīstams par ilgstoši atstātu uz ceļa;
@@ -22,4 +23,4 @@ h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
 (3) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu -stāvēšanai atļautu vietu saskaņā ar ceļa pārvaldītāja vai attiecīga avārijas vai glābšanas dienesta amatpersonas lēmumu var pārvietot piespiedu kārtā īslaicīgu ceļu uzturēšanas (piemēram, sniega novākšanas), remonta vai avārijas seku likvidēšanas darbu vai glābšanas darbu veikšanas gadījumā.
 (3¹) Izdevumus, kas saistīti ar transportlīdzekļa piespiedu pārvietošanu uz speciālu stāvvietu un glabāšanu speciālajā stāvvietā, sedz transportlīdzekļa reģistrācijas apliecībā norādītais turētājs vai, ja turētājs nav norādīts, - transportlīdzekļa īpašnieks (valdītājs) vai viņa pilnvarota persona. Izdevumus sedz pirms transportlīdzekļa izņemšanas no speciālās stāvvietas.
 (4) Transportlīdzekļu piespiedu pārvietošanas kārtību nosaka Ministru kabinets.
-(5) Uz velosipēdu un elektroskrejriteni, kā arī nereģistrētu transportlīdzekli nav attiecināms šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 8. punkts.
+(5) Uz velosipēdu un elektroskrejriteni nav attiecināms šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 8. punkts.
