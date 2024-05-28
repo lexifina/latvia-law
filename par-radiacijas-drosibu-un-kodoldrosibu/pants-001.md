@@ -19,7 +19,7 @@ Likumā ir lietoti šādi termini:
 8) radioaktīva viela - jebkura viela, kas satur vienu vai vairākus radionuklīdus, kuru kopējā radioaktivitāte vai īpatnējā radioaktivitāte (radioaktivitātes koncentrācija) jāņem vērā, lai aizsargātos pret jonizējošo starojumu;
 9) radioaktīvie atkritumi - radioaktīvi materiāli gāzveida, šķidrā vai cietā agregātstāvoklī, kurus neparedz vai neplāno turpmāk lietot;
 9¹) radioaktīvo atkritumu apglabāšanas objekts - objekts vai iekārta, kurā tiek apglabāti radioaktīvie atkritumi un kuras darbībai ir saņemta licence;
-9²) radioaktīvo atkritumu pārvaldība - visas darbības, kas saistītas ar radioaktīvo atkritumu pirmapstrādi, apstrādi, kondicionēšanu, glabāšanu vai apglabāšanu, izņemot transportēšanu ārpus operatora kontrolētās zonas;
+9²) radioaktīvo atkritumu pārvaldība - jebkuras darbības, kas tiek veiktas ar radioaktīvajiem atkritumiem, to pirmapstrādi, apstrādi, kondicionēšanu, glabāšanu vai apglabāšanu, izņemot transportēšanu ārpus operatora kontrolētās zonas;
 9³) radioaktīvo atkritumu pārvaldības objekts - objekts vai iekārta, kurā tiek veiktas darbības radioaktīvo atkritumu pārvaldībai un kuras darbībai ir saņemta licence;
 9⁴) radioaktīvs materiāls - materiāls, kas satur radioaktīvas vielas;
 9⁵) slēgts starojuma avots - radioaktīvs avots, kurā radioaktīvais materiāls atrodas pastāvīgi aizkausētā un hermētiski noslēgtā kapsulā vai ir cietā agregātstāvoklī un ir cieši saistīts, nepieļaujot radioaktīvo vielu izkliedēšanos vidē normālos lietošanas apstākļos;

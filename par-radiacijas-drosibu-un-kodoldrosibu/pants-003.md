@@ -1,10 +1,16 @@
 3.pants. Radiācijas drošības un kodoldrošības pamatprincipi
 (1) Darbības ar jonizējošā starojuma avotiem ir pieļaujamas, ja tiek ievēroti šādi pamatprincipi:
-1) cilvēki un vide drīkst saņemt tikai tādu jonizējošā starojuma dozu, kas nepārsniedz noteiktos dozu limitus;
-2) sasniegtais pozitīvais rezultāts pārsniedz negatīvo ietekmi vai zaudējumus, ko rada darbības ar jonizējošā starojuma avotiem;
-3) ņemot vērā ekonomiskos un sociālos faktorus, kā arī tehnisko līdzekļu iespējas, izraudzīti optimāli radiācijas drošības pasākumi, lai apstarošanas līmenis būtu saprātīgi zems un nepārsniegtu noteiktos dozu limitus;
-4) operators ir apdrošinājis civiltiesisko atbildību par savas darbības vai bezdarbības dēļ nodarītu kaitējumu trešās personas dzīvībai un veselībai vai tās mantai vai videi;
-5) darbības ar jonizējošā starojuma avotiem veic pēc darbību paziņošanas, reģistrācijas apliecības vai licences saņemšanas, izņemot normatīvajos aktos paredzētos gadījumus.
+1) atbildība par drošību - primāri atbildību par drošību uzņemas fiziskā vai juridiskā persona, kas ir atbildīga par darbībām ar jonizējošā starojuma avotiem. Darbības ar jonizējošā starojuma avotiem veic pēc šo darbību paziņošanas un reģistrācijas apliecības vai licences saņemšanas, izņemot normatīvajos aktos radiācijas drošības jomā paredzētos gadījumus;
+2) valsts atbildība - valsts izveido un uztur efektīvu tiesisko sistēmu radiācijas drošības un kodoldrošības jomā;
+3) drošības vadība un pārvaldība - attiecīgās institūcijas un organizācijas, kuras veic vai uzrauga darbības ar jonizējošā starojuma avotiem, kas rada radiācijas risku, šo darbību veikšanai izveido un uztur efektīvu drošības vadības un pārvaldības sistēmu;
+4) darbību ar jonizējošā starojuma avotiem pamatošana - sasniegtais pozitīvais rezultāts pārsniedz negatīvo ietekmi vai zaudējumus, ko rada darbības ar jonizējošā starojuma avotiem;
+5) aizsardzības pret jonizējošo starojumu optimizēšana - aizsardzība pret jonizējošo starojumu ir optimāla, ja ir nodrošināts augstākais drošības līmenis, ko var pamatoti sasniegt visā darbību ar jonizējošā starojuma avotiem veikšanas laikā;
+6) cilvēka drošības risku ierobežošana - radiācijas riska kontroles pasākumi nodrošina, lai cilvēks nebūtu pakļauts tādam iespējama kaitējuma riskam, kas neatbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu. Lai sasniegtu vēlamo drošības līmeni, optimizē aizsardzību pret jonizējošo starojumu un nodrošina, ka cilvēki un vide saņem tikai tādu jonizējošā starojuma dozu, kas nepārsniedz noteikto limitu;
+7) esošo un nākamo paaudžu aizsardzība - cilvēki un vide gan tagad, gan turpmāk ir pasargāti no radiācijas riskiem. Valsts un operatori savas darbības īsteno, rēķinoties ar radiācijas iespējamām īstermiņa un ilgtermiņa sekām;
+8) avāriju novēršana - tiek veikti visi pasākumi, kas nepieciešami, lai novērstu kodolavāriju vai radiācijas avāriju un mazinātu tās sekas;
+9) gatavība avārijām un rīcība avārijas gadījumā - tiek paredzēti pasākumi, kas nodrošina gatavību kodolavārijām vai radiācijas avārijām un reaģēšanai uz tām;
+10) aizsardzības pasākumi radiācijas risku samazināšanai - aizsardzības pasākumi ir pamatoti un optimizēti, lai samazinātu esošos vai neregulētos radiācijas riskus.
 (2) Aizliegts kodoliekārtu un radioaktīvo atkritumu apglabāšanas objektu vai radioaktīvo atkritumu pārvaldības objektu izvietot īpaši aizsargājamā dabas teritorijā, apdzīvotā vietā vai tiešā apdzīvotas vietas tuvumā.
-(3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar Ministru kabineta noteikumiem par aizsardzību pret jonizējošo starojumu.
+(3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu.
 (4) Preces ražotājs, importētājs un izplatītājs nodrošina, ka jonizējošā starojuma līmenis precē, kas tiek laista tirgū, piedāvāta vai pārdota, atbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu un nerada draudus cilvēka veselībai.
+(5) Lai nodrošinātu radiācijas drošības pasākumu īstenošanu ar radioaktīvo atkritumu apsaimniekošanu saistītu zināšanu un prasmju ieguvē, nostiprināšanā un attīstīšanā, atbilstoši Vides aizsardzības likuma 4. panta otrajai daļai izstrādātajām Vides politikas pamatnostādnēm tiek organizētas pētniecības un attīstības darbības, tai skaitā piesaistot augstskolas.
