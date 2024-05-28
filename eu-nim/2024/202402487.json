@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 2. maija likums \"Grozījumi likumā \"Par radiācijas drošību un kodoldrošību\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-14",
+  "entry_into_force": "2024-05-28",
+  "notification_date": "2024-06-05",
+  "commission_reference": "MNE(2024)02487",
+  "nim_celex": "72011L0070LVA_202402487",
+  "nim_id": "202402487",
+  "transposes_celex": [
+    "32011L0070"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c229c265-b855-428c-9f62-280967d87162",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
