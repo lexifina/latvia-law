@@ -10,7 +10,9 @@
 5) sakarā ar disciplinārlietā, administratīvo pārkāpumu lietā vai krimināllietā piemērotu sodu nav aizliegts ieņemt iestādes vadītāja amatu;
 6) rīcībspēju nav ierobežojusi tiesa;
 7) nav vai nav bijis PSRS, Latvijas PSR vai kādas ārvalsts valsts drošības dienesta, izlūkdienesta vai pretizlūkošanas dienesta štata darbinieks;
-8) nav vai nav bijis ar likumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieks.
+8) nav vai nav bijis ar likumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieks;
+9) normatīvajos aktos noteiktajam speciālās atļaujas pieejai valsts noslēpumam saņemšanai.
 (5) Pašvaldības izpilddirektora pilnvaru termiņu skaita no amatā iecelšanas dienas vai pilnvaru termiņa pagarināšanas dienas. Pašvaldības izpilddirektors pēc pilnvaru termiņa beigām turpina pildīt izpilddirektora pienākumus līdz jauna pašvaldības izpilddirektora iecelšanai, ja pašvaldībā nav izpilddirektora vietnieka un saskaņā ar šā likuma 17. panta trešās daļas 7. punktā noteikto nav iecelts cits izpilddirektora pienākumu izpildītājs.
 (6) Pašvaldības izpilddirektoram var būt viens vai vairāki vietnieki. Pašvaldības izpilddirektora vietnieku skaitu nosaka pašvaldības nolikumā. Pašvaldības izpilddirektora vietnieka iecelšanai amatā piemērojama šajā pantā noteiktā kārtība un prasības.
 (7) Pašvaldības izpilddirektors vai izpilddirektora vietnieks ir iecelts amatā vai atbrīvots no amata, ja par to nobalso vairāk nekā puse domes deputātu. Šāds domes balsojums nepieciešams arī tādēļ, lai pagarinātu pilnvaru termiņu šā panta otrajā daļā noteiktajā gadījumā. Darba līgumu ar pašvaldības izpilddirektoru vai izpilddirektora vietnieku slēdz domes priekšsēdētājs.
+(8) Pašvaldība normatīvajos aktos noteiktajā kārtībā nosūta pieprasījumu kompetentajai valsts drošības iestādei par speciālās atļaujas pieejai valsts noslēpumam piešķiršanu izpilddirektoram un izpilddirektora vietniekam ne vēlāk kā viena mēneša laikā pēc viņu iecelšanas amatā.
