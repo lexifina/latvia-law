@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 28. maija noteikumi Nr. 307 \"Akcīzes preču elektronisko administratīvo dokumentu aprites un kontroles kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "105",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-31",
+  "entry_into_force": "2024-06-01",
+  "notification_date": "2024-06-17",
+  "commission_reference": "MNE(2024)02632",
+  "nim_celex": "72020L0262LVA_202402632",
+  "nim_id": "202402632",
+  "transposes_celex": [
+    "32020L0262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f9d0367-ecbd-4320-a1a9-8b150f882151",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
