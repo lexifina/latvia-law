@@ -1,1 +1,1 @@
-67. Laika posmā no 2023. gada 1. jūlija līdz 2024. gada 30. jūnijam akcionāru sapulce lēmumu par šo pārejas noteikumu 66. punkta 1. apakšpunktā minētajiem statūtu grozījumiem ir tiesīga pieņemt ar akcionāru sapulcē klātesošo akcionāru vienkāršu balsu vairākumu.
+67. Laika posmā no 2023. gada 1. jūlija līdz 2024. gada 30. septembrim akcionāru sapulce lēmumu par šo pārejas noteikumu 66. punkta 1. apakšpunktā minētajiem statūtu grozījumiem ir tiesīga pieņemt ar akcionāru sapulcē klātesošo akcionāru vienkāršu balsu vairākumu.

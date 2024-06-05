@@ -1,1 +1,1 @@
-68. Līdz 2023. gada 30. jūnijam komercreģistrā reģistrēta akciju sabiedrība, kurai ir uzrādītāja akcijas, ne vēlāk kā līdz 2024. gada 30. jūnijam iesniedz komercreģistra iestādei šā likuma 236.³ panta piektajā daļā minētos paziņojumus.
+68. Līdz 2023. gada 30. jūnijam komercreģistrā reģistrēta akciju sabiedrība, kurai ir uzrādītāja akcijas, ne vēlāk kā līdz 2024. gada 30. septembrim iesniedz komercreģistra iestādei šā likuma 236.³ panta piektajā daļā minētos paziņojumus.
