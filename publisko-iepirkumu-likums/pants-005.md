@@ -20,4 +20,5 @@ Pasūtītājs nepiemēro šajā likumā noteiktās iepirkuma procedūras, ja iep
 18) Akadēmiskās informācijas centra vai Eiropas Augstākās izglītības kvalitātes nodrošināšanas reģistrā iekļautas kvalitātes nodrošināšanas aģentūras sniegtajiem pakalpojumiem studiju virziena novērtēšanas procesā;
 19) būvdarbiem, piegādēm vai pakalpojumiem daudzdzīvokļu dzīvojamo ēku energoefektivitātes paaugstināšanas programmas ietvaros, kuru administrē akciju sabiedrība "Attīstības finanšu institūcija Altum";
 20) ārvalstu ekspertu, publiskās pārvaldes ekspertu, tiesu un prokuratūras ekspertu sniegtiem mācību pakalpojumiem, kuri nodrošina Valsts administrācijas skolas un tādas publiskas personas, kas organizē tiesu un prokuratūras amatpersonu un darbinieku, izmeklētāju vai operatīvo darbinieku mācību nodrošināšanu, noteikto mērķu īstenošanu un kuriem tiek piemērots CPV kods 80500000-9;
-21) būves ekspertīzes pakalpojumu, kas pasūtīts, lai novērtētu publiskā būvdarbu līguma izpildei veikto būvdarbu atbilstību normatīvo aktu un pasūtītāja prasībām.
+21) būves ekspertīzes pakalpojumu, kas pasūtīts, lai novērtētu publiskā būvdarbu līguma izpildei veikto būvdarbu atbilstību normatīvo aktu un pasūtītāja prasībām;
+22) speciālistu un ekspertu pakalpojumiem saskaņā ar Starptautiskās palīdzības likumu īstenojamos attīstības sadarbības projektos.
