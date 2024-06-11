@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi likumā \"Par Eiropas Savienības pastāvīgā iedzīvotāja statusu Latvijas Republikā\"",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2024/102A.1",
+  "official_journal_page": null,
+  "official_journal_date": "2024-05-28",
+  "entry_into_force": "2024-06-11",
+  "notification_date": "2024-06-14",
+  "commission_reference": "MNE(2024)02596",
+  "nim_celex": "72021L1883LVA_202402596",
+  "nim_id": "202402596",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7d212709-e7fb-4570-91f6-e46a6eabec4b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
