@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada pavasara sesija",
+ "sede": 23,
+ "datums": "2024-06-20",
+ "ieraksts": {
+  "dkp_id": "aeca4b56-beb1-4e49-86c1-ad3a9ecaddb9",
+  "lastmodtime": "\"AAAAAAI/g7M=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Juris#Mārtiņš#Mārcis#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Viktors#Edmunds#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Igors#Dāvis Mārtiņš#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Gunārs#Igors#Edgars#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Jakovins#Daģis#Jencītis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Pučka#Zivtiņš#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Rajevs#Daugavietis#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Kūtris#Judins#Zelderis#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "################################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#ZZS#JV#LPV#ST!#ZZS#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#AS#ST!#LPV#JV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#NA#JV#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!# #JV#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS# #AS#AS#JV#ZZS#ZZS#ZZS#ST!# #PRO#ZZS#LPV#JV#AS#LPV#PRO# #JV#PRO#JV",
+  "RESULT": "Pret#Par#Pret#Pret#Nebalsoja#Pret#Pret#Atturas#Par#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Pret#Par#Atturas#Atturas#Pret#Atturas#Par#Pret#Pret#Atturas#Nebalsoja#Pret#Atturas#Atturas#Pret#Par#Atturas#Pret#Atturas#Par#Atturas#Atturas#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Atturas#Pret#Atturas#Atturas#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Par#Par#Atturas#Atturas#Nebalsoja#Par#Atturas#Atturas#Pret#Pret#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Pret#Nebalsoja#Pret#Atturas#Pret#Atturas#Par#Pret#Pret#Nebalsoja#Atturas#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.06.2024 15:36:27",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.2. Grozījumi Kredītiestāžu likumā (568/Lp14), 2.lasījums",
+  "VOTING_ID": "9ae1a7de-bf75-4b3a-8bd9-a290fd664410",
+  "VOTERESULT_ABSTAIN": "39",
+  "VOTERESULT_AGAINST": "24",
+  "VOTERESULT_FOR": "11",
+  "VOTERESULT_REGISTERED": "81",
+  "VOTE_NUMBER": "48",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada pavasara sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/de44e116-fb8c-4cf8-adc1-2516040387ae/download/14.saeimas-2024.gada-pavasara-sesija-23-vote.xml",
+  "sha256": "7e27da6e667f215b46940c821208e599309340780c542771013d9d9127011843",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
