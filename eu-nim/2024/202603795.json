@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 18. jūnija noteikumi Nr. 370 \"Grozījums Ministru kabineta 2009. gada 7. jūlija noteikumos Nr. 735 \"Kārtība, kādā personas tiek ievietotas un turētas pagaidu turēšanas vietās, un prasības šādu vietu aprīkošanai\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "118",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-19",
+  "entry_into_force": "2024-06-20",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03795",
+  "nim_celex": "72016L0800LVA_202603795",
+  "nim_id": "202603795",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f36c436c-3888-4869-b093-942fc071cdb1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
