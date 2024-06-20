@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada pavasara sesija",
+ "sede": 23,
+ "datums": "2024-06-20",
+ "ieraksts": {
+  "dkp_id": "c9da0554-4d08-4018-a4fb-01308409e796",
+  "lastmodtime": "\"AAAAAAI+qqA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Aleksejs#Andris#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Rihards#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Vilis#Atis#Aleksandrs#Jānis#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Rosļikovs#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Kols#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Krištopans#Švinka#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#################################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ST!#ZZS#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#NA#JV#JV#NA# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS# #PRO#ZZS#LPV#JV#AS#LPV#LPV#PRO# #JV#PRO#JV#AS",
+  "RESULT": "Pret#Par#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Pret#Atturas#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Pret#Par#Atturas#Atturas#Par#Atturas#Pret#Par#Pret#Pret#Par#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Par#Nebalsoja#Atturas#Par#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Pret#Par#Atturas#Atturas#Par#Par#Atturas#Atturas#Pret#Par#Atturas#Par#Par#Pret#Par#Par#Atturas#Par#Atturas#Atturas#Atturas#Par#Pret#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Pret#Pret#Atturas#Par#Atturas#Atturas#Atturas#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.06.2024 09:27:17",
+  "VOTEMOTIVE": "Par lēmuma projekta Par mangāna rūdas tranzīta un Krievijas armijas atbalstīšanas pārtraukšanu (533/Lm14) iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "131c8b7f-531a-4bec-9627-ede59b7590ee",
+  "VOTERESULT_ABSTAIN": "51",
+  "VOTERESULT_AGAINST": "18",
+  "VOTERESULT_FOR": "25",
+  "VOTERESULT_REGISTERED": "98",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada pavasara sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/de44e116-fb8c-4cf8-adc1-2516040387ae/download/14.saeimas-2024.gada-pavasara-sesija-23-vote.xml",
+  "sha256": "7e27da6e667f215b46940c821208e599309340780c542771013d9d9127011843",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
