@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Lielu uzņēmumu grupu globāla minimāla nodokļu līmeņa nodrošināšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "119",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-20",
+  "entry_into_force": "2024-06-21",
+  "notification_date": "2024-06-27",
+  "commission_reference": "MNE(2024)02868",
+  "nim_celex": "72022L2523LVA_202402868",
+  "nim_id": "202402868",
+  "transposes_celex": [
+    "32022L2523"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/932dc699-9e3b-4160-b3cf-79984f960622",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
