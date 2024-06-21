@@ -7,4 +7,4 @@
 - piešķir zemi lietošanā;
 - pārdod pašvaldības zemi fiziskajām un juridiskajām personām likumdošanas aktos noteiktajā kārtībā;
 - patur savā rīcībā zemi, kura izmantojama zemes reformas pabeigšanai atbilstoši šā likuma un likuma "Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās" prasībām.
-(5) Ja zemes un apbūves īpašnieki ir dažādi (likuma "Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un kārtību" 14. panta pirmā daļa), viņu savstarpējās attiecības regulējamas saskaņā ar šā likuma 12. pantu. Attiecībās, kuras minētais pants neregulē, piemērojami Civillikuma noteikumi.
+(5) Ja zemes un apbūves īpašnieki ir dažādi (likuma "Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un piemērošanas kārtību" 14. panta pirmā daļa), viņu savstarpējās attiecības regulējamas saskaņā ar šā likuma 12. pantu, Civillikumu un likumu "Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un piemērošanas kārtību".
