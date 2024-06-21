@@ -1,0 +1,3 @@
+19.⁷ pants. Lēmums par pagaidu noregulējumu
+(1) Ja digitālo pakalpojumu koordinatoram ir pamats uzskatīt, ka starpniecības pakalpojumu sniedzēja pakalpojuma saņēmējiem var būt nodarīts būtisks kaitējums un nepieciešams steidzami rīkoties, digitālo pakalpojumu koordinators, pamatojoties uz pārkāpuma pirmšķietamu konstatējumu, ir tiesīgs pieņemt šā likuma 19.⁴ panta trešās daļas 1. punktā minēto lēmumu kā pagaidu noregulējumu.
+(2) Lēmums par pagaidu noregulējumu ir spēkā no tā paziņošanas brīža līdz brīdim, kad šis lēmums ar digitālo pakalpojumu koordinatora lēmumu tiek atcelts vai grozīts vai kad stājas spēkā digitālo pakalpojumu koordinatora galīgais lēmums.

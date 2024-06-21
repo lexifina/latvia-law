@@ -1,1 +1,1 @@
-IV¹ nodaļa. Komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvības reģistrs
+IV¹ nodaļa. Komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvība

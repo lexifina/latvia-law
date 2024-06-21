@@ -1,3 +1,7 @@
-11.² pants. Ekonomikas ministrijas pienākumi
-(1) Ekonomikas ministrija izskata šā likuma 11.¹ panta pirmajā daļā minēto iesniegumu un, ja biedrība vai nodibinājums atbilst regulas Nr. 2019/1150 14. panta 3. punkta prasībām, ziņas par biedrību vai nodibinājumu ieraksta komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvības reģistrā (turpmāk - reģistrs).
-(2) Ekonomikas ministrija izveido un uztur reģistru. Reģistrā ieraksta ziņas par biedrībām vai nodibinājumiem, kuri var pārstāvēt komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju intereses. Regulas Nr. 2019/1150 14. panta 5. punktā noteikto informāciju par reģistrā esošajām biedrībām un nodibinājumiem Ekonomikas ministrija sniedz Eiropas Komisijai.
+11.² pants. Patērētāju tiesību aizsardzības centra pienākumi
+(1) Patērētāju tiesību aizsardzības centrs izskata šā likuma 11.¹ panta pirmajā un otrajā daļā minētos dokumentus un informē biedrību vai nodibinājumu par vienu no šādiem pieņemtajiem lēmumiem:
+1) piešķirt biedrībai vai nodibinājumam tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā;
+2) atteikties piešķirt biedrībai vai nodibinājumam tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā;
+3) izbeigt biedrības vai nodibinājuma tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā.
+(2) Patērētāju tiesību aizsardzības centrs informē Eiropas Komisiju par šā panta pirmās daļas 1. un 3. punktā pieņemto lēmumu.
+(3) Šā panta pirmajā daļā minētos lēmumus var pārsūdzēt administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā.
