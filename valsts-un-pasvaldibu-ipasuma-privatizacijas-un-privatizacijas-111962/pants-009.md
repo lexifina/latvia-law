@@ -16,4 +16,4 @@
 (4) (Izslēgta ar 29.01.2015. likumu)
 (5) Ne vēlāk kā divu nedēļu laikā pēc tam, kad persona, kurai ir pirmpirkuma tiesības, ir apliecinājusi vēlmi privatizēt zemesgabalu, privatizāciju veicošā institūcija piedāvā personai, kurai ir pirmpirkuma tiesības, noslēgt zemesgabala pirkuma līgumu, ierakstītā vēstulē nosūtot šai personai līguma projektu vai nododot to pret parakstu.
 (6) Persona, kurai ir pirmpirkuma tiesības, atbildi dod mēneša laikā pēc pirkuma līguma projekta saņemšanas.
-(7) Ja persona savas pirmpirkuma tiesības uz apbūvētu zemesgabalu nevar izmantot vai neizmanto, tai ir zemes nomas tiesības uz to pašu zemesgabalu, uz kuru tai ir pirmpirkuma tiesības, un šis zemesgabals netiek privatizēts vai atsavināts citām personām. Ministru kabinets nosaka kārtību, kādā aprēķināma apbūvēta zemesgabala nomas maksa. Nosakot zemesgabala nomas maksu, par pamatu ņem zemesgabala kadastrālo vērtību.
+(7) Ja persona savas pirmpirkuma tiesības uz apbūvētu zemesgabalu nevar izmantot vai neizmanto, tai ir zemes likumiskās lietošanas tiesības uz to pašu zemesgabalu, uz kuru tai ir pirmpirkuma tiesības, un šis zemesgabals netiek privatizēts vai atsavināts citām personām.
