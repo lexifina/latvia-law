@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2523 par globāla minimāla nodokļu līmeņa nodrošināšanu starptautisku uzņēmumu grupām un lielām vietējām grupām Savienībā.
