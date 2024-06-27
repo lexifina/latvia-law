@@ -1,4 +1,0 @@
-46. Ministru kabinets līdz 2024. gada 31. janvārim, balstoties uz šo pārejas noteikumu 45. punktā norādīto risinājumu, iesniedz Saeimai likumprojektu, kas saistībā ar kadastrālo vērtību bāzes izmaiņām paredz samērīgu nekustamā īpašuma nodokli un kas stājas spēkā vienlaikus ar kadastrālo vērtību bāzi, kura tiks izmantota kadastrālās vērtības aprēķinam 2025. gada 1. janvārī, nosakot:
-1) samērīgu nekustamā īpašuma nodokļa slogu dzīvokļu īpašumiem un dzīvojamām mājām (ja tos neizmanto saimnieciskās darbības veikšanai), samazinot nekustamā īpašuma nodokļa likmi;
-2) samērīgu nekustamā īpašuma nodokļa slogu pārējām, šā punkta 1. apakšpunktā neminētajām ēkām, to daļām, telpu grupām un inženierbūvēm, samazinot nekustamā īpašuma nodokļa likmi;
-3) samērīgu nekustamā īpašuma nodokļa slogu zemei (tai skaitā arī lauksaimniecībā izmantojamai zemei), samazinot nekustamā īpašuma nodokļa likmi.

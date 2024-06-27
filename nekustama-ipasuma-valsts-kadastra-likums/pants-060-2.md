@@ -1,8 +1,7 @@
-60.² pants. (1) Iesniegums Valsts zemes dienestam par kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju vienlaikus ir uzskatāms par nostiprinājuma lūgumu zemesgrāmatai, ja īpašnieks (kopīpašuma gadījumā visi kopīpašnieki) ierosina:
+60.² pants. (1) Iesniegums Valsts zemes dienestam par kadastra objekta vai kadastra datu reģistrāciju vai aktualizāciju vienlaikus ir uzskatāms par nostiprinājuma lūgumu zemesgrāmatai, ja īpašnieks ierosina:
 1) Kadastra informācijas sistēmā reģistrētu un zemesgrāmatā ierakstītu zemes vienību sadali vai apvienošanu viena nekustamā īpašuma sastāvā;
-2) ekspluatācijā nodotas inženierbūves reģistrāciju uz iesniegto izpildmērījumu datu pamata esoša nekustamā īpašuma sastāvā;
-3) atbilstoši būvniecības jomu regulējošos normatīvajos aktos noteiktajam iedalījumam pirmās grupas ēkas reģistrāciju uz iesniegtas deklarācijas pamata esoša nekustamā īpašuma sastāvā;
-4) būves dzēšanu, pamatojoties uz būvniecības jomu regulējošos normatīvajos aktos noteiktās institūcijas izdotu dokumentu, kas apliecina būves neesību, ja būve nav vienīgais zemesgrāmatā ierakstītais nekustamā īpašuma objekts.
+2) ekspluatācijā pieņemtas inženierbūves reģistrāciju uz iesniegto izpildmērījumu datu pamata esoša nekustamā īpašuma sastāvā;
+3) būvniecības jomu regulējošos normatīvajos aktos noteiktas ekspluatācijā pieņemtas pirmās grupas ēkas reģistrāciju uz iesniegto izpildmērījumu datu pamata esoša nekustamā īpašuma sastāvā.
 (2) Šā panta pirmajā daļā minētajos gadījumos iesniegumu adresē Valsts zemes dienestam un rajona (pilsētas) tiesai un iesniedz Valsts zemes dienestam, bet šā panta pirmās daļas 1. punktā minētajā gadījumā - zemes kadastrālajam uzmērītājam. Iesniegumu iesniedz elektroniskā formā, parakstītu ar drošu elektronisko parakstu, vai personiski, uzrādot personu apliecinošu dokumentu, un par to uz iesnieguma izdara atbilstošu apliecinājumu. Iesniegumam pievieno informāciju par kancelejas nodevas samaksu rajona (pilsētas) tiesai.
 (3) Ja iesniegumu iesniedz pilnvarota persona, iesniegumam pievieno pilnvaru atbilstoši Zemesgrāmatu likumā noteiktajām prasībām.
 (4) Valsts zemes dienests kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju uzsāk pēc kancelejas nodevas samaksas rajona (pilsētas) tiesai.

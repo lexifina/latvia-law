@@ -1,0 +1,1 @@
+53. Ministru kabinets līdz 2024. gada 1. oktobrim nosaka kārtību, kādā fiskālās kadastrālās vērtības aprēķinā piemēro Kadastra informācijas sistēmā reģistrētos nekustamā īpašuma objekta apgrūtinājumus.

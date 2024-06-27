@@ -1,1 +1,1 @@
-28.pants. Nekustamā īpašuma objekta apgrūtinājumu klasifikatoru nosaka Ministru kabinets.
+28.pants. Nekustamā īpašuma objekta apgrūtinājumu klasificēšanu nosaka Ministru kabinets.

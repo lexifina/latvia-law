@@ -1,5 +1,9 @@
-66.pants. (1) Kadastrālā vērtēšana ir saskaņā ar normatīvo aktu principiem īstenotu darbību kopums, lai noteiktu kadastra objektu vērtību, kas izmantojama normatīvajos aktos noteiktajām vajadzībām.
-(2) Kadastrālās vērtēšanas process ietver:
-1) kadastrālo vērtību bāzes izstrādi;
-2) kadastrālās vērtības aprēķinu.
+66.pants. (1) Kadastrālā vērtēšana ir masveida vērtēšanas process, kas ietver kadastrālo vērtību bāzes noteikšanu Kadastra informācijas sistēmā reģistrētiem nekustamajiem īpašumiem atbilstoši to grupu ekonomisko labumu ietekmējošām atšķirībām un automatizētu kadastrālo vērtību aprēķinu novērtēšanas datumā visiem kadastra objektiem, nodrošinot šā vērtēšanas procesa efektivitāti un noteikto kadastrālo vērtību objektivitāti, savstarpējo samērīgumu un taisnīgumu.
+(2) Kadastrālajā vērtēšanā ir ievērojami šādi pamatprincipi:
+1) savstarpējās salīdzināmības princips, saskaņā ar kuru savstarpēji salīdzināmas kadastrālās vērtības tiek noteiktas visiem kadastra objektiem, nodrošinot, ka nekustamā īpašuma tirgū novērotiem savstarpēji līdzīgiem objektiem atbilstoši to galvenajiem vērtību ietekmējošiem rādītājiem kadastrālās vērtības ir līdzīgas, bet objektiem, kas reti nonāk brīvā tirgū vai tajā nenonāk, - atbilstoši nekustamā īpašuma grupas ekonomiskajam labumam;
+2) objektīva grupējuma princips, saskaņā ar kuru masveida vērtēšanā nekustamie īpašumi tiek grupēti atbilstoši galvenajiem vērtību ietekmējošiem rādītājiem, kas ir būtiski nekustamā īpašuma tirgū attiecīgajai īpašumu grupai, tai skaitā arī par kadastra objektiem, kas reti nonāk brīvā tirgū vai tajā nenonāk;
+3) efektivitātes princips, saskaņā ar kuru masveida vērtēšanas izdevumi tiek sabalansēti ar iegūstamā rezultāta atbilstību nekustamā īpašuma nodokļa administrēšanas, nodevu un citu ar normatīvajiem aktiem noteikto maksājumu vajadzībām, izvērtējot arī aktuālu datu ieguves izmaksas salīdzinājumā ar iegūstamo masveida vērtēšanas rezultāta atbilstību;
+4) publiskuma princips, saskaņā ar kuru kadastrālā vērtība, tās aprēķinā izmantotie dati, kadastrālo vērtību bāzes izstrādē izmantotā informācija, tai skaitā izmantotā nekustamā īpašuma tirgus informācija, ir publiski pieejama;
+5) regularitātes princips, saskaņā ar kuru kadastrālo vērtību bāze, kadastrālās vērtības aprēķina modeļi, kadastrālās vērtības un datu ieguves avoti tiek periodiski pārskatīti;
+6) vienota īpašuma novērtēšanas princips, saskaņā ar kuru nekustamo īpašumu veidojošie objekti tiek novērtēti kā vienots nekustamais īpašums.
 (3) Kadastrālo vērtēšanu veic Valsts zemes dienests. Kadastrālās vērtēšanas kārtību nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+43.² Ministru kabinets 2024. gadā apstiprina kadastrālo vērtību bāzi universālās kadastrālās vērtības aprēķinam, nepārsniedzot 80 procentus no vidējā nekustamo īpašumu cenu līmeņa 2022. gada 1. jūlijā un izmantojot informāciju par nekustamā īpašuma tirgus darījumiem no 2012. gada 1. janvāra līdz 2022. gada 1. jūlijam.

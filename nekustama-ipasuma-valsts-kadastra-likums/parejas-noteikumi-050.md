@@ -1,0 +1,1 @@
+50. Ministru kabinets līdz 2027. gada 15. jūnijam pilnveido kadastrālo vērtēšanu regulējošus normatīvos aktus un apstiprina jaunu kadastrālo vērtību bāzi, kuru kadastrālās vērtības aprēķinam sāk piemērot atbilstoši šā likuma 68. panta otrajai daļai (ja bāzi apstiprina līdz attiecīgā gada 15. jūnijam, tad to kadastrālās vērtības aprēķinam piemēro no aiznākamā gada 1. janvāra).

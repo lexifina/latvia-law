@@ -1,0 +1,1 @@
+52. Šā likuma grozījums par 22. panta 4. punkta izslēgšanu, grozījums par 26. panta pirmās daļas izteikšanu jaunā redakcijā un grozījums par 44. panta pirmās daļas izteikšanu jaunā redakcijā stājas spēkā 2025. gada 1. februārī.

@@ -1,0 +1,1 @@
+43.³ Valsts zemes dienests fiskālās kadastrālās vērtības aprēķina un aktualizē atbilstoši 2024. gadā spēkā esošajai kadastrālo vērtību bāzei un kadastrālo vērtēšanu regulējošiem normatīvajiem aktiem, kas ir piemērojami 2024. gada 31. decembrī.

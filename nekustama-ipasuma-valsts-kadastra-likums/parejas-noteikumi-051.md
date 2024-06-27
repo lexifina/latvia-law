@@ -1,0 +1,1 @@
+51. Šā likuma 69. panta trešo daļu sāk piemērot kadastrālajā vērtēšanā, izstrādājot kadastrālo vērtību bāzi pēc šo pārejas noteikumu 50. punktā noteiktās kadastrālo vērtību bāzes apstiprināšanas. Ministru kabinets šo pārejas noteikumu 50. punktā noteiktās kadastrālo vērtību bāzes izstrādei var noteikt atšķirīgu izmantojamo nekustamā īpašuma tirgus darījumu periodu.
