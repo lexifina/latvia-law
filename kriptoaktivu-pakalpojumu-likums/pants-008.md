@@ -1,0 +1,21 @@
+8. pants. Sankcijas un administratīvie pasākumi
+(1) Latvijas Banka ir tiesīga piemērot likuma subjektam vai par pārkāpumu atbildīgajai personai šādas sankcijas:
+1) brīdinājumu - par šā likuma 7. pantā minētajiem pārkāpumiem;
+2) soda naudu fiziskajai personai:
+a) līdz 700 000 euro vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram - par šā likuma 7. panta 1., 2., 3. vai 4. punktā minētajiem pārkāpumiem,
+b) līdz 1 000 000 euro vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu trīskāršam apmēram - par šā likuma 7. panta 5. punktā minēto pārkāpumu,
+c) līdz 5 000 000 euro vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu trīskāršam apmēram - par šā likuma 7. panta 6., 7., 8. vai 9. punktā minētajiem pārkāpumiem;
+3) soda naudu juridiskajai personai:
+a) līdz 5 000 000 euro vai trim procentiem no iepriekšējā pārskata gada kopējā apgrozījuma saskaņā ar iepriekšējo apstiprināto gada pārskatu vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram - par šā likuma 7. panta 1. punktā minētajiem pārkāpumiem,
+b) līdz 5 000 000 euro vai pieciem procentiem no iepriekšējā pārskata gada kopējā apgrozījuma saskaņā ar iepriekšējo apstiprināto gada pārskatu vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram - par šā likuma 7. panta 4. punktā minētajiem pārkāpumiem,
+c) līdz 5 000 000 euro vai 12,5 procentiem no iepriekšējā pārskata gada kopējā apgrozījuma saskaņā ar iepriekšējo apstiprināto gada pārskatu vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram - par šā likuma 7. panta 2. vai 3. punktā minētajiem pārkāpumiem,
+d) līdz 2 500 000 euro vai līdz diviem procentiem no iepriekšējā pārskata gada kopējā apgrozījuma saskaņā ar iepriekšējo apstiprināto gada pārskatu - par šā likuma 7. panta 5. punktā minēto pārkāpumu,
+e) līdz 15 000 000 euro vai līdz 15 procentiem no iepriekšējā pārskata gada kopējā apgrozījuma saskaņā ar iepriekšējo apstiprināto gada pārskatu vai līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu trīskāršam apmēram - par šā likuma 7. panta 6., 7., 8. vai 9. punktā minētajiem pārkāpumiem;
+4) aizliegt uz 10 gadiem kriptoaktīvu pakalpojumu sniedzēja valdes vai padomes loceklim vai citai par pārkāpumu atbildīgai fiziskajai personai ieņemt amatu kriptoaktīvu pakalpojumu sniedzēja vadības struktūrā - par atkārtotiem šā likuma 7. panta 6., 7., 8. vai 9. punktā minētajiem pārkāpumiem;
+5) anulēt likuma subjektam izsniegto atļauju emitēt, publiski piedāvāt vai pielaist tirdzniecībai kriptoaktīvus (tai skaitā aktīviem piesaistītus žetonus un elektroniskās naudas žetonus) vai sniegt kriptoaktīvu pakalpojumus.
+(2) Ja likuma subjekts, kuram piemērojama šā panta pirmās daļas 3. punktā minētā sankcija, ir mātes sabiedrības meitas sabiedrība vai šīs meitas sabiedrības filiāle, kas sagatavo konsolidēto finanšu pārskatu saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu, attiecīgais kopējais gada apgrozījums ir kopējais gada apgrozījums vai tam atbilstošs ieņēmumu veids saskaņā ar attiecīgajiem Eiropas Savienības tiesību aktiem grāmatvedības jomā, ņemot vērā jaunāko pieejamo galvenās mātes sabiedrības konsolidēto finanšu pārskatu.
+(3) Latvijas Banka ir tiesīga piemērot šādus administratīvos pasākumus:
+1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona izbeidz attiecīgo rīcību, - par šā likuma 7. pantā minētajiem pārkāpumiem;
+2) noteikt kriptoaktīvu pakalpojumu sniedzēja valdes vai padomes loceklim vai citai par pārkāpumu atbildīgai fiziskajai personai pagaidu aizliegumu līdz galīgā nolēmuma spēkā stāšanās brīdim, bet ne ilgāk kā divus gadus ieņemt kriptoaktīvu pakalpojumu sniedzēja valdes vai padomes locekļa amatu - par šā likuma 7. panta 4., 5., 6., 7., 8. vai 9. punktā minētajiem pārkāpumiem;
+3) noteikt kriptoaktīvu pakalpojumu sniedzēja valdes vai padomes loceklim vai citai par pārkāpumu atbildīgai fiziskajai personai pagaidu aizliegumu līdz galīgā nolēmuma spēkā stāšanās brīdim, bet ne ilgāk kā divus gadus veikt darījumus savā vārdā - par šā likuma 7. panta 5., 6., 7., 8. vai 9. punktā minētajiem pārkāpumiem.
+(4) Latvijas Banka ir tiesīga piemērot administratīvos pasākumus atsevišķi vai papildus sankcijām.

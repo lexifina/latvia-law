@@ -1,0 +1,1 @@
+3. Valsts ieņēmumu dienests pēc Latvijas Bankas pieprasījuma nodod tā rīcībā esošo uzraudzības funkcijas īstenošanas rezultātā iegūto informāciju par tiem kriptoaktīvu pakalpojumu sniedzējiem, kuri līdz 2025. gada 30. jūnijam iesnieguši Latvijas Bankai pieteikumu, lai saņemtu atļauju sniegt kriptoaktīvu pakalpojumus saskaņā ar regulas Nr. 2023/1114 prasībām.
