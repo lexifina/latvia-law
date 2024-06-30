@@ -1,10 +1,15 @@
 Administratīvā teritorija un tās administratīvais centrsAdministratīvajā teritorijā ietilpstošās teritoriālā iedalījuma vienības
 1. (Izslēgts ar 09.12.2021. likumu)
+1.¹ Daugavpils valstspilsētas pašvaldība
+1.² Jelgavas valstspilsētas pašvaldība
 2. (Izslēgts ar 09.12.2021. likumu)
 3. Jūrmalas valstspilsētas pašvaldība
+3.¹ Liepājas valstspilsētas pašvaldība
+3.² Rēzeknes valstspilsētas pašvaldība
 4. (Izslēgts ar 09.12.2021. likumu)
 5. (Izslēgts ar 09.12.2021. likumu)
 6. Rīgas valstspilsētas pašvaldība
+6.¹ Ventspils valstspilsētas pašvaldība
 7. (Izslēgts ar 09.12.2021. likumu)
 8. Aizkraukles novads (Aizkraukle)8.1. Aiviekstes pagasts
 8.2. Aizkraukles pagasts
@@ -17,7 +22,6 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 8.9. Klintaines pagasts
 8.10. Kokneses pagasts
 8.11. Kokneses pilsēta
-(apakšpunkts stājas spēkā 01.07.2021. Sk. Pārejas noteikumu 26. punktu)
 8.12. Mazzalves pagasts
 8.13. Neretas pagasts
 8.14. Pilskalnes pagasts
@@ -48,7 +52,6 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 10. (Izslēgts ar 09.12.2021. likumu)
 11. Ādažu novads (Ādaži)11.1. Ādažu pagasts
 11.2. Ādažu pilsēta
-(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
 11.3. Carnikavas pagasts
 12. Balvu novads (Balvi)12.1. Baltinavas pagasts
 12.2. Balvu pagasts
@@ -80,7 +83,6 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 13.7. Gailīšu pagasts
 13.8. Iecavas pagasts
 13.9. Iecavas pilsēta
-(apakšpunkts stājas spēkā 01.07.2021. Sk. Pārejas noteikumu 26. punktu)
 13.10. Īslīces pagasts
 13.11. Kurmenes pagasts
 13.12. Mežotnes pagasts
@@ -115,10 +117,10 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 14.21. Veselavas pagasts
 14.22. Zaubes pagasts
 14.23. Zosēnu pagasts
-14.¹ Daugavpils novads (Daugavpils)14.¹1. Ambeļu pagasts
+14.¹ Augšdaugavas novads (Daugavpils)14.¹1. Ambeļu pagasts
 14.¹2. Bebrenes pagasts
 14.¹3. Biķernieku pagasts
-14.¹4. Daugavpils valstspilsēta
+14.¹4. (izslēgts ar 13.06.2024. likumu)
 14.¹5. Demenes pagasts
 14.¹6. Dubnas pagasts
 14.¹7. Dvietes pagasts
@@ -183,7 +185,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 18.2. Elejas pagasts
 18.3. Glūdas pagasts
 18.4. Jaunsvirlaukas pagasts
-18.5. Jelgavas valstspilsēta
+18.5. (izslēgts ar 13.06.2024. likumu)
 18.6. Kalnciema pagasts
 18.7. Lielplatones pagasts
 18.8. Līvbērzes pagasts
@@ -273,8 +275,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 22.4. Daugmales pagasts
 22.5. Ķekavas pagasts
 22.6. Ķekavas pilsēta
-(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
-22.¹ Liepājas novads (Liepāja)22.¹1. Aizputes pagasts
+22.¹ Dienvidkurzemes novads (Grobiņa)22.¹1. Aizputes pagasts
 22.¹2. Aizputes pilsēta
 22.¹3. Bārtas pagasts
 22.¹4. Bunkas pagasts
@@ -292,7 +293,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 22.¹16. Kalvenes pagasts
 22.¹17. Kazdangas pagasts
 22.¹18. Lažas pagasts
-22.¹19. Liepājas valstspilsēta
+22.¹19. (izslēgts ar 13.06.2024. likumu)
 22.¹20. Medzes pagasts
 22.¹21. Nīcas pagasts
 22.¹22. Otaņķu pagasts
@@ -373,15 +374,17 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 26.15. Madonas pilsēta
 26.16. Mārcienas pagasts
 26.17. Mētrienas pagasts
-26.18. Ošupes pagasts
-26.19. Praulienas pagasts
-26.20. Sarkaņu pagasts
-26.21. Sausnējas pagasts
-26.22. Vestienas pagasts
+26.18. Murmastienes pagasts
+26.19. Ošupes pagasts
+26.20. Praulienas pagasts
+26.21. Sarkaņu pagasts
+26.22. Sausnējas pagasts
+26.23. Varakļānu pagasts
+26.24. Varakļānu pilsēta
+26.25. Vestienas pagasts
 27. Mārupes novads (Mārupe)27.1. Babītes pagasts
 27.2. Mārupes pagasts
 27.3. Mārupes pilsēta
-(apakšpunkts stājas spēkā 01.07.2022. Sk. Pārejas noteikumu 26. punktu)
 27.4. Salas pagasts
 28. Ogres novads (Ogre)28.1. Birzgales pagasts
 28.2. Ikšķiles pilsēta
@@ -440,7 +443,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 31.18. Ozolaines pagasts
 31.19. Ozolmuižas pagasts
 31.20. Pušas pagasts
-31.21. Rēzeknes valstspilsēta
+31.21. (izslēgts ar 13.06.2024. likumu)
 31.22. Rikavas pagasts
 31.23. Sakstagala pagasts
 31.24. Silmalas pagasts
@@ -599,9 +602,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 42.9. Usmas pagasts
 42.10.Užavas pagasts
 42.11.Vārves pagasts
-42.12. Ventspils valstspilsēta
+42.12. (izslēgts ar 13.06.2024. likumu)
 42.13. Ziru pagasts
 42.14. Zlēku pagasts
-43. Varakļānu novads (Varakļāni)43.1. Murmastienes pagasts
-43.2. Varakļānu pagasts
-43.3. Varakļānu pilsēta
+43. (Izslēgts ar 13.06.2024. likumu)
