@@ -18,7 +18,9 @@ k) konsultācijas klientiem finansiāla rakstura jautājumos;
 l) (izslēgts ar 20.11.2003. likumu);
 m) tādas informācijas sniegšana, kas saistīta ar klienta parādu saistību kārtošanu;
 n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finanšu pakalpojumiem;
-o) elektroniskās naudas emisija;
+o) elektroniskās naudas, tajā skaitā elektroniskās naudas žetonu, emisija;
+p) aktīviem piesaistīto žetonu emisija;
+r) (apakšpunkts stājas spēkā 30.12.2024. un iekļauts likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 118. punktu).
 5) kredīts - atlīdzības darījums, kurā kredītiestāde uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot kredītiestādei naudu vai citas lietas;
 6) noguldījums - naudas līdzekļu glabāšana kredītiestādes kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
 7) (izslēgts ar 24.04.2014. likumu);
@@ -131,3 +133,4 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 6) uzraudzības institūcija - terminam "kompetentā iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 40.apakšpunkta izpratnē;
 7) konsolidētās uzraudzības institūcija - terminam "konsolidētās uzraudzības iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 41.apakšpunkta izpratnē.
 (4) Likumā lietotais termins "jaukta finanšu pārvaldītājsabiedrība" atbilst Finanšu konglomerātu likumā lietotajam terminam, bet termins "izslēdzošais ieskaits" -- Kvalificētajiem finanšu darījumiem piemērojamā izslēdzošā ieskaita likumā lietotajam terminam.
+(5) Likumā lietotie termini "aktīviem piesaistīts žetons", "elektroniskās naudas žetons" un "kriptoaktīvu pakalpojums" atbilst Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 1. punkta 6., 7. un 16. apakšpunktā lietotajiem terminiem.
