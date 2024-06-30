@@ -1,0 +1,1 @@
+42. Ministru kabinets līdz 2024. gada 29. oktobrim izstrādā un apstiprina Garkalnes un Ādažu pagastu robežu grozījumus, paredzot Garkalnes pagasta daļas atdalīšanu un pievienošanu Ādažu pagasta administratīvajai teritorijai.

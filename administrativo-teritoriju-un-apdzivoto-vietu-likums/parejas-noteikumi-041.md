@@ -1,1 +1,0 @@
-41. Līdz 2029. gada pašvaldību vēlēšanās ievēlētās novada domes pirmajai sēdei Daugavpils, Jelgavas, Liepājas, Rēzeknes un Ventspils valstspilsētu pašvaldības, kā arī Augšdaugavas, Dienvidkurzemes, Jelgavas, Rēzeknes un Ventspils novadu pašvaldības turpina pildīt savas funkcijas administratīvajās teritorijās, kādas tās bija līdz 2021. gada 31. decembrim.

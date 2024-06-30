@@ -1,0 +1,1 @@
+33.⁸ 2025. gada pašvaldību vēlēšanās ievēlētā Madonas novada dome izvērtē novadu veidojošo bijušo pašvaldību pieņemtos saistošos noteikumus un pieņem jaunus novada saistošos noteikumus. Līdz novada saistošo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2025. gada 31. decembrim ir spēkā novadu veidojošo bijušo pašvaldību saistošie noteikumi.

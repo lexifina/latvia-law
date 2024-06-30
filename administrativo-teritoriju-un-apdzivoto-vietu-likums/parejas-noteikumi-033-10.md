@@ -1,0 +1,1 @@
+33.¹⁰ Centrālā statistikas pārvalde līdz 2025. gada 31. decembrim nodrošina oficiālo statistiku par Varakļānu novada un Madonas novada pašvaldību administratīvajām teritorijām, kādas tās bija līdz 2024. gada 30. jūnijam. Sākot ar 2026. gada 1. janvāri, Centrālā statistikas pārvalde nodrošina oficiālo statistiku par Madonas novadu atbilstoši šā likuma pielikumam.

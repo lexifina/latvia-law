@@ -1,0 +1,1 @@
+33.⁹ 2025. gada pašvaldību vēlēšanās ievēlētā Madonas novada dome nodrošina Varakļānu novada domes apstiprinātā sadarbības teritorijas civilās aizsardzības plāna izpildi līdz jauna sadarbības teritorijas civilās aizsardzības plāna apstiprināšanai. Jauno sadarbības teritorijas civilās aizsardzības plānu Madonas novada dome apstiprina ne vēlāk kā līdz 2025. gada 29. decembrim.

@@ -1,1 +1,0 @@
-33. Centrālā vēlēšanu komisija 2025. gada pašvaldību domju vēlēšanas izsludina administratīvajās teritorijās, kādas šā likuma pielikumā bija noteiktas 2021. gada 31. decembrī. Centrālā vēlēšanu komisija 2029. gada pašvaldību domju vēlēšanas izsludina šā likuma pielikumā noteiktajās administratīvajās teritorijās.

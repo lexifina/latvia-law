@@ -1,0 +1,1 @@
+33.⁶ Līdz 2025. gada pašvaldību vēlēšanās ievēlētās domes pirmajai sēdei Varakļānu novada un Madonas novada pašvaldības turpina pildīt savas funkcijas administratīvajās teritorijās, kādas tās bija līdz 2024. gada 30. jūnijam.
