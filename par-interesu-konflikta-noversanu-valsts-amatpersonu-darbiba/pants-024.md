@@ -1,6 +1,6 @@
 24.pants. Deklarācijā norādāmā informācija
 (1) Deklarācijā valsts amatpersona norāda:
-1) savu vārdu, uzvārdu, personas kodu un dzīvesvietu, kā arī sava laulātā, vecāku, brāļu, māsu, pusbrāļu, pusmāsu un bērnu vārdu, uzvārdu un radniecību;
+1) savu vārdu, uzvārdu, personas kodu un dzīvesvietu, kā arī sava laulātā, vecāku, brāļu, māsu, pusbrāļu, pusmāsu un bērnu vārdu, uzvārdu un radniecību, partnera vārdu un uzvārdu;
 2) savu valsts amatpersonas amatu;
 3) informāciju par citiem amatiem, ko tā ieņem papildus valsts amatpersonas amatam, radošo darbu, profesionālo darbību, saimniecisko darbību (izņemot to, kuru atbilstoši iedzīvotāju ienākuma nodokli reglamentējošiem normatīvajiem aktiem ir tiesības nereģistrēt Valsts ieņēmumu dienestā saimnieciskās darbības veicēja statusā), kā arī par uzņēmuma līgumiem vai pilnvarojumiem, kurus tā veic vai kuros noteiktās saistības pilda;
 4) informāciju par tās īpašumā, valdījumā, lietošanā esošajiem nekustamajiem īpašumiem (arī par īpašumiem, kuros tā faktiski dzīvo un kurus tā īrē, nomā vai patapina no citām personām), arī tādiem, kuri ir tās valdījumā sakarā ar nodibināto aizbildnību vai aizgādnību;

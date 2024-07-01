@@ -5,7 +5,7 @@ Likumā ir lietoti šādi termini:
 3) pilnvarojums - tiesību kopums, ko cita persona piešķīrusi valsts amatpersonai, lai tā rīkotos pilnvarotāja vārdā un interesēs;
 4) darījumu partneri - fiziskā vai juridiskā persona vai uz līguma pamata izveidota fizisko un juridisko personu apvienība, kas saskaņā ar šā likuma noteikumiem ir deklarējamās darījumu attiecībās ar valsts amatpersonu;
 5) interešu konflikts - situācija, kurā valsts amatpersonai, pildot valsts amatpersonas amata pienākumus, jāpieņem lēmums vai jāpiedalās lēmuma pieņemšanā, vai jāveic citas ar valsts amatpersonas amatu saistītas darbības, kas ietekmē vai var ietekmēt šīs valsts amatpersonas, tās radinieku vai darījumu partneru personiskās vai mantiskās intereses;
-6) radinieks - tēvs, māte, vecāmāte, vecaistēvs, bērns (arī adoptētais), mazbērns, brālis, māsa, pusbrālis, pusmāsa, laulātais. Par tēvu un māti šā likuma izpratnē uzskatāms arī adoptētājs;
+6) radinieks - tēvs, māte, vecāmāte, vecaistēvs, bērns (arī adoptētais), mazbērns, brālis, māsa, pusbrālis, pusmāsa, laulātais. Par tēvu un māti šā likuma izpratnē uzskatāms arī adoptētājs. Par radinieku šā likuma izpratnē uzskatāma arī persona, par kuru ar valsts amatpersonu Fizisko personu reģistrā ir iekļautas Fizisko personu reģistra likuma 11. panta pirmās daļas 36. punktā noteiktās ziņas (turpmāk - partneris);
 7) radošais darbs - publicistiska, literāra vai mākslinieciska darbība, par kuru saņem autoratlīdzību vai honorāru;
 8) publiskas personas institūcija:
 a) publiskas personas iestāde (tās struktūrvienība),
