@@ -20,4 +20,6 @@
 (7) Nodokļa maksātājs, kurš maksā nodokli par kompozīta iepakojumu un citu no vairākiem materiāliem sastāvošu iepakojumu:
 1) uzskaita katru iepakojumā ietverto materiāla veidu. Ja materiāla veids iepakojuma vienībā nepārsniedz piecus procentus no iepakojuma vienības kopējās masas, to var pieskaitīt pie materiāla veida, kas svara ziņā ir pārākumā;
 2) piemēro šā likuma 7. pielikumā noteiktās nodokļa likmes par katru iepakojumā ietverto materiāla veidu, izņemot kompozīta kartona iepakojumu, kas paredzēts pārtikai un dzērieniem (turpmāk - kompozīta kartona iepakojums).
-(8) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. punktu)
+(8) Šā likuma 3. panta 1.³ daļā minētajā gadījumā piemēro šādu nodokļa likmi:
+1) 0,80 euro par vienu kilogramu plastmasas iepakojuma, kurš ir pārstrādājams, bet netika pārstrādāts pārskata periodā;
+2) 1,25 euro par vienu kilogramu plastmasas iepakojuma, kura materiāla īpašības neļauj to pārstrādāt un kurš netika reģenerēts pārskata periodā.

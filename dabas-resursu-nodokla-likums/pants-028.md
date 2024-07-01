@@ -10,7 +10,7 @@
 (4) Valsts pamatbudžetā ieskaita nodokļa maksājumus par:
 1) atkritumu sadedzināšanu;
 2) oglekļa dioksīda (CO2) emisijām gaisā;
-3) videi kaitīgām precēm, iepakojumu, vienreiz lietojamiem galda traukiem un piederumiem un transportlīdzekļiem;
+3) videi kaitīgām precēm, iepakojumu, vienreiz lietojamiem galda traukiem un piederumiem, tekstilizstrādājumiem, vienreiz lietojamiem plastmasu saturošiem izstrādājumiem un plastmasu saturošiem zvejas rīkiem un transportlīdzekļiem;
 4) akmeņoglēm, koksu, lignītu (brūnoglēm) un uguņošanas ierīcēm;
 5) ūdens resursu lietošanu elektroenerģijas ražošanai hidroelektrostacijā;
 6) prettiesisku dabas resursu ieguvi un lietošanu.

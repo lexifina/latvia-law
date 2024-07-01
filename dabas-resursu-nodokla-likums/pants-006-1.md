@@ -1,9 +1,9 @@
 6.¹ pants. Ražotāja paplašinātās atbildības sistēmas piemērošana
-(1) Ražotāja paplašinātās atbildības sistēmu atbilstoši šim pantam un šā likuma 7., 8., 9. pantam un II¹ nodaļai neatkarīgi no izmantotās tirdzniecības metodes, kā arī neatkarīgi no noslēgtā distances līguma piemēro:
+(1) Ražotāja paplašinātās atbildības sistēmu atbilstoši šim pantam un šā likuma 7., 8., 9., 9.¹ pantam un II¹ nodaļai neatkarīgi no izmantotās tirdzniecības metodes, kā arī neatkarīgi no noslēgtā distances līguma piemēro:
 1) transportlīdzekļiem, uz kuriem attiecas Nolietotu transportlīdzekļu apsaimniekošanas likuma 3. panta pirmā daļa;
-2) iepakojumam, izņemot depozīta iepakojumu, vai vienreiz lietojamiem galda traukiem un piederumiem, izņemot vienreiz lietojamos galda traukus un piederumus, kas izgatavoti no plastmasas (polimēriem) un to kompozītmateriāliem (laminātiem);
+2) iepakojumam, izņemot depozīta iepakojumu, vai vienreiz lietojamiem galda traukiem un piederumiem, izņemot vienreiz lietojamas plastmasu saturošas glāzes un to vāciņus;
 3) videi kaitīgām precēm;
-4) (punkts stājas spēkā 01.07.2024. un iekļauts likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. punktu).
+4) tekstilizstrādājumiem.
 (2) Ražotāja paplašinātās atbildības sistēmu depozīta iepakojumam piemēro atbilstoši šā likuma 8.¹ pantam, Iepakojuma likumam un normatīvajiem aktiem par depozīta sistēmas darbību.
 (3) Valsts un pašvaldību institūciju kompetence ražotāja paplašinātās atbildības sistēmas piemērošanā ir šāda:
 1) Vides aizsardzības un reģionālās attīstības ministrija atkritumu apsaimniekošanas valsts plānā ietver uzdevumus un pasākumus ražotāja paplašinātās atbildības sistēmas pilnveidošanai;

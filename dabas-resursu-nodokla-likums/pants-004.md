@@ -11,8 +11,8 @@
 9) ogles, koksu un lignītu (brūnogles) atbilstoši šā likuma 9.pielikumam;
 10) F1, F2, F3 un F4 kategorijas uguņošanas ierīces atbilstoši šā likuma 24.¹ pantam;
 11) riepas, ar kurām aprīkoti šā likuma 3. panta pirmās daļas 5. punktā norādītie transportlīdzekļi, atbilstoši šā likuma 23. pantam;
-12) (punkts stājas spēkā 01.07.2024. un iekļauts likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. punktu);
-13) (punkts stājas spēkā 01.07.2024. un iekļauts likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. un 44. punktu).
+12) tekstilizstrādājumus atbilstoši šā likuma 26.¹ pantam;
+13) vienreiz lietojamus plastmasu saturošus izstrādājumus un plastmasu saturošus zvejas rīkus atbilstoši šā likuma 26.² pantam.
 (2) Nodokļa likmes par zemes dzīļu derīgo īpašību izmantošanu, iesūknējot ģeoloģiskajās struktūrās dabasgāzi; par C kategorijas piesārņojošu darbību nozarēs, attiecībā uz kurām normatīvajos aktos nav noteiktu nosacījumu un nav arī iespējams aprēķināt piesārņojošo vielu apjomu; par parka vīngliemežu (Helix pomatia L.) vākšanu tālākai saimnieciskai izmantošanai; par iepakojumu gadījumos, kad tā materiāla veidu un svaru nav iespējams pamatot ar uzskaites dokumentiem; par transportlīdzekļiem un uguņošanas ierīcēm ir noteiktas šā likuma 14., 15., 20., 24., 24.¹ un 26.pantā. Pārējos gadījumos nodokļa likmes, kā arī to spēkā esības periodi ir noteikti šā likuma pielikumos.
 (3) Ministru kabinets saskaņā ar šo likumu un šā likuma pielikumos minēto nodokļa likmju iedalījumu nosaka:
 1) dabas resursu, piesārņojošu vielu, atkritumu un radioaktīvo vielu klasifikāciju un atbilstību nodokļa likmju grupām;

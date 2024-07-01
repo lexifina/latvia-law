@@ -15,4 +15,4 @@ Likumā ir lietoti šādi termini:
 13) (izslēgts ar 09.07.2020. likumu);
 14) preces ražotājs - persona, kas maksā dabas resursu nodokli par iepakojumu un vienreiz lietojamiem galda traukiem un piederumiem, videi kaitīgām precēm un transportlīdzekļiem atbilstoši šā likuma 3. pantam;
 15) ražotāja paplašinātās atbildības sistēma - pasākumu kopums, kuru īstenojot preces ražotājam ir finansiāla atbildība vai finansiāla un organizatoriska atbildība par savas tirgū laistās preces un iepakojuma atkritumu efektīvu apsaimniekošanu;
-16) (punkts stājas spēkā 01.07.2024. un iekļauts likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 43. punktu)
+16) tekstilizstrādājums - mājsaimniecības tekstilizstrādājums, apģērbs, apģērba gabala un piederumu tekstilizstrādājums, apavi, kā arī apģērba gabals un piederums, kura galvenā sastāvdaļa nav tekstilmateriāls.
