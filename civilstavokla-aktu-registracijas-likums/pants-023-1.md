@@ -1,0 +1,2 @@
+23.¹ pants. Informatīva izziņa par šķēršļiem slēgt laulību Latvijā
+Pēc personas lūguma Tieslietu ministrija izsniedz informatīvu izziņu par normatīvo aktu prasībām, atbilstoši kurām pastāv šķēršļi laulības noslēgšanai Latvijā, iesniegšanai attiecīgajā ārvalsts institūcijā laulības noslēgšanai. Izziņas izsniegšana ir maksas pakalpojums saskaņā ar Ministru kabineta noteikto maksas pakalpojumu cenrādi.
