@@ -5,10 +5,10 @@
 3) aktualizē Reģistrā iekļautās ziņas par personas deklarēto vai reģistrēto dzīvesvietu.
 (3) Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstīs iekļauj un aktualizē Reģistrā ziņas atbilstoši savai kompetencei un iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "e" apakšpunktā minēto personu.
 (4) Tieslietu ministrija iekļauj Reģistrā ziņas par adoptētu personu un aktualizē ziņas par personas vārda, uzvārda vai tautības ieraksta maiņu.
-(5) Zvērināts notārs iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu, kā arī aktualizē Reģistrā iekļautās ziņas par šā likuma 4. panta pirmās daļas 1. punktā un 2. punkta "a" apakšpunktā minēto personu laulības šķiršanu.
+(5) Zvērināts notārs iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" un "j" apakšpunktā minēto personu, kā arī aktualizē Reģistrā iekļautās ziņas par šā likuma 4. panta pirmajā daļā minēto personu laulības šķiršanu, reģistrētu partnerību un tās izbeigšanu.
 (6) Latvijas Republikas Uzņēmumu reģistrs iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
 (7) Valsts ieņēmumu dienests iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
-(8) Rajona (pilsētas) tiesa iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
+(8) Tiesa iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
 (9) Valsts robežsardze iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "i" apakšpunktā minēto personu.
 (10) Valsts sociālās apdrošināšanas aģentūra iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
 (11) Nacionālais veselības dienests iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.

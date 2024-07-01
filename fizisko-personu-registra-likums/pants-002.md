@@ -7,7 +7,7 @@
 5) zvērināts notārs;
 6) Latvijas Republikas Uzņēmumu reģistrs;
 7) Valsts ieņēmumu dienests;
-8) rajona (pilsētas) tiesa;
+8) tiesa;
 9) Valsts robežsardze;
 10) Valsts sociālās apdrošināšanas aģentūra;
 11) Nacionālais veselības dienests;

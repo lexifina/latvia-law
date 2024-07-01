@@ -1,0 +1,1 @@
+8. Ziņas par ģimenes tiesiskajām attiecībām, kas konstatētas ar tiesas nolēmumu, kurš pieņemts par pieteikumu, kas iesniegts tiesā līdz 2024. gada 30. jūnijam, Reģistrā pēc personas lūguma aktualizē Pārvalde. Pēc šo ziņu aktualizēšanas Reģistrā ģimenes tiesiskās attiecības, kas konstatētas ar tiesas nolēmumu, ir pielīdzināmas personu partnerībai, kas nodibināta ar notariālu aktu.
