@@ -1,9 +1,5 @@
-3.pants. (1) Kompensācija vienam ieguldītājam tiek aprēķināta par:
-1) neatgriezeniski pazudušiem finanšu instrumentiem;
-2) zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums.
-(2) Neatkarīgi no dienas, kad sistēmas dalībnieks pieņēmis izpildei ieguldījuma pakalpojumu, kompensācija vienam ieguldītājam ir šāda:
-1) no 2002.gada 1.janvāra līdz 2003.gada 31.decembrim - 90 procentu apmērā no neatgriezeniski pazudušo finanšu instrumentu vērtības vai zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums, bet ne vairāk kā 3000 latu;
-2) no 2004.gada 1.janvāra līdz 2005.gada 31.decembrim - 90 procentu apmērā no neatgriezeniski pazudušo finanšu instrumentu vērtības vai zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums, bet ne vairāk kā 6000 latu;
-3) no 2006.gada 1.janvāra līdz 2007.gada 31.decembrim - 90 procentu apmērā no neatgriezeniski pazudušo finanšu instrumentu vērtības vai zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums, bet ne vairāk kā 15 000 eiro, kas pārrēķināti latos saskaņā ar Latvijas Bankas noteikto valūtas kursu dienā, kad pieņemts lēmums par kompensācijas pieteikuma pamatotību;
-4) no 2008.gada 1.janvāra - 90 procentu apmērā no neatgriezeniski pazudušo finanšu instrumentu vērtības vai zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums, bet ne vairāk kā 20 000 euro.
-(3) Kompensāciju izmaksā euro.
+3. pants. (1) Kompensācijas apmēru nosaka atbilstoši neizpildīto saistību kopsummai, bet ne vairāk kā 20 000 euro neatkarīgi no ieguldītāja vērtspapīru vai ieguldījumu kontu skaita.
+(2) Ieguldītāja tiesības uz kompensāciju un tās viņa saistības pret sistēmas dalībnieku, kuru izpildes termiņš iestāsies līdz dienai vai dienā, kad sistēmas dalībniekam konstatēta nespēja izpildīt saistības, tiek savstarpēji dzēstas ar ieskaitu, un to ņem vērā, aprēķinot kompensācijas apmēru.
+(3) Neizpildīto saistību apmēru no ārvalstu valūtas pārrēķina euro saskaņā ar grāmatvedībā izmantojamo attiecīgās ārvalsts valūtas kursu dienā, kad Latvijas Banka konstatējusi sistēmas dalībnieka nespēju pildīt saistības pret ieguldītāju.
+(4) Kopīga ieguldījuma gadījumā kompensāciju šā panta pirmajā daļā noteiktajā apmērā izmaksā katram ieguldītājam, ņemot vērā viņa daļu kopīgajā ieguldījumā, kas noteikta ar sistēmas dalībnieku noslēgtajā līgumā. Ja katras personas daļa kopīgajā ieguldījumā nav noteikta, kopīgo ieguldījumu sadala vienādās daļās.
+(5) Ja ieguldītājs pārvalda citai personai pienākošos ieguldījumu, tiesības saņemt kompensāciju ir personai, kura var pierādīt savas prasījuma tiesības uz ieguldījumu atbilstoši noslēgtajam ieguldījumu pakalpojumu līgumam, ar nosacījumu, ka sistēmas dalībnieks šo personu ir identificējis vai šo personu var identificēt pirms dienas, kad sistēmas dalībniekam konstatēta nespēja izpildīt saistības. Ieguldītājam, kurš pārvalda citai personai pienākošos ieguldījumu, ir pienākums nekavējoties par to informēt sistēmas dalībnieku.

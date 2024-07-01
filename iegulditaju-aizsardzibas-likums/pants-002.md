@@ -1,6 +1,6 @@
-2.pants. (1) Šā likuma mērķis ir izveidot sistēmu ieguldītāju interešu aizsardzībai.
+2.pants. (1) Šā likuma mērķis ir nodrošināt drošas un stabilas ieguldītāju aizsardzības sistēmas darbību.
 (2) Šis likums nosaka sistēmas vispārīgos principus, tās darbībai nepieciešamo finanšu līdzekļu nodrošināšanas un kompensāciju izmaksas kārtību.
-(3) Ieguldītājam ir tiesības saņemt kompensāciju, ja sistēmas dalībnieks nespēj pilnā apjomā un termiņos izpildīt savas saistības pret ieguldītāju.
+(3) Ieguldītājam ir tiesības saņemt kompensāciju, ja sistēmas dalībnieks nespēj pilnā apjomā un termiņos izpildīt savas saistības pret ieguldītāju. Saistību neizpildes apstiprinājumu sniedz Latvijas Banka, vai arī tas izriet no tiesas sprieduma, kurš stājies spēkā un ar kuru ieguldījumu pakalpojumu sniedzējam pasludināts maksātnespējas process vai likvidācija, kas tam liedz iespēju izpildīt ieguldītāju prasījumus.
 (4) Šis likums neattiecas uz:
 1) ieguldījumu pakalpojumu sniedzējiem, kuri līdz šā likuma spēkā stāšanās dienai ir atzīti par likvidējamiem, maksātnespējīgiem vai bankrotējušiem;
 2) gadījumiem, kad finanšu instrumenti neatgriezeniski pazuduši pirms šā likuma spēkā stāšanās dienas;

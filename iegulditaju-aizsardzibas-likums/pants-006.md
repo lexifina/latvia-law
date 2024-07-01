@@ -1,2 +1,2 @@
-6.pants. (1) Kompensācija izmaksājama triju mēnešu laikā no dienas, kad pieņemts lēmums par kompensācijas pieteikuma atzīšanu par pamatotu.
+6.pants. (1) Kompensācijas izmaksu uzsāk triju mēnešu laikā no dienas, kad Latvijas Banka konstatējusi sistēmas dalībnieka nespēju izpildīt tā saistības pret ieguldītāju pilnā apmērā un noteikusi kompensācijas apmēru, vai no dienas, kad stājies spēkā tiesas nolēmums par ieguldījumu pakalpojumu sniedzēja maksātnespējas procesa pasludināšanu vai likvidāciju, kas tam liedz iespēju izpildīt ieguldītāju prasījumus.
 (2) Izņēmuma gadījumos un īpašos apstākļos Latvijas Banka var pagarināt šā panta pirmajā daļā minēto termiņu par trijiem mēnešiem.

@@ -1,8 +1,15 @@
-5.pants. (1) Kompensācija tiek izmaksāta tikai tiem ieguldītājiem, kuri Latvijas Bankai iesnieguši pieteikumu par:
-1) finanšu instrumentu neatgriezenisku pazušanu;
-2) zaudējumiem, ko radījis neizpildīts ieguldījumu pakalpojums.
-(2) Pieteikums kompensācijas saņemšanai jāiesniedz gada laikā, kopš ieguldītājam kļuvis zināms, ka sistēmas dalībnieks nav izpildījis savas saistības, bet ne vēlāk kā piecus gadus no saistību neizpildes dienas.
-(3) Latvijas Banka:
-1) nosaka kārtību, kādā tiek pieņemti pieteikumi kompensācijas izmaksai, un kārtību, kādā nosakāms kompensācijas apmērs;
-2) 30 dienu laikā izvērtē saņemto kompensācijas pieteikumu un lemj par kompensācijas izmaksas pamatotību vai par atteikumu izmaksāt kompensāciju;
-3) apkopo informāciju par ieguldītājiem, kuru pieteikumi kompensācijas saņemšanai atzīti par pamatotiem, un paziņo sistēmas dalībniekiem par maksājumiem, kas tiem jāveic.
+5. pants. (1) Kompensācija tiek izmaksāta tiem ieguldītājiem, kuri Latvijas Bankai vai tās izraudzītajai kredītiestādei iesnieguši pieteikumu par kompensāciju par neizpildītajām saistībām. Pieteikumu kompensācijas izmaksai izskata Latvijas Banka.
+(2) Latvijas Banka lemj par kārtību, kādā:
+1) tiek pieņemti pieteikumi kompensācijas izmaksai;
+2) tiek noteikts kompensācijas apmērs;
+3) notiek kompensācijas izmaksa.
+(3) Latvijas Banka informāciju par kārtību, kādā tiek pieņemti pieteikumi kompensācijas izmaksai, un par kompensācijas izmaksas kārtību un termiņiem publicē oficiālajā izdevumā "Latvijas Vēstnesis", kā arī ievieto savā tīmekļvietnē.
+(4) Pieteikumu kompensācijas izmaksai iesniedz divu gadu laikā kopš dienas, kad oficiālajā izdevumā "Latvijas Vēstnesis" publicēta šā panta trešajā daļā minētā informācija. Ieguldītājs zaudē prasījuma tiesības uz kompensācijas izmaksu dienā, kad pagājuši divi gadi kopš dienas, kad oficiālajā izdevumā "Latvijas Vēstnesis" publicēta šā panta trešajā daļā minētā informācija, vai no dienas, kad izbeigušies apstākļi, kas bijuši par pamatu šā likuma 6.¹ pantā noteiktajai kompensācijas izmaksas atlikšanai.
+(5) Kompensāciju var izmaksāt ar Latvijas Bankas vai ar vienas vai vairāku Latvijas Bankas izraudzītu kredītiestāžu starpniecību.
+(6) Latvijas Banka, nodrošinot kompensāciju izmaksu ar vienas vai vairāku tās izraudzītu kredītiestāžu starpniecību, noslēdz līgumu ar attiecīgo kredītiestādi. Ja kompensācijas izmaksu veic kredītiestāde, līgumā var paredzēt maksājumu par kompensācijas izmaksas nodrošināšanas rezultātā kredītiestādei piesaistītajiem klientiem, un šo maksājumu ieskaita ieguldītāju aizsardzības sistēmā. Šāda maksājuma apmērs nosakāms atkarībā no to ieguldītāju skaita, kuri, saņemot kompensāciju, piekrituši kļūt vai kļuvuši par konkrētās kredītiestādes klientiem. Izraugoties kredītiestādi, ar kuru noslēdz šajā daļā minēto līgumu, nav piemērojami Publisko iepirkumu likuma noteikumi.
+(7) Latvijas Banka vai šā panta sestajā daļā minētā Latvijas Bankas izraudzītā kredītiestāde kompensāciju ieguldītājiem izmaksā saskaņā ar šā likuma 5.¹ panta otrajā daļā minēto ieguldītāju sarakstu.
+(8) Sistēmas dalībniekam, kuram konstatēta nespēja izpildīt saistības, vai tiesas ieceltajam minētā sistēmas dalībnieka administratoram vai likvidatoram (turpmāk - administrators vai likvidators) ir pienākums pārliecināties, vai ieguldītāju saraksts sagatavots atbilstoši normatīvo aktu prasībām.
+(9) Ja zvērināts tiesu izpildītājs vai nodokļu administrācija pret ieguldītāja naudas līdzekļiem ir vērsusi piedziņu, piedzenamās naudas līdzekļu summas izmaksā attiecīgi zvērinātam tiesu izpildītājam vai nodokļu administrācijai.
+(10) Ja divu gadu laikā no dienas, kad oficiālajā izdevumā "Latvijas Vēstnesis" publicēta šā panta trešajā daļā minētā informācija, zvērināts tiesu izpildītājs vai nodokļu administrācija nav vērsusi piedziņu pret ieguldītāja naudas līdzekļiem, izbeidzas zvērināta tiesu izpildītāja vai nodokļu administrācijas noteiktie ierobežojumi kompensācijas izmaksai.
+(11) Ja Latvijas Banka, sistēmas dalībnieks, kuram konstatēta nespēja izpildīt saistības, administrators vai likvidators konstatē, ka kompensācija izmaksāta personai, kurai saskaņā ar šā likuma noteikumiem nebija tiesību uz kompensāciju, vai arī tā izmaksāta lielākā apmērā, personai ir pienākums atmaksāt nepamatoti izmaksāto kompensāciju atbilstoši Latvijas Bankas, sistēmas dalībnieka, kuram konstatēta nespēja izpildīt saistības, administratora vai likvidatora pieprasījumam.
+(12) Ja persona šā panta vienpadsmitajā daļā minēto kompensāciju neatmaksā brīvprātīgi, Latvijas Bankai, sistēmas dalībniekam, kuram konstatēta nespēja izpildīt saistības, administratoram vai likvidatoram ir pienākums celt prasību par minēto līdzekļu atmaksu.
