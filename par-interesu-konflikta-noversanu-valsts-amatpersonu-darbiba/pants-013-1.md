@@ -1,5 +1,5 @@
 13.¹ pants. Speciālie dāvanu pieņemšanas ierobežojumi, pildot valsts amatpersonas pienākumus
-(1) Valsts prezidentam, Saeimas priekšsēdētājam, Ministru prezidentam un ārlietu ministram, pildot amata pienākumus, kā arī minēto amatpersonu laulātajiem valsts, oficiālo un darba vizīšu ietvaros Latvijā vai ārvalstīs ir atļauts pieņemt diplomātiskās dāvanas, ar kurām pēc iepriekšējas saskaņošanas apmainās valstu vadītāji, parlamentu priekšsēdētāji, valdību vadītāji vai ārlietu ministri diplomātiskajā protokolā noteiktajā kārtībā.
+(1) Valsts prezidentam, Saeimas priekšsēdētājam, Ministru prezidentam un ārlietu ministram, pildot amata pienākumus, kā arī minēto amatpersonu laulātajiem valsts, oficiālo un darba vizīšu ietvaros Latvijā vai ārvalstīs ir atļauts pieņemt diplomātiskās dāvanas, ar kurām pēc iepriekšējas saskaņošanas apmainās valstu vadītāji, parlamentu priekšsēdētāji, valdību vadītāji vai ārlietu ministri diplomātiskajā protokolā noteiktajā kārtībā. Šādas diplomātiskās dāvanas ir atļauts pieņemt arī minēto amatpersonu partneriem.
 (2) Valsts amatpersonai, pildot amata pienākumus, ir atļauts pieņemt arī dāvanas, kuras pasniedz:
 1) valsts, oficiālo un darba vizīšu ietvaros Latvijā vai ārvalstīs;
 2) ārvalstu vai starptautisko organizāciju amatpersonas Latvijas Republikas diplomātiskajās un konsulārajās pārstāvniecībās strādājošajām valsts amatpersonām;
