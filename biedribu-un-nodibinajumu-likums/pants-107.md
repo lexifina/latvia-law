@@ -1,6 +1,6 @@
 107.pants. Nodibinājuma likvidācija
 (1) Šā likuma VI nodaļas noteikumi par biedrības likvidāciju attiecīgi piemērojami nodibinājumiem, ciktāl šajā nodaļā nav noteikts citādi.
-(1¹) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 13. punktu)
+(1¹) Šā likuma 56.¹ pantā minētajā gadījumā nodibinājuma likvidācija nenotiek un reģistra iestāde pieņem lēmumu par nodibinājuma izslēgšanu no reģistra, ja neviena nodibinājuma likvidācijā ieinteresēta persona nav saskaņā ar šā likuma 59.¹ pantu iesniegusi reģistra iestādei pieteikumu par likvidatora iecelšanu un nodibinājumam nav pasludināts maksātnespējas process.
 (2) Likvidāciju veic valdes locekļi, ja statūtos nav noteikts citādi. Ja likvidāciju veic citas personas, kas nav valdes locekļi, statūtos paredzama šo likvidatoru iecelšanas kārtība.
 (3) Ja nodibinājuma darbība izbeidzas, iestājoties šā likuma 104.panta 2., 2.¹ vai 4.punktā minētajiem apstākļiem, valde iesniedz pieteikumu reģistra iestādei par nodibinājuma darbības izbeigšanu. Pieteikumā norāda ziņas par likvidatora vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi).
 (3¹) Pieteikumam pievieno katra likvidatora rakstveida piekrišanu būt par likvidatoru. Rakstveida piekrišanā likvidators norāda tā nodibinājuma nosaukumu un reģistrācijas numuru, par kura likvidatoru piekrīt kļūt.

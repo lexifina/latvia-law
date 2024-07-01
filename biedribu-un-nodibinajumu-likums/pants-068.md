@@ -5,5 +5,5 @@
 (4) Ja biedrības mantu nevar sadalīt saskaņā ar šā panta pirmajā, otrajā un trešajā daļā noteikto kārtību, biedrības manta piekrīt valstij.
 (5) Ja biedrības darbība izbeigta saskaņā ar šā likuma 57.panta pirmās daļas 1. un 2.punkta noteikumiem, pēc likvidācijas izdevumu segšanas un kreditoru prasījumu apmierināšanas atlikusī biedrības manta piekrīt valstij.
 (5¹) Biedrības, kura ir sabiedriskā labuma organizācija, kā arī tādas biedrības, kurai sabiedriskā labuma organizācijas statuss ir atņemts, bet kura iepriekšējā kalendārajā gadā pirms likvidācijas uzsākšanas kā sabiedriskā labuma organizācija ir saņēmusi ziedojumus, mantas sadali likvidācijas gadījumā veic atbilstoši Sabiedriskā labuma organizāciju likumam.
-(5²) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 13. punktu)
+(5²) Manta, kas palikusi pēc biedrības izslēgšanas no reģistra šā likuma 58. panta trešajā daļā noteiktajā kārtībā, piekrīt valstij.
 (6) Biedrības mantu drīkst sadalīt ne agrāk kā sešus mēnešus pēc dienas, kad publicēts paziņojums par biedrības darbības izbeigšanu. Tiesa var atļaut atlikušo biedrības mantu sadalīt pirms noteiktā termiņa, ja ar to netiek nodarīti zaudējumi kreditoriem.

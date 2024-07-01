@@ -2,7 +2,7 @@
 Reģistrā ieraksta šādas ziņas:
 1) biedrības vai nodibinājuma nosaukumu;
 2) biedrības vai nodibinājuma juridisko adresi;
-3) biedrības vai nodibinājuma mērķi, kā arī darbības jomu atbilstoši Ministru kabineta noteiktajai klasifikācijai, ja biedrība vai nodibinājums darbības jomu piesaka ierakstīšanai vai tās ierakstīšanu paredz likums;
+3) biedrības vai nodibinājuma mērķi, kā arī darbības jomu atbilstoši Ministru kabineta noteiktajai klasifikācijai;
 4) datumu, kad pieņemts lēmums par dibināšanu;
 5) valdes locekļu vārdu, uzvārdu, personas kodu (ja tāda nav, - dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), norādot, vai viņiem ir tiesības pārstāvēt biedrību vai nodibinājumu atsevišķi vai kopīgi;
 6) biedrības vai nodibinājuma darbības termiņu, ja biedrība vai nodibinājums dibināts uz laiku;

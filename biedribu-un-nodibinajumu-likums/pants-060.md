@@ -4,4 +4,4 @@
 2) biedru sapulces protokola izrakstu ar lēmumu par biedrības darbības izbeigšanu, ja biedrības darbība izbeigusies ar biedru sapulces lēmumu.
 (2) Ja biedrības darbība izbeidzas ar tiesas nolēmumu, tiesa nosūta attiecīgo nolēmumu ieraksta izdarīšanai reģistrā. Likvidators triju dienu laikā pēc nolēmuma stāšanās spēkā iesniedz reģistra iestādei šā panta pirmās daļas otrajā teikumā un 1. punktā minētās ziņas.
 (3) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā vai tiesas nolēmumā un tam nav jāpievieno šā panta pirmās daļas 1. punktā minētās ziņas.
-(4) (Daļa stājas spēkā 01.07.2024. un iekļauta likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 13. punktu)
+(4) Ja biedrības darbība izbeidzas ar Valsts ieņēmumu dienesta lēmumu, Valsts ieņēmumu dienests pēc tam, kad lēmums kļuvis neapstrīdams, nosūta attiecīgo lēmumu reģistra iestādei ieraksta izdarīšanai reģistrā.
