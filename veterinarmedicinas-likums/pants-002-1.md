@@ -1,6 +1,7 @@
 2.¹ pants. Valsts veterinārajai uzraudzībai un kontrolei ir pakļauti šādi objekti un personas (turpmāk - valsts veterinārās uzraudzības objekti):
 1) dzīvnieku novietnes;
 2) dzīvnieku audzētavas;
+2¹) vietas, kurās pavairo mājas (istabas) dzīvniekus - suņus, kaķus vai mājas (istabas) seskus;
 3) savvaļas sugas dzīvnieku turēšanas vietas;
 4) zooloģiskie dārzi;
 5) cirki;

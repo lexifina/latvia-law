@@ -17,7 +17,7 @@
 6) (izslēgts ar 01.07.2011. likumu);
 7) (izslēgts ar 03.06.2010. likumu);
 8) izsniedz veterināros (veselības) sertifikātus un citus normatīvajos aktos par dzīvnieku veselību, labturību, dzīvnieku barības un barības piedevu apriti, pārtikas aprites drošumu un higiēnu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti noteiktos dokumentus;
-9) izsniedz atļaujas dzīvnieku patversmju, viesnīcu, dzīvnieku audzētavu un specializēto tirdzniecības vietu veidošanai un dzīvnieku kapsētu iekārtošanai;
+9) (izslēgts ar 14.03.2024. likumu);
 10) reģistrē valsts veterinārās uzraudzības objektus;
 11) izstrādā un apstiprina dzīvnieku izcelsmes produktu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistīto personu valsts uzraudzības programmas.
 (3) Pārtikas un veterinārais dienests izstrādā, apstiprina un uztur dzīvnieku un dzīvnieku izcelsmes produktu kustības, reģistrācijas un uzskaites sistēmu, kā arī sistēmu, kuras uzdevums ir ziņot par dzīvnieku saslimšanu ar infekcijas slimībām.

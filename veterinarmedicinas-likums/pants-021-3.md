@@ -1,3 +1,3 @@
-21.³ pants. (1) Pašvaldība nodrošina normatīvajos aktos par mājas (istabas) dzīvnieku reģistrācijas kārtību noteikto suņa apzīmēšanas un reģistrācijas prasību izpildes uzraudzību un kontroli attiecīgajā administratīvajā teritorijā.
-(2) Pašvaldība, veicot šā panta pirmajā daļā minēto normatīvo aktu ievērošanas uzraudzību un kontroli, ir tiesīga izdot administratīvos aktus par suņa apzīmēšanu un reģistrāciju.
+21.³ pants. (1) Pašvaldība nodrošina normatīvajos aktos par mājas (istabas) dzīvnieku reģistrācijas kārtību noteikto suņa, kaķa un mājas (istabas) seska apzīmēšanas un reģistrācijas prasību izpildes uzraudzību un kontroli attiecīgajā administratīvajā teritorijā.
+(2) Pašvaldība, veicot šā panta pirmajā daļā minēto normatīvo aktu ievērošanas uzraudzību un kontroli, ir tiesīga izdot administratīvos aktus par suņa, kaķa un mājas (istabas) seska apzīmēšanu un reģistrāciju.
 (3) Pašvaldība saistošajos noteikumos nosaka institūciju, kas ir pilnvarota pašvaldības vārdā veikt šā panta pirmajā daļā noteikto uzraudzību un kontroli, kā arī ir tiesīga izdot šā panta otrajā daļā minētos administratīvos aktus.

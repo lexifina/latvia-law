@@ -5,6 +5,7 @@
 4) kārtību, kādā valstī veic to infekcijas slimību profilaksi un apkarošanu, ar kurām slimo gan dzīvnieki, gan cilvēki;
 5) dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu kontroles un uzraudzības kārtību tirdzniecībā ar Eiropas Savienības dalībvalstīm
 6) kārtību, kādā mājas (istabas) dzīvnieku apzīmē, reģistrē un izslēdz no reģistra, par mājas (istabas) dzīvnieka reģistrēšanu iekasējamā maksājuma apmēru, kā arī tā samaksas kārtību;
+6¹) izņēmumus, kad kaķu un mājas (istabas) sesku apzīmēšana ar mikroshēmu un reģistrācija nav obligāta;
 7) kārtību, kādā izsniedz dzīvnieku un dzīvnieku izcelsmes produktu veterināros (veselības) sertifikātus;
 8) kārtību, kādā veic salmonelozes un citu ar pārtikas produktiem pārnēsājamu infekcijas slimību kontroli mājputnu ganāmpulkos, kas paredzēti pārtikas produktu iegūšanai nelielā apjomā un tiešajai piegādei galapatērētājam;
 9) kārtību, kādā veic uzraudzību un informācijas apmaiņu par infekcijas slimībām, ar kurām slimo gan dzīvnieki, gan cilvēki, par šo slimību ierosinātājiem, kā arī par šo ierosinātāju antimikrobo rezistenci;
