@@ -1,6 +1,6 @@
 10.pants. Ministru kabinets nosaka:
 1) lauksaimniecības dzīvnieku turēšanas un izmantošanas kārtību un nosaka labturības prasības katras lauksaimniecības dzīvnieku sugas turēšanai un izmantošanai, prasības kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai, kā arī lauksaimniecības dzīvnieka turētāja tiesības un pienākumus;
-2) labturības prasības mājas (istabas) dzīvnieku turēšanai, tirdzniecībai un demonstrēšanai publiskās izstādēs, suņa apmācībai un mājas (istabas) dzīvnieka īpašnieka un turētāja tiesības un pienākumus;
+2) (izslēgts ar 14.03.2024. likumu);
 3) labturības prasības sporta, darba un atrakciju dzīvnieku turēšanai, apmācībai un izmantošanai sacensībām, darbam vai atrakcijām;
 4) izmēģinājumu dzīvnieku aizsardzības jomā:
 a) izmēģinājumu dzīvnieku audzētāju, piegādātāju un lietotāju reģistrācijas un tās anulēšanas kārtību,
@@ -20,12 +20,12 @@ n) prasības atkārtotai izmēģinājumu dzīvnieku izmantošanai procedūrā,
 o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā arī dokumentācijas glabāšanas kārtību;
 5) kārtību, kādā notiek dzīvnieku populācijas atjaunošana (reintrodukcija) dabā un Latvijas dabai neraksturīgo savvaļas sugu dzīvnieku ieviešana (introdukcija);
 6) (izslēgts ar 06.12.2001. likumu);
-7) dzīvnieku labturības prasības dzīvnieku patversmēs un dzīvnieku viesnīcās, kā arī dzīvnieku veterinārmedicīniskās aprūpes iestādēs;
+7) dzīvnieku labturības prasības dzīvnieku veterinārmedicīniskās aprūpes iestādēs;
 8) dzīvnieku pārvadāšanas kārtību, labturības prasības dzīvnieku pārvadāšanai transportlīdzeklī, kā arī kārtību, kādā izsniedz un reģistrē dzīvnieku pārvadātāja atļauju un atļauju transportlīdzeklim dzīvnieku pārvadāšanai;
 9) (izslēgts ar 08.03.2012. likumu);
 10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;
 11) kritērijus un kārtību, kādā suni atzīst par bīstamu, nosaka turpmāko rīcību ar to un prasības bīstama suņa turēšanai;
-12) kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;
+12) (izslēgts ar 14.03.2024. likumu);
 13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
 14) valsts nodevas apmēru un samaksas kārtību par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
 15) (izslēgts no 01.01.2018. ar 15.06.2017. likumu. Sk. Pārejas noteikumu 18. punktu);

@@ -1,8 +1,8 @@
-1.pants. Likumā ir lietoti šādi termini:
+1.pants. (1) Likumā ir lietoti šādi termini:
 1) atrakciju dzīvnieks - dzīvnieks, kuru tur publiskai izrādīšanai izklaides vai sabiedrības izglītošanas nolūkā, kā arī cirka dzīvnieks, izņemot dzīvnieku, kuru tur zooloģiskajā dārzā;
 2) dzīvnieka īpašnieks - juridiskā vai fiziskā persona, kurai pieder dzīvnieks;
 3) dzīvnieka turētājs - persona, kuras rīcībā un aprūpē atrodas dzīvnieks;
-4) dzīvnieku patversme - speciāli aprīkota vieta, kur izmitina izķertos, atsavinātos un bezpalīdzīgā stāvoklī nonākušos dzīvniekus;
+4) (izslēgts ar 14.03.2024. likumu);
 5) dzīvnieku viesnīca - speciāli aprīkota vieta, kur mājas (istabas) dzīvnieka īpašnieks uz noteiktu laiku var atstāt aprūpē savu dzīvnieku;
 6) eitanāzija - dzīvnieka dzīvības funkciju pārtraukšana nesāpīgā veidā;
 7) izmēģinājumu dzīvnieks - procedūrām audzēts vai tajās izmantojams dzīvnieks;
@@ -17,3 +17,4 @@
 16) savvaļas sugas dzīvnieks - dzīvnieks, kura evolūciju nav apzināti ietekmējis cilvēks, lai apmierinātu savas vajadzības;
 17) sporta un darba dzīvnieks - dzīvnieks, kurš ir apguvis specifiskas iemaņas un veic cilvēka noteiktu darbību;
 18) zooloģiskais dārzs - pastāvīga vieta, kur savvaļas sugu dzīvnieki tiek turēti izstādīšanai publikas apskatei septiņas vai vairāk dienas gadā sugas saglabāšanas, pavairošanas, reintrodukcijas, pētniecības un sabiedrības izglītošanas nolūkā.
+(2) Likumā lietotais termins "dzīvnieku patversme" atbilst Komisijas 2019. gada 28. jūnija deleģētās regulas (ES) 2019/2035, ar ko attiecībā uz noteikumiem, kurus piemēro sauszemes dzīvnieku turēšanas objektiem un inkubatoriem, un attiecībā uz konkrētu sauszemes dzīvnieku un inkubējamu olu izsekojamību papildina Eiropas Parlamenta un Padomes regulu (ES) 2016/429 (turpmāk - regula (ES) 2019/2035) 2. panta 8. punktā lietotajam terminam.
