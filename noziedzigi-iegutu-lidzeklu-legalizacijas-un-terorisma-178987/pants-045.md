@@ -28,7 +28,7 @@ a) kreditēšanu, tai skaitā finanšu līzingu, ja pakalpojumu sniegšanai nav 
 b) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem uzlikts pienākums,
 c) konsultācijas klientiem finansiāla rakstura jautājumos,
 d) inkasāciju,
-e) virtuālās valūtas pakalpojumus.
+e) kriptoaktīvu pakalpojumus.
 (2¹) Patērētāju tiesību aizsardzības centrs uzrauga:
 1) likuma subjektus - personas, kuras nodarbojas ar patērētāju kreditēšanu un kurām Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai;
 2) likuma subjektus - personas, kuras nodarbojas ar parāda atgūšanas pakalpojumu sniegšanu un kurām Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) parāda atgūšanas pakalpojumu sniegšanai.
