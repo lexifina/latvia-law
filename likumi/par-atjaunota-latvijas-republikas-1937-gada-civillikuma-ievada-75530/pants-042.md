@@ -1,7 +1,8 @@
 42. pants.
-Šā likuma 38., 39., 40. un 41. pants stājas spēkā 2022. gada 1. janvārī.
+(Pirmā daļa atzīta par spēkā neesošu no 01.07.2024. ar Satversmes tiesas 02.05.2023. spriedumu)
 Ja būve ir patstāvīgs īpašuma objekts saskaņā ar šā likuma 14. panta pirmās daļas 1., 2., 3. vai 4. punktu un zemes un būves īpašnieka savstarpējo tiesisko attiecību saturu jau nosaka vienošanās vai tiesas nolēmums, šā likuma 38., 39., 40. un 41. pantu šādām attiecībām piemēro ar 2023. gada 1. janvāri.
 Šā panta otrajā daļā minētajos gadījumos vienošanās vai tiesas nolēmumā noteiktā nomas maksa nav spēkā ar 2023. gada 1. janvāri.
 Ja šā panta otrajā daļā minētajos gadījumos lietošanā esošās zemes platību un robežas nosaka normatīvie akti, šī platība turpmāk atzīstama par lietošanā esošo zemi. Ja normatīvie akti lietošanā esošās zemes platību un robežas nenosaka, bet būves īpašnieks un zemes īpašnieks par to ir vienojušies vai to ir noteikusi tiesa, šī zemes platība turpmāk atzīstama par lietošanā esošo zemi saskaņā ar šā likuma 38. panta piekto daļu.
 Ja būve ir patstāvīgs īpašuma objekts saskaņā ar šā likuma 14. panta pirmās daļas 1., 2., 3. vai 4. punktu un zemes īpašnieks ir publiska persona, šā likuma 38., 39., 40. un 41. panta prasības piemēro ar 2024. gada 1. janvāri.
 Ministru kabinets līdz 2023. gada 1. oktobrim izstrādā šā likuma 38. panta septītajā daļā paredzētos noteikumus.
+Ja zemes likumiskās lietošanas tiesības attiecas uz dzīvojamās ēkas īpašniekiem un lietošanā esošās zemes kadastrālā vērtība 2025. gada 1. janvārī ir lielāka par tās 2024. gadā spēkā esošo kadastrālo vērtību, tai atbilstošais maksājums par zemes likumisko lietošanu no 2025. gada 1. janvāra līdz 2028. gada 31. decembrim katru gadu palielinās par 30 procentiem pret iepriekšējā gada maksājumu, līdz tiek sasniegts atbilstošais zemes likumiskās lietošanas maksas apmērs no aktuālās kadastrālās vērtības.
