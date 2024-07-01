@@ -1,0 +1,1 @@
+8. Ja līdz 2024. gada 30. jūnijam komercķīla reģistrēta komercķīlu reģistrā vai iesniegts pieteikums komercķīlas reģistrācijai un ir ieķīlāta visa komersanta vai citas juridiskās personas manta vai lietu kopība, kas ietver arī akcijas, tad akcijām netiek piemērota šā likuma 10. panta trešā daļa un tās uzskatāmas par ieķīlātām.
