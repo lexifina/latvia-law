@@ -14,7 +14,7 @@
 11) satiksmes ministrs;
 12) tieslietu ministrs;
 13) veselības ministrs;
-14) vides aizsardzības un reģionālās attīstības ministrs;
+14) viedās administrācijas un reģionālās attīstības ministrs;
 15) zemkopības ministrs.
 (2) Ministru kabineta sastāvā var būt viens vai vairāki ministri, kuriem var nebūt pakļautas ministrijas:
 1) Ministru prezidenta biedrs;

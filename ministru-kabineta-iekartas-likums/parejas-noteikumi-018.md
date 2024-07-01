@@ -1,0 +1,1 @@
+18. Ministru kabinets līdz 2028. gada 1. jūlijam izstrādā un iesniedz Saeimai likumprojektus par nepieciešamajiem grozījumiem citos likumos, kas saistīti ar viedās administrācijas un reģionālās attīstības ministra kompetenci un funkcijām.
