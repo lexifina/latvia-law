@@ -3,7 +3,7 @@
 1) paredzamais risks ir izvērtēts attiecībā uz prognozējamo pacienta, kā arī citu esošo vai nākamo pacientu ieguvumu;
 2) nepastāv alternatīva, ka salīdzināmu efektu varētu iegūt citādā veidā;
 3) ārstnieciskais ieguvums, kā arī ieguvums sabiedrības veselības labā attaisno risku, kas varētu draudēt pacientam.
-(2) Ja pacients nespēj paust savu gribu, tiesības piekrist viņa iesaistīšanai klīniskajā pētījumā ir pacienta pilnvarotajai personai, pacienta laulātajam vai tuvākajiem radiniekiem, kas savu piekrišanu apstiprina rakstveidā šā likuma 7.panta pirmajā daļā noteiktajā kārtībā, vienlaikus pastāvot šā panta pirmās daļas 2.punktā noteiktajam un šādiem nosacījumiem:
+(2) Ja pacients nespēj paust savu gribu, tiesības piekrist viņa iesaistīšanai klīniskajā pētījumā ir pacienta pilnvarotajai personai, pacienta laulātajam, partnerim vai tuvākajiem radiniekiem, kas savu piekrišanu apstiprina rakstveidā šā likuma 7.panta pirmajā daļā noteiktajā kārtībā, vienlaikus pastāvot šā panta pirmās daļas 2.punktā noteiktajam un šādiem nosacījumiem:
 1) klīniskā pētījuma rezultāti var dot reālu un tiešu labumu pacienta veselībai;
 2) nav iespējams ar pacientiem, kuri spēj paust savu gribu, veikt pētījumu, kas dotu salīdzināmu efektu;
 3) pacients nav izteicis iebildumus pret viņa iesaistīšanu klīniskajā pētījumā.
