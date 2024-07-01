@@ -5,7 +5,7 @@
 2) institūciju, kura sasauc biedru kopsapulci;
 3) kopsapulces norises vietu un laiku;
 4) darba kārtību;
-4¹) (punkts stājas spēkā 01.07.2024. un iekļauts likuma redakcijā uz 01.07.2024. Sk. pārejas noteikumu 19. punktu);
+4¹) kārtību un termiņus, kādos biedri var izmantot tiesības balsot pirms biedru kopsapulces vai piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus;
 5) vietu un laiku, kur un kad biedri var iepazīties ar lēmuma projektiem un dokumentiem, kuriem ir nozīme lēmuma pieņemšanā.
 (3) Ja biedru kopsapulci sasauc šā likuma 32. panta trešajā, ceturtajā un piektajā daļā minētā institūcija (persona), paziņojumā norāda kontaktinformāciju, kur pieteikt papildu jautājumus biedru kopsapulces darba kārtībai.
 (4) Ja biedru kopsapulcē paredzēts grozīt sabiedrības statūtus, lēmuma projektam par statūtu grozījumiem pievieno dokumentu, kurā norāda, kurus statūtu punktus ierosināts atzīt par spēku zaudējušiem vai grozīt, un šo punktu jauno redakciju.
