@@ -25,7 +25,7 @@ b) līdz 0,4 procentiem gadā - kopējai aktīvu daļai, kas pārsniedz 300 milj
 1) ieguldījumu plāna līdzekļu ieguldījumu pārvaldīšana;
 2) ieguldījumu plāna līdzekļu administratīvā vadība, kas ietver:
 a) juridisko un grāmatvedības jautājumu kārtošanu,
-b) informācijas sniegšanu par ieguldījumu plāna darbību,
+b) informācijas sniegšanu par fondēto pensiju shēmas dalībnieka vecumam un vajadzībām atbilstošāko ieguldījumu plānu, ieguldījumu plānu darbību un par ieguldījumiem ieguldījumu plānos, par pensiju sistēmas darbību, lai uzlabotu fondēto pensiju shēmas dalībnieka finanšu pratības līmeni, kā arī dalībnieka informēšanu par iespējamiem riskiem, kas saistīti ar ieguldījumiem,
 c) ieguldījumu plāna vērtības un ieguldījuma plāna daļas vērtības noteikšanu,
 d) ieguldījumu plāna darbību regulējošo prasību ievērošanas uzraudzību,
 e) ieguldījumu plāna ienākuma sadali,
