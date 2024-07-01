@@ -1,0 +1,2 @@
+6.¹ pants. Citu personu tiesības
+Personām, par kurām ar sociāli apdrošināmo personu un obligāti sociāli apdrošināmo personu atbilstoši to nodarbinātībai, vecumam, veselības stāvoklim un sociālās apdrošināšanas veidiem Fizisko personu reģistrā ir iekļautas Fizisko personu reģistra likuma 11. panta pirmās daļas 36. punktā noteiktās ziņas (turpmāk - partneris), ir šā likuma 5. panta pirmajā un trešajā daļā, 6. panta ceturtās daļas 6., 8. un 13. punktā un piektās daļas 5., 7. un 9. punktā noteiktās tiesības.
