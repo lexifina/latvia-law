@@ -10,4 +10,6 @@
 (9) Ceļu satiksmes drošības direkcija, pamatojoties uz Valsts policijas sniegto informāciju transportlīdzekļu un to vadītāju valsts reģistram, paziņo transportlīdzekļa īpašniekam, ka attiecīgā transportlīdzekļa lietotājam nav transportlīdzekļu vadīšanas tiesību.
 (10) Ierakstiem transportlīdzekļu un to vadītāju valsts reģistrā un traktortehnikas un tās vadītāju valsts informatīvajā sistēmā ir publiska ticamība.
 (11) Transportlīdzekļu un to vadītāju valsts reģistrā un traktortehnikas un tās vadītāju valsts informatīvajā sistēmā esošās informācijas sniegšana ārvalstu kompetentajām iestādēm pieļaujama, ievērojot Latvijai saistošus starptautiskos līgumus un Eiropas Savienības tiesību aktus.
-(12) Autotransporta direkcija no transportlīdzekļu un to vadītāju valsts reģistra iegūst vadītāja apliecības īpašnieka digitālo fotogrāfiju pasažieru komercpārvadājumu ar taksometru un vieglo automobili vadītāju reģistrācijai taksometru vadītāju reģistrā un vadītāja reģistrācijas apliecības izgatavošanai.
+(12) Autotransporta direkcija no transportlīdzekļu un to vadītāju valsts reģistra iegūst vadītāja apliecības īpašnieka:
+1) digitālo fotogrāfiju un paraksta atveidojumu digitālā tahogrāfa karšu izgatavošanai;
+2) digitālo fotogrāfiju pasažieru komercpārvadājumu ar taksometru un vieglo automobili vadītāju reģistrācijai taksometru vadītāju reģistrā.
