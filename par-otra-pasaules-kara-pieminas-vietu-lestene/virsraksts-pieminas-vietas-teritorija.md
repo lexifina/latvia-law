@@ -1,0 +1,1 @@
+Piemiņas vietas teritorija
