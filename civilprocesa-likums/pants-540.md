@@ -1,6 +1,6 @@
 540.pants. Izpildu dokumenti
 Izpildu dokumenti ir:
-1) izpildu raksti, kas sagatavoti, pamatojoties uz tiesas spriedumiem un tiesas vai tiesneša lēmumiem civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām, un krimināllietās, tiesas lēmumiem par izlīgumu apstiprināšanu, pastāvīgās šķīrējtiesas nolēmumiem, darba strīdu komisijas lēmumiem, regulatora lēmumiem par strīda vai domstarpību izskatīšanu, ārvalstu tiesu un ārvalstu šķīrējtiesu nolēmumiem, saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtajiem Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas aktiem;
+1) izpildu raksti, kas sagatavoti, pamatojoties uz tiesas spriedumiem un tiesas vai tiesneša lēmumiem civillietās, kā arī lietās, kas rodas no administratīvi tiesiskajām attiecībām, un krimināllietās, tiesas lēmumiem par izlīgumu apstiprināšanu, šķīrējtiesas nolēmumiem, darba strīdu komisijas lēmumiem, regulatora lēmumiem par strīda vai domstarpību izskatīšanu, ārvalstu tiesu un ārvalstu šķīrējtiesu nolēmumiem, saskaņā ar Līguma par Eiropas Savienības darbību 299.pantu pieņemtajiem Eiropas Padomes, Komisijas vai Eiropas Centrālās bankas aktiem;
 2) institūciju un amatpersonu lēmumi administratīvā pārkāpuma procesā un likumu pārkāpumu lietās;
 2¹) tiesas vai tiesnešu nolēmumi administratīvā pārkāpuma procesā;
 2²) procesa virzītāja lēmuma vai prokurora priekšraksta izraksts krimināllietās daļā par mantiskajām piedziņām;

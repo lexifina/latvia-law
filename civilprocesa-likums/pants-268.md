@@ -1,5 +1,5 @@
 268.pants. Tiesas spriedums
-(1) Ja tiesa uz pierādījumu pamata konstatē, ka personas rīcībspēja ir ierobežojama, tā taisa spriedumu, kurā norāda rīcībspējas ierobežojuma apjomu un ar kuru nodibina personai aizgādnību.
+(1) Ja tiesa uz pierādījumu pamata konstatē, ka personas rīcībspēja ir ierobežojama, tā taisa spriedumu, kurā norāda rīcībspējas ierobežojuma apjomu un ar kuru nodibina personai aizgādnību. Ja pieteikums iesniegts tiesā līdz personas pilngadībai, tiesa spriedumā nosaka personas rīcībspējas ierobežojumu ne agrāk kā ar pilngadības sasniegšanu.
 (2) Tiesa, nosakot rīcībspējas ierobežojuma apjomu, vadās pēc apstākļiem, par kuriem iesniegti pierādījumi. Tiesa, nosakot rīcībspējas ierobežojuma apjomu, pēc lietas dalībnieka lūguma var vērtēt rīcībspējas ierobežošanu tādās jomās kā:
 1) maksājumu izdarīšana un saņemšana;
 2) darījumu slēgšana;

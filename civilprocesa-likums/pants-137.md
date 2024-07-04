@@ -13,3 +13,4 @@
 8) apstākļi, ar kuriem prasītājs pamato prasības nodrošināšanas vai pagaidu aizsardzības nepieciešamību.
 (5) Pieteikumam pievienojami pierādījumi, kas apstiprina apstākļus, ar kuriem pamatota prasības nodrošināšanas vai pagaidu aizsardzības nepieciešamība.
 (6) Jautājumu par prasības nodrošināšanu vai pagaidu aizsardzību pieļaujams izskatīt jebkurā procesa stadijā, kā arī pirms prasības celšanas tiesā.
+(7) Pieteikumu par prasības nodrošināšanu vai pagaidu aizsardzību, ja prasība izskatāma šķīrējtiesā, iesniedz rajona (pilsētas) tiesā pēc parādnieka vai tā mantas atrašanās vietas.

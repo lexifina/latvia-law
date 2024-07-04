@@ -1,0 +1,7 @@
+533.¹ pants. Pieteikuma iesniegšana par šķīrējtiesas sprieduma apstrīdēšanu
+(1) Ja šķīrējtiesas spriedums taisīts Latvijā, pieteicējs 30 dienu laikā no šķīrējtiesas sprieduma vai papildsprieduma taisīšanas dienas var iesniegt pieteikumu par šķīrējtiesas sprieduma apstrīdēšanu, ja pastāv kāds no šā likuma 533.⁴ pantā noteiktajiem pamatiem šķīrējtiesas sprieduma atcelšanai un nav izsniegts izpildu raksts šajā likumā noteiktajā kārtībā.
+(2) Pieteikumu par šķīrējtiesas sprieduma apstrīdēšanu var iesniegt rajona (pilsētas) tiesā pēc ieinteresētās personas deklarētās dzīvesvietas vai juridiskās adreses, bet, ja tādas nav, - pēc ieinteresētās personas dzīvesvietas vai pēc šķīrējtiesas sprieduma izpildes vietas. Ja ieinteresētajai personai nav dzīvesvietas vai juridiskās adreses Latvijā un šķīrējtiesas spriedumam nav nosakāma izpildes vieta, pieteikumu par šķīrējtiesas sprieduma apstrīdēšanu var iesniegt rajona (pilsētas) tiesā pēc šķīrējtiesas atrašanās vietas vai pēc pieteicēja deklarētās dzīvesvietas vai juridiskās adreses.
+(3) Pieteikumam par šķīrējtiesas sprieduma apstrīdēšanu pievieno:
+1) šķīrējtiesas spriedumu;
+2) šķīrējtiesas līgumu, kas apliecina pušu rakstveida vienošanos par civiltiesiskā strīda nodošanu izskatīšanai šķīrējtiesā, ja tas ir pieteicēja rīcībā;
+3) dokumentus, kas apstiprina valsts nodevas nomaksu likumā noteiktajā kārtībā un apmērā, izņemot gadījumu, kad pieteikums iesniegts un samaksa veikta tiešsaistes sistēmā.

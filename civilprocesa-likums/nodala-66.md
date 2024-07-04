@@ -1,2 +1,2 @@
-66.nodaļa
-Šķīrējtiesas nolēmuma izpilde
+66. nodaļa
+Šķīrējtiesas sprieduma apstrīdēšana un izpilde

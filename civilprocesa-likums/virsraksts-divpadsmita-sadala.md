@@ -1,2 +1,2 @@
 Divpadsmitā sadaļa
-Pastāvīgās šķīrējtiesas sprieduma izpildes kārtība
+Šķīrējtiesas sprieduma izpildes kārtība

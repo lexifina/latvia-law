@@ -2,7 +2,7 @@
 (1) Brīdinājums noformējams atbilstoši Ministru kabineta apstiprinātajam paraugam.
 (2) Brīdinājumā norādāms:
 1) brīdinājuma numurs un tās tiesas nosaukums, kura izsaka brīdinājumu;
-2) pieteicējs, maksājuma saistība, saistību pamatojošo dokumentu identificējoša informācija, saistības izpildes termiņš, pieprasītā summa un tās aprēķins, kredītiestādes nosaukums un konta numurs, kurā veicama samaksa, ja tāds ir;
+2) pieteicējs, maksājuma saistība, saistību pamatojošo dokumentu identificējoša informācija vai saistības pamatojums, saistības izpildes termiņš, pieprasītā summa un tās aprēķins, kredītiestādes nosaukums un konta numurs, kurā veicama samaksa, ja tāds ir;
 3) parādnieks;
 4) tas, ka tiesa nav pārbaudījusi prasījuma pamatotību;
 5) priekšlikums parādniekam 14 dienu laikā no brīdinājuma izsniegšanas dienas samaksāt pieteikumā norādīto summu, paziņojot par to tiesai, vai iesniegt tiesā iebildumus;

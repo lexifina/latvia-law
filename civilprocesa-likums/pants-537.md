@@ -1,4 +1,4 @@
-537.pants. Izpildu raksta pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei izsniegšanas atteikuma sekas
-Pēc tam, kad lēmums par atteikumu izsniegt izpildu rakstu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei stājies spēkā:
-1) civiltiesisko strīdu var izšķirt tiesā vispārējā kārtībā, ja izpildu rakstu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei atteikts izsniegt, pamatojoties uz šā likuma 536.panta pirmās daļas 1., 2., 3. un 7.punktu;
-2) civiltiesisko strīdu var atkārtoti nodot izšķiršanai šķīrējtiesā, ja izpildu rakstu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei atteikts izsniegt, pamatojoties uz šā likuma 536.panta pirmās daļas 4., 5. un 6.punktu.
+537. pants. Izpildu raksta šķīrējtiesas sprieduma piespiedu izpildei izsniegšanas atteikuma sekas
+Pēc tam kad lēmums par atteikumu izsniegt izpildu rakstu šķīrējtiesas sprieduma piespiedu izpildei stājies spēkā:
+1) civiltiesisko strīdu var izšķirt tiesa vispārējā kārtībā, ja izpildu rakstu šķīrējtiesas sprieduma piespiedu izpildei atteikts izsniegt, pamatojoties uz šā likuma 533.⁴ panta pirmās daļas 1. vai 3. punktu vai otrās daļas 1. punktu;
+2) civiltiesisko strīdu puses var atkārtoti nodot izšķiršanai šķīrējtiesā, ja izpildu rakstu šķīrējtiesas sprieduma izpildei atteikts izsniegt, pamatojoties uz šā likuma 533.⁴ panta pirmās daļas 2. vai 4. punktu vai otrās daļas 2. punktu, vai arī 536. panta pirmajā daļā norādīto gadījumu - ja šķīrējtiesas spriedums lietas dalībniekiem vēl nav kļuvis saistošs vai arī šķīrējtiesas spriedums ir atcelts valstī, saskaņā ar kuras tiesībām tas tika pieņemts.

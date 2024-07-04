@@ -29,5 +29,5 @@
 20) prasītāji - patērētāju kolektīvajās prasībās.
 (2) Ja prokurors, tās valsts vai pašvaldību iestādes, kurām ar likumu piešķirtas tiesības aizstāvēt tiesā citu personu tiesības un ar likumu aizsargātās intereses, atsakās no pieteikuma, kas iesniegts citas personas labā, bet šī persona prasa lietas izskatīšanu pēc būtības, tiesas izdevumi jāmaksā saskaņā ar vispārīgiem noteikumiem.
 (3) Puses atbrīvojamas no tiesas izdevumu samaksas valsts ienākumos arī citos likumā paredzētajos gadījumos.
-(4) Tiesa vai tiesnesis, ievērojot fiziskās personas mantisko stāvokli, pilnīgi vai daļēji atbrīvo to no tiesas izdevumu samaksas valsts ienākumos, kā arī atliek valsts ienākumos piespriesto tiesas izdevumu samaksu vai sadala to termiņos.
+(4) Tiesa vai tiesnesis, ievērojot personas mantisko stāvokli, pilnīgi vai daļēji atbrīvo to no tiesas izdevumu samaksas valsts ienākumos vai arī atliek valsts ienākumos piespriesto tiesas izdevumu samaksu.
 (5) Prasībās par laulības šķiršanu pēc prasītāja lūguma tiesnesis atliek valsts nodevas samaksu vai sadala to termiņos, ja prasītāja aprūpē ir nepilngadīgs bērns.

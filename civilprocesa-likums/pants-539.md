@@ -4,7 +4,7 @@
 2) tiesas nolēmumi un procesa virzītāja lēmumi vai prokurora priekšraksti krimināllietās daļā par mantiskajām piedziņām;
 3) tiesneša vai tiesas lēmumi lietās par administratīvajiem pārkāpumiem daļā par mantiskajām piedziņām;
 4) tiesas lēmumi par izlīguma apstiprināšanu;
-5) pastāvīgās šķīrējtiesas nolēmumi;
+5) šķīrējtiesas nolēmumi;
 6) ārvalstu tiesu vai kompetento iestāžu un ārvalstu šķīrējtiesu nolēmumi likumā paredzētajos gadījumos;
 7) tiesas vai tiesneša lēmumi par procesuālo sankciju - naudas soda vai piespiedu naudas - piemērošanu;
 8) darba strīdu komisiju lēmumi;

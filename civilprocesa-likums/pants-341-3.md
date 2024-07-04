@@ -1,4 +1,4 @@
 341.³ pants. Tiesiskās aizsardzības procesa pieteikuma saņemšana un reģistrācija
-(1) Tiesiskās aizsardzības procesa pieteikumu tiesa pieņem no parādnieka, kura vārdā tiek iesniegts pieteikums, vai personas, kura ir pilnvarota pieteikuma iesniegšanai. Tiesiskās aizsardzības procesa pieteikumu iesniedz klātienē papīra formā vai tiešsaistes sistēmā.
+(1) Tiesiskās aizsardzības procesa pieteikumu tiesa pieņem no parādnieka, kura vārdā tiek iesniegts pieteikums, vai personas, kura ir pilnvarota pieteikuma iesniegšanai. Tiesiskās aizsardzības procesa pieteikumu iesniedz elektroniski vai papīra formā klātienē.
 (2) Saņēmusi tiesiskās aizsardzības procesa pieteikumu, tiesa pārbauda pieteikuma iesniedzēja personību. Ja nav iespējams pārbaudīt klātienē papīra formā iesniegta pieteikuma iesniedzēja personību vai pieteikuma iesniedzējam nav attiecīga pilnvarojuma, pieteikumu nepieņem.
-(3) Tiesiskās aizsardzības procesa pieteikumu reģistrē atsevišķā reģistrā, kurā parakstās pieteikuma iesniedzējs un saņēmējs. Ja tiesiskās aizsardzības procesa pieteikums saņemts tiešsaistes sistēmā, ierakstu reģistrā veic saņēmējs.
+(3) Tiesiskās aizsardzības procesa pieteikumu, kurš saņemts papīra formā, reģistrē atsevišķā reģistrā, kurā parakstās pieteikuma iesniedzējs un saņēmējs. Ja tiesiskās aizsardzības procesa pieteikums saņemts elektroniski, ierakstu reģistrā veic saņēmējs.
