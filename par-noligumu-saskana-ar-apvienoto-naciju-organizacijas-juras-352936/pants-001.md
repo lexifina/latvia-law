@@ -1,0 +1,1 @@
+1. pants. 2023. gada 20. septembrī Ņujorkā parakstītais Nolīgums saskaņā ar Apvienoto Nāciju Organizācijas Jūras tiesību konvenciju par jūras bioloģiskās daudzveidības saglabāšanu un ilgtspējīgu izmantošanu teritorijās, kas ir ārpus valstu jurisdikcijas (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
