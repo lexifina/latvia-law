@@ -1,0 +1,3 @@
+174.¹ pants. Cietsirdība un vardarbība pret tuvinieku
+Par cietsirdīgu vai vardarbīgu apiešanos ar personu, ar kuru noziedzīgā nodarījuma izdarītājs ir pirmajā vai otrajā radniecības pakāpē, vai pret laulāto vai bijušo laulāto, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājs ir vai ir bijis pastāvīgās intīmās attiecībās, vai pret personu, ar kuru noziedzīgā nodarījuma izdarītājam ir kopīga (nedalīta) saimniecība, ja ar to minētajai personai nodarītas fiziskas vai psihiskas ciešanas un ja šīm darbībām nav bijušas šā likuma 125., 126. vai 130. pantā paredzētās sekas, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību.
