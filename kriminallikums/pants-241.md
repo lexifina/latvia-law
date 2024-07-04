@@ -4,4 +4,4 @@ soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu b
 (2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts mantkārīgā nolūkā, -
 soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (3) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa vai ja tās izraisījušas smagas sekas, vai ja tās vērstas pret automatizētu datu apstrādes sistēmu, kas apstrādā informāciju, kura saistīta ar valsts politisko, ekonomisko, militāro, sociālo vai citu drošību, -
-soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
+soda ar brīvības atņemšanu uz laiku līdz septiņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās.
