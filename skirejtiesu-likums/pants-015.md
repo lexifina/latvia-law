@@ -1,5 +1,5 @@
 15.pants. Persona, kuru nevar iecelt par šķīrējtiesnesi
-Par šķīrējtiesnesi nevar iecelt personu:
+Pastāvīgā šķīrējtiesa šķīrējtiesnešu sarakstā nevar iekļaut un rajona (pilsētas) tiesa par šķīrējtiesnesi nevar iecelt personu:
 1) kura neatbilst šā likuma 14.panta otrās daļas prasībām;
 2) kura kriminālprocesā par tīša noziedzīga nodarījuma izdarīšanu atzīta par aizdomās turēto vai apsūdzēto;
 3) pret kuru kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts uz nereabilitējoša pamata;

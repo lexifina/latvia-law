@@ -1,3 +1,3 @@
-33.pants. Prasības nodrošinājums pirms prasības celšanas strīdos, kas pakļauti izšķiršanai šķīrējtiesā
-(1) Pēc iespējamā prasītāja pieteikuma rajona (pilsētas) tiesa pēc parādnieka vai viņa mantas atrašanās vietas var Civilprocesa likumā noteiktajā kārtībā nodrošināt prasību pirms tās celšanas. Tā pati rajona (pilsētas) tiesa pēc puses vai šķīrējtiesas sastāva lūguma lemj par prasības nodrošinājuma atcelšanu vai grozīšanu.
+33. pants. Prasības nodrošinājums un pagaidu aizsardzība strīdos, kas pakļauti izšķiršanai šķīrējtiesā
+(1) Par prasības nodrošinājumu un pagaidu aizsardzību strīdos, kas pakļauti izšķiršanai šķīrējtiesā, lemj rajona (pilsētas) tiesa Civilprocesa likumā noteiktajā kārtībā. Tā pati rajona (pilsētas) tiesa pēc puses motivēta lūguma lemj par prasības nodrošinājuma vai pagaidu aizsardzības atcelšanu vai grozīšanu.
 (2) Pieteikums par prasības nodrošinājumu vai pieteikums par prasības nodrošinājuma grozīšanu nav uzskatāms par šķīrējtiesas līguma neievērošanu un nav šķērslis civiltiesiskā strīda izšķiršanai šķīrējtiesā.

@@ -1,0 +1,4 @@
+41.¹ pants. Šķīrējtiesas lūgums par pierādījumu iegūšanu
+(1) Šķīrējtiesa var lūgt rajona (pilsētas) tiesu Civilprocesa likumā noteiktajā kārtībā veikt nepieciešamās procesuālās darbības pierādījumu iegūšanai, ja šķīrējtiesai, kura izskata lietu, nav iespējams iegūt pierādījumus, kuriem var būt būtiska nozīme lietā.
+(2) Lūgumā par pierādījumu iegūšanu norāda šķīrējtiesas procesa puses, izskatāmās lietas būtību un apstākļus, kuri jānoskaidro, kā arī konkrētus pierādījumus, kas jāsavāc tiesai, kura izpilda lūgumu. Ja lūgts nopratināt liecinieku, norāda lieciniekam uzdodamos jautājumus.
+(3) Civilprocesa likumā noteiktos izdevumus, kas saistīti ar lūgumu par pierādījumu iegūšanu šā panta pirmajā daļā noteiktajos gadījumos, šķīrējtiesā iemaksā tā puse, kura izteikusi attiecīgo lūgumu šķīrējtiesai. Ja minēto lūgumu izteikušas abas puses, tās iemaksā ar pierādījumu iegūšanu saistītos izdevumus vienādā apmērā.

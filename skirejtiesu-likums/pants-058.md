@@ -1,4 +1,4 @@
-58.pants. Šķīrējtiesas sprieduma izpildīšanas kārtība
+58.pants. Šķīrējtiesas sprieduma apstrīdēšanas un izpildīšanas kārtība
 (1) Šķīrējtiesas spriedums pusēm ir obligāts un izpildāms labprātīgi tajā noteiktajā termiņā. Labprātīgai sprieduma izpildei noteiktais termiņš nav īsāks par 10 dienām.
-(2) Ja šķīrējtiesas spriedums izpildāms Latvijā, bet netiek labprātīgi pildīts, ieinteresētā puse ir tiesīga Civilprocesa likumā noteiktajā kārtībā vērsties rajona (pilsētas) tiesā ar pieteikumu par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei.
-(3) Pastāvīgā šķīrējtiesa pēc rajona (pilsētas) tiesas pieprasījuma izsniedz tās pieprasīto informāciju, kas nepieciešama lēmuma pieņemšanai par izpildu raksta izsniegšanu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei, vai arī lēmumu par atteikumu izsniegt izpildu rakstu pastāvīgās šķīrējtiesas sprieduma piespiedu izpildei.
+(2) Puse var Civilprocesa likumā noteiktajā kārtībā vērsties rajona (pilsētas) tiesā ar pieteikumu par šķīrējtiesas sprieduma apstrīdēšanu vai, ja šķīrējtiesas spriedums izpildāms Latvijā, bet netiek labprātīgi pildīts, - ar pieteikumu par izpildu raksta izsniegšanu šķīrējtiesas sprieduma piespiedu izpildei.
+(3) Pastāvīgā šķīrējtiesa pēc rajona (pilsētas) tiesas pieprasījuma izsniedz tās pieprasīto informāciju, kas nepieciešama pieteikuma izskatīšanai par pastāvīgās šķīrējtiesas sprieduma apstrīdēšanu vai izpildu raksta izsniegšanu šķīrējtiesas sprieduma piespiedu izpildei.
