@@ -1,0 +1,2 @@
+7.¹ pants. Valsts aizsardzības mācības izglītojamā un jaunsarga atbildība par zaudējumu nodarīšanu
+Ja valsts aizsardzības mācības izglītojamais vai jaunsargs savas prettiesiskas, vainojamas rīcības dēļ ir sabojājis viņam izsniegtos materiāltehniskos līdzekļus un nodarījis zaudējumus, tos valsts aizsardzības mācības izglītojamam vai jaunsargam, ja ir sasniegta pilngadība, vai nepilngadīga izglītojamā likumiskajam pārstāvim nepieciešams atlīdzināt.

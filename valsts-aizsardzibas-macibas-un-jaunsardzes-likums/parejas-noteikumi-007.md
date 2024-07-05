@@ -1,0 +1,1 @@
+7. Persona, kura pilda jaunsargu instruktora amata pienākumus, bet neatbilst šā likuma 2.² panta otrās daļas prasībām, ir tiesīga turpināt jaunsargu instruktora amata pienākumu pildīšanu ne ilgāk kā līdz 2027. gada 31. augustam.
