@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2021. gada 24. novembra direktīvas (ES) 2021/2167 par kredītu apkalpotājiem un kredītu pircējiem un ar ko groza direktīvas 2008/48/EK un 2014/17/ES.

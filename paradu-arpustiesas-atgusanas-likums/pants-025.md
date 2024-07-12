@@ -1,0 +1,4 @@
+25. pants. Parāda atgūšanas pakalpojuma sniedzēju vai citu subjektu izmantošana
+(1) Kredītu pircējs vai tā pārstāvis ne vēlāk kā ienākumus nenesošu kreditēšanas līgumu apkalpošanas darbību uzsākšanas dienā paziņo Patērētāju tiesību aizsardzības centram tā iecelto parāda atgūšanas pakalpojuma sniedzēju vai šā likuma 3.¹ panta 1. vai 3. punktā noteikto subjektu nosaukumu, reģistrācijas numuru un juridisko adresi.
+(2) Ja šā panta pirmajā daļā noteiktajā kārtībā paziņotais parāda atgūšanas pakalpojuma sniedzējs vai šā likuma 3.¹ panta 1. vai 3. punktā noteiktais subjekts tiek mainīts, kredītu pircējs vai pārstāvis izmaiņu dienā par to paziņo Patērētāju tiesību aizsardzības centram.
+(3) Patērētāju tiesību aizsardzības centrs nekavējoties nosūta uzņemošās dalībvalsts uzraudzības un kontroles iestādei un Eiropas Savienības dalībvalsts uzraudzības un kontroles iestādei, kurā kredīts piešķirts, šā panta pirmās un otrās daļas kārtībā saņemto informāciju.

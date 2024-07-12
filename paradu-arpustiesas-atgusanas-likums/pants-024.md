@@ -1,0 +1,5 @@
+24. pants. Kredītu pircēja pienākumi
+(1) Kredītu pircējam ir pienākums ienākumus nenesošu kreditēšanas līgumu apkalpošanas darbību veikšanai pilnvarot parāda atgūšanas pakalpojuma sniedzēju vai šā likuma 3.¹ panta 1. vai 3. punktā noteikto subjektu, ja ienākumus nenesošs kreditēšanas līgums ir noslēgts ar patērētāju.
+(2) Kredītu pircēja pārstāvim ir pienākums kredīta apkalpošanas darbību veikšanai iecelt parāda atgūšanas pakalpojuma sniedzēju vai šā likuma 3.¹ panta 1. vai 3. punktā noteikto subjektu, ja ienākumus nenesošs kreditēšanas līgums ir noslēgts ar fiziskajām personām, tai skaitā patērētājiem un juridiskajām personām.
+(3) Kredītu pircēja darbību regulē šis likums, kā arī nacionālie un Eiropas Savienības tiesību akti patērētāju tiesību aizsardzības jomā.
+(4) Parāda atgūšanas pakalpojuma sniedzējs vai šā likuma 3.¹ panta 1. vai 3. punktā noteiktais subjekts kredītu pircēja vārdā izpilda šā panta trešajā daļā un 25. un 27. pantā minētos pienākumus. Ja parāda atgūšanas pakalpojuma sniedzējs vai šā likuma 3. panta astotās daļas 1. vai 3. punktā noteiktais subjekts nav pilnvarots, šos pienākumus pilda kredītu pircējs vai tā pārstāvis.

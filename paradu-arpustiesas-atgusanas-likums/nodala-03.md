@@ -1,2 +1,2 @@
 III nodaļa
-Parāda atgūšanā īstenojamā saskarsme
+Parāda atgūšanā, kā arī ienākumus nenesoša kreditēšanas līguma apkalpošanā īstenojamā saskarsme

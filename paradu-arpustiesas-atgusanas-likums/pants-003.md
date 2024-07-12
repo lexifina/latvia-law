@@ -6,3 +6,4 @@
 (5) Šā likuma III nodaļā noteiktās kreditora tiesības un pienākumi piemērojami, ja kreditors ir saimnieciskās vai profesionālās darbības veicējs.
 (6) Ja parāda atgūšana tiek vērsta pret galvinieku, kas ir fiziskā persona un darbojas ārpus savas saimnieciskās vai profesionālās darbības ietvariem, piemērojamas šā likuma normas, kuras reglamentē parāda atgūšanu no parādnieka.
 (7) Parāda atgūšanu cesionārs veic, ievērojot šajā likumā paredzētās kreditora tiesības un pienākumus. Ja cesionārs prasījuma tiesības uz cesijas pamata ieguvis savas saimnieciskās vai profesionālās darbības ietvaros, uz cesionāru attiecināmas šajā likumā paredzētās parāda atgūšanas pakalpojuma sniedzēja tiesības un pienākumi.
+(8) Šā likuma VI, VII un VIII nodaļa piemērojama gadījumos, kad parāda atgūšanas pakalpojuma sniedzējs apkalpo ienākumus nenesošu kreditēšanas līgumu.
