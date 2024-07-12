@@ -9,12 +9,21 @@
 7) komercsabiedrību, kurā šā reģistra dalībnieka klientam, klienta galviniekam, iespējamam klientam vai iespējamam klienta galviniekam ir būtiska līdzdalība;
 8) šā reģistra dalībnieka klienta, klienta galvinieka, iespējamā klienta vai iespējamā klienta galvinieka padomes locekli (ja padome ir izveidota) un valdes locekli;
 9) (izslēgts ar 21.12.2017. likumu);
-10) (izslēgts ar 21.12.2017. likumu).
-(1¹) Ja reģistra dalībnieks atsakās noslēgt klienta līgumu vai klienta galvinieka līgumu vai atsakās pārņemt no klienta vai klienta galvinieka līguma izrietošas tiesības un saistības vai prasījuma tiesības, reģistra dalībniekam turpmāk nav tiesību saņemt reģistrā iekļautās ziņas, kas attiecas uz šā panta pirmajā daļā minēto personu.
+10) (izslēgts ar 21.12.2017. likumu);
+11) personu, ar kuru šis reģistra dalībnieks, pamatojoties uz rakstveida līgumu, veic Kvalificētajiem finanšu darījumiem piemērojamā izslēdzošā ieskaita likuma 5. pantā minēto finanšu darījumu vai Eiropas Parlamenta un Padomes 2015. gada 25. novembra regulas (ES) 2015/2365 par vērtspapīru finansēšanas darījumu un atkalizmantošanas pārredzamību un ar ko groza regulu (ES) Nr. 648/2012 3. panta 11. punktā minēto vērtspapīru finansēšanas darījumu;
+12) personu, kura vērsusies pie šā reģistra dalībnieka par šā panta pirmās daļas 11. punktā minētā darījuma veikšanu, iesniedzot šim reģistra dalībniekam šā likuma 1. panta 7. punkta "a" apakšpunktā minētajām prasībām atbilstošu pieteikumu;
+13) personu, kurai ir būtiska līdzdalība tādā komercsabiedrībā, ar kuru šis reģistra dalībnieks veic šā panta pirmās daļas 11. punktā minēto darījumu, vai kura pie šā reģistra dalībnieka ir vērsusies ar pieteikumu par šāda darījuma veikšanu, iesniedzot šim reģistra dalībniekam šā likuma 1. panta 7. punkta "a" apakšpunktā minētajām prasībām atbilstošu pieteikumu;
+14) personu, kura ir šā panta pirmās daļas 11. vai 12. punktā minētās personas patiesais labuma guvējs Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē, un to apliecina Latvijas Republikas vai ārvalsts informācijas sistēmā reģistrētas ziņas vai dokumenti;
+15) komercsabiedrību, kura ir šā panta pirmās daļas 11. vai 12. punktā minētās personas meitas sabiedrība, un uz katru nākamo šādas meitas sabiedrības meitas sabiedrību;
+16) komercsabiedrību, kurā šā panta pirmās daļas 11. vai 12. punktā minētajai personai ir būtiska līdzdalība;
+17) šā panta pirmās daļas 11. vai 12. punktā minētās personas padomes locekli (ja padome ir izveidota) un valdes locekli.
+(1¹) Ja reģistra dalībnieks atsakās noslēgt klienta līgumu vai klienta galvinieka līgumu vai atsakās pārņemt no klienta vai klienta galvinieka līguma izrietošas tiesības un saistības vai prasījuma tiesības, vai atsakās noslēgt līgumu par šā panta pirmās daļas 11. punktā minētā darījuma veikšanu, reģistra dalībniekam turpmāk nav tiesību saņemt reģistrā iekļautās ziņas, kas attiecas uz šā panta pirmajā daļā minēto personu.
+(1²) Šā panta pirmajā daļā paredzētās šā likuma 1. panta 2. punkta "b" apakšpunktā minētā reģistra dalībnieka tiesības ir tiesīgs izmantot arī šā likuma 1. panta 2. punkta "a" apakšpunktā minētais reģistra dalībnieks, ar kuru attiecīgajam šā likuma 1. panta 2. punkta "b" apakšpunktā minētajam reģistra dalībniekam ir ciešas attiecības Kredītiestāžu likuma izpratnē.
 (2) Reģistra dalībniekam nav tiesību saņemt:
 1) cita reģistra dalībnieka vai cita ierobežota reģistra dalībnieka reģistrā iekļautās finanšu tirgus dalībnieku uzraudzības un makroekonomiskās analīzes ziņas;
 2) ziņas, kas ļauj identificēt citu reģistra dalībnieku vai citu ierobežotu reģistra dalībnieku, kurš reģistrā iekļāvis šā panta pirmajā daļā minētās ziņas;
 3) ziņas par reģistrā iekļauto ziņu pieprasīšanu, ko veicis cits reģistra dalībnieks, cits ierobežots reģistra dalībnieks, Valsts kase, klients, klienta galvinieks, patērētāja kreditors vai cita persona.
+(2¹) Šā panta otrās daļas 1. un 2. punktu nepiemēro šā likuma 1. panta 2. punkta "a" apakšpunktā minētā reģistra dalībnieka tiesībām saņemt ziņas, kuras reģistrā iekļāvis šā likuma 1. panta 2. punkta "b" apakšpunktā minētais reģistra dalībnieks, kuram Kredītiestāžu likuma izpratnē ir ciešas attiecības ar attiecīgo šā likuma 1. panta 2. punkta "a" apakšpunktā minēto reģistra dalībnieku.
 (3) Ierobežotam reģistra dalībniekam ir tiesības saņemt reģistrā iekļautās ziņas par šā ierobežotā reģistra dalībnieka klientu un klienta galvinieku.
 (4) Ierobežotam reģistra dalībniekam nav tiesību saņemt:
 1) šā panta otrajā daļā minētās ziņas;

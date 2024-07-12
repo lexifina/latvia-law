@@ -1,0 +1,1 @@
+13. Latvijas Banka šā likuma 20.¹ panta pirmajā daļā noteiktās ziņas par 2024. gadu Patērētāju tiesību aizsardzības centram elektroniskā veidā pirmo reizi sniedz ne vēlāk kā līdz 2025. gada 15. martam.
