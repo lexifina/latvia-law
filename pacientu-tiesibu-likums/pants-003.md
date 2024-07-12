@@ -5,3 +5,4 @@
 (4) Aizliegts sodīt pacientu vai citādi tieši vai netieši radīt viņam nelabvēlīgus apstākļus, ja pacients aizstāv savas tiesības.
 (5) Pacientam un viņa tuviniekiem ir tiesības saņemt garīgo aprūpi, kuru saskaņā ar kapelānu dienestu un reliģisko organizāciju darbību regulējošiem normatīvajiem aktiem sniedz ārstniecības iestādes kapelāns.
 (6) Veselības aprūpe pret pacienta gribu nav pieļaujama, ja likumā nav noteikts citādi.
+(7) (Daļa stājas spēkā 01.07.2025. un iekļauta likuma redakcijā uz 01.07.2025. Sk. pārejas noteikumu 7. punktu)
