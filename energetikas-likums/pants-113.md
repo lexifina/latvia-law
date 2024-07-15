@@ -4,7 +4,7 @@ Dabasgāzes pārvades sistēmas operatoram papildus šā likuma 15.pantā noteik
 2) nodrošināt dabasgāzes piegādi sadales sistēmai atbilstoši dabasgāzes sadales sistēmas operatoru pamatotam pieprasījumam;
 3) nodrošināt dabasgāzes plūsmu vadību dabasgāzes pārvades sistēmā atbilstoši sistēmas tehniskajām iespējām un saskaņā ar diskrimināciju nepieļaujošiem nosacījumiem dabasgāzes saņemšanai no ārvalstīm un aizvadīšanai uz ārvalstīm;
 4) nodrošināt lietotāju vai atsevišķu kategoriju sistēmu lietotāju nediskriminējošas procedūras un darbības;
-5) sniegt citiem dabasgāzes pārvades sistēmas operatoriem, dabasgāzes uzglabāšanas sistēmas operatoriem, sašķidrinātās dabasgāzes sistēmas operatoriem un dabasgāzes sadales sistēmas operatoriem nepieciešamo informāciju, lai dabasgāzes transportēšanu un uzglabāšanu varētu veikt, neapdraudot savstarpēji savienotas sistēmas drošu un efektīvu darbību;
+5) sniegt Eiropas Savienības dalībvalstu dabasgāzes pārvades sistēmas operatoriem, dabasgāzes uzglabāšanas sistēmas operatoriem, sašķidrinātās dabasgāzes sistēmas operatoriem un dabasgāzes sadales sistēmas operatoriem nepieciešamo informāciju, lai dabasgāzes transportēšanu un uzglabāšanu varētu veikt, neapdraudot dalībvalstu savstarpēji savienoto dabasgāzes apgādes sistēmu drošu un efektīvu darbību;
 6) sniegt dabasgāzes pārvades sistēmas lietotājiem informāciju, kas nepieciešama efektīvai piekļuvei pārvades sistēmai;
 7) nodrošināt pietiekamas pārrobežu pārvades jaudas, lai integrētos Eiropas pārvades infrastruktūrā, izpildot visas ekonomiski pamatotās un tehniski īstenojamās prasības, kas attiecas uz sistēmas jaudu piegādes drošumu;
 8) informēt regulatoru par visiem apstākļiem, kuru dēļ kāda persona vai personas no trešās valsts vai trešajām valstīm varētu iegūt kontroli pār dabasgāzes pārvades sistēmu vai dabasgāzes pārvades sistēmas operatoru;
@@ -15,4 +15,5 @@ Dabasgāzes pārvades sistēmas operatoram papildus šā likuma 15.pantā noteik
 13) uzturēt kontaktus ar trešajām personām (sistēmas lietotājiem un pretendentiem) un regulatoru;
 14) iekasēt visus maksājumus, kas ir saistīti ar dabasgāzes pārvades sistēmu (tostarp piekļuves maksu, balansēšanas maksu un maksu par palīgpakalpojumiem);
 15) nodrošināt tās ierobežotas pieejamības informācijas aizsardzību, kuru tas, pildot savus pienākumus, ir saņēmis no sistēmas lietotājiem un tirgus dalībniekiem;
-16) nodrošināt savstarpēji savienotajā sistēmā ievadāmās gāzes uzskaiti un kvalitātes kontroli.
+16) veikt dabasgāzes pārvades sistēmā, tostarp pieslēgumā ar dabasgāzes ražotāja un sašķidrinātās dabasgāzes termināļa operatora sistēmu, ievadāmās dabasgāzes uzskaiti, kvalitātes kontroli un odorizāciju, ja dabasgāzi paredzēts piegādāt galalietotājiem, un nodrošināt tam nepieciešamo iekārtu kopuma ierīkošanu;
+17) attīstīt dabasgāzes pārvades sistēmu no atjaunīgajiem energoresursiem saražotā vai iegūtā gāzveida kurināmā un mazoglekļa gāzveida kurināmā, tostarp ūdeņraža, drošai ievadīšanai dabasgāzes pārvades sistēmā.

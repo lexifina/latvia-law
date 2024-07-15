@@ -7,4 +7,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 6) Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/692, ar ko groza direktīvu 2009/73/EK par kopīgiem noteikumiem attiecībā uz dabasgāzes iekšējo tirgu;
 7) Eiropas Parlamenta un Padomes 2019. gada 5. jūnija direktīvas (ES) 2019/944 par kopīgiem noteikumiem attiecībā uz elektroenerģijas iekšējo tirgu un ar ko groza direktīvu 2012/27/ES;
 8) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2002, ar ko groza direktīvu 2012/27/ES par energoefektivitāti;
-9) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2001 par no atjaunojamajiem energoresursiem iegūtas enerģijas izmantošanas veicināšanu.
+9) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2001 par no atjaunojamajiem energoresursiem iegūtas enerģijas izmantošanas veicināšanu;
+10) Eiropas Parlamenta un Padomes 2023. gada 18. oktobra direktīvas (ES) 2023/2413, ar ko attiecībā uz atjaunīgo energoresursu enerģijas izmantošanas veicināšanu groza direktīvu (ES) 2018/2001, regulu (ES) 2018/1999 un direktīvu 98/70/EK un atceļ Padomes direktīvu (ES) 2015/652;
+11) Eiropas Parlamenta un Padomes 2023. gada 13. septembra direktīvas (ES) 2023/1791 par energoefektivitāti un ar ko groza regulu (ES) 2023/955.

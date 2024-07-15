@@ -3,7 +3,7 @@
 1) nodrošina sistēmas darbību, tehnisko ekspluatāciju un attīstību, lai veiktu dabasgāzes iesūknēšanu, uzglabāšanu un izņemšanu atbilstoši tehniskajām iespējām;
 2) uzglabā atsevišķiem enerģijas lietotājiem piederošu dabasgāzes rezervi par šo lietotāju līdzekļiem, ja to pieļauj dabasgāzes krātuves tehniskās iespējas;
 3) nediskriminē dabasgāzes krātuves lietotājus, jo īpaši par labu savām saistītajām kapitālsabiedrībām;
-4) nodrošina citiem dabasgāzes uzglabāšanas sistēmas operatoriem, sašķidrinātās dabasgāzes sistēmas operatoriem, dabasgāzes pārvades sistēmas operatoriem un dabasgāzes sadales sistēmas operatoriem nepieciešamo informāciju, lai dabasgāzes pārvadi un uzglabāšanu varētu veikt, neapdraudot savstarpēji savienotu sistēmu drošu un efektīvu darbību;
+4) nodrošina Eiropas Savienības dalībvalstu dabasgāzes uzglabāšanas sistēmas operatoriem, sašķidrinātās dabasgāzes sistēmas operatoriem, dabasgāzes pārvades sistēmas operatoriem un dabasgāzes sadales sistēmas operatoriem nepieciešamo informāciju, lai dabasgāzes pārvadi un uzglabāšanu varētu veikt, neapdraudot dalībvalstu savstarpēji savienotu dabasgāzes apgādes sistēmu drošu un efektīvu darbību;
 5) sniedz sistēmas lietotājiem informāciju, kas nepieciešama, lai efektīvi piekļūtu dabasgāzes krātuvei;
 6) iepērkot dabasgāzi savu funkciju veikšanai, ievēro pārredzamas un nediskriminējošas tirgus procedūras;
 7) organizē iespējamo avāriju lokalizāciju un likvidāciju dabasgāzes krātuvē.

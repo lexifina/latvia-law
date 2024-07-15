@@ -1,0 +1,1 @@
+84. Ministru kabinets līdz 2024. gada 31. augustam izdod šā likuma 58.¹³ panta otrajā daļā minētos noteikumus. Šā likuma 58.¹² panta otrajā daļā minētais vienotais kontaktpunkts uzsāk darbu sešu mēnešu laikā pēc Ministru kabineta noteikumu stāšanās spēkā.

@@ -1,0 +1,1 @@
+95. Siltumapgādes sistēmas operators, kura triju gadu vidējais lietotājiem piegādātās siltumenerģijas apjoms pārsniedz 2 000 000 megavatstundu gadā, līdz 2024. gada 31. augustam izstrādā šā likuma 49. panta 1.⁴ daļā minēto metodiku.

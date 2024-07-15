@@ -1,0 +1,6 @@
+58.⁴ pants
+(1) Elektroenerģijas, gāzveida kurināmā, siltumenerģijas vai aukstumenerģijas ražošanai no atjaunīgajiem energoresursiem Latvija var sadarboties ar citu Eiropas Savienības dalībvalsti vai trešo valsti, tai skaitā ar Eiropas Savienības dalībvalsts vai trešās valsts komersantiem, kopīgi īstenojot attiecīgu kopprojektu.
+(2) Klimata un enerģētikas ministrija sagatavo ziņojumu, kurā izvērtē Latvijas iespējas sadarboties ar citu Eiropas Savienības dalībvalsti vai trešo valsti, tai skaitā ar Eiropas Savienības dalībvalsts vai trešās valsts komersantiem, un šādas sadarbības ietvaros nodrošināmo šā panta pirmajā daļā minētās atjaunīgās enerģijas apjomu. Šo ziņojumu iesniedz Ministru kabinetam.
+(3) Ministru kabinets, apstiprinot šā panta otrajā daļā minēto ziņojumu, var pieņemt lēmumu par šā panta pirmajā daļā minētā kopprojekta īstenošanu.
+(4) Kopprojektu no Latvijas puses īsteno šā panta trešajā daļā minētajā lēmumā noteiktā atbildīgā ministrija sadarbībā ar attiecīgajām nozaru ministrijām. Atbildīgā ministrija izstrādā un Ministru kabinets apstiprina katra kopprojekta nosacījumus.
+(5) Ministru kabinets nosaka kopprojektu īstenošanas, uzraudzības un ar tiem saistītās informācijas aprites kārtību, kā arī nosacījumus atjaunīgās enerģijas apjoma ieskaitīšanai atjaunīgās enerģijas statistikā.

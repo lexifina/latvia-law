@@ -1,8 +1,8 @@
 19.pants
-(1) Jaunu energoapgādes komersantu objektu ierīkošanai energoapgādes komersantam ir tiesības izmantot jebkuru zemi par vienreizēju samaksu tās īpašniekam saskaņā ar šā likuma 24.pantu.
+(1) Jaunu energoapgādes komersantu objektu (izņemot enerģijas ražotāju un tirgotāju objektus) ierīkošanai energoapgādes komersantam ir tiesības izmantot jebkuru zemi par vienreizēju samaksu tās īpašniekam saskaņā ar šā likuma 24.pantu.
 (1¹) Energoapgādes komersantam ir pienākums saskaņot ar zemes īpašnieku jaunu energoapgādes objektu ierīkošanas nosacījumus, kā arī tiesības saskaņošanas procedūru aizstāt ar zemes īpašnieka informēšanu gadījumos, ja zeme tiek izmantota jaunu energoapgādes komersanta objektu - iekārtu, ierīču, ietaišu, tīklu, līniju un to piederumu ierīkošanai, ja ir iestājies vismaz viens no šādiem nosacījumiem:
 1) energoapgādes komersanta objekta ierīkošana paredzēta vietējās pašvaldības teritorijas plānojumā vai detālplānojumā;
-2) energoapgādes komersanta objekts tiek ierīkots sarkano līniju, publiski lietojamās ielas, tāda ceļa robežās, kam nav noteiktas sarkanās līnijas, vai esošās aizsargjoslas robežās;
+2) energoapgādes komersanta objekts tiek ierīkots sarkano līniju, publiski lietojamās ielas, tāda ceļa robežās, kam nav noteiktas sarkanās līnijas, vai šā paša energoapgādes komersanta objekta esošajā aizsargjoslā;
 3) vietējā pašvaldība atzinusi, ka sabiedrības interesēs jauna energoapgādes komersanta objekta ierīkošana vai esošā objekta vai tā daļas izmantošana nav iespējama bez šīs zemes izmantošanas;
 3¹) energoapgādes komersanta objekts tiek ierīkots esošajā energoapgādes komersanta objekta aizsargjoslā un pēc tā ierīkošanas aizsargjoslas platums palielinās ne vairāk kā par 10 procentiem, ievērojot, ka šajā punktā noteiktajā kārtībā aizsargjoslu var palielināt ne vairāk kā vienu reizi;
 3²) ierīkojamam energoapgādes komersanta objektam ir noteikts nacionālo interešu objekta statuss un ir veikts ietekmes uz vidi novērtējums;

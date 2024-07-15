@@ -1,3 +1,14 @@
-51.pants
-(1) Pašvaldības, veicot likumā noteikto pastāvīgo funkciju, organizē siltumapgādi savā administratīvajā teritorijā, kā arī veicina energoefektivitāti un konkurenci siltumapgādes un kurināmā tirgū.
-(2) Pašvaldības savas administratīvās teritorijas plānojuma ietvaros, ņemot vērā vides un kultūras pieminekļu aizsardzības noteikumus, kā arī vietējo energoresursu izmantošanas un koģenerācijas iespējas un izvērtējot siltumapgādes drošumu un ilgtermiņa robežizmaksas, var noteikt siltumapgādes attīstību un izdodot saistošos noteikumus.
+51. pants
+(1) Pašvaldības, pildot Pašvaldību likumā noteikto autonomo funkciju, organizē siltumapgādi savā administratīvajā teritorijā, ievērojot normatīvajos aktos noteiktos efektīvas siltumapgādes sistēmas un efektīvas aukstumapgādes sistēmas kritērijus, kā arī veicina energoefektivitāti un konkurenci siltumapgādes un kurināmā tirgū.
+(2) Pašvaldības, organizējot siltumapgādi savā administratīvajā teritorijā, ievēro vides un kultūras pieminekļu aizsardzības prasības, bet, plānojot piegādājamo siltumenerģijas apjomu un nepieciešamo siltumenerģijas ražošanas jaudu, izvērtē arī vietējo energoresursu, koģenerācijas un triģenerācijas izmantošanas iespējas un siltumapgādes drošību, nepārtrauktību un ilgtspēju.
+(3) Pašvaldības, organizējot siltumapgādi savā administratīvajā teritorijā, ievēro visus šādus mērķus:
+1) Latvijai noteiktos siltumnīcefekta gāzu emisiju samazināšanas mērķus 2030. gadam un Latvijas klimatneitralitātes mērķi 2050. gadam;
+2) Latvijai noteiktos gaisu piesārņojošo vielu emisiju samazināšanas mērķus;
+3) Latvijas atjaunīgās enerģijas īpatsvara mērķus siltumapgādē, centralizētajā siltumapgādē un ēkās;
+4) Latvijas importēto vai ievesto energoresursu (izņemot atjaunīgos energoresursus) apjoma samazināšanas mērķi;
+5) enerģētiskās nabadzības skarto Latvijas mājsaimniecību skaita samazināšanas mērķi.
+(4) Lai samazinātu siltumapgādes radītās siltumnīcefekta gāzu emisijas, palielinātu atjaunīgās enerģijas īpatsvaru siltumapgādē un ēkās, kā arī samazinātu importēto vai ievesto energoresursu apjomu, pašvaldība ir tiesīga saistošajos noteikumos paredzēt siltumapgādes veidus savā administratīvajā teritorijā vai tās daļā. Pašvaldība var noteikt:
+1) pienākumu pieslēgties efektīvai centralizētai siltumapgādes sistēmai tur, kur tas ir ekonomiski un tehniski pamatoti, šo prasību attiecinot uz jaunām triju vai vairāku dzīvokļu mājām un nedzīvojamām ēkām, kā arī uz šo ēku renovācijas procesu, ja tiek renovēta arī ēku siltumapgādes sistēma;
+2) attiecībā uz jaunām viena dzīvokļa mājām vai uz šādu māju renovācijas procesu, ja citstarp tiek renovēta arī šādas mājas siltumapgādes sistēma, pienākumu izmantot efektīvu bezemisiju siltumapgādes tehnoloģiju, kas savā darbībā nerada siltumnīcefekta gāzu emisijas vai gaisu piesārņojošo vielu emisijas, vai efektīvu tehnoloģiju, kurā tiek izmantoti atjaunīgie energoresursi;
+3) citus siltumapgādes veida izvēles ierobežojumus atbilstoši gaisa aizsardzības normatīvo aktu prasībām.
+(5) Pašvaldības dome saistošos noteikumus, kas attiecas uz šā panta ceturtajā daļā minētajiem pienākumiem vai ierobežojumiem, triju darbdienu laikā pēc parakstīšanas un pirms izsludināšanas rakstveidā nosūta atzinuma sniegšanai Klimata un enerģētikas ministrijai, kā arī Vides aizsardzības un reģionālās attīstības ministrijai, kas sniedz atzinumu attiecībā uz gaisa kvalitātes nosacījumiem.

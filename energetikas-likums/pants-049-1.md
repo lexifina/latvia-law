@@ -1,0 +1,4 @@
+49.¹ pants
+(1) Ministru kabinets nosaka efektīvas centralizētās siltumapgādes un efektīvas centralizētās aukstumapgādes kritērijus, tajā izmantojamos enerģijas veidus un to īpatsvaru.
+(2) Centralizētās siltumapgādes sistēmas operatori un centralizētās aukstumapgādes sistēmas operatori, kas neatbilst efektīvas centralizētās siltumapgādes un centralizētās aukstumapgādes kritērijiem, sagatavo plānu primārās enerģijas efektīvāka patēriņa nodrošināšanai, siltumenerģijas un aukstumenerģijas sadales zudumu samazināšanai un atjaunīgās enerģijas īpatsvara palielināšanai siltumapgādē un aukstumapgādē.
+(3) Ministru kabinets nosaka šā panta otrajā daļā minēto centralizētās siltumapgādes sistēmas operatoru un centralizētās aukstumapgādes sistēmas operatoru noteikšanas kārtību, sagatavojamā plāna saturu, atjaunošanas biežumu un kompetento institūciju, kas izskata un apstiprina plānu.

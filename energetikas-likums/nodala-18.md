@@ -1,0 +1,2 @@
+XVIII nodaļa
+Papildu noteikumi
