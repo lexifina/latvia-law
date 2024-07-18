@@ -1,0 +1,2 @@
+91.¹ pants. Nodrošinājuma aģenta iecelšana, aizstāšana un atcelšana
+Ja no parāda vērtspapīriem izrietošie prasījumi ir nodrošināti ar hipotēku, komercķīlu, finanšu nodrošinājumu, galvojumu vai citu nodrošinājumu, atbilstoši informācijas dokumentam, emisijas noteikumiem vai prospektam prasījuma apmierināšanas nolūkā var tikt iecelts, aizstāts un atcelts nodrošinājuma aģents. Nodrošinājuma aģenta iecelšanas mērķis ir veicināt no parāda vērstpapīriem izrietošo prasījumu apmierināšanu.
