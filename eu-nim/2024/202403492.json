@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 15. jūlija noteikumi Nr. 305 \"Grozījumi Latvijas Bankas 2018. gada 18. janvāra noteikumos Nr. 160 \"Kredītu reģistra noteikumi\"\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "137",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-17",
+  "entry_into_force": "2024-07-18",
+  "notification_date": "2024-08-02",
+  "commission_reference": "MNE(2024)03492",
+  "nim_celex": "72021L2167LVA_202403492",
+  "nim_id": "202403492",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4b5673bd-c863-409d-8baf-dd06ff1b461b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
