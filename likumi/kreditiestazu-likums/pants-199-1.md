@@ -1,0 +1,5 @@
+199.¹ pants. (1) Par Eiropas Savienības tieši piemērojamo tiesību aktu, šā likuma un Latvijas Bankas izdoto noteikumu vai pieņemto lēmumu pārkāpumiem Latvijas Banka ir tiesīga ierosināt administratīvo lietu piecu gadu laikā no pārkāpuma izdarīšanas dienas, bet, ja pārkāpums ir ilgstošs, - no pārkāpuma izbeigšanas dienas.
+(2) Šā panta pirmajā daļā noteiktā noilguma termiņa skaitīšanu aptur ar administratīvās lietas ierosināšanas dienu.
+(3) Lēmumu par sankciju un administratīvo pasākumu piemērošanu Latvijas Banka var pieņemt divu gadu laikā no lietas ierosināšanas dienas.
+(4) Objektīvu iemeslu dēļ, tostarp gadījumā, kad lietā nepieciešama ilgstoša faktu konstatācija, Latvijas Banka, pieņemot attiecīgu lēmumu, var pagarināt šā panta trešajā daļā noteikto lēmuma pieņemšanas termiņu uz laiku, kas nepārsniedz trīs gadus no lietas ierosināšanas dienas. Lēmums par termiņa pagarināšanu nav pārsūdzams.
+(5) Latvijas Banka izbeidz lietu, ja šā panta trešajā un ceturtajā daļā noteiktajā termiņā nav pieņemts lēmums par šajā likumā noteikto sankciju un administratīvo pasākumu piemērošanu.

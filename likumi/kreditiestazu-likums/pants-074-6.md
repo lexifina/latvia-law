@@ -1,0 +1,1 @@
+74.⁶ pants. Finanšu līdzekļi un cita manta, kas piekrīt nodrošinājuma aģentam saistībā ar nodrošinājuma piespiedu izpildi vai citām sindicētā kredīta līguma un nodrošinājuma līguma noteikumos noteiktajām tiesībām un pienākumiem, ja tā nav atlīdzība par nodrošinājuma aģenta pienākumu izpildi, neietilpst nodrošinājuma aģenta mantā.
