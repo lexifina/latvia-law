@@ -8,7 +8,7 @@
 2) rakstveidā norādīt, kāda informācija uzskatāma par konfidenciālu;
 3) nodrošināt drošus un veselībai nekaitīgus darba apstākļus, veicot risku novēršanai vai mazināšanai nepieciešamos pasākumus, pirms brīvprātīgā darba uzsākšanas instruēt brīvprātīgā darba veicēju par drošām darba metodēm, darba aprīkojuma un aizsardzības līdzekļu lietošanu, drošības zīmēm, kā arī sniegt informāciju par būtiskiem darba vides riska faktoriem un to ietekmi uz drošību un veselību;
 4) nodrošināt tādus brīvprātīgā darba apstākļus, lai brīvprātīgā darba veicējs varētu izpildīt viņam noteiktos darba uzdevumus;
-5) pēc brīvprātīgā darba veicēja pieprasījuma izsniegt izziņu par veikto brīvprātīgo darbu un tā ilgumu;
+5) pēc brīvprātīgā darba veicēja pieprasījuma izsniegt izziņu par veikto brīvprātīgo darbu, tā ilgumu un kompetencēm, kas iegūtas, veicot brīvprātīgo darbu;
 6) pirms nepilngadīgas personas iesaistīšanas brīvprātīgajā darbā informēt vienu no šīs personas likumiskajiem pārstāvjiem par būtiskiem darba vides riska faktoriem un to ietekmi uz drošību un veselību;
 7) pieprasīt, lai brīvprātīgā darba veicējs uzrāda veselības stāvokli apliecinošu dokumentu, ja paredzētais brīvprātīgais darbs ir saistīts ar iespējamu risku citu cilvēku veselībai;
 8) segt brīvprātīgā darba veicējam ar brīvprātīgā darba veikšanu saistītos izdevumus, ja tādi paredzēti līgumā;
