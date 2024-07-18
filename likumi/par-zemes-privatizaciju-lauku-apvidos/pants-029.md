@@ -4,8 +4,8 @@
 1) zemi valsts pierobežas joslā;
 2) zemi dabas rezervātos un citu aizsargājamo teritoriju dabas rezervātu zonās;
 3) zemi Baltijas jūras un Rīgas jūras līča krasta kāpu aizsargjoslā;
-4) zemi publisko ūdenstilpju un ūdensteču aizsargjoslās, izņemot nogabalus, kuros paredzēta apbūve atbilstoši pašvaldības teritorijas plānojumam;
-5) lauksaimniecības un meža zemi, izņemot nogabalus, kuros paredzēta apbūve atbilstoši pašvaldības teritorijas plānojumam;
+4) zemi publisko ūdenstilpju un ūdensteču aizsargjoslās, izņemot teritorijas, kurās paredzēta apbūve atbilstoši pašvaldības teritorijas plānojumam;
+5) lauksaimniecības un meža zemi, izņemot teritorijas, kurās paredzēta apbūve atbilstoši pašvaldības teritorijas plānojumam, ja īpašumā esošā un iegūstamā lauksaimniecības un meža zemes platība darījuma noslēgšanas brīdī un pēc darījuma kopā nepārsniedz piecus hektārus;
 6) zemi valsts nozīmes derīgo izrakteņu atradnēs.
 Šajā pantā minētie ierobežojumi darījumiem ar zemes īpašumiem neattiecas uz zemes iegūšanu īpašumā mantošanas ceļā.
 Viena fiziskā vai juridiskā persona var iegūt īpašumā līdz 2000 hektāriem lauksaimniecības zemes. Šis nosacījums neattiecas uz šā likuma 28.panta pirmās daļas 2.punktā minētajiem subjektiem, šā likuma 38.panta pirmajā daļā minēto Latvijas zemes fonda pārvaldītāju un valsts kapitālsabiedrībām, kas iegūst īpašumā lauksaimniecības zemi ar likumu deleģēto funkciju īstenošanai.
