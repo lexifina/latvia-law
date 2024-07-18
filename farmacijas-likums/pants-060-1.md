@@ -1,1 +1,1 @@
-60.¹pants. Speciālu atļauju (licenci) zāļu lieltirgotavas atvēršanai (darbībai) vai veterināro zāļu lieltirgotavas atvēršanai (darbībai) var saņemt persona, kura atbilst farmācijas vai veterinārfarmācijas jomu regulējošos normatīvajos aktos par zāļu vai veterināro zāļu izplatīšanu noteiktajām prasībām.
+60.¹pants. Šā likuma 45. panta pirmajā un otrajā daļā noteikto speciālo atļauju (licenci) var saņemt persona, kura atbilst farmācijas vai veterinārfarmācijas jomu regulējošos normatīvajos aktos par zāļu vai veterināro zāļu izplatīšanu noteiktajām prasībām.

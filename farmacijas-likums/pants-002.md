@@ -1,1 +1,1 @@
-2.pants. Šā likuma mērķis ir reglamentēt fizisko un juridisko personu, kā arī Nacionālo bruņoto spēku darbību farmācijas jomā, kā arī nodrošināt kvalitatīvu, medicīniski piemērotu un atbilstoša profilaktiska, dziedinoša un diagnostiska līmeņa zāļu ražošanu un izplatīšanu.
+2.pants. Šā likuma mērķis ir reglamentēt fizisko un juridisko personu, kā arī Nacionālo bruņoto spēku darbību farmācijas jomā, kā arī nodrošināt kvalitatīvu, medicīniski piemērotu un atbilstoša profilaktiska, dziedinoša un diagnostiska līmeņa zāļu ražošanu un izplatīšanu pacientu interesēs.

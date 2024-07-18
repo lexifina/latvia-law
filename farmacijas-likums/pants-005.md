@@ -1,5 +1,6 @@
 5.pants. Ministru kabinets nosaka:
-1) kārtību, kādā izsniedzamas, apturamas, atjaunojamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) farmaceitiskajai darbībai un veterinārfarmaceitiskajai darbībai, farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku darbības uzsākšanas un darbības kārtību, kā arī zāļu un veterināro zāļu lieltirgotavu, zāļu un veterināro zāļu ražošanas vai importēšanas darbības uzsākšanas, darbības un atbilstības novērtēšanas kārtību;
+1) nosacījumus un kārtību, kādā izsniedzamas, apturamas, atjaunojamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) veterinārfarmaceitiskajai darbībai, farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku darbības uzsākšanas un darbības kārtību, kā arī veterināro zāļu lieltirgotavu un veterināro zāļu ražošanas vai importēšanas darbības uzsākšanas, darbības un atbilstības novērtēšanas kārtību;
+1¹) farmaceitiskās darbības licencēšanas noteikumus;
 2) un pēc Veselības ministrijas ieteikuma apstiprina to zāļu kvalitātes kontroles institūciju sarakstu, kuras ir tiesīgas dot oficiālu atzinumu par zāļu, tajā skaitā arī no cilvēka asinīm un plazmas iegūto zāļu un homeopātisko zāļu, kvalitātes kontroles rezultātiem;
 3) zāļu ražošanas, marķēšanas, reģistrēšanas, kontroles, izplatīšanas, ievešanas un izvešanas kārtību;
 4) zāļu (izņemot veterināro zāļu) cenu veidošanas principus;
@@ -17,7 +18,8 @@
 16) aptieku un aptieku filiāļu (izņemot veterināro aptieku) izvietojuma kritērijus;
 17) farmaceitu un farmaceitu asistentu reģistrēšanas kārtību;
 18) prasības un kārtību, kādā veterinārmedicīniskās prakses iestādes iegādājas, uzglabā, uzskaita, lieto un iznīcina zāles;
-19) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu farmaceitiskajai un veterinārfarmaceitiskajai darbībai, un kārtību, kādā tā iekasējama;
+19) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu veterinārfarmaceitiskajai darbībai, un kārtību, kādā tā iekasējama;
+19¹) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu farmaceitiskajai darbībai, un kārtību, kādā tā iekasējama, kā arī atvieglojumus un atbrīvojumus no valsts nodevas;
 20) ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību;
 21) kārtību, kādā vāc un apkopo informāciju un veido statistiku veterināro zāļu aprites jomā;
 22) personai veterināro zāļu izplatīšanai nepieciešamās profesionālās kvalifikācijas prasības, kvalifikācijas novērtēšanas kārtību un kārtību, kādā izsniedz sertifikātu veterināro zāļu izplatīšanai, pagarina tā derīguma termiņu un to anulē, kā arī sertificētās personas reģistrācijas kārtību;

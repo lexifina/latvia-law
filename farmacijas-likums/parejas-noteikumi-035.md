@@ -1,0 +1,1 @@
+35. Zāļu valsts aģentūra līdz 2024. gada 31. decembrim lietas, kas saistītas ar speciālās atļaujas (licences) un sertifikātu izsniegšanu veterināro zāļu jomā, nodod Pārtikas un veterinārajam dienestam.

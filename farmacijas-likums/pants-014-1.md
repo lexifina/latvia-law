@@ -1,0 +1,1 @@
+14.¹ pants. Kompetentās iestādes, veicot zāļu un veterināro zāļu, un aktīvo vielu labas ražošanas prakses un labas izplatīšanas prakses kontroli, ievēro Eiropas Zāļu aģentūras publicēto un Eiropas Komisijas apstiprināto procedūru apkopojumu Eiropas Savienības pārbaudēm un informācijas apmaiņai.

@@ -1,6 +1,8 @@
 22.pants. (1) Izplatot zāles, tām pievieno lietošanas instrukciju, kas atbilst Ministru kabineta noteiktajām prasībām.
 (2) Ja zāles noteiktas kā recepšu zāles, aptiekā tās drīkst izsniegt tikai:
-1) pret attiecīgu normatīvajos aktos noteiktajā kārtībā noformētu ārsta vai praktizējoša veterinārārsta recepti;
-2) veterinārmedicīniskās prakses iestādei - pret praktizējoša veterinārārsta rakstveida pieprasījumu.
+1) pret attiecīgu recepti, tajā skaitā veterināro recepti;
+2) veterinārmedicīniskās prakses iestādei - pret praktizējoša veterinārārsta rakstveida pieprasījumu;
+3) ārstniecības iestādei un sociālās aprūpes institūcijai - pret iestādes rakstveida pieprasījumu.
+(2¹) Nereģistrētas zāles aptiekā drīkst izsniegt tikai pret šā panta otrās daļas 1., 2. un 3. punktā minēto recepti vai iestādes pieprasījumu. Nereģistrētas zāles pacients lieto tās ārstniecības personas tiešā personiskā uzraudzībā, kura zāles ir nozīmējusi (izrakstījusi) un uzņēmusies atbildību par izvēlēto ārstēšanu, vai citas ārstniecības personas uzraudzībā, kura turpina pacienta ārstēšanu.
 (3) Zāļu un aktīvo vielu vairumtirdzniecībā nodrošināmi zāļu un aktīvo vielu labas izplatīšanas principi un pamatnostādnes saskaņā ar Eiropas Komisijas publicētajiem norādījumiem un saskaņā ar Eiropas Savienības tiesību aktiem.
 (4) Veterināro zāļu un par veterināro zāļu izejvielām izmantoto aktīvo vielu vairumtirdzniecībā ievēro labas izplatīšanas prakses principus saskaņā ar Komisijas 2021. gada 29. jūlija īstenošanas regulu (ES) 2021/1248 par pasākumiem attiecībā uz veterināro zāļu labu izplatīšanas praksi saskaņā ar Eiropas Parlamenta un Padomes regulu (ES) 2019/6 un Komisijas 2021. gada 2. augusta īstenošanas regulu (ES) 2021/1280 par pasākumiem attiecībā uz tādu aktīvo vielu labu izplatīšanas praksi, kuras izmanto par veterināro zāļu izejvielām, saskaņā ar Eiropas Parlamenta un Padomes regulu (ES) 2019/6.
