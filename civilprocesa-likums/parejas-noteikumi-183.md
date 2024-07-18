@@ -1,0 +1,1 @@
+183. Šā likuma grozījums par 594. panta, kas regulē to, kā aprēķināmi ieturējumi no parādniekam izmaksājamās darba samaksas un tai pielīdzināmiem maksājumiem, izteikšanu jaunā redakcijā, paredzot, ka ieturējumi veicami no summas, kas pārsniedz 50 procentus no Ministru kabineta noteiktās minimālās mēneša darba algas, stājas spēkā 2024. gada 1. oktobrī.
