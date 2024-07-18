@@ -116,6 +116,8 @@ b) par Regulas Nr. 2015/2365 15. panta pārkāpumiem - soda naudu līdz 15 000 0
 1) pieprasīt, lai par pārkāpumu atbildīgā persona nekavējoties izbeidz attiecīgo darbību un turpmāk atturas no šādas darbības atkārtošanas;
 2) par pārkāpumu atbildīgajai personai uz laiku apturēt licenci;
 3) noteikt pagaidu aizliegumu par pārkāpumu atbildīgās personas valdes loceklim vai citai fiziskajai personai, kura ir atbildīga par pārkāpumu, veikt tai noteiktos pienākumus.
+(21²) (Daļa stājas spēkā 21.12.2024. un iekļauta likuma redakcijā uz 21.12.2024. Sk. pārejas noteikumu 80. punktu)
+(21³) (Daļa stājas spēkā 21.12.2024. un iekļauta likuma redakcijā uz 21.12.2024. Sk. pārejas noteikumu 80. punktu)
 (22) Ja persona nav ievērojusi Regulas Nr. 2016/1011 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 21., 23., 24., 25., 26., 27., 28., 29. vai 34. panta prasības, kā arī ja persona nesadarbojas vai atsakās sadarboties pārbaudes procesā, ko Latvijas Banka veic saskaņā ar šā likuma 147.⁵ pantu, Latvijas Banka ir tiesīga piemērot šādas sankcijas:
 1) (izslēgts ar 23.09.2021. likumu);
 2) uzlikt par pienākumu par pārkāpumu atbildīgajai personai atmaksāt pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu, ja to var noteikt;

@@ -16,7 +16,8 @@
 13) Regula Nr. 600/2014;
 14) Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regula (ES) 2016/1011 par indeksiem, ko izmanto kā etalonus finanšu instrumentos un finanšu līgumos vai ieguldījumu fondu darbības rezultātu mērīšanai, un ar kuru groza direktīvu 2008/48/EK, direktīvu 2014/17/ES un regulu (ES) Nr. 596/2014 (turpmāk - Regula Nr. 2016/1011);
 15) Regula Nr. 2017/1129;
-16) Eiropas Parlamenta un Padomes 2022. gada 30. maija regula (ES) 2022/858 par izmēģinājuma režīmu tirgus infrastruktūrām, kuru pamatā ir sadalītās virsgrāmatas tehnoloģija, un ar ko groza regulas (ES) Nr. 600/2014 un (ES) Nr. 909/2014 un direktīvu 2014/65/ES.
+16) Eiropas Parlamenta un Padomes 2022. gada 30. maija regula (ES) 2022/858 par izmēģinājuma režīmu tirgus infrastruktūrām, kuru pamatā ir sadalītās virsgrāmatas tehnoloģija, un ar ko groza regulas (ES) Nr. 600/2014 un (ES) Nr. 909/2014 un direktīvu 2014/65/ES;
+17) (punkts stājas spēkā 21.12.2024. un iekļauts likuma redakcijā uz 21.12.2024. Sk. pārejas noteikumu 80. punktu).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem, kuri šā likuma izpratnē ir:
 1) pārvedami vērtspapīri;
 2) naudas tirgus instrumenti;
