@@ -16,3 +16,4 @@
 (2) (Zaudējusi spēku ar 01.01.2021. Sk. Pārejas noteikumu 62. punktu)
 (3) (Zaudējusi spēku ar 01.01.2021. Sk. Pārejas noteikumu 62. punktu)
 (4) (Zaudējusi spēku ar 01.01.2021. Sk. Pārejas noteikumu 62. punktu)
+(5) Pedagogam, kurš skolotāja kvalifikāciju ir ieguvis augstskolas īstenotā darba vidē balstītā otrā cikla augstākās izglītības programmā un divu gadu laikā pēc skolotāja kvalifikācijas iegūšanas ir sācis pedagoga profesionālās kompetences pilnveidi augstskolas īstenotā izglītības programmā, profesionālās kompetences pilnveides laikā ir tiesības saņemt stipendiju Ministru kabineta noteiktajā kārtībā. Stipendiju piešķir no valsts budžeta līdzekļiem. Tās apmēru, piešķiršanas nosacījumus un kārtību, tostarp to augstskolu un augstskolu īstenoto tālākizglītības un profesionālās pilnveides izglītības programmu sarakstu, uz kurām attiecas šīs daļas noteikumi, un laikposmu, kurā tiek piešķirta stipendija, nosaka Ministru kabinets.
