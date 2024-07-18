@@ -37,7 +37,7 @@ Ministru kabinets:
 23) nosaka stipendiju veidus, stipendiju saņemšanas kritērijus un kārtību, kā arī stipendiju minimālo un maksimālo apmēru augstākās izglītības programmās izglītojamiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu un valsts nozīmes interešu izglītības iestāžu finansēšanas kārtību;
 24¹) nosaka kritērijus un kārtību, kādā interešu izglītības iestādēm tiek piešķirts un anulēts valsts nozīmes interešu izglītības iestādes statuss;
-25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus;
+25) reglamentē bērnu nometņu organizēšanas un darbības noteikumus, nosaka prasības bērnu nometņu vadītājiem un darbiniekiem, prasības bērnu nometņu vadītāju profesionālās kompetences pilnveidei, kā arī kārtību, kādā izsniedz, reģistrē, aptur vai anulē bērnu nometnes vadītāja apliecību;
 26) nosaka kārtību, kādā valsts finansē profesionālās ievirzes izglītības programmas;
 27) nosaka institūciju, kas kārto pedagogu un izglītības programmu reģistrus, kā arī kārtību, kādā tie tiek vesti un uzturēti;
 28) nosaka institūciju, kas licencē izglītības programmas, izņemot interešu izglītības programmas;
