@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024.gada 16.jūlija noteikumi Nr.485 \"Parāda atgūšanas pakalpojuma sniedzēju licencēšanas kārtība\"",
+  "type_of_act": "Ministra noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-18",
+  "entry_into_force": "2024-07-19",
+  "notification_date": "2024-08-01",
+  "commission_reference": "MNE(2024)03490",
+  "nim_celex": "72021L2167LVA_202403490",
+  "nim_id": "202403490",
+  "transposes_celex": [
+    "32021L2167"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab807b17-8e08-4394-92f4-e4b42df155aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
