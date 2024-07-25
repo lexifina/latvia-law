@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada 25.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2024-07-25",
+ "ieraksts": {
+  "dkp_id": "acfe2411-50a7-4419-9395-25714d80a5d4",
+  "lastmodtime": "\"AAAAAAJAL8Y=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Edmunds#Zane#Juris#Svetlana#Mārcis#Aleksejs#Andris#Didzis#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Andrejs#Ingrīda#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Oļegs#Arturs Krišjānis#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Atis#Māris#Jānis#Viktorija#Edgars#Andrejs#Jānis#Anita#Igors#Edgars#Ramona#Lauris#Linda#Aleksandrs#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Jencītis#Rosļikovs#Bērziņš#Šmits#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Ceļapīters#Circene#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Burovs#Kariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Judins#Vucāns#Brakovska#Judins#Zelderis#Petraviča#Lizbovskis#Liepiņa#Kiršteins#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "###########################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#PRO#JV#ZZS#ST!#LPV#ST!#ZZS#AS#ZZS#JV#JV#AS#ST!#NA#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#NA# #JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!# #JV# #JV#ST!#AS#ZZS#NA#NA#JV#JV#LPV#JV#AS#NA# #AS#JV#ZZS#ZZS#ST!# #LPV#AS#LPV# #ZZS#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.07.2024 09:05:35",
+  "VOTEMOTIVE": "Par Jurģa Klotiņa 14. Saeimas deputāta pilnvaru apstiprināšanu (541/Lm14)",
+  "VOTING_ID": "0219179d-7e72-4fb9-92f4-21290b14e18b",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "74",
+  "VOTERESULT_REGISTERED": "76",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada 25.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/35022862-cc94-49f8-93cf-bec479835428/download/14.saeimas-2024.gada-25.julija-arkartas-sesija-1-vote.xml",
+  "sha256": "82eb918416e64bfad220b3b6cc93433bb4cf19db19fbc3b97f288d4435614e9b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
