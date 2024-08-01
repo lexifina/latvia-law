@@ -36,7 +36,14 @@
 4) informāciju par iespējamu nevēlamu iedarbību;
 5) informāciju par pieraduma izraisīšanu un toksiskumu;
 6) ražotāja vai importētāja un juridisko vai fizisko personu kontaktinformāciju Eiropas Savienībā un Eiropas Ekonomikas zonā.
-(6¹) (Daļa stājas spēkā 01.08.2024. un iekļauta likuma redakcijā uz 01.08.2024. Sk. pārejas noteikumu 17. punktu)
+(6¹) Katrai tabakas aizstājējproduktu iepakojuma vienībai pievieno informatīvu lapiņu, kas satur:
+1) norādījumus par produkta lietošanu un glabāšanu, tajā skaitā norādi, ka produktu nav ieteicams lietot jauniešiem un nesmēķētājiem;
+2) norādi, ka produktu nav ieteicams lietot vienlaikus ar citiem nikotīnu saturošiem produktiem;
+3) informāciju par kontrindikācijām;
+4) brīdinājumus īpašām riska grupām;
+5) informāciju par iespējamu nevēlamu iedarbību;
+6) informāciju par pieraduma izraisīšanu un toksiskumu;
+7) ražotāja vai importētāja un juridisko vai fizisko personu kontaktinformāciju Eiropas Savienībā un Eiropas Ekonomikas zonā.
 (7) Cigarešu iepakojuma vienībai ir taisnstūra paralēlskaldņa forma, un šī iepakojuma vienība ir izgatavota no kartona vai mīksta materiāla ar tādu atveri, ko pēc pirmās atvēršanas reizes nevar no jauna aizvērt vai noslēgt, izņemot atliecamu augšējo vāciņu un sānos piestiprinātu atvāžamu vāciņu. Paciņām ar atliecamu augšējo vāciņu un sānos piestiprinātu atvāžamu vāciņu tas ir piestiprināts tikai iepakojuma vienības aizmugurē.
 (8) Tinamās tabakas iepakojuma vienībām ir taisnstūra paralēlskaldņa, cilindriska vai maisiņa forma.
 (9) Uz katras smēķēšanai paredzētā tabakas izstrādājuma, tabakas aizstājējprodukta un augu smēķēšanas produkta iepakojuma vienības, ko laiž tirgū, ir piestiprināta akcīzes nodokļa marka. Ja ir slēgts caurspīdīgs papildu apvalks, akcīzes nodokļa marku piestiprina zem tā. Augu smēķēšanas produktu iepakojuma vienībām, ko laiž tirgū, akcīzes nodokļa marka var būt piestiprināta uz slēgtā caurspīdīgā papildu apvalka.

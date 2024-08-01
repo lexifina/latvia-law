@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) aromatizētājs - piedeva, kas rada smaržu vai garšu;
-2) augu smēķēšanas produkts - izstrādājums, kura pamatā ir augi, garšaugi vai augļi un kurš nesatur tabaku, un kuru var lietot, izmantojot degšanas procesu;
+2) augu smēķēšanas produkts - izstrādājums, kura pamatā ir augi, garšaugi vai augļi un kurš nesatur tabaku, un kuru var lietot, izmantojot degšanas vai karsēšanas procesu;
 3) ārējais iepakojums - jebkāds iepakojums, kurā tabakas izstrādājums, tabakas aizstājējprodukts, augu smēķēšanas produkts, elektroniskā smēķēšanas ierīce vai uzpildes tvertne tiek laista tirgū un kurš ietver iepakojuma vienības vai iepakojuma vienību kopumu, izņemot caurspīdīgo apvalku;
 4) bezdūmu tabakas izstrādājums - tabakas izstrādājums, kura lietošana nav saistīta ar degšanas procesu; bezdūmu tabakas izstrādājums, kas paredzēts vienīgi košļāšanai, - košļājamā tabaka; bezdūmu tabakas izstrādājums, ko var lietot caur degunu, - šņaucamā tabaka; visi orālai lietošanai paredzētie tabakas izstrādājumi, kuri pilnībā vai daļēji gatavoti no tabakas un ir pieejami pulvera vai smalku granulu veidā vai jebkādā šo veidu apvienojumā, īpaši tādi izstrādājumi, kas safasēti porciju maisiņos vai porainos maisiņos, izņemot izstrādājumus, kuri paredzēti ieelpošanai vai košļāšanai, - orālai lietošanai paredzētā tabaka;
 5) brīdinājums par ietekmi uz veselību - brīdinājums par izstrādājuma negatīvu ietekmi uz cilvēka veselību vai par citām nevēlamām tā lietošanas sekām, tostarp rakstveida brīdinājumi, kombinēti brīdinājumi par ietekmi uz veselību, vispārīgi brīdinājumi un informatīvi uzraksti;
