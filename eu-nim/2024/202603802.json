@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 13. augusta noteikumi Nr. 526 \"Grozījums Ministru kabineta 2006. gada 19. decembra noteikumos Nr. 1022 \"Noteikumi par ieslodzīto personu uztura un sadzīves vajadzību materiālā nodrošinājuma normām\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "158",
+  "official_journal_page": null,
+  "official_journal_date": "2024-08-15",
+  "entry_into_force": "2024-08-16",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03802",
+  "nim_celex": "72016L0800LVA_202603802",
+  "nim_id": "202603802",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9ac3f6f-f37b-45d3-a6da-731da37289ce",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
