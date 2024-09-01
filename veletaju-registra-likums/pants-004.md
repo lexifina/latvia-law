@@ -1,1 +1,2 @@
-4.pants. Ar Reģistra izveidošanu un uzturēšanu saistītos izdevumus sedz no valsts budžeta.
+4.pants. (1) Ar Reģistra un Tiešsaistes reģistra izveidošanu un uzturēšanu saistītos izdevumus sedz no valsts budžeta.
+(2) Reģistru Iekšlietu ministrijas Informācijas centra infrastruktūrā izvieto un uztur Iekšlietu ministrijas Informācijas centrs. Tiešsaistes reģistru izvieto valsts akciju sabiedrības "Latvijas Valsts radio un televīzijas centrs" infrastruktūrā un uztur valsts akciju sabiedrība "Latvijas Valsts radio un televīzijas centrs".

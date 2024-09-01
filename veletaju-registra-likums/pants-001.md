@@ -1,1 +1,1 @@
-1.pants. Šā likuma mērķis ir nodrošināt Latvijas Republikas teritorijā vienotas vēlētāju uzskaites sistēmas - vēlētāju reģistra (turpmāk - Reģistrs) - izveidi un tajā iekļauto datu apstrādi.
+1. pants. Šā likuma mērķis ir nodrošināt Latvijas Republikas teritorijā vienotas vēlētāju uzskaites valsts informācijas sistēmas - Vēlētāju reģistra (turpmāk - Reģistrs) - un vēlētāju dalības vēlēšanās reģistrācijas sistēmas - Elektroniskā tiešsaistes vēlētāju reģistra (turpmāk - Tiešsaistes reģistrs) - izveidi un tajā iekļauto datu apstrādi.

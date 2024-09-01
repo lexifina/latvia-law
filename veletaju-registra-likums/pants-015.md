@@ -11,4 +11,5 @@
 (3) Ieslodzījuma vietu pārvalde saskaņā ar Ieslodzīto informācijas sistēmā iekļauto informāciju atbilstoši attiecīgajam vēlēšanu likumam aktualizē Reģistrā iekļautās ziņas, ja vēlētājs izcieš sodu brīvības atņemšanas vietā.
 (3¹) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. punktu)
 (4) Eiropas Parlamenta, pašvaldības domes un Saeimas vēlēšanās Reģistrā iekļautās ziņas saskaņā ar šā panta pirmo, otro un trešo daļu aktualizē līdz pulksten 18 septītajā dienā pirms vēlēšanām.
-(5) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. punktu)
+(5) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 2. un 3. punktu)
+(6) Pārvalde pēc šā panta ceturtajā un piektajā daļā minēto ziņu aktualizēšanas Reģistrā sagatavoto vēlētāju sarakstu nodod Aģentūrai iekļaušanai Tiešsaistes reģistrā šā likuma 12.¹ pantā noteiktajā kārtībā."

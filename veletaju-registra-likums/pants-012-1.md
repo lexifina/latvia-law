@@ -1,0 +1,1 @@
+12.¹ pants. Pārvalde ne vēlāk kā pulksten 10 sestajā dienā pirms vēlēšanām vai pašvaldības referenduma nodod Tiešsaistes reģistram vēlētāju sarakstu ar nepieciešamajām ziņām par balsstiesīgajām personām, kurām ir tiesības piedalīties vēlēšanās vai pašvaldības referendumā. Pārvalde vēlētāju sarakstu Aģentūrai nodod saskaņotā, aizsargātā veidā.

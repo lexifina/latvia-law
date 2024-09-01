@@ -1,0 +1,1 @@
+2.¹ pants. Tiešsaistes reģistrs nodrošina vēlētāju balsstiesību pārbaudi un atzīmes izdarīšanu par vēlētāja piedalīšanos Eiropas Parlamenta, pašvaldības domes vai Saeimas vēlēšanās (turpmāk - vēlēšanas) vai vēlētāja piedalīšanos vietējās pašvaldības referendumā (turpmāk - pašvaldības referendums).
