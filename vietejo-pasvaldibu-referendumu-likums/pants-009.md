@@ -1,0 +1,1 @@
+9. pants. Dome pašvaldības referendumu ierosina ar domes lēmumu, kurā norāda jautājumu, par kuru notiks pašvaldības referendums. Dome lēmumu iesniedz vēlēšanu komisijai, un vēlēšanu komisija nosaka datumu, kurā rīkojams pašvaldības referendums.

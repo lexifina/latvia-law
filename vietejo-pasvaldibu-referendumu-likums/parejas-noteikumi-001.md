@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2022. gada 1. jūlijam iesniedz Saeimai likumprojektu par grozījumiem Vēlētāju reģistra likumā, kas nepieciešami, lai nodrošinātu vēlētāju reģistra darbību pašvaldības referendumā.

@@ -1,0 +1,1 @@
+4. Līdz 2025. gada 31. jūlijam vēlēšanu komisija papildus šā likuma 9. pantā paredzētajai kārtībai, nosakot pašvaldības referenduma datumu, nodrošina, ka laikposms starp secīgiem pašvaldības referendumiem nav mazāks par divām nedēļām, un pašvaldības referenduma datumu saskaņo ar Valsts reģionālās attīstības aģentūru.

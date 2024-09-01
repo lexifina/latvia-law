@@ -1,0 +1,1 @@
+2. Šā likuma 4. panta trešo daļu, 15. pantu, kā arī 20. panta pirmo, piekto un sesto daļu attiecībā uz elektronisko balsošanu par pašvaldības referendumam nodoto jautājumu piemēro no 2025. gada 1. augusta.

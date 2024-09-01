@@ -1,0 +1,1 @@
+21. pants. Vēlēšanu komisija publiski paziņo lēmumu par pašvaldības referenduma rezultātu apstiprināšanu un nosūta referenduma rezultātus publicēšanai pašvaldības un Centrālās vēlēšanu komisijas tīmekļvietnē triju darbdienu laikā no šā likuma 16. panta pirmajā daļā minētās pašvaldības referenduma norises dienas.

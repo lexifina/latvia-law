@@ -1,0 +1,2 @@
+VI nodaļa
+Pieteikumu izskatīšana Administratīvajā apgabaltiesā

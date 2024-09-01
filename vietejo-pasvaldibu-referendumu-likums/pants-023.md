@@ -1,0 +1,2 @@
+23. pants. (1) Ja ar pašvaldības referendumu par domes atlaišanu dome nav atlaista, tad pašvaldības referendumu par to pašu jautājumu atkārtoti var ierosināt ne agrāk kā gadu pēc pašvaldības referenduma rezultātu publiskas paziņošanas dienas un ievērojot šā likuma 6. panta trešajā daļā noteikto.
+(2) Ja pašvaldības referendumā nobalsots pret šā likuma 5. panta 1. vai 2. punktā minēto lēmumu, dome var atkārtoti lemt par noraidīto lēmumu ne agrāk kā nākamā domes sasaukuma laikā.

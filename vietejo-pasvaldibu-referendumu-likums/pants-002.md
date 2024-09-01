@@ -1,0 +1,1 @@
+2. pants. Likums nosaka jautājumus, par kuriem var ierosināt un rīkot vietējās pašvaldības referendumu (turpmāk - pašvaldības referendums), pašvaldības referenduma finansēšanas avotu, kā arī kārtību, kādā ierosināms un rīkojams pašvaldības referendums un paziņojami tā rezultāti.
