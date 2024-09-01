@@ -1,2 +1,2 @@
 V² nodaļa
-Balsošanas kārtība vēlētāju reģistra tiešsaistes režīma darbības pārtraukuma gadījumā
+Balsošanas kārtība Elektroniskā tiešsaistes vēlētāju reģistra darbības pārtraukuma gadījumā
