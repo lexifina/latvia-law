@@ -1,0 +1,1 @@
+48. Ministru kabinets līdz 2025. gada 1. martam izdod šā kodeksa 61.⁵ panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai ir spēkā Ministru kabineta 2013. gada 9. aprīļa noteikumi Nr. 191 "Notiesātā resocializācijas īstenošanas kārtība", ciktāl tie nav pretrunā ar šo kodeksu.

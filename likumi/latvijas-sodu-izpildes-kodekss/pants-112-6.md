@@ -1,0 +1,3 @@
+112.⁶ pants. Informācijas nosūtīšana Nacionālajam veselības dienestam
+Lai bloķētu notiesātā reģistrāciju ģimenes ārsta pacientu sarakstā pēc ievietošanas brīvības atņemšanas iestādē, kā arī lai atceltu bloķēto reģistrāciju pēc notiesātā atbrīvošanas no brīvības atņemšanas iestādes, Ieslodzījuma vietu pārvalde nosūta informāciju Nacionālajam veselības dienestam.
+Šā panta pirmajā daļā minētajā informācijā norāda notiesātā personas kodu, datumu, kad notiesātais ievietots brīvības atņemšanas iestādē un atbrīvots no tās, un nosūta to piecu darbdienu laikā no dienas, kad notiesātais ievietots brīvības atņemšanas iestādē vai atbrīvots no tās.

@@ -1,0 +1,1 @@
+45. Grozījumi šā kodeksa 50.⁴, 50.⁶ un 50.⁷ pantā, kas nosaka brīvības atņemšanas soda izpildes uzsākšanu noteikta veida brīvības atņemšanas iestādē vai soda izciešanas režīma pakāpē, ir piemērojami attiecībā uz personām, kuras brīvības atņemšanas soda izciešanu uzsāk pēc 2024. gada 31. augusta.

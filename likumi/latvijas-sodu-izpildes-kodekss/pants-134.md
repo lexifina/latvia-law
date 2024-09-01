@@ -17,3 +17,4 @@ Sabiedriskā darba izpilde tiek apturēta un turpināta pēc notiesātā atbrīv
 3) notiesātajam pamatsods - sabiedriskais darbs - piespriests kopā ar papildsodu - probācijas uzraudzība - un tiesa pieņēmusi lēmumu aizstāt probācijas uzraudzību ar brīvības atņemšanu;
 4) notiesātajam pamatsods - sabiedriskais darbs - piespriests kopā ar pamatsodu - probācijas uzraudzība - vai pamatsods - probācijas uzraudzība - piespriests kopā ar papildsodu - sabiedriskais darbs - un tiesa pieņēmusi lēmumu aizstāt probācijas uzraudzību ar brīvības atņemšanu.
 Sabiedriskā darba izpildes gaitā notiesātā nodarītais kaitējums darba devējam vai trešajai personai tiek izskatīts Civilprocesa likumā noteiktajā kārtībā.
+Ja notiesātajam piemēro apcietinājumu, sabiedriskā darba izpilde tiek apturēta un turpināta pēc viņa atbrīvošanas no izmeklēšanas cietuma.

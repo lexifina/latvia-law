@@ -1,4 +1,3 @@
-65.pants. Ar brīvības atņemšanu notiesāto profesionālās kvalifikācijas celšana
-Brīvības atņemšanas iestādē resocializācijas ietvaros var organizēt ar brīvības atņemšanu notiesāto profesionālās kvalifikācijas celšanu un iesaistīšanu jaunu specialitāšu apguvē, kas var būt noderīgas pēc soda izciešanas.
-Ar brīvības atņemšanu notiesāto profesionālā apmācība vai profesionālās kvalifikācijas celšana veicināma un ņemama vērā, nosakot viņu resocializācijas pakāpi.
-Notiesāto, kas iesaistīts atkarību mazināšanas programmā, var iesaistīt profesionālās kvalifikācijas celšanā un jaunu specialitāšu apguvē, ja atkarību mazināšanas programmas nosacījumi to pieļauj.
+65. pants. Ar brīvības atņemšanu notiesāto profesionālā tālākizglītība un profesionālā pilnveide
+Brīvības atņemšanas iestādē resocializācijas ietvaros var organizēt ar brīvības atņemšanu notiesāto profesionālo tālākizglītību un profesionālo pilnveidi, lai veicinātu viņu iekļaušanos dzīvē pēc atbrīvošanas.
+Notiesāto, kas iesaistīts atkarību mazināšanas programmā, var iesaistīt profesionālajā tālākizglītībā un profesionālajā pilnveidē, ja atkarību mazināšanas programmas nosacījumi to pieļauj.

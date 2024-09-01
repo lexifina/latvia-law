@@ -1,4 +1,4 @@
 43.pants. Pārtikas produktu un pirmās nepieciešamības priekšmetu iegāde
 Notiesātajiem atļauts iegādāties pārtikas produktus un pirmās nepieciešamības priekšmetus.
-Ja notiesātie netiek nodrošināti ar darbu pilnu mēnesi, viņiem un darba nespējīgiem notiesātajiem, grūtniecēm, mātēm, kas baro bērnus ar krūti, un nepilngadīgajiem ir tiesības iegādāties pārtikas produktus un pirmās nepieciešamības priekšmetus par naudu, kas atrodas viņu personiskajos kontos.
-To pārtikas produktu un pirmās nepieciešamības priekšmetu sarakstu, kurus atļauts pārdot notiesātajiem, reglamentē brīvības atņemšanas iestādes iekšējās kārtības noteikumi. Norēķināšanās par iegādātajām precēm brīvības atņemšanas iestādēs, izņemot atklātos cietumus, veicama nevis skaidrā naudā, bet ar pārskaitījumu. Naudas summu, par kādu notiesātajiem atļauts iegādāties preces vienā mēnesī, nosaka šis kodekss.
+(Otrā daļa izslēgta ar 20.06.2024. likumu)
+To pārtikas produktu un pirmās nepieciešamības priekšmetu sarakstu, kurus atļauts pārdot notiesātajiem, reglamentē brīvības atņemšanas iestādes iekšējās kārtības noteikumi. Norēķināšanās par iegādātajām precēm brīvības atņemšanas iestādēs, izņemot atklātos cietumus, veicama nevis skaidrā naudā, bet ar pārskaitījumu.

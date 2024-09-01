@@ -1,4 +1,3 @@
 13.pants. Brīvības atņemšanas iestāžu veidi
-Brīvības atņemšanas sodu izpilda slēgtajā cietumā, daļēji slēgtajā cietumā, atklātajā cietumā, kā arī audzināšanas iestādēs nepilngadīgajiem. Brīvības atņemšanas iestādē var organizēt gan slēgtā, gan daļēji slēgtā, gan atklātā cietuma nodaļas.
-Notiesātie brīvības atņemšanas sodu var izciest arī izmeklēšanas cietumu izolētajās nodaļās un izmeklēšanas cietumu saimnieciskajā apkalpē.
-Pilngadīgās personas, kas notiesātas ar brīvības atņemšanu, sodu izcieš slēgtajā cietumā, daļēji slēgtajā cietumā vai atklātajā cietumā, kā arī izmeklēšanas cietumu izolētajās nodaļās un izmeklēšanas cietumu saimnieciskajā apkalpē, bet vīriešu dzimuma nepilngadīgās personas - audzināšanas iestādēs nepilngadīgajiem, sieviešu dzimuma nepilngadīgās personas - sieviešu cietumu atsevišķās nodaļās, kas iekārtotas kā audzināšanas iestādes nepilngadīgajiem.
+Brīvības atņemšanas sodu izpilda slēgtajā cietumā, atklātajā cietumā vai audzināšanas iestādē nepilngadīgajiem. Notiesātie brīvības atņemšanas sodu var izciest arī izmeklēšanas cietumā izveidotā slēgtā cietuma, atklātā cietuma vai audzināšanas iestādes nepilngadīgajiem nodaļā.
+Brīvības atņemšanas iestādē var organizēt gan slēgtā, gan atklātā cietuma, gan audzināšanas iestādes nepilngadīgajiem nodaļas, gan izmeklēšanas cietuma nodaļas.

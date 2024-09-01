@@ -2,4 +2,4 @@
 Notiesātie strādā brīvības atņemšanas iestādes teritorijā. Notiesāto darbu organizē, ievērojot viņiem noteiktā soda izciešanas režīma noteikumus un nodrošinot viņu savstarpēju izolāciju.
 (Otrā daļa izslēgta ar 18.06.2015. likumu)
 Notiesātos, kas sodu izcieš atklātajā cietumā, ar brīvības atņemšanas iestādes priekšnieka rakstveida atļauju, kas saskaņota ar Ieslodzījuma vietu pārvaldi, var nodarbināt ārpus tās pašvaldības administratīvās teritorijas, kurā atrodas brīvības atņemšanas iestāde. Brīvības atņemšanas iestāde nodrošina notiesāto pārbaudi darba vietā un kontrolē viņu atgriešanos iestādē pēc darba laika beigām. Par brīvības atņemšanas iestādes priekšnieka lēmumu neatļaut nodarbināt notiesāto, kas izcieš sodu atklātajā cietumā ārpus tās pašvaldības teritorijas, kurā atrodas brīvības atņemšanas iestāde, var iesniegt sūdzību Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieka lēmums nav pārsūdzams.
-Darbus un amatus, kuros aizliegts nodarbināt notiesātos, reglamentē brīvības atņemšanas iestādes iekšējās kārtības noteikumi.
+(Ceturtā daļa izslēgta ar 20.06.2024. likumu)
