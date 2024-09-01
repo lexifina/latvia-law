@@ -3,7 +3,7 @@
 (2) Ir šādas ieslodzījuma vietas:
 1) izmeklēšanas cietumi;
 2) slēgtie cietumi;
-3) daļēji slēgtie cietumi;
+3) (izslēgts no 01.09.2024. ar 20.06.2024. likumu. Sk. pārejas noteikumu 7. punktu);
 4) atklātie cietumi;
 5) audzināšanas iestādes nepilngadīgajiem.
 (3) Ieslodzījuma vieta ir Pārvaldes struktūrvienība.
