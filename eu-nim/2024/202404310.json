@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Nacionālās kiberdrošības likums",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2024/128A.1",
+  "official_journal_page": null,
+  "official_journal_date": "2024-07-04",
+  "entry_into_force": "2024-09-01",
+  "notification_date": "2024-10-11",
+  "commission_reference": "MNE(2024)04310",
+  "nim_celex": "72022L2555LVA_202404310",
+  "nim_id": "202404310",
+  "transposes_celex": [
+    "32022L2555"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b8ec6a5d-3d6d-4646-9852-7f57c8d725fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
