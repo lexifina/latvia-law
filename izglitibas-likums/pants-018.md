@@ -1,7 +1,7 @@
 18. pants. Pašvaldības izglītības pārvaldes iestāde
 (1) Lai īstenotu savas funkcijas izglītības pārvaldes un izglītības kvalitātes nodrošināšanas jomā, pašvaldība izveido izglītības pārvaldes iestādi.
 (2) Izglītības pārvaldes iestāde:
-1) (punkts stājas spēkā 01.09.2024. un iekļauts likuma redakcijā uz 01.09.2024. Sk. pārejas noteikumu 109. punktu);
+1) saskaņā ar Ministru kabineta apstiprinātajās izglītības attīstības pamatnostādnēs noteiktajiem mērķiem izstrādā pašvaldības izglītības ekosistēmas attīstības stratēģiju turpmākajiem četriem gadiem, sniedz atbalstu izglītības iestāžu darbības kvalitātes nodrošināšanai, īsteno pasākumus izglītības kvalitātes pilnveidei, regulāri analizē izglītības iestāžu (izņemot augstskolas un koledžas) darbības rezultātus, reizi četros gados sagatavo pārskatu par izglītības kvalitāti attiecīgajā pašvaldībā un minēto pārskatu iesniedz pašvaldībai un Izglītības kvalitātes valsts dienestam;
 2) organizē metodisko, zinātnisko, informatīvo un citāda veida intelektuālo atbalstu izglītojamiem, pedagogiem, izglītojamo vecākiem un izglītības iestādēm (izņemot augstskolas un koledžas) izglītības kvalitātes nodrošināšanai;
 3) koordinē pašvaldības teritorijā esošo izglītības iestāžu sadarbību;
 4) sekmē sabiedrības līdzdalību izglītībā, tai skaitā izglītības iestāžu sadarbību ar valsts un pašvaldību iestādēm, darba devējiem, sociālajiem partneriem, nevalstiskajām organizācijām, informē sabiedrību par pašvaldības izglītības ekosistēmas attīstību, sasniegumiem, izglītības programmu piedāvājumu un kvalitāti;

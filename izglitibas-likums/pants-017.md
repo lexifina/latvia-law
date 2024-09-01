@@ -8,7 +8,7 @@
 (2⁵) (Izslēgta ar 23.11.2020. likumu)
 (3) Pašvaldība:
 1) saskaņojot ar Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē vispārējās izglītības iestādes, tai skaitā speciālās izglītības iestādes un klases, kā arī pirmsskolas izglītības grupas bērniem ar speciālām vajadzībām un interešu izglītības iestādes, bet, saskaņojot ar attiecīgās nozares ministriju un Izglītības un zinātnes ministriju, dibina, reorganizē un likvidē profesionālās ievirzes izglītības iestādes;
-1¹) saskaņā ar Ministru kabineta apstiprinātajās izglītības attīstības pamatnostādnēs noteiktajiem mērķiem izstrādā izglītības attīstības stratēģiju, sniedz atbalstu izglītības iestāžu darbības kvalitātes nodrošināšanai, apkopo un analizē informāciju par izglītības (izņemot augstāko izglītību) kvalitāti savā teritorijā;
+1¹) apstiprina šā likuma 18. panta otrās daļas 1. punktā minēto pašvaldības izglītības ekosistēmas attīstības stratēģiju;
 1²) nodrošina pieejamu un kvalitatīvu izglītību savā teritorijā atbilstoši valsts noteiktajiem mērķiem un personas vajadzībām;
 1³) (izslēgts ar 20.10.2022. likumu);
 2) pieņem darbā un atbrīvo no darba tās padotībā esošo vispārējās izglītības iestāžu, tai skaitā speciālās izglītības iestāžu, profesionālās izglītības iestāžu, interešu izglītības iestāžu un profesionālās ievirzes izglītības iestāžu, vadītājus;
