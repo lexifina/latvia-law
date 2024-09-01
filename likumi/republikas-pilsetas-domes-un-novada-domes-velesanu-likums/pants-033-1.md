@@ -1,6 +1,6 @@
 33.¹ pants. (1) Vēlētājs, kurš uzturas ārvalstī, vēlēšanās var piedalīties, balsojot pa pastu. Vēlētājs var pieteikties balsošanai pa pastu 70 dienas pirms vēlēšanu dienas, bet ne vēlāk kā 42 dienas pirms vēlēšanu dienas.
 (2) Pieteikumu balsošanai pa pastu vēlētājs iesniedz:
-1) izmantojot valsts pārvaldes pakalpojumu portālā www.latvija.lv vai Pilsonības un migrācijas lietu pārvaldes oficiālajā tīmekļvietnē pieejamo bezmaksas elektronisko pakalpojumu;
+1) izmantojot valsts pārvaldes pakalpojumu portālā www.latvija.gov.lv vai Pilsonības un migrācijas lietu pārvaldes oficiālajā tīmekļvietnē pieejamo bezmaksas elektronisko pakalpojumu;
 2) nosūtot to uz Centrālās vēlēšanu komisijas oficiālo elektronisko adresi;
 3) jebkurā no Centrālās vēlēšanu komisijas noteiktajām Latvijas Republikas diplomātiskajām vai konsulārajām pārstāvniecībām, ierodoties personiski vai nosūtot pieteikumu pa pastu. Latvijas Republikas diplomātiskā vai konsulārā pārstāvniecība nosūta vēlētāja pieteikumu Centrālajai vēlēšanu komisijai;
 4) rakstveidā Centrālajai vēlēšanu komisijai.

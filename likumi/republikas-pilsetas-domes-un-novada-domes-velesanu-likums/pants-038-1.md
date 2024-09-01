@@ -13,7 +13,7 @@
 1) pēc kurām nevar identificēt vēlētāju;
 2) kuras nav apzīmogotas ar atrašanās vietas pašvaldības vēlēšanu komisijas zīmogu;
 3) ja attiecīgā persona nav reģistrēta vēlētāju sarakstā attiecīgajā vēlēšanu apgabalā;
-4) ja, pēc vēlētāju reģistra ziņām, attiecīgā persona jau ir balsojusi.
+4) ja, pēc Elektroniskā tiešsaistes vēlētāju reģistra ziņām, attiecīgā persona jau ir balsojusi.
 (5) Derīgās reģistrācijas aploksnes novieto vienkopus un vēlētāju sarakstā izdara atzīmi, ka saņemta derīga reģistrācijas aploksne. Derīgo reģistrācijas aplokšņu kopskaitu ieraksta vēlēšanu gaitas žurnālā. Nederīgās reģistrācijas aploksnes neatver, bet to kopskaitu ieraksta vēlēšanu gaitas žurnālā.
 (6) Atverot derīgu reģistrācijas aploksni, pārbauda, vai tajā ir tikai viena vēlēšanu (pa pastu saņemtām balsīm - pasta vēlēšanu) aploksne. Ja reģistrācijas aploksnē ir vairākas šādas aploksnes, tās visas uzskatāmas par nederīgām. Pasta vēlēšanu aploksne uzskatāma par nederīgu, ja reģistrācijas aploksnē nav parakstīta apliecinājuma, ka vēlētājs balsojis personiski.
 (7) (Izslēgta ar 20.10.2022. likumu)

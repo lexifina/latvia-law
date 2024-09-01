@@ -11,7 +11,7 @@ f) kandidāts ir Eiropas Parlamenta deputāts un nav iesniedzis vēlēšanu komi
 (3) Kandidāts svītrojams, pamatojoties uz attiecīgas iestādes izdotu izziņu vai tiesas spriedumu. To, ka kandidāts:
 1) neatbilst šā likuma 8.panta pirmās daļas prasībām, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
 1¹) vēlēšanu dienā nav sasniedzis 18 gadu vecumu, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
-1²) nav reģistrēts vēlētāju reģistrā, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
+1²) nav reģistrēts Fizisko personu reģistrā, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
 2) nav bez pārtraukuma reģistrēts dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā vismaz pēdējos 10 mēnešus pirms kandidātu saraksta iesniegšanas dienas, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
 2¹) ir iekļauts kandidātu sarakstā citas domes vēlēšanām, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
 2²) likumā paredzētajā kārtībā atzīts par rīcības nespējīgu, - apliecina Pilsonības un migrācijas lietu pārvaldes izziņa;
