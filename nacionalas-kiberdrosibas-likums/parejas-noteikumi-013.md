@@ -1,0 +1,1 @@
+13. Būtisko pakalpojumu sniedzēji, kas ir finanšu vienības regulas 2022/2554 2. panta 2. punkta izpratnē, līdz 2025. gada 17. janvārim attiecībā uz risku pārvaldību - trešo personu saistīto risku pārvaldību, darbības noturību, testēšanu un incidentu ziņošanu - piemēro attiecīgo jomu regulējošos normatīvajos aktos noteiktās prasības.

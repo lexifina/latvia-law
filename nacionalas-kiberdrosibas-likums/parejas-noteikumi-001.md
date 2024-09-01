@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Informācijas tehnoloģiju drošības likums (Latvijas Vēstnesis, 2010, 178. nr.; 2012, 179. nr.; 2013, 228. nr.; 2015, 34. nr.; 2017, 132. nr.; 2018, 210. nr.).

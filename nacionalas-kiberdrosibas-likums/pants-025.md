@@ -1,0 +1,10 @@
+25. pants. Subjekta vadītāja un kiberdrošības pārvaldnieka kompetence
+(1) Subjekta kiberdrošības pārvaldību nodrošina un par to atbild subjekta vadītājs. Katra subjekta vadītājs nosaka atbildīgo personu, kura īsteno un pārrauga kiberdrošības pasākumu īstenošanu attiecīgajā subjektā (turpmāk - kiberdrošības pārvaldnieks). Ministru kabinets nosaka kiberdrošības pārvaldniekam izvirzāmās prasības.
+(2) Subjekts nekavējoties, bet ne vēlāk kā piecu darbdienu laikā paziņo Nacionālajam kiberdrošības centram un Satversmes aizsardzības birojam par kiberdrošības pārvaldnieka noteikšanu. Paziņojumā norāda kiberdrošības pārvaldnieka vārdu, uzvārdu, personas kodu, amatu, elektroniskā pasta adresi un tālruņa numuru.
+(3) Informācijas un komunikācijas tehnoloģiju kritiskās infrastruktūras īpašnieks vai tiesiskais valdītājs kiberdrošības pārvaldnieku nosaka pēc saskaņošanas ar Satversmes aizsardzības biroju, kas pārbauda kiberdrošības pārvaldnieka atbilstību izvirzītajām prasībām.
+(4) Subjekts nekavējoties, bet ne vēlāk kā piecu darbdienu laikā paziņo Nacionālajam kiberdrošības centram un Satversmes aizsardzības birojam par jebkādām šā panta otrajā daļā minētajā paziņojumā norādīto ziņu izmaiņām.
+(5) Kiberdrošības pārvaldniekam ir šādi pienākumi:
+1) organizēt institūcijas informācijas un komunikācijas tehnoloģiju infrastruktūras drošības pasākumus;
+2) ne retāk kā reizi gadā veikt informācijas un komunikācijas tehnoloģiju drošības pārbaudi un atbilstoši tās rezultātiem organizēt konstatēto trūkumu novēršanu;
+3) vismaz reizi gadā apmeklēt kiberincidentu novēršanas institūcijas organizētu apmācību kiberdrošības jautājumos;
+4) ne retāk kā reizi gadā nodrošināt, ka tiek veikta institūcijā nodarbināto instruktāža par subjektam aktuālajiem kiberriskiem un kiberdrošību.

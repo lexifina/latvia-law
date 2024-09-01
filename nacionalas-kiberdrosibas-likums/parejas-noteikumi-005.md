@@ -1,0 +1,1 @@
+5. Līdz šā likuma 17. panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2025. gada 1. janvārim ir piemērojami Ministru kabineta 2016. gada 1. novembra noteikumi Nr. 695 "Digitālās drošības uzraudzības komitejas nolikums", ciktāl tie nav pretrunā ar šo likumu.
