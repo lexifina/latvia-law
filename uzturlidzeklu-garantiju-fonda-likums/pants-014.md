@@ -1,6 +1,6 @@
 14. pants. Uzturlīdzekļu izmaksas izbeigšana
 (1) Fonda administrācija izbeidz uzturlīdzekļu izmaksu, ja iestājies vismaz viens no šādiem apstākļiem:
-1) persona pēc pilngadības sasniegšanas nav uzsākusi vai ir pārtraukusi iegūt pamatizglītību, vidējo izglītību, arodizglītību vai speciālo izglītību Latvijas Republikā;
+1) persona pēc pilngadības sasniegšanas nav uzsākusi vai ir pārtraukusi iegūt pamatizglītību, vidējo izglītību, arodizglītību vai speciālo izglītību;
 2) bērns sasniedzis 21 gada vecumu;
 3) (izslēgts ar 03.04.2019. likumu);
 4) bērns stājies laulībā;

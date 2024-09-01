@@ -1,7 +1,7 @@
 17. pants. Iesniedzēja pienākumi
 (1) Iesniedzējam ir pienākums informēt Fonda administrāciju par apstākļiem, kas ietekmē viņa tiesības saņemt uzturlīdzekļus, ne vēlāk kā triju darba dienu laikā no šo apstākļu iestāšanās dienas, iesniedzot Fonda administrācijai attiecīgu iesniegumu, ja:
 1) bērns neatrodas iesniedzēja aprūpē, izņemot gadījumu, kad iesniegumu ir iesniegusi pilngadīga persona par uzturlīdzekļu izmaksu savam uzturam;
-2) pilngadīga persona neturpina iegūt izglītību Latvijas Republikā;
+2) pilngadīga persona neturpina iegūt izglītību;
 3) iesniedzējam vai bērnam nav deklarētas dzīvesvietas Latvijas Republikā;
 4) iesniedzējs ir saņēmis uzturlīdzekļus, tostarp ja uzturlīdzekļu maksājumi veikti ar trešās personas starpniecību (izņemot zvērinātu tiesu izpildītāju), iesniegumā norādot saņemto uzturlīdzekļu apmēru un datumu, kad uzturlīdzekļi saņemti;
 5) uzturlīdzekļu izmaksa no Fonda veikta šā likuma 11. pantā noteiktajā kārtībā un parādnieks īsteno bērna aprūpi Civillikuma 177. panta ceturtās daļas un 178. panta otrās daļas izpratnē;
