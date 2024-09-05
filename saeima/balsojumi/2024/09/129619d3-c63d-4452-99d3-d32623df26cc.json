@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 1,
+ "datums": "2024-09-05",
+ "ieraksts": {
+  "dkp_id": "090aea38-0444-4e5a-af0c-d11a0ce72311",
+  "lastmodtime": "\"AAAAAAJAcV4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Leila#Ramona#Jānis#Lauris#Linda#Atis#Jānis#Līga#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Rasima#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#ZZS#ST!#JV#LPV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#JV# #JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# # #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#PRO#LPV#JV#AS#LPV#PRO#JV#ZZS#PRO#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "05.09.2024 09:12:44",
+  "VOTEMOTIVE": "Par Viestura Zariņa 14. Saeimas deputāta pilnvaru apstiprināšanu uz laiku, kamēr no partijas Jaunā VIENOTĪBA kandidātu saraksta Vidzemes vēlēšanu apgabalā ievēlētie deputāti pilda ministru pienākumus (552/Lm14)",
+  "VOTING_ID": "129619d3-c63d-4452-99d3-d32623df26cc",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "87",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/130511a6-88d9-4aed-82e1-b69cfa64ce30/download/14.saeimas-2024.gada-rudens-sesija-1-vote.xml",
+  "sha256": "29c6e70f61d1652983d917490820d18d08a461e2abad62698de77111f4be2135",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
