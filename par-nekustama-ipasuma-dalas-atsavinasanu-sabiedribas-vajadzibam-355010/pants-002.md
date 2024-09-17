@@ -1,0 +1,1 @@
+2. pants. Šā likuma 1. panta pirmajā daļā minētā nekustamā īpašuma sastāvā esošais zemes gabals atsavināms Sabiedrības vajadzībām nepieciešamā nekustamā īpašuma atsavināšanas likumā noteiktajā kārtībā.
