@@ -1,0 +1,1 @@
+1. pants. Atdot valstij Latvijas Brīvo arodbiedrību savienībai nodoto nekustamo īpašumu Rīgā, Vaļņu ielā 32 (kadastra Nr. 0100 005 0111), kura sastāvā ir zemes gabals 607 kvadrātmetru platībā un piecstāvu administratīvā ēka.

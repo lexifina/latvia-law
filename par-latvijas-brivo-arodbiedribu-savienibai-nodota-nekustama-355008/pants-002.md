@@ -1,0 +1,1 @@
+2. pants. Latvijas Brīvo arodbiedrību savienība līdz 2024. gada 31. oktobrim nodod Finanšu ministrijai šā likuma 1. pantā minēto nekustamo īpašumu ar nodošanas un pieņemšanas aktu. Latvijas Brīvo arodbiedrību savienība, nododot minēto nekustamo īpašumu, nodrošina, ka tas ir atbrīvots no kustamās mantas.
