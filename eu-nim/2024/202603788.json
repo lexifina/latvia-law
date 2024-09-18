@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 12. septembra likums \"Grozījums likumā \"Par presi un citiem masu informācijas līdzekļiem\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "181A",
+  "official_journal_page": null,
+  "official_journal_date": "2024-09-17",
+  "entry_into_force": "2024-09-18",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03788",
+  "nim_celex": "72016L0800LVA_202603788",
+  "nim_id": "202603788",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/16082939-b540-4130-91a0-255a58c91b6d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
