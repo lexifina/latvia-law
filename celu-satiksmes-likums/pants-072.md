@@ -1,6 +1,6 @@
 72. pants. Transportlīdzekļu reģistrācijas un numura zīmju lietošanas noteikumu pārkāpšana
 (1) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē, kurš nav reģistrēts noteiktajā kārtībā, piemēro naudas sodu no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
-(1¹) Par tāda Krievijas Federācijā reģistrēta transportlīdzekļa neatļautu izmantošanu ceļu satiksmē, kurš nav reģistrēts Latvijā, piemēro naudas sodu no simt piecdesmit līdz četrsimt naudas soda vienībām.
+(1¹) Par tāda Krievijas Federācijā vai Baltkrievijas Republikā reģistrēta transportlīdzekļa neatļautu izmantošanu ceļu satiksmē, kurš nav reģistrēts Latvijā, piemēro naudas sodu no simt piecdesmit līdz četrsimt naudas soda vienībām.
 (2) Par braukšanu ar transportlīdzekli, kuram nav kādas no noteiktajām numura zīmēm, piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
 (3) Par braukšanu ar transportlīdzekli, kuram nav nevienas no noteiktajām numura zīmēm, piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
 (4) Par braukšanu ar transportlīdzekli, kura numura zīmes neatbilst attiecīgā transportlīdzekļa reģistrācijas dokumentiem, piemēro naudas sodu transportlīdzekļa vadītājam no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
