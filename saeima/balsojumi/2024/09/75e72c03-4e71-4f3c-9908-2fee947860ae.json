@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 4,
+ "datums": "2024-09-19",
+ "ieraksts": {
+  "dkp_id": "242717e2-7f04-4766-890b-8aec9946fe80",
+  "lastmodtime": "\"AAAAAAJB/J0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Andris#Jurģis#Andris#Andrejs#Inese#Amils#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Alīna#Jekaterina#Ilze#Nauris#Andrejs#Irma#Harijs#Edmunds#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Gunārs#Igors#Gundars#Ramona#Jānis#Linda#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Bērziņš#Klotiņš#Šuvajevs#Vilks#Kalniņa#Saļimovs#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Gendele#Drelinga#Vergina#Puntulis#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Kūtris#Judins#Daudze#Petraviča#Patmalnieks#Liepiņa#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "ST!#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#ZZS#NA#PRO#ZZS#JV#ST!#NA#ZZS#LPV#AS#LPV#NA#JV#NA#PRO#ZZS#JV#PRO#JV#ST!#JV#NA# #JV#ZZS#JV#AS#ZZS#LPV#ZZS#ST!#JV# #JV#ST!#JV#ZZS#NA#NA#JV#LPV#AS#JV#AS# #AS#AS#JV#ZZS#ZZS#ZZS#ST!#ZZS#LPV#JV#LPV#JV#ZZS#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.09.2024 13:33:25",
+  "VOTEMOTIVE": "Par Administratīvās apgabaltiesas tiesneses Laumas Paegļkalnas atbrīvošanu no tiesneša amata (565/Lm14)",
+  "VOTING_ID": "75e72c03-4e71-4f3c-9908-2fee947860ae",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "9",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/768c87f5-5d08-498a-ad73-5e3080ddc444/download/14.saeimas-2024.gada-rudens-sesija-4-vote.xml",
+  "sha256": "953ec29c96aa7c75c797242374a1b77dea0a567e6dc2d1cb1059e8bf817c9a5b",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
