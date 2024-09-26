@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 24. septembra noteikumi Nr. 612 \"Grozījumi Ministru kabineta 2022. gada 8. februāra noteikumos Nr. 96 \"Noteikumi par Eiropas Savienības tiesību aktiem, par kuru pārkāpumiem ceļama trauksme vai kuros ir paredzēta cita ziņošanas kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "187",
+  "official_journal_page": null,
+  "official_journal_date": "2024-09-25",
+  "entry_into_force": "2024-09-26",
+  "notification_date": "2026-06-02",
+  "commission_reference": "MNE(2026)03619",
+  "nim_celex": "72023R1114LVA_202603619",
+  "nim_id": "202603619",
+  "transposes_celex": [
+    "32023R1114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1b095c7-b890-47bd-aa65-b005a36f1898",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
