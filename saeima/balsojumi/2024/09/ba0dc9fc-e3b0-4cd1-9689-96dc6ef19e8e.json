@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 6,
+ "datums": "2024-09-26",
+ "ieraksts": {
+  "dkp_id": "c6f62b68-b064-4470-bc39-6594ea3ca80d",
+  "lastmodtime": "\"AAAAAAJDFK4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Didzis#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ričards#Viktors#Edmunds#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Līga#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Edgars#Igors#Raimonds#Leila#Ramona#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Līga#Antoņina#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Šmits#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Šlesers#Pučka#Zivtiņš#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Putra#Judins#Bergmanis#Rasima#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Smiltēns",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ST!#ZZS#AS#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#LPV#ST!#LPV#ZZS#JV#PRO#NA#JV#ST!#JV#NA#JV#JV# #JV#ZZS#JV#ZZS#AS#ZZS#ST!# #JV# #JV#ST!#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS#PRO#LPV#JV#AS#LPV#PRO# #JV#ZZS#PRO#AS",
+  "RESULT": "Pret#Pret#Atturas#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Pret#Atturas#Par#Par#Nebalsoja#Par#Atturas#Pret#Atturas#Par#Par#Par#Pret#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Par#Atturas#Par#Par#Pret#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Atturas#Atturas#Par#Par#Pret#Nebalsoja#Par#Par#Atturas#Pret#Par#Par#Par#Atturas#Par#Par#Atturas#Pret#Par#Par#Pret#Par#Par#Pret#Par#Pret#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "26.09.2024 12:13:29",
+  "VOTEMOTIVE": "Transporta enerģijas likums (660/Lp14), 1.lasījums",
+  "VOTING_ID": "ba0dc9fc-e3b0-4cd1-9689-96dc6ef19e8e",
+  "VOTERESULT_ABSTAIN": "10",
+  "VOTERESULT_AGAINST": "22",
+  "VOTERESULT_FOR": "49",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "33",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a4fcaa45-72b7-4b84-939c-a25511235e6c/download/14.saeimas-2024.gada-rudens-sesija-6-vote.xml",
+  "sha256": "13f872c1d710aa96de83ab56430edbadd5a5614f432c9b9133caa0e8931831a9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
