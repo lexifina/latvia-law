@@ -1,0 +1,3 @@
+100. Saskaņā ar Sabiedrisko pakalpojumu regulēšanas komisijas 2020. gada 8. oktobra lēmumu Nr. 1/15 "Dabasgāzes uzglabāšanas sistēmas pakalpojuma tarifu aprēķināšanas metodika" noteiktā regulatīvā perioda beigās 2026. gada 30. aprīlī regulatīvā rēķina atlikumu, kas izveidojies, vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators attiecina šādi:
+1) ja regulatīvā rēķina atlikums ir pozitīvs, uzkrātos ieņēmumus iekļauj rezervēs nolūkā finansēt aktīvus, kas nepieciešami Inčukalna pazemes gāzes krātuves darbības funkcionalitātes un elastības uzlabošanai, iegādei, izveidei vai modernizēšanai;
+2) ja regulatīvā rēķina atlikums ir negatīvs, izdevumus, kas radušies, sedz no iepriekšējo gadu nesadalītās peļņas.

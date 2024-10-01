@@ -1,0 +1,1 @@
+97. No 2024. gada 1. oktobra līdz 2030. gada 30. aprīlim par uzglabāšanas pakalpojumu Inčukalna pazemes gāzes krātuves solidaritātes daļā vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators piemēro maksu, kas atbilst Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2021. gada 1. marta lēmumā Nr. 18 noteiktajam krājumu pārcelšanas produkta tarifam.
