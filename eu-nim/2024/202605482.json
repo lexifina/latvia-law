@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 24. septembra noteikumu Nr. 617 “Noteikumi par ārstniecības personu un studējošo, kuri apgūst medicīniskās izglītības programmas, kompetenci ārstniecībā un šo personu teorētisko un praktisko zināšanu apjomu”",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "187",
+  "official_journal_page": null,
+  "official_journal_date": "2024-09-25",
+  "entry_into_force": "2024-10-01",
+  "notification_date": "2026-07-14",
+  "commission_reference": "MNE(2026)05482",
+  "nim_celex": "72024L1712LVA_202605482",
+  "nim_id": "202605482",
+  "transposes_celex": [
+    "32024L1712"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9e10802-e324-4bc7-a53d-ecce8d933975",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
