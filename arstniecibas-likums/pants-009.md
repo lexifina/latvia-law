@@ -1,5 +1,8 @@
-9.pants. (1) Ārstniecības personu, ārstniecības atbalsta personu, ārstniecības iestāžu, medicīnisko ierīču un ar noteiktām slimībām slimojošu pacientu, un jaundzimušo reģistru (ar ziņām par viņu mātēm) izveides, papildināšanas un uzturēšanas kārtību, kā arī ārstniecībā izmantojamo medicīnisko tehnoloģiju apstiprināšanas un jaunu medicīnisko tehnoloģiju ieviešanas kārtību nosaka Ministru kabinets.
-(1¹) (Daļa stājas spēkā 01.10.2024. un iekļauta likuma redakcijā uz 01.10.2024. Sk. pārejas noteikumu 40. punktu)
+9.pants. (1) Ārstniecības iestāžu, medicīnisko ierīču un ar noteiktām slimībām slimojošu pacientu, un jaundzimušo reģistru (ar ziņām par viņu mātēm) izveides, papildināšanas un uzturēšanas kārtību, kā arī ārstniecībā izmantojamo medicīnisko tehnoloģiju apstiprināšanas un jaunu medicīnisko tehnoloģiju ieviešanas kārtību nosaka Ministru kabinets.
+(1¹) Ministru kabinets nosaka:
+1) ārstniecības personu un ārstniecības atbalsta personu reģistra izveides un uzturēšanas kārtību;
+2) ārstniecības personu un ārstniecības atbalsta personu reģistrācijas kārtību un prasības;
+3) prasības, kas noteic ārstniecības personu un ārstniecības atbalsta personu profesionālo atbilstību.
 (2) Katastrofu medicīnas sistēmas organizēšanas kārtību nosaka Ministru kabinets.
 (3) Ministru kabinets nosaka pirmās palīdzības sniegšanas apmācības sistēmu, pirmās palīdzības sniegšanas apmācības programmu saturu un šīs apmācības nodrošināšanas kārtību.
 (3¹) Ministru kabinets nosaka pirmās palīdzības sniegšanas apmācību pārvaldības informācijas sistēmas pārzini, šajā sistēmā iekļaujamās informācijas apjomu un apstrādes kārtību, kā arī nosacījumus piekļuves nodrošināšanai valsts informācijas sistēmā iekļautajai informācijai."
