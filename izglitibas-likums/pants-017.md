@@ -31,6 +31,7 @@
 19) nodrošina pašvaldības pedagoģiski medicīniskās komisijas darbību un pieejamību bērniem ar speciālām vajadzībām;
 20) veic obligātā izglītības vecuma bērnu uzskaiti Ministru kabineta noteiktajā kārtībā;
 21) nosaka pabalstu un cita veida materiālās palīdzības apmēru un piešķiršanas kārtību izglītojamajiem tās padotībā esošās izglītības iestādēs;
+21¹) saistošajos noteikumos nosaka kārtību un apmēru, kādā tās padotībā esošo izglītības iestāžu pedagogiem kompensē transporta izdevumus un dzīvojamās telpas īres izdevumus, kā arī nosacījumus šo kompensāciju piešķiršanai. Kompensāciju transporta izdevumu un dzīvojamās telpas īres izdevumu segšanai nepiešķir, ja pedagogs saņem citos normatīvajos aktos noteikto pašvaldības atbalstu minēto izdevumu segšanai;
 22) veido un īsteno politiku pieaugušo izglītībā, nodrošina pieaugušo izglītībai paredzētā finansējuma sadali;
 23) finansē no sava budžeta valsts pirmsskolas izglītības vadlīnijām, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartiem atbilstošu mācību līdzekļu - papildu literatūras, uzskates līdzekļu, izdales materiālu, mācību tehnisko līdzekļu, mācību materiālu, iekārtu un aprīkojuma, rotaļlietu un piederumu - iegādi, var finansēt arī elektronisko resursu, interaktīvo mācību platformu un mācību un saziņas programmatūru iegādi vai abonēšanas maksu tās padotībā esošām izglītības iestādēm;
 23¹) veicina iespēju izglītības iestādēm izmantot vienoto bibliotēku informācijas sistēmu;
