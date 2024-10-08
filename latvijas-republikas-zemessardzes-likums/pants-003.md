@@ -9,4 +9,5 @@ Zemessardze:
 7) (izslēgts ar 22.05.2014. likumu);
 8) sniedz atbalstu valsts un pašvaldību institūcijām likumpārkāpumu novēršanā, sabiedriskās kārtības un drošības garantēšanā;
 9) sniedz atbalstu informācijas tehnoloģiju drošības incidentu novēršanas institūcijām;
-10) sniedz atbalstu Jaunsardzes centram valsts aizsardzības mācības un jaunsargu interešu izglītības programmas īstenošanā.
+10) sniedz atbalstu Jaunsardzes centram valsts aizsardzības mācības un jaunsargu interešu izglītības programmas īstenošanā un Pulkveža Oskara Kalpaka profesionālajai vidusskolai izglītības programmas īstenošanā;
+11) piedalās valsts aizsardzības dienesta karavīru apmācīšanā.
