@@ -1,0 +1,1 @@
+120. Šā likuma 73.¹ pants, izņemot otrās daļas 4. punktu, un 198. panta trīspadsmitā daļa, izņemot noteikumu par valodas prasību nodrošināšanu bankomātos, stājas spēkā 2025. gada 1. janvārī. Šā likuma 73.¹ panta otrās daļas 4. punkts un 198. panta trīspadsmitā daļa attiecībā uz valodas prasību nodrošināšanu bankomātos stājas spēkā 2025. gada 30. janvārī.

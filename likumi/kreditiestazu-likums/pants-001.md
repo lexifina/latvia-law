@@ -104,7 +104,9 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 67) nozīmīgā uzraudzītā kredītiestāde - nozīmīgā uzraudzītā iestāde regulas Nr. 468/2014 2. panta 16. punkta izpratnē;
 68) ārpakalpojums - jebkura līgumiska vienošanās starp kredītiestādi un ārpakalpojuma sniedzēju, kas paredz šim ārpakalpojuma sniedzējam pienākumu veikt noteiktu procesu, pakalpojumu vai citu darbību, ko citādi veiktu pati kredītiestāde;
 69) ārvalsts grupa - grupa, kuras mātes sabiedrība ir reģistrēta ārvalstī;
-70) dzimumneitrāla atalgojuma politika - atalgojuma politika, kas balstīta uz vienādu darba samaksu sievietēm un vīriešiem par vienādu darbu vai vienādi vērtīgu darbu.
+70) dzimumneitrāla atalgojuma politika - atalgojuma politika, kas balstīta uz vienādu darba samaksu sievietēm un vīriešiem par vienādu darbu vai vienādi vērtīgu darbu;
+71) bankomāts - elektromehāniska ierīce, kas klientam ļauj izņemt euro banknotes no viņa maksājumu konta, izmantojot maksājumu kartei piesaistītus maksājumu instrumentus vai citus līdzekļus;
+72) kredītiestādes nodrošināts bankomāts - bankomāts, kurš atrodas kredītiestādes īpašumā, valdījumā vai turējumā vai kuru attiecīgās kredītiestādes uzdevumā ir uzstādījis ārpakalpojuma sniedzējs.
 (2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
 1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
 2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;
