@@ -16,3 +16,4 @@
 2) uzlikt par pārkāpumu atbildīgajai fiziskajai personai soda naudu līdz 700 000 euro;
 3) kā alternatīvu šīs daļas 1. vai 2. punktā noteiktajam uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
 (12) Par ieguldījumu pakalpojumu sniegšanu bez kredītiestādes licences (atļaujas), kuru izsniedz saskaņā ar šā likuma 11.² pantu, Latvijas Banka ir tiesīga piemērot šā panta desmitajā daļā noteiktās sankcijas.
+(13) (Daļa stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 120. punktu)
