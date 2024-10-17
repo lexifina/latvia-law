@@ -14,4 +14,4 @@
 (7) Fonda ieguldītājiem paredzētā pamatinformācija kļūst saistoša sabiedrības un ieguldītāja savstarpējās attiecībās, tiklīdz ieguldītājs fonda prospektā un pārvaldes nolikumā noteiktajā kārtībā ir ieguvis attiecīgā fonda ieguldījumu apliecības, izņemot gadījumu, kad šī informācija ir nepatiesa, neskaidra, maldinoša vai neatbilst attiecīgā fonda prospektā noteiktajam. Minēto informāciju skaidri norāda ieguldītājiem paredzētajā pamatinformācijā.
 (8) Šā panta otrajā daļā minēto informāciju regulāri atjauno, ievērojot Eiropas Komisijas regulas Nr. 583/2010 prasības.
 (9) Detalizētu ieguldītājiem paredzētās pamatinformācijas formātu un saturu nosaka saskaņā ar Eiropas Komisijas regulu Nr. 583/2010.
-(10) Latvijas Banka nosaka ieguldītājiem paredzētās pamatinformācijas sagatavošanas kārtību.
+(10) (Izslēgta ar 26.09.2024. likumu)

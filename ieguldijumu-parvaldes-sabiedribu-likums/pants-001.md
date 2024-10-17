@@ -56,3 +56,4 @@ b) kuri reģistrēti vienā dalībvalstī un kurus apvieno jaunizveidotā fondā
 (3) Šādi termini atbilst Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulā (ES) 2019/2088 par informācijas atklāšanu, kas saistīta ar ilgtspēju, finanšu pakalpojumu nozarē (turpmāk - Regula Nr. 2019/2088) lietotajiem terminiem:
 1) ilgtspējas risks - terminam "ilgtspējas risks" Regulas Nr. 2019/2088 2. panta 22. punkta izpratnē;
 2) ilgtspējas faktori - terminam "ilgtspējas faktori" Regulas Nr. 2019/2088 2. panta 24. punkta izpratnē.
+(4) Termini "ilgtspējas ziņojums" un "konsolidētais ilgtspējas ziņojums" ir lietoti Ilgtspējas informācijas atklāšanas likuma izpratnē.

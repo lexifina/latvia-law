@@ -1,5 +1,5 @@
 75.¹ pants. Vispārīgie noteikumi par sabiedrības pārskatiem
-(1) Sabiedrība kārto grāmatvedību un sagatavo gada pārskatu saskaņā ar likumu "Par grāmatvedību", šo likumu un Latvijas Bankas noteikumiem.
+(1) Sabiedrība kārto grāmatvedību un sagatavo gada pārskatu saskaņā ar Grāmatvedības likumu, Ilgtspējas informācijas atklāšanas likumu, šo likumu un Latvijas Bankas noteikumiem.
 (2) Sabiedrība par katru pārskata gadu sagatavo gada pārskatu, kurā iekļauj finanšu pārskatus, kā arī sabiedrības vadības ziņojumu un paziņojumu par vadības atbildību.
-(3) Latvijas Banka nosaka sabiedrības gada pārskata un konsolidētā gada pārskata sagatavošanas kārtību atbilstoši normatīvajiem aktiem par grāmatvedības kārtošanu un starptautiskajiem finanšu pārskatu standartiem.
+(3) Latvijas Banka nosaka sabiedrības gada pārskata un konsolidētā gada pārskata sagatavošanas kārtību atbilstoši normatīvajiem aktiem par grāmatvedības kārtošanu un starptautiskajiem finanšu pārskatu standartiem, kas pieņemti saskaņā ar Komisijas 2023. gada 13. septembra regulu (ES) Nr. 2023/1803, ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002.
 (4) Ja tas nepieciešams uzraudzības funkciju veikšanai, Latvijas Bankai ir tiesības pieprasīt, lai sabiedrība sagatavo citus pārskatus, nosakot šo pārskatu sagatavošanas un iesniegšanas kārtību.
