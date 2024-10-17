@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 15. oktobra noteikumi Nr. 639 \"Sabiedrības līdzdalības kārtība attīstības plānošanas procesā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "202",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-16",
+  "entry_into_force": "2024-10-17",
+  "notification_date": "2025-10-13",
+  "commission_reference": "MNE(2025)05660",
+  "nim_celex": "72023L2413LVA_202505660",
+  "nim_id": "202505660",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7aff99a1-609e-4232-be9f-eee0ec6584bc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
