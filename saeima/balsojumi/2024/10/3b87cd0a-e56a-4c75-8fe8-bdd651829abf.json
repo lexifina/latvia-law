@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 12,
+ "datums": "2024-10-17",
+ "ieraksts": {
+  "dkp_id": "91a57bda-706b-4f0b-8343-423c5d9abe3b",
+  "lastmodtime": "\"AAAAAAJFGZo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Skaidrīte#Mairita#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Didzis#Ģirts Valdis#Andris#Ģirts#Ingmārs#Viktors#Edmunds#Agnese#Jana#Ligita#Zanda#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Valdis#Ainārs#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Jānis#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Leila#Ramona#Jānis#Atis#Aleksandrs#Jānis#Līga",
+  "SURNAME": "Ivanovs#Šnore#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Līdaka#Pučka#Zivtiņš#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Drelinga#Vergina#Puntulis#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Šlesers#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Rasima#Petraviča#Patmalnieks#Švinka#Kiršteins#Skrastiņš#Kozlovska",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#JV#ST!#JV#LPV#LPV#ST!#NA#PRO#ZZS#JV#JV#AS#ST!#ZZS#JV#AS#ZZS#AS#ST!#LPV#JV#PRO#ZZS#JV#JV#ST!#JV#NA#JV# #JV#ZZS#JV#ZZS#ZZS#LPV#ST!#ST!# #JV# #JV#ST!#JV#NA#NA#JV#JV#LPV#AS#JV#NA#AS#AS#JV#NA#ZZS#ZZS#AS#ST!#PRO#LPV#JV#PRO# #JV#ZZS",
+  "RESULT": "Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Nebalsoja#Par#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Par#Nebalsoja#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.10.2024 15:47:50",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.1. Grozījumi Latvijas Nacionālās operas un baleta likumā (713/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "3b87cd0a-e56a-4c75-8fe8-bdd651829abf",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "38",
+  "VOTERESULT_FOR": "32",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "11",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b24bb3d7-ba96-4603-ac2a-ec6fcaaf9c12/download/14.saeimas-2024.gada-rudens-sesija-12-vote.xml",
+  "sha256": "e9910e60b5861c7b8f30c85337bd6708dc00940bfd8009d5dc8481ee01b7e0bf",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
