@@ -1,0 +1,2 @@
+16. pants. Programmas līguma noslēgšana
+Ja Šveices institūcijas apstiprina otrās kārtas programmas iesniegumu, vadošā iestāde saskaņā ar ietvarlīguma nosacījumiem slēdz programmas līgumu ar Šveices institūciju par katras programmas īstenošanu. Programmas līgumu paraksta vadošās iestādes vadītājs vai tā deleģēts pārstāvis. Ja programmas īstenošanas nodrošināšanai tas nepieciešams, papildus tiek piesaistīta viena vai vairākas līgumslēdzējpuses.

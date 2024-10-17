@@ -1,0 +1,1 @@
+1. Latvijas un Šveices sadarbības programmas vadības likumā minētajām programmām, individuālajiem projektiem, grantu shēmām, apakšprojektiem, kā arī Tehniskās palīdzības fonda, Projektu sagatavošanas fonda un Stipendiju fonda pasākumiem, kuru īstenošana uzsākta pirms šā likuma spēkā stāšanās, piemēro Latvijas un Šveices sadarbības programmas vadības likuma noteikumus.

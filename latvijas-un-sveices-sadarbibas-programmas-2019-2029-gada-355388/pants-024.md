@@ -1,0 +1,2 @@
+24. pants. Strīdu risināšanas kārtība, ja īstenotājs ir juridiskā persona
+Ja īstenotājs ir juridiskā persona vai šādu personu apvienība, strīdus, kas attiecas uz projekta vai iepriekš noteiktā projekta līguma izpildi, tai skaitā piešķirto finanšu līdzekļu izmaksāšanu, izmaksu turpināšanu vai līdzekļu atgūšanu, risina civiltiesiskā kārtībā. Dokumenti, kas sagatavoti un pieņemti šā panta pirmajā teikumā minēto darbību veikšanai (lēmumi, atzinumi, brīdinājumi, līgums un citi ar līgumu izpildi saistīti dokumenti), nav izskatāmi administratīvā procesa kārtībā.
