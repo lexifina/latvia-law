@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Revīzijas pakalpojumu likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2024/193.15",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-03",
+  "entry_into_force": "2024-10-17",
+  "notification_date": "2024-11-11",
+  "commission_reference": "MNE(2024)04800",
+  "nim_celex": "72022L2464LVA_202404800",
+  "nim_id": "202404800",
+  "transposes_celex": [
+    "32022L2464"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c1496f02-b89b-4242-b80a-b8932653393b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
