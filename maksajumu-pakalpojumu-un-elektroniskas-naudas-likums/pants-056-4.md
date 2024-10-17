@@ -1,0 +1,1 @@
+56.⁴ pants. Latvijā licencēta iestāde, kas vēlas kļūt par dalībnieku maksājumu un finanšu instrumentu norēķinu sistēmā likuma "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās" 1. panta pirmās daļas 1. punkta izpratnē, iesniedz sistēmas operatoram apliecinājumu par tās atbilstību šā likuma 56.³ pantā minētajām prasībām.
