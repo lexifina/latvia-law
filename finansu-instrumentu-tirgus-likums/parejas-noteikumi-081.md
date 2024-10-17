@@ -1,0 +1,1 @@
+81. Šā likuma 55.³ panta 1.¹ daļa un 55.⁵ panta pirmās daļas 2. punkta grozījumi par tā izteikšanu jaunā redakcijā piemērojami kapitālsabiedrības revīzijas komitejai no dienas, kad kapitālsabiedrībai saskaņā ar Ilgtspējas informācijas atklāšanas likumu ir pienākums sagatavot ilgtspējas ziņojumu un konsolidēto ilgtspējas ziņojumu.

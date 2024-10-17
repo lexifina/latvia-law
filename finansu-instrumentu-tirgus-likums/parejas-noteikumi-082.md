@@ -1,0 +1,1 @@
+82. Revīzijas komiteja, kas veic šā likuma 55.³ panta 1.¹ daļā noteiktos uzdevumus, šā likuma 55.⁶ panta 7.¹ daļā noteiktās prasības revīzijas komitejas loceklim piemēro, sākot ar 2026. gada 1. janvāri.

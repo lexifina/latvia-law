@@ -40,7 +40,7 @@
 (15²) Ja ieguldījumu brokeru sabiedrība vai ieguldījumu brokeru sabiedrības valdes vai padomes loceklis neievēro šā panta piecpadsmitās daļas ievaddaļā noteiktās prasības vai neatbilst minētajām prasībām, Latvijas Bankai ir tiesības piemērot šādus administratīvos pasākumus:
 1) pieprasīt, lai ieguldījumu brokeru sabiedrība vai par pārkāpumu atbildīgā persona nekavējoties izbeidz attiecīgo darbību;
 2) noteikt pagaidu aizliegumu ieguldījumu brokeru sabiedrības valdes vai padomes loceklim vai citai fiziskajai personai, kura ir atbildīga par pārkāpumu, veikt tai noteiktos pienākumus ieguldījumu brokeru sabiedrībā.
-(16) Ja persona nav ievērojusi šā likuma 54., 56., 56.³, 56.⁴, 57., 57.², 57.³ panta vai IV nodaļas prasības vai nav izpildījusi tai uzlikto pienākumu un nav noteiktā kārtībā ziņojusi par nozīmīgas līdzdalības iegūšanu vai zaudēšanu akciju sabiedrībā atbilstoši šā likuma 61.panta prasībām, Latvijas Banka ir tiesīga piemērot šādas sankcijas:
+(16) Ja persona nav ievērojusi šā likuma 54., 56., 57., 57.², 57.³ panta vai IV nodaļas prasības vai nav izpildījusi tai uzlikto pienākumu un nav noteiktā kārtībā ziņojusi par nozīmīgas līdzdalības iegūšanu vai zaudēšanu akciju sabiedrībā atbilstoši šā likuma 61.panta prasībām, Latvijas Banka ir tiesīga piemērot šādas sankcijas:
 1) publiskā paziņojumā norādīt par pārkāpumu atbildīgo fizisko vai juridisko personu un pārkāpuma būtību;
 2) (izslēgts ar 23.09.2021. likumu);
 3) uzlikt juridiskajai personai pēc apmēra lielāko soda naudu:

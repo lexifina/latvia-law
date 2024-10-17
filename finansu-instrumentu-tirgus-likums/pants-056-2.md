@@ -14,8 +14,9 @@ c) kādā veidā pasākums, kas veikts konkrētā principa piemērošanas vietā
 8) ja kapitālsabiedrība īsteno politiku attiecībā uz kapitālsabiedrības pārvaldes institūciju locekļu sastāva dažādību (daudzpusības politika), - aprakstu par šīs politikas mērķiem, īstenošanas pasākumiem un rezultātiem pārskata gadā.
 (2¹) Šā panta otrās daļas 8.punkts neattiecas uz tādu šā panta otrajā daļā minēto kapitālsabiedrību, kura pirmajā pārskata gadā, kad tā kļuvusi par emitentu šā likuma izpratnē, bet, sākot ar otro pārskata gadu, kad tā kļuvusi par emitentu šā likuma izpratnē, divus gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) nepārsniedz divus no šādiem kritērijiem:
 1) vidējais darbinieku skaits - 250;
-2) aktīvu kopsumma bilances datumā - 20 000 000 euro;
-3) gada tīrais apgrozījums (neto apgrozījums) - 40 000 000 euro.
+2) aktīvu kopsumma bilances datumā - 25 000 000 euro;
+3) gada tīrais apgrozījums (neto apgrozījums) - 50 000 000 euro.
+(2²) Ja kapitālsabiedrībai saskaņā ar Ilgtspējas informācijas atklāšanas likumu ir pienākums sagatavot ilgtspējas ziņojumu un - attiecīgā gadījumā - konsolidēto ilgtspējas ziņojumu un ziņot par ilgtspējas jautājumiem, šā panta otrās daļas 8. punktā minēto informāciju iekļauj ilgtspējas ziņojumā un - attiecīgā gadījumā - konsolidētajā ziņojumā. Šādā gadījumā uzskatāms, ka kapitālsabiedrība ir izpildījusi minētajā punktā noteiktās prasības, un paziņojumā par korporatīvo pārvaldību iekļauj attiecīgu atsauci.
 (3) Kapitālsabiedrība, kuras pārvedami vērtspapīri ir iekļauti regulētajā tirgū, izņemot tādu kapitālsabiedrību, kuras akcijas ir iekļautas regulētajā tirgū, paziņojumā par korporatīvo pārvaldību iekļauj:
 1) informāciju par kapitālsabiedrības iekšējās kontroles un riska pārvaldības sistēmas galvenajiem elementiem, kurus piemēro finanšu pārskatu sagatavošanā;
 2) (izslēgts ar 22.03.2012. likumu).
