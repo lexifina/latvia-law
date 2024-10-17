@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Maksājumu pakalpojumu un elektroniskās naudas likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "193",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-03",
+  "entry_into_force": "2024-10-17",
+  "notification_date": "2024-12-02",
+  "commission_reference": "MNE(2024)05269",
+  "nim_celex": "72024R0886LVA_202405269",
+  "nim_id": "202405269",
+  "transposes_celex": [
+    "32024R0886"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6742c459-7068-48c3-86a8-ac8c1d60f39d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
