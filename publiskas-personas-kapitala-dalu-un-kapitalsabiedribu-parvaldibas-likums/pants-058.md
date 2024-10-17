@@ -32,9 +32,7 @@ f) paziņojumu par korporatīvo pārvaldību;
 2) pastāvīgi, atbilstoši nepieciešamībai aktualizējot:
 a) informāciju par netipiskiem vai nozīmīga apjoma darījumiem ar saistītajām pusēm Finanšu instrumentu tirgus likuma 59.¹ panta izpratnē vismaz par pēdējiem pieciem gadiem,
 b) būtiskākās kapitālsabiedrības politikas, kurās definēti kapitālsabiedrības darbības principi attiecībā uz risku pārvaldību, interešu konflikta novēršanu, korupcijas apkarošanu, korporatīvo pārvaldību un citiem jautājumiem.
-(1²) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība papildus savā mājaslapā internetā publicē arī nefinanšu paziņojumus vai konsolidētos nefinanšu paziņojumus par pēdējiem pieciem gadiem, ja divus gadus pēc kārtas tās vidējais darbinieku skaits ir lielāks par 250 un tā atbilst vienam no šādiem kritērijiem:
-1) bilances kopsumma - lielāka par 20 miljoniem euro;
-2) neto apgrozījums - lielāks par 40 miljoniem euro.
+(1²) Šā likuma 58.² pantā minētā kapitālsabiedrība savā mājaslapā internetā publicē arī ilgtspējas ziņojumus vai konsolidētos ilgtspējas ziņojumus par pēdējiem pieciem gadiem un to apliecinājuma ziņojumus, kas sagatavoti atbilstoši Ilgtspējas informācijas atklāšanas likuma prasībām.
 (2) Ja ir objektīvi iemesli, kuru dēļ kapitālsabiedrība nevar publiskot šā panta pirmajā un 1.¹ daļā minēto informāciju, kurai noteikts komercnoslēpuma statuss saskaņā ar Komerclikuma 19.pantu, kapitālsabiedrība mājaslapā internetā publisko attiecīgu skaidrojumu.
 (3) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība nodrošina, ka šā panta pirmajā daļā minēto informāciju un otrajā daļā minēto skaidrojumu publisko arī tās meitas sabiedrība.
 (4) Šā panta pirmās daļas 2.punkta "a" apakšpunktā minētos starpperiodu pārskatus sagatavo atbilstoši normatīvajiem aktiem, kas regulē gada pārskatu sagatavošanu, un tajos ietilpst:
