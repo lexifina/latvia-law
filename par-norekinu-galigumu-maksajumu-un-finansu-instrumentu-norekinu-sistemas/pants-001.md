@@ -4,10 +4,12 @@ a) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot sistēmas uztu
 b) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk - dalībvalsts) likums,
 c) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Vērtspapīru un tirgu iestādi;
 2) iestāde - institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:
-a) tā ir Latvijas Republikā vai citā dalībvalstī reģistrēta kredītiestāde, filiāle, ārvalsts kredītiestādes filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
+a) tā ir dalībvalstī reģistrēta kredītiestāde, filiāle, ārvalsts kredītiestādes filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,
 b) tā ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, filiāle vai ārvalsts ieguldījumu brokeru sabiedrības filiāle,
-c) tā ir valsts pārvaldes institūcija vai valsts vai pašvaldības kapitālsabiedrība;
-d) (izslēgts ar 03.03.2011. likumu);
+c) tā ir valsts pārvaldes institūcija vai valsts vai pašvaldības kapitālsabiedrība,
+d) (izslēgts ar 03.03.2011. likumu),
+e) tā ir dalībvalstī licencēta maksājumu iestāde, ja tā piedalās sistēmā, kurā tiek apstrādāti tikai šā panta pirmās daļas 10. punkta "a" apakšpunktā minētie pārveduma rīkojumi,
+f) tā ir dalībvalstī licencēta elektroniskās naudas iestāde, ja tā piedalās sistēmā, kurā tiek apstrādāti tikai šā panta pirmās daļas 10. punkta "a" apakšpunktā minētie pārveduma rīkojumi;
 3) (izslēgts ar 30.09.2021. likumu);
 4) norēķinu aģents - institūcija, kas iestādēm vai centrālajam darījumu partnerim atver norēķinu kontus norēķiniem par sistēmā apstrādātajiem pārveduma rīkojumiem un, ja nepieciešams, minētajām iestādēm vai centrālajam darījumu partnerim var izsniegt kredītu norēķiniem;
 5) tīrvērtes centrs - institūcija, kas atbild par iestāžu neto pozīciju aprēķinu un centrālā darījumu partnera vai norēķinu aģenta neto pozīciju aprēķinu, ja minētās iestādes arī ir vienošanās dalībnieki un attiecīgā vienošanās paredz neto pozīciju aprēķinu;
