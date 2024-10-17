@@ -1,0 +1,1 @@
+13. Šā likuma 5. panta otrajā, trešajā un ceturtajā daļā un 58. panta otrajā daļā koriģētās jaunās sabiedrību robežvērtības piemēro, sākot ar 2024. pārskata gadu (pārskata gadu, kurš sākas 2024. gada 1. janvārī vai 2024. kalendāra gada laikā).

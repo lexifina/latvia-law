@@ -1,9 +1,10 @@
 91.pants. Gada pārskata un konsolidētā gada pārskata revīzija (pārbaude)
-(1) Šā likuma 3.panta pirmās daļas 1.punktā minētas sabiedrības sagatavoto gada pārskatu, ja tā ir vidēja vai liela sabiedrība vai ja tās pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kā arī koncerna mātes sabiedrības sagatavoto konsolidēto gada pārskatu revidē (pārbauda) un par veiktās revīzijas (pārbaudes) rezultātiem revidenta ziņojumu sniedz zvērināts revidents (vairāki zvērināti revidenti) vai zvērinātu revidentu komercsabiedrība (turpmāk - zvērināts revidents) atbilstoši likumam "Par zvērinātiem revidentiem".
+(1) Šā likuma 3.panta pirmās daļas 1.punktā minētas sabiedrības sagatavoto gada pārskatu, ja tā ir vidēja vai liela sabiedrība vai ja tās pārvedami vērtspapīri ir iekļauti regulētajā tirgū, kā arī koncerna mātes sabiedrības sagatavoto konsolidēto gada pārskatu revidē (pārbauda) un par veiktās revīzijas (pārbaudes) rezultātiem revidenta ziņojumu sniedz zvērināts revidents (vairāki zvērināti revidenti) vai zvērinātu revidentu komercsabiedrība (turpmāk - zvērināts revidents) atbilstoši Revīzijas pakalpojumu likumam.
+(1¹) Šā likuma 55. panta sestajā daļā minētās sabiedrības sagatavotā ilgtspējas ziņojuma un šā likuma 89. panta trešajā daļā minētās sabiedrības sagatavotā konsolidētā ilgtspējas ziņojuma atbilstību Ilgtspējas informācijas atklāšanas likuma prasībām apliecina zvērināts revidents.
 (2) Šā likuma 3.panta pirmās daļas 1.punktā minētas mazas sabiedrības sagatavoto gada pārskatu zvērināts revidents revidē (pārbauda) un sniedz revidenta ziņojumu par veiktās revīzijas (pārbaudes) rezultātiem tikai šādos gadījumos:
 1) ja šīs sabiedrības rādītāji divus gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā), bet jaunizveidotai sabiedrībai - pirmā pārskata gada bilances datumā pārsniedz divas no trim šajā punktā minēto kritēriju robežvērtībām:
-a) bilances kopsumma - 800 000 euro,
-b) neto apgrozījums - 1 600 000 euro,
+a) bilances kopsumma - 1 000 000 euro,
+b) neto apgrozījums - 2 000 000 euro,
 c) vidējais darbinieku skaits pārskata gadā - 50;
 2) ja šī sabiedrība ir koncerna mātes sabiedrība - neatkarīgi no tā, vai uz to attiecas vai neattiecas šā likuma 64., 65., 66. vai 67.pantā minētais atbrīvojums no pienākuma sagatavot konsolidēto gada pārskatu;
 3) ja šī sabiedrība ir publiskas personas kapitālsabiedrība, tās meitas sabiedrība vai publiski privātā kapitālsabiedrība Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likuma izpratnē;

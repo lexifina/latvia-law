@@ -1,0 +1,1 @@
+12. Šā likuma 55. panta sestajā daļā un 89. panta trešajā daļā minētās sabiedrības noteiktais pienākums sagatavot ilgtspējas ziņojumu un konsolidēto ilgtspējas ziņojumu (ja tāds jāsagatavo) stājas spēkā Ilgtspējas informācijas atklāšanas likumā noteiktajā kārtībā.
