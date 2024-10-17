@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ilgtspējas informācijas atklāšanas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "193",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-03",
+  "entry_into_force": "2024-10-17",
+  "notification_date": "2026-09-24",
+  "commission_reference": "MNE(2026)07491",
+  "nim_celex": "72023L1791LVA_202607491",
+  "nim_id": "202607491",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5704ebdc-beb0-480b-96ad-fe31d6f6b0c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
