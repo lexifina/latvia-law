@@ -1,0 +1,1 @@
+2. Līdz 2030. gada 6. janvārim atļauts šo pārejas noteikumu 1. punktā minētajā ilgtspējas ziņojumā iekļaut Regulas (ES) Nr. 2020/852 8. pantā noteikto informāciju par darbībām, ko veic šo pārejas noteikumu 1. punktā minētie subjekti.

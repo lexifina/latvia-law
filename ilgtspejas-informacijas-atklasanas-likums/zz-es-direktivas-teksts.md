@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2464, ar ko attiecībā uz korporatīvo ilgtspējas ziņu sniegšanu groza regulu (ES) Nr. 537/2014, direktīvu 2004/109/EK, direktīvu 2006/43/EK un direktīvu 2013/34/ES.

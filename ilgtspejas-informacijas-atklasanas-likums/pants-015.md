@@ -1,0 +1,3 @@
+15. pants. Par ilgtspējas ziņojuma sagatavošanu un publiskošanu tīmekļvietnē atbildīgās personas
+(1) Par ilgtspējas ziņojuma sagatavošanu un publiskošanu tīmekļvietnē šā likuma 13. pantā noteiktajā kārtībā ir atbildīga trešās valsts sabiedrības meitas sabiedrības (akciju sabiedrības, sabiedrības ar ierobežotu atbildību) valde atbilstoši tās zināšanām un kompetencei.
+(2) Par ilgtspējas ziņojuma sagatavošanu un publiskošanu tīmekļvietnē šā likuma 14. pantā noteiktajā kārtībā ir atbildīga persona vai personas, kuras pilnvarotas pārstāvēt trešās valsts sabiedrības filiāli, atbilstoši to zināšanām un kompetencei.

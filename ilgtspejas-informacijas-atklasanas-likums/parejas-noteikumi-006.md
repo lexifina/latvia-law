@@ -1,0 +1,1 @@
+6. Liela koncerna mātes sabiedrībai, kura ir sabiedriskas nozīmes struktūra un kuras darbinieku skaits ir lielāks par 500, ir pienākums sagatavot šā likuma 7. pantā minēto konsolidēto ilgtspējas ziņojumu, sākot ar 2024. pārskata gadu (pārskata gadu, kurš sākas 2024. gada 1. janvārī vai 2024. kalendāra gada laikā).

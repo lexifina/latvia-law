@@ -1,0 +1,9 @@
+8. pants. Atbrīvojums mātes sabiedrībai, kas ir arī meitas sabiedrība, no pienākuma sagatavot konsolidēto ilgtspējas ziņojumu
+(1) Mātes sabiedrība, kas ir arī meitas sabiedrība, ir atbrīvota no pienākuma sagatavot konsolidēto ilgtspējas ziņojumu šā likuma 7. pantā noteiktajā kārtībā, ja ziņas par šā subjekta un tās meitas sabiedrību ilgtspējas jautājumiem ir iekļautas citas Latvijas Republikā vai Eiropas Savienības dalībvalstī reģistrētas sabiedrības sagatavotajā konsolidētajā vadības ziņojumā, kurš sagatavots atbilstoši šā likuma 7. panta prasībām, ar nosacījumu, ka šīs atbrīvotās mātes sabiedrības vadības ziņojumā ir iekļauta šāda informācija:
+1) tās mātes sabiedrības nosaukums un juridiskā adrese, kura sniedz informāciju koncerna līmenī saskaņā ar šā likuma 7. panta desmito daļu;
+2) tīmekļvietnes saite uz mātes sabiedrības konsolidēto vadības ziņojumu un uz šā likuma 16. pantā noteiktajā kārtībā sagatavoto apliecinājuma ziņojumu;
+3) informācija par šajā pantā noteiktā atbrīvojuma attiecināmību uz šo likuma subjektu.
+(2) Mātes sabiedrība, kas ir arī meitas sabiedrība, nodrošina, ka mātes sabiedrības konsolidētais vadības ziņojums ir publiskots tās tīmekļvietnē latviešu valodā.
+(3) Šā panta pirmās daļas izpildei kredītiestādes, kuras ir pastāvīgi radniecīgas centrālajai iestādei, kura tās uzrauga saskaņā ar nosacījumiem, kas paredzēti Regulas (ES) Nr. 575/2013 10. pantā (ja to piemēro), uzskata par minētās centrālās iestādes meitas sabiedrībām.
+(4) Šā panta pirmās daļas izpildei apdrošināšanas sabiedrības, kuru centralizētu koordināciju veic cita sabiedrība atbilstoši Apdrošināšanas un pārapdrošināšanas likuma 1. panta pirmās daļas 41. punkta "b" apakšpunktam, tiek uzskatītas par koncerna mātes sabiedrības meitas sabiedrībām.
+(5) Šā panta pirmajā daļā noteikto atbrīvojumu nepiemēro tādiem šajā pantā minētajiem likuma subjektiem, kas ir lielas sabiedrības, kuru pārvedami vērtspapīri ir iekļauti regulētajā tirgū.

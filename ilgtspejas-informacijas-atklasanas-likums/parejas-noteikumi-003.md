@@ -1,0 +1,1 @@
+3. Šo pārejas noteikumu 1. punktā minēto konsolidēto ilgtspējas ziņojumu Latvijas Republikā reģistrētā meitas sabiedrība publisko saskaņā ar attiecīgajos normatīvajos aktos noteiktajiem gada pārskata publiskošanas nosacījumiem.

@@ -1,0 +1,1 @@
+15. Trešās valsts sabiedrības meitas sabiedrībai vai trešās valsts sabiedrības filiālei no šā likuma IV nodaļas izrietošie pienākumi ir piemērojami, sākot ar 2028. pārskata gadu (pārskata gadu, kurš sākas 2028. gada 1. janvārī vai 2028. kalendāra gada laikā).
