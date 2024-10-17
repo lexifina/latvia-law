@@ -1,0 +1,1 @@
+25. Pretendentiem, kas 2024. gadā kārto zvērinātu revidentu kvalifikācijas eksāmenus, netiek piemērotas šā likuma 8.¹ panta pirmās daļas prasības attiecībā uz obligātajām apmācībām kvalifikācijas eksāmenu priekšmetos.

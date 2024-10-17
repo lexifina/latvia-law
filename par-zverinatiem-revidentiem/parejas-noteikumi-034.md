@@ -1,0 +1,1 @@
+34. Šā likuma 35.² panta sestajā daļā minētajām personām nepiemēro šajā daļā minētās prasības par pieredzi ilgtspējas ziņojuma sagatavošanā un ilgtspējas ziņojuma apliecinājuma sniegšanā vai pieredzi ar citiem pakalpojumiem, kas saistīti ar ilgtspēju, līdz 2025. gada 31. decembrim.

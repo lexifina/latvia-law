@@ -1,0 +1,1 @@
+24. Pretendentiem, kas līdz šā likuma grozījumu attiecībā uz ilgtspējas jomu spēkā stāšanās dienai ir uzsākuši zvērināta revidenta sertifikāta saņemšanas procesu, netiek piemērotas šā likuma 8. panta 4.¹ punkta, 11. panta 1.¹ daļas un 14. panta otrās daļas prasības attiecībā uz ilgtspējas jomu, ja šis process tiek pabeigts līdz 2026. gada 1. janvārim.

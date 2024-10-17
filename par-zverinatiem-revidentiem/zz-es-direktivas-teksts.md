@@ -12,4 +12,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 11) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa direktīvas 2014/56/ES, ar kuru groza direktīvu 2006/43/EK, ar ko paredz gada pārskatu un konsolidēto pārskatu obligātās revīzijas (Dokuments attiecas uz EEZ);
 12) Eiropas Parlamenta un Padomes 2014.gada 22.oktobra direktīvas 2014/95/ES, ar ko groza direktīvu 2013/34/ES attiecībā uz noteiktu lielu uzņēmumu un grupu nefinanšu un daudzveidības informācijas atklāšanu (Dokuments attiecas uz EEZ);
 13) Eiropas Parlamenta un Padomes 2014. gada 15. maija direktīvas 2014/65/ES par finanšu instrumentu tirgiem un ar ko groza direktīvu 2002/92/ES un direktīvu 2011/61/ES (Dokuments attiecas uz EEZ);
-14) Eiropas Parlamenta un Padomes 2021. gada 24. novembra direktīvas (ES) 2021/2101, ar ko direktīvu 2013/34/ES groza attiecībā uz ienākuma nodokļa informācijas atklāšanu, ko veic konkrēti uzņēmumi un filiāles.
+14) Eiropas Parlamenta un Padomes 2021. gada 24. novembra direktīvas (ES) 2021/2101, ar ko direktīvu 2013/34/ES groza attiecībā uz ienākuma nodokļa informācijas atklāšanu, ko veic konkrēti uzņēmumi un filiāles;
+15) Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2464, ar ko attiecībā uz korporatīvo ilgtspējas ziņu sniegšanu groza regulu (ES) Nr. 537/2014, direktīvu 2004/109/EK, direktīvu 2006/43/EK un direktīvu 2013/34/ES.

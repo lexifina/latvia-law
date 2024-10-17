@@ -1,4 +1,5 @@
 11.pants. Zvērinātu revidentu kvalifikācijas eksāmenu vispārīgie noteikumi
 (1) Zvērinātu revidentu kvalifikācijas eksāmenos pārbauda, vai pretendentiem ir pietiekams teorētisko zināšanu līmenis, kā arī spējas izmantot šīs zināšanas praksē, lai varētu pietiekami kvalitatīvi, ievērojot likumus un Latvijā atzītos starptautiskos revīzijas standartus, veikt šā likuma 2.pantā minēto profesionālo darbību.
+(1¹) Ja pretendents pieteikumā ir norādījis, ka vēlas saņemt zvērināta revidenta sertifikātu arī ilgtspējas ziņojuma apliecinājuma pakalpojuma sniegšanai, zvērinātu revidentu kvalifikācijas eksāmenā pārbauda, vai viņam ir pietiekams teorētisko zināšanu līmenis attiecīgajās jomās, kā arī spējas izmantot šīs zināšanas praksē, lai varētu sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumu.
 (2) Zvērinātu revidentu kvalifikācijas eksāmeni tiek kārtoti rakstveidā latviešu valodā.
-(3) Zvērinātu revidentu kvalifikācijas eksāmenu kārtošana notiek par maksu. Pretendents līdz eksāmenu sesijas sākumam samaksā Latvijas Zvērinātu revidentu asociācijas noteikto dalībmaksu. Lēmumu par dalībmaksas apmēru un maksāšanas kārtību pieņem Latvijas Zvērinātu revidentu asociācijas valde pēc saskaņošanas ar Finanšu ministriju.
+(3) Zvērinātu revidentu kvalifikācijas eksāmenu kārtošana notiek par maksu. Kārtību, kādā veicama samaksa, kā arī tās apmēru nosaka Ministru kabinets.

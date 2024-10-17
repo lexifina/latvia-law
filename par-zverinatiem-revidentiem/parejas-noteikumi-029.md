@@ -1,0 +1,1 @@
+29. Šā likuma 16.¹ pantā noteiktā kārtība tiek piemērota zvērinātam revidentam ilgtspējas ziņojuma apliecinājuma pakalpojuma sniegšanai par ziņojuma periodu, sākot ar 2024. pārskata gadu (pārskata gadu, kurš sākas 2024. gada 1. janvārī vai vēlāk).

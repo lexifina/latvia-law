@@ -1,0 +1,1 @@
+28. Latvijas Zvērinātu revidentu asociācija triju mēnešu laikā pēc šā likuma 8.¹ panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās izstrādā un apstiprina šā likuma 8.¹ panta otrajā daļā minēto apmācību programmu.

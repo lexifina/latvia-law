@@ -1,0 +1,1 @@
+26. Pretendentiem, kas līdz 2026. gada 1. janvārim nav pabeiguši zvērināta revidenta sertifikāta saņemšanas procesu un vēlas sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumus, ir piemērojama prasība zvērināta revidenta eksāmena kārtošanai šā likuma 14. panta otrajā daļā minētajās jomās.
