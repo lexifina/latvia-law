@@ -1,1 +1,1 @@
-68. Grozījumi šā likuma 1. panta 2.², 2.³ punktā, 2.⁴ punkts, grozījumi 11. panta pirmās daļas 7. punktā, 11.² pants, kā arī grozījumi 45. panta otrās daļas 6. punkta "e" apakšpunktā zaudē spēku 2024. gada 29. decembrī.
+68. Šā likuma 1. panta 2.², 2.³ un 2.⁴ punkts, 11. panta pirmās daļas 7. punkts un 11.² pants zaudē spēku 2024. gada 29. decembrī. Šā likuma 45. panta otrās daļas 6. punkta "e" apakšpunkts zaudē spēku 2025. gada 30. jūnijā.

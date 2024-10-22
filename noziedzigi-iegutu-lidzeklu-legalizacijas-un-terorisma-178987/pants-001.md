@@ -6,7 +6,7 @@
 a) kas sastāv no mātes sabiedrības un tās meitas sabiedrības, kā arī no veidojumiem, kuros mātes sabiedrībai vai meitas sabiedrībai ir dalība,
 b) kas ir koncerns Gada pārskatu un konsolidēto gada pārskatu likuma izpratnē;
 2²) kriptoaktīvs - vērtības digitāls atveidojums, ko var digitāli tirgot vai nodot un ko var izmantot maksājumiem vai ieguldījumiem. Kriptoaktīvs neietver valstu centrālo banku emitētas valūtas, vērtspapīra vai cita finanšu aktīva digitālu atveidojumu;
-2³) kriptoaktīvu pakalpojumu sniedzējs - persona, kas savas profesionālās vai komercdarbības ietvaros klienta vārdā vai tā labā veic vienu vai vairākas šādas darbības:
+2³) kriptoaktīvu pakalpojumu sniedzējs - fiziskā vai juridiskā persona, kas savas profesionālās vai komercdarbības ietvaros klienta vārdā vai tā labā veic vienu vai vairākas šādas darbības:
 a) kriptoaktīvu maiņa uz valstu centrālo banku emitētu valūtu,
 b) maiņa starp vienu vai vairākiem kriptoaktīvu veidiem,
 c) kriptoaktīvu pārvedums,
@@ -15,7 +15,7 @@ e) finanšu pakalpojumu sniegšana un dalība finanšu pakalpojumu sniegšanā s
 2⁴) kriptoaktīvu pārvedums - jebkurš darījums, kura mērķis ir pārvietot kriptoaktīvus no vienas sadalītās virsgrāmatas adreses, kriptoaktīvu konta vai ierīces, kas ļauj glabāt kriptoaktīvus, uz citu sadalītās virsgrāmatas adresi, kriptoaktīvu kontu vai ierīci un kuru veic vismaz viens kriptoaktīvu pakalpojumu sniedzējs, kas rīkojas iniciatora vai kriptoaktīvu saņēmēja vārdā, neatkarīgi no tā, vai iniciators un kriptoaktīvu saņēmējs ir viena un tā pati persona, un neatkarīgi no tā, vai iniciatora kriptoaktīvu pakalpojumu sniedzējs un kriptoaktīvu saņēmēja kriptoaktīvu pakalpojumu sniedzējs ir viena un tā pati persona;
 3) darījuma attiecības - likuma subjekta un klienta attiecības, kuras rodas, likuma subjektam veicot saimniecisko vai profesionālo darbību, un kurām to nodibināšanas brīdī ir ilgstošs mērķis;
 3¹) gadījuma rakstura darījums - darījums starp likuma subjektu un klientu, nenodibinot darījuma attiecības šā likuma izpratnē;
-4) klients - juridiskā vai fiziskā persona vai juridisks veidojums, vai šādu personu apvienība, vai veidojumu apvienība, kuram likuma subjekts sniedz pakalpojumu vai pārdod preci;
+4) klients - fiziskā vai juridiskā persona vai juridisks veidojums, vai šādu personu apvienība, vai veidojumu apvienība, kuram likuma subjekts sniedz pakalpojumu vai pārdod preci;
 5) patiesais labuma guvējs - fiziskā persona, kura ir klienta - juridiskās personas vai juridiska veidojuma - īpašnieks vai kura kontrolē klientu, vai kuras vārdā, labā, interesēs tiek nodibinātas darījuma attiecības vai tiek veikts gadījuma rakstura darījums, un tā ir vismaz:
 a) attiecībā uz juridiskajām personām - fiziskā persona, kurai tiešas vai netiešas līdzdalības veidā pieder vairāk nekā 25 procenti no juridiskās personas kapitāla daļām vai balsstiesīgajām akcijām vai kura to tiešā vai netiešā veidā kontrolē,
 b) attiecībā uz juridiskiem veidojumiem - fiziskā persona, kurai pieder vai kuras interesēs ir izveidots vai darbojas juridisks veidojums vai kura tiešā vai netiešā veidā īsteno kontroli pār to, tostarp kura ir šāda veidojuma dibinātājs, pilnvarnieks (pārvaldnieks), pārraudzītājs (ja tāds ir), labuma guvējs vai, ja vēl nav noteiktas fiziskās personas, kuras ir labuma guvēji, personu grupa, kuras interesēs ir izveidots vai darbojas juridiskais veidojums, kā arī cita fiziskā persona, kura tiešā vai netiešā veidā kontrolē juridisko veidojumu;
@@ -36,11 +36,12 @@ i) cits šā punkta "f", "g" un "h" apakšpunktā neminēts maksājumu pakalpoju
 j) alternatīvo ieguldījumu fondu pārvaldnieks,
 k) pārapdrošināšanas pakalpojumu sniedzējs,
 l) finanšu līzinga pakalpojumu sniedzējs,
-m) persona, kura nodarbojas ar patērētāju kreditēšanu un kurai Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai;
+m) persona, kura nodarbojas ar patērētāju kreditēšanu un kurai Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai,
+n) (apakšpunkts stājas spēkā 30.12.2024. un iekļauts likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 70. punktu);
 8) juridisks veidojums - veidojums, kurš nav juridiskā persona, bet kuram ir patstāvīga tiesībspēja un rīcībspēja un kura struktūrā var ietilpt dibinātājs, pilnvarotais, pārraudzītājs (pārvaldnieks) vai tiem līdzvērtīgi statusi, un labuma guvējs - ja vēl nav noteikta fiziskā persona, kura gūst labumu, - persona, kuras interesēs ir izveidots vai darbojas juridisks veidojums, jebkura cita fiziskā persona, kura faktiski īsteno galējo kontroli pār juridisku veidojumu, izmantojot īpašumtiesības vai citus līdzekļus;
 8¹) augstākā vadība - valde, ja to izveido, vai valdes īpaši iecelts valdes loceklis, amatpersona vai darbinieks, kam ir pietiekamas zināšanas par likuma subjekta pakļautību noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas riskiem un pietiekami augsta līmeņa amats, lai pieņemtu lēmumus, kas skar likuma subjekta pakļautību minētajiem riskiem;
 9) (izslēgts ar 26.10.2017. likumu);
-10) juridiska veidojuma vai juridiskas personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - juridiskā vai fiziskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
+10) juridiska veidojuma vai juridiskas personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - fiziskā vai juridiskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
 a) palīdz dibināt juridisku veidojumu vai juridisku personu,
 b) pilda komersanta vai cita juridiska veidojuma, vai juridiskas personas direktora, sekretāra vai personālsabiedrības biedra pienākumus, kā arī veic citus līdzīgus pienākumus vai nodrošina, ka tos pilda cita persona,
 c) nodrošina juridisku veidojumu vai juridisku personu ar juridisko adresi, adresi pasta sūtījumu saņemšanai, darījuma norises vietas adresi, kā arī sniedz citus līdzīgus pakalpojumus,
@@ -62,7 +63,7 @@ c) valstī, kurā juridiskā persona reģistrēta, juridiskajai personai nav sai
 18¹) politiski nozīmīgas personas ģimenes loceklis - persona, kura ir šā panta 18.punktā minētās personas:
 a) laulātais vai laulātajam pielīdzināma persona. Persona par laulātajam pielīdzināmu personu uzskatāma tikai tad, ja attiecīgās valsts likumi tai nosaka šādu statusu,
 b) bērns vai politiski nozīmīgas personas laulātā vai laulātajam pielīdzināmas personas bērns, viņa laulātais vai laulātajam pielīdzināma persona,
-c) vecāks, vecvecāks vai mazbērns,
+c) vecāks,
 d) brālis vai māsa;
 18²) ar politiski nozīmīgu personu cieši saistīta persona - fiziskā persona, par kuru ir zināms, ka tai ir darījuma vai citas ciešas attiecības ar kādu no šā panta 18.punktā minētajām personām vai tā ir akcionārs vai dalībnieks vienā un tajā pašā komercsabiedrībā ar kādu no šā panta 18.punktā minētajām personām, kā arī fiziskā persona, kura ir vienīgā tāda juridiska veidojuma īpašnieks, par ko ir zināms, ka tas faktiski izveidots šā panta 18.punktā minētās personas labā;
 19) līdzekļu iesaldēšana - liegums jebkādai līdzekļu kustībai un darījumiem, arī pārvedumiem, grozījumiem, maiņai, izmantošanai, piekļuvei tiem vai rīcībai ar tiem, kuras rezultātā jebkādā veidā varētu mainīties šo līdzekļu apjoms, summa, atrašanās vieta, īpašnieks, valdītājs, raksturīgās iezīmes vai mērķis vai rasties citas izmaiņas, kas varētu padarīt iespējamu līdzekļu izmantošanu, tostarp vērtspapīru portfeļa pārvaldību.

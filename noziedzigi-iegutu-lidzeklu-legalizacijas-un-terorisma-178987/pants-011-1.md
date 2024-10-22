@@ -2,9 +2,9 @@
 (1) Klienta izpētes pasākumi ir uz risku novērtējumu balstīts darbību kopums, kura ietvaros likuma subjekts:
 1) identificē klientu un pārbauda iegūtos identifikācijas datus;
 2) noskaidro patieso labuma guvēju un, balstoties uz risku novērtējumu, pārliecinās par to, ka attiecīgā fiziskā persona ir klienta patiesais labuma guvējs. Juridiskam veidojumam un juridiskajai personai likuma subjekts noskaidro arī attiecīgās personas dalībnieku struktūru un veidu, kādā izpaužas patiesā labuma guvēja kontrole pār šo juridisko veidojumu vai juridisko personu;
-3) iegūst informāciju par darījuma attiecību un gadījuma rakstura darījuma mērķi un paredzamo būtību;
+3) iegūst nepieciešamo informāciju, lai izprastu darījuma attiecību un gadījuma rakstura darījuma mērķi un paredzamo būtību;
 4) pēc darījuma attiecību uzsākšanas veic to uzraudzību, tai skaitā pārbaudes, kas apstiprina, ka darījuma attiecību laikā slēgtie darījumi tiek veikti saskaņā ar likuma subjekta rīcībā esošo informāciju par klientu, tā saimniecisko darbību, risku profilu un līdzekļu izcelsmi;
-5) nodrošina klienta izpētes gaitā iegūto dokumentu, personas datu un informācijas uzglabāšanu, regulāru izvērtēšanu un aktualizēšanu atbilstoši piemītošajiem riskiem, bet ne retāk kā reizi piecos gados.
+5) nodrošina klienta izpētes gaitā iegūto dokumentu, personas datu un informācijas uzglabāšanu, regulāru izvērtēšanu un aktualizēšanu atbilstoši piemītošajiem riskiem un ņemot vērā pēdējās veiktās klienta izpētes laikā iegūtās informācijas kvalitāti, bet ne retāk kā reizi piecos gados.
 (2) Nosakot klienta izpētes apjomu un kārtību, kā arī klienta izpētes gaitā iegūto dokumentu, personas datu un informācijas izvērtēšanas regularitāti, likuma subjekts ņem vērā noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas riskus, kurus rada klients, tā rezidences (reģistrācijas) valsts, klienta saimnieciskā vai personiskā darbība, izmantojamie pakalpojumi un produkti un to piegādes kanāli, kā arī veiktie darījumi. Nosakot klienta izpētes apjomu un regularitāti, likuma subjekts ņem vērā arī šādus risku ietekmējošus rādītājus:
 1) darījuma attiecību mērķi;
 2) klienta plānoto un veikto darījumu regularitāti;
@@ -27,7 +27,8 @@ f) valsti vai teritoriju, kura ir atteikusies sadarboties ar starptautiskajām o
 8) klients izmanto pakalpojumus, produktus vai to piegādes kanālus, kas veicina anonimitāti;
 9) klients izmanto pakalpojumus, produktus vai to piegādes kanālus, kas ierobežo tā identifikācijas vai personiskās un saimnieciskās darbības pārzināšanas iespējas;
 10) klients saņem maksājumus no nezināmas trešās personas;
-11) klients izmanto jaunus pakalpojumus, produktus vai to piegādes kanālus vai jaunas tehnoloģijas.
+11) klients izmanto jaunus pakalpojumus, produktus vai to piegādes kanālus vai jaunas tehnoloģijas;
+12) klients ir trešās valsts pilsonis, kas pieprasa vai ir saņēmis termiņuzturēšanās atļauju saistībā ar ieguldījumu kapitālsabiedrības pamatkapitālā, nekustamā īpašuma iegādi, bezprocentu valsts vērtspapīru iegādi vai pakārtotajām saistībām ar Latvijas Republikas kredītiestādi.
 (4) Likuma subjekts, vērtējot noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas riskus, var ņemt vērā šādus risku pazeminošus faktorus:
 1) valstī darbojas efektīvas noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas sistēmas;
 2) valstī noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā ir noteiktas tādas prasības, kas atbilst to organizāciju, kuras nosaka standartus noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā, noteiktajiem starptautiskajiem standartiem, un valsts šīs prasības īsteno;

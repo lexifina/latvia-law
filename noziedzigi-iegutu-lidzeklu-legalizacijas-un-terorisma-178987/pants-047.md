@@ -9,7 +9,7 @@
 7) izdot ieteikumus likuma subjektiem šajā likumā noteikto pienākumu izpildei;
 8) noteikt, ka likuma subjektam nav nepieciešams veikt savas darbības nozares risku novērtējumu, ja īpašie attiecīgās nozares riski ir iepriekš nepārprotami identificēti un izprasti.
 (1¹) Uzraudzības un kontroles institūcijai ir tiesības veikt šā panta pirmajā daļā paredzētos uzraudzības un kontroles pasākumus tādām personām, kuras kā likuma subjekti nav reģistrējušās, bet pēc uzraudzības un kontroles institūcijas rīcībā esošās informācijas faktiski atbilst likuma subjekta statusam.
-(2) Latvijas Banka izdod šā likuma 45.panta pirmās daļas 1.punktā minētajiem likuma subjektiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas uzraudzības un kontroles noteikumus, kuros nosaka:
+(2) Latvijas Bankai ir tiesības šā likuma 45. panta pirmās daļas 1. punktā minētajiem likuma subjektiem noteikt:
 1) prasības, kas ietveramas iekšējā kontroles sistēmā papildus šā likuma 7.panta pirmajā daļā noteiktajam;
 2) minimālo pasākumu apjomu, kas veicams, lai nodrošinātu noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas prasībām atbilstošu iekšējās kontroles sistēmas izveidi un iekšējās kontroles sistēmas darbības efektivitāti, kā arī tās atbilstības normatīvajiem aktiem izvērtēšanu, tai skaitā nosakot izvērtēšanas regularitāti un prasības, saskaņā ar kurām veicama iekšējās kontroles sistēmas neatkarīga izvērtēšana;
 3) prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas risku pārvaldības personālresursu un personāla apmācības nodrošināšanai;

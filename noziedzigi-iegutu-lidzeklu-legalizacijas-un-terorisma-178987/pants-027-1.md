@@ -1,10 +1,7 @@
 27.¹ pants. Klientu izpētes izņēmumi
-(1) Likuma subjekts ir tiesīgs nepiemērot atsevišķus šā likuma 11.¹ pantā minētos klienta izpētes pasākumus attiecībā uz darījumiem ar elektronisko naudu, ja pastāv zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas risks, likuma subjekts ir veicis risku novērtējumu un atbilstošus risku mazinošus pasākumus, tai skaitā izpildot visus šādus nosacījumus:
-1) maksājuma instrumentā elektroniski uzglabāto naudas summu nevar papildināt vai tam ir mēneša maksājumu darījumu maksimālais limits 150 euro, ko var izmantot tikai Latvijas Republikā;
-2) elektroniskās naudas turētāja elektroniski uzglabātā maksimālā summa nepārsniedz 150 euro;
-3) maksājuma instrumentu var izmantot tikai preču vai pakalpojumu iegādei;
-4) maksājuma instrumentu nevar finansēt ar anonīmu elektronisko naudu;
-5) elektroniskās naudas emitents veic darījuma vai darījuma attiecību pietiekamu pārraudzību, lai varētu atklāt aizdomīgus darījumus;
-6) likuma subjekts nodrošina, ka viena persona var izmantot ierobežotu skaitu maksājuma instrumentu, kas atbilst šajā pantā minētajiem nosacījumiem.
-(2) Likuma subjekts šā panta pirmajā daļā minēto klientu izpētes izņēmumu nevar piemērot, ja ir iespējama elektroniskās naudas vērtības izpirkšana ar skaidru naudu vai izņemšana skaidrā naudā, ja attiecīgi izpirktā vai skaidrā naudā izņemtā summa pārsniedz 50 euro, vai arī ja veic attālinātu maksājumu atbilstoši Maksājumu pakalpojumu un elektroniskās naudas likuma 1. panta 3.¹ punktam, ja katrā darījumā samaksātā summa pārsniedz 50 euro.
-(3) Kredītiestādes un finanšu iestādes, kas darbojas kā saņēmēji (maksājumu karšu pieņēmēji), ir tiesīgas pieņemt trešās valstīs izsniegtu anonīmo priekšapmaksas karšu maksājumus, ja tās atbilst šā panta pirmās daļas 1. un 2. punkta prasībām.
+(1) Likuma subjekts ir tiesīgs nepiemērot šā likuma 11.¹ panta pirmās daļas 1., 2. un 3. punktā minētos klienta izpētes pasākumus attiecībā uz darījumiem ar elektronisko naudu, ja pastāv zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas risks, likuma subjekts ir veicis risku novērtējumu un atbilstošus risku mazinošus pasākumus, tai skaitā izpildot visus šādus nosacījumus:
+1) maksājuma instrumentā elektroniski uzglabāto naudas summu nevar papildināt un elektroniskās naudas turētāja elektroniski uzglabātā summa nepārsniedz 150 euro;
+2) maksājuma instrumentu var izmantot tikai preču vai pakalpojumu iegādei, ko nodrošina elektroniskās naudas emitents vai kas tiek nodrošināti pakalpojumu sniedzēju tīklā;
+3) maksājuma instruments nav saistīts ar maksājumu kontu, un tas neļauj uzglabāto summu apmainīt pret skaidru naudu vai kriptoaktīviem;
+4) elektroniskās naudas emitents veic darījuma vai darījuma attiecību pietiekamu uzraudzību, lai varētu atklāt aizdomīgus darījumus.
+(2) Kredītiestādes un finanšu iestādes, kas pieņem maksājumu kartes, nepieņem ar trešās valstīs izsniegtām anonīmām priekšapmaksas kartēm veiktus maksājumus, izņemot gadījumus, kas noteikti Eiropas Savienības tieši piemērojamos normatīvajos aktos, un kad, pamatojoties uz risku novērtējumu, trešās valstīs izsniegtajām anonīmajām priekšapmaksas kartēm ir konstatēts zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas risks.

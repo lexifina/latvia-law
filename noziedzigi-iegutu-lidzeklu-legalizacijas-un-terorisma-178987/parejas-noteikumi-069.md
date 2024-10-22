@@ -1,1 +1,1 @@
-69. Grozījums par šā likuma 1. panta papildināšanu ar otro un trešo daļu attiecībā uz terminiem "kriptoaktīvs", "kriptoaktīvu pakalpojumu sniedzējs" un "kriptoaktīvu pārvedums" stājas spēkā 2024. gada 30. decembrī.
+69. Grozījums par šā likuma 1. panta papildināšanu ar otro un trešo daļu stājas spēkā 2024. gada 30. decembrī.
