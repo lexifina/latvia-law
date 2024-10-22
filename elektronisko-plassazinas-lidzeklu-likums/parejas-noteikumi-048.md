@@ -1,0 +1,1 @@
+48. Grozījums šā likuma 36. pantā par otrās daļas papildināšanu ar 7. punktu stājas spēkā vienlaikus ar grozījumiem Alkoholisko dzērienu aprites likuma 11. pantā attiecībā uz alkoholisko dzērienu cenu un atlaižu reklāmas ierobežojumiem.

@@ -8,7 +8,7 @@
 5) ietvert, veicināt vai attaisnot vardarbību un nežēlību, kā arī cietsirdīgu vai bezatbildīgu cilvēka izturēšanos pret dzīvniekiem;
 6) aizskart cilvēka cieņu;
 7) kurināt naidu un aicināt diskriminēt kādu personu vai personu grupu dzimuma, vecuma, reliģiskās, politiskās vai citas pārliecības, seksuālās orientācijas, invaliditātes, rases vai etniskās piederības, valstspiederības vai citu apstākļu dēļ;
-8) reklamēt tabaku, tabakas izstrādājumus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un smēķēšanu;
+8) reklamēt tabaku, tabakas izstrādājumus, tabakas aizstājējproduktus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un smēķēšanu;
 9) reklamēt maksas tālruņa pakalpojumus ar seksuālu raksturu elektronisko plašsaziņas līdzekļu programmās no pulksten 7.00 līdz 22.00;
 10) attēlot personas seksuāli pazemojošā veidā;
 11) izrādīt necieņu pret Latvijas nacionālajām vērtībām un valsts simboliem.
