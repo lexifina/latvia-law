@@ -17,4 +17,4 @@ c) Latvijas Banka ir konstatējusi, ka noguldījumu piesaistītājs tā finansi�
 9) mērķapjoms - noguldījumu garantiju fondā pieejamo līdzekļu summa, kas uzkrājama šajā likumā noteiktajā kārtībā;
 10) pieejami finanšu līdzekļi - nauda, noguldījumi un zema riska aktīvi, kurus iespējams realizēt septiņās darbdienās;
 11) maksājumu saistības - noguldījumu piesaistītāja maksājumu saistības pret noguldījumu garantiju fondu, kas pilnībā nodrošinātas ar zema riska aktīviem, ja uz nodrošinājumu neattiecas nekāds trešo personu apgrūtinājums.
-(2) Citi likumā lietotie termini atbilst terminiem, kas lietoti Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulā (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 (Dokuments attiecas uz EEZ).
+(2) Citi likumā lietotie termini atbilst terminiem, kas lietoti Eiropas Parlamenta un Padomes 2013.gada 26.jūnija regulā (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm, un ar ko groza regulu (ES) Nr. 648/2012.

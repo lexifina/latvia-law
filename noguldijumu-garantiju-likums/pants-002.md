@@ -10,3 +10,4 @@
 (7) Šā likuma noteikumi nav attiecināmi uz noguldījumu piesaistītāju, kuram līdz šā likuma spēkā stāšanās dienai ir iestājusies noguldījumu nepieejamība.
 (8) Lēmumu par noguldījumu nepieejamības iestāšanos Latvijas Banka pieņem piecu darbdienu laikā no dienas, kad tā konstatējusi noguldījumu piesaistītāja nespēju izmaksāt noguldījumus.
 (9) Latvijas Banka pēc tam, kad ir pieņēmusi šā panta astotajā daļā minēto lēmumu par noguldījumu nepieejamības iestāšanos, nekavējoties informē Finanšu ministriju par noguldījumu piesaistītāja segto noguldījumu apmēru un noguldījumu garantiju fondā pieejamiem finanšu līdzekļiem, kā arī sniedz tai jebkuru citu informāciju, kas var būtiski ietekmēt iespēju nodrošināt noguldījumu garantiju fonda līdzekļus garantētās atlīdzības izmaksām šajā likumā noteiktajā kārtībā.
+(10) Šā panta astotajā daļā minētā Latvijas Bankas izdotā administratīvā akta apstrīdēšana un pārsūdzēšana neaptur tā darbību.
