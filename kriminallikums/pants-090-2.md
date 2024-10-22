@@ -1,0 +1,3 @@
+90.² pants. Valsts amatpersonas ievēlēšanas, iecelšanas vai apstiprināšanas amatā procesa Saeimā ietekmēšana, izmantojot dziļviltojuma tehnoloģiju
+Par apzināti nepatiesas diskreditējošas informācijas izgatavošanu vai izplatīšanu, izmantojot dziļviltojuma tehnoloģiju, attiecībā uz valsts amatpersonas amata kandidātu, kuru amatā ievēlē, ieceļ vai apstiprina Saeima, ja tas izdarīts likumā noteiktajā valsts amatpersonas ievēlēšanas, iecelšanas vai apstiprināšanas amatā procesa laikā, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu.
