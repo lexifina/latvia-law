@@ -6,6 +6,7 @@
 3) iepriekšēju sodāmību, izņemot gadījumu, kad tam attiecībā uz veicamo darbu varētu būt būtiska nozīme;
 4) reliģisko pārliecību vai piederību pie kādas reliģiskās konfesijas;
 5) piederību pie kādas politiskās partijas, darbinieku arodbiedrības vai citas sabiedriskās organizācijas;
-6) nacionālo vai etnisko izcelsmi.
+6) nacionālo vai etnisko izcelsmi;
+7) svešvalodu zināšanām, ja tām nav būtiskas nozīmes darba pienākumu veikšanā.
 (3) Darba devējam ir pienākums iepazīstināt pretendentu ar uzņēmumā spēkā esošo darba koplīgumu un darba kārtības noteikumiem, ciktāl tas attiecas uz paredzētā darba veikšanu, kā arī sniegt citu informāciju, kam ir būtiska nozīme darba līguma noslēgšanā.
 (4) Pretendentam ir pienākums sniegt informāciju darba devējam par savu veselības stāvokli un profesionālo sagatavotību, ciktāl tai ir būtiska nozīme darba līguma noslēgšanā un paredzētā darba veikšanā.
