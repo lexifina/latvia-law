@@ -25,5 +25,6 @@
 4) saņemt individuālu novērtējumu;
 5) tiesības uz brīvības atņemšanai alternatīvu procesuālo piespiedu līdzekļu primāru piemērošanu;
 6) tiesības uz īpašu apiešanos ar brīvības atņemšanu saistīta piespiedu līdzekļa piemērošanas laikā.
-(3²) Procesa virzītājs nodrošina šā panta trešās daļas 1. punktā noteiktās tiesības, nepieļaujot lietas materiālos minēto personu pamattiesību apdraudējumu, nodrošinot sabiedrības interešu aizsardzību un neapdraudot kriminālprocesa mērķa sasniegšanu.
+(3²) (Izslēgta ar 19.09.2024. likumu)
+(3³) Šā panta 3.¹ daļā paredzētās tiesības ir arī personai līdz 21 gada vecumam, ja noziedzīga nodarījuma izdarīšanas brīdī šī persona bija nepilngadīga.
 (4) Personai, tiklīdz tā ieguvusi tiesības uz aizstāvību, nekavējoties rakstveidā izsniedz un, ja nepieciešams, izskaidro informāciju par šā panta pirmajā, trešajā un 3.¹ daļā noteiktajām tiesībām. To, ka informācija ir izsniegta un, ja nepieciešams, tiesības izskaidrotas, persona apliecina ar savu parakstu.

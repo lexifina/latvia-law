@@ -11,4 +11,5 @@
 2) noteikt uzraugošo prokuroru, ja ir nepieciešams atkāpties no iepriekš apstiprinātajiem kriminālprocesu sadales principiem;
 3) uzdot prokuroram pildīt uzraugošā prokurora vai prokurora - procesa virzītāja funkcijas vai uzņemties tās pašam;
 4) pieprasīt, lai izmeklēšanas iestādes vadītājs, kuram administratīvi pakļauts izmeklētāja tiešais priekšnieks konkrētajā kriminālprocesā, šajā procesā nosaka citu priekšnieku;
-5) uzdot izmeklēšanu kriminālprocesā veikt citai izmeklēšanas iestādei.
+5) uzdot izmeklēšanu kriminālprocesā veikt citai izmeklēšanas iestādei;
+6) noteikt amatā augstāku prokuroru kriminālprocesā.

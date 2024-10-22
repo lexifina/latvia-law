@@ -5,7 +5,7 @@
 (4) Izmeklēšanas tiesnesis slēgtā tiesas sēdē, kuras gaita tiek fiksēta protokolā, pieņem vienu no šādiem lēmumiem:
 1) atteikt apcietinājuma piemērošanu;
 2) atteikt apcietinājuma piemērošanu, bet piemērot mājas arestu;
-3) atteikt apcietinājuma piemērošanu, bet piemērot ievietošanu sociālās korekcijas izglītības iestādē;
+3) (izslēgts ar 19.09.2024. likumu);
 4) piemērot apcietinājumu;
 5) piemērot apcietinājumu un noteikt personas meklēšanu.
 (4¹) Ja izmeklēšanas tiesnesis šā likuma 41.panta otrajā daļā paredzētajos gadījumos atceļ agrāk piemēroto apcietinājumu vai atsaka piemērot apcietinājumu, viņš pats lemj par cita drošības līdzekļa piemērošanu.

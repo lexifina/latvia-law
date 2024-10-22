@@ -9,6 +9,7 @@
 7) piemēroto drošības līdzekli un tā beigu termiņu;
 8) cietušo personu un kompensācijas apmēru;
 9) mantai uzlikto arestu;
+9¹) kriminālprocesā aizskarto mantas īpašnieku;
 10) apsūdzētā atbildību pastiprinošos un mīkstinošos apstākļus;
 11) (izslēgts ar 06.10.2022. likumu);
 12) procesuālos izdevumus.

@@ -19,7 +19,8 @@
 2) drošības līdzekļa atcelšanu;
 3) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
 4) kaitējuma kompensāciju, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta par sodu spēkā stāšanās dienas -, un pienākumu iesniegt prokuroram dokumentus par kaitējuma kompensācijas atlīdzināšanu;
-5) noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas konfiskāciju vai piedziņu, kā arī rīcību ar lietiskajiem pierādījumiem, arestēto mantu, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, citiem procesa laikā izņemtajiem priekšmetiem un vērtībām;
+5) noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas, kā arī mantas noziedzīgi iegūtu līdzekļu apmērā gadījumos, kad noziedzīgi iegūtā manta ir sajaukta ar legāli iegūtiem līdzekļiem, konfiskāciju vai piedziņu, kā arī rīcību ar lietiskajiem pierādījumiem, arestēto mantu, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, citiem procesa laikā izņemtajiem priekšmetiem un vērtībām;
+5¹) ar noziedzīgu nodarījumu saistītās mantas vērtības piedziņu, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta par sodu spēkā stāšanās dienas - un pienākumu iesniegt prokuroram dokumentus par mantas vērtības atlīdzināšanu;
 6) procesuālo izdevumu atlīdzību, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta par sodu spēkā stāšanās dienas;
 7) citu ar prokurora priekšrakstu par sodu saistīto jautājumu izlemšanu, ja tas nepieciešams;
 8) informāciju par soda izpildes iestādi un ierašanās termiņu;

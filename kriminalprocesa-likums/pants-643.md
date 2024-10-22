@@ -1,5 +1,5 @@
 643.pants. Nosacīta pirmstermiņa atbrīvošana no soda
-(1) Saskaņā ar Krimināllikuma 61.pantu vai 65.panta trešo vai 3.¹ daļu notiesāto nosacīti pirms termiņa atbrīvo no brīvības atņemšanas soda rajona (pilsētas) tiesas tiesnesis pēc soda izciešanas vietas, ja ir saņemts brīvības atņemšanas iestādes iesniegums.
+(1) Saskaņā ar Krimināllikumā noteikto notiesāto nosacīti pirms termiņa atbrīvo no brīvības atņemšanas soda rajona (pilsētas) tiesas tiesnesis pēc soda izciešanas vietas, ja ir saņemts brīvības atņemšanas iestādes iesniegums.
 (2) Iesniegumu izskata, nepieprasot krimināllietu.
 (3) Ja tiesnesis noraida iesniegumu, to var iesniegt atkārtoti pēc četriem mēnešiem. Apmierinot iesniegumā minēto lūgumu, tiesnesis nolēmumā papildus norāda informāciju par soda izpildes iestādi un ierašanās termiņu.
 (4) Ja nosacīti pirms termiņa atbrīvotais bez attaisnojoša iemesla nepilda kriminālsodu izpildi reglamentējošā likumā paredzētos vai Valsts probācijas dienesta noteiktos pienākumus, rajona (pilsētas) tiesas tiesnesis pēc notiesātā dzīvesvietas, pamatojoties uz Valsts probācijas dienesta iesniegumu, var pieņemt lēmumu par neizciestās soda daļas izpildi.

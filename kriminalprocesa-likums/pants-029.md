@@ -12,5 +12,6 @@
 2) ierosināt uzraugošajam prokuroram lemt jautājumu par kriminālvajāšanas uzsākšanu;
 3) pārsūdzēt sava tiešā priekšnieka norādījumus;
 4) pārsūdzēt uzraugošā prokurora lēmumus un norādījumus;
-5) pārsūdzēt amatā augstāka prokurora norādījumus;
-6) pārsūdzēt izmeklēšanas tiesneša lēmumus.
+5) (izslēgts ar 19.09.2024. likumu);
+6) pārsūdzēt izmeklēšanas tiesneša lēmumus;
+7) pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu par nepilngadīgo.

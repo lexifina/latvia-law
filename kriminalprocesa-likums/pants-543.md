@@ -4,7 +4,7 @@
 (3) Sprieduma rezolutīvajā daļā norāda tiesas lēmumu par:
 1) to, ka apsūdzētais (minot viņa vārdu un uzvārdu) atzīts par vainīgu noziedzīgā nodarījumā (minot Krimināllikuma pantu, tā daļu un punktu, kurā paredzēts attiecīgais noziedzīgs nodarījums);
 2) to, ka tiesa apstiprina noslēgto vienošanos un piespriež tajā paredzēto soda veidu un mēru;
-3) apsūdzētā atbrīvošanu tiesas sēžu zālē no apcietinājuma, mājas aresta vai sociālās korekcijas izglītības iestādes, ja apsūdzētajam noteikts ar brīvības atņemšanu nesaistīts sods;
+3) apsūdzētā atbrīvošanu tiesas sēžu zālē no apcietinājuma vai mājas aresta, ja apsūdzētajam noteikts ar brīvības atņemšanu nesaistīts sods;
 4) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
 5) pārbaudes laika termiņu nosacītas notiesāšanas gadījumā;
 6) drošības līdzekli;

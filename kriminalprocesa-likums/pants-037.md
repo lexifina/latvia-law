@@ -16,4 +16,4 @@
 5) atcelt procesa virzītāja un izmeklēšanas grupas dalībnieka lēmumus, kā arī izmeklētāja tiešā priekšnieka lēmumus, kas nav saistīti ar procesam nozīmīgiem organizatoriskiem jautājumiem;
 6) iesniegt ierosinājumu virsprokuroram par cita izmeklētāja tiešā priekšnieka noteikšanu konkrētajā kriminālprocesā vai kriminālprocesa nodošanu citai izmeklēšanas iestādei;
 7) piedalīties sēdē, kurā izmeklēšanas tiesnesis lemj par atļaujas došanu piespiedu līdzekļu piemērošanai un speciālo izmeklēšanas darbību veikšanai;
-8) piedalīties to procesuālo darbību veikšanā, kas vērstas uz sadarbību ar personu, kurai ir tiesības uz aizstāvību, kā arī vienkāršāka procesa izvēlē.
+8) piedalīties procesuālo darbību veikšanā.

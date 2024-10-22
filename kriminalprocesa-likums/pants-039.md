@@ -8,7 +8,7 @@
 5) izsniegt cietušajam likumā paredzēto materiālu kopijas;
 6) lemt par iesniegtajiem pieteikumiem;
 6¹) pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu par personu, kura apsūdzēta noziedzīga nodarījuma izdarīšanā pret tikumību un dzimumneaizskaramību;
-6²) pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu par nepilngadīgo, kurš apsūdzēts noziedzīga nodarījuma izdarīšanā;
+6²) pieprasīt no Valsts probācijas dienesta izvērtēšanas ziņojumu par nepilngadīgo, kurš apsūdzēts noziedzīga nodarījuma izdarīšanā, ja iepriekš šāds ziņojums netika pieprasīts;
 7) iesniegt tiesai vienošanos, kas slēgta ar apsūdzēto par vainas atzīšanu un sodu;
 8) pieņemt lēmumu par krimināllietas nodošanu tiesai un iesniegt krimināllietu tiesai;
 9) izbeigt kriminālprocesu, ja konstatēts likumā noteiktais pamats;

@@ -1,5 +1,6 @@
 320.pants. Nolēmuma struktūra
 (1) Rakstveidā noformēts nolēmums sastāv no ievada, aprakstošās, motīvu un rezolutīvās daļas.
+(1¹) Saīsinātais tiesas lēmums sastāv no ievaddaļas un rezolutīvās daļas. Saīsinātais tiesas lēmums nav pārsūdzams.
 (2) Nolēmuma ievadā norāda tā pieņemšanas vietu un laiku, iestādi un to amatpersonu, kura pieņem nolēmumu, un tiesisko jautājumu, par kuru nolēmums pieņemts.
 (3) Aprakstošajā daļā norāda procesā noskaidroto apstākļu būtību, kas ir pamatā nolēmuma pieņemšanai.
 (4) Motīvu daļā norāda atsauci uz likumu, saskaņā ar kuru nolēmums pieņemts, un pamato izdarīto secinājumu.

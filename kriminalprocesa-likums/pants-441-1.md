@@ -11,7 +11,7 @@
 (4) Prokurora priekšraksta rezolutīvajā daļā norāda prokurora lēmumu par:
 1) piemēroto piespiedu ietekmēšanas līdzekli;
 2) nodrošinājuma līdzekļa atcelšanu;
-3) noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas konfiskāciju vai piedziņu, kā arī rīcību ar lietiskajiem pierādījumiem, arestēto mantu, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, citiem procesa laikā izņemtajiem priekšmetiem un vērtībām;
+3) noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas, kā arī mantas noziedzīgi iegūtu līdzekļu apmērā gadījumos, kad noziedzīgi iegūtā manta ir sajaukta ar legāli iegūtiem līdzekļiem, konfiskāciju vai piedziņu, kā arī rīcību ar lietiskajiem pierādījumiem, arestēto mantu, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, citiem procesa laikā izņemtajiem priekšmetiem un vērtībām;
 4) procesuālo izdevumu atlīdzību, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta spēkā stāšanās dienas;
 5) citu ar prokurora priekšrakstu saistīto jautājumu izlemšanu, ja tas nepieciešams;
 6) informāciju par piespiedu ietekmēšanas līdzekļa izpildes iestādi;

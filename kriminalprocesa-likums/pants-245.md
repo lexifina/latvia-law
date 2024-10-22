@@ -7,5 +7,5 @@
 5) iestādi vai personu, kurai uzdots lēmumu izpildīt;
 6) lēmuma pārsūdzēšanas kārtību.
 (2) Lēmumā par drošības līdzekļa piemērošanu papildus norāda, saistībā ar kāda noziedzīga nodarījuma izdarīšanu aizdomās turētajam vai apsūdzētajam tiek piemērots drošības līdzeklis.
-(3) Lēmumu par apcietinājumu, mājas arestu, nepilngadīgā ievietošanu sociālās korekcijas izglītības iestādē vai personas ievietošanu ārstniecības iestādē ekspertīzes izdarīšanai pirmstiesas procesa laikā pieņem izmeklēšanas tiesnesis.
+(3) Lēmumu par apcietinājumu, mājas arestu, personas ievietošanu ārstniecības iestādē ekspertīzes izdarīšanai pirmstiesas procesa laikā pieņem izmeklēšanas tiesnesis.
 (4) Lēmumu par personas aizturēšanu nepieņem.

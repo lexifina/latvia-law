@@ -14,6 +14,6 @@
 10) apcietinājums.
 (2) Nepilngadīgajam kā drošības līdzekli var piemērot arī:
 1) nodošanu vecāku vai aizbildņu pārraudzībā;
-2) ievietošanu sociālās korekcijas izglītības iestādē.
+2) (izslēgts ar 19.09.2024. likumu).
 (3) Karavīram kā drošības līdzekli var piemērot arī nodošanu vienības komandiera (priekšnieka) pārraudzībā.
 (4) Šā panta pirmās daļas 1.¹-4.punktā minētos drošības līdzekļus var piemērot arī papildus jebkuram citam drošības līdzeklim.
