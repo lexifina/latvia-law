@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Kriminālprocesa likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "196",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-08",
+  "entry_into_force": "2024-10-22",
+  "notification_date": "2025-05-27",
+  "commission_reference": "MNE(2025)03042",
+  "nim_celex": "72016L0800LVA_202503042",
+  "nim_id": "202503042",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9294da58-be8e-4251-b0cb-c6775192ef92",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
