@@ -1,0 +1,1 @@
+1. pants. 1974. gada 18. novembra Nolīgums par Starptautisko enerģētikas programmu ar grozījumiem, kas izdarīti 2022. gada 20. februārī, (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
