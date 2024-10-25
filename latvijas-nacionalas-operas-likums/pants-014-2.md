@@ -1,0 +1,1 @@
+14. Nacionālās operas valde iesniedz komercreģistra iestādei atbilstoši šā likuma 2. panta trešajā daļā, 7. panta pirmajā daļā un 7.² pantā izdarītajiem grozījumiem izstrādātus un apstiprinātus Nacionālās operas statūtus mēneša laikā pēc šo grozījumu spēkā stāšanās.
