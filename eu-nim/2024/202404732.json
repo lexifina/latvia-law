@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 28. oktobra noteikumi Nr. 333 \"Kredītiestāžu likviditātes riska pārvaldīšanas un likviditātes pietiekamības novērtēšanas procesa noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "212",
+  "official_journal_page": null,
+  "official_journal_date": "2024-10-30",
+  "entry_into_force": "2024-10-31",
+  "notification_date": "2024-11-07",
+  "commission_reference": "MNE(2024)04732",
+  "nim_celex": "72013L0036LVA_202404732",
+  "nim_id": "202404732",
+  "transposes_celex": [
+    "32013L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1857a99-d09d-4274-b666-bc320738b2bf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
