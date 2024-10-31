@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 19,
+ "datums": "2024-10-31",
+ "ieraksts": {
+  "dkp_id": "f1a38c62-d7c6-4a9e-be8c-3fed3a9d3fea",
+  "lastmodtime": "\"AAAAAAJHjVE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Igors#Raimonds#Leila#Ramona#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Čudars#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Judins#Bergmanis#Rasima#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#LPV#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#NA#JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!#JV# #JV#ST!#JV#ZZS#NA#JV#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ST!#AS#PRO#LPV#JV#AS#LPV#PRO# #JV#ZZS#PRO#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Atturas#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "31.10.2024 09:19:03",
+  "VOTEMOTIVE": "Grozījumi Noziedzīgi iegūtas mantas konfiskācijas izpildes likumā (767/Lp14), nodošana komisijām",
+  "VOTING_ID": "9ad3b7f1-e64d-423e-b10a-67539aa0c13f",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "44",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c49c3346-f9d0-4485-a6c9-4041b4c9b6dc/download/14.saeimas-2024.gada-rudens-sesija-19-vote.xml",
+  "sha256": "be0b71a9b315c80924d9812adb1d9046add855c891cad87a2c5034c64585739e",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
