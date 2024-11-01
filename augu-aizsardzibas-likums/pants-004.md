@@ -1,5 +1,5 @@
 4.pants. Valsts augu aizsardzības dienests un tā uzdevumi
-(1) Valsts uzraudzību augu aizsardzības jomā organizē un veic Valsts augu aizsardzības dienests, kas ir Zemkopības ministrijas padotībā esoša tiešā pārvaldes iestāde.
+(1) Valsts uzraudzību augu aizsardzības jomā organizē un veic Valsts augu aizsardzības dienests, kas ir zemkopības ministra pārraudzībā esoša tiešā pārvaldes iestāde.
 (2) Valsts augu aizsardzības dienestu vada direktors. Kontroles funkcijas augu aizsardzības jomā veic dienesta inspektori.
 (3) Valsts augu aizsardzības dienesta uzdevums ir laikus konstatēt kaitīgo organismu parādīšanos, prognozēt to attīstību, noteikt augu karantīnas pasākumus konkrētos gadījumos un vietās, kā arī veicināt augu aizsardzības pasākumu veikšanu tādā apjomā, lai likvidētu vai ierobežotu kaitīgo organismu izplatīšanos un samazinātu to negatīvo ietekmi.
 (4) Valsts augu aizsardzības dienests savu uzdevumu veikšanai:
@@ -14,7 +14,7 @@
 9) veic kaitīgo organismu riska analīzi;
 10) izsniedz sertifikātu par tiesībām veikt augu aizsardzības līdzekļu efektivitātes pārbaudes izmēģinājumus;
 11) ievieš, izpilda, uzrauga un kontrolē Eiropas Savienības normatīvo aktu prasības un Eiropas Padomes un Eiropas Komisijas lēmumus augu aizsardzības jomā;
-12) veic Ministru kabineta noteikto invazīvo augu sugu izplatības monitoringu lauksaimniecībā izmantojamās zemēs, izveido un uztur datubāzi par invazīvo augu sugu izplatību;
+12) veic Eiropas Savienības invazīvo sugu sarakstā iekļauto invazīvo sauszemes augu sugu monitoringu un izveido un uztur šo sugu datubāzi;
 13) veic Ministru kabineta noteikto invazīvo augu sugu izplatības valsts uzraudzību un kontroli.;
 14) izsniedz speciālās atļaujas (licences) augu aizsardzības līdzekļu izplatīšanai;
 15) sagatavo novērtējumu par augu aizsardzības līdzekļa izsmidzināšanā no gaisa iespējamo risku un izsniedz atļauju augu aizsardzības līdzekļa izsmidzināšanai no gaisa;
