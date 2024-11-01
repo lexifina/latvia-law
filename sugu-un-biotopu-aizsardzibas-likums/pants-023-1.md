@@ -1,0 +1,5 @@
+23.¹ pants. Invazīvo sugu izplatības apzināšana
+(1) Valsts pārvaldes iestādes Ministru kabineta noteiktajā kārtībā informāciju par Eiropas Savienības sarakstā iekļauto invazīvo sauszemes augu sugu izplatību sniedz Valsts augu aizsardzības dienestam, bet par pārējo invazīvo sugu izplatību - Dabas aizsardzības pārvaldei.
+(2) Ikviena persona informē Valsts augu aizsardzības dienestu par to, ka tās īpašumā, lietošanā vai valdījumā ir ar Eiropas Savienības sarakstā iekļautu invazīvo sauszemes augu sugu invadētas platības vai ka tās rīcībā ir ziņas par šādām platībām, bet par pārējo invazīvo sugu izplatību informē Dabas aizsardzības pārvaldi.
+(3) Invazīvo sugu uzraudzībā iegūto informāciju par Eiropas Savienības sarakstā iekļautām invazīvajām sauszemes augu sugām apkopo Valsts augu aizsardzības dienests Kultūraugu uzraudzības valsts informācijas sistēmas invazīvo augu sugu izplatības datubāzē, bet par pārējām invazīvajām sugām - Dabas aizsardzības pārvalde dabas datu pārvaldības sistēmā.
+(4) Invazīvo sugu uzraudzībā iesaistītās iestādes atbilstoši nepieciešamībai sniedz datus Dabas aizsardzības pārvaldei.

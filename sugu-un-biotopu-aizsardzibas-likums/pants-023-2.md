@@ -1,0 +1,8 @@
+23.² pants. Invazīvo sugu kontrole, izplatības ierobežošana un iznīcināšana
+(1) Regulas Nr. 1143/2014 7. pantā noteikto ierobežojumu uzraudzību un kontroli attiecībā uz Eiropas Savienības invazīvo sugu sarakstā iekļautajām sugām veic šā likuma 5. un 6. pantā minētās iestādes.
+(2) Latvijas invazīvo sugu sarakstā iekļauto sugu pārvaldības pasākumus var noteikt pašvaldība.
+(3) Atkāpes no šā panta pirmajā daļā noteiktajiem ierobežojumiem pieļaujamas atļaujā darbībām ar invazīvajām sugām minētajos gadījumos un apjomā. Izdevumus, kas saistīti ar atļaujas saņemšanu, sedz persona saskaņā ar normatīvajiem aktiem par Valsts augu aizsardzības dienesta sniegto maksas pakalpojumu cenrādi un Dabas aizsardzības pārvaldes publisko maksas pakalpojumu cenrādi.
+(4) Invazīvās sugas ierobežošanas un iznīcināšanas pasākumu izvēlē ņem vērā to ietekmi uz citām sugām un dzīvotnēm, vidi, cilvēku veselību, kā arī izmaksu un ieguvumu analīzi.
+(5) Invazīvo sugu sarakstā iekļauto sugu izplatības ierobežošanas pasākumu īstenošanā atbilstoši Ministru kabineta noteiktajai kārtībai iesaistās attiecīgā valstspilsētas vai novada pašvaldība. Pašvaldība:
+1) pieņem lēmumu par invazīvo sugu izplatības ierobežošanas pasākumiem attiecīgās pašvaldības teritorijā un publicē to saskaņā ar Oficiālo publikāciju un tiesiskās informācijas likumu, kā arī vietējās pašvaldības laikrakstā un tīmekļvietnē;
+2) ievērojot normatīvos aktus par attiecīgās invazīvās sugas ierobežošanas pasākumiem un metodēm, var koordinēt un sadarbībā ar attiecīgo kompetento institūciju organizēt invazīvo sugu ierobežošanas pasākumus, ja zemes īpašnieks, lietotājs vai valdītājs neveic invazīvo sugu izplatības ierobežošanas pasākumus.

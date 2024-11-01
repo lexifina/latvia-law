@@ -7,4 +7,5 @@ Lai kontrolētu sugu un biotopu aizsardzību, veicams pastāvīgs monitorings un
 5) datus par medību ietekmi uz dzīvnieku populāciju lielumu;
 6) datus par saudzīgu ekoloģisko metožu ieviešanu, lai novērstu dzīvnieku nodarītos postījumus;
 7) datus par atsevišķu sugu kā piesārņojuma indikatoru lomu;
-8) datus par piesārņojuma atgriezenisko ietekmi uz augu un dzīvnieku populāciju lielumu.
+8) datus par piesārņojuma atgriezenisko ietekmi uz augu un dzīvnieku populāciju lielumu;
+9) datus par invazīvo sugu izplatību.

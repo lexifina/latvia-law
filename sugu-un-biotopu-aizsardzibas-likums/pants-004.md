@@ -19,4 +19,11 @@ Ministru kabinets nosaka:
 17) ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī sertificēto personu darbības uzraudzības kārtību, eksperta atzinuma saturu un tajā ietvertās minimālās prasības;
 18) kritērijus īpaši aizsargājamo biotopu un īpaši aizsargājamo sugu dzīvotņu atjaunošanai mežā un atjaunošanas atļaujas izsniegšanas kārtību;
 19) dabas datu pārvaldības sistēmā ietvertā mikroliegumu, īpaši aizsargājamo sugu, to dzīvotņu un īpaši aizsargājamo biotopu valsts reģistra uzturēšanas un datu aktualizācijas un informācijas aprites kārtību;
-20) mikroliegumu buferzonu noteikšanas kārtību.
+20) mikroliegumu buferzonu noteikšanas kārtību;
+21) invazīvo sugu introdukcijas un izplatīšanās profilakses un pārvaldības noteikumus, kompetentās iestādes un to funkcijas, tai skaitā:
+a) sugu novērtēšanas kārtību iekļaušanai sarakstā, invazīvo sugu ienākšanas un izplatības ceļu analīzi un rīcības plānu bioģeogrāfiskā reģiona līmenī, ja nepieciešams,
+b) atļaujas darbībām ar invazīvajām sugām izsniegšanas, apturēšanas un anulēšanas nosacījumus un izdoto atļauju kontroles kārtību,
+c) uzraudzību - sugu kontroli uz robežām un iekšzemē, monitoringu un tā veidus, sabiedrības novērojumus, agrīnu atklāšanu, ātru iznīcināšanu agrīnas atklāšanas gadījumā vai tās nepiemērošanu,
+d) informācijas sniegšanu par invazīvajām sugām, tās pieejamību un apriti,
+e) sugu izplatības ierobežošanas un iznīcināšanas pasākumus un metodes, cietušo ekosistēmu atjaunošanu;
+22) Latvijas invazīvo sugu sarakstu.

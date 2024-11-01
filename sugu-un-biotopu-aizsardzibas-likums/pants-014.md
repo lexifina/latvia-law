@@ -22,4 +22,4 @@
 3) laika un vietas apstākļiem, kādos piemērojams izņēmums, kā arī citiem izņēmuma piemērošanas nosacījumiem;
 4) nepieciešamajiem uzraudzības pasākumiem.
 (5) Dabas aizsardzības pārvalde apkopo informāciju par izņēmuma piemērošanas gadījumiem, kā arī uzrauga nosacījumu ievērošanu katrā izņēmuma gadījumā.
-(6) Vides aizsardzības un reģionālās attīstības ministrija reizi divos gados attiecībā uz šā panta pirmajā daļā minētajiem gadījumiem un katru gadu attiecībā uz šā panta otrajā daļā minētajiem gadījumiem apkopo informāciju par piemērotajiem izņēmumiem un nodrošina ziņojumu iesniegšanu Eiropas Komisijai atbilstoši Eiropas Savienības tiesību aktu prasībām.
+(6) Viedās administrācijas un reģionālās attīstības ministrija reizi divos gados attiecībā uz šā panta pirmajā daļā minētajiem gadījumiem un katru gadu attiecībā uz šā panta otrajā daļā minētajiem gadījumiem apkopo informāciju par piemērotajiem izņēmumiem un nodrošina ziņojumu iesniegšanu Eiropas Komisijai atbilstoši Eiropas Savienības tiesību aktu prasībām.
