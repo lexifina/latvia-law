@@ -1,7 +1,5 @@
-5. pants. Finanšu un civiltiesiskie ierobežojumi
-(1) Ja attiecībā uz sankciju subjektu noteikti finanšu ierobežojumi, visām personām atbilstoši to kompetencei ir pienākums nekavējoties un bez iepriekšēja brīdinājuma veikt šādas darbības:
-1) iesaldēt visus finanšu līdzekļus un finanšu instrumentus, kas tieši vai netieši, pilnībā vai daļēji ir sankciju subjekta īpašumā, valdījumā, turējumā vai kontrolē, tai skaitā tos finanšu līdzekļus un finanšu instrumentus, kas nodoti trešām personām;
-2) liegt sankciju subjektam piekļuvi finanšu līdzekļiem un finanšu instrumentiem;
-3) nesniegt sankciju subjektam (tai skaitā izmantojot pilnvarojumu) starptautiskajās vai nacionālajās sankcijās noteiktos finanšu pakalpojumus.
-(2) Sankciju subjektam, attiecībā uz kuru noteikti civiltiesiskie ierobežojumi, atbilstoši šiem ierobežojumiem ir aizliegts iegūt un atsavināt ķermeniskas un bezķermeniskas lietas, uz kurām publiskajos reģistros reģistrējamas, nostiprināmas vai publiskojamas īpašuma tiesības vai citas mantiskās tiesības.
-(3) Publiskajos reģistros aizliegts reģistrēt vai nostiprināt šā panta otrajā daļā minēto īpašuma tiesību vai citu mantisko tiesību iegūšanu un atsavināšanu.
+5. pants. Finanšu ierobežojumi
+Ja attiecībā uz sankciju subjektu nacionālajās sankcijās noteikti finanšu ierobežojumi, visām personām atbilstoši to kompetencei ir pienākums nekavējoties un bez iepriekšēja brīdinājuma:
+1) iesaldēt visus līdzekļus un saimnieciskos resursus, kas tieši vai netieši, pilnībā vai daļēji ir sankciju subjekta, tostarp trešo personu, kuras rīkojas to vārdā vai to vadībā, īpašumā, valdījumā, turējumā vai kontrolē;
+2) tieši vai netieši nedarīt pieejamus sankciju subjektam, tostarp trešām personām, kuras rīkojas to vārdā vai to vadībā, vai to labā, līdzekļus un saimnieciskos resursus;
+3) nesniegt sankciju subjektam, tostarp trešām personām, kuras rīkojas to vārdā vai to vadībā, vai to labā, nacionālajās sankcijās noteiktos finanšu pakalpojumus.
