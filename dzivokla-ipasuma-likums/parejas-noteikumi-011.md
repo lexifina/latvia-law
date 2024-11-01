@@ -1,0 +1,1 @@
+11. Šo pārejas noteikumu 10. punktā norādīto informāciju pārvaldnieks vai persona, kura kārto mājas lietu, pievieno Būvniecības informācijas sistēmā termiņā, kāds attiecībā uz dokumentu ietveršanu mājas lietā noteikts normatīvajos aktos.

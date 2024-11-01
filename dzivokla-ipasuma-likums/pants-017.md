@@ -11,3 +11,4 @@
 (7¹) Lai pieņemtu lēmumu par šā likuma 16.panta otrās daļas 2.punktā minētajiem jautājumiem, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vismaz trīs ceturtdaļas no visiem dzīvokļu īpašumiem. Lai pieņemtu lēmumu par ceļa zīmes izvietošanu, autostāvvietas izveidi personām ar invaliditāti vai autostāvvietas izveidi elektromobiļiem, ja vienlaikus tiek izveidots elektrotransportlīdzekļu uzlādes punkts, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vairāk nekā pusi no visiem dzīvokļu īpašumiem.
 (8) (Izslēgta ar 17.11.2016. likumu)
 (9) (Izslēgta ar 21.01.2021. likumu)
+(10) Dzīvokļu īpašnieku kopība atkārtotā kopsapulcē vai atkārtotā aptaujā nav tiesīga pieņemt lēmumus, kuru pieņemšanai saskaņā ar šā panta nosacījumiem vai dzīvokļu īpašnieku kopības nolemto nepieciešams lielāks balsu skaits nekā vienkāršs no visiem dzīvokļu īpašumu īpašniekiem saņemto balsu vairākums.

@@ -1,0 +1,1 @@
+12. Šā likuma 19.¹ panta noteikumi par atkārtotu kopsapulci un 20.² panta noteikumi par atkārtotu aptauju nav piemērojami gadījumos, kad sākotnējā kopsapulce sasaukta un nav bijusi lemttiesīga vai sākotnējā aptauja organizēta un nav bijusi lemttiesīga pirms 2024. gada 1. novembra.
