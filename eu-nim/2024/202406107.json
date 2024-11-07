@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ceļu satiksmes likumā",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "OP 2024/217.6",
+  "official_journal_page": null,
+  "official_journal_date": "2024-11-06",
+  "entry_into_force": "2024-11-07",
+  "notification_date": "2024-12-28",
+  "commission_reference": "MNE(2024)06107",
+  "nim_celex": "72024L0846LVA_202406107",
+  "nim_id": "202406107",
+  "transposes_celex": [
+    "32024L0846"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/64ff24ea-f3c1-4541-80df-e9218603bf0c",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
