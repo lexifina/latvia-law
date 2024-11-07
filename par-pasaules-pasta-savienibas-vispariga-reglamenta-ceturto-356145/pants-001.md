@@ -1,0 +1,1 @@
+1. pants. 2023. gada 5. oktobrī parakstītais Pasaules Pasta savienības Vispārīgā reglamenta Ceturtais papildprotokols (turpmāk - Vispārīgā reglamenta Ceturtais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
