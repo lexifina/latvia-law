@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 22,
+ "datums": "2024-11-07",
+ "ieraksts": {
+  "dkp_id": "c7d7bd62-8a48-4831-a82e-1942e015fb04",
+  "lastmodtime": "\"AAAAAAJH/Rc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Amils#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Jānis#Raimonds#Irma#Harijs#Edmunds#Augusts#Ainārs#Līga#Dmitrijs#Nataļja#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Atis#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Reirs#Čudars#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "################################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#ST!#NA#ZZS#JV#ZZS#LPV#AS#ST!#LPV#JV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#JV#JV#JV#ZZS#JV#ZZS#LPV#ZZS#ST!#ST!# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS#PRO#ZZS#LPV#JV#AS#LPV#PRO#JV#ZZS#PRO#JV",
+  "RESULT": "Par#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Par#Pret#Par#Par#Par#Atturas#Pret#Pret#Atturas#Pret#Par#Pret#Atturas#Pret#Pret#Par#Atturas#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Par#Atturas#Par#Par#Atturas#Pret#Par#Nebalsoja#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Par#Atturas#Atturas#Pret#Pret#Atturas#Nebalsoja#Atturas#Par#Atturas#Pret#Atturas#Par#Pret#Atturas#Par#Pret#Pret#Nebalsoja#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "07.11.2024 09:11:53",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi likumā “Par kultūras pieminekļu aizsardzību” (777/Lp14), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "f86611b2-66bb-4b9d-90fa-5a3cd45c295c",
+  "VOTERESULT_ABSTAIN": "17",
+  "VOTERESULT_AGAINST": "42",
+  "VOTERESULT_FOR": "18",
+  "VOTERESULT_REGISTERED": "81",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-22-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5e839228-26bf-4c99-949f-f23cabb2b332/download/14.saeimas-2024.gada-rudens-sesija-22-vote.xml",
+  "sha256": "c9cd834af53967b8d1a90a3be617543ae44cedb2ff74ae22d6d39f7284a6fa26",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
