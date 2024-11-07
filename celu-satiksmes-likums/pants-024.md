@@ -2,7 +2,7 @@
 (1) Lai iegūtu transportlīdzekļu vadīšanas tiesības, personai ir jābūt sasniegušai šādu vecumu:
 1) 14 gadus - AM kategorijas vadītāja apliecības iegūšanai;
 2) 16 gadus - A1 un B1 kategorijas vadītāja apliecības iegūšanai;
-3) 18 gadus - A2, B, BE, C1 un C1E kategorijas vadītāja apliecības iegūšanai un Autopārvadājumu likuma 6.¹ panta 2.¹ daļā minētajā gadījumā - arī C un CE kategorijas vadītāja apliecības iegūšanai;
+3) 18 gadus - A2, B, BE, C1 un C1E kategorijas vadītāja apliecības iegūšanai, kā arī Autopārvadājumu likuma 6.¹ panta 2.¹ daļā un 30.¹ panta 2.² daļā minētajos gadījumos - attiecīgi arī C un CE kategorijas un D1 un D1E kategorijas vadītāja apliecības iegūšanai;
 3¹) 20 gadus - Autopārvadājumu likuma 30.¹ panta 2.¹ daļā minētajā gadījumā - D un DE kategorijas vadītāja apliecības iegūšanai;
 4) 21 gadu - C, CE, D1, D1E, TRAM un TROL kategorijas vadītāja apliecības iegūšanai;
 5) 24 gadus - A, D un DE kategorijas vadītāja apliecības iegūšanai. A kategorijas vadītāja apliecību var iegūt persona, kura sasniegusi 20 gadu vecumu, ja tās A2 kategorijas transportlīdzekļa vadītāja stāžs ir vismaz divi gadi. Vadīt triciklus, kuru jauda pārsniedz 15 kilovatus, atļauts personai, kura sasniegusi vismaz 21 gada vecumu;

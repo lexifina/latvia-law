@@ -16,11 +16,11 @@ piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju nau
 6) tuvāk par 25 metriem pirms un 10 metriem aiz 541., 542. vai 543. ceļa zīmes;
 7) uz ieskrējiena vai bremzēšanas joslām;
 8) 326. ceļa zīmes darbības zonā;
-9) uz tramvaja sliežu ceļa klātnes vai tās tiešā tuvumā, ja tas traucē tramvaja kustību;
+9) (izslēgts ar 24.10.2024. likumu);
 10) tuneļos;
 11) uz ietvēm, gājēju ceļiem, gājēju un velosipēdu ceļiem, kopīgiem gājēju un velosipēdu ceļiem vai velosipēdu ceļiem un velojoslām vietās, kur tas ir aizliegts, -
 piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
-(3) Par apstāšanos uz dzelzceļa pārbrauktuvēm piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
+(3) Par apstāšanos, ja tas traucē sabiedriskā transportlīdzekļa kustību, kā arī par apstāšanos uz dzelzceļa pārbrauktuves piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
 (4) Par stāvēšanu:
 1) ceļa kreisajā pusē gadījumos, kad tas nav atļauts;
 2) uz brauktuves, ja ceļam ir nomale;
@@ -33,7 +33,7 @@ piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam sešu nau
 piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
 (5) Par stāvēšanu:
 1) otrajā rindā;
-2) uz tramvaja sliežu ceļa klātnes vai tās tiešā tuvumā, ja tas traucē tramvaja kustību;
+2) (izslēgts ar 24.10.2024. likumu);
 3) daļēji vai pilnīgi uz brauktuves ārpus apdzīvotām vietām bīstamu pagriezienu un ceļa garenprofila lūzuma vietas tuvumā, kur redzamība kaut vienā virzienā ir mazāka par 100 metriem;
 4) vietās, kur transportlīdzeklis var neļaut braukt (iebraukt vai izbraukt) citiem transportlīdzekļiem vai traucē gājēju pārvietošanos;
 5) uz tiltiem, estakādēm, ceļa pārvadiem vai zem tiem;
@@ -47,6 +47,6 @@ piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību 
 13) vietās, kur brauktuves mala vai apmale apzīmēta ar 944. ceļa apzīmējumu, un vietās, kas apzīmētas ar 945. ceļa apzīmējumu;
 14) tuneļos -
 piemēro naudas sodu transportlīdzekļa vadītājam astoņu naudas soda vienību apmērā.
-(6) Par stāvēšanu uz dzelzceļa pārbrauktuvēm piemēro naudas sodu transportlīdzekļa vadītājam no divdesmit astoņām līdz piecdesmit sešām naudas soda vienībām.
+(6) Par stāvēšanu, ja tas traucē sabiedriskā transportlīdzekļa kustību, kā arī par stāvēšanu uz dzelzceļa pārbrauktuves piemēro naudas sodu transportlīdzekļa vadītājam no divdesmit astoņām līdz piecdesmit sešām naudas soda vienībām.
 (7) Par transportlīdzekļa novietošanu stāvvietā neatbilstoši prasībām, kuras noteiktas ar attiecīgām papildzīmēm (izņemot 844. un 851. papildzīmi) vai ceļa apzīmējumiem (izņemot 942. ceļa apzīmējumu), piemēro naudas sodu transportlīdzekļa vadītājam sešu naudas soda vienību apmērā.
 (8) Par transportlīdzekļa vadītāja vietas atstāšanu, ja nav veikts viss nepieciešamais, lai novērstu transportlīdzekļa izkustēšanos no vietas, piemēro brīdinājumu vai naudas sodu transportlīdzekļa vadītājam triju naudas soda vienību apmērā.

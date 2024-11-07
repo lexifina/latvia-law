@@ -1,0 +1,1 @@
+72. Ministru kabinets līdz 2025. gada 28. februārim nodrošina šā likuma 10. panta 1.⁴ daļā minētā regulējuma atbilstību šā likuma 10. panta pirmās daļas 3. punktā noteiktajam attiecībā uz speciālās militārās tehnikas un tās piekabju reģistrēšanas un noņemšanas no uzskaites kārtību.

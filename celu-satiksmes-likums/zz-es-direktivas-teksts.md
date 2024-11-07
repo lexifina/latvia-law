@@ -5,4 +5,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 3¹) Eiropas Parlamenta un Padomes 2008. gada 19. novembra direktīvas 2008/96/EK par ceļu infrastruktūras drošības pārvaldību;
 4) Eiropas Parlamenta un Padomes 2010.gada 7.jūlija direktīvas 2010/40/ES par pamatu inteliģento transporta sistēmu ieviešanai autotransporta jomā un saskarnēm ar citiem transporta veidiem;
 5) Eiropas Parlamenta un Padomes 2011.gada 25.oktobra direktīvas 2011/82/ES, ar ko veicina pārrobežu informācijas apmaiņu par ceļu satiksmes drošības noteikumu pārkāpumiem;
-6) Eiropas Parlamenta un Padomes 2019. gada 23. oktobra direktīvas (ES) 2019/1936, ar ko groza direktīvu 2008/96/EK par ceļu infrastruktūras drošības pārvaldību.
+6) Eiropas Parlamenta un Padomes 2019. gada 23. oktobra direktīvas (ES) 2019/1936, ar ko groza direktīvu 2008/96/EK par ceļu infrastruktūras drošības pārvaldību;
+7) Komisijas 2024. gada 14. marta deleģētās direktīvas (ES) 2024/846, ar ko groza Eiropas Parlamenta un Padomes direktīvu 2006/22/EK par minimālajiem nosacījumiem regulu (EK) Nr. 561/2006 un (ES) Nr. 165/2014 un direktīvas 2002/15/EK īstenošanai attiecībā uz sociālās jomas tiesību aktiem saistībā ar darbībām autotransporta jomā.
