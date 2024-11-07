@@ -1,0 +1,1 @@
+1. pants. 2023. gada 5. oktobrī parakstītais Nolīguma par pasta maksājumu pakalpojumiem Pirmais papildprotokols (turpmāk - Nolīguma Pirmais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
