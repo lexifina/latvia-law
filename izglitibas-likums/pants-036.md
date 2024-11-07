@@ -5,3 +5,4 @@
 (3) Izglītības programmas tiek īstenotas personas dzīvībai un veselībai drošos apstākļos.
 (4) Izglītības programmu licencēšanas ietvaros sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets.
 (5) Vidējās izglītības programmās, kas tiek īstenotas pēc pamatizglītības ieguves, iekļauj valsts aizsardzības mācību. To var īstenot ārpus izglītojamam noteiktās mācību stundu slodzes. Izglītojamā mācību sniegumu valsts aizsardzības mācībā vērtē aprakstoši, nosakot apguves līmeni.
+(6) (Daļa stājas spēkā 31.05.2025. un iekļauta likuma redakcijā uz 31.05.2025. Sk. pārejas noteikumu 123. punktu)
