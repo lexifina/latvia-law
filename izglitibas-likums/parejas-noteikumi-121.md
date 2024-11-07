@@ -1,0 +1,1 @@
+121. Grozījumi šā likuma 30. pantā par tā papildināšanu ar 3.⁷, 3.⁸ un 3.⁹ daļu, grozījums 54. pantā par tā papildināšanu ar 10. punktu un grozījums 58. pantā par tā otrās daļas izteikšanu jaunā redakcijā, 66.¹ pants, kā arī grozījums 68. pantā par tā otrās daļas papildināšanu ar norādi uz 66.¹ pantā minēto administratīvo pārkāpumu stājas spēkā 2025. gada 1. februārī.

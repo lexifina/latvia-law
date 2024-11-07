@@ -33,6 +33,8 @@ Ministru kabinets:
 20¹) nosaka kārtību, kādā izglītības iestāde (izņemot augstskolas un koledžas) nodrošina bibliotekāros un informācijas pakalpojumus;
 21) nosaka kārtību, kādā nodrošināma izglītojamo profilaktiskā veselības aprūpe, pirmā palīdzība, kā arī izglītojamo drošība izglītības iestādēs un to organizētajos pasākumos;
 21¹) nosaka izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm;
+21²) nosaka kārtību, kādā izglītības iestādes vadītājs vai viņa pilnvarota persona pieprasa uzrādīt un pārbauda izglītojamā personīgās mantas, kā arī ierobežo izglītojamā pārvietošanos;
+21³) nosaka kārtību, kādā izglītības iestādē iesniedzama informācija par izglītojamā veselības stāvokli un citiem apstākļiem, kas var būtiski ietekmēt izglītības procesu un būt nozīmīgi tajā iesaistītajām personām, un iesniedzamās informācijas apjomu, kā arī nosacījumus atbilstošas atzīmes par saņemto informāciju izdarīšanai Valsts izglītības informācijas sistēmā un atcelšanai;
 22) nosaka pedagogu darba slodzes lielumu;
 23) nosaka stipendiju veidus, stipendiju saņemšanas kritērijus un kārtību, kā arī stipendiju minimālo un maksimālo apmēru augstākās izglītības programmās izglītojamiem, kuri uzņemti konkursa kārtībā atbilstoši valsts finansēto vietu skaitam, un profesionālās izglītības programmās izglītojamiem, kuri uzņemti atbilstoši valsts vai pašvaldību finansēto vietu skaitam;
 24) nosaka interešu izglītības programmu un valsts nozīmes interešu izglītības iestāžu finansēšanas kārtību;

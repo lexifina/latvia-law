@@ -8,4 +8,6 @@ Izglītojamā pienākumi ir šādi:
 6) neapdraudēt savu un citu personu veselību, drošību un dzīvību;
 7) būt pieklājīgam izglītības iestādē un ārpus tās;
 8) atrasties izglītības iestādē iekšējiem normatīvajiem aktiem, tajā skaitā iekšējās kārtības noteikumiem, atbilstošā apģērbā;
-9) piedalīties izglītības iestādes vides uzkopšanā un sakārtošanā.
+9) piedalīties izglītības iestādes vides uzkopšanā un sakārtošanā;
+10) (punkts stājas spēkā 01.02.2025. un iekļauts likuma redakcijā uz 01.02.2025. Sk. pārejas noteikumu 121. punktu);
+11) pildīt izglītības iestādes vadītāja vai viņa pilnvarotas personas norādījumus.

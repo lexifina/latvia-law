@@ -1,0 +1,2 @@
+22.¹ pants. Izglītības iestādes tiesības ierobežot izglītojamam Satversmē noteiktās cilvēka pamattiesības
+Izglītības iestādei ir tiesības izglītojamo un tajā nodarbināto personu drošības, veselības vai dzīvības apdraudējuma gadījumā ierobežot izglītojamiem Satversmē noteiktās cilvēka pamattiesības - tiesības uz privātās dzīves neaizskaramību un pārvietošanās brīvību -, ciktāl tas nepieciešams apdraudējuma novēršanai.

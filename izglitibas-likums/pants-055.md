@@ -9,4 +9,5 @@ Izglītojamam ir tiesības:
 6) piedalīties mācību procesa pilnveidē un izglītības iestādes padomē;
 7) uz mantas aizsardzību izglītības iestādē;
 8) uz dzīvībai un veselībai drošiem apstākļiem izglītības iestādē un tās organizētajos pasākumos;
-9) īstenot citas normatīvajos aktos noteiktās tiesības.
+9) īstenot citas normatīvajos aktos noteiktās tiesības;
+10) rīkoties tā, lai novērstu personu drošības, veselības vai dzīvības apdraudējumu.
