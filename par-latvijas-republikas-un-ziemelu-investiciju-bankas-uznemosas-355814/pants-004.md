@@ -1,0 +1,1 @@
+4. pants. Līdz ar Līguma spēkā stāšanos spēku zaudē likums " Par Līgumu starp Latvijas Republiku un Ziemeļu investīciju banku " (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 9. nr.).
