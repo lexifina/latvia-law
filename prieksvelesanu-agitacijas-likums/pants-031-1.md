@@ -1,0 +1,5 @@
+31.¹ pants. Lēmums par aizliegumu mākslīgā intelekta sistēmas radīta priekšvēlēšanu aģitācijas materiāla turpmākai izplatīšanai (izvietošanai)
+(1) Korupcijas novēršanas un apkarošanas biroja priekšnieks gadījumā, kad konstatēts šā likuma 3.¹ pantā minētais mākslīgā intelekta sistēmas izmantošanas kārtības pārkāpums, pieņem lēmumu par aizliegumu mākslīgā intelekta sistēmas radīta attiecīgā priekšvēlēšanu aģitācijas materiāla turpmākai izplatīšanai (izvietošanai).
+(2) Lai pieņemtu šā panta pirmajā daļā minēto lēmumu, Korupcijas novēršanas un apkarošanas birojs saņem eksperta vai citu lietpratēju atzinumu, izvērtē attiecīgā lēmuma lietderību, izpildes iespējamību, kā arī lēmuma samērīgumu.
+(3) Informāciju par šā panta pirmajā daļā minētā lēmuma pieņemšanu, atcelšanu vai grozīšanu Korupcijas novēršanas un apkarošanas birojs nekavējoties publicē savā mājaslapā internetā.
+(4) Šā panta pirmajā daļā minēto lēmumu var pārsūdzēt Administratīvajā rajona tiesā. Pieteikuma iesniegšana tiesā neaptur šā lēmuma darbību. Tiesa minēto lēmumu izskata, piemērojot šā likuma 29. panta ceturtajā daļā noteikto kārtību.
