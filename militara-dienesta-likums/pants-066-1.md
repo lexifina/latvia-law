@@ -15,4 +15,4 @@
 1) veselības stāvokļa dēļ;
 2) ja rezervists ir apgādājamu ģimenes locekļu vienīgais apgādnieks vai viņa apgādībā ir ne mazāk kā divi pirmsskolas vecuma bērni;
 3) ja rezervists ir aizdomās turētais vai apsūdzētais kriminālprocesā par tīšu noziedzīga nodarījuma izdarīšanu, ir sodīts par smagu vai sevišķi smagu noziegumu neatkarīgi no sodāmības dzēšanas vai noņemšanas, ir notiesāts par smagu vai sevišķi smagu noziegumu, atbrīvojot no soda, vai pret viņu uzsāktais kriminālprocess par smaga vai sevišķi smaga nozieguma izdarīšanu izbeigts uz nereabilitējoša pamata;
-4) ja rezervista iesaukšana uz mācībām neatbilst nacionālās drošības interesēm saskaņā ar Militārās izlūkošanas un drošības dienesta atzinumu.
+4) ja rezervista iesaukšana uz mācībām neatbilst nacionālās drošības interesēm saskaņā ar Militārās izlūkošanas un drošības dienesta atzinumu un ir pagājuši mazāk nekā pieci gadi kopš šā atzinuma sniegšanas. Atzinums tiek pieprasīts atkārtoti pēc piecu gadu termiņa notecējuma kopš negatīva atzinuma sniegšanas.

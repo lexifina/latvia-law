@@ -1,0 +1,1 @@
+23.¹ Virsniekiem speciālistiem, kuri saņēmuši jaunākā virsnieka dienesta pakāpi līdz šā likuma pārejas noteikumu 23. punktā noteiktajam termiņam, nosacījums par dienēšanas laika samazināšanu kārtējās dienesta pakāpes iegūšanai par vienu gadu tiek piemērots tikai nākamās dienesta pakāpes saņemšanai.

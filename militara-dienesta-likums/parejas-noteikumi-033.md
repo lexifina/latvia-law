@@ -1,0 +1,1 @@
+33. Šā likuma 33. panta otrajā daļā minētais nosacījums par vismaz vienas Ziemeļatlantijas līguma organizācijas oficiālās valodas prasmi vecāko un augstāko instruktoru dienesta pakāpes piešķiršanai stājas spēkā 2025. gada 1. janvārī.

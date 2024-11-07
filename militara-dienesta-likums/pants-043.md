@@ -11,7 +11,9 @@
 8) karavīram kā disciplinārsods piemērota atvaļināšana no aktīvā dienesta;
 9) karavīrs ir sodīts par tīšu noziedzīgu nodarījumu vai par valsts noslēpuma izpaušanu aiz neuzmanības, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
 10) karavīrs par šīs daļas 9. punktā minēto noziedzīgo nodarījumu notiesāts, atbrīvojot no soda, vai kriminālprocess pret to izbeigts uz nereabilitējoša pamata;
-11) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, ja sodāmība nav noņemta vai nav dzēsta likumā noteiktajā kārtībā.
+11) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības, ja sodāmība nav noņemta vai nav dzēsta likumā noteiktajā kārtībā;
+12) ir saņemts Militārās izlūkošanas un drošības dienesta atzinums par to, ka karavīra atrašanās dienestā neatbilst nacionālās drošības interesēm. Uz šā atzinuma pamata pieņemtā administratīvā akta apstrīdēšana neaptur tā izpildi;
+13) (punkts stājas spēkā 01.04.2025. un iekļauts likuma redakcijā uz 01.04.2025. Sk. pārejas noteikumu 34. punktu).
 (3) Profesionālā dienesta līgumu ar karavīru izbeidz aizsardzības ministrs vai viņa pilnvarots komandieris (priekšnieks).
 (4) Aizsardzības ministrs, ņemot vērā karavīra specialitāti vai dienesta nepieciešamību, ir tiesīgs profesionālā dienesta līgumu pirms termiņa neizbeigt, ja:
 1) karavīrs ir sodīts par noziedzīga nodarījuma izdarīšanu aiz neuzmanības ar sodu, kas nav saistīts ar brīvības atņemšanu;

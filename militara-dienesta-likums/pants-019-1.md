@@ -1,0 +1,3 @@
+19.¹ pants. Izmitināšana, ēdināšana un transporta izdevumu segšana profesionālā dienesta kandidātiem
+(1) Profesionālā dienesta kandidātam pēc dalības šā likuma 19. panta piektajā daļā minētajā atlasē izmaksā vienreizēju transporta izdevumu kompensāciju par sabiedriskā transporta izmantošanu no deklarētās dzīvesvietas līdz atlases norises vietai un atpakaļ. Kompensāciju par taksometra vai personīgā transporta izmantošanu neizmaksā. Nosacījumus, kārtību un apmēru, kādā profesionālā dienesta kandidātam izmaksā vienreizēju transporta izdevumu kompensāciju, nosaka Ministru kabinets.
+(2) Profesionālā dienesta kandidātam nodrošina izmitināšanu un ēdināšanu, ja šā likuma 19. panta piektajā daļā minētā atlase ilgst vairāk par vienu dienu.
