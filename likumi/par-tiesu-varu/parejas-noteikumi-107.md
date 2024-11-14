@@ -1,0 +1,1 @@
+107. Grozījumi šā likuma 86.¹ panta pirmajā daļā par tās papildināšanu ar vārdiem "Tieslietu akadēmijā", grozījumi par 89.¹¹ panta 9.² daļas, 107.¹ panta otrās daļas 9. punkta un pārejas noteikumu 104. punkta izslēgšanu stājas spēkā 2025. gada 1. janvārī.

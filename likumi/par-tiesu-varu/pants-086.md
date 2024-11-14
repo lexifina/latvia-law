@@ -5,3 +5,4 @@
 (4) (Izslēgta ar 23.05.1996. likumu.)
 (5) Tiesnesim nav atļauts streikot.
 (6) Tiesnesis var iesniegt tiesnešu konferencei, kā arī tieši Augstākajai Tiesai priekšlikumus likumu izskaidrošanas jautājumos.
+(7) Pirmā gada laikā pēc pirmreizējas iecelšanas rajona (pilsētas) tiesneša amatā vai apstiprināšanas apgabaltiesas tiesneša amatā tiesnesim ir tiesības saņemt atbalstu ievadīšanai darbā. Darbā ievadītājs var būt tiesnesis, par kura profesionālo darbību Tiesnešu kvalifikācijas kolēģija ir sniegusi pozitīvu atzinumu un kurš ir apguvis darbā ievadītāja mācību kursu.

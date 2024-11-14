@@ -5,4 +5,6 @@
 2) tiesneša nepietiekama noslogojuma dēļ;
 3) sakarā ar tiesnešu maiņu;
 4) sakarā ar tiesneša nespēju veikt savus pienākumus.
-(3) Lietu sadalē ņem vērā tiesneša slodzi, pildot pienākumus tiesnešu pašpārvaldes institūcijās.
+(3) Lietu sadalē var ņemt vērā:
+1) tiesneša slodzi, pildot pienākumus tiesnešu pašpārvaldes institūcijās, gatavojot un vadot mācību pasākumus tiesnešiem un prokuroriem, kā arī veicot pienākumus saistībā ar jauno tiesnešu ievadīšanu darbā;
+2) laiku, kāds nepieciešams, lai tiesnesis apgūtu jauno tiesnešu mācību kursu.

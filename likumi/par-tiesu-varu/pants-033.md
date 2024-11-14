@@ -6,6 +6,7 @@
 1) rīkojas ar tiesas iestādei nodotajiem finanšu un citiem resursiem;
 2) nosaka tiesas darbinieku un tiesas priekšsēdētāja vietnieka amata pienākumus;
 3) nosaka tiesnešu pienākumus, kas saistīti ar tiesas iestādes efektīvu funkcionēšanu (piemēram, sadarbība ar ārvalstu tiesām un citām institūcijām, prakses apkopošana, atzinumu sniegšana, piedalīšanās normatīvo aktu projektu izstrādē, atsauksmju sniegšana Tiesnešu kvalifikācijas kolēģijai);
+3¹) organizē jauno tiesnešu iepazīstināšanu ar amata pienākumiem un sniedz atbalstu, ievadot darbā;
 4) atbild par lietu un citu pienākumu sadali starp tiesnešiem;
 4¹) organizē tiesas darbu;
 4²) veicina vienotu tiesu praksi tiesā, organizē aktuālu normatīvo aktu piemērošanas jautājumu apspriešanu un tiesu prakses analīzi;
