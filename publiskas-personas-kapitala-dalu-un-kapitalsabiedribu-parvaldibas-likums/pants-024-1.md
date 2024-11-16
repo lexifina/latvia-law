@@ -1,0 +1,7 @@
+24.¹ pants. Publiskas personas kapitālsabiedrību iedalījums grupās pēc to finansējuma avotiem
+(1) Publiskas personas kapitāla daļu turētājs nosaka, ka publiskas personas kapitālsabiedrība atkarībā no tās finansējuma avotiem ietilpst vienā no šādām grupām:
+1) komerciāla publiskas personas kapitālsabiedrība - kapitālsabiedrība, kura nav iekļauta vispārējās valdības sektorā un kurai valsts vai pašvaldības budžeta finansējums pēdējo triju gadu laikā nepārsniedz 10 procentus no kapitālsabiedrības vidējā kopējā apgrozījuma šajā periodā;
+2) no publiskas personas atkarīga nekomerciāla publiskas personas kapitālsabiedrība - vispārējās valdības sektorā iekļauta kapitālsabiedrība, kura primāri nodrošina nefinanšu mērķu īstenošanu un kurai valsts vai pašvaldības budžeta finansējums pēdējo triju gadu laikā pārsniedz 90 procentus no kapitālsabiedrības vidējā kopējā apgrozījuma šajā periodā;
+3) no publiskas personas atkarīga komerciāla publiskas personas kapitālsabiedrība - kapitālsabiedrība, kura neatbilst šīs daļas 1. un 2. punktā noteiktajiem kritērijiem.
+(2) Publiskas personas kapitālsabiedrības meitas sabiedrības ietilpst tajā pašā grupā, kurā ietilpst mātes sabiedrība, izņemot gadījumu, kad meitas sabiedrība tiek finansēta pēc atšķirīgiem principiem.
+(3) Mainoties finansējuma avotiem vai izvērtējot līdzdalību kapitālsabiedrībā šā likuma 7. pantā noteiktajā kārtībā, kapitāla daļu turētājs aktualizē publiskas personas kapitālsabiedrības piederību pie konkrētas grupas.

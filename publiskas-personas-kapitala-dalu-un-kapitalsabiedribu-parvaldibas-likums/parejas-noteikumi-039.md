@@ -1,0 +1,1 @@
+39. Ministru kabinets līdz 2025. gada 31. decembrim izvērtē no publiskas personas atkarīgu nekomerciālu publiskas personas kapitālsabiedrību un no publiskas personas atkarīgu komerciālu publiskas personas kapitālsabiedrību juridiskās formas atbilstību tām noteiktajām funkcijām, stratēģiskajiem mērķiem un uzdevumiem.

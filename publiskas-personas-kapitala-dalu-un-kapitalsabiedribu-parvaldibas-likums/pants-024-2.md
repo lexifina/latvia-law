@@ -1,0 +1,14 @@
+24.² pants. Publiskas personas kapitālsabiedrības mērķu noteikšana
+(1) Dokumentu, kas detalizē kapitālsabiedrības attīstības virzienus, vispārējos stratēģiskos, finanšu un nefinanšu mērķus, kā arī sniedz skaidrojumu par publiskas personas iecerēm, ko tā noteiktā periodā vēlas īstenot ar līdzdalību kapitālsabiedrībā (turpmāk - gaidu vēstule), apstiprina dalībnieku (akcionāru) sapulce.
+(2) Kapitāla daļu turētājs sagatavo gaidu vēstuli triju mēnešu laikā pēc tam, kad publiskas personas augstākā lēmējinstitūcija pieņēmusi lēmumu par līdzdalības iegūšanu vai saglabāšanu publiskas personas kapitālsabiedrībā vai publiskas personas kontrolētā kapitālsabiedrībā, ja tā tiek saglabāta publiskas personas izšķirošā ietekmē vai tiek noteikti vai aktualizēti kapitālsabiedrības vispārējie stratēģiskie mērķi.
+(3) Gaidu vēstulē ietver informāciju par:
+1) kapitālsabiedrības vispārējo stratēģisko mērķu tvērumu un robežām;
+2) kapitālsabiedrības augsta līmeņa finanšu un nefinanšu mērķiem sasaistē ar vispārējiem stratēģiskajiem mērķiem;
+3) publiskas personas iecerēm, ko nepieciešams īstenot ar līdzdalību kapitālsabiedrībā noteiktā periodā, tostarp informāciju par nozaru politikas dokumentos ietvertajiem uz konkrēto kapitālsabiedrību attiecināmajiem mērķiem;
+4) paredzamo kapitālsabiedrības attīstības virzienu un kapitāla daļu turētāja finanšu iecerēm;
+5) nefinanšu mērķiem, kuru sasniegšanai attiecīgi paredz piešķirt publiskas personas finansējumu vai nodrošināt citus finansējuma avotus, kā arī ieceres vai kvalitātes standartus attiecībā uz publiskas personas uzdevumu izpildi, ja nav noslēgts deleģēšanas līgums;
+6) kapitālsabiedrības iekļaušanu attiecīgajā grupā, ievērojot šā likuma 24.¹ panta pirmajā daļā noteikto;
+7) citu informāciju, ja nepieciešams.
+(4) Valsts kapitāla daļu turētājs pirms gaidu vēstules apstiprināšanas saņem koordinācijas institūcijas atzinumu, kurā sniegts vērtējums par gaidu vēstules satura atbilstību šā panta trešās daļas noteikumiem, kapitālsabiedrībai noteiktajiem vispārējiem stratēģiskajiem mērķiem un pietiekamību vidēja termiņa darbības stratēģijas izstrādei. Ja kapitāla daļu turētājs nav nozares ministrija, tad valsts kapitāla daļu turētājs saņem tās atzinumu, kurā sniegts vērtējums par gaidu vēstulē norādītajiem nefinanšu mērķiem un to atbilstību nozares politikas mērķiem.
+(5) Kapitāla daļu turētājs var aktualizēt gaidu vēstuli, ja ir mainījušās kapitāla daļu turētāja ieceres vai nozares politikas mērķi vai ja to ierosina nozares ministrija, publiskas personas augstākā lēmējinstitūcija, kapitālsabiedrības padome vai valde.
+(6) Ja publiski privātā vai privātā kapitālsabiedrībā publiskai personai pieder kapitāla daļas, kas nenodrošina izšķirošo ietekmi, publiskas personas kapitāla daļu turētājs pēc līdzdalības iegūšanas vai saglabāšanas šādā kapitālsabiedrībā izstrādā un nosūta kapitālsabiedrībai priekšlikumu par gaidu vēstules apstiprināšanu dalībnieku (akcionāru) sapulcē.

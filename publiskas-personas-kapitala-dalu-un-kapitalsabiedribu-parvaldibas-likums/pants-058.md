@@ -19,7 +19,7 @@ f) statūtus,
 g) valdes, padomes (ja tāda ir izveidota) nolikumu vai citu tam pielīdzināmu dokumentu, kas regulē tās darbību,
 h) informāciju par padomes (ja tāda ir izveidota) un valdes locekļiem (par katru atsevišķi): profesionālo darba pieredzi, izglītību, amatiem citās kapitālsabiedrībās, pilnvaru termiņiem, kā arī padomes locekļa atbilstību šajā likumā noteiktajiem neatkarīga padomes locekļa kritērijiem,
 i) informāciju par visām paziņotajām kapitālsabiedrības dalībnieku (akcionāru) sapulcēm, tai skaitā par darba kārtību un lēmumiem,
-j) atalgojuma politikas principus un informāciju par katra valdes un padomes locekļa atalgojumu,
+j) valdes un padomes locekļu atlīdzības politiku un informāciju par katram valdes vai padomes loceklim noteikto mēneša atlīdzību un tās apmēra izmaiņām visā amata pildīšanas periodā, kā arī par izmaksāto amata atlīdzību, prēmiju apmēru un citiem saņemtajiem maksājumiem (piemēram, amata pienākumu izpildes nodrošināšanas izdevumu kompensācijām) katrā gadā,
 k) kapitālsabiedrības ziedošanas (dāvināšanas) stratēģiju un ziedošanas (dāvināšanas) kārtību.
 (1¹) Publiskas personas kapitālsabiedrība un publiski privāta kapitālsabiedrība (akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, kura atbilst šā likuma 78. panta otrās daļas prasībām) papildus savā mājaslapā internetā publicē arī šādu informāciju:
 1) ne retāk kā reizi gadā:

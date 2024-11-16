@@ -9,7 +9,8 @@
 (2) Kapitāla daļu turētājs nodrošina, ka publiskas personas kontrolētā kapitālsabiedrībā:
 1) vidēja termiņa darbības stratēģiju izstrādā atbilstoši šā likuma 57.pantam;
 2) informāciju par kapitālsabiedrību publisko atbilstoši šā likuma 58. panta pirmajai, 1.¹, 1.² un otrajai daļai;
-3) dividendēs izmaksājamo peļņas daļu nosaka saskaņā ar šā likuma 28. vai 35.pantu.
+3) dividendēs izmaksājamo peļņas daļu nosaka saskaņā ar šā likuma 28. vai 35.pantu;
+4) valdes un padomes locekļu mēneša atlīdzību, prēmiju un atsaukšanas pabalstu nosaka, ievērojot valdes un padomes locekļu atlīdzības politiku, kā arī uz šā likuma pamata izdotos Ministru kabineta noteikumus.
 (3) Publiskas personas kapitālsabiedrība nodrošina, ka tās meitas sabiedrības:
 1) neiegūst līdzdalību citās kapitālsabiedrībās, izņemot gadījumu, kad tas atbilst šā likuma 4.panta otrās daļas 1.punktā noteiktajam un ir saņemta attiecīgās publiskās personas augstākās lēmējinstitūcijas atļauja;
 2) vidēja termiņa darbības stratēģiju izstrādā atbilstoši šā likuma 57.pantam;
