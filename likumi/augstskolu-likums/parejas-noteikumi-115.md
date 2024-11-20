@@ -1,0 +1,1 @@
+115. Ārzemniekam, kurš līdz dienai, kad stājas spēkā šā likuma 27. panta septītā daļa, ir ievēlēts akadēmiskā personāla amatā un kura valsts valodas prasme neatbilst normatīvajos aktos noteiktajam apjomam, šajā daļā minētais apliecinājums par valsts valodas prasmi nepieciešams no 2031. gada 1. janvāra.
