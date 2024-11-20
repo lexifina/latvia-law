@@ -1,0 +1,2 @@
+4.¹ pants. (1) Valsts digitālās attīstības aģentūra nodrošina tehnoloģisko risinājumu atbilstoši šim likumam un Centrālās vēlēšanu komisijas norādījumiem par procesiem, funkcijām, uzdevumiem un mērķiem domes vēlēšanu organizēšanai.
+(2) Pilsonības un migrācijas lietu pārvalde, Valsts ieņēmumu dienests, Tiesu administrācija, Iekšlietu ministrijas Informācijas centrs un Totalitārisma seku dokumentēšanas centrs tiešsaistes režīmā sniedz visus nepieciešamos datus Valsts digitālās attīstības aģentūras pārziņā esošā tehnoloģiskā risinājuma darbības nodrošināšanai.

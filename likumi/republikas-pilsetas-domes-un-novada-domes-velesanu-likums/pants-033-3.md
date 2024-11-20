@@ -1,0 +1,2 @@
+33.³ pants. (1) Vēlēšanu iecirkņa komisija var organizēt balsošanu divās vai vairākās vēlēšanu telpās atbilstoši pašvaldības vēlēšanu komisijas apstiprinātajam darba grafikam.
+(2) Vēlēšanu iecirkņa komisija var organizēt izbraukuma balsošanu atbilstoši pašvaldības vēlēšanu komisijas apstiprinātajām vietām un laikiem. Vēlētāji, kuri balso izbraukuma balsošanas vietā, tiek ierakstīti atsevišķā balsotāju sarakstā, un aizlīmētās aploksnes tiek iemestas atsevišķā aizzīmogotā kastē.

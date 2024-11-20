@@ -5,7 +5,7 @@
 a) kandidāta vārds, uzvārds, dzimšanas gads, datums un mēnesis, dzimums, ja vēlas, - arī tautība,
 b) personas kods,
 c) ārvalsts pilsonība (pavalstniecība), ja tāda ir,
-d) reģistrētā dzīvesvieta Latvijā (valstspilsētas pašvaldība vai novads),
+d) reģistrētā vai deklarētā dzīvesvieta (pašvaldības administratīvā teritorija),
 e) darbavietas un ieņemamie amati (arī amati politiskajās partijās, reliģiskajās organizācijās, arodbiedrībās, biedrībās un nodibinājumos) vai - ja darbavietas nav - nodarbošanās, statuss,
 f) kādas izglītības iestādes beidzis (kurā gadā, kādā specialitātē vai programmā),
 g) pašnovērtējums par latviešu valodas prasmi,
@@ -13,10 +13,10 @@ h) ir vai nav sadarbojies ar PSRS, Latvijas PSR vai ārvalstu valsts drošības 
 i) (izslēgts ar 11.11.2004. likumu),
 j) ja kandidāts ir citas Eiropas Savienības dalībvalsts pilsonis, - kandidāta apliecinājums, ka Eiropas Savienības dalībvalstī, kuras pilsonis viņš ir, viņam nav ar tiesas spriedumu liegtas tiesības kandidēt un tikt ievēlētam;
 4) visu sarakstā ietverto kandidātu parakstīta priekšvēlēšanu programma, kuras apjoms nedrīkst pārsniegt 4000 iespiedzīmes.
-(2) Ja par kandidātu ir pieteikta persona, kura nav bez pārtraukuma vismaz pēdējos 10 mēnešus pirms kandidātu saraksta iesniegšanas dienas reģistrēta dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā, bet tai šajā teritorijā ir likumā noteiktajā kārtībā reģistrēts nekustamais īpašums, kandidātu sarakstam jāpievieno arī notariāli apliecināts zemesgrāmatas akta noraksts vai zemesgrāmatu nodaļas izziņa par nekustamā īpašuma piederību.
+(2) (Izslēgta ar 24.10.2024. likumu)
 (3) Ja par kandidātu ir pieteikta persona, kura nav bez pārtraukuma vismaz pēdējos 10 mēnešus pirms kandidātu saraksta iesniegšanas dienas reģistrēta dzīvesvietā attiecīgās pašvaldības administratīvajā teritorijā, bet ir šajā teritorijā nostrādājusi (kā darba ņēmējs vai pašnodarbinātais atbilstoši likumam "Par valsts sociālo apdrošināšanu") vismaz pēdējos četrus mēnešus pirms kandidātu saraksta iesniegšanas dienas, kandidātu sarakstam jāpievieno arī attiecīgi darba devēja vai Valsts ieņēmumu dienesta izziņa.
 (4) (Izslēgta ar 09.05.2002. likumu)
 (5) Ja par kandidātu ir pieteikta persona, kura saraksta iesniegšanas dienā ieņem kādu no šā likuma 10. pantā minētajiem amatiem, kandidātu sarakstam jāpievieno attiecīgās personas parakstīts paziņojums, ka ievēlēšanas gadījumā tā mēneša laikā izbeigs attiecīgā amata (dienesta) pildīšanu.
 (6) Ja kandidātu saraksta nosaukums sakrīt ar kādas reģistrētas politiskās partijas vai reģistrētu politisko partiju reģistrētas apvienības nosaukumu, kandidātu sarakstam pievienojams šīs politiskās partijas vai politisko partiju apvienības lēmējinstitūcijas pilnvarojums saraksta iesniedzējiem iesniegt kandidātu sarakstu attiecīgās domes vēlēšanām.
-(7) Ja apvienotu kandidātu sarakstu ir iesniegušas vairākas politiskās partijas, kuras nav apvienojušās reģistrētā politisko partiju apvienībā, kandidātu sarakstam pievienojams visu attiecīgo politisko partiju lēmējinstitūciju pilnvarojums.
+(7) Ja apvienotu kandidātu sarakstu ir iesniegušas vairākas politiskās partijas, politisko partiju apvienības vai viena vai vairākas politisko partiju apvienības un viena vai vairākas politiskās partijas, kandidātu sarakstam pievienojams visu attiecīgo politisko partiju vai politisko partiju apvienību lēmējinstitūciju pilnvarojums.
 (8) (Izslēgta ar 11.06.2020. likumu)

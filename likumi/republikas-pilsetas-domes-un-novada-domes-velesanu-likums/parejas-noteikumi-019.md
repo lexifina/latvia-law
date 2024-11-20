@@ -1,0 +1,1 @@
+19. Līdz 2028. gada 31. jūlijam šā likuma 4.¹ panta otrajā daļā minētās iestādes vienojas par nepieciešamo datu nodošanas veidu Valsts digitālās attīstības aģentūras pārziņā esošā tehnoloģiskā risinājuma darbības nodrošināšanai.
