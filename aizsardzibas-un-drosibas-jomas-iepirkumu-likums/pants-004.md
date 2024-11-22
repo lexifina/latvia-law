@@ -14,6 +14,7 @@
 4) fizisko personu pakalpojumiem saskaņā ar darba līgumiem;
 5) pētniecības un izstrādes pakalpojumiem, izņemot tādus pakalpojumus, par kuriem pilnībā samaksā un kurus izmanto savām vajadzībām vienīgi pasūtītājs;
 6) piegādēm, pakalpojumiem vai būvdarbiem izlūkošanas un pretizlūkošanas darbību nodrošināšanai;
-7) piegādēm, pakalpojumiem vai būvdarbiem valstī, kura nav Eiropas Savienības dalībvalsts, situācijā, kad karaspēks ir izvietots ārpus Eiropas Savienības teritorijas un starptautisko operāciju vai starptautisko mācību nodrošināšanai iepirkuma līgumi noslēdzami ar piegādātājiem, kas darbojas šo operāciju vai mācību zonā.
+7) piegādēm, pakalpojumiem vai būvdarbiem valstī, kura nav Eiropas Savienības dalībvalsts, situācijā, kad karaspēks ir izvietots ārpus Eiropas Savienības teritorijas un starptautisko operāciju vai starptautisko mācību nodrošināšanai iepirkuma līgumi noslēdzami ar piegādātājiem, kas darbojas šo operāciju vai mācību zonā;
+8) valsts naftas produktu drošības rezervju izveidi, uzturēšanu un rotāciju.
 (4) Šo likumu nepiemēro, ja tā piemērošanas gadījumā pasūtītājam būtu jāsniedz tāda informācija, kuras izpaušana var radīt kaitējumu valsts drošībai, un ir saņemta attiecīga Ministru kabineta atļauja.
 (5) Šo likumu nepiemēro piegādes līgumiem, ja to priekšmets ir kāda no šā likuma 3. panta pirmās daļas 1. punktā minētajām precēm, to sastāvdaļām vai detaļām un no to piegāžu drošības ir atkarīgas būtiskas nacionālās drošības intereses un Nacionālo bruņoto spēku spēja veikt ārējos normatīvajos aktos noteiktos uzdevumus, un ir saņemta Ministru kabineta atļauja.
