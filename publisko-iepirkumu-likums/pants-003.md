@@ -11,7 +11,8 @@
 9) fizisko personu pakalpojumiem saskaņā ar darba līgumiem;
 10) pakalpojumiem civilās aizsardzības, civilās drošības un katastrofu novēršanas jomā, kurus sniedz biedrības, nodibinājumi vai apvienības un uz kuriem attiecas kāds no šādiem CPV kodiem: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 un 85143000-3, izņemot ar pacientu transportēšanu saistītus neatliekamās medicīniskās palīdzības pakalpojumus;
 11) sabiedriskā transporta pakalpojumiem, kas tiek sniegti, izmantojot dzelzceļu vai metro;
-12) pakalpojumiem, kurus sniedz cits pasūtītājs vai pasūtītāju apvienība, kam saskaņā ar ārējiem normatīvajiem aktiem ir izņēmuma tiesības sniegt attiecīgo pakalpojumu.
+12) pakalpojumiem, kurus sniedz cits pasūtītājs vai pasūtītāju apvienība, kam saskaņā ar ārējiem normatīvajiem aktiem ir izņēmuma tiesības sniegt attiecīgo pakalpojumu;
+13) valsts naftas produktu drošības rezervju izveidi, uzturēšanu un rotāciju.
 (2) Šo likumu piemēro tikai publiskiem pakalpojuma līgumiem par pētniecības un izstrādes pakalpojumiem, kuru CPV kods ir no 73000000-2 līdz 73120000-9, 73300000-5, 73420000-2 un 73430000-5, ja vienlaikus pastāv šādi nosacījumi:
 1) labumu no sniegtā pakalpojuma rezultātiem gūs tikai pasūtītājs, kas šos rezultātus izmantos vienīgi savām vajadzībām;
 2) pasūtītājs pilnībā samaksās par sniegto pakalpojumu.
