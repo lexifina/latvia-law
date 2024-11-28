@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 26,
+ "datums": "2024-11-28",
+ "ieraksts": {
+  "dkp_id": "0ccbd784-5b7c-482b-a867-ddea8dff007b",
+  "lastmodtime": "\"AAAAAAJKhdY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Didzis#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Andris#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Alīna#Jekaterina#Ilze#Nauris#Jānis#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Šmits#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Gendele#Drelinga#Vergina#Puntulis#Reirs#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "############################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#JV#ZZS#ST!#JV#LPV#LPV#ST!#ZZS#AS#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#AS#ZZS#LPV#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#PRO#JV#ST!#JV#NA#JV#JV# #JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#PRO#ZZS#LPV#JV#AS#LPV#PRO# #JV#ZZS#PRO#JV",
+  "RESULT": "Par#Nebalsoja#Atturas#Pret#Pret#Pret#Pret#Nebalsoja#Par#Pret#Par#Par#Par#Pret#Par#Atturas#Pret#Pret#Pret#Pret#Par#Par#Atturas#Pret#Nebalsoja#Par#Pret#Par#Par#Par#Par#Atturas#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Par#Pret#Atturas#Pret#Pret#Par#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Nebalsoja#Atturas#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Atturas#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "28.11.2024 11:27:21",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.12. Grozījumi Enerģētikas likumā (701/Lp14), 3.lasījums",
+  "VOTING_ID": "3b6d7f88-6393-4f55-8187-3cb7c75345f6",
+  "VOTERESULT_ABSTAIN": "8",
+  "VOTERESULT_AGAINST": "48",
+  "VOTERESULT_FOR": "33",
+  "VOTERESULT_REGISTERED": "93",
+  "VOTE_NUMBER": "28",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-26-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d23f94ac-85ca-48e3-a8e2-bac2ceafe226/download/14.saeimas-2024.gada-rudens-sesija-26-vote.xml",
+  "sha256": "9a5061915b2c4e844858a73766d945226b9a92d07684b9e9933cd425d1ec3163",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
