@@ -1,0 +1,1 @@
+19. Grozījumi šā likuma 3. panta otrajā, sestajā un septītajā daļā, 5. panta ceturtā un piektā daļa, grozījumi 14. panta pirmajā daļā par tās izteikšanu jaunā redakcijā, 14. panta 1.¹ daļa, 14.⁷ pants, grozījumi 15. panta pirmajā daļā, kā arī grozījumi 20.¹ panta nosaukumā un pirmās daļas ievaddaļā par to izteikšanu jaunā redakcijā stājas spēkā 2026. gada 1. janvārī.
