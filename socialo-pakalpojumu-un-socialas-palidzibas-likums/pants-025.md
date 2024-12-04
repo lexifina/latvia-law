@@ -12,4 +12,4 @@
 3) nodrošina piešķirto valsts budžeta līdzekļu racionālu izlietojumu un šā izlietojuma kontroli;
 4) organizē tehnisko palīglīdzekļu apriti - datubāzu veidošanu un uzturēšanu attiecībā uz tehniskajiem palīglīdzekļiem, rindām pakalpojumu saņemšanai un pakalpojumu saņēmušajām personām un citiem ar pakalpojumu nodrošināšanu saistītiem jautājumiem;
 5) informē sabiedrību par pakalpojumu saņemšanas iespējām.
-(5) Personām ar invaliditāti, kurām Veselības un darbspēju ekspertīzes ārstu valsts komisija ir noteikusi medicīniskas indikācijas speciāli pielāgota vieglā automobiļa iegādei un transporta izdevumu kompensēšanas pabalsta saņemšanai, ir tiesības saņemt par valsts budžeta līdzekļiem pakalpojumu - transportlīdzekļa pielāgošana -, lai tas pildītu tehniskā palīglīdzekļa funkciju.
+(5) Personām ar invaliditāti, kurām Valsts komisija ir noteikusi medicīniskas indikācijas speciāli pielāgota vieglā automobiļa iegādei un transporta izdevumu kompensēšanas pabalsta saņemšanai, ir tiesības saņemt par valsts budžeta līdzekļiem pakalpojumu - transportlīdzekļa pielāgošana -, lai tas pildītu tehniskā palīglīdzekļa funkciju.

@@ -1,4 +1,11 @@
 23.pants. Aprūpe mājās
-(1) Ja personai nepieciešama aprūpe dzīvesvietā, pašvaldība vispirms izvērtē to, kādas iespējas nodrošināt nepieciešamo aprūpi ir ar šo personu kopā dzīvojošajiem ģimenes locekļiem vai personām, kurām ar aprūpējamo ir kopēji izdevumi par uzturu un kuras mitinās vienā mājoklī ar viņu.
+(1) Ja personai nepieciešama aprūpe dzīvesvietā, pašvaldība, nosakot personai aprūpes mājās pakalpojuma nepieciešamību un tā apjomu, ņem vērā:
+1) kādas iespējas nodrošināt nepieciešamo aprūpi ir ar šo personu kopā dzīvojošajiem ģimenes locekļiem vai personām, kurām ar aprūpējamo ir kopēji izdevumi par uzturu un kuras mitinās vienā mājoklī ar viņu, tostarp ņem vērā ģimenes locekļu nodarbinātību un atrašanos ilgstošā atvaļinājumā;
+2) funkcionālo traucējumu smagumu, kā arī noteikto invaliditāti un Valsts komisijas atzinuma par īpašas kopšanas nepieciešamību esību, ja pakalpojumu piešķir bērnam;
+3) laikposmu, kuru persona pavada ārpus dzīvesvietas (piemēram, izglītības iestādē vai dienas aprūpes centrā);
+4) to, vai un kādā apjomā persona saņem citus pakalpojumus vai atbalsta pasākumus (piemēram, asistenta, pavadoņa, atelpas brīža vai bērnu uzraudzības pakalpojumu);
+5) citus apstākļus, kuru dēļ objektīvi nav iespējams nodrošināt pienācīgu personas aprūpi (piemēram, citu bērnu vai kopjamu personu atrašanās mājsaimniecībā).
 (2) Ja personas aprūpi nodrošina ģimenes locekļi, pašvaldība šos ģimenes locekļus atbalsta psiholoģiski, viņus konsultējot un apmācot, un, ja nepieciešams, arī materiāli.
 (3) Ja persona dzīvo viena vai ar šo personu kopā dzīvojošie ģimenes locekļi vecuma, veselības stāvokļa vai nodarbinātības dēļ nevar nodrošināt tai nepieciešamo aprūpi, personai ir tiesības saņemt sociālās aprūpes pakalpojumu.
+(4) Ministru kabinets nosaka maksimālo apjomu, kādā aprūpes mājās pakalpojumu var piešķirt bērnam ar invaliditāti, kuram ir izsniegts Valsts komisijas atzinums par īpašas kopšanas nepieciešamību, un personai līdz 24 gadu vecumam, kurai īpašas kopšanas nepieciešamība pēc pilngadības sasniegšanas tiek turpināta.
+(5) Aprūpes mājās pakalpojumu bērni ar invaliditāti, kuriem ir izsniegts Valsts komisijas atzinums par īpašas kopšanas nepieciešamību, saņem bez maksas. Pēc pilngadības sasniegšanas līdz 24 gadu vecuma sasniegšanai personai aprūpes mājās pakalpojumu turpina sniegt bez maksas, ja persona ir saņēmusi Valsts komisijas atzinumu par īpašas kopšanas nepieciešamību.
