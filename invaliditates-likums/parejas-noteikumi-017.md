@@ -1,0 +1,1 @@
+17. Šā likuma 8. panta sestā un septītā daļa stājas spēkā 2025. gada 1. janvārī. Iesniegumu, kas atkārtotas invaliditātes ekspertīzes veikšanai Valsts komisijai ir iesniegts līdz 2024. gada 31. decembrim, Valsts komisija izskata un invaliditāti un darbspēju zaudējumu nosaka atbilstoši normatīvajam regulējumam, kas bija spēkā iesnieguma iesniegšanas brīdī.

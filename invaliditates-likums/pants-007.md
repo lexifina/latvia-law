@@ -6,7 +6,9 @@
 3) tā ir alternatīvo statusu ieguvušas personas ģimenes loceklis;
 4) tai Latvijas Republikā ir piešķirts pagaidu aizsardzības statuss;
 5) tai termiņuzturēšanās atļauja ir piešķirta sakarā ar zinātniskās darbības veikšanu Latvijas Republikā;
-6) tai Latvijas Republikā ir piešķirts cilvēku tirdzniecības upura statuss.
+6) tai Latvijas Republikā ir piešķirts cilvēku tirdzniecības upura statuss;
+7) tā ir Eiropas Savienības zilās kartes turētāja un tās pastāvīgā dzīvesvieta termiņuzturēšanās atļaujas derīguma laikā ir Latvijas Republikas teritorijā;
+8) tā ir Eiropas Savienības zilās kartes turētāja ģimenes loceklis un tās pastāvīgā dzīvesvieta termiņuzturēšanās atļaujas derīguma laikā ir Latvijas Republikas teritorijā.
 (3) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic, ievērojot konfidencialitāti, personas datu aizsardzības prasības un atšķirīgas attieksmes aizliegumu.
 (4) Izdevumus, kas saistīti ar prognozējamas invaliditātes un invaliditātes ekspertīzi, sedz no valsts budžeta.
 (5) Prognozējamas invaliditātes un invaliditātes ekspertīzi veic un prognozējamu invaliditāti vai invaliditāti nosaka Valsts komisija pēc personas iesnieguma saņemšanas. Iesnieguma veidlapas paraugu un veidlapā norādāmo informāciju nosaka Ministru kabinets.

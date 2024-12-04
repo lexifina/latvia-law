@@ -8,7 +8,7 @@
 4) Valsts darba inspekcijai;
 5) Nodarbinātības valsts aģentūrai;
 6) Sociālās integrācijas valsts aģentūrai;
-7) Valsts bērnu tiesību aizsardzības inspekcijai;
+7) Bērnu aizsardzības centram;
 8) Izglītības kvalitātes valsts dienestam;
 9) valsts akciju sabiedrībai "Ceļu satiksmes drošības direkcija";
 10) biedrībai "Latvijas Nedzirdīgo savienība";
@@ -34,5 +34,6 @@
 30) Būvniecības valsts kontroles birojam;
 31) izmeklēšanas iestādēm un prokuratūrām;
 32) Slimību profilakses un kontroles centram;
-33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikuu 12. punktu).
+33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikumu 12. punktu);
+34) biedrībai "Resursu centrs cilvēkiem ar garīgiem traucējumiem "ZELDA"".
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.
