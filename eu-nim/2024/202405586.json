@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 2. decembra noteikumi Nr. 354 \"Noteikumi par darbības atjaunošanas plāniem un to iesniegšanas kārtību\"",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "236",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-04",
+  "entry_into_force": "2024-12-05",
+  "notification_date": "2024-12-10",
+  "commission_reference": "MNE(2024)05586",
+  "nim_celex": "72014L0059LVA_202405586",
+  "nim_id": "202405586",
+  "transposes_celex": [
+    "32014L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/0fe7be67-24d5-4956-b411-5b9c3e55a6de",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
