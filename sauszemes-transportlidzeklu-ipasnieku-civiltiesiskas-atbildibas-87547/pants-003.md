@@ -4,7 +4,9 @@
 (3) Šā panta otrajā daļā noteiktā apdrošināšanas pienākuma nav:
 1) transportlīdzekļa īpašniekam, kurš:
 a) normatīvajos aktos noteiktajā kārtībā no uzskaites noņemtu transportlīdzekli nodevis tirdzniecības uzņēmumam (komersantam) tirdzniecībai,
-b) nodevis transportlīdzekli līzingā citai personai;
+b) nodevis transportlīdzekli līzingā citai personai,
+c) normatīvajos aktos par transportlīdzekļu reģistrāciju noteiktajā kārtībā uz laiku ir pārtraucis transportlīdzekļa reģistrāciju valsts vai pašvaldību transportlīdzekļu reģistrā;
 2) transportlīdzekļa tiesīgajam lietotājam, kurš:
 a) ir darba tiesiskajās vai dienesta attiecībās ar transportlīdzekļa īpašnieku vai - transportlīdzekļa līzinga gadījumā - ar transportlīdzekļa reģistrācijas apliecībā norādīto transportlīdzekļa turētāju,
-b) piedalās ceļu satiksmē izmēģinājuma braucienā ar tirdzniecībai paredzētu transportlīdzekli, kuru tirdzniecības uzņēmums (komersants) normatīvajos aktos par transportlīdzekļu tirdzniecību noteiktajā kārtībā aprīkojis ar tirdzniecības numura zīmēm.
+b) piedalās ceļu satiksmē izmēģinājuma braucienā ar tirdzniecībai paredzētu transportlīdzekli, kuru tirdzniecības uzņēmums (komersants) normatīvajos aktos par transportlīdzekļu tirdzniecību noteiktajā kārtībā aprīkojis ar tirdzniecības numura zīmēm,
+c) transportlīdzekļa līzinga gadījumā ir transportlīdzekļa reģistrācijas apliecībā norādītais transportlīdzekļa turētājs, kas normatīvajos aktos par transportlīdzekļu reģistrāciju noteiktajā kārtībā uz laiku ir pārtraucis transportlīdzekļa reģistrāciju valsts vai pašvaldību transportlīdzekļu reģistrā.
