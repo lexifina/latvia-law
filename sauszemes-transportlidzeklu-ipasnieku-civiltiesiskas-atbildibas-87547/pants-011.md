@@ -1,3 +1,0 @@
-11.pants. Apdrošināšanas līguma spēkā esamība apdrošinātāja reorganizācijas vai likvidācijas gadījumā
-(1) Ja apdrošināšanas sabiedrība tiek reorganizēta un tai ir tiesību pārņēmējs, apdrošināšanas līgumi saglabā savu spēku līdz termiņa beigām.
-(2) Likvidējot apdrošināšanas sabiedrību, apdrošināšanas līgumos noteiktās saistības izpilda likvidācijas komisija vai likvidators. Saistības, kuru izpildei likvidējamai apdrošināšanas sabiedrībai nepietiek līdzekļu, pārņem Transportlīdzekļu apdrošinātāju birojs, kas saistību izpildi nodrošina no Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantijas fonda (turpmāk - Garantijas fonds).

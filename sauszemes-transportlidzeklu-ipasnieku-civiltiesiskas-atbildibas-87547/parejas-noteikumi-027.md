@@ -1,0 +1,1 @@
+27. Šā likuma 1. panta pirmās daļas 8.¹ punkts, grozījumi 13. panta pirmajā daļā, 13. panta trešā un ceturtā daļa un grozījumi 50. pantā attiecībā uz pirmās daļas 1. punkta papildināšanu un trešās daļas izslēgšanu stājas spēkā 2025. gada 1. janvārī.

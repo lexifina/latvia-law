@@ -1,0 +1,1 @@
+29. Grozījumi šā likuma 14. panta otrās daļas ievaddaļā par tās izteikšanu jaunā redakcijā un trešajā daļā attiecībā uz pirmā teikuma izteikšanu jaunā redakcijā, kā arī šā likuma 14. panta 2.² daļa stājas spēkā 2025. gada 1. aprīlī.

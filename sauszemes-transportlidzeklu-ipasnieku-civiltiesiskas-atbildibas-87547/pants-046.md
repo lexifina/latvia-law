@@ -7,5 +7,5 @@
 4) ieteikt finanšu ministram iecelšanai amatā un atbrīvošanai no amata apdrošinātāju pārstāvjus konsultatīvajā padomē;
 5) lemt par jebkuriem jautājumiem, ko iesniegusi valde vai konsultatīvā padome vai ierosinājis kāds apdrošinātājs;
 6) noteikt Transportlīdzekļu apdrošinātāju biroja darbības nodrošināšanai nepieciešamo finanšu līdzekļu apmēru un samaksas kārtību;
-7) ieteikt Finanšu un kapitāla tirgus komisijai apturēt vai atņemt attiecīgās tiesības veikt sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
+7) ieteikt Latvijas Bankai apturēt vai atņemt attiecīgās tiesības veikt sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
 8) lemt par citiem jautājumiem, kas nodrošina šā likuma īstenošanu.

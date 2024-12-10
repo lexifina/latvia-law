@@ -33,7 +33,7 @@ c) ir bijušas izsniegtas tranzīta numura zīmes un apdrošināšanas līguma d
 6) normatīvajos aktos noteiktajā kārtībā uzsākta apdrošinātāja likvidācija;
 7) transportlīdzeklim ir noņemtas taksometra numura zīmes atbilstoši Ministru kabineta noteikumiem par transportlīdzekļu reģistrāciju, kas izdoti, pamatojoties uz Ceļu satiksmes likumu;
 8) ir beidzies transportlīdzeklim izsniegtās licences kartītes pasažieru komercpārvadājumiem ar vieglo automobili derīguma termiņš;
-9) ir pārtraukta uz laiku transportlīdzekļa reģistrācija valsts vai pašvaldību transportlīdzekļu reģistrā, jo transportlīdzeklis netiks izmantots ceļu satiksmē.
+9) normatīvajos aktos par transportlīdzekļu reģistrāciju noteiktajā kārtībā uz laiku ir pārtraukta transportlīdzekļa reģistrācija valsts vai pašvaldību transportlīdzekļu reģistrā.
 (4) Izbeidzot apdrošināšanas līgumu pirms termiņa šā panta pirmās daļas 1. punkta "b" apakšpunktā un 11. punkta "b" apakšpunktā minētajā gadījumā, transportlīdzekļa īpašniekam vai - transportlīdzekļa līzinga gadījumā - transportlīdzekļa reģistrācijas apliecībā norādītajam transportlīdzekļa turētājam (ja tas noslēdzis attiecīgu apdrošināšanas līgumu) ir pienākums paziņot par šā panta pirmās daļas 1. punkta "b" apakšpunktā un 11. punkta "b" apakšpunktā minēto apstākļu iestāšanos nekavējoties, bet ne vēlāk kā piecu dienu laikā pēc to iestāšanās:
 1) valsts vai pašvaldību transportlīdzekļu reģistram, pievienojot dokumentus, kas apstiprina šādu apstākļu iestāšanos;
 2) apdrošinātājam, pievienojot dokumentus, kas apstiprina šādu apstākļu iestāšanos.
