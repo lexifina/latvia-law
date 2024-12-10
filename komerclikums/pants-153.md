@@ -5,3 +5,4 @@
 (4) Persona, kura izdara mantisko ieguldījumu, paziņo par trešo personu tiesībām uz mantiskā ieguldījuma priekšmetu. Ja persona neizpilda šo prasību, tai savas daļas jāapmaksā naudā.
 (5) Ja mantiskā ieguldījuma priekšmeta vērtība līdz pieteikuma iesniegšanai komercreģistra iestādei ir samazinājusies, persona, kura to ieguldījusi, šo samazinājumu sedz naudā.
 (6) (Izslēgta ar 22.04.2004. likumu)
+(7) (Daļa stājas spēkā 30.12.2024. un iekļauta likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 86. punktu)
