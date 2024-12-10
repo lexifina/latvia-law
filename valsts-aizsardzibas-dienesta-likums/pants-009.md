@@ -1,5 +1,5 @@
 9. pants. Pamats valsts aizsardzības dienesta atlikšanai
-(1) Valsts aizsardzības dienestu atliek:
+(1) Valsts aizsardzības dienestu atliek ne vēlāk kā līdz 26 gadu vecumam:
 1) Latvijas Republikas Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersonai ar speciālo dienesta pakāpi, ja tā dien minētajās iestādēs un nav nepārtraukti nodienējusi divus gadus, kā arī valsts drošības iestāžu amatpersonai, kura dien minētajās iestādēs;
 2) pilsonim, kuram valsts aizsardzības dienestu nepieciešams atlikt veselības stāvokļa dēļ;
 3) pilsonim, kurš kriminālprocesā ir atzīts par aizdomās turēto vai apsūdzēto;
