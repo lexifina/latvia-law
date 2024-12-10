@@ -47,7 +47,7 @@
 6) pagaidu aizsardzība;
 7) nenoteikts.
 (3) Par šā likuma 4. panta pirmās daļas 2. punkta "d", "e" vai "g" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 12.¹, 13. un 16. punktā minētās ziņas.
-(4) Par šā likuma 4. panta pirmās daļas 2. punkta "f" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6. un 7. punktā minētās ziņas, kā arī citas pirmajā daļā minētās ziņas, kas nepieciešamas valsts pārvaldes pakalpojuma saņemšanai.
+(4) Par šā likuma 4. panta pirmās daļas 2. punkta "f" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 6.¹ un 7. punktā minētās ziņas, kā arī citas pirmajā daļā minētās ziņas, kas nepieciešamas valsts pārvaldes pakalpojuma saņemšanai.
 (4¹) Par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minēto personu, kuras dzimšanas faktu reģistrē, Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 4., 7., 9., 11. un 12.¹ punktā minētās ziņas un ziņas par dzimtas uzvārda vēsturisko formu un citas valodas uzvārda oriģinālformu latīņalfabētiskajā transliterācijā, ja šo formu var apliecināt dokumentāri.
 (4²) Par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minētās personas vecāku, ja reģistrē dzimšanas faktu, personu, kuras laulību reģistrē, vai personu, kura atkārtoti pieprasa savas dzimšanas fakta vai laulības reģistrāciju apliecinošu dokumentu, Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 11., 12.¹, 13. un 16. punktā minētās ziņas.
 (4³) Par šā likuma 4. panta pirmās daļas 2. punkta "i" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 7., 9., 10., 12.¹, 13. un 16. punktā minētās ziņas.

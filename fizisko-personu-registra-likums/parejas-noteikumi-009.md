@@ -1,0 +1,1 @@
+9. Grozījums šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā par ziņu par ārzemnieku iekļaušanu Fizisko personu reģistrā, ja attiecībā uz viņu pie Latvijas Republikas zvērināta notāra ir sastādīts notariāls akts, stājas spēkā 2025. gada 1. septembrī."

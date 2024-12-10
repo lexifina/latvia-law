@@ -1,7 +1,7 @@
 8. pants. (1) Pārvalde iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmajā daļā minētajām personām.
 (2) Pašvaldība:
 1) Reģistrā iekļauj, aktualizē un atjauno ziņas par civilstāvokļa aktiem;
-2) iekļauj Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minēto personu;
+2) iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minēto personu;
 3) aktualizē Reģistrā iekļautās ziņas par personas deklarēto vai reģistrēto dzīvesvietu.
 (3) Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstīs iekļauj un aktualizē Reģistrā ziņas atbilstoši savai kompetencei un iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "e" apakšpunktā minēto personu.
 (4) Tieslietu ministrija iekļauj Reģistrā ziņas par adoptētu personu un aktualizē ziņas par personas vārda, uzvārda vai tautības ieraksta maiņu.
