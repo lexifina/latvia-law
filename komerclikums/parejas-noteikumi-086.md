@@ -1,0 +1,1 @@
+86. Šā likuma 153. panta septītā daļa, 154. panta 2.² daļa, kā arī grozījumi 154. panta ceturtajā daļā un 202. panta otrās daļas 7. punktā par kārtību, kādā sabiedrības pamatkapitālu apmaksā ar kriptoaktīviem, stājas spēkā 2024. gada 30. decembrī.

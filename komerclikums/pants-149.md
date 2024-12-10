@@ -4,7 +4,7 @@
 (3) Pieteikumam pievieno:
 1) dibināšanas dokumentus;
 2) maksājumu pakalpojuma sniedzēja izziņu vai citu dokumentu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā);
-3) dokumentus, kas apliecina katra mantiskā ieguldījuma vērtību (ja tiek izdarīts mantiskais ieguldījums);
+3) dokumentus, kas apliecina katra mantiskā ieguldījuma priekšmeta novērtējumu un tā nodošanu sabiedrībai (ja tiek izdarīts mantiskais ieguldījums);
 4) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);
 5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Ja līdz sabiedrības ierakstīšanai komercreģistrā mainās tās firma, rakstveida piekrišana atkārtoti nav jāiesniedz;
 6) (izslēgts ar 15.04.2010. likumu);
