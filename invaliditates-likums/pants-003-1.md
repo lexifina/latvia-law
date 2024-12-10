@@ -34,6 +34,6 @@
 30) Būvniecības valsts kontroles birojam;
 31) izmeklēšanas iestādēm un prokuratūrām;
 32) Slimību profilakses un kontroles centram;
-33) (apakšpunkts stājas spēkā 10.12.2024. un iekļauta likuma redakcijā uz 10.12.2024. Sk. pārejas noteikumu 12. punktu);
+33) apdrošināšanas sabiedrībām, kuras veic sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
 34) biedrībai "Resursu centrs cilvēkiem ar garīgiem traucējumiem "ZELDA"".
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.
