@@ -1,0 +1,1 @@
+38. Šā likuma 17. panta sestajā daļā minēto apliecinājumu par veikto profesionālo pilnveidi farmaceiti vai farmaceita asistenti, kuriem šā panta trešajā daļā minētā atļauja ir izsniegta pirms 2024. gada 1. jūlija, iesniedz līdz 2025. gada 31. jūlijam.

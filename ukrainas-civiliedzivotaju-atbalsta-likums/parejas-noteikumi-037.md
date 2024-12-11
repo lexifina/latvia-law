@@ -1,0 +1,1 @@
+37. Šā likuma 14. panta sestajā daļā minēto apliecinājumu par veikto profesionālo pilnveidi ārstniecības personas, kurām šā panta pirmajā daļā minētā atļauja ir izsniegta pirms 2024. gada 1. jūlija, iesniedz līdz 2025. gada 31. jūlijam.

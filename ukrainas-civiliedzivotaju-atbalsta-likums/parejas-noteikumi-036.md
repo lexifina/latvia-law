@@ -1,0 +1,1 @@
+36. Šā likuma 17. panta 1.¹ daļā minēto apliecinājumu farmaceiti un farmaceita asistenti, kuriem šā panta trešajā daļā minētā atļauja ir izsniegta pirms 2022. gada 1. jūlija, iesniedz līdz 2025. gada 31. jūlijam.

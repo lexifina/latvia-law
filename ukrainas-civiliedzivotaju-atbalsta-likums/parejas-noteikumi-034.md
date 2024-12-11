@@ -1,0 +1,3 @@
+34. Grozījumi šā likuma 7. panta pirmās daļas 3. un 4. punktā stājas spēkā 2025. gada 1. janvārī. Ukrainas civiliedzīvotāja līdz 2024. gada 31. decembrim iesniegtos dokumentus pakalpojuma sniedzējs izskata atbilstoši normatīvajam regulējumam, kas bija spēkā līdz 2024. gada 31. decembrim, šādu pakalpojumu piešķiršanai:
+1) līdz 30 dienām ilgs sociālās rehabilitācijas pakalpojums, ja personai atbilstoši pašvaldības sociālā dienesta vai sociālo pakalpojumu sniedzēju reģistrā, ārstniecības iestāžu reģistrā vai izglītības iestāžu reģistrā reģistrēta pakalpojumu sniedzēja novērtējumam psihoemocionālā stāvokļa dēļ ir nepieciešams diennakts pakalpojums;
+2) valsts finansēta tehniskā palīglīdzekļa piešķiršanai steidzamības kārtā.
