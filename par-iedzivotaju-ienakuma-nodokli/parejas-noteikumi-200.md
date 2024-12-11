@@ -1,0 +1,1 @@
+200. Šā likuma 15.¹ pantā noteiktā nodokļa papildu likme netiek piemērota un ar papildu likmi apliekamajā bāzē netiek ietverts ienākums, kuram tiek piemērots šā likuma pārejas noteikumu 163., 164., 165., 166., 167., 168., 170. un 171. punktā noteiktais īpašais režīms autoratlīdzības saņēmējiem.

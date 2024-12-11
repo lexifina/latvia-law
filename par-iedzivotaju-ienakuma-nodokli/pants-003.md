@@ -3,15 +3,15 @@
 1.¹ Personai, kas atbilstoši Mikrouzņēmumu nodokļa likumam ir mikrouzņēmumu nodokļa maksātājs, ar nodokli apliekamo objektu nosaka Mikrouzņēmumu nodokļa likums.
 2. Iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja - mēneša) apliekamais ienākums, ja šā panta 2.⁴ daļā nav noteikts citādi, ir viņa gada (mēneša) ienākums, izņemot šā likuma 9.pantā minētos neapliekamos ienākumus, no kura tiek atskaitīti:
 1) šā likuma 10.pantā noteiktie attaisnotie izdevumi;
-2) maksātāja gada diferencētais neapliekamais minimums (Valsts ieņēmumu dienesta prognozētais mēneša neapliekamais minimums vai maksātāja prognozētais mēneša neapliekamais minimums);
+2) maksātāja gada (mēneša) neapliekamais minimums;
 3) šā likuma 13.pantā noteiktie atvieglojumi.
 2.¹ (Izslēgta ar 01.12.2009. likumu)
 2.² (Izslēgta ar 01.12.2009. likumu)
 2.³ (Izslēgta ar 01.12.2009. likumu)
-2.⁴ Ja iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja - mēneša) ienākums, izņemot šā likuma 9. pantā minētos neapliekamos ienākumus, pārsniedz 20 004 euro gadā (1667 euro mēnesī), gada (mēneša) apliekamo ienākumu nosaka šādi:
-1) no maksātāja gada (algas nodokļa maksātāja - mēneša) ienākuma līdz 20 004 euro gadā (1667 euro mēnesī) atskaita šā panta otrās daļas 1., 2. un 3. punktā noteiktos atskaitījumus;
-2) no maksātāja gada (algas nodokļa maksātāja - mēneša) ienākuma, kas pārsniedz 20 004 euro gadā (1667 euro mēnesī), šā panta otrās daļas 1., 2. un 3. punktā noteiktos atskaitījumus atskaita tikai tad, ja ar maksātāja gada (algas nodokļa maksātāja - mēneša) ienākumiem līdz 20 004 euro gadā (1667 euro mēnesī) nepietiek, lai segtu minētos atskaitījumus.
-2.⁵ Šā panta otrās daļas 1., 2. un 3. punktā minētos atskaitījumus neveic no tiem apliekamo ienākumu veidiem, kuriem piemēro šā likuma 15. panta piektajā, sestajā, septītajā, astotajā, devītajā, desmitajā, vienpadsmitajā, divpadsmitajā un trīspadsmitajā daļā noteiktās nodokļa likmes.
+2.⁴ Ja iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja - mēneša) ienākums, izņemot šā likuma 9. pantā minētos neapliekamos ienākumus, pārsniedz likumā "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru (vienu divpadsmito daļu no obligāto iemaksu objekta maksimālā apmēra), gada (mēneša) apliekamo ienākumu nosaka šādi:
+1) šā panta otrās daļas 1., 2. un 3. punktā noteiktos atskaitījumus atskaita no maksātāja gada (algas nodokļa maksātāja - mēneša) ienākuma līdz likumā "Par valsts sociālo apdrošināšanu" noteiktajam obligāto iemaksu objekta maksimālajam apmēram (vienai divpadsmitajai daļai no obligāto iemaksu objekta maksimālā apmēra);
+2) no maksātāja gada (algas nodokļa maksātāja - mēneša) ienākuma, kas pārsniedz likumā "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru, šā panta otrās daļas 1., 2. un 3. punktā noteiktos atskaitījumus atskaita tikai tad, ja ar maksātāja gada (algas nodokļa maksātāja - mēneša) ienākumiem līdz likumā "Par valsts sociālo apdrošināšanu" noteiktajam obligāto iemaksu objekta maksimālajam apmēram nepietiek, lai segtu minētos atskaitījumus.
+2.⁵ Šā panta otrās daļas 1., 2. un 3. punktā minētos atskaitījumus neveic no tiem apliekamo ienākumu veidiem, kuriem piemēro šā likuma 15. panta piektajā, sestajā, septītajā, 7.², astotajā, desmitajā, vienpadsmitajā, divpadsmitajā un trīspadsmitajā daļā noteiktās nodokļa likmes.
 2.⁶ Jaunuzņēmuma darba ņēmējam par jaunuzņēmuma gūto ar algas nodokli apliekamo ienākumu piemērojami Jaunuzņēmumu darbības atbalsta likumā noteiktie nosacījumi.
 3. Ārvalsts nodokļa maksātāja (nerezidenta) ar nodokli apliekamais ienākums ir:
 1) ienākums no algota darba, ieskaitot darbu, kas veikts Latvijas Republikā tāda darba devēja labā, kurš nav Latvijas Republikas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijas Republikā, vai darbu, kas veikts ārpus Latvijas Republikas Latvijas Republikas darba devēja labā;

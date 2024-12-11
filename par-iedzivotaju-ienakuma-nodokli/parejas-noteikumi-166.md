@@ -2,4 +2,4 @@
 1) periodā no 2021. gada 1. jūlija līdz 2021. gada 31. decembrim vai 2022. un 2023. taksācijas gadā ir:
 a) saņemts no vairākiem ienākuma izmaksātājiem un tas kopā pārsniedz 25 000 euro,
 b) gūts ārvalstīs vai no tā nav bijis jāietur un nav ieturēts nodoklis;
-2) 2024. taksācijas gadā ir gūts ārvalstīs vai no tā nav bijis jāietur un nav ieturēts nodoklis.
+2) 2024., 2025., 2026. un 2027. taksācijas gadā ir gūts ārvalstīs vai no tā nav bijis jāietur un nav ieturēts nodoklis.

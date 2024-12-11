@@ -1,7 +1,7 @@
 20.¹ pants. Nodokļa pārmaksas automātiskā atmaksa
 1. Nodokļa pārmaksas automātiskā atmaksa ir nodokļa pārmaksas atmaksa, kuru Valsts ieņēmumu dienests bezskaidrā naudā veic maksātājam, kurš nav iesniedzis deklarāciju līdz nodokļa pārmaksas automātiskās atmaksas dienai un uz kuru attiecas šā likuma 20. pantā noteiktie ienākumu deklarēšanas atvieglojumi.
 2. Nodokļa pārmaksas automātiskā atmaksa notiek, ja atbilstoši Valsts ieņēmumu dienesta informācijas sistēmās esošajai informācijai pārmaksu veido šādi faktori:
-1) gada diferencētais neapliekamais minimums;
+1) gada neapliekamais minimums;
 2) pensionāra neapliekamais minimums;
 3) papildu atvieglojums (personām ar invaliditāti, politiski represētajiem un nacionālās pretošanās kustības dalībniekiem);
 4) progresīvā nodokļa likme;

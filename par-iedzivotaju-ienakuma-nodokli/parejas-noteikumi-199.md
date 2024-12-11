@@ -1,0 +1,1 @@
+199. Ja 2025. taksācijas gadā algota darba ienākums, pensija vai pabalsts tiek izmaksāts par pirmstaksācijas gadu, šiem ienākumu veidiem piemēro attiecīgajā pirmstaksācijas gadā spēkā esošo nodokļa likmi.
