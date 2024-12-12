@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2024.gada rudens sesija",
+ "sede": 29,
+ "datums": "2024-12-12",
+ "ieraksts": {
+  "dkp_id": "b4d91138-29eb-49c9-85b6-8f5020f38cc9",
+  "lastmodtime": "\"AAAAAAJRmxo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Andrejs#Inese#Māris#Amils#Edmunds#Didzis#Ģirts#Ričards#Ingmārs#Viktors#Edmunds#Agnese#Raivis#Jana#Ligita#Ervins#Jānis#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Jānis#Viktorija#Edgars#Linda#Andrejs#Anita#Edgars#Igors#Leila#Gundars#Jānis#Linda#Atis#Jānis#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Vilks#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Štekerhofs#Šlesers#Līdaka#Pučka#Zivtiņš#Krasta#Dzintars#Simanovska#Gintere#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Čudars#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Brakovska#Putra#Judins#Rasima#Daudze#Patmalnieks#Liepiņa#Švinka#Skrastiņš#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": "ST!#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS#NA#PRO#ZZS#JV#AS#ST!#NA#ZZS#ZZS#LPV#AS#ST!#LPV#JV#NA#PRO#ZZS#PRO#NA#JV#ST!#JV#NA#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ST!#ST!# #JV# #JV#ST!#ZZS#NA#NA#JV#JV#LPV#AS#JV#NA# #AS#AS#JV#ZZS#AS#ST!#PRO#ZZS#JV#LPV#PRO#JV#PRO#JV",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Nebalsoja#Pret#Par#Pret#Pret#Par#Atturas#Par#Par#Par#Atturas#Pret#Par#Par#Par#Pret#Nebalsoja#Pret#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Atturas#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Atturas#Par#Par#Pret#Pret#Nebalsoja#Par#Par#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.12.2024 09:09:11",
+  "VOTEMOTIVE": "Grozījums likumā “Par nekustamo īpašumu atsavināšanu dzelzceļa līnijas \"Rail Baltica\" izbūvei” (799/Lp14), nodošana komisijām",
+  "VOTING_ID": "a802f2f8-b728-4801-89a2-c6115dd62063",
+  "VOTERESULT_ABSTAIN": "4",
+  "VOTERESULT_AGAINST": "19",
+  "VOTERESULT_FOR": "47",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2024.gada rudens sesija-29-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c00b201d-2e75-4588-ab03-7d60710af107/download/14.saeimas-2024.gada-rudens-sesija-29-vote.xml",
+  "sha256": "9862d4470c5f282d8476de7692f968951cddc746f203c00b56c88502a9644535",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
