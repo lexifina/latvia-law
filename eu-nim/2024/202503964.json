@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 9. decembra noteikumi Nr. 364 \"Noteikumi par noregulējuma plānu izstrādei un aktualizēšanai pieprasāmo informāciju un par prasībām noregulējamības novērtējumam un uzlabošanai\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "241",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-11",
+  "entry_into_force": "2024-12-12",
+  "notification_date": "2025-07-08",
+  "commission_reference": "MNE(2025)03964",
+  "nim_celex": "72022L2556LVA_202503964",
+  "nim_id": "202503964",
+  "transposes_celex": [
+    "32022L2556"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/cffb3689-38c4-4c34-ab41-8db3904b62fe",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
