@@ -1,0 +1,1 @@
+1. pants. Starptautiskās Rekonstrukcijas un attīstības bankas Vienošanās līguma (turpmāk - Līgums) grozījums - aizdošanas ierobežojuma atcelšana -, kas apstiprināts ar Starptautiskās Rekonstrukcijas un attīstības bankas pilnvarnieku valdes 2023. gada 10. jūlija rezolūciju Nr. 696 (turpmāk - Grozījums), ar šo likumu tiek pieņemts un apstiprināts.
