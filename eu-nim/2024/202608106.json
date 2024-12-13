@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 10. decembra noteikumi Nr. 808 \"Energokopienu reģistrēšanas un darbības noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "242",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-12",
+  "entry_into_force": "2024-12-13",
+  "notification_date": "2026-10-28",
+  "commission_reference": "MNE(2026)08106",
+  "nim_celex": "72024L1711LVA_202608106",
+  "nim_id": "202608106",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ae9c4b7e-fbde-4686-96cc-3a6a0a0f4059",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
