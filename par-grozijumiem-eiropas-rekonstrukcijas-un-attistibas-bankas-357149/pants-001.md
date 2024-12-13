@@ -1,0 +1,1 @@
+1. pants. Grozījumi Eiropas Rekonstrukcijas un attīstības bankas dibināšanas līgumā (turpmāk - Dibināšanas līguma grozījumi), kas apstiprināti ar Eiropas Rekonstrukcijas un attīstības bankas pilnvarnieku valdes 2023. gada 18. maija rezolūcijām Nr. 259 un Nr. 260, ar šo likumu tiek pieņemti un apstiprināti.

@@ -1,0 +1,1 @@
+3. pants. Dibināšanas līguma grozījumi stājas spēkā Eiropas Rekonstrukcijas un attīstības bankas pilnvarnieku valdes 2023. gada 18. maija rezolūcijās Nr. 259 un Nr. 260 3. punktā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".
