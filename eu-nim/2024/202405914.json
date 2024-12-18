@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Noziedzīgu nodarījumu novēršanas, atklāšanas un izmeklēšanas ziņu apmaiņas likums",
+  "type_of_act": "Likums",
+  "official_journal": null,
+  "official_journal_reference": "2024/236.1",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-04",
+  "entry_into_force": "2024-12-18",
+  "notification_date": "2024-12-20",
+  "commission_reference": "MNE(2024)05914",
+  "nim_celex": "72023L0977LVA_202405914",
+  "nim_id": "202405914",
+  "transposes_celex": [
+    "32023L0977"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2302dbdd-54a6-4382-abf6-7a0adf238329",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
