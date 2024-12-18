@@ -9,7 +9,7 @@ Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilsto�
 7) savu pilnvaru ietvaros atklāt noziedzīgu nodarījumu un administratīvo pārkāpumu cēloņus un tos veicinošos apstākļus un veikt pasākumus to novēršanai; piedalīties personu tiesiskajā audzināšanā;
 8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus, kā arī konvojēt un apsargāt ar brīvības atņemšanu notiesātās personas izmeklēšanas darbību veikšanai, sakarā ar lietas izskatīšanu tiesā un starp ieslodzījuma vietām;
 9) īstenot Ministru kabineta noteikto objektu un kritiskās infrastruktūras fiziskās drošības pasākumus;
-10) veikt pasākumus bezsaimnieka vai atrastās apslēptās mantas saglabāšanai līdz tās nodošanai kompetentas valsts iestādes vai amatpersonas pārziņā; nodrošināt atrasto un policijai nodoto dokumentu, mantu, vērtspapīru un cita īpašuma saglabāšanu līdz tā nodošanai īpašniekam;
+10) nodrošināt policijai nodotās apslēptās un atrastās mantas, kā arī atrasto dokumentu (turpmāk - atrastā manta) saglabāšanu līdz turpmākai rīcībai ar tiem;
 11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes un satiksmes līdzekļu uzraudzību;
 12) kontrolēt noteikumu ievērošanu ieroču aprites, apsardzes darbības un detektīvdarbības jomā;
 13) (izslēgts ar 14.04.2005. likumu);
