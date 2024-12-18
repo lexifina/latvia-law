@@ -9,7 +9,7 @@
 6) persona, kurai ir termiņuzturēšanās atļauja sakarā ar pagaidu aizsardzības statusa piešķiršanu Latvijā;
 7) persona, kurai ir termiņuzturēšanās atļauja sakarā ar zinātniskās darbības veikšanu Latvijā;
 8) persona, kurai ir termiņuzturēšanās atļauja sakarā ar cilvēku tirdzniecības upura statusa piešķiršanu Latvijā;
-9) persona, kura ir Eiropas Savienības zilās kartes turētāja, kartes derīguma termiņa laikā uzturoties Latvijā (turpmāk - persona, kura ir ES zilās kartes turētāja);
+9) persona, kura ir Eiropas Savienības zilās kartes turētāja, kartes derīguma termiņa laikā uzturoties Latvijā (turpmāk - persona, kura ir ES zilās kartes turētāja) vai šīs personas ģimenes loceklis, kurš Latvijā ir saņēmis termiņuzturēšanās atļauju;
 10) cita persona, kura ir tiesīga strādāt pie jebkura darba devēja Latvijas Republikā un kura saskaņā ar normatīvajiem aktiem par darba atļaujām ārzemniekiem ir saņēmusi termiņuzturēšanās atļauju.
 (3) Šajā likumā noteikto atbalstu bezdarbniekiem un darba meklētājiem, ietverot iesaisti aktīvajos nodarbinātības un bezdarba samazināšanas preventīvajos pasākumos, persona, kura ir ES zilās kartes turētāja, ir tiesīga saņemt, ja šo pasākumu ilgums nepārsniedz plānoto bezdarba reģistrācijas periodu.
 (4) Šā panta otrās daļas 10.punktā minētās personas ir tiesīgas iegūt bezdarbnieka vai darba meklētāja statusu un iesaistīties šā likuma 3.panta pirmās daļas 3.punktā minētajos pasākumos, tai skaitā valsts valodas apguvē, izņemot iesaisti citās neformālās izglītības programmās, kā arī izmantot šā likuma 13.panta 1., 2., 4. un 5.punktā bezdarbniekam noteiktās tiesības un šā likuma 16.panta pirmās daļas 2. un 3.punktā darba meklētājam noteiktās tiesības.

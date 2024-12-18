@@ -14,9 +14,9 @@
 12) bezdarbnieka nāve;
 13) atteikšanās no bezdarbnieka statusa, iesniedzot attiecīgu paziņojumu Nodarbinātības valsts aģentūrai;
 14) personas neatbilstība šā likuma 2.panta otrajā daļā minētajiem kritērijiem.
-(1¹) Persona, kura ir ES zilās kartes turētāja, bezdarbnieka statusu zaudē arī gadījumā, ja:
-1) ir pagājuši trīs nepārtraukti mēneši, kopš tā zaudējusi darba ņēmēja statusu;
-2) darba ņēmēja statusu tā zaudē vairāk nekā vienu reizi.
+(1¹) Persona, kura ir ES zilās kartes turētāja, bezdarbnieka statusu zaudē arī gadījumā, ja kopumā ir pagājuši vairāk nekā:
+1) trīs mēneši, kopš tā zaudējusi darba ņēmēja statusu, ja persona mazāk nekā divus gadus ir bijusi Eiropas Savienības zilās kartes turētāja;
+2) seši mēneši, kopš tā zaudējusi darba ņēmēja statusu, ja persona vismaz divus gadus ir bijusi Eiropas Savienības zilās kartes turētāja.
 (1²) Šā panta pirmās daļas 1.punktā noteiktais izņēmums par darba ņēmēja statusa iegūšanu uz laiku līdz diviem mēnešiem neattiecas uz gadījumiem, kad konstatēts, ka persona kā darba ņēmējs neatkarīgi no darba tiesisko attiecību ilguma tiek nodarbināta bez reģistrēšanas atbilstoši normatīvajiem aktiem nodokļu jomā.
 (2) (Izslēgta ar 13.06.2013. likumu)
 (3) Lēmumu par bezdarbnieka statusa zaudēšanu pieņem Nodarbinātības valsts aģentūra vienas darba dienas laikā pēc šā panta pirmajā daļā minēto bezdarbnieka statusa zaudēšanas nosacījumu konstatēšanas. Šādā gadījumā persona zaudē bezdarbnieka statusu ar dienu, kad iestājies attiecīgais bezdarbnieka statusa zaudēšanas nosacījums. Lēmuma par bezdarbnieka statusa zaudēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

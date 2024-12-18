@@ -2,7 +2,7 @@
 (1) Valsts politiku bezdarba samazināšanas un bezdarbnieku, darba meklētāju un bezdarba riskam pakļauto personu atbalsta jomā īsteno Nodarbinātības valsts aģentūra. Nodarbinātības valsts aģentūra ir labklājības ministra pārraudzībā esoša valsts pārvaldes iestāde.
 (2) Nodarbinātības valsts aģentūra:
 1) atbilstoši kompetencei sagatavo priekšlikumus valsts politikas izstrādei un īstenošanai nodarbinātības jomā;
-2) veic darba tirgus īstermiņa prognozēšanu, tai skaitā darba devēju aptauju;
+2) atbilstoši kompetencei sagatavo darba tirgus prognozēšanai nepieciešamo informāciju;
 3) reģistrē un uzskaita bezdarbniekus un darba meklētājus, kā arī veic bezdarbnieku profilēšanu;
 4) palīdz bezdarbniekiem un darba meklētājiem, kā arī ekonomiski neaktīvajiem iedzīvotājiem iesaistīties darba tirgū;
 5) organizē Nodarbinātības valsts aģentūras un darba devēju sadarbību un savstarpēju informācijas apmaiņu, kā arī uzskaita darba devēju pieteiktās brīvās darba vietas;
