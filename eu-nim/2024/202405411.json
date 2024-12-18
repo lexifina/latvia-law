@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Bezdarbnieku un darba meklētāju atbalsta likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "236",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-04",
+  "entry_into_force": "2024-12-18",
+  "notification_date": "2024-12-05",
+  "commission_reference": "MNE(2024)05411",
+  "nim_celex": "72021L1883LVA_202405411",
+  "nim_id": "202405411",
+  "transposes_celex": [
+    "32021L1883"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4df2fc6b-655a-4cba-a21b-748dce4437a6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
