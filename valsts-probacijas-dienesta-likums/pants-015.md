@@ -1,5 +1,5 @@
 15.pants. Izvērtēšanas ziņojums
-(1) Valsts probācijas dienests pēc tiesas vai prokurora pieprasījuma sniedz izvērtēšanas ziņojumu par apsūdzēto kriminālprocesā.
+(1) Valsts probācijas dienests pēc tiesas vai prokurora pieprasījuma sniedz izvērtēšanas ziņojumu par apsūdzēto kriminālprocesā. Valsts probācijas dienests pēc izmeklētāja pieprasījuma sniedz izvērtēšanas ziņojumu par nepilngadīgo.
 (2) Valsts probācijas dienests pēc brīvības atņemšanas iestādes administrācijas pieprasījuma sniedz izvērtēšanas ziņojumu par notiesāto, kurš iesniedzis iesniegumu ar lūgumu par viņa nosacītu pirmstermiņa atbrīvošanu no soda izciešanas.
 (3) Izvērtēšanas ziņojuma mērķis ir:
 1) sniegt vispusīgu, objektīvu informāciju, uz kuras pamata tiks izlemts jautājums par probācijas klientam nosakāmo sodu vai audzinoša rakstura piespiedu līdzekli, kā arī par iespējamiem Valsts probācijas dienesta noteiktiem pienākumiem uzraudzības vai probācijas novērošanas ietvaros, ņemot vērā probācijas klienta domāšanas veidu, uzvedību, attieksmi un noziedzīga nodarījuma izdarīšanu veicinošos sociālos apstākļus;

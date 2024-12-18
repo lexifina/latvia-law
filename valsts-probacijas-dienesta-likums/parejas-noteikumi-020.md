@@ -1,0 +1,1 @@
+20. Šā likuma 22. panta otrās daļas 1. punktā paredzēto nosacījumu par Latvijas pilsonību nepiemēro līdz 2026. gada 1. janvārim attiecībā uz tiem Valsts probācijas dienesta darbiniekiem, ar kuriem darba līgums noslēgts pirms šā nosacījuma spēkā stāšanās.
