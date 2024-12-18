@@ -1,0 +1,1 @@
+10. Šā likuma grozījumi par VI nodaļas izslēgšanu stājas spēkā vienlaikus ar grozījumiem Administratīvās atbildības likumā, kuri paredz regulējumu attiecībā uz administratīvā pārkāpuma procesu elektroniskā vidē.
