@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2023. gada 10. maija direktīvas (ES) 2023/977 par informācijas apmaiņu starp dalībvalstu tiesībaizsardzības iestādēm un ar ko atceļ Padomes pamatlēmumu 2006/960/TI.

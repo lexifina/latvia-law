@@ -1,0 +1,1 @@
+2. Šā likuma 18. pantā ietvertais nosacījums par to, ka kompetentās tiesībaizsardzības iestādes vai amatpersonas pieprasa un sniedz ziņas šajā likumā noteiktajā kārtībā, izmantojot Eiropola drošas informācijas apmaiņas tīkla lietojumprogrammu SIENA, piemērojams ne vēlāk kā ar 2027. gada 12. jūniju.

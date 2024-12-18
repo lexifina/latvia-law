@@ -1,0 +1,2 @@
+16. pants. Informācijas sniegšana Eiropolam
+Latvijas vienotais kontaktpunkts, kompetentā tiesībaizsardzības iestāde vai amatpersona, nosūtot pieprasījumu, atbildot uz pieprasījumiem un sniedzot ziņas pēc savas iniciatīvas, individuāli izvērtē katru gadījumu un lemj par nepieciešamību attiecīgo ziņu kopiju nosūtīt Eiropolam, ja attiecīgās ziņas skar noziedzīgus nodarījumus, kuri ietilpst regulas 2016/794 3. pantā minēto Eiropola mērķu darbības jomā.
