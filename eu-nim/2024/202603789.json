@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 21. novembra likums \"Grozījumi likumā \"Par policiju\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "236",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-04",
+  "entry_into_force": "2024-12-18",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03789",
+  "nim_celex": "72016L0800LVA_202603789",
+  "nim_id": "202603789",
+  "transposes_celex": [
+    "32016L0800"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/968515e0-ec74-4116-beb6-d82baed022d3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
