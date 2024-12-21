@@ -116,8 +116,14 @@ b) par Regulas Nr. 2015/2365 15. panta pārkāpumiem - soda naudu līdz 15 000 0
 1) pieprasīt, lai par pārkāpumu atbildīgā persona nekavējoties izbeidz attiecīgo darbību un turpmāk atturas no šādas darbības atkārtošanas;
 2) par pārkāpumu atbildīgajai personai uz laiku apturēt licenci;
 3) noteikt pagaidu aizliegumu par pārkāpumu atbildīgās personas valdes loceklim vai citai fiziskajai personai, kura ir atbildīga par pārkāpumu, veikt tai noteiktos pienākumus.
-(21²) (Daļa stājas spēkā 21.12.2024. un iekļauta likuma redakcijā uz 21.12.2024. Sk. pārejas noteikumu 80. punktu)
-(21³) (Daļa stājas spēkā 21.12.2024. un iekļauta likuma redakcijā uz 21.12.2024. Sk. pārejas noteikumu 80. punktu)
+(21²) Latvijas Banka ir tiesīga atbilstoši Regulas Nr. 2023/2631 49. pantam par regulas 49. panta 1. punktā minētajiem pārkāpumiem piemērot šādas sankcijas:
+1) izteikt publisku paziņojumu, norādot par pārkāpumu atbildīgo fizisko vai juridisko personu un pārkāpuma būtību;
+2) uzlikt par pārkāpumu atbildīgajai fiziskajai personai soda naudu līdz 50 000 euro;
+3) uzlikt par pārkāpumu atbildīgajai juridiskajai personai soda naudu līdz 500 000 euro vai līdz 0,5 procentiem no kopējā gada apgrozījuma saskaņā ar pēdējo pieejamo minētās juridiskās personas revidēto gada pārskatu. Ja juridiskā persona ir mātes sabiedrība vai mātes sabiedrības meitas sabiedrība, kas sagatavo konsolidētos gada pārskatus saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu vai konsolidētos finanšu pārskatus saskaņā ar izcelsmes dalībvalsts attiecīgo normatīvo aktu prasībām, attiecīgo kopējo apgrozījumu veido kopējais gada apgrozījums vai atbilstoša veida ienākumi saskaņā ar attiecīgiem izcelsmes dalībvalsts normatīvajiem aktiem grāmatvedības jomā, ņemot vērā pēdējo pieejamo konsolidēto gada pārskatu, ko apstiprinājusi galvenā mātes sabiedrības vadības struktūra;
+4) kā alternatīvu šīs daļas 2. vai 3. punktā noteiktajam uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
+(21³) Latvijas Banka ir tiesīga par šā panta 21.² daļas ievaddaļā minētajiem pārkāpumiem piemērot šādus administratīvos pasākumus:
+1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona nekavējoties izbeidz attiecīgo darbību;
+2) noteikt pagaidu aizliegumu par pārkāpumu atbildīgajai fiziskajai vai juridiskajai personai emitēt Eiropas zaļās obligācijas, bet ne ilgāk kā uz vienu gadu.
 (22) Ja persona nav ievērojusi Regulas Nr. 2016/1011 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 21., 23., 24., 25., 26., 27., 28., 29. vai 34. panta prasības, kā arī ja persona nesadarbojas vai atsakās sadarboties pārbaudes procesā, ko Latvijas Banka veic saskaņā ar šā likuma 147.⁵ pantu, Latvijas Banka ir tiesīga piemērot šādas sankcijas:
 1) (izslēgts ar 23.09.2021. likumu);
 2) uzlikt par pienākumu par pārkāpumu atbildīgajai personai atmaksāt pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu, ja to var noteikt;
