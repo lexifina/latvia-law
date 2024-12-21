@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 17. decembra noteikumi Nr. 881 \"Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 2.1.1. specifiskā atbalsta mērķa \"Energoefektivitātes veicināšana un siltumnīcefekta gāzu emisiju samazināšana\" 2.1.1.4. pasākuma \"Energoefektivitātes paaugstināšana valsts ēkās\" un 2.1.1.7. pasākuma \"Valsts iestāžu infrastruktūras optimizācija\" īstenošanas noteikumi\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "249",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-20",
+  "entry_into_force": "2024-12-21",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03433",
+  "nim_celex": "72024L1275LVA_202603433",
+  "nim_id": "202603433",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/9783b603-3711-4b22-b104-e7a03a095164",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
