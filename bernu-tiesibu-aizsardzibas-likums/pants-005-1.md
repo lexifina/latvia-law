@@ -14,7 +14,7 @@
 12) sociālajam pedagogam un psihologam, kurš strādā ar bērniem;
 13) sociālā dienesta vadītājam;
 14) tiesnesim;
-15) Bērnu aizsardzības centra amatpersonai;
+15) Bērnu aizsardzības centra amatpersonai un darbiniekam, kurš iesaistīts bērnu aizsardzības nodrošināšanā;
 16) Valsts pedagoģiski medicīniskās komisijas vadītājam;
 17) Valsts policijas amatpersonai, kura strādā ar bērniem;
 18) vispārējās izglītības, profesionālās izglītības un interešu izglītības pedagogam;
@@ -26,3 +26,5 @@
 20) jebkurai citai personai, ja ar tās pieņemtu pārvaldes lēmumu (it īpaši administratīvo aktu), faktisko rīcību vai cita veida darba vai dienesta pienākumu veikšanu tiek vai var tikt skartas bērna tiesības un tiesiskās intereses.
 (1¹) Lai šā panta pirmās daļas 6., 11., 14., 17. un 19.¹ punktā minētās personas apgūtu speciālās zināšanas bērnu tiesību aizsardzības jomā, tajā skaitā par saskarsmi ar nepilngadīgo kriminālprocesa laikā, kā arī lai šā panta pirmās daļas 19.⁴ punktā minētās personas apgūtu speciālās zināšanas bērnu tiesību aizsardzības jomā, Bērnu aizsardzības centrs organizē mācības atbilstoši likumā par valsts budžetu kārtējam gadam piešķirtajiem līdzekļiem.
 (2) Kārtību, kādā apgūstamas speciālās zināšanas bērnu tiesību aizsardzības jomā, kā arī šo zināšanu saturu un apjomu nosaka Ministru kabinets.
+(3) Kārtību, kādā tiek organizēta speciālo zināšanu apguve bērnu tiesību aizsardzības jomā, kā arī prasības pasniedzējiem, kuri īsteno attiecīgās mācības, nosaka Ministru kabinets.
+(4) (Daļa stājas spēkā 01.05.2025. un iekļauta likuma redakcijā uz 01.05.2025. Sk. pārejas noteikumu 55. un 56. punktu)

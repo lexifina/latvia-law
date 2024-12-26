@@ -1,0 +1,1 @@
+56. Šā likuma 5.¹ panta pirmās daļas 15. punktā minētie Bērnu aizsardzības centra darbinieki, kuri iesaistīti bērnu aizsardzības nodrošināšanā un kuri nav apguvuši speciālās zināšanas bērnu tiesību aizsardzības jomā, tās apgūst ne vēlāk kā līdz 2025. gada 31. decembrim.
