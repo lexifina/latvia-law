@@ -3,5 +3,5 @@
 (2) Nepilngadīga persona vecumā no 15 līdz 18 gadiem iesniegumu iesniedz ar vecāku vai aizbildņu piekrišanu.
 (3) Ja nepilngadīga persona nav sasniegusi 15 gadu vecumu, iesniegumu šā likuma 2.panta pirmās daļas 7.punktā minētajā gadījumā iesniedz tās tēvs vai māte, vai aizbildnis.
 (4) (Izslēgta ar 22.01.2015. likumu)
-(5) Persona, kura atrodas ārvalstī, iesniegumu iesniedz Latvijas Republikas diplomātiskajā vai konsulārajā pārstāvniecībā pārsūtīšanai departamentam.
+(5) (Izslēgta ar 28.11.2024. likumu)
 (6) Ministru kabinets nosaka iesnieguma veidlapas paraugu.

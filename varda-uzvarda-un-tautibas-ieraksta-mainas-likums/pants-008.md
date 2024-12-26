@@ -1,6 +1,6 @@
 8.pants. Lēmums par vārda vai uzvārda (vārda un uzvārda) vai tautības ieraksta maiņas atteikumu
 (1) Lēmumu par atteikumu mainīt vārdu vai uzvārdu (vārdu un uzvārdu) pieņem, ja:
-1) persona ir sodīta par noziedzīga nodarījuma izdarīšanu un sodāmība nav dzēsta vai noņemta;
+1) (izslēgts ar 28.11.2024. likumu);
 2) personas vārda vai uzvārda (vārda un uzvārda) ieraksta maiņas iemesls neatbilst šā likuma 2.pantā minētajiem iemesliem;
 3) persona nav iesniegusi visus šā likuma 5.panta otrajā daļā noteiktos dokumentus;
 4) persona nav samaksājusi valsts nodevu.
