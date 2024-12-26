@@ -9,7 +9,9 @@
 7) atbilstoši kompetencei izstrādā un noteiktā kārtībā iesniedz Ekonomikas ministrijai tiesību aktu projektus;
 8) sagatavo un sniedz atzinumus par Ministru kabinetā izskatāmajiem tiesību aktu projektiem, kuros tieši vai netieši skarti konkurences aizsardzības, saglabāšanas vai attīstības jautājumi;
 9) valsts vai pašvaldības uzņēmumu (uzņēmējsabiedrību) privatizācijas, reorganizācijas un demonopolizācijas gadījumos, ja nepieciešams, sniedz attiecīgajai institūcijai rakstveida priekšlikumus vai atzinumus par konkurences aizsardzības, saglabāšanas vai attīstības principu ievērošanu;
+9¹) sniedz atbalstu publiskajiem pasūtītājiem konkurences tiesību pārkāpuma dēļ radīto zaudējumu apzināšanā, novērtēšanā un aprēķināšanā;
 10) pilda citus likumā un Eiropas Savienības tiesību aktos noteiktos uzdevumus.
+(1¹) Konkurences padome šā panta pirmās daļas 9.¹ punktā minēto uzdevumu veic neatkarīgi un atsevišķi no citiem uzdevumiem, izmantojot tikai publiskā pasūtītāja sniegto informāciju. Atzinumiem, konsultācijām, aprēķiniem un citiem šā uzdevuma izpildes gaitā sniegtajiem dokumentiem ir ieteikuma raksturs.
 (2) Konkurences padome informē sabiedrību par Konkurences padomes uzdevumu izpildi un citiem konkurences aizsardzības, saglabāšanas un attīstības jautājumiem. Lēmumus, kas pieņemti saskaņā ar šā likuma 8.panta pirmās daļas 3., 5. un 6.punktu, Konkurences padome publicē savā mājaslapā internetā un oficiālajā izdevumā "Latvijas Vēstnesis".
 (2¹) Konkurences padome katru gadu līdz 1. martam iesniedz Saeimai un Ministru kabinetam darbības pārskatu par iepriekšējo gadu, kā arī ievieto to savā tīmekļvietnē.
 (3) (Izslēgta ar 09.06.2022. likumu)
