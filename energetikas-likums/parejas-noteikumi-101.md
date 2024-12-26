@@ -1,0 +1,1 @@
+101. Šā likuma 72.¹ panta pirmās un trešās daļas noteikumi par drošības rezervju pakalpojuma maksas un nokavējuma naudas samaksu 2024. gadā un periodā līdz 2025. gada 31. maijam netiek piemēroti attiecībā uz Latvijas Republikas teritorijā brīvā apgrozījumā izlaisto, realizēto un patērēto aviācijas degvielas tonnu.

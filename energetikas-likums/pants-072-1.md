@@ -1,12 +1,7 @@
 72.¹ pants
 (1) Par drošības rezervju izveidi un uzturēšanu maksājama drošības rezervju pakalpojuma maksa.
-(2) Drošības rezervju pakalpojuma maksu par Latvijas Republikas teritorijā brīvā apgrozījumā izlaisto, realizēto un patērēto naftas produktu tonnu maksā komersanti, kas:
-1) saņēmuši speciālu atļauju (licenci) apstiprināta akcīzes preču noliktavas turētāja darbībai;
-2) saņēmuši speciālu atļauju (licenci) reģistrēta saņēmēja darbībai;
-3) saņēmuši speciālu atļauju (licenci) degvielas vairumtirdzniecībai;
-4) saņēmuši speciālu atļauju (licenci) degvielas mazumtirdzniecībai;
-5) naftas produktus no Eiropas Savienības dalībvalstīm vai trešajām valstīm ieved Latvijas Republikā savam patēriņam.
-(3) Par drošības rezervju pakalpojuma maksas samaksas termiņa nokavējumu šā panta otrajā daļā minētie komersanti maksā nokavējuma naudu no laikā nenomaksātā pamatparāda rašanās dienas.
+(2) Drošības rezervju pakalpojuma maksu maksā komersanti par Latvijas Republikā realizēto vai patērēto naftas produktu, izņemot aviācijas degvielu, tonnu.
+(3) Par drošības rezervju pakalpojuma maksas samaksas termiņa nokavējumu komersanti maksā nokavējuma naudu no laikā nenomaksātā pamatparāda rašanās dienas.
 (4) Pārvaldītājs uztur drošības rezervju uzkrāšanas fondu, kurā ieskaita:
 1) drošības rezervju pakalpojuma maksu;
 2) ieņēmumus no drošības rezervju atsavināšanas.
