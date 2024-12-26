@@ -1,8 +1,8 @@
 27. pants. Zaudējuma atlīdzinājums no iestādes patstāvīgā budžeta
 (1) Ja iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu ir vērsts pret iestādi ar patstāvīgu budžetu, tajā noteikto summu izmaksā no attiecīgās iestādes patstāvīgā budžeta (3. panta 4. punkts).
-(2) Pēc tam kad stājies spēkā iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu, lēmējiestāde vai iestāde (amatpersona), kas piedalījās tiesas procesā, mēneša laikā nosūta iestādes lēmuma vai tiesas nolēmuma norakstu attiecīgajai iestādei ar patstāvīgu budžetu.
-(3) Lēmējiestāde vai iestāde (amatpersona), kas piedalījās tiesas procesā, kopā ar šā panta otrajā daļā minēto iestādes lēmuma vai tiesas nolēmuma norakstu nosūta iestādei ar patstāvīgu budžetu arī informāciju par attiecīgās privātpersonas personīgo bankas kontu vai pasta norēķinu sistēmas kontu, personas datiem un dzīvesvietas adresi.
-(4) Ja privātpersonai izmaksājamais zaudējuma atlīdzinājums sastāv no nesaņemtās darba samaksas (21.¹ pants), iestāde (amatpersona), nosūtot tiesas nolēmuma norakstu iestādei ar patstāvīgu budžetu, pavadvēstulē norāda:
+(2) Pēc tam kad stājies spēkā iestādes lēmums vai tiesas nolēmums par zaudējuma atlīdzinājumu, lēmējiestāde vai iestāde (amatpersona), kas piedalījās tiesas procesā, mēneša laikā nosūta iestādes lēmuma vai tiesas nolēmuma atvasinājumu attiecīgajai iestādei ar patstāvīgu budžetu.
+(3) Lēmējiestāde vai iestāde (amatpersona), kas piedalījās tiesas procesā, kopā ar šā panta otrajā daļā minēto iestādes lēmuma vai tiesas nolēmuma atvasinājumu nosūta iestādei ar patstāvīgu budžetu arī informāciju par attiecīgās privātpersonas personīgo bankas kontu vai pasta norēķinu sistēmas kontu, personas datiem un dzīvesvietas adresi.
+(4) Ja privātpersonai izmaksājamais zaudējuma atlīdzinājums sastāv no nesaņemtās darba samaksas (21.¹ pants), iestāde (amatpersona), nosūtot tiesas nolēmuma atvasinājumu iestādei ar patstāvīgu budžetu, pavadvēstulē norāda:
 1) laikposmu, par kuru izmaksājama darba samaksa un aprēķināti normatīvajos aktos noteiktie nodokļi;
 2) darba samaksu un kompensāciju par neizmantoto atvaļinājumu;
 3) darba ņēmēja (privātpersonas) obligātās sociālās apdrošināšanas iemaksas;
