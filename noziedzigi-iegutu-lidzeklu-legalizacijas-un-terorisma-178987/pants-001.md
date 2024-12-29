@@ -5,14 +5,9 @@
 2¹) grupa - juridisko personu vai juridisku veidojumu grupa:
 a) kas sastāv no mātes sabiedrības un tās meitas sabiedrības, kā arī no veidojumiem, kuros mātes sabiedrībai vai meitas sabiedrībai ir dalība,
 b) kas ir koncerns Gada pārskatu un konsolidēto gada pārskatu likuma izpratnē;
-2²) kriptoaktīvs - vērtības digitāls atveidojums, ko var digitāli tirgot vai nodot un ko var izmantot maksājumiem vai ieguldījumiem. Kriptoaktīvs neietver valstu centrālo banku emitētas valūtas, vērtspapīra vai cita finanšu aktīva digitālu atveidojumu;
-2³) kriptoaktīvu pakalpojumu sniedzējs - fiziskā vai juridiskā persona, kas savas profesionālās vai komercdarbības ietvaros klienta vārdā vai tā labā veic vienu vai vairākas šādas darbības:
-a) kriptoaktīvu maiņa uz valstu centrālo banku emitētu valūtu,
-b) maiņa starp vienu vai vairākiem kriptoaktīvu veidiem,
-c) kriptoaktīvu pārvedums,
-d) kriptoaktīvu vai tādu instrumentu glabāšana vai pārvaldība, kuri nodrošina kontroli pār kriptoaktīviem,
-e) finanšu pakalpojumu sniegšana un dalība finanšu pakalpojumu sniegšanā saistībā ar emitenta piedāvājumu vai kriptoaktīvu pārdošanu;
-2⁴) kriptoaktīvu pārvedums - jebkurš darījums, kura mērķis ir pārvietot kriptoaktīvus no vienas sadalītās virsgrāmatas adreses, kriptoaktīvu konta vai ierīces, kas ļauj glabāt kriptoaktīvus, uz citu sadalītās virsgrāmatas adresi, kriptoaktīvu kontu vai ierīci un kuru veic vismaz viens kriptoaktīvu pakalpojumu sniedzējs, kas rīkojas iniciatora vai kriptoaktīvu saņēmēja vārdā, neatkarīgi no tā, vai iniciators un kriptoaktīvu saņēmējs ir viena un tā pati persona, un neatkarīgi no tā, vai iniciatora kriptoaktīvu pakalpojumu sniedzējs un kriptoaktīvu saņēmēja kriptoaktīvu pakalpojumu sniedzējs ir viena un tā pati persona;
+2²) (zaudējis spēku ar 29.12.2024. Sk. pārejas noteikumu 68. punktu);
+2³) (zaudējis spēku ar 29.12.2024. Sk. pārejas noteikumu 68. punktu);
+2⁴) (zaudējis spēku ar 29.12.2024. Sk. pārejas noteikumu 68. punktu);
 3) darījuma attiecības - likuma subjekta un klienta attiecības, kuras rodas, likuma subjektam veicot saimniecisko vai profesionālo darbību, un kurām to nodibināšanas brīdī ir ilgstošs mērķis;
 3¹) gadījuma rakstura darījums - darījums starp likuma subjektu un klientu, nenodibinot darījuma attiecības šā likuma izpratnē;
 4) klients - fiziskā vai juridiskā persona vai juridisks veidojums, vai šādu personu apvienība, vai veidojumu apvienība, kuram likuma subjekts sniedz pakalpojumu vai pārdod preci;
