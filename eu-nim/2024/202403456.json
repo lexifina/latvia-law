@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 13. jūnija likums \"Grozījums Ieguldījumu pārvaldes sabiedrību likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "120A",
+  "official_journal_page": null,
+  "official_journal_date": "2024-06-21",
+  "entry_into_force": "2024-12-30",
+  "notification_date": "2024-07-31",
+  "commission_reference": "MNE(2024)03456",
+  "nim_celex": "72023R1114LVA_202403456",
+  "nim_id": "202403456",
+  "transposes_celex": [
+    "32023R1114"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5d01fd4b-e40d-4230-8dbf-7c5c2713af87",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
