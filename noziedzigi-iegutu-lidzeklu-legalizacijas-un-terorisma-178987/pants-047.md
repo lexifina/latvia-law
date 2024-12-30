@@ -25,7 +25,7 @@
 13) minimālo pasākumu apjomu, kas veicams klientu - šā likuma subjektu - izpētei un darījumu uzraudzībai;
 14) minimālo pasākumu apjomu, kas veicams, lai noskaidrotu klienta patieso labuma guvēju un pārliecinātos, ka persona, kas norādīta kā patiesais labuma guvējs, ir klienta patiesais labuma guvējs;
 15) minimālo pasākumu apjomu, kas veicams kredītiestādēm un finanšu iestādēm, ja trešās valsts tiesību akti neļauj īstenot grupas līmeņa prasības noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā;
-16) pasākumus, kas veicami, lai nodrošinātu Regulas Nr. 2015/847 piemērošanu;
+16) pasākumus, kas veicami, lai nodrošinātu Regulas Nr. 2023/1113 piemērošanu;
 17) prasības centrālo kontaktpunktu izveidošanai, to funkcijām un uzraudzībai.
 (2¹) Latvijas Banka var prasīt, lai jebkura elektroniskās naudas iestāde vai maksājumu pakalpojumu sniedzējs, kurš veic uzņēmējdarbību Latvijas Republikā kādā no veidiem, kas nav filiāle, kura galvenais birojs atrodas citā dalībvalstī un kura darbību Latvijas Banka uzrauga, izveido centrālo kontaktpunktu, ja iestājas vismaz viens no šādiem nosacījumiem:
 1) elektroniskās naudas iestāde vai maksājumu pakalpojumu sniedzējs pēc pieprasījuma un savlaicīgi nesniedz Latvijas Bankai informāciju, kas nepieciešama, lai izvērtētu iestādes atbilstību Regulas Nr. 2018/1108 3. panta 1. punkta "a" vai "b" apakšpunktā noteiktajam kritērijam;

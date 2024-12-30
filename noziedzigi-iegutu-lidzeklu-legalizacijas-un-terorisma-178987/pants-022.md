@@ -15,7 +15,7 @@ b) klienta identifikācija, izmantojot tehnoloģiskos risinājumus, kas ietver v
 2) pamatojoties uz risku novērtējumu, uzsākot un uzturot darījuma attiecības vai veicot gadījuma rakstura darījumu ar klientu - politiski nozīmīgu personu, politiski nozīmīgas personas ģimenes locekli vai ar politiski nozīmīgu personu cieši saistītu personu;
 3) (izslēgts ar 19.09.2024. likumu);
 4) uzsākot un uzturot kredītiestāžu korespondentattiecības ar kredītiestādi vai finanšu iestādi (respondentu);
-4¹) (punkts stājas spēkā 30.12.2024. un iekļauts likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 70. punktu);
+4¹) uzsākot un uzturot darījuma attiecības vai veicot gadījuma rakstura darījumu ar klientu, kas veic kriptoaktīvu pārvedumu uz pašuzturētu adresi vai no tās;
 5) citos gadījumos, uzsākot un uzturot darījuma attiecības vai veicot gadījuma rakstura darījumu ar klientu, ja pastāv paaugstināts noziedzīgi iegūtu līdzekļu legalizācijas vai terorisma un proliferācijas finansēšanas risks.
 (2¹) Likuma subjekts, pamatojoties uz risku novērtējumu, piemēro vienu vai vairākus šā panta pirmajā daļā minētos klienta padziļinātās izpētes pasākumus, uzsākot un uzturot darījuma attiecības vai veicot gadījuma rakstura darījumu ar klientu, kura patiesais labuma guvējs ir politiski nozīmīga persona, politiski nozīmīgas personas ģimenes loceklis vai ar politiski nozīmīgu personu cieši saistīta persona.
 (3) Atbilstoši šā panta otrās daļas 1. punkta "b" apakšpunktam Ministru kabinets nosaka klienta identifikācijas apjomu un kārtību, izmantojot tehnoloģiskos risinājumus, kas ietver videoidentifikāciju vai drošu elektronisko parakstu, vai citus tehnoloģiskos risinājumus.
