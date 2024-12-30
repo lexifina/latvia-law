@@ -5,4 +5,4 @@
 (4) Persona, kura izdara mantisko ieguldījumu, paziņo par trešo personu tiesībām uz mantiskā ieguldījuma priekšmetu. Ja persona neizpilda šo prasību, tai savas daļas jāapmaksā naudā.
 (5) Ja mantiskā ieguldījuma priekšmeta vērtība līdz pieteikuma iesniegšanai komercreģistra iestādei ir samazinājusies, persona, kura to ieguldījusi, šo samazinājumu sedz naudā.
 (6) (Izslēgta ar 22.04.2004. likumu)
-(7) (Daļa stājas spēkā 30.12.2024. un iekļauta likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 86. punktu)
+(7) Izdarot mantisko ieguldījumu ar kriptoaktīvu, to pārved sabiedrības sadalītās virsgrāmatas adresē vai kontā, kas atvērts pie Eiropas Parlamenta un Padomes 2023. gada 31. maija regulā (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) noteiktā kriptoaktīvu pakalpojumu sniedzēja.
