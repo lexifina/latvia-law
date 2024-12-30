@@ -20,7 +20,7 @@ m) tādas informācijas sniegšana, kas saistīta ar klienta parādu saistību k
 n) citi darījumi, kuri pēc būtības ir līdzīgi iepriekšminētajiem finanšu pakalpojumiem;
 o) elektroniskās naudas, tajā skaitā elektroniskās naudas žetonu, emisija;
 p) aktīviem piesaistīto žetonu emisija;
-r) (apakšpunkts stājas spēkā 30.12.2024. un iekļauts likuma redakcijā uz 30.12.2024. Sk. pārejas noteikumu 118. punktu).
+r) kriptoaktīvu pakalpojumi.
 5) kredīts - atlīdzības darījums, kurā kredītiestāde uz rakstveida līguma pamata nodod klientam naudu vai citas lietas īpašumā un kurš klientam uzliek pienākumu noteiktā laikā un kārtībā atdot kredītiestādei naudu vai citas lietas;
 5¹) sindicētais kredīts - aizdevums, kuru izsniedz vairāki aizdevēji saskaņā ar vienu kredīta līgumu;
 6) noguldījums - naudas līdzekļu glabāšana kredītiestādes kontā noteiktu vai nenoteiktu laiku ar vai bez procentiem;
