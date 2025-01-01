@@ -4,9 +4,9 @@
 3) lemj par revīziju jomu sadali starp revīzijas departamentiem;
 4) izlemj Valsts kontroles padomes locekļu un revīzijas departamentu direktoru ierosinātos jautājumus;
 5) pieņem lēmumu par pieteikuma iesniegšanu Satversmes tiesai;
-6) apstiprina šā likuma 3. panta 1. punktā minēto atzinumu un pieņem lēmumu par tā iesniegšanu Saeimai;
+6) (izslēgts no 01.01.2025. ar 21.11.2024. likumu. Sk. pārejas noteikumu 18. punktu);
 7) izveido atestācijas komisiju un apstiprina šīs komisijas nolikumu, nosakot tās kompetenci;
-8) pieņem lēmumu sakarā ar sūdzībām, kas iesniegtas par revīzijas departamenta lēmumu, ar kuru apstiprināts revīzijas ziņojums vai atzinums;
+8) pieņem lēmumu sakarā ar sūdzībām, kas iesniegtas par revīzijas departamenta lēmumu, ar kuru apstiprināts revīzijas ziņojums;
 9) izskata un pieņem lēmumus par tiem revīzijas ziņojumiem, par kuriem, domām daloties, nav pieņemts revīzijas departamenta lēmums (20.panta trešā daļa). Revīzijas departamenta direktors, kurš piedalījies revīzijas ziņojuma izskatīšanā iepriekš, ir tiesīgs piedalīties padomes sēdē, taču nepiedalās balsošanā;
 10) apstiprina Valsts kontroles budžeta pieprasījumu;
 11) apstiprina Valsts kontroles struktūru, darbinieku štatu sarakstu, amatu kvalifikācijas prasības;

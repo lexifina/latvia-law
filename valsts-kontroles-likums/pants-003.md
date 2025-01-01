@@ -1,11 +1,11 @@
 3.pants. Valsts kontrole:
-1) katru gadu iesniedz Saeimai atzinumu un revīzijas ziņojumu par saimnieciskā gada pārskatu līdz pārskata gadam sekojošā saimnieciskā gada 1. septembrim;
-1¹) Saeimas vēlēšanu gadā iesniedz Saeimai atzinumu un revīzijas ziņojumu par saimnieciskā gada pārskatu līdz pārskata gadam sekojošā saimnieciskā gada 15. novembrim;
-2) katru gadu sniedz atzinumus par ministriju un citu centrālo valsts iestāžu gada pārskatu sagatavošanas pareizību. Ja pārskats nav iesniegts Valsts kontrolei tās norādītajā termiņā, Valsts kontrole sniedz atzinumu ne vēlāk kā 60 dienu laikā no attiecīgā pārskata saņemšanas dienas;
-3) iesniedz Saeimai un Ministru kabinetam ziņojumu:
-a) par revīzijām tajās revidējamās vienībās, kurām sniegti Valsts kontroles atzinumi ar piezīmēm, negatīvi atzinumi vai atteikts sniegt atzinumu,
+1) katru gadu sagatavo revīzijas ziņojumu par konsolidēto saimnieciskā gada pārskatu;
+1¹) (izslēgts no 01.01.2025. ar 21.11.2024. likumu. Sk. pārejas noteikumu 18. punktu);
+2) (izslēgts no 01.01.2025. ar 21.11.2024. likumu. Sk. pārejas noteikumu 18. punktu);
+3) ziņo:
+a) Saeimai par revīziju rezultātiem un revīzijās sniegto ieteikumu ieviešanas progresu,
 b) (izslēgts ar 20.06.2019. likumu),
-c) par īpaši svarīgiem un nozīmīgiem konstatējumiem;
+c) Ministru kabinetam par īpaši svarīgiem un nozīmīgiem konstatējumiem;
 4) ziņo valsts iestādēm par konstatējumiem, kas skar šo iestāžu darbību, kā arī tiesībaizsardzības iestādēm par revīzijā konstatētajiem tiesību normu pārkāpumiem un seko to izskatīšanas gaitai;
 4¹) ierosina Ministru kabinetam veikt pasākumus Valsts kontroles revīziju rezultātu izvērtēšanai;
 4²) sadarbojas ar Saeimas komisijām, informējot tās par revīziju rezultātiem, revīzijās atklāto trūkumu novēršanu, kā arī par revīzijā konstatēto tiesību normu pārkāpumu izskatīšanu;

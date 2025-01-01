@@ -1,2 +1,2 @@
-54.pants. (1) Pamatojoties uz Valsts kontroles revīzijas ziņojuma projektu un tam pievienoto revidējamās vienības rakstveida paskaidrojumu, tiek sagatavots revīzijas ziņojums, bet gadījumos, kad tiek veikta revīzija par gada pārskata sastādīšanas pareizību saskaņā ar šā likuma 3.panta 1. un 2.punktā noteiktajiem Valsts kontroles uzdevumiem,- arī atzinums.
-(2) Ja revīzija par gada pārskata sagatavošanas pareizību tiek veikta papildus šā likuma 3.panta 1. un 2.punktā paredzētajiem gadījumiem, Valsts kontrole lemj par atzinuma nepieciešamību.
+54.pants. (1) Revīzijas ziņojumu sagatavo, pamatojoties uz Valsts kontroles revīzijas ziņojuma projektu un tam pievienoto revidējamās vienības rakstveida paskaidrojumu.
+(2) (Izslēgta no 01.01.2025. ar 21.11.2024. likumu. Sk. pārejas noteikumu 18. punktu)

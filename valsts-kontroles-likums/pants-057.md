@@ -1,1 +1,1 @@
-57.pants. Valsts kontroles revīzijas ziņojumu Valsts kontrole nosūta revidējamai vienībai, attiecīgās nozares ministram un finanšu ministram, bet gadījumos, kad veikta revīzija par gada pārskata un saimnieciskā gada pārskata sagatavošanas pareizību, nosūta arī atzinumu.
+57.pants. Valsts kontroles revīzijas ziņojumu Valsts kontrole nosūta revidējamai vienībai, attiecīgās nozares ministram un finanšu ministram.
