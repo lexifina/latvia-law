@@ -5,10 +5,12 @@
 3) izsniedz normatīvajos aktos noteiktās atļaujas, apliecinājumus un speciālās atļaujas (licences);
 4) pārstāv nepārstrādātās lauksaimniecības produkcijas ražotāju intereses tiesā;
 5) iesniedz tiesā prasības, kas izriet no fizisko un juridisko personu saistībām attiecībā uz valsts atbalsta un Eiropas Savienības atbalsta izlietošanu, ja tas tiek darīts neatbilstoši normatīvajiem aktiem;
-6) likumā noteiktajos gadījumos izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus;
+6) (izslēgts ar 04.12.2024. likumu);
 7) īsteno intervences pasākumus lauksaimniecības produktu tirgū;
 8) normatīvajos aktos noteiktajā kārtībā administrē lauksaimniecības produktu un pārstrādāto lauksaimniecības produktu ārējās tirdzniecības režīmu;
 9) (izslēgts ar 07.12.2017. likumu);
-10) normatīvajos aktos noteiktajā kārtībā administrē augkopības produkcijas kvotas;
-11) normatīvajos aktos noteiktajā kārtībā sniedz informāciju Eiropas Komisijai.
+10) (izslēgts ar 04.12.2024. likumu);
+11) normatīvajos aktos noteiktajā kārtībā sniedz informāciju Eiropas Komisijai;
+12) nodrošina lauksaimniecības un zivsaimniecības nozares informācijas sistēmu pārvaldību;
+13) īsteno valsts un Eiropas Savienības politiku lauksaimniecības dzīvnieku un mājas (istabas) dzīvnieku audzēšanas un ciltsdarba jomā.
 (2) Dienests ir atbrīvots no tiesas izdevumiem prasībās, kas izriet no fizisko un juridisko personu saistībām attiecībā uz valsts atbalsta un Eiropas Savienības atbalsta izlietošanu, ja tas tiek darīts neatbilstoši normatīvajiem aktiem. Piedziņa šajos gadījumos tiek veikta par labu valstij.
