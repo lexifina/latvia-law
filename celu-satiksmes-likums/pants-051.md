@@ -2,7 +2,7 @@
 (1) Par transportlīdzekļa vadīšanu, ja nav klāt kāda no šādiem transportlīdzekļa vadītājam nepieciešamajiem dokumentiem:
 1) vadītāja apliecības vai personu apliecinoša dokumenta atbilstoši šā likuma 25. panta pirmās daļas 1. punktam;
 2) transportlīdzekļa reģistrācijas dokumentu, izņemot šā likuma 25. panta pirmās daļas 2. punktā minēto gadījumu;
-3) dokumenta par veikto valsts tehnisko apskati vai tehnisko kontroli uz ceļiem, ja uz transportlīdzekļa nav attiecīgas vizuālas informācijas (uzlīmes) vai Ceļu satiksmes drošības direkcijas elektroniski noformētas vienas dienas atļaujas piedalīties ceļu satiksmē, lai veiktu valsts tehnisko apskati;
+3) dokumenta par traktortehnikai veikto valsts tehnisko apskati vai tehnisko kontroli uz ceļiem, ja uz traktortehnikas nav attiecīgas vizuālas informācijas (uzlīmes);
 4) citu transportlīdzekļa vadītāja kvalifikāciju apliecinošu dokumentu;
 5) dokumentu, kas nepieciešami, pārvadājot lielgabarīta vai smagsvara kravu;
 6) braukšanas mācību instruktora apliecības vai braukšanas mācību atļaujas (mācību braukšanas gadījumā), -
