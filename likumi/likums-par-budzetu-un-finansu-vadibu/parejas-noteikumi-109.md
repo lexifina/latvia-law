@@ -1,0 +1,1 @@
+109. Atzīt par spēku zaudējušu likumu "Par pašvaldību finanšu stabilizēšanu un pašvaldību finansiālās darbības uzraudzību" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 13. nr.; 1999, 22. nr.; 2001, 2. nr.; 2005, 24. nr.; 2009, 3. nr.; 2012, 157. nr.).

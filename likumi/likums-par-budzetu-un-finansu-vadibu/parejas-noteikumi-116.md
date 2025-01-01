@@ -1,0 +1,1 @@
+116. Šā likuma 24. panta otrās daļas pirmajā teikumā minētos noteikumus Ministru kabinets izdod līdz 2026. gada 31. decembrim. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. decembrim piemērojami Ministru kabineta 2010. gada 28. decembra noteikumi Nr. 1220 "Asignējumu piešķiršanas un izpildes kārtība".

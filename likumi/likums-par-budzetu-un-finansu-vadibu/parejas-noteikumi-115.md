@@ -1,0 +1,1 @@
+115. Grozījumu par šā likuma 18.¹ panta papildināšanu ar 8.¹ daļu attiecībā uz izmaiņām valsts budžeta likumprojekta paskaidrojumos sāk piemērot 2025. gadā, sagatavojot likumprojekta par valsts budžetu 2026. gadam un budžeta ietvaru 2026., 2027., 2028. un 2029. gadam paskaidrojumus.

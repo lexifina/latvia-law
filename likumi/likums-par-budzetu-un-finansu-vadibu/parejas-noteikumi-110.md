@@ -1,0 +1,1 @@
+110. Grozījums šā likuma I nodaļā par termina "Vidējs termiņš" izteikšanu jaunā redakcijā, grozījumi 18.¹ panta piektajā un desmitajā daļā stājas spēkā vienlaikus ar attiecīgiem grozījumiem Fiskālās disciplīnas likumā.

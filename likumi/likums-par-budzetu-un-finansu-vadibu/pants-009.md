@@ -2,6 +2,7 @@
 (1) Valsts budžeta apropriācijas nosaka valsts budžeta likums. Pašvaldību budžetu līdzekļus apropriē šajā likumā un citos likumos noteiktajā kārtībā.
 (2) Ikviens grozījums, kas attiecas uz apropriācijas apjomu, mērķiem vai termiņiem, izdarāms saskaņā ar šā likuma noteikumiem.
 (3) Speciālajam budžetam ir apropriācija, kas pieļauj tikai tādus izdevumus, kuri nepārsniedz saimnieciskā gada faktisko ieņēmumu apmērus un līdzekļu atlikumus saimnieciskā gada sākumā un aizņēmumu no valsts pamatbudžeta.
+(3¹) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 111. punktu)
 (4) Visas apropriācijas zaudē spēku saimnieciskā gada beigās.
 (4¹) Kārtību, kādā izmanto valsts budžeta likumā paredzēto apropriāciju valsts un pašvaldību vienoto klientu apkalpošanas centru tīkla izveidei, uzturēšanai un publisko pakalpojumu sistēmas pilnveidei, nosaka Ministru kabinets.
 (5) (Izslēgta ar 01.12.2009. likumu)
@@ -45,6 +46,9 @@ f) valsts kompensāciju izmaksai personām, kuras Kriminālprocesa likumā notei
 5) apropriācijas pārdali starp Emisijas kvotu izsolīšanas instrumenta un Klimata pārmaiņu finanšu instrumenta pasākumiem;
 6) šā panta piecpadsmitajā daļā minētajām apropriāciju pārdalēm.
 (13⁴) Valsts budžeta likums var ietvert nosacījumus, ko finanšu ministrs ievēro, lemjot par apropriācijas pārdali.
+(13⁵) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 112. punktu)
+(13⁶) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 112. punktu)
+(13⁷) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 112. punktu)
 (14) Finanšu ministram ir tiesības palielināt valsts budžeta likumā noteikto apropriāciju, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas ir izskatījusi to un nav iebildusi pret apropriācijas palielinājumu, tikai šādiem mērķiem:
 1) valsts budžeta iestāžu ieņēmumu par sniegtajiem maksas pakalpojumiem un citu pašu ieņēmumu atlikumu saimnieciskā gada sākumā izmantošanai, izņemot šā panta 13.¹ daļas 4. punktā noteikto;
 2) Eiropas Savienības pašu resursu palielināšanai un norēķiniem ar Eiropas Savienību;
@@ -55,7 +59,8 @@ f) valsts kompensāciju izmaksai personām, kuras Kriminālprocesa likumā notei
 7) likumā noteikto garantēto atlīdzību izmaksai Noguldījumu garantiju fondā trūkstošo līdzekļu nodrošināšanai;
 8) iemaksām Eiropas Stabilitātes mehānisma reģistrētajā kapitālā, nepārsniedzot kopējo apmaksāto akciju un kopējo pieprasāmo akciju iegādes saistību apjomu, ja par apropriācijas palielināšanu ir pieņemts Ministru kabineta lēmums.
 (15) Finanšu ministram ir tiesības veikt apropriācijas pārdali starp ministrijām un citām centrālajām valsts iestādēm, tai skaitā funkciju pārdales vai strukturālo reformu gadījumos, ja ir pieņemts Ministru kabineta lēmums un Saeima ar atsevišķu lēmumu piekritusi šādai pārdalei.
-(16) Finanšu ministram ir tiesības palielināt valsts budžeta likumā valsts parāda saistību izpildei noteikto apropriāciju un paplašināt valdības rīcības pieļaujamās robežas, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas nav iebildusi pret apropriācijas palielinājumu un valdības rīcības pieļaujamo robežu paplašināšanu.
+(16) Finanšu ministram ir tiesības palielināt valsts budžeta likumā valsts parāda saistību izpildei noteikto apropriāciju un paplašināt valdības rīcības pieļaujamās robežas, ja Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas ir izskatījusi to un nav iebildusi pret apropriācijas palielinājumu un valdības rīcības pieļaujamo robežu paplašināšanu.
 (17) Apropriācijas izmaiņas starp budžeta resoriem tiek nodrošinātas kā transferta pārskaitījums, ja tā rezultātā nemainās izlietojuma mērķis, izņemot apropriācijas pārdali starp budžeta resoru "Valsts budžeta izpildes procesā pārdalāmais finansējums" un citiem budžeta resoriem un šā panta piecpadsmitajā daļā minēto pārdali.
 (18) Finanšu ministram ir tiesības ministrijai vai citai centrālajai valsts iestādei valsts budžeta likumā noteiktās apropriācijas ietvaros pārdalīt apropriāciju no budžeta izdevumu kodiem atbilstoši ekonomiskajām kategorijām uz finansēšanas klasifikācijas kategoriju kodiem, ja ir pieņemts attiecīgs Ministru kabineta lēmums un apropriācijas pārdalei nav negatīvas ietekmes uz vispārējās valdības budžeta bilanci nominālajā izteiksmē atbilstoši Eiropas nacionālo un reģionālo kontu sistēmas Eiropas Savienībā metodoloģijai.
 (19) Finanšu ministram ir tiesības, informējot par to Saeimu, palielināt ministrijai vai citai centrālajai valsts iestādei, kas ir kapitāla daļu turētāja attiecīgajā kapitālsabiedrībā, apropriāciju finansēšanas klasifikācijas kategoriju kodiem, lai veiktu ieguldījumu valsts izšķirošajā ietekmē esošo kapitālsabiedrību pamatkapitālā svarīgu valstisku funkciju nodrošināšanai vai tautsaimniecības attīstības veicināšanai. Šādu apropriācijas palielināšanu var veikt, ja ir pieņemts attiecīgs Ministru kabineta lēmums un apropriācijas palielināšanai nav negatīvas ietekmes uz vispārējās valdības budžeta bilanci nominālajā izteiksmē atbilstoši Eiropas nacionālo un reģionālo kontu sistēmas Eiropas Savienībā metodoloģijai.
+(20) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 113. punktu)
