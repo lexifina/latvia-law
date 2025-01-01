@@ -1,1 +1,2 @@
-757. Pārdzīvojušam laulātam un visiem lejupējiem, kas uz kautkāda pamata grib mantot no mirušā laulātā vai no kopējā augšupējā, viss tas, ko viņi dabūjuši no mantojuma atstājēja tam dzīvam esot, pirms mantojuma masas dalīšanas jāpievieno tai vai arī jāieskaita savās mantojuma daļās.
+757. Pārdzīvojušam laulātam un visiem lejupējiem, kas uz likuma pamata grib mantot no mirušā laulātā vai no kopējā augšupējā, tas, ko viņi dabūjuši papildus 762. un 763. pantā minētajam bez atlīdzības no mantojuma atstājēja, tam dzīvam esot, pēdējo piecu gadu laikā, pirms mantojuma masas dalīšanas jāpievieno tai vai arī jāieskaita savās mantojuma daļās.
+Ja ieskaitītās mantas vērtība pārsniedz mantojamās daļas vērtību, atlikusī daļa nav jāpievieno mantojumam.

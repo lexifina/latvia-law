@@ -1,1 +1,2 @@
-734. Skaidro naudu un citas atvietojamas lietas, kā arī naudas vai atvietojamu lietu prasījumus dala samērīgi ar katra mantinieka mantojuma daļu.
+734. Naudu un citas atvietojamas lietas, kā arī naudas vai atvietojamu lietu prasījumus dala samērīgi ar katra mantinieka mantojuma daļu tik tālu, cik tās var sadalīt bez atlikuma. Mantojuma sadales rezultātā nesadalāmo naudas atlikumu kredītiestādē saņem tas mantinieks, kuram pēdējam izmaksā viņa naudas daļu. Pārējo atvietojamo lietu atlikums paliek mantiniekiem kopīpašumā, ja vien mantinieki nevienojas par pretējo.
+Pamatkapitāla daļas (akcijas) ar vienādu tiesību apjomu dala samērīgi ar katra mantinieka mantojuma daļu, cik tālu tās var sadalīt bez atlikuma.

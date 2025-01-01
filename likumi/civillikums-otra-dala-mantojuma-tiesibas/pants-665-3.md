@@ -1,0 +1,1 @@
+665.³ Aizgādņa mantinieki atbild tikai par viņa ļaunu nolūku un rupju neuzmanību, bet, ja atlīdzības prasība bijusi celta, vēl aizgādnim dzīvam esot, viņa mantinieki atbild bez izšķirības par visu to, par ko būtu bijis jāatbild pašam mantojuma atstājējam kā aizgādnim.

@@ -1,3 +1,2 @@
-693. Ja mantojuma pieņemšanai mantojuma atstājējs noteicis zināmu termiņu, tad ieceltam mantiniekam tas jāievēro.
-Ja tāds termiņš nav noteikts, bet mantinieki ir uzaicināti, tad mantot aicinātam sava griba par mantojuma pieņemšanu jāizteic līdz uzaicinājumā noliktam termiņam.
-Ja uzaicinājuma nav bijis, tad mantiniekam jāizsaka sava griba pieņemt mantojumu gada laikā, skaitot šo termiņu no mantojuma atklāšanās dienas, ja mantojums atrodas viņa faktiskā valdījumā (692. p. 2. d.), bet pretējā gadījumā - no ziņu saņemšanas laika par to, ka mantojums atklājies.
+693. Ja mantinieki ir uzaicināti, mantot aicinātam un mantiniekam, kurš mantojumu pieņēmis klusējot (691. p.), sava griba par mantojuma pieņemšanu jāizteic notāram sludinājumā par mantojuma atklāšanos noteiktajā termiņā.
+Sludinājumā par mantojuma atklāšanos noteiktajā termiņā nepieteiktās mantinieku tiesības dzēš. Minētais neattiecas uz mantiniekiem, kas nezināja vai nevarēja zināt, ka mantojuma atklāšanās ir bijusi izsludināta.
