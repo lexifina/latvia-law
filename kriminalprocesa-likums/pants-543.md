@@ -6,7 +6,7 @@
 2) to, ka tiesa apstiprina noslēgto vienošanos un piespriež tajā paredzēto soda veidu un mēru;
 3) apsūdzētā atbrīvošanu tiesas sēžu zālē no apcietinājuma vai mājas aresta, ja apsūdzētajam noteikts ar brīvības atņemšanu nesaistīts sods;
 4) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
-5) pārbaudes laika termiņu nosacītas notiesāšanas gadījumā;
+5) (izslēgts ar 13.06.2024. likumu);
 6) drošības līdzekli;
 7) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no sprieduma spēkā stāšanās dienas - un pienākumu iesniegt tiesai dokumentus par kaitējuma kompensācijas atlīdzināšanu;
 8) kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu, ja tas nav izdarīts agrāk;

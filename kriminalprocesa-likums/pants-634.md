@@ -5,10 +5,10 @@
 (4) Nolēmumu vai prokurora priekšrakstu nosūta:
 1) Ieslodzījuma vietu pārvaldei - ja ar tiesas spriedumu piespriesta īslaicīga brīvības atņemšana un persona neatrodas ieslodzījumā;
 2) ieslodzījuma vietai - ja piemērots brīvības atņemšanas sods vai īslaicīga brīvības atņemšana un persona atrodas ieslodzījumā;
-3) Valsts probācijas dienestam - ja brīvības atņemšanas sods piemērots nosacīti vai ja piespriests sabiedriskais darbs vai probācijas uzraudzība;
+3) Valsts probācijas dienestam - ja piespriests sabiedriskais darbs vai probācijas uzraudzība;
 4) institūcijai, kas ir kompetenta uzraudzīt attiecīgā tiesību ierobežojuma ievērošanu (ja tāda ir), - ja piemērota tiesību ierobežošana;
 5) tiesai pēc piekritības maksātnespējas procesa lietas ierosināšanai - ja juridiskajai personai piemērota likvidācija;
 6) Valsts policijai - personas aizturēšanai un nodošanai brīvības atņemšanas iestādei, ja sabiedriskais darbs vai naudas sods aizstāts ar īslaicīgu brīvības atņemšanu vai brīvības atņemšanu, probācijas uzraudzība aizstāta ar brīvības atņemšanu vai piemērots brīvības atņemšanas sods un persona neatrodas ieslodzījumā;
 7) tiesai pēc piekritības - ja tiesa lemj par noziedzīgi iegūtas mantas (nekustamā īpašuma) atdošanu pēc piederības īpašniekam vai likumīgajam valdītājam.
-(5) Apsūdzēto attaisnojošs spriedums, no soda atbrīvojošs spriedums un spriedums par nosacītu notiesāšanu daļā par apsūdzētā atbrīvošanu no drošības līdzekļa, kas saistīts ar brīvības atņemšanu, tiek izpildīts nekavējoties pēc sprieduma pasludināšanas.
+(5) Apsūdzēto attaisnojošs spriedums un no soda atbrīvojošs spriedums daļā par apsūdzētā atbrīvošanu no drošības līdzekļa, kas saistīts ar brīvības atņemšanu, tiek izpildīts nekavējoties pēc sprieduma pasludināšanas.
 (6) Ja zvērinātam tiesu izpildītājam nodots izpildei lēmums par noziedzīgi iegūtas mantas konfiskāciju, kas pieņemts šā likuma 59. nodaļā noteiktajā kārtībā, un ja attiecīgajā kriminālprocesā nav iesniegts vai apmierināts cietušajam nodarītā kaitējuma kompensācijas pieteikums, tiesa vai prokurors par pieņemto gala nolēmumu paziņo zvērinātam tiesu izpildītājam, uzdodot konfiscētos vai konfiskācijas izpildes rezultātā iegūtos līdzekļus, kas deponēti zvērināta tiesu izpildītāja depozīta kontā, ieskaitīt valsts budžetā.
