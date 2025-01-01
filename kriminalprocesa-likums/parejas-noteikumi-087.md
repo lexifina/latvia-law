@@ -1,0 +1,1 @@
+87. Valsts ieņēmumu dienesta Iekšējās drošības pārvalde nodod līdz 2024. gada 31. decembrim uzsāktos kriminālprocesus Korupcijas novēršanas un apkarošanas birojam ne vēlāk kā līdz 2025. gada 31. janvārim.

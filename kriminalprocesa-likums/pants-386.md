@@ -2,7 +2,7 @@
 Izmeklēšanu savas kompetences ietvaros veic:
 1) Valsts policija;
 2) Valsts drošības dienests;
-3) Valsts ieņēmumu dienesta Iekšējās drošības pārvalde;
+3) (izslēgts ar 31.10.2024. likumu);
 4) Militārā policija;
 5) Ieslodzījuma vietu pārvalde;
 6) Korupcijas novēršanas un apkarošanas birojs;

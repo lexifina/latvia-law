@@ -1,0 +1,1 @@
+88. Ieslodzījuma vietu pārvaldes pilnvarotas amatpersonas, kuras līdz 2024. gada 31. decembrim veica Iekšējās drošības biroja kompetencē esošo noziedzīgo nodarījumu izmeklēšanu, turpina izmeklēšanu uzsāktajos kriminālprocesos līdz tās pabeigšanai.
