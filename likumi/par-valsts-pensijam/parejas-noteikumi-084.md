@@ -1,0 +1,1 @@
+84. Grozījumi par šā likuma 24. panta pirmās daļas izteikšanu jaunā redakcijā, šā likuma 24. panta 1.¹ daļa un grozījumi šā likuma 25. pantā par pirmās daļas 1. punkta izteikšanu jaunā redakcijā, pirmās daļas papildināšanu ar 5. punktu un otrās daļas papildināšanu ar 5. punktu stājas spēkā 2026. gada 1. aprīlī.

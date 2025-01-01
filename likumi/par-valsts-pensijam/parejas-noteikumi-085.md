@@ -1,0 +1,1 @@
+85. Šā likuma 25. panta otrās daļas 5. punktā minēto iesniegumu var iesniegt no 2025. gada 1. aprīļa, un pirmais pensijas pārrēķins veicams ne agrāk kā 2026. gada 1. aprīlī, ievērojot šā likuma 24. panta 1.¹ daļā minētos nosacījumus.
