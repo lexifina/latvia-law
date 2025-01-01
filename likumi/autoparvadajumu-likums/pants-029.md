@@ -1,8 +1,8 @@
 29. pants. Autotransporta līdzekļi pasažieru pārvadāšanai
 (1) Pasažieru pārvadājumi tiek veikti ar autotransporta līdzekļiem (autobusiem, vieglajiem automobiļiem u.c.), kuri paredzēti šim mērķim.
-(2) Pasažieru komercpārvadājumus ar taksometru veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili.
+(2) Pasažieru komercpārvadājumus ar taksometru veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili, attiecībā uz kuru transportlīdzekļu un to vadītāju valsts reģistrā nav reģistrēts Valsts ieņēmumu dienesta piemērots liegums izmantot autotransporta līdzekli komercpārvadājumos ar taksometru un vieglo automobili.
 (3) (Izslēgta ar 02.12.2004. likumu)
-(4) Pasažieru komercpārvadājumus ar vieglo automobili veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili.
+(4) Pasažieru komercpārvadājumus ar vieglo automobili veic ar pārvadātāja īpašumā vai turējumā esošu M1 kategorijas vieglo automobili, attiecībā uz kuru transportlīdzekļu un to vadītāju valsts reģistrā nav reģistrēts Valsts ieņēmumu dienesta piemērots liegums izmantot autotransporta līdzekli komercpārvadājumos ar taksometru un vieglo automobili.
 (5) Pasažieru komercpārvadājumus ar taksometru un vieglo automobili veic ar autotransporta līdzekli, kas atbilst šādām vides aizsardzības prasībām:
 1) tas pirmo reizi reģistrēts līdz 2008. gada 31. decembrim, un tā motora tilpums nepārsniedz 2000 kubikcentimetrus;
 2) tas pirmo reizi reģistrēts pēc 2009. gada 1. janvāra, un tā radīto oglekļa dioksīda (CO2) izmešu maksimālais daudzums gramos uz vienu kilometru saskaņā ar Eiropas jaunā braukšanas cikla metodi, kas noteikts Eiropas Parlamenta un Padomes 2007. gada 20. jūnija regulas (EK) Nr. 715/2007 par tipa apstiprinājumu mehāniskiem transportlīdzekļiem attiecībā uz emisijām no vieglajiem pasažieru un komerciālajiem transportlīdzekļiem (Euro 5 un Euro 6) un par piekļuvi transportlīdzekļa remonta un tehniskās apkopes informācijai (turpmāk - regula Nr. 715/2007) I pielikumā, nepārsniedz:
