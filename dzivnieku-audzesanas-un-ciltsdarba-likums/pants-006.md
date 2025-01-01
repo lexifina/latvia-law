@@ -7,4 +7,4 @@ a) kontrolē fiziskās un juridiskās personas, kas nodarbojas ar lauksaimniecī
 b) sagatavo kontroles plānu un saskaņā ar to regulāri uzrauga šā punkta "a" apakšpunktā minētās personas;
 3) attiecībā uz šīs daļas 1. un 2. punktā minētajiem lauksaimniecības dzīvniekiem, akvakultūras dzīvniekiem un mājas (istabas) dzīvniekiem:
 a) kontrolē šā likuma 14. panta pirmajā, otrajā, trešajā un ceturtajā daļā minētās personas, kā arī spermas, olšūnu un embriju apritē iesaistītās personas un pieprasa no tām dokumentus un informāciju,
-b) informē datu centru par šajā pantā minēto personu darbībā konstatētajiem pārkāpumiem.
+b) informē Lauku atbalsta dienestu par šajā pantā minēto personu darbībā konstatētajiem pārkāpumiem.

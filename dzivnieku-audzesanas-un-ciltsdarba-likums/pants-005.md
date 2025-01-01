@@ -1,5 +1,5 @@
-5. pants. Lauksaimniecības datu centra kompetence
-(1) Lauksaimniecības datu centrs (turpmāk - datu centrs):
+5. pants. Lauku atbalsta dienesta kompetence
+(1) Lauku atbalsta dienests:
 1) attiecībā uz liellopiem, cūkām, aitām, kazām un zirgiem ir kompetentā iestāde, kas pilda regulas Nr. 2016/1012 2. panta 8. punkta "a" un "d" apakšpunktā noteiktos uzdevumus;
 2) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šīs daļas 1. punktā:
 a) atzīst šķirnes lauksaimniecības dzīvnieku audzētāju biedrības, kā arī apstiprina to izstrādātās audzēšanas programmas un grozījumus tajās,
