@@ -14,7 +14,8 @@
 12) rīcību ar izņemtajām mantām un dokumentiem;
 13) informāciju par piedzenamo procesuālo izdevumu apmēru;
 14) naudas soda brīvprātīgas izpildes termiņu;
-15) informāciju par to, ka naudas soda nesamaksas gadījumā nolēmums par sodu tiks nodots piespiedu izpildei.
+15) informāciju par to, ka naudas soda nesamaksas gadījumā nolēmums par sodu tiks nodots piespiedu izpildei;
+16) informāciju par personas tiesībām likumā noteiktajā kārtībā lūgt soda izpildes atlikšanu vai naudas soda sadalīšanu daļās.
 (2) Lēmumā par administratīvā pārkāpuma procesa izbeigšanu norāda:
 1) administratīvā pārkāpuma lietas numuru;
 2) amatpersonas vārdu, uzvārdu, iestādi, kuru tā pārstāv, un amatu (ja administratīvā pārkāpuma lietu izskatījusi koleģiālā iestāde, - koleģiālās iestādes sastāvu);
@@ -26,5 +27,5 @@
 8) rīcību ar izņemtajām mantām un dokumentiem;
 9) kur un kādā termiņā šo lēmumu var pārsūdzēt.
 (3) Izskatot administratīvā pārkāpuma lietu, amatpersona vienlaikus izskata sūdzību par amatpersonas rīcību ar mantu.
-(4) Ja administratīvā pārkāpuma rezultātā nodarīts zaudējums dabas resursiem un šāda zaudējuma apmēra noteikšanas kārtību paredz normatīvie akti, tad, izskatot administratīvā pārkāpuma lietu, amatpersona vienlaikus izlemj jautājumu par pienākumu atlīdzināt dabas resursiem nodarīto zaudējumu.
+(4) Ja administratīvā pārkāpuma rezultātā nodarīts zaudējums dabas resursiem un šāda zaudējuma apmēra noteikšanas kārtību paredz normatīvie akti, tad, izskatot administratīvā pārkāpuma lietu, amatpersona vienlaikus izlemj jautājumu par pienākumu atlīdzināt dabas resursiem nodarīto zaudējumu. Šādu pienākumu nenosaka nepilngadīgajam.
 (5) Lēmumu administratīvā pārkāpuma lietā paraksta amatpersona, kas izskatījusi administratīvā pārkāpuma lietu, bet koleģiālās iestādes lēmumu - tās priekšsēdētājs.
