@@ -1,0 +1,1 @@
+40. Laikposmā no 2025. gada 1. janvāra līdz 2028. gada 31. decembrim šā likuma 4. panta otrajā daļā noteiktā iemaksu likme fondēto pensiju shēmā ir pieci procenti no iemaksu objekta, kas noteikts likumā "Par valsts sociālo apdrošināšanu".
