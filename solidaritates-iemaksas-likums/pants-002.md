@@ -1,0 +1,4 @@
+2. pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir aizsargāt sabiedrības drošību paaugstinātu nacionālās drošības risku apstākļos, rodot papildu finanšu līdzekļus valsts nacionālās drošības fiskālo vajadzību nodrošināšanai.
+(2) Šā panta pirmajā daļā noteiktā mērķa sasniegšanai solidaritātes iemaksas maksātājs veic solidaritātes iemaksas terminētā periodā valsts budžetā vai solidaritātes iemaksas vietā sniedz ieguldījumu, būtiski palielinot Latvijas nefinanšu sabiedrību, mājsaimniecību un mājsaimniecības apkalpojošo bezpeļņas organizāciju kreditēšanas apmērus nolūkā veicināt ekonomisko aktivitāti un palielināt kopējos valsts budžeta ieņēmumus.
+(3) Papildus šā panta otrajā daļā minētajam likums nosaka solidaritātes iemaksas maksātāju loku, solidaritātes iemaksu un tās aprēķināšanas, deklarēšanas un maksāšanas kārtību, kā arī ar solidaritātes iemaksas administrēšanu saistītos jautājumus.
