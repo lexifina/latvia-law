@@ -1,6 +1,6 @@
 5. pants. Sabiedriskā elektroniskā plašsaziņas līdzekļa valde
 (1) Sabiedrisko elektronisko plašsaziņas līdzekli vada tā valde. Valde īsteno sabiedriskā elektroniskā plašsaziņas līdzekļa administratīvo pārvaldību.
-(2) Sabiedriskā elektroniskā plašsaziņas līdzekļa valdes sastāvā ir ne vairāk kā trīs locekļi.
+(2) (Izslēgta no 01.01.2025. ar 18.01.2024. likumu. Sk. pārejas noteikumu 9. punktu)
 (3) Par sabiedriskā elektroniskā plašsaziņas līdzekļa valdes locekli var ievēlēt personu, kurai ir:
 1) valsts valodas un vismaz vienas citas Eiropas Savienības oficiālās valodas prasme valdes locekļa uzdevumu profesionālai izpildei nepieciešamajā pakāpē;
 2) nevainojama reputācija;
