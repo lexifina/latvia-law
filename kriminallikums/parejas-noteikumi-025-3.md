@@ -1,1 +1,0 @@
-25.³ Pamatsodu - probācijas uzraudzība - sāk piemērot ar 2025. gada 1. janvāri pilngadīgām personām, kuras izdarījušas šā likuma 119., 120., 124., 126., 130., 130.¹, 132., 132.¹, 143., 145., 147., 150., 152., 153., 174., 230., 262., 262.¹, 269., 270., 272.¹ un 279. pantā paredzēto noziedzīgo nodarījumu pēc 2024. gada 31. decembra.

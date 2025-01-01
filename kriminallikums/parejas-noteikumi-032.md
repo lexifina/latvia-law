@@ -1,0 +1,1 @@
+32. Pamatsodu - probācijas uzraudzība - pilngadīgām personām sāk piemērot par noziedzīgiem nodarījumiem, kas izdarīti pēc 2024. gada 31. decembra, kā arī pilngadīgām personām, kuras noziedzīgu nodarījumu izdarījušas līdz 2024. gada 31. decembrim, bet vēl nav notiesātas.
