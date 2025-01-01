@@ -5,6 +5,7 @@
 2) (izslēgts ar 13.06.2019. likumu);
 3) apstiprina valsts pētījumu programmas;
 3¹) nosaka Latvijas zinātnes nozaru grupas, zinātnes nozares un apakšnozares;
+3²) apstiprina atbalsta programmas tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskajai izmantošanai (komercializācijai);
 4) veic citas šajā likumā noteiktās darbības.
 (3) Izglītības un zinātnes ministrija:
 1) izstrādā valsts zinātnes un tehnoloģijas attīstības politiku;

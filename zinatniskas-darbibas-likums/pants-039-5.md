@@ -1,2 +1,2 @@
-39.⁵ pants. Tiesību uz izgudrojumu vai augu šķirni saimnieciskā izmantošana (komercializācija)
-Valsts zinātniskajai institūcijai ir pienākums veikt nepieciešamās darbības, tai skaitā ļaut interesentiem iegādāties patentu, selekcionāra tiesības uz augu šķirni vai attiecīgo licenci, lai nodrošinātu to, ka tiesības uz izgudrojumu vai augu šķirni tiek saimnieciski izmantotas (komercializētas) valstij pēc iespējas izdevīgākā veidā.
+39.⁵ pants. Tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializācija
+Valsts zinātniskā institūcija veic tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializāciju pēc iespējas valstij izdevīgākā veidā, saņemot tādu atlīdzību, kas ir līdzvērtīga tirgus cenai.
