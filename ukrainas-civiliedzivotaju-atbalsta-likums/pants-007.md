@@ -2,8 +2,8 @@
 (1) Valsts nodrošina Ukrainas civiliedzīvotājiem:
 1) Sabiedrības integrācijas fonda sniegto atbalstu Eiropas Savienības politiku instrumentu pasākumu ietvaros;
 2) atbalstu Eiropas Atbalsta fonda vistrūcīgākajām personām darbības programmas un Eiropas Sociālā fonda Plus programmas materiālās nenodrošinātības mazināšanai 2021.-2027. gadam ietvaros;
-3) līdz 30 dienām ilgu sociālās rehabilitācijas pakalpojumu Sociālās integrācijas valsts aģentūrā, ja personai atbilstoši pašvaldības sociālā dienesta vai sociālo pakalpojumu sniedzēju reģistrā, ārstniecības iestāžu reģistrā vai izglītības iestāžu reģistrā reģistrēta pakalpojumu sniedzēja novērtējumam psihoemocionālā stāvokļa dēļ ir nepieciešams diennakts pakalpojums. Šā likuma 12. panta 1.² daļas 10. punktā minētajām personām sociālās rehabilitācijas pakalpojums tiek nodrošināts līdz 60 dienām;
-4) steidzamības kārtā valsts finansētus tehniskos palīglīdzekļus;
+3) līdz 60 dienām ilgu sociālās rehabilitācijas pakalpojumu Sociālās integrācijas valsts aģentūrā šā likuma 12. panta 1.² daļas 10. punktā minētajām personām;
+4) valsts finansētus tehniskos palīglīdzekļus. Pirmreizēji tehnisko palīglīdzekli Ukrainas civiliedzīvotājam piešķir steidzamības kārtā, atkārtoti - normatīvajos aktos par tehnisko palīglīdzekļu nodrošināšanu noteiktajā kārtībā;
 5) Nodarbinātības valsts aģentūras sniegtos pakalpojumus, tai skaitā Eiropas Savienības politiku instrumentu pasākumu ietvaros finansētos aktīvos nodarbinātības un preventīvos bezdarba samazināšanas pasākumus;
 6) (izslēgts ar 23.11.2023. likumu);
 7) dzīvniekiem noteikto obligāto veselības prasību izpildes un reģistrēšanas izmaksu segšanu;
