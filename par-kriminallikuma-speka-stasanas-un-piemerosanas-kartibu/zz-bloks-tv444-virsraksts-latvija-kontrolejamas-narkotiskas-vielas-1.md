@@ -930,7 +930,10 @@ levorfanols
 0,2 g
 10 g
 59¹
-(apakšpunkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 10. punktu)
+lisdeksamfetamīns
+608137-32-2
+0,6 g
+10 g
 60)
 metadons
 76-99-3
