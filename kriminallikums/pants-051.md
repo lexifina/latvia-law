@@ -1,11 +1,7 @@
-51.pants. Soda noteikšana pēc vairākiem spriedumiem
-(1) Ja notiesātais pēc sprieduma spēkā stāšanās, bet pirms pilnīgas soda izciešanas izdarījis jaunu noziedzīgu nodarījumu, tiesa jaunajā spriedumā noteiktajam sodam pilnīgi vai daļēji pievieno sodu, kas nav izciests pēc iepriekšējā sprieduma.
-(1¹) Nosakot sodu pēc vairākiem spriedumiem, sodam pievieno ne mazāk kā vienu trešdaļu no neizciestā soda, ja:
-1) persona, kura sodīta par smagu vai sevišķi smagu noziegumu, neizciestā soda laikā izdarījusi smagu vai sevišķi smagu noziegumu;
-2) ir konstatēts noziedzīgu nodarījumu recidīvs;
-3) jaunais noziedzīgais nodarījums ir izdarīts tiesas noteiktajā pārbaudes laikā;
-4) jaunais noziedzīgais nodarījums ir izdarīts laikā, kad persona ir bijusi nosacīti pirms termiņa atbrīvota no pamatsoda izciešanas.
-(2) Galīgajam sodam pēc vairākiem spriedumiem jābūt lielākam par sodu, kāds noteikts par jaunu izdarītu noziedzīgu nodarījumu, kā arī par neizciestā soda daļu pēc iepriekšējā sprieduma.
-(3) Saskaitot sodus pēc vairākiem spriedumiem, kopējais soda apmērs vai laiks drīkst pārsniegt attiecīgajam soda veidam noteikto maksimālo apmēru vai laiku, bet ne vairāk kā par pusi no attiecīgajam soda veidam noteiktā maksimālā apmēra vai laika. Saskaitīto brīvības atņemšanas sodu (izņemot mūža ieslodzījumu) kopējais laiks nedrīkst pārsniegt trīsdesmit gadus, bet, ja izdarīts sevišķi smags noziegums, kura rezultātā iestājusies cietušā nāve, brīvības atņemšanas soda kopējo laiku var noteikt arī uz visu mūžu (mūža ieslodzījums).
-(3¹) Ja uz mūžu notiesātais, kas ir atbrīvots no soda izciešanas nosacīti pirms termiņa, pirmstermiņa uzraudzības laikā izdara noziedzīgu nodarījumu, tiesa noteiktajam sodam pievieno mūža ieslodzījumu.
-(4) Spriedums šā likuma 51. un 52.panta izpratnē ir arī prokurora priekšraksts par sodu.
+51.pants. Soda noteikšana pēc vairākiem nolēmumiem
+(1) Galīgo sodu pēc vairākiem nolēmumiem nosaka tad, kad tie ir stājušies spēkā un vēl nav izpildīti. Šādā gadījumā galīgais sods nosakāms pēc nolēmumu kopības, pilnīgi vai daļēji saskaitot ar nolēmumiem piespriestos sodus. Daļēji saskaitot ar nolēmumiem piespriestos sodus, smagākajam piespriestajam sodam daļēji pieskaita citu piespriesto sodu.
+(1¹) Daļēji saskaitot ar nolēmumiem piespriestos sodus, smagākajam piespriestajam sodam pieskaita ne mazāk kā vienu trešdaļu no cita piespriestā soda, ja vismaz viens no sodiem ir piespriests par smagu vai sevišķi smagu noziegumu.
+(2) Galīgajā sodā pēc vairākiem nolēmumiem ieskaita soda daļu, kas jau ir izciesta. Sodu daļas, kuru izciešana laika ziņā sakrīt, tiek skaitītas kā viena izciesta soda daļa.
+(3) Saskaitot sodus pēc vairākiem nolēmumiem, kopējais soda apmērs vai laiks drīkst pārsniegt attiecīgajam soda veidam noteikto maksimālo apmēru vai laiku, bet ne vairāk kā par pusi no attiecīgajam soda veidam noteiktā maksimālā apmēra vai laika. Saskaitīto brīvības atņemšanas sodu (izņemot mūža ieslodzījumu) kopējais laiks nedrīkst pārsniegt trīsdesmit gadus, bet, ja izdarīts sevišķi smags noziegums, kura rezultātā iestājusies cietušā nāve, brīvības atņemšanas soda kopējo laiku var noteikt arī uz visu mūžu (mūža ieslodzījums). Ja ir piespriesta brīvības atņemšana uz visu mūžu, tad pārējie piespriestie sodi ir ietverami mūža ieslodzījumā.
+(3¹) (Izslēgta ar 13.06.2024. likumu)
+(4) Nolēmums šā likuma 51. un 52.panta izpratnē ir arī prokurora priekšraksts par sodu.

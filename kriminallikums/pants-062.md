@@ -1,4 +1,4 @@
-62.pants. Notiesājoša sprieduma izpildīšanas noilgums
+62. pants. Notiesājoša sprieduma un prokurora priekšraksta par sodu izpildīšanas noilgums
 (1) Notiesājošs spriedums un prokurora priekšraksts par sodu nav izpildāms, ja no dienas, kad tas stājies likumīgā spēkā, tā izpilde nav uzsākta šādos termiņos:
 1) divos gados - ja piespriesta īslaicīga brīvības atņemšana, sabiedriskais darbs vai naudas sods;
 1¹) divos gados pēc brīvības atņemšanas soda izciešanas - ja sods - sabiedriskais darbs - izpildāms patstāvīgi šā likuma 52.panta 2.¹ daļā paredzētajos gadījumos;

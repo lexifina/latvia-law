@@ -1,0 +1,1 @@
+34. Šā likuma regulējums par soda noteikšanu par vairākiem noziedzīgiem nodarījumiem un pēc vairākiem spriedumiem, kas bija spēkā līdz 2024. gada 31. decembrim, ir piemērojams attiecībā uz personām, kuras noziedzīgos nodarījumus izdarījušas līdz 2024. gada 31. decembrim.

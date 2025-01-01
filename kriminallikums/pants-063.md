@@ -10,7 +10,7 @@
 6) pēc pieciem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par trim gadiem, bet ne ilgāku par pieciem gadiem;
 7) pēc astoņiem gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par pieciem gadiem, bet ne ilgāku par desmit gadiem;
 8) pēc desmit gadiem - personas, kas izcietušas brīvības atņemšanas sodu, ilgāku par desmit gadiem.
-(4) Sodāmības dzēšanas termiņu skaita no dienas, kad persona pilnībā izcietusi pamatsodu un papildsodu. Papildsoda - mantas konfiskācija - izpilde neietekmē sodāmības dzēšanas termiņa skaitīšanu.
+(4) Sodāmības dzēšanas termiņu skaita no dienas, kad persona pilnībā izcietusi pamatsodu un papildsodu. Papildsoda - mantas konfiskācija - izpilde neietekmē sodāmības dzēšanas termiņa skaitīšanu. Ja galīgais sods noteikts pēc vairākiem nolēmumiem, tad sodāmības dzēšanas termiņu skaita no dienas, kad persona pilnībā izcietusi saskaņā ar šā likuma 51. un 52. pantu noteikto pamatsodu un papildsodu.
 (5) Ja persona likumā noteiktajā kārtībā pirms termiņa atbrīvota no soda, sodāmības dzēšanas termiņu skaita no dienas, kad tā atbrīvota no soda izciešanas, ievērojot soda faktiskās izciešanas laiku.
 (6) (Izslēgta ar 13.12.2012. likumu)
 (7) Ja persona, kas notiesāta ar brīvības atņemšanu, pēc soda izciešanas ar priekšzīmīgu uzvedību un godīgu attieksmi pret darbu pierādījusi savu labošanos, tiesa var noņemt tai sodāmību pirms šajā pantā norādīto termiņu izbeigšanās.
