@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 16. decembra noteikumi Nr. 380 \"Privāto pensiju fondu tehnisko rezervju aprēķināšanas noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2024/249.120",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-20",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2025-01-30",
+  "commission_reference": "MNE(2025)00761",
+  "nim_celex": "72016L2341LVA_202500761",
+  "nim_id": "202500761",
+  "transposes_celex": [
+    "32016L2341"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4d3496cd-1aa1-4ab1-bf85-4fc9420cba46",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
