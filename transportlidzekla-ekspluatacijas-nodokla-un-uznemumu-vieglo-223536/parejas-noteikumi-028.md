@@ -1,0 +1,1 @@
+28. Grozījumi šā likuma 12. pantā par tā pirmās daļas izteikšanu jaunā redakcijā, skaitļa un vārda "15 euro" aizstāšanu ar skaitli un vārdu "17 euro" 1.¹ daļā, skaitļa un vārda "25 euro" aizstāšanu ar skaitli un vārdu "30 euro" 1.² daļā un skaitļa un vārda "60 euro" aizstāšanu ar skaitli un vārdu "66 euro" otrajā daļā stājas spēkā 2027. gada 1. janvārī.

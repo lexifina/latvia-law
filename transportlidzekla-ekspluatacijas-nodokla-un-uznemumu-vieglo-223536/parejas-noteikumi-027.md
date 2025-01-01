@@ -1,0 +1,1 @@
+27. Ceļu satiksmes drošības direkcija šā likuma 5. panta 1.¹ daļā minēto informatīvo paziņojumu par transportlīdzekļa ekspluatācijas nodokļa samaksas termiņu nosūta, sākot ar 2026. gadu par 2025. gadu un iepriekšējiem gadiem.
