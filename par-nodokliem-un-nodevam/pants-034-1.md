@@ -7,11 +7,13 @@
 5) nodokļu maksātājs nav novērsis pārkāpumus, kas bija par pamatu tā izslēgšanai no Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistra;
 6) (izslēgts ar 01.11.2018. likumu);
 7) nodokļu maksātājs nav samaksājis nokavētos nodokļu maksājumus, kas tiek piedzīti ar lēmumu par nokavēto nodokļu maksājumu piedziņu, un Valsts ieņēmumu dienesta rīcībā ir apstiprināts akts par piedziņas neiespējamību.
-(2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par saimnieciskās darbības apturēšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 1.punktā minētais pārkāpums.
+8) pārvadātājs, kas veic pasažieru komercpārvadājumus ar taksometru, nenodrošina normatīvajos aktos autopārvadājumu jomā noteikto datu nosūtīšanu Valsts ieņēmumu dienestam tiešsaistes režīmā;
+9) tīmekļvietņu vai mobilo lietotņu pakalpojuma pasažieru komercpārvadājumos sniedzējs nenodrošina normatīvajos aktos autopārvadājumu jomā noteikto datu nosūtīšanu Valsts ieņēmumu dienestam tiešsaistes režīmā.
+(2) Valsts ieņēmumu dienests piecu darbdienu laikā pēc šā panta pirmajā daļā minētā pārkāpuma konstatācijas rakstveidā brīdina nodokļu maksātāju par saimnieciskās darbības apturēšanu, izņemot gadījumu, kad tiek konstatēts šā panta pirmās daļas 1.punktā minētais pārkāpums vai šā panta pirmās daļas 2., 3., 8. vai 9. punktā minētais pārkāpums saistībā ar pasažieru komercpārvadājumu ar taksometru vai vieglo automobili.
 (2¹) Brīdinot nodokļu maksātāju par saimnieciskās darbības apturēšanu, Valsts ieņēmumu dienestam vienlaikus ir tiesības:
 1) aizliegt nodokļu maksātājam veikt noteiktas darbības, kas vērstas uz izvairīšanos no nodokļu maksāšanas;
 2) piemērot liegumu nodokļu maksātāja reorganizācijai un likvidācijai.
-(3) Piecu darbdienu laikā pēc šā panta pirmās daļas 1.punktā minētā pārkāpuma konstatācijas Valsts ieņēmumu dienests pieņem lēmumu par nodokļu maksātāja (vai tā struktūrvienības, kurā noticis pārkāpums) saimnieciskās darbības apturēšanu.
+(3) Piecu darbdienu laikā pēc šā panta pirmās daļas 1. punktā minētā pārkāpuma vai pēc šā panta pirmās daļas 2., 3., 8. vai 9. punktā minētā pārkāpuma saistībā ar pasažieru komercpārvadājumu ar taksometru vai vieglo automobili konstatācijas Valsts ieņēmumu dienests pieņem lēmumu par nodokļu maksātāja (vai tā struktūrvienības, kurā noticis pārkāpums) saimnieciskās darbības apturēšanu.
 (4) Valsts ieņēmumu dienests aptur nodokļu maksātāja saimniecisko darbību, pieņemot lēmumu piecu darbdienu laikā, bez brīdināšanas, ja konstatē kādu no šā panta pirmajā daļā minētajiem pārkāpumiem un kādu no šādiem apstākļiem:
 1) nodokļu maksātāja adrese atbilst riska adresei;
 2) Valsts ieņēmumu dienesta rīcībā ir informācija, ka komercreģistrā kā nodokļu maksātāja vienīgais dalībnieks vai vienīgā amatpersona šā fakta konstatācijas brīdī ir norādīta tāda persona, kuras nolūks nav bijis veikt komercdarbību un kuras dati bez šīs personas piekrišanas tika izmantoti ierakstu izdarīšanai komercreģistrā vai kura par dalībnieku vai vienīgo amatpersonu kļuva pēc trešo personu lūguma;
@@ -24,7 +26,7 @@
 1) nosūta ziņas par nodokļu maksātāja saimnieciskās darbības apturēšanu Uzņēmumu reģistram, ja aptur Uzņēmumu reģistra žurnālā vai komercreģistrā ierakstītā nodokļu maksātāja saimniecisko darbību;
 2) pieņem lēmumu par aizlieguma atzīmes ierakstīšanu attiecīgajā kustamas mantas reģistrā vai citā publiskā reģistrā;
 3) aptur Valsts ieņēmumu dienesta izsniegto speciālo atļauju (licenču) darbību;
-4) iesniedz ministrijām, pašvaldībām un citām institūcijām obligāti izpildāmu prasību apturēt nodokļu maksātājam izsniegto speciālo atļauju (licenci) veikt komercdarbību;
+4) iesniedz ministrijām, pašvaldībām un citām institūcijām obligāti izpildāmu prasību apturēt vai anulēt nodokļu maksātājam izsniegto speciālo atļauju (licenci) veikt komercdarbību, anulēt tīmekļvietnes vai mobilās lietotnes pakalpojuma pasažieru komercpārvadājumos sniedzēja reģistrāciju;
 5) dod kredītiestādēm vai maksājumu pakalpojumu sniedzējiem rīkojumus par nodokļu maksātāja norēķinu operāciju apturēšanu;
 6) noplombē vai aizzīmogo nodokļu maksātāja struktūrvienību vai citu saimnieciskās darbības veikšanas vietu, ja to izvietojums šādu rīcību pieļauj, un veic citus normatīvajos aktos paredzētos nodokļu maksātāja saimniecisko darbību ierobežojošus pasākumus;
 7) nosūta pieprasījumu augstākā līmeņa domēna ".lv" reģistra turētājam par domēna vārda atslēgšanu.

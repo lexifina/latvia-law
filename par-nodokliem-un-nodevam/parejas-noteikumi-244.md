@@ -1,0 +1,1 @@
+244. Grozījumus šā likuma 107. panta pirmajā daļā un 116. panta pirmās daļas 7. punktā par skaitļa 350 000 aizstāšanu ar skaitli 170 000 piemēro būvniecības iecerēm, kurām atzīme par būvdarbu uzsākšanas nosacījumu izpildi ir izdarīta vai paskaidrojuma raksts akceptēts pēc 2025. gada 1. janvāra.
