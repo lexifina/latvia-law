@@ -1,0 +1,1 @@
+15. Grozījumi šā likuma 12. panta piektajā daļā par pieeju valsts noslēpumam ar to saistītā krimināllietā, civillietā, administratīvajā lietā vai administratīvā pārkāpuma lietā piemērojami attiecībā uz tām lietām, kuras izmeklēšanas iestādē, prokuratūrā vai tiesā saņemtas pēc 2025. gada 1. janvāra.
