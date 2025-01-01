@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 16. decembra noteikumi Nr. 375 \"Ieguldījumu brokeru sabiedrību pārvaldības sistēmas noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "248",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-19",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2026-11-04",
+  "commission_reference": "MNE(2026)08291",
+  "nim_celex": "72019L2034LVA_202608291",
+  "nim_id": "202608291",
+  "transposes_celex": [
+    "32019L2034"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/db3c8273-e7df-44ae-8e91-652dc92d55f2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
