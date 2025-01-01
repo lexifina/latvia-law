@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2023. gada 18. decembra noteikumi Nr. 264 \"Papildu prasības kredītiestāžu būtiskas, aizsargājamas vai konfidenciālas informācijas atklāšanai\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "248",
+  "official_journal_page": null,
+  "official_journal_date": "2023-12-22",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2026-01-23",
+  "commission_reference": "MNE(2026)00728",
+  "nim_celex": "72023L1791LVA_202600728",
+  "nim_id": "202600728",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ee86e265-63a6-4c69-8711-6b5d059fbb84",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
