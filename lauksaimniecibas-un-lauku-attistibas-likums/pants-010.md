@@ -10,7 +10,7 @@ b) oglekļa monitoringu,
 c) lauksaimniecībā izmantojamās zemes augšņu kartēšanu,
 d) augšņu apsaimniekošanas procesu plānošanu un uzskaiti;
 4) pilda references laboratorijas funkcijas augšņu jomā;
-5) (punkts stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. Pārejas noteikumu 28. punktu).
+5) nodrošina lauksaimniecībā izmantojamās zemes augšņu kartēšanu.
 (2) Ministru kabinets nosaka kārtību, kādā:
 1) iegūst un apkopo informāciju par lauksaimniecībā izmantojamās zemes auglības līmeni un tā pārmaiņām, kā arī atzīst augšņu agroķīmiskās izpētes pakalpojumu sniedzējus;
 2) iegūst un apkopo informāciju par oglekļa monitoringu lauksaimniecībā izmantojamā zemē;
