@@ -11,7 +11,7 @@
 3) ar telekomunikāciju pakalpojumiem un internetu saistītos izdevumus, kā arī izdevumus par ūdens skaitītāju uzstādīšanu un verifikāciju.
 (4) Mājokļa pabalsta apmēru aprēķina kā starpību starp garantēto minimālo ienākumu sliekšņu summu mājsaimniecībai, kas reizināta ar attiecīgu šā panta piektajā daļā noteikto koeficientu, un normatīvajos aktos noteiktajiem izdevumiem par mājokli un mājsaimniecības kopējiem ienākumiem.
 (5) Lai mājsaimniecībai aprēķinātu mājokļa pabalsta apmēru, garantēto minimālo ienākumu sliekšņu summai piemēro šādus koeficientus:
-1) atsevišķi dzīvojošai pensijas vecuma personai vai atsevišķi dzīvojošai personai ar invaliditāti - koeficientu 2,5;
-2) mājsaimniecībai, kurā ir tikai pensijas vecuma personas vai personas ar invaliditāti, - koeficientu 2;
-3) mājsaimniecībai, kurā ir pensijas vecuma personas vai personas ar invaliditāti un bērni, - koeficientu 2;
-4) pārējām mājsaimniecībām - koeficientu 1,5.
+1) atsevišķi dzīvojošai pensijas vecuma personai vai atsevišķi dzīvojošai personai ar invaliditāti - koeficientu 2,1;
+2) mājsaimniecībai, kurā ir tikai pensijas vecuma personas vai personas ar invaliditāti, - koeficientu 1,7;
+3) mājsaimniecībai, kurā ir pensijas vecuma personas vai personas ar invaliditāti un bērni, - koeficientu 1,7;
+4) pārējām mājsaimniecībām - koeficientu 1,3.
