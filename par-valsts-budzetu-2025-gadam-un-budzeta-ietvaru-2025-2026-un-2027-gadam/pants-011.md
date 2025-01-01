@@ -1,0 +1,1 @@
+11. pants. Noteikt izlīdzinātos izdevumus 2026. gadā 2 711 978 428 euro, tajā skaitā Eiropas Savienības struktūrfondu un Kohēzijas fonda izlīdzinātos izdevumus 1 508 192 066 euro, kopējās lauksaimniecības politikas un kopējās zivsaimniecības politikas izlīdzinātos izdevumus 599 609 114 euro un valsts parāda apkalpošanas izlīdzinātos izdevumus 604 177 248 euro.

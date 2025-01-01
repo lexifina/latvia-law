@@ -1,0 +1,1 @@
+23. pants. Lai nodrošinātu virssaistību neitrālu ietekmi uz vispārējās valdības budžeta bilanci Eiropas Savienības struktūrfondu un Kohēzijas fonda darbības programmas "Izaugsme un nodarbinātība" ietvaros, virssaistības tiek kompensētas no Eiropas Savienības fondu finansējuma līdz plānošanas perioda beigām atbilstoši Ministru kabineta lēmumam.

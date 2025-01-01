@@ -1,0 +1,2 @@
+59. pants. (1) Ekonomikas ministrijas budžeta programmā 33.00.00 "Ekonomikas attīstības programma" ieskaitītie līdzekļi izmantojami atbalsta pasākumiem Latvijas uzņēmējiem jaunu eksporta tirgu apguvē un eksporta palielināšanā uz prioritāriem mērķa tirgiem, tūrisma veicināšanas un attīstības pasākumiem, mājokļa pieejamības un administrēšanas izmaksu segšanai.
+(2) Šā panta pirmajā daļā minētajiem mērķiem apropriācijas pārdale starp Ekonomikas ministriju un citiem budžeta resoriem tiek veikta kā transferta pārskaitījums.

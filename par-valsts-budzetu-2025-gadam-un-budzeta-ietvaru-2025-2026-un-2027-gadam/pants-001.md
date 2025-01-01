@@ -1,0 +1,1 @@
+1. pants. Ar šā likuma sagatavošanu un ar valsts budžetu saistīto lēmumu pieņemšanu un rīcību īsteno Fiskālās disciplīnas likumā noteiktos fiskālās politikas principus un vidēja termiņa budžeta politikas prioritāro attīstības virzienu - drošība.

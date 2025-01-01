@@ -1,0 +1,1 @@
+26. pants. Noteikt, ka akciju sabiedrība "Latvijas valsts meži" ieskaita valsts pamatbudžeta ieņēmumos dividenžu maksājumu 2025. gadā (par 2024. pārskata gadu) 70 procentu apmērā no pārskata gada peļņas, bet ne mazāk kā 111 002 179 euro, uzņēmumu ienākuma nodokli aprēķinot un nomaksājot uzņēmumu ienākuma nodokli regulējošos normatīvajos aktos noteiktajā kārtībā.

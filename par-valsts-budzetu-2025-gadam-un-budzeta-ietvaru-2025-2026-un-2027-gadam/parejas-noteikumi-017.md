@@ -1,0 +1,1 @@
+Šā likuma 17. panta piektā daļa stājas spēkā 2026. gada 1. janvārī. Līdz šā likuma 17. panta piektās daļas spēkā stāšanās dienai piemēro obligāciju emitēšanas kārtību un nosacījumus, kas pieņemti saskaņā ar likuma "Par valsts budžetu 2023. gadam un budžeta ietvaru 2023., 2024. un 2025. gadam" 17. panta trešo daļu.

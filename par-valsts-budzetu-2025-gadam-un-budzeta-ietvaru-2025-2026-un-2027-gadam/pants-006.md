@@ -1,0 +1,1 @@
+6. pants. Vispārējās valdības budžeta bilance atbilstoši Eiropas nacionālo un reģionālo kontu sistēmas Eiropas Savienībā metodoloģijai, neieskaitot fiskālā nodrošinājuma rezervi, 2025. gadā ir -2,9 procenti no iekšzemes kopprodukta, 2026. gadā -2,6 procenti no iekšzemes kopprodukta un 2027. gadā -2,4 procenti no iekšzemes kopprodukta.

@@ -1,0 +1,1 @@
+46. pants. Lai nodrošinātu resursu efektīvu izlietojumu, piesaistīto ekspertu vietā, ja nepieciešams, Fiskālās disciplīnas padome ārējos normatīvajos aktos noteikto funkciju izpildei ir tiesīga algot darbiniekus kārtējam gadam piešķirto valsts budžeta līdzekļu ietvaros. Fiskālās disciplīnas padome pielīdzināma budžeta iestādei Likuma par budžetu un finanšu vadību izpratnē.

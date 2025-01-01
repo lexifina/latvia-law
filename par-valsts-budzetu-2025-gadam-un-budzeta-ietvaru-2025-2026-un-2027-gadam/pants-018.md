@@ -1,0 +1,1 @@
+18. pants. Noteikt, ka iedzīvotāju ienākuma nodokļa ieņēmumu sadalījums starp valsts budžetu un pašvaldību budžetiem 2025., 2026. un 2027. gadā ir šāds: pašvaldību budžetiem - 78 procenti un valsts budžetam - 22 procenti.

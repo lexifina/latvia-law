@@ -1,0 +1,1 @@
+35. pants. Noteikt maksimālo valsts parādu 2025. gada beigās nominālvērtībā 21 000 000 000 euro apmērā, ņemot vērā Valsts kases administrētajiem aizņēmumiem un valsts parāda vērtspapīriem piesaistīto atvasināto finanšu instrumentu valūtas rezultātu.

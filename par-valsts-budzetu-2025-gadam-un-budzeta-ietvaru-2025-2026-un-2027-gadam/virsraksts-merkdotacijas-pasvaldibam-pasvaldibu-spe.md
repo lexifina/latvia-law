@@ -1,0 +1,1 @@
+Mērķdotācijas pašvaldībām - pašvaldību speciālo pirmsskolas izglītības grupu pedagogu darba samaksai un valsts sociālās apdrošināšanas obligātajām iemaksām, speciālajām izglītības iestādēm, kas nodrošina internāta pakalpojumus

@@ -1,0 +1,1 @@
+Mērķdotācijas pašvaldībām - pašvaldību pamata un vispārējās vidējās izglītības iestāžu, pašvaldību speciālās izglītības iestāžu un pašvaldību profesionālās izglītības iestāžu pedagogu darba samaksai un valsts sociālās apdrošināšanas obligātajām iemaksām

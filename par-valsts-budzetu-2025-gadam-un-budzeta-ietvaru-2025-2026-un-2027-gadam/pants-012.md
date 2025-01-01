@@ -1,0 +1,1 @@
+12. pants. Noteikt izlīdzinātos izdevumus 2027. gadā 2 249 119 646 euro, tajā skaitā Eiropas Savienības struktūrfondu un Kohēzijas fonda izlīdzinātos izdevumus 969 032 146 euro, kopējās lauksaimniecības politikas un kopējās zivsaimniecības politikas izlīdzinātos izdevumus 618 058 615 euro un valsts parāda apkalpošanas izlīdzinātos izdevumus 662 028 885 euro.
