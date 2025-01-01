@@ -1,0 +1,1 @@
+13. Līdz 2026. gada 31. maijam elektroniskā formā pārvērstu papīra dokumentu var apliecināt (šā likuma 300. panta pirmās daļas 1. punkts) arī tikai ar elektronisko parakstu regulas Nr. 910/2014 3. panta 10. punkta izpratnē.

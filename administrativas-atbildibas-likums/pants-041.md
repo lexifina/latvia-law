@@ -7,7 +7,9 @@
 5) zināt, par kāda pārkāpuma izdarīšanu tā tiek saukta pie atbildības;
 6) izteikt lūgumus;
 7) iesniegt pierādījumus;
-8) pārsūdzēt administratīvā pārkāpuma lietā pieņemto lēmumu.
+8) pārsūdzēt administratīvā pārkāpuma lietā pieņemto lēmumu;
+9) īstenot aizstāvību ar pašas izvēlēta aizstāvja līdzdalību;
+10) atsaukt aizstāvja iesniegtu sūdzību vai pieteikumu vai izteiktu lūgumu.
 (2) Pie atbildības saucamajai personai ir šādi pienākumi:
 1) noteiktajā laikā ierasties amatpersonas, augstākas amatpersonas vai tiesas norādītajā vietā;
 2) nekavēt un netraucēt administratīvā pārkāpuma procesa norisi;

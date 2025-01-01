@@ -1,0 +1,5 @@
+252.² pants. Pieteikuma izskatīšana
+(1) Par pieteikuma par administratīvā pārkāpuma procesā pieļautas prettiesiskas rīcības konstatēšanu pieņemšanu lemj attiecīgās tiesas tiesnesis.
+(2) Pieteikuma pieņemšana izskatīšanai atsakāma, ja nav ievērotas šā likuma 252.¹ panta prasības. Par šādu rajona (pilsētas) tiesas tiesneša lēmumu var iesniegt blakus sūdzību apgabaltiesā 10 darbdienu laikā no lēmuma paziņošanas dienas. Par blakus sūdzību pieņemtais apgabaltiesas tiesneša lēmums nav pārsūdzams. Ja pieteikums iesniedzams apgabaltiesā, apgabaltiesas tiesneša lēmums par atteikšanos pieņemt pieteikumu izskatīšanai nav pārsūdzams.
+(3) Pieteikumu par administratīvā pārkāpuma procesā pieļautas prettiesiskas rīcības konstatēšanu izskata rakstveida procesā. Tiesa pēc savas iniciatīvas var izskatīt pieteikumu mutvārdu procesā, ievērojot šā likuma 25. un 26. nodaļas noteikumus.
+(4) Pieteikumu par apgabaltiesas pieļautu prettiesisku rīcību izskata tā pati apgabaltiesa citā sastāvā vai, ja tas nav iespējams, cita apgabaltiesa.

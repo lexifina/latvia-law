@@ -1,0 +1,6 @@
+252.¹ pants. Pieteikuma iesniegšana
+(1) Persona var iesniegt pieteikumu par administratīvā pārkāpuma procesā pieļautas prettiesiskas rīcības konstatēšanu, ja tas nepieciešams, lai persona varētu īstenot tiesības uz atlīdzinājumu par kaitējumu, kas tai nodarīts ar administratīvā pārkāpuma procesā veicamu publisko tiesību juridiskās personas rīcību.
+(2) Persona pieteikumu var iesniegt, ja prettiesiskas rīcības konstatēšanu nav iespējams panākt, iesniedzot sūdzību administratīvā pārkāpuma procesā, vai nolēmumā par iesniegto sūdzību jautājums par prettiesiskas rīcības konstatēšanu nav izlemts.
+(3) Pieteikumu var iesniegt viena mēneša laikā no dienas, kad stājies spēkā galīgais nolēmums administratīvā pārkāpuma lietā. Ja persona nav procesa dalībnieks, pieteikumu var iesniegt viena mēneša laikā no dienas, kad veikta prettiesiska rīcība.
+(4) Pieteikumu iesniedz rajona (pilsētas) tiesā. Par rajona (pilsētas) tiesas vai apgabaltiesas rīcību pieteikumu iesniedz apgabaltiesā.
+(5) Pieteikumu iesniedz tiesā atbilstoši pieteikuma iesniedzēja deklarētajai dzīvesvietai vai juridiskajai adresei. Ja personai nav deklarētās dzīvesvietas Latvijā vai juridiskās personas adrese neatrodas Latvijā, pieteikumu iesniedz tiesā atbilstoši prettiesiskas rīcības veikšanas vietai.

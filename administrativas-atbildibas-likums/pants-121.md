@@ -17,4 +17,4 @@
 4) lēmuma pieņemšanas tiesisko pamatu;
 5) citas ziņas, ja tas ir nepieciešams;
 6) informāciju par to, ka šis lēmums nav pārsūdzams, kā arī informāciju par to, ka prokurors ir tiesīgs iesniegt protestu.
-(3) Administratīvā pārkāpuma lietai numuru piešķir Iekšlietu ministrijas Informācijas centrs.
+(3) Administratīvā pārkāpuma lietai numuru piešķir Iekšlietu ministrijas Informācijas centrs vai valsts akciju sabiedrība "Ceļu satiksmes drošības direkcija".

@@ -9,5 +9,5 @@
 6) sūdzības iesniedzēja prasījumu;
 7) sūdzībai pievienotos dokumentus;
 8) sūdzības sastādīšanas laiku.
-(3) Sūdzību paraksta iesniedzējs vai juridiskās personas pārstāvis.
-(4) Sūdzībai pievieno attiecīgu pilnvaru vai citu dokumentu, kas apliecina pārstāvja vai aizstāvja pilnvarojumu iesniegt sūdzību.
+(3) Sūdzību paraksta iesniedzējs.
+(4) Sūdzībai pievieno dokumentu, kas apliecina aizstāvja vai pārstāvja tiesības pārstāvēt personu vai īstenot tās aizstāvību.

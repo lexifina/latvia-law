@@ -1,0 +1,4 @@
+296. pants. Informācijas sistēmas un personas datu apstrādes mērķis
+(1) Administratīvā pārkāpuma procesa atbalsta sistēma un Transportlīdzekļu un to vadītāju valsts reģistrs (turpmāk šajā nodaļā - informācijas sistēma) ir valsts informācijas sistēma, kas nodrošina iestādes, amatpersonas un augstākas amatpersonas uzdevumu īstenošanu elektroniskā vidē un ar administratīvā pārkāpuma procesu saistītas informācijas apstrādi.
+(2) Informācijas sistēmā apstrādā personu identificējošus datus, kontaktinformāciju un citus personas datus, tostarp īpašo kategoriju datus, lai identificētu personu un ar to sazinātos, nodrošinātu efektīvu administratīvā pārkāpuma procesu, kā arī noskaidrotu apstākļus, kam ir nozīme administratīvā pārkāpuma lietas pareizā izlemšanā.
+(3) Transportlīdzekļu un to vadītāju valsts reģistru administratīvā pārkāpuma procesā izmanto, lai nodrošinātu procesa īstenošanu par šā likuma 162. panta pirmajā daļā minētu administratīvo pārkāpumu.

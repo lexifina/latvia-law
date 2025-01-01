@@ -1,0 +1,1 @@
+15. Ar grozījumu spēkā stāšanos, kas paredz nepilngadīgajam nepiemērot piespiedu naudu, pienākumu atlīdzināt procesuālos izdevumus vai dabas resursiem nodarītos zaudējumus, nekavējoties izbeidzama nolēmuma izpilde šajā daļā.

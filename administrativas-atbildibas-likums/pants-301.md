@@ -1,0 +1,3 @@
+301. pants. Dokumentu parakstīšana
+(1) Prasība pēc personas paraksta ir izpildīta arī tad, ja dokuments ir sagatavots Administratīvā pārkāpuma procesa atbalsta sistēmā, Transportlīdzekļu un to vadītāju valsts reģistrā, Tiesu informatīvajā sistēmā vai e-lietas portālā un parakstīts ar elektronisko parakstu regulas Nr. 910/2014 3. panta 10. punkta izpratnē.
+(2) Prasība pēc personas paraksta ir izpildīta arī tad, ja procesuālā darbība vai personas gribas izpaudums (piemēram, personas apliecinājums, ka tā ir brīdināta par kriminālatbildību, mutvārdu pilnvarojums pārstāvim vai aizstāvim vai tā atsaukums vai mutvārdu lūgums) ir fiksēts ar tehniskajiem līdzekļiem.

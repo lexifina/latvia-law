@@ -5,3 +5,4 @@
 (4) Administratīvā pārkāpuma lietu var izskatīt rakstveida procesā, ja tam piekrīt procesa dalībnieki.
 (5) Ja administratīvā pārkāpuma lieta izskatāma rakstveida procesā, amatpersona pēc sava ieskata atsevišķas procesuālās darbības var veikt vai procesuālo jautājumu var izlemt mutvārdu procesā.
 (6) Izskatot administratīvā pārkāpuma lietu rakstveida procesā, amatpersona iepazīstas ar lietas materiāliem, procesa dalībnieku iesniegtajiem materiāliem un pieprasa rakstveidā iesniegt nepieciešamo informāciju un pierādījumus.
+(7) Administratīvā pārkāpuma lietu izskata slēgtā procesā, ja tas nepieciešams valsts noslēpuma, adopcijas noslēpuma un ierobežotas pieejamības informācijas aizsardzībai, kā arī ja administratīvā pārkāpuma lietā pie atbildības saucamā persona vai cietušais ir nepilngadīgais.

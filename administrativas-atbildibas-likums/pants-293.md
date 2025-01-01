@@ -1,2 +1,2 @@
 293. pants. Saistība ar citiem nolīgumiem un pasākumiem
-Šā likuma 38. un 39. nodaļas noteikumi neliedz Eiropas Savienības dalībvalstīm savstarpēji piemērot divpusējos vai daudzpusējos nolīgumus vai pasākumus tiktāl, ciktāl šādi nolīgumi vai pasākumi ļauj pārsniegt minēto nodaļu noteikumos ietvertās prasības un palīdz vienkāršot vai atvieglot procedūras attiecībā uz nolēmuma par mantiska rakstura piedziņu izpildi.
+Šā likuma 37. un 38. nodaļas noteikumi neliedz Eiropas Savienības dalībvalstīm savstarpēji piemērot divpusējos vai daudzpusējos nolīgumus vai pasākumus tiktāl, ciktāl šādi nolīgumi vai pasākumi ļauj pārsniegt minēto nodaļu noteikumos ietvertās prasības un palīdz vienkāršot vai atvieglot procedūras attiecībā uz nolēmuma par mantiska rakstura piedziņu izpildi.

@@ -10,4 +10,4 @@
 7) sūdzībai pievienoto dokumentu sarakstu (ja tādi ir pievienoti);
 8) sūdzības sastādīšanas laiku un vietu.
 (3) Sūdzībā var norādīt citas ziņas, kas var būt svarīgas administratīvā pārkāpuma lietas izskatīšanai, kā arī viedokli par administratīvā pārkāpuma lietas izskatīšanu mutvārdu procesā.
-(4) Sūdzību paraksta iesniedzējs. Ja sūdzību iesniedzēja vārdā iesniedz pārstāvis, viņš sūdzībai pievieno attiecīgu pilnvaru vai citu dokumentu, kas apliecina pārstāvja pilnvarojumu iesniegt sūdzību.
+(4) Sūdzību paraksta iesniedzējs. Sūdzībai pievieno dokumentu, kas apliecina aizstāvja vai pārstāvja tiesības pārstāvēt personu vai īstenot tās aizstāvību.

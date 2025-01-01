@@ -1,0 +1,3 @@
+307. pants. Tiesības atcelt prettiesisku automatizēti pieņemtu lēmumu
+(1) Amatpersona pēc savas iniciatīvas vai uz personas izteikta viedokļa pamata var atcelt automatizēti pieņemtu lēmumu, ja tas ir prettiesisks un par to nav iesniegta sūdzība. Atceļot lēmumu, amatpersona piemēro šā likuma 174. panta prasības.
+(2) Ja par automatizēti pieņemtu lēmumu ir iesniegta sūdzība, amatpersona var atcelt pieņemto lēmumu un izbeigt administratīvā pārkāpuma procesu, nenosūtot sūdzību izskatīšanai pēc piekritības. Persona, kurai ir tiesības pārsūdzēt administratīvā pārkāpuma lietā pieņemto lēmumu, var pārsūdzēt šo lēmumu saskaņā ar šajā likumā noteikto administratīvā pārkāpuma lietā pieņemtā lēmuma pārsūdzēšanas kārtību.

@@ -1,5 +1,5 @@
 174. pants. Augstākas amatpersonas tiesības atcelt prettiesisku lēmumu administratīvā pārkāpuma lietā
-(1) Augstāka amatpersona pēc savas iniciatīvas var atcelt amatpersonas pieņemto lēmumu, ja tas ir prettiesisks. Lēmumu nevar atcelt, ja tas ir izpildīts. Atceļot lēmumu, augstāka amatpersona:
+(1) Augstāka amatpersona pēc savas iniciatīvas var atcelt amatpersonas pieņemto lēmumu, ja tas ir prettiesisks. Atceļot lēmumu, augstāka amatpersona:
 1) izbeidz administratīvā pārkāpuma procesu un, ja nepieciešams, administratīvā pārkāpuma lietas materiālus nosūta kompetentajai iestādei;
 2) pieņem jaunu lēmumu par soda piemērošanu.
 (2) Šā panta pirmās daļas 2. punktā paredzētais lēmums nedrīkst būt pie atbildības saucamajai personai nelabvēlīgāks, izņemot gadījumu, kad noteiktais sods ir mazāks par likumā attiecīgajam pārkāpumam noteikto minimālo sankciju. Šādā gadījumā sodu nosaka likumā paredzētās minimālās sankcijas apmērā.

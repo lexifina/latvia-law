@@ -7,6 +7,6 @@
 2) nav iespējams izskatīt administratīvā pārkāpuma lietu tāpēc, ka nav ieradies liecinieks, eksperts vai tulks;
 3) persona nespēj piedalīties tiesas sēdē, izmantojot videokonferenci, tehnisku vai citu no tiesas neatkarīgu iemeslu dēļ;
 4) pastāv citi svarīgi iemesli.
-(3) Lēmumu par administratīvā pārkāpuma lietas izskatīšanas atlikšanu ieraksta tiesas sēdes protokolā. Lēmumā norāda procesuālās darbības, kuras izpildāmas līdz nākamajai tiesas sēdei, kā arī nosaka nākamās tiesas sēdes norises laiku. Nākamās tiesas sēdes norises dienu un laiku tiesa paziņo pret parakstu personām, kuras ieradušās uz tiesas sēdi. Klātneesošās personas no jauna uzaicina uz tiesas sēdi.
+(3) Lēmumu par administratīvā pārkāpuma lietas izskatīšanas atlikšanu ieraksta tiesas sēdes protokolā. Lēmumā norāda procesuālās darbības, kuras izpildāmas līdz nākamajai tiesas sēdei, kā arī nosaka nākamās tiesas sēdes norises laiku. Nākamās tiesas sēdes norises dienu un laiku tiesa paziņo personām, kuras ieradušās uz tiesas sēdi, un to paraksts par paziņošanu nav nepieciešams. Klātneesošās personas no jauna uzaicina uz tiesas sēdi.
 (4) Ja tiesas sēdē ir klāt visi procesa dalībnieki, tiesa, atliekot administratīvā pārkāpuma lietas izskatīšanu, var nopratināt ieradušos lieciniekus. Nopratinātos lieciniekus, ja nepieciešams, var izsaukt uz nākamo tiesas sēdi.
 (5) Ja tiesa administratīvā pārkāpuma lietas izskatīšanu ir atlikusi, tad, to atsākot, iepriekš veiktās procesuālās darbības neatkārto.

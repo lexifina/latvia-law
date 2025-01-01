@@ -1,6 +1,7 @@
 125. pants. Amatpersonas darbības, sagatavojot administratīvā pārkāpuma lietu izskatīšanai
 (1) Sagatavojot administratīvā pārkāpuma lietu izskatīšanai, amatpersona veic šādas darbības:
 1) izlemj, vai administratīvā pārkāpuma lietas izskatīšana ir tās kompetencē;
+1¹) izlemj, vai administratīvā pārkāpuma lieta tiks izskatīta atklātā vai slēgtā procesā;
 2) veic izmeklēšanas darbības;
 3) piemēro procesuālos piespiedu līdzekļus;
 4) izlemj jautājumu par cietušo un aizskarto mantas īpašnieku;

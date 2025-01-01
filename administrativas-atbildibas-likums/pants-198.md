@@ -8,5 +8,5 @@ c) par pierādījumu pieņemšanu vai - pēc sūdzības iesniedzēja lūguma - p
 d) vai administratīvā pārkāpuma lieta nav izskatāma mutvārdu procesā;
 2) veic citas nepieciešamās procesuālās darbības.
 (3) Tiesnesis var uzdot procesa dalībniekiem rakstveidā atbildēt uz jautājumiem par administratīvā pārkāpuma lietas faktiskajiem apstākļiem un juridisko būtību.
-(4) Administratīvā pārkāpuma lietā, kuru izskata rakstveida procesā, tiesnesis procesa dalībniekiem nosaka saprātīgu termiņu paskaidrojumu, liecību un pierādījumu iesniegšanai, lūgumu un noraidījuma pieteikšanai tiesas sastāvam, kā arī nosaka dienu, kad nolēmums saņemams tiesas kancelejā.
-(5) Tiesnesis var noteikt, ka procesuālās darbības tiesas sēdē tiek veiktas, izmantojot videokonferenci, ja procesa dalībnieks, liecinieks vai eksperts tiesas sēdes laikā atrodas citā vietā un nevar ierasties tiesas sēdes norises vietā.
+(4) Administratīvā pārkāpuma lietā, kuru izskata rakstveida procesā, tiesnesis procesa dalībniekiem nosaka saprātīgu termiņu paskaidrojumu, liecību un pierādījumu iesniegšanai, lūgumu un noraidījuma pieteikšanai tiesas sastāvam, kā arī nosaka nolēmuma paziņošanas dienu.
+(5) Tiesnesis var noteikt, ka procesuālās darbības tiesas sēdē tiek veiktas, izmantojot videokonferenci.

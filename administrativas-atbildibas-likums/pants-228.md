@@ -1,5 +1,3 @@
 228. pants. Sprieduma paziņošana
-(1) Diena, kad spriedums pieejams tiesas kancelejā (šā likuma 198. panta ceturtā daļa vai 213. panta pirmā daļa), ir uzskatāma par sprieduma paziņošanas dienu.
-(2) Pēc procesa dalībnieka lūguma tiesa spriedumu paziņo, izmantojot elektroniskos sakarus.
-(3) Pēc procesa dalībnieka pamatota lūguma tiesa spriedumu paziņo, izmantojot pasta pakalpojumus.
-(4) Šā panta otrajā un trešajā daļā norādītajos gadījumos sprieduma norakstu nosūta divu darbdienu laikā no sprieduma sastādīšanas dienas.
+(1) Diena, kad spriedums paziņots, izmantojot oficiālo elektronisko adresi vai e-lietas portālu, vai, ja persona nav piekritusi saziņai izmantot e-lietas portālu, - diena, no kuras spriedums pieejams tiesas kancelejā, ir uzskatāma par sprieduma paziņošanas dienu.
+(2) Ne vēlāk kā 10 dienas līdz tiesas (tiesneša) noteiktajai sprieduma paziņošanas dienai (šā likuma 198. panta ceturtā daļa vai 213. panta pirmā daļa) vai tiesas (tiesneša) noteiktajā termiņā procesa dalībnieks var izteikt tiesai lūgumu spriedumu paziņot, izmantojot citus elektroniskos sakaru līdzekļus vai pasta pakalpojumus. Sprieduma paziņošanas dienu nosaka saskaņā ar Paziņošanas likumu.
