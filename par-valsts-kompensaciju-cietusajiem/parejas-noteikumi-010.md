@@ -1,0 +1,1 @@
+10. Valsts kompensācijas pieprasījumus, kurus Tiesu administrācija saņēmusi līdz 2024. gada 31. decembrim vai kurus iesniegusi persona, kas par cietušo aiz neuzmanības izdarītā noziedzīgā nodarījumā atzīta līdz 2024. gada 31. decembrim, Tiesu administrācija izskata un lēmumu pieņem atbilstoši šā likuma regulējumam, kas bija spēkā līdz 2024. gada 31. decembrim.
