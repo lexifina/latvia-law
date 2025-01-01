@@ -1,1 +1,0 @@
-697. Ja mantojuma atstājēja kreditori vai legātāri prasa, lai mantot aicinātais izteic savu gribu par mantojuma pieņemšanu, tad viņam tā jāizteic notāra noliktā uzaicinājuma termiņā; ja līdz šā termiņa notecējumam viņš mantojumu neatraida, tad atzīstams, ka viņš to pieņēmis.

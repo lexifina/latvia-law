@@ -1,0 +1,1 @@
+662.¹ Aizgādnis var ar mantojumu saistītajās lietās un mantojuma interesēs noslēgt visādus līgumus, kā arī pieņemt un izdarīt maksājumus. Visa tāda darbība saista mantojumu un mantiniekus, ja vien aizgādnis to paveicis kā krietns un rūpīgs saimnieks. Pārvaldot mantojumu, aizgādnim jāņem vērā mantojuma atstājēja griba, ja tāda ir zināma.

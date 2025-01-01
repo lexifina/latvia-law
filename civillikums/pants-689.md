@@ -1,1 +1,1 @@
-689. Neviens nav spiests pieņemt viņam piekritušo mantojumu, bet gan katrs var pēc patikas to pieņemt vai to atraidīt. Atraidīt mantojumu nevar vienīgi līgumiskais mantinieks, ja viņš nav šo tiesību sev noteikti pielīdzis.
+689. Neviens nav spiests pieņemt viņam piekritušo mantojumu, bet gan katrs var pēc patikas to pieņemt vai to atraidīt.

@@ -1,1 +1,1 @@
-662. Aizgādņi mantojuma pārvaldībā un pārstāvēšanā rīkojas patstāvīgi un mantojuma vārdā. Aizgādnis mantojumu pārvalda ar tādu pašu rūpību un apzinību, ar kādu viņš kā labs saimnieks pārvalda savas paša lietas, ievērojot 269.pantā un turpmākajos pantos noteikto.
+662. Aizgādņi mantojuma pārvaldībā un pārstāvēšanā rīkojas patstāvīgi un mantojuma vārdā. Aizgādnis mantojumu pārvalda ar tādu pašu rūpību un apzinību, ar kādu viņš kā labs saimnieks pārvalda savas paša lietas. Aizgādnis atbild par zaudējumiem, ko viņš nodarījis mantojumam.

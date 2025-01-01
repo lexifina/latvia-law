@@ -1,1 +1,0 @@
-761. Lejupējiem viss, ko viņi iepriekšēji saņēmuši, jāpievieno ne tikai vienam otra labā, bet arī par labu tam no vecākiem, kurš otru pārdzīvojis un kopīgi ar viņiem manto. Šajā gadījumā tomēr arī pārdzīvojušam laulātam jāpievieno manta, ko viņam piešķīris mirušais dzīvs būdams.

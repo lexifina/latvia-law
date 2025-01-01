@@ -1,1 +1,0 @@
-698. Tāpat notārs noliek termiņu mantot aicinātam arī tad, kad tās personas, kurām tieši pēc viņa ir tiesība uz mantojumu, kā piemēram, substitūts vai pēcmantinieks, prasa, lai viņš izteic savu gribu. Bet ja šādā gadījumā mantot aicinātais līdz šā termiņa notecējumam savu gribu neizteic, tad atzīstams, ka viņš mantojumu atraidījis.

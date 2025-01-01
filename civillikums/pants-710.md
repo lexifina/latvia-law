@@ -1,1 +1,1 @@
-710. Kamēr mantinieks sastāda inventāru, kreditori un legātāri nevar vērst pret viņu savus prasījumus, un viņu prasību noilguma tecējums pa visu uzaicinājumā noteikto termiņu apstājas.
+710. Kamēr tiek sastādīts mantojuma saraksts, kreditori un legātāri nevar vērst savus prasījumus pret mantiniekiem, un viņu prasību noilguma tecējums pa visu sludinājumā par mantojuma atklāšanos noteikto termiņu apstājas.
