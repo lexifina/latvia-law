@@ -10,7 +10,7 @@
 6) sagatavo tiesnešu amatu sarakstus un apstiprina tiesas darbinieku amatu sarakstus;
 7) apstiprina tiesas darbinieku amatu aprakstus;
 8) saskaņojot ar tiesas priekšsēdētāju, pieņem darbā un atlaiž no darba tiesas darbiniekus, izdod rīkojumus par darbinieku atvaļinājumiem, komandējumiem un apmācību;
-9) plāno un nodrošina tiesnešu, tiesas darbinieku apmācību;
+9) (izslēgts no 01.01.2025. ar 24.10.2024. likumu);
 10) pieprasa no tiesām nepieciešamās ziņas un no to darbiniekiem - paskaidrojumus;
 11) nodrošina tiesneša iepazīstināšanu ar disciplinārlietas materiāliem, kā arī nosūta disciplinārlietas materiālus Tiesnešu disciplinārkolēģijai;
 12) disciplināri soda tiesas darbiniekus par konstatētajiem darba disciplīnas pārkāpumiem;
