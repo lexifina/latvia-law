@@ -1,0 +1,1 @@
+11. Līdz dienai, kad stājas spēkā Nodokļu un muitas policijas likums, šā likuma 11. panta sešpadsmitās daļas 3. punktā Nodokļu un muitas policijai paredzētās tiesības attiecināmas uz Valsts ieņēmumu dienesta Nodokļu un muitas policijas pārvaldi.

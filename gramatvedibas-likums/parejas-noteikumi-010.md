@@ -1,0 +1,1 @@
+10. Ministru kabinets līdz 2025. gada 1. maijam izdod šā likuma 11. panta piecpadsmitajā daļā minētos noteikumus. Strukturētu elektronisko rēķinu dati iesniedzami Valsts ieņēmumu dienestam, sākot no 2026. gada 1. janvāra.

@@ -1,0 +1,1 @@
+8. Šā likuma 11. panta četrpadsmitajā daļā uzņēmumam noteiktais pienākums attaisnojuma dokumentu, kuru izsniedz samaksāšanai citam Latvijas Republikā reģistrētam uzņēmumam, kas nav budžeta iestāde, noformēt kā strukturētu elektronisko rēķinu piemērojams, sākot no 2026. gada 1. janvāra.

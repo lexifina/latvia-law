@@ -11,16 +11,16 @@ c) secīgu darbību kopuma veikšana lietvedības sistēmā;
 6) manta - uzņēmuma saimnieciskajai darbībai vai mērķu īstenošanai izmantotie līdzekļi, tai skaitā nauda un naudas izteiksmē novērtējamas lietas - kustamas vai nekustamas ķermeniskas lietas (piemēram, zemes gabali, ēkas, transportlīdzekļi, preces) un bezķermeniskas lietas (piemēram, koncesijas, licences, finanšu instrumenti, aizdevumi un citi prasījumi), ko uzņēmums norāda finanšu pārskata sastāvdaļas - bilances (ja tādu sagatavo) - aktīvā;
 7) saimnieciskais darījums - jebkurš tiesisks darījums (Civillikuma izpratnē), kā arī katrs fakts vai notikums, kas rada pārmaiņas uzņēmuma saistībās vai mantas stāvoklī. Pārmaiņas mantas stāvoklī ir mantas sastāva vai vērtības izmaiņas;
 8) saimnieciskā darījuma diena - jebkura diena, kurā faktiski notikušas pārmaiņas uzņēmuma saistībās vai mantas stāvoklī;
-9) strukturēts elektroniskais rēķins - rēķins, kurš sagatavots, nosūtīts un saņemts strukturētā elektroniskā formātā, kas ļauj to automātiski un elektroniski apstrādāt, un kurš atbilst Ministru kabineta noteiktajam publiskajos iepirkumos piemērojamā elektroniskā rēķina standartam;
+9) strukturēts elektroniskais rēķins - rēķins, kurš sagatavots, nosūtīts un saņemts strukturētā elektroniskā formātā, kas ļauj to automātiski un elektroniski apstrādāt, un kurš atbilst Eiropas Savienības standartam LVS EN 16931-1:2017 "Elektroniskie rēķini. 1. daļa. Elektronisko rēķinu pamatelementu semantisko datu modelis", un kuru uzņēmums izraksta atbilstoši tehniskajai specifikācijai LVS CEN/TS 16931-2:2017 "Elektroniskie rēķini. 2. daļa: Standartam EN 16931-1 atbilstošo sintakšu saraksts";
 10) uzņēmuma vadītājs:
 a) personālsabiedrībā un Eiropas ekonomisko interešu grupā - visi šīs sabiedrības vai grupas biedri vai tie sabiedrības vai grupas biedri, kuri ir pilnvaroti pārstāvēt sabiedrību vai grupu,
 b) kapitālsabiedrībā, Eiropas komercsabiedrībā, kooperatīvajā sabiedrībā un Eiropas kooperatīvajā sabiedrībā - valde,
 c) individuālajā uzņēmumā, zemnieka vai zvejnieka saimniecībā - attiecīgi uzņēmuma vai saimniecības īpašnieks,
 d) ārvalsts komersanta filiālē un nerezidenta (ārvalsts komersanta) pastāvīgajā pārstāvniecībā - persona, kura pilnvarota pārstāvēt ārvalsts komersantu (nerezidentu) darbībās, kas saistītas ar filiāli vai pastāvīgo pārstāvniecību,
-e) iestādē, kura tiek finansēta no valsts budžeta vai pašvaldības budžeta, valsts vai pašvaldības aģentūrā, citā publiskajā personā un iestādē, kā arī patstāvīgajā iestādē - amatpersona, kas īsteno attiecīgās iestādes vispārējo administratīvo vadību (tiešās valsts pārvaldes iestādē - iestādes vadītājs),
+e) budžeta iestādē, no valsts budžeta daļēji finansētā atvasinātā publiskā personā un budžeta nefinansētā iestādē Likuma par budžetu un finanšu vadību izpratnē (turpmāk - budžeta iestādes) - amatpersona, kas īsteno attiecīgās iestādes vispārējo administratīvo vadību,
 f) biedrībā, nodibinājumā, politiskajā organizācijā (partijā), politisko organizāciju (partiju) apvienībā, arodbiedrībā un arodbiedrību apvienībā, kā arī Eiropas politiskajā partijā un Eiropas politiskajā fondā - izpildinstitūcija vai pārvaldes institūcija (valde),
 g) reliģiskajā organizācijā un tās iestādē - vadība (vadības institūcija),
 h) individuālais komersants un cita fiziskā persona, kas veic saimniecisko darbību,
 i) fizisko personu, kuras veic saimniecisko darbību, apvienībā - visi šīs apvienības biedri vai tie biedri, kuri ir pilnvaroti pārstāvēt šo apvienību,
 j) uzņēmumā, kuram pasludināts maksātnespējas process, - maksātnespējas procesa administrators (turpmāk - administrators).
-(2) Likumā lietotais termins "budžeta iestāde" atbilst Likumā par budžetu un finanšu vadību lietotajam terminam.
+(2) (Izslēgta ar 31.10.2024. likumu)

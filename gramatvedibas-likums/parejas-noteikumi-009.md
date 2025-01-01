@@ -1,0 +1,1 @@
+9. Attiecībā uz darījumiem, kuri noslēgti līdz 2024. gada 31. decembrim un kuros uzņēmums izsniedz attaisnojuma dokumentu citam uzņēmumam - budžeta iestādei, šā likuma 11. panta četrpadsmito daļu sāk piemērot ne vēlāk kā no 2026. gada 1. janvāra.
