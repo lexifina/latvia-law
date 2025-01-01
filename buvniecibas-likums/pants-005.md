@@ -21,8 +21,8 @@ h) būves konservācijas kārtību,
 i) būves novietojuma uzmērījumu veikšanas kārtību un kārtību, kādā būve pieņemama ekspluatācijā,
 j) būvdarbu garantijas termiņus pēc būves pieņemšanas ekspluatācijā;
 3) izdod būvnormatīvus, kuros nosaka tehniskās prasības attiecībā uz būvēm un to elementiem un vides pieejamības prasības attiecībā uz būvēm;
-3¹) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025.. Sk. pārejas noteikumu 31. punktu);
-3²) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025.. Sk. pārejas noteikumu 31. punktu);
+3¹) izdod būvnormatīvus, kuros nosaka būvekspertīzes, inženierizpētes un tehniskās apsekošanas kārtību un saturu;
+3²) izdod būvnormatīvus, kuros nosaka prasības būvprojekta noformēšanai un tehniskās prasības būves informācijas modelim un tā sagatavošanai;
 4) izdod būvspeciālistu kompetences novērtēšanas un patstāvīgās prakses uzraudzības noteikumus, kuros nosaka:
 a) nosacījumus, ar kādiem fiziskajām personām izsniedz, reģistrē un anulē sertifikātu patstāvīgai praksei arhitektūras, būvniecības un elektroenerģētikas jomā, kā arī sertifikāta izsniegšanas, reģistrēšanas un anulēšanas, darbības apturēšanas un atjaunošanas kārtību,
 b) cik ilga praktiskā darba pieredze arhitektūras un būvniecības jomā nepieciešama, lai pretendētu uz sertifikātu patstāvīgai praksei arhitektūras un būvniecības jomā,
