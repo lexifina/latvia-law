@@ -1,0 +1,1 @@
+60.¹ Ja fiziskā persona ir ārzemnieks, kurš nav reģistrēts Fizisko personu reģistrā, notāram, apliecinot tā parakstu uz nostiprinājuma lūguma, tajā jānorāda šā likuma 118.² pantā minētās ziņas iekļaušanai Zemesgrāmatu personu rādītājā.

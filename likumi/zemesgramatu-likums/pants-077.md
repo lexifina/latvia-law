@@ -3,4 +3,6 @@
 2) vai nostiprinājumam nav par šķērsli citas jau nostiprinātas tiesības vai cits tajā pašā dienā ienācis nostiprinājuma lūgums (75. p.);
 3) vai tiesības, kuras lūdz nostiprināt, pieder pie 31. un 44. pantā minētām tiesībām, kurām ir sakars ar nekustamu īpašumu;
 4) vai dokumentos, uz kuriem pamatots nostiprinājuma lūgums, nav nekā acīmredzami pretlikumīga;
-5) vai līdz lēmuma taisīšanai nav saņemta kriminālprocesa virzītāja apstiprināta lēmuma kopija par aresta uzlikšanu mantai.
+5) vai līdz lēmuma taisīšanai nav saņemta kriminālprocesa virzītāja apstiprināta lēmuma kopija par aresta uzlikšanu mantai;
+6) vai Uzņēmumu reģistra vestajos reģistros reģistrēta juridiskā persona, personālsabiedrība vai ārvalsts juridiskā persona vai juridiskais veidojums, kas Latvijas Republikā reģistrē filiāli vai pārstāvniecību, ir reģistrējis patieso labuma guvēju;
+7) vai Uzņēmumu reģistra vestajos reģistros vai citā Eiropas Savienības dalībvalsts reģistrā nereģistrēta juridiskā persona vai juridiskais veidojums ir reģistrējis Uzņēmumu reģistra vestajā reģistrā patieso labuma guvēju.

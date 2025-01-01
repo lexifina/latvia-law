@@ -1,0 +1,1 @@
+118.² Zemesgrāmatu personu rādītājā par fizisko personu uztur vismaz šādas ziņas - vārdu, uzvārdu, dzimšanas datumu, mēnesi un gadu, valstspiederību, pastāvīgās dzīvesvietas valsts un ārvalsts piešķirtu personas identifikatoru vai Latvijā piešķirtu personas kodu, ja tāds ir.
