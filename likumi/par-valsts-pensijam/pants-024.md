@@ -1,5 +1,6 @@
 24.pants. Valsts pensijas apmēra palielināšana sakarā ar apdrošināšanas iemaksu veikšanu par periodu pēc pensijas piešķiršanas
 (1) Ja par periodu pēc vecuma vai invaliditātes pensijas (I vai II grupas invaliditātes gadījumā) piešķiršanas (pārrēķināšanas) ir veiktas vai bija jāveic apdrošināšanas iemaksas, pensija, pamatojoties uz tās saņēmēja pieprasījumu, pārrēķināma, bet ne biežāk kā reizi gadā.
+(1¹) (Daļa stājas spēkā 01.04.2026. un iekļauta likuma redakcijā uz 01.04.2026. Sk. pārejas noteikumu 84. punktu)
 (2) Pārrēķināto vecuma pensiju veido agrāk aprēķinātā (pārrēķinātā) pensija un pensijas pārrēķina daļa, kas saskaņā ar šā likuma 12. panta pirmajā daļā noteikto kārtību aprēķināta, ņemot vērā pensijas kapitālu, ko persona uzkrājusi pēc pensijas piešķiršanas (pārrēķināšanas).
 (3) (Izslēgta ar 05.08.1999. likumu)
 (4) (Izslēgta ar 05.08.1999. likumu)
