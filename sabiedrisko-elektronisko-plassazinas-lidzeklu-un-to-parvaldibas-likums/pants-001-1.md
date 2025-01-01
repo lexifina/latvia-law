@@ -1,0 +1,2 @@
+1.¹ pants. Likuma darbības joma
+Šā likuma vispārējie noteikumi par sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem un to pārraudzību attiecināmi uz Latvijas Sabiedrisko mediju un citiem sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem (ja tādi ir izveidoti). Šā likuma noteikumi, kas regulē tikai Latvijas Sabiedriskā medija darbību, nav attiecināmi uz citiem sabiedriskajiem elektroniskajiem plašsaziņas līdzekļiem.
