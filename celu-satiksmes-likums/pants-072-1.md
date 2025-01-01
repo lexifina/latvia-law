@@ -1,0 +1,2 @@
+72.¹ pants. Ārvalstī, kas nav Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts vai Šveices Konfederācija, reģistrēta transportlīdzekļa neatļauta izmantošana
+Par tāda ārvalstī, kas nav Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts vai Šveices Konfederācija, reģistrēta transportlīdzekļa izmantošanu ceļu satiksmē, kurš nav deklarēts, piemēro naudas sodu transportlīdzekļa vadītājam no vienpadsmit līdz divdesmit astoņām naudas soda vienībām.
