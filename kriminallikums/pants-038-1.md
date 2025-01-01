@@ -1,6 +1,13 @@
 38.¹ pants. Probācijas uzraudzība
 (1) Probācijas uzraudzība kā pamatsods vai papildsods ir personas piespiedu iesaistīšana tās vecumam, psiholoģiskajām īpašībām un attīstības līmenim piemērotos sociālās uzvedības korekcijas un sociālās rehabilitācijas pasākumos.
-(2) Probācijas uzraudzību kā pamatsodu var piemērot tikai šā likuma sevišķajā daļā minētajos gadījumos uz laiku no viena gada līdz pieciem gadiem.
+(2) Probācijas uzraudzību kā pamatsodu var piemērot šā likuma sevišķajā daļā minētajos gadījumos uz laiku no viena gada līdz pieciem gadiem.
+(2¹) Ja tiesa, ņemot vērā izdarītā noziedzīgā nodarījuma raksturu un radīto kaitējumu, vainīgā personību un citus lietas apstākļus, iegūst pārliecību, ka vainīgais, neizciešot brīvības atņemšanu, turpmāk neizdarīs likumpārkāpumus, tā var piemērot probācijas uzraudzību kā pamatsodu no trim līdz sešiem gadiem arī par tāda smaga nozieguma izdarīšanu, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, vai par sevišķi smaga nozieguma izdarīšanu.
+(2²) Probācijas uzraudzību kā pamatsodu par sevišķi smaga nozieguma izdarīšanu nepiemēro, ja:
+1) noziegums izraisījis cilvēka nāvi;
+2) noziegums izdarīts pret nepilngadīgo, lietojot vardarbību;
+3) noziegums izdarīts organizētā grupā;
+4) izdarīts kāds no šā likuma IX, IX¹ vai X nodaļā paredzētajiem noziegumiem;
+5) izdarīts šā likuma 159., 160., 195. vai 253.¹ pantā paredzētais noziegums.
 (3) Probācijas uzraudzību kā papildsodu var piemērot tikai kopā ar brīvības atņemšanu šā likuma sevišķajā daļā minētajos gadījumos uz laiku no viena gada līdz trim gadiem. Šā likuma sevišķajā daļā īpaši paredzētajos gadījumos personai var piemērot probācijas uzraudzību kā papildsodu arī uz ilgāku laiku, bet ne ilgāku par pieciem gadiem. Atbilstoši noziedzīga nodarījuma raksturam probācijas uzraudzību kā papildsodu tiesa var noteikt arī gadījumos, kad šis sods nav paredzēts šā likuma sevišķās daļas attiecīgā panta sankcijā, uz laiku no viena gada līdz trim gadiem.
 (4) Notiesātais vai persona, kam probācijas uzraudzība noteikta ar prokurora priekšrakstu par sodu, probācijas uzraudzības laikā pilda kriminālsodu izpildi reglamentējošā likumā paredzētos un soda izpildes iestādes noteiktos pienākumus.
 (5) Probācijas uzraudzību kā papildsoda izpildi uzsāk pēc brīvības atņemšanas soda izciešanas. Ja persona ir nosacīti pirms termiņa atbrīvota no brīvības atņemšanas soda izpildes, probācijas uzraudzību kā papildsoda izpildi uzsāk ar brīdi, kad beigusies personas uzraudzība pēc nosacītas pirmstermiņa atbrīvošanas.

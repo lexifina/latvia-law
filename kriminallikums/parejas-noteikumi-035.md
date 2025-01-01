@@ -1,0 +1,1 @@
+35. Ja ir stājies spēkā un nav izpildīts nolēmums par noziedzīgiem nodarījumiem, kuri izdarīti līdz 2024. gada 31. decembrim, un ir stājies spēkā un nav izpildīts nolēmums par noziedzīgiem nodarījumiem, kuri izdarīti pēc 2024. gada 31. decembra, galīgais sods pēc vairākiem nolēmumiem nosakāms atbilstoši likuma regulējumam, kas ir spēkā no 2025. gada 1. janvāra.
