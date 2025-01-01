@@ -1,3 +1,3 @@
-84. pants. Gaisa pārvadājumu regulēšana
+84. pants. Gaisa pārvadājumu un valsts nozīmes lidojumu regulēšana
 Pasažieru, bagāžas un kravas gaisa pārvadājumus regulē šā likuma normas un Ministru kabineta noteikumi par pasažieru, bagāžas un kravas gaisa pārvadājumiem.
-(Otrā daļa izslēgta ar 13.10.2022. likumu)
+Ministru kabinets nosaka kārtību, kādā tiek saskaņoti valsts nozīmes lidojumi Latvijas Republikas gaisa telpā.

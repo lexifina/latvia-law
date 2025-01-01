@@ -1,0 +1,1 @@
+49. Grozījums šā likuma 23.¹ pantā par trešās daļas 1. punkta izteikšanu jaunā redakcijā un grozījums šā panta ceturtajā daļā (par kapitālsabiedrības, kurā valstij ir izšķiroša ietekme un kurai pieder civilās aviācijas lidlauks, pirmpirkuma tiesībām) stājas spēkā 2025. gada 1. aprīlī.

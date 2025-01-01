@@ -1,3 +1,3 @@
 82. pants. Gaisa pārvadājumu licence
-Kompetentā iestāde, kas īsteno Eiropas Parlamenta un Padomes 2008. gada 24. septembra regulu (EK) Nr. 1008/2008 par kopīgiem noteikumiem gaisa pārvadājumu pakalpojumu sniegšanai Kopienā (pārstrādātā versija) (turpmāk - regula Nr. 1008/2008), izņemot regulas Nr. 1008/2008 23. un 24. pantu, ir Aviācijas departaments. Kompetentā iestāde, kas īsteno šīs regulas 23. un 24. pantu, ir Patērētāju tiesību aizsardzības centrs.
+Kompetentā iestāde, kas īsteno regulu Nr. 1008/2008, izņemot tās 23. un 24. pantu, ir Aviācijas departaments. Kompetentā iestāde, kas īsteno šīs regulas 23. un 24. pantu, ir Patērētāju tiesību aizsardzības centrs.
 Ministru kabinets nosaka kārtību, kādā maksājama valsts nodeva par gaisa pārvadājumu licences izsniegšanu un gaisa pārvadājumu licences darbības atjaunošanu, kā arī minētās valsts nodevas apmēru.

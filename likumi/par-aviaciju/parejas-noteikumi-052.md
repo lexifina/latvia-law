@@ -1,0 +1,1 @@
+52. Šā likuma 109. panta trešajā daļā noteiktais divu gadu termiņš prasījumiem, kas izriet no regulas Nr. 261/2004, nav piemērojams tiem gadījumiem, kad prasījuma tiesības radušās pirms attiecīgās tiesību normas spēkā stāšanās dienas.
