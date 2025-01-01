@@ -17,10 +17,10 @@
 14) parkos, skvēros un peldvietās, izņemot vietas, kas speciāli ierādītas smēķēšanai;
 15) kafejnīcās, restorānos un citās sabiedriskās ēdināšanas vietās, izņemot vasaras (āra) kafejnīcas, kurās atļauts smēķēt tikai vietās, kas speciāli ierādītas smēķēšanai;
 16) jebkurā citā šajā pantā neminētā publiskā vietā citas personas klātbūtnē, ja šī persona pret to iebilst;
-17) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 22. punktu);
+17) azartspēļu organizēšanas vietās;
 18) Saeimas un Ministru kabineta ēkās, izņemot telpas, kas speciāli ierādītas smēķēšanai.
 (3) Viesnīcās un citās īslaicīgas apmešanās mītnēs var būt speciāli ierādītas guļamtelpas, kurās ir atļauts smēķēt.
-(4) Kazino un spēļu zālēs atļauts smēķēt tikai telpā, kas speciāli ierādīta smēķēšanai, vai atsevišķi nodalītā telpā, kas paredzēta smēķēšanai un kas ēkas tehniskās inventarizācijas plānā atzīmēta kā konstruktīvi nodalīta telpa, kura paredzēta pamatpakalpojumu saņemšanai un smēķēšanai un ir aprīkota ar nosūces ventilāciju. Šī telpa aizņem ne vairāk kā 50 procentus no kopējās publiskās telpas platības un ir izvietota pēc iespējas tālāk no ieejas. Telpā ir attiecīgs informatīvs uzraksts vai simbols.
+(4) (Izslēgta no 01.01.2025. ar 11.01.2024. likumu, kas stājas spēkā 08.02.2024. Sk. pārejas noteikumu 22. punktu)
 (5) Starptautiskās satiksmes lidostas izlidošanas publiskajās telpās aiz drošības kontroles punktiem var būt ierīkota telpa, kas speciāli ierādīta smēķēšanai.
 (6) Aizliegums smēķēt norādāms ar informatīvu uzrakstu, lietojot zīmi "Smēķēt aizliegts" (balti burti uz sarkana fona), bet atļauja smēķēt - ar tādu pašu informatīvu uzrakstu, lietojot zīmi "Atļauts smēķēt" (balti burti uz zaļa fona) vai attiecīgu simbolu. Papildus informatīvajam uzrakstam "Atļauts smēķēt" vai lietotajam simbolam, kas norāda uz atļauju smēķēt, izvietojams informatīvs uzraksts "Smēķēšana nogalina - atmetiet tagad!".
 (7) Kārtību, kādā izvietojami informatīvi uzraksti vai simboli par smēķēšanas aizliegumu vai atļauju smēķēt, kā arī uzrakstu un simbolu paraugus nosaka Ministru kabinets.

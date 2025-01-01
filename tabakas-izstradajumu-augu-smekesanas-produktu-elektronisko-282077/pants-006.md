@@ -28,7 +28,11 @@
 1) visu izstrādājumā iekļauto sastāvdaļu saraksts dilstošā secībā un nikotīna saturs un daudzums izstrādājumā un katrā devā;
 2) partijas numurs;
 3) ieteikums izstrādājumu glabāt bērniem nepieejamā vietā.
-(5¹) (Daļa stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 24. punktu)
+(5¹) Uz tabakas aizstājējproduktu iepakojuma vienības un jebkāda ārējā iepakojuma ir norādāma šāda informācija:
+1) visu produktā iekļauto sastāvdaļu saraksts dilstošā secībā un nikotīna daudzums vienā iepakojuma vienībā un vienā tabakas aizstājējproduktā;
+2) tabakas aizstājējprodukta masa vienā iepakojuma vienībā;
+3) partijas numurs;
+4) ieteikums produktu glabāt bērniem nepieejamā vietā.
 (6) Katrai elektronisko smēķēšanas ierīču vienībai un uzpildes tvertnei pievieno informatīvu lapiņu, kas satur:
 1) norādījumus par izstrādājuma lietošanu un glabāšanu, tostarp norādi, ka izstrādājumu nav ieteicams lietot jauniešiem un nesmēķētājiem;
 2) informāciju par kontrindikācijām;

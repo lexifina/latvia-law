@@ -6,8 +6,8 @@
 4) tabakas izstrādājumus, tabakas aizstājējproduktus, augu smēķēšanas produktus, elektroniskās smēķēšanas ierīces, uzpildes tvertnes un jaunieviestus tabakas izstrādājumus, kas neatbilst šā likuma prasībām;
 5) cigarešu iepakojuma vienības, kurās ir mazāk par 20 cigaretēm;
 6) tinamās tabakas iepakojuma vienības, kurās ir mazāk par 30 gramiem tabakas;
-7) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 24. punktu);
-8) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 23. punktu).
+7) tabakas aizstājējproduktus, par kuriem nav iesniegta informācija Veselības inspekcijai atbilstoši šā likuma 5.¹ pantā noteiktajam un nav veikta samaksa par sniegtās informācijas apstrādi saskaņā ar Veselības inspekcijas maksas pakalpojumu cenrādi;
+8) elektronisko smēķēšanas ierīču šķidrumus un tabakas aizstājējproduktus, kas satur aromatizētājus, izņemot aromatizētājus, kas rada tabakas smaržu vai garšu. Atļautie aromatizētāji, kas rada tabakas smaržu vai garšu, ir noteikti šā likuma pielikumā.
 (2) Aizliegts laist tirgū tabakas izstrādājumus, ja:
 1) to sastāvā ir vitamīni vai citas piedevas, kas rada iespaidu, ka tabakas izstrādājums ir labvēlīgs veselībai vai samazina veselības apdraudējumu;
 2) to sastāvā ir kofeīns vai taurīns, vai citas piedevas un stimulējoši savienojumi, kas tiek saistīti ar enerģiju un vitalitāti;
@@ -32,5 +32,14 @@
 5) nikotīnu saturošā vai nesaturošā šķidrumā tiek izmantotas vienīgi tādas sastāvdaļas, kuras nedz uzkarsētā, nedz neuzkarsētā veidā nerada apdraudējumu cilvēku veselībai. Šis punkts neattiecas uz nikotīnu;
 6) elektroniskās cigaretes normālas lietošanas apstākļos izdala nikotīnu nemainīgās devās;
 7) elektroniskās smēķēšanas ierīces un uzpildes tvertnes ir drošas bērniem un izturīgas pret manipulācijām, aizsargātas pret uzlaušanu un noplūdi, tām ir mehānisms, kas nodrošina uzpildi bez noplūdes. Uzpildes mehānisma tehniskos standartus nosaka Ministru kabinets.
-(5¹) (Daļa stājas spēkā 01.01.2025. un iekļauta likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 24. punktu)
+(5¹) Tabakas aizstājējproduktus atļauts laist tirgū tikai tad, ja tie atbilst šādām prasībām:
+1) šie aizstājējprodukti ir pildīti īpaši tiem paredzētos iepakojumos un iepakojuma vienības masa nepārsniedz 20 gramus;
+2) vienā tabakas aizstājējprodukta iepakojuma vienībā ir ne mazāk kā 20 tabakas aizstājējprodukti;
+3) maksimālā nikotīna koncentrācija tabakas aizstājējproduktā nepārsniedz četrus miligramus uz gramu;
+4) to sastāvā nav vitamīnu vai citu sastāvdaļu, kas rada iespaidu, ka tabakas aizstājējprodukts ir labvēlīgs veselībai vai samazina veselības apdraudējumu;
+5) to sastāvā nav kofeīna, taurīna vai citu sastāvdaļu un stimulējošu savienojumu, kas tiek saistīti ar enerģiju un vitalitāti;
+6) to sastāvā nav sastāvdaļu, kas atvieglo nikotīna uzņemšanu;
+7) to sastāvā nav sastāvdaļu, kam piemīt kancerogēnas, mutagēnas un reproduktīvajai sistēmai toksiskas īpašības;
+8) tabakas aizstājējproduktu ražošanā tiek izmantotas vienīgi augstas tīrības un tādas sastāvdaļas, kas nerada apdraudējumu cilvēku veselībai. Nav izmantojamas sastāvdaļas vai piedevas, kam ir nelabvēlīga ietekme uz cilvēku veselību. Šis punkts neattiecas uz nikotīnu;
+9) tabakas aizstājējproduktu iepakojumi ir droši bērniem un izturīgi pret manipulācijām.
 (6) Izdevumus, kas saistīti ar novērtējumu par to, vai cigaretes vai tinamā tabaka ir ar raksturīgo aromātu, vai tabakas izstrādājumos, tabakas aizstājējproduktos un elektronisko smēķēšanas ierīču šķidrumos ir izmantotas aizliegtas piedevas vai aromatizētāji un vai tabakas izstrādājumi, tabakas aizstājējprodukti un elektronisko smēķēšanas ierīču šķidrumi satur piedevas tādā daudzumā, kas ievērojami vai izmērāmi palielina attiecīgā tabakas izstrādājuma, tabakas aizstājējprodukta un elektronisko smēķēšanas ierīču šķidruma toksisko vai atkarību izraisošo ietekmi, vai piedevai piemīt kancerogēnas, mutagēnas un reproduktīvajai sistēmai toksiskas īpašības, sedz ražotāji un importētāji saskaņā ar Veselības inspekcijas maksas pakalpojumu cenrādi. Par tabakas izstrādājumu, tabakas aizstājējproduktu un elektronisko smēķēšanas ierīču šķidrumu testēšanu akreditētā laboratorijā pēc Veselības inspekcijas pieprasījuma ražotāji un importētāji veic samaksu attiecīgajai laboratorijai.
