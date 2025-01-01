@@ -12,3 +12,4 @@
 4) pakalpojumiem, pamatojoties uz nodokļa maksātāja pilnvarotās personas apstiprināto sarakstu.
 (6) Piemērojot šā panta piekto daļu, fiziskā persona (reģistrēts nodokļa maksātājs), kas veic saimniecisko darbību un ir iedzīvotāju ienākuma nodokļa maksātājs, kas gūst ienākumus no saimnieciskās darbības, iegādājoties pamatlīdzekli, atskaitāmā priekšnodokļa apmēru nosaka, sastādot aktu, kurā norādīta plānotā pamatlīdzekļa lietošanas proporcija tādu darījumu nodrošināšanai, kas dod tiesības atskaitīt priekšnodokli, un tādu darījumu nodrošināšanai, kas nedod tiesības atskaitīt priekšnodokli.
 (7) Pēc reģistrācijas Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā nodokļa maksātājs iesniedz pirmo nodokļa deklarāciju un vienlaikus ar to arī dokumentus, kas pamato šā panta piektajā daļā atskaitāmo priekšnodokli.
+(8) (Daļa stājas spēkā 01.07.2025. un iekļauta likuma redakcijā uz 01.07.2025. Sk. pārejas noteikumu 47. punktu)
