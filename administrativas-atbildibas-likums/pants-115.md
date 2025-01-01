@@ -18,6 +18,7 @@
 15) Nacionālās elektronisko plašsaziņas līdzekļu padomes;
 16) Nacionālās kultūras mantojuma pārvaldes;
 17) Nacionālo bruņoto spēku Jūras spēku Krasta apsardzes dienesta;
+17¹) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 11. punktu);
 18) Ostas policijas;
 19) Patērētāju tiesību aizsardzības centra;
 20) Pārtikas un veterinārā dienesta;
