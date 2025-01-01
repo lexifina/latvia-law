@@ -9,7 +9,7 @@
 2) tas iepriekšējos 12 mēnešus ir veicis saimniecisko darbību iekšzemē un ir reģistrēts Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;
 3) tā materiāltehniskās un finansiālās iespējas atbilst saimnieciskās darbības veidiem;
 4) tam iesnieguma iesniegšanas dienā nav nodokļu parādu;
-5) tas iepriekšējos 12 mēnešos nodokļu jomu regulējošos normatīvajos aktos noteiktajos termiņos sniedzis nodokļu un informatīvās deklarācijas un gada pārskatu, kā arī Valsts ieņēmumu dienesta noteiktajā termiņā sniedzis papildu informāciju, kas nepieciešama valsts budžetā iemaksājamās nodokļa summas vai nodokļa pārmaksas noteikšanai;
+5) tas iepriekšējos 12 mēnešos nodokļu jomu regulējošos normatīvajos aktos noteiktajos termiņos iesniedzis nodokļu un informatīvās deklarācijas un gada pārskatu, kā arī Valsts ieņēmumu dienesta noteiktajā termiņā sniedzis papildu informāciju, kas nepieciešama valsts budžetā iemaksājamās nodokļa summas vai nodokļa pārmaksas noteikšanai, vai iepriekšējos 12 mēnešos reģistrēta nodokļa maksātāja vienas nodokļu vai informatīvās deklarācijas vai gada pārskata nodokļu jomu regulējošos normatīvajos aktos noteiktā iesniegšanas termiņa kavējums nepārsniedz piecas kalendāra dienas;
 6) tā pārstāvēttiesīgajām personām nav sodāmības par krāpšanu, dokumentu viltošanu, izvairīšanos no nodokļu un tiem pielīdzināto maksājumu nomaksas vai citiem noziedzīgiem nodarījumiem, kuri var ietekmēt nodokļu apmēra noteikšanu;
 7) reģistrēta nodokļa maksātāja - juridiskās personas amatpersona vai reģistrēts nodokļa maksātājs - fiziskā persona nav iekļauta riska personu sarakstā atbilstoši likumam "Par nodokļiem un nodevām";
 8) tas ir Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmā reģistrēts klients.

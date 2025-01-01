@@ -11,7 +11,7 @@
 9) finanšu un apdrošināšanas pakalpojumi, ieskaitot pārapdrošināšanu, bet izņemot seifu nomu;
 10) piekļuves nodrošināšana dabasgāzes sadales sistēmai, kas atrodas Eiropas Savienības teritorijā, vai tīklam, kas ir pieslēgts šai sistēmai, elektroenerģijas, siltumenerģijas vai dzesēšanas enerģijas tīkliem, kā arī pārvades un sadales pakalpojumi un citi ar tiem tieši saistītie pakalpojumi;
 11) (izslēgts no 01.01.2015. ar 12.06.2014. likumu).
-(2) Preču transporta pakalpojuma, ja šo pakalpojumu sniedz reģistrētam nodokļa maksātājam vai trešās valsts vai trešās teritorijas reģistrētam nodokļa maksātājam, elektronisko sakaru, apraides un elektroniski sniegta pakalpojuma, kustamas lietas nomas un transportlīdzekļu nomas pakalpojuma sniegšanas vieta ir:
+(2) Preču transporta pakalpojuma, ja šo pakalpojumu sniedz reģistrētam nodokļa maksātājam vai trešās valsts vai trešās teritorijas reģistrētam nodokļa maksātājam, kustamas lietas nomas un transportlīdzekļu nomas pakalpojuma sniegšanas vieta ir:
 1) ārpus Eiropas Savienības teritorijas, ja pakalpojumu izmanto ārpus Eiropas Savienības teritorijas, kaut arī saskaņā ar šā likuma prasībām pakalpojuma sniegšanas vieta ir iekšzeme;
 2) iekšzeme, ja pakalpojumu izmanto iekšzemē, kaut arī saskaņā ar šā likuma prasībām pakalpojuma sniegšanas vieta ir ārpus Eiropas Savienības teritorijas.
 (3) (Izslēgta no 01.01.2015. ar 12.06.2014. likumu).

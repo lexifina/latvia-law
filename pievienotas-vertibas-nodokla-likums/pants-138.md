@@ -4,7 +4,7 @@
 (3) Šā panta izpratnē par tirgotāju uzskata arī ķīlas ņēmēju (izņemot kredītiestādes), kas darbojas saskaņā ar Civillikuma normām un pārdod ieķīlāto lietu sava prasījuma apmierināšanai.
 (4) Lietotu mantu, mākslas darbu, kolekciju priekšmetu un senlietu pārdevējs (turpmāk - pārdevējs) ir persona, kura iekšzemē vai no citas dalībvalsts piegādā vai nodod tirgotājam pārdošanai lietotas mantas, mākslas darbus, kolekciju priekšmetus un senlietas un kura atbilst vismaz vienam no šādiem nosacījumiem:
 1) nav nodokļa maksātājs;
-2) veic tikai tādus darījumus, kas nav apliekami ar nodokli saskaņā ar šā likuma 52.panta pirmo daļu vai attiecīgajiem citas dalībvalsts tiesību aktiem;
+2) ir cits nodokļa maksātājs, ciktāl šā cita nodokļa maksātāja veiktā preču piegāde nav apliekama ar nodokli saskaņā ar šā likuma 52. panta trešo vai 3.¹ daļu vai attiecīgajiem citas dalībvalsts tiesību aktiem;
 3) piegādā vai nodod pārdošanai tirgotājam lietotus pamatlīdzekļus un ir nereģistrēts nodokļa maksātājs vai arī citas dalībvalsts nereģistrēts nodokļa maksātājs saskaņā ar citas dalībvalsts tiesību aktiem;
 4) ir tirgotājs, kas preču piegādei piemēro īpašo nodokļa piemērošanas režīmu saskaņā ar šo pantu vai attiecīgajiem citas dalībvalsts tiesību aktiem.
 (5) Šajā pantā pārdevējam noteiktās prasības attiecināmas arī uz ķīlas devēju, ja ķīlas devējs pārdod ieķīlāto lietu sava prasījuma apmierināšanai un atbilst vismaz vienam no šā panta ceturtās daļas 1., 2. vai 3.punkta nosacījumiem.

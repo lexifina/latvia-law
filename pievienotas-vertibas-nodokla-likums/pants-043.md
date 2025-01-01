@@ -10,3 +10,6 @@
 (5) (Izslēgta ar 06.11.2013. likumu)
 (6) Nodokļa 0 procentu likmi piemēro jauna transportlīdzekļa piegādei citas dalībvalsts jebkurai personai.
 (7) Nodokļa 0 procentu likmi piemēro beznodokļu tirdzniecības veikalos veiktajām preču piegādēm fiziskajām personām, kuras izbrauc no iekšzemes uz trešajām valstīm vai trešajām teritorijām.
+(8) Nodokļa 0 procentu likmi piemēro tādai preču piegādei, kuras ietvaros reģistrēts nodokļa maksātājs uz savstarpēji noslēgta līguma, preču nodošanas un pieņemšanas akta vai cita darījumu apliecinoša dokumenta pamata preces bez maksas piegādā sabiedriskā labuma organizācijai, kas šīs preces:
+1) eksportē no Eiropas Savienības teritorijas humānās palīdzības un labdarības ietvaros;
+2) piegādā citas Eiropas Savienības dalībvalsts atzītai struktūrai, kura tās eksportē no Eiropas Savienības teritorijas humānās palīdzības un labdarības ietvaros.

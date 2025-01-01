@@ -1,7 +1,7 @@
 50.pants. Nodokļa 0 procentu likmes piemērošana preču piegādēm un pakalpojumiem, kas sniegti diplomātiskajām un konsulārajām pārstāvniecībām, starptautiskajām organizācijām, Eiropas Savienības institūcijām un Ziemeļatlantijas līguma organizācijai (NATO)
 (1) Nodokļa 0 procentu likmi piemēro netieši, atmaksājot samaksāto nodokli, preču piegādēm un pakalpojumiem, kas iekšzemē sniegti Latvijas Republikā reģistrētām:
-1) trešo valstu diplomātiskajām un konsulārajām pārstāvniecībām, to diplomātiskajiem un konsulārajiem aģentiem, administratīvi tehniskajam personālam, kā arī minēto personu ģimenes locekļiem, - ievērojot paritātes principu;
-2) citu dalībvalstu diplomātiskajām un konsulārajām pārstāvniecībām, to diplomātiskajiem un konsulārajiem aģentiem, administratīvi tehniskajam personālam, kā arī minēto personu ģimenes locekļiem;
+1) trešo valstu diplomātisko un konsulāro pārstāvniecību diplomātiskajiem un konsulārajiem aģentiem, administratīvi tehniskajam personālam, kā arī minēto personu ģimenes locekļiem, - ievērojot paritātes principu;
+2) citu dalībvalstu diplomātisko un konsulāro pārstāvniecību diplomātiskajiem un konsulārajiem aģentiem, administratīvi tehniskajam personālam, kā arī minēto personu ģimenes locekļiem;
 3) Eiropas Savienības institūcijām vai to pārstāvniecībām un ar tām saistītajām personām vai ar Eiropas Savienības tiesību aktiem izveidotajām struktūrām, kurām piemēro 1965.gada 8.aprīļa Protokolu par privilēģijām un imunitāti Eiropas Savienībā, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti minētajā protokolā un tā īstenošanas līgumos vai mītnes līgumos;
 4) starptautiskajām struktūrām, kuras nav minētas šā panta pirmās daļas 3.punktā un kuras par tādām atzinušas Latvijas Republikas kompetentās iestādes, un šādu struktūru dalībniekiem, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti starptautiskajās konvencijās, ar kurām šīs struktūras izveidotas, vai mītnes līgumos;
 5) starptautiskajām organizācijām vai to pārstāvniecībām un šādu organizāciju vai to pārstāvniecību darbiniekiem, kuriem Latvijas Republikas teritorijā ir diplomātiskais statuss, - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti starptautiskajās konvencijās, ar kurām šīs organizācijas izveidotas, vai mītnes līgumos.
@@ -25,7 +25,9 @@
 2) šīs personas vai ar tām saistītās personas iegādājas akcīzes preces no akcīzes preču noliktavas iekšzemē, - sertifikātā norādīto akcīzes preču iegādei.
 (7) Nodokļa 0 procentu likmi piemēro tieši, pamatojoties uz Latvijas Republikas kompetento iestāžu apstiprināto sertifikātu, preču piegādēm un pakalpojumiem, kas iekšzemē sniegti:
 1) Latvijas Republikā reģistrētām Eiropas Savienības institūcijām - saskaņā ar ierobežojumiem un nosacījumiem, kas paredzēti mītnes līgumos;
-2) šā panta piektajā daļā minētajām personām, kuras ierodas Latvijas Republikā no valsts, kurā nevar tikt noformēts sertifikāts, - sertifikātā norādīto preču iegādei un pakalpojumu saņemšanai.
+2) šā panta piektajā daļā minētajām personām, kuras ierodas Latvijas Republikā no valsts, kurā nevar tikt noformēts sertifikāts, - sertifikātā norādīto preču iegādei un pakalpojumu saņemšanai;
+3) Latvijas Republikā reģistrētām trešo valstu diplomātiskajām un konsulārajām pārstāvniecībām, - ievērojot paritātes principu;
+4) Latvijas Republikā reģistrētām citu dalībvalstu diplomātiskajām un konsulārajām pārstāvniecībām.
 (7¹) Nodokļa 0 procentu likmi piemēro tieši:
 1) preču piegādēm un pakalpojumiem, kas iekšzemē sniegti Latvijas Republikā atzīta Sabiedroto spēku štāba locekļiem un viņu apgādājamiem, izņemot Latvijas Republikas pilsoņus vai pastāvīgos iedzīvotājus, Sabiedroto spēku štāba veikalā saskaņā ar Latvijas Republikas, Ziemeļatlantijas līguma organizācijas Sabiedroto spēku Augstākās virspavēlniecības Eiropā un Sabiedroto spēku Augstākās virspavēlniecības Transformācijas komandiera štāba nolīguma, ar kuru papildina Parīzes protokolu, nosacījumiem un ierobežojumiem;
 2) degvielas piegādēm iekšzemē Amerikas Savienoto Valstu vēstniecībai Latvijas Republikā un tās diplomātiskajiem un konsulārajiem aģentiem un administratīvi tehniskajam personālam.

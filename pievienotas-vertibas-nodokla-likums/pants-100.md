@@ -3,7 +3,10 @@
 (1¹) No valsts budžeta maksājamās nodokļa summas kā priekšnodoklis pilnībā nav atskaitāma nodokļa summa par:
 1) tādas vieglās pasažieru automašīnas iegādi, nomu un importu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas vietas, vai tādas kravas automašīnas ar pilnu masu līdz 3000 kilogramiem iegādi, nomu un importu, kas ir reģistrēta kā kravas furgons un kam ir vairāk nekā trīs sēdvietas (ieskaitot vadītāja sēdvietu), ja minēto automašīnu vērtība atbilst uzņēmumu ienākuma nodokli regulējošos normatīvajos aktos noteiktajai reprezentatīvā automobiļa vērtībai;
 2) izmaksām, kas saistītas ar šīs daļas 1.punktā minēto automašīnu uzturēšanu (tai skaitā izmaksām par šādu automašīnu remontu un degvielas iegādi) un kas rodas 60 mēnešu periodā, skaitot no brīža, kad automašīna ir reģistrēta personas īpašumā vai turējumā.
-(2) No valsts budžetā maksājamās nodokļa summas kā priekšnodoklis nav atskaitāmi 50 procenti no nodokļa par iegādātu, nomātu vai importētu vieglo pasažieru automašīnu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas sēdvietas un kura nav neviena no šā panta 1.¹ daļas 1.punktā minētajām automašīnām, kā arī ar šādas automašīnas uzturēšanu saistītās izmaksas, tai skaitā izmaksas par automašīnas remontu un degvielas iegādi.
+(2) No valsts budžetā maksājamās nodokļa summas kā priekšnodoklis nav atskaitāmi 50 procenti no nodokļa par:
+1) iegādātu, nomātu vai importētu vieglo pasažieru automašīnu, kuras sēdvietu skaits, neskaitot vadītāja vietu, nepārsniedz astoņas sēdvietas un kura nav neviena no šā panta 1.¹ daļas 1. punktā minētajām automašīnām;
+2) izmaksām, kas saistītas ar šīs daļas 1. punktā minēto automašīnu uzturēšanu (tai skaitā izmaksām par šādu automašīnu remontu un degvielas iegādi);
+3) izmaksām, kas saistītas ar šā panta 1.¹ daļas 1. punktā minēto automašīnu uzturēšanu (tai skaitā izmaksām par šādu automašīnu remontu un degvielas iegādi) un kas rodas pēc 60 mēnešu perioda, skaitot no brīža, kad automašīna ir reģistrēta personas īpašumā vai turējumā.
 (3) Šā panta 1.¹ un otrā daļa nav attiecināma uz gadījumiem, kad:
 1) reģistrēts nodokļa maksātājs iegādājas, nomā vai importē automašīnu šādu ar nodokli apliekamo darījumu veikšanai:
 a) pasažieru pārvadājumiem par atlīdzību, tai skaitā taksometru pakalpojumu sniegšanai,
