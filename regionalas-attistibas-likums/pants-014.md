@@ -7,4 +7,4 @@ Ministru kabinets:
 5) nosaka teritorijas attīstības indeksa aprēķināšanas un tā vērtību publicēšanas kārtību;
 6) nosaka kritērijus un kārtību valsts budžeta dotācijas piešķiršanai pašvaldībām un plānošanas reģioniem Eiropas Savienības struktūrfondu un Kohēzijas fonda līdzfinansēto projektu īstenošanai;
 7) nosaka kārtību, kādā piešķiramas un izlietojamas mērķdotācijas investīcijām pašvaldībām;
-8) nosaka kritērijus un kārtību, kādā tiek izvērtēti pašvaldību investīciju projektu pieteikumi valsts aizdevuma saņemšanai.
+8) nosaka kritērijus un kārtību, kādā tiek izvērtēti pašvaldību investīciju projektu pieteikumi aizdevuma saņemšanai.
