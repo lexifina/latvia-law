@@ -3,3 +3,4 @@
 1) ar kravas transportlīdzekļiem, kuru pilna masa ir lielāka par 3000 kilogramiem;
 2) ar kravas transportlīdzekļu sastāviem, kuru pilna masa ir lielāka par 3500 kilogramiem.
 (2) Nodevu maksā kā par kravas transportlīdzekļu sastāvu, ja velkošā transportlīdzekļa pilna masa pārsniedz 3500 kilogramus. Ja velkošā transportlīdzekļa pilna masa ir lielāka par 3000 kilogramiem un mazāka vai vienāda ar 3500 kilogramiem, nodevu maksā tikai par velkošo transportlīdzekli.
+(3) Bezemisiju transportlīdzeklis ir bezemisiju lielas noslodzes transportlīdzeklis, kā definēts Eiropas Parlamenta un Padomes 2019. gada 20. jūnija regulas (ES) 2019/1242 par CO2 emisiju standartu noteikšanu jauniem lielas noslodzes transportlīdzekļiem un ar kuru groza Eiropas Parlamenta un Padomes regulas (EK) Nr. 595/2009 un (ES) 2018/956 un Padomes direktīvu 96/53/EK 3. panta 11. punktā, vai vieglais pasažieru automobilis, mikroautobuss vai vieglais komerciālais transportlīdzeklis bez iekšdedzes motora.
