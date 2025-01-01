@@ -14,7 +14,7 @@
 (3) Ietvara likumā katram perioda gadam nosakāmi šādi rādītāji:
 1) prognozētais iekšzemes kopprodukts salīdzināmajās un faktiskajās cenās;
 2) prognozētais potenciālais iekšzemes kopprodukts, prognozētais potenciālā iekšzemes kopprodukta pieauguma temps un prognozētais potenciālā iekšzemes kopprodukta pieauguma temps diviem gadiem, kas seko perioda trešajam gadam;
-3) plānotā vispārējās valdības budžeta strukturālā bilance, kas izteikta procentos no iekšzemes kopprodukta un noteikta saskaņā ar šā likuma 10.pantu. Termins "vispārējās valdības budžeta strukturālā bilance" šajā likumā lietots tādā pašā nozīmē kā termins "strukturālā bilance" Eiropas Parlamenta un Padomes 2011.gada 16.novembra regulā (ES) Nr. 1175/2011, ar ko groza Padomes regulu (EK) Nr. 1466/97 par budžeta stāvokļa uzraudzības un ekonomikas politikas uzraudzības un koordinācijas stiprināšanu;
+3) plānotā vispārējās valdības budžeta strukturālā bilance, kas izteikta procentos no iekšzemes kopprodukta un noteikta saskaņā ar šā likuma 10.pantu. Termins "vispārējās valdības budžeta strukturālā bilance" šajā likumā lietots tādā pašā nozīmē kā termins "strukturālā bilance" Eiropas Parlamenta un Padomes 2024. gada 29. aprīļa regulā (ES) 2024/1263 par ekonomikas politikas efektīvu koordināciju un budžeta daudzpusēju uzraudzību un ar ko atceļ Padomes regulu (EK) Nr. 1466/97;
 4) plānotais vispārējās valdības sektorā iekļauto institūciju budžetu kopējais deficīts vai pārpalikums (turpmāk - vispārējās valdības budžeta bilance) procentos no iekšzemes kopprodukta;
 5) prognozētie valsts budžeta ieņēmumi;
 6) izlīdzinātie izdevumi, kas ietver:
