@@ -1,1 +1,0 @@
-304. Ja mantinieki ir zināmi, zvērināts notārs, neizsludinot mantojuma atklāšanos, aicina iesniegumā norādītos mantiniekus, nosakot termiņu atbilstoši šā likuma 297.pantam, paziņot, vai viņi vēlas mantojumu pieņemt vai to atraidīt (Civillikuma 697. un 698.pants).

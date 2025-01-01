@@ -1,0 +1,2 @@
+297.² Zvērināts notārs, pamatojoties uz publiskajos reģistros pārbaudāmām ziņām, bez atsevišķa kreditoru lūguma informē mantiniekus par mantojuma atstājēja kreditoru prasījumiem, kuri ir nodrošināti ar hipotēku vai komercķīlu. Notārs informē mantiniekus arī par kreditoru prasījumiem, kuri ir nodrošināti ar mantojuma atstājējam piederējušo mantu.
+Ja mantojuma atstājēja kreditors, kura prasījums ir nodrošināts ar hipotēku vai komercķīlu, ir Kredītu reģistra dalībnieks, zvērināts notārs Kredītu reģistrā noskaidro atlikušo prasījuma apmēru.

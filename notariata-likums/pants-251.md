@@ -6,7 +6,7 @@
 5) par pēdējās gribas rīkojuma akta nolasīšanu;
 6) par atteikšanos no testamentārās mantošanas;
 7) par izsludināšanu;
-8) par mantinieku uzaicināšanu;
+8) (izslēgts ar 21.03.2024. likumu);
 9) par mantojuma apsardzību;
 10) par aizgādnības nodibināšanu mantojumam;
 11) par Eiropas mantošanas apliecības izsniegšanu.

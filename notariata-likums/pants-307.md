@@ -1,1 +1,1 @@
-307. Iesniegumu par mantojuma pieņemšanu uz inventāra tiesības (Civillikuma 709.pants) pamata var iesniegt divu mēnešu laikā no dienas, kad mantiniekiem kļuvis zināms par mantojuma atklāšanos.
+307. Iesniegumu par mantojuma saraksta sastādīšanu pie zvērināta tiesu izpildītāja mantinieks vai mantojuma atstājēja kreditors var iesniegt no dienas, kad uzsākta mantojuma lieta, līdz sludinājumā par mantojuma atklāšanos noteiktā uzaicinājuma termiņa beigām.
