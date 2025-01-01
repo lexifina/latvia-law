@@ -3,7 +3,7 @@ Likumā ir lietoti šādi termini:
 1) akadēmiskā stunda - studiju darba laika vienība, kuras ilgums ir 45 minūtes;
 1¹) akreditēta studiju programma - noteiktam akreditētam studiju virzienam atbilstoša studiju programma, kura attiecīgā studiju virziena novērtēšanas procesā atzīta par atbilstošu šā likuma prasībām;
 2) (izslēgts ar 15.09.2022. likumu);
-3) augstskolas vai koledžas akreditācija - augstskolas vai koledžas darba organizācijas un resursu kvalitātes pārbaude, kuras rezultātā tai piešķir valsts atzītas augstskolas vai koledžas statusu;
+3) augstskolas akreditācija - regulārs augstskolas darbības kvalitātes un atbilstības dibinātāja noteiktajam augstskolas tipam izvērtējums. Akreditācijas rezultātā augstskolai tiek piešķirts valsts atzītas augstskolas statuss;
 4) augstskolas filiāle - akreditētas augstskolas izveidota struktūrvienība, kurai ir zināma organizatoriska patstāvība, kura ir teritoriāli atdalīta no augstskolas atrašanās vietas (atrodas citā valstī vai citā apdzīvotā vietā) un kuras pamatuzdevums ir īstenot attiecīgās augstskolas akreditētas studiju programmas;
 5) augstskolas pārstāvniecība - augstskolas izveidota struktūrvienība, kura ir teritoriāli atdalīta no augstskolas atrašanās vietas (atrodas citā valstī vai citā apdzīvotā vietā) un kuras uzdevums ir sniegt informāciju par augstskolu, pārstāvēt augstskolas intereses un veikt citas tās nolikumā paredzētas organizatoriskas darbības. Augstskolas pārstāvniecība neveic saimniecisko darbību un neīsteno studiju programmas;
 6) imatrikulācija - personas ierakstīšana augstskolā studējošo sarakstā (matrikulā);

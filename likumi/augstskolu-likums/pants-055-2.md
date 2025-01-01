@@ -3,14 +3,7 @@
 (2) Studiju programmu licencēšanu organizē Akadēmiskās informācijas centrs. Studiju programmas licencēšanas izdevumus sedz augstskola no tās budžeta līdzekļiem. Studiju programmu licencēšanas procesa maksas pakalpojumu cenrādi nosaka Ministru kabinets.
 (3) Studiju kvalitātes komisija ir koleģiāla lēmējinstitūcija, kuras sastāvā ir septiņi eksperti ar pieredzi augstākās izglītības organizēšanā un nodrošināšanā. Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu.
 (4) Lēmumu par studiju programmas licencēšanu vai lēmumu par atteikumu licencēt studiju programmu Studiju kvalitātes komisija pieņem četru mēnešu laikā no dienas, kad saņemts augstskolas iesniegums par attiecīgās studiju programmas licencēšanu.
-(5) Studiju programmas licencēšanas procesā tiek novērtēta:
-1) studiju programmas atbilstība šā likuma un citu normatīvo aktu prasībām;
-2) akadēmiskā personāla un viesprofesoru, asociēto viesprofesoru, viesdocentu, vieslektoru un viesasistentu kvalifikācijas atbilstība studiju programmas īstenošanas nosacījumiem un normatīvo aktu prasībām;
-3) studiju bāzes, informatīvās bāzes (tai skaitā bibliotēkas), finansiālās bāzes un materiāltehniskās bāzes atbilstība studiju programmas īstenošanas nosacījumiem;
-4) licencējamās studiju programmas saturs un īstenošanas mehānisms;
-5) faktisko apstākļu atbilstība sniegtajām ziņām;
-6) vai augstskolas darbībā iepriekšējā gada laikā pirms lēmuma pieņemšanas dienas kompetento iestāžu konstatētie normatīvo aktu pārkāpumi šo iestāžu noteiktajā termiņā ir novērsti;
-7) studiju programmas atbilstība studiju virzienam, kurā to plānots iekļaut.
+(5) Studiju programmas licencēšanas procesā katru studiju programmu novērtē saskaņā ar Ministru kabineta noteiktajām studiju programmu licencēšanas prasībām, tostarp to novērtēšanas prasībām.
 (6) Ja studiju programma atbilst visām šā panta piektajā daļā noteiktajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par studiju programmas licencēšanu.
 (7) Ja studiju programma neatbilst kādai no šā panta piektajā daļā minētajām prasībām, Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu. Ja Studiju kvalitātes komisija pieņem lēmumu par atteikumu licencēt studiju programmu, augstskola ir tiesīga iesniegt iesniegumu par attiecīgajam studiju virzienam atbilstošas studiju programmas licencēšanu tikai pēc tam, kad ir novērsusi Studiju kvalitātes komisijas konstatētos trūkumus.
 (8) Studiju kvalitātes komisija lēmumu par studiju programmas licencēšanas atcelšanu var pieņemt, ja:
