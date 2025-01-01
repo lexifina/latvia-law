@@ -6,7 +6,7 @@
 3) politiski represētās personas, nacionālās pretošanās kustības dalībnieki un Černobiļas atomelektrostacijas avārijas rezultātā cietušās personas, kā arī tās seku likvidācijā cietušās personas;
 4) personas, kuras slimo ar tuberkulozi, un personas, kurām veic izmeklējumus tuberkulozes noteikšanai;
 5) psihiski slimas personas, saņemot psihiatrisko ārstēšanu;
-5¹) (punkts stājas spēkā 01.01.2025. un iekļauts likuma redakcijā uz 01.01.2025. Sk. pārejas noteikumu 14. punktu);
+5¹) personas, kuras slimo ar alkohola, narkotisko, psihotropo vai toksisko vielu atkarību, saņemot narkoloģisko ārstēšanu;
 6) personas, saņemot hroniskās hemodialīzes, hemodiafiltrācijas un peritoneālās dialīzes procedūras visā ārstniecības procesa laikā;
 7) personas, kuras saņem veselības aprūpes pakalpojumus Ministru kabineta noteikto infekcijas slimību gadījumos;
 8) personas, kurām neatliekamo medicīnisko palīdzību sniedz neatliekamās medicīniskās palīdzības brigāde;
