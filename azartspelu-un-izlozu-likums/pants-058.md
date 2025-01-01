@@ -1,2 +1,3 @@
 58.pants. Skaitļu izlozes
-Skaitļu izlozē (loto, toto, keno, sportloto, skaitļu loto) laimestu saņem laimējušo skaitļu, simbolu vai citu spēles noteikumos minēto zīmju vai to kombināciju noteikšanas rezultātā un laimesta lielums ir atkarīgs no iemaksāto likmju lieluma un summas.
+(1) Skaitļu izlozē (loto, toto, keno, sportloto, skaitļu loto) laimestu saņem laimējušo skaitļu, simbolu vai citu spēles noteikumos minēto zīmju vai to kombināciju noteikšanas rezultātā un laimesta lielums ir atkarīgs no iemaksāto likmju lieluma un summas.
+(2) Skaitļu izlozes var tikt īstenotas kā kopspēle, kurā izlozes dalībnieks atbilstoši tās noteikumiem var piedalīties, samaksājot tikai daļu no kopējās maksas par attiecīgo skaitļu kombināciju. Šādā gadījumā izlozes dalībnieka laimests atbilstoši izlozes noteikumiem tiek aprēķināts proporcionāli dalībnieka iemaksātajai dalības maksai kopspēlē.
