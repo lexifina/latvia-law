@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 16. decembra noteikumi Nr. 377 \"Apdrošināšanas un pārapdrošināšanas sabiedrību grupas maksātspējas aprēķina noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "024/249.117",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-20",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2025-01-30",
+  "commission_reference": "MNE(2025)00757",
+  "nim_celex": "72014L0051LVA_202500757",
+  "nim_id": "202500757",
+  "transposes_celex": [
+    "32014L0051"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6acc669b-deae-46c4-9cc9-c24c4c1c3e44",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
