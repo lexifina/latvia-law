@@ -17,3 +17,4 @@
 2) (izslēgts ar 19.09.2024. likumu).
 (3) Karavīram kā drošības līdzekli var piemērot arī nodošanu vienības komandiera (priekšnieka) pārraudzībā.
 (4) Šā panta pirmās daļas 1.¹-4.punktā minētos drošības līdzekļus var piemērot arī papildus jebkuram citam drošības līdzeklim.
+(5) Lai kontrolētu šā panta pirmās daļas 2., 5., 8. vai 9. punktā minētā drošības līdzekļa ietvaros paredzēto ierobežojumu ievērošanu gadījumos, kad ir pamats uzskatīt, ka aizdomās turētais vai apsūdzētais rada augstu vardarbības risku citai personai (vardarbības riskam pakļautā persona), šim aizdomās turētajam vai apsūdzētajam var piemērot nepārtrauktu elektronisko uzraudzību, izmantojot elektronisku ierīci (drošības līdzekļa izpildes elektroniskā uzraudzība).
