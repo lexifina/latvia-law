@@ -1,4 +1,4 @@
 7.pants. Izložu nodokļa likme un apliekamais objekts izlozēm (arī momentloterijām) ir:
-1) 10 procenti no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem, ja izlozes (arī momentloterijas) noteikumos norādītais laimestu fonds ir līdz 60 procentiem no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem;
-2) 10 procenti no izlozes (arī momentloterijas) ieņēmumiem, kas ir izlozes (arī momentloterijas) biļešu realizācijas ieņēmumi, no kuriem atskaitīti izmaksai aprēķinātie laimesti, ja izlozes (arī momentloterijas) noteikumos norādītais laimestu fonds pārsniedz 60 procentus no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem;
-3) 10 procenti no interaktīvās izlozes (naudas, mantu, skaitļu izlozes un momentloterijas) biļešu realizācijas ieņēmumiem, no kuriem atskaitīti izmaksātie laimesti.
+1) 15 procenti no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem, ja izlozes (arī momentloterijas) noteikumos norādītais laimestu fonds ir līdz 60 procentiem no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem;
+2) 15 procenti no izlozes (arī momentloterijas) ieņēmumiem, kas ir izlozes (arī momentloterijas) biļešu realizācijas ieņēmumi, no kuriem atskaitīti izmaksai aprēķinātie laimesti, ja izlozes (arī momentloterijas) noteikumos norādītais laimestu fonds pārsniedz 60 procentus no izlozes (arī momentloterijas) biļešu realizācijas ieņēmumiem;
+3) 15 procenti no interaktīvās izlozes (naudas, mantu, skaitļu izlozes un momentloterijas) biļešu realizācijas ieņēmumiem, no kuriem atskaitīti izmaksātie laimesti.

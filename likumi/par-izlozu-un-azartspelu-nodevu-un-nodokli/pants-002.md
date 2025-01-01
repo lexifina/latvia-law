@@ -1,7 +1,7 @@
 2.pants. Azartspēļu nodevu maksā par azartspēļu - spēļu automātu spēles, bingo, ruletes (cilindriskās spēles), kāršu spēles, kauliņu spēles, totalizatora, derību un veiksmes spēles pa tālruni - organizēšanas licences izsniegšanu vai pārreģistrāciju, kā arī par azartspēļu organizēšanas vietas licences izsniegšanu vai pārreģistrāciju.
 Azartspēļu nodeva par azartspēļu organizēšanas licences izsniegšanu (tai skaitā par azartspēļu organizēšanas licences izsniegšanu, ja azartspēļu organizēšana notiek arī ar elektronisko sakaru pakalpojumu starpniecību) ir 427 000 euro.
 Azartspēļu nodeva par azartspēļu organizēšanas licences izsniegšanu, ja azartspēļu organizēšana notiek tikai ar elektronisko sakaru pakalpojumu starpniecību (interaktīvās azartspēles), ir 200 000 euro.
-Azartspēļu nodeva par šā panta otrajā vai trešajā daļā minētās azartspēļu - spēļu automātu spēles, bingo, ruletes (cilindriskās spēles), kāršu spēles, kauliņu spēles, totalizatora, derību un veiksmes spēles pa tālruni - organizēšanas licences pārreģistrāciju ir 37 000 euro.
+Azartspēļu nodeva par šā panta otrajā vai trešajā daļā minētās azartspēļu - spēļu automātu spēles, bingo, ruletes (cilindriskās spēles), kāršu spēles, kauliņu spēles, totalizatora, derību un veiksmes spēles pa tālruni - organizēšanas licences pārreģistrāciju ir 45 000 euro.
 Azartspēļu nodeva par azartspēļu organizēšanas vietas licences izsniegšanu vai pārreģistrāciju, kas dod tiesības organizēt azartspēles konkrētā azartspēļu organizēšanas vietā (kazino, spēļu zāle, bingo zāle, totalizatora vai derību dalības likmju pieņemšanas vieta), ir:
 1) kazino - 30 000 euro;
 2) spēļu zālei vai bingo zālei - 4500 euro;
