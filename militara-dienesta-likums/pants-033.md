@@ -16,7 +16,7 @@
 14) brigādes ģenerālis (flotiles admirālis) - pulkvedim (jūras kapteinim) ar augstāko izglītību pēc augstākā komandējošā sastāva kursa vai cita tam pielīdzināta kursa pabeigšanas un triju gadu nodienēšanas pulkveža (jūras kapteiņa) pakāpē;
 15) ģenerālmajors (kontradmirālis) - brigādes ģenerālim (flotiles admirālim) ar augstāko izglītību pēc augstākā komandējošā sastāva kursa vai tam pielīdzināta kursa pabeigšanas un triju gadu nodienēšanas brigādes ģenerāļa (flotiles admirāļa) pakāpē;
 16) ģenerālleitnants (viceadmirālis) - ģenerālmajoram (kontradmirālim), ja viņš iecelts par Nacionālo bruņoto spēku komandieri.
-(2) Virsnieku dienesta pakāpes piešķir tikai tiem karavīriem, kuri prot vismaz vienu no Ziemeļatlantijas līguma organizācijas oficiālajām valodām. Valodu prasmi pārbauda aizsardzības ministra noteiktajā kārtībā.
+(2) Virsnieku, kā arī vecāko un augstāko instruktoru dienesta pakāpes piešķir tikai tiem karavīriem, kuri prot vismaz vienu no Ziemeļatlantijas līguma organizācijas oficiālajām valodām. Valodu prasmi pārbauda aizsardzības ministra noteiktajā kārtībā.
 (3) Pulkveža pakāpi un augstāku dienesta pakāpi piešķir karavīram, kas ir nodienējis vienību komandējošā sastāva amatos ne mazāk kā trīs gadus. Šī prasība neattiecas uz virsniekiem speciālistiem.
 (4) Ja karavīrs ir pabeidzis militārās izglītības kursu, kas nav norādīts šajā likumā, viņa vienības komandieris (priekšnieks) pieprasa, lai īpaša komisija aizsardzības ministra noteiktajā kārtībā izvērtē karavīra militārās izglītības atbilstību piešķiramai dienesta pakāpei.
 (5) Militārās izglītības kursu pielīdzina šajā likumā noteiktajām militārās izglītības prasībām aizsardzības ministra noteiktajā kārtībā.
