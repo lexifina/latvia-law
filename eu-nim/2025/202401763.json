@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2024. gada 4. aprīļa noteikumi Nr. 291 \"Maksājumu iestādes un elektroniskās naudas iestādes darbību regulējošo prasību un pārskatu sagatavošanas noteikumi\"",
+  "type_of_act": "FKTK noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "69",
+  "official_journal_page": null,
+  "official_journal_date": "2024-04-09",
+  "entry_into_force": "2025-01-01",
+  "notification_date": "2024-04-12",
+  "commission_reference": "MNE(2024)01763",
+  "nim_celex": "72009L0110LVA_202401763",
+  "nim_id": "202401763",
+  "transposes_celex": [
+    "32009L0110"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e115720b-5651-45f5-93e6-6fa2085ffacc",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
