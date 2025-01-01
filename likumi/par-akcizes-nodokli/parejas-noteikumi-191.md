@@ -1,0 +1,1 @@
+191. Līdz dienai, kad atbilstoši šo pārejas noteikumu 190. punktam sāk piemērot šā likuma 15.¹ panta pirmās daļas 2. punktā noteikto nodokļa likmi, dabasgāzi izmantošanai par kurināmo no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim apliek ar nodokli - 3,8 euro par vienu megavatstundu (MWh), ņemot vērā dabasgāzes augstāko siltumspēju.

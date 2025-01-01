@@ -1,0 +1,1 @@
+192. Šā likuma 15.¹ panta pirmās daļas 3. punktā noteikto nodokļa likmi dabasgāzei izmantošanai par kurināmo, ja galalietotājs ir Eiropas Savienības emisijas kvotu tirdzniecības sistēmas dalībnieks (2,94 euro par vienu megavatstundu (MWh), ņemot vērā dabasgāzes augstāko siltumspēju), piemēro ar 2027. gada 1. janvāri.

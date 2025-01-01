@@ -1,0 +1,1 @@
+188. Līdz dienai, kad atbilstoši šo pārejas noteikumu 187. punktam sāk piemērot šā likuma 14. panta sestajā daļā noteikto nodokļa likmi (par 1000 kilogramiem), naftas gāzi un pārējos gāzveida ogļūdeņražus no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim apliek ar nodokli - 44 euro par 1000 kilogramiem.

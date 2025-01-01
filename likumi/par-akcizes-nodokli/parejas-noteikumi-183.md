@@ -1,0 +1,1 @@
+183. Šā likuma 14. panta pirmās daļas 7. punktā noteikto nodokļa likmi degvieleļļai, kuras kolorimetriskais indekss ir vienāds ar 2,0 vai lielāks un kinemātiskā viskozitāte 50 °C ir vienāda ar 25 mm²/s vai lielāka, tās aizstājējproduktiem un komponentiem (109 euro par 1000 kilogramiem) piemēro ar 2026. gada 1. janvāri.

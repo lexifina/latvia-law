@@ -4,4 +4,7 @@ a) 119,6 euro par 1000 cigaretēm,
 b) 15 procenti no maksimālās mazumtirdzniecības cenas;
 2) no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim - summējot lielumus, kas iegūti, piemērojot šā punkta "a" un "b" apakšpunktā minētās nodokļa likmes, bet aprēķinātais nodoklis nedrīkst būt mazāks kā 171,9 euro par 1000 cigaretēm:
 a) 131,6 euro par 1000 cigaretēm,
+b) 15 procenti no maksimālās mazumtirdzniecības cenas;
+3) no 2026. gada 1. janvāra līdz 2026. gada 31. decembrim - summējot lielumus, kas iegūti, piemērojot šā punkta "a" un "b" apakšpunktā minētās nodokļa likmes, bet aprēķinātais nodoklis nedrīkst būt mazāks kā 189,1 euro par 1000 cigaretēm:
+a) 144,8 euro par 1000 cigaretēm,
 b) 15 procenti no maksimālās mazumtirdzniecības cenas.

@@ -1,0 +1,1 @@
+189. Šā likuma pārejas noteikumu 12.¹ un 12.³ punktā noteiktās prasības neattiecas uz šā likuma 14. panta pirmās daļas 5. punktā minētajiem naftas produktiem, ja attiecīgie naftas produkti tiek piegādāti personām, kuras tos izmanto par kurināmo vai gāzes krāsnīs un citās iekārtās, nevis par degvielu atbilstoši šā likuma 14. panta sestajai daļai.

@@ -1,0 +1,1 @@
+190. Šā likuma 15.¹ panta pirmās daļas 2. punktā noteikto nodokļa likmi dabasgāzei izmantošanai par kurināmo (5,95 euro par vienu megavatstundu (MWh), ņemot vērā dabasgāzes augstāko siltumspēju) piemēro ar 2026. gada 1. janvāri.

@@ -1,3 +1,4 @@
 161. Līdz dienai, kad atbilstoši šo pārejas noteikumu 160. punktam sāk piemērot šā likuma 13. panta pirmās daļas 3. punkta "a" apakšpunktā noteikto nodokļa likmi smalki sagrieztai tabakai cigarešu uztīšanai, "b" apakšpunktā noteikto nodokļa likmi citai smēķējamai tabakai un 4. punktā noteikto nodokļa likmi tabakas lapām, smalki sagrieztu tabaku cigarešu uztīšanai, citu smēķējamo tabaku un tabakas lapas apliek ar nodokli:
 1) no 2024. gada 1. marta līdz 2024. gada 31. decembrim - 105,7 euro par 1000 gramiem tabakas;
-2) no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim - 116,3 euro par 1000 gramiem tabakas.
+2) no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim - 116,3 euro par 1000 gramiem tabakas;
+3) no 2026. gada 1. janvāra līdz 2026. gada 31. decembrim - 127,9 euro par 1000 gramiem tabakas.

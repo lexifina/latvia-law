@@ -1,0 +1,1 @@
+178. Līdz dienai, kad atbilstoši šo pārejas noteikumu 177. punktam sāk piemērot šā likuma 14. panta pirmās daļas 3. punktā noteikto nodokļa likmi (par 1000 litriem), petroleju, tās aizstājējproduktus un komponentus no 2025. gada 1. janvāra līdz 2025. gada 31. decembrim apliek ar nodokli - 439 euro par 1000 litriem.
