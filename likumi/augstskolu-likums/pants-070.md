@@ -8,6 +8,6 @@ Augstākās izglītības padome:
 6) izstrādā priekšlikumus par profesoru skaitu augstskolās un rekomendācijas citos augstākās izglītības jautājumos;
 7) izstrādā priekšlikumus par augstākās izglītības pilnveidošanu un studiju apmaksu;
 8) sniedz izglītības un zinātnes ministram un Ministru kabinetam atzinumu par sagatavoto valsts budžeta projektu augstskolu finansēšanai;
-9) pieņem lēmumu par augstskolu akreditāciju kopumā un iesniedz to Izglītības un zinātnes ministrijai apstiprināšanai;
+9) (izslēgts no 01.01.2025. ar 15.09.2022. likumu. Sk. pārejas noteikumu 72.² punktu);
 10) (izslēgts ar 23.11.2000. likumu);
 11) uztur sakarus ar citu valstu institūcijām, kas risina augstākās izglītības jautājumus.
