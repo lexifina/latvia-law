@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 7. janvāra noteikumi Nr. 18 “Eiropas Savienības kohēzijas politikas programmas 2021.–2027. gadam 2.1.1. specifiskā atbalsta mērķa “Energoefektivitātes veicināšana un siltumnīcefekta gāzu emisiju samazināšana” 2.1.1.8. pasākuma “Energoefektivitāti veicinoši pasākumi kultūras infrastruktūrā” īstenošanas noteikumi”",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2025/7.5",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-10",
+  "entry_into_force": "2025-01-11",
+  "notification_date": "2026-02-05",
+  "commission_reference": "MNE(2026)00962",
+  "nim_celex": "72023L1791LVA_202600962",
+  "nim_id": "202600962",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6c9c06a9-aebc-48ef-baaf-1d6d7cfbb31f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
