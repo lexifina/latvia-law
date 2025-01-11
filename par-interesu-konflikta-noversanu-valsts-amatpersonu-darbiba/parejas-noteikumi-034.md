@@ -1,0 +1,1 @@
+34. Šā likuma grozījums par 7. panta trešās daļas papildināšanu pēc vārdiem "un garnizona priekšnieks" ar vārdiem "Nodokļu un muitas policijas priekšnieks un viņa vietnieks" stājas spēkā 2026. gada 1. janvārī.

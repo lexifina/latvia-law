@@ -1,7 +1,7 @@
 14. pants. Ziedojumu pieņemšanas ierobežojumi
 (1) Par ziedojumu šā likuma izpratnē uzskatāma mantas, tai skaitā finanšu līdzekļu, pakalpojuma, tiesību vai citāda veida labuma, izņemot publiskās infrastruktūras objektu, bezatlīdzības atvēlēšana (nodošana) publiskas personas institūcijas funkciju izpildes veicināšanai. Ziedojums ir uzskatāms par publisko tiesību līgumu, kuru var neslēgt rakstveidā, bet ziedojuma faktu publiskas personas institūcija noformē rakstveidā.
 (2) Valsts amatpersona, kā arī koleģiālā institūcija var pieņemt ziedojumu publiskas personas institūcijas vārdā, ja ziedojuma pieņemšana valsts amatpersonai nerada interešu konfliktu un neietekmē lēmuma pieņemšanu attiecībā uz ziedotāju.
-(3) Ziedojumu nedrīkst pieņemt Konkurences padome, Finanšu un kapitāla tirgus komisija, Sabiedrisko pakalpojumu regulēšanas komisija, Valsts ieņēmumu dienests, Finanšu izlūkošanas dienests, valsts drošības iestāde, izmeklēšanas iestāde, prokuratūra un tiesa.
+(3) Ziedojumu nedrīkst pieņemt Konkurences padome, Latvijas Banka, Sabiedrisko pakalpojumu regulēšanas komisija, Valsts ieņēmumu dienests, Finanšu izlūkošanas dienests, valsts drošības iestāde, izmeklēšanas iestāde, prokuratūra un tiesa.
 (4) Ziedojumu nedrīkst pieņemt no privātpersonas:
 1) kura divu gadu laikā pirms ziedojuma atvēlēšanas ar attiecīgo publiskas personas institūciju vai attiecībā uz to noslēgusi tiesiskus darījumus, saņēmusi finanšu līdzekļus vai garantētus kredītus, izņemot gadījumus, kad:
 a) darījums noslēgts vai finanšu līdzekļi un kredīti piešķirti atklāta konkursa rezultātā,

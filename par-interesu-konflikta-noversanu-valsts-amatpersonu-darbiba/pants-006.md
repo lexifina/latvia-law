@@ -9,5 +9,6 @@
 4) saimniecisko darbību, kura tiek veikta, pārvaldot šai valsts amatpersonai piederošo nekustamo īpašumu, kā saimnieciskās darbības veicējam saskaņā ar likumu "Par iedzīvotāju ienākuma nodokli";
 5) tāda pilnvarojuma izpildi, uz kura pamata šī amatpersona rīkojas sava radinieka vārdā, ja tas nerada interešu konfliktu;
 6) amatu Valsts prezidenta izveidotā komisijā, padomē vai Ordeņu kapitulā, ja tas nerada interešu konfliktu;
-7) dienestu Zemessardzē, ja likumā nav noteikts citādi.
+7) dienestu Zemessardzē, ja likumā nav noteikts citādi;
+8) amatu izglītības iestādes konsultatīvajā institūcijā.
 (5) Pedagoga un zinātnieka darbs šā panta izpratnē ietver arī dalību formālās izglītības ietvaros iegūto zināšanu, zinātniskās darbības rezultātu, pedagoga vai zinātnieka kvalifikācijas vai pedagoģiskās un zinātniskās darbības kvalitātes novērtēšanai izveidotās institūcijās, tai skaitā administratīvo darbu šo institūciju vadīšanā.

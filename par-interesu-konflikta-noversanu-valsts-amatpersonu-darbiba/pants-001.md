@@ -17,4 +17,4 @@ a) publiskas personas iestādes vadītājs (ministrijā - valsts sekretārs). Sa
 b) publiskas personas kapitālsabiedrības valde,
 c) tādas kapitālsabiedrības valde, kurā publiskas personas daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā publiskai personai ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam,
 d) tādas kapitālsabiedrības valde, kurā vienas publiskas personas vai vairāku publisku personu kapitālsabiedrību daļa pamatkapitālā atsevišķi vai kopumā pārsniedz 50 procentus vai kurā vienai publiskai personai vai vairākām publiskām personām ir cita veida izšķirošā ietekme atbilstoši Koncernu likumam;
-10) patiesais labuma guvējs - fiziskā persona, kas par patieso labuma guvēju uzskatāma Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.
+10) patiesais labuma guvējs - fiziskā persona, kas par patieso labuma guvēju uzskatāma Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē.

@@ -1,0 +1,1 @@
+35. Valsts amatpersonām, kas valsts amatpersonas amatu savieno ar citu amatu publiskas personas institūcijās, laikā, kad stājas spēkā šā likuma grozījumi par 7. panta ceturtās un piektās daļas izteikšanu jaunā redakcijā un 7. panta papildināšanu ar 7.¹ un 7.² daļu, ir pienākums līdz 2025. gada 31. augustam nodrošināt atbilstību šā likuma prasībām.
