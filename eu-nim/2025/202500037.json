@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2024. gada 12. decembra likums \"Grozījumi Personu apliecinošu dokumentu likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "251",
+  "official_journal_page": null,
+  "official_journal_date": "2024-12-28",
+  "entry_into_force": "2025-01-11",
+  "notification_date": "2025-01-03",
+  "commission_reference": "MNE(2025)00037",
+  "nim_celex": "72019L0997LVA_202500037",
+  "nim_id": "202500037",
+  "transposes_celex": [
+    "32019L0997"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6be118fc-ef47-43fd-a516-305429bbdec1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
