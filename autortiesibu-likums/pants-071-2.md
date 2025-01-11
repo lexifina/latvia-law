@@ -1,0 +1,2 @@
+71.² pants. Tiesības vērsties Nacionālajā elektronisko plašsaziņas līdzekļu padomē
+Autortiesību un blakustiesību subjekti, kolektīvā pārvaldījuma organizācijas attiecībā uz to pārstāvētajiem autortiesību vai blakustiesību subjektiem, kā arī vienkāršās licences saņēmēji ar autortiesību vai blakustiesību subjektu rakstveida piekrišanu vai izņēmuma licenciāti ir tiesīgi vērsties Nacionālajā elektronisko plašsaziņas līdzekļu padomē ar iesniegumu par autortiesību vai blakustiesību objektu prettiesiskas publiskošanas pārtraukšanu.

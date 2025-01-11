@@ -1,0 +1,2 @@
+71.¹ pants. Nacionālās elektronisko plašsaziņas līdzekļu padomes kompetence attiecībā uz autortiesību vai blakustiesību objektu izmantošanas uzraudzību interneta vidē
+Nacionālā elektronisko plašsaziņas līdzekļu padome, īstenojot uzraudzības iestādes funkcijas Informācijas sabiedrības pakalpojumu likuma izpratnē, šajā nodaļā noteiktajā kārtībā aizsargā autortiesību un blakustiesību subjektu tiesības interneta vidē, tostarp ierobežo piekļuvi tīmekļvietnēm, kurās publiskoti autortiesību vai blakustiesību objekti bez autortiesību vai blakustiesību subjektu piekrišanas.

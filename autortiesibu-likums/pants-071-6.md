@@ -1,0 +1,2 @@
+71.⁶ pants. Lēmuma par autortiesību vai blakustiesību objektu prettiesiskas publiskošanas pārtraukšanu un lēmuma par piekļuves ierobežošanu tīmekļvietnei pārsūdzēšana
+Nacionālās elektronisko plašsaziņas līdzekļu padomes lēmumu par autortiesību vai blakustiesību objektu prettiesiskas publiskošanas pārtraukšanu un lēmumu par piekļuves ierobežošanu tīmekļvietnei var pārsūdzēt Administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā. Šo lēmumu pārsūdzēšana neaptur to darbību.
