@@ -1,30 +1,30 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
-1) aprūpe mājās - pakalpojumi mājās pamatvajadzību apmierināšanai personām, kuras objektīvu apstākļu dēļ nevar sevi aprūpēt;
-2) dienas aprūpes centrs - institūcija, kas dienas laikā nodrošina sociālās aprūpes un sociālās rehabilitācijas pakalpojumus, sociālo prasmju attīstību, izglītošanu un brīvā laika pavadīšanas iespējas personām ar garīga rakstura traucējumiem, personām ar invaliditāti, bērniem no trūcīgām ģimenēm un ģimenēm, kurās ir bērna attīstībai nelabvēlīgi apstākļi, kā arī personām, kuras sasniegušas vecumu, kas dod tiesības saņemt valsts vecuma pensiju (turpmāk - pensijas vecuma personām);
+1) aprūpe mājās - pakalpojumi mājās pašaprūpes un aprūpes vajadzību apmierināšanai personām, kuras objektīvu apstākļu dēļ nevar sevi aprūpēt;
+2) dienas aprūpes centrs - sociālā institūcija, kurā dienas laikā personām ar funkcionāliem traucējumiem vai sociālām problēmām nodrošina sociālās aprūpes un sociālās rehabilitācijas pakalpojumus, sociālo prasmju attīstību, izglītošanu un brīvā laika pavadīšanas iespējas;
 3) dzīves kvalitāte - personas, ģimenes, personu grupas, sabiedrības labklājības rādītājs, kas ietver fizisko un garīgo veselību, brīvo laiku un tā izmantošanu, darbu, izglītību, saikni ar sabiedrību, tiesības patstāvīgi pieņemt lēmumus un tos realizēt, kā arī materiālo nodrošinājumu;
 4) funkcionālais traucējums - slimības, traumas vai iedzimta defekta izraisīts fiziska vai garīga rakstura traucējums, kas ierobežo personas spējas strādāt, aprūpēt sevi un apgrūtina personas iekļaušanos sabiedrībā;
-5) grupu māja (dzīvoklis) - māja vai atsevišķs dzīvoklis, kurā personai ar garīga rakstura traucējumiem nodrošina mājokli, individuālu atbalstu sociālo problēmu risināšanā un, ja nepieciešams, sociālo aprūpi;
+5) grupu māja (dzīvoklis) - māja vai atsevišķs dzīvoklis, kurā personai nodrošina mājokli, individuālu atbalstu sociālo problēmu risināšanā un, ja nepieciešams, sociālo aprūpi;
 6) ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcija - sociālā institūcija, kas nodrošina personai, kura vecuma vai veselības stāvokļa dēļ nespēj sevi aprūpēt, kā arī bāreņiem un bez vecāku gādības palikušiem bērniem mājokli, pilnu aprūpi un sociālo rehabilitāciju;
 7) klients - persona, kas saņem sociālos pakalpojumus vai sociālo palīdzību;
-8) krīzes centrs - sociālā institūcija, kurā tiek sniegta īslaicīga psiholoģiska un cita veida palīdzība krīzes situācijā nonākušām personām;
-9) naktspatversme - sociālā institūcija, kas personām bez noteiktas dzīvesvietas vai krīzes situācijā nonākušām personām nodrošina naktsmītni, vakariņas un personiskās higiēnas iespējas;
+8) krīzes centrs - sociālā institūcija, kurā personām sniedz īslaicīgu psiholoģisku un cita veida palīdzību sociālās funkcionēšanas atjaunošanai;
+9) naktspatversme - sociālā institūcija, kas personām nodrošina naktsmītni, vakariņas un personiskās higiēnas iespējas;
 10) (izslēgts ar 24.11.2020. likumu);
 11) pamatvajadzības - ēdiens, apģērbs, mājoklis, veselības aprūpe, obligātā izglītība;
-12) patversme - sociālā institūcija, kas personām bez noteiktas dzīvesvietas vai krīzes situācijā nonākušām personām nodrošina īslaicīgas uzturēšanās iespējas, uzturu, personiskās higiēnas iespējas un sociālā darba speciālistu pakalpojumus;
-13) profesionālā rehabilitācija - pasākumu kopums, kas pēc individualizētas funkcionālo traucējumu izvērtēšanas un profesionālās piemērotības noteikšanas personām darbspējīgā vecumā nodrošina jaunas profesijas, profesionālo zināšanu vai prasmju apguvi vai atjaunošanu, tai skaitā profesionālās izglītības programmu apgūšanu pamata un vidējās izglītības pakāpē un multidisciplinārus pakalpojumus integrācijai darba tirgū;
+12) patversme - sociālā institūcija, kas personām nodrošina īslaicīgas uzturēšanās iespējas, uzturu, personiskās higiēnas iespējas un sociālā darba speciālistu pakalpojumus;
+13) profesionālā rehabilitācija - multiprofesionālu pasākumu kopums, kas vērsts uz personu ar funkcionēšanas ierobežojumiem integrēšanu darba tirgū, nodrošinot individualizētu funkcionēšanas izvērtēšanu un profesionālās piemērotības noteikšanu, jaunas profesijas apguvi, profesionālo zināšanu vai prasmju apguvi vai atjaunošanu, tai skaitā profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un īsā cikla profesionālās augstākās izglītības pakāpē, un sociālo rehabilitāciju darbspēju uzlabošanai;
 14) psihosociālā palīdzība - sociālā darba virziens, kura nolūks ir palīdzēt indivīdam un ģimenei risināt starppersonu un sociālās vides problēmas, sniedzot psiholoģisku un sociālu atbalstu;
 15) servisa dzīvoklis - dzīvoklis, kas tiek izīrēts un ir pielāgots personai ar smagiem funkcionālajiem traucējumiem, lai palielinātu personas iespējas dzīvot patstāvīgi un aprūpēt sevi;
 16) sociālā darba speciālists - persona, kurai ir šajā likumā noteiktā izglītība un kura veic sociālā darbinieka, karitatīvā sociālā darbinieka, sociālā aprūpētāja, sociālā rehabilitētāja vai sociālās palīdzības organizatora profesionālos pienākumus;
 17) (izslēgts ar 24.11.2020. likumu);
 18) sociālais dienests - pašvaldības izveidota iestāde, kas sniedz sociālo palīdzību, organizē un sniedz sociālos pakalpojumus pašvaldības iedzīvotājiem;
-19) sociālais darbs - profesionāla darbība, lai palīdzētu personām, ģimenēm, personu grupām un sabiedrībai kopumā veicināt vai atjaunot savu spēju sociāli funkcionēt, kā arī radīt šai funkcionēšanai labvēlīgus apstākļus;
+19) sociālais darbs - profesionāla darbība, lai atbalstītu un sekmētu personas, ģimenes, kopienas un visas sabiedrības sociālo funkcionēšanu vai tās atjaunošanu, kā arī radītu šai funkcionēšanai labvēlīgus apstākļus;
 20) sociālās aprūpes pakalpojums - pasākumu kopums, kas vērsts uz to personu pamatvajadzību apmierināšanu, kurām ir objektīvas grūtības aprūpēt sevi vecuma vai funkcionālo traucējumu dēļ, un ietver sevī pakalpojumus personas dzīvesvietā un ilgstošas sociālās aprūpes institūcijās;
 21) sociālās aprūpes pakalpojumi personas dzīvesvietā - pakalpojumi, kas tuvināti ģimenes videi [aprūpe mājās, pakalpojumi dienas aprūpes centrā, servisa dzīvoklis, grupu māja (dzīvoklis) u.c.];
 22) sociālās rehabilitācijas pakalpojumi personas dzīvesvietā - pakalpojumi, kas ir pieejami dzīvesvietā (individuāls sociālais darbs ar klientu, specializēto darbnīcu pakalpojumi, krīzes centru, dienas aprūpes centru u.c. pakalpojumi);
 23) sociālās rehabilitācijas pakalpojums - pasākumu kopums, kas vērsts uz sociālās funkcionēšanas spēju atjaunošanu vai uzlabošanu, lai nodrošinātu sociālā statusa atgūšanu un iekļaušanos sabiedrībā, un ietver sevī pakalpojumus personas dzīvesvietā un sociālās aprūpes un sociālās rehabilitācijas institūcijā vai dzīvesvietā vai sociālās aprūpes un sociālās rehabilitācijas institūcijā;
 24) sociālo pakalpojumu sniedzējs - persona, kas sniedz sociālās aprūpes, sociālās rehabilitācijas, profesionālās rehabilitācijas un sociālā darba pakalpojumus;
-25) specializētās darbnīcas - sociālās rehabilitācijas pakalpojums, kas nodrošina prasmes veicinošas aktivitātes un speciālistu atbalstu personām ar funkcionāliem traucējumiem;
+25) specializētās darbnīcas pakalpojums - sociālās rehabilitācijas pakalpojums, kuru ar speciālistu atbalstu sniedz speciāli pielāgotā darba telpā personām ar funkcionāliem traucējumiem, lai veicinātu to darbspējas, nodarbinātībai nepieciešamo prasmju apguvi, kā arī attīstītu to sociālās un funkcionēšanas spējas;
 26) tehniskie palīglīdzekļi - aprīkojums vai tehniskās sistēmas, kas novērš, kompensē, atvieglo vai neitralizē funkcijas pazeminājumu vai invaliditāti
 27) pusceļa māja - sociālās rehabilitācijas institūcija vai ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijas struktūrvienība, kurā personām ar funkcionāliem traucējumiem nodrošina sociālo rehabilitāciju, patstāvīgai dzīvei nepieciešamo pašaprūpes iemaņu un dzīves prasmju apgūšanu vai nostiprināšanu;
 28) supervīzija - mērķtiecīgi organizēts konsultatīvs un izglītojošs atbalsts sociālā darba speciālistiem viņu profesionālās kompetences un profesionālās darbības kvalitātes pilnveidošanai;
@@ -42,4 +42,8 @@ Likumā ir lietoti šādi termini:
 40) mājsaimniecība - vairākas personas, kuras dzīvo vienā mājoklī un kopīgi sedz izdevumus, vai viena persona, kura saimnieko atsevišķi;
 41) sociālā funkcionēšana - personas spēja darboties dažādās dzīves jomās un pildīt atbilstošas sociālās lomas, kuras nemitīgi tiek pakļautas apkārtējās vides ietekmei un ietver sabiedrības gaidas un objektīvās prasības;
 42) atbalsta personas lēmumu pieņemšanā pakalpojums - sociālais pakalpojums, kas tiek sniegts pilngadīgai personai ar garīga rakstura traucējumiem, lai to atbalstītu lēmumu pieņemšanā;
-43) atbalsta persona lēmumu pieņemšanā - persona, kas atbilstoši profesionālajai kompetencei sniedz pilngadīgai personai ar garīga rakstura traucējumiem atbalstu lēmumu pieņemšanā.
+43) atbalsta persona lēmumu pieņemšanā - persona, kas atbilstoši profesionālajai kompetencei sniedz pilngadīgai personai ar garīga rakstura traucējumiem atbalstu lēmumu pieņemšanā;
+44) atelpas brīža pakalpojums - īslaicīgs sociālās aprūpes pakalpojums, kas tiek sniegts institūcijā vai mājoklī personai ar funkcionāliem traucējumiem, lai aprūpes procesā aizstātu mājsaimniecībā dzīvojošas personas to prombūtnes laikā;
+45) ģimenes asistenta pakalpojums - sociālais pakalpojums, ko nodrošina personai (ģimenei) tās dzīvesvietā un apkārtējā vidē, atbalstot un veicinot sociālo, bērna aprūpes un mājsaimniecības vadīšanas prasmju apguvi un pilnveidi, kā arī apgūto un pilnveidoto prasmju nostiprināšanu;
+46) kopiena - tādu personu kopums, kuras vieno ģeogrāfiska piederība, kopīgas intereses vai kopīga identitāte;
+47) krīzes dzīvokļa pakalpojums - drošs patvērums vardarbībā cietušām pilngadīgām personām, tostarp personām ar bērniem, augsta vardarbības riska gadījumā, ja ir apdraudēta cietušo veselība un dzīvība.

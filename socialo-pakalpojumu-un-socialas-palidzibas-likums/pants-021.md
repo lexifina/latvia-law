@@ -4,5 +4,13 @@
 2) personām pēc brīvības atņemšanas soda izciešanas;
 3) personām, kurām ir izveidojusies atkarība no alkohola, narkotiskajām vai psihotropajām vielām;
 4) personām, kuras cietušas no vardarbības;
-5) bērniem, kuri ilgstoši (ilgāk par vienu gadu) atradušies ārpusģimenes aprūpē.
-(2) Pašvaldības atbilstoši nepieciešamībai izstrādā rehabilitācijas programmas arī personu grupām, kuru iekļaušanās sabiedrības dzīvē ir apgrūtināta citu iemeslu dēļ.
+5) bērniem, kuri ilgstoši (ilgāk par vienu gadu) atradušies ārpusģimenes aprūpē;
+6) bērniem ar uzvedības problēmām vai augstiem to attīstības riskiem;
+7) bērniem, kuri atrodas ārpusģimenes aprūpē un ir sasnieguši 16 gadu vecumu;
+8) šā likuma 12. panta septītajā daļā minētajām personām;
+9) šā likuma 12. panta astotajā daļā minētajām personām.
+(2) Pašvaldības atbilstoši nepieciešamībai izstrādā rehabilitācijas programmas arī personu grupām, kuru iekļaušanās sabiedrības dzīvē ir apgrūtināta citu iemeslu dēļ. Pašvaldības atbilstoši nepieciešamībai var nodrošināt šā panta pirmajā daļā minētajām personām arī citus atbalsta pasākumus.
+(3) (Ievaddaļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 65. punktu):
+1) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 65. punktu);
+2) (punkts stājas spēkā 01.01.2029. un iekļauts likuma redakcijā uz 01.01.2029. Sk. pārejas noteikumu 67. punktu).
+(4) Specializētās darbnīcas pakalpojuma sniedzējs no saviem līdzekļiem var izmaksāt atbalstu personām, kuras sociālās rehabilitācijas pakalpojuma ietvaros saņem specializētās darbnīcas pakalpojumu, lai veicinātu personu motivāciju līdzdarboties specializētās darbnīcas organizētajās aktivitātēs.

@@ -5,4 +5,4 @@
 (4) Maznodrošinātas mājsaimniecības ienākumu slieksni katra pašvaldība ir tiesīga noteikt ne augstāku par 80 procentiem no ienākumu mediānas, bet ne zemāku par šā panta trešajā daļā noteikto trūcīgas mājsaimniecības ienākumu slieksni.
 (5) Minimālo ienākumu sliekšņu apmērus mājsaimniecībai aprēķina, piemērojot attiecīgajam ienākumu slieksnim šādus koeficientus:
 1) pirmajai vai vienīgajai personai mājsaimniecībā - koeficientu 1;
-2) pārējām personām mājsaimniecībā - koeficientu 0,7.
+2) pārējām personām mājsaimniecībā - koeficientu 0,7, noapaļojot līdz veseliem euro.

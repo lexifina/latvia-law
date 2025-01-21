@@ -13,5 +13,5 @@
 (5) Lai mājsaimniecībai aprēķinātu mājokļa pabalsta apmēru, garantēto minimālo ienākumu sliekšņu summai piemēro šādus koeficientus:
 1) atsevišķi dzīvojošai pensijas vecuma personai vai atsevišķi dzīvojošai personai ar invaliditāti - koeficientu 2,1;
 2) mājsaimniecībai, kurā ir tikai pensijas vecuma personas vai personas ar invaliditāti, - koeficientu 1,7;
-3) mājsaimniecībai, kurā ir pensijas vecuma personas vai personas ar invaliditāti un bērni, - koeficientu 1,7;
+3) mājsaimniecībai, kurā ir tikai pensijas vecuma personas vai personas ar invaliditāti un bērni, - koeficientu 1,7;
 4) pārējām mājsaimniecībām - koeficientu 1,3.
