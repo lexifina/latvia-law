@@ -5,7 +5,7 @@
 1) nacionālajā radiofrekvenču plānā noteikts ierobežojums ierobežotas radiofrekvenču joslas izmantošanai;
 2) nav izpildīti ierobežotas radiofrekvenču joslas lietošanas tiesību izmantošanas nosacījumi un specifiskie lietošanas tiesību nosacījumi;
 3) pastāv konkurences kropļošanas iespējas.
-(4) Regulatoram ir tiesības anulēt piešķirtās ierobežotas radiofrekvenču joslas lietošanas tiesības, ja pastāv vismaz viens no šādiem nosacījumiem:
+(4) Regulatoram ir tiesības anulēt piešķirtās ierobežotas radiofrekvenču joslas lietošanas tiesības, kā arī citā veidā iegūtas šo tiesību izmantošanas iespējas, ja pastāv vismaz viens no šādiem nosacījumiem:
 1) elektronisko sakaru komersants neievēro ierobežotas radiofrekvenču joslas lietošanas tiesību izmantošanas nosacījumus;
 2) elektronisko sakaru komersants nepilda specifiskos lietošanas tiesību nosacījumus;
 3) nacionālajā radiofrekvenču plānā noteikts ierobežojums ierobežotas radiofrekvenču joslas izmantošanai;

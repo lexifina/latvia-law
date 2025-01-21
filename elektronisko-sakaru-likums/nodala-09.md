@@ -1,2 +1,2 @@
 IX nodaļa
-Piekļuve un starpsavienojums
+Piekļuve

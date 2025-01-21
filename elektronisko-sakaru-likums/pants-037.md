@@ -1,5 +1,5 @@
 37. pants. Prasības attiecībā uz līgumā iekļaujamo informāciju
-(1) Regulators nosaka elektronisko sakaru pakalpojumu līgumā un kopsavilkumā iekļaujamo informāciju.
+(1) Regulators nosaka elektronisko sakaru pakalpojumu līgumā iekļaujamo informāciju.
 (2) Elektronisko sakaru komersants informāciju, kuru iekļauj elektronisko sakaru pakalpojumu līgumā un kopsavilkumā, patērētājam sniedz skaidri un saprotami, izmantojot pastāvīgu informācijas nesēju. Ja elektronisko sakaru komersants minēto informāciju nevar sniegt, izmantojot pastāvīgu informācijas nesēju, tas nodrošina, ka attiecīgā informācija patērētājam ir pieejama citā veidā kā viegli lejuplādējams dokuments. Minētās informācijas pieejamību galalietotājam ar invaliditāti elektronisko sakaru komersants nodrošina pēc tā pieprasījuma. Šī daļa neattiecas uz līgumiem par starppersonu sakaru pakalpojumu, neizmantojot numerāciju, vai M2M pakalpojumu.
 (3) Elektronisko sakaru komersants, piedāvājot patērētājam pakalpojumu komplektu ar galiekārtu vai bez tās, kas ietver vismaz interneta piekļuves pakalpojumu vai starppersonu sakaru pakalpojumu, izmantojot numerāciju, nodrošina:
 1) šā panta pirmajā daļā minēto kopsavilkumu par visiem komplektā iekļautajiem elektronisko sakaru pakalpojuma veidiem;
