@@ -1,2 +1,2 @@
-12.pants. (1) Šā likuma 5.-7.pantā minēto iestāžu vadītāji ir atbildīgi par šā likuma prasību ievērošanu attiecīgajās iestādēs.
+12.pants. (1) Šā likuma 5., 6. un 7. pantā minēto iestāžu vadītāji ir atbildīgi par šā likuma prasību ievērošanu attiecīgajās iestādēs. Valsts akciju sabiedrība "Ceļu satiksmes drošības direkcija" ir atbildīga par valsts ģerboņa lietošanu atbilstoši šā likuma prasībām attiecībā uz mehānisko transportlīdzekļu valsts reģistrācijas numura zīmēm.
 (2) Šā likuma prasību ievērošanu sabiedriskajās vietās uzrauga policija.

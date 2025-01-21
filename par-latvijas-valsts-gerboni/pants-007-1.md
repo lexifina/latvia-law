@@ -1,0 +1,1 @@
+7.¹ pants. Mazo valsts ģerboni var lietot uz mehānisko transportlīdzekļu valsts reģistrācijas numura zīmēm. Izstrādājot valsts standartu valsts reģistrācijas numura zīmēm, kurās tiek lietots mazais valsts ģerbonis, ņem vērā Valsts heraldikas komisijas atzinumu par mazā valsts ģerboņa atbilstību šā likuma prasībām.

@@ -1,0 +1,1 @@
+10. Šā likuma 7.¹ panta pirmajā teikumā un 12. panta pirmās daļas otrajā teikumā ietverto noteikumu par mazā valsts ģerboņa lietošanu uz mehānisko transportlīdzekļu valsts reģistrācijas numura zīmēm piemēro, sākot ar 2026. gada 1. janvāri.
