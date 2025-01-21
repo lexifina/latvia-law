@@ -1,7 +1,7 @@
 20. pants. Pienākumi un ierobežojumi, kas izriet no fiziskās personas atbrīvošanas no parādsaistībām
 (1) Pēc tam, kad maksātnespējas reģistrā izdarīts ieraksts par fiziskās personas atbrīvošanu no parādsaistībām, parādniekam ir šādi pienākumi:
 1) turpināt pildīt saistības, no kurām viņš nav atbrīvots;
-2) triju mēnešu laikā apmeklēt sākotnējo konsultāciju sociālajā dienestā, lai konstatētu, vai viņš ir sociālā dienesta klients Sociālo pakalpojumu un sociālās palīdzības likuma izpratnē;
+2) ja parādniekam pēdējo 36 mēnešu laikā pirms pieteikuma iesniegšanas vismaz trīs mēnešus ir bijis trūcīgā vai maznodrošinātā mājsaimniecībā esošās personas statuss, - divu mēnešu laikā apmeklēt sākotnējo konsultāciju sociālajā dienestā, lai konstatētu, vai viņš ir sociālā dienesta klients Sociālo pakalpojumu un sociālās palīdzības likuma izpratnē;
 3) ja parādniekam nav darba tiesisko attiecību vai tām līdzvērtīgu attiecību vai viņš neveic patstāvīgu saimniecisko darbību un ja tas ir objektīvi iespējams, nekavējoties uzsākt darba tiesiskās attiecības vai tām līdzvērtīgas attiecības, patstāvīgu saimniecisko darbību vai reģistrēties Nodarbinātības valsts aģentūrā.
 (2) Sociālais dienests, nosūtot elektronisku paziņojumu, informē zvērinātu notāru, kurš taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām, par to, ka attiecīgā persona ir apmeklējusi šā panta pirmās daļas 2. punktā minēto konsultāciju, - piecu darbdienu laikā pēc apmeklējuma.
 (3) Parādnieks triju mēnešu laikā zvērinātam notāram, kurš taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām, iesniedz vienu no šādiem apliecinājumiem:

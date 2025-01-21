@@ -10,5 +10,5 @@
 (7) Pieteikumu par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu tiesa izskata Civilprocesa likumā noteiktajā kārtībā.
 (8) Zvērināts notārs, kurš taisījis notariālo aktu par fiziskās personas atbrīvošanu no parādsaistībām, tiesas noteiktajā termiņā vai kopā ar pieteikumu par fiziskās personas atbrīvošanas no parādsaistībām atcelšanu iesniedz tiesā notariālā akta par fiziskās personas atbrīvošanu no parādsaistībām un citu lietas materiālu atvasinājumus.
 (9) Fiziskās personas atbrīvošanu no parādsaistībām atceļ, ja pastāv kāds no šādiem apstākļiem:
-1) fiziskā persona neievēro šā likuma 21. pantā noteiktos pienākumus un ierobežojumus;
+1) fiziskā persona neievēro šajā pantā noteiktos pienākumus un ierobežojumus;
 2) parādnieks pieteikumā par fiziskās personas atbrīvošanu no parādsaistībām ir sniedzis nepatiesas ziņas, kuru dēļ viņš nepamatoti atbrīvots no parādsaistībām.
