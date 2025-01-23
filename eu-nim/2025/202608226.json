@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 21. janvāra noteikumi Nr. 50 \"Noteikumi par prasībām gāzveida stāvoklī pārvērstas sašķidrinātās dabasgāzes, no atjaunīgajiem energoresursiem saražota vai iegūta gāzveida kurināmā un mazoglekļa gāzveida kurināmā ievadīšanai dabasgāzes pārvades un sadales sistēmā\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "15",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-22",
+  "entry_into_force": "2025-01-23",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08226",
+  "nim_celex": "72024L1788LVA_202608226",
+  "nim_id": "202608226",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a27a43ff-7f27-4292-802a-0d4f3ef21042",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
