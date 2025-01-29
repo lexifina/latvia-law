@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 21. janvāra noteikumi Nr. 59 \"Mēneša pārskata sagatavošanas kārtība\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2025/19.3",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-28",
+  "entry_into_force": "2025-01-29",
+  "notification_date": "2026-01-27",
+  "commission_reference": "MNE(2026)00758",
+  "nim_celex": "72024L1265LVA_202600758",
+  "nim_id": "202600758",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/80abe4b8-fbf6-412c-910e-9bd6ac7cd338",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
