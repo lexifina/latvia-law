@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 28. janvāra noteikumi Nr. 68 \"Grozījumi Ministru kabineta 2020. gada 10. decembra noteikumos Nr. 730 \"Ekspluatējamu ēku energoefektivitātes minimālās prasības\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "22",
+  "official_journal_page": null,
+  "official_journal_date": "2025-01-31",
+  "entry_into_force": "2025-02-01",
+  "notification_date": "2026-05-28",
+  "commission_reference": "MNE(2026)03393",
+  "nim_celex": "72024L1275LVA_202603393",
+  "nim_id": "202603393",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/c9cdbeda-b339-4bc3-9913-31cd6ede7a45",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
