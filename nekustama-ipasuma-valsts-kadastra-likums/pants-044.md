@@ -1,16 +1,13 @@
 44.pants. (1) Par nekustamā īpašuma objektu Kadastra informācijas sistēmā:
-1) reģistrē un uztur šādas ziņas atbilstoši nekustamā īpašuma objekta noteikšanas dokumentiem:
+1) reģistrē un uztur šādas ziņas:
 a) kadastra apzīmējumu,
-b) kadastrālās uzmērīšanas datus (to skaitā platība, zemes lietošanas veids, robežas, to precizitāte),
+b) kadastrālās uzmērīšanas datus,
 c) nekustamā īpašuma lietošanas mērķus un tiem piekritīgās platības,
-d) nekustamā īpašuma objekta apgrūtinājumus, kas noteikti uz likuma pamata, un ēku, ūdens lietošanas vai ceļa servitūta teritoriju,
+d) nekustamā īpašuma objekta apgrūtinājumus atbilstoši Apgrūtināto teritoriju informācijas sistēmā iekļautajiem datiem par apgrūtinātajām teritorijām un to robežām un ēku, ūdens lietošanas vai ceļa servitūta teritoriju,
 e) kadastrālās vērtēšanas datus,
 f) norādi uz nekustamo īpašumu, kurā ietilpst nekustamā īpašuma objekts,
 g) norādi uz zemes vienības daļu;
-2) ieraksta šā likuma 84.pantā minēto personu sniegtās ziņas:
-a) datus par mežaudzēm,
-b) nekustamā īpašuma objekta adresi,
-c) (izslēgts ar 01.12.2009. likumu).
+2) ieraksta šā likuma 84. pantā minēto personu sniegtās ziņas.
 (2) Papildus šā panta pirmajā daļā minētajām ziņām ieraksta:
 1) tā dokumenta rekvizītus, no kura ierakstītas ziņas;
 2) nekustamā īpašuma objekta lietas arhīva reģistrācijas numuru;
