@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada ziemas sesija",
+ "sede": 6,
+ "datums": "2025-02-06",
+ "ieraksts": {
+  "dkp_id": "408fbd69-0cb7-43ee-bbfb-6ab5050ca177",
+  "lastmodtime": "\"AAAAAAJVH/Q=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Mairita#Anna#Edmunds#Juris#Svetlana#Mārtiņš#Mārcis#Andris#Didzis#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Didzis#Ģirts Valdis#Ģirts#Ingmārs#Viktors#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Ervins#Jānis#Alīna#Jekaterina#Ilze#Jānis#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Edgars#Leila#Jānis#Lauris#Linda#Atis#Aleksandrs#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Lūse#Rancāne#Cepurītis#Jakovins#Čulkova#Daģis#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Zemmers#Kristovskis#Štekerhofs#Līdaka#Pučka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Labanovskis#Vitenbergs#Gendele#Drelinga#Vergina#Reirs#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Zelderis#Rasima#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#ZZS#ST!#JV#LPV#ZZS#AS#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#JV#ZZS#AS#ST!#LPV#NA#JV#NA#PRO#ZZS#JV#PRO#NA#JV#ST!#JV#JV#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!# #JV# #JV#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS# #PRO#JV#AS#LPV#PRO# #JV#ZZS#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "06.02.2025 14:42:11",
+  "VOTEMOTIVE": "Par Vidzemes rajona tiesas tiesneses Ilzes Lazdiņas atbrīvošanu no tiesneša amata (621/Lm14)",
+  "VOTING_ID": "c05227ae-0724-480c-a2dc-df02303d1c49",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "80",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada ziemas sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/688fafeb-92e9-41cb-9379-47413d083f94/download/14.saeimas-2025.gada-ziemas-sesija-6-vote.xml",
+  "sha256": "3b610488f33a665282bfb72e5766b122f084f590b17b66fa802d299e1d1ca0de",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
