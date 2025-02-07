@@ -4,3 +4,4 @@
 (3) Administratīvā pārkāpuma procesu par šā likuma 14. panta pirmajā, otrajā un sestajā daļā minētajiem pārkāpumiem veic pašvaldības policija.
 (4) Administratīvā pārkāpuma procesu par šā likuma 14. panta ceturtajā, piektajā, septītajā un astotajā daļā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī pašvaldības policija, bet administratīvā pārkāpuma lietu izskata Valsts policija.
 (5) Administratīvā pārkāpuma procesu par šā likuma 14. panta ceturtajā daļā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī Veselības inspekcija vai Pārtikas un veterinārais dienests, bet administratīvā pārkāpuma lietu izskata Valsts ieņēmumu dienests.
+(6) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 23. punktu)

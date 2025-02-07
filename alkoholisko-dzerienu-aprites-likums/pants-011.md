@@ -15,3 +15,6 @@
 4) uz sabiedriskā transporta līdzekļiem un tajos;
 5) vides reklāmās.
 (4) Šā panta pirmās daļas 1. un 4.punktā minētie aizliegumi attiecas arī uz citu preču un pakalpojumu reklāmu, ja vien tās mērķis nav negatīvi attēlot alkoholisko dzērienu lietošanu.
+(5) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 20. punktu)
+(6) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 20. punktu)
+(7) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 20. punktu)
