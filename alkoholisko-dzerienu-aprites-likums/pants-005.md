@@ -9,3 +9,6 @@
 (7) Alkoholisko dzērienu vairumtirdzniecība aizliegta teritorijās, kurām noteiktā kārtībā piešķirts tirgus statuss.
 (8) Alkoholisko dzērienu vairumtirgotāji un mazumtirgotāji paziņotajā darba laikā nodrošina iespēju Valsts ieņēmumu dienestam salīdzināt faktisko alkoholisko dzērienu daudzumu ar uzskaites datiem.
 (9) Latvijā no valsts, kura nav Eiropas Savienības dalībvalsts, atļauts ievest tādu alu, kuram līdz derīguma termiņa beigām ir atlicis ne mazāk par 30 dienām. Šis ierobežojums neattiecas uz fiziskajām personām, kas alu ieved personiskajam patēriņam normatīvajos aktos noteiktajā daudzumā.
+(10) Tirdzniecības (tai skaitā ar distances līgumu) un pakalpojumu sniegšanas vietās ir aizliegts piedāvāt alkoholiskos dzērienus par velti, kā dāvanu vai kā kompensāciju par citas preces iegādi vai pakalpojuma saņemšanu. Alkoholisko dzērienu degustācija atļauta alkoholisko dzērienu tirdzniecības vietās (izņemot azartspēļu organizēšanas vietas) un alkoholisko dzērienu ražošanas vietās vai ražotāja telpās.
+(11) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 20. punktu)
+(12) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 20. punktu)

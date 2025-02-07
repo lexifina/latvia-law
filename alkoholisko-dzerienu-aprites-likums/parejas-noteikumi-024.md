@@ -1,0 +1,1 @@
+24. Ministru kabinets līdz 2026. gada 31. oktobrim izvērtē šajā likumā ietverto ierobežojumu ietekmi uz tautsaimniecību un atbilstību sabiedrības interesēm un iesniedz Saeimai ziņojumu par izvērtējumu, kā arī, ja nepieciešams, iesniedz Saeimai grozījumus attiecīgos normatīvajos aktos.

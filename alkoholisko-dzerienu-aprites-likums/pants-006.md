@@ -15,9 +15,10 @@
 2) (izslēgts ar 05.03.2015. likumu);
 3) nodalītajā tirdzniecības zāles pašapkalpošanās zonā izvietojami tikai alkoholiskie dzērieni, tabakas izstrādājumi un to piederumi, kā arī tādas preces, kas saistītas ar alkoholiskajiem dzērieniem (piemēram, dzērienu taras atvēršanas ierīces, dzērienu lietošanai paredzēti trauki).
 (1²) Alkoholisko dzērienu mazumtirdzniecība ir aizliegta valsts un pašvaldību kultūras un sporta iestāžu telpās, ja tajās atrodas šā panta pirmās daļas 1.punktā minētie objekti un kultūras un sporta iestāžu apmeklētāju plūsma nav nošķirama no attiecīgā objekta apmeklētājiem.
-(1³) Alu, raudzētos dzērienus, starpproduktus un pārējos alkoholiskos dzērienus aizliegts pārdot iepakojuma vienībā, kuras tilpums pārsniedz:
-1) 0,5 litrus, ja absolūtā spirta daudzums minētajos alkoholiskajos dzērienos pārsniedz 5,8 tilpumprocentus;
-2) 1 litru, ja absolūtā spirta daudzums minētajos alkoholiskajos dzērienos nepārsniedz 5,8 tilpumprocentus.
+(1³) Alu, raudzētos dzērienus, starpproduktus un pārējos alkoholiskos dzērienus aizliegts pārdot iepakojuma vienībā, kuras tilpums:
+1) pārsniedz 0,5 litrus, ja absolūtā spirta daudzums minētajos alkoholiskajos dzērienos pārsniedz 5,8 tilpumprocentus;
+2) pārsniedz 1 litru, ja absolūtā spirta daudzums minētajos alkoholiskajos dzērienos nepārsniedz 5,8 tilpumprocentus;
+3) (punkts stājas spēkā 01.01.2028. un iekļauts likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 25. punktu).
 (1⁴) Šā panta 1.³ daļā minēto iepakojuma tilpuma ierobežojumu alkoholisko dzērienu tirdzniecībā nepiemēro, ja:
 1) iepakojuma vienība ir izgatavota no stikla, keramikas, koka, metāla vai kompleksā iepakojuma, kas sastāv no polimēra vai lamināta maisa, kurš iepakots kartona kastē;
 2) alu, raudzētos dzērienus, starpproduktus un pārējos alkoholiskos dzērienus tirgo to ražošanas vietā vai ražotāja struktūrvienībā.
@@ -26,7 +27,8 @@
 (2²) Alkoholiskos dzērienus aizliegts pārdot personām, par kuru vecumu mazumtirgotājam ir pamatotas šaubas un kuras pēc mazumtirgotāja pieprasījuma neuzrāda personu apliecinošu dokumentu, kas apliecina šo personu vecumu.
 (2³) Pēc uzraudzības un kontroles iestādes pieprasījuma jebkura pircēja pienākums ir apliecināt savu personu un vecumu, uzrādot personu apliecinošu dokumentu.
 (2⁴) Mazumtirgotājs nodrošina, lai alkoholisko dzērienu mazumtirdzniecībā tieši iesaistītie darbinieki pirms darba pienākumu izpildes uzsākšanas un turpmāk ne retāk kā vienu reizi mēnesī tiktu instruēti par alkoholisko dzērienu mazumtirdzniecības noteikumiem.
-(3) Aizliegts piedāvāt alkoholiskos dzērienus par velti (izņemot degustāciju), kā dāvanu vai kā kompensāciju par citas preces iegādi vai pakalpojuma saņemšanu.
+(2⁵) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 23. punktu)
+(3) (Izslēgta ar 09.01.2025. likumu)
 (3¹) Aizliegts piedāvāt alkoholiskos dzērienus degustācijai ārpus nodalītās tirdzniecības zāles pašapkalpošanās zonas, kurā tiek izvietoti tikai alkoholiskie dzērieni, tabakas izstrādājumi un to piederumi, kā arī tādas preces, kas saistītas ar alkoholiskajiem dzērieniem.
 (4) Mazumtirgotājs nodrošina, lai alkoholisko dzērienu patērētāji tirdzniecības zālē vai citā alkoholisko dzērienu tirdzniecības vietā ievēro sabiedrisko kārtību un sanitārās normas.
 (5) Alkoholisko dzērienu mazumtirdzniecība patērēšanai uz vietas ir atļauta, ja:
