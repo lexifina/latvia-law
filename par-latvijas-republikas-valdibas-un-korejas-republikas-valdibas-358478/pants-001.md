@@ -1,0 +1,1 @@
+1. pants. 2024. gada 31. jūlijā parakstītais Latvijas Republikas valdības un Korejas Republikas valdības nolīgums par darba un brīvdienu programmu (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
