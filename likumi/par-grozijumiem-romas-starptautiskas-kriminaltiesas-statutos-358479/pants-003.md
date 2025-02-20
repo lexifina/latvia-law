@@ -1,0 +1,1 @@
+3. pants. Romas Starptautiskās krimināltiesas Dalībvalstu Asamblejas 2019. gada 6. decembra rezolūcijā ICC-ASP/18/Res.5 noteiktie grozījumi stājas spēkā Romas Starptautiskās krimināltiesas statūtu 121. panta 5. punktā noteiktajā kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis".

@@ -1,0 +1,1 @@
+1. pants. Grozījumi Romas Starptautiskās krimināltiesas statūtos (turpmāk - grozījumi), kas apstiprināti ar Romas Starptautiskās krimināltiesas Dalībvalstu Asamblejas 2019. gada 6. decembra rezolūciju ICC-ASP/18/Res.5, ar šo likumu tiek pieņemti un apstiprināti.
