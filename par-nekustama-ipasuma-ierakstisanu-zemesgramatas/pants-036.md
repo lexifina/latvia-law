@@ -1,6 +1,7 @@
 36.pants. (1) Ēkas (būves) zemesgrāmatās ierakstāmas uz valsts vai pašvaldības vārda, pamatojoties uz vienu no šādiem dokumentiem:
 1) valsts arhīva izziņu par ēku (būvju) piederību valstij, likvidētai valsts iestādei, uzņēmumam vai uzņēmējsabiedrībai ar valsts kapitālu 1940.gada 21.jūlijā;
 2) aktu par ēku (būvju) pieņemšanu ekspluatācijā;
+2¹) sertificēta speciālista apliecinājumu par paziņošanas kārtībā uzbūvētas būves esību apvidū;
 3) darījuma aktu par ēku (būvju) iegūšanu;
 4) tiesas spriedumu vai lēmumu, izņemot spriedumus, kas minēti likuma "Par namīpašumu atdošanu likumīgajiem īpašniekiem" 7. un 8.pantā;
 5) administratīvā kārtībā pieņemtu aktu par valsts īpašumā esošu ēku (būvju) nodošanu pašvaldībai vai otrādi;

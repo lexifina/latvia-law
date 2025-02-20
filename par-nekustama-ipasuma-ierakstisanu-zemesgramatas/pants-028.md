@@ -1,6 +1,7 @@
 28.pants. Ēkas (būves) ierakstāmas zemesgrāmatā, pamatojoties uz vienu no šādiem dokumentiem:
 1) likumā noteikto institūciju izsniegto dokumentu par īpašuma tiesību atjaunošanu;
 2) noteiktā kārtībā apstiprinātu aktu par ēkas (būves) pieņemšanu ekspluatācijā:
+2¹) sertificēta speciālista apliecinājumu par paziņošanas kārtībā uzbūvētas būves esību apvidū;
 3) darījuma aktu par ēku (būvju) iegūšanu;
 4) tiesas spriedumu vai lēmumu, izņemot spriedumus, kas minēti likuma "Par namīpašumu atdošanu likumīgajiem īpašniekiem" 7. un 8.pantā;
 5) aktu par ēku (būvju) iegūšanu izsolē tiesas ceļā (līdz 1995.gada 29.martam);
