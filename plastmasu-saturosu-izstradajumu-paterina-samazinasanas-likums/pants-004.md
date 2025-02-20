@@ -10,6 +10,8 @@
 a) paredzēts tūlītējam patēriņam vai nu uz vietas, vai līdzņemšanai,
 b) parasti tiek patērēts no iepakojuma trauka,
 c) gatavs patērēšanai bez turpmākas sagatavošanas (cepšanas, vārīšanas, sildīšanas u. tml.);
-8) no putu polistirola izgatavotu dzērienu iepakojumu un tā korķīšus un vāciņus, kā arī dzērienu glāzes.
+8) no putu polistirola izgatavotu dzērienu iepakojumu un tā korķīšus un vāciņus, kā arī dzērienu glāzes;
+9) konfeti un tos saturošus priekšmetus.
+(1¹) Šā panta pirmās daļas 7. un 8. punktā noteiktais aizliegums laist tirgū no putu polistirola izgatavotus izstrādājumus attiecas uz visu veidu putu polistirola materiāliem, kuri ražoti atbilstoši polistirola uzpūšanas tehnoloģijai, ieskaitot tādus, kuri papildus uzpūšanai izgājuši arī citus apstrādes posmus (presēšanu (ekstrūziju) u. c.).
 (2) Ražotājam aizliegts laist tirgū izstrādājumus, kas izgatavoti no oksonoārdāmas plastmasas.
 (3) Šajā pantā noteiktais aizliegums laist tirgū no putu polistirola izgatavotu pārtikas iepakojumu neattiecas uz tādu dzērienu iepakojumu, šķīvjiem, paciņām un iesaiņojumu, kurā iepakota pārtika un kurā pārtiku individuālam patēriņam iepako ražošanas līnijā, pēc tam nogādājot uz tirdzniecības vietu, kas atrodas ārpus ražotnes vai ražotāja noliktavas.

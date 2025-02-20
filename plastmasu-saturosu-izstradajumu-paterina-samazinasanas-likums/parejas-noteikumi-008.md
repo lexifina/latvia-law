@@ -1,0 +1,1 @@
+8. Šā likuma 4. panta pirmās daļas 9. punktā minēto aizliegumu nepiemēro, ja tajā minētie izstrādājumi (konfeti un tos saturoši priekšmeti) laisti tirgū līdz 2025. gada 31. decembrim un to var dokumentāri pamatot ar preču piegādes dokumentiem vai muitas deklarācijām, kas noformētas atbilstoši muitas procedūrai - laišana brīvā apgrozībā.
