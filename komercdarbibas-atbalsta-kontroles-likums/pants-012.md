@@ -4,4 +4,5 @@ Lai nodrošinātu komercdarbības atbalsta īstenošanas tiesiskumu, Ministru ka
 2) kārtību, kādā publicē informāciju par sniegto komercdarbības atbalstu, elektroniski iesniedz Eiropas Komisijai gada ziņojumus par komercdarbības atbalsta izdevumiem un kādā piešķir un anulē gada ziņojumu elektroniskās sistēmas lietošanas tiesības;
 3) Latvijas teritorijas, kurās komercsabiedrībām var piešķirt reģionālās attīstības atbalstu, kā arī maksimāli pieļaujamo atbalsta intensitāti;
 4) kārtību, kādā komercsabiedrība deklarē savu atbilstību mazās (sīkās) un vidējās komercsabiedrības statusam;
-5) kārtību, kādā veic de minimis atbalsta uzskaiti un piešķiršanu.
+5) kārtību, kādā veic de minimis atbalsta uzskaiti un piešķiršanu;
+6) kārtību un nosacījumus, ar kādiem lielā komercsabiedrība, kurai ir ārzemēs reģistrēti saistītie uzņēmumi, apliecina faktu, ka tā saistīto uzņēmumu grupas līmenī neatbilst grūtībās nonākuša uzņēmuma pazīmēm, ja šai komercdarbībai objektīvu apstākļu dēļ, par kuriem tā sniedz pamatojumu, nav iespējams saņemt finanšu pārskatu datus no šiem saistītajiem uzņēmumiem.

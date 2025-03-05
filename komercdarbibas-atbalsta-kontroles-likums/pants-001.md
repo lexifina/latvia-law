@@ -1,5 +1,5 @@
 1. pants. Likumā lietotie termini
-(1) Šā likuma termini un jēdzieni lietoti Padomes 2015. gada 13. jūlija regulas (ES) 2015/1589, ar ko nosaka sīki izstrādātus noteikumus Līguma par Eiropas Savienības darbību 108. panta piemērošanai (kodificēta redakcija) (turpmāk - Padomes regula Nr. 2015/1589) izpratnē.
+(1) Šā likuma termini un jēdzieni lietoti Padomes 2015. gada 13. jūlija regulas (ES) 2015/1589, ar ko nosaka sīki izstrādātus noteikumus Līguma par Eiropas Savienības darbību 108. panta piemērošanai (kodificēta redakcija) (turpmāk - Padomes regula Nr. 2015/1589), un Komisijas 2014. gada 17. jūnija regulas (ES) Nr. 651/2014, ar ko noteiktas atbalsta kategorijas atzīst par saderīgām ar iekšējo tirgu, piemērojot Līguma 107. un 108. pantu izpratnē.
 (2) Likumā ir lietoti arī šādi termini:
 1) ad-hoc atbalsts - komercdarbības atbalsts, kuru piešķir ārpus atbalsta programmas;
 2) atbalsta piešķiršanas diena - diena, kurā komercdarbības atbalsta saņēmējam saskaņā ar tiesību aktos noteikto rodas tiesības saņemt komercdarbības atbalstu;
