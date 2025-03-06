@@ -1,0 +1,3 @@
+30. pants. Īrnieka tiesības, atsavinot pašvaldībai piederošu izīrētu dzīvojamo telpu
+(1) Ja pašvaldības dome pieņem lēmumu par izīrētas dzīvojamās telpas nodošanu atsavināšanai, tā par šo lēmumu informē dzīvojamās telpas īrnieku un izsaka viņam piedāvājumu šo dzīvojamo telpu pirkt. Atsavinot īrniekam viņa īrēto dzīvojamo telpu, piemērojama Publiskas personas mantas atsavināšanas likumā noteiktā pašvaldības īpašumā esošas viendzīvokļa mājas vai dzīvokļa īpašuma atsavināšanas kārtība.
+(2) Ja dzīvojamās telpas īrnieks neizmanto tam šā panta pirmajā daļā minēto piedāvājumu, pašvaldība atsavināšanas procesu neturpina un dzīvojamās telpas īrnieks turpina lietot īrēto dzīvojamo telpu atbilstoši īres līguma noteikumiem.

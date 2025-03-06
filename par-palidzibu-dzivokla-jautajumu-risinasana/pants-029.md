@@ -1,0 +1,3 @@
+29. pants. Pašvaldībai piederošu izīrētu dzīvojamo telpu atsavināšanas nosacījumi
+(1) Pašvaldības dome ir tiesīga lemt par tai piederošas izīrētas dzīvojamās telpas nodošanu atsavināšanai, ievērojot normatīvajos aktos noteiktās publiskas personas nekustamā īpašuma atsavināšanas prasības un pašvaldības noteiktos tai piederošas dzīvojamās telpas atsavināšanas nosacījumus.
+(2) Šā panta pirmās daļas noteikumi neattiecas uz pašvaldībai piederošām dzīvojamām telpām, kuras tiek izīrētas kvalificētiem speciālistiem šā likuma III¹ nodaļā paredzētajā kārtībā, un III² nodaļā minētiem izīrētiem sociālajiem dzīvokļiem.

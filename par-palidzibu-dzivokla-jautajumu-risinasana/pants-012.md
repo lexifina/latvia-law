@@ -8,3 +8,4 @@
 2) dzīvojamās telpas platība un istabu skaits, stāvs, kurā šī dzīvojamā telpa atrodas;
 3) dzīvojamās telpas labiekārtojuma līmenis;
 4) dzīvojamās telpas īres maksa.
+(4) Dzīvojamā telpa, par kuras atsavināšanu pašvaldības dome pieņēmusi lēmumu, ierakstāma vienotajā uzskaites sistēmā kā atsavināšanai nododama dzīvojamā telpa.

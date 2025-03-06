@@ -8,7 +8,9 @@
 4) energoefektivitātes pasākumu veikšanai dzīvojamā mājā;
 5) dzīvojamai mājai piesaistītā zemesgabala labiekārtošanai;
 6) uz publisko ārtelpu vērstu dzīvojamo ēku fasāžu atjaunošanai;
-7) mājokļu un vides pieejamības nodrošināšanai.
+7) mājokļu un vides pieejamības nodrošināšanai;
+8) patvertnes izveidei dzīvojamā mājā iedzīvotāju patvēruma nodrošināšanai;
+9) dzīvojamās mājas liftu nomaiņai.
 (3) Sniedzot šā panta otrajā daļā noteikto palīdzību, nav piemērojami šā likuma 2. un 6. - 10.panta noteikumi.
 (3¹) Valsts atlīdzina pašvaldību izdevumus palīdzības sniegšanai dzīvojamās mājas īpašniekam tādas dzīvojamās mājas renovācijai, kurā likvidējamas terora akta, avārijas, stihiskas nelaimes vai citas katastrofas sekas, normatīvajos aktos par līdzekļu piešķiršanu neparedzētiem gadījumiem paredzētajā kārtībā un apmērā.
 (4) (Izslēgta ar 30.11.2015. likumu)
