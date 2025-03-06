@@ -1,0 +1,1 @@
+1. pants. 2014. gada 4. aprīlī Monreālā parakstītais Protokols par grozījumiem Konvencijā par noziegumiem un dažām citām nelikumīgām darbībām, kas izdarītas gaisa kuģos (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
