@@ -1,0 +1,1 @@
+1. pants. 2023. gada 13. decembrī parakstītais Uzlabotais pamatnolīgums starp Eiropas Savienību un tās dalībvalstīm, no vienas puses, un Čīles Republiku, no otras puses (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
