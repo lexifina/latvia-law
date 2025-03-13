@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada ziemas sesija",
+ "sede": 17,
+ "datums": "2025-03-13",
+ "ieraksts": {
+  "dkp_id": "2cfb5777-0f06-4dbd-9303-d1c1f1fa9631",
+  "lastmodtime": "\"AAAAAAJYdng=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Andrejs#Ainars#Inese#Māris#Amils#Edmunds#Uldis#Didzis#Ģirts Valdis#Andris#Edmunds#Agnese#Raivis#Jana#Ligita#Zanda#Alīna#Jekaterina#Ilze#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Raimonds#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Jānis#Līga#Antoņina",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Saļimovs#Teirumnieks#Augulis#Zemmers#Kristovskis#Kulbergs#Zivtiņš#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Drelinga#Vergina#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Bergmanis#Zelderis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Skrastiņš#Kozlovska#Ņenaševa",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#NA#PRO#ZZS#JV#JV#AS#ST!#NA#ZZS#ZZS#JV#AS#LPV#JV#NA#PRO#ZZS#JV#JV#ST!#JV#JV# #JV#JV#ZZS#JV#ZZS#ZZS#LPV#ZZS#ST!#ST!# #JV# #JV#ST!#JV#ZZS#NA#NA#JV# #JV#LPV#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#AS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV#JV#ZZS#PRO",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "13.03.2025 16:11:11",
+  "VOTEMOTIVE": "Par Saeimas deputātes Līgas Rasnačas ievēlēšanu Valsts pārvaldes un pašvaldības komisijā (674/Lm14)",
+  "VOTING_ID": "719953c5-7f08-4426-93d7-98c7972d450d",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "83",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "13",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada ziemas sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a963cede-fdf9-4303-93e2-850646b3571b/download/14.saeimas-2025.gada-ziemas-sesija-17-vote.xml",
+  "sha256": "312410f150a04ae99df99aa90e7fdc3acdf28259ea4043b58124f9f33286b8e6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
