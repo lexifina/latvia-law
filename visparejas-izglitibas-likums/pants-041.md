@@ -1,3 +1,3 @@
-41.pants. Izglītojamo uzņemšana vispārējās vidējās izglītības iestādēs
+41.pants. Izglītojamo uzņemšana vispārējās vidējās izglītības programmās
 (1) Uzsākt vispārējās vidējās izglītības programmas apguvi ir tiesīga ikviena persona bez vecuma ierobežojuma, ja tā ieguvusi apliecību par pamatizglītību.
-(2) Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, uzņemot izglītojamos vispārējās vidējās izglītības programmā, ar dibinātāja atļauju ir tiesīgas rīkot iestājpārbaudījumus atbilstoši valsts pamatizglītības standartam un noteikt uzņemšanas kritērijus. Mācību priekšmetos, kuros izglītojamie kārto centralizētos eksāmenus, vispārējās vidējās izglītības iestādes nav tiesīgas rīkot iestājpārbaudījumus.
+(2) Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes uzņem izglītojamos vispārējās vidējās izglītības programmas 10. klasē un brīvajās vietās 11. un 12. klasē, ievērojot Ministru kabineta noteiktos nosacījumus un kārtību izglītojamo uzņemšanas organizēšanai un norisei. Izglītojamo uzņemšanu minētajās izglītības iestādēs nosaka ar dibinātāju saskaņoti izglītojamo uzņemšanas noteikumi.

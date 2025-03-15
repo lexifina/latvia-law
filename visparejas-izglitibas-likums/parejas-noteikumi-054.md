@@ -1,0 +1,1 @@
+54. Grozījumi šā likuma 50. pantā stājas spēkā 2025. gada 1. septembrī. Izglītības iestādes, kuras līdz 2025. gada 31. augustam ir uzsākušas īstenot speciālās izglītības programmu izglītojamiem ar somatiskām saslimšanām, ir tiesīgas minēto izglītības programmu īstenot ne ilgāk kā līdz 2026. gada 31. augustam.
