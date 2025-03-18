@@ -1,4 +1,4 @@
 8. pants. Latvijas Republikas pārstāvēšana Eiropas Savienības institūcijās un informācijas sniegšana Eiropas Komisijai
-(1) Vides aizsardzības un reģionālās attīstības ministrija un Aizsardzības ministrija atbilstoši kompetencei nodrošina Latvijas Republikas pārstāvēšanu Eiropas Savienības institūcijās Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras darbības jautājumos.
-(2) Vides aizsardzības un reģionālās attīstības ministrija saskaņā ar Eiropas Komisijas noteikto kārtību sagatavo ziņojumu Eiropas Komisijai par ģeotelpiskās informācijas infrastruktūras darbību Latvijas Republikā.
-(3) Vides aizsardzības un reģionālās attīstības ministrija pēc Eiropas Komisijas pieprasījuma sniedz tai ziņas par Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras turpmāko attīstību.
+(1) Viedās administrācijas un reģionālās attīstības ministrija un Aizsardzības ministrija atbilstoši kompetencei nodrošina Latvijas Republikas pārstāvēšanu Eiropas Savienības institūcijās Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras darbības jautājumos.
+(2) Viedās administrācijas un reģionālās attīstības ministrija saskaņā ar Eiropas Komisijas noteikto kārtību sagatavo ziņojumu Eiropas Komisijai par ģeotelpiskās informācijas infrastruktūras darbību Latvijas Republikā.
+(3) Viedās administrācijas un reģionālās attīstības ministrija pēc Eiropas Komisijas pieprasījuma sniedz tai ziņas par Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras turpmāko attīstību.

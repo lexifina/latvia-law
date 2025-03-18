@@ -1,0 +1,1 @@
+24. Ģeotelpiskās informācijas pamatdatu iegūšanai, sagatavošanai un uzturēšanai izmantotajās informācijas sistēmās un datubāzēs esošo informāciju, kas izteikta Latvijas ģeodēzisko koordinātu sistēmā, līdz 2025. gada 1. oktobrim izsaka Eiropas Zemes atskaites sistēmā.

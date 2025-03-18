@@ -5,7 +5,7 @@
 (4) Ģeotelpisko datu kopu turētāji var ierobežot sabiedrības piekļuvi ģeotelpisko datu kopām, izmantojot šā likuma 28.panta otrās daļas 2., 3., 4. vai 5.punktā minētos pakalpojumus, ja šāda piekļuve negatīvi ietekmē:
 1) valsts vai pašvaldību iestāžu darbības konfidencialitāti, ko paredz normatīvie akti;
 2) tiesas darbību, ikvienas personas tiesības uz taisnīgu tiesu vai arī iespēju valsts iestādei veikt krimināltiesisku vai disciplināru izmeklēšanu;
-3) normatīvajos aktos vai Eiropas Kopienas tiesību aktos paredzēto konfidencialitāti attiecībā uz komercinformāciju vai informāciju rūpniecības jomā, lai aizsargātu likumīgas ekonomiskās intereses, tostarp sabiedrības intereses par statistiskās konfidencialitātes un nodokļu slepenības saglabāšanu;
+3) normatīvajos aktos vai Eiropas Savienības tiesību aktos paredzēto konfidencialitāti attiecībā uz komercinformāciju vai informāciju rūpniecības jomā, lai aizsargātu likumīgas ekonomiskās intereses, tostarp sabiedrības intereses par statistiskās konfidencialitātes un nodokļu slepenības saglabāšanu;
 4) intelektuālā īpašuma tiesības;
 5) ar fizisko personu saistītu datu konfidencialitāti, ja attiecīgā fiziskā persona nav piekritusi izpaust informāciju sabiedrībai;
 6) tādas personas intereses vai aizsardzību, kura brīvprātīgi piegādājusi prasīto ģeotelpisko informāciju bez obligāta pienākuma to darīt vai nepastāvot iespējai, ka tiks uzlikts obligāts pienākums to darīt, ja šī persona nav piekritusi šādas ģeotelpiskās informācijas nodošanai atklātībā;
