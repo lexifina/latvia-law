@@ -8,4 +8,4 @@
 6) norēķināties ar pakalpojumu sniedzēju par tā sniegtajiem pakalpojumiem;
 7) slēgt līgumu ar blakuslietotāju par savā īpašumā vai valdījumā esošo ūdensapgādes sistēmu vai kanalizācijas sistēmu izmantošanu, cenu par pakalpojumiem blakuslietotājam nosakot ar uzcenojumu, kas nepārsniedz 10 procentus no regulatora noteiktā tarifa vai pašvaldības noteiktās maksas par attiecīgo pakalpojumu, ja ūdensapgādes sistēmai vai kanalizācijas sistēmai ir blakuslietotājs;
 8) informēt pakalpojumu sniedzēju par ūdens piegādes pārtraukšanu blakuslietotājam, ja tas atsakās noslēgt šīs daļas 7.punktā minēto līgumu vai pārkāpj noslēgtā līguma noteikumus tiktāl, ka tas var novest pie pakalpojumu lietotājam sniedzamo pakalpojumu pārtraukšanas.
-(2) Pakalpojumu lietotājam ir tiesības saņemt un lietot ūdenssaimniecības pakalpojumus saskaņā ar normatīvo aktu prasībām.
+(2) Pakalpojumu lietotājam ir tiesības saņemt un lietot ūdenssaimniecības pakalpojumus saskaņā ar normatīvo aktu prasībām, kā arī organizēt mehāniskā ūdens filtra uzstādīšanu, nomaiņu un apkopi.
