@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 11. marta noteikumi Nr. 155 \"Atbalsta programmas noteikumi uzņēmējdarbības zaļināšanai, atjaunīgo energoresursu izmantošanai un energoefektivitātes paaugstināšanai\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "53",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-17",
+  "entry_into_force": "2025-03-18",
+  "notification_date": "2026-05-29",
+  "commission_reference": "MNE(2026)03428",
+  "nim_celex": "72024L1275LVA_202603428",
+  "nim_id": "202603428",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/b19132e3-ee4d-40fa-b342-85ff047ca8fa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
