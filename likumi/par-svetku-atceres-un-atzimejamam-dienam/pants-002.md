@@ -1,6 +1,7 @@
 2. Noteikt par atceres un atzīmējamām dienām:
 20. janvāri - 1991. gada barikāžu aizstāvju atceres dienu;
 26. janvāri - Latvijas Republikas starptautiskās (de jure) atzīšanas dienu;
+27. februāri - Starptautisko nevalstisko organizāciju dienu;
 2. martu - Nacionālo partizānu bruņotās pretošanās atceres dienu;
 8. martu - Starptautisko sieviešu dienu;
 17. martu - Nacionālās pretošanās kustības piemiņas dienu;
