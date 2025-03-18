@@ -1,0 +1,1 @@
+7. Šā likuma 8.¹ pantu nepiemēro Eiropas standarta platuma publiskās lietošanas dzelzceļa infrastruktūras Rail Baltica un ar to saistīto būvju būvniecības projekta, ārējās sauszemes robežas infrastruktūras izbūves, kā arī militārā poligona "Sēlija" izveides īstenošanā.
