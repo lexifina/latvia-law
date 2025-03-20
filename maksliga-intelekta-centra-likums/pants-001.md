@@ -1,0 +1,2 @@
+1. pants. Likuma mērķis
+Likuma mērķis ir veidot mākslīgā intelekta tehnoloģiju ekosistēmu un tiesisko ietvaru publiskā sektora, privātā sektora un augstskolu sadarbībai, kā arī noteikt nodibinājuma "Mākslīgā intelekta centrs" (turpmāk - centrs) izveides un darbības mērķi, juridisko statusu, uzdevumus, tiesības, organizatorisko struktūru, finansēšanas avotus un tam piešķirto līdzekļu izmantošanas kārtību.
