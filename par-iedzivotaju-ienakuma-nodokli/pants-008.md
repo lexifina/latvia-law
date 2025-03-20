@@ -23,6 +23,12 @@
 2.¹² (Izslēgta ar 27.11.2020. likumu. Sk. Pārejas noteikumu 162. punktu)
 2.¹³ Darba devēja - ārstniecības iestādes - apmaksātā mācību maksa par darbinieka studijām rezidentūrā nav uzskatāma par algota darba ienākumu šā panta otrās daļas izpratnē.
 2.¹⁴ Mācību maksa, ko darba devējs apmaksājis par darbinieka studijām augstākās izglītības iegūšanai valsts akreditētās Latvijas izglītības iestādēs, Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu mācību iestādēs, nav uzskatāma par algota darba ienākumu šā panta otrās daļas izpratnē, ja augstākās izglītības iegūšana saistīta ar tādu prasmju apguvi, kuras nepieciešamas darba devējam.
+2.¹⁵ Par algota darba ienākumu šā panta otrās daļas izpratnē nav uzskatāma darbiniekam vai viņa ģimenes loceklim piešķirta palīdzība naudā medicīnisko tehnoloģiju iegādei, ja ir izpildīti šādi nosacījumi:
+1) medicīnisko tehnoloģiju iegādes nepieciešamību ir apstiprinājis ārstu konsīlijs un darba devēja rīcībā ir dokuments, kas to apliecina;
+2) medicīnisko tehnoloģiju iegāde netiek pilnībā kompensēta no valsts budžeta līdzekļiem un darba devēja rīcībā ir dokuments, kas to apliecina;
+3) darba devēja piešķirtā palīdzība naudā medicīnisko tehnoloģiju iegādei nepārsniedz to iegādei nepieciešamo līdzekļu daļu, kas netiek kompensēta no valsts budžeta līdzekļiem;
+4) darba devēja rīcībā ir darbinieka apliecinājums, ka dokumenti par medicīnisko tehnoloģiju iegādi nav iesniegti un netiks iesniegti apmaksai apdrošināšanas sabiedrībai vai Valsts ieņēmumu dienestam kā attaisnoto izdevumu pamatojums.
+2.¹⁶ Piemērojot šā panta 2.¹⁵ daļu, par darbinieka ģimenes locekļiem uzskatāmas viņa apgādībā esošas personas saskaņā ar šā likuma 13. panta pirmo daļu, kā arī darbinieka vecāki, vecvecāki, laulātais, bērni un mazbērni neatkarīgi no tā, vai viņi ir darbinieka apgādībā.
 3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek pieskaitīti:
 1) ienākumi no individuālā darba, uzņēmuma līguma, komercaģenta un māklera darbības;
 2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja tie nav uzņēmumu ienākuma nodokļa objekts, un ienākumi no individuālā komersanta darbības;

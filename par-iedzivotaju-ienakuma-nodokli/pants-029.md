@@ -6,6 +6,7 @@
 4) par iedzīvotāju ienākuma nodokļa summām, kas ieturētas vai aprēķinātas no darbinieku darba ienākuma un iemaksājamas budžetā līdz ienākuma izmaksas mēneša 23. datumam, iesniegt ziņojumu Valsts ieņēmumu dienestam termiņā, kāds darba devējam atbilstoši likumam "Par valsts sociālo apdrošināšanu" ir noteikts ziņojuma iesniegšanai par valsts sociālās apdrošināšanas obligātajām iemaksām;
 5) par nerezidentiem ieturēto nodokli no ienākumiem, no kuriem saskaņā ar šā likuma 17.panta divpadsmitās daļas noteikumiem ir jāietur nodoklis izmaksas vietā, iesniegt pārskatu līdz nākamā mēneša 15.datumam;
 6) par katru mēnesi ieturēto un budžetā ieskaitīto nodokli no fizisko personu tāda ienākuma, no kura nodoklis ieturams izmaksas vietā, iesniegt Valsts ieņēmumu dienestam pārskatu līdz nākamā mēneša piecpadsmitajam datumam;
-7) (izslēgts ar 16.11.2021. likumu).
+7) (izslēgts ar 16.11.2021. likumu);
+8) uzglabāt dokumentus, kas pamato šā likuma 8. panta 2.¹⁵ daļā noteiktā atbrīvojuma piemērošanu, trīs gadus no šajā likumā noteiktā nodokļa maksāšanas termiņa un izmantot tos tikai šim mērķim.
 2. Pārskaitīt (ieskaitīt) budžetā nodokli no darba devēja līdzekļiem, neieturot to no darbinieka, ir aizliegts, izņemot soda sankcijas, kas darba devējam jāmaksā par nodokļu likumu pārkāpumiem, šā likuma 8.¹ un 11.¹¹ pantā noteiktos gadījumus, kā arī veicot nodokļa aprēķina precizējumus gadījumos, kad aprēķinātās nodokļa summas nav iespējams ieturēt no darbinieka vai ienākuma saņēmēja.
 3. Šā un 31., 31.², 32., 33. panta noteikumi attiecas arī uz personu - ienākuma izmaksātāju, kas izmaksā ienākumu, no kura saskaņā ar šo likumu vai citiem nodokļu likumiem ir jāietur nodoklis ienākuma izmaksas vietā.
