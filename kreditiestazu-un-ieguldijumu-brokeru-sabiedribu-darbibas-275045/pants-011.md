@@ -1,6 +1,6 @@
 11.pants. (1) Pēc tam, kad Latvijas Banka ir konsultējusies ar noregulējuma iestādēm to dalībvalstu teritorijās, kurās atrodas nozīmīgas filiāles, tā izstrādā noregulējuma plānu katrai iestādei, kura neietilpst grupā, uz kuru attiecas konsolidētā uzraudzība. Noregulējuma plānā tiek paredzētas noregulējuma darbības, kuras Latvijas Banka var veikt, ja iestāde atbilst noregulējuma veikšanas nosacījumiem. Latvijas Banka sniedz iestādei informāciju par šā panta sestās daļas 1. punktā minēto kopsavilkumu.
-(2) Noregulējuma plānā paredz vairākus variantus, kā arī to, ka finanšu grūtību gadījums var būt ļoti specifisks vai ka tas var rasties visa finanšu sektora nestabilitātes dēļ. Noregulējuma plānu izstrādā, tajā neparedzot valsts atbalstu un ārkārtas likviditātes aizdevumu.
-(3) Noregulējuma plānā norāda aktīvus, kurus kvalificē kā nodrošinājumu, piesakoties centrālās bankas mehānismam.
+(2) Noregulējuma plānā paredz vairākus variantus, kā arī to, ka finanšu grūtību gadījums var būt ļoti specifisks vai ka tas var rasties visa finanšu sektora nestabilitātes dēļ. Noregulējuma plānu izstrādā, tajā neparedzot valsts atbalstu, ārkārtas likviditātes aizdevumu un centrālās bankas likviditātes palīdzību ar nestandarta noteikumiem attiecībā uz nodrošinājumu, termiņu un procentu likmi.
+(3) Noregulējuma plānā iekļauj analīzi par to, kā un kad iestāde, iestājoties plānā aprakstītajiem apstākļiem, var pieteikties centrālās bankas mehānismu izmantošanai, un norāda tos aktīvus, kurus kvalificē kā nodrošinājumu.
 (4) Noregulējuma plānu pārskata vismaz reizi gadā un aktualizē katru reizi, kad iestādes juridiskajā formā vai organizatoriskajā struktūrā, komercdarbībā vai finanšu stāvoklī notikušas būtiskas izmaiņas, kuras varētu būtiski ietekmēt plāna efektivitāti vai kuru dēļ noregulējuma plānā nepieciešamas izmaiņas.
 (4¹) Pēc noregulējuma darbības piemērošanas vai šā likuma 77. pantā minēto tiesību īstenošanas Latvijas Banka pārskata noregulējuma plānu.
 (5) Iestāde nekavējoties informē Latvijas Banku par jebkādām izmaiņām, kas rada nepieciešamību izdarīt grozījumus noregulējuma plānā.
@@ -13,7 +13,7 @@
 6) aprakstu par pasākumiem, kas veicami, lai attiecībā uz noregulējumu pārvarētu vai novērstu šķēršļus, kuri konstatēti noregulējamības novērtējumā;
 7) aprakstu par iestādes kritiski svarīgo funkciju, galveno darbības jomu, aktīvu vērtības un to pārdošanas vērtības noteikšanas procedūrām;
 8) detalizētu aprakstu par mehānismiem, ar kuriem tiks nodrošināts, ka no iestādēm pieprasītā noregulējuma plānam nepieciešamā informācija ir aktualizēta un ir noregulējuma iestāžu rīcībā;
-9) Latvijas Bankas skaidrojumu par noregulējuma finansēšanas iespējām, nesniedzot valsts atbalstu un ārkārtas likviditātes aizdevumu;
+9) Latvijas Bankas skaidrojumu par noregulējuma finansēšanas iespējām, nesniedzot valsts atbalstu, ārkārtas likviditātes aizdevumu un centrālās bankas likviditātes palīdzību ar nestandarta noteikumiem attiecībā uz nodrošinājumu, termiņu un procentu likmi;
 10) detalizētu aprakstu par dažādām noregulējuma stratēģijām, ko varētu piemērot iespējamo risinājuma variantu gadījumos, un izpildes grafikus;
 11) aprakstu par iestādes svarīgām savstarpējām saistībām ar citām iestādēm;
 12) aprakstu par iespējām saglabāt piekļuvi maksājumu un tīrvērtes pakalpojumu infrastruktūrām, kā arī citām infrastruktūrām un klientu pozīciju pārnesamības novērtējumu;

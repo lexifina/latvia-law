@@ -1,7 +1,7 @@
 2.pants. (1) Šā likuma mērķis ir nodrošināt, ka atjaunošanas un noregulējuma pasākumu piemērošana attiecībā uz iestādēm, finanšu sabiedrībām un centrālajiem darījumu partneriem veicina stabilu finanšu sistēmas darbību, kā arī aizsargāt noguldītāju intereses un samazināt iespēju iestāžu, finanšu sabiedrību un centrālo darījumu partneru glābšanai izmantot valsts budžeta līdzekļus.
 (2) Šis likums nosaka darbības atjaunošanas pasākumu un noregulējuma darbību piemērošanu šādām vienībām:
 1) iestādēm, attiecībā uz kurām netiek izstrādāts noregulējuma plāns un pieņemts lēmums par noregulējuma darbību piemērošanu vienotā noregulējuma ietvaros;
-2) finanšu iestādēm, kas ir kredītiestādes, ieguldījumu brokeru sabiedrības vai šīs daļas 3. un 4. punktā minēto sabiedrību meitas sabiedrības, ja uz šādām meitas sabiedrībām attiecas mātes sabiedrības konsolidētā uzraudzība saskaņā ar Regulu Nr. 575/2013;
+2) Eiropas Savienībā reģistrētām finanšu iestādēm, kas ir kredītiestādes, ieguldījumu brokeru sabiedrības vai šīs daļas 3. un 4. punktā minētās sabiedrības meitas sabiedrība, ja uz šādām meitas sabiedrībām attiecas mātes sabiedrības konsolidētā uzraudzība saskaņā ar Regulu Nr. 575/2013;
 3) Eiropas Savienībā reģistrētām finanšu pārvaldītājsabiedrībām, jauktām finanšu pārvaldītājsabiedrībām un jauktas darbības pārvaldītājsabiedrībām;
 4) Latvijas Republikas mātes finanšu pārvaldītājsabiedrībām, Latvijas Republikā reģistrētām Eiropas Savienības mātes finanšu pārvaldītājsabiedrībām, Latvijas Republikas mātes jauktām finanšu pārvaldītājsabiedrībām un Latvijas Republikā reģistrētām Eiropas Savienības mātes jauktām finanšu pārvaldītājsabiedrībām;
 5) ārvalstu iestāžu filiālēm Latvijas Republikā šajā likumā paredzētajos gadījumos;

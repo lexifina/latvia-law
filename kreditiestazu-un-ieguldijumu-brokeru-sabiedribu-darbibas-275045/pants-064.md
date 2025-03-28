@@ -14,5 +14,5 @@ c) vai tos reglamentē ārvalsts tiesību akti (ja tas tā ir, norāda attiecīg
 1) attiecīgā gadījumā - šā likuma 61. panta sestās daļas 2. punkta nosacījumiem atbilstoša pašu kapitāla apjoms un atbilstīgo saistību apjoms;
 2) šīs daļas 1. punktā minēto posteņu sastāvs, tostarp termiņa profils un prioritāte maksātnespējas procesā;
 3) šā likuma 60.² un 61. pantā minētā minimālā pašu kapitāla un atbilstīgo saistību prasība, kas izteikta saskaņā ar šā likuma 59. panta otro daļu.
-(6) Šā panta pirmo un piekto daļu nepiemēro iestādēm un finanšu sabiedrībām, kuru noregulējuma plānā ir paredzēts, ka attiecīgo vienību likvidēs saskaņā ar maksātnespējas procesu.
+(6) Šā panta pirmo un piekto daļu nepiemēro likvidējamai vienībai, izņemot gadījumu, kad Latvijas Banka saskaņā ar šā likuma 60. panta 4.² daļu ir noteikusi minimālo pašu kapitāla un atbilstīgo saistību prasību.
 (7) Ja ir veiktas noregulējuma darbības vai īstenotas šā likuma 77. pantā minētās norakstīšanas vai konvertēšanas tiesības, vai noteikts pārejas termiņš saskaņā ar šā likuma 66. panta pirmo daļu, tad šā panta piektajā daļā minētās informācijas publiskošanas prasības piemēro no datuma, kas ir šā likuma 66. panta pirmajā un ceturtajā daļā minētais termiņš.
