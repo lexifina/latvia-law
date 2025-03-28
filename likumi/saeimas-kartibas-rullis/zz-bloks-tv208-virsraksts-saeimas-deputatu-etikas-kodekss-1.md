@@ -19,7 +19,7 @@ Deputāts nepieņem privātu uzaicinājumu un nepiedalās pasākumā vai izvair�
 15. Deputāts pakļaujas sabiedrisko kārtību uzturošo amatpersonu likumīgām prasībām.
 16. Deputāts ir pieklājīgs pret Saeimas, citu valsts un pašvaldību iestāžu darbiniekiem un ikvienu sabiedrības locekli.
 17. Deputāts pastāvīgi izglītojas, apgūst savas valsts un citu valstu demokrātijas un politiskās kultūras pieredzi.
-18. Deputāts izkopj savu runas un valsts valodas prasmi.
+18. Deputāts izkopj savu runas un valsts valodas prasmi. Deputāts saziņā ar Latvijas sabiedrību nepieļauj rīcību, kas radītu šaubas par latviešu valodas nozīmību.
 19. Deputāts atturas no pašmērķīgas izrādīšanās Saeimas tribīnē.
 20. Savā personiskajā dzīvē deputāts nedara neko tādu, kas grautu Saeimas prestižu vai radītu šaubas par viņa spēju godprātīgi veikt deputāta pienākumus.
 21. Deputāts uztur pastāvīgu un atklātu saikni ar sabiedrību.

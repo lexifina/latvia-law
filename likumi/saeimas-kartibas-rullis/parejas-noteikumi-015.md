@@ -1,0 +1,1 @@
+15. Pēc šā likuma 118.⁴ panta spēkā stāšanās pirmais Ministru kabineta ziņojums par paveikto un iecerēto darbību valsts valodas saglabāšanai, aizsardzībai, attīstīšanai un ietekmes palielināšanai iesniedzams Saeimai līdz 2025. gada 15. septembrim.

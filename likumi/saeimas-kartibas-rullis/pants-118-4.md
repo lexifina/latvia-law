@@ -1,0 +1,3 @@
+118.⁴ (1) Ministru kabinets ik pēc diviem gadiem līdz attiecīgā gada 15. septembrim iesniedz Saeimai ziņojumu par paveikto un iecerēto darbību valsts valodas saglabāšanai, aizsardzībai, attīstīšanai un ietekmes palielināšanai. Šā ziņojuma kopijas nekavējoties izsniedz deputātiem.
+(2) Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Prezidijs Ministru kabineta ziņojumu iekļauj izskatīšanai Valsts valodas dienai tuvākajā Saeimas kārtējā sēdē.
+(3) Saeimas sēdē, kurā tiek izskatīts minētais ziņojums, Ministru kabineta pārstāvis ziņo par to, pēc tam tiek atklātas debates. Pēc debatēm runā, ja to vēlas, vienīgi Ministru kabineta pārstāvis.
