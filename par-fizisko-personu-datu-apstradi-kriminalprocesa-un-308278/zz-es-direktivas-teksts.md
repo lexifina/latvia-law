@@ -3,4 +3,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 2) Eiropas Parlamenta un Padomes 2019. gada 19. marta direktīvas (ES) 2019/520 par ceļu lietotāju nodevu elektroniskās iekasēšanas sistēmu savstarpēju izmantojamību un informācijas par ceļu lietošanas maksu nesamaksāšanu pārrobežu apmaiņas veicināšanu Savienībā;
 3) Eiropas Parlamenta un Padomes 2019. gada 23. oktobra direktīvas (ES) 2019/1937 par to personu aizsardzību, kuras ziņo par Savienības tiesību aktu pārkāpumiem;
 4) Eiropas Parlamenta un Padomes 2022. gada 16. februāra direktīvas (ES) 2022/211, ar ko groza Padomes Pamatlēmumu 2002/465/TI attiecībā uz tā saskaņošanu ar Savienības noteikumiem par personas datu aizsardzību;
-5) Eiropas Parlamenta un Padomes 2022. gada 16. februāra direktīvas (ES) 2022/228, ar ko groza direktīvu 2014/41/ES attiecībā uz tās saskaņošanu ar Savienības noteikumiem par personas datu aizsardzību.
+5) Eiropas Parlamenta un Padomes 2022. gada 16. februāra direktīvas (ES) 2022/228, ar ko groza direktīvu 2014/41/ES attiecībā uz tās saskaņošanu ar Savienības noteikumiem par personas datu aizsardzību;
+6) Eiropas Parlamenta un Padomes 2023. gada 4. oktobra direktīvas (ES) 2023/2123, ar ko groza Padomes lēmumu 2005/671/TI attiecībā uz tā saskaņošanu ar Savienības noteikumiem par personas datu aizsardzību.
