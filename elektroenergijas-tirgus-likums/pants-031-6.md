@@ -1,0 +1,4 @@
+31.⁶ pants. Atjaunīgās elektroenerģijas apguves veicināšana
+Atjaunīgās elektroenerģijas ražošanas iekārtas vai vairāku elektroenerģijas ražošanas veidu iekārtu kopums, tostarp saules vai vēja elektrostacijas iekšējās līnijas un elektroenerģijas uzkrātuves, kalpo sevišķi svarīgu sabiedrības interešu, tostarp drošības un sabiedrības veselības, aizsardzībai. Minētajām iekārtām atļaujas piešķir, ņemot vērā šādus nosacījumus:
+1) šā likuma 22. pantā minētās jaunas elektroenerģijas ražošanas iekārtas ieviešanai nepieciešamās atļaujas izsniegšanā atjaunīgās elektroenerģijas ražošanas iekārtām var būt priekšroka attiecībā uz citu elektroenerģijas ražošanas veidu iekārtām;
+2) atjaunīgās elektroenerģijas apguves nepieciešamība un vides aizsardzības intereses tiek līdzsvarotas atbilstoši šā likuma 31.⁷ pantam.

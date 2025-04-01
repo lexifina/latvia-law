@@ -1,2 +1,3 @@
 14.pants. Palīgpakalpojumi pārvades sistēmā
-Pārvades sistēmas operators patstāvīgi sniedz palīgpakalpojumus, to skaitā balansēšanas pakalpojumus, vai tos pērk. Pārvades sistēmas operators pērk palīgpakalpojumus, ievērojot atklātas, nediskriminējošas un uz tirgus principiem balstītas procedūras.
+(1) Pārvades sistēmas operators patstāvīgi sniedz palīgpakalpojumus, to skaitā balansēšanas pakalpojumus, vai tos pērk. Pārvades sistēmas operators pērk palīgpakalpojumus vai sniedz tos elektroenerģijas tirgus dalībniekiem, ievērojot atklātas, nediskriminējošas un uz tirgus principiem balstītas procedūras.
+(2) Maksu par pārvades sistēmas pakalpojuma ierobežošanu nosaka saskaņā ar pārvades sistēmas operatora izstrādātu un regulatora apstiprinātu metodiku, lai segtu pārvades sistēmas operatora izmaksas, kas saistītas ar pārvades sistēmas pakalpojuma ierobežošanu. Pārvades sistēmas operators maksu par pārvades sistēmas pakalpojuma ierobežošanu publicē savā tīmekļvietnē.

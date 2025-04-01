@@ -1,0 +1,1 @@
+121. Elektroenerģijas ražotāji, kuriem līdz šā likuma 15.² panta spēkā stāšanās dienai pārvades sistēmas operators ir izsniedzis tehniskās prasības, lai ierīkotu elektroenerģijas ražošanas iekārtas pieslēgumu, saņem konstanto pārvades sistēmas pakalpojumu.

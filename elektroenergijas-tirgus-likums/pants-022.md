@@ -5,3 +5,4 @@
 (4) Sistēmas operators, publicējot šā panta trešajā daļā noteikto informāciju, ievēro šādus nosacījumus:
 1) publicējot informāciju par fiziskajām personām, sistēmas operators nenorāda fiziskās personas datus un elektroenerģijas ražošanas iekārtu uzstādīšanas vietas adresi;
 2) publicējot informāciju par juridiskajām personām, sistēmas operators norāda juridiskās personas nosaukumu, juridisko adresi, reģistrācijas numuru un elektroenerģijas ražošanas iekārtu uzstādīšanas vietas adresi.
+(5) Elektroenerģijas ražotāja ieviestās dažādu elektroenerģijas ražošanas veidu iekārtas nepieslēdz elektroenerģijas sistēmai vai atslēdz no tās, ja elektroenerģijas ražotājs neievēro atļaujā attiecībā uz vairāku elektroenerģijas ražošanas veidu iekārtu ieviešanu noteikto elektroenerģijas ražošanas iekārtu jaudas proporciju.

@@ -1,0 +1,1 @@
+124. Ja šā likuma 22. panta pirmajā daļā minētajā atļaujā, kas izsniegta līdz 2025. gada 31. martam, noteiktajam elektroenerģijas ražošanas iekārtas veidam pievieno cita elektroenerģijas ražošanas veida iekārtu, pievienojamās elektroenerģijas ražošanas iekārtas jauda nevar pārsniegt sākotnējā atļaujā noteiktās elektroenerģijas ražošanas iekārtas jaudu.
