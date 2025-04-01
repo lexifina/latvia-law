@@ -15,11 +15,13 @@
 9) (izslēgts no 01.01.2012. ar 31.10.2002. likumu);
 9¹) pieteikuma iesniedzēji - lietās par bērna prettiesisku pārvietošanu pāri robežai vai aizturēšanu;
 10) administratori - prasībās, kas celtas to personu labā, kurām pasludināts juridiskās personas maksātnespējas process un fiziskās personas maksātnespējas process, ja šīs personas ir attiecīgā tiesiskā darījuma vai neatļautas darbības, saistībā ar kuru celta prasība, dalībnieks vai cietušais;
+10¹) administratori - sūdzībās, kas iesniegtas maksātnespējas procesa lietās sakarā ar kreditoru sapulces lēmumiem, ja tās ir kreditoru kopuma interesēs;
 11) piedzinēji - izpildu lietās par piedziņām valsts ienākumos;
 11¹) piedzinēji - izpildu lietās, kad piedziņa izdarāma atbilstoši vienotajam instrumentam, kas atļauj izpildi pieprasījuma saņēmējā dalībvalstī;
 12) nodokļu (nodevu) administrācija - pieteikumos juridiskās personas maksātnespējas procesa lietās;
 13) Pilsonības un migrācijas lietu pārvalde - lietās par Latvijas pilsonības atņemšanu;
 14) Valsts sociālās apdrošināšanas aģentūra - lietās par finanšu līdzekļu atgūšanu valsts budžetā daļā par sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu pārmaksu un sociālās apdrošināšanas pakalpojumu vai valsts sociālo pabalstu izmaksu sakarā ar ceļu satiksmes negadījumiem;
+14¹) valsts un pašvaldību iestādes - lietās par zaudējumu atlīdzināšanu par konkurences tiesību pārkāpumiem;
 15) pieteikuma iesniedzēji - par pagaidu aizsardzību pret vardarbību;
 16) puse, kas lietā saņem valsts nodrošināto juridisko palīdzību;
 16¹) puse, kas atzīta par trauksmes cēlēju vai ir viņa radinieks vai saistītā persona Trauksmes celšanas likuma izpratnē;

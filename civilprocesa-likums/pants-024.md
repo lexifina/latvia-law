@@ -10,7 +10,7 @@
 7) prasības, kas izriet no kapitālsabiedrību darījumiem ar saistītajām personām Komerclikuma un Finanšu instrumentu tirgus likuma izpratnē;
 8) prasības, kas izriet no uzņēmumu pārejas un sabiedrības reorganizācijas, izņemot darbinieku prasījumus;
 9) prasības, kas izriet no līgumsaistībām starp būvniecības procesa dalībniekiem, tai skaitā ar apakšuzņēmējiem, attiecībā uz tādas otrās un trešās grupas būves būvniecību, kuras realizācijai nepieciešama būvatļauja, izņemot atsevišķas viena dzīvokļa vai divu dzīvokļu dzīvojamās mājas un ar to funkcionāli saistīto būvju būvniecību;
-10) prasības par konkurences tiesību pārkāpumiem;
+10) prasības par konkurences tiesību pārkāpumiem un prasības par Eiropas Parlamenta un Padomes 2022. gada 14. septembra regulas (ES) 2022/1925 par sāncensīgiem un godīgiem tirgiem digitālajā nozarē un ar ko groza direktīvas (ES) 2019/1937 un (ES) 2020/1828 (Digitālo tirgu akts) (Dokuments attiecas uz EEZ) (turpmāk - Digitālo tirgu akts) pārkāpumiem;
 11) prasības par kapitālsabiedrības dalībnieku (akcionāru) sapulces lēmumiem;
 12) pieteikumus par kredītiestāžu likvidāciju un maksātnespēju.
 (1²) Ja izskatāmā lieta ietver prasījumu, kas ir savstarpēji saistīts ar prasījumu lietā, kura ir piekritīga Ekonomisko lietu tiesai, vai arī rajona (pilsētas) tiesā saņemta pretprasība, kas ir piekritīga Ekonomisko lietu tiesai, lietu izskata Ekonomisko lietu tiesa.

@@ -9,9 +9,9 @@
 6) pieprasītā summa un tās aprēķins, norādot galveno parādu, līgumsodu, nolīgtos vai likumā noteiktos procentus un tiesas izdevumus;
 7) pieteicēja apliecinājums, ka prasījums nav atkarīgs no pretizpildījuma vai ka pretizpildījums ir izdarīts, vai ka maksājuma saistība nav solidāra;
 8) lūgums tiesai izsniegt parādniekam brīdinājumu;
-9) lūgums izlemt par maksājuma saistības piespiedu izpildi un tiesas izdevumu piedziņu;
+9) lūgums izlemt par maksājuma saistības piespiedu izpildi un valsts nodevas piedziņu;
 10) apliecinājums, ka tiesai sniegtas patiesas ziņas par faktiem un pieteicējs vai pārstāvis, ja pieteikumu iesniedz pārstāvis, ir informēts, ka Krimināllikums paredz atbildību par nepatiesa pieteikuma sniegšanu.
-(2¹) Pieteikumā pieteicējs var ietvert norādi tiesai izsniegt parādniekam brīdinājumu ar tiesu izpildītāja starpniecību.
-(3) Pieteikumam pievieno dokumentus, kas apstiprina valsts nodevas un ar tiesas dokumentu izsniegšanu saistīto izdevumu samaksu, izņemot gadījumu, kad samaksa veikta tiešsaistes sistēmā.
+(2¹) (Izslēgta ar 27.02.2025. likumu)
+(3) Pieteikumam pievieno dokumentu, kas apstiprina valsts nodevas samaksu, izņemot gadījumu, kad samaksa veikta tiešsaistes sistēmā.
 (4) Pieteikuma neatbilstība šā likuma 406.¹, 406.² un 406.³ panta prasībām ir šķērslis pieteikuma iesniegšanai. Ja pieteikuma neatbilstība šā likuma 406.¹, 406.² un 406.³ panta prasībām nav bijis šķērslis pieteikuma iesniegšanai šā panta pirmajā daļā noteiktajā kārtībā, tiesnesis pieņem motivētu lēmumu par atteikumu pieņemt pieteikumu un to nosūta pieteicējam. Lēmums par atteikšanos pieņemt pieteikumu nav pārsūdzams.
-(5) Tiesneša atteikums pieņemt pieteikumu nav šķērslis tāda paša pieteikuma iesniegšanai tiesā, kad būs novērsti pieļautie trūkumi, vai arī prasības celšanai prasības tiesvedības kārtībā. Šajos gadījumos samaksātā valsts nodeva un ar brīdinājuma izsniegšanu saistītie izdevumi tiek ieskaitīti, ja pēc pieļauto trūkumu novēršanas tiesā iesniedz tādu pašu pieteikumu vai prasību ceļ prasības tiesvedības kārtībā.
+(5) Tiesneša atteikums pieņemt pieteikumu nav šķērslis tāda paša pieteikuma iesniegšanai tiesā, kad būs novērsti pieļautie trūkumi, vai arī prasības celšanai prasības tiesvedības kārtībā. Šajos gadījumos samaksātā valsts nodeva tiek ieskaitīta, ja pēc pieļauto trūkumu novēršanas tiesā iesniedz tādu pašu pieteikumu vai prasību ceļ prasības tiesvedības kārtībā.

@@ -15,6 +15,7 @@
 (2) Šā panta pirmās daļas 2., 3. un 4.punktā minētajos gadījumos tiesu izpildītājs sastāda attiecīgu aktu.
 (2¹) Ja izpildu lietā par periodisku maksājumu piedziņu pilnībā tiek segts parāds un sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.
 (2²) Ja izpildu lietā, kas izriet no saskarsmes tiesībām, tiesu izpildītājs konstatējis, ka tiesas nolēmums tiek pildīts, kā arī ir segti sprieduma izpildes izdevumi, izpildu dokumentu izsniedz piedzinējam.
+(2³) Izpildu lietā par kopīpašuma dalīšanu izpildu dokumentu izsniedz atpakaļ piedzinējam, tikai pamatojoties uz visu kopīpašnieku kopīgu pieteikumu, bet lietā par kopīpašuma dalīšanu, pārdodot tā daļu, - visu kopīpašnieku kopīgu pieteikumu, izņemot tā kopīpašnieka, kura kopīpašuma daļa ir pārdodama.
 (3) Izpildu dokumentu piedzinējam izsniedz, ja ir segti sprieduma izpildes izdevumi, izņemot gadījumu, kad sprieduma izpildes izdevumus saskaņā ar šā likuma noteikumiem maksā piedzinējs. Izsniedzot izpildu dokumentu piedzinējam, tiesu izpildītājs atceļ visus pieņemtos piespiedu izpildes līdzekļus.
 (4) Izpildu dokumenta izsniegšana atpakaļ piedzinējam nav šķērslis šā dokumenta jaunai iesniegšanai izpildei likumā noteiktajā termiņā.
 (5) Izpildu dokumentu, pēc kura izpilde izdarāma valsts ienākumos, tiesu izpildītājs izsniedz Valsts ieņēmumu dienestam.

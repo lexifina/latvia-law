@@ -11,6 +11,6 @@
 5) pieteikums iesniegts atkārtoti un no tā neizriet, ka jautājuma izlemšanai būtiski mainījušies faktiskie vai tiesiskie apstākļi.
 (5) Tiesneša lēmums par atteikšanos pieņemt pieteikumu saskaņā ar šā panta ceturtās daļas 1. un 2.punktu nav pārsūdzams. Par tiesneša lēmumu par atteikšanos pieņemt pieteikumu saskaņā ar šā panta ceturtās daļas 3., 4. un 5.punktu var iesniegt blakus sūdzību.
 (6) Ja no pieteikumam pievienotās pilnvaras vai cita dokumenta neizriet pilnvarojums pārstāvim griezties ar šo pieteikumu tiesā, tiesnesis atstāj pieteikumu bez virzības un iestājas šā likuma 133.pantā paredzētās sekas.
-(7) Iesniedzot pieteikumu, iemaksājama drošības nauda šā likuma 43.¹ panta pirmās daļas 4. punktā noteiktajā apmērā. Ja tiesa apstrīdēto tiesas nolēmumu pilnīgi vai daļēji atceļ vai ja pieteikumu atsauc līdz tā izskatīšanai, drošības nauda atmaksājama.
+(7) Iesniedzot pieteikumu, iemaksājama drošības nauda šā likuma 43.¹ panta 1.¹ daļā noteiktajā apmērā. Ja tiesa apstrīdēto tiesas nolēmumu pilnīgi vai daļēji atceļ vai ja pieteikumu atsauc līdz tā izskatīšanai, drošības nauda atmaksājama.
 (8) Ja tiesa atsaka pieņemt pieteikumu, pamatojoties uz šā panta ceturtās daļas 1. un 2.punktu, samaksāto drošības naudu atmaksā. Ja tiesa atsaka pieņemt pieteikumu, pamatojoties uz šā panta ceturtās daļas 3., 4. un 5.punktu, drošības naudu neatmaksā.
 (9) (Izslēgta ar 06.06.2024. likumu)

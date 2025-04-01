@@ -8,4 +8,5 @@ Tiesa aptur tiesvedību, ja:
 5) lietas izskatīšana nav iespējama, iekams nav izšķirta cita lieta, kas izskatāma civilprocesa, kriminālprocesa, administratīvā procesa vai administratīvā pārkāpuma procesa kārtībā;
 6) (izslēgts ar 08.09.2011. likumu);
 7) Konkurences padome izskata lietu par konkurences tiesību pārkāpumu, kas saistīta ar prasījumu par zaudējumu atlīdzināšanu;
-8) Patērētāju tiesību aizsardzības centrs izskata lietu par patērētāju tiesību pārkāpumu, kas saistīts ar patērētāju kolektīvo prasību.
+8) Patērētāju tiesību aizsardzības centrs izskata lietu par patērētāju tiesību pārkāpumu, kas saistīts ar patērētāju kolektīvo prasību;
+9) Konkurences padome vai Eiropas Komisija izskata lietu par Digitālo tirgu akta pārkāpumu, kas saistīta ar konkrēto prasījumu.

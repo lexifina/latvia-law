@@ -1,2 +1,2 @@
 36.¹ pants. Valsts nodevas ieskaitīšana
-Par pieteikumu Eiropas maksājuma rīkojumam saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 1896/2006 samaksātā nodeva ieskaitāma valsts nodevā par prasību, ja atbildētājs paziņojis par iebildumu pret Eiropas maksājuma rīkojumu un tiek turpināta prasības tiesvedība.
+Par pieteikumu Eiropas maksājuma rīkojumam saskaņā ar Eiropas Parlamenta un Padomes 2006. gada 12. decembra regulu (EK) Nr. 1896/2006, ar ko izveido Eiropas maksājuma rīkojuma procedūru (turpmāk - Eiropas Parlamenta un Padomes regula Nr. 1896/2006), samaksātā nodeva ieskaitāma valsts nodevā par prasību, ja atbildētājs paziņojis par iebildumu pret Eiropas maksājuma rīkojumu un tiek turpināta prasības tiesvedība.

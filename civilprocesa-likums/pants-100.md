@@ -1,7 +1,7 @@
 100.pants. Kārtība, kādā izlemj pieteikumu par pierādījumu nodrošināšanu pirms prasības celšanas
 (1) Pieteikumu par pierādījumu nodrošināšanu tiesa vai tiesnesis izlemj 10 dienu laikā no tā saņemšanas dienas.
 (2) Ja pieteikumu par pierādījumu nodrošināšanu izlemj tiesa, uz tiesas sēdi aicina pieteicēju un iespējamos lietas dalībniekus. Šo personu neierašanās nav šķērslis iesniegtā pieteikuma izskatīšanai.
-(3) Ar tiesneša lēmumu pierādījumus bez iespējamo lietas dalībnieku uzaicināšanas var nodrošināt tikai neatliekamos gadījumos, tai skaitā neatliekamos intelektuālā īpašuma tiesību pārkāpumu vai iespējamu pārkāpumu gadījumos vai gadījumos, kad nevar noteikt, kas būs lietas dalībnieki.
+(3) Ar tiesneša lēmumu pierādījumus bez iespējamo lietas dalībnieku uzaicināšanas var nodrošināt tikai neatliekamos gadījumos, tai skaitā neatliekamos autortiesību un blakustiesību, datubāzu aizsardzības (sui generis), preču zīmju, sertifikācijas zīmju un ģeogrāfiskās izcelsmes norāžu, patentu, dizainparaugu, augu šķirņu, pusvadītāju izstrādājumu topogrāfiju (turpmāk - intelektuālā īpašuma tiesības) pārkāpumu vai iespējamu pārkāpumu gadījumos vai gadījumos, kad nevar noteikt, kas būs lietas dalībnieki.
 (4) Ja lēmums par pierādījumu nodrošināšanu pieņemts bez iespējamā atbildētāja vai cita lietas dalībnieka klātbūtnes, viņam paziņo par šo lēmumu ne vēlāk kā minētā lēmuma izpildes brīdī.
 (5) Liecinieku nopratināšanu, kā arī apskati uz vietas un ekspertīzi izdara saskaņā ar šā likuma attiecīgajām normām.
 (6) Apmierinot pieteikumu par pierādījumu nodrošināšanu pirms prasības celšanas, tiesnesis nosaka prasības pieteikuma iesniegšanai termiņu, ne ilgāku par 30 dienām.
