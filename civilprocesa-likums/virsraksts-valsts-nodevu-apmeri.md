@@ -1,0 +1,1 @@
+Valsts nodevu apmēri
