@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 6. marta likums \"Grozījumi Elektroenerģijas tirgus likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "55",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-19",
+  "entry_into_force": "2025-04-01",
+  "notification_date": "2025-11-03",
+  "commission_reference": "MNE(2025)06121",
+  "nim_celex": "72023L2413LVA_202506121",
+  "nim_id": "202506121",
+  "transposes_celex": [
+    "32023L2413"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/538dd5af-020f-4b38-ab2c-6bab86172ac3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
