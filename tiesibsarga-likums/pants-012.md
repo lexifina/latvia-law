@@ -9,4 +9,5 @@ Pildot šajā likumā noteiktās funkcijas, tiesībsargs:
 7) risinot strīdus cilvēktiesību jautājumos, sniedz privātpersonām atzinumus un ieteikumus cilvēktiesību pārkāpumu novēršanai;
 8) sniedz Saeimai, Ministru kabinetam, pašvaldībām vai citām iestādēm ieteikumus attiecībā uz tiesību aktu izdošanu vai grozīšanu;
 9) sniedz personām konsultācijas cilvēktiesību jautājumos;
-10) veic pētījumus un analizē situāciju cilvēktiesību jomā, kā arī sniedz atzinumus par aktuāliem cilvēktiesību jautājumiem.
+10) veic pētījumus un analizē situāciju cilvēktiesību jomā, kā arī sniedz atzinumus par aktuāliem cilvēktiesību jautājumiem;
+11) apmeklē vietas, kurās personām tiek vai var tikt atņemta brīvība Konvencijas pret spīdzināšanu un citiem nežēlīgas, necilvēcīgas vai pazemojošas izturēšanās vai sodīšanas veidiem Fakultatīvā protokola 4. panta izpratnē (turpmāk - brīvības ierobežošanas vietas), lai novērstu spīdzināšanu un citu nežēlīgu, necilvēcīgu vai pazemojošu izturēšanos vai sodīšanu.
