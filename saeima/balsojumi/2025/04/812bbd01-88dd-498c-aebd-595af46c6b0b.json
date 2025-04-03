@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada ziemas sesija",
+ "sede": 22,
+ "datums": "2025-04-03",
+ "ieraksts": {
+  "dkp_id": "8664dc86-944c-4780-b1d6-b95ee57ee731",
+  "lastmodtime": "\"AAAAAAJaaO4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Mairita#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Ilze#Mārcis#Aleksejs#Andris#Didzis#Jurģis#Andris#Andrejs#Ainars#Māris#Edmunds#Uldis#Didzis#Ģirts Valdis#Andris#Ričards#Ingmārs#Edmunds#Artūrs#Agnese#Raivis#Ligita#Zanda#Jānis#Alīna#Ilze#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Ainārs#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Ināra#Jānis#Anita#Edgars#Igors#Raimonds#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Stobova#Jencītis#Rosļikovs#Bērziņš#Šmits#Klotiņš#Šuvajevs#Vilks#Latkovskis#Sprindžuks#Teirumnieks#Augulis#Zemmers#Kristovskis#Kulbergs#Šlesers#Līdaka#Zivtiņš#Butāns#Krasta#Dzintars#Gintere#Kalniņa-Lukaševica#Vitenbergs#Gendele#Vergina#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Šlesers#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Mūrniece#Vucāns#Brakovska#Putra#Judins#Bergmanis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": "ST!#NA#PRO#PRO#JV#PRO#JV#ST!#JV#LPV#LPV#ST!#ZZS# #NA#PRO#ZZS#JV#AS#NA#ZZS#ZZS#JV#AS#LPV#AS#LPV#NA#JV#NA#ZZS#JV#NA#JV#JV#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#LPV#ZZS#ST!#ST!# #JV#JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#AS#JV#AS#NA# #AS#AS#NA#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#ZZS#PRO#JV#AS",
+  "RESULT": "Pret#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Atturas#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "03.04.2025 14:42:41",
+  "VOTEMOTIVE": " Par priekšlikumu iesniegšanas termiņu  08.04.2025 un izskatīšanu sēdē 16.04.2025.. Par pievienošanās atsaukšanu Konvencijai par kājnieku mīnu lietošanas, uzglabāšanas un ražošanas aizliegumu un iznīcināšanu (898/Lp14), 1.lasījums, steidzams",
+  "VOTING_ID": "812bbd01-88dd-498c-aebd-595af46c6b0b",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "24",
+  "VOTERESULT_FOR": "62",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada ziemas sesija-22-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f943360b-6066-41d2-a424-fb281bd93568/download/14.saeimas-2025.gada-ziemas-sesija-22-vote.xml",
+  "sha256": "ae149145a48e9191aeb581abef7b4f373dbf4e6f93b2833eefd3ec7edf96c0d1",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
