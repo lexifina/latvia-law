@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 1. aprīļa noteikumi Nr. 207 \"Valsts izglītības attīstības aģentūras nolikums\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "68",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-07",
+  "entry_into_force": "2025-04-08",
+  "notification_date": "2026-01-22",
+  "commission_reference": "MNE(2026)00720",
+  "nim_celex": "72023L1791LVA_202600720",
+  "nim_id": "202600720",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6aeaf2f3-37b7-4ad0-83ff-fcf7bcc48f33",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
