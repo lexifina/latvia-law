@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 8. aprīļa noteikumi Nr. 221 \"Grozījumi Ministru kabineta 2003. gada 29. aprīļa noteikumos Nr. 226 \"Noteikumi par bīstamo kravu pārvadāšanu pa dzelzceļu\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-10",
+  "entry_into_force": "2025-04-11",
+  "notification_date": "2025-04-28",
+  "commission_reference": "MNE(2025)02334",
+  "nim_celex": "72025L0149LVA_202502334",
+  "nim_id": "202502334",
+  "transposes_celex": [
+    "32025L0149"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/af0b43a9-dee2-4636-a67a-5508d1e82ed6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
