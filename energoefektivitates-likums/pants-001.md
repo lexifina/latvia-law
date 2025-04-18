@@ -16,3 +16,4 @@
 12¹) references platība - ēkas energosertifikātā vai ēkas pagaidu energosertifikātā norādītā references platība. Ja ēkai nav veikta energosertifikācija, tad references platība ir platība, kas noteikta saskaņā ar normatīvajiem aktiem par ēku energosertifikāciju;
 13) viedais komercuzskaites mēraparāts (mēraparātu sistēma) - elektroniska ierīce (elektroniska sistēma), ar ko var mērīt un monitorēt enerģijas patēriņu, kā arī pārraidīt un saņemt datus, izmantojot elektronisko saziņu.
 (2) Citi termini šajā likumā lietoti Enerģētikas likuma izpratnē.
+(3) Termini "datu centrs" un "informācijas un komunikācijas tehnoloģiju kritiskā infrastruktūra" šajā likumā lietoti Nacionālās kiberdrošības likuma izpratnē.

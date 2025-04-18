@@ -1,5 +1,5 @@
 4.pants. Atbildīgās ministrijas uzdevumi
-(1) Par enerģētikas politikas īstenošanu ir atbildīga Ekonomikas ministrija (turpmāk - atbildīgā ministrija).
+(1) Par enerģētikas politikas īstenošanu ir atbildīga Klimata un enerģētikas ministrija (turpmāk - atbildīgā ministrija).
 (2) Atbildīgā ministrija analizē Nacionālajā enerģētikas un klimata plānā 2021.-2030. gadam (turpmāk - Nacionālais plāns) paredzēto energoefektivitātes mērķu sasniegšanas un izpildes gaitu.
 (2¹) Ja atbildīgā ministrija šā panta otrajā daļā minētajā analīzē konstatē, ka Nacionālajā plānā iekļautie energoefektivitātes uzlabošanas pasākumi nenodrošina energoefektivitātes mērķu sasniegšanu, tā izstrādā priekšlikumus šo pasākumu ieviešanas uzlabošanai vai jaunu pasākumu ieviešanai Nacionālā plāna ietvaros.
 (3) Atbildīgā ministrija nosaka enerģijas galapatēriņa ietaupījuma mērķi un izstrādā plānu tā sasniegšanai. Plānā paredz pasākumu ieviešanas termiņus, atbildīgās institūcijas un finansējuma avotus, kā arī aprēķina sasniedzamo ikgadējo enerģijas galapatēriņa ietaupījumu.

@@ -1,0 +1,1 @@
+20. Grozījums šā likuma 16. panta ceturtajā daļā par vārdu "Sistēmas operators" aizstāšanu ar vārdiem "Dabasgāzes sistēmas operators un siltumapgādes sistēmas operators" stājas spēkā 2026. gada 1. janvārī.
