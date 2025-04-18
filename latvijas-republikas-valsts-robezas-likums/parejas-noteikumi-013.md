@@ -1,0 +1,1 @@
+13. Ja ārzemniekam līdz šā likuma 18. panta 4.¹ daļas spēkā stāšanās dienai ir izsniegta šā panta otrās daļas 2. punktā minētā caurlaide, tā ir derīga līdz caurlaides derīguma termiņa beigām, bet ne ilgāk kā divus mēnešus no šā panta 4.¹ daļas spēkā stāšanās dienas.
