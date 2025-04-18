@@ -1,0 +1,1 @@
+118. Grozījumi par šā likuma 46. panta trešās un piektās daļas izteikšanu jaunā redakcijā, kā arī šā panta papildināšanu ar 6.¹ un 6.² daļu ir piemērojami uzņemšanai studiju programmās, sākot ar 2026./2027. akadēmisko gadu.
