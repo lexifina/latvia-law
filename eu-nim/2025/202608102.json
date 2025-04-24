@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 27. marta likums \"Grozījumi Elektroenerģijas tirgus likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "71",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-10",
+  "entry_into_force": "2025-04-24",
+  "notification_date": "2026-10-28",
+  "commission_reference": "MNE(2026)08102",
+  "nim_celex": "72024L1711LVA_202608102",
+  "nim_id": "202608102",
+  "transposes_celex": [
+    "32024L1711"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/1a419c32-74ff-49ec-9992-6b2d2eacf23e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
