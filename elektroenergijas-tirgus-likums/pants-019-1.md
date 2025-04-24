@@ -1,5 +1,5 @@
 19.¹ pants. Sadales sistēmas attīstība ilgtermiņā
-(1) Regulators katru gadu apstiprina sadales sistēmas operatora, kura sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju, izstrādāto sadales sistēmas attīstības 10 gadu plānu un uzrauga tā izpildi.
+(1) Regulators reizi divos gados apstiprina sadales sistēmas operatora, kura sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju, izstrādāto sadales sistēmas attīstības 10 gadu plānu un uzrauga tā izpildi.
 (2) Regulators nosaka sadales sistēmas attīstības 10 gadu plānā iekļaujamo informāciju un plāna iesniegšanas kārtību.
 (2¹) Sadales sistēmas attīstības 10 gadu plānā ietver informāciju vismaz par:
 1) sadales sistēmas infrastruktūras plānoto attīstību un attīstības mērķiem;

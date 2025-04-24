@@ -1,5 +1,5 @@
 15.¹ pants. Elektroapgādes sistēmas attīstība ilgtermiņā
-(1) Regulators katru gadu apstiprina pārvades sistēmas operatora izstrādāto pārvades sistēmas attīstības 10 gadu plānu un uzrauga tā izpildi.
+(1) Regulators reizi divos gados apstiprina pārvades sistēmas operatora izstrādāto pārvades sistēmas attīstības 10 gadu plānu un uzrauga tā izpildi.
 (2) Regulators nosaka pārvades sistēmas attīstības 10 gadu plānā iekļaujamo informāciju un plāna iesniegšanas kārtību.
 (2¹) Pārvades sistēmas attīstības 10 gadu plānā ietver informāciju vismaz par:
 1) pārvades sistēmas infrastruktūras plānoto attīstību un attīstības mērķiem;

@@ -1,0 +1,9 @@
+20.³ pants. Elektroenerģijas uzkrātuves sadales sistēmā
+(1) Sadales sistēmas operatoram var piederēt elektroenerģijas uzkrātuve, un tas ir tiesīgs šo uzkrātuvi ekspluatēt, ja ir saņemta regulatora atļauja. Regulators piešķir atļauju, ja ir saņēmis sadales sistēmas operatora iesniegumu un vienu no šādiem dokumentiem:
+1) apliecinājumu, ka elektroenerģijas uzkrātuve ir pilnībā integrēta tīkla komponente;
+2) atklāta, pārredzama un nediskriminējoša iepirkuma rezultātus, saskaņā ar kuriem konstatēts, ka tirgus dalībnieki nespēj attiecīgo palīgpakalpojumu sniegt nepārtraukti, savlaicīgi un par samērīgu cenu, un apliecinājumu, ka elektroenerģijas uzkrātuve tiks izmantota, lai nodrošinātu sadales sistēmas drošu, efektīvu un stabilu darbību, un netiks izmantota, lai pirktu vai pārdotu elektroenerģiju elektroenerģijas tirgos.
+(2) Regulators apstiprina sadales sistēmas operatora izstrādātos iepirkuma nosacījumus.
+(3) Regulators atļauju, kas piešķirta saskaņā ar šā panta pirmo daļu, kā arī ar atļauju saistīto informāciju nosūta Eiropas Komisijai un Energoregulatoru sadarbības aģentūrai.
+(4) Vismaz reizi piecos gados regulators organizē publisku konsultāciju, lai izvērtētu nepieciešamību pārskatīt atļauju, kas izsniegta saskaņā ar šā panta pirmās daļas 2. punktu. Ja regulators konstatē, ka tirgus dalībnieki spēj nodrošināt attiecīgā palīgpakalpojuma sniegšanu nepārtraukti, savlaicīgi un par samērīgu cenu, regulators pieņem lēmumu, ar kuru uzliek par pienākumu sadales sistēmas operatoram ne vēlāk kā 18 mēnešu laikā pēc lēmuma pieņemšanas izbeigt elektroenerģijas uzkrātuves ekspluatāciju un pārdot šo uzkrātuvi.
+(5) Pamatotās izmaksas, kas saistītas ar elektroenerģijas uzkrātuves iegādi, ekspluatāciju un atsavināšanu, sedz sadales sistēmas operators, un tās iekļauj elektroenerģijas sadales sistēmas pakalpojumu tarifos.
+(6) Sadales sistēmas operators izstrādā sev piederošas elektroenerģijas uzkrātuves izmantošanas noteikumus, un regulators tos apstiprina.

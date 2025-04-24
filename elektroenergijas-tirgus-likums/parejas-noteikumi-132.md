@@ -1,0 +1,1 @@
+132. Regulators līdz 2025. gada 31. decembrim izdod šā likuma 8. panta otrajā daļā minētos sistēmas pieslēguma noteikumus elektroenerģijas uzkrātuvēm. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2025. gada 31. decembrim elektroenerģijas uzkrātuvju pieslēgšanai piemērojami sistēmas pieslēguma noteikumi elektroenerģijas ražotājiem.

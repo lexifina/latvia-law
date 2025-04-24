@@ -1,2 +1,2 @@
 10.pants. Pārvades sistēma
-Pārvades sistēma ietver savstarpēji savienotus tīklus un iekārtas, tajā skaitā starpvalstu savienojumus, kuru spriegums ir 110 un vairāk kilovoltu un kuri tiek izmantoti pārvadei līdz attiecīgajai sadales sistēmai vai lietotājiem. Pārvades sistēma ir elektroenerģijas sistēmas īpašnieka vai pārvades sistēmas operatora īpašums.
+Pārvades sistēma ietver savstarpēji savienotus tīklus un iekārtas, tajā skaitā starpvalstu savienojumus, kuru spriegums ir 110 un vairāk kilovoltu un kuri tiek izmantoti pārvadei līdz attiecīgajai sadales sistēmai vai lietotājiem. Pārvades sistēma ir pārvades sistēmas operatora īpašums.

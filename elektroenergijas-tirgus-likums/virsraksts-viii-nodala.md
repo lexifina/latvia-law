@@ -1,2 +1,2 @@
 VIII¹ nodaļa
-Elektroenerģijas birža
+Elektroenerģijas tirdzniecības darījumi un vairumtirgus uzraudzība

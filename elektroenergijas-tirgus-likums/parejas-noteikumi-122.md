@@ -1,1 +1,1 @@
-122. Šā likuma 14. panta otrajā daļā minēto metodiku, 15.² panta ceturtajā un piektajā daļā minētos noteikumus un kārtību pārvades sistēmas operators izstrādā līdz 2025. gada 31. decembrim un iesniedz regulatoram apstiprināšanai.
+122. Šā likuma 14. panta sestajā daļā minēto metodiku, 15.² panta ceturtajā un piektajā daļā minētos noteikumus un kārtību pārvades sistēmas operators izstrādā līdz 2025. gada 31. decembrim un iesniedz regulatoram apstiprināšanai.

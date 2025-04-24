@@ -1,0 +1,4 @@
+29.⁵ pants. Izcelsmes apliecinājuma izsniegšana
+(1) Izcelsmes apliecinājumus izsniedz un pārvalda pārvades sistēmas operators atbilstoši Eiropas enerģijas sertifikācijas izcelsmes apliecinājumu sistēmas prasībām par elektroenerģijas izcelsmes apliecinājumu izsniegšanu un izlietošanu. Pārvades sistēmas operators savā tīmekļvietnē publicē informāciju par izpildāmajām prasībām un iesniedzamajiem dokumentiem izcelsmes apliecinājuma saņemšanai.
+(2) Lai kompensētu ar izcelsmes apliecinājuma izsniegšanu saistītās izmaksas, pārvades sistēmas operators par izcelsmes apliecinājuma izsniegšanu var pieprasīt maksu, kuras aprēķināšanas kārtību tas izstrādā un publicē savā tīmekļvietnē.
+(3) Pārvades sistēmas operators informāciju par izsniegtajiem, citiem tirgus dalībniekiem nodotajiem, kā arī izlietotajiem izcelsmes apliecinājumiem publicē savā tīmekļvietnē vai tajā norāda vietu, kur šī informācija ir pieejama.

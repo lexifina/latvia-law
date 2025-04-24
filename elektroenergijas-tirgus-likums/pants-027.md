@@ -1,2 +1,3 @@
-27.pants. Elektroenerģijas cena
-Elektroenerģijas cenu nosaka ražotāji, tirgotāji un lietotāji, savstarpēji vienojoties, izņemot šajā likumā paredzētos gadījumus. Cenu darījumiem elektroenerģijas biržā nosaka saskaņā ar šīs biržas reglamentu.
+27. pants. Elektroenerģijas cena
+(1) Elektroenerģijas cenu nosaka, tirgus dalībniekiem savstarpēji vienojoties, izņemot šajā likumā paredzētos gadījumus. Elektroenerģijas cenu tirgus dalībnieku nākamās dienas un kārtējās dienas tirgos veiktajiem darījumiem nosaka vienota nākamās dienas vai vienota kārtējās dienas tirgus darbības rezultātā.
+(2) Regulators vismaz reizi gadā savā tīmekļvietnē publicē elektroenerģijas tirgus analīzi.

@@ -1,4 +1,4 @@
-15.² pants. Pārvades sistēmas pakalpojumu veidi
+15.² pants. Pārvades sistēmas pakalpojumu veidi elektroenerģijas ražotājiem
 (1) Elektroenerģijas ražotājam, kura elektroenerģijas ražošanas iekārtas ir pieslēgtas elektroenerģijas pārvades sistēmai, tiek sniegts viens no šādiem pārvades sistēmas pakalpojumiem:
 1) konstantais pārvades sistēmas pakalpojums - pārvades sistēmas pakalpojums elektroenerģijas ražotājam tiek sniegts nepārtraukti, izņemot pārvades sistēmas pakalpojuma ierobežošanu elektroenerģijas jomu regulējošos normatīvajos aktos noteiktajos gadījumos;
 2) elastīgais pārvades sistēmas pakalpojums - pārvades sistēmas pakalpojums elektroenerģijas ražotājam tiek sniegts ar iespēju to ierobežot līdz 876 stundām viena kalendāra gada laikā. Ierobežošanas laikā elektroenerģijas ražotājs maksā pārvades sistēmas operatoram šā likuma 14. panta otrajā daļā minēto maksu. Ierobežošanas laikā neietver laiku, kad pārvades sistēmas pakalpojums ierobežots elektroenerģijas jomu regulējošos normatīvajos aktos noteiktajos gadījumos.

@@ -1,0 +1,5 @@
+20.⁵ pants. Palīgpakalpojumi sadales sistēmā
+(1) Sadales sistēmas operators pērk palīgpakalpojumus, ievērojot atklātas, nediskriminējošas un uz tirgus principiem balstītas procedūras.
+(2) Sadales sistēmas operators no saviem resursiem nodrošina ar frekvences kontroli nesaistītu palīgpakalpojumu funkcijas savām vajadzībām, ja regulators pieņem lēmumu, ka šādu palīgpakalpojumu iegāde nav ekonomiski pamatota.
+(3) Noteikumus ar frekvences kontroli nesaistītu palīgpakalpojumu iepirkšanai, pirms tam apspriežoties ar tirgus dalībniekiem, izstrādā sadales sistēmas operators un apstiprina regulators. Šādos noteikumos iestrādā atklātas, nediskriminējošas un uz tirgus principiem balstītas palīgpakalpojumu pirkšanas procedūras.
+(4) Sadales sistēmas operators, iepērkot palīgpakalpojumus no elektroenerģijas galalietotājiem, elektroenerģijas ražotājiem vai elektroenerģijas uzkrātuvēm ar kopējo jaudu virs 500 kilovatiem, informē pārvades sistēmas operatoru par palīgpakalpojuma līgumā noteikto jaudas apjomu un pakalpojuma sniegšanas (aktivizācijas) periodiem.

@@ -3,7 +3,7 @@
 (2) Uzraudzības nodevu maksā elektroenerģijas ražotājs, kurš saskaņā ar šā likuma 28., 29. vai 30. pantu pārdod elektroenerģiju obligātā iepirkuma ietvaros vai kurš saskaņā ar šā likuma 28.¹ pantu saņem maksu par koģenerācijas stacijā uzstādīto elektrisko jaudu.
 (3) Uzraudzības nodevas gada likme ir 0,40 euro par katru uzstādīto kilovatu.
 (4) Šā panta trešajā daļā minēto uzraudzības nodevas likmi piemēro uzstādītajai elektriskajai jaudai, kas norādīta ar publisko tirgotāju un attiecīgo elektroenerģijas ražotāju noslēgtajā līgumā kārtējā kalendāra gada 1. janvārī.
-(5) Uzraudzības nodevu administrē birojs.
+(5) Uzraudzības nodevu administrē aģentūra.
 (6) Uzraudzības nodevu šā panta otrajā daļā minētais elektroenerģijas ražotājs maksā par kārtējā kalendāra gada periodu, ņemot vērā šā panta trešajā daļā minēto likmi. Kalendāra gadā maksājamās uzraudzības nodevas summu sadala divās vienādās daļās. Pirmo daļu elektroenerģijas ražotājs maksā līdz kārtējā gada 1. aprīlim, otro - līdz 1. oktobrim. Uzraudzības nodevu iemaksā Valsts kasē atvērtajā valsts pamatbudžeta ieņēmumu kontā atbilstoši valsts budžeta ieņēmumu klasifikācijai ar tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē.
 (7) Uzraudzības nodevu piemēro proporcionāli par pilniem kalendāra mēnešiem līdz pēdējam kalendāra mēnesim, kurā šā panta otrajā daļā minētajam elektroenerģijas ražotājam ir spēkā šā likuma 28., 28.¹, 29. vai 30. pantā minētās tiesības.
 (8) Kalendāra gadā maksājamās uzraudzības nodevas summu precizē, ja mainījusies šā panta ceturtajā daļā minētā uzstādītā elektriskā jauda, veicot pēdējo maksājumu kalendāra gadā.

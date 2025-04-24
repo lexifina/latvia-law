@@ -2,7 +2,7 @@
 (1) Latvijas teritorijā darbojas viens publiskais tirgotājs.
 (2) Publiskajam tirgotājam ir šādi pienākumi:
 1) iepirkt koģenerācijas stacijās saražoto elektroenerģiju šā likuma 28.pantā noteiktajā kārtībā;
-2) iepirkt elektroenerģiju, kas saražota, izmantojot atjaunojamos energoresursus, šā likuma 29. un 30.pantā noteiktajā kārtībā;
+2) iepirkt elektroenerģiju, kas saražota, izmantojot atjaunīgos energoresursus, šā likuma 29. un 30.pantā noteiktajā kārtībā;
 3) maksāt garantēto maksu par uzstādīto elektrisko jaudu šā likuma 28.¹ un 29.¹ pantā noteiktajā kārtībā;
 4) (izslēgts no 01.05.2023. ar 16.02.2023. likumu. Sk. pārejas noteikumu 101. punktu);
 5) saņemt izcelsmes apliecinājumu par tā elektroenerģijas ražotāja saražoto elektroenerģiju, kurš izmanto šā likuma 28., 28.¹, 29. vai 30. pantā minētās tiesības, ievērojot šā likuma 29.² panta nosacījumus.

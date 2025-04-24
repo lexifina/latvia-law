@@ -1,0 +1,1 @@
+134. Regulators līdz 2025. gada 31. decembrim izdod šā likuma 26.¹ panta otrajā daļā minētos elektroenerģijas uzkrāšanas vispārējās atļaujas noteikumus un minētā panta ceturtajā daļā norādītās prasības un kārtību attiecībā uz elektroenerģijas uzkrātuvēm.

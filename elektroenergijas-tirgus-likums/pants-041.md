@@ -2,7 +2,7 @@
 Regulators ir tiesīgs pārvades sistēmas operatoram uzlikt soda naudu līdz 10 procentiem no pārvades sistēmas operatora iepriekšējā finanšu gada neto apgrozījuma, bet ne mazāk kā 300 euro, ja pārvades sistēmas operators:
 1) sniedz pārvades sistēmas pakalpojumus bez licences, neievēro tam izsniegtās licences nosacījumus vai tam izsniegto licenci nodod citām personām;
 2) nenodrošina jaunu pārvades infrastruktūras objektu plānošanu, būvniecību un nodošanu ekspluatācijā un pārvades sistēmas attīstības 10 gadu plāna izstrādi atbilstoši regulatora prasībām;
-3) neievēro regulatora noteiktos sistēmas pieslēguma noteikumus, nenodrošina pieslēgumu pārvades sistēmai vai neinformē regulatoru par gadījumiem, kad pārvades sistēmas operators ir atteicis tirgus dalībniekam pieeju sistēmai;
+3) neievēro regulatora izdotos sistēmas pieslēguma noteikumus, nenodrošina pieslēgumu pārvades sistēmai vai neinformē regulatoru par gadījumiem, kad pārvades sistēmas operators ir atteicis tirgus dalībniekam pieeju sistēmai;
 4) nenodrošina atbilstību šajā likumā noteiktajām pārvades sistēmas operatora sertificēšanas prasībām;
 5) neiesniedz regulatoram ziņojumus par tā atbilstību sertificēšanas prasībām, tostarp pārvades sistēmas operatora neatkarības prasībām;
 6) neizstrādā Tīkla kodeksu, tostarp grozījumus Tīkla kodeksā, un nenodrošina Tīkla kodeksā noteikto procedūru izpildi;
