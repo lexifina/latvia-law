@@ -1,0 +1,1 @@
+1. pants. 1967. gada 27. janvāra Līgums par valstu darbības principiem kosmosa, tostarp Mēness un citu debess ķermeņu, izpētē un izmantošanā (turpmāk - Līgums) ar šo likumu tiek pieņemts un apstiprināts.
