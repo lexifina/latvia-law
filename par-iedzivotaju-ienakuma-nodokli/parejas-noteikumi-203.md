@@ -1,0 +1,1 @@
+203. Piemērojot šā likuma 3. panta trešās daļas 7.¹ punktu, no 2025. gada 1. janvāra līdz 2027. gada 31. decembrim ar nodokli neapliek ārvalsts nodokļa maksātāja (nerezidenta) ienākumu, kas gūts no publiskā apgrozībā esošu kriptoaktīvu atsavināšanas.

@@ -1,6 +1,6 @@
 11.⁹ pants. Ienākuma no kapitāla noteikšana
 1. Kapitāla pieaugumu nosaka, no kapitāla aktīva atsavināšanas cenas atņemot iegādes vērtību un kapitāla aktīvā veikto ieguldījumu vērtību kapitāla aktīva turēšanas laikā. Ja tiek saņemta likvidācijas kvota Komerclikuma izpratnē, kapitāla pieaugumu nosaka no atlīdzības, kas saņemta kā likvidācijas kvota, atņemot kapitāla aktīva iegādes vērtību un kapitāla aktīvā veikto ieguldījumu vērtību kapitāla aktīva turēšanas laikā.
-1.¹ Kapitāla pieaugumu no virtuālās valūtas nosaka, no kapitāla aktīva atsavināšanas cenas atņemot sākotnējo iegādes vērtību. Ja nav iespējams noteikt kapitāla aktīva sākotnējo iegādes vērtību, par tā iegādes vērtību uzskata 0.
+1.¹ Kapitāla pieaugumu no kriptoaktīviem nosaka, no kapitāla aktīva atsavināšanas cenas atņemot sākotnējo iegādes vērtību. Ja nav iespējams noteikt kapitāla aktīva sākotnējo iegādes vērtību, par tā iegādes vērtību uzskata 0.
 2. Šā likuma izpratnē kapitāla aktīvi ir:
 1) akcijas, kapitāla daļas, pajas, ieguldījumi personālsabiedrībā un citi Finanšu instrumentu tirgus likumā minētie finanšu instrumenti;
 2) ieguldījumu fondu apliecības un citi pārvedami vērtspapīri, kas apliecina līdzdalību ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu uzņēmumos;
@@ -9,7 +9,7 @@
 5) uzņēmums Komerclikuma izpratnē;
 6) intelektuālā īpašuma objekti;
 7) ieguldījumu zelts un citi dārgmetāli, darījumu objekti valūtas tirdzniecības biržā vai preču biržā;
-8) virtuālā valūta Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.
+8) kriptoaktīvi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.
 3. Šā panta pirmajā daļā noteiktais ienākums no kapitāla aktīvu atsavināšanas ietver arī ienākumus no darījumiem, kas vērsti uz kapitāla aktīvu iegūšanas tiesību atsavināšanu.
 4. Ja kapitāla aktīvs iegūts mantojuma ceļā, par tā iegādes vērtību uzskata attiecīgi mantojuma masā ietilpstošā norādītā konkrētā kapitāla aktīva vērtību. Ja kapitāla aktīvs iegūts uz dāvinājuma līguma pamata, par tā iegādes vērtību uzskata attiecīgi dāvinājuma līgumā norādītā konkrētā kapitāla aktīva vērtību, kas nav lielāka par kapitāla aktīva atsavināšanas cenu.
 4.¹ Par akciju iegādes vērtību uzskata to tirgus vērtību akciju pirkuma tiesību īstenošanas dienā, ja šīs akcijas ir iegūtas, īstenojot akciju pirkuma tiesības, un akciju pirkuma tiesību īstenošanas dienā gūtais ienākums ir apliekams ar nodokli saskaņā ar šā likuma 8.panta 2.⁵ daļu un 11.¹¹ pantu.
