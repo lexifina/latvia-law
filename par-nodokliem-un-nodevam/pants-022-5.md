@@ -1,0 +1,2 @@
+22.⁵ pants. Ar pārrobežu maksājumiem saistītās informācijas izmantošana Valsts ieņēmumu dienestā
+Lai veicinātu komercdarbības vides drošību, godīgu konkurenci un labprātīgu nodokļu (nodevu) saistību izpildi, Valsts ieņēmumu dienests Pievienotās vērtības nodokļa likuma 147. panta otrajā daļā minētajā gadījumā maksājumu pakalpojumu sniedzēju sniegto informāciju var izmantot nodokļu administrēšanas funkciju izpildei.
