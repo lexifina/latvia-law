@@ -1,0 +1,2 @@
+28.¹ pants. Īpašuma kompensācijas sertifikātu dzēšana
+Personām, kurām piešķirti īpašuma kompensācijas sertifikāti, vai šo personu mantiniekiem no 2027. gada 1. janvāra līdz 2027. gada 30. septembrim Ministru kabineta noteiktajā kārtībā ir tiesības dzēst piešķirtos un kontā ieskaitītos īpašuma kompensācijas sertifikātus, saņemot naudā to nominālvērtību, kas noteikta likuma "Par privatizācijas sertifikātiem" 3. pantā, ja šie sertifikāti nav izmantoti privatizācijā vai dzēsti.

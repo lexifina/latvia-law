@@ -6,7 +6,7 @@
 4) apbūvēta un neapbūvēta zemesgabala privatizācijas kārtību un privatizācijas nosacījumus;
 5) kārtību, kādā privatizējams apbūvēts zemesgabals, ja pēc privatizācijas ierosinājuma saņemšanas mainījies ēkas (būves) īpašnieks, izveidojies ēku (būvju) kopīpašums vai notikusi ēku (būvju) sadalīšana patstāvīgos īpašuma objektos;
 6) norēķinu kārtību;
-7) kārtību, kādā pieņemams lēmums par privatizācijas izbeigšanu;
+7) kārtību, kādā pieņemams lēmums par privatizācijas izbeigšanu vai pabeigšanu;
 8) turpmāko rīcību ar valsts vai pašvaldību kapitāla daļām un kapitālsabiedrībām;
 9) turpmāko rīcību ar valsts vai pašvaldību īpašuma objektiem, apbūvētiem un neapbūvētiem zemesgabaliem;
 10) rīcību ar tautsaimniecībai svarīgiem objektiem;

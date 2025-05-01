@@ -1,0 +1,4 @@
+14.¹ pants. Valsts vai pašvaldības īpašuma objekta un zemesgabalu privatizācijas pabeigšana
+(1) Privatizācija uzskatāma par pabeigtu ar brīdi, kad privatizācijas subjekts, kurš ieguvis privatizējamo objektu vai zemesgabalu, ir izpildījis visas maksājuma saistības, kas tam bija jāpilda saskaņā ar objekta privatizācijas noteikumiem vai privatizācijas projektu un pirkuma līgumu.
+(2) Valsts īpašuma privatizāciju veicošā institūcija vai pašvaldība likuma "Par valsts un pašvaldību īpašuma objektu privatizāciju" 43. panta otrajā daļā, 81. panta otrajā daļā un 86. panta otrajā daļā noteikto lēmumu pieņem divu mēnešu laikā pēc šā panta pirmajā daļā minēto nosacījumu iestāšanās.
+(3) Šā panta pirmajā daļā minēto nosacījumu iestāšanās neatbrīvo no pienākuma izpildīt pārējās saistības, kas izriet no privatizācijas noteikumiem vai privatizācijas projekta un pirkuma līguma.
