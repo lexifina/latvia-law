@@ -1,10 +1,10 @@
 17.pants. Sertifikātu izmantošanas veidi
 (1) Sertifikāti jāpieņem bez ierobežojumiem samaksai par privatizējamiem valsts un pašvaldību īpašuma objektiem - zemi, namīpašumiem, dzīvokļiem. Sertifikāti jāpieņem bez ierobežojumiem arī samaksai par privatizējamiem valsts un pašvaldību uzņēmumiem un citiem īpašuma objektiem vai to kapitāla daļām (akcijām, pajām, daļām), ja apstiprinātajos konkrēto objektu privatizācijas noteikumos (projektā) nav noteikts citādi.
 (2) (Izslēgta ar 07.11.2013. likumu)
-(3) Sertifikātus var pārdot licencētam sertifikātu tirgus starpniekam, slēdzot rakstveida līgumu. Starpnieka pakalpojumu var sniegt kapitālsabiedrība, kas saņēmusi speciālu atļauju (licenci). Licenču izsniegšanas, apturēšanas un anulēšanas kārtību, kā arī starpniecības sabiedrības pienākumus un uzraudzības kārtību nosaka Ministru kabinets.
-(3¹) Sertifikāta tirgus cena ir sertifikāta vidējā cena, kas tiek aprēķināta no starpniecības sabiedrību rīkotajās izsolēs pēdējās 10 dienās noslēgtajiem pirkuma līgumiem. Tās noteikšanai par pamatu ņem pēdējās 10 dienas, kurās ir slēgti pirkuma līgumi. Šo cenu oficiālajā izdevumā "Latvijas Vēstnesis" publicē Ministru kabineta noteikta institūcija, kura apkopo informāciju par sertifikātu tirgū noslēgtajiem darījumiem.
-(4) Šā panta trešajā daļā minētās kapitālsabiedrības par atļaujas (licences) saņemšanu maksā valsts nodevu. Ministru kabinets nosaka valsts nodevas likmi un tās maksāšanas kārtību.
-(5) Līgumā ar starpniecības sabiedrību, kā arī kopīgo ieguldījumu fonda ieguldījuma līgumā jāparedz, ka starpniecības sabiedrības vai kopīgo ieguldījumu fonda likvidēšanas gadījumā sertifikātu ieguldītājiem tiks atlīdzināta par viņu ieguldītajiem sertifikātiem iegūtajai kapitāla (fonda) daļai atbilstoša likvidējamās kapitālsabiedrības vai kopīgo ieguldījumu fonda mantas vērtības daļa.
+(3) Sertifikātus var brīvi atsavināt citām personām, kurām ir atvērts privatizācijas sertifikātu konts.
+(3¹) (Izslēgta ar 20.03.2025. likumu)
+(4) (Izslēgta ar 20.03.2025. likumu)
+(5) (Izslēgta ar 20.03.2025. likumu)
 (6) (Izslēgta ar 07.11.2013. likumu)
 (7) (Izslēgta ar 07.11.2013. likumu)
 (8) Šā likuma 9.panta piektajā daļā minētos sertifikātus pēc politiski represēto personu pieprasījuma ieskaita īpašā fondā, kura darbību un sertifikātu dzēšanas kārtību nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+14. Ja privatizācijas sertifikātus pārdod juridiskā persona, kurai līdz 2025. gada 30. aprīlim ir atvērts privatizācijas sertifikātu izsoles konts, un darījuma īstenošanai tiek izmantots šīs juridiskās personas privatizācijas sertifikātu izsoles konts, valsts nodeva par sertifikātu pārdošanu netiek piemērota līdz 2026. gada 30. aprīlim.

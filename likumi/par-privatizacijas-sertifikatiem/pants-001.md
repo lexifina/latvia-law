@@ -4,8 +4,8 @@ Likumā ir lietoti šādi termini:
 2) privatizācijas sertifikātu konts - šajā likumā noteiktajā kārtībā atvērts konts, kurā tiek fiksēti sertifikātu īpašniekiem piederošie sertifikāti un operācijas ar tiem;
 3) privatizācijas sertifikātu grāmatiņa (turpmāk - sertifikātu grāmatiņa) - dokuments, kurā tiek atspoguļots privatizācijas sertifikātu konts un operācijas ar sertifikātiem;
 4) Latvijas iedzīvotājs - šā likuma izpratnē: Latvijas pilsonis vai Pilsonības un imigrācijas departamentā reģistrēta persona, kurai ir pastāvīgs pieraksts Latvijas Republikā un kurai ir piešķirts individuāls un nemainīgs personas kods, kas fiksēts personu apliecinošos dokumentos, vai kura saņēmusi pastāvīgās uzturēšanās atļauju;
-5) kopīgo ieguldījumu fonds - ieguldītāju kopīpašums, kuru šķirti no sava īpašuma pārvalda kopīgo ieguldījumu sabiedrība;
-6) kopīgo ieguldījumu sabiedrība - akciju sabiedrība, kura saņēmusi speciālu atļauju (licenci) un savā vārdā rīkojas ar kopīgo ieguldījumu fondā ieguldītajiem sertifikātiem un citu mantu, par šiem sertifikātiem iegādājas privatizējamo valsts un pašvaldību īpašumu un apsaimnieko (pārvalda) to šķirti no sava īpašuma;
+5) (izslēgts ar 20.03.2025. likumu);
+6) (izslēgts ar 20.03.2025. likumu);
 7) sertifikāti par Latvijā nodzīvoto laiku - sertifikāti, ko piešķir Latvijas iedzīvotājiem atbilstoši šā likuma II nodaļas noteikumiem;
 8) sertifikāti politiski represētajām personām - sertifikāti, ko atbilstoši šā likuma III nodaļas noteikumiem piešķir personām, kuras likumā paredzētajā kārtībā atzītas par politiski represētām;
 9) īpašuma kompensācijas sertifikāti - sertifikāti, ko šā likuma IV nodaļā paredzētajos gadījumos un kārtībā piešķir nacionalizēto un citādi nelikumīgi atņemto īpašumu bijušajiem īpašniekiem vai viņu mantiniekiem, ja bijušo īpašumu nevar atdot vai ja bijušais īpašnieks vai viņa mantinieki atsakās no īpašuma tiesībām un vēlas īpašuma vietā saņemt kompensāciju;
