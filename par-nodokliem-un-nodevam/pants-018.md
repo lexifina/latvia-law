@@ -21,7 +21,7 @@
 17) (izslēgts no 01.09.2017. ar 23.11.2016. likumu. Sk. Pārejas noteikumu 182.¹ punktu);
 18) (izslēgts no 01.09.2017. ar 23.11.2016. likumu. Sk. Pārejas noteikumu 182.¹ punktu);
 19) nodrošināt publiski pieejamu sabiedriskā labuma organizāciju vienoto datu bāzi (reģistru);
-20) atbilstoši iekšzemes nodokļu maksātāju iesniegtajām nodokļu deklarācijām un NACE 2.red. klasifikācijas divu zīmju līmenim apkopot un nodrošināt publiski pieejamu informāciju:
+20) atbilstoši iekšzemes nodokļu maksātāju iesniegtajām nodokļu deklarācijām un NACE 2.1. red. klasifikācijas divu zīmju līmenim apkopot un nodrošināt publiski pieejamu informāciju:
 a) par iekšzemes nodokļu maksātāju - darba devēju - nodarbināto darba ņēmēju mēneša vidējiem darba ienākumiem vismaz pirmajos trijos gada ceturkšņos pēdējo četru gada ceturkšņu periodā,
 b) par to, cik liela ir valstī vidējā viena divpadsmitā daļa no to fizisko personu deklarētā gada apliekamā ienākuma no saimnieciskās darbības, kuras ir reģistrētas kā saimnieciskās darbības veicējas un nenodarbina citas personas;
 21) uzturēt riska adrešu sarakstu un riska personu sarakstu atbilstoši šā likuma 1.panta 31.punktā noteiktajiem kritērijiem un regulāri sniegt šo informāciju Latvijas Republikas Uzņēmumu reģistram. Kārtību, kādā tiek nodrošināta Valsts ieņēmumu dienesta un Latvijas Republikas Uzņēmumu reģistra savstarpējā informācijas apmaiņa par Valsts ieņēmumu dienesta uzturētajā riska adrešu sarakstā un riska personu sarakstā iekļautajām ziņām, un sniedzamās informācijas regularitāti nosaka starpresoru vienošanās;
@@ -67,3 +67,9 @@ e) ar kuru atteikta pārmaksātā pievienotās vērtības nodokļa atmaksa;
 4) nodokļu un muitas administrēšanas pasākumu rezultātus;
 5) darba samaksas novērtējumu;
 6) nodokļu deklarēšanas risku novērtējumu.
+(11) Valsts ieņēmumu dienests nodrošina šādas informācijas publicēšanu arī atvērto datu veidā:
+1) atbilstoši šā panta pirmās daļas 8.¹, 19. un 36. punktam publiskojamo informāciju;
+2) atbilstoši šā panta pirmās daļas 12. punktam publiskojamo informāciju par juridiskajām personām;
+3) šā panta pirmās daļas 22. punktā minētajā Valsts ieņēmumu dienesta Nodokļu maksātāju reģistrā iekļauto informāciju par nerezidenta (ārvalsts komersanta) pastāvīgo pārstāvniecību Latvijā;
+4) šā panta pirmās daļas 28. punktā minēto informāciju par juridiskajām personām, kuru darbinieku vidējais mēneša atalgojums ir valstī noteiktās minimālās mēneša darba algas apmērā vai mazāks;
+5) atbilstoši šā likuma 34.¹ panta astotajai daļai publiskojamo informāciju par juridiskajām personām, kurām apturēta saimnieciskā darbība.
