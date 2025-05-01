@@ -1,0 +1,3 @@
+6. pants. Neprivatizētas valsts vai pašvaldības dzīvojamās mājas, tās domājamās daļas un cita privatizācijas objekta privatizācijas uzsākšana
+(1) Lēmumu par dzīvojamās mājas privatizācijas uzsākšanu likuma "Par valsts un pašvaldību dzīvojamo māju privatizāciju" 8.¹ pantā minētā institūcija pieņem līdz 2027. gada 31. augustam, izņemot šā panta otrajā daļā minēto gadījumu.
+(2) Ja līdz 2027. gada 31. augustam ir uzsākta tiesvedība, kas ietekmē vai var ietekmēt lēmumu par attiecīgās dzīvojamās mājas privatizācijas uzsākšanu, attiecīgais lēmums pieņemams 12 mēnešu laikā pēc tiesas nolēmuma spēkā stāšanās.
