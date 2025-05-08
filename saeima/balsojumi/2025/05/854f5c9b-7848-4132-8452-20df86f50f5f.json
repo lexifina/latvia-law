@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 4,
+ "datums": "2025-05-08",
+ "ieraksts": {
+  "dkp_id": "3defa161-c417-4b18-be6b-48c8e64b2ae5",
+  "lastmodtime": "\"AAAAAAJcQgc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Ilze#Mairita#Anna#Edmunds#Zane#Juris#Mārtiņš#Ilze#Mārcis#Andris#Andris#Andrejs#Ainars#Inese#Māris#Edmunds#Didzis#Ģirts Valdis#Andris#Ingmārs#Artūrs#Agnese#Jana#Ligita#Alīna#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Viesturs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Atis#Māris#Viktorija#Edgars#Andrejs#Jānis#Anita#Gunārs#Edgars#Gundars#Ramona#Jānis#Lauris#Linda#Aleksandrs#Jānis#Līga#Antoņina#Uģis#Edvards",
+  "SURNAME": "Šnore#Indriksone#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Stobova#Jencītis#Bērziņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sprindžuks#Teirumnieks#Zemmers#Kristovskis#Kulbergs#Līdaka#Butāns#Krasta#Simanovska#Gintere#Gendele#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Zariņš#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Labucis#Kučinskis#Pleškāne#Tavars#Judins#Vucāns#Brakovska#Kūtris#Putra#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "###############################################################",
+  "FRACTION": "NA#NA#PRO#JV#PRO#JV#ZZS#JV#LPV#LPV#ZZS#PRO#ZZS#JV#JV#AS#NA#ZZS#JV#AS#AS#NA#JV#PRO#ZZS#JV#JV#JV# #JV#ZZS#JV#ZZS#JV#JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#JV#AS# #AS#JV#ZZS#ZZS#ZZS#AS#ZZS#LPV#JV#AS#LPV# #JV#ZZS#PRO#JV#AS",
+  "RESULT": "Par#Par#Pret#Atturas#Pret#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Pret#Atturas#Atturas#Atturas#Nebalsoja#Par#Atturas#Atturas#Nebalsoja#Nebalsoja#Par#Atturas#Pret#Nebalsoja#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Pret#Nebalsoja#Atturas#Atturas#Par#Par#Atturas#Pret#Atturas#Atturas#Nebalsoja#Pret#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Atturas#Atturas#Nebalsoja#Nebalsoja#Par#Atturas#Atturas#Pret#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.05.2025 18:29:50",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.8. Nacionālo drošību apdraudošu pasākumu ierobežošanas likums (876/Lp14), 2.lasījums",
+  "VOTING_ID": "854f5c9b-7848-4132-8452-20df86f50f5f",
+  "VOTERESULT_ABSTAIN": "36",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "9",
+  "VOTERESULT_REGISTERED": "64",
+  "VOTE_NUMBER": "22",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/2b23d203-79b0-48f4-839b-aed7f1f76fe3/download/14.saeimas-2025.gada-pavasara-sesija-4-vote.xml",
+  "sha256": "918b2d89c6bcc69d62635a2eaec9012937f3501c1443d6c0d5f727ba4188f41c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
