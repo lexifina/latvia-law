@@ -1,0 +1,1 @@
+5. pants. Līdz ar izstāšanos no Konvencijas spēku zaudē likums "Par Konvenciju par kājnieku mīnu lietošanas, uzglabāšanas un ražošanas aizliegumu un iznīcināšanu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 12. nr.).

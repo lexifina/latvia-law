@@ -1,0 +1,1 @@
+2. pants. Atbilstoši Konvencijas 20. panta 2. punktam Ārlietu ministrija izstāšanās dokumentā, kuru nosūta Konvencijas dalībvalstīm, Apvienoto Nāciju Organizācijas ģenerālsekretāram un Apvienoto Nāciju Organizācijas Drošības padomei, iekļauj šā likuma pielikumā ietverto informāciju.

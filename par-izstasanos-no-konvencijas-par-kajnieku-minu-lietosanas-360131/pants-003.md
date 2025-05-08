@@ -1,0 +1,1 @@
+3. pants. Ārlietu ministrija koordinē ar Igaunijas Republikas un Lietuvas Republikas ārlietu ministrijām izstāšanās dokumentu iesniegšanu Konvencijas dalībvalstīm, Apvienoto Nāciju Organizācijas ģenerālsekretāram un Apvienoto Nāciju Organizācijas Drošības padomei.

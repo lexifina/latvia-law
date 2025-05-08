@@ -1,0 +1,1 @@
+Par izstāšanos no Konvencijas
