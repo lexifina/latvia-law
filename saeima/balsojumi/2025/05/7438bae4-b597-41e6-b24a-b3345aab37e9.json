@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 4,
+ "datums": "2025-05-08",
+ "ieraksts": {
+  "dkp_id": "2623f4b1-1e10-4a9b-8c6b-e424d6f0df23",
+  "lastmodtime": "\"AAAAAAJb9lg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Mairita#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Andris#Andrejs#Ainars#Inese#Amils#Edmunds#Uldis#Didzis#Ģirts Valdis#Ingmārs#Edmunds#Artūrs#Agnese#Jana#Ligita#Alīna#Jekaterina#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Ainārs#Līga#Viesturs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Atis#Māris#Jānis#Viktorija#Edgars#Andrejs#Jānis#Anita#Gunārs#Leila#Kaspars#Gundars#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Lūse#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Šuvajevs#Vilks#Latkovskis#Kalniņa#Saļimovs#Teirumnieks#Augulis#Zemmers#Kristovskis#Līdaka#Zivtiņš#Butāns#Krasta#Simanovska#Gintere#Gendele#Drelinga#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Šlesers#Kļaviņa#Zariņš#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Judins#Vucāns#Brakovska#Kūtris#Rasima#Briškens#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "##################################################################",
+  "FRACTION": "ST!#PRO#JV#PRO#JV#ZZS#ST!#JV#LPV#PRO#ZZS#JV#JV#ST!#NA#ZZS#ZZS#JV#AS#LPV#NA#JV#PRO#ZZS#JV#ST!#JV#JV# #JV#ZZS#JV#ZZS#LPV#ZZS#JV#JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#JV#AS#NA# #AS#JV#ZZS#ZZS#ZZS#PRO#PRO#ZZS#JV#AS#LPV#JV# #JV#ZZS#PRO#JV",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.05.2025 16:51:19",
+  "VOTEMOTIVE": "Par Māra Lejas apstiprināšanu par Augstākās tiesas tiesnesi (705/Lm14)",
+  "VOTING_ID": "7438bae4-b597-41e6-b24a-b3345aab37e9",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "5",
+  "VOTERESULT_FOR": "57",
+  "VOTERESULT_REGISTERED": "67",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/2b23d203-79b0-48f4-839b-aed7f1f76fe3/download/14.saeimas-2025.gada-pavasara-sesija-4-vote.xml",
+  "sha256": "918b2d89c6bcc69d62635a2eaec9012937f3501c1443d6c0d5f727ba4188f41c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
