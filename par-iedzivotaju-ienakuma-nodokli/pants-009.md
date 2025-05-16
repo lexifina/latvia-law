@@ -113,6 +113,7 @@ b) samazinātās vai dzēstās saistības ir izslēgtas no kreditora uzņēmumu 
 48) Eiropas Reģionālās attīstības fonda atbalsta maksājums par individuālo siltumapgādes sistēmu uzlabošanu mājsaimniecībās;
 49) vietējās pašvaldības līdzfinansējums nekustamā īpašuma pieslēgšanai centralizētajai ūdensapgādes sistēmai vai centralizētajai kanalizācijas sistēmai;
 50) atbalsts izmaksu segšanai azbesta atkritumu apsaimniekošanas nodrošināšanai mājsaimniecībām šīfera jumtu un siltumizolācijas materiālu nomaiņas gadījumā.
+1.¹ Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti maksātāja - izglītojamā - saimnieciskās darbības ieņēmumi līdz 3000 euro gadā no saimnieciskās darbības, kas veikta izglītības iestādes īstenotas pamatizglītības un vidējās izglītības programmas ietvaros.
 2. Ja šā panta pirmās daļas 1., 10., 14., 16., 16.¹, 20., 25., 27.punktā, 35.punkta "b" apakšpunktā, 37., 37.¹, 37.², 38., 39. un 40.punktā minētie ienākumi pārsniedz attiecīgās šajos punktos, kā arī šā panta 3.⁵ daļā noteiktās summas (normas) lielumu, pārsnieguma summa tiek aplikta ar nodokli.
 3. Šā panta noteikumi nav attiecināmi uz nerezidenta Latvijā gūto ienākumu, izņemot:
 1) ienākumu, kuru taksācijas gadā Latvijā guvis nerezidents, kas ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, un kurš ir lielāks par 75 procentiem no visiem kopējiem attiecīgā nerezidenta gūtajiem ienākumiem;
