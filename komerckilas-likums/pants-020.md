@@ -1,5 +1,5 @@
 20.pants. Izmaiņas komercķīlu reģistra ierakstos
-(1) Pieteikumu par izmaiņām komercķīlu reģistra ierakstos paraksta komercķīlas ņēmējs un komercķīlas devējs, ja šajā pantā nav noteikts citādi. Pieteikumu noformē un iesniedz šā likuma 11., 13. un 14.pantā noteiktajā kārtībā. Ja tiek grozīts nodrošinātais prasījums, pieteikumam pievieno tā dokumenta grozījumu tekstu, no kura izriet nodrošinātais prasījums.
+(1) Pieteikumu par izmaiņām komercķīlu reģistra ierakstos paraksta komercķīlas ņēmējs un komercķīlas devējs, ja šajā pantā nav noteikts citādi. Pieteikumu noformē un iesniedz šā likuma 11., 13. un 14.pantā noteiktajā kārtībā. Ja tiek grozīts nodrošinātais prasījums, pieteikumam pievieno šā likuma 13. panta pirmajā daļā minētā komercķīlas līguma vai, ja tas ir attiecināms, tā dokumenta grozījumu tekstu, kurā ietverti būtiskie noteikumi par nodrošināto prasījumu un tā spēkā esību.
 (2) Komercķīlas devējs iesniedz pieteikumu par izmaiņām šā likuma 10.panta pirmās daļas 1.punktā minētajās ziņās par komercķīlas devēju.
 (3) Komercķīlas ņēmējs iesniedz pieteikumu par izmaiņām šādos gadījumos:
 1) par izmaiņām šā likuma 10.panta pirmās daļas 1.punktā minētajās ziņās par komercķīlas ņēmēju;
