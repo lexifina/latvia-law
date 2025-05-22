@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 20. maija noteikumi Nr. 292 \"Grozījumi Ministru kabineta 2002. gada 9. aprīļa noteikumos Nr. 149 \"Noteikumi par aizsardzību pret jonizējošo starojumu\"\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-21",
+  "entry_into_force": "2025-05-22",
+  "notification_date": "2025-05-30",
+  "commission_reference": "MNE(2025)03109",
+  "nim_celex": "72013L0059LVA_202503109",
+  "nim_id": "202503109",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/25c051f8-b655-44dd-977e-ad2ef09de89f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
