@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 7,
+ "datums": "2025-05-22",
+ "ieraksts": {
+  "dkp_id": "13eeaf3b-3162-4877-93b0-1324c71c3064",
+  "lastmodtime": "\"AAAAAAJdi/s=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Ilze#Skaidrīte#Mairita#Edmunds#Zane#Juris#Svetlana#Ilze#Mārcis#Aleksejs#Andris#Jurģis#Andris#Andrejs#Ainars#Amils#Uldis#Didzis#Andris#Ričards#Ingmārs#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Alīna#Jekaterina#Ilze#Raimonds#Andrejs#Ingrīda#Harijs#Edmunds#Aiva#Valdis#Ainārs#Dmitrijs#Nataļja#Viesturs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Anita#Edgars#Igors#Leila#Kaspars#Gundars#Ramona#Jānis#Linda#Aleksandrs#Jānis#Antoņina#Uģis",
+  "SURNAME": "Indriksone#Ābrama#Lūse#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Stobova#Jencītis#Rosļikovs#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Saļimovs#Augulis#Zemmers#Kulbergs#Šlesers#Līdaka#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Drelinga#Vergina#Čudars#Ceļapīters#Circene#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Šlesers#Kovaļenko#Marčenko-Jodko#Zariņš#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Brakovska#Putra#Judins#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "NA#PRO#PRO#PRO#JV#ZZS#ST!#LPV#LPV#ST!#ZZS#NA#PRO#ZZS#JV#ST!#ZZS#ZZS#AS#LPV#AS#NA#JV#NA#PRO#ZZS#JV#JV#ST!#JV#JV# #JV#ZZS#JV#AS#ZZS#LPV#ST!#ST!#JV#JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS# #AS#AS#JV#ZZS#AS#ST!#PRO#PRO#ZZS#LPV#JV#LPV# #JV#PRO#JV",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.05.2025 11:04:41",
+  "VOTEMOTIVE": "Grozījumi Jaunuzņēmumu darbības atbalsta likumā (909/Lp14), 2.lasījums",
+  "VOTING_ID": "09a127ec-8e77-450c-aeb2-aa3bcc2c5206",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "66",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "19",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/201c08ab-f674-40ce-b042-bc01467e3d59/download/14.saeimas-2025.gada-pavasara-sesija-7-vote.xml",
+  "sha256": "9d3c8f8824869cbb2138a5ebe8a18ac266028efbd51ea54775d7e455f95fa5b9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
