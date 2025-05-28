@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 20. maija noteikumi Nr. 291 \"Grozījumi Ministru kabineta 2021. gada 21. janvāra noteikumos Nr. 47 \"Īslaicīgu profesionālo pakalpojumu sniegšanas kārtība Latvijas Republikā reglamentētā profesijā\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-27",
+  "entry_into_force": "2025-05-28",
+  "notification_date": "2025-06-10",
+  "commission_reference": "MNE(2025)03320",
+  "nim_celex": "72005L0036LVA_202503320",
+  "nim_id": "202503320",
+  "transposes_celex": [
+    "32005L0036"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/df1327bc-9978-4370-8f03-05db09d1f288",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
