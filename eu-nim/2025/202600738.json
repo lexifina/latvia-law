@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2025. gada 22. maija lēmums Nr. 1/8 \"Noteikumi par elektroenerģijas pārvades sistēmas attīstības plānu\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "100",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-27",
+  "entry_into_force": "2025-05-28",
+  "notification_date": "2026-01-26",
+  "commission_reference": "MNE(2026)00738",
+  "nim_celex": "72023L1791LVA_202600738",
+  "nim_id": "202600738",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a7489108-bd31-456e-aec3-01af58e2a979",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
