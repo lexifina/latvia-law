@@ -1,0 +1,1 @@
+45. Grozījums šā likuma 41.² pantā par tā otrās daļas papildināšanu ar teikumu, kas nosaka to, ka Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS) pilda regulā Nr. 2019/1239 noteiktās valsts jūras vienloga sistēmas funkcijas, stājas spēkā 2025. gada 15. augustā.

@@ -7,7 +7,8 @@ Satiksmes ministrija atbilstoši savai kompetencei jūrlietās:
 4) nodrošina Latvijai saistošo starptautisko līgumu un citu starptautisko tiesību normu ievērošanu;
 5) nodrošina Latvijas Jūras administrācijai nodoto funkciju izpildes uzraudzību un kontroli;
 6) šajā likumā paredzētajos gadījumos nosaka Latvijas ūdeņu izmantošanas kārtību;
-6¹) pilda Starptautiskās kravu loģistikas un ostu informācijas sistēmas (SKLOIS) pārziņa funkcijas. Par Starptautiskās kravu loģistikas un ostu informācijas sistēmas (SKLOIS) turētāja funkciju pildīšanu Satiksmes ministrija slēdz deleģēšanas līgumu ar Latvijas Jūras administrāciju;
+6¹) pilda Starptautiskās kravu loģistikas un ostu informācijas sistēmas (SKLOIS) pārziņa funkcijas. Par Starptautiskās kravu loģistikas un ostu informācijas sistēmas (SKLOIS) informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu pārvaldību Satiksmes ministrija slēdz deleģēšanas līgumu ar Latvijas Jūras administrāciju;
+6²) pilda valsts Eiropas Jūras vienloga sistēmas vides (EMSWe) koordinatora funkcijas saskaņā ar Eiropas Parlamenta un Padomes 2019. gada 20. jūnija regulu (ES) 2019/1239, ar ko izveido Eiropas Jūras vienloga sistēmas vidi un ar ko atceļ direktīvu 2010/65/ES (turpmāk - regula Nr. 2019/1239);
 7) izsniedz un anulē atbilstības sertifikātu jūrnieku profesionālās sagatavošanas programmām;
 8) (izslēgts ar 16.06.2011. likumu);
 9) (izslēgts ar 22.10.2009. likumu);

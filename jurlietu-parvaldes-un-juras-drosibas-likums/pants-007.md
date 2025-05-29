@@ -5,6 +5,7 @@
 3) koordinē un veic cilvēku meklēšanas un glābšanas darbus jūrā [Jūras meklēšanas un glābšanas koordinācijas centra (turpmāk - Koordinācijas centrs (MRCC)) darbību] Latvijas Republikas meklēšanas un glābšanas atbildības rajonā (turpmāk - Latvijas atbildības rajons) atbilstoši 1979.gada Starptautiskajai konvencijai par meklēšanu un glābšanu jūrā (turpmāk - SAR konvencija), citiem normatīvajiem aktiem un operatīvās rīcības plāniem, kā arī veic palīdzības dienesta funkcijas (MAS funkcijas) un piešķir patvēruma vietu kuģiem;
 4) nodrošina Globālās jūras negadījumu un drošības sistēmas (turpmāk - GMDSS) darbību un Automātiskās identifikācijas sistēmas (AIS) krasta sakaru tīkla darbību;
 4¹) pilda Nacionālās kompetentās iestādes funkcijas Tālās darbības identifikācijas un sekošanas (LRIT) sistēmas ietvaros un sadarbībā ar Latvijas Jūras administrāciju nodrošina tās darbību;
+4²) saskaņā ar 1965. gada Konvencijas par starptautiskās jūras satiksmes atvieglošanu prasībām ziņo Starptautiskajai Jūrniecības organizācijai par visiem tai zināmajiem incidentiem, kas saistīti ar bezbiļetniekiem jeb personām, kuras nokļuvušas un uzturas uz kuģa nelegāli;
 5) sadarbībā ar Latvijas Jūras administrāciju kontrolē kuģošanas režīma ievērošanu;
 6) (izslēgts no 01.01.2019. ar 04.10.2018. likumu. Sk. Pārejas noteikumu 41. punktu);
 7) kontrolē Latvijas valsts karoga lietošanu uz kuģiem;

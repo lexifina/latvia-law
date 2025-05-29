@@ -2,7 +2,7 @@
 (1) Kuģu drošības prasības un kuģu drošības uzraudzības kārtību, ievērojot to tilpību, garumu, kuģa tipu, uzbūvēšanas gadu un kuģošanas rajonu, nosaka šis likums un Latvijai saistošie starptautiskie līgumi ar turpmākajiem grozījumiem, to skaitā:
 1) 1966.gada Starptautiskā konvencija par kravas marku un tās 1988.gada protokols;
 2) 1974.gada Starptautiskā konvencija par cilvēku dzīvības aizsardzību uz jūras (turpmāk - SOLAS konvencija) un tās 1988.gada protokols;
-3) 1973.gada Starptautiskā konvencija par piesārņošanas novēršanu no kuģiem un tās 1978.gada protokols (turpmāk - MARPOL konvencija);
+3) 1973.gada Starptautiskā konvencija par piesārņošanas novēršanu no kuģiem un tās 1978.gada protokols un 1997. gada protokols (turpmāk - MARPOL konvencija);
 4) 1992.gada Konvencija par Baltijas jūras reģiona jūras vides aizsardzību (turpmāk - Helsinku konvencija);
 5) 1972.gada Konvencija par starptautiskajiem kuģu sadursmju novēršanas noteikumiem (turpmāk - COLREG konvencija);
 6) 1969.gada Starptautiskā konvencija par kuģu tilpības mērīšanu (turpmāk - Tilpības konvencija);

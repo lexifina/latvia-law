@@ -16,5 +16,6 @@
 14) kontrolē dabas resursu izmantošanu Latvijas ūdeņos un ostu akvatorijās;
 15) kontrolē kuģu radīto atkritumu pieņemšanu un apsaimniekošanu ostās;
 15¹) kontrolē kuģu balasta ūdens nosēdumu pieņemšanu un apsaimniekošanu ostās un termināļos;
-16) saskaņo ostu noteikumus vides aizsardzības jomā un kontrolē to ievērošanu.
+16) saskaņo ostu noteikumus vides aizsardzības jomā un kontrolē to ievērošanu;
+17) ir kompetentā iestāde Eiropas Parlamenta un Padomes 2023. gada 13. septembra regulas (ES) 2023/1805 par atjaunīgo un mazoglekļa degvielu izmantošanu jūras transportā un ar ko groza direktīvu 2009/16/EK 17. panta, 20. panta 4. punkta, 22. panta 2. un 5. punkta, 23. panta 2., 3. un 5. punkta un 25. panta 3. punkta izpratnē.
 (2) Ministru kabinets Valsts vides dienestam var noteikt papildu funkcijas.
