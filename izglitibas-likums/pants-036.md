@@ -5,4 +5,4 @@
 (3) Izglītības programmas tiek īstenotas personas dzīvībai un veselībai drošos apstākļos.
 (4) Izglītības programmu licencēšanas ietvaros sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets.
 (5) Vidējās izglītības programmās, kas tiek īstenotas pēc pamatizglītības ieguves, iekļauj valsts aizsardzības mācību. To var īstenot ārpus izglītojamam noteiktās mācību stundu slodzes. Izglītojamā mācību sniegumu valsts aizsardzības mācībā vērtē aprakstoši, nosakot apguves līmeni.
-(6) (Daļa stājas spēkā 31.05.2025. un iekļauta likuma redakcijā uz 31.05.2025. Sk. pārejas noteikumu 123. punktu)
+(6) Īstenojot izglītības programmas, kā arī ar tām saistītos mācību un audzināšanas pasākumus, izglītības iestāde nosaka tehnisko līdzekļu (mācību un audzināšanas procesā un saziņā izmantojamo tehnisko ierīču, tai skaitā informācijas un komunikācijas tehnoloģiju, iekārtu, robotikas detaļu un programmatūru) izmantošanas nosacījumus un kārtību. Pirmsskolas vecuma un 1.-6. klases izglītojamiem izglītības iestādē ir aizliegts lietot mobilos tālruņus, izņemot gadījumus, kad pedagogs ir atļāvis tos izmantot izglītības procesā.
