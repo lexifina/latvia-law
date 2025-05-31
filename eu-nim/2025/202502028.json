@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2010. gada 9. februāra noteikumos Nr. 352 “Eļļas augu un šķiedraugu sēklaudzēšanas un sēklu tirdzniecības noteikumi",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2025/62.4",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-28",
+  "entry_into_force": "2025-05-31",
+  "notification_date": "2025-04-10",
+  "commission_reference": "MNE(2025)02028",
+  "nim_celex": "72024L3010LVA_202502028",
+  "nim_id": "202502028",
+  "transposes_celex": [
+    "32024L3010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8f0cec92-16ac-11f0-b1a3-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
