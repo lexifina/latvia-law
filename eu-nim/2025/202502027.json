@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Ministru kabineta 2010. gada 9. februāra noteikumos Nr. 124 \"Dārzeņu pavairojamā materiāla atbilstības kritēriji un aprites kārtība\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2025/56.10",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-20",
+  "entry_into_force": "2025-05-31",
+  "notification_date": "2025-04-10",
+  "commission_reference": "MNE(2025)02027",
+  "nim_celex": "72024L3010LVA_202502027",
+  "nim_id": "202502027",
+  "transposes_celex": [
+    "32024L3010"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a046b6d7-16ac-11f0-b1a3-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
