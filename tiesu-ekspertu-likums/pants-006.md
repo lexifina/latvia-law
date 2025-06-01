@@ -12,6 +12,6 @@ b) iegūstot ārstniecības personas sertifikātu tiesu medicīnas eksperta pama
 2) kura ir sodīta par tīša noziedzīga nodarījuma izdarīšanu (neatkarīgi no sodāmības dzēšanas vai noņemšanas);
 3) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, bet no soda izciešanas atbrīvota sakarā ar noilgumu, amnestiju vai apžēlošanu;
 4) pret kuru sakarā ar noilgumu vai amnestiju ir izbeigts kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu;
-5) kura saukta pie kriminālatbildības, bet pret kuru kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts uz nereabilitējoša pamata;
+5) (atzīts par spēkā neesošu no 01.06.2025. ar Satversmes tiesas 17.12.2024. spriedumu);
 6) kurai, pamatojoties uz lēmumu disciplinārlietā, atņemtas tiesu eksperta tiesības, ja no disciplinārlietā pieņemtā lēmuma spēkā stāšanās brīža nav pagājuši pieci gadi;
 7) kurai nodibināta aizgādnība.
