@@ -1,1 +1,1 @@
-11.pants. Informāciju par bīstamās iekārtas pārbaudi ieraksta bīstamās iekārtas reģistrā, pārbaudes rezultātus - protokolā, un vienu pārbaudes protokola eksemplāru triju darba dienu laikā pēc pārbaudes pabeigšanas nodod bīstamās iekārtas valdītājam.
+11. pants. Informāciju par bīstamās iekārtas pārbaudi, tās rezultātu un detalizētos pārbaudes datus ievada bīstamo iekārtu reģistrā atbilstoši normatīvajos aktos bīstamo iekārtu jomā noteiktajām prasībām.
