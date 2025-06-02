@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 15. maija likums \"Grozījumi likumā \"Par akcīzes nodokli\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "94A",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-19",
+  "entry_into_force": "2025-06-02",
+  "notification_date": "2025-05-26",
+  "commission_reference": "MNE(2025)03017",
+  "nim_celex": "72019L2235LVA_202503017",
+  "nim_id": "202503017",
+  "transposes_celex": [
+    "32019L2235"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8811f1cb-d249-4f97-8bc1-9648a258f6aa",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
