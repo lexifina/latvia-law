@@ -1,7 +1,7 @@
 16.pants. Nodokļa atbrīvojumi alkoholiskajiem dzērieniem
 (1) No nodokļa ir atbrīvoti šādi alkoholiskie dzērieni:
 1) denaturēts spirts;
-2) alkoholiskie dzērieni, kurus izmanto alkoholisko dzērienu kvalitātes noteikšanai;
+2) alkoholiskie dzērieni, kurus apstiprināts noliktavas turētājs izmanto alkoholisko dzērienu kvalitātes noteikšanai;
 3) medicīnas un veterinārmedicīnas vajadzībām paredzētais spirts, ko izmanto ārstniecības un veterinārmedicīnas iestādēs un aptiekās;
 4) spirts zāļu un veterināro zāļu ražošanai saskaņā ar normatīvo aktu prasībām par zāļu un veterināro zāļu apriti;
 4¹) uztura bagātinātāji, kuri satur etilspirtu un kurus reģistrē, izplata, realizē, noformē un piegādā saskaņā ar normatīvajiem aktiem par obligātajām nekaitīguma un marķējuma prasībām uztura bagātinātājiem un uztura bagātinātāju reģistrācijas kārtību, ja uztura bagātinātāja iepakojuma vienība nepārsniedz 150 mililitrus;

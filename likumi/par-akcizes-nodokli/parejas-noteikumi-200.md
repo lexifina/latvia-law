@@ -1,0 +1,1 @@
+200. Grozījumu par šā likuma 18. panta piektās daļas 3. punkta izteikšanu jaunā redakcijā Lauku atbalsta dienests piemēro, administrējot iesniegumus par dīzeļdegvielas ar samazinātu akcīzes nodokļa likmi saņemšanu, sākot ar 2025./2026. saimniecisko gadu.

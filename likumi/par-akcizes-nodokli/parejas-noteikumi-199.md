@@ -1,0 +1,1 @@
+199. Šā likuma 1. panta otrās daļas 15.⁴ punkts, grozījumi šā likuma 12. panta sestajā un divpadsmitajā daļā un trīspadsmitās daļas 1., 2., 4. un 5. punktā, kā arī grozījumi šā likuma 17. panta pirmās daļas 2. punktā stājas spēkā 2025. gada 1. oktobrī.

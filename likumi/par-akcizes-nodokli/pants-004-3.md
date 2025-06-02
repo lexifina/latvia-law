@@ -8,5 +8,5 @@
 4.7. lietošanai gatavās saistvielas, ķīmiskie produkti (arī produkti, kas satur dabīgu produktu maisījumus), kas nav minēti vai iekļauti citur;
 4.8. (izslēgts ar 17.12.2020. likumu);
 4.9. (izslēgts ar 21.10.2021. likumu);
-4.10. smagās eļļas: metāla apstrādes vielas, veidņu eļļas, pretkorozijas eļļas, izņemot eļļas slēgtā iepakojumā, kura tilpums nepārsniedz 250 litru;
-4.11. smagās eļļas: citādas ziežeļļas un citādas eļļas, izņemot eļļas slēgtā iepakojumā, kura tilpums nepārsniedz 250 litru.
+4.10. smagās eļļas: metāla apstrādes vielas, veidņu eļļas, pretkorozijas eļļas, izņemot eļļas slēgtā iepakojumā, kura tilpums nepārsniedz 250 litru un kuras netiek izmantotas par degvielu, kurināmo vai par to aizstājējproduktu vai komponentu;
+4.11. smagās eļļas: citādas ziežeļļas un citādas eļļas, izņemot eļļas slēgtā iepakojumā, kura tilpums nepārsniedz 250 litru un kuras netiek izmantotas par degvielu, kurināmo vai par to aizstājējproduktu vai komponentu.
