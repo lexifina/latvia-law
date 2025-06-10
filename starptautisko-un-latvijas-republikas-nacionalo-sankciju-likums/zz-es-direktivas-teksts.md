@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1226 par noziedzīgu nodarījumu un sodu noteikšanu attiecībā uz Savienības ierobežojošo pasākumu pārkāpumiem un ar ko groza direktīvu (ES) 2018/1673.
