@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 22. maija likums \"Grozījumi Starptautisko un Latvijas Republikas nacionālo sankciju likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "106",
+  "official_journal_page": null,
+  "official_journal_date": "2025-06-04",
+  "entry_into_force": "2025-06-10",
+  "notification_date": "2025-06-06",
+  "commission_reference": "MNE(2025)03243",
+  "nim_celex": "72024L1226LVA_202503243",
+  "nim_id": "202503243",
+  "transposes_celex": [
+    "32024L1226"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/554d8c62-8486-4c00-b1a0-126bf66ff618",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
