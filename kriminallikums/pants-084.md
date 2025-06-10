@@ -1,7 +1,9 @@
 84.pants. Starptautisko organizāciju un Latvijas Republikas noteikto sankciju pārkāpšana
-(1) Par Apvienoto Nāciju Organizācijas, Eiropas Savienības un citu starptautisko organizāciju noteikto sankciju vai par Latvijas Republikas noteikto nacionālo sankciju pārkāpšanu -
-soda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
-(2) Par tādām pašām darbībām, ja ar tām radīts būtisks kaitējums, -
+(1) Par Apvienoto Nāciju Organizācijas, Eiropas Savienības, citu starptautisko organizāciju vai Latvijas Republikas noteikto sankciju pārkāpšanu, iegādājoties, realizējot, pārvietojot pāri Latvijas Republikas valsts robežai sankcijām pakļautās preces vai sniedzot starpniecības pakalpojumus, tehniskās palīdzības vai citus ar minētajām precēm saistītus pakalpojumus, vai veicot jebkādas citas aizliegtas darbības ar šīm precēm, ja tas izdarīts ievērojamā apmērā, vai par citu Apvienoto Nāciju Organizācijas, Eiropas Savienības, citu starptautisko organizāciju vai Latvijas Republikas noteikto sankciju pārkāpšanu -
 soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.
-(3) Par šā panta otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās vai ja to izdarījusi valsts amatpersona vai uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīgs darbinieks, -
+(2) Par Apvienoto Nāciju Organizācijas, Eiropas Savienības, citu starptautisko organizāciju vai Latvijas Republikas noteikto sankciju pārkāpšanu, iegādājoties, realizējot, pārvietojot pāri Latvijas Republikas valsts robežai sankcijām pakļautās stratēģiskas nozīmes preces, šaujamieročus, šaujamieroču būtiskās sastāvdaļas, šaujamieroču munīciju vai militāriem mērķiem paredzētas preces vai tehnoloģijas vai sniedzot starpniecības pakalpojumus, tehniskās palīdzības vai citus ar minētajām precēm saistītus pakalpojumus, vai veicot jebkādas citas aizliegtas darbības ar šīm precēm, -
 soda ar brīvības atņemšanu uz laiku līdz astoņiem gadiem.
+(3) Par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās vai ja to izdarījusi valsts amatpersona vai uzņēmuma (uzņēmējsabiedrības) vai organizācijas atbildīgs darbinieks, -
+soda ar brīvības atņemšanu uz laiku līdz desmit gadiem.
+(4) Par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts lielā apmērā vai ja to izdarījusi organizēta grupa, -
+soda ar brīvības atņemšanu uz laiku līdz divpadsmit gadiem.
