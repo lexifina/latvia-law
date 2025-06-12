@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 13,
+ "datums": "2025-06-12",
+ "ieraksts": {
+  "dkp_id": "5622e73d-1f26-49f6-8e94-603c2b50e7a7",
+  "lastmodtime": "\"AAAAAAJfurs=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Skaidrīte#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Amils#Selma Teodora#Edmunds#Ģirts Valdis#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Zanda#Jānis#Alīna#Jekaterina#Ilze#Raimonds#Andrejs#Ingrīda#Irma#Edmunds#Aiva#Līga#Dmitrijs#Nataļja#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Andrejs#Ināra#Anita#Raimonds#Leila#Kaspars#Jānis#Linda#Anda#Aleksandrs#Jānis#Antoņina#Uģis",
+  "SURNAME": "Ivanovs#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Saļimovs#Levrence#Teirumnieks#Kristovskis#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Kalniņa-Lukaševica#Vitenbergs#Gendele#Drelinga#Vergina#Čudars#Ceļapīters#Circene#Kalniņa#Jurēvics#Vīksna#Kļaviņa#Kovaļenko#Marčenko-Jodko#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Judins#Mūrniece#Brakovska#Bergmanis#Rasima#Briškens#Patmalnieks#Liepiņa#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "###################################################################",
+  "FRACTION": "ST!#PRO#JV#PRO#JV#ST!#JV#LPV#LPV#NA#PRO#JV#JV#ST!# #NA#JV#LPV#AS#LPV#NA# #JV#JV#NA#JV#ST!#JV#JV# #JV#JV#JV#AS#ZZS#ST!#ST!#JV# #JV#ST!#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#JV#NA#ZZS#AS#PRO#PRO#JV#LPV#JV# #JV#PRO#JV",
+  "RESULT": "Par#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Atturas#Pret#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Par#Pret#Nebalsoja#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Pret#Par#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.06.2025 11:45:37",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Latvijas Republikas Satversmē (977/Lp14), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "b6b5716b-a317-4831-b845-2d76582f6dd0",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "34",
+  "VOTERESULT_FOR": "31",
+  "VOTERESULT_REGISTERED": "68",
+  "VOTE_NUMBER": "21",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-13-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/dc1abbeb-d159-4f97-9d5d-d91fd6b456dd/download/14.saeimas-2025.gada-pavasara-sesija-13-vote.xml",
+  "sha256": "c212608615f354c770d9ea760f5ce12caa2d2432bce1c3881d80bd3cb906b184",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
