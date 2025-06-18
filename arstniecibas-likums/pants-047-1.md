@@ -1,0 +1,1 @@
+47.¹ pants. Neatliekamās medicīniskās palīdzības izsaukuma izpildes laikā Neatliekamās medicīniskās palīdzības dienesta neatliekamās medicīniskās palīdzības brigādes darbiniekam ir tiesības pielietot speciālo līdzekli (gāzes baloniņu), lai aizsargātu sevi vai citu personu pret uzbrukumu vai tā draudiem.
