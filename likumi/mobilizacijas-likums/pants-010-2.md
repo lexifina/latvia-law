@@ -1,0 +1,3 @@
+10.² pants. Mobilizācijas rezervēs esošo preču nodošana citu uzdevumu izpildei
+(1) Pārtikas un pirmās nepieciešamības preces, ar kurām nodrošināmi iedzīvotāji valsts apdraudējuma gadījumā, citu uzdevumu izpildei var nodot ar Ministru kabineta lēmumu, kurā nosaka pārtikas un pirmās nepieciešamības preču rezervju atjaunošanas, kā arī atlikto pārtikas piegāžu nodrošināšanas izdevumu finansēšanas avotu.
+(2) Pirmās nepieciešamības preces, ar kurām nodrošināmi iedzīvotāji valsts apdraudējuma gadījumā, ne agrāk kā pusotru gadu, bet ne vēlāk kā pusgadu pirms to derīguma termiņa beigām kā nevajadzīgu valsts kustamo mantu var nodot bez atlīdzības, ievērojot kārtību, kādā atsavināma publiskas personas manta.
