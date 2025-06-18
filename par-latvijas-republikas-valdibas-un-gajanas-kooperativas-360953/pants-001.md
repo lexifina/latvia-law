@@ -1,0 +1,1 @@
+1. pants. 2024. gada 22. oktobrī Kualalumpurā, Malaizijā, parakstītais Latvijas Republikas valdības un Gajānas Kooperatīvās Republikas valdības nolīgums par gaisa satiksmi (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
