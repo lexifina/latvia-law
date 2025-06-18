@@ -1,0 +1,1 @@
+1. pants. 2024. gada 23. oktobrī Kualalumpurā parakstītais Latvijas Republikas valdības un Seišelu Republikas valdības nolīgums par gaisa satiksmi (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
