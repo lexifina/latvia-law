@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 14,
+ "datums": "2025-06-19",
+ "ieraksts": {
+  "dkp_id": "6b88009a-a14b-4de0-a7cc-54b64f9ded70",
+  "lastmodtime": "\"AAAAAAJhjpI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Mārcis#Andris#Jurģis#Andris#Andrejs#Ainars#Inese#Vilis#Selma Teodora#Edmunds#Uldis#Didzis#Andris#Ričards#Edmunds#Maija#Agnese#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Aleksandrs#Jānis#Antoņina#Inga#Uģis",
+  "SURNAME": "Šnore#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Vilks#Latkovskis#Kalniņa#Sruoģis#Levrence#Teirumnieks#Augulis#Zemmers#Kulbergs#Šlesers#Zivtiņš#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "################################################################################",
+  "FRACTION": "NA#PRO#JV#JV#ZZS#ST!#JV#LPV#ZZS#NA#PRO#ZZS#JV#JV# #PRO#NA#ZZS#ZZS#AS#LPV#LPV#LPV#JV#PRO#ZZS#JV#NA# #JV#ST!#JV#NA# # #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# #JV# #JV#ST!#AS#JV#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA#AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#PRO#PRO#ZZS#LPV#JV#AS#LPV# #JV#PRO#JV#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.06.2025 16:47:33",
+  "VOTEMOTIVE": "Par Ļubļanas–Hāgas Konvenciju par starptautisko sadarbību genocīda noziegumu, noziegumu pret cilvēci, kara noziegumu un citu starptautisko noziegumu izmeklēšanā un kriminālvajāšanā (899/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "90a7ecc0-246c-46df-bc9a-f901593c53d6",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "4",
+  "VOTERESULT_FOR": "75",
+  "VOTERESULT_REGISTERED": "81",
+  "VOTE_NUMBER": "41",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fd549144-ce77-445e-980a-e979ee764e95/download/14.saeimas-2025.gada-pavasara-sesija-14-vote.xml",
+  "sha256": "a9f7a3bce22901545d6fd7660971eb774231b41970d80b94c5fcfb04afae4190",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
