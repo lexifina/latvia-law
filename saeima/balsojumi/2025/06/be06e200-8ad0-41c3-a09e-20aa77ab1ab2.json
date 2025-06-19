@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada pavasara sesija",
+ "sede": 14,
+ "datums": "2025-06-19",
+ "ieraksts": {
+  "dkp_id": "05b6e451-c685-48f5-b14c-aafe05b1d777",
+  "lastmodtime": "\"AAAAAAJhKF0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Raimonds#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Jānis#Zanda#Ligita#Jana#Agnese#Maija#Artūrs#Edmunds#Ričards#Andris#Didzis#Uldis#Edmunds#Selma Teodora#Inese#Ainars#Andrejs#Andris#Jurģis#Didzis#Andris#Mārcis#Ilze#Mārtiņš#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Čudars#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Vitenbergs#Kalniņa-Lukaševica#Gintere#Simanovska#Krasta#Armaņeva#Butāns#Zivtiņš#Šlesers#Kulbergs#Zemmers#Augulis#Teirumnieks#Levrence#Kalniņa#Latkovskis#Vilks#Šuvajevs#Klotiņš#Šmits#Bērziņš#Jencītis#Stobova#Daģis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": "ST!#NA#NA#PRO#JV#PRO#JV#ZZS#ST!# #JV#ST!#JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA#NA#JV#ZZS#PRO#JV#LPV#NA#LPV#LPV#AS#ZZS#ZZS#NA#PRO#JV#JV#ZZS#PRO#NA# #ZZS#LPV#LPV#JV# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS#PRO#PRO#ZZS#LPV#JV#AS#LPV# #JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.06.2025 11:55:02",
+  "VOTEMOTIVE": "Par uzticības izteikšanu viedās administrācijas un reģionālās attīstības ministram Raimondam Čudaram (765/Lm14)",
+  "VOTING_ID": "be06e200-8ad0-41c3-a09e-20aa77ab1ab2",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "52",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "16",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada pavasara sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fd549144-ce77-445e-980a-e979ee764e95/download/14.saeimas-2025.gada-pavasara-sesija-14-vote.xml",
+  "sha256": "a9f7a3bce22901545d6fd7660971eb774231b41970d80b94c5fcfb04afae4190",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
