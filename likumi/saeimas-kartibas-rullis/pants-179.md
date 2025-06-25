@@ -1,7 +1,8 @@
 179. (1) Mandātu, ētikas un iesniegumu komisija:
 1) sagatavo Saeimas ziņojumu par deputātu pilnvaru apstiprināšanu un izbeigšanu;
-2) sagatavo Saeimas lēmuma projektu sakarā ar Ģenerālprokuratūras iesniegumu par kriminālvajāšanas ierosināšanu pret Saeimas locekli, viņa apcietināšanu, aizturēšanu, kratīšanas izdarīšanu vai citādu personas brīvības ierobežošanu;
+2) sagatavo Saeimas lēmuma projektu par piekrišanu šā likuma 17. pantā minēto darbību veikšanai, pamatojoties uz Ģenerālprokuratūras vai tiesas iesniegumu;
 3) pārrauga Saeimas deputātu ētikas kodeksa ievērošanu un izskata Saeimas deputātu ētikas kodeksa pārkāpumu lietas;
+3¹) sagatavo un publicē Saeimas tīmekļvietnē ieteikumus, skaidrojumus vai citus materiālus par Saeimas deputātu ētikas jautājumiem;
 4) sagatavo reizi mēnesī pārskatu Saeimai par iesniegumiem, kas saņemti Saeimas Sabiedrisko attiecību birojā, un par to izskatīšanu Prezidijā, Saeimas frakcijās, komisijās un citās Saeimas struktūrvienībās;
 5) reizi kārtējās sesijas laikā paziņo Saeimas sēdē par iepriekšējās sesijas un starpsesiju laikā administratīvi sodītajiem deputātiem. Paziņojumā ietver informāciju par deputāta izdarīto administratīvo pārkāpumu, norādot normatīvā akta normu, kurā paredzēts pārkāpums, par kura izdarīšanu persona saukta pie administratīvās atbildības; institūciju, kas pieņēmusi lēmumu par administratīvā soda uzlikšanu; uzliktā soda veidu, datumu, kad stājies spēkā lēmums par administratīvā soda uzlikšanu.
 (2) Mandātu, ētikas un iesniegumu komisijā ievēlē divus deputātus no katras Saeimā pārstāvētās frakcijas. Komisijas locekļi atturas no darbībām, kuras var uzskatīt par nepamatotu vēršanos pret politiskajiem oponentiem vai par deputātu rīcības nepamatotu aizstāvību viņu politiskās piederības dēļ.

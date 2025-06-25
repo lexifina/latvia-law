@@ -1,4 +1,4 @@
-65. (1) Pēc ne mazāk kā desmit deputātu priekšlikuma Saeima var nolemt (54.p.):
+65. (1) Pēc ne mazāk kā 10 deputātu priekšlikuma Saeima var nolemt (54.p.):
 1) saīsināt runas laiku;
 2) slēgt runātāju sarakstu.
 (2) Runas laiku nedrīkst saīsināt referentam, Ministru prezidentam un Ministru kabineta pārstāvim apspriežamajā lietā.

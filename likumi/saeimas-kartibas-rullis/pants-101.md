@@ -4,4 +4,4 @@
 3) priekšlikumus, kuri mazāk būtiski atšķiras no atbildīgās komisijas priekšlikuma;
 4) atbildīgās komisijas priekšlikumus.
 (2) Ja balsošanas secību nevar noteikt pēc minētajām pazīmēm, to nosaka sēdes vadītājs.
-(3) Secību, kādā balsojami priekšlikumi likumprojektam par budžetu, nosaka Saeima pēc atbildīgās komisijas priekšlikuma.
+(3) Secību, kādā balsojami priekšlikumi likumprojektam par valsts budžetu, nosaka Saeima pēc atbildīgās komisijas priekšlikuma.

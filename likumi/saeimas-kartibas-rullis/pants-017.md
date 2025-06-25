@@ -1,5 +1,4 @@
-17. (1) Par piekrišanu kriminālvajāšanas uzsākšanai pret Saeimas locekli, viņa apcietināšanai, kratīšanas izdarīšanai pie viņa vai citādai personas brīvības ierobežošanai Saeima lemj pēc Mandātu, ētikas un iesniegumu komisijas ziņojuma.
-(2) Šajā laikā prokuratūrai un tiesai ir tiesības piemērot attiecīgajam Saeimas loceklim visus kriminālprocesuālajos likumos noteiktos piespiedu līdzekļus.
-(3) Ja deputāts apcietināts, viņš zaudē tiesības piedalīties Saeimas un tās komisiju sēdēs, kā arī citu to institūciju sēdēs, kurās Saeima viņu ievēlējusi vai apstiprinājusi.
-(4) Par piekrišanu Saeimas locekļa piespiedu atvešanai, personas vai mantu apskatei, kā arī dokumentu izņemšanai pie Saeimas locekļa Saeima lemj pēc Mandātu, ētikas un iesniegumu komisijas ziņojuma.
-(5) Saskaņā ar šā panta pirmo vai ceturto daļu iesniegtais Saeimas lēmuma projekts nav uzskatāms par patstāvīgo priekšlikumu.
+17. (1) Par piekrišanu kriminālvajāšanas uzsākšanai pret Saeimas locekli, viņa apcietināšanai, kratīšanas izdarīšanai pie viņa, kā arī par piekrišanu Saeimas locekļa piespiedu atvešanai, personas vai mantas apskatei, dokumentu izņemšanai pie Saeimas locekļa vai citādai personas brīvības ierobežošanai Saeima lemj pēc Mandātu, ētikas un iesniegumu komisijas ziņojuma. Saeimas piekrišana nepieciešama arī tāda kriminālprocesa turpināšanai, kurā kriminālvajāšana uzsākta pirms Saeimas locekļa pilnvaru apstiprināšanas.
+(2) Ja Saeima piekrīt kriminālvajāšanas uzsākšanai pret Saeimas locekli, līdz brīdim, kad stājas spēkā galīgais nolēmums kriminālprocesā, procesa virzītājam ir tiesības attiecībā uz šo Saeimas locekli veikt jebkuru Kriminālprocesa likumā paredzēto procesuālo darbību.
+(3) Ja deputāts ir apcietināts, viņš zaudē tiesības piedalīties Saeimas un tās komisiju sēdēs, kā arī citu to institūciju sēdēs, kurās Saeima viņu ievēlējusi vai apstiprinājusi.
+(4) Saskaņā ar šā panta pirmo daļu iesniegtais Saeimas lēmuma projekts nav uzskatāms par patstāvīgo priekšlikumu.

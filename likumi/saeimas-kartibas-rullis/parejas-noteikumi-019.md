@@ -1,0 +1,1 @@
+19. Šā likuma 114.¹ pantā minēto paskaidrojošā ziņojuma sagatavošanas kārtību Prezidijs nosaka līdz 2025. gada 1. oktobrim. Atbildīgā komisija paskaidrojošo ziņojumu sagatavo par tiem likumiem, kurus Saeima pieņēmusi pēc 2026. gada 1. janvāra.

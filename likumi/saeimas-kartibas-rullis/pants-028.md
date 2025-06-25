@@ -1,1 +1,1 @@
-28. Saeimas lēmuma projektu par uzticības izteikšanu Ministru prezidenta biedram vai ministram, ko Ministru prezidents aicina vai ieceļ vēlāk, Ministru prezidents iesniedz Saeimas priekšsēdētājam.
+28. Saeimas lēmuma projektu par uzticības izteikšanu personai, kuru Ministru prezidents aicina Ministru kabineta locekļa amatā pēc tam, kad Saeima jau ir izteikusi uzticību Ministru kabinetam, Ministru prezidents iesniedz Saeimas priekšsēdētājam.

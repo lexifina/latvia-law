@@ -5,4 +5,4 @@
 3) noteikt citu atbildīgo komisiju.
 (3) Šā panta otrajā daļā minētos priekšlikumus var iesniegt Saeimas komisija vai deputāts rakstveidā vai mutvārdos. Rakstveidā iesniegtie priekšlikumi izlemjami pirms mutvārdos izteiktajiem. Komisijas pārstāvjiem, kas lūdz vārdu, lai izteiktu minētos priekšlikumus, vārdu dod pieteikšanās secībā, taču pirms citiem runātājiem par šo likumprojektu.
 (4) Deputātiem jānodrošina iespēja saņemt iesniegtos likumprojektus vismaz septiņas dienas pirms Prezidija ziņojuma. Ja nepieciešams, Prezidijs šo termiņu var saīsināt.
-(5) Visi iesniegtie likumprojekti, pirmajam lasījumam izstrādātie alternatīvie likumprojekti (85. p.), izskatīšanai otrajā vai trešajā lasījumā sagatavotie likumprojekti, kā arī Prezidija un komisiju atzinumi par tiem nosūtāmi Valsts prezidentam un Ministru prezidentam.
+(5) Visi iesniegtie likumprojekti, pirmajam lasījumam izstrādātie alternatīvie likumprojekti (85. p.), izskatīšanai otrajā vai trešajā lasījumā sagatavotie likumprojekti, kā arī Prezidija un komisiju atzinumi par tiem publicējami Saeimas tīmekļvietnē.

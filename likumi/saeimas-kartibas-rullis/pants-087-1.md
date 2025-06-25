@@ -1,5 +1,5 @@
-87.¹ (1) Ja Saeimā izskatīšanai ir iesniegta budžeta likumprojektu pakete, kuras sastāvā ir gadskārtējā valsts budžeta likuma vai tā grozījumu projekts vai vidēja termiņa budžeta ietvara likuma vai tā grozījumu projekts (turpmāk - likumprojekts par budžetu) un likumprojekti, kuri nosaka vai groza valsts budžetu vai vidēja termiņa budžeta ietvara likumu (turpmāk - ar budžetu saistītie likumprojekti), tad budžeta likumprojektu pakete pirmajā lasījumā izskatāma pēc kārtas šādā secībā:
-1) ar budžetu saistītie likumprojekti;
-2) likumprojekts par budžetu.
-(1¹) Ja budžeta likumprojektu paketes sastāvā ir gan gadskārtējā valsts budžeta likuma vai tā grozījumu projekts, gan vidēja termiņa budžeta ietvara likuma vai tā grozījumu projekts, vispirms izskatāms vidēja termiņa budžeta ietvara likuma vai tā grozījumu projekts, bet pēc tam - gadskārtējā valsts budžeta likuma vai tā grozījumu projekts.
+87.¹ (1) Ja Saeimā izskatīšanai ir iesniegta budžeta likumprojektu pakete, kuras sastāvā ir valsts budžeta likuma vai tā grozījumu projekts un likumprojekti, kuri nosaka vai groza valsts budžetu, tad budžeta likumprojektu pakete pirmajā lasījumā izskatāma pēc kārtas šādā secībā:
+1) ar valsts budžetu saistītie likumprojekti;
+2) likumprojekts par valsts budžetu.
+(1¹) (Izslēgta ar 29.05.2025. likumu)
 (2) Debates pirmajā lasījumā atļautas par visu budžeta likumprojektu paketi kopumā, bet balsošana pirmajā lasījumā notiek par katru likumprojektu atsevišķi.

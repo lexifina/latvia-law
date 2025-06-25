@@ -1,2 +1,2 @@
-54. (1) Gadījumos, kas paredzēti 8.pantā, 31.panta otrajā daļā, 40., 41., 49., 51., 52., 65., 77., 82.pantā, 84., 90., 92., 93., 98., 104., 117., 127., 133., 135., 136., 140. un 142. pantā, pirms balsošanas vārdu dod tikai diviem deputātiem: vienam - par, otram - pret priekšlikumu un ne ilgāk kā piecas minūtes katram.
+54. (1) Gadījumos, kas paredzēti 31.panta otrajā daļā, 40., 41., 49., 51., 52., 65., 77., 82.pantā, 84., 90., 92., 93., 98., 104., 117., 127., 133., 135., 136., 140. un 142. pantā, pirms balsošanas vārdu dod tikai diviem deputātiem: vienam - par, otram - pret priekšlikumu un ne ilgāk kā piecas minūtes katram.
 (2) Ja priekšlikuma iesniedzējs pats aizstāv savu priekšlikumu, uzskatāms, ka viņš ir runātājs «par».

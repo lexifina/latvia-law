@@ -1,1 +1,1 @@
-43. Par sēdēm paziņo arī tiem ministriem, uz kuru resoru attiecas darba kārtībā iekļautās lietas.
+43. Saeimas kārtējās sēdes darba kārtību izsludina, izliekot rakstveida paziņojumu Saeimas telpās un publicējot to Saeimas tīmekļvietnē.

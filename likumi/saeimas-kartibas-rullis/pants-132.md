@@ -1,1 +1,1 @@
-132. Pirms balsošanas sēdes vadītājs paziņo balsošanas kārtību.
+132. Ja nepieciešams, pirms balsošanas sēdes vadītājs paziņo balsošanas kārtību.

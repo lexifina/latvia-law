@@ -1,0 +1,3 @@
+118.⁵ (1) Ministru kabinets reizi gadā iesniedz Saeimai Latvijas vidēja termiņa Fiskāli strukturālo plānu vai tā gadskārtējo progresa ziņojumu. Šā ziņojuma kopijas nekavējoties izsniedz deputātiem.
+(2) Ja nav priekšlikuma vai prasības par Saeimas ārkārtas sesijas vai ārkārtas sēdes sasaukšanu, Prezidijs Latvijas vidēja termiņa Fiskāli strukturālo plānu vai tā gadskārtējo progresa ziņojumu iekļauj Saeimas sēdes darba kārtībā ne agrāk kā 10 un ne vēlāk kā 20 dienas pēc tā iesniegšanas.
+(3) Saeimas sēdē, kurā tiek izskatīts minētais ziņojums, finanšu ministrs ziņo par to, pēc tam tiek atklātas debates. Pēc debatēm runā, ja to vēlas, vienīgi finanšu ministrs.

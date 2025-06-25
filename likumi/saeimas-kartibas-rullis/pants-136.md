@@ -1,2 +1,2 @@
-136. (1) Priekšlikumu par lietas atlikšanu, nodošanu atpakaļ komisijai, papildu ziņu ievākšanu un tamlīdzīgi var iesniegt Valsts prezidents, Saeimas komisija, deputāts, Ministru prezidents vai Ministru kabineta pārstāvis apspriežamajā lietā. Priekšlikums iesniedzams rakstveidā Prezidijam.
-(2) Šāds priekšlikums izlemjams (54.p.) pirms balsošanas par lietu pēc būtības.
+136. (1) Priekšlikumu par lietas atlikšanu, nodošanu atpakaļ komisijai, papildu ziņu ievākšanu un tamlīdzīgi var iesniegt Valsts prezidents, Saeimas komisija, deputāts, Ministru prezidents vai Ministru kabineta pārstāvis apspriežamajā lietā. Priekšlikums par lietas atlikšanu vai papildu ziņu ievākšanu iesniedzams Prezidijam rakstveidā.
+(2) Šā panta pirmajā daļā minētais priekšlikums izlemjams (54.p.) pirms balsošanas par lietu pēc būtības.

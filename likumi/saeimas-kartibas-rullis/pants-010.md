@@ -1,1 +1,1 @@
-10. Saeimas deputātu uzņēmējdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".
+10. Saeimas deputātu amatu savienošanas, ienākumu gūšanas un komercdarbības ierobežojumus, interešu konflikta novēršanas un mantiskā stāvokļa deklarēšanas pienākumu, kā arī citus ierobežojumus un pienākumus nosaka likums "Par interešu konflikta novēršanu valsts amatpersonu darbībā".

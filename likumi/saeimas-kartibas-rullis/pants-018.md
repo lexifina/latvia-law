@@ -1,4 +1,4 @@
-18. (1) Deputāts, kas notiesāts par noziedzīgu nodarījumu, uzskatāms par izslēgtu no Saeimas sastāva ar dienu, kad stājas spēkā notiesājošs spriedums.
+18. (1) Deputāts, kurš izdarījis noziedzīgu nodarījumu, uzskatāms par izslēgtu no Saeimas sastāva ar dienu, kad stājas spēkā notiesājošs spriedums vai prokurora priekšraksts par sodu.
 (2) Deputātu ar Saeimas lēmumu var izslēgt no Saeimas sastāva, ja pēc viņa pilnvaru apstiprināšanas tiek konstatēts, ka viņš:
 1) ievēlēts, pārkāpjot Saeimas vēlēšanu likuma noteikumus;
 2) neprot valsts valodu tādā apjomā, kāds nepieciešams profesionālo pienākumu veikšanai;

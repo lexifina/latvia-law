@@ -1,0 +1,1 @@
+17. Šā likuma 23. panta pirmās daļas 13. punkts, 160.¹ pants un grozījums 163. panta otrās daļas 2. punktā stājas spēkā 2026. gada 1. septembrī. Saeimas Administrācija līdz 2026. gada 31. augustam nodrošina droša videokonferences rīka izstrādi.

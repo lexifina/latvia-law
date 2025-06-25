@@ -1,1 +1,1 @@
-171. Komisiju sēdēs var piedalīties ar padomdevēja tiesībām arī Ministru prezidents, Ministru prezidenta biedrs, ministrs, kā arī viņu pilnvarotas valsts amatpersonas.
+171. Komisiju sēdēs var piedalīties ar padomdevēja tiesībām arī Ministru kabineta loceklis un viņa pilnvarotas valsts amatpersonas, kā arī parlamentārais sekretārs.

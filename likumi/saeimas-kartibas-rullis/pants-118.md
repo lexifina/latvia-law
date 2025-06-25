@@ -4,7 +4,7 @@
 (4) Nevienu patstāvīgo priekšlikumu, kurš nodots izskatīšanai komisijā, nevar izskatīt Saeimas sēdē, ja deputātiem nav pieejami:
 1) komisijas atzinums par patstāvīgo priekšlikumu;
 2) visi noteiktā termiņā un kārtībā iesniegtie priekšlikumi par grozījumiem patstāvīgajā priekšlikumā un komisijas atzinumi par tiem;
-3) finansu ministra atsauksme, ja patstāvīgais priekšlikums paredz budžetā neparedzētus izdevumus.
+3) finanšu ministra atsauksme, ja patstāvīgais priekšlikums paredz budžetā neparedzētus izdevumus.
 (5) Par patstāvīgo priekšlikumu, kurš nodots iepriekšējai izskatīšanai komisijā, Saeimas sēdē ziņo attiecīgās komisijas ievēlētais referents.
 (6) Ja nav priekšlikumu par grozījumiem patstāvīgajā priekšlikumā, tas izskatāms vienā lasījumā.
 (7) Ja komisija, kurai nodots patstāvīgais priekšlikums, iesniegusi alternatīvu patstāvīgo priekšlikumu, Saeima pēc debatēm par abiem patstāvīgajiem priekšlikumiem balso, kuru no tiem pieņems.
@@ -13,5 +13,5 @@
 (10) Saeimas komisija, kas iesniegusi patstāvīgo priekšlikumu, vai katrs no deputātiem, kas parakstījis patstāvīgo priekšlikumu, var atsaukt savu atbalstu tam. Atsaukšana pieļaujama līdz balsošanai par patstāvīgā priekšlikuma pieņemšanu pirmajā lasījumā.
 (11) Atsauktu priekšlikumu var uzturēt komisija, kurai tas nodots.
 (12) Ja atsaukts patstāvīgais priekšlikums, kuram komisija izstrādājusi alternatīvu patstāvīgo priekšlikumu, alternatīvais patstāvīgais priekšlikums izskatāms, ievērojot šā panta trešās daļas noteikumu.
-(13) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja desmit dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.
-(14) Likumā par budžetu un finanšu vadību un likumā "Par Latvijas pārstāvību Eiropas Stabilitātes mehānisma Valdē un Direktoru padomē" noteiktajos gadījumos Saeimā izskatāmie lēmuma projekti nav uzskatāmi par patstāvīgajiem priekšlikumiem un ir izskatāmi vienā lasījumā.
+(13) Patstāvīgais priekšlikums, kuru atbildīgā komisija ir noraidījusi, uzskatāms par noraidītu, ja 10 dienu laikā no dienas, kad atbildīgās komisijas atzinums ir bijis pieejams deputātiem, iesniedzējs rakstveidā neprasa Prezidijam šā patstāvīgā priekšlikuma izskatīšanu Saeimas sēdē.
+(14) Likumā par budžetu un finanšu vadību un likumā "Par Latvijas pārstāvību Eiropas Stabilitātes mehānisma Valdē un Direktoru padomē" noteiktajos gadījumos Saeimā izskatāmie lēmuma projekti nav uzskatāmi par patstāvīgajiem priekšlikumiem.
