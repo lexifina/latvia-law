@@ -1,0 +1,2 @@
+II nodaļa
+Piekļūstamības prasības

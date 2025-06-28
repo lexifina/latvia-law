@@ -1,0 +1,1 @@
+4. Pašapkalpošanās termināļus, kurus pakalpojuma sniedzējs lietojis pakalpojuma sniegšanai līdz 2025. gada 27. jūnijam, var turpināt lietot līdzīgu pakalpojumu sniegšanai līdz to saimnieciski lietderīgās izmantošanas laika beigām, bet ne ilgāk kā 20 gadus pēc tam, kad uzsākta to lietošana.

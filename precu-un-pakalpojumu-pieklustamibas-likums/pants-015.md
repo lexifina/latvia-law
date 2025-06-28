@@ -1,0 +1,3 @@
+15. pants. Preces un pakalpojuma atbilstības prezumpcija
+(1) Preci un pakalpojumu, kas atbilst to piemērojamo saskaņoto standartu vai to daļu prasībām, atsauces uz kurām ir publicētas Eiropas Savienības Oficiālajā Vēstnesī, uzskata par atbilstošu tām piekļūstamības prasībām, kuras aptver šie standarti vai to daļas.
+(2) Ja Eiropas Komisija pieņem īstenošanas aktus, ar kuriem nosaka tehniskās specifikācijas šajā likumā noteiktajām precēm un pakalpojumiem, tad preci un pakalpojumu, kas atbilst Eiropas Komisijas izdotajām tehniskajām specifikācijām vai to daļām, uzskata par atbilstošu piekļūstamības prasībām, ciktāl minētās tehniskās specifikācijas vai to daļas attiecas uz minētajām prasībām.

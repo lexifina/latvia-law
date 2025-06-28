@@ -1,0 +1,9 @@
+22. pants. Kompetentās iestādes
+Pakalpojumu atbilstību piekļūstamības prasībām uzrauga šādas kompetentās iestādes:
+1) Sabiedrisko pakalpojumu regulēšanas komisija - attiecībā uz elektronisko sakaru pakalpojumiem;
+2) Nacionālā elektronisko plašsaziņas līdzekļu padome - attiecībā uz pakalpojumiem, kas nodrošina piekļuvi audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem;
+3) valsts aģentūra "Civilās aviācijas aģentūra" - attiecībā uz šā likuma 3. panta otrās daļas 3. punkta "a", "b", "d" un "e" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem;
+4) valsts sabiedrība ar ierobežotu atbildību "Autotransporta direkcija" - attiecībā uz autobusu un iekšzemes dzelzceļa pasažieru pārvadājumu pakalpojumiem;
+5) Valsts dzelzceļa administrācija - attiecībā uz starptautisko dzelzceļa pasažieru pārvadājumu pakalpojumiem (pārvadājumi starp Eiropas Savienības dalībvalstīm, ja vilciens šķērso Latvijas Republikas robežu ar citu Eiropas Savienības dalībvalsti un ja galvenais pakalpojuma mērķis ir pārvadāt pasažierus starp stacijām, kas atrodas dažādās Eiropas Savienības dalībvalstīs; vilciens var būt apvienots vai sadalīts posmos, un dažādiem tā posmiem var būt dažādi maršruta sākuma un gala punkti - ar nosacījumu, ka visi vagoni šķērso Latvijas Republikas robežu ar citu Eiropas Savienības dalībvalsti);
+6) Patērētāju tiesību aizsardzības centrs - attiecībā uz finanšu pakalpojumiem, elektroniskajām grāmatām un to programmatūru, elektroniskās tirdzniecības pakalpojumiem, ūdenstransporta pasažieru pārvadājumu pakalpojumiem un šā likuma 3. panta otrās daļas 3. punkta "c" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem;
+7) pašvaldība - attiecībā uz šā likuma 3. panta otrās daļas 3. punkta "e" apakšpunktā noteiktajiem pilsētas autobusu, tramvaju un trolejbusu interaktīvajiem pašapkalpošanās termināļiem.

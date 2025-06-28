@@ -1,0 +1,2 @@
+19. pants. Rīcība ar piekļūstamības prasībām neatbilstošu preci
+Ja tirgus uzraudzības iestādei ir pamatots iemesls uzskatīt, ka prece neatbilst piekļūstamības prasībām, tā veic attiecīgās preces novērtējumu, aptverot visas šajā likumā noteiktās prasības. Ja novērtējuma veikšanai nepieciešams veikt preces ekspertīzi, to organizē tirgus uzraudzības iestāde un izdevumus par to sedz atbilstoši likumam "Par atbilstības novērtēšanu". Minētajā novērtēšanā iesaistītajam saimnieciskās darbības veicējam ir pienākums sadarboties ar tirgus uzraudzības iestādi.
