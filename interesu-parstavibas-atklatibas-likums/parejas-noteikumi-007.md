@@ -1,0 +1,1 @@
+7. Mēneša laikā pēc šā likuma 3. panta spēkā stāšanās dienas reģistra iestāde interešu pārstāvības reģistrā iekļauj interešu pārstāvju sarakstā norādīto aktuālo informāciju. Interešu pārstāvju sarakstu glabā vienu gadu pēc šā likuma 3. panta spēkā stāšanās dienas.
