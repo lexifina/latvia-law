@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Preču un pakalpojumu piekļūstamības likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2023/62.2",
+  "official_journal_page": null,
+  "official_journal_date": "2023-03-16",
+  "entry_into_force": "2025-06-28",
+  "notification_date": "2023-04-06",
+  "commission_reference": "MNE(2023)02121",
+  "nim_celex": "72019L0882LVA_202302121",
+  "nim_id": "202302121",
+  "transposes_celex": [
+    "32019L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d63d266b-d848-11ed-a05c-01aa75ed71a1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
