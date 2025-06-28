@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2024. gada 27. februāra noteikumi Nr. 128 \"Preču un pakalpojumu piekļūstamības prasības\".",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "42",
+  "official_journal_page": null,
+  "official_journal_date": "2024-02-28",
+  "entry_into_force": "2025-06-28",
+  "notification_date": "2024-03-04",
+  "commission_reference": "MNE(2024)01089",
+  "nim_celex": "72019L0882LVA_202401089",
+  "nim_id": "202401089",
+  "transposes_celex": [
+    "32019L0882"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3a909d9e-c667-4774-b007-4a5c5a24a3eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
