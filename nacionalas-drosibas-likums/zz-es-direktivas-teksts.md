@@ -1,1 +1,1 @@
-Likumā iekļautas tiesību normas, kas izriet no Eiropas Padomes 2008.gada 8.decembra direktīvas 2008/114/EK par to, lai apzinātu un noteiktu Eiropas Kritiskās infrastruktūras un novērtētu vajadzību uzlabot to aizsardzību.
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2557 par kritisko vienību noturību un Padomes direktīvas 2008/114/EK atcelšanu.

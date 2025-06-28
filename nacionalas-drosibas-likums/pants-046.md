@@ -1,0 +1,2 @@
+46. pants. Neziņošana, nepienācīga vai nepatiesa ziņošana par incidentu kritiskajā infrastruktūrā
+Par neziņošanu, nepienācīgu vai nepatiesu ziņošanu par incidentu kritiskajā infrastruktūrā piemēro brīdinājumu vai naudas sodu kritiskās infrastruktūras īpašniekam vai tiesiskajam valdītājam - fiziskajai personai - līdz četrsimt naudas soda vienībām, bet juridiskajai personai - līdz četrtūkstoš naudas soda vienībām.

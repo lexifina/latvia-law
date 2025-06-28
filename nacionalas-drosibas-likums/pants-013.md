@@ -7,5 +7,7 @@
 5) īsteno ugunsdrošības, ugunsdzēsības, glābšanas un civilās aizsardzības pasākumus;
 6) likumā noteiktās kompetences apjomā apsargā un kontrolē Latvijas valsts robežu;
 7) koordinē valsts un pašvaldību institūciju un sabiedrisko organizāciju darbību sabiedriskās kārtības uzturēšanas jautājumos;
-8) prognozē un novērš valsts un sabiedrības drošības, kā arī tautsaimniecības apdraudējumus.
+8) prognozē un novērš valsts un sabiedrības drošības, kā arī tautsaimniecības apdraudējumus;
+9) īsteno vienotā kontaktpunkta funkcijas pārrobežu sadarbībai, kā arī koordinē sadarbību ar Eiropas Komisiju kritiskās infrastruktūras noturības jautājumos;
+10) sadarbojas ar valsts drošības iestādēm, valsts un pašvaldību institūcijām, kritiskās infrastruktūras īpašniekiem un tiesiskajiem valdītājiem, kā arī īsteno pārrobežu sadarbību kritiskās infrastruktūras noturības nodrošināšanai.
 (2) Pamatojoties uz Valsts drošības dienesta priekšnieka ieteikumu, iekšlietu ministrs Ministru kabineta noteiktajā kārtībā izsludina terorisma draudu līmeni.
