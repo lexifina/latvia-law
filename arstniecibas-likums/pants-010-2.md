@@ -1,1 +1,2 @@
-10.² pants. (Pants stājas spēkā01.07.2025. un iekļauta likuma redakcijā uz 01.07.2025. Sk. pārejas noteikumu 43. punktu)
+10.² pants. (1) Lai nodrošinātu sistēmisku multidisciplināru visu vai atsevišķu noteiktu nāves gadījumu anonīmu izmeklēšanu, kas identificē cēloņus un ar tiem saistītos novēršamus un labojamus faktorus, tiek organizēta nāves cēloņu konfidenciālā analīze.
+(2) Ministru kabinets nosaka kārtību, kādā organizē visu vai atsevišķu noteiktu nāves cēloņu konfidenciālo analīzi.
