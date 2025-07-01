@@ -1,3 +1,3 @@
 4.pants. Ārkārtējā situācija un tās izsludināšana
 (1) Ārkārtējā situācija ir īpašs tiesiskais režīms, kura laikā Ministru kabinetam ir tiesības likumā noteiktajā kārtībā un apjomā ierobežot valsts pārvaldes un pašvaldību institūciju, fizisko un juridisko personu tiesības un brīvības, kā arī uzlikt tām papildu pienākumus.
-(2) Ārkārtējo situāciju var izsludināt tāda valsts apdraudējuma gadījumā, kas saistīts ar katastrofu, tās draudiem vai kritiskās infrastruktūras apdraudējumu, ja būtiski apdraudēta valsts, sabiedrības, vides, saimnieciskās darbības drošība vai cilvēku veselība un dzīvība.
+(2) Ārkārtējo situāciju var izsludināt tāda valsts apdraudējuma gadījumā, kas saistīts ar krīzi vai katastrofu, tās draudiem vai kritiskās infrastruktūras apdraudējumu, ja būtiski apdraudēta valsts, sabiedrības, vides, saimnieciskās darbības drošība vai cilvēku veselība un dzīvība.
