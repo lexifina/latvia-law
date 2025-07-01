@@ -1,0 +1,1 @@
+33. Grozījumi šā likuma 8. panta pirmās daļas 3. punktā, 9. panta pirmajā daļā, 10. panta otrajā, ceturtajā un desmitajā daļā, 11. panta nosaukumā un pirmajā daļā, kā arī 21. panta otrajā daļā stājas spēkā 2026. gada 1. jūlijā.

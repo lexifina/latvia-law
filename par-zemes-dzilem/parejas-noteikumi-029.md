@@ -1,0 +1,1 @@
+29. Bieži sastopamo derīgo izrakteņu ieguves atļaujas, kuras izsniegtas līdz 2026. gada 30. jūnijam, un dabas resursu lietošanas atļaujas, kuras izsniegtas līdz 2025. gada 30. jūnijam, ir spēkā līdz tajās norādītā termiņa beigām.

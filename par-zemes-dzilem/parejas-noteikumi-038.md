@@ -1,0 +1,1 @@
+38. Valsts vides dienests līdz 2028. gada 31. maijam informē pašvaldības par tā rīcībā esošajām bieži sastopamo derīgo izrakteņu ieguves atļaujām. Pašvaldības līdz 2028. gada 30. jūnijam iesniedz reģistrācijai Valsts vides dienestā bieži sastopamo derīgo izrakteņu ieguves atļaujas, kuru nav Valsts vides dienesta rīcībā, vai to apliecinātas kopijas.

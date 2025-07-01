@@ -1,0 +1,1 @@
+30. Zemes dzīļu izmantošanas licences, kuras izsniegtas līdz 2026. gada 30. jūnijam un kurās iekļauti izmantošanas nosacījumi un pienākums izstrādāt derīgo izrakteņu ieguves projektu, ir spēkā līdz tajās noteiktā termiņa beigām.

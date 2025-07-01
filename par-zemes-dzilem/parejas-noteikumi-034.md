@@ -1,0 +1,1 @@
+34. Grozījumi šā likuma 10. panta devītajā daļā par vārdu "un saņemta atradnes pase" izslēgšanu un vienpadsmitās daļas izteikšanu jaunā redakcijā attiecībā uz zemes dzīļu izmantošanas licences izsniegšanas nosacījumiem un kārtību stājas spēkā 2026. gada 1. jūlijā.
