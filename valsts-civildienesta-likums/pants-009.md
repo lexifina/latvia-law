@@ -7,7 +7,7 @@
 2) pārējiem ierēdņu amatiem - attiecīgā iestāde.
 (2¹) Ministru kabinets nosaka iestādes vadītāju atlases plānošanas, prasību izvirzīšanas un pretendentu novērtēšanas kārtību.
 (3) Pretendentu un ierēdņu vērtēšanas komisija izvēlas vienu vai vairākus pretendentus, kas vislabāk atbilst ierēdņa amata aprakstā izvirzītajām prasībām, un, motivējot savu izvēli, iesaka viņus:
-1) Ministru prezidentam - iecelšanai Valsts kancelejas direktora un Pārresoru koordinācijas centra vadītāja amatā;
+1) Ministru prezidentam - iecelšanai Valsts kancelejas direktora amatā;
 2) ministram - iecelšanai iestādes vadītāja amatā;
 3) attiecīgās iestādes vadītājam - iecelšanai citos ierēdņu amatos.
 (4) Attiecīgā šā panta trešajā daļā minētā amatpersona izvērtē pretendentu un ierēdņu vērtēšanas komisijas ieteikumu un pieņem lēmumu par pretendenta iecelšanu amatā.

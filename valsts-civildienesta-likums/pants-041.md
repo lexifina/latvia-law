@@ -1,6 +1,6 @@
 41.pants. Valsts civildienesta attiecību izbeigšanās
 (1) Valsts civildienesta attiecības izbeidzas:
-1) ja ierēdnis ar iestādes vadītāja, iestādes vadītājs ar ministra, bet Valsts kancelejas direktors un Pārresoru koordinācijas centra vadītājs ar Ministru prezidenta lēmumu tiek atbrīvots no ierēdņa amata:
+1) ja ierēdnis ar iestādes vadītāja, iestādes vadītājs ar ministra, bet Valsts kancelejas direktors ar Ministru prezidenta lēmumu tiek atbrīvots no ierēdņa amata:
 a) pēc paša vēlēšanās,
 b) sakarā ar termiņa izbeigšanos,
 c) sakarā ar pārbaudes neizturēšanu,
@@ -25,5 +25,5 @@ n) pēc paša vēlēšanās sakarā ar to, ka pilda darba pienākumus starptauti
 4) vienu mēnesi iepriekš - ja valsts civildienesta attiecības izbeidz, pamatojoties uz šā panta pirmās daļas 1. punkta "f" vai "g" apakšpunktā noteikto.
 (4) Valsts civildienesta attiecības pārbaudes laikā pēc ierēdņa ierosinājuma izbeidz triju darbdienu laikā. Citos gadījumos valsts civildienesta attiecības pēc ierēdņa ierosinājuma izbeidz ne vēlāk kā mēnesi pēc ierēdņa iesnieguma saņemšanas.
 (5) Šā panta pirmās daļas 2. punktā minētajā gadījumā valsts civildienesta attiecības izbeidzas ar ierēdņa nāves brīdi.
-(6) Izbeigt valsts civildienesta attiecības, pamatojoties uz šā panta pirmās daļas 3. punktā paredzēto savstarpēju vienošanos, kas noslēgta starp ministru un iestādes vadītāju vai starp Ministru prezidentu un Valsts kancelejas direktoru vai Pārresoru koordinācijas centra vadītāju, var ne agrāk kā sešus mēnešus pēc sadarbības uzsākšanas.
-(7) Lēmumu par iestādes vadītāja atbrīvošanu no amata pieņem ministrs, bet par Valsts kancelejas direktora un Pārresoru koordinācijas centra vadītāja atbrīvošanu - Ministru prezidents. Lēmumu par valsts sekretāra, īpašu uzdevumu ministra sekretariāta vadītāja, Ministru prezidenta biedra sekretariāta vadītāja, Valsts kancelejas direktora, Pārresoru koordinācijas centra vadītāja un pārraudzībā esošas iestādes vadītāja atbrīvošanu no amata attiecīgā amatpersona pieņem, pamatojoties uz Ministru kabineta lēmumu, izņemot gadījumu, kad civildienesta attiecības tiek izbeigtas, pamatojoties uz šā panta pirmās daļas 1. punkta "a" apakšpunktā vai 3. punktā noteikto.
+(6) Izbeigt valsts civildienesta attiecības, pamatojoties uz šā panta pirmās daļas 3. punktā paredzēto savstarpēju vienošanos, kas noslēgta starp ministru un iestādes vadītāju vai starp Ministru prezidentu un Valsts kancelejas direktoru, var ne agrāk kā sešus mēnešus pēc sadarbības uzsākšanas.
+(7) Lēmumu par iestādes vadītāja atbrīvošanu no amata pieņem ministrs, bet par Valsts kancelejas direktora atbrīvošanu - Ministru prezidents. Lēmumu par valsts sekretāra, īpašu uzdevumu ministra sekretariāta vadītāja, Ministru prezidenta biedra sekretariāta vadītāja, Valsts kancelejas direktora un pārraudzībā esošas iestādes vadītāja atbrīvošanu no amata attiecīgā amatpersona pieņem, pamatojoties uz Ministru kabineta lēmumu, izņemot gadījumu, kad civildienesta attiecības tiek izbeigtas, pamatojoties uz šā panta pirmās daļas 1. punkta "a" apakšpunkta vai 3. punkta nosacījumiem.

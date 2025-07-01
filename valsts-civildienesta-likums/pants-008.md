@@ -5,4 +5,4 @@
 (4) Uz vakanto ierēdņa amatu atklātu pretendentu konkursu var neizsludināt:
 1) ja ar pretendentu, kas atklāta konkursa rezultātā iecelts ierēdņa amatā, mēneša laikā pēc iecelšanas izbeidz valsts civildienesta attiecības un pretendentu un ierēdņu vērtēšanas komisija iestādes vadītājam iesaka iecelšanai ierēdņa amatā pretendentu, kurš konkursā tika atzīts kā nākamais, kas vislabāk atbilst ierēdņa amata aprakstā izvirzītajām prasībām;
 2) ja atklāta pretendentu konkursa laikā izveidojas cits vakants ierēdņa amats ar identisku amata aprakstu un pretendentu un ierēdņu vērtēšanas komisija iestādes vadītājam iesaka iecelšanai ierēdņa amatā nākamo pretendentu, kurš atklātā pretendentu konkursā ieguvis augstāko novērtējumu;
-3) citos šajā likumā noteiktajos gadījumos, izņemot gadījumu, kad iestādes vadītājs, Valsts kancelejas direktors vai Pārresoru koordinācijas centra vadītājs atbrīvots no ierēdņa amata, pamatojoties uz savstarpēju vienošanos.
+3) citos šajā likumā noteiktajos gadījumos, izņemot gadījumu, kad iestādes vadītājs atbrīvots no ierēdņa amata, pamatojoties uz savstarpēju vienošanos.
