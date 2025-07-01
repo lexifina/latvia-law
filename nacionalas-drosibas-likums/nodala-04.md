@@ -1,2 +1,2 @@
 IV nodaļa
-Valsts apdraudējuma pārvarēšana
+Valsts apdraudējuma pārvarēšana un krīzes vadība
