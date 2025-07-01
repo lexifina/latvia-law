@@ -138,4 +138,9 @@ tonna
 1,11
 1,13
 19.
-(Punkts stājas spēkā 01.07.2025. un iekļauts likuma redakcijā uz 01.07.2025. Sk. pārejas noteiumu 47. punktu)
+Ogļūdeņraži
+m³
+-
+0,70
+0,70
+0,70
