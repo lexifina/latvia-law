@@ -1,6 +1,7 @@
 28.pants. Ministru kabineta sēdes
 (1) Ministru kabinets jautājumus izskata kārtējā vai ārkārtas sēdē. Ministru kabineta kārtējo sēdi sasauc un sēdes darba kārtību nosaka Ministru prezidents. Ministru kabineta ārkārtas sēdi jebkurā laikā un vietā var sasaukt un tās darba kārtību noteikt Valsts prezidents vai Ministru prezidents.
-(2) Ministru kabineta sēdi vada Ministru prezidents. Ja ārkārtas sēdi sasaucis Valsts prezidents, to vada Valsts prezidents.
+(1¹) Ministru kabinets krīzes vadības un valsts apdraudējuma pārvarēšanas jautājumus izskata krīzes vadības sēdē. Ministru kabineta krīzes vadības sēdi sasauc Ministru prezidents pēc savas iniciatīvas vai pēc Ministru kabineta locekļa ierosinājuma. Ministru kabineta krīzes vadības sēdi jebkurā laikā un vietā var sasaukt un tās darba kārtību noteikt Valsts prezidents.
+(2) Ministru kabineta sēdi vada Ministru prezidents. Ja ārkārtas sēdi vai Ministru kabineta krīzes vadības sēdi sasaucis Valsts prezidents, to vada Valsts prezidents.
 (3) Ministru kabineta sēdē katram Ministru kabineta loceklim ir tiesības izteikties par jebkuru sēdes darba kārtībā iekļauto jautājumu.
 (4) Ministru kabineta sēdē ar padomdevēja tiesībām var piedalīties personas, kurām šādas tiesības paredzētas citos normatīvajos aktos.
 (5) Ministru prezidents pēc savas iniciatīvas vai pēc Ministru kabineta locekļa ierosinājuma var uzaicināt izteikt viedokli Ministru kabineta sēdē atbildīgās amatpersonas, sociālo partneru un pilsoniskās sabiedrības organizāciju pārstāvjus vai citus lietpratējus, kuru viedoklis var būt nozīmīgs attiecīgā jautājuma izlemšanā.
