@@ -14,3 +14,4 @@
 12) nodrošina, ka tiek izpildīti starptautiskie līgumi par to personu atpakaļuzņemšanu, kuras valstī uzturas nelikumīgi;
 13) veic preventīvus pasākumus ar valsts robežas šķērsošanu saistīto likumu un citu normatīvo aktu pārkāpumu novēršanai.
 (2) Robežsardze pilda arī citus normatīvajos aktos noteiktos uzdevumus.
+(3) Robežsardze, pildot šā panta pirmās daļas 1., 2., 3., 4., 5., 6., 7., 9. un 11. punktā minētos uzdevumus, var izmantot tehniskos līdzekļus, lai atklātu, novērstu vai pārtrauktu likumpārkāpumus, apsargātu un uzraudzītu tās lietošanā esošos objektus, tai skaitā ēkas, telpas, teritorijas un infrastruktūras objektus, kā arī aizturētās personas. Izmantojamo tehnisko līdzekļu veidus, kārtību, kādā Robežsardze izmanto tehniskos līdzekļus, kā arī tehnisko līdzekļu izmantošanas rezultātā iegūto datu apstrādi nosaka Ministru kabinets.
