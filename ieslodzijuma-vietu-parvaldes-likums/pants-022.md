@@ -7,12 +7,12 @@
 5) atbilstoši Kriminālprocesa likumā noteiktajai kompetencei veikt pirmstiesas izmeklēšanu;
 6) atbilstoši savai kompetencei Operatīvās darbības likumā noteiktajā kārtībā veikt operatīvās darbības pilnā apjomā, lai atklātu, pārtrauktu un novērstu noziedzīgus nodarījumus ieslodzījuma vietā;
 7) nēsāt, glabāt, izmantot un pielietot izsniegto ieroci;
-8) nodrošināt ieslodzīto pārvešanu uz ārstniecības iestādi ārpus ieslodzījuma vietas veselības aprūpes pakalpojumu saņemšanai un ieslodzīto apsardzi šādu pakalpojumu saņemšanas laikā;
+8) nodrošināt ieslodzīto konvojēšanu šajā likumā noteiktajos gadījumos un kārtībā;
 9) atbilstoši kompetencei apstrādāt personas datus valsts informācijas sistēmās apcietinājuma kā drošības līdzekļa un brīvības atņemšanas kā kriminālsoda izpildei;
 10) aizturēt personu, kura izdara vai par kuru pastāv aizdomas, ka tā izdarījusi administratīvo pārkāpumu, un izraidīt šādu personu no ieslodzījuma vietas teritorijas;
 11) fiksēt bezpilota gaisa kuģa un cita veida lidaparāta, kas nav kvalificējams kā gaisa kuģis (turpmāk - bezpilota gaisa kuģis), lidojumu un pārtraukt to, ja lidojums veikts, pārkāpjot normatīvo aktu prasības.
 (2) (Izslēgta ar 15.06.2006. likumu)
 (3) (Izslēgta ar 17.12.2014. likumu)
 (4) Amatpersonai ir aizliegts organizēt streikus un piedalīties tajos.
-(5) Ieslodzītā pārvešanu uz ārstniecības iestādi veic ar operatīvo transportlīdzekli, ja tas nepieciešams sabiedrības drošības nodrošināšanai vai ieslodzītā veselības stāvokļa dēļ.
+(5) (Izslēgta ar 03.04.2025. likumu)
 (6) (Izslēgta ar 29.02.2024. likumu)

@@ -1,0 +1,1 @@
+9. Šā likuma 4. panta ceturtajā daļā paredzēto nosacījumu par Latvijas pilsonību nepiemēro līdz 2027. gada 1. janvārim attiecībā uz tiem Ieslodzījuma vietu pārvaldes darbiniekiem, ar kuriem darba līgums noslēgts pirms šā nosacījuma spēkā stāšanās.

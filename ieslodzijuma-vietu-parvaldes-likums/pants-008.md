@@ -11,3 +11,4 @@
 9) valsts drošības iestāžu amatpersonām;
 10) Korupcijas novēršanas un apkarošanas biroja amatpersonām.
 (2) Ministru kabinets nosaka kārtību, kādā šā panta pirmajā daļā minētās personas, kā arī citas personas apmeklē ieslodzījuma vietas.
+(3) Ieslodzījuma vietas priekšnieks var aizliegt apmeklējumu, kas var apdraudēt ieslodzījuma vietas vai sabiedrības drošību, citu personu tiesības vai var veicināt noziedzīga nodarījuma vai administratīva pārkāpuma izdarīšanu. Ieslodzījuma vietas priekšnieka lēmumu aizliegt apmeklējumu var apstrīdēt Administratīvā procesa likumā noteiktajā kārtībā, iesniedzot attiecīgu iesniegumu Ieslodzījuma vietu pārvaldes priekšniekam. Ieslodzījuma vietu pārvaldes priekšnieka lēmumu var pārsūdzēt Administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā. Administratīvās rajona tiesas lēmums nav pārsūdzams. Ieslodzījuma vietas priekšnieka lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

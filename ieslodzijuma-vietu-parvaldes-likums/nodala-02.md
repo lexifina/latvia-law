@@ -1,2 +1,2 @@
 II nodaļa
-Ieslodzījuma vietu un Mācību centra darbība
+Ieslodzījuma vietu pārvaldes darbība
