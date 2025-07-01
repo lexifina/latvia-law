@@ -5,7 +5,7 @@
 3) Dabas aizsardzības pārvaldes;
 4) Datu valsts inspekcijas;
 5) Ekonomikas ministrijas;
-5¹) (punkts stājas spēkā 01.07.2025. un iekļauts likuma redakcijā uz 01.07.2025. Sk. pārejas noteikumu 16. punktu);
+5¹) Enerģētikas un vides aģentūras;
 6) Iepirkumu uzraudzības biroja;
 6¹) Ieslodzījuma vietu pārvaldes;
 7) Izložu un azartspēļu uzraudzības inspekcijas;
