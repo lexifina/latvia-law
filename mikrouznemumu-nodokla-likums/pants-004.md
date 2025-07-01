@@ -1,6 +1,6 @@
 4.pants. Mikrouzņēmumu nodokļa maksātāja reģistrācija
 (1) Personai ir tiesības Uzņēmumu reģistrā vienlaikus ar iesniegumu par individuālā komersanta, individuālā uzņēmuma, zemnieka vai zvejnieka saimniecības ierakstīšanu Uzņēmumu reģistra attiecīgajā reģistrā pieteikties mikrouzņēmumu nodokļa maksātāja statusa iegūšanai, apliecinot, ka pārskata gadā, kas atbilst mikrouzņēmumu nodokļa taksācijas periodam:
-1) paredzamais apgrozījums nepārsniegs pievienotās vērtības nodokļa reģistrācijas slieksni un mikrouzņēmums neplāno kļūt par reģistrētu pievienotās vērtības nodokļa maksātāju līdz pievienotās vērtības nodokļa reģistrācijas sliekšņa sasniegšanai;
+1) paredzamais apgrozījums nepārsniegs pievienotās vērtības nodokļa reģistrācijas slieksni un mikrouzņēmums neplāno kļūt par reģistrētu pievienotās vērtības nodokļa maksātāju līdz pievienotās vērtības nodokļa reģistrācijas sliekšņa sasniegšanai (izņemot gadījumu, kad persona ir reģistrēta Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā saskaņā ar Pievienotās vērtības nodokļa likuma 139.² pantā noteikto īpašo reģistrācijas kārtību);
 2) mikrouzņēmums vēlas maksāt mikrouzņēmumu nodokli.
 (2) Vienas darbdienas laikā pēc šā panta pirmajā daļā minēto subjektu reģistrācijas Uzņēmumu reģistrs elektroniski nosūta Valsts ieņēmumu dienestam informāciju par saņemto pieteikumu mikrouzņēmumu nodokļa maksātāja statusa iegūšanai.
 (3) Fiziskā persona, kas, uzsākot saimniecisko darbību, reģistrējas Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs un izvēlas būt mikrouzņēmumu nodokļa maksātājs, vienlaikus ar reģistrācijas pieteikumu iesniedz pieteikumu, kurā norāda šā panta pirmajā daļā minēto informāciju.
@@ -17,3 +17,4 @@
 (8⁵) Ja mikrouzņēmums - fiziskā persona, kas reģistrēta Valsts ieņēmumu dienestā kā saimnieciskās darbības veicējs, - zaudē mikrouzņēmumu nodokļa maksātāja statusu saskaņā ar šā panta 8.¹ vai 8.² daļu, Valsts ieņēmumu dienests to izslēdz no Valsts ieņēmumu dienesta Nodokļu maksātāju reģistra.
 (8⁶) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 45. punktu)
 (9) (Izslēgta ar 26.11.2020. likumu)
+(10) Šā panta astoto daļu nepiemēro, ja mikrouzņēmumu nodokļa maksātājs ir reģistrēts Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā saskaņā ar Pievienotās vērtības nodokļa likuma 139.² pantā noteikto īpašo reģistrācijas kārtību.
