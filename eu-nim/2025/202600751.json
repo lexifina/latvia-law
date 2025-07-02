@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 2. jūlija rīkojums Nr. 393 “Latvijas Sociālā klimata fonda plāns 2026.–2032. gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": null,
+  "official_journal_reference": "2025/128.1",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-08",
+  "entry_into_force": "2025-07-02",
+  "notification_date": "2026-01-26",
+  "commission_reference": "MNE(2026)00751",
+  "nim_celex": "72023L1791LVA_202600751",
+  "nim_id": "202600751",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8cb3df24-b81e-482b-ae40-bef01369eac1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
