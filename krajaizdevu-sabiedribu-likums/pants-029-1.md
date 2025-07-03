@@ -4,7 +4,8 @@
 2) beidz pastāvēt tas tiesību subjekts, ar kuru nodibinātās tiesiskās attiecības noteica attiecīgās krājaizdevu sabiedrības biedru kopumu;
 3) krājaizdevu sabiedrība pievienota citai sabiedrībai;
 4) krājaizdevu sabiedrība apvienota ar citu sabiedrību vai citām šādām sabiedrībām un rezultātā tiek nodibināta jauna krājaizdevu sabiedrība.
-(2) Ja krājaizdevu sabiedrības pamatkapitāls samazinās un kļūst mazāks par statūtos noteikto minimālo lielumu, valde divu mēnešu laikā sasauc biedru kopsapulci (pārstāvju sapulci), kura lemj par sabiedrības pamatkapitāla palielināšanu līdz statūtos noteiktajam minimālajam lielumam vai par krājaizdevu sabiedrības likvidāciju.
+(2) Ja krājaizdevu sabiedrības pamatkapitāls samazinās un kļūst mazāks par šā likuma 15. pantā vai statūtos noteikto minimālo lielumu, valde divu mēnešu laikā sasauc biedru kopsapulci (pārstāvju sapulci), kura lemj par sabiedrības pamatkapitāla palielināšanu līdz šā likuma 15. pantā vai statūtos noteiktajam minimālajam lielumam vai par krājaizdevu sabiedrības likvidāciju.
 (3) Krājaizdevu sabiedrības statūtos var noteikt arī citus tās darbības izbeigšanas gadījumus.
-(4) Ja krājaizdevu sabiedrības pamatkapitāls samazinās un kļūst mazāks par 2500 euro, valde viena mēneša laikā sasauc biedru kopsapulci (pārstāvju sapulci), kura lemj par sabiedrības pamatkapitāla palielināšanu līdz 2500 euro vai par krājaizdevu sabiedrības likvidāciju.
-(5) Ja par krājaizdevu sabiedrības biedru kļūst šā likuma 5.panta piektās daļas 2. vai 3.punktā minētā komercsabiedrība vai kooperatīvā sabiedrība un krājaizdevu sabiedrības pamatkapitāls samazinās un kļūst mazāks par 25 000 euro, valde viena mēneša laikā sasauc biedru kopsapulci (pārstāvju sapulci), kura lemj par sabiedrības pamatkapitāla palielināšanu līdz 25 000 euro vai par krājaizdevu sabiedrības likvidāciju.
+(4) (Izslēgta ar 05.06.2025. likumu)
+(5) (Izslēgta ar 05.06.2025. likumu)
+(6) Ja krājaizdevu sabiedrības pašu kapitāla attiecība pret aktīvu un ārpusbilances posteņu kopsummu (kapitāla pietiekamība) kļūst mazāka par 10 procentiem, valde viena mēneša laikā sasauc biedru kopsapulci (pārstāvju sapulci), kura lemj par krājaizdevu sabiedrības kapitāla palielināšanu vai krājaizdevu sabiedrības likvidāciju.

@@ -1,2 +1,2 @@
 31.¹ pants. Krājaizdevu sabiedrības darbības turpināšana bez speciālās atļaujas (licences)
-Latvijas Banka par krājaizdevu sabiedrības darbības turpināšanu bez speciālās atļaujas (licences) ir tiesīga par pārkāpumu atbildīgajai personai piemērot sankciju - soda naudu līdz 7100 euro.
+Latvijas Banka par krājaizdevu sabiedrības darbības turpināšanu bez speciālās atļaujas (licences) ir tiesīga par pārkāpumu atbildīgajai personai piemērot sankciju - soda naudu līdz 35 000 euro.

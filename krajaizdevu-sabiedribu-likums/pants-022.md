@@ -1,5 +1,5 @@
 22.pants. Krājaizdevu sabiedrības pārvaldes īpašie noteikumi
-(1) Krājaizdevu sabiedrības valdi ievēlē ne mazāk kā triju locekļu sastāvā. Krājaizdevu sabiedrībā tās statūtos noteiktajā kārtībā izveidojama arī kredītkomiteja.
-(2) Par krājaizdevu sabiedrības kredītkomitejas locekli nedrīkst būt valdes un revīzijas komisijas loceklis. Par savu darbu kredītkomiteja sabiedrības statūtos noteiktajā kārtībā sniedz pārskatu krājaizdevu sabiedrības kopsapulcei (pārstāvju sapulcei) un valdei.
+(1) Krājaizdevu sabiedrības valdi ievēlē ne mazāk kā triju locekļu sastāvā. Krājaizdevu sabiedrībā tās statūtos noteiktajā kārtībā var izveidot arī kredītkomiteju. Par savu darbu kredītkomiteja sabiedrības statūtos noteiktajā kārtībā sniedz pārskatu krājaizdevu sabiedrības biedru kopsapulcei (pārstāvju sapulcei) un valdei.
+(2) Biedru kopsapulce (pārstāvju sapulce) krājaizdevu sabiedrības finansiālās un saimnieciskās darbības iekšējās revīzijas veikšanai ieceļ revidentu vai izveido revīzijas komisiju, kas sastāv no vairākiem revidentiem (šajā likumā visi kopā vai katrs atsevišķi - revīzijas komisijas loceklis). Ja izveido revīzijas komisiju, tad biedru kopsapulce (pārstāvju sapulce) no revīzijas komisijas locekļu vidus izvirza revīzijas komisijas priekšsēdētāju. Par krājaizdevu sabiedrības revīzijas komisijas locekli nedrīkst būt valdes vai kredītkomitejas loceklis.
 (3) (Izslēgta no 01.01.2019. ar 21.06.2018. likumu)
-(4) Krājaizdevu sabiedrība statūtos var paredzēt, ka valdes, kredītkomitejas un revīzijas komisijas locekļi darbu veic bez atlīdzības.
+(4) Krājaizdevu sabiedrība statūtos var paredzēt, ka valdes, kredītkomitejas, ja tāda ir izveidota, un revīzijas komisijas locekļi darbu veic bez atlīdzības.

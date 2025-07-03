@@ -7,7 +7,7 @@
 (5) Par vienas krājaizdevu sabiedrības biedru var būt persona, kas ir:
 1) individuālais komersants, individuālais (ģimenes) uzņēmums, zemnieka vai zvejnieka saimniecība, ja to īpašnieki ir krājaizdevu sabiedrības biedri;
 2) komercsabiedrība (personālsabiedrība un kapitālsabiedrība), kuras dalībnieki ir fiziskās personas, ja vienam vai vairākiem krājaizdevu sabiedrības biedriem pieder vairāk nekā 50 procentu balsstiesību šādu sabiedrību pamatkapitālā;
-3) lauksaimniecības pakalpojumu kooperatīvā sabiedrība, dzīvokļu īpašnieku kooperatīvā sabiedrība, dārzkopības kooperatīvā sabiedrība vai cita sabiedrība, kurai nav komersanta statusa, ja vismaz vienam krājaizdevu sabiedrības biedram pieder balsstiesības šādu sabiedrību pamatkapitālā;
+3) kooperatīvā sabiedrība, kura nav krājaizdevu sabiedrība, ja vismaz vienam krājaizdevu sabiedrības biedram pieder balsstiesības, kas izriet no ieguldījuma šādas sabiedrības pamatkapitālā;
 4) biedrība, kuras biedri ir tikai fiziskās personas un vismaz viens no viņiem ir krājaizdevu sabiedrības biedrs.
 (6) Šā panta piektajā daļā minētajām juridiskajām personām nav balsstiesību krājaizdevu sabiedrībā.
 (7) Krājaizdevu sabiedrības biedrs zaudē prasījuma tiesības pret krājaizdevu sabiedrību, ja 60 gadu laikā nav veikti nekādi darījumi ar viņa kontu.
