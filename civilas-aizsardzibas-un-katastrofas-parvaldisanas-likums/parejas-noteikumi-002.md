@@ -2,7 +2,7 @@
 1) Ministru kabineta 2007.gada 26.jūnija noteikumi Nr.423 "Pašvaldības, komersanta un iestādes civilās aizsardzības plāna struktūra, tā izstrādāšanas un apstiprināšanas kārtība";
 2) Ministru kabineta 2007.gada 7.augusta noteikumi Nr.530 "Civilās trauksmes un apziņošanas sistēmas izveidošanas, izmantošanas un finansēšanas kārtība";
 3) Ministru kabineta 2007.gada 11.septembra noteikumi Nr.612 "Minimālās prasības civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam";
-4) Ministru kabineta 2007.gada 18.septembra noteikumi Nr.626 "Noteikumi par paaugstinātas bīstamības objektu noteikšanas kritērijiem un šo objektu īpašnieku (valdītāju, apsaimniekotāju) pienākumiem riska samazināšanas pasākumu nodrošināšanai";
+4) Ministru kabineta 2007.gada 18.septembra noteikumi Nr.626 "Noteikumi par paaugstinātas bīstamības objektu noteikšanas kritērijiem un šo objektu īpašnieku (valdītāju, apsaimniekotāju) pienākumiem riska samazināšanas pasākumu nodrošināšanai šo objektu īpašnieku (valdītāju, apsaimniekotāju) pienākumiem riska samazināšanas pasākumu nodrošināšanai";
 5) Ministru kabineta 2007.gada 11.decembra noteikumi Nr.842 "Kārtība, kādā juridiskajām un fiziskajām personām kompensējami izdevumi un zaudējumi, kas radušies, iesaistot personu resursus reaģēšanas pasākumos, ugunsgrēka dzēšanā vai glābšanas darbos, un kompensācijas apmēra aprēķināšanas kārtība";
 6) Ministru kabineta 2008.gada 22.septembra noteikumi Nr.772 "Noteikumi par civilās aizsardzības mācību veidiem un organizēšanas kārtību";
 7) Ministru kabineta 2009.gada 30.jūnija noteikumi Nr.659 "Humānās palīdzības saņemšanas un sniegšanas kārtība";
