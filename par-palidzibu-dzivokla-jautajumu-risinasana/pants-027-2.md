@@ -14,4 +14,4 @@
 (3) Sniedzot šā panta otrajā daļā noteikto palīdzību, nav piemērojami šā likuma 2. un 6. - 10.panta noteikumi.
 (3¹) Valsts atlīdzina pašvaldību izdevumus palīdzības sniegšanai dzīvojamās mājas īpašniekam tādas dzīvojamās mājas renovācijai, kurā likvidējamas terora akta, avārijas, stihiskas nelaimes vai citas katastrofas sekas, normatīvajos aktos par līdzekļu piešķiršanu neparedzētiem gadījumiem paredzētajā kārtībā un apmērā.
 (4) (Izslēgta ar 30.11.2015. likumu)
-(5) Kārtību, kādā tiek sniegta šā panta otrajā daļā minētā palīdzība, un palīdzības apmēru nosaka pašvaldība savos saistošajos noteikumos. Sniedzot šā panta otrajā daļā noteikto palīdzību, pašvaldība ievēro komercdarbības atbalsta kontroli regulējošos normatīvos aktus.
+(5) Kārtību, kādā tiek sniegta šā panta otrajā daļā minētā palīdzība, un palīdzības apmēru nosaka pašvaldība savos saistošajos noteikumos.
