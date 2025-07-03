@@ -1,0 +1,1 @@
+23. Grozījums šā likuma 1. panta 12. punktā, 4. panta 4.¹ daļa, kā arī grozījumi šā likuma 12. panta 6. punktā, 14. panta pirmajā, otrajā un ceturtajā daļā, 37. panta pirmās daļas 4. punktā un piektajā daļā, ar kuriem minētajās normās iekļauta atsauce uz 4. panta 4.¹ daļu, stājas spēkā 2026. gada 1. janvārī.

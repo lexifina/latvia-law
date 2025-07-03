@@ -10,6 +10,6 @@
 9) publiskas personas iestāde (turpmāk - iestāde) - šā likuma izpratnē arī tiesu un prokuratūras iestādes;
 10) (izslēgts ar 21.10.2010. likumu);
 11) zemes starpgabals - publiskai personai piederošs zemesgabals, kura platība:
-a) pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu apbūvei, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai,
-b) lauku apvidos ir mazāka par pašvaldības saistošajos noteikumos paredzēto minimālo zemesgabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu atbilstoši apstiprinātajam teritorijas plānojumam, vai kuram nav iespējams nodrošināt pieslēgumu koplietošanas ielai (ceļam);
+a) pilsētā ir mazāka par pašvaldības apstiprinātajos apbūves noteikumos paredzēto minimālo apbūves gabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu apbūvei, vai kuram nav nodrošināts pieslēgums koplietošanas ielai,
+b) lauku apvidos ir mazāka par pašvaldības saistošajos noteikumos paredzēto minimālo zemesgabala platību vai kura konfigurācija nepieļauj attiecīgā zemesgabala izmantošanu atbilstoši apstiprinātajam teritorijas plānojumam, vai kuram nav nodrošināts pieslēgums koplietošanas ielai (ceļam);
 12) atsavināšanas ierosinājums - šā likuma 4.panta ceturtajā daļā minētās personas iesniegums, kurš noformēts normatīvajos aktos noteiktajā kārtībā un kuru reģistrējusi attiecīgā publiskā persona vai kurš reģistrēts publiskas personas iestādē un uz kuru pamatojoties publiska persona vai tās iestāde var uzsākt publiskas personas nekustamā īpašuma atsavināšanu.
