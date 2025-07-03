@@ -1,1 +1,0 @@
-Novada vēlēšanu komisijā, ko izveido 2021. gadā paredzētajām pašvaldību vēlēšanām, var ievēlēt arī personas, kuras ir pēc 2017. gada pašvaldību vēlēšanām izveidotās republikas pilsētas vai novada vēlēšanu komisijas locekļi.
