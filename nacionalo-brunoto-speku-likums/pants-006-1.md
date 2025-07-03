@@ -3,6 +3,8 @@
 1) nodrošina vienību kaujas un mobilizācijas gatavību;
 2) sagatavo personālsastāvu un vienības dalībai starptautiskajās operācijās, Ziemeļatlantijas līguma organizācijas un Eiropas Savienības ātrās reaģēšanas spēkos;
 3) iznīcina sprādzienbīstamus priekšmetus un veic spridzināšanas darbus;
+3¹) izgatavo spridzināšanas ietaises, paštaisītas sprāgstvielas, veic munīcijas tehnisko izpēti un munīcijas pārveidošanu;
+3²) izgatavo un pārbūvē munīcijas palaišanas un pārvietošanas iekārtas;
 4) veic krasta apsardzi, koordinē un veic cilvēku meklēšanas un glābšanas darbus jūrā, likvidē jūrā notikušo avāriju sekas, piedalās ekoloģiskajā uzraudzībā un kuģošanas režīma ievērošanas kontrolē;
 5) Ministru kabineta noteiktajā kārtībā nodrošina Valsts robežsardzi ar tehniskajiem līdzekļiem, peldlīdzekļiem un gaisakuģiem tās uzdevumu veikšanai jūrā;
 6) apmāca rezerves karavīrus un sniedz atbalstu jaunatnes izglītošanai valsts aizsardzības jomā;
