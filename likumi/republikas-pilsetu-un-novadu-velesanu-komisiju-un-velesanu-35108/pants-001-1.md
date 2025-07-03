@@ -1,3 +1,3 @@
-1.¹ pants. (1) Priekšlikums par vēlēšanu iecirkņu izveidošanu ārvalstīs iesniedzams Centrālajai vēlēšanu komisijai ne agrāk kā 120 dienas un ne vēlāk kā 75 dienas pirms vēlēšanām vai tautas nobalsošanas. Centrālā vēlēšanu komisija nosaka priekšlikuma noformēšanas prasības un priekšlikumā norādāmo informāciju.
-(2) Centrālā vēlēšanu komisija vēlēšanu iecirkņus ārvalstīs izveido ne vēlāk kā 70 dienas pirms vēlēšanām vai tautas nobalsošanas un pieņemto lēmumu paziņo priekšlikuma iesniedzējam piecu dienu laikā no lēmuma pieņemšanas dienas.
+1.¹ pants. (1) (Izslēgta ar 05.06.2025. likumu)
+(2) (Izslēgta ar 05.06.2025. likumu)
 (3) Informāciju par ārvalstīs izveidotajiem vēlēšanu iecirkņiem Centrālā vēlēšanu komisija iesniedz Ārlietu ministrijai, kas par to informē šo iecirkņu atrašanās vietu valstis.

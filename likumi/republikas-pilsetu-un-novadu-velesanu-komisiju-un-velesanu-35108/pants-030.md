@@ -1,1 +1,1 @@
-30. pants. Par vēlēšanu (balsošanas) gaitu iecirkņa komisija raksta protokolu, atzīmējot tajā visus starpgadījumus un traucē jumus, kā arī vēlētāju (balsotāju) sūdzības, protestus un sakarā ar tiem pieņemtos lēmumus.
+30. pants. Par vēlēšanu (balsošanas) gaitu iecirkņa komisija raksta vēlēšanu gaitas žurnālu, atzīmējot tajā visus starpgadījumus un traucē jumus, kā arī vēlētāju (balsotāju) sūdzības, protestus un sakarā ar tiem pieņemtos lēmumus.
