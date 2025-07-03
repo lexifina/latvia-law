@@ -14,4 +14,5 @@ Likumā ir lietoti šādi termini:
 12) atjaunošanas pasākumi - tādu pasākumu kopums, kuri tiek veikti, lai pēc iespējas savlaicīgi un samērīgi palīdzētu cietušajiem cilvēkiem un pēc iespējas atjaunotu vidi un īpašumu tādā stāvoklī, kāds tas bija pirms katastrofas;
 13) starptautiskā palīdzība - tādu pasākumu kopums, kuri, piemērojot šo likumu, tiek veikti, lai reaģētu uz katastrofu un likvidētu katastrofas sekas;
 14) pamatvajadzības - uzturs, mājoklis, veselības aprūpe, medicīniskā palīdzība, elektroapgāde, ūdensapgāde, siltumapgāde, atkritumu un notekūdeņu savākšana, sakaru nodrošinājums;
-15) koordinēšana - valsts un pašvaldību institūciju rīcības saskaņošana, veicot preventīvos, gatavības, reaģēšanas, seku likvidēšanas pasākumus, kā arī atjaunošanas pasākumus.
+15) koordinēšana - valsts un pašvaldību institūciju rīcības saskaņošana, veicot preventīvos, gatavības, reaģēšanas, seku likvidēšanas pasākumus, kā arī atjaunošanas pasākumus;
+16) patvertne - būve vai tās daļa, kas paredzēta cilvēku aizsardzībai no bīstamiem faktoriem, kas rodas katastrofas, militāra iebrukuma vai kara gadījumā.

@@ -1,0 +1,1 @@
+10. Šā likuma 7.¹ panta otro un trešo daļu neattiecina uz būvprojektiem, kuri līdz 2027. gada 1. janvārim ir noteiktā kārtībā saskaņoti (akceptēti) vai iesniegti saskaņošanai institūcijā, kas pilda būvvaldes funkcijas.

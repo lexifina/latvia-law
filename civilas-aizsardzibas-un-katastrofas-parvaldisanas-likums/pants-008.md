@@ -9,4 +9,6 @@
 4) nosaka kārtību, kādā valsts vai pašvaldības institūcija iesaista reaģēšanas un seku likvidēšanas pasākumos juridiskās vai fiziskās personas rīcībā esošos resursus;
 5) nosaka kārtību, kādā juridiskajai vai fiziskajai personai kompensējami izdevumi un zaudējumi, kas radušies, tās resursus iesaistot reaģēšanas un seku likvidēšanas pasākumos, kā arī kompensācijas apmēra aprēķināšanas kārtību;
 6) nosaka valsts civilās aizsardzības kontaktpunkta izveidošanas kārtību, uzdevumus un tiesības, kā arī kārtību, kādā tas sadarbojas ar Ārkārtējo situāciju reaģēšanas un koordinēšanas centru, Eiroatlantijas katastrofu reaģēšanas un koordinēšanas centru un citām starptautiskajām organizācijām un ārvalstīm;
-7) nosaka valsts agrīnās brīdināšanas sistēmas izveidošanas, darbības un finansēšanas kārtību.
+7) nosaka valsts agrīnās brīdināšanas sistēmas izveidošanas, darbības un finansēšanas kārtību;
+8) nosaka kārtību, kādā pielāgota būve vai tās daļa atzīstama par patvertni, un kārtību, kādā veic patvertņu pārbaudes;
+9) nosaka civilās aizsardzības zīmju sarakstu un izvietošanas prasības.
