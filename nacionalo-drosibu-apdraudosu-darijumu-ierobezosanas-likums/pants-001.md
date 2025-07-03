@@ -1,0 +1,6 @@
+1. pants. Šā likuma mērķis ir, ņemot vērā to, ka Latvijas Republikai kā demokrātiskai tiesiskai valstij ir pienākums veikt īpašus pašaizsargājošās demokrātijas principam atbilstošus pasākumus un personām jābūt gatavām tam, ka dažas to tiesības var tikt ierobežotas, paredzēt nepieciešamu, savlaicīgu, samērīgu un pašaizsargājošās demokrātijas principam atbilstošu valsts rīcību, lai:
+1) ikvienam liegtu iespēju vērsties pret Latvijas Republiku kā demokrātisku tiesisku valsti un noliegt tās pastāvēšanas tiesības;
+2) ikvienam liegtu iespēju veikt Latvijas Republikai naidīgas, kaitnieciskas un bīstamas aktivitātes;
+3) nepieļautu Latvijas Republikas nacionālo un sabiedrības drošību apdraudošu valstu, to pilsoņu un tām lojālu personu uzkrātā kapitāla izmantošanu īpašuma tiesību realizēšanai Latvijas Republikā un attiecīgo līdzekļu novirzīšanai pret Latvijas Republikas interesēm vērstiem ietekmēšanas pasākumiem;
+4) nepieļautu nekontrolējamu ietekmi uz Latvijas Republikas tautsaimniecību (ekonomiskajām interesēm), pie kā var novest Krievijas Federācijai un Baltkrievijas Republikai piederīgu personu un to kapitāla koncentrācija Latvijas Republikas teritorijā;
+5) nepieļautu Krievijas Federācijai un Baltkrievijas Republikai noteikto starptautisko sankciju apiešanu.

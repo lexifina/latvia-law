@@ -1,0 +1,2 @@
+3. pants. (1) Nekāda veida atsavināšanas darījumi un citi darījumi, kuri noslēgti pēc šā likuma stāšanās spēkā un ar kuriem šā likuma 2. pantā minētie subjekti ieguvuši nekustamo īpašumu vai tā daļu Latvijas Republikā, nav spēkā un nav koroborējami.
+(2) Šā likuma 2. pantā minētie subjekti nav tiesīgi piedalīties nekustamā īpašuma vai tā daļas izsolē, kā arī izlietot pirmpirkuma vai izpirkuma tiesības uz nekustamo īpašumu vai tā daļu.
