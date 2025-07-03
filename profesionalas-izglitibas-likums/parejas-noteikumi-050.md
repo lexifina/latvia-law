@@ -1,0 +1,1 @@
+50. Ministru kabinets līdz 2026. gada 31. augustam izdod šā likuma 25. panta septītajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai augstākās izglītības iestādes par profesionālās tālākizglītības un profesionālās pilnveides izglītības programmām, kas tiek īstenotas bez papildu licencēšanas, paziņo Akadēmiskās informācijas centram.

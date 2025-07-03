@@ -1,0 +1,1 @@
+49. Ministru kabinets līdz 2025. gada 30. decembrim izstrādā un iesniedz Saeimai nepieciešamos grozījumus Izglītības likumā un Augstskolu likumā, lai saskaņotu tiesisko regulējumu augstākās izglītības programmu terminoloģijas, kā arī profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu licencēšanas un īstenošanas jomā.
