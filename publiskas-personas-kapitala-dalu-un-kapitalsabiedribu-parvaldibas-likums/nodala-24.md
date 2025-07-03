@@ -1,2 +1,2 @@
 XXIV nodaļa
-Citi publiskas personas kapitāla daļu pārdošanas gadījumi
+Citi publiskas personas kapitāla daļu pārdošanas noteikumi

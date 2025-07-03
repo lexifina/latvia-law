@@ -1,5 +1,5 @@
 58.¹ pants. Paziņojums par korporatīvo pārvaldību
-(1) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība (akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, kura atbilst šā likuma 78. panta otrās daļas prasībām) sagatavo paziņojumu par korporatīvo pārvaldību. Ministru kabinets nosaka piemērojamos korporatīvās pārvaldības ieteikumus.
+(1) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība (akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, kura atbilst Gada pārskatu un konsolidēto gada pārskatu likumā noteiktajiem lielas sabiedrības kritērijiem) sagatavo paziņojumu par korporatīvo pārvaldību. Ministru kabinets nosaka piemērojamos korporatīvās pārvaldības ieteikumus.
 (2) Paziņojumā par korporatīvo pārvaldību iekļauj šādu informāciju:
 1) atsauci uz korporatīvās pārvaldības ieteikumiem, kurus kapitālsabiedrība piemēro;
 2) informāciju par to, vai un kā kapitālsabiedrība piemēro atsevišķus korporatīvās pārvaldības ieteikumos iekļautos principus;

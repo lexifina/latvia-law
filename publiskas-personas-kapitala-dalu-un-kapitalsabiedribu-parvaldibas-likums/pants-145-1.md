@@ -1,0 +1,2 @@
+145.¹ pants. Publiskas personas kapitāla daļu pārdošana vērtspapīru publiskā piedāvājumā
+Lēmumu par publiskas personas kapitāla daļu pārdošanu vērtspapīru publiskā piedāvājumā pieņem šā likuma 138. pantā noteiktajā kārtībā, norādot pārdošanas organizētāju, pārdošanas kārtību un iegūto līdzekļu sadali. Publiskas personas kapitāla daļu pārdošanai vērtspapīru publiskā piedāvājumā nepiemēro citus šā likuma noteikumus.

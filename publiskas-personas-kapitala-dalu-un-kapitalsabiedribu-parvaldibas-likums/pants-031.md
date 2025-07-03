@@ -1,7 +1,7 @@
 31. pants. Valdes un padomes locekļu nominēšanas kārtība valsts kapitāla daļu pārvaldīšanas gadījumā
 (1) Valsts kapitāla daļu turētājs nodrošina kandidāta nomināciju kapitālsabiedrības valdes (ja kapitālsabiedrībā nav izveidota padome) locekļa amatam. Koordinācijas institūcija sadarbībā ar valsts kapitāla daļu turētāju nodrošina kandidāta nomināciju kapitālsabiedrības padomes locekļa amatam. Kapitālsabiedrības padome (ja tāda ir izveidota) nodrošina kandidāta nomināciju kapitālsabiedrības valdes locekļa amatam.
 (2) Valdes un padomes locekļa nominēšanas process atbilst korporatīvās pārvaldības labās prakses principiem, nodrošina atklātu, godīgu un profesionālu valdes un padomes locekļu atlasi, kas veicina profesionālas un kompetentas kapitālsabiedrības pārvaldes institūcijas izveidi.
-(3) Iespējamie valdes un padomes locekļu kandidāti tiek atlasīti, organizējot publisku kandidātu pieteikšanās procedūru. Atlasot valdes vai padomes locekļus akciju sabiedrībā un sabiedrībā ar ierobežotu atbildību, ja tās atbilst šā likuma 78. panta otrās daļas prasībām, nominēšanas procesā papildus piesaista personāla atlases konsultantu.
+(3) Iespējamie valdes un padomes locekļu kandidāti tiek atlasīti, organizējot publisku kandidātu pieteikšanās procedūru. Atlasot valdes vai padomes locekļus akciju sabiedrībā un sabiedrībā ar ierobežotu atbildību, ja tās atbilst Gada pārskatu un konsolidēto gada pārskatu likumā noteiktajiem lielas sabiedrības kritērijiem, nominēšanas procesā papildus piesaista personāla atlases konsultantu.
 (4) Par valdes vai padomes locekļa kandidātu nedrīkst izvirzīt personu:
 1) kurai nav augstākās izglītības;
 2) kura ir sodīta par tīšu noziedzīgu nodarījumu, ja sodāmība par to nav noņemta vai dzēsta;

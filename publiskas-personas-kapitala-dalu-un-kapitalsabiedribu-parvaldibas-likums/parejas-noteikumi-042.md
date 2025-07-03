@@ -1,1 +1,0 @@
-42. Līdz 2026. gada 31. decembrim kapitāla daļu turētāja pārstāvim ir tiesības neveidot padomi no valsts atkarīgā nekomerciālā publiskas personas kapitālsabiedrībā, ja tam piekrīt Ministru kabinets. Ministru kabinets izvērtē kapitāla daļu turētāja pārstāvja sniegto pamatojumu, kā arī apliecinājumu par šā likuma 66. panta trešajā daļā noteiktā pienākuma pienācīgu izpildi.
