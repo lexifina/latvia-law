@@ -2,8 +2,8 @@
 (2) Ja kredītiestāde nepilda šā likuma 79., 89.¹, 89.², 90., 91., 95. un 96.panta prasības, Latvijas Banka ir tiesīga uzlikt kredītiestādei soda naudu no 1400 līdz 14 200 euro.
 (3) (Izslēgta ar 24.05.2012. likumu)
 (4) (Izslēgta ar 24.04.2014. likumu)
-(5) Par tāda patērētāja kreditēšanas līguma slēgšanu, kurā kredīta summa ir vienāda ar 100 minimālajām mēnešalgām vai lielāka, ja nav saņemta Valsts ieņēmumu dienesta vai citas valsts nodokļu administrācijas izziņa par patērētāja ienākumiem, Latvijas Banka kredītiestādei uzliek soda naudu - 1400 euro. Par tādām pašām darbībām, ja tās izdarītas atkārtoti gada laikā pēc minētās soda naudas uzlikšanas, Latvijas Banka kredītiestādei uzliek soda naudu - 4300 euro.
-(6) Par tāda kredīta izsniegšanu, kura summa ir vienāda ar 100 minimālajām mēnešalgām vai lielāka un kura atmaksa nodrošināta ar nekustamā īpašuma hipotēku, vairāk nekā 90 procentu apmērā no attiecīgā nekustamā īpašuma tirgus vērtības Latvijas Banka kredītiestādei uzliek soda naudu - 1400 euro. Par tādām pašām darbībām, ja tās izdarītas atkārtoti gada laikā pēc minētās soda naudas uzlikšanas, Latvijas Banka kredītiestādei uzliek soda naudu - 4300 euro.
+(5) (Izslēgta ar 12.06.2025. likumu)
+(6) (Izslēgta ar 12.06.2025. likumu)
 (7) (Izslēgta ar 29.05.2008. likumu; grozījums par panta izslēgšanu stājas spēkā 23.07.2008. Skat. Pārejas noteikumu 33.punktu).
 (8) (Izslēgta ar 24.04.2014. likumu)
 (9) (Izslēgta ar 24.04.2014. likumu)

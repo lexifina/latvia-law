@@ -14,8 +14,10 @@
 1) ārpakalpojumu sniedzējam, ja šīs ziņas ir nepieciešamas ārpakalpojuma saņemšanai;
 2) personai, kura kredītiestādei sniedz pakalpojumu, kas saistīts ar:
 a) kredītiestādes darbībai piemītošo un varbūtējo risku identificēšanu, novērtēšanu, pārvaldīšanu un uzraudzību,
-b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievērošanu.
-3) zvērinātam advokātam vai zvērinātu advokātu birojam juridiskās palīdzības saņemšanai kredītiestādes tiesību un likumisko interešu aizsardzībai.
+b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievērošanu;
+3) zvērinātam advokātam vai zvērinātu advokātu birojam juridiskās palīdzības saņemšanai kredītiestādes tiesību un likumisko interešu aizsardzībai;
+4) kredītiestādes uzņēmuma ieguvējam un potenciālajam ieguvējam uzņēmuma pārejas priekšlikuma izvērtēšanai;
+5) ienākumus nenesošu kreditēšanas līgumu portfeļa potenciālajam ieguvējam (kredītu pircējam Parādu ārpustiesas atgūšanas likuma izpratnē) vai tā pārstāvim ienākumus nenesošu kreditēšanas līgumu portfeļa izvērtēšanai.
 (9¹) Kredītiestāde neizpaužamās ziņas citām personām sniedz, ja to nosaka Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likums.
 (9²) Kredītiestāde neizpaužamās ziņas citām personām sniedz, ja to nosaka Maksājumu pakalpojumu un elektroniskās naudas likums.
 (10) Pirms ziņu sniegšanas šā panta astotajā daļā noteiktajos gadījumos kredītiestāde pārliecinās par attiecīgo ziņu aizsardzību pret izpaušanu.
