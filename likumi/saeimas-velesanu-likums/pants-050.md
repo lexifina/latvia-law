@@ -1,1 +1,1 @@
-50. pants. Desmit dienas pēc jaunievēlētās Saeimas sanākšanas vēlēšanu zīmes iznīcināmas, bet pēc vēlēšanu rezultātu publicēšanas šā likuma 49.pantā noteiktajā kārtībā visi vēlēšanu komisiju protokoli nododami Valsts arhīvam.
+50. pants. Desmit dienas pēc jaunievēlētās Saeimas sanākšanas vēlēšanu zīmes iznīcināmas, bet pēc vēlēšanu rezultātu publicēšanas šā likuma 49.pantā noteiktajā kārtībā visi vēlēšanu komisiju protokoli nododami Latvijas Nacionālajam arhīvam.

@@ -1,3 +1,3 @@
-19. pants. (1) Vēlēšanu laikā kārtību vēlēšanu telpās nodrošina vēlēšanu iecirkņa komisijas priekšsēdētājs. Viņš uzrauga, lai vēlēšanu telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana, tai skaitā kavēšana realizēt vēlēšanu tiesības, kārtības traucēšana un aģitācija.
-(2) Vēlēšanu iecirkņa komisijas priekšsēdētājs atbild par vēlēšanu dokumentu, materiālu un attiecīgajai iecirkņa komisijai nodotās mantas uzraudzību un glabāšanu.
-(3) Konstatējis pazīmes, kas var liecināt par šā panta pirmajā daļā minētajiem pārkāpumiem, vēlēšanu iecirkņa komisijas priekšsēdētājs nekavējoties ziņo par to kompetentajai institūcijai.
+19. pants. (1) Vēlēšanu laikā kārtību vēlēšanu telpās nodrošina iecirkņa komisijas priekšsēdētājs. Viņš uzrauga, lai vēlēšanu telpās un tuvāk par 50 metriem no ieejas ēkā, kurā atrodas vēlēšanu iecirknis, nenotiktu vēlēšanu brīvības ierobežošana, tai skaitā kavēšana realizēt vēlēšanu tiesības, kārtības traucēšana un aģitācija.
+(2) Iecirkņa komisijas priekšsēdētājs atbild par vēlēšanu dokumentu, materiālu un attiecīgajai iecirkņa komisijai nodotās mantas uzraudzību un glabāšanu.
+(3) Konstatējis pazīmes, kas var liecināt par šā panta pirmajā daļā minētajiem pārkāpumiem, iecirkņa komisijas priekšsēdētājs nekavējoties ziņo par to kompetentajai institūcijai.

@@ -1,0 +1,1 @@
+14. No dienas, kad stājas spēkā grozījumi šā likuma 12. panta pirmajā daļā par drošības naudas noteikšanu 11 minimālo mēnešalgu apmērā, līdz 2026. gada 4. oktobrim Centrālā vēlēšanu komisija Saeimas vēlēšanām reģistrē tikai tādus kandidātu sarakstus, kuru iesniedzēji ir iemaksājuši Centrālās vēlēšanu komisijas depozītā drošības naudu sešu minimālo mēnešalgu apmērā.

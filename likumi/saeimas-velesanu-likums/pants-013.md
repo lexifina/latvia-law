@@ -6,7 +6,7 @@ b) kandidāts ir persona, kura nav šā likuma 6.panta pirmajā daļā noteiktaj
 c) viena un tā pati persona pieteikta dažādu nosaukumu kandidātu sarakstos vai viena nosaukuma kandidātu sarakstā dažādos vēlēšanu apgabalos (10.panta trešā daļa),
 d) kandidāts miris;
 2) izdarot tehniska rakstura labojumus.
-(3) Šā panta otrās daļas 1.punkta "a" un "d" apakšpunktā noteiktajos gadījumos kandidāts svītrojams, pamatojoties uz attiecīgās iestādes izdotu izziņu vai tiesas spriedumu. To, ka kandidāts:
+(3) Šā panta otrās daļas 1.punkta "a" un "d" apakšpunktā noteiktajos gadījumos kandidāts svītrojams, pamatojoties uz attiecīgās iestādes sniegtu informāciju vai tiesas spriedumu. To, ka kandidāts:
 1) nav Latvijas pilsonis vai ir Latvijas pilsonis, kurš vēlēšanu dienā nav vecāks par 21 gadu, - apliecina Pilsonības un migrācijas lietu pārvalde;
 2) izcieš sodu brīvības atņemšanas vietā, - apliecina Iekšlietu ministrijas Informācijas centrs;
 3) ir bijis sodīts par tīšu noziedzīgu nodarījumu un sodāmība nav dzēsta vai noņemta, - apliecina Iekšlietu ministrijas Informācijas centrs;

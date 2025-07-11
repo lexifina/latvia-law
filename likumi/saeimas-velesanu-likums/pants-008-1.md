@@ -1,0 +1,2 @@
+8.¹ pants. (1) Valsts digitālās attīstības aģentūra nodrošina tehnoloģisko risinājumu atbilstoši šim likumam un Centrālās vēlēšanu komisijas norādījumiem par procesiem, funkcijām, uzdevumiem un mērķiem Saeimas vēlēšanu organizēšanai.
+(2) Ministru kabinets nosaka iestādes, kurām ir pienākums sniegt datus Valsts digitālās attīstības aģentūrai tās pārziņā esošā tehnoloģiskā risinājuma darbības nodrošināšanai, kā arī datu sniegšanas kārtību un apjomu.

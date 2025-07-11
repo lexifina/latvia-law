@@ -1,1 +1,1 @@
-17. pants. Vēlēšanas notiek no pulksten 7 rītā līdz pulksten 8 vakarā pēc vietējā laika oktobra mēneša pirmajā sestdienā. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumā notiek citā gada laikā, vēlēšanu dienu nosaka Centrālā vēlēšanu komisija.
+17. pants. Vēlēšanas notiek no pulksten 8.00 līdz 20.00 oktobra pirmajā sestdienā. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumā notiek citā gada laikā, vēlēšanu dienu nosaka Centrālā vēlēšanu komisija.

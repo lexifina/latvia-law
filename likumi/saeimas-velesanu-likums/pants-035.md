@@ -1,3 +1,3 @@
-35. pants. (1) Centrālās vēlēšanu komisijas noteiktajā kārtībā iecirkņa komisija saskaita katra kandidāta saņemto vēlētāju izdarīto atzīmju skaitu. Attiecībā uz katru kandidātu saskaita, cik vēlēšanu zīmēs vēlētāji pretī kandidāta uzvārdam izdarījuši atzīmi "+" un cik vēlēšanu zīmēs vēlētāji svītrojuši kandidāta vārdu vai uzvārdu.
+35. pants. (1) Centrālās vēlēšanu komisijas noteiktajā kārtībā iecirkņa komisija saskaita katra kandidāta saņemto vēlētāju izdarīto atzīmju skaitu. Attiecībā uz katru kandidātu saskaita, cik vēlēšanu zīmēs vēlētāji pretī kandidāta uzvārdam izdarījuši atzīmi "par" un cik - atzīmi "pret".
 (2) Katra kandidāta saņemto atzīmju skaitu iecirkņa komisija ieraksta vēlēšanu gaitas žurnālā. Pēc skaitīšanas pabeigšanas tā sagatavo balsu skaitīšanas protokola otro daļu.
 (3) Pēc balsu skaitīšanas rezultātu apstiprināšanas iecirkņa komisija tos paziņo klātesošajiem pilnvarotajiem novērotājiem un plašsaziņas līdzekļu pārstāvjiem.
