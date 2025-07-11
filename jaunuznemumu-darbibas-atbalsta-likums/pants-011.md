@@ -2,7 +2,7 @@
 (1) Jaunuzņēmums nav tiesīgs saņemt atbalstu par darba ņēmēju, par kuru tam vai citam jaunuzņēmumam atbalsta periodā ir piešķirts šajā likumā minētais atbalsts.
 (2) Atbalsta periodā jaunuzņēmums var pieteikties uz papildu atbalstu, kas noteikts šā likuma 6. un 7. pantā, bet nevar to izmantot ilgāk kā līdz tā atbalsta perioda beigām, par kuru iepriekš ir lēmusi Komisija.
 (2¹) Jaunuzņēmums var pieteikties atbalstam atkārtoti, ja ir izpildījis visus šajā likumā noteiktos pienākumus iepriekšējā atbalsta saņemšanas periodā.
-(2²) Ja jaunuzņēmums atkārtoti piesakās atbalstam, Komisija vērtē jaunuzņēmuma atbilstību šā likuma 4. panta un Komisijas regulas Nr. 1407/2013 prasībām.
+(2²) (Izslēgta ar 12.06.2025. likumu)
 (2³) Atkārtoti piesakoties atbalstam, jaunuzņēmums var pamatot savu atbilstību šā likuma 4. panta pirmās daļas 1. punkta prasībai par agrīnās stadijas riska kapitāla ieguldījumu, ar ko tas ir kvalificējies atbalstam iepriekš, ja atbalsts tiek pieprasīts par periodu, kas nepārsniedz 24 mēnešus no dienas, kad pieņemts iepriekšējais lēmums par atbalsta piešķiršanu.
 (2⁴) Ja jaunuzņēmums atkārtoti piesakās atbalsta programmām, atbalsta periods nav ilgāks par pieciem gadiem no pirmreizējās atbalsta piešķiršanas dienas.
-(3) Šā likuma 6., 7. un 8. pantā noteiktais atbalsts netiek sniegts Komisijas regulas Nr. 1407/2013 1. panta 1. punktā minētajām nozarēm un darbībām. Ja jaunuzņēmums vienlaikus darbojas vienā vai vairākās nozarēs vai veic citas darbības, kas ietilpst Komisijas regulas Nr. 1407/2013 darbības jomā, de minimis atbalsta saņēmējs nodrošina šo nozaru un darbību vai to izmaksu nodalīšanu saskaņā ar Komisijas regulas Nr. 1407/2013 1. panta 2. punktu.
+(3) (Izslēgta ar 12.06.2025. likumu)

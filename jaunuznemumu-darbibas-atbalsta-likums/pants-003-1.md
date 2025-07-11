@@ -1,0 +1,4 @@
+3.¹ pants. Jaunuzņēmumu komercdarbības vides pilnveidošana
+(1) Jaunuzņēmumus pārstāvošo organizāciju iesaisti jaunuzņēmuma izveides popularizācijā un tādu aktivitāšu īstenošanā, kuras veicina jaunuzņēmumu komercdarbības vides pilnveidošanu, nodrošina atbilstoši šā panta trešajā daļā minētajiem Ministru kabineta noteikumiem.
+(2) Šā panta pirmajā daļā minēto aktivitāšu īstenošanai Ekonomikas ministrija slēdz līgumus ar jaunuzņēmumus pārstāvošajām organizācijām atbilstoši šā panta pirmajā daļā minētajam mērķim piešķirtajiem valsts budžeta līdzekļiem.
+(3) Ministru kabinets nosaka atbalstāmos pasākumus jaunuzņēmumu komercdarbības vides pilnveidošanai, to izpildes nosacījumus un īstenošanas kārtību, jaunuzņēmumus pārstāvošo organizāciju kvalifikācijas nosacījumus līgumu slēgšanai, jaunuzņēmumus pārstāvošajām organizācijām piemērojamā komercdarbības atbalsta piešķiršanas nosacījumus un atbalstāmo pasākumu īstenošanai pieejamā valsts finansējuma apmēru.
