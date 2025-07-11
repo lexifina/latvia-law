@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 8. jūlija noteikumi Nr. 417 \"Grozījumi Ministru kabineta 2014. gada 8. jūlija noteikumos Nr. 388 \"Elektrisko un elektronisko iekārtu kategorijas un marķēšanas prasības un šo iekārtu atkritumu apsaimniekošanas prasības un kārtība\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "130",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-10",
+  "entry_into_force": "2025-07-11",
+  "notification_date": "2025-12-10",
+  "commission_reference": "MNE(2025)06872",
+  "nim_celex": "72024L0884LVA_202506872",
+  "nim_id": "202506872",
+  "transposes_celex": [
+    "32024L0884"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/4871deac-2dd8-4323-b3d7-651c82ff1df7",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
