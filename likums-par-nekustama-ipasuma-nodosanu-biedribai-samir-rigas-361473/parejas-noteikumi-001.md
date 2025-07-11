@@ -1,0 +1,1 @@
+1. Biedrība "Šamir" ne vēlāk kā triju mēnešu laikā pēc šā likuma stāšanās spēkā izstrādā un iesniedz Kultūras ministrijai Rīgas geto un Latvijas holokausta muzeja un nekustamā īpašuma izmantošanas un attīstīšanas koncepciju, tai skaitā nekustamā īpašuma izmantošanas izmaksu un ieguvumu analīzi.
