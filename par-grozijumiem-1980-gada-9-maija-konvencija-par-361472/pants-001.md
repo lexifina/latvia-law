@@ -1,0 +1,1 @@
+1. pants. Grozījumi 1980. gada 9. maija Konvencijā par starptautiskajiem dzelzceļa pārvadājumiem (COTIF), kas grozīta ar 1999. gada 3. jūnija Viļņas protokolu, kuri pieņemti Starptautiskās dzelzceļa pārvadājumu starpvaldību organizācijas (OTIF) 12. Ģenerālajā asamblejā (turpmāk - Grozījumi), ar šo likumu tiek pieņemti un apstiprināti.
