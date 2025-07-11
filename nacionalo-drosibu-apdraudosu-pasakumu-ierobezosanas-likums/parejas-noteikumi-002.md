@@ -1,0 +1,1 @@
+Šā likuma 2. panta otrās daļas 3. punktā noteikto ierobežojumu attiecībā uz Nodokļu un muitas policiju piemēro no 2026. gada 1. janvāra. Līdz 2025. gada 31. decembrim minētais ierobežojums attiecināms uz Valsts ieņēmumu dienesta nodokļu un muitas policiju.
