@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 1. jūlija noteikumi Nr. 400 \"Gada pārskata sagatavošanas kārtība\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2025/132.6",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-14",
+  "entry_into_force": "2025-07-15",
+  "notification_date": "2026-01-27",
+  "commission_reference": "MNE(2026)00760",
+  "nim_celex": "72024L1265LVA_202600760",
+  "nim_id": "202600760",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/bf5b5979-b6d2-44d9-a287-4eff4c35b189",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
