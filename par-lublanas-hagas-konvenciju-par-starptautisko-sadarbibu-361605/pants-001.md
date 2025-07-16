@@ -1,0 +1,1 @@
+1. pants. Ļubļanas-Hāgas Konvencija par starptautisko sadarbību genocīda noziegumu, noziegumu pret cilvēci, kara noziegumu un citu starptautisko noziegumu izmeklēšanā un kriminālvajāšanā (turpmāk - Konvencija) ar šo likumu tiek pieņemta un apstiprināta.
