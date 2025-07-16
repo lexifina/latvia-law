@@ -1,0 +1,1 @@
+14. Ja šā likuma 13.¹ panta pirmajā daļā minēto maksājumu parādi radušies līdz 2025. gada 31. decembrim, tad šā panta noteikumi par dzīvokļa īpašuma ieguvēja atbildību par maksājumu parādu segšanu piemērojami tikai tad, ja attiecīgo maksājumu nav veicis iepriekšējais dzīvokļa īpašnieks.

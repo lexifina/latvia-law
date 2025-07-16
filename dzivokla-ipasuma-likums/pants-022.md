@@ -1,2 +1,2 @@
 22. pants. Lēmumu pieņemšanas kārtība atsevišķā dzīvojamā mājā
-Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, šā likuma 11. panta trešajā daļā un 11.¹ pantā minētos jautājumus izlemj, ievērojot šā likuma 17., 18., 19., 20. un 21. panta noteikumus. Lēmuma pieņemšanai nepieciešamo balsu skaitu aprēķina, ņemot vērā atsevišķā dzīvojamā mājā esošo dzīvokļu īpašumu skaitu.
+Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, šā likuma 11. panta trešajā daļā un 11.¹ pantā minētos jautājumus izlemj, ievērojot šā likuma 17., 18., 19., 19.¹, 20., 20.² un 21. panta noteikumus. Lēmuma pieņemšanai nepieciešamo balsu skaitu aprēķina, ņemot vērā atsevišķā dzīvojamā mājā esošo dzīvokļu īpašumu skaitu.
