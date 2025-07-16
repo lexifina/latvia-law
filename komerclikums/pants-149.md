@@ -3,7 +3,7 @@
 (2) Pieteikumu paraksta visi dibinātāji.
 (3) Pieteikumam pievieno:
 1) dibināšanas dokumentus;
-2) maksājumu pakalpojuma sniedzēja izziņu vai citu dokumentu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā);
+2) maksājumu pakalpojuma sniedzēja izziņu vai citu dokumentu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā un naudas ieguldījumi pārsniedz 50 000 euro);
 3) dokumentus, kas apliecina katra mantiskā ieguldījuma priekšmeta novērtējumu un tā nodošanu sabiedrībai (ja tiek izdarīts mantiskais ieguldījums);
 4) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);
 5) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Ja līdz sabiedrības ierakstīšanai komercreģistrā mainās tās firma, rakstveida piekrišana atkārtoti nav jāiesniedz;
@@ -12,3 +12,4 @@
 8) (izslēgts ar 16.03.2006. likumu);
 9) dalībnieku (akcionāru) reģistra pirmo nodalījumu;
 10) centrālā vērtspapīru depozitārija izsniegtu apliecinājumu par dematerializēto akciju iegrāmatošanu.
+(4) Ja pamatkapitāls apmaksāts ar naudas ieguldījumu, kas nepārsniedz 50 000 euro, pieteikumā dibinātāji apliecina, ka uz dibināmās sabiedrības vārda ir atvērts maksājumu konts un tajā ir veikta pamatkapitāla apmaksa.
