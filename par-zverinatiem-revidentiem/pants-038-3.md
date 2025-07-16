@@ -1,6 +1,2 @@
-38.³ pants. Lēmumu publicēšana
-(1) Finanšu ministrija informāciju par personām piemērotajām šā likuma 38.² panta ceturtajā daļā minētajām sankcijām un uzraudzības pasākumiem ievieto savā mājaslapā internetā, norādot par pārkāpumu atbildīgo personu (zvērināta revidenta vārds, uzvārds, sertifikāta numurs un zvērinātu revidentu komercsabiedrības nosaukums, reģistrācijas numurs un licences numurs), pārkāpuma veidu un būtību un Finanšu ministrijas piemēroto sankciju vai uzraudzības pasākumu, kā arī ziņas par izdotā administratīvā akta lēmuma pārsūdzēšanu un pieņemto tiesas nolēmumu.
-(2) Šā panta pirmajā daļā minēto informāciju Finanšu ministrija ievieto savā mājaslapā internetā piecu darbdienu laikā no dienas, kad beidzies akta (lēmuma) pārsūdzēšanas termiņš un tas nav pārsūdzēts.
-(3) Šā panta pirmajā daļā minēto informāciju Finanšu ministrija publisko, neidentificējot personu, ja pēc iepriekšēja izvērtējuma veikšanas konstatē, ka tās fiziskās personas datu atklāšana, kurai piemērota sankcija vai uzraudzības pasākums, nav samērīga vai ka fiziskās vai juridiskās personas datu atklāšana var apdraudēt finanšu tirgus stabilitāti vai uzsākta kriminālprocesa norisi vai radīt nesamērīgu kaitējumu iesaistītajām personām.
-(4) Ja paredzams, ka šā panta trešajā daļā minētie apstākļi saprātīgā laikposmā var izbeigties, šā panta pirmajā daļā minētās informācijas publiskošanu var atlikt uz šādu laikposmu.
-(5) Šajā pantā noteiktajā kārtībā Finanšu ministrijas mājaslapā internetā ievietotā informācija ir pieejama vismaz piecus gadus no tās pirmreizējās ievietošanas dienas.
+38.³ pants. Finanšu ministrijas brīdinājums
+Brīdinājums ir par pārkāpumu atbildīgās fiziskās vai juridiskās personas izdarīta pārkāpuma nosodījums, kuru izsaka rakstveidā.

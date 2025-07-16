@@ -4,9 +4,9 @@
 1) citas dalībvalsts reģistrā ierakstītas revidentu komercsabiedrības licences saņemšanas (reģistrācijas) iesniegums, kurā iekļauts arī apliecinājums, ka personām, kuras minētās komercsabiedrības vārdā sniegs revidenta ziņojumu par klienta gada pārskatu un konsolidēto gada pārskatu revīziju (pārbaudi), ir izsniegts citas dalībvalsts revidenta sertifikāts un ka šo personu profesionālā kvalifikācija ir atzīta šā likuma 13.pantā noteiktajā kārtībā;
 2) attiecīgās dalībvalsts kompetentās iestādes izdots dokuments par to, ka šī revidentu komercsabiedrība ir ierakstīta šīs dalībvalsts attiecīgajā revidentu komercsabiedrību reģistrā.
 (3) Piecu darbdienu laikā pēc šā panta otrajā daļā minēto dokumentu saņemšanas Finanšu ministrija tos izskata un elektroniski informē citas dalībvalsts reģistrā ierakstīto revidentu komercsabiedrību attiecīgi par to, ka:
-1) zvērinātu revidentu komercsabiedrības licence vai motivēts atteikums tiks izsniegts (nosūtīts) 30 dienu laikā;
-2) nav iesniegts šā panta otrās daļas 2.punktā minētais dokuments un ka zvērinātu revidentu komercsabiedrības licence vai motivēts atteikums tiks izsniegts (nosūtīts) šīs daļas 1.punktā minētajā termiņā tikai pēc visas šā panta otrajā daļā minētās informācijas saņemšanas.
-(4) Ja ir saņemta visa šā panta otrajā daļā minētā informācija, Finanšu ministrija 30 dienu laikā izskata minētos dokumentus un sagatavo atzinumu par citas dalībvalsts reģistrā ierakstītas revidentu komercsabiedrības atzīšanu par līdzvērtīgu zvērinātu revidentu komercsabiedrībai.
+1) zvērinātu revidentu komercsabiedrības licence vai atteikums tiks izsniegts (nosūtīts) mēneša laikā;
+2) nav iesniegts šā panta otrās daļas 2.punktā minētais dokuments un ka zvērinātu revidentu komercsabiedrības licence vai atteikums tiks izsniegts (nosūtīts) šīs daļas 1.punktā minētajā termiņā tikai pēc visas šā panta otrajā daļā minētās informācijas saņemšanas.
+(4) Ja ir saņemta visa šā panta otrajā daļā minētā informācija, Finanšu ministrija izskata minētos dokumentus un sagatavo atzinumu par citas dalībvalsts reģistrā ierakstītas revidentu komercsabiedrības atzīšanu par līdzvērtīgu zvērinātu revidentu komercsabiedrībai.
 (5) Finanšu ministrija, ja nepieciešams, sadarbojas ar attiecīgās dalībvalsts kompetento iestādi, lai noskaidrotu ar šā panta otrajā daļā minēto informāciju saistītos apstākļus.
 (6) Ja tiek atzīts, ka citas dalībvalsts reģistrā ierakstīta revidentu komercsabiedrība ir līdzvērtīga zvērinātu revidentu komercsabiedrībai, Finanšu ministrija sagatavo un piecu darbdienu laikā nosūta atzinumu:
 1) šai komercsabiedrībai;

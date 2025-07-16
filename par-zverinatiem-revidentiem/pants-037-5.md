@@ -5,5 +5,5 @@
 2) 10 darbdienu laikā no dienas, kad saņemts šā likuma 29.panta 3.¹ vai 3.³ daļā minētais ziņojums par revīzijas pakalpojumu līguma izbeigšanu pirms termiņa beigām, saskaņā ar regulas Nr. 537/2014 19.panta prasībām par to rakstveidā paziņo Finanšu ministrijai;
 3) nekavējoties rakstveidā paziņo Finanšu ministrijai par Latvijas Bankas kā kompetentās iestādes veiktajā uzraudzības procesā konstatētajiem šā likuma un regulas Nr. 537/2014 prasību iespējamiem pārkāpumiem, kuros ir iesaistīts sabiedriskas nozīmes struktūras ieceltais zvērināts revidents vai zvērinātu revidentu komercsabiedrība;
 4) ne vēlāk kā līdz nākamā gada 1.februārim apkopo un iesniedz Finanšu ministrijai rakstveida informāciju par iepriekšējā gadā veiktajiem pasākumiem un izdotajiem administratīvajiem aktiem, kas saistīti ar šīs daļas 1.punktā minēto uzraudzību.
-(3) Latvijas Banka ir tiesīga izdot normatīvos noteikumus par regulas Nr. 537/2014 III nodaļas 16., 17. un 19.panta ievērošanas kārtību.
+(3) Latvijas Banka ir tiesīga izdot noteikumus par regulas Nr. 537/2014 III nodaļas 16., 17. un 19.panta ievērošanas kārtību.
 (4) Regulas Nr. 537/2014 8.panta 5.punkta "g" apakšpunktā minētās kompetentās iestādes ir Finanšu ministrija un Latvijas Banka.

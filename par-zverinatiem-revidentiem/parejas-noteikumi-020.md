@@ -1,1 +1,1 @@
-20. Finanšu un kapitāla tirgus komisija saskaņā ar Finanšu un kapitāla tirgus komisijas likuma 17.¹ panta otro daļu līdz 2018.gada 1.janvārim izdod ieteikumus (vadlīnijas) par šā likuma 37.¹⁰ pantā minēto sankciju un uzraudzības pasākumu piemērošanu un ievieto tos savā mājaslapā internetā.
+20. Finanšu un kapitāla tirgus komisija saskaņā ar Finanšu un kapitāla tirgus komisijas likuma 17.¹ panta otro daļu līdz 2018.gada 1.janvārim izdod ieteikumus (vadlīnijas) par šā likuma 37.¹⁰ pantā minēto sankciju un uzraudzības pasākumu piemērošanu un ievieto tos savā tīmekļvietnē.

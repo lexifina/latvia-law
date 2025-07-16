@@ -1,0 +1,1 @@
+35. Šā likuma 8.¹ panta trešajā daļā minētā prasība par apmācībām un šā panta piektajā daļā noteiktā prasība iesniegt apmācību pabeigšanu apliecinošu dokumentu attiecināma uz zvērinātu revidentu kvalifikācijas eksāmenu sesiju, kas sākas 2025. gada 1. augustā.

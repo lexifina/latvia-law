@@ -1,0 +1,1 @@
+37. Latvijas Zvērinātu revidentu asociācija četru mēnešu laikā pēc šā likuma 38.¹³ panta spēkā stāšanās izstrādā un iesniedz Finanšu ministrijai saskaņošanai šā likuma 38.¹³ panta sestajā daļā minēto nolikumu.

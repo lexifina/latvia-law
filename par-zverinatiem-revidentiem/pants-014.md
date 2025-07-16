@@ -1,5 +1,5 @@
 14.pants. Zvērinātu revidentu kvalifikācijas eksāmenu saturs
-(1) Zvērinātu revidentu kvalifikācijas eksāmenu priekšmetu programmās ietverami jautājumi un uzdevumi, kas tieši saistīti ar gada pārskatu un konsolidēto gada pārskatu pārbaudēm vai saistīti ar tām netieši, ciktāl tie attiecināmi uz šādām pārbaudēm, un kas ļauj konstatēt pretendenta zināšanas šādās jomās:
+(1) Zvērinātu revidentu kvalifikācijas eksāmenu priekšmetu programmās ietverami jautājumi un uzdevumi, kas tieši saistīti ar gada pārskatu un konsolidēto gada pārskatu revīziju (pārbaudi) vai saistīti ar to netieši, ciktāl tie attiecināmi uz revīzijas pakalpojumu sniegšanu, un kas ļauj konstatēt pretendenta zināšanas šādās jomās:
 1) revīzijas teorija un tehnika, starptautiskie revīzijas standarti;
 2) gada pārskatu un konsolidēto gada pārskatu sagatavošana un analīze, grāmatvedības metodes un novērtēšanas noteikumi;
 3) finanšu un vadības grāmatvedība;
@@ -14,7 +14,7 @@
 12) matemātika un statistika;
 13) starptautiskie grāmatvedības standarti;
 14) profesionālā ētika un neatkarība.
-(2) Zvērinātu revidentu kvalifikācijas eksāmena ilgtspējas jomā programmā ietverami jautājumi un uzdevumi, kas tieši saistīti ar ilgtspējas ziņojuma apliecinājumu un citiem ar ilgtspēju saistītiem pakalpojumiem un kas ļauj konstatēt pretendenta zināšanas šādās jomās:
+(2) Kvalifikācijas eksāmena ilgtspējas jomā programmā ietverami jautājumi un uzdevumi, kas tieši saistīti ar ilgtspējas ziņojuma apliecinājumu un citiem ar ilgtspēju saistītiem pakalpojumiem un kas ļauj konstatēt pretendenta zināšanas šādās jomās:
 1) tiesību regulējums un standarti attiecībā uz ilgtspējas ziņojuma un konsolidētā ilgtspējas ziņojuma saturu un sagatavošanu;
 2) ilgtspējas analīze;
 3) rūpības pienākuma procesi saistībā ar ilgtspējas jautājumiem;

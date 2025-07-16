@@ -1,28 +1,9 @@
-38.² pants. Sankcijas un uzraudzības pasākumi, administratīvo aktu izdošana un pārsūdzēšana
-(1) Finanšu ministrija izdod administratīvos aktus (lēmumus) par sankciju un uzraudzības pasākumu piemērošanu šajā pantā noteiktajos gadījumos zvērinātiem revidentiem un zvērinātu revidentu komercsabiedrībām, kas sniedz revīzijas pakalpojumus sabiedriskas nozīmes struktūrām. Kārtību, kādā Finanšu ministrija izdod administratīvos aktus (lēmumus), nosaka administratīvo aktu izdošanas kārtību reglamentējoši normatīvie akti.
-(2) Finanšu ministrijas administratīvo aktu (lēmumu), kas izdots saistībā ar šajā pantā minētajām sankcijām vai uzraudzības pasākumiem, var pārsūdzēt Administratīvajā apgabaltiesā. Administratīvā apgabaltiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.
-(3) Finanšu ministrijas administratīvā akta (lēmuma), kas izdots saistībā ar šajā pantā minētajām sankcijām un uzraudzības pasākumiem, pārsūdzēšana neaptur šā akta (lēmuma) darbību.
-(4) Par šā likuma un regulas Nr. 537/2014 prasību neievērošanu Finanšu ministrija ir tiesīga piemērot vienu vai vairākas šādas sankcijas vai uzraudzības pasākumus:
-1) izteikt brīdinājumu;
-2) pieprasīt, lai zvērināts revidents vai zvērinātu revidentu komercsabiedrība nekavējoties pārtrauc darbības, kas uzskatāmas par tādām darbībām, kuru rezultātā tiek vai varētu tikt pārkāptas zvērinātu revidentu profesionālo darbību reglamentējošu normatīvo aktu un regulas Nr. 537/2014 prasības;
-3) aizliegt zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai atbildīgajam zvērinātam revidentam uz laiku līdz trim gadiem sniegt revīzijas pakalpojumus un parakstīt revidenta ziņojumu;
-3¹) aizliegt zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai, atbildīgajam zvērinātam revidentam vai galvenajam ilgtspējas revidentam uz laiku līdz trim gadiem sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumus un parakstīt apliecinājuma ziņojumus par ilgtspējas ziņojumu;
-4) publicēt Finanšu ministrijas mājaslapā internetā publisku paziņojumu par to, ka parakstītais revidenta ziņojums neatbilst šajā likumā noteiktajam revidenta ziņojuma saturam un regulas Nr. 537/2014 10.pantā noteiktajām revīzijas ziņojuma prasībām;
-4¹) publicēt Finanšu ministrijas tīmekļvietnē publisku paziņojumu par to, ka parakstītais apliecinājuma ziņojums par ilgtspējas ziņojumu neatbilst šā likuma 32.¹ panta prasībām;
-5) noteikt pagaidu aizliegumu zvērinātu revidentu komercsabiedrības pārvaldības struktūras loceklim, ja tas ir zvērināts revidents un ir atbildīgs par attiecīgo pārkāpumu, uz laiku līdz trim gadiem pildīt viņam noteiktos pienākumus šajā zvērinātu revidentu komercsabiedrībā;
-6) publicēt Finanšu ministrijas mājaslapā internetā informāciju, kurā norāda par pārkāpumu atbildīgo zvērinātu revidentu (zvērināta revidenta vārds, uzvārds un sertifikāta numurs) un atbildīgo zvērinātu revidentu komercsabiedrību (zvērinātu revidentu komercsabiedrības nosaukums un licences numurs), kā arī izdarītā pārkāpuma būtību;
-7) uzlikt par pārkāpumu atbildīgajam zvērinātam revidentam soda naudu līdz 7200 euro un par pārkāpumu atbildīgajai zvērinātu revidentu komercsabiedrībai - līdz 14 200 euro.
-(5) Pieņemot lēmumu par šā panta ceturtajā daļā minēto sankciju un uzraudzības pasākumu piemērošanu zvērinātiem revidentiem un zvērinātu revidentu komercsabiedrībām, Finanšu ministrija ņem vērā arī:
-1) pārkāpuma smagumu;
-2) pārkāpuma ilgumu;
-3) personas atbildības pakāpi;
-4) pārkāpuma rezultātā personas gūtos ienākumus, ciktāl tos var noteikt;
-5) pārkāpuma rezultātā radīto zaudējumu atlīdzināšanu, ciktāl tos var noteikt;
-6) personas sadarbību ar Finanšu ministriju pārkāpuma izmeklēšanā;
-7) personas finansiālo stāvokli: zvērinātu revidentu komercsabiedrībai - kopējo neto apgrozījumu iepriekšējā pārskata gadā, zvērinātam revidentam, kurš veic profesionālo darbību kā individuāls komersants vai pašnodarbināta persona, - kopējo apgrozījumu (ieņēmumus) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā;
-8) personas iepriekš izdarītos pārkāpumus profesionālo pakalpojumu sniegšanas jomā.
-(6) Finanšu ministrija izdod ieteikumus (vadlīnijas) par šā panta ceturtajā daļā minēto sankciju un uzraudzības pasākumu piemērošanu un ievieto tos savā mājaslapā internetā.
-(7) Finanšu ministrija nepiemēro šā panta ceturtajā daļā minētās sankcijas un uzraudzības pasākumus sakarā ar kriminālprocesu vai disciplinārlietu par to pašu pārkāpumu.
-(8) Finanšu ministrija mēneša laikā pēc katra kalendāra gada beigām sagatavo un nosūta Eiropas Revīzijas pārraudzības struktūru komitejai apkopotu informāciju par iepriekšējā gadā piemērotajām šā panta ceturtajā daļā minētajām sankcijām un uzraudzības pasākumiem, kā arī piemērotajām šā likuma 37.¹⁰ panta pirmajā, otrajā un trešajā daļā minētajām sankcijām un uzraudzības pasākumiem, norādot visas personas, kurām ir piemērotas sankcijas un uzraudzības pasākumi, un piemēroto sankciju un uzraudzības pasākumu veidu.
-(9) Finanšu ministrija nekavējoties informē Eiropas Revīzijas pārraudzības struktūru komiteju par šā panta ceturtās daļas 3., 3.¹ un 5.punktā minēto sankciju vai uzraudzības pasākumu piemērošanu, norādot personu, kurai sankcija vai uzraudzības pasākums ir piemērots, un piemērotās sankcijas vai uzraudzības pasākuma veidu, kā arī par šā likuma 37.¹⁰ panta otrās daļas 4.punktā un Finanšu instrumentu tirgus likuma 148.panta astoņpadsmitās daļas 3.punktā minētās sankcijas vai uzraudzības pasākuma piemērošanu, norādot personu, kurai šī sankcija vai uzraudzības pasākums ir piemērots, un piemērotās sankcijas vai uzraudzības pasākuma veidu.
-(10) Soda nauda, kas iekasēta par pārkāpumiem, par kuriem tā uzlikta saskaņā ar šā panta ceturtās daļas 7.punktu, tiek ieskaitīta valsts budžetā. Finanšu ministrijas uzlikto soda naudu persona samaksā ne vēlāk kā mēneša laikā no dienas, kad stājies spēkā Finanšu ministrijas lēmums par soda naudas uzlikšanu.
+38.² pants. Finanšu ministrijas piemērojamo sankciju veidi
+Finanšu ministrija var piemērot šādas sankcijas:
+1) brīdinājumu;
+2) publisku paziņojumu;
+3) naudas sodu;
+4) aizliegumu zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai vai atbildīgajam zvērinātam revidentam uz laiku līdz trim gadiem sniegt revīzijas pakalpojumus un parakstīt revidenta ziņojumu;
+5) aizliegumu zvērinātam revidentam, zvērinātu revidentu komercsabiedrībai, atbildīgajam zvērinātam revidentam vai galvenajam ilgtspējas revidentam uz laiku līdz trim gadiem sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumus un parakstīt apliecinājuma ziņojumus par ilgtspējas ziņojumu;
+6) aizliegumu sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumus (ieraksta Zvērinātu revidentu reģistrā par zvērināta revidenta tiesībām sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumu anulēšana, ieraksta Zvērinātu revidentu komercsabiedrību reģistrā par zvērinātu revidentu komercsabiedrības tiesībām sniegt ilgtspējas ziņojuma apliecinājuma pakalpojumu anulēšana);
+7) aizliegumu sniegt revīzijas pakalpojumus (zvērināta revidenta sertifikāta anulēšana, zvērinātu revidentu komercsabiedrības licences anulēšana).

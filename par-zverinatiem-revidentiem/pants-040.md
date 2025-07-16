@@ -1,3 +1,3 @@
 40.pants. Latvijas Zvērinātu revidentu asociācijas lēmumu apstrīdēšana un pārsūdzēšana
 (1) Sūdzības par Latvijas Zvērinātu revidentu asociācijas nelikumīgu vai statūtiem neatbilstošu darbību izskata tiesa.
-(2) Latvijas Zvērinātu revidentu asociācijas lēmumus, kas saistīti ar zvērinātu revidentu sertificēšanu, zvērinātu revidentu komercsabiedrību licencēšanu un citiem šajā likumā tai deleģētajiem uzdevumiem, var apstrīdēt Finanšu ministrijā. Finanšu ministrijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.
+(2) Latvijas Zvērinātu revidentu asociācijas lēmumus, kas saistīti ar zvērinātu revidentu sertificēšanu, zvērinātu revidentu komercsabiedrību licencēšanu un citiem šajā likumā tai deleģētajiem ar revīzijas pakalpojumu un ilgtspējas ziņojuma apliecinājuma pakalpojumu uzraudzību saistītajiem uzdevumiem, var apstrīdēt Finanšu ministrijā. Finanšu ministrijas lēmumu likumā noteiktajā kārtībā var pārsūdzēt tiesā.

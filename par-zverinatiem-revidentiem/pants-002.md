@@ -5,7 +5,7 @@
 (3) Likums nosaka:
 1) zvērināta revidenta sertifikāta un zvērinātu revidentu komercsabiedrības licences iegūšanas un reģistrēšanas kārtību;
 1¹) ilgtspējas ziņojuma apliecinājuma pakalpojuma sniegšanas tiesību piešķiršanu zvērinātam revidentam un zvērinātu revidentu komercsabiedrībai un šo tiesību reģistrēšanas kārtību;
-2) zvērinātu revidentu un zvērinātu revidentu komercsabiedrību neatkarības, objektivitātes un ētikas prasības, profesionālās darbības noteikumus un atbildību par šajā likumā un regulā Nr. 537/2014 noteikto prasību neievērošanu;
+2) zvērinātu revidentu un zvērinātu revidentu komercsabiedrību neatkarības, objektivitātes un profesionālās ētikas prasības, profesionālās darbības noteikumus un atbildību par šajā likumā un regulā Nr. 537/2014 noteikto prasību neievērošanu;
 3) revīzijas pakalpojumu saņēmēju tiesības un pienākumus;
 4) kompetentās iestādes zvērinātu revidentu un zvērinātu revidentu komercsabiedrību profesionālās darbības uzraudzības jomā, šo iestāžu un institūciju pienākumus un tiesības;
 5) sabiedriskas nozīmes struktūras revīzijas komitejas izveidošanas, darbības un uzraudzības tiesiskos pamatus;

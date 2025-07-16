@@ -1,0 +1,1 @@
+36. Šā likuma 1. panta 1.² daļas 5. punktā minētās licencētas maksājumu iestādes un elektroniskās naudas iestādes nodrošina atbilstību sabiedriskas nozīmes struktūrām noteiktajām prasībām, sākot ar 2026. pārskata gadu.
