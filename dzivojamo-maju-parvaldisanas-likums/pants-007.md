@@ -1,4 +1,4 @@
 7.pants. Dzīvojamās mājas pārvaldīšanas izdevumi
 Dzīvojamās mājas pārvaldīšanas izdevumi (turpmāk - pārvaldīšanas izdevumi) ir maksājumi par:
 1) dzīvojamās mājas pārvaldīšanas pakalpojumu, kas ietver šā likuma 6.panta otrajā daļā minētajām obligāti veicamajām pārvaldīšanas darbībām nepieciešamos izdevumus (turpmāk - obligātie izdevumi) un šā likuma 6.panta trešajā daļā minētajām pārvaldīšanas darbībām paredzētos izdevumus (turpmāk - citi ar dzīvojamās mājas pārvaldīšanu saistīti izdevumi), ja uzdotās pārvaldīšanas darbības nodrošina pārvaldnieks kā pakalpojuma sniedzējs, kā arī atlīdzība par pārvaldīšanu, ja tāda paredzēta dzīvojamās mājas pārvaldīšanas līgumā;
-2) tādiem obligātajiem izdevumiem un citiem ar dzīvojamās mājas pārvaldīšanu saistītiem izdevumiem, kurus pārvaldnieks saņem kā pilnvarotā persona, nekļūstot par pakalpojumu sniedzēju.
+2) tādiem obligātajiem izdevumiem un citiem ar dzīvojamās mājas pārvaldīšanu saistītiem izdevumiem, kurus pārvaldnieks kā pilnvarotā persona vai cita dzīvojamās mājas īpašnieka pilnvarota persona saņem, nekļūstot par pakalpojumu sniedzēju.
