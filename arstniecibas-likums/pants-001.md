@@ -5,7 +5,7 @@
 4) ārstniecības personas sertifikāts - Latvijas Ārstniecības personu profesionālo organizāciju savienības, Latvijas Ārstu biedrības vai Latvijas Māsu asociācijas izsniegts dokuments, kas apliecina attiecīgās personas profesionālo sagatavotību un norāda, ka ārstniecības persona kā speciālists ir kompetenta patstāvīgi nodarboties ar ārstniecību (speciālista praksi) konkrētajā nozarē;
 5) ārstniecības iestādes sertifikācija - neatkarīgas trešās personas darbība, apliecinot, ka ārstniecības iestāde, tās struktūrvienība vai sniegtie pakalpojumi atbilst attiecīgajā standartā noteiktajām prasībām;
 5¹) ārstniecisko un diagnostisko metožu sertifikāts - Latvijas Ārstniecības personu profesionālo organizāciju savienības, Latvijas Ārstu biedrības vai Latvijas Māsu asociācijas izsniegts dokuments, kas apliecina attiecīgās personas profesionālo sagatavotību un norāda, ka ārstniecības persona papildus kompetencei ārstniecībā, kas tai noteikta normatīvajos aktos, ir tiesīga patstāvīgi lietot sertifikātā norādīto ārstniecisko vai diagnostisko metodi;
-6) ārstu konsilijs - ne mazāk kā triju ārstu apspriede, lai noteiktu diagnozi un turpmāko ārstēšanas taktiku;
+6) ārstu konsīlijs - ne mazāk kā triju ārstu apspriede, lai noteiktu diagnozi un turpmāko ārstēšanas taktiku;
 7) cilvēka infekcijas slimība - infekcijas slimības izraisītāja ierosināta slimība, kuras izplatīšanās var radīt epidēmiju (turpmāk - infekcijas slimība);
 8) medicīniskā izglītība - likumā noteiktajā kārtībā atzītai izglītības programmai atbilstošs zināšanu un prasmju kopums medicīnas jomā, ko apliecina izglītības iestādes izsniegts izglītības dokuments;
 9) medicīniskās tehnoloģijas - ārstniecībā izmantojamās metodes, medicīniskās ierīces un zāles;
