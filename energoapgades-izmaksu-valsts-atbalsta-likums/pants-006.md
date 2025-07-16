@@ -1,5 +1,5 @@
 6. pants. Mājsaimniecību atbilstības novērtējums
 (1) Mājsaimniecību atbilstību šā likuma 3. panta otrajā daļā minētajai mērķgrupai kalendāra mēneša ietvaros nosaka informācijas sistēma, kuras uzturēšanas un pārziņa funkcijas veicējs ir Būvniecības valsts kontroles birojs (turpmāk - birojs). Informācijas sistēma apstrādā un uzskaita visu šā likuma 3. panta pirmajā daļā minēto fizisko personu datus.
-(2) Šā likuma 7. panta astotajā daļā minēto reģistru pārziņu datus, kas tiek iesniegti informācijas sistēmā, birojs neverificē citos datu reģistros.
+(2) Šā likuma 7. panta astotajā un 8.¹ daļā minēto reģistru pārziņu datus, kas tiek iesniegti informācijas sistēmā, birojs neverificē citos datu reģistros.
 (3) Informācijas sistēmas saskaņā ar šā panta pirmo daļu veiktā aprēķina pareizību un attiecīgi mājsaimniecības atbilstību šā likuma 3. panta otrajā daļā minētajai mērķgrupai mājsaimniecības loceklis var apstrīdēt birojā un pārsūdzēt administratīvajā tiesā Administratīvā procesa likumā noteiktajā kārtībā.
-(4) Par informācijas sistēmā šā likuma 7. panta astotās daļas 1., 2., 3., 4., 5. un 6. punktā minēto datu pārziņu nodoto personas datu pareizību mājsaimniecības loceklis var pārliecināties, vēršoties ar iesniegumu pie attiecīgā datu pārziņa.
+(4) Par informācijas sistēmā šā likuma 7. panta astotajā un 8.¹ daļā minēto datu pārziņu nodoto personas datu pareizību mājsaimniecības loceklis var pārliecināties, vēršoties ar iesniegumu pie attiecīgā datu pārziņa.

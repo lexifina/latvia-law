@@ -1,1 +1,0 @@
-2. Būvniecības valsts kontroles birojs līdz 2024. gada 31. decembrim nodrošina mājsaimniecības lietotājiem tiesības atteikties no viņu personas datu turpmākas apstrādes informācijas sistēmā un no iespējas pretendēt uz atbalsta saņemšanu, ja persona to nevēlas.
