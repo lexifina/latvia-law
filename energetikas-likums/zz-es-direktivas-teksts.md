@@ -9,4 +9,6 @@ Likumā iekļautas tiesību normas, kas izriet no:
 8) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2002, ar ko groza direktīvu 2012/27/ES par energoefektivitāti;
 9) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2001 par no atjaunojamajiem energoresursiem iegūtas enerģijas izmantošanas veicināšanu;
 10) Eiropas Parlamenta un Padomes 2023. gada 18. oktobra direktīvas (ES) 2023/2413, ar ko attiecībā uz atjaunīgo energoresursu enerģijas izmantošanas veicināšanu groza direktīvu (ES) 2018/2001, regulu (ES) 2018/1999 un direktīvu 98/70/EK un atceļ Padomes direktīvu (ES) 2015/652;
-11) Eiropas Parlamenta un Padomes 2023. gada 13. septembra direktīvas (ES) 2023/1791 par energoefektivitāti un ar ko groza regulu (ES) 2023/955.
+11) Eiropas Parlamenta un Padomes 2023. gada 13. septembra direktīvas (ES) 2023/1791 par energoefektivitāti un ar ko groza regulu (ES) 2023/955;
+12) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1275 par ēku energosniegumu;
+13) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1711, ar ko groza direktīvas (ES) 2018/2001 un (ES) 2019/944 attiecībā uz Savienības elektroenerģijas tirgus modeļa uzlabošanu.
