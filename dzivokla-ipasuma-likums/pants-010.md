@@ -7,6 +7,7 @@
 5) maksāt zemes nomas maksu vai likumisko lietošanas maksu par zemes lietošanas tiesībām, ja dzīvojamā māja atrodas uz citai personai piederošas zemes;
 6) saudzīgi izturēties pret kopīpašumā esošo daļu, ievērot tās lietošanas noteikumus, kā arī normatīvajos aktos noteiktās sanitārās, ugunsdrošības un citas prasības, lai neradītu aizskārumu citu cilvēku drošībai un veselībai, apkārtējās vides kvalitātei, un raudzīties, lai šos noteikumus un prasības ievērotu personas, kas iemitinātas viņa dzīvokļa īpašumā;
 7) nodrošināt iespēju dzīvokļu īpašnieku kopības vai pārvaldnieka pilnvarotiem speciālistiem veikt dzīvokļa īpašumā darbības, kas nepieciešamas ar dzīvojamās mājas ekspluatāciju saistītu komunikāciju, būvkonstrukciju un citu elementu ierīkošanai un normālai funkcionēšanai, kā arī nodrošināt iespēju apsekot atsevišķo īpašumu;
+7¹) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 16. punktu);
 8) pildīt dzīvokļu īpašnieku kopības pieņemtos lēmumus;
 9) ievērot dzīvokļu īpašnieku kopības noteiktos dzīvokļu īpašumu lietošanas tiesību aprobežojumus;
 10) atsavinot dzīvokļa īpašumu, informēt dzīvokļa īpašuma ieguvēju par tām dzīvokļa īpašnieka neizpildītajām saistībām, kuras attiecas uz dzīvokļa īpašuma lietošanu;
