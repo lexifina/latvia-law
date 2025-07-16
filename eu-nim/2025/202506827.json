@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 19. jūnija likums \"Grozījumi Revīzijas pakalpojumu likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "124",
+  "official_journal_page": null,
+  "official_journal_date": "2025-07-02",
+  "entry_into_force": "2025-07-16",
+  "notification_date": "2025-12-09",
+  "commission_reference": "MNE(2025)06827",
+  "nim_celex": "72023L2864LVA_202506827",
+  "nim_id": "202506827",
+  "transposes_celex": [
+    "32023L2864"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/84895ee3-9118-4ab8-b715-7b8b3caad0cf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
