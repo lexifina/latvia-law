@@ -6,7 +6,7 @@
 2¹) kioskos, telpās, kurās nav tirdzniecības zāles, kā arī ēkās, kuras nav nodotas ekspluatācijā;
 3) telpās, kurās tirdzniecības zāle ir mazāka par 20 kvadrātmetriem;
 4) tirdzniecības vietā, kas atrodas daudzdzīvokļu mājā, ja iekļūšanai šajā tirdzniecības vietā tiek izmantotas koplietošanas kāpnes vai telpas;
-5) no pulksten 22.00 līdz 8.00, izņemot tādas mazumtirdzniecības vietas, kurās alkoholiskie dzērieni tiek realizēti tikai izlejamā veidā un tiek nodrošināta to patērēšana uz vietas, kā arī beznodokļu tirdzniecības veikalus;
+5) no pirmdienas līdz sestdienai līdz pulksten 10.00 un pēc pulksten 20.00, svētdienās līdz pulksten 10.00 un pēc pulksten 18.00, izņemot tādas mazumtirdzniecības vietas, kurās alkoholiskie dzērieni tiek realizēti tikai izlejamā veidā un tiek nodrošināta to patērēšana uz vietas, kā arī beznodokļu tirdzniecības veikalus;
 6) tirdzniecības automātos;
 7) no transportlīdzekļiem, izņemot specializētos autoveikalus;
 8) izmantojot distances līgumu, izņemot šā likuma 6.¹ pantā noteiktos gadījumus.
@@ -27,7 +27,7 @@
 (2²) Alkoholiskos dzērienus aizliegts pārdot personām, par kuru vecumu mazumtirgotājam ir pamatotas šaubas un kuras pēc mazumtirgotāja pieprasījuma neuzrāda personu apliecinošu dokumentu, kas apliecina šo personu vecumu.
 (2³) Pēc uzraudzības un kontroles iestādes pieprasījuma jebkura pircēja pienākums ir apliecināt savu personu un vecumu, uzrādot personu apliecinošu dokumentu.
 (2⁴) Mazumtirgotājs nodrošina, lai alkoholisko dzērienu mazumtirdzniecībā tieši iesaistītie darbinieki pirms darba pienākumu izpildes uzsākšanas un turpmāk ne retāk kā vienu reizi mēnesī tiktu instruēti par alkoholisko dzērienu mazumtirdzniecības noteikumiem.
-(2⁵) (Daļa stājas spēkā 01.08.2025. un iekļauta likuma redakcijā uz 01.08.2025. Sk. pārejas noteikumu 23. punktu)
+(2⁵) Mazumtirdzniecības vietās izvietojams labi redzams uzraksts, kas brīdina, ka alkoholisko dzērienu lietošanai ir negatīva ietekme uz veselību, alkoholiskos dzērienus nedrīkst pārdot nepilngadīgām personām un nepilngadīgas personas nedrīkst tos iegādāties, lietot un glabāt.
 (3) (Izslēgta ar 09.01.2025. likumu)
 (3¹) Aizliegts piedāvāt alkoholiskos dzērienus degustācijai ārpus nodalītās tirdzniecības zāles pašapkalpošanās zonas, kurā tiek izvietoti tikai alkoholiskie dzērieni, tabakas izstrādājumi un to piederumi, kā arī tādas preces, kas saistītas ar alkoholiskajiem dzērieniem.
 (4) Mazumtirgotājs nodrošina, lai alkoholisko dzērienu patērētāji tirdzniecības zālē vai citā alkoholisko dzērienu tirdzniecības vietā ievēro sabiedrisko kārtību un sanitārās normas.
