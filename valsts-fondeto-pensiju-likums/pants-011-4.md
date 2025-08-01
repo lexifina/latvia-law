@@ -10,3 +10,4 @@ b) sniedzot fondēto pensiju shēmas dalībniekam pēc viņa pieprasījuma indiv
 (5) Fondēto pensiju shēmas līdzekļu pārvaldītājs, izmantojot šā panta ceturtajā daļā noteiktos informācijas nosūtīšanas veidus, ir tiesīgs fondēto pensiju shēmas dalībniekam:
 1) 45 dienu laikā no iepriekšējā ceturkšņa beigām nosūtīt ziņojumu par ieguldījumu plāna ceturkšņa rezultātiem;
 2) ne biežāk kā divas reizes gadā nosūtīt citu informāciju par ieguldījumiem pensiju plānos un pensiju sistēmas darbību.
+(6) (Daļa stājas spēkā 02.03.2026. un iekļauta likuma redakcijā uz 02.03.2026. Sk. pārejas noteikumu 43. punktu)
