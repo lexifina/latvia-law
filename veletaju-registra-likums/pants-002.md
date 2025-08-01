@@ -1,1 +1,1 @@
-2. pants. Reģistrs nodrošina to personu uzskaiti, kurām saskaņā ar Eiropas Parlamenta vēlēšanu likumu, Pašvaldības domes vēlēšanu likumu vai Saeimas vēlēšanu likumu ir tiesības vēlēt Latvijas Republikā (turpmāk - vēlētāji).
+2. pants. Reģistrs nodrošina to personu uzskaiti, kurām saskaņā ar Eiropas Parlamenta vēlēšanu likumu, Pašvaldības domes vēlēšanu likumu, Saeimas vēlēšanu likumu un Vietējo pašvaldību referendumu likumu ir tiesības vēlēt un balsot Latvijas Republikā (turpmāk - vēlētāji).
