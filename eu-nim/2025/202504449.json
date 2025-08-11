@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 8. aprīļa noteikumi Nr. 224 \"Grozījumi Ministru kabineta 2017. gada 7. februāra noteikumos Nr. 76 \"Augļu koku un ogulāju pavairošanas materiāla atbilstības kritēriju un aprites noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2025/71.12",
+  "official_journal_page": null,
+  "official_journal_date": "2025-04-10",
+  "entry_into_force": "2025-08-11",
+  "notification_date": "2025-08-01",
+  "commission_reference": "MNE(2025)04449",
+  "nim_celex": "72025L0145LVA_202504449",
+  "nim_id": "202504449",
+  "transposes_celex": [
+    "32025L0145"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f9ee7011-2762-4cb0-8065-a9f7e5243996",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
