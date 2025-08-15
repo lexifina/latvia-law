@@ -1,4 +1,4 @@
 41.² pants. Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS)
 (1) Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS) ir valsts informācijas sistēma, kas nodrošina kuģošanas informācijas centralizētu un elektronisku apmaiņu, lai jūras satiksmi padarītu efektīvāku.
-(2) Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS) pilda nacionālās SafeSeaNet sistēmas funkcijas un nodrošina informācijas apmaiņu ar Eiropas Savienības SafeSeaNet sistēmu.
+(2) Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS) pilda nacionālās SafeSeaNet sistēmas funkcijas un nodrošina informācijas apmaiņu ar Eiropas Savienības SafeSeaNet sistēmu. Starptautiskā kravu loģistikas un ostu informācijas sistēma (SKLOIS) pilda regulā Nr. 2019/1239 noteiktās valsts jūras vienloga sistēmas funkcijas.
 (3) Starptautiskajā kravu loģistikas un ostu informācijas sistēmā (SKLOIS) iekļaujamo informāciju un tās aprites kārtību, šīs sistēmas lietotājus, kārtību, kādā tiem tiek piešķirtas un anulētas piekļuves tiesības, kā arī šo tiesību apjomu nosaka Ministru kabinets.
