@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 12. augusta noteikumi Nr. 481 \"Grozījumi Ministru kabineta 2021. gada 8. aprīļa noteikumos Nr. 222 \"Ēku energoefektivitātes aprēķina metodes un ēku energosertifikācijas noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "155",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-14",
+  "entry_into_force": "2025-08-15",
+  "notification_date": "2026-05-28",
+  "commission_reference": "MNE(2026)03385",
+  "nim_celex": "72024L1275LVA_202603385",
+  "nim_id": "202603385",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e4da504b-ddac-4484-8d0a-6d6e317d8238",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
