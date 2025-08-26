@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2025. gada 21. augusta lēmums Nr. 1/18 \"Dabasgāzes sadales sistēmas pieslēguma noteikumi biometāna ražotājiem, sašķidrinātās dabasgāzes termināļa operatoriem un dabasgāzes lietotājiem\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "162",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-25",
+  "entry_into_force": "2025-08-26",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08221",
+  "nim_celex": "72024L1788LVA_202608221",
+  "nim_id": "202608221",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f53f34a1-7ce3-4261-a0e7-9661a8bbff78",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
