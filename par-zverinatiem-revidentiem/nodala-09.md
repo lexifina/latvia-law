@@ -1,2 +1,2 @@
 IX nodaļa
-Atbildība, sūdzību un strīdu izskatīšanas kārtība
+Zvērinātu revidentu un zvērinātu revidentu komercsabiedrību atbildība
