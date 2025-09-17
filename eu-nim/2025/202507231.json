@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 17. septembra rīkojums Nr. 589 \"Par Izglītības attīstības pamatnostādņu 2021.–2027. gadam \"Nākotnes prasmes nākotnes sabiedrībai\" rīcības plānu 2025. gadam\"",
+  "type_of_act": "Ministra rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "182",
+  "official_journal_page": null,
+  "official_journal_date": "2025-09-22",
+  "entry_into_force": "2025-09-17",
+  "notification_date": "2025-12-22",
+  "commission_reference": "MNE(2025)07231",
+  "nim_celex": "72023L1791LVA_202507231",
+  "nim_id": "202507231",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f89d3a6f-bb78-4da4-87ab-a54362b11e95",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
