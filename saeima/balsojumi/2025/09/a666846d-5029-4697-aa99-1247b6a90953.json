@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 5,
+ "datums": "2025-09-18",
+ "ieraksts": {
+  "dkp_id": "7acbe53d-84fe-4e57-930b-f09ddb19372a",
+  "lastmodtime": "\"AAAAAAJkufA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Didzis#Andris#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Linda#Anda#Jānis#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zemmers#Kulbergs#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Čakša#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#######################################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS# #JV#JV#ST!#ST!#PRO#NA#ZZS#AS#AS#LPV#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!# #JV# #JV#ST!#AS#JV#ZZS#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!#AS# #PRO#PRO#ZZS#LPV#JV#LPV#JV#JV#PRO#JV#JV",
+  "RESULT": "Pret#Par#Nebalsoja#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Pret#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Atturas#Par#Par#Par#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.09.2025 10:11:34",
+  "VOTEMOTIVE": "Grozījumi Sabiedriskā transporta pakalpojumu likumā (1042/Lp14), nodošana komisijām",
+  "VOTING_ID": "a666846d-5029-4697-aa99-1247b6a90953",
+  "VOTERESULT_ABSTAIN": "5",
+  "VOTERESULT_AGAINST": "7",
+  "VOTERESULT_FOR": "70",
+  "VOTERESULT_REGISTERED": "88",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d0297826-4b52-4059-b2bc-eb67afb93a03/download/14.saeimas-2025.gada-rudens-sesija-5-vote.xml",
+  "sha256": "dc385018e11e98027a5dde48ae538f306401f3f3f3f0992ed305fb0c9e623972",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
