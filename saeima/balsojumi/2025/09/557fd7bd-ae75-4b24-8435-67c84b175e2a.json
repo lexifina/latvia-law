@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 5,
+ "datums": "2025-09-18",
+ "ieraksts": {
+  "dkp_id": "ddd41250-73c9-4efc-9cad-b72aeadc0218",
+  "lastmodtime": "\"AAAAAAJlWi4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Mārtiņš#Ilze#Mārcis#Andris#Inese#Vilis#Amils#Selma Teodora#Edmunds#Didzis#Andris#Ingmārs#Edmunds#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Jānis#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Jeļena#Leila#Gundars#Jānis#Linda#Jānis#Antoņina#Inga",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Stobova#Jencītis#Bērziņš#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zemmers#Kulbergs#Līdaka#Zivtiņš#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Kļaviņa#Rasima#Daudze#Patmalnieks#Liepiņa#Skrastiņš#Ņenaševa#Bērziņa",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#JV#LPV#LPV#ZZS#JV#ST!#ST!#PRO#NA#ZZS#AS#AS#LPV#LPV#JV#NA#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# #JV# #JV#ST!#AS#JV#NA#NA#JV#PRO#JV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS# #PRO#ZZS#JV#LPV#JV#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.09.2025 16:14:36",
+  "VOTEMOTIVE": "Par Cilvēka tiesību un pamatbrīvību aizsardzības konvencijas 16. protokolu (1001/Lp14), 1.lasījums",
+  "VOTING_ID": "557fd7bd-ae75-4b24-8435-67c84b175e2a",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "72",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "43",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d0297826-4b52-4059-b2bc-eb67afb93a03/download/14.saeimas-2025.gada-rudens-sesija-5-vote.xml",
+  "sha256": "dc385018e11e98027a5dde48ae538f306401f3f3f3f0992ed305fb0c9e623972",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
