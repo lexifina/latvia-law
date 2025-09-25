@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 7,
+ "datums": "2025-09-25",
+ "ieraksts": {
+  "dkp_id": "08cd8f6b-4f3c-4062-8d8c-39a43aead805",
+  "lastmodtime": "\"AAAAAAJlp0o=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Andris#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Uģis#Gatis#Līga#Kristaps#Česlavs#Atis#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Kulbergs#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Daugavietis#Klementjevs#Viļums#Felss#Mitrevics#Liepiņš#Rasnača#Krištopans#Batņa#Labucis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#######################################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS#NA#PRO#JV#JV#ST!#ST!#PRO#NA#ZZS#AS#LPV#AS#LPV#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!# #JV#JV#ST!#AS#JV#NA#JV#PRO#LPV#AS#JV#NA# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!#AS# #PRO#PRO#LPV#JV#AS#LPV#JV# #JV#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Pret#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "25.09.2025 09:09:33",
+  "VOTEMOTIVE": "Par likumprojekta Par izstāšanos no Eiropas Padomes Konvencijas par vardarbības pret sievietēm un vardarbības ģimenē novēršanu un apkarošanu (1058/Lp14), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "f6dd80d4-af02-4e31-ac98-d2bdcef53801",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "33",
+  "VOTERESULT_FOR": "55",
+  "VOTERESULT_REGISTERED": "88",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/23536239-b706-429c-97b7-6054084dfdc0/download/14.saeimas-2025.gada-rudens-sesija-7-vote.xml",
+  "sha256": "a9ba6e960d1e4e8cc13290a9da63243939d019c2b6f319fb472ac8805501da25",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
