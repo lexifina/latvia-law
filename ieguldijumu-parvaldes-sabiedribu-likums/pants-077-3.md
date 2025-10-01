@@ -14,8 +14,8 @@
 3) šīs daļas 1. un 2. punktā minētās personas kopīgi.
 (3) Dalībvalstī licencēta sabiedrība, kura vēlas Latvijā bez filiāles atvēršanas izplatīt tās pārvaldībā esošu ieguldījumu fondu ieguldījumu apliecības, nesniedzot nevienu citu šā likuma 5.pantā minētu pakalpojumu, ievēro tikai šajā pantā noteikto kārtību.
 (4) Dalībvalsts fonda apliecības drīkst Latvijā sākt izplatīt ar dienu, kad Latvijas Bankai ir iesniegti šādi atbilstoši šajā pantā noteiktajai kārtībai noformēti dokumenti:
-1) fonda izcelsmes valsts uzraudzības institūcijas apliecinājums par fonda reģistrāciju, kas atbilst Eiropas Komisijas regulas Nr. 584/2010 2.pielikumam;
-2) fondu pārvaldošās sabiedrības paziņojums, kas atbilst Eiropas Komisijas regulas Nr. 584/2010 1. pielikumam un ietver informāciju par:
+1) fonda izcelsmes valsts uzraudzības institūcijas apliecinājums par fonda reģistrāciju, kas atbilst Eiropas Komisijas regulas Nr. 2024/910 6. pielikumam;
+2) fondu pārvaldošās sabiedrības paziņojums, kas atbilst Eiropas Komisijas regulas Nr. 2024/910 1. pielikumam un ietver informāciju par:
 a) attiecīgā fonda ieguldījumu apliecību izplatīšanas kārtību Latvijā,
 b) adresi, kas nepieciešama, lai Latvijas Banka varētu izrakstīt rēķinu vai paziņot Latvijas Bankai veicamos maksājumus,
 c) to, kā tiks nodrošināta šā panta pirmajā daļā minēto pasākumu veikšana;
@@ -48,3 +48,4 @@ c) to, kā tiks nodrošināta šā panta pirmajā daļā minēto pasākumu veik�
 3) fonds, to pārvaldošā sabiedrība vai fonda ieguldījumu apliecību izplatītājs pārkāpj fonda prospekta vai fonda pārvaldes nolikuma, vai tam pielīdzināma dokumenta noteikumus;
 4) fonds, to pārvaldošā sabiedrība vai fonda ieguldījumu apliecību izplatītājs pārkāpj Latvijas normatīvo aktu prasības, tai skaitā ieguldītāju intereses aizsargājošo normatīvo aktu prasības.
 (13) (Izslēgta ar 07.10.2021. likumu)
+(14) Latvijas Banka nosaka kārtību, kādā citās dalībvalstīs reģistrēto atvērto ieguldījumu fondu ieguldījumu apliecības tiek izplatītas Latvijā.

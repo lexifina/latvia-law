@@ -39,3 +39,4 @@
 (2) Soda naudas samaksa neatbrīvo no citas likumā noteiktās atbildības.
 (3) Pieņemot lēmumu par sankciju vai administratīvo pasākumu piemērošanu personām, kuras pārkāpušas finanšu tirgu regulējošos normatīvos aktus, un par soda naudas apmēru, Latvijas Banka ņem vērā visus apstākļus, ieskaitot Latvijas Bankas likumā noteiktos apstākļus, kā arī iespējamās pārkāpuma sistemātiskas izdarīšanas sekas un izvērtē piemērojamo sankciju un administratīvo pasākumu samērīgumu, efektivitāti un atturošo raksturu.
 (4) Par likuma un uz tā pamata izdoto Latvijas Bankas noteikumu prasību pārkāpumu attiecībā uz fonda, sabiedrības vai turētājbankas pienākumiem Latvijas Banka var piemērot sankcijas, administratīvos pasākumus vai uzraudzības pasākumus to valdes locekļiem vai citām fiziskajām personām, kuras saskaņā ar normatīvajiem aktiem ir atbildīgas par izdarīto pārkāpumu.
+(5) Saskaņā ar šo pantu uzlikto soda naudu ieskaita valsts pamatbudžetā.

@@ -25,7 +25,7 @@ g) iepriekšējās darbavietas pēdējo 10 gadu laikā un darba pienākumu īss 
 2) vadības informācijas sistēmas apraksts;
 3) grāmatvedības politikas un grāmatvedības uzskaites organizācijas galvenie principi;
 4) būtisku darbības risku pārvaldīšanas politikas un procedūru apraksts;
-5) informācijas sistēmas aizsardzības noteikumi, arī fonda ieguldījumu apliecību reģistra un citu sabiedrības pārvaldīšanā esošo finanšu instrumentu uzskaites datu bāzes aizsardzības noteikumi;
+5) digitālās darbības noturības stratēģija un informācijas drošības politika saskaņā ar Eiropas Parlamenta un Padomes 2022. gada 14. decembra regulas (ES) 2022/2554 par finanšu nozares digitālās darbības noturību un ar ko groza regulas (EK) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 un (ES) 2016/1011 (turpmāk - Regula Nr. 2022/2554) un Finanšu tirgus digitālās darbības noturības un mākslīgā intelekta izmantošanas likuma prasībām;
 6) iekšējās revīzijas sistēmas apraksts, arī noteikumi par to, kā tiek pārbaudīti sabiedrības un tās darbinieku uz pašu rēķina veiktie darījumi un to atbilstība prasībām par interešu konfliktu novēršanu;
 7) neparastu un aizdomīgu finanšu darījumu identifikācijas procedūru apraksts;
 8) fonda ieguldītāju iesniegumu un sūdzību (strīdu) par sabiedrības pārvaldes pakalpojumu sniegšanu izskatīšanas procedūras apraksts;
