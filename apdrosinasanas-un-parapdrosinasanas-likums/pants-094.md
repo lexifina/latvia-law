@@ -8,4 +8,4 @@
 3) kā alternatīvu šīs daļas 1. vai 2. punktā noteiktajam uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.
 (4) Ja persona ir ieguvusi vai palielinājusi būtisku līdzdalību apdrošināšanas vai pārapdrošināšanas sabiedrībā pirms šā likuma 76.panta pirmajā vai otrajā daļā minētā paziņojuma iesniegšanas Latvijas Bankai vai tā izskatīšanas laikā, Latvijas Banka ir tiesīga uzlikt personai soda naudu no 14 200 līdz 142 000 euro.
 (5) (Izslēgta no 01.01.2023. ar 13.10.2022. likumu, kas stājas spēkā 03.11.2022. Sk. pārejas noteikumu 37. punktu)
-(6) Labprātīgi neizpildīta Latvijas Bankas lēmuma piespiedu izpildi veic tiesu izpildītājs Civilprocesa likumā noteiktajā kārtībā.
+(6) Saskaņā ar šo pantu uzlikto soda naudu ieskaita valsts pamatbudžetā. Labprātīgi neizpildīta Latvijas Bankas lēmuma piespiedu izpildi veic tiesu izpildītājs Civilprocesa likumā noteiktajā kārtībā.
