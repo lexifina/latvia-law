@@ -7,7 +7,7 @@
 (6) Noregulējuma plānā tiek paredzēta iespēja noregulējuma instrumentu un noregulējuma tiesību piemērošanai attiecībā uz iestādi. Noregulējuma plānā iekļauj:
 1) plāna galveno elementu kopsavilkumu;
 2) kopsavilkumu par būtiskām izmaiņām, kas skārušas iestādi pēc tam, kad iesniegta jaunākā ar noregulējumu saistītā informācija;
-3) to, kā būtu iespējams nepieciešamajā apmērā juridiski un ekonomiski nodalīt kritiski svarīgās funkcijas un galvenās darbības jomas no citām funkcijām, lai nodrošinātu to nepārtrauktību iestādes finanšu grūtību gadījumā;
+3) to, kā būtu iespējams nepieciešamajā apmērā juridiski un ekonomiski nodalīt kritiski svarīgās funkcijas un galvenās darbības jomas no citām funkcijām, lai nodrošinātu to nepārtrauktību, kā arī digitālās darbības noturību, iestādes finanšu grūtību gadījumā;
 4) visu būtisko plāna aspektu izpildes paredzamo termiņu;
 5) noregulējamības novērtējuma detalizētu aprakstu;
 6) aprakstu par pasākumiem, kas veicami, lai attiecībā uz noregulējumu pārvarētu vai novērstu šķēršļus, kuri konstatēti noregulējamības novērtējumā;
@@ -21,7 +21,7 @@
 14) plānu saziņai ar plašsaziņas līdzekļiem un sabiedrību;
 15) šā likuma 60.² un 61. pantā minētās minimālās pašu kapitāla un atbilstīgo saistību prasības un termiņu minēto prasību sasniegšanai;
 16) termiņu, kādu šā likuma 59.¹ panta septītās, astotās, devītās, desmitās, vienpadsmitās, divpadsmitās, trīspadsmitās vai sešpadsmitās daļas prasību izpildei ir noteikusi Latvijas Banka;
-17) aprakstu par pasākumiem iestādes operacionālo procesu nepārtrauktas darbības nodrošināšanai;
+17) aprakstu par pasākumiem iestādes operacionālo procesu nepārtrauktas darbības nodrošināšanai, tai skaitā tīklu un informācijas sistēmām atbilstoši Eiropas Parlamenta un Padomes 2022. gada 14. decembra regulai (ES) 2022/2554 par finanšu nozares digitālās darbības noturību un ar ko groza regulas (EK) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 un (ES) 2016/1011;
 18) iestādes viedokli par noregulējuma plānu, ja tāds saņemts.
 (6¹) Nosakot šā panta sestās daļas 15. un 16. punktā minētos termiņus šā panta 4.¹ daļā minētajā gadījumā, Latvijas Banka ņem vērā termiņu, kādā nodrošināma Kredītiestāžu likuma 101.¹⁷ panta prasību izpilde.
 (7) Latvijas Bankai ir tiesības prasīt, lai iestāde un finanšu sabiedrība uztur detalizētu finanšu līgumu dokumentāciju. Latvijas Banka ir tiesīga noteikt termiņu, kurā iestāde un finanšu sabiedrība uzrāda ar finanšu līgumiem saistīto dokumentāciju. Latvijas Banka var noteikt atšķirīgus termiņus dažādiem finanšu līgumu veidiem.

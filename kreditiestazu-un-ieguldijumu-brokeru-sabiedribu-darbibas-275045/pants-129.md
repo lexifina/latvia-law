@@ -8,3 +8,4 @@
 (2) Par šā panta pirmajā daļā minēto šā likuma pantu, Eiropas Savienības tieši piemērojamo tiesību aktu vai Latvijas Bankas izdoto noteikumu vai pieņemto lēmumu pārkāpumiem Latvijas Banka ir tiesīga piemērot šādus administratīvos pasākumus:
 1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona izbeidz šādu rīcību un atturas no tās atkārtošanas;
 2) noteikt pagaidu aizliegumu pildīt pienākumus tam iestādes vai finanšu sabiedrības padomes vai valdes loceklim vai kādai citai fiziskajai personai, kura uzskatāma par atbildīgu par attiecīgo pārkāpumu.
+(3) Saskaņā ar šo pantu uzlikto soda naudu ieskaita valsts pamatbudžetā.
