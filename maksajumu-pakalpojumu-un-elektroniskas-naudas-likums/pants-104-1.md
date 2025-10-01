@@ -1,5 +1,5 @@
 104.¹ pants. (1) Maksājumu pakalpojumu sniedzējam iekšējās kontroles sistēmas ietvaros ir pienākums izstrādāt atbilstošus riska mazināšanas pasākumus un kontroles mehānismus tādu operacionālo un drošības risku pārvaldībai, kuri saistīti ar tā sniegtajiem maksājumu pakalpojumiem.
-(2) Maksājumu pakalpojumu sniedzējs iekšējās kontroles sistēmas ietvaros nosaka un uztur efektīvas informācijas sistēmu drošības incidentu pārvaldības procedūras, tostarp procedūras būtisku operacionālo un drošības incidentu atklāšanai un klasifikācijai.
-(3) Maksājumu pakalpojumu sniedzējs katru gadu līdz 1. martam iesniedz Latvijas Bankai atjauninātu un visaptverošu novērtējumu par tādiem operacionālajiem un drošības riskiem, kas saistīti ar iepriekšējā gadā tā sniegtajiem maksājumu pakalpojumiem, un par to, vai, reaģējot uz šiem riskiem, ir veikti adekvāti riska mazināšanas pasākumi un ieviesti kontroles mehānismi.
-(4) Latvijas Banka izdod noteikumus par kārtību, kādā maksājumu pakalpojumu sniedzēji nosaka, klasificē un ziņo tai par operacionālajiem un drošības incidentiem.
-(5) Latvijas Banka izdod noteikumus par kārtību, kādā maksājumu pakalpojumu sniedzēji izstrādā, klasificē un iesniedz tai operacionālo un drošības risku novērtējumu.
+(2) Maksājumu pakalpojumu sniedzējs iekšējās kontroles sistēmas ietvaros nosaka un uztur efektīvas informācijas sistēmu drošības incidentu pārvaldības procedūras, tostarp procedūras būtisku operacionālo un drošības incidentu atklāšanai un klasifikācijai, ja uz to neattiecina Regulas Nr. 2022/2554 II nodaļas prasības.
+(3) Licencēta iestāde izveido un pārvalda tīklu un informācijas sistēmu atbilstoši Regulas Nr. 2022/2554 un Finanšu tirgus digitālās darbības noturības un mākslīgā intelekta izmantošanas likuma prasībām..
+(4) (Izslēgta ar 11.09.2025. likumu)
+(5) (Izslēgta ar 11.09.2025. likumu)
