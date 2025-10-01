@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Finanšu instrumentu tirgus likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2025-09-30",
+  "entry_into_force": "2025-10-01",
+  "notification_date": "2025-10-10",
+  "commission_reference": "MNE(2025)05612",
+  "nim_celex": "72024L0790LVA_202505612",
+  "nim_id": "202505612",
+  "transposes_celex": [
+    "32024L0790"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d3b02db4-51b8-434b-b0ad-e69becb7b8f6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
