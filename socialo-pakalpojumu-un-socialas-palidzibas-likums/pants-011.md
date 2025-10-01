@@ -9,6 +9,6 @@
 7) novērtēt sociālā dienesta administrēto un pašvaldības finansēto sociālo pakalpojumu un sociālās palīdzības kvalitāti;
 8) veikt sociālās vides izpēti, noteikt problēmas, kā arī piedalīties pašvaldības teritorijas attīstības plānošanas dokumentu, pašvaldības politikas plānošanas dokumentu un institūcijas vadības dokumentu izstrādē sociālā dienesta kompetences jomā;
 9) informēt iedzīvotājus par sociālajiem pakalpojumiem un sociālo palīdzību;
-10) (punkts stājas spēkā 01.10.2025. un iekļauts likuma redakcijā uz 01.10.2025. Sk. pārejas noteikumu 64. punktu);
-11) (punkts stājas spēkā 01.10.2025. un iekļauts likuma redakcijā uz 01.10.2025. Sk. pārejas noteikumu 64. punktu).
-(2) (Daļa stājas spēkā 01.10.2025. un iekļauta likuma redakcijā uz 01.10.2025. Sk. pārejas noteikumu 64. punktu)
+10) uzkrāt un apstrādāt informācijas sistēmā datus par personām un mājsaimniecībām piešķirtajiem un izmaksātajiem sociālās palīdzības pabalstiem, piešķirtajiem un sniegtajiem sociālajiem pakalpojumiem, kā arī cita veida materiālu atbalstu, ko nodrošina sociālais dienests atbilstoši pašvaldības saistošajiem noteikumiem;
+11) uzkrāt un apstrādāt informācijas sistēmā datus par personu un mājsaimniecību pieprasītiem sociālajiem pakalpojumiem, kurus pašvaldībai ir pienākums nodrošināt, bet kuru nodrošināšanu pašvaldība atsaka vai kurus iekļauj sociālo pakalpojumu saņemšanas rindā resursu trūkuma dēļ.
+(2) Šā panta pirmās daļas 10. un 11. punktā minēto datu apstrādes mērķis ir administrēt sociālos pakalpojumus un sociālo palīdzību un sniegt informāciju, kas nepieciešama valsts politikas izstrādei sociālās aizsardzības jomā. Ministru kabinets nosaka apstrādājamo datu, tostarp personas datu, apjomu un apstrādes kārtību, kā arī datu glabāšanas un institūciju sadarbības kārtību.
