@@ -3,5 +3,6 @@
 (2) Cenas izmaiņas minimālā soļa režīmus, kas minēti šā panta pirmajā daļā, nosaka:
 1) tādus, lai ņemtu vērā viena finanšu instrumenta likviditātes profilu dažādos tirgos un vidējo piedāvājuma cenas un pieprasījuma cenas starpību, ievērojot vēlmi nodrošināt cenu stabilitāti, bet nepamatoti neierobežojot turpmāku starpības samazināšanu;
 2) pielāgojot cenas izmaiņas minimālo soli atbilstoši katram finanšu instrumentam.
+(2¹) Akcijām ar starptautisko vērtspapīru identifikācijas numuru (ISIN kods), kas izdots ārpus Eiropas Ekonomikas zonas, vai akcijām, kurām ir Eiropas Ekonomikas zonas vērtspapīru identifikācijas numurs (ISIN kods) un kuras tiek tirgotas trešās valsts tirdzniecības vietā vietējā valūtā vai Eiropas Ekonomikas zonā neesošu valstu valūtā, regulētais tirgus var paredzēt tādu pašu cenas izmaiņas minimālo soli, kādu piemēro trešās valsts tirdzniecības vietā, ievērojot Regulas Nr. 600/2014 23. panta 1. punkta "a" apakšpunktā noteikto.
 (3) Detalizētākas prasības šā panta piemērošanai nosaka Regula Nr. 2017/588.
 (4) Regulētā tirgus organizētājs drīkst savietot liela apjoma rīkojumus Regulas Nr. 600/2014 4. panta izpratnē par cenu, kas atbilst savietošanas brīža pirkšanas un pārdošanas piedāvājuma cenas viduspunktam, atkāpjoties no šajā pantā noteiktās prasības par cenas izmaiņas minimālā soļa režīmu piemērošanu.

@@ -3,12 +3,14 @@
 (2) Regulētā tirgus organizētājs ir visiem finanšu instrumentu tirgus dalībniekiem atklāta un pieejama organizācija, kura nodrošina katra tā organizētā regulētā tirgus atklātumu un labas vadības principiem atbilstošu darbību.
 (2¹) Regulētā tirgus organizētājs veic nepieciešamos pasākumus, lai:
 1) identificētu un pārvaldītu iespējamos interešu konfliktus starp regulētā tirgus organizētāja vai tā akcionāru interesēm un pienākumu nodrošināt regulētā tirgus stabilu darbību, kā arī novērstu šāda interešu konflikta nelabvēlīgo ietekmi uz regulētā tirgus darbību vai tā biedru vai dalībnieku interesēm, īpaši tad, ja šādi interešu konflikti var kaitēt regulētā tirgus organizētāja tiesībām veikt tirgus uzraudzības funkciju;
-2) identificētu riskus, kam tas pakļauts, un šos riskus atbilstoši pārvaldītu, ieviešot efektīvus pasākumus šo risku mazināšanai;
-3) nodrošinātu sistēmas tehnisko darbību pienācīgu vadību, tajā skaitā izstrādātu rīcības plānu sistēmas traucējumu riska kontrolei ārkārtas situācijā;
+2) identificētu riskus, kam tas pakļauts, un šos riskus atbilstoši pārvaldītu, tai skaitā riskus saskaņā ar Eiropas Parlamenta un Padomes 2022. gada 14. decembra regulas (ES) 2022/2554 par finanšu nozares digitālās darbības noturību un ar ko groza regulas (EK) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 un (ES) 2016/1011 (turpmāk - Regula Nr. 2022/2554) II nodaļas prasībām, ieviešot efektīvus pasākumus šo risku mazināšanai;
+3) (izslēgts ar 11.09.2025. likumu);
 3¹) ieviestu pārskatāmus un saistošus noteikumus un procedūras, kas paredz godīgu un sakārtotu tirdzniecību un nosaka objektīvus kritērijus efektīvai rīkojumu izpildei;
 4) nodrošinātu efektīvu un savlaicīgu tā sistēmās veikto darījumu pabeigšanu;
 5) licences piešķiršanas brīdī un turpmāk nodrošinātu pietiekamus finanšu resursus, lai veicinātu regulētā tirgus atbilstošu darbību, ņemot vērā to darījumu veidu un apjomu, kuri noslēgti tirgū, un to risku apjomu un pakāpi, kuriem tas pakļauts;
-6) sekmētu regulētā tirgus organizētāja biedru vai dalībnieku piekļuvi informācijai, ko emitenti, kuru pārvedami vērtspapīri iekļauti regulētajā tirgū, publisko saskaņā ar šo likumu un tieši piemērojamiem Eiropas Savienības tiesību aktiem.
+6) sekmētu regulētā tirgus organizētāja biedru vai dalībnieku piekļuvi informācijai, ko emitenti, kuru pārvedami vērtspapīri iekļauti regulētajā tirgū, publisko saskaņā ar šo likumu un tieši piemērojamiem Eiropas Savienības tiesību aktiem;
+7) nodrošinātu atbilstību datu kvalitātes standartiem, ievērojot Regulas Nr. 600/2014 22.b pantu;
+8) nodrošinātu, ka tam ir vismaz trīs nozīmīgi un aktīvi biedri vai dalībnieki, kuriem ir iespējas un spējas iesaistīties darījumos ar citiem biedriem vai dalībniekiem, vai lietotājiem attiecībā uz cenas noteikšanu.
 (3) Regulētā tirgus organizētājs nodrošina:
 1) finanšu instrumentu godīgu un atklātu iekļaušanu regulētajā tirgū un tirdzniecības norisi, kā arī vienlīdzīgu attieksmi pret visām vienā statusā esošām personām;
 2) regulētajos tirgos iekļauto finanšu instrumentu emitentu uzraudzību saistībā ar informācijas atklāšanu atbilstoši šā likuma un tieši piemērojamo Eiropas Savienības tiesību aktu prasībām;
@@ -25,7 +27,7 @@
 2) informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstību;
 3) iekšējās kontroles organizēšanu;
 4) citas darbības (ārpakalpojumus), kas nepieciešamas regulētā tirgus organizētāja darbības nodrošināšanai un ar finanšu instrumentu publisko apgrozību saistīto pakalpojumu sniegšanai.
-(9) Regulētā tirgus organizētājs iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.
+(9) Regulētā tirgus organizētājs iekšējā revīzijas dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai (turpmāk arī - zvērināts revidents).
 (10) Regulētā tirgus organizētājs nedrīkst:
 1) deleģēt saskaņā ar normatīvajiem aktiem vai statūtiem noteiktos savu pārvaldes institūciju pienākumus;
 2) licencē regulētā tirgus organizēšanai atļauto funkciju kopuma veikšanu pilnībā nodot ārpakalpojumu sniedzējiem.

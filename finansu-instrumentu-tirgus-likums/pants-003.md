@@ -17,7 +17,8 @@
 14) Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regula (ES) 2016/1011 par indeksiem, ko izmanto kā etalonus finanšu instrumentos un finanšu līgumos vai ieguldījumu fondu darbības rezultātu mērīšanai, un ar kuru groza direktīvu 2008/48/EK, direktīvu 2014/17/ES un regulu (ES) Nr. 596/2014 (turpmāk - Regula Nr. 2016/1011);
 15) Regula Nr. 2017/1129;
 16) Eiropas Parlamenta un Padomes 2022. gada 30. maija regula (ES) 2022/858 par izmēģinājuma režīmu tirgus infrastruktūrām, kuru pamatā ir sadalītās virsgrāmatas tehnoloģija, un ar ko groza regulas (ES) Nr. 600/2014 un (ES) Nr. 909/2014 un direktīvu 2014/65/ES;
-17) Eiropas Parlamenta un Padomes 2023. gada 22. novembra regula (ES) 2023/2631 par Eiropas zaļajām obligācijām un fakultatīvu informācijas atklāšanu attiecībā uz obligācijām, ko tirgo kā vides ziņā ilgtspējīgas, un ar ilgtspēju saistītām obligācijām (turpmāk - Regula Nr. 2023/2631).
+17) Eiropas Parlamenta un Padomes 2023. gada 22. novembra regula (ES) 2023/2631 par Eiropas zaļajām obligācijām un fakultatīvu informācijas atklāšanu attiecībā uz obligācijām, ko tirgo kā vides ziņā ilgtspējīgas, un ar ilgtspēju saistītām obligācijām (turpmāk - Regula Nr. 2023/2631);
+18) Eiropas Parlamenta un Padomes 2023. gada 13. decembra regula (ES) 2023/2859, ar ko izveido Eiropas vienoto piekļuves punktu, kurš nodrošina centralizētu piekļuvi publiski pieejamai informācijai saistībā ar finanšu pakalpojumiem, kapitāla tirgiem un ilgtspēju (turpmāk - Regula Nr. 2023/2859).
 (2) Šis likums attiecas uz šādiem finanšu instrumentiem, kuri šā likuma izpratnē ir:
 1) pārvedami vērtspapīri;
 2) naudas tirgus instrumenti;
