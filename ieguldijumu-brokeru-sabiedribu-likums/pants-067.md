@@ -2,5 +2,5 @@
 Latvijas Banka var piemērot šādas sankcijas:
 1) brīdinājumu;
 2) publisku paziņojumu;
-3) naudas sodu;
+3) soda naudu;
 4) licences vai atļaujas anulēšanu.

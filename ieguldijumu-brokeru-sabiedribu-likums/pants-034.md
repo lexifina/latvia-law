@@ -1,7 +1,7 @@
 34. pants. Ārpakalpojumi
 (1) Ieguldījumu brokeru sabiedrībai, nodrošinot pienācīgu prasmi un rūpību un ievērojot Finanšu instrumentu tirgus likuma F¹ sadaļā noteikto kārtību, ir tiesības deleģēt ārpakalpojumu sniedzējam šādu ārpakalpojumu veikšanu:
 1) grāmatvedības kārtošanu;
-2) informācijas tehnoloģiju vai sistēmu pārvaldību vai attīstību;
+2) informācijas un komunikāciju tehnoloģiju pārvaldību vai attīstību saskaņā ar Regulu Nr. 2022/2554 un Finanšu tirgus digitālās darbības noturības un mākslīgā intelekta izmantošanas likumu;
 3) iekšējās kontroles organizēšanu;
 4) ieguldījumu pakalpojuma un ieguldījumu blakuspakalpojuma vai kāda būtiska tā elementa sniegšanu.
 (2) Ieguldījumu brokeru sabiedrība iekšējā audita dienesta pienākumus kā ārpakalpojumu var deleģēt vienīgi zvērinātam revidentam, kas vienlaikus neveic ieguldījumu brokeru sabiedrības gada pārskata un konsolidētā gada pārskata pārbaudi, vai ieguldījumu brokeru sabiedrības mātes sabiedrībai - dalībvalstī reģistrētai kredītiestādei, apdrošināšanas sabiedrībai vai ieguldījumu brokeru sabiedrībai.
