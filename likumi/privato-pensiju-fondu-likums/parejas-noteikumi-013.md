@@ -1,0 +1,1 @@
+13. Šā likuma 8. panta trešās daļas 22. punktu un 32. panta pirmās daļas 1. punktā paredzēto pienākumu informēt potenciālo pensiju plāna dalībnieku vai pensiju plāna dalībnieku par tam paredzētās pamatinformācijas dokumentu piemēro no 2028. gada 1. janvāra.

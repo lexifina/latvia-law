@@ -47,8 +47,8 @@
 21) Regulas Nr. 2019/1238 52., 53., 54., 55. vai 56. pantā noteiktās prasības attiecībā uz PEPP sniedzēja maiņu.
 (6³) Latvijas Bankai, konstatējot šā panta 6.² daļā minētos pārkāpumus, ir tiesības piemērot šādas sankcijas:
 1) publisks paziņojums, norādot ziņas par fizisko vai juridisko personu un tās izdarīto pārkāpumu;
-2) naudas sods fiziskajai personai līdz 700 000 euro vai līdz pārkāpuma rezultātā gūto ienākumu divkāršam apmēram;
-3) naudas sods juridiskajai personai līdz pieciem miljoniem euro vai līdz pārkāpuma rezultātā gūto ienākumu divkāršam apmēram, vai līdz 10 procentiem no juridiskās personas kopējā gada apgrozījuma, pamatojoties uz iepriekšējā finanšu gada apstiprināto gada pārskatu. Ja juridiskā persona ir meitas sabiedrība, kura sagatavo konsolidēto gada pārskatu saskaņā ar normatīvo aktu prasībām, kas attiecas uz tās gada pārskatu un konsolidēto gada pārskatu sagatavošanu, kopējo gada apgrozījumu veido iepriekšējā finanšu gada kopējais gada apgrozījums vai atbilstoša veida ienākumi, pamatojoties uz galējās mātes sabiedrības iepriekšējā finanšu gada apstiprināto konsolidēto gada pārskatu.
+2) soda nauda fiziskajai personai līdz 700 000 euro vai līdz pārkāpuma rezultātā gūto ienākumu divkāršam apmēram;
+3) soda nauda juridiskajai personai līdz pieciem miljoniem euro vai līdz pārkāpuma rezultātā gūto ienākumu divkāršam apmēram, vai līdz 10 procentiem no juridiskās personas kopējā gada apgrozījuma, pamatojoties uz iepriekšējā finanšu gada apstiprināto gada pārskatu. Ja juridiskā persona ir meitas sabiedrība, kura sagatavo konsolidēto gada pārskatu saskaņā ar normatīvo aktu prasībām, kas attiecas uz tās gada pārskatu un konsolidēto gada pārskatu sagatavošanu, kopējo gada apgrozījumu veido iepriekšējā finanšu gada kopējais gada apgrozījums vai atbilstoša veida ienākumi, pamatojoties uz galējās mātes sabiedrības iepriekšējā finanšu gada apstiprināto konsolidēto gada pārskatu.
 (6⁴) Latvijas Bankai, konstatējot šā panta 6.² daļā minētos pārkāpumus, ir tiesības piemērot šādus administratīvos pasākumus:
 1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona izbeidz attiecīgo darbību;
 2) noteikt pagaidu aizliegumu valdes vai padomes loceklim vai citai fiziskajai personai, kura ir atbildīga par pārkāpumu, veikt tai noteiktos pienākumus līdz pārkāpuma novēršanas brīdim, bet ne ilgāk kā divus gadus.
@@ -58,3 +58,4 @@
 1) atlikt informācijas publiskošanu par personai piemērotajām sankcijām vai administratīvajiem pasākumiem līdz brīdim, kad beidz pastāvēt apstākļi, kuru dēļ publiskošana atlikta;
 2) publiskot šā panta astotajā daļā minēto informāciju, nodrošinot personas identitātes aizsardzību;
 3) nepubliskot šā panta astotajā daļā minēto informāciju, ja šīs daļas 1. un 2. punktā noteiktās darbības ir uzskatāmas par nepietiekamām finanšu tirgus stabilitātes nodrošināšanai.
+(10) Saskaņā ar šo pantu uzlikto soda naudu ieskaita valsts pamatbudžetā.
