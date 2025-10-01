@@ -1,0 +1,8 @@
+8. pants. Latvijas Bankas tiesības un pienākumi
+(1) Latvijas Banka veic digitālās darbības noturības prasību uzraudzību saskaņā ar Regulas Nr. 2022/2554 46. pantu.
+(2) Latvijas Bankai ir Regulas Nr. 2022/2554 50. panta 2. punktā noteiktās tiesības uzraudzības īstenošanā.
+(3) Latvijas Banka nosaka metodiku, pēc kādas novērtējami zaudējumi, kas finanšu tirgus dalībniekam - finanšu vienībai - radušies būtisku ar IKT saistītu incidentu dēļ.
+(4) Latvijas Bankai ir tiesības noteikt prasības informācijas apmaiņai un ziņošanai par būtisku ar IKT saistītu incidentu un kārtību, kādā tiek saņemti informācijas reģistra dati par trešajām personām, kas sniedz IKT pakalpojumus.
+(5) Latvijas Banka veic mākslīgā intelekta izmantošanas prasību uzraudzību saskaņā ar Regulas Nr. 2024/1689 74. panta 6. punktu.
+(6) Latvijas Banka sniedz Eiropas Centrālajai bankai informāciju, kas iegūta, uzraugot mākslīgā intelekta izmantošanas prasību ievērošanu un varētu būt noderīga kredītiestādes prudenciālajai uzraudzībai.
+(7) Lai nodrošinātu digitālās darbības noturību un mākslīgā intelekta izmantošanas drošību atbilstoši šā likuma un tieši piemērojamo Eiropas Savienības tiesību aktu prasībām, Latvijas Bankai ir tiesības papildus noteikt citas digitālās darbības noturību vai mākslīgā intelekta izmantošanu regulējošas prasības un šo prasību izpildes kārtību jomās, kuras netiek regulētas ar tieši piemērojamiem Eiropas Savienības tiesību aktiem, tostarp ievērojot Eiropas Banku iestādes, Eiropas Apdrošināšanas un aroda pensiju iestādes vai Eiropas Vērtspapīru un tirgu iestādes pieņemtos lēmumus, pamatnostādnes un ieteikumus.

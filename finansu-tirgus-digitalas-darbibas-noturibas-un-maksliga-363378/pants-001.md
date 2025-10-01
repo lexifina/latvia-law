@@ -1,0 +1,62 @@
+1. pants. Likumā lietotie termini
+(1) Likumā ir lietoti šādi termini:
+1) aktīviem piesaistītu žetonu emitents - aktīviem piesaistītu žetonu emitents Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 1. punkta 6. un 10. apakšpunkta izpratnē;
+2) ar informācijas un komunikācijas tehnoloģijām (IKT) saistīts incidents (turpmāk - ar IKT saistīts incidents) - ar informācijas un komunikācijas tehnoloģijām saistīts incidents Eiropas Parlamenta un Padomes 2022. gada 14. decembra regulas (ES) 2022/2554 par finanšu nozares digitālās darbības noturību un ar ko groza regulas (EK) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 un (ES) 2016/1011 (turpmāk - Regula Nr. 2022/2554) 3. panta 8. punkta izpratnē;
+3) ar trešo personu saistīts IKT risks - ar trešo personu saistīts IKT risks Regulas Nr. 2022/2554 3. panta 18. punkta izpratnē;
+4) būtiski kiberdraudi - būtiski kiberdraudi Regulas Nr. 2022/2554 3. panta 13. punkta izpratnē;
+5) būtisks ar IKT saistīts incidents - būtisks ar IKT saistīts incidents Regulas Nr. 2022/2554 3. panta 10. punkta izpratnē;
+6) būtisks ar maksājumiem saistīts darbības vai drošības incidents - būtisks ar maksājumiem saistīts darbības vai drošības incidents Regulas Nr. 2022/2554 3. panta 11. punkta izpratnē;
+7) centrālais darījumu partneris - centrālais darījumu partneris Eiropas Parlamenta un Padomes 2012. gada 4. jūlija regulas (ES) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk - Regula Nr. 648/2012) 2. panta 1. punkta izpratnē;
+8) centrālais vērtspapīru depozitārijs - centrālais vērtspapīru depozitārijs Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 909/2014 par vērtspapīru norēķinu uzlabošanu Eiropas Savienībā, centrālajiem vērtspapīru depozitārijiem un grozījumiem direktīvās 98/26/EK un 2014/65/ES un regulā (ES) Nr. 236/2012 2. panta 1. punkta 1. apakšpunkta izpratnē;
+9) dalībvalsts mātes finanšu pārvaldītājsabiedrība - dalībvalsts mātes finanšu pārvaldītājsabiedrība Eiropas Parlamenta un Padomes 2013. gada 26. jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm, un ar ko groza regulu (ES) Nr. 648/2012 (turpmāk - Regula Nr. 575/2013) 4. panta 1. punkta 30. apakšpunkta izpratnē;
+10) dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība - dalībvalsts mātes jaukta finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 32. apakšpunkta izpratnē;
+11) darījumu reģistrs - darījumu reģistrs Regulas Nr. 648/2012 2. panta 2. punkta izpratnē;
+12) datu ziņošanas pakalpojumu sniedzējs - apstiprināta publicēšanas struktūra, konsolidētu datu lentes nodrošinātājs, apstiprināta ziņošanas sistēma Eiropas Parlamenta un Padomes 2014. gada 15. maija regulas (ES) Nr. 600/2014 par finanšu instrumentu tirgiem un ar ko groza regulu (ES) Nr. 648/2012 2. panta 1. punkta 34., 35. un 36. apakšpunkta izpratnē;
+13) digitālās darbības noturība - digitālās darbības noturība Regulas Nr. 2022/2554 3. panta 1. punkta izpratnē;
+14) Eiropas Savienības mātes finanšu pārvaldītājsabiedrība - Eiropas Savienības mātes finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 31. apakšpunkta izpratnē;
+15) Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība - Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 33. apakšpunkta izpratnē;
+16) finanšu pārvaldītājsabiedrība - finanšu pārvaldītājsabiedrība Regulas Nr. 575/2013 4. panta 1. punkta 20. apakšpunkta izpratnē;
+17) IKT koncentrācijas risks - IKT koncentrācijas risks Regulas Nr. 2022/2554 3. panta 29. punkta izpratnē;
+18) IKT risks - IKT risks Regulas Nr. 2022/2554 3. panta 5. punkta izpratnē;
+19) importētājs - importētājs Eiropas Parlamenta un Padomes 2024. gada 13. jūnija regulas (ES) 2024/1689, ar ko nosaka saskaņotas normas mākslīgā intelekta jomā un groza regulas (EK) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 un (ES) 2019/2144 un direktīvas 2014/90/ES, (ES) 2016/797 un (ES) 2020/1828 (turpmāk - Regula Nr. 2024/1689) 3. panta 6. punkta izpratnē;
+20) izplatītājs - izplatītājs Regulas Nr. 2024/1689 3. panta 7. punkta izpratnē;
+21) kiberdraudi - kiberdraudi Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa regulas (ES) 2019/881 par ENISA (Eiropas Savienības Kiberdrošības aģentūra) un par informācijas un komunikācijas tehnoloģiju kiberdrošības sertifikāciju, un ar ko atceļ regulu (ES) Nr. 526/2013 (Kiberdrošības akts) 2. panta 8. punkta izpratnē;
+22) kolektīvās finansēšanas pakalpojumu sniedzējs - kolektīvās finansēšanas pakalpojumu sniedzējs Eiropas Parlamenta un Padomes 2020. gada 7. oktobra regulas (ES) 2020/1503 par Eiropas kolektīvās finansēšanas pakalpojumu sniedzējiem uzņēmējdarbībai un ar ko groza regulu (ES) 2017/1129 un direktīvu (ES) 2019/1937 2. panta 1. punkta "e" apakšpunkta izpratnē;
+23) kredītiestāde - kredītiestāde Regulas Nr. 575/2013 4. panta 1. punkta 1. apakšpunkta izpratnē;
+24) kredītreitingu aģentūra - kredītreitingu aģentūra Eiropas Parlamenta un Padomes 2009. gada 16. septembra regulas (EK) Nr. 1060/2009 par kredītreitingu aģentūrām 3. panta 1. punkta "b" apakšpunkta izpratnē;
+25) kriptoaktīvu pakalpojumu sniedzējs - kriptoaktīvu pakalpojumu sniedzējs Regulas Nr. 2023/1114 3. panta 1. punkta 15. apakšpunkta izpratnē;
+26) kritiski svarīga vai svarīga funkcija - kritiski svarīga vai svarīga funkcija Regulas Nr. 2022/2554 3. panta 22. punkta izpratnē;
+27) kritiski svarīgu etalonu administrators - kritiski svarīgu etalonu administrators Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regulas (ES) 2016/1011 par indeksiem, ko izmanto kā etalonus finanšu instrumentos un finanšu līgumos vai ieguldījumu fondu darbības rezultātu mērīšanai, un ar kuru groza direktīvu 2008/48/EK, direktīvu 2014/17/ES un regulu (ES) Nr. 596/2014 3. panta 1. punkta 6. un 25. apakšpunkta izpratnē;
+28) mākslīgā intelekta sistēma (turpmāk arī - MI sistēma) - mākslīgā intelekta sistēma Regulas Nr. 2024/1689 3. panta 1. punkta izpratnē;
+29) mazais uzņēmums - mazais uzņēmums Regulas Nr. 2022/2554 3. panta 63. punkta izpratnē;
+30) mikrouzņēmums - mikrouzņēmums Regulas Nr. 2022/2554 3. panta 60. punkta izpratnē;
+31) neliela un savstarpēji nesaistīta ieguldījumu brokeru sabiedrība - neliela un savstarpēji nesaistīta ieguldījumu brokeru sabiedrība Eiropas Parlamenta un Padomes 2019. gada 27. novembra regulas (ES) 2019/2033 par prudenciālajām prasībām ieguldījumu brokeru sabiedrībām un ar ko groza regulas (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 un (ES) Nr. 806/2014 12. panta 1. punkta izpratnē;
+32) neliels privātais pensiju fonds - neliela arodpensijas kapitāla uzkrāšanas institūcija Regulas Nr. 2022/2554 3. panta 53. punkta izpratnē;
+33) nodrošinātājs - nodrošinātājs Regulas Nr. 2024/1689 3. panta 3. punkta izpratnē;
+34) paziņotā struktūra - paziņotā struktūra Regulas Nr. 2024/1689 3. panta 22. punkta izpratnē;
+35) pilnvarotais pārstāvis - pilnvarotais pārstāvis Regulas Nr. 2024/1689 3. panta 5. punkta izpratnē;
+36) trešā persona, kas sniedz IKT pakalpojumus, - trešā persona, kas sniedz IKT pakalpojumus, Regulas Nr. 2022/2554 3. panta 19. punkta izpratnē;
+37) uzturētājs - uzturētājs Regulas Nr. 2024/1689 3. panta 4. punkta izpratnē;
+38) vērtspapīrošanas repozitorijs - vērtspapīrošanas repozitorijs Eiropas Parlamenta un Padomes 2017. gada 12. decembra regulas (ES) 2017/2402, ar ko nosaka vispārēju regulējumu vērtspapīrošanai un izveido īpašu satvaru attiecībā uz vienkāršu, pārredzamu un standartizētu vērtspapīrošanu, un groza direktīvas 2009/65/EK, 2009/138/EK un 2011/61/ES un regulas (EK) Nr. 1060/2009 un (ES) Nr. 648/2012 2. panta 23. punkta izpratnē;
+39) vidējais uzņēmums - vidējais uzņēmums Regulas Nr. 2022/2554 3. panta 64. punkta izpratnē.
+(2) Papildus šā panta pirmajā daļā noteiktajam šajā likumā lietotie termini atbilst šādos attiecīgos likumos lietotiem terminiem:
+1) alternatīvo ieguldījumu fondu pārvaldnieks - Alternatīvo ieguldījumu fondu un to pārvaldnieku likumā lietotajam terminam;
+2) apdrošināšanas papildpakalpojuma starpnieks - Apdrošināšanas un pārapdrošināšanas izplatīšanas likumā lietotajam terminam;
+3) apdrošināšanas sabiedrība - Apdrošināšanas un pārapdrošināšanas likumā lietotajam terminam;
+4) apdrošināšanas starpnieks - Apdrošināšanas un pārapdrošināšanas izplatīšanas likumā lietotajam terminam;
+5) elektroniskās naudas iestāde - Maksājumu pakalpojumu un elektroniskās naudas likumā lietotajam terminam;
+6) ieguldījumu brokeru sabiedrība - Ieguldījumu brokeru sabiedrību likumā lietotajam terminam;
+7) ieguldījumu pārvaldes sabiedrība - Ieguldījumu pārvaldes sabiedrību likumā lietotajam terminam;
+8) informācijas un komunikācijas tehnoloģijas - Nacionālās kiberdrošības likumā lietotajam terminam;
+9) jaukta finanšu pārvaldītājsabiedrība - Finanšu konglomerātu likumā lietotajam terminam;
+10) jaunuzņēmums - Jaunuzņēmumu darbības atbalsta likumā lietotajam terminam;
+11) konta informācijas pakalpojumu sniedzējs - Maksājumu pakalpojumu un elektroniskās naudas likumā lietotajam terminam;
+12) krājaizdevu sabiedrība - Krājaizdevu sabiedrību likumā lietotajam terminam;
+13) maksājumu iestāde - Maksājumu pakalpojumu un elektroniskās naudas likumā lietotajam terminam;
+14) pārapdrošināšanas sabiedrība - Apdrošināšanas un pārapdrošināšanas likumā lietotajam terminam;
+15) pārapdrošināšanas starpnieks - Apdrošināšanas un pārapdrošināšanas izplatīšanas likumā lietotajam terminam;
+16) pensiju plāna dalībnieks - Privāto pensiju fondu likumā lietotajam terminam;
+17) pensiju plāns - Privāto pensiju fondu likumā lietotajam terminam;
+18) privātais pensiju fonds - Privāto pensiju fondu likumā lietotajam terminam;
+19) tirdzniecības vieta - Finanšu instrumentu tirgus likumā lietotajam terminam;
+20) tīklu un informācijas sistēma - Nacionālās kiberdrošības likumā lietotajam terminam.
