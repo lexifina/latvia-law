@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 12,
+ "datums": "2025-10-02",
+ "ieraksts": {
+  "dkp_id": "a42c89da-9af7-4dc9-876f-27f9d55ab309",
+  "lastmodtime": "\"AAAAAAJnMtU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Ilze#Skaidrīte#Anna#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Inese#Vilis#Selma Teodora#Edmunds#Uldis#Didzis#Agnese#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Nauris#Jānis#Andrejs#Irma#Harijs#Edmunds#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Jānis#Anita#Gunārs#Edgars#Raimonds#Jeļena#Kaspars#Gundars#Jānis#Linda#Anda#Aleksandrs#Jānis#Uģis",
+  "SURNAME": "Indriksone#Ābrama#Rancāne#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Šuvajevs#Kalniņa#Sruoģis#Levrence#Teirumnieks#Augulis#Zemmers#Krasta#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Puntulis#Zariņš#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Vucāns#Brakovska#Kūtris#Putra#Bergmanis#Kļaviņa#Briškens#Daudze#Patmalnieks#Liepiņa#Čakša#Kiršteins#Skrastiņš#Rotbergs",
+  "VOTEDEPSUFFIX": "##############################################################",
+  "FRACTION": "NA# #JV#ZZS#ST!#JV#LPV#LPV#PRO#JV#ST!#PRO#NA#ZZS#ZZS#JV#ZZS#JV#NA#AS#JV# #NA#JV# #JV#ZZS#JV#AS#ZZS#ZZS#ST!#ST!#JV# #JV#ST!#JV#ZZS#NA#JV#PRO#JV#AS#JV#AS#NA# #AS#ZZS#ZZS#ZZS#AS#AS# #PRO#ZZS#JV#LPV#JV# #JV#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "02.10.2025 15:41:40",
+  "VOTEMOTIVE": "Grozījumi Kriminālprocesa likumā (1004/Lp14), 1.lasījums",
+  "VOTING_ID": "0576e4ce-8de6-4201-b4c4-6bcfdfccdb74",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "53",
+  "VOTERESULT_REGISTERED": "63",
+  "VOTE_NUMBER": "21",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a7fa204e-cd6d-44a0-ad7f-d55f492d5a31/download/14.saeimas-2025.gada-rudens-sesija-12-vote.xml",
+  "sha256": "761deafb18a88169bd63352a0dc05e5d770ac4f5db352121382182afa9c7af62",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
