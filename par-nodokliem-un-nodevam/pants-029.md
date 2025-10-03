@@ -1,7 +1,10 @@
 29.pants. Nokavējuma naudas aprēķināšana
 (1) (Izslēgta ar 26.10.2006. likumu.)
 (2) Par nodokļu un nodevu maksājuma samaksas termiņa nokavējumu maksātājam tiek aprēķināta nokavējuma nauda - no laikā nenomaksātā pamatparāda 0,05 procenti par katru nokavēto dienu, ja konkrētā nodokļa likumā nav noteikti citi nokavējuma naudas apmēri.
+(2¹) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 247. punktu)
+(2²) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 247. punktu)
 (3) Nokavējuma naudu neaprēķina, ja valsts vai pašvaldības budžets tam piekritīgo nodokļa maksājumu ir saņēmis piecu darbdienu laikā pēc maksājuma termiņa iestāšanās. Ja minētais nosacījums netiek ievērots, nokavējuma naudu aprēķina par periodu no nākamās dienas pēc konkrētā nodokļa likumā noteiktā maksāšanas termiņa iestāšanās līdz samaksas dienai (to ieskaitot). Ja maksāšanas termiņš sakrīt ar brīvdienu (svētku dienu), tad par maksāšanas dienu uzskatāma pirmā darbdiena pēc brīvdienas (svētku dienas).
+(3¹) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 247. punktu)
 (4) Nokavējuma naudas aprēķināšana:
 1) tiek pārtraukta, ja šā likuma 24.pantā vai 26.panta vienpadsmitajā daļā nav noteikts citādi:
 a) privatizējamām kapitālsabiedrībām - no dienas, kad tās nodotas privatizācijai, kapitālsabiedrībām - no dienas, kad tās nodotas atsavināšanai, līdz dienai, kad saistības tiek nodotas ar pieņemšanas un nodošanas aktu jaunajam īpašniekam, bet ne ilgāk kā uz 12 mēnešiem,
