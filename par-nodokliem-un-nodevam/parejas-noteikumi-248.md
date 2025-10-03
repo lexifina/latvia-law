@@ -1,0 +1,1 @@
+248. Šā likuma 113. panta pirmās daļas 1. punkta "e" apakšpunktā, 3. punkta "b" apakšpunktā un 116. panta pirmās daļas 9. punktā noteikto prasību par Valsts ieņēmumu dienesta nodokļu maksātāja reģistrācijas koda iekļaušanu vienotajā elektroniskās darba laika uzskaites datubāzē piemēro ar 2026. gada 1. februāri.

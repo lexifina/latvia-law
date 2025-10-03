@@ -1,0 +1,1 @@
+247. Grozījumi šā likuma 29. pantā par tā papildināšanu ar 2.¹ un 2.² daļu, trešās daļas trešā teikuma izteikšanu jaunā redakcijā un minētā panta papildināšanu ar 3.¹ daļu stājas spēkā 2026. gada 1. janvārī.

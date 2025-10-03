@@ -26,7 +26,7 @@
 6) normatīvajos aktos noteiktajā kārtībā uzskaitīt ieņēmumus no saimnieciskās darbības un saimnieciskās darbības izdevumus un aprēķināt nodokļus.
 (3) Fiziskajām personām, ja tās ir darba devēji, un komercsabiedrībām, kooperatīvajām sabiedrībām un citām privāto tiesību juridiskajām personām kā nodokļu maksātājiem ir šādi papildu pienākumi:
 1) uzturēt noteiktā kārtībā grāmatvedību, sastādīt pārskatus par savu finansiālo un saimniecisko darbību, aprēķināt nodokli par taksācijas periodu;
-2) uzrādīt savu nodokļu maksātāja kodu noteiktos uzskaites un pārskata dokumentos;
+2) uzrādīt savu nodokļu maksātāja reģistrācijas kodu noteiktos uzskaites un pārskata dokumentos;
 3) šajā likumā un citos normatīvajos aktos noteiktajā kārtībā un noteiktajos gadījumos reģistrēties Valsts ieņēmumu dienestā;
 4) normatīvajos aktos noteiktajos gadījumos desmit dienu laikā paziņot Valsts ieņēmumu dienestam par izmaiņām to reģistrācijas datos;
 5) šajā likumā un Ministru kabineta noteikumos noteiktajā kārtībā iesniegt nodokļu administrācijai informatīvo deklarāciju par visiem iepriekšējā mēnesī atsevišķi veiktajiem darījumiem skaidrā naudā (arī par pirkumiem), kuri pārsniedz 1500 euro;

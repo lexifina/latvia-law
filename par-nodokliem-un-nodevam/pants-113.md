@@ -5,7 +5,7 @@ a) vārds un uzvārds,
 b) personas kods (ja personai nav personas koda, - dzimšanas datums, mēnesis un gads vai vīzas vai uzturēšanās atļaujas numurs, kas apliecina, ka ārvalstniekam piešķirtas tiesības uz nodarbinātību),
 c) amats,
 d) darba devēja nosaukums vai vārds un uzvārds (ja darba devējs ir fiziskā persona),
-e) darba devējam piešķirtais Latvijas Republikas Uzņēmumu reģistra vienotais reģistrācijas numurs vai personas kods (ja darba devējs ir fiziskā persona), vai cits identifikācijas numurs (ja darba devējs ir ārvalstī reģistrēta juridiskā persona),
+e) darba devējam piešķirtais Latvijas Republikas Uzņēmumu reģistra vienotais reģistrācijas numurs vai Valsts ieņēmumu dienesta nodokļu maksātāja reģistrācijas kods, vai cits identifikācijas numurs (ja darba devējs ir ārvalstī reģistrēta juridiskā persona),
 f) būvatļaujas numurs vai nekustamā īpašuma objekta kadastra apzīmējums (ja būvatļauja nav izsniegta),
 g) laiks, kad persona ieradusies būvlaukumā un atstājusi to,
 h) summārais laiks - šā punkta "g" apakšpunktā minētie dati, kas atspoguļoti kā diennakts summārais darba laiks kalendāra mēneša ietvaros par katru būvlaukumā nodarbināto personu. Summārais laiks ietver arī darba tiesiskās attiecības reglamentējošos normatīvajos aktos noteiktos pārtraukumus darbā;
@@ -15,8 +15,8 @@ b) personas kods; ja personai nav personas koda, - dzimšanas datums, mēnesis u
 c) laiks, kad persona ieradusies būvlaukumā un atstājusi to,
 d) atrašanās laiks būvlaukumā, kas atspoguļots kā diennakts summārais laiks;
 3) par galvenā būvdarbu veicēja noslēgto būvdarbu līgumu ar būvniecības ierosinātāju un, ja mainās līguma summa, šā līguma grozījumiem:
-a) būvniecības ierosinātāja nosaukums,
-b) būvniecības ierosinātājam piešķirtais Latvijas Republikas Uzņēmumu reģistra vienotais reģistrācijas numurs vai personas kods (ja būvniecības ierosinātājs ir fiziskā persona), vai cits identifikācijas numurs (ja būvniecības ierosinātājs ir ārvalstī reģistrēta juridiskā persona),
+a) būvniecības ierosinātāja nosaukums vai vārds un uzvārds (ja būvniecības ierosinātājs ir fiziskā persona),
+b) būvniecības ierosinātājam piešķirtais Latvijas Republikas Uzņēmumu reģistra vienotais reģistrācijas numurs vai Valsts ieņēmumu dienesta nodokļu maksātāja reģistrācijas kods, vai personas kods (ja būvniecības ierosinātājs ir fiziskā persona), vai cits identifikācijas numurs (ja būvniecības ierosinātājs ir ārvalstī reģistrēta juridiskā persona),
 c) līguma datums,
 d) līguma summa vai, ja ar līguma grozījumiem mainās līguma summa, līguma jaunā summa;
 4) iepriekšējā mēnesī samaksātā līguma summa vai tās daļa (gan būvniecības ierosinātāja norēķini ar būvdarbu veicējiem, gan galvenā būvdarbu veicēja norēķini ar saviem apakšuzņēmējiem, gan apakšuzņēmēju norēķini ar saviem apakšuzņēmējiem).
