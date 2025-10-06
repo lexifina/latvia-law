@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 30. septembra noteikumi Nr. 575 “Grozījumi Ministru kabineta 2019. gada 8. janvāra noteikumos Nr. 1 “Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības noteikumi”\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2025/192.6",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-06",
+  "entry_into_force": "2026-12-04",
+  "notification_date": "2025-10-09",
+  "commission_reference": "MNE(2025)05585",
+  "nim_celex": "72024L1262LVA_202505585",
+  "nim_id": "202505585",
+  "transposes_celex": [
+    "32024L1262"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/8de07ec6-28d3-4ccd-8966-ee6af5ae3cd6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
