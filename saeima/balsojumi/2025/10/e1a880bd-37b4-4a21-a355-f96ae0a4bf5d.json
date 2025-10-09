@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 13,
+ "datums": "2025-10-09",
+ "ieraksts": {
+  "dkp_id": "43ec4328-e706-4719-81e3-c6610a1f0bb2",
+  "lastmodtime": "\"AAAAAAJoAAI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Skaidrīte#Anna#Edmunds#Zane#Mārtiņš#Ilze#Mārcis#Andris#Andris#Vilis#Amils#Selma Teodora#Edmunds#Edmunds#Agnese#Raivis#Jana#Ligita#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Valdis#Līga#Dmitrijs#Nataļja#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Edgars#Igors#Raimonds#Jeļena#Kaspars#Gundars#Ramona#Jānis#Linda#Anda#Aleksandrs#Jānis#Inga#Uģis",
+  "SURNAME": "Ivanovs#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Daģis#Stobova#Jencītis#Bērziņš#Šuvajevs#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zivtiņš#Krasta#Dzintars#Simanovska#Gintere#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Putra#Judins#Bergmanis#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Čakša#Kiršteins#Skrastiņš#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "ST!#NA# #JV#PRO#JV#JV#LPV#LPV#ZZS#PRO#ST!#ST!#PRO#NA#LPV#JV#NA#PRO#ZZS#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#ZZS#ZZS#ST!#ST!# #JV# #JV#ST!#JV#ZZS#NA#NA#JV#PRO#JV#AS#JV#AS#NA# #AS#AS#JV#ZZS#ZZS#AS#ST!#AS# #PRO#ZZS#LPV#JV#LPV#JV# #JV#JV#JV",
+  "RESULT": "Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Pret#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "09.10.2025 13:33:31",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījums Publisko aģentūru likumā (1070/Lp14), 1.lasījums",
+  "VOTING_ID": "e1a880bd-37b4-4a21-a355-f96ae0a4bf5d",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "7",
+  "VOTERESULT_FOR": "61",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "22",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-13-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/22adf58a-0c59-4115-a0b6-2894e2966a7e/download/14.saeimas-2025.gada-rudens-sesija-13-vote.xml",
+  "sha256": "864cc960410b8f3220b63818c9861fe7f0a9cbab80843d187d6af5b4546e023c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
