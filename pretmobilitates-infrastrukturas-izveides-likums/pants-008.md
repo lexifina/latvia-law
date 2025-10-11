@@ -1,0 +1,1 @@
+8. pants. Valsts un pašvaldību institūcijas iesniegumus un jautājumus, kas saistīti ar pretmobilitātes infrastruktūras izveidi un tai nepieciešamo darbu nodrošināšanu un veikšanu, izskata un lēmumus pieņem prioritārā kārtībā, ja tas iespējams.

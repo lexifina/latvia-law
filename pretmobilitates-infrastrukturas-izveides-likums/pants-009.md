@@ -1,0 +1,1 @@
+9. pants. Lai nodrošinātu pretmobilitātes infrastruktūras izveidi, visus nepieciešamos darbus (projektēšana, būvdarbi un ar tiem saistītie pakalpojumi), šo darbu veikšanai nepieciešamos materiālus, iekārtas un tehnisko nodrošinājumu iegādājas, nepiemērojot publiskā iepirkuma regulējumu.

@@ -1,0 +1,1 @@
+5. pants. Uz pretmobilitātes pasākumiem nepieciešamo materiāltehnisko līdzekļu izvietošanu un infrastruktūras izbūvi neattiecas būvniecību regulējošos normatīvajos aktos noteiktās prasības, kā arī meža apsaimniekošanas, koku ciršanas un vides aizsardzības prasības.

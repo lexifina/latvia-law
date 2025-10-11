@@ -1,0 +1,1 @@
+2. Ministru kabinets, ņemot vērā valsts budžeta iespējas, kā arī Eiropas Savienības un citas ārvalstu finanšu palīdzības iespējas, novirza papildu finansējumu šā likuma 1. pantā minēto novadu pašvaldību atbalstam.

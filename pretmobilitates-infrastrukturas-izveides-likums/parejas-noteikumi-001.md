@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2026. gada 1. jūnijam izskata un iesniedz Saeimai informāciju par Rīcības plāna Latvijas Austrumu pierobežas ekonomiskajai izaugsmei un drošības stiprināšanai 2025.-2027. gadam izpildes un ieviešanas gaitu, kā arī gadskārtējā valsts budžeta likumā un Ministru kabineta lēmumos paredzētajiem atbalsta pasākumiem pierobežā esošajām Latgales pašvaldībām.

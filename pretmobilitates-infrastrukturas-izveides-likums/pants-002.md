@@ -1,0 +1,2 @@
+2. pants. (1) Ministru kabinets nosaka pretmobilitātes infrastruktūras izveidei nepieciešamo teritoriju un tajā ietilpstošos nekustamos īpašumus vai to daļas, tai skaitā nekustamos īpašumus, uz kuriem tiek nodibināts servitūts un kuri tiks atsavināti sabiedrības vajadzībām.
+(2) Šā panta pirmajā daļā minētajai teritorijai nosaka nacionālo interešu objekta statusu, un informācija par šo teritoriju nav publiski pieejama.
