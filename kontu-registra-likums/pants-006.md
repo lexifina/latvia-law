@@ -1,6 +1,6 @@
 6. pants. Reģistra informācijas lietotāji un reģistrā iekļauto ziņu apstrādes mērķi
 (1) Reģistra pārzinis reģistrā iekļautās ziņas izsniedz šādiem reģistra informācijas lietotājiem pēc to pamatota pieprasījuma un Ministru kabineta noteiktajā apjomā šādiem mērķiem:
-1) Finanšu izlūkošanas dienestam - Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteikto funkciju veikšanai, tai skaitā starptautiskās sadarbības nodrošināšanai ar ārvalstu pilnvarotajām iestādēm, lai novērstu noziedzīgi iegūtu līdzekļu legalizāciju un ar to saistīto noziedzīgo nodarījumu, terorisma un proliferācijas finansēšanu;
+1) Finanšu izlūkošanas dienestam - Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteikto funkciju veikšanai, tai skaitā starptautiskās sadarbības nodrošināšanai ar ārvalstu pilnvarotajām iestādēm, lai novērstu noziedzīgi iegūtu līdzekļu legalizāciju un ar to saistīto noziedzīgo nodarījumu, terorisma un proliferācijas finansēšanu, kā arī Starptautisko un Latvijas Republikas nacionālo sankciju likumā noteikto funkciju veikšanai;
 2) operatīvās darbības subjektiem - operatīvo darbību veikšanai operatīvās uzskaites lietā;
 3) izmeklēšanas iestādēm - izmeklēšanas darbību veikšanai pirmstiesas kriminālprocesā;
 4) Latvijas Bankai - normatīvajos aktos noteikto uzraudzības funkciju izpildei;

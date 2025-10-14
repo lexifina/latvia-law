@@ -1,0 +1,1 @@
+10. Ziņu sniedzējs līdz 2026. gada 30. septembrim nodrošina šā likuma 5. panta 2.¹ daļas noteikumu piemērošanu reģistrā esošām ziņām par slēgtu kontu ar atlikumu, kas reģistrā iekļautas un nav dzēstas līdz šā likuma 5. panta 2.¹ daļas spēkā stāšanās dienai.
