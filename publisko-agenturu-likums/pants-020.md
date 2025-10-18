@@ -7,6 +7,6 @@
 4) pieņem darbā un atlaiž no darba pašvaldības aģentūras direktoru;
 5) novērtē pašvaldības aģentūras darbības rezultātus;
 6) ierosina pārbaužu veikšanu pašvaldības aģentūrā;
-7) ierosina disciplinārlietu vai dienesta pārbaudi saistībā ar pašvaldības aģentūras direktora darbību (arī disciplināri soda);
+7) (izslēgts ar 09.10.2025. likumu);
 8) veic citus normatīvajos aktos noteiktos pasākumus.
 (3) Pašvaldības domei un tās pilnvarotajai amatpersonai ir tiesības pieprasīt un saņemt informāciju par pašvaldības aģentūras darbību.
