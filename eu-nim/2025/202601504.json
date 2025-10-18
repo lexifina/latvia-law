@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 9. oktobra likums \"Grozījumi likumā \"Par piesārņojumu\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "201",
+  "official_journal_page": null,
+  "official_journal_date": "2025-10-17",
+  "entry_into_force": "2025-10-18",
+  "notification_date": "2026-03-02",
+  "commission_reference": "MNE(2026)01504",
+  "nim_celex": "72023L0959LVA_202601504",
+  "nim_id": "202601504",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2bdd6dd4-eeba-4170-a2e5-588331e4db45",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
