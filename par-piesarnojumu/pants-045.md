@@ -1,5 +1,5 @@
-45.pants. Operatora un gaisa kuģa operatora veiktais monitorings
-(1) Operatora un gaisa kuģa operatora pienākums ir regulāri kontrolēt emisiju apjomu, veikt monitoringu un sniegt informāciju Ministru kabineta noteiktajā kārtībā.
+45.pants. Operatora veiktais monitorings
+(1) Operatora pienākums ir regulāri kontrolēt emisiju apjomu, veikt monitoringu un sniegt informāciju Ministru kabineta noteiktajā kārtībā.
 (1¹) Ministru kabinets nosaka operatora veiktā monitoringa pārskata veidlapas aizpildīšanas, iesniegšanas un pārbaudes kārtību.
 (2) (Izslēgta ar 12.04.2018. likumu)
 (3) Operators veic monitoringu saskaņā ar atļauju, kurā norādīti nosakāmie parametri, paraugu ņemšanas vietas, mērījumu biežums un metodes, datu apkopošanas un uzglabāšanas veids. A kategorijas piesārņojošas darbības operators pazemes ūdeņu monitoringu veic vismaz reizi piecos gados un augsnes monitoringu - vismaz reizi 10 gados, ja vien atļaujā nav noteikts, ka, pamatojoties uz piesārņojuma draudu novērtējumu, monitorings veicams biežāk.
@@ -8,8 +8,8 @@
 2) avārijas vai tās draudu gadījumā.
 (5) Monitoringa dati un monitoringa pārskats ir pieejami atļaujas izsniedzējam, kontroles institūcijām, attiecīgajai pašvaldībai un sabiedrībai.
 (6) (Izslēgta no 01.01.2020. ar 12.04.2018. likumu. Sk. Pārejas noteikumu 59. punktu)
-(7) Operators, kas saņēmis siltumnīcefekta gāzu emisijas atļauju, sagatavo ikgadējo emisiju ziņojumu par Eiropas Savienības emisijas kvotu tirdzniecības sistēmas piesārņojošām darbībām un to radītajām siltumnīcefekta gāzu emisijām, kā arī par veiktajiem siltumnīcefekta gāzu emisiju samazināšanas pasākumiem un to finanšu līdzekļu izlietojumu, kuri gūti no darījumiem ar tam bez maksas piešķirtajām emisijas kvotām. Šo ziņojumu pārbauda un apstiprina Ministru kabineta noteiktajā kārtībā. Ikgadējais emisiju ziņojums ir pieejams kontroles institūcijām un sabiedrībai.
-(7¹) Gaisa kuģa operators, sākot ar 2011.gada 1.janvāri, sagatavo ikgadējo emisiju ziņojumu par Eiropas Savienības emisijas kvotu tirdzniecības sistēmas piesārņojošām darbībām un to radītajām siltumnīcefekta gāzu emisijām, kā arī par veiktajiem siltumnīcefekta gāzu emisiju samazināšanas pasākumiem un to finanšu līdzekļu izlietojumu, kuri gūti no darījumiem ar tam bez maksas piešķirtajām emisijas kvotām. Šo ziņojumu pārbauda un apstiprina Ministru kabineta noteiktajā kārtībā. Ikgadējais emisiju ziņojums ir pieejams kontroles institūcijām un sabiedrībai.
-(7²) Operators, kas saņēmis siltumnīcefekta gāzu emisijas atļauju, sagatavo ikgadējo darbības līmeņa ziņojumu par katras Eiropas Savienības emisijas kvotu tirdzniecības sistēmas iekārtas apakšiekārtas darbības līmeni saistībā ar tās veiktajām piesārņojošām darbībām. Šo ziņojumu iesniedz, pārbauda un apstiprina Ministru kabineta noteiktajā kārtībā. Ikgadējais darbības līmeņa ziņojums ir pieejams kontroles institūcijām.
-(8) Operators un gaisa kuģa operators, kura ikgadējais emisiju ziņojums līdz attiecīgā gada 31.martam nav apstiprināts vai ir atzīts par neatbilstošu, nedrīkst veikt darījumus ar emisijas kvotām vai Kioto vienībām. Minētos darījumus drīkst veikt pēc ikgadējā emisiju ziņojuma apstiprināšanas.
-(9) Ikgadējo emisiju ziņojumu, Komisijas 2012. gada 21. jūnija regulas (ES) Nr. 600/2012 par siltumnīcefekta gāzu ziņojumu un tonnkilometru ziņojumu verifikāciju un par verificētāju akreditāciju saskaņā ar Eiropas Parlamenta un Padomes direktīvu 2003/87/EK 27. pantā minēto verifikācijas ziņojumu, informāciju par veiktajiem siltumnīcefekta gāzu emisiju samazināšanas pasākumiem un to finanšu līdzekļu izlietojumu, kā arī tiem pievienotos pielikumus un dokumentus iesniedz elektroniski ES ETS informācijas apmaiņas sistēmā "DECLARE", kas sabiedrībai ir nepārtraukti pieejama tiešsaistes režīmā.
+(7) (Izslēgta ar 09.10.2025. likumu)
+(7¹) (Izslēgta ar 09.10.2025. likumu)
+(7²) (Izslēgta ar 09.10.2025. likumu)
+(8) (Izslēgta ar 09.10.2025. likumu)
+(9) (Izslēgta ar 09.10.2025. likumu)

@@ -1,5 +1,5 @@
 11.pants. Piesārņojošas darbības veikšanas nosacījumi
-(1) Veicot piesārņojošu darbību, operators un gaisa kuģa operators ievēro:
+(1) Veicot piesārņojošu darbību, operators ievēro:
 1) aizliegumu attiecībā uz noteiktu piesārņojošu vielu emisiju vidē;
 2) noteiktu piesārņojuma veidu emisijas robežvērtības un limitus, kā arī ar labākajiem pieejamiem tehniskajiem paņēmieniem saistītos emisiju līmeņus;
 3) emisijas samazināšanas, novēršanas vai kontroles kārtību noteiktās saimnieciskās darbības jomās vai attiecībā uz noteikta veida iekārtām vai vielām;
@@ -21,7 +21,7 @@
 14) šķidrās degvielas veidus ar paaugstinātu sēra saturu, kurus aizliegts izlaist brīvam apgrozījumam vai realizēt;
 15) vides kvalitātes normatīvus iekārtām un noteikta veida kuģošanas līdzekļiem, kuri izmanto sēru saturošu šķidro degvielu;
 16) izmēģinājumu un inovatīvo emisijas samazināšanas tehnoloģiju izmantošanu kuģošanas līdzekļos;
-17) kārtību, kādā aviācijas darbības iekļauj Eiropas Savienības emisijas kvotu tirdzniecības sistēmā;
+17) (izslēgts ar 09.10.2025. likumu);
 18) kārtību, kādā nodrošināma oglekļa dioksīda plūsmas transportēšana pa cauruļvadiem uz uzglabāšanas vietām, kā arī oglekļa dioksīda plūsmas tīrības kritērijus un kārtību, kādā izskatāmi strīdi par piekļuvi transporta tīkliem un uzglabāšanas vietām;
 19) kārtību, kādā novēršama, ierobežojama un kontrolējama gaisu piesārņojošo vielu emisija no sadedzināšanas iekārtām;
 20) kārtību, kādā ierobežojama gaistošo organisko savienojumu emisija no iekārtām, kurās izmanto organiskos šķīdinātājus;

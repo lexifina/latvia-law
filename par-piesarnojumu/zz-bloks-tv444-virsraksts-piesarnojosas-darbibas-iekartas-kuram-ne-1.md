@@ -38,7 +38,7 @@ i) sintētiskā kaučuka vai gumijas ražošanai,
 j) krāsvielu un pigmentu ražošanai,
 k) virsmaktīvo vielu ražošanai;
 2) iekārtas neorganisko vielu ražošanai, piemēram:
-a) gāzu, piemēram, amonjaka, hlora vai hlorūdeņraža, fluora vai fluorūdeņraža, oglekļa oksīdu, sēru saturošo savienojumu, slāpekļa oksīdu, ūdeņraža, sēra dioksīda, fosgēna, ražošanai,
+a) gāzu, piemēram, amonjaka, hlora vai hlorūdeņraža, fluora vai fluorūdeņraža, oglekļa oksīdu, sēru saturošo savienojumu, slāpekļa oksīdu, ūdeņraža, izņemot tādu ūdeņradi, kas ražots, izmantojot ūdens elektrolīzi, sēra dioksīda, fosgēna, ražošanai,
 b) skābju, piemēram, hromskābes, fluorūdeņražskābes, fosforskābes, slāpekļskābes, sālsskābes, sērskābes, oleuma, sērpaskābes, ražošanai,
 c) bāzu, piemēram, amonija hidroksīda, kālija hidroksīda, nātrija hidroksīda, ražošanai,
 d) sāļu, piemēram, amonija hlorīda, kālija hlorāta, kālija karbonāta, nātrija karbonāta, perborāta, sudraba nitrāta, ražošanai,
@@ -103,6 +103,7 @@ c) vairāk nekā 750 sivēnmāšu;
 8) iekārtas ogļu vai grafīta elektrodu ražošanai, izmantojot dedzināšanu augstās temperatūrās vai grafitizāciju;
 9) oglekļa dioksīda (CO2) plūsmas uztveršana no darbībām (iekārtām), kas norādītas šajā pielikumā, saistībā ar ģeoloģisku oglekļa dioksīda glabāšanu, kā tas noteikts Eiropas Parlamenta un Padomes 2009.gada 23.aprīļa direktīvā 2009/31/EK par oglekļa dioksīda ģeoloģisko uzglabāšanu un grozījumiem Padomes direktīvā 85/337/EEK, Eiropas Parlamenta un Padomes direktīvās 2000/60/EK, 2001/80/EK, 2004/35/EK, 2006/12/EK, 2008/1/EK un regulā (EK) Nr. 1013/2006 (Dokuments attiecas uz EEZ);
 10) iekārtas koksnes un koksnes izstrādājumu konservācijai, izņemot apstrādi pret zilējuma sēnītēm, izmantojot ķīmiskas vielas, kuru ražošanas jauda pārsniedz 75 m³ dienā;
-11) iekārtas neatkarīgai notekūdeņu attīrīšanai, kas nodrošina šajā pielikumā minēto piesārņojošo darbību radīto notekūdeņu attīrīšanu, ja uz notekūdeņu attīrīšanas iekārtām neattiecas normatīvo aktu regulējums par piesārņojošo vielu emisiju ūdenī.
+11) iekārtas neatkarīgai notekūdeņu attīrīšanai, kas nodrošina šajā pielikumā minēto piesārņojošo darbību radīto notekūdeņu attīrīšanu, ja uz notekūdeņu attīrīšanas iekārtām neattiecas normatīvo aktu regulējums par piesārņojošo vielu emisiju ūdenī;
+12) ūdens elektrolīze ūdeņraža ražošanai, ja ražošanas jauda pārsniedz 50 tonnas dienā.
 (7) Jēdziens "ražošana" attiecībā uz šā pielikuma ceturtajā daļā minētajām darbībām nozīmē rūpnieciska apjoma ražošanu, kuras procesā tiek veikta šīs daļas 1., 2., 3., 5. un 6.punktā minēto vielu vai vielu grupu ķīmiska vai bioloģiska pārstrāde.
 (8) Ja vienīgā veiktā atkritumu pārstrādes darbība, kas minēta šā pielikuma piektās daļas 3.¹ punktā, ir anaerobā sadalīšana, tās jaudas robežvērtība ir 100 tonnas dienā.

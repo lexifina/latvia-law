@@ -11,4 +11,4 @@
 8¹) ievēro A vai B kategorijas piesārņojošas darbības atļaujā un siltumnīcefekta gāzu emisijas atļaujā ietvertos nosacījumus;
 9) pēc iekārtas darbības pilnīgas pārtraukšanas veic pasākumus, kas nepieciešami piesārņojuma riska novēršanai un iekārtas atrašanās vietas sakārtošanai atbilstošā stāvoklī;
 10) racionāli izmanto enerģiju.
-(2) Gaisa kuģa operators, veicot piesārņojošu darbību, ievēro šā panta pirmās daļas 1., 3., 4. un 7.punkta prasības.
+(2) (Izslēgta ar 09.10.2025. likumu)

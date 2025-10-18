@@ -1,0 +1,5 @@
+81. Līdz šā likuma 32.¹⁷ panta trīspadsmitās daļas 1., 2., 3., 5. un 6. punktā, 32.¹⁸ panta septītajā daļā, 32.²¹ panta desmitajā daļā, 32.²² panta piektajā daļā, 32.²³ panta sestajā daļā, 32.²⁴ panta astotajā daļā, 32.²⁵ panta ceturtajā daļā, 32.²⁶ panta trešajā daļā, 32.²⁸ panta astotajā daļā un 32.³⁶ panta trešajā daļā minēto noteikumu spēkā stāšanās dienai ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2012. gada 13. novembra noteikumi Nr. 769 "Noteikumi par stacionāro tehnoloģisko iekārtu dalību Eiropas Savienības emisijas kvotu tirdzniecības sistēmā";
+2) Ministru kabineta 2013. gada 9. jūlija noteikumi Nr. 366 "Noteikumi par aviācijas darbību dalību Eiropas Savienības emisijas kvotu tirdzniecības sistēmā";
+3) Ministru kabineta 2018. gada 17. jūlija noteikumi Nr. 430 "Kārtība, kādā sagatavo, pārbauda un iesniedz ziņojumu par jūras transporta oglekļa dioksīda emisijām";
+4) Ministru kabineta 2021. gada 29. jūnija noteikumi Nr. 449 "Emisijas kvotu piešķiršanas kārtība stacionāro tehnoloģisko iekārtu operatoriem".

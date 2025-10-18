@@ -1,5 +1,5 @@
 32.⁹ pants. Iekārtas darbības apturēšanas nosacījumi
-(1) Iekārtas darbību aptur, ja nav saņemta nepieciešamā A vai B kategorijas piesārņojošas darbības atļauja vai arī nav iesniegts iesniegums par C kategorijas darbības veikšanu vai nav saņemta siltumnīcefekta gāzu emisijas atļauja. Tas neattiecas uz gadījumiem, kad A vai B kategorijas piesārņojošas darbības atļauja apturēta vai izsniegtā atļauja atcelta apstrīdēšanas procedūras ietvaros.
+(1) Iekārtas darbību aptur, ja nav saņemta nepieciešamā A vai B kategorijas piesārņojošas darbības atļauja vai arī nav iesniegts iesniegums par C kategorijas darbības veikšanu. Tas neattiecas uz gadījumiem, kad A vai B kategorijas piesārņojošas darbības atļauja apturēta vai izsniegtā atļauja atcelta apstrīdēšanas procedūras ietvaros.
 (2) Iekārtas darbību aptur, ja nepieciešamā atļauja vai iesniegums par C kategorijas darbību ir saņemts, bet:
 1) operatora prettiesiskas rīcības dēļ iekārta ir radījusi vai var radīt vides piesārņojumu, kas nodara vai var nodarīt būtisku kaitējumu videi vai cilvēku veselībai;
 2) darbinot iekārtu, atkārtoti tiek pārkāpti vides aizsardzības normatīvie akti vai netiek pildīti vides aizsardzības valsts iestāžu administratīvie akti.

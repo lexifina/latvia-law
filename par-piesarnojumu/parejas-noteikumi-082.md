@@ -1,0 +1,1 @@
+82. Līdz šā likuma 32.¹⁹ panta otrajā daļā un 32.²⁹ panta trešajā daļā minēto noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2014. gada 20. maija noteikumi Nr. 250 "Noteikumi par darbībām emisijas reģistrā", ciktāl tie nav pretrunā ar šo likumu.

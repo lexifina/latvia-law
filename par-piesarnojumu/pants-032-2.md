@@ -1,15 +1,9 @@
-32.² pants. Emisijas kvotu sadale
+32.² pants. Emisijas kvotu izsoļu ieņēmumi un to izmantošanas nosacījumi
 (1) Klimata un enerģētikas ministrija, izvērtējot arī sabiedrības viedokli un ņemot vērā Eiropas Komisijas apstiprināto iekārtu sarakstu un tā grozījumus, pieņem lēmumu par emisijas kvotu piešķiršanu operatoram, kurš ir saņēmis siltumnīcefekta gāzu emisijas atļauju, ne vēlāk kā divu mēnešu laikā pēc tam, kad saņemts Eiropas Komisijas apstiprinājums par iekārtu sarakstu vai tā grozījumiem. Klimata un enerģētikas ministrija pieņem lēmumu par emisijas kvotu piešķiršanu gaisa kuģa operatoram. Klimata un enerģētikas ministrijas lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā izpildi.
-(1¹) Operatoram, kurš ir saņēmis siltumnīcefekta gāzu emisijas atļauju šā likuma 2.pielikumā minētajām piesārņojošām darbībām, un gaisa kuģa operatoram emisijas kvotas piešķir uz šādiem periodiem:
-1) pirmais periods - no 2005.gada 1.janvāra līdz 2007.gada 31.decembrim;
-2) otrais periods - no 2008.gada 1.janvāra līdz 2012.gada 31.decembrim;
-3) trešais periods - no 2013.gada 1.janvāra līdz 2020.gada 31.decembrim;
-4) turpmākie periodi - katri nākamie 10 kalendārie gadi, sākot ar 2021.gada 1.janvāri.
-(2) Emisijas kvotas derīgums ir atkarīgs no perioda, kurā tā izsniegta:
-1) šā panta 1.¹ daļas 3. punktā noteiktajā periodā izsniegtās kvotas ir beztermiņa;
-2) šā panta 1.¹ daļas 4. punktā noteiktajā periodā izsniegtās kvotas ir beztermiņa, un tām tiek norādīts, kurā Eiropas Savienības emisijas kvotu tirdzniecības sistēmas 10 gadu periodā tās tikušas izsniegtas. Šīs emisijas kvotas ir derīgas emisijas kvotu nodošanai par to emisiju apjomu, kas radīts, sākot ar minētā perioda pirmo gadu.
-(3) Līdz 2012.gada 1.janvārim operators saņem emisijas kvotas bez maksas. Sākot ar 2012.gada 1.janvāri, gaisa kuģu operatoriem un, sākot ar 2013.gada 1.janvāri, operatoriem emisijas kvotas, izņemot bez maksas piešķirtās emisijas kvotas, izsola. Gaisa kuģu operatoriem tiek izsolīti 15 procenti emisijas kvotu no tā apjoma, kas piešķirams Eiropas Savienības gaisa kuģu operatoriem, ņemot vērā nosacījumus, kuri regulē Eiropas Savienības emisijas kvotu tirdzniecības sistēmas emisijas kvotu izsolīšanas jomu.
-(3¹) Finanšu līdzekļus, kas iegūti, izsolot šā panta trešajā daļā minētās emisijas kvotas (turpmāk - izsoļu ieņēmumi), ieskaita Valsts kasē atvērtajā valsts pamatbudžeta ieņēmumu kontā atbilstoši valsts budžeta ieņēmumu klasifikācijai.
+(1¹) (Izslēgta ar 09.10.2025. likumu)
+(2) (Izslēgta ar 09.10.2025. likumu)
+(3) (Izslēgta ar 09.10.2025. likumu)
+(3¹) Finanšu līdzekļus, kas iegūti, izsolot šā likuma 32.²⁷ pantā minētās emisijas kvotas (turpmāk - izsoļu ieņēmumi), ieskaita Valsts kasē atvērtajā valsts pamatbudžeta ieņēmumu kontā atbilstoši valsts budžeta ieņēmumu klasifikācijai.
 (3²) Valsts pamatbudžetā kārtējam gadam un ilgtermiņa saistībās turpmākajiem gadiem finansējumu šā panta 4.⁴ daļā minētajiem mērķiem paredz kā dotāciju no vispārējiem ieņēmumiem atsevišķā Klimata un enerģētikas ministrijas budžeta programmā (apakšprogrammā) atbilstoši iepriekšējos gados iegūto un neizlietoto izsoļu ieņēmumu apmēram.
 (3³) Šā panta 3.² daļā minētās programmas (apakšprogrammas) izpildītāja ir Klimata un enerģētikas ministrija.
 (4) (Izslēgta ar 31.01.2013. likumu)
@@ -31,7 +25,7 @@ c) īstenot izglītojošus pasākumus, kuru rezultātā uzlabojas sabiedrības i
 (4⁶) Izsoļu ieņēmumu izmantošanu šā panta 4.⁴ daļas 1. un 2.punktā minētajiem mērķiem nodrošina, organizējot atklātos projektu iesniegumu konkursus. Ministru kabinets izdod atklāto projektu iesniegumu konkursu nolikumus, kuros nosaka projektu iesniegumu vērtēšanas kritērijus, projektu iesniegumu iesniegšanas, izskatīšanas, apstiprināšanas un finansējuma piešķiršanas kārtību, kā arī projektu īstenošanas, pārskatu iesniegšanas un pārbaudes kārtību. Izsoļu ieņēmumus no Eiropas Savienības emisijas kvotu tirdzniecības šā panta 4.⁴ daļas 1. un 2. punktā minētajiem mērķiem var turpināt piešķirt piecus gadus pēc Eiropas Savienības emisijas kvotu tirdzniecības sistēmas darbības termiņa beigām.
 (4⁷) Klimata un enerģētikas ministrija sagatavo un, sākot ar 2013.gadu, līdz kārtējā gada 1.aprīlim iesniedz Ministru kabinetam informatīvo ziņojumu par izsoļu ieņēmumu izmantošanu iepriekšējā gadā, tai skaitā informāciju par finansētajiem pasākumiem, par panākto siltumnīcefekta gāzu emisijas samazinājumu, par to, kādi sasniegumi gūti, nodrošinot pielāgošanos klimata pārmaiņām, kā arī par nodrošināto vides kvalitātes uzlabojumu kopumā.
 (4⁸) Līdzekļus, kas iegūti, izsolot šā panta trešajā daļā minētās emisijas kvotas, var izmantot vienreizējam pasākumam, lai mazinātu elektroenerģijas galalietotāju izmaksas par izmantoto elektroenerģiju un kompensētu tiem elektroenerģijas sistēmas pakalpojuma izmaksas.
-(5) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" proporcionāli sadala attiecīgā perioda bez maksas piešķiramo kopējo emisijas kvotu daudzumu katram perioda gadam un pārskaita to uz operatora un gaisa kuģa operatora kontu Kioto vienību un emisijas kvotu reģistrā (turpmāk arī - emisijas reģistrs).
-(6) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" katru gadu līdz 28.februārim emisijas reģistrā sadala emisijas kvotas pa operatoru un gaisa kuģa operatoru kontiem un valsts kontu emisijas kvotu izsolēm, ievērojot Eiropas Komisijas apstiprināto iekārtu sarakstu, Klimata un enerģētikas ministrijas lēmumus un Eiropas Savienības tiesību aktus emisijas kvotu sadales jomā un emisijas kvotu izsoļu jomā.
+(5) (Izslēgta ar 09.10.2025. likumu)
+(6) (Izslēgta ar 09.10.2025. likumu)
 (7) Ministru kabinets nosaka kārtību, kādā nodrošināma Latvijai piešķirto siltumnīcefekta gāzu emisijas kvotu izsolīšana.
-(8) Ministru kabinets nosaka kārtību, kādā tiek pieņemts šā panta pirmajā daļā minētais lēmums attiecībā uz šā panta 1.¹ daļas 3. un 4.punktā noteiktajiem periodiem.
+(8) (Izslēgta ar 09.10.2025. likumu)

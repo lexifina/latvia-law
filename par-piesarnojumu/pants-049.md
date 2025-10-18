@@ -21,6 +21,6 @@
 (1⁵) Valsts vides dienests pēc katras A kategorijas iekārtas pārbaudes sagatavo ziņojumu par veiktās pārbaudes rezultātiem un divu mēnešu laikā pēc pārbaudes veikšanas nosūta to operatoram, kā arī četru mēnešu laikā pēc pārbaudes veikšanas ievieto to savā tīmekļvietnē.
 (1⁶) Ja pārbaudes laikā konstatēts, ka operators nav ievērojis izvirzītos atļaujas nosacījumus, Valsts vides dienests sešu mēnešu laikā pēc attiecīgās pārbaudes veikšanas veic papildu apmeklējumu uz vietas, izvērtējot, vai trūkumi ir atbilstoši novērsti.
 (2) Trokšņa robežlielumu ievērošanu kontrolē Veselības inspekcija, kā arī attiecīgās pašvaldības institūcijas, kurām pašvaldība ir deleģējusi minēto funkciju.
-(3) Šajā likumā un uz šā likuma pamata izdotajos Ministru kabineta noteikumos gaisa kuģu operatoriem noteikto prasību izpildi kontrolē Civilās aviācijas aģentūra.
-(4) Ja gaisa kuģa operators nepilda šajā likumā un citos normatīvajos aktos noteiktos pienākumus, Civilās aviācijas aģentūra var iesniegt Eiropas Komisijai lūgumu pieņemt lēmumu par attiecīgā gaisa kuģa operatora darbības aizliegumu. Ja Eiropas Komisija ir pieņēmusi lēmumus pēc Latvijas vai kādas citas Eiropas Savienības dalībvalsts lūguma, Civilās aviācijas aģentūra informē Eiropas Komisiju par visiem pasākumiem, kas veikti, lai izpildītu šādus lēmumus.
+(3) (Izslēgta ar 09.10.2025. likumu)
+(4) (Izslēgta ar 09.10.2025. likumu)
 (5) Ja tiek konstatēts, ka pašvaldības saistošajos noteikumos, kas izdoti saskaņā ar šā likuma 24.² panta trešo daļu, vai šā likuma 24.² panta piektajā daļā ietvertās prasības nav ievērotas, Valsts vides dienests lemj par piesārņojošās darbības izraisīto smaku ierobežošanu.

@@ -6,4 +6,4 @@
 (3) Ministru kabinets:
 1) (izslēgts ar 17.06.2010. likumu);
 2) (izslēgts ar 18.12.2003. likumu).
-(4) Vides aizsardzības un reģionālās attīstības ministrs pēc saskaņošanas ar zemkopības ministru šā panta otrās daļas 2.punktā minēto īpaši jutīgo teritoriju apsaimniekošanas pasākumu koordinācijai izveido konsultatīvu padomi, iekļaujot tajā pārstāvjus no Vides aizsardzības un reģionālās attīstības ministrijas, Zemkopības ministrijas un Veselības ministrijas un šo ministriju padotībā esošajām institūcijām, kā arī sabiedrisko organizāciju pārstāvjus, un apstiprina šīs padomes nolikumu.
+(4) Klimata un enerģētikas ministrs pēc saskaņošanas ar zemkopības ministru šā panta otrās daļas 2.punktā minēto īpaši jutīgo teritoriju apsaimniekošanas pasākumu koordinācijai izveido konsultatīvu padomi, iekļaujot tajā pārstāvjus no Klimata un enerģētikas ministrijas, Zemkopības ministrijas un Veselības ministrijas un šo ministriju padotībā esošajām institūcijām, kā arī sabiedrisko organizāciju pārstāvjus, un apstiprina šīs padomes nolikumu.
