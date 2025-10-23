@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 19,
+ "datums": "2025-10-23",
+ "ieraksts": {
+  "dkp_id": "3a84c6c3-5383-4032-88f5-a89a251060e7",
+  "lastmodtime": "\"AAAAAAJp4QI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Zanda#Jānis#Andrejs#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Viesturs#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Jeļena#Leila#Ramona#Jānis#Lauris#Linda#Anda#Jānis#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Zariņš#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Kļaviņa#Rasima#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Skrastiņš#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#ST!#LPV#LPV#ZZS#NA#PRO#JV#JV#ST!#PRO#NA#ZZS#ZZS#LPV#AS#LPV#NA#LPV#JV#NA#PRO#JV#NA#AS# #JV#NA#JV# #JV#JV#ZZS#JV#AS#ZZS#ZZS#ST!#ST!#ZZS#JV#JV#ST!#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS# #PRO#LPV#JV#AS#LPV#JV#JV#JV#JV",
+  "RESULT": "Par#Par#Par#Nebalsoja#Pret#Pret#Pret#Par#Par#Par#Par#Atturas#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Atturas#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Par#Par#Par#Pret#Par#Pret#Par#Pret#Pret#Atturas#Pret#Par#Atturas#Atturas#Par#Par#Nebalsoja#Pret#Pret#Par#Nebalsoja#Atturas#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Atturas#Atturas#Par#Par#Pret#Par#Pret#Par#Par#Pret#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.10.2025 15:33:11",
+  "VOTEMOTIVE": "Par punkta Deputāti Edmunds Zivtiņš, Maija Armaņeva, Ramona Petraviča, Edgars Tavars un Raivis Dzintars lūdz grozīt sēdes darba kārtību un pārcelt 14. sēdes darba kārtības punktu \"Likumprojekts \"Par ... iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "ba4785d6-4fcd-4f0b-9dfe-19dca0241e2d",
+  "VOTERESULT_ABSTAIN": "8",
+  "VOTERESULT_AGAINST": "28",
+  "VOTERESULT_FOR": "41",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "6",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5dd8c31d-8ebf-492f-9b5c-1724ad16121c/download/14.saeimas-2025.gada-rudens-sesija-19-vote.xml",
+  "sha256": "be21e1d2b1c5352b2ec043e83d5da3bf45939af45398064867a507b510d62e4a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
