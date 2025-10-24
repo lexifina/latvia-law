@@ -1,1 +1,1 @@
-8. Liela koncerna mātes sabiedrībai ir pienākums sagatavot šā likuma 7. pantā minēto konsolidēto ilgtspējas ziņojumu, sākot ar 2025. pārskata gadu (pārskata gadu, kurš sākas 2025. gada 1. janvārī vai 2025. kalendāra gada laikā).
+8. Liela koncerna mātes sabiedrībai ir pienākums sagatavot šā likuma 7. pantā minēto konsolidēto ilgtspējas ziņojumu, sākot ar 2027. pārskata gadu (pārskata gadu, kurš sākas 2027. gada 1. janvārī vai 2027. kalendāra gada laikā).

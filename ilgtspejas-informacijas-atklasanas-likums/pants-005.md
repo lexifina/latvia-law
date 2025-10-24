@@ -3,7 +3,7 @@
 1) tās mātes sabiedrības nosaukums un juridiskā adrese, kura sniedz informāciju koncerna līmenī saskaņā ar šā likuma 4. panta astoto daļu;
 2) tīmekļvietnes saite uz mātes sabiedrības konsolidēto vadības ziņojumu un uz šā likuma 16. pantā noteiktajā kārtībā sagatavoto apliecinājuma ziņojumu;
 3) informācija par šajā pantā noteiktā atbrīvojuma attiecināmību uz likuma subjektu.
-(2) Meitas sabiedrība nodrošina, ka mātes sabiedrības konsolidētais vadības ziņojums ir publiskots tās tīmekļvietnē latviešu valodā.
+(2) Meitas sabiedrība nodrošina, ka mātes sabiedrības konsolidētais ilgtspējas ziņojums ir publiskots tās tīmekļvietnē latviešu valodā.
 (3) Šā panta pirmās daļas izpildei kredītiestādes, kuras ir pastāvīgi radniecīgas centrālajai iestādei, kas tās uzrauga saskaņā ar nosacījumiem, kuri paredzēti Regulas (ES) Nr. 575/2013 10. pantā (ja to piemēro), uzskata par minētās centrālās iestādes meitas sabiedrībām.
 (4) Šā panta pirmās daļas izpildei apdrošināšanas sabiedrības, kuru centralizētu koordināciju veic cita sabiedrība atbilstoši Apdrošināšanas un pārapdrošināšanas likuma 1. panta pirmās daļas 41. punkta "b" apakšpunktam, tiek uzskatītas par koncerna mātes sabiedrības meitas sabiedrībām.
 (5) Šā panta pirmajā daļā noteikto atbrīvojumu nepiemēro tādiem šajā pantā minētajiem likuma subjektiem, kas ir lielas sabiedrības, kuru pārvedami vērtspapīri ir iekļauti regulētajā tirgū.

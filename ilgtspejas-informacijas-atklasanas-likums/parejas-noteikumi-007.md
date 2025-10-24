@@ -1,1 +1,1 @@
-7. Lielai sabiedrībai ir pienākums sagatavot šā likuma 4. pantā minēto ilgtspējas ziņojumu, sākot ar 2025. pārskata gadu (pārskata gadu, kurš sākas 2025. gada 1. janvārī vai 2025. kalendāra gada laikā).
+7. Lielai sabiedrībai ir pienākums sagatavot šā likuma 4. pantā minēto ilgtspējas ziņojumu, sākot ar 2027. pārskata gadu (pārskata gadu, kurš sākas 2027. gada 1. janvārī vai 2027. kalendāra gada laikā).
