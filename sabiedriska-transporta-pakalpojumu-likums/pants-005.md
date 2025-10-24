@@ -26,8 +26,8 @@
 a) Ministru kabineta noteiktajā kārtībā izveidot un uzturēt vienotu sabiedriskā transporta pakalpojumu datubāzi un uzskaites sistēmu,
 b) sadarboties ar maršrutu apkalpes vietu īpašniekiem un infrastruktūras pārvaldītājiem,
 c) izveidot un uzturēt vienotu sabiedriskā transporta biļešu sistēmu;
-7) izveidot komerciālos maršrutus (reisus);
-8) izsniegt, uz laiku apturēt vai anulēt maršruta atļaujas komerciālajiem maršrutiem (reisiem) un uzraudzīt pakalpojumu sniedzēja sniegtā pakalpojuma atbilstību izsniegtajai maršruta atļaujai.
+7) izveidot komerciālos autobusu maršrutus (reisus);
+8) izsniegt, uz laiku apturēt vai anulēt maršruta atļaujas komerciālajiem autobusu maršrutiem (reisiem) un uzraudzīt pakalpojumu sniedzēja sniegtā pakalpojuma atbilstību izsniegtajai maršruta atļaujai.
 (4) Plānošanas reģionu kompetencē ir:
 1) sagatavot priekšlikumus šā panta trešās daļas 2. un 5.punktā minētās kompetences izpildei;
 2) noskaidrot un apkopot plānošanas reģionā ietilpstošo pašvaldību un iedzīvotāju viedokļus par maršrutu tīklu attiecīgā plānošanas reģiona teritorijā;
