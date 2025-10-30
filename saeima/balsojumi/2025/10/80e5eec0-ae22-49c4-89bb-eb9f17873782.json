@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 19,
+ "datums": "2025-10-30",
+ "ieraksts": {
+  "dkp_id": "c91e19ce-9980-47d7-831c-0005676163ae",
+  "lastmodtime": "\"AAAAAAJqFsk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Andris#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Antoņina#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Kulbergs#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "###############################################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS# #NA#PRO#JV#JV#ST!#ST!#PRO#NA#ZZS#ZZS#AS#LPV#AS#LPV#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!#ZZS# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS#ST!# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#PRO#JV#AS",
+  "RESULT": "Nebalsoja#Par#Par#Atturas#Atturas#Pret#Atturas#Atturas#Nebalsoja#Atturas#Par#Par#Atturas#Par#Par#Pret#Atturas#Atturas#Nebalsoja#Nebalsoja#Pret#Par#Atturas#Atturas#Par#Par#Par#Par#Par#Par#Atturas#Par#Pret#Atturas#Atturas#Par#Par#Atturas#Par#Atturas#Par#Atturas#Nebalsoja#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Par#Atturas#Atturas#Nebalsoja#Nebalsoja#Par#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Par#Atturas#Atturas#Par#Par#Atturas#Pret#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Atturas#Atturas#Atturas#Par#Nebalsoja#Par#Pret#Pret#Atturas#Par#Atturas#Par#Par#Atturas#Par#Atturas#Pret#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.10.2025 10:04:49",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Sabiedrisko elektronisko plašsaziņas līdzekļu un to pārvaldības likumā (1138/Lp14), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "80e5eec0-ae22-49c4-89bb-eb9f17873782",
+  "VOTERESULT_ABSTAIN": "40",
+  "VOTERESULT_AGAINST": "8",
+  "VOTERESULT_FOR": "38",
+  "VOTERESULT_REGISTERED": "96",
+  "VOTE_NUMBER": "16",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/5dd8c31d-8ebf-492f-9b5c-1724ad16121c/download/14.saeimas-2025.gada-rudens-sesija-19-vote.xml",
+  "sha256": "be21e1d2b1c5352b2ec043e83d5da3bf45939af45398064867a507b510d62e4a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
