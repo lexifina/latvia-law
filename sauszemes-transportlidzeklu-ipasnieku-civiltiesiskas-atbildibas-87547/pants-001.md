@@ -1,7 +1,7 @@
 1.pants. Likumā lietotie termini
 (1) Likumā ir lietoti šādi termini:
 1) apdrošināšanas atlīdzība - naudas summa, ko izmaksā, vai pakalpojums, par kuru veic samaksu zaudējumu atlīdzināšanai;
-2) apdrošināšanas gadījums - ceļu satiksmes negadījums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa;
+2) apdrošināšanas gadījums - ceļu satiksmes negadījums, kurā, transportlīdzekli negadījuma brīdī lietojot transporta funkcijai, neatkarīgi no transportlīdzekļa lietošanas vietas un tā, vai transportlīdzeklis atradies kustībā, ir nodarīti zaudējumi trešajai personai vai tās mantai un kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa;
 3) apdrošināšanas līgums - vienošanās, saskaņā ar kuru transportlīdzekļa īpašnieks uzņemas saistības maksāt apdrošināšanas prēmiju noteiktajā termiņā un apmērā, kā arī izpildīt citas noteiktās saistības, bet apdrošinātājs uzņemas saistības izmaksāt apdrošināšanas atlīdzību, iestājoties apdrošināšanas gadījumam;
 4) apdrošināšanas polise - apdrošinātāja izsniegts noteikta parauga dokuments, kas apliecina, ka transportlīdzekļa īpašnieks un apdrošinātājs ir noslēguši apdrošināšanas līgumu;
 5) apdrošināšanas prēmija - apdrošināšanas līgumā noteiktais maksājums par transportlīdzekļa īpašnieka vai tiesīgā lietotāja civiltiesiskās atbildības apdrošināšanu;
