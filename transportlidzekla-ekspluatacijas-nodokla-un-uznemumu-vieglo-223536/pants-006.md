@@ -13,10 +13,12 @@
 11) (izslēgts ar 22.06.2017. likumu);
 12) transportlīdzekli, kuram ir vai tiek reģistrēts vēsturiskā spēkrata statuss;
 13) transportlīdzekli, kurš ir vai tiek reģistrēts par sporta transportlīdzekli;
-14) laiku, kad transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai transportlīdzekļa reģistrācija pārtraukta uz laiku, nododot numura zīmes, vai arī transportlīdzeklis izslēgts no reģistra;
+14) laiku, kad transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai transportlīdzekļa reģistrācija pārtraukta uz laiku, vai arī transportlīdzeklis izslēgts no reģistra;
 15) tādu transportlīdzekli, kas pēc savas konstrukcijas kā vienīgo mehānisko dzinējspēku izmanto enerģiju no transportlīdzeklī glabātās elektroenerģijas vai dzinējspēka glabāšanas iekārtas (piemēram, akumulators, kondensators, spararats vai ģenerators);
 16) vieglo transportlīdzekli, kura īpašniekam, turētājam vai valdītājam vai šādas personas laulātajam apgādībā ir bērns ar invaliditāti. Atbrīvojumu piemēro attiecībā uz vienu šādai personai vai tās laulātajam īpašumā, turējumā vai valdījumā reģistrētu vieglo transportlīdzekli;
-17) transportlīdzekli, kuru transportlīdzekļa īpašnieka maksātnespējas administrators noņem no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas, vai transportlīdzekli, kura reģistrāciju pārtrauc uz laiku, nododot numura zīmes;
-18) vienu transportlīdzekli, kurš ir vai tiek reģistrēts īpašumā, turējumā vai valdījumā Sabiedroto spēku štāba loceklim vai viņa apgādājamam, ja šī persona nav Latvijas pilsonis vai pastāvīgais iedzīvotājs.
+17) transportlīdzekli, kuru transportlīdzekļa īpašnieka maksātnespējas administrators noņem no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas, vai transportlīdzekli, kura reģistrāciju pārtrauc uz laiku;
+18) vienu transportlīdzekli, kurš ir vai tiek reģistrēts īpašumā, turējumā vai valdījumā Sabiedroto spēku štāba loceklim vai viņa apgādājamam, ja šī persona nav Latvijas pilsonis vai pastāvīgais iedzīvotājs;
+19) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 29. punktu).
 (2) Ministru kabinets nosaka kārtību, kādā piemērojams šajā pantā paredzētais atbrīvojums no transportlīdzekļa ekspluatācijas nodokļa maksāšanas.
 (3) Transportlīdzekļiem, kurus lieto pasažieru vai kravas komercpārvadājumiem, atbrīvojumus no transportlīdzekļa ekspluatācijas nodokļa maksāšanas nepiemēro. Šis nosacījums neattiecas uz tādiem transportlīdzekļiem, kas atbilst šā panta pirmās daļas 15.punkta nosacījumiem.
+(4) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 29. punktu).

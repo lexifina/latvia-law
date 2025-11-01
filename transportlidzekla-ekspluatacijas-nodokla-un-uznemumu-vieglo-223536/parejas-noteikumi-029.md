@@ -1,0 +1,1 @@
+29. Grozījumi šā likuma 6. panta pirmās daļas 1. punktā un 16. punktā attiecībā uz M1 un N1 kategorijas transportlīdzekli, kā arī šā panta pirmās daļas 19. punktā noteiktais atbrīvojums par aizgādnībā esošu personu ar I vai II invaliditātes grupu un šā panta ceturtā daļa par personu datu iegūšanu stājas spēkā 2026. gada 1. janvārī.

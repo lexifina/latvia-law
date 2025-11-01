@@ -1,7 +1,7 @@
 8.pants. Transportlīdzekļa ekspluatācijas nodokļa atmaksāšana
 (1) Transportlīdzekļa ekspluatācijas nodokli atmaksā Valsts ieņēmumu dienests pēc transportlīdzekļa ekspluatācijas nodokļa maksātāja attiecīgā pieprasījuma saņemšanas.
 (2) Transportlīdzekļa ekspluatācijas nodokli atmaksā šādos gadījumos:
-1) ja transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai norakstīts, ja transportlīdzekļa reģistrācija pārtraukta uz laiku, nododot valsts reģistrācijas numura zīmes, vai ja transportlīdzeklis izslēgts no reģistra, tad atmaksājamo summu aprēķina saskaņā ar šādu formulu:
+1) ja transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai norakstīts, ja transportlīdzekļa reģistrācija pārtraukta uz laiku vai ja transportlīdzeklis izslēgts no reģistra, tad atmaksājamo summu aprēķina saskaņā ar šādu formulu:
 atmaksājamā summa = samaksātais transportlīdzekļa ekspluatācijas nodoklis gadam x 1/12 x kārtējā kalendārajā gadā atlikušo pilno mēnešu skaits;
 2) ja transportlīdzekļa ekspluatācijas nodoklis par vienu un to pašu transportlīdzekli samaksāts divas vai vairākas reizes, tad atmaksā summu, kas pārsniedz šajā likumā noteikto transportlīdzekļa ekspluatācijas nodokli;
 3) ja transportlīdzekļa ekspluatācijas nodoklis samaksāts par transportlīdzekli, kurš reģistrējams Latvijā, taču kāda iemesla dēļ šo reģistrāciju nedrīkst veikt, tad samaksāto transportlīdzekļa ekspluatācijas nodokli atmaksā pilnā apmērā;
