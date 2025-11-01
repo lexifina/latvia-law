@@ -2,3 +2,4 @@
 (1) Būvniecības procesa dalībnieku būvniecības procesa ietvaros sniegtie saskaņojumi neatbrīvo citus būvniecības procesa dalībniekus no tiem normatīvajos aktos noteiktās atbildības.
 (2) Būvniecības procesa dalībniekus var mainīt saskaņā ar būvnoteikumiem.
 (3) Par patvaļīgas būvniecības seku novēršanu atbild zemes gabala īpašnieks vai, ja tāda nav, - tiesiskais valdītājs, bet, ja šādi būvdarbi veikti būvē, tad būves īpašnieks vai, ja tāda nav, - tiesiskais valdītājs. Apbūves tiesības gadījumā par patvaļīgas būvniecības seku novēršanu atbild apbūves tiesīgais. Ja būvdarbi veikti neatbilstoši būvprojektam, uz kura pamata būvvalde vai institūcija, kura pilda būvvaldes funkcijas, ir izdevusi būvatļauju vai akceptējusi būvniecības ieceri, tad par patvaļīgas būvniecības seku novēršanu atbild būvniecības ierosinātājs vai tā tiesību pārņēmējs.
+(4) Patvaļīgas būvniecības radītās sekas var novērst ikviens kopīpašnieks, un tam nav nepieciešama pārējo piekrišana.

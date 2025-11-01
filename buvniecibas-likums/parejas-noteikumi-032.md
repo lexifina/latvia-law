@@ -1,0 +1,1 @@
+32. Personas, kuras līdz 2025. gada 31. oktobrim ieguvušas patstāvīgās prakses tiesības inženierizpētes specialitātē, bet nav ieguvušas šā likuma 13. panta 5.¹ daļā noteikto izglītību ģeotehniskās izpētes specialitātē, ir tiesīgas turpināt patstāvīgu praksi ģeotehniskās izpētes specialitātē ar tām piešķirto sertifikātu inženierizpētes specialitātē.

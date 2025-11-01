@@ -1,0 +1,15 @@
+14.³ pants. Būvniecības ieceres publiska apspriešana
+(1) Būvniecības ieceres publiskas apspriešanas mērķis ir racionālā, atklātā un pārskatāmā procesā noskaidrot sabiedrības viedokli par plānoto būvniecības ieceri, lai nodrošinātu attiecīgās ieceres risinājumu labāku iekļaušanos apkārtējā vidē un novērstu iespējamu nelabvēlīgu ietekmi uz sabiedrību.
+(2) Pašvaldība, ievērojot šā panta trešās, ceturtās un piektās daļas regulējumu, saistošajos noteikumos nosaka gadījumus, kad pirms būvatļaujas izdošanas vai paskaidrojuma raksta akceptēšanas rīko sabiedrības līdzdalību, kā arī kritērijus sabiedriski nozīmīgām būvēm un sabiedriski nozīmīgiem publiskās ārtelpas risinājumiem.
+(3) Būvniecības ieceres publisku apspriešanu rīko sabiedriski nozīmīgo būvju un sabiedriski nozīmīgo publiskās ārtelpas risinājumu izveidošanai.
+(4) Pašvaldība saistošajos noteikumos var paredzēt rīkot sabiedrības līdzdalību, lai pārliecinātos par ierosinātās būves lietošanas veida, kas neatbilst dzīvojamai funkcijai, pieļaujamību, ja teritorijas plānojums paredz konkrētajā teritorijā līdztekus dzīvojamai apbūvei cita veida izmantošanu.
+(5) Būvniecības ieceres publisku apspriešanu nerīko, ja:
+1) teritorijai, kurā paredzēta būve, ir spēkā esošs detālplānojums, no kura spēkā stāšanās brīža pagājuši ne vairāk kā pieci gadi;
+2) būvdarbu veikšanai nepieciešams paskaidrojuma raksts, ja ar šo rakstu netiek būtiski palielināts būves apjoms;
+3) būvdarbu veikšanai nepieciešams paskaidrojuma raksts, ja šis raksts paredz jaunu pirmās grupas būvju un otrās grupas viena un divu dzīvokļu dzīvojamo māju vai palīgēku būvniecību;
+4) būvdarbu veikšanai nepieciešams paziņojums par būvniecību;
+5) tiek veikta tādu būvju būvniecība, kas nepieciešamas valsts aizsardzībai vai nacionālās drošības interešu aizsardzībai un ko īsteno Aizsardzības ministrija vai tās padotības iestādes vai kapitālsabiedrības, kurās Aizsardzības ministrija ir valsts kapitāla daļu turētāja, vai kapitālsabiedrības, kurās minētās kapitālsabiedrības ieguvušas līdzdalību vai izšķirošo ietekmi, vai Nacionālie bruņotie spēki;
+6) būve nepieciešama robežkontroles funkciju nodrošināšanai.
+(6) Būvniecības ieceres publiskajā apspriešanā nevērtē priekšlikumus un iebildumus, kuri apspriesti ietekmes uz vidi novērtējuma, stratēģiskās ietekmes uz vidi novērtējuma un teritorijas plānošanas dokumentu izstrādes procesā.
+(7) Būvniecības ieceres publiskas apspriešanas rezultātus izmanto, lai nepieciešamības gadījumā būvatļaujā vai lēmumā par būvniecības ieceres akceptēšanu ietvertu papildu nosacījumus, kas attiecas uz būves novietojumu, iekļaušanos esošajā ainavā un pilsētvidē, kā arī uz risinājumiem negatīvas ietekmes uz sabiedrību novēršanai. Ja būvdarbu veikšanai nepieciešams paskaidrojuma raksts, nosacījumi ir izpildāmi līdz būves nodošanai ekspluatācijā.
+(8) Ja būvatļauja izdota, pārkāpjot šā panta noteikumus, augstāka iestāde vai tiesa, izlemjot jautājumu par apstrīdētās vai pārsūdzētās būvatļaujas tiesiskumu, izvērtē, vai pārkāpums ir tik būtisks, ka būvatļauja atceļama, un īpaši pārbauda to, vai nav pārkāptas sabiedrības līdzdalības tiesības lēmumu pieņemšanā.

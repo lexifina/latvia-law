@@ -1,0 +1,1 @@
+35. Līdz šā likuma 14.³ pantā minēto pašvaldības saistošo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2027. gada 31. oktobrim ir piemērojami pašvaldību saistošie noteikumi, kas tika izdoti, pamatojoties uz šā likuma 14. panta piekto daļu.
