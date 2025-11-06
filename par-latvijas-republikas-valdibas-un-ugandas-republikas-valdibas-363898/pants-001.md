@@ -1,0 +1,1 @@
+1. pants. 2025. gada 12. maijā Rīgā parakstītais Latvijas Republikas valdības un Ugandas Republikas valdības nolīgums par gaisa satiksmi (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
