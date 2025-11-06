@@ -1,0 +1,3 @@
+2. pants. Likuma mērķis un uzdevums
+(1) Likuma mērķis ir sekmēt atklātas, tiesiskas un harmoniskas sabiedrības, kā arī kultūrvides attīstību.
+(2) Likuma uzdevums ir atbilstoši konstitucionālajām tradīcijām un Latvijas Republikas Satversmes 99. panta noteikumam regulēt valsts un Sadraudzes tiesiskās attiecības, kā arī noteikt valsts un Sadraudzes kopīgos uzdevumus sociālajā, tiesiskajā, izglītības un kultūras jomā, ievērojot to, ka dievturība kā Latvijā tradicionāla reliģija un to pārstāvošā Sadraudze jau ilgstoši pastāv Latvijā, tā ir uzticīga garīgajām un morālajām vērtībām, kopj latviešu valodu un tradīcijas, kā arī uztur tautas garīgo mantojumu.
