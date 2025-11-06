@@ -1,0 +1,1 @@
+1. pants. 2025. gada 28. martā Hāgā parakstītais Latvijas Republikas un Starptautiskās krimināltiesas nolīgums par Starptautiskās krimināltiesas spriedumu izpildi (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
