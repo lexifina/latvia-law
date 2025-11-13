@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Ugunsdrošības un ugunsdzēsības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 23. nr.; 2003, 2., 13., 23. nr.; 2004, 9. nr.; 2005, 2., 14. nr.; 2006, 14. nr.; 2008, 3. nr.; Latvijas Vēstnesis, 2010, 21., 205. nr.; 2011, 58. nr.; 2012, 50. nr.; 2013, 142. nr.; 2019, 225. nr.; 2023, 54. nr.).

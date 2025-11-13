@@ -1,0 +1,3 @@
+20. pants. Meža ugunsdzēsības stacija
+(1) Meža ugunsdzēsības stacija ir meža ugunsdzēsības darbu veikšanas nodrošināšanai paredzēta Valsts meža dienesta organizatoriskā struktūrvienība, kurā ir tehniskā infrastruktūra - garāžas, meža ugunsdzēsības nodrošināšanai paredzētie transportlīdzekļi, tai skaitā operatīvie transportlīdzekļi, un ugunsdzēsības inventārs -, kā arī personāls, kura galvenais pienākums ir meža ugunsdzēsības darbu veikšana noteiktā apkalpes teritorijā vai atbilstoši norīkojumam.
+(2) Ministru kabinets nosaka kritērijus meža ugunsdzēsības stacijas izveidei un ugunsgrēku dzēšanai nepieciešamo materiāltehnisko un cilvēkresursu nodrošinājumu.

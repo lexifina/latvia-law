@@ -1,0 +1,7 @@
+13. pants. Ugunsdrošības stāvokļa novērtējums
+(1) Ugunsdrošības stāvokļa novērtējums ir platformas ģenerēts indikatīvs objekta ugunsdrošības riska līmenis, kas noteikts atkarībā no normatīvajos aktos noteikto ugunsdrošības prasību un pienākumu izpildes attiecīgajā objektā un tajā notikušajiem ugunsgrēkiem.
+(2) Objekta ugunsdrošības stāvokļa novērtējuma sagatavošanai nepieciešamo informāciju objekta atbildīgā persona (izņemot šā likuma 4. panta ceturtajā, piektajā un sestajā daļā minētos tiesību subjektus, kā arī autoceļu (komplekso inženierbūvju) un par to zemes vienībām atbildīgās personas) katru gadu ne vēlāk kā līdz 31. decembrim iesniedz platformā tiešsaistes režīmā.
+(3) Iznomātā (izīrētā) vai lietošanā nodotā objektā ugunsdrošības stāvokļa novērtējuma sagatavošanai nepieciešamo informāciju platformā iesniedz nomnieks (īrnieks) vai cits lietotājs, ja tas paredzēts līgumā.
+(4) Vairākām personām iznomātā vai lietošanā nodotā objektā ugunsdrošības stāvokļa novērtējuma sagatavošanai nepieciešamo informāciju platformā iesniedz objekta īpašnieks (valdītājs) vai pārvaldnieks, ja ugunsdrošības prasību nodrošināšana paredzēta pārvaldīšanas līgumā.
+(5) Daudzdzīvokļu objekta koplietošanas (kopīpašuma) daļu ugunsdrošības stāvokļa novērtējumu iesniedz dzīvokļu īpašnieku kopība vai pārvaldnieks, ja ugunsdrošības prasību nodrošināšana paredzēta pārvaldīšanas līgumā.
+(6) Daudzdzīvokļu objektā ietilpstoša dzīvokļa un viendzīvokļa objekta atbildīgā persona ugunsdrošības stāvokļa novērtējumu var iesniegt brīvprātīgi.

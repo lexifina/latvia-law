@@ -1,0 +1,2 @@
+32. pants. Valsts ugunsdzēsības un glābšanas dienesta amatpersonas ar speciālo dienesta pakāpi nodrošināšana ar dzīvokli
+Ja Valsts ugunsdzēsības un glābšanas dienesta amatpersonu ar speciālo dienesta pakāpi dienesta interesēs pārceļ uz citu apdzīvotu vietu, pašvaldība pēc Valsts ugunsdzēsības un glābšanas dienesta lūguma var nodrošināt šo amatpersonu ar dzīvojamo telpu attiecīgajā teritorijā vai tās tuvumā.

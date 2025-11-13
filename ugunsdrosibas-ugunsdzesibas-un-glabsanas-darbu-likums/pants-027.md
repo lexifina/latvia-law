@@ -1,0 +1,4 @@
+27. pants. Valsts ugunsdzēsības un glābšanas dienesta darbības principi
+(1) Valsts ugunsdzēsības un glābšanas dienests, pildot tam noteiktās funkcijas, aizsargā personu tiesības un likumīgās intereses ugunsdrošības, ugunsdzēsības, glābšanas un civilās aizsardzības jomā neatkarīgi no šo personu pilsonības, sociālā, mantiskā un cita stāvokļa, rases un nacionālās piederības, dzimuma, vecuma, izglītības, valodas, politiskās, reliģiskās un citas pārliecības.
+(2) Valsts ugunsdzēsības un glābšanas dienests nepiedalās politisko vai starpnacionālo konfliktu un masu nekārtību novēršanas pasākumos (izņemot ar masu nekārtību novēršanu saistītus ugunsdzēsības un glābšanas darbus).
+(3) Valsts ugunsdzēsības un glābšanas dienesta amatpersonai ar speciālo dienesta pakāpi aizliegts organizēt streikus un piedalīties tajos.

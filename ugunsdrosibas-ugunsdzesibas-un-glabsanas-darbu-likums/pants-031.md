@@ -1,0 +1,4 @@
+31. pants. Starptautiskās palīdzības sniegšana un lūgšana valstīm, ar kurām Latvijas Republikai ir iekšējā robeža
+(1) Valsts ugunsdzēsības un glābšanas dienestam ir tiesības sniegt palīdzību ugunsdzēsības un glābšanas darbu veikšanā pēc to valstu ugunsdzēsības un glābšanas dienestu lūguma, ar kurām Latvijas Republikai ir iekšējā robeža, iesaistot savus resursus ne ilgāk kā 24 stundas pēc lūguma saņemšanas, ja Valsts ugunsdzēsības un glābšanas dienests vienlaikus saglabā spēju veikt savus pienākumus Latvijas Republikas teritorijā.
+(2) Valsts ugunsdzēsības un glābšanas dienestam ir tiesības pēc lietderības un pamatotības izvērtēšanas lūgt palīdzību ugunsdzēsības un glābšanas darbu veikšanā to valstu ugunsdzēsības un glābšanas dienestiem, ar kurām Latvijas Republikai ir iekšējā robeža.
+(3) Lēmumu par šā panta pirmajā un otrajā daļā minētās palīdzības sniegšanu vai lūgšanu pieņem Valsts ugunsdzēsības un glābšanas dienesta priekšnieks vai viņa pilnvarota amatpersona.

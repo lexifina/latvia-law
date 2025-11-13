@@ -1,0 +1,8 @@
+21. pants. Ugunsdrošības uzraudzība meža objektā
+(1) Meža objektos (izņemot Nacionālo bruņoto spēku militāros poligonus) valsts ugunsdrošības uzraudzību veic Valsts meža dienesta amatpersonas.
+(2) Valsts meža dienesta amatpersonas meža objektā veic meža ugunsdrošības plāna izpildes un ugunsdrošības pārbaudes.
+(3) Ministru kabinets nosaka meža ugunsdrošības plānā iekļaujamās informācijas saturu, šā plāna izstrādes kritērijus un kārtību, kādā tas saskaņojams ar Valsts meža dienestu, kā arī nosaka par ugunsdrošību atbildīgajai personai minimāli nepieciešamo aprīkojumu meža uzraudzībai pēc ugunsgrēka likvidācijas, ja meža īpašums atbilst normatīvajos aktos noteiktajiem kritērijiem.
+(4) Ministru kabinets nosaka kārtību, kādā Valsts meža dienests izstrādā uguns uzraudzības operatīvo plānu meža ugunsnedrošajam periodam, un šajā plānā iekļaujamās informācijas saturu.
+(5) Meža ugunsgrēka vietas uzraudzību pēc ugunsgrēka likvidācijas veic par ugunsdrošību atbildīgā persona vai Valsts meža dienests, ja par ugunsdrošību atbildīgā persona nav sasniedzama vai atsakās šo pienākumu veikt. Ministru kabinets nosaka meža ugunsgrēka vietas uzraudzības kārtību un kārtību, kādā aprēķināmi un atlīdzināmi izdevumi, kas radušies Valsts meža dienestam, par ugunsdrošību atbildīgās personas vietā veicot meža ugunsgrēka vietas uzraudzību pēc ugunsgrēka likvidācijas.
+(6) Ministru kabinets nosaka kārtību mežam nodarīto zaudējumu noteikšanai meža ugunsgrēka gadījumā.
+(7) Ministru kabinets nosaka kārtību, kādā atlīdzināmi izdevumi un zaudējumi, kas radušies, meža ugunsgrēka dzēšanā vai glābšanas darbos iesaistot fizisko un juridisko personu resursus.

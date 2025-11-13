@@ -1,0 +1,3 @@
+23. pants. Ugunsdzēsības un glābšanas darbu vadīšana meža objektā
+(1) Meža objektā ugunsdzēsības un glābšanas darbus vada Valsts meža dienesta amatpersona. Līdz Valsts meža dienesta amatpersonu ierašanās brīdim ugunsdzēsības un glābšanas darbus veic šā likuma 3. panta pirmās daļas 1., 3., 4. vai 5. punktā minētie dienesti vai organizācijas.
+(2) Ministru kabinets nosaka meža ugunsdzēsības darbus, kā arī Valsts meža dienesta un Valsts ugunsdzēsības un glābšanas dienesta sadarbības kārtību un kompetenču sadalījumu, tiem ugunsgrēka riska teritorijās veicot ugunsgrēka vietas ierobežošanas un ugunsgrēka likvidācijas darbus meža objektā.
