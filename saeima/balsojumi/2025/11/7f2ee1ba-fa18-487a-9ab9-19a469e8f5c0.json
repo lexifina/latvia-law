@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 29,
+ "datums": "2025-11-20",
+ "ieraksts": {
+  "dkp_id": "710e89e0-220d-45cd-bbc6-d27a88635688",
+  "lastmodtime": "\"AAAAAAJuICU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Uldis#Didzis#Andris#Ričards#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Jeļena#Leila#Kaspars#Ramona#Jānis#Linda#Anda#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Augulis#Zemmers#Kulbergs#Šlesers#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Kļaviņa#Rasima#Briškens#Petraviča#Patmalnieks#Liepiņa#Čakša#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS#NA#PRO#JV#JV#ST!#ST!#PRO#ZZS#ZZS#AS#LPV#LPV#NA#LPV#JV#NA#PRO#ZZS#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!#ZZS# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#JV#AS# #AS#AS#JV#NA#ZZS#ZZS#AS#ST!# #PRO#PRO#LPV#JV#LPV#JV#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Par#Atturas#Par#Nebalsoja#Pret#Pret#Pret#Pret#Par#Pret#Par#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Par#Nebalsoja#Par#Pret#Nebalsoja#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Atturas#Pret#Pret#Pret#Pret#Nebalsoja#Par#Par#Par#Pret#Nebalsoja#Pret#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.11.2025 09:29:42",
+  "VOTEMOTIVE": "Par Valsts policijas atbildību saistībā ar trīs suņu nošaušanu Bauskas novada Brunavas pagastā (100/P14)",
+  "VOTING_ID": "7f2ee1ba-fa18-487a-9ab9-19a469e8f5c0",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "49",
+  "VOTERESULT_FOR": "28",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-29-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d1729d99-c0fd-40b1-a7b7-2874430c4b60/download/14.saeimas-2025.gada-rudens-sesija-29-vote.xml",
+  "sha256": "6475849d88846f1d37d4ffa65b7cf0f1d927b2aacd8322e2514ef280f03c4c08",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
