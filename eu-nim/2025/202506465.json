@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 19. novembra noteikumi Nr. 679 \"Grozījumi Ministru kabineta 2002. gada 23. aprīļa noteikumos Nr. 163 \"Noteikumi par trokšņa emisiju no iekārtām, kuras izmanto ārpus telpām\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "225",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-21",
+  "entry_into_force": "2025-11-22",
+  "notification_date": "2025-11-24",
+  "commission_reference": "MNE(2025)06465",
+  "nim_celex": "72024L2839LVA_202506465",
+  "nim_id": "202506465",
+  "transposes_celex": [
+    "32024L2839"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ab8076a1-656f-43aa-b4b8-53036195818d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
