@@ -4,7 +4,8 @@
 (3) Transportlīdzekļa vadītājs pirms piedalīšanās ceļu satiksmē Latvijā pārbauda, vai transportlīdzekļa izmantošanas deklarēšana ir veikta.
 (4) Transportlīdzekļa izmantošanas deklarēšanai izmanto Ceļu satiksmes drošības direkcijas nodrošinātos e-pakalpojumus.
 (5) Deklarējot transportlīdzekļa izmantošanu ceļu satiksmē Latvijā, norāda šādas ziņas:
-1) transportlīdzekļa marka un modelis;
+1) transportlīdzekļa veids, marka un modelis;
+1¹) transportlīdzekļa pilna masa - tikai kravas automobiļiem;
 2) transportlīdzekļa reģistrācijas valsts;
 3) transportlīdzekļa valsts reģistrācijas numurs;
 4) transportlīdzekļa īpašnieka vai turētāja vārds, uzvārds un personas kods (ārzemniekam - dzimšanas datums), juridiskajai personai - nosaukums un reģistrācijas numurs, kā arī kontaktinformācija (elektroniskā pasta adrese);

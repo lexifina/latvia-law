@@ -1,5 +1,5 @@
 10.² pants. Velosipēdu, velorikšu un elektroskrejriteņu reģistrācija
-(1) Velosipēdu reģistrācija ir brīvprātīga, un ceļu satiksmē atļauts piedalīties arī ar nereģistrētiem velosipēdiem.
+(1) Velosipēdu reģistrācija ir brīvprātīga, un ceļu satiksmē atļauts piedalīties arī ar nereģistrētiem velosipēdiem, ciktāl šā panta 1.¹ daļā nav noteikts citādi.
 (1¹) Elektroskrejriteņu un velorikšu reģistrācija ir obligāta, un ceļu satiksmē atļauts piedalīties tikai ar reģistrētiem elektroskrejriteņiem un velorikšām.
 (2) Velosipēdu, velorikšu un elektroskrejriteņu reģistrāciju veic Ceļu satiksmes drošības direkcija.
 (3) Attiecībā uz velosipēdiem, velorikšām un elektroskrejriteņiem nav piemērojams tiesiskais regulējums, kas noteikts šā likuma 10., 11., 12., 13., 14., 15., 15.¹ un 16. pantā.
