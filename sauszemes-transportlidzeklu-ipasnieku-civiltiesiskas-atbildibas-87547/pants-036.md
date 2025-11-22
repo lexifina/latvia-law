@@ -18,3 +18,4 @@ c) transportlīdzekļa tiesīgo lietotāju, kura lietošanā nodots transportlī
 1) veic ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa apskati;
 2) ir tiesīgs neveikt ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa apskati, par to rakstveidā informējot personu, kura paziņojusi par apdrošināšanas gadījumu.
 (7) Apdrošinātājs vai Transportlīdzekļu apdrošinātāju birojs var atteikties izmaksāt apdrošināšanas atlīdzību, ja trešā persona ar ļaunu nolūku vai rupjas neuzmanības dēļ nav izpildījusi kādu no šā panta pirmajā daļā noteiktajiem pienākumiem.
+(8) (Daļa stājas spēkā 01.07.2026. un iekļauta likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 34. punktu)
