@@ -2,7 +2,7 @@
 Likumā ir lietoti šādi termini:
 1) Eiropas Savienības Intelektuālā īpašuma birojs, Eiropas Savienības birojs - Eiropas Savienības aģentūra, kas veic Eiropas Savienības preču zīmju un Kopienas dizainparaugu reģistrāciju, kā arī pilda citas ar intelektuālā īpašuma aizsardzību saistītas funkcijas Eiropas Savienībā atbilstoši Eiropas Parlamenta un Padomes 2017. gada 14. jūnija regulai (ES) 2017/1001 par Eiropas Savienības preču zīmi (turpmāk - regula (ES) 2017/1001) un citiem Eiropas Savienības normatīvajiem aktiem;
 2) Eiropas Savienības preču zīme - preču zīme, kas reģistrēta attiecībā uz Eiropas Savienību saskaņā ar regulu (ES) 2017/1001 vai saskaņā ar agrāk spēkā bijušo Eiropas Savienības regulējumu par Kopienas preču zīmēm;
-3) ģeogrāfiskās izcelsmes norāde - ģeogrāfisks nosaukums vai cits apzīmējums, kuru lieto, tieši vai netieši norādot uz preču vai pakalpojumu ģeogrāfisko izcelsmi, arī uz to raksturu vai īpašībām, kas saistītas ar šo izcelsmi;
+3) ģeogrāfiskās izcelsmes norāde - aizsargāts lauksaimniecības produkta, pārtikas, vīna, stipro alkoholisko dzērienu, amatniecības vai rūpniecības ražojuma nosaukums, kas apzīmē produktu, kura kvalitāte, reputācija vai citas īpašības saistītas ar tā ģeogrāfisko izcelsmi;
 4) kolektīvā zīme - preču zīme, kuru lieto ražošanas, tirdzniecības vai pakalpojumu komersantu un saimnieciskās darbības veicēju apvienības, asociācijas vai tamlīdzīgas organizācijas preču vai pakalpojumu apzīmēšanai un atšķiršanai;
 5) Parīzes konvencija - 1883. gada 20. marta Parīzes konvencija par rūpnieciskā īpašuma aizsardzību;
 6) Parīzes savienība - Parīzes konvencijas dalībvalstu savienība;

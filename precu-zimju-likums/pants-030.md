@@ -2,7 +2,10 @@
 (1) Persona, kas vēlas reģistrēt preču zīmi Latvijā, iesniedz Patentu valdē rakstveidā preču zīmes reģistrācijas pieteikumu (turpmāk - reģistrācijas pieteikums).
 (2) Reģistrācijas pieteikumā ietver:
 1) lūgumu reģistrēt preču zīmi;
-2) ziņas, kas ļauj nepārprotami noteikt preču zīmes pieteicēju un sazināties ar to;
+2) ziņas par preču zīmes pieteicēju:
+a) fiziskajām personām - vārdu, uzvārdu, dzīvesvietas adresi un saziņas adresi,
+b) juridiskajām personām - nosaukumu, juridisko adresi un saziņas adresi;
+2¹) ziņas par pārstāvi (ja tāds ir) - vārdu, uzvārdu un saziņas adresi;
 3) reģistrācijai pieteiktā apzīmējuma atveidojumu atbilstoši šā likuma 4. panta pirmās daļas 2. punkta prasībām;
 4) to preču un pakalpojumu sarakstu, kuram pieprasīta preču zīmes reģistrācija.
 (3) Vienā reģistrācijas pieteikumā var pieprasīt tikai vienas preču zīmes reģistrāciju.
