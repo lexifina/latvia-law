@@ -65,6 +65,9 @@ tiobromadols
 4-(4-bromfenil)-4-(dimetilamino)-1-[1-(2-tienil)ethil] cikloheksanols
 0,001 g
 1 g
+9)
+spirohlorfīns
+3222-88-68-[1-(4-hlorfenil)etil]-1-fenil-1,3,8-triazaspiro[4.5]dekan-4-ons)0,001 g1 g
 6. Morfināna atvasinājumi:
 Nr.
 p.k.
@@ -86,9 +89,9 @@ dezomorfīns, Krokodil
 0,1 g
 1 g
 3)
-etorfīns, Immobilon, M99
+etorfīns (izņemot lietošanai veterinārmedicīniskām manipulācijām)
 14521-96-1
-(5alfa,7alfa)-7-(2-hidroksipentan-2-il)-6-metoksi-17-metil-4,5-epoksi-6,14-etenomorfinan-3-ols
+(5alfa,7alfa)- 7-(2-hidroksipentan-2-il)-6- metoksi-17-metil-4,5- epoksi-6,14-etenomorfinan-3-ols
 0,1 g
 1 g
 4)
@@ -242,6 +245,14 @@ N-(2-aminocikloheksil)-N-fenilformamīds un jebkurš savienojums, kas atvasināt
 a) aizvietojot vienu vai abus aminogrupas ūdeņraža atomus vai iekļaujot to ciklā;
 b) neaizvietojot vai aizvietojot ūdeņraža atomus benzola vai cikloheksāna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem, tostarp veidojot papildinošus ciklus;
 c) aizvietojot ūdeņraža atomu pie karbonilgrupas ar neaizvietotu vai aizvietotu alkilgrupu vai ciklisku struktūru0,001 g1 g
+9)
+3-[1-(1-feniletil)piperidin-4-il]-1H-benzimidazol-2-oni
+3-[1-(1-feniletil)piperidin-4-il]-1H-benzimidazol-2-ons un jebkurš savienojums, kas atvasināts no 3-[1-(1-feniletil)piperidin-4-il]-1H-benzimidazol-2-ona:
+a) neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus metilgrupā vai iekļaujot metilgrupas oglekļa atomu ciklā, kas var būt aizvietots;
+b) neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus benzola ciklā;
+c) neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus piperidīna ciklā;
+d) neaizvietojot vai aizvietojot vienu vai vairākus ūdeņraža atomus benzimidazolinona ciklā
+0,001 g1 g
 9. Vielas ar psihotropu iedarbību:
 Nr.
 p.k.
@@ -310,6 +321,12 @@ dihlorpāns
 Metil-3-(3,4-dihlorfenil)-8-azabiciklo[3.2.1]oktān-4-karboksilāts
 0,2 g
 10 g
+11)
+diklazafona dezglicils
+5600-85-1
+2-amino-N-[4-hlor-2-(2-hlorbenzoil)
+fenil]acetamīds
+0,6 g10 g
 10. Augu valsts produkti ar psihotropu iedarbību:
 Nr.
 p.k.
@@ -438,7 +455,7 @@ e) papildus neaizvietojot vai aizvietojot vienu vai vairākus etilēngrupas ūde
 0,003 g
 1 g
 6)
-katinoni
+katinoni (izņemot bupropionu)
 a)
 2-amino-1-fenilpropan-1-ons un jebkurš savienojums, kas atvasināts no 2-amino-1-fenilpropan-1-ona:
 a) neaizvietojot vai aizvietojot vienu vai divus ūdeņraža atomus pie slāpekļa atoma ar neaizvietotu vai aizvietotu alkilgrupu vai alkoksigrupu vai iekļaujot slāpekļa atomu ciklā;
@@ -463,7 +480,7 @@ b) neaizvietojot vai aizvietojot ūdeņraža atomu pie otra slāpekļa atoma ar 
 1 g
 8)
 triptamīni un beta-(benzofuran-3-il)etānamīni
-Jebkurš beta-(indol-3-il)etānamīna vai beta-(benzofuran-3-il)etānamīna atvasinājums (izņemot serotonīnu, sumatriptānu un zolmitriptānu), kas satur vismaz vienu aizvietotāju no rindas a), b) un c):
+Jebkurš beta-(indol-3-il)etānamīna vai beta-(benzofuran-3-il)etānamīna atvasinājums (izņemot serotonīnu, sumatriptānu, zolmitriptānu, eletriptānu, rizatriptānu, frovatriptānu, naratriptānu un almotriptānu), kas satur vismaz vienu aizvietotāju no rindas a), b) un c):
 a) kur ūdeņraža atoms(-i) benzola gredzenā
 aizvietots(-i) ar vienu vai vairākiem vienādiem vai dažādiem aizvietotājiem vai aizvietotājiem, kas veido benzola gredzenu papildinošu ciklisku struktūru;
 b) kur ūdeņraža atomi etilēngrupā aizvietoti ar neaizvietotu vai aizvietotu alkilgrupu;
@@ -477,7 +494,7 @@ c) kur viens vai divi ūdeņraža atomi aminogrupā aizvietoti ar neaizvietotu v
 1 g
 10)
 dibenzopirāni
-No kanabinola atvasināti savienojumi (izņemot kanabidiolu), kas modificēti gredzenā A, aizvietoti gredzenā B, to homologi ar dažādu oglekļa atomu skaitu aizvietotājā stāvoklī 3, to cis-, trans- un optiskie izomēri, kā arī to hidroksilgrupas atvasinājumi un halogēnatvasinājumi
+Kanabinols un no kanabinola un kanabidiola atvasināti savienojumi (izņemot kanabidiolu), kas modificēti gredzenā A, aizvietoti gredzenā B, to homologi ar dažādu oglekļa atomu skaitu aizvietotajā stāvoklī 3, to cis-, trans- un optiskie izomēri, kā arī to hidroksilgrupas atvasinājumi un halogēnatvasinājumi
 0,003 g
 1 g
 11)
@@ -553,8 +570,8 @@ un pirazola cikla stāvokļos 1 un 4 (vienā vai abos) neaizvietoti vai aizvieto
 0,003 g
 1 g
 20)
-2-fenilmorfolīni
-2-fenilmorfolīns, tā enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
+2-fenilmorfolīni un 3-fenilmorfolīni
+2-fenilmorfolīns un 3-fenilmorfolīns, to enantiomēri un jebkurš savienojums, kas atvasināts no tiem:
 a) nomainot benzola gredzenu ar tiofēna vai piridīna gredzenu;
 b) nomainot morfolīna ciklu ar tiomorfolīna ciklu;
 c) aizvietojot vienu vai vairākus ūdeņraža atomus benzola, tiofēna vai piridīna gredzenā ar neaizvietotu vai aizvietotu alkilgrupu, alkoksigrupu, amīdgrupu, aminogrupu, sulfonilgrupu vai aizvietotājiem, kas veido benzola, tiofēna vai piridīna gredzenu papildinošu ciklu;
@@ -595,18 +612,18 @@ un jebkurš no iepriekš minētajiem savienojumiem, kas papildus aizvietots karb
 8-hinolil-3-(1-piperidilsulfonil) benzoāts un jebkurš savienojums, kas atvasināts no tā, aizvietojot vienu vai vairākus ūdeņraža atomus hinolīna, benzola vai piperidīna gredzenā ar vienu vai vairākiem vienādiem vai dažādiem halogēna atomiem, alkilgrupām, hidroksilgrupām vai alkoksigrupām
 0,003 g
 1 g
-12. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 8. punktā, 9. punkta 9. apakšpunktā un 11. punktā minētās vielas jebkurā daudzumā:
+12. Augu masa, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma II nodaļas 5. punkta 9. apakšpunktā, 8. punktā, 9. punkta 9. apakšpunktā un 11. punktā minētās vielas jebkurā daudzumā:
 Nr.
 p.k.
 Maisījuma veids
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-izžāvēts (augu maisījums)
+izžāvēta augu masa
 1 g
 100 g
 2)
-neizžāvēts (augu maisījums)
+neizžāvēta augu masa
 5 g
 1 kg
 3)
@@ -626,7 +643,7 @@ piesūcināts papīrs (marka)
 3 gab.
 10 gab.
 7)
-vielu maisījums, kas satur 8. punkta 2. un 3. apakšpunktā minēto vielu jebkurā daudzumā
+vielu maisījums, kas satur 5. punkta 9. apakšpunktā un 8. punktā minētās vielas jebkurā daudzumā
 0,001 g
 1 g
 III. II saraksts (ļoti bīstamās narkotiskās vielas un tām pielīdzinātās psihotropās vielas, kuras atļauts izmantot medicīniskiem un zinātniskiem mērķiem)
@@ -929,7 +946,7 @@ levorfanols
 77-07-6
 0,2 g
 10 g
-59¹
+59¹)
 lisdeksamfetamīns
 608137-32-2
 0,6 g
@@ -1045,7 +1062,7 @@ oksikodons
 0,2 g
 10 g
 82)
-oksimorfons (izņemot naloksonu)
+oksimorfons (izņemot naloksonu, naltreksonu un metilnaltreksonu)
 76-41-5
 0,2 g
 10 g
@@ -1211,6 +1228,8 @@ hidroksibutirskābe, gamma (GHB)
 591-81-1
 0,6 g
 10 g
+10¹)
+gamma-butirolaktons (GBL)96-48-00,6 g10 g
 11)
 glutetimīds
 77-21-4
@@ -1251,18 +1270,18 @@ sekobarbitāls
 76-73-3
 0,2 g
 10 g
-15. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma III nodaļā minētās vielas jebkurā daudzumā:
+15. Augu masa, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma III nodaļā minētās vielas jebkurā daudzumā:
 Nr.
 p.k.
 Maisījuma veids
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-izžāvēts (augu maisījums)
+izžāvēta augu masa
 1 g
 100 g
 2)
-neizžāvēts (augu maisījums)
+neizžāvēta augu masa
 5 g
 1 kg
 3)
@@ -1695,18 +1714,20 @@ zopiklons
 43200-80-2
 0,06 g
 5 g
-17. Augu maisījums, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma IV nodaļā minētās vielas jebkurā daudzumā:
+74)
+zaleplons151319-34-50,6 g10 g
+17. Augu masa, sapresēta masa, šķidrums, vielu maisījums, piesūcināts papīrs, kas satur šā pielikuma IV nodaļā minētās vielas jebkurā daudzumā:
 Nr.
 p.k.
 Maisījuma veids
 Apmērs, līdz kuram daudzumi atzīstami par nelieliem
 Apmērs, sākot ar kuru daudzumi atzīstami par lieliem
 1)
-izžāvēts (augu maisījums)
+izžāvēta augu masa
 1 g
 100 g
 2)
-neizžāvēts (augu maisījums)
+neizžāvēta augu masa
 5 g
 1 kg
 3)
@@ -1769,10 +1790,7 @@ etil alfa-fenilacetoacetāts (EAPA)
 10 g
 100 g
 8)
-etil 3-(2H-1,3-benzodioksol-5-il)-2-metiloksirān-2-karboksilāts (PMK etilglicidāts)
-28578-16-7
-10 g
-100 g
+(izslēgts ar 13.11.2025. likumu)
 9)
 izosafrols (cis + trans)
 120-58-1
@@ -1794,15 +1812,9 @@ metil-alfa-fenilacetoacetāts (MAPA)
 10 g
 100 g
 13)
-metil-2-metil-3-feniloksirān-2-karboksilāts (BMK metilglicidāts)
-80532-66-7
-10 g
-100 g
+(izslēgts ar 13.11.2025. likumu)
 14)
-metil-3-(1,3-benzodioksol-5-il)-2-metiloksirān-2-karboksilāts (PMK metilglicidāts)
-13605-48-6
-10 g
-100 g
+(izslēgts ar 13.11.2025. likumu)
 15)
 N-acetilantranilskābe
 89-52-1
@@ -1816,6 +1828,16 @@ N-fenil-1-(2-feniletil)piperidīn-4-amīns (ANPP)
 17)
 N-fenil-N-(piperidīn-4-il)propānamīds (norfentanils)
 1609-66-1
+10 g
+100 g
+17¹)
+4-piperidons
+41661-47-6
+10 g
+100 g
+17²)
+1-boc-4-piperidons
+79099-07-3
 10 g
 100 g
 18)
@@ -1859,12 +1881,12 @@ terc-butil 4-anilīnpiperidīn-1-karboksilāts (1-boc-4-AP)
 10 g
 100 g
 26)
-2-metil-3-feniloksirān-2-karbonskābe (BMK glicīdskābe)
+2-metil-3-feniloksirān-2-karbonskābe (BMK glicīdskābe) un tās etil-, metil-, propil-, izopropil-, butil-, izobutil-, sek-butil- un terc-butil- esteri
 25547-51-7
 10 g
 100 g
 27)
-3-(1,3-benzodioksol-5-il)-2-metiloksirān-2-karbonskābe (PMK glicīdskābe)
+3-(1,3-benzodioksol-5-il)-2-metiloksirān-2-karbonskābe (PMK glicīdskābe) un tās etil-, metil-, propil-, izopropil-, butil-, izobutil-, sek-butil- un terc-butil- esteri
 2167189-50-4
 10 g
 100 g
@@ -1893,6 +1915,8 @@ terc-butil 4-anilīnpiperidīn-1-karboksilāts (1-boc-4-AP)
 771434-80-1
 0,6 g
 10 g
+33)
+izopropilidēna (2-(3,4-metilēndioksifenil)acetil)malonāts (IMDPAM)nav pieejams10 g100 g
 19. Otrās kategorijas prekursori:
 1) 2.a kategorijas prekursori:
 Nr.
