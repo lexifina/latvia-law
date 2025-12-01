@@ -1,7 +1,7 @@
 116.pants. (1) Par pilnvarnieku var būt:
 1) fiziskā persona, Latvijas Bankas darbinieks, zvērināts advokāts vai zvērināts revidents, kurš atbilst šā panta otrās daļas prasībām un uz kuru nevar attiecināt šā panta trešajā daļā noteiktos ierobežojumus;
 2) juridiskā persona - kapitālsabiedrība, kuras pamatdarbības veids ir audita pakalpojumi, uz kuras valdes locekļiem nevar attiecināt šā panta trešajā daļā noteiktos ierobežojumus, kuras valdes locekļi atbilst šā panta otrās daļas 3. punktā noteiktajam un kuras valdes locekļu vairākums atbilst šā panta otrās daļas 1. un 2. punktam.
-(1¹) (Daļa stājas spēkā 01.12.2025. un iekļauta likuma redakcijā uz 01.12.2025. Sk. pārejas noteikumu 119. punktu)
+(1¹) Latvijas Banka nosaka pilnvarnieka, izņemot Latvijas Bankas darbinieku, amata kandidāta atlases un piemērotības izvērtēšanas kārtību un šādai izvērtēšanai nepieciešamo informāciju.
 (2) Par pilnvarnieku var iecelt fizisko personu, par kuras rīcības objektivitāti attiecībā uz konkrēto kredītiestādi nav šaubu un kurai ir:
 1) valsts atzīta otrā līmeņa augstākā profesionālā izglītība vai augstākā akadēmiskā izglītība un atbilstoša kvalifikācija;
 2) atbilstoša kompetence un pietiekama profesionālā darba pieredze;
