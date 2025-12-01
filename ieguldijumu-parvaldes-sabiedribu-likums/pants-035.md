@@ -9,7 +9,7 @@
 1) atzīstama par ieinteresētu personu attiecībā uz fondu;
 2) sodīta par tīša noziedzīga nodarījuma izdarīšanu pret valsti, īpašumu vai pārvaldības kārtību vai par tīša noziedzīga nodarījuma izdarīšanu tautsaimniecībā vai valsts institūciju dienestā, vai par tāda nozieguma izdarīšanu, kas saistīts ar terorismu;
 3) notiesāta vai kurai piemērots prokurora priekšraksts par sodu saistībā ar šīs daļas 2. punktā minētā tīša noziedzīga nodarījuma izdarīšanu, atbrīvojot no soda, vai pret kuru kriminālprocess izbeigts uz nereabilitējoša pamata, - kamēr nav pagājis gads pēc attiecīgā lēmuma stāšanās spēkā.
-(1⁴) (Daļa stājas spēkā 01.12.2025. un iekļauta likuma redakcijā uz 01.12.2025. Sk. pārejas noteikumu 49. punktu)
+(1⁴) Latvijas Banka nosaka ieceltās personas amata kandidāta atlases un piemērotības izvērtēšanas kārtību un šādai izvērtēšanai nepieciešamo informāciju.
 (2) Sabiedrība veic fonda likvidāciju ja:
 1) nākamajā dienā pēc turētājbankas līguma izbeigšanās nav stājies spēkā jauns turētājbankas līgums;
 2) gada laikā pēc fonda nodibināšanas nav laista apgrozībā neviena ieguldījumu apliecība;
