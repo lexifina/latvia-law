@@ -8,4 +8,4 @@
 1) atzīstama par ieinteresētu personu attiecībā uz krājaizdevu sabiedrību;
 2) sodīta par tīša noziedzīga nodarījuma izdarīšanu (neatkarīgi no sodāmības dzēšanas vai noņemšanas);
 3) saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu un kriminālprocess pret kuru ir izbeigts uz nereabilitējoša pamata.
-(4) (Daļa stājas spēkā 01.12.2025. un iekļauta likuma redakcijā uz 01.12.2025. Sk. pārejas noteikumu 20. punktu)
+(4) Latvijas Banka nosaka ieceltās personas, izņemot Latvijas Bankas darbinieku, amata kandidāta atlases un piemērotības izvērtēšanas kārtību un šādai izvērtēšanai nepieciešamo informāciju.
