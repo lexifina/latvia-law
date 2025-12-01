@@ -1,0 +1,1 @@
+8. Līdz 2025. gada 30. novembrim izsniegtās speciālās atļaujas (licences) veterināro narkotisko un psihotropo vielu un zāļu ražošanai, importēšanai un izplatīšanai ir spēkā līdz to derīguma termiņa beigām (ja tāds norādīts) vai līdz to pārreģistrācijai.
