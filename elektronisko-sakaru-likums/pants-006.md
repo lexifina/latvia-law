@@ -1,5 +1,5 @@
-6. pants. Valsts akciju sabiedrības "Elektroniskie sakari" kompetence
-(1) Valsts akciju sabiedrība "Elektroniskie sakari":
+6. pants. Sabiedrības ar ierobežotu atbildību "Elektroniskie sakari" kompetence
+(1) Sabiedrība ar ierobežotu atbildību "Elektroniskie sakari":
 1) pārvalda radiofrekvenču spektru un numerāciju, lai nodrošinātu to racionālu un efektīvu izmantošanu;
 2) sniedz elektromagnētiskās saderības un numerācijas datubāzes nodrošināšanas pakalpojumus;
 3) plāno radiofrekvenču spektra tehnisko izmantošanu un nosaka radiofrekvences piešķīrumus radioiekārtu darbībai;
@@ -16,8 +16,8 @@
 14) izsniedz radioamatieru apliecības;
 15) saskaņā ar šajā likumā noteikto kārtību akceptē vai noraida elektronisko sakaru tīklu antenu, radioiekārtu, apraides raidītāju un mobilo sakaru bāzes staciju ierīkošanas tehniskos projektus;
 16) veido un uztur radiofrekvenču spektra un numerācijas datubāzes;
-17) koordinē radiofrekvenču spektra joslu atbrīvošanu valsts aizsardzības vajadzībām izņēmuma stāvokļa gadījumā;
+17) koordinē radiofrekvenču spektra joslu atbrīvošanu valsts aizsardzības un drošības vajadzībām izņēmuma stāvokļa gadījumā;
 18) sadarbojas radiomonitoringā un radiofrekvenču spektra pārvaldībā valsts aizsardzībai vai drošībai.
-(2) Izpildot šā panta pirmajā daļā noteiktās funkcijas, valsts akciju sabiedrība "Elektroniskie sakari" patstāvīgi pieņem lēmumus un izdod administratīvos aktus.
-(3) Valsts akciju sabiedrības "Elektroniskie sakari" izdotos administratīvos aktus var apstrīdēt Vides aizsardzības un reģionālās attīstības ministrijā.
-(4) Valsts akciju sabiedrība "Elektroniskie sakari" par sniegtajiem publiskajiem maksas pakalpojumiem iekasē maksu. Ministru kabinets nosaka valsts akciju sabiedrības "Elektroniskie sakari" sniegto publisko maksas pakalpojumu cenrādi un samaksas kārtību, kā arī tarifu korekcijas gadījumus un kārtību.
+(2) Izpildot šā panta pirmajā daļā noteiktās funkcijas, sabiedrība ar ierobežotu atbildību "Elektroniskie sakari" patstāvīgi pieņem lēmumus un izdod administratīvos aktus.
+(3) Sabiedrības ar ierobežotu atbildību "Elektroniskie sakari" izdotos administratīvos aktus var apstrīdēt Viedās administrācijas un reģionālās attīstības ministrijā.
+(4) Sabiedrība ar ierobežotu atbildību "Elektroniskie sakari" par sniegtajiem publiskajiem maksas pakalpojumiem iekasē maksu. Ministru kabinets nosaka sabiedrības ar ierobežotu atbildību "Elektroniskie sakari" sniegto publisko maksas pakalpojumu cenrādi un samaksas kārtību, kā arī tarifu korekcijas gadījumus un kārtību.

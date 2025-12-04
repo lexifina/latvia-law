@@ -13,4 +13,4 @@
 (6) Regulators, izskatot elektronisko sakaru komersanta pieprasījumu par ierobežotas radiofrekvenču joslas lietošanas tiesību nodošanu vai iznomāšanu, ir tiesīgs koriģēt lietošanas tiesības, sadalot radiofrekvenču spektra joslas un precizējot piemērojamos specifiskos lietošanas tiesību nosacījumus sadalītajām radiofrekvenču spektra joslām.
 (7) (Izslēgta ar 19.12.2024. likumu)
 (8) (Izslēgta ar 19.12.2024. likumu)
-(9) Valsts akciju sabiedrība "Elektroniskie sakari" izsniedz radiofrekvences piešķīruma lietošanas atļaujas elektronisko sakaru komersantam, kuram saskaņā ar Regulatora lēmumu tiek nodotas vai iznomātas ierobežotas radiofrekvenču joslas lietošanas tiesības.
+(9) Sabiedrība ar ierobežotu atbildību "Elektroniskie sakari" izsniedz radiofrekvences piešķīruma lietošanas atļaujas elektronisko sakaru komersantam, kuram saskaņā ar Regulatora lēmumu tiek nodotas vai iznomātas ierobežotas radiofrekvenču joslas lietošanas tiesības.

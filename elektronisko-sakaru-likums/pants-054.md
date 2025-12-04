@@ -1,6 +1,6 @@
 54. pants. Radiofrekvences piešķīruma lietošanas atļauja
-(1) Radiofrekvenču spektru radioiekārtu darbībai atļauts izmantot pēc radiofrekvences piešķīruma lietošanas atļaujas saņemšanas valsts akciju sabiedrībā "Elektroniskie sakari" vai saskaņā ar koplietojama radiofrekvences piešķīruma lietošanas atļauju.
+(1) Radiofrekvenču spektru radioiekārtu darbībai atļauts izmantot pēc radiofrekvences piešķīruma lietošanas atļaujas saņemšanas sabiedrībā ar ierobežotu atbildību "Elektroniskie sakari" vai saskaņā ar koplietojama radiofrekvences piešķīruma lietošanas atļauju.
 (2) Radioiekārtām, kuras nodrošina tikai radioviļņu uztveršanu, atļauja saņemama, ja to darbībai ir nepieciešama aizsardzība pret kaitīgajiem radiotraucējumiem un atļauja nav izsniegta saistītajai raidošajai radioiekārtai.
-(3) Valsts akciju sabiedrība "Elektroniskie sakari" savā tīmekļvietnē publisko informāciju par radiofrekvences piešķīruma lietošanas atļaujām ierobežotās radiofrekvenču joslās.
+(3) Sabiedrība ar ierobežotu atbildību "Elektroniskie sakari" savā tīmekļvietnē publisko informāciju par radiofrekvences piešķīruma lietošanas atļaujām ierobežotās radiofrekvenču joslās.
 (4) Ministru kabinets nosaka radiofrekvences piešķīruma lietošanas atļauju veidus un derīguma termiņus, priekšnoteikumus to izsniegšanai, anulēšanai, radioiekārtas darbības nosacījumus un lietošanas ierobežojumus, kā arī kārtību, kādā iesniedz un izskata radiofrekvences piešķīruma lietošanas atļaujas pieprasījumu, anulē radiofrekvences piešķīruma lietošanas atļaujas un reģistrē tuvas darbības bezvadu piekļuves punktus.
 (5) Radiofrekvenču spektra izmantošana tuvas darbības bezvadu piekļuves punkta radioiekārtai atļauta saskaņā ar šā likuma 32. pantu.
