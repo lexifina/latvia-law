@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 33,
+ "datums": "2025-12-04",
+ "ieraksts": {
+  "dkp_id": "c624e367-8f17-4a49-a235-0b1ac0c955b1",
+  "lastmodtime": "\"AAAAAAJybIE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Andris#Jurģis#Andris#Ainars#Inese#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Ričards#Ingmārs#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Viesturs#Igors#Dāvis Mārtiņš#Juris#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Kristaps#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Gunārs#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Antoņina#Inga#Uģis",
+  "SURNAME": "Šnore#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Šlesers#Līdaka#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Zariņš#Rajevs#Daugavietis#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Kūtris#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "NA# #JV#PRO#JV#ZZS#ST!#JV#LPV#ZZS#NA#PRO#JV#JV#ST!#PRO#NA#ZZS#ZZS#LPV#AS#NA#LPV#JV#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ST!#ZZS#JV# #JV#AS#JV#ZZS#NA#JV#PRO#JV#LPV#JV#AS#NA# #AS#AS#JV#ZZS#ZZS#ZZS#AS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#PRO#JV#JV",
+  "RESULT": "Par#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Pret#Atturas#Pret#Atturas#Par#Atturas#Atturas#Atturas#Pret#Atturas#Par#Pret#Atturas#Pret#Nebalsoja#Par#Pret#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Par#Atturas#Par#Atturas#Atturas#Atturas#Nebalsoja#Par#Atturas#Atturas#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Nebalsoja#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Pret#Atturas#Nebalsoja#Par#Pret#Par#Par#Atturas#Atturas#Atturas#Pret#Par#Pret#Atturas#Atturas#Atturas#Pret#Atturas#Par#Pret#Atturas#Nebalsoja#Atturas#Nebalsoja#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "04.12.2025 11:03:38",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.2. Par valsts budžetu 2026. gadam un budžeta ietvaru 2026., 2027. un 2028. gadam (1130/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "5463248e-30ef-4f18-aacf-ea0b762bb07c",
+  "VOTERESULT_ABSTAIN": "44",
+  "VOTERESULT_AGAINST": "15",
+  "VOTERESULT_FOR": "14",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "166",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-33-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/61eea82a-0724-4487-9f12-0d11e27569a0/download/14.saeimas-2025.gada-rudens-sesija-33-vote.xml",
+  "sha256": "70970c740ba2ddc40e616db3802777fd650f8231d6181768e10dd0d4d52039d9",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
