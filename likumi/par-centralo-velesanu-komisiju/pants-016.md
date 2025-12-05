@@ -2,3 +2,4 @@
 (Otrā daļa izslēgta ar 01.12.2009. likumu)
 Centrālās vēlēšanu komisijas locekļi savu pienākumu pildīšanas laikā pēc komisijas lēmuma ir atbrīvojami no pienākumiem savā darbavietā, saglabājot viņu amatu (darba vietu). Centrālā vēlēšanu komisija vēlēšanu un tautas nobalsošanas sagatavošanā var iesaistīt jebkuru valsts amatpersonu.
 (Ceturtā daļa izslēgta ar 15.05.2008. likumu)
+Vēlēšanu un tautas nobalsošanas sagatavošanā pēc Centrālās vēlēšanu komisijas priekšsēdētāja ierosinājuma Valsts digitālās attīstības aģentūras direktors uz noteiktu laiku, kas nepārsniedz sešus mēnešus kalendāra gadā, amata pienākumu izpildei Centrālajā vēlēšanu komisijā norīko Valsts digitālās attīstības aģentūras ierēdņus un darbiniekus, kas nodrošina ar vēlēšanu organizēšanas un norises procesu īstenošanu saistītā tehnoloģiskā risinājuma darbības uzturēšanu un attīstību.
