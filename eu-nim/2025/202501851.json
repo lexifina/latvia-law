@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 25. marta noteikumi Nr. 197 \"Pagaidu ceļošanas dokumenta noteikumi\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "63",
+  "official_journal_page": null,
+  "official_journal_date": "2025-03-31",
+  "entry_into_force": "2025-12-09",
+  "notification_date": "2025-04-01",
+  "commission_reference": "MNE(2025)01851",
+  "nim_celex": "72024L1986LVA_202501851",
+  "nim_id": "202501851",
+  "transposes_celex": [
+    "32024L1986"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/401480b9-63e3-489f-a80c-f9b9beaf3f20",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
