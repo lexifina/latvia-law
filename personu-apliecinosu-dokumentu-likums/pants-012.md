@@ -1,4 +1,4 @@
-12.pants. Personu apliecinoša vai pagaidu dokumenta turētāja pienākumi
-(1) Personu apliecinoša vai pagaidu dokumenta turētāja pienākums ir glabāt attiecīgo dokumentu, lai tas nenonāktu citas personas rīcībā vai bojājuma dēļ nekļūtu lietošanai nederīgs.
-(2) Ja persona nav sasniegusi 14 gadu vecumu, par tās personu apliecinoša vai pagaidu dokumenta glabāšanu ir atbildīgs šīs personas likumiskais pārstāvis.
-(3) Par personu apliecinoša dokumenta vai atgriešanās apliecības zudumu attiecīgā dokumenta turētājs nekavējoties pēc šā fakta konstatēšanas ziņo personu apliecinoša dokumenta vai atgriešanās apliecības izdevējiestādei, Valsts policijai vai Valsts robežsardzei, bet, ja dokumenta turētājs atrodas ārvalstī, - Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai, ja attiecīgajā ārvalstī tāda ir.
+12.pants. Personu apliecinoša vai pagaidu ceļošanas dokumenta turētāja pienākumi
+(1) Personu apliecinoša vai pagaidu ceļošanas dokumenta turētāja pienākums ir glabāt attiecīgo dokumentu, lai tas nenonāktu citas personas rīcībā vai bojājuma dēļ nekļūtu lietošanai nederīgs.
+(2) Ja persona nav sasniegusi 14 gadu vecumu, par tās personu apliecinoša vai pagaidu ceļošanas dokumenta glabāšanu ir atbildīgs šīs personas likumiskais pārstāvis.
+(3) Par personu apliecinoša dokumenta vai pagaidu ceļošanas dokumenta zudumu attiecīgā dokumenta turētājs nekavējoties pēc šā fakta konstatēšanas ziņo personu apliecinoša dokumenta vai pagaidu ceļošanas dokumenta izdevējiestādei, Valsts policijai vai Valsts robežsardzei, bet, ja dokumenta turētājs atrodas ārvalstī, - Latvijas Republikas diplomātiskajai vai konsulārajai pārstāvniecībai, ja attiecīgajā ārvalstī tāda ir.
