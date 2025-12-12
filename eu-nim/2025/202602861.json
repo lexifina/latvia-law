@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 9. decembra noteikumi Nr. 733 \"Grozījumi Ministru kabineta 2024. gada 2. aprīļa noteikumos Nr. 215 \"Radioiekārtu atbilstības novērtēšanas, piedāvāšanas tirgū, uzstādīšanas, lietošanas un uzraudzības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "239",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-11",
+  "entry_into_force": "2025-12-12",
+  "notification_date": "2026-05-13",
+  "commission_reference": "MNE(2026)02861",
+  "nim_celex": "72024L2749LVA_202602861",
+  "nim_id": "202602861",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ba463285-8077-4680-879f-fd55ac6e3de0",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
