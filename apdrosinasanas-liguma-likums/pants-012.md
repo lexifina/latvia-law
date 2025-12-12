@@ -1,3 +1,3 @@
-12. pants. Apdrošināšanas līguma noslēgšana, izmantojot distances saziņas līdzekli
-(1) Ja apdrošināšanas līgumu noslēdz, izmantojot distances saziņas līdzekli, apdrošinātājs pirms apdrošināšanas līguma noslēgšanas paziņo apdrošinājuma ņēmējam apdrošināšanas līguma noteikumus rakstveidā vai ar cita apdrošinājuma ņēmējam pieejama pastāvīga informācijas nesēja starpniecību.
+12. pants. Iepazīstināšana ar apdrošināšanas līguma noteikumiem
+(1) Apdrošinātājs pirms apdrošināšanas līguma noslēgšanas paziņo apdrošinājuma ņēmējam minētā līguma noteikumus rakstveidā vai ar cita apdrošinājuma ņēmējam pieejama pastāvīga informācijas nesēja starpniecību.
 (2) Ja apdrošināšanas līgums noslēgts pēc apdrošinājuma ņēmēja pieprasījuma, izmantojot distances saziņas līdzekli, ar kuru nebija iespējams nosūtīt apdrošināšanas līguma noteikumus rakstveidā, vai ar cita apdrošinājuma ņēmējam pieejama pastāvīga informācijas nesēja starpniecību, apdrošinātājs apdrošināšanas līguma noteikumus nosūta apdrošinājuma ņēmējam ne vēlāk kā nākamajā darbdienā pēc šā līguma noslēgšanas.
