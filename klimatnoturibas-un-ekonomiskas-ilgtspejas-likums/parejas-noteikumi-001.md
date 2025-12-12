@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Latvijas Republikas dalību Kioto protokola elastīgajos mehānismos" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 1. nr.; Latvijas Vēstnesis, 2010, 27., 205. nr.; 2017, 231. nr.).

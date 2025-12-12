@@ -1,0 +1,5 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 2003. gada 13. oktobra direktīvas 2003/87/EK, ar kuru nosaka sistēmu siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecībai Kopienā un groza Padomes direktīvu 96/61/EK;
+2) Eiropas Parlamenta un Padomes 2008. gada 19. novembra direktīvas 2008/101/EK, ar ko groza direktīvu 2003/87/EK, lai aviācijas darbības iekļautu Kopienas siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecības sistēmā;
+3) Eiropas Parlamenta un Padomes 2018. gada 14. marta direktīvas (ES) 2018/410, ar ko groza direktīvu 2003/87/EK, lai sekmētu emisiju izmaksefektīvu samazināšanu un investīcijas mazoglekļa risinājumos, un lēmumu (ES) 2015/1814;
+4) Eiropas Parlamenta un Padomes 2023. gada 10. maija direktīvas (ES) 2023/959, ar ko groza direktīvu 2003/87/EK, ar kuru nosaka sistēmu siltumnīcas efektu izraisošo gāzu emisijas kvotu tirdzniecībai Savienībā, un lēmumu (ES) 2015/1814 par Savienības siltumnīcefekta gāzu emisijas kvotu tirdzniecības sistēmas tirgus stabilitātes rezerves izveidi un darbību.

@@ -1,0 +1,1 @@
+12. Šā likuma 19. pantā minēto Klimata deklarāciju izstrādā, sākot ar 2027. gadu. Līdz tam šajā pantā minēto novērtējumu veic aprobācijas kārtībā atsevišķām valsts budžeta programmām un iekļauj Fiskālo risku deklarācijā.

@@ -1,0 +1,4 @@
+20. pants. Klimatdrošināšanas principa piemērošana
+(1) Klimatdrošināšana ir process, kurā infrastruktūras investīciju projekta izstrādē tiek integrēti klimata pārmaiņu mazināšanas un pielāgošanās klimata pārmaiņām pasākumi, kuri ļauj pieņemt informētu lēmumu par projektu, kas saderīgs ar Parīzes nolīguma mērķi.
+(2) Klimatdrošināšanas principu piemēro lēmuma pieņemšanā par tādu infrastruktūras investīciju projektu, kurā plānotais infrastruktūras izmantošanas laiks ir vismaz pieci gadi.
+(3) Piemērojot klimatdrošināšanas principu, izvērtē, vai noteikto infrastruktūras projekta mērķi var sasniegt ar plānotajiem risinājumiem, novēršot infrastruktūras neaizsargātību pret iespējamo klimata pārmaiņu ilgtermiņa ietekmi. Tas tiek darīts, pamatojoties uz infrastruktūras investīciju projekta īstenotāja sniegto skaidrojumu vai novērtējumu par siltumnīcefekta gāzu emisiju samazinājumu, ievainojamību pret klimata pārmaiņām un klimata riskiem.

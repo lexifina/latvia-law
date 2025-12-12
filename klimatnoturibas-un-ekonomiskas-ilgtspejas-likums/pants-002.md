@@ -1,0 +1,2 @@
+2. pants. Likuma mērķis
+Šā likuma mērķis ir veicināt valsts ekonomikas ilgtspēju, sekmējot konkurētspēju un valsts virzību uz klimata pārmaiņu ierobežošanu un klimatnoturību, lai līdz 2050. gadam sasniegtu klimatneitralitāti un nacionālos klimata mērķus saskaņā ar Eiropas Savienības un citām starptautiskajām saistībām, tostarp Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām (turpmāk - Klimata konvencija) un tās Parīzes nolīguma saistībām, ņemot vērā sociālos un vides aspektus.

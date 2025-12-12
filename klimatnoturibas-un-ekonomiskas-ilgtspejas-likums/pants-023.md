@@ -1,0 +1,2 @@
+23. pants. Pašvaldības klimata politikas plānošana
+Pašvaldība tās ilgtspējīgas attīstības stratēģijā, attīstības programmā un, ja nepieciešams, arī citos teritorijas attīstības plānošanas dokumentos iekļauj klimata pārmaiņu mazināšanas un pielāgošanās klimata pārmaiņām mērķus, prioritātes, darbības un investīciju projektus, izvērtējot attiecīgā plānošanas reģiona attīstības plānošanas dokumentus un šā likuma 21. panta otrajā daļā minētās vadlīnijas.

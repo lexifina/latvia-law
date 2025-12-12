@@ -1,0 +1,2 @@
+22. pants. Plānošanas reģiona klimata politikas plānošana
+Plānošanas reģions ilgtspējīgas attīstības stratēģijā un attīstības programmā iekļauj siltumnīcefekta gāzu emisiju samazināšanas un pielāgošanās klimata pārmaiņām mērķus, to sasniegšanai plānotās prioritātes un nosacījumus, kā arī paredz rīcību un pasākumus šo mērķu sasniegšanai, izvērtējot šā likuma 21. panta otrajā daļā minētās vadlīnijas.

@@ -1,0 +1,2 @@
+24. pants. Plānošanas reģionu un pašvaldību kompetence klimata politikas finansēšanā
+Plānošanas reģionu un pašvaldību teritoriju attīstības plānošanas dokumentos noteikto klimata politikas darbību un investīciju projektu īstenošana papildus plānošanas reģionu un pašvaldību rīcībā esošajiem finansējuma avotiem tiek finansēta no visu veidu publiskajiem finansējuma avotiem, tostarp no valsts budžeta līdzekļiem, ja to paredz ārējie normatīvie akti.

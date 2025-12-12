@@ -1,0 +1,3 @@
+21. pants. Plānošanas reģionu un pašvaldību klimata politikas plānošana un īstenošana
+(1) Plānošanas reģioniem un pašvaldībām atbilstoši kompetencei ir saistoši nacionālie klimata mērķi.
+(2) Klimata un enerģētikas ministrija sadarbībā ar Ekonomikas ministriju, Finanšu ministriju, Iekšlietu ministriju, Satiksmes ministriju, Veselības ministriju, Viedās administrācijas un reģionālās attīstības ministriju un Zemkopības ministriju atbilstoši nacionālā līmeņa attīstības plānošanas dokumentiem sagatavo plānošanas reģioniem un pašvaldībām paredzētas klimata pārmaiņu mazināšanas un pielāgošanās klimata pārmaiņām vadlīnijas.

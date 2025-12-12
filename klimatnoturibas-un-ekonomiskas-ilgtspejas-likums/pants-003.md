@@ -1,0 +1,3 @@
+3. pants. Ministriju kompetence klimata politikas jomā
+(1) Klimata un enerģētikas ministrija ir atbildīga par klimata politikas izstrādi. Tā koordinē un pārrauga klimata politikas īstenošanu šajā likumā noteiktajā tvērumā.
+(2) Ministrijas integrē klimata politikas mērķus savos politikas plānošanas dokumentos, nodrošinot saskaņotu valsts klimata mērķu sasniegšanu. Izstrādājot politikas plānošanas dokumentu un normatīvo aktu projektus, politikas plānošanas dokumenta projektā vai normatīvā akta projekta sākotnējās ietekmes novērtējuma ziņojumā (anotācijā) izvērtē tā ietekmi uz klimata mērķu sasniegšanu, tostarp norādot rezultatīvos rādītājus.

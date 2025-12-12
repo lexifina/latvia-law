@@ -1,0 +1,8 @@
+10. pants. Klimata pārmaiņu un klimata pārmaiņu ietekmju monitorings, prognozes un ziņošana
+(1) Klimata un enerģētikas ministrija koordinē Latvijas Republikas klimata pārmaiņu un klimata pārmaiņu ietekmju monitoringa īstenošanu un prognozēšanu atbilstoši regulas Nr. 2018/1999 19. panta 1. punktā un VIII pielikuma 1. daļā noteiktajam.
+(2) Klimata un enerģētikas ministrija ik pēc 10 gadiem vai pēc nepieciešamības izstrādā un atjauno klimata pārmaiņu radīto risku un ievainojamības izvērtējumu, kas nepieciešams attīstības plānošanas dokumenta izstrādē vai atjaunināšanā.
+(3) Ministru kabinets nosaka:
+1) atbildīgo institūciju, kas pārstāv Latviju Pasaules Meteoroloģijas organizācijā un nodrošina Latvijas klimata analīzi, aktuālās klimatiskās standarta normas un references perioda aprēķinu, klimata pārmaiņu tendenču nozīmīguma novērtējumu, vēsturisko un ikdienas hidrometeoroloģisko ekstrēmu monitoringu, analīzi un modelēšanu, klimata pārmaiņu nākotnes scenāriju sagatavošanu un nacionālā klimata pārmaiņu un klimata pārmaiņu ietekmju monitoringa īstenošanu Latvijā;
+2) kārtību, kādā izveido un uztur pielāgošanās klimata pārmaiņām monitoringa, prognožu un ziņošanas sistēmu;
+3) kārtību, kādā Klimata un enerģētikas ministrija sadarbībā ar Ministru kabineta noteiktajām institūcijām sagatavo, saskaņo un iesniedz Eiropas Komisijai un Klimata konvencijas sekretariātam ziņojumus par pielāgošanos klimata pārmaiņām;
+4) kārtību, kādā nozaru ministrijas, citas iesaistītās personas un institūcijas, kā arī pašvaldības un plānošanas reģioni ziņo Klimata un enerģētikas ministrijai par klimata pārmaiņu ietekmi un pielāgošanos klimata pārmaiņām.
