@@ -8,7 +8,7 @@
 3¹) emisijas kvota - atļauja noteiktā laikposmā emitēt vienu tonnu oglekļa dioksīda vai noteiktu daudzumu citas siltumnīcefekta gāzes, kas izteikts oglekļa dioksīda ekvivalentos, ņemot vērā attiecīgās siltumnīcefekta gāzes globālās sasilšanas potenciālu;
 3²) gaisa kuģa operators - fiziskā vai juridiskā persona, kas veic gaisa pārvadājumus un ekspluatē gaisa kuģi laikā, kad tas veic šā likuma 2. pielikuma II sadaļā noteikto aviācijas darbību, vai arī, ja šī persona nav zināma vai gaisa kuģa īpašnieks to nav norādījis, - gaisa kuģa īpašnieks;
 3³) komerciāls gaisa transporta operators - fiziskā vai juridiskā persona, kas par atlīdzību sniedz regulārus vai neregulārus gaisa transporta pakalpojumus, veicot pasažieru, kravas vai pasta sūtījumu pārvadājumus;
-3⁴) emisijas kvotu izsolīšana - emisijas kvotu realizēšana primārajā tirgū atbilstoši Komisijas 2023. gada 17. oktobra deleģētajai regulai (ES) 2023/2830, ar ko papildina Eiropas Parlamenta un Padomes direktīvu 2003/87/EK, nosakot noteikumus par siltumnīcefekta gāzu emisijas kvotu izsolīšanas laika grafiku, administrēšanu un citiem aspektiem;
+3⁴) (zaudējis spēku ar 12.12.2025. Sk. pārejas noteikumu 83. punktu);
 3⁵) (izslēgts ar 09.10.2025. likumu);
 3⁶) kuģošanas sabiedrība - kuģa īpašnieks vai jebkura cita organizācija vai persona (piemēram, vadītājs vai berbouta fraktētājs), kas atbildību par kuģa ekspluatāciju pārņēmusi no kuģa īpašnieka un, to uzņemdamās, ir piekritusi pārņemt visus pienākumus un atbildību, ko uzliek Drošas kuģu ekspluatācijas un piesārņojuma novēršanas vadības starptautiskais kodekss, kas izklāstīts Eiropas Parlamenta un Padomes 2006. gada 15. februāra regulas (EK) Nr. 336/2006 par Starptautiskā drošības vadības kodeksa īstenošanu Kopienā un Padomes regulas (EK) Nr. 3051/95 atcelšanu I pielikumā;
 3⁷) emisijas kvotu izsolīšanas instruments - līdzekļi, kas iegūti, izsolot šā likuma 32.² panta trešajā daļā minētās emisijas kvotas;
@@ -24,8 +24,8 @@
 10¹) siltumnīcefekta gāzes - oglekļa dioksīds (CO2), metāns (CH4), vienvērtīgā slāpekļa oksīds (N2O), fluorogļūdeņraži (HFC), perfluorogļūdeņraži (PFC), sēra heksafluorīds (SF6) un slāpekļa trifluorīds (NF3);
 10²) siltumnīcefekta gāzu emisija - siltumnīcefekta gāzu izplūde no šā likuma 2. pielikumā un Ekonomiskās ilgtspējas likuma pielikuma I sadaļā minētajām darbībām un avotiem;
 10³) citi siltumnīcefekta gāzu emisiju avoti - siltumnīcefekta gāzu emisija atmosfērā no šā likuma 4.pielikuma I daļā minētajām darbībām, kuras nav iekļautas Eiropas Savienības emisijas kvotu tirdzniecības sistēmā un kurām nav nepieciešama siltumnīcefekta gāzu emisijas atļauja;
-10⁴) oglekļa dioksīda piesaiste - oglekļa dioksīda piesaiste, kas izriet no šā likuma 4.pielikuma II daļā minētajām zemes izmantošanas, zemes izmantošanas maiņas un mežsaimniecības darbībām;
-10⁵) ikgadējais emisiju sadales apjoms - ikgadējais maksimāli pieļaujamais siltumnīcefekta gāzu emisiju apjoms no šā likuma 4.pielikuma I daļā minētajiem citiem siltumnīcefekta gāzu emisiju avotiem;
+10⁴) (zaudējis spēku ar 12.12.2025. Sk. pārejas noteikumu 83. punktu);
+10⁵) (zaudējis spēku ar 12.12.2025. Sk. pārejas noteikumu 83. punktu);
 11) tehnoloģija - tehnisku metožu un paņēmienu kopums, kas ietver patentu, preču zīmju, licenču, tehnisko izstrādņu, kā arī speciālas tehnikas un aprīkojuma izmantošanu, lai sasniegtu noteiktu mērķi vai rezultātu;
 11¹) uzglabāšanas vieta - noteikta tilpuma apgabals ģeoloģiskā struktūrā, ko izmanto oglekļa dioksīda uzglabāšanai, un ar to saistītā virsma un iesūknēšanas iekārtas;
 11²) vertikālais ūdens slānis - nepārtraukta vertikāla ūdens masa no ūdens virsmas līdz ūdenstilpes dibena nosēdumiem;
