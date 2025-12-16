@@ -1,3 +1,3 @@
 15.pants. Starptautiskā sadarbība
 (1) Muzeji ir tiesīgi patstāvīgi sadarboties ar muzejiem citās valstīs, iestāties starptautiskajās muzeju organizācijās un piedalīties to darbībā.
-(2) Ministru kabineta noteiktajā kārtībā muzeji var saņemt valsts garantētu apdrošināšanu starptautisku izstāžu rīkošanai.
+(2) Ministru kabinets nosaka kārtību, kādā akreditēti valsts muzeji var saņemt valsts garantētu apdrošināšanu starptautisku izstāžu rīkošanai, valsts garantētas apdrošināšanas apjomu un darbības ietvaru, valsts garantētas apdrošināšanas pieprasījuma un zaudējumu atlīdzības pieprasījuma iesniegšanas, izskatīšanas un lēmuma pieņemšanas kārtību, rīcību zaudējumu gadījumā, zaudējumu izvērtēšanas, zaudējumu atlīdzības izmaksas un piedziņas kārtību, kā arī valsts garantētas apdrošināšanas saistību pārraudzības kārtību.

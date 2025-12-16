@@ -9,4 +9,5 @@ Muzeju padome:
 7) iesniedz ministrijām un pašvaldībām priekšlikumus par muzeju direktoru amata kandidatūrām;
 8) iesniedz Kultūras ministrijai priekšlikumus par muzeju speciālistu (personāla) sagatavošanu un kvalifikācijas pilnveidošanu;
 9) sniedz Kultūras ministrijai atzinumu par muzeja atbilstību nacionālas vai reģionālas nozīmes kultūras institūcijas statusam;
-10) sniedz Nacionālā muzeju krājuma kopkataloga informācijas sistēmas pārzinim atzinumus un ierosinājumus par sistēmas attīstību un paplašināšanu.
+10) sniedz Nacionālā muzeju krājuma kopkataloga informācijas sistēmas pārzinim atzinumus un ierosinājumus par sistēmas attīstību un paplašināšanu;
+11) sniedz publiskajam muzejam vai tā dibinātājam atzinumus par muzeja pamatfunkciju izpildes rezultātu atbilstību muzeja darbības un attīstības stratēģijai un akreditācijas prasībām.

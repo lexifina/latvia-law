@@ -21,4 +21,5 @@
 4) sabiedrības izglītošanai un iesaistei, izmantojot muzejam raksturīgos komunikācijas veidus;
 5) infrastruktūras - muzeja ēku, inženierkomunikācijas, telpu, teritorijas - uzturēšanai un pilnveidošanai.
 (2) Valsts muzeji un pašvaldību muzeji var saņemt papildu finanšu līdzekļus arī no citiem avotiem ziedojumu un dāvinājumu veidā, kā arī gūt ienākumus no maksas pakalpojumiem un citiem pašu ieņēmumiem. Līdzekļi, kas iegūti no maksas pakalpojumiem un citiem pašu ieņēmumiem, tiek ieskaitīti muzeja pamatbudžeta kontā un tos izmanto tikai muzeja darbības attīstībai, un ar pakalpojumu sniegšanu saistīto izdevumu segšanai.
+(2¹) Valsts muzeja - iestādes - maksas pakalpojumu cenrādi apstiprina valsts muzeja direktors (vadītājs).
 (3) Ja valsts muzeji un pašvaldību muzeji saņem ziedojumu vai dāvinājumu ar norādītu mērķi vai bez tā, tie atver speciālā budžeta kontu.
