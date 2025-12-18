@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2025.gada rudens sesija",
+ "sede": 38,
+ "datums": "2025-12-18",
+ "ieraksts": {
+  "dkp_id": "2a84cda3-32b1-46e3-83bf-f276f03c4474",
+  "lastmodtime": "\"AAAAAAJ3Z4I=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Skaidrīte#Anna#Edmunds#Zane#Svetlana#Ilze#Mārcis#Andris#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Didzis#Ingmārs#Edmunds#Maija#Agnese#Raivis#Jana#Ligita#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Irma#Harijs#Augusts#Aiva#Valdis#Līga#Nataļja#Jānis#Viesturs#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Andrejs#Jānis#Gunārs#Igors#Jeļena#Kaspars#Ramona#Jānis#Lauris#Linda#Līga#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Stobova#Jencītis#Bērziņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zemmers#Līdaka#Zivtiņš#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Marčenko-Jodko#Dinevičs#Zariņš#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Judins#Vucāns#Kūtris#Judins#Kļaviņa#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Kozlovska#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#################################################################",
+  "FRACTION": "ST!#NA#NA# #JV#PRO#JV#ST!#LPV#LPV#ZZS#PRO#JV#JV#ST!#ST!#PRO#NA#ZZS#AS#LPV#LPV#JV#NA#PRO#ZZS#JV# #JV#NA#JV# #JV#ZZS#ZZS#AS#ZZS#ZZS#ST!#ZZS#JV#ST!#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV#AS# #JV#ZZS#ZZS#ST!# #PRO#LPV#JV#AS#LPV#ZZS#JV#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.12.2025 13:37:03",
+  "VOTEMOTIVE": "Grozījums Aizturēto personu turēšanas kārtības likumā (1016/Lp14), 3.lasījums",
+  "VOTING_ID": "0ae4f273-6f64-449e-a28c-9463301b7e54",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "64",
+  "VOTERESULT_REGISTERED": "66",
+  "VOTE_NUMBER": "34",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2025.gada rudens sesija-38-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/1f9c79af-ad55-4df3-a55f-1f85007504cd/download/14.saeimas-2025.gada-rudens-sesija-38-vote.xml",
+  "sha256": "9d365c71590528096ac9c1de300148be4df6be93da9830272d9dcdcdaa0c1733",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
