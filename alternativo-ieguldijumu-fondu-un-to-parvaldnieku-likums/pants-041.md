@@ -1,5 +1,6 @@
 41.pants. Vispārīgās prasības
-(1) Fonda ieguldījumu daļu publiskā apgrozība notiek saskaņā ar Finanšu instrumentu tirgus likumu, ciktāl šajā likumā nav noteikts citādi. Lai iekļautu fonda ieguldījumu daļas regulētajā tirgū, pārvaldnieka fonda darbības noteikumi un pārvaldes nolikums pielīdzināmi prospektam, kas sagatavots atbilstoši Finanšu instrumentu tirgus likuma prasībām.
+(1) Fonda ieguldījumu daļu publiskā apgrozība notiek saskaņā ar Finanšu instrumentu tirgus likumu, ciktāl šajā likumā nav noteikts citādi. Lai iekļautu fonda ieguldījumu daļas regulētajā tirgū, licencēta pārvaldnieka fonda darbības noteikumi un pārvaldes nolikums pielīdzināmi prospektam, kas sagatavots atbilstoši Finanšu instrumentu tirgus likuma prasībām.
+(1¹) Publiskā apgrozībā drīkst izplatīt tikai licencēta pārvaldnieka reģistrēta fonda daļas.
 (2) Fonda ieguldījumu daļām var būt dažādas klases ar atšķirīgu nominālvērtību, piekritīgajiem maksājumiem vai atšķirīgām tiesībām uz fonda ienākumu sadali. Viena fonda vienas klases ieguldījumu daļās ir nostiprinātas vienādas tiesības.
 (3) Ar ieguldījumu daļas atsavināšanu ieguvējam pāriet arī attiecīgā atsavinātāja mantas domājamā daļa fondā.
 (4) Ieguldījumu daļas tiek emitētas dematerializētā formā.

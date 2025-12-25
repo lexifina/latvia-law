@@ -7,8 +7,9 @@
 (2) Papildus šā panta pirmajā daļā minētajiem maksājumiem licencēts pārvaldnieks Latvijas Bankai maksā:
 1) par fonda reģistrācijai iesniegto dokumentu izskatīšanu - 1422 euro;
 2) par reģistrācijai iesniegto fonda darbības noteikumu vai dibināšanas dokumenta grozījumu izskatīšanu - 426 euro.
-(3) Reģistrēts pārvaldnieks par pārvaldnieka reģistrācijai iesniegto dokumentu izskatīšanu Latvijas Bankai maksā 250 euro.
+(3) Persona par pārvaldnieka reģistrācijai iesniegto dokumentu izskatīšanu Latvijas Bankai maksā 1500 euro.
+(3¹) Persona par pārvaldnieka licencēšanai iesniegto dokumentu izskatīšanu Latvijas Bankai maksā 2500 euro.
 (4) Dalībvalstī licencēta pārvaldnieka filiāle, kas reģistrēta Latvijā, Latvijas Bankai maksā:
 1) līdz vienam procentam no filiāles Latvijā sniegto fondu pārvaldes pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 2134 euro gadā;
 2) līdz vienam procentam no filiāles šā likuma 5. panta septītajā un astotajā daļā minēto ieguldījumu pakalpojumu bruto ieņēmumiem ceturksnī, bet ne mazāk par 711 euro gadā.
-(5) Dalībvalsts (izņemot Latviju) fonda pārvaldnieks par katra tā pārvaldē esoša dalībvalsts fonda vai ārvalsts fonda ieguldījumu daļu izplatīšanas uzraudzību Latvijā maksā Latvijas Bankai vienreizēju maksu - 1209 euro.
+(5) Dalībvalsts (izņemot Latviju) fonda pārvaldnieks par katra tā pārvaldē esoša dalībvalsts fonda vai ārvalsts fonda ieguldījumu daļu izplatīšanas uzraudzību Latvijā maksā Latvijas Bankai vienreizēju maksu - 250 euro.

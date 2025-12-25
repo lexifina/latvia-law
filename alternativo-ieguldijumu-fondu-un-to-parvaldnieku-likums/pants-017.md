@@ -9,7 +9,7 @@
 3) pārvaldnieka sākotnējais kapitāls un pašu kapitāls neatbilst šā likuma prasībām;
 4) pārvaldnieka ciešas attiecības ar trešajām personām apdraud vai var apdraudēt tā finansiālo stabilitāti vai ierobežo Latvijas Bankas tiesības veikt šajā likumā noteiktās uzraudzības funkcijas;
 5) ārvalsts likumi un citi normatīvie akti, kas attiecas uz personām, kurām ir ciešas attiecības ar pārvaldnieku, ierobežo Latvijas Bankas tiesības veikt šajā likumā noteiktās uzraudzības funkcijas;
-6) nav iespējams pārliecināties par to personu identitāti, reputāciju un finansiālā stāvokļa stabilitāti, kurām pārvaldniekā ir būtiska līdzdalība;
-7) Latvijas Banka konstatē, ka finanšu līdzekļi, kurus iegulda pārvaldnieka kapitālā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve;
+6) nav iespējams pārliecināties par to personu identitāti, nevainojamu reputāciju un finansiālā stāvokļa stabilitāti, kurām pārvaldniekā ir būtiska līdzdalība;
+7) Latvijas Banka konstatē, ka finanšu līdzekļi, kurus iegulda pārvaldnieka kapitālā, iegūti aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve;
 8) pārvaldnieka vadība un juridiskā adrese nav Latvijā;
 9) pārvaldnieka akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.

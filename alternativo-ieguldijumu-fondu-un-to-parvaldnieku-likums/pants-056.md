@@ -16,5 +16,7 @@
 2) pārvaldnieka ziņojumu par finansiālo stāvokli un saimnieciskās darbības raksturojumu;
 3) visas pārskata gadā notikušās būtiskās izmaiņas šā likuma 58.pantā minētajā informācijā;
 4) ārējā pārvaldnieka amatpersonām un darbiniekiem pārskata gadā piešķirtā atalgojuma kopsummu, atsevišķi uzrādot atalgojuma nemainīgo daļu un mainīgo daļu un šādu daļu saņēmēju skaitu, kā arī fonda piešķirtās papildu atlīdzības daļas kopsummu, ja tāda paredzēta;
-5) ārējā pārvaldnieka amatpersonām un darbiniekiem, kuru profesionālā darbība būtiski ietekmē tā pārvaldē esoša fonda riska profilu, pārskata gadā piešķirtā atalgojuma kopsummu, atsevišķi uzrādot šādām amatpersonām un darbiniekiem piešķirtā atalgojuma summas.
+5) ārējā pārvaldnieka amatpersonām un darbiniekiem, kuru profesionālā darbība būtiski ietekmē tā pārvaldē esoša fonda riska profilu, pārskata gadā piešķirtā atalgojuma kopsummu, atsevišķi uzrādot šādām amatpersonām un darbiniekiem piešķirtā atalgojuma summas;
+6) paziņojumu par pārvaldnieka atbildību;
+7) turētājbankas (ja tāda ir) ziņojumu.
 (14) Ja fondu pārvalda reģistrēts pārvaldnieks, fonda gada pārskatā un konsolidētajā gada pārskatā var neiekļaut šā panta trīspadsmitās daļas 3., 4. un 5.punktā minēto informāciju.

@@ -1,0 +1,1 @@
+25. Reģistrētie pārvaldnieki līdz 2026. gada 31. decembrim nodrošina atbilstību šā likuma 11. panta piektās daļas un 9. panta piektās daļas pirmā teikuma (jaunā redakcijā) prasībām attiecībā uz 15. panta pirmās, otrās un trešās daļas noteikumu ievērošanu.

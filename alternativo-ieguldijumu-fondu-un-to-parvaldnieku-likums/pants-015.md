@@ -14,3 +14,4 @@
 (5) Pārvaldnieks nodrošina, ka minimālais pārvaldnieka valdes locekļu skaits ir trīs.
 (6) Pārvaldnieka pārvaldes institūcijai ir pienākums pašai vai pēc Latvijas Bankas pieprasījuma nekavējoties atsaukt no amata pārvaldnieka amatpersonas, ja tās neatbilst šā likuma prasībām.
 (7) Izvērtējot pārvaldnieka amatpersonu un padomes locekļu reputāciju, Latvijas Banka ņem vērā šo personu paziņojumā sniegto informāciju, no iepriekšējām darbavietām saņemtās atsauksmes un citas ziņas par minēto personu iepriekšējo profesionālo pieredzi.
+(8) Šā panta pirmās, trešās, sestās un septītās daļas noteikumus piemēro arī pārvaldnieka ieceltajai personai, kas ir atbildīga par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas prasību izpildi.

@@ -8,7 +8,7 @@
 1) nodrošina darbības apjomam un specifikai atbilstošus personāla un tehnoloģiskos resursus, tīmekļvietnes izveidi, kā arī izstrādā un efektīvi piemēro darbības veikšanai nepieciešamās procedūras;
 2) nodrošina tā sniegtajiem pārvaldes pakalpojumiem atbilstošu grāmatvedības uzskaiti un administratīvās procedūras, izveido tādu elektronisko datu glabāšanas, aizsardzības un kontroles mehānismu, lai būtu iespējams rekonstruēt ar fonda līdzekļiem veiktos darījumus pēc to izcelsmes, darījumā iesaistītajām pusēm, darījuma būtības, veikšanas laika un vietas, kā arī pārrauga fonda ieguldījumu atbilstību fonda darbības noteikumiem un šā likuma prasībām;
 2¹) nodrošina tīklu un informācijas sistēmu atbilstoši Regulas Nr. 2022/2554 un Finanšu tirgus digitālās darbības noturības un mākslīgā intelekta izmantošanas likuma prasībām;
-3) darījumu attaisnojuma dokumentus glabā 10 gadus un nodrošina normatīvajos aktos noteikto prasību izpildi attiecībā uz attaisnojuma dokumentu aizpildīšanu;
+3) nodrošina normatīvajos aktos noteikto prasību izpildi attiecībā uz attaisnojuma dokumentu aizpildīšanu;
 4) ievēro pārvaldnieka darbības nodrošināšanai izstrādātās procedūras, tai skaitā kārtību, kādā veicami personīgie darījumi Regulas Nr. 231/2013 izpratnē vai darījumi uz pārvaldnieka paša rēķina un darījumi ar fonda ieguldījumu daļām.
 (3) Pārvaldnieka darbības un organizatorisko prasību vispārīgos principus nosaka Regula Nr. 231/2013.
 (4) Ja licencētam ārējam pārvaldniekam ir atļauts sniegt šā likuma 5.panta septītajā un astotajā daļā minētos pakalpojumus, tas papildus šā panta pirmajā, otrajā un trešajā daļā noteiktajām prasībām ievēro un izpilda šādas prasības:
