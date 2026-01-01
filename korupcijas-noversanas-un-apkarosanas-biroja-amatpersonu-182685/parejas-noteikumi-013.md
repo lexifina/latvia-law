@@ -1,0 +1,1 @@
+13. Biroja amatpersonām, kuras tiek ieceltas Biroja amatpersonas amatā pēc 2027. gada 1. janvāra, izdienas stāžā, kas dod tiesības uz izdienas pensiju, neieskaita šā likuma 3. panta 4. un 5. punktā minēto laiku.

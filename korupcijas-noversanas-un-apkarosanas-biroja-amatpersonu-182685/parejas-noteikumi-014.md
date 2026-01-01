@@ -1,0 +1,1 @@
+14. Šā likuma 2. panta pirmās daļas, 3. panta 6. punkta, 4. panta pirmās daļas pirmā teikuma, 5. panta jaunā redakcija, kā arī 9. panta pirmās daļas, otrās daļas 2. punkta un trešās daļas jaunā redakcija stājas spēkā 2027. gada 1. janvārī.

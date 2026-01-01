@@ -1,0 +1,1 @@
+7. Biroja amatpersonai, kurai tiesības uz izdienas pensiju radās līdz 2026. gada 31. decembrim, tā tiek piešķirta, aprēķināta un izmaksāta atbilstoši šā likuma noteikumiem, kuri bija spēkā 2026. gada 31. decembrī.
