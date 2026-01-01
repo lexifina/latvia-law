@@ -1,0 +1,2 @@
+3. pants. Valsts ieņēmumu dienesta funkcijas
+Valsts ieņēmumu dienests nodrošina tā administrēto nodokļu, nodevu un citu valsts noteikto obligāto maksājumu iekasēšanu Latvijas teritorijā un uz muitas robežas, kā arī nodokļu, nodevu un citu obligāto maksājumu iekasēšanu Eiropas Savienības budžetam, veic nodokļu maksātāju un Valsts ieņēmumu dienesta administrēto nodokļu maksājumu uzskaiti, akcīzes preču aprites kontroli, kā arī īsteno muitas politiku un kārto muitas lietas.

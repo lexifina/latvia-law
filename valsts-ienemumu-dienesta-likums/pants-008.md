@@ -1,0 +1,3 @@
+8. pants. Valsts ieņēmumu dienesta ģenerāldirektors
+(1) Valsts ieņēmumu dienesta ģenerāldirektors pilda Valsts pārvaldes iekārtas likumā noteiktās tiešās pārvaldes iestādes vadītāja funkcijas, kā arī bez īpaša pilnvarojuma pārstāv Valsts ieņēmumu dienestu.
+(2) Valsts ieņēmumu dienesta ģenerāldirektors izveido šā likuma 9. panta pirmajā daļā minēto Valsts ieņēmumu dienesta digitālās attīstības vadības komiteju, kas nosaka Valsts ieņēmumu dienesta digitālās transformācijas prioritātes un virzienus atbilstoši tā stratēģiskajiem mērķiem un nodrošina digitālās transformācijas attīstības monitoringu.

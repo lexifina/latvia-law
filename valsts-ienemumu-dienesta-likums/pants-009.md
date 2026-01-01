@@ -1,0 +1,15 @@
+9. pants. Valsts ieņēmumu dienesta digitālās attīstības vadības komiteja
+(1) Valsts ieņēmumu dienesta digitālās attīstības vadības komiteja ir Valsts ieņēmumu dienesta ģenerāldirektora izveidota koleģiāla institūcija, kuras uzdevumi ir šādi:
+1) identificēt inovāciju iespējas Valsts ieņēmumu dienesta digitālās transformācijas jomā;
+2) noteikt Valsts ieņēmumu dienesta digitālās transformācijas prioritātes un virzienus atbilstoši tā stratēģiskajiem mērķiem;
+3) izvērtēt Valsts ieņēmumu dienesta informācijas tehnoloģiju attīstības stratēģijas īstenošanas gaitu un sniegt ieteikumus.
+(2) Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas darba organizāciju un tās locekļiem izvirzāmās prasības nosaka komitejas nolikumā. Valsts ieņēmumu dienesta digitālās attīstības vadības komitejā var uz laiku līdz trim gadiem iekļaut neatkarīgus Latvijas un ārvalstu ekspertus, kuri nav vai nav bijuši Valsts ieņēmumu dienesta ierēdņi vai darbinieki.
+(3) Ikviens Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas sastāvā iekļautais Latvijas vai ārvalstu eksperts ir neatkarīgs, ja uz viņu neattiecas neviens no šādiem apstākļiem:
+1) ir vai pēdējo triju gadu laikā ir bijis darba tiesiskajās attiecībās ar komersantu, kurš saskaņā ar Valsts ieņēmumu dienesta noslēgto publiskā iepirkuma līgumu piedalījies Valsts ieņēmumu dienesta informācijas sistēmu izstrādē, ir sniedzis pakalpojumus vai konsultācijas šādam komersantam;
+2) laulība, radniecība vai svainība līdz otrajai pakāpei ar Valsts ieņēmumu dienesta ierēdni vai darbinieku;
+3) cita veida personiska vai mantiska ieinteresētība, kas varētu apdraudēt viņa neatkarību un ko par tādu atzinis Valsts ieņēmumu dienests.
+(4) Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas sastāvā iekļautiem Latvijas un ārvalstu ekspertiem atlīdzību nosaka, vienojoties un noslēdzot pakalpojuma vai uzņēmuma līgumu.
+(5) Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas loceklim ir aizliegts izpaust trešajām personām publiski neizplatītu informāciju, kas viņam uzticēta vai kļuvusi zināma, pildot komitejas locekļa pienākumus. Šis aizliegums uz Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas locekli attiecas arī pēc attiecīgā amata atstāšanas.
+(6) Ja Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas sastāvā iekļautais citas institūcijas pārstāvis vai ārvalstu eksperts rīkojas prettiesiski, pārkāpj savas pilnvaras, neievēro tiesību aktus vai Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas nolikumu vai lēmumus vai darbojas ļaunprātīgi vai nolaidīgi, viņš atbild par zaudējumiem, kas tādējādi nodarīti Valsts ieņēmumu dienestam un citām personām. Valsts ieņēmumu dienests prasību pret viņu var celt Civillikumā noteiktajā kārtībā.
+(7) Valsts ieņēmumu dienesta digitālās attīstības vadības komitejas nolikumā attiecībā uz tās locekļiem var noteikt papildu ierobežojumus vai prasības.
+(8) Valsts ieņēmumu dienests nodrošina tā digitālās attīstības vadības komitejas darbībai nepieciešamos resursus, kā arī komitejas pieprasīto tās uzdevumu izpildei nepieciešamo informāciju.
