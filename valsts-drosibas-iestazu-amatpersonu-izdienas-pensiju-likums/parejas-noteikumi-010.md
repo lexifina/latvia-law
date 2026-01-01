@@ -1,0 +1,1 @@
+10. Amatpersonām, kuras uzsāk dienestu pēc 2027. gada 1. janvāra, papildus šā likuma pārejas noteikumu 9. punkta 1. un 2. apakšpunktā minētajiem nosacījumiem izdienas pensiju aprēķina atbilstoši šā likuma 6. panta pirmajai daļai.
