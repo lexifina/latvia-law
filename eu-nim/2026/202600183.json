@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 3. decembra likums \"Grozījumi Fiskālās disciplīnas likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "244",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-18",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2026-01-08",
+  "commission_reference": "MNE(2026)00183",
+  "nim_celex": "72024L1265LVA_202600183",
+  "nim_id": "202600183",
+  "transposes_celex": [
+    "32024L1265"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/609201eb-9937-49f7-a92a-93acd330bad6",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
