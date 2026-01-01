@@ -1,3 +1,3 @@
-185. (1) Saeimas grāmatvedību, izdevumu lietderību, likumību un gada pārskatus pārbauda Publisko izdevumu un revīzijas komisija.
+185. (1) Saeimas grāmatvedību, izdevumu lietderību, likumību un gada pārskatus pārbauda, kā arī iekšējās kontroles sistēmu novērtē Publisko izdevumu un revīzijas komisija.
 (2) Pārskata gada laikā Publisko izdevumu un revīzijas komisija plāno un veic finanšu posteņu revīziju izlases kārtībā Saeimas saimniecībā. Pēc veiktajām izlases revīzijām Publisko izdevumu un revīzijas komisija iesniedz atzinumus Prezidijam. Katra pārskata gada beigās tiek veikta gada pārskata revīzija. Par gada pārskata revīziju Publisko izdevumu un revīzijas komisija iesniedz atzinumu Prezidijam ne vēlāk kā sešus mēnešus pēc pārskata gada beigām.
-(3) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 21. punktu)
+(3) Prezidijs nosaka kārtību, kādā Saeimas Administrācijā un citās Saeimas struktūrvienībās tiek īstenota un pārraudzīta iekšējās kontroles sistēma.
