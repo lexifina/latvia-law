@@ -6,7 +6,7 @@ Izmeklēšanu savas kompetences ietvaros veic:
 4) Militārā policija;
 5) Ieslodzījuma vietu pārvalde;
 6) Korupcijas novēršanas un apkarošanas birojs;
-7) Valsts ieņēmumu dienesta nodokļu un muitas policija;
+7) Nodokļu un muitas policija;
 8) Valsts robežsardze;
 9) tālbraucienos esošu jūras kuģu kapteiņi;
 10) ārvalsts teritorijā esošas Latvijas Nacionālo bruņoto spēku vienības komandieris;
