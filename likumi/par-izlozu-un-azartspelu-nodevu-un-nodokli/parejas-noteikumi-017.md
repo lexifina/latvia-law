@@ -1,0 +1,1 @@
+17. Grozījums šā likuma 5. panta otrajā daļā par vārdu "Izložu un azartspēļu uzraudzības inspekcijai" aizstāšanu ar vārdiem "Valsts ieņēmumu dienestam", kā arī grozījums 14. pantā par tā pirmās daļas otrā teikuma un otrās daļas izslēgšanu stājas spēkā 2026. gada 1. aprīlī.
