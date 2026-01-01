@@ -1,2 +1,3 @@
 3.¹ pants. Rīcība ar valstij piekritīgo mantu
-Ministru kabinets nosaka kompetentās tiešās pārvaldes un pastarpinātās pārvaldes institūcijas un kārtību, kādā veicama valstij piekritīgās mantas pārņemšana, glabāšana, uzskaite, realizācija, nodošana bez maksas, iznīcināšana un realizācijas ieņēmumu ieskaitīšana valsts un pašvaldību budžetā.
+(1) Ministru kabinets nosaka kompetentās institūcijas, kuras nodrošina rīcību ar valstij piekritīgo mantu, un kārtību, kādā veicama valstij piekritīgās mantas pārņemšana, glabāšana, uzskaite, realizācija, nodošana bez maksas, iznīcināšana un realizācijas ieņēmumu ieskaitīšana valsts un pašvaldību budžetā.
+(2) Ja valstij piekritīgo mantu realizē valsts kapitālsabiedrība, ieņēmumus no šīs mantas realizācijas valsts kapitālsabiedrība izlieto ar minētās mantas pārņemšanu, glabāšanu, uzskaiti, realizāciju, nodošanu bez maksas un iznīcināšanu saistīto izdevumu segšanai.
