@@ -6,7 +6,7 @@
 5) (izslēgts ar 03.06.2010. likumu);
 6) (izslēgts ar 18.12.2008. likumu);
 7) dzīvnieku apzīmēšana un reģistrēšana, ganāmpulku un novietņu reģistrēšana, dzīvnieku pārvietošana;
-8) dzīvnieku liemeņu klasifikācija un cenu ziņošana kautuvē;
+8) (izslēgts ar 03.12.2025. likumu);
 9) citas normatīvajos aktos noteiktās jomas.
 (2) Pārtikas un veterinārais dienests atbilstoši savai kompetencei:
 1) izstrādā un apstiprina metodiskos norādījumus attiecībā uz šajā likumā noteiktajām uzraudzības darbībām;
