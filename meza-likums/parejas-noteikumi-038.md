@@ -1,0 +1,1 @@
+38. Šā likuma 4. panta 2.² daļā minētajā gadījumā līdzekļus, kas iegūti no koksnes atsavināšanas, pēc faktisko koksnes atsavināšanas un citu ar to saistīto izdevumu atskaitīšanas akciju sabiedrība "Latvijas valsts meži" 2026., 2027. un 2028. gadā ieskaita kārtējā gada valsts pamatbudžeta ieņēmumos.
