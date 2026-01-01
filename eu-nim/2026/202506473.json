@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 16. septembra noteikumi Nr. 558 \"Grozījumi Ministru kabineta 2010. gada 28. decembra noteikumos Nr. 1229 \"Noteikumi par šķirnes atšķirīguma, viendabīguma un stabilitātes pārbaudi\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "180",
+  "official_journal_page": null,
+  "official_journal_date": "2025-09-18",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-11-24",
+  "commission_reference": "MNE(2025)06473",
+  "nim_celex": "72025L1079LVA_202506473",
+  "nim_id": "202506473",
+  "transposes_celex": [
+    "32025L1079"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/7cb8f7bd-a8fb-43d3-87d8-de979a6ac322",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
