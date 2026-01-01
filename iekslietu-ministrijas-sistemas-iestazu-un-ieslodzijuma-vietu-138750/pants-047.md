@@ -9,7 +9,7 @@
 6) sakarā ar Iestādes vai amatpersonas amata likvidāciju vai amatpersonu skaita samazināšanu;
 7) piemērojot disciplinārsodu - atvaļināšana no dienesta;
 8) sakarā ar iecelšanu, apstiprināšanu vai ievēlēšanu citā amatā, ja amatu savienošana nav atļauta;
-9) sasniedzot šā likuma 46.pantā noteikto vecumu;
+9) sasniedzot šā likuma 46. pantā noteikto vecumu, ja nav konstatēta dienesta nepieciešamība vai ja dienesta nepieciešamība ir konstatēta, bet amatpersona nepiekrīt ieņemt piedāvāto amatu;
 10) sakarā ar amatpersonas nāvi.
 (2) Amatpersonu var atvaļināt no dienesta:
 1) tai sasniedzot izdienas stāžu, kas dod tiesības uz izdienas pensiju likumā noteiktajā kārtībā;

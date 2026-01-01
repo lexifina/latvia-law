@@ -1,11 +1,11 @@
 7.pants. Prasības pieņemšanai dienestā
-(1) Dienestā var pieņemt personas vecumā no 18 līdz 40 gadiem:
+(1) Dienestā var pieņemt personas vecumā no 18 gadiem līdz šā likuma 46. panta pirmajā daļā noteiktajam vecumam:
 1) kuras atbilst šā likuma 4.pantā dienestam noteiktajām obligātajām prasībām, izņemot šā panta 2.² daļā minēto gadījumu;
 2) kurām ir vismaz vidējā izglītība;
 3) kuras prot latviešu valodu tādā apjomā, kāds nepieciešams profesionālo un amata pienākumu veikšanai;
 3¹) kurām ir nevainojama reputācija;
 4) kuras nav atvaļinātas no dienesta Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē sakarā ar to, ka tām piemērots disciplinārsods - atvaļināšana no dienesta.
-(2) Ņemot vērā dienesta nepieciešamību, Iestādes vadītājs dienestā var pieņemt arī personu, kura ir vecāka par 40 gadiem un kuras izdienas laiks Iekšlietu ministrijas sistēmā vai Ieslodzījuma vietu pārvaldē vai kuras militārā dienesta izdienas stāžs nav īsāks par 10 gadiem, vai personu, kura ir vecāka par 40 gadiem un kura atvaļināta no dienesta saskaņā ar šā likuma 47.panta pirmās daļas 6. vai 8.punktu neatkarīgi no izdienas.
+(2) Ņemot vērā dienesta nepieciešamību, personas fiziskās un profesionālās spējas, kā arī veselības stāvokli, dienestā var pieņemt arī personu, kura ir vecāka par šā likuma 46. panta pirmajā daļā noteikto vecumu.
 (2¹) Iestādes vadītājs dienestā var pieņemt arī personu, uz kuru attiecas šā panta pirmās daļas 4. punktā noteiktais ierobežojums, ja pēc personas atvaļināšanas dienas ir pagājuši ne mazāk kā pieci gadi.
 (2²) Valsts ugunsdzēsības un glābšanas dienesta vadītājs dienestā var pieņemt arī personu, kura neatbilst šā likuma 4. panta 4., 4.¹ un 4.² punktā noteiktajām prasībām, ja ir pagājuši ne mazāk kā pieci gadi no brīža, kad persona notiesāta vai kad pieņemts lēmums par kriminālprocesa izbeigšanu uz nereabilitējoša pamata, bet gadījumā, kad minētajā termiņā sodāmība nav dzēsta vai noņemta, - no brīža, kad sodāmība ir dzēsta vai noņemta, un Valsts ugunsdzēsības un glābšanas dienesta vadītāja izveidota komisija pēc attiecīgās personas izvērtējuma veikšanas ir sniegusi ieteikumu pieņemt personu dienestā.
 (3) Personai, kura vēlas iestāties dienestā, ir pienākums:
