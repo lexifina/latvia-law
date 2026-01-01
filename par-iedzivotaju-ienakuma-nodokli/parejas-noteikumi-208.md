@@ -1,0 +1,1 @@
+208. Grozījumu šā likuma 9. panta pirmās daļas 34.¹ punktā par tāda nekustamā īpašuma atsavināšanu, kurš saņemts dāvinājumā vai mantojumā no laulātā vai radinieka līdz trešajai pakāpei, piemēro, sākot ar 2025. gada 1. janvāri.

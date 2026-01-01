@@ -31,7 +31,8 @@
 6) ka persona, kas ir citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvusi vairāk nekā 75 procentus no saviem kopējiem ienākumiem un ka tā vai tās laulātais nav izmantojuši šajā likumā noteiktajiem nodokļa atvieglojumiem un attaisnotajiem izdevumiem analoģiskus atskaitījumus savā rezidences valstī;
 7) ienākumam pielīdzinātā aizdevuma atmaksu aizdevējam, kā arī ar aizdevumu saistīto procentu maksājumu samaksu;
 8) ka ārvalstī ir samaksāts uzņēmumu ienākuma nodoklis vai ārvalstī no dividendēm, dividendēm pielīdzināma ienākuma vai nosacītajām dividendēm ir ieturēts iedzīvotāju ienākuma nodoklis;
-9) iesniegumu par maksātāja tiesībām uz ārvalsts pensijas neapliekamā apmēra piemērošanu taksācijas gadā, kurā uzrādīts ārvalsts pensijas apmērs.
+9) iesniegumu par maksātāja tiesībām uz ārvalsts pensijas neapliekamā apmēra piemērošanu taksācijas gadā, kurā uzrādīts ārvalsts pensijas apmērs;
+10) Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidenta tiesības piemērot pensionāra neapliekamo minimumu saskaņā ar šā likuma 12. panta 12.⁵ daļu.
 6.¹ (Izslēgta ar 13.05.2010. likumu)
 7. (Izslēgta ar 01.12.2009. likumu)
 7.¹ Maksātājs, deklarējot ienākumu no lauksaimniecībā izmantojamas zemes atsavināšanas, Valsts ieņēmumu dienestam kopā ar deklarāciju par ienākumu no kapitāla iesniedz sertificēta nekustamā īpašuma vērtētāja vērtējumu, ja apliekamo ienākumu aprēķina saskaņā ar:

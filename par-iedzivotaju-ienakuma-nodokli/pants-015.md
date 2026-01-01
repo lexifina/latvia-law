@@ -5,7 +5,8 @@
 2) 33 procenti - gada ienākuma daļai, kas pārsniedz likumā "Par valsts sociālo apdrošināšanu" noteikto obligāto iemaksu objekta maksimālo apmēru.
 3. Algas nodokļa likme, kas jāmaksā no mēneša apliekamā ienākuma (izņemot šā likuma 9. pantā minētos neapliekamos ienākumus), ja šā panta sešpadsmitajā daļā nav noteikts citādi, ir 25,5 procenti.
 4. (Izslēgta ar 04.12.2024. likumu. Sk. pārejas noteikumu 202. punktu)
-5. Nodokļa likmi 25,5 procentu apmērā piemēro ienākumam no kapitāla, tai skaitā no kapitāla pieauguma.
+5. Nodokļa likmi 25,5 procentu apmērā piemēro ienākumam no kapitāla, tai skaitā no kapitāla pieauguma. Minēto likmi nepiemēro šā panta 5.¹ daļā minētajam ienākumam.
+5.¹ Dividendēm, kas izmaksātas, piemērojot Uzņēmumu ienākuma nodokļa likuma 4.² pantu, piemēro nodokļa likmi sešu procentu apmērā.
 6. Nodokļa likmi 10 procentu apmērā piemēro:
 1) šā likuma 3. panta trešās daļas 9.¹ punktā un 8. panta trešās daļas 15. punktā minētajam ienākumam;
 2) šā likuma 3. panta trešās daļas 9.² punktā un 8. panta trešās daļas 15.¹ punktā minētajam ienākumam;

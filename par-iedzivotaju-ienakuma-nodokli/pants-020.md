@@ -5,7 +5,8 @@
 1) saņem šā likuma 3.panta trešās daļas 7. un 9.punktā minētos ienākumus, kā arī šā likuma 3.panta trešās daļas 1.punktā minēto ienākumu no algota darba tāda darba devēja labā, kurš nav Latvijas rezidents vai kuram nav pastāvīgās pārstāvniecības Latvijā, vai arī saņem šā likuma 3.panta trešās daļas 4.punktā minēto ienākumu no komercsabiedrības, kas nav Latvijas Republikas rezidents;
 2) saņem šā likuma 3. panta trešās daļas 7.¹ un 17. punktā minētos ienākumus, no kuriem nodoklis nav ieturēts izmaksas brīdī;
 2¹) saņem šā likuma 3.panta trešās daļas 9.¹ punktā minētos ienākumus, par kuriem nodoklis nav ieturēts izmaksas vietā;
-3) būdams citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvis vairāk nekā 75 procentus no saviem kopējiem ienākumiem un vēlas piemērot taksācijas gada neapliekamo minimumu saskaņā ar šā likuma 12.pantu, nodokļa atvieglojumus saskaņā ar šā likuma 13.panta ceturto daļu un attaisnotos izdevumus saskaņā ar šā likuma 10.panta ceturto daļu.
+3) būdams citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, taksācijas gadā Latvijā guvis vairāk nekā 75 procentus no saviem kopējiem ienākumiem un vēlas piemērot taksācijas gada neapliekamo minimumu saskaņā ar šā likuma 12.pantu, nodokļa atvieglojumus saskaņā ar šā likuma 13.panta ceturto daļu un attaisnotos izdevumus saskaņā ar šā likuma 10.panta ceturto daļu;
+4) būdams citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts rezidents, vēlas piemērot taksācijas gada pensionāra neapliekamo minimumu saskaņā ar šā likuma 12. panta 12.⁵ daļu.
 4. Šajā pantā minētie ienākumu deklarēšanas atvieglojumi nav attiecināmi uz maksātājiem:
 1) kuri gūst ienākumus no saimnieciskās darbības;
 2) kuriem rodas pienākums piemaksāt nodokli saistībā ar šā likuma 15. panta otrajā daļā minētās progresīvās likmes vai šā likuma 15.¹ pantā minētās papildu likmes piemērošanu.
