@@ -3,7 +3,7 @@
 (2) Administratīvi aizturēt personu var:
 1) policijas amatpersonas;
 2) Valsts robežsardzes amatpersonas;
-3) Valsts ieņēmumu dienesta amatpersonas;
+3) Nodokļu un muitas policijas amatpersonas;
 4) Valsts vides dienesta amatpersonas;
 5) Dabas aizsardzības pārvaldes amatpersonas;
 6) Valsts meža dienesta amatpersonas;
