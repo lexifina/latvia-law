@@ -1,6 +1,7 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) apsaimniekotājs - ražotāja paplašinātās atbildības sistēmas komersants, kas ir dabas resursu nodokļa maksātājs vai komercsabiedrība, kas, pamatojoties uz līgumu, kurš noslēgts ar dabas resursu nodokļa maksātāju, organizē un koordinē attiecīgās ražotāja paplašinātās atbildības sistēmas darbību;
+1¹) nepārstrādātas koksnes apsaimniekotājs - nepārstrādātas koksnes, kuru komerciālos nolūkos realizē ārpus Eiropas Savienības un Eiropas Ekonomikas zonas teritorijas, (turpmāk - nepārstrādāta koksne) apsaimniekošanas sistēmas komersants, kas ir dabas resursu nodokļa maksātājs vai komercsabiedrība, kura, pamatojoties uz līgumu ar dabas resursu nodokļa maksātāju, organizē un koordinē nepārstrādātās koksnes uzskaites sistēmas darbību;
 2) (izslēgts ar 09.07.2020. likumu);
 3) dabas resursi - dabas daļas, arī augsne, grunts, zemes dzīles, gaiss, ūdeņi, bioloģiskā daudzveidība;
 4) dabas resursu ieguve- dabas resursu atdalīšana no to dabiskās vides, arī parka vīngliemežu (Helix pomatia L.) vākšana;
@@ -15,4 +16,5 @@ Likumā ir lietoti šādi termini:
 13) (izslēgts ar 09.07.2020. likumu);
 14) preces ražotājs - persona, kas maksā dabas resursu nodokli par iepakojumu un vienreiz lietojamiem galda traukiem un piederumiem, videi kaitīgām precēm un transportlīdzekļiem atbilstoši šā likuma 3. pantam;
 15) ražotāja paplašinātās atbildības sistēma - pasākumu kopums, kuru īstenojot preces ražotājam ir finansiāla atbildība vai finansiāla un organizatoriska atbildība par savas tirgū laistās preces un iepakojuma atkritumu efektīvu apsaimniekošanu;
-16) tekstilizstrādājums - mājsaimniecības tekstilizstrādājums, apģērbs, apģērba gabala un piederumu tekstilizstrādājums, apavi, kā arī apģērba gabals un piederums, kura galvenā sastāvdaļa nav tekstilmateriāls.
+16) tekstilizstrādājums - mājsaimniecības tekstilizstrādājums, apģērbs, apģērba gabala un piederumu tekstilizstrādājums, apavi, kā arī apģērba gabals un piederums, kura galvenā sastāvdaļa nav tekstilmateriāls;
+17) nepārstrādātas koksnes apsaimniekošanas sistēma - pasākumu kopums, kuru īstenojot nepārstrādātas koksnes komersantam ir finansiāla atbildība par nepārstrādātas koksnes realizāciju ārpus Eiropas Savienības un Eiropas Ekonomikas zonas teritorijas.
