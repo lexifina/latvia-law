@@ -6,4 +6,5 @@
 5) klaiņojošam dzīvniekam 14 dienu laikā nav atrasts tā iepriekšējais īpašnieks vai jauns turētājs;
 6) klaiņojošs dzīvnieks ir atrasts smagā traumatiskā stāvoklī;
 7) 30 dienu laikā pēc tam, kad stājies spēkā lēmums par dzīvnieka konfiskāciju, neizdodas atrast tam jaunu īpašnieku;
-8) spēkā stājies lēmums par suņa eitanāziju saskaņā ar normatīvajiem aktiem par kritērijiem un kārtību, kādā suns atzīstams par bīstamu un nosakāma rīcība ar to.
+8) (izslēgts ar 03.12.2025. likumu);
+9) (punkts stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu).

@@ -24,10 +24,10 @@ o) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā 
 8) dzīvnieku pārvadāšanas kārtību, labturības prasības dzīvnieku pārvadāšanai transportlīdzeklī, kā arī kārtību, kādā izsniedz un reģistrē dzīvnieku pārvadātāja atļauju un atļauju transportlīdzeklim dzīvnieku pārvadāšanai;
 9) (izslēgts ar 08.03.2012. likumu);
 10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;
-11) kritērijus un kārtību, kādā suni atzīst par bīstamu, nosaka turpmāko rīcību ar to un prasības bīstama suņa turēšanai;
+11) (izslēgts ar 03.12.2025. likumu);
 12) (izslēgts ar 14.03.2024. likumu);
-13) valsts nodevas apmēru un samaksas kārtību par cirka dzīvnieka, dresūras dzīvnieka, cirka un dresūras numura viesizrāžu vietas reģistrāciju;
-14) valsts nodevas apmēru un samaksas kārtību par tāda suņa reģistrāciju, kurš apmācīts uzbrukt cilvēkam;
+13) (izslēgts ar 03.12.2025. likumu);
+14) (izslēgts ar 03.12.2025. likumu);
 15) (izslēgts no 01.01.2018. ar 15.06.2017. likumu. Sk. Pārejas noteikumu 18. punktu);
 16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;
 17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;

@@ -1,0 +1,1 @@
+27. Līdz 2025. gada 31. decembrim saņemtos iesniegumus par suņa uzbrukumu Pārtikas un veterinārais dienests izskata, piemērojot to kārtību suņa atzīšanai par bīstamu, kura bija spēkā iesnieguma iesniegšanas dienā. Par suni, kas atzīts par bīstamu, tā mājas (istabas) dzīvnieka pasē un mājas (istabas) dzīvnieku reģistra datubāzē izdarīto ierakstu saglabā suņa dzīves laikā.
