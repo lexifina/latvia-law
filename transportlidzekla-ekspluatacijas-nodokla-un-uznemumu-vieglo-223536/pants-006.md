@@ -1,6 +1,6 @@
 6.pants. Atbrīvojumi no transportlīdzekļa ekspluatācijas nodokļa maksāšanas
 (1) Transportlīdzekļa ekspluatācijas nodokli nemaksā par:
-1) vienu vieglo automobili, motociklu, triciklu vai kvadriciklu, kurš ir vai tiek reģistrēts personai ar invaliditāti īpašumā, turējumā vai valdījumā;
+1) vienu M1 vai N1 kategorijas automobili, motociklu, triciklu vai kvadriciklu, kurš ir vai tiek reģistrēts personai ar invaliditāti īpašumā, turējumā vai valdījumā;
 2) (izslēgts ar 21.05.2015. likumu);
 3) transportlīdzekli, kurš ir vai tiek reģistrēts diplomātiskās, konsulārās vai starptautiskās organizācijas pārstāvniecības vai tādas personas īpašumā, turējumā vai valdījumā, kurai ir diplomātiskās vai konsulārās privilēģijas un imunitātes;
 4) transportlīdzekli, kuru noraksta vai arī noraksta vienlaikus ar citu reģistrācijas darbību;
@@ -15,10 +15,10 @@
 13) transportlīdzekli, kurš ir vai tiek reģistrēts par sporta transportlīdzekli;
 14) laiku, kad transportlīdzeklis noņemts no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas vai transportlīdzekļa reģistrācija pārtraukta uz laiku, vai arī transportlīdzeklis izslēgts no reģistra;
 15) tādu transportlīdzekli, kas pēc savas konstrukcijas kā vienīgo mehānisko dzinējspēku izmanto enerģiju no transportlīdzeklī glabātās elektroenerģijas vai dzinējspēka glabāšanas iekārtas (piemēram, akumulators, kondensators, spararats vai ģenerators);
-16) vieglo transportlīdzekli, kura īpašniekam, turētājam vai valdītājam vai šādas personas laulātajam apgādībā ir bērns ar invaliditāti. Atbrīvojumu piemēro attiecībā uz vienu šādai personai vai tās laulātajam īpašumā, turējumā vai valdījumā reģistrētu vieglo transportlīdzekli;
+16) M1 vai N1 kategorijas transportlīdzekli, kura īpašniekam, turētājam vai valdītājam vai šādas personas laulātajam apgādībā ir bērns ar invaliditāti. Atbrīvojumu piemēro attiecībā uz vienu šādai personai vai tās laulātajam īpašumā, turējumā vai valdījumā reģistrētu vieglo transportlīdzekli;
 17) transportlīdzekli, kuru transportlīdzekļa īpašnieka maksātnespējas administrators noņem no uzskaites atsavināšanai Latvijā vai izvešanai no Latvijas, vai transportlīdzekli, kura reģistrāciju pārtrauc uz laiku;
 18) vienu transportlīdzekli, kurš ir vai tiek reģistrēts īpašumā, turējumā vai valdījumā Sabiedroto spēku štāba loceklim vai viņa apgādājamam, ja šī persona nav Latvijas pilsonis vai pastāvīgais iedzīvotājs;
-19) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 29. punktu).
+19) vienu M1 vai N1 kategorijas transportlīdzekli, kura īpašniekam, turētājam vai valdītājam aizgādnībā ir persona ar I vai II invaliditātes grupu.
 (2) Ministru kabinets nosaka kārtību, kādā piemērojams šajā pantā paredzētais atbrīvojums no transportlīdzekļa ekspluatācijas nodokļa maksāšanas.
 (3) Transportlīdzekļiem, kurus lieto pasažieru vai kravas komercpārvadājumiem, atbrīvojumus no transportlīdzekļa ekspluatācijas nodokļa maksāšanas nepiemēro. Šis nosacījums neattiecas uz tādiem transportlīdzekļiem, kas atbilst šā panta pirmās daļas 15.punkta nosacījumiem.
-(4) (Daļa stājas spēkā 01.01.2026. un iekļauta likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 29. punktu).
+(4) Lai piemērotu šā panta pirmās daļas 19. punktā paredzēto atbrīvojumu, Ceļu satiksmes drošības direkcijai tiek nodrošināta piekļuve Fizisko personu reģistra informācijai par aizgādnībā esošās personas un personas, kurai pienākas atbrīvojums, identifikācijas datiem (vārds, uzvārds, personas kods).
