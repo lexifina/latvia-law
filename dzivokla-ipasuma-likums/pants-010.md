@@ -7,10 +7,10 @@
 5) maksāt zemes nomas maksu vai likumisko lietošanas maksu par zemes lietošanas tiesībām, ja dzīvojamā māja atrodas uz citai personai piederošas zemes;
 6) saudzīgi izturēties pret kopīpašumā esošo daļu, ievērot tās lietošanas noteikumus, kā arī normatīvajos aktos noteiktās sanitārās, ugunsdrošības un citas prasības, lai neradītu aizskārumu citu cilvēku drošībai un veselībai, apkārtējās vides kvalitātei, un raudzīties, lai šos noteikumus un prasības ievērotu personas, kas iemitinātas viņa dzīvokļa īpašumā;
 7) nodrošināt iespēju dzīvokļu īpašnieku kopības vai pārvaldnieka pilnvarotiem speciālistiem veikt dzīvokļa īpašumā darbības, kas nepieciešamas ar dzīvojamās mājas ekspluatāciju saistītu komunikāciju, būvkonstrukciju un citu elementu ierīkošanai un normālai funkcionēšanai, kā arī nodrošināt iespēju apsekot atsevišķo īpašumu;
-7¹) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 16. punktu);
+7¹) par saviem līdzekļiem veikt atsevišķo īpašumu norobežojošo logu un durvju remontu un apkopi, ja šie logi un durvis ir dzīvojamās mājas ārējās norobežojošās konstrukcijas;
 8) pildīt dzīvokļu īpašnieku kopības pieņemtos lēmumus;
 9) ievērot dzīvokļu īpašnieku kopības noteiktos dzīvokļu īpašumu lietošanas tiesību aprobežojumus;
-10) atsavinot dzīvokļa īpašumu, informēt dzīvokļa īpašuma ieguvēju par tām dzīvokļa īpašnieka neizpildītajām saistībām, kuras attiecas uz dzīvokļa īpašuma lietošanu;
+10) atsavinot dzīvokļa īpašumu, informēt dzīvokļa īpašuma ieguvēju par dzīvokļa īpašnieka neizpildītajām saistībām, tostarp tām, kuras norādītas šā likuma 13.¹ panta pirmajā daļā;
 11) iesniegt dzīvokļa īpašuma tiesības apliecinošu dokumentu dzīvojamās mājas pārvaldniekam vai personai, kura atbilstoši pārvaldīšanas līguma noteikumiem kārto mājas lietu;
 11¹) iesniegt šā panta ceturtajā daļā noteiktajā kārtībā un apjomā aktuālu kontaktinformāciju, kas nepieciešama saziņai ar pārvaldnieku, kā arī ar dzīvokļu īpašnieku kopības lēmumu pieņemšanu saistītu uzaicinājumu un paziņojumu saņemšanai;
 12) atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram nodrošināt finansējumu dzīvokļu īpašnieku kopības saistību izpildei pret trešām personām.
