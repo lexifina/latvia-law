@@ -1,7 +1,7 @@
 7.pants. Izdienas pensijas aprēķināšana un līdzekļi izdienas pensijas izmaksai
-(1) Izdienas pensiju 55 procentu apmērā no personas mēneša vidējās darba samaksas piešķir atbilstoši šā likuma 3.panta pirmajā daļā noteiktajiem nostrādātajiem gadiem attiecīgajā profesijā.
-(2) Izdienas pensiju 45 procentu apmērā no personas mēneša vidējās darba samaksas piešķir atbilstoši šā likuma 3.panta otrajā daļā noteiktajam vecumam un noteiktajiem nostrādātajiem gadiem attiecīgajā profesijā.
+(1) Izdienas pensiju 45 procentu apmērā no personas mēneša vidējās darba samaksas piešķir atbilstoši šā likuma 3.panta pirmajā daļā noteiktajiem nostrādātajiem gadiem attiecīgajā profesijā.
+(2) Pārkvalifikācijas atbalstu 45 procentu apmērā no personas mēneša vidējās darba samaksas piešķir atbilstoši šā likuma 3. panta otrajā daļā noteiktajam.
 (3) Izdienas pensijas apmērs nedrīkst būt mazāks par valsts sociālā nodrošinājuma pabalsta apmēru, kāds noteikts Valsts sociālo pabalstu likuma 13. panta pirmās daļas 1. punktā minētajām personām (turpmāk - valsts sociālā nodrošinājuma pabalsts).
-(4) Izdienas pensijas apmērs nedrīkst pārsniegt desmitkārtīgu valsts sociālā nodrošinājuma pabalstu.
+(4) (Izslēgta ar 03.12.2025. likumu)
 (5) Izdienas pensiju izmaksā no valsts pamatbudžeta līdzekļiem, kuri Labklājības ministrijai tiek piešķirti saskaņā ar gadskārtējā valsts budžeta likuma apropriāciju.
-(6) Izdienas pensijas saņēmējam vecuma pensija tiek piešķirta saskaņā ar likumu "Par valsts pensijām". Kad izdienas pensijas saņēmējs sasniedz likumā "Par valsts pensijām" noteikto vecumu, viņam tiek pārtraukta izdienas pensijas izmaksa līdz vecuma pensijas piešķiršanai. Pēc vecuma pensijas piešķiršanas izdienas pensijas izmaksu atjauno, samazinot to par piešķirtās vecuma pensijas apmēru un piešķirtās mūža pensijas mēneša apmēru, kas noteikts atbilstoši dzīvības apdrošināšanas (mūža pensijas) līgumam par valsts fondēto pensiju shēmā uzkrātā fondētās pensijas kapitāla izmantošanu (ja šāds līgums noslēgts).
+(6) (Izslēgta ar 03.12.2025. likumu)

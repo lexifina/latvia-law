@@ -1,0 +1,1 @@
+16. Personām, kurām tiesības uz izdienas pensiju iestājas līdz 2026. gada 31. decembrim, tā tiek piešķirta, aprēķināta un izmaksāta atbilstoši šā likuma noteikumiem, kuri bija spēkā 2025. gada 31. decembrī, ievērojot šā likuma 10. panta otrās daļas 1. punktā noteikto ierobežojumu.
