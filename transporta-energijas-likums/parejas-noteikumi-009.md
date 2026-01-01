@@ -1,0 +1,1 @@
+9. Līdz šā likuma 20. panta otrajā daļā minētās energoresursu informācijas sistēmas funkcionalitātes izstrādei degvielas piegādātājs vispārīgo ziņojumu iesniedz elektroniska dokumenta veidā atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu, izmantojot Valsts vides dienesta tīmekļvietnē pieejamo ziņojuma veidlapas paraugu.

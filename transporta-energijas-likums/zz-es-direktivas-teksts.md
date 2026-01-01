@@ -1,0 +1,8 @@
+Likumā iekļautas tiesību normas, kas izriet no:
+1) Eiropas Parlamenta un Padomes 1998. gada 13. oktobra direktīvas 98/70/EK, kas attiecas uz benzīna un dīzeļdegvielu kvalitāti un ar ko groza Padomes direktīvu 93/12/EEK;
+2) Eiropas Parlamenta un Padomes 2003. gada 3. marta direktīvas 2003/17/EK, ar ko groza direktīvu 98/70/EK, kas attiecas uz benzīna un dīzeļdegvielas kvalitāti;
+3) Eiropas Parlamenta un Padomes 2009. gada 23. aprīļa direktīvas 2009/30/EK, ar ko groza direktīvu 98/70/EK attiecībā uz benzīna, dīzeļdegvielas un gāzeļļas specifikācijām un ievieš mehānismu autotransporta līdzekļos lietojamās degvielas radītās siltumnīcefekta gāzu emisijas kontrolei un samazināšanai, groza Padomes direktīvu 1999/32/EK attiecībā uz tās degvielas specifikācijām, kuru lieto iekšējo ūdensceļu kuģos, un atceļ direktīvu 93/12/EEK;
+4) Eiropas Parlamenta un Padomes 2015. gada 9. septembra direktīvas (ES) 2015/1513, ar kuru groza direktīvu 98/70/EK, kas attiecas uz benzīna un dīzeļdegvielu kvalitāti, un direktīvu 2009/28/EK par atjaunojamo energoresursu izmantošanas veicināšanu;
+5) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2001 par no atjaunojamajiem energoresursiem iegūtas enerģijas izmantošanas veicināšanu;
+6) Eiropas Parlamenta un Padomes 2023. gada 18. oktobra direktīvas (ES) 2023/2413, ar ko attiecībā uz atjaunīgo energoresursu enerģijas izmantošanas veicināšanu groza direktīvu (ES) 2018/2001, regulu (ES) 2018/1999 un direktīvu 98/70/EK un atceļ Padomes direktīvu (ES) 2015/652;
+7) Komisijas 2024. gada 14. marta deleģētās direktīvas (ES) 2024/1405, ar ko attiecībā uz biodegvielu un biogāzes ražošanai izmantojamo izejvielu pievienošanu groza Eiropas Parlamenta un Padomes direktīvas (ES) 2018/2001 IX pielikumu.

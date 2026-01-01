@@ -1,0 +1,1 @@
+3. Šā likuma 8. panta otrajā daļā minēto pienākumu nodrošināt vismaz vienu uzlādes punktu vai alternatīvās degvielas uzpildes punktu publiski pieejamās degvielas uzpildes stacijās komersants izpilda līdz 2030. gada 31. decembrim.

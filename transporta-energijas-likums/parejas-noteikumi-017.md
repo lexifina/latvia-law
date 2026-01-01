@@ -1,0 +1,1 @@
+17. Ja līdz 2028. gada 31. decembrim tiek konstatēts, ka 2027. gadā aviācijas degvielas piegādātāji kopumā ir ziņojuši par nodrošināto ilgtspējīgu aviācijas degvielu īpatsvaru to kopējā realizētajā aviācijas degvielu apjomā par vismaz astoņiem procentiem, šā likuma 11. panta pirmajā daļā minētais emisiju ietaupījuma apjoms ir 14,5 procenti.

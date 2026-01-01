@@ -1,0 +1,3 @@
+14. Līdz 2029. gada 31. decembrim ir atļauts realizēt:
+1) benzīnu, kura pētnieciskais oktānskaitlis ir 95 vai lielāks, bet mazāks par 98 (95. markas benzīns), ja tam ne mazāk kā 9,5 tilpumprocentu apjomā no kopējā maisījuma tilpuma ir pievienota biodegviela vai modernā biodegviela, vai biodegviela kopā ar moderno biodegvielu, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem;
+2) dīzeļdegvielu, ja tai ne mazāk kā 6,5 tilpumprocentu apjomā no kopējā maisījuma tilpuma ir pievienota biodegviela vai modernā biodegviela, vai biodegviela kopā ar moderno biodegvielu, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem.

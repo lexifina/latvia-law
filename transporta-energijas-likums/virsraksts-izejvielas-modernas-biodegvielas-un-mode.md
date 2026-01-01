@@ -1,0 +1,1 @@
+Izejvielas modernās biodegvielas un modernās biomasas degvielas ražošanai un izejvielas tādas biodegvielas un biomasas degvielas ražošanai, kuru devums šā likuma 11. panta pirmajā daļā noteikto pienākumu izpildei ir ierobežots

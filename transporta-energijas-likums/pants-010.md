@@ -1,0 +1,9 @@
+10. pants. Patērētājiem sniedzamā informācija
+(1) Publiski pieejama uzlādes punkta operators savā tīmekļvietnē vai mobilajā lietotnē publicē informāciju par publiski pieejama uzlādes punkta ģeogrāfisko izvietojumu, reāllaika pieejamību un vēsturisko un reāllaika uzlādes informāciju.
+(2) Publiski pieejamā uzlādes punktā un publiski pieejamā uzpildes punktā norāda informāciju par tajos pieejamiem alternatīvās degvielas veidiem vai norāda iespēju, kā minēto informāciju var saņemt elektroniski.
+(3) Ja degvielas uzpildes stacijā patēriņam tiek realizēta vairāku veidu degviela un no tās vismaz viens veids ir alternatīvā degviela, publiski pieejamā uzpildes punktā norāda cenas salīdzināmās vienībās, nemaldinot lietotājus un neradot tiem neskaidrības. Minēto informāciju, ja tas ir tehniski iespējams, var sniegt, izmantojot elektronisko sakaru pakalpojumus (tostarp tiešsaistes režīmā tīmekļvietnē vai mobilajā lietotnē).
+(4) Ministru kabinets nosaka:
+1) uz publiski pieejamo uzpildes punktu, publiski pieejamo uzlādes punktu vai citu publiski pieejamo transporta enerģijas tirdzniecības vietu (turpmāk - publiski pieejamā transporta enerģijas tirdzniecības vieta) attiecināmās prasības uzlādes un uzpildes iekārtām, kā arī prasības patērētāju informēšanai par šo punktu un tirdzniecības vietu pieejamību un izmantošanu;
+2) uz publiski pieejamo transporta enerģijas tirdzniecības vietu attiecināmās prasības patērētāju informēšanai par transporta enerģijas veidu, izcelsmi, sastāvu, īpašībām un salīdzināmajām cenām;
+3) kārtību, kādā komersanti, kas realizē regulas Nr. 2023/1804 2. panta 4. punktā noteiktās alternatīvās degvielas, energoresursu informācijas sistēmā sniedz informāciju par transporta enerģijas mazumtirdzniecības cenām;
+4) salīdzināmo transporta enerģijas cenu aprēķināšanas kārtību.
