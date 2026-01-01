@@ -1,0 +1,1 @@
+40. Grozījumi šā likuma 2. panta pirmajā daļā un 2. panta trešā daļa, grozījumi šā likuma 3. panta pirmās daļas 7. un 10. punktā, 4. panta pirmajā daļā, 5. panta pirmajā daļā un 5. panta 1.¹ daļa, grozījumi 5. panta otrajā, trešajā, ceturtajā, septītajā un astotajā daļā, 9. panta pirmās daļas 1. punktā, kā arī grozījumi 10. panta otrajā daļā stājas spēkā 2027. gada 1. janvārī.
