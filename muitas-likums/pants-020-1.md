@@ -1,5 +1,5 @@
-20.¹ pants. Rīcība ar aizdomīgiem pasta sūtījumiem
-(1) Muitas iestāde universālā pasta pakalpojuma sniedzēja pasta sūtījumu šķirošanas vietā, konstatējot Pasta likumā noteiktos aizdomīgus pasta sūtījumus:
+20.¹ pants. Muitas iestāžu uzdevumi pārrobežu pasta sūtījumu kontrolē un rīcība ar aizdomīgiem pasta sūtījumiem
+(1) Muitas iestāde universālā pasta pakalpojuma sniedzēja pasta sūtījumu šķirošanas vietā kontrolē pasta sūtījumus, kas saņemti no Eiropas Savienības dalībvalstīm, lai atklātu Pasta likumā noteiktos aizdomīgos pasta sūtījumus (turpmāk - aizdomīgs pasta sūtījums). Muitas iestāde universālā pasta pakalpojuma sniedzēja pasta sūtījumu šķirošanas vietā, konstatējot Pasta likumā noteiktos aizdomīgus pasta sūtījumus:
 1) informē pasta komersantu, ka ir nepieciešams apturēt aizdomīga pasta sūtījuma nosūtīšanu adresātam;
 2) izņem aizdomīgu pasta sūtījumu un nogādā to Valsts ieņēmumu dienestā uzglabāšanai;
 3) uzaicina aizdomīga pasta sūtījuma adresātu 30 dienu laikā ierasties muitas iestādē šā sūtījuma atvēršanai, uzaicinājumu uz sūtījumā norādīto adresi nosūtot personai, kura norādīta kā sūtījuma saņēmējs.
