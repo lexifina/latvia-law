@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Transporta enerģijas likums",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "239",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-11",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-12",
+  "commission_reference": "MNE(2025)06915",
+  "nim_celex": "72024L1405LVA_202506915",
+  "nim_id": "202506915",
+  "transposes_celex": [
+    "32024L1405"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/f7bbcdbb-74b2-4f50-ba89-fb5ca5fdd066",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
