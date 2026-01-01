@@ -7,10 +7,10 @@
 (6) Valsts budžeta aizdevumi ir valsts budžeta līdzekļi, kas nodoti juridiskajām personām un rada tiesības rīkoties ar tiem un pienākumu atdot saņemto aizdevumu, kā arī aizdevumi no valsts budžeta pārņemto saistību pildīšanai saskaņā ar izsniegtajiem valsts galvojumiem.
 (7) Valsts budžeta aizdevumu atmaksas veido visi atmaksātie aizdevumi.
 (8) (Izslēgta ar 19.12.2006. likumu)
-(9) Ministru kabinets izdod noteikumus par valsts tiešās pārvaldes iestāžu sniegto maksas pakalpojumu cenrāžu apstiprināšanu.
+(9) (Izslēgta ar 03.12.2025. likumu)
 (10) Ministru kabinets nosaka kārtību, kādā ministrijas un citas centrālās valsts iestādes plāno, īsteno, uzrauga un uzskaita valsts budžeta programmu (apakšprogrammu) rezultātus un to rādītājus, kā arī sniedz pārskatus par tiem.
 (11) Ministru kabinets nosaka tiesu sniegto maksas pakalpojumu veidus, samaksas apmēru un kārtību.
-(12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi ieņēmumi no valsts budžeta iestāžu sniegtajiem maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi, kā arī maksas pakalpojumu izcenojumu noteikšanas metodiku.
+(12) Ministru kabinets nosaka kārtību, kādā plānojami un uzskaitāmi ieņēmumi no valsts budžeta iestāžu sniegtajiem maksas pakalpojumiem un ar šo pakalpojumu sniegšanu saistītie izdevumi, kā arī maksas pakalpojumu izcenojumu noteikšanas metodiku. Valsts tiešās pārvaldes iestāžu sniegto maksas pakalpojumu cenrāžus privāto un publisko tiesību jomā apstiprina ministrs vai citas centrālās valsts iestādes vadītājs, ja citos likumos nav noteikts citādi.
 (12¹) Nosakot maksas pakalpojuma izcenojumu, ievēro nosacījumu, ka samaksa par pakalpojumu nedrīkst pārsniegt ar pakalpojuma sniegšanu saistītās izmaksas.
 (13) Ministru kabinets nosaka kārtību, kādā budžeta finansēta institūcija piedalās Eiropas Savienības un starptautisko institūciju finansēto programmu īstenošanā citā valstī un plāno un uzskaita projekta finansējumu.
 (14) Ministru kabinets reglamentē kārtību, kādā valsts budžeta iestādes piešķir valsts budžeta finansējumu privātpersonām valsts pārvaldes uzdevumu veikšanai un uzrauga piešķirtā finansējuma izlietojumu.

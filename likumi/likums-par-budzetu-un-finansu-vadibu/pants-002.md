@@ -4,3 +4,6 @@
 (3) Ministru kabinets izdod rīkojumus, instrukcijas un ieteikumus šā likuma detalizētai piemērošanai.
 (4) (Izslēgta ar 20.10.2005. likumu)
 (5) (Izslēgta ar 08.11.2007. likumu)
+(6) Ministru kabinets nosaka ikgadējos valsts budžeta izdevumu samazināšanas mērķus un izdevumu efektivitātes rādītājus.
+(7) Budžeta izdevumu pārskatīšanas metodisko vadību nodrošina Finanšu ministrija.
+(8) Par budžeta izdevumu samazināšanas mērķu sasniegšanu un izdevumu efektivitātes rādītāju izpildi atbild budžeta resoru un budžeta finansēto institūciju vadītāji.

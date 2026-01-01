@@ -1,3 +1,4 @@
 16.³ pants. Valsts budžeta izdevumu pārskatīšana
 (1) Lai efektīvāk un ekonomiskāk īstenotu valsts politiku, kā arī regulāri optimizētu budžeta izdevumus un izvērtētu to atbilstību attīstības plānošanas dokumentos noteiktajām prioritātēm un mērķiem, Ministru kabinets nodrošina pastāvīgu un sistemātisku valsts budžeta izdevumu pārskatīšanu.
+(1¹) Pildot šā panta pirmajā daļā noteikto pienākumu, Ministru kabinets ievēro nosacījumu, ka valsts budžeta likumprojekta izstrādes procesā katra budžeta resora izdevumi tiek pilnībā pārskatīti ne retāk kā reizi četros gados.
 (2) Ministru kabinets pieņem lēmumu par valsts budžeta izdevumu pārskatīšanas tvērumu vienlaikus ar budžeta sagatavošanas grafika apstiprināšanu. Finanšu ministrs budžeta sagatavošanas grafikā noteiktajā termiņā iesniedz Ministru kabinetam valsts budžeta izdevumu pārskatīšanas rezultātus un priekšlikumus par šo rezultātu izmantošanu valsts budžeta likumprojekta izstrādes procesā.
