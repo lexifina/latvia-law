@@ -6,11 +6,11 @@
 3) grupu mājas (dzīvokļa) pakalpojumu - personām ar garīga rakstura traucējumiem;
 4) ilgstošas sociālās aprūpes un sociālās rehabilitācijas pakalpojumu institūcijā - pilngadīgām personām ar smagiem funkcionāliem traucējumiem, kā arī bāreņiem un bez vecāku gādības palikušiem bērniem līdz brīdim, kad bērns var atgriezties ģimenē, vai, ja tas nav iespējams, līdz aizbildnības nodibināšanai bērnam, viņa ievietošanai audžuģimenē vai nodošanai adopcijai;
 5) patversmes vai naktspatversmes pakalpojumu - personām bez noteiktas dzīvesvietas un krīzes situācijā nonākušām personām;
-6) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026.. Sk. pārejas noteikumu 65. punktu);
-7) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 65. punktu);
-8) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 65. punktu);
+6) dienas aprūpes centra pakalpojumu - personām ar smagiem funkcionāliem traucējumiem;
+7) atelpas brīža pakalpojumu - bērniem ar invaliditāti, kuriem ir Veselības un darbspēju ekspertīzes ārstu valsts komisijas atzinums par īpašas kopšanas nepieciešamību, personām ar I grupas invaliditāti, kā arī personām ar garīga rakstura traucējumiem, kurām ir noteikta II grupas invaliditāte;
+8) specializētās darbnīcas pakalpojumu - personām ar garīga rakstura traucējumiem;
 9) (punkts stājas spēkā 01.01.2028. un iekļauts likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 66. punktu);
-10) (punkts stājas spēkā 01.01.2026. un iekļauts likuma redakcijā uz 01.01.2026. Sk. pārejas noteikumu 65. punktu).
+10) sociālās rehabilitācijas pakalpojumu personas dzīvesvietā - bērniem ar uzvedības problēmām vai augstiem to attīstības riskiem, ārpusģimenes aprūpē esošiem bērniem, kuri ir sasnieguši 16 gadu vecumu, kā arī šā likuma 12. panta septītajā un astotajā daļā minētajām personām.
 (1²) Pašvaldībai ir tiesības par saviem līdzekļiem papildus šā panta 1.¹ daļā noteiktajiem pakalpojumiem nodrošināt citus sociālos pakalpojumus, kā arī tiesības šā panta 1.¹ daļā noteiktos sociālos pakalpojumus nodrošināt citām personu grupām. Pašvaldība sociālos pakalpojumus un personu grupas nosaka saistošajos noteikumos.
 (1³) Pašvaldība šā panta 1.¹ un 1.² daļā minētos sociālos pakalpojumus nodrošina apjomā, kas atbilst pašvaldības gadskārtējā budžeta ietvaros pieejamiem līdzekļiem.
 (2) Ja pašvaldība no fiziskajām personām vai institūcijām saņēmusi informāciju par personu, kurai varētu būt nepieciešams sociālās aprūpes, sociālās rehabilitācijas pakalpojums vai sociālā palīdzība, pašvaldībai ir pienākums likumā "Par sociālo drošību" noteiktajā kārtībā pārbaudīt saņemto informāciju, izvērtēt personas vajadzības pēc sociālajiem pakalpojumiem un sociālās palīdzības un informēt šo personu vai tās likumisko pārstāvi par tiesībām un iespējām saņemt sociālos pakalpojumus un sociālo palīdzību, kā arī kārtību, kādā sociālie pakalpojumi vai sociālā palīdzība saņemama.
