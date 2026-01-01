@@ -91,14 +91,17 @@ Nr.p. k.Preces veidsLikme
 13.Rotaļlietas, sporta un atpūtas piederumi3,00
 14.Medicīniskās ierīces (izņemot implantētās un inficētās medicīniskās ierīces)2,00
 15.Tirdzniecības automāti3,00
-3. Nodokļa likmes par elektriskajām un elektroniskajām iekārtām, kuras noteiktas Atkritumu apsaimniekošanas likuma 1.panta 22.punktā, no 2018.gada 1.jūlija
-Nr. p. k.Preces veidsLikme
-(euro) par 1 kg
-1.1. kategorija. Temperatūras maiņas iekārtas2,50
-2.2. kategorija. Ekrāni, monitori un iekārtas ar ekrānu, kura virsmas laukums ir lielāks par 100 cm²3,50
-3.3. kategorija. Spuldzes8,58
+3. Nodokļa likmes par elektriskajām un elektroniskajām iekārtām, kuras noteiktas Atkritumu apsaimniekošanas likuma 1. panta 22. punktā
+Nr.
+p. k.
+Preces veidsMērvienībaLikme no 2018. gada 1. jūlija līdz 2025. gada 31. decembrim (euro)Likme no 2026. gada 1. janvāra (euro)
+1.1. kategorija. Temperatūras maiņas iekārtaskg2,502,50
+2.2. kategorija. Ekrāni, monitori un iekārtas ar ekrānu, kura virsmas laukums ir lielāks par 100 cm²kg3,503,50
+3.3. kategorija. Spuldzeskg8,588,58
 4.4. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm):
-4.1. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm), tai skaitā mājsaimniecības preces, informācijas tehnoloģiju un telesakaru iekārtas, patērētāju iekārtas, gaismekļi, skaņu vai attēlu demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot 1., 2. un 3. kategorijā ietilpstošās iekārtas un fotoelementu paneļus)3,00
-4.2. kategorija. Fotoelementu paneļi un invertori3,00
-5.5. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm), tai skaitā mājsaimniecības preces, plaša patēriņa audiovizuālas iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2., 3. un 6.kategorijā ietilpstošās iekārtas)3,00
-6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)3,50
+4.1. kategorija. Liela izmēra iekārtas (vismaz viens ārējais izmērs pārsniedz 50 cm), tai skaitā mājsaimniecības preces, informācijas tehnoloģiju un telesakaru iekārtas, patērētāju iekārtas, gaismekļi, skaņu vai attēlu demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot 1., 2. un 3. kategorijā ietilpstošās iekārtas un fotoelementu paneļus)kg3,003,00
+4.2. kategorija. Fotoelementu paneļi un invertorikg3,003,00
+5.5. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm):
+5.1. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm), tai skaitā mājsaimniecības preces, plaša patēriņa audiovizuālas iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2., 3. un 6. kategorijā ietilpstošās iekārtas)kg3,003,00
+5.2. (apakšpunkts stājas spēkā 15.07.2026. un iekļauts likuma redakcijā uz 15.07.2026. Sk. pārejas noteikumu 50. punktu un 11.06.2026. likumu)
+6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)kg3,503,50"
