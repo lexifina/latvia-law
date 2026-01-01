@@ -1,0 +1,1 @@
+202. Grozījumi šā likuma 15. panta pirmajā daļā par nodokļa likmes aprēķinu bezalkoholiskajiem dzērieniem ar cukura saturu līdz 8 gramiem (neieskaitot) uz 100 mililitriem, bezalkoholiskajiem dzērieniem ar cukura saturu no 8 gramiem (ieskaitot) uz 100 mililitriem un enerģijas dzērieniem stājas spēkā 2028. gada 1. janvārī.

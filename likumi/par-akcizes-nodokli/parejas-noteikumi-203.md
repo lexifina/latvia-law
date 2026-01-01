@@ -1,0 +1,1 @@
+203. Šā likuma 8. panta 4.¹ daļa, grozījums 19. panta otrajā daļā par 3. punkta izteikšanu jaunā redakcijā, 23. panta 1.¹ un 12.¹ daļa un 24. panta 1.² daļa attiecībā uz bezalkoholiskajiem dzērieniem, kas ir nefasēti un izgatavoti sabiedriskās ēdināšanas uzņēmumā vai tirdzniecības vietā, stājas spēkā 2028. gada 1. janvārī.

@@ -1,2 +1,2 @@
 13.¹ pants. Nodokļa likme elektroniskajās smēķēšanas ierīcēs izmantojamam šķidrumam un elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām
-Nodokli elektroniskajās smēķēšanas ierīcēs izmantojamam šķidrumam un elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām aprēķina saskaņā ar likmi 0,39 euro par 1 mililitru šķidruma.
+Nodokli elektroniskajās smēķēšanas ierīcēs izmantojamam šķidrumam un elektroniskajās smēķēšanas ierīcēs izmantojamā šķidruma sagatavošanas sastāvdaļām aprēķina saskaņā ar likmi 0,46 euro par 1 mililitru šķidruma.

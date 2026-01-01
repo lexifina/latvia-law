@@ -7,4 +7,7 @@ a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 159 euro,
 b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 264 euro;
 3) no 2026. gada 1. marta līdz 2027. gada 28. februārim (par 100 litriem):
 a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 192 euro,
-b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 325 euro.
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 325 euro;
+4) no 2027. gada 1. marta līdz 2028. gada 29. februārim (par 100 litriem):
+a) ar absolūtā spirta saturu līdz 15 tilpumprocentiem (ieskaitot) - 202 euro,
+b) ar absolūtā spirta saturu no 15 tilpumprocentiem (neieskaitot) līdz 22 tilpumprocentiem (ieskaitot) - 343 euro.
