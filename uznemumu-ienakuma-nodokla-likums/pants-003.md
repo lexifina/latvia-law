@@ -4,3 +4,4 @@
 (2¹) Šā likuma 4.¹ panta piemērošanai taksācijas periods ir taksācijas gads.
 (3) Ja nodokļa maksātājs saskaņā ar Grāmatvedības likuma 13. pantu ir tiesīgs iegrāmatot attaisnojuma dokumentus vienu reizi ceturksnī, nodokļa maksātāja taksācijas periods ir ceturksnis.
 (4) Nodokļa likme no nerezidenta gūtā ienākuma tiek noteikta saskaņā ar šā likuma 5. pantu.
+(5) Šā likuma 4.² panta piemērošanai alternatīvā nodokļa likme ir 15 procenti no taksācijas periodā aprēķinātās ar nodokli apliekamās bāzes par šā likuma 4. panta otrās daļas 1. punkta "a" apakšpunktā minēto objektu.

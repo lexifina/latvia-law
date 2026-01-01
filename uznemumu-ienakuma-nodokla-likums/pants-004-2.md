@@ -1,0 +1,3 @@
+4.² pants. Nodokļa piemērošana nodokļa maksātājiem, kuru dalībnieki ir tikai fiziskās personas
+(1) Neatkarīgi no šā likuma 3. panta pirmās daļas un 4. panta noteikumiem nodokļa maksātāji, kuru dalībnieki taksācijas periodā, kurā tiek aprēķinātas dividendes, ir tikai fiziskās personas, taksācijas periodā aprēķinātajam šā likuma 4. panta otrās daļas 1. punkta "a" apakšpunktā minētajam objektam ir tiesīgi izvēlēties piemērot šā likuma 3. panta piektajā daļā noteikto alternatīvo nodokļa likmi.
+(2) Piemērojot šā panta pirmo daļu un nosakot taksācijas perioda ar uzņēmumu ienākuma nodokli apliekamo bāzi, ar uzņēmumu ienākuma nodokli apliekamā šā likuma 4. panta otrās daļas 1. punkta "a" apakšpunktā minētā objekta vērtību dala ar koeficientu 0,85.

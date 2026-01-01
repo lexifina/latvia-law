@@ -4,6 +4,7 @@
 a) iekšzemes uzņēmumi,
 b) no valsts budžeta finansētas institūcijas, uz kurām neattiecas šā panta otrās daļas nosacījumi,
 c) no pašvaldības budžeta finansētas institūcijas, kuras gūst ienākumus no saimnieciskās darbības un uz kurām neattiecas šā panta otrās daļas nosacījumi;
+d) ostu pārvaldes neatkarīgi no šā panta otrajā daļā minētā;
 2) pastāvīgās pārstāvniecības;
 3) ārvalstu komercsabiedrības un citas personas, kas gūst ieņēmumus Latvijā (turpmāk - nerezidenti).
 (2) Uzņēmumu ienākuma nodokli nemaksā:
