@@ -1,0 +1,4 @@
+12. pants. Nodokļu un muitas policijas dienesta apliecības, dienesta pakāpes un atšķirības zīmes
+(1) Nodokļu un muitas policijas ierēdnim un darbiniekam pilnvaru apliecināšanai izdod dienesta apliecību. Dienesta apliecības aprakstu un paraugu nosaka Ministru kabinets.
+(2) Nodokļu un muitas policijas ierēdņiem piešķir dienesta pakāpes. Dienesta pakāpju nosaukumus, piešķiršanas, saglabāšanas, pazemināšanas un atņemšanas kārtību nosaka Ministru kabinets.
+(3) Nodokļu un muitas policijas ierēdņi, pildot dienesta pienākumus, nēsā formas tērpu, dienesta pakāpes atšķirības zīmi un žetonu. Formas tērpu, dienesta pakāpju atšķirības zīmju un žetonu aprakstu nosaka Ministru kabinets. Formas tērpu, dienesta pakāpju atšķirības zīmju un žetonu nēsāšanas kārtību nosaka Nodokļu un muitas policijas priekšnieks.

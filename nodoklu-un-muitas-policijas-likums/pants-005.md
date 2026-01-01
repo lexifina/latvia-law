@@ -1,0 +1,3 @@
+5. pants. Nodokļu un muitas policijas darbības atklātums
+(1) Nodokļu un muitas policija dienesta interesēs, kā arī sabiedrības interešu aizsardzības nolūkos var informēt sabiedrību par savu darbību un konstatētajiem pārkāpumiem, ievērojot nevainīguma prezumpciju un normatīvajos aktos noteiktos informācijas sniegšanas ierobežojumus.
+(2) Nodokļu un muitas policijai, tās ierēdņiem un darbiniekiem aizliegts izpaust jebkādu informāciju par nodokļu maksātāju, kura ierēdnim vai darbiniekam kļuvusi zināma, pildot dienesta vai darba pienākumus, izņemot normatīvajos aktos paredzētos gadījumus. Par informācijas izpaušanu vainīgo ierēdni vai darbinieku sauc pie likumā noteiktās atbildības.

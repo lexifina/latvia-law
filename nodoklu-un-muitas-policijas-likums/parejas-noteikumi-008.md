@@ -1,0 +1,1 @@
+8. Lai nodrošinātu Valsts ieņēmumu dienesta muitas iestādes darbības nepārtrauktību, līdz attiecīgās starpresoru vienošanās noslēgšanai Nodokļu un muitas policija nodrošina Valsts ieņēmumu dienesta muitas iestādei piekļuvi Nodokļu un muitas policijas informācijas sistēmā esošajiem datiem.

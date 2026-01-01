@@ -1,0 +1,1 @@
+3. Ministru kabinets izvērtē iespējamos risinājumus Nodokļu un muitas policijas iekļaušanai Iekšlietu ministrijas iestāžu sistēmā un iesniedz Saeimai nepieciešamos likumprojektus reorganizācijas īstenošanai.

@@ -1,0 +1,1 @@
+Likumā iekļauta tiesību norma, kas izriet no Eiropas Parlamenta un Padomes 2016. gada 9. marta direktīvas (ES) 2016/343 par to, lai nostiprinātu konkrētus nevainīguma prezumpcijas aspektus un tiesības piedalīties klātienē lietas izskatīšanā tiesā kriminālprocesā.

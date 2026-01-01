@@ -1,0 +1,1 @@
+5. Korupcijas novēršanas un apkarošanas birojs līdz brīdim, kad Iekšējās drošības birojs pārņem Nodokļu un muitas policijas ierēdņu un darbinieku izdarīto noziedzīgo nodarījumu izmeklēšanu, bet ne ilgāk kā līdz 2029. gada 1. janvārim turpina izmeklēt Nodokļu un muitas policijas ierēdņu un darbinieku izdarītos noziedzīgus nodarījumus, ja tie saistīti ar korupciju.

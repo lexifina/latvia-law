@@ -1,0 +1,16 @@
+10. pants. Šaujamieroča pielietošana un izmantošana
+(1) Nodokļu un muitas policijas ierēdnis, īstenojot šā likuma 8. panta otrās daļas 5. punktā paredzētās tiesības, var pielietot šaujamieroci galējas nepieciešamības situācijā šādos gadījumos:
+1) lai aizsargātu citas personas un sevi no uzbrukuma, kas reāli apdraud dzīvību vai var nodarīt kaitējumu veselībai, kā arī novērstu mēģinājumu vardarbīgi iegūt šaujamieroci;
+2) lai atvairītu grupveida vai bruņotu uzbrukumu Nodokļu un muitas policijas ierēdņiem un darbiniekiem, kuri pilda dienesta pienākumus;
+3) lai aizturētu personu, kura izrāda bruņotu pretošanos vai kura pārsteigta smaga vai sevišķi smaga nozieguma izdarīšanas brīdī, kā arī lai aizturētu apbruņotu personu, kura atsakās izpildīt likumīgu prasību nodot ieroci vai sprāgstvielas;
+4) lai apturētu transportlīdzekli, nodarot tam bojājumus, ja tā vadītājs ar savu rīcību rada reālus draudus personu dzīvībai un veselībai un nepakļaujas Nodokļu un muitas policijas ierēdņa prasībai apstādināt transportlīdzekli un ja nav citas iespējas viņu aizturēt;
+5) lai padarītu nekaitīgu dzīvnieku, kurš apdraud Nodokļu un muitas policijas ierēdņa dzīvību vai veselību.
+(2) Aizliegts pielietot un izmantot šaujamieročus vietās, kur to pielietošanas rezultātā var ciest citas personas, kā arī aizliegts pielietot šaujamieročus pret sievietēm un nepilngadīgām personām, izņemot gadījumus, kad tās izdara bruņotu uzbrukumu, izrāda bruņotu pretošanos vai ar grupveida uzbrukumu apdraud citu personu vai Nodokļu un muitas policijas ierēdņu un darbinieku dzīvību.
+(3) Par šaujamieroča pielietošanu uzskatāms mērķtiecīgs šāviens.
+(4) Pirms šaujamieroča pielietošanas brīdina par nodomu to darīt, ja nepieciešams, izdara arī brīdinājuma šāvienu.
+(5) Bez brīdinājuma šaujamieroci drīkst pielietot, ja uzbrukums ir pēkšņs vai uzbrukumā izmantoti ieroči, kaujas tehnika, jebkura veida mehāniskie transportlīdzekļi vai notiek apcietināto personu bēgšana no transportlīdzekļa tā braukšanas laikā.
+(6) Nodokļu un muitas policijas ierēdnim ir tiesības izvilkt šaujamieroci un sagatavot to šaušanai, ja tas uzskata, ka konkrētajā situācijā nav izslēgta šaujamieroča pielietošana vai izmantošana. Ja aizturētā persona tīšām izdara negaidītas kustības vai citas bīstamas darbības, kuras Nodokļu un muitas policijas ierēdnis var saprast kā vardarbības mēģinājumu, kā arī mēģina tuvoties Nodokļu un muitas policijas ierēdnim tuvāk par viņa norādīto attālumu, Nodokļu un muitas policijas ierēdnim ir tiesības pielietot šaujamieroci saskaņā ar šo likumu.
+(7) Visos šaujamieroču pielietošanas un izmantošanas gadījumos Nodokļu un muitas policijas ierēdnim ir pienākums darīt visu iespējamo, lai garantētu citu personu drošību, kā arī lai sniegtu cietušajam nepieciešamo pirmo palīdzību.
+(8) Nodokļu un muitas policijas ierēdnis var izmantot šaujamieroci, lai dotu trauksmes signālu vai izsauktu palīdzību.
+(9) Par katru šaujamieroča pielietošanas gadījumu Nodokļu un muitas policijas ierēdnis nekavējoties, tiklīdz tas ir iespējams, rakstveidā ziņo Nodokļu un muitas policijas priekšniekam.
+(10) Nodokļu un muitas policijas ierēdnim ir tiesības pastāvīgi glabāt un nēsāt šaujamieroci, kas tam izsniegts lietošanai dienesta vajadzībām. Nodokļu un muitas policijas ierēdņu rīcībā esošo šaujamieroču glabāšanas un nēsāšanas noteikumus un kārtību nosaka Ministru kabinets.
