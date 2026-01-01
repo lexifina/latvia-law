@@ -1,2 +1,2 @@
 Pievienotās vērtības nodokļa likuma
-pielikums
+1. pielikums
