@@ -1,0 +1,1 @@
+39. pants. Noteikt valsts budžeta aizdevumu kopējo palielinājumu 166 319 079 euro apmērā, kas neietver šā likuma 40. pantā noteikto pašvaldību aizņēmumu kopējo palielinājumu, ja aizņēmumi tiek ņemti no valsts budžeta.

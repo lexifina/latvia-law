@@ -1,0 +1,1 @@
+44. pants. Noteikt, ka budžeta resora "62. Mērķdotācijas pašvaldībām" programmas 02.00.00 "Mērķdotācijas pašvaldību tautas mākslas kolektīvu vadītāju darba samaksai un valsts sociālās apdrošināšanas obligātajām iemaksām" izpildītājs ir Kultūras ministrija.

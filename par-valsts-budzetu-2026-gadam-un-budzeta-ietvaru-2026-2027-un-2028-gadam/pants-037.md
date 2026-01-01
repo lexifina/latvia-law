@@ -1,0 +1,1 @@
+37. pants. Noteikt maksimālo valsts parādu 2026. gada beigās nominālvērtībā 22 400 000 000 euro apmērā, ņemot vērā Valsts kases administrētajiem aizņēmumiem un valsts parāda vērtspapīriem piesaistīto atvasināto finanšu instrumentu valūtas rezultātu.

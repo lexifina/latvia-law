@@ -1,0 +1,1 @@
+11. pants. Noteikt, ka papildus Fiskālās disciplīnas likumā noteiktajiem gadījumiem ietvara maksimāli pieļaujamie valsts budžeta izdevumi 2026., 2027. un 2028. gadam tiek precizēti atbilstoši izmaiņām to izdevumu apjomā, kas tiek izslēgti no vispārējās valdības budžeta bilances mērķa saskaņā ar šā likuma 6. pantu.

@@ -1,0 +1,1 @@
+58. pants. Likuma "Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un piemērošanas kārtību" 38. pantā noteikto likumiskās lietošanas maksas apmēru, ja zemes īpašnieks ir valsts vai pašvaldība, 2026. gadam aprēķina no lietošanā esošās zemes kadastrālās vērtības pēc stāvokļa 2026. gada 1. janvārī.

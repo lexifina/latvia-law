@@ -1,0 +1,4 @@
+6. pants. Noteikt, ka no vispārējās valdības budžeta strukturālās bilances mērķa tiek izslēgti šādi izdevumi:
+1) izdevumi pasākumiem, kuri tika atzīti par vienreizējiem saskaņā ar likuma "Par valsts budžetu 2023. gadam un budžeta ietvaru 2023., 2024. un 2025. gadam" 5. pantu un kuru ieviešana turpinās 2026.-2028. gada periodā;
+2) izdevumi pasākumiem, kuri tika atzīti par vienreizējiem saskaņā ar likuma "Par valsts budžetu 2024. gadam un budžeta ietvaru 2024., 2025. un 2026. gadam" 5. pantu un kuru ieviešana turpinās 2026.-2028. gada periodā;
+3) valsts aizsardzības bāzes izdevumu pieaugums pret iepriekšējo gadu 100 procentu apmērā. Pirmajā gadā pēc pieauguma 80 procentu apmērā, otrajā gadā pēc pieauguma 60 procentu apmērā, trešajā gadā pēc pieauguma 40 procentu apmērā un ceturtajā gadā pēc pieauguma 20 procentu apmērā.

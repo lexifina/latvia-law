@@ -1,0 +1,1 @@
+Mērķdotācijas pašvaldību māksliniecisko kolektīvu vadītāju darba samaksai un valsts sociālās apdrošināšanas obligātajām iemaksām

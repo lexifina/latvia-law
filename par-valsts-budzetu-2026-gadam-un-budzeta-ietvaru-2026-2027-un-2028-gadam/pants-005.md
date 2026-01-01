@@ -1,0 +1,1 @@
+5. pants. Noteikt, ka 2028. gada izdevumi budžeta apakšprogrammā 41.01.00 "Iemaksas Eiropas Savienības budžetā" ir plānojami apjomā, kas neietver potenciālo izdevumu palielinājumu, kurš saistīts ar ES daudzgadu budžeta 2028.-2034. gadam pieņemšanu.

@@ -1,0 +1,1 @@
+27. pants. Vispārējās valdības sektorā iekļautajām kapitālsabiedrībām ir tiesības neveikt maksājumus par valsts kapitāla izmantošanu, ar nosacījumu, ka dividendēs izmaksājamā peļņas daļa tiek novirzīta šo kapitālsabiedrību iepriekš uzņemto finanšu saistību segšanai (finansēšanas darījums), ja ir pieņemts attiecīgs Ministru kabineta lēmums.

@@ -1,0 +1,3 @@
+78. pants. Finanšu ministram ir tiesības Latvijas Republikas vārdā parakstīt galvojumu līgumus ar Eiropas Savienības institūcijām par atbalstu Ukrainai, izsniegt attiecīgos galvojumus un palielināt uz valsts budžetu attiecināmo valsts vārdā sniegto galvojumu parāda saistību apmēru, ja secīgi ir ievēroti šādi nosacījumi:
+1) ir pieņemts attiecīgs Ministru kabineta lēmums par galvojumu izsniegšanu un Ministru kabinets ir atbalstījis attiecīgā galvojuma līguma projektu;
+2) Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas dienas ir izskatījusi un atbalstījusi Ministru kabineta lēmumu par galvojumu izsniegšanu.

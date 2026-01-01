@@ -1,0 +1,1 @@
+28. pants. Noteikt, ka Valsts ieņēmumu dienests Ministru kabineta noteiktajā kārtībā (par periodu no 2026. gada 1. janvāra) uzsāk datu uzkrāšanu par nodokļa maksātāja darba vietu. Ministru kabinets noteikumos par paziņojumā par fiziskajai personai izmaksātajām summām iekļaujamo informāciju nosaka šim mērķim sniedzamās informācijas apjomu un sniegšanas kārtību.

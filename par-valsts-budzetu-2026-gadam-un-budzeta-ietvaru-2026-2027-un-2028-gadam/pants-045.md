@@ -1,0 +1,1 @@
+45. pants. Noteikt, ka budžeta resora "64. Dotācija pašvaldībām" un budžeta resora "74. Gadskārtējā valsts budžeta izpildes procesā pārdalāmais finansējums" programmu izpildītājs ir Finanšu ministrija.

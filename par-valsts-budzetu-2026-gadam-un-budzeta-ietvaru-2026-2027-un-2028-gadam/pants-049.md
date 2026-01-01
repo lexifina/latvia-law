@@ -1,0 +1,1 @@
+49. pants. Noteikt, ka saskaņā ar Lauksaimniecības un lauku attīstības likumu un Attīstības finanšu institūcijas likumu valsts 290 000 000 euro apmērā atbild par akciju sabiedrības "Attīstības finanšu institūcija Altum" izsniegtajām garantijām.

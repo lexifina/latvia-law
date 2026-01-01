@@ -1,0 +1,1 @@
+26. pants. Noteikt, ka valsts akciju sabiedrība "Latvijas gaisa satiksme" neveic dividenžu maksājumu no peļņas par 2025., 2026. un 2027. pārskata gadu, lai nodrošinātu atbilstību starptautiskajiem un Eiropas Savienības tiesību aktiem.

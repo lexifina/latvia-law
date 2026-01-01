@@ -1,0 +1,1 @@
+48. pants. Aizsardzības ministrijas budžeta ietvaros sadarbībai ar starptautiskajām un nevalstiskajām organizācijām, pašvaldībām un komersantiem nepieciešamo finansējumu un tā izlietojumu, nodrošinot iesaisti starptautiskās un nacionālās drošības stiprināšanā, nosaka Ministru kabinets.

@@ -1,0 +1,1 @@
+19. pants. Noteikt, ka informācija par vispārējās valdības sektorā iekļauto kapitālsabiedrību faktisko un prognozēto ietekmi uz vispārējās valdības izdevumiem, ieņēmumiem, budžeta bilanci un parādu ir publiski pieejama un Finanšu ministrija to iekļauj šā likuma paskaidrojumos.

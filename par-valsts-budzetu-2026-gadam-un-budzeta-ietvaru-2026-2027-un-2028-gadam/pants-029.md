@@ -1,0 +1,2 @@
+29. pants. (1) Lai sekmētu ilgtspējīgu valsts ekonomisko izaugsmi, no 2026. gada 1. janvāra visām nozares ministrijām, plānojot ilgtermiņa ieguldījumus, veicināt iespējami lielāku privāto un starptautisko investīciju piesaisti, tajā skaitā īstenojot publisko un privāto partnerību, atbilstoši vidēja termiņa budžeta ietvaram, fiskālās disciplīnas prasībām un valsts parāda vadības nosacījumiem.
+(2) Publiskās un privātās partnerības projekti tiek plānoti prioritārās un citās nozarēs, lai veicinātu investīciju piesaisti un nepieciešamās infrastruktūras attīstību.

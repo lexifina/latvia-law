@@ -1,0 +1,1 @@
+76. pants. Finanšu ministram ir tiesības palielināt šā likuma 37. pantā noteikto maksimālo valsts parādu 2026. gada beigās, lai sniegtu valsts aizdevumus vai veiktu ieguldījumus aizsardzības industrijas attīstībai, ja tas nerada negatīvu ietekmi uz vispārējās valdības budžeta bilanci un ir pieņemts attiecīgs Ministru kabineta un Saeimas lēmums.
