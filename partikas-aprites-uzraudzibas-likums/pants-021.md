@@ -37,7 +37,9 @@ b) veidot, uzturēt un aktualizēt nacionālajā pārtikas kvalitātes shēmā i
 21) uzraudzīt un kontrolēt tirgus pārvaldītāja darbību normatīvajos aktos noteiktajā kārtībā;
 22) noteikt un uzraudzīt pārtikas uzņēmumu laboratorijas, kurās, īstenojot pārtikas aprites uzraudzību un kontroli, pārbauda Trichinella klātbūtni gaļā un kuras atbilst Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 40. panta 1. punkta "a" apakšpunktā noteiktajām prasībām;
 23) pildīt Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 109. panta 2. punktā noteiktās struktūras funkcijas saistībā ar valsts daudzgadu kontroles plāna sagatavošanu un iesniegšanu Eiropas Komisijai;
-24) pildīt Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 103. pantā noteiktās koordinācijas institūcijas funkcijas.
+24) pildīt Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 103. pantā noteiktās koordinācijas institūcijas funkcijas;
+25) organizēt un nodrošināt dzīvnieku liemeņu klasifikācijas un cenu paziņošanas valsts uzraudzību un kontroli.
+(2¹) Pārtikas un veterinārais dienests dzīvnieku liemeņu atbilstības novērtēšanu apstrādes kvalitātes un klasifikācijas prasībām un cenu paziņošanas atbilstības novērtēšanu var Valsts pārvaldes iekārtas likumā noteiktajā kārtībā ar līgumu deleģēt privātpersonai.
 (3) Pārtikas aprites valsts uzraudzību un kontroli Pārtikas un veterinārais dienests veic saskaņā ar ikgadējām valsts uzraudzības un kontroles programmām, ievērojot likumā par valsts budžetu kārtējam gadam piešķirto apropriāciju.
 (4) Ministru kabinets nosaka prasības un robežkontroles kārtību tādai no trešajām valstīm ievedamai pārtikai un saskarei ar pārtiku paredzētajiem materiāliem un izstrādājumiem, kam nepiemēro oficiālo robežkontroli saskaņā ar Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 44. pantā noteikto.
 (5) (Izslēgta ar 21.11.2019. likumu)
