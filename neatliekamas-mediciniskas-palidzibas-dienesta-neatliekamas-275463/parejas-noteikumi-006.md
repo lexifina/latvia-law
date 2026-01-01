@@ -1,0 +1,1 @@
+6. Darbiniekam, kuram 2027. gada 1. janvārī izdienas stāžs ir mazāks par 10 gadiem, izdienas pensiju aprēķina atbilstoši šā likuma 4. un 5. panta noteikumiem, kas ir spēkā no 2027. gada 1. janvāra, un atbilstoši pārejas noteikumu 5. punktam.

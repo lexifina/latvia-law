@@ -1,0 +1,1 @@
+3. Darbiniekam, kurš līdz 2026. gada 31. decembrim ir ieguvis tiesības uz izdienas pensiju, to piešķir, aprēķina un izmaksā atbilstoši šā likuma noteikumiem, kas ir spēkā līdz 2026. gada 31. decembrim.
