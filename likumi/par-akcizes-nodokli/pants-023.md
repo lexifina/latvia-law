@@ -1,5 +1,6 @@
 23.pants. Nodokļa maksāšana
 (1) Apstiprinātam noliktavas turētājam, reģistrētam saņēmējam, sertificētam saņēmējam, citas dalībvalsts nosūtītājam tālpārdošanā un nodokļa maksātāja pārstāvim nodokļa taksācijas periods ir viens kalendāra mēnesis.
+(1¹) (Daļa stājas spēkā 01.01.2028. un iekļauta likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 203. punktu)
 (2) Importētājs aprēķināto nodokli par akcīzes precēm, kuras piesaka muitas procedūrai - laišana brīvā apgrozībā -, samaksā valsts budžetā pirms muitas procedūras pieteikšanas muitas iestādē. Fiziskā persona, kura ieved akcīzes preces personīgajā bagāžā, kas pārsniedz šā likuma 21.pantā noteikto daudzumu vai vērtību, nodokli maksā pirms akcīzes preču laišanas brīvā apgrozībā.
 (3) Reģistrēts nosūtītājs aprēķināto nodokli par akcīzes precēm, kuras piesaka muitas procedūrai - laišana brīvā apgrozībā - un kurām piemēro atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.panta nosacījumiem, samaksā valsts budžetā piecu darbdienu laikā pēc šā likuma 25. panta trešās daļas nosacījumu iestāšanās.
 (4) Apstiprināts noliktavas turētājs taksācijas periodā aprēķināto nodokli par akcīzes precēm, kuras taksācijas periodā izvestas no akcīzes preču noliktavas, samaksā valsts budžetā ne vēlāk kā līdz nākamā mēneša 23. datumam pēc attiecīgā taksācijas perioda beigām, izņemot par tām akcīzes precēm aprēķināto nodokli, kurām piemēro atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.panta nosacījumiem.
@@ -16,6 +17,7 @@
 (12) Persona, kas ieved vai saņem bezalkoholiskos dzērienus vai kafiju Latvijas Republikā, izņemot šā likuma 21.panta trešajā daļā un ceturtās daļas 3.punktā minēto gadījumu vai gadījumu, kad piemēro atlikto nodokļa maksāšanu saskaņā ar šā likuma 25.panta nosacījumiem, samaksā nodokli valsts budžetā:
 1) saskaņā ar šā panta otro daļu, ja bezalkoholiskos dzērienus vai kafiju ieved vai saņem Latvijas Republikā no ārvalsts, kas nav dalībvalsts, vai no teritorijas, kura ir minēta šā likuma 2.panta 3.¹ daļā;
 2) saskaņā ar šā panta septīto daļu, ja bezalkoholiskos dzērienus vai kafiju ieved vai saņem Latvijas Republikā no dalībvalsts.
+(12¹) (Daļa stājas spēkā 01.01.2028. un iekļauta likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 203. punktu)
 (13) Nodokļa maksātājs par akcīzes precēm, kuras marķē ar akcīzes nodokļa markām, samaksā nodokli pirms akcīzes nodokļa marku saņemšanas atbilstoši šā likuma 27.panta sestajai un 6.¹ daļai vai saskaņā ar šā panta otro, ceturto, piekto, sesto, septīto, astoto, devīto, vienpadsmito vai septiņpadsmito daļu.
 (14) (Izslēgta ar 21.10.2021. likumu)
 (15) (Izslēgta ar 21.10.2021. likumu)

@@ -8,4 +8,5 @@
 3) naftas produktu sajaukšana (arī sajaukšana ar citām vielām) un jebkuras citas ar naftas produktiem veiktās darbības, kuru rezultātā tie maina savas ekspluatācijas, fizikālās vai ķīmiskās īpašības un kuru rezultātā iegūtais produkts ir ar nodokli apliekams objekts;
 4) akcīzes preču uzglabāšana, piemērojot akcīzes precēm atlikto nodokļa maksāšanu;
 5) citas darbības, kas nav minētas šīs daļas 1., 2., 3. un 4.punktā, piemērojot akcīzes precēm atlikto nodokļa maksāšanu.
+(4¹) (Daļa stājas spēkā 01.01.2028. un iekļauta likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 203. punktu)
 (5) Lai izveidotu un turētu akcīzes preču noliktavu, iesniedzams šā likuma 31.pantā noteiktais vispārējais nodrošinājums.
