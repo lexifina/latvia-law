@@ -2,10 +2,14 @@
 (1) Nodokļu administrācijas pienākumi ir šādi:
 1) nodrošināt, lai šo likumu un citu nodokļu (nodevu) likumus ievēro gan nodokļu maksātāji, gan nodokļu administrācija;
 2) kontrolēt nodokļu, nodevu, kā arī citu valsts noteikto maksājumu aprēķināšanas un maksāšanas pareizību;
+2¹) reģistrēt un uzskaitīt nodokļu maksātājus un ar nodokļiem apliekamos objektus (ienākumus);
+2²) kontrolēt reģistrācijas dokumentu atbilstību likumos noteiktajām prasībām un faktiskajam stāvoklim;
+2³) saņemt no personām deklarācijas un pārbaudīt tajās sniegto informāciju, ziņu patiesumu un ienākumu avotu likumību;
 3) kontrolēt nodokļu (nodevu), kā arī citu valsts noteikto maksājumu parādus;
 4) piemērot sankcijas nodokļu (nodevu) likumu pārkāpējiem, pamatojoties uz likumiem un Ministru kabineta noteikumiem;
 5) izskatīt un izlemt jautājumus par nodokļu maksāšanas termiņu pagarināšanu;
 6) kontrolēt nodokļu (nodevu) atlaižu un atvieglojumu piemērošanas pareizību;
+6¹) lai izpildītu normatīvajos aktos noteiktos uzdevumus, sekot jebkuru juridisko un fizisko personu saimnieciskajai un finansiālajai darbībai;
 7) paziņot nodokļu maksātājam nodokļu administrācijas pārbaudes ietvaros pieņemto lēmumu;
 8) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, regulāri publicējot informāciju par atsevišķu nodokļu (nodevu) kopieņēmumiem, un informācijas pieejamību par tiem nodokļu maksātājiem, kuriem Valsts ieņēmumu dienesta administrēto nodokļu (nodevu) parāda kopsumma pārsniedz 150 euro, izņemot nodokļu maksājumus, kuru maksāšanas termiņš saskaņā ar šā likuma 24.panta pirmo, 1.³ un 1.⁷ daļu ir pagarināts, sadalīts termiņos, atlikts vai atkārtoti sadalīts termiņos vai attiecībā uz kuriem ir noslēgts vienošanās līgums saskaņā ar šā likuma 41. pantu. Informāciju par minētajiem parādniekiem iekļauj Valsts ieņēmumu dienesta administrēto nodokļu (nodevu) parādnieku datubāzē un tās pieejamību nodrošina, ievērojot šā likuma 22.panta pirmās daļas 1.punktā un trešajā daļā minētos nosacījumus;
 8¹) nodrošināt nodokļu (nodevu) iekasēšanas publiskumu, reizi ceturksnī līdz ceturksnim sekojošā mēneša piecpadsmitajam datumam publicējot informāciju par nodokļu maksātāju (komersantu) attiecīgajā ceturksnī samaksāto Valsts ieņēmumu dienesta administrēto nodokļu (nodevu) apmēra kopsummām, samazinot to par nodokļu summu, kas atmaksāta no budžeta, atsevišķi norādot valsts budžetā samaksāto un no valsts budžeta atmaksāto pievienotās vērtības nodokļa summu, iedzīvotāju ienākuma nodokļa kopsummu un valsts sociālās apdrošināšanas obligāto iemaksu kopsummu, kā arī vidējo nodarbināto personu skaitu;

@@ -1,6 +1,7 @@
-34.³ pants. Lēmuma pieņemšana par personas iekļaušanu riska personu sarakstā
+34.³ pants. Lēmuma pieņemšana saistībā ar riska personām un riska adresēm
 (1) Valsts ieņēmumu dienestam piecu darbdienu laikā pēc šā likuma 1.panta 31.punktā minēto kritēriju konstatācijas ir tiesības pieņemt lēmumu par personas iekļaušanu riska personu sarakstā.
 (2) Lēmums par personas iekļaušanu riska personu sarakstā stājas spēkā tā pieņemšanas brīdī un ir spēkā trīs gadus, izņemot gadījumus, kad lēmums ir pieņemts, pamatojoties uz šā likuma 1.panta 31.punkta "b" apakšpunktu vai ir zudis pamats tā darbībai saskaņā ar šā panta piekto daļu.
 (3) Ja persona apstrīd lēmumu par tās iekļaušanu riska personu sarakstā, Valsts ieņēmumu dienests izskata iesniegumu un piecu darbdienu laikā pēc iesnieguma saņemšanas pieņem attiecīgu lēmumu. Iesnieguma iesniegšana neaptur apstrīdētā lēmuma izpildi.
 (4) Lēmuma par personas iekļaušanu riska personu sarakstā pārsūdzēšana neaptur tā izpildi.
 (5) Ja persona ir veikusi darbības, kuru rezultātā ir zudis pamats tās iekļaušanai riska personu sarakstā atbilstoši šā likuma 1.panta 31.punkta "b", "c", "d" vai "e" apakšpunktā noteiktajam, un paziņojusi Valsts ieņēmumu dienestam, Valsts ieņēmumu dienests pēc izvērtēšanas vienas darbdienas laikā lemj par personas izslēgšanu no riska personu saraksta. Lēmums par personas izslēgšanu no riska personu saraksta stājas spēkā tā pieņemšanas brīdī.
+(6) Valsts ieņēmumu dienestam, konstatējot šā likuma 1. panta 30. punktā minētos kritērijus, ir tiesības pieņemt lēmumu par nodokļu maksātāja adreses iekļaušanu riska adrešu sarakstā.

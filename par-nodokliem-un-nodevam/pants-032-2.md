@@ -1,3 +1,4 @@
 32.² pants. Sadarbošanās ar nodokļu administrācijas amatpersonām
 (1) Nodokļu maksātājs noteiktajā termiņā sniedz šajā likumā vai konkrēto nodokļu likumos paredzētās informatīvās deklarācijas vai pēc nodokļu administrācijas amatpersonas pieprasījuma papildu informāciju (saimnieciskās darbības ieņēmumus un izdevumus apliecinošus dokumentus, grāmatvedības uzskaites dokumentus, kā arī citu informāciju, kas raksturo darbības, kuras ietekmēja vai varēja ietekmēt nodokļu aprēķinu un nomaksu), kuru nesaņemot nav iespējama vai ir apgrūtināta konkrētā vai cita nodokļu maksātāja budžetā iemaksājamās nodokļa summas vai pārmaksas summas noteikšana.
 (2) Nodokļu administrācijas amatpersona, pieprasot iesniegt informāciju, nosaka termiņu, kas nedrīkst būt garāks par 30 dienām.
+(3) Pamatojoties uz nodokļu maksātāja motivētu rakstveida iesniegumu, Valsts ieņēmumu dienests var pagarināt iesniedzamo nodokļu deklarāciju un informatīvo deklarāciju iesniegšanas termiņus.

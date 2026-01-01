@@ -23,6 +23,7 @@
 (7) Lēmums par nokavēto nodokļu maksājumu piedziņu ir izpildu dokuments, un to izpilda:
 1) nodokļu administrācijas amatpersonas atbilstoši amata pienākumiem;
 2) zvērināti tiesu izpildītāji saskaņā ar Civilprocesa likumu un pamatojoties uz lēmumu par nokavēto nodokļu maksājumu piedziņu, ja nodokļu administrācija Civilprocesa likumā noteiktajā kārtībā zvērinātam tiesu izpildītājam ir iesniegusi izpildu dokumentu.
+(7¹) Valsts ieņēmumu dienesta ierēdņiem, kuri atbilstoši amata pienākumiem apķīlā parādnieka mantu un piedzen nodokļu parādu un citus budžetā ieskaitāmos maksājumus, savā darbībā nolēmuma izpildei ir tiesības piemērot Civilprocesa likuma noteikumus piedziņas vēršanai uz parādnieka kustamo mantu, tajā skaitā mantu, kas atrodas pie citām personām, bezķermeniskām lietām, nekustamo īpašumu un apbūves tiesību, to pārdodot, kā arī uz naudu, kas parādniekam pienākas no citām personām.
 (8) Lēmumu par nokavēto nodokļu maksājumu piedziņu izpilda triju gadu laikā no tā pieņemšanas, izņemot šā panta 8.¹ daļā minēto gadījumu. Lēmuma izpildes noilguma termiņš tiek apturēts, ja:
 1) pagarināts, atlikts vai sadalīts nodokļu samaksas termiņš, - līdz šā termiņa beigām. Ja samaksas termiņš sadalīts, noilguma aprēķins tiek atjaunots pēc pēdējā maksājuma termiņa;
 2) apstrīdēts nodokļu administrācijas pārbaudes rezultātā pieņemtais lēmums, nodokļa aprēķins vai lēmums par nokavēto nodokļu maksājumu piedziņu, - uz iesnieguma pirmstiesas izskatīšanas laiku;
