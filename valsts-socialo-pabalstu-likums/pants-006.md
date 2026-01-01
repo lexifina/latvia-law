@@ -1,8 +1,8 @@
 6.pants. Ģimenes valsts pabalsts
-(1) Ģimenes valsts pabalstu piešķir personai, kura audzina bērnu. Pabalsta apmērs ir atkarīgs no audzināmo bērnu skaita.
+(1) Ģimenes valsts pabalstu piešķir personai, kura audzina bērnu. Pabalsta apmērs ir atkarīgs no audzināmo bērnu skaita par kuriem persona saņem ģimenes valsts pabalstu.
 (2) Ģimenes valsts pabalstu piešķir par katru bērnu, kas:
 1) ir vecumā no viena gada līdz 16 gadiem;
-2) ir vecāks par 16 gadiem, mācās vispārējās izglītības vai profesionālās izglītības iestādē un nav stājies laulībā. Šādā gadījumā pabalstu piešķir līdz dienai, kad bērns sasniedz 20 gadu vecumu vai stājas laulībā.
+2) ir vecāks par 16 gadiem, mācās vispārējās izglītības vai profesionālās izglītības iestādē vai studē augstskolā pilna laika klātienē un nav stājies laulībā. Šādā gadījumā pabalstu piešķir līdz dienai, kad bērns sasniedz 20 gadu vecumu vai stājas laulībā.
 (2¹) Ģimenes valsts pabalstu par bērnu ar invaliditāti vecumā no viena gada līdz 18 gadiem piešķir no dienas, kad bērnam noteikta invaliditāte, un turpina izmaksāt līdz dienai, kad viņš sasniedz 20 gadu vecumu, ja viņam arī pēc 18 gadu vecuma sasniegšanas ir noteikta invaliditāte. Ģimenes valsts pabalsta par bērnu ar invaliditāti izmaksu pārtrauc, ja persona, par kuru ģimenes valsts pabalsts piešķirts, stājas laulībā.
 (2²) Ģimenes valsts pabalsta apmērs ir:
 1) par vienu bērnu - 25 euro mēnesī;
