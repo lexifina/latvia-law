@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 6. novembra likums \"Grozījumi likumā \"Par nodokļiem un nodevām\"\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "225",
+  "official_journal_page": null,
+  "official_journal_date": "2025-11-21",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2025-12-18",
+  "commission_reference": "MNE(2025)07131",
+  "nim_celex": "72025L0872LVA_202507131",
+  "nim_id": "202507131",
+  "transposes_celex": [
+    "32025L0872"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56da57e9-3ffe-4265-a5e3-65e7e621d212",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
