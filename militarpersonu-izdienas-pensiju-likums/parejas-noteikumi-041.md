@@ -1,0 +1,1 @@
+41. Grozījumi šā likuma 2. panta pirmajā daļā, 3. panta pirmajā daļā, 5. panta pirmajā daļā un 6. panta pirmajā, otrajā, trešajā un ceturtajā daļā, kā arī grozījumi par šā likuma 6. panta septītās un astotās daļas izslēgšanu stājas spēkā 2027. gada 1. janvārī.
