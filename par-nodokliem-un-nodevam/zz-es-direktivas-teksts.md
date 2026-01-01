@@ -18,4 +18,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 17) Padomes 2016. gada 6. decembra direktīvas (ES) 2016/2258, ar ko groza direktīvu 2011/16/ES attiecībā uz nodokļu iestāžu piekļuvi informācijai par nelikumīgi iegūtu līdzekļu legalizācijas novēršanu;
 18) Padomes 2017. gada 10. oktobra direktīvas (ES) 2017/1852 par nodokļu strīdu izšķiršanas mehānismiem Eiropas Savienībā;
 19) Padomes 2018. gada 25. maija direktīvas (ES) 2018/822, ar ko attiecībā uz obligāto automātisko informācijas apmaiņu nodokļu jomā saistībā ar ziņojamām pārrobežu shēmām groza direktīvu 2011/16/ES;
-20) Padomes 2021. gada 22. marta direktīvas (ES) 2021/514, ar ko groza direktīvu 2011/16/ES par administratīvu sadarbību nodokļu jomā.
+20) Padomes 2021. gada 22. marta direktīvas (ES) 2021/514, ar ko groza direktīvu 2011/16/ES par administratīvu sadarbību nodokļu jomā;
+21) Padomes 2023. gada 17. oktobra direktīvas (ES) 2023/2226, ar ko groza direktīvu 2011/16/ES par administratīvu sadarbību nodokļu jomā.

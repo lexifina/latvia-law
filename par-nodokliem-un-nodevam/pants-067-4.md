@@ -1,0 +1,2 @@
+67.⁴ pants. Kriptoaktīvs, par kuru jāziņo
+Šīs nodaļas izpratnē kriptoaktīvs, par kuru jāziņo, ir jebkurš kriptoaktīvs, izņemot tādu, attiecībā uz kuru nodokļu maksātājs, kuram saskaņā ar normatīvajos aktos minētajiem nosacījumiem ir pienākums iesniegt Valsts ieņēmumu dienestam ziņojumu par darījumiem ar kriptoaktīviem, ir pienācīgi secinājis, ka to nevar izmantot maksājumu vai ieguldījumu mērķiem. Kriptoaktīvs, par kuru jāziņo, neietver elektronisko naudu un centrālās bankas digitālo valūtu.

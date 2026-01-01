@@ -32,7 +32,14 @@ e) konts nav saistīts ar šā panta 11.punktā minēto kontu;
 a) kontā tiek ieskaitītas tikai tādas summas, kas paredzētas kredītkartes vai citas atjaunojamas kredītlīnijas debeta atlikuma (klientu parādsaistību) dzēšanai, un pārmaksa klientam netiek atmaksāta nekavējoties,
 b) finanšu iestāde īsteno pasākumus un procedūras, lai novērstu to, ka kontā tiek ieskaitīta pārmaksa, kas pārsniedz summu, kura pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 50 000, vai lai nodrošinātu, ka pārmaksa, kas pārsniedz iepriekš minēto summu, klientam tiek atmaksātas 60 dienu laikā, minēto summu aprēķinam piemērojot Ministru kabineta noteiktās kontu pienācīgas pārbaudes procedūras. Šim nolūkam pārmaksas summā netiek ieskaitītas apstrīdēto maksājumu summas, bet tiek ieskaitītas kompensācijas par preču atpakaļatdošanu;
 12) pensiju plāna dalībnieka individuālais konts, kas tiek regulēts atbilstoši Privāto pensiju fondu likumam;
-13) valsts fondēto pensiju shēmas dalībnieka konts, kas tiek regulēts saskaņā ar Valsts fondēto pensiju likumu.
+13) valsts fondēto pensiju shēmas dalībnieka konts, kas tiek regulēts saskaņā ar Valsts fondēto pensiju likumu;
+14) konts, kas ir atvērts komercsabiedrības dibināšanai vai kapitāla palielināšanai un atbilst visām šādām prasībām:
+a) konts tiek izmantots tikai tāda kapitāla noguldīšanai, kuru paredzēts izmantot komercsabiedrības dibināšanai vai tās kapitāla palielināšanai, kā noteikts Komerclikumā,
+b) visi kontā turētie līdzekļi tiek iesaldēti līdz brīdim, kad finanšu iestāde, kas sniedz ziņojumus, saņem neatkarīgu apstiprinājumu par komercsabiedrības nodibināšanu vai kapitāla palielināšanu,
+c) konts pēc komercsabiedrības nodibināšanas vai kapitāla palielināšanas tiek slēgts vai pārveidots par komercsabiedrības kontu,
+d) visi atmaksājamie līdzekļi, kas izriet no neveiksmīgas komercsabiedrības dibināšanas vai kapitāla palielināšanas, atskaitot pakalpojumu sniedzēja un tamlīdzīgas maksas, tiek veikti tikai tām personām, kuras bija līdzekļus iemaksājušas,
+e) konts tika izveidots ne agrāk kā pirms 12 mēnešiem;
+15) noguldījumu konts, kurā ir visa klienta labā turētā elektroniskā nauda un nevienā kalendāra gada vai cita atbilstoša pārskata perioda dienā slīdošā vidējā 90 dienu kopējā konta bilance vai vērtība dienas beigās jebkurā 90 secīgu dienu periodā nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 10 000.
 (2) Finanšu iestāde ir tiesīga par izslēgtu kontu atzīt iepriekšpastāvējušu fiziskās personas finanšu kontu (izņemot annuitātes līgumu), kas atbilst visām šādām pazīmēm:
 1) tā ikgadējais konta beigu atlikums nepārsniedz summu, kas pēc Eiropas Centrālās bankas publicētā euro atsauces kursa ir ekvivalenta euro un atbilst USD 1000;
 2) konta turētājs saistībā ar šo kontu vai konta turētāja citu kontu attiecīgajā finanšu iestādē pēdējo triju gadu laikā nav veicis nevienu darījumu;

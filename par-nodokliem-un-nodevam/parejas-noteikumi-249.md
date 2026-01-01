@@ -1,0 +1,1 @@
+249. Grozījumi šā likuma 15.² pantā attiecībā uz transfertcenu dokumentācijas sagatavošanas un iesniegšanas prasībām, kas stājas spēkā 2026. gada 1. janvārī, ir piemērojami kontrolētiem darījumiem, kuri īstenoti, sākot ar pārskata gadu, kurš sākas 2025. kalendāra gada laikā.
