@@ -1,0 +1,1 @@
+44. Grozījums šā likuma 13.¹ panta 5.¹ daļas 3. punktā par vārdu "nesaskaņojot ar Augstākās izglītības padomi augstskolas vai koledžas kārtību, kādā studiju programmās uzņem Ukrainas civiliedzīvotājus" izslēgšanu stājas spēkā 2026. gada 1. septembrī.

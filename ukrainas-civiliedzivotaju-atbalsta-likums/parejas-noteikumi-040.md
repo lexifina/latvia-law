@@ -1,0 +1,1 @@
+40. Grozījumi šā likuma 12. pantā par izmitināšanas perioda noteikšanu līdz 60 dienām neattiecas uz tiem Ukrainas civiliedzīvotājiem, kuri primārajam atbalstam - izmitināšanai - pieteikušies līdz 2025. gada 31. decembrim.

@@ -1,0 +1,1 @@
+39. Grozījumi šā likuma 7.¹ pantā par izmitināšanas perioda noteikšanu līdz 60 dienām neattiecas uz tiem izmitinātājiem, kuri pieteikumu par atlīdzības saņemšanu iesnieguši līdz 2025. gada 31. decembrim.

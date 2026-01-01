@@ -1,0 +1,1 @@
+43. Ukrainas civiliedzīvotājiem, kuriem 2025. gada 31. decembrī ir pagaidu aizsardzības statuss vai kuri ir pieteikušies attiecīgā statusa saņemšanai, šā likuma 16. panta 1.¹ un 1.² daļā noteikto termiņu valsts valodas apguvei sāk skaitīt no 2026. gada 1. janvāra.
