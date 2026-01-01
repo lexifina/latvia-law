@@ -1,0 +1,1 @@
+12. Šā likuma 10. panta grozījumi attiecībā uz šā panta izteikšanu jaunā redakcijā stājas spēkā 2028. gada 1. janvārī, un tos sāk piemērot 2028. gadā, sagatavojot likumprojektu par valsts budžetu 2029. gadam un budžeta ietvaru 2029., 2030., 2031. un 2032. gadam.

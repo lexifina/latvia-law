@@ -1,2 +1,0 @@
-8.pants. Fiskālie nosacījumi gadskārtējā valsts budžeta likuma grozījumu sagatavošanai
-Sagatavojot grozījumus gadskārtējā valsts budžeta likumā, valsts budžeta izdevumus, no kuriem izslēgti izdevumi tajās izdevumu pozīcijās, kurām saskaņā ar šā likuma 18.pantu tiek noteikta izdevumu izlīdzināšana, nosaka mazākus par ietvara likumā attiecīgajam gadam noteiktajiem koriģētajiem maksimāli pieļaujamiem valsts budžeta izdevumiem, kas precizēti šā likuma 5.panta pirmajā daļā minētajos gadījumos. Šī starpība ir fiskālā nodrošinājuma rezerve (17.pants).

@@ -1,0 +1,1 @@
+13. Šā likuma 28. panta 6.¹ daļa stājas spēkā 2032. gada 1. maijā. Līdz tam Regulas 2024/1263 11. panta 2. punktā un 15. panta 3. punktā paredzētais atzinums tiek sagatavots, ja Finanšu ministrija izsaka attiecīgu lūgumu Padomei un Padome tam piekrīt.

@@ -1,0 +1,1 @@
+11. Izstrādājot likumprojektu par valsts budžetu 2027. gadam un budžeta ietvaru 2027., 2028., 2029. un 2030. gadam, šā likuma 5. panta pirmās daļas nosacījumi attiecībā uz ietvara maksimāli pieļaujamiem valsts budžeta izdevumiem 2029. gadam netiek piemēroti.

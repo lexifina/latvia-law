@@ -1,2 +1,2 @@
 II nodaļa
-Fiskālie nosacījumi vidēja termiņa budžeta ietvara likuma projekta un gadskārtējā valsts budžeta likuma projekta sagatavošanai, šo likumu izpildei un to grozījumu sagatavošanai
+Fiskālie nosacījumi likumprojekta par valsts budžetu kārtējam gadam un vidēja termiņa budžeta ietvaru sagatavošanai, šā likuma izpildei un tā grozījumu sagatavošanai

@@ -7,4 +7,4 @@ Fiskālās politikas īstenošanā tiek ievēroti šādi principi:
 5) ilgtspējīgas fiskālās politikas princips - fiskālās politikas mērķis ir nodrošināt, lai vispārējās valdības parāda (Līguma par Eiropas Savienības darbību 12.protokola 2.panta izpratnē) apjoms neuzliek nesamērīgu slogu ekonomikai, bet veicina tās attīstību ilgtermiņā;
 6) paaudžu savstarpējās atbildības princips - fiskālajā politikā tiek ņemta vērā tās finansiālā ietekme uz sabiedrību gan šobrīd, gan nākamajās paaudzēs;
 7) atklātuma princips - tiek nodrošināta publiski pieejama informācija par fiskālās politikas mērķiem, to sasniegšanas metodēm un rezultātiem;
-8) solidaritātes princips - vispārējās valdības sektorā iekļautās institūcijas solidāri ievēro šajā likumā noteiktos un uz vispārējās valdības sektoru attiecināmos fiskālos nosacījumus.
+8) solidaritātes princips - vispārējās valdības sektorā iekļautās institucionālās vienības solidāri ievēro šajā likumā noteiktos un uz vispārējās valdības sektoru attiecināmos fiskālos nosacījumus.
