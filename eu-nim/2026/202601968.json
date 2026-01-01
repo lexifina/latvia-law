@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Likums \"Par valsts budžetu 2026. gadam un budžeta ietvaru 2026., 2027. un 2028. gadam\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "244",
+  "official_journal_page": null,
+  "official_journal_date": "2025-12-18",
+  "entry_into_force": "2026-01-01",
+  "notification_date": "2026-03-25",
+  "commission_reference": "MNE(2026)01968",
+  "nim_celex": "72023L1791LVA_202601968",
+  "nim_id": "202601968",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/800a602b-4616-4846-95ce-c263fde5c80e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
