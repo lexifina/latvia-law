@@ -53,8 +53,9 @@ pieprasīt no attiecīgajām amatpersonām iestāžu, privāto tiesību juridisk
 33) pārbaudīt, vai persona, kura atbrīvota no brīvības atņemšanas iestādes, dzīvo deklarētajā vai norādītajā dzīvesvietā;
 34) izdarīt kontrolpirkumu, kā arī iesaistīt tā izdarīšanā citu personu, tajā skaitā nepilngadīgu, lai novērstu un atklātu administratīvos pārkāpumus un noziedzīgus nodarījumus.
 35) lemt par rīcību ar atrasto mantu:
-a) nodot to Valsts ieņēmumu dienestam, ja sešu mēnešu laikā no sludinājuma ievietošanas policijas oficiālajā tīmekļvietnē nav noskaidrota atrastās mantas piederība un mantas atradējs atsakās to pārņemt savā īpašumā,
-b) iznīcināt tādu atrasto mantu, kurai nav vērtības, kura nav derīga lietošanai, kuras apgrozība aizliegta ar likumu vai kura ir bīstama videi.
+a) nodot to kompetentajai institūcijai, kura nodrošina rīcību ar valstij piekritīgo mantu, ja sešu mēnešu laikā no sludinājuma ievietošanas policijas oficiālajā tīmekļvietnē nav noskaidrota atrastās mantas piederība un mantas atradējs atsakās to pārņemt savā īpašumā,
+b) iznīcināt tādu atrasto mantu, kurai nav vērtības, kura nav derīga lietošanai, kuras apgrozība aizliegta ar likumu vai kura ir bīstama videi,
+c) ieskaitīt valsts budžetā atrastos naudas līdzekļus, ja sešu mēnešu laikā no sludinājuma ievietošanas policijas oficiālajā tīmekļvietnē nav noskaidrota naudas līdzekļu piederība un naudas līdzekļu atradējs atsakās tos pārņemt savā īpašumā.
 (Otrā daļa izslēgta ar 13.10.2005. likumu)
 Kārtību, kādā transportlīdzekli nogādā policijas iestādē pārbaudei, glabā un atdod īpašniekam, kā arī transportlīdzekļa pārbaudes veikšanas termiņus nosaka Ministru kabinets.
 Ministru kabinets nosaka kārtību, kādā veicama policijas iestāžu ēku, telpu un teritorijas, publisku vietu un tajās esošo personu un policijas apsargājamo objektu novērošana, izmantojot tehniskos līdzekļus, kā arī šādas novērošanas rezultātā iegūto datu apstrādes noteikumus.
