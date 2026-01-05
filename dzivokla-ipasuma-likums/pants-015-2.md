@@ -11,3 +11,7 @@
 3) iemaksai dzīvokļu īpašnieku kopības uzkrājumu fondā;
 4) tādu izdevumu segšanai, kas ir saistīti ar tiesību un saistību uzņemšanos, īpašuma un citu lietu tiesību iegūšanu, ja tie skar dzīvokļu īpašnieku kopības kompetencē esošos jautājumus;
 5) nodokļu saistību izpildei, naudas soda samaksai u. c. pielīdzināmiem maksājumiem.
+(4) Pārvaldnieks attiecībā pret kredītiestādi, kurā dzīvokļu īpašnieku kopībai atvērts konts, ar kontu rīkojas bez pārstāvības apjoma ierobežojumiem.
+(5) Dzīvokļu īpašnieku kopības izbeigšanās gadījumā:
+1) par tās saistībām atbilstoši to dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram atbild dzīvokļu īpašnieki, kuri bija dzīvokļu īpašnieku kopības sastāvā dienā, kad izbeidzās minētā kopība;
+2) dzīvokļu īpašnieku kopības manta tiek sadalīta starp dzīvokļu īpašniekiem, kuri bija dzīvokļu īpašnieku kopības sastāvā dienā, kad izbeidzās minētā kopība.

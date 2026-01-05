@@ -1,0 +1,1 @@
+18. Šo pārejas noteikumu 17. punktā minētajām dzīvokļu īpašnieku kopībām, ja uz tām nav attiecināms šā likuma 15.⁵ panta sestajā daļā paredzētais izņēmums, nepieciešams iesniegt pieteikumu ziņu reģistrācijai par šo dzīvokļu īpašnieku kopību patieso labuma guvēju Latvijas Republikas Uzņēmumu reģistram līdz 2026. gada 1. oktobrim.

@@ -1,0 +1,1 @@
+17. Būvniecības valsts kontroles birojs līdz 2026. gada 1. aprīlim Dzīvokļu īpašnieku kopību reģistrā iekļauj šā likuma 15.⁴ panta trešajā daļā minētās ziņas par tādām dzīvokļu īpašnieku kopībām, kuras izveidotas līdz 2026. gada 4. janvārim.

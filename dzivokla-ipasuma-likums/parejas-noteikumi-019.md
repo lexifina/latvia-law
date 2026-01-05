@@ -1,0 +1,1 @@
+19. Šā likuma 15.⁴ panta trešās daļas 5. punkts stājas spēkā ar dienu, kad veiktas izmaiņas Oficiālās elektroniskās adreses likumā, paredzot oficiālās elektroniskās adreses izveidi dzīvokļu īpašnieku kopībām.

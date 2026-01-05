@@ -1,5 +1,7 @@
 15. pants. Dzīvokļu īpašnieku kopība
 (1) Dzīvokļu īpašnieku kopība ir tiesību subjekts. Šā likuma 16. pantā noteiktās kompetences ietvaros tā var iegūt tiesības un uzņemties saistības, iegūt īpašuma un citas lietu tiesības, kā arī būt prasītāja un atbildētāja tiesā.
+(1¹) Dzīvokļu īpašnieku kopība uzskatāma par izveidotu ar dienu, kad dzīvokļu īpašumos tiek sadalīta ekspluatācijā nodota dzīvojamā māja kopā ar tai piederīgajām palīgēkām, būvēm un zemi un vismaz viens dzīvokļa īpašums tiek ierakstīts zemesgrāmatā.
 (2) Dzīvokļu īpašnieku kopība par tās saistībām atbild ar savu mantu. Ja dzīvokļu īpašnieki ar kopības kreditoru norēķinās tieši, par kopības saistībām atbilstoši savā dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram kopības kreditoram vispirms atbild dzīvokļu īpašnieki, kuri nav veikuši attiecīgos norēķinus.
 (3) Dzīvokļu īpašnieku kopības sastāvā ir visi attiecīgās dzīvojamās mājas dzīvokļu īpašnieki. Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, dzīvokļu īpašnieku kopību veido visu šo dzīvojamo māju dzīvokļu īpašnieki.
 (4) Ja dzīvojamā mājā esošie dzīvokļu īpašumi pieder vienai personai, tai ir likumā paredzētās dzīvokļu īpašnieku kopības tiesības un pienākumi.
+(5) Dzīvokļu īpašnieku kopība izbeidzas, kad zemesgrāmatā dzēsti visi dzīvojamā mājā esošie dzīvokļu īpašumi. Dzīvokļa īpašuma izbeigšanās pamati ir noteikti šā likuma 7. pantā.
