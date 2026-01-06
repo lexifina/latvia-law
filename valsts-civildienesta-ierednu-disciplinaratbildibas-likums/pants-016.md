@@ -6,4 +6,4 @@
 2) ierēdni nedrīkst iecelt iepriekšējā vai tam līdzvērtīgā amatā (11.panta 3.punkts);
 3) pirmos četrus gadus ierēdni nedrīkst iecelt iepriekšējā vai tam līdzvērtīgā amatā (11.panta 4.punkts), kā arī tādā amatā, kurā viņš tiktu iecelts šā likuma 11.panta 3.punktā norādītā disciplinārsoda piemērošanas gadījumā;
 4) pirmajā gadā ierēdni nedrīkst iecelt amatā (11.panta 5.punkts), bet nākamos trīs gadus nedrīkst iecelt iepriekšējā vai tam līdzvērtīgā amatā, kā arī tādā amatā, kurā viņš tiktu iecelts šā likuma 11.panta 3.punktā norādītā disciplinārsoda piemērošanas gadījumā.
-(4) Pēc šā panta trešajā daļā noteiktā termiņa izbeigšanās ierēdnis atzīstams par disciplināri nesodītu.
+(4) Pēc šā panta otrajā daļā noteiktā termiņa izbeigšanās ierēdnis atzīstams par disciplināri nesodītu.
