@@ -35,5 +35,8 @@
 31) izmeklēšanas iestādēm un prokuratūrām;
 32) Slimību profilakses un kontroles centram;
 33) apdrošināšanas sabiedrībām, kuras veic sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;
-34) biedrībai "Resursu centrs cilvēkiem ar garīgiem traucējumiem "ZELDA"".
+34) biedrībai "Resursu centrs cilvēkiem ar garīgiem traucējumiem "ZELDA"";
+35) biedrībai "Latvijas Autisma apvienība";
+36) Iekšlietu ministrijas veselības un sporta centram;
+37) sabiedrībai ar ierobežotu atbildību "Latvijas Digitālās veselības centrs".
 (4) Ministru kabinets nosaka informācijas sistēmā iekļaujamos datus, to apjomu, datu apstrādes noteikumus un kārtību, kā arī institūciju sadarbības noteikumus.
