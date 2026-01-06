@@ -1,0 +1,1 @@
+121. Grozījumi šā likuma 14.¹ panta sešpadsmitajā daļā par tās izteikšanu jaunā redakcijā un 16.¹ daļā par vārdu "ievērojot šā panta sešpadsmitās daļas prasības" izslēgšanu stājas spēkā 2026. gada 1. jūlijā.

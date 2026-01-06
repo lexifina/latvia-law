@@ -1,4 +1,5 @@
 46.¹ pants. Augstākās izglītības programmās studējošo un absolventu reģistrs
 (1) Studējošo un absolventu reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa. Reģistrā ieraksta datus par augstākās izglītības programmās studējošajiem un absolventu studijās iegūtos grādus un profesionālās kvalifikācijas.
 (2) Datus studējošo un absolventu reģistram par augstākās izglītības programmās studējošajiem un absolventu studijās iegūtajiem grādiem un profesionālajām kvalifikācijām sniedz augstskolas un koledžas. Augstskolas rektors un koledžas direktors ir atbildīgs par studējošo un absolventu reģistram sniegto datu precizitāti un atbilstību īstenībai.
-(3) Studējošo un absolventu reģistram iesniedzamo datu apjomu un iesniegšanas kārtību, kā arī publiski pieejamās informācijas apjomu un publiskošanas kārtību nosaka Ministru kabinets.
+(3) Studējošo un absolventu reģistram iesniedzamo datu apjomu un iesniegšanas kārtību, pētniecībai nepieciešamo datu nodošanas kārtību, kā arī publiski pieejamās informācijas apjomu un publiskošanas kārtību nosaka Ministru kabinets.
+(4) Izglītības un zinātnes ministrija nolūkā pētīt augstākās izglītības programmu kvalitāti un studiju izbeigšanas iemeslus apstrādā studējošo un absolventu reģistrā esošos personu identificējošos datus un personas studiju datus.
