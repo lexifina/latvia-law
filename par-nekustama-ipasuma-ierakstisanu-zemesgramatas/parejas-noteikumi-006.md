@@ -1,0 +1,1 @@
+6. Šā likuma 25. panta otrā daļa par jaunbūves ierakstīšanu zemesgrāmatā, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, stājas spēkā 2026. gada 1. aprīlī.

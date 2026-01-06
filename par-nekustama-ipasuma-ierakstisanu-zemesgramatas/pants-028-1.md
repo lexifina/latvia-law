@@ -1,0 +1,1 @@
+28.¹ pants. Ēkas (būves) ierakstāmas zemesgrāmatā, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, ja ēka (būve) ir pieņemta ekspluatācijā vai ir paziņojums par būvdarbu pabeigšanu un no Valsts zemes dienesta ir saņemts paziņojums par reģistrāciju Kadastra informācijas sistēmā.
