@@ -106,7 +106,11 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 69) ārvalsts grupa - grupa, kuras mātes sabiedrība ir reģistrēta ārvalstī;
 70) dzimumneitrāla atalgojuma politika - atalgojuma politika, kas balstīta uz vienādu darba samaksu sievietēm un vīriešiem par vienādu darbu vai vienādi vērtīgu darbu;
 71) bankomāts - elektromehāniska ierīce, kas klientam ļauj izņemt euro banknotes no viņa maksājumu konta, izmantojot maksājumu kartei piesaistītus maksājumu instrumentus vai citus līdzekļus;
-72) kredītiestādes nodrošināts bankomāts - bankomāts, kurš atrodas kredītiestādes īpašumā, valdījumā vai turējumā vai kuru attiecīgās kredītiestādes uzdevumā ir uzstādījis ārpakalpojuma sniedzējs.
+72) kredītiestādes nodrošināts bankomāts - bankomāts, kurš atrodas kredītiestādes īpašumā, valdījumā vai turējumā vai kuru attiecīgās kredītiestādes uzdevumā ir uzstādījis ārpakalpojuma sniedzējs;
+73) specializētā kredītiestāde - kredītiestāde, kura sniedz šīs daļas 4. punktā minētos finanšu pakalpojumus un atbilst vismaz vienam no šādiem kritērijiem:
+a) ierobežots klientu loks, kas noteikts pēc teritoriālā, nodarbinātības vai interešu kopības principa Krājaizdevu sabiedrību likuma izpratnē;
+b) finanšu pakalpojumi tiek sniegti tikai digitāli;
+c) biznesa modelis paredz inovatīvu pakalpojumu sniegšanu, kas Latvijas mērogā ir jauns vai būtiski uzlabots finanšu pakalpojums.
 (2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
 1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
 2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;
