@@ -3,6 +3,12 @@
 (1¹) (Izslēgta ar 09.10.2025. likumu)
 (1²) (Izslēgta ar 09.10.2025. likumu)
 (1³) Būvvalde vai institūcija, kura pilda būvvaldes funkcijas, izskata būvprojektu un izdara atbilstošas atzīmes vispārīgajos būvnoteikumos noteiktajos termiņos.
+(1⁴) Būvniecības ieceres iesniegums (tai skaitā paziņojums par būvniecību) par jaunas būves būvniecību uz būvniecības ierosinātājam piederošas zemes, kā arī par izmaiņām esošā būvē, kas atrodas uz būvniecības ierosinātājam piederošas zemes, ir uzskatāms par:
+1) iesniegumu Valsts zemes dienestam par būves kadastra datu reģistrāciju vai aktualizāciju no datiem un dokumentiem Būvniecības informācijas sistēmā, ja atbilstoši kadastra jomu regulējošiem normatīvajiem aktiem būvi reģistrē vai tās datus aktualizē Nekustamā īpašuma valsts kadastra informācijas sistēmā;
+2) nostiprinājuma lūgumu rajona (pilsētas) tiesai no jauna uzbūvētās būves ierakstīšanai zemesgrāmatā.
+(1⁵) Būvvaldes kompetencē esošo pārbaudi par būvniecības ieceres atbilstību normatīvo aktu prasībām nepārvērtē, veicot kadastra datu reģistrāciju vai aktualizāciju Nekustamā īpašuma valsts kadastra informācijas sistēmā, kā arī izskatot nostiprinājuma lūgumu rajona (pilsētas) tiesā.
+(1⁶) Šā panta 1.⁴ daļas 1. punktā noteikto būves kadastra datu reģistrāciju vai aktualizāciju veic pēc būves pieņemšanas ekspluatācijā vai pēc paziņojuma par būvdarbu pabeigšanu, savukārt šā panta 1.⁴ daļas 2. punktā noteikto būves ierakstīšanu zemesgrāmatā veic pēc kadastra datu reģistrācijas.
+(1⁷) (Daļa stājas spēkā 01.04.2026. un iekļauta likuma redakcijā uz 01.04.2026. Sk. pārejas noteikumu 40. punktu)
 (2) Par būvniecības ieceri pašvaldības noteikta institūcija vai amatpersona vai institūcija, kura pilda būvvaldes funkcijas, triju darba dienu laikā no attiecīgās būvniecības ieceres iesnieguma saņemšanas dienas publicē informāciju būvniecības informācijas sistēmā. Publikācijā norāda:
 1) būvniecības ieceres realizācijas vietu;
 2) iecerētās būves galveno lietošanas veidu.

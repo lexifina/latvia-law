@@ -3,7 +3,7 @@
 (2) Būvvalde pastāvīgi nodarbina speciālistus, no kuriem vismaz viens ir arhitekts un viens - būvinspektors.
 (2¹) Būvvaldes arhitekts pārrauga arhitektoniskās kvalitātes principa ievērošanu, ciktāl tas attiecas uz būves iekļaušanos ainavā un pilsētvidē.
 (3) Būvvalde:
-1) nodrošina būvniecības administratīvā procesa tiesiskumu, tai skaitā veic būvdarbu administratīvo prasību ievērošanas kontroli un pieņem būves ekspluatācijā;
+1) nodrošina būvniecības administratīvā procesa tiesiskumu, tai skaitā pārbauda, vai būvniecības iecere ir saskaņota ar trešajām personām un vai normatīvajos aktos nav noteikti ierobežojumi, kas nepieļauj ierosinātās būvniecības ieceres īstenošanu, kā arī veic būvdarbu administratīvo prasību ievērošanas kontroli un pieņem būves ekspluatācijā;
 2) sniedz konsultācijas par būvniecības administratīvā procesa kārtību un ziņas par teritorijas izmantošanas un apbūves nosacījumiem;
 3) informē par būvniecības procesa tiesisko pamatojumu un sniedz ziņas par pašvaldības administratīvajā teritorijā esošajām vai paredzētajām būvēm.
 (3¹) Būvvaldes kompetencē ir pārbaudīt un kontrolēt šāda būvniecības principa un šādu tehnisko prasību ievērošanu:
