@@ -5,3 +5,4 @@ Nekustamā īpašuma īpašnieku un personu, kuru labā vai pret kurām taisāms
 3) uz administratīvo aktu;
 4) uz līgumu par īpašuma tiesību iegūšanu uz nekustamu īpašumu, privatizējot valsts vai pašvaldības īpašumu;
 5) uz būvvaldes izziņu par ēkas statusu un aktu par ēkas pieņemšanu ekspluatācijā.
+Nekustamā īpašuma īpašniekiem un personām, kuru labā vai pret kurām taisāms nostiprinājums, nav nepieciešams notāra vai bāriņtiesas apliecinājums, ja minētās personas nostiprinājuma lūgumu rajona (pilsētas) tiesai paraksta ar drošu elektronisko parakstu atbilstoši normatīvajiem aktiem par elektroniskajiem dokumentiem un tas attiecas uz nomas tiesību nostiprināšanu zemesgrāmatā.

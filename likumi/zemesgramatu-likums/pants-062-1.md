@@ -1,1 +1,1 @@
-62.¹ Nostiprinājuma lūgumam, kas pamatots ar būvvaldes izdotu dokumentu, noteiktā kārtībā apliecinātu būvvaldes izdota dokumenta datni no Būvniecības informācijas sistēmas pievieno rajona (pilsētas) tiesa.
+62.¹ Nostiprinājuma lūgumam vai paziņojumam, kas saņemts no Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, datni no informācijas sistēmām pievieno rajona (pilsētas) tiesa.

@@ -8,7 +8,8 @@ Zemesgrāmatu nodalījumā, izmantojot citu valsts informācijas sistēmu tiešs
 6) veic izmaiņas to fizisko personu identifikācijas datos, kurām piešķirts personas kods;
 7) aktualizē pārrēķinātās dzīvokļa īpašuma sastāvā esošās kopīpašuma domājamās daļas atbilstoši Dzīvokļa īpašuma likumam, ja dzīvojamās mājas privatizācijas procesā kopīpašuma domājamās daļas aprēķinātas neatbilstoši;
 8) nemainot zemes gabala robežas, precizē normatīvajos aktos par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās noteiktajos gadījumos zemesgrāmatā ierakstīta kadastrāli neuzmērīta zemes gabala platību saskaņā ar informāciju par zemes gabala platību un izvietojumu apvidū;
-9) veic izmaiņas juridiskās personas nosaukumā atbilstoši izmaiņām, kuras reģistrētas Uzņēmumu reģistra vestajos reģistros.
+9) veic izmaiņas juridiskās personas nosaukumā atbilstoši izmaiņām, kuras reģistrētas Uzņēmumu reģistra vestajos reģistros;
+10) ieraksta zemesgrāmatā ēkas (būves) un jaunbūves, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem. Šajos gadījumos pamatojošos dokumentus, kurus atbilstoši kompetencei ir izvērtējusi būvvalde un Valsts zemes dienests, pirms ēkas (būves) vai jaunbūves ierakstīšanas zemesgrāmatā tiesnesis atkārtoti nevērtē.
 Tiesnesis pieņem lēmumu par personu vai nekustamo īpašumu identificējošo datu grozīšanu uz īpašnieka iesnieguma pamata, ja ar to netiek grozītas nostiprinātās tiesības. Tiesnesis pirms ierakstu grozīšanas pārbauda datus valsts informācijas sistēmā.
 Grozījumi, kas izdarīti šā panta otrajā un trešajā daļā noteiktajā kārtībā, nav pārsūdzami.
 Rajona (pilsētas) tiesas priekšsēdētājs var pilnvarot tiesneša palīgu apstrādāt šā panta otrajā daļā minēto paziņojumu.

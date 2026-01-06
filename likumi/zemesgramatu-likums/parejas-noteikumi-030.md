@@ -1,0 +1,1 @@
+30. Šā likuma 41. panta otrās daļas 10. punkts par ierakstīšanu zemesgrāmatā, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, attiecībā uz jaunbūvēm tiek piemērots ar 2026. gada 1. aprīli.

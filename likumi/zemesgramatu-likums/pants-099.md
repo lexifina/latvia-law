@@ -1,3 +1,3 @@
 99. Sūdzības iesniegšanu par tiesneša lēmumu pēc sūdzētāja lūguma atzīmes veidā ieraksta (45. p. 6. pk.) zemesgrāmatas nodalījumā tajā iedaļā, kurā būtu ierakstāms nostiprinājums.
 Ja sakarā ar sūdzību tiesneša lēmums ir atcelts un nostiprinājuma lūgums nodots jaunai izskatīšanai, tas atkārtoti reģistrējams nostiprinājuma žurnālā un izskatāms vispārējā kārtībā. Ja nostiprinājuma lūguma iesniedzējs līdz ar blakus sūdzību iesniedzis tikai Civilprocesa likumā noteiktajā kārtībā izgatavotās dokumentu kopijas, pēc nostiprinājuma lūguma atkārtotas reģistrācijas viņš uzaicināms iesniegt dokumentu oriģinālus.
-Ja tiesneša lēmums atstāts negrozīts, rajona (pilsētas) tiesa tiesas lēmuma norakstu nosūta sūdzības iesniedzējam, kā arī pievieno to nekustamā īpašuma lietai.
+Ja tiesneša lēmums atstāts negrozīts, to pievieno nekustamā īpašuma lietai.
