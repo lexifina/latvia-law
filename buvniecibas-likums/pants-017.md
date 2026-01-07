@@ -1,5 +1,6 @@
 17.pants. Būvdarbi
 (1) Būvdarbus drīkst uzsākt pēc tam, kad būvvalde ir izdarījusi atzīmi par būvdarbu uzsākšanas nosacījumu izpildi, ja būvdarbu veikšanai nepieciešama apliecinājuma karte vai paskaidrojuma raksts, vai atzīmi par projektēšanas un būvdarbu uzsākšanas nosacījumu izpildi, ja būvdarbu veikšanai nepieciešama būvatļauja un tā kļuvusi neapstrīdama (izņemot šā likuma 15. panta septītajā daļā minēto gadījumu).
+(1¹) Iesniedzot iesniegumu būvdarbu uzsākšanas nosacījumu izpildei, būvētājam - fiziskajai personai - būvniecības informācijas sistēmā nav jānorāda informācija par būvdarbiem plānotā finansējuma izcelsmi.
 (2) Būvdarbus organizē un veic atbilstoši būvprojektam un būvatļaujas nosacījumiem, kā arī ievērojot normatīvajos aktos noteiktos ierobežojumus un prasības, lai netiktu nodarīts kaitējums videi vai tas būtu pēc iespējas mazāks un resursu patēriņš būtu ekonomiski un sociāli pamatots.
 (2¹) Izmaiņas būvdarbos ir pieļaujamas, ievērojot šā likuma 16. pantā noteikto kārtību.
 (2²) (Izslēgta ar 22.06.2017. likumu)
