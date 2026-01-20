@@ -8,7 +8,7 @@
 1) kurš neatbilst šā panta pirmās un otrās daļas nosacījumiem;
 2) kurš izslēgts no reģistra, ja nav pagājis gads pēc lēmuma pieņemšanas par komersanta izslēgšanu no reģistra;
 3) kura dalībnieks ir juridiskā persona, kas pēdējā gada laikā izslēgta no reģistra;
-4) par kuru valsts drošības iestādēm ir informācija, ka individuālais komersants vai komercsabiedrības pārvaldes (pārstāvības) amatpersona vai dalībnieks darbojas pretvalstiskā vai noziedzīgā organizācijā vai ir tās biedrs, vai rada draudus valsts vai sabiedrības drošībai;
+4) par kuru Valsts policijai vai valsts drošības iestādēm ir informācija, ka individuālais komersants vai komercsabiedrības pārvaldes (pārstāvības) amatpersona vai dalībnieks darbojas pretvalstiskā vai noziedzīgā organizācijā vai ir tās biedrs, vai rada draudus valsts vai sabiedrības drošībai;
 5) kuram uz reģistrēšanas brīdi ir Valsts ieņēmumu dienesta administrēto nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parāds, kura kopsumma pārsniedz likumā "Par nodokļiem un nodevām" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;
 6) kuram pašam vai kura pārvaldes (pārstāvības) amatpersonai ir neizpildīts administratīvais sods par apsardzes darbību vai darba tiesiskās attiecības un nodokļu samaksu reglamentējošu normatīvo aktu pārkāpumu;
 7) kuram ir pasludināts maksātnespējas process vai kurš atrodas likvidācijas procesā, vai kura saimnieciskā darbība ir apturēta vai izbeigta.
