@@ -1,0 +1,1 @@
+1. pants. Ar šo likumu tiek pieņemti un apstiprināti Starptautiskās dzelzceļa pārvadājumu starpvaldību organizācijas (OTIF) 13. Ģenerālajā asamblejā pieņemtie grozījumi 1980. gada 9. maija Konvencijā par starptautiskajiem dzelzceļa pārvadājumiem (COTIF), kas grozīta ar 1999. gada 3. jūnija Viļņas protokolu (turpmāk - Grozījumi).
