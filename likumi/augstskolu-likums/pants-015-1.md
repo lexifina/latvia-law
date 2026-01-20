@@ -9,6 +9,8 @@ c) prasībām, procedūrām un pārbaudījumiem grādu un kvalifikāciju iegūš
 4) apstiprina augstskolas zinātniskās un mākslinieciski radošās darbības attīstības plānu, rosina konkrētu zinātniskās darbības virzienu īstenošanu;
 5) nosaka prasības ievēlēšanai akadēmiskajos amatos un akadēmiskā personāla vērtēšanas kritērijus;
 6) nosaka ar akadēmiskā godīguma ievērošanu un akadēmiskā godīguma pārkāpumu, tostarp negodprātīgas rīcības un plaģiāta, izskatīšanu un lēmumu pieņemšanu saistītās prasības un procedūras;
+6¹) apstiprina akadēmiskās ētikas kodeksu, ietverot akadēmiskās ētikas pamatprincipus un prasības augstskolas personāla rīcībai, kā arī nosaka procedūras jautājumu izskatīšanai akadēmiskās ētikas komisijā;
+6²) nosaka kārtību, pamatprincipus un prasības mākslīgā intelekta tehnoloģiju izmantošanai akadēmiskajā un zinātniskajā studiju un pētniecības procesā;
 7) augstskolas satversmē noteiktajā kārtībā izvirza šā likuma 14.¹ pantā minētos augstskolas padomes locekļus;
 8) var rosināt rektora atcelšanu no amata, kā arī lemj par rektora atcelšanu no amata, ievērojot šā likuma 17. panta devītās daļas noteikumus;
 9) sniedz atzinumu un izsaka priekšlikumus par augstskolas attīstības stratēģiju, budžetu, augstskolas struktūrvienību izveidošanu, reorganizāciju un likvidāciju un nekustamā īpašuma attīstības plānu pirms to skatīšanas padomē. Ja senāts neatbalsta kādu no minētajiem dokumentiem, tā apstiprināšana un virzīšana padomei tiek atlikta uz vienu mēnesi. Ja dokuments mēneša laikā senātā netiek saskaņots, tas tiek izskatīts padomē, uzklausot senāta iebildumus;

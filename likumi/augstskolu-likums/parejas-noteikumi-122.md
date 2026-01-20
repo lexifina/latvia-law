@@ -1,0 +1,1 @@
+122. Ministru kabinets līdz 2027. gada 1. aprīlim iesniedz Saeimai informatīvo ziņojumu par akadēmisko ētiku un godīgumu augstākajā izglītībā un zinātnē, ietverot priekšlikumus akadēmiskās ētikas un godīguma institucionālai uzraudzībai nacionālā līmenī.
