@@ -44,7 +44,7 @@ Likumā ir lietoti šādi termini:
 42) šaujamierocis - jebkurš pārnēsājams ierocis ar stobru, kas šaujampulvera vai cita propelenta iedarbības rezultātā raida šāviņu, ir paredzēts vai var tikt pārveidots, lai raidītu šāviņu;
 43) šaujamieroča būtiskā sastāvdaļa - sastāvdaļa, kas, būdama atsevišķs priekšmets, ir ietverta tā šaujamieroča kategorijā, kuram šī sastāvdaļa uzliekama vai uzlikta, - stobrs, tostarp kalibra maiņai paredzētie ieliekamie stobri un adapteri, rāmis, stobra kārba vai nolaidējmehānisma kārba, aizslēgs, patronu cilindrs, stobra apvalks, kas nostiprina stobru un pilda rāmja funkciju;
 44) šaujamieroča kopija - oriģinālā šaujamieroča precīzs atdarinājums, kas nav derīgs lietošanai un kam ir tikai izziņas avota vai dekoratīvas funkcijas;
-45) šaujamieroča maināmās būtiskās sastāvdaļas - šaujamieroča maināmais stobrs, šaujamieroča maināmais stobra un aizslēga komplekts (ja aizslēgs maināms pilnībā), kalibra maiņai paredzētais ieliekamais stobrs un adapters;
+45) šaujamieroča maināmās būtiskās sastāvdaļas - šaujamieroča maināmais stobrs, šaujamieroča maināmais stobra un aizslēga komplekts (ja aizslēgs maināms pilnībā), revolvera maināmais cilindrs, kalibra maiņai paredzētais ieliekamais stobrs un adapters, kā arī garstobra šaujamieroča rāmis, kas integrēts laidē;
 46) šaujamieroča munīcija - patrona, ko izmanto šaujamierocī, un tās sastāvdaļas;
 47) šaujamieroča sastāvdaļa - jebkurš elements vai tā aizstājējs, kas ir speciāli konstruēts šaujamierocim un derīgs tā darbināšanai, kā arī ierīce, kas konstruēta vai pielāgota šaujamieroča šāviena skaņas klusināšanai vai liesmu slāpēšanai;
 48) šāviņš - lode, renkulis, skrots, bulta vai cits priekšmets vai viela, kas paredzēta vai pielāgota šaušanai no ieroča vai izšauta no ieroča;

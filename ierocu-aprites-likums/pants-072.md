@@ -3,7 +3,7 @@
 (2) Šaušanas trenerus sertificē tādā normatīvajos aktos noteiktajā kārtībā, kādā sertificē sporta speciālistus, papildus ņemot vērā šā panta trešajā daļā minētās prasības.
 (3) Šaušanas instruktoru un treneri sertificē, ja uz viņu neattiecas kāds no šā likuma 23. pantā minētajiem aizliegumiem (izņemot tā 14. un 15. punktā minētos aizliegumus). Pārbaudi par to, vai uz personu attiecas kāds no minētajiem aizliegumiem, veic Valsts policija.
 (4) Šaušanas instruktora sertifikātu anulē, ja:
-1) šaušanas instruktors ir pārkāpis treniņšaušanas vai šaušanas sporta sacensību noteikumus vai drošības noteikumus šautuvē;
+1) šaušanas instruktors ir pārkāpis treniņšaušanas vai šaušanas sacensību noteikumus vai drošības noteikumus šautuvē;
 2) attiecībā uz šaušanas instruktoru ir konstatēts kāds no šā likuma 23. pantā minētajiem aizliegumiem (izņemot tā 14. un 15. punktā minētos aizliegumus).
 (5) Šaušanas instruktora sertifikātu var anulēt, ja sertificēts šaušanas instruktors ir pārkāpis sporta nozari regulējošos normatīvos aktus.
 (6) Biedrība "Latvijas Sporta federāciju padome", pildot šā panta pirmajā, ceturtajā un piektajā daļā noteiktos uzdevumus, ir tiesīga izdot administratīvos aktus.

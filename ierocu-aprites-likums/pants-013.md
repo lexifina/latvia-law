@@ -16,4 +16,4 @@
 3) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot automātiskas darbības gāzes ieročus un signālieročus;
 4) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot munīciju, kas pildīta ar nervus paralizējošām gāzēm, vai tādu gāzes ieroču un signālieroču munīciju, kas satur lodi vai daudzkomponentu šāviņu izsviešanai no stobra kanāla šaujampulvera vai cita propelenta iedarbības rezultātā un var nodarīt miesas bojājumus vai izraisīt cilvēka nāvi;
 5) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot gāzes granātas, munīciju, kas pildīta ar kairinošas vai paralizējošas iedarbības vielām, un psiholoģiskas iedarbības gaismas un skaņu ierīces, kas var apdraudēt cilvēka veselību vai izraisīt viņa nāvi;
-6) izgatavot, iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot liesmu slāpētājus, kā arī ar tiem aprīkotus šaujamieročus.
+6) (izslēgts ar 18.12.2025. likumu).

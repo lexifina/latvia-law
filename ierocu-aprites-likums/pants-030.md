@@ -2,5 +2,5 @@
 (1) Valsts prezidentam un Ministru prezidentam ir tiesības par īpašiem nopelniem Latvijas labā piešķirt fiziskajai personai personisko apbalvojuma ieroci, ievērojot šā likuma 14. panta nosacījumus.
 (2) Aizsardzības ministram, iekšlietu ministram, tieslietu ministram, finanšu ministram, valsts drošības iestādes vadītājam un Korupcijas novēršanas un apkarošanas biroja priekšniekam ir tiesības par priekšzīmīgu dienesta vai darba pienākumu pildīšanu apbalvot darbiniekus ar personiskajiem apbalvojuma ieročiem, ievērojot šā likuma 14. panta nosacījumus.
 (3) Par personiskajiem apbalvojuma ieročiem var būt B, C un D kategorijas ieroči un aukstie ieroči.
-(4) Pirms personiskā apbalvojuma - vītņstobra šaujamieroča - piešķiršanas šā panta pirmajā un otrajā daļā minētās institūcijas vai personas nodrošina kontrolšāvienu izdarīšanu no attiecīgā šaujamieroča Valsts policijā.
+(4) (Izslēgta ar 18.12.2025. likumu)
 (5) Ja šā panta otrajā daļā minētās iestādes un personas vēlas pasniegt apbalvojumā dezaktivētu ieroci, šo iestāžu vai personu pārstāvamās iestādes ir tiesīgas dezaktivēt ieroci atbilstoši regulas 2015/2403 prasībām, lai saņemtu Valsts policijas izsniegtu apliecinājumu par attiecīgā ieroča dezaktivēšanu.

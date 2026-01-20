@@ -11,4 +11,4 @@ Sportam var tikt paredzēti šādi ieroči, munīcija un to sastāvdaļas:
 9) A kategorijas ekspansīvās lodes (šaujamieroča lode, kas, iekļuvusi mērķī, sadalās vai izplešas) vai lodes ar novirzītu smaguma centru;
 10) sporta šaujamieroču patronas, kuras komplektē no rūpnieciski ražotām sastāvdaļām vai pašizgatavotām skrotīm, renkuļiem un lodēm, kā arī šaujampulvera;
 11) magazīnas, kas pārsniedz 10 patronu ietilpību sportam klasificētiem A kategorijas garstobra šaujamieročiem, vai magazīnas, kas pārsniedz 20 patronu ietilpību sportam klasificētiem A kategorijas īsstobra šaujamieročiem;
-12) šāviena trokšņa slāpētāji (klusinātāji) sportam klasificētiem garstobra šaujamieročiem un ar tiem aprīkoti sportam klasificēti garstobra šaujamieroči, izņemot šāviena trokšņa slāpētājus (klusinātājus) garstobra-vītņstobra šaujamieročiem ar kalibru līdz 5,6 milimetriem, kuriem tiek izmantota munīcija ar apmales kapselēm, kā arī tad, ja šāviena izdarīšanai tiek izmantota munīcija ar samazinātu šaujampulvera daudzumu.
+12) šāviena trokšņa slāpētāji (klusinātāji) sportam klasificētiem garstobra šaujamieročiem un ar tiem aprīkoti sportam klasificēti garstobra šaujamieroči.
