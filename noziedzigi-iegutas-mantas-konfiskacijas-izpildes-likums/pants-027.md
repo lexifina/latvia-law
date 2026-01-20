@@ -4,4 +4,4 @@
 1) kādam nepamatoti nav atļauts piedalīties solīšanā vai nepareizi noraidīts kāds pārsolījums;
 2) mantu nopirkusi persona, kura nav bijusi tiesīga piedalīties izsolē;
 3) zvērināts tiesu izpildītājs vai solītājs rīkojies ļaunprātīgi.
-(3) Ja izsole atzīta par spēkā neesošu, rīko atkārtotu izsoli.
+(3) Ja izsole atzīta par spēkā neesošu, rīko atkārtotu izsoli pēc tās izsoles noteikumiem, kura atzīta par spēkā neesošu.

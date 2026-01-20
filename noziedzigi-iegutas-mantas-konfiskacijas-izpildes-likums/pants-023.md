@@ -1,6 +1,6 @@
 23. pants. Kustamās mantas pārdošana izsolē
 (1) Zvērināts tiesu izpildītājs kustamo mantu pārdod izsolē Civilprocesa likumā kustamās mantas pārdošanai izsolē noteiktajā kārtībā, ciktāl šajā likumā nav noteikts citādi.
-(2) Izsoles sludinājumā norāda pārdodamo mantu un tās sākumcenu, nodrošinājuma summu, kas iemaksājama zvērināta tiesu izpildītāja depozīta kontā, pārdošanas vietu un laiku, zvērināta tiesu izpildītāja vārdu, uzvārdu, amata vietu un depozīta konta numuru, kā arī to, ka izsole tiek rīkota izpildu lietā par noziedzīgi iegūtas mantas konfiskāciju.
-(3) Zvērināts tiesu izpildītājs par izsoli paziņo cietušajam.
-(4) Nodrošinājumu, ko iemaksājusi persona, kura nosolījusi pārdodamo mantu, ieskaita pirkuma maksā. Pārējiem izsoles dalībniekiem, izņemot pēdējo pārsolīto solītāju, iemaksāto nodrošinājumu septiņu dienu laikā pēc izsoles norises dienas izsniedz atpakaļ. Pēdējam pārsolītajam solītājam viņa iemaksāto nodrošinājumu atdod nekavējoties pēc tam, kad nosolītājs samaksājis pilnu nosolīto summu. Ja mantu pēc nenotikušas izsoles patur pēdējais pārsolītais solītājs, viņa iemaksāto nodrošinājumu ieskaita pirkuma maksā.
-(5) Izsole uzskatāma par notikušu arī tad, ja tajā piedalās tikai viens solītājs. Šādā gadījumā viņš var paturēt mantu par sākumcenu bez solīšanas.
+(2) (Izslēgta ar 18.12.2025. likumu)
+(3) Zvērināts tiesu izpildītājs par izsoli paziņo cietušajam un piedzinējam.
+(4) (Izslēgta ar 18.12.2025. likumu)
+(5) (Izslēgta ar 18.12.2025. likumu)

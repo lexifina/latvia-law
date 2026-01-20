@@ -1,3 +1,3 @@
 35. pants. Izsoles kārtība un sekas
-(1) Izsoļu dalībnieku autorizāciju nekustamā īpašuma izsolei, izsoles norisi un izsoles sekas nosaka saskaņā ar Civilprocesa likumu, ciktāl šajā likumā nav paredzēts citādi.
-(2) Nodrošinājumu, ko iemaksājusi persona, kura izsolē nopirkusi nekustamo īpašumu, ieskaita pirkuma maksā. Pārējiem izsoles dalībniekiem, izņemot pēdējo pārsolīto solītāju, viņu iemaksāto nodrošinājumu pēc izsoles noslēguma septiņu dienu laikā izsniedz atpakaļ. Pēdējam pārsolītajam solītājam viņa iemaksāto nodrošinājumu atdod nekavējoties pēc tam, kad nosolītājs samaksājis pilnu nosolīto summu. Ja mantu pēc nenotikušas izsoles patur pēdējais pārsolītais solītājs, viņa iemaksāto nodrošinājumu ieskaita pirkuma maksā.
+(1) Izsoļu dalībnieku autorizāciju nekustamā īpašuma izsolei, izsoles norisi un izsoles sekas, tai skaitā rīcību ar izsoles dalībnieku iemaksāto nodrošinājumu, nosaka saskaņā ar Civilprocesa likumu, ciktāl šajā likumā nav paredzēts citādi.
+(2) (Izslēgta ar 18.12.2025. likumu)

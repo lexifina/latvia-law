@@ -1,5 +1,5 @@
 21. pants. Kustamās mantas pārdošanas vispārīgie noteikumi
-(1) Zvērināts tiesu izpildītājs pēc saviem ieskatiem mantu pārdod vienā izsolē, nodod to tirdzniecības uzņēmumam pārdošanai pēc komisijas noteikumiem vai pārdod bez izsoles šajā likumā noteiktajā kārtībā.
+(1) Zvērināts tiesu izpildītājs pēc saviem ieskatiem mantu pārdod izsolē vai bez izsoles šajā likumā noteiktajā kārtībā.
 (2) Mantas pārdošanas sākumcena ir protokolā vai lēmumā par aresta uzlikšanu mantai norādītā vērtība vai, ja manta apķīlāta, - zvērināta tiesu izpildītāja pēc attiecīgajā apvidū esošajām cenām noteiktā mantas vērtība, bet, ja novērtēšanu veicis eksperts, - eksperta noteiktā cena.
 (3) Zvērināts tiesu izpildītājs mantu var pārdot kā vienu priekšmetu, ja ir konfiscētas vienādas lietas vai lietu kopība vai ja konfiscētās lietas ir nelietderīgi pārdot atsevišķi.
 (4) Pēc mantas pārdošanas zvērināts tiesu izpildītājs dod rīkojumu attiecīgajam publiskajam reģistram par procesa virzītāja uzliktā aresta atcelšanu, kā arī mantai reģistrēto apgrūtinājumu, aizlieguma atzīmju un ķīlas tiesību dzēšanu vai, ja ir iespējams, dzēš ķīlas, aizlieguma un apgrūtinājuma atzīmes, tai skaitā atzīmi par aresta uzlikšanu mantai, tiešsaistes režīmā.

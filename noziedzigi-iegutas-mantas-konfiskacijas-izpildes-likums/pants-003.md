@@ -1,2 +1,2 @@
-3. pants. Nolēmuma par mantas konfiskācijas izpildi noilgums
-Nolēmumam par mantas konfiskācijas izpildi nav noilguma.
+3. pants. Nolēmumu par mantas konfiskāciju izpildes noilgums
+Nolēmumu par mantas konfiskāciju un par mantas konfiskāciju noziedzīgi iegūtu līdzekļu apmērā izpildei nav noilguma.
