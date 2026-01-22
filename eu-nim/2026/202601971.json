@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 22. janvāra rīkojums Nr. 24 \"Par Latvijas ilgtspējīgas enerģijas tehnoloģiju attīstības plānu līdz 2035. gadam\"",
+  "type_of_act": "Ministru kabineta rīkojums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "17",
+  "official_journal_page": null,
+  "official_journal_date": "2026-01-26",
+  "entry_into_force": "2026-01-22",
+  "notification_date": "2026-03-25",
+  "commission_reference": "MNE(2026)01971",
+  "nim_celex": "72023L1791LVA_202601971",
+  "nim_id": "202601971",
+  "transposes_celex": [
+    "32023L1791"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/76bd0d1c-138f-4989-b440-04b1865b009a",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
