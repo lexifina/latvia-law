@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2026. gada 29. janvāra Ministru kabineta rīkojums Nr. 35 “Smalko daļiņu, amonjaka, slāpekļa oksīdu, gaistošo organisko savienojumu un sēra dioksīda emisiju samazināšanas plāns 2026.‒2030. gadam”",
+  "type_of_act": "Administratīvie pasākumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "2026/23.3",
+  "official_journal_page": null,
+  "official_journal_date": "2026-02-03",
+  "entry_into_force": "2026-01-29",
+  "notification_date": "2026-02-10",
+  "commission_reference": "MNE(2026)01048",
+  "nim_celex": "72016L2284LVA_202601048",
+  "nim_id": "202601048",
+  "transposes_celex": [
+    "32016L2284"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/3eda44d0-61fc-4df8-8e40-791bdee5e7eb",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
