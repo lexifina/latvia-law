@@ -1,0 +1,1 @@
+8. Pacients, kuram atteikts izskatīt iesniegumu par atlīdzību no Ārstniecības riska fonda, jo tas iesniegts pēc šā likuma 16. panta piektajā daļā noteikto termiņu beigām, līdz 2026. gada 1. jūlijam var iesniegt atkārtotu iesniegumu par atlīdzības izmaksu, lūdzot atjaunot nokavēto procesuālo termiņu.

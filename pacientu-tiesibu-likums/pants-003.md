@@ -5,4 +5,4 @@
 (4) Aizliegts sodīt pacientu vai citādi tieši vai netieši radīt viņam nelabvēlīgus apstākļus, ja pacients aizstāv savas tiesības.
 (5) Pacientam un viņa tuviniekiem ir tiesības saņemt garīgo aprūpi, kuru saskaņā ar kapelānu dienestu un reliģisko organizāciju darbību regulējošiem normatīvajiem aktiem sniedz ārstniecības iestādes kapelāns.
 (6) Veselības aprūpe pret pacienta gribu nav pieļaujama, ja likumā nav noteikts citādi.
-(7) Ārstniecības iestādei ir pienākums sistēmiski un sistemātiski veicināt pacientu tiesību ievērošanu, rūpēties par pacientu tiesību aizsardzību un īstenošanu ikvienā veselības aprūpes situācijā. Stacionārā ārstniecības iestāde un daudzprofila ambulatorā iestāde izstrādā pacientu tiesību īstenošanas plānu un nodrošina tā izpildi.
+(7) Ārstniecības iestādei ir pienākums sistēmiski un sistemātiski veicināt pacientu tiesību ievērošanu, rūpēties par pacientu tiesību aizsardzību un īstenošanu ikvienā veselības aprūpes situācijā. Stacionārā ārstniecības iestāde un daudzprofilu ambulatorā ārstniecības iestāde izstrādā pacientu tiesību īstenošanas plānu un nodrošina tā izpildi.
