@@ -1,2 +1,2 @@
-68.¹ pants. Velorikšu un elektroskrejriteņu tehniskā stāvokļa un aprīkojuma nosacījumu pārkāpšana
-Par to noteikumu pārkāpšanu, kuri paredz prasības attiecībā uz velorikšu un elektroskrejriteņu tehnisko stāvokli vai ražotāja noteiktiem tehniskajiem parametriem, piemēro naudas sodu velorikšu un elektroskrejriteņu vadītājiem no desmit līdz piecdesmit naudas soda vienībām.
+68.¹ pants. Pašgājēju velosipēdu, velorikšu un elektroskrejriteņu tehniskā stāvokļa un aprīkojuma nosacījumu pārkāpšana
+Par to noteikumu pārkāpšanu, kuri paredz prasības attiecībā uz pašgājēju velosipēdu, velorikšu un elektroskrejriteņu tehnisko stāvokli vai ražotāja noteiktiem tehniskajiem parametriem, piemēro naudas sodu pašgājēju velosipēdu, velorikšu un elektroskrejriteņu vadītājiem no desmit līdz piecdesmit naudas soda vienībām.
