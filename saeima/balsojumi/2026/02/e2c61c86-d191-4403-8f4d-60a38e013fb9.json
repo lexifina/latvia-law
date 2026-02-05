@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 4,
+ "datums": "2026-02-05",
+ "ieraksts": {
+  "dkp_id": "77dc5597-91b2-40f7-bd4a-e80a32a1ab76",
+  "lastmodtime": "\"AAAAAAJ7XMw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Ričards#Edmunds#Maija#Agnese#Jana#Ligita#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Nataļja#Jānis#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Viktorija#Edgars#Linda#Andrejs#Ināra#Gunārs#Igors#Raimonds#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Šnore#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Šlesers#Zivtiņš#Armaņeva#Krasta#Simanovska#Gintere#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Marčenko-Jodko#Dinevičs#Zariņš#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Kūtris#Judins#Bergmanis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#############################################################################",
+  "FRACTION": "NA#PRO# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS#NA#PRO#JV#JV#ST!# #PRO#NA#ZZS#ZZS#LPV#LPV#LPV#JV#PRO#ZZS#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ST!#ZZS#JV# #JV#ST!#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV# #AS#AS#JV#NA#ZZS# #AS#PRO#PRO#LPV#JV#AS#LPV# #JV#PRO#JV#JV#AS",
+  "RESULT": "Nebalsoja#Pret#Pret#Pret#Pret#Pret#Par#Nebalsoja#Pret#Par#Par#Par#Nebalsoja#Pret#Atturas#Pret#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Par#Par#Par#Par#Par#Atturas#Pret#Par#Par#Atturas#Par#Atturas#Nebalsoja#Atturas#Par#Atturas#Pret#Par#Atturas#Par#Par#Par#Nebalsoja#Pret#Pret#Atturas#Pret#Nebalsoja#Atturas#Par#Par#Nebalsoja#Pret#Pret#Atturas#Par#Par#Atturas#Par#Par#Par#Pret#Nebalsoja#Par#Nebalsoja#Par#Pret#Pret#Par#Atturas#Par#Par#Par#Atturas#Pret#Atturas#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "05.02.2026 17:17:01",
+  "VOTEMOTIVE": " Par nodošanu Ārlietu komisijai . Par Amerikas Savienoto Valstu prezidenta Donalda Trampa kandidatūras atbalstīšanu Nobela miera prēmijas piešķiršanai (895/Lm14)",
+  "VOTING_ID": "e2c61c86-d191-4403-8f4d-60a38e013fb9",
+  "VOTERESULT_ABSTAIN": "15",
+  "VOTERESULT_AGAINST": "20",
+  "VOTERESULT_FOR": "31",
+  "VOTERESULT_REGISTERED": "78",
+  "VOTE_NUMBER": "7",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/392e7112-a62d-4fe3-b9b5-4b9cf0aee7b2/download/14.saeimas-2026.gada-ziemas-sesija-4-vote.xml",
+  "sha256": "4b5d281ba9f57ccacead7ab2d5786c104b92efa36aa94af74a628640012db6e1",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
