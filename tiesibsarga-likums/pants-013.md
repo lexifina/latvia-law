@@ -16,4 +16,6 @@ Pildot šajā likumā noteiktās funkcijas un uzdevumus, tiesībsargam ir tiesī
 11) pamatojoties uz viņa rīcībā esošajiem materiāliem, vērsties pie citām kompetentām institūcijām, lai izlemtu jautājumu par lietas ierosināšanu;
 12) piedalīties ar padomdevēja tiesībām Ministru kabineta sēdēs;
 13) sniegt ieteikumus jautājumos, kas saistīti ar izturēšanos pret personām, kuras uzturas brīvības ierobežošanas vietās, kā arī par nepieciešamajiem pilnveidojumiem attiecībā uz uzturēšanās apstākļu uzlabošanu šajās vietās un citus ieteikumus privātpersonas cilvēktiesību aizsardzībai, kā arī saņemt informāciju par attiecīgo ieteikumu ieviešanas rezultātiem un ar to saistīto informāciju;
-14) saņemt tiesu informatīvajā sistēmā esošo informāciju par tiesvedības gaitu un tiesu nolēmumus personu iesniegumu un pārbaudes lietu izskatīšanai, kā arī pētījumu, situāciju analīzes veikšanai un atzinumu sniegšanai.
+14) saņemt tiesu informatīvajā sistēmā esošo informāciju par tiesvedības gaitu un tiesu nolēmumus personu iesniegumu un pārbaudes lietu izskatīšanai, kā arī pētījumu, situāciju analīzes veikšanai un atzinumu sniegšanai;
+15) pieprasīt un piekļūt mākslīgā intelekta sistēmu dokumentācijai, kas nepieciešama pārbaudes lietā;
+16) iesniegt tirgus uzraudzības iestādei atbilstoši tās kompetencei pamatotu pieprasījumu organizēt mākslīgā intelekta sistēmas testēšanu ar tehniskiem līdzekļiem, ja dokumentācija, kas nepieciešama pārbaudes lietā, nav pietiekama.
