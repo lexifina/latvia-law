@@ -14,4 +14,4 @@
 12) paredzamais ārpustiesas strīdu risināšanas ilgums;
 13) ārpustiesas strīdu risināšanas rezultāta tiesiskās sekas, tai skaitā ārpustiesas strīdu risinātāja noteiktā strīda risinājuma neizpildes sekas, ja risinājumam attiecībā uz strīda pusēm ir saistošs spēks;
 14) ārpustiesas strīdu risinātāja lēmuma izpildāmība, ja tas ir attiecināms.
-(2) Ārpustiesas strīdu risinātājs savā mājaslapā internetā publicē Eiropas Savienības ārpustiesas strīdu risinātāju sarakstu, vienlaikus norādot Eiropas Komisijas mājaslapu, kurā attiecīgais saraksts ir pieejams.
+(2) (Izslēgta ar 05.02.2026. likumu)

@@ -1,6 +1,6 @@
 5.pants. Ārpustiesas strīdu risināšanas pieejamība
 (1) Ārpustiesas strīdu risinātājam, kas izskata strīdus attiecīgajā jomā, ir pienākums pieņemt patērētāja iesniegumu par strīdu un izskatīt to, ja šajā likumā vai citos ārpustiesas strīdu risināšanu regulējošos normatīvajos aktos nav noteikts citādi.
-(2) Ārpustiesas strīdu risinātājam ir pienākums izskatīt pārrobežu strīdus, tai skaitā strīdus, uz kuriem attiecas Eiropas Parlamenta un Padomes 2013.gada 21.maija regula 524/2013 (EK) par patērētāju strīdu izšķiršanu tiešsaistē.
+(2) Ārpustiesas strīdu risinātājam ir pienākums izskatīt pārrobežu strīdus.
 (3) Ja citos ārpustiesas strīdu risināšanu regulējošos normatīvajos aktos nav noteikts citādi, ārpustiesas strīdu risinātājs atsakās izskatīt strīdu šādos gadījumos:
 1) patērētājs pirms iesnieguma iesniegšanas ārpustiesas strīdu risinātājam nav vērsies ar iesniegumu pie pārdevēja vai pakalpojuma sniedzēja, lai apspriestu savu prasījumu un mēģinātu vispirms lietu atrisināt pārrunu ceļā;
 2) strīdu izskata vai ir izskatījis cits ārpustiesas strīdu risinātājs vai tiesa;
