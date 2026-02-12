@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 8,
+ "datums": "2026-02-12",
+ "ieraksts": {
+  "dkp_id": "175e085b-7798-4b62-8603-89c5cd1d7cfa",
+  "lastmodtime": "\"AAAAAAJ8TN8=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Liene#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Uldis#Didzis#Ričards#Edmunds#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Jānis#Alīna#Jekaterina#Ilze#Nauris#Jānis#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Nataļja#Jānis#Viesturs#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Viktorija#Edgars#Andrejs#Ināra#Jānis#Gunārs#Edgars#Leila#Ramona#Linda#Anda#Aleksandrs#Jānis#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Gātere#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Augulis#Zemmers#Šlesers#Zivtiņš#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Marčenko-Jodko#Dinevičs#Zariņš#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Judins#Mūrniece#Vucāns#Kūtris#Putra#Rasima#Petraviča#Liepiņa#Čakša#Kiršteins#Skrastiņš#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": " #NA#PRO#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS#NA#PRO#JV#JV#ST!# #PRO#ZZS#ZZS#LPV#LPV#NA#LPV#JV#PRO#ZZS#JV#NA#JV# #JV#NA#JV#JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ZZS#JV#JV#ST!#JV#ZZS#NA#NA#JV#PRO#JV#AS#JV#AS# #AS#JV#NA#ZZS#ZZS#AS#PRO#LPV#LPV#JV# #JV#JV#JV",
+  "RESULT": "Pret#Par#Pret#Atturas#Pret#Atturas#Pret#Pret#Par#Par#Nebalsoja#Par#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Par#Par#Par#Par#Pret#Atturas#Atturas#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Atturas#Pret#Atturas#Par#Atturas#Atturas#Pret#Atturas#Pret#Pret#Pret#Pret#Atturas#Par#Par#Pret#Atturas#Pret#Nebalsoja#Pret#Nebalsoja#Par#Par#Pret#Par#Atturas#Atturas#Par#Atturas#Par#Par#Pret#Nebalsoja#Pret#Nebalsoja#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.02.2026 13:35:23",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.10. Kuldīgas vecpilsētas saglabāšanas un aizsardzības likums (1133/Lp14), 3.lasījums",
+  "VOTING_ID": "2ca0352d-ba8c-4261-92e4-51584b34d42a",
+  "VOTERESULT_ABSTAIN": "16",
+  "VOTERESULT_AGAINST": "31",
+  "VOTERESULT_FOR": "20",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "20",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/7db806f2-09b4-4199-88e3-9b14fed7fc7d/download/14.saeimas-2026.gada-ziemas-sesija-8-vote.xml",
+  "sha256": "52a71b431536112a75b04d695dc272f84fc282889f8c82ed157bffa9d75abff1",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
