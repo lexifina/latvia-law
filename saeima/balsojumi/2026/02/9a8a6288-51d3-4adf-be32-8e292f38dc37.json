@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 4,
+ "datums": "2026-02-12",
+ "ieraksts": {
+  "dkp_id": "cc2e5674-da76-411f-a08f-936cd824280b",
+  "lastmodtime": "\"AAAAAAJ7kv8=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Selma Teodora#Edmunds#Didzis#Andris#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Gunārs#Edgars#Raimonds#Leila#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Levrence#Teirumnieks#Zemmers#Kulbergs#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Kūtris#Putra#Bergmanis#Rasima#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS#ST!#JV#LPV#LPV#ZZS# #NA#PRO#JV#JV#ST!#PRO#NA#ZZS#AS#LPV#AS#LPV#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ST!#ZZS# #JV# #JV#ST!#AS#JV#ZZS#NA#NA#JV#PRO#JV#AS#JV# #AS#AS#JV#NA#ZZS#ZZS#AS#AS#PRO#ZZS#LPV#JV#AS#LPV#JV#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "12.02.2026 09:15:34",
+  "VOTEMOTIVE": "Par Latvijas Republikas valdības un Lihtenšteinas Firstistes valdības konvenciju par nodokļu dubultās uzlikšanas novēršanu attiecībā uz ienākuma un kapitāla nodokļiem un par ļaunprātīgas izvairīšanās no nodokļu maksāšanas ... (1152/Lp14), 2.lasījums",
+  "VOTING_ID": "9a8a6288-51d3-4adf-be32-8e292f38dc37",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "89",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/392e7112-a62d-4fe3-b9b5-4b9cf0aee7b2/download/14.saeimas-2026.gada-ziemas-sesija-4-vote.xml",
+  "sha256": "4b5d281ba9f57ccacead7ab2d5786c104b92efa36aa94af74a628640012db6e1",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
