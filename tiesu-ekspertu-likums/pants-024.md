@@ -8,7 +8,7 @@
 3) tiesu eksperts nav izpildījis šā likuma 14.panta otrās daļas 11. punktā noteikto.
 (3) Tiesu ekspertu padome lemj par tiesu eksperta sertifikāta darbības atjaunošanu, ja ir zudis tiesu eksperta sertifikāta darbības apturēšanas pamats un nav pārsniegts šā panta pirmajā un otrajā daļā noteiktais tiesu eksperta sertifikāta apturēšanas ilgums. Lēmumu pieņem, pamatojoties uz tiesu eksperta iesniegumu.
 (4) Tiesu ekspertu padome izbeidz tiesu eksperta sertifikāta darbību, ja:
-1) uz tiesu ekspertu ir attiecināms šā likuma 6.panta trešās daļas 2., 3., 4., 5. vai 7.punkts;
+1) uz tiesu ekspertu ir attiecināms šā likuma 6. panta trešās daļas 2., 3. vai 5. punkts;
 2) tiesu ekspertam tiesu medicīnas eksperta specialitātē un tiesu psihiatrijas eksperta specialitātē ir beidzies attiecīgā ārstniecības personas sertifikāta derīguma termiņš;
 3) tiesu eksperta sertifikāta darbības apturēšanas termiņš ir pārsniedzis divus gadus;
 4) tiesu eksperts ir iesniedzis iesniegumu par sertifikāta darbības izbeigšanu;
@@ -16,4 +16,4 @@
 6) tiesu ekspertam piemērots disciplinārsods - tiesu eksperta tiesību atņemšana.
 (5) Termiņu, uz kuru tiesu eksperta sertifikāta darbība apturēta, ieskaita tiesu eksperta sertifikāta derīguma termiņā.
 (6) Persona, kuras tiesu eksperta sertifikāta darbība izbeigta, var pretendēt uz jauna tiesu eksperta sertifikāta iegūšanu, ja tiesu eksperta sertifikāta darbība izbeigta, pamatojoties uz šā panta ceturtās daļas 2., 3. un 4.punktu.
-(7) Tiesu ekspertu padome, konstatējusi šajā likumā noteikto pārkāpumu tiesu medicīnas eksperta vai tiesu psihiatrijas eksperta rīcībā, ir tiesīga iesniegt Latvijas Ārstu biedrībai priekšlikumu par attiecīgās ārstniecības personas sertifikāta anulēšanu tiesu medicīnas eksperta pamatspecialitātē vai tiesu psihiatrijas eksperta apakšspecialitātē.
+(7) Tiesu ekspertu padome, konstatējusi šajā likumā noteikto pārkāpumu tiesu medicīnas eksperta vai tiesu psihiatrijas eksperta rīcībā, ir tiesīga iesniegt Latvijas Ārstu biedrībai priekšlikumu par attiecīgās ārstniecības personas sertifikāta anulēšanu tiesu medicīnas eksperta pamatspecialitātē vai tiesu psihiatrijas eksperta papildspecialitātē.
