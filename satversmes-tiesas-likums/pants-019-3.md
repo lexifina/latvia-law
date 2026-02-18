@@ -1,4 +1,4 @@
 19.³ pants. Pieteikuma iesniegšanas termiņš atsevišķās lietās
-(1) Pieteikumu par lietas ierosināšanu attiecībā uz likumu par konkrēta nekustamā īpašuma piespiedu atsavināšanu sabiedrības vajadzībām Satversmes tiesai var iesniegt sešu mēnešu laikā pēc attiecīgā likuma spēkā stāšanās dienas.
-(2) Pieteikumu par lietas ierosināšanu attiecībā uz vietējās pašvaldības teritorijas plānojumu vai lokālplānojumu Satversmes tiesai var iesniegt sešu mēnešu laikā pēc attiecīgo saistošo noteikumu spēkā stāšanās dienas. Persona pieteikumu par lietas ierosināšanu var iesniegt, ievērojot Teritorijas attīstības plānošanas likumā noteikto teritorijas plānojuma vai lokālplānojuma pārsūdzēšanas kārtību.
+(1) Pieteikumu attiecībā uz likumu par konkrēta nekustamā īpašuma piespiedu atsavināšanu sabiedrības vajadzībām Satversmes tiesai var iesniegt sešu mēnešu laikā pēc attiecīgā likuma spēkā stāšanās dienas.
+(2) Pieteikumu attiecībā uz vietējās pašvaldības teritorijas plānojumu vai lokālplānojumu Satversmes tiesai var iesniegt sešu mēnešu laikā pēc attiecīgo saistošo noteikumu spēkā stāšanās dienas. Persona pieteikumu var iesniegt, ievērojot Teritorijas attīstības plānošanas likumā noteikto teritorijas plānojuma vai lokālplānojuma pārsūdzēšanas kārtību.
 (3) Šā panta pirmā un otrā daļa neattiecas uz gadījumu, kad pieteikumu iesniedz šā likuma 19.¹ pantā noteiktajā kārtībā.

@@ -8,8 +8,8 @@
 6) Valsts kontroles padomei;
 7) pašvaldības domei;
 8) tiesībsargam, ja institūcija vai amatpersona, kas izdevusi apstrīdēto aktu, nav tiesībsarga norādītajā termiņā novērsusi konstatētos trūkumus;
-9) tiesai, izskatot civillietu, krimināllietu vai administratīvo lietu;
-10) zemesgrāmatu nodaļas tiesnesim, veicot nekustamā īpašuma ierakstīšanu vai ar to saistīto tiesību nostiprināšanu zemesgrāmatā;
+9) tiesai, izskatot lietu;
+10) (izslēgts ar 22.01.2026. likumu);
 11) personai Satversmē noteikto pamattiesību aizskāruma gadījumā;
 12) Tieslietu padomei likumā noteiktās kompetences ietvaros.
 (2) Tiesības iesniegt pieteikumu par lietas ierosināšanu par citu Saeimas, Ministru kabineta, Valsts prezidenta, Saeimas priekšsēdētāja un Ministru prezidenta aktu, izņemot administratīvos aktus, atbilstību likumam (16.panta 4.punkts) ir:

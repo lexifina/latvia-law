@@ -1,2 +1,2 @@
 IV nodaļa
-Satversmes tiesas tiesneša statuss
+Satversmes tiesas tiesneša amata garantijas, ierobežojumi un atbildība

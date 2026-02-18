@@ -1,0 +1,5 @@
+26.¹ pants. Tiesvedības apturēšana
+(1) Satversmes tiesa aptur tiesvedību lietā, ja tā nolemj uzdot Eiropas Savienības Tiesai jautājumu par Eiropas Savienības tiesību normas spēkā esamību vai interpretāciju vai lūgt starptautiskas tiesas konsultatīvu atzinumu.
+(2) Satversmes tiesa aptur tiesvedību lietā, ja tās izskatīšana nav iespējama, iekams nav pieņemts starptautiskas tiesas konsultatīvais atzinums vai stājies spēkā Eiropas Savienības Tiesas vai starptautiskas tiesas nolēmums, kas pieņemts, lai prejudiciālā nolēmuma tiesvedībā sniegtu atbildes uz Satversmes tiesas uzdotajiem jautājumiem citā Satversmes tiesas tiesvedībā esošā lietā.
+(3) Stadijā, kurā lieta tiek sagatavota izskatīšanai, Satversmes tiesa šā panta pirmajā vai otrajā daļā minēto lēmumu pieņem rīcības sēdē pilnā tiesas sastāvā.
+(4) Pēc tam, kad pieņemts starptautiskās tiesas konsultatīvais atzinums vai stājies spēkā šajā pantā minētais Eiropas Savienības Tiesas nolēmums, Satversmes tiesa pieņem lēmumu atjaunot tiesvedību attiecīgajā lietā.

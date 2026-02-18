@@ -10,7 +10,7 @@
 (3) Iesniegumam par Satversmes tiesas tiesneša kandidatūru pievienojami šādi Satversmes tiesas tiesneša amata kandidāta parakstīti dokumenti:
 1) piekrišana kandidēt Satversmes tiesas tiesneša amatam;
 2) apliecinājums, ka uz viņu neattiecas likuma "Par tiesu varu" 55.pantā minētie ierobežojumi.
-(4) Satversmes tiesas tiesnešu kandidatūras ne vēlāk kā piecu dienu laikā pēc to iesniegšanas Saeimas Prezidijam publicējamas laikrakstā "Latvijas Vēstnesis", norādot:
+(4) Satversmes tiesas tiesnešu kandidatūras ne vēlāk kā piecu dienu laikā pēc to iesniegšanas Saeimas Prezidijam publicējamas oficiālajā izdevumā "Latvijas Vēstnesis", norādot:
 1) kandidatūru iesniedzējus;
 2) šādas ziņas par katru Satversmes tiesas tiesneša amata kandidātu:
 a) vārds, uzvārds,

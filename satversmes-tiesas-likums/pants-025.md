@@ -9,4 +9,4 @@
 (2) Lietas, kuras nav minētas šā panta pirmajā daļā, tiek izskatītas triju tiesnešu sastāvā, ja Satversmes tiesa nav lēmusi citādi.
 (3) Ja Satversmes tiesa lietu izskata pilnā sastāvā, tajā ir visi Satversmes tiesas tiesneši, kurus veselības stāvoklis vai citi objektīvi apstākļi nekavē piedalīties tiesas sēdē. Tiesas sastāvā šajā gadījumā nedrīkst būt mazāk par pieciem Satversmes tiesas tiesnešiem. Sēdi vada Satversmes tiesas priekšsēdētājs vai viņa vietnieks.
 (4) Ja Satversmes tiesa lietu izskata triju tiesnešu sastāvā, šos tiesnešus nosaka Satversmes tiesas priekšsēdētājs Satversmes tiesas reglamentā noteiktajā kārtībā. Ja tiesas sastāvā nav ne Satversmes tiesas priekšsēdētāja, ne viņa vietnieka, tiesas sēdes priekšsēdētāju šie tiesneši ievēlē no sava vidus rīcības sēdē.
-(5) Satversmes tiesas tiesnešiem nevar pieteikt noraidījumu.
+(5) (Izslēgta ar 22.01.2026. likumu)
