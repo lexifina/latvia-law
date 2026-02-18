@@ -1,0 +1,3 @@
+36. pants. Datu subjekta piekļuves tiesību ierobežošana
+(1) Pārvalde nenodrošina ieslodzītā piekļuves tiesības saviem personas datiem, kurus iegūst un apstrādā risku un vajadzību izvērtēšanas procesā un atlases dalībai resocializācijas programmā, kā arī informācijai un personas datiem, kas var apdraudēt drošību ieslodzījuma vietā, ieslodzītā vai citu personu drošību, veselību vai dzīvību.
+(2) Ja personas datus apstrādā pētniecības nolūkos, kas norādīti šā likuma 9. panta otrajā daļā, datu subjekta tiesības piekļūt saviem personas datiem, tos labot, ierobežot personas datu apstrādi un iebilst pret personas datu apstrādi var tikt ierobežotas, ciktāl tās var neļaut vai būtiski traucēt konkrēto nolūku sasniegšanu, ja atkāpes šādā gadījumā ir vajadzīgas.

@@ -1,0 +1,2 @@
+37. pants. Ieslodzītā īpašu kategoriju personas datu apstrāde
+Lai nodrošinātu apcietinājuma un brīvības atņemšanas soda izpildi, notiesāto resocializāciju, apcietināto sociālo rehabilitāciju, garīgo aprūpi, kā arī veselības aprūpi, Pārvalde sistēmā apstrādā ieslodzītā veselības datus, personas datus, kas atklāj ieslodzītā reliģisko vai filozofisko pārliecību un politiskos uzskatus, kā arī datus par ieslodzītā dzimumdzīvi un seksuālo orientāciju.
