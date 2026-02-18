@@ -39,12 +39,12 @@ Civilās aviācijas aģentūra var izdot administratīvos aktus par aizliegumu v
 Civilās aviācijas aģentūra Valsts pārvaldes iekārtas likumā noteiktajā kārtībā privātpersonai ar līgumu var deleģēt ultravieglo gaisa kuģu ekspluatācijas uzraudzību, ultravieglo gaisa kuģu pilotu un tehniskās apkopes personāla sertificēšanu un motoparaplānu un motodeltaplānu reģistrāciju.
 Valsts robežsardze:
 1) pārbauda vispārējās nozīmes aviācijas gaisa kuģu lidojumu veikšanai nepieciešamo dokumentāciju un civilās aviācijas gaisa kuģa apkalpes atbilstību lidojumu veikšanai;
-1¹) veic bezpilota gaisa kuģu lidojumu kontroli infrastruktūras objektos, kuri tiek izmantoti Valsts robežsardzes vajadzībām, un gaisa telpas struktūras elementos, kuri izveidoti Valsts robežsardzes vajadzībām;
-2) veic administratīvā pārkāpuma procesu savas kompetences ietvaros par pārkāpumiem civilās aviācijas jomā.
+1¹) veic bezpilota gaisa kuģu lidojumu kontroli infrastruktūras objektos, kuri tiek izmantoti Valsts robežsardzes vajadzībām, ģeogrāfiskajās zonās un gaisa telpas struktūras elementos, kuri izveidoti Valsts robežsardzes vajadzībām;
+2) veic administratīvā pārkāpuma procesu savas kompetences ietvaros par pārkāpumiem civilās aviācijas un bezpilota gaisa kuģu jomā.
 Valsts policija:
 1) veic bezpilota gaisa kuģu lidojumu kontroli saistībā ar sabiedriskās kārtības un drošības ievērošanu;
 2) atbilstoši kompetencei veic administratīvā pārkāpuma procesu par pārkāpumiem civilās aviācijas drošības un bezpilota gaisa kuģu jomā.
-Militārā policija atbilstoši kompetencei veic administratīvā pārkāpuma procesu par pārkāpumiem bezpilota gaisa kuģu jomā militārajos objektos, kurus izmanto Nacionālie bruņotie spēki Nacionālo bruņoto spēku likumā noteikto uzdevumu pildīšanai, un gaisa telpas struktūras elementos, kuri izveidoti Nacionālo bruņoto spēku vajadzībām.
+(Devītā daļa izslēgta ar 22.01.2026. likumu)
 Biedrība "Latvijas Izpletņlēkšanas federācija" veic izpletņlēcēju sertificēšanu un uzraudzību, izsniedz un anulē izpletņlēcēju apliecības.
 Biedrība "Latvijas Paraplanierisma federācija" veic paraplānu, motoparaplānu un šasijas motoparaplānu (turpmāk - paraplāni) pilotu un vinčas operatoru sertificēšanu un uzraudzību, izsniedz un anulē paraplānu pilotu un vinčas operatoru apliecības.
 Biedrība "Latvijas Izpletņlēkšanas federācija", pildot šā panta desmitajā daļā minētos uzdevumus, ir Civilās aviācijas aģentūras pārraudzībā.
