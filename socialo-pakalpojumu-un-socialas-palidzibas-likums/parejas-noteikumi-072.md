@@ -1,0 +1,1 @@
+72. Laikposmā no 2026. gada 1. marta līdz 30. jūnijam pašvaldības darbiniekam, kurš iesaistīts šā likuma pārejas noteikumu 71. punkta izpildes nodrošināšanā un veicis papildu darbu, pašvaldība var noteikt piemaksu līdz 30 procentiem no viņam noteiktās mēnešalgas.

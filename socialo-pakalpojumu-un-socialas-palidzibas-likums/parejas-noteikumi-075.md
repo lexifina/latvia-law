@@ -1,0 +1,1 @@
+75. Ministru kabinets pēc Labklājības ministrijas pieprasījuma pieņem lēmumu par finansējuma piešķiršanu no valsts budžeta programmas 02.00.00 "Līdzekļi neparedzētiem gadījumiem" ieskaitīšanai Labklājības ministrijas pamatbudžeta programmā 99.00.00 "Līdzekļu neparedzētiem gadījumiem izlietojums" šā likuma pārejas noteikumu 73. punktā noteiktā atbalsta izdevumu segšanai.
