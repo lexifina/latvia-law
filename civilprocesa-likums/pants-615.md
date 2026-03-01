@@ -5,7 +5,7 @@
 (3) Ja vairākas personas vēlas paturēt nekustamo īpašumu sev, rīkojama izsole, kurā piedalās šīs personas, turklāt solīšana sākas no nenotikušās izsoles sākumcenas. Par izsoles laiku un vietu tiesu izpildītājs personām, kuras vēlas paturēt nekustamo īpašumu sev, rakstveidā paziņo septiņas dienas iepriekš. Personas neierašanās uz izsoli tiek uzskatīta par atteikšanos no tiesībām piedalīties solīšanā. Ja uz izsoli ierodas viena persona, tā var paturēt sev nekustamo īpašumu par rīkotās izsoles sākumcenu. Ja uz izsoli neierodas neviens, tiesu izpildītājs nekavējoties izsludina otru izsoli.
 (3¹) Persona, uz kuru attiecināmas sankcijas, nevar paturēt nekustamo īpašumu, ja īpašuma iegūšana nav savienojama ar ierobežojumiem, kas tai noteikti ar sankcijām.
 (4) Persona, kas patur sev nekustamo īpašumu, viena mēneša laikā iemaksā tiesu izpildītāja depozīta kontā:
-1) šā likuma 34.panta pirmās daļas 15.punktā noteikto valsts nodevu par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda;
+1) šā likuma 3. pielikuma 2. punkta ievaddaļā noteikto valsts nodevu par pieteikumu par nekustamā īpašuma nostiprināšanu uz ieguvēja vārda;
 2) valsts un kancelejas nodevu, kāda normatīvajā aktā noteikta īpašuma tiesību nostiprināšanai zemesgrāmatā;
 3) šā panta pirmajā, otrajā vai trešajā daļā norādīto summu;
 4) pievienotās vērtības nodokli, ja izsoles cena apliekama ar pievienotās vērtības nodokli, atbilstoši tiesu izpildītāja sastādītajam aprēķinam (631.panta trešā daļa) un ņemot vērā šā likuma 612.panta noteikumus.

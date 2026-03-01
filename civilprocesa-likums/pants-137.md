@@ -10,7 +10,8 @@
 5) prasības priekšmets;
 6) mantiska rakstura prasībās - prasības summa;
 7) prasības nodrošinājuma vai pagaidu aizsardzības līdzeklis, kuru prasītājs lūdz piemērot;
-8) apstākļi, ar kuriem prasītājs pamato prasības nodrošināšanas vai pagaidu aizsardzības nepieciešamību.
+8) apstākļi, ar kuriem prasītājs pamato prasības nodrošināšanas vai pagaidu aizsardzības nepieciešamību;
+9) zvērināts notārs, kurš taisījis notariālo aktu par aizgādību vai saskarsmes tiesībām, un notariālā akta datums un reģistra numurs, ja ir noslēgts Notariāta likuma D¹ sadaļā noteiktajā kārtībā izpildāms notariālais akts par aizgādību vai saskarsmes tiesībām.
 (5) Pieteikumam pievienojami pierādījumi, kas apstiprina apstākļus, ar kuriem pamatota prasības nodrošināšanas vai pagaidu aizsardzības nepieciešamība.
 (6) Jautājumu par prasības nodrošināšanu vai pagaidu aizsardzību pieļaujams izskatīt jebkurā procesa stadijā, kā arī pirms prasības celšanas tiesā.
 (7) Pieteikumu par prasības nodrošināšanu vai pagaidu aizsardzību, ja prasība izskatāma šķīrējtiesā, iesniedz rajona (pilsētas) tiesā pēc parādnieka vai tā mantas atrašanās vietas.
