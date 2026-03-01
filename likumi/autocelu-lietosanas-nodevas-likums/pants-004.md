@@ -3,6 +3,6 @@
 (2) Nodevas dienas likmes samaksa dod tiesības lietot valsts galvenos un reģionālos autoceļus 24 stundas no nodevas maksātāja norādītā autoceļu lietošanas sākuma laika.
 (3) Nodevas nedēļas likmes samaksa dod tiesības lietot valsts galvenos un reģionālos autoceļus septiņas nepārtrauktas diennaktis, ieskaitot nodevas maksātāja norādīto autoceļu lietošanas sākuma datumu.
 (4) Nodevas mēneša likmes samaksa dod tiesības lietot valsts galvenos un reģionālos autoceļus 30 nepārtrauktas diennaktis, ieskaitot nodevas maksātāja norādīto autoceļu lietošanas sākuma datumu.
-(4¹) Nodevas deviņu mēnešu likmes samaksa dod tiesības lietot valsts galvenos un reģionālos autoceļus 270 nepārtrauktas diennaktis, ieskaitot nodevas maksātāja norādīto autoceļu lietošanas sākuma datumu.
+(4¹) (Izslēgta ar 22.01.2026. likumu)
 (5) Nodevas gada likmes samaksa dod tiesības lietot valsts galvenos un reģionālos autoceļus vienu nepārtrauktu gadu no nodevas maksātāja norādītā autoceļu lietošanas sākuma datuma.
 (6) Ja nav zināms transportlīdzekļa motora izmešu līmenis vai nav transportlīdzekļa izgatavotāja vai izgatavotāja pārstāvja izsniegta apliecinājuma transportlīdzekļa motora izmešu atbilstībai noteiktam līmenim, nodevu maksā atbilstoši "EURO 0" līmenim noteiktajām likmēm.
