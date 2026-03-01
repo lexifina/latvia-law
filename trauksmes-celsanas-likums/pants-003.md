@@ -13,21 +13,22 @@
 11) sabiedriskās kārtības apdraudējums;
 12) cilvēktiesību pārkāpumi;
 13) pārkāpumi publisko iepirkumu un publiskās un privātās partnerības jomā;
-14) pārkāpumi finanšu un kapitāla tirgus sektorā, tostarp krāpšana un cita nelikumīga rīcība, kas apdraud Eiropas Savienības finanšu intereses;
+14) pārkāpumi finanšu un kapitāla tirgus sektorā;
 15) nelikumīgi iegūtu līdzekļu legalizēšana un terorisma un proliferācijas finansēšanas novēršana;
 16) konkurences tiesību un komercdarbības atbalsta noteikumu pārkāpumi;
 17) pārkāpumi preču un pakalpojumu sniegšanas jomā, tostarp saistībā ar drošību un atbilstību;
 18) pārkāpumi transporta drošībā;
-19) pārkāpumi saistībā ar iekšējo tirgu;
+19) pārkāpumi saistībā ar iekšējo tirgu, kā minēts Līguma par Eiropas Savienības darbību 26. panta 2. punktā, tostarp Eiropas Savienības konkurences un valsts atbalsta noteikumu pārkāpumi, kā arī pārkāpumi saistībā ar iekšējo tirgu attiecībā uz darbībām, kas ir pretrunā ar noteikumiem par uzņēmumu ienākuma nodokli, vai mehānismiem, kuru nolūks ir iegūt nodokļu priekšrocības, vēršoties pret piemērojamā uzņēmumu ienākuma nodokļa tiesību akta mērķi;
 20) pārkāpumi dzīvnieku labturības jomā;
 21) patērētāju tiesību aizsardzība;
-22) privātās dzīves un personas datu aizsardzība un tīkla un informācijas sistēmu drošība.
+22) privātās dzīves un personas datu aizsardzība un tīkla un informācijas sistēmu drošība;
+23) krāpšana, tostarp krāpšana un cita nelikumīga rīcība, kas apdraud Eiropas Savienības finansiālās intereses, kā minēts Līguma par Eiropas Savienības darbību 325. pantā un papildus precizēts Eiropas Savienības attiecīgajos pasākumos.
 (2) Ministru kabinets izdod noteikumus, kuros norādīti Eiropas Savienības tiesību akti, par kuru pārkāpumiem ceļama trauksme šā panta pirmās daļas 5., 6., 8., 9., 13., 14., 15., 17., 18., 20., 21. un 22. punktā minētajās jomās.
 (3) Par trauksmes celšanu nav uzskatāma:
 1) apzināti nepatiesu ziņu sniegšana;
 2) valsts noslēpumu saturošas informācijas izpaušana;
 3) ziņošana tikai par personīgu interešu aizskārumu;
-4) zvērināta advokāta un klienta, ārsta un pacienta saziņas konfidencialitātes pārkāpšana;
-5) tiesnešu apspriedes noslēpuma un neizpaužamu, slēgtajās tiesas sēdēs iegūtu ziņu izpaušana;
-6) informācijas izpaušana par speciālo izmeklēšanas darbību veikšanu, kā arī tās rezultātā iegūtu ziņu izpaušana;
-7) informācijas izpaušana par konsultēšanos ar darbinieku pārstāvjiem vai arodbiedrībām, kā arī darba koplīguma pusēm, ciktāl tiek skarta darba koplīguma noslēgšanai vai grozīšanai nepieciešamā informācija.
+4) (izslēgts ar 12.02.2026. likumu);
+5) (izslēgts ar 12.02.2026. likumu);
+6) (izslēgts ar 12.02.2026. likumu);
+7) (izslēgts ar 12.02.2026. likumu).
