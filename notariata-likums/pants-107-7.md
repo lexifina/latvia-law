@@ -1,6 +1,6 @@
 107.⁷ Notariālo izpildu aktu zvērināts notārs taisa kā notariālo aktu triju darba dienu laikā no šā likuma 107.⁵ pantā norādītā iesnieguma saņemšanas dienas. Tajā norāda:
 1) akta taisīšanas gadu, dienu un mēnesi;
-2) kāda saistība un kādā apmērā ir izpildāma, kā arī norādi uz to, ka ar notariālā izpildu akta izsniegšanas brīdi kreditoram ir tiesības saņemt no parādnieka līdz notariālā izpildu akta izpildei likumiskos procentus no piedzenamās un nesamaksātās parāda pamatsummas;
+2) kāda saistība un kādā apmērā ir izpildāma, kā arī norādi uz to, ka ar notariālā izpildu akta izsniegšanas brīdi kreditoram ir tiesības saņemt no parādnieka līdz notariālā izpildu akta izpildei likumiskos procentus no piedzenamās un nesamaksātās parāda pamatsummas, bet attiecībā uz saskarsmes tiesībām - arī šā likuma 107.³ panta 3.² punktā minēto informāciju;
 3) kā labā tiek taisīts notariālais izpildu akts (vārdu, uzvārdu, personas kodu, dzīvesvietu vai juridiskās personas nosaukumu, juridisko adresi un reģistrācijas numuru);
 4) personu, pret kuru vērsta piedziņa (vārdu, uzvārdu, personas kodu, dzīvesvietu vai juridiskās personas nosaukumu, juridisko adresi un reģistrācijas numuru);
 5) izdevumus par notariālā izpildu akta taisīšanu, kas piedzenami no parādnieka;
