@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2026. gada 5. februāra likums \"Grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "36",
+  "official_journal_page": null,
+  "official_journal_date": "2026-02-20",
+  "entry_into_force": "2026-03-06",
+  "notification_date": "2026-02-25",
+  "commission_reference": "MNE(2026)01402",
+  "nim_celex": "72024L1640LVA_202601402",
+  "nim_id": "202601402",
+  "transposes_celex": [
+    "32024L1640"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/220ecd02-538c-419b-a334-f55ceabbb644",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
