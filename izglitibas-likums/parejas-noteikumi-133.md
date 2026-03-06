@@ -1,0 +1,1 @@
+133. Grozījums šā likuma 17. panta trešajā daļā par tās papildināšanu ar 16.¹ punktu, 20. panta trešajā daļā par 6. punkta izslēgšanu un 48. pantā par otrās daļas izteikšanu jaunā redakcijā stājas spēkā 2027. gada 1. septembrī. Sertifikāti pedagoga privātprakses uzsākšanai, kas izsniegti līdz 2027. gada 31. augustam, ir spēkā līdz to derīguma termiņa beigām.

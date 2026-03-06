@@ -1,0 +1,3 @@
+18.² pants. Individuālo mācību kontu sistēma
+(1) Individuālo mācību kontu sistēma ir Valsts izglītības informācijas sistēmas sastāvdaļa, kuras mērķis ir pārvaldīt pieaugušo izglītības piedāvājumu un ar to saistītos atbalsta pasākumus, nodrošināt pieeju informācijai par pieaugušo izglītību, kā arī uzglabāt personas mācību rezultātus, informāciju par pieaugušo izglītības ieguvi un ar to saistīto atbalsta pasākumu izmantošanu.
+(2) Individuālo mācību kontu sistēmas saturu, uzturēšanas un aktualizācijas kārtību, sistēmas pārzini, sistēmas lietotāju tiesības un pienākumus, personas datu apstrādes noteikumus, datu pieejamības un aprites kritērijus un kārtību, tehnoloģisko resursu aprites kārtību, kā arī finansēšanas kritērijus un kārtību nosaka Ministru kabinets.

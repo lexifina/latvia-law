@@ -3,6 +3,8 @@
 1) radoši un atbildīgi piedalīties attiecīgo izglītības programmu īstenošanā;
 2) veidot izglītojamā atbildīgu attieksmi pret sevi, citiem, darbu, kultūru, dabu;
 2¹) audzināt krietnus, godprātīgus, atbildīgus cilvēkus - Latvijas patriotus, stiprināt piederību Latvijas Republikai;
+2²) izkopt savu runas un valsts valodas prasmi, ar savu rīcību neradīt šaubas par valsts valodas nozīmību, kā arī, ja vien normatīvie akti neparedz citādi, amata pienākumu izpildē, tai skaitā savstarpējā saziņā un saziņā ar izglītojamiem, lietot valsts valodu;
+2³) nodrošināt šā likuma 36. panta 3.¹ daļā minēto vardarbības novēršanas un labbūtības veicināšanas pasākumu īstenošanu un piedalīties tajos;
 3) ievērot pedagoga profesionālās ētikas normas;
 4) pilnveidot savu profesionālo kompetenci;
 5) ievērot izglītojamā tiesības;

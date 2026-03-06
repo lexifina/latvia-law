@@ -61,8 +61,9 @@ Ministru kabinets:
 43) nosaka kārtību, kādā izglītības iestāde īsteno vispārējās pamatizglītības programmas un vispārējās vidējās izglītības programmas neklātienes un tālmācības formā;
 44) nosaka kārtību, kādā aprēķina, piešķir un izlieto valsts budžetā paredzētos līdzekļus to izglītojamo ēdināšanai, kuri klātienē apgūst pamatizglītības programmas 1., 2., 3. un 4. klasē, un šo valsts budžeta līdzekļu apmēru vienam izglītojamam dienā;
 45) nosaka attālināto mācību organizēšanas un īstenošanas kārtību;
-46) nosaka kārtību, kādā izglītības iestāžu dibinātāji novērtē izglītības iestāžu vadītāju profesionālo darbību;
+46) (izslēgts ar 05.02.2026. likumu);
 47) nosaka mazākumtautību valodas un kultūrvēstures interešu izglītības programmas paraugu un tās īstenošanas vadlīnijas;
 48) nosaka kritērijus un kārtību, kādā valsts piedalās mazākumtautību valodas un kultūrvēstures interešu izglītības programmas īstenošanā iesaistīto pedagogu darba samaksas un mācību līdzekļu iegādes finansēšanā;
 49) nosaka kārtību, kādā aprēķina un piešķir valsts budžeta finansējumu kultūrizglītības programmas "Latvijas skolas soma" īstenošanai to izglītības iestāžu dibinātājiem, kuras īsteno klātienes pamatizglītības, vispārējās vidējās izglītības, profesionālās pamatizglītības vai profesionālās vidējās izglītības programmas, kā arī programmas attiecināmās izmaksas un finansējuma izlietošanas nosacījumus;
-50) nosaka kārtību un apmēru, kādā valsts izglītības iestāžu pedagogiem var kompensēt transporta izdevumus un dzīvojamās telpas īres izdevumus, kā arī nosacījumus šo kompensāciju piešķiršanai.
+50) nosaka kārtību un apmēru, kādā valsts izglītības iestāžu pedagogiem var kompensēt transporta izdevumus un dzīvojamās telpas īres izdevumus, kā arī nosacījumus šo kompensāciju piešķiršanai;
+51) nosaka prasības un kārtību, kādā sniedz pirmsskolas izglītības iestādes diennakts uzraudzības, vispārējās un profesionālās izglītības iestādes dienesta viesnīcas vai speciālās izglītības iestādes internāta pakalpojumus, kā arī izglītojamo uzņemšanas kritērijus.

@@ -6,6 +6,7 @@ Izglītojamā pienākumi ir šādi:
 4) ievērot pedagogu, izglītojamo un citu personu tiesības un intereses;
 5) nepieļaut emocionālu un fizisku vardarbību;
 6) neapdraudēt savu un citu personu veselību, drošību un dzīvību;
+6¹) piedalīties šā likuma 36. panta 3.¹ daļā minētajos vardarbības novēršanas un labbūtības veicināšanas pasākumos;
 7) būt pieklājīgam izglītības iestādē un ārpus tās;
 8) atrasties izglītības iestādē iekšējiem normatīvajiem aktiem, tajā skaitā iekšējās kārtības noteikumiem, atbilstošā apģērbā;
 9) piedalīties izglītības iestādes vides uzkopšanā un sakārtošanā;

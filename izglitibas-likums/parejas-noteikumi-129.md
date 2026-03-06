@@ -1,0 +1,1 @@
+129. Grozījums šā likuma 12. pantā par tā papildināšanu ar 2.² un 2.³ daļu stājas spēkā 2026. gada 1. septembrī. Izglītojamie, kuri līdz 2026. gada 31. augustam uzsākuši par valsts budžeta līdzekļiem vienlaikus apgūt vairākas šā likuma 12. panta 2.² daļā minētās izglītības programmas, ir tiesīgi turpināt to apguvi līdz attiecīgo izglītības programmu pabeigšanai.
