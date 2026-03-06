@@ -1,0 +1,1 @@
+11. Ministru kabinets līdz 2026. gada 15. septembrim izstrādā un iesniedz Saeimai grozījumus attiecīgajos likumos, kas paredz prasības un kritērijus sējas kaņepju audzēšanai rūpnieciskām vajadzībām segtajās platībās (siltumnīcās un zem plēves) un nodrošina nepieciešamos kontroles, uzraudzības un atbildības mehānismus.
