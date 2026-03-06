@@ -1,0 +1,3 @@
+1. pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir radīt tiesiskos priekšnoteikumus apbūves tiesības noteikumu piemērošanai daudzdzīvokļu dzīvojamo īres māju (turpmāk - īres māja) būvniecībai uz valstij vai pašvaldībai (turpmāk - publiskā persona) piederoša zemes gabala.
+(2) Īres māju būvniecībai, lietošanai un apbūves tiesības izbeigšanai Civillikuma noteikumi par apbūves tiesību piemērojami tiktāl, ciktāl šajā likumā vai citos būvniecību regulējošos likumos, Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumā un Publiskas personas mantas atsavināšanas likumā nav noteikts citādi.

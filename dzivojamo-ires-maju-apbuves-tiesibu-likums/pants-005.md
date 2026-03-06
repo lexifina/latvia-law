@@ -1,0 +1,3 @@
+5. pants. Publiskās personas tiesības īres mājā
+(1) Publiskā persona un apbūves tiesīgais īres mājas apbūves tiesības līgumā vienojas par personālservitūta (lietojuma tiesības) piešķiršanu publiskajai personai lemt par noteiktu īres mājā esošu dzīvojamo telpu grupu (dzīvojamo telpu) izīrēšanu atbilstoši likumam "Par palīdzību dzīvokļa jautājumu risināšanā" vai sniedzot vispārējas tautsaimnieciskas nozīmes pakalpojumu.
+(2) Apbūves tiesīgais pēc īres mājas nodošanas ekspluatācijā nodod publiskajai personai piešķirto lietojuma tiesību lemt par noteiktu īres mājā esošu dzīvojamo telpu grupu (dzīvojamo telpu) izīrēšanu. Lietojuma tiesība tiek nostiprināta zemesgrāmatā vienlaikus ar īres mājas ierakstīšanu.

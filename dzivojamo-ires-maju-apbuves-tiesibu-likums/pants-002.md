@@ -1,0 +1,2 @@
+2. pants. Apbūves tiesības piešķiršana
+Publiskā persona piešķir apbūves tiesību īres mājas būvniecībai un lietošanai uz tai piederoša zemes gabala, noslēdzot apbūves tiesības līgumu ar apbūves tiesīgo, kurš noskaidrots saskaņā ar Publiskas personas finanšu līdzekļu un mantas izšķērdēšanas novēršanas likumu un Publiskas personas mantas atsavināšanas likuma 4. panta 4.¹ daļā noteiktajā kārtībā rīkoto izsoli.
