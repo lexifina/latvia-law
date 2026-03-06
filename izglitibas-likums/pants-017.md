@@ -26,6 +26,7 @@
 14) nodrošina transportu izglītojamo nokļūšanai izglītības iestādē un atpakaļ dzīvesvietā, ja nav iespējams izmantot sabiedrisko transportu;
 15) (izslēgts ar 20.10.2022. likumu);
 16) izsniedz licences interešu izglītības un atļaujas neformālās izglītības programmu īstenošanai;
+16¹) (punkts stājas spēkā 01.09.2027. un iekļauts likuma redakcijā uz 01.09.2027. Sk. pārejas noteikumu 133. punktu);
 17) nodrošina bērnu tiesību aizsardzību izglītības jomā;
 18) sniedz konsultatīvu palīdzību bērnu audzināšanā, kā arī nodrošina atbalsta pasākumus izglītojamiem un viņu ģimenēm;
 19) nodrošina pašvaldības pedagoģiski medicīniskās komisijas darbību un pieejamību bērniem ar speciālām vajadzībām;
