@@ -23,7 +23,7 @@ a) apdrošināšanas komersants, ciktāl tas veic dzīvības apdrošināšanas v
 b) apdrošināšanas starpnieks, ciktāl tas sniedz dzīvības apdrošināšanas vai citus ar līdzekļu uzkrāšanu saistītus apdrošināšanas pakalpojumus,
 c) ieguldījumu brokeru sabiedrība,
 d) ieguldījumu pārvaldes sabiedrība,
-e) kapitālsabiedrība, kas nodarbojas ar ārvalstu valūtas skaidrās naudas pirkšanu un pārdošanu,
+e) valūtu tirdzniecības sabiedrība,
 f) maksājumu iestāde,
 g) elektroniskās naudas iestāde,
 h) krājaizdevu sabiedrība,
@@ -36,7 +36,7 @@ n) kriptoaktīvu pakalpojumu sniedzējs;
 8) juridisks veidojums - veidojums, kurš nav juridiskā persona, bet kuram ir patstāvīga tiesībspēja un rīcībspēja un kura struktūrā var ietilpt dibinātājs, pilnvarotais, pārraudzītājs (pārvaldnieks) vai tiem līdzvērtīgi statusi, un labuma guvējs - ja vēl nav noteikta fiziskā persona, kura gūst labumu, - persona, kuras interesēs ir izveidots vai darbojas juridisks veidojums, jebkura cita fiziskā persona, kura faktiski īsteno galējo kontroli pār juridisku veidojumu, izmantojot īpašumtiesības vai citus līdzekļus;
 8¹) augstākā vadība - valde, ja to izveido, vai valdes īpaši iecelts valdes loceklis, amatpersona vai darbinieks, kam ir pietiekamas zināšanas par likuma subjekta pakļautību noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas riskiem un pietiekami augsta līmeņa amats, lai pieņemtu lēmumus, kas skar likuma subjekta pakļautību minētajiem riskiem;
 9) (izslēgts ar 26.10.2017. likumu);
-10) juridiska veidojuma vai juridiskas personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - fiziskā vai juridiskā persona, kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
+10) juridiska veidojuma vai juridiskas personas dibināšanas un darbības nodrošināšanas pakalpojumu sniedzējs - cita fiziskā vai juridiskā persona (izņemot šā likuma 3. panta pirmās daļas 4. punkta "d" apakšpunktā minēto likuma subjektu), kurai ir darījuma attiecības ar klientu un kura sniedz šādus pakalpojumus:
 a) palīdz dibināt juridisku veidojumu vai juridisku personu,
 b) pilda komersanta vai cita juridiska veidojuma, vai juridiskas personas direktora, sekretāra vai personālsabiedrības biedra pienākumus, kā arī veic citus līdzīgus pienākumus vai nodrošina, ka tos pilda cita persona,
 c) nodrošina juridisku veidojumu vai juridisku personu ar juridisko adresi, adresi pasta sūtījumu saņemšanai, darījuma norises vietas adresi, kā arī sniedz citus līdzīgus pakalpojumus,
@@ -61,6 +61,8 @@ b) bērns vai politiski nozīmīgas personas laulātā vai laulātajam pielīdzi
 c) vecāks,
 d) brālis vai māsa;
 18²) ar politiski nozīmīgu personu cieši saistīta persona - fiziskā persona, par kuru ir zināms, ka tai ir darījuma vai citas ciešas attiecības ar kādu no šā panta 18.punktā minētajām personām vai tā ir akcionārs vai dalībnieks vienā un tajā pašā komercsabiedrībā ar kādu no šā panta 18.punktā minētajām personām, kā arī fiziskā persona, kura ir vienīgā tāda juridiska veidojuma īpašnieks, par ko ir zināms, ka tas faktiski izveidots šā panta 18.punktā minētās personas labā;
-19) līdzekļu iesaldēšana - liegums jebkādai līdzekļu kustībai un darījumiem, arī pārvedumiem, grozījumiem, maiņai, izmantošanai, piekļuvei tiem vai rīcībai ar tiem, kuras rezultātā jebkādā veidā varētu mainīties šo līdzekļu apjoms, summa, atrašanās vieta, īpašnieks, valdītājs, raksturīgās iezīmes vai mērķis vai rasties citas izmaiņas, kas varētu padarīt iespējamu līdzekļu izmantošanu, tostarp vērtspapīru portfeļa pārvaldību.
-(2) Likumā lietotie termini "kriptoaktīvs" un "kriptoaktīvu pakalpojumu sniedzējs" atbilst Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 5. un 15. punktā lietotajiem terminiem.
+19) līdzekļu iesaldēšana - liegums jebkādai līdzekļu kustībai un darījumiem, arī pārvedumiem, grozījumiem, maiņai, izmantošanai, piekļuvei tiem vai rīcībai ar tiem, kuras rezultātā jebkādā veidā varētu mainīties šo līdzekļu apjoms, summa, atrašanās vieta, īpašnieks, valdītājs, raksturīgās iezīmes vai mērķis vai rasties citas izmaiņas, kas varētu padarīt iespējamu līdzekļu izmantošanu, tostarp vērtspapīru portfeļa pārvaldību;
+20) kriptoaktīvs - kriptoaktīvs Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 1. punkta 5. apakšpunkta izpratnē, izņemot šīs regulas 2. panta 2. punktā noteikto, 3. un 4. punktā minētās kriptoaktīvu kategorijas un arī kriptoaktīvus, kas citādi kvalificējami kā naudas līdzekļi;
+21) kriptoaktīvu pakalpojumu sniedzējs - kriptoaktīvu pakalpojumu sniedzējs Regulas Nr. 2023/1114 3. panta 1. punkta 15. apakšpunkta izpratnē, izņemot gadījumu, ja tas sniedz tikai Regulas Nr. 2023/1114 3. panta 1. punkta 16. apakšpunkta "h" apakšpunktā minēto pakalpojumu.
+(2) (Izslēgta ar 05.02.2026. likumu)
 (3) Likumā lietotie termini "kriptoaktīvu pārvedums" un "pašuzturēta adrese" atbilst Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1113 par līdzekļu un konkrētu kriptoaktīvu pārvedumiem pievienoto informāciju un ar ko groza direktīvu (ES) 2015/849 (turpmāk - Regula Nr. 2023/1113) 3. panta 1. punkta 10. un 20. apakšpunktā lietotajiem terminiem.

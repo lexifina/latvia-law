@@ -2,7 +2,7 @@
 (1) Finanšu izlūkošanas dienestam ir šādi pienākumi:
 1) saņemt, apkopot, uzglabāt, uzkrāt, sistematizēt un analizēt likuma subjektu ziņojumus, kā arī citā veidā iegūto informāciju, lai konstatētu, vai šī informācija var būt attiecināma uz noziedzīgi iegūtu līdzekļu legalizāciju, terorisma un proliferācijas finansēšanu vai šo darbību mēģinājumu, vai citu ar to saistītu noziedzīgu nodarījumu;
 2) sniegt izmeklēšanas iestādēm, prokuratūrai un tiesai informāciju, kuru var izmantot noziedzīgi iegūtu līdzekļu legalizācijas, terorisma un proliferācijas finansēšanas vai šo darbību mēģinājuma, vai cita ar to saistīta noziedzīga nodarījuma novēršanai, atklāšanai, pirmstiesas kriminālprocesam vai iztiesāšanai;
-3) analizēt sniegto ziņojumu kvalitāti, to izmantošanas efektivitāti un informēt par to likuma subjektus un uzraudzības un kontroles institūcijas;
+3) analizēt sniegto ziņojumu kvalitāti un izmantošanas efektivitāti un, ja tas ir iespējams, neapdraudot kriminālprocesa, valsts vai sabiedrības intereses, informēt par to likuma subjektus un uzraudzības un kontroles institūcijas;
 4) veikt noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas vai šādu darbību mēģinājuma paņēmienu operatīvo analīzi un atsevišķu gadījumu, subjektu un informācijas ieguves un izmantošanas veidu izpēti, veikt stratēģisko analīzi attiecībā uz noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas tendencēm un tipoloģijām, pilnveidot šādu darbību aizkavēšanas un atklāšanas metodes;
 5) šajā likumā noteiktajā kārtībā sadarboties ar starptautiskajām un ārvalstu institūcijām, kas nodarbojas ar noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanu;
 6) sniegt uzraudzības un kontroles institūcijām informāciju par noziedzīgi iegūtu līdzekļu iegūšanas, legalizācijas un terorisma un proliferācijas finansēšanas raksturīgākajiem paņēmieniem un vietām, lai tiktu veiktas darbības, kas samazinātu noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas iespējas, nodrošināt uzraudzības un kontroles institūciju darbinieku apmācību jautājumos, kas saistīti ar noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanu;
@@ -18,7 +18,7 @@
 15) uzturēt Finanšu izlūkošanas dienesta mājaslapā internetā vispārīga rakstura informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma un proliferācijas finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
 16) sniegt uzraudzības un kontroles institūcijām detalizētu informāciju par aktuālajām noziedzīgi iegūtu līdzekļu legalizācijas, terorisma un proliferācijas finansēšanas un ar tām saistīto noziedzīgo nodarījumu tipoloģijām;
 17) koordinēt sadarbības koordinācijas grupu saskaņā ar šā likuma 55. pantu;
-18) nekavējoties nosūtīt Valsts ieņēmumu dienestam likuma subjekta ziņojumu par aizdomīgu darījumu nodokļu jomā (ja minētajā ziņojumā ir ietverta norāde par ziņojuma iesniegšanu Valsts ieņēmumu dienestam) un sliekšņa deklarāciju nodokļu jomā.
+18) normatīvajos aktos noteiktajā kārtībā nosūtīt ziņojumus par aizdomīgiem darījumiem vai sliekšņa deklarācijas.
 (2) Finanšu izlūkošanas dienestam ir šādas tiesības:
 1) šajā likumā noteiktajos gadījumos dot rīkojumu likuma subjektam iesaldēt darījumu vai noteikta veida debeta operācijas klienta kontā;
 2) šajā likumā noteiktajos gadījumos dot rīkojumu valsts informācijas sistēmas pārzinim vai vērsties zemesgrāmatu nodaļā ar lūgumu veikt pasākumus, lai nepieļautu līdzekļu pārreģistrāciju;

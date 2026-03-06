@@ -5,4 +5,4 @@
 1) Finanšu izlūkošanas datu saņemšanas un analīzes sistēmas pārziņa funkcijas un uzdevumus, tajā iekļaujamās informācijas apjomu un iekļaušanas kārtību, kā arī nosacījumus un kārtību piekļuves nodrošināšanai Finanšu izlūkošanas datu saņemšanas un analīzes sistēmai;
 2) kārtību, kādā sniedzami ziņojumi par aizdomīgiem darījumiem un to saturu;
 3) gadījumus, kad iesniedzama sliekšņa deklarācija, kā arī sliekšņa deklarācijas iesniegšanas kārtību un saturu;
-4) kārtību, kādā Finanšu izlūkošanas dienests nosūta Valsts ieņēmumu dienestam likuma subjekta ziņojumus par aizdomīgu darījumu un sliekšņa deklarāciju nodokļu jomā.
+4) gadījumus un kārtību, kādā Finanšu izlūkošanas dienests nosūta ziņojumus par aizdomīgiem darījumiem un sliekšņa deklarācijas, kā arī ziņojumā un sliekšņa deklarācijā ietverto nosūtāmās informācijas apjomu.

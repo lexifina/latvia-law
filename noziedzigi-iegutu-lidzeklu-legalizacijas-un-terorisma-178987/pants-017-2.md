@@ -7,7 +7,7 @@
 a) no valsts informācijas sistēmām, kas satur ierobežotas pieejamības informāciju, kuru likuma subjekti var izmantot atbilstoši šim likumam vai citiem normatīvajiem aktiem, izņemot informāciju par sodāmību par izdarītajiem noziedzīgajiem nodarījumiem,
 b) atbilstoši citos normatīvajos aktos noteiktajai atļaujai likuma subjektiem iegūt informāciju ar atvērtā kopīgā klienta izpētes rīka starpniecību;
 3) informācija, ar kuru likuma subjekti apmainās šā likuma 29. pantā un 38. panta ceturtajā daļā minētās informācijas apmaiņas ietvaros;
-4) informācija par fiziskajām personām, juridiskajām personām un juridiskiem veidojumiem, par kuriem konstatēts, ka tie ir pakļauti starptautiskajām sankcijām, bet tieši nav minēti starptautisko sankciju sarakstos, un citām fiziskajām personām, juridiskajām personām un juridiskiem veidojumiem, kas tiek izmantoti starptautisko sankciju apiešanā;
+4) informācija par fiziskajām personām, juridiskajām personām un juridiskiem veidojumiem, par kuriem konstatēts, ka tie ir pakļauti starptautiskajām sankcijām, bet tieši nav minēti starptautisko sankciju sarakstos, un citām fiziskajām personām, juridiskajām personām un juridiskiem veidojumiem, kas tiek izmantoti starptautisko sankciju pārkāpšanā;
 5) par klientu - fizisko personu - iegūto klienta izpētei nepieciešamo informāciju, kuras apstrādei, izmantojot atvērto kopīgo klienta izpētes rīku, ir saņemta attiecīgās personas piekrišana.
 (4) Atvērtā kopīgā klienta izpētes rīka pakalpojumu sniedzējs:
 1) neizmanto šā panta trešajā daļā minēto informāciju citiem mērķiem kā vien tās nodošanai likuma subjektiem un citiem Eiropas Savienības dalībvalstu likuma subjektiem šā panta pirmajā daļā noteikto mērķu sasniegšanai;

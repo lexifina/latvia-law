@@ -1,6 +1,6 @@
 27.¹ pants. Klientu izpētes izņēmumi
 (1) Likuma subjekts ir tiesīgs nepiemērot šā likuma 11.¹ panta pirmās daļas 1., 2. un 3. punktā minētos klienta izpētes pasākumus attiecībā uz darījumiem ar elektronisko naudu, ja pastāv zems noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas risks, likuma subjekts ir veicis risku novērtējumu un atbilstošus risku mazinošus pasākumus, tai skaitā izpildot visus šādus nosacījumus:
-1) maksājuma instrumentā elektroniski uzglabāto naudas summu nevar papildināt un elektroniskās naudas turētāja elektroniski uzglabātā summa nepārsniedz 150 euro;
+1) maksājuma instrumentā elektroniski uzglabāto naudas summu nevar papildināt vai tam ir mēneša maksājumu darījumu maksimālais limits 150 euro, kurus var izmantot tikai Latvijas Republikā, un elektroniskās naudas turētāja elektroniski uzglabātā summa nepārsniedz 150 euro;
 2) maksājuma instrumentu var izmantot tikai preču vai pakalpojumu iegādei, ko nodrošina elektroniskās naudas emitents vai kas tiek nodrošināti pakalpojumu sniedzēju tīklā;
 3) maksājuma instruments nav saistīts ar maksājumu kontu, un tas neļauj uzglabāto summu apmainīt pret skaidru naudu vai kriptoaktīviem;
 4) elektroniskās naudas emitents veic darījuma vai darījuma attiecību pietiekamu uzraudzību, lai varētu atklāt aizdomīgus darījumus.
