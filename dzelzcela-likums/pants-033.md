@@ -29,7 +29,8 @@
 23) saskaņā ar šā likuma 43.³ pantā noteikto uzraudzīt, lai savstarpējas izmantojamības komponenti atbilstu pamatprasībām;
 24) šā likuma 43.⁵ panta trešajā daļā minētajā gadījumā piedalīties procesā, kas ļauj Eiropas Savienības Dzelzceļu aģentūrai izdot, atjaunot, grozīt un atsaukt atļaujas ritekļa laišanai tirgū, un šā likuma 43.⁵ panta piecpadsmitajā daļā minētajā gadījumā piedalīties procesā, kas ļauj Eiropas Savienības Dzelzceļu aģentūrai izdot, atjaunot, grozīt un atsaukt atļaujas ritekļa tipa laišanai tirgū;
 25) pārliecināties, ka riteklim ir piešķirts numurs saskaņā ar normatīvajiem aktiem par ritošā sastāva reģistrāciju;
-26) pārraudzīt, vai tiesību akti dzelzceļa drošības un tehnisko prasību jomā atbilst piemērojamiem Eiropas Savienības normatīvajiem aktiem, un paziņot Eiropas Savienības Dzelzceļu aģentūrai un Eiropas Komisijai par tiesību aktiem un to projektiem, kuros paredzētas nacionālās prasības.
+26) pārraudzīt, vai tiesību akti dzelzceļa drošības un tehnisko prasību jomā atbilst piemērojamiem Eiropas Savienības normatīvajiem aktiem, un paziņot Eiropas Savienības Dzelzceļu aģentūrai un Eiropas Komisijai par tiesību aktiem un to projektiem, kuros paredzētas nacionālās prasības;
+27) atzīt psihologus, kuri veic vilces līdzekļu vadītāju (mašīnistu) psihofizioloģiskās pārbaudes.
 (3¹) Valsts dzelzceļa tehniskās inspekcijas kompetencē esošās funkcijas nevar deleģēt dzelzceļa infrastruktūras pārvaldītājam, pārvadātājam, manevru darbu veicējam un citām personām, kā arī jebkuriem subjektiem, kas ir apakšsistēmas projektēšanas vai būves darbu, atjaunošanas vai modernizācijas pasūtītāji.
 (3²) Valsts dzelzceļa tehniskā inspekcija publicē un līdz 30. septembrim nosūta Eiropas Savienības Dzelzceļu aģentūrai gada pārskatu. Pārskatā ietver šādu informāciju:
 1) dzelzceļa drošības pilnveidošana, tostarp apkopotie kopīgie drošības rādītāji Latvijā;
