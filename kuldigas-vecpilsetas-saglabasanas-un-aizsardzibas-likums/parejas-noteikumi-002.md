@@ -1,0 +1,1 @@
+2. Kuldīgas novada dome līdz 2026. gada 1. jūlijam izstrādā un apstiprina padomes nolikumu un mantojuma vietas pārvaldnieka nolikumu. Institūcijas līdz 2026. gada 31. jūlijam izvirza šā likuma 9. panta otrajā daļā minētos pārstāvjus.

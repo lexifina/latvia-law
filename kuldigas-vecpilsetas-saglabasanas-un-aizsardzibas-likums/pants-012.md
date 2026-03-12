@@ -1,0 +1,12 @@
+12. pants. Ietekmes uz mantojumu novērtējums
+(1) Informāciju par ieceri izvietot kādu no šā likuma 11. pantā minētajiem objektiem padomei sniedz tā pašvaldība, kuras administratīvajā teritorijā attiecīgo ieceri paredzēts īstenot, vai cita institūcija, kas ir atbildīga par ieceres tālāku virzību (turpmāk kopā - institūcija).
+(2) Institūcija informāciju par ieceri sniedz padomei 10 dienu laikā pēc tam, kad saņēmusi pieteikumu par attiecīgo ieceri ietekmes uz vidi novērtējumu, teritorijas plānošanu vai būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā.
+(3) Padome mēneša laikā izvērtē informāciju par ieceri un pieprasa, lai ieceres ierosinātājs veic sākotnējo ietekmes uz mantojumu novērtējumu šādā kārtībā:
+1) identificējot šā likuma 1. pielikumā norādītos skatu punktus, kurus var ietekmēt attiecīgā objekta izvietošana;
+2) vērtējot katru identificēto skatu punktu pēc tā autentiskuma un integritātes, kā arī elementu redzamības, skata unikalitātes un nepieciešamības to saglabāt;
+3) vērtējot objekta izvietošanas ietekmi uz saglabājamām un aizsargājamām Kuldīgas vecpilsētas vērtībām, tostarp objekta redzamību un dominanci ainavā.
+(4) Padome sākotnējo ietekmes uz mantojumu novērtējumu izskata viena mēneša laikā. Par sākotnējā ietekmes uz mantojumu novērtējuma rezultātiem padome informē ieceres ierosinātāju un institūciju.
+(5) Šā likuma 11. panta 1. punkta "b" apakšpunktā un 2. punkta "b" apakšpunktā minētajos gadījumos vai tad, ja padome sākotnējā ietekmes uz mantojumu novērtējumā konstatē būtisku ietekmi uz Kuldīgas vecpilsētas īpašo universālo vērtību, ieceres ierosinātājs veic ietekmes uz mantojumu novērtējumu Darbības nostādnēs Pasaules mantojuma konvencijas īstenošanai noteiktajā apjomā un kārtībā.
+(6) Padome viena mēneša laikā pēc ietekmes uz mantojumu novērtējuma saņemšanas sniedz ieceres ierosinātājam un institūcijai atzinumu par ieceri. Padomes atzinums nav uzskatāms par administratīvo aktu un nav pārsūdzams.
+(7) Institūcijai ir tiesības pagarināt lēmuma par ieceres tālāku virzību izdošanas termiņu uz laiku, kāds nepieciešams informācijas par sākotnējā ietekmes uz mantojumu novērtējuma rezultātiem un padomes atzinuma saņemšanai. Lēmumu par ieceres tālāku virzību var pieņemt tikai pēc padomes atzinuma saņemšanas.
+(8) Ja pēc padomes atzinuma saņemšanas iecere ir mainīta tiktāl, ka atzinumā ietvertais viedoklis uz to vairs nav attiecināms, nepieciešams saņemt jaunu atzinumu saskaņā ar šā panta otrās, piektās, sestās un septītās daļas prasībām.

@@ -1,0 +1,8 @@
+4. pants. Kultūrvēsturiskā mantojuma vērtības
+(1) Kuldīgas vecpilsētā ir saglabājamas un aizsargājamas šādas kultūrvēsturiskā mantojuma vērtības:
+1) pilsētbūvnieciskais raksturs - pilsētas telpiskā kompozīcija un ainaviskā integrācija Ventas ielejā, plānojums un telpiskā struktūra, ielu tīkls; apbūves kopējais mērogs, zemes gabalu apbūves paņēmieni, perspektīvas, skati un siluets, arhitektūras tradīcijas un kolorīts, oriģinālā substance un amatnieciskās tradīcijas, autentiskums, fasāžu apdare, mākslinieciskās un arhitektūras detaļas (apmales, portāli, logi, durvju vērtnes, vējrādītāji un tamlīdzīgi), jumtu seguma materiāli, ielu, laukumu un pagalmu segumi, kā arī mākslinieciski vērtīgas vides arhitektūras detaļas, piemēram, laternas un stabi;
+2) apstādījumu elementi, ciktāl tie ļauj uztvert pilsētas apbūvi un ainavu;
+3) vēsturiskās ēkās - oriģinālā un autentiskā substance (ņemot vērā arī vēlāka laika uzslāņojumus), kā arī šo ēku un līdz šim realizēto vēsturisko ēku kopiju ārējā veidola īpatnības, piemēram, mērogs, proporcijas, stils, apdares materiāls, krāsojums un detaļas;
+4) pilsētas vēsturisko daļu kultūrslānis;
+5) ainavas vizuālā integritāte.
+(2) Par saglabājamu un aizsargājamu nemateriālā kultūrvēsturiskā mantojuma vērtību uzskatāmas arī īpašās amatniecības zināšanas un prasmes, kas ir pārmantotas un arī mūsdienās tiek izmantotas Kuldīgas vecpilsētas konservācijā ar pilsētai raksturīgo tradicionālo materiālu lietojumu, kolorītu, būvformām un paņēmieniem. Šīs prasmes un zināšanas ir izmantojamas šā panta pirmajā daļā minēto kultūrvēsturiskā mantojuma vērtību atjaunošanā.

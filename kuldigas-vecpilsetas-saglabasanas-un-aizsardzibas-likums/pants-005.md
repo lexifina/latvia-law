@@ -1,0 +1,7 @@
+5. pants. Kultūrvēsturiskā mantojuma vērtību saglabāšana un aizsardzība
+Kuldīgas vecpilsētas teritorijā:
+1) ir aizliegta jebkāda darbība, kas var izraisīt šā likuma 4. panta pirmajā daļā minēto kultūrvēsturiskā mantojuma vērtību iznīcināšanu vai bojāšanu. Kultūrvēsturiskās vides pārveidošana ir pieļaujama, ja tai nav negatīvas ietekmes uz Kuldīgas vecpilsētas kultūrvēsturiskā mantojuma vērtībām un pārveidošana ir vienīgā iespēja nodrošināt Kuldīgas vecpilsētas attīstību;
+2) nav pieļaujama tāda vēsturisko dzīvojamo ēku pārbūve vai šo ēku stāvu pārplānošana, kuras rezultātā tiek neatgriezeniski zaudēta iespēja izmantot attiecīgo ēku dzīvošanai. Šis noteikums neattiecas uz vēsturisko dzīvojamo ēku pirmajiem stāviem, pagrabstāviem vai puspagraba stāviem;
+3) jaunas ēkas būvē un jaunus elementus veido, tos harmoniski iekļaujot esošajā pilsētvidē, respektējot vēsturiskās apbūves klātesību un saglabājot valsts un vietējās nozīmes pilsētbūvniecības pieminekļa viengabalainību;
+4) mūsdienu detalizācija pieļaujama attiecībā uz tādiem arhitektūras elementiem kā, piemēram, profils, dzegas risinājums, materiālu izkārtojums apdarē, durvju dizains un vēršanās veids, kā arī durvju pildiņi;
+5) kvalitatīvus mūsdienu arhitektūras un vides dizaina objektus drīkst radīt, kā arī pieminekļus uzstādīt tā, lai tiem nebūtu negatīvas ietekmes uz šā likuma 4. panta pirmajā daļā minētajām kultūrvēsturiskā mantojuma vērtībām.

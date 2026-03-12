@@ -1,0 +1,1 @@
+Teritorija, kurā objektiem, kuru augstums ir 350 vai vairāk metru, un citiem objektiem, kuri var ietekmēt Kuldīgas vecpilsētas īpašas nozīmes universālu vērtību, veicams sākotnējais ietekmes uz mantojumu novērtējums

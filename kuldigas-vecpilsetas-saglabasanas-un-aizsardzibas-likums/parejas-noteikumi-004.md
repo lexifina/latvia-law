@@ -1,0 +1,1 @@
+4. Šā likuma 11. un 12. pantā noteiktos ierobežojumus nepiemēro, ja ieceres ierosinātājs līdz šā likuma spēkā stāšanās dienai ir teritorijas plānošanu vai būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā saņēmis attiecīgās institūcijas lēmumu par ieceres tālāku virzību.
