@@ -2,4 +2,5 @@
 (2) Iniciatīvas grupa iesniedz Centrālajai vēlēšanu komisijai iesniegumu par reģistrāciju.
 (3) Centrālā vēlēšanu komisija 10 dienu laikā pieņem vienu no šādiem lēmumiem:
 1) reģistrēt iniciatīvas grupu, ja tā atbilst šā likuma 23.panta otrās daļas prasībām un ja dienā, kad iesniegts iesniegums par reģistrāciju, nav iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu;
-2) atteikt iniciatīvas grupas reģistrāciju, ja tā neatbilst šā likuma 23.panta otrās daļas prasībām vai ja dienā, kad iesniegts iesniegums par reģistrāciju, ir iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu.
+2) atteikt iniciatīvas grupas reģistrāciju, ja tā neatbilst šā likuma 23.panta otrās daļas prasībām vai ja dienā, kad iesniegts iesniegums par reģistrāciju, ir iestājies Satversmes 14.pantā noteiktais termiņš, kad nevar ierosināt tautas nobalsošanu par Saeimas atsaukšanu;
+3) ja lēmuma pieņemšanas brīdī jau ir reģistrēta cita iniciatīvas grupa parakstu vākšanai par ierosinājumu rīkot tautas nobalsošanu par Saeimas atsaukšanu, - pievienot informāciju par iniciatīvas grupas ierosinājumu rīkot tautas nobalsošanu par Saeimas atsaukšanu iepriekš reģistrētās iniciatīvas grupas parakstu vākšanai uz tās atlikušo laiku.

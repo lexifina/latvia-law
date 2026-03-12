@@ -1,1 +1,1 @@
-25.² pants. Organizatori savāktos paziņojumus par atbalstu atbilstoši Eiropas Parlamenta un Padomes 2011.gada 16.februāra regulai (ES) Nr. 211/2011 par pilsoņu iniciatīvu iesniedz Centrālajai vēlēšanu komisijai.
+25.² pants. Organizatoru grupa savāktos paziņojumus par atbalstu atbilstoši Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa regulai (ES) 2019/788 par Eiropas pilsoņu iniciatīvu iesniedz Centrālajai vēlēšanu komisijai.

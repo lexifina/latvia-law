@@ -1,0 +1,1 @@
+17.¹ pants. Ja nav iespējams pārliecināties, vai ziņas par personu ir iekļautas Elektroniskajā tiešsaistes vēlētāju reģistrā un tajā jau nav izdarīta atzīme par šīs personas piedalīšanos attiecīgajā tautas nobalsošanā, balsošana notiek ar reģistrācijas aploksni Saeimas vēlēšanu likumā noteiktajā kārtībā.

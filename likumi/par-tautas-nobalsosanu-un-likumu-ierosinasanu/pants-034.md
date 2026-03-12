@@ -10,8 +10,8 @@ c) komerciālā elektroniskā plašsaziņas līdzekļa - televīzijas - programm
 d) komerciālā elektroniskā plašsaziņas līdzekļa - radio - programmās un raidījumos,
 e) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un plaši izplatīti visā valsts teritorijā,
 f) laikrakstos, žurnālos, biļetenos un citos likumā noteiktajā kārtībā reģistrētos periodiskajos izdevumos, kuri tiek sagatavoti iespiedtehnikā un kuru tirāžas lielākā daļa tiek izplatīta vienas pašvaldības teritorijā,
-g) internetā, izņemot politiskās partijas, politisko partiju apvienības un iniciatīvas grupas mājaslapu,
+g) internetā, izņemot politiskās partijas, politisko partiju apvienības un iniciatīvas grupas tīmekļvietni,
 h) telpās un publiskās vietās (laukumos, skvēros, ielās, uz tiltiem un citās tamlīdzīgās vietās) neatkarīgi no īpašuma piederības;
 2) pasta (arī elektroniskā pasta) pakalpojumu izmantošanu aģitācijas pirms tautas nobalsošanas materiālu, aģitācijas par likuma ierosināšanu materiālu vai aģitācijas par Saeimas atsaukšanas ierosināšanu materiālu nosūtīšanai;
 3) labdarības pasākumu finansēšanu un sponsorēšanu, izmaksājot pabalstus un izdarot dāvinājumus (ziedojumus).
-(6) Korupcijas novēršanas un apkarošanas birojs katru gadu savā mājaslapā internetā publicē informatīvu paziņojumu, kurā norāda šā panta pirmajā un otrajā daļā minēto summu, kādu drīkst izlietot uz vienu balsotāju aģitācijai pirms tautas nobalsošanas, aģitācijai par likuma ierosināšanu vai aģitācijai par Saeimas atsaukšanas ierosināšanu.
+(6) Korupcijas novēršanas un apkarošanas birojs katru gadu savā tīmekļvietnē publicē informatīvu paziņojumu, kurā norāda šā panta pirmajā un otrajā daļā minēto summu, kādu drīkst izlietot uz vienu balsotāju aģitācijai pirms tautas nobalsošanas, aģitācijai par likuma ierosināšanu vai aģitācijai par Saeimas atsaukšanas ierosināšanu.

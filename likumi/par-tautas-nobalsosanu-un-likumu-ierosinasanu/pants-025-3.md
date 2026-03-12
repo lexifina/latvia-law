@@ -1,2 +1,2 @@
-25.³ pants. (1) Centrālā vēlēšanu komisija divu mēnešu laikā pēc tam, kad no organizatoriem ir saņemti paziņojumi par atbalstu, saskaita parakstus, konstatē rezultātu un nosūta organizatoriem uz veidlapā norādīto elektroniskā pasta adresi sertifikātu, ar ko apliecina derīgo paziņojumu skaitu.
+25.³ pants. (1) Centrālā vēlēšanu komisija divu mēnešu laikā pēc tam, kad no organizatoru grupas ir saņemti paziņojumi par atbalstu, saskaita parakstus, konstatē rezultātu un nosūta organizatoru grupai sertifikātu, ar ko apliecina derīgo paziņojumu skaitu.
 (2) Ja Centrālā vēlēšanu komisija konstatē, ka saņemto paziņojumu pārbaude tai nav piekritīga, Centrālā vēlēšanu komisija paziņojumus par atbalstu divu nedēļu laikā nosūta atpakaļ organizatoram.
