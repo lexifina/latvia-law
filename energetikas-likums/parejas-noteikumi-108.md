@@ -1,0 +1,1 @@
+108. Šā likuma 49. panta 1.⁵ daļu attiecībā uz siltumapgādes sistēmas operatoru, kura lietotājiem piegādātās siltumenerģijas apjoms pārsniedz 2 000 000 megavatstundu gadā, piemēro no 2026. gada 1. oktobra, bet attiecībā uz pārējiem siltumapgādes sistēmas operatoriem - no 2028. gada 1. oktobra.
