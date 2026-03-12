@@ -1,0 +1,7 @@
+11.¹ pants. Biroja risku analīzes informācijas sistēma un tās izmantošanas mērķis
+(1) Biroja risku analīzes informācijas sistēma (turpmāk - risku analīzes informācijas sistēma) un tās programmnodrošinājums ir valsts informācijas sistēma.
+(2) Risku analīzes informācijas sistēmas izmantošanas mērķis ir nodrošināt Biroja datubāzēs esošās informācijas analīzi, integrāciju, aktuālu un vēsturisku datu krāšanu, glabāšanu un apriti, kā arī no citām valsts institūcijām un reģistriem saņemtas ar šā likuma 11.² panta pirmajā daļā minētajām personām saistītas informācijas analīzi, integrāciju, krāšanu, glabāšanu un apriti, lai identificētu likumsakarības, kas norāda uz saikni:
+1) starp konkrētām personām un iespējamiem likuma pārkāpumiem korupcijas novēršanas jomā un noziedzīgiem nodarījumiem valsts institūciju dienestā, ja tie ir saistīti ar korupciju;
+2) starp konkrētām personām un iespējamiem likuma pārkāpumiem un noziedzīgiem nodarījumiem, kuri saistīti ar politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem;
+3) starp konkrētām personām un iespējamiem priekšvēlēšanu aģitācijas noteikumu pārkāpumiem.
+(3) Ministru kabinets nosaka risku analīzes informācijas sistēmas uzturēšanas un izmantošanas kārtību, datu iegūšanas avotus, apstrādājamo datu kategorijas, glabāšanas termiņus, kā arī informācijas sistēmas auditācijas pierakstu glabāšanas nosacījumus un kārtību.

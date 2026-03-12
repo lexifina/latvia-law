@@ -8,4 +8,6 @@ Birojs, kontrolējot politisko organizāciju (partiju) un to apvienību finansē
 6) analizē normatīvos aktus un normatīvo aktu projektus, kā arī ierosina izdarīt tajos grozījumus, iesniedz priekšlikumus jaunu normatīvo aktu projektu izstrādāšanai;
 7) veic sabiedriskās domas izpēti un analīzi;
 8) izglīto sabiedrību politisko organizāciju (partiju) un to apvienību finansēšanas jomā;
-9) informē sabiedrību par atklātajiem politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem, kā arī par veiktajiem pasākumiem to novēršanai.
+9) informē sabiedrību par atklātajiem politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem, kā arī par veiktajiem pasākumiem to novēršanai;
+10) veic taktisko analīzi, lai identificētu likumsakarības, kas norāda uz saikni starp konkrētām personām un iespējamiem likuma pārkāpumiem un noziedzīgiem nodarījumiem, kuri saistīti ar politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumiem;
+11) veic stratēģisko analīzi, lai identificētu politisko organizāciju (partiju) un to apvienību finansēšanas noteikumu pārkāpumu tendences, tipoloģijas un draudus.

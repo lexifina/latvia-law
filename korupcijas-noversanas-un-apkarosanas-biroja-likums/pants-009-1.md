@@ -5,4 +5,6 @@ Birojs pirms Saeimas, Eiropas Parlamenta un pašvaldību vēlēšanām, kontrol�
 3) atbilstoši savai kompetencei izskata iesniegumus;
 4) apkopo un analizē informāciju par konstatētajiem pārkāpumiem;
 5) informē sabiedrību par priekšvēlēšanu aģitācijas noteikumiem, kas jāievēro ar politiskajām organizācijām un to apvienībām nesaistītām personām;
-6) informē sabiedrību par atklātajiem priekšvēlēšanu aģitācijas noteikumu pārkāpumiem, kā arī par veiktajiem pasākumiem to novēršanai.
+6) informē sabiedrību par atklātajiem priekšvēlēšanu aģitācijas noteikumu pārkāpumiem, kā arī par veiktajiem pasākumiem to novēršanai;
+7) veic taktisko analīzi, lai identificētu likumsakarības, kas norāda uz saikni starp konkrētām personām un iespējamiem priekšvēlēšanu aģitācijas noteikumu pārkāpumiem;
+8) veic stratēģisko analīzi, lai identificētu priekšvēlēšanu aģitācijas noteikumu pārkāpumu tendences, tipoloģijas un draudus.

@@ -15,5 +15,7 @@
 13) informē sabiedrību par korupcijas attīstības tendencēm un atklātajiem korupcijas gadījumiem, kā arī par veiktajiem pasākumiem korupcijas novēršanai un apkarošanai;
 14) izstrādā un ievieš sabiedrisko attiecību stratēģiju;
 15) atbilstoši savai kompetencei izvērtē citu institūciju veikto pārbaužu saturu un rezultātus;
-16) likumā "Par interešu konflikta novēršanu valsts amatpersonu darbībā" noteiktajā apjomā pārbauda valsts amatpersonu deklarācijas.
+16) likumā "Par interešu konflikta novēršanu valsts amatpersonu darbībā" noteiktajā apjomā pārbauda valsts amatpersonu deklarācijas;
+17) veic taktisko analīzi, lai identificētu likumsakarības, kas norāda uz saikni starp konkrētām personām un iespējamiem likuma pārkāpumiem korupcijas novēršanas jomā un noziedzīgiem nodarījumiem valsts institūciju dienestā, ja tie ir saistīti ar korupciju;
+18) veic stratēģisko analīzi, lai identificētu korupcijas tendences, tipoloģijas un draudus.
 (2) Pēc Noziedzības un korupcijas novēršanas padomes pieprasījuma sniedz informāciju un priekšlikumus par korupcijas novēršanas jautājumiem.

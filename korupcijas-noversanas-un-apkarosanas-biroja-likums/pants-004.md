@@ -8,9 +8,9 @@
 2) pārvalda latviešu valodu un vismaz divas svešvalodas;
 3) ieguvusi augstāko profesionālo vai akadēmisko izglītību (izņemot pirmā līmeņa profesionālo izglītību) un jurista kvalifikāciju, uzkrājusi amatam atbilstošu darba pieredzi un pieredzi vadošā amatā publiskajā pārvaldē vai tiesību aizsardzības jomā;
 4) nav sasniegusi likumā "Par valsts pensijām" vecuma pensijas piešķiršanai noteikto vecumu;
-5) nav sodīta par noziedzīgu nodarījumu (neatkarīgi no sodāmības noņemšanas vai dzēšanas);
-6) nav notiesāta par noziedzīgu nodarījumu, atbrīvojot no soda;
-7) nav saukta pie kriminālatbildības, izņemot gadījumu, kad persona ir saukta pie kriminālatbildības, bet kriminālprocess pret to izbeigts uz reabilitējoša pamata;
+5) (izslēgts ar 12.02.2026. likumu);
+6) (izslēgts ar 12.02.2026. likumu);
+7) nav sodīta par tīšu noziedzīgu nodarījumu (neatkarīgi no sodāmības dzēšanas vai noņemšanas) vai nav notiesāta par tīšu noziedzīgu nodarījumu, atbrīvojot no soda, vai pret personu uzsāktais kriminālprocess ir izbeigts, izņemot gadījumus, kad uzsāktais kriminālprocess ir izbeigts uz nereabilitējoša pamata;
 8) nav un nav bijusi PSRS, Latvijas PSR vai kādas ārvalsts, kas nav Eiropas Savienības vai Ziemeļatlantijas līguma organizācijas dalībvalsts, drošības dienesta (izlūkdienesta vai pretizlūkošanas dienesta) štata vai ārštata darbinieks, aģents, rezidents vai konspiratīvā dzīvokļa turētājs;
 9) nav un nav bijusi ar likumu vai tiesas nolēmumu aizliegtas organizācijas dalībnieks;
 10) atbilst likumā noteiktajām prasībām, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.
