@@ -1,0 +1,1 @@
+3. pants. Nolīgums stājas spēkā tā 37. pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms nolīgums latviešu un angļu valodā.

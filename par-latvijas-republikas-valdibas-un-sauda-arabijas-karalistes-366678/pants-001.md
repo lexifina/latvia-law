@@ -1,0 +1,1 @@
+1. pants. 2025. gada 24. septembrī Monreālā parakstītais Latvijas Republikas valdības un Saūda Arābijas Karalistes valdības nolīgums par gaisa satiksmi (turpmāk - nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
