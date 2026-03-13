@@ -1,0 +1,1 @@
+8. Grozījumi šā likuma 4. panta pirmajā daļā par vārda "klātienes" izslēgšanu un otrajā daļā par vārdu "starptautiskajās skolās, neklātienes un tālmācības izglītības programmās" aizstāšanu ar vārdiem "un starptautiskajās skolās" stājas spēkā 2026. gada 1. septembrī.
