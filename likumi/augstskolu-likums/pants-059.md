@@ -11,7 +11,8 @@ b) maģistra grādu un septītā līmeņa profesionālo kvalifikāciju, par ko t
 c) septītā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts profesionālās kvalifikācijas diploms;
 4) trešā cikla augstāko izglītību:
 a) zinātnes doktora grādu, par ko tiek izsniegts zinātnes doktora diploms,
-b) profesionālo doktora grādu mākslās, par ko tiek izsniegts profesionālā doktora diploms mākslās.
+b) profesionālo doktora grādu mākslās, par ko tiek izsniegts profesionālā doktora diploms mākslās,
+c) astotā līmeņa profesionālo kvalifikāciju, par ko tiek izsniegts profesionālās kvalifikācijas diploms.
 (1¹) (Izslēgta ar 15.09.2022. likumu)
 (1²) (Izslēgta ar 15.09.2022. likumu)
 (2) (Izslēgta ar 15.09.2022. likumu)

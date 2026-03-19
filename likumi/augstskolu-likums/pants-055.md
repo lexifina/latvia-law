@@ -1,5 +1,5 @@
 55.pants. Studiju programmas
-(1) Studiju programma ietver visas grāda vai profesionālās kvalifikācijas iegūšanai nepieciešamās prasības. Studiju programmas ietvaros var izveidot studiju programmas apakšprogrammu (apakšprogrammas), kas ir studiju programmas sastāvdaļa un atbilst konkrētai zinātnes nozarei, tautsaimniecības nozarei vai iegūstamajai profesionālajai kvalifikācijai. Studiju programmu reglamentē speciāls dokuments - studiju satura un īstenošanas apraksts, kas:
+(1) Studiju programma ietver visas grāda, grāda un profesionālās kvalifikācijas vai profesionālās kvalifikācijas iegūšanai nepieciešamās prasības. Studiju programmas ietvaros var izveidot studiju programmas apakšprogrammu (apakšprogrammas), kas ir studiju programmas sastāvdaļa un atbilst konkrētai zinātnes nozarei, tautsaimniecības nozarei vai iegūstamajai profesionālajai kvalifikācijai. Studiju programmu reglamentē speciāls dokuments - studiju satura un īstenošanas apraksts, kas:
 1) nosaka prasības attiecībā uz iepriekšējo izglītību;
 1¹) nosaka, kuram studiju virzienam attiecīgā studiju programma atbilst;
 2) atbilstoši izglītības pakāpei un veidam nosaka:

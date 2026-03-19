@@ -7,4 +7,4 @@
 1) pētniecības darba veikšana zinātnes apakšnozarē vai mākslinieciskās jaunrades nozarē, kas atbilst asociētā profesora amata nosaukumam;
 2) pētniecības darba vadīšana doktora un maģistra grāda iegūšanai;
 3) studiju darba nodrošināšana un vadīšana.
-(6) Darba līgumu ar asociēto profesoru slēdz augstskolas rektors.
+(6) Darba līgumu ar asociēto profesoru slēdz augstskolas rektors vai cita persona tā pilnvarojumā.

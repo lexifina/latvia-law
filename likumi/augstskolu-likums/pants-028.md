@@ -9,4 +9,4 @@
 3) doktora līmeņa studiju un pētniecības darba vadīšana zinātnes apakšnozarē vai mākslinieciskās jaunrades vadīšana nozarē, kas atbilst profesora amata nosaukumam;
 4) piedalīšanās studiju programmu, augstskolu un to struktūrvienību darba un kvalitātes vērtēšanā;
 5) jaunās zinātnieku, mākslinieku un docētāju paaudzes gatavošana.
-(5) Darba līgumu ar profesoru slēdz augstskolas rektors.
+(5) Darba līgumu ar profesoru slēdz augstskolas rektors vai cita persona tā pilnvarojumā.

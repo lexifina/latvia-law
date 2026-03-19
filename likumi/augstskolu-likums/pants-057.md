@@ -8,6 +8,6 @@
 (4) Pilna laika otrā cikla studiju apjoms ir ne mazāks kā 60 kredītpunkti un viens gads ar noteikumu, ka kopējais pirmā un otrā cikla studiju apjoms nav mazāks par 300 kredītpunktiem un pieciem gadiem. Pilna laika otrā cikla studiju apjoms pēc vidējās izglītības ieguves ir ne mazāks kā 300 kredītpunkti un pieci gadi.
 (5) Pilna laika trešā cikla studiju apjoms ir ne mazāks kā 180 kredītpunkti un trīs gadi.
 (6) Studiju turpināšana nākamajā ciklā atbilstoši Latvijas kvalifikāciju ietvarstruktūras līmenim iespējama pēc iepriekšējā cikla pabeigšanas un valsts atzīta augstāko izglītību apliecinoša dokumenta saņemšanas.
-(7) Pirmā, otrā un trešā cikla augstākās izglītības programmas tiek veidotas saskaņā ar valsts augstākās izglītības standartu.
+(7) Īsā cikla, pirmā, otrā un trešā cikla augstākās izglītības programmas tiek veidotas saskaņā ar valsts augstākās izglītības standartu.
 (8) Studiju programmas saturs, apjoms un sasniedzamie rezultāti, kā arī sasniegumu vērtēšana pilna laika un nepilna laika studijās ir vienāda.
 (9) Ministru kabinets nosaka valsts augstākās izglītības standartu.
