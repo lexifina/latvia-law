@@ -1,2 +1,2 @@
 5.¹ pants. Plānošanas reģionu kompetence jaunatnes politikas nozarē
-Plānošanas reģioni plāno attiecīgo pašvaldību darba ar jaunatni attīstību un sadarbību šajā jomā.
+Plānošanas reģioni veicina reģionālu jaunatnes politikas pasākumu plānošanu un īstenošanu.
