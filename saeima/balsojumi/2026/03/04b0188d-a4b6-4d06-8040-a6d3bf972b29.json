@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 19,
+ "datums": "2026-03-19",
+ "ieraksts": {
+  "dkp_id": "e169b218-4dfb-44dd-b38e-4144ba924dc8",
+  "lastmodtime": "\"AAAAAAJ/mUI=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Didzis#Andris#Inese#Vilis#Amils#Selma Teodora#Edmunds#Didzis#Ingmārs#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Jānis#Alīna#Nauris#Jānis#Andrejs#Irma#Harijs#Edmunds#Augusts#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Jefimijs#Juris#Daiga#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Linda#Andrejs#Anita#Gunārs#Edgars#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Anda#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Šnore#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Šmits#Šuvajevs#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zemmers#Līdaka#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Gendele#Puntulis#Zariņš#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Klementjevs#Viļums#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Matisone#Judins#Brakovska#Kūtris#Putra#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#####################################################################",
+  "FRACTION": "NA#PRO# #JV#JV#ZZS# #JV#LPV#LPV# #PRO#JV# # #PRO#NA#ZZS#AS#NA#LPV#JV#PRO#ZZS#JV#NA#JV#NA#JV# #JV#ZZS#JV#ZZS#ZZS#ZZS# # #ZZS# #JV# #AS#ZZS#NA#JV#PRO#JV#AS#JV#AS#NA#AS#JV#ZZS#ZZS#AS#PRO#PRO#ZZS#LPV#JV#AS#JV# #JV#PRO#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.03.2026 15:32:53",
+  "VOTEMOTIVE": "Grozījumi Valsts civildienesta likumā (1205/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "04b0188d-a4b6-4d06-8040-a6d3bf972b29",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "70",
+  "VOTE_NUMBER": "19",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f53a377c-d40f-4999-9d23-5261e8ef9912/download/14.saeimas-2026.gada-ziemas-sesija-19-vote.xml",
+  "sha256": "92cd112153fe1009a09db364c7ba52d4dd60ced1d953840798b23dade9ca6bd8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
