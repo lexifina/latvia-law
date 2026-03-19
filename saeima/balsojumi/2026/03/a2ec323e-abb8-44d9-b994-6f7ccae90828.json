@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 19,
+ "datums": "2026-03-19",
+ "ieraksts": {
+  "dkp_id": "a8a718c8-ffc5-440f-bb1d-dd70754e12bc",
+  "lastmodtime": "\"AAAAAAJ/gAk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Didzis#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Zemmers#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#############################################################################################",
+  "FRACTION": " #NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS# #NA#PRO#JV#JV# # #PRO#NA#ZZS#LPV#AS#LPV#NA#LPV#JV#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# # #ZZS# #JV# #JV# #AS#JV#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#ZZS#JV#JV#AS",
+  "RESULT": "Par#Par#Pret#Pret#Atturas#Atturas#Pret#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Atturas#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Pret#Atturas#Par#Pret#Par#Atturas#Nebalsoja#Atturas#Nebalsoja#Atturas#Par#Atturas#Atturas#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Atturas#Atturas#Atturas#Par#Par#Pret#Par#Par#Par#Atturas#Atturas#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Atturas#Atturas#Par#Par#Pret#Par#Par#Atturas#Par#Atturas#Par#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "19.03.2026 14:07:04",
+  "VOTEMOTIVE": " Par nodošanu Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai. Par neatliekamiem pasākumiem enerģētiskās krīzes un degvielas cenu kāpuma seku mazināšanai un degvielas cenu pazemināšanu (924/Lm14)",
+  "VOTING_ID": "a2ec323e-abb8-44d9-b994-6f7ccae90828",
+  "VOTERESULT_ABSTAIN": "25",
+  "VOTERESULT_AGAINST": "10",
+  "VOTERESULT_FOR": "55",
+  "VOTERESULT_REGISTERED": "94",
+  "VOTE_NUMBER": "13",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-19-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f53a377c-d40f-4999-9d23-5261e8ef9912/download/14.saeimas-2026.gada-ziemas-sesija-19-vote.xml",
+  "sha256": "92cd112153fe1009a09db364c7ba52d4dd60ced1d953840798b23dade9ca6bd8",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
