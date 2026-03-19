@@ -1,0 +1,1 @@
+141. Grozījumus šā likuma 8. pantā par tā otrās daļas izteikšanu jaunā redakcijā un panta papildināšanu ar 2.² daļu piemēro attiecībā uz vispārējās pamatizglītības pirmā posma izglītības programmas apguvi ģimenē no 2027. gada 1. septembra.

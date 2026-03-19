@@ -1,0 +1,1 @@
+144. Ministru kabinets līdz 2026. gada 31. augustam izdod šā likuma 14. panta 45. punktā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. augustam piemēro Ministru kabineta 2022. gada 8. februāra noteikumus Nr. 111 "Attālināto mācību organizēšanas un īstenošanas kārtība".

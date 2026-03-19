@@ -1,0 +1,1 @@
+146. Ministru kabinets līdz 2030. gada 30. novembrim iesniedz Saeimai ziņojumu par šā likuma 8. panta otrajā, 2.² un 2.³ daļā, kā arī 14. panta 43.¹, 43.² un 53. punktā noteiktā regulējuma ietekmi uz vispārējās izglītības programmu īstenošanu tālmācībā un ģimenē, tā ieviešanas rezultātiem un atbilstību bērna labākajām interesēm.

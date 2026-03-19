@@ -7,10 +7,10 @@
 (2¹) Tieslietu ministrijas padotībā esošās izglītības iestādes un sociālās korekcijas izglītības iestādes padomes darbībā nepiemēro šā panta otrās daļas pirmo teikumu, un tām ir tiesības nepiemērot šā panta pirmās daļas 2. punktu un otrās daļas ceturto teikumu.
 (3) Izglītības iestādes padome:
 1) sniedz priekšlikumus izglītības iestādes attīstībai;
-2) piedalās izglītības procesa un tā rezultātu apspriešanā, ievērojot pedagogu, izglītojamo un viņu vecāku priekšlikumus, un sniedz izglītības iestādei un tās dibinātājam ieteikumus izglītības iestādes darbības un izglītības kvalitātes pilnveidei;
+2) piedalās izglītības procesa un tā rezultātu apspriešanā, ievērojot pedagogu, izglītojamo un viņu vecāku (personu, kas realizē aizgādību) priekšlikumus, un sniedz izglītības iestādei un tās dibinātājam ieteikumus izglītības iestādes darbības un izglītības kvalitātes pilnveidei;
 3) sniedz priekšlikumus jautājumos par izglītojamo un izglītības iestādes darbinieku tiesībām un pienākumiem;
 4) sniedz izglītības iestādes vadītājam priekšlikumus par iestādes darba organizāciju, budžeta sadalījumu un izglītības programmu īstenošanu;
-5) ir tiesīga lemt par to, kādus šā likuma 1. panta 12.⁵ punkta "n" apakšpunktā minētos individuālos mācību piederumus nodrošina izglītojamo vecāki (personas, kas realizē aizgādību);
+5) ir tiesīga lemt par to, kādus šā likuma 1. panta 12.⁶ punkta "n" apakšpunktā minētos individuālos mācību piederumus nodrošina izglītojamo vecāki (personas, kas realizē aizgādību);
 5¹) lemj par mācību un audzināšanas procesā izmantojamo metožu un informācijas, tajā skaitā mācību līdzekļu un materiālu, atbilstību šā likuma mērķī ietvertajai izglītojamā tikumiskās attīstības nodrošināšanai, kā arī tikumiskās audzināšanas vadlīnijām;
 6) risina tās kompetencē esošus organizatoriskos, tai skaitā ar izglītības iestādes rīkotajiem pasākumiem saistītus jautājumus;
 7) veicina izglītības iestādes sadarbību ar sabiedrību;

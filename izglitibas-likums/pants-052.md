@@ -11,7 +11,7 @@
 9) sadarbojoties ar izglītojamiem un vecākiem (personām, kas realizē aizgādību), rīkoties atbilstoši izglītības iestādē noteiktajai kārtībai;
 10) rīkoties tā, lai novērstu personu drošības, veselības vai dzīvības apdraudējumu.
 (1¹) Valsts, pašvaldību un valsts augstskolu izglītības iestādes, ja citos ārējos normatīvajos aktos nav noteikts citādi, no izglītības iestādes dibinātāja un šā likuma 59. panta ceturtajā daļā minētajiem finanšu līdzekļiem var noteikt pedagogam šādu papildu atlīdzību:
-1) pabalstu līdz 50 procentiem no mēnešalgas reizi kalendārajā gadā par katru apgādībā esošu bērnu invalīdu līdz 18 gadu vecumam;
+1) pabalstu līdz 50 procentiem no mēnešalgas reizi kalendārajā gadā par katru apgādībā esošu bērnu ar invaliditāti līdz 18 gadu vecumam;
 2) veselības apdrošināšanu. Veselības apdrošināšanas prēmija nedrīkst pārsniegt normatīvajos aktos par iedzīvotāju ienākuma nodokli noteikto apmēru. Ja apdrošināšanas prēmija pārsniedz minēto apmēru, pedagogs sedz prēmijas starpību;
 3) kompensāciju to transporta izdevumu segšanai, kas radušies, izmantojot personīgo vai sabiedrisko transportu (izņemot taksometru) no pedagoga deklarētās vai faktiskās dzīvesvietas līdz izglītības iestādei un atpakaļ. Kārtību, nosacījumus un apmēru, kādā pedagogam var kompensēt transporta izdevumus, nosaka izglītības iestādes dibinātājs;
 4) kompensāciju dzīvojamās telpas īres izdevumu segšanai. Kārtību, nosacījumus un apmēru, kādā pedagogam var kompensēt dzīvojamās telpas īres izdevumus, nosaka izglītības iestādes dibinātājs.

@@ -1,12 +1,13 @@
 1.pants. Likumā lietotie termini
 Likumā ir lietoti šādi termini:
 1) akadēmiskā izglītība - zinātņu teorētisko pamatu studijas un to rezultāts;
-1¹) attālinātas mācības - klātienes izglītības procesa daļa, kurā izglītojamie mācās, tai skaitā izmantojot informācijas un komunikācijas tehnoloģijas, fiziski neatrodoties vienā telpā vai mācību vietā kopā ar pedagogu;
+1¹) (izslēgts ar 19.02.2026. likumu);
 2) augstākā izglītība - izglītības pakāpe, kurā iegūst akadēmisko kvalifikāciju atbilstoši piektajam, sestajam, septītajam un astotajam Latvijas kvalifikāciju ietvarstruktūras līmenim;
 2¹) formālā izglītība - sistēma, kas ietver pamatizglītības, vidējās izglītības un augstākās izglītības pakāpes, kuru programmu apguvi apliecina valsts atzīts izglītības vai profesionālās kvalifikācijas dokuments, kā arī izglītības un profesionālās kvalifikācijas dokuments;
 3) interešu izglītība - personas individuālo izglītības vajadzību un vēlmju īstenošana neatkarīgi no vecuma un iepriekš iegūtās izglītības;
 4) izglītība - sistematizētu zināšanu un prasmju apguves un attieksmju veidošanas process un tā rezultāts. Izglītības process ietver mācību un audzināšanas darbību. Izglītības rezultāts ir personas zināšanu, prasmju un attieksmju kopums;
-5) izglītības atbalsta iestāde - valsts, pašvaldību un citu juridisko vai fizisko personu dibināta iestāde, kas nodrošina metodisko, psiholoģisko, zinātnisko, informatīvo un citu intelektuālo atbalstu pedagogiem, izglītojamajiem, izglītojamo vecākiem un izglītības iestādēm;
+4¹) izglītība ģimenē - izglītības ieguves forma, kurā izglītojamais izglītības saturu apgūst vecāku (personu, kas realizē aizgādību) vadībā, izglītojamam un viņa vecākiem (personām, kas realizē aizgādību) sadarbojoties ar izglītības iestādi;
+5) izglītības atbalsta iestāde - valsts, pašvaldību un citu juridisko vai fizisko personu dibināta iestāde, kas nodrošina metodisko, psiholoģisko, zinātnisko, informatīvo un citu intelektuālo atbalstu pedagogiem, izglītojamajiem, izglītojamo vecākiem (personām, kas realizē aizgādību) un izglītības iestādēm;
 6) izglītības dokuments - dokuments, kas apliecina personas iegūto izglītību atbilstoši noteiktai izglītības pakāpei, veidam un programmai vai šīs izglītības daļēju apgūšanu;
 7) izglītības iestāde - valsts, pašvaldību, valsts augstskolu vai citu juridisko vai fizisko personu dibināta iestāde, kuras uzdevums ir izglītības programmu īstenošana, vai komercsabiedrība, kuram izglītības programmu īstenošana ir viens no darbības veidiem;
 7¹) izglītības kvalitāte - izglītības process, saturs, vide un pārvaldība, kas ikvienam nodrošina iekļaujošu izglītību un iespēju sasniegt augstvērtīgus rezultātus atbilstoši sabiedrības izvirzītajiem un valsts noteiktajiem mērķiem;
@@ -19,8 +20,9 @@ Likumā ir lietoti šādi termini:
 12¹) karjera - izglītības, darba un privātās dzīves mijiedarbība cilvēka mūža laikā;
 12²) karjeras izglītība - izglītības procesā integrēti pasākumi, lai nodrošinātu izglītojamo karjeras vadības prasmju apguvi un attīstīšanu, kas ietver savu interešu, spēju un iespēju apzināšanos tālākās izglītības un profesionālās karjeras virziena izvēlei;
 12³) karjeras attīstības atbalsts - pasākumu kopums, kas ietver informācijas, karjeras izglītības un individuālo konsultāciju pieejamību izglītojamajiem karjeras mērķu noteikšanai un plānošanai, izdarot izvēli saistībā ar izglītību un darbu;
-12⁴) klātiene - izglītības apguves forma, kurā izglītojamais izglītības saturu apgūst, apmeklējot izglītības iestādi, tai skaitā attālinātajās mācībās, atbilstoši izglītības iestādes īstenotajai izglītības programmai;
-12⁵) mācību līdzekļi - izglītības programmas īstenošanā un izglītības satura apguvē izmantojamā:
+12⁴) klātiene - izglītības ieguves forma, kurā izglītojamais izglītības saturu apgūst pedagoga vadībā, apmeklējot izglītības iestādi, atbilstoši izglītības iestādes īstenotajai izglītības programmai;
+12⁵) kombinētas mācības - izglītības procesa organizēšana un īstenošana, izvēloties atbilstošākos mācību līdzekļus, metodes un elementus vai to kombināciju, piemēram, attālinātas mācības, mācības tiešsaistē, ar tehnoloģijām papildinātas mācības, pedagogu vadītas mācības;
+12⁶) mācību līdzekļi - izglītības programmas īstenošanā un izglītības satura apguvē izmantojamā:
 a) mācību literatūra (mācību grāmatas, tām pielīdzinātās darba burtnīcas un citi izglītības satura apguvei paredzēti izdevumi, kuri tiek izmantoti mācību procesā valsts pirmsskolas izglītības vadlīnijās, valsts pamatizglītības, vispārējās vidējās izglītības, profesionālās vidējās izglītības un arodizglītības standartos noteiktā izglītības satura apguvē) drukātā vai digitālā formā (arī tiešsaistē),
 b) elektroniskie resursi - elektroniskā vidē mācību vajadzībām apkopota tekstuāla, vizuāla vai audiāla informācija,
 c) interaktīvas mācību platformas (mācību vajadzībām paredzēti īpaši organizēti elektroniskie resursi, kuros iekļauts izglītības programmas īstenošanai nepieciešamais saturs un ir paredzētas mācību satura aktīvas apguves iespējas),
@@ -39,7 +41,7 @@ o) kultūras norises, kas izglītojamiem, kuri apgūst pamatizglītības, vispā
 13) mācību priekšmeta vai kursa programma - izglītības programmas sastāvdaļa, kas ietver mācību priekšmeta vai kursa mērķus un uzdevumus, saturu, satura apguves plānojumu, iegūtās izglītības vērtēšanas kritērijus un kārtību, kā arī programmas īstenošanai nepieciešamo metožu un līdzekļu uzskaitījumu;
 14) (izslēgts no 01.09.2022. ar 20.09.2018. likumu, kas stājas spēkā 18.10.2018.);
 14¹) neformālā izglītība - ārpus formālās izglītības organizēta interesēm un pieprasījumam atbilstoša izglītojoša darbība;
-14²) neklātiene - izglītības ieguves forma, kādā izglītojamais daļu no izglītības iestādes īstenotas izglītības programmas satura apgūst patstāvīgi;
+14²) nepilna laika klātiene - izglītības ieguves forma, kādā izglītojamais daļu no izglītības iestādes īstenotas izglītības programmas satura apgūst patstāvīgi;
 15) pamatizglītība - izglītības pakāpe, kurā notiek sagatavošanās izglītībai vidējā pakāpē vai profesionālajai darbībai, sabiedrības un cilvēka individuālajā dzīvē nepieciešamo pamatzināšanu un pamatprasmju apguve, vērtīborientācijas veidošanās un iesaiste sabiedrības dzīvē;
 16) pašizglītība - ārpus izglītības iestādes iegūta izglītība;
 16¹) pašvaldības izglītības ekosistēma - sistēma, kuru pašvaldība veido, lai nodrošinātu iedzīvotājiem nepieciešamās zināšanas, prasmes un attieksmes mūža garumā. Pašvaldība attīsta tās vadībā un pārraudzībā mērķtiecīgi strādājošu institūciju kopu, izglītības jomā sadarbojoties ar pašvaldības, privātajām un valsts izglītības iestādēm, darba devējiem, sociālajiem partneriem, nevalstiskajām organizācijām, citām pašvaldībām un to teritorijās esošām izglītības iestādēm, koordinējot izglītības īstenošanu visās izglītības programmās un pakāpēs;
@@ -54,7 +56,7 @@ o) kultūras norises, kas izglītojamiem, kuri apgūst pamatizglītības, vispā
 23) profesionālās kvalifikācijas dokuments - dokuments, kas apliecina personas profesionālo kvalifikāciju un dod tiesības pretendēt uz konkrētai profesijai un kvalifikācijas pakāpei atbilstoša amata ieņemšanu vai attiecīgā sertifikāta saņemšanu darbam privātpraksē;
 24) speciālā izglītība - personām ar speciālām vajadzībām un veselības traucējumiem vai arī speciālām vajadzībām vai veselības traucējumiem adaptēta vispārējā un profesionālā izglītība;
 25) tālākizglītība - iepriekš iegūtās izglītības turpināšana un profesionālās meistarības pilnveidošana atbilstoši konkrētās profesijas prasībām;
-26) tālmācība - izglītības ieguves forma, kādā izglītojamais izglītības iestādes īstenotas izglītības programmas saturu apgūst patstāvīgi individuālā veidā, izmantojot izglītības iestādes piedāvātus īpaši strukturētus mācību materiālus, dažādus tehniskos un elektroniskos saziņas līdzekļus. Izglītojamā sasniegumi tiek novērtēti atbilstoši attiecīgās izglītības programmas prasībām;
+26) tālmācība - izglītības ieguves forma, kurā izglītojamais izglītības iestādes īstenotas izglītības programmas saturu apgūst patstāvīgi individuālā veidā, izmantojot izglītības iestādes piedāvātu mācību metodiku un pieeju, īpaši strukturētus mācību līdzekļus un mācību atbalsta sistēmu. Nepilngadīgs izglītojamais pamatizglītības programmu tālmācībā apgūst ar vecāku (personu, kas realizē aizgādību) atbalstu;
 26¹) (izslēgts ar 05.05.2016. likumu);
 27) valsts izglītības standarts - dokuments, kas atbilstoši izglītības pakāpei un veidam nosaka izglītības programmu galvenos mērķus un uzdevumus, izglītības obligāto pamatsaturu, iegūtās izglītības vērtēšanas pamatkritērijus un vispārējo kārtību;
 28) vidējā izglītība - izglītības pakāpe, kurā notiek daudzpusīga personības pilnveide, mērķtiecīga un padziļināta izaugsme apzināti izraudzītā vispārējās vai profesionālās izglītības vai arī vispārējās un profesionālās izglītības virzienā, sagatavošanās studijām augstākajā izglītības pakāpē vai profesionālajai darbībai, iesaiste sabiedrības dzīvē;
