@@ -11,7 +11,8 @@
 7) Ministru kabineta noteiktā kārtībā:
 a) akreditē vispārējās izglītības iestādes un profesionālās izglītības iestādes (izņemot augstskolas un koledžas),
 b) novērtē izglītības iestāžu (izņemot augstskolu un koledžu) vadītāju profesionālo darbību, izvērtējot izglītības iestādes pārvaldības kvalitāti;
-c) novērtē augstskolu un koledžu akreditācijas procesā to darbības kvalitāti profesionālās vidējās izglītības, profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu īstenošanā un informē par tās rezultātiem Akadēmiskās informācijas centru;
+c) akreditācijas procesā novērtē augstskolu un koledžu darbības kvalitāti, īstenojot profesionālās vidējās izglītības programmas, kā arī profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas vidējās izglītības pakāpē, un informē par novērtējuma rezultātiem Akadēmiskās informācijas centru,
+d) sadarbībā ar Akadēmiskās informācijas centru piedalās koledžu akreditācijas procesā;
 8) izstrādā vadlīnijas vispārējās un profesionālās izglītības (izņemot augstāko profesionālo izglītību) kvalitātes nodrošināšanai, sniedz ieteikumus izglītības kvalitātes pilnveidei, kā arī organizē izglītības kvalitātes datu ieguvi un analīzi;
 9) sagatavo ikgadēju izglītības (izņemot augstāko izglītību) kvalitātes izvērtējumu un iesniedz to Izglītības un zinātnes ministrijai;
 10) analizē pašvaldību pārskatus par izglītības kvalitāti un sniedz ieteikumus tās uzlabošanai.

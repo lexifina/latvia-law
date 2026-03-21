@@ -1,12 +1,13 @@
 35.¹ pants. Valsts pārbaudījumu informācijas sistēma
-(1) Valsts pārbaudījumu informācijas sistēma ir valsts informācijas sistēma, kurā ieraksta ziņas par šādiem valsts pārbaudījumiem:
+(1) Valsts pārbaudījumu informācijas sistēma ir valsts informācijas sistēma, kurā ieraksta ziņas par šādiem valsts pārbaudījumiem un izglītības dokumentiem:
 1) valsts pārbaudījumiem vispārējās izglītības programmās;
 2) valsts pārbaudījumiem profesionālās izglītības programmās, izņemot augstākās izglītības programmas;
 3) diagnosticējošajiem (monitoringa) darbiem;
 4) mācību priekšmetu olimpiādēm;
 5) valsts valodas prasmes pārbaudījumiem;
 6) starptautiskas testēšanas institūcijas pārbaudījumiem svešvalodā;
-7) zinātniskās pētniecības darbu konkursiem.
+7) zinātniskās pētniecības darbu konkursiem;
+8) valsts atzītiem izglītības dokumentiem, kurus izsniedz akreditētas izglītības iestādes.
 (2) Valsts pārbaudījumu informācijas sistēmā ierakstāmas ziņas par izglītības iestādēm, kurās kārto valsts pārbaudījumus, par personām, kurām jākārto valsts pārbaudījumi, un par personām, kuras nodrošinājušas pārbaudes procesu, par valsts pārbaudījumu uzdevumiem un vērtējumiem, kā arī ziņas par dokumentiem, kas apliecina valsts pārbaudījumu rezultātus, ziņas par pārbaudījumu rezultātu apstrīdēšanu un ziņas par valsts pārbaudījumu rezultātu pārsūdzēšanu, ja atbilstoši tiesas nolēmumā norādītajam tiek mainīti pārbaudījumu rezultāti. Valsts pārbaudījumu informācijas sistēmā ziņas ieraksta un apstrādā, lai nodrošinātu pārbaudījumu norisi un pārbaudījumu rezultātu paziņošanu.
 (3) Ja nokārtots Ministru kabineta sarakstā iekļautas starptautiskās testēšanas institūcijas pārbaudījums svešvalodā un tas aizstāj valsts pārbaudījumu svešvalodā vispārējās vidējās izglītības programmā vai profesionālās vidējās izglītības programmā, Valsts pārbaudījumu informācijas sistēmā ieraksta ziņas par institūciju, kurā kārtots starptautiskās testēšanas institūcijas pārbaudījums, un par šā pārbaudījuma rezultātiem.
 (4) Par valsts valodas prasmes pārbaudījumiem Valsts pārbaudījumu informācijas sistēmā ierakstāmas šā panta otrajā daļā minētās ziņas.
