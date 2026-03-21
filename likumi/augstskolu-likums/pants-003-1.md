@@ -1,5 +1,5 @@
 3.¹ pants. Zinātnes universitāte un tās darbības mērķi
-(1) Zinātnes universitāte ir nacionāla līmeņa zinātnes, izglītības un kultūras institūcija, kura atbilstoši valsts augstākās izglītības standartam īsteno trīs augstākās izglītības līmeņu studiju programmas - bakalaura, maģistra un doktora studiju programmas.
+(1) Zinātnes universitāte ir nacionāla līmeņa zinātnes, izglītības un kultūras institūcija, kura atbilstoši valsts augstākās izglītības standartam īsteno pirmā, otrā un trešā cikla augstākās izglītības programmas.
 (2) Zinātnes universitātes darbības mērķi atbilstoši tās dibinātāja noteiktai stratēģiskajai specializācijai ir šādi:
 1) veicināt nacionāli un starptautiski atzīta akadēmiskā un zinātniskā personāla koncentrēšanos tās īstenotajā akadēmiskajā un zinātniskajā studiju un pētniecības procesā;
 2) akadēmiskās brīvības ietvaros attīstīt starptautiski novērtētus fundamentālos un lietišķos pētījumus, radot jaunas zināšanas un prasmes, kas nepieciešamas sabiedrības ilgtspējīgai attīstībai;
@@ -10,7 +10,7 @@
 (3) Zinātnes universitāte savu mērķu sasniegšanai:
 1) sadarbojas ar citām izglītības un zinātniskajām institūcijām, lai nodrošinātu kopējo valsts izglītības, zinātnes, tehnoloģiju attīstības un inovāciju politikas attīstību un pilnveidi, tai skaitā nodrošinātu izglītības un pētniecības resursu kopīgu lietošanu un efektivitāti;
 2) veic starptautiski atzītu zinātnisko darbību vismaz trijās zinātnes nozaru grupās un īsteno studiju programmas vismaz trijos studiju virzienos, un tās zinātniskā darbība ir aprobēta ar:
-a) starptautiski atzītām (citētām) zinātniskajām publikācijām, tai skaitā humanitārajās jomās (letonikā un baltistikā), kuras var būt pielīdzināmas Latvijas vai Lietuvas zinātniskajiem recenzētajiem izdevumiem,
+a) starptautiski atzītām (citētām) zinātniskajām publikācijām, tai skaitā humanitārajās jomās (letonikā un baltistikā), kuras var būt pielīdzināmas Latvijas vai Lietuvas zinātniskajiem recenzētajiem izdevumiem, ja tas atbilst augstskolas stratēģiskajai specializācijai,
 b) recenzētām zinātniskām monogrāfijām,
 c) intelektuālā īpašuma objektiem;
 3) veido zinātnes universitātes struktūrvienības vai zinātniskos institūtus un citas institūcijas tās dibinātāja noteiktai stratēģiskajai specializācijai atbilstošās, kā arī zinātnes universitātes attīstības stratēģijā noteiktās zinātnes nozaru grupās;

@@ -1,12 +1,14 @@
 5.pants. Augstskolu uzdevumi
 (1) Augstskolu dibinātāji nosaka augstskolai īstenojamos uzdevumus. Nozares ministrija pārrauga augstskolas darbību stratēģiskajos un finanšu jautājumos. Augstskolas to autonomijas ietvaros nodrošina studiju, pētniecības un mākslinieciskās jaunrades darba nedalāmību. Tās savā darbībā izkopj un attīsta zinātni, mākslu un valsts valodu. Augstskolas nodrošina studējošajiem iespējas nodarboties ar sportu
 (2) Augstskolas izstrādā studiju programmas, izraugās akadēmisko personālu, iekārto laboratorijas, darbnīcas, bibliotēkas un citas struktūras tā, lai studējošajiem dotu iespēju iegūt zināšanas, akadēmisko izglītību un profesionālo prasmi atbilstoši zinātnes attīstības līmenim un Latvijas kultūras tradīcijām, turklāt iespējami koncentrētā un didaktiski pilnvērtīgā veidā. Tās nodrošina tādas pārbaudījumu un eksāmenu prasības un tādu procedūru, lai piešķirtos grādus un nosaukumus, iegūtos diplomus un profesionālo kvalifikāciju, kā arī studiju programmu daļu apgūšanu savstarpēji atzītu Latvijas un ārvalstu augstskolās.
-(2¹) Augstskolas īsteno savas iekšējās kvalitātes nodrošināšanas sistēmas, kuru ietvaros:
-1) iedibina politiku un procedūras augstākās izglītības kvalitātes nodrošināšanai;
+(2¹) Augstskolas īsteno savu iekšējās kvalitātes nodrošināšanas sistēmu, kuras ietvaros:
+1) iedibina politiku un procedūras augstākās izglītības kvalitātes nodrošināšanai, ievērojot Eiropas augstākās izglītības telpā starptautiski atzītus kvalitātes nodrošināšanas standartus;
 2) izstrādā mehānismus savu studiju programmu veidošanai, iekšējai apstiprināšanai, to darbības uzraudzīšanai un periodiskai pārbaudei;
 3) izveido un publisko tādus studējošo sekmju vērtēšanas kritērijus, nosacījumus un procedūras, kas ļauj pārliecināties par paredzēto studiju rezultātu sasniegšanu;
-4) izveido iekšējo kārtību un mehānismus akadēmiskā personāla kvalifikācijas un darba kvalitātes nodrošināšanai;
-5) nodrošina, ka tiek vākta un analizēta informācija par studējošo sekmēm, absolventu nodarbinātību, studējošo apmierinātību ar studiju programmu, par akadēmiskā personāla darba efektivitāti, pieejamiem studiju līdzekļiem un to izmaksām, augstskolas darbības būtiskiem rādītājiem.
+4) izveido iekšējo kārtību un mehānismus akadēmiskā personāla atlases, novērtēšanas, kvalifikācijas un darba kvalitātes nodrošināšanai;
+5) nodrošina, ka tiek vākta un analizēta informācija par studējošo sekmēm, absolventu nodarbinātību, studējošo apmierinātību ar studiju programmu, par akadēmiskā personāla darba efektivitāti, pieejamiem studiju līdzekļiem un to izmaksām, augstskolas darbības būtiskiem rādītājiem;
+6) nodrošina efektīvu un rezultatīvu institucionālo pārvaldību;
+7) izstrādā un uztur visaptverošu un koordinētu risku pārvaldības sistēmu.
 (3) (Izslēgta ar 08.06.2021. likumu)
 (4) Augstskolas organizē savu darbu sabiedrības interesēs, kā arī informē sabiedrību par savu darbību, par studiju un zinātnisko pētījumu virzieniem un iespējām, veicinot studiju un pētniecības darba izvēli atbilstoši indivīda interesēm un spējām. Tās piedāvā sabiedrībai iegūtās zinātniskās, mākslinieciskās un profesionālās atziņas, metodes un pētījumu rezultātus.
 (5) Augstskolas rūpējas par jauno zinātnieku sagatavošanu un nodrošina viņiem iespēju iekļauties pasaules akadēmiskajos procesos.

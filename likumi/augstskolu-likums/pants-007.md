@@ -6,5 +6,5 @@
 2) ir tiesīgs, ja to prasa šīs augstskolas militārā vai profesionālā specifika, paredzēt citu kārtību studējošo skaita noteikšanai, studējošo un akadēmiskā personāla komplektēšanai, studiju līgumu slēgšanai, studiju programmu ekspertīzei pirms apstiprināšanas un studējošo pašpārvaldes finansēšanai, kā arī atšķirīgas prasības rektora kvalifikācijai un ierobežojumus šajā likumā noteiktajām studējošo un studējošo pašpārvaldes tiesībām.
 (2²) (Izslēgta ar 15.09.2022. likumu)
 (3) Privātpersonu dibinātās augstskolas ir komercsabiedrības vai nodibinājumi, kas darbojas saskaņā ar Komerclikumu vai Biedrību un nodibinājumu likumu, ciktāl tas nav pretrunā ar šo likumu.
-(4) Valstiski atzītā diplomā izmanto valsts ģerboņa attēlu, un šāda diploma paraugu nosaka Ministru kabinets.
+(4) Valsts atzītā diplomā izmanto valsts ģerboņa attēlu, un šāda diploma paraugu nosaka Ministru kabinets.
 (5) Augstskolai ir zīmogs ar augstskolas pilnu nosaukumu. Augstskolai ir tiesības zīmogā izmantot arī augstskolas vēsturiski izveidojušos simboliku.

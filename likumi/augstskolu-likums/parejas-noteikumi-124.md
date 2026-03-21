@@ -1,0 +1,1 @@
+124. Tie augstskolu un koledžu studiju virzienu akreditācijas termiņi, kuri beidzas pēc 2026. gada 30. aprīļa, bet pirms 2028. gada 1. janvāra, tiek pagarināti līdz 2027. gada 31. decembrim, ja attiecīgie studiju virzieni ir akreditēti uz sešiem gadiem.

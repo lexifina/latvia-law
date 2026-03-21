@@ -1,0 +1,3 @@
+125. No 2028. gada 1. janvāra augstskolas un koledžas, kuras akreditētas uz nenoteiktu laiku, ir tiesīgas izsniegt valsts atzītus izglītības dokumentus līdz dienai, kad tiek pieņemts lēmums par augstskolas vai koledžas akreditāciju uz noteiktu laiku vai lēmums par atteikumu to akreditēt, bet ne ilgāk kā līdz 2032. gada 30. jūnijam. Šajā laika periodā augstskolas un koledžas ir tiesīgas izsniegt valsts atzītus diplomus par tādas studiju programmas apguvi, kura atbilst vismaz vienam no šādiem kritērijiem:
+1) studiju programma atbilst studiju virzienam, kurš 2027. gada 31. decembrī ir bijis akreditēts;
+2) studiju programma ir licencēta pēc 2027. gada 31. decembra.
