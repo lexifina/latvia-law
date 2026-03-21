@@ -16,7 +16,9 @@
 7) augstskolā pārtraukta studiju programmas īstenošana;
 8) ir pieņemts lēmums par atteikumu akreditēt studiju virzienu augstskolā;
 9) studiju virziena novērtēšanas ietvaros studiju programma atzīta par neatbilstošu šā likuma prasībām;
-10) beidzies studiju programmas akreditācijas termiņš un augstskola viena mēneša laikā pēc šā termiņa beigām nav iesniegusi iesniegumu par kārtējo studiju programmas akreditāciju.
+10) beidzies studiju programmas akreditācijas termiņš un augstskola viena mēneša laikā pēc šā termiņa beigām nav iesniegusi iesniegumu par kārtējo studiju programmas akreditāciju;
+11) (punkts stājas spēkā 01.01.2027. un iekļauts likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 108. punktu).
+(8¹) (Daļa stājas spēkā 01.01.2028. un iekļauta likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 123. punktu)
 (9) Studiju kvalitātes komisijas lēmumu var apstrīdēt Apelācijas komisijā, un Apelācijas komisijas lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.
 (10) Apelācijas komisijas sastāvā ir četri eksperti, no tiem divi ir augstākās izglītības eksperti un divi - eksperti ar augstāko izglītību tiesību zinātnēs un profesionālo pieredzi administratīvajā procesā.
 (11) Studiju kvalitātes komisijas un Apelācijas komisijas tehnisko un organizatorisko darbību studiju programmu licencēšanā nodrošina Akadēmiskās informācijas centrs.
