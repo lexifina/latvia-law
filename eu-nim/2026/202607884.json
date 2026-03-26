@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 24. marta noteikumi Nr. 166 \"Degvielas un kurināmā operatoru pienākumi un to izpildes uzraudzība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "59",
+  "official_journal_page": null,
+  "official_journal_date": "2026-03-25",
+  "entry_into_force": "2026-03-26",
+  "notification_date": "2026-10-15",
+  "commission_reference": "MNE(2026)07884",
+  "nim_celex": "72023L0959LVA_202607884",
+  "nim_id": "202607884",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/e155c512-4bef-4d21-b0d0-2557eb167e0f",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
