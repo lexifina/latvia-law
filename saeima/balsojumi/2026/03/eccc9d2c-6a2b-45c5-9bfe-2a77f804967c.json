@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 21,
+ "datums": "2026-03-26",
+ "ieraksts": {
+  "dkp_id": "31bc2474-a454-4a26-adf3-b16f3296aa90",
+  "lastmodtime": "\"AAAAAAKBVnA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Andris#Ingmārs#Edmunds#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Gatis#Līga#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Kulbergs#Līdaka#Zivtiņš#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS# #NA#PRO#JV# # #PRO#NA#ZZS#ZZS#AS#AS#LPV#LPV#JV#NA#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#ZZS#ZZS# # #ZZS# #JV# #JV# #AS#JV#ZZS#NA#JV#PRO#LPV#AS#JV#AS#NA# #AS#AS#JV#ZZS#ZZS#ZZS#AS# #AS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#ZZS#JV#JV#AS",
+  "RESULT": "Par#Par#Par#Par#Atturas#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "26.03.2026 16:32:47",
+  "VOTEMOTIVE": "Par Saeimas Parlamentārās izmeklēšanas komisijas par Rīgas valstspilsētas centralizētās siltumapgādes sadārdzinājuma iemesliem un enerģētiskās drošības riskiem nākotnē darbības laika pagarināšanu (934/Lm14)",
+  "VOTING_ID": "eccc9d2c-6a2b-45c5-9bfe-2a77f804967c",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "87",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "67",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-21-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/d936a7ed-462f-4abb-be66-81aaabe4456e/download/14.saeimas-2026.gada-ziemas-sesija-21-vote.xml",
+  "sha256": "4dce938ac1c5003f1f095f237978db6eb9d2dffae9df7a7934fdf39e4c47c86c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
