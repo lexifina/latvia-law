@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 24. marta noteikumi Nr. 150 \"Grozījumi Ministru kabineta 2002. gada 19. februāra noteikumos Nr. 68 \"Izglītības programmu minimālās prasības zobārsta, farmaceita, māsas un vecmātes profesionālās kvalifikācijas iegūšanai\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "60",
+  "official_journal_page": null,
+  "official_journal_date": "2026-03-26",
+  "entry_into_force": "2026-03-27",
+  "notification_date": "2026-04-02",
+  "commission_reference": "MNE(2026)02193",
+  "nim_celex": "72024L0782LVA_202602193",
+  "nim_id": "202602193",
+  "transposes_celex": [
+    "32024L0782"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/56645269-0e1d-4204-a587-199f2ef1315b",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
