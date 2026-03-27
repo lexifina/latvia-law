@@ -17,7 +17,7 @@ a) personālsabiedrībā un Eiropas ekonomisko interešu grupā - visi šīs sab
 b) kapitālsabiedrībā, Eiropas komercsabiedrībā, kooperatīvajā sabiedrībā un Eiropas kooperatīvajā sabiedrībā - valde,
 c) individuālajā uzņēmumā, zemnieka vai zvejnieka saimniecībā - attiecīgi uzņēmuma vai saimniecības īpašnieks,
 d) ārvalsts komersanta filiālē un nerezidenta (ārvalsts komersanta) pastāvīgajā pārstāvniecībā - persona, kura pilnvarota pārstāvēt ārvalsts komersantu (nerezidentu) darbībās, kas saistītas ar filiāli vai pastāvīgo pārstāvniecību,
-e) budžeta iestādē, no valsts budžeta daļēji finansētā atvasinātā publiskā personā un budžeta nefinansētā iestādē Likuma par budžetu un finanšu vadību izpratnē (turpmāk - budžeta iestādes) - amatpersona, kas īsteno attiecīgās iestādes vispārējo administratīvo vadību,
+e) budžeta iestādē, no valsts budžeta daļēji finansētā atvasinātā publiskā personā un budžeta nefinansētā iestādē Likuma par budžetu un finanšu vadību izpratnē, citā publiskā personā un iestādē, kā arī patstāvīgajā iestādē - amatpersona, kas īsteno attiecīgās iestādes vispārējo administratīvo vadību,
 f) biedrībā, nodibinājumā, politiskajā organizācijā (partijā), politisko organizāciju (partiju) apvienībā, arodbiedrībā un arodbiedrību apvienībā, kā arī Eiropas politiskajā partijā un Eiropas politiskajā fondā - izpildinstitūcija vai pārvaldes institūcija (valde),
 g) reliģiskajā organizācijā un tās iestādē - vadība (vadības institūcija),
 h) individuālais komersants un cita fiziskā persona, kas veic saimniecisko darbību,
