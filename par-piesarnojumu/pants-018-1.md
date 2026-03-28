@@ -9,3 +9,8 @@
 5) sabiedrībai un Eiropas Komisijai sniedzamo informāciju par vides troksni, tās sniegšanas kārtību un termiņus, kā arī kārtību, kādā sabiedrība tiek iesaistīta rīcības plāna trokšņa samazināšanai izstrādē;
 6) prasības un kārtību satiksmes un rūpniecisko objektu radītā vides trokšņa novērtēšanai.
 (4) Apdzīvotajām vietām, autoceļiem, dzelzceļa līnijām un lidostām, kuru attiecīgie rādītāji ir mazāki, nekā minēts šā likuma pārejas noteikumu 10. vai 11.punktā, šā panta pirmajā un otrajā daļā minētās institūcijas var veikt trokšņa kartēšanu, izstrādāt un ieviest trokšņa stratēģiskās kartes un rīcības plānu trokšņa samazināšanai atbilstoši šajā likumā un citos normatīvajos aktos par vides aizsardzību paredzētajiem nosacījumiem.
+(5) Pašvaldība savā administratīvajā teritorijā gādā par cilvēku aizsardzību pret nevēlamu vai kaitīgu troksni, kas rodas dažādu pasākumu laikā (izņemot treniņšaušanu, šaušanas sacensības un medības), izklaides vietās un izklaides darbību rezultātā. Pašvaldība var izdot saistošos noteikumus, kuros paredz:
+1) pašvaldības atļauju izsniegšanu gadījumos, kad pasākumu laikā, izklaides vietās un izklaides darbību rezultātā tiks radīts troksnis;
+2) prasības un kārtību skaņu pastiprinošu iekārtu izmantošanai, kā arī to, kā tiek uzraudzīta šo prasību un kārtības ievērošana;
+3) prasības attiecībā uz skaņas izolāciju, kā arī to, kā tiek uzraudzīta šo prasību ievērošana;
+4) institūcijas, kas ir tiesīgas kontrolēt attiecīgo pašvaldības saistošo noteikumu izpildi.

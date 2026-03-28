@@ -1,1 +1,1 @@
-83. Šā likuma 1. panta pirmās daļas 3.⁴, 10.⁴ un 10.⁵ punkts, 32.²⁷ panta septītā un astotā daļa, kā arī V¹, V³ un X nodaļa un šā likuma 4. pielikums zaudē spēku vienlaikus ar Ekonomiskās ilgtspējas likuma spēkā stāšanos.
+83. Šā likuma 1. panta pirmās daļas 3.⁴, 10.⁴ un 10.⁵ punkts, 32.²⁷ panta septītā un astotā daļa, kā arī V¹, V³ un X nodaļa un šā likuma 4. pielikums zaudē spēku vienlaikus ar Klimatnoturības un ekonomiskās ilgtspējas likuma spēkā stāšanos.

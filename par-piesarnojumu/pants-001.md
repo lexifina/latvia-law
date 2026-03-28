@@ -22,7 +22,7 @@
 9) potenciāli piesārņota vieta - augsne, zemes dzīles, ūdens, dūņas, kā arī ēkas, ražotnes vai citi objekti, kuri, pēc nepārbaudītas informācijas, satur vai var saturēt piesārņojošas vielas;
 10) sanācija - piesārņotas vietas attīrīšana un atveseļošana vismaz līdz tādai pakāpei, ka turpmāk cilvēku veselība vai vide netiek apdraudēta un attiecīgo teritoriju iespējams izmantot noteiktai saimnieciskai darbībai;
 10¹) siltumnīcefekta gāzes - oglekļa dioksīds (CO2), metāns (CH4), vienvērtīgā slāpekļa oksīds (N2O), fluorogļūdeņraži (HFC), perfluorogļūdeņraži (PFC), sēra heksafluorīds (SF6) un slāpekļa trifluorīds (NF3);
-10²) siltumnīcefekta gāzu emisija - siltumnīcefekta gāzu izplūde no šā likuma 2. pielikumā un Ekonomiskās ilgtspējas likuma pielikuma I sadaļā minētajām darbībām un avotiem;
+10²) siltumnīcefekta gāzu emisija - siltumnīcefekta gāzu izplūde no šā likuma 2. pielikumā un Klimatnoturības un ekonomiskās ilgtspējas likuma pielikuma I sadaļā minētajām darbībām un avotiem;
 10³) citi siltumnīcefekta gāzu emisiju avoti - siltumnīcefekta gāzu emisija atmosfērā no šā likuma 4.pielikuma I daļā minētajām darbībām, kuras nav iekļautas Eiropas Savienības emisijas kvotu tirdzniecības sistēmā un kurām nav nepieciešama siltumnīcefekta gāzu emisijas atļauja;
 10⁴) (zaudējis spēku ar 12.12.2025. Sk. pārejas noteikumu 83. punktu);
 10⁵) (zaudējis spēku ar 12.12.2025. Sk. pārejas noteikumu 83. punktu);
