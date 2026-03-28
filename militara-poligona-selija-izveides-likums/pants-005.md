@@ -1,2 +1,4 @@
 5. pants. Teritorijas plānošanas izņēmumi
-Aizsardzības ministrijai ir tiesības militārā poligona infrastruktūras izbūvei nepieciešamās būves projektēt un būvēt uz vairākiem zemes gabaliem. Aizsardzības ministrijai pēc nekustamā īpašuma atsavināšanas vai valdījuma iegūšanas ir pienākums apvienot attiecīgos zemes gabalus vienā zemes gabalā.
+Aizsardzības ministrijai ir tiesības:
+1) militārā poligona infrastruktūras izbūvei nepieciešamās būves projektēt un būvēt uz vairākiem zemes gabaliem. Aizsardzības ministrijai pēc nekustamā īpašuma atsavināšanas vai valdījuma iegūšanas ir pienākums apvienot attiecīgos zemes gabalus vienā zemes gabalā;
+2) militārajā bāzē un noliktavu kompleksā ietilpstošās ēkas projektēt un būvēt uz vairākiem zemes gabaliem. Aizsardzības ministrijai ir pienākums līdz brīdim, kad pabeigta militārās bāzes ēku nodošana ekspluatācijā, apvienot attiecīgos zemes gabalus vienā zemes gabalā ar šā panta 1. punktā minētā militārā poligona zemes gabalu un līdz brīdim, kad pabeigta noliktavu kompleksa ēku nodošana ekspluatācijā, apvienot attiecīgos zemes gabalus vienā zemes gabalā.
