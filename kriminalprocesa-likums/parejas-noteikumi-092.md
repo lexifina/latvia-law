@@ -1,0 +1,1 @@
+92. Lietas, kuras saņemtas Ekonomisko lietu tiesā pirms šā likuma 442. panta 1.¹ daļas spēkā stāšanās, taču saskaņā ar minēto daļu vairs nav piekritīgas Ekonomisko lietu tiesai un kurās tiesas izmeklēšana nav uzsākta, nosūta izskatīšanai rajona (pilsētas) tiesai pēc piekritības.

@@ -1,0 +1,1 @@
+91. Lietas, kuras saskaņā ar šā likuma 442. panta 1.¹ daļu vairs nav piekritīgas Ekonomisko lietu tiesai, taču tiesas izmeklēšana tajās ir uzsākta Ekonomisko lietu tiesā pirms minētās daļas spēkā stāšanās, turpina izskatīt šī tiesa. Šajās lietās apelācijas kārtībā pārsūdzēto nolēmumu izskata apgabaltiesa atbilstoši vispārējai sadales kārtībai.
