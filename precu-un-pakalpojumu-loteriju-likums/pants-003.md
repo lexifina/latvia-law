@@ -1,1 +1,1 @@
-3.pants. Lai organizētu preču vai pakalpojumu loteriju, komersantam, kas ražo, izplata, pārdod preces vai sniedz pakalpojumus, vai loterijas organizētājam ir jāsaņem loterijas atļauja Izložu un azartspēļu uzraudzības inspekcijā (turpmāk - Inspekcija).
+3.pants. Lai organizētu preču vai pakalpojumu loteriju, komersantam, kas ražo, izplata, pārdod preces vai sniedz pakalpojumus, vai loterijas organizētājam ir jāsaņem loterijas atļauja Valsts ieņēmumu dienestā (turpmāk - Dienests).

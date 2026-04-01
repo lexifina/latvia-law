@@ -1,4 +1,4 @@
-14.pants. (1) Vienlaikus ar loterijas atļaujas piešķiršanu Inspekcija apstiprina preču vai pakalpojumu loterijas noteikumus.
+14.pants. (1) Vienlaikus ar loterijas atļaujas piešķiršanu Dienests apstiprina preču vai pakalpojumu loterijas noteikumus.
 (2) Preču vai pakalpojumu loterijas noteikumiem jābūt skaidriem un nepārprotamiem, izklāstītiem loģiskā secībā, un tajos iekļaujama šāda informācija:
 1) preču ražotāja, izplatītāja, pārdevēja vai pakalpojumu sniedzēja nosaukums, reģistrācijas numurs un juridiskā adrese;
 2) ja loteriju organizē cita persona, - loterijas organizētāja nosaukums, reģistrācijas numurs un juridiskā adrese;
@@ -16,7 +16,7 @@
 14) informācija par to, kur loterijas dalībnieks var vērsties pretenziju gadījumā, kārtība un termiņš, kādā pretenzijas tiek izskatītas;
 15) personas, kuras nedrīkst piedalīties loterijā;
 16) cita informācija, ko loterijas atļaujas saņēmējs uzskata par nepieciešamu.
-(3) Inspekcija neapstiprina preču vai pakalpojumu loterijas noteikumus, ja:
+(3) Dienests neapstiprina preču vai pakalpojumu loterijas noteikumus, ja:
 1) tajos nav iekļauta šajā likumā paredzētā informācija;
 2) tajos nav pietiekami skaidras informācijas par katra loterijas dalībnieka aptuvenajām izredzēm laimēt;
 3) tie paredz preču vai pakalpojumu loteriju organizēšanu, kas neatbilst šā likuma prasībām.
