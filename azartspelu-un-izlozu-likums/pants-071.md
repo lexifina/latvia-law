@@ -22,4 +22,4 @@
 7) kārtība, kādā notiek pieteikšanās uz laimestu un kādā to izsniedz;
 8) kur dalībnieks var vērsties pretenziju gadījumā, kā arī pretenziju izskatīšanas kārtība;
 9) cita informācija, kuru izlozes organizētājs uzskata par nepieciešamu.
-(5) Izložu un azartspēļu uzraudzības inspekcija apstiprina vai atsaka apstiprināt izlozes papildspēles noteikumus 15 dienu laikā no to saņemšanas dienas.
+(5) Valsts ieņēmumu dienests apstiprina vai atsaka apstiprināt izlozes papildspēles noteikumus 15 dienu laikā no to saņemšanas dienas.

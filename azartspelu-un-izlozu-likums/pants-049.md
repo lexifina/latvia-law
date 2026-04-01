@@ -1,5 +1,5 @@
 49.pants. Atteikums izsniegt interaktīvo azartspēļu organizēšanas licenci
-(1) Izložu un azartspēļu uzraudzības inspekcija atsaka izsniegt interaktīvo azartspēļu organizēšanas licenci, ja ir konstatēts kāds no šā likuma 15.pantā minētajiem faktiem.
+(1) Valsts ieņēmumu dienests atsaka izsniegt interaktīvo azartspēļu organizēšanas licenci, ja ir konstatēts kāds no šā likuma 15.pantā minētajiem faktiem.
 (2) Papildus šā panta pirmajā daļā minētajam Izložu un azartspēļu inspekcija atsaka izsniegt interaktīvo azartspēļu organizēšanas licenci, ja pastāv vismaz viens no šādiem nosacījumiem:
 1) iesniegtie azartspēles noteikumi neatbilst šā likuma prasībām;
 2) neatkarīgas un starptautiski atzītas laboratorijas atzinumā norādīts, ka spēles organizēšanai izmantojamās programmas nenodrošina laimestu kopsummas atbilstību šā likuma 45.panta prasībām vai citu šā likuma prasību ievērošanu;

@@ -1,6 +1,6 @@
 26.pants. Kazino, spēļu zāles vai bingo zāles licence
 (1) Kazino, spēļu zāles vai bingo zāles licence dod tiesības atvērt kazino, spēļu zāli vai bingo zāli licencē norādītajā vietā, un šo licenci izsniedz kapitālsabiedrībām, kuras ir saņēmušas attiecīgo azartspēļu organizēšanas licenci.
-(2) Lai saņemtu kazino, spēļu zāles vai bingo zāles licenci, azartspēļu organizētājs iesniedz Izložu un azartspēļu uzraudzības inspekcijai iesniegumu, kuram pievieno:
+(2) Lai saņemtu kazino, spēļu zāles vai bingo zāles licenci, azartspēļu organizētājs iesniedz Valsts ieņēmumu dienestam iesniegumu, kuram pievieno:
 1) zemesgrāmatu nodalījuma norakstu, kas apliecina iesniedzēja īpašuma tiesības uz telpām, kurās paredzēts atvērt kazino, spēļu zāli vai bingo zāli, vai dokumentus (to kopijas), kas pierāda viņa tiesības lietot telpas, kurās paredzēts atvērt kazino, spēļu zāli vai bingo zāli, kopā ar attiecīgā zemesgrāmatu nodalījuma norakstu. Ja persona, kura parakstījusi dokumentu, kas pierāda telpu lietošanas tiesības, nav telpu īpašnieks, papildus iesniedzams telpu īpašnieka rakstveida apliecinājums par piekrišanu atvērt kazino, spēļu zāli vai bingo zāli šajās telpās;
 2) to ēkas stāvu plānu, kuros paredzēts atvērt kazino, spēļu zāli vai bingo zāli, norādot telpas, kurās tiks organizētas azartspēles;
 3) konkrētā kazino, spēļu zāles vai bingo zāles attīstības plānu nākamajam darbības gadam, norādot paredzētos azartspēļu veidus, spēļu galdu un azartspēļu automātu skaitu, darbinieku skaitu, paredzamo ieņēmumu un izdevumu apjomu un sadalījumu;

@@ -1,5 +1,5 @@
 47.pants. Iesniegums un dokumenti interaktīvo azartspēļu organizēšanas licences saņemšanai
-(1) Lai saņemtu interaktīvo azartspēļu [spēļu automātu spēles, rulete (cilindriskā spēle), kāršu vai kauliņu spēles, bingo, totalizators vai derības] organizēšanas licenci, azartspēļu organizētājs iesniedz Izložu un azartspēļu uzraudzības inspekcijai iesniegumu, kuram pievieno:
+(1) Lai saņemtu interaktīvo azartspēļu [spēļu automātu spēles, rulete (cilindriskā spēle), kāršu vai kauliņu spēles, bingo, totalizators vai derības] organizēšanas licenci, azartspēļu organizētājs iesniedz Valsts ieņēmumu dienestam iesniegumu, kuram pievieno:
 1) paredzētās azartspēles noteikumus;
 2) izziņu par Latvijas Republikā reģistrētā kredītiestādē atvērtu kontu vai kontiem, kurus izmantos savstarpējos norēķinos ar spēlētājiem;
 3) informāciju par paredzēto interaktīvo azartspēļu organizēšanas sistēmu, tai skaitā par interaktīvās azartspēles organizēšanā izmantojamām interaktīvo azartspēļu programmām;

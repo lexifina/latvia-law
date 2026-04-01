@@ -1,5 +1,5 @@
 6.pants. Azartspēles noteikumi
-(1) Katras azartspēles - spēļu automātu spēles, ruletes (cilindriskās spēles), kāršu, kauliņu spēles, bingo, totalizatora derību vai interaktīvās azartspēles - noteikumi ir azartspēles organizētāja sagatavots un Izložu un azartspēļu uzraudzības inspekcijas apstiprināts dokuments, kurā aprakstīta spēles norise un sniegta cita spēli identificējoša informācija.
+(1) Katras azartspēles - spēļu automātu spēles, ruletes (cilindriskās spēles), kāršu, kauliņu spēles, bingo, totalizatora derību vai interaktīvās azartspēles - noteikumi ir azartspēles organizētāja sagatavots un Valsts ieņēmumu dienesta apstiprināts dokuments, kurā aprakstīta spēles norise un sniegta cita spēli identificējoša informācija.
 (2) Azartspēles noteikumos norādāma šāda informācija:
 1) azartspēles organizētāja nosaukums, juridiskā adrese un tālruņa numurs;
 2) spēles nosaukums un veids;
@@ -28,5 +28,5 @@
 7) termiņš, līdz kuram papildspēles dalībnieks var pieteikties uz laimestu;
 8) kur dalībnieks var vērsties pretenziju gadījumā, kā arī pretenziju izskatīšanas kārtība;
 9) cita informācija, kuru papildspēles organizētājs uzskata par nepieciešamu.
-(6) Izložu un azartspēļu uzraudzības inspekcijai ir tiesības prasīt papildu informāciju no azartspēles organizētāja, lai lemtu par apstiprināšanai iesniegto azartspēles noteikumu atbilstību šā likuma prasībām.
-(7) Izložu un azartspēļu uzraudzības inspekcija azartspēļu organizētāja sagatavotos noteikumus apstiprina 15 dienu laikā no to saņemšanas dienas, izņemot šā likuma 7.pantā minētos gadījumus.
+(6) Valsts ieņēmumu dienestam ir tiesības prasīt papildu informāciju no azartspēles organizētāja, lai lemtu par apstiprināšanai iesniegto azartspēles noteikumu atbilstību šā likuma prasībām.
+(7) Valsts ieņēmumu dienests azartspēļu organizētāja sagatavotos noteikumus apstiprina 15 dienu laikā no to saņemšanas dienas, izņemot šā likuma 7.pantā minētos gadījumus.

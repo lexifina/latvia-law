@@ -1,0 +1,1 @@
+32. Līdz 2026. gada 31. martam Izložu un azartspēļu uzraudzības inspekcijas izsniegtās azartspēļu organizēšanas licences, azartspēļu vietas licences, interaktīvo azartspēļu licences, izložu licences un interaktīvo izložu licences ir derīgas līdz attiecīgajā licencē noteiktajam pārreģistrācijas termiņam.

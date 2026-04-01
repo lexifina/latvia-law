@@ -1,0 +1,1 @@
+33. Iesniegumus par licenču izsniegšanu vai pārreģistrāciju, kuri iesniegti Izložu un azartspēļu uzraudzības inspekcijai līdz 2026. gada 31. martam, bet attiecībā uz kuriem Izložu un azartspēļu uzraudzības inspekcija nav pieņēmusi lēmumu, izskata un lēmumu šajā likumā noteiktajos termiņos pieņem Valsts ieņēmumu dienests.

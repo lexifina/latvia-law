@@ -1,5 +1,5 @@
 55.pants. Licences saņemšana veiksmes spēles organizēšanai pa tālruni
-Lai saņemtu licenci veiksmes spēles organizēšanai pa tālruni, azartspēles organizētājs iesniedz Izložu un azartspēļu uzraudzības inspekcijai iesniegumu, kuram pievieno:
+Lai saņemtu licenci veiksmes spēles organizēšanai pa tālruni, azartspēles organizētājs iesniedz Valsts ieņēmumu dienestam iesniegumu, kuram pievieno:
 1) paredzētās azartspēles noteikumus;
 2) informāciju par veiksmes spēlē pa tālruni izmantojamām programmām;
 3) veiksmes spēles pa tālruni organizēšanai izmantojamo elektronisko sakaru pakalpojumu nodrošinātāja apliecinājumu par attiecīgās sistēmas drošumu;

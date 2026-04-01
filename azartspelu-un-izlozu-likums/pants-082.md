@@ -1,6 +1,5 @@
-82.pants. Izložu un azartspēļu uzraudzības inspekcija
-(1) Izložu un azartspēļu uzraudzības inspekciju izveido un tās nolikumu apstiprina Ministru kabinets.
-(2) Izložu un azartspēļu uzraudzības inspekcijas uzdevums ir:
+82. pants. Valsts ieņēmumu dienesta uzdevumi
+Valsts ieņēmumu dienestam ir šādi uzdevumi:
 1) realizēt valsts politiku azartspēļu un izložu organizēšanā;
 2) veikt azartspēļu un izložu organizētāju licencēšanu, uzraudzību un kontroli;
 3) izstrādāt ar azartspēļu un izložu organizēšanu saistītu normatīvo aktu projektus;

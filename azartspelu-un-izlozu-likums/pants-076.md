@@ -1,5 +1,5 @@
 76.pants. Licences saņemšana interaktīvo izložu organizēšanai
-(1) Lai saņemtu licenci interaktīvo izložu organizēšanai, interaktīvās izlozes organizētājs iesniedz Izložu un azartspēļu uzraudzības inspekcijai iesniegumu, kuram pievieno:
+(1) Lai saņemtu licenci interaktīvo izložu organizēšanai, interaktīvās izlozes organizētājs iesniedz Valsts ieņēmumu dienestam iesniegumu, kuram pievieno:
 1) informāciju par plānotajiem interaktīvo izložu veidiem un katras interaktīvās izlozes noteikumus;
 2) informāciju par kārtību, kādā var iegādāties biļetes vai aizpildīt kuponus, lai piedalītos interaktīvajās izlozēs;
 3) informāciju par paredzēto interaktīvo izložu organizēšanas sistēmu, tai skaitā par interaktīvo izložu organizēšanā izmantojamām interaktīvo izložu programmām;
@@ -18,4 +18,4 @@
 7) laimējušo biļešu noteikšanas kārtība;
 8) kur dalībnieks var vērsties pretenziju gadījumā, kā arī pretenziju izskatīšanas kārtība;
 9) cita informācija, kuru interaktīvās izlozes organizētājs uzskata par nepieciešamu.
-(3) Izložu un azartspēļu uzraudzības inspekcija lēmumu par licences izsniegšanu interaktīvo izložu organizēšanai vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no iesnieguma saņemšanas dienas. Ja tiek pieprasītas papildu ziņas un dokumenti, Izložu un azartspēļu uzraudzības inspekcija lēmumu par licences izsniegšanu interaktīvo izložu organizēšanai vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no papildu ziņu un dokumentu saņemšanas dienas.
+(3) Valsts ieņēmumu dienests lēmumu par licences izsniegšanu interaktīvo izložu organizēšanai vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no iesnieguma saņemšanas dienas. Ja tiek pieprasītas papildu ziņas un dokumenti, Valsts ieņēmumu dienests lēmumu par licences izsniegšanu interaktīvo izložu organizēšanai vai par atteikumu izsniegt šādu licenci pieņem 30 dienu laikā no papildu ziņu un dokumentu saņemšanas dienas.

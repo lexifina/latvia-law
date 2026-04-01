@@ -1,5 +1,5 @@
 11.pants. Iesniegums azartspēļu organizēšanas licences saņemšanai
-Lai saņemtu azartspēļu organizēšanas licenci, kapitālsabiedrība iesniedz Izložu un azartspēļu uzraudzības inspekcijai iesniegumu, kuram pievieno:
+Lai saņemtu azartspēļu organizēšanas licenci, kapitālsabiedrība iesniedz Valsts ieņēmumu dienestam iesniegumu, kuram pievieno:
 1) kārtējā gada pagājušo pilno gada ceturkšņu finanšu pārskata norakstu (bilanci un peļņas vai zaudējumu aprēķinu) par saimniecisko darbību pārskata periodā, ja kapitālsabiedrība veic komercdarbību;
 2) informāciju par kapitālsabiedrības kredītsaistībām, to apmēru un kredīta atdošanas termiņiem iesnieguma iesniegšanas dienā;
 3) ar darījuma dokumentiem pamatotu informāciju par kapitālsabiedrības pamatkapitālā ieguldītās naudas un mantas izcelsmi;

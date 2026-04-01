@@ -5,7 +5,7 @@
 (4) Lai reģistrētos interaktīvajai azartspēlei, izņemot veiksmes spēli pa tālruni, spēlētājs par sevi sniedz šādu informāciju:
 1) vārds, uzvārds, personas kods un dzimšanas datums;
 2) konta numurs, no kura tiks iemaksāta naudas summa likmju izdarīšanai interaktīvajā azartspēlē.
-(5) Lai Izložu un azartspēļu uzraudzības inspekcija varētu nodrošināt interaktīvo azartspēļu uzraudzības un kontroles pasākumus, interaktīvo azartspēļu spēlētāju reģistra pārzinim ir pienākums nodrošināt Izložu un azartspēļu uzraudzības inspekcijai piekļuvi šā panta ceturtajā daļā minētajiem fizisko personu datiem.
+(5) Lai Valsts ieņēmumu dienests varētu nodrošināt interaktīvo azartspēļu uzraudzības un kontroles pasākumus, interaktīvo azartspēļu spēlētāju reģistra pārzinim ir pienākums nodrošināt Valsts ieņēmumu dienestam piekļuvi šā panta ceturtajā daļā minētajiem fizisko personu datiem.
 (6) Interaktīvās azartspēles organizētājs informāciju par visām spēlētāja spēles kontā iemaksātajām un no tā izmaksātajām summām vai citiem darījumiem glabā sistēmas auditpierakstos.
 (7) Šā panta ceturtajā un sestajā daļā minēto informāciju interaktīvās azartspēles organizētājs glabā piecus gadus pēc pēdējām izmaiņām spēlētāja spēles kontā.
 (8) Spēlētājam ir tiesības pieprasīt, nosūtot attiecīgu paziņojumu interaktīvās azartspēles organizētājam, lai viņu izslēdz no šā panta trešajā daļā minētā attiecīgā interaktīvās azartspēles organizētāja izveidotā un uzturētā interaktīvo azartspēļu spēlētāju reģistra. Ministru kabinets paredz nosacījumus un kārtību, kādā spēlētājs tiek izslēgts no interaktīvo azartspēļu spēlētāju reģistra, kā arī informācijas glabāšanas termiņu.
