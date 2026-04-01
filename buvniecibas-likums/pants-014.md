@@ -8,7 +8,7 @@
 2) nostiprinājuma lūgumu rajona (pilsētas) tiesai no jauna uzbūvētās būves ierakstīšanai zemesgrāmatā.
 (1⁵) Būvvaldes kompetencē esošo pārbaudi par būvniecības ieceres atbilstību normatīvo aktu prasībām nepārvērtē, veicot kadastra datu reģistrāciju vai aktualizāciju Nekustamā īpašuma valsts kadastra informācijas sistēmā, kā arī izskatot nostiprinājuma lūgumu rajona (pilsētas) tiesā.
 (1⁶) Šā panta 1.⁴ daļas 1. punktā noteikto būves kadastra datu reģistrāciju vai aktualizāciju veic pēc būves pieņemšanas ekspluatācijā vai pēc paziņojuma par būvdarbu pabeigšanu, savukārt šā panta 1.⁴ daļas 2. punktā noteikto būves ierakstīšanu zemesgrāmatā veic pēc kadastra datu reģistrācijas.
-(1⁷) (Daļa stājas spēkā 01.04.2026. un iekļauta likuma redakcijā uz 01.04.2026. Sk. pārejas noteikumu 40. punktu)
+(1⁷) Šā panta 1.⁴ daļā noteikto kadastra datu reģistrāciju un ierakstīšanu zemesgrāmatā būvniecības ierosinātājs var ierosināt arī ar nepabeigtas jaunbūves datu deklarāciju. Šīs būvniecības ierosinātāja tiesības neaizstāj šā panta 1.⁶ daļā noteikto.
 (2) Par būvniecības ieceri pašvaldības noteikta institūcija vai amatpersona vai institūcija, kura pilda būvvaldes funkcijas, triju darba dienu laikā no attiecīgās būvniecības ieceres iesnieguma saņemšanas dienas publicē informāciju būvniecības informācijas sistēmā. Publikācijā norāda:
 1) būvniecības ieceres realizācijas vietu;
 2) iecerētās būves galveno lietošanas veidu.
