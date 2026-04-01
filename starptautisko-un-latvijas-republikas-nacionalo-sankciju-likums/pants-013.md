@@ -20,7 +20,7 @@
 (4⁶) Latvijas Zvērinātu revidentu asociācija:
 1) uzrauga starptautiskajās un nacionālajās sankcijās noteikto ierobežojumu izpildi zvērinātu revidentu un zvērinātu revidentu komercsabiedrību darbā;
 2) izstrādā kārtību, kurā ir noteikts pasākumu kopums, kas zvērinātam revidentam un zvērinātu revidentu komercsabiedrībai jāveic šā likuma prasību izpildes nodrošināšanai.
-(4⁷) Izložu un azartspēļu uzraudzības inspekcija uzrauga starptautiskajās un nacionālajās sankcijās noteikto ierobežojumu izpildi izložu un azartspēļu organizētāju darbā.
+(4⁷) (Izslēgta ar 03.12.2025. likumu)
 (4⁸) Nacionālā kultūras mantojuma pārvalde uzrauga starptautiskajās un nacionālajās sankcijās noteikto ierobežojumu izpildi attiecībā uz tādiem darījumiem un tādām personām, ko tā uzrauga saskaņā ar Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumu.
 (4⁹) (Izslēgta ar 30.09.2021. likumu, kas stājas spēkā 01.01.2023.).
 (4¹⁰) Maksātnespējas kontroles dienests:
