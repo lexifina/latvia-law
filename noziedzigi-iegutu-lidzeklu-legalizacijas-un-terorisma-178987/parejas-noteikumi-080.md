@@ -1,0 +1,1 @@
+80. Latvijas Republikas Uzņēmumu reģistrs līdz 2026. gada 31. decembrim īsteno šā likuma 18.³ panta 2.⁴ daļā noteikto uzdevumu, aizklājot reģistrēto informāciju, kurā norādīts patiesais labuma guvējs, kura informācijai ir ierobežotas pieejamības informācijas statuss, kā arī nodrošina minētajā normā noteikto dokumentu iekļaušanu reģistrācijas lietas nepubliskajā daļā.

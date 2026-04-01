@@ -6,7 +6,7 @@
 4) zvērinātus revidentus un zvērinātu revidentu komercsabiedrības - Latvijas Zvērinātu revidentu asociācija un Valsts ieņēmumu dienests daļā par sankciju piemērošanu;
 5) (izslēgts no 25.06.2019. ar 26.10.2017. likumu. Sk. Pārejas noteikumu 28. punktu);
 6) (izslēgts no 01.01.2023. ar 23.09.2021. likumu. Sk. Pārejas noteikumu 64. punktu);
-7) izložu un azartspēļu organizētājus - Izložu un azartspēļu uzraudzības inspekcija;
+7) (izslēgts ar 03.12.2025. likumu);
 8) (izslēgts ar 01.12.2009. likumu);
 9) (izslēgts ar 10.12.2009. likumu);
 10) maksātnespējas procesa administratorus - biedrība "Latvijas Sertificēto maksātnespējas procesa administratoru asociācija" un Maksātnespējas kontroles dienests daļā par sankciju piemērošanu.
@@ -28,7 +28,8 @@ a) kreditēšanu, tai skaitā finanšu līzingu, ja pakalpojumu sniegšanai nav 
 b) galvojumu un citu tādu saistību aktu izsniegšanu, ar kuriem uzlikts pienākums,
 c) konsultācijas klientiem finansiāla rakstura jautājumos,
 d) inkasāciju,
-e) (zaudējis spēku ar 30.06.2025. Sk. pārejas noteikumu 68. punktu).
+e) (zaudējis spēku ar 30.06.2025. Sk. pārejas noteikumu 68. punktu);
+7) izložu un azartspēļu organizētājus.
 (2¹) Patērētāju tiesību aizsardzības centrs uzrauga:
 1) likuma subjektus - personas, kuras nodarbojas ar patērētāju kreditēšanu un kurām Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai;
 2) likuma subjektus - personas, kuras nodarbojas ar parāda atgūšanas pakalpojumu sniegšanu un kurām Patērētāju tiesību aizsardzības centrs izsniedz speciālo atļauju (licenci) parāda atgūšanas pakalpojumu sniegšanai.
