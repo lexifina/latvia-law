@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 23,
+ "datums": "2026-04-01",
+ "ieraksts": {
+  "dkp_id": "afcba1a7-c7e3-40d3-844b-6133afc65735",
+  "lastmodtime": "\"AAAAAAKBtLY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Ričards#Ingmārs#Artūrs#Maija#Agnese#Ligita#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Harijs#Edmunds#Augusts#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Uģis#Gatis#Līga#Agita#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Jānis#Anita#Gunārs#Edgars#Igors#Jeļena#Kaspars#Gundars#Ramona#Jānis#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Šlesers#Līdaka#Butāns#Armaņeva#Krasta#Gintere#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Rokpelnis#Jurēvics#Brigmanis#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Vucāns#Brakovska#Kūtris#Putra#Judins#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa",
+  "VOTEDEPSUFFIX": "##############################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#JV#ZZS# #LPV#LPV#ZZS#NA#PRO#JV#JV# # #PRO#NA#ZZS#LPV#AS#NA#LPV#JV#ZZS#AS#JV# #JV#NA#JV# #JV#ZZS#JV#ZZS#ZZS#ZZS# # #ZZS# #JV# #JV# #AS#JV#NA#JV#PRO#JV#AS#JV#AS#NA# #AS#AS#JV#ZZS#ZZS#ZZS#AS# # #PRO#ZZS#LPV#JV#LPV#JV# #JV#ZZS#PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Atturas#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.04.2026 16:40:15",
+  "VOTEMOTIVE": "Kapsētu likums (1032/Lp14), 3.lasījums",
+  "VOTING_ID": "27efea37-73e9-4b8a-b4e1-3c6bd1c6f431",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "75",
+  "VOTERESULT_REGISTERED": "79",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/25bb13dc-75bd-4a71-9641-8154a8839a49/download/14.saeimas-2026.gada-ziemas-sesija-23-vote.xml",
+  "sha256": "1ea7fed10f987eecff95cb6b0bdd43c146b829042a203459dbc9d08c34a5931a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
