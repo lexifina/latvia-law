@@ -12,4 +12,4 @@
 (6) (Izslēgta ar 23.11.2016. likumu)
 (7) Velorikšu izmantošanas noteikumus un kustības maršrutu, izvērtējot tā sabiedrisko nepieciešamību un atbilstību drošības kritērijiem, var noteikt attiecīgā pašvaldība.
 (8) Pašvaldība ir tiesīga noteikt koplietošanas transportlīdzekļu izmantošanas noteikumus, ātruma ierobežojuma zonas, novietošanas aizlieguma zonas, izvērtējot to sabiedrisko nepieciešamību un atbilstību drošības kritērijiem.
-(9) (Daļa stājas spēkā 01.04.2026. un iekļauta likuma redakcijā uz 01.04.2026. Sk. pārejas noteikumu 75. punktu)
+(9) Lai koplietošanas transportlīdzekli varētu izmantot ceļu satiksmē, koplietošanas pakalpojumu sniedzējs pirms pakalpojuma sniegšanas mobilajā aplikācijā vai tīmekļvietnē veic pakalpojuma saņēmēja vecuma pārbaudi un pārliecinās par attiecīgā transportlīdzekļa vadīšanas tiesību esamību, kā arī veic pakalpojuma saņēmēja reaģēšanas spēju pārbaudi alkohola vai citu apreibinošo vielu ietekmes kontroles ietvaros.

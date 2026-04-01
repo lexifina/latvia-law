@@ -1,0 +1,3 @@
+68.² pants. Koplietošanas transportlīdzekļu pakalpojumu sniedzējiem noteikto prasību pārkāpšana
+(1) Par koplietošanas pakalpojumu sniedzējiem noteikto prasību, kas attiecas uz pakalpojuma saņēmēja vecuma pārbaudi mobilajā aplikācijā vai tīmekļvietnē un attiecīgā transportlīdzekļa vadīšanas tiesību esamības pārbaudi, pārkāpšanu piemēro naudas sodu juridiskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām.
+(2) Par koplietošanas pakalpojumu sniedzējiem noteikto prasību, kas attiecas uz pakalpojuma saņēmēja reaģēšanas spēju pārbaudi alkohola vai citu apreibinošo vielu ietekmes kontroles ietvaros, pārkāpšanu piemēro naudas sodu juridiskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām.
