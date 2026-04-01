@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada ziemas sesija",
+ "sede": 23,
+ "datums": "2026-04-01",
+ "ieraksts": {
+  "dkp_id": "d5253ddb-e87d-4117-b229-b392fc80d8d4",
+  "lastmodtime": "\"AAAAAAKBh+g=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Didzis#Ričards#Ingmārs#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Zemmers#Šlesers#Līdaka#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Smiltēns",
+  "VOTEDEPSUFFIX": "#############################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS# #NA#PRO#JV#JV# # #PRO#NA#ZZS#ZZS#LPV#AS#NA#LPV#JV#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# # #ZZS# #JV# #JV# #AS#JV#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#PRO#ZZS#LPV#JV#LPV#JV# #JV#ZZS#PRO#JV#AS",
+  "RESULT": "Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Pret#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Pret#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.04.2026 15:09:17",
+  "VOTEMOTIVE": "Par neuzticības izteikšanu aizsardzības ministram Andrim Sprūdam (935/Lm14)",
+  "VOTING_ID": "ea34b46e-1f83-4708-b235-26b7bd2b8c57",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "50",
+  "VOTERESULT_FOR": "43",
+  "VOTERESULT_REGISTERED": "94",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada ziemas sesija-23-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/25bb13dc-75bd-4a71-9641-8154a8839a49/download/14.saeimas-2026.gada-ziemas-sesija-23-vote.xml",
+  "sha256": "1ea7fed10f987eecff95cb6b0bdd43c146b829042a203459dbc9d08c34a5931a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
