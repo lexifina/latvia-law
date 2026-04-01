@@ -6,7 +6,7 @@
 4) piedalīties individuālajā darba meklēšanas plānā paredzētajos pasākumos;
 5) ziņot Nodarbinātības valsts aģentūrai:
 a) vienas darba dienas laikā - ja persona vairs neatbilst šā likuma 10.panta pirmās daļas 2., 4., 6., 7., 8. un 9.punktā minētajiem bezdarbnieka statusa iegūšanas nosacījumiem,
-b) vienas darba dienas laikā - ja ir iegūts darba ņēmēja statuss uz laiku līdz diviem mēnešiem saskaņā ar likumu "Par valsts sociālo apdrošināšanu",
+b) vienas darba dienas laikā - ja uz laiku līdz 92 dienām ir iegūts darba ņēmēja statuss vai līdz trim mēnešiem pašnodarbinātā statuss vai ja gūti ienākumi, kas ir valsts sociālās apdrošināšanas obligāto iemaksu objekts saskaņā ar likumu "Par valsts sociālo apdrošināšanu",
 c) (izslēgts ar 21.06.2007. likumu),
 d) triju nedēļu laikā no pārejošas darbnespējas sākuma - par pārejošas darbnespējas laiku, ja tas ir bijis ilgāks par 10 dienām.
 (2) Aktīva darba meklēšana šā likuma izpratnē ir personas mērķtiecīgas darbības nolūkā atrast algotu darbu - piedalīšanās konkursos uz vakantajām darba vietām, dalība darba meklēšanas atbalsta pasākumos, kā arī citas darbības, kuru mērķis ir atrast darbu.

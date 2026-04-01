@@ -13,13 +13,8 @@
 (3) Šā panta pirmās daļas 2. un 3.punktā noteiktās tiesības ir arī 13 gadu vecumu sasniegušām personām, kuras atbilst šā likuma 2.panta otrās daļas un 15.panta pirmās daļas 1., 2. un 5.punkta prasībām un kuras iegūst izglītību vispārējās, speciālās vai profesionālās izglītības iestādēs. Minētās personas var iesaistīt arī šā likuma 3.panta pirmās daļas 3.punktā minētajos nodarbinātības pasākumos vasaras brīvlaikā.
 (4) Darba meklētājam ir pienākums:
 1) patstāvīgi un ar Nodarbinātības valsts aģentūras palīdzību aktīvi meklēt darbu;
-2) Nodarbinātības valsts aģentūras noteiktajā laikā, bet ne vēlāk kā pēc trim mēnešiem no dienas, kad viņš iepriekšējo reizi apmeklēja Nodarbinātības valsts aģentūru, ierasties Nodarbinātības valsts aģentūrā un uzrādīt normatīvajos aktos noteiktos dokumentus;
-3) vienas darba dienas laikā ziņot Nodarbinātības valsts aģentūrai par to, ka viņš vairs neatbilst šā likuma 15.panta pirmās daļas 1., 3., 5. un 6.punktā minētajiem darba meklētāja statusa iegūšanas nosacījumiem;
+2) (izslēgts ar 22.01.2026. likumu);
+3) (izslēgts ar 22.01.2026. likumu);
 4) piedalīties konkurētspējas paaugstināšanas pasākumos, par dalību kuros ir noslēgta rakstveida vienošanās ar Nodarbinātības valsts aģentūru, kā arī darba meklēšanas atbalsta pasākumos.
-(5) Neierašanās Nodarbinātības valsts aģentūrā šā panta ceturtās daļas 1., 2. un 4.punktā minētajos gadījumos tiek uzskatīta par attaisnotu, ja:
-1) darba meklētājam iestājusies pārejoša darbnespēja;
-2) darba meklētājs kopj slimu bērnu;
-3) pamatojoties uz izsaukumu, darba meklētājs ierodas izziņas iestādē, prokuratūrā vai tiesā;
-4) iemesls ir pirmās pakāpes radinieka vai laulātā nāve un ja Nodarbinātības valsts aģentūras apmeklējuma diena noteikta agrāk par septīto dienu pēc šāda radinieka vai laulātā nāves dienas;
-5) ir citi objektīvi apstākļi, kas nav atkarīgi no darba meklētāja gribas.
-(6) Darba meklētājam ir pienākums ierasties Nodarbinātības valsts aģentūrā pirmajā darba dienā pēc šā panta piektajā daļā minēto attaisnojošo iemeslu izbeigšanās, uzrādot attaisnojošo iemeslu apstiprinošu dokumentu.
+(5) (Izslēgta ar 22.01.2026. likumu)
+(6) (Izslēgta ar 22.01.2026. likumu)

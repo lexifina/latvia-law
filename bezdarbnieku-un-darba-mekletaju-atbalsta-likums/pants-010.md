@@ -1,7 +1,7 @@
 10.pants. Bezdarbnieka statusa iegūšana
 (1) Tiesības uz bezdarbnieka statusu pēc reģistrēšanās Nodarbinātības valsts aģentūrā ir šā likuma 2.panta otrajā daļā minētajai personai, kura:
 1) (izslēgts ar 21.06.2007. likumu.);
-2) nestrādā (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu");
+2) nestrādā (nav uzskatāma par darba ņēmēju vai pašnodarbināto saskaņā ar likumu "Par valsts sociālo apdrošināšanu" un negūst ienākumus, kas ir valsts sociālās apdrošināšanas obligāto iemaksu objekts saskaņā ar likumu "Par valsts sociālo apdrošināšanu", izņemot gadījumu, kad persona ienākumus ir guvusi par darba izpildes periodu pirms bezdarbnieka statusa iegūšanas);
 3) meklē darbu;
 4) ir darbspējīga un gatava nekavējoties stāties darba attiecībās;
 5) ir sasniegusi 15 gadu vecumu;
