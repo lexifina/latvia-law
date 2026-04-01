@@ -1,4 +1,4 @@
 5. pants. Azartspēļu nodoklis aprēķināms par katrā azartspēļu tiešās norises vietā esoša katra azartspēļu automāta katru spēles vietu un spēles galdu katru mēnesi, ieskaitot mēnesi, kurā azartspēļu automāts vai spēles galds uzstādīts vai demontēts, kā viena divpadsmitā daļa no šā likuma 3.pantā minētajām nodokļa likmēm.
-Azartspēļu organizētājs līdz katra mēneša pirmajam datumam paziņo Izložu un azartspēļu uzraudzības inspekcijai paredzēto ekspluatējamo azartspēļu automātu un spēļu galdu skaitu attiecīgajā mēnesī katrā licencētajā azartspēļu norises vietā.
+Azartspēļu organizētājs līdz katra mēneša pirmajam datumam paziņo Valsts ieņēmumu dienestam paredzēto ekspluatējamo azartspēļu automātu un spēļu galdu skaitu attiecīgajā mēnesī katrā licencētajā azartspēļu norises vietā.
 Azartspēļu automātu vai spēles galdu azartspēļu organizētājs kalendāra mēneša laikā var pārvietot uz citu azartspēļu norises vietu, nemainot šā panta otrajā daļā minētajā termiņā paziņoto kopējo azartspēļu automātu skaitu un spēļu galdu skaitu katrā konkrētajā azartspēļu norises vietā.
 (Ceturtā daļa izslēgta ar 13.11.2019. likumu)
