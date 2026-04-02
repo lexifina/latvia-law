@@ -1,0 +1,1 @@
+23. Šā likuma 19. panta otrās daļas 21. punktā minēto informāciju elektronisko sakaru komersants pirmo reizi iesniedz Regulatoram līdz 2027. gada 30. septembrim, iekļaujot informāciju par to, kādas vienošanās noslēgtas no 2025. gada 12. novembra līdz 2027. gada 12. septembrim.

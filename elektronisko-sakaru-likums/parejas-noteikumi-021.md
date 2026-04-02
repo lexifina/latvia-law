@@ -1,0 +1,1 @@
+21. Līgumi, kas noslēgti starp elektronisko sakaru komersantu un nekustamā īpašuma īpašnieku vai tiesisko valdītāju, uz kuru attiecas šā likuma 31. panta pirmās daļas 3. punkts, ir spēkā līdz līgumā noteiktajam termiņam, bet ne ilgāk kā līdz 2028. gada 31. decembrim.

@@ -1,0 +1,1 @@
+19. Šā likuma 28. panta sestās daļas 5. punkts, 31. panta pirmās daļas 3. punkts, kā arī grozījumi 31. pantā par trešās un ceturtās daļas izteikšanu jaunā redakcijā stājas spēkā 2028. gada 1. janvārī.

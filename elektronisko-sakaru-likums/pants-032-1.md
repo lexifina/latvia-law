@@ -1,0 +1,2 @@
+32.¹ pants. Citu personu, kuras elektronisko sakaru komersanta uzdevumā veic elektronisko sakaru tīklu ierīkošanu, būvniecību un uzturēšanu, tiesības un pienākumi
+Šajā nodaļā noteiktās elektronisko sakaru komersanta tiesības un pienākumi ir attiecināmi arī uz citām personām, kurām elektronisko sakaru komersants rakstveidā uzdevis veikt elektronisko sakaru tīkla vai jebkādas tā daļas ierīkošanu, būvniecību un uzturēšanu.
