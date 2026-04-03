@@ -2,4 +2,5 @@
 (1) Regulators reizi gadā līdz 1. jūlijam iesniedz Saeimai rakstveida pārskatu par savu darbību iepriekšējā gadā un zvērināta revidenta pārbaudītu pilnu finanšu pārskatu. Regulators pārskatā tostarp ietver informāciju par tā apstiprinātiem tarifiem vismaz tādiem regulējamo sabiedrisko pakalpojumu sniedzējiem enerģētikā, kuru energoapgādes sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju vai kuru lietotājiem piegādātās enerģijas apjoms pārsniedz 2 000 000 kilovatstundu gadā, kā arī elektroenerģijas pārvades sistēmas operatoru, dabasgāzes pārvades sistēmas operatoru un vienoto dabasgāzes pārvades un uzglabāšanas sistēmas operatoru un šo regulēto pakalpojumu sniedzēju iepriekšējā perioda tarifu ieņēmumu un izdevumu novirzēm no spēkā esošā tarifu projekta. Šī informācija tiek publicēta regulatora tīmekļvietnē.
 (2) (Izslēgta ar 11.06.2009. likumu)
 (3) Regulators katru gadu sniedz Saeimai pārskatu par kārtējā gada likumā par valsts budžetu apstiprinātā regulatora budžeta izpildi un regulatora darbību.
-(4) Regulators reizi trijos gados veic neatkarīgu savas darbības novērtējumu un publicē to regulatora mājaslapā internetā.
+(3¹) Reizi gadā priekšsēdētājs Saeimas kārtības rullī noteiktajā kārtībā ziņo par regulatora darbību.
+(4) Regulators reizi piecos gados veic neatkarīgu savas darbības novērtējumu un publicē to regulatora tīmekļvietnē.

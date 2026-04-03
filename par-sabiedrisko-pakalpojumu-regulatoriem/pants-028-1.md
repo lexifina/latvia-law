@@ -1,0 +1,6 @@
+28.¹ pants. Elektroniskā saziņa un elektronisko dokumentu aprite oficiālo elektronisko adrešu informācijas sistēmā
+(1) Sabiedrisko pakalpojumu sniedzējs, kam ir aktivizēts oficiālās elektroniskās adreses konts, var izvēlēties oficiālo elektronisko adrešu informācijas sistēmā īstenot oficiālo elektronisko saziņu un oficiālo elektronisko dokumentu apriti ar tādām fiziskajām personām un privāto tiesību juridiskajām personām, kam ir aktivizēts oficiālās elektroniskās adreses konts.
+(2) Sabiedrisko pakalpojumu sniedzējs, kas ir izdarījis šā panta pirmajā daļā norādīto izvēli, minētajos gadījumos prioritāri rakstveidā sazinās un elektronisko dokumentu nosūta, izmantojot oficiālo elektronisko adresi. Ja oficiālās elektroniskās adreses lietotājs lūdz prioritāri izmantot citu saziņas kanālu, regulēto sabiedrisko pakalpojumu sniedzējs minēto lūgumu pēc iespējas ņem vērā.
+(3) Lai nodrošinātu šā panta pirmajā daļā minēto elektronisko saziņu un elektronisko dokumentu apriti oficiālo elektronisko adrešu informācijas sistēmā, Sabiedrisko pakalpojumu regulēšanas komisija tiešsaistes režīmā sniedz minētās sistēmas pārzinim strukturētu un aktuālu informāciju par sabiedrisko pakalpojumu sniedzēju, norādot tā:
+1) nosaukumu;
+2) reģistrācijas numuru.

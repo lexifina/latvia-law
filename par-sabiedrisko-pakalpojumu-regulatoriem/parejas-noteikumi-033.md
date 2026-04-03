@@ -1,0 +1,1 @@
+33. Sabiedrisko pakalpojumu sniedzējs var izvēlēties īstenot šā likuma 28.¹ pantā noteikto oficiālo elektronisko saziņu un elektronisko dokumentu apriti līdz ar atbilstīgas funkcionalitātes nodrošināšanu oficiālo elektronisko adrešu informācijas sistēmā. Minētā funkcionalitāte nodrošināma ne vēlāk kā līdz 2027. gada 28. februārim.

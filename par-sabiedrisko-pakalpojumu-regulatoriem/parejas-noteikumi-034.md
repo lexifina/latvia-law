@@ -1,0 +1,1 @@
+34. Līdz dienai, kad stājas spēkā šā likuma 14. panta 3.¹ daļai atbilstoši grozījumi Saeimas kārtības rullī, priekšsēdētājs reizi gadā ziņo par regulatora darbību Saeimas Tautsaimniecības, agrārās, vides un reģionālās politikas komisijai.
