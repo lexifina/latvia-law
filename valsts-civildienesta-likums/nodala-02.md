@@ -1,2 +1,2 @@
 II nodaļa
-Vispārējā valsts civildienesta vadība
+Vispārējā valsts civildienesta pārvaldība

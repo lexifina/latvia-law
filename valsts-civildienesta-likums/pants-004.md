@@ -4,8 +4,8 @@
 2) likumā noteiktajos gadījumos un kārtībā ierosina, izmeklē disciplinārlietas un uzliek disciplinārsodus, kā arī izskata ierēdņu sūdzības par piemērotajiem disciplinārsodiem;
 3) izskata sūdzības par pretendentu konkursu.
 (2) Valsts kanceleja:
-1) izstrādā un koordinē valsts civildienesta attīstības politiku;
-2) koordinē ierēdņu karjeras attīstību;
+1) izstrādā un koordinē valsts pārvaldes cilvēkresursu attīstības politiku;
+2) koordinē iestādēs nodarbināto ierēdņu un darbinieku karjeras attīstību;
 3) saskaņo ierēdņu amatus;
 4) nodrošina iestādes vadītāju atlasi, izņemot šā likuma 37.pantā minēto gadījumu.
 (3) (Izslēgta ar 01.12.2009. likumu)

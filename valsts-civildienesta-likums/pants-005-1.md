@@ -1,0 +1,3 @@
+5.¹ pants. Valsts pārvaldes cilvēkresursu pārvaldības un mācību un attīstības pakalpojumi
+(1) Valsts pārvaldes vienotā pakalpojumu centra ietvaros Valsts kanceleja sniedz cilvēkresursu pārvaldības pakalpojumus, bet Valsts administrācijas skola sniedz mācību un attīstības pakalpojumus.
+(2) Ministru kabinets nosaka pakalpojumus, kurus Valsts kanceleja un Valsts administrācijas skola sniedz valsts pārvaldes vienotā pakalpojumu centra ietvaros, un šo pakalpojumu sniegšanas kārtību, kā arī kārtību, kādā valsts pārvaldes institūcijas un tajās nodarbinātie un privātpersonas pievienojas attiecīgo pakalpojumu saņemšanai Valsts kancelejā vai Valsts administrācijas skolā valsts pārvaldes vienotā pakalpojumu centra ietvaros.
