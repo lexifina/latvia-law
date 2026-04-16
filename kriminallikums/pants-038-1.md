@@ -1,7 +1,7 @@
 38.¹ pants. Probācijas uzraudzība
 (1) Probācijas uzraudzība kā pamatsods vai papildsods ir personas piespiedu iesaistīšana tās vecumam, psiholoģiskajām īpašībām un attīstības līmenim piemērotos sociālās uzvedības korekcijas un sociālās rehabilitācijas pasākumos.
 (2) Probācijas uzraudzību kā pamatsodu var piemērot šā likuma sevišķajā daļā minētajos gadījumos uz laiku no viena gada līdz pieciem gadiem.
-(2¹) Ja tiesa, ņemot vērā izdarītā noziedzīgā nodarījuma raksturu un radīto kaitējumu, vainīgā personību un citus lietas apstākļus, iegūst pārliecību, ka vainīgais, neizciešot brīvības atņemšanu, turpmāk neizdarīs likumpārkāpumus, tā var piemērot probācijas uzraudzību kā pamatsodu no trim līdz sešiem gadiem arī par tāda smaga nozieguma izdarīšanu, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, vai par sevišķi smaga nozieguma izdarīšanu.
+(2¹) Ja tiesa, ņemot vērā izdarītā noziedzīgā nodarījuma raksturu un radīto kaitējumu, vainīgā personību un citus lietas apstākļus, iegūst pārliecību, ka vainīgais, neizciešot brīvības atņemšanu, turpmāk neizdarīs likumpārkāpumus, tā var piemērot probācijas uzraudzību kā pamatsodu no trim līdz sešiem gadiem arī par tāda mazāk smaga vai smaga nozieguma izdarīšanu, par kuru šajā likumā paredzēta brīvības atņemšana uz laiku, ilgāku par pieciem gadiem, vai par sevišķi smaga nozieguma izdarīšanu.
 (2²) Probācijas uzraudzību kā pamatsodu par sevišķi smaga nozieguma izdarīšanu nepiemēro, ja:
 1) noziegums izraisījis cilvēka nāvi;
 2) noziegums izdarīts pret nepilngadīgo, lietojot vardarbību;
