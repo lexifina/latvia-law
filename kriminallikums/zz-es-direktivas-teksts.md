@@ -24,4 +24,7 @@ Likumā iekļautas tiesību normas, kas izriet no:
 23) Eiropas Parlamenta un Padomes 2017. gada 5. jūlija direktīvas (ES) 2017/1371 par cīņu pret krāpšanu, kas skar Savienības finanšu intereses, izmantojot krimināltiesības;
 24) Eiropas Parlamenta un Padomes 2018. gada 23. oktobra direktīvas (ES) 2018/1673 par nelikumīgi iegūtu līdzekļu legalizācijas apkarošanu ar krimināltiesībām;
 25) Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/713 par krāpšanas un viltošanas apkarošanu attiecībā uz bezskaidras naudas maksāšanas līdzekļiem un ar ko aizstāj Padomes Pamatlēmumu 2001/413/TI;
-26) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1226 par noziedzīgu nodarījumu un sodu noteikšanu attiecībā uz Savienības ierobežojošo pasākumu pārkāpumiem un ar ko groza direktīvu (ES) 2018/1673.
+26) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1226 par noziedzīgu nodarījumu un sodu noteikšanu attiecībā uz Savienības ierobežojošo pasākumu pārkāpumiem un ar ko groza direktīvu (ES) 2018/1673;
+27) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1260 par aktīvu atgūšanu un konfiskāciju;
+28) Eiropas Parlamenta un Padomes 2024. gada 14. maija direktīvas (ES) 2024/1385 par vardarbības pret sievietēm un vardarbības ģimenē apkarošanu;
+29) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1712, ar ko groza direktīvu 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību.

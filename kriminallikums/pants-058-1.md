@@ -7,7 +7,7 @@
 1) atvainoties cietušajam;
 2) noteiktā termiņā novērst radīto kaitējumu;
 2¹) (izslēgts ar 07.04.2022. likumu);
-3) periodiski ierasties soda izpildes iestādē un piedalīties probācijas programmās saskaņā ar soda izpildes iestādes norādījumiem;
+3) periodiski ierasties soda izpildes iestādē un piedalīties šīs iestādes noteiktajos sociālās uzvedības korekcijas vai sociālās rehabilitācijas pasākumos saskaņā ar soda izpildes iestādes norādījumiem;
 3¹) (izslēgts ar 07.04.2022. likumu);
 4) atturēties no noteiktas rīcības vai nodarbošanās veidiem;
 5) periodiski ierasties soda izpildes iestādē un apmeklēt šīs iestādes norādīto speciālistu, lai veiktu atkarības diagnostiku, un pildīt speciālista norādījumus, tai skaitā ārstēties no alkohola, narkotisko, psihotropo, toksisko vielu vai citas atkarības;
