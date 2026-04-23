@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 4,
+ "datums": "2026-04-23",
+ "ieraksts": {
+  "dkp_id": "c3576b39-3cd0-4a39-aada-8c7146b1cccb",
+  "lastmodtime": "\"AAAAAAKDrFc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Liene#Skaidrīte#Anna#Zane#Juris#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Selma Teodora#Edmunds#Uldis#Didzis#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Antoņina#Inga#Edvards",
+  "SURNAME": "Šnore#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Levrence#Teirumnieks#Augulis#Zemmers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Smiltēns",
+  "VOTEDEPSUFFIX": "#############################################################################",
+  "FRACTION": "NA#PRO# #JV#JV#ZZS#JV#LPV#LPV#ZZS#NA#PRO#JV#JV# #PRO#NA#ZZS#ZZS#AS#LPV#NA#LPV#JV#PRO#ZZS#JV#AS#JV# #JV#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS#ZZS# #JV# #JV# #AS#JV#ZZS#NA#NA#JV#PRO#JV#JV#AS# #AS#AS#JV#NA#ZZS#ZZS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#PRO#JV#AS",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.04.2026 13:59:14",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Grozījums Kontu reģistra likumā (1264/Lp14), 1.lasījums",
+  "VOTING_ID": "ffcd296c-353e-417a-a588-a72a72ea5b67",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "73",
+  "VOTERESULT_REGISTERED": "78",
+  "VOTE_NUMBER": "33",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/10be0dea-74ef-4f08-8ce2-7d09a7257bb1/download/14.saeimas-2026.gada-pavasara-sesija-4-vote.xml",
+  "sha256": "6e34cf243238930ea8396933d5023a4f45fbb610a851b0f10d1d00976b63520d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
