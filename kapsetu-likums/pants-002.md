@@ -1,0 +1,5 @@
+2. pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir nodrošināt kultūrvēsturiskajām tradīcijām Latvijā atbilstošu pašvaldību kapsētu izveidošanas un apsaimniekošanas, kā arī kapavietu piešķiršanas kārtību, ievērojot ikviena cilvēka tiesības uz kapavietu un cieņpilnu attieksmi pēc nāves.
+(2) Likums nosaka pašvaldībām prasības un kārtību kapsētu izveidošanai, pārvaldībai un slēgšanai, regulē kapavietu piešķiršanas un uzturēšanas, kā arī apbedīšanas noteikumus un paredz pienākumu regulāri aktualizēt Fizisko personu reģistrā ziņas par mirušo personu apbedīšanu vai kremāciju.
+(3) Tādas kapsētas pārvaldību, kura nav pašvaldības kapsēta, nosaka tās īpašnieks, ievērojot citos normatīvajos aktos kapsētām noteiktās vispārējās prasības. Apbedīšanai šādās kapsētās piemēro šajā likumā noteiktās prasības attiecībā uz dziļumu, kā arī ievēro šajā likumā attiecībā uz pārapbedīšanu un virsapbedījumu noteiktos termiņus.
+(4) Pienākums aktualizēt Fizisko personu reģistrā ziņas par mirušo personu apbedīšanu vai kremāciju attiecas uz visiem publisko un privāto kapsētu īpašniekiem, kā arī kremācijas pakalpojuma sniedzējiem.

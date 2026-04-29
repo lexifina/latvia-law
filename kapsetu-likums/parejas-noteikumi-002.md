@@ -1,0 +1,1 @@
+2. Pašvaldība izveido pašvaldības kapsētu apbedījumu reģistru četru gadu laikā no šā likuma spēkā stāšanās dienas. Pašvaldības rīcībā esošu šā likuma 6. panta pirmajā daļā minēto informāciju, kas tika uzkrāta pirms šā likuma spēkā stāšanās, pašvaldība iekļauj kapsētu apbedījumu reģistrā septiņu gadu laikā no šā likuma spēkā stāšanās dienas.

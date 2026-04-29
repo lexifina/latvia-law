@@ -1,0 +1,1 @@
+3. Šā likuma 15. pantā minētās ziņas Fizisko personu reģistrā aktualizē līdz ar attiecīgās reģistra funkcionalitātes nodrošināšanu, bet ne vēlāk kā līdz 2027. gada 31. decembrim. Fizisko personu reģistrā aktualizē ziņas par apbedīšanu vai kremāciju, kas veikta no šā likuma spēkā stāšanās dienas.

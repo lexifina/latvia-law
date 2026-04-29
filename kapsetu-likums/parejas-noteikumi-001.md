@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē pašvaldību saistošie noteikumi par kapsētu izmantošanu. Saistošie noteikumi ir piemērojami tiktāl, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā līdz 2027. gada 30. jūnijam.
