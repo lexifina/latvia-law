@@ -1,0 +1,4 @@
+13. pants. Īpašuma tiesības un atsavināšanas aizliegums
+(1) Sešu mēnešu laikā pēc Koncertzāles būves nodošanas ekspluatācijā Pašvaldība aktualizē zemesgrāmatas ierakstus par Koncertzāles nekustamo īpašumu.
+(2) Ja saskaņā ar šā likuma 11. panta pirmās daļas 1. punktu Koncertzāli izvieto uz divām vai vairākām neapvienotām zemes vienībām, Pašvaldība groza Koncertzāles nekustamā īpašuma sastāvā esošā zemes gabala robežas tā, lai Koncertzāles nekustamais īpašums atrastos uz viena zemes gabala.
+(3) Koncertzāles nekustamo īpašumu aizliegts atsavināt, ieķīlāt vai citādi apgrūtināt ar lietu tiesībām. Šis ierobežojums neattiecas uz gadījumu, kad Rīgas dome pieņem lēmumu atsavināt Koncertzāles nekustamo īpašumu Latvijas valstij Kultūras ministrijas personā Publiskas personas mantas atsavināšanas likumā noteiktajā kārtībā.

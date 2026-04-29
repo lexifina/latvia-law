@@ -1,0 +1,1 @@
+Koncertzālei funkcionāli nepieciešamā teritorija un servitūta tiesības izlietošanai nepieciešamās nekustamā īpašuma reālās daļas

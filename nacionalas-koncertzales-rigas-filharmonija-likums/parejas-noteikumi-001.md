@@ -1,0 +1,1 @@
+1. Pašvaldība sešu mēnešu laikā pēc tam, kad Ministru kabinets pieņēmis lēmumu par Koncertzāles ilgtermiņa saistībām un darbības finansējumu, nodrošina šā likuma 5. panta otrās daļas 1. punktā minētā Koncertzāles nekustamā īpašuma ierakstīšanu zemesgrāmatā uz Pašvaldības vārda.

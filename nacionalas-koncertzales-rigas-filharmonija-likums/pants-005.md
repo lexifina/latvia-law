@@ -1,0 +1,12 @@
+5. pants. Koncertzālei funkcionāli nepieciešamā teritorija
+(1) Koncertzālei funkcionāli nepieciešamā teritorija ir teritorija, kas nepieciešama Koncertzāles būvprojekta īstenošanai un Koncertzāles darbības nodrošināšanai, Koncertzāles uzturēšanai un apsaimniekošanai, kā arī infrastruktūras, labiekārtojuma un komunikāciju elementu izvietošanai.
+(2) Koncertzālei funkcionāli nepieciešamajā teritorijā atbilstoši šā likuma pielikumā norādītajām robežām ietilpst šādi nekustamie īpašumi:
+1) Koncertzāles nekustamais īpašums - nekustamais īpašums Rīgā, Krišjāņa Valdemāra ielā 5, kas sastāv no zemes gabala 7965 kvadrātmetru platībā (kadastra numurs 0100 010 0121) un uz tā esošas administratīvās ēkas - Kongresu nama (kadastra apzīmējums 0100 010 0121 001), ierakstīts Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 11144, īpašnieks - sabiedrība ar ierobežotu atbildību "Rīgas nami";
+2) Koncertzālei blakus esošie nekustamie īpašumi:
+a) nekustamais īpašums Rīgā, starp Kronvalda un Kalpaka bulvāriem, kas sastāv no zemes gabala 113 612 kvadrātmetru platībā (kadastra numurs 0100 010 0120) un divām būvēm (kadastra apzīmējums 0100 010 0120 005 un 0100 010 0120 006), ierakstīts Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 17930, īpašnieks - Rīgas valstspilsētas pašvaldība,
+b) nekustamais īpašums Rīgā, Krišjāņa Valdemāra ielā 5A (kadastra numurs 0100 510 0025), kas sastāv no vienstāva pazemes autostāvvietas (liters Nr. 002), ierakstīts Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 30082, īpašnieks - Rīgas pilsēta.
+(3) Šā panta otrās daļas 2. punkta "b" apakšpunktā minētais nekustamais īpašums ir saistīts ar šādiem nekustamajiem īpašumiem:
+1) zemes gabalu Rīgā, Krišjāņa Valdemāra ielā 3 (kadastra numurs 0100 010 0043), ierakstīta Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 6915, īpašnieks - valsts akciju sabiedrība "Valsts nekustamie īpašumi";
+2) zemes gabalu Rīgā, Krišjāņa Valdemāra ielā 5 (kadastra numurs 0100 010 0121), ierakstīta Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 11144, īpašnieks - sabiedrība ar ierobežotu atbildību "Rīgas nami";
+3) zemes gabalu Rīgā, starp Kronvalda un Kalpaka bulvāriem (kadastra numurs 0100 010 0120), ierakstīta Rīgas pilsētas zemesgrāmatas nodalījumā Nr. 17930, īpašnieks - Rīgas valstspilsētas pašvaldība.
+(4) Līdz Koncertzāles būves nodošanai ekspluatācijā aizliegts atsavināt vai apgrūtināt ar lietu tiesībām šā panta otrajā daļā minētos nekustamos īpašumus, izņemot apgrūtināšanu ar tādām lietu tiesībām, kas nepieciešamas Koncertzāles izveidei.
