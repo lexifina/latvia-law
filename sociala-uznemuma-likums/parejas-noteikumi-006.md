@@ -1,0 +1,1 @@
+6. Grozījums šā likuma 5. panta otrajā daļā par 3. punkta izslēgšanu un grozījumi par šā likuma 8. panta pirmās daļas un 9. panta otrās daļas izteikšanu jaunā redakcijā stājas spēkā 2027. gada 1. janvārī.
