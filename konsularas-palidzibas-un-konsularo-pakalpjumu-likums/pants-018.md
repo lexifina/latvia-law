@@ -1,0 +1,1 @@
+18. pants. Ārlietu ministrs, ņemot vērā ārkārtas vai krīzes situāciju Latvijā vai ārvalstī, ar rīkojumu var ierobežot šajā likumā noteikto konsulāro funkciju sniegšanu vai pārtraukt to sniegšanu klātienē.
