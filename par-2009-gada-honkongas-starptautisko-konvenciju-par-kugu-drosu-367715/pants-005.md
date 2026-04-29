@@ -1,0 +1,1 @@
+5. pants. Satiksmes ministrija sadarbībā ar valsts sabiedrību ar ierobežotu atbildību "Latvijas Jūras administrācija" un Klimata un enerģētikas ministrija sadarbībā ar Valsts vides dienestu atbilstoši kompetencei nodrošina konvencijas 10. panta 2. punktā paredzēto saistību izpildi.
