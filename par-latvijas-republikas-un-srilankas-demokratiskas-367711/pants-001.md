@@ -1,0 +1,1 @@
+1. pants. 2025. gada 11. novembrī Ņūdeli parakstītais Latvijas Republikas un Šrilankas Demokrātiskās Sociālistiskās Republikas nolīgums par notiesāto personu nodošanu soda izciešanai (turpmāk - Nolīgums) ar šo likumu tiek pieņemts un apstiprināts.
