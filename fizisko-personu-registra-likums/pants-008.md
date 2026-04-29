@@ -14,6 +14,7 @@
 (11) Nacionālais veselības dienests iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
 (11¹) Ārlietu ministrija iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "g" apakšpunktā minēto personu.
 (12) Šā likuma 4. panta pirmās daļas 2. punkta "f" apakšpunktā minētā persona valsts pārvaldes pakalpojuma ietvaros iekļauj Reģistrā šā likuma 11. panta ceturtajā daļā norādītās ziņas.
+(12¹) Kapsētas īpašnieks vai kremācijas pakalpojuma sniedzējs aktualizē Reģistrā ziņas par Latvijas teritorijā veiktu šā likuma 4. panta pirmajā daļā minētās personas apbedīšanu, kremāciju, pārapbedīšanu, urnas pārvietošanu vai apbedītā mirušā kremāciju.
 (13) Ministru kabinets nosaka Reģistrā iekļaujamo ziņu apjomu un ziņu iekļaušanas kārtību, kā arī Reģistrā iekļauto ziņu aktualizēšanai iesniedzamo ziņu apjomu un kārtību, kādā tās Pārvaldei sniedz:
 1) Saeimas Administrācija;
 2) valsts pārvaldes iestādes;

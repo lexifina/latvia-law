@@ -11,4 +11,5 @@
 9) Valsts robežsardze;
 10) Valsts sociālās apdrošināšanas aģentūra;
 11) Nacionālais veselības dienests;
-12) Ārlietu ministrija.
+12) Ārlietu ministrija;
+13) kapsētas īpašnieks vai kremācijas pakalpojuma sniedzējs.
