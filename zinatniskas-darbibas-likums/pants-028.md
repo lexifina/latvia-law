@@ -35,5 +35,6 @@
 3) biedrībā vai nodibinājumā darbojas zinātniskā padome;
 4) biedrībā vai nodibinājumā vēlētus akadēmiskos amatus ieņem vismaz piecas personas ar zinātnes doktora grādu.
 (5¹) Ja zinātniskais institūts ir augstskolas struktūrvienība, zinātnisko institūciju reģistrā reģistrē vai nu augstskolu, vai tās struktūrvienību - zinātnisko institūtu. Lēmumu par zinātnisko institūciju reģistrā reģistrējamo zinātnisko institūciju pieņem augstskola.
+(5²) Apvienošanās ceļā izveidoto valsts zinātnisko institūtu - atvasinātu publisku personu - reģistrē zinātnisko institūciju reģistrā ar tā izveidošanas dienu, kas noteikta Ministru kabineta lēmumā, ja attiecīgais valsts zinātniskais institūts atbilst šā panta otrajā daļā minētajiem kritērijiem.
 (6) (Izslēgta ar 08.12.2016. likumu)
 (7) (Izslēgta ar 08.12.2016. likumu)

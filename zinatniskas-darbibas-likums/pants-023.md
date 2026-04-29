@@ -6,3 +6,4 @@
 3) personu ievēlēšana akadēmiskajos amatos;
 4) jautājuma ierosināšana par vadošā pētnieka, pētnieka vai zinātniskā asistenta atcelšanu no amata pirms pilnvaru beigām;
 5) pārstāvju ievēlēšana budžeta, saimnieciskajā un administratīvajā komisijā.
+(3) Apvienošanās ceļā izveidotā valsts zinātniskā institūta - atvasinātas publiskas personas - zinātnieku pirmo pilnsapulci un jaunievēlētās zinātniskās padomes pirmo sēdi sasauc direktora pienākumu izpildītājs.
