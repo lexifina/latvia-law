@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 6,
+ "datums": "2026-04-30",
+ "ieraksts": {
+  "dkp_id": "72e15b3a-5224-410b-a5bd-6ac41a0a94a6",
+  "lastmodtime": "\"AAAAAAKEw+U=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Selma Teodora#Edmunds#Uldis#Ričards#Ingmārs#Edmunds#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Jānis#Līga#Antoņina#Inga#Uģis#Edvards",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Levrence#Teirumnieks#Augulis#Šlesers#Līdaka#Zivtiņš#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Smiltēns",
+  "VOTEDEPSUFFIX": "#########################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV#JV# # #PRO#NA#ZZS#LPV#AS#LPV#NA#JV#NA#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# # #ZZS# #JV# #JV# #AS#JV#NA#NA#JV#PRO#JV#LPV#AS#JV#AS#NA#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#ZZS#LPV#JV#AS#LPV#JV#JV#ZZS#PRO#JV#JV#AS",
+  "RESULT": "Pret#Pret#Pret#Pret#Par#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Atturas#Pret#Atturas#Pret#Atturas#Pret#Atturas#Pret#Atturas#Pret#Atturas#Atturas#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Atturas#Pret#Nebalsoja#Pret#Pret#Pret#Atturas#Atturas#Atturas#Pret#Pret#Atturas#Pret#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Pret#Atturas#Pret#Pret#Atturas#Atturas#Pret#Atturas#Atturas#Atturas#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "30.04.2026 12:19:15",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.29. Grozījumi Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likumā (1105/Lp14), 2.lasījums",
+  "VOTING_ID": "4d65fb9a-b54b-44fb-9608-3a2fbb574c2c",
+  "VOTERESULT_ABSTAIN": "32",
+  "VOTERESULT_AGAINST": "56",
+  "VOTERESULT_FOR": "1",
+  "VOTERESULT_REGISTERED": "90",
+  "VOTE_NUMBER": "42",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/b2280107-da7d-4ef3-97e5-5abc85f71981/download/14.saeimas-2026.gada-pavasara-sesija-6-vote.xml",
+  "sha256": "079be3ec2a8959de090be50840e90ce9d25365dd6ba3572929998c89190bfaf4",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
