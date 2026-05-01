@@ -21,7 +21,7 @@ d) ja transportlīdzeklis ir bez numura zīmes vai ja tam ir numura zīme, kas n
 a) sauszemes mehāniskais transportlīdzeklis, tai skaitā piekabe (puspiekabe), kas ir reģistrējams Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības aģentūrā, vai vietējā pašvaldībā vai ir reģistrēts ārvalstī,
 b) tramvajs, kas ir reģistrējams vietējā pašvaldībā;
 c) elektroskrejritenis, kas ir reģistrējams Ceļu satiksmes drošības direkcijā;
-d) (apakšpunkts stājas spēkā 01.05.2026. un iekļauts likuma redakcijā uz 01.05.2026. Sk. pārejas noteikumu 32. punktu);
+d) pašgājējs velosipēds, kas ir reģistrējams Ceļu satiksmes drošības direkcijā;
 13) transportlīdzekļa īpašnieks - fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis vai uz kuras vārda reģistrēts transportlīdzeklis;
 14) transportlīdzekļa tiesīgais lietotājs - fiziskā vai juridiskā persona, kura nav transportlīdzekļa īpašnieks, bet uz pilnvaras, īres līguma vai cita tiesiska pamata lieto transportlīdzekli;
 15) trešā persona - jebkura fiziskā vai juridiskā persona, kurai ceļu satiksmes negadījuma dēļ ir nodarīti zaudējumi un pienākas apdrošināšanas atlīdzība. Šā likuma 31.panta piektajā un septītajā daļā minētajos gadījumos par trešo personu uzskatāms ceļu satiksmes negadījumā zaudējumu nodarījušā transportlīdzekļa īpašnieks vai tiesīgais lietotājs.
