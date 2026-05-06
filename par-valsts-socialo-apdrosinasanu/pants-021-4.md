@@ -1,5 +1,5 @@
 21.⁴ pants. Obligāto iemaksu nodošana citai dalībvalstij saskaņā ar regulu
-(1) Pēc citas dalībvalsts kompetentās iestādes pieprasījuma Valsts sociālās apdrošināšanas aģentūra nodod citai dalībvalstij faktiski veiktās obligātās iemaksas par periodu, kas norādīts lēmumā par piemērojamo tiesību aktu noteikšanu (A1 sertifikātā), un informē Valsts ieņēmumu dienestu par personu, par kuru obligātās iemaksas tiek nodotas, un periodu, par kuru obligātās iemaksas aprēķinātas.
+(1) Pēc citas dalībvalsts kompetentās iestādes pieprasījuma Valsts sociālās apdrošināšanas aģentūra nodod citai dalībvalstij faktiski veiktās obligātās iemaksas, izņemot minimālās obligātās iemaksas, par periodu, kas norādīts lēmumā par piemērojamo tiesību aktu noteikšanu (A1 sertifikātā), un informē Valsts ieņēmumu dienestu par personu, par kuru obligātās iemaksas tiek nodotas, un periodu, par kuru obligātās iemaksas aprēķinātas.
 (1¹) Vienlaikus ar šā panta pirmajā daļā minēto obligāto iemaksu nodošanu citai dalībvalstij šai valstij nodod arī solidaritātes nodokļa daļu, kas reģistrēta:
 1) par 2018. gadu - fondēto pensiju shēmā;
 2) par 2019. un 2020. gadu - solidaritātes nodokļa maksātāja personīgajā kontā saskaņā ar likumu "Par valsts pensijām".

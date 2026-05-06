@@ -6,7 +6,7 @@
 (3¹) (Izslēgta no 01.07.2021. ar 27.11.2020. likumu. Sk. Pārejas noteikumu 75. punktu)
 (3²) Pašnodarbinātais šā likuma 14.¹ panta trešajā daļā minētās obligātās iemaksas no lauksaimnieciskās ražošanas ienākuma vai ienākuma no intelektuālā īpašuma par gadu veic līdz nākamā gada 23. janvārim.
 (4) Iekšzemes darba ņēmējs pie darba devēja - ārvalstnieka un ārvalstu darba ņēmējs pie darba devēja - ārvalstnieka veic obligātās iemaksas līdz ceturksnim sekojošā mēneša 23.datumam.
-(5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, invaliditātes apdrošināšanai, maternitātes un slimības apdrošināšanai un vecāku apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
+(5) Personas, kuras brīvprātīgi pievienojušās pensiju apdrošināšanai, veic brīvprātīgās iemaksas līdz katra mēneša pēdējai dienai.
 (6) (Izslēgta ar 20.06.2001. likumu)
 (7) Nokavētās obligātās iemaksas veicamas saskaņā ar likumu "Par nodokļiem un nodevām".
 (8) (Izslēgta ar 20.06.2001. likumu)

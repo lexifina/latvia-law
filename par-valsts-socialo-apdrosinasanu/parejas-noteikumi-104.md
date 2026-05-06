@@ -1,0 +1,1 @@
+104. Grozījums šā likuma 20.⁴ panta trīspadsmitajā daļā attiecībā uz minimālo obligāto iemaksu aprēķina un pārrēķina perioda precizēšanu attiecināms uz sociālās apdrošināšanas periodu, kas sākas ar 2025. gada 1. janvāri.

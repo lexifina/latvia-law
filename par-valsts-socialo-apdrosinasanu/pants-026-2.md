@@ -1,0 +1,4 @@
+26.² pants. Aģentūras automatizēti pieņemtie lēmumi
+(1) Sociālās apdrošināšanas pakalpojumus, valsts sociālos pabalstus un izdienas pensiju, ja speciālajās tiesību normās nav noteikta nepieciešamība iesniegt iesniegumu pakalpojuma saņemšanai, piešķir, pārrēķina un izmaksā, pamatojoties uz automātisku datu apstrādi Sociālās apdrošināšanas informācijas sistēmā (SAIS).
+(2) Automatizēti pieņemts lēmums ir derīgs bez paraksta un ir paziņots ar sociālās apdrošināšanas pakalpojuma vai valsts sociālā pabalsta, vai izdienas pensijas izmaksu. Lēmumā norāda, ka tas ir pieņemts, pamatojoties tikai uz automātisku datu apstrādi, un ietver informāciju par to, kā persona var saņemt skaidrojumu par lēmuma automatizēto pieņemšanu.
+(3) Automatizēti pieņemtie lēmumi pieejami valsts pārvaldes pakalpojumu portālā https://latvija.gov.lv, vai tos izsniedz pēc personas pieprasījuma.

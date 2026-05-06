@@ -9,7 +9,7 @@ d) persona, kura nav reģistrējusies kā saimnieciskajā darbībā gūtā ienā
 e) Iekšlietu ministrijas sistēmas iestādes un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi, valsts drošības iestādes amatpersona vai Aizsardzības ministrijas padotībā esošas struktūrvienības militārpersona,
 f) valsts civildienesta ierēdnis,
 g) ārvalsts komersanta pilnvarota persona, kura, nebūdama darba tiesiskajās attiecībās ar šo komersantu, pārstāv to darbībās, kas saistītas ar ārvalsts komersanta filiāli,
-h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā,
+h) notiesātais, kas tiek nodarbināts brīvības atņemšanas soda izciešanas laikā, vai apcietinātais, kas tiek nodarbināts, atrodoties izmeklēšanas cietumā,
 i) (izslēgts ar 27.11.2020. likumu),
 j) persona, kuru Latvijas Republikā nodarbina ārvalsts nodokļu maksātājs, kuram Latvijas Republikā ir pastāvīgā pārstāvniecība, kā arī persona, kuru iekšzemes nodokļu maksātājam iznomā ārvalsts nodokļu maksātājs - personāla iznomātājs,
 k) persona, kura ir noslēgusi Civillikuma IV daļas 15.nodaļā paredzēto uzņēmuma, graudniecības vai pārvadājuma līgumu un attiecībā uz kuru tiek konstatēta vismaz viena no likuma "Par iedzīvotāju ienākuma nodokli" 8.panta 2.² daļā noteiktajām pazīmēm,
