@@ -6,6 +6,7 @@ Tiesa aptur tiesvedību, ja:
 4) tā pieņem lēmumu par pieteikuma iesniegšanu Satversmes tiesai vai arī Satversmes tiesa ir ierosinājusi lietu sakarā ar puses vai trešās personas iesniegto konstitucionālo sūdzību;
 4¹) tā pieņem lēmumu par jautājuma uzdošanu Eiropas Savienības Tiesai prejudiciāla nolēmuma pieņemšanai;
 5) lietas izskatīšana nav iespējama, iekams nav izšķirta cita lieta, kas izskatāma civilprocesa, kriminālprocesa, administratīvā procesa vai administratīvā pārkāpuma procesa kārtībā;
+5¹) prasība ir celta šā likuma 28. panta 9.¹ daļā minētajā gadījumā un lietas izskatīšana nav iespējama, iekams ārvalstī nav izskatīta lieta;
 6) (izslēgts ar 08.09.2011. likumu);
 7) Konkurences padome izskata lietu par konkurences tiesību pārkāpumu, kas saistīta ar prasījumu par zaudējumu atlīdzināšanu;
 8) Patērētāju tiesību aizsardzības centrs izskata lietu par patērētāju tiesību pārkāpumu, kas saistīts ar patērētāju kolektīvo prasību;

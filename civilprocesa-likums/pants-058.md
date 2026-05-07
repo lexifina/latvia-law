@@ -1,3 +1,3 @@
 58.pants. Adreses maiņa lietas tiesvedības laikā
 (1) Lietas dalībnieks paziņo tiesai par elektroniskā pasta adreses maiņu, ja viņš piekritis elektroniskai saziņai ar tiesu, vai savas adreses maiņu lietas tiesvedības laikā. Ja šāds paziņojums nav bijis, pavēsti un citus tiesas dokumentus nosūta uz pēdējo tiesai zināmo elektroniskā pasta adresi, ja lietas dalībnieks piekritis elektroniskai saziņai ar tiesu, vai adresi. Šajā gadījumā uzskatāms, ka lietas dalībniekam ir paziņots dokumenta saturs.
-(2) Lietas dalībniekam, ja viņš nepaziņo tiesai par savas elektroniskā pasta adreses vai adreses maiņu tiesvedības laikā, tiesa vai tiesnesis var uzlikt naudas sodu līdz 50 euro.
+(2) Lietas dalībniekam, ja viņš nepaziņo tiesai par savas elektroniskā pasta adreses vai adreses maiņu tiesvedības laikā, tiesa vai tiesnesis var uzlikt naudas sodu līdz 300 euro.

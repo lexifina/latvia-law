@@ -9,4 +9,5 @@
 (7) Prasību pret vairākiem atbildētājiem, kuri dzīvo vai atrodas dažādās vietās, var celt pēc viena atbildētāja deklarētās dzīvesvietas vai juridiskās adreses.
 (8) Prasību par laulības šķiršanu vai laulības neesamību var celt tiesā pēc prasītāja izvēles atbilstoši šā likuma 234.panta noteikumiem.
 (9) Prasību, kas izriet no darba tiesiskajām attiecībām, prasītājs var celt arī pēc savas deklarētās dzīvesvietas vai darbavietas.
+(9¹) Ja pret personu, kuras dzīvesvieta vai juridiskā adrese ir Latvijā, saistībā ar tās darbošanos sabiedrības interesēs prasība ir celta ļaunprātīgos nolūkos tādas valsts tiesā, kas nav dalībvalsts tiesa, un to ir cēlusi persona, kuras dzīvesvieta vai juridiskā adrese nav dalībvalstī, persona, pret kuru ir celta šī prasība, var celt prasību Latvijas tiesā pēc savas deklarētās dzīvesvietas vai juridiskās adreses par tai ārvalstī ierosinātās tiesvedības dēļ radītajiem zaudējumiem un nodarītā nemantiskā kaitējuma atlīdzināšanu.
 (10) Ja prasītājam šajā pantā minētajos gadījumos nav deklarētās dzīvesvietas, viņš prasību var celt pēc savas dzīvesvietas.
