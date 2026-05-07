@@ -1,0 +1,6 @@
+3. pants. Ļaunprātīgos nolūkos celta prasība pret personu saistībā ar tās darbošanos sabiedrības interesēs
+Ļaunprātīgos nolūkos celta prasība pret personu saistībā ar tās darbošanos sabiedrības interesēs ir prasība, kas celta tādēļ, lai novērstu vai ierobežotu šīs personas darbošanos sabiedrības interesēs vai par to šo personu sodītu, parasti izmantojot finanšu resursu vai cita veida ietekmes pārākumu, nevis tādēļ, lai patiesi aizstāvētu savas aizskartās vai apstrīdētās civilās tiesības vai ar likumu aizsargātās intereses tiesā. Pazīmes, kas liecina par ļaunprātību, var būt:
+1) prasības vai tās daļas nesamērīgums, pārmērīgums vai nepamatotība, tostarp pārmērīga prasības summa;
+2) tas, ka šādu prasību cēlusī persona (turpmāk arī - prasītājs) vai iesaistītās personas ir cēlušas vairākas prasības saistībā ar līdzīgiem jautājumiem;
+3) prasītāja vai prasītāja pārstāvju mēģinājumi pirms tiesvedības vai tās gaitā atbildētāju iebiedēt, aizskart vai viņam draudēt, kā arī prasītāja līdzīga rīcība līdzīgās vai paralēlās lietās;
+4) procesuālo tiesību negodprātīga izmantošana, piemēram, tiesvedības novilcināšana, krāpnieciska vai ļaunprātīga labvēlīgākas tiesas izvēle vai negodprātīga lietas neturpināšana vēlākā tiesvedības stadijā.

@@ -1,0 +1,2 @@
+5. pants. Atbalsts atbildētājam tiesvedībā
+Biedrības un nodibinājumi, tostarp arodbiedrības un to apvienības, kā arī citi subjekti atbilstoši savas darbības mērķiem var atbalstīt personu, pret kuru tiesā ir celta prasība saistībā ar tās darbošanos sabiedrības interesēs, ja šī persona tam piekrīt, vai pēc tiesas pieprasījuma sniegt attiecīgajā tiesvedībā tādu informāciju, kas varētu palīdzēt tiesai noskaidrot, vai saistībā ar personas darbošanos sabiedrības interesēs pret to ir celta acīmredzami nepamatota prasība vai prasība ir celta ļaunprātīgos nolūkos.

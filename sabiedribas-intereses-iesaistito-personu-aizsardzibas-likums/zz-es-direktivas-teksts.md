@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2024. gada 11. aprīļa direktīvas (ES) 2024/1069 par sabiedrības līdzdalībā iesaistījušos personu aizsardzību pret acīmredzami nepamatotām prasībām vai ļaunprātīgu tiesvedību ("stratēģiska tiesvedība pret sabiedrības līdzdalību").
