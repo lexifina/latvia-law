@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Grozījumi Civilprocesa likumā",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "84",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-05",
+  "entry_into_force": "2026-05-07",
+  "notification_date": "2026-05-05",
+  "commission_reference": "MNE(2026)02636",
+  "nim_celex": "72024L1069LVA_202602636",
+  "nim_id": "202602636",
+  "transposes_celex": [
+    "32024L1069"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd845425-9c96-4999-b572-83524c8a2918",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
