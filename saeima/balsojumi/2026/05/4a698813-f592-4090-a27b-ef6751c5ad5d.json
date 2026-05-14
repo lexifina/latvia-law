@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 8,
+ "datums": "2026-05-14",
+ "ieraksts": {
+  "dkp_id": "fa657c5e-5efa-4811-bbba-53aabea40f23",
+  "lastmodtime": "\"AAAAAAKFkOU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Edmunds#Uldis#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Aiva#Valdis#Līga#Dmitrijs#Nataļja#Jānis#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Augulis#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Marčenko-Jodko#Dinevičs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": " #NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS# #NA#PRO#JV#JV# # #NA#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#AS#ZZS#ZZS# # #ZZS#JV# #JV# #AS#JV#ZZS#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#AS# #AS# #PRO#PRO#LPV#JV#AS#LPV#JV# #JV#ZZS#PRO#JV#JV",
+  "RESULT": "Par#Nebalsoja#Par#Nebalsoja#Pret#Par#Pret#Nebalsoja#Par#Pret#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Pret#Pret#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par#Nebalsoja#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Nebalsoja#Pret#Pret#Nebalsoja#Pret#Par#Nebalsoja#Nebalsoja#Par#Par#Nebalsoja#Pret#Pret#Pret#Par#Par#Pret#Nebalsoja#Par#Pret#Par#Pret#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Pret#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Nebalsoja#Par#Pret#Nebalsoja#Nebalsoja#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.05.2026 11:50:40",
+  "VOTEMOTIVE": "Par iespējamu interešu konfliktu un dāvinājumu pieņemšanas ierobežojumu ievērošanu, amatpersonām piedaloties Konrāda Adenauera fonda apmaksātā pasākumā (131/P14)",
+  "VOTING_ID": "4a698813-f592-4090-a27b-ef6751c5ad5d",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "25",
+  "VOTERESULT_FOR": "46",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "14",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a6289646-bdfb-474a-ab72-47119c74c17f/download/14.saeimas-2026.gada-pavasara-sesija-8-vote.xml",
+  "sha256": "84740ad0c228ce14f4b65007cf0deffd1502388605790b972d350ca1b67d74b6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
