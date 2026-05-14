@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 8,
+ "datums": "2026-05-14",
+ "ieraksts": {
+  "dkp_id": "30299cf6-9fa8-4a77-9e90-0ebff0c7ee61",
+  "lastmodtime": "\"AAAAAAKFjGU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Mārtiņš#Mārcis#Andris#Jurģis#Andris#Inese#Vilis#Amils#Edmunds#Uldis#Didzis#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Jānis#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Jānis#Oļegs#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Jānis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Augulis#Zemmers#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Vitenbergs#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Dinevičs#Burovs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Dombrava#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "##########################################################################################",
+  "FRACTION": " #NA#PRO# #JV#PRO#JV#ZZS#JV#LPV#ZZS#NA#PRO#JV# # #NA#ZZS#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#NA#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# #ZZS# #JV# #JV# #AS#JV#ZZS#NA#JV#PRO#JV#LPV#AS#JV#AS#NA# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#PRO#ZZS#LPV#JV#AS#LPV#JV# #JV#ZZS#PRO#JV#JV",
+  "RESULT": "Par#Par#Pret#Nebalsoja#Pret#Pret#Pret#Atturas#Pret#Par#Nebalsoja#Nebalsoja#Pret#Pret#Pret#Par#Par#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Par#Nebalsoja#Par#Par#Pret#Par#Pret#Pret#Nebalsoja#Par#Par#Pret#Par#Pret#Par#Pret#Pret#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Pret#Nebalsoja#Nebalsoja#Nebalsoja#Par#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Nebalsoja#Par#Pret#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Pret#Pret#Nebalsoja#Pret#Par#Par#Pret#Par#Pret#Nebalsoja#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "14.05.2026 11:43:15",
+  "VOTEMOTIVE": "Par Ministru kabineta rīkojuma projektu Par valsts nekustamā īpašuma Alksnāja ielā 9, Rīgā, pārdošanu (26-TA-109) (130/P14)",
+  "VOTING_ID": "401c3415-6309-4fd8-9b38-ece0143ac0b7",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "41",
+  "VOTERESULT_FOR": "30",
+  "VOTERESULT_REGISTERED": "91",
+  "VOTE_NUMBER": "13",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-8-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/a6289646-bdfb-474a-ab72-47119c74c17f/download/14.saeimas-2026.gada-pavasara-sesija-8-vote.xml",
+  "sha256": "84740ad0c228ce14f4b65007cf0deffd1502388605790b972d350ca1b67d74b6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
