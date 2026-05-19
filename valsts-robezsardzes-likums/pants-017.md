@@ -15,7 +15,7 @@
 2) ja uzbrukumā vai pretojoties tiek izmantots transportlīdzeklis vai jebkura cita ierīce, kas pēc konstrukcijas paredzēta kuģošanai vai lai pārvietotos pa sauszemi;
 3) šā panta otrās daļas 8. punktā minētajā gadījumā.
 (5) Aizliegts pielietot ieroci pret sievieti, personu ar redzamu invaliditātes pazīmi un bērnu, izņemot gadījumus, kad minētās personas ar savu rīcību apdraud robežsarga vai citas personas dzīvību vai veselību vai izrāda bruņotu pretošanos, vai izdara bruņotu uzbrukumu.
-(6) Pielietojot vai izmantojot šaujamieroci, maksimāli ierobežojams tā nodarītais kaitējums, kā arī, ja nepieciešams, nekavējoties nodrošināma pirmās palīdzības sniegšana un neatliekamās medicīniskās palīdzības izsaukšana.
+(6) Pielietojot vai izmantojot ieroci, maksimāli ierobežojams tā nodarītais kaitējums, kā arī, ja nepieciešams, nekavējoties nodrošināma pirmās palīdzības sniegšana un neatliekamās medicīniskās palīdzības izsaukšana.
 (7) Robežsargs:
 1) sniedzot atbalstu citai valsts vai pašvaldības institūcijai tās uzdevumu izpildē vai pārtraucot vai novēršot noziedzīgu nodarījumu, kura izmeklēšana nav Robežsardzes kompetencē, ieroci pielieto un izmanto atbilstoši likumam "Par policiju";
 2) pildot dienesta pienākumus ārpus Latvijas Republikas, ieroci pielieto un izmanto saskaņā ar starptautisko tiesību normām.
