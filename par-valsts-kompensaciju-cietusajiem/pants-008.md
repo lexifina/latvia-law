@@ -1,5 +1,6 @@
 8. pants. Valsts kompensācijas pieprasījums un tam pievienojamie dokumenti
 (1) Lai saņemtu valsts kompensāciju, cietušais iesniedz Tiesu administrācijai valsts kompensācijas pieprasījumu - aizpildītu valsts kompensācijas pieprasījuma veidlapu, kuras paraugu apstiprina Ministru kabinets.
+(1¹) Valsts kompensācijas pieprasījumu cietušā vārdā var iesniegt kriminālprocesā par cietušā pārstāvi atzītā persona.
 (2) Ja valsts kompensācijas pieprasīšanas brīdī kriminālprocesā nav pieņemts galīgais nolēmums, cietušais valsts kompensācijas pieprasījuma veidlapai pievieno procesa virzītāja izziņu, kurā norādīts:
 1) noziedzīgā nodarījuma izdarīšanas laiks un vieta;
 2) noziedzīgā nodarījuma kvalifikācija, izziņas izsniegšanas brīdī konstatētā noziedzīgā nodarījuma izdarītāja vainas forma, kriminālprocesa uzsākšanas datums un krimināllietas numurs;

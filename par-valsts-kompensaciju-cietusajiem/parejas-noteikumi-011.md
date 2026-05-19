@@ -1,0 +1,1 @@
+11. Valsts kompensācijas pieprasījumus par noziedzīgiem nodarījumiem, kuru rezultātā iestājusies personas nāve un kuros personas kriminālprocesa ietvaros atzītas par cietušajiem līdz 2025. gada 31. decembrim, Tiesu administrācija izskata un lēmumu pieņem atbilstoši šā likuma regulējumam, kas bija spēkā līdz 2025. gada 31. decembrim.
