@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 12,
+ "datums": "2026-05-21",
+ "ieraksts": {
+  "dkp_id": "c39691c9-36ee-4cea-8c3f-02fa7df3b645",
+  "lastmodtime": "\"AAAAAAKG+jA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Vilis#Amils#Edmunds#Uldis#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Irma#Harijs#Edmunds#Augusts#Aiva#Valdis#Līga#Dmitrijs#Jānis#Viesturs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Daiga#Jānis#Uģis#Gatis#Līga#Agita#Kristaps#Česlavs#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Gundars#Jānis#Lauris#Linda#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Sruoģis#Saļimovs#Teirumnieks#Augulis#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Dinevičs#Zariņš#Rajevs#Daugavietis#Klementjevs#Viļums#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Batņa#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#####################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS#JV#LPV#LPV#ZZS# #NA#PRO# # #NA#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#JV#ZZS#JV#ZZS#AS#ZZS#ZZS# #ZZS#JV# #JV# #AS#ZZS#NA#NA#JV#PRO#JV#LPV#AS#JV#AS# #AS#AS#JV#NA#ZZS#ZZS#AS# #AS# #PRO#PRO#ZZS#JV#AS#LPV#JV# #JV#ZZS#PRO#JV#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Pret#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.05.2026 11:46:21",
+  "VOTEMOTIVE": "Par likumprojekta atzīšanu par steidzamu. Par Latvijas Republikas starptautiskajām saistībām attiecībā uz Latvijas pilsoņu izdošanu Lielbritānijas un Ziemeļīrijas Apvienotajai Karalistei (1357/Lp14), 1.lasījums",
+  "VOTING_ID": "d24dd356-f378-4a38-9ae3-e3b1dbb8c5d8",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "75",
+  "VOTERESULT_REGISTERED": "86",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/79ae0fab-af7f-4698-9d39-1bd01f9be846/download/14.saeimas-2026.gada-pavasara-sesija-12-vote.xml",
+  "sha256": "500ec5dc4289a3f59773f3449ce27e904e52f50cb8d1080d3f8d2ff658676fa7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
