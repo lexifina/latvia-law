@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 12,
+ "datums": "2026-05-21",
+ "ieraksts": {
+  "dkp_id": "07493acd-ff5b-4130-a92c-67af17534b48",
+  "lastmodtime": "\"AAAAAAKHQ08=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Andris#Ingmārs#Edmunds#Andris#Maija#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Jānis#Andrejs#Ingrīda#Harijs#Aiva#Valdis#Dmitrijs#Nataļja#Jānis#Viesturs#Igors#Dāvis Mārtiņš#Mārtiņš#Daiga#Uģis#Gatis#Līga#Agita#Kristaps#Atis#Māris#Viktorija#Edgars#Linda#Andrejs#Anita#Edgars#Jeļena#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Anda#Jānis#Inga#Uģis",
+  "SURNAME": "Ivanovs#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Kulbergs#Līdaka#Zivtiņš#Sprūds#Armaņeva#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Zariņš#Ceļapīters#Circene#Rokpelnis#Vīksna#Maslovskis#Kovaļenko#Marčenko-Jodko#Dinevičs#Zariņš#Rajevs#Daugavietis#Felss#Mieriņa#Mitrevics#Liepiņš#Rasnača#Zariņa-Stūre#Krištopans#Labucis#Kučinskis#Pleškāne#Tavars#Matisone#Judins#Brakovska#Putra#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Skrastiņš#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "##################################################################",
+  "FRACTION": " # #JV#PRO#JV#ZZS# #JV#LPV#LPV#NA#PRO#JV#JV# # #AS#AS#LPV#PRO#LPV#PRO#ZZS#JV#AS#JV# #JV#NA#JV# #JV#ZZS#AS#ZZS# # #ZZS#JV# #JV#JV#ZZS#NA#JV#PRO#JV#LPV#JV#AS# #AS#AS#JV#ZZS#AS# #PRO#ZZS#LPV#JV#AS#LPV#JV#JV#JV#JV",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "21.05.2026 13:39:32",
+  "VOTEMOTIVE": "Zemes likumiskās lietošanas maksas kompensācijas likums (1352/Lp14), 1.lasījums",
+  "VOTING_ID": "f2848fcd-11ea-4d87-8cee-fcc6583aa9a7",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "65",
+  "VOTERESULT_REGISTERED": "67",
+  "VOTE_NUMBER": "21",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/79ae0fab-af7f-4698-9d39-1bd01f9be846/download/14.saeimas-2026.gada-pavasara-sesija-12-vote.xml",
+  "sha256": "500ec5dc4289a3f59773f3449ce27e904e52f50cb8d1080d3f8d2ff658676fa7",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
