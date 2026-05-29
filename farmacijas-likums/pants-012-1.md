@@ -1,0 +1,2 @@
+12.¹ pants. (1) Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts "BIOR" pilda regulas Nr. 2019/6 29. panta 1. punktā, 123. panta 6. punkta "b" apakšpunktā un 128. panta 3. punktā minētās oficiālās veterināro zāļu kontroles laboratorijas uzdevumus un veic riska zinātnisko novērtējumu veterināro zāļu jomā.
+(2) Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta "BIOR" sniegto maksas pakalpojumu cenrādi par veterināro zāļu kvalitātes kontroli apstiprina zemkopības ministrs.

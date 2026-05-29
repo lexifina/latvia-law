@@ -1,0 +1,1 @@
+38. Ministru kabinets līdz 2026. gada 1. jūnijam izdod noteikumus, kas reglamentē šā likuma 5. panta 28. punktā minēto kritisko zāļu sarakstā iekļauto resursu rezervju veidošanas, izmantošanas un aprites kārtību un nosacījumus.

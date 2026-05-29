@@ -21,10 +21,11 @@
 19) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu veterinārfarmaceitiskajai darbībai, un kārtību, kādā tā iekasējama;
 19¹) apmēru, kādā maksājama valsts nodeva par speciālās atļaujas (licences) izsniegšanu un pārreģistrēšanu farmaceitiskajai darbībai, un kārtību, kādā tā iekasējama, kā arī atvieglojumus un atbrīvojumus no valsts nodevas;
 20) ambulatorajai ārstēšanai paredzēto zāļu un medicīnisko ierīču iegādes izdevumu kompensācijas kārtību;
-21) kārtību, kādā vāc un apkopo informāciju un veido statistiku veterināro zāļu aprites jomā;
+21) kārtību, kādā vāc un apkopo informāciju un veido statistiku veterināro zāļu aprites jomā un par cilvēkiem paredzēto zāļu lietošanu dzīvniekiem, kā arī iegūstamās informācijas apjomu;
 22) personai veterināro zāļu izplatīšanai nepieciešamās profesionālās kvalifikācijas prasības, kvalifikācijas novērtēšanas kārtību un kārtību, kādā izsniedz sertifikātu veterināro zāļu izplatīšanai, pagarina tā derīguma termiņu un to anulē, kā arī sertificētās personas reģistrācijas kārtību;
 23) aktīvo vielu importēšanas un izplatīšanas prasības un kārtību un aktīvo vielu importētāju, ražotāju un izplatītāju reģistrēšanas kārtību;
 24) farmakovigilances kārtību;
 25) zāļu pieejamības analīzei nepieciešamo zāļu vairumtirdzniecības realizācijas datu izplatīšanas kārtību un apjomu;
 26) aptiekās izplatāmos pārtikas produktus;
-27) zāļu klīnisko pētījumu ētikas komitejas personālsastāvam izvirzāmās prasības un šīs komitejas darbības nosacījumus.
+27) zāļu klīnisko pētījumu ētikas komitejas personālsastāvam izvirzāmās prasības un šīs komitejas darbības nosacījumus;
+28) nosacījumus un kārtību kritisko zāļu sarakstā iekļauto resursu rezervju veidošanai, izmantošanai un apritei.
