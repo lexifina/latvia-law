@@ -1,6 +1,6 @@
 16.pants. Zemessarga iecelšana amatā
 (1) Zemessargu ieceļ amatu sarakstā paredzētajā un dienesta pakāpei atbilstošajā amatā.
-(2) Virsnieka amatā zemessargu ieceļ Nacionālo bruņoto spēku komandieris Militārā dienesta likumā noteiktajā kārtībā.
+(2) Virsnieka amatā zemessargu ieceļ Militārā dienesta likumā noteiktajā kārtībā.
 (3) Augstākā instruktora amatā zemessargu ieceļ Zemessardzes komandieris.
 (4) Pārējo instruktoru un zemessargu amatos zemessargus ieceļ Zemessardzes vienības komandieris.
 (5) Ja dienestam tas nepieciešams, ar zemessarga piekrišanu viņu var iecelt zemākā amatā, nekā paredz viņa dienesta pakāpe, bet ne vairāk kā divas pakāpes zemākā amatā.

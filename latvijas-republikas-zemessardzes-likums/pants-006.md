@@ -17,18 +17,19 @@
 1) līdz piecām darba dienām kalendāra gadā - zemessarga apmācībai;
 2) līdz piecām darba dienām kalendāra gadā - Zemessardzes uzdevumu pildīšanai;
 3) ārkārtējās situācijas vai izņēmuma stāvokļa izsludināšanas gadījumā - līdz ārkārtējās situācijas vai izņēmuma stāvokļa atcelšanai;
-4) līdz pusotram gadam - dalībai starptautiskajā operācijā vai ātrās reaģēšanas spēkos;
+4) līdz pusotram gadam - dalībai apmācības kursā pirms dalības starptautiskajā operācijā vai ātrās reaģēšanas spēkos, dalībai starptautiskajā operācijā vai ātrās reaģēšanas spēkos, kā arī zemessargam noteiktajam atpūtas laikam pēc atgriešanās no starptautiskās operācijas vai uzdevumu izpildes ātrās reaģēšanas spēkos ārpus Latvijas teritorijas un sociālās rehabilitācijas nodrošināšanai;
 5) līdz 72 stundām reizi divos gados - dalībai kaujas gatavības pārbaudēs, kas tiek rīkotas saskaņā ar Ministru kabineta lēmumu;
 6) pastiprināta robežapsardzības sistēmas darbības režīma izsludināšanas gadījumā - līdz šā režīma atcelšanai.
 (4¹) Darba devējs atbrīvo Zemessardzes uzdevumu pildīšanā iesaistīto zemessargu no darba pienākumu pildīšanas, neizmaksājot viņam darba samaksu, bet saglabājot darba (amata) vietu:
 1) līdz piecām darba dienām kalendāra gadā - Zemessardzes uzdevumu pildīšanai;
 2) ārkārtējās situācijas vai izņēmuma stāvokļa izsludināšanas gadījumā - līdz ārkārtējās situācijas vai izņēmuma stāvokļa atcelšanai;
-3) līdz pusotram gadam - dalībai starptautiskajā operācijā vai ātrās reaģēšanas spēkos;
+3) līdz pusotram gadam - dalībai apmācības kursā pirms dalības starptautiskajā operācijā vai ātrās reaģēšanas spēkos, dalībai starptautiskajā operācijā vai ātrās reaģēšanas spēkos, kā arī zemessargam noteiktajam atpūtas laikam pēc atgriešanās no starptautiskās operācijas vai uzdevumu izpildes ātrās reaģēšanas spēkos ārpus Latvijas teritorijas un sociālās rehabilitācijas nodrošināšanai;
 4) zemessargu mobilizācijas gadījumā, ja nav izsludināts izņēmuma stāvoklis, - līdz dienai, kad Ministru kabineta lēmums zaudē spēku;
 5) līdz 72 stundām reizi divos gados - dalībai kaujas gatavības pārbaudēs, kas tiek rīkotas saskaņā ar Ministru kabineta lēmumu;
 6) pastiprināta robežapsardzības sistēmas darbības režīma izsludināšanas gadījumā - līdz šā režīma atcelšanai.
 (4²) Darba devējs līdz piecām darba dienām kalendāra gadā atbrīvo zemessargu apmācībā iesaistīto zemessargu no darba pienākumu pildīšanas, saglabājot darba (amata) vietu. Darba devējs, ievērojot Darba likumā noteikto, var izmaksāt darbiniekam atlīdzību par zemessargu apmācībā pavadīto laiku.
 (4³) Darba devējs ne ilgāk kā piecas darba dienas pēc kārtas vienu reizi kalendāra gadā atbrīvo zemessargu kolektīvajā apmācībā iesaistīto zemessargu no darba pienākumu pildīšanas, saglabājot darba (amata) vietu. Darba devējs, ievērojot Darba likumā noteikto, izmaksā darbiniekam atlīdzību par zemessargu kolektīvajā apmācībā pavadīto laiku.
+(4⁴) Šā panta 4.¹ daļas 2. punktā noteiktais pienākums attiecas uz Ieslodzījuma vietu pārvaldi, ja tās priekšnieks ir piekritis atbrīvot zemessargu no dienesta pienākumu pildīšanas Ieslodzījuma vietu pārvaldē.
 (5) Speciālā militārā apmācība tiem akreditēto augstskolu studentiem, kuri pilda dienestu Zemessardzē, notiek Ministru kabineta noteiktajā kārtībā.
 (5¹) Kārtību, kādā zemessargu nosūta paaugstināt kvalifikāciju mācību kursos vai uz militārās izglītības iestādi vai Nacionālo bruņoto spēku vienību, kuras uzdevumos ietilpst pieaugušo izglītības programmu īstenošana, attiecīgu dienesta pienākumu izpildei nepieciešamās izglītības iegūšanai, un ar zemessarga kvalifikācijas paaugstināšanu vai mācībām saistīto izdevumu segšanas un atmaksāšanas nosacījumus un kārtību, kā arī gadījumus, kad zemessargs neatmaksā ar viņa kvalifikācijas paaugstināšanu vai mācībām saistītos izdevumus, nosaka Ministru kabinets.
 (6) Zemessargs informē savu tiešo komandieri, ja radušies apstākļi, kuru dēļ viņš nevar ierasties uz Zemessardzes uzdevumu izpildi vai apmācību.
