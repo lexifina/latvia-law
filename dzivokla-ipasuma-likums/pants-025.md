@@ -1,0 +1,5 @@
+25. pants. Atsevišķās lietošanas tiesība un tās objekts
+(1) Atsevišķās lietošanas tiesība ir dzīvokļa īpašumam par labu nodibināta tiesība lietot noteiktu neatdalītu reālu daļu no kopīpašumā esošās daļas, kuru izlieto tikai šā dzīvokļa īpašnieks nošķirti no citiem dzīvokļu īpašniekiem.
+(2) Atsevišķās lietošanas tiesību var nodibināt uz tādu dzīvojamās mājas koplietošanas telpu, jumta vai ārsienu daļu, kura ir funkcionāli patstāvīgi izmantojama, kā arī uz dzīvojamās mājas palīgēku vai citu būvi vai daļu no tās, vai arī zemesgabalu, uz kura atrodas dzīvojamā māja, vai daļu no tā (turpmāk - atsevišķās lietošanas tiesības objekts), ja atsevišķās lietošanas tiesības nodibināšana un īstenošana būtiski neapgrūtina dzīvojamās mājas ekspluatāciju, piekļuvi atsevišķiem īpašumiem vai to lietošanu.
+(3) Atsevišķās lietošanas tiesībai piemērojami Civillikuma noteikumi par reālservitūtiem, ciktāl šajā likumā nav noteikts citādi.
+(4) Atsevišķās lietošanas tiesību reģistrē Kadastra informācijas sistēmā kā kalpojošā nekustamā īpašuma apgrūtinājumu.

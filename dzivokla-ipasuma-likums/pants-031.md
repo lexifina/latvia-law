@@ -1,0 +1,6 @@
+31. pants. Kopīgās infrastruktūras lietošanas tiesības īstenošana
+(1) Katram kalpojošā nekustamā īpašuma un valdošā nekustamā īpašuma dzīvokļa īpašniekam ir vienlīdzīga tiesība kopīgi ar pārējiem dzīvokļu īpašniekiem lietot kopīgo infrastruktūru atbilstoši tai paredzētajam lietošanas veidam.
+(2) Par kopīgās infrastruktūras pārvaldīšanu ir atbildīgi kalpojošā nekustamā īpašuma dzīvokļu īpašnieki, ja kalpojošā nekustamā īpašuma un valdošā nekustamā īpašuma dzīvokļu īpašnieku kopības nav vienojušās par citu pārvaldīšanas kārtību.
+(3) Kopīgās infrastruktūras pārvaldīšanas izdevumus samērīgi sedz katrs valdošā nekustamā īpašuma un kalpojošā nekustamā īpašuma dzīvokļa īpašnieks, bet līdz brīdim, kad valdošā nekustamā īpašuma sastāvā ietilpstošā dzīvojamā māja tiek nodota ekspluatācijā, - tikai kalpojošā nekustamā īpašuma dzīvokļu īpašnieki.
+(4) Lai noteiktu kopīgās infrastruktūras pārvaldīšanas izdevumu veidu un apmēru, piemēro šā likuma noteikumus par kopīpašumā esošās daļas pārvaldīšanas izdevumu segšanu. Lēmumu par kopīgās infrastruktūras pārvaldīšanas izdevumu apmēru pieņem kalpojošā nekustamā īpašuma dzīvokļu īpašnieku kopība.
+(5) Kopīgās infrastruktūras pārvaldīšanas izdevumus dzīvokļa īpašnieks maksā personai, kas pārvalda nekustamo īpašumu, kurā atrodas attiecīgais dzīvokļa īpašums.

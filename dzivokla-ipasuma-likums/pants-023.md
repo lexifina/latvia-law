@@ -1,0 +1,5 @@
+23. pants. Dzīvokļu īpašnieku kopības lēmuma atzīšana ar tiesas spriedumu
+(1) Dzīvokļa īpašnieks var celt prasību tiesā par tāda dzīvokļu īpašnieku kopības lēmuma atzīšanu par pieņemtu, kas ir kopības kompetencē un nodrošina pienācīgu dzīvojamās mājas pārvaldīšanu vai cita ar likumu noteikta kopības pienākuma īstenošanu.
+(2) Dzīvokļa īpašniekam ir pienākums šajā likumā noteiktajā kārtībā organizēt šāda dzīvokļu īpašnieku kopības lēmuma pieņemšanu pirms prasības celšanas tiesā. Prasību tiesā var celt tikai tad, ja dzīvokļu īpašnieku kopība attiecīgo lēmumu nav pieņēmusi, tostarp atkārtotā kopsapulcē vai atkārtotā aptaujā, bet tādu saskaņā ar šā likuma noteikumiem varēja organizēt.
+(3) Prasību par dzīvokļu īpašnieku kopības lēmuma atzīšanu dzīvokļa īpašnieks ceļ tiesā pret dzīvokļu īpašnieku kopību.
+(4) Ar tiesas spriedumu atzītais dzīvokļu īpašnieku kopības lēmums ir saistošs visiem dzīvokļu īpašniekiem. Šādu lēmumu dzīvokļu īpašnieku kopība var grozīt vai atcelt, ja mainās tā pieņemšanas pamatā bijušie apstākļi un tas atbilst dzīvokļu īpašnieku pamatotajām interesēm.

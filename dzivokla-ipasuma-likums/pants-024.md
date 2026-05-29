@@ -1,0 +1,4 @@
+24. pants. Dzīvokļu īpašnieku kopības lēmuma apstrīdēšana un atzīšana par spēkā neesošu
+(1) Tiesa, pamatojoties uz dzīvokļa īpašnieka prasību, var atzīt dzīvokļu īpašnieku kopības lēmumu par spēkā neesošu, ja šāds lēmums vai tā pieņemšanas procedūra ir pretrunā ar likumu vai dzīvokļu īpašnieku noteikto lēmuma pieņemšanas kārtību.
+(2) Prasību, ar kuru dzīvokļa īpašnieks apstrīd lēmuma spēkā esību, var celt triju mēnešu laikā no dienas, kad dzīvokļa īpašnieks uzzināja vai viņam vajadzēja uzzināt par dzīvokļu īpašnieku kopības lēmumu, bet ne vēlāk kā gada laikā no lēmuma pieņemšanas dienas. Ja lēmums ir pretējs likumam, dzīvokļa īpašnieks jebkurā laikā var prasīt, lai tiesa to atzīst par spēkā neesošu.
+(3) Prasību, ar kuru dzīvokļa īpašnieks apstrīd lēmuma spēkā esību, un prasību, ar kuru dzīvokļa īpašnieks prasa atzīt lēmumu par spēkā neesošu, viņš ceļ tiesā pret dzīvokļu īpašnieku kopību.

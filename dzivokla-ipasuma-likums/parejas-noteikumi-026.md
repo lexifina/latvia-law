@@ -1,0 +1,1 @@
+26. Lēmuma pieņemšana par autostāvvietas izveidi personām ar invaliditāti atbilstoši šā likuma 11.² pantam, izmantojot Būvniecības informācijas sistēmas funkcionalitāti, var tikt organizēta, sākot ar 2026. gada 1. novembri.

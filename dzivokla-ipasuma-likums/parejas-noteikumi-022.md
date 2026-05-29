@@ -1,0 +1,1 @@
+22. Ar dienu, kad stājas spēkā šā likuma 25., 26., 27. un 28. pants, kas paredz iespēju nodibināt, grozīt vai izbeigt atsevišķās lietošanas tiesību, dzīvojamā mājā nav nosakāma cita kopīpašumā esošās daļas lietošanas kārtība.

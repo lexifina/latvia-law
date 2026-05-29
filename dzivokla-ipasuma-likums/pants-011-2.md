@@ -1,0 +1,3 @@
+11.² pants. Dzīvokļa īpašnieka tiesības prasīt izveidot autostāvvietu personām ar invaliditāti
+(1) Dzīvokļa īpašnieks, šajā likumā noteiktajā kārtībā organizējot dzīvokļu īpašnieku kopības lēmuma pieņemšanu, ir tiesīgs prasīt, lai tiek izveidota autostāvvieta personām ar invaliditāti, izņemot gadījumus, kad uz zemesgabalu vai tā atbilstošo daļu jau nodibinātas atsevišķās lietošanas tiesības, noteikta lietošanas kārtība dzīvokļu īpašnieku starpā, zemesgabals ir nodots lietošanā trešai personai vai pastāv citi pamatoti iemesli šādu stāvvietu neveidot.
+(2) Dzīvokļa īpašnieks ir tiesīgs prasīt, lai pārvaldnieks organizē šā panta pirmajā daļā minētā lēmuma pieņemšanu.

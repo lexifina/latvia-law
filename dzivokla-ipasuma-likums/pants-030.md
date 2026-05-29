@@ -1,0 +1,4 @@
+30. pants. Kopīgās infrastruktūras lietošanas tiesības nodibināšana, grozīšana un izbeigšana
+(1) Kopīgās infrastruktūras lietošanas tiesību var nodibināt, grozīt vai izbeigt ar kalpojošā nekustamā īpašuma un valdošā nekustamā īpašuma dzīvokļu īpašnieku kopību starpā noslēgtu vienošanos vai ar tiesas spriedumu. Kopīgās infrastruktūras lietošanas tiesība ir nodibināta ar tās nostiprināšanu zemesgrāmatā.
+(2) Kopīgās infrastruktūras lietošanas tiesību nostiprina kalpojošā nekustamā īpašuma zemesgrāmatas nodalījumā kā lietu tiesību, kas apgrūtina šo nekustamo īpašumu, valdošā nekustamā īpašuma nodalījumā norādot tam par labu nodibināto kopīgās infrastruktūras lietošanas tiesību.
+(3) Kopīgās infrastruktūras lietošanas tiesību, apgrūtinot kalpojošo nekustamo īpašumu par labu valdošajam nekustamajam īpašumam, var nodibināt un tā var pastāvēt arī tad, ja visi abu nekustamo īpašumu dzīvojamās mājās esošie dzīvokļu īpašumi pieder vienai personai.

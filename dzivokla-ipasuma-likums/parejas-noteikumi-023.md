@@ -1,0 +1,1 @@
+23. Tiesiskās attiecības, kas izriet no tādas kopīpašumā esošās daļas lietošanas kārtības, kas bija noteikta līdz dienai, kad stājās spēkā šā likuma 25., 26., 27. un 28. pants, apspriežamas pēc Civillikuma noteikumiem.

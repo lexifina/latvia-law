@@ -5,5 +5,5 @@ Dzīvokļa īpašniekam attiecībā uz dzīvokļa īpašumu ir pilnīgas varas t
 3) ieķīlāt un citādi apgrūtināt ar lietu tiesībām dzīvokļa īpašumu;
 4) nodot dzīvokļa īpašumu lietošanā citām personām;
 5) iemitināt dzīvokļa īpašumā ģimenes locekļus un citas personas;
-6) piedalīties dzīvojamās mājas pārvaldīšanā;
+6) piedalīties dzīvojamās mājas pārvaldīšanā, līdzdarbojoties dzīvokļu īpašnieku kopības kompetences īstenošanā;
 7) lietot kopīpašumā esošo daļu, ciktāl lietošanas ierobežojumus nenosaka šajā likumā noteiktajā kārtībā pieņemtie dzīvokļu īpašnieku kopības lēmumi.

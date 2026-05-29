@@ -1,6 +1,6 @@
 10.pants. Dzīvokļa īpašnieka pienākumi
 (1) Dzīvokļa īpašniekam ir pienākums:
-1) piedalīties dzīvojamās mājas pārvaldīšanā;
+1) piedalīties dzīvojamās mājas pārvaldīšanā, līdzdarbojoties dzīvokļu īpašnieku kopības kompetences īstenošanā;
 2) segt dzīvojamās mājas pārvaldīšanas izdevumus šā likuma 13.pantā noteiktajā kārtībā;
 3) norēķināties par saņemtajiem pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu (piemēram, apkure, aukstais ūdens, kanalizācija, sadzīves atkritumu izvešana);
 4) maksāt uz dzīvokļa īpašumu attiecinātos nodokļus;

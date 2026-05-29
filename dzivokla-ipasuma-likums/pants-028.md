@@ -1,0 +1,4 @@
+28. pants. Atsevišķās lietošanas tiesības atsavināšana un ieķīlāšana
+(1) Dzīvokļa īpašnieks, kurš ieguvis atsevišķās lietošanas tiesību, var to atsavināt vai ieķīlāt kopā ar dzīvokļa īpašumu. Atsevišķi no dzīvokļa īpašuma atsevišķās lietošanas tiesību dzīvokļa īpašnieks var atsavināt vienīgi citam attiecīgās dzīvojamās mājas dzīvokļa īpašniekam.
+(2) Ja uz viena zemesgabala atrodas vairākas dzīvojamās mājas un vienas dzīvojamās mājas dzīvokļa īpašnieks ir ieguvis atsevišķās lietošanas tiesību uz daļu no minētā zemesgabala, viņš ir tiesīgs atsavināt šo atsevišķās lietošanas tiesību jebkuras dzīvojamās mājas dzīvokļa īpašniekam.
+(3) Nav pieļaujams atsavināt daļu no atsevišķās lietošanas tiesības, izņemot gadījumu, kad dzīvokļa īpašumu kopā ar atsevišķās lietošanas tiesību atsavina vairākiem ieguvējiem kopīgi, katram noteiktās domājamās daļās.

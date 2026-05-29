@@ -1,0 +1,1 @@
+21. Nodibināto atsevišķās lietošanas tiesību un kopīgo infrastruktūru reģistrē kā apgrūtinājumu Kadastra informācijas sistēmā ne vēlāk kā sešu mēnešu laikā pēc šā likuma IV nodaļas "Lietošanas tiesības uz kopīpašumā esošo daļu" spēkā stāšanās dienas.

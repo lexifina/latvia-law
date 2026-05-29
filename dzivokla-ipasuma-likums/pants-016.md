@@ -1,8 +1,8 @@
 16.pants. Dzīvokļu īpašnieku kopības kompetence
-(1) Dzīvokļu īpašnieku kopība ir tiesīga izlemt ikvienu jautājumu, kas attiecas uz kopīpašumā esošo daļu. Dzīvokļu īpašnieku kopība, noslēdzot attiecīgu līgumu, var pilnvarot pārvaldnieku vai dzīvokļu īpašnieku kopības pilnvaroto personu izlemt kopības kompetencē esošu jautājumu, izņemot šā panta otrajā daļā minētos jautājumus.
+(1) Dzīvokļu īpašnieku kopība ir tiesīga izlemt ikvienu jautājumu, kas attiecas uz kopīpašumā esošo daļu, un īstenot dzīvokļu īpašnieku tiesības, kas izriet no viņu īpašuma tiesībām uz kopīpašumā esošo daļu, kā arī pildīt ar tām saistītos pienākumus. Dzīvokļu īpašnieki nevar patstāvīgi īstenot tiesības, kuru īstenošana ar šo likumu noteikta dzīvokļu īpašnieku kopībai. Dzīvokļu īpašnieku kopība, noslēdzot attiecīgu līgumu, var pilnvarot pārvaldnieku vai citu personu izlemt kopības kompetencē esošu jautājumu, izņemot šā panta otrajā daļā minētos jautājumus.
 (2) Vienīgi dzīvokļu īpašnieku kopība ir tiesīga pieņemt lēmumu par:
 1) kopīpašumā esošās daļas pārgrozīšanu (palielināšanu, samazināšanu);
-2) kopīpašumā esošās daļas lietošanas kārtības noteikšanu dzīvokļu īpašnieku starpā;
+2) atsevišķās lietošanas tiesības uz noteiktu neatdalītu reālu daļu no kopīpašumā esošās daļas (turpmāk - atsevišķās lietošanas tiesība) nodibināšanu, grozīšanu vai izbeigšanu;
 2¹) atsevišķā īpašuma robežās esošo dzīvojamās mājas kopīpašuma elementu pārbūves un restaurācijas kārtību;
 3) dzīvokļu īpašnieku pirmpirkuma tiesību nodibināšanu un atcelšanu;
 4) pilnvarojuma došanu un atsaukšanu;
@@ -12,6 +12,8 @@
 8) atsevišķu vai visu dzīvojamās mājas pārvaldīšanas darbību uzdošanu pārvaldniekam un to atsaukšanu;
 9) dzīvojamās mājas pārvaldīšanas izdevumu noteikšanas un maksāšanas kārtību;
 9¹) kopīpašumā esošo koplietošanas telpu platības izmaiņām;
-10) citiem jautājumiem, kurus dzīvokļu īpašnieku kopība noteikusi par tādiem, kas ietilpst vienīgi dzīvokļu īpašnieku kopības kompetencē.
-(3) Dzīvokļu īpašnieku kopības lēmums ir saistošs ikvienam dzīvokļa īpašniekam un ir pieņemts, ja "par" balsojuši dzīvokļu īpašnieki, kas pārstāv vairāk nekā pusi no dzīvojamā mājā esošajiem dzīvokļu īpašumiem, izņemot tos gadījumus, kuros šā likuma 17.pantā paredzēts cits lēmuma pieņemšanai nepieciešamais balsu skaits vai lielāku nepieciešamo balsu skaitu noteikusi pati dzīvokļu īpašnieku kopība.
-(4) Tiesa, pamatojoties uz dzīvokļa īpašnieka pieteikumu, var atzīt dzīvokļu īpašnieku kopības lēmumu par spēkā neesošu, ja lēmums vai tā pieņemšanas procedūra ir pretrunā ar šā likuma noteikumiem. Prasību var celt triju mēnešu laikā no dienas, kad attiecīgā persona uzzināja vai tai vajadzēja uzzināt par dzīvokļu īpašnieku kopības lēmumu, bet ne vēlāk par gadu no lēmuma pieņemšanas dienas.
+10) citiem jautājumiem, kurus dzīvokļu īpašnieku kopība noteikusi par tādiem, kas ietilpst vienīgi dzīvokļu īpašnieku kopības kompetencē;
+11) kopīgās infrastruktūras lietošanas tiesības nodibināšanu, grozīšanu vai izbeigšanu;
+12) kopīpašumā esošās daļas lietošanas noteikumiem.
+(3) Dzīvokļu īpašnieku kopības lēmums ir saistošs ikvienam dzīvokļa īpašniekam un ir pieņemts, ja "par" balsojuši dzīvokļu īpašnieki, kas pārstāv vairāk nekā pusi no dzīvojamā mājā esošajiem dzīvokļu īpašumiem, izņemot tos gadījumus, kuros šā likuma 17. pantā paredzēts cits lēmuma pieņemšanai nepieciešamais balsu skaits, lielāku nepieciešamo balsu skaitu noteikusi pati dzīvokļu īpašnieku kopība vai šajā likumā noteikta citāda lēmuma pieņemšanas kārtība.
+(4) (Izslēgta ar 30.04.2026. likumu)
