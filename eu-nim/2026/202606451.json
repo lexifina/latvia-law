@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 10. marta noteikumi Nr. 113 \"Grozījumi Ministru kabineta 2016. gada 12. aprīļa noteikumos Nr. 208 \"Iekārtu elektromagnētiskās saderības noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "52",
+  "official_journal_page": null,
+  "official_journal_date": "2026-03-16",
+  "entry_into_force": "2026-05-30",
+  "notification_date": "2026-08-17",
+  "commission_reference": "MNE(2026)06451",
+  "nim_celex": "72024L2749LVA_202606451",
+  "nim_id": "202606451",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/01755a3f-bfda-4a1c-a3ef-b25020b2b1c9",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
