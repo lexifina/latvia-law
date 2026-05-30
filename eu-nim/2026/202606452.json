@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 19. maija noteikumi Nr. 262 \"Grozījumi Ministru kabineta 2016. gada 5. aprīļa noteikumos Nr. 206 \"Liftu un to drošības sastāvdaļu projektēšanas, ražošanas un liftu uzstādīšanas un atbilstības novērtēšanas noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "96",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-21",
+  "entry_into_force": "2026-05-30",
+  "notification_date": "2026-08-17",
+  "commission_reference": "MNE(2026)06452",
+  "nim_celex": "72024L2749LVA_202606452",
+  "nim_id": "202606452",
+  "transposes_celex": [
+    "32024L2749"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/6463c29e-74f2-4574-ae11-82d0544ff2f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
