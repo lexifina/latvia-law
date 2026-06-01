@@ -1,0 +1,1 @@
+15. Enerģētikas un vides aģentūras lēmumus, kuri pieņemti saskaņā ar šā likuma 4. panta trešo daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.
