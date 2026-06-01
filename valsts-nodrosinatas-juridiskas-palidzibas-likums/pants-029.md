@@ -12,4 +12,5 @@
 9) citus būtiskus līguma nosacījumus.
 (3) Juridiskās palīdzības līgumu noslēdz uz laiku, kas nav ilgāks par trim gadiem.
 (4) Juridiskās palīdzības līgumu ar personu, kura vēlas sniegt juridisko palīdzību, neslēdz, ja Tiesu administrācija iepriekš ir uzteikusi juridiskās palīdzības līgumu, izņemot gadījumu, kad juridiskās palīdzības līgums ir uzteikts, pamatojoties uz šā likuma 29.¹ panta otrās daļas 1.punktu un persona ir attaisnota vai kriminālprocess izbeigts personu reabilitējošu apstākļu dēļ.
-(5) Juridiskās palīdzības līgumu ar šā likuma 30.panta pirmās daļas 5.punkta ievaddaļā minēto personu nevar slēgt, ja šī persona neatbilst kādai no 30.panta pirmās daļas 5.punkta "a", "b", "c" vai "d" apakšpunktā minētajām prasībām vai tiek konstatēts kāds no šā likuma 29.¹ panta otrās daļas 1., 2., 3., 4. vai 5.punktā minētajiem apstākļiem.
+(5) Juridiskās palīdzības līgumu nevar slēgt, ja tiek konstatēts kāds no šā likuma 29.¹ panta otrās daļas 1., 2., 3., 4. vai 5. punktā minētajiem apstākļiem.
+(6) Tiesu administrācija juridiskās palīdzības līgumu neslēdz ar personu, attiecībā uz kuru iepriekš ir pieņēmusi lēmumu par atteikumu slēgt šo līgumu, pamatojoties uz tās nevainojamās reputācijas trūkumu, ja kopš šāda lēmuma pieņemšanas ir pagājuši mazāk kā trīs gadi.
