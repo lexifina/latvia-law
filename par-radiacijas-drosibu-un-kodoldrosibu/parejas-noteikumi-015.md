@@ -1,0 +1,1 @@
+15. Šā likuma 6. panta ceturtajā daļā minēto Centra administratīvo aktu un faktiskās rīcības apstrīdēšanas iesniegumus, kuri iesniegti līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Enerģētikas un vides aģentūra nav pieņēmusi lēmumu, izskata un lēmumu pieņem Valsts vides dienesta ģenerāldirektors.

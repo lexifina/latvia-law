@@ -4,4 +4,4 @@
 (3) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs":
 1) koordinē un organizē vides radiācijas monitoringu atbilstoši Vides monitoringa programmai;
 2) katru gadu iesniedz Eiropas Komisijai ziņojumu par vides radiācijas monitoringu un pārtikas radioaktīvā piesārņojuma kontroli.
-(4) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" attiecībā uz šā panta trešajā daļā minēto pārvaldes uzdevumu izpildi ir Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā.
+(4) Valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs" attiecībā uz šā panta trešajā daļā minēto pārvaldes uzdevumu izpildi ir Klimata un enerģētikas ministrijas pakļautībā.

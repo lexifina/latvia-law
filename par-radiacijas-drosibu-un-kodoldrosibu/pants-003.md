@@ -11,6 +11,11 @@
 9) gatavība avārijām un rīcība avārijas gadījumā - tiek paredzēti pasākumi, kas nodrošina gatavību kodolavārijām vai radiācijas avārijām un reaģēšanai uz tām;
 10) aizsardzības pasākumi radiācijas risku samazināšanai - aizsardzības pasākumi ir pamatoti un optimizēti, lai samazinātu esošos vai neregulētos radiācijas riskus.
 (2) Aizliegts kodoliekārtu un radioaktīvo atkritumu apglabāšanas objektu vai radioaktīvo atkritumu pārvaldības objektu izvietot īpaši aizsargājamā dabas teritorijā, apdzīvotā vietā vai tiešā apdzīvotas vietas tuvumā.
-(3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu.
+(3) Lai nodrošinātu radiācijas drošības un kodoldrošības pamatprincipu ievērošanu, Ministru kabinets nosaka:
+1) radiācijas drošības un kodoldrošības prasības radioaktīvo materiālu transportēšanai;
+2) vispārīgas radiācijas drošības un kodoldrošības prasības aizsardzībai pret jonizējošo starojumu;
+3) radiācijas drošības un kodoldrošības prasības aizsardzībai pret jonizējošo starojumu, iepērkot metālu atgriezumus un lūžņus;
+4) radiācijas drošības prasības cilvēku aizsardzībai pret jonizējošo starojumu medicīniskajā apstarošanā;
+5) prasības aizsardzībai pret jonizējošo starojumu, ko izraisa radionuklīda cēzija ¹³⁷Cs saturs koksnē, kas ievesta Latvijā no citas valsts.
 (4) Preces ražotājs, importētājs un izplatītājs nodrošina, ka jonizējošā starojuma līmenis precē, kas tiek laista tirgū, piedāvāta vai pārdota, atbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu un nerada draudus cilvēka veselībai.
 (5) Lai nodrošinātu radiācijas drošības pasākumu īstenošanu ar radioaktīvo atkritumu apsaimniekošanu saistītu zināšanu un prasmju ieguvē, nostiprināšanā un attīstīšanā, atbilstoši Vides aizsardzības likuma 4. panta otrajai daļai izstrādātajām Vides politikas pamatnostādnēm tiek organizētas pētniecības un attīstības darbības, tai skaitā piesaistot augstskolas.

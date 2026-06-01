@@ -1,0 +1,1 @@
+16. Administratīvos aktus vai faktisko rīcību, kurus Centrs ir izdevis vai veicis saskaņā ar šā likuma 6. panta ceturto daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.
