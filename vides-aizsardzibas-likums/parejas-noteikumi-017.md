@@ -1,0 +1,1 @@
+17. Šā likuma 27. panta ceturtajā daļā un 28. panta piektajā daļā minēto Valsts vides dienesta lēmumu apstrīdēšanas iesniegumus, kuri iesniegti līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Enerģētikas un vides aģentūra nav pieņēmusi lēmumu, izskata un lēmumu šajā likumā noteiktajos termiņos pieņem Valsts vides dienesta ģenerāldirektors.

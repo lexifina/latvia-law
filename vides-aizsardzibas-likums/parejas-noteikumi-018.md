@@ -1,0 +1,1 @@
+18. Valsts vides dienesta lēmumus, kuri pieņemti saskaņā ar šā likuma 27. panta ceturto daļu un 28. panta piekto daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.
