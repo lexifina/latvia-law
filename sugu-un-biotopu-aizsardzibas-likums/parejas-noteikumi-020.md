@@ -1,0 +1,1 @@
+20. Šā likuma 20.¹ panta otrajā daļā minēto Dabas aizsardzības pārvaldes lēmumu apstrīdēšanas iesniegumus, kuri iesniegti Valsts vides dienestam līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Valsts vides dienests nav pieņēmis lēmumu, izskata un lēmumu šajā likumā noteiktajos termiņos pieņem Dabas aizsardzības pārvaldes ģenerāldirektors.

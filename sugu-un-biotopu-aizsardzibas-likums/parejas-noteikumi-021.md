@@ -1,0 +1,1 @@
+21. Dabas aizsardzības pārvaldes lēmumus, kuri pieņemti saskaņā ar šā likuma 20.¹ panta otro daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Dabas aizsardzības pārvaldes ģenerāldirektoram.

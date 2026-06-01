@@ -1,0 +1,1 @@
+22. Valsts vides dienesta lēmumus, kas līdz 2026. gada 31. maijam pieņemti saskaņā ar šā likuma 20.¹ panta otro daļu, var pārsūdzēt administratīvajā tiesā. Atbildētāja pusē pieaicināma Dabas aizsardzības pārvalde.
