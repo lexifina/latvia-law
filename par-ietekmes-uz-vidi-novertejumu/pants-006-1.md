@@ -1,5 +1,5 @@
 6.¹ pants. Ietekmes novērtējuma procesa termiņi
-(1) Valsts vides dienests mēneša laikā no iesnieguma saņemšanas veic ietekmes sākotnējo izvērtējumu un pieņem lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu.
+(1) Kompetentā institūcija mēneša laikā no iesnieguma saņemšanas veic ietekmes sākotnējo izvērtējumu un pieņem lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu.
 (2) Kompetentā institūcija lēmumu par paredzētās darbības ietekmes uz vidi novērtējumu pieņem mēneša laikā no iesnieguma saņemšanas.
 (3) Kompetentā institūcija izsniedz ietekmes novērtējuma programmu (turpmāk - programma) 30 dienu laikā pēc pieprasījuma saņemšanas. Ja kompetentajai institūcijai nepieciešama informācija no ierosinātāja, tā pagarina programmas izsniegšanas termiņu par laikposmu, kādā ierosinātājs sniedzis informāciju.
 (4) Kompetentā institūcija izsniedz atzinumu par ziņojumu 60 dienu laikā pēc ziņojuma saņemšanas. Ja kompetentā institūcija saskaņā ar šā likuma 20.panta otro daļu pieprasa informāciju no ierosinātāja, termiņš atzinuma sniegšanai tiek pagarināts par laikposmu, kādā ierosinātājs sniedzis informāciju. Ja nepieciešams, kompetentā institūcija atbilstoši Administratīvā procesa likumā noteiktajam var pagarināt atzinuma sniegšanas termiņu, bet ne vairāk kā par vienu mēnesi.

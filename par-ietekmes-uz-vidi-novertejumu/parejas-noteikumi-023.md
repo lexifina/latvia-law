@@ -1,0 +1,1 @@
+23. Šā likuma 12. panta piektajā daļā un 14.¹ panta otrajā daļā minēto Valsts vides dienesta lēmumu apstrīdēšanas iesniegumus, kuri iesniegti līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Enerģētikas un vides aģentūra nav pieņēmusi lēmumu, izskata un lēmumu pieņem Valsts vides dienesta ģenerāldirektors.

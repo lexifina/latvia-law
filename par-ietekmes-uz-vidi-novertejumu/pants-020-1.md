@@ -1,6 +1,6 @@
 20.¹ pants. Paredzētās darbības, kurām var būt pārrobežu ietekme
-(1) Ja kompetentā institūcija lēmumā par ietekmes novērtējuma nepieciešamību norāda, ka paredzētajai darbībai var būt būtiska pārrobežu ietekme, tā rakstveidā paziņo par to ierosinātājam, Vides aizsardzības un reģionālās attīstības ministrijai un Ārlietu ministrijai, kā arī ieinteresētajām valsts institūcijām un pašvaldībām.
-(2) Kompetentā institūcija pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju un Ārlietu ministriju nosūta rakstveida paziņojumu par paredzēto darbību, kurai var būt pārrobežu ietekme, uz valsti, kuru paredzētā darbība var ietekmēt, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.
+(1) Ja kompetentā institūcija lēmumā par ietekmes novērtējuma nepieciešamību norāda, ka paredzētajai darbībai var būt būtiska pārrobežu ietekme, tā rakstveidā paziņo par to ierosinātājam, Klimata un enerģētikas ministrijai un Ārlietu ministrijai, kā arī ieinteresētajām valsts institūcijām un pašvaldībām.
+(2) Kompetentā institūcija pēc saskaņošanas ar Klimata un enerģētikas ministriju un Ārlietu ministriju nosūta rakstveida paziņojumu par paredzēto darbību, kurai var būt pārrobežu ietekme, uz valsti, kuru paredzētā darbība var ietekmēt, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.
 (3) Paziņojumā tiek sniegta šāda informācija:
 1) paredzētās darbības iesniegums;
 2) jebkura pieejama informācija par paredzēto darbību, kurai var būt pārrobežu ietekme;

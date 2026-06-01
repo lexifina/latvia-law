@@ -1,0 +1,1 @@
+24. Valsts vides dienesta lēmumus, kuri pieņemti saskaņā ar šā likuma 12. panta piekto daļu un 14.¹ panta otro daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.

@@ -1,3 +1,3 @@
 7.pants. Paredzētās darbības pieteikšana kompetentajā institūcijā
-(1) Ierosinātājs paredzēto darbību, kas minēta šā likuma 4.panta pirmās daļas 1., 3., 4. un 5.punktā, piesaka kompetentajai institūcijai, iesniedzot rakstveida iesniegumu, kurā norāda vismaz divus dažādus risinājumus attiecībā uz paredzētās darbības vietu vai izmantojamo tehnoloģiju veidiem.
+(1) Ierosinātājs paredzēto darbību, kas minēta šā likuma 3.² panta pirmajā daļā un 4. panta pirmās daļas 1., 3., 4. un 5. punktā, piesaka kompetentajai institūcijai, iesniedzot rakstveida iesniegumu, kurā norāda vismaz divus dažādus risinājumus attiecībā uz paredzētās darbības vietu vai izmantojamo tehnoloģiju veidiem.
 (2) Ja paredzētā darbība var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000), ierosinātājs iesniegumā norāda visus iespējamos risinājumus attiecībā uz paredzētās darbības vietu un izmantojamo tehnoloģiju veidiem.
