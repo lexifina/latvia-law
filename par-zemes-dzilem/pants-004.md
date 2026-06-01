@@ -1,6 +1,6 @@
 4.pants. Zemes dzīļu fonda izmantošanas pārraudzības iestādes
 (1) Zemes dzīļu fonda izmantošanas pārraudzību neatkarīgi no tā piederības (īpašnieka) normatīvajos aktos noteiktajā kārtībā valsts vārdā veic:
-1) Enerģētikas un vides aģentūra, Valsts vides dienests un valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs";
+1) Valsts vides dienests un valsts sabiedrība ar ierobežotu atbildību "Latvijas Vides, ģeoloģijas un meteoroloģijas centrs";
 2) (izslēgts ar 03.04.2025. likumu);
 3) vietējās pašvaldības.
 (2) Minēto institūciju kompetenci nosaka šis likums un citi likumi, kā arī Ministru kabineta apstiprināti attiecīgo ministriju un iestāžu (institūciju) nolikumi un citi normatīvie akti.

@@ -1,0 +1,1 @@
+41. Valsts vides dienesta lēmumus, kuri pieņemti saskaņā ar šā likuma 16. panta pirmo un ceturto daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.
