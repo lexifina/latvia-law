@@ -1,6 +1,4 @@
-5. pants. Administratīvā pārkāpuma lietvedībā nodarītā kaitējuma atlīdzinājuma tiesiskais pamats
-Privātpersonai ir tiesības uz kaitējuma atlīdzinājumu, ja iestājies viens no šādiem apstākļiem:
-1) spēkā stājies lēmums par administratīvā pārkāpuma lietvedības izbeigšanu sakarā ar to, ka:
-a) nav bijis notikuma vai tajā nav administratīvā pārkāpuma sastāva,
-b) fiziskā persona rīkojusies galējās nepieciešamības vai nepieciešamās aizstāvēšanās stāvoklī;
-2) administratīvās aizturēšanas termiņš pārsniedzis likumā noteikto termiņu.
+5. pants. Administratīvā pārkāpuma procesā nodarītā kaitējuma atlīdzinājuma tiesiskais pamats
+(1) Privātpersonai administratīvā pārkāpuma procesā prettiesiskas rīcības dēļ nodarītā kaitējuma atlīdzinājuma tiesiskais pamats ir spēkā stājies nolēmums administratīvā pārkāpuma procesā vai kriminālprocesā, ar kuru konstatēta publisko tiesību juridiskās personas prettiesiska rīcība.
+(2) Privātpersonai administratīvā pārkāpuma procesā publisko tiesību juridiskās personas nepamatotas rīcības dēļ nodarītā kaitējuma atlīdzinājuma tiesiskais pamats ir spēkā stājies nolēmums, no kura izriet, ka privātpersonai nav piemērots administratīvais sods vai audzinoša rakstura piespiedu līdzeklis.
+(3) Privātpersonai nav tiesību uz publisko tiesību juridiskās personas nepamatotas rīcības dēļ nodarītā kaitējuma atlīdzinājumu, ja administratīvā pārkāpuma process izbeigts, jo par to pašu faktu uzsākts kriminālprocess, un nav iestājies kāds no šā likuma 4. panta otrajā vai trešajā daļā minētajiem apstākļiem.

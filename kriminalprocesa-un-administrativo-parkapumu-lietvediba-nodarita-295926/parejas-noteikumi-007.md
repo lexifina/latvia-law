@@ -1,0 +1,1 @@
+7. Iesniegumu vai pieteikumu par kaitējuma atlīdzināšanu, kas lēmējiestādē vai tiesā saņemts līdz 2026. gada 31. maijam, lēmējiestāde un tiesa izskata atbilstoši šā likuma regulējumam, kas bija spēkā līdz minētajam datumam.
