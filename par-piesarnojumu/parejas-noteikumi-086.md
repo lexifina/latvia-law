@@ -1,0 +1,1 @@
+86. Šā likuma 50. pantā minēto lēmumu apstrīdēšanas iesniegumus, kuri iesniegti Valsts vides dienestam līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Valsts vides dienests nav pieņēmis lēmumu, izskata un attiecībā uz tiem lēmumu pieņem Valsts vides dienesta ģenerāldirektors.

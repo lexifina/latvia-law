@@ -1,0 +1,1 @@
+88. Saskaņā ar šā likuma 32.¹⁰ panta piekto daļu, 32.¹¹ panta otro daļu un 50. pantu līdz 2026. gada 31. maijam pieņemtos Valsts vides dienesta lēmumus var pārsūdzēt administratīvajā tiesā. Atbildētāja pusē pieaicināms Valsts vides dienests.

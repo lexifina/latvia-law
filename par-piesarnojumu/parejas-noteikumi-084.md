@@ -1,0 +1,1 @@
+84. Šā likuma 32.¹⁰ panta piektajā daļā un 32.¹¹ panta otrajā daļā minēto Valsts vides dienesta ģenerāldirektora lēmumu apstrīdēšanas iesniegumus, kuri iesniegti līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Valsts vides dienests nav pieņēmis lēmumu, izskata un attiecībā uz tiem lēmumu pieņem Klimata un enerģētikas ministrija.

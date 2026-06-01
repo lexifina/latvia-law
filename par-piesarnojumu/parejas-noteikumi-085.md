@@ -1,0 +1,1 @@
+85. Saskaņā ar šā likuma 32.¹⁰ panta piekto daļu un 32.¹¹ panta otro daļu pieņemtos Valsts vides dienesta ģenerāldirektora lēmumus, ja to apstrīdēšanas termiņš turpinās pēc 2026. gada 31. maija, var apstrīdēt Klimata un enerģētikas ministrijai.

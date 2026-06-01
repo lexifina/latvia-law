@@ -1,6 +1,6 @@
 28.pants. A un B kategorijas atļauju pieteikšana, izsniegšana un atcelšana
 (1) Iesniegumu atļaujas saņemšanai sagatavo operators, ja nepieciešams, pieaicinot ekspertus. Operators ir atbildīgs par iesniegumā norādītās informācijas patiesumu.
-(1¹) Iesniegumu atļaujas saņemšanai iesniedz elektroniski informācijas sistēmā, izmantojot speciālu tiešsaistes formu, ja persona ir elektroniski identificējusies ar Valsts reģionālās attīstības aģentūras pārziņā esošu personas identifikācijas koplietošanas moduli.
+(1¹) Iesniegumu atļaujas saņemšanai iesniedz elektroniski informācijas sistēmā, izmantojot speciālu tiešsaistes formu, ja persona ir elektroniski identificējusies ar Valsts digitālās attīstības aģentūras pārziņā esošu personas identifikācijas koplietošanas moduli.
 (2) Iesniegumā sniedzama šāda informācija:
 1) iekārta un tās darbība;
 2) izejvielas un palīgmateriāli, citas vielas un enerģija, ko attiecīgā iekārta izmanto vai ražo;
