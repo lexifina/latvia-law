@@ -1,6 +1,6 @@
 26.pants. Uzraudzība, apstrīdēšanas un pārsūdzības kārtība
-(1) Par šajā likumā noteikto prasību izpildi ir atbildīga Vides aizsardzības un reģionālās attīstības ministrija.
-(2) Vides aizsardzības un reģionālās attīstības ministrija izskata iesniegumus par apsaimniekošanas plānu un pasākumu programmu izstrādi un ieviešanu, arī par sabiedrības nepietiekamu līdzdalību minēto dokumentu izstrādē.
-(3) Vides pārraudzības valsts birojs izskata iesniegumus par pasākumiem, kurus reģionālās vides pārvaldes noteikušas saskaņā ar šā likuma 13.panta otro daļu un 14.panta trešo daļu, kā arī par šajā likumā noteikto atļauju izsniegšanu vai atļaujas nosacījumiem. Apstrīdēšanas gadījumā Vides pārraudzības valsts birojs neaptur lēmuma vai atļaujas darbību, ja darbības apturēšana var radīt būtisku negatīvu ietekmi uz vidi.
-(4) Ja Vides pārraudzības valsts birojs konstatē, ka šā panta trešajā daļā minētie pasākumi, lēmumi par atļaujas izsniegšanu vai izsniegtā atļauja ir pretrunā ar šā likuma vai citu normatīvo aktu prasībām, tas pieņem lēmumu par reģionālās vides pārvaldes lēmuma pārskatīšanu, nepieciešamo grozījumu izdarīšanu atļaujā, atļaujas anulēšanu vai citas atļaujas izsniegšanu.
-(5) Šajā pantā minētos administratīvos aktus var pārsūdzēt tiesā normatīvajos aktos noteiktajā kārtībā. Pieteikuma iesniegšana tiesā neaptur administratīvā akta darbību.
+(1) Par šajā likumā noteikto prasību izpildi ir atbildīga Klimata un enerģētikas ministrija.
+(2) Klimata un enerģētikas ministrija izskata iesniegumus par apsaimniekošanas plānu un pasākumu programmu izstrādi un ieviešanu, arī par sabiedrības nepietiekamu līdzdalību minēto dokumentu izstrādē.
+(3) Valsts vides dienesta lēmumu par šā likuma 13. panta otrajā daļā un 14. panta trešajā daļā minēto pasākumu noteikšanu, kā arī šajā likumā paredzētās atļaujas var apstrīdēt, iesniedzot iesniegumu Valsts vides dienesta ģenerāldirektoram. Apstrīdēšana neaptur lēmuma vai atļaujas darbību, ja darbības apturēšana var radīt būtisku negatīvu ietekmi uz vidi un Valsts vides dienests to norādījis savā lēmumā vai atļaujā.
+(4) (Izslēgta ar 16.04.2026. likumu)
+(5) Šajā pantā minēto Valsts vides dienesta ģenerāldirektora lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Pieteikuma iesniegšana tiesā neaptur lēmuma darbību.

@@ -1,5 +1,5 @@
 9.pants. Upju baseinu apgabala pārvaldes institūcijas
-(1) Katra upju baseinu apgabala apsaimniekošanas pasākumu koordinācijai izveido konsultatīvo padomi (turpmāk - padome), kurā iekļauj valsts pārvaldes institūciju, pašvaldību un nevalstisko organizāciju pārstāvjus. Padomes nolikumu apstiprina Ministru kabinets, bet personālsastāvu - vides aizsardzības un reģionālās attīstības ministrs.
+(1) Katra upju baseinu apgabala apsaimniekošanas pasākumu koordinācijai izveido konsultatīvo padomi (turpmāk - padome), kurā iekļauj valsts pārvaldes institūciju, pašvaldību un nevalstisko organizāciju pārstāvjus. Padomes nolikumu apstiprina Ministru kabinets, bet personālsastāvu - klimata un enerģētikas ministrs.
 (2) Padome:
 1) saskaņo ministriju un citu valsts pārvaldes institūciju, kā arī to reģionālo struktūrvienību, pašvaldību, nevalstisko organizāciju un citu interešu grupu intereses jautājumos, kas saistīti ar vides kvalitātes un ūdens lietošanas mērķu sasniegšanu attiecīgajā upju baseinu apgabalā;
 2) izskata un sniedz atzinumu par apsaimniekošanas plānu un pasākumu programmu, kā arī par sagatavotajiem priekšlikumiem attiecībā uz to īstenošanai nepieciešamajiem finanšu līdzekļiem.
@@ -21,4 +21,4 @@
 14) pamatojoties uz šīs daļas 13.punktā minētajām kartēm, izstrādā plūdu riska pārvaldības plānu, ko iekļauj upju baseinu apgabala apsaimniekošanas plānā kā tā sastāvdaļu.
 (5) Valsts vides dienests uzrauga pasākumu programmas īstenošanu un, ievērojot centra veikto analīzi un izstrādātos priekšlikumus, normatīvajos aktos noteiktajā kārtībā pārskata izsniegto atļauju nosacījumus.
 (6) Ministru kabinets nosaka sākotnējā plūdu riska novērtējumā, iespējamo plūdu postījumu vietu kartēs, plūdu riska kartēs un plūdu riska pārvaldības plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama, atjaunojot minētos dokumentus.
-(7) Vides aizsardzības un reģionālās attīstības ministrs apstiprina sākotnējo plūdu riska novērtējumu un tā atjaunoto versiju, kā arī iespējamo plūdu postījumu vietu kartes, plūdu riska kartes un to atjaunotās versijas. Sākotnējo plūdu riska novērtējumu un iespējamo plūdu postījumu vietu kartes un plūdu riska kartes centrs publicē savā mājaslapā internetā.
+(7) Klimata un enerģētikas ministrs apstiprina sākotnējo plūdu riska novērtējumu un tā atjaunoto versiju, kā arī iespējamo plūdu postījumu vietu kartes, plūdu riska kartes un to atjaunotās versijas. Sākotnējo plūdu riska novērtējumu un iespējamo plūdu postījumu vietu kartes un plūdu riska kartes centrs publicē savā mājaslapā internetā.

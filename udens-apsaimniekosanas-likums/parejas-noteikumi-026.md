@@ -1,0 +1,1 @@
+26. Šā likuma 26. panta trešajā daļā minēto Valsts vides dienesta lēmumu un atļauju apstrīdēšanas iesniegumus, kuri iesniegti līdz 2026. gada 31. maijam, bet attiecībā uz kuriem Enerģētikas un vides aģentūra nav pieņēmusi lēmumu, izskata un lēmumu šajā likumā noteiktajos termiņos pieņem Valsts vides dienesta ģenerāldirektors.
