@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 17,
+ "datums": "2026-06-04",
+ "ieraksts": {
+  "dkp_id": "85d48550-8fcc-4f10-8e16-92646afa256a",
+  "lastmodtime": "\"AAAAAAKIXe4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Edmunds#Armands#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Ilze#Nauris#Andrejs#Irma#Harijs#Augusts#Aiva#Valdis#Līga#Dmitrijs#Jānis#Oļegs#Viesturs#Igors#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Kaspars#Gundars#Ramona#Jānis#Linda#Anda#Aleksandrs#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Krauze#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Vergina#Puntulis#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Vīksna#Maslovskis#Kļaviņa#Kovaļenko#Dinevičs#Burovs#Zariņš#Rajevs#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Liepiņa#Čakša#Kiršteins#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "##################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV#JV# # #NA#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#NA#ZZS#JV#AS#JV# #JV#NA# #JV#ZZS#ZZS#AS#ZZS#ZZS# #ZZS# #JV# # #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#ZZS#LPV#JV#LPV#JV# #ZZS#PRO#JV#JV",
+  "RESULT": "Pret#Par#Par#Pret#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Par#Nebalsoja#Par#Par#Pret#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "04.06.2026 09:28:28",
+  "VOTEMOTIVE": "Par likumprojekta Grozījumi Negodīgas komercprakses aizlieguma likumā (1385/Lp14), nodošana komisijām izslēgšanu no Saeimas sēdes darba kārtības",
+  "VOTING_ID": "a53f3859-8441-4a73-a92e-c09d53b65fd5",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "13",
+  "VOTERESULT_FOR": "69",
+  "VOTERESULT_REGISTERED": "83",
+  "VOTE_NUMBER": "6",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4eeead76-cf4f-4edb-afcf-e2c7c04025eb/download/14.saeimas-2026.gada-pavasara-sesija-17-vote.xml",
+  "sha256": "9d3e91d4187131ea9d4b8a8d5eef06d886ca73e8bde502fd4b870a5f97ac87f5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
