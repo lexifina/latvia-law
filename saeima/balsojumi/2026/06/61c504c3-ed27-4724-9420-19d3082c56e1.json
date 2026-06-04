@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 17,
+ "datums": "2026-06-04",
+ "ieraksts": {
+  "dkp_id": "4f7fc314-409e-4946-b3fa-2971029532d4",
+  "lastmodtime": "\"AAAAAAKJh0o=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Edmunds#Armands#Ģirts#Ričards#Ingmārs#Andris#Artūrs#Agnese#Raivis#Jana#Ligita#Alīna#Jekaterina#Dāvis#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Augusts#Raivis#Aiva#Valdis#Jānis#Dmitrijs#Jānis#Oļegs#Viesturs#Igors#Jefimijs#Juris#Daiga#Jānis#Uģis#Agita#Kristaps#Česlavs#Atis#Viktorija#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Jeļena#Kaspars#Gundars#Jānis#Lauris#Linda#Atis#Anda#Aleksandrs#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Krauze#Štekerhofs#Šlesers#Līdaka#Sprūds#Butāns#Krasta#Dzintars#Simanovska#Gintere#Gendele#Drelinga#Melnalksnis#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Kalējs#Vīksna#Maslovskis#Eglīts#Kovaļenko#Dinevičs#Burovs#Zariņš#Rajevs#Klementjevs#Viļums#Mieriņa#Grasbergs#Mitrevics#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Kļaviņa#Briškens#Daudze#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Kiršteins#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "##############################################################################",
+  "FRACTION": " #NA# #PRO# #JV#PRO#JV#ZZS#JV#LPV#LPV#ZZS#NA#PRO#JV#JV# # #NA#ZZS# #LPV#AS#PRO#NA#JV#NA#PRO#ZZS#JV# # #JV#JV#JV# #JV#ZZS#ZZS# #AS#ZZS# # #ZZS# #JV# # #AS#ZZS#NA#NA#JV#LPV#AS#JV# #AS#JV#NA#ZZS#ZZS#ZZS#AS# #PRO#ZZS#JV#AS#LPV#PRO#JV# #PRO#JV#JV# ",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "04.06.2026 17:25:43",
+  "VOTEMOTIVE": "Par deputāta Jāņa Grasberga atsaukšanu no Cilvēktiesību un sabiedrisko lietu komisijas (1017/Lm14)",
+  "VOTING_ID": "61c504c3-ed27-4724-9420-19d3082c56e1",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "69",
+  "VOTERESULT_REGISTERED": "79",
+  "VOTE_NUMBER": "74",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4eeead76-cf4f-4edb-afcf-e2c7c04025eb/download/14.saeimas-2026.gada-pavasara-sesija-17-vote.xml",
+  "sha256": "9d3e91d4187131ea9d4b8a8d5eef06d886ca73e8bde502fd4b870a5f97ac87f5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
