@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 17,
+ "datums": "2026-06-04",
+ "ieraksts": {
+  "dkp_id": "33590d56-60be-467e-9371-277e6c6bb577",
+  "lastmodtime": "\"AAAAAAKIm6Y=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edvīns#Ilze#Arnolds#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Jurģis#Andris#Inese#Vilis#Amils#Edmunds#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Ilze#Raimonds#Arvils#Harijs#Raivis#Jānis#Jānis#Viesturs#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Kristaps#Česlavs#Atis#Viktorija#Linda#Jānis#Anita#Gunārs#Igors#Jeļena#Kaspars#Ramona#Jānis#Linda#Aleksandrs#Antoņina#Uģis",
+  "SURNAME": "Šnore#Indriksone#Jātnieks#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Klotiņš#Šuvajevs#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Vergina#Čudars#Ašeradens#Rokpelnis#Kalējs#Eglīts#Dinevičs#Zariņš#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Krištopans#Batņa#Labucis#Pleškāne#Matisone#Vucāns#Brakovska#Kūtris#Judins#Kļaviņa#Briškens#Petraviča#Patmalnieks#Liepiņa#Kiršteins#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "###########################################################",
+  "FRACTION": "NA#NA# #PRO# #JV#PRO#JV#ZZS# #JV#NA#PRO#JV# # #NA#AS#LPV#NA#LPV#JV#NA#JV#AS#JV# # #JV#JV#JV#ZZS# # #ZZS#JV# #AS#JV#ZZS#NA#NA#JV#LPV#AS#JV# #AS#ZZS#ZZS#ZZS# # #PRO#LPV#JV#LPV# #PRO#JV",
+  "RESULT": "Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "04.06.2026 11:14:22",
+  "VOTEMOTIVE": "Par likumprojekta “Par Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likuma atzīšanu par spēku zaudējušu” (Nr.1348/Lp14) (steidzams) izskatīšanas Saeimas sēdē datuma ... (999/Lm14)",
+  "VOTING_ID": "d3c096e2-0c08-4e78-968d-073e162447b9",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "50",
+  "VOTERESULT_REGISTERED": "60",
+  "VOTE_NUMBER": "22",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4eeead76-cf4f-4edb-afcf-e2c7c04025eb/download/14.saeimas-2026.gada-pavasara-sesija-17-vote.xml",
+  "sha256": "9d3e91d4187131ea9d4b8a8d5eef06d886ca73e8bde502fd4b870a5f97ac87f5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
