@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 17,
+ "datums": "2026-06-04",
+ "ieraksts": {
+  "dkp_id": "6fa94af4-0816-4fa9-8578-abf358cb10b5",
+  "lastmodtime": "\"AAAAAAKIvoU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Ilze#Arnolds#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Edmunds#Armands#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Ilze#Nauris#Raimonds#Arvils#Andrejs#Irma#Harijs#Augusts#Raivis#Aiva#Valdis#Līga#Jānis#Dmitrijs#Jānis#Oļegs#Viesturs#Igors#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Gatis#Agita#Kristaps#Česlavs#Atis#Viktorija#Edgars#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Kaspars#Gundars#Ramona#Jānis#Lauris#Linda#Atis#Anda#Aleksandrs#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Ivanovs#Šnore#Indriksone#Jātnieks#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Krauze#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Vergina#Puntulis#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Kalējs#Vīksna#Maslovskis#Kļaviņa#Eglīts#Kovaļenko#Dinevičs#Burovs#Zariņš#Rajevs#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Liepiņš#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Tavars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Briškens#Daudze#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Kiršteins#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "############################################################################################",
+  "FRACTION": " #NA#NA# #PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV#JV# # #NA#ZZS# #LPV#AS#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV# # #JV#NA#JV#JV# #JV#ZZS#ZZS# #AS#ZZS#ZZS# # #ZZS# #JV# # #AS#JV#ZZS#NA#NA#JV#JV#LPV#AS#JV# #AS#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#ZZS#LPV#JV#AS#LPV#PRO#JV# #ZZS#PRO#JV#JV",
+  "RESULT": "Nebalsoja#Pret#Pret#Pret#Par#Par#Pret#Par#Atturas#Pret#Par#Pret#Pret#Pret#Pret#Pret#Par#Atturas#Atturas#Par#Atturas#Pret#Pret#Pret#Pret#Atturas#Pret#Par#Pret#Pret#Nebalsoja#Pret#Par#Pret#Nebalsoja#Atturas#Atturas#Pret#Atturas#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Pret#Atturas#Atturas#Pret#Pret#Pret#Nebalsoja#Pret#Pret#Pret#Atturas#Par#Pret#Pret#Pret#Pret#Pret#Nebalsoja#Atturas#Pret#Atturas#Atturas#Pret#Atturas#Atturas#Pret#Pret#Pret#Pret#Pret#Atturas#Nebalsoja#Atturas#Pret#Par#Pret#Pret#Atturas#Atturas#Pret#Par#Nebalsoja#Pret#Nebalsoja#Par#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "04.06.2026 12:03:06",
+  "VOTEMOTIVE": " Par iekļaušanu nākamās sēdes darba kārtībā. Par AS “Latvijas valsts meži” finanšu līdzekļu uzkrājuma vismaz 130 300 000 euro apmērā iemaksu valsts budžetā (998/Lm14)",
+  "VOTING_ID": "19704166-6651-484a-ba27-2d1b5e70c286",
+  "VOTERESULT_ABSTAIN": "22",
+  "VOTERESULT_AGAINST": "50",
+  "VOTERESULT_FOR": "12",
+  "VOTERESULT_REGISTERED": "93",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-17-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/4eeead76-cf4f-4edb-afcf-e2c7c04025eb/download/14.saeimas-2026.gada-pavasara-sesija-17-vote.xml",
+  "sha256": "9d3e91d4187131ea9d4b8a8d5eef06d886ca73e8bde502fd4b870a5f97ac87f5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
