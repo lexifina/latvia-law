@@ -1,0 +1,14 @@
+11. pants. Līdzfinansējuma saņēmēja pienākumi un tiesības
+(1) Līdzfinansējuma saņēmējam ir šādi pienākumi:
+1) nodrošināt projekta vai iepriekš noteiktā projekta īstenošanu, tostarp nodrošināt projekta vai iepriekš noteiktā projekta rezultātu saglabāšanu un ilgtspēju atbilstoši projekta līguma nosacījumiem un termiņiem, Latvijas Republikas normatīvajiem aktiem, saprašanās memorandam un citām starptautiskajām tiesībām;
+2) nodrošināt, lai tā pārziņā esošajam projektam vai iepriekš noteiktajam projektam piešķirtais programmas līdzfinansējums tiktu izlietots samērīgi un atbilstoši mērķim saskaņā ar pareizas finanšu pārvaldības, efektivitātes, lietderības un saimnieciskuma principiem;
+3) nodrošināt, lai projekta vai iepriekš noteiktā projekta izdevumi būtu tieši saistīti ar projekta vai iepriekš noteiktā projekta mērķu sasniegšanu un atbilstu projekta vai iepriekš noteiktā projekta īstenošanai piešķirtā finansējuma izmantošanas nosacījumiem;
+4) nekavējoties informēt programmas apsaimniekotāju par jebkurām izmaiņām un apstākļiem, kas var negatīvi ietekmēt projekta vai iepriekš noteiktā projekta īstenošanu;
+5) nodrošināt analītisko uzskaiti grāmatvedībā par katru projektu vai iepriekš noteikto projektu, kodificējot visus ar projektu vai iepriekš noteikto projektu saistītos darījumus;
+6) sniegt informāciju par projekta vai iepriekš noteiktā projekta īstenošanu un nodrošināt Eiropas Brīvās tirdzniecības asociācijas auditoru padomes, Eiropas Ekonomikas zonas finanšu instrumenta komitejas, Norvēģijas Ārlietu ministrijas, Valsts kontroles, Korupcijas novēršanas un apkarošanas biroja, kā arī finanšu instrumentu vadībā iesaistīto institūciju pārstāvjiem pieeju ar projekta vai iepriekš noteiktā projekta īstenošanu saistīto dokumentu oriģināliem, grāmatvedības reģistriem vai nodrošināt to izdrukas vai vizuālos attēlus uz ekrāna, kā arī nodrošināt pieeju projekta vai iepriekš noteiktā projekta īstenošanas vietai;
+7) nodrošināt projektu un iepriekš noteikto projektu publicitāti;
+8) atmaksāt programmas apsaimniekotājam saņemto programmas līdzfinansējumu, kas nav izmantots vai ir izmantots neatbilstoši šīs daļas 1., 2. un 3. punktā minētajiem nosacījumiem.
+(2) Līdzfinansējuma saņēmējam ir šādas tiesības:
+1) saņemt programmas līdzfinansējumu, ja tā pārziņā esošais projekts vai iepriekš noteiktais projekts tiek īstenots saskaņā ar Latvijas Republikas normatīvajiem aktiem, saprašanās memorandu, citām starptautiskajām tiesībām un projekta līgumu;
+2) īstenot projektu vai iepriekš noteikto projektu kopīgi ar projekta partneri, saglabājot atbildību par projekta vai iepriekš noteiktā projekta īstenošanu, mērķa sasniegšanu, izdevumu attiecināmību, maksājumiem un iepirkuma procedūras veikšanu, kā arī ievērojot projekta līguma nosacījumus;
+3) pieprasīt un saņemt tā pārziņā esoša projekta vai iepriekš noteiktā projekta īstenošanai nepieciešamo informāciju no finanšu instrumentu vadībā iesaistītajām institūcijām un projekta partnera.

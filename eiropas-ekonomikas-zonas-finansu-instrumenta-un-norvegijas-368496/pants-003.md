@@ -1,0 +1,4 @@
+3. pants. Likuma darbības joma
+(1) Likums nosaka finanšu instrumentu vadībā iesaistīto institūciju, projekta vai iepriekš noteiktā projekta līdzfinansējuma saņēmēja un projekta partnera tiesības un pienākumus, finanšu instrumentu vadībā iesaistīto institūciju lēmumu pieņemšanas, apstrīdēšanas un pārsūdzēšanas kārtību, nosacījumus programmas līdzfinansējuma piešķiršanai, kā arī donorvalstu noteiktā divpusējās sadarbības fonda un programmas divpusējās sadarbības aktivitātes īstenošanas kārtību.
+(2) Likums attiecas uz finanšu instrumentu vadību 2021.-2028. gada periodā.
+(3) Ieviešot un īstenojot programmas divpusējās sadarbības aktivitātes, tai skaitā ieviešot atlasi šīs aktivitātes ietvaros vai uzaicinot iepriekš noteiktos programmas divpusējās sadarbības aktivitātes finansējuma saņēmējus iesniegt pieteikumus programmas divpusējās sadarbības aktivitāšu īstenošanai, piemēro šā likuma regulējumu un programmas līgumā noteikto.

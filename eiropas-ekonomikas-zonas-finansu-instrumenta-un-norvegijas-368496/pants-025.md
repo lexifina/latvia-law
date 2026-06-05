@@ -1,0 +1,4 @@
+25. pants. Tiesības iepazīties ar lietu
+(1) Projekta iesnieguma vai iepriekš noteiktā projekta iesniedzējam jebkurā procesa posmā ir tiesības iepazīties ar tā iesniegtā projekta lietu, ņemot vērā šā panta otrajā daļā minēto nosacījumu.
+(2) Projekta iesnieguma iesniedzējs ir tiesīgs iepazīties ar iesniegtā projekta iesnieguma vērtēšanas materiāliem tikai pēc tam, kad stājies spēkā lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu. Iepriekš noteiktā projekta iesniedzējs ir tiesīgs iepazīties ar programmas apsaimniekotāja dokumentiem par iepriekš noteiktā projekta atbilstības pārbaudi.
+(3) Programmas apsaimniekotājs šā panta otrajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc pieprasījuma saņemšanas vai piecu darbdienu laikā pēc pieprasījuma saņemšanas uzaicina projekta iesnieguma iesniedzēju iepazīties ar pieprasīto informāciju abpusēji pieņemamā laikā iestādē.
