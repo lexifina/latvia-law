@@ -1,4 +1,4 @@
-6. pants. (1) Vēlēšanu komisijas un iecirkņu komisijas izveidojamas no Latvijas pilsoņiem, kuri prot latviešu valodu un kuriem ir vismaz vispārējā vidējā izglītība.
+6. pants. (1) Vēlēšanu komisijas izveidojamas no Latvijas pilsoņiem, kuri prot latviešu valodu un kuriem ir vismaz vispārējā vidējā izglītība. Iecirkņu komisijas izveidojamas no Latvijas pilsoņiem, kuri prot latviešu valodu un ir sasnieguši 18 gadu vecumu.
 (2) Par vēlēšanu komisijas vai iecirkņa komisijas locekli nevar būt Saeimas, Eiropas Parlamenta vai attiecīgās pašvaldības domes deputāts.
 (3) Par iecirkņa komisijas locekli nevar būt persona, kura ir pieteikta par deputāta kandidātu vai ir kandidātu saraksta iesniedzēja.
 (4) Viena un tā pati persona, izņemot 1.panta ceturtajā daļā noteiktos gadījumus, nevar būt vairākās komisijās.
