@@ -6,8 +6,8 @@
 4) dokumenti, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam nepieciešami, lai vadītu attiecīgu transportlīdzekli (operatīvo transportlīdzekli vai tamlīdzīgu transportlīdzekli) vai pārvadātu attiecīgu kravu (bīstamu, lielgabarīta, smagsvara un tamlīdzīgu kravu);
 5) (izslēgts ar 15.12.2005. likumu);
 6) kāds no turpmāk minētajiem dokumentiem:
-a) uzlīme ar atļaujas piedalīties ceļu satiksmē derīguma termiņu, kas uzlīmēta uz traktortehnikas vējstikla vai uz speciālas pamatnes traktortehnikai vai speciālajam militārajam transportlīdzeklim un speciālā militārā transportlīdzekļa piekabei,
-b) uzlīme ar pagaidu atļaujas piedalīties ceļu satiksmē derīguma termiņu, kas uzlīmēta uz traktortehnikas vējstikla vai uz speciālas pamatnes traktortehnikai vai speciālajam militārajam transportlīdzeklim un speciālā militārā transportlīdzekļa piekabei,
+a) uzlīme ar atļaujas piedalīties ceļu satiksmē derīguma termiņu, kas uzlīmēta uz traktortehnikas vējstikla vai uz speciālas pamatnes traktortehnikai,
+b) uzlīme ar pagaidu atļaujas piedalīties ceļu satiksmē derīguma termiņu, kas uzlīmēta uz traktortehnikas vējstikla vai uz speciālas pamatnes traktortehnikai,
 c) dokuments par transportlīdzeklim veikto tehnisko kontroli uz ceļiem.
 (1¹) Mopēda vadītājam jābūt klāt šā panta pirmās daļas 1. un 2. punktā minētajiem dokumentiem un jāievēro šā panta pirmās daļas 1. un 2. punkta nosacījumi. Tramvaja, trolejbusa vai speciālās militārās tehnikas vadītājam, kā arī nepilngadīgam velosipēda vai elektroskrejriteņa vadītājam jābūt klāt šā panta pirmās daļas 1. punktā minētajam dokumentam.
 (2) Vadītājam pirms izbraukšanas jāpārbauda, vai ir veikta transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātā apdrošināšana, vai transportlīdzeklis ir tehniskā kārtībā un nokomplektēts, tai skaitā ar pirmās palīdzības aptieciņu, kuras saturs atbilst normatīvajiem aktiem par pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim ceļā.

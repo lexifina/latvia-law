@@ -4,3 +4,4 @@
 (3) Ceļu satiksmes dalībniekiem un citām personām jārīkojas tā, lai neradītu satiksmei bīstamas vai satiksmi traucējošas situācijas un nenodarītu zaudējumus.
 (4) Katram ceļu satiksmes dalībniekam ir tiesības uzskatīt, ka arī citas personas ceļu satiksmes norisē izpildīs noteiktās prasības.
 (5) Transportlīdzekļa vadītājam ir tiesības uzzināt viņa vadītā transportlīdzekļa apturēšanas iemeslu, kā arī tās amatpersonas vārdu, uzvārdu un amatu, kura to apstādinājusi.
+(6) Ja transportlīdzekļa vadītājam saskaņā ar šo likumu, Ceļu satiksmes noteikumiem, pašvaldību saistošajiem noteikumiem vai citiem normatīvajiem aktiem ir piešķirtas tiesības izmantot noteiktas priekšrocības ceļu satiksmē, ikreiz, izmantojot šīs tiesības, transportlīdzeklī vai pie transportlīdzekļa jābūt novietotam vai piestiprinātam skaidri saskatāmam un izlasāmam šīs tiesības apliecinošam dokumentam (atļaujai, caurlaidei). Automobiļos minēto dokumentu novieto salonā pie vējstikla.
