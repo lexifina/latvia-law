@@ -1,0 +1,2 @@
+24. pants. Ģenētisko un citu lielapjoma molekulāro datu aprite
+Ģenētisko un citu lielapjoma molekulāro datu ieguvei atļauts izmantot biobankā uzglabātos un konkrētā pētījumā iegūtos bioloģiskos paraugus un paraugsaistītos datus, ja ģenētisko un citu lielapjoma molekulāro datu ieguves nolūks ir pētīt un aprakstīt savstarpējās sakarības starp molekulārajiem faktoriem, cilvēku veselības stāvokli un dzīvesveidu, fizisko un sociālo vidi, lai, pamatojoties uz šo izpēti, iegūtu zinātniski pamatotu informāciju, kas var tikt izmantota sabiedrības labā.

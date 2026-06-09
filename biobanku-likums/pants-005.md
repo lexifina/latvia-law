@@ -1,0 +1,6 @@
+5. pants. Biobankas izveidošanas un darbības noteikumi
+(1) Lai izveidotu biobanku, zinātniskās institūcijas vai ārstniecības iestādes struktūrvienība atzinuma saņemšanai vēršas Centrālajā medicīnas ētikas komitejā, norādot biobankas darbības mērķi, kā arī nodrošina atbilstību normatīvajos aktos noteiktajām obligātajām prasībām.
+(2) Veselības inspekcija reģistrē biobankas pārzini, pamatojoties uz tā iesniegto Centrālās medicīnas ētikas komitejas atzinumu, ja biobankas pārzinis atbilst normatīvajos aktos noteiktajām obligātajām prasībām.
+(3) Ja biobanka izveidota kā starptautiskas pētniecības infrastruktūras daļa, tad biobankas darbībā ņem vērā Eiropas pētniecības infrastruktūru stratēģijas foruma Eiropas pētniecības infrastruktūru Ceļa kartē iekļautos pētniecības infrastruktūru darbības principus.
+(4) Bioloģiskos paraugus un paraugsaistītos datus ir aizliegts izmantot peļņas gūšanai. Peļņas gūšanas aizliegums nav attiecināms uz bioloģisko paraugu un paraugsaistīto datu izpētes laikā iegūtajiem rezultātiem, kurus izmanto, lai radītu jaunas tehnoloģijas, ārstniecības metodes vai citas inovatīvas darbības, ko varētu izmantot sabiedrības labā.
+(5) Ministru kabinets nosaka biobankas izveidei un darbībai izvirzāmās obligātās prasības, kā arī bioloģisko paraugu un paraugsaistīto datu apstrādes un izmantošanas prasības.

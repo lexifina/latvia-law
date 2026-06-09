@@ -1,0 +1,1 @@
+5. Ja bioloģiskie paraugi un paraugsaistītie dati atbilstoši šā likuma pārejas noteikumu 4. punktam netiek nodoti biobankai turpmākiem pētījumiem, zinātniskā institūcija vai ārstniecības iestāde tos iznīcina šā likuma pārejas noteikumu 4. punktā noteiktajā termiņā.

@@ -1,0 +1,5 @@
+14. pants. Tiesības atsaukt informēto piekrišanu
+(1) Ja donors, pārstāvis vai likumiskais pārstāvis ir sniedzis informēto piekrišanu, viņam ir tiesības jebkurā laikā vērsties pie biobankas pārziņa un ar parakstītu iesniegumu pilnībā atsaukt šo informēto piekrišanu vai ierobežot donora bioloģisko paraugu un paraugsaistīto datu apstrādi.
+(2) Pēc informētās piekrišanas atsaukšanas biobankas pārzinim ir pienākums iznīcināt uzglabātos donora bioloģiskos paraugus un paraugsaistītos datus.
+(3) Donora, pārstāvja vai likumiskā pārstāvja tiesības atsaukt informēto piekrišanu un pieprasīt bioloģisko paraugu un paraugsaistīto datu iznīcināšanu vai apstrādes ierobežošanu nav attiecināmas uz neidentificējamiem bioloģiskajiem paraugiem un paraugsaistītajiem datiem, kā arī uz rezultātiem, kas iegūti jau uzsāktajos pētījumos, un uz publicēto informāciju par īstenotajiem pētījumiem, kuros izmantots attiecīgā donora bioloģiskais paraugs un ar to saistītie dati.
+(4) Informētās piekrišanas sniegšanas atteikums vai tās atsaukšana nedrīkst izraisīt donoram nelabvēlīgas sekas, tai skaitā diskrimināciju, it īpaši saistībā ar viņa tiesībām saņemt veselības aprūpi.

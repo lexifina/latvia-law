@@ -1,0 +1,9 @@
+7. pants. Biobankas pārziņa darbības apturēšana vai izbeigšana
+(1) Veselības inspekcija izdara Ārstniecības iestāžu reģistrā atzīmi par biobankas pārziņa darbības apturēšanu vai izbeigšanu, ja ārstniecības iestāde vai zinātniskais institūts, kura sastāvā ir biobankas pārzinis, ir nolēmis apturēt vai izbeigt biobankas darbību un par to informējis Veselības inspekciju.
+(2) Veselības inspekcija pieņem lēmumu par biobankas pārziņa darbības apturēšanu uz laiku, ja:
+1) biobankas pārziņa darbībā ir konstatēti būtiski biobanku darbību regulējošu vai citu normatīvo aktu pārkāpumi;
+2) ir pamatotas aizdomas par būtiskiem biobankas pārziņa darbībā pieļautiem pārkāpumiem, kuru izvērtēšanas laikā nepieciešams pilnībā vai daļēji apturēt biobankas pārziņa darbību.
+(3) Ja apstiprinās būtisku biobankas pārziņa darbībā pieļautu pārkāpumu esība, Veselības inspekcija, ja nepieciešams, konsultējoties ar Datu valsts inspekciju un Centrālo medicīnas ētikas komiteju, lemj par biobankas pārziņa darbības apturēšanu līdz pārkāpumu novēršanai vai par biobankas pārziņa darbības izbeigšanu.
+(4) Ja šā panta otrajā daļā minētie pārkāpumi ir novērsti vai nav radījuši nelabvēlīgas sekas donoram vai ja pārkāpumu esība neapstiprinās, Veselības inspekcija izdara Ārstniecības iestāžu reģistrā atzīmi par biobankas pārziņa darbības atsākšanu.
+(5) Veselības inspekcija pieņem lēmumu par biobankas pārziņa darbības izbeigšanu, ja ir konstatēti būtiski biobanku darbību regulējošu vai citu normatīvo aktu pārkāpumi, kas padara biobankas uzturēšanu neiespējamu vai tās darbības turpināšanu nesamērīgu ar iespējamo kaitējumu, ko šie pārkāpumi var radīt.
+(6) Veselības inspekcijas lēmumu par biobankas pārziņa darbības apturēšanu vai izbeigšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Veselības inspekcijas lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.

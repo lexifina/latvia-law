@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Cilvēka genoma izpētes likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 15. nr.; 2003, 15. nr.; 2005, 7. nr.; 2006, 13. nr.; 2007, 9. nr.; Latvijas Vēstnesis, 2017, 231. nr.).
