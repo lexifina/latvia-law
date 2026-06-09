@@ -1,1 +1,1 @@
-XV nodaļa. Statistikas pārskats un administratīvā sadarbība
+XV nodaļa. Administratīvā sadarbība
