@@ -1,4 +1,4 @@
-54. pants. (1) Latvijas Bankas padome izveido komiteju, kuru pilnvaro pieņemt lēmumus, kas noteikti noregulējuma piemērošanu un kompensāciju izmaksas sistēmu nodrošināšanu regulējošos likumos.
+54. pants. (1) Latvijas Bankas padome izveido komiteju, kuru pilnvaro pieņemt lēmumus, kas noteikti noregulējuma piemērošanu un kompensāciju izmaksas sistēmu nodrošināšanu regulējošos tiesību aktos.
 (2) Latvijas Bankas padome nosaka šā panta pirmajā daļā minētās komitejas sastāvu. Komiteju vada Latvijas Bankas padomes noteikts Latvijas Bankas padomes loceklis. Par minētās komitejas locekli nevar būt šā likuma 50. pantā minētās komitejas loceklis, kā arī Latvijas Bankas darbinieks, kas nodrošina Latvijas Bankas uzdevuma izpildi attiecībā uz monetārās politikas veidošanu un īstenošanu.
 (3) Šā panta pirmajā daļā minētā komiteja ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse komitejas locekļu. Lēmumus pieņem ar sēdes dalībnieku balsu vairākumu. Ja balsu skaits sadalās vienādi, izšķirošā ir sēdes vadītāja balss.
 (4) Latvijas Banka nosaka šā panta pirmajā daļā minētās komitejas uzdevumus šā panta pirmajā daļā minētajās jomās, kā arī tās darba organizāciju.

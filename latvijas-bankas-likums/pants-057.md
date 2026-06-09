@@ -6,3 +6,7 @@
 5) apliecināt elektroniskajā informācijas sistēmā saglabāto ziņu (datu) izdruku vai elektroniskajos informācijas nesējos izdarīto ierakstu autentiskumu;
 6) izpildīt citas Latvijas Bankas padomes locekļa, darbinieka un pilnvarnieka likumīgās prasības.
 (2) Par šā panta pirmajā daļā minēto pienākumu nepildīšanu Latvijas Banka piemēro sankciju - soda naudu fiziskajai personai līdz 700 euro, bet juridiskajai personai - no 1400 līdz 15 000 euro.
+(3) Administratīvo lietu var ierosināt ne vēlāk kā mēneša laikā no pārkāpuma izdarīšanas dienas.
+(4) Pieņemot lēmumu par šā panta otrajā daļā minēto sankciju piemērošanu, Latvijas Banka ņem vērā šā likuma 62. panta trešās daļas 3., 6. un 8. punktā minētos kritērijus, kā arī personas iepriekš izdarītos pārkāpumus šā panta pirmajā daļā noteikto Latvijas Bankas veikto pārmeklēšanas un apskates darbību izpildes laikā.
+(5) Sankcija piemērojama ne vēlāk kā sešu mēnešu laikā pēc administratīvās lietas ierosināšanas dienas. Soda nauda ieskaitāma valsts pamatbudžetā.
+(6) Sankcijas piemērošana neatbrīvo no tā pienākuma izpildīšanas, par kura nepildīšanu piemērota sankcija.

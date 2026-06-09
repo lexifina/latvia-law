@@ -1,0 +1,5 @@
+19.¹ pants. (1) Latvijas Banka ir tiesīga Latvijas Bankas padomes locekļiem un Latvijas Bankas darbiniekiem interešu konfliktu novēršanai noteikt papildu ierobežojumus, aizliegumus un pienākumus, tostarp amatu savienošanas, dāvanu pieņemšanas, komercdarbības un privātu finanšu ieguldījumu darījumu veikšanas jautājumos.
+(2) Latvijas Bankas padomes loceklim un Latvijas Bankas darbiniekam, kurš ir valsts amatpersona, likuma "Par interešu konflikta novēršanu valsts amatpersonu darbībā" 10. panta septītajā daļā noteiktos aizliegumus, kurus tas ievēro attiecībā uz komercsabiedrību - kredītiestādi -, attiecina arī uz nodarbinātību:
+1) kredītiestādes mātes sabiedrībā, kura tieši vai netieši īsteno kontroli pār kredītiestādi, kredītiestādes meitas sabiedrībā vai citā kredītiestādes grupas uzņēmumā;
+2) pie tāda pakalpojumu sniedzēja, kurš nodrošina juridiskos, grāmatvedības vai konsultāciju pakalpojumus vai ārpakalpojumus kredītiestādei;
+3) kā kredītiestādes interešu pārstāvim jautājumos, par kuriem attiecīgā valsts amatpersona bija atbildīga, pildot savus pienākumus.

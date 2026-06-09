@@ -1,1 +1,2 @@
-30. pants. Latvijas Banka veic makroekonomisko analīzi, pētot un analizējot finanšu tirgus un tautsaimniecības attīstību Latvijā, citās Eiropas Savienības dalībvalstīs un ārvalstīs, kā arī veic zinātnisko un pētniecisko darbību ekonomikas un finanšu jomā.
+30. pants. (1) Latvijas Banka veic makroekonomisko analīzi, pētot un analizējot finanšu tirgus un tautsaimniecības attīstību Latvijā, citās Eiropas Savienības dalībvalstīs un ārvalstīs, kā arī veic zinātnisko un pētniecisko darbību ekonomikas un finanšu jomā.
+(2) Īstenojot šā panta pirmajā daļā noteiktos uzdevumus, Latvijas Banka apstrādā tās rīcībā esošo un no citām personām saņemto informāciju, tostarp statistiskos datus, ievērojot attiecīgās informācijas aizsardzības prasības.

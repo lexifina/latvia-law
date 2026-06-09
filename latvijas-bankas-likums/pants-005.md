@@ -3,7 +3,7 @@
 2) veic makroekonomisko analīzi un pētniecību;
 3) nosaka un īsteno makrouzraudzības politiku;
 4) regulē un uzrauga finanšu tirgus un tā dalībnieku darbību;
-5) veic noregulējuma iestādes uzdevumus, tostarp izstrādā noregulējuma plānus, saskaņā ar Kredītiestāžu un ieguldījumu brokeru sabiedrību darbības atjaunošanas un noregulējuma likumu (turpmāk - noregulējuma piemērošana);
+5) veic noregulējuma iestādes uzdevumus, tostarp izstrādā noregulējuma plānus, saskaņā ar tiesību aktiem noregulējuma jomā (turpmāk - noregulējuma piemērošana);
 6) nodrošina Noguldījumu garantiju fonda darbību, Apdrošināto aizsardzības fonda darbību un kompensāciju izmaksu ieguldītājiem (turpmāk - kompensāciju izmaksas sistēmu nodrošināšana);
 7) veic valūtas operācijas;
 8) tur un pārvalda ārējās rezerves un citus aktīvus;
