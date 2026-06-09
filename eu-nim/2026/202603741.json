@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2026. gada 14. maija likums \"Grozījumi Ieguldījumu brokeru sabiedrību likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "99",
+  "official_journal_page": null,
+  "official_journal_date": "2026-05-26",
+  "entry_into_force": "2026-06-09",
+  "notification_date": "2026-06-04",
+  "commission_reference": "MNE(2026)03741",
+  "nim_celex": "72024L1619LVA_202603741",
+  "nim_id": "202603741",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acd6372b-e9c7-43c0-91a9-3b55f857dfdf",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
