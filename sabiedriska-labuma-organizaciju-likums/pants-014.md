@@ -1,6 +1,6 @@
 14.pants. Sabiedriskā labuma organizācijas statusa atņemšana
 (1) Valsts ieņēmumu dienests lēmumu par sabiedriskā labuma organizācijas statusa atņemšanu var pieņemt, ja:
-1) sabiedriskā labuma organizācija savu mantu vai finanšu līdzekļus nav izlietojusi tām sabiedriskā labuma darbības jomai, kura minēta lēmumā par sabiedriskā labuma organizācijas statusa piešķiršanu attiecīgajai organizācijai, šīs organizācijas statūtos, satversmē vai nolikumā norādītajiem mērķiem vai nav ievērojusi šā likuma 11. un 12.pantā noteiktos ierobežojumus;
+1) sabiedriskā labuma organizācija savu mantu, pakalpojumu vai finanšu līdzekļus nav izlietojusi tām sabiedriskā labuma darbības jomai, kura minēta lēmumā par sabiedriskā labuma organizācijas statusa piešķiršanu attiecīgajai organizācijai, šīs organizācijas statūtos, satversmē vai nolikumā norādītajiem mērķiem vai nav ievērojusi šā likuma 11. un 12.pantā noteiktos ierobežojumus;
 2) Valsts ieņēmumu dienests, prokurors, cita iestāde vai tiesa ir konstatējusi būtiskus normatīvo aktu pārkāpumus sabiedriskā labuma organizācijas darbībā;
 3) sabiedriskā labuma organizācija neveic nodokļu maksājumus normatīvajos aktos noteiktajā kārtībā;
 4) sabiedriskā labuma organizācija savā darbībā būtiski pārkāpusi šā likuma noteikumus;

@@ -1,4 +1,4 @@
 12.pants. Sabiedriskā labuma organizācijas darbības ierobežojumi
-(1) Sabiedriskā labuma organizācijai aizliegts sadalīt savu mantu un finanšu līdzekļus starp dibinātājiem, valdes vai citu pārvaldes institūciju (ja tādas izveidotas) locekļiem, kā arī izmantot tā, lai tieši vai netieši gūtu labumu (galvojumus, aizdevumus, vekseļus, kā arī citus materiālus labumus).
+(1) Sabiedriskā labuma organizācijai aizliegts sadalīt savu mantu, pakalpojumu un finanšu līdzekļus starp dibinātājiem, valdes vai citu pārvaldes institūciju (ja tādas izveidotas) locekļiem, kā arī izmantot tā, lai tieši vai netieši gūtu labumu (galvojumus, aizdevumus, vekseļus, kā arī citus materiālus labumus).
 (2) Šā panta pirmās daļas noteikums attiecas arī uz sabiedriskā labuma organizācijas dibinātāju, valdes vai citu pārvaldes institūciju (ja tādas izveidotas) locekļu laulātajiem, radiniekiem un svaiņiem, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei.
 (3) Ja persona saņem atlīdzību par darbību sabiedriskā labuma organizācijā, šai atlīdzībai jābūt samērīgai un pamatotai ar veicamajiem darbiem un sabiedriskā labuma organizācijas finansiālo stāvokli.
