@@ -1,0 +1,1 @@
+17.¹ Šā likuma 54. panta ceturtajā daļā noteiktais tīro autotransporta līdzekļu procentuālais īpatsvars piemērojams, ievērojot šā panta 1.¹ un 1.² daļā noteikto ekonomisko un tehnisko izvērtējumu. Tīro autotransporta līdzekļu procentuālās prasības netiek piemērotas mehāniski, ja to izpilde konkrētajos apstākļos būtu ekonomiski nepamatota vai nesamērīga.

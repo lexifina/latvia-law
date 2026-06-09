@@ -3,16 +3,21 @@
 1) zemes, esošās būves vai cita nekustamā īpašuma pirkšanu vai nomu vai citu tiesību iegūšanu uz šādu nekustamo īpašumu ar jebkuriem finanšu līdzekļiem;
 2) tāda raidījumu materiāla iegādi, izstrādi, ražošanu vai kopražošanu, kas paredzēts audio un audiovizuālo elektronisko plašsaziņas līdzekļu pakalpojumiem, ja līguma slēgšanas tiesības piešķir elektroniskie plašsaziņas līdzekļi, vai līgumiem par raidlaiku vai raidījumu nodrošināšanu, kuru slēgšanas tiesības piešķir elektroniskajiem plašsaziņas līdzekļiem;
 3) šķīrējtiesu pakalpojumiem un pakalpojumiem, kas tiek sniegti pušu samierināšanai;
+3¹) šādiem advokātu juridiskajiem pakalpojumiem:
+a) pasūtītāja juridisku pārstāvību Eiropas Savienības dalībvalstī, valstī, kas nav Eiropas Savienības dalībvalsts, vai starptautiskā šķīrējtiesas vai samierināšanas instancē notiekošā šķīrējtiesā vai samierināšanā,
+b) pasūtītāja juridisku pārstāvību Eiropas Savienības dalībvalsts vai valsts, kas nav Eiropas Savienības dalībvalsts, tiesā vai iestādē vai starptautiskā tiesā vai iestādē notiekošā tiesvedībā,
+c) juridiskajām konsultācijām, kuras sniedz, lai gatavotos kādam no šā punkta "a" vai "b" apakšpunktā minētajiem procesiem, vai kuras sniedz gadījumos, kad ir drošas pazīmes un liela varbūtība, ka šie gadījumi varētu tikt izskatīti kādā no šā punkta "a" vai "b" apakšpunktā minētajiem procesiem;
 4) dokumentu apliecināšanas pakalpojumiem, kurus sniedz notāri;
 5) juridiskajiem pakalpojumiem, kuru sniedzējus ieceļ tiesa vai kuru sniedzējiem ārējos normatīvajos aktos uzdots tiesas uzraudzībā veikt noteiktus uzdevumus;
 6) juridiskajiem pakalpojumiem, kuri saistīti ar valsts varas īstenošanu;
-7) finanšu pakalpojumiem, kas saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pirkšanu, pārdošanu vai nodošanu, Latvijas Bankas pakalpojumiem un darbībām, ko veic ar Eiropas Finanšu stabilitātes instrumenta un Eiropas stabilizācijas mehānisma palīdzību;
+7) finanšu pakalpojumiem, kas saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pirkšanu, pārdošanu vai nodošanu, centrālās bankas pakalpojumiem un darbībām, ko veic ar Eiropas Finanšu stabilitātes instrumenta un Eiropas stabilizācijas mehānisma palīdzību;
 8) aizņēmumiem, kas ir vai nav saistīti ar vērtspapīru vai citu finanšu instrumentu emisiju, pārdošanu, pirkšanu vai nodošanu;
 9) fizisko personu pakalpojumiem saskaņā ar darba līgumiem;
 10) pakalpojumiem civilās aizsardzības, civilās drošības un katastrofu novēršanas jomā, kurus sniedz biedrības, nodibinājumi vai apvienības un uz kuriem attiecas kāds no šādiem CPV kodiem: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 un 85143000-3, izņemot ar pacientu transportēšanu saistītus neatliekamās medicīniskās palīdzības pakalpojumus;
 11) sabiedriskā transporta pakalpojumiem, kas tiek sniegti, izmantojot dzelzceļu vai metro;
 12) pakalpojumiem, kurus sniedz cits pasūtītājs vai pasūtītāju apvienība, kam saskaņā ar ārējiem normatīvajiem aktiem ir izņēmuma tiesības sniegt attiecīgo pakalpojumu;
-13) valsts naftas produktu drošības rezervju izveidi, uzturēšanu un rotāciju.
+13) valsts naftas produktu drošības rezervju izveidi, uzturēšanu un rotāciju;
+14) normatīvajos aktos noteikto pārtikas preču rezervju un kritisko zāļu iedzīvotāju nodrošināšanai valsts apdraudējuma gadījumā rezervju izveidi, uzturēšanu un rotāciju, kā arī šādu rezervju un pirmās nepieciešamības nepārtikas preču iedzīvotāju nodrošināšanai valsts apdraudējuma gadījumā uzglabāšanu un loģistiku.
 (2) Šo likumu piemēro tikai publiskiem pakalpojuma līgumiem par pētniecības un izstrādes pakalpojumiem, kuru CPV kods ir no 73000000-2 līdz 73120000-9, 73300000-5, 73420000-2 un 73430000-5, ja vienlaikus pastāv šādi nosacījumi:
 1) labumu no sniegtā pakalpojuma rezultātiem gūs tikai pasūtītājs, kas šos rezultātus izmantos vienīgi savām vajadzībām;
 2) pasūtītājs pilnībā samaksās par sniegto pakalpojumu.
@@ -34,3 +39,4 @@
 (7) Šo likumu nepiemēro piegādēm, pakalpojumiem un būvdarbiem, kas atbilst Aizsardzības un drošības jomas iepirkumu likuma 3. pantam.
 (8) Šo likumu nepiemēro, ja tā piemērošana varētu radīt kaitējumu būtisku valsts drošības interešu aizsardzībai. Par būtisku valsts drošības interešu aizsardzību katrā konkrētajā gadījumā lemj Ministru kabinets. Šā izņēmuma piemērošanas pamats nav ne steidzamība, nedz arī aizsargājama informācija pati par sevi, ja tās aizsardzību var nodrošināt iepirkuma procedūrās saskaņā ar šo likumu vai aizsardzības un drošības jomas iepirkumus regulējošiem normatīvajiem aktiem.
 (9) Šo likumu nepiemēro, ja Ministru kabinets saskaņā ar ārējiem normatīvajiem aktiem informāciju par līgumu vai tā izpildi atzinis par valsts noslēpumu.
+(10) (Daļa stājas spēkā 01.01.2028. un iekļauta likuma redakcijā uz 01.01.2028. Sk. pārejas noteikumu 26. punktu)

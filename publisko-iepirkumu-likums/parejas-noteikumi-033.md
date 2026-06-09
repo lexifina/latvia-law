@@ -1,0 +1,1 @@
+33. Lai nodrošinātu šā likuma 66. panta pirmās daļas 5.³ punktā noteikto izmaksu salīdzināšanas rīku attīstīšanu, Iepirkumu uzraudzības birojs līdz 2027. gada 30. jūnijam apzina tvērumu, kurām publisko iepirkumu kategorijām iespējams periodiski noteikt references cenas, un izstrādā metodoloģiju to aprēķināšanai.

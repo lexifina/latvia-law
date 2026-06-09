@@ -1,0 +1,1 @@
+30. Šā likuma 33.¹ panta prasības piemērojamas iepirkuma līgumiem, par kuriem ir publicēts paziņojums par līguma slēgšanas tiesību piešķiršanu, paziņojums par līguma slēgšanas tiesību piešķiršanu attiecībā uz sociālajiem un citiem īpašiem pakalpojumiem un informatīvs paziņojums par līguma slēgšanas tiesību piešķiršanu.

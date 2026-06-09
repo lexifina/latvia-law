@@ -18,7 +18,7 @@
 (5) Šā panta ceturtajā daļā minētajos gadījumos pasūtītājs paziņojumā par līgumu, paziņojumā par līgumu attiecībā uz sociālajiem un citiem īpašiem pakalpojumiem vai paziņojumā par plānoto līgumu norāda pamatojumu tādu apstākļu esībai, kuri dod tiesības iepirkuma līgumu noslēgt uz ilgāku laiku.
 (6) Iepirkuma līgumu vai vispārīgo vienošanos slēdz ne agrāk kā nākamajā darbdienā pēc nogaidīšanas termiņa beigām, ja Iepirkumu uzraudzības birojam nav šā likuma 68. pantā noteiktajā kārtībā iesniegts iesniegums par iepirkuma procedūras pārkāpumiem.
 (7) Šā panta sestajā daļā minētais nogaidīšanas termiņš ir:
-1) 10 dienas pēc dienas, kad šā likuma 37. panta otrajā daļā minētā informācija nosūtīta visiem pretendentiem elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot elektroniskajam pastam skenētu dokumentu, pa faksu vai nodota personiski, un papildus viena darbdiena;
+1) 10 dienas pēc dienas, kad šā likuma 37. panta otrajā daļā minētā informācija nosūtīta visiem pretendentiem elektroniski, izmantojot drošu elektronisko parakstu vai pievienojot skenētu dokumentu vai nodota personiski, un papildus viena darbdiena;
 2) 15 dienas pēc šā likuma 37. panta otrajā daļā minētās informācijas nosūtīšanas dienas, ja kaut vienam pretendentam tā nosūtīta pa pastu, un papildus viena darbdiena.
 (8) Ja šā panta septītās daļas 1. punktā minētā desmitā diena un 2. punktā minētā piecpadsmitā diena ir sestdiena, svētdiena vai likumā noteikta svētku diena, nogaidīšanas termiņš pagarināms par vienu darbdienu.
 (9) Iepirkuma līgumu vai vispārīgo vienošanos var slēgt, neievērojot šā panta sesto daļu, ja:

@@ -7,6 +7,7 @@
 1) iepirkuma procedūras dokumentos noteiktajā minimālajā piedāvājuma nodrošinājuma spēkā esības termiņā;
 2) ja iepirkuma procedūras dokumentos ir noteikts, ka pretendents, kuram piešķirtas iepirkuma līguma slēgšanas tiesības, pirms iepirkuma līguma noslēgšanas iesniedz saistību izpildes nodrošinājumu, - līdz dienai, kad izraudzītais pretendents iesniedz šādu saistību izpildes nodrošinājumu;
 3) līdz iepirkuma līguma noslēgšanai.
+(5¹) Ja pretendents ir iesniedzis piedāvājuma nodrošinājumu, bet nodrošinājuma termiņš, apmērs vai noteikumi neatbilst iepirkuma procedūras dokumentos noteiktajām prasībām, pasūtītājs var dot iespēju piegādātājam pasūtītāja noteiktajā termiņā, kas nav īsāks par piecām darbdienām no dienas, kad pieprasījums nosūtīts pretendentam, iesniegt iepirkuma procedūras dokumentos noteiktajām prasībām atbilstošu piedāvājuma nodrošinājumu.
 (6) Nodrošinājuma devējs izmaksā pasūtītājam vai pasūtītājs ietur pretendenta iemaksāto piedāvājuma nodrošinājuma summu, ja:
 1) pretendents atsauc savu piedāvājumu, kamēr ir spēkā piedāvājuma nodrošinājums;
 2) pretendents, kuram piešķirtas iepirkuma līguma slēgšanas tiesības, pasūtītāja noteiktajā termiņā nav iesniedzis tam iepirkuma procedūras dokumentos un iepirkuma līgumā paredzēto saistību izpildes nodrošinājumu;

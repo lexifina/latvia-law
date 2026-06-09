@@ -1,0 +1,1 @@
+32. Veicot šā likuma 66. panta pirmās daļas 5.² punktā noteikto ikgadējo publisko iepirkumu jomas snieguma novērtējumu, Iepirkumu uzraudzības birojs 2029. gada otrajā ceturksnī iesniedz Ministru kabinetam pirmo ikgadējo publisko iepirkumu jomas snieguma novērtējumu par iepriekšējo gadu.
