@@ -1,1 +1,1 @@
-106. Šā likuma 33.³ pantā minētā pārvaldītājsabiedrība, kura veica darbību 2019. gada 27. jūnijā un turpina darbību šā likuma 33.³ panta spēkā stāšanās dienā, saņem atļauju minētajā pantā noteiktajā kārtībā sešu mēnešu laikā no 33.³ panta spēkā stāšanās dienas.
+106. Šā likuma 33.⁶ pantā minētā pārvaldītājsabiedrība, kura veica darbību 2019. gada 27. jūnijā un turpina darbību šā likuma 33.⁶ panta spēkā stāšanās dienā, saņem atļauju minētajā pantā noteiktajā kārtībā sešu mēnešu laikā no 33.⁶ panta spēkā stāšanās dienas.

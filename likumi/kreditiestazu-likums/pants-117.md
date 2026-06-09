@@ -8,6 +8,6 @@
 (4) Pilnvarnieks savu uzdevumu veikšanai ir tiesīgs:
 1) izdot saistošus rīkojumus visām kredītiestādes struktūrvienībām un tās darbiniekiem;
 2) neievērot kredītiestādes statūtos, nolikumos un noteikumos (politikas, procedūru aprakstos un citos darbības instrumentos) norādītos ierobežojumus;
-3) iesniegt Latvijas Bankai priekšlikumu par kredītiestādes uzņēmuma pāreju, veikt kredītiestādes mantas, ķermenisku vai bezķermenisku lietu, līgumu un saistību atsavināšanu vai nodošanu, ja šo darbību mērķis ir nodrošināt kredītiestādē izdarīto noguldījumu atmaksu;
+3) iesniegt Latvijas Bankai priekšlikumu par nozīmīga uzņēmuma pāreju, veikt kredītiestādes mantas, ķermenisku vai bezķermenisku lietu, līgumu un saistību atsavināšanu vai nodošanu, ja šo darbību mērķis ir nodrošināt kredītiestādē izdarīto noguldījumu atmaksu;
 4) kredītiestādes pārvaldes institūciju vārdā sastādīt un apstiprināt kredītiestādes finanšu pārskatus.
 (5) Pilnvaras sasaukt akcionāru sapulci un noteikt šādas sapulces darba kārtību pilnvarnieks var īstenot tikai ar Latvijas Bankas piekrišanu, ja vien šāda piekrišana jau nav ietverta šā panta pirmajā daļā minētajā lēmumā.

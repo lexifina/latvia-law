@@ -24,7 +24,7 @@
 4) iestājies kāds no šā panta desmitajā daļā minētajiem apstākļiem.
 (14) Ja kredītiestāde konstatē, ka nozīmīga ārpakalpojuma sniedzējs neievēro nozīmīga ārpakalpojuma līgumā noteiktās prasības attiecībā uz ārpakalpojuma apjomu vai kvalitāti, tā nekavējoties informē par to Latvijas Banku.
 (15) Ārpakalpojuma saņemšana neatbrīvo kredītiestādi un tās pārvaldes institūcijas no pienākuma veikt normatīvajos aktos noteikto ar kredītiestādes darbību saistīto risku pārvaldīšanu.
-(16) Kredītiestāde iesniedz Latvijas Bankai grozījumus, kas tiek izdarīti ārpakalpojuma politikā un procedūrā, ne vēlāk kā triju darbdienu laikā pēc attiecīgo grozījumu apstiprināšanas.
+(16) (Izslēgta ar 14.05.2026. likumu)
 (17) Par būtiskiem grozījumiem, kurus plāno izdarīt noslēgtajā līgumā attiecībā uz nozīmīgu ārpakalpojumu, kredītiestāde informē Latvijas Banku vismaz 30 darbdienas pirms to spēkā stāšanās.
 (18) Ārpakalpojumu sniedzējs ir tiesīgs nozīmīga ārpakalpojuma sniegšanu deleģēt tālāk citai personai tikai pēc tam, kad saņemta kredītiestādes rakstveida piekrišana. Kredītiestāde pirms nozīmīga ārpakalpojuma tālākas deleģēšanas rakstveidā informē par to Latvijas Banku un iesniedz tai šajā pantā minētos dokumentus. Uz ārpakalpojuma sniegšanas tālāku deleģēšanu un ārpakalpojuma galīgo sniedzēju attiecināmi šā likuma noteikumi.
 (19) Šā panta desmitajā, divpadsmitajā un trīspadsmitajā daļā minētā Latvijas Bankas izdotā administratīvā akta apstrīdēšana un pārsūdzēšana neaptur tā darbību.

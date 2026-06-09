@@ -1,2 +1,2 @@
-208.¹ pants. (1) Latvijas Bankas izdotā administratīvā akta par šā likuma XV nodaļā minēto sankciju un administratīvo pasākumu piemērošanu, izņemot soda naudas uzlikšanu, apstrīdēšana un pārsūdzēšana neaptur šā akta izpildi.
+208.¹ pants. (1) Latvijas Bankas izdotā administratīvā akta par šā likuma XV nodaļā minēto sankciju un administratīvo pasākumu piemērošanu, izņemot soda naudas vai periodiska maksājuma uzlikšanu, apstrīdēšana un pārsūdzēšana neaptur šā akta izpildi.
 (2) Pieņemot lēmumu par sankciju un administratīvo pasākumu piemērošanu personām, kuras pārkāpušas finanšu tirgu regulējošus normatīvos aktus, Latvijas Banka ņem vērā Latvijas Bankas likumā norādītos apstākļus, kā arī iespējamās pārkāpuma sistēmiskās sekas.

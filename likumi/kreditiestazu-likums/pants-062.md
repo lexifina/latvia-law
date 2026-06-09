@@ -16,7 +16,7 @@
 a) kredītiestādes darbībai piemītošo un varbūtējo risku identificēšanu, novērtēšanu, pārvaldīšanu un uzraudzību,
 b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievērošanu;
 3) zvērinātam advokātam vai zvērinātu advokātu birojam juridiskās palīdzības saņemšanai kredītiestādes tiesību un likumisko interešu aizsardzībai;
-4) kredītiestādes uzņēmuma ieguvējam un potenciālajam ieguvējam uzņēmuma pārejas priekšlikuma izvērtēšanai;
+4) nozīmīga uzņēmuma ieguvējam un potenciālajam ieguvējam uzņēmuma pārejas priekšlikuma izvērtēšanai;
 5) ienākumus nenesošu kreditēšanas līgumu portfeļa potenciālajam ieguvējam (kredītu pircējam Parādu ārpustiesas atgūšanas likuma izpratnē) vai tā pārstāvim ienākumus nenesošu kreditēšanas līgumu portfeļa izvērtēšanai.
 (9¹) Kredītiestāde neizpaužamās ziņas citām personām sniedz, ja to nosaka Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likums.
 (9²) Kredītiestāde neizpaužamās ziņas citām personām sniedz, ja to nosaka Maksājumu pakalpojumu un elektroniskās naudas likums.
@@ -32,3 +32,4 @@ b) kredītiestādes darbību regulējošo prasību aprēķināšanu un ievēroš
 (13) Kredītiestādes rīcībā esošās neizpaužamās ziņas var tikt izpaustas citām personām saskaņā ar Segto obligāciju likumu un Vērtspapīrošanas likumu.
 (14) Kredītiestāde ir tiesīga bez atsevišķa tiesas (tiesneša) lēmuma tiesai (tiesnesim) vai šķīrējtiesai sniegt neizpaužamās ziņas, ciktāl tas ir nepieciešams kredītiestādes tiesību un likumisko interešu aizsardzībai, tai skaitā parāda piedziņas nodrošināšanai vai sniedzot paskaidrojumus par tiesai (tiesnesim) klienta iesniegtu pieteikumu vai sūdzību.
 (15) Kredītiestāde sniedz neizpaužamās ziņas citai kredītiestādei vai kredīta devējam, kas Patērētāju tiesību aizsardzības likuma izpratnē ir tiesīgi izsniegt kredītus patērētājiem, ja šīs ziņas nepieciešamas hipotekārajai pārkreditēšanai saskaņā ar Patērētāju tiesību aizsardzības likumu.
+(16) Kredītiestāde neizpaužamās ziņas šā likuma 34.² panta pirmajā daļā minēto prasību izpildes nodrošināšanai attiecībā uz riskiem, kas saistīti ar vides, sociālo un pārvaldības faktoru pašreizējo un īstermiņa, vidēja termiņa un ilgtermiņa ietekmi, ir tiesīga sniegt citai kredītiestādei, kurai ir tiesisks pamats tās saņemt.

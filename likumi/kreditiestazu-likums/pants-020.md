@@ -1,4 +1,0 @@
-20.pants. (1) Ārvalstu kredītiestāde var atvērt filiāli Latvijā, ja šīs kredītiestādes minimālais sākotnējais kapitāls atbilst šā likuma 21.panta prasībām un tās darbības laiks nav mazāks par trim finanšu gadiem.
-(2) Šā panta noteikumi par kredītiestādes darbības laiku nav attiecināmi uz kredītiestādi, kura reģistrēta ārvalstī, kas ir Pasaules tirdzniecības organizācijas dalībniece.
-(3) Ārvalstu kredītiestādes filiāle sniedz Latvijas Bankai informāciju par savu darbību Latvijas Bankas noteikumos paredzētajā apmērā un termiņā.
-(4) Ja ārvalsts kredītiestāde ar filiāļu starpniecību darbojas vairākās dalībvalstīs, Latvijas Banka sadarbojas ar iesaistīto dalībvalstu uzraudzības institūcijām, lai nepieļautu šajā likumā, uz tā pamata izdotajos normatīvajos aktos un ES regulā Nr. 575/2013 noteikto prasību neievērošanu un netiktu radīta negatīva ietekme uz Eiropas Savienības finanšu stabilitāti.

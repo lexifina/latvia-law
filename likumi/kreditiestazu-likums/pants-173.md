@@ -4,4 +4,4 @@
 3) tie noslēgti piecu gadu laikā pirms maksātnespējas iestāšanās dienas un tiesa ir konstatējusi, ka kredītiestāde novesta līdz maksātnespējai ar kriminālsodāmu nodarījumu un persona, ar kuru vai kurai par labu darījums slēgts, ir zinājusi par šo nodarījumu.
 (2) Ja darījumus, ar kuriem nodarīti zaudējumi kreditoriem, kredītiestāde noslēgusi ar ieinteresētajām personām attiecībā uz kredītiestādi vai šo personu labā, uzskatāms, ka šīs personas ir zinājušas par zaudējumu nodarīšanu vai kriminālsodāmu nodarījumu, ja tās nepierāda pretējo.
 (3) Nodrošinātais kreditors var iesniegt tiesā prasību par administratora noslēgta darījuma atzīšanu par spēkā neesošu, ja darījums attiecas uz prasījuma nodrošināšanai ieķīlāto mantu un ir aizskartas nodrošinātā kreditora tiesības.
-(4) Kredītiestādes uzņēmuma pāreju, kas veikta saskaņā ar šā likuma 59.³ pantu vai 59.⁴ panta otro daļu, nevar atzīt par spēkā neesošu.
+(4) Nozīmīga uzņēmuma pāreju, kas veikta saskaņā ar šā likuma 59.¹⁴ pantu vai 59.¹⁵ panta otro daļu, nevar atzīt par spēkā neesošu.

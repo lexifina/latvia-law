@@ -1,0 +1,1 @@
+127. Grozījumi šā likuma 43. panta pirmajā daļā attiecībā uz riska darījumiem ar partneriem, ar kuriem reģistrēta partnerība, piemērojami riska darījumiem, kurus noslēgs, sākot ar 2026. gada 1. jūliju.

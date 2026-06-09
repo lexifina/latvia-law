@@ -63,7 +63,7 @@ r) kriptoaktīvu pakalpojumi.
 34) likvidators - kredītiestādes akcionāru sapulces ievēlēta persona (pašlikvidācijas gadījumā) vai pēc Latvijas Bankas ieteikuma tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 35) maksātnespējas procesa administrators (turpmāk arī - administrators) - tiesas iecelta persona, kura īsteno šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;
 36) ieinteresētās personas attiecībā uz kredītiestādi ir:
-a) kredītiestādes akcionāri, padomes un valdes locekļi, iekšējā audita dienesta vadītājs, risku direktors, par darbības atbilstības kontroli atbildīgā persona un sabiedrības kontrolieris, kā arī šo personu laulātie, vecāki un bērni;
+a) kredītiestādes akcionāri, padomes un valdes locekļi, iekšējās kontroles funkcijas vadītājs, kā arī šo personu laulātie, vecāki un bērni;
 b) personas, kurām ar kredītiestādi ir darba tiesiskās attiecības;
 c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta "a" un "b" apakšpunkta noteikumiem pēdējo sešu mēnešu laikā līdz maksātnespējas lietas ierosināšanai;
 37) finanšu līzings - kreditēšana, ko veic atbilstoši UNIDROIT konvencijā par starptautisko finansiālo līzingu noteiktajiem pamatprincipiem;
@@ -91,15 +91,15 @@ c) personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā punkta
 59) pakārtotās saistības - saistības, kas kredītiestādei rodas no aizdevuma (neatkarīgi no noslēgtā darījuma veida) un kas, pamatojoties uz noslēgto līgumu ar kredītiestādi, aizdevējam dod tiesības atprasīt aizdevumu pirms termiņa tikai kredītiestādes maksātnespējas vai likvidācijas gadījumā un tikai pēc visu citu kreditoru prasījumu apmierināšanas, bet pirms akcionāru prasījumu apmierināšanas;
 60) (izslēgts ar 24.04.2014. likumu);
 61) uzraugu kolēģija - uzraudzības institūciju veidota konsultatīva sadarbības vienība, kas darbojas uz iesaistīto uzraudzības institūciju sadarbības līguma pamata;
-62) iekšējā pieeja - ES regulā Nr. 575/2013 paredzētā metode, modelis vai cita iekšējā pieeja, kuru kredītiestāde izmanto riska svērto vērtību vai pašu kapitāla prasību aprēķinam:
-a) 143.panta 1.punktā minētā uz iekšējiem reitingiem balstītā pieeja;
-b) 221., 283. un 363.pantā minētie iekšējie modeļi;
-c) 225.pantā minētās pašas iestādes veicamās svārstīguma aplēses, aprēķinot riska darījumu vērtības svārstīguma korekcijas;
-e) 259.panta 3.punktā minētā iekšējā novērtējuma metode;
-d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
+62) iekšējā pieeja - ES regulā Nr. 575/2013 paredzētās metodes vai pieejas:
+a) 143. panta 1. punktā minētā uz iekšējiem reitingiem balstītā pieeja,
+b) 221. pantā minētā iekšējo modeļu pieeja,
+c) 265. panta 2. punktā minētā iekšējā novērtējuma metode,
+d) 283. pantā minētā iekšējā modeļa metode,
+e) 325.az pantā minētā alternatīvā iekšējā modeļa pieeja;
 63) sistēmiskais risks - finanšu sistēmas darbības traucējumu risks, kam var būt būtiska negatīva ietekme uz finanšu sistēmu un tautsaimniecību;
 64) sistēmiski nozīmīga iestāde - tāda Eiropas Savienības mātes finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes jaukta finanšu pārvaldītājsabiedrība, Eiropas Savienības mātes kredītiestāde vai kredītiestāde, kuras darbības pārtraukšana vai traucējumi var radīt sistēmisku risku;
-65) augstākā vadība - tādas personas (darbinieki), kuru amata stāvoklis dod tām iespēju būtiski ietekmēt iestādes darbības virzību, bet kuras nav padomes vai valdes locekļi;
+65) augstākā vadība - personas (darbinieki), kurām ir tiesības pieņemt lēmumus kredītiestādes vārdā, bet kuras nav padomes vai valdes locekļi un kuras piedalās iestādes pārvaldībā un ir valdes tiešā pakļautībā;
 66) mazāk nozīmīgā uzraudzītā kredītiestāde - mazāk nozīmīgā uzraudzītā iestāde Eiropas Centrālās bankas 2014. gada 16. aprīļa regulas Nr. 468/2014, ar ko izveido vienotā uzraudzības mehānisma pamatstruktūru Eiropas Centrālās bankas sadarbībai ar nacionālajām kompetentajām un norīkotajām iestādēm (VUM pamatregula) (ECB/2014/17) (turpmāk - regula Nr. 468/2014) 2. panta 7. punkta izpratnē;
 67) nozīmīgā uzraudzītā kredītiestāde - nozīmīgā uzraudzītā iestāde regulas Nr. 468/2014 2. panta 16. punkta izpratnē;
 68) ārpakalpojums - jebkura līgumiska vienošanās starp kredītiestādi un ārpakalpojuma sniedzēju, kas paredz šim ārpakalpojuma sniedzējam pienākumu veikt noteiktu procesu, pakalpojumu vai citu darbību, ko citādi veiktu pati kredītiestāde;
@@ -110,7 +110,15 @@ d) 312.panta 2.punktā minētā attīstītās mērīšanas pieeja;
 73) specializētā kredītiestāde - kredītiestāde, kura sniedz šīs daļas 4. punktā minētos finanšu pakalpojumus un atbilst vismaz vienam no šādiem kritērijiem:
 a) ierobežots klientu loks, kas noteikts pēc teritoriālā, nodarbinātības vai interešu kopības principa Krājaizdevu sabiedrību likuma izpratnē;
 b) finanšu pakalpojumi tiek sniegti tikai digitāli;
-c) biznesa modelis paredz inovatīvu pakalpojumu sniegšanu, kas Latvijas mērogā ir jauns vai būtiski uzlabots finanšu pakalpojums.
+c) biznesa modelis paredz inovatīvu pakalpojumu sniegšanu, kas Latvijas mērogā ir jauns vai būtiski uzlabots finanšu pakalpojums;
+74) persona, kura pilda pamatfunkcijas - persona (darbinieks), kurai amata pienākumi dod iespēju būtiski ietekmēt iestādes darbību, tostarp iekšējās kontroles funkcijas vadītājs un finanšu direktors, bet kura nav iestādes padomes vai valdes loceklis;
+75) iekšējās kontroles funkcijas - riska pārvaldības, darbības atbilstības nodrošināšanas un iekšējā audita funkcijas;
+76) iekšējās kontroles funkcijas vadītājs - hierarhiski augstākā līmeņa darbinieks, kurš atbild par iestādes iekšējās kontroles funkcijas faktisku veikšanu;
+77) finanšu direktors - persona, kurai ir vispārēja atbildība par kredītiestādes finanšu resursu pārvaldību, finanšu plānošanu un finanšu pārskatiem;
+78) klimatneitralitātes mērķis - mērķis saskaņā ar Eiropas Parlamenta un Padomes 2021. gada 30. jūnija regulu (ES) 2021/1119, ar ko izveido klimatneitralitātes panākšanas satvaru un groza regulas (ES) Nr. 401/2009 un (ES) 2018/1999 ("Eiropas Klimata akts");
+79) kriptoaktīvs - vērtības vai tiesību digitāls atveidojums Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 1. punkta 5. apakšpunkta izpratnē, izņemot centrālās bankas digitālo valūtu;
+80) ārvalsts kredītiestādes filiāle - teritoriāli vai citādi nošķirta ārvalsts komersanta, kas sniedz šā likuma 33.⁹ panta pirmajā daļā minētos pakalpojumus, struktūrvienība, kura darbojas ārvalsts komersanta vārdā;
+81) galvenā sabiedrība - ārvalsts komersants, kas Latvijā ir atvēris ārvalsts kredītiestādes filiāli, vai šā komersanta sabiedrība, vai galvenā mātes sabiedrība šā likuma III³ nodaļas izpratnē.
 (2) ES regulas Nr. 575/2013 izpratnē likumā ir lietoti šādi termini:
 1) kredītiestāde - ES regulas Nr. 575/2013 4.panta 1.punkta 1.apakšpunkta izpratnē;
 2) pašu kapitāls - ES regulas Nr. 575/2013 4.panta 1.punkta 118.apakšpunkta izpratnē;
@@ -130,7 +138,9 @@ c) biznesa modelis paredz inovatīvu pakalpojumu sniegšanu, kas Latvijas mērog
 16) grupa - ES regulas Nr. 575/2013 4. panta 1. punkta 138. apakšpunkta izpratnē;
 17) pirmā līmeņa kapitāls - ES regulas Nr. 575/2013 25. panta izpratnē;
 18) globāla sistēmiski nozīmīga iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 133. apakšpunkta izpratnē;
-19) ārvalsts globāla sistēmiski nozīmīga iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 134. apakšpunkta izpratnē.
+19) ārvalsts globāla sistēmiski nozīmīga iestāde - ES regulas Nr. 575/2013 4. panta 1. punkta 134. apakšpunkta izpratnē;
+20) atbilstošs kapitāls - ES regulas Nr. 575/2013 4. panta 1. punkta 71. apakšpunkta "a" punkta izpratnē;
+21) vides, sociālais un pārvaldības risks (turpmāk - ESG risks) - ES regulas Nr. 575/2013 4. panta 1. punkta 52.d apakšpunkta izpratnē.
 (3) Papildus šā panta pirmajā un otrajā daļā minētajiem terminiem likumā ir lietoti termini, kas atbilst šādiem ES regulā Nr. 575/2013 lietotajiem terminiem:
 1) mātes sabiedrība - terminam "mātesuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 15.apakšpunkta izpratnē;
 2) meitas sabiedrība - terminam "meitasuzņēmums" ES regulas Nr. 575/2013 4.panta 1.punkta 16.apakšpunkta izpratnē;
@@ -140,5 +150,5 @@ c) biznesa modelis paredz inovatīvu pakalpojumu sniegšanu, kas Latvijas mērog
 6) uzraudzības institūcija - terminam "kompetentā iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 40.apakšpunkta izpratnē;
 7) konsolidētās uzraudzības institūcija - terminam "konsolidētās uzraudzības iestāde" ES regulas Nr. 575/2013 4.panta 1.punkta 41.apakšpunkta izpratnē.
 (4) Likumā lietotais termins "jaukta finanšu pārvaldītājsabiedrība" atbilst Finanšu konglomerātu likumā lietotajam terminam, bet termins "izslēdzošais ieskaits" -- Kvalificētajiem finanšu darījumiem piemērojamā izslēdzošā ieskaita likumā lietotajam terminam.
-(5) Likumā lietotie termini "aktīviem piesaistīts žetons", "elektroniskās naudas žetons" un "kriptoaktīvu pakalpojums" atbilst Eiropas Parlamenta un Padomes 2023. gada 31. maija regulas (ES) 2023/1114 par kriptoaktīvu tirgiem un ar ko groza regulas (ES) Nr. 1093/2010 un (ES) Nr. 1095/2010 un direktīvas 2013/36/ES un (ES) 2019/1937 (turpmāk - Regula Nr. 2023/1114) 3. panta 1. punkta 6., 7. un 16. apakšpunktā lietotajiem terminiem.
+(5) Likumā lietotie termini "aktīviem piesaistīts žetons", "elektroniskās naudas žetons" un "kriptoaktīvu pakalpojums" atbilst Regulas Nr. 2023/1114 3. panta 1. punkta 6., 7. un 16. apakšpunktā lietotajiem terminiem.
 (6) Termini "ilgtspējas ziņojums" un "konsolidētais ilgtspējas ziņojums" ir lietoti Ilgtspējas informācijas atklāšanas likuma izpratnē.

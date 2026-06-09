@@ -8,7 +8,10 @@
 7) (izslēgts ar 29.04.2021. likumu);
 8) kredītiestāde neievēro šā likuma un citu kredītiestādes darbību regulējošu normatīvo aktu prasības, izņemot ES regulas Nr. 575/2013 92.a un 92.b panta prasības;
 9) kredītiestādes akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus;
-10) Latvijas Banka vai vienotā noregulējuma valde, kas izveidota kā Eiropas Savienības aģentūra saskaņā ar Eiropas Parlamenta un Padomes 2014. gada 15. jūlija regulas (ES) Nr. 806/2014, ar ko izveido vienādus noteikumus un vienotu procedūru kredītiestāžu un noteiktu ieguldījumu brokeru sabiedrību noregulējumam, izmantojot vienotu noregulējuma mehānismu un vienotu noregulējuma fondu, un groza regulu (ES) Nr. 1093/2010 (turpmāk - ES regula Nr. 806/2014) 42. pantu, pieņēmusi lēmumu neveikt kredītiestādei noregulējuma darbību.
+10) Latvijas Banka vai vienotā noregulējuma valde ir pieņēmusi lēmumu neveikt kredītiestādei noregulējuma darbību, ja konstatēts, ka ir izpildīti visi šādi nosacījumi:
+a) kredītiestādei ir finanšu grūtības vai, iespējams, tā nonāks finanšu grūtībās,
+b) ņemot vērā laika resursus un citus būtiskus apstākļus, nav pamatotu izredžu, ka kredītiestādes veiktie alternatīvie privātā sektora pasākumi, arī institucionālo aizsardzības shēmu izveidošana, vai Latvijas Bankas vai Eiropas Centrālās bankas uzraudzības pasākumi, tostarp agrīnās intervences pasākumi vai attiecīgu kapitāla instrumentu un atbilstīgu saistību norakstīšana vai konvertācija, saprātīgā termiņā novērstu kredītiestādes finanšu grūtības,
+c) noregulējuma darbība nav nepieciešama sabiedrības interesēs.
 (1¹) Kredītiestādes licence (atļauja) zaudē spēku, ja:
 1) kredītiestāde ir saņēmusi atļauju sākt pašlikvidācijas procesu;
 2) kredītiestāde ir saņēmusi atļauju tās reorganizācijai un tādēļ tai vairs nav nepieciešama licence (atļauja) kredītiestādes darbībai;

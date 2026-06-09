@@ -1,4 +1,4 @@
-27.¹ pants. (1) Latvijas Banka ne vēlāk kā 30 dienu laikā no dienas, kad pieņemts lēmums izsniegt kredītiestādei vai ārvalsts kredītiestādes filiālei licenci (atļauju) kredītiestādes darbībai, paziņo par to Eiropas Banku iestādei.
+27.¹ pants. (1) Latvijas Banka ne vēlāk kā 30 dienu laikā no dienas, kad pieņemts lēmums izsniegt kredītiestādei licenci (atļauju) kredītiestādes darbībai, paziņo par to Eiropas Banku iestādei.
 (2) Latvijas Banka ne vēlāk kā 30 dienu laikā no dienas, kad pieņemts lēmums anulēt licenci (atļauju) kredītiestādes darbībai vai licence (atļauja) zaudējusi spēku, paziņo par to Eiropas Banku iestādei.
 (3) Latvijas Banka informē Eiropas Komisiju un Eiropas Banku iestādi par atteikumu Latvijas Republikā reģistrētai kredītiestādei atvērt filiāli citā dalībvalstī, atteikumu citā dalībvalstī reģistrētai kredītiestādei atvērt filiāli Latvijas Republikā un pasākumiem, ko Latvijas Banka veikusi saskaņā ar šā likuma 108.¹ panta trešo un ceturto daļu.
 (4) Latvijas Banka ne vēlāk kā 30 dienu laikā no dienas, kad pieņemts lēmums par:

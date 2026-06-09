@@ -1,3 +1,4 @@
-26.pants. (1) Par kredītiestādes padomes priekšsēdētāju un padomes locekli var būt personas, kuras atbilst šā likuma 24.panta pirmās daļas 2., 3., 4. un 5.punkta prasībām. Par kredītiestādes padomes priekšsēdētāju un padomes locekli nevar būt personas, uz kurām var attiecināt šā likuma 25.panta pirmās daļas 1. vai 2.punktu.
-(2) Akcionāru sapulcei ir pienākums nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja tās neatbilst šajā pantā noteiktajām prasībām.
-(3) (Izslēgta ar 24.04.2014. likumu)
+26. pants. (1) Par kredītiestādes iekšējās kontroles funkcijas vadītāju, finanšu direktoru, par noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas prasību izpildi atbildīgo personu, ārvalsts kredītiestādes filiāles vadītāju un tās vadības komitejas vadītāju, kredītiestādes filiāles citā dalībvalstī vadītāju, kā arī prokūristu var būt persona:
+1) kura atbilst šā likuma 24. panta pirmās daļas 1., 2., 3. un 4. punkta prasībām;
+2) uz kuru nevar attiecināt šā likuma 25. panta pirmās daļas nosacījumus.
+(2) Kredītiestādei ir pienākums pašai vai pēc Latvijas Bankas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja tās neatbilst šā panta prasībām.
