@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 14,
+ "datums": "2026-06-11",
+ "ieraksts": {
+  "dkp_id": "d4759ebf-0073-4528-9aeb-8518651868bf",
+  "lastmodtime": "\"AAAAAAKKePc=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Armands#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Nauris#Raimonds#Arvils#Andrejs#Irma#Harijs#Augusts#Raivis#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Atis#Viktorija#Normunds#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Kaspars#Gundars#Ramona#Inga#Jānis#Lauris#Linda#Atis#Anda#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Ivanovs#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Krauze#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Puntulis#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Briškens#Daudze#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "##############################################################################################",
+  "FRACTION": " #NA#NA#PRO# #JV#JV#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV#JV# # #JV#NA#ZZS#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV# #AS#JV#JV#NA#JV#JV# #JV#ZZS#ZZS#AS#AS#ZZS#NA# #ZZS# # #JV# #AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#JV# # #AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#ZZS#LPV# #JV#AS#LPV#PRO#JV# #JV#ZZS#PRO#JV#JV# ",
+  "RESULT": "Pret#Par#Par#Pret#Atturas#Atturas#Pret#Atturas#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Atturas#Par#Atturas#Pret#Pret#Nebalsoja#Pret#Atturas#Nebalsoja#Par#Atturas#Nebalsoja#Atturas#Nebalsoja#Atturas#Par#Nebalsoja#Pret#Par#Atturas#Atturas#Pret#Atturas#Pret#Nebalsoja#Atturas#Pret#Atturas#Par#Pret#Nebalsoja#Atturas#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Nebalsoja#Atturas#Atturas#Atturas#Pret#Nebalsoja#Nebalsoja#Pret#Atturas#Par#Par#Atturas#Nebalsoja#Nebalsoja#Atturas#Pret#Nebalsoja#Par#Atturas#Pret#Par#Atturas#Atturas#Atturas#Atturas#Pret#Atturas#Nebalsoja#Atturas#Atturas#Nebalsoja#Atturas#Pret#Nebalsoja#Nebalsoja#Atturas#Pret#Par#Pret#Nebalsoja#Atturas#Pret#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "11.06.2026 10:18:10",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.7. Grozījumi likumā “Par Latvijas un PSRS psihiatriskajās ārstniecības iestādēs laika posmā no 1940.gada 17.jūnija līdz 1991.gada 21.augustam nepamatoti ievietotajām personām” (1231/Lp14), 2.lasījums",
+  "VOTING_ID": "8562bf05-e47f-4e7e-9c06-ab24a6512b91",
+  "VOTERESULT_ABSTAIN": "37",
+  "VOTERESULT_AGAINST": "22",
+  "VOTERESULT_FOR": "14",
+  "VOTERESULT_REGISTERED": "95",
+  "VOTE_NUMBER": "36",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-14-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/00b3e866-872b-44d4-a5eb-e1d66ad65957/download/14.saeimas-2026.gada-pavasara-sesija-14-vote.xml",
+  "sha256": "68cf4f10238b9347b13caadc4cdf26846fc2506f9d6be7473f42849d2a99c75d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
