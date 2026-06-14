@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 12. augusta noteikumi Nr. 504 “Grozījumi Ministru kabineta 2013. gada 15. oktobra noteikumos Nr. 1113 \"Prasības attiecībā uz augļu sulām un tām līdzīgiem produktiem\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "155",
+  "official_journal_page": null,
+  "official_journal_date": "2025-08-14",
+  "entry_into_force": "2026-06-14",
+  "notification_date": "2025-10-06",
+  "commission_reference": "MNE(2025)05442",
+  "nim_celex": "72024L1438LVA_202505442",
+  "nim_id": "202505442",
+  "transposes_celex": [
+    "32024L1438"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fa152857-2626-4b9e-918e-d994d09e7d47",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
