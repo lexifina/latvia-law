@@ -10,7 +10,7 @@
 7) saskaņā ar Regulas Nr. 2021/1060 44. pantu izstrādāt izvērtēšanas plānu un izvērtēt fondu programmu;
 8) veikt Regulas Nr. 2021/1060 49. pantā noteiktos pienākumus, tostarp saskaņā ar Regulas Nr. 2021/1060 49. panta 1. punktu nodrošināt tīmekļvietnes izveidi;
 9) atbilstoši kompetencei izstrādāt Regulas Nr. 2021/1060 69. panta 6. punktā minētās procedūras;
-10) saskaņā ar Regulas Nr. 2021/1060 69. panta 8. punktu nodrošināt elektronisko datu apmaiņas informācijas sistēmas darbību;
+10) (izslēgts ar 21.05.2026. likumu);
 11) saskaņā ar Regulas Nr. 2021/1060 69. panta 9. punktu nodrošināt regulāru fondu datu ievadi Eiropas Komisijas izveidotajā elektronisko datu apmaiņas informācijas sistēmā;
 12) saskaņā ar Regulas Nr. 2021/1060 69. panta 10. punktu iesniegt prognozes attiecībā uz summām, par kurām kārtējā un nākamajā kalendāra gadā tiks iesniegts fonda maksājuma pieteikums;
 13) saskaņā ar Regulas Nr. 2021/1060 69. panta 11. punktu izstrādāt fondu pārvaldības un kontroles sistēmas aprakstu un iesniegt to revīzijas iestādei;
