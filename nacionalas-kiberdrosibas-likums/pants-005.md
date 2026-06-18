@@ -5,7 +5,7 @@
 3) īstenot uzraudzības funkcijas, tostarp uzraudzīt, kā būtisko pakalpojumu un svarīgo pakalpojumu sniedzēji izpilda tiem šajā likumā noteiktos pienākumus;
 4) izvērtēt būtisko pakalpojumu un svarīgo pakalpojumu sniedzēju kiberrisku pārvaldības pasākumu atbilstību normatīvajos aktos noteiktajām prasībām;
 5) uzraudzīt publisko elektronisko sakaru tīklu drošības prasību ievērošanu;
-6) uzturēt valsts iestāžu apkopoto un pašidentificēto būtisko pakalpojumu un svarīgo pakalpojumu sniedzēju sarakstu, nodrošināt tā apstiprināšanu Digitālās drošības uzraudzības komitejā, kā arī sniegt kompetentajām Eiropas Savienības institūcijām apkopotu un pēc nepieciešamības anonimizētu informāciju par identificētajiem būtisko pakalpojumu un svarīgo pakalpojumu sniedzējiem;
+6) uzturēt valsts iestāžu apkopoto un pašidentificēto būtisko pakalpojumu un svarīgo pakalpojumu sniedzēju sarakstu, apstiprināt to, kā arī sniegt kompetentajām Eiropas Savienības institūcijām apkopotu un pēc nepieciešamības anonimizētu informāciju par identificētajiem būtisko pakalpojumu un svarīgo pakalpojumu sniedzējiem;
 7) nodrošināt Nacionālās kiberdrošības padomes un Digitālās drošības uzraudzības komitejas sekretariāta funkcijas;
 8) izvērtēt valsts informācijas sistēmu un institūciju informācijas sistēmu attīstības projektu atbilstību minimālajām kiberdrošības prasībām, ievērojot Valsts informācijas sistēmu likumu;
 9) nodrošināt vienotā valsts interneta plūsmu apmaiņas punkta darbību, kā arī sadarbībā ar valsts drošības iestādēm koordinēt vienotā valsts interneta plūsmu apmaiņas punkta pakalpojumu saņemšanu;

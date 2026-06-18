@@ -1,10 +1,10 @@
 20. pants. Būtisko pakalpojumu sniedzējs
 Būtisko pakalpojumu sniedzējs šā likuma izpratnē ir:
-1) augstākā līmeņa domēnu nosaukumu reģistra uzturētājs, piemēram, augstākā līmeņa domēna ".lv" reģistra uzturētājs;
-2) domēnu nosaukumu sistēmas pakalpojumu sniedzējs, kas sniedz publiski pieejamus rekursīvus domēnu nosaukumu atrises pakalpojumus interneta galalietotājiem vai autoritatīvus domēnu nosaukumu atrises pakalpojumus trešo personu lietošanai, izņemot saknes nosaukumu serverus;
+1) augstākā līmeņa domēnu vārdu reģistra uzturētājs, piemēram, augstākā līmeņa domēna ".lv" reģistra uzturētājs;
+2) domēnu vārdu sistēmas pakalpojumu sniedzējs, kas sniedz publiski pieejamus rekursīvus domēnu vārdu atrises pakalpojumus interneta galalietotājiem vai autoritatīvus domēnu vārdu atrises pakalpojumus trešo personu lietošanai, izņemot saknes vārdu serverus;
 3) elektronisko sakaru komersants;
 4) kvalificēts uzticamības pakalpojumu sniedzējs;
-5) tiešās pārvaldes iestāde un cita valsts institūcija, kā arī privāto tiesību juridiskā persona, kas pilda valsts pārvaldes deleģētu uzdevumu, izņemot valsts drošības iestādes;
+5) tiešās pārvaldes iestāde un cita valsts institūcija, izņemot valsts drošības iestādes;
 6) atvasināta publiskā persona;
 7) sabiedriskie elektroniskie plašsaziņas līdzekļi;
 8) liels saimnieciskās darbības veicējs, kurš ir:

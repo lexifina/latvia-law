@@ -1,0 +1,1 @@
+14. Līdz šā likuma 44. panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 1. decembrim kiberdrošības auditoram piemēro tās prasības, kas Ministru kabineta 2025. gada 25. jūnija noteikumos Nr. 397 "Minimālās kiberdrošības prasības" bija noteiktas, lai auditors varētu tikt reģistrēts kiberdrošības auditoru sarakstā.

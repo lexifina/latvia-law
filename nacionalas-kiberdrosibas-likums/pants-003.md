@@ -1,7 +1,7 @@
 3. pants. Likuma darbības joma
 (1) Likums attiecas uz:
 1) būtisko pakalpojumu sniedzējiem, svarīgo pakalpojumu sniedzējiem un informācijas un komunikācijas tehnoloģiju kritiskās infrastruktūras īpašniekiem un tiesiskajiem valdītājiem (turpmāk visi kopā - subjekti);
-2) tiešās un pastarpinātās pārvaldes iestādēm, atvasinātām publiskajām personām un citām valsts institūcijām, kā arī privāto tiesību juridiskajām personām, kas pilda valsts pārvaldes deleģētu uzdevumu (turpmāk visas kopā - valsts un pašvaldību institūcijas), izņemot valsts drošības iestādes;
+2) tiešās un pastarpinātās pārvaldes iestādēm, atvasinātām publiskajām personām un citām valsts institūcijām (turpmāk visas kopā - valsts un pašvaldību institūcijas), izņemot valsts drošības iestādes;
 3) privāto tiesību juridiskajām personām;
 4) šajā likumā noteiktajos gadījumos - fiziskajām personām, kas piedalās koordinētas ievainojamību atklāšanas procesā.
 (2) Likums neattiecas uz elektronisko sakaru tīklos pārraidāmās informācijas saturu, tostarp uz informācijas sabiedrības pakalpojumu saturu un audiovizuālajiem darbiem, ja tie netiek izmantoti kā kiberincidentu sastāvdaļa.

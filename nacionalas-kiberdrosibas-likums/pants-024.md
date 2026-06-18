@@ -1,4 +1,4 @@
 24. pants. Informācijas un komunikācijas tehnoloģiju kritiskā infrastruktūra
 (1) Par informācijas un komunikācijas tehnoloģiju kritisko infrastruktūru šā likuma izpratnē uzskatāma Ministru kabineta apstiprinātajā kritiskās infrastruktūras kopumā iekļautā informācijas un komunikācijas tehnoloģiju kritiskā infrastruktūra.
-(2) Informācijas un komunikācijas tehnoloģiju kritiskās infrastruktūras drošības prasības, pasākumus un to plānošanas un īstenošanas kārtību nosaka Ministru kabinets.
+(2) Informācijas un komunikācijas tehnoloģiju kritiskās infrastruktūras drošības prasības, izmantoto informācijas un komunikācijas tehnoloģiju resursu, pakalpojumu un piegādes ķēžu drošības risku pārvaldības prasības, kā arī pasākumus un to plānošanas un īstenošanas kārtību nosaka Ministru kabinets.
 (3) Šā panta otrajā daļā minētās prasības informācijas un komunikācijas tehnoloģiju kritiskajai infrastruktūrai nedrīkst būt zemākas par prasībām, kas šajā likumā noteiktas būtisko pakalpojumu sniedzējiem.
