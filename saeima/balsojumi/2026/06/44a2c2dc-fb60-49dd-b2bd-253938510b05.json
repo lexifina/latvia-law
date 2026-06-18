@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 20,
+ "datums": "2026-06-18",
+ "ieraksts": {
+  "dkp_id": "00a967f4-5b69-4df0-bebb-588dd05f15f7",
+  "lastmodtime": "\"AAAAAAKOhfk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Arnolds#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Andris#Jurģis#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Jana#Ligita#Zanda#Alīna#Dāvis#Ilze#Raimonds#Arvils#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Jānis#Oļegs#Igors#Juris#Mārtiņš#Daiga#Jānis#Uģis#Agita#Česlavs#Atis#Viktorija#Normunds#Andrejs#Ināra#Jānis#Anita#Edgars#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Inga#Jānis#Lauris#Linda#Roberts#Aleksandrs#Jānis#Antoņina#Inga#Uģis",
+  "SURNAME": "Jātnieks#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Bērziņš#Klotiņš#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Melnalksnis#Vergina#Čudars#Ašeradens#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Zariņa-Stūre#Batņa#Labucis#Pleškāne#Dzintars#Judins#Mūrniece#Vucāns#Brakovska#Putra#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Ķipurs#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": "NA#PRO# #JV#JV#ZZS# #JV#LPV#ZZS#NA#JV#JV# # #JV#NA#AS#LPV#PRO#NA#LPV#JV#PRO#ZZS#JV#JV#AS#JV#JV#JV#JV#ZZS#JV#ZZS#AS#AS#NA# # #ZZS# # #AS#JV#ZZS#NA#NA#JV#AS#JV# #NA#JV#NA#ZZS#ZZS#AS#AS# #PRO#PRO#ZZS#LPV#AS#JV#AS#LPV# # #JV#PRO#JV#JV",
+  "RESULT": "Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.06.2026 19:06:46",
+  "VOTEMOTIVE": "Kriminālsodu izpildes likums (1379/Lp14), 1.lasījums",
+  "VOTING_ID": "44a2c2dc-fb60-49dd-b2bd-253938510b05",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "66",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "80",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-20-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9b74aba2-797c-4335-a323-b21e5f6b1841/download/14.saeimas-2026.gada-pavasara-sesija-20-vote.xml",
+  "sha256": "65ef66f781dd0ef99f88bd0b465a95992b81812e3646697f74ad450bd76e22cb",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
