@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada pavasara sesija",
+ "sede": 20,
+ "datums": "2026-06-18",
+ "ieraksts": {
+  "dkp_id": "b0e95fd3-6e4e-4ff8-826c-473e22a9aaff",
+  "lastmodtime": "\"AAAAAAKN7CA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Arnolds#Liene#Skaidrīte#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Inese#Vilis#Ģirts#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Jana#Ligita#Andrejs#Alīna#Dāvis#Ilze#Raimonds#Andrejs#Irma#Harijs#Augusts#Raivis#Aiva#Līga#Nataļja#Oļegs#Igors#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Agita#Kristaps#Atis#Viktorija#Normunds#Linda#Andrejs#Jānis#Gunārs#Edgars#Raimonds#Jeļena#Leila#Kaspars#Gundars#Ramona#Inga#Jānis#Linda#Atis#Antoņina#Uģis",
+  "SURNAME": "Jātnieks#Gātere#Ābrama#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Kalniņa#Sruoģis#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Simanovska#Gintere#Svilāns#Gendele#Melnalksnis#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Kalējs#Vīksna#Kļaviņa#Marčenko-Jodko#Burovs#Rajevs#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Zariņa-Stūre#Krištopans#Labucis#Pleškāne#Dzintars#Matisone#Judins#Vucāns#Kūtris#Putra#Bergmanis#Kļaviņa#Rasima#Briškens#Daudze#Petraviča#Priede#Patmalnieks#Liepiņa#Švinka#Ņenaševa#Rotbergs",
+  "VOTEDEPSUFFIX": "#################################################################",
+  "FRACTION": "NA#PRO# #JV#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV# #ZZS#LPV#AS#LPV#NA#LPV#JV#PRO#ZZS#AS#JV#AS#JV#JV# #JV#ZZS#ZZS#AS#AS#ZZS# # # # #AS#JV#ZZS#NA#NA#JV#LPV#JV# #NA#AS#JV#ZZS#ZZS#AS#AS# #PRO#PRO#ZZS#LPV#AS#JV#LPV#PRO#PRO#JV",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Nebalsoja#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "18.06.2026 15:40:37",
+  "VOTEMOTIVE": "Grozījumi Civilās aizsardzības un katastrofas pārvaldīšanas likumā (1429/Lp14), 1.lasījums",
+  "VOTING_ID": "a77bd3f8-7120-49da-b126-558b8424a800",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "66",
+  "VOTE_NUMBER": "41",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada pavasara sesija-20-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9b74aba2-797c-4335-a323-b21e5f6b1841/download/14.saeimas-2026.gada-pavasara-sesija-20-vote.xml",
+  "sha256": "65ef66f781dd0ef99f88bd0b465a95992b81812e3646697f74ad450bd76e22cb",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
