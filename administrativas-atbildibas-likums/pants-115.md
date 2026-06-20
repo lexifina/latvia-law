@@ -8,7 +8,7 @@
 5¹) Enerģētikas un vides aģentūras;
 6) Iepirkumu uzraudzības biroja;
 6¹) Ieslodzījuma vietu pārvaldes;
-7) Izložu un azartspēļu uzraudzības inspekcijas;
+7) (izslēgts ar 11.06.2026. likumu);
 8) Izglītības kvalitātes valsts dienesta;
 9) Korupcijas novēršanas un apkarošanas biroja;
 10) Labklājības ministrijas;
@@ -34,6 +34,7 @@
 29) pašvaldības vides kontroles amatpersonas;
 30) Pilsonības un migrācijas lietu pārvaldes;
 31) Sabiedrisko pakalpojumu regulēšanas komisijas;
+31¹) (punkts stājas spēkā 01.10.2026. un iekļauts likuma redakcijā uz 01.10.2026. Sk. pārejas noteikumu 17. punktu);
 32) Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja;
 33) Valsts aģentūras "Civilās aviācijas aģentūra";
 34) Valsts augu aizsardzības dienesta;

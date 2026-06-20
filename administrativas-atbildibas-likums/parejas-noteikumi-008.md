@@ -1,1 +1,1 @@
-8. Amatpersonas, kuras neatbilst šā likuma 115. pantā noteiktajām izglītības prasībām, attiecīgo izglītību iegūst sešu gadu laikā no šā likuma spēkā stāšanās dienas.
+8. Amatpersonas, kuras neatbilst šā likuma 115. pantā noteiktajām izglītības prasībām, attiecīgo izglītību iegūst 10 gadu laikā no šā likuma spēkā stāšanās dienas. Ja pēc šā termiņa beigām amatpersonai līdz valsts noteiktā pensijas vecuma sasniegšanai atlikuši pieci gadi vai mazāk, tā var turpināt veikt administratīvā pārkāpuma procesu arī bez augstākās izglītības iegūšanas.
