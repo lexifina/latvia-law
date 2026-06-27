@@ -1,0 +1,1 @@
+4. Mediju pakalpojumu sniedzēji, kas masu informācijas līdzekli dibinājuši vai izveidojuši līdz dienai, kad stājas spēkā šā likuma grozījums par 8. panta izteikšanu jaunā redakcijā, bet kas nav pieteikuši tā reģistrāciju reģistrā, masu informācijas līdzekļa reģistrāciju reģistrā piesaka 14 dienu laikā no dienas, kad stājas spēkā minētais grozījums.

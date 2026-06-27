@@ -1,0 +1,1 @@
+16. Līdz 2026. gada 15. septembrim Ministru kabinets sagatavo un iesniedz Saeimai likumprojektu, kas paredz priekšnosacījumus un kārtību, kādā tirdzniecības vietās tiek nodrošināti drukāto mediju tirdzniecības pakalpojumi.

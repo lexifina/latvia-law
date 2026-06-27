@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2027. gada 15. janvārim iesniedz Saeimai likumprojektu, kas paredz mediju pakalpojumu sniedzēju reģistra izveidi un masu informācijas līdzekļu reģistra pārveidi par mediju pakalpojumu sniedzēju reģistru atbilstoši Eiropas Mediju brīvības aktā noteiktajai mediju īpašumtiesību augsta līmeņa pārredzamības struktūrai.

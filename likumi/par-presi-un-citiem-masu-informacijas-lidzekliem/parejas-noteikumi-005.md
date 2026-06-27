@@ -1,0 +1,1 @@
+5. Mediju pakalpojumu sniedzēji šā likuma 9. panta astotajā daļā noteikto pārskatu un publiskās iestādes vai subjekti Eiropas Mediju brīvības akta 2. panta 18. punkta izpratnē šā likuma 26.¹ pantā noteikto informāciju par 2026. gadu iesniedz, sākot no 2027. gada 1. janvāra.

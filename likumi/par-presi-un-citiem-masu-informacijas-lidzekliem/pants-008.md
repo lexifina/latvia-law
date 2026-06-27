@@ -1,3 +1,4 @@
-8. pants. Dibināšana
-Tiesības dibināt un izdot masu informācijas līdzekļus ir juridiskajām un fiziskajām personām, kā arī personālsabiedrībām, izņemot pašvaldības un to iestādes.
-Attiecības starp dibinātāju, izdevēju un redakciju regulē līgums.
+8. pants. Dibināšana un izveide
+Tiesības dibināt, veidot un izdot masu informācijas līdzekļus ir juridiskajām un fiziskajām personām, kā arī personālsabiedrībām, izņemot pašvaldības un to iestādes.
+Attiecības starp īpašnieku (dibinātāju), izdevēju un redakciju regulē līgums.
+Masu informācijas līdzekļa dibināšana vai elektroniskā plašsaziņas līdzekļa programmas vai pakalpojuma izveidošana ir obligāti piesakāma ierakstīšanai masu informācijas līdzekļu reģistrā (turpmāk - reģistrs), iesniedzot attiecīgu pieteikumu. Pieteikumu masu informācijas līdzekļa ierakstīšanai reģistrā paraksta masu informācijas līdzekļa īpašnieks (dibinātājs) vai izdevējs vai elektroniskā plašsaziņas līdzekļa paraksttiesīgā persona. Pieteikumu iesniedz 14 dienu laikā no lēmuma par masu informācijas līdzekļa dibināšanu pieņemšanas dienas vai elektroniskā plašsaziņas līdzekļa programmas vai pakalpojuma izveidošanas dienas vai 14 dienu laikā no dienas, kad masu informācijas līdzeklis, kas dibināts ārpus Latvijas Republikas, ir uzsācis darbību Latvijas Republikā.

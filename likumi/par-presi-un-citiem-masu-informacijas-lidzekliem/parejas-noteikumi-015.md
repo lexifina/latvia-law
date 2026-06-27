@@ -1,0 +1,1 @@
+15. Līdz dienai, kad Eiropas Mediju brīvības akts kļūst saistošs tām Eiropas Ekonomikas zonas dalībvalstīm, kas nav Eiropas Savienības dalībvalstis, šā likuma 10. panta piektajā daļā un 10.² pantā ietvertās atsauces uz Eiropas Ekonomikas zonas dalībvalstīm ir uzskatāmas par atsaucēm uz Eiropas Savienības dalībvalstīm.

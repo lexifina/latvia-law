@@ -5,4 +5,5 @@ Tiesa var pieņemt nolēmumu par masu informācijas līdzekļa darbības izbeig�
 2) publicējis aicinājumu nepakļauties Latvijas Republikas likumiem,
 3) noteiktā termiņā un apmērā nav samaksājis Latvijas Republikas likumos paredzētos nodokļus un nepakļaujas valsts finanšu iestāžu kontrolei,
 4) publicējis informāciju, kura krimināllietā ar tiesas spriedumu atzīta par neslavas celšanu un goda aizskaršanu, valsts noslēpuma izpaušanu, kara propagandu, rasu un nacionālās vienlīdzības pārkāpumu un bērnu pornogrāfiju,
-5) gada laikā atkārtoti izdarījis citus šā likuma noteikumu pārkāpumus.
+5) gada laikā atkārtoti izdarījis citus šā likuma noteikumu pārkāpumus,
+6) neveic darbības, kas atbilst masu informācijas līdzekļa funkcijām.
