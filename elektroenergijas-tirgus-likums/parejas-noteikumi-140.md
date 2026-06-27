@@ -1,0 +1,1 @@
+140. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 31.⁸ panta trešajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai atjaunīgās elektroenerģijas ražošanas iekārtas un elektroenerģijas uzkrātuves nojaukšanu veic atbilstoši normatīvajiem aktiem par inženierbūvju nojaukšanu.

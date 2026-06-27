@@ -1,0 +1,1 @@
+139. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 22.² panta piektajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai vēja elektrostacijas ekspluatāciju veic atbilstoši normatīvajiem aktiem par elektroenerģijas ražošanas iekārtu ekspluatāciju.
