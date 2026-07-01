@@ -1,0 +1,1 @@
+1. Ministru kabinets līdz 2026. gada 31. augustam pieņem lēmumu par paredzētās darbības akceptēšanu vai atteikumu to akceptēt saskaņā ar Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likuma 8. pantu attiecībā uz tiem rīkojumu projektiem, kas Ministru kabinetam iesniegti līdz 2026. gada 14. jūnijam.
