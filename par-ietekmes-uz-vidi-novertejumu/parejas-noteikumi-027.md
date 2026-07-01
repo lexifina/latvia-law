@@ -1,0 +1,1 @@
+27. Grozījumus šā likuma 7. panta pirmajā daļā par pienākumu norādīt iesniegumā paredzētās darbības atbilstību pašvaldības teritorijas plānojumam vai lokālplānojumam un 1.¹ daļā par iesnieguma izskatīšanu nepiemēro attiecībā uz iesniegumiem, kas iesniegti līdz 2026. gada 30. jūnijam.

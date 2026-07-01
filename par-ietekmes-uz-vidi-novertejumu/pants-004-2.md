@@ -1,1 +1,2 @@
-4. Iekārtas, kas paredzētas apstarotās kodoldegvielas atkārtotai apstrādei.
+4.² pants. Paredzētās darbības īstenošanas teritoriālie nosacījumi
+Vēja elektrostaciju ar kopējo jaudu vismaz 50 megavatu būvniecība ir atļauta ārpus pilsētām un ciemiem vietējās pašvaldības teritorijas plānojumā noteiktajā rūpnieciskās apbūves teritorijā, tehniskās apbūves teritorijā, lauksaimniecības teritorijā, uz meža zemes, ievērojot to, ka attālums no dzīvojamām un publiskām ēkām līdz tuvākās plānotās vēja elektrostacijas un vēja parka robežai ir vismaz 800 metru.

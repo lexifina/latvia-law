@@ -1,0 +1,1 @@
+28. Grozījumu šā likuma 22. panta otrajā daļā par paredzētās darbības atbilstību pašvaldības teritorijas plānojumam vai lokālplānojumam nepiemēro attiecībā uz paredzētajām darbībām, par kurām Valsts vides dienests līdz 2026. gada 30. jūnijam ir pieņēmis lēmumu par ietekmes uz vidi novērtējuma piemērošanu.
