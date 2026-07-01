@@ -5,7 +5,8 @@ Izpildu dokumenti ir:
 2¹) tiesas vai tiesnešu nolēmumi administratīvā pārkāpuma procesā;
 2²) procesa virzītāja lēmuma vai prokurora priekšraksta izraksts krimināllietās daļā par mantiskajām piedziņām;
 3) uz administratīvā akta pamata izdotie izpildrīkojumi (šā likuma 539.panta otrās daļas 2.punkts);
-4) tiesneša lēmumi par saistību bezstrīdus piespiedu izpildīšanu, saistību piespiedu izpildīšanu brīdinājuma kārtībā vai nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā;
+4) tiesneša lēmumi par saistību bezstrīdus piespiedu izpildīšanu vai nekustamā īpašuma labprātīgu pārdošanu izsolē tiesas ceļā;
+4¹) lēmumi par saistību piespiedu izpildīšanu brīdinājuma kārtībā;
 5) tiesas vai tiesneša lēmumi par procesuālo sankciju - naudas soda vai piespiedu naudas - piemērošanu;
 6) notāru, advokātu un tiesu izpildītāju izrakstītie rēķini;
 7) ārvalsts tiesas vai kompetentās iestādes izsniegts Eiropas izpildes rīkojums saskaņā ar Eiropas Parlamenta un Padomes regulu Nr. 805/2004;

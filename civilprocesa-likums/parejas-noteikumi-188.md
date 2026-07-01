@@ -1,0 +1,1 @@
+188. Pieteikumiem par saistības piespiedu izpildīšanu brīdinājuma kārtībā, kas iesniegti tiesā līdz 2026. gada 30. jūnijam, piemērojamas šā likuma 406.¹, 406.², 406.³, 406.⁵, 406.⁶, 406.⁷, 406.⁸ un 406.⁹ panta redakcijas, kas bija spēkā pieteikuma iesniegšanas dienā.
