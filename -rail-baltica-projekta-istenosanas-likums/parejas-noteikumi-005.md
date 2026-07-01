@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2028. gada 31. decembrim sagatavo grozījumus normatīvajā regulējumā, paredzot vienreizēju atlīdzību par īpašuma lietošanas tiesību aprobežojumu, ko izraisa meliorācijas sistēmas izbūve.

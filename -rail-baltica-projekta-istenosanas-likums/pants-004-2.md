@@ -1,0 +1,2 @@
+4.² pants. Dabas resursu apsaimniekošana būvniecības ietvaros veikto zemes darbu procesā
+Par dabas resursu iegūšanu Rail Baltica dzelzceļa infrastruktūras un ar to saistīto būvju būvniecības teritorijā, kā arī par dabas resursu pārvietošanu Rail Baltica projekta būvobjektā ietilpstošo nekustamo īpašumu robežās vai vairāku būvobjektu ietvaros, kas nepieciešama, lai nodrošinātu Rail Baltica dzelzceļa infrastruktūras un ar to saistīto būvju būvniecību, nodoklis nav maksājams.

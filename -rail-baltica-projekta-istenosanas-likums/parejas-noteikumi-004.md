@@ -1,0 +1,1 @@
+4. Šā likuma 4.³ panta pirmajā daļā paredzētais būvatļaujās ietverto projektēšanas nosacījumu izpildes maksimālais termiņš attiecas arī uz Rail Baltica projekta ietvaros pirms 2026. gada 1. jūlija izdotajām būvatļaujām.
