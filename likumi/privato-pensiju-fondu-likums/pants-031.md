@@ -10,3 +10,5 @@
 4) sniedz, izmantojot atbilstoša lieluma rakstzīmes, noformē un maketē tā, lai informācija būtu viegli lasāma;
 5) sagatavo tās dalībvalsts oficiālajā valodā, kuras sociālās un darba tiesības attiecībā uz papildpensijas jomu piemēro attiecīgajam pensiju plānam;
 6) potenciālajiem pensiju plāna dalībniekiem, pensiju plāna dalībniekiem un papildpensijas saņēmējiem sniedz bez maksas, tai skaitā nodrošinot pastāvīgu informācijas nesēju.
+(3) Latvijā licencēts atklātais pensiju fonds vai PEPP sniedzējs katru darbdienu sniedz Latvijas Bankai informāciju par tā reģistrēto pensiju plānu vai PEPP plānu un tā darbības rezultātiem. Latvijas Banka nosaka sniedzamās informācijas saturu un sniegšanas kārtību.
+(4) Latvijas Banka nodrošina publisku piekļuvi informācijai par Latvijā licencēta atklātā pensiju fonda vai PEPP sniedzēja reģistrēto pensiju plānu vai PEPP plānu darbības rezultātiem, kā arī izdevumiem, kas ietver plānu pārvaldīšanu, līdzekļu pārvaldīšanu un turēšanu.
