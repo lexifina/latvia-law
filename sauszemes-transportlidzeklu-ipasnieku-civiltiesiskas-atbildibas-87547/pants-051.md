@@ -34,4 +34,4 @@
 6) ieņēmumi no Garantijas fonda līdzekļu glabāšanas un ieguldīšanas.
 (7) Garantijas fonda turētājs ir Transportlīdzekļu apdrošinātāju birojs. Lēmumus par Garantijas fonda līdzekļu izlietošanu atbilstoši noteiktajiem mērķiem pieņem Transportlīdzekļu apdrošinātāju birojs.
 (8) Garantijas fonda līdzekļu izlietojumu uzrauga Garantijas fonda padome. Padomes sastāvā ir katra apdrošinātāja pilnvarots pārstāvis un Transportlīdzekļu apdrošinātāju biroja valdes pilnvarots pārstāvis.
-(9) Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtību nosaka Ministru kabinets. Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtības ievērošanu uzrauga Latvijas Banka.
+(9) Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtību, tai skaitā šā likuma 36. panta astotajā daļā minēto maksu par atlīdzības lietas nokārtošanai nepieciešamajām darbībām, nosaka Ministru kabinets. Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtības ievērošanu uzrauga Latvijas Banka.
