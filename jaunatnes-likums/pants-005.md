@@ -8,7 +8,7 @@
 5) ļaut jaunatnes organizācijām nekomerciālos nolūkos izmantot pašvaldības jauniešu centra telpas vai citas pašvaldības rīcībā esošās telpas šā likuma 2.¹ panta trešajā daļā minēto pamatuzdevumu īstenošanai;
 6) noteikt citu kārtību, kādā veicams darbs ar jaunatni.
 (3) Pašvaldība nodrošina jaunatnes organizācijām un jauniešu iniciatīvu grupām (neformālas un nereģistrētas iniciatīvu grupas, interešu apvienības) iespēju iesaistīties jaunatnes politiku ietekmējošu pašvaldības lēmumu apspriešanā pirms to pieņemšanas.
-(4) Ja pašvaldībā darbu ar jaunatni nodrošina jaunatnes lietu speciālists, viņš ir apmācāms Ministru kabineta noteiktajā kārtībā.
+(4) Ja pašvaldībā darbu ar jaunatni nodrošina jaunatnes lietu speciālists vai jaunatnes darbinieks un ja viņa pamatkompetences neatbilst Ministru kabineta noteiktajām prasībām, viņam ir pienākums apgūt mācību programmu pamatkompetenču pilnveidei. Prasības attiecībā uz jaunatnes lietu speciālista un jaunatnes darbinieka pamatkompetencēm, kā arī kritērijus un kārtību, kādā īsteno un apgūst mācību programmu pamatkompetenču pilnveidei, nosaka Ministru kabinets.
 (5) Ja pašvaldība izveido jaunatnes lietu konsultatīvo komisiju, tās sastāvā iekļauj pašvaldības speciālistus, kuri veic darbu ar jaunatni. Pašvaldības jaunatnes lietu konsultatīvajā komisijā, ja nepieciešams, iesaista jauniešu domes, jaunatnes organizāciju, jauniešu iniciatīvu grupu vai citu tādu biedrību un nodibinājumu pārstāvjus, kas veic darbu ar jaunatni. Jaunatnes lietu konsultatīvās komisijas pamatuzdevumi ir šādi:
 1) veicināt pašvaldības iestāžu un struktūrvienību sadarbību jautājumos, kas attiecas uz jauniešiem;
 2) apkopot un analizēt informāciju par pašvaldības jauniešu problēmām, vajadzībām un interesēm;
