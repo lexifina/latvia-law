@@ -7,8 +7,8 @@
 2¹) nemaksā zemes īpašniekam šā likuma 12.¹ panta otrajā un piektajā daļā vai 12.² panta otrajā daļā paredzētos maksājumus vai normatīvajos aktos paredzētos nodokļus vai nodevas vai nesniedz šajā likumā noteikto informāciju zemes īpašniekam, vai spēku zaudē šā likuma 12.² panta trešajā daļā minētais finanšu nodrošinājums;
 3) izmanto zemes dzīles tādā veidā, kāds nav noteikts zemes dzīļu izmantošanas licencē;
 4) atkārtoti pārkāpj normatīvo aktu prasības attiecībā uz zemes dzīļu izmantošanu un aizsardzību vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas nosacījumus.
-(3¹) (Daļa stājas spēkā 01.07.2026. un ieļauta likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 36. punktu)
+(3¹) Zemes dzīļu izmantošanas licenci šā panta trešajā daļā minētajos gadījumos atceļ šīs licences izsniedzējs. Bieži sastopamo derīgo izrakteņu ieguves atļauju šā panta trešajā daļā minētajos gadījumos atceļ Valsts vides dienests.
 (4) Valsts vides dienesta lēmumu par zemes dzīļu izmantošanas licences atcelšanu var apstrīdēt, iesniedzot attiecīgu iesniegumu Valsts vides dienesta ģenerāldirektoram, bet Valsts vides dienesta ģenerāldirektora lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.
-(5) Pašvaldības lēmumu par bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu var apstrīdēt un pārsūdzēt Pašvaldību likumā un Administratīvā procesa likumā noteiktajā kārtībā.
+(5) (Izslēgta no 01.07.2026. ar 03.04.2025. likumu. Sk. pārejas noteikumu 36. punktu)
 (6) Iesnieguma iesniegšana šajā pantā noteiktā lēmuma par zemes dzīļu izmantošanas ierobežošanu vai apturēšanu vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu apstrīdēšanai vai pieteikuma iesniegšana tiesā par šāda lēmuma atcelšanu, spēkā esamību vai atzīšanu par prettiesisku neaptur šā lēmuma darbību.
 (7) Šā panta noteikumi nav attiecināmi uz ogļūdeņražu meklēšanu, izpēti un ieguvi.
