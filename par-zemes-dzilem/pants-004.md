@@ -7,7 +7,7 @@
 (3) Klimata un enerģētikas ministrija nodrošina zemes dzīļu fonda ģeoloģisko pārraudzību un racionālas izmantošanas kontroli.
 (4) Ministru kabinets nosaka ogļūdeņražu licenču laukumus, nosacījumus ogļūdeņražu meklēšanas, izpētes un ieguves licences saņemšanai, tās izsniegšanas un izmantošanas uzraudzības kārtību, licences atcelšanas, grozīšanas un apstrīdēšanas nosacījumus un kārtību, kā arī nosacījumus un kārtību ogļūdeņražu meklēšanas, izpētes un ieguves ierobežošanai vai ogļūdeņražu meklēšanas apturēšanai.
 (5) Vietējās pašvaldības savās administratīvajās teritorijās:
-1) Ministru kabineta noteiktajā kārtībā un ievērojot Valsts vides dienesta noteiktos ieguves limitus, izsniedz atļaujas bieži sastopamo derīgo izrakteņu ieguvei, izņemot šā likuma 10.panta pirmās daļas 3.punkta "a" un "b" apakšpunktā noteiktos gadījumus;
+1) (izslēgts no 01.07.2026. ar 03.04.2025. likumu. Sk. pārejas noteikumu 32. punktu);
 2) pārrauga derīgo izrakteņu ieguves vietu rekultivāciju.
-(6) Pašvaldībām nodoto funkciju izpildei nepieciešamo izdevumu segšanai izmanto ieņēmumus no valsts nodevas, kas saņemta par bieži sastopamo derīgo izrakteņu ieguves atļaujām.
-(7) (Izslēgta ar 16.12.2004. likumu.)
+(6) (Izslēgta no 01.07.2026. ar 03.04.2025. likumu. Sk. pārejas noteikumu 32. punktu)
+(7) (Izslēgta ar 16.12.2004. likumu)
