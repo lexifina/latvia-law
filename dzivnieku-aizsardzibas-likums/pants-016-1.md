@@ -4,4 +4,4 @@
 3) prasības, kas jāievēro, lai suns, kaķis vai mājas (istabas) sesks varētu uzturēties ārpus tā īpašnieka vai turētāja lietošanā esošas teritorijas;
 4) prasības attiecībā uz mājas (istabas) dzīvnieku demonstrēšanu publiskā izstādē;
 5) gadījumus, kad suni atļauts piesiet;
-6) (punkts stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu).
+6) gadījumus un kārtību, kādā pašvaldība mājas (istabas) dzīvnieku labturības prasību ievērošanas kontrolē iesaista Pārtikas un veterināro dienestu.

@@ -7,4 +7,4 @@
 6) klaiņojošs dzīvnieks ir atrasts smagā traumatiskā stāvoklī;
 7) 30 dienu laikā pēc tam, kad stājies spēkā lēmums par dzīvnieka konfiskāciju, neizdodas atrast tam jaunu īpašnieku;
 8) (izslēgts ar 03.12.2025. likumu);
-9) (punkts stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu).
+9) tas ir šā likuma 18.⁶ panta ceturtajā daļā minētais suns.
