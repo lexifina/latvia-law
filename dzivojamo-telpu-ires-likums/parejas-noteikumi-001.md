@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par dzīvojamo telpu īri" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 7. nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 4., 20. nr.; 1998, 15., 23. nr.; 2001, 16. nr.; 2005, 2. nr.; 2007, 3. nr.; 2009, 6. nr.; Latvijas Vēstnesis, 2010, 124. nr.; 2020, 117.A, 240.A nr.).

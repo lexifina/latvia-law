@@ -1,0 +1,3 @@
+42. pants. Traucējumu radīšana īrētās dzīvojamās telpas lietošanā
+(1) Par tādu traucējumu radīšanu, kas liedz īrniekam lietot īrēto dzīvojamo telpu, piemēro naudas sodu dzīvojamās telpas izīrētājam - fiziskajai personai - līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - līdz divtūkstoš astoņsimt naudas soda vienībām.
+(2) Par tādu traucējumu radīšanu, kas liedz īrniekam īrētajā dzīvojamā telpā izmantot apkuri, elektroenerģiju, auksto un karsto ūdeni, kanalizāciju, kā arī sadzīves atkritumu izvešanas pakalpojumu, piemēro naudas sodu dzīvojamās telpas izīrētājam - fiziskajai personai - līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai - līdz divtūkstoš astoņsimt naudas soda vienībām.

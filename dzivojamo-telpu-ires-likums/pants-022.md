@@ -1,0 +1,5 @@
+22. pants. Dzīvojamās telpas īres līguma izbeigšana, ja tiek bojāta dzīvojamā telpa vai māja vai citādi pārkāpti dzīvojamās telpas lietošanas noteikumi
+Izīrētājs var izbeigt dzīvojamās telpas īres līgumu, ja:
+1) īrnieks, viņa ģimenes locekļi vai citas iemitinātās personas bojā dzīvojamo telpu (arī tās iekārtu), citas būves un telpas, kas īrniekam nodotas lietošanā saskaņā ar dzīvojamās telpas īres līgumu, vai arī dzīvojamās mājas koplietošanas telpas, komunikācijas un iekārtas, pārkāpj līgumā paredzēto uzlabojumu, tai skaitā remontdarbu, veikšanas noteikumus, degradē vidi;
+2) īrnieks, viņa ģimenes locekļi vai citas iemitinātās personas izmanto dzīvojamo telpu, dzīvojamo māju, citas būves un telpas, kas īrniekam nodotas lietošanā, dzīvojamās telpas īres līgumā neparedzētiem mērķiem;
+3) īrnieks, viņa ģimenes locekļi vai citas iemitinātās personas citādi pārkāpj dzīvojamās telpas īres līgumā ietvertos dzīvojamās telpas lietošanas noteikumus vai arī padara pārējām personām dzīvošanu ar tām dzīvojamā telpā vai dzīvojamā mājā neiespējamu vai būtiski apgrūtinātu.

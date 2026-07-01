@@ -1,0 +1,5 @@
+16. pants. Īrnieka ģimenes locekļu un citu iemitināto personu tiesības un pienākumi
+(1) Personai ir tiesības lietot īrnieka īrēto dzīvojamo telpu tikai tad, ja tā ir iemitināta attiecīgajā dzīvojamā telpā šā likuma 14. pantā noteiktajā kārtībā.
+(2) Īrnieka ģimenes locekļi un citas viņa īrētajā dzīvojamā telpā iemitinātās personas patstāvīgas tiesības uz šīs dzīvojamās telpas lietošanu neiegūst. Izbeidzoties īrnieka tiesībām lietot dzīvojamo telpu, izbeidzas arī viņa ģimenes locekļu un citu iemitināto personu tiesības lietot šo dzīvojamo telpu.
+(3) Īrnieka nāves gadījumā īrnieka ģimenes loceklim, kurš saskaņā ar šā likuma 14. panta noteikumiem ir iemitināts dzīvojamā telpā, triju mēnešu laikā ir tiesības prasīt dzīvojamās telpas īres līguma noslēgšanu ar viņu iepriekšējā īrnieka vietā, nemainot iepriekšējā īres līguma nosacījumus, izņemot īres līguma termiņu, kuru nosaka ne ilgāku par 10 gadiem.
+(4) Īrnieka ģimenes loceklim, kurš ir noslēdzis īres līgumu saskaņā ar šā panta trešās daļas noteikumiem, ir pienākums segt iepriekšējā īrnieka nesamaksāto īres maksu un citus ar dzīvojamās telpas lietošanu saistītos maksājumus.

@@ -1,0 +1,2 @@
+38. pants. Prasības attiecībā uz nostiprinājuma lūgumu
+Privātpersonas parakstu uz šajā likumā noteiktajā kārtībā iesniegta nostiprinājuma lūguma apliecina zvērināts notārs vai tiesa, ja nostiprinājuma lūdzējs nostiprinājuma lūgumu iesniedz personīgi, izņemot gadījumu, kad nostiprinājuma lūgums ir parakstīts ar drošu elektronisko parakstu atbilstoši normatīvajiem aktiem par elektroniskajiem dokumentiem. Ja nostiprinājuma lūgums parakstīts ar drošu elektronisko parakstu, personas rīcībspēju pārbauda rajona (pilsētas) tiesa, pamatojoties uz Iedzīvotāju reģistra datiem.

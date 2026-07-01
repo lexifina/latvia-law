@@ -1,0 +1,6 @@
+12. pants. Drošības nauda
+(1) Izīrētājs, slēdzot dzīvojamās telpas īres līgumu, ir tiesīgs dzīvojamās telpas īres līguma saistību izpildes nodrošināšanai prasīt no īrnieka drošības naudas iemaksu, kas nepārsniedz divu mēnešu īres maksu. Drošības nauda ir samaksājama dzīvojamās telpas īres līgumā noteiktajā kārtībā un termiņos.
+(2) Ja īrnieks, dzīvojamās telpas īres līgumam izbeidzoties, ir parādā izīrētājam jebkādus dzīvojamās telpas īres līgumā paredzētos maksājumus, parāds tiek dzēsts no drošības naudas un izīrētājs par to nekavējoties paziņo īrniekam.
+(3) Dzīvojamās telpas īres līgumā var paredzēt, ka izīrētājam ir tiesības izlietot drošības naudu kavētu līgumā paredzētu maksājumu segšanai arī dzīvojamās telpas īres līguma darbības laikā, kā arī paredzēt īrnieka pienākumu no jauna iemaksāt izlietoto drošības naudu.
+(4) Ja, dzīvojamās telpas īres līgumam izbeidzoties, drošības nauda līguma saistību izpildes nodrošināšanai nav izmantota vai ir izmantota daļēji, tā pilnībā vai tās atlikusī daļa atdodama īrniekam ne vēlāk kā dienā, kad dzīvojamā telpa tiek atbrīvota, ja dzīvojamās telpas īres līgumā nav noteikts citādi.
+(5) Dzīvojamās telpas īres līgumā var paredzēt citus īrnieka saistību pastiprinājumus.

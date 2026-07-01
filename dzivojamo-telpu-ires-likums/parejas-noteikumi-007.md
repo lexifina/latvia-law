@@ -1,0 +1,1 @@
+7. Ja izīrētājs un īrnieks, kurš īrē dzīvojamo telpu denacionalizētā vai likumīgajam īpašniekam atdotā mājā un ir to lietojis līdz īpašuma tiesību atjaunošanai, nevar vienoties par šo pārejas noteikumu 4. vai 5. punktā minēto, strīdu izšķir tiesa un šāda prasība ir ceļama ne ātrāk kā 2023. gada 31. decembrī, bet ne vēlāk kā līdz 2026. gada 31. decembrim.

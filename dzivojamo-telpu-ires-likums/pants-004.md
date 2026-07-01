@@ -1,0 +1,2 @@
+4. pants. Dzīvojamās telpas īres līguma priekšmets
+Dzīvojamās telpas īres līguma priekšmets ir dzīvoklis (dzīvojamā māja), kurā ir vismaz viena dzīvojamā telpa, kā arī palīgtelpas - virtuve vai virtuves niša un sanitārtehniskā telpa. Dzīvojamās telpas īres līguma priekšmets var būt arī atsevišķa dzīvojamā telpa, ja dzīvoklī nav palīgtelpu, vai arī dzīvojamā telpa dzīvoklī, ja tā nav caurstaigājama (turpmāk - dzīvojamā telpa).

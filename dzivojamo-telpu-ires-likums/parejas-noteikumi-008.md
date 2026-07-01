@@ -1,0 +1,1 @@
+8. Pēc 2021. gada 1. maija pašvaldību īres valdes, kuras izveidotas saskaņā ar likumu "Par dzīvojamo telpu īri", turpina savu darbību, lai pabeigtu ierosināto lietu izskatīšanu. Pašvaldības, kuras izveidojušas īres valdes, lemj par īres valdes funkciju pārskatīšanu, pamatojoties uz pašvaldību darbību regulējošiem normatīvajiem aktiem, vai par tās likvidāciju.
