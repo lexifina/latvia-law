@@ -1,0 +1,1 @@
+1. pants. 2025. gada 19. septembrī parakstītais Pasaules Pasta savienības Vispārīgā reglamenta Piektais papildprotokols (turpmāk - Vispārīgā reglamenta Piektais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
