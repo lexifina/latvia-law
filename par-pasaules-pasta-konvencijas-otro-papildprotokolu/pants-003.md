@@ -1,0 +1,1 @@
+3. pants. Ārlietu ministrija par Konvencijas Otrā papildprotokola spēkā stāšanos paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms Konvencijas Otrais papildprotokols angļu valodā un publicējams tā tulkojums latviešu valodā.
