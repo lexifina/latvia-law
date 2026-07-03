@@ -1,0 +1,2 @@
+1. pants.
+Šā likuma mērķis ir atbilstoši Latvijas Republikas Satversmes 98. panta trešajam teikumam apstiprināt un saskaņā ar Tirdzniecības un sadarbības nolīguma starp Eiropas Savienību un Eiropas Atomenerģijas kopienu, no vienas puses, un Lielbritānijas un Ziemeļīrijas Apvienoto Karalisti, no otras puses (turpmāk - Nolīgums) 603. panta otro daļu atļaut Latvijas pilsoņu izdošanu Lielbritānijas un Ziemeļīrijas Apvienotajai Karalistei.
