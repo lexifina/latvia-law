@@ -16,4 +16,5 @@
 13) aizsargjoslas ap seismoloģiskā monitoringa posteņiem;
 14) aizsargjoslas ap aizsprostu drošuma noteikšanas kontrolmērietaisēm;
 15) aizsargjoslas ap valsts aizsardzības objektiem;
-16) aizsargjoslas ap optiskajiem teleskopiem un radioteleskopiem.
+16) aizsargjoslas ap optiskajiem teleskopiem un radioteleskopiem;
+17) aizsargjoslas gar valsts robežas joslu.

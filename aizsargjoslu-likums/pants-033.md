@@ -9,6 +9,7 @@
 (8) Objekta īpašnieks vai valdītājs grafiski attēlo šā likuma 15.pantā, 16.panta otrās daļas 2.¹ punktā, 18.pantā, 21.panta otrajā daļā un 23.¹ pantā noteikto aizsargjoslu robežas, saskaņo tās ar attiecīgo pašvaldību un aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
 (9) Šā likuma 14., 16. (izņemot 16.panta otrās daļas 2.¹ punktu), 17., 19., 20.pantā, 21.panta trešajā un ceturtajā daļā, 22., 23., 30., 32.² un 32.⁴ pantā noteiktās aizsargjoslas robežu grafiski attēlo Apgrūtināto teritoriju informācijas sistēmas likumā noteiktajā kārtībā.
 (10) Vietējā pašvaldība grafiski attēlo šā likuma 6., 7., 7.¹, 8., 9., 11., 13., 25., 26., 28., 32. un 32.³ pantā noteikto aizsargjoslu robežas un šo aizsargjoslu robežu datus iesniedz Valsts zemes dienestam.
+(10¹) Atbildīgā institūcija grafiski attēlo šā likuma 23.³ pantā noteiktās aizsargjoslas robežas un šīs aizsargjoslas robežu datus iesniedz Valsts zemes dienestam.
 (11) Ierosinot stacionārā radiomonitoringa punkta būvniecību, stacionārā radiomonitoringa punkta īpašnieks:
 1) saskaņo attiecīgā punkta būvniecību ar ēkas vai būves, uz kuras ierosināts uzstādīt stacionāro radiomonitoringa punktu, īpašnieku, tiesisko valdītāju vai dzīvokļu īpašnieku kopību, ja attiecīgā ēka ir daudzdzīvokļu mājas dzīvokļu īpašnieku kopīpašums;
 2) saskaņo attiecīgā stacionārā radiomonitoringa punkta būvniecību ar vietējo pašvaldību;
