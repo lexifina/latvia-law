@@ -1,0 +1,2 @@
+63. pants. (1) Ar ieceļošanas vai uzturēšanās ierobežojumu saistītu lēmumu Savienības pilsonim un viņa ģimenes loceklim paziņo rakstveidā valodā, ko viņš saprot, vai valodā, kuru ir pamats uzskatīt par viņam saprotamu, lai viņš būtu informēts par lēmuma saturu un no tā izrietošajām sekām.
+(2) Ar ieceļošanas vai uzturēšanās ierobežojumu saistītajā lēmumā izskaidro valsts drošības, sabiedriskās kārtības vai drošības vai sabiedrības veselības apsvērumus, uz kuru pamata šis lēmums ir pieņemts, izņemot gadījumu, kad tas ir pretrunā ar valsts drošības interesēm.

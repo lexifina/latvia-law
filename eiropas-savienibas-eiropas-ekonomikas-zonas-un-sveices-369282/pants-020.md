@@ -1,0 +1,1 @@
+20. pants. Ja Savienības pilsonis vai viņa ģimenes loceklis, kurš ir Savienības pilsonis, ir tiesīgs uzturēties Latvijas Republikā pastāvīgi, viņam izsniedz Savienības pilsoņa personas apliecību (turpmāk - pastāvīgās uzturēšanās apliecība), kurā izdarīts ieraksts "Savienības pilsoņa pastāvīgās uzturēšanās apliecība".

@@ -1,0 +1,1 @@
+61. pants. Izbraukšanas rīkojumā un lēmumā par Savienības pilsoņa vai viņa ģimenes locekļa iekļaušanu sarakstā papildus Administratīvā procesa likumā noteiktajām ziņām iekļauj datumu un identificējošo numuru atzinumam vai informācijai par šā likuma 43., 45., 48. vai 49. pantā minēto nosacījumu esību.

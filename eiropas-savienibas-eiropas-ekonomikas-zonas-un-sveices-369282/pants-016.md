@@ -1,0 +1,1 @@
+16. pants. Savienības pilsoņa ģimenes loceklim atsaka vīzas izsniegšanu, kā arī atceļ vai anulē vīzu, ja viņa ģimenes loceklis rada faktiskus, konkrētajā brīdī pastāvošus un pietiekami nopietnus draudus valsts drošībai, sabiedriskajai kārtībai vai drošībai vai sabiedrības veselībai.

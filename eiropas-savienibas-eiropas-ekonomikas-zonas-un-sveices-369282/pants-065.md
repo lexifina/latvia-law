@@ -1,0 +1,1 @@
+65. pants. Savienības pilsonim vai viņa ģimenes loceklim ir tiesības lēmumu par iekļaušanu sarakstā un tajā ietverto lēmumu par piespiedu izraidīšanu vai izbraukšanas rīkojumu un tajā ietverto lēmumu par iekļaušanu sarakstā mēneša laikā pēc tā saņemšanas pārsūdzēt Administratīvajā apgabaltiesā. Pieteikuma iesniegšana tiesā neaptur minēto lēmumu izpildi.

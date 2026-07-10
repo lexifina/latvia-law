@@ -1,0 +1,1 @@
+34. pants. Šā likuma 19. panta pirmajā daļā minēto reģistrācijas apliecību Savienības pilsonim izsniedz nekavējoties pēc to dokumentu iesniegšanas, kuri noteikti Ministru kabineta noteikumos Savienības pilsoņu un viņu ģimenes locekļu uzturēšanās tiesības apliecinošo dokumentu saņemšanas jomā.

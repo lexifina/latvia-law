@@ -1,0 +1,1 @@
+2. Dokumentus reģistrācijas apliecības, pastāvīgās uzturēšanās apliecības, uzturēšanās atļaujas vai pastāvīgās uzturēšanās atļaujas pieprasīšanai, kas iesniegti līdz šā likuma spēkā stāšanās dienai, izskata saskaņā ar Ministru kabineta 2011. gada 30. augusta noteikumiem Nr. 675 "Kārtība, kādā Savienības pilsoņi un viņu ģimenes locekļi ieceļo un uzturas Latvijas Republikā".

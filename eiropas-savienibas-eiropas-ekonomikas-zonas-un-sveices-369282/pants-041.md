@@ -1,0 +1,1 @@
+41. pants. Ja Savienības pilsonis vai viņa ģimenes loceklis laikus nav saņēmis šā likuma 19., 20., 21. vai 22. pantā noteiktos uzturēšanās tiesības apliecinošos dokumentus vai ir beidzies viņa ceļošanas dokumenta derīguma termiņš, tas nevar būt par pamatu viņa izraidīšanai no Latvijas Republikas.

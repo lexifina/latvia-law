@@ -1,0 +1,1 @@
+42. pants. Latvijas Republikā nav tiesīgs ieceļot un uzturēties Savienības pilsonis vai viņa ģimenes loceklis, kurš saskaņā ar šo likumu ir iekļauts to ārzemnieku sarakstā, kuriem ieceļošana Latvijas Republikā ir aizliegta (turpmāk - saraksts).

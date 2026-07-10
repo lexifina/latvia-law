@@ -1,0 +1,2 @@
+40. pants. (1) Pārvaldes amatpersonas lēmumu par atteikumu izsniegt reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību, uzturēšanās atļauju vai pastāvīgās uzturēšanās atļauju vai par reģistrācijas apliecības, pastāvīgās uzturēšanās apliecības, uzturēšanās atļaujas vai pastāvīgās uzturēšanās atļaujas anulēšanu Savienības pilsonis vai viņa ģimenes loceklis var apstrīdēt, iesniedzot attiecīgu iesniegumu Pārvaldes priekšniekam.
+(2) Pārvaldes priekšnieka lēmumu Savienības pilsonis vai viņa ģimenes loceklis var pārsūdzēt tiesā likumā noteiktajā kārtībā.

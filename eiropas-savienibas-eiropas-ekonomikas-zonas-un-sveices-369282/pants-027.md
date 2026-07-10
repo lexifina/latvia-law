@@ -1,0 +1,5 @@
+27. pants. Savienības pilsonis, kas vairs nav darba ņēmējs vai pašnodarbināta persona, saglabā darbinieka vai pašnodarbinātas personas statusu Latvijas Republikā, ja viņš:
+1) uz laiku ir darbnespējīgs slimības vai nelaimes gadījuma dēļ;
+2) ir reģistrēts Nodarbinātības valsts aģentūrā kā bezdarbnieks vai darba meklētājs, līdz reģistrācijai ir bijis nodarbināts ilgāk par gadu un nodarbinātības pārtraukums iestājies no viņa neatkarīgu apstākļu dēļ;
+3) ir reģistrēts Nodarbinātības valsts aģentūrā kā bezdarbnieks vai darba meklētājs pirmo 12 mēnešu laikā pēc darba uzsākšanas vai ja darba līgums bijis noslēgts uz laiku, kas ir īsāks par vienu gadu. Šādā gadījumā darbinieka statusu Savienības pilsonim saglabā sešus mēnešus;
+4) ir uzsācis ar iepriekšējo nodarbinātību saistītas profesionālās izglītības programmas apguvi Izglītības iestāžu reģistrā reģistrētā profesionālās izglītības iestādē. Nosacījumu par izglītības programmas apguves saistību ar iepriekšējo nodarbinātību nepiemēro, ja nodarbinātības pārtraukums iestājies no personas neatkarīgu apstākļu dēļ.

@@ -1,0 +1,1 @@
+46. pants. Lemjot jautājumu par izbraukšanas rīkojuma izdošanu, ņem vērā, piemēram, cik ilgi attiecīgais Savienības pilsonis vai viņa ģimenes loceklis uzturējies Latvijas Republikā, viņa vecumu, veselības stāvokli, ģimenes un ekonomisko stāvokli, sociālo un kulturālo integrāciju Latvijas Republikā un saikni ar izcelsmes valsti.

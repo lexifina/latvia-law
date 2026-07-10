@@ -1,0 +1,1 @@
+68. pants. Ja lēmumu par Savienības pilsoņa vai viņa ģimenes locekļa iekļaušanu sarakstā, piespiedu izraidīšanu vai izbraukšanas rīkojumu ir pieņēmis iekšlietu ministrs, tiesvedībā piemēro Imigrācijas likuma XI nodaļas nosacījumus.

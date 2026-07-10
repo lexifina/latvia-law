@@ -1,0 +1,1 @@
+45. pants. Izbraukšanas rīkojumu izdod, ja Savienības pilsonis vai viņa ģimenes loceklis rada faktiskus, attiecīgajā brīdī esošus un pietiekami nopietnus draudus valsts drošībai vai sabiedriskajai kārtībai vai drošībai, kas skar kādu no sabiedrības pamatinteresēm. Iepriekšēja krimināla sodāmība nevar būt par pamatu izbraukšanas rīkojuma izdošanai.

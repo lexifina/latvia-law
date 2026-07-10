@@ -1,0 +1,1 @@
+28. pants. Savienības pilsonim ir tiesības saņemt pastāvīgās uzturēšanās apliecību, ja viņš tieši pirms pastāvīgās uzturēšanās tiesību pieprasīšanas nepārtraukti piecus gadus ir likumīgi uzturējies Latvijas Republikā.

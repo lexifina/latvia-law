@@ -1,0 +1,2 @@
+21. pants. (1) Ja Savienības pilsoņa ģimenes loceklis, kurš nav Savienības pilsonis, uzturas Latvijas Republikā noteiktu laiku, viņam izsniedz Savienības pilsoņa ģimenes locekļa uzturēšanās atļauju (turpmāk - uzturēšanās atļauja), kurā izdarīts ieraksts "Savienības pilsoņa ģimenes locekļa uzturēšanās atļauja".
+(2) Uzturēšanās atļauju izsniedz uz pieciem gadiem vai uz īsāku termiņu, ja paredzamais laiks, kurā Latvijas Republikā uzturēsies Savienības pilsonis un ar viņu kopā - arī Savienības pilsoņa ģimenes loceklis, kurš nav Savienības pilsonis, ir īsāks par pieciem gadiem.

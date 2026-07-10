@@ -1,0 +1,1 @@
+66. pants. Ieceļošanas aizlieguma termiņu skaita no dienas, kad Savienības pilsonis vai viņa ģimenes loceklis izceļojis no Latvijas Republikas, bet, ja viņš atrodas ārpus Latvijas Republikas, - no attiecīgā lēmuma pieņemšanas dienas.

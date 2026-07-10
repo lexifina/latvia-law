@@ -1,0 +1,1 @@
+9. pants. Savienības pilsonis un viņa ģimenes loceklis ir tiesīgs ieceļot un uzturēties Latvijas Republikā uz laiku līdz trim mēnešiem, skaitot no pirmās ieceļošanas dienas, ja viņam ir derīgs ceļošanas dokuments un viņš nerada faktiskus, attiecīgajā brīdī esošus un pietiekami nopietnus draudus valsts drošībai, sabiedriskajai kārtībai vai drošībai vai sabiedrības veselībai.

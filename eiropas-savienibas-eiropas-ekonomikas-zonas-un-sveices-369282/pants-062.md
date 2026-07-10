@@ -1,0 +1,1 @@
+62. pants. Lēmumu, kas pieņemts saskaņā ar šā likuma 49. panta pirmo daļu par Savienības pilsoņa vai viņa ģimenes locekļa iekļaušanu sarakstā, Savienības pilsonim vai viņa ģimenes loceklim, kurš neatrodas Latvijas Republikā un kura atrašanās vieta nav zināma, izsniedz pēc viņa pieprasījuma.

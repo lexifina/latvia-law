@@ -1,0 +1,1 @@
+3. Šā likuma regulējumu attiecina uz tiem Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes pilsoņiem un viņu ģimenes locekļiem, kuriem piemērojami likuma "Par tiesisko sadarbību un personu tiesību aizsardzību pārejas periodā pēc Lielbritānijas un Ziemeļīrijas Apvienotās Karalistes izstāšanās no Eiropas Savienības" nosacījumi par tiesībām uzturēties Latvijas Republikā.

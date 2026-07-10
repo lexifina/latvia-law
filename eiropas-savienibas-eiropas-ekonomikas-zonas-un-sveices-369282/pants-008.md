@@ -1,0 +1,1 @@
+8. pants. Šā likuma 19., 20., 21. un 22. pantā minēto dokumentu, kā arī 35. pantā minētās izziņas esību nevar uzskatīt par priekšnoteikumu tam, lai Savienības pilsonis vai viņa ģimenes loceklis varētu īstenot kādas tiesības vai saņemt valsts pārvaldes iestādes sniegtu pakalpojumu, ja viņš apstiprina savas tiesības (statusu) ar citiem pierādījumiem.

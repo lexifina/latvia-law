@@ -1,0 +1,1 @@
+22. pants. Ja Savienības pilsoņa ģimenes loceklis, kurš nav Savienības pilsonis, uzturas Latvijas Republikā pastāvīgi, viņam izsniedz Savienības pilsoņa ģimenes locekļa pastāvīgās uzturēšanās atļauju (turpmāk - pastāvīgās uzturēšanās atļauja), kurā izdarīts ieraksts "Savienības pilsoņa ģimenes locekļa uzturēšanās atļauja".

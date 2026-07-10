@@ -1,0 +1,1 @@
+15. pants. Savienības pilsoņa ģimenes loceklim izsniedz vienoto vīzu daudzkārtējai ieceļošanai ar iespējami garāku derīguma termiņu. Ja vīzu Savienības pilsoņa ģimenes loceklim izsniedz robežšķērsošanas vietā, vīzas termiņš nepārsniedz 15 dienas. Vīzu izsniedz iespējami īsākā laikā atbilstoši normatīvajiem aktiem vīzu izsniegšanas jomā.

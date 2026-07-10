@@ -1,0 +1,1 @@
+36. pants. Lēmumu par uzturēšanās tiesības apliecinoša dokumenta izsniegšanu Savienības pilsoņa ģimenes loceklim, kurš nav Savienības pilsonis, Pārvalde pieņem nekavējoties tad, ja persona pieprasa atjaunot pastāvīgās uzturēšanās atļauju.

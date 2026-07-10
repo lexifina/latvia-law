@@ -1,0 +1,1 @@
+70. pants. Par pieteikuma jaunas reģistrācijas apliecības, pastāvīgās uzturēšanās apliecības, uzturēšanās atļaujas vai pastāvīgās uzturēšanās atļaujas pieprasīšanai neiesniegšanu šā likuma 37. panta otrajā daļā noteiktajā termiņā personai piemēro brīdinājumu vai naudas sodu līdz septiņām naudas soda vienībām.

@@ -1,0 +1,2 @@
+54. pants. (1) Savienības pilsonim vai viņa ģimenes loceklim ir tiesības lēmumu par aizturēšanu pārsūdzēt rajona (pilsētas) tiesā. Pieteikuma iesniegšana tiesā neaptur lēmuma darbību.
+(2) Rajona (pilsētas) tiesa nekavējoties izskata iesniegto sūdzību un pieņem lēmumu pēc būtības. Šis lēmums nav pārsūdzams. Lēmumu nosūta Savienības pilsonim vai viņa ģimenes loceklim un Valsts robežsardzei 24 stundu laikā no tā pieņemšanas brīža.
