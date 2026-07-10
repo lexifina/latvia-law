@@ -3,5 +3,5 @@
 soda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
 (2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi personu grupa pēc iepriekšējas vienošanās, -
 soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.
-(3) Par muitošanai pakļauto preču vai citu vērtību glabāšanu, pārvietošanu, pārsūtīšanu vai realizēšanu Latvijas Republikas muitas teritorijā bez muitas iestāžu atļaujas, ja tas izdarīts lielā apmērā, -
+(3) Par muitošanai pakļauto preču vai citu vērtību glabāšanu, pārvietošanu, pārsūtīšanu vai realizēšanu Latvijas Republikas muitas teritorijā bez muitas iestāžu atļaujas, ja tas izdarīts lielā apmērā, vai ja tas izdarīts, izmantojot ierīci, kas pārvietojas gaisa telpā, -
 soda ar brīvības atņemšanu uz laiku līdz sešiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību vai bez tās, atņemot tiesības uz noteiktu vai visu veidu komercdarbību vai uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz pieciem gadiem.
