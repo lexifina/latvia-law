@@ -4,4 +4,4 @@
 2) atbilstības novērtēšanas procedūrām, testēšanas procedūrām, testēšanas pārskatiem un akreditācijas sistēmām;
 3) atbilstības novērtēšanas procedūru rezultātiem, arī testēšanas rezultātiem, atbilstības sertifikātiem un atbilstības vai inspicēšanas zīmēm.
 (3) (Izslēgta ar 16.02.2023. likumu)
-(4) Būtiskās prasības nepārtikas precēm, uz kurām neattiecas Eiropas Savienības saskaņotie tiesību akti, pēc atbildīgās ministrijas priekšlikuma nosaka Ministru kabinets.
+(4) (Izslēgta ar 11.06.2026. likumu)
