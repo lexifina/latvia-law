@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Preču un pakalpojumu drošuma likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2004, 10. nr.; 2005, 14. nr.; 2008, 3. nr.; Latvijas Vēstnesis, 2011, 33. nr.; 2014, 66. nr.; 2019, 225. nr.).

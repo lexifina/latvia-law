@@ -1,0 +1,1 @@
+2. Ministru kabinets līdz 2026. gada 31. oktobrim izdod šā likuma 3. panta otrajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. oktobrim piemēro Ministru kabineta 2014. gada 9. decembra noteikumus Nr. 755 "Gāzes balonu aprites, uzraudzības un kontroles kārtība", ciktāl tie nav pretrunā ar šo likumu.
