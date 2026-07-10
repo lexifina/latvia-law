@@ -1,0 +1,1 @@
+Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2024. gada 31. maija direktīvas (ES) 2024/1619, ar ko groza direktīvu 2013/36/ES attiecībā uz uzraudzības pilnvarām, sankcijām, trešo valstu filiālēm un vides, sociālajiem un pārvaldības riskiem.
