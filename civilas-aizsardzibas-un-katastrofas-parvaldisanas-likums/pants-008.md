@@ -11,4 +11,5 @@
 6) nosaka valsts civilās aizsardzības kontaktpunkta izveidošanas kārtību, uzdevumus un tiesības, kā arī kārtību, kādā tas sadarbojas ar Ārkārtējo situāciju reaģēšanas un koordinēšanas centru, Eiroatlantijas katastrofu reaģēšanas un koordinēšanas centru un citām starptautiskajām organizācijām un ārvalstīm;
 7) nosaka valsts agrīnās brīdināšanas sistēmas izveidošanas, darbības un finansēšanas kārtību;
 8) nosaka kārtību, kādā pielāgota būve vai tās daļa atzīstama par patvertni, un kārtību, kādā veic patvertņu pārbaudes;
-9) nosaka civilās aizsardzības zīmju sarakstu un izvietošanas prasības.
+9) nosaka civilās aizsardzības zīmju sarakstu un izvietošanas prasības;
+10) nosaka kārtību, termiņus un apmēru militāro darbību izraisītu incidentu rezultātā radušos tiešo zaudējumu kompensēšanai par publisko tiesību juridisko personu īpašumā vai valdījumā esošajiem infrastruktūras objektiem, privāto tiesību juridisko personu vai fizisko personu īpašumā vai valdījumā esošām lietām, kā arī sējumiem, stādījumiem, mežaudzēm un dzīvniekiem.

@@ -8,7 +8,7 @@ d) klimatoloģiskās - stiprs sals vai karstums, apledojums, sausums, mežu un k
 e) bioloģiskās - epidēmijas, epizootijas, epifitotijas,
 f) kosmiskās - meteorītu nokrišana, ģeomagnētiskās vētras;
 2) cilvēku izraisītās jeb antropogēnās katastrofas:
-a) tehnogēnās katastrofas, kuras rodas ķīmisko, radioaktīvo un bioloģisko vielu noplūdes, ēkās un būvēs izcēlušos ugunsgrēku, sprādzienu, dambju un citu hidrotehnisko būvju pārrāvumu, elektrotīklu bojājumu, komunālo tīklu avāriju, ēku un būvju sabrukuma vai transporta avāriju rezultātā,
+a) tehnogēnās katastrofas, kuras rodas ķīmisko, radioaktīvo un bioloģisko vielu noplūdes, ēkās un būvēs izcēlušos ugunsgrēku, sprādzienu, dambju un citu hidrotehnisko būvju pārrāvumu, elektrotīklu bojājumu, komunālo tīklu avāriju, ēku un būvju sabrukuma, transporta avāriju vai militāro darbību izraisītu incidentu rezultātā,
 b) sabiedriskās nekārtības, terora akti un iekšējie nemieri.
 (2) Atbilstoši radīto postījumu apjomam izšķir:
 1) vietēja mēroga katastrofas - katastrofas radīto postījumu apjoms nepārsniedz vienas pašvaldības administratīvās teritorijas robežas;
