@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "\"Grozījumi Ministru kabineta 2010. gada 21. jūnija noteikumos Nr. 564 \"Uzturēšanās atļauju noteikumi\"\"",
+  "type_of_act": null,
+  "official_journal": null,
+  "official_journal_reference": "2026/129.4",
+  "official_journal_page": null,
+  "official_journal_date": "2026-07-09",
+  "entry_into_force": "2026-07-10",
+  "notification_date": "2026-07-14",
+  "commission_reference": "MNE(2026)05448",
+  "nim_celex": "72024L1233LVA_202605448",
+  "nim_id": "202605448",
+  "transposes_celex": [
+    "32024L1233"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/41c2c177-9206-4880-94ed-12f2ab481430",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
