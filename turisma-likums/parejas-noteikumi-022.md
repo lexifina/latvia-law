@@ -1,0 +1,1 @@
+22. Šā likuma grozījumi par 1. panta pirmās daļas 8. punkta un 6.¹ panta izteikšanu jaunā redakcijā, kā arī grozījums šā likuma 6. panta otrajā daļā par tās 8. punkta izslēgšanu stājas spēkā 2027. gada 1. janvārī.
