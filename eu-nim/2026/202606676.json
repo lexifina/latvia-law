@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 7. jūlija noteikumi Nr. 389 \"Jūras transporta nododamo kvotu apjoma noteikšanas kārtība\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "129",
+  "official_journal_page": null,
+  "official_journal_date": "2026-07-09",
+  "entry_into_force": "2026-07-10",
+  "notification_date": "2026-08-26",
+  "commission_reference": "MNE(2026)06676",
+  "nim_celex": "72023L0959LVA_202606676",
+  "nim_id": "202606676",
+  "transposes_celex": [
+    "32023L0959"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/ff508968-5d7f-494d-83f0-7b27444be554",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
