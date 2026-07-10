@@ -4,7 +4,7 @@
 2) sniedz Ministru kabinetam un pašvaldībām atzinumu par valsts budžeta un pašvaldību budžetu projektiem attiecībā uz bibliotēku finansēšanu, kā arī par citiem ar bibliotēku darbību saistītiem jautājumiem;
 3) sniedz atzinumu par valsts un pašvaldību bibliotēku dibināšanu, reorganizēšanu vai likvidēšanu;
 4) sniedz atzinumus par bibliotēku atbilstību akreditācijas prasībām;
-5) sniedz atzinumus Nacionālā kopkataloga, Nacionālā bibliotēku krājuma veidošanas un saglabāšanas jautājumos;
+5) sniedz atzinumus Nacionālā kopkataloga, Bibliotēku kopkrājuma un Nacionālā bibliotēku krājuma veidošanas un saglabāšanas jautājumos;
 6) sniedz atzinumus par zinātniskās pētniecības darbu bibliotēkzinātnes un informācijas jomā;
 7) sniedz atzinumus bibliotēku sadarbības un attīstības, kā arī starptautiskās sadarbības jautājumos;
 8) sniedz atzinumus bibliotēku darbinieku profesionālās izglītības un tālākizglītības jautājumos;

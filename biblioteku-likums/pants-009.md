@@ -1,5 +1,6 @@
 9.pants. Bibliotēku akreditācija
 (1) Valsts vai pašvaldības dibinātai bibliotēkai ir pienākums akreditēties Ministru kabineta noteiktajā kārtībā un termiņos. Privāto bibliotēku akreditācija nav obligāta.
+(1¹) (Daļa stājas spēkā 01.09.2028. un iekļauta likuma redakcijā uz 01.09.2028. Sk. pārejas noteikumu 14. punktu)
 (2) Bibliotēka ir akreditējama, ja tā atbilst šādiem nosacījumiem:
 1) tai ir apstiprināts nolikums (reglaments, statūti);
 2) tai ir organizēts iespieddarbu un cita veida dokumentu krājums (ir veikta krājuma uzskaite, izveidota bibliotēkas informācijas sistēma);
@@ -10,4 +11,5 @@
 7) ir bibliotēkas nolikumā (statūtos) noteiktajā kārtībā izstrādāti bibliotēkas lietošanas noteikumi;
 8) tā pilnībā atbilst šā likuma 11.,12. vai 13.panta noteikumiem.
 (3) Bibliotēku akreditācija veicama reizi piecos gados saskaņā ar Ministru kabineta izdotajiem bibliotēku akreditācijas noteikumiem. Akreditāciju veic un akreditācijas dokumentus, ievērojot Latvijas Bibliotēku padomes atzinumu, izsniedz Kultūras ministrija.
-(4) Ja valsts vai pašvaldības bibliotēka netiek akreditēta, tai gada laikā no akreditācijas atteikuma dienas atkārtoti jāiesniedz akreditācijai nepieciešamie dokumenti. Ja arī atkārtoti bibliotēka netiek akreditēta, tā tiek likvidēta, ievērojot šā likuma 6.panta noteikumus, un izslēdzama no Bibliotēku reģistra.
+(4) Ja valsts vai pašvaldības bibliotēka netiek akreditēta, tai gada laikā no akreditācijas atteikuma dienas atkārtoti jāiesniedz akreditācijai nepieciešamie dokumenti. Ja arī atkārtoti valsts vai pašvaldības bibliotēka netiek akreditēta, tās akreditāciju atkārto ik pēc gada, līdz tā tiek akreditēta uz sešiem gadiem.
+(5) (Daļa stājas spēkā 01.09.2028. un iekļauta likuma redakcijā uz 01.09.2028. Sk. pārejas noteikumu 14. punktu)

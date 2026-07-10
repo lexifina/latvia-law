@@ -1,0 +1,1 @@
+15. Grozījums šā likuma 9. panta trešajā daļā par vārda "piecos" aizstāšanu ar vārdu "sešos" stājas spēkā 2027. gada 1. janvārī. Bibliotēkas akreditācijas apliecība, kas izsniegta līdz 2026. gada 31. decembrim, ir derīga sešus gadus no bibliotēkas akreditācijas dienas.

@@ -1,0 +1,1 @@
+19. Grozījumi šā likuma 27. panta 1.¹ daļā par Latvijas Bibliotēku padomes sastāva izmaiņām stājas spēkā 2027. gada 1. janvārī. Līdz tam izvirzītie padomes locekļi turpina darbu padomē līdz 2026. gada 31. decembrim.

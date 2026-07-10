@@ -1,0 +1,1 @@
+16. Ministru kabinets līdz 2027. gada 31. decembrim izdod šā likuma 19. panta devītajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2027. gada 31. decembrim ir piemērojami Ministru kabineta 2010. gada 30. marta noteikumi Nr. 317 "Nacionālā bibliotēku krājuma noteikumi".

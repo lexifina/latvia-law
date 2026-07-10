@@ -1,0 +1,1 @@
+17. Grozījums šā likuma 25. pantā par tā papildināšanu ar 1.¹ daļu stājas spēkā 2027. gada 1. janvārī. Valsts bibliotēkas (izņemot atvasinātas publiskas personas izveidotu iestādi vai struktūrvienību) vadītājs (direktors), kas stājies amatā līdz 2026. gada 31. decembrim, turpina pildīt savus amata pienākumus līdz 2031. gada 31. decembrim.

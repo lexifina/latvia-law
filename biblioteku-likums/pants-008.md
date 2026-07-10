@@ -6,8 +6,8 @@
 3) bibliotēkas dibināšanas dokumenta kopija;
 4) bibliotēkas krājuma apjoms;
 5) bibliotēkas darbinieku skaits;
-6) bibliotēkas telpu platība, tehniskais aprīkojums;
-7) bibliotēkas finansēšanas avoti un kārtība.
+6) (izslēgts ar 11.06.2026. likumu);
+7) (izslēgts ar 11.06.2026. likumu).
 (3) Iesniegumam par bibliotēkas reģistrāciju pievienojams bibliotēkas dibinātāja apstiprināts bibliotēkas darbības nolikums (statūti).
 (4) Mēneša laikā no šā panta otrajā un trešajā daļā minēto dokumentu iesniegšanas dienas bibliotēka tiek uzņemta Bibliotēku reģistrā un tai tiek izdota reģistrācijas apliecība.
-(5) (Izslēgta ar 08.12.2005. likumu.)
+(5) (Izslēgta ar 08.12.2005. likumu)

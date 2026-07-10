@@ -2,7 +2,8 @@
 (1) Bibliotēkai ir tiesības:
 1) patstāvīgi veikt tās nolikumā (statūtos) paredzēto darbību, noteikt šīs darbības virzienus un bibliotēkas lietošanas kārtību;
 2) bibliotēkas nolikumā (statūtos) noteiktajā kārtībā veidot bibliotēkas struktūru, atvērt nodaļas un filiāles;
-3) saņemt šā likuma 17.pantā minētos bibliotēkas darbībai nepieciešamos valsts budžeta vai pašvaldību budžetu līdzekļus vai bibliotēkas dibinātāja finansu līdzekļus un rīkoties ar tiem;
+2¹) organizēt bibliotēkas pakalpojumu saņemšanu ārpus bibliotēkas pamatadreses;
+3) saņemt šā likuma 17.pantā minētos bibliotēkas darbībai nepieciešamos valsts budžeta vai pašvaldību budžetu līdzekļus vai bibliotēkas dibinātāja finanšu līdzekļus un rīkoties ar tiem;
 4) saņemt juridisko un fizisko personu ziedojumus un dāvinājumus, arī ziedojumus un dāvinājumus, kas izmantojami saskaņā ar ziedotāja vai dāvinātāja norādījumiem;
 5) saņemt valsts budžetā speciāli paredzētos līdzekļus ar bibliotēku attīstību saistītu projektu un programmu realizēšanai;
 6) bibliotēkas nolikumā (statūtos) noteiktajā kārtībā sniegt maksas pakalpojumus bibliotēkas lietotājiem un noteikt maksu par sniegtajiem pakalpojumiem;

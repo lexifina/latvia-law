@@ -1,0 +1,1 @@
+12. Lai īstenotu šā likuma 2.¹ panta trešajā daļā noteikto, Latvijas Nacionālā bibliotēka ne vēlāk kā līdz 2029. gada 31. martam pārņem no Kultūras informācijas sistēmu centra bibliotēku informācijas sistēmu pārvaldības centra funkciju.

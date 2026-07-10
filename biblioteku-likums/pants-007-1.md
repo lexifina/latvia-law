@@ -1,0 +1,7 @@
+7.¹ pants. Bibliotēku tipi
+Bibliotēka atbilst vienam no šādiem bibliotēku tipiem:
+1) nacionālā bibliotēka - universāla zinātniskā bibliotēka, kas ir atbildīga par visu attiecīgajā valstī izdoto un ar valsti saistīto informācijas resursu komplektēšanu un saglabāšanu un veido nacionālo bibliogrāfiju. Latvijas Republikā pastāv viena nacionālā bibliotēka un tās darbību regulē likums "Par Latvijas Nacionālo bibliotēku";
+2) publiskā bibliotēka - universāla bibliotēka, kas atvērta sabiedrībai un apkalpo vietējos vai reģiona iedzīvotājus;
+3) speciālā bibliotēka - bibliotēka, kas aptver vienu disciplīnu, atsevišķu zinību jomu vai reģionālu tematiku. Atbilstoši speciālās bibliotēkas lietošanas noteikumiem un atrašanās vietai tās publiskā pieejamība var būt ierobežota;
+4) augstākās izglītības iestādes bibliotēka - augstskolas vai koledžas institūcija vai struktūrvienība, kas nodrošina studiju procesa īstenošanai, zinātniskās darbības veikšanai un citām augstskolas personāla vajadzībām nepieciešamā bibliotēkas krājuma komplektēšanu, uzglabāšanu un pieejamību, kā arī sniedz informācijas pakalpojumus;
+5) vispārējās vai profesionālās izglītības iestādes bibliotēka - vispārējās vai profesionālās izglītības iestādes (izņemot koledžu) struktūrvienība, kas nodrošina izglītības procesa īstenošanai un citām izglītojamo un izglītības iestādes personāla vajadzībām nepieciešamo bibliotēkas krājumu un pakalpojumus, kā arī veicina lasīšanu.

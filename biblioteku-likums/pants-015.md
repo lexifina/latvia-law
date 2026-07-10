@@ -3,7 +3,7 @@
 1) ievērot bibliotēku darbību regulējošos likumus un citus normatīvos aktus, tās darbības nolikumu (statūtus);
 2) nodrošināt bibliotēkai nepieciešamo iespieddarbu un citu dokumentu komplektēšanu;
 3) veikt bibliotēkas krājuma organizēšanu (sistematizēšanu, kataloģizēšanu un bibliografēšanu) un papildināšanu;
-4) nodrošināt brīvu pieejamību Nacionālajam bibliotēku krājumam un informācijas sistēmām;
+4) nodrošināt brīvu pieejamību Bibliotēku kopkrājumam un informācijas sistēmām;
 5) nodrošināt operatīvu un kvalitatīvu bibliotēku pakalpojumu sniegšanu bibliotēkas lietotājiem;
 6) veikt bibliotēkas darbinieku regulāru apmācību;
 7) sniegt Nacionālajam kopkatalogam nepieciešamās ziņas par bibliotēkas krājumu;

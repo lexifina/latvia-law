@@ -1,2 +1,2 @@
 18.pants. Bibliotēkas materiālais un tehniskais pamats
-Bibliotēkas materiālo un tehnisko pamatu veido bibliotēkas ēkas, telpas, iekārtas, drošības sistēmas un cita manta. Materiālo un tehnisko pamatu veido un nodrošina bibliotēkas dibinātājs, ievērojot Ministru kabineta noteiktos normatīvus. Bibliotēka savu materiālo un tehnisko pamatu attīsta, izmantojot tās dibinātāja piešķirtos līdzekļus un papildu finansēšanas avotus.
+Bibliotēkas materiālo un tehnisko pamatu veido bibliotēkas ēkas, telpas, iekārtas, drošības sistēmas un cita manta. Materiālo un tehnisko pamatu veido un nodrošina bibliotēkas dibinātājs. Bibliotēka savu materiālo un tehnisko pamatu attīsta, izmantojot tās dibinātāja piešķirtos līdzekļus un papildu finansēšanas avotus.
