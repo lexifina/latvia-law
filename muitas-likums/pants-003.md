@@ -10,3 +10,4 @@
 (6) Muitas amatpersona ir muitas iestādes ierēdnis, kas pilda normatīvajos aktos muitas jomā, šajā likumā un Valsts ieņēmumu dienesta likumā noteiktos uzdevumus muitas politikas īstenošanā.
 (7) Muitas amatpersonai ir šajā likumā, Valsts ieņēmumu dienesta likumā, normatīvajos aktos muitas jomā un citos normatīvajos aktos noteiktās tiesības.
 (8) Padomes 2009. gada 16. novembra regulas (EK) Nr. 1186/2009, ar kuru izveido Kopienas sistēmu atbrīvojumiem no muitas nodokļiem (turpmāk - regula Nr. 1186/2009) izpratnē kompetentā iestāde Latvijas Republikā ir Valsts ieņēmumu dienests.
+(9) Regulas Nr. 1186/2009 61. panta izpratnē valsts organizācijas vai citas labdarības vai filantropiskas organizācijas, ko apstiprinājušas kompetentās iestādes, ir iestādes un sabiedriskā labuma organizācijas.

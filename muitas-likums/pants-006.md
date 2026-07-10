@@ -13,8 +13,8 @@ Ministru kabinets nosaka:
 11) muitas procedūras - eksports - piemērošanas kārtību lauksaimniecības produktiem, kuri pretendē uz eksporta kompensācijām;
 12) kārtību, kādā persona, kuras darbībā ietilpst brīvajā zonā esošu preču uzglabāšana, apstrāde, pārdošana vai pirkšana, veic preču uzskaiti;
 13) kārtību, kādā ārpussavienības preces, kuras netiek apliktas ar akcīzes nodokli, pārvieto ar autotransportu starp Rīgas brīvostas, Liepājas speciālās ekonomiskās zonas vai Ventspils brīvostas daļām viena muitas kontroles punkta ietvaros;
-14) kārtību, kādā piesaka preču reeksportu un iesniedz reeksporta paziņojumu, un paziņojumā norādāmās ziņas;
-15) kārtību, kādā iestāžu un organizāciju ievestās preces atbrīvo no ievedmuitas nodokļa;
+14) (izslēgts ar 11.06.2026. likumu);
+15) (izslēgts ar 11.06.2026. likumu);
 16) preču iznīcināšanas kārtību;
 17) kārtību, kādā iesniedz iesniegumu par atteikšanos no precēm par labu valstij, iesniegumā norādāmās ziņas un tam pievienojamos dokumentus;
 18) muitošanas kārtību, apgādājot kuģi (tajā skaitā karakuģi) un gaisa kuģi ar krājumiem, rezerves daļām un aprīkojumu ostās un lidostās, kā arī vietas, kurās atļauts veikt kuģu apgādi Latvijas Republikas teritoriālajos ūdeņos, un īpašus nosacījumus šādas apgādes veikšanai;

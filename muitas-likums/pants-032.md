@@ -1,0 +1,2 @@
+32. pants. Tiesības izpaust informāciju par nodokļu maksātāju
+Valsts ieņēmumu dienests ir tiesīgs muitas deklarācijā, reeksporta deklarācijā un reeksporta paziņojumā norādītās personas informēt par citām attiecīgajā muitas deklarācijā, reeksporta deklarācijā un reeksporta paziņojumā norādītajām personām par to, ka šīs personas ir pārkāpušas starptautisko organizāciju vai Latvijas Republikas noteiktās sankcijas attiecībā uz preču ievešanu Eiropas Savienībā (importu) vai izvešanu no Eiropas Savienības (eksportu) bez to personu piekrišanas, par kurām informācija tiek izpausta.

@@ -1,0 +1,1 @@
+22. Valsts ieņēmumu dienests līdz 2027. gada 30. jūnijam nodrošina šā likuma 5. panta ceturtajā daļā noteiktās Muitas risku informācijas sistēmas izstrādi. Grozījums šā likuma 5. panta ceturtajā daļā un grozījums par piektās daļas izslēgšanu stājas spēkā 2027. gada 1. jūlijā.
