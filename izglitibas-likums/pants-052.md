@@ -4,8 +4,11 @@
 2) saņemt valsts garantētu apmaksātu ikgadējo astoņu nedēļu atvaļinājumu;
 3) pamatojoties uz līgumu par mācību līdzekļu izstrādāšanu, saņemt apmaksātu līdz trijiem mēnešiem ilgu radošā darba atvaļinājumu vai līdz sešiem mēnešiem ilgu bezalgas atvaļinājumu Ministru kabineta noteiktajā kārtībā;
 4) saglabājot pamatalgu izglītības iestādē, kurā pedagogs strādā pamatdarbā, 30 kalendārās dienas triju gadu laikā izmantot savas izglītības un profesionālās meistarības pilnveidei;
+4¹) saņemt izglītības iestādes vadītāja un dibinātāja atbalstu profesionālās kompetences pilnveidei, lai nodrošinātu izglītības procesa kvalitatīvu īstenošanu;
 5) saņemt un izmantot izglītības programmas īstenošanai nepieciešamo informatīvo un materiālo nodrošinājumu;
+5¹) patstāvīgi īstenot mācību priekšmeta vai kursa saturu un izvēlēties mācību metodes, mācību līdzekļus un vērtēšanas metodiskos paņēmienus, ievērojot valsts pirmsskolas izglītības vadlīnijas, valsts izglītības standartu un izglītības programmu;
 6) saņemt sabiedrības atbalstu izglītības programmas īstenošanā;
+6¹) saņemt izglītības iestādes vadītāja un dibinātāja atbalstu, ja izglītības jautājumos radušās būtiskas viedokļu atšķirības (domstarpības) ar izglītojamā ģimeni;
 7) no izglītības iestādes dibinātāja finanšu līdzekļiem saņemt pabalstu sakarā ar ģimenes locekļa (laulātā, bērna, vecāku, vecvecāku, adoptētāja vai adoptētā, brāļa vai māsas) vai apgādājamā nāvi ne vairāk kā vienas minimālās mēneša darba algas apmērā;
 8) vardarbības gadījumā saņemt izglītības iestādes vadītāja un dibinātāja atbalstu;
 9) sadarbojoties ar izglītojamiem un vecākiem (personām, kas realizē aizgādību), rīkoties atbilstoši izglītības iestādē noteiktajai kārtībai;
