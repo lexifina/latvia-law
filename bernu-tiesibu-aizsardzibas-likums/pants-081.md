@@ -1,2 +1,2 @@
-81. pants. Fiziska un emocionāla vardarbība pret bērnu
-Par pamešanu novārtā, fizisku vai emocionālu vardarbību pret bērnu piemēro brīdinājumu vai naudas sodu līdz simt četrdesmit naudas soda vienībām.
+81. pants. Bērna pamešana novārtā, fiziska un emocionāla vardarbība pret bērnu
+Par bērna pamešanu novārtā, fizisku vai emocionālu vardarbību pret bērnu piemēro brīdinājumu vai naudas sodu līdz simt četrdesmit naudas soda vienībām un aizliegumu uz laiku līdz diviem gadiem ieņemt tādu amatu, veikt tādu brīvprātīgo darbu un sniegt tādus pakalpojumus, kuru ietvaros var notikt tieša un ilgstoša vai regulāra saskarsme ar bērnu, vai bez tā.
