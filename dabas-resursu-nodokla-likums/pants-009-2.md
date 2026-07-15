@@ -1,0 +1,10 @@
+9.² pants. Atbrīvojums no nodokļa samaksas par depozīta elektroniskajām smēķēšanas ierīcēm
+(1) Nodokļa maksātājs, kas laiž tirgū elektroniskās smēķēšanas ierīces, nemaksā nodokli par šīm ierīcēm, ja ir noslēdzis līgumu par dalību depozīta ierīču sistēmā ar depozīta ierīču sistēmas operatoru, kurš ir noslēdzis līgumu ar Klimata un enerģētikas ministrijas padotībā esošu iestādi par depozīta ierīču sistēmas darbības nodrošināšanu.
+(2) Klimata un enerģētikas ministrijas padotībā esoša iestāde līdz ceturksnim sekojošā mēneša 20. datumam informē Valsts ieņēmumu dienestu par:
+1) noslēgto līgumu par depozīta ierīču sistēmas darbības nodrošināšanu ar depozīta ierīču sistēmas operatoru;
+2) nodokļu maksātājiem, kam piemērots atbrīvojums no nodokļa samaksas par depozīta ierīcēm.
+(3) Klimata un enerģētikas ministrijas padotībā esoša iestāde reizi ceturksnī sniedz Valsts ieņēmumu dienestam aktualizētu informāciju par nodokļu maksātājiem, kam piemērots atbrīvojums no nodokļa samaksas par depozīta ierīcēm.
+(4) Šā panta pirmajā daļā minētajam nodokļa maksātājam nepiemēro atbrīvojumu no nodokļa samaksas par elektroniskajām smēķēšanas ierīcēm atbilstoši šā likuma 9. pantam.
+(5) Šā panta pirmajā daļā minētais nodokļa maksātājs zaudē tiesības uz šajā pantā noteikto nodokļa atbrīvojumu, ja šā panta pirmajā daļā minētais līgums par dalību depozīta ierīču sistēmā normatīvajos aktos noteiktajā kārtībā tiek izbeigts. Atbrīvojumu no nodokļa samaksas pārtrauc piemērot no nākamās dienas pēc līguma izbeigšanas.
+(6) Nodokļa maksātājam, kas laiž tirgū depozīta ierīces, atbrīvojums no nodokļa samaksas stājas spēkā no nākamā mēneša pirmā datuma pēc līguma noslēgšanas ar depozīta ierīču sistēmas operatoru par dalību depozīta ierīču sistēmā.
+(7) Depozīta ierīču sistēmas operators, kas ir noslēdzis ar Klimata un enerģētikas ministrijas padotībā esošu iestādi līgumu par depozīta ierīču sistēmas darbības nodrošināšanu, šīs ministrijas padotībā esošai iestādei iesniedz pārskatu normatīvajos aktos par depozīta ierīču sistēmas piemērošanu noteiktajā kārtībā.
