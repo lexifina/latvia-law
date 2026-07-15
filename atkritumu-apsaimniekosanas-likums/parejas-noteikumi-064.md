@@ -1,0 +1,1 @@
+64. Enerģētikas un vides aģentūras lēmumus, kuri pieņemti saskaņā ar šā likuma 13. pantu un 42. panta 8.³ daļu un kuru apstrīdēšanas termiņš turpinās pēc 2026. gada 14. jūlija, var apstrīdēt Valsts vides dienesta ģenerāldirektoram.

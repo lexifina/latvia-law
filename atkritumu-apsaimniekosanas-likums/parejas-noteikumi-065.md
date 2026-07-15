@@ -1,0 +1,1 @@
+65. Enerģētikas un vides aģentūras lēmumus, kas līdz 2026. gada 14. jūlijam pieņemti saskaņā ar šā likuma 13. pantu un 42. panta 8.³ daļu, var pārsūdzēt administratīvajā tiesā. Atbildētāja pusē pieaicināms Valsts vides dienests.

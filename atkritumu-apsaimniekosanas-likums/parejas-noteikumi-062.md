@@ -1,0 +1,1 @@
+62. Šā likuma 1. panta pirmās daļas 31., 32., 33., 34. un 35. punkts un 29.¹ pants par depozīta ierīču sistēmas ieviešanu un piemērošanu, kā arī 41. panta pirmās daļas 12. punkts stājas spēkā 2027. gada 1. februārī.

@@ -38,7 +38,8 @@
 1) saņem šā panta pirmajā daļā minēto atļauju bīstamo atkritumu vai ražošanas atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai vai uzglabāšanai;
 2) saņem atļauju bīstamo atkritumu vai ražošanas atkritumu reģenerācijai vai apglabāšanai atbilstoši normatīvajiem aktiem par piesārņojumu.
 (6) Šā panta pirmajā daļā minētās atļaujas nav nepieciešamas:
-1) dalīti savāktu sadzīves atkritumu un dalīti savāktu sadzīves bīstamo atkritumu, tai skaitā pārnēsājamo bateriju un akumulatoru, savākšanas punktiem, kas izvietoti tirdzniecības vietās;
+1) dalīti savāktu sadzīves atkritumu un dalīti savāktu sadzīves bīstamo atkritumu savākšanas punktiem, kas izvietoti tirdzniecības vietās;
+1¹) Eiropas Parlamenta un Padomes 2023. gada 12. jūlija regulas (ES) 2023/1542 par baterijām un bateriju atkritumiem, ar ko groza direktīvu 2008/98/EK un regulu (ES) 2019/1020 un atceļ direktīvu 2006/66/EK (turpmāk - Bateriju regula) 59. panta 2. punkta "a" apakšpunkta "i", "iii" un "iv" punktā un 60. panta 2. punkta "a" apakšpunkta "i", "iii" un "iv" punktā minētajām bateriju atkritumu savākšanas vietām;
 2) atkritumu radītājam vai valdītājam tā valdījumā esošo atkritumu savākšanai un īslaicīgai uzglabāšanai pirms šo atkritumu nodošanas atkritumu apsaimniekotājam.
 (7) Šā panta pirmās daļas 2. punktā minētās atļaujas nav nepieciešamas:
 1) izlietotā dzērienu depozīta iepakojuma pārvadāšanai līdz depozīta iepakojuma uzskaites centram;

@@ -1,4 +1,4 @@
-7.pants. (1) Vides aizsardzības un reģionālās attīstības ministrija:
+7.pants. (1) Klimata un enerģētikas ministrija:
 1) organizē atkritumu apsaimniekošanas valsts plāna izstrādi, kā arī koordinē tā īstenošanu;
 2) sagatavo normatīvo aktu projektus atkritumu apsaimniekošanas jomā;
 3) koordinē un organizē bīstamo atkritumu apsaimniekošanu saskaņā ar šo likumu un citiem normatīvajiem aktiem;

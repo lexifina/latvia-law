@@ -24,4 +24,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 23) Eiropas Parlamenta un Padomes 2012.gada 4.jūlija direktīvas 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem (EEIA);
 24) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/849, ar ko groza direktīvas 2000/53/EK par nolietotiem transportlīdzekļiem, 2006/66/EK par baterijām un akumulatoriem, un bateriju un akumulatoru atkritumiem un 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem;
 25) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/850, ar ko groza direktīvu 1999/31/EK par atkritumu poligoniem;
-26) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/851, ar ko groza direktīvu 2008/98 par atkritumiem.
+26) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/851, ar ko groza direktīvu 2008/98 par atkritumiem;
+27) Eiropas Parlamenta un Padomes 2024. gada 13. marta direktīvas (ES) 2024/884, ar ko groza direktīvu 2012/19/ES par elektrisko un elektronisko iekārtu atkritumiem (EEIA).
