@@ -103,5 +103,5 @@ Preces veidsMērvienībaLikme no 2018. gada 1. jūlija līdz 2025. gada 31. dece
 4.2. kategorija. Fotoelementu paneļi un invertorikg3,003,00
 5.5. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm):
 5.1. kategorija. Maza izmēra iekārtas (neviens ārējais izmērs nepārsniedz 50 cm), tai skaitā mājsaimniecības preces, plaša patēriņa audiovizuālas iekārtas, gaismekļi, skaņas vai attēlus demonstrējošas iekārtas, mūzikas ierīces, elektriski un elektroniski instrumenti, rotaļlietas, izklaides un sporta aprīkojums, medicīnas ierīces, monitoringa un kontroles instrumenti, automātiskie sadalītāji, ierīces elektriskās strāvas ražošanai un citas iekārtas (izņemot šā pielikuma 1., 2., 3. un 6. kategorijā ietilpstošās iekārtas)kg3,003,00
-5.2. (apakšpunkts stājas spēkā 15.07.2026. un iekļauts likuma redakcijā uz 15.07.2026. Sk. pārejas noteikumu 50. punktu un 11.06.2026. likumu)
-6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)kg3,503,50"
+5.2. kategorija. Elektroniskās smēķēšanas ierīcesgab.-2,00
+6.6. kategorija. Mazas informācijas tehnoloģiju un telekomunikāciju iekārtas (neviens ārējais izmērs nepārsniedz 50 cm)kg3,503,50
