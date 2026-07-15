@@ -38,6 +38,11 @@ d) veic savu saimniecisko darbību citā Eiropas Savienības dalībvalstī vai t
 27) elektrisko un elektronisko iekārtu izplatītājs - jebkura persona, kas savas saimnieciskās darbības ietvaros elektriskās un elektroniskās iekārtas dara pieejamas tirgū. Elektrisko un elektronisko iekārtu izplatītājs vienlaikus var būt arī elektrisko un elektronisko iekārtu ražotājs šā likuma izpratnē.
 28) atkritumu pārstrādes vai reģenerācijas iekārtas operators - persona, kura apsaimnieko atkritumu pārstrādes vai reģenerācijas iekārtu un kurai saskaņā ar normatīvajiem aktiem par piesārņojumu ir izsniegta A vai B kategorijas piesārņojošas darbības atļauja;
 29) atkritumu apsaimniekošanas reģionālais centrs - publiskas personas, publiski privāta vai privāta kapitālsabiedrība, kas veic attiecīgā atkritumu apsaimniekošanas reģiona pašvaldību deleģētos pārvaldes uzdevumus, īstenojot atkritumu apsaimniekošanas valsts plānā un atkritumu apsaimniekošanas reģionālajā plānā noteiktos atkritumu apsaimniekošanas mērķus;
-30) nešķirotu sadzīves atkritumu apstrāde - visas atkritumu apsaimniekošanas reģionālā centra veiktās darbības ar nešķirotiem sadzīves atkritumiem pēc to pieņemšanas apglabāšanai vai lai sagatavotu apglabāšanai vai reģenerācijai.
+30) nešķirotu sadzīves atkritumu apstrāde - visas atkritumu apsaimniekošanas reģionālā centra veiktās darbības ar nešķirotiem sadzīves atkritumiem pēc to pieņemšanas apglabāšanai vai lai sagatavotu apglabāšanai vai reģenerācijai;
+31) (punkts stājas spēkā 01.02.2027. un iekļauts likuma redakcijā uz 01.02.2027. Sk. pārejas noteikumu 62. punktu);
+32) (punkts stājas spēkā 01.02.2027. un iekļauts likuma redakcijā uz 01.02.2027. Sk. pārejas noteikumu 62. punktu);
+33) (punkts stājas spēkā 01.02.2027. un iekļauts likuma redakcijā uz 01.02.2027. Sk. pārejas noteikumu 62. punktu);
+34) (punkts stājas spēkā 01.02.2027. un iekļauts likuma redakcijā uz 01.02.2027. Sk. pārejas noteikumu 62. punktu);
+35) (punkts stājas spēkā 01.02.2027. un iekļauts likuma redakcijā uz 01.02.2027. Sk. pārejas noteikumu 62. punktu).
 (2) Šajā likumā termini "publiskas personas kapitālsabiedrība", "publiski privāta kapitālsabiedrība" un "privāta kapitālsabiedrība" lietoti Publiskas personas kapitāla daļu un kapitālsabiedrību pārvaldības likuma izpratnē.
 (3) Šajā likumā termins "ražotāja paplašinātās atbildības sistēma" lietots Dabas resursu nodokļa likuma izpratnē.
