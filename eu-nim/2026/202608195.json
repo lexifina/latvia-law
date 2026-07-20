@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2026. gada 20. jūlija lēmums Nr. 54 \"Par vienotās dabasgāzes pārvades ieejas-izejas sistēmas balansēšanas noteikumu saskaņošanu\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "138",
+  "official_journal_page": null,
+  "official_journal_date": "2026-07-22",
+  "entry_into_force": "2026-07-20",
+  "notification_date": "2026-11-02",
+  "commission_reference": "MNE(2026)08195",
+  "nim_celex": "72024L1788LVA_202608195",
+  "nim_id": "202608195",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/a3f17b81-7fe0-4856-8257-a43b8b8b1cb5",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
