@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 23.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-07-23",
+ "ieraksts": {
+  "dkp_id": "6d042bf6-8890-4982-a118-95ed5fcbdc81",
+  "lastmodtime": "\"AAAAAAKRC2w=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Liene#Juris#Andris#Juris#Jeļena#Igors#Česlavs#Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Edmunds#Svetlana#Ilze#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Augusts#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Jānis#Oļegs#Jefimijs#Mārtiņš#Jānis#Kaspars#Viktorija#Normunds#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Kaspars#Ramona#Inga#Jānis#Lauris#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis#Līga#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Gātere#Jakovins#Bērziņš#Viļums#Kļaviņa#Rajevs#Batņa#Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Cepurītis#Čulkova#Stobova#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Brigmanis#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Klementjevs#Felss#Grasbergs#Melnis#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "PRO#ZZS#ZZS#AS# # #AS# #NA#NA# #JV#PRO# #LPV#PRO#JV#JV# # #JV#NA#ZZS#LPV#AS#LPV#PRO#LPV#JV#PRO#ZZS#JV#AS#JV# #AS#JV# #JV#JV# #JV#ZZS#ZZS#AS#AS#NA# # #ZZS# # #JV#NA#ZZS# #NA#AS#JV#NA#ZZS#ZZS#AS# #AS#PRO#PRO#LPV#AS#JV#AS#LPV#PRO#JV#NA# #JV#ZZS#PRO#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.07.2026 14:45:17",
+  "VOTEMOTIVE": "Grozījumi Administratīvo teritoriju un apdzīvoto vietu likumā (1457/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "b6d0ad73-99b4-4a6e-a196-e2296578983f",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "77",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "35",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 23.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc399d1b-91f4-4959-8f98-6e2a09752f98/download/14.saeimas-2026.gada-23.julija-arkartas-sesija-1-vote.xml",
+  "sha256": "38520dc13cbc76a1d3536f7e306abc6c3916250834ce7f6a5d8a2eba0cd3511d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
