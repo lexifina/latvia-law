@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 23.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-07-23",
+ "ieraksts": {
+  "dkp_id": "b68c8117-2289-4fae-b2d5-19a1627e4a89",
+  "lastmodtime": "\"AAAAAAKSdpQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Maija#Augusts#Juris#Linda#Jānis#Gunārs#Inga#Arvils#Andrejs#Irma#Harijs#Edmunds#Raivis#Aiva#Jānis#Mārtiņš#Kaspars#Normunds#Andrejs#Ināra#Anita#Jānis#Oļegs#Raimonds#Kaspars#Inga#Jānis#Lauris#Atis#Roberts#Aleksandrs#Jānis#Līga#Uģis#Ieva#Igors#Česlavs#Edvīns#Arnolds#Liene#Anna#Edmunds#Andris#Andris#Ainars#Inese#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Inese#Edmunds#Ģirts#Ingmārs#Dāvis#Evika#Ilze#Edmunds#Ričards#Jekaterina#Vilis#Amils#Juris#Svetlana#Iļja#Linda#Jeļena#Jefimijs#Igors#Kristaps#Viktorija#Dmitrijs#Nataļja",
+  "SURNAME": "Armaņeva#Brigmanis#Viļums#Matisone#Vucāns#Kūtris#Bērziņa#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Kalējs#Vīksna#Eglīts#Felss#Melnis#Dzintars#Judins#Mūrniece#Brakovska#Dinevičs#Burovs#Bergmanis#Briškens#Priede#Patmalnieks#Lizbovskis#Švinka#Ķipurs#Kiršteins#Skrastiņš#Kozlovska#Rotbergs#Brante#Rajevs#Batņa#Šnore#Jātnieks#Gātere#Rancāne#Cepurītis#Bērziņš#Šuvajevs#Latkovskis#Kalniņa#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Līdaka#Melnalksnis#Siliņa#Vergina#Zivtiņš#Šlesers#Drelinga#Sruoģis#Saļimovs#Jakovins#Čulkova#Ivanovs#Liepiņa#Kļaviņa#Klementjevs#Judins#Krištopans#Pleškāne#Kovaļenko#Marčenko-Jodko",
+  "VOTEDEPSUFFIX": "###########################################################################",
+  "FRACTION": "LPV#ZZS#AS#AS#ZZS#ZZS#JV#JV# #JV#ZZS#JV#AS#AS#NA#JV#ZZS#NA#JV#NA#ZZS#ZZS# #AS#PRO#AS#JV#AS#PRO#NA# #JV#ZZS#JV# # #AS#NA#NA#PRO#JV#PRO#ZZS#PRO#JV#JV#NA#JV#NA#PRO#ZZS#JV#AS#JV#NA#ZZS#AS#AS#JV# #LPV#LPV# # # #ZZS# # #LPV# # # #LPV# # # ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.07.2026 18:28:46",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Elektronisko plašsaziņas līdzekļu likumā (1200/Lp14), 2.lasījums",
+  "VOTING_ID": "b4d04692-b913-4f44-b273-7a19b4473931",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "16",
+  "VOTERESULT_FOR": "53",
+  "VOTERESULT_REGISTERED": "76",
+  "VOTE_NUMBER": "78",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 23.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc399d1b-91f4-4959-8f98-6e2a09752f98/download/14.saeimas-2026.gada-23.julija-arkartas-sesija-1-vote.xml",
+  "sha256": "38520dc13cbc76a1d3536f7e306abc6c3916250834ce7f6a5d8a2eba0cd3511d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
