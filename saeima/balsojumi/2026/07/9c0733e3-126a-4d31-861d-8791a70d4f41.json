@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 23.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-07-23",
+ "ieraksts": {
+  "dkp_id": "c96b6c59-b98e-4558-962b-02c7b6f17555",
+  "lastmodtime": "\"AAAAAAKTOwM=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Ainars#Inese#Edmunds#Maija#Andrejs#Mārtiņš#Ināra#Inga#Uģis#Iļja#Edvīns#Anna#Andris#Amils#Inese#Artūrs#Agnese#Raivis#Zanda#Alīna#Evika#Arvils#Irma#Edmunds#Jānis#Dmitrijs#Jānis#Normunds#Linda#Andrejs#Jānis#Edgars#Igors#Ramona#Inga#Jānis#Lauris#Roberts#Aleksandrs#Jānis#Jeļena#Linda#Viktorija#Gunārs#Jefimijs#Nataļja#Harijs#Jekaterina#Ģirts#Ričards#Ingmārs#Liene#Vilis#Edmunds#Svetlana#Ilze#Juris#Arnolds#Igors#Česlavs#Andris#Edmunds#Armands#Andris#Jana#Ligita#Dāvis#Andrejs#Ilze#Jānis#Oļegs#Augusts#Raivis#Aiva#Juris#Kaspars#Anita#Raimonds#Atis#Leila#Kaspars#Līga#Antoņina#Ieva",
+  "SURNAME": "Latkovskis#Kalniņa#Zivtiņš#Armaņeva#Ceļapīters#Felss#Mūrniece#Bērziņa#Rotbergs#Ivanovs#Šnore#Rancāne#Bērziņš#Saļimovs#Lībiņa-Egnere#Butāns#Krasta#Dzintars#Kalniņa-Lukaševica#Gendele#Siliņa#Ašeradens#Kalniņa#Jurēvics#Eglīts#Kovaļenko#Grasbergs#Dzintars#Matisone#Judins#Vucāns#Putra#Judins#Petraviča#Priede#Patmalnieks#Lizbovskis#Ķipurs#Kiršteins#Skrastiņš#Kļaviņa#Liepiņa#Pleškāne#Kūtris#Klementjevs#Marčenko-Jodko#Rokpelnis#Drelinga#Štekerhofs#Šlesers#Līdaka#Gātere#Sruoģis#Cepurītis#Čulkova#Stobova#Jakovins#Jātnieks#Rajevs#Batņa#Šuvajevs#Teirumnieks#Krauze#Sprūds#Simanovska#Gintere#Melnalksnis#Svilāns#Vergina#Dinevičs#Burovs#Brigmanis#Kalējs#Vīksna#Viļums#Melnis#Brakovska#Bergmanis#Švinka#Rasima#Briškens#Kozlovska#Ņenaševa#Brante",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": "JV#JV#LPV#LPV# #JV#NA#JV#JV# #NA#JV#ZZS# #JV#NA#JV#NA#JV#JV#JV#JV#JV#JV#NA# #NA#NA#AS#JV#ZZS#AS# #LPV#AS#JV#AS#NA# #JV# #LPV# #ZZS# # #ZZS# #ZZS#LPV#AS#PRO# #PRO# #LPV#ZZS#NA# #AS#PRO#NA#ZZS#PRO#PRO#ZZS#AS#AS# #ZZS# #ZZS#AS#AS#AS#ZZS#ZZS#AS#PRO#PRO#PRO#ZZS#PRO# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.07.2026 17:09:22",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Civillikumā (1366/Lp14), 2.lasījums",
+  "VOTING_ID": "9c0733e3-126a-4d31-861d-8791a70d4f41",
+  "VOTERESULT_ABSTAIN": "28",
+  "VOTERESULT_AGAINST": "16",
+  "VOTERESULT_FOR": "31",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "61",
+  "VOTE_COMMENT": "Deputāte Maija Armaņeva iesniegumā raksta, ka ir kļūdījusies balsojumā. Viņas balsojums ir \"PAR\"."
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 23.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc399d1b-91f4-4959-8f98-6e2a09752f98/download/14.saeimas-2026.gada-23.julija-arkartas-sesija-1-vote.xml",
+  "sha256": "38520dc13cbc76a1d3536f7e306abc6c3916250834ce7f6a5d8a2eba0cd3511d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
