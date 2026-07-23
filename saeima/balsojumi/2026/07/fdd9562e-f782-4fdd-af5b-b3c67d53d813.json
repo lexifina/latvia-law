@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 23.jūlija ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-07-23",
+ "ieraksts": {
+  "dkp_id": "a7f854d0-5934-414f-b768-dcac76642959",
+  "lastmodtime": "\"AAAAAAKTOws=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Svetlana#Vilis#Armands#Edmunds#Augusts#Dmitrijs#Nataļja#Jānis#Igors#Jefimijs#Igors#Ieva#Edvīns#Arnolds#Edmunds#Artūrs#Raivis#Edmunds#Jānis#Normunds#Linda#Ināra#Kaspars#Roberts#Aleksandrs#Jānis#Jānis#Linda#Atis#Antoņina#Leila#Ramona#Anita#Gunārs#Andrejs#Harijs#Viktorija#Oļegs#Juris#Mārtiņš#Raimonds#Alīna#Jekaterina#Evika#Jana#Zanda#Maija#Agnese#Amils#Inese#Ģirts#Ričards#Ingmārs#Andris#Ilze#Andris#Liene#Iļja#Edmunds#Juris#Česlavs#Skaidrīte#Anna#Ainars#Inese#Andris#Andrejs#Ligita#Ilze#Dāvis#Andrejs#Irma#Raivis#Aiva#Jānis#Kaspars#Edgars#Raimonds#Inga#Jānis#Inga#Uģis#Lauris#Līga",
+  "SURNAME": "Čulkova#Sruoģis#Krauze#Zivtiņš#Brigmanis#Kovaļenko#Marčenko-Jodko#Dinevičs#Rajevs#Klementjevs#Judins#Brante#Šnore#Jātnieks#Teirumnieks#Butāns#Dzintars#Jurēvics#Eglīts#Dzintars#Matisone#Mūrniece#Briškens#Ķipurs#Kiršteins#Skrastiņš#Patmalnieks#Liepiņa#Švinka#Ņenaševa#Rasima#Petraviča#Brakovska#Kūtris#Judins#Rokpelnis#Pleškāne#Burovs#Viļums#Felss#Čudars#Gendele#Drelinga#Siliņa#Simanovska#Kalniņa-Lukaševica#Armaņeva#Krasta#Saļimovs#Lībiņa-Egnere#Štekerhofs#Šlesers#Līdaka#Sprūds#Stobova#Šuvajevs#Gātere#Ivanovs#Cepurītis#Jakovins#Batņa#Ābrama#Rancāne#Latkovskis#Kalniņa#Bērziņš#Svilāns#Gintere#Vergina#Melnalksnis#Ceļapīters#Kalniņa#Kalējs#Vīksna#Grasbergs#Melnis#Putra#Bergmanis#Priede#Vucāns#Bērziņa#Rotbergs#Lizbovskis#Kozlovska",
+  "VOTEDEPSUFFIX": "###################################################################################",
+  "FRACTION": " # #ZZS#LPV#ZZS# # #ZZS# # # # #NA#NA#NA#NA#NA#JV#NA#NA#AS#NA#PRO#NA# #JV#JV#LPV#PRO#PRO#PRO#LPV#ZZS#ZZS#JV#ZZS# # #AS#JV#JV#JV# #JV#PRO#JV#LPV#JV# #JV#ZZS#LPV#AS#PRO#LPV#PRO#PRO# #PRO#ZZS#AS# #JV#JV#JV#ZZS#AS#ZZS# #AS# #JV#AS#AS#NA#ZZS#AS#AS#AS#ZZS#JV#JV#AS#ZZS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.07.2026 15:32:08",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.1. Grozījumi likumā “Par Latvijas un PSRS psihiatriskajās ārstniecības iestādēs laika posmā no 1940.gada 17.jūnija līdz 1991.gada 21.augustam nepamatoti ievietotajām personām” (1231/Lp14), 3.lasījums",
+  "VOTING_ID": "fdd9562e-f782-4fdd-af5b-b3c67d53d813",
+  "VOTERESULT_ABSTAIN": "25",
+  "VOTERESULT_AGAINST": "34",
+  "VOTERESULT_FOR": "13",
+  "VOTERESULT_REGISTERED": "84",
+  "VOTE_NUMBER": "47",
+  "VOTE_COMMENT": "Deputāts Kaspars Briškens iesniegumā raksta, ka ir kļūdījies balsojumā. Viņa balsojums ir \"PRET\"."
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 23.jūlija ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc399d1b-91f4-4959-8f98-6e2a09752f98/download/14.saeimas-2026.gada-23.julija-arkartas-sesija-1-vote.xml",
+  "sha256": "38520dc13cbc76a1d3536f7e306abc6c3916250834ce7f6a5d8a2eba0cd3511d",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
