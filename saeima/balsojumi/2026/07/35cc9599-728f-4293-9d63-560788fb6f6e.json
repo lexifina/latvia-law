@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 23.jūlija 2.ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-07-23",
+ "ieraksts": {
+  "dkp_id": "24a95c37-ea61-48d1-827f-821ad45f6589",
+  "lastmodtime": "\"AAAAAAKQxn4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Arvils#Irma#Harijs#Edmunds#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Jānis#Jefimijs#Juris#Mārtiņš#Jānis#Kaspars#Kristaps#Viktorija#Normunds#Linda#Anita#Igors#Raimonds#Leila#Kaspars#Ramona#Inga#Jānis#Lauris#Linda#Anda#Roberts#Jānis#Antoņina#Uģis#Ieva#Igors#Česlavs#Edvīns#Arnolds#Anna#Edmunds#Juris#Svetlana#Andris#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ģirts#Edmunds#Andris#Artūrs#Maija#Raivis#Jana#Ligita#Zanda#Alīna#Jekaterina#Ilze#Atis",
+  "SURNAME": "Ašeradens#Kalniņa#Rokpelnis#Jurēvics#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Klementjevs#Viļums#Felss#Grasbergs#Melnis#Krištopans#Pleškāne#Dzintars#Matisone#Brakovska#Judins#Bergmanis#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Čakša#Ķipurs#Skrastiņš#Ņenaševa#Rotbergs#Brante#Rajevs#Batņa#Šnore#Jātnieks#Rancāne#Cepurītis#Jakovins#Čulkova#Bērziņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Zivtiņš#Sprūds#Butāns#Armaņeva#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Drelinga#Vergina#Švinka",
+  "VOTEDEPSUFFIX": "###############################################################",
+  "FRACTION": "JV#JV#ZZS#JV#AS#AS#NA# # #ZZS# #AS#JV#NA#ZZS#LPV# #NA#AS#ZZS# #AS#PRO#PRO#LPV#AS#JV#AS#LPV#JV# #JV#PRO#JV# # #AS#NA#NA#JV#PRO#ZZS# #ZZS#PRO#JV#JV# # #JV#NA#ZZS#LPV#PRO#NA#LPV#NA#PRO#ZZS#JV#JV# # #PRO",
+  "RESULT": "Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Pret#Pret#Par#Par#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "23.07.2026 14:05:15",
+  "VOTEMOTIVE": "Grozījums Rail Baltica projekta īstenošanas likumā (1471/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "35cc9599-728f-4293-9d63-560788fb6f6e",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "16",
+  "VOTERESULT_FOR": "48",
+  "VOTERESULT_REGISTERED": "64",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 23.jūlija 2.ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c3bb8bf2-10e6-49b0-ad90-4ac59a4d229b/download/14.saeimas-2026.gada-23.julija-2.arkartas-sesija-1-vote.xml",
+  "sha256": "312a8e7d8ed2edcb3a09a8f2f4e7aade121d50164d65c29e44bcde14660a637a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
