@@ -1,0 +1,1 @@
+8. Šā likuma 17.¹ panta piekto daļu, kas paredz pakalpojuma sniedzēja atbrīvošanu no pienākuma atlīdzināt biļetes vai cita veida dalības maksas vērtību maksas publiska pasākuma apmeklētājam, attiecina uz pasākumiem, kas atcelti pēc šā likuma 17.¹ panta spēkā stāšanās dienas, neatkarīgi no laika, kad iegādātas biļetes vai apmaksāta dalība pasākumā.

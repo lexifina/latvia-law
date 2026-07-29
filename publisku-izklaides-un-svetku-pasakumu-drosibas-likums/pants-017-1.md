@@ -1,0 +1,6 @@
+17.¹ pants. Ierobežojumi publiska pasākuma norisei gaisa telpas apdraudējuma gadījumā
+(1) Pasākuma organizatoram ir aizliegts uzsākt publisku pasākumu, kā arī ir pienākums to pārtraukt, ja publiska pasākuma norises vietā vai to tieši aptverošajā teritorijā atbilstoši Civilās aizsardzības un katastrofas pārvaldīšanas likumam ir izsludināts agrīnais brīdinājums par tādu gaisa telpas apdraudējumu, kas rada tiešus un būtiskus draudus cilvēku dzīvībai vai veselībai un paredz tūlītēju rīcību iedzīvotāju drošības nodrošināšanai.
+(2) Pasākuma organizators pirms publiska pasākuma uzsākšanas izvērtē iespējamos ar tā norisi saistītos apdraudējumus un nodrošina, ka ir noteikta rīcība un apmeklētāju informēšanas kārtība šā panta pirmajā daļā minētā gaisa telpas apdraudējuma gadījumā.
+(3) Ja vairs nepastāv šā panta pirmajā daļā minētie apstākļi, pasākuma organizators var uzsākt publisku pasākumu vai atsākt pārtraukta publiska pasākuma norisi.
+(4) Ja publisku pasākumu objektīvu apstākļu dēļ nav iespējams uzsākt vai atsākt, publisks pasākums uzskatāms par atceltu.
+(5) Ja maksas publisks pasākums ir atcelts šā panta pirmajā daļā minēto apstākļu dēļ un publisku pasākumu no tā organizatora gribas neatkarīgu apstākļu dēļ nav iespējams uzsākt vai atsākt, pakalpojuma sniedzējam nav pienākuma atlīdzināt biļetes vai cita veida dalības maksas vērtību pasākuma apmeklētājam.
