@@ -1,1 +1,2 @@
-17. pants. Vēlēšanas notiek no pulksten 8.00 līdz 20.00 oktobra pirmajā sestdienā. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumā notiek citā gada laikā, vēlēšanu dienu nosaka Centrālā vēlēšanu komisija.
+17. pants. (1) Vēlēšanas notiek no pulksten 8.00 līdz 20.00 oktobra pirmajā sestdienā. Ja Saeimas vēlēšanas Saeimas atlaišanas gadījumā notiek citā gada laikā, vēlēšanu dienu nosaka Centrālā vēlēšanu komisija.
+(2) Pašvaldības vēlēšanu komisija var pieņemt lēmumu par balsošanas laika pagarināšanu vēlēšanu dienas ietvaros vēlēšanu iecirkņos, kuros balsošana vēlēšanu dienā ir būtiski kavēta apdraudējuma dēļ. Kritērijus un kārtību, kādā pašvaldības vēlēšanu komisija pieņem lēmumu par balsošanas laika pagarināšanu, nosaka Centrālā vēlēšanu komisija.

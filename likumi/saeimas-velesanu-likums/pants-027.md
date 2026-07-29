@@ -1,3 +1,3 @@
-27. pants. (1) Vēlēšanu dienā pēc pulksten 20.00 vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri bija ieradušies vēlēšanu telpās pirms pulksten 20.00. Pēc tam vēlēšanu telpas slēdz.
+27. pants. (1) Vēlēšanu dienā pēc pulksten 20.00 vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri bija ieradušies vēlēšanu telpās pirms pulksten 20.00. Pēc tam vēlēšanu telpas slēdz. Ja pašvaldības vēlēšanu komisija saskaņā ar šā likuma 17. panta otro daļu pieņēmusi lēmumu par balsošanas laika pagarināšanu, pēc balsošanas laika beigām vēlēšanu zīmes var nodot tikai tie vēlētāji, kuri bija ieradušies vēlēšanu telpās pirms balsošanas laika beigām.
 (2) (Izslēgta ar 26.03.1998. likumu.)
 (3) (Izslēgta ar 26.03.1998. likumu.)
