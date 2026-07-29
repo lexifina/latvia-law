@@ -1,0 +1,3 @@
+4.¹ pants. Valsts zinātniskās institūcijas atbilstības apliecinājums
+(1) Ja valsts zinātniskās institūcijas - valsts augstskolas, valsts augstskolu struktūrvienības un valsts zinātniskie institūti - vai klīniskās universitāšu slimnīcas vēlas veikt militāro pētniecību, produktu izstrādi, testēšanu, validāciju vai prototipēšanu vai piedalīties militārajā pētniecībā, produktu izstrādē, testēšanā, validācijā vai prototipēšanā, tās var saņemt valsts zinātniskās institūcijas atbilstības apliecinājumu.
+(2) Prasības un kārtību valsts zinātnisko institūciju, klīnisko universitāšu slimnīcu vai to konsorciju atbilstības novērtēšanai, kā arī institūciju, kas izsniedz valsts zinātniskās institūcijas atbilstības apliecinājumu, nosaka Ministru kabinets.
