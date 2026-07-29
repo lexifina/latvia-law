@@ -1,1 +1,1 @@
-60.pants. Recepšu veidlapu izgatavošanas noteikumus un recepšu izrakstīšanas kārtību reglamentē Ministru kabineta noteikumi un citi normatīvie akti.
+60.pants. Recepšu veidlapu izgatavošanas un aprites, recepšu izrakstīšanas un uzglabāšanas prasības un kārtību, kā arī aptieku un valsts institūciju pienākumus recepšu un recepšu veidlapu aprites nodrošināšanā nosaka Ministru kabinets.
