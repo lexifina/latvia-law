@@ -1,5 +1,5 @@
 15.pants. Izglītības un zinātnes ministrijas kompetence izglītībā
-Izglītības un zinātnes ministrija:
+(1) Izglītības un zinātnes ministrija:
 1) īsteno vienotu valsts politiku un attīstības stratēģiju izglītībā;
 2) izstrādā politikas plānošanas dokumentu un normatīvo aktu projektus izglītības jomā;
 2¹) atbild par Izglītības likumā noteiktā mērķa īstenošanu;
@@ -35,3 +35,4 @@ Izglītības un zinātnes ministrija:
 26) ierosina pašvaldību izglītības iestāžu vadītāju un valsts augstskolu vidējās izglītības iestāžu vadītāju atbrīvošanu no darba;
 27) (izslēgts ar 18.06.2015. likumu);
 28) izstrādā izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm.
+(2) Izglītības un zinātnes ministrs apstiprina izglītības sistēmas noturības un nepārtrauktības ietvaru un izglītības iestādes darbības nepārtrauktības plāna paraugu, kurā nosaka principus un pamatprasības izglītības programmu īstenošanai (tai skaitā rīcības algoritmu) apdraudējuma gadījumā, izņemot izglītības programmu īstenošanai Iekšlietu ministrijas un Aizsardzības ministrijas padotībā esošajās izglītības iestādēs.
