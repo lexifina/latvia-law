@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 21. jūlija noteikumi Nr. 416 \"Noteikumi par aviācijas darbību dalību Eiropas Savienības emisijas kvotu tirdzniecības sistēmā un starptautiskās aviācijas oglekļa dioksīda kompensēšanas un samazināšanas shēmā\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "143",
+  "official_journal_page": null,
+  "official_journal_date": "2026-07-29",
+  "entry_into_force": "2026-07-30",
+  "notification_date": "2026-08-26",
+  "commission_reference": "MNE(2026)06689",
+  "nim_celex": "72023L0958LVA_202606689",
+  "nim_id": "202606689",
+  "transposes_celex": [
+    "32023L0958"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/acf550d9-a811-4f2d-a733-bfd24e93df9d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
