@@ -1,0 +1,1 @@
+53. Darba līgumiem, kas no 2026. gada 1. augusta noslēgti ar pētniecības tenūrgaitas amatā, kā arī akadēmiskajos amatos pētniekam ar praktisko kompetenci un vadošajam pētniekam ar praktisko kompetenci nodarbinātajiem, piemēro šā likuma 26. panta otrās un ceturtās daļas noteikumus redakcijā, kas stājas spēkā 2026. gada 1. decembrī.

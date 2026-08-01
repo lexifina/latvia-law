@@ -1,0 +1,1 @@
+51. Zinātniskā institūcija var nodarbināt personu zinātniskā viesasistenta, viespētnieka, pēcdoktorantūras pētnieka, pētniecības profesora (arī pētniecības tenūras ietvaros) un pētniecības viesprofesora amatā no 2026. gada 1. decembra.

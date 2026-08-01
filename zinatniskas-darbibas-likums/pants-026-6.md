@@ -1,0 +1,6 @@
+26.⁶ pants. Pētnieks ar praktisko kompetenci un vadošais pētnieks ar praktisko kompetenci
+(1) Pētnieks ar praktisko kompetenci un vadošais pētnieks ar praktisko kompetenci ir konkrētas nozares vai jomas speciālists, kurš nodrošina praktisko zināšanu un pieredzes pārnesi uz zinātniskās institūcijas zinātnisko darbību, sekmējot pētniecības rezultātu saikni ar attiecīgās nozares vai jomas vajadzībām un inovāciju attīstību.
+(2) Pētnieks ar praktisko kompetenci piedalās zinātniskās institūcijas īstenotajos pētniecības projektos, sniedzot praktiskās zināšanas.
+(3) Vadošais pētnieks ar praktisko kompetenci vada pētniecības projektus vai pētniecības grupas, kā arī nodrošina inovāciju un praktiskās pieredzes pārnesi uz attiecīgo nozari vai jomu.
+(4) Akadēmiskā amata nosaukumu pētniekam ar praktisko kompetenci un vadošajam pētniekam ar praktisko kompetenci, kā arī šim amatam atbilstošus uzdevumus nosaka zinātniskā institūcija, ievērojot to, ka attiecīgās personas galvenais uzdevums ir sekmēt šā panta pirmajā daļā minēto mērķu sasniegšanu.
+(5) Personas, kas pretendē uz akadēmisko amatu pētniekam ar praktisko kompetenci vai vadošajam pētniekam ar praktisko kompetenci, pieredzes atbilstību izvērtē zinātniskā institūcija atbilstoši tās noteiktajai personāla politikai par zinātnes pētnieciskā personāla amatiem.

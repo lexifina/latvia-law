@@ -1,6 +1,5 @@
-4.pants. Zinātniskie darbinieki
-Zinātniskie darbinieki ir:
-1) (izslēgts ar 14.03.2024. likumu);
-1¹) vadošais pētnieks, pētnieks, zinātniskais asistents un šo amatu pienākumu izpildītāji;
-2) zinātnes tehniskais personāls;
-3) zinātni apkalpojošais personāls.
+4. pants. Zinātniskie darbinieki
+Zinātniskie darbinieki ir zinātniskajā institūcijā nodarbinātie, kuri pieder pie:
+1) zinātnes pētnieciskā personāla;
+2) zinātnes tehniskā personāla;
+3) zinātnes atbalsta personāla.

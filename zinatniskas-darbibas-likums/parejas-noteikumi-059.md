@@ -1,0 +1,1 @@
+59. Grozījumi šā likuma 37.¹ pantā par tā pirmās daļas izteikšanu jaunā redakcijā, 38. panta otrajā daļā par tās 2. punkta izteikšanu jaunā redakcijā un daļas papildināšanu ar 2.¹ punktu stājas spēkā 2026. gada 1. decembrī. Grozījumus šā likuma 37.¹ panta pirmajā daļā un 38. panta pirmajā daļā attiecībā uz Latvijas Nacionālo bibliotēku piemēro no 2027. gada 1. janvāra.

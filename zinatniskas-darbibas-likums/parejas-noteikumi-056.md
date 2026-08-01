@@ -1,0 +1,1 @@
+56. Šā likuma 26.³ pants stājas spēkā 2029. gada 1. janvārī. Pētniecības tenūras ietvaros pirmo zinātniskās darbības snieguma novērtēšanu pētniekam, vadošajam pētniekam un pētniecības profesoram veic ne agrāk kā 2029. gada 1. janvārī.
