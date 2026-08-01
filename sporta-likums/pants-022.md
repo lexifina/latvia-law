@@ -1,0 +1,3 @@
+22. pants. Valsts atbalsts augstu sasniegumu sportam
+(1) Augstu sasniegumu sportists var saņemt valsts atbalstu augstu sasniegumu sportam, lai sagatavotos dalībai un piedalītos olimpiskajās un paraolimpiskajās spēlēs, pasaules un Eiropas čempionātos un citās starptautiskajās sacensībās.
+(2) Kritērijus un kārtību valsts atbalsta piešķiršanai augstu sasniegumu sportam, sporta veidus un sporta disciplīnas, kuru pārstāvji var pretendēt uz valsts atbalstu augstu sasniegumu sportam, augstu sasniegumu sportista statusa kritērijus, atbalsta pasākumus, to apmēru, kā arī gadījumus, kad pārtrauc valsts atbalsta piešķiršanu augstu sasniegumu sportam, nosaka Ministru kabinets.

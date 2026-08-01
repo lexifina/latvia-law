@@ -1,0 +1,1 @@
+1. Ar šā likuma spēkā stāšanos spēku zaudē Sporta likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 23. nr.; 2003, 23. nr.; 2004, 5. nr.; 2005, 14. nr.; 2006, 24. nr.; 2009, 6., 13. nr.; Latvijas Vēstnesis, 2016, 31., 82. nr.; 2017, 128. nr.; 2018, 111. nr.; 2021, 129.A nr.; 2022, 83.A nr.; 2023, 247. nr.; 2024, 31. nr.).

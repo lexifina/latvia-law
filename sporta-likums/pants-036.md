@@ -1,0 +1,10 @@
+36. pants. Ierobežojumi sporta darbiniekiem un sporta organizāciju izpildinstitūcijas locekļiem
+(1) Par sporta treneri vai sporta tiesnesi nedrīkst strādāt persona, kura ir sodīta par kādu no šādiem noziedzīgiem nodarījumiem neatkarīgi no sodāmības dzēšanas vai noņemšanas:
+1) manipulācijām ar sporta sacensībām;
+2) noziedzīgu nodarījumu, kas saistīts ar vardarbību vai vardarbības piedraudējumu;
+3) noziedzīgu nodarījumu pret tikumību un dzimumneaizskaramību.
+(2) Izņēmuma gadījumā personai, kura ir sodīta par kādu no šā panta pirmajā daļā minētajiem noziedzīgajiem nodarījumiem, var atļaut strādāt par sporta treneri vai sporta tiesnesi, ja, izvērtējot konkrētā gadījuma apstākļus, tiek konstatēts, ka tas nekaitē sportistu, sporta darbinieku un sporta jomas interesēm. Lēmumu par atļauju pieņem tiesību subjekts, kuram deleģētas tiesības uzraudzīt atzīto sporta federāciju darbību. Kārtību, kādā tiek izvērtēts, vai atļauja šādai personai strādāt par sporta treneri vai sporta tiesnesi nekaitē sportistu, sporta darbinieku un sporta jomas interesēm, nosaka Ministru kabinets.
+(3) Par tiesību subjekta, kam deleģēts šā likuma 9. panta trešās daļas 4. punktā minētais valsts pārvaldes uzdevums, kā arī par šā likuma 15., 17. un 18. pantā minēto sporta organizāciju izpildinstitūcijas locekli nedrīkst būt persona, kura atbilst kādam no šādiem kritērijiem:
+1) ir ārvalstu valsts drošības dienestu, izlūkdienestu vai pretizlūkošanas dienestu štata darbinieks;
+2) ir bijusi LPSR Valsts drošības komitejas darbinieks vai informators likuma "Par bijušās Valsts drošības komitejas dokumentu saglabāšanu, izmantošanu un personu sadarbības fakta ar VDK konstatēšanu" izpratnē.
+(4) Persona, kandidējot uz ievēlēšanu šā panta trešajā daļā minētā tiesību subjekta vai sporta organizācijas izpildinstitūcijas locekļa amatā, rakstveidā apliecina, ka uz to neattiecas šā panta trešajā daļā noteiktie ierobežojumi. Attiecīgais tiesību subjekts vai sporta organizācija ir atbildīga par šīs informācijas pārbaudi un glabāšanu. Izglītības un zinātnes ministrijai ir tiesības pieprasīt minēto apliecinājumu un ar to saistīto informāciju normatīvajos aktos noteiktajā kārtībā.

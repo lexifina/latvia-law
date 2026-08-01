@@ -1,0 +1,1 @@
+8. Ministru kabinets līdz 2027. gada 30. jūnijam sagatavo un iesniedz Saeimai likumprojektu par grozījumiem likumā "Par nacionālās sporta bāzes statusu", nodrošinot sporta infrastruktūras regulējuma pilnveidošanu un saskaņošanu ar šo likumu, tai skaitā paredzot vienotus principus sporta infrastruktūras objektu klasifikācijai un valsts atbalsta piešķiršanai.

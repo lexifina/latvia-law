@@ -1,0 +1,9 @@
+3. Ministru kabinets līdz 2027. gada 31. maijam izdod šā likuma 7. panta piektajā daļā, 13. panta ceturtajā daļā, 14. panta ceturtajā daļā, 19. panta otrajā daļā, 21. panta trešajā daļā, 22. panta otrajā daļā, 23. panta trešajā daļā, 30. panta ceturtajā, piektajā un sestajā daļā, 34. panta otrās daļas 2. punktā, 35. panta trešajā daļā un 36. panta otrajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2027. gada 31. maijam ir attiecīgi piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:
+1) Ministru kabineta 2003. gada 29. jūlija noteikumi Nr. 422 "Latvijas Nacionālās sporta padomes nolikums";
+2) Ministru kabineta 2009. gada 12. maija noteikumi Nr. 422 "Noteikumi par kārtību, kādā norāda informāciju par sporta pasākuma līdzfinansēšanu no valsts budžeta, un minētās informācijas saturu";
+3) Ministru kabineta 2009. gada 28. jūlija noteikumi Nr. 819 "Kārtība, kādā valsts finansiāli nodrošina valsts izlases komandu sporta spēlēs sagatavošanos un piedalīšanos Eiropas un pasaules čempionātu un olimpisko spēļu atlases turnīros un finālsacensībās";
+4) Ministru kabineta 2010. gada 26. janvāra noteikumi Nr. 76 "Noteikumi par sporta bāzu reģistrā iekļaujamās informācijas saturu un aktualizēšanas kārtību";
+5) Ministru kabineta 2010. gada 26. janvāra noteikumi Nr. 77 "Noteikumi par sporta speciālistu sertifikācijas kārtību un sporta speciālistam noteiktajām prasībām";
+6) Ministru kabineta 2012. gada 3. janvāra noteikumi Nr. 26 "Noteikumi par kārtību, kādā piešķiramas naudas balvas par izciliem sasniegumiem sportā, un naudas balvu apmēru";
+7) Ministru kabineta 2016. gada 6. septembra noteikumi Nr. 594 "Sportistu un bērnu ar paaugstinātu fizisko slodzi veselības aprūpes un medicīniskās uzraudzības kārtība";
+8) Ministru kabineta 2024. gada 9. janvāra noteikumi Nr. 27 "Sporta organizāciju finansēšanas kārtība".

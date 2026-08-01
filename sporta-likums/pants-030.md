@@ -1,0 +1,7 @@
+30. pants. Sporta pasākumu organizēšana
+(1) Sporta pasākuma organizators pasākuma norises vietā un laikā nodrošina sabiedrisko kārtību, medicīniskās palīdzības pieejamību, higiēnas, ugunsdrošības, drošības tehnikas un citu drošības noteikumu un normatīvo aktu ievērošanu.
+(2) Sportistiem, skatītājiem un citām sporta pasākuma norisē iesaistītajām personām ir pienākums ievērot sporta pasākuma organizatora norādījumus par sabiedrisko kārtību un drošību, kā arī citus drošības noteikumus.
+(3) Publisku izklaides un svētku pasākumu drošības likumā minētajos gadījumos un noteiktajā kārtībā publiska sporta pasākuma organizators pasākuma rīkošanai saņem tās pašvaldības atļauju, kuras administratīvajā teritorijā paredzēta pasākuma norise, vai informē šo pašvaldību par pasākuma norises laiku un vietu.
+(4) Sporta sacensības notiek saskaņā ar to organizatora apstiprinātu sacensību nolikumu. Sporta sacensību nolikumā obligāti iekļaujamo informāciju nosaka Ministru kabinets.
+(5) Sporta veidus un disciplīnas, kurās sporta sacensības atļauts rīkot tikai licencētā pastāvīgā vai uz laiku ierīkotā attiecīgo sporta sacensību norises vietā (trasē) un attiecīgajā sporta veidā licencēta atbilstošas kategorijas galvenā tiesneša vadībā, kā arī prasības un kārtību šādu sporta sacensību norises vietu (trašu) un attiecīgo sporta veidu galveno tiesnešu licencēšanai nosaka Ministru kabinets.
+(6) Prasības un kārtību, kādā norādāma informācija par sporta pasākuma līdzfinansēšanu no valsts budžeta, nosaka Ministru kabinets.

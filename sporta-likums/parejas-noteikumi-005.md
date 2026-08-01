@@ -1,0 +1,1 @@
+5. Atzīto sporta federāciju reģistra turētājs un pārzinis - biedrība "Latvijas Sporta federāciju padome" - informāciju no Atzīto sporta federāciju reģistra iekļauj Sporta reģistrā atbilstoši Ministru kabineta noteiktajai kārtībai un termiņiem.
