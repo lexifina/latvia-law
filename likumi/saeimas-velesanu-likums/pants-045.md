@@ -5,4 +5,4 @@
 (5) (Izslēgta ar 12.06.2025. likumu)
 (6) (Izslēgta ar 12.06.2025. likumu)
 (7) Ja balsošanai pa pastu pieteicies vēlētājs vēlēšanu dienā ierodas vēlēšanu iecirknī, viņš var nobalsot vēlēšanu iecirknī.
-(8) (Daļa stājas spēkā 01.08.2026. un iekļauta likuma redakcijā uz 01.08.2026. Sk. pārejas noteikumu 15. punktu)
+(8) Šā panta pirmajā daļā minēto elektronisko pakalpojumu nodrošina Valsts digitālās attīstības aģentūra. Pilsonības un migrācijas lietu pārvalde sniedz Valsts digitālās attīstības aģentūrai datus minētā pakalpojuma nodrošināšanai.
