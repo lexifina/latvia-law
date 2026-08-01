@@ -1,4 +1,4 @@
-58.pants. Informācijas par kapitālsabiedrību publiskošana
+58. pants. Informācijas par kapitālsabiedrību publiskošana
 (1) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība publisko savā mājaslapā internetā, bet, ja tai tādas nav, - kapitāla daļu turētāja mājaslapā internetā kapitālsabiedrības vispārējos stratēģiskos mērķus, ziņas par kapitālsabiedrības darbības un komercdarbības veidiem, kā arī šādu informāciju:
 1) ne retāk kā reizi gadā:
 a) kapitālsabiedrības finanšu mērķu (saskaņā ar apstiprinātu gada pārskatu) un nefinanšu mērķu īstenošanas rezultātus (tai skaitā bilances kopsumma, neto apgrozījums, peļņas vai zaudējumu aprēķins, naudas plūsmas pārskats, dažādi kapitālsabiedrības darbību raksturojošie rezultatīvie rādītāji) vismaz par pēdējiem pieciem gadiem,
@@ -7,7 +7,7 @@ c) informāciju par saņemto valsts vai pašvaldības budžeta finansējumu un t
 d) (izslēgts ar 13.06.2019. likumu),
 e) (izslēgts ar 13.06.2019. likumu);
 2) kapitālsabiedrības izstrādātos pārskatus vismaz par pēdējiem pieciem gadiem:
-a) zvērināta revidenta nepārbaudītu starpperiodu pārskatu par trim, sešiem un deviņiem mēnešiem, kā arī zvērināta revidenta nepārbaudītu gada pārskatu (divu mēnešu laikā pēc pārskata perioda beigām),
+a) starpperiodu pārskatu par trim, sešiem un deviņiem mēnešiem kopā ar attiecīgo zvērināta revidenta ziņojumu, titullapā skaidri norādot informāciju par to, vai pārskatu ir revidējis (pārbaudījis) zvērināts revidents, kā arī zvērināta revidenta nepārbaudītu gada pārskatu (divu mēnešu laikā pēc pārskata perioda beigām),
 b) zvērināta revidenta pārbaudītu gada pārskatu (piecu mēnešu laikā pēc pārskata gada beigām);
 3) pastāvīgi, atbilstoši nepieciešamībai aktualizējot:
 a) informāciju par īpašuma struktūru (tai skaitā līdzdalību citās sabiedrībās),
@@ -17,10 +17,11 @@ d) informāciju par iepirkumiem vismaz par pēdējiem pieciem gadiem,
 e) citu nozīmīgu informāciju, ja tā nav saistīta ar komercnoslēpuma izpaušanu,
 f) statūtus,
 g) valdes, padomes (ja tāda ir izveidota) nolikumu vai citu tam pielīdzināmu dokumentu, kas regulē tās darbību,
-h) informāciju par padomes (ja tāda ir izveidota) un valdes locekļiem (par katru atsevišķi): profesionālo darba pieredzi, izglītību, amatiem citās kapitālsabiedrībās, pilnvaru termiņiem, kā arī padomes locekļa atbilstību šajā likumā noteiktajiem neatkarīga padomes locekļa kritērijiem,
+h) informāciju par padomes (ja tāda ir izveidota) un valdes locekļiem (par katru atsevišķi): valdes vai padomes locekļa pilnvaru termiņu, profesionālo darba pieredzi, izglītību, aktuālajiem amatiem citās kapitālsabiedrībās vai publisku personu institūcijās, kā arī padomes locekļa atbilstību šajā likumā noteiktajiem neatkarīga padomes locekļa kritērijiem,
 i) informāciju par visām paziņotajām kapitālsabiedrības dalībnieku (akcionāru) sapulcēm, tai skaitā par darba kārtību un lēmumiem,
 j) valdes un padomes locekļu atlīdzības politiku un informāciju par katram valdes vai padomes loceklim noteikto mēneša atlīdzību un tās apmēra izmaiņām visā amata pildīšanas periodā, kā arī par izmaksāto amata atlīdzību, prēmiju apmēru un citiem saņemtajiem maksājumiem (piemēram, amata pienākumu izpildes nodrošināšanas izdevumu kompensācijām) katrā gadā,
-k) kapitālsabiedrības ziedošanas (dāvināšanas) stratēģiju un ziedošanas (dāvināšanas) kārtību.
+k) kapitālsabiedrības ziedošanas (dāvināšanas) stratēģiju un ziedošanas (dāvināšanas) kārtību;
+l) gaidu vēstuli (izņemot informāciju, kurai ir piešķirts ierobežotas pieejamības informācijas vai komercnoslēpuma statuss).
 (1¹) Publiskas personas kapitālsabiedrība un publiski privāta kapitālsabiedrība (akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, kura atbilst Gada pārskatu un konsolidēto gada pārskatu likumā noteiktajiem lielas sabiedrības kritērijiem) papildus savā mājaslapā internetā publicē arī šādu informāciju:
 1) ne retāk kā reizi gadā:
 a) informāciju par paredzamiem riska faktoriem,
@@ -33,7 +34,7 @@ f) paziņojumu par korporatīvo pārvaldību;
 a) informāciju par netipiskiem vai nozīmīga apjoma darījumiem ar saistītajām pusēm Finanšu instrumentu tirgus likuma 59.¹ panta izpratnē vismaz par pēdējiem pieciem gadiem,
 b) būtiskākās kapitālsabiedrības politikas, kurās definēti kapitālsabiedrības darbības principi attiecībā uz risku pārvaldību, interešu konflikta novēršanu, korupcijas apkarošanu, korporatīvo pārvaldību un citiem jautājumiem.
 (1²) Šā likuma 58.² pantā minētā kapitālsabiedrība savā mājaslapā internetā publicē arī ilgtspējas ziņojumus vai konsolidētos ilgtspējas ziņojumus par pēdējiem pieciem gadiem un to apliecinājuma ziņojumus, kas sagatavoti atbilstoši Ilgtspējas informācijas atklāšanas likuma prasībām.
-(2) Ja ir objektīvi iemesli, kuru dēļ kapitālsabiedrība nevar publiskot šā panta pirmajā un 1.¹ daļā minēto informāciju, kurai noteikts komercnoslēpuma statuss saskaņā ar Komerclikuma 19.pantu, kapitālsabiedrība mājaslapā internetā publisko attiecīgu skaidrojumu.
+(2) Ja ir objektīvi iemesli, kuru dēļ kapitālsabiedrība nevar publiskot šā panta pirmajā un 1.¹ daļā minēto informāciju, kurai noteikts komercnoslēpuma statuss vai ierobežotas pieejamības informācijas statuss, kapitālsabiedrība mājaslapā internetā publisko attiecīgu skaidrojumu.
 (3) Publiskas personas kapitālsabiedrība un publiski privātā kapitālsabiedrība nodrošina, ka šā panta pirmajā daļā minēto informāciju un otrajā daļā minēto skaidrojumu publisko arī tās meitas sabiedrība.
 (4) Šā panta pirmās daļas 2.punkta "a" apakšpunktā minētos starpperiodu pārskatus sagatavo atbilstoši normatīvajiem aktiem, kas regulē gada pārskatu sagatavošanu, un tajos ietilpst:
 1) starpperiodu finanšu pārskats, kas sastāv no bilances, peļņas vai zaudējumu aprēķina, pašu kapitāla izmaiņu pārskata, starpperiodu naudas plūsmas pārskata un pielikuma. Pielikumā sniedz informāciju, kas nodrošina starpperiodu pārskata atlikumu salīdzināmību ar atlikumiem iepriekšējā pārskata gada beigās (bilancei) vai iepriekšējā pārskata gada attiecīgajā periodā (peļņas vai zaudējumu aprēķinam, naudas plūsmas pārskatam, pašu kapitāla izmaiņu pārskatam), kā arī pietiekamu informāciju un skaidrojumus, lai starpperiodu finanšu pārskata lietotājs varētu gūt patiesu un skaidru priekšstatu par visām būtiskajām izmaiņām attiecībā uz bilances un peļņas vai zaudējumu aprēķina posteņiem un kapitālsabiedrības attīstības tendenci;

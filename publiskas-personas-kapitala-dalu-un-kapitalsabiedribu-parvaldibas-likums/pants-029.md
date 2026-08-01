@@ -18,4 +18,4 @@ d) kapitālsabiedrības veiktās iemaksas valsts budžetā, tai skaitā dividend
 7) ziņas, ka valsts paredzējusi izbeigt līdzdalību kapitālsabiedrībā;
 8) ziņas par uzsākto kapitālsabiedrības reorganizāciju vai pārveidi;
 9) citas ziņas, kuras valsts kapitāla daļu turētājs uzskata par nepieciešamu publiskot vai kuru publiskošana noteikta koordinācijas institūcijas izstrādātajās vadlīnijās.
-(3) Ja ir objektīvi iemesli, kuru dēļ nevar publiskot šā panta pirmajā un otrajā daļā minēto informāciju, kurai noteikts komercnoslēpuma statuss saskaņā ar Komerclikuma 19.pantu, koordinācijas institūcija vai valsts kapitāla daļu turētājs publisko attiecīgās kapitālsabiedrības sniegto skaidrojumu.
+(3) Ja ir objektīvi iemesli, kuru dēļ nevar publiskot šā panta pirmajā un otrajā daļā minēto informāciju, kurai noteikts komercnoslēpuma statuss vai ierobežotas pieejamības informācijas statuss, valsts kapitāla daļu turētājs publisko attiecīgās kapitālsabiedrības sniegto skaidrojumu.

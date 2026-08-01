@@ -1,0 +1,1 @@
+45. Ministru kabinets līdz 2027. gada 28. februārim izvērtē, vai minimālās prasības attiecībā uz valdes un padomes locekļu izglītību, valodu prasmi un darba pieredzi atbilst šā likuma 31. panta otrajai daļai un 37. panta otrajai daļai, un izstrādā attiecīgus grozījumus normatīvajos aktos.

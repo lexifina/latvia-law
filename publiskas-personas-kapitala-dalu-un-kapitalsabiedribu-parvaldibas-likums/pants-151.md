@@ -1,7 +1,8 @@
-151.pants. Lēmums par pamatkapitāla palielināšanu
-(1) Pamatojoties uz kapitāla daļu turētāja ierosinājumu, Ministru kabinets izdod rīkojumu par noteiktu parādu (izņemot nodokļu parādus) kapitalizāciju valsts kapitālsabiedrībā.
-(2) Atvasinātas publiskas personas augstākā lēmējinstitūcija pieņem lēmumu par noteiktu parādu (izņemot nodokļu parādus) kapitalizāciju atvasinātas publiskas personas kapitālsabiedrībā.
-(3) Pamatojoties uz kapitāla daļu turētāja ierosinājumu, Ministru kabinets izdod rīkojumu par mantas iegūšanu valsts kapitālsabiedrības īpašumā.
-(4) Atvasinātas publiskas personas augstākā lēmējinstitūcija pieņem lēmumu par mantas iegūšanu atvasinātas publiskas personas kapitālsabiedrības īpašumā.
-(5) Pamatojoties uz kapitāla daļu turētāja ierosinājumu, Ministru kabinets izdod rīkojumu par kapitāla piesaisti valsts kapitālsabiedrībai.
-(6) Atvasinātas publiskas personas augstākā lēmējinstitūcija pieņem lēmumu par kapitāla piesaisti atvasinātas publiskas personas kapitālsabiedrībai.
+151. pants. Lēmums par pamatkapitāla palielināšanu, veicot dalībnieku piesaisti
+(1) Lēmumu par nepieciešamību palielināt pamatkapitālu ar noteiktu parādu (izņemot nodokļu parādus) kapitalizāciju, pamatkapitāla palielināšanu ar jaunu dalībnieku piesaisti, apmaksājot daļas ar mantisko ieguldījumu vai naudas ieguldījumu, publiskas personas kapitālsabiedrībā pieņem publiskās personas augstākā lēmējinstitūcija, pamatojoties uz publiskās personas līdzdalības izvērtējumu.
+(2) Šā panta pirmajā daļā minētajā lēmumā norāda:
+1) kapitālsabiedrības pamatkapitāla palielinājuma summu;
+2) kapitālsabiedrības pamatkapitāla palielināšanas veidu un daļu (akciju) apmaksas termiņu;
+3) publiskas personas līdzdalības mērķi (ja tas tiek mainīts);
+4) dalībniekus, kam tiks piedāvāta iespēja iegādāties jaunās kapitāla daļas (akcijas), vai to piesaistes pamatnoteikumus;
+5) citus būtiskus dalībnieku piesaistes noteikumus.

@@ -2,7 +2,7 @@
 Atvasināta publiska persona nodrošina, ka tās mājaslapā internetā tiek publiskota aktuāla informācija par kapitālsabiedrībām, kurās tai ir līdzdalība, tai skaitā šādas ziņas:
 1) kapitālsabiedrību saraksts, kas grupēts pēc nozares vai lieluma kritērijiem;
 2) kapitālsabiedrības firma, juridiskā adrese, pamatkapitāla lielums un atvasinātas publiskas personas līdzdalības apmērs;
-3) atvasinātas publiskas personas līdzdalības atbilstība šā likuma 4.panta pirmās daļas nosacījumiem un vispārējais stratēģiskais mērķis;
+3) atvasinātas publiskas personas lēmums par līdzdalības iegūšanu, izbeigšanu vai saglabāšanu kapitālsabiedrībā vai apliecinājums par atvasinātas publiskas personas līdzdalības atbilstību šā likuma 4. panta pirmās daļas nosacījumiem, kapitālsabiedrības vispārējie stratēģiskie mērķi un saite uz publiski pieejamu tiešsaistes vietni, kur publiskots atvasinātas publiskas personas lēmums par līdzdalības iegūšanu, izbeigšanu vai saglabāšanu attiecīgajā kapitālsabiedrībā;
 4) kapitālsabiedrības līdzdalība citās sabiedrībās un tās atbilstība šā likuma 4.panta otrās daļas nosacījumiem;
 5) atvasinātas publiskas personas kapitāla daļu turētāja pārstāvis kapitālsabiedrībā;
 6) kapitālsabiedrības apstiprināts gada pārskats;

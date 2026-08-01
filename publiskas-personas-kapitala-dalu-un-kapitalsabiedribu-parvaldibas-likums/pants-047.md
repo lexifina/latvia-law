@@ -1,2 +1,3 @@
-47.pants. Kapitālsabiedrības valdes, padomes un revidenta ievēlēšana
-Līdz sabiedrības reģistrācijai izveidotā valde un padome tiek ievēlēta, kā arī revidents iecelts uz pilnu pilnvaru termiņu.
+47. pants. Kapitālsabiedrības valdes, padomes un revidenta iecelšana
+(1) Ja kapitālsabiedrības dibināšanas procesā kapitālsabiedrības valde un padome tiek iecelta, nerīkojot publisku kandidātu pieteikšanās procedūru, tad uz valdi un padomi, kas izveidota līdz sabiedrības reģistrācijai, attiecināmi šā likuma 31. panta astotās daļas 2. punkta un devītās daļas vai 37. panta astotās daļas 2. punkta un devītās daļas noteikumi, bet revidents tiek iecelts uz pilnu pilnvaru termiņu.
+(2) Tāda kapitālsabiedrības valde un padome, kas izveidota kapitālsabiedrības dibināšanas procesā, atlasot iespējamos valdes un padomes locekļu kandidātus publiskā kandidātu pieteikšanās procedūrā atbilstoši šā likuma 31. panta otrās un trešās daļas vai 37. panta otrās un trešās daļas noteikumiem, tiek iecelta uz pilnu pilnvaru termiņu.

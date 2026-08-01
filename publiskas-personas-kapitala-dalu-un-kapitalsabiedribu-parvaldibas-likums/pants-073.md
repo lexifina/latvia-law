@@ -1,4 +1,4 @@
-73.pants. Dalībnieku sapulces sasaukšanas kārtība
+73. pants. Dalībnieku sapulces sasaukšanas kārtība
 (1) Paziņojumu par dalībnieku sapulces sasaukšanu valde nosūta kapitāla daļu turētāja pārstāvim, visiem padomes locekļiem un revidentam ne vēlāk kā divas nedēļas pirms sapulces.
-(2) Paziņojumā norāda dalībnieku sapulces norises vietu un laiku, sapulces veidu, institūciju, kura pieprasījusi sasaukt sapulci, dalībnieku sapulces darba kārtību, lēmumu projektus, kā arī citas ziņas, kas saistītas ar sapulces sasaukšanu un norisi.
+(2) Paziņojumā norāda dalībnieku sapulces norises veidu (klātienes vai attālināta), vietu, datumu un laiku, sapulces veidu (kārtējā vai ārkārtas), institūciju, kura pieprasījusi sasaukt sapulci, sapulces darba kārtību, lēmumu projektus, kā arī citas ziņas, kas saistītas ar sapulces sasaukšanu un norisi.
 (3) Ja dalībnieku sapulce tiek sasaukta šā likuma 69.panta otrajā un trešajā daļā vai 70.panta piektajā daļā minētajā kārtībā, sapulces sasaukšanas ierosinātājs nodrošina, lai kapitāla daļu turētājs, padomes locekļi un revidents sapulces lēmumu projektus un citus materiālus saņemtu ne vēlāk kā divas darbdienas pirms sapulces.

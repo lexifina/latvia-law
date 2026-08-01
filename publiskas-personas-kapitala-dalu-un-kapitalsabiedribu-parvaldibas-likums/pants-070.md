@@ -1,5 +1,5 @@
-70.pants. Ārkārtas dalībnieku sapulce
-(1) Ārkārtas dalībnieku sapulci sasauc valde pēc savas iniciatīvas vai tad, ja to rakstveidā pieprasa padome (ja tāda ir izveidota), revidents vai kapitāla daļu turētāja pārstāvis.
+70. pants. Ārkārtas dalībnieku sapulce
+(1) Ārkārtas dalībnieku sapulci sasauc valde pēc savas iniciatīvas vai tad, ja to rakstveidā pieprasa padome (ja tāda ir izveidota), revidents vai kapitāla daļu turētāja pārstāvis. Kapitāla daļu turētāja pārstāvis ir tiesīgs sasaukt ārkārtas dalībnieku sapulci pēc savas iniciatīvas, informējot par to kapitālsabiedrības valdi, kurai ir pienākums informēt padomi un uzaicināmās personas.
 (2) Ārkārtas dalībnieku sapulces sasaukšanas ierosinātāji pieprasījumā norāda sapulces sasaukšanas iemeslus un darba kārtību, kā arī iesniedz lēmumu projektus darba kārtības jautājumos. Pieprasījumu sasaukt sapulci iesniedz valdei un padomei (ja tāda ir izveidota) un paziņo par to revidentam un kapitāla daļu turētājam.
 (3) Valde sasauc ārkārtas dalībnieku sapulci ne vēlāk kā divu nedēļu laikā pēc pieprasījuma saņemšanas.
 (4) Ja valde šā panta trešajā daļā noteiktajā termiņā nesasauc ārkārtas dalībnieku sapulci, to var sasaukt pats ārkārtas dalībnieku sapulces sasaukšanas ierosinātājs.

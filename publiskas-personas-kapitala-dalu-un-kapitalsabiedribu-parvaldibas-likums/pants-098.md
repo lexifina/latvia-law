@@ -1,5 +1,5 @@
-98.pants. Ārkārtas akcionāru sapulce
-(1) Ārkārtas akcionāru sapulci sasauc valde pēc savas iniciatīvas vai tad, ja to rakstveidā pieprasa padome (ja tāda ir izveidota), revidents vai akciju turētājs.
+98. pants. Ārkārtas akcionāru sapulce
+(1) Ārkārtas akcionāru sapulci sasauc valde pēc savas iniciatīvas vai tad, ja to rakstveidā pieprasa padome (ja tāda ir izveidota), revidents vai akciju turētājs. Akciju turētāja pārstāvis ir tiesīgs sasaukt ārkārtas akcionāru sapulci pēc savas iniciatīvas, informējot par to kapitālsabiedrības valdi, kurai ir pienākums informēt padomi un uzaicināmās personas.
 (2) Ārkārtas akcionāru sapulces sasaukšanas ierosinātājs pieprasījumā norāda sapulces sasaukšanas iemeslus un darba kārtību un iesniedz lēmumu projektus darba kārtības jautājumos. Pieprasījumu sasaukt sapulci iesniedz valdei un padomei (ja tāda ir izveidota) un paziņo par to revidentam un akciju turētājam.
 (3) Valde sasauc ārkārtas akcionāru sapulci ne vēlāk kā divu nedēļu laikā pēc pieprasījuma saņemšanas.
 (4) Ja valde šā panta trešajā daļā minētajā termiņā nesasauc ārkārtas akcionāru sapulci, to var sasaukt pats ārkārtas akcionāru sapulces sasaukšanas ierosinātājs.

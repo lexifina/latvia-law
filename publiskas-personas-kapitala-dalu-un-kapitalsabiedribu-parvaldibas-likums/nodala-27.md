@@ -1,2 +1,2 @@
 XXVII nodaļa
-Kapitālsabiedrības pamatkapitāla palielināšana
+Dalībnieku piesaiste ar pamatkapitāla palielināšanu

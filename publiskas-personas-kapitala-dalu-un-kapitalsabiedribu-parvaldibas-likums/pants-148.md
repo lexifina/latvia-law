@@ -5,3 +5,4 @@
 3) nododot publiskas personas kapitāla daļas bez atlīdzības citai publiskai personai (šā likuma 159. un 160. pants);
 4) veicot publiskai personai piederošo kapitāla daļu pārdošanu, tai skaitā izsakot akciju kapitāla daļu publisko piedāvājumu, ja kapitālsabiedrībai nav noteikts kapitāldaļu atsavināšanas aizliegums.
 (2) Pirms tiek pieņemts lēmums par dalībnieku piesaisti, publiskā persona veic tās līdzdalības kapitālsabiedrībā izvērtējumu atbilstoši šā likuma 7. panta noteikumiem.
+(3) Personāla akciju izlaišana nav uzskatāma par kapitāla piesaistes veidu šīs nodaļas izpratnē un neietekmē publiskas personas kapitālsabiedrības statusu un pārvaldības kārtību.

@@ -1,8 +1,8 @@
-107.pants. Padomes uzdevumi
-(1) Padome ir sabiedrības pārraudzības institūcija, kas pārstāv akcionāru intereses sapulču starplaikā un pārrauga valdes darbību.
+107. pants. Padomes uzdevumi
+(1) Padome ir sabiedrības pārraudzības institūcija, kas pārstāv sabiedrības intereses un uzrauga valdes darbību un sabiedrības attīstību saskaņā ar šo likumu un statūtiem.
 (2) Padomes uzdevumi ir šādi:
 1) ievēlēt un atsaukt valdes priekšsēdētāju un valdes locekļus;
-2) noteikt valdes locekļu atlīdzību;
+2) noteikt valdes locekļu atlīdzību saskaņā ar akcionāru sapulces apstiprinātu atlīdzības politiku;
 3) apstiprināt vidēja termiņa darbības stratēģiju un uzraudzīt tās īstenošanu;
 4) pastāvīgi uzraudzīt, lai sabiedrības lietas tiktu kārtotas saskaņā ar normatīvo tiesību aktu, sabiedrības statūtu, akcionāru sapulces lēmumu prasībām;
 5) izskatīt sabiedrības gada pārskatu, valdes ziņojumu un valdes priekšlikumus par peļņas izlietošanu, sagatavot par tiem padomes ziņojumu un iesniegt tos akcionāru sapulcei;
@@ -12,6 +12,6 @@
 9) sniegt akcionāram priekšlikumus par sabiedrības darbības uzlabošanu;
 10) apstiprināt ikgadējo budžetu un uzraudzīt tā izpildi;
 11) uzraudzīt iekšējās kontroles un risku pārvaldības sistēmu darbību, pārskatīt to atbilstību un efektivitāti;
-12) apstiprināt būtiskākās politikas, kurās definēti sabiedrības darbības principi attiecībā uz risku pārvaldību, interešu konflikta novēršanu, korupcijas apkarošanu, korporatīvo pārvaldību un citiem jautājumiem;
+12) apstiprināt būtiskākās politikas, kurās definēti sabiedrības darbības principi attiecībā uz risku pārvaldību, interešu konflikta novēršanu, korupcijas apkarošanu, korporatīvo pārvaldību un citiem jautājumiem, kā arī izstrādāt un iesniegt akcionāru sapulcei izskatīšanai padomes locekļu atlīdzības politiku;
 13) veikt padomes darba ikgadējo pašvērtējumu.
 (3) Statūtos var noteikt, ka svarīgu jautājumu izlemšanai valdei ir nepieciešama padomes piekrišana. Ja padome noraida valdes priekšlikumu, valdei ir tiesības sasaukt ārkārtas akcionāru sapulci, kura pieņem lēmumu attiecīgajā jautājumā.

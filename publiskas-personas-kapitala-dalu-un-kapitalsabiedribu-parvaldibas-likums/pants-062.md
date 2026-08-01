@@ -1,2 +1,3 @@
-62.pants. Lēmums par pamatkapitāla izmaiņām
-Pamatkapitālu drīkst palielināt vai samazināt, tikai pamatojoties uz dalībnieku sapulces lēmumu, kurā iekļauti pamatkapitāla palielināšanas vai samazināšanas noteikumi.
+62. pants. Lēmums par pamatkapitāla izmaiņām
+(1) Sabiedrības dalībnieku sapulce lēmumu par sabiedrības pamatkapitāla palielināšanu vai samazināšanu pieņem saskaņā ar publiskas personas augstākās lēmējinstitūcijas iepriekš pieņemtajiem lēmumiem vai publiskas personas budžeta apropriācijām.
+(2) Dalībnieku sapulces lēmumā par pamatkapitāla palielināšanu vai samazināšanu norāda attiecīgi pamatkapitāla palielināšanas vai samazināšanas noteikumus un šo rīcību pamatojošo tiesību aktu. Ja pamatkapitāls tiek samazināts, papildus norāda rīcību ar daļu dzēšanas rezultātā publiskai personai piekrītošajiem līdzekļiem.

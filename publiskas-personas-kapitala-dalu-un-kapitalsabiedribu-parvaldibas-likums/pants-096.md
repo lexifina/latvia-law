@@ -1,3 +1,4 @@
-96.pants. Akcionāru sapulces sasaukšana
+96. pants. Akcionāru sapulces sasaukšana
 (1) Tiek sasauktas kārtējās akcionāru sapulces un ārkārtas akcionāru sapulces.
 (2) Akcionāru sapulces sasauc valde, izņemot šajā likumā paredzētos gadījumus.
+(3) Akcionāru sapulci var organizēt klātienē vai izmantojot elektroniskos saziņas līdzekļus (attālināta akcionāru sapulce).
