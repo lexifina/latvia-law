@@ -11,7 +11,7 @@
 (3) Mākslu un kultūras universitāte savu mērķu sasniegšanai:
 1) īsteno bakalaura, maģistra un akadēmiskās doktora studiju programmas un veic starptautiski atzītu zinātnisko darbību, kas aprobēta ar starptautiski atzītām (citētām) zinātniskajām publikācijām humanitārajās zinātnēs un mākslā, kā arī īsteno profesionālās doktora studiju programmas izglītības tematiskajā jomā "Mākslas";
 2) nodrošina, ka:
-a) vismaz 40 procentiem vēlētā akadēmiskā personāla ir zinātnes doktora grāds vai profesionālais doktora grāds mākslās, tai skaitā vismaz 25 procentiem vēlētā akadēmiskā personāla ir zinātnes doktora grāds un vismaz 20 procenti akadēmiskā personāla ir nacionālā un starptautiskā līmenī atzīti mākslinieki,
+a) vismaz 40 procentiem akadēmiskā personāla ir zinātnes doktora grāds vai profesionālais doktora grāds mākslās, tai skaitā vismaz 25 procentiem akadēmiskā personāla ir zinātnes doktora grāds un vismaz 20 procenti akadēmiskā personāla ir nacionālā un starptautiskā līmenī atzīti mākslinieki,
 b) katru gadu doktora studiju programmās tiek aizstāvēti promocijas darbi vai doktora teorētiskie pētījumi un mākslinieciskās jaunrades darbi, kā arī tiek piešķirts zinātnes vai profesionālais doktora grāds,
 c) izglītības tematiskajā jomā "Mākslas" studējošo īpatsvars ir vismaz 70 procenti;
 3) piedalās nacionāla un starptautiska līmeņa fundamentālo un lietišķo pētījumu un mākslinieciskās jaunrades projektu konkursos, īsteno mākslinieciskās jaunrades, pētniecības un attīstības projektus un līgumdarbus mākslas, mūzikas, skatuves mākslas, teātra, dejas, audiovizuālās mākslas, kultūras mantojuma, kultūrizglītības, kultūras un radošo industriju jomās un citās kultūras jomās, kā arī citās nozarēs atbilstoši tautsaimniecības un sabiedrības vajadzībām;

@@ -12,7 +12,7 @@
 3) augstskolas darbībā konstatēti ar licencēto studiju programmu saistīti normatīvo aktu pārkāpumi;
 4) nav iesniegts iesniegums par studiju virziena akreditāciju atbilstoši šā likuma 55.³ panta prasībām;
 5) augstskola 30 dienu laikā pēc Izglītības un zinātnes ministrijas pieprasījuma nesniedz tai pilnīgu informāciju par jautājumiem, kas saistīti ar studiju procesa nodrošināšanu, kā arī par augstskolas studiju bāzi, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko bāzi vai finansiālo bāzi;
-6) akadēmiskajam personālam un viesprofesoriem, asociētajiem viesprofesoriem, viesdocentiem, vieslektoriem un viesasistentiem nav atbilstošas kvalifikācijas vai augstskola nenodrošina atbilstošu studiju bāzi, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko bāzi vai finansiālo bāzi;
+6) akadēmiskajam personālam un akadēmiskajam viespersonālam nav atbilstošas kvalifikācijas vai augstskola nenodrošina atbilstošu studiju bāzi, informatīvo bāzi (tai skaitā bibliotēku), materiāltehnisko bāzi vai finansiālo bāzi;
 7) augstskolā pārtraukta studiju programmas īstenošana;
 8) ir pieņemts lēmums par atteikumu akreditēt studiju virzienu augstskolā;
 9) studiju virziena novērtēšanas ietvaros studiju programma atzīta par neatbilstošu šā likuma prasībām;

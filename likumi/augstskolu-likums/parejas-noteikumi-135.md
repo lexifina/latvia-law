@@ -1,0 +1,1 @@
+135. Darba līgumiem, kas no 2026. gada 1. augusta ir noslēgti ar tenūrgaitas amatā un akadēmiskā personāla amatā jomas praktiķiem nodarbinātajiem, piemēro šā likuma 27. panta piekto un 5.¹ daļu redakcijā, kas stājas spēkā 2026. gada 1. decembrī.

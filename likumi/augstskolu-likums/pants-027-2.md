@@ -1,0 +1,6 @@
+27.² pants. Akadēmiskā karjera tenūrgaitas amatā un tenūramatā
+(1) Darba līgumu ar tenūrgaitas amatā nodarbināto slēdz ne vairāk kā divas reizes pēc kārtas. Ar tenūrgaitas amatā nodarbināto var noslēgt otru darba līgumu uz noteiktu laiku, ja pirmā darba līguma termiņā darba sniegums novērtēts kā atbilstošs attiecīgās pakāpes tenūrgaitas amatam.
+(2) Pēc darba līguma termiņa beigām pirmās pakāpes tenūrgaitas amatā nodarbinātais var pretendēt uz otrās pakāpes tenūramatu, ja tāds augstskolā ir paredzēts. Otrās pakāpes tenūrgaitas amatā nodarbinātais var pretendēt uz otrās pakāpes tenūramatu vai trešās pakāpes tenūramatu, ja tāds augstskolā ir paredzēts.
+(3) Ja tenūrgaitas amatā nodarbinātā darba sniegumu novērtē kā neatbilstošu tam noteiktajām prasībām, augstskola var pagarināt pirmā darba līguma termiņu ne ilgāk kā uz diviem gadiem.
+(4) Tenūramatā nodarbinātā akadēmiskā personāla darba sniegumu novērtē ne retāk kā reizi sešos gados. Otrās pakāpes tenūramatā nodarbināto pēc darba snieguma novērtēšanas var paaugstināt trešās pakāpes tenūramatā, ja tāds augstskolā ir paredzēts un personas darba sniegums novērtēts kā atbilstošs trešās pakāpes tenūramatam.
+(5) Augstskola nosaka prasības un kārtību tenūrgaitas amata un tenūramata iegūšanai.

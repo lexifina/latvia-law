@@ -1,0 +1,1 @@
+140. Iesniegumu par nozares profesoru padomes lēmuma par pretendenta ievēlēšanu profesora vai asociētā profesora amatā apstrīdēšanu, kurš iesniegts līdz 2026. gada 31. jūlijam, bet par kuru nav pieņemts lēmums apstrīdēšanas procesa ietvaros, izskata atbilstoši šā likuma 33. panta otrās daļas noteikumiem redakcijā, kas ir spēkā 2026. gada 31. jūlijā.

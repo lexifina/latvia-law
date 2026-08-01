@@ -5,7 +5,7 @@
 2) veikt lietišķos pētījumus, kā arī ar inovācijām un mūžizglītības procesiem nodrošināt zināšanu un tehnoloģiju pārnesi attiecīgās tautsaimniecības nozarēs, veicinot to iespēju dinamiski piemēroties ārējās vides pārmaiņām.
 (3) Lietišķo zinātņu universitāte savu mērķu sasniegšanai:
 1) īsteno studiju programmas vismaz divos studiju virzienos, kā arī veic starptautiski atzītu zinātnisko darbību, kas aprobēta ar starptautiski atzītām (citētām) zinātniskajām publikācijām, zinātniski recenzētām monogrāfijām, intelektuālā īpašuma objektiem (piemēram, patents, augu šķirne), vismaz divās zinātnes nozaru grupās;
-2) nodrošina, ka vismaz 60 procentiem vēlētā akadēmiskā personāla ir zinātnes doktora grāds;
+2) nodrošina, ka vismaz 60 procentiem akadēmiskā personāla ir zinātnes doktora grāds;
 3) ja universitātē atvērta akadēmiskā doktora studiju programma, - nodrošina, ka katru gadu akadēmiskajās doktora studiju programmās tiek aizstāvēti promocijas darbi un piešķirti zinātnes doktora grādi;
 4) aktīvi sadarbojas ar industrijām, veicina dažādu veidu sadarbības platformu attīstību, kā arī iegulda savus resursus ar inovāciju vai tehnoloģiju pārnesi saistītos uzņēmumos;
 5) ir reģistrēta zinātnisko institūciju reģistrā un zinātnisko institūciju darbības starptautiskajā novērtējumā ieguvusi vismaz triju ballu novērtējumu stratēģiskās specializācijas jomās.

@@ -1,0 +1,1 @@
+136. Līdz 2028. gada 31. decembrim par darba snieguma novērtēšanu docentiem ar tenūrgaitas statusu šā likuma 27.² panta izpratnē ir uzskatāma zinātniskās un pedagoģiskās kvalifikācijas novērtēšana. Pirmo darba snieguma novērtēšanu pētniekam un vadošajam pētniekam tenūras ietvaros veic ne agrāk kā 2029. gada 1. janvārī.

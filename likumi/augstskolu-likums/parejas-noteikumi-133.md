@@ -1,0 +1,1 @@
+133. Grozījumu šā likuma 26. pantā par septītās daļas izteikšanu jaunā redakcijā piemēro attiecībā uz nodarbinātību vienā akadēmiskā personāla amatā vienā augstskolā un nodarbinātību vienlaikus vairākās augstskolās no 2029. gada 1. janvāra.

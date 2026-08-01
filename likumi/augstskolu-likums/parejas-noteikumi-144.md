@@ -1,0 +1,1 @@
+144. Grozījumus šā likuma 38. pantā attiecībā uz izglītības prasībām pētniekam piemēro no 2031. gada 1. janvāra. Līdz 2030. gada 31. decembrim attiecībā uz izglītības prasībām pētniekam piemēro Zinātniskās darbības likuma noteikumus redakcijā, kas ir spēkā 2026. gada 30. novembrī.

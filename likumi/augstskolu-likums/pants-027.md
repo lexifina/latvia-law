@@ -1,12 +1,16 @@
 27.pants. Akadēmiskais personāls
 (1) Augstskolas akadēmisko personālu veido:
-1) profesori, asociētie profesori;
-2) docenti, vadošie pētnieki;
-3) lektori, pētnieki;
-4) asistenti.
-(2) Augstskolas akadēmiskais personāls veic zinātniskos pētījumus, mākslinieciskās jaunrades darbu un piedalās studējošo izglītošanā, attiecīgi izvēloties zinātniskās darbības un mākslinieciskās jaunrades tematiku un virzienu, kā arī studējošo izglītošanas un novērtēšanas metodes. Akadēmiskā personāla uzdevumu apjomu nosaka augstskola.
+1) jaunākais akadēmiskais personāls (akadēmiskās karjeras pirmais posms) - lektori, asistenti;
+2) kvalificēts akadēmiskais personāls (akadēmiskās karjeras otrais posms) - docenti, pētnieki;
+3) augsti kvalificēts akadēmiskais personāls (akadēmiskās karjeras trešais posms) - asociētie profesori, vadošie pētnieki;
+4) vadošais akadēmiskais personāls (akadēmiskās karjeras ceturtais posms) - profesori.
+(1¹) Papildus šā panta pirmajā daļā minētajiem amatiem augstskola var veidot akadēmiskā personāla amatus jomas praktiķiem visos akadēmiskās karjeras posmos, izcilības profesora amatu kā vadošā akadēmiskā personāla amatu, kā arī pēcdoktorantūras pētnieka un vecākā lektora amatus kā kvalificēta akadēmiskā personāla amatus.
+(1²) Atbilstoši cilvēkresursu politikai augstskola akadēmisko personālu izraugās, piemērojot ievēlēšanas procedūru vai atlases procedūru.
+(1³) Akadēmisko personālu jomas praktiķa un izcilības profesora amatos, kā arī akadēmisko viespersonālu izraugās atlases procedūrā. Augsti kvalificētu akadēmisko personālu un vadošo akadēmisko personālu (izņemot izcilības profesorus, akadēmisko viespersonālu) izraugās, izsludinot atklātu starptautisku konkursu.
+(2) Augstskolas akadēmiskais personāls veic zinātniskos pētījumus, mākslinieciskās jaunrades darbu un piedalās studējošo izglītošanā, attiecīgi izvēloties zinātniskās darbības un mākslinieciskās jaunrades tematiku un virzienu, kā arī metodes studējošo un sabiedrības izglītošanai un studējošo novērtēšanai. Akadēmiskā personāla uzdevumu apjomu nosaka augstskola.
 (3) (Izslēgta ar 01.12.2009. likumu)
 (4) Ar pensionēto akadēmisko personālu rektors saskaņā ar valsts vai citu avotu piešķirto finansējumu var slēgt individuālus līgumus, arī līgumus par zinātnisko pētījumu veikšanu, paredzot konkrētu samaksu par noteiktu darba apjomu atbilstoši darbinieka kvalifikācijai. Par īpašu ieguldījumu augstākajā izglītībā, profesoriem un asociētajiem profesoriem sasniedzot pensijas vecumu, augstskola var piešķirt goda nosaukumu - emeritus profesors.
 (5) Akadēmiskajos amatos ievēlētajām personām nav piemērojams Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums. Darba līgumu ar akadēmiskajā amatā ievēlēto personu (docentu, lektoru, asistentu) slēdz rektors vai cita persona tā pilnvarojumā.
+(5¹) (Daļa stājas spēkā 01.12.2026. un iekļauta likuma redakcijā uz 01.12.2026. Sk. pārejas noteikumu 134. punktu)
 (6) Ministru kabinets nosaka kārtību un kritērijus, pēc kādiem atzīst kompetenci akadēmiskā personāla amata pretendentam, kuram nav doktora grāda, bet ir septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība un astotajam profesionālās kvalifikācijas līmenim atbilstoša darba pieredze nozarē.
-(7) Lai veicinātu augstskolas attīstību tās stratēģiskajā specializācijā, akadēmiskā personāla amatā, izņemot lektoru un asistentu, vienu reizi uz laiku, kas nav ilgāks par sešiem gadiem, var ievēlēt ārzemnieku, kura valsts valodas prasme neatbilst normatīvajos aktos noteiktajam apjomam. Augstskola nodrošina iespēju apgūt valsts valodu akadēmiskā personāla amatā ievēlētajam ārzemniekam. Pēc sešu gadu termiņa beigām ārzemnieku var ievēlēt akadēmiskajā amatā tajā pašā vai citā augstskolā, ja viņš ir ieguvis apliecinājumu par valsts valodas prasmi Ministru kabineta noteiktajā apjomā.
+(7) Lai veicinātu augstskolas attīstību tās stratēģiskajā specializācijā, akadēmiskā personāla amatā, izņemot lektoru un asistentu, vienu reizi uz laiku, kas nav ilgāks par sešiem gadiem, var pieņemt darbā ārzemnieku, kura valsts valodas prasme neatbilst normatīvajos aktos noteiktajam apjomam. Augstskola nodrošina iespēju apgūt valsts valodu akadēmiskā personāla amatā nodarbinātajam ārzemniekam. Pēc sešu gadu termiņa beigām ārzemnieku var pieņemt darbā akadēmiskajā amatā tajā pašā vai citā augstskolā, ja viņš ir ieguvis apliecinājumu par valsts valodas prasmi Ministru kabineta noteiktajā apjomā.

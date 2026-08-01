@@ -1,0 +1,1 @@
+143. No 2026. gada 1. augusta tenūras ietvaros attiecībā uz darba tiesisko attiecību ar akadēmisko personālu izbeigšanu vai personas pārcelšanu citā akadēmiskajā amatā vai citā amatā augstskolā piemēro šā likuma 35.¹ panta pirmo daļu redakcijā, kas stājas spēkā 2029. gada 1. janvārī.
