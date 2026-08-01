@@ -4,8 +4,8 @@
 (3) Koledžas dome sadarbībā ar koledžas direktoru izstrādā koledžas nolikumu un tā grozījumus un iesniedz apstiprināšanai dibinātājam.
 (4) Koledžas dome:
 1) saskaņo koledžas ilgtermiņa un vidējā termiņa attīstības stratēģijas projektu un iesniedz to apstiprināšanai dibinātājam;
-2) izstrādā un apstiprina nolikumu par akadēmiskajiem amatiem koledžā un ievēlēšanas kārtību šajos amatos, kā arī akadēmiskā personāla vērtēšanas kritērijus;
-3) ievēlē akadēmisko personālu;
+2) izstrādā un apstiprina nolikumu par akadēmiskajiem amatiem koledžā un kārtību, kādā pieņem darbā šajos amatos, kā arī akadēmiskā personāla vērtēšanas kritērijus;
+3) (izslēgts ar 04.06.2026. likumu);
 4) lemj par prasībām, procedūrām un pārbaudījumiem kvalifikāciju iegūšanai;
 5) sagatavo priekšlikumus par studiju maksu īsā cikla profesionālās augstākās izglītības programmās tajās studiju vietās, kuras netiek finansētas no valsts budžeta līdzekļiem, un iesniedz apstiprināšanai dibinātājam;
 6) nosaka no valsts budžeta līdzekļiem finansēto studiju vietu sadalījuma kārtību īsā cikla profesionālās augstākās izglītības programmās studējošajiem.

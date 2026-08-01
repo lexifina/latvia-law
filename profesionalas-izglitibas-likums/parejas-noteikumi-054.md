@@ -1,0 +1,1 @@
+54. Grozījums šā likuma 31. pantā par 4.¹ daļas izteikšanu jaunā redakcijā stājas spēkā 2026. gada 31. decembrī. Līdz 2026. gada 30. decembrim, piemērojot šā likuma 31. panta 4.¹ pantu, par attiecīgās izglītības programmas apguvi par valsts budžeta līdzekļiem ir uzskatāma arī daļēji no valsts budžeta līdzekļiem finansētas izglītības programmas apguve.

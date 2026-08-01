@@ -7,7 +7,7 @@
 5) izglītības procesa organizāciju;
 6) izglītības iestādes pārvaldes institūcijas un padomdevējas institūcijas, koledžā - tās pārstāvības, vadības institūciju un lēmējinstitūciju izveidošanas, ievēlēšanas vai iecelšanas kārtību un sastāvu, kā arī šo institūciju tiesības, pienākumus un uzdevumus, pilnvaru termiņus un atsaukšanas kārtību;
 7) izglītības iestādes pašpārvaldes izveidošanas kārtību, tās kompetenci;
-8) koledžas akadēmiskā personāla ievēlēšanas kārtību;
+8) kārtību, kādā pieņem darbā koledžas akadēmisko personālu;
 9) pedagogu (akadēmiskā personāla) un citu darbinieku tiesības un pienākumus;
 10) izglītojamo un studējošo tiesības un pienākumus;
 11) izglītojamo un studējošo pašpārvaldes izveidošanas kārtību un pašpārvaldes kompetenci;

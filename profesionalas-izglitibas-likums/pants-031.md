@@ -9,6 +9,7 @@
 (2⁶) Studiju maksu studiju vietās, kas netiek finansētas no valsts budžeta līdzekļiem, sedz studējošie, juridiskās vai fiziskās personas, noslēdzot par to attiecīgu vienošanos ar koledžu.
 (2⁷) Finanšu līdzekļi no studiju maksas izmantojami studiju procesu nodrošināšanai atbilstīgi koledžas nolikumā noteiktajiem koledžas darbības mērķiem.
 (3) Profesionālās kvalifikācijas noslēguma eksāmena izmaksas un citas ar profesionālās kvalifikācijas piešķiršanu saistītās izmaksas sedz no to iestāžu finanšu līdzekļiem, kurās izglītojamais apgūst attiecīgo profesionālās izglītības programmu.
+(3¹) Valsts dibināto profesionālās izglītības iestāžu maksas pakalpojumu cenrādi apstiprina attiecīgās izglītības iestādes direktors.
 (4) Profesionālās izglītības un profesionālās kvalifikācijas ieguvi Ministru kabineta noteiktajā kārtībā no valsts budžeta sedz:
 1) izglītojamajiem ar speciālām vajadzībām, ja viņi atrodas speciālās izglītības vai sociālās korekcijas iestādē;
 2) notiesātajiem, ja viņi atrodas brīvības atņemšanas vietā.

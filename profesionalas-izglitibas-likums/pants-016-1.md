@@ -29,6 +29,6 @@
 5) sadarbības ar darba devējiem rādītājus.
 (9) Vērtējot profesionālās izglītības iestādes atbilstību koledžas statusam, papildus šā panta piektajā daļā noteiktajam tiek vērtēts, vai:
 1) īsā cikla profesionālās augstākās izglītības programmas ir vismaz vienā studiju virzienā;
-2) vismaz 65 procentiem vēlētā akadēmiskā personāla ir septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība vai profesionālā kvalifikācija;
+2) vismaz 65 procentiem akadēmiskā personāla ir septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība vai profesionālā kvalifikācija;
 3) ir noslēgti sadarbības līgumi ar augstskolām, kas nodrošina iespēju studiju turpināšanai atbilstošās pirmā cikla profesionālās augstākās izglītības programmās;
 4) aktīvi sadarbojas ar darba devējiem un nodrošina darba vidē balstītas mācības, kā arī veic lietišķos pētījumus koledžas stratēģiskās specializācijas virzienos, tostarp iesaista pētniecībā studējošos.
