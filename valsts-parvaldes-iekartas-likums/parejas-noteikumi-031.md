@@ -1,0 +1,1 @@
+31. Publisku personu kapitālsabiedrību līdzdalības pārvērtēšanas procesi, kas uzsākti līdz 2026. gada 31. jūlijam, tiek pabeigti saskaņā ar šā likuma 88. panta septītās daļas redakciju, kāda bija spēkā dienā, kad tika uzsākts līdzdalības pārvērtēšanas process.
