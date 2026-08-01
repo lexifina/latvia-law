@@ -1,0 +1,1 @@
+44. Lai noteiktu būvniecības ieceres ietekmes uz vidi kumulatīvā efekta izvērtējuma veikšanas nepieciešamību, Valsts vides dienests līdz 2026. gada 5. augustam iesniedz pašvaldībām informāciju par vēja parkiem, attiecībā uz kuriem no 2015. gada 1. janvāra līdz 2026. gada 31. jūlijam ir pieņemts lēmums par ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu.

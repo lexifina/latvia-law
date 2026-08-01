@@ -1,0 +1,1 @@
+42. Grozījumi par šā likuma 1. panta 19. punkta izteikšanu jaunā redakcijā attiecībā uz juridisko personu, kas veic mežsaimniecisko darbību, un par šā likuma 19.¹ panta trešās daļas papildināšanu ar 4. punktu stājas spēkā 2027. gada 1. jūlijā.
