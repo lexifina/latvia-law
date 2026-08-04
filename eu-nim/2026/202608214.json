@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Sabiedrisko pakalpojumu regulēšanas komisijas 2026. gada 30. jūlija lēmums Nr. 1/16 \"Inčukalna pazemes gāzes krātuves lietošanas noteikumi\"",
+  "type_of_act": "SPRK padomes lēmums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "146",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-03",
+  "entry_into_force": "2026-08-04",
+  "notification_date": "2026-11-03",
+  "commission_reference": "MNE(2026)08214",
+  "nim_celex": "72024L1788LVA_202608214",
+  "nim_id": "202608214",
+  "transposes_celex": [
+    "32024L1788"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/10ff4a6a-d4d8-4d67-a55f-41bbafb9795e",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
