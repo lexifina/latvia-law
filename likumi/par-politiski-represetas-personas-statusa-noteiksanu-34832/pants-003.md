@@ -4,4 +4,5 @@
 2) Iekšlietu ministrijas izsniegtu dokumentu par personas administratīvu izsūtīšanu no Latvijas teritorijas vai par tās dzimšanu ieslodzījumā, izsūtījumā vai nometinājumā ārpus Latvijas teritorijas;
 3) Latvijas Nacionālā arhīva vai citu valstu arhīvu izsniegtu dokumentu par personas atrašanos PSRS filtrācijas (pārbaudes) vai labošanas darbu nometnē;
 4) prokuratūras izsniegtu dokumentu par personas nāvi politisko represiju rezultātā;
-5) Latvijas Republikas tiesas spriedumu par politiskās represijas fakta konstatēšanu un reabilitāciju gadījumos, kad Latvijas Nacionālajā arhīvā vai citu valstu arhīvos dokumenti par politiskās represijas faktu nav saglabājušies vai vispār gājuši zudumā.
+5) Latvijas Republikas tiesas spriedumu par politiskās represijas fakta konstatēšanu un reabilitāciju gadījumos, kad Latvijas Nacionālajā arhīvā vai citu valstu arhīvos dokumenti par politiskās represijas faktu nav saglabājušies vai vispār gājuši zudumā;
+6) lēmumu par personas statusa atjaunošanu, kas pieņemts atbilstoši likumam "Par Latvijas un PSRS psihiatriskajās ārstniecības iestādēs laika posmā no 1940. gada 17. jūnija līdz 1991. gada 21. augustam nepamatoti ievietotajām personām".
