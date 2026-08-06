@@ -1,0 +1,2 @@
+4. pants. Dokumentu saglabāšana
+Dokumenti par personām, kuras par savu politisko pārliecību, par politisko darbību, par pretošanos totalitārajiem režīmiem, par reliģiskajiem uzskatiem, par rases vai nacionālo piederību, par piederību pie noteiktas sabiedrības šķiras ievietotas Latvijas vai PSRS psihiatriskajās ārstniecības iestādēs, tiek nodoti valsts glabāšanā Latvijas Nacionālajam arhīvam un glabāti pastāvīgi.
