@@ -8,7 +8,8 @@
 1) Centrālajai statistikas pārvaldei - Statistikas likumā noteikto funkciju izpildei;
 2) Ekonomikas ministrijai - patēriņa preču cenu dinamikas analīzei;
 3) Patērētāju tiesību aizsardzības centram - negodīgas komercprakses un cenu norādīšanas uzraudzībai;
-4) Konkurences padomei - mazumtirdzniecības tirgus monitoringam un Negodīgas tirdzniecības prakses aizlieguma likuma prasību uzraudzībai.
+4) Konkurences padomei - mazumtirdzniecības tirgus monitoringam un Negodīgas tirdzniecības prakses aizlieguma likuma prasību uzraudzībai;
+5) Latvijas Bankai - monetārās politikas veidošanai un īstenošanai, kā arī makroekonomiskajai analīzei un pētniecībai.
 (5) Ministru kabinets nosaka:
 1) iesniedzamo informāciju Centrālajai statistikas pārvaldei patēriņa cenu salīdzināšanai un pārtikas preču cenu monitoringam, kā arī informācijas aprites, pieprasīšanas, nodošanas un uzglabāšanas kārtību;
 2) pamata pārtikas preču sarakstā iekļaujamās preču grupas un preces, ietverot šajā sarakstā tirgū pieejamos un bieži patērētos produktus, kas nepieciešami ikdienas uzturvielu uzņemšanai.

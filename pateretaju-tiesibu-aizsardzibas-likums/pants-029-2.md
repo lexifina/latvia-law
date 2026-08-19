@@ -1,0 +1,3 @@
+29.² pants. Patērētāja tiesības nedrošas preces atsaukuma gadījumā
+(1) Ja saimnieciskās darbības veicējs atsauc nedrošu preci vai tās atsaukšanu pieprasa kompetentā tirgus uzraudzības iestāde, patērētājam, kuram pārdota vai nodota lietošanā nedrošā prece, ir tiesības izmantot kādu no tiesiskās aizsardzības līdzekļiem, kas noteikti Eiropas Parlamenta un Padomes 2023. gada 10. maija regulas (ES) 2023/988 par ražojumu vispārēju drošumu, ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 1025/2012 un Eiropas Parlamenta un Padomes direktīvu (ES) 2020/1828 un atceļ Eiropas Parlamenta un Padomes direktīvu 2001/95/EK un Padomes direktīvu 87/357/EEK 37. pantā.
+(2) Strīdus, ja tādi rodas, izskata šā likuma VI¹ un VI² nodaļā noteiktajā kārtībā.

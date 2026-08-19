@@ -1,12 +1,33 @@
-8.³ pants. Patērētāju kreditēšanas reklāmas ierobežojumi
-(1) Aizliegts reklamēt kreditēšanas pakalpojumus, izņemot gadījumus, kad:
-1) to īsteno kredīta devējs vai kredīta starpnieks telpās, kurās tas veic saimniecisko darbību;
-2) to īsteno kredīta devēja vai kredīta starpnieka mājaslapā internetā vai tiešsaistes sistēmā, kuru pēc autentifikācijas veikšanas kredīta devējs izmanto pakalpojumu saņemšanai;
-3) to īsteno kredīta devēja vai kredīta starpnieka mobilajā lietotnē, kuru pēc autentifikācijas veikšanas patērētājs izmanto kredīta devēja pakalpojumu saņemšanai;
-4) to īsteno, personiski uzrunājot iespējamo klientu klātienē vai telefoniski, ja patērētājs tam piekrīt;
-5) to īsteno pasta vai elektroniskos sūtījumos patērētājam, ja patērētājs nepārprotami iepriekš piekritis tos saņemt;
-6) ar kreditēšanu nesaistītas preces, pakalpojuma, digitālā satura vai digitālā pakalpojuma reklāmā, izņemot reklāmu televīzijā vai radio, persona, kas nav kredīta devējs vai kredīta starpnieks, sniedz informāciju par iespēju apmaksu finansēt ar kreditēšanas līguma starpniecību.
-(2) Šā panta pirmā daļa neattiecas uz kredīta devēja un kredīta starpnieka preču zīmes reklāmu. Kredīta devēja un kredīta starpnieka preču zīmes (tai skaitā sponsorēšanas) reklāma ir aizliegta sabiedriskā pasūtījuma ietvaros radio vai televīzijā īstenotos projektos, kas finansēti no valsts vai pašvaldības budžeta līdzekļiem.
-(3) Šā panta pirmā daļa neattiecas uz:
-1) Augstskolu likumā noteikto studiju kredītu un studējošo kredītu;
-2) kredītu, kura atmaksa nodrošināta ar nekustamā īpašuma hipotēku vai kura mērķis ir iegūt vai saglabāt tiesības uz nekustamo īpašumu, nekustamā īpašuma būvniecība vai energoefektivitātes paaugstināšana.
+8.³ pants. Prasības attiecībā uz kreditēšanas pakalpojumu reklāmu
+(1) Reklāmā, kurā tiek piedāvāta iespēja kreditēt patērētāju, sniegtajai informācijai jābūt godīgai un skaidrai, un tā nedrīkst būt maldinoša. Aizliegts izmantot formulējumu, kas patērētājam var dot nepamatotas cerības attiecībā uz kredīta pieejamību, kredīta izmaksām vai uz kopējo summu, kas patērētājam jāmaksā.
+(2) Reklāmā, kurā tiek piedāvāta iespēja kreditēt patērētāju, aizliegts:
+1) veicināt bezatbildīgu aizņemšanos. Nosakot, vai reklāma veicina bezatbildīgu aizņemšanos, ņem vērā reklāmas kopējo saturu, pasniegšanas veidu, noformējumu un informāciju, kas reklāmā sniegta par kreditēšanas pakalpojumu un palīdz patērētājam pieņemt ekonomiski pamatotu lēmumu. Par reklāmu, kas veicina bezatbildīgu aizņemšanos, jebkurā gadījumā uzskatāma reklāma, kas:
+a) aicina patērētāju ņemt kredītu nepārdomāti vai neizvērtējot tā nepieciešamību,
+b) aicina patērētāju ņemt kredītu neatkarīgi no sava finansiālā stāvokļa,
+c) rada vai var radīt iespaidu, ka kredīta ņemšana nav saistīta ar risku,
+d) rada vai var radīt iespaidu, ka kredīts ir piemērotākais finansiālo problēmu atrisināšanas veids,
+e) ietekmē vai var ietekmēt patērētāja lēmumu par kredīta līguma noslēgšanu, papildus piedāvājot iegūt preces vai saņemt pakalpojumus vai citas priekšrocības, ja tām nav tiešas saistības ar kredīta izmantošanu,
+f) rada vai var radīt nepatiesu iespaidu, ka kredīts palielina finanšu resursus, aizstāj uzkrājumus vai var paaugstināt dzīves līmeni,
+g) uzsver, cik viegli vai ātri var saņemt kredītu;
+2) sniegt informāciju par iespēju saņemt kredītu personām ar negatīvu kredītvēsturi;
+3) sniegt informāciju par iespēju saņemt patēriņa kredītu, kura atmaksas termiņš ir līdz 30 dienām;
+4) sniegt informāciju par iespēju pagarināt kredīta atmaksas termiņu.
+(3) Reklāmā, kurā tiek piedāvāta iespēja kreditēt patērētāju, iekļauj skaidru un uzskatāmu brīdinājumu, izmantojot formulējumu "Brīdinām! Aizņemšanās maksā naudu". Brīdinājumam atvēlami vismaz 10 procenti no konkrētās reklāmas apjoma, un vizuālajās un audiovizuālajās reklāmās to sniedz reklāmas apakšējā daļā ar melniem burtiem uz balta fona, turklāt izraugoties tādu burtu izmēru, lai uzraksts aizņemtu lielāko tehniski iespējamo daļu no tekstam paredzētā laukuma.
+(4) Reklāmā, kurā tiek piedāvāta iespēja kreditēt patērētāju un norādīta procentu likme vai cita skaitliska informācija par kredīta izmaksām, ar uzskatāma piemēra palīdzību skaidri salasāmā vai skaidri sadzirdamā, lakoniskā un viegli uztveramā veidā norāda (ja konkrētiem kreditēšanas līgumiem nav noteikts citādi):
+1) aizņēmuma likmi (fiksētu, mainīgu vai abas) kopā ar informāciju par piemērojamām maksām, kas iekļautas kredīta kopējās izmaksās;
+2) kredīta kopējo summu;
+3) gada procentu likmi. Vizuālajā reklāmā šo informāciju izceļ un norāda vismaz tikpat viegli uztveramā un saredzamā veidā kā jebkuru procentu likmi vai citu līdzvērtīgu skaitlisko informāciju par kredīta izmaksām. Audiovizuālajās reklāmās šo informāciju norāda visā reklāmas pārraides laikā;
+4) kreditēšanas līguma darbības termiņu (ja tāds ir);
+5) preces vai pakalpojuma cenu un jebkādas sākotnējās iemaksas lielumu, ja kredīts tiek piešķirts atlikta maksājuma veidā par konkrētām precēm vai pakalpojumiem;
+6) kopējo summu, kas jāmaksā patērētājam, un veicamo maksājumu apmēru (ja iespējams);
+7) obligātu pienākumu uzņemties ar kreditēšanas līgumu saistītu papildu pakalpojumu, piemēram, obligātu apdrošināšanu, ja līguma par papildu pakalpojumu noslēgšana ir nepieciešama, lai saņemtu kredītu vai saņemtu to ar piedāvātajiem noteikumiem un nosacījumiem un minēto pakalpojumu izmaksas nevar noteikt iepriekš.
+(5) Reklāmā par pārsnieguma kredītu, kas atmaksājams pēc pieprasījuma vai triju mēnešu laikā, ja reklāma veidota, norādot procentu likmi vai citu skaitlisku informāciju par kredīta izmaksām, ar uzskatāma piemēra palīdzību norāda vismaz šā panta ceturtās daļas 1., 2. un 3. punktā minēto informāciju.
+(6) Reklāmā par kreditēšanas līgumu nekustamā īpašuma iegādei vai kreditēšanas līgumu, kura atmaksa nodrošināta ar nekustamā īpašuma hipotēku, ja reklāma veidota, norādot procentu likmi vai citu skaitlisku informāciju par kredīta izmaksām, ar uzskatāma piemēra palīdzību skaidri salasāmā vai skaidri sadzirdamā, lakoniskā un viegli uztveramā veidā norāda šā panta ceturtās daļas 1., 2., 3., 4., 5., 6. (ja tas ir attiecināms) un 7. punktā minēto informāciju, kā arī:
+1) kredīta devēja vai kredīta starpnieka, vai kredīta starpnieka pārstāvja nosaukumu. Ja iesaistītais kredīta starpnieks vai kredīta starpnieka pārstāvis ir fiziskā persona, norāda vārdu, uzvārdu un reģistrācijas numuru starpnieku reģistrā;
+2) skaidru norādi, ka kredīts tiek nodrošināts ar nekustamā īpašuma hipotēku vai citām tiesībām saistībā ar nekustamo īpašumu;
+3) veicamo maksājumu skaitu (ja tas ir attiecināms);
+4) brīdinājumu par to, ka valūtas kursa svārstības var ietekmēt summu, kas jāmaksā patērētājam (ja tas ir attiecināms).
+(7) Reklāmā par kreditēšanas līgumu, saskaņā ar kuru patērētājam kredīts jāatmaksā laikposmā, kas nepārsniedz trīs mēnešus, un kurā par kredīta izmantošanu tiek prasīti nenozīmīgi papildu maksājumi salīdzinājumā ar kredīta kopējo summu un kreditēšanas līguma darbības termiņu, ja reklāma veidota, norādot procentu likmi vai citu skaitlisku informāciju par kredīta izmaksām, ar uzskatāma piemēra palīdzību norāda šā panta ceturtās daļas 1., 2., 4., 5. un 6. punktā minēto informāciju.
+(8) Reklāmā par kreditēšanas līgumu, kuru noslēdzot patērētājs kredīta devēja glabāšanā kā nodrošinājumu nodod kādu lietu un patērētāja atbildība ir ierobežota tikai ar ieķīlāto lietu, ja reklāma veidota, norādot procentu likmi vai citu skaitlisku informāciju par kredīta izmaksām, ar uzskatāma piemēra palīdzību norāda šā panta ceturtās daļas 1., 2., 4. un 6. punktā minēto informāciju.
+(9) Šā panta ceturtajā, piektajā, sestajā, septītajā un astotajā daļā minēto informāciju pielāgo reklāmā izmantotā elektroniskā informācijas nesēja tehniskajiem ierobežojumiem. Pamatotos gadījumos, kad elektroniskais informācijas nesējs neļauj informāciju vizuāli attēlot, šā panta ceturtās daļas 5. un 6. punktu var nepiemērot. Ja elektroniskais informācijas nesējs neļauj šo informāciju vizuāli attēlot skaidrā un uzskatāmā veidā, patērētājam nodrošina iespēju piekļūt šā panta ceturtās daļas 5. un 6. punktā minētajai informācijai, izmantojot klikšķināšanu, ritināšanu vai pavilkšanu. Šā panta izpratnē par elektronisko informācijas nesēju uzskatāma arī elektroniskā plašsaziņas līdzekļa programma un audiovizuāls pakalpojums pēc pieprasījuma.
+(10) Tāda patērētāja kreditēšanas līguma reklāmai, ar kuru kredīta devējs klusējot piekritis tam, ka patērētājs izmanto līdzekļus, kas pārsniedz viņa norēķinu kontā esošo naudas līdzekļu atlikumu vai viņam piešķirto pārsnieguma kredītu, piemēro tikai šā panta otrajā daļā noteiktās prasības.

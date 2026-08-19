@@ -1,0 +1,1 @@
+46. Grozījumi šā likuma 1. pantā par tā papildināšanu ar 19. un 20. punktu, grozījumi 17. pantā par pirmās daļas 6. punkta izteikšanu jaunā redakcijā, par šīs daļas papildināšanu ar 6.¹, 6.², 6.³, 10. un 11. punktu un par šā panta papildināšanu ar piekto daļu stājas spēkā 2026. gada 27. septembrī.
