@@ -1,0 +1,1 @@
+3. pants. Konstitūcijas Divpadsmitais papildprotokols stājas spēkā tā II pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar šo likumu izsludināms Konstitūcijas Divpadsmitais papildprotokols angļu valodā un tā tulkojums latviešu valodā.

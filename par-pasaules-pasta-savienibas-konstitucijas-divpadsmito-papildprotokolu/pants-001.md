@@ -1,0 +1,1 @@
+1. pants. 2025. gada 19. septembrī parakstītais Pasaules Pasta savienības konstitūcijas Divpadsmitais papildprotokols (turpmāk - Konstitūcijas Divpadsmitais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.
