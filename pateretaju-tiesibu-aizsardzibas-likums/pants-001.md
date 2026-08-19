@@ -26,4 +26,6 @@ c) kura tieši vada vai uzrauga šā punkta "a" un "b" apakšpunktā minētās f
 15) funkcionalitāte - preču, digitālā satura vai digitālā pakalpojuma spēja pildīt savas funkcijas, ņemot vērā mērķi, kādam tās paredzētas;
 16) sadarbspēja - preču, digitālā satura vai digitālā pakalpojuma spēja darboties ar aparatūru vai programmatūru, kas atšķiras no tās, ar kuru parasti izmanto tāda paša veida preces, digitālo saturu vai digitālos pakalpojumus;
 17) ilgizturība - preču spēja saglabāt vajadzīgās funkcijas un izpildījumu normālas lietošanas laikā;
-18) integrēšana - digitālā satura vai digitālā pakalpojuma sasaistīšana ar patērētāja digitālās vides komponentiem un iekļaušana tajos, lai digitālo saturu vai digitālo pakalpojumu izmantotu atbilstoši šā likuma prasībām.
+18) integrēšana - digitālā satura vai digitālā pakalpojuma sasaistīšana ar patērētāja digitālās vides komponentiem un iekļaušana tajos, lai digitālo saturu vai digitālo pakalpojumu izmantotu atbilstoši šā likuma prasībām;
+19) (punkts stājas spēkā 27.09.2026. un iekļauts likuma redakcijā uz 27.09.2026. Sk. pārejas noteikumu 46. punktu);
+20) (punkts stājas spēkā 27.09.2026. un iekļauts likuma redakcijā uz 27.09.2026. Sk. pārejas noteikumu 46. punktu).
