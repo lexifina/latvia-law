@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2026. gada 23. jūlija likums \"Grozījumi Patērētāju tiesību aizsardzības likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "148",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-05",
+  "entry_into_force": "2026-08-19",
+  "notification_date": "2026-08-20",
+  "commission_reference": "MNE(2026)06537",
+  "nim_celex": "72024L0825LVA_202606537",
+  "nim_id": "202606537",
+  "transposes_celex": [
+    "32024L0825"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/600dac9d-48a7-4223-90d5-f9e25d78e648",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
