@@ -1,0 +1,1 @@
+1. pants. 2025. gada 19. septembrī parakstītais Nolīguma par pasta maksājumu pakalpojumiem Otrais papildprotokols (turpmāk - Nolīguma Otrais papildprotokols) ar šo likumu tiek pieņemts un apstiprināts.

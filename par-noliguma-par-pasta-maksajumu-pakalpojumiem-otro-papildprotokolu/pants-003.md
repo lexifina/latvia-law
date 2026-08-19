@@ -1,0 +1,1 @@
+3. pants. Nolīguma Otrais papildprotokols stājas spēkā tā XXII pantā noteiktajā laikā un kārtībā, un Ārlietu ministrija par to paziņo oficiālajā izdevumā " Latvijas Vēstnesis ". Līdz ar šo likumu izsludināms Nolīguma Otrais papildprotokols angļu valodā un publicējams tā tulkojums latviešu valodā.
