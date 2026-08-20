@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 20.augusta 2.ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-08-20",
+ "ieraksts": {
+  "dkp_id": "be086ad3-5b1a-40ca-abd6-ac7f03cdaa90",
+  "lastmodtime": "\"AAAAAAKVTmQ=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Ilze#Ričards#Edmunds#Maija#Jekaterina#Raivis#Dmitrijs#Juris#Viktorija#Jeļena#Ramona#Linda#Iļja#Edvīns#Arnolds#Liene#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Andris#Jurģis#Ainars#Vilis#Amils#Inese#Edmunds#Ģirts#Ingmārs#Andris#Artūrs#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Dāvis#Evika#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Jānis#Uģis#Kaspars#Agita#Česlavs#Atis#Normunds#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Kaspars#Inga#Jānis#Atis#Anda#Roberts#Inga#Uģis#Ieva",
+  "SURNAME": "Stobova#Šlesers#Zivtiņš#Armaņeva#Drelinga#Kalējs#Kovaļenko#Viļums#Pleškāne#Kļaviņa#Petraviča#Liepiņa#Ivanovs#Šnore#Jātnieks#Gātere#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Bērziņš#Klotiņš#Latkovskis#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Līdaka#Sprūds#Butāns#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Melnalksnis#Siliņa#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Daugavietis#Klementjevs#Felss#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Batņa#Labucis#Dzintars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Briškens#Priede#Patmalnieks#Švinka#Čakša#Ķipurs#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "####################################################################################",
+  "FRACTION": "LPV#LPV#LPV#LPV# #AS# #AS# # #LPV#LPV# #NA#NA#PRO#JV#PRO#JV#ZZS# #JV#ZZS#NA#JV# # #JV#NA#ZZS#AS#PRO#NA#JV#NA#PRO#ZZS#JV#AS#JV#AS#JV# #JV# #JV#ZZS#JV#ZZS#AS#ZZS#NA# #ZZS# # #JV# #JV#NA#NA#ZZS#JV#AS#JV#NA#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS#PRO#PRO#AS#JV#PRO#JV#NA#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Pret#Par#Par#Pret#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Atturas#Par#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Par#Atturas#Pret#Par#Atturas#Atturas#Par#Par#Atturas#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.08.2026 17:44:37",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. “Air Baltic Corporation AS” finanšu stabilizācijas pasākumu likums (1495/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "bb04694f-a3e4-4beb-86e4-1349dc9596b0",
+  "VOTERESULT_ABSTAIN": "9",
+  "VOTERESULT_AGAINST": "4",
+  "VOTERESULT_FOR": "60",
+  "VOTERESULT_REGISTERED": "85",
+  "VOTE_NUMBER": "2",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 20.augusta 2.ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/3259c9fb-ba8c-4436-ba45-81debee99269/download/14.saeimas-2026.gada-20.augusta-2.arkartas-sesija-1-vote.xml",
+  "sha256": "c9cf24cbe260170c18b96433007ea8ecd2d94faa5334c5a56e406c423f08ad60",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
