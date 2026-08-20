@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 20.augusta ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-08-20",
+ "ieraksts": {
+  "dkp_id": "b692cdc3-2f79-4043-83e1-af4f22adf992",
+  "lastmodtime": "\"AAAAAAKTwH0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Amils#Armands#Andris#Dmitrijs#Edgars#Igors#Līga#Edvīns#Arnolds#Liene#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Andris#Jurģis#Andris#Ainars#Vilis#Inese#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Uģis#Kaspars#Česlavs#Atis#Viktorija#Normunds#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Raimonds#Jeļena#Leila#Kaspars#Ramona#Inga#Jānis#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Ivanovs#Saļimovs#Krauze#Sprūds#Kovaļenko#Putra#Judins#Kozlovska#Šnore#Jātnieks#Gātere#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Sruoģis#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mitrevics#Melnis#Batņa#Labucis#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "######################################################################################",
+  "FRACTION": " # #ZZS#PRO# #AS# #ZZS#NA#NA#PRO#JV#PRO#JV# #JV#ZZS#NA#PRO#JV# #JV#NA#ZZS#LPV#AS#LPV#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV# #AS# #JV#JV# #JV#ZZS#JV#ZZS#AS#AS#ZZS#NA# #ZZS# # #JV# #AS#JV#NA#ZZS#AS#JV# #NA#AS#JV#NA#ZZS#ZZS#ZZS#AS# #PRO#PRO#LPV#AS#JV#LPV#PRO#JV#NA# #JV#PRO#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.08.2026 13:50:52",
+  "VOTEMOTIVE": "Grozījums likumā “Par Konvenciju par kibernoziegumiem un Konvencijas par kibernoziegumiem Papildu protokolu par rasisma un ksenofobijas noziedzīgajiem nodarījumiem, kas tiek izdarīti datorsistēmās” (1479/Lp14), nodošana komisijām",
+  "VOTING_ID": "2182be7e-d8d3-439c-971c-5efaf55fc294",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "78",
+  "VOTERESULT_REGISTERED": "87",
+  "VOTE_NUMBER": "7",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 20.augusta ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/794c56ad-e978-4187-95f6-daecaa1bc58a/download/14.saeimas-2026.gada-20.augusta-arkartas-sesija-1-vote.xml",
+  "sha256": "beb7a88becd8c242d97e912cae45265912e95071b811ef276e490d7452e05f3a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
