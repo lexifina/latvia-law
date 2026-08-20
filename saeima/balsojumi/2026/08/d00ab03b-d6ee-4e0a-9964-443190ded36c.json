@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 20.augusta ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-08-20",
+ "ieraksts": {
+  "dkp_id": "264c6cd1-760f-4430-b505-5f17dcb098bb",
+  "lastmodtime": "\"AAAAAAKVgLk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Ilze#Andris#Ainars#Harijs#Oļegs#Juris#Linda#Aleksandrs#Ieva#Iļja#Edvīns#Arnolds#Liene#Anna#Edmunds#Zane#Svetlana#Mārtiņš#Jurģis#Andris#Vilis#Amils#Inese#Edmunds#Armands#Ģirts#Ričards#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Augusts#Raivis#Aiva#Līga#Jānis#Dmitrijs#Nataļja#Jānis#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Atis#Viktorija#Normunds#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Jeļena#Leila#Kaspars#Ramona#Inga#Jānis#Linda#Atis#Roberts#Jānis#Līga#Antoņina#Inga#Uģis",
+  "SURNAME": "Stobova#Bērziņš#Latkovskis#Rokpelnis#Burovs#Viļums#Matisone#Kiršteins#Brante#Ivanovs#Šnore#Jātnieks#Gātere#Rancāne#Cepurītis#Skujiņa-Rubene#Čulkova#Daģis#Klotiņš#Šuvajevs#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Krauze#Štekerhofs#Šlesers#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Rajevs#Daugavietis#Klementjevs#Felss#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Dzintars#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Liepiņa#Švinka#Ķipurs#Skrastiņš#Kozlovska#Ņenaševa#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "LPV#ZZS#JV#ZZS# #AS#AS# # # #NA#NA#PRO#JV#PRO#JV# #JV#NA#PRO# # #JV#NA#ZZS#ZZS#LPV#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV# #AS#JV# #JV#JV# #JV#ZZS#AS#AS#ZZS#NA# # #ZZS# #JV# #JV#NA#NA#ZZS#JV#LPV#AS#JV# #NA#JV#NA#ZZS#ZZS#ZZS#AS# #AS# #PRO#PRO#LPV#AS#JV#LPV#PRO#NA#JV#ZZS#PRO#JV#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Atturas#Atturas#Par#Atturas#Par#Atturas#Par#Atturas#Atturas#Par#Par#Par#Atturas#Atturas#Atturas#Atturas#Par#Par#Par#Atturas#Par#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Par#Par#Atturas#Atturas#Atturas#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Par#Par#Par#Par#Atturas#Atturas#Par#Par#Atturas#Atturas#Atturas#Par#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.08.2026 14:19:19",
+  "VOTEMOTIVE": "Grozījums Bērnu tiesību aizsardzības likumā (1490/Lp14), nodošana komisijām",
+  "VOTING_ID": "d00ab03b-d6ee-4e0a-9964-443190ded36c",
+  "VOTERESULT_ABSTAIN": "53",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "26",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "11",
+  "VOTE_COMMENT": "Deputāts Jefimijs Klementjevs iesniegumā raksta, ka ir kļūdījies balsojumā. Viņa balsojums ir  \"PAR\"."
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 20.augusta ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/794c56ad-e978-4187-95f6-daecaa1bc58a/download/14.saeimas-2026.gada-20.augusta-arkartas-sesija-1-vote.xml",
+  "sha256": "beb7a88becd8c242d97e912cae45265912e95071b811ef276e490d7452e05f3a",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
