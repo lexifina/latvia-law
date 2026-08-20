@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada 20.augusta 2.ārkārtas sesija",
+ "sede": 1,
+ "datums": "2026-08-20",
+ "ieraksts": {
+  "dkp_id": "eb6d9457-e1d3-4d16-97b1-3c9a9c4b749b",
+  "lastmodtime": "\"AAAAAAKV5Us=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Dmitrijs#Agita#Kristaps#Gunārs#Ieva#Iļja#Arnolds#Liene#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Andris#Jurģis#Vilis#Amils#Inese#Edmunds#Ģirts#Ričards#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Dāvis#Evika#Ilze#Raimonds#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Nataļja#Jānis#Oļegs#Igors#Jefimijs#Juris#Mārtiņš#Jānis#Uģis#Atis#Viktorija#Normunds#Andrejs#Ināra#Anita#Edgars#Igors#Jeļena#Leila#Kaspars#Ramona#Jānis#Linda#Atis#Anda#Roberts#Līga#Inga#Uģis#Jekaterina",
+  "SURNAME": "Kovaļenko#Zariņa-Stūre#Krištopans#Kūtris#Brante#Ivanovs#Jātnieks#Gātere#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Bērziņš#Klotiņš#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Melnalksnis#Siliņa#Vergina#Čudars#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Klementjevs#Viļums#Felss#Grasbergs#Mitrevics#Labucis#Pleškāne#Dzintars#Judins#Mūrniece#Brakovska#Putra#Judins#Kļaviņa#Rasima#Briškens#Petraviča#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Kozlovska#Bērziņa#Rotbergs#Drelinga",
+  "VOTEDEPSUFFIX": "#########################################################################",
+  "FRACTION": " #JV#LPV#ZZS# # #NA#PRO#JV#JV#ZZS# #JV#LPV#ZZS#NA# # #JV#NA#ZZS#LPV#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV#AS#JV# #JV#JV#ZZS#JV#ZZS#AS#AS#NA# #ZZS# # # #AS#JV#NA#NA#JV# #NA#JV#NA#ZZS#AS# # #PRO#PRO#LPV#JV#LPV#PRO#JV#NA#ZZS#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Atturas#Par#Atturas#Atturas#Atturas#Par#Atturas#Par#Atturas#Atturas#Par#Par#Atturas#Atturas#Pret#Par#Par#Par#Atturas#Par#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.08.2026 19:27:12",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.1. Grozījumi likumā “Par maternitātes un slimības apdrošināšanu” (1484/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "65fa469d-a459-4c5b-8881-bb8412e87d15",
+  "VOTERESULT_ABSTAIN": "46",
+  "VOTERESULT_AGAINST": "1",
+  "VOTERESULT_FOR": "22",
+  "VOTERESULT_REGISTERED": "74",
+  "VOTE_NUMBER": "9",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada 20.augusta 2.ārkārtas sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/3259c9fb-ba8c-4436-ba45-81debee99269/download/14.saeimas-2026.gada-20.augusta-2.arkartas-sesija-1-vote.xml",
+  "sha256": "c9cf24cbe260170c18b96433007ea8ecd2d94faa5334c5a56e406c423f08ad60",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
