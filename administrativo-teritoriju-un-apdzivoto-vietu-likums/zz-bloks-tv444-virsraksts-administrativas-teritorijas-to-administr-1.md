@@ -53,7 +53,7 @@ Administratīvā teritorija un tās administratīvais centrsAdministratīvajā t
 11. Ādažu novads (Ādaži)11.1. Ādažu pagasts
 11.2. Ādažu pilsēta
 11.3. Carnikavas pagasts
-11.4. (apakšpunkts stājas spēkā 22.08.2026. un iekļauts likuma redakcijā uz 22.08.2026. Sk. pārejas noteikumu 43. punktu)
+11.4. Carnikavas pilsēta
 12. Balvu novads (Balvi)12.1. Baltinavas pagasts
 12.2. Balvu pagasts
 12.3. Balvu pilsēta
