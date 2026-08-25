@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 11. augusta noteikumi Nr. 478 \"Grozījumi Ministru kabineta 2013. gada 12. novembra noteikumos Nr. 1284 \"Darbinieku apstarošanas kontroles un uzskaites kārtība\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "156",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-17",
+  "entry_into_force": "2026-08-25",
+  "notification_date": "2026-09-04",
+  "commission_reference": "MNE(2026)07030",
+  "nim_celex": "72013L0059LVA_202607030",
+  "nim_id": "202607030",
+  "transposes_celex": [
+    "32013L0059"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/d1686c29-a82f-481c-9c12-9be338c33384",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
