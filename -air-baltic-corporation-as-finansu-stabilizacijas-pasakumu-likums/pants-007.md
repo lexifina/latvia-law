@@ -1,0 +1,3 @@
+7. pants. Fiskālie nosacījumi
+(1) Attiecīgā saimnieciskā gada prognozētā negatīvā ietekme uz vispārējās valdības budžeta bilanci, kas rodas no valstij piederošajām Sabiedrības obligācijām izrietošo prasījumu kapitalizācijas, konvertācijas vai citādas pārveidošanas un no valsts dalības starpfinansējumā, iegādājoties Sabiedrības jaunemitētas obligācijas, tiek kompensēta attiecīgajā gadā ar ieņēmumus palielinošiem vai izdevumus samazinošiem politikas pasākumiem.
+(2) Lai nodrošinātu ieņēmumus palielinošo vai izdevumus samazinošo politikas pasākumu īstenošanu, Ministru kabinets nepieciešamības gadījumā pieņem attiecīgus lēmumus vai grozījumus normatīvajos aktos vai iesniedz Saeimai attiecīgus likumprojektus.

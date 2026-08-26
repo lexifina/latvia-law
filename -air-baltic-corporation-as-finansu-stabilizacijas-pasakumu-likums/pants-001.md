@@ -1,0 +1,2 @@
+1. pants. Likuma uzdevums
+Šā likuma uzdevums ir noteikt "Air Baltic Corporation AS" (turpmāk - Sabiedrība) finanšu stabilizācijas pasākumus un nodrošināt valsts finanšu interešu efektīvu pārvaldību Sabiedrības finanšu stabilizācijas procesā, sniedzot valstij kā akcionāram, kreditoram un obligāciju turētājam iespēju rīkoties savlaicīgi, vienoti un līdzvērtīgi ar pārējiem Sabiedrības akcionāriem, kreditoriem un obligāciju turētājiem.

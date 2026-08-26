@@ -1,0 +1,2 @@
+6. pants. Valsts parāda un aizdevumu kopējā palielinājuma noteikšana
+Šā likuma 2. pantā minēto pasākumu īstenošanai finanšu ministram ir tiesības palielināt valsts budžeta likumā noteikto maksimālo valsts parādu saimnieciskā gada beigās un valsts budžeta aizdevumu kopējo palielinājumu, kā arī veikt nepieciešamās apropriācijas izmaiņas, ja ir pieņemts attiecīgs Ministru kabineta lēmums un Saeimas Budžeta un finanšu (nodokļu) komisija piecu darba dienu laikā no attiecīgās informācijas saņemšanas dienas ir to izskatījusi un nav iebildusi.

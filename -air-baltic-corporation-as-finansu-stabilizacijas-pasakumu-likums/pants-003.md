@@ -1,0 +1,4 @@
+3. pants. Valsts aizdevuma līguma grozīšana un no tā izrietošo prasījumu kapitalizācija
+(1) Finanšu ministrs valsts vārdā šā likuma 2. panta pirmās daļas 1. punktā noteiktajā ietvarā nodrošina valsts aizdevuma līguma grozīšanu, pagarinot termiņu neatmaksātās aizdevuma pamatsummas, uzkrāto procentu un citu no līguma izrietošo saistību izpildei.
+(2) Finanšu ministrs valsts vārdā šā likuma 2. panta pirmās daļas 2. punktā noteiktā apmēra ietvaros nodrošina no Sabiedrībai izsniegtā valsts aizdevuma izrietošā prasījuma pilnīgu vai daļēju kapitalizāciju.
+(3) Satiksmes ministrija nodrošina kapitalizācijas darījuma sagatavošanu, tostarp iegūstamo akciju vai citu pašu kapitāla instrumentu veida un apmēra noteikšanai nepieciešamo dokumentu sagatavošanu un kapitalizācijas darījuma priekšnoteikumu izpildi.
