@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 25. augusta noteikumi Nr. 497 \"Grozījumi Ministru kabineta 2020. gada 10. decembra noteikumos Nr. 730 \"Ekspluatējamu ēku energoefektivitātes minimālās prasības\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "164",
+  "official_journal_page": null,
+  "official_journal_date": "2026-08-27",
+  "entry_into_force": "2026-08-28",
+  "notification_date": "2026-09-04",
+  "commission_reference": "MNE(2026)07028",
+  "nim_celex": "72024L1275LVA_202607028",
+  "nim_id": "202607028",
+  "transposes_celex": [
+    "32024L1275"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/97aa2b42-3189-4d23-835f-b794e2c7b1b1",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
