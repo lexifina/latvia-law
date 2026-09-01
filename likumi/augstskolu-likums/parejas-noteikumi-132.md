@@ -1,1 +1,1 @@
-132. (Stājas spēkā 01.09.2026. un iekļauts likuma redakcijā uz 01.09.2026. Sk. 14.05.2026. likumu)
+132. Grozījumu šā likuma 51. pantā par tā izteikšanu jaunā redakcijā piemēro attiecībā uz to sagatavojamo speciālistu un studiju vietu skaitu, kas tiks noteikts no 2026. gada 31. decembra.

@@ -1,1 +1,1 @@
-129. (Stājas spēkā 01.09.2026. un iekļauts likuma redakcijā uz 01.09.2026. Sk. 14.05.2026. likumu)
+129. Studējošie, kuri līdz 2026. gada 30. decembrim imatrikulēti studiju vietās, kas finansētas no valsts budžeta līdzekļiem, ir tiesīgi turpināt studijas studiju vietās, kas pilnībā finansētas no augstskolas līdzekļiem, un piemērojami tie studiju līgumu noteikumi, kas ir spēkā 2026. gada 30. decembrī.

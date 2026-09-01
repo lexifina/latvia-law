@@ -1,1 +1,1 @@
-131. (Stājas spēkā 01.09.2026. un iekļauts likuma redakcijā uz 01.09.2026. Sk. 14.05.2026. likumu)
+131. Grozījumi šā likuma 46. panta otrajā daļā, 47. panta otrajā daļā, 47.¹ pantā, 52. panta pirmajā, otrajā, trešajā un ceturtajā daļā, 54. panta otrajā daļā un 78. pantā stājas spēkā 2026. gada 31. decembrī.

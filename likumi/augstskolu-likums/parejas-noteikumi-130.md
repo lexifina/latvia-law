@@ -1,1 +1,1 @@
-130. (Stājas spēkā 01.09.2026. un iekļauts likuma redakcijā uz 01.09.2026. Sk. 14.05.2026. likumu)
+130. Šā likuma pārejas noteikumu 129. punktu piemēro arī attiecībā uz tiem valsts dibinātajās augstskolās studējošajiem, kas pēc šā likuma pārejas noteikumu 100. punktā minētā līguma par izmēģinājumprojekta īstenošanu spēkā stāšanās imatrikulēti tādās studiju vietās, kas pilnībā finansētas no augstskolas līdzekļiem.
