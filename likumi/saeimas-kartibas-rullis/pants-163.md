@@ -1,7 +1,7 @@
 163. (1) Komisijas sēdes tiek protokolētas. Protokolus paraksta sēdes vadītājs un sekretārs. Ja sēdi vada sekretārs vai ja sekretārs sēdē nepiedalās, tad protokolu paraksta sēdes vadītājs un - pēc sēdes vadītāja norādījuma - kāds no komisijas locekļiem. Protokols publiskojams Saeimas tīmekļvietnē ne vēlāk kā septiņas dienas pēc komisijas sēdes.
 (2) Komisijas sēdes protokolā fiksē:
 1) sēdes sākuma un beigu laiku;
-2) komisijas locekļus, kas piedalās komisijas sēdē;
+2) komisijas locekļus, kas piedalās komisijas sēdē un to dalības formu (klātienē vai attālināti);
 3) citas personas, kas piedalās komisijas sēdē;
 4) komisijas sēdes vadītāju;
 5) personu, kas protokolē sēdi;
