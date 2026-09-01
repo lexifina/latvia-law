@@ -1,7 +1,7 @@
 29. pants. Izglītības iestādes dibinātāja kompetence
 Izglītības iestādes dibinātājs:
 1) nodrošina izglītības iestādes nepārtrauktai darbībai nepieciešamos finanšu un materiālos līdzekļus, pārrauga normatīvo aktu ievērošanu, veido iekļaujošu vidi un atbild par izglītības kvalitāti, kā arī sekmē izglītības iestādes darbību pašvaldības izglītības ekosistēmā;
-1¹) (punkts stājas spēkā 01.09.2026. un iekļauts likuma redakcijā uz 01.09.2026. Sk. pārejas noteikumu 136. punktu);
+1¹) licencē vispārējās izglītības programmas Ministru kabineta noteiktajā kārtībā;
 2) nodrošina atbalstu izglītības procesa kvalitatīvai īstenošanai un pilnveidošanai, metodiskā darba organizēšanai un pedagogu profesionālās kompetences pilnveidošanai;
 3) sadarbībā ar dibināto izglītības iestādi nosaka un reizi trijos gados izvērtē izglītības iestādes darbības un izglītības programmas (izņemot studiju programmas) īstenošanas kvalitātes mērķus un sasniedzamos rezultātus Ministru kabineta noteiktajā kārtībā;
 4) (izslēgts ar 05.02.2026. likumu);
