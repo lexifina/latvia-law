@@ -1,6 +1,6 @@
 11.pants. Augstskolas reorganizācija vai likvidācija
 (1) Lēmumu par augstskolas reorganizāciju vai likvidāciju pieņem tās dibinātājs.
-(2) Lēmumu par valsts augstskolas reorganizāciju vai likvidāciju pieņem Ministru kabinets pēc izglītības un zinātnes ministra vai attiecīgās nozares ministra ierosinājuma. Ministru kabineta rīkojuma projektam par augstskolas reorganizāciju vai likvidāciju pievienojams Augstākās izglītības padomes atzinums. Ja Ministru kabineta rīkojuma projektu iesniedz attiecīgās nozares ministrs, šis projekts ir jāsaskaņo arī ar izglītības un zinātnes ministru.
+(2) Lēmumu par valsts augstskolas reorganizāciju vai likvidāciju pieņem Ministru kabinets pēc izglītības un zinātnes ministra vai attiecīgās nozares ministra ierosinājuma. Ja Ministru kabineta rīkojuma projektu iesniedz attiecīgās nozares ministrs, šis projekts ir jāsaskaņo arī ar izglītības un zinātnes ministru.
 (3) Valsts dibinātu augstskolu reorganizē:
 1) pievienojot to citai augstskolai, - pievienojamā augstskola beidz pastāvēt, integrējoties esošajā citas augstskolas struktūrā;
 2) nododot to citai augstskolai, - reorganizējamā augstskola turpina pastāvēt citas augstskolas iestādes (atsevišķas struktūrvienības) statusā;
