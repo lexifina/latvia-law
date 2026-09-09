@@ -6,4 +6,4 @@
 (5) Šajā pantā noteiktie administratīvo aktu izdošanas ierobežojumi neattiecas uz Saeimas deputātiem un Ministru kabineta locekļiem gadījumos, kad minētās valsts amatpersonas piedalās attiecīgi Saeimas vai Ministru kabineta administratīvo aktu izdošanā.
 (6) Šā panta pirmajā un otrajā daļā noteiktie ierobežojumi neattiecas uz:
 1) Valsts prezidentu, Saeimas deputātiem, Ministru kabineta locekļiem vai pašvaldības domes deputātiem gadījumos, kad minētās valsts amatpersonas piedalās ārējo normatīvo aktu vai politisko lēmumu pieņemšanā;
-2) Saeimas deputātiem, Ministru kabineta locekļiem vai pašvaldības domes deputātiem gadījumos, kad minētās valsts amatpersonas piedalās attiecīgi Saeimas, Ministru kabineta vai pašvaldības domes lēmuma pieņemšanā par sava atalgojuma noteikšanu vai sevis iecelšanu, ievēlēšanu vai apstiprināšanu amatā.
+2) Saeimas deputātiem, Ministru kabineta locekļiem, pašvaldības domes deputātiem un citām koleģiālu institūciju amatpersonām gadījumos, kad minētās valsts amatpersonas saskaņā ar likumu piedalās lēmuma pieņemšanā attiecīgi par savas atlīdzības noteikšanu vai sevis iecelšanu, ievēlēšanu vai apstiprināšanu amatā.
