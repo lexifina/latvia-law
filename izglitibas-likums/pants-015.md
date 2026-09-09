@@ -36,3 +36,7 @@
 27) (izslēgts ar 18.06.2015. likumu);
 28) izstrādā izglītojamo speciālo vajadzību izvērtēšanas metodiku pirmsskolas izglītības iestādēm.
 (2) Izglītības un zinātnes ministrs apstiprina izglītības sistēmas noturības un nepārtrauktības ietvaru un izglītības iestādes darbības nepārtrauktības plāna paraugu, kurā nosaka principus un pamatprasības izglītības programmu īstenošanai (tai skaitā rīcības algoritmu) apdraudējuma gadījumā, izņemot izglītības programmu īstenošanai Iekšlietu ministrijas un Aizsardzības ministrijas padotībā esošajās izglītības iestādēs.
+(3) Izglītības un zinātnes ministrs:
+1) nosaka mācību gada un mācību semestru sākuma un beigu laiku, kā arī brīvdienu laiku izglītības iestāžu īstenotajās vispārējās pamatizglītības un vispārējās vidējās izglītības programmās;
+2) katru mācību gadu atbilstoši valsts vispārējās izglītības standartiem un katru gadu atbilstoši valsts profesionālās vidējās izglītības standartam nosaka norises laiku valsts pārbaudes darbiem vispārējās pamatizglītības un vidējās izglītības programmās, kā arī vispārizglītojošos mācību priekšmetos profesionālās vidējās izglītības programmās.
+(4) Šā panta trešajā daļā minētos rīkojumus izglītības un zinātnes ministrs izdod vispārīgā administratīvā akta formā, un tos publicē oficiālajā izdevumā "Latvijas Vēstnesis".
