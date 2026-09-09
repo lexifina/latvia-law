@@ -16,12 +16,12 @@ Ministru kabinets:
 10) (izslēgts ar 16.06.2005. likumu);
 11) nosaka valsts vispārējās izglītības standartus;
 11¹) nosaka vispārējās izglītības mācību jomu nosaukumus;
-12) katru mācību gadu atbilstoši valsts vispārējās izglītības standartiem nosaka valsts pārbaudes darbu norises laiku un kārtību;
+12) (izslēgts ar 03.09.2026. likumu);
 12¹) nosaka kārtību, kādā svešvalodas centralizēto eksāmenu vispārējās vidējās izglītības programmā aizstāj ar starptautiskas testēšanas institūcijas pārbaudījumu svešvalodā, un apstiprina starptautisko testēšanas institūciju sarakstu, nosaka šo testēšanas institūciju izdotajos dokumentos norādīto pārbaudījumu vērtējumu atbilstību svešvalodas centralizētā eksāmena vērtējumam;
 13) nosaka mācību sasniegumu vērtēšanas kārtību speciālās izglītības programmās;
 14) (izslēgts ar 16.06.2009. likumu);
 15) nosaka kārtību, kādā notiek ilgstoši slimojošu izglītojamo izglītošanās ārpus izglītības iestādes;
-16) nosaka mācību gada un mācību semestru sākuma un beigu laiku, kā arī brīvdienu laiku;
+16) (izslēgts ar 03.09.2026. likumu);
 17) nosaka obligāto dokumentāciju, kas nepieciešama vispārējās izglītības iestāžu pedagoģiskā procesa organizācijai;
 18) nosaka kārtību, kādā izglītojamie tiek uzņemti vispārējās izglītības programmās un atskaitīti no tām, kā arī obligātās prasības šajās programmās izglītojamo pārcelšanai uz nākamo klasi;
 18¹) nosaka kārtību, kādā organizējamas mācību priekšmetu olimpiādes;
