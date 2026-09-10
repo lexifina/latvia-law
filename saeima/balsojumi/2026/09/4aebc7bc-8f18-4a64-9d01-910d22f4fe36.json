@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 2,
+ "datums": "2026-09-10",
+ "ieraksts": {
+  "dkp_id": "ed13a59c-d06c-405e-953f-80c3169bf7c2",
+  "lastmodtime": "\"AAAAAAKYHg4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Arnolds#Skaidrīte#Juris#Inese#Edmunds#Evika#Augusts#Jānis#Aleksandrs#Anna#Zane#Svetlana#Ilze#Mārcis#Andris#Inese#Vilis#Amils#Edmunds#Maija#Agnese#Raivis#Jana#Andrejs#Alīna#Jekaterina#Dāvis#Ilze#Arvils#Andrejs#Harijs#Raivis#Aiva#Līga#Jānis#Dmitrijs#Jānis#Jefimijs#Juris#Mārtiņš#Daiga#Uģis#Kaspars#Česlavs#Atis#Viktorija#Normunds#Linda#Andrejs#Anita#Kaspars#Gundars#Inga#Linda#Atis#Roberts#Jānis#Inga#Uģis#Ieva",
+  "SURNAME": "Jātnieks#Ābrama#Jakovins#Lībiņa-Egnere#Teirumnieks#Siliņa#Brigmanis#Grasbergs#Kiršteins#Rancāne#Skujiņa-Rubene#Čulkova#Stobova#Jencītis#Šuvajevs#Kalniņa#Sruoģis#Saļimovs#Zivtiņš#Armaņeva#Krasta#Dzintars#Simanovska#Svilāns#Gendele#Drelinga#Melnalksnis#Vergina#Ašeradens#Ceļapīters#Rokpelnis#Kalējs#Vīksna#Kļaviņa#Eglīts#Kovaļenko#Dinevičs#Klementjevs#Viļums#Felss#Mieriņa#Mitrevics#Melnis#Batņa#Labucis#Pleškāne#Dzintars#Matisone#Judins#Brakovska#Briškens#Daudze#Priede#Liepiņa#Švinka#Ķipurs#Skrastiņš#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "###########################################################",
+  "FRACTION": "NA# #ZZS#JV#NA#JV#ZZS#NA# #JV#JV# #LPV#LPV#PRO#JV# # #LPV#LPV#JV#NA#PRO#AS#JV# #AS# #JV# #ZZS#AS#AS#ZZS#NA# #ZZS# #AS#JV#ZZS#NA#ZZS#AS#JV# #NA#AS#JV#ZZS#PRO#ZZS#AS#LPV#PRO#NA#JV#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Pret#Pret#Pret#Par#Par#Pret#Pret#Pret#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "10.09.2026 15:33:30",
+  "VOTEMOTIVE": "Par likumprojekta Grozījums Lauksaimniecības un lauku attīstības likumā (1488/Lp14), 1.lasījums iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "4aebc7bc-8f18-4a64-9d01-910d22f4fe36",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "12",
+  "VOTERESULT_FOR": "39",
+  "VOTERESULT_REGISTERED": "60",
+  "VOTE_NUMBER": "6",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-2-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/2a8b669a-c60b-4b6a-9b39-50d5254f9712/download/14.saeimas-2026.gada-rudens-sesija-2-vote.xml",
+  "sha256": "bea7017454c12cb4d2ac42da6d7c31a81fda9a45b41cc9f8efb83a7f32f15d51",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
