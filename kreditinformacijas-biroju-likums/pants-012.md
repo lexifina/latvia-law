@@ -14,3 +14,5 @@
 (4) Šā panta pirmās daļas 7.punktā minētās ziņas kredītinformācijas birojs dzēš, ja tas ir saņēmis spēkā stājušos tiesas vai šķīrējtiesas nolēmumu, ar kuru konstatēta parāda summa, vai klienta rakstveida apliecinājumu par savu iebildumu atsaukšanu.
 (5) Kredītinformācijas birojs ir tiesīgs katrai nozarei noteikt minimālo parāda summu, sākot no kuras ziņas par parādu var iekļaut kredītinformācijas biroja datubāzē.
 (6) Kredītinformācijas birojs ir tiesīgs veikt īpašu kategoriju personas datu apstrādi, ciktāl šāda datu apstrāde attiecas uz ziņu par personas parādu apstrādi, ja tiek nodrošināts, ka īpašu kategoriju personas dati netiek izpausti trešām personām. Īpašu kategoriju personas datus apstrādā tikai šajā pantā minētajā apjomā un kārtībā.
+(7) (Daļa stājas spēkā 20.11.2026. un iekļauta likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 7. punktu)
+(8) (Daļa stājas spēkā 20.11.2026. un iekļauta likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 7. punktu)
