@@ -1,0 +1,1 @@
+14. pants. Civiltiesiskā saistība, kuras termiņš pārsniedz laiku, kādu ārzemniekam atļauts uzturēties Latvijas Republikā, pati par sevi nevar būt par vīzas izsniegšanas vai uzturēšanās atļaujas izsniegšanas vai reģistrēšanas pamatu.

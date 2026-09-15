@@ -1,0 +1,2 @@
+73. pants. (1) Tiesnesis, pieņemot lēmumu par aizturēšanu, aizturēšanas termiņa pagarināšanu vai atteikumu pagarināt aizturēšanas termiņu, izvērtē un ņem vērā izraidīšanas procedūrā noskaidrotos apstākļus, kā arī to, vai joprojām pastāv šā likuma 67. panta otrajā daļā minētie apstākļi, kas bija par pamatu ārzemnieka aizturēšanai.
+(2) Pieņemot lēmumu par aizturēšanas termiņa pagarināšanu vai atteikumu to pagarināt, tiesnesis norāda konstatētos faktus, secinājumus un argumentus, atbilstoši kuriem pieņemts attiecīgais lēmums.

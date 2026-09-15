@@ -1,0 +1,5 @@
+89. pants. (1) Ārzemniekam, attiecībā uz kuru pieņemts lēmums par piespiedu izraidīšanu vai izdots izbraukšanas rīkojums, ir tiesības pieteikties atbalstam, kas tiek īstenots par Eiropas Robežu un krasta apsardzes aģentūras (Frontex), Eiropas Savienības politikas instrumentu programmu, starptautisko organizāciju, biedrību vai nodibinājumu finanšu līdzekļiem, lai viņš atgrieztos mītnes valstī (turpmāk - atbalsta programma).
+(2) Pārvaldes priekšnieks vai viņa pilnvarota amatpersona vai Valsts robežsardzes priekšnieks vai viņa pilnvarota amatpersona ir tiesīga atcelt lēmumu par piespiedu izraidīšanu, ja ārzemnieks, attiecībā uz kuru pieņemts šis lēmums, ir pieteicies atbalsta programmai, sadarbojas un var pienācīgi pierādīt, ka ir gatavs izceļot no Eiropas Savienības dalībvalstu teritorijas. Atceļot lēmumu par piespiedu izraidīšanu, ārzemniekam izdod izbraukšanas rīkojumu.
+(3) Šā panta otrās daļas noteikumu nepiemēro, ja pastāv kāds no šādiem nosacījumiem:
+1) ārzemnieks saskaņā ar kompetentas valsts iestādes atzinumu apdraud valsts drošību vai sabiedrisko kārtību vai drošību;
+2) ārzemnieks jau iepriekš izmantojis atbalsta programmu.

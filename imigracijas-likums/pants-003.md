@@ -1,0 +1,3 @@
+3. pants. (1) Ārzemnieku ieceļošanu un uzturēšanos Latvijas Republikā atbilstoši kompetencei dokumentē un kontrolē Pārvalde, Iekšlietu ministrija, Ārlietu ministrija un šā likuma 1. panta pirmās daļas 14. punktā minētās Latvijas Republikas kompetentās valsts iestādes.
+(2) Ārzemnieku ieceļošanas un uzturēšanās Latvijas Republikā uzskaitei un kontrolei Pārvalde, Valsts robežsardze un Iekšlietu ministrijas Informācijas centrs veido un uztur elektroniskās informācijas sistēmas. Tajās iekļaujamās informācijas apjomu, glabāšanas termiņu un izmantošanas kārtību nosaka Ministru kabinets.
+(3) Ārzemnieku agrīnās integrācijas pasākumus koordinē Kultūras ministrija sadarbībā ar Izglītības un zinātnes ministriju.

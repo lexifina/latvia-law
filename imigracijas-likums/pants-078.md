@@ -1,0 +1,12 @@
+78. pants. (1) Valsts robežsardzes amatpersona aizturēto ārzemnieku ievieto ārzemnieku izmitināšanas centrā, pamatojoties uz šā likuma 69. pantā noteiktajā kārtībā sastādītu aizturēšanas protokolu.
+(2) Ievietojot aizturēto ārzemnieku ārzemnieku izmitināšanas centrā, tiek pārbaudīta viņa veselība un veikta sanitārā apstrāde. Kārtību, kādā veic aizturētā ārzemnieka veselības pārbaudi un sanitāro apstrādi, kā arī sagatavo atbilstošu pārskatu, nosaka Ministru kabinets.
+(3) Ārzemnieku izmitināšanas centrā aizturēto ārzemnieku izmitina, ievērojot vispārējos cilvēktiesību principus un iekšējo drošību, kā arī personiskās īpašības un psiholoģisko saderību:
+1) aizturētos izvieto atsevišķi atbilstoši dzimumam;
+2) aizturēto nepilngadīgo ārzemnieku izmitina kopā ar aizturēto vecāku vai viņa likumisko pārstāvi;
+3) aizturēto ārzemnieku, kuram ir veselības traucējumi, saskaņā ar ārstniecības personas norādījumiem ievieto speciāli šim nolūkam aprīkotā telpā;
+4) aizturēto ārzemnieku, kurš ir pārkāpis ārzemnieku izmitināšanas centra iekšējās kārtības noteikumus vai attiecībā uz kuru ir pamats uzskatīt, ka viņš varētu tos pārkāpt, ievieto speciāli šim nolūkam aprīkotā telpā;
+5) aizturēto ārzemnieku, kurš var radīt draudus ārzemnieku izmitināšanas centrā esošo personu drošībai, ievieto atsevišķi speciāli šim nolūkam aprīkotā telpā.
+(4) Pamatojoties uz aizturētā ārzemnieka lūgumu, kā arī lai saglabātu ģimenes vienotību, ģimenes locekļus var izmitināt kopā, izņemot gadījumu, kad neparedzēti liels aizturēto ārzemnieku skaits pārsniedz ārzemnieku izmitināšanas centra kapacitāti.
+(5) Ja aizturētajam ārzemniekam ir bērns, kurš nav aizturēts, pamatojoties uz aizturētā ārzemnieka lūgumu, kā arī lai saglabātu ģimenes vienotību, bērnu var ievietot ārzemnieku izmitināšanas centrā kopā ar aizturēto ārzemnieku, to norādot aizturētā ārzemnieka aizturēšanas protokolā. Aizturētā ārzemnieka bērnam ārzemnieku izmitināšanas centrā ir tādas pašas tiesības un pienākumi kā aizturētajam ārzemniekam.
+(6) Nepilngadīgajam ārzemniekam bez pavadības nodrošina izmitināšanu ārzemnieku izmitināšanas centra telpās atsevišķi no pieaugušajiem, kurās ir viņa vecumam atbilstošs aprīkojums, kā arī ar viņu strādā personāls, kas ir kvalificēts aizsargāt nepilngadīgā ārzemnieka bez pavadības tiesības un rūpēties par viņa vajadzībām.
+(7) Nepilngadīgo ārzemnieku bez pavadības, kas ir sasniedzis vismaz 16 gadu vecumu, var izmitināt kopā ar atbilstoša dzimuma pieaugušajiem.

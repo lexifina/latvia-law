@@ -1,0 +1,1 @@
+11. Ja ārzemnieks, kuram piešķirta termiņuzturēšanās atļauja saskaņā ar Imigrācijas likuma (pieņemts 2002. gada 31. oktobrī) 23. panta pirmās daļas 29. vai 30. punktu, ir miris, viņa ģimenes locekļiem piemēro šā likuma 27. panta pirmās daļas 35. punkta "b" apakšpunktā minētos nosacījumus.

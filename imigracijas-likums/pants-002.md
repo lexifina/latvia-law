@@ -1,0 +1,1 @@
+2. pants. Likuma mērķis ir nodrošināt Latvijas valsts interesēm atbilstošas imigrācijas politikas īstenošanu, nosakot trešās valsts pilsoņu (turpmāk - ārzemnieki) ieceļošanas, uzturēšanās, agrīnās integrācijas pasākumu īstenošanas, tranzīta, izceļošanas un aizturēšanas kārtību, kā arī kārtību, kādā ārzemniekus izraida no Latvijas Republikas.

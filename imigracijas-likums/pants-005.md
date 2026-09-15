@@ -1,0 +1,3 @@
+5. pants. (1) Ārzemnieks dokumentus, kas nepieciešami robežas šķērsošanai vai vīzas vai pirmreizējas termiņuzturēšanās atļaujas pieprasīšanai, iesniedz latviešu vai angļu valodā, bet dokumentus atkārtotas termiņuzturēšanās atļaujas vai pastāvīgās uzturēšanās atļaujas pieprasīšanai - latviešu valodā.
+(2) Ārzemnieka uzaicinātājs informāciju, paskaidrojumus un dokumentus iesniedz tikai latviešu valodā.
+(3) Ārzemniekam ir pienākums uzrādīt vai iesniegt šā likuma 6. panta pirmajā un desmitajā daļā un 11. panta pirmajā daļā noteiktos dokumentus, ja to atbilstoši kompetencei pieprasa valsts iestāde, kā arī sniegt biometrijas datus, ja tas nepieciešams attiecīgās valsts iestādes funkciju īstenošanai.

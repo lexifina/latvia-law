@@ -1,0 +1,3 @@
+57. pants. (1) Skrīninga subjektam un ārzemniekam, uz kuru attiecināma atgriešanas robežprocedūra, ir tiesības sazināties valodā, kuru ārzemnieks saprot vai kura viņam pamatoti būtu jāsaprot. Ja nepieciešams, Valsts robežsardze pieaicina tulku, par kura pakalpojumiem maksā no šim mērķim paredzētiem valsts budžeta līdzekļiem.
+(2) Skrīninga subjektam ir attiecīgas tiesības un garantijas atbilstoši regulas Nr. 2024/1356 11. pantā, 12. panta 1. punktā, 13. pantā un 17. panta 3. punktā, kā arī regulas Nr. 2024/1351 42. panta 2. punktā noteiktajam.
+(3) Ārzemniekam, uz kuru attiecināma atgriešanas robežprocedūra, ir tiesības atbilstoši regulas Nr. 2024/1349 4. panta 2. punktā noteiktajam.

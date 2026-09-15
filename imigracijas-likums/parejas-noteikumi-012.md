@@ -1,0 +1,1 @@
+12. Šā likuma 28. pantā minētos Ministru kabineta noteikumus nepiemēro, izskatot dokumentus, kas saskaņā ar šā likuma 27. panta pirmās daļas 10. punktu iesniegti termiņuzturēšanās atļaujas pieprasīšanai līdz šā likuma 28. pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai.

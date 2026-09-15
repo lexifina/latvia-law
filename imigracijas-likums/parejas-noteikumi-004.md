@@ -1,0 +1,1 @@
+4. Dokumentus vīzas vai termiņuzturēšanās atļaujas pieprasīšanai, kas iesniegti līdz šā likuma spēkā stāšanās dienai, izskata un vīzas un termiņuzturēšanās atļaujas izsniedz saskaņā ar Imigrācijas likumu (pieņemts 2002. gada 31. oktobrī).

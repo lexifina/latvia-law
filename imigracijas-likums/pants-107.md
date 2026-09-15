@@ -1,0 +1,1 @@
+107. pants. Sarakstā iekļauto informāciju savu uzdevumu veikšanai izmanto Pārvalde, Valsts robežsardze, Latvijas pārstāvniecības, Konsulārais departaments un citas kompetentās Latvijas Republikas iestādes.

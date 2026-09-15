@@ -1,0 +1,2 @@
+91. pants. (1) Ja ārlietu ministrs, pamatojoties uz šā likuma 104. panta pirmās daļas 1. punktā noteikto, pieņēmis lēmumu par ārzemnieka iekļaušanu sarakstā un ārzemnieks atrodas Latvijas Republikā, Valsts robežsardzes priekšnieks vai viņa pilnvarota amatpersona astoņu dienu laikā no dienas, kad konstatēts fakts, ka ārzemnieks atrodas Latvijas Republikā, pieņem lēmumu par ārzemnieka piespiedu izraidīšanu.
+(2) Šā panta pirmajā daļā minētais lēmums par piespiedu izraidīšanu nav apstrīdams vai pārsūdzams.

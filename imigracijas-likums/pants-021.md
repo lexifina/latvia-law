@@ -1,0 +1,16 @@
+21. pants. (1) Ielūguma apstiprināšanu atsaka vai apstiprinātu ielūgumu atceļ, ja:
+1) konstatēts kāds no šā likuma 22. panta pirmajā daļā minētajiem iemesliem;
+2) uzaicinātājs nav iesniedzis visus Ministru kabineta noteiktos ielūguma apstiprināšanai nepieciešamos dokumentus vai iesniegtie dokumenti ir iegūti prettiesiski, tie ir bojāti, viltoti, tajos ir izdarītas sākotnējā satura izmaiņas vai tiesību aktos neparedzētas atzīmes;
+3) konstatēts, ka uzaicinātājs sniedzis nepatiesas ziņas vai nav sniedzis pieprasītos paskaidrojumus, kas saistīti ar ārzemnieka paredzamo uzturēšanos Latvijas Republikā vai citā Šengenas līguma dalībvalstī;
+4) konstatēts, ka uzaicinātajam ārzemniekam nav Latvijas Republikā atzīta ceļošanas dokumenta;
+5) ārzemnieka uzaicināšanas iemesls ir nodarbinātība saskaņā ar darba līgumu, bet darba devējs Nodarbinātības valsts aģentūrā nav reģistrējis brīvu darbavietu vai darbavieta ir reģistrēta, taču nav saņemts Nodarbinātības valsts aģentūras atzinums par ārzemnieka piesaistes nepieciešamību vai uzaicinātā ārzemnieka kvalifikācija vai nodarbināšanas nosacījumi neatbilst reģistrētās brīvās darbavietas pieteikumā norādītajām ziņām, vai brīvās darbavietas pieteikumā iekļautās prasības būtiski pārsniedz atbilstošās profesijas standartā minētās kompetences;
+6) konstatēts, ka Latvijas Republika nav par vīzas pieteikuma izskatīšanu atbildīgā valsts;
+7) uzaicinātājam ir Latvijas Republikas nodokļu jomu reglamentējošos normatīvajos aktos noteikto nodokļu parāds, kas lielāks par 150 euro;
+8) ārzemnieku nodarbinātības nolūkā uzaicina darbaspēka nodrošināšanas pakalpojuma sniedzējs, kurš ir neaktīvs nodokļu maksātājs, pēdējo sešu mēnešu laikā dibināts komersants vai komersants, kuram Valsts ieņēmumu dienests konstatējis pārkāpumus saistību izpildē nodokļu jomā atbilstoši Valsts ieņēmumu dienesta reitingu sistēmā noteiktajam;
+9) ārzemnieku nodarbinātībai kādā no Profesiju klasifikatora 9. pamatgrupas sarakstā minētajām profesijām uzaicina neaktīvs nodokļu maksātājs, pēdējo sešu mēnešu laikā dibināts komersants vai komersants, kuram Valsts ieņēmumu dienests konstatējis pārkāpumus saistību izpildē nodokļu jomā atbilstoši Valsts ieņēmumu dienesta reitingu sistēmā noteiktajam.
+(2) Šā panta pirmajā daļā minētajos gadījumos apstiprinātu ielūgumu neatceļ, ja uz tā pamata ārzemniekam izsniegta vīza un tiek pieņemts lēmums par tās anulēšanu vai atcelšanu.
+(3) Lēmumu par atteikumu apstiprināt ielūgumu vai apstiprināta ielūguma atcelšanu noformē, izmantojot veidlapu, kuras saturu nosaka Ministru kabinets.
+(4) Uzaicinātājam ir tiesības šā panta pirmajā daļā minēto lēmumu apstrīdēt, iesniedzot attiecīgu iesniegumu Pārvaldes priekšniekam.
+(5) Pārvaldes priekšnieka lēmumu uzaicinātājs likumā noteiktajā kārtībā var pārsūdzēt Administratīvajā rajona tiesā. Tiesas nolēmums ir galīgs un nav pārsūdzams.
+(6) Šajā pantā minēto lēmumu apstrīdēšana un pārsūdzēšana neaptur to darbību.
+(7) Pastāvot kādam no šā panta pirmajā daļā minētajiem apstākļiem, Pārvaldes priekšnieks vai viņa pilnvarota amatpersona atļauj apstiprināt ielūgumu vai samazināt šā likuma 15. panta trešajā daļā noteikto aizlieguma termiņu, ja uzaicinātā ārzemnieka ieceļošana un uzturēšanās Latvijas Republikā atbilst starptautiskajām tiesību normām, Latvijas valsts interesēm vai ir saistīta ar nepārvaramu varu vai humāniem apsvērumiem.

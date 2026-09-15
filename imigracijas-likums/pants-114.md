@@ -1,0 +1,1 @@
+114. pants. Kārtību, kādā nosaka ar ārzemnieka piespiedu izraidīšanu, aizturēšanu un turēšanu apsardzībā vai nosūtīšanu uz valsti, kas viņu uzņem atpakaļ, saistītos izdevumus, un to piedziņas kārtību nosaka Ministru kabinets.

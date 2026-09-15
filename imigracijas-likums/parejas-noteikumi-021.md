@@ -1,0 +1,1 @@
+21. Šā likuma 67. pants, kas paredz tiesības uz valsts nodrošināto juridisko palīdzību, un 97. panta piektajā daļā paredzētais regulējums saistībā ar valsts nodrošināto juridisko palīdzību aizturēšanas termiņa pagarināšanai stājas spēkā vienlaikus ar attiecīgiem grozījumiem Valsts nodrošinātās juridiskās palīdzības likumā.

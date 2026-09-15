@@ -1,0 +1,1 @@
+123. pants. Par strādāšanu bez atbilstošām tiesībām uz nodarbinātību, ja pārkāpumu izdarījis nodarbinātais ārzemnieks, piemēro naudas sodu no septiņdesmit astoņām līdz divsimt četrdesmit naudas soda vienībām.

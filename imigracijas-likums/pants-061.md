@@ -1,0 +1,1 @@
+61. pants. Valsts robežsardzes amatpersona aptaujā skrīninga subjektu, lai iegūtu informāciju regulas Nr. 2024/1356 17. pantā minētās veidlapas aizpildīšanai. Skrīninga subjektu pret parakstu iepazīstina ar minētajā veidlapā iekļauto informāciju atbilstoši regulas Nr. 2024/1356 17. pantā noteiktajam. Skrīninga subjektam izsniedz aizpildītās veidlapas eksemplāru.

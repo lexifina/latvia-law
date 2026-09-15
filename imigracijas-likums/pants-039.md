@@ -1,0 +1,6 @@
+39. pants. (1) Tiesas, Latvijas Republikas valsts un pašvaldību iestādes septiņu dienu laikā informē Pārvaldi, ja to rīcībā ir informācija par šā likuma 34., 35., 36. vai 37. panta pirmajā daļā minētajiem nosacījumiem.
+(2) Uzaicinātājam vai ārzemniekam, ja viņam nav uzaicinātāja, ir pienākums nekavējoties, bet ne vēlāk kā piecu darbdienu laikā informēt Pārvaldi par to, ka vairs nepastāv vai ir mainījušies apstākļi, atbilstoši kuriem ārzemnieks saņēmis termiņuzturēšanās atļauju.
+(3) Papildus šā panta otrajā daļā noteiktajam informēšanas pienākumam akreditētai izglītības iestādei ir pienākums nekavējoties, bet ne vēlāk kā triju darbadienu laikā rakstveidā informēt Valsts robežsardzi par to, ka ārzemnieks, kurš saņēmis termiņuzturēšanās atļauju saistībā ar mācībām vai studijām:
+1) ir pārtraucis mācības vai izslēgts no studējošo saraksta;
+2) trīs dienas nepārtraukti bez attaisnojoša iemesla nav piedalījies mācību vai studiju procesā un nav sasniedzams.
+(4) Ārzemniekam, kuram ir derīga uzturēšanās atļauja, ir pienākums 30 dienu laikā pēc jauna ceļošanas dokumenta saņemšanas (iepriekšējā ceļošanas dokumenta vietā) vai 30 dienu laikā pēc ieceļošanas Latvijas Republikā, ja dokumentu saņem ārvalstī, iesniegt minēto dokumentu Pārvaldē jaunas uzturēšanās atļaujas saņemšanai vai ziņu aktualizēšanai Iedzīvotāju reģistrā.

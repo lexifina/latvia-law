@@ -1,0 +1,4 @@
+69. pants. (1) Valsts robežsardzes amatpersona, aizturot ārzemnieku, sastāda aizturēšanas protokolu.
+(2) Aizturēšanas protokolā norāda tā sastādīšanas laiku, vietu, protokola sastādītāja amatu, vārdu un uzvārdu, ziņas par aizturēto, aizturēšanas laiku un motīvus. Protokolu paraksta amatpersona, kura to sastādījusi, un aizturētais. Ja aizturētais atsakās parakstīt protokolu, to norāda protokolā.
+(3) Aizturot ārzemnieku, Valsts robežsardzes amatpersona veic personas un tās mantu apskati un sastāda par to protokolu. Ja ārzemnieka apskate ir saistīta ar ķermeņa atkailināšanu vai pārmeklēšanu, apskati veic tā paša dzimuma amatpersona, nepiedaloties pretēja dzimuma personām, izņemot ārstniecības personu.
+(4) Aizturētā ārzemnieka mantu apskati veic viņa klātbūtnē. Neatliekamos gadījumos mantas var apskatīt bez aizturētā ārzemnieka klātbūtnes.

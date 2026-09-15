@@ -1,0 +1,1 @@
+2. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par Eiropas Savienības pastāvīgā iedzīvotāja statusu Latvijas Republikā" (Latvijas Vēstnesis, 2006, 107. nr.; 2011, 117. nr.; 2013, 128. nr.; 2024, 102.A nr.).

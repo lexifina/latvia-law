@@ -1,0 +1,16 @@
+43. pants. (1) Apliecinājums par tiesībām uz nodarbinātību nav nepieciešams, ja ārzemnieks likumīgi uzturas Latvijas Republikā saistībā ar:
+1) dalību izrādēs (koncertos) kā mākslinieks vai kā izrāžu (koncertu) nodrošināšanā iesaistīts administratīvais vai tehniskais darbinieks un paredzētais uzturēšanās ilgums Latvijas Republikā nepārsniedz 14 dienas;
+2) zinātniskās institūcijas vai atsevišķa zinātnieka, vai akreditētas augstākās izglītības institūcijas uzaicinājumu veikt zinātniskus pētījumus vai piedalīties izglītības programmu īstenošanā un paredzētais uzturēšanās ilgums Latvijas Republikā nepārsniedz 90 dienas sešu mēnešu laikā;
+3) to, ka ir ārvalsts pētnieks, kurš uzturas Latvijas Republikā saskaņā ar šā likuma 6. panta ceturto daļu un ir ievēlēts akadēmiskā amatā kādā koledžā, augstskolā vai zinātniskajā institūtā Latvijas Republikā, vai ir studējošais, kurš uzturas Latvijas Republikā saskaņā ar šā likuma 6. panta sesto daļu un kura nodarbinātība nepārsniedz 20 stundas nedēļā;
+4) to, ka ir Latvijas Kuģu reģistrā reģistrēta starptautiskus jūras reisus veicoša kuģa apkalpes loceklis;
+5) to, ka ir ārvalstī reģistrēta starptautiskos pārvadājumus veicoša transportlīdzekļa apkalpes loceklis;
+6) to, ka likumīgi strādā kādā citā Eiropas Savienības dalībvalstī, Eiropas Ekonomikas zonas valstī vai Šveices Konfederācijā un darba devējs viņu norīko darbā pakalpojumu sniegšanai Latvijā ne ilgāk par 90 dienām 180 dienu laikposmā;
+7) to, ka ir komercreģistrā reģistrēts valdes vai padomes loceklis, prokūrists, administrators, likvidators vai personālsabiedrības biedrs, kuram ir tiesības pārstāvēt personālsabiedrību, vai persona, kura pilnvarota pārstāvēt komersantu (ārvalsts komersantu) darbībās, kas saistītas ar filiāli, un uzturēšanās ilgums Latvijas Republikā nepārsniedz 90 dienas sešu mēnešu laikā;
+8) to, ka ir komersanta ietvaros pārcelts darbinieks, kura uzturēšanās ilgums Latvijas Republikā nepārsniedz 90 dienas jebkurā 180 dienu laikposmā un kuram ir derīga citas Eiropas Savienības dalībvalsts izsniegta termiņuzturēšanās atļauja kā komersanta ietvaros pārceltam darbiniekam;
+9) to, ka ir nodarbināts Latvijas Republikā un viņa uzturēšanās ilgums Latvijas Republikā nepārsniedz 14 dienas jebkurā 180 dienu laikposmā;
+10) praksi studiju programmas ietvaros vai izglītības iegūšanu, kuras ietvaros paredzēta prakse;
+11) atbilstošas profesionālās pieredzes iegūšanu kā stažierim ne vēlāk kā divus gadus pēc augstākās izglītības iegūšanas;
+12) saimnieciskās aktivitātes veikšanu uz laiku līdz 90 dienām jebkurā 180 dienu laikposmā un viņam ir citā Eiropas Savienības dalībvalstī izsniegta Eiropas Savienības zilā karte;
+13) Eiropas Savienības zilās kartes pieprasīšanu Latvijas Republikā, ja viņam ir citā Eiropas Savienības dalībvalstī izsniegta Eiropas Savienības zilā karte un no pieteikuma iesniegšanas brīža Pārvaldē pagājušas vismaz 30 dienas.
+(2) Apliecinājums par tiesībām uz nodarbinātību nav nepieciešams, ja ārzemnieks likumīgi uzturas Latvijas Republikā un neierobežotu piekļuvi darba tirgum paredz Latvijas Republikai saistošs starptautiskais līgums.
+(3) Apliecinājums par tiesībām uz nodarbinātību nav nepieciešams, ja notiesātais ārzemnieks, kas izcieš sodu izmeklēšanas cietumā, brīvības atņemšanas iestādē vai audzināšanas iestādē nepilngadīgajiem, tiek nodarbināts Latvijas Sodu izpildes kodeksā noteiktajā kārtībā.

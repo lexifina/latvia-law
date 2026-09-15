@@ -1,0 +1,1 @@
+120. pants. Par personai noteiktā pienākuma - iesniegt valsts apdraudējuma novēršanai nepieciešamās ziņas - nepildīšanu vai nepilnīgu vai nepatiesu ziņu sniegšanu piemēro naudas sodu līdz četrsimt naudas soda vienībām.

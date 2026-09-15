@@ -1,0 +1,1 @@
+14. Līdz atbilstošu grozījumu veikšanai Veselības aprūpes finansēšanas likumā, bet ne ilgāk kā līdz 2027. gada 1. augustam ārzemnieki, kuri saņēmuši termiņuzturēšanās atļaujas saskaņā ar šā likuma 27. panta pirmās daļas 3., 6., 26. punktu vai 35. punkta "d" apakšpunktu, ir tiesīgi saņemt veselības aprūpes pakalpojumus Veselības aprūpes finansēšanas likumā paredzētajā apjomā.

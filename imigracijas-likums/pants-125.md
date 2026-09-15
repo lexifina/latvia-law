@@ -1,0 +1,1 @@
+125. pants. Par uzaicinātā ārzemnieka veselības aprūpes, uzturēšanās Latvijas Republikā vai atgriešanās mītnes valstī izdevumu nesegšanu piemēro naudas sodu fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai - no trīsdesmit līdz tūkstoš naudas soda vienībām.

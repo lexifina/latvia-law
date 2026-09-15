@@ -1,0 +1,1 @@
+19. Šā likuma pārejas noteikumu 18. punktā minētās tiesības ir arī Krievijas Federācijas pilsonim, kura faktiskā dzīvesvieta ir Latvijas Republikā un kuram saskaņā ar Imigrācijas likuma (pieņemts 2002. gada 31. oktobrī) pārejas noteikumu 58.⁶ punktu izsniegta atļauja uzturēties Latvijas Republikā.

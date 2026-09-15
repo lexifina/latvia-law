@@ -1,0 +1,1 @@
+22. Valsts robežsardzes amatpersonas iesniegumi par ārzemnieka aizturēšanas termiņa pagarināšanu, kas iesniegti tiesā pirms šā likuma spēkā stāšanās dienas, izskatāmi saskaņā ar 2002. gada 31. oktobrī Saeimas pieņemto Imigrācijas likumu.

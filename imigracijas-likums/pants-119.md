@@ -1,0 +1,1 @@
+119. pants. Par uzturēšanos Latvijas Republikā bez derīga ceļošanas dokumenta, vīzas, uzturēšanās atļaujas, ceļošanas atļaujas vai veselības apdrošināšanas polises, ja šo dokumentu nepieciešamība noteikta šajā likumā, piemēro brīdinājumu vai naudas sodu līdz septiņdesmit septiņām naudas soda vienībām.

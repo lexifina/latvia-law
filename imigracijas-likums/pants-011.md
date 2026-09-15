@@ -1,0 +1,11 @@
+11. pants. (1) Ārzemnieks ir tiesīgs ieceļot un uzturēties Latvijas Republikas pierobežas teritorijā, ja viņam ir vietējās pierobežas satiksmes atļauja, kuru saskaņā ar noslēgtajiem starptautiskajiem līgumiem izsniedz Latvijas pārstāvniecība.
+(2) Kārtību, kādā izsniedz, reģistrē, atsaka, anulē un atceļ vietējās pierobežas satiksmes atļauju, un tajā iekļaujamās ziņas nosaka Ministru kabinets.
+(3) Latvijas pārstāvniecības, Pārvaldes vai Valsts robežsardzes amatpersona anulē vietējās pierobežas satiksmes atļauju, ja pēc tās izsniegšanas konstatē, ka ir pārkāpti Latvijas Republikai saistošos starptautiskajos tiesību aktos noteiktie atļaujas izsniegšanas nosacījumi, kā arī tad, ja ir pamats uzskatīt, ka atļauja izsniegta, pamatojoties uz personas sniegtu nepatiesu informāciju. Atļauja atzīstama par nederīgu ar brīdi, kad pieņemts lēmums par tās anulēšanu.
+(4) Latvijas pārstāvniecības, Pārvaldes vai Valsts robežsardzes amatpersona atceļ vietējās pierobežas satiksmes atļauju, ja konstatē, ka pēc tās izsniegšanas nav ievēroti atļaujas izsniegšanas nosacījumi, vai ja to lūdzis atļaujas turētājs. Atļauja zaudē spēku ar brīdi, kad pieņemts lēmums par tās atcelšanu.
+(5) Ārzemniekam ir tiesības lēmumu par vietējās pierobežas satiksmes atļaujas atteikumu, kā arī lēmumu par izsniegtas vietējās pierobežas satiksmes atļaujas anulēšanu vai atcelšanu pēc minētā lēmuma spēkā stāšanās dienas apstrīdēt, iesniedzot attiecīgu iesniegumu:
+1) Ārlietu ministrijas Konsulārā departamenta (turpmāk - Konsulārais departaments) direktoram, - ja lēmumu pieņēmusi Latvijas pārstāvniecības amatpersona vai Konsulārā departamenta amatpersona;
+2) Pārvaldes priekšniekam, - ja lēmumu pieņēmusi Pārvaldes amatpersona;
+3) Valsts robežsardzes priekšniekam, - ja lēmumu pieņēmusi Valsts robežsardzes amatpersona.
+(6) Lēmumu par apstrīdēto administratīvo aktu ārzemnieks likumā noteiktajā kārtībā var pārsūdzēt Administratīvajā rajona tiesā. Tiesas nolēmums ir galīgs un nav pārsūdzams.
+(7) Lēmuma par vietējās pierobežas satiksmes atļaujas atcelšanu vai anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+(8) Par vietējās pierobežas satiksmes atļaujas pieprasīšanai nepieciešamo dokumentu izskatīšanu ārzemnieks maksā valsts nodevu. Ministru kabinets nosaka valsts nodevas apmēru un samaksas kārtību, kā arī to personu kategorijas, kuras ir atbrīvotas no valsts nodevas samaksas.

@@ -1,0 +1,1 @@
+16. Šā likuma 84. panta otrās daļas 2. punkta "d" apakšpunkts ir spēkā līdz Patvēruma likuma, kas īstenos 2024. gada 24. maijā pieņemtā Eiropas Savienības Migrācijas un patvēruma pakta prasības, spēkā stāšanās dienai.

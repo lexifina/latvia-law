@@ -1,0 +1,1 @@
+121. pants. Par personas nodrošināšanu ar iespēju nelikumīgi uzturēties Latvijas Republikā piemēro naudas sodu fiziskajai personai no vienpadsmit līdz piecdesmit deviņām naudas soda vienībām, bet juridiskajai personai - no četrdesmit divām līdz simt astoņpadsmit naudas soda vienībām.
