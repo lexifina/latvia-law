@@ -1,0 +1,1 @@
+48. Grozījumi šā likuma 8. panta 4.⁶ daļā par tās pirmā teikuma izslēgšanu un tās papildināšanu ar jaunu teikumu stājas spēkā 2026. gada 30. septembrī. Kreditēšanas līgumiem, kuri noslēgti līdz attiecīgo grozījumu spēkā stāšanās dienai, piemērojama šā likuma 8. panta 4.⁶ daļa redakcijā, kas bija spēkā līguma noslēgšanas brīdī.

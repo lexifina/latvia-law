@@ -11,6 +11,7 @@ Likumā ir lietoti šādi termini:
 8) digitālais saturs - dati, kas radīti un piegādāti digitālā formātā;
 8¹) digitālais pakalpojums - pakalpojums, kas patērētājam dod iespēju sagatavot, apstrādāt un uzglabāt datus vai piekļūt tiem digitālā veidā, vai pakalpojums, kas ļauj kopīgot datus vai jebkā citādi digitālā veidā mijiedarboties ar datiem, kurus augšupielādējis vai radījis patērētājs vai citi minētā pakalpojuma lietotāji;
 8²) digitālā vide - aparatūra, programmatūra un jebkurš tīkla savienojums, kuru izmanto patērētājs, lai lietotu digitālo saturu vai digitālo pakalpojumu vai piekļūtu tam;
+8³) kredīta devējs - persona, kas nodarbojas ar patērētāju kreditēšanu;
 9) kredīta kopējās izmaksas patērētājam - visas izmaksas, tajā skaitā procenti, komisijas nauda, nodevas un jebkādi citi maksājumi, kas patērētājam jāmaksā saistībā ar kreditēšanas līgumu un kas ir kredīta devējam zināmi (izņemot zvērināta notāra izmaksas). Kredīta kopējās izmaksās iekļauj arī izmaksas par papildu pakalpojumiem saistībā ar kreditēšanas līgumu, tajā skaitā apdrošināšanas prēmijas, ja papildu pakalpojumu līguma noslēgšana ir obligāts priekšnoteikums, lai saņemtu kredītu vai lai to saņemtu ar piedāvātajiem noteikumiem un nosacījumiem. Ja kredīta atmaksa nodrošināta ar nekustamo īpašumu vai kredīta mērķis ir iegūt vai saglabāt tiesības uz nekustamo īpašumu, kredīta kopējās izmaksās patērētājam iekļauj arī īpašuma vērtēšanas izmaksas, ja šāda vērtēšana ir vajadzīga kredīta saņemšanai, bet neietver maksu, kas saistīta ar nekustamā īpašuma ierakstīšanu un ar to saistīto tiesību nostiprināšanu zemesgrāmatā;
 10) kredīta starpnieks - fiziskā vai juridiskā persona, kura darbojas nevis kā kredīta devējs, bet gan savas saimnieciskās vai profesionālās darbības ietvaros par maksu, kas saskaņā ar noslēgto vienošanos var būt naudas veidā vai jebkurā citā finansiālas atlīdzības veidā, un veic kādu no šādām darbībām:
 a) piedāvā kreditēšanas līgumus patērētājiem vai iepazīstina ar tiem,
@@ -28,4 +29,10 @@ c) kura tieši vada vai uzrauga šā punkta "a" un "b" apakšpunktā minētās f
 17) ilgizturība - preču spēja saglabāt vajadzīgās funkcijas un izpildījumu normālas lietošanas laikā;
 18) integrēšana - digitālā satura vai digitālā pakalpojuma sasaistīšana ar patērētāja digitālās vides komponentiem un iekļaušana tajos, lai digitālo saturu vai digitālo pakalpojumu izmantotu atbilstoši šā likuma prasībām;
 19) (punkts stājas spēkā 27.09.2026. un iekļauts likuma redakcijā uz 27.09.2026. Sk. pārejas noteikumu 46. punktu);
-20) (punkts stājas spēkā 27.09.2026. un iekļauts likuma redakcijā uz 27.09.2026. Sk. pārejas noteikumu 46. punktu).
+20) (punkts stājas spēkā 27.09.2026. un iekļauts likuma redakcijā uz 27.09.2026. Sk. pārejas noteikumu 46. punktu);
+21) atlikto maksājumu pakalpojums - kredīts par preču vai pakalpojumu iegādi atlikta maksājuma, aizdevuma vai citas tamlīdzīgas finansiālas vienošanās veidā, kuru piešķir ražotājs, pārdevējs vai pakalpojuma sniedzējs, lai patērētājs norēķinātos par viņa preču, pakalpojumu, digitālā satura vai digitālo pakalpojumu iegādi, un saskaņā ar kuru kredīts tiek piešķirts bez cita kredīta devēja piesaistīšanas, nemaksājot procentu likmi un citus papildu maksājumus, izņemot ierobežotu maksu par maksājuma kavējumu;
+22) (punkts stājas spēkā 20.11.2026. un iekļauts likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 47. punktu);
+23) (punkts stājas spēkā 20.11.2026. un iekļauts likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 47. punktu);
+24) (punkts stājas spēkā 20.11.2026. un iekļauts likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 47. punktu);
+25) (punkts stājas spēkā 20.11.2026. un iekļauts likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 47. punktu);
+26) (punkts stājas spēkā 20.11.2026. un iekļauts likuma redakcijā uz 20.11.2026. Sk. pārejas noteikumu 47. punktu).
