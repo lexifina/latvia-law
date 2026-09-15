@@ -7,7 +7,7 @@ Likumā ir lietoti šādi termini:
 a) kura ar kredītinformācijas lietotāju noslēgusi klienta līgumu vai kurai maksājuma saistība pret kredītinformācijas lietotāju izriet no normatīvajiem aktiem,
 b) attiecībā uz kuru kredītinformācijas lietotājs ir pārņēmis no klienta līguma izrietošās prasījuma tiesības,
 c) kura ir piekritusi, ka kredītinformācijas lietotājs drīkst vērtēt vai ņemt vērā tās kredītspēju, sniedzot ar kredītrisku saistītu pakalpojumu kādai trešajai personai vai pieņemot lēmumu par šāda pakalpojuma sniegšanu;
-5) kredītinformācija - ziņas, kas iegūtas no šajā likumā noteiktajiem kredītinformācijas avotiem un raksturo klienta vai iespējamā klienta kredītspēju;
+5) kredītinformācija - ziņas, kas iegūtas no šajā likumā noteiktajiem kredītinformācijas avotiem un raksturo klienta vai iespējamā klienta kredītspēju vai ļauj nodrošināt šā likuma 4. panta trešajā daļā noteikto mērķu sasniegšanu;
 6) klienta līgums ir:
 a) līgums, saskaņā ar kuru kredītinformācijas lietotājs sniedz vai sniegs ar kredītrisku saistītu pakalpojumu,
 b) līgums, saskaņā ar kuru kredītinformācijas lietotājam galvo par citas personas saistībām,
