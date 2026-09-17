@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-17",
+ "ieraksts": {
+  "dkp_id": "b75fdb6d-9c1a-422e-8692-e7d612f10b84",
+  "lastmodtime": "\"AAAAAAKartk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Amils#Jekaterina#Arvils#Dmitrijs#Juris#Uģis#Viktorija#Anita#Raimonds#Anda#Roberts#Aleksandrs#Arnolds#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Vilis#Inese#Edmunds#Ingmārs#Edmunds#Andris#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Dāvis#Evika#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Mārtiņš#Daiga#Agita#Kristaps#Česlavs#Normunds#Linda#Andrejs#Ināra#Jānis#Gunārs#Edgars#Inga#Jānis#Linda#Atis#Jānis",
+  "SURNAME": "Ivanovs#Saļimovs#Drelinga#Ašeradens#Kovaļenko#Viļums#Mitrevics#Pleškāne#Brakovska#Bergmanis#Čakša#Ķipurs#Kiršteins#Jātnieks#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Lībiņa-Egnere#Teirumnieks#Līdaka#Zivtiņš#Sprūds#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Melnalksnis#Siliņa#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Daugavietis#Felss#Mieriņa#Zariņa-Stūre#Krištopans#Batņa#Dzintars#Matisone#Judins#Mūrniece#Vucāns#Kūtris#Putra#Priede#Patmalnieks#Liepiņa#Švinka#Skrastiņš",
+  "VOTEDEPSUFFIX": "##########################################################################",
+  "FRACTION": " # # #JV# #AS#NA# #ZZS#AS#JV#NA# #NA#PRO# #JV#JV#ZZS# #JV#LPV#LPV#NA#PRO#JV#JV# #JV#NA#AS#LPV#PRO#LPV#JV#PRO#ZZS#JV#AS#JV#AS#JV# #JV# #JV#ZZS#JV#ZZS#AS#AS#ZZS#NA# #ZZS# # #JV#JV#ZZS#JV#LPV#AS#NA#AS#JV#NA#ZZS#ZZS#AS#AS#JV#LPV#PRO#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Pret#Par#Atturas#Pret#Par#Par#Pret#Par#Par#Par#Pret#Atturas#Atturas#Par#Atturas#Par#Par#Par#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Par#Atturas#Par#Pret#Par#Atturas#Par#Atturas#Par#Par#Par#Par#Par#Par#Par#Par#Par#Atturas#Atturas#Par#Atturas#Par#Par#Par#Par#Atturas#Par#Par#Par#Par#Par#Atturas#Par#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2026 15:49:46",
+  "VOTEMOTIVE": "Par punkta Valsts pārvaldes un pašvaldības komisija lūdz grozīt sēdes darba kārtību un pārcelt 59. draba kārtības punktu - likumprojekts \"Grozījumi Saeimas vēlēšanu likumā\" (1505/Lp14) un alternatīvais ... iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "83725d4d-fefd-4f98-972b-7e4b765a3f76",
+  "VOTERESULT_ABSTAIN": "13",
+  "VOTERESULT_AGAINST": "11",
+  "VOTERESULT_FOR": "38",
+  "VOTERESULT_REGISTERED": "75",
+  "VOTE_NUMBER": "8",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
