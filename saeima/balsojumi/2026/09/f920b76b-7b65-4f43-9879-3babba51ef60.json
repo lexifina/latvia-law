@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-17",
+ "ieraksts": {
+  "dkp_id": "6e682bbe-ddda-481f-9ee4-170bfb217fc4",
+  "lastmodtime": "\"AAAAAAKan3M=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Dāvis#Raivis#Linda#Edgars#Aleksandrs#Iļja#Arnolds#Liene#Skaidrīte#Anna#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ingmārs#Edmunds#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Augusts#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Juris#Mārtiņš#Daiga#Agita#Kristaps#Česlavs#Viktorija#Normunds#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Inga#Jānis#Linda#Atis#Anda#Roberts#Jānis",
+  "SURNAME": "Melnalksnis#Kalējs#Matisone#Putra#Kiršteins#Ivanovs#Jātnieks#Gātere#Ābrama#Rancāne#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Līdaka#Zivtiņš#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Daugavietis#Viļums#Felss#Mieriņa#Zariņa-Stūre#Krištopans#Batņa#Pleškāne#Dzintars#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Skrastiņš",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "AS#AS#AS#AS# # #NA#PRO# #JV#ZZS# #JV#LPV#LPV#NA#PRO#JV#JV# # #JV#NA#AS#LPV#LPV#JV#PRO#ZZS#JV#AS#JV# #JV# #JV#JV# #JV#ZZS#JV#ZZS#AS#ZZS#NA# #ZZS# # #JV#AS#JV#ZZS#JV#LPV#AS# #NA#JV#NA#ZZS#ZZS#ZZS# #AS#AS#JV#LPV#PRO#JV#NA#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Atturas#Par#Par#Atturas#Par#Par#Atturas#Par#Par#Atturas#Par#Atturas#Atturas#Par#Par#Atturas#Atturas#Atturas#Par#Par#Atturas#Par#Par#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Pret#Atturas#Atturas#Atturas#Pret#Atturas#Par#Pret#Par#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Par#Atturas#Atturas#Atturas#Atturas#Pret#Atturas#Par#Atturas#Atturas#Atturas#Par#Par#Atturas#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2026 15:41:44",
+  "VOTEMOTIVE": "Grozījumi likumā “Par maternitātes un slimības apdrošināšanu” (1526/Lp14), nodošana komisijām",
+  "VOTING_ID": "f920b76b-7b65-4f43-9879-3babba51ef60",
+  "VOTERESULT_ABSTAIN": "40",
+  "VOTERESULT_AGAINST": "4",
+  "VOTERESULT_FOR": "23",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "6",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
