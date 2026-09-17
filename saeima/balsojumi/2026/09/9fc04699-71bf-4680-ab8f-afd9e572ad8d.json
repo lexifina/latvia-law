@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-17",
+ "ieraksts": {
+  "dkp_id": "5703b5de-c14c-40f0-b842-26dc78d92c05",
+  "lastmodtime": "\"AAAAAAKbgC0=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Andrejs#Iļja#Arnolds#Liene#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Maija#Agnese#Jana#Zanda#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Līga#Jānis#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Juris#Mārtiņš#Daiga#Uģis#Agita#Kristaps#Viktorija#Normunds#Linda#Andrejs#Ināra#Jānis#Anita#Gunārs#Edgars#Igors#Raimonds#Inga#Jānis#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis",
+  "SURNAME": "Svilāns#Ivanovs#Jātnieks#Gātere#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Armaņeva#Krasta#Simanovska#Kalniņa-Lukaševica#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Viļums#Felss#Mieriņa#Mitrevics#Zariņa-Stūre#Krištopans#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Putra#Judins#Bergmanis#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš",
+  "VOTEDEPSUFFIX": "##########################################################################",
+  "FRACTION": "AS# #NA#PRO#JV#JV#ZZS# #JV#LPV#LPV# #NA#PRO#JV#JV# # #JV#NA#ZZS#LPV#AS#LPV#PRO#LPV#JV#PRO#JV#JV# #AS#JV# #JV#JV# #JV#ZZS#JV#ZZS#AS#AS#ZZS#NA# # # # #JV#AS#JV#ZZS#NA#JV#LPV# #NA#AS#JV#NA#ZZS#ZZS#ZZS#AS# #AS#AS#JV#LPV#PRO#JV#NA# #JV",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2026 16:57:56",
+  "VOTEMOTIVE": "Par Alda Černija iecelšanu par rajona (pilsētas) tiesas tiesnesi (1112/Lm14)",
+  "VOTING_ID": "9fc04699-71bf-4680-ab8f-afd9e572ad8d",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "74",
+  "VOTERESULT_REGISTERED": "75",
+  "VOTE_NUMBER": "35",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
