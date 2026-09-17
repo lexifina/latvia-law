@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-17",
+ "ieraksts": {
+  "dkp_id": "c6404837-349b-4710-a029-d9968a2f5cdf",
+  "lastmodtime": "\"AAAAAAKbVWk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Arnolds#Liene#Skaidrīte#Anna#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Didzis#Jurģis#Andris#Ainars#Vilis#Amils#Inese#Edmunds#Ričards#Ingmārs#Edmunds#Andris#Maija#Agnese#Jana#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Juris#Mārtiņš#Daiga#Uģis#Agita#Kristaps#Viktorija#Normunds#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Inga#Jānis#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis#Līga",
+  "SURNAME": "Ivanovs#Jātnieks#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Šmits#Klotiņš#Šuvajevs#Latkovskis#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Šlesers#Līdaka#Zivtiņš#Sprūds#Armaņeva#Krasta#Simanovska#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Viļums#Felss#Mieriņa#Mitrevics#Zariņa-Stūre#Krištopans#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš#Kozlovska",
+  "VOTEDEPSUFFIX": "########################################################################",
+  "FRACTION": " #NA#PRO# #JV#JV#ZZS# #JV#LPV#LPV# #NA#PRO#JV# # #JV#NA#LPV#AS#LPV#PRO#LPV#JV#PRO#JV#AS#JV# #AS#JV# #JV#JV# #JV#ZZS#JV#ZZS#AS#AS#NA# # # # #JV#AS#JV#ZZS#NA#JV#LPV# #NA#AS#JV#NA#ZZS#ZZS#AS# #AS#AS#JV#LPV#PRO#JV#NA# #JV#ZZS",
+  "RESULT": "Par#Atturas#Pret#Pret#Pret#Pret#Atturas#Par#Pret#Par#Par#Pret#Atturas#Pret#Pret#Par#Par#Pret#Atturas#Par#Pret#Par#Pret#Par#Pret#Pret#Pret#Atturas#Pret#Par#Atturas#Pret#Pret#Pret#Pret#Atturas#Pret#Pret#Pret#Pret#Atturas#Pret#Atturas#Par#Par#Pret#Atturas#Pret#Pret#Pret#Atturas#Atturas#Pret#Par#Par#Atturas#Atturas#Pret#Atturas#Atturas#Atturas#Atturas#Par#Atturas#Atturas#Pret#Par#Pret#Pret#Atturas#Par#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2026 16:30:23",
+  "VOTEMOTIVE": "Par Sabiedrības integrācijas fonda likuma atzīšanu par spēku zaudējušu (1538/Lp14), nodošana komisijām",
+  "VOTING_ID": "73bb67de-7cd2-4440-a356-9a361de8676f",
+  "VOTERESULT_ABSTAIN": "21",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "17",
+  "VOTERESULT_REGISTERED": "73",
+  "VOTE_NUMBER": "30",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
