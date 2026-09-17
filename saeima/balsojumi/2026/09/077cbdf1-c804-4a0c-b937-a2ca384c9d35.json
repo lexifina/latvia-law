@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-17",
+ "ieraksts": {
+  "dkp_id": "b4458bdc-b3eb-473c-92d9-6ab95e2367ea",
+  "lastmodtime": "\"AAAAAAKakkw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edmunds#Raivis#Česlavs#Linda#Edgars#Aleksandrs#Arnolds#Liene#Skaidrīte#Anna#Zane#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ingmārs#Edmunds#Maija#Agnese#Jana#Ligita#Zanda#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Aiva#Līga#Jānis#Nataļja#Jānis#Igors#Juris#Mārtiņš#Daiga#Uģis#Agita#Viktorija#Normunds#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Inga#Jānis#Linda#Atis#Anda#Roberts#Jānis#Juris",
+  "SURNAME": "Jurēvics#Kalējs#Batņa#Matisone#Putra#Kiršteins#Jātnieks#Gātere#Ābrama#Rancāne#Skujiņa-Rubene#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Līdaka#Zivtiņš#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Rajevs#Viļums#Felss#Mieriņa#Mitrevics#Zariņa-Stūre#Pleškāne#Dzintars#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Skrastiņš#Jakovins",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": "JV#AS#AS#AS#AS# #NA#PRO# #JV#JV# #JV#LPV#LPV#NA#PRO#JV#JV# # #JV#NA#AS#LPV#LPV#JV#PRO#ZZS#JV#AS#JV# #AS#JV# #JV#JV# #JV#ZZS#AS#ZZS#NA# #ZZS# #AS#JV#ZZS#NA#JV# #NA#JV#NA#ZZS#ZZS#ZZS# #AS#AS#JV#LPV#PRO#JV#NA#JV#ZZS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Atturas#Atturas#Atturas#Pret#Atturas#Pret#Pret#Par#Par#Atturas#Atturas#Pret#Pret#Atturas#Par#Atturas#Pret#Pret#Atturas#Par#Pret#Atturas#Atturas#Atturas#Pret#Atturas#Atturas#Pret#Atturas#Atturas#Pret#Atturas#Pret#Pret#Pret#Par#Pret#Pret#Atturas#Pret#Atturas#Pret#Par#Atturas#Pret#Par#Atturas#Par#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Pret#Par#Atturas#Par#Atturas#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.09.2026 15:37:44",
+  "VOTEMOTIVE": "Par priekšlikumu Nr.3. Grozījumi Dzelzceļa likumā (1548/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "077cbdf1-c804-4a0c-b937-a2ca384c9d35",
+  "VOTERESULT_ABSTAIN": "24",
+  "VOTERESULT_AGAINST": "27",
+  "VOTERESULT_FOR": "12",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
