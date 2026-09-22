@@ -1,6 +1,6 @@
 9.pants. Ziņojumu iekļaušana Sistēmā, labošana un dzēšana
 (1) Ziņojumu Sistēmā iekļauj, labo un dzēš:
-1) Valsts ieņēmumu dienests, Korupcijas novēršanas un apkarošanas birojs, Militārā policija, Ieslodzījuma vietu pārvalde, Iekšējās drošības birojs, prokuratūras struktūrvienības, Valsts drošības dienests - šā likuma 7. panta pirmajā, otrajā, trešajā, ceturtajā un piektajā daļā minētajiem mērķiem;
+1) Nodokļu un muitas policija, Korupcijas novēršanas un apkarošanas birojs, Militārā policija, Ieslodzījuma vietu pārvalde, Iekšējās drošības birojs, prokuratūras struktūrvienības, Valsts drošības dienests - šā likuma 7. panta pirmajā, otrajā, trešajā, ceturtajā un piektajā daļā minētajiem mērķiem;
 2) Valsts policija - šā likuma 7. panta pirmajā, otrajā, trešajā, ceturtajā, piektajā, sestajā, devītajā un vienpadsmitajā daļā minētajiem mērķiem;
 3) Satversmes aizsardzības birojs un Militārās izlūkošanas un drošības dienests - šā likuma 7. panta piektās daļas 3. un 4. punktā minētajiem mērķiem;
 4) Pilsonības un migrācijas lietu pārvalde - šā likuma 7. panta septītajā, astotajā un desmitajā daļā minētajiem mērķiem;

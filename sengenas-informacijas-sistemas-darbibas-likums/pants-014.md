@@ -12,7 +12,8 @@
 10) tiesām;
 11) Satversmes aizsardzības birojam;
 12) Iekšējās drošības birojam;
-13) Militārās izlūkošanas un drošības dienestam.
+13) Militārās izlūkošanas un drošības dienestam;
+14) Nodokļu un muitas policijai.
 (2) Valsts tehniskās uzraudzības aģentūrai ir tiesības piekļūt Sistēmā iekļautajiem ziņojumiem saskaņā ar Regulas 2018/1862 45. panta 1. punktu, vienīgi lai pārlūkotu attiecīgos ziņojumus.
 (2¹) Ceļu satiksmes drošības direkcijai ir tiesības piekļūt Sistēmā iekļautajiem ziņojumiem saskaņā ar Regulas 2018/1862 45. panta 1. punktu un 46. panta 1. punkta "a" un "b" apakšpunktu, vienīgi lai pārlūkotu attiecīgos ziņojumus.
 (3) Pilsonības un migrācijas lietu pārvaldei, Ārlietu ministrijas Konsulārajam departamentam un Latvijas Republikas diplomātiskajām un konsulārajām pārstāvniecībām ārvalstīs ir tiesības piekļūt Sistēmā iekļautajiem ziņojumiem un veikt tajos meklēšanu saskaņā ar Eiropas Parlamenta un Padomes 2018. gada 28. novembra regulas (ES) 2018/1861 par Šengenas Informācijas sistēmas (SIS) izveidi, darbību un izmantošanu robežpārbaužu jomā un ar kuru groza Konvenciju, ar ko īsteno Šengenas nolīgumu, un groza un atceļ regulu (EK) Nr. 1987/2006 34. panta 1. un 4. punktu un Regulas 2018/1862 44. pantu.
