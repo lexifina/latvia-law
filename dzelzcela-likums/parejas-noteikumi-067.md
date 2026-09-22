@@ -1,0 +1,1 @@
+67. Valsts publiskās lietošanas dzelzceļa infrastruktūras pārvaldītāja būtisko funkciju veicējs ne vēlāk kā nedēļas laikā pēc šā punkta spēkā stāšanās pārskata šo pārejas noteikumu 66. punktā minētajiem pārvadājumiem piemērojamo infrastruktūras maksu un pieņem pamatotu lēmumu par tās apmēru.

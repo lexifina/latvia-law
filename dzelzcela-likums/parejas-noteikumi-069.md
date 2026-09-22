@@ -1,0 +1,1 @@
+69. Šo pārejas noteikumu 67. punktā minētajā lēmumā atsevišķi norāda uz šo pārejas noteikumu pamata noteikto maksas palielinājumu, tā piemērošanas sākuma datumu, kā arī piemērošanas beigu datumu 2026. gada 31. decembri. Palielinājumu piemēro tikai infrastruktūras izmantošanas pakalpojumiem, kas sniegti tā piemērošanas laikā.
