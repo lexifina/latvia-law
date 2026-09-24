@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "6c7de94b-0d0f-4f20-acf9-62085ea0a06f",
+  "lastmodtime": "\"AAAAAAKdUWo=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Andris#Anda#Aleksandrs#Iļja#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Juris#Svetlana#Ilze#Mārcis#Didzis#Jurģis#Ainars#Inese#Vilis#Inese#Edmunds#Ģirts#Ričards#Edmunds#Andris#Maija#Agnese#Raivis#Jana#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Jānis#Oļegs#Igors#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Česlavs#Atis#Viktorija#Normunds#Linda#Andrejs#Anita#Gunārs#Raimonds#Jeļena#Leila#Kaspars#Ramona#Inga#Jānis#Lauris#Linda#Atis#Roberts#Jānis#Līga#Uģis#Ieva",
+  "SURNAME": "Šuvajevs#Čakša#Kiršteins#Ivanovs#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Jakovins#Čulkova#Stobova#Jencītis#Šmits#Klotiņš#Latkovskis#Kalniņa#Sruoģis#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Zivtiņš#Sprūds#Armaņeva#Krasta#Dzintars#Simanovska#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Burovs#Rajevs#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Batņa#Labucis#Pleškāne#Dzintars#Matisone#Judins#Brakovska#Kūtris#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Ķipurs#Skrastiņš#Kozlovska#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "PRO#JV# # #NA#NA#PRO# #JV#ZZS# #LPV#LPV# #NA#JV#JV# #JV#NA#ZZS#LPV#LPV#PRO#LPV#JV#NA#PRO#AS#JV# #AS#JV# #JV#JV# #JV#ZZS#JV#ZZS#AS#AS#NA# # #ZZS# # # #AS#JV#ZZS#NA#NA#ZZS#JV#AS#JV# #NA#AS#JV#ZZS#ZZS#AS# #PRO#PRO#LPV#AS#JV#AS#LPV#PRO#NA#JV#ZZS#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Pret#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Pret#Pret#Par#Pret#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 14:33:11",
+  "VOTEMOTIVE": "Grozījums Enerģētikas likumā (1553/Lp14), 1.lasījums",
+  "VOTING_ID": "a3b69c0f-4346-4dbd-9df7-984b4d19b22b",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "16",
+  "VOTERESULT_FOR": "61",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "92",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
