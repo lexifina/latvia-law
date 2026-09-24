@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 6,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "35077514-88c8-4c96-b8b5-ee0883fc0371",
+  "lastmodtime": "\"AAAAAAKeE/4=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Arvils#Iļja#Arnolds#Juris#Svetlana#Mārcis#Jurģis#Ramona#Inga#Lauris#Linda#Aleksandrs#Līga#Linda#Anita#Gunārs#Igors#Raimonds#Jeļena#Daiga#Uģis#Kristaps#Česlavs#Viktorija#Normunds#Raivis#Jānis#Dmitrijs#Nataļja#Igors#Jefimijs#Raivis#Andrejs#Jekaterina#Dāvis#Andrejs#Augusts#Vilis#Edmunds#Ģirts#Ričards#Edmunds#Maija#Liene#Skaidrīte#Anna#Mārtiņš#Andris#Ainars#Ieva#Andrejs#Leila#Jānis#Atis#Anda#Jānis#Irma#Edmunds#Dāvis Mārtiņš#Mārtiņš#Agita#Atis#Inese#Andris#Agnese#Jana#Zanda#Raimonds#Roberts",
+  "SURNAME": "Ašeradens#Ivanovs#Jātnieks#Jakovins#Čulkova#Jencītis#Klotiņš#Petraviča#Priede#Lizbovskis#Liepiņa#Kiršteins#Kozlovska#Matisone#Brakovska#Kūtris#Judins#Bergmanis#Kļaviņa#Mieriņa#Mitrevics#Krištopans#Batņa#Pleškāne#Dzintars#Kalējs#Eglīts#Kovaļenko#Marčenko-Jodko#Rajevs#Klementjevs#Dzintars#Svilāns#Drelinga#Melnalksnis#Ceļapīters#Brigmanis#Sruoģis#Teirumnieks#Štekerhofs#Šlesers#Zivtiņš#Armaņeva#Gātere#Ābrama#Rancāne#Daģis#Šuvajevs#Latkovskis#Brante#Judins#Rasima#Patmalnieks#Švinka#Čakša#Skrastiņš#Kalniņa#Jurēvics#Daugavietis#Felss#Zariņa-Stūre#Labucis#Kalniņa#Sprūds#Krasta#Simanovska#Kalniņa-Lukaševica#Čudars#Ķipurs",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": "JV# #NA#ZZS# #LPV#NA#LPV#AS#AS#LPV# #ZZS#AS#ZZS#ZZS# #AS# #ZZS#NA#LPV#AS# #NA#AS#NA# # # # #NA#AS# #AS# #ZZS# #NA#ZZS#LPV#LPV#LPV#PRO# #JV#JV#PRO#JV# #JV#PRO#JV#PRO#JV#JV#JV#JV#JV#JV#JV#JV#JV#PRO#JV#PRO#JV#JV#NA",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 16:32:33",
+  "VOTEMOTIVE": "Grozījums Latvijas Republikas Satversmē (1558/Lp14), nodošana komisijām",
+  "VOTING_ID": "83445ac4-6c19-409a-ae7d-456b042c5c77",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "25",
+  "VOTERESULT_FOR": "42",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "5",
+  "VOTE_COMMENT": "Deputāts Arvils Ašeradens iesniegumā raksta, ka ir kļūdījies balsojumā. Viņa balsojums ir “PRET”."
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9844cd96-bc87-4eba-8c62-e46fea603ffa/download/14.saeimas-2026.gada-rudens-sesija-6-vote.xml",
+  "sha256": "6ebba8eb391fbe38028038c620c2b9f44d7ff394d7a2038a50aed458626e2fa6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
