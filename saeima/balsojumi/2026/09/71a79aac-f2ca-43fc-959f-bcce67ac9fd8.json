@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "89985f20-f6df-4439-b852-64c0c90bf239",
+  "lastmodtime": "\"AAAAAAKdvvw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Mārtiņš#Raivis#Linda#Gunārs#Līga#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Didzis#Jānis#Uģis#Ieva#Jānis#Lauris#Atis#Anda#Roberts#Aleksandrs#Andrejs#Anita#Raimonds#Leila#Kaspars#Inga#Jānis#Uģis#Agita#Česlavs#Atis#Normunds#Jānis#Oļegs#Igors#Dāvis Mārtiņš#Mārtiņš#Daiga#Andrejs#Irma#Harijs#Edmunds#Augusts#Jānis#Andrejs#Alīna#Dāvis#Ilze#Raimonds#Arvils#Ingmārs#Andris#Agnese#Raivis#Jana#Zanda#Jurģis#Andris#Ainars#Edmunds#Armands#Ģirts#Iļja#Svetlana#Mārcis#Vilis#Ričards#Edmunds#Viktorija#Igors#Jeļena#Ramona#Linda#Maija#Jekaterina#Dmitrijs#Nataļja#Jefimijs#Kristaps#Juris",
+  "SURNAME": "Daģis#Kalējs#Matisone#Kūtris#Kozlovska#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Šmits#Skrastiņš#Rotbergs#Brante#Patmalnieks#Lizbovskis#Švinka#Čakša#Ķipurs#Kiršteins#Judins#Brakovska#Bergmanis#Rasima#Briškens#Priede#Grasbergs#Mitrevics#Zariņa-Stūre#Batņa#Labucis#Dzintars#Dinevičs#Burovs#Rajevs#Daugavietis#Felss#Mieriņa#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Eglīts#Svilāns#Gendele#Melnalksnis#Vergina#Čudars#Ašeradens#Līdaka#Sprūds#Krasta#Dzintars#Simanovska#Kalniņa-Lukaševica#Klotiņš#Šuvajevs#Latkovskis#Teirumnieks#Krauze#Štekerhofs#Ivanovs#Čulkova#Jencītis#Sruoģis#Šlesers#Zivtiņš#Pleškāne#Judins#Kļaviņa#Petraviča#Liepiņa#Armaņeva#Drelinga#Kovaļenko#Marčenko-Jodko#Klementjevs#Krištopans#Jakovins",
+  "VOTEDEPSUFFIX": "###############################################################################",
+  "FRACTION": "JV#AS#AS#ZZS#ZZS#NA#NA#PRO# #JV# #JV#JV# #JV#AS#PRO#JV#NA# #JV#ZZS#AS#PRO#PRO#AS#NA#NA#JV#AS#JV#NA#ZZS# # #JV#JV#ZZS# #JV#ZZS#JV#ZZS#NA#AS#JV#AS# #JV#JV#AS#PRO#JV#NA#PRO#JV#NA#PRO#JV#NA#ZZS#ZZS# # #LPV# #LPV#LPV# # # #LPV#LPV#LPV# # # # #LPV#ZZS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 15:30:44",
+  "VOTEMOTIVE": "Par Krievijas Federācijas un Baltkrievijas Republikas graudu ievešanas Latvijā, tai skaitā tranzītā caur Latviju, nekavējošu pārtraukšanu un turpmāku nepieļaušanu (1108/Lm14)",
+  "VOTING_ID": "71a79aac-f2ca-43fc-959f-bcce67ac9fd8",
+  "VOTERESULT_ABSTAIN": "1",
+  "VOTERESULT_AGAINST": "17",
+  "VOTERESULT_FOR": "57",
+  "VOTERESULT_REGISTERED": "80",
+  "VOTE_NUMBER": "105",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
