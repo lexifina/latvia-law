@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 6,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "595f4092-db02-44d9-b8d6-7d24e5dbeffc",
+  "lastmodtime": "\"AAAAAAKd5R8=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Andrejs#Česlavs#Svetlana#Mārcis#Ričards#Edmunds#Maija#Jekaterina#Ramona#Linda#Aleksandrs#Dmitrijs#Nataļja#Jefimijs#Kristaps#Viktorija#Jeļena#Liene#Mārtiņš#Ģirts#Ingmārs#Agnese#Zanda#Raimonds#Jānis#Lauris#Anda#Ieva#Raimonds#Arvils#Edmunds#Dāvis Mārtiņš#Mārtiņš#Atis#Arnolds#Skaidrīte#Anna#Juris#Jurģis#Andris#Inga#Atis#Roberts#Jānis#Līga#Normunds#Linda#Andrejs#Anita#Gunārs#Leila#Jānis#Oļegs#Igors#Daiga#Uģis#Agita#Alīna#Dāvis#Ilze#Irma#Augusts#Raivis#Ainars#Inese#Edmunds#Raivis#Jana#Andrejs",
+  "SURNAME": "Ceļapīters#Batņa#Čulkova#Jencītis#Šlesers#Zivtiņš#Armaņeva#Drelinga#Petraviča#Liepiņa#Kiršteins#Kovaļenko#Marčenko-Jodko#Klementjevs#Krištopans#Pleškāne#Kļaviņa#Gātere#Daģis#Štekerhofs#Līdaka#Krasta#Kalniņa-Lukaševica#Bergmanis#Patmalnieks#Lizbovskis#Čakša#Brante#Čudars#Ašeradens#Jurēvics#Daugavietis#Felss#Labucis#Jātnieks#Ābrama#Rancāne#Jakovins#Klotiņš#Šuvajevs#Priede#Švinka#Ķipurs#Skrastiņš#Kozlovska#Dzintars#Matisone#Judins#Brakovska#Kūtris#Rasima#Eglīts#Burovs#Rajevs#Mieriņa#Mitrevics#Zariņa-Stūre#Gendele#Melnalksnis#Vergina#Kalniņa#Brigmanis#Kalējs#Latkovskis#Kalniņa#Teirumnieks#Dzintars#Simanovska#Svilāns",
+  "VOTEDEPSUFFIX": "####################################################################",
+  "FRACTION": " #AS# #LPV#LPV#LPV#LPV# #LPV#LPV# # # # #LPV# # #PRO#JV#ZZS#AS#JV#JV#AS#JV#AS#JV# #JV#JV#JV#JV#JV#JV#NA# #JV#ZZS#NA#PRO#AS#PRO#NA#JV#ZZS#NA#AS#JV#ZZS#ZZS#PRO#NA# # #ZZS#NA#JV#JV#AS# #JV#ZZS#AS#JV#JV#NA#NA#PRO#AS",
+  "RESULT": "Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 16:23:47",
+  "VOTEMOTIVE": "Pedagogu izdienas pensiju likums (1547/Lp14), nodošana komisijām",
+  "VOTING_ID": "3a29576b-b588-4b0f-939e-008243093fab",
+  "VOTERESULT_ABSTAIN": "35",
+  "VOTERESULT_AGAINST": "17",
+  "VOTERESULT_FOR": "15",
+  "VOTERESULT_REGISTERED": "69",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9844cd96-bc87-4eba-8c62-e46fea603ffa/download/14.saeimas-2026.gada-rudens-sesija-6-vote.xml",
+  "sha256": "6ebba8eb391fbe38028038c620c2b9f44d7ff394d7a2038a50aed458626e2fa6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
