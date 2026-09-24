@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "399e2341-583a-4917-83c6-5359f07305fd",
+  "lastmodtime": "\"AAAAAAKdJCw=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Liene#Maija#Harijs#Aleksandrs#Iļja#Edvīns#Arnolds#Skaidrīte#Anna#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Andris#Ainars#Inese#Vilis#Inese#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Agnese#Raivis#Jana#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Arvils#Andrejs#Irma#Edmunds#Raivis#Aiva#Jānis#Nataļja#Jānis#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Česlavs#Atis#Viktorija#Normunds#Linda#Andrejs#Anita#Gunārs#Igors#Raimonds#Jeļena#Leila#Kaspars#Ramona#Inga#Jānis#Lauris#Linda#Atis#Roberts#Jānis#Uģis",
+  "SURNAME": "Gātere#Armaņeva#Rokpelnis#Kiršteins#Ivanovs#Šnore#Jātnieks#Ābrama#Rancāne#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Krasta#Dzintars#Simanovska#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Jurēvics#Kalējs#Vīksna#Eglīts#Marčenko-Jodko#Dinevičs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Dzintars#Matisone#Judins#Brakovska#Kūtris#Judins#Bergmanis#Kļaviņa#Rasima#Briškens#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Ķipurs#Skrastiņš#Rotbergs",
+  "VOTEDEPSUFFIX": "#############################################################################",
+  "FRACTION": "PRO#LPV#ZZS# # #NA#NA# #JV#ZZS# #JV#LPV#LPV#NA#PRO#JV#JV# #JV#NA#ZZS#LPV#AS#LPV#PRO#JV#NA#PRO#AS#JV# #AS#JV# #JV#JV# #JV#JV#AS#AS#NA# #ZZS# #JV# #AS#JV#ZZS#NA#NA#ZZS#JV#LPV#AS#JV# #NA#AS#JV#ZZS#ZZS# #AS# #PRO#PRO#LPV#AS#JV#AS#LPV#PRO#NA#JV#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 14:03:41",
+  "VOTEMOTIVE": "Grozījumi Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas likumā (285/Lp14), 2.lasījums",
+  "VOTING_ID": "a8966bfb-c8c8-49c3-abf4-da41d5a1b8c8",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "74",
+  "VOTERESULT_REGISTERED": "78",
+  "VOTE_NUMBER": "86",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
