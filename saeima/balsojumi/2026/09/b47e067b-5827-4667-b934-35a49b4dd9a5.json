@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "b4bde3bc-9cc9-4be5-a4a0-c0e28ea2b07d",
+  "lastmodtime": "\"AAAAAAKc5zk=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Mārtiņš#Jefimijs#Juris#Aleksandrs#Edvīns#Arnolds#Skaidrīte#Anna#Juris#Ilze#Mārcis#Jurģis#Andris#Inese#Edmunds#Edmunds#Maija#Agnese#Jana#Alīna#Jekaterina#Dāvis#Ilze#Raimonds#Arvils#Andrejs#Irma#Harijs#Edmunds#Raivis#Aiva#Jānis#Dmitrijs#Jānis#Dāvis Mārtiņš#Mārtiņš#Daiga#Uģis#Kaspars#Atis#Viktorija#Normunds#Linda#Anita#Raimonds#Kaspars#Ramona#Jānis#Linda#Atis#Roberts#Jānis#Uģis",
+  "SURNAME": "Daģis#Klementjevs#Viļums#Kiršteins#Šnore#Jātnieks#Ābrama#Rancāne#Jakovins#Stobova#Jencītis#Klotiņš#Šuvajevs#Kalniņa#Teirumnieks#Zivtiņš#Armaņeva#Krasta#Simanovska#Gendele#Drelinga#Melnalksnis#Vergina#Čudars#Ašeradens#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Kalējs#Vīksna#Eglīts#Kovaļenko#Dinevičs#Daugavietis#Felss#Mieriņa#Mitrevics#Melnis#Labucis#Pleškāne#Dzintars#Matisone#Brakovska#Bergmanis#Briškens#Petraviča#Patmalnieks#Liepiņa#Švinka#Ķipurs#Skrastiņš#Rotbergs",
+  "VOTEDEPSUFFIX": "####################################################",
+  "FRACTION": "JV# #AS# #NA#NA# #JV#ZZS#LPV#LPV#NA#PRO#JV#NA#LPV#LPV#JV#PRO#JV# #AS# #JV#JV# #JV#ZZS#JV#AS#AS#NA# #ZZS#JV#JV#ZZS#NA#ZZS#JV# #NA#AS#ZZS#AS#PRO#LPV#JV#LPV#PRO#NA#JV#JV",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "8",
+  "VOTETIMESTAMP": "24.09.2026 13:37:56",
+  "VOTEMOTIVE": "Cilvēku tirdzniecības upuru atpazīšanas un atbalsta likums (1473/Lp14), 1.lasījums",
+  "VOTING_ID": "b47e067b-5827-4667-b934-35a49b4dd9a5",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "49",
+  "VOTERESULT_REGISTERED": "53",
+  "VOTE_NUMBER": "78",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
