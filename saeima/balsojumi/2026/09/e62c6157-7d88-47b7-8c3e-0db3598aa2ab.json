@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 4,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "f022e9f0-2e68-4f14-b3e5-baf12e9dd4bf",
+  "lastmodtime": "\"AAAAAAKcIKY=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Edmunds#Jana#Jānis#Jānis#Gunārs#Ramona#Arnolds#Liene#Anna#Juris#Svetlana#Mārtiņš#Mārcis#Andris#Ainars#Inese#Vilis#Inese#Ģirts#Edmunds#Andris#Maija#Agnese#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Līga#Jānis#Nataļja#Jānis#Oļegs#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Kaspars#Kristaps#Viktorija#Normunds#Linda#Andrejs#Anita#Raimonds#Jeļena#Leila#Kaspars#Inga#Jānis#Lauris#Linda#Roberts#Aleksandrs#Jānis#Uģis#Česlavs",
+  "SURNAME": "Teirumnieks#Simanovska#Grasbergs#Vucāns#Kūtris#Petraviča#Jātnieks#Gātere#Rancāne#Jakovins#Čulkova#Daģis#Jencītis#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Lībiņa-Egnere#Štekerhofs#Zivtiņš#Sprūds#Armaņeva#Krasta#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Daugavietis#Klementjevs#Felss#Mieriņa#Melnis#Krištopans#Pleškāne#Dzintars#Matisone#Judins#Brakovska#Bergmanis#Kļaviņa#Rasima#Briškens#Priede#Patmalnieks#Lizbovskis#Liepiņa#Ķipurs#Kiršteins#Skrastiņš#Rotbergs#Batņa",
+  "VOTEDEPSUFFIX": "###############################################################",
+  "FRACTION": "NA#PRO#NA#ZZS#ZZS#LPV#NA#PRO#JV#ZZS# #JV#LPV#PRO#JV#JV# #JV#ZZS#LPV#PRO#LPV#JV#JV# #AS#JV# #JV# #JV#ZZS#JV#ZZS#AS#ZZS#NA# #ZZS# #JV# #JV#ZZS#ZZS#LPV# #NA#AS#JV#ZZS#AS# #PRO#PRO#AS#JV#AS#LPV#NA# #JV#JV#AS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 11:05:39",
+  "VOTEMOTIVE": "Grozījumi Stratēģiskas nozīmes preču aprites likumā (1419/Lp14), 2.lasījums, steidzams",
+  "VOTING_ID": "e62c6157-7d88-47b7-8c3e-0db3598aa2ab",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "58",
+  "VOTERESULT_REGISTERED": "64",
+  "VOTE_NUMBER": "53",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-4-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/f491c2fc-79aa-40bf-b346-07365aada39b/download/14.saeimas-2026.gada-rudens-sesija-4-vote.xml",
+  "sha256": "762cd3c0c9474cd89b4466436d296eb465cb70b08b654cba640d5d052d31a691",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
