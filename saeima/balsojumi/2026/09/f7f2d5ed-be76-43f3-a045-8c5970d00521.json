@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 6,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "d3f6b09c-589c-4a0a-b116-1f4471eca3ec",
+  "lastmodtime": "\"AAAAAAKd0YM=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Līga#Ieva#Iļja#Arnolds#Juris#Svetlana#Mārcis#Jurģis#Linda#Roberts#Aleksandrs#Česlavs#Igors#Raimonds#Jeļena#Ramona#Inga#Lauris#Kristaps#Viktorija#Normunds#Linda#Anita#Gunārs#Raivis#Dmitrijs#Nataļja#Jefimijs#Daiga#Uģis#Raivis#Andrejs#Jekaterina#Dāvis#Andrejs#Augusts#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Maija#Liene#Skaidrīte#Anna#Mārtiņš#Andris#Inese#Leila#Jānis#Atis#Anda#Jānis#Edmunds#Dāvis Mārtiņš#Mārtiņš#Agita#Atis#Andrejs#Agnese#Jana#Zanda#Raimonds#Arvils#Irma#Jānis#Igors",
+  "SURNAME": "Kozlovska#Brante#Ivanovs#Jātnieks#Jakovins#Čulkova#Jencītis#Klotiņš#Liepiņa#Ķipurs#Kiršteins#Batņa#Judins#Bergmanis#Kļaviņa#Petraviča#Priede#Lizbovskis#Krištopans#Pleškāne#Dzintars#Matisone#Brakovska#Kūtris#Kalējs#Kovaļenko#Marčenko-Jodko#Klementjevs#Mieriņa#Mitrevics#Dzintars#Svilāns#Drelinga#Melnalksnis#Ceļapīters#Brigmanis#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Armaņeva#Gātere#Ābrama#Rancāne#Daģis#Šuvajevs#Kalniņa#Rasima#Patmalnieks#Švinka#Čakša#Skrastiņš#Jurēvics#Daugavietis#Felss#Zariņa-Stūre#Labucis#Judins#Krasta#Simanovska#Kalniņa-Lukaševica#Čudars#Ašeradens#Kalniņa#Eglīts#Rajevs",
+  "VOTEDEPSUFFIX": "##################################################################",
+  "FRACTION": "ZZS# # #NA#ZZS# #LPV#NA#LPV#NA# #AS# #AS# #LPV#AS#AS#LPV# #NA#AS#ZZS#ZZS#AS# # # #ZZS#NA#NA#AS# #AS# #ZZS#NA#ZZS#LPV#AS#LPV#LPV#PRO# #JV#JV#PRO#JV#PRO#JV#PRO#JV#JV#JV#JV#JV#JV#JV#JV#JV#PRO#JV#JV#JV#JV#NA# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Atturas#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 16:12:33",
+  "VOTEMOTIVE": "Par likumprojekta Grozījums Latvijas Republikas Satversmē (1558/Lp14), nodošana komisijām iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "f7f2d5ed-be76-43f3-a045-8c5970d00521",
+  "VOTERESULT_ABSTAIN": "2",
+  "VOTERESULT_AGAINST": "23",
+  "VOTERESULT_FOR": "40",
+  "VOTERESULT_REGISTERED": "67",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9844cd96-bc87-4eba-8c62-e46fea603ffa/download/14.saeimas-2026.gada-rudens-sesija-6-vote.xml",
+  "sha256": "6ebba8eb391fbe38028038c620c2b9f44d7ff394d7a2038a50aed458626e2fa6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
