@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 6,
+ "datums": "2026-09-24",
+ "ieraksts": {
+  "dkp_id": "17e5ab01-1382-45ca-9235-2ee053e19fe2",
+  "lastmodtime": "\"AAAAAAKd+ZA=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Andrejs#Edmunds#Iļja#Arnolds#Liene#Skaidrīte#Anna#Juris#Aleksandrs#Jānis#Līga#Ieva#Jānis#Lauris#Linda#Atis#Anda#Roberts#Igors#Raimonds#Jeļena#Leila#Ramona#Inga#Viktorija#Normunds#Linda#Andrejs#Anita#Gunārs#Mārtiņš#Daiga#Uģis#Agita#Česlavs#Atis#Dmitrijs#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Arvils#Andrejs#Irma#Augusts#Raivis#Jānis#Zanda#Alīna#Jekaterina#Dāvis#Ilze#Raimonds#Edmunds#Andris#Maija#Agnese#Raivis#Jana#Ainars#Inese#Vilis#Edmunds#Ģirts#Ričards#Svetlana#Mārtiņš#Mārcis#Didzis#Jurģis#Andris",
+  "SURNAME": "Svilāns#Jurēvics#Ivanovs#Jātnieks#Gātere#Ābrama#Rancāne#Jakovins#Kiršteins#Skrastiņš#Kozlovska#Brante#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Ķipurs#Judins#Bergmanis#Kļaviņa#Rasima#Petraviča#Priede#Pleškāne#Dzintars#Matisone#Judins#Brakovska#Kūtris#Felss#Mieriņa#Mitrevics#Zariņa-Stūre#Batņa#Labucis#Kovaļenko#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Ašeradens#Ceļapīters#Kalniņa#Brigmanis#Kalējs#Eglīts#Kalniņa-Lukaševica#Gendele#Drelinga#Melnalksnis#Vergina#Čudars#Zivtiņš#Sprūds#Armaņeva#Krasta#Dzintars#Simanovska#Latkovskis#Kalniņa#Sruoģis#Teirumnieks#Štekerhofs#Šlesers#Čulkova#Daģis#Jencītis#Šmits#Klotiņš#Šuvajevs",
+  "VOTEDEPSUFFIX": "#######################################################################",
+  "FRACTION": "AS#JV# #NA#PRO# #JV#ZZS# #JV#ZZS# #JV#AS#LPV#PRO#JV#NA# #AS# #PRO#LPV#AS# #NA#AS#JV#ZZS#ZZS#JV#ZZS#NA#JV#AS#JV# # # # #JV# #JV# #JV#ZZS#AS#NA#JV#JV# #AS# #JV#LPV#PRO#LPV#JV#NA#PRO#JV#JV# #NA#ZZS#LPV# #JV#LPV# #NA#PRO",
+  "RESULT": "Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "24.09.2026 16:49:07",
+  "VOTEMOTIVE": "Par Annijas Mazapšas iecelšanu par rajona (pilsētas) tiesas tiesnesi (1119/Lm14)",
+  "VOTING_ID": "e0115d93-d752-40dc-815f-24051176921c",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "70",
+  "VOTERESULT_REGISTERED": "72",
+  "VOTE_NUMBER": "7",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9844cd96-bc87-4eba-8c62-e46fea603ffa/download/14.saeimas-2026.gada-rudens-sesija-6-vote.xml",
+  "sha256": "6ebba8eb391fbe38028038c620c2b9f44d7ff394d7a2038a50aed458626e2fa6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
