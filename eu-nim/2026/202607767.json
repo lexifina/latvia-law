@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2026. gada 22. septembra noteikumi Nr. 562 \"Grozījumi Ministru kabineta 2014. gada 20. maija noteikumos Nr. 255 \"Noteikumi par distances līgumu\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "184",
+  "official_journal_page": null,
+  "official_journal_date": "2026-09-24",
+  "entry_into_force": "2026-09-25",
+  "notification_date": "2026-10-08",
+  "commission_reference": "MNE(2026)07767",
+  "nim_celex": "72023L2673LVA_202607767",
+  "nim_id": "202607767",
+  "transposes_celex": [
+    "32023L2673"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/73b345be-b7d0-4f43-8b56-2cb69695f3f3",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
