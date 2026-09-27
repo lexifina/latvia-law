@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "2025. gada 30. aprīļa likums \"Grozījumi Negodīgas komercprakses aizlieguma likumā\"",
+  "type_of_act": "Likums",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "92",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-15",
+  "entry_into_force": "2026-09-27",
+  "notification_date": "2026-02-12",
+  "commission_reference": "MNE(2026)01172",
+  "nim_celex": "72024L0825LVA_202601172",
+  "nim_id": "202601172",
+  "transposes_celex": [
+    "32024L0825"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/2841fd46-afb6-47ba-86f3-bd07d31fda93",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
