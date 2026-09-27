@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Ministru kabineta 2025. gada 27. maija noteikumi Nr. 302 \"Grozījumi Ministru kabineta 2014. gada 20. maija noteikumos Nr. 255 \"Noteikumi par distances līgumu\"\"",
+  "type_of_act": null,
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "102",
+  "official_journal_page": null,
+  "official_journal_date": "2025-05-29",
+  "entry_into_force": "2026-09-27",
+  "notification_date": "2026-02-12",
+  "commission_reference": "MNE(2026)01174",
+  "nim_celex": "72024L0825LVA_202601174",
+  "nim_id": "202601174",
+  "transposes_celex": [
+    "32024L0825"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/5f9dbb62-59e3-4e30-aeee-901d2ad957c2",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
