@@ -6,4 +6,5 @@
 3) saņemta informācija no Fizisko personu reģistra par fiziskās personas vārda, uzvārda vai personas koda maiņu, un šie dati ir iekļauti elektroniskās identifikācijas pakalpojuma sniedzēja izsniegtajā elektroniskās identifikācijas līdzeklī;
 4) fiziskā persona ir sniegusi nepatiesas vai maldinošas ziņas par savu identitāti;
 5) izpildot tiesas nolēmumu par elektroniskās identifikācijas līdzekļa darbības izbeigšanu;
-6) līgumā par elektroniskās identifikācijas pakalpojuma sniegšanu noteiktajos gadījumos.
+6) līgumā par elektroniskās identifikācijas pakalpojuma sniegšanu noteiktajos gadījumos;
+7) no tiesas, prokuratūras vai izmeklēšanas iestādes saņemta informācija, ka ir pieņemts lēmums izsludināt personas, kurai kriminālprocesā piemērots ar brīvības atņemšanu saistīts drošības līdzeklis, meklēšanu.
