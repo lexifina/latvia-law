@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 6,
+ "datums": "2026-10-01",
+ "ieraksts": {
+  "dkp_id": "b3ec3922-9758-4728-98b3-6261266f31b5",
+  "lastmodtime": "\"AAAAAAKeNbE=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Linda#Iļja#Edvīns#Arnolds#Skaidrīte#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Jurģis#Ainars#Inese#Vilis#Amils#Inese#Edmunds#Ģirts#Ričards#Ingmārs#Edmunds#Maija#Agnese#Jana#Ligita#Zanda#Dāvis#Evika#Ilze#Raimonds#Arvils#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Dmitrijs#Nataļja#Jānis#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Agita#Kristaps#Česlavs#Atis#Viktorija#Normunds#Andrejs#Ināra#Jānis#Anita#Gunārs#Igors#Raimonds#Jeļena#Kaspars#Ramona#Inga#Jānis#Linda#Atis#Anda#Roberts#Jānis#Līga#Inga#Uģis",
+  "SURNAME": "Matisone#Ivanovs#Šnore#Jātnieks#Ābrama#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Klotiņš#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Lībiņa-Egnere#Teirumnieks#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Armaņeva#Krasta#Simanovska#Gintere#Kalniņa-Lukaševica#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Kovaļenko#Marčenko-Jodko#Dinevičs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Zariņa-Stūre#Krištopans#Batņa#Labucis#Pleškāne#Dzintars#Judins#Mūrniece#Vucāns#Brakovska#Kūtris#Judins#Bergmanis#Kļaviņa#Briškens#Petraviča#Priede#Patmalnieks#Liepiņa#Švinka#Čakša#Ķipurs#Skrastiņš#Kozlovska#Bērziņa#Rotbergs",
+  "VOTEDEPSUFFIX": "###########################################################################",
+  "FRACTION": "AS# #NA#NA# #JV#ZZS# #JV#LPV#LPV#NA#JV#JV# # #JV#NA#ZZS#LPV#AS#LPV#LPV#JV#PRO#ZZS#JV#AS#JV# #JV#JV#JV#ZZS#JV#ZZS#AS#AS#NA# # #ZZS# #JV# #AS#JV#ZZS#NA#NA#JV#LPV#AS#JV# #NA#JV#NA#ZZS#ZZS#ZZS# #AS# #PRO#LPV#AS#JV#LPV#PRO#JV#NA#JV#ZZS#JV#JV",
+  "RESULT": "Nebalsoja#Par#Atturas#Atturas#Pret#Pret#Par#Par#Pret#Par#Par#Atturas#Pret#Pret#Par#Par#Pret#Atturas#Par#Par#Pret#Par#Par#Pret#Pret#Par#Pret#Pret#Pret#Pret#Pret#Pret#Pret#Par#Pret#Par#Pret#Pret#Atturas#Par#Par#Par#Atturas#Pret#Par#Pret#Pret#Par#Atturas#Atturas#Pret#Par#Pret#Pret#Par#Atturas#Pret#Atturas#Par#Par#Par#Par#Pret#Par#Pret#Par#Pret#Pret#Par#Pret#Pret#Atturas#Pret#Par#Pret#Pret",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "01.10.2026 09:13:19",
+  "VOTEMOTIVE": "Par lēmuma projekta 15. Saeimas deputātu svinīgā apņemšanās par dabisko ģimenes pamatu un bioloģisko dzimumu nostiprināšanu Satversmē (1124/Lm14) iekļaušanu Saeimas sēdes darba kārtībā",
+  "VOTING_ID": "bfaf2814-48ea-4d5c-ad27-4d214fe01790",
+  "VOTERESULT_ABSTAIN": "11",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "29",
+  "VOTERESULT_REGISTERED": "76",
+  "VOTE_NUMBER": "12",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-6-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/9844cd96-bc87-4eba-8c62-e46fea603ffa/download/14.saeimas-2026.gada-rudens-sesija-6-vote.xml",
+  "sha256": "6ebba8eb391fbe38028038c620c2b9f44d7ff394d7a2038a50aed458626e2fa6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
