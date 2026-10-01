@@ -14,7 +14,7 @@
 10) Labklājības ministrijas;
 11) Latvijas Nacionālā arhīva;
 12) Latvijas Republikas Uzņēmumu reģistra;
-13) Maksātnespējas kontroles dienesta;
+13) (izslēgts no 01.10.2026. ar 11.06.2026. likumu. Sk. pārejas noteikumu 17. punktu);
 14) Militārās policijas;
 15) Nacionālās elektronisko plašsaziņas līdzekļu padomes;
 16) Nacionālās kultūras mantojuma pārvaldes;
@@ -34,7 +34,7 @@
 29) pašvaldības vides kontroles amatpersonas;
 30) Pilsonības un migrācijas lietu pārvaldes;
 31) Sabiedrisko pakalpojumu regulēšanas komisijas;
-31¹) (punkts stājas spēkā 01.10.2026. un iekļauts likuma redakcijā uz 01.10.2026. Sk. pārejas noteikumu 17. punktu);
+31¹) Tieslietu ministrijas;
 32) Transporta nelaimes gadījumu un incidentu izmeklēšanas biroja;
 33) Valsts aģentūras "Civilās aviācijas aģentūra";
 34) Valsts augu aizsardzības dienesta;
