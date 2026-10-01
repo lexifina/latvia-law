@@ -1,0 +1,3 @@
+79. Lai daļēji kompensētu pašvaldības izdevumus, kas radušies, īstenojot šā likuma pārejas noteikumu 77. un 78. punktā minēto pienākumu, valsts nodrošina mērķdotāciju pašvaldībām:
+1) 20 procentu apmērā no pašvaldības mājokļa pabalsta, kas aprēķināts atbilstoši šā likuma pārejas noteikumu 77. punkta 1. apakšpunktā minētajiem nosacījumiem par laikposmu no 2026. gada 1. novembra līdz 2027. gada 30. aprīlim. Šo mērķdotāciju valsts izmaksā papildus šā likuma 13. panta astotajā daļā noteiktajai mērķdotācijai;
+2) 100 procentu apmērā kompensējot izdevumus, kas saistīti ar šā likuma pārejas noteikumu 78. punktā minēto piemaksu pašvaldību darbiniekiem.

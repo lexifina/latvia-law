@@ -1,0 +1,1 @@
+80. Pašvaldība iesniedz Labklājības ministrijai pārskatu par izdevumiem, kas saistīti ar mājokļa pabalsta nodrošināšanu atbilstoši šā likuma pārejas noteikumu 77. un 78. punktam, izmantojot Valsts kases nodrošināto e-pakalpojumu portāla sadaļu "Iestāžu pārskati".
