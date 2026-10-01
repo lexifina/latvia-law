@@ -1,0 +1,1 @@
+18. Maksātnespējas kontroles dienestā līdz 2026. gada 30. septembrim šajā likumā noteiktajā kārtībā iesniegto un neizskatīto iesniegumu izskatīšanu nodrošina Tiesu administrācija kā Maksātnespējas kontroles dienesta saistību pārņēmēja.

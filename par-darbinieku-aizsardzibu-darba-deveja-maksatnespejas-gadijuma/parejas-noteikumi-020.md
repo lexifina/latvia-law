@@ -1,0 +1,1 @@
+20. Tiesu administrācija ir Maksātnespējas kontroles dienesta tiesību un saistību pārņēmēja kriminālprocesos, kuros Maksātnespējas kontroles dienests atzīts par cietušo darbinieku prasījumu garantiju fondam radītā kaitējuma dēļ, un tā izmanto šajā likumā un Kriminālprocesa likumā noteiktās procesuālās tiesības.
