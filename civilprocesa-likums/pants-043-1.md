@@ -2,8 +2,8 @@
 (1) Drošības nauda 80 euro apmērā maksājama:
 1) par blakus sūdzību, izņemot blakus sūdzību par lēmumu, ar kuru atteikts atbrīvot no drošības naudas vai tiesas izdevumu samaksas valsts ienākumos;
 2) par sūdzību par maksātnespējas procesa administratora (turpmāk - administrators) vai zvērināta tiesu izpildītāja, vai zvērināta notāra darbību;
-3) par sūdzību par Maksātnespējas kontroles dienesta lēmumu;
-3¹) (punkts stājas spēkā 01.10.2026.un iekļauts likuma redakcijā uz 01.10.2026. Sk. pārejas noteikumu 189. punktu);
+3) par sūdzību par Tieslietu ministrijas lēmumu attiecībā uz tiesiskās aizsardzības procesa uzraugošās personas rīcību tiesiskās aizsardzības procesā, maksātnespējas procesa administratora rīcību juridiskās personas vai fiziskās personas maksātnespējas procesā vai attiecībā uz tiesiskā pienākuma uzlikšanu;
+3¹) par sūdzību par Tiesu administrācijas lēmumu attiecībā uz maksātnespējas procesa depozīta izmaksu;
 4) par sūdzību par Rūpnieciskā īpašuma apelācijas padomes lēmumu.
 (1¹) Drošības nauda 300 euro apmērā maksājama:
 1) par kasācijas sūdzību;
