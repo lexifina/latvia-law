@@ -1,0 +1,22 @@
+{
+  "record_type": "national implementing measure (EU directive transposition), as notified",
+  "jurisdiction": "LV",
+  "title": "Latvijas Bankas 2026. gada 28. septembra noteikumi Nr. 425 \"Grozījumi Latvijas Bankas 2023. gada 27. novembra noteikumos Nr. 259 \"Kredītiestāžu licencēšanas, atsevišķu atļauju izsniegšanas un informācijas sniegšanas noteikumi\"\"",
+  "type_of_act": "Ministru Kabineta noteikumi",
+  "official_journal": "Latvijas Vēstnesis",
+  "official_journal_reference": "188",
+  "official_journal_page": null,
+  "official_journal_date": "2026-09-30",
+  "entry_into_force": "2026-10-01",
+  "notification_date": "2026-10-01",
+  "commission_reference": "MNE(2026)07625",
+  "nim_celex": "72024L1619LVA_202607625",
+  "nim_id": "202607625",
+  "transposes_celex": [
+    "32024L1619"
+  ],
+  "cellar": "http://publications.europa.eu/resource/cellar/fd880979-3204-47fa-b827-77bc5b2a470d",
+  "source": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrieved": "2026-11-17",
+  "text_status": "metadata only (the EU record of the measure); the official text is in Latvijas Vēstnesis (likumi.lv)"
+}
