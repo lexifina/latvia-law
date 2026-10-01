@@ -1,2 +1,2 @@
 XXXII nodaļa
-Maksātnespējas kontroles dienesta lēmumu apstrīdēšanas un pārsūdzēšanas kārtība
+Tieslietu ministrijas un Tiesu administrācijas lēmumu apstrīdēšanas un pārsūdzēšanas kārtība

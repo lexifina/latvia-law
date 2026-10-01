@@ -1,0 +1,1 @@
+94. Tieslietu ministrs līdz 2026. gada 1. novembrim apstiprina disciplinārlietu komisijas sastāvu atbilstoši šā likuma 31.⁴ pantam. Līdz jaunas disciplinārlietu komisijas apstiprināšanai darbu turpina disciplinārlietu komisija, kas iecelta līdz 2026. gada 30. septembrim, un tās darbu organizē un nodrošina Tieslietu ministrija.

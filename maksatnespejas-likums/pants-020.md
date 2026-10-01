@@ -18,4 +18,4 @@
 (1¹) Šā panta pirmās daļas 8. un 9. punktā noteiktie ierobežojumi uz administratoru attiecināmi arī tad, ja administrators:
 1) juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā pilda ar administratora pienākumiem saistītas darbības, kurās varētu būt personiski vai mantiski ieinteresēta persona, par kuru ar administratoru Fizisko personu reģistrā ir iekļautas Fizisko personu reģistra likuma 11. panta pirmās daļas 36. punktā noteiktās ziņas (turpmāk - partneris);
 2) pilda ar administratora pienākumiem saistītas darbības attiecībā uz tādu kreditoru vai parādnieku, kura dalībnieks, akcionārs, biedrs, pārraudzības, kontroles vai izpildinstitūcijas loceklis ir administratora partneris.
-(2) Ja uz administratoru attiecas kāds no šā panta pirmajā daļā vai 1.¹ daļā minētajiem gadījumiem, viņš nekavējoties informē par to tiesu un Maksātnespējas kontroles dienestu.
+(2) Ja uz administratoru attiecas kāds no šā panta pirmajā daļā vai 1.¹ daļā minētajiem gadījumiem, viņš nekavējoties informē par to tiesu un Tieslietu ministriju.

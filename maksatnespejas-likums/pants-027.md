@@ -1,4 +1,4 @@
-27.pants. Administratora vispārīgās tiesības
+27. pants. Administratora vispārīgās tiesības
 (1) Administratoram ir šādas tiesības:
 1) pieprasīt un saņemt no parādnieka un tā pārstāvjiem juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju;
 2) pieprasīt un saņemt no valsts un pašvaldību institūcijām bez maksas to rīcībā esošo juridiskās personas maksātnespējas procesā vai fiziskās personas maksātnespējas procesā nepieciešamo informāciju par parādnieku un parādnieka pārstāvjiem, tajā skaitā izmantojot Sistēmu;
@@ -9,4 +9,4 @@
 1) būt klāt procesuālo darbību izpildes laikā, izteikt piezīmes un lūgumus;
 2) ierosināt, lai sniedzamajām ziņām vai kādai to daļai nosaka ierobežotas pieejamības informācijas statusu;
 3) iepazīties ar procesuālās darbības protokolu un tam pievienotajiem dokumentiem, ieteikt labojumus un papildinājumus;
-4) mēneša laikā pēc šā likuma 174.³ pantā noteiktā procesuālās darbības protokola parakstīšanas iesniegt sūdzību Maksātnespējas kontroles dienesta direktoram par Maksātnespējas kontroles dienesta amatpersonas rīcību.
+4) (izslēgts ar 11.06.2026. likumu).

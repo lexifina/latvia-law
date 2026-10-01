@@ -13,7 +13,7 @@ a) saskaņā ar likvidācijas sākuma finanšu pārskatu individuālajam komersa
 b) ir iestājies šā likuma 51. panta otrajā daļā minētais apstāklis,
 c) ir iestājies kāds no šā likuma 51. panta trešajā daļā minētajiem gadījumiem,
 d) ir iestājies šā likuma 51. panta piektajā daļā minētais apstāklis.
-(2) Fiziskās personas maksātnespējas procesa piemērošanas priekšnoteikums ir fiziskās personas maksātnespējas procesa depozīta iemaksa divu minimālo mēnešalgu apmērā Maksātnespējas kontroles dienesta speciāli izveidotajā kontā.
+(2) Fiziskās personas maksātnespējas procesa piemērošanas priekšnoteikums ir fiziskās personas maksātnespējas procesa depozīta iemaksa divu minimālo mēnešalgu apmērā Tiesu administrācijas speciāli izveidotajā kontā.
 (2¹) Tiesa var pilnīgi vai daļēji atbrīvot darbinieku no maksātnespējas procesa depozīta samaksas, ja viņš maksātnespējas procesa pieteikumu iesniedz pēc tam, kad, piemērojot piespiedu izpildes līdzekļus, nav bijis iespējams izpildīt tiesas nolēmumu par parāda piedziņu no parādnieka, un darbinieks, ievērojot viņa mantisko stāvokli, nevar iemaksāt maksātnespējas procesa depozītu.
 (2²) Šā panta 2.¹ daļā minētajā gadījumā depozīts tiek segts no darbinieku prasījumu garantiju fonda līdzekļiem.
 (3) Fiziskās personas maksātnespējas procesa depozīts izmantojams, lai segtu šā likuma 171. panta pirmajā daļā noteikto administratora atlīdzību un pievienotās vērtības nodokli, ja administrators reģistrēts Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā.
@@ -22,4 +22,4 @@ d) ir iestājies šā likuma 51. panta piektajā daļā minētais apstāklis.
 1) fiziskās personas maksātnespējas procesa pieteikums ir bijis nepamatots vai apzināti nepatiess;
 2) kreditors, saņemot sava prasījuma apmierinājumu, neatsauc fiziskās personas maksātnespējas procesa pieteikumu un tiesa notur fiziskās personas maksātnespējas procesa lietas izskatīšanas sēdi.
 (4²) Šā panta 4.¹ daļā minētajos gadījumos iemaksātais depozīts ieskaitāms Valsts kasē.
-(5) Ministru kabinets nosaka kārtību, kādā fiziskās personas maksātnespējas procesa depozīts iemaksājams Maksātnespējas kontroles dienesta speciāli izveidotajā kontā un izmaksājams administratoram vai fiziskās personas maksātnespējas procesa pieteikuma iesniedzējam.
+(5) Ministru kabinets nosaka kārtību, kādā fiziskās personas maksātnespējas procesa depozīts iemaksājams Tiesu administrācijas speciāli izveidotajā kontā un izmaksājams administratoram vai fiziskās personas maksātnespējas procesa pieteikuma iesniedzējam.

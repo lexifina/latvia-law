@@ -1,0 +1,1 @@
+93. Tieslietu ministrs līdz 2026. gada 1. novembrim ieceļ eksaminācijas komisiju atbilstoši šā likuma 15.¹ panta piektajai daļai. Līdz jaunas eksaminācijas komisijas iecelšanai darbu turpina eksaminācijas komisija, kas iecelta līdz 2026. gada 30. septembrim, un tās darbu organizē un nodrošina Tieslietu ministrija.

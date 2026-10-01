@@ -1,0 +1,1 @@
+98. Tieslietu ministrs pieņem lēmumu par papildu kvalifikācijas eksāmena organizēšanu šā likuma pārejas noteikumu 97. punktā minētajam administratoram, ja līdz tuvākā plānotā regulārā kvalifikācijas eksāmena norises dienai ir vairāk nekā gads un seši mēneši no administratora amata darbības apturēšanas vai atstādināšanas no amata termiņa beigām.

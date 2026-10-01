@@ -1,2 +1,2 @@
 XXXI nodaļa
-Maksātnespējas kontroles dienests tiesiskās aizsardzības procesā un maksātnespējas procesā
+Tieslietu ministrija tiesiskās aizsardzības procesā un maksātnespējas procesā

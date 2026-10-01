@@ -1,4 +1,4 @@
 13.¹ pants. Administratora amats
-(1) Administratoru pēc administratora eksāmena nokārtošanas ar rīkojumu amatā ieceļ Maksātnespējas kontroles dienesta direktors.
-(2) Pēc administratora iecelšanas amatā Maksātnespējas kontroles dienesta direktors izdod administratoram viņa amata apliecību, kuras derīguma termiņš ir pieci gadi.
-(3) Ministru kabinets nosaka kārtību, kādā administratoru ieceļ amatā, kā arī administratora amata apliecības formu un saturu, izdošanas un izsniegšanas kārtību.
+(1) Pēc administratora eksāmena nokārtošanas tieslietu ministrs ar rīkojumu ieceļ administratoru amatā un piešķir viņam amata darbības numuru.
+(2) Administratora amata darbības termiņš ir līdz nākamā regulārā kvalifikācijas eksāmena organizēšanas gada 31. decembrim.
+(3) Ministru kabinets nosaka kārtību, kādā administratoru ieceļ amatā.

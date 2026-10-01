@@ -1,0 +1,8 @@
+175.¹ pants. Tieslietu ministra un Tieslietu ministrijas lēmumi, to pārsūdzēšana
+(1) Tieslietu ministrs pieņem lēmumus par:
+1) administratora iecelšanu amatā, atbrīvošanu, atcelšanu un atstādināšanu no amata, administratora amata darbības apturēšanu, kā arī par atteikumu administratora pretendentam kārtot administratora eksāmenu;
+2) administratora kvalifikācijas eksāmena kārtošanas termiņa pagarināšanu, administratora atjaunošanu amatā, administratora amata darbības termiņa pagarināšanu, atteikumu pagarināt amata darbības termiņu, atļauju vai atteikumu kārtot regulāro kvalifikācijas eksāmenu, atbrīvošanu vai atteikumu atbrīvot no regulārā kvalifikācijas eksāmena kārtošanas, kā arī par atļauju administratora pretendentam kārtot administratora eksāmenu.
+(2) Tieslietu ministrija pieņem lēmumus par administratora rīcību maksātnespējas procesā un tiesiskās aizsardzības procesa uzraugošās personas rīcību tiesiskās aizsardzības procesā, par administratora un tiesiskās aizsardzības procesa uzraugošās personas rīcību, pildot šajā likumā noteiktos vispārējos pienākumus, kā arī par tiesiskā pienākuma uzlikšanu pārkāpuma konstatēšanas gadījumā.
+(3) Šā panta pirmās daļas 1. punktā minēto tieslietu ministra lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Minētā lēmuma pārsūdzēšana neaptur tā darbību.
+(4) Šā panta pirmās daļas 2. punktā minētie tieslietu ministra lēmumi nav pārsūdzami.
+(5) Šā panta otrajā daļā minēto Tieslietu ministrijas lēmumu var pārsūdzēt Civilprocesa likumā noteiktajā kārtībā mēneša laikā no lēmuma saņemšanas dienas tajā tiesā, kurā ierosināta attiecīgā maksātnespējas procesa vai tiesiskās aizsardzības procesa lieta. Sūdzības iesniegšana tiesā neaptur Tieslietu ministrijas lēmuma darbību.

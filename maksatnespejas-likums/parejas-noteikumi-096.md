@@ -1,0 +1,1 @@
+96. Administratoriem, kuri iecelti amatā vai kvalifikācijas eksāmenu nokārtojuši līdz 2026. gada 30. septembrim, šā likuma 16.³ panta otrajā daļā noteikto kvalifikācijas pilnveides pasākumu apmeklēšanu 12 akadēmisko stundu apmērā par katru kalendāra gadu vērtē, sākot no 2026. gada 1. oktobra.

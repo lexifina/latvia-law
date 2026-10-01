@@ -1,0 +1,1 @@
+91. Maksātnespējas kontroles dienesta lēmumu izpildi, kas pieņemti saskaņā ar šā likuma 175. panta pirmās daļas 1., 5. un 6. punktu redakcijā, kas bija spēkā līdz 2026. gada 30. septembrim, no 2026. gada 1. oktobra nodrošina Tiesu administrācija. Šo lēmumu apstrīdēšana un pārsūdzēšana pēc 2026. gada 1. oktobra notiek atbilstoši šā likuma 175.² pantam.

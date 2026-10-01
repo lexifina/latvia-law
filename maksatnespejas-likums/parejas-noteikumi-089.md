@@ -1,0 +1,1 @@
+89. Administratīvā pārkāpuma procesus, kurus Maksātnespējas kontroles dienests uzsācis par šā likuma 179. pantā minētajiem pārkāpumiem un nav pabeidzis līdz 2026. gada 30. septembrim, no 2026. gada 1. oktobra veic Tieslietu ministrija.

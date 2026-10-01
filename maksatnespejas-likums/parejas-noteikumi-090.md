@@ -1,0 +1,1 @@
+90. Maksātnespējas kontroles dienesta lēmumu izpildi, kas pieņemti saskaņā ar šā likuma 175. panta pirmās daļas 2., 3. un 4. punktu redakcijā, kas bija spēkā līdz 2026. gada 30. septembrim, no 2026. gada 1. oktobra nodrošina Tieslietu ministrija. Šo lēmumu apstrīdēšana un pārsūdzēšana pēc 2026. gada 1. oktobra notiek atbilstoši šā likuma 175.¹ pantam.

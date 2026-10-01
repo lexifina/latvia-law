@@ -6,7 +6,7 @@ a) balsstiesīgais kreditors, kura prasījums nav mazāks kā viena desmitā da�
 b) nodrošinātais kreditors, lai ierosinātu šā likuma 90.pantā minēto procedūru,
 c) ne mazāk kā trīs kreditori neatkarīgi no prasījumu summas,
 d) parādnieka pārstāvis,
-e) Maksātnespējas kontroles dienests,
+e) Tiesu administrācija,
 f) citā dalībvalstī pret parādnieku uzsāktajā Eiropas Parlamenta un Padomes regulas Nr. 2015/848 3. panta 1. punktā noteiktajā maksātnespējas procedūrā iesaistītais administrators,
 g) kreditors, lai izvērtētu šā likuma 170. panta pirmajā daļā noteiktās juridiskās personas maksātnespējas procesa izdevumu pamatotību.
 (2) Šā panta pirmās daļas 2.punktā minētajos gadījumos pieprasījumā iekļauj pieprasītāju sarakstu, viņu prasījumu apjomu, sapulces darba kārtību un tās sasaukšanas iemeslus.
