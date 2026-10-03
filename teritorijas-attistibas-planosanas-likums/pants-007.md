@@ -11,5 +11,6 @@
 8) nosaka teritorijas attīstības plānošanas informācijas sistēmas izveides, darbības, tai nepieciešamās informācijas iegūšanas, apstrādes un izplatīšanas kārtību un teritorijas attīstības plānošanas informācijas sistēmas datu saturu, kā arī kārtību, kādā veicama datu apmaiņa ar citām valsts informācijas sistēmām;
 9) nosaka par teritorijas attīstības plānošanu atbildīgo ministriju;
 10) nosaka jūras plānojuma izstrādes, ieviešanas un uzraudzības kārtību un apstiprina jūras plānojumu;
-11) nosaka, izveido un apstiprina nacionālo interešu objektus un to izmantošanas nosacījumus, ja citos likumos nav paredzēts citādi.
+11) nosaka, izveido un apstiprina nacionālo interešu objektus un to izmantošanas nosacījumus, ja citos likumos nav paredzēts citādi;
+12) pieņem lēmumu šā likuma 26.¹ pantā noteiktajā gadījumā.
 (2) Ministru kabinets valsts budžetā kārtējam gadam paredz finansējumu nacionālā un reģionālā līmeņa teritorijas attīstības plānošanas dokumentu izstrādei un aktualizācijai.
