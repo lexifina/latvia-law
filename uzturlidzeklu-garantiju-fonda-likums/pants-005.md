@@ -3,7 +3,7 @@
 1) saņemt finansējumu no valsts budžeta;
 2) saņemt dāvinājumus un ziedojumus;
 3) pieprasīt un bez maksas iegūt šā likuma mērķa īstenošanai nepieciešamo informāciju no valsts un pašvaldību iestādēm un institūcijām, kā arī privātpersonām;
-4) izsniegt ziņas no valsts informācijas sistēmas Uzturlīdzekļu garantiju fonda iesniedzēju un parādnieku reģistra kredītiestādēm, kredītiestāžu filiālēm, kredītinformācijas birojiem, kapitālsabiedrībām, kas sniedz kreditēšanas un finanšu līzinga pakalpojumus, apdrošināšanas sabiedrībām un elektronisko sakaru pakalpojumu sniedzējiem par parādnieku, ar kuru tie dibina vai groza līgumsaistības. Ministru kabinets nosaka kārtību un apjomu, kādā izsniedzamas ziņas par minētajām personām;
+4) izsniegt ziņas no valsts informācijas sistēmas Reģistra kredītiestādēm, kredītiestāžu filiālēm, kredītinformācijas birojiem, kapitālsabiedrībām, kas sniedz kreditēšanas un finanšu līzinga pakalpojumus, apdrošināšanas sabiedrībām un elektronisko sakaru pakalpojumu sniedzējiem par parādnieku, ar kuru tie dibina vai groza līgumsaistības. Ministru kabinets nosaka kārtību un apjomu, kādā izsniedzamas ziņas par minētajām personām;
 5) sadalīt termiņos šā panta otrās daļas 3. punktā paredzētajā gadījumā no iesniedzēja piedzenamās summas samaksu.
 (2) Fonda administrācijai ir pienākums:
 1) piedzīt no parādnieka uzturlīdzekļus, kurus parādniekam saskaņā ar Fonda administrācijas lēmumu ir pienākums maksāt bērna uzturam un kuri viņa vietā šā likuma 11. pantā noteiktajā kārtībā izmaksāti no Fonda, kā arī par tiem aprēķinātos likumiskos procentus;
