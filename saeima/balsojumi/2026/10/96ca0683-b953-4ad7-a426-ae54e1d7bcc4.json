@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 9,
+ "datums": "2026-10-08",
+ "ieraksts": {
+  "dkp_id": "822e7aec-675b-4c55-995f-55497bb63822",
+  "lastmodtime": "\"AAAAAAKhjSM=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Līga#Oļegs#Juris#Igors#Dāvis Mārtiņš#Jefimijs#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Edvīns#Česlavs#Atis#Arnolds#Viktorija#Normunds#Linda#Anna#Andrejs#Edmunds#Ināra#Zane#Jānis#Juris#Anita#Svetlana#Mārtiņš#Gunārs#Ilze#Mārcis#Raimonds#Andris#Jeļena#Leila#Andris#Kaspars#Ainars#Inese#Ramona#Vilis#Inga#Amils#Jānis#Linda#Atis#Armands#Anda#Ģirts#Roberts#Ričards#Ingmārs#Aleksandrs#Jānis#Edmunds#Andris#Artūrs#Līga#Maija#Agnese#Inga#Uģis#Ieva#Ligita#Andrejs#Alīna#Jekaterina#Dāvis#Evika#Ilze#Raimonds#Andrejs#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Jānis#Nataļja#Jānis",
+  "SURNAME": "Kļaviņa#Burovs#Viļums#Rajevs#Daugavietis#Klementjevs#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Šnore#Batņa#Labucis#Jātnieks#Pleškāne#Dzintars#Matisone#Rancāne#Judins#Cepurītis#Mūrniece#Skujiņa-Rubene#Vucāns#Jakovins#Brakovska#Čulkova#Daģis#Kūtris#Stobova#Jencītis#Bergmanis#Bērziņš#Kļaviņa#Rasima#Šuvajevs#Briškens#Latkovskis#Kalniņa#Petraviča#Sruoģis#Priede#Saļimovs#Patmalnieks#Liepiņa#Švinka#Krauze#Čakša#Štekerhofs#Ķipurs#Šlesers#Līdaka#Kiršteins#Skrastiņš#Zivtiņš#Sprūds#Butāns#Kozlovska#Armaņeva#Krasta#Bērziņa#Rotbergs#Brante#Gintere#Svilāns#Gendele#Drelinga#Melnalksnis#Siliņa#Vergina#Čudars#Ceļapīters#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Eglīts#Marčenko-Jodko#Dinevičs",
+  "VOTEDEPSUFFIX": "#################################################################################",
+  "FRACTION": "ZZS# #AS# #JV# #JV#ZZS#NA#NA#ZZS#JV#NA#AS#JV#NA# #NA#AS#JV#JV#PRO#NA#JV#ZZS#ZZS#ZZS# #JV#ZZS#LPV#LPV#AS#ZZS# #PRO#PRO#PRO#JV#JV#LPV# #AS# #JV#LPV#PRO#ZZS#JV#ZZS#NA#LPV#AS# #JV#LPV#PRO#NA#ZZS#LPV#JV#JV#JV# #ZZS#AS#JV# #AS#JV# #JV# #JV#ZZS#JV#ZZS#AS#AS#NA# #ZZS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "08.10.2026 11:55:16",
+  "VOTEMOTIVE": "Grozījums Valsts ieņēmumu dienesta likumā (1421/Lp14), 2.lasījums",
+  "VOTING_ID": "96ca0683-b953-4ad7-a426-ae54e1d7bcc4",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "79",
+  "VOTERESULT_REGISTERED": "82",
+  "VOTE_NUMBER": "42",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-9-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/8c542ef9-f103-49fe-9e0d-d5c56b488105/download/14.saeimas-2026.gada-rudens-sesija-9-vote.xml",
+  "sha256": "73d52b888dc92d4db58d9a947743ada49c808850b8bf1e75a99c649c95418fe5",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
