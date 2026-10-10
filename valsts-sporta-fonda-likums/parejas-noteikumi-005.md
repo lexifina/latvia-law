@@ -1,0 +1,1 @@
+5. Ministru kabinets likumprojekta "Par valsts budžetu 2027. gadam un budžeta ietvaru 2027., 2028., 2029. un 2030. gadam" sagatavošanas procesā 2027., 2028., 2029., 2030. gadā un turpmāk ik gadu paredz finansējumu vismaz 5 000 000 euro apmērā šajā likumā noteikto mērķu īstenošanai.
