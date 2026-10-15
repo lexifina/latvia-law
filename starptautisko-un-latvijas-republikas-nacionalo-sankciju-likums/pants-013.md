@@ -23,8 +23,6 @@
 (4⁷) (Izslēgta ar 03.12.2025. likumu)
 (4⁸) Nacionālā kultūras mantojuma pārvalde uzrauga starptautiskajās un nacionālajās sankcijās noteikto ierobežojumu izpildi attiecībā uz tādiem darījumiem un tādām personām, ko tā uzrauga saskaņā ar Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumu.
 (4⁹) (Izslēgta ar 30.09.2021. likumu, kas stājas spēkā 01.01.2023.).
-(4¹⁰) Maksātnespējas kontroles dienests:
-1) uzrauga starptautiskajās un nacionālajās sankcijās noteikto ierobežojumu izpildi maksātnespējas procesa administratoru darbā;
-2) izstrādā vadlīnijas, kurās noteikts pasākumu kopums, ko maksātnespējas procesa administrators veic šā likuma prasību izpildes nodrošināšanai.
+(4¹⁰) (Izslēgta ar 01.10.2026. likumu)
 (5) Rajona (pilsētas) tiesas zemesgrāmatu nodaļa kā kompetentā institūcija izpilda starptautiskajās vai nacionālajās sankcijās noteikto aizliegumu nostiprināt īpašuma tiesības uz nekustamo īpašumu vai ieraksta aizlieguma atzīmi, kas kavē jebkuru labprātīgu (izņemot mantošanas ceļā iegūtu) tiesību nostiprināšanu attiecībā uz sankciju subjekta īpašumā esošu nekustamo īpašumu.
 (6) Ja attiecībā uz sankciju subjektu noteiktās sankcijas tiek grozītas vai atceltas, uzraudzības institūcijas atbilstoši šīm institūcijām normatīvajos aktos noteiktajai kompetencei veic visas noteikto ierobežojumu grozīšanai vai atcelšanai nepieciešamās darbības.
