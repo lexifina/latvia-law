@@ -14,6 +14,7 @@
 (9) Ja pārdevējs vai pakalpojuma sniedzējs nesniedz atbildi uz patērētāja iesniegumu šā panta piektajā vai sestajā daļā noteiktajā termiņā, uzskatāms, ka pārdevējs vai pakalpojuma sniedzējs atsakās izpildīt patērētāja prasījumu.
 (10) Ja pārdevējs vai pakalpojuma sniedzējs atsakās izpildīt patērētāja prasījumu vai patērētāju neapmierina pārdevēja vai pakalpojuma sniedzēja piedāvātais risinājums, patērētājs ir tiesīgs vērsties:
 1) Patērētāju tiesību aizsardzības centrā, lai saņemtu palīdzību strīda risināšanā, tai skaitā to risinot Patērētāju strīdu risināšanas komisijā;
+1¹) (punkts stājas spēkā 01.01.2027. un iekļauts likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 54. punktu);
 2) pie patērētāju ārpustiesas strīdu risinātāja, ja attiecīgajā jomā tāds ir izveidots;
 3) (izslēgts ar 20.05.2021. likumu);
 4) tiesā.

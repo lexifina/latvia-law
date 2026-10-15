@@ -1,1 +1,1 @@
-8.⁶ pants. Kārtība, kādā reģistrē atlikto maksājumu pakalpojuma sniedzēju
+8.⁶ pants. Atlikto maksājumu pakalpojuma sniedzēju reģistrācija un darbības uzraudzība
