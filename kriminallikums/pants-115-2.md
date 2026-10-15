@@ -1,0 +1,2 @@
+115.² pants. Personas atbrīvošana no kriminālatbildības par īpaši aizsargājamo dzīvnieku un augu sugu iznīcināšanu un bojāšanu
+Personu, kas ievērojusi dabas vides regulējošos normatīvajos aktos un darbības atļaujā noteiktos ierobežojumus, atbrīvo no kriminālatbildības par īpaši aizsargājamo sugu dzīvnieku, augu, sēņu, ķērpju vai īpaši aizsargājamo sugu dzīvotnes vai biotopu nonāvēšanu, bojāšanu vai iznīcināšanu, izņemot gadījumus, kad persona šo nodarījumu izdarījusi, apzinoties aizsargājamo objektu esību.
