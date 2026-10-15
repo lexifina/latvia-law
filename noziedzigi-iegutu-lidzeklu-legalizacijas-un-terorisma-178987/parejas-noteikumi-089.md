@@ -1,0 +1,1 @@
+89. Grozījums šā likuma 1. panta pirmās daļas 7. punkta "m" apakšpunktā un 45. panta pirmās daļas 1. punktā, grozījums par 45. panta 2.¹ daļas 1. punkta izslēgšanu, kā arī grozījums 78. panta vienpadsmitajā daļā stājas spēkā 2027. gada 1. janvārī.

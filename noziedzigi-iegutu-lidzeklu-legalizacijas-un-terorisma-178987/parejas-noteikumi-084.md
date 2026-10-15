@@ -1,0 +1,1 @@
+84. Patērētāju tiesību aizsardzības centrs informē Eiropas Banku iestādi par tā pieņemtajiem lēmumiem lietās, kas uzsāktas līdz 2026. gada 31. decembrim, par kredītiestādēm un finanšu iestādēm piemērotajām sankcijām, kā arī lēmuma par sankciju piemērošanu pārsūdzēšanu, pārsūdzības iznākumu un lēmumu par sankciju atcelšanu.

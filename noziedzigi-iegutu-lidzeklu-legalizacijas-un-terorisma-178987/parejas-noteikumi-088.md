@@ -1,0 +1,1 @@
+88. Klients, ar kuru izbeigtas darījuma attiecības šā likuma 43. panta otrajā daļā noteiktajā kārtībā un kura kontā esošajiem naudas līdzekļiem būtu piemērojama šā likuma 43. panta 2.¹ daļa, ir tiesīgs izmantot šā likuma 43. panta otrajā daļā minētās tiesības sešu mēnešu laikā no šā likuma 43. panta 2.¹ daļas spēkā stāšanās dienas.

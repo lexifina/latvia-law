@@ -1,0 +1,1 @@
+83. Līdz 2026. gada 31. decembrim saskaņā ar šo likumu uzsāktās un nepabeigtās lietas pret personām, kuras saskaņā ar Patērētāju tiesību aizsardzības likumu ir saņēmušas speciālo atļauju (licenci) kreditēšanas pakalpojumu sniegšanai, Patērētāju tiesību aizsardzības centrs pabeidz, piemērojot tās tiesību normas, kas bija spēkā attiecīgās lietas uzsākšanas dienā.
