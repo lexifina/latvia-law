@@ -27,4 +27,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 26) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1226 par noziedzīgu nodarījumu un sodu noteikšanu attiecībā uz Savienības ierobežojošo pasākumu pārkāpumiem un ar ko groza direktīvu (ES) 2018/1673;
 27) Eiropas Parlamenta un Padomes 2024. gada 24. aprīļa direktīvas (ES) 2024/1260 par aktīvu atgūšanu un konfiskāciju;
 28) Eiropas Parlamenta un Padomes 2024. gada 14. maija direktīvas (ES) 2024/1385 par vardarbības pret sievietēm un vardarbības ģimenē apkarošanu;
-29) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1712, ar ko groza direktīvu 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību.
+29) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1712, ar ko groza direktīvu 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību;
+30) Eiropas Parlamenta un Padomes 2024. gada 11. aprīļa direktīvas (ES) 2024/1203, kas paredz noteikumus par vides krimināltiesisko aizsardzību un aizstāj direktīvas 2008/99/EK un 2009/123/EK.
