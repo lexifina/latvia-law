@@ -1,0 +1,1 @@
+252. Šā likuma 147.¹ pants, 148. panta septītā daļa, 148.¹ pants, 149. panta 8.¹ daļa un grozījums 149. panta devītajā daļā, kas paredz papildināt pirmo teikumu pēc vārdiem "par pārskata periodu" ar vārdiem "vai pārskata perioda daļu", stājas spēkā 2027. gada 1. aprīlī.
