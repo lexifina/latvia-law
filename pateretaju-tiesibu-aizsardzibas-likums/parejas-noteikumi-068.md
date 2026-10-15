@@ -1,0 +1,1 @@
+68. Ministru kabinets līdz 2028. gada 31. decembrim sadarbībā ar Latvijas Banku sagatavo un iesniedz Saeimai ziņojumu par patērētāju kreditēšanas pakalpojumu sniedzēju uzraudzības reformas īstenošanu, kā arī tās ietekmi uz patērētājiem un patērētāju kreditēšanas pakalpojumu nozari.

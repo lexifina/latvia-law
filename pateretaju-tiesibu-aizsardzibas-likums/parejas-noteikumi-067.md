@@ -1,0 +1,1 @@
+67. 2027., 2028. un 2029. gadā šā likuma 8. panta 1.⁶ daļā minētajai kapitālsabiedrībai, kas saņēmusi speciālo atļauju (licenci), un šā likuma 8.⁶ pantā minētajam atlikto maksājumu pakalpojuma sniedzējam noteiktā kopējā maksa Latvijas Bankai nepārsniedz 55 000 euro gadā.

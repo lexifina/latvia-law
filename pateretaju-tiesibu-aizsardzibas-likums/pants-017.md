@@ -15,7 +15,8 @@
 10) remontējamības indekss, ja tas ir attiecināms;
 11) ja remontējamības indekss nav attiecināms, - informācija par preces rezerves daļām, kas nepieciešamas, lai uzturētu preces atbilstību līguma noteikumiem (rezerves daļu pieejamība, aptuvenās izmaksas, pasūtīšanas procedūra), un remonta ierobežojumiem, kā arī par uzturēšanas un remontēšanas instrukciju pieejamību, ja ražotājs šādu informāciju sniedz pārdevējam vai pakalpojuma sniedzējam.
 (2) Patērētājam ir tiesības pieprasīt, lai papildu informācija tiek sniegta arī mutvārdos.
-(3) Kārtību, kādā norādāma pārdošanas cena un mērvienības cena precēm, kas tiek piedāvātas patērētājam, kā arī kārtību, kādā norādāmas cenas pakalpojumiem, reglamentē Ministru kabineta noteikumi.
+(3) Kārtību, kādā norādāma pārdošanas cena un mērvienības cena precēm, kas tiek piedāvātas patērētājam, kā arī kārtību, kādā norādāmas cenas pakalpojumiem, kas nav finanšu pakalpojumi, reglamentē Ministru kabineta noteikumi.
+(3¹) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 54. punktu)
 (4) Šā panta pirmā daļa neattiecas uz:
 1) līgumiem, kas saistīti ar ikdienas darījumiem un tiek izpildīti nekavējoties to noslēgšanas brīdī;
 2) līgumiem, kas noslēgti ārpus pastāvīgās saimnieciskās vai profesionālās darbības vietas;

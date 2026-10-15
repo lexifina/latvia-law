@@ -1,0 +1,1 @@
+65. Tiesvedībās finanšu pakalpojumu jomā, kas uzsāktas līdz 2026. gada 31. decembrim un nav pabeigtas līdz dienai, kad stājas spēkā šā likuma grozījumi attiecībā uz finanšu pakalpojumu jomas uzraudzības nodošanu Latvijas Bankai, Patērētāju tiesību aizsardzības centrs saglabā atbildētāja statusu līdz dienai, kad stājas spēkā galīgais tiesas nolēmums.

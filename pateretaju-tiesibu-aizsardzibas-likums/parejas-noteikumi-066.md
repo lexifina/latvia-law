@@ -1,0 +1,1 @@
+66. Latvijas Banka, pārņemot patērētāju tiesību aizsardzības uzraudzības funkciju finanšu pakalpojumu jomā, neuzņemas atbildību par tiešiem vai netiešiem zaudējumiem, kas izriet no prasījumiem attiecībā uz Patērētāju tiesību aizsardzības centra pieņemtajiem lēmumiem vai rīcību.

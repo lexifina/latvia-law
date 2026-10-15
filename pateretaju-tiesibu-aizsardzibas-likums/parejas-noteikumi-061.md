@@ -1,0 +1,1 @@
+61. Patērētāju tiesību aizsardzības centra izsniegtās speciālās atļaujas (licences) patērētāju kreditēšanas pakalpojumu sniegšanai, kā arī kredīta starpnieku un kredīta starpnieku pārstāvju reģistrācija paliek spēkā arī pēc 2027. gada 1. janvāra.

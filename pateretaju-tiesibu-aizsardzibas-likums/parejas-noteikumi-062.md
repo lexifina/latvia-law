@@ -1,0 +1,1 @@
+62. Patērētāju kreditēšanas pakalpojumu sniedzēji, kredīta starpnieki un kredīta starpnieku pārstāvji, kuriem saskaņā ar šo likumu ir pienākums maksāt valsts nodevu par to darbības uzraudzību, maksā valsts nodevu par periodu līdz 2026. gada 31. decembrim.

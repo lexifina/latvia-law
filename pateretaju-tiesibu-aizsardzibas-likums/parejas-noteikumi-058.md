@@ -1,0 +1,3 @@
+58. No 2027. gada 1. janvāra līdz šā likuma 8. panta 1.³ daļā un 8.² panta trešajā daļā minēto Latvijas Bankas noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2027. gada 31. decembrim piemēro Ministru kabineta 2011. gada 29. marta noteikumus Nr. 245 "Noteikumi par speciālo atļauju (licenci) patērētāju kreditēšanas pakalpojumu sniegšanai" un Ministru kabineta 2016. gada 13. decembra noteikumus Nr. 772 "Kredīta starpnieku un kredīta starpnieku pārstāvju reģistrācijas noteikumi", ievērojot, ka:
+1) ar šajos noteikumos lietoto nosaukumu "Patērētāju tiesību aizsardzības centrs" saprot nosaukumu "Latvijas Banka";
+2) nepiemēro minēto noteikumu regulējumu par valsts nodevu samaksu.
