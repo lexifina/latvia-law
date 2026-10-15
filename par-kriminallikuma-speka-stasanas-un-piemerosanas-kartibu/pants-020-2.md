@@ -1,0 +1,1 @@
+20.² pants. Atbildība par Krimināllikuma 211.¹ pantā paredzēto nodarījumu, kas izdarīts lielā apmērā, iestājas, ja līgumcena aizliegtas vienošanās iepirkumā, tas ir, kopējā samaksa par iepirkuma līguma izpildi, kurā ietverti visi piemērojamie nodokļi, izņemot pievienotās vērtības nodokli, nav bijusi mazāka par 750 000 euro vai 1 000 000 euro būvdarbu līguma gadījumā.
