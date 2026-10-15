@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 11,
+ "datums": "2026-10-15",
+ "ieraksts": {
+  "dkp_id": "8c2994e2-eb41-4ba3-910a-fe4e2fe9f677",
+  "lastmodtime": "\"AAAAAAKjNas=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Iļja#Amils#Jekaterina#Dmitrijs#Igors#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Edmunds#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Jurģis#Andris#Ainars#Inese#Vilis#Inese#Edmunds#Armands#Ģirts#Ričards#Ingmārs#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Andrejs#Alīna#Dāvis#Evika#Ilze#Raimonds#Arvils#Irma#Harijs#Edmunds#Augusts#Raivis#Aiva#Līga#Jānis#Nataļja#Jānis#Oļegs#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Jānis#Kaspars#Agita#Kristaps#Atis#Viktorija#Normunds#Linda#Andrejs#Ināra#Anita#Gunārs#Edgars#Raimonds#Jeļena#Kaspars#Ramona#Inga#Jānis#Lauris#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis#Antoņina#Inga#Uģis#Ieva",
+  "SURNAME": "Ivanovs#Saļimovs#Drelinga#Kovaļenko#Judins#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Cepurītis#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Lībiņa-Egnere#Teirumnieks#Krauze#Štekerhofs#Šlesers#Līdaka#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Svilāns#Gendele#Melnalksnis#Siliņa#Vergina#Čudars#Ašeradens#Kalniņa#Rokpelnis#Jurēvics#Brigmanis#Kalējs#Vīksna#Kļaviņa#Eglīts#Marčenko-Jodko#Dinevičs#Burovs#Daugavietis#Klementjevs#Viļums#Felss#Grasbergs#Melnis#Zariņa-Stūre#Krištopans#Labucis#Pleškāne#Dzintars#Matisone#Judins#Mūrniece#Brakovska#Kūtris#Putra#Bergmanis#Kļaviņa#Briškens#Petraviča#Priede#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš#Ņenaševa#Bērziņa#Rotbergs#Brante",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": " # # # # #NA#NA#PRO# #JV#PRO#ZZS# #JV#LPV#LPV#ZZS#NA#PRO#JV#JV# #JV#NA#ZZS#ZZS#LPV#AS#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#AS#JV#AS#JV# #JV#JV#JV#ZZS#JV#ZZS#AS#AS#ZZS#NA# #ZZS# #JV# #AS#JV#NA#ZZS#JV#LPV#JV# #NA#AS#JV#NA#ZZS#ZZS#AS#AS# #PRO#LPV#AS#JV#AS#LPV#PRO#JV#NA# #JV#PRO#JV#JV# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "15.10.2026 09:32:50",
+  "VOTEMOTIVE": "Par Danilo Mičudas (Danylo Michuda) atzīšanu par Latvijas pilsoni (1586/Lp14), 1.lasījums",
+  "VOTING_ID": "b7ad823c-2fbf-4962-9d0d-3f569076f594",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "3",
+  "VOTERESULT_FOR": "81",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "8",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-11-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/062c7d2c-2123-4ee0-986d-68303ccc7d41/download/14.saeimas-2026.gada-rudens-sesija-11-vote.xml",
+  "sha256": "fdef1463cd319ed271f0a20e2f6892a7d1af4143c45c5ca6b080ecb15abaa848",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
