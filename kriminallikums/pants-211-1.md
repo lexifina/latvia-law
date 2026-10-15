@@ -1,0 +1,5 @@
+211.¹ pants. Aizliegta vienošanās iepirkumā
+(1) Par aizliegtu vienošanos iepirkumā, kas izpaudusies kā pieteikuma vai piedāvājuma saskaņošana kādā no būtiskiem tā nosacījumiem ar citu tirgus dalībnieku pirms piedāvājuma vai pieteikuma iesniegšanas pasūtītājam vai kā vienošanās ar citu tirgus dalībnieku par piedāvājuma vai pieteikuma neiesniegšanu vai par dalības noteikumiem iepirkumā, ja tā izdarīta attiecībā uz liela apmēra iepirkumu, -
+soda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, atņemot tiesības uz noteiktu vai visu veidu komercdarbību vai uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku līdz trim gadiem.
+(2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts publiskā iepirkumā, -
+soda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar probācijas uzraudzību, vai ar naudas sodu, atņemot tiesības uz noteiktu vai visu veidu komercdarbību vai uz noteiktu nodarbošanos vai tiesības ieņemt noteiktu amatu uz laiku no diviem līdz pieciem gadiem.
