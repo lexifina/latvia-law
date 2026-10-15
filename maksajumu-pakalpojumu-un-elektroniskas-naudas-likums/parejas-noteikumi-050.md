@@ -1,0 +1,1 @@
+50. Šā likuma 45. panta otrās daļas jaunā redakcija, grozījumi 46.¹ panta pirmajā un otrajā daļā, grozījumi 105. pantā un 106. panta otrajā daļā saistībā ar patērētāju tiesību aizsardzības uzraudzības finanšu pakalpojumu jomā nodošanu Latvijas Bankai stājas spēkā 2027. gada 1. janvārī.

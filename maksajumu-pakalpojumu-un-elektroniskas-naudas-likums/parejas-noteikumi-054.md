@@ -1,0 +1,1 @@
+54. Līdz 2026. gada 31. decembrim saskaņā ar šo likumu uzsāktās un nepabeigtās lietas par finanšu pakalpojumu atbilstību šā likuma prasībām Patērētāju tiesību aizsardzības centrs pabeidz, piemērojot tās tiesību normas, kas bija spēkā attiecīgās lietas uzsākšanas dienā.
