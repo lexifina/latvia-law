@@ -1,0 +1,1 @@
+1. Grozījums šā likuma 17. pantā par patērētāju tiesību aizsardzības finanšu pakalpojumu jomā uzraudzības nodošanu Latvijas Bankai un grozījums par 18. panta izslēgšanu stājas spēkā 2027. gada 1. janvārī.

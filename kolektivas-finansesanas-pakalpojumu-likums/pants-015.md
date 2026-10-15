@@ -1,3 +1,3 @@
-15. pants. Maksājumi Komisijai
-(1) Persona, kura vēlas sniegt kolektīvās finansēšanas pakalpojumus, maksā Komisijai 2500 euro par kolektīvās finansēšanas pakalpojumu sniedzēja darbības atļaujas saņemšanai iesniegto dokumentu un informācijas izskatīšanu.
-(2) Kolektīvās finansēšanas pakalpojumu sniedzējs pēc reģistrācijas kolektīvās finansēšanas pakalpojumu sniedzēju reģistrā maksā Komisijai 4000 euro gadā un papildus līdz 1,4 procentiem (ieskaitot) gadā no bruto ieņēmumiem, kas saistīti ar kolektīvās finansēšanas pakalpojumu sniegšanu, bet kopējā kolektīvās finansēšanas pakalpojumu sniedzēja maksājumu summa nepārsniedz 100 000 euro gadā.
+15. pants. Maksājumi Latvijas Bankai
+(1) Persona, kura vēlas sniegt kolektīvās finansēšanas pakalpojumus, maksā Latvijas Bankai 2500 euro par kolektīvās finansēšanas pakalpojumu sniedzēja darbības atļaujas saņemšanai iesniegto dokumentu un informācijas izskatīšanu.
+(2) Kolektīvās finansēšanas pakalpojumu sniedzējs pēc reģistrācijas kolektīvās finansēšanas pakalpojumu sniedzēju reģistrā maksā Latvijas Bankai 4000 euro gadā un papildus līdz 1,4 procentiem (ieskaitot) gadā no bruto ieņēmumiem, kas saistīti ar kolektīvās finansēšanas pakalpojumu sniegšanu, bet kopējā kolektīvās finansēšanas pakalpojumu sniedzēja maksājumu summa nepārsniedz 100 000 euro gadā.

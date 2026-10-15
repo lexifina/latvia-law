@@ -1,0 +1,1 @@
+2. Līdz 2026. gada 31. decembrim saņemtos iesniegumus un sūdzības par šā likuma un citu patērētāju tiesību aizsardzības normatīvo aktu pārkāpumiem, ja tie saistīti ar kolektīvās finansēšanas pakalpojumu sniegšanu, Patērētāju tiesību aizsardzības centrs izskata, piemērojot tās tiesību normas, kas bija spēkā attiecīgā iesnieguma vai sūdzības saņemšanas dienā.

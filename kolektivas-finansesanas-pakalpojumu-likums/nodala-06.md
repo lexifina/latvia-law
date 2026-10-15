@@ -1,2 +1,2 @@
 VI nodaļa
-Kolektīvās finansēšanas pakalpojumu sniedzēja maksājumi Komisijai
+Kolektīvās finansēšanas pakalpojumu sniedzēja maksājumi Latvijas Bankai
