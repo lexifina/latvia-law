@@ -1,0 +1,1 @@
+85. Līdz 2026. gada 31. decembrim saņemtās sūdzības par šā likuma un citu patērētāju tiesību aizsardzības normatīvo aktu pārkāpumiem, ja tie saistīti ar ieguldījumu pakalpojumu sniegšanu, Patērētāju tiesību aizsardzības centrs izskata, piemērojot tās tiesību normas, kas bija spēkā attiecīgās sūdzības saņemšanas dienā.
