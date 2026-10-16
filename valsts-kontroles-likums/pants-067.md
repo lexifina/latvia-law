@@ -1,1 +1,1 @@
-67.pants. Revidējamai vienībai jāiesniedz Valsts kontrolei tās noteiktajā kārtībā un termiņā visi ar revīziju saistītie grāmatvedības reģistri un dokumenti, kā arī jāsniedz visa ar revīziju saistītā informācija un paskaidrojumi.
+67. pants. Revidējamai vienībai jāiesniedz Valsts kontrolei tās noteiktajā kārtībā un termiņā visa ar Valsts kontroles uzdevuma veikšanu saistītā informācija un paskaidrojumi, kā arī jānodrošina piekļuve reģistros, informācijas sistēmās un datubāzēs esošajiem visiem datiem.
