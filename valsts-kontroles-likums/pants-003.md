@@ -10,4 +10,4 @@ c) Ministru kabinetam par īpaši svarīgiem un nozīmīgiem konstatējumiem;
 4¹) ierosina Ministru kabinetam veikt pasākumus Valsts kontroles revīziju rezultātu izvērtēšanai;
 4²) sadarbojas ar Saeimas komisijām, informējot tās par revīziju rezultātiem, revīzijās atklāto trūkumu novēršanu, kā arī par revīzijā konstatēto tiesību normu pārkāpumu izskatīšanu;
 5) sadarbojas savas kompetences ietvaros ar Eiropas Savienības institūcijām un citām starptautiskajām organizācijām vai institūcijām, tajā skaitā var iesaistīties revīzijās kā šo organizāciju vai institūciju revidents, kā arī sadarbojas ar citu valstu augstākajām revīzijas iestādēm, tajā skaitā var veikt šo iestāžu darbības novērtējumu;
-6) veic revīzijas departamentu sektoru vadītāju un revidentu sertifikāciju Valsts kontroles revīziju veikšanai.
+6) (izslēgts ar 24.09.2026. likumu).

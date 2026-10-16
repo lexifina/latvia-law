@@ -1,1 +1,0 @@
-37.¹ pants. Revīzijas departamenta sektora vadītāja un revidenta zināšanas un prasmes Valsts kontroles revīziju veikšanai apliecina Valsts kontroles sertifikācijas komisijas izsniegts sertifikāts. Sertifikātu izsniedz uz trim gadiem.

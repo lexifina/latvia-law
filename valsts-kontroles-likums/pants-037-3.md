@@ -1,1 +1,0 @@
-37.³ pants. Valsts kontrole nodrošina publiski pieejamu informāciju par revīzijas departamentu sektoru vadītājiem un revidentiem izsniegtajiem spēkā esošajiem sertifikātiem Valsts kontroles revīziju veikšanai.
