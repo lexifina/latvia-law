@@ -1,0 +1,1 @@
+30. Elektrisko tīklu gaisvadu līniju ar nominālo spriegumu 110 kilovoltu, kuras šķērso meža teritoriju un kuru elektrolīniju trases ir izveidotas līdz 2026. gada 19. oktobrim, īpašnieks vai valdītājs līdz 2029. gada 31. decembrim nodrošina elektrolīniju trases izveidi atbilstoši šā likuma 16. panta otrās daļas 2.¹ punkta "c" apakšpunktā noteiktajam platumam.

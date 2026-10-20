@@ -12,7 +12,7 @@ c) gaisvadu līnijām ar nominālo spriegumu 330 kilovoltu -30 metru attālumā 
 2¹) gar elektrisko tīklu gaisvadu līnijām, ja tās šķērso meža teritoriju, - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas virsmas abpus līnijai:
 a) gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu līdz 1 kilovoltam - 6,5 metru attālumā no līnijas ass, kurā elektrolīniju trasi veido 2,5 metru platumā no līnijas ass uz katru pusi,
 b) gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu 10-20 kilovoltu - 30 metru attālumā no līnijas ass, kurā elektrolīniju trasi veido 6,5 metru platumā no līnijas ass uz katru pusi,
-c) gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu 110 kilovoltu - 35 metru attālumā no līnijas ass, kurā elektrolīniju trasi veido 13 metru platumā no līnijas ass uz katru pusi,
+c) gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu 110 kilovoltu - 35 metru attālumā no līnijas ass, kurā elektrolīniju trasi veido 18 metru platumā no līnijas ass uz katru pusi,
 d) gar elektrisko tīklu gaisvadu līnijām ar nominālo spriegumu 330 kilovoltu - 40 metru attālumā no līnijas ass, kurā elektrolīniju trasi veido 27 metru platumā no līnijas ass uz katru pusi,
 e) gar elektrisko tīklu kabeļu līnijām - elektrolīniju trase 1,5 metru platumā no līnijas ass uz katru pusi;
 3) gar elektrisko tīklu kabeļu līnijām - zemes gabals un gaisa telpa, ko norobežo nosacītas vertikālas virsmas kabeļu līnijas katrā pusē 1 metra attālumā no kabeļu līnijas ass, bet, ja kabeļu līnija šķērso meža teritoriju, - 1,5 metru attālumā no kabeļu līnijas ass katrā pusē. Ja kabelis atrodas tuvāk par 1 metru no ēkas vai būves, tad šajā kabeļa pusē aizsargjoslu nosaka tikai līdz ēkas vai būves pamatiem;
