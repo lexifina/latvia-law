@@ -1,0 +1,1 @@
+23. Latvijas pilsonim, Eiropas Savienības dalībvalsts pilsonim vai Eiropas Ekonomikas zonas valsts pilsonim, kas vienlaikus ir arī Krievijas Federācijas vai Baltkrievijas Republikas pilsonis, ir tiesības veikt šajā likumā atļauto ieroču apriti līdz 2026. gada 1. decembrim.

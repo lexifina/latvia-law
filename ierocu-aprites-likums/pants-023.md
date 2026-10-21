@@ -15,4 +15,5 @@
 13) kurai nav deklarētas (reģistrētas) dzīvesvietas Latvijā;
 14) kuras norādītajā ieroča glabāšanas adresē nav nodrošināti ieroču apriti reglamentējošos normatīvajos aktos noteiktie ieroča glabāšanas apstākļi;
 15) kura minējusi nepamatotus ieroča iegādāšanās iemeslus;
-16) kura neatbilst šā likuma 14. panta nosacījumiem.
+16) kura neatbilst šā likuma 14. panta nosacījumiem;
+17) kura ir Latvijas Republikas pilsonis un vienlaikus arī Krievijas Federācijas vai Baltkrievijas Republikas pilsonis.
