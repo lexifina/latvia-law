@@ -1,0 +1,1 @@
+47. Grozījumi šā likuma 54.¹ pantā un šā likuma pārejas noteikumu 46. punktā saistībā ar universitāšu slimnīcu pārveidi no kapitālsabiedrībām par atvasinātām publiskām personām stājas spēkā vienlaikus ar Klīnisko universitāšu slimnīcu likumu.
