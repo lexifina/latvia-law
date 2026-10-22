@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 14,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 12,
+ "datums": "2026-10-22",
+ "ieraksts": {
+  "dkp_id": "fe1804db-e23f-4c87-b0b0-a18d70886f1b",
+  "lastmodtime": "\"AAAAAAKljKg=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Inese#Ingmārs#Andrejs#Jekaterina#Ilze#Dmitrijs#Česlavs#Linda#Inga#Iļja#Edvīns#Arnolds#Liene#Skaidrīte#Anna#Edmunds#Zane#Juris#Svetlana#Mārtiņš#Ilze#Mārcis#Andris#Didzis#Jurģis#Andris#Ainars#Inese#Vilis#Amils#Edmunds#Armands#Ģirts#Ričards#Edmunds#Andris#Artūrs#Maija#Agnese#Raivis#Jana#Ligita#Zanda#Alīna#Dāvis#Evika#Raimonds#Arvils#Andrejs#Harijs#Edmunds#Augusts#Aiva#Jānis#Nataļja#Oļegs#Igors#Dāvis Mārtiņš#Jefimijs#Juris#Mārtiņš#Daiga#Jānis#Uģis#Kaspars#Agita#Kristaps#Atis#Normunds#Andrejs#Ināra#Anita#Gunārs#Edgars#Igors#Raimonds#Leila#Kaspars#Ramona#Jānis#Lauris#Linda#Atis#Anda#Roberts#Aleksandrs#Jānis#Līga#Ieva",
+  "SURNAME": "Lībiņa-Egnere#Līdaka#Svilāns#Drelinga#Vergina#Kovaļenko#Batņa#Matisone#Priede#Ivanovs#Šnore#Jātnieks#Gātere#Ābrama#Rancāne#Cepurītis#Skujiņa-Rubene#Jakovins#Čulkova#Daģis#Stobova#Jencītis#Bērziņš#Šmits#Klotiņš#Šuvajevs#Latkovskis#Kalniņa#Sruoģis#Saļimovs#Teirumnieks#Krauze#Štekerhofs#Šlesers#Zivtiņš#Sprūds#Butāns#Armaņeva#Krasta#Dzintars#Simanovska#Gintere#Kalniņa-Lukaševica#Gendele#Melnalksnis#Siliņa#Čudars#Ašeradens#Ceļapīters#Rokpelnis#Jurēvics#Brigmanis#Vīksna#Eglīts#Marčenko-Jodko#Burovs#Rajevs#Daugavietis#Klementjevs#Viļums#Felss#Mieriņa#Grasbergs#Mitrevics#Melnis#Zariņa-Stūre#Krištopans#Labucis#Dzintars#Judins#Mūrniece#Brakovska#Kūtris#Putra#Judins#Bergmanis#Rasima#Briškens#Petraviča#Patmalnieks#Lizbovskis#Liepiņa#Švinka#Čakša#Ķipurs#Kiršteins#Skrastiņš#Kozlovska#Brante",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "JV#AS#AS# # # #AS#AS#AS# #NA#NA#PRO# #JV#PRO#JV#ZZS# #JV#LPV#LPV#ZZS# #NA#PRO#JV#JV# # #NA#ZZS#ZZS#LPV#LPV#PRO#NA#LPV#JV#NA#PRO#ZZS#JV#JV#AS#JV#JV#JV# #ZZS#JV#ZZS#AS#NA# # # #JV# #AS#JV#ZZS#NA#NA#ZZS#JV#LPV#JV#NA#JV#NA#ZZS#ZZS#AS# #AS#PRO#PRO#LPV#JV#AS#LPV#PRO#JV#NA# #JV#ZZS# ",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Pret#Pret#Pret#Par#Atturas#Atturas#Pret#Par#Par#Pret#Par#Par#Par#Atturas#Pret#Atturas#Pret#Pret#Par#Par#Pret#Par#Par#Par#Par#Atturas#Pret#Par#Pret#Pret#Atturas#Par#Pret#Pret#Pret#Pret#Pret#Pret#Par#Par#Pret#Par#Atturas#Pret#Par#Par#Pret#Pret#Par#Atturas#Pret#Par#Pret#Pret#Par#Pret#Par#Pret#Pret#Pret#Pret#Par#Par#Atturas#Par#Atturas#Atturas#Atturas#Par#Pret#Atturas#Par#Atturas#Pret#Pret#Pret#Pret#Par#Atturas",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "22.10.2026 10:29:19",
+  "VOTEMOTIVE": "Par nodošanu Pilsonības, migrācijas un sabiedrības saliedētība komisijai. Par likuma “Par Divjas Kananas Višvanatas (Divya Kannan Vishwanath) atzīšanu par Latvijas pilsoni” atzīšanu par spēkā neesošu (1591/Lp14), nodošana komisijām",
+  "VOTING_ID": "ac584337-4f80-4dc0-9368-7bc6a5843779",
+  "VOTERESULT_ABSTAIN": "15",
+  "VOTERESULT_AGAINST": "35",
+  "VOTERESULT_FOR": "30",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "15",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "14.Saeimas 2026.gada rudens sesija-12-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/2b26ba37-d9fc-4f5a-b5d3-e0488c607ada/download/14.saeimas-2026.gada-rudens-sesija-12-vote.xml",
+  "sha256": "e68afcecb35ab9a67899cf0c0c45364413b602cf924da8ad1a5179fe9ebb994c",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
