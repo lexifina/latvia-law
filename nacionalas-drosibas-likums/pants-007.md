@@ -8,3 +8,5 @@
 5) (izslēgts ar 07.04.2004. likumu);
 6) (izslēgts ar 07.04.2004. likumu);
 7) izskata priekšlikumus par Satversmes aizsardzības biroja direktora iecelšanu amatā un atbrīvošanu no amata.
+(3) (Daļa stājas spēkā 03.11.2026. un iekļauta likuma redakcijā uz 03.11.2026. Sk. pārejas noteikumu 37. punktu)
+(4) (Daļa stājas spēkā 03.11.2026. un iekļauta likuma redakcijā uz 03.11.2026. Sk. pārejas noteikumu 37. punktu)
