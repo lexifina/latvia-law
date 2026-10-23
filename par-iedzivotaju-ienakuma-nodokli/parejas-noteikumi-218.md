@@ -1,0 +1,1 @@
+218. Nodokļa maksātājs, kas iesniedz šā likuma pārejas noteikumu 210. punktā noteikto kriptoaktīvu deklarāciju, apliecina, ka uz nodokļa maksātāju neattiecas šā likuma pārejas noteikumu 217. punktā noteiktie ierobežojumi.

@@ -1,0 +1,1 @@
+212. Kriptoaktīvu tirgus vērtība uz 2026. gada 31. decembri, kas norādīta šā likuma pārejas noteikumu 210. punktā minētajā kriptoaktīvu deklarācijā un par kuru samaksāts šā likuma pārejas noteikumu 211. punktā noteiktais nodoklis, ir uzskatāma par šo kriptoaktīvu sākotnējo iegādes vērtību saskaņā ar šā likuma 11.⁹ panta 1.¹ daļu.

@@ -1,0 +1,1 @@
+211. Ar nodokli, piemērojot nodokļa likmi 10 procentu apmērā, apliek šā likuma pārejas noteikumu 210. punktā minētajā kriptoaktīvu deklarācijā deklarēto kriptoaktīvu tirgus vērtību uz 2026. gada 31. decembri, kuru nosaka pēc to vidējās cenas kriptoaktīvu tirdzniecības platformā, kura tiek uzturēta saskaņā ar regulu Nr. 2023/1114, sešu mēnešu periodā.
