@@ -1,0 +1,1 @@
+64. Ministru kabinets līdz 2030. gada 31. martam iesniedz Saeimai ziņojumu par bērnu attīstības multiprofesionālo komandu izveidi un turpmāko darbību, kā arī, ja nepieciešams, sagatavo un iesniedz attiecīgus normatīvo aktu grozījumus.

@@ -1,0 +1,1 @@
+62. Ministru kabinets līdz 2028. gada 31. janvārim iesniedz Saeimai ziņojumu par bērna agrīnās attīstības izvērtēšanas metodikas ieviešanas rezultātiem, kā arī, ja nepieciešams, sagatavo un iesniedz attiecīgus normatīvo aktu grozījumus.

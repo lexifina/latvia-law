@@ -1,0 +1,1 @@
+59. Grozījumi šā likuma 11. panta pirmajā daļā par otrā teikuma izteikšanu jaunā redakcijā un 12. panta otrajā daļā par otrā teikuma izslēgšanu, kā arī šā likuma 12. panta 2.¹ daļa stājas spēkā 2028. gada 1. jūlijā.
