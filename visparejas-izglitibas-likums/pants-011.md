@@ -3,7 +3,7 @@
 (2) Vispārējās izglītības iestādes vadītājs ir atbildīgs par:
 1) izglītības programmu īstenošanu;
 2) izglītības iestādes nodrošināšanu ar pedagogiem;
-3) izglītojamo speciālo vajadzību apzināšanu un viņu izglītošanu atbilstoši speciālās izglītības programmām;
+3) izglītojamā speciālo vajadzību izvērtēšanu un viņa izglītošanu atbilstoši izglītības programmai, kurā izglītojamais uzņemts, kā arī viņam nepieciešamo atbalsta pasākumu nodrošināšanu;
 4) izglītības iestādes darbības nodrošināšanu un tai noteikto uzdevumu izpildi;
 5) izglītības iestādes finansu un materiālo līdzekļu racionālu izmantošanu;
 6) normatīvo aktu ievērošanu izglītības iestādes darbībā.
