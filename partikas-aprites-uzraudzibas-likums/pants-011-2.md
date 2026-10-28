@@ -1,2 +1,3 @@
-11.² pants. (1) Ja pārtikai, kura marķēta ar norādi "Ieteicams līdz..", beidzies minimālais derīguma termiņš, to aizliegts izplatīt, izņemot gadījumus, kad izplatīšana notiek atbilstoši Ministru kabineta noteikumiem.
+11.² pants. (1) Ja pārtikai un pārtikas izejvielām, kuras marķētas ar norādi "Ieteicams līdz..", ir beidzies minimālais derīguma termiņš, pārtiku aizliegts izplatīt un pārtikas izejvielas aizliegts izmantot pārtikas ražošanā, izņemot gadījumus, kad izplatīšana vai izmantošana ražošanā notiek atbilstoši Ministru kabineta noteikumiem.
 (2) Ministru kabinets nosaka produktu grupas, izplatīšanas veidu un kārtību, kā arī laikposmu, kādā pārtiku, kura marķēta ar norādi "Ieteicams līdz..", atļauts izplatīt pēc minimālā derīguma termiņa beigām.
+(3) Ministru kabinets nosaka prasības un izmantošanas kārtību tādu pārtikas izejvielu izmantošanai ražošanā pēc to minimālā derīguma termiņa beigām, kuras marķētas ar norādi "Ieteicams līdz..".

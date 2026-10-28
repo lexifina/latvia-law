@@ -1,0 +1,1 @@
+33. Līdz 2026. gada 8. jūnijam noslēgto pārtikas produktu piegādes un ēdināšanas pakalpojumu līgumus, kas noslēgti, piemērojot zaļā publiskā iepirkuma prasības, Pārtikas un veterinārais dienests uzrauga un kontrolē līdz attiecīgo līgumu darbības beigām.

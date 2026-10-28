@@ -9,4 +9,6 @@
 5) Eiropas Savienības tieši piemērojamos normatīvajos aktos pārtikas aprites jomā noteiktajos gadījumos izvērtē un nosūta Eiropas Komisijai un Eiropas Pārtikas nekaitīguma iestādei no uzņēmumiem saņemtos iesniegumus par jaunām izejvielām un ražošanas procesiem;
 6) veic kompetentajai iestādei paredzētos uzdevumus attiecībā uz sadarbību ar Eiropas Komisiju un Eiropas Pārtikas nekaitīguma iestādi atbilstoši prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulā Nr. 1924/2006 par uzturvērtības un veselīguma norādēm uz pārtikas produktiem;
 7) pēc pārtikas uzņēmuma pieprasījuma nodrošina pārtikas uzņēmuma paškontroles laboratorijas metodisko vadību;
-8) pilda references laboratorijas funkcijas pārtikas aprites jomā.
+8) pilda Eiropas Parlamenta un Padomes regulas (ES) 2017/625 par oficiālajām kontrolēm 101. pantā noteiktos references laboratorijas pienākumus un uzdevumus pārtikas aprites jomā.
+(5) (Daļa stājas spēkā 01.07.2027. un iekļauta likuma redakcijā uz 01.07.2027. Sk. pārejas noteikumu 35. punktu)
+(6) (Daļa stājas spēkā 01.07.2027. un iekļauta likuma redakcijā uz 01.07.2027. Sk. pārejas noteikumu 35. punktu)
