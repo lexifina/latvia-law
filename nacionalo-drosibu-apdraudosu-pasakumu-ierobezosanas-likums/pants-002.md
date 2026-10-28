@@ -6,5 +6,6 @@
 4) diplomātiskajā vai konsulārajā dienestā nodarbinātajiem;
 5) tiesu vai prokuratūras iestādēs nodarbinātajiem;
 6) Saeimas deputātiem;
-7) personām, ar kurām Saeima nodibinājusi darba tiesiskās attiecības uz nenoteiktu laiku.
+7) personām, ar kurām Saeima nodibinājusi darba tiesiskās attiecības uz nenoteiktu laiku;
+8) pašvaldību domju deputātiem.
 (3) Ar izbraukšanas aizliegumu šajā likumā saprot arī aizliegumu šķērsot Krievijas Federācijas un Baltkrievijas Republikas teritoriju tranzītā.
