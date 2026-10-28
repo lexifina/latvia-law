@@ -5,7 +5,7 @@
 3) privātie dokumenti ar arhīvisko vērtību, ievērojot šā panta otrajā daļā noteikto;
 4) no ārvalstīm iegūtie dokumenti ar arhīvisko vērtību vai apliecinātas to kopijas.
 (2) Privāto dokumentu ar arhīvisko vērtību var iekļaut nacionālajā dokumentārajā mantojumā pēc dokumenta īpašnieka vai Latvijas Nacionālā arhīva ierosinājuma saskaņā ar pušu noslēgtu līgumu, ievērojot šajā likumā noteikto kārtību.
-(3) Dokumentu ar Latvijas Nacionālā arhīva direktora lēmumu izslēdz no nacionālā dokumentārā mantojuma Ministru kabineta noteiktajā kārtībā, ja:
+(3) Dokumentu ar Latvijas Nacionālā arhīva lēmumu izslēdz no nacionālā dokumentārā mantojuma, ja:
 1) dokuments ir gājis bojā vai zudis;
 2) dokumentam ir būtiski bojājumi un to nav iespējams atjaunot vai izmantot;
 3) tiek atrasti vairāki dokumenta eksemplāri vai beidzas dokumenta glabāšanas termiņš;

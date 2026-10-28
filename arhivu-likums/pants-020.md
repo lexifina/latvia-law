@@ -14,4 +14,4 @@
 11) izveido un uztur nepieciešamās informācijas sistēmas šajā likumā noteikto funkciju veikšanai;
 11¹) sniedz atzinumus par publisko dokumentu un arhīvu pārvaldību reglamentējošo normatīvo aktu projektiem;
 12) pilda citas likumā noteiktās funkcijas.
-(3) Ministru kabinets nosaka Latvijas Nacionālā arhīva dokumentu uzkrāšanas, nodošanas un pieņemšanas glabāšanā, uzskaites, aprakstīšanas un pieejamības kārtību, kā arī dokumentu saglabāšanas tehniskās prasības.
+(3) (Izslēgta ar 01.10.2026. likumu)

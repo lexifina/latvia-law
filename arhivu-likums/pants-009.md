@@ -7,4 +7,4 @@ integritāti - ir pilnīgs un negrozīts;
 4) pārvēršanas process ietver pārbaudi un kontroli, kas nodrošina iegūtā dokumenta atbilstību publiskajam dokumentam;
 5) pārvēršanas procesā dokuments tiek aizsargāts pret neatļautu piekļūšanu, papildinājumiem, izmaiņām vai iznīcināšanu;
 6) pārvēršanas process tiek dokumentēts.
-(2) Ministru kabinets nosaka kārtību, kādā publiskie dokumenti tiek pārvērsti elektroniskā formā glabāšanai elektroniskā vidē, pārvēršanas tehniskās prasības, kā arī kārtību, kādā glabājami iegūtie dokumenti un tiek iznīcināti pārvērstie publiskie dokumenti.
+(2) (Izslēgta ar 01.10.2026. likumu)

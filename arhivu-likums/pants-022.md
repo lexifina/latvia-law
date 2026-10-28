@@ -8,5 +8,5 @@ Latvijas Nacionālajam arhīvam likumā noteiktās kompetences ietvaros ir ties�
 5) sadarboties ar ārvalstu arhīviem un starptautiskajām profesionālajām organizācijām dokumentu un arhīvu pārvaldības jomā;
 6) izsniegt uzkrāto publisko dokumentu oriģinālus uz laiku, ievērojot šā likuma 12.panta sestajā daļā noteikto kārtību;
 7) veikt izdevējdarbību arhīva dokumentu popularizēšanai;
-8) sniegt Ministru kabineta noteiktos maksas pakalpojumus;
+8) sniegt Latvijas Nacionālā arhīva direktora noteiktos maksas pakalpojumus;
 9) citas likumā noteiktās tiesības.
