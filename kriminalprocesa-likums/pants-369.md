@@ -13,3 +13,4 @@
 2) tieši konstatējot noziedzīga nodarījuma acīm redzamas sekas;
 3) veicot kriminālprocesu par citu noziedzīgu nodarījumu;
 4) veicot citas likumos noteiktās funkcijas - pārbaudes, operatīvo darbību utt.
+(5) Kriminālprocesu par Krimināllikuma 211.¹ pantā paredzētā noziedzīga nodarījuma iespējamu izdarīšanu var uzsākt, ja ir saņemts Konkurences padomes iesniegums.

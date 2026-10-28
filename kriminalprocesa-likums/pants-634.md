@@ -7,6 +7,7 @@
 2) ieslodzījuma vietai - ja piemērots brīvības atņemšanas sods vai īslaicīga brīvības atņemšana un persona atrodas ieslodzījumā;
 3) Valsts probācijas dienestam - ja piespriests sabiedriskais darbs vai probācijas uzraudzība;
 4) institūcijai, kas ir kompetenta uzraudzīt attiecīgā tiesību ierobežojuma ievērošanu (ja tāda ir), - ja piemērota tiesību ierobežošana;
+4¹) Latvijas Zvērinātu advokātu padomei - ja tās kompetences ietvaros ir lemjams jautājums par personas profesionālās darbības ierobežojumiem;
 5) tiesai pēc piekritības maksātnespējas procesa lietas ierosināšanai - ja juridiskajai personai piemērota likvidācija;
 6) Valsts policijai - personas aizturēšanai un nodošanai brīvības atņemšanas iestādei, ja sabiedriskais darbs vai naudas sods aizstāts ar īslaicīgu brīvības atņemšanu vai brīvības atņemšanu, probācijas uzraudzība aizstāta ar brīvības atņemšanu vai piemērots brīvības atņemšanas sods un persona neatrodas ieslodzījumā;
 7) tiesai pēc piekritības - ja tiesa lemj par noziedzīgi iegūtas mantas (nekustamā īpašuma) atdošanu pēc piederības īpašniekam vai likumīgajam valdītājam.

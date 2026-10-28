@@ -3,6 +3,7 @@
 1) likumā paredzētajos gadījumos lemt par piespiedu līdzekļa piemērošanu;
 2) lemt par aizdomās turētā un apsūdzētā pieteikumiem par to drošības līdzekļu grozīšanu vai atcelšanu, kuri piemēroti ar izmeklēšanas tiesneša lēmumu;
 3) likumā paredzētajos gadījumos izskatīt sūdzības par procesa virzītāja piemēroto drošības līdzekli;
+3¹) izskatīt sūdzības par aizturēšanas nosacījumu vai kārtības neievērošanu;
 4) likumā paredzētajos gadījumos lemt par procesuālo darbību veikšanu;
 5) (izslēgts ar 12.03.2009. likumu);
 6) lemt par sūdzībām attiecībā uz tādu noslēpumu neattaisnotu pārkāpšanu kriminālprocesā, kurus aizsargā likums;

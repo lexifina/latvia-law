@@ -10,4 +10,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 9) Eiropas Parlamenta un Padomes 2014. gada 3. aprīļa direktīvas 2014/42/ES par nozieguma rīku un noziedzīgi iegūtu līdzekļu iesaldēšanu un konfiskāciju Eiropas Savienībā;
 10) Eiropas Parlamenta un Padomes 2016. gada 9. marta direktīvas (ES) 2016/343 par to, lai nostiprinātu konkrētus nevainīguma prezumpcijas aspektus un tiesības piedalīties klātienē lietas izskatīšanā tiesā kriminālprocesā;
 11) Eiropas Parlamenta un Padomes 2016. gada 11. maija direktīvas (ES) 2016/800 par procesuālajām garantijām bērniem, kuri ir aizdomās turētie vai apsūdzētie kriminālprocesā;
-12) Eiropas Parlamenta un Padomes 2016. gada 26. oktobra direktīvas (ES) 2016/1919 par juridisko palīdzību aizdomās turētajiem un apsūdzētajiem kriminālprocesā un pieprasītajām personām Eiropas apcietināšanas ordera procesā.
+12) Eiropas Parlamenta un Padomes 2016. gada 26. oktobra direktīvas (ES) 2016/1919 par juridisko palīdzību aizdomās turētajiem un apsūdzētajiem kriminālprocesā un pieprasītajām personām Eiropas apcietināšanas ordera procesā;
+13) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1712, ar ko groza direktīvu 2011/36/ES par cilvēku tirdzniecības novēršanu un apkarošanu un cietušo aizsardzību.

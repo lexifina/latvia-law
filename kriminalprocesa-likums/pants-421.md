@@ -15,9 +15,10 @@
 7) apsūdzētā atbildību pastiprinošos un mīkstinošos apstākļus;
 8) priekšraksta par sodu piemērošanas iemeslu un pamatu.
 (5) Priekšraksta par sodu rezolutīvajā daļā norāda prokurora lēmumu par:
-1) piemēroto sodu;
+1) piemērotā soda veidu un mēru par katru noziedzīgu nodarījumu un galīgo sodu;
 2) drošības līdzekļa atcelšanu;
 3) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
+3¹) apsūdzētajam piemēroto galīgo sodu, kas izciešams, kad soda termiņā ieskaitīti ar brīvības atņemšanu saistīto drošības līdzekļu termiņi;
 4) kaitējuma kompensāciju, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta par sodu spēkā stāšanās dienas -, un pienākumu iesniegt prokuroram dokumentus par kaitējuma kompensācijas atlīdzināšanu;
 5) noziedzīga nodarījuma izdarīšanas priekšmeta, ar noziedzīgu nodarījumu saistītās mantas un noziedzīgi iegūtās mantas, kā arī mantas noziedzīgi iegūtu līdzekļu apmērā gadījumos, kad noziedzīgi iegūtā manta ir sajaukta ar legāli iegūtiem līdzekļiem, konfiskāciju vai piedziņu, kā arī rīcību ar lietiskajiem pierādījumiem, arestēto mantu, dokumentiem, ar noziedzīgu nodarījumu saistīto mantu, citiem procesa laikā izņemtajiem priekšmetiem un vērtībām;
 5¹) ar noziedzīgu nodarījumu saistītās mantas vērtības piedziņu, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no priekšraksta par sodu spēkā stāšanās dienas - un pienākumu iesniegt prokuroram dokumentus par mantas vērtības atlīdzināšanu;

@@ -2,6 +2,7 @@
 (1) Aizturētajam ir šā likuma 60.² pantā noteiktās pamattiesības, kā arī tiesības:
 1) iepazīties ar aizturēšanas protokolu un saņemt izrakstu no šā likuma par aizturētā tiesībām un pienākumiem;
 2) mutvārdos vai rakstveidā izteikt savu attieksmi attiecībā uz aizturēšanas pamatotību;
+2¹) iesniegt sūdzību par aizturēšanas nosacījumu vai kārtības neievērošanu izmeklēšanas tiesnesim;
 3) pieteikt noraidījumu;
 4) iesniegt sūdzības par amatpersonu rīcību;
 5) pieteikt lūgumus par to izmeklēšanas darbību neatliekamu veikšanu, kuru rezultātā var tikt iegūti pierādījumi aizdomu nepamatotības apstiprināšanai.

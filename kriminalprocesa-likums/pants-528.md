@@ -7,7 +7,7 @@
 5) apsūdzētajam piemēroto ar brīvības atņemšanu saistīto drošības līdzekļu termiņu ieskaitīšanu soda termiņā;
 5¹) apsūdzētajam piespriesto galīgo sodu, kas jāizcieš, kad ir noteikts sods par vairākiem noziedzīgiem nodarījumiem un ir ieskaitīti ar brīvības atņemšanu saistīto drošības līdzekļu termiņi;
 6) (izslēgts ar 13.06.2024. likumu);
-7) drošības līdzekli;
+7) drošības līdzekli, norādot šā likuma normu, uz kuras pamata tiek piemērots vai turpināts attiecīgais drošības līdzeklis;
 8) apsūdzētā attaisnošanu daļā apsūdzības, ja tiesa to atzinusi;
 9) kaitējuma kompensāciju, tai skaitā valsts izmaksātās kompensācijas apmēru, nosakot termiņu tās labprātīgai atlīdzināšanai - 30 dienas no sprieduma spēkā stāšanās dienas -, un pienākumu iesniegt tiesai dokumentus par kaitējuma kompensācijas atlīdzināšanu;
 10) kaitējuma kompensācijas vai mantas konfiskācijas nodrošināšanu, ja tas nav izdarīts agrāk;

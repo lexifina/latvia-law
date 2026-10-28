@@ -1,5 +1,6 @@
 321.pants. Iepazīstināšana ar nolēmumu vai kopijas izsniegšana
 (1) Personu, kura iesaistīta kriminālprocesā un kuras tiesības un intereses skar pieņemtais nolēmums, tās aizstāvi un pārstāvi, kā arī personu, uz kuras iesnieguma, pieteikuma vai lūguma pamata nolēmums pieņemts, iepazīstina ar nolēmumu pirms tā izpildes uzsākšanas, ja izpilde notiek ar attiecīgās personas piedalīšanos.
+(1¹) Procesa virzītājs informē aizskarto mantas īpašnieku par gala nolēmuma pieņemšanu kriminālprocesā.
 (2) Likumā noteiktajos gadījumos iepazīstināšana ar pirmstiesas procesā pieņemtajiem lēmumiem notiek tikai pēc konkrētās izmeklēšanas darbības pabeigšanas vai pabeidzot pirmstiesas procesu.
 (3) Tiesas sprieduma vai lēmuma, ar kuru tiek pabeigta tiesvedība, kopiju ne vēlāk kā nākamajā dienā pēc tā pilna teksta sagatavošanas nosūta apsūdzētajam, kurš ir apcietinājumā vai mājas arestā.
 (4) Likumā noteiktajos gadījumos, paziņojot personai par pieņemto nolēmumu, tā kopiju vai paziņojumu par pieņemto nolēmumu var nosūtīt uz personas norādīto sūtījumu saņemšanas pasta vai elektronisko adresi.

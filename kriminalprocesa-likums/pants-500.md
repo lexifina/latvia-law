@@ -5,4 +5,5 @@
 (4) Tiesa var uzdot jautājumus jebkurā lietas iztiesāšanas brīdī.
 (5) Tiesa pēc prokurora, cietušā, apsūdzētā un viņa aizstāvja lūguma var noteikt citu pierādījumu pārbaudes kārtību.
 (6) Ja krimināllietā kā pierādījumu izmanto operatīvās darbības pasākumos iegūtās ziņas, tikai tiesa pēc prokurora, cietušā, apsūdzētā vai viņa aizstāvja motivēta lūguma drīkst iepazīties ar tiem operatīvās darbības materiāliem, kuri nav pievienoti krimināllietai un kuri attiecas uz pierādīšanas priekšmetu, lietas materiālos un nolēmumā norādot, ka šie materiāli ir izvērtēti.
+(6¹) Tikai tiesa pēc prokurora, cietušā, apsūdzētā vai viņa aizstāvja motivēta lūguma drīkst iepazīties ar speciālo izmeklēšanas darbību rezultātā iegūtajiem materiāliem, kuri satur valsts noslēpumu un netiek pievienoti krimināllietai, nolēmumā norādot, ka šie materiāli ir izvērtēti.
 (7) Ja krimināllieta tiek saņemta jaunai izskatīšanai no apelācijas vai kasācijas instances tiesas vai krimināllietas iztiesāšanu sāk no jauna, iepriekš tiesā nopratinātos lieciniekus, cietušos, ekspertus un speciālistus uzaicina pēc prokurora, cietušā, apsūdzētā vai viņa aizstāvja lūguma.

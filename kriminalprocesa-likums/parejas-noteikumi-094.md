@@ -1,0 +1,1 @@
+94. Pieteikumu par tiesas nolēmuma izskatīšanu no jauna aizskartā mantas īpašnieka uzdevumā advokāts var iesniegt lietās, kurās tiesas nolēmums stājies spēkā pēc attiecīgo grozījumu pieņemšanas šā likuma 63. nodaļā.

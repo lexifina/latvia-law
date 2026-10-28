@@ -1,0 +1,1 @@
+95. Pieteikumu par kriminālprocesa atjaunošanu sakarā ar jaunatklātiem apstākļiem saskaņā ar šā likuma 655. panta otrās daļas 3.¹ punktā noteikto aizskartā mantas īpašnieka uzdevumā advokāts var iesniegt lietās, kurās tiesas nolēmums stājies spēkā pēc šā likuma 655. panta otrās daļas 3.¹ punkta spēkā stāšanās.
