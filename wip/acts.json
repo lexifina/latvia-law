@@ -26,5 +26,13 @@
   "likumi_slug": "fizisko-personu-datu-apstrades-likums",
   "short": "FPDAL",
   "title": "Fizisko personu datu apstrādes likums"
- }
+ },
+ "_law_titles": {
+  "88967": "Pārgrozījumi Latvijas Republikas Satversmes 74. un 79. pantā"
+ },
+ "_decisions": [
+  "Satversme: the only archived capture of the 1922 base version (2021-11-13) reads \"Valsts prezidents\" in art. 52, where every later version and the 1993 official republication (Latvijas Vēstnesis Nr. 43, 01.07.1993) read \"Valsts Prezidents\"; the change shows on 1933-04-14 as an unexplained publisher change.",
+  "Satversme: the 1922 text is kept as likumi.lv gives it from 7 November 1922. Its operation was interrupted from 1934 and under occupation (1940-1990) and restored in full on 6 July 1993 (Likums par Latvijas Republikas Satversmes spēkā stāšanos un ievešanu); these events changed no words and are described in the README, not committed.",
+  "Satversme: the 1933 amending law (21.03.1933., arts. 74 and 79) predates vestnesis.lv; its title is the one likumi.lv gives and its publication day is left empty."
+ ]
 }

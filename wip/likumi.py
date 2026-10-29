@@ -138,10 +138,10 @@ def heading_key(text: str, used: set) -> str:
             k = f'nodala-{int(m2.group(1)):02d}' + (f'-{m2.group(2)}' if m2.group(2) else '')
         else:
             low = t.lower()
-            if low.startswith('vispārējā daļa'):
-                k = 'dala-1-visparejā'
+            if low.startswith('vispārējā daļa') or low.startswith('vispārīgā daļa'):
+                k = 'dala-1-vispariga'
             elif low.startswith('sevišķā daļa'):
-                k = 'dala-2-sevisķa'
+                k = 'dala-2-seviska'
             elif low.startswith('pārejas noteikumi'):
                 k = 'parejas-noteikumi'
             elif low.startswith('informatīva atsauce'):
@@ -163,9 +163,9 @@ def ascii_fold(s: str) -> str:
     return s.translate(FOLD)
 
 
-def art_key(num: str) -> str:
-    parts = num.split('.')
-    return 'pants-' + '-'.join([f'{int(parts[0]):03d}'] + [p for p in parts[1:] if p])
+def art_key(num: str, prefix: str = 'pants') -> str:
+    parts = [x for x in re.split(r'[._]', num) if x]
+    return f'{prefix}-' + '-'.join([f'{int(parts[0]):03d}'] + parts[1:])
 
 
 def parse_page(raw: bytes, own_id: int) -> dict:
@@ -178,40 +178,59 @@ def parse_page(raw: bytes, own_id: int) -> dict:
            'order': []}
     used: set = set()
     parent = None
-    section = None  # 'pn' inside transitional provisions, 'es' inside the EU-directive note
+    seen_heading = False
+    es = False
     for blk in body.find_all(recursive=False):
         cls = blk.get('class') or []
         if not any(c.startswith('TV') for c in cls):
             continue
         tv = next(c for c in cls if c.startswith('TV'))
         events = []
+        izsl = []
         for p in blk.find_all('p', class_='labojumu_pamats'):
-            events += note_events(p, own_id)
+            ev = note_events(p, own_id)
+            events += ev
+            if p.get_text().strip().startswith('(Izslēgts') or p.get_text().strip().startswith('(Izslēgta'):
+                izsl += ev
         lines = lines_of(blk)
         if not lines:
             continue
         if tv in ('TV206', 'TV207'):
             continue
         num = blk.get('data-num')
-        if tv == 'TV213' and num and section is None:
+        pfx = blk.get('data-pfx') or ''
+        if tv == 'TV213' and not num:
+            # older likumi.lv markup (captures before about 2016): the number is only in the anchor, p12 / pn3
+            for a in blk.find_all('a'):
+                m = re.fullmatch(r'(pn|p)(\d+(?:[._]\d+)*)', a.get('name') or '')
+                if m:
+                    pfx, num = m.group(1), m.group(2)
+                    break
+        if tv == 'TV213' and num and pfx == 'pn':
+            key, kind = art_key(num, 'parejas-noteikumi'), 'transitional'
+            label = f'Pārejas noteikumu {num.replace("_", ".")}. punkts'
+        elif tv == 'TV213' and num:
             key, kind = art_key(num), 'art'
-            label = f'{num}. pants'
-        elif tv == 'TV208':
+            label = f'{num.replace("_", ".")}. pants'
+        elif tv == 'TV208' and es:
+            key, kind, label = 'zz-es-direktivas-teksts', 'eu-note', 'Informatīva atsauce uz ES direktīvām (teksts)'
+        elif tv == 'TV208' and not seen_heading:
             key, kind, label = 'ievads', 'preamble', 'Ievads'
+        elif tv == 'TV215':
+            key, kind, label = 'zz-pienemts', 'enactment', 'Pieņemšanas ziņas'
         elif tv == 'TV216':
             key, kind, label = 'zz-paraksti', 'signatures', 'Paraksti'
-        elif tv in ('TV211', 'TV212', 'TV210', 'TV209') and not num:
+        elif tv == 'TV217':
+            key, kind, label = 'zz-vieta-datums', 'enactment', 'Izsludināšanas vieta un datums'
+        elif tv == 'TV403' or (not num and lines[0].lower().startswith('informatīva atsauce')):
+            key, kind, label = 'zz-es-direktivas', 'heading', lines[0]
+            es = True
+            parent = key
+        elif not num and tv in ('TV209', 'TV210', 'TV211', 'TV212', 'TV214'):
+            seen_heading = True
             key = heading_key(lines[0], used)
             kind, label = 'heading', lines[0]
-            if key == 'parejas-noteikumi':
-                section = 'pn'
-            elif key == 'zz-es-direktivas':
-                section = 'es'
             parent = key
-        elif section == 'pn' and num:
-            key, kind, label = 'parejas-noteikumi-' + '-'.join(f'{int(x):03d}' if i == 0 else x for i, x in enumerate(num.split('.')) if x), 'transitional', f'Pārejas noteikumu {num}. punkts'
-        elif section == 'es':
-            key, kind, label = f'zz-es-direktivas-{len([k for k in out["order"] if k.startswith("zz-es-direktivas-")]) + 1:02d}', 'eu-note', 'Informatīva atsauce uz ES direktīvām'
         else:
             key = f'zz-bloks-{tv.lower()}-{len(out["order"]) + 1:03d}'
             kind, label = 'other', tv
@@ -223,14 +242,18 @@ def parse_page(raw: bytes, own_id: int) -> dict:
         used.add(key)
         text_lines = [l for l in lines]
         whole = ' '.join(text_lines)
-        if kind in ('art', 'transitional') and re.fullmatch(r'[\d.]*\s*\(Izslēgts[^)]*\)\.?', whole) or \
-                (kind in ('art', 'transitional') and re.fullmatch(r'[\d.]+\s*\[?\(?Izslēgts.*', whole) and len(whole) < 200):
-            evs = []
-            for a_p in blk.find_all(['span', 'p']):
-                if 'Izslēgts' in a_p.get_text():
-                    evs = note_events(a_p, own_id)
-                    break
-            out['removed'][key] = {'label': label, 'events': evs or events}
+        gone = None
+        if kind in ('art', 'transitional'):
+            if re.fullmatch(r'[\d.]*\s*(?:pants\.?)?\s*\(Izslēgt[sa][^)]*\)\.?', whole):
+                for a_p in blk.find_all(['span', 'p']):
+                    if 'Izslēgt' in a_p.get_text() and 'labojumu_pamats' not in (a_p.get('class') or []):
+                        gone = note_events(a_p, own_id)
+                        break
+                gone = gone or events
+            elif izsl and len(text_lines) == 1:
+                gone = izsl
+        if gone is not None:
+            out['removed'][key] = {'label': label, 'events': gone}
             out['order'].append(key)
             continue
         out['units'][key] = {'label': label, 'kind': kind, 'text': '\n'.join(text_lines) + '\n', 'events': events,

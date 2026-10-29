@@ -1,0 +1,22 @@
+{
+ "satversme": {
+  "newest_capture": {
+   "ts": "20261018221609",
+   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme"
+  },
+  "shows_version": "2019-01-01",
+  "units": 125,
+  "mismatches": [],
+  "versions": 17
+ },
+ "kriminallikums": {
+  "newest_capture": {
+   "ts": "20261019201722",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums"
+  },
+  "shows_version": "2026-10-15",
+  "units": 534,
+  "mismatches": [],
+  "versions": 82
+ }
+}

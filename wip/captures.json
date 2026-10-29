@@ -153,5 +153,764 @@
     "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2019/01/01"
    }
   }
+ },
+ "kriminallikums": {
+  "likumi_id": 88966,
+  "newest": {
+   "ts": "20261019201722",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums"
+  },
+  "versions": [
+   {
+    "from": "1999-04-01",
+    "until": null,
+    "status": "class='s-2'&gt;Pamata&lt;/font&gt;"
+   },
+   {
+    "from": "2000-06-15",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2000-06-28",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2001-07-12",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2002-05-23",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2002-11-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2002-11-20",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2003-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2003-05-14",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2003-07-15",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-01-02",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-01-17",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-02-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-05-26",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-06-18",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2004-06-24",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-01-11",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-06-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-06-24",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-10-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2005-11-03",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2006-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2006-01-05",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2006-03-22",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2006-11-15",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2007-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2007-07-19",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2008-01-12",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2008-09-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2008-11-27",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2009-07-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2009-10-14",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2009-12-23",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2011-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2011-07-13",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2011-10-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2011-10-04",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2012-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2013-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2013-04-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2014-04-03",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2014-04-09",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2014-06-14",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2014-10-29",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2015-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2015-02-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2015-02-19",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2015-12-02",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2015-12-03",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2016-03-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2016-04-07",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2016-05-11",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2017-01-12",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2017-08-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2018-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2018-05-23",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2018-11-07",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2019-07-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2019-07-03",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2020-07-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2020-07-06",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2020-09-29",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2021-02-02",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2021-08-05",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2021-11-14",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2022-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2022-05-04",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2022-06-23",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2022-11-03",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2022-11-25",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2023-05-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2023-07-15",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2023-10-20",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2023-12-30",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2024-05-22",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2024-07-04",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2024-10-22",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2025-01-01",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2025-06-10",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2026-04-16",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2026-07-10",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2026-10-15",
+    "until": null,
+    "status": "esošā&lt;/font&gt;"
+   }
+  ],
+  "chosen": {
+   "2000-06-15": {
+    "ts": "20191113170737",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2000/06/15"
+   },
+   "2000-06-28": {
+    "ts": "20191214141031",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2000/06/28"
+   },
+   "2001-07-12": {
+    "ts": "20150606131122",
+    "url": "http://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2001/07/12"
+   },
+   "2002-05-23": {
+    "ts": "20191122023805",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/05/23"
+   },
+   "2002-11-01": {
+    "ts": "20191214133601",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/11/01"
+   },
+   "2002-11-20": {
+    "ts": "20240730185345",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/11/20"
+   },
+   "2003-01-01": {
+    "ts": "20240730185349",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/01/01"
+   },
+   "2003-05-14": {
+    "ts": "20150606170649",
+    "url": "http://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/05/14"
+   },
+   "2003-07-15": {
+    "ts": "20260821153627",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/07/15"
+   },
+   "2004-01-01": {
+    "ts": "20191208164819",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/01"
+   },
+   "2004-01-02": {
+    "ts": "20241225235059",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/02"
+   },
+   "2004-01-17": {
+    "ts": "20191121042136",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/17"
+   },
+   "2004-02-01": {
+    "ts": "20240730185404",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/02/01"
+   },
+   "2004-05-26": {
+    "ts": "20191209193039",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/05/26"
+   },
+   "2004-06-18": {
+    "ts": "20191211034950",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/06/18"
+   },
+   "2004-06-24": {
+    "ts": "20191213134605",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/06/24"
+   },
+   "2005-01-01": {
+    "ts": "20191207121207",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/01/01"
+   },
+   "2005-01-11": {
+    "ts": "20191211195319",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/01/11"
+   },
+   "2005-06-01": {
+    "ts": "20251225130337",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/06/01"
+   },
+   "2005-06-24": {
+    "ts": "20191211032524",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/06/24"
+   },
+   "2005-10-01": {
+    "ts": "20260918215755",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/10/01"
+   },
+   "2005-11-03": {
+    "ts": "20191206161245",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/11/03"
+   },
+   "2006-01-01": {
+    "ts": "20191113225134",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/01/01"
+   },
+   "2006-01-05": {
+    "ts": "20241220042118",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/01/05"
+   },
+   "2006-03-22": {
+    "ts": "20191018042802",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/03/22"
+   },
+   "2006-11-15": {
+    "ts": "20190820003818",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/11/15"
+   },
+   "2007-01-01": {
+    "ts": "20260821160212",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2007/01/01"
+   },
+   "2007-07-19": {
+    "ts": "20191206013050",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2007/07/19"
+   },
+   "2008-01-12": {
+    "ts": "20191209132750",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/01/12"
+   },
+   "2008-09-01": {
+    "ts": "20191206011848",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/09/01"
+   },
+   "2008-11-27": {
+    "ts": "20191206014538",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/11/27"
+   },
+   "2009-07-01": {
+    "ts": "20251225203108",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/07/01"
+   },
+   "2009-10-14": {
+    "ts": "20191206013612",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/10/14"
+   },
+   "2009-12-23": {
+    "ts": "20261011231524",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/12/23"
+   },
+   "2011-01-01": {
+    "ts": "20241226072312",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/01/01"
+   },
+   "2011-07-13": {
+    "ts": "20191216025622",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/07/13"
+   },
+   "2011-10-01": {
+    "ts": "20241222172148",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/10/01"
+   },
+   "2011-10-04": {
+    "ts": "20191208135143",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/10/04"
+   },
+   "2012-01-01": {
+    "ts": "20240730185337",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2012/01/01"
+   },
+   "2013-01-01": {
+    "ts": "20190818044906",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2013/01/01"
+   },
+   "2013-04-01": {
+    "ts": "20241225080155",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2013/04/01"
+   },
+   "2014-04-03": {
+    "ts": "20241217191524",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/04/03"
+   },
+   "2014-06-14": {
+    "ts": "20241219010506",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/06/14"
+   },
+   "2014-10-29": {
+    "ts": "20241225170348",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/10/29"
+   },
+   "2015-01-01": {
+    "ts": "20240730185331",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/01/01"
+   },
+   "2015-02-01": {
+    "ts": "20241226023544",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/02/01"
+   },
+   "2015-02-19": {
+    "ts": "20250221085055",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/02/19"
+   },
+   "2015-12-02": {
+    "ts": "20241216140834",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/12/02"
+   },
+   "2015-12-03": {
+    "ts": "20260114011738",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/12/03"
+   },
+   "2016-03-01": {
+    "ts": "20240730185338",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/03/01"
+   },
+   "2016-04-07": {
+    "ts": "20240730185416",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/04/07"
+   },
+   "2016-05-11": {
+    "ts": "20241226095453",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/05/11"
+   },
+   "2017-01-12": {
+    "ts": "20261010171927",
+    "url": "https://likumi.lv/ta/id/88966/redakcijas-datums/2017/01/12"
+   },
+   "2017-08-01": {
+    "ts": "20241225070507",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2017/08/01"
+   },
+   "2018-01-01": {
+    "ts": "20260322070445",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/01/01"
+   },
+   "2018-05-23": {
+    "ts": "20241213201659",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/05/23"
+   },
+   "2018-11-07": {
+    "ts": "20200730044003",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/11/07"
+   },
+   "2019-07-01": {
+    "ts": "20200730062559",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2019/07/01"
+   },
+   "2019-07-03": {
+    "ts": "20251221192223",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2019/07/03"
+   },
+   "2020-07-01": {
+    "ts": "20200730050950",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/07/01"
+   },
+   "2020-07-06": {
+    "ts": "20260821165852",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/07/06"
+   },
+   "2020-09-29": {
+    "ts": "20210111154501",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/09/29"
+   },
+   "2021-02-02": {
+    "ts": "20241217223548",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/02/02"
+   },
+   "2021-08-05": {
+    "ts": "20260112214702",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/08/05"
+   },
+   "2021-11-14": {
+    "ts": "20240730185336",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/11/14"
+   },
+   "2022-01-01": {
+    "ts": "20250618172411",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/01/01"
+   },
+   "2022-05-04": {
+    "ts": "20241217205302",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/05/04"
+   },
+   "2022-06-23": {
+    "ts": "20241219022052",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/06/23"
+   },
+   "2022-11-03": {
+    "ts": "20260322110543",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/11/03"
+   },
+   "2022-11-25": {
+    "ts": "20241217223736",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/11/25"
+   },
+   "2023-05-01": {
+    "ts": "20260322080015",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/05/01"
+   },
+   "2023-07-15": {
+    "ts": "20241216160842",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/07/15"
+   },
+   "2023-10-20": {
+    "ts": "20241223085859",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/10/20"
+   },
+   "2023-12-30": {
+    "ts": "20250515101250",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/12/30"
+   },
+   "2024-05-22": {
+    "ts": "20241216030739",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/05/22"
+   },
+   "2024-07-04": {
+    "ts": "20260322062631",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/07/04"
+   },
+   "2024-10-22": {
+    "ts": "20260322233549",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/10/22"
+   },
+   "2025-01-01": {
+    "ts": "20261013165807",
+    "url": "https://likumi.lv/ta/id/88966/redakcijas-datums/2025/01/01"
+   },
+   "2025-06-10": {
+    "ts": "20260322055056",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2025/06/10"
+   },
+   "2026-04-16": {
+    "ts": "20261011231039",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2026/04/16"
+   },
+   "2026-07-10": {
+    "ts": "20260821153116",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2026/07/10"
+   },
+   "2026-10-15": {
+    "ts": "20261019201722",
+    "url": "https://likumi.lv/ta/id/88966-kriminallikums"
+   }
+  }
  }
 }
