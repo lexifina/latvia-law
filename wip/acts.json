@@ -1,0 +1,7 @@
+{
+ "satversme": {"likumi_id": 57980, "likumi_slug": "latvijas-republikas-satversme", "short": "Satversme",
+               "title": "Latvijas Republikas Satversme"},
+ "kriminallikums": {"likumi_id": 88966, "likumi_slug": "kriminallikums", "short": "KL", "title": "Krimināllikums"},
+ "fizisko-personu-datu-apstrades-likums": {"likumi_id": 300099, "likumi_slug": "fizisko-personu-datu-apstrades-likums",
+               "short": "FPDAL", "title": "Fizisko personu datu apstrādes likums"}
+}
