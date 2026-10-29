@@ -88,9 +88,69 @@
    }
   ],
   "chosen": {
-   "{\"selected\":{\"value\":\"01.01.2019\",\"content\":\"&lt;font class='s-1'&gt;01.01.2019.-...&lt;\\-font&gt; &lt;font class='s-3'&gt;Sp\\u0113k\\u0101 eso\\u0161\\u0101&lt;\\-font&gt;\"},\"data\":[{\"value\":\"01.01.2019\",\"iso_value\":\"2019\\-01\\-01\",\"content\":\"&lt;font class='s-1'&gt;01.01.2019.-...&lt;\\-font&gt; &lt;font class='s-3'&gt;Sp\\u0113k\\u0101 eso\\u0161\\u0101&lt;\\-font&gt;\"},{\"value\":\"14.06.2016\",\"iso_value\":\"2016\\-06\\-14\",\"content\":\"&lt;font class='s-1'&gt;14.06.2016.-31.12.2018.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"22.07.2014\",\"iso_value\":\"2014\\-07\\-22\",\"content\":\"&lt;font class='s-1'&gt;22.07.2014.-13.06.2016.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"18.10.2013\",\"iso_value\":\"2013\\-10\\-18\",\"content\":\"&lt;font class='s-1'&gt;18.10.2013.-21.07.2014.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"02.11.2010\",\"iso_value\":\"2010\\-11\\-02\",\"content\":\"&lt;font class='s-1'&gt;02.11.2010.-17.10.2013.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"31.05.2007\",\"iso_value\":\"2007\\-05\\-31\",\"content\":\"&lt;font class='s-1'&gt;31.05.2007.-01.11.2010.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"17.01.2006\",\"iso_value\":\"2006\\-01\\-17\",\"content\":\"&lt;font class='s-1'&gt;17.01.2006.-30.05.2007.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"21.10.2004\",\"iso_value\":\"2004\\-10\\-21\",\"content\":\"&lt;font class='s-1'&gt;21.10.2004.-16.01.2006.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"05.06.2003\",\"iso_value\":\"2003\\-06\\-05\",\"content\":\"&lt;font class='s-1'&gt;05.06.2003.-20.10.2004.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"24.05.2002\",\"iso_value\":\"2002\\-05\\-24\",\"content\":\"&lt;font class='s-1'&gt;24.05.2002.-04.06.2003.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"06.11.1998\",\"iso_value\":\"1998\\-11\\-06\",\"content\":\"&lt;font class='s-1'&gt;06.11.1998.-23.05.2002.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"31.12.1997\",\"iso_value\":\"1997\\-12\\-31\",\"content\":\"&lt;font class='s-1'&gt;31.12.1997.-05.11.1998.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"26.06.1996\",\"iso_value\":\"1996\\-06\\-26\",\"content\":\"&lt;font class='s-1'&gt;26.06.1996.-30.12.1997.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"26.02.1994\",\"iso_value\":\"1994\\-02\\-26\",\"content\":\"&lt;font class='s-1'&gt;26.02.1994.-25.06.1996.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"14.04.1933\",\"iso_value\":\"1933\\-04\\-14\",\"content\":\"&lt;font class='s-1'&gt;14.04.1933.-25.02.1994.&lt;\\-font&gt; &lt;font class='s-2'&gt;V\\u0113sturisk\\u0101&lt;\\-font&gt;\"},{\"value\":\"07.11.1922\",\"iso_value\":\"1922\\-11\\-07\",\"content\":\"&lt;font class='s-1'&gt;07.11.1922.-13.04.1933.&lt;\\-font&gt; &lt;font class='s-2'&gt;Pamata&lt;\\-font&gt;\"}]}": {
-    "ts": "20261018221609",
-    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme"
+   "1922-11-07": {
+    "ts": "20211113123824",
+    "url": "https://likumi.lv/ta/id/57980/redakcijas-datums/1922/11/07"
+   },
+   "1933-04-14": {
+    "ts": "20260906075005",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1933/04/14"
+   },
+   "1994-02-26": {
+    "ts": "20241211192223",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1994/02/26"
+   },
+   "1996-06-26": {
+    "ts": "20240921210528",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1996/06/26"
+   },
+   "1997-12-31": {
+    "ts": "20260215000753",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1997/12/31"
+   },
+   "1998-11-06": {
+    "ts": "20260214002750",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1998/11/06"
+   },
+   "2002-05-24": {
+    "ts": "20241211210329",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2002/05/24"
+   },
+   "2003-06-05": {
+    "ts": "20260906075005",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2003/06/05"
+   },
+   "2004-10-21": {
+    "ts": "20260906075005",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2004/10/21"
+   },
+   "2006-01-17": {
+    "ts": "20260212025706",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2006/01/17"
+   },
+   "2007-05-31": {
+    "ts": "20260906075005",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2007/05/31"
+   },
+   "2010-11-02": {
+    "ts": "20260217090309",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2010/11/02"
+   },
+   "2013-10-18": {
+    "ts": "20251123033634",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2013/10/18"
+   },
+   "2014-07-22": {
+    "ts": "20241211211934",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2014/07/22"
+   },
+   "2016-06-14": {
+    "ts": "20260214221300",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2016/06/14"
+   },
+   "2019-01-01": {
+    "ts": "20260217145243",
+    "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2019/01/01"
    }
   }
  }
