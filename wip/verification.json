@@ -15,8 +15,18 @@
    "url": "https://likumi.lv/ta/id/88966-kriminallikums"
   },
   "shows_version": "2026-10-15",
-  "units": 534,
+  "units": 535,
   "mismatches": [],
-  "versions": 82
+  "versions": 83
+ },
+ "fizisko-personu-datu-apstrades-likums": {
+  "newest_capture": {
+   "ts": "20261003064555",
+   "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums"
+  },
+  "shows_version": "2021-06-04",
+  "units": 58,
+  "mismatches": [],
+  "versions": 3
  }
 }

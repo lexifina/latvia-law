@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 
 ROMAN = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
 HIDDEN = ('panta-doc-npk', 'info-icon-wrapper', 'labojumu_pamats', 'tooltip', 'helper', 'court', 'panta-piezimite')
+SUP = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 BLOCK = {'p', 'div', 'br', 'li', 'tr', 'table', 'center', 'h1', 'h2', 'h3', 'h4', 'ul', 'ol', 'blockquote'}
 
 
@@ -51,7 +52,8 @@ def hidden(el: Tag) -> bool:
 
 
 def lines_of(el: Tag) -> list[str]:
-    """One line per paragraph (block element or <br>); sup numbers become '.N' suffix-free plain digits."""
+    """One line per paragraph (block element or <br>); superscript numbers (70.<sup>11</sup>) become Unicode
+    superscript digits (70.¹¹), as printed."""
     out, buf = [], []
 
     def flush():
@@ -73,7 +75,7 @@ def lines_of(el: Tag) -> list[str]:
                     flush()
                     continue
                 if c.name == 'sup':
-                    buf.append(c.get_text())
+                    buf.append(c.get_text().translate(SUP))
                     continue
                 blk = c.name in BLOCK
                 if blk:
@@ -106,9 +108,13 @@ def note_events(p: Tag, own_id: int) -> list[dict]:
         lid = int(m.group(1))
         if m.group(3):
             day = f'{m.group(3)}-{m.group(4)}-{m.group(5)}'
-            for e in pending:
-                e['in_force'] = day
+            # "ar A., B. un C. likumu, kas stājas spēkā D": D is C's day only; A and B stay undated here
+            for j, e in enumerate(pending):
+                e['in_force'] = day if j == len(pending) - 1 else None
                 events.append(e)
+            if not pending and events:
+                # a second day for the same law: "... stājas spēkā 01.10.2011. Grozījums ... stājas spēkā 01.01.2015."
+                events.append({**events[-1], 'in_force': day})
             pending = []
             continue
         if lid == own_id:
@@ -124,6 +130,24 @@ def note_events(p: Tag, own_id: int) -> list[dict]:
     for e in pending:
         e['in_force'] = None
         events.append(e)
+    if not any(e['law_id'] for e in events):
+        # some captures print the amending laws' dates without links: "ar 12.06.2003., ... un 17.12.2020. likumu, kas
+        # stājas spēkā 01.01.2022."; the law is found later from its date (parse.py, resolve_law_ids)
+        events = []
+        txt = p.get_text(' ').replace(' ', ' ')
+        for m in re.finditer(r'((?:\d\d\.\d\d\.\d{4}\.?\s*(?:,|un)?\s*)+)\.?\s*likum\w*,?\s*kas stājas spēkā\s+(\d\d\.\d\d\.\d{4})', txt):
+            ds = re.findall(r'\d\d\.\d\d\.\d{4}', m.group(1))
+            for j, d in enumerate(ds):
+                events.append({'law_id': None, 'law_slug': '', 'law_date': iso(d), 'court': False,
+                               'in_force': iso(m.group(2)) if j == len(ds) - 1 else None})
+    # a later in-force day given only in words: "Grozījums par panta izslēgšanu stājas spēkā 01.01.2015." belongs to
+    # the last law the note names
+    linked = {iso(a.get_text()) for a in p.find_all('a')}
+    laws = [e for e in events]
+    for m in re.finditer(r'stājas spēkā\s+(\d\d\.\d\d\.\d{4})', p.get_text(' ')):
+        d = iso(m.group(1))
+        if d and d not in linked and laws:
+            events.append({**laws[-1], 'in_force': d, 'text_date': True})
     return events
 
 
@@ -180,6 +204,7 @@ def parse_page(raw: bytes, own_id: int) -> dict:
     parent = None
     seen_heading = False
     es = False
+    dup = False
     for blk in body.find_all(recursive=False):
         cls = blk.get('class') or []
         if not any(c.startswith('TV') for c in cls):
@@ -197,7 +222,7 @@ def parse_page(raw: bytes, own_id: int) -> dict:
             continue
         if tv in ('TV206', 'TV207'):
             continue
-        num = blk.get('data-num')
+        num = re.sub(r'[^0-9._]', '', blk.get('data-num') or '') or None
         pfx = blk.get('data-pfx') or ''
         if tv == 'TV213' and not num:
             # older likumi.lv markup (captures before about 2016): the number is only in the anchor, p12 / pn3
@@ -231,9 +256,20 @@ def parse_page(raw: bytes, own_id: int) -> dict:
             key = heading_key(lines[0], used)
             kind, label = 'heading', lines[0]
             parent = key
+        elif tv == 'TV430':
+            continue  # likumi.lv's editorial "PIEZĪMES" (amending laws' own transitional clauses): not this act's text
         else:
             key = f'zz-bloks-{tv.lower()}-{len(out["order"]) + 1:03d}'
             kind, label = 'other', tv
+        if kind == 'heading' and key.startswith('parejas-noteikumi-'):
+            dup = True  # older pages repeat the whole transitional section once more; the copy is skipped
+            continue
+        if kind == 'heading':
+            dup = False
+        if dup and kind == 'transitional':
+            if key in out['units'] and out['units'][key]['text'] != chr(10).join(lines) + chr(10):
+                out.setdefault('dup_differs', []).append(key)
+            continue
         if key in used and kind != 'heading':
             base, i = key, 2
             while key in used:
@@ -243,6 +279,10 @@ def parse_page(raw: bytes, own_id: int) -> dict:
         text_lines = [l for l in lines]
         whole = ' '.join(text_lines)
         gone = None
+        if kind in ('art', 'transitional') and re.fullmatch(
+                r'[\d.]*\s*(?:pants\.?)?\s*\((?:Punkts|Pants|Daļa|Nodaļa|Apakšpunkts)[^()]*stājas spēkā[^()]*iekļauts likuma '
+                r'redakcijā uz[^()]*\)\.?', whole):
+            continue  # "(Punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. ...)": not yet in force
         if kind in ('art', 'transitional'):
             if re.fullmatch(r'[\d.]*\s*(?:pants\.?)?\s*\(Izslēgt[sa][^)]*\)\.?', whole):
                 for a_p in blk.find_all(['span', 'p']):

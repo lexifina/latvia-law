@@ -19,13 +19,41 @@
   "likumi_id": 88966,
   "likumi_slug": "kriminallikums",
   "short": "KL",
-  "title": "Krimināllikums"
+  "title": "Krimināllikums",
+  "first_law": {
+   "key": "likums-1998-06-17-88966",
+   "label": "Saeimas 17.06.1998. likums",
+   "title": "Krimināllikums",
+   "kind": "law",
+   "enacted": "1998-06-17",
+   "published": "1998-07-08",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums",
+   "note": null
+  },
+  "original": {
+   "vestnesis_id": 88966,
+   "title": "Krimināllikums"
+  }
  },
  "fizisko-personu-datu-apstrades-likums": {
   "likumi_id": 300099,
   "likumi_slug": "fizisko-personu-datu-apstrades-likums",
   "short": "FPDAL",
-  "title": "Fizisko personu datu apstrādes likums"
+  "title": "Fizisko personu datu apstrādes likums",
+  "first_law": {
+   "key": "likums-2018-06-21-300099",
+   "label": "Saeimas 21.06.2018. likums",
+   "title": "Fizisko personu datu apstrādes likums",
+   "kind": "law",
+   "enacted": "2018-06-21",
+   "published": "2018-07-04",
+   "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums",
+   "note": null
+  },
+  "original": {
+   "vestnesis_id": 300099,
+   "title": "Fizisko personu datu apstrādes likums"
+  }
  },
  "_law_titles": {
   "88967": "Pārgrozījumi Latvijas Republikas Satversmes 74. un 79. pantā"

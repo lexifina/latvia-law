@@ -912,5 +912,39 @@
     "url": "https://likumi.lv/ta/id/88966-kriminallikums"
    }
   }
+ },
+ "fizisko-personu-datu-apstrades-likums": {
+  "likumi_id": 300099,
+  "newest": {
+   "ts": "20261003064555",
+   "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums"
+  },
+  "versions": [
+   {
+    "from": "2018-07-05",
+    "until": null,
+    "status": "class='s-2'&gt;Pamata&lt;/font&gt;"
+   },
+   {
+    "from": "2019-05-31",
+    "until": null,
+    "status": "class='s-2'&gt;Vēsturiskā&lt;/font&gt;"
+   },
+   {
+    "from": "2021-06-04",
+    "until": null,
+    "status": "esošā&lt;/font&gt;"
+   }
+  ],
+  "chosen": {
+   "2019-05-31": {
+    "ts": "20230226235825",
+    "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums/redakcijas-datums/2019/05/31"
+   },
+   "2021-06-04": {
+    "ts": "20230226235825",
+    "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums/redakcijas-datums/2021/06/04"
+   }
+  }
  }
 }
