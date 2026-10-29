@@ -280,11 +280,11 @@ def parse_page(raw: bytes, own_id: int) -> dict:
         whole = ' '.join(text_lines)
         gone = None
         if kind in ('art', 'transitional') and re.fullmatch(
-                r'[\d.]*\s*(?:pants\.?)?\s*\((?:Punkts|Pants|Daļa|Nodaļa|Apakšpunkts)[^()]*stājas spēkā[^()]*iekļauts likuma '
+                r'[\d.⁰¹²³⁴⁵⁶⁷⁸⁹]*\s*(?:pants\.?)?\s*\((?:Punkts|Pants|Daļa|Nodaļa|Apakšpunkts)[^()]*stājas spēkā[^()]*iekļauts likuma '
                 r'redakcijā uz[^()]*\)\.?', whole):
             continue  # "(Punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. ...)": not yet in force
         if kind in ('art', 'transitional'):
-            if re.fullmatch(r'[\d.]*\s*(?:pants\.?)?\s*\(Izslēgt[sa][^)]*\)\.?', whole):
+            if re.fullmatch(r'[\d.⁰¹²³⁴⁵⁶⁷⁸⁹]*\s*(?:pants\.?)?\s*\(Izslēgt[sa][^)]*\)\.?', whole):
                 for a_p in blk.find_all(['span', 'p']):
                     if 'Izslēgt' in a_p.get_text() and 'labojumu_pamats' not in (a_p.get('class') or []):
                         gone = note_events(a_p, own_id)

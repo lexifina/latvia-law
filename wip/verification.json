@@ -1,32 +1,39 @@
 {
- "satversme": {
-  "newest_capture": {
-   "ts": "20261018221609",
-   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme"
-  },
-  "shows_version": "2019-01-01",
-  "units": 125,
-  "mismatches": [],
-  "versions": 17
- },
- "kriminallikums": {
-  "newest_capture": {
-   "ts": "20261019201722",
-   "url": "https://likumi.lv/ta/id/88966-kriminallikums"
-  },
-  "shows_version": "2026-10-15",
-  "units": 535,
-  "mismatches": [],
-  "versions": 83
- },
  "fizisko-personu-datu-apstrades-likums": {
+  "mismatches": [],
   "newest_capture": {
    "ts": "20261003064555",
    "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums"
   },
   "shows_version": "2021-06-04",
   "units": 58,
-  "mismatches": [],
   "versions": 3
+ },
+ "kriminallikums": {
+  "mismatches": [],
+  "newest_capture": {
+   "ts": "20261019201722",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums"
+  },
+  "shows_version": "2026-10-15",
+  "units": 534,
+  "versions": 83
+ },
+ "rebuild": {
+  "commits": 122,
+  "history_tip": "d6cac5ec6010ffd20fd63d3e98039c06714c15a4",
+  "identical": true,
+  "main_identical": true,
+  "tags": 207
+ },
+ "satversme": {
+  "mismatches": [],
+  "newest_capture": {
+   "ts": "20261018221609",
+   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme"
+  },
+  "shows_version": "2019-01-01",
+  "units": 125,
+  "versions": 17
  }
 }

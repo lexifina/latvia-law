@@ -28,7 +28,7 @@ The text is in Latvian, the official language. The consolidated versions ("redak
 | The whole act on a date | `python tools/on.py 2015-01-01 kriminallikums` |
 | The act on a version's in-force day | `git show satversme/1998-11-06` (tags `<act>/<in-force day>`) |
 
-File names: `pants-018.md` is article 18, `pants-070-11.md` is article 70.¹¹ (printed "70.11" in the files), `nodala-08.md` is the heading of chapter VIII, `ievads.md` the preamble, `parejas-noteikumi-024.md` item 24 of the transitional provisions, and `zz-*.md` the closing lines (adoption, signatures). After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+File names: `pants-018.md` is article 18, `pants-070-11.md` is article 70.¹¹, `nodala-08.md` is the heading of chapter VIII, `ievads.md` the preamble, `parejas-noteikumi-024.md` item 24 of the transitional provisions, and `zz-*.md` the closing lines (adoption, signatures). After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
 
 ## Dates
 
@@ -53,6 +53,7 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Credits come only from the source.** An article is credited to the law its likumi.lv note names for that day. Where a note lists several laws but dates only the last ("Ar grozījumiem, kas izdarīti ar 12.02.2004., … un 13.12.2012. likumu, kas stājas spēkā 01.04.2013."), an earlier law in the list is credited only on a day another note gives as its in-force day. A chapter replaced as a whole (chapter VIII of the Satversme, 1998) credits its articles through the chapter's note.
 - **Unexplained changes** are committed by the publisher, labelled "unexplained", when no note explains them. There are five: article 52 of the Satversme reads "Valsts prezidents" in the only archived capture of the 1922 version and "Valsts Prezidents" in every later one and in the 1993 official republication (shown on 14 April 1933); and in the Criminal Law articles 55 and 58.1 on 1 January 2006 (the probation service), article 225 on 1 January 2015 and article 289 on 1 January 2022, whose notes do not name that day.
 - **The first commit of each act** is the act as enacted, credited to it: the Constituent Assembly's Satversme of 15 February 1922, the Criminal Law of 17 June 1998 and the Personal Data Processing Law of 21 June 2018.
+- Superscript numbers of inserted articles and paragraphs are kept as Unicode superscript digits, as printed: 70.¹¹, (2²).
 - Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see exactly which words each law changed.
 
 ## What it does not show
@@ -61,7 +62,6 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **One Criminal Law version.** likumi.lv lists a version from 9 April 2014, but no capture of it is archived and no note in the next version names that day; any change made that day shows on 14 June 2014.
 - **The base versions on likumi.lv.** No capture of likumi.lv's base version of the Criminal Law (1 April 1999) or of the Personal Data Processing Law (5 July 2018) is archived. Their first versions are the acts as published in the official gazette (Latvijas Vēstnesis Nr. 199/200, 8 July 1998, and Nr. 132, 4 July 2018). The gazette page and likumi.lv lay paragraphs out differently; text that differs only in spacing or line breaks takes the later layout and is not a change.
 - **likumi.lv's notes and editorial material** are not law text and are not in the files: the amendment notes, the "PIEZĪMES" that quote amending laws' own transitional clauses, and placeholders for provisions not yet in force ("(Punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. …)"). A provision the consolidated text shows only as "(Izslēgts ar … likumu …)" is removed on that day; repealed paragraphs inside an article keep likumi.lv's "(izslēgta ar … likumu)" line.
-- **Superscript numbers** (inserted articles and paragraphs, 70.¹¹, (2²)) are printed as plain digits after a dot or bracket: "70.11", "(22)".
 - **Court rulings.** Judgments of the Satversmes tiesa that void a provision appear only when likumi.lv's consolidated text changes; none is a separate commit in these three acts.
 
 ## How it is built
