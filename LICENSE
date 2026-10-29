@@ -1,0 +1,16 @@
+The legal texts are Latvian legislation, as consolidated on likumi.lv by VSIA "Latvijas Vēstnesis",
+the official publisher of the Republic of Latvia, and read from Internet Archive captures
+(web.archive.org) whose timestamps are recorded in the corpus data and REPRODUCE.md. Amending laws'
+titles and publication details are from the official gazette "Latvijas Vēstnesis" (www.vestnesis.lv).
+
+Under the Copyright Law of Latvia (Autortiesību likums), article 6, laws and other normative acts
+are not protected by copyright. Latvijas Vēstnesis states that re-use of information published in
+the official gazette is to be agreed with the official publisher in writing
+(https://www.vestnesis.lv/atkalizmantosana, read 29 October 2026). No such agreement has been made;
+this repository is private for that reason. likumi.lv states that its consolidated texts are for
+information; the official publication is the gazette.
+
+The arrangement of this repository, its tables, commit messages and tools are by Lexifina and may be
+reused under the Creative Commons Attribution 4.0 International licence
+(https://creativecommons.org/licenses/by/4.0/). This repository is not legal advice and not an
+official publication.
