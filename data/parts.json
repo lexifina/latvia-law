@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "20-darba-likums.json": {
+   "acts": [
+    "darba-likums"
+   ],
+   "sha256": "9f3785d1d349570ad46148ad4d3a9ae054da747cefcedf7e4e828672d6db3f78"
+  }
+ },
+ "schema": 1
+}
