@@ -1,0 +1,92 @@
+{
+ "satversme": {
+  "likumi_id": 57980,
+  "likumi_slug": "latvijas-republikas-satversme",
+  "short": "Satversme",
+  "title": "Latvijas Republikas Satversme",
+  "first_law": {
+   "key": "satversme-1922",
+   "label": "Satversmes Sapulce 15.02.1922.",
+   "title": "Latvijas Republikas Satversme (Satversmes Sapulces 1922. gada 15. februāra kopsēdē pieņemtā)",
+   "kind": "law",
+   "enacted": "1922-02-15",
+   "published": "1922-06-30",
+   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme",
+   "note": null
+  }
+ },
+ "kriminallikums": {
+  "likumi_id": 88966,
+  "likumi_slug": "kriminallikums",
+  "short": "KL",
+  "title": "Krimināllikums",
+  "first_law": {
+   "key": "likums-1998-06-17-88966",
+   "label": "Saeimas 17.06.1998. likums",
+   "title": "Krimināllikums",
+   "kind": "law",
+   "enacted": "1998-06-17",
+   "published": "1998-07-08",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums",
+   "note": null
+  },
+  "original": {
+   "vestnesis_id": 88966,
+   "title": "Krimināllikums"
+  }
+ },
+ "fizisko-personu-datu-apstrades-likums": {
+  "likumi_id": 300099,
+  "likumi_slug": "fizisko-personu-datu-apstrades-likums",
+  "short": "FPDAL",
+  "title": "Fizisko personu datu apstrādes likums",
+  "first_law": {
+   "key": "likums-2018-06-21-300099",
+   "label": "Saeimas 21.06.2018. likums",
+   "title": "Fizisko personu datu apstrādes likums",
+   "kind": "law",
+   "enacted": "2018-06-21",
+   "published": "2018-07-04",
+   "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums",
+   "note": null
+  },
+  "original": {
+   "vestnesis_id": 300099,
+   "title": "Fizisko personu datu apstrādes likums"
+  }
+ },
+ "darba-likums": {
+  "likumi_id": 26019,
+  "likumi_slug": "darba-likums",
+  "short": "DL",
+  "title": "Darba likums",
+  "first_law": {
+   "key": "likums-2001-06-20-26019",
+   "label": "Saeimas 20.06.2001. likums",
+   "title": "Darba likums",
+   "kind": "law",
+   "enacted": "2001-06-20",
+   "published": "2001-07-06",
+   "url": "https://likumi.lv/ta/id/26019-darba-likums",
+   "note": null
+  },
+  "original": {
+   "vestnesis_id": 26019,
+   "title": "Darba likums"
+  },
+  "robust": true
+ },
+ "_law_titles": {
+  "88967": "Pārgrozījumi Latvijas Republikas Satversmes 74. un 79. pantā"
+ },
+ "_decisions": [
+  "Satversme: the only archived capture of the 1922 base version (2021-11-13) reads \"Valsts prezidents\" in art. 52, where every later version and the 1993 official republication (Latvijas Vēstnesis Nr. 43, 01.07.1993) read \"Valsts Prezidents\"; the change shows on 1933-04-14 as an unexplained publisher change.",
+  "Satversme: the 1922 text is kept as likumi.lv gives it from 7 November 1922. Its operation was interrupted from 1934 and under occupation (1940-1990) and restored in full on 6 July 1993 (Likums par Latvijas Republikas Satversmes spēkā stāšanos un ievešanu); these events changed no words and are described in the README, not committed.",
+  "Satversme: the 1933 amending law (21.03.1933., arts. 74 and 79) predates vestnesis.lv; its title is the one likumi.lv gives and its publication day is left empty."
+ ],
+ "_decisions:20-darba-likums": [
+  "DL: the 2002-06-01 text is the gazette publication (vestnesis.lv/ta/id/26019, Latvijas Vēstnesis Nr. 105, 06.07.2001). Its web copy differs from the oldest archived likumi.lv version (2003-01-01) in six articles only by spelling and typesetting (94: \"pa-skaidrojumus\"; 98: \"piedāvātājiem\"; 115 and 138: \"jaunaka(s)\"; 134: \"pa-stāv\", \"pār stāvji\"; 146: a missing full stop), with no note for that day; these show on 2003-01-01 as unexplained publisher changes.",
+  "DL: the EU directives reference block (\"Informatīva atsauce uz Eiropas Savienības direktīvām\") is editorial; its change on 2012-03-08 has no note and is an unexplained publisher change.",
+  "DL: law links on captures from about 2025 have the form /doc.php?id=<id> (the same id as /ta/id/<id>); they are read as law links for this act, so the law of 01.11.2018 (id 303008) is credited."
+ ]
+}

@@ -1,0 +1,829 @@
+{
+ "country": "LV",
+ "acts": [
+  {
+   "slug": "satversme",
+   "short": "Satversme",
+   "title": "Latvijas Republikas Satversme",
+   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme",
+   "versions": [
+    {
+     "from": "1922-11-07",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20211113123824id_/https://likumi.lv/ta/id/57980/redakcijas-datums/1922/11/07",
+     "sha256": "d9641c590aa86b98177a95ded4e355d36e4e60f880cd0a8a5de9a6c3c543fd5a"
+    },
+    {
+     "from": "1933-04-14",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1933/04/14",
+     "sha256": "eb169c693bffaa217971401a4f6ab9bc5b809c420cf03030337fb7babecd6f12"
+    },
+    {
+     "from": "1994-02-26",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20241211192223id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1994/02/26",
+     "sha256": "88b688c1598d58fb9c677057d1175f0f43ed8be54b1010854a6a43e0aac7f924"
+    },
+    {
+     "from": "1996-06-26",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20240921210528id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1996/06/26",
+     "sha256": "c85ea32afa41ef58176d8f79934c344cdf3effe9ffdeaf335d822543a0751362"
+    },
+    {
+     "from": "1997-12-31",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260215000753id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1997/12/31",
+     "sha256": "353c5b2e2250e739b41944e88ebf3245b0584e0090e46662511e6b29184f66f2"
+    },
+    {
+     "from": "1998-11-06",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260214002750id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1998/11/06",
+     "sha256": "989481d8b8fc1a264bd6f8ff46c5956b5c0a7fb2d836b2ee2b2a705153e86eae"
+    },
+    {
+     "from": "2002-05-24",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20241211210329id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2002/05/24",
+     "sha256": "a4b661047f0546e38fcde2665de2d74bf84305eb31aa362501e1ed27d9450bdb"
+    },
+    {
+     "from": "2002-11-05",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20241211210329id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2002/05/24",
+     "sha256": "a4b661047f0546e38fcde2665de2d74bf84305eb31aa362501e1ed27d9450bdb"
+    },
+    {
+     "from": "2003-06-05",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2003/06/05",
+     "sha256": "ffdd628b09685c652ef0a9fe3dddeffca65ac58aa01494e6d593e41c279bedca"
+    },
+    {
+     "from": "2004-10-21",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2004/10/21",
+     "sha256": "c3e2b41e6d15bcc2ed36ed152a80c4f19a1edd8feb8dc006cad9a70a8fd04ed8"
+    },
+    {
+     "from": "2006-01-17",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260212025706id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2006/01/17",
+     "sha256": "587234e5738f2b4c84e0085ccbd4c35134d00baf3fb4cbcc12f51032f58051ae"
+    },
+    {
+     "from": "2007-05-31",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2007/05/31",
+     "sha256": "868cac19a942c6879173905d1b76cf462d359f0fd0daa735f2c56946c11ea69f"
+    },
+    {
+     "from": "2010-11-02",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260217090309id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2010/11/02",
+     "sha256": "aea7aa9439f498f4ad0bff7052a13ee4fdb0ad3e9789b592ffab2dc2d59db050"
+    },
+    {
+     "from": "2013-10-18",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20251123033634id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2013/10/18",
+     "sha256": "3edf2f51003e49c2ee7d993f1e186ddf2f59b4faac276834a7dc39776f9299c4"
+    },
+    {
+     "from": "2014-07-22",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20241211211934id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2014/07/22",
+     "sha256": "1e3af85c00d3ff9f9d43e481b613364598468601f97b560ce9b67d4131f6c6af"
+    },
+    {
+     "from": "2016-06-14",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260214221300id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2016/06/14",
+     "sha256": "ed65c1bce0b3fc36a50f843cd72a086d054f7a7e63b5ff2eeb5039a38c4b5236"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260217145243id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2019/01/01",
+     "sha256": "c7ad25d09c90dc998c876e9602b3f3e5b1e053a0d6f279cf576f750bdaa66b18"
+    }
+   ]
+  },
+  {
+   "slug": "kriminallikums",
+   "short": "KL",
+   "title": "Krimināllikums",
+   "url": "https://likumi.lv/ta/id/88966-kriminallikums",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 390,
+     "source_url": "https://www.vestnesis.lv/ta/id/88966",
+     "sha256": "31af67fa0420bfbe3c35280d89755213c62c54142719f72e06e1e95516e4587e"
+    },
+    {
+     "from": "2000-06-15",
+     "units": 392,
+     "source_url": "https://web.archive.org/web/20191113170737id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2000/06/15",
+     "sha256": "5489ac0abb2e6e3646fa384735634dfb01975417a1633d4f11967f5550988635"
+    },
+    {
+     "from": "2000-06-28",
+     "units": 393,
+     "source_url": "https://web.archive.org/web/20191214141031id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2000/06/28",
+     "sha256": "fd2b7fd9bdba77d2f22bd6bc7f375d0e399bbf2d6f3ebf329eadbae36f194aa9"
+    },
+    {
+     "from": "2001-07-12",
+     "units": 393,
+     "source_url": "https://web.archive.org/web/20150606131122id_/http://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2001/07/12",
+     "sha256": "74ff4c97ef6880ae7a98b9c7d75fd7ad77b8a60b39da0c0d805cb6ea5a3360ef"
+    },
+    {
+     "from": "2002-05-23",
+     "units": 401,
+     "source_url": "https://web.archive.org/web/20191122023805id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/05/23",
+     "sha256": "249f96810179014ecd1e823df5e463adceba9a8619721017501648e5440540f1"
+    },
+    {
+     "from": "2002-11-01",
+     "units": 402,
+     "source_url": "https://web.archive.org/web/20191214133601id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/11/01",
+     "sha256": "c8f7ee08b28f069e191341231d53664c5f7ccc75692a854e28ad89bef7f4b362"
+    },
+    {
+     "from": "2002-11-20",
+     "units": 409,
+     "source_url": "https://web.archive.org/web/20240730185345id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2002/11/20",
+     "sha256": "220e4a4d8edc22b9de62e10c401a7ca662e4280a92e19bb69a9fc40ea5079cac"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20240730185349id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/01/01",
+     "sha256": "6f03e784b53ce602957b2de1193a60cbdb6b037c59f0eee260f0f1f72bdf0ca1"
+    },
+    {
+     "from": "2003-05-14",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20150606170649id_/http://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/05/14",
+     "sha256": "cbaf7413a26e54b45a85d51da38f6e2236bcc634b42c3ae8e14cf62187721e1b"
+    },
+    {
+     "from": "2003-07-15",
+     "units": 409,
+     "source_url": "https://web.archive.org/web/20260821153627id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2003/07/15",
+     "sha256": "156a5e475b8e40dd0e4194c35691c6d6c60897a7ace335976b5979b8fe9b4340"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191208164819id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/01",
+     "sha256": "83880112510b9cbcbe856c4c487681143aae3b7e2bdc5fba8ea78abcd2197ef5"
+    },
+    {
+     "from": "2004-01-02",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20241225235059id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/02",
+     "sha256": "05e8520db39fffdf50f1f33232bd6f5f9d1fff53beb244bcc3a9585db6fc45ed"
+    },
+    {
+     "from": "2004-01-17",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191121042136id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/01/17",
+     "sha256": "9625c1fe4605aff4bf0787a89c026e158b46b4c344feed6912c6ca8584d7bbe4"
+    },
+    {
+     "from": "2004-02-01",
+     "units": 409,
+     "source_url": "https://web.archive.org/web/20240730185404id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/02/01",
+     "sha256": "695b213414848e54f3e534396831811ac5f33bc68f5db6880c88dab29f5e6be2"
+    },
+    {
+     "from": "2004-05-26",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191209193039id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/05/26",
+     "sha256": "4fa9d935adae84d0025971bb671ba39edbd98dd83777016d705ea1e584f0044d"
+    },
+    {
+     "from": "2004-06-18",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191211034950id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/06/18",
+     "sha256": "80d78b5d254d5c2986b51c2b62ac58b1cb3a0bf0ed47bdc8663a38bc8365e790"
+    },
+    {
+     "from": "2004-06-24",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191213134605id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2004/06/24",
+     "sha256": "7f10adb229323b8fb5ef61075aa26763ad55eeb35ab3bfbbf5a6ce0ffba3c950"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191207121207id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/01/01",
+     "sha256": "dd6cf8e32c384f320f84ef195e7323b5112f67e7589d26aca5b3244480c9a3a8"
+    },
+    {
+     "from": "2005-01-11",
+     "units": 410,
+     "source_url": "https://web.archive.org/web/20191211195319id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/01/11",
+     "sha256": "a93218cea22a5fa9f6f3e5686c0807edb96483e04a1cd3e407ee2ac454b78a7e"
+    },
+    {
+     "from": "2005-06-01",
+     "units": 413,
+     "source_url": "https://web.archive.org/web/20251225130337id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/06/01",
+     "sha256": "aa983ecb8c18c081003ccfda9a0a899e5046a8b343741f6fc001519db2137626"
+    },
+    {
+     "from": "2005-06-24",
+     "units": 413,
+     "source_url": "https://web.archive.org/web/20191211032524id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/06/24",
+     "sha256": "45760849870c3335f653ab13ef6089e8e4cb871b24077a313d2a22229303a503"
+    },
+    {
+     "from": "2005-10-01",
+     "units": 422,
+     "source_url": "https://web.archive.org/web/20260918215755id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/10/01",
+     "sha256": "d230f2099df65190268a428f8018a1553bc7322bcb99736ac1f34da130bdc58c"
+    },
+    {
+     "from": "2005-11-03",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20191206161245id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2005/11/03",
+     "sha256": "cc7c7314f07a4b82aa9691631f031c4dabe8e0a0fab40543566709e015dbce44"
+    },
+    {
+     "from": "2006-01-01",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20191113225134id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/01/01",
+     "sha256": "cc77f77bfb3546928c8e32a414d5c2791e65f563ae2c6b051b2add888ddce8c1"
+    },
+    {
+     "from": "2006-01-05",
+     "units": 426,
+     "source_url": "https://web.archive.org/web/20241220042118id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/01/05",
+     "sha256": "acefc8305f1e63ead73e546586f85c6eb22dddf4cb15655d935e84e7682dcf1a"
+    },
+    {
+     "from": "2006-03-22",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20191018042802id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/03/22",
+     "sha256": "3911d86de110a4ddf23c20440fccbac04d0de9c333cc5157e6dd7436e2f2b799"
+    },
+    {
+     "from": "2006-11-15",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20190820003818id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2006/11/15",
+     "sha256": "fd338490e157e60b8e5dad6ec63ddf56ea1ce6e12e36cd3838d20c6d56e0d3ad"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 425,
+     "source_url": "https://web.archive.org/web/20260821160212id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2007/01/01",
+     "sha256": "b30997ec98cf89b0071cf44a280599e448da570f03382e11d6872ce7eb5aa9ec"
+    },
+    {
+     "from": "2007-07-19",
+     "units": 436,
+     "source_url": "https://web.archive.org/web/20191206013050id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2007/07/19",
+     "sha256": "151eacd9e03c46fa168bf291654db3ed48f01e44fa89e78b3c27343d70f222e4"
+    },
+    {
+     "from": "2008-01-12",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20191209132750id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/01/12",
+     "sha256": "702d83301b435bf4f5dd7ab36456e7d5bf8ace9657fb9a97ba3004125d3b6ae1"
+    },
+    {
+     "from": "2008-09-01",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20191206011848id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/09/01",
+     "sha256": "331b819bc9c3e1c72679b5344a8f7223b925f046d21824b65f75f6499e15637e"
+    },
+    {
+     "from": "2008-11-27",
+     "units": 443,
+     "source_url": "https://web.archive.org/web/20191206014538id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2008/11/27",
+     "sha256": "5a58a9e648e8f54b9962651527edb09abb414e29758d855f6c8578f436c4efae"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 447,
+     "source_url": "https://web.archive.org/web/20251225203108id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/07/01",
+     "sha256": "eed847cb9a8ab208e490c1b8a237eead745bcea1f2dee20d69f1522de8b8a1d1"
+    },
+    {
+     "from": "2009-10-14",
+     "units": 448,
+     "source_url": "https://web.archive.org/web/20191206013612id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/10/14",
+     "sha256": "08cbf2e93d8e53db5414da52d9d0f176b4e0e4750830c08ee0d093982841bef5"
+    },
+    {
+     "from": "2009-12-23",
+     "units": 447,
+     "source_url": "https://web.archive.org/web/20261011231524id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2009/12/23",
+     "sha256": "fb03db522b31b4dbe7c8810d532237b04b73f074b5212e226f11d9d2f3782b74"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20241226072312id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/01/01",
+     "sha256": "daf3381538834715910b98cec6fc0c71e532710b5f3e170b89c919046e81fd46"
+    },
+    {
+     "from": "2011-07-13",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20191216025622id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/07/13",
+     "sha256": "cb2f13bbd97abd5819db32a6f0629805b17faee0b7b7b1d7ba85ce1b2c0c646a"
+    },
+    {
+     "from": "2011-10-01",
+     "units": 455,
+     "source_url": "https://web.archive.org/web/20241222172148id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/10/01",
+     "sha256": "946dd619a23c74f400a6dd52f25f0f5ad2ff6e2aaeaf0342c52f86a49ac337aa"
+    },
+    {
+     "from": "2011-10-04",
+     "units": 458,
+     "source_url": "https://web.archive.org/web/20191208135143id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2011/10/04",
+     "sha256": "5284a1898a33d4eb2a8a0501b91815a02db5f76049c6936f6b5f9a9ad433fd2e"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 458,
+     "source_url": "https://web.archive.org/web/20240730185337id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2012/01/01",
+     "sha256": "420501e6dd7b55cebffe3f6986fb7c94581c510df508a306a4702ea6dcef2272"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 458,
+     "source_url": "https://web.archive.org/web/20190818044906id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2013/01/01",
+     "sha256": "16cc5c6c6b326a16b0b967e45cd58dfee2e203059e53a52a08430b1f3daa4da3"
+    },
+    {
+     "from": "2013-04-01",
+     "units": 452,
+     "source_url": "https://web.archive.org/web/20241225080155id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2013/04/01",
+     "sha256": "58baf2989887244bab83a5da3d8ca28cefba4c2315f910c0858ce6af45a98b0d"
+    },
+    {
+     "from": "2014-04-03",
+     "units": 453,
+     "source_url": "https://web.archive.org/web/20241217191524id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/04/03",
+     "sha256": "390ebbf18a36d09bda80f541ac8154141d1bf860e6c7bb360dea5ca652774216"
+    },
+    {
+     "from": "2014-06-14",
+     "units": 456,
+     "source_url": "https://web.archive.org/web/20241219010506id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/06/14",
+     "sha256": "151c59fa1cdad92aec5aa97877b610c10e8fb241b8cff50c76565644d11f39d8"
+    },
+    {
+     "from": "2014-10-29",
+     "units": 461,
+     "source_url": "https://web.archive.org/web/20241225170348id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2014/10/29",
+     "sha256": "8f146cad9d3368b937ee7a20485ac812a1d298cadf7c0333592993e401dce4a3"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 460,
+     "source_url": "https://web.archive.org/web/20240730185331id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/01/01",
+     "sha256": "99fc7f9d1770b3a13cd92b10591a87614fd33e527ef0d94b8a270894d53d76ea"
+    },
+    {
+     "from": "2015-02-01",
+     "units": 464,
+     "source_url": "https://web.archive.org/web/20241226023544id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/02/01",
+     "sha256": "d784bb58f112ad812a37399a6d214b63930183570025273d69c1c0c07058079e"
+    },
+    {
+     "from": "2015-02-19",
+     "units": 467,
+     "source_url": "https://web.archive.org/web/20250221085055id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/02/19",
+     "sha256": "dae0bba9f932d2980daea05566909869fe0b624ffb7848aa6639a4eb34eba3a1"
+    },
+    {
+     "from": "2015-12-02",
+     "units": 467,
+     "source_url": "https://web.archive.org/web/20241216140834id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/12/02",
+     "sha256": "d03c663cd16c27ab715f6b76f6c6d8da0f9084d5766b6f3b9645aaa5ae3f5980"
+    },
+    {
+     "from": "2015-12-03",
+     "units": 467,
+     "source_url": "https://web.archive.org/web/20260114011738id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2015/12/03",
+     "sha256": "5bc3f86a3489d4f8e165eb1ba667e01e1a8393172a5398e4ef909b03686b3ab5"
+    },
+    {
+     "from": "2016-03-01",
+     "units": 471,
+     "source_url": "https://web.archive.org/web/20240730185338id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/03/01",
+     "sha256": "bcd91c1935a9434dee17a60b1ba9251159eb988e77c9a2eb17b5ea9fe731bbd8"
+    },
+    {
+     "from": "2016-04-07",
+     "units": 474,
+     "source_url": "https://web.archive.org/web/20240730185416id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/04/07",
+     "sha256": "2bb06ce1f8e54b917589cef8ca1ee3e074b11fe6705082ec6cd5e6ba2524f8d8"
+    },
+    {
+     "from": "2016-05-11",
+     "units": 473,
+     "source_url": "https://web.archive.org/web/20241226095453id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2016/05/11",
+     "sha256": "3fa94cd9c7ff3b71f4365bf55aa46a948088ff8fb43c04b03c5ccb6e899051d8"
+    },
+    {
+     "from": "2017-01-12",
+     "units": 474,
+     "source_url": "https://web.archive.org/web/20261010171927id_/https://likumi.lv/ta/id/88966/redakcijas-datums/2017/01/12",
+     "sha256": "b9a5dbd38e7d8d61c09173b9fe622898833c513f1a2fe581fa5bf1cfccceb7eb"
+    },
+    {
+     "from": "2017-08-01",
+     "units": 481,
+     "source_url": "https://web.archive.org/web/20241225070507id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2017/08/01",
+     "sha256": "9759a6ed672e8b6f8f976e6b43cbba085ed521d2b34bf523d1c050aa5f49e582"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 484,
+     "source_url": "https://web.archive.org/web/20260322070445id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/01/01",
+     "sha256": "75360fea9c02fc9ac014bbbfa9d6e3ead7962d0b7640defff13a8625201d626c"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 489,
+     "source_url": "https://web.archive.org/web/20241213201659id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/05/23",
+     "sha256": "0f580f467ff76352702c7a3d436522c78bd3b06055d51fd0e3061592d4835faf"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 490,
+     "source_url": "https://web.archive.org/web/20200730044003id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2018/11/07",
+     "sha256": "d09789dc2e304c1beabd10c1b08682b0253101756e7b805ecb750489a4edc02c"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 490,
+     "source_url": "https://web.archive.org/web/20200730062559id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2019/07/01",
+     "sha256": "4e83754a7b3ab82d39e9c79a6e78cda637e93bfb6f88fc4b2e6f9c21e7384ad8"
+    },
+    {
+     "from": "2019-07-03",
+     "units": 492,
+     "source_url": "https://web.archive.org/web/20251221192223id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2019/07/03",
+     "sha256": "2d53e1e1b424a28db0663fdd56bd7f2da360f0483b2a20033ef6f08cd07140c3"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 492,
+     "source_url": "https://web.archive.org/web/20200730050950id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/07/01",
+     "sha256": "c2e48ad9417650c5eabf69934c7e525007c526977ed4c90e5e52afb8d6c0886c"
+    },
+    {
+     "from": "2020-07-06",
+     "units": 492,
+     "source_url": "https://web.archive.org/web/20260821165852id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/07/06",
+     "sha256": "1364dcf613d0fcbe1a9e2eae6e8be69cfb15d7b745f006a053bf0b17f868270b"
+    },
+    {
+     "from": "2020-09-29",
+     "units": 493,
+     "source_url": "https://web.archive.org/web/20210111154501id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2020/09/29",
+     "sha256": "b2759c3456904aa1c27bc6b97e0ae26287a658f7188cf366f34643d14f56d075"
+    },
+    {
+     "from": "2021-02-02",
+     "units": 493,
+     "source_url": "https://web.archive.org/web/20241217223548id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/02/02",
+     "sha256": "ed90d826a12079979b0598de18693077291fa756f3ef17b9037d117bf7de3852"
+    },
+    {
+     "from": "2021-08-05",
+     "units": 496,
+     "source_url": "https://web.archive.org/web/20260112214702id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/08/05",
+     "sha256": "37392c31062e3b835147238263b67407869958fda5ab8cf0c9bc6345f8d1b048"
+    },
+    {
+     "from": "2021-11-14",
+     "units": 498,
+     "source_url": "https://web.archive.org/web/20240730185336id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2021/11/14",
+     "sha256": "730f07e75e8087fee6b720df7068c0a34c93f67e45bd00d5b07dadf4bca56c81"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 506,
+     "source_url": "https://web.archive.org/web/20250618172411id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/01/01",
+     "sha256": "0a78b17de99b2632a2edd0c01d3c7c3389db61a35c10368016a3adb10803130d"
+    },
+    {
+     "from": "2022-05-04",
+     "units": 506,
+     "source_url": "https://web.archive.org/web/20241217205302id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/05/04",
+     "sha256": "1d17c3a365da1bbe347fda181286b695df2f54d26d586b366b77b6711b8ea092"
+    },
+    {
+     "from": "2022-06-23",
+     "units": 507,
+     "source_url": "https://web.archive.org/web/20241219022052id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/06/23",
+     "sha256": "c35bf15bba7bf2f9c49566c74fc42874ae5f3ac58c4efb9cd97d734d99673a20"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 507,
+     "source_url": "https://web.archive.org/web/20260322110543id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/11/03",
+     "sha256": "c15a84a72a3443cfb94e5f69517d600a4b4a5ba88c6084f6b989593b4f4cea21"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 507,
+     "source_url": "https://web.archive.org/web/20241217223736id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2022/11/25",
+     "sha256": "f778042658c9d66d09008f76620280cd7d0a59a76a70da08c5431e8d1d1a432d"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 507,
+     "source_url": "https://web.archive.org/web/20260322080015id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/05/01",
+     "sha256": "01255a2aab7340c6cd1076b501c7b64dab558ed455d9b9e058ad7361b7a2df22"
+    },
+    {
+     "from": "2023-07-15",
+     "units": 508,
+     "source_url": "https://web.archive.org/web/20241216160842id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/07/15",
+     "sha256": "e124f70cbc60f1ea2259dbdf9730a1cebd45cf6acc4613fd12b496514e81f6b2"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 509,
+     "source_url": "https://web.archive.org/web/20241223085859id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/10/20",
+     "sha256": "d0a747b4f4ddb6f9993886c0e7815668b96c364511c6c8d71a43eb2633f33ca0"
+    },
+    {
+     "from": "2023-12-30",
+     "units": 512,
+     "source_url": "https://web.archive.org/web/20250515101250id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2023/12/30",
+     "sha256": "f55eb0b85387f619d1ff89f7619754ac516bebb938cb7ccabd256a7d9df127f9"
+    },
+    {
+     "from": "2024-05-22",
+     "units": 514,
+     "source_url": "https://web.archive.org/web/20241216030739id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/05/22",
+     "sha256": "ff8862084039c829bce40c008d2aadccdfd283dde98de9ed096b6fb74e534727"
+    },
+    {
+     "from": "2024-07-04",
+     "units": 518,
+     "source_url": "https://web.archive.org/web/20260322062631id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/07/04",
+     "sha256": "213938585d650d81a9ab880453998e305f3fdb85a82be3ee792308437c544e34"
+    },
+    {
+     "from": "2024-10-22",
+     "units": 519,
+     "source_url": "https://web.archive.org/web/20260322233549id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2024/10/22",
+     "sha256": "0a6ce9b4c78dd74145bd899cd866095898e0244978f0cffcee4bc3e8c4257578"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 521,
+     "source_url": "https://web.archive.org/web/20261013165807id_/https://likumi.lv/ta/id/88966/redakcijas-datums/2025/01/01",
+     "sha256": "f17c8aad35eede523ee985ce1b50a54c40a14bc655f50e19737b3b7a5dcd5b41"
+    },
+    {
+     "from": "2025-06-10",
+     "units": 522,
+     "source_url": "https://web.archive.org/web/20260322055056id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2025/06/10",
+     "sha256": "8a59853d954111ca5fc2d5ac5e59e1078dc1d2fe2b773bd6bc14e947629db952"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 525,
+     "source_url": "https://web.archive.org/web/20261011231039id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2026/04/16",
+     "sha256": "a818d20881617015b2e03f98e8260644fac8b628eaf9e5f5ad642da554d9fa1f"
+    },
+    {
+     "from": "2026-07-10",
+     "units": 525,
+     "source_url": "https://web.archive.org/web/20260821153116id_/https://likumi.lv/ta/id/88966-kriminallikums/redakcijas-datums/2026/07/10",
+     "sha256": "aed5c3e90c385019c7d51260e3fd59d5789a861a1c2dfef8f601f460f700981e"
+    },
+    {
+     "from": "2026-10-15",
+     "units": 534,
+     "source_url": "https://web.archive.org/web/20261019201722id_/https://likumi.lv/ta/id/88966-kriminallikums",
+     "sha256": "db2720906b2ea059cef2b8570988d69464d3e03a5b9a1086baa2728ffdd7af9d"
+    }
+   ]
+  },
+  {
+   "slug": "fizisko-personu-datu-apstrades-likums",
+   "short": "FPDAL",
+   "title": "Fizisko personu datu apstrādes likums",
+   "url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums",
+   "versions": [
+    {
+     "from": "2018-07-05",
+     "units": 54,
+     "source_url": "https://www.vestnesis.lv/ta/id/300099",
+     "sha256": "56113355b70fe0e625e369d2653ac3cc21d26ca948807d39d0dc0ebbafdf919c"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20230226235825id_/https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums/redakcijas-datums/2019/05/31",
+     "sha256": "5031e26a532d36f07b6b28a7233780004305fb29e626fccd9f9b3cd2decc2f68"
+    },
+    {
+     "from": "2021-06-04",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20230226235825id_/https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums/redakcijas-datums/2021/06/04",
+     "sha256": "fe7d99fc80c7d96b35dd028bbe4ce1ff43eabf5dd44aef5eb26b4931c6149f47"
+    }
+   ]
+  },
+  {
+   "slug": "darba-likums",
+   "short": "DL",
+   "title": "Darba likums",
+   "url": "https://likumi.lv/ta/id/26019-darba-likums",
+   "versions": [
+    {
+     "from": "2002-06-01",
+     "units": 215,
+     "source_url": "https://www.vestnesis.lv/ta/id/26019",
+     "sha256": "0557312dbc5df81231161cbc1561fd18347a1aed6f3305fc75ff64bc6b940bba"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20240726225039id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2003/01/01",
+     "sha256": "442a04119d6541f37e0f3d4037e1eb427fc08027baafac0295be86701dafebab"
+    },
+    {
+     "from": "2004-02-25",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20191210110614id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2004/02/25",
+     "sha256": "288cb443af7ca324ca4192de1f158d7ab84ff5b41d0754ac68dac271323bbc13"
+    },
+    {
+     "from": "2004-05-08",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20240726225100id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2004/05/08",
+     "sha256": "7ca55d15e4d45b48d7845dab42d74f83ae4ec3e75bc3038f59f036e1da43435f"
+    },
+    {
+     "from": "2005-11-16",
+     "units": 217,
+     "source_url": "https://web.archive.org/web/20191021010134id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2005/11/16",
+     "sha256": "9ab16e2c1b8be478f021eea749ae6ab1ce0ba4d167e42bf2d96bd83f5dc847a8"
+    },
+    {
+     "from": "2006-10-25",
+     "units": 217,
+     "source_url": "https://web.archive.org/web/20240726225014id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2006/10/25",
+     "sha256": "30a8bbcdfb0b78e33b4916d9b7774cfee4629599f923f6b76a9f9719eb0ed88e"
+    },
+    {
+     "from": "2009-06-29",
+     "units": 218,
+     "source_url": "https://web.archive.org/web/20251115115048id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2009/06/29",
+     "sha256": "65349e84f7e33bd7c35d3a8bfb6fb8ccd2583a60c74345ec29cc26f4d2cf4502"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 219,
+     "source_url": "https://web.archive.org/web/20251114210342id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2010/01/01",
+     "sha256": "b5a2ecffae196570d84f65e191cab9a63c169d61472388fd236ed299650374ba"
+    },
+    {
+     "from": "2010-03-25",
+     "units": 219,
+     "source_url": "https://web.archive.org/web/20251106151725id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2010/03/25",
+     "sha256": "ba1d071f13240a21de3d62a5dd3d742d8d7fb3dd3714123299880d65c9e179ce"
+    },
+    {
+     "from": "2011-07-20",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20251119191028id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2011/07/20",
+     "sha256": "62d3f7f5c7022e59b501d4cf356ed5b9882f5d22d3d42b54395e9685aaca8c59"
+    },
+    {
+     "from": "2012-03-08",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20240726225012id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2012/03/08",
+     "sha256": "8e4890eb0f872b359440b051e673df247af5e3fa45450974ef5f54b930130abc"
+    },
+    {
+     "from": "2012-07-25",
+     "units": 222,
+     "source_url": "https://web.archive.org/web/20141114170609id_/http://likumi.lv:80/ta/id/26019-darba-likums/redakcijas-datums/2012/07/25",
+     "sha256": "a299fe625d4a02f2346d53a90477cb876c9fbb09fe5d91bfd163a8a0a4dff96a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 228,
+     "source_url": "https://web.archive.org/web/20251028024347id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2015/01/01",
+     "sha256": "1694bb4a60edd5d51996228eebc7b983b2afe1956cea0456c7b18946e10db949"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 228,
+     "source_url": "https://web.archive.org/web/20220521220936id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2015/04/01",
+     "sha256": "164886759d02fad9500708ceb440efb7330b24a690b67f650f347e1c38b37e8e"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 228,
+     "source_url": "https://web.archive.org/web/20191120140834id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2016/01/01",
+     "sha256": "065bebd8cc5a13001c49b4773b72b5228568e827fdcd1fd0246315e769a6d670"
+    },
+    {
+     "from": "2016-06-09",
+     "units": 231,
+     "source_url": "https://web.archive.org/web/20220521220930id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2016/06/09",
+     "sha256": "62e8011561c2641c3fe9a3edae9a9e417b8d227d56020b3bfb1a0356caecdcc4"
+    },
+    {
+     "from": "2017-08-16",
+     "units": 232,
+     "source_url": "https://web.archive.org/web/20251116085531id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2017/08/16",
+     "sha256": "d18573f98610270fd8dc7901aba088811c198fc0970644c67acbc002dce2bcd8"
+    },
+    {
+     "from": "2018-11-28",
+     "units": 232,
+     "source_url": "https://web.archive.org/web/20251115225701id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2018/11/28",
+     "sha256": "c800d3439d06e1b339b8572eccb507de5647cfdd3a27732f98af52c8ec0d1d10"
+    },
+    {
+     "from": "2019-04-04",
+     "units": 233,
+     "source_url": "https://web.archive.org/web/20251116013506id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2019/04/04",
+     "sha256": "399d9d0c3bfff040f700d3da373471c9c04dccc3e9452d893d7652c6ebf94050"
+    },
+    {
+     "from": "2019-05-01",
+     "units": 234,
+     "source_url": "https://web.archive.org/web/20251115165917id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2019/05/01",
+     "sha256": "643709509e8c7e66b2a968c35572409e6e26cbcea98fd884747fe2c01302e6db"
+    },
+    {
+     "from": "2019-09-01",
+     "units": 235,
+     "source_url": "https://web.archive.org/web/20260222054905id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2019/09/01",
+     "sha256": "796fed78b4948a3ca762893235da539f195dd7ef61e3877114821cca41016a6d"
+    },
+    {
+     "from": "2019-11-19",
+     "units": 236,
+     "source_url": "https://web.archive.org/web/20240726224959id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2019/11/19",
+     "sha256": "503eead245f965684d5e064fd73c0a903363561c099c41351b1458f5600f77ca"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 236,
+     "source_url": "https://web.archive.org/web/20240726225032id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2020/07/01",
+     "sha256": "38ded3abf482a1cde5ee2305b76e95d9ff880b92f579299de521194ef077503a"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 244,
+     "source_url": "https://web.archive.org/web/20240726225032id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2020/07/01",
+     "sha256": "38ded3abf482a1cde5ee2305b76e95d9ff880b92f579299de521194ef077503a"
+    },
+    {
+     "from": "2021-01-05",
+     "units": 245,
+     "source_url": "https://web.archive.org/web/20251115121327id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2021/01/05",
+     "sha256": "c0f5a864196706e6da35ea58578441f864dca21b7c1de44071794828c06be47c"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 246,
+     "source_url": "https://web.archive.org/web/20251114230241id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2021/08/01",
+     "sha256": "ded7d0854aaba2dc6f642600798a6a9b92e4b4fcd57384dce710763d0718a03b"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 249,
+     "source_url": "https://web.archive.org/web/20240726225044id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2022/08/01",
+     "sha256": "a751b90baae7bed0dd313eac9e0ff3cc7adcbf5d77bca2c483b0da248b7b0d9a"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 251,
+     "source_url": "https://web.archive.org/web/20240726225117id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2022/11/25",
+     "sha256": "9f276538e46c560ced82d7f7984e3e62de1e7cb8ce73abe02233fa7bf250042a"
+    },
+    {
+     "from": "2024-10-22",
+     "units": 251,
+     "source_url": "https://web.archive.org/web/20251117070815id_/https://likumi.lv/ta/id/26019-darba-likums/redakcijas-datums/2024/10/22",
+     "sha256": "6f25a9421bc6e5b8fa33e409bf10d765f67b28bcd4ae1ee3444341233aac4bb9"
+    }
+   ]
+  }
+ ]
+}
