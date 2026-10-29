@@ -1,0 +1,115 @@
+{
+ "country": "LV",
+ "acts": [
+  {
+   "slug": "satversme",
+   "short": "Satversme",
+   "title": "Latvijas Republikas Satversme",
+   "url": "https://likumi.lv/ta/id/57980-latvijas-republikas-satversme",
+   "versions": [
+    {
+     "from": "1922-11-07",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20211113123824id_/https://likumi.lv/ta/id/57980/redakcijas-datums/1922/11/07",
+     "sha256": "d9641c590aa86b98177a95ded4e355d36e4e60f880cd0a8a5de9a6c3c543fd5a"
+    },
+    {
+     "from": "1933-04-14",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1933/04/14",
+     "sha256": "eb169c693bffaa217971401a4f6ab9bc5b809c420cf03030337fb7babecd6f12"
+    },
+    {
+     "from": "1994-02-26",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20241211192223id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1994/02/26",
+     "sha256": "88b688c1598d58fb9c677057d1175f0f43ed8be54b1010854a6a43e0aac7f924"
+    },
+    {
+     "from": "1996-06-26",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20240921210528id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1996/06/26",
+     "sha256": "c85ea32afa41ef58176d8f79934c344cdf3effe9ffdeaf335d822543a0751362"
+    },
+    {
+     "from": "1997-12-31",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260215000753id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1997/12/31",
+     "sha256": "353c5b2e2250e739b41944e88ebf3245b0584e0090e46662511e6b29184f66f2"
+    },
+    {
+     "from": "1998-11-06",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260214002750id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/1998/11/06",
+     "sha256": "989481d8b8fc1a264bd6f8ff46c5956b5c0a7fb2d836b2ee2b2a705153e86eae"
+    },
+    {
+     "from": "2002-05-24",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20241211210329id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2002/05/24",
+     "sha256": "a4b661047f0546e38fcde2665de2d74bf84305eb31aa362501e1ed27d9450bdb"
+    },
+    {
+     "from": "2002-11-05",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20241211210329id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2002/05/24",
+     "sha256": "a4b661047f0546e38fcde2665de2d74bf84305eb31aa362501e1ed27d9450bdb"
+    },
+    {
+     "from": "2003-06-05",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2003/06/05",
+     "sha256": "ffdd628b09685c652ef0a9fe3dddeffca65ac58aa01494e6d593e41c279bedca"
+    },
+    {
+     "from": "2004-10-21",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2004/10/21",
+     "sha256": "c3e2b41e6d15bcc2ed36ed152a80c4f19a1edd8feb8dc006cad9a70a8fd04ed8"
+    },
+    {
+     "from": "2006-01-17",
+     "units": 126,
+     "source_url": "https://web.archive.org/web/20260212025706id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2006/01/17",
+     "sha256": "587234e5738f2b4c84e0085ccbd4c35134d00baf3fb4cbcc12f51032f58051ae"
+    },
+    {
+     "from": "2007-05-31",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260906075005id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2007/05/31",
+     "sha256": "868cac19a942c6879173905d1b76cf462d359f0fd0daa735f2c56946c11ea69f"
+    },
+    {
+     "from": "2010-11-02",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260217090309id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2010/11/02",
+     "sha256": "aea7aa9439f498f4ad0bff7052a13ee4fdb0ad3e9789b592ffab2dc2d59db050"
+    },
+    {
+     "from": "2013-10-18",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20251123033634id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2013/10/18",
+     "sha256": "3edf2f51003e49c2ee7d993f1e186ddf2f59b4faac276834a7dc39776f9299c4"
+    },
+    {
+     "from": "2014-07-22",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20241211211934id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2014/07/22",
+     "sha256": "1e3af85c00d3ff9f9d43e481b613364598468601f97b560ce9b67d4131f6c6af"
+    },
+    {
+     "from": "2016-06-14",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260214221300id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2016/06/14",
+     "sha256": "ed65c1bce0b3fc36a50f843cd72a086d054f7a7e63b5ff2eeb5039a38c4b5236"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260217145243id_/https://likumi.lv/ta/id/57980-latvijas-republikas-satversme/redakcijas-datums/2019/01/01",
+     "sha256": "c7ad25d09c90dc998c876e9602b3f3e5b1e053a0d6f279cf576f750bdaa66b18"
+    }
+   ]
+  }
+ ]
+}
