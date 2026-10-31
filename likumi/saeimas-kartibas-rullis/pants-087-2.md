@@ -1,0 +1,1 @@
+87.² Ja Saeimā izskatīšanai ir iesniegta likumprojektu pakotne, kas paredz institūciju reorganizāciju, un tā satur tikai tādu regulējumu, kas attiecas uz institūciju nosaukumu maiņu, kompetenču pārdali vai citu ar reorganizāciju tieši saistītu tehnisku precizējumu izdarīšanu, tad pirmajā lasījumā debates un balsošana notiek par visu likumprojektu pakotni kopumā.

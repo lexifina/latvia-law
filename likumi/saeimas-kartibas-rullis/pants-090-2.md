@@ -1,0 +1,1 @@
+90.² Ja likumprojektu pakotne pieņemta pirmajā lasījumā, Saeima lemj par termiņu, kādā iesniedzami priekšlikumi otrajam lasījumam. Visiem pakotnes likumprojektiem nosakāms viens priekšlikumu iesniegšanas termiņš.
