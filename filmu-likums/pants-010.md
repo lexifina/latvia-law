@@ -10,6 +10,6 @@
 7) uzrauga filmu klasifikācijas noteikumu izpildi;
 8) apkopo un analizē informāciju par filmu nozari;
 9) administrē valstij piederošo vai piekritīgo filmu autortiesības un blakustiesības;
-10) piešķir filmai kopražojuma statusu, tai skaitā saskaņā ar Eiropas konvenciju par kinematogrāfiskiem kopražojumiem;
+10) piešķir filmai kopražojuma statusu, tai skaitā saskaņā ar Pārskatīto Eiropas Padomes konvenciju par kino kopražojumiem;
 11) veic citas normatīvajos aktos noteiktās funkcijas un uzdevumus.
 (3) Nacionālais kino centrs tiek finansēts no valsts budžeta dotācijas no vispārējiem ieņēmumiem, no īpašiem mērķiem iezīmētiem ieņēmumiem, kā arī no pašu ieņēmumiem, to skaitā no ieņēmumiem par sniegtajiem maksas pakalpojumiem, no ziedojumiem, dāvinājumiem un ārvalstu finansiālā atbalsta līdzekļiem.
