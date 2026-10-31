@@ -1,0 +1,3 @@
+8.¹ pants. Sabiedrisko elektronisko plašsaziņas līdzekļu vēsturiskās identitātes saglabāšana un atpazīstamības nodrošināšana
+(1) Valsts aizsargā sabiedrisko elektronisko plašsaziņas līdzekļu vēsturisko identitāti un atpazīstamību.
+(2) Latvijas Sabiedriskais medijs savā redakcionālajā darbībā, tai skaitā programmu veidošanā, lineāro un nelineāro pakalpojumu sniegšanā analogajā un digitālajā vidē, kā arī publiskajā komunikācijā saglabā un izmanto arī agrāko sabiedrisko elektronisko plašsaziņas līdzekļu vēsturiskos nosaukumus "Latvijas Radio" un "Latvijas Televīzija", to nosaukumu saīsinājumus, logotipus (arī stilizētā veidā) un preču zīmes. No šā noteikuma var atkāpties, veidojot jaunas programmas vai pakalpojumus.
