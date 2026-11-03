@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 15,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 1,
+ "datums": "2026-11-03",
+ "ieraksts": {
+  "dkp_id": "ffabf7d3-0c51-4489-9f54-f303efae608a",
+  "lastmodtime": "\"AAAAAAKo5VU=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "1",
+  "VOTEWITHSIGNS": "1",
+  "NAME": "",
+  "SURNAME": "",
+  "VOTEDEPSUFFIX": "",
+  "FRACTION": "",
+  "RESULT": "",
+  "CANDIDATENAMES": "Edvards Smiltēns#Jūlija Stepaņenko",
+  "CANDIDATERESULT": "79:15#15:79",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "03.11.2026 14:52:19",
+  "VOTEMOTIVE": "Saeimas priekšsēdētāja vēlēšanas",
+  "VOTING_ID": "4de8af6d-0aa5-4789-80e5-ec2fddaffbf5",
+  "VOTERESULT_ABSTAIN": "",
+  "VOTERESULT_AGAINST": "",
+  "VOTERESULT_FOR": "",
+  "VOTERESULT_REGISTERED": "",
+  "VOTE_NUMBER": "1",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "15.Saeimas 2026.gada rudens sesija-1-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/fc439114-ea51-4ed1-963e-78d58adaf370/download/15.saeimas-2026.gada-rudens-sesija-1-vote.xml",
+  "sha256": "7e1b85a06fb4f754aa4d4b153c4fe7a522c0dc12149afa8d53ba4510381e2842",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
