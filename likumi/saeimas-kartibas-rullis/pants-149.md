@@ -15,7 +15,7 @@
 14) Nacionālās drošības komisija;
 15) Pilsonības, migrācijas un sabiedrības saliedētības komisija;
 16) Eiropas lietu komisija;
-17) Ilgtspējīgas attīstības komisija.
+17) Ilgtspējīgas attīstības un demogrāfijas jautājumu komisija.
 (2) Katras komisijas izveidošanas principus nosaka Saeima.
 (3) Ārpolitiskai darbībai nepieciešamos budžeta izdevumus komisija saskaņo ar Prezidiju.
 (4) Pilsonības, migrācijas un sabiedrības saliedētības komisija veic arī parlamentāro kontroli pār Pilsonības likuma izpildi.
