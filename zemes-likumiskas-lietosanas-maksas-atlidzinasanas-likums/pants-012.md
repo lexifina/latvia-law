@@ -1,0 +1,2 @@
+12. pants. Līdzekļi atlīdzinājuma izmaksai
+Atlīdzinājumu izmaksā no valsts pamatbudžeta programmas "Līdzekļi neparedzētiem gadījumiem". Ar atlīdzinājuma izmaksu saistītos administratīvos izdevumus primāri sedz no Tieslietu ministrijai piešķirtajiem valsts budžeta līdzekļiem. Nepietiekama finansējuma gadījumā līdzekļus var pieprasīt no valsts pamatbudžeta programmas "Līdzekļi neparedzētiem gadījumiem".
