@@ -4,6 +4,7 @@
 1) atvairītu bruņotu vai militāru iebrukumu Latvijas Republikas teritorijā;
 2) aizturētu personu, kura nelikumīgi šķērsojusi valsts robežu, ja nav citas iespējas šo personu aizturēt;
 3) atvairītu uzbrukumu vai izbeigtu pretošanos, ja tiek radīti reāli draudi robežsarga vai citas personas dzīvībai vai veselībai un citādā veidā šos draudus nav iespējams novērst;
+3¹) atvairītu uzbrukumu Robežsardzes apsargājamam objektam vai valsts robežas infrastruktūras objektam;
 4) novērstu nelikumīgu mēģinājumu vardarbīgi atņemt ieroci;
 5) aizturētu personu, kura atsakās izpildīt robežsarga likumīgu prasību nodot priekšmetu, ar kuru var tikt apdraudēta robežsarga vai citas personas dzīvība vai veselība, ja nav citas iespējas šo personu aizturēt;
 6) apturētu transportlīdzekli vai jebkuru citu ierīci, kas pēc konstrukcijas paredzēta kuģošanai vai lai pārvietotos pa sauszemi, nodarot šim transportlīdzeklim vai ierīcei bojājumus, ja tās vadītājs vai apkalpe rada reālus draudus robežsarga vai citas personas dzīvībai vai veselībai, nepakļaujas robežsarga likumīgajai prasībai apstādināt transportlīdzekli vai ierīci un nav citas iespējas šo transportlīdzekli vai ierīci apturēt;
@@ -13,9 +14,10 @@
 (4) Bez brīdinājuma ieroci drīkst pielietot:
 1) ja uzbrukumā vai pretojoties tiek lietots priekšmets, ar kuru var tikt apdraudēta robežsarga vai citas personas dzīvība vai veselība, vai ja uzbrukums vai pretošanās ir pēkšņa;
 2) ja uzbrukumā vai pretojoties tiek izmantots transportlīdzeklis vai jebkura cita ierīce, kas pēc konstrukcijas paredzēta kuģošanai vai lai pārvietotos pa sauszemi;
-3) šā panta otrās daļas 8. punktā minētajā gadījumā.
+3) šā panta otrās daļas 8. punktā minētajā gadījumā;
+4) ja konkrētajā situācijā šāds brīdinājums nav iespējams.
 (5) Aizliegts pielietot ieroci pret sievieti, personu ar redzamu invaliditātes pazīmi un bērnu, izņemot gadījumus, kad minētās personas ar savu rīcību apdraud robežsarga vai citas personas dzīvību vai veselību vai izrāda bruņotu pretošanos, vai izdara bruņotu uzbrukumu.
-(6) Pielietojot vai izmantojot ieroci, maksimāli ierobežojams tā nodarītais kaitējums, kā arī, ja nepieciešams, nekavējoties nodrošināma pirmās palīdzības sniegšana un neatliekamās medicīniskās palīdzības izsaukšana.
+(6) Pielietojot vai izmantojot ieroci, maksimāli ierobežojams tā nodarītais kaitējums, kā arī, ja nepieciešams, nekavējoties nodrošināma pirmās palīdzības sniegšana un neatliekamās medicīniskās palīdzības izsaukšana. Ja ieroča pielietošanas vai izmantošanas rezultātā persona ir ievainota vai iestājusies tās nāve, Robežsardze nekavējoties, bet ne vēlāk kā 24 stundu laikā par to ziņo prokuratūrai.
 (7) Robežsargs:
 1) sniedzot atbalstu citai valsts vai pašvaldības institūcijai tās uzdevumu izpildē vai pārtraucot vai novēršot noziedzīgu nodarījumu, kura izmeklēšana nav Robežsardzes kompetencē, ieroci pielieto un izmanto atbilstoši likumam "Par policiju";
 2) pildot dienesta pienākumus ārpus Latvijas Republikas, ieroci pielieto un izmanto saskaņā ar starptautisko tiesību normām.

@@ -1,6 +1,6 @@
 16. pants. Fiziskā spēka, speciālo cīņas paņēmienu un speciālo līdzekļu lietošana un dienesta suņu izmantošana
 (1) Robežsargam, pildot dienesta pienākumus, ir tiesības lietot fizisko spēku, speciālos cīņas paņēmienus un speciālos līdzekļus, kā arī izmantot dienesta suņus, lai:
-1) atvairītu uzbrukumu robežsargam vai citai personai;
+1) atvairītu uzbrukumu robežsargam vai citai personai, kā arī Robežsardzes apsargājamam objektam vai valsts robežas infrastruktūras objektam;
 1¹) novērstu personas nelikumīgu ieceļošanu valstī tam neparedzētā vietā un laikā;
 2) novērstu nelikumīgu iekļūšanu nekustamajā īpašumā vai citā objektā, kas atrodas Robežsardzes valdījumā vai turējumā;
 3) atbrīvotu ieņemto nekustamo īpašumu vai citu objektu, kas atrodas Robežsardzes valdījumā vai turējumā;
