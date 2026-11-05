@@ -1,0 +1,1 @@
+3. Ja Pārvaldnieka valdes loceklis ir iecelts šajā amatā pēdējā gada laikā pirms šā likuma spēkā stāšanās, Kultūras ministrija divu mēnešu laikā pēc šā likuma spēkā stāšanās sniedz atzinumu par viņa atbilstību šā likuma 5. panta trešās daļas kritērijiem.

@@ -1,0 +1,3 @@
+2. pants. Latgales vēstniecība GORS un tās darbībai nepieciešamais nekustamais īpašums
+(1) Latgales vēstniecība GORS ir valsts, reģionālās un pašvaldības nozīmes kultūras centrs - akustiskā koncertzāle.
+(2) Latgales vēstniecības GORS darbības nodrošināšanai nepieciešamais nekustamais īpašums ir nekustamais īpašums Pils ielā 4, Rēzeknē (nekustamā īpašuma kadastra numurs 2100 011 0008), kas sastāv no zemes vienības 3,4901 hektāra platībā (kadastra apzīmējums 2100 011 0007) un būves (kadastra apzīmējums 2100 011 0295 001), (turpmāk - nekustamais īpašums), īpašnieks - Rēzeknes valstspilsētas pašvaldība.

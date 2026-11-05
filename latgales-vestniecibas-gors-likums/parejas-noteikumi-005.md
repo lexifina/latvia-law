@@ -1,0 +1,1 @@
+5. Ministru kabinets līdz 2027. gada 31. martam sniedz Saeimai ziņojumu par valsts finansiālās līdzdalības iespējām Latgales vēstniecības GORS darbības nodrošināšanā, tostarp par iespēju deleģēt Pārvaldniekam valsts pārvaldes uzdevumus kultūras un kultūrizglītības jomā, kā arī attiecībā uz latgaliešu rakstu valodas un latgaliskās identitātes saglabāšanu, aizsardzību un attīstību.

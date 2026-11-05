@@ -1,0 +1,6 @@
+1. pants. Likuma mērķis un darbības joma
+(1) Šā likuma mērķis ir:
+1) nodrošināt Latgales vēstniecības GORS kā valsts, reģionālās un pašvaldības nozīmes kultūras centra darbības efektīvu, ilgtspējīgu un demokrātisku pārvaldību un nepārtrauktību, veicināt valsts un reģionālās kultūrpolitikas īstenošanu, sabiedrības saliedētību, kā arī stiprināt vienotu informatīvo telpu un iedzīvotāju sajūtu, ka viņi ir piederīgi Latvijas valstij;
+2) sekmēt latgaliešu rakstu valodas, latgaliskās identitātes un kultūrvēsturiskās vides saglabāšanu un ilgtspējīgu attīstību, kā arī uzsvērt Latgales vēstniecības GORS nozīmi nacionālās drošības - sabiedrības labklājības, stabilitātes, kā arī brīvas un demokrātiskas attīstības - veicināšanā Latvijas austrumu teritorijā;
+3) nodrošināt reģionālo koncertzāļu izveidei piesaistītā ārvalstu finanšu instrumentu un pašvaldību līdzfinansējuma, kā arī valsts budžeta dotācijas pašvaldībām ietvaros sasniegtā rezultāta - Austrumlatvijas reģionālā daudzfunkcionālā centra izveide - ilgtspēju.
+(2) Šis likums nosaka prasības un kārtību rīcībai ar Latgales vēstniecības GORS darbībai nepieciešamo nekustamo īpašumu, Latgales vēstniecības GORS darbības pārvaldību un pārraudzību, kā arī vispārīgos Latgales vēstniecības GORS darbības noteikumus.
