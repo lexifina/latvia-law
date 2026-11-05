@@ -18,4 +18,4 @@
 3) ne mazāk kā divdesmit Saeimas deputātiem;
 4) Ministru kabinetam;
 5) Tieslietu padomei likumā noteiktās kompetences ietvaros.
-(3) Tiesības iesniegt pieteikumu par lietas ierosināšanu par tāda rīkojuma atbilstību likumam, ar kuru Ministru kabineta pilnvarotais ministrs ir apturējis pašvaldības domes pieņemto lēmumu (16.panta 5.punkts), ir attiecīgajai domei.
+(3) Tiesības iesniegt pieteikumu par lietas ierosināšanu par tāda rīkojuma atbilstību likumam, ar kuru Ministru kabineta pilnvarotais ministrs ir apturējis pašvaldības domes pieņemto lēmumu (16.panta 5.punkts), kā arī par tāda Ministru kabineta lēmuma, ar kuru ir apturēta pašvaldības teritorijas plānojuma vai lokālplānojuma darbība, atbilstību likumam, ir attiecīgajai domei.
