@@ -1,10 +1,10 @@
 41.pants. Papildu prasības atsevišķu veidu reklāmas izvietošanai
 (1) Izvietojot ilgstošu reklāmu, ievēro šādus noteikumus:
 1) visā ilgstošas reklāmas laikā ir norāde, ka tiek pārraidīta ilgstoša reklāma;
-2) ilgstošu reklāmu nedrīkst pārraidīt no pulksten 19.00 līdz 23.00.
+2) (izslēgts ar 22.10.2026. likumu).
 (2) Izvietojot daļēja ekrāna reklāmu, ievēro šādus noteikumus:
-1) daļēja ekrāna reklāma nedrīkst aizņemt vairāk kā vienu trešdaļu ekrāna;
-2) daļēja ekrāna reklāmas laukums ir nemainīgs, viegli identificējams un skaidri, ar vizuāliem līdzekļiem nodalīts no pārējā ekrāna. Ja daļēja ekrāna reklāma tiek izvietota uz kadrā redzamā pulksteņa raidījumu starplaikos, to var nenodalīt ar vizuāliem līdzekļiem no pārējā kadra;
+1) (izslēgts ar 22.10.2026. likumu);
+2) daļēja ekrāna reklāmas laukums ir viegli identificējams un skaidri, ar vizuāliem līdzekļiem nodalīts no pārējā ekrāna. Ja daļēja ekrāna reklāma tiek izvietota uz kadrā redzamā pulksteņa raidījumu starplaikos, to var nenodalīt ar vizuāliem līdzekļiem no pārējā kadra;
 3) neatkarīgo producentu vai citu audiovizuālu elektronisko plašsaziņas līdzekļu veidotajos raidījumos elektroniskais plašsaziņas līdzeklis drīkst izvietot daļēja ekrāna reklāmu tikai ar tiesību turētāja piekrišanu;
 4) daļēja ekrāna reklāma tiek ieskaitīta reklāmas apjomā, kas noteikts šā likuma 42. pantā.
 (3) Izvietojot virtuālo reklāmu, ievēro šādus noteikumus:

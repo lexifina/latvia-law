@@ -10,6 +10,7 @@
 7) pieprasa no elektroniskajiem plašsaziņas līdzekļiem dokumentus, kas apliecina, ka tie ievēro šā likuma 46., 47. un 48.panta noteikumus;
 8) veic elektronisko plašsaziņas līdzekļu darbības monitoringu un apkopo tā rezultātus;
 8¹) atbilstoši kompetencei īsteno uzraudzības iestādes funkcijas Informācijas sabiedrības pakalpojumu likuma izpratnē;
+8²) atbilstoši kompetencei īsteno valsts regulatīvās iestādes funkcijas likuma "Par presi un citiem masu informācijas līdzekļiem" izpratnē;
 9) nodrošina piešķirto valsts budžeta līdzekļu efektīvu un lietderīgu izlietošanu sabiedrības interesēs;
 10) veicina Latvijas jurisdikcijā esošo elektronisko plašsaziņas līdzekļu konkurētspēju Latvijas, Eiropas un pasaules tirgū;
 11) rada vienlīdzīgus darbības nosacījumus visiem Latvijas jurisdikcijā esošajiem plašsaziņas līdzekļiem;
