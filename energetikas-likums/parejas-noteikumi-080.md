@@ -1,4 +1,3 @@
-80. Pārvaldītājs no 2024. gada 1. janvāra līdz 2028. gada 31. decembrim nodrošina drošības rezervju iegādi 100 procentu apmērā valsts īpašumā, ievērojot visus šādus nosacījumus:
-1) pārvaldītājs, sākot ar 2024. gadu, katru gadu valsts īpašumā iegādājas ne mazāk kā 15 procentus no nepieciešamo drošības rezervju apjoma;
-2) pārvaldītājs, sākot ar 2024. gadu, katru gadu iegādājas drošības rezervju pakalpojumu drošības rezervju izveidei tādā apjomā, par kādu nav iegādātas drošības rezerves valsts īpašumā;
-3) šā pārejas noteikumu punkta 2. apakšpunktā minēto drošības rezervju pakalpojuma iegādes līgumu izpildes un administrēšanas izmaksas pārvaldītājs sedz no drošības rezervju uzkrāšanas fonda līdzekļiem.
+80. Pārvaldītājs no 2024. gada 1. janvāra pakāpeniski iegādājas drošības rezerves valsts īpašumā un līdz 2028. gada 31. decembrim nodrošina to iegādi 100 procentu apmērā no nepieciešamā drošības rezervju apjoma, neieskaitot aviācijas nozarei uzturamo drošības rezervju apjomu un ievērojot šādus nosacījumus:
+1) pārvaldītājs katru gadu iegādājas drošības rezervju pakalpojumu drošības rezervju izveidei tādā apjomā, kas atbilst starpībai starp nepieciešamo drošības rezervju apjomu un valsts īpašumā esošo drošības rezervju apjomu un aviācijas nozares uzturēto drošības rezervju apjomu;
+2) šā pārejas noteikumu punkta 1. apakšpunktā minēto drošības rezervju pakalpojuma iegādes līgumu izpildes un administrēšanas izmaksas pārvaldītājs sedz no drošības rezervju uzkrāšanas fonda līdzekļiem.
