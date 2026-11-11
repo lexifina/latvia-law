@@ -1,0 +1,1 @@
+3. pants. Līgums stājas spēkā dienā, kad tiek deponēts instruments par pievienošanos līgumam, un Ārlietu ministrija par to paziņo oficiālajā izdevumā "Latvijas Vēstnesis". Līdz ar likumu izsludināms līgums angļu valodā un tā tulkojums latviešu valodā.
