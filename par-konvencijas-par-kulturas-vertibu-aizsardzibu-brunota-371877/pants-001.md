@@ -1,0 +1,1 @@
+1. pants. 1954. gada 14. maija Hāgas konvencijas par kultūras vērtību aizsardzību bruņota konflikta gadījumā 1999. gada 26. marta Otrais protokols (turpmāk - Protokols) ar šo likumu tiek pieņemts un apstiprināts.
