@@ -1,2 +1,2 @@
 CETURTĀ APAKŠNODAĻA
-Atlīdzība par kustoņu nodarītiem zaudējumiem
+Atlīdzība par kustoņu nodarītu kaitējumu
