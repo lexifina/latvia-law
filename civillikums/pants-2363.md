@@ -1,1 +1,1 @@
-2363. Par mājas kustoņa vai meža dzīvnieka nodarītiem zaudējumiem atbild kustoņa vai dzīvnieka turētājs, ja viņš nepierāda, ka viņš spēris visus pēc apstākļiem nepieciešamos drošības soļus, vai ka zaudējums būtu noticis, neraugoties uz visiem drošības soļiem.
+2363. Par mājas kustoņa vai meža dzīvnieka nodarītiem kaitējumiem atbild kustoņa vai dzīvnieka turētājs, ja viņš nepierāda, ka viņš spēris visus pēc apstākļiem nepieciešamos drošības soļus, vai ka kaitējums būtu noticis, neraugoties uz visiem drošības soļiem.
