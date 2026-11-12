@@ -1,0 +1,1 @@
+5. Komiteja nodrošina Rīcības plāna Latvijas Austrumu pierobežas ekonomiskajai izaugsmei un drošības stiprināšanai 2025.-2027. gadam īstenošanas uzraudzību, ne retāk kā reizi pusgadā katram tās loceklim sniedzot aktuālo informāciju par tā pārstāvētās ministrijas atbildībā esošo pasākumu ieviešanas progresu un ietekmi uz Latvijas austrumu teritorijas attīstību.

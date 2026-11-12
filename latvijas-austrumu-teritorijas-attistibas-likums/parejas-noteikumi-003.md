@@ -1,0 +1,1 @@
+3. Ministru kabinets līdz 2027. gada 31. augustam veic visaptverošu tiesiskā regulējuma izvērtējamu attiecībā uz tā atbilstību šā likuma 1. pantā noteiktajam mērķim un iesniedz Saeimai likumprojektus, kas nepieciešami šā likuma 3. pantā noteikto principu un 4. pantā noteikto īpašo atbalsta pasākumu efektīvai īstenošanai.
