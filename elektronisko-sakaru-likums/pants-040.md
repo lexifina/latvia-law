@@ -5,3 +5,4 @@
 (4) Regulators ir tiesīgs pieprasīt, lai starppersonu sakaru pakalpojuma sniedzējs informē patērētāju par ārējiem faktoriem, kas ietekmē tā nodrošinātā pakalpojuma kvalitāti.
 (5) Elektronisko sakaru komersants pēc Regulatora pieprasījuma šā panta trešajā un ceturtajā daļā noteikto informāciju pirms tās publicēšanas iesniedz Regulatoram.
 (6) Regulators izstrādā un publisko elektronisko sakaru pakalpojumu kvalitātes pārskatu par iepriekšējo kalendāra gadu.
+(7) (Daļa stājas spēkā 01.07.2027. un iekļauta likuma redakcijā uz 01.07.2027. Sk. pārejas noteikumu 24. punktu)
