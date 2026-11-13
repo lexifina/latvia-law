@@ -1,2 +1,0 @@
-11. pants. Ilgtspējas ziņu sniegšanas standarti mazai un vidējai sabiedrībai
-Likuma subjekts, kas ir maza un vidēja sabiedrība, ja šīs sabiedrības pārvedami vērtspapīri ir iekļauti regulētajā tirgū, maza un nesarežģīta iestāde, kaptīvā apdrošināšanas sabiedrība vai kaptīvā pārapdrošināšanas sabiedrība, saskaņā ar šā likuma 4. panta desmito daļu ilgtspējas ziņojumu sagatavo atbilstoši ar Eiropas Komisijas īstenošanas aktiem apstiprinātajiem ilgtspējas ziņu sniegšanas standartiem mazai un vidējai sabiedrībai.

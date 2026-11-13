@@ -1,1 +1,0 @@
-10. Maza un vidēja sabiedrība, ja šo sabiedrību pārvedami vērtspapīri ir iekļauti regulētajā tirgū, par pārskata gadiem, kuri sākas pirms 2028. gada 1. janvāra, var vadības ziņojumā neiekļaut šā likuma 4. pantā minēto ilgtspējas ziņojumu. Šādos gadījumos likuma subjekts vadības ziņojumā sniedz īsu pamatojumu tam, kādēļ ziņas par ilgtspējas jautājumiem netiek sniegtas.

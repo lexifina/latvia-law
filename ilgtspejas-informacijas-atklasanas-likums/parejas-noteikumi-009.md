@@ -1,1 +1,0 @@
-9. Mazai un vidējai sabiedrībai, ja šo sabiedrību pārvedami vērtspapīri ir iekļauti regulētajā tirgū, ir pienākums sagatavot šā likuma 4. pantā minēto ilgtspējas ziņojumu, sākot ar 2028. pārskata gadu (pārskata gadu, kurš sākas 2028. gada 1. janvārī vai 2028. kalendāra gada laikā).

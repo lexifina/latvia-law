@@ -1,0 +1,1 @@
+16. Šā likuma 3. panta pirmās daļas 1. punktā minētajam likuma subjektam ir pienākums sagatavot šā likuma 4. vai 7. pantā minēto ilgtspējas ziņojumu, sākot ar 2027. pārskata gadu (pārskata gadu, kurš sākas 2027. gada 1. janvārī vai 2027. kalendāra gada laikā).

@@ -6,4 +6,4 @@
 (2) Mātes sabiedrība, kas ir arī meitas sabiedrība, nodrošina, ka mātes sabiedrības konsolidētais ilgtspējas ziņojums ir publiskots tās tīmekļvietnē latviešu valodā.
 (3) Šā panta pirmās daļas izpildei kredītiestādes, kuras ir pastāvīgi radniecīgas centrālajai iestādei, kura tās uzrauga saskaņā ar nosacījumiem, kas paredzēti Regulas (ES) Nr. 575/2013 10. pantā (ja to piemēro), uzskata par minētās centrālās iestādes meitas sabiedrībām.
 (4) Šā panta pirmās daļas izpildei apdrošināšanas sabiedrības, kuru centralizētu koordināciju veic cita sabiedrība atbilstoši Apdrošināšanas un pārapdrošināšanas likuma 1. panta pirmās daļas 41. punkta "b" apakšpunktam, tiek uzskatītas par koncerna mātes sabiedrības meitas sabiedrībām.
-(5) Šā panta pirmajā daļā noteikto atbrīvojumu nepiemēro tādiem šajā pantā minētajiem likuma subjektiem, kas ir lielas sabiedrības, kuru pārvedami vērtspapīri ir iekļauti regulētajā tirgū.
+(5) Šā panta pirmajā daļā noteikto atbrīvojumu piemēro arī sabiedrībai, kura ir sabiedriskas nozīmes struktūra.

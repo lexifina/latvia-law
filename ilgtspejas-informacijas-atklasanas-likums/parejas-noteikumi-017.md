@@ -1,0 +1,1 @@
+17. Attiecībā uz pārskata gadu, kurš sākas 2026. gadā, šā likuma 4. un 7. panta prasības var nepiemērot šā likuma pārejas noteikumu 5. un 6. punktā minētā sabiedrība, kuras neto apgrozījums bilances datumā nepārsniedz 450 000 000 euro vai kuras vidējais darbinieku skaits pārskata gadā nepārsniedz 1000.
