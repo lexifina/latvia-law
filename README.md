@@ -1,105 +1,116 @@
-# Latvia: law history in git
+# Latvija: tiesību aktu vēsture git repozitorijā
+
+**Latviešu** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Latvian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/lv/effort-dark.svg">
+<img alt="Latvijas tiesību akti šajā repozitorijā: kas tajā ir, izmaiņas pēc spēkā stāšanās gada, pilnīgums salīdzinājumā ar oficiālajiem avotiem un iekļautā satura pareizība" src="data/lv/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Latvia's national law, which global-law reads at `latvia/national/acts/`.
+Daļa no [lexifina/global-law](https://github.com/lexifina/global-law), kas ir vienota visu valstu tiesību git vēsture: šeit ir Latvijas nacionālās tiesības, kuras global-law lasa no `latvia/national/acts/`.
 
-The law of Latvia as a git history: one file per provision, one commit per law on the day its change took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+Latvijas tiesību akti kā git vēsture: katrai akta struktūrvienībai ir savs fails, katram likumam ir viena revīzija (commit) dienā, kad tā izdarītais grozījums stājās spēkā, un revīzijas autors ir likums, kas šo grozījumu izdarīja. `git blame` katrai rindai norāda likumu, no kura tā cēlusies; `git log` uzskaita visus panta grozījumus; izvēloties datumu, iegūst tajā dienā spēkā esošo tekstu.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `lv/`.
+Tas atbilst [lexifina/global-law](https://github.com/lexifina/global-law) kopīgajai struktūrai, kurā tam paredzēta vieta `lv/`.
 
-**What is in it now**
+**Kas tajā ir pašlaik**
 
-| Folder | Act | Versions | History |
+| Mape | Akts | Redakcijas | Vēsture |
 | --- | --- | ---: | --- |
-| `satversme/` | Latvijas Republikas Satversme (the Constitution, 1922) | 17 | As adopted by the Constituent Assembly (in force 7 November 1922), the 1933 amendment, and every amendment from 1994 to the one in force on 1 January 2019, still current |
-| `kriminallikums/` | Krimināllikums (the Criminal Law, 1998) | 83 | As enacted (in force 1 April 1999) to the version in force on 15 October 2026, through every consolidated version likumi.lv lists but one |
-| `fizisko-personu-datu-apstrades-likums/` | Fizisko personu datu apstrādes likums (the Personal Data Processing Law, 2018) | 3 | As enacted (in force 5 July 2018) to today, through its two amending laws |
-| `darba-likums/` | Darba likums (the Labour Law, 2001) | 29 | As enacted (in force 1 June 2002) to the version in force on 22 October 2024, still current, through every consolidated version likumi.lv lists but four |
+| `satversme/` | Latvijas Republikas Satversme (1922) | 17 | Satversmes sapulces pieņemtā redakcija (spēkā no 1922. gada 7. novembra), 1933. gada grozījums un visi grozījumi no 1994. gada līdz tam, kas ir spēkā no 2019. gada 1. janvāra un joprojām ir spēkā |
+| `kriminallikums/` | Krimināllikums (1998) | 83 | No pieņemtās redakcijas (spēkā no 1999. gada 1. aprīļa) līdz redakcijai, kas ir spēkā 2026. gada 15. oktobrī, ietverot visas likumi.lv uzskaitītās konsolidētās redakcijas, izņemot vienu |
+| `fizisko-personu-datu-apstrades-likums/` | Fizisko personu datu apstrādes likums (2018) | 3 | No pieņemtās redakcijas (spēkā no 2018. gada 5. jūlija) līdz šodienai, ietverot abus grozījumu likumus |
+| `darba-likums/` | Darba likums (2001) | 29 | No pieņemtās redakcijas (spēkā no 2002. gada 1. jūnija) līdz redakcijai, kas ir spēkā no 2024. gada 22. oktobra un joprojām ir spēkā, ietverot visas likumi.lv uzskaitītās konsolidētās redakcijas, izņemot četras |
 
-The text is in Latvian, the official language. The consolidated versions ("redakcijas") come from [likumi.lv](https://likumi.lv), the legislation site of VSIA "Latvijas Vēstnesis", the official publisher of the Republic of Latvia. likumi.lv says its consolidated texts are for information; the official publication is the gazette *Latvijas Vēstnesis* ([vestnesis.lv](https://www.vestnesis.lv)), where each amending law was published. The per-act `README.md` in each folder lists every provision, how often it changed and when.
+Teksts ir latviešu valodā, kas ir valsts valoda. Konsolidētās redakcijas ir ņemtas no [likumi.lv](https://likumi.lv), Latvijas Republikas oficiālā izdevēja VSIA "Latvijas Vēstnesis" tiesību aktu vietnes. likumi.lv norāda, ka tās konsolidētie teksti ir informatīvi; oficiālā publikācija ir oficiālajā izdevumā *Latvijas Vēstnesis* ([vestnesis.lv](https://www.vestnesis.lv)), kurā tika publicēts katrs grozījumu likums. Katras mapes `README.md` failā uzskaitītas visas attiecīgā akta struktūrvienības, cik bieži tās grozītas un kad.
 
-## A lawyer's questions as git commands
+## Jurista jautājumi kā git komandas
 
-| Question | Command |
+| Jautājums | Komanda |
 | --- | --- |
-| What did article 18 of the Satversme say on 1 June 2002? | `python tools/on.py 2002-06-01 satversme pants-018` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2002-06-01T23:59:59Z" main -- satversme/pants-018.md):satversme/pants-018.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2002-06-01T23:59:59Z" main -- satversme/pants-018.md; git show "$($r):satversme/pants-018.md"` |
-| Which law wrote each paragraph of article 36 of the Criminal Law? | `git blame kriminallikums/pants-036.md` |
-| Every change to the preamble of the Satversme, word by word | `git log -p --word-diff satversme/ievads.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one law changed | `git show law/likums-2014-06-19-267428` (tags `law/<key>`; the key is the law's adoption day and its likumi.lv id) |
-| The whole act on a date | `python tools/on.py 2015-01-01 kriminallikums` |
-| The act on a version's in-force day | `git show satversme/1998-11-06` (tags `<act>/<in-force day>`) |
+| Kā skanēja Satversmes 18. pants 2002. gada 1. jūnijā? | `python tools/on.py 2002-06-01 satversme pants-018` |
+| Tas pats tikai ar git (bash) | `git show $(git rev-list -1 --before="2002-06-01T23:59:59Z" main -- satversme/pants-018.md):satversme/pants-018.md` |
+| Tas pats PowerShell vidē | `$r = git rev-list -1 --before="2002-06-01T23:59:59Z" main -- satversme/pants-018.md; git show "$($r):satversme/pants-018.md"` |
+| Kurš likums ir katras Krimināllikuma 36. panta daļas autors? | `git blame kriminallikums/pants-036.md` |
+| Visi Satversmes ievada grozījumi, vārdu pa vārdam | `git log -p --word-diff satversme/ievads.md` |
+| Visi ierakstītie likumi pēc kārtas | `git log --reverse --format="%ad %an" --date=short main` |
+| Viss, ko grozīja viens likums | `git show law/likums-2014-06-19-267428` (birkas `law/<key>`; atslēga ir likuma pieņemšanas diena un tā identifikators likumi.lv) |
+| Viss akts noteiktā datumā | `python tools/on.py 2015-01-01 kriminallikums` |
+| Akts redakcijas spēkā stāšanās dienā | `git show satversme/1998-11-06` (birkas `<act>/<in-force day>`) |
 
-File names: `pants-018.md` is article 18, `pants-070-11.md` is article 70.¹¹, `nodala-08.md` is the heading of chapter VIII, `ievads.md` the preamble, `parejas-noteikumi-024.md` item 24 of the transitional provisions, and `zz-*.md` the closing lines (adoption, signatures). After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+Failu nosaukumi: `pants-018.md` ir 18. pants, `pants-070-11.md` ir 70.¹¹ pants, `nodala-08.md` ir VIII nodaļas virsraksts, `ievads.md` ir ievads, `parejas-noteikumi-024.md` ir pārejas noteikumu 24. punkts, un `zz-*.md` ir noslēguma rindas (pieņemšana, paraksti). Pēc repozitorija pārbūves atjauniniet birkas ar `git fetch --force --tags`: parasts fetch saglabā novecojušas birkas.
 
-## Dates
+## Datumi
 
-- Each commit is dated at **noon, Europe/Riga, on the day the change took effect**. The day is in the `In-force:` trailer, which the tools read.
-- **The day is the one likumi.lv gives**: each consolidated version starts on its in-force day, and each changed article carries a note such as "(30.04.2002. likuma redakcijā, kas stājas spēkā 05.11.2002.)". A law takes effect fourteen days after promulgation unless it sets another term (Satversme, art. 69); likumi.lv applies that rule or the law's own clause, so none is applied here.
-- **A change shown before its day.** likumi.lv's version of 24 May 2002 already shows the new article 18 (the MPs' oath), with a note putting it in force on 5 November 2002. Here article 18 keeps its earlier words until 5 November 2002, and that day is a commit of its own.
-- **Before 1970.** Git cannot store dates before 1970, so the commits for 1922 and 1933 are dated 1 January 1970, a second apart; the real day is in the `In-force:` trailer and in the tags.
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a change that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+- Katras revīzijas datums ir **pusdienlaiks pēc Rīgas laika (Europe/Riga) dienā, kad grozījums stājās spēkā**. Diena ir norādīta trailer laukā `In-force:`, ko nolasa rīki.
+- **Diena ir tā, ko norāda likumi.lv**: katra konsolidētā redakcija sākas tās spēkā stāšanās dienā, un katram grozītajam pantam ir piezīme, piemēram, "(30.04.2002. likuma redakcijā, kas stājas spēkā 05.11.2002.)". Likums stājas spēkā četrpadsmit dienas pēc izsludināšanas, ja likumā nav noteikts cits termiņš (Satversmes 69. pants); likumi.lv piemēro šo noteikumu vai paša likuma noteikumu, tāpēc šeit neviens no tiem netiek piemērots.
+- **Grozījums parādīts pirms tā dienas.** likumi.lv 2002. gada 24. maija redakcijā jau ir redzams jaunais 18. pants (Saeimas deputātu zvērests) ar piezīmi, ka tas stājas spēkā 2002. gada 5. novembrī. Šeit 18. pantā līdz 2002. gada 5. novembrim saglabājas iepriekšējais teksts, un šai dienai ir sava revīzija.
+- **Pirms 1970. gada.** Git nevar saglabāt datumus pirms 1970. gada, tāpēc 1922. un 1933. gada revīzijas ir datētas ar 1970. gada 1. janvāri ar vienas sekundes starpību; īstā diena ir norādīta trailer laukā `In-force:` un birkās.
+- `--before="YYYY-MM-DD"` bez laika izmanto jūsu pulksteņa diennakts laiku, tāpēc pirms pusdienlaika var tikt izlaists grozījums, kas stājās spēkā tajā dienā. Izmantojiet `T23:59:59Z`, kā parādīts iepriekš, vai rīku.
 
-## How it is checked
+## Kā tas pārbaudīts
 
-- **Against today's text.** The newest archived likumi.lv page of each act (captured 18 and 19 October and 3 October 2026) shows the version in force. Replaying every version in this record gives that page exactly, provision by provision: 125 files of the Satversme, 534 of the Criminal Law and 58 of the Personal Data Processing Law.
-- **Every version is a dated source.** Each version names its source page (an Internet Archive capture of likumi.lv, with the capture time in the address, or the gazette page) and the sha256 of the bytes it was read from, and the page's own version selector must name that version.
-- Every version of every act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
+- **Salīdzinājumā ar šodienas tekstu.** Katra akta jaunākajā arhivētajā likumi.lv lapā (iegūta 2026. gada 18. un 19. oktobrī un 3. oktobrī) redzama spēkā esošā redakcija. Secīgi piemērojot visas šajā ierakstā esošās redakcijas, iegūst tieši šo lapu, struktūrvienību pa struktūrvienībai: 125 Satversmes failus, 534 Krimināllikuma failus un 58 Fizisko personu datu apstrādes likuma failus.
+- **Katra redakcija ir datēts avots.** Katrai redakcijai ir norādīta tās avota lapa (likumi.lv kopija Internet Archive, kuras adresē ir kopijas iegūšanas laiks, vai oficiālā izdevuma lapa) un to baitu sha256, no kuriem tā nolasīta, un lapas redakciju izvēlnē jābūt norādītai tieši šai redakcijai.
+- Katra akta katra redakcija tiek nolasīta no git tās spēkā stāšanās dienā un iepriekšējā dienā (`tools/check_repo.py`); abām jāsakrīt ar `corpus.json`. Rezultāti ir `REPRODUCE.md`.
+- Repozitorija stāvokļa pārbaudes: `main` zarā nav sapludināšanas revīziju (merge commits), revīziju datumi nekad neiet atpakaļ, nekas nav datēts nākotnē, un katras revīzijas trailer lauki ir parsējami ar `git interpret-trailers --parse`.
+- Repozitorijs tiek otrreiz pārbūvēts no tiem pašiem datiem, un tam jādod identiskas jaucējvērtības (hash).
 
-## What "author" means
+## Ko nozīmē "autors"
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist (`likums-2014-06-19-267428@likumi.lv.invalid`), so `git blame` and `git log --author` name it. The committer is always Lexifina.
+Revīzijas autors ir likums, kas izdarīja grozījumu, ar e-pasta adresi, kas nevar pastāvēt (`likums-2014-06-19-267428@likumi.lv.invalid`), lai `git blame` un `git log --author` to nosauktu. Revīzijas iesniedzējs (committer) vienmēr ir Lexifina.
 
-- **Credits come only from the source.** An article is credited to the law its likumi.lv note names for that day. Where a note lists several laws but dates only the last ("Ar grozījumiem, kas izdarīti ar 12.02.2004., … un 13.12.2012. likumu, kas stājas spēkā 01.04.2013."), an earlier law in the list is credited only on a day another note gives as its in-force day. A chapter replaced as a whole (chapter VIII of the Satversme, 1998) credits its articles through the chapter's note.
-- **Unexplained changes** are committed by the publisher, labelled "unexplained", when no note explains them. There are five: article 52 of the Satversme reads "Valsts prezidents" in the only archived capture of the 1922 version and "Valsts Prezidents" in every later one and in the 1993 official republication (shown on 14 April 1933); and in the Criminal Law articles 55 and 58.1 on 1 January 2006 (the probation service), article 225 on 1 January 2015 and article 289 on 1 January 2022, whose notes do not name that day.
-- **The first commit of each act** is the act as enacted, credited to it: the Constituent Assembly's Satversme of 15 February 1922, the Criminal Law of 17 June 1998 and the Personal Data Processing Law of 21 June 2018.
-- Superscript numbers of inserted articles and paragraphs are kept as Unicode superscript digits, as printed: 70.¹¹, (2²).
-- Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see exactly which words each law changed.
+- **Autorība tiek noteikta tikai pēc avota.** Pants tiek attiecināts uz likumu, ko attiecīgajai dienai norāda likumi.lv piezīme. Ja piezīmē uzskaitīti vairāki likumi, bet datēts ir tikai pēdējais ("Ar grozījumiem, kas izdarīti ar 12.02.2004., … un 13.12.2012. likumu, kas stājas spēkā 01.04.2013."), sarakstā agrāk minētu likumu norāda tikai dienā, ko kāda cita piezīme norāda kā tā spēkā stāšanās dienu. Ja nodaļa aizstāta kopumā (Satversmes VIII nodaļa, 1998), tās panti tiek attiecināti uz likumu ar nodaļas piezīmes starpniecību.
+- **Neizskaidroti grozījumi** tiek ierakstīti izdevēja vārdā ar atzīmi "unexplained" (neizskaidrots), ja tos nepaskaidro neviena piezīme. Tādi ir pieci: Satversmes 52. pantā vienīgajā arhivētajā 1922. gada redakcijas kopijā ir "Valsts prezidents", bet visās vēlākajās kopijās un 1993. gada oficiālajā atkārtotajā publikācijā ir "Valsts Prezidents" (parādīts 1933. gada 14. aprīlī); un Krimināllikuma 55. un 58.1 pants 2006. gada 1. janvārī (probācijas dienests), 225. pants 2015. gada 1. janvārī un 289. pants 2022. gada 1. janvārī, kuru piezīmes šo dienu nenorāda.
+- **Katra akta pirmā revīzija** ir akts pieņemtajā redakcijā, kas attiecināta uz pašu aktu: Satversmes sapulces 1922. gada 15. februāra Satversme, 1998. gada 17. jūnija Krimināllikums un 2018. gada 21. jūnija Fizisko personu datu apstrādes likums.
+- Ievietoto pantu un daļu augšraksta numuri ir saglabāti kā Unicode augšraksta cipari, kā tie drukāti: 70.¹¹, (2²).
+- Blame attiecina veselas rindas (viena rindkopa vienā rindā). Lai redzētu, kurus vārdus tieši grozīja katrs likums, izmantojiet `git log -p --word-diff`.
 
-## What it does not show
+## Ko tas neparāda
 
-- **The Satversme's interruption.** It is kept as in force from 1922. Its operation was cut short by the coup of 1934 and by the occupation (1940–1990); the Supreme Council restored it in part on 4 May 1990, and in full when the 5th Saeima met on 6 July 1993. These events changed no words, so they are not commits.
-- **One Criminal Law version.** likumi.lv lists a version from 9 April 2014, but no capture of it is archived and no note in the next version names that day; any change made that day shows on 14 June 2014.
-- **Four Labour Law versions.** likumi.lv lists versions from 8 April 2005, 4 May 2011, 1 January 2020 and 1 June 2022 whose pages are not available (for 1 January 2020, only a copy made before the version before it took effect, which is not used). No note in the next version names those days, so the record has no commit on them; any change made then shows on the next version (for 1 January 2020, one article whose note gives that day). Articles 158–163 (Part E, administrative liability), shown by likumi.lv from 19 November 2019, are committed on 1 July 2020, the day its notes put them in force.
-- **The Labour Law as enacted.** Its first version is the act as published in the official gazette (Latvijas Vēstnesis Nr. 105, 6 July 2001). Six articles differ from likumi.lv's oldest available version (1 January 2003) only in spelling and typesetting; they show on that day as changes with no law named.
-- **The base versions on likumi.lv.** No capture of likumi.lv's base version of the Criminal Law (1 April 1999) or of the Personal Data Processing Law (5 July 2018) is archived. Their first versions are the acts as published in the official gazette (Latvijas Vēstnesis Nr. 199/200, 8 July 1998, and Nr. 132, 4 July 2018). The gazette page and likumi.lv lay paragraphs out differently; text that differs only in spacing or line breaks takes the later layout and is not a change.
-- **likumi.lv's notes and editorial material** are not law text and are not in the files: the amendment notes, the "PIEZĪMES" that quote amending laws' own transitional clauses, and placeholders for provisions not yet in force ("(Punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. …)"). A provision the consolidated text shows only as "(Izslēgts ar … likumu …)" is removed on that day; repealed paragraphs inside an article keep likumi.lv's "(izslēgta ar … likumu)" line.
-- **Court rulings.** Judgments of the Satversmes tiesa that void a provision appear only when likumi.lv's consolidated text changes; none is a separate commit in these four acts.
+- **Satversmes darbības pārtraukums.** Tā ir saglabāta kā spēkā esoša no 1922. gada. Tās darbību pārtrauca 1934. gada apvērsums un okupācija (1940–1990); Augstākā Padome to daļēji atjaunoja 1990. gada 4. maijā, bet pilnībā tā tika atjaunota, kad 1993. gada 6. jūlijā sanāca 5. Saeima. Šie notikumi negrozīja nevienu vārdu, tāpēc tie nav revīzijas.
+- **Viena Krimināllikuma redakcija.** likumi.lv uzskaita 2014. gada 9. aprīļa redakciju, bet tās kopija nav arhivēta, un neviena nākamās redakcijas piezīme šo dienu nenorāda; jebkurš tajā dienā izdarītais grozījums parādās 2014. gada 14. jūnijā.
+- **Četras Darba likuma redakcijas.** likumi.lv uzskaita 2005. gada 8. aprīļa, 2011. gada 4. maija, 2020. gada 1. janvāra un 2022. gada 1. jūnija redakcijas, kuru lapas nav pieejamas (2020. gada 1. janvāra redakcijai ir tikai kopija, kas izveidota, pirms stājās spēkā tai iepriekšējā redakcija, un tā netiek izmantota). Neviena nākamās redakcijas piezīme šīs dienas nenorāda, tāpēc ierakstā šajās dienās revīziju nav; jebkurš tad izdarītais grozījums parādās nākamajā redakcijā (2020. gada 1. janvāra gadījumā viens pants, kura piezīme norāda šo dienu). 158.–163. pants (E daļa, administratīvā atbildība), ko likumi.lv rāda no 2019. gada 19. novembra, ir ierakstīti 2020. gada 1. jūlijā, dienā, kad tie stājas spēkā saskaņā ar to piezīmēm.
+- **Darba likums pieņemtajā redakcijā.** Tā pirmā redakcija ir akts tādā veidā, kādā tas publicēts oficiālajā izdevumā (Latvijas Vēstnesis Nr. 105, 2001. gada 6. jūlijs). Seši panti no vecākās pieejamās likumi.lv redakcijas (2003. gada 1. janvāris) atšķiras tikai ar pareizrakstību un salikumu; šajā dienā tie parādās kā grozījumi, kuriem nav norādīts likums.
+- **Bāzes redakcijas likumi.lv.** likumi.lv Krimināllikuma bāzes redakcijas (1999. gada 1. aprīlis) un Fizisko personu datu apstrādes likuma bāzes redakcijas (2018. gada 5. jūlijs) kopija nav arhivēta. To pirmās redakcijas ir akti tādā veidā, kādā tie publicēti oficiālajā izdevumā (Latvijas Vēstnesis Nr. 199/200, 1998. gada 8. jūlijs, un Nr. 132, 2018. gada 4. jūlijs). Oficiālā izdevuma lapā un likumi.lv rindkopas ir izkārtotas atšķirīgi; teksts, kas atšķiras tikai ar atstarpēm vai rindu pārnesumiem, tiek ņemts vēlākajā izkārtojumā un netiek uzskatīts par grozījumu.
+- **likumi.lv piezīmes un redakcionālie materiāli** nav tiesību akta teksts un failos nav iekļauti: grozījumu piezīmes, "PIEZĪMES", kurās citēti grozījumu likumu pārejas noteikumi, un vietturi vēl spēkā nestājušām normām ("(Punkts stājas spēkā 01.01.2022. un iekļauts likuma redakcijā uz 01.01.2022. …)"). Struktūrvienība, ko konsolidētais teksts rāda tikai kā "(Izslēgts ar … likumu …)", attiecīgajā dienā tiek izņemta; izslēgtās daļas panta iekšienē saglabā likumi.lv rindu "(izslēgta ar … likumu)".
+- **Tiesu nolēmumi.** Satversmes tiesas spriedumi, ar kuriem norma atzīta par spēkā neesošu, parādās tikai tad, kad mainās likumi.lv konsolidētais teksts; šajos četros aktos neviens no tiem nav atsevišķa revīzija.
 
-## How it is built
+## Kā tas izveidots
 
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+Lexifina nolasa šeit uzskaitītos avotus un vienā korpusa failā ieraksta katra akta datētās redakcijas un likumus, kas izdarīja katru grozījumu. `tools/build.py` no šī faila izveido šo repozitoriju, un viens un tas pats korpuss vienmēr dod vienas un tās pašas revīziju jaucējvērtības; sīkāka informācija un pārbaudes ir `REPRODUCE.md`. Lexifina kodu uzrakstīja modelis (Claude); tas neuzrakstīja nekādu juridisku tekstu, un, veidojot vēsturi, neviens modelis netiek darbināts.
 
-No AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+Neviens MI modelis nav rakstījis vai mainījis juridisko tekstu. Skriptus uzrakstīja un avotus izvēlējās Claude Opus 5.5; sk. `REPRODUCE.md`.
 
-## Sources
+## Avoti
 
-| Source | Kind | Past versions | Names the amending act | API or bulk | Notes |
+| Avots | Veids | Iepriekšējās redakcijas | Norāda grozījumu aktu | API vai lielapjoma lejupielāde | Piezīmes |
 | --- | --- | --- | --- | --- | --- |
-| [likumi.lv](https://likumi.lv) | Official publisher's consolidated legislation (VSIA "Latvijas Vēstnesis") | yes, every version with its in-force day | yes, a note per article | no | Used, through Internet Archive captures |
-| [Latvijas Vēstnesis](https://www.vestnesis.lv) | Official gazette | the act as published | n/a | no | Used: amending laws' publication; base versions of the Criminal Law and the Personal Data Processing Law |
-| [Internet Archive](https://web.archive.org/) | Web archive | the captures it holds | n/a | – | Used: every likumi.lv page read is a pinned capture |
-| – | Web archive | n/a | n/a | yes | Checked: holds likumi.lv's current pages only |
-| [data.gov.lv](https://data.gov.lv) | Open data portal | n/a | n/a | CKAN API | Checked: no legislation dataset |
-| [legalize-lv](https://github.com/legalize-dev/legalize-lv) | Volunteer git repo built from likumi.lv | no, for these acts | no | n/a | Checked: one commit (today's text) for the Criminal Law and the data law, 2026 snapshots for the Satversme; no text taken |
-| [blame-likumi.lv](https://github.com/viktor-gusev/blame-likumi.lv) | Volunteer git blame for likumi.lv | yes | partly | n/a | Prior art; not read, no text copied |
+| [likumi.lv](https://likumi.lv) | Oficiālā izdevēja konsolidētie tiesību akti (VSIA "Latvijas Vēstnesis") | jā, katra redakcija ar tās spēkā stāšanās dienu | jā, piezīme pie katra panta | nē | Izmantots, ar Internet Archive kopiju starpniecību |
+| [Latvijas Vēstnesis](https://www.vestnesis.lv) | Oficiālais izdevums | akts publicētajā redakcijā | nav attiecināms | nē | Izmantots: grozījumu likumu publikācija; Krimināllikuma un Fizisko personu datu apstrādes likuma bāzes redakcijas |
+| [Internet Archive](https://web.archive.org/) | Tīmekļa arhīvs | tajā glabātās kopijas | nav attiecināms | – | Izmantots: katra nolasītā likumi.lv lapa ir fiksēta kopija |
+| – | Tīmekļa arhīvs | nav attiecināms | nav attiecināms | jā | Pārbaudīts: satur tikai likumi.lv pašreizējās lapas |
+| [data.gov.lv](https://data.gov.lv) | Atvērto datu portāls | nav attiecināms | nav attiecināms | CKAN API | Pārbaudīts: nav tiesību aktu datu kopas |
+| [legalize-lv](https://github.com/legalize-dev/legalize-lv) | Brīvprātīgo git repozitorijs, veidots no likumi.lv | nē, šiem aktiem | nē | nav attiecināms | Pārbaudīts: Krimināllikumam un datu likumam viena revīzija (šodienas teksts), Satversmei 2026. gada momentuzņēmumi; teksts nav ņemts |
+| [blame-likumi.lv](https://github.com/viktor-gusev/blame-likumi.lv) | Brīvprātīgo git blame rīks likumi.lv | jā | daļēji | nav attiecināms | Iepriekšējs darbs šajā jomā; nav lasīts, teksts nav kopēts |
 
-Research guides that cover every country: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+Pētniecības ceļveži, kas aptver visas valstis: [GlobaLex](https://www.nyulawglobal.org/globalex/) un [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
 
 ## Licence
 
-Laws and other normative acts are not protected by copyright in Latvia (Autortiesību likums, art. 6). Source: likumi.lv and the official gazette "Latvijas Vēstnesis", VSIA "Latvijas Vēstnesis". Latvijas Vēstnesis states that re-use of officially published information is to be agreed with the official publisher in writing ([vestnesis.lv/atkalizmantosana](https://www.vestnesis.lv/atkalizmantosana)); no such agreement has been made, and this repository is private. The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`.
+Latvijā uz likumiem un citiem normatīvajiem aktiem autortiesības neattiecas (Autortiesību likuma 6. pants). Avots: likumi.lv un oficiālais izdevums "Latvijas Vēstnesis", VSIA "Latvijas Vēstnesis". "Latvijas Vēstnesis" norāda, ka oficiāli publicētās informācijas atkalizmantošana rakstiski jāsaskaņo ar oficiālo izdevēju ([vestnesis.lv/atkalizmantosana](https://www.vestnesis.lv/atkalizmantosana)); šāda vienošanās nav noslēgta, un šis repozitorijs ir privāts. Izkārtojums, tabulas, revīziju ziņojumi un rīki ir Lexifina darbs, un uz tiem attiecas `LICENSE` noteikumi.
 
-This repository is not legal advice and not an official publication.
+Šis repozitorijs nav juridiska konsultācija un nav oficiāla publikācija.
 
-## Latviski
+Šis ir angļu versijas ([README.en.md](README.en.md)) tulkojums; ja tās atšķiras, noteicošā ir angļu versija.
 
-Latvijas tiesību aktu vēsture git repozitorijā: katrs pants ir atsevišķs fails, katrs grozījumu likums ir atsevišķa revīzija tā spēkā stāšanās dienā, un revīzijas autors ir likums, kas grozījumu izdarīja. Teksts ir no likumi.lv konsolidētajām redakcijām (VSIA "Latvijas Vēstnesis"), kas lasītas no Internet Archive kopijām, un no oficiālā izdevuma "Latvijas Vēstnesis". Konsolidētie teksti ir informatīvi; juridisks spēks ir oficiālajai publikācijai. Šī nav juridiska konsultācija un nav oficiāla publikācija.
+## Vairāk
+
+No repozitorija [lexifina/global-law](https://github.com/lexifina/global-law) (angļu valodā):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): visas funkcijas un tas, kas katram korpusam jāatbalsta (`git blame`, `law.py`, MCP rīki)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): jautājumi un atbildes · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): kā ierosināt izmaiņas · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP serveris · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kā tas izveidots · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): cik aktuāls ir katrs korpuss · [Uzraudzība](https://github.com/lexifina/global-law/tree/main/monitoring): vai atjauninājumi darbojas · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kā katrs oficiālais avots tiek uzraudzīts, lai pamanītu izmaiņas
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): cik ātri darbojas rīki, izmērīts
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): diagrammas un saiknes visas pasaules tiesībās
+- [Ievainojamības](https://github.com/lexifina/global-law/tree/main/vulnerabilities): kļūdas tiesību aktos tādos, kādi tie publicēti

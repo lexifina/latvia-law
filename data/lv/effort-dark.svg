@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Latvijas tiesības kā git vēsture</text>
+<rect x="558.9" y="24.5" width="160" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="638.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">ieraksts līdz 29.10.2026.</text>
+<rect x="726.9" y="24.5" width="129" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="791.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">aktuālums: novecojis</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">4</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1">tiesību akti</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">152</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1">izmaiņas kā commiti</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">972</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">normu faili</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">131</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1">autori: akti un izdevēji</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1922–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">gadu vēsture</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Izmaiņas pēc spēkā stāšanās gada</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">10</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">20</text>
+<rect x="81.10" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1922: spēkā stājušās izmaiņas: 1</title></rect>
+<text x="141.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1930</text>
+<rect x="160.61" y="315.5" width="6.03" height="15.0" rx="1.5" fill="#2ea043"><title>1933: spēkā stājušās izmaiņas: 2</title></rect>
+<text x="214.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
+<text x="286.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
+<text x="358.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
+<text x="431.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
+<text x="503.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
+<text x="575.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
+<rect x="601.56" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1994: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="616.01" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1996: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="623.24" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1997: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="630.47" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1998: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="637.70" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>1999: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="644.93" y="315.5" width="6.03" height="15.0" rx="1.5" fill="#2ea043"><title>2000: spēkā stājušās izmaiņas: 2</title></rect>
+<text x="647.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
+<rect x="652.16" y="323.0" width="6.03" height="7.5" rx="1.5" fill="#2ea043"><title>2001: spēkā stājušās izmaiņas: 1</title></rect>
+<rect x="659.39" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2002: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="666.61" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2003: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="673.84" y="255.5" width="6.03" height="75.0" rx="1.5" fill="#2ea043"><title>2004: spēkā stājušās izmaiņas: 10</title></rect>
+<rect x="681.07" y="270.5" width="6.03" height="60.0" rx="1.5" fill="#2ea043"><title>2005: spēkā stājušās izmaiņas: 8</title></rect>
+<rect x="688.30" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2006: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="695.53" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2007: spēkā stājušās izmaiņas: 3</title></rect>
+<rect x="702.76" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2008: spēkā stājušās izmaiņas: 3</title></rect>
+<rect x="709.99" y="293.0" width="6.03" height="37.5" rx="1.5" fill="#2ea043"><title>2009: spēkā stājušās izmaiņas: 5</title></rect>
+<rect x="717.21" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2010: spēkā stājušās izmaiņas: 3</title></rect>
+<text x="720.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
+<rect x="724.44" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2011: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="731.67" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2012: spēkā stājušās izmaiņas: 3</title></rect>
+<rect x="738.90" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2013: spēkā stājušās izmaiņas: 3</title></rect>
+<rect x="746.13" y="300.5" width="6.03" height="30.0" rx="1.5" fill="#2ea043"><title>2014: spēkā stājušās izmaiņas: 4</title></rect>
+<rect x="753.36" y="248.0" width="6.03" height="82.5" rx="1.5" fill="#2ea043"><title>2015: spēkā stājušās izmaiņas: 11</title></rect>
+<rect x="760.59" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2016: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="767.81" y="308.0" width="6.03" height="22.5" rx="1.5" fill="#2ea043"><title>2017: spēkā stājušās izmaiņas: 3</title></rect>
+<rect x="775.04" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2018: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="782.27" y="270.5" width="6.03" height="60.0" rx="1.5" fill="#2ea043"><title>2019: spēkā stājušās izmaiņas: 8</title></rect>
+<rect x="789.50" y="293.0" width="6.03" height="37.5" rx="1.5" fill="#2ea043"><title>2020: spēkā stājušās izmaiņas: 5</title></rect>
+<text x="792.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
+<rect x="796.73" y="285.5" width="6.03" height="45.0" rx="1.5" fill="#2ea043"><title>2021: spēkā stājušās izmaiņas: 6</title></rect>
+<rect x="803.96" y="233.0" width="6.03" height="97.5" rx="1.5" fill="#2ea043"><title>2022: spēkā stājušās izmaiņas: 13</title></rect>
+<text x="807.0" y="227.0" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">2022. gadā: 13</text>
+<rect x="811.19" y="300.5" width="6.03" height="30.0" rx="1.5" fill="#2ea043"><title>2023: spēkā stājušās izmaiņas: 4</title></rect>
+<rect x="818.41" y="293.0" width="6.03" height="37.5" rx="1.5" fill="#2ea043"><title>2024: spēkā stājušās izmaiņas: 5</title></rect>
+<rect x="825.64" y="300.5" width="6.03" height="30.0" rx="1.5" fill="#2ea043"><title>2025: spēkā stājušās izmaiņas: 4</title></rect>
+<rect x="832.87" y="300.5" width="6.03" height="30.0" rx="1.5" fill="#2ea043"><title>2026: spēkā stājušās izmaiņas: 4</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Izmaiņas ar spēkā stāšanās dienu: 152. Vēstures veids: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Pilnīgums, pārbaudīts pēc oficiālajiem avotiem 12.11.2026.</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Satversme</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">ir repozitorijā</text>
+<g><title>Satversme: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Galvenie kodeksi</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">būtiskāko kodeksu īpatsvars</text>
+<g><title>Galvenie kodeksi: 20%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="18.3" height="8" rx="4" fill="#d29922"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">20%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Valsts tiesību akti</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">akti no oficiālā kopskaita</text>
+<g><title>Valsts tiesību akti: 0,2%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="4.0" height="8" rx="4" fill="#f85149"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0,2%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Reģionālie tiesību akti</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">nav reģionu ar likumdošanas tiesībām</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">nav piemērojams</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Tiesu prakse</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">iekļautās augstākās tiesas</text>
+<g><title>Tiesu prakse: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0%</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Iekļautā satura pareizība</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Izmaiņas ar spēkā stāšanās dienu</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">izmaiņu īpatsvars</text>
+<g><title>Izmaiņas ar spēkā stāšanās dienu: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Izmaiņas ar oficiālo avotu</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">Source rinda vai saite commitā</text>
+<g><title>Izmaiņas ar oficiālo avotu: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">Pārbaudīts pēc oficiālā avota</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">Latvijas Vēstnesis (likumi.lv)</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">29.10.2026.</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Šīs valsts korpusi global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">valsts tiesību akti: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/latvia-law (0f3202c), izveidots 2026-11-13. Bez dokumentācijas commitiem. Tvērums: 4 acts, 152 dated versions from 1922-11-07 to 2026-10-15</text>
+</svg>
