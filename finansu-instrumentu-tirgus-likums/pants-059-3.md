@@ -5,7 +5,7 @@
 1) apraksts par atļautajām nemainīgā un mainīgā atalgojuma sastāvdaļām (tostarp visām prēmijām un citiem jebkura veida ieguvumiem) un to relatīvo (procentuālo) daļu no kopējā atalgojuma;
 2) skaidrojums, kā atalgojuma politika un tajā ietvertās konkrētās atalgojuma sastāvdaļas veicinās kapitālsabiedrības stratēģijas īstenošanu, ilgtermiņa intereses un ilgtspēju;
 3) skaidrojums, kā atalgojuma politikas izstrādē ņemti vērā kapitālsabiedrības darbinieku atalgojuma un nodarbinātības nosacījumi;
-4) mainīgā atalgojuma (ja tāds paredzēts) piešķiršanas kritēriji, tā noteikšanai izmantojamie kapitālsabiedrības darbības rezultātu kritēriji, metodes šo kritēriju izpildes noteikšanai, mainīgā atalgojuma izmaksas atlikšanas laikposmi un informācija par kapitālsabiedrības iespēju atprasīt mainīgo atalgojumu;
+4) skaidri, visaptveroši un dažādi kritēriji mainīgā atalgojuma (ja tāds paredzēts) piešķiršanai, tā noteikšanai izmantojamie kapitālsabiedrības finanšu un nefinanšu darbības rezultātu kritēriji, tostarp ar korporatīvo sociālo atbildību saistītie kritēriji, ja tādi piemērojami, metodes kritēriju izpildes noteikšanai, mainīgā atalgojuma izmaksas atlikšanas laikposmi un informācija par kapitālsabiedrības iespēju atprasīt mainīgo atalgojumu;
 5) ar akciju piešķiršanu saistīta atalgojuma (ja tāds paredzēts) svarīgākie nosacījumi, tai skaitā tiesību piešķiršanas laikposmi un tiesības paturēt akcijas pēc to piešķiršanas;
 6) valdes un padomes locekļu pilnvaru termiņš un piemērojamie atsaukšanas termiņi, galvenās iezīmes attiecībā uz papildu pensiju vai paātrinātās pensionēšanās plāniem, ar līgumu izbeigšanu saistītie nosacījumi un maksājumi valdes un padomes locekļiem;
 7) atalgojuma politikas noteikšanas, pārskatīšanas un piemērošanas nosacījumi;

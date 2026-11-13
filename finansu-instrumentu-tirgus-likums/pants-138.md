@@ -38,4 +38,7 @@
 7) pilnvarot revidentus vai speciālistus veikt pārbaudes;
 8) pieprasīt no jebkuras personas informāciju, tostarp visus attiecīgos dokumentus, par pozīcijas vai riska apmēru un mērķi, kas rodas saistībā ar preču atvasināto instrumentu, un par visiem aktīviem vai pasīviem attiecīgajā tirgū;
 9) sniegt publiskus paziņojumus;
-10) ciktāl to atļauj normatīvie akti, pieprasīt esošos datu plūsmas ierakstus, kas ir telesakaru operatora rīcībā, ja pastāv pamatotas aizdomas par pārkāpumu un ja šādi ieraksti var būt noderīgi, veicot pārbaudes saistībā ar šajā likumā vai Regulā Nr. 600/2014 noteiktā pārkāpumiem.
+10) ciktāl to atļauj normatīvie akti, pieprasīt esošos datu plūsmas ierakstus, kas ir telesakaru operatora rīcībā, ja pastāv pamatotas aizdomas par pārkāpumu un ja šādi ieraksti var būt noderīgi, veicot pārbaudes saistībā ar šajā likumā vai Regulā Nr. 600/2014 noteiktā pārkāpumiem;
+11) pārbaudīt, vai ir ieviesti organizatoriskie pasākumi, lai nodrošinātu, ka emitenta sponsorētais ieguldījumu pētījums, kuru sagatavo vai izplata, atbilst Regulas Nr. 2026/1092 prasībām attiecībā uz emitenta sponsorētu ieguldījumu pētījumu;
+12) pārtraukt finanšu instrumentu izplatīšanu, ja emitenta sponsorēts ieguldījumu pētījums nav sagatavots atbilstoši Regulas Nr. 2026/1092 prasībām;
+13) informēt sabiedrību, ja ieguldījumu pētījums, kas apzīmēts kā emitenta sponsorēts ieguldījumu pētījums, nav sagatavots atbilstoši Regulas Nr. 2026/1092 prasībām.

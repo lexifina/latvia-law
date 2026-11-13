@@ -51,4 +51,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 50) Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2464, ar ko attiecībā uz korporatīvo ilgtspējas ziņu sniegšanu groza regulu (ES) Nr. 537/2014, direktīvu 2004/109/EK, direktīvu 2006/43/EK un direktīvu 2013/34/ES;
 51) Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2556, ar ko groza direktīvas 2009/65/EK, 2009/138/EK, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 un (ES) 2016/2341 attiecībā uz finanšu nozares digitālās darbības noturību;
 52) Eiropas Parlamenta un Padomes 2023. gada 13. decembra direktīvas (ES) 2023/2864, ar ko attiecībā uz Eiropas vienotā piekļuves punkta izveidi un darbību groza konkrētas direktīvas;
-53) Eiropas Parlamenta un Padomes 2024. gada 28. februāra direktīvas (ES) 2024/790, ar ko groza direktīvu 2014/65/ES par finanšu instrumentu tirgiem.
+53) Eiropas Parlamenta un Padomes 2024. gada 28. februāra direktīvas (ES) 2024/790, ar ko groza direktīvu 2014/65/ES par finanšu instrumentu tirgiem;
+54) Eiropas Parlamenta un Padomes 2024. gada 23. oktobra direktīvas (ES) 2024/2811, ar ko groza direktīvu 2014/65/ES, lai Savienības publiskos kapitāla tirgus padarītu pievilcīgākus uzņēmumiem un atvieglotu mazo un vidējo uzņēmumu piekļuvi kapitālam, un atceļ direktīvu 2001/34/EK.
