@@ -11,7 +11,7 @@
 9) donora pakalpojuma sniedzējs - elektronisko sakaru komersants, kura galalietotājs citam elektronisko sakaru komersantam ir iesniedzis pieprasījumu par interneta piekļuves pakalpojuma sniedzēja maiņu vai par numura saglabāšanas pakalpojuma nodrošināšanu;
 10) Eiropas Komisijas tirgus ieteikums - Eiropas Komisijas ieteikums par attiecīgajiem produktu un pakalpojumu tirgiem;
 11) elektroniskā numurēšanas sistēma - globāls standarts, kas nodrošina tālruņa numura piesaisti interneta adresei;
-12) elektronisko sakaru komersants - komersants, kuram ir tiesības nodrošināt elektronisko sakaru tīklu un sniegt elektronisko sakaru pakalpojumu;
+12) elektronisko sakaru komersants - komersants, kuram ir tiesības nodrošināt publisko elektronisko sakaru tīklu un sniegt elektronisko sakaru pakalpojumu;
 13) elektronisko sakaru komersants ar būtisku ietekmi tirgū - Sabiedrisko pakalpojumu regulēšanas komisijas (turpmāk - Regulators) noteikts elektronisko sakaru komersants, kas individuāli vai kopā ar citu elektronisko sakaru komersantu atrodas tādā ekonomiskā spēka stāvoklī, kurš ir līdzvērtīgs dominējošam stāvoklim, kas tam līdz zināmam līmenim ļauj rīkoties neatkarīgi no citiem elektronisko sakaru komersantiem un galalietotājiem;
 14) elektronisko sakaru pakalpojumu sniedzējs - elektronisko sakaru komersants, kas sniedz publiski pieejamus elektronisko sakaru pakalpojumus, izmantojot publisko elektronisko sakaru tīklu;
 15) elektronisko sakaru pakalpojums - pakalpojums, kuru parasti nodrošina par atlīdzību un pārraida elektronisko sakaru tīklā (izņemot pakalpojumu, kurš nodrošina saturu vai tāda satura redakcionālu pārvaldību, kas tiek pārraidīts, izmantojot elektronisko sakaru tīklus un pakalpojumus) un kurš aptver šādus pakalpojumu veidus:
@@ -29,7 +29,7 @@ c) citus pakalpojumus, kas pilnīgi vai galvenokārt sastāv no signālu pārrai
 24) harmonizēts radiofrekvenču spektrs - radiofrekvenču spektrs, kuram ar Eiropas Savienības tiesību aktu ir noteikti harmonizēti nosacījumi attiecībā uz tā pieejamību un lietderīgu izmantošanu;
 25) identificējama galiekārta - galiekārta, kurai ražotājs piešķīris starptautisko mobilās galiekārtas identitātes numuru (IMEI) atpazīšanai elektronisko sakaru tīklā;
 26) ierobežota radiofrekvenču josla - radiofrekvenču spektra josla, kuras lietošanas tiesību piešķiršanu un izmantošanu elektronisko sakaru nozarē nepieciešams ierobežot, lai nodrošinātu tās efektīvu izmantošanu;
-27) izsaucēja atrašanās vietas informācijas datubāze - Iekšlietu ministrijas Informācijas centra uzturēta datubāze, kas satur informāciju par izsaucēja atrašanās vietas datiem;
+27) izsaucēja atrašanās vietas informācijas datubāze - Iekšlietu digitālā centra uzturēta datubāze, kas satur informāciju par izsaucēja atrašanās vietas datiem;
 28) izsaukums - savienojums vai savienojuma mēģinājums, kas veikts, izmantojot starppersonu sakaru pakalpojumu, kurš pieļauj divpusēju balss saziņu reālā laikā;
 29) kabeļu kanalizācija - zemē vai būvju konstrukcijās izvietotas caurules vai to kopums un kabeļu akas vai citas apakšzemes telpas, kas paredzētas elektronisko sakaru kabeļu līniju ierīkošanai un ekspluatācijai;
 30) kaitīgie radiotraucējumi - traucējumi, kas:
@@ -81,3 +81,4 @@ c) pirkuma līgums, kas rada tiesības uz īpašu piekļuvi jaunajam ļoti augst
 (6) Termini "mikrosabiedrība" un "maza sabiedrība" šajā likumā lietoti Gada pārskatu un konsolidēto gada pārskatu likuma izpratnē.
 (7) Termini "nodibinājums" un "biedrība" šajā likumā lietoti Biedrību un nodibinājumu likuma izpratnē.
 (8) Termini "patērētājs", "pastāvīgs informācijas nesējs" un "tiešsaistes saskarne" šajā likumā lietoti Patērētāju tiesību aizsardzības likuma izpratnē.
+(9) Termini "krīze" un "krīzes vadība" šajā likumā lietoti Nacionālās drošības likuma izpratnē.
