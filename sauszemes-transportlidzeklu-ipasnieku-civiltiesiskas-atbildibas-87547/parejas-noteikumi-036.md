@@ -1,0 +1,1 @@
+36. Grozījumi šā likuma 1. panta pirmās daļas 10.¹ punktā un 38.¹ pantā par to izteikšanu jaunā redakcijā stājas spēkā 2027. gada 1. jūlijā un piemērojami apdrošināšanas līgumiem, kas noslēgti, sākot ar 2027. gada 1. jūliju.

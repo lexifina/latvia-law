@@ -1,0 +1,1 @@
+35. Grozījumi šā likuma 35. panta 2. punktā par tā izteikšanu jaunā redakcijā stājas spēkā 2027. gada 1. janvārī un piemērojami apdrošināšanas gadījumiem, kas notikuši, sākot ar 2027. gada 1. janvāri.

@@ -1,0 +1,1 @@
+40. Transportlīdzekļu apdrošinātāju birojs līdz 2027. gada 30. jūnijam iesniedz Finanšu ministrijai saskaņošanai interešu konflikta novēršanas kārtību un sūdzību izskatīšanas kārtību saskaņā ar šā likuma 44. panta piektās un sestās daļas prasībām.

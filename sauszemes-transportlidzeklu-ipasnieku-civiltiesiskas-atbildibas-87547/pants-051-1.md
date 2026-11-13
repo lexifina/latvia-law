@@ -22,4 +22,4 @@
 5) ieguldījumi vienā ieguldījumu fondā nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem;
 6) ieguldījumi vienā nedalītā nekustamajā īpašumā nedrīkst pārsniegt 10 procentus no Garantijas fonda līdzekļiem, bet kopējie ieguldījumi nekustamajā īpašumā nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem;
 7) ieguldījumi vienā koncernā esošu komercsabiedrību emitētajos finanšu instrumentos nedrīkst pārsniegt 25 procentus no Garantijas fonda līdzekļiem;
-8) Garantijas fonda līdzekļus nedrīkst izmantot aizņēmumam un piešķirt aizdevumos, kā arī izsniegt garantijās.
+8) Garantijas fonda līdzekļus nedrīkst izmantot aizņēmumam, izņemot šā likuma 51.⁴ panta trešajā daļā noteikto gadījumu, un piešķirt aizdevumos, kā arī izsniegt garantijās.

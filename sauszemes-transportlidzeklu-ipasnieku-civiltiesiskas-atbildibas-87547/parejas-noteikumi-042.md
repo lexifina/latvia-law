@@ -1,0 +1,1 @@
+42. Transportlīdzekļu apdrošinātāju birojs nodrošina tā valdes locekļu atbilstību šā likuma 47. panta otrās daļas prasībām attiecībā uz jaunu valdes locekļu ievēlēšanu, beidzoties esošo valdes locekļu pilnvaru termiņam, kas noteikts Transportlīdzekļu apdrošinātāju biroja statūtos.

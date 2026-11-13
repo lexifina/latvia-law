@@ -1,0 +1,1 @@
+41. Transportlīdzekļu apdrošinātāju birojs līdz 2027. gada 30. jūnijam iesniedz Finanšu ministrijai saskaņošanai Transportlīdzekļu apdrošinātāju biroja valdes locekļu atbilstības un piemērotības novērtēšanas kārtību atbilstoši šā likuma 47. panta trešajai daļai.

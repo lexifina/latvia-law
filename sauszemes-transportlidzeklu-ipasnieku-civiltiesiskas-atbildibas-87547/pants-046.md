@@ -2,8 +2,8 @@
 (1) Kopsapulce ir Transportlīdzekļu apdrošinātāju biroja lēmējinstitūcija. Kopsapulci veido visi apdrošinātāji.
 (2) Kopsapulcei ir tiesības:
 1) lemt par pasākumiem pret jebkuru apdrošinātāju, kas nepilda Transportlīdzekļu apdrošinātāju biroja biedra pienākumus;
-2) izdot visiem apdrošinātājiem saistošus norādījumus par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu, ciktāl tie nav pretrunā ar šo likumu;
-3) pieņemt lēmumu par apdrošinātāja izslēgšanu no Transportlīdzekļu apdrošinātāju biroja, ja atkārtoti netiek pildīti šā likuma 17.pantā minētie apdrošinātāja pienākumi;
+2) pieņemt labas prakses vadlīnijas sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jautājumos, ciktāl tās nav pretrunā ar šo likumu;
+3) (izslēgts ar 15.10.2026. likumu);
 4) ieteikt finanšu ministram iecelšanai amatā un atbrīvošanai no amata apdrošinātāju pārstāvjus konsultatīvajā padomē;
 5) lemt par jebkuriem jautājumiem, ko iesniegusi valde vai konsultatīvā padome vai ierosinājis kāds apdrošinātājs;
 6) noteikt Transportlīdzekļu apdrošinātāju biroja darbības nodrošināšanai nepieciešamo finanšu līdzekļu apmēru un samaksas kārtību;

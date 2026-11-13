@@ -8,6 +8,6 @@
 1) cietušās personas fizisku traumu;
 2) cietušās personas sakropļojumu, invaliditāti;
 3) apgādnieka, apgādājamā vai laulātā nāvi;
-4) apgādnieka, apgādājamā vai laulātā 1.grupas invaliditāti.
+4) to, ka apgādnieks, apgādājamais vai laulātais ir persona ar I grupas invaliditāti.
 (3) Apdrošināšanas atlīdzības apmēru un aprēķināšanas kārtību par personai nodarītajiem materiālajiem un nemateriālajiem zaudējumiem nosaka Ministru kabinets.
 (4) Ja trešā persona uzskata, ka tai nodarītie zaudējumi, kas minēti šā panta pirmajā un otrajā daļā, naudas izteiksmē ir lielāki nekā atbilstoši šā panta trešajai daļai aprēķinātā apdrošināšanas atlīdzība, tai ir tiesības vērsties pie apdrošinātāja vai Transportlīdzekļu apdrošinātāju biroja (ja apdrošināšanas atlīdzība izmaksājama no Garantijas fonda) ar lūgumu pārskatīt pieņemto lēmumu par apdrošināšanas atlīdzību.

@@ -1,5 +1,5 @@
 51.pants. Garantijas fonds
-(1) Apdrošinātāji izveido un Transportlīdzekļu apdrošinātāju birojs administrē Garantijas fondu. Garantijas fonda mērķis ir nodrošināt apdrošināšanas atlīdzības izmaksu to zaudējumu segšanai, kurus nodarījis:
+(1) Apdrošinātāji izveido un Transportlīdzekļu apdrošinātāju birojs pārvalda Garantijas fondu. Garantijas fonda mērķis ir nodrošināt apdrošināšanas atlīdzības izmaksu to zaudējumu segšanai, kurus nodarījis:
 1) transportlīdzeklis, kura īpašnieks savu civiltiesisko atbildību nav apdrošinājis;
 2) nenoskaidrots transportlīdzeklis (šajā gadījumā tiek ievēroti šā likuma 35.panta noteikumi);
 3) transportlīdzeklis, kura vadītāja vaina nav pierādāma šā likuma 31.panta astotajā daļā minētajā gadījumā;
@@ -19,7 +19,8 @@
 1) izdevumus par atlīdzības lietas administrēšanu vai citām prasības nokārtošanai nepieciešamajām darbībām, ja saskaņā ar šo likumu Transportlīdzekļu apdrošinātāju birojs pieņem lēmumu par apdrošināšanas atlīdzības izmaksu vai atteikumu izmaksāt apdrošināšanas atlīdzību, un izdevumus, kas radušies, atgūstot no Garantijas fonda izmaksātās apdrošināšanas atlīdzības regresa kārtībā;
 2) šajā likumā noteikto kompensāciju apdrošinātājam par apdrošināšanas prēmijas maksājuma samazinājumu;
 3) izdevumus, kas radušies, nodrošinot Garantijas fonda līdzekļu glabāšanu un ieguldīšanu;
-4) izdevumus, kas radušies, nodrošinot šā panta pirmās daļas 1., 2., 3., 5., 6., 12. un 13. punktā noteikto apdrošināšanas atlīdzību izmaksu riska nodošanu pārapdrošināšanā.
+4) izdevumus, kas radušies, nodrošinot šā panta pirmās daļas 1., 2., 3., 5., 6., 12. un 13. punktā noteikto apdrošināšanas atlīdzību izmaksu riska nodošanu pārapdrošināšanā;
+5) izdevumus, kas radušies, nodrošinot līdzekļu aizdevumu Garantijas fondam.
 (4) Ārvalstniekam vai ārvalstu juridiskajai personai, kuras dzīvesvietas vai reģistrācijas valsts normatīvie akti ierobežo zaudējumu atlīdzības izmaksu no Garantijas fonda vai atbilstošas institūcijas attiecīgajā ārvalstī, zaudējumi no Garantijas fonda tiek atlīdzināti, piemērojot šādus pašus ierobežojumus.
 (5) No Garantijas fonda līdzekļiem izmaksā zaudējumu atlīdzību vienā no šādiem gadījumiem:
 1) ja starp apdrošinātāju un Transportlīdzekļu apdrošinātāju biroju rodas strīds par pienākumu izmaksāt apdrošināšanas atlīdzību;
@@ -31,7 +32,10 @@
 3) apdrošinātāju veiktās papildu iemaksas;
 4) Transportlīdzekļu apdrošinātāju biroja regresa kārtībā atgūtie līdzekļi par ceļu satiksmes negadījumā nodarītajiem zaudējumiem;
 5) ziedojumi un dāvinājumi;
-6) ieņēmumi no Garantijas fonda līdzekļu glabāšanas un ieguldīšanas.
+6) ieņēmumi no Garantijas fonda līdzekļu glabāšanas un ieguldīšanas;
+7) ieņēmumi no aizņēmuma atbilstoši šā likuma 51.⁴ pantā noteiktajam.
 (7) Garantijas fonda turētājs ir Transportlīdzekļu apdrošinātāju birojs. Lēmumus par Garantijas fonda līdzekļu izlietošanu atbilstoši noteiktajiem mērķiem pieņem Transportlīdzekļu apdrošinātāju birojs.
 (8) Garantijas fonda līdzekļu izlietojumu uzrauga Garantijas fonda padome. Padomes sastāvā ir katra apdrošinātāja pilnvarots pārstāvis un Transportlīdzekļu apdrošinātāju biroja valdes pilnvarots pārstāvis.
-(9) Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtību, tai skaitā šā likuma 36. panta astotajā daļā minēto maksu par atlīdzības lietas nokārtošanai nepieciešamajām darbībām, nosaka Ministru kabinets. Garantijas fonda izveidošanas, uzkrāšanas un administrēšanas kārtības ievērošanu uzrauga Latvijas Banka.
+(8¹) Ne vēlāk kā 30 dienu laikā pēc ceturkšņa beigām Transportlīdzekļu apdrošinātāju birojs rakstveidā paziņo Finanšu ministrijai par Garantijas fonda līdzekļu izdevumu veidiem un apmēru, kā arī Garantijas fonda līdzekļu kopējo apmēru.
+(9) Garantijas fonda izveidošanas, uzkrāšanas un pārvaldīšanas kārtību, tai skaitā šā likuma 36. panta astotajā daļā minēto maksu par atlīdzības lietas nokārtošanai nepieciešamajām darbībām, nosaka Ministru kabinets. Garantijas fonda izveidošanas, uzkrāšanas un pārvaldīšanas kārtības ievērošanu uzrauga Latvijas Banka, piemērojot uz riskiem balstītu uzraudzības pieeju.
+(10) Latvijas Banka ir tiesīga pieprasīt no Transportlīdzekļu apdrošinātāju biroja informāciju un dokumentus šā panta devītajā daļā noteiktās Garantijas fonda uzraudzības ietvaros. Transportlīdzekļu apdrošinātāju birojs pieprasīto informāciju iesniedz Latvijas Bankai tās noteiktajos termiņos. Informācijas iesniegšanu nedrīkst atteikt, aizbildinoties ar komercnoslēpumu.

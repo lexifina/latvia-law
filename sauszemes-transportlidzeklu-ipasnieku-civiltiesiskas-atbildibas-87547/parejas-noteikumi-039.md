@@ -1,0 +1,1 @@
+39. Transportlīdzekļu apdrošinātāju birojs līdz 2027. gada 30. jūnijam iesniedz Finanšu ministrijai saskaņošanai Transportlīdzekļu apdrošinātāju biroja statūtus atbilstoši šā likuma 43. panta sestajai daļai.

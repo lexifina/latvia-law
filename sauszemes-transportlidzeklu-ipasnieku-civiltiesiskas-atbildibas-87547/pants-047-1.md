@@ -1,0 +1,10 @@
+47.¹ pants. Dalība Transportlīdzekļu apdrošinātāju birojā
+(1) Lai kļūtu par Transportlīdzekļu apdrošinātāju biroja biedru, apdrošināšanas sabiedrība Transportlīdzekļu apdrošinātāju biroja valdei iesniedz iesniegumu par uzņemšanu Transportlīdzekļu apdrošinātāju birojā un veic iemaksu Garantijas fondā. Iesniegumam pievieno:
+1) apdrošināšanas sabiedrības statūtu un reģistrācijas apliecības atvasinājumu;
+2) izziņu no valsts reģistra par apdrošināšanas sabiedrības paraksttiesīgajām personām;
+3) apdrošināšanas sabiedrības apliecinājumu, ka attiecībā uz to nav ierosināts maksātnespējas vai likvidācijas process.
+(2) Ja apdrošināšanas sabiedrība ir veikusi iemaksu Garantijas fondā un iesniegusi šā panta pirmajā daļā minēto iesniegumu un dokumentus, Transportlīdzekļu apdrošinātāju biroja valde septiņu dienu laikā pieņem lēmumu par apdrošināšanas sabiedrības uzņemšanu Transportlīdzekļu apdrošinātāju birojā.
+(3) Ja Latvijas Banka vai citas dalībvalsts uzraudzības institūcija nav izsniegusi vai ir anulējusi apdrošināšanas sabiedrībai licenci sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības apdrošināšanas veikšanai, Transportlīdzekļu apdrošinātāju biroja valde nekavējoties pieņem lēmumu par apdrošināšanas sabiedrības izslēgšanu no Transportlīdzekļu apdrošinātāju biroja.
+(4) Ja apdrošināšanas sabiedrība atkārtoti nepilda šā likuma 17. panta piektajā daļā minētos pienākumus vai Transportlīdzekļu apdrošinātāju birojam nodara būtisku kaitējumu, Transportlīdzekļu apdrošinātāju biroja valdei ir tiesības pieņemt lēmumu par apdrošināšanas sabiedrības izslēgšanu no Transportlīdzekļu apdrošinātāju biroja.
+(5) Apdrošināšanas sabiedrība var jebkurā laikā izstāties no Transportlīdzekļu apdrošinātāju biroja, iesniedzot rakstveida iesniegumu Transportlīdzekļu apdrošinātāju biroja valdei. Transportlīdzekļu apdrošinātāju biroja valde septiņu dienu laikā pēc iesnieguma saņemšanas pieņem lēmumu par apdrošināšanas sabiedrības izstāšanos no Transportlīdzekļu apdrošinātāju biroja.
+(6) Ja apdrošinātājs tiek izslēgts vai izstājas no Transportlīdzekļu apdrošinātāju biroja, Transportlīdzekļu apdrošinātāju birojs par to paziņo Latvijas Bankai.

@@ -1,0 +1,4 @@
+51.⁴ pants. Līgums par līdzekļu aizdevumu Garantijas fondam
+(1) Ja Garantijas fondā nepietiek līdzekļu apdrošināšanas atlīdzības izmaksām saskaņā ar šo likumu, Transportlīdzekļu apdrošinātāju birojs var noslēgt aizdevuma līgumu par trūkstošās summas aizņemšanos no Latvijā reģistrētas kredītiestādes vai citā dalībvalstī reģistrētas kredītiestādes filiāles Latvijā.
+(2) Transportlīdzekļu apdrošinātāju birojs izraugās to Latvijā reģistrētu kredītiestādi vai citā dalībvalstī reģistrētas kredītiestādes filiāli Latvijā, kura Transportlīdzekļu apdrošinātāju birojam piedāvā zemāko aizdevuma procentu likmi. Ja izteiktie piedāvājumi ir vienādi, Transportlīdzekļu apdrošinātāju birojs izvēlas to, kurš iesniegts pirmais.
+(3) Naudas līdzekļus, kurus Transportlīdzekļu apdrošinātāju birojs saskaņā ar šā panta pirmo daļu ir aizņēmies trūkstošās apdrošināšanas atlīdzības izmaksu summas segšanai, Transportlīdzekļu apdrošinātāju birojs atmaksā no Garantijas fonda.
