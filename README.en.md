@@ -30,7 +30,8 @@ The text is in Latvian, as likumi.lv consolidates it. An English translation is 
 
 - **[Ask Claude about Latvian law](https://global-law.lexifina.com/v1/try_claude?country=latvia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=latvia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums&jurisdictions=latvia)**: a search of Latvian law for "ikgadējais apmaksātais atvaļinājums", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Latvian law on our site](https://lexifina.com/law?country=latvia&q=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums)**: a search for "ikgadējais apmaksātais atvaļinājums", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums&jurisdiction=latvia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Latvian or in English.
 

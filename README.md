@@ -30,7 +30,8 @@ Teksts ir latviešu valodā, kā to konsolidē likumi.lv. Tulkojums angļu valod
 
 - **[Jautājiet Claude par Latvijas tiesībām](https://global-law.lexifina.com/v1/try_claude?country=latvia)**: atver Claude ar sagatavotu pirmo jautājumu.
 - **[Jautājiet ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=latvia)**: tas pats jautājums ChatGPT.
-- **[Izsauciet API pārlūkā](https://global-law.lexifina.com/v1/search_law?query=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums&jurisdictions=latvia)**: Latvijas tiesību meklēšana pēc vārdiem "ikgadējais apmaksātais atvaļinājums", atbilde JSON formātā. Dokumentācija ir [šeit](https://lexifina.com/api/global-law).
+- **[Meklējiet Latvijas tiesību aktos mūsu vietnē](https://lexifina.com/law?country=latvia&q=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums)**: meklēšana pēc vārdiem "ikgadējais apmaksātais atvaļinājums", ar katras normas tekstu un tās redakcijām, bez konta.
+- **[REST API izstrādātājiem](https://global-law.lexifina.com/v1/search_law?query=ikgad%C4%93jais+apmaks%C4%81tais+atva%C4%BCin%C4%81jums&jurisdiction=latvia)**: tā pati meklēšana JSON formātā, bez atslēgas. Dokumentācija ir [šeit](https://lexifina.com/api/global-law).
 
 Abi asistenti lasa ierakstu ar bezmaksas savienotāja Global law starpniecību (MCP, `https://global-law.lexifina.com/mcp`); pirmajā reizē tērzēšana dod saiti, ar kuru savienotāju pievieno. Jautājiet latviski vai angliski.
 
