@@ -61,6 +61,7 @@ Katrs grozījums tiek attiecināts uz likumu, kas to izdarīja, kā to attiecīg
 - Katrai redakcijai ir norādīta tās avota lapa (likumi.lv kopija Internet Archive vai oficiālā izdevuma lapa) un nolasīto baitu sha256; lapas redakciju izvēlnē jābūt norādītai tieši šai redakcijai.
 - Secīgi piemērojot visas redakcijas, jāiegūst tieši katra akta jaunākā arhivētā likumi.lv lapa, struktūrvienību pa struktūrvienībai (`tools/verify.py`).
 - Vēsture tikai papildinās: nav sapludināšanas revīziju (merge commits), nav nākotnē datētu revīziju, katras revīzijas trailer lauki ir parsējami, un otrā būve no tā paša korpusa deva identiskas jaucējvērtības (hash).
+- [vulnerabilities/](vulnerabilities/): iespējamas redakcionālas kļūdas šajās tiesībās, ko atrod global-law detektori un pārbauda ar roku. Vēl nav palaists.
 
 ## Ko tas neparāda
 
@@ -86,6 +87,10 @@ Sk. [`LICENSE`](LICENSE). Latvijā uz likumiem un citiem normatīvajiem aktiem a
 Neviens MI modelis nav rakstījis, tulkojis vai mainījis juridisko tekstu; skriptus uzrakstīja MI modelis Claude Opus 5.5 (sk. [`REPRODUCE.md`](REPRODUCE.md)).
 
 Šis ir angļu versijas ([README.en.md](README.en.md)) tulkojums; ja tās atšķiras, noteicošā ir angļu versija.
+
+## Vizualizācijas
+
+- [visualisations/](visualisations/): diagrammas, kas veidotas no šīs krātuves. Vēl nav uzzīmētas.
 
 ## Vairāk
 

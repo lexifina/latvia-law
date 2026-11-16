@@ -61,6 +61,7 @@ Each change is credited to the law that made it, as likumi.lv's note for that da
 - Each version names its source page (an Internet Archive capture of likumi.lv, or the gazette page) and the sha256 of the bytes read; the page's own version selector must name that version.
 - Replaying every version must give the newest archived likumi.lv page of each act exactly, provision by provision (`tools/verify.py`).
 - History is append-only: no merge commits, no commit dated in the future, every commit's trailers parse, and a second build from the same corpus gave identical hashes.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -84,6 +85,10 @@ Each change is credited to the law that made it, as likumi.lv's note for that da
 See [`LICENSE`](LICENSE). Laws and other normative acts are not protected by copyright in Latvia (Autortiesību likums, art. 6); Latvijas Vēstnesis states that re-use of officially published information is to be agreed with it in writing, and no such agreement has been made. The arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model, Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
