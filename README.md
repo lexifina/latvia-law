@@ -57,7 +57,7 @@ Katrs grozījums tiek attiecināts uz likumu, kas to izdarīja, kā to attiecīg
 
 ## Kā tas pārbaudīts
 
-- `tools/check_repo.py` nolasa katra akta katru redakciju (132 redakcijas, 4 akti) no git tās spēkā stāšanās dienā un iepriekšējā dienā; abām jāsakrīt ar korpusu. Rezultāti ir [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` nolasa katru redakciju no git tās spēkā stāšanās dienā un iepriekšējā dienā; abām jāsakrīt ar korpusu. Tā pārbaude 2026. gada 29. oktobra būvē aptvēra 4 toreiz iekļautos aktus (Satversme, Krimināllikums, Darba likums, Fizisko personu datu apstrādes likums; 132 redakcijas, 0 neatbilstību); pārējie no 1 753 likumiem, kas tagad ir mapē `likumi/`, pievienoti vēlāk, un tā tos neaptvēra. Rezultāti ir [`REPRODUCE.md`](REPRODUCE.md).
 - Katrai redakcijai ir norādīta tās avota lapa (likumi.lv kopija Internet Archive vai oficiālā izdevuma lapa) un nolasīto baitu sha256; lapas redakciju izvēlnē jābūt norādītai tieši šai redakcijai.
 - Secīgi piemērojot visas redakcijas, jāiegūst tieši katra akta jaunākā arhivētā likumi.lv lapa, struktūrvienību pa struktūrvienībai (`tools/verify.py`).
 - Vēsture tikai papildinās: nav sapludināšanas revīziju (merge commits), nav nākotnē datētu revīziju, katras revīzijas trailer lauki ir parsējami, un otrā būve no tā paša korpusa deva identiskas jaucējvērtības (hash).

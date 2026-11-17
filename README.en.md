@@ -57,7 +57,7 @@ Each change is credited to the law that made it, as likumi.lv's note for that da
 
 ## How it is checked
 
-- `tools/check_repo.py` reads every version of every act (132 of 4) back from git on the day it took effect and on the day before; both must match the corpus. Results are in [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before; both must match the corpus. Its run on the 2026-10-29 build covered the 4 acts then held (Satversme, Krimināllikums, Darba likums, Fizisko personu datu apstrādes likums; 132 versions, 0 mismatches); the other laws of the 1,753 now in `likumi/` came later and were not part of that run. Results are in [`REPRODUCE.md`](REPRODUCE.md).
 - Each version names its source page (an Internet Archive capture of likumi.lv, or the gazette page) and the sha256 of the bytes read; the page's own version selector must name that version.
 - Replaying every version must give the newest archived likumi.lv page of each act exactly, provision by provision (`tools/verify.py`).
 - History is append-only: no merge commits, no commit dated in the future, every commit's trailers parse, and a second build from the same corpus gave identical hashes.
