@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 15,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 5,
+ "datums": "2026-11-17",
+ "ieraksts": {
+  "dkp_id": "d14f02c1-7b27-46ca-9aa2-27e684890e38",
+  "lastmodtime": "\"AAAAAAKpb3M=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Maija#Edgars#Pēteris#Natālija#Jevgēnija#Mārtiņš#Juris#Līga#Andrejs#Antoņina#Inga#Edvards#Rūdolfs#Edmunds#Eduards#Linda#Edmunds#Olga#Jekaterina#Jānis#Aleksejs#Aivars#Inga#Nellija#Mārtiņš#Leontijs#Edvīns#Ilze#Aleksejs#Karīna#Andris#Mairita#Regīna#Krista#Māris#Inna#Jānis#Valdis#Jānis#Artūrs#Andris#Ainars#Mārtiņš#Karina#Dana#Selma Teodora#Inese#Baiba#Jūlija#Vjačeslavs#Andris#Jānis#Andrejs#Agnese#Andris#Artūrs#Jana#Jānis#Andrejs#Liene#Dāvis#Evika#Nauris#Ļubova#Viesturs#Renārs#Jūlija#Raivis#Aiva#Ainārs#Gita#Rolands#Dagnis#Juris#Uģis#Andis#Valdis#Ilmārs#Česlavs#Ivars#Raimonds#Māris#Jānis#Viktorija#Edgars#Andrejs#Edgars#Ināra#Edgars#Raimonds#Aleksandrs#Guntars#Agnese#Ramona#Atis#Anete",
+  "SURNAME": "Armaņeva#Dārznieks#Dimants#Ābola#Šafraneka#Prīsis#Lazdiņš#Meņģelsone#Jakovļevs#Ņenaševa#Bērziņa#Smiltēns#Brēmanis#Zivtiņš#Zivtiņš#Matisone#Jurēvics#Petkeviča#Ivanova#Džeriņš#Mackevičs#Kraps#Priede#Kleinberga#Brencis#Morozs#Šnore#Indriksone#Ignatjevs#Miķelsone#Skride#Lūse#Ločmele#Burāne#Ozoliņš#Djeri#Urtāns#Kotāns#Stērninieks#Klēbahs#Šuvajevs#Latkovskis#Hiršs#Sprūde#Šlesere#Levrence#Lībiņa-Egnere#Atmane#Sohina#Stepaņenko#Kulbergs#Jenzis#Pagors#Lāce#Sprūds#Butāns#Simanovska#Vitenbergs#Svilāns#Apine#Melnalksnis#Siliņa#Puntulis#Švecova#Vitovskis#Putniņš#Stepaņenko#Kalējs#Vīksna#Šlesers#Plaude#Keišs#Straubergs#Viļums#Mitrevics#Caunītis#Kārkliņš#Luksts#Batņa#Āboliņš#Vējonis#Kučinskis#Dombrava#Pleškāne#Tavars#Judins#Štelmahers#Mūrniece#Putra#Bergmanis#Bartaševičs#Vītols#Kupača#Petraviča#Švinka#Biķe",
+  "VOTEDEPSUFFIX": "###############################################################################################",
+  "FRACTION": "LPV#SV/AJ#AS#SV/AJ#LPV#AS#AS#AS#SV/AJ#PRO#JV#AS#SV/AJ#LPV#LPV#AS#JV#LPV#LPV#AS#LPV#LPV#AS#AS#AS#SV/AJ#NA#NA#SV/AJ#AS#AS#PRO#LPV#PRO#AS#SV/AJ#AS#AS#AS#SV/AJ#PRO#JV#PRO#SV/AJ#LPV#PRO#JV#AS#SV/AJ#SV/AJ#AS#AS#SV/AJ#PRO#PRO#NA#PRO#NA#AS#AS#AS#JV#NA#SV/AJ#AS#AS#SV/AJ#AS#AS#LPV#SV/AJ#NA#AS#AS#NA#AS#AS#AS#AS#NA#AS#AS#NA#LPV#AS#JV#AS#NA#AS#AS#LPV#AS#AS#LPV#PRO#AS",
+  "RESULT": "Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Nebalsoja#Par#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Pret#Par#Par#Pret#Par#Pret#Par#Pret#Par#Par#Par#Pret#Pret#Pret#Pret#Pret#Par#Pret#Pret#Par#Pret#Pret#Par#Par#Pret#Pret#Pret#Par#Pret#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Pret#Par#Par#Par#Pret#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Pret#Par#Pret#Par#Par#Par#Par#Pret#Par#Par#Par#Pret#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "17.11.2026 22:27:39",
+  "VOTEMOTIVE": "Uzticības izteikšana Ministru kabinetam",
+  "VOTING_ID": "dc879bf4-d144-4af1-9c94-9fdbcc213695",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "34",
+  "VOTERESULT_FOR": "57",
+  "VOTERESULT_REGISTERED": "96",
+  "VOTE_NUMBER": "4",
+  "VOTE_COMMENT": "Deputāts Edgars Dārznieks informē, ka ir kļūdījies balsojumā, viņa balsojums ir \"PRET\".Deputāte Natālija Ābola informē, ka ir kļūdījusies balsojumā, viņas balsojums ir \"PRET\"."
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "15.Saeimas 2026.gada rudens sesija-5-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/c9f581ba-383e-4bb0-9b51-23e3e2b6a603/download/15.saeimas-2026.gada-rudens-sesija-5-vote.xml",
+  "sha256": "715d64e850f4891ba0289e800c96af96c9b8749c9e11b463fbc44ab41b59405f",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
