@@ -1,1 +1,0 @@
-2.pants. Uz zemes gabala Jūrmalā, Tukuma ielā 29 esošās ēkas (lit.2) un sabiedriskās būves īpašniekam ir tiesības nomāt zemi šīs ēkas uzturēšanai, un zemes nomas maksa gadā nedrīkst pārsniegt piecus procentus no zemes kadastrālās vērtības.

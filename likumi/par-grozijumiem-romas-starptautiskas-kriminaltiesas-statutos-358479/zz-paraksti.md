@@ -1,1 +1,0 @@
-Valsts prezidents E. Rinkēvičs

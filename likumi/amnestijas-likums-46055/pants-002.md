@@ -1,1 +1,0 @@
-2.pants. Personām, kuras izdarījušas noziegumus, kas nav smagi, ja uz tām nav attiecināmi šā likuma 1.panta 1.-6.punkta nosacījumi, noteiktais reālais brīvības atņemšanas sods vai tā neizciestā daļa ir jāsamazina uz pusi.

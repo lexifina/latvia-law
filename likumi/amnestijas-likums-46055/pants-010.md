@@ -1,1 +1,0 @@
-10.pants. Valsts un pašvaldību institūcijām tiesu un Iekšlietu ministrijas Cietumu administrācijas pieprasījumi par uzziņām, kas nepieciešamas sakarā ar amnestijas piemērošanu, jāizpilda nekavējoties, bet ne vēlāk kā 10 dienu laikā.

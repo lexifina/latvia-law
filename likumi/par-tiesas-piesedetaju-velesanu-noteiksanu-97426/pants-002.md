@@ -1,1 +1,0 @@
-2.pants. Noteikt, ka līdz šā likuma spēkā stāšanās dienai ievēlēto apgabaltiesu un rajonu (pilsētu) tiesu piesēdētāju pilnvaru termiņš pagarināms līdz jaunu tiesas piesēdētāju ievēlēšanas dienai attiecīgajā tiesā.
