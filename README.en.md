@@ -11,9 +11,9 @@ The law of Latvia as a git history: one file per provision, one commit per amend
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Latvia's national law, which global-law reads at `latvia/national/acts/`.
 
-**What is in it now:** the Satversme (the Constitution, 1922) and the Krimināllikums (Criminal Law), the Darba likums (Labour Law) and the Fizisko personu datu apstrādes likums (Personal Data Processing Law), plus 25 more laws, including the procedural codes, the Komerclikums and the main tax laws, with the versions likumi.lv publishes since each was first consolidated (`<act>/`); 5,827 records of the national measures Latvia has notified to the EU as transposing 1,700 EU directives and other EU acts, dated by their entry into force from 1971 to 2026 (`eu-nim/`, metadata from the EU Publications Office, no text); 59,442 Saeima sitting records 2016–2026: votes with each MP's result, agenda items and speakers (`saeima/`, data.gov.lv, CC0); and 2,216 Latvijas Vēstnesis publications from 1993 to 1995, text as published (`vestnesis/`, growing daily). The folders of the Satversme, the Krimināllikums, the Darba likums and the Fizisko personu datu apstrādes likums have a `README.md` that lists every provision, how often it changed and when.
+**What is in it now:** the Satversme (the Constitution, 1922) and the Krimināllikums (Criminal Law), the Darba likums (Labour Law) and the Fizisko personu datu apstrādes likums (Personal Data Processing Law), plus 25 more laws, including the procedural codes, the Komerclikums and the main tax laws, with the versions likumi.lv publishes since each was first consolidated (`likumi/<act>/`); 5,827 records of the national measures Latvia has notified to the EU as transposing 1,700 EU directives and other EU acts, dated by their entry into force from 1971 to 2026 (`eu-nim/`, metadata from the EU Publications Office, no text); 59,442 Saeima sitting records 2016–2026: votes with each MP's result, agenda items and speakers (`saeima/`, data.gov.lv, CC0); and 2,216 Latvijas Vēstnesis publications from 1993 to 1995, text as published (`vestnesis/`, growing daily). The folders of the Satversme, the Krimināllikums, the Darba likums and the Fizisko personu datu apstrādes likums have a `README.md` that lists every provision, how often it changed and when.
 
-Each act is a folder of provisions (`darba-likums/pants-149.md` is article 149 of the Darba likums, on annual paid leave); `nodala-08.md` is the heading of chapter VIII, `satversme/ievads.md` the preamble of the Satversme and `parejas-noteikumi-024.md` item 24 of the transitional provisions.
+Each act is a folder of provisions (`likumi/darba-likums/pants-149.md` is article 149 of the Darba likums, on annual paid leave); `nodala-08.md` is the heading of chapter VIII, `satversme/ievads.md` the preamble of the Satversme and `parejas-noteikumi-024.md` item 24 of the transitional provisions. Until 17 November 2026 each law's folder was at the top of the repository (`darba-likums/`); `git log --follow` follows the move and [`data/paths.json`](data/paths.json) maps each old folder to its new one.
 
 The text is in Latvian, as likumi.lv consolidates it. An English translation is not part of this record.
 
@@ -21,9 +21,9 @@ The text is in Latvian, as likumi.lv consolidates it. An English translation is 
 
 | Question | Command |
 | --- | --- |
-| Every change to article 149 of the Labour Law | `git log -p --word-diff -- darba-likums/pants-149.md` |
-| Which law wrote each line of article 149? | `git blame darba-likums/pants-149.md` |
-| Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- darba-likums` |
+| Every change to article 149 of the Labour Law | `git log -p --follow --word-diff -- likumi/darba-likums/pants-149.md` |
+| Which law wrote each line of article 149? | `git blame likumi/darba-likums/pants-149.md` |
+| Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- likumi/darba-likums` |
 | Article 149 as in force on 1 January 2010 | `python tools/on.py 2010-01-01 darba-likums pants-149` |
 
 **Outside git**, we also host this record publicly, for free:
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add latvia/national/acts
-python3 tools/law.py show 2026-01-01 latvia/national/acts/darba-likums/pants-149.md
+python3 tools/law.py show 2026-01-01 latvia/national/acts/likumi/darba-likums/pants-149.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

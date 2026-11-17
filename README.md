@@ -11,9 +11,9 @@ Latvijas tiesības kā git vēsture: katrai struktūrvienībai savs fails, katra
 
 Daļa no [lexifina/global-law](https://github.com/lexifina/global-law), vienotas visu valstu tiesību git vēstures: šeit ir Latvijas nacionālās tiesības, kuras global-law lasa no `latvia/national/acts/`.
 
-**Kas tajā ir pašlaik:** Satversme (1922) un Krimināllikums, Darba likums un Fizisko personu datu apstrādes likums, kā arī vēl 25 likumi, to vidū procesuālie kodeksi, Komerclikums un galvenie nodokļu likumi, ar redakcijām, ko likumi.lv publicē kopš katra likuma pirmās konsolidācijas (`<akts>/`); 5 827 ieraksti par valsts pasākumiem, kurus Latvija paziņojusi Eiropas Savienībai kā 1 700 ES direktīvu un citu ES aktu pārņemšanu, datēti pēc spēkā stāšanās dienas no 1971. līdz 2026. gadam (`eu-nim/`, ES Publikāciju biroja metadati, bez teksta); 59 442 Saeimas sēžu ieraksti no 2016. līdz 2026. gadam: balsojumi ar katra deputāta balsi, darba kārtības punkti un runātāji (`saeima/`, data.gov.lv, CC0); un 2 216 „Latvijas Vēstneša” publikācijas no 1993. līdz 1995. gadam, teksts kā publicēts (`vestnesis/`, papildina katru dienu). Satversmes, Krimināllikuma, Darba likuma un Fizisko personu datu apstrādes likuma mapē ir `README.md`, kurā uzskaitītas visas akta struktūrvienības, cik bieži tās grozītas un kad.
+**Kas tajā ir pašlaik:** Satversme (1922) un Krimināllikums, Darba likums un Fizisko personu datu apstrādes likums, kā arī vēl 25 likumi, to vidū procesuālie kodeksi, Komerclikums un galvenie nodokļu likumi, ar redakcijām, ko likumi.lv publicē kopš katra likuma pirmās konsolidācijas (`likumi/<akts>/`); 5 827 ieraksti par valsts pasākumiem, kurus Latvija paziņojusi Eiropas Savienībai kā 1 700 ES direktīvu un citu ES aktu pārņemšanu, datēti pēc spēkā stāšanās dienas no 1971. līdz 2026. gadam (`eu-nim/`, ES Publikāciju biroja metadati, bez teksta); 59 442 Saeimas sēžu ieraksti no 2016. līdz 2026. gadam: balsojumi ar katra deputāta balsi, darba kārtības punkti un runātāji (`saeima/`, data.gov.lv, CC0); un 2 216 „Latvijas Vēstneša” publikācijas no 1993. līdz 1995. gadam, teksts kā publicēts (`vestnesis/`, papildina katru dienu). Satversmes, Krimināllikuma, Darba likuma un Fizisko personu datu apstrādes likuma mapē ir `README.md`, kurā uzskaitītas visas akta struktūrvienības, cik bieži tās grozītas un kad.
 
-Katrs akts ir struktūrvienību mape (`darba-likums/pants-149.md` ir Darba likuma 149. pants par ikgadējo apmaksāto atvaļinājumu); `nodala-08.md` ir VIII nodaļas virsraksts, `satversme/ievads.md` ir Satversmes ievads un `parejas-noteikumi-024.md` ir pārejas noteikumu 24. punkts.
+Katrs akts ir struktūrvienību mape (`likumi/darba-likums/pants-149.md` ir Darba likuma 149. pants par ikgadējo apmaksāto atvaļinājumu); `nodala-08.md` ir VIII nodaļas virsraksts, `satversme/ievads.md` ir Satversmes ievads un `parejas-noteikumi-024.md` ir pārejas noteikumu 24. punkts. Līdz 2026. gada 17. novembrim katra likuma mape bija repozitorija saknē (`darba-likums/`); `git log --follow` seko pārvietošanai, un [`data/paths.json`](data/paths.json) katrai vecajai mapei norāda jauno.
 
 Teksts ir latviešu valodā, kā to konsolidē likumi.lv. Tulkojums angļu valodā nav šī ieraksta daļa.
 
@@ -21,9 +21,9 @@ Teksts ir latviešu valodā, kā to konsolidē likumi.lv. Tulkojums angļu valod
 
 | Jautājums | Komanda |
 | --- | --- |
-| Visi Darba likuma 149. panta grozījumi | `git log -p --word-diff -- darba-likums/pants-149.md` |
-| Kurš likums uzrakstīja katru 149. panta rindu? | `git blame darba-likums/pants-149.md` |
-| Visas Darba likuma redakcijas ar dienu, kad katra stājās spēkā | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- darba-likums` |
+| Visi Darba likuma 149. panta grozījumi | `git log -p --follow --word-diff -- likumi/darba-likums/pants-149.md` |
+| Kurš likums uzrakstīja katru 149. panta rindu? | `git blame likumi/darba-likums/pants-149.md` |
+| Visas Darba likuma redakcijas ar dienu, kad katra stājās spēkā | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- likumi/darba-likums` |
 | 149. pants redakcijā, kas bija spēkā 2010. gada 1. janvārī | `python tools/on.py 2010-01-01 darba-likums pants-149` |
 
 **Ārpus git** šo ierakstu arī publiski un bez maksas uzturam:
@@ -40,7 +40,7 @@ Abi asistenti lasa ierakstu ar bezmaksas savienotāja Global law starpniecību (
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add latvia/national/acts
-python3 tools/law.py show 2026-01-01 latvia/national/acts/darba-likums/pants-149.md
+python3 tools/law.py show 2026-01-01 latvia/national/acts/likumi/darba-likums/pants-149.md
 ```
 
 Atvērts Claude Code, Cursor, VS Code vai Codex vidē, klons palaiž arī lokālu MCP serveri ar tiem pašiem rīkiem ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
