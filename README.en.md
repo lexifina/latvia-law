@@ -11,7 +11,7 @@ The law of Latvia as a git history: one file per provision, one commit per amend
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Latvia's national law, which global-law reads at `latvia/national/acts/`.
 
-**What is in it now:** the Satversme (the Constitution, 1922) and three laws, the Krimināllikums (Criminal Law), the Darba likums (Labour Law) and the Fizisko personu datu apstrādes likums (Personal Data Processing Law), with 132 versions from 7 November 1922 to 15 October 2026, and the 126 amending laws that made them. Each act's folder has a `README.md` that lists every provision, how often it changed and when.
+**What is in it now:** the Satversme (the Constitution, 1922) and three laws, the Krimināllikums (Criminal Law), the Darba likums (Labour Law) and the Fizisko personu datu apstrādes likums (Personal Data Processing Law), with 132 versions from 7 November 1922 to 15 October 2026, and the 126 amending laws that made them; and 5,827 records of the national measures Latvia has notified to the EU as transposing 1,700 EU directives and other EU acts, dated by their entry into force from 1971 to 2026 (`eu-nim/`, metadata from the EU Publications Office, no text). Each act's folder has a `README.md` that lists every provision, how often it changed and when.
 
 Each act is a folder of provisions (`darba-likums/pants-149.md` is article 149 of the Darba likums, on annual paid leave); `nodala-08.md` is the heading of chapter VIII, `satversme/ievads.md` the preamble of the Satversme and `parejas-noteikumi-024.md` item 24 of the transitional provisions.
 
