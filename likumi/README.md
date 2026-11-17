@@ -4,4 +4,4 @@ Visi Latvijas likumi šajā repozitorijā, katrs savā mapē (`likumi/<likums>/`
 
 Every Latvian law in this repository, one folder per law (`likumi/<law>/`), one provision per file; the Constitution is in [`satversme/`](../satversme/). A folder is named by the law's likumi.lv address (cut to 72 characters, with the likumi.lv id, where the name is longer). Until 17 November 2026 these folders were at the top of the repository; [`data/paths.json`](../data/paths.json) gives each one's earlier place.
 
-1552 laws on 2026-11-17.
+1753 laws on 2026-11-17.
