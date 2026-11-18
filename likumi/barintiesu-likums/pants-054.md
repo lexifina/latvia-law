@@ -1,5 +1,5 @@
 54.pants. Ārpusģimenes aprūpe
-(1) Lēmumu par bērna ārpusģimenes aprūpi pieņem tās pašvaldības bāriņtiesa, kuras darbības teritorijā ir deklarēta bērna vecāku dzīvesvieta.
+(1) Lēmumu par bērna ārpusģimenes aprūpi pieņem tās pašvaldības bāriņtiesa, kuras darbības teritorijā ir deklarēta bērna vecāku dzīvesvieta vai kura ir pieņēmusi lēmumu par aizgādības tiesību pārtraukšanu, ja lietas par aizgādības tiesību pārtraukšanu izskatīšanas gaitā mainās bērna vecāku deklarētā dzīvesvieta.
 (2) Ja bērnam nodibināta viena vecāka atsevišķa aizgādība, lēmumu par bērna ārpusģimenes aprūpi pieņem bāriņtiesa, kuras darbības teritorijā ir deklarēta dzīvesvieta tam vecākam, kura atsevišķā aizgādībā bērns atrodas.
 (3) Ja bērna vecāku dzīvesvieta ir deklarēta dažādu pašvaldību administratīvajās teritorijās, lēmumu par bērna ārpusģimenes aprūpi pieņem bāriņtiesa, kuras darbības teritorijā ir deklarēta dzīvesvieta tam vecākam, pie kura bērns dzīvo.
 (4) Ja bērna vecākiem nav deklarētas dzīvesvietas, lēmumu par ārpusģimenes aprūpi pieņem tās pašvaldības bāriņtiesa, kuras darbības teritorijā bērna vecāki faktiski dzīvo.

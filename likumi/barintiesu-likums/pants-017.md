@@ -5,9 +5,9 @@ Bāriņtiesa:
 2) izskata iesniegumus un sūdzības, to skaitā iesniegumus un sūdzības par vecāka, aizbildņa, aizgādņa vai audžuģimenes rīcību;
 3) piedalās lietas izskatīšanā tiesā un sniedz atzinumu, ja likums nosaka vai tiesa atzīst bāriņtiesas piedalīšanos lietas izskatīšanā par nepieciešamu;
 3¹) sniedz tiesai informāciju, kurai ir nozīme lietā par personas rīcībspējas ierobežošanu, pagaidu aizgādnības nodibināšanu un rīcībspējas ierobežojuma pārskatīšanu (piemēram, dokumentus par personas viedokli attiecībā uz rīcībspējas ierobežošanu, par dzīves apstākļu pārbaudi, par citu personu viedokli, par ziņām no sociālā dienesta, ārstējošā ārsta, ārstniecības, sociālās aprūpes un rehabilitācijas iestādes, par kredītiestādē veiktajiem darījumiem un kontu atlikumiem);
-4) sadarbojas ar citām bāriņtiesām, Bērnu aizsardzības centru, ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijām, veselības aprūpes un izglītības iestādēm, sociālajiem dienestiem, policijas iestādēm, Valsts probācijas dienestu un tiesu izpildītājiem, lai nodrošinātu bērna vai aizgādnībā esošās personas tiesību un interešu aizsardzību;
+4) sadarbojas ar citām bāriņtiesām, Bērnu aizsardzības centru, ilgstošas sociālās aprūpes un sociālās rehabilitācijas institūcijām, veselības aprūpes un izglītības iestādēm, sociālajiem dienestiem, tiesībaizsardzības iestādēm, Valsts probācijas dienestu un tiesu izpildītājiem, lai nodrošinātu bērna vai aizgādnībā esošās personas tiesību un interešu aizsardzību;
 5) informē pašvaldības sociālo dienestu vai citu atbildīgo institūciju par ģimenēm, kurās netiek pietiekami nodrošināta bērna attīstība un audzināšana un kurām nepieciešama palīdzība;
-5¹) informē Bērnu aizsardzības centru, ja ir atkārtoti pieņemts lēmums par aizgādības tiesību pārtraukšanu vecākam, kuram jau iepriekš pārtrauktas tā paša bērna aizgādības tiesības;
+5¹) informē Bērnu aizsardzības centru, ja ir atkārtoti pieņemts lēmums par aizgādības tiesību pārtraukšanu vecākam, kuram jau iepriekš pārtrauktas bērna aizgādības tiesības;
 6) neizpauž informāciju, kas jebkādā veidā varētu kaitēt bērnam vai aizgādnībā esošajai personai;
 7) sniedz palīdzību bērnam vai aizgādnībā esošajai personai, kura pēc palīdzības vērsusies bāriņtiesā;
 7¹) uzklausa aizgādnībā esošo personu ikvienā jautājumā, kas skar šīs personas intereses;
@@ -15,4 +15,6 @@ Bāriņtiesa:
 9) informē vecāku, aizbildni, audžuģimeni vai viesģimeni par iespējamo apdraudējumu bērnam un par personas sodāmības faktu šā likuma 44.¹ pantā noteiktajos gadījumos, kā arī informē pašvaldības sociālo dienestu par vecākiem, aizbildņiem, audžuģimenēm vai viesģimenēm, kuras ir informētas šā likuma 44.¹ pantā noteiktajā kārtībā;
 10) pārstāv audžuģimenē ievietota bērna personiskās un mantiskās intereses un tiesības;
 10¹) pārstāv bērna personiskās un mantiskās intereses un tiesības vienpersoniska lēmuma darbības laikā;
+10²) pārstāv bez likumiskās pārstāvības esošo bērnu līdz brīdim, kad tiek pieņemts lēmums par ārpusģimenes aprūpes nodibināšanu, vai līdz brīdim, kad bērna likumiskajam pārstāvim zūd faktiskie šķēršļi, lai īstenotu bērna pārstāvību;
+10³) līdz aizgādņa iecelšanai veic darbības, kas nepieciešamas, lai novērstu tūlītēju vai būtisku aizgādnībā esošās personas tiesību un interešu aizskārumu;
 11) izvērtē, vai vecāks ļaunprātīgi izmanto savas tiesības, kā arī informē tiesu izpildītāju par izvērtējuma rezultātiem vai pieņemtajiem lēmumiem, ja saņemts no tiesu izpildītāja akts par to, ka lietā, kas izriet no aizgādības tiesībām, tiesu izpildītāja noteiktajā laikā un vietā bērns nav sastapts, vai arī saņemts akts par nolēmuma nepildīšanu lietā, kas izriet no saskarsmes tiesībām.

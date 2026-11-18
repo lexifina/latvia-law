@@ -4,4 +4,4 @@
 2) lemj par aizbildņa atstādināšanu;
 3) lemj par aizbildņa atcelšanu.
 (2) Ja aizbildņa rīcība radījusi aizbilstamajam zaudējumus, par kuriem aizbildnis ir atbildīgs, bāriņtiesa ceļ tiesā attiecīgu prasību.
-(3) Ja bāriņtiesa konstatē administratīvi vai krimināli sodāmu aizbildņa tiesību ļaunprātīgu izmantošanu, kas kaitējusi aizbilstamā interesēm, bāriņtiesa par to paziņo tiesībaizsardzības iestādēm.
+(3) Ja aizbildņa rīcība ir kaitējusi aizbilstamā interesēm un bāriņtiesai rodas pamatotas aizdomas par administratīvi vai krimināli sodāmu aizbildņa tiesību ļaunprātīgu izmantošanu, bāriņtiesa par to paziņo tiesībaizsardzības iestādēm.

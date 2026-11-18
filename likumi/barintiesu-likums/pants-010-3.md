@@ -1,0 +1,6 @@
+10.³ pants. Bāriņtiesas priekšsēdētāja, bāriņtiesas priekšsēdētāja vietnieka un bāriņtiesas locekļa novērtēšana
+(1) Bāriņtiesas priekšsēdētāja, bāriņtiesas priekšsēdētāja vietnieka un bāriņtiesas locekļa darba izpildes novērtēšanas mērķis ir amatpersonas darbības un tās rezultātu izvērtēšana, kā arī profesionālās attīstības un kompetenču pilnveides vajadzību noteikšana.
+(2) Bāriņtiesas priekšsēdētāja darba izpildi ne retāk kā reizi divos gados novērtē pašvaldības izpilddirektors.
+(3) Bāriņtiesas locekļa un bāriņtiesas priekšsēdētāja vietnieka darba izpildi ne vēlāk kā septiņas dienas pirms pārbaudes laika beigām un turpmāk ne retāk kā reizi gadā vienotā bāriņtiesu novērtēšanas sistēmā novērtē bāriņtiesas priekšsēdētājs. Ja bāriņtiesā ir izveidotas struktūrvienības, bāriņtiesas locekļa darba izpildes novērtēšanu veic attiecīgās struktūrvienības vadītājs.
+(4) Novērtēšanas kārtību un novērtēšanas kritērijus, kā arī sasniedzamos rezultātus un to vērtēšanas sistēmu nosaka Ministru kabinets.
+(5) Pašvaldības izpilddirektors, bāriņtiesas priekšsēdētājs vai šā panta trešajā daļā minētajā gadījumā struktūrvienības vadītājs ir tiesīgs apstrādāt personas datus tādā apjomā, kas nepieciešami bāriņtiesas priekšsēdētāja, bāriņtiesas priekšsēdētāja vietnieka un bāriņtiesas locekļa darba izpildes, kompetenču, mācību un attīstības vajadzību novērtēšanai un noteikšanai.

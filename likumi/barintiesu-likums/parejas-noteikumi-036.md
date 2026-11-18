@@ -1,0 +1,1 @@
+36. Grozījums šā likuma 25. pantā par tā papildināšanu ar piekto daļu, nosakot bāriņtiesām pienākumu veikt audžuģimeņu un audžuģimenēs ievietoto bērnu uzskaiti bāriņtiesu informācijas sistēmā, un grozījums par 25.¹ panta izslēgšanu, kas saistīts ar Audžuģimeņu informācijas sistēmas lietošanas pārtraukšanu, stājas spēkā 2029. gada 1. janvārī.

@@ -11,7 +11,9 @@
 (2) Īpaši grūtos un sarežģītos aizbildnības gadījumos bāriņtiesa var iecelt vairākus aizbildņus, bet ne vairāk par trim.
 (3) Aizbildni uz laiku bāriņtiesa ieceļ, ja:
 1) aizbildnis ir kavēts uzņemties aizbildnību;
-2) aizbildnis ir atstādināts no aizbildņa pienākumu pildīšanas.
+2) aizbildnis ir atstādināts no aizbildņa pienākumu pildīšanas;
+3) bāriņtiesas rīcībā nav šā likuma 29. panta otrajā daļā minēto atzinumu par personu, kura ir izteikusi vēlmi uzņemties aizbildnību;
+4) persona, kura ir izteikusi vēlmi uzņemties bērna aizbildnību, dzīvo ārvalstīs un bāriņtiesā nav saņemta attiecīgās valsts kompetentās iestādes sniegtā informācija vai piekrišana aizbildnības nodibināšanai.
 (4) Bāriņtiesa lemj par cita aizbildņa iecelšanu, ja:
 1) konstatē pārkāpumus, ko aizbildnis pieļāvis aizbildnības pārvaldībā;
 2) iepriekšējais aizbildnis atcelts vai atlaists no aizbildņa pienākumu pildīšanas;

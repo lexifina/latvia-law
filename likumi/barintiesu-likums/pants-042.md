@@ -5,4 +5,4 @@
 3) lemj par aizgādņa atcelšanu.
 (2) Ja aizgādnis atstādināts vai atcelts no aizgādnības, bāriņtiesa ieceļ citu aizgādni.
 (3) Ja aizgādņa rīcība radījusi zaudējumus, par kuriem aizgādnis ir atbildīgs, bāriņtiesa ceļ tiesā attiecīgu prasību.
-(4) Ja bāriņtiesa konstatē administratīvi vai krimināli sodāmu aizgādņa tiesību ļaunprātīgu izmantošanu, bāriņtiesa par to paziņo tiesībaizsardzības iestādēm.
+(4) Ja aizgādņa rīcība ir kaitējusi aizgādnībā esošās personas interesēm un bāriņtiesai rodas pamatotas aizdomas par administratīvi vai krimināli sodāmu aizgādņa tiesību ļaunprātīgu izmantošanu, bāriņtiesa par to paziņo tiesībaizsardzības iestādēm.

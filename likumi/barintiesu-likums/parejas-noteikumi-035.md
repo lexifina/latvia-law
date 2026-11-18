@@ -1,0 +1,1 @@
+35. Ministru kabinets līdz 2027. gada 1. janvārim izdod šā likuma 10.³ panta ceturtajā daļā minētos noteikumus. Līdz šā likuma 10.³ pantā minētās vienotās novērtēšanas sistēmas ieviešanai pašvaldība bāriņtiesas darbiniekus novērtē atbilstoši pašvaldības iekšējās kontroles sistēmai.
