@@ -1,0 +1,1 @@
+11. Ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstī sāk Reģistrā iekļaut un aktualizēt ne vēlāk kā 2027. gada 1. aprīlī.

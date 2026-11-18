@@ -1,4 +1,4 @@
-11. pants. (1) Reģistrā par personu iekļauj šādas ziņas:
+11. pants. (1) Reģistrā par personu iekļauj un aktualizē šādas ziņas:
 1) personas kods;
 2) vārds (vārdi);
 3) uzvārds;
@@ -12,7 +12,7 @@
 10) valstiskā piederība un tās veids;
 11) tautība;
 12) deklarētās, reģistrētās vai personas norādītās dzīvesvietas adrese. Personas norādītajai dzīvesvietas adresei ir informatīvs raksturs;
-12¹) ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d", "e", "g", "h", "i" un "j" apakšpunktā minētās personas kontaktadresi. Personas norādītajai kontaktadresei ir informatīvs raksturs;
+12¹) ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d", "e", "g", "h", "i" un "j" apakšpunktā minētās personas kontaktadresi vai ziņas par kontaktadreses anulēšanu. Personas norādītajai kontaktadresei ir informatīvs raksturs;
 13) ziņas par šā likuma 4. panta pirmās daļas 2. punkta "b", "c", "d", "e" "g", "h", "i" vai "j" apakšpunktā minētās personas identifikācijas kodu, kas ierakstīts personu apliecinošā dokumentā;
 14) ziņas par šā likuma 4. panta pirmās daļas 1. punktā un 2. punkta "a" apakšpunktā minētajai personai ārvalstī piešķirto identifikācijas kodu, kas ierakstīts kompetentas iestādes izsniegtā dokumentā;
 15) (izslēgts ar 17.06.2021. likumu);
@@ -38,7 +38,8 @@
 35) ziņas par to, vai persona ir šā likuma 4. panta pirmās daļas 2. punkta "i" apakšpunktā minētais ārzemnieks;
 36) ziņas par partnerību;
 37) ziņas par partnerības izbeigšanu;
-38) ziņas par šā likuma 4. panta pirmajā daļā minētās personas apbedīšanu, kremāciju, pārapbedīšanu, urnas pārvietošanu vai apbedītā mirušā kremāciju.
+38) ziņas par šā likuma 4. panta pirmajā daļā minētās personas apbedīšanu, kremāciju, pārapbedīšanu, urnas pārvietošanu vai apbedītā mirušā kremāciju;
+39) ziņas par šā likuma 4. panta pirmās daļas 2. punkta "g" apakšpunktā minētā ārzemnieka akreditāciju.
 (2) Šajā likumā minētā valstiskā piederība ir personas saikne ar valsti, kas personai izdevusi vai likumā noteiktajā kārtībā izdos personu apliecinošu dokumentu vai to aizstājošu dokumentu. Valstiskās piederības veidi šā likuma izpratnē ir:
 1) pilsonis;
 2) nepilsonis;
@@ -52,8 +53,8 @@
 (4¹) Par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minēto personu, kuras dzimšanas faktu reģistrē, Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 4., 7., 9., 11. un 12.¹ punktā minētās ziņas un ziņas par dzimtas uzvārda vēsturisko formu un citas valodas uzvārda oriģinālformu latīņalfabētiskajā transliterācijā, ja šo formu var apliecināt dokumentāri.
 (4²) Par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minētās personas vecāku, ja reģistrē dzimšanas faktu, personu, kuras laulību reģistrē, vai personu, kura atkārtoti pieprasa savas dzimšanas fakta vai laulības reģistrāciju apliecinošu dokumentu, Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 11., 12.¹, 13. un 16. punktā minētās ziņas.
 (4³) Par šā likuma 4. panta pirmās daļas 2. punkta "i" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 7., 9., 10., 12.¹, 13. un 16. punktā minētās ziņas.
-(4⁴) Par šā likuma 4. panta pirmās daļas 2. punkta "j" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 11., 12.¹, 13., 16., 36. un 37. punktā minētās ziņas.
-(4⁵) Par šā likuma 4. panta pirmās daļas 2. punkta "g" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 12. vai 12.¹, 13. un 16. punktā minētās ziņas, kā arī citas šā panta pirmajā daļā minētās ziņas, kas nepieciešamas valsts pārvaldes pakalpojuma saņemšanai.
+(4⁴) Par šā likuma 4. panta pirmās daļas 2. punkta "j" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 12.¹, 13., 16., 36. un 37. punktā minētās ziņas.
+(4⁵) Par šā likuma 4. panta pirmās daļas 2. punkta "g" apakšpunktā minēto personu Reģistrā iekļauj šā panta pirmās daļas 1., 2., 3., 6., 7., 9., 10., 12. vai 12.¹, 13., 16. un 39. punktā minētās ziņas, kā arī citas šā panta pirmajā daļā minētās ziņas, kas nepieciešamas valsts pārvaldes pakalpojuma saņemšanai.
 (5) Ziņas par pilngadīgu bērnu Reģistrā iekļauj pēc tēva vai mātes vēlēšanās.
 (6) Ziņas par personas tautību Reģistrā iekļauj, ievērojot šādus nosacījumus:
 1) ja personas tautība ir ierakstīta personu apliecinošā dokumentā, civilstāvokļa aktu reģistrāciju apliecinošā dokumentā vai konstatēta ar tiesas spriedumu, personas tautību Reģistrā iekļauj atbilstoši vienā no šiem dokumentiem norādītajam. Ja vairākos dokumentos ir norādīta dažāda tautība, noteicošais ir jaunākais dokuments;
@@ -62,3 +63,4 @@
 4) ja persona nav izvēlējusies norādīt tautību, Reģistrā iekļauj norādi "neizvēlēta";
 5) ja personai nav informācijas par savu augšupējo radinieku tautību divu paaudžu robežās, Reģistrā iekļauj norādi "nezināma";
 6) adopcijas gadījumā bērna tautību var aktualizēt atbilstoši adoptētāja un viņa augšupējo radinieku tautībai divu paaudžu robežās.
+(7) Ziņas par kontaktadreses anulēšanu šā likuma 8. pantā minētā iestāde, izņemot Tieslietu ministriju, vai Latvijas Republikas zvērināts notārs aktualizē pēc lūguma, kuru iesniegusi šā likuma 4. panta pirmās daļas 2. punkta "d", "e", "g", "h", "i" vai "j" apakšpunktā minētā persona, cita ieinteresētā persona vai iestāde, vai Latvijas Republikas zvērināts notārs, kurš konstatē, ka persona kontaktadresē nav sasniedzama.

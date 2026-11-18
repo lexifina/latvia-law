@@ -1,0 +1,1 @@
+10. Ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d", "e", "g", "h", "i" vai "j" apakšpunktā minētās personas kontaktadreses anulēšanu sāk Reģistrā aktualizēt ne vēlāk kā 2027. gada 1. novembrī.

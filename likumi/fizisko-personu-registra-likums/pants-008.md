@@ -3,7 +3,7 @@
 1) Reģistrā iekļauj, aktualizē un atjauno ziņas par civilstāvokļa aktiem;
 2) iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "h" apakšpunktā minēto personu;
 3) aktualizē Reģistrā iekļautās ziņas par personas deklarēto vai reģistrēto dzīvesvietu.
-(3) Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstīs iekļauj un aktualizē Reģistrā ziņas atbilstoši savai kompetencei un iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "e" apakšpunktā minēto personu.
+(3) Latvijas diplomātiskā un konsulārā pārstāvniecība ārvalstīs iekļauj un aktualizē Reģistrā ziņas atbilstoši savai kompetencei un iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" un "e" apakšpunktā minēto personu.
 (4) Tieslietu ministrija iekļauj Reģistrā ziņas par adoptētu personu un aktualizē ziņas par personas vārda, uzvārda vai tautības ieraksta maiņu.
 (5) Zvērināts notārs iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" un "j" apakšpunktā minēto personu, kā arī aktualizē Reģistrā iekļautās ziņas par šā likuma 4. panta pirmajā daļā minēto personu laulības šķiršanu, reģistrētu partnerību un tās izbeigšanu.
 (6) Latvijas Republikas Uzņēmumu reģistrs iekļauj un aktualizē Reģistrā ziņas par šā likuma 4. panta pirmās daļas 2. punkta "d" apakšpunktā minēto personu.
