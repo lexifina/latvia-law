@@ -29,6 +29,8 @@
 17) datus par atļaujām, speciālajām atļaujām (licencēm) un izziņām darbībai ar akcīzes precēm;
 18) datus par darījuma dalībniekiem un ar tiem saistītajām personām;
 19) datus par valsts robežas šķērsošanu;
-20) datus par akcīzes preču pārvietošanu.
+20) datus par akcīzes preču pārvietošanu;
+21) citas datu kategorijas, ja datu apstrāde ir regulēta citā likumā.
 (3) Valsts ieņēmumu dienests valsts informācijas sistēmās esošos fizisko personu datus var sniegt citām iestādēm, ja tām saskaņā ar normatīvajiem aktiem ir tiesības saņemt un apstrādāt Valsts ieņēmumu dienesta valsts informācijas sistēmās esošos fizisko personu datus valsts pārvaldes funkciju un uzdevumu izpildes nodrošināšanai, kā arī valsts institūciju funkciju izpildes nodrošināšanai un šie dati ir vienīgi Valsts ieņēmumu dienesta rīcībā vai arī Valsts ieņēmumu dienestam atbilstoši tā kompetencei ir pienākums šādus datus radīt.
 (4) Noteikumus par fizisko personu datu apstrādi Valsts ieņēmumu dienesta valsts informācijas sistēmās nosaka Ministru kabinets.
+(5) Valsts ieņēmumu dienestam ir tiesības profilēt fizisko personu datus tikai atbilstoši šā panta pirmajā un otrajā daļā minētajiem datu apstrādes nolūkiem un fizisko personu datu kategorijām.
