@@ -11,7 +11,7 @@ Latvijas tiesības kā git vēsture: katrai struktūrvienībai savs fails, katra
 
 Daļa no [lexifina/global-law](https://github.com/lexifina/global-law), vienotas visu valstu tiesību git vēstures: šeit ir Latvijas nacionālās tiesības, kuras global-law lasa no `latvia/national/acts/`.
 
-**Kas tajā ir pašlaik:** 1 753 Latvijas likumi ar likumi.lv publicētajām redakcijām, katrs savā mapē [`likumi/`](likumi/), un Satversme mapē [`satversme/`](satversme/); galvenie kodeksi ir [Civillikums](likumi/civillikums/), [Krimināllikums](likumi/kriminallikums/), [Darba likums](likumi/darba-likums/), [Civilprocesa likums](likumi/civilprocesa-likums/), [Kriminālprocesa likums](likumi/kriminalprocesa-likums/), [Administratīvā procesa likums](likumi/administrativa-procesa-likums/), [Administratīvās atbildības likums](likumi/administrativas-atbildibas-likums/) un [Komerclikums](likumi/komerclikums/). Blakus: ES tiesību pārņemšanas ieraksti no 1971. līdz 2026. gadam ([`eu-nim/`](eu-nim/), tikai metadati), Saeimas balsojumi, darba kārtība un runātāji no 2016. līdz 2026. gadam ([`saeima/`](saeima/)) un „Latvijas Vēstneša” publikācijas kopš 1993. gada ([`vestnesis/`](vestnesis/)).
+**Kas tajā ir pašlaik:** 1 753 Latvijas likumi ar likumi.lv publicētajām redakcijām, katrs savā mapē [`likumi/`](likumi/), un Satversme mapē [`satversme/`](satversme/); galvenie kodeksi ir [Civillikums](likumi/civillikums/), [Krimināllikums](likumi/kriminallikums/), [Darba likums](likumi/darba-likums/), [Civilprocesa likums](likumi/civilprocesa-likums/), [Kriminālprocesa likums](likumi/kriminalprocesa-likums/), [Administratīvā procesa likums](likumi/administrativa-procesa-likums/), [Administratīvās atbildības likums](likumi/administrativas-atbildibas-likums/) un [Komerclikums](likumi/komerclikums/). Blakus: ES tiesību pārņemšanas ieraksti no 1971. līdz 2026. gadam ([`eu-nim/`](eu-nim/), tikai metadati), Saeimas balsojumi, darba kārtība un runātāji no 2016. līdz 2026. gadam ([`saeima/`](saeima/)) un „Latvijas Vēstnesī” no 1993. līdz 1998. gadam publicētie normatīvie akti ([`vestnesis/`](vestnesis/), 6 315 Ministru kabineta noteikumi un rīkojumi, lēmumi un likumi).
 
 Katrs akts ir struktūrvienību mape (`likumi/darba-likums/pants-149.md` ir Darba likuma 149. pants par ikgadējo apmaksāto atvaļinājumu); `nodala-08.md` ir VIII nodaļas virsraksts, `satversme/ievads.md` ir Satversmes ievads un `parejas-noteikumi-024.md` ir pārejas noteikumu 24. punkts. Līdz 2026. gada 17. novembrim katra likuma mape bija repozitorija saknē (`darba-likums/`); `git log --follow` seko pārvietošanai, un [`data/paths.json`](data/paths.json) katrai vecajai mapei norāda jauno.
 
@@ -65,7 +65,7 @@ Katrs grozījums tiek attiecināts uz likumu, kas to izdarīja, kā to attiecīg
 
 ## Ko tas neparāda
 
-- **Citas Latvijas tiesības.** Ministru kabineta noteikumu, pašvaldību saistošo noteikumu un tiesu nolēmumu šeit nav, izņemot to, ko publicē `vestnesis/`.
+- **Citas Latvijas tiesības.** Ministru kabineta noteikumu, pašvaldību saistošo noteikumu un tiesu nolēmumu šeit nav, izņemot 1993.–1998. gadā publicētos, kas ir mapē `vestnesis/`.
 - **Piecas likumi.lv uzskaitītas redakcijas**: vienu Krimināllikuma (2014. gada 9. aprīlis) un četras Darba likuma (2005. gada 8. aprīlis, 2011. gada 4. maijs, 2020. gada 1. janvāris, 2022. gada 1. jūnijs), kurām nav arhivētas izmantojamas kopijas; tad izdarīts grozījums parādās nākamajā redakcijā, ja vien panta piezīme nenorāda tā dienu.
 - **likumi.lv bāzes redakcijas** Krimināllikumam, Darba likumam un Fizisko personu datu apstrādes likumam: to kopijas nav arhivētas, tāpēc katra akta pirmā redakcija ir akts tādā veidā, kādā tas publicēts oficiālajā izdevumā.
 - **Satversmes darbības pārtraukumu.** Tā saglabāta kā spēkā esoša no 1922. gada; 1934. gada apvērsums un okupācija (1940-1990) negrozīja nevienu vārdu, tāpēc tie nav revīzijas.
@@ -82,7 +82,7 @@ Katrs grozījums tiek attiecināts uz likumu, kas to izdarīja, kā to attiecīg
 
 ## Licence
 
-Sk. [`LICENSE`](LICENSE). Latvijā uz likumiem un citiem normatīvajiem aktiem autortiesības neattiecas (Autortiesību likuma 6. pants); "Latvijas Vēstnesis" norāda, ka oficiāli publicētās informācijas atkalizmantošana rakstiski jāsaskaņo ar to, un šāda vienošanās nav noslēgta. Izkārtojums, tabulas, revīziju ziņojumi un rīki ir Lexifina darbs, un uz tiem attiecas CC BY 4.0 licence.
+Sk. [`LICENSE`](LICENSE). Latvijā autortiesības neattiecas uz normatīvajiem aktiem, administratīvajiem aktiem un citiem valsts institūciju pieņemtiem dokumentiem (Autortiesību likuma 6. pants), un katrs šeit iekļautais tiesību teksts ir šāds akts vai dokuments. Izkārtojums, tabulas, revīziju ziņojumi un rīki ir Lexifina darbs, un uz tiem attiecas CC BY 4.0 licence.
 
 Neviens MI modelis nav rakstījis, tulkojis vai mainījis juridisko tekstu; skriptus uzrakstīja MI modelis Claude Opus 5.5 (sk. [`REPRODUCE.md`](REPRODUCE.md)).
 

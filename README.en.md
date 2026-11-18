@@ -11,7 +11,7 @@ The law of Latvia as a git history: one file per provision, one commit per amend
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Latvia's national law, which global-law reads at `latvia/national/acts/`.
 
-**What is in it now:** 1,753 Latvian laws with the versions likumi.lv publishes, one folder each in [`likumi/`](likumi/), and the Satversme (Constitution) in [`satversme/`](satversme/); the main codes are the [Civillikums](likumi/civillikums/) (Civil Law), [Krimināllikums](likumi/kriminallikums/) (Criminal Law), [Darba likums](likumi/darba-likums/) (Labour Law), [Civilprocesa likums](likumi/civilprocesa-likums/), [Kriminālprocesa likums](likumi/kriminalprocesa-likums/), [Administratīvā procesa likums](likumi/administrativa-procesa-likums/), [Administratīvās atbildības likums](likumi/administrativas-atbildibas-likums/) and [Komerclikums](likumi/komerclikums/) (Commercial Law). Alongside: EU transposition records 1971–2026 ([`eu-nim/`](eu-nim/), metadata only), Saeima votes, agendas and speakers 2016–2026 ([`saeima/`](saeima/)) and Latvijas Vēstnesis publications from 1993 ([`vestnesis/`](vestnesis/)).
+**What is in it now:** 1,753 Latvian laws with the versions likumi.lv publishes, one folder each in [`likumi/`](likumi/), and the Satversme (Constitution) in [`satversme/`](satversme/); the main codes are the [Civillikums](likumi/civillikums/) (Civil Law), [Krimināllikums](likumi/kriminallikums/) (Criminal Law), [Darba likums](likumi/darba-likums/) (Labour Law), [Civilprocesa likums](likumi/civilprocesa-likums/), [Kriminālprocesa likums](likumi/kriminalprocesa-likums/), [Administratīvā procesa likums](likumi/administrativa-procesa-likums/), [Administratīvās atbildības likums](likumi/administrativas-atbildibas-likums/) and [Komerclikums](likumi/komerclikums/) (Commercial Law). Alongside: EU transposition records 1971–2026 ([`eu-nim/`](eu-nim/), metadata only), Saeima votes, agendas and speakers 2016–2026 ([`saeima/`](saeima/)) and the normative acts published in Latvijas Vēstnesis from 1993 to 1998 ([`vestnesis/`](vestnesis/), 6,315 Cabinet regulations and orders, decisions and laws).
 
 Each act is a folder of provisions (`likumi/darba-likums/pants-149.md` is article 149 of the Darba likums, on annual paid leave); `nodala-08.md` is the heading of chapter VIII, `satversme/ievads.md` the preamble of the Satversme and `parejas-noteikumi-024.md` item 24 of the transitional provisions. Until 17 November 2026 each law's folder was at the top of the repository (`darba-likums/`); `git log --follow` follows the move and [`data/paths.json`](data/paths.json) maps each old folder to its new one.
 
@@ -65,7 +65,7 @@ Each change is credited to the law that made it, as likumi.lv's note for that da
 
 ## What it does not show
 
-- **Other Latvian law.** Cabinet regulations, local regulations and case law are not here, except as printed in `vestnesis/`.
+- **Other Latvian law.** Cabinet regulations, local regulations and case law are not here, except those published from 1993 to 1998, in `vestnesis/`.
 - **Five versions likumi.lv lists**: one of the Criminal Law (9 April 2014) and four of the Labour Law (8 April 2005, 4 May 2011, 1 January 2020, 1 June 2022), of which no usable capture is archived; a change made then shows on the next version, unless an article's note gives its day.
 - **likumi.lv's base versions** of the Criminal Law, the Labour Law and the Personal Data Processing Law: no capture is archived, so each first version is the act as published in the official gazette.
 - **The Satversme's interruption.** It is kept as in force from 1922; the coup of 1934 and the occupation (1940-1990) changed no words, so they are not commits.
@@ -82,7 +82,7 @@ Each change is credited to the law that made it, as likumi.lv's note for that da
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Laws and other normative acts are not protected by copyright in Latvia (Autortiesību likums, art. 6); Latvijas Vēstnesis states that re-use of officially published information is to be agreed with it in writing, and no such agreement has been made. The arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
+See [`LICENSE`](LICENSE). In Latvia copyright does not apply to normative acts, administrative acts and other documents adopted by state institutions (Autortiesību likums, art. 6), and every legal text here is one. The arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model, Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
 
