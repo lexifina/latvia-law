@@ -1,0 +1,1 @@
+41. Ministru kabinets līdz 2027. gada 30. jūnijam izdod šā likuma 5. panta 29., 30. un 31. punktā, 22. panta 2.³ un 2.⁴ daļā, 25.¹ panta 1.² daļā, 41. panta ceturtajā daļā un 42.¹ panta trešajā daļā minētos noteikumus.

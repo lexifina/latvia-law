@@ -1,2 +1,2 @@
 V nodaļa
-Aptiekas
+Aptiekas un ārstniecības iestādes

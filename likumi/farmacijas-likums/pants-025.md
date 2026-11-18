@@ -1,2 +1,3 @@
 25. pants. (1) Zāļu izgatavošana, zāļu ražošana, importēšana un izplatīšana Latvijas Republikā ir atļauta tikai tad, ja attiecīgajam komercdarbības veidam saņemta speciālā atļauja (licence), kas noteikta šā likuma 37. un 45. pantā, kā arī 51. panta pirmajā un otrajā daļā.
+(1¹) Zāļu izplatīšana vairumtirdzniecībā Latvijas Republikā ir atļauta, ja ir saņemta Eiropas speciālā atļauja (licence) zāļu vairumtirdzniecībai vai ražošanai.
 (2) Izņēmuma jaunieviestās terapijas zāļu ražošana un izplatīšana ir atļauta tikai tad, ja saņemta speciālā atļauja (licence) attiecīgajam darbības veidam, kas noteikts šā likuma 51.³ pantā.

@@ -1,12 +1,12 @@
 5.pants. Ministru kabinets nosaka:
-1) nosacījumus un kārtību, kādā izsniedzamas, apturamas, atjaunojamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) veterinārfarmaceitiskajai darbībai, farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku darbības uzsākšanas un darbības kārtību, kā arī veterināro zāļu lieltirgotavu un veterināro zāļu ražošanas vai importēšanas darbības uzsākšanas, darbības un atbilstības novērtēšanas kārtību;
+1) nosacījumus un kārtību, kādā izsniedzamas, apturamas, atjaunojamas, pārreģistrējamas un anulējamas speciālās atļaujas (licences) veterinārfarmaceitiskajai darbībai, farmaceitu profesionālās kvalifikācijas sertifikāti, aptieku darbības uzsākšanas un darbības kārtību un prasības, kā arī veterināro zāļu lieltirgotavu un veterināro zāļu ražošanas vai importēšanas darbības uzsākšanas, darbības un atbilstības novērtēšanas kārtību;
 1¹) farmaceitiskās darbības licencēšanas noteikumus;
 2) un pēc Veselības ministrijas ieteikuma apstiprina to zāļu kvalitātes kontroles institūciju sarakstu, kuras ir tiesīgas dot oficiālu atzinumu par zāļu, tajā skaitā arī no cilvēka asinīm un plazmas iegūto zāļu un homeopātisko zāļu, kvalitātes kontroles rezultātiem;
 3) zāļu ražošanas, marķēšanas, reģistrēšanas, kontroles, izplatīšanas, ievešanas un izvešanas kārtību;
 4) zāļu (izņemot veterināro zāļu) cenu veidošanas principus;
 5) zāļu reklamēšanas kārtību;
 6) zāļu klīniskās izpētes veikšanas kārtību, kā arī veterināro zāļu lietošanas izraisīto blakusparādību uzraudzības kārtību;
-7) kārtību, kādā ārstniecības iestādes un sociālās aprūpes institūcijas iegādājas, uzglabā un izlieto zāles;
+7) nosacījumus un kārtību, kādā ārstniecības iestādes un sociālās aprūpes institūcijas iegādājas, uzglabā un izlieto zāles;
 8) minimālā zāļu sortimenta noteikšanas kārtību vispārēja (atvērta) tipa aptiekām;
 9) (izslēgts ar 19.03.1998. likumu);
 10) zāļu klasifikāciju;
@@ -28,4 +28,7 @@
 25) zāļu pieejamības analīzei nepieciešamo zāļu vairumtirdzniecības realizācijas datu izplatīšanas kārtību un apjomu;
 26) aptiekās izplatāmos pārtikas produktus;
 27) zāļu klīnisko pētījumu ētikas komitejas personālsastāvam izvirzāmās prasības un šīs komitejas darbības nosacījumus;
-28) nosacījumus un kārtību kritisko zāļu sarakstā iekļauto resursu rezervju veidošanai, izmantošanai un apritei.
+28) nosacījumus un kārtību kritisko zāļu sarakstā iekļauto resursu rezervju veidošanai, izmantošanai un apritei;
+29) prasības vispārēja tipa aptiekai un stacionārajai ārstniecības iestādei, kura ir atvērusi slēgta tipa aptieku, attiecībā uz informācijas sniegšanu par citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī iegādātām zālēm;
+30) nosacījumus, prasības un kārtību, kādā vispārēja tipa aptieka un stacionārā ārstniecības iestāde, kura ir atvērusi slēgta tipa aptieku, ir tiesīga iegādāties zāles citā Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī;
+31) farmaceitiskās aprūpes veidus un farmaceitiskos pakalpojumus, to sniegšanas gadījumus un prasības un kārtību, kādā farmaceits, klīniskais farmaceits un farmaceita asistents sniedz farmaceitisko aprūpi, prasības farmaceitiskās aprūpes apmācībai, kā arī farmaceitiskās aprūpes sniegšanas kārtības, uzraudzības un kontroles prasības.
