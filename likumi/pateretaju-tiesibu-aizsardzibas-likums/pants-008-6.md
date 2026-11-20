@@ -1,1 +1,6 @@
 8.⁶ pants. Atlikto maksājumu pakalpojuma sniedzēju reģistrācija un darbības uzraudzība
+(1) Atlikto maksājumu pakalpojumu, ko sniedz liels uzņēmums, patērētājam drīkst sniegt Atlikto maksājumu pakalpojuma sniedzēju reģistrā reģistrēts atlikto maksājumu pakalpojuma sniedzējs. Šo prasību nepiemēro atlikto maksājumu pakalpojuma sniedzējam, kurš sniedz tikai šā likuma 8. panta 4.³ daļas 10. punktā minētos atlikto maksājumu pakalpojumus.
+(2) Atlikto maksājumu pakalpojuma sniedzēju reģistru uztur Latvijas Banka.
+(3) Latvijas Banka nosaka prasības atlikto maksājumu pakalpojuma sniedzējiem, kā arī kārtību, kādā atlikto maksājumu pakalpojuma sniedzēji tiek reģistrēti Atlikto maksājumu pakalpojuma sniedzēju reģistrā un izslēgti no tā vai reģistrācija tiek pārtraukta uz laiku, minētajā reģistrā iekļaujamo ziņu apjomu un to aktualizēšanas kārtību, atlikto maksājumu pakalpojuma sniedzēju darbības uzraudzības kārtību, to reģistrēšanai un darbības uzraudzībai iesniedzamo informāciju, tās saturu, apjomu, sniegšanas termiņus, kārtību un formu.
+(4) Atlikto maksājumu pakalpojuma sniedzējs par reģistrācijai iesniegto dokumentu un informācijas izskatīšanu maksā Latvijas Bankai 1500 euro.
+(5) (Daļa stājas spēkā 01.01.2027. un iekļauta likuma redakcijā uz 01.01.2027. Sk. pārejas noteikumu 54. punktu)
