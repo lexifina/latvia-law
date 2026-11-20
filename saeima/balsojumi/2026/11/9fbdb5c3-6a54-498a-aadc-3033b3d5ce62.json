@@ -1,0 +1,40 @@
+{
+ "ieraksta_veids": "Saeimas sēdes balsojums",
+ "saeima": 15,
+ "sesija": "2026.gada rudens sesija",
+ "sede": 7,
+ "datums": "2026-11-20",
+ "ieraksts": {
+  "dkp_id": "bd5b873c-48b6-4786-8037-6930b57a693b",
+  "lastmodtime": "\"AAAAAAKporM=\"",
+  "dk_status": "6",
+  "VOTEISHIDDEN": "0",
+  "VOTEISCANDIDATE": "0",
+  "VOTEWITHSIGNS": "0",
+  "NAME": "Inna#Nellija#Mārtiņš#Leontijs#Edvīns#Aleksejs#Karīna#Andris#Mairita#Regīna#Māris#Jānis#Valdis#Jānis#Jānis#Artūrs#Andris#Ainars#Mārtiņš#Karina#Dana#Jekaterina#Selma Teodora#Inese#Baiba#Jūlija#Vjačeslavs#Jānis#Andrejs#Agnese#Olga#Edmunds#Andris#Artūrs#Maija#Eduards#Jana#Jānis#Andrejs#Liene#Dāvis#Evika#Edgars#Ļubova#Renārs#Aivars#Edmunds#Jūlija#Raivis#Aiva#Ainārs#Gita#Rolands#Pēteris#Dagnis#Juris#Uģis#Andis#Valdis#Andrejs#Ilmārs#Lauris#Māris#Viktorija#Linda#Andrejs#Ināra#Aleksejs#Raimonds#Aleksandrs#Baiba#Guntars#Agnese#Ramona#Inga#Atis#Anete#Natālija#Mārtiņš#Jānis#Juris#Līga#Andrejs#Roberts#Antoņina#Inga#Edvards#Jevgēnija#Rūdolfs",
+  "SURNAME": "Djeri#Kleinberga#Brencis#Morozs#Šnore#Ignatjevs#Miķelsone#Skride#Lūse#Ločmele#Ozoliņš#Urtāns#Kotāns#Džeriņš#Stērninieks#Klēbahs#Šuvajevs#Latkovskis#Hiršs#Sprūde#Šlesere#Ivanova#Levrence#Lībiņa-Egnere#Atmane#Sohina#Stepaņenko#Jenzis#Pagors#Lāce#Petkeviča#Zivtiņš#Sprūds#Butāns#Armaņeva#Zivtiņš#Simanovska#Vitenbergs#Svilāns#Apine#Melnalksnis#Siliņa#Dārznieks#Švecova#Putniņš#Kraps#Jurēvics#Stepaņenko#Kalējs#Vīksna#Šlesers#Plaude#Keišs#Dimants#Straubergs#Viļums#Mitrevics#Caunītis#Kārkliņš#Klementjevs#Luksts#Gruntmanis#Kučinskis#Pleškāne#Matisone#Judins#Mūrniece#Mackevičs#Bergmanis#Bartaševičs#Braže#Vītols#Kupača#Petraviča#Priede#Švinka#Biķe#Ābola#Prīsis#Liepiņš#Lazdiņš#Meņģelsone#Jakovļevs#Žemaitis#Ņenaševa#Bērziņa#Smiltēns#Šafraneka#Brēmanis",
+  "VOTEDEPSUFFIX": "########################################################################################",
+  "FRACTION": "SV/AJ#AS#AS#SV/AJ#NA#SV/AJ#AS#AS#PRO#LPV#AS#AS#AS#AS#AS#SV/AJ#PRO#JV#PRO#SV/AJ#LPV#LPV#PRO#JV#AS#SV/AJ#SV/AJ#AS#SV/AJ#PRO#LPV#LPV#PRO#NA#LPV#LPV#PRO#NA#AS#AS#AS#JV#SV/AJ#SV/AJ#AS#LPV#JV#SV/AJ#AS#AS#LPV#SV/AJ#NA#AS#AS#AS#NA#AS#AS#LPV#AS# #AS#LPV#AS#JV#NA#LPV#AS#LPV#JV#AS#AS#LPV#AS#PRO#AS#SV/AJ#AS# #AS#AS#SV/AJ#LPV#PRO#JV#AS#LPV#SV/AJ",
+  "RESULT": "Nebalsoja#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par#Par",
+  "CANDIDATENAMES": "",
+  "CANDIDATERESULT": "",
+  "VOTESTATUS": "4",
+  "VOTETIMESTAMP": "20.11.2026 11:15:12",
+  "VOTEMOTIVE": "Par Luīzes Utānes 15. Saeimas deputātes pilnvaru apstiprināšanu uz laiku, kamēr no partijas “APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija” kandidātu saraksta Vidzemes vēlēšanu apgabalā ievēlētie ...",
+  "VOTING_ID": "9fbdb5c3-6a54-498a-aadc-3033b3d5ce62",
+  "VOTERESULT_ABSTAIN": "0",
+  "VOTERESULT_AGAINST": "0",
+  "VOTERESULT_FOR": "88",
+  "VOTERESULT_REGISTERED": "89",
+  "VOTE_NUMBER": "3",
+  "VOTE_COMMENT": ""
+ },
+ "avots": {
+  "datu_kopa": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+  "fails": "15.Saeimas 2026.gada rudens sesija-7-vote",
+  "url": "https://data.gov.lv/dati/dataset/4f854a14-8861-449d-bb2a-832113734711/resource/e53ee542-910c-49e2-88e1-51c82e08163e/download/15.saeimas-2026.gada-rudens-sesija-7-vote.xml",
+  "sha256": "6ea3126f98e821f409eec2cd5f62f5ffcdb019ca322acd96a0f3d11fb144d1a6",
+  "licence": "CC0-1.0 (data.gov.lv)",
+  "izdevejs": "Latvijas Republikas Saeima"
+ }
+}
