@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T21:40:04Z",
+ "generated": "2026-11-23T22:08:39Z",
  "latest": {
   "eu-nim|latvia/national/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": null,
    "census": {
     "current": 5827,
@@ -15,11 +15,11 @@
     "repo": 5827,
     "source_in_scope": 5833
    },
-   "check_id": "lv-eu-nim-20261123T213957Z",
+   "check_id": "lv-eu-nim-20261123T220831Z",
    "commits": null,
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T21:40:03Z",
+   "finished": "2026-11-23T22:08:38Z",
    "flags": [],
    "gap": 6,
    "note": "records here as of 2026-11-17 (the EU's record of each measure; its text is on likumi.lv)",
@@ -30,7 +30,7 @@
     "removed": []
    },
    "requests": 1,
-   "runner": "lawwatch latvia (a18f9a5b25)",
+   "runner": "lawwatch latvia (78aeac63f5)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -39,12 +39,12 @@
    },
    "snapshot": "2026-11-20",
    "source": "eu-nim",
-   "started": "2026-11-23T21:39:57Z",
+   "started": "2026-11-23T22:08:31Z",
    "unexplained": 0,
    "verify": null
   },
   "likumi|latvia/national/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": {
     "match_neither": 0,
     "match_new": 5,
@@ -52,38 +52,38 @@
     "method": "the official gazette \"Latvijas Vēstnesis\" (www.vestnesis.lv/ta/id/<id>, the act as officially published; check, update and verify read likumi.lv's consolidated text): a change published this check, every run of words it put in found in the amending law as published (letters and digits); a new law, and a sampled law held in one version, every unit found in its own publication",
     "rows": [
      {
-      "commit": "DKDL: 14 provisions (Saeimas 15.10.2026. likums)",
-      "id": "37188",
+      "commit": "PTAL: 5 provisions (Saeimas 20.08.2026. likums)",
+      "id": "23309",
       "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/372070",
+      "read": "https://www.vestnesis.lv/ta/id/370619",
       "verdict": "match_new"
      },
      {
-      "commit": "FPRL: 10 provisions (Saeimas 22.10.2026. likums)",
-      "id": "296185",
+      "commit": "PTAL: 8.6. pants (Saeimas 17.09.2026. likums)",
+      "id": "23309",
       "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/372068",
+      "read": "https://www.vestnesis.lv/ta/id/371281",
       "verdict": "match_new"
      },
      {
-      "commit": "BāL: 48 provisions (Saeimas 22.10.2026. likums)",
-      "id": "139369",
-      "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/372071",
+      "id": "38722",
+      "published": false,
+      "read": "https://www.vestnesis.lv/ta/id/38722",
+      "units": 9,
       "verdict": "match_new"
      },
      {
-      "commit": "LRAL: 9 provisions (Saeimas 22.10.2026. likums)",
-      "id": "59283",
-      "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/372072",
+      "id": "302986",
+      "published": false,
+      "read": "https://www.vestnesis.lv/ta/id/302986",
+      "units": 10,
       "verdict": "match_new"
      },
      {
-      "commit": "FaL: 12 provisions (Saeimas 22.10.2026. likums)",
-      "id": "43127",
-      "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/372075",
+      "id": "263454",
+      "published": false,
+      "read": "https://www.vestnesis.lv/ta/id/263454",
+      "units": 6,
       "verdict": "match_new"
      }
     ],
@@ -102,43 +102,31 @@
     "out_of_scope": 40,
     "pending": 0,
     "repo": 1753,
-    "repo_read": "2026-11-17",
+    "repo_read": "2026-11-18",
     "source_in_scope": 1759
    },
-   "check_id": "lv-likumi-20261123T212058Z",
+   "check_id": "lv-likumi-20261123T215024Z",
    "commits": {
-    "count": 9,
-    "from": "df1688f892684f1ffd822e58c05e01fbd2a17b52",
-    "to": "e280d36a9c3a3c57e8b6c45f0e7e0e0467e3c4aa"
+    "count": 2,
+    "from": "f3e81c440e511fd45b761ab2289b7b21e52f4d14",
+    "to": "330b9abcaf932f8c34125f7ef1bebc2282586633"
    },
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T21:29:35Z",
-   "flags": [
-    {
-     "detail": "1 of 251 texts differ from the source",
-     "flag": "verify-differ"
-    }
-   ],
+   "finished": "2026-11-23T21:58:47Z",
+   "flags": [],
    "gap": 6,
-   "note": "1753 laws held here in 1754 folders (the Satversme is in satversme/ and likumi/latvijas-republikas-satversme/); the newest version held here is of 2026-11-17, taken as the day this repository last read likumi.lv; 40 laws about one named private person (recognition as a citizen, a property or individual-justice law) are not held here, as no law of that kind is: out of scope, not listed (they name private persons); amending laws compared: 215 in force from 2026-05-27 or later; 42 amending laws of laws held here come into force later",
+   "note": "1753 laws held here in 1754 folders (the Satversme is in satversme/ and likumi/latvijas-republikas-satversme/); the newest version held here is of 2026-11-18, taken as the day this repository last read likumi.lv; 40 laws about one named private person (recognition as a citizen, a property or individual-justice law) are not held here, as no law of that kind is: out of scope, not listed (they name private persons); amending laws compared: 215 in force from 2026-05-27 or later; 42 amending laws of laws held here come into force later",
    "outcome": "changed",
    "published": {
     "added": [],
     "changed": [
-     "139369",
-     "296185",
-     "334345",
-     "356460",
-     "37188",
-     "43127",
-     "59283",
-     "68488"
+     "23309"
     ],
     "removed": []
    },
    "requests": 301,
-   "runner": "lawwatch latvia (7660ea3440)",
+   "runner": "lawwatch latvia (78aeac63f5)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -147,76 +135,61 @@
    },
    "snapshot": "2026-11-11",
    "source": "likumi",
-   "started": "2026-11-23T21:20:58Z",
+   "started": "2026-11-23T21:50:24Z",
    "unexplained": 0,
    "update": {
     "added": 0,
-    "changed": 9,
-    "commits": 9,
+    "changed": 2,
+    "commits": 2,
     "kept": 0,
     "no_new_version": 0,
-    "read": 8
+    "read": 1
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [
-     "23309 (likumi/pateretaju-tiesibu-aizsardzibas-likums): 6 unit(s) differ, e.g. pants-001, pants-003-1, pants-008-1, pants-008-6; likumi.lv shows version 2026-11-20, the newest here is 2026-10-15"
-    ],
+    "examples": [],
     "laws_held": 1753,
     "method": "a rotating sweep, a seventh of the held laws a check: each law's own likumi.lv page (likumi.lv/ta/id/<id>, the version in force today) read with the builder's reader (likumi.py as the runner set it up) against the law's folder at the tip, unit for unit as the runner's own check compares them, spacing aside (the builder's rule: spacing alone is never a change); units the page shows with a note putting them in force after today are not compared",
-    "ok": false,
+    "ok": true,
     "swept": 251,
-    "units_checked": 8662,
+    "units_checked": 9733,
     "unread": 0,
     "versions_checked": 251,
-    "versions_differ": 1
+    "versions_differ": 0
    }
   },
   "saeima-data|latvia/national/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": null,
    "census": {
-    "checked": 400,
-    "current": 2023,
+    "checked": 800,
+    "current": 2031,
     "gone": 0,
-    "held": 2023,
+    "held": 2031,
     "newest_at_source": "15.saeimas-2026.gada-rudens-sesija-8-vote",
-    "newest_in_repo": "15.saeimas-2026.gada-rudens-sesija-4-vote",
+    "newest_in_repo": "15.saeimas-2026.gada-rudens-sesija-8-vote",
     "out_of_scope": 726,
     "pending": 0,
-    "records_as_of": "2026-11-03",
-    "repo": 2023,
+    "records_as_of": "2026-11-20",
+    "repo": 2031,
     "source_in_scope": 2031
    },
-   "check_id": "lv-saeima-data-20261123T212935Z",
-   "commits": {
-    "count": 50,
-    "from": "e280d36a9c3a3c57e8b6c45f0e7e0e0467e3c4aa",
-    "to": "ff951f3370a1e038ee49ef6bf578a038a514eb78"
-   },
+   "check_id": "lv-saeima-data-20261123T215847Z",
+   "commits": null,
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T21:39:57Z",
+   "finished": "2026-11-23T22:08:30Z",
    "flags": [],
    "gap": 0,
-   "note": "the dataset lists 2757 files; 724 hold no record (an empty sitting file: no votes, agenda or debate; 0 read this check to see it) and are not counted; files here as of the newest read, created 2026-11-03; 2 files are listed twice (the same name and hash as a file held here): the copy is not counted",
-   "outcome": "changed",
+   "note": "the dataset lists 2757 files; 724 hold no record (an empty sitting file: no votes, agenda or debate; 0 read this check to see it) and are not counted; files here as of the newest read, created 2026-11-20; 2 files are listed twice (the same name and hash as a file held here): the copy is not counted",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "15.saeimas-2026.gada-rudens-sesija-3-dkp",
-     "15.saeimas-2026.gada-rudens-sesija-5-deb",
-     "15.saeimas-2026.gada-rudens-sesija-5-dkp",
-     "15.saeimas-2026.gada-rudens-sesija-5-vote",
-     "15.saeimas-2026.gada-rudens-sesija-7-dkp",
-     "15.saeimas-2026.gada-rudens-sesija-7-vote",
-     "15.saeimas-2026.gada-rudens-sesija-8-dkp",
-     "15.saeimas-2026.gada-rudens-sesija-8-vote"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 413,
-   "runner": "lawwatch latvia (7660ea3440)",
+   "requests": 401,
+   "runner": "lawwatch latvia (78aeac63f5)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -225,26 +198,26 @@
    },
    "snapshot": "2026-11-21",
    "source": "saeima-data",
-   "started": "2026-11-23T21:29:35Z",
+   "started": "2026-11-23T21:58:47Z",
    "unexplained": 0,
    "update": {
-    "commits": 50,
+    "commits": 0,
     "failed": 0,
-    "files_pending": 8,
+    "files_pending": 0,
     "late": 0,
-    "records": 50,
-    "sittings": 4
+    "records": 0,
+    "sittings": 0
    },
    "verify": {
     "cycle_days": 7,
     "examples": [],
     "files_held": 2031,
     "method": "every file the records here name, against the dataset: a file read once and confirmed when its bytes hash to the SHA-256 its records carry (Source-SHA256), then compared each check by the MD5 data.gov.lv lists for it (CKAN hash), with no download; at most 400 files read a check",
-    "not_confirmed_yet": 1631,
+    "not_confirmed_yet": 1231,
     "ok": true,
     "read_this_check": 400,
     "unread": 0,
-    "versions_checked": 400,
+    "versions_checked": 800,
     "versions_differ": 0
    }
   }
