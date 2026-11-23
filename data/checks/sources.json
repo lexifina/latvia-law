@@ -1,0 +1,108 @@
+{
+ "sources": [
+  {
+   "id": "likumi",
+   "kind": "legislation",
+   "name": {
+    "en": "likumi.lv (Latvijas Vēstnesis): consolidated laws",
+    "lv": "likumi.lv (\"Latvijas Vēstnesis\"): konsolidētie likumi"
+   },
+   "url": "https://likumi.lv/ta/veids/saeima/likumi",
+   "reads": {
+    "en": "the list of every law in force or not yet in force (the list behind likumi.lv's page of laws, 50 a request), and the newest part of the same list with amending laws, by in-force day (180 days back and every one in force later)",
+    "lv": "visu spēkā esošo un vēl spēkā nestājušos likumu saraksts (saraksts, no kura veidota likumi.lv likumu lapa, 50 vienā pieprasījumā), un tā paša saraksta jaunākā daļa ar grozījumu likumiem pēc spēkā stāšanās dienas (180 dienas atpakaļ un visi, kas stāsies spēkā vēlāk)"
+   },
+   "folders": [
+    "likumi/",
+    "satversme/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "latvia/national/acts"
+   ],
+   "interval": 1.5,
+   "note": {
+    "en": "likumi.lv has no open data, API or ELI list, and robots.txt closes its RSS feeds; lists only, no texts. This repository read the texts on likumi.lv (earlier through Internet Archive captures, see REPRODUCE.md)",
+    "lv": "likumi.lv nav atvērto datu, API vai ELI saraksta, un robots.txt slēdz tā RSS plūsmas; tikai saraksti, ne teksti. Šis repozitorijs tekstus lasīja likumi.lv (agrāk ar Internet Archive kopijām, sk. REPRODUCE.md)"
+   }
+  },
+  {
+   "id": "saeima-data",
+   "kind": "legislation",
+   "name": {
+    "en": "data.gov.lv: the Saeima's sittings (votes, agendas, debates)",
+    "lv": "data.gov.lv: Saeimas sēdes (balsojumi, darba kārtības, debates)"
+   },
+   "url": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
+   "reads": {
+    "en": "the list of the dataset's files (the portal's CKAN API, one request): each sitting's votes, agenda and debates, with size, hash and the day each last changed",
+    "lv": "datu kopas failu saraksts (portāla CKAN API, viens pieprasījums): katras sēdes balsojumi, darba kārtība un debates ar izmēru, kontrolsummu un pēdējo izmaiņu dienu"
+   },
+   "folders": [
+    "saeima/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "latvia/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "parliamentary records, not law text; CC0",
+    "lv": "parlamenta ieraksti, nevis tiesību aktu teksts; CC0"
+   }
+  },
+  {
+   "id": "eu-nim",
+   "kind": "legislation",
+   "name": {
+    "en": "EU Publications Office (Latvia's measures transposing EU directives)",
+    "lv": "ES Publikāciju birojs (Latvijas pasākumi ES direktīvu pārņemšanai)"
+   },
+   "url": "https://publications.europa.eu/webapi/rdf/sparql",
+   "reads": {
+    "en": "every national implementing measure Latvia notified, with its notification day and the day the record last changed (one SPARQL query)",
+    "lv": "visi Latvijas paziņotie valsts īstenošanas pasākumi ar paziņošanas dienu un ieraksta pēdējo izmaiņu dienu (viens SPARQL vaicājums)"
+   },
+   "folders": [
+    "eu-nim/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "latvia/national/acts"
+   ],
+   "interval": 1.0,
+   "note": {
+    "en": "records of the measures only; their texts are on likumi.lv",
+    "lv": "tikai pasākumu ieraksti; to teksti ir likumi.lv"
+   }
+  },
+  {
+   "id": "vestnesis",
+   "kind": "legislation",
+   "name": {
+    "en": "Latvijas Vēstnesis, the official gazette (normative acts 1993-1998)",
+    "lv": "\"Latvijas Vēstnesis\", oficiālais izdevums (normatīvie akti 1993-1998)"
+   },
+   "url": "https://www.vestnesis.lv",
+   "reads": {
+    "en": "—",
+    "lv": "—"
+   },
+   "folders": [
+    "vestnesis/"
+   ],
+   "schedule": "none",
+   "state": "closed",
+   "corpora": [
+    "latvia/national/acts"
+   ],
+   "note": {
+    "en": "the normative acts published 1993-1998, a finished set: past issues do not change; new laws' publication is followed through likumi.lv (same publisher)",
+    "lv": "1993.-1998. gadā publicētie normatīvie akti, noslēgts kopums: pagātnes laidieni nemainās; jaunu likumu publikāciju seko caur likumi.lv (tas pats izdevējs)"
+   }
+  }
+ ]
+}

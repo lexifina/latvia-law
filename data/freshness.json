@@ -1,0 +1,39 @@
+{
+ "schema": "lexifina-trail-freshness/1",
+ "as_of": "2026-11-23",
+ "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
+ "checked_against_official_source": "2026-11-23",
+ "totals": {
+  "acts": 9603,
+  "by_status": {
+   "current": 9595,
+   "pending-change": 8,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  }
+ },
+ "sources": [
+  {
+   "source": "likumi",
+   "name": "likumi.lv (Latvijas Vēstnesis): consolidated laws",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "saeima-data",
+   "name": "data.gov.lv: the Saeima's sittings (votes, agendas, debates)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  },
+  {
+   "source": "eu-nim",
+   "name": "EU Publications Office (Latvia's measures transposing EU directives)",
+   "state": "available",
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
+  }
+ ]
+}
