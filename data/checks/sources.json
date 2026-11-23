@@ -9,8 +9,8 @@
    },
    "url": "https://likumi.lv/ta/veids/saeima/likumi",
    "reads": {
-    "en": "the list of every law in force or not yet in force (the list behind likumi.lv's page of laws, 50 a request), and the newest part of the same list with amending laws, by in-force day (180 days back and every one in force later)",
-    "lv": "visu spēkā esošo un vēl spēkā nestājušos likumu saraksts (saraksts, no kura veidota likumi.lv likumu lapa, 50 vienā pieprasījumā), un tā paša saraksta jaunākā daļa ar grozījumu likumiem pēc spēkā stāšanās dienas (180 dienas atpakaļ un visi, kas stāsies spēkā vēlāk)"
+    "en": "the list of every law in force or not yet in force (the list behind likumi.lv's page of laws, 50 a request), and the newest part of the same list with amending laws, by in-force day (180 days back and every one in force later); the own page of each new or changed law (the version in force today), and of a seventh of the laws held here each day (verify); the official publication of each amending law on www.vestnesis.lv (its title and days; the audit)",
+    "lv": "visu spēkā esošo un vēl spēkā nestājušos likumu saraksts (saraksts, no kura veidota likumi.lv likumu lapa, 50 vienā pieprasījumā), un tā paša saraksta jaunākā daļa ar grozījumu likumiem pēc spēkā stāšanās dienas (180 dienas atpakaļ un visi, kas stāsies spēkā vēlāk); katra jaunā vai grozītā likuma lapa (šodien spēkā esošā redakcija) un katru dienu septītās daļas šeit esošo likumu lapas (pārbaude); katra grozījumu likuma oficiālā publikācija www.vestnesis.lv (nosaukums un datumi; otrā pārbaude)"
    },
    "folders": [
     "likumi/",
@@ -22,6 +22,10 @@
     "latvia/national/acts"
    ],
    "interval": 1.5,
+   "allow": [
+    "likumi/",
+    "satversme/"
+   ],
    "note": {
     "en": "likumi.lv has no open data, API or ELI list, and robots.txt closes its RSS feeds; lists only, no texts. This repository read the texts on likumi.lv (earlier through Internet Archive captures, see REPRODUCE.md)",
     "lv": "likumi.lv nav atvērto datu, API vai ELI saraksta, un robots.txt slēdz tā RSS plūsmas; tikai saraksti, ne teksti. Šis repozitorijs tekstus lasīja likumi.lv (agrāk ar Internet Archive kopijām, sk. REPRODUCE.md)"
@@ -36,8 +40,8 @@
    },
    "url": "https://data.gov.lv/dati/lv/dataset/saeimas-sedes",
    "reads": {
-    "en": "the list of the dataset's files (the portal's CKAN API, one request): each sitting's votes, agenda and debates, with size, hash and the day each last changed",
-    "lv": "datu kopas failu saraksts (portāla CKAN API, viens pieprasījums): katras sēdes balsojumi, darba kārtība un debates ar izmēru, kontrolsummu un pēdējo izmaiņu dienu"
+    "en": "the list of the dataset's files (the portal's CKAN API, one request): each sitting's votes, agenda and debates, with size, hash and the day each last changed; the three files of each sitting with a new file, and up to 400 held files a check, each read once to confirm the bytes its records came from",
+    "lv": "datu kopas failu saraksts (portāla CKAN API, viens pieprasījums): katras sēdes balsojumi, darba kārtība un debates ar izmēru, kontrolsummu un pēdējo izmaiņu dienu; katras sēdes, kurai ir jauns fails, trīs faili un līdz 400 šeit esošiem failiem vienā pārbaudē, katrs vienreiz, lai apstiprinātu saturu, no kura veidoti ieraksti"
    },
    "folders": [
     "saeima/"
@@ -48,6 +52,9 @@
     "latvia/national/acts"
    ],
    "interval": 1.0,
+   "allow": [
+    "saeima/"
+   ],
    "note": {
     "en": "parliamentary records, not law text; CC0",
     "lv": "parlamenta ieraksti, nevis tiesību aktu teksts; CC0"
