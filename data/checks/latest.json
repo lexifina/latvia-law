@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T22:08:39Z",
+ "generated": "2026-11-24T05:26:18Z",
  "latest": {
   "eu-nim|latvia/national/acts": {
-   "attempt": 3,
+   "attempt": 1,
    "audit": null,
    "census": {
     "current": 5827,
@@ -15,11 +15,11 @@
     "repo": 5827,
     "source_in_scope": 5833
    },
-   "check_id": "lv-eu-nim-20261123T220831Z",
+   "check_id": "lv-eu-nim-20261124T052611Z",
    "commits": null,
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T22:08:38Z",
+   "finished": "2026-11-24T05:26:17Z",
    "flags": [],
    "gap": 6,
    "note": "records here as of 2026-11-17 (the EU's record of each measure; its text is on likumi.lv)",
@@ -39,12 +39,12 @@
    },
    "snapshot": "2026-11-20",
    "source": "eu-nim",
-   "started": "2026-11-23T22:08:31Z",
+   "started": "2026-11-24T05:26:11Z",
    "unexplained": 0,
    "verify": null
   },
   "likumi|latvia/national/acts": {
-   "attempt": 3,
+   "attempt": 1,
    "audit": {
     "match_neither": 0,
     "match_new": 5,
@@ -52,38 +52,38 @@
     "method": "the official gazette \"Latvijas Vēstnesis\" (www.vestnesis.lv/ta/id/<id>, the act as officially published; check, update and verify read likumi.lv's consolidated text): a change published this check, every run of words it put in found in the amending law as published (letters and digits); a new law, and a sampled law held in one version, every unit found in its own publication",
     "rows": [
      {
-      "commit": "PTAL: 5 provisions (Saeimas 20.08.2026. likums)",
-      "id": "23309",
-      "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/370619",
-      "verdict": "match_new"
-     },
-     {
-      "commit": "PTAL: 8.6. pants (Saeimas 17.09.2026. likums)",
-      "id": "23309",
-      "published": true,
-      "read": "https://www.vestnesis.lv/ta/id/371281",
-      "verdict": "match_new"
-     },
-     {
-      "id": "38722",
+      "id": "66617",
       "published": false,
-      "read": "https://www.vestnesis.lv/ta/id/38722",
-      "units": 9,
+      "read": "https://www.vestnesis.lv/ta/id/66617",
+      "units": 8,
       "verdict": "match_new"
      },
      {
-      "id": "302986",
+      "id": "11927",
       "published": false,
-      "read": "https://www.vestnesis.lv/ta/id/302986",
+      "read": "https://www.vestnesis.lv/ta/id/11927",
       "units": 10,
       "verdict": "match_new"
      },
      {
-      "id": "263454",
+      "id": "42961",
       "published": false,
-      "read": "https://www.vestnesis.lv/ta/id/263454",
+      "read": "https://www.vestnesis.lv/ta/id/42961",
       "units": 6,
+      "verdict": "match_new"
+     },
+     {
+      "id": "355468",
+      "published": false,
+      "read": "https://www.vestnesis.lv/ta/id/355468",
+      "units": 12,
+      "verdict": "match_new"
+     },
+     {
+      "id": "57684",
+      "published": false,
+      "read": "https://www.vestnesis.lv/ta/id/57684",
+      "units": 8,
       "verdict": "match_new"
      }
     ],
@@ -102,30 +102,29 @@
     "out_of_scope": 40,
     "pending": 0,
     "repo": 1753,
-    "repo_read": "2026-11-18",
+    "repo_read": "2026-11-20",
     "source_in_scope": 1759
    },
-   "check_id": "lv-likumi-20261123T215024Z",
-   "commits": {
-    "count": 2,
-    "from": "f3e81c440e511fd45b761ab2289b7b21e52f4d14",
-    "to": "330b9abcaf932f8c34125f7ef1bebc2282586633"
-   },
+   "check_id": "lv-likumi-20261124T050902Z",
+   "commits": null,
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T21:58:47Z",
-   "flags": [],
+   "finished": "2026-11-24T05:16:57Z",
+   "flags": [
+    {
+     "detail": "1 of 251 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
    "gap": 6,
-   "note": "1753 laws held here in 1754 folders (the Satversme is in satversme/ and likumi/latvijas-republikas-satversme/); the newest version held here is of 2026-11-18, taken as the day this repository last read likumi.lv; 40 laws about one named private person (recognition as a citizen, a property or individual-justice law) are not held here, as no law of that kind is: out of scope, not listed (they name private persons); amending laws compared: 215 in force from 2026-05-27 or later; 42 amending laws of laws held here come into force later",
-   "outcome": "changed",
+   "note": "1753 laws held here in 1754 folders (the Satversme is in satversme/ and likumi/latvijas-republikas-satversme/); the newest version held here is of 2026-11-20, taken as the day this repository last read likumi.lv; 40 laws about one named private person (recognition as a citizen, a property or individual-justice law) are not held here, as no law of that kind is: out of scope, not listed (they name private persons); amending laws compared: 215 in force from 2026-05-28 or later; 42 amending laws of laws held here come into force later",
+   "outcome": "no-change",
    "published": {
     "added": [],
-    "changed": [
-     "23309"
-    ],
+    "changed": [],
     "removed": []
    },
-   "requests": 301,
+   "requests": 298,
    "runner": "lawwatch latvia (78aeac63f5)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -135,34 +134,36 @@
    },
    "snapshot": "2026-11-11",
    "source": "likumi",
-   "started": "2026-11-23T21:50:24Z",
+   "started": "2026-11-24T05:09:02Z",
    "unexplained": 0,
    "update": {
     "added": 0,
-    "changed": 2,
-    "commits": 2,
+    "changed": 0,
+    "commits": 0,
     "kept": 0,
     "no_new_version": 0,
-    "read": 1
+    "read": 0
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [],
+    "examples": [
+     "81066 (likumi/par-akcizes-nodokli): 1 unit(s) differ, e.g. zz-pienemts; the same version (2026-01-01)"
+    ],
     "laws_held": 1753,
     "method": "a rotating sweep, a seventh of the held laws a check: each law's own likumi.lv page (likumi.lv/ta/id/<id>, the version in force today) read with the builder's reader (likumi.py as the runner set it up) against the law's folder at the tip, unit for unit as the runner's own check compares them, spacing aside (the builder's rule: spacing alone is never a change); units the page shows with a note putting them in force after today are not compared",
-    "ok": true,
+    "ok": false,
     "swept": 251,
-    "units_checked": 9733,
+    "units_checked": 8681,
     "unread": 0,
     "versions_checked": 251,
-    "versions_differ": 0
+    "versions_differ": 1
    }
   },
   "saeima-data|latvia/national/acts": {
-   "attempt": 3,
+   "attempt": 1,
    "audit": null,
    "census": {
-    "checked": 800,
+    "checked": 1200,
     "current": 2031,
     "gone": 0,
     "held": 2031,
@@ -174,11 +175,11 @@
     "repo": 2031,
     "source_in_scope": 2031
    },
-   "check_id": "lv-saeima-data-20261123T215847Z",
+   "check_id": "lv-saeima-data-20261124T051657Z",
    "commits": null,
    "corpus": "latvia/national/acts",
    "error": null,
-   "finished": "2026-11-23T22:08:30Z",
+   "finished": "2026-11-24T05:26:11Z",
    "flags": [],
    "gap": 0,
    "note": "the dataset lists 2757 files; 724 hold no record (an empty sitting file: no votes, agenda or debate; 0 read this check to see it) and are not counted; files here as of the newest read, created 2026-11-20; 2 files are listed twice (the same name and hash as a file held here): the copy is not counted",
@@ -198,7 +199,7 @@
    },
    "snapshot": "2026-11-21",
    "source": "saeima-data",
-   "started": "2026-11-23T21:58:47Z",
+   "started": "2026-11-24T05:16:57Z",
    "unexplained": 0,
    "update": {
     "commits": 0,
@@ -213,11 +214,11 @@
     "examples": [],
     "files_held": 2031,
     "method": "every file the records here name, against the dataset: a file read once and confirmed when its bytes hash to the SHA-256 its records carry (Source-SHA256), then compared each check by the MD5 data.gov.lv lists for it (CKAN hash), with no download; at most 400 files read a check",
-    "not_confirmed_yet": 1231,
+    "not_confirmed_yet": 831,
     "ok": true,
     "read_this_check": 400,
     "unread": 0,
-    "versions_checked": 800,
+    "versions_checked": 1200,
     "versions_differ": 0
    }
   }
