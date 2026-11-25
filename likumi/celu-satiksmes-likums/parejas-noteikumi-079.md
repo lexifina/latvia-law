@@ -1,0 +1,1 @@
+79. Grozījums šā likuma 16. panta 2.¹ daļā par tās papildināšanu pēc vārdiem "transportlīdzekļu un to vadītāju valsts reģistrā" ar vārdiem "vai traktortehnikas un tās vadītāju valsts informatīvajā sistēmā" stājas spēkā 2027. gada 1. janvārī.
