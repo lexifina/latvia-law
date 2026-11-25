@@ -11,5 +11,6 @@ Par slepkavību, ja:
 9) tā izdarīta mantkārīgā nolūkā;
 10) to izdarījusi personu grupa;
 11) to izdarījusi persona, kas ievietota īslaicīgās aizturēšanas vai ieslodzījuma vietā;
-12) noslepkavots nepilngadīgais,-
+12) noslepkavots nepilngadīgais;
+13) tā izdarīta rasistisku, nacionālu, etnisku vai reliģisku motīvu vai sociālā naida, tai skaitā dzimuma, dēļ, -
 soda ar mūža ieslodzījumu vai ar brīvības atņemšanu uz laiku no desmit līdz divdesmit gadiem un ar probācijas uzraudzību uz laiku līdz trim gadiem, konfiscējot mantu vai bez mantas konfiskācijas.

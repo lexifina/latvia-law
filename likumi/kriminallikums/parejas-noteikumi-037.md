@@ -1,0 +1,1 @@
+37. Grozījums šā likuma 193. panta otrajā daļā par vārda "nelikumīgu" aizstāšanu ar vārdu "ļaunprātīgu" neattiecas uz personām, kuras līdz šā grozījuma spēkā stāšanās dienai ir notiesātas vai kurām sods noteikts ar prokurora priekšrakstu atbilstoši Krimināllikuma 193. panta otrajai daļai.
