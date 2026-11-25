@@ -1,0 +1,1 @@
+14. Valsts aizsardzības dienesta karavīri, kas dienestu uzsāk līdz 2027. gada 31. jūlijam, īsteno šā likuma 32. pantā paredzētās tiesības atbilstoši attiecīgā panta 2024. gada 14. novembra redakcijai.

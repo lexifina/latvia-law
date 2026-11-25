@@ -1,0 +1,1 @@
+12. Ministru kabinets līdz 2027. gada 1. jūnijam izdod šā likuma 28. pantā minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2023. gada 4. jūlija noteikumi Nr. 375 "Par valsts aizsardzības dienestā izmaksājamo kompensāciju un pabalsta apmēru un izmaksas kārtību".

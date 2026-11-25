@@ -5,11 +5,12 @@
 3) pilsonis, kuram saskaņā ar likumu vai tiesas nolēmumu ir pienākums rūpēties par savu laulāto vai vecākiem, ja viņš ir vienīgais aprūpētājs;
 4) pilsonis, kuram ir arī kādas citas Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts, Austrālijas Savienības, Brazīlijas Federatīvās Republikas, Jaunzēlandes vai Ukrainas pilsonība (pavalstniecība), ja viņš ir dienējis ārvalstu militārajā dienestā vai ir pildījis ārvalstīs valsts aizsardzības civilo dienestu (alternatīvo dienestu), izņemot gadījumu, kad viņš valsts aizsardzības dienestam piesakās brīvprātīgi;
 4¹) pilsonis, kuram ir arī kādas citas valsts, kas nav Eiropas Savienības dalībvalsts, Eiropas Brīvās tirdzniecības asociācijas dalībvalsts, Ziemeļatlantijas līguma organizācijas dalībvalsts, Austrālijas Savienība, Brazīlijas Federatīvā Republika, Jaunzēlande vai Ukraina, pilsonība (pavalstniecība);
-5) Pulkveža Oskara Kalpaka profesionālās vidusskolas absolvents;
+5) aizsardzības ministra pakļautībā esošas profesionālās vidusskolas absolvents;
 6) pilsonis, kurš profesionālajā dienestā nepārtraukti nodienējis ne mazāk kā 11 mēnešus;
 7) Latvijas Republikas Iekšlietu ministrijas sistēmas iestāžu un Ieslodzījuma vietu pārvaldes amatpersona ar speciālo dienesta pakāpi, kura minētajās iestādēs nepārtraukti nodienējusi ne mazāk kā divus gadus;
 8) pilsonis, kurš ir sodīts par smagu vai sevišķi smagu noziegumu, - neatkarīgi no sodāmības dzēšanas vai noņemšanas;
 9) pilsonis, kurš par šīs daļas 8. punktā minētu noziedzīgu nodarījumu notiesāts, atbrīvojot no soda, vai kriminālprocess pret viņu izbeigts uz nereabilitējoša pamata;
 10) pilsonis, ja viņš ir bērna, kuram noteikta invaliditāte, vecāks, aizbildnis vai audžuvecāks;
-11) pilsonis, par kuru ir saņemts Militārās izlūkošanas un drošības dienesta atzinums par tā iesaukšanas neatbilstību nacionālās drošības interesēm.
+11) pilsonis, kura pieņemšana, uzņemšana, iesaukšana vai atrašanās dienestā vai amatā Nacionālajos bruņotajos spēkos neatbilst nacionālās drošības interesēm saskaņā ar Militārās izlūkošanas un drošības dienesta atzinumu, un kopš šā atzinuma sniegšanas ir pagājuši mazāk nekā pieci gadi. Atzinums tiek pieprasīts atkārtoti, ja ir pagājuši pieci gadi kopš negatīva atzinuma sniegšanas vai viens gads kopš pozitīva atzinuma sniegšanas;
+12) zemessargs, kurš norīkots dienesta uzdevumu izpildei starptautiskajā operācijā.
 (2) Šā panta pirmajā daļā minētos pilsoņus noņem no valsts aizsardzības dienesta uzskaites.

@@ -1,0 +1,1 @@
+9. Valsts aizsardzības dienesta karavīri, kas uzsākuši dienestu augstskolu un koledžu studentiem paredzētajā rezerves virsnieka programmā līdz brīdim, kad stājas spēkā grozījums šā likuma 3. panta pirmajā daļā, ar kuru izslēgts tās 3. punkts, pabeidz dienestu minētajā programmā.

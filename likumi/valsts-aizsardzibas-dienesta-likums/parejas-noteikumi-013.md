@@ -1,0 +1,1 @@
+13. Valsts aizsardzības dienesta karavīriem, kas dienestu uzsāk līdz 2027. gada 31. jūlijam, ir tiesības saņemt dienesta pienākumu izpildes kompensāciju palielinātā apmērā arī gadījumos, kad nav izpildīti Ministru kabineta noteikumos paredzētie palielinātās kompensācijas piešķiršanas nosacījumi.
