@@ -8,4 +8,4 @@ a) to rīcībā vai glabāšanā ir valsts vai pašvaldības līdzekļi,
 b) tās tiek finansētas no valsts vai pašvaldības līdzekļiem vai to garantētiem līdzekļiem,
 c) tās pilda valsts vai pašvaldību iepirkumu;
 5) Eiropas Savienības un citu starptautisko organizāciju vai institūciju piešķirto un valsts budžetā vai pašvaldību budžetos iekļauto līdzekļu lietotāji.
-(2) Valsts kontrole neveic revīziju Saeimā.
+(2) Valsts kontrole attiecībā uz Saeimu ir tiesīga veikt revīziju par Saeimas sagatavotā gada pārskata pareizību.
