@@ -8,21 +8,21 @@ Kā global-law mēra katras valsts aktualitāti: [global-law FRESHNESS.md](https
 
 ### likumi.lv ("Latvijas Vēstnesis"): konsolidētie likumi · `latvia/national/acts`
 
-- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-24 05:16 UTC**.
+- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-25 05:10 UTC**.
 - Šeit esošie akti: 1 753; aktuāli avotā: 1 753; avotā grozīti kopš šeit esošās redakcijas: 0; avotā vairs nav: 0.
 - Šajā nolasīšanā salīdzināti ar avotu: 251 no 1 753 šeit esošajiem aktiem; pārējie šajā nolasīšanā netika salīdzināti (sk. pārbaudes piezīmi).
-- Nepublicēti: 6 (stāsies spēkā vēlāk: 6); bez iemesla: 0.
+- Nepublicēti: 7 (stāsies spēkā vēlāk: 6, aizturēts pārbaudē: 1); bez iemesla: 0.
 
 ### data.gov.lv: Saeimas sēdes (balsojumi, darba kārtības, debates) · `latvia/national/acts`
 
-- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-24 05:26 UTC**.
+- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-25 05:19 UTC**.
 - Šeit esošie akti: 2 031; aktuāli avotā: 2 031; avotā grozīti kopš šeit esošās redakcijas: 0; avotā vairs nav: 0.
-- Šajā nolasīšanā salīdzināti ar avotu: 1 200 no 2 031 šeit esošajiem aktiem; pārējie šajā nolasīšanā netika salīdzināti (sk. pārbaudes piezīmi).
+- Šajā nolasīšanā salīdzināti ar avotu: 1 600 no 2 031 šeit esošajiem aktiem; pārējie šajā nolasīšanā netika salīdzināti (sk. pārbaudes piezīmi).
 - Nepublicēti: 0 (—); bez iemesla: 0.
 
 ### ES Publikāciju birojs (Latvijas pasākumi ES direktīvu pārņemšanai) · `latvia/national/acts`
 
-- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-24 05:26 UTC**.
+- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-25 05:19 UTC**.
 - Šeit esošie akti: 5 827; aktuāli avotā: 5 827; avotā grozīti kopš šeit esošās redakcijas: 0; avotā vairs nav: 0.
 - Nepublicēti: 6 (aizturēts pārbaudē: 3, jauns avotā, šeit vēl nav publicēts: 3); bez iemesla: 0.
 

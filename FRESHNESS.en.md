@@ -8,21 +8,21 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### likumi.lv (Latvijas Vēstnesis): consolidated laws · `latvia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:16 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:10 UTC**.
 - Acts held here: 1 753; current at the source: 1 753; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 251 of the 1 753 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 6 (in force later: 6); with no reason: 0.
+- Not published: 7 (in force later: 6, held by a check: 1); with no reason: 0.
 
 ### data.gov.lv: the Saeima's sittings (votes, agendas, debates) · `latvia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:26 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:19 UTC**.
 - Acts held here: 2 031; current at the source: 2 031; changed at the source since the version held here: 0; no longer at the source: 0.
-- Compared with the source in this read: 1 200 of the 2 031 acts held here; the others were not compared in this read (see the check's note).
+- Compared with the source in this read: 1 600 of the 2 031 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 0 (—); with no reason: 0.
 
 ### EU Publications Office (Latvia's measures transposing EU directives) · `latvia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 05:26 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-25 05:19 UTC**.
 - Acts held here: 5 827; current at the source: 5 827; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 6 (held by a check: 3, new at the source, not published here yet: 3); with no reason: 0.
 
