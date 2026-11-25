@@ -1,0 +1,2 @@
+21.⁹ pants. Informēšanas pienākums
+Pirms tam, kad patērētājam tiek nodrošināts tiesiskās aizsardzības līdzeklis saskaņā ar šā likuma 28. pantu attiecībā uz līguma noteikumiem neatbilstošu preci, patērētājs tiek informēts par tā tiesībām izvēlēties preces remontu vai nomaiņu, kā arī par šā likuma 28. panta 2.¹ daļā minēto atbilstības laikposma pagarināšanu par vienu kalendāra gadu preces remonta izvēles gadījumā.

@@ -7,7 +7,7 @@
 5) ir derīga mērķiem, kādiem šāda veida preces parasti tiek izmantotas, attiecīgajā gadījumā ņemot vērā spēkā esošos normatīvos aktus, standartus vai, ja tādu nav, piemērojamos attiecīgo nozaru labās prakses kodeksus;
 6) attiecīgajā gadījumā pirms līguma noslēgšanas atbilst pārdevēja vai pakalpojuma sniedzēja sniegtajam preces parauga aprakstam un kvalitātei;
 7) ir piegādāta ar tādiem piederumiem, iepakojumu un pamācībām, kādas patērētājs var pamatoti gaidīt;
-8) ir norādītajā daudzumā un tai piemīt īpašības un izpildījums, tai skaitā attiecībā uz ilgizturību, funkcionalitāti, saderību un drošību, kāds parasti piemīt tāda paša veida precēm un kādu patērētājs var pamatoti gaidīt, ņemot vērā preces raksturu un jebkurus, īpaši reklāmā vai preces marķējumā sniegtus, pārdevēja, pakalpojuma sniedzēja vai citu piegādes ķēdē iesaistīto saimnieciskās darbības veicēju publiskos paziņojumus.
+8) ir norādītajā daudzumā un tai piemīt īpašības un izpildījums, tai skaitā attiecībā uz ilgizturību, remontējamību, funkcionalitāti, saderību un drošību, kāds parasti piemīt tāda paša veida precēm un kādu patērētājs var pamatoti gaidīt, ņemot vērā preces raksturu un jebkurus, īpaši reklāmā vai preces marķējumā sniegtus, pārdevēja, pakalpojuma sniedzēja vai citu piegādes ķēdē iesaistīto saimnieciskās darbības veicēju publiskos paziņojumus.
 (2) Šā panta pirmās daļas 8. punktā minētie publiskie paziņojumi nav saistoši pārdevējam vai pakalpojuma sniedzējam, ja tas pierāda, ka:
 1) nav zinājis un pamatoti nav varējis zināt par sniegtajiem paziņojumiem;
 2) līdz līguma noslēgšanas brīdim paziņojums ticis labots ar tāda paša vai līdzvērtīga veida paziņojumu;

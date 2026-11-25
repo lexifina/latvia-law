@@ -5,12 +5,14 @@
 3) attiecīgi samazina preces cenu;
 4) atceļ līgumu un atmaksā patērētājam par preci samaksāto naudas summu.
 (2) Vispirms patērētājs ir tiesīgs izvēlēties, lai pārdevējs vai pakalpojuma sniedzējs bez atlīdzības novērš preces neatbilstību līguma noteikumiem vai bez atlīdzības apmaina preci pret tādu, ar kuru būtu nodrošināta atbilstība līguma noteikumiem, izņemot gadījumu, kad tas nav iespējams vai ir nesamērīgi.
+(2¹) Ja saskaņā ar šā panta pirmo un otro daļu tiek veikts remonts, lai nodrošinātu preces atbilstību līguma noteikumiem, atbilstības laikposmu pagarina vienu reizi par vienu gadu.
 (3) Preces neatbilstības novēršana vai apmaiņa uzskatāma par nesamērīgu, ja tā rada pārdevējam vai pakalpojuma sniedzējam izmaksas, kas nav samērīgas ar citu šā panta otrajā daļā minēto alternatīvo līdzekli, ņemot vērā:
 1) preces vērtību bez neatbilstības;
 2) neatbilstības nozīmību;
 3) to, vai alternatīvā līdzekļa izmantošana nerada patērētājam būtiskas neērtības.
 (3¹) Pārdevējs vai pakalpojuma sniedzējs var atteikties novērst preces neatbilstību līguma noteikumiem vai veikt preces apmaiņu, ja tas nav iespējams vai radītu pārdevējam vai pakalpojuma sniedzējam izmaksas, kas nav samērīgas, ņemot vērā preces vērtību bez neatbilstības un neatbilstības nozīmību.
 (4) Prece apmaināma vai tās neatbilstība līguma noteikumiem novēršama bez atlīdzības (tajā skaitā bez preces nosūtīšanas, darba, materiālu un citu izmaksu atlīdzināšanas) un saprātīgā termiņā, neradot neērtības patērētājam un ņemot vērā preces raksturu, kā arī paredzamo tās lietošanas nolūku. Patērētāja pienākums ir nodot preci pārdevējam vai pakalpojuma sniedzējam neatbilstību novēršanai vai apmaiņai.
+(4¹) Remontu veic bez maksas un saprātīgā laikposmā no brīža, kad patērētājam kļūst saistošs līgums par remonta pakalpojumu sniegšanu, un neradot būtiskas neērtības patērētājam, ņemot vērā preces veidu un nolūku, kādam patērētājs to pieprasījis.
 (5) Patērētājs ir tiesīgs pieprasīt, lai pārdevējs vai pakalpojuma sniedzējs samērīgi samazina preces cenu vai atceļ līgumu un atmaksā par preci samaksāto naudas summu, ja:
 1) pārdevējs vai pakalpojuma sniedzējs saprātīgā termiņā nav novērsis preces neatbilstību līguma noteikumiem vai nav preci apmainījis pret līguma noteikumiem atbilstošu, nav ievērojis šā panta devīto un vienpadsmito daļu vai atteicies to darīt;
 2) neraugoties uz pārdevēja centieniem, preču atbilstība joprojām nav nodrošināta;

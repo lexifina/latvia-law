@@ -19,4 +19,5 @@ Likumā iekļautas tiesību normas, kas izriet no:
 18) Eiropas Parlamenta un Padomes 2020. gada 25. novembra direktīvas (ES) 2020/1828 par pārstāvības prasībām patērētāju kolektīvo interešu aizsardzībai un ar ko atceļ direktīvu 2009/22/EK.;
 19) Eiropas Parlamenta un Padomes 2024. gada 28. februāra direktīvas (ES) 2024/825, ar ko attiecībā uz patērētāju dalības veicināšanu zaļās pārkārtošanās procesā, nodrošinot viņiem labāku aizsardzību pret negodīgu praksi un viņu labāku informētību, groza direktīvas 2005/29/EK un 2011/83/ES;
 20) Eiropas Parlamenta un Padomes 2023. gada 18. oktobra direktīvas (ES) 2023/2225 par patērētāju kredītlīgumiem un ar ko atceļ direktīvu 2008/48/EK;
-21) Eiropas Parlamenta un Padomes 2023. gada 22. novembra direktīvas (ES) 2023/2673, ar ko groza direktīvu 2011/83/ES attiecībā uz attālināti noslēgtiem finanšu pakalpojumu līgumiem un atceļ direktīvu 2002/65/EK.
+21) Eiropas Parlamenta un Padomes 2023. gada 22. novembra direktīvas (ES) 2023/2673, ar ko groza direktīvu 2011/83/ES attiecībā uz attālināti noslēgtiem finanšu pakalpojumu līgumiem un atceļ direktīvu 2002/65/EK;
+22) Eiropas Parlamenta un Padomes 2024. gada 13. jūnija direktīvas (ES) 2024/1799 par kopīgiem noteikumiem preču remontēšanas veicināšanai un ar ko groza regulu (ES) 2017/2394 un direktīvas (ES) 2019/771 un (ES) 2020/1828.
