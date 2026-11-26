@@ -6,21 +6,24 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Latvia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-25 05:19 UTC, EU Publications Office (Latvia's measures transposing EU directives): 1 addresses read; 0 added, 0 changed, 0 removed; no change; 6 not published, 0 of them with no reason.
+**Last check:** 2026-11-26 05:20 UTC, EU Publications Office (Latvia's measures transposing EU directives): 1 addresses read; 0 added, 0 changed, 0 removed; no change; 6 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [likumi.lv (Latvijas Vēstnesis): consolidated laws](https://likumi.lv/ta/veids/saeima/likumi) | `likumi/`, `satversme/` | daily | 2026-11-25 05:10 UTC | changes found | watched: likumi.lv has no open data, API or ELI list, and robots.txt closes its RSS feeds; lists only, no texts. This repository read the texts on likumi.lv (earlier through Internet Archive captures, see REPRODUCE.md) |
-| [data.gov.lv: the Saeima's sittings (votes, agendas, debates)](https://data.gov.lv/dati/lv/dataset/saeimas-sedes) | `saeima/` | daily | 2026-11-25 05:19 UTC | no change | watched: parliamentary records, not law text; CC0 |
-| [EU Publications Office (Latvia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-25 05:19 UTC | no change | watched: records of the measures only; their texts are on likumi.lv |
+| [likumi.lv (Latvijas Vēstnesis): consolidated laws](https://likumi.lv/ta/veids/saeima/likumi) | `likumi/`, `satversme/` | daily | 2026-11-26 05:10 UTC | no change | watched: likumi.lv has no open data, API or ELI list, and robots.txt closes its RSS feeds; lists only, no texts. This repository read the texts on likumi.lv (earlier through Internet Archive captures, see REPRODUCE.md) |
+| [data.gov.lv: the Saeima's sittings (votes, agendas, debates)](https://data.gov.lv/dati/lv/dataset/saeimas-sedes) | `saeima/` | daily | 2026-11-26 05:19 UTC | no change | watched: parliamentary records, not law text; CC0 |
+| [EU Publications Office (Latvia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-26 05:20 UTC | no change | watched: records of the measures only; their texts are on likumi.lv |
 | [Latvijas Vēstnesis, the official gazette (normative acts 1993-1998)](https://www.vestnesis.lv) | `vestnesis/` | — | — | — | closed source: the normative acts published 1993-1998, a finished set: past issues do not change; new laws' publication is followed through likumi.lv (same publisher) |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:19](checks/2026-11.md#lv-eu-nim-20261126t051954z) | eu-nim | 1 | 0 | 0 | 0 | 6 (0) | no change `publish-lag` | — |
+| [2026-11-26 05:10](checks/2026-11.md#lv-saeima-data-20261126t051030z) | saeima-data | 401 | 0 | 0 | 0 | 0 (0) | no change | — |
+| [2026-11-26 05:02](checks/2026-11.md#lv-likumi-20261126t050206z) | likumi | 301 | 0 | 0 | 0 | 8 (0) | no change | — |
 | [2026-11-25 05:19](checks/2026-11.md#lv-eu-nim-20261125t051938z) | eu-nim | 1 | 0 | 0 | 0 | 6 (0) | no change | — |
 | [2026-11-25 05:10](checks/2026-11.md#lv-saeima-data-20261125t051041z) | saeima-data | 401 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 05:01](checks/2026-11.md#lv-likumi-20261125t050133z) | likumi | 305 | 0 | 0 | 0 | 7 (0) | changes found `verify-differ` | [5](https://github.com/lexifina/latvia-law/compare/b6b26a42565e...4fa6247cfaf5) |
