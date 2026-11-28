@@ -1,35 +1,52 @@
 {
- "generated": "2026-11-28T05:16:32Z",
+ "generated": "2026-11-28T09:01:52Z",
  "latest": {
   "eu-nim|latvia/national/acts": {
-   "attempt": 1,
+   "attempt": 4,
    "audit": null,
-   "census": {},
-   "check_id": "lv-eu-nim-20261128T050955Z",
+   "census": {
+    "current": 5827,
+    "gone": 0,
+    "held": 5827,
+    "newest_at_source": "202608599",
+    "newest_in_repo": "202608317",
+    "pending": 0,
+    "records_as_of": "2026-11-17",
+    "repo": 5827,
+    "source_in_scope": 5833
+   },
+   "check_id": "lv-eu-nim-20261128T090133Z",
    "commits": null,
    "corpus": "latvia/national/acts",
-   "error": "SourceError: https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0APREFIX+cmr%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%2Fcmr%23%3E%0ASELECT+%3Fw+%3Fid+%3Fnotified+%3Fmodified+%3Fforce+%3Fdoc+WHERE+%7B%0A",
-   "finished": "2026-11-28T05:16:31Z",
-   "flags": [],
-   "gap": 0,
-   "note": null,
-   "outcome": "source-error",
+   "error": null,
+   "finished": "2026-11-28T09:01:52Z",
+   "flags": [
+    {
+     "detail": "2 items new or changed at the source over 7 days ago are not here yet",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 6,
+   "note": "records here as of 2026-11-17 (the EU's record of each measure; its text is on likumi.lv)",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 4,
+   "requests": 1,
    "runner": "lawwatch latvia (b885292787)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "202608599"
+    ],
     "removed": []
    },
-   "snapshot": null,
+   "snapshot": "2026-11-27",
    "source": "eu-nim",
-   "started": "2026-11-28T05:09:55Z",
+   "started": "2026-11-28T09:01:33Z",
    "unexplained": 0,
    "verify": null
   },

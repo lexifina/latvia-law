@@ -21,7 +21,8 @@ Kā global-law mēra katras valsts aktualitāti: [global-law FRESHNESS.md](https
 
 ### ES Publikāciju birojs (Latvijas pasākumi ES direktīvu pārņemšanai) · `latvia/national/acts`
 
-- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-27 05:10 UTC**.
-- Nepublicēti: 0 (—); bez iemesla: 0.
+- Oficiālais avots pēdējoreiz nolasīts un katrs šeit esošais akts ar to salīdzināts: **2026-11-28 09:01 UTC**.
+- Šeit esošie akti: 5 827; aktuāli avotā: 5 827; avotā grozīti kopš šeit esošās redakcijas: 0; avotā vairs nav: 0.
+- Nepublicēti: 6 (aizturēts pārbaudē: 3, jauns avotā, šeit vēl nav publicēts: 3); bez iemesla: 0.
 
 Sīkāk: [monitoring/](monitoring/README.md). Programmām: [data/checks/latest.json](data/checks/latest.json).

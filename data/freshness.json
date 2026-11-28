@@ -2,7 +2,7 @@
  "schema": "lexifina-trail-freshness/1",
  "as_of": "2026-11-28",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-27",
+ "checked_against_official_source": "2026-11-28",
  "totals": {
   "acts": 9611,
   "by_status": {
@@ -31,10 +31,9 @@
   {
    "source": "eu-nim",
    "name": "EU Publications Office (Latvia's measures transposing EU directives)",
-   "state": "unavailable",
-   "last_successful_check": "2026-11-27",
-   "last_successful_contact": "2026-11-27",
-   "unavailable_since": "2026-11-28"
+   "state": "available",
+   "last_successful_check": "2026-11-28",
+   "last_successful_contact": "2026-11-28"
   }
  ]
 }

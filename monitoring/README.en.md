@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Latvia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-28 05:16 UTC, EU Publications Office (Latvia's measures transposing EU directives): 4 addresses read; 0 added, 0 changed, 0 removed; the source did not answer; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 09:01 UTC, EU Publications Office (Latvia's measures transposing EU directives): 1 addresses read; 0 added, 1 changed, 0 removed; changes found; 6 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
@@ -14,13 +14,16 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | --- | --- | --- | --- | --- | --- |
 | [likumi.lv (Latvijas Vēstnesis): consolidated laws](https://likumi.lv/ta/veids/saeima/likumi) | `likumi/`, `satversme/` | daily | 2026-11-28 05:09 UTC | changes found | watched: likumi.lv has no open data, API or ELI list, and robots.txt closes its RSS feeds; lists only, no texts. This repository read the texts on likumi.lv (earlier through Internet Archive captures, see REPRODUCE.md) |
 | [data.gov.lv: the Saeima's sittings (votes, agendas, debates)](https://data.gov.lv/dati/lv/dataset/saeimas-sedes) | `saeima/` | daily | 2026-11-28 05:09 UTC | no change | watched: parliamentary records, not law text; CC0 |
-| [EU Publications Office (Latvia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-27 05:10 UTC | the source did not answer | watched: records of the measures only; their texts are on likumi.lv |
+| [EU Publications Office (Latvia's measures transposing EU directives)](https://publications.europa.eu/webapi/rdf/sparql) | `eu-nim/` | daily | 2026-11-28 09:01 UTC | changes found | watched: records of the measures only; their texts are on likumi.lv |
 | [Latvijas Vēstnesis, the official gazette (normative acts 1993-1998)](https://www.vestnesis.lv) | `vestnesis/` | — | — | — | closed source: the normative acts published 1993-1998, a finished set: past issues do not change; new laws' publication is followed through likumi.lv (same publisher) |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 09:01](checks/2026-11.md#lv-eu-nim-20261128t090133z) | eu-nim | 1 | 0 | 1 | 0 | 6 (0) | changes found `publish-lag` | — |
+| [2026-11-28 08:01](checks/2026-11.md#lv-eu-nim-20261128t080133z) | eu-nim | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-28 07:01](checks/2026-11.md#lv-eu-nim-20261128t070133z) | eu-nim | 0 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-28 05:09](checks/2026-11.md#lv-eu-nim-20261128t050955z) | eu-nim | 4 | 0 | 0 | 0 | 0 (0) | the source did not answer | — |
 | [2026-11-28 05:09](checks/2026-11.md#lv-saeima-data-20261128t050949z) | saeima-data | 1 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-28 05:01](checks/2026-11.md#lv-likumi-20261128t050135z) | likumi | 302 | 0 | 1 | 0 | 8 (0) | changes found `verify-differ` | [2](https://github.com/lexifina/latvia-law/compare/9bbb0f3fe3ff...ab2c730080a5) |

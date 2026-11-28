@@ -21,7 +21,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### EU Publications Office (Latvia's measures transposing EU directives) · `latvia/national/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:10 UTC**.
-- Not published: 0 (—); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-28 09:01 UTC**.
+- Acts held here: 5 827; current at the source: 5 827; changed at the source since the version held here: 0; no longer at the source: 0.
+- Not published: 6 (held by a check: 3, new at the source, not published here yet: 3); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
